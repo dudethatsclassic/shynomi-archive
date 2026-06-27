@@ -1,0 +1,12 @@
+Tool - 2007.01.24
+Sydney Entertainment Centre - Sydney, Australia
+version 2
+
+media type: FLAC
+source: SP-CMC-2 > 3-wire battery box > iRiver H120 > WAV > FLAC
+taper: auslive
+tradestatus: can trade
+
+disc 1 - 1 track - 111:27
+
+From taper: The venue is really bassy, so even with a battery module, it wasn't quite coping, but I think this has to do with the mic's limits. Listen to it with good speakers and it'll trivialise that last sentence. Master released to auroboros.

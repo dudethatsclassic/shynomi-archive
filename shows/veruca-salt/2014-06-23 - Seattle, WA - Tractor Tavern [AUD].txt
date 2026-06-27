@@ -1,0 +1,67 @@
+VERUCA SALT
+June 23, 2014
+Tractor Tavern
+Seattle, WA
+
+SOURCE:
+Church Audio CA-11 > Church Audio STC-9000 > Edirol R-09
+
+TRANSFER:
+Edirol R-09 > USB > Adobe Audition 3.0 > CD Wave 1.98 > Trader's Little Helper 2.7.0
+
+GENERATION:
+WAV(M) [24bit/48kHz] > remaster > WAV [16bit/44.1kHz] > FLAC [Level 8]
+
+LENGTH:
+91:21
+
+TRACKS:
+01. intro
+02. Get Back
+03. All Hail Me
+04. It's Holy
+05. Straight
+06. Forsythia
+07. Spiderman '79
+08. With David Bowie
+09. Don't Make Me Prove It
+10. I'm Taking Europe With Me
+11. Venus Man Trap
+12. Twinstar
+13. The Museum Of Broken Relationships
+14. Hey Little Ghost
+15. Seether
+16. Shimmer Like A Girl
+17. 25
+18. Shutterbug
+19. Volcano Girls
+20. Victrola
+21. Earthcrosser
+22. Wolf
+
+MD5 FINGERPRINTS:
+b79055e13897aea955633effc1e0a9cb *VerucaSalt_2014-06-23_t01.flac
+1c7c2e32af38b060f670e54ed21754a5 *VerucaSalt_2014-06-23_t02.flac
+a43ba80b1643affbc0eb15afb560ffe5 *VerucaSalt_2014-06-23_t03.flac
+19423c28c116aeef66fb4747db2165a3 *VerucaSalt_2014-06-23_t04.flac
+c7017053434a76b46261f99e7c8b5c8d *VerucaSalt_2014-06-23_t05.flac
+199daef438427b48e31569b26bb19893 *VerucaSalt_2014-06-23_t06.flac
+fcd9f6296c66fc12dc705c536e83d99d *VerucaSalt_2014-06-23_t07.flac
+4a3cfc85f45f3aee6be4fafa73596dba *VerucaSalt_2014-06-23_t08.flac
+4957ad142037c40e6b026756ed8691c8 *VerucaSalt_2014-06-23_t09.flac
+7ec9ff06d3de16f30feb929fae938744 *VerucaSalt_2014-06-23_t10.flac
+d5962e10c3b83cd67b0b68f9ae052cd9 *VerucaSalt_2014-06-23_t11.flac
+6ae636cb299ff032b478d9785506c17f *VerucaSalt_2014-06-23_t12.flac
+201fcc74dbe5c8ee387e07d082074f06 *VerucaSalt_2014-06-23_t13.flac
+38412c67c8f48bfb7d5fecb94f4d3995 *VerucaSalt_2014-06-23_t14.flac
+b8f6f167117d1348ae455ab28f7484c0 *VerucaSalt_2014-06-23_t15.flac
+f5bc180f7e8516f3bfd37b83a480fb3d *VerucaSalt_2014-06-23_t16.flac
+10cb67f648ecc06c929c8c2f214c9465 *VerucaSalt_2014-06-23_t17.flac
+595b1cd583a4a418e05f83de60f850a6 *VerucaSalt_2014-06-23_t18.flac
+2f0e7053b9e92d9b9425231aaf0f0a8b *VerucaSalt_2014-06-23_t19.flac
+6aaf444e67e3ffa342b3febeae2b6163 *VerucaSalt_2014-06-23_t20.flac
+9313145ccc47fa118c9603d7f664fd6c *VerucaSalt_2014-06-23_t21.flac
+2cab4884f8e232289e07a7ea6609be60 *VerucaSalt_2014-06-23_t22.flac
+
+RECORDED, TRANSFERRED, AND REMASTERED BY:
+Kris Sproul

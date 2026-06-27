@@ -1,0 +1,85 @@
+TOOL
+====
+February 8, 2012
+Gwinnett Center Arena
+Duluth, Ga
+
+Audience Recording > DVD9 > Demux > Audio matrix & Sync > Reauthoring > DVD9
+
+VIDEO:
+720 x 480, 29.97 fps, 9500 kbps avg, MPEG2
+PCM 1536 kb/s
+AC3 192 kb/s
+
+Length 1:41:42
+
+*Filmer: Shaggy28*
+
+TRACKS
+------
+01. Hooker With a Penis
+02. Jambi
+03. (-) Ions
+04. Stinkfist
+05. Sober
+06. Pushit
+07. Schism
+08. Intension
+09. Forty-Six & 2
+10. Lateralus
+11. Ænema
+
+--------------
+ORIGINAL NOTES
+--------------
+Show was awesome, last night of the tour and maynard was really entertaining. 
+I've been meaning to get this up for a very long time, finally happened. 
+This is the DVD version of the Blu Ray I uploaded the other day. 
+Please do not convert this to lossy quality formats and share. 
+This includes youtube (at least until they have a more lossless version of uploading.) 
+
+Taped and shared by: Shaggy28
+
+Please do not sell this recording, also please share or give away as many free copies as you'd like.
+-----------------------------
+
+VIDEO/Audio SOURCE & LINEAGE
+
+Filmer: Shaggy28
+Audio: Camera Audio 256 kbps > Sony Architect Pro > DVD
+Camera: Panasonic TM900
+
+Location: back, a little to the right
+
+Lineage: Panasonic TM900 @1920x1080P (AVCHD) 60 fps > SD Card > 
+	 TMPGENC Video Mastering Works MPEG2 > DVD Architect 5 > VIDEO_TS > You
+-------------------------------------------------------------------------------
+
+=================
+***2023 NOTES ***
+=================
+
+Took this very nice recording of this gig and decided to give it a try to the audio.
+For this, I create a mix of the original DVD audio and then mixed with the Sony PCM-M1 version. Very good result.
+I left the original audio stream as secondary option, which is selectable by remote control or audio options in your preferred computer player.
+
+VIDEO: Panasonic TM900
+AUDIO: Panasonic TM900 + Sony PCM-M1 (EQ and levels adjustments)
+
+[Source: Sennheiser earbuds > Sony PCM-M1 (@16/48)
+transfer: DAT(M) > Tascam DA-20 MK II > S/PDIF > M Audio Audiophile 192 > WAV > 16/44.1 > FLAC
+EQ: special thanks to Frederik!]
+taper: geordy
+location: right side of floor, half way back
+-----------------------------------------------------------------------------------------------
+No disprespect at all to the original tapers and creators of the original DVD. 
+I just wanted to obtain the best possible from the show with the best of the recordings available.
+
+Thanks to the tapers (Shaggy28 & geordy) for taping and sharing your recordings.
+-------------------------------------------------------
+
+Audio matrix, sync & reauthoring by Alvarojam
+December 30, 2023
+
+Enjoy!
+

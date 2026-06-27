@@ -1,0 +1,13 @@
+meat puppets
+umbc fieldhouse, baltimore md
+november 25, 1995 
+
+a 'billydee' DAT Soundboard Master
+
+recording info:
+soundboard > DAT Master @ 16bit/48kHz
+
+processing:
+DAT Master > tascam da20 > waveterminal > adobe audition > cdwav > tlh flac 8
+
+these are 16bit/48kHz flac files

@@ -1,0 +1,31 @@
+The Flaming Lips
+
+04-26-00
+Chicago, IL
+Cabaret Metro
+
+1. Race for the Prize
+2. Riding to Work in the Year 2025
+3. 35,000 Feet of Despair
+4. Feeling Yourself Disintegrate
+5. Sleeping on the Roof
+6. She Don't Use Jelly
+7. Slow Nerve Action
+8. Somewhere Over the Rainbow
+9. Lightning Strikes the Postman
+10. Waitin' For a Superman
+11. What Is the Light?
+12. The Observer
+13. When You Smile
+encore:
+14. The Spark That Bled
+
+This is from one of the Lips "Headphone Concerts" where, in addition to the PA, they did a stereo FM radio broadcast & passed out walkmans for people to listen to on headphones.  This show was mixed (in soundforge) from 2 different sources:
+
+FM broadcast> Sharp MD-MS702 minidisc > Echo Mia Soundcard > Soundforge
+
+Sony ECM-MS907 stereo mic > Sharp MD-MS702 minidisc > Echo Mia Soundcard > Soundforge
+
+Recorded, mixed & SHN by Alien Rendel.
+
+track gaps from previous version have been fixed

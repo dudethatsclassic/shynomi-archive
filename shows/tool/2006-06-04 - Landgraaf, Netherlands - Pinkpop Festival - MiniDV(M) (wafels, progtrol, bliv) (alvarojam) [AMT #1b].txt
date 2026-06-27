@@ -1,0 +1,45 @@
+Tool
+====
+June 4, 2006
+Pinkpop Festival - Megaland, Landgraaf, Netherlands
+
+Audience recording > MiniDV > DVD
+
+TRACKS
+------
+
+Rosetta Stoned
+Stinkfist
+The Pot
+Forty Six & 2
+Jambi
+Schism
+Sober
+Lateralus
+Vicarious
+Ænema
+-----
+
+VIDEO
+-----
+Mini DV --- Panasonic NV-GS17
+Taper: Wafels
+
+AUDIO
+-----
+Mix of 2 sources:
+
+• Sony ECM-719 => Sony MD MZ-R700 => Wavelab 3.0 => Flac Frontend (Level 8)
+  Taper: PROGTROL
+
+• Core Sound Binaural > Sony MZ-N10
+  Taper: bliv (bliv.speedlinq.nl)
+
+-The first few seconds of Ænema are missing on both audio recordings, so I made an edit to fix this. 
+-Audio from video was used to patch some missing sections between songs.
+-Video section missing during Lateralus patched with video from the same show (no reencoding).
+
+All the credit goes to the tapers. Thanks a lot!
+------------------------------------------------
+Audio mix, remaster & authoring by Alvarojam
+March 9, 2025

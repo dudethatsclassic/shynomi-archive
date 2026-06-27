@@ -1,0 +1,22 @@
+DEATH CAB FOR CUTIE
+INDIO,CA:EMPIRE POLO FIELD 
+4/26/08 
+
+"Coachella Valley Music & Arts Festival" 
+
+DSM6 -> PACLC -> D7 
+D7 -> 7pin Coaxial -> CDRW700 -> EAC -> Soundforge -> FLAC Frontend Level 8 
+
+
+01. -intro-
+02. Bixby Canyon Bridge
+03. The New Year
+04. Why Youd Want To Live Here 
+05. Photobooth
+06. The Remainder
+07. Grapevine Fires
+08. Soul Meets Body
+09. I Will Possess Your Heart
+10. Your Heart Is An Empty Room
+11. We Laugh Indoors
+12. Sound Of Settling

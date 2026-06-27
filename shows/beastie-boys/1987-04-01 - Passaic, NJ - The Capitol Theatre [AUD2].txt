@@ -1,0 +1,56 @@
+BEASTIE BOYS
+April 1, 1987
+Capitol Theatre
+Passaic, NJ
+
+SETLIST (63:21)
+----------------- 
+01) intro
+02) Slow And Low
+03) The New Style
+04) She's Crafty
+05) Time To Get Ill
+06) She's On It
+07) Paul Revere
+08) Rhymin' And Stealin'
+09) Posse In Effect
+10) Slow Ride
+11) Hold It Now Hit It
+12) No Sleep Till Brooklyn
+13) Brass Monkey
+14) Fight For Your Right (To Party)
+15) She's Crafty
+16) Rhymin' And Stealin'
+
+GENERATION
+-----------------
+ANA(1) > WAV [48kHz/24bit] > WAV [44.1kHz/16bit] > FLAC [Level 8]
+
+TRANSFER
+-----------------
+Nakamichi DR-8 > LynxONE > Sound Forge 7.0 > CD Wave 1.6.1 > FLAC frontend 1.7.1
+
+MD5 FINGERPRINTS
+-----------------
+a74111d4d2ac4b284b32369cc7cc3017 *beastieboys1987-04-01t01.flac
+6b578fd69ba20d271eab7456f41315d4 *beastieboys1987-04-01t02.flac
+6c9824ac8caca8d500697a683b94c339 *beastieboys1987-04-01t03.flac
+cb7c36a9cfee2f53fc1fa008822f0429 *beastieboys1987-04-01t04.flac
+3d9133ecfcf563c2c956ab03071c86a8 *beastieboys1987-04-01t05.flac
+e511e43e878865c4f06022a79436cfcf *beastieboys1987-04-01t06.flac
+3962edfc2f8023802027d85d8d18a829 *beastieboys1987-04-01t07.flac
+8488321dbd7014d6e540de1b9215f230 *beastieboys1987-04-01t08.flac
+75a131c504a5d0cdf31768776f638cc2 *beastieboys1987-04-01t09.flac
+a3c1c6428e89efd8fef57bc3c1c5aa8f *beastieboys1987-04-01t10.flac
+24f2851bb1bc039892535c7a4f1600b5 *beastieboys1987-04-01t11.flac
+fbc06217d2fd7b60afa6e03f17796c67 *beastieboys1987-04-01t12.flac
+e21e400927c50b11458972ef87b9e069 *beastieboys1987-04-01t13.flac
+0a6aab867a6fda03e5ba20088f8894e3 *beastieboys1987-04-01t14.flac
+b275e4f2e506e0496fab1d8bb21904b2 *beastieboys1987-04-01t15.flac
+5e5faef3d3d3349bb4a5e3a91aa06842 *beastieboys1987-04-01t16.flac
+
+
+Transferred by Mike Ziegler.
+PLEASE DO NOT ENCODE TO MP3 OR SELL!
+
+If you or anyone you know taped Nirvana, please let me know! mike@mikeziegler.com

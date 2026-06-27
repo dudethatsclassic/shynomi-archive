@@ -1,0 +1,14 @@
+Dave Brubeck Quartet
+03/10/2002 I, II
+Sanders Theatre - Cambridge, MA
+
+
+Schoeps ccm4(ortf)->MP-2->D8 @48k;
+R500 (m)->ZA2->Soundforge 4.5->CDWAV->SHN (original DAT > SHN 07/29/2002) > FLAC (SHN > FLAC 05/23/2012)
+
+A 48K ARCHIVE SHN SET WAS MADE.
+
+
+
+Disk 1 = Set 1
+Disk 2 = Set 2

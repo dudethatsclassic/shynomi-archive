@@ -1,0 +1,25 @@
+The Breeders
+Coachella Valley Music and Arts Festival
+Indio, California
+15 April 2023
+
+Lineage: yt-dlp > ffmpeg (trim)
+Video: VP9 1920x1080 3288 Kbps 30 fps
+Audio: AAC 128 Kbps 44.1 kHz stereo
+
+Setlist
+01 No Aloha
+02 Wait in the Car
+03 Saints (The Linda Lindas on backing vocals)
+04 Invisible Man
+05 Doe
+06 Hag
+07 Iris
+08 When I Was a Painter
+09 Happiness Is a Warm Gun (The Beatles cover)
+10 New Year
+11 Cannonball
+12 Do You Love Me Now?
+13 Drivin' on 9 (Ed’s Redeeming Qualities cover)
+14 Divine Hammer
+15 Gigantic (Pixies cover)

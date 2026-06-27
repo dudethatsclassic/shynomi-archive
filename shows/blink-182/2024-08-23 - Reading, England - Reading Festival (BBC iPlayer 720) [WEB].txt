@@ -1,0 +1,36 @@
+BLINK-182
+Reading Festival
+Little John's Farm, Reading, England
+2024-08-23
+"World Tour 2023/2024"
+
+Lineage: BBC iPlayer webstream > yt-dlp > ffmpeg > .mp4
+Length: 1 h 28 min
+Audio: Stereo, 48 kHz, 192 kb/s, AAC LC
+Video: 1280x720, 30 fps, 2502 kb/s, AVC
+
+Setlist:
+Feeling This
+The Rock Show
+Man Overboard
+Aliens Exist
+DANCE WITH ME
+Bored to Death
+EDGING
+Up All Night
+MORE THAN YOU KNOW
+Stay Together for the Kids
+Not Now
+CAN'T GO BACK
+I Miss You
+Down
+When Your Heart Stops Beating (+44 cover) (Snippet)
+There Is (Box Car Racer cover) (Snippet)
+FUCK FACE
+ANTHEM PART 3
+Always
+What's My Age Again?
+First Date
+All the Small Things
+Dammit
+ONE MORE TIME

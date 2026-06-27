@@ -1,0 +1,16 @@
+Tool - 2002.04.24
+Entertainment Centre - Sydney, Australia
+version 2 
+
+media type: FLAC 
+source: Sony ECM-MS907 > Sony MZ-R700 > MD Master > 1st Gen CDR > FLAC
+taper: unknown 
+trade status: can trade
+
+disc 1 - 10 tracks - 61:49
+disc 2 - 6 tracks - 62:06
+
+notes: none
+
+
+

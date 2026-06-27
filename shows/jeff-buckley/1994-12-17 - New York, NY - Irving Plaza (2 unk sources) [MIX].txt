@@ -1,0 +1,48 @@
+Jeff Buckley
+17 December 1994
+Irving Plaza, New York City
+
+AUD (2 sources) > ?Gens > ?really bad editing and DSP work? > Trade CDr > EAC > FLAC
+
+Set List:
+---------
+01 Dream Brother
+02 Grace
+03 So Real (cut)
+04 Last Goodbye
+05 What Will You Say
+06 Chocolate -> Mojo Pin
+07 //Eternal Life (cuts in)
+08 //Lilac Wine (cuts in)
+09 Lover, You Should've Come Over
+10 //Vancouver -> Kanga-Roo (Missing first few notes)
+
+TT: 1:16:50
+
+Tracks 01-08 (Bad tape source 1, edited with NR)
+Tracks 08-10 (Slightly better tape source 2, edited with NR)
+
+The Fall 1994 tour ran for two months and a little over 50 dates starting at CBGBs in New York City, and ending 30-odd blocks north at the slightly swankier Irving Plaza in Union Square, which I'm glad to see is still very much in business. I saw a lot of shows there in the 90s, but not this one. This would've been my third JB show, but I opted to see Jules Shear & Paula Cole at The Bottom Line that night instead, having seen Jeff already at that point. I know I'm not the only fan who figured Jeff would be around forever.
+
+Irving Plaza is a great venue. This is NOT a great recording. If you're looking for sonic perfection, then I'd suggest you move on to the next upload! But in the interests of completion, I'm sharing this frankenstein's monster of a show. I know eclect got this from Buckley mega-fan Mr A in Norway. I'm not sure which did the assembly, but they did the best they could with what they had, and this is the result.
+ 
+
+From eclect's Notes
+-------------------
+Complete show created from two inferior sources, both edited and with Noise Reduction before their use here. Applause is occasionally cut short, and some tracks miss the first few notes.
+[There's] weird garbling at the beginning [that] sounds like NR, further confirmed by the different levels of tape noise found when comparing tracks. Rolloff in both sources at 15k strongly suggests a lossy heritage in source. (probably MD/MP3) 
+--------------------
+
+Contemporaneous reviews here: https://notwithyoubutofyou.blogspot.com/2019/02/finding-his-way-in-city.html 
+and here: https://notwithyoubutofyou.blogspot.com/2020/12/buckleys-exotic-tasty-brew.html
+
+This was originally uploaded to Dime in 2005 by Buckley super-fan eclect, and was still active when I did my first Buckley flood in 2009, it has long since fallen off the tracker. Apart from some minor housekeeping and tagging the files, I present it to you as originally offered. 
+
+Files verified, tagged, and renamed to etree conventions; new checksums generated. 
+Text file updated, compiled & copy-edited by lovesick alien 2024-09-20
+--------------------------------------------------------------------------------
+Trade Freely. Never Sell. 
+Support the Artist: Purchase ALL authorised releases. 
+Support the Trading Community: Never Encode to lossy formats.
+--------------------------------------------------------------------------------
+

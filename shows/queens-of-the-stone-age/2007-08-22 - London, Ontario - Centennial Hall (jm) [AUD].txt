@@ -1,0 +1,36 @@
+Queens of the Stone Age
+August 22nd, 2007
+Centennial Hall
+London, ON, CA
+
+Taper: JM
+Source: Built-in>TCS-353V
+Transfer: ANA-M>Sony TC-K630ES (three-head deck)>Gold-plated 1/4" to 1/8" cable>R-09 (24/48, set to unity gain)
+Editing: Audacity (trimmed/crossfaded tape flip), CDWave (splits), r8brain (downsampled/dithered on "very high" quality setting), Trader's Little Helper (encode to FLAC, align on sector boundaries)
+
+01. Monsters in the Parasol
+02. Burn the Witch
+03. Misfit Love
+04. Into the Hollow
+05. In My Head
+06. River in the Road
+07. Little Sister
+08. 3's and 7's
+09. You Would Know
+10. Go With the Flow
+11. //Do It Again
+12. I Think I Lost My Headache
+13. Era Vulgaris
+14. Sick, Sick, Sick
+15. No One Knows
+encore:
+16. Song for the Dead
+
+trt 68:33
+
+Notes:
+Taped from the pit. Rough listen, but the only known source for this show.
+
+Thanks to JM for the tapes
+Don't sell, etc
+-rhinowing

@@ -31,7 +31,8 @@ const ARTIST_DATA = {
       "venue": "Private House Party",
       "notes": "",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1955-06-26 - Carmel, CA - Private House Party [AUD].txt"
     },
     {
       "year": 1962,
@@ -70,7 +71,8 @@ const ARTIST_DATA = {
       "venue": "Grand Casino",
       "notes": "",
       "version": "FM",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1963-09-28 - Basel, Switzerland - Grand Casino [FM].txt"
     },
     {
       "year": 1964,
@@ -83,7 +85,8 @@ const ARTIST_DATA = {
       "venue": "The White House",
       "notes": "",
       "version": "SBD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1964-04-14 - Washington, D.C. - White House [SBD].txt"
     },
     {
       "year": 1964,
@@ -96,7 +99,8 @@ const ARTIST_DATA = {
       "venue": "BBC Studios *Jazz 625",
       "notes": "",
       "version": "TV",
-      "format": "DVD"
+      "format": "DVD",
+      "textFile": "1964-11-28 - London, UK - BBC Studios - Jazz 625 [DVD].txt"
     },
     {
       "year": 1990,
@@ -109,7 +113,8 @@ const ARTIST_DATA = {
       "venue": "Boulder Theatre",
       "notes": "",
       "version": "SBD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1990-08-01 - Boulder, CO - Boulder Theatre [SBD].txt"
     },
     {
       "year": 1995,
@@ -122,7 +127,8 @@ const ARTIST_DATA = {
       "venue": "Konserthaus",
       "notes": "",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1995-05-15 - Vienna, Austria - Konserthaus [AUD].txt"
     },
     {
       "year": 1999,
@@ -135,7 +141,8 @@ const ARTIST_DATA = {
       "venue": "Forum",
       "notes": "",
       "version": "SBD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1999-10-22 - Leverkusen, Germany - Forum [SBD].txt"
     },
     {
       "year": 2002,
@@ -148,7 +155,8 @@ const ARTIST_DATA = {
       "venue": "Berkeley Performance Center",
       "notes": "",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "2002-03-09 - Boston, MA - Berkeley Performance Center [AUD].txt"
     },
     {
       "year": 2004,
@@ -161,7 +169,8 @@ const ARTIST_DATA = {
       "venue": "Planting Fields Arboretum",
       "notes": "",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "2004-08-28 - Oyster Bay, NY - Planting Fields Arboretum [AUD].txt"
     },
     {
       "year": 2007,
@@ -174,7 +183,8 @@ const ARTIST_DATA = {
       "venue": "Monterey Jazz Festival",
       "notes": "",
       "version": "FM",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "2007-09-23 - Monterey, CA, - Monterey Jazz Festival [FM].txt"
     },
     {
       "year": 2009,
@@ -187,7 +197,8 @@ const ARTIST_DATA = {
       "venue": "SPAC",
       "notes": "",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "2009-06-28 - Saratoga Springs, NY - SPAC [AUD].txt"
     },
     {
       "year": 2010,
@@ -200,7 +211,8 @@ const ARTIST_DATA = {
       "venue": "Sanders Theatre",
       "notes": "",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "2010-02-03 - Cambridge, MA - Sanders Theatre [AUD].txt"
     },
     {
       "year": 2010,
@@ -213,7 +225,8 @@ const ARTIST_DATA = {
       "venue": "Symphony Hall",
       "notes": "",
       "version": "FM",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "2010-06-01 - Boston, MA - Symphony Hall [FM].txt"
     }
   ],
   "misc": []

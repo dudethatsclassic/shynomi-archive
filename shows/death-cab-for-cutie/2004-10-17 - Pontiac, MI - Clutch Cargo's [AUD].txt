@@ -1,0 +1,39 @@
+Death Cab for Cutie
+Clutch Cargo's
+Pontiac, MI
+10-17-2004
+
+Taper: 		RAS (sullen)
+Source: 	Dynamic Audio Binaurals > DA-120F Custom Battery Box 
+        	Bass Roll Off > IRiver HP120 (Mic In)
+Transfer: 	USB 2.0 > Hard Drive
+Editing:	WAV > Adobe Audition 1.5 (Clip Restoration, EQ, Fades)
+		> EAC (Track Splitting) > mkw Audio Compression Tool
+		with seek tables
+
+Disc 1
+
+01. the employment pages
+02. the new year
+03. we laugh indoors
+04. why you'd want to live here
+05. president of what?
+06. title and registration
+07. this temporary life
+08. expo '86
+09. company calls
+10. company calls epilogue
+11. photobooth
+12. movie script ending
+13. bad reputation (f.johnson)
+14. sound of settling
+15. tiny vessels
+16. prove my hypotheses
+
+Disc 2
+
+01. encore break
+02. lightness
+03. we looked like giants
+
+ 

@@ -1,0 +1,42 @@
+JEFF BUCKLEY
+WBCN Memorial Broadcast
+
+Mama Kin
+Boston, MA, USA
+May 30, 1995
+FM
+
+Goody's 2024 Speed/Pitch adjusted Audio Upgrade
+
+Source: 1997 WBCN FM 104.1 Boston rebroadcast > DAT at 48 kHz
+
+Lineage: -DAT clone >.wav via S/PDIF and Dio Midiman 2448 digital soundcard >SoundForge 6.0 >CD Wave >MKW Audio Tool 0.97 Beta 1 >SHN-Decoded to .wav, checksums verified >phasing inverted and commercially released music deleted with CoolEdit Pro 2.0 >FLAC Frontend (level 6, SBE OK) > 
+
+Goody's additional lineage: Audition (New tracks created; Pitch Bender various amounts) > TLH (FLAC Level 8; Align sector boundaries; .ffp) > foobar2000 (tags)
+
+Set List
+--------
+01. Jeff's WBCN Station ID 0:15
+02. Oedipus Intro 0:15
+03. Lover, You Should've Come Over 7:54
+04. So Real 4:25
+05  What Will You Say 6:40
+06. Last Goodbye - 5:34
+07. Oedipus Outro ("Grace" studio version faded) - 0:47
+
+Musicians:
+Jeff Buckley - guitar, vocals
+Michael Tighe - guitar
+Mick Grondahl - bass
+Matt Johnson - drums
+
+
+
+2003/5 Upload notes:
+--------------------
+Notes: 1Re-broadcast of acoustic performance at Mama Kin record store in Boston, May 31, 1995. While editing out commercially released content in preparation for FLAC set it was discovered that channel phasing was incorrect. That has been resolved with this set, making this what should stand as the definitive version of this memorial broadcast in circulation. SHN set prepared May 2003 FLAC set prepared November 2005
+
+Goody's 2024 notes:
+-------------------
+The Mama Kin set ran extremely slow, the pitch was approximately 84 to 97 cents flat. Edits to newly track the Station ID and Oedipus Intro and correct the speed/pitch - September 2024
+

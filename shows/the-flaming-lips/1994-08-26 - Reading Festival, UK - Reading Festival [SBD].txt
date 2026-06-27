@@ -1,0 +1,18 @@
+Flaming Lips
+08-26-1994
+Reading Festival - UK
+
+SDB>?>cdr>EAC>SHN
+SHN conversion using mkw Audio Compression tool 0.97
+EAC and conversion by Phillip Gray (amberphil@cox.net)
+
+*** Do not encode to mp3 ***
+
+Setlist
+
+1. Uncousciously Screaming
+2. Moth In The Incubator
+3. Superhumans
+4. Halloween On The Barbary Coast
+5. Hit Me Like You Did The First Time
+6. She Don't Use Jelly

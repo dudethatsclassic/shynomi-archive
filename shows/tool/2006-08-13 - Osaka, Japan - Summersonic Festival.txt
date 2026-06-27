@@ -1,0 +1,33 @@
+
+TOOL 
+
+
+8/13/2006
+Sonic Stage 
+Makuhari Messe
+Makuhari Thiba Japan
+
+Summer Sonic Festival 2006
+http://www.summersonic.com/06/report/
+
+Location:FOB/DFC  
+Source: DPA4061 > MPS6030 > MZ-RH10(PCM)
+Transfer: MZ-RH10(PCM) > USB2.0 > Sonicstage > Wave > Flac
+
+Taper :selfdistract
+suck@badboy.co.jp
+
+
+setlist
+
+01.Stinkfist 
+02.The Pot 
+03.46+2 
+04.Jambi 
+05.Schism 
+06.Sober 
+07.Lateralus 
+08.Opiate
+09.Vicarious 
+10.Aenima
+

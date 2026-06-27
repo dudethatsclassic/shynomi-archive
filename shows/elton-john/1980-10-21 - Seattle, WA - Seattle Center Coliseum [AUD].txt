@@ -1,0 +1,48 @@
+Artist: Elton John
+Date: 1980-10-21
+Location: Seattle, WA 
+Venue: Seattle Center Coliseum
+Source: Audience 
+Lineage: ANA(M)>WAV [96kHz/24bit]>WAV [44.1kHz/16bit]>FLAC [Level 8]
+Transfer: Nakamichi CR-7A>PreSonus FireStudio Project>Adobe Audition 3.0>Cdwave editor>FLAC frontend 1.7.1
+Taping Gear: Sony Mic>Sony TC-D5
+Taped By: JEMS
+Transferred By: Mike Ziegler
+
+Band Members:
+Elton John - piano, vocals
+James Newton Howard - keyboards
+Richie Zito - guitars
+Tim Renwick - guitars
+Dee Murray - bass
+Nigel Olsson - drums, vocals
+
+Setlist:
+01. Funeral For A Friend/Love Lies Bleeding
+02. Tiny Dancer
+03. Goodbye Yellow Brick Road
+04. All The Young Girls Love Alice
+05. Rocket Man (I Think It's Going To Be A Long, Long Time)
+06. Philadelphia Freedom
+07. Audience
+08. Sorry Seems To Be The Hardest Word
+09. Band Introduction
+10. Saturday Night*
+11. All I Want Is You*
+12. Saturday Night's Alright For Fighting
+13. Harmony
+14. Little Jeannie
+15. Bennie And The Jets
+16. Audience
+17. Imagine
+18. Ego
+19. Have Mercy On The Criminal
+20. Someone Saved My Life Tonight
+21. Your Song
+22. Bite Your Lip (Get Up And Dance)
+* Nigel Olsson solo material w/Nigel on lead vocals
+
+Length: 124:09
+
+Notes:
+JEMS master recording. Here is Elton on his abbreviated 1980 world tour stop in Seattle this night. Even though Elton had a new album out at the time the tour was more of a greatest hits type of deal with only track(the single from 21 at 33) included in the setlist. The Phillies had won the world series this night. Elton announces it to the crowd receiving a lot of boos from the audience here.

@@ -1,0 +1,38 @@
+American Football
+Primavera Sound 2024
+Cupra Stage
+Parc del Fòrum
+Sant Adrià de Besòs
+Barcelona, Spain
+June 1st, 2024
+
+
+Lineage: Live twitch webcast -> streamlink -> ffmpeg (edit) ->.ts
+Video: MPEG4 Video (H264) 1920x1080 16:9 4143 Kbps 25.00 fps
+Audio: AAC 95 Kbps 48.0 KHz stereo
+
+
+Setlist:
+Five Silent Miles
+The Summer Ends
+Honestly?
+For Sure.
+You Know I Should Be Leaving Soon
+But the Regrets Are Killing Me
+I'll See You When We're Both Not So Emotional
+Stay Home
+The One With the Wurlitzer
+Never Meant
+
+
+trt = 54:58
+
+
+Input #0, mpegts, from 'American Football - 2024-06-01 Primavera Sound 2024, Barcelona, Spain [1080p].ts':
+  Duration: 00:54:58.12, start: 1.401000, bitrate: 4238 kb/s
+  Program 1
+    Metadata:
+      service_name    : Service01
+      service_provider: FFmpeg
+  Stream #0:0[0x100]: Video: h264 (High) ([27][0][0][0] / 0x001B), yuv420p(tv, bt709, progressive), 1920x1080 [SAR 1:1 DAR 16:9], 25 fps, 25 tbr, 90k tbn
+  Stream #0:1[0x101]: Audio: aac (LC) ([15][0][0][0] / 0x000F), 48000 Hz, stereo, fltp, 95 kb/s

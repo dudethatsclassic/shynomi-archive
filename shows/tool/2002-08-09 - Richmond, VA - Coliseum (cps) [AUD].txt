@@ -1,0 +1,29 @@
+TOOL
+August 9, 2002
+Coliseum
+Richmond, VA
+
+Source: Core Sound Cardioid > Sony PCM-M1
+Location: Sec. 17L row B
+Taper: CPS
+Lineage: DAT(M) > WAV [48] > WAV [44.1] > FLAC
+Transfer: Tascam DA-20mkII > M-Audio Audiophile 2496 > Sound Forge
+Edits/EQ: none
+
+01 - intro
+02 - Sober
+03 - The Grudge
+04 - Stinkfist
+05 - Forty-Six & 2
+06 - Schism
+07 - Parabol
+08 - Parabola
+09 - Aenema
+10 - intermission
+11 - Disposition
+12 - Reflection
+13 - Triad
+14 - Lateralus
+
+
+Compiled May 2019 by CPS

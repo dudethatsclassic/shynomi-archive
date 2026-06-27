@@ -1,0 +1,37 @@
+Tool
+Footprint Center
+Phoenix, AZ
+February 9, 2024 (Friday)
+support: Elder
+
+*24bit*
+
+Taper: j.mart
+Source: DPA SMK4061 > DPA d:vice MMA-A (+4dB, no HPF) > Apogee Metarecorder (CAF 24/48) > iPhone 13 Pro
+Mastering: Adobe Audition > Izotope Ozone 10 (EQ, exciter, MB compressor, maximizer, WAV 24/48) > TLH (FLAC 8)
+
+Tracklist:
+-----------
+01- intro
+02- Fear Inoculum
+03- Jambi
+04- Lost Keys (Blame Hoffman) / Rosetta Stoned
+05- Pneuma
+06- Sweat
+07- Descending
+08- The Grudge / intermission
+09- Chocolate Chip Trip
+10- Culling Voices
+11- Invincible
+12- Stinkfist
+
+TRT: 02:01:04
+
+Notes: I was in that area of that country and I decided to check them out again on this tour. Unfortunately for me, the setlist was almost identical to the MSG2 show that I attended, except for Stinkfist to close out the show. Still worth it - I think this recording is superior to my MSG2, and Maynard appeared to be in much better spirits tonight. Maynard's Stage Left mic had some issues during the first couple of songs. There were a few screamers behind me and to my right, which I tried to mitigate through spectral cleaning. The party on the right got really drunk and chatty during the quiet parts CCT and CV, but nothing that takes away from the overall quality of the recording (props to Tool's FOH engineer for making them sound amazing in two different arenas!).
+
+#Please pass the info file along as you distribute the show#
+
+-j.mart
+2024/02/11
+
+https://www.toolband.com/

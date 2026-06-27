@@ -1,0 +1,35 @@
+VERUCA SALT
+November 10, 1997
+Super Toad
+Des Moines, IA   
+
+Source: Core Sound Binaural > Sony TCD-D8
+Location: five feet from left PA
+Taper: CPS
+Lineage: DAT(M) > WAV [48] > WAV [44.1] > FLAC
+Transfer: Tascam DA-20mkII > M-Audio Audiophile 2496 > Sound Forge
+Edits/EQ: +3dB, minimized mic noises
+Notes: level ajdustments first song, some phasing
+
+01 - Shimmer Like a Girl
+02 - Don't Make Me Prove It
+03 - Awesome
+04 - With David Bowie
+05 - One Last Time
+06 - Benjamin
+07 - Straight
+08 - Seether
+09 - Spiderman '79
+10 - Venus Man Trap
+11 - Earthcrosser
+12 - Victrola
+13 - Volcano Girls
+14 - encore cheers
+15 - Highway Driving 
+16 - Forsythia
+17 - Shutterbug
+18 - I'm Taking Europe With Me
+
+
+Compiled January 2019 by CPS
+Seeded January 2019 to dimeadozen.org by CPS

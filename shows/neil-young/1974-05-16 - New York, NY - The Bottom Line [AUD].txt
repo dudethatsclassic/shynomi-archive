@@ -1,0 +1,32 @@
+Neil Young 
+The Bottom Line
+New York, NY, USA
+May 16, 1974
+Audience recording
+
+Goody Speed/Pitch-adjusted Remaster
+
+
+Source: Goldfish bootleg - "Neil Young - Bottom Line 1974" 
+
+Goody's additional lineage:
+TLH (WAV) > Audition (Pitch Bender - various; Align and center channels; Adjust levels) >
+TLH (FLAC Level 8; Align sector boundaries; .ffp) > foobar2000 (tags)
+
+
+01 Citizen Kane Junior Blues (Pushed It Over The End) 7:11
+02 Long May You Run 5:08
+03 Greensleeves 3:01
+04 Ambulance Blues 10:30
+05 Helpless 5:43
+06 Revolution Blues 3:51
+07 On The Beach 7:02
+08 Roll Another Number (For The Road) 3;02
+09 Motion Pictures 10:25
+10 Pardon My Heart 4:48
+11 Dance, Dance, Dance 2:49
+Runtime: 63:32
+
+
+A million billion thanks to the brilliant unknown taper of this monumental archive!
+This tuned-up edition first presented to the world in June 2020.

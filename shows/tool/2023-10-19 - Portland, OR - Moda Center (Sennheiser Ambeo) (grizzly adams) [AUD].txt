@@ -1,0 +1,39 @@
+Tool
+October 19th, 2023 (Thursday)
+Moda Center (formerly Rose Garden)
+Portland, Oregon
+
+Recorded by:  Grizzly Adams
+Source:  Sennheiser Ambeo > iPhone > Apogee MetaRecorder
+Transfer:  .WAV > RX9 > Wavepad > flac (8) via TLH
+
+Setlist:  02:11:43
+01 intro
+02 Fear Inoculum
+03 Jambi
+04 The Pot
+05 Rosetta Stoned
+06 Pneuma
+07 Descending
+08 Swamp Song
+09 The Grudge
+-intermission-
+10 Chocolate Chip Trip
+11 Culling Voices
+12 Invincible
+13 Ænema
+
+fingerprints:
+Tool2023-10-19t01 - intro.flac:e01ebc14f8502be50e5e5d890e25f82e
+Tool2023-10-19t02 - Fear Inoculum.flac:57e0d2bfabb350eb26991386b869e89e
+Tool2023-10-19t03 - Jambi.flac:10c0ac37363fce2d3e1146552e8a4833
+Tool2023-10-19t04 - The Pot.flac:13b8257e0c75a097a266ec5795422748
+Tool2023-10-19t05 - Rosetta Stoned.flac:958e2bb4d8fe075dfabce57312827767
+Tool2023-10-19t06 - Pneuma.flac:53490b4297e88346f7970e300c4bc4d5
+Tool2023-10-19t07 - Descending.flac:52eab973ad6a85e73289bdf466b10f35
+Tool2023-10-19t08 - Swamp Song.flac:e4cf19f08c85d90711196ecfa3d3c205
+Tool2023-10-19t09 - The Grudge.flac:bbdfbf0740218180d5ced606188a92cd
+Tool2023-10-19t10 - CC Trip.flac:216f79ee6dc57ed5e3d020c09e8690ab
+Tool2023-10-19t11 - Culling Voices.flac:0302886b041625c17d9226ae97adb250
+Tool2023-10-19t12 - Invincible.flac:8ccb8a20937068987c31c714844accc9
+Tool2023-10-19t13 - Ænema.flac:203afd6c11c98c27e0c3b8b9bdcd48e0

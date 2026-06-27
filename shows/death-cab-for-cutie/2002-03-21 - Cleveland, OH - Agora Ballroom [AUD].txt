@@ -1,0 +1,58 @@
+Death Cab For Cutie
+2002-03-21
+Cleveland, OH - Agora Ballroom
+
+Taper:      Brian Skalinder [bskalinder@yahoo.com]
+Location:   45' back, center, 14' up
+Source:     Oktava MC012 (hyper, XY90�) > Shure FP24 > Sony D100 (44.1kHz)
+Conversion: Sony D100 (44.1kHz) > Waveterminal 2496 > Cool Edit 2000 > CD-Wave
+
+ONE DISC
+
+1. Intro
+2. Steadier Footing*
+3. Banter/fixing technical difficulties
+4. A Movie Script Ending
+5. Company Calls
+6. We Laugh Indoors
+7. Photobooth
+8. I Was A Kaleidoscope
+9. Company Calls Epilogue
+10. Information Travels Faster
+11. Pictures in an Exhibition
+12. Styrofoam Plates
+13. Amputations
+14. Blacking Out The Friction/Dismemberment Plan tease
+15. Why You'd Want To Live Here
+16. Prove My Hypotheses
+17. Encore Break
+18. We Have The Facts And We're Voting Yes
+19. All Is Full Of Love^
+
+
+*Technical difficulties interrupted the song
+^Bjork Cover
+
+______________________________________________________________________
+
+    length     expanded size   cdr  WAVE  probs   filename
+     1:06.16      11680076     ---   --    ---    dcfc_20020321t01.wav
+     1:56.39      20554172     ---   --    ---    dcfc_20020321t02.wav
+     1:46.16      18736076     ---   --    ---    dcfc_20020321t03.wav
+     4:59.39      52835372     ---   --    ---    dcfc_20020321t04.wav
+     3:36.62      38248268     ---   --    ---    dcfc_20020321t05.wav
+     5:45.05      60869804     ---   --    ---    dcfc_20020321t06.wav
+     4:06.54      43521452     ---   --    ---    dcfc_20020321t07.wav
+     3:33.06      37587356     ---   --    ---    dcfc_20020321t08.wav
+     5:40.26      60037196     ---   --    ---    dcfc_20020321t09.wav
+     4:40.05      49403804     ---   --    ---    dcfc_20020321t10.wav
+     4:20.35      45946364     ---   --    ---    dcfc_20020321t11.wav
+     5:06.41      54074876     ---   --    ---    dcfc_20020321t12.wav
+     4:45.25      50332844     ---   --    ---    dcfc_20020321t13.wav
+     5:46.73      61206140     ---   --    ---    dcfc_20020321t14.wav
+     5:15.14      55598972     ---   --    ---    dcfc_20020321t15.wav
+     4:15.44      45085532     ---   --    ---    dcfc_20020321t16.wav
+     1:27.35      15429164     ---   --    ---    dcfc_20020321t17.wav
+     3:28.42      36790028     ---   --    ---    dcfc_20020321t18.wav
+     4:05.21      43267436     ---   --    ---    dcfc_20020321t19.wav
+    75:41.73        764.09 MB                     (totals for 19 files)

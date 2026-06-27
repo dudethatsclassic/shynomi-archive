@@ -1,0 +1,46 @@
+The Wallflowers
+General Motors Place
+Vancouver, BC
+August 10, 2001
+(Opened for John Mellencamp)
+
+** 16 BIT **
+
+Source:  Marcsounds Binaural Mics > Marcsounds battery box > Aiwa HD-S200 DAT
+Transfer:  DAT master > Tascam DA-30 > Edirol R-44 > .WAV @ 16 bit/48 kHz
+Mastering:  .WAV > iZotope RX7 Advanced v7.01.315 (De-click) > Sound Forge Pro 14.0 Build 130 [minor edits, normalize, & fades, Boz Digital Labs T-Bone plug-in (slant EQ)] > CDWav 
+(tracking) > iZotope MBIT+ (dithered and downsampled to 16 bit/44.1 kHz) > Trader's Little Helper (level 5) > FLAC > TagScanner 6.0.35 (tagging) 
+Location:  Section 104, Row 4, Seat 102
+Recorded & transferred by:  Chris Bold
+Mastered by:  Dennis Orr
+
+Setlist: (42:15)
+01 Three Marlenas
+02 Letters From The Wasteland
+03 6th Avenue Heartache
+04 Sleepwalker
+05 Heroes
+06 Chat
+07 One Headlight
+08 Chat
+09 The Difference
+10 Chat
+11 Won't Get Fooled Again
+
+Jakob Dylan - lead vocals & guitar
+Michael Ward - lead guitar & backing vocals
+Rami Jaffee - keyboards & backing vocals
+Greg Richling - bass
+Mario Calire - drums
+
+TheWallflowers2001-08-10t01.flac:07eab314273c5657aaed5130ab4fdd90
+TheWallflowers2001-08-10t02.flac:67e2368eb7aa7d9ccb22f1a0507b5832
+TheWallflowers2001-08-10t03.flac:4a8edef7b26136316beb7a0b210a71de
+TheWallflowers2001-08-10t04.flac:3a74b0ed6f557acdbc67387747a21d57
+TheWallflowers2001-08-10t05.flac:f722afb4a3a763816f726d3437456a64
+TheWallflowers2001-08-10t06.flac:219e7885880b9070a22d30470a2d0c45
+TheWallflowers2001-08-10t07.flac:109f8adaf6fa248d9fdcf2f3dd363e59
+TheWallflowers2001-08-10t08.flac:d64d65ed55f63f309a8d1c707490f383
+TheWallflowers2001-08-10t09.flac:abca098bde60f51fde21c89ef1c94dca
+TheWallflowers2001-08-10t10.flac:bb91fe28be0450bab8ad65d5c63d7087
+TheWallflowers2001-08-10t11.flac:9054bda2e5c7d05c7d6d3c874a95f0e4

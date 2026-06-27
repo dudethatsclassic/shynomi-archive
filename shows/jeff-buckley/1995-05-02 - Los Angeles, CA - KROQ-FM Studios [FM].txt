@@ -1,0 +1,47 @@
+Jeff Buckley
+2 May 1995
+KROQ-FM Studios, Los Angeles, CA
+
+CONTRAST CLAUSE: This is a smoothed, re-tracked, and tagged version of bucklberry's 2005 post: http://www.dimeadozen.org/torrents-details.php?id=213835 [currently dead] which was recently re-upped here: http://www.dimeadozen.org/torrents-details.php?id=724114
+
+Taper's Lineage: FM > Sony Deck > TDK SA90 > Powerbook > CD Spin Doctor or Bias Peak > EAC > FLAC > AIFF 
+
+bucklberry's changes; AIFF > Adobe Audition > WAV > FLAC 
+
+My changes: FLAC > Max > WAV > Audacity > WAV > Max > FLAC
+
+Set List
+--------
+01 Talk: "Fag Music Rocks"
+02 Last Goodbye
+03 Talk: "They Can All Burn In Hell"
+04 Talk: "A Little-Known 20's Jazz Hit"
+05 So Real
+06 Talk: "C'mon - Let's Play Some Smiths"
+
+TT: 21:31
+	
+Our west coast mini-marathon continues with Jeff's appearance on KROQ-FM radio on the 2nd May. He played the American Legion Hall in Hollywood that night, but it's the only show of nine in the area that wasn't recorded. We'll get to his double-header from the next day in the next two uploads. This is a lot of fun: once again an obviously-enamoured young interviewer does her best, but fails to ask original questions, so we could probably provide most of Jeff's answers ourselves by this time. He has a good time, anyway, and we get solid acoustic performances of "Last Goodbye" and "So Real" for a change.
+
+bucklberry's 2005 upload notes:
+-------------------------------
+An MP3 stream was posted on his blog by a man I'll just call Larry as that's his name, citing 
+an unreleased performance by Jeff Buckley. So I nabbed it from his source code, split and 
+distributed it to others. Once I'd had a good listen I decided to contact him and ask if he 
+would supply me with the original files and any info he had, and he did just that, top man!
+
+
+My notes from my 2009 upload:
+-----------------------------
+The original seed is currently dead and my file set doesn't match it anyway, so I decided to clean this up a little and re-track it. No NR; just added a slight fade in and split the tracks a little differently, and made one or two very minor edits to smoothe the listening experience. MANY thanks to the original taper and the original seeder!
+
+Based upon the interviews & conversation, this is definitely 2 May 1995. First - Tammy [KROQ DJ] mentions having seen Jeff at Luna Park [which was 11/22/94]. Next she references "tonight's gig at the American Legion Hall" - which was 5/2/95. Finally, "tomorrow's gig at Tower Records", which was 5/3/95.
+
+
+Files verified, tagged, and renamed to etree conventions; new checksums generated. 
+Text file updated, compiled & copy-edited by lovesick alien 2024-09-27
+--------------------------------------------------------------------------------
+Trade Freely. Never Sell. 
+Support the Artist: Purchase ALL authorised releases. 
+Support the Trading Community: Never Encode to lossy formats.
+--------------------------------------------------------------------------------

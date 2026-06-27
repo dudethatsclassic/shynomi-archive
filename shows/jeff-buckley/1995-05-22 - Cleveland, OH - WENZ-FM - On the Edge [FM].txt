@@ -1,0 +1,35 @@
+Jeff Buckley
+22 May 1995
+WENZ-FM Studios, Cleveland, OH 
+
+"On The Edge" radio broadcast
+Acoustic session & interviews
+
+
+FM > ?Gens > Trade CDR > EAC > WAV > FLAC(8) > WAV > Audacity > xAct > FLAC
+
+
+01 Interview [fades in]
+02 Last Goodbye
+03 Interview
+04 So Real
+05 DJ
+06 Lover, You Should've Come Over [fades out]
+
+TT = 22:31
+
+Jeff Buckley - voice, guitar
+Mick Grondahl - bass
+Michael Tighe - guitar
+Matt Johnson - drums
+
+From Pittsburgh, it was a short hop over the border to Cleveland for an afternoon session at WENZ-FM, for their "On The Edge" programme. This is a short and sweet 20-minute set, but a nice listen. I received this in a trade many many years ago as one continuous track, which started, mid-sentence, in the unnamed DJ's intro, and cut out just as suddenly at the end of "Lover". I split the tracks and added fades to the intro & the end using Audacity. 
+
+
+Files verified, tagged, and renamed to etree conventions; new checksums generated. 
+Text file updated, compiled & copy-edited by lovesick alien 2024-09-02
+--------------------------------------------------------------------------------
+Trade Freely. Never Sell. 
+Support the Artist: Purchase ALL authorised releases. 
+Support the Trading Community: Never Encode to lossy formats.
+--------------------------------------------------------------------------------

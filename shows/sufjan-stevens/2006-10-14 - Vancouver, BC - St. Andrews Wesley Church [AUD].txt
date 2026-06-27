@@ -1,0 +1,31 @@
+Sufjan Stevens
+14 October, 2006
+St. Andrews Wesley Church, Vancouver, BC
+Canada
+
+Source: DPA 4061 > IHP-140 
+Lineage: WAV-M > FLAC
+Editing: hardlimiting: gain 4db, peak -0.1db, lookahead 7ms, release 160ms
+Taper: Unknown
+Quality: A
+
+01. [Intro]
+02. Sister
+03. The Transfiguration
+04. Oh Detroit, Lift Up Your Weary Head
+05. [Sufjan Talking About his Parents]
+06. He Woke Me Up Again
+07. All The Trees of THe Field Will Clap Their Hands
+08. [Predatory Wasp Story]
+09. The Predatory Wasp Of The Palisades Is Out to Get Us!
+10. John Wayne Gacy, Jr.
+11. Good Man Is Hard To Find
+12. Seven Swans
+13. [Sufjan Talking About Jacksonville]
+14. Jacksonville
+15. [Sufjan Talking About The Snowbird]
+16. Majest Snowbird
+17. [Sufjan Talking About Christmas Songs]
+18. That Was the Worst Christmas Ever!
+19. Chicago
+20. The Dress Looks Nice On You 

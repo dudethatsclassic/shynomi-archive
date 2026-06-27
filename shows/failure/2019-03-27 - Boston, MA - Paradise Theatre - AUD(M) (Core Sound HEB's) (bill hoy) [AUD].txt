@@ -1,0 +1,45 @@
+Failure
+Paradise Theatre
+Boston, MA
+27 March 2019
+
+Master audience recording taped by Bill Hoy
+
+
+01 Segue 11/Solar Eyes
+02 Distorted Fields
+03 Heavy And Blind
+04 Another Space Song
+05 Pillowhead
+06 Smoking Umbrellas
+07 Stuck On You
+08 Undone
+09 Frogs
+10 A.M. Amnesia
+11 Counterfeit Sky
+12 Dark Speed
+13 No One Left
+14 The Pineal Electorate
+15 Heliotropic
+16 (crowd)
+17 E: Screen Man
+
+Core Sound HEB's > Battery Box > Sony M10 (Line In -18dB, 24/96), FOB Center
+
+
+Edited and FLAC'ed by Carl Morstadt (dantalion8@yahoo.com)
+	
+24-bit/96-KHz wav file ->
+Goldwave (normalizing and fades) ->
+CDWAV (track breaks) ->
+dBpowerAMP Audio Converter (24-bit/96-KHz wav files converted to 16-bit/44.1 KHz wav files) ->
+FLAC Front End (FLAC 8 with sector boundary alignment)
+FLAC files tagged with Foobar2000 Live Show Tagger
+
+No EQ'ing.
+
+A 24-bit/96-KHz flac24 version of this recording is also available.
+
+
+
+

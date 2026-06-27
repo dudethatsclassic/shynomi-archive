@@ -1,0 +1,29 @@
+tool
+epicenter 2009
+pamona fairgrounds
+pamona ca
+8-22-2009
+
+
+
+
+source: sp-bmc-3 mics>bass rolloff 195hrzsp-bm6 batt box>sony mzrh-10minidiscHIMD hi-sp>sonicstage(transfer)>goldwave fade ins/outs mastering>cdwave>flac
+taper: Garret
+
+
+
+disc 1
+
+jambi
+stinkfist
+46&2
+schism
+rosetta stoned
+
+disc 2
+
+flood
+aenima
+lateralus
+soundscape
+vicarious

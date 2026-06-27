@@ -1,0 +1,89 @@
+Jewel Kilcher
+Java Joe's
+Ocean Beach, CA
+January 11, 1996
+
+Source : Cassette Walkman > 2nd gen cassette
+
+Transfer : Sony TC-WE 475 > JVC XL-R2010 CD-RW (transferred 5/5/08)
+
+Editing : Sound Forge (volume) > WAV > TLH (sbe aligned) Flac 8
+
+Traders Den - June 29, 2023 
+
+Transferred & Tracked by kingrue upload #3713
+===========================================
+
+Here’s an early recording of jewel at her old stomping grounds Java Joe’s. 
+Jewel does two sets this day and the Setlists are filled with many rarely played songs. 
+During the first set, the song called Emily was played but it is missing from this copy. 
+I’m not sure if it was missed during the tape flip or if it was purposely omitted. 
+When Jewel takes a break there is another performer that does a couple songs and then Jewel comes back for her second set.
+Unfortunately all we get from that is the first song Little Sister and then the tape stops. 
+Clearly there’s more blank tape available but why the rest of it is missing is a mystery. 
+I have written out the rest of the second set so you know what’s missing, 
+I have a feeling that we will never hear the rest of it so this is all we’re getting.
+
+Total Time = 59:20
+
+1st set
+01 1,000 Miles Away
+02 Walk Away
+03 You and I
+04 If This Is What Love Is (tape cut @ 0:52)
+05 Need an Excuse (aka I Hate Birthdays)
+06 Angel Needs A Ride
+07 Buttercup
+08 Fragile Heart
+09 Fading Away
+10 Now That You Have Me
+11 Things You Don't Say
+12 All The Animals
+-- Emily (not included)
+-- tape flip --
+13 Love Me Just Leave Me Alone
+14 Race Car Driver
+15 I Got The Blues More Than You Do Blues
+16 intermission
+
+2nd set
+17 Little Sister
+-- Foolish Games
+-- Sometimes It Be That Way
+-- Cold Song
+-- A Boy Needs A Bike
+-- All By Myself
+-- Unsung In Your Eyes
+-- Nikos
+-- Fat Boy
+-- Chime Bells
+-- Raven
+
+
+===========================
+
+
+No errors occured.
+
+
+01 1,000 Miles Away.flac:dd7c6651ea346dc5ec7db2b0b1159d47
+02 Walk Away.flac:ebb901c4cdf02da9c1534320f0924770
+03 You And I.flac:b1c60ccc955df7701404e56964f27e15
+04 If This Is What Love Is.flac:0df4f494f1e660aa3f160e566ac77baf
+05 I Hate Birthdays.flac:a1fd4caf1403cde4f6c9e4e70fb23132
+06 Angel Needs A Ride.flac:3587adfb8cfed9ee65a1744951850f9d
+07 Buttercup.flac:a1207e67633f4d878e4e6e1b33e64c8d
+08 Fragile Heart.flac:0fd60c11e10f556f74465b7fac7a384f
+09 Fading Away.flac:3a09ffd8d2da01bc2c1ce31b55969ab4
+10 Now That You Have Me.flac:bda8ea7109bf13e31f783183d1ac0b08
+11 Things You Don't Say.flac:b4565fc17ac5729ac5d15d5460719594
+12 All The Animals.flac:2d10f5b562450efaaa9f5ff204cc3a92
+13 Love Me Just Leave Me Alone.flac:29e738d3a8cbd48c42d6d111f5637e26
+14 Race Car Driver.flac:e903617a9adfc4a43aa59ad71fd7e1b4
+15 I Got The Blues.flac:f422a597e6b131a6be7d37e50ac73770
+16 intermission.flac:79d772e11da958e38ee24cec0792990c
+17 Little Sister.flac:d2bf9de4429c6c22007ae9d223f9bceb
+
+Checksum file saved to disk.
+
+No errors occured.

@@ -1,0 +1,57 @@
+The Flaming Lips
+Wednesday March 1st, 2023
+Commodore Ballroom
+868 Granville St.
+Vancouver, British Columbia, Canada
+
+Taper:  LeifH [2023#04]
+Source:  CA-11 > Bat2B > A10 (~10' from the left stacks)
+Transfer:  PC via USB > RX9 > Wavepad > flac (8) via TLH
+
+Setlist:  01:51:02
+00 intro
+01 My Cosmic Autumn Rebellion 
+02 Will You Return / When You Come Down
+03 Do You Realize??
+04 How??
+05 Why Does It End?
+06 Yoshimi Battles the Pink Robots, Pt. 1
+07 At the Movies on Quaaludes
+08 Be Free, a Way
+09 Borderline
+10 Your Bats
+11 Love Yer Brain
+12 Dinosaurs on the Mountain
+13 A Spoonful Weights a Ton
+14 She Don't Use Jelly
+15 Pompeii Am Götterdämmerung
+-encore-
+16 Worm Mountain
+17 Sunship Balloons
+18 Race for the Prize
+
+This was the second of two shows the band played back to back at the Commodore.  Make up dates from 3 years ago.  I was not able to record the first night (Feb. 28).  
+
+I believe both shows were sold out.  A friend lined up some comp tickets.  Otherwise I wouldn't have gone, high price tag and not my usual cup of tea.  
+
+fingerprints:
+FlamingLips2023-03-01t00 - intro.flac:abe7da8adc4674e12c825d2c99c52f4d
+FlamingLips2023-03-01t01 - My Cosmic Autumn Rebellion.flac:30199f89f58eac61bfbd2cfd61f8b3a2
+FlamingLips2023-03-01t02 - Will You Return.flac:4567339e5ad78fc435f5b166530144cf
+FlamingLips2023-03-01t03 - Do You Realize.flac:e96438975fff2a9d7207271948186401
+FlamingLips2023-03-01t04 - How.flac:23d60941d4051ef9c62fdd7e1289aef5
+FlamingLips2023-03-01t05 - Why Does It End.flac:226f43540e076aec71d7c849681348ef
+FlamingLips2023-03-01t06 - Yoshimi Battles the Pink Robots.flac:ca79d5fff453c1ffb3077484b1d46d9d
+FlamingLips2023-03-01t07 - At the Movies on Quaaludes.flac:c248466820d48076c0476376eb18c890
+FlamingLips2023-03-01t08 - Be Free a Way.flac:31580b6bd1fdcd69aad642320b9d382b
+FlamingLips2023-03-01t09 - Borderline.flac:36557fef64571109b259f795d8bc862e
+FlamingLips2023-03-01t10 - Your Bats.flac:9ceb10db73b4a08c09e1dcfbf51e95f0
+FlamingLips2023-03-01t11 - Love Yer Brain.flac:a44967e52bfb9c63e9c63b800e8b24e0
+FlamingLips2023-03-01t12 - Dinosaurs on the Mountain.flac:84fc5c2347f91a09de47e57eca95717a
+FlamingLips2023-03-01t13 - A Spoonful Weighs a Ton.flac:04122857fb20dc917c81d46a0d8bb3ec
+FlamingLips2023-03-01t14 - She Dont Use Jelly.flac:d62c079d7dd4d184d4eea5e0a785d387
+FlamingLips2023-03-01t15 - Pompeii Am Gotterdammerung.flac:50e07bba230b9265f3185119e29864b7
+FlamingLips2023-03-01t16 - Worm Mountain.flac:7c1c5d123304658c96e179ff43bcca86
+FlamingLips2023-03-01t17 - Sunship Balloons.flac:888ec85b005e6b13547e108dce28cb82
+FlamingLips2023-03-01t18 - Race for the Prize.flac:1a14215c5a6e56af553b3dda82702614
+FlamingLips2023-03-01t19 - walk out.flac:4f49bd3d4b75cdc9288d903eb1af7dd8

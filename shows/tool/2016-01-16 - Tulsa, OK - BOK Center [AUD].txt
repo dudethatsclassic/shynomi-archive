@@ -1,0 +1,40 @@
+Tool - 2016.06.16
+BOK Center - Tulsa, OK, USA
+
+taper: Karl Frinkle (specialK)
+email: specialk@karlfrinkle.net
+url: http://karlfrinkle.net
+
+source: Church Audio CA-14 cardiods > Church Audio CA-9100 preamp > Sony PCM-M10 (line-in @24/96)
+location: Section 306, Row S, seat 6 (Very last row, upper deck, straight back from stage, seriously)
+transfer: Sony PCM-M10 (line-in @24/96) > WAV > Sony Sound Forge Audio Studio 9.0  (mastering) > CD Wave (splitting) > FLAC
+modifications: magik
+
+Setlist -  18 tracks - 114:32
+1. intro
+2. No Quarter
+3. The Grudge
+4. Parabol
+5. Parabola
+6. Schism
+7. Opiate
+8. Maynard talking
+9. Ænema
+10. A/Descending
+11. Jambi
+12. 46 & 2
+13. intermission
+14. Danny drum solo
+15. Sweat
+16. Maynard talking
+17. Stinkfist
+18. outro
+
+Notes:  PA went out during part of Danny's drum solo, you can still hear the drums, but they are very distant.  It took a little
+while before the technical problem was fixed.  I left the intermission in its entirety.  The crowd started a countdown at the 2:00
+minute mark, which made it entertaining.  Our seats were literally the straight back from the stage, all the way back and to the 
+top.  Thus, this recording sounds distant and at times I think you can hear the sounds pressure levels change due to distance
+from source.  I worked to correct this, and overall the recording came out decent, not my best TOol recording, but not my worst
+either.  Enjoy it for what it is, the band seem to enjoy the performance and Maynard was talkative.
+
+

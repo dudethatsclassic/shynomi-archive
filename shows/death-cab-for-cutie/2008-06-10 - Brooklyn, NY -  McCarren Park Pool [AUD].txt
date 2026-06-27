@@ -1,0 +1,66 @@
+Death Cab For Cutie
+2008-06-10
+McCarren Park Pool
+Brooklyn, NY USA
+
+Digital Master Audience Recording
+Recorded from Upfront Left Side
+Twenty Feet from PA Stacks
+
+DPA 4021s > Marantz PMD-660 (Oade BCM Mod) > 16bit 44.1kHz wav > 
+Soundforge (level adjustments, slight EQ, set fades) > CDWave > Flac Frontend (level 7, align sector boundaries)> flac
+
+Please Support this excellent band:
+http://www.deathcabforcutie.com/home/
+
+Premiere Download offered at
+http://www.nyctaper.com
+nyctaper@nyctaper.com
+
+Recorded and Produced
+by nyctaper
+2008-06-10
+
+
+Setlist
+[total time 1:17:36]
+01  Bixby Canyon Bridge
+02  The New Year
+03  Why You'd Want To Live Here
+04  Photobooth
+05  Crooked Teeth
+06  Long Division
+07  Grapevine Fires
+08  A Movie Script Ending
+09  Company Calls
+10  Company Calls Epilogue
+11  Soul Meets Body
+12  I Will Follow You Into The Dark
+13  I Will Possess Your Heart
+14  Cath...
+15  We Laugh Indoors
+16  The Sound of Settling
+17  [weather mayhem]**
+
+**No music, just merely the frenzied crowd quickly
+departing the venue with an impending huge storm.
+
+
+Flac Fingerprints:
+DeathCab2008-06-10_Upfront_DPA4021_t01.flac:1f2f8ced7b0189ea5fce08826828e701
+DeathCab2008-06-10_Upfront_DPA4021_t02.flac:4555e5b676783f3b1b2e944e9a8da00e
+DeathCab2008-06-10_Upfront_DPA4021_t03.flac:a94887c9861cb130c381cb0ac92f10ac
+DeathCab2008-06-10_Upfront_DPA4021_t04.flac:b0188c42fdf9d57ea8d2e458d82645f6
+DeathCab2008-06-10_Upfront_DPA4021_t05.flac:445444a01db160cb3c0f492be6209c36
+DeathCab2008-06-10_Upfront_DPA4021_t06.flac:542c6460d79b3e90117895c4614783c8
+DeathCab2008-06-10_Upfront_DPA4021_t07.flac:8983bf6e3803dc536b052856d02dca9a
+DeathCab2008-06-10_Upfront_DPA4021_t08.flac:6b652bd6372e3fe05748a8edb4d780f9
+DeathCab2008-06-10_Upfront_DPA4021_t09.flac:9a5770b804c193e1165251797837df22
+DeathCab2008-06-10_Upfront_DPA4021_t10.flac:75f4db48f232892ba49e5e8b98e97a7e
+DeathCab2008-06-10_Upfront_DPA4021_t11.flac:37cb976e8fda14cb299458a829a1238b
+DeathCab2008-06-10_Upfront_DPA4021_t12.flac:1c6b5210d502730abba30e0c0c249d6c
+DeathCab2008-06-10_Upfront_DPA4021_t13.flac:5cbd3fa29ed52e47e953790b1cd86bbf
+DeathCab2008-06-10_Upfront_DPA4021_t14.flac:5e89d0ca5e92159061d409dcdb78068b
+DeathCab2008-06-10_Upfront_DPA4021_t15.flac:796526f47314ae2dfb5b74f4bb02f27c
+DeathCab2008-06-10_Upfront_DPA4021_t16.flac:95ecb7fa17fe2c5d096deaa26324866e
+DeathCab2008-06-10_Upfront_DPA4021_t17.flac:56f31a06a1c9c6fb86e654b555fa0101

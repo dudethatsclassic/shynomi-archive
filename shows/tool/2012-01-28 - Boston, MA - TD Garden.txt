@@ -1,0 +1,36 @@
+Tool
+Boston, MA
+January 28th, 2012
+TD Garden
+
+Source: Sony PCM-M10 (internal mics)->Sound Forge 10 (iZotope RX 2)->TLH
+Seats: Section 309, Row 10, Seat 6
+Filmed By: Fuzz
+
+Setlist:
+01. Hooker With a Penis
+02. Jambi
+03. (-) Ions / Stinkfist
+04. Ticks & Leeches
+05. Pushit
+06. Schism
+07. Intension
+08. Forty-Six & 2
+09. Lateralus
+10. Intermission (Soundscape)
+11. Ænema
+
+Notes:
+My girlfriend traveled out east for a couple Tool shows and left me behind. She brought our recorder with her and did pretty good for the Boston show, the Camden show she bumped the Low/High control and peaked the recording out. Typical douchebaggery around her with people talking through out the show, which should be punishable by death.
+
+bc6497c30a096ef5585befffe790d954 *tool120128_01 1.flac
+bb60b71f7f196eba75071da7d338c896 *tool120128_01 2.flac
+41b946d5712e0978f9fb25a16b553e17 *tool120128_01 3.flac
+766e63039ca46a5585ed5d2479ed8d9d *tool120128_01 4.flac
+37a7d9ce37c44156bade694c4345603c *tool120128_01 5.flac
+e8bd8558cbb6f88cdf4ce68c5018ad18 *tool120128_01 6.flac
+4d5bac56267a42f5f006a29dfa56d899 *tool120128_01 7.flac
+eade36aed089add74dfca2af1ddd511f *tool120128_01 8.flac
+a56aadaf36152cb23f447c9fef84b3d9 *tool120128_01 9.flac
+3f1977f2bfc9b69cdf0356221b9871ff *tool120128_01 10.flac
+197d21d94938d04cbda568c70d3ab1bc *tool120128_01 11.flac

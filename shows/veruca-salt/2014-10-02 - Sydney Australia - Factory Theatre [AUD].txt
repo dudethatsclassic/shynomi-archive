@@ -1,0 +1,53 @@
+Veruca Salt
+
+2014-10-02
+Factory Theatre
+Marrickville
+Sydney, AU
+
+Equipment: Audioreality.com mics > battery box > Roland R-09HR > 8GB SDHC
+Lineage: WAV (24-bit, 48 kHz) > Adobe Audition 3 (resample to 16-bit, 44.1 kHz, splits, EQ, compression, fades) > TLH (fix SBEs, FLAC level 8, create checksums) > mp3tag (add tags)
+
+Notes: 
+
+
+Taper: dartheejit
+
+Setlist:
+
+00 intro
+01 Victrola
+02 Stoneface
+03 Straight
+04 It’s Holy
+05 Forsythia
+06 All Hail Me
+07 Spiderman '79
+08 With David Bowie
+09 Don't Make Me Prove It
+10 Wolf
+11 I'm Taking Europe With Me
+12 Venus Man Trap
+13 Aurora
+14 Celebrate You
+15 The Museum of Broken Relationships
+16 Seether
+17 Shimmer Like a Girl
+18 25
+Encore:
+19 Pale Green
+20 Shutterbug
+21 Volcano Girls
+22 Earthcrosser 
+
+Running time: 1:40:00 (approx)
+
+
+Nina Gordon – guitar, vocals 
+Steve Lack – bass 
+Louise Post – guitar, vocals 
+Jim Shapiro – drums, vocals
+
+
+Please do not convert to MP3, except for personal use.  Trade in lossless, and always for free.  Do not sell this recording.
+Support the artist and buy their music.

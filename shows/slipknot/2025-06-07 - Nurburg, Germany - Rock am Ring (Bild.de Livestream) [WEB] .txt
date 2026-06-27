@@ -1,0 +1,31 @@
+Slipknot
+2025-06-07 
+Rock am Ring
+Nürburgring, Nürburg, Germany
+
+Lineage: Bild.de livestream -> N_m3u8DL-RE -> ffmpeg -> ts
+Video: MPEG-TS (H264) 1920x1080 16:9 9255 kbps 25.00 fps
+Audio: 127 Kbps 48.0 KHz stereo
+
+setlist:
+(sic)
+People = Shit
+Gematria (The Killing Name)
+Wait and Bleed
+Nero Forte
+Yen
+Psychosocial
+The Heretic Anthem
+The Devil in I
+Unsainted
+Duality
+
+Encore:
+Spit It Out
+Surfacing
+Scissors
+
+TRT = 01:30:10
+
+Note: Clown was absent from this show due to family emergency.
+Just like yesterday, today's live broadcast still has problems with freezing and skipping frames. can't believe they haven't fixed it yet.

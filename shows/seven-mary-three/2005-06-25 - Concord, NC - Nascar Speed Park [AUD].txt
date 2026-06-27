@@ -1,0 +1,58 @@
+Seven Mary Three
+06/25/05
+Nascar Speed Park
+Concord, NC
+
+
+Source: (A) Studio Project C4's(Cardioid) > UA5(Digimod, RCA Out) > Korg D12(Channel 3 and 4)
+        (B) SBD (XLR x2) > Korg D12 (Channel 1 and 2)
+         Final: Korg D12 > JB3 (wav@44.1)
+
+Conversion: Nomad JB3(WAV)> USB1.1 > Soundforge > CD Wave > Flac Frontend > Flac
+
+Taper: jcrab66(bootlegarchive@yahoo.com)
+       http://bootlegarchive.com/jcrab66
+
+
+Setlist:
+
+01. Oceans of Envy
+02. Wait
+03. Settle Up
+04. Roderigo
+05. Sleepwalking
+06. Shelf Life
+07. My My
+08. Over Your Shoulder
+09. Eleanor Rigby
+10. Waters Edge
+11. Anything
+12. Rock Crown
+13. Honey of Generation
+14. Bark No Bite
+15. Times Like These
+16. Cumbersome
+17. Dislocated
+
+Korg D12 Notes:
+
+Channels 1 and 3 full pan left, channels 2 and 4 full pan right. Channels 1 and 2 set to unity.
+Channels 3 and 4 faded back -13db. 
+
+Show Notes:
+
+Another great show from 7M3, this time at a go kart track. If you listen during the soft parts
+you can hear the go karts going by. This one starts out real heavy the first track for about 10 
+or 20 seconds then levels out. About 4 tracks in the toms go on seperate channels and the guitars
+are split about a track later. All in all a nice stereo mix. 
+
+
+Special thanks to Jason Moore for the great mix and all the usual access. 
+
+
+
+***DO NOT ALTER THESE FILES IN ANY WAY WITHOUT PERMISSION OF THE TAPER***
+***DO NOT ENCODE TO LOSSY FORMATS (MP3,OGG,Etc..)***
+***DO NOT SELL***
+
+

@@ -1,0 +1,85 @@
+Jeff Buckley & Band
+24 February 1995
+Südbahnhof, Frankfurt/Main, Germany
+
+Master AUD recording
+Taper: Mike Weiss
+
+CONTRAST CLAUSE: This upload is direct from the master. The version posted at http://www.dimeadozen.org/torrents-details.php?id=780142 is from an analogue 1st gen copy, per the taper.
+
+Recording info:
+Master source: Sony D-6/Aiwa CM30A stereo mike > analogue audAM 
+(Maxell XLII, Dolby-B on), no dB filter.
+
+Playback/transfer info:
+
+audM playback on Aiwa XK-007 Excelia (azimuth aligned, Dolby-B off) 
+> via Sony DAT 60ES w/ 24SBM on > via digi coaxial > Marantz DR700 
+pro CD recorder > Cdr Mitsui (unbranded pro stock: batch # on record) 
+> PC/EAC secure > wavs > TLH > flac conversion level 8/SBE/ffp/MD5 > 
+flac16 > you
+
+
+09/2024 ekimrf
+
+line-up:
+
+Jeff Buckley - gtrs, v
+Michael Tighe - gtrs
+Matt Johnson - dr, perc
+Mick Grondahl - b
+
+01  Grace (pre-show recording for HR3 TV talk show 'Musik & Diskussion')
+
+02  tv host intro/Mojo Pin [REMOVED]
+03  So Real [REMOVED]
+04  Last GoodBye
+05  What Will You Say [REMOVED]
+06  Lilac Wine (afterwards A/B tape flip)
+07  banter+noodling/Grace
+08  Eternal Life
+enc.
+09  (tracked too early!) I Know It's Over>
+10  Hallelujah
+
+Sadly, this show is also a victim of the label/estate's ridiculous cherry-picking of tracks when creating posthumous releases. Three of the performances from this show have been released on video, with a further track also available on the CD accompanying the DVD release. To complete the set, add the missing tracks from "Grace Around The World" (https://www.discogs.com/release/2562392-Jeff-Buckley-Grace-Around-The-World) which come from this show and have been removed to comply with Dime policy.
+
+
+After I posted my version of the Südbahnhof show, I got in touch with the taper who kindly offered FLACS directly from the master. He also added some background to his recording:
+
+The "pre-show" Grace was actually not pre-show: as Hessische Rundfunk
+(HR) was the host for this, they recorded this version of Grace for a
+tv-programme called 'Musik & Diskussion' which was broadcast on HR3 at a
+later stage in March that year: there's a videoMaster off cable tv
+somewhere in my vault ... whether it would still play, who knows??
+
+The 'Musik & Diskussion' talk show was subsequently also broadcast on
+Bayrische Rundfunk (BR3) and 3Sat (which is a conglomerate, like the
+US-PBS, consisting of Germany's ARD, Austria's ORF and Switzerland's
+SRF) and only included this one track as part of the whole production.
+
+Following this recording session, there was a short reshuffling on stage
+... IIRC nobody left. Then, the tv host brought them on again for the
+showcase set.
+
+My thanks to Mike for his memories and his recording. I pass it along to you as I received it.
+
+
+
+_________________________________________________________________
+
+flac fingerprint file
+
+jbuckley1995-02-24 track 01.flac:d75f95cf356e63091549ecfff667b4c7
+jbuckley1995-02-24 track 02.flac:9dc3b5d79099eaa637a5a2f963bfa679
+jbuckley1995-02-24 track 03.flac:3984c21a155571d1ca467592bd544063
+jbuckley1995-02-24 track 04.flac:4e5a62cb19ca2a82b8bf979da90f82cf
+jbuckley1995-02-24 track 05.flac:9bd58bcd099dda186259604911e64978
+jbuckley1995-02-24 track 06.flac:51847cf90e28487832f86e6a242499d5
+jbuckley1995-02-24 track 07.flac:063e19c2558a114d09c5f799876c974c
+jbuckley1995-02-24 track 08.flac:39689293e6e0a5533216acbf95cb1406
+jbuckley1995-02-24 track 09.flac:eaf1e77c4d31f5c7da3135611548b77c
+jbuckley1995-02-24 track 10.flac:209e481b156615266b1abad95a07e37a
+
+
+

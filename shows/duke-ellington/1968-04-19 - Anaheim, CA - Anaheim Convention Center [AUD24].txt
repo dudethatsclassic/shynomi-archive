@@ -1,0 +1,17 @@
+Duke Ellington
+April 19th, 1968
+Anaheim Convention Center
+Anaheim, CA
+
+Source:
+unknown > reel
+
+Transfer:
+TEAC A-3300SX > Line out > Focusrite Saffire Pro 40 > REAPER
+
+Generation:
+Master (likely reel) > Reel(1) > ? > WAV(24/48khz) > FLAC(24/48khz)
+
+This recording is from a box of reels obtained from a friend who purchased a large storage unit full of tapes with the intent to sell them as blanks. I was able to pull about 20 or so that appeared to be uncirculated for myself, mostly Duke Ellington recordings from the mid to late 60s.
+
+This particular tape is an audience recording. Not quite the quality of the Tony Bennett set from the same night, but acceptable. I've almost certainly split the tracks incorrectly. The songs flow into each other with little to no pause between, so I figured it'd be better for two songs to be in one track than accidentally put a split in the middle of one.

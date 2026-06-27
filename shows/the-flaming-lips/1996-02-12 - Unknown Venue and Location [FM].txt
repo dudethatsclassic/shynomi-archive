@@ -1,0 +1,29 @@
+Flaming Lips
+Date Unknown: Broadcast week of February 12, 1996
+Pre-FM, commercials removed
+Silver CD > EAC, secure mode > Tracked with Audacity > Flac Frontend level 6, align on sector boundaries
+
+EAC and conversion by Ben Seibert (sherbz@gmail.com)
+
+*** Do not encode to mp3 ***
+
+Recorded for broadcast over FM and distributed via pressed CD. Fantastic sound, probably a SBD source.
+Date and venue are unknown, most likely a show from 1994-1995.
+
+Setlist
+1. Turn It On
+2. Moth In The Incubator
+3. Bad Days
+4. Superhumans
+5. She Don't Use Jelly
+6. Chewin the Apple of Your Eye
+
+
+Fingerprints:
+
+01 Turn It On.flac:733ba58b2fba08d72ffe831ae9e60ed1
+02 Moth In The Incubator.flac:ee1632616a9ea6a22f7144329efb1360
+03 Bad Days.flac:1f02855354f385252d5990337961809e
+04 Superhumans.flac:667d8666a1d31877e292a3c560eb715a
+05 She Don't Use Jelly.flac:257d68dc03caa3a8f9cd39f636545c49
+06 Chewin the Apple Of Your Eye.flac:0621762a428acba5396a2fca8788e9f2

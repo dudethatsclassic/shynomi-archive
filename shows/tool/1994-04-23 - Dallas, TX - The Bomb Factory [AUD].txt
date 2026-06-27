@@ -1,0 +1,44 @@
+Preview of changes:
+-------------------
+
+Track breaks will be shifted backward when necessary.
+
+Tool1994_04_23Tr01.flac --> Tool1994_04_23Tr01-fixed.custom
+  - beginning of track will remain unchanged
+  - data size will decrease by 2288 bytes
+
+Tool1994_04_23Tr02.flac --> Tool1994_04_23Tr02-fixed.custom
+  - beginning of track will be moved backward by 2288 bytes
+  - data size will increase by 752 bytes
+
+Tool1994_04_23Tr03.flac --> Tool1994_04_23Tr03-fixed.custom
+  - beginning of track will be moved backward by 1536 bytes
+  - data size will increase by 1280 bytes
+
+Tool1994_04_23Tr04.flac --> Tool1994_04_23Tr04-fixed.custom
+  - beginning of track will be moved backward by 256 bytes
+  - data size will decrease by 440 bytes
+
+Tool1994_04_23Tr05.flac --> Tool1994_04_23Tr05-fixed.custom
+  - beginning of track will be moved backward by 696 bytes
+  - data size will decrease by 136 bytes
+
+Tool1994_04_23Tr06.flac --> Tool1994_04_23Tr06-fixed.custom
+  - beginning of track will be moved backward by 832 bytes
+  - data size will increase by 272 bytes
+
+Tool1994_04_23Tr07.flac --> Tool1994_04_23Tr07-fixed.custom
+  - beginning of track will be moved backward by 560 bytes
+  - data size will decrease by 816 bytes
+
+Tool1994_04_23Tr08.flac --> Tool1994_04_23Tr08-fixed.custom
+  - beginning of track will be moved backward by 1376 bytes
+  - data size will increase by 352 bytes
+
+Tool1994_04_23Tr09.flac --> Tool1994_04_23Tr09-fixed.custom
+  - beginning of track will be moved backward by 1024 bytes
+  - data size will decrease by 576 bytes
+
+Tool1994_04_23Tr10.flac --> Tool1994_04_23Tr10-fixed.custom
+  - beginning of track will be moved backward by 1600 bytes
+  - data size will increase by 1600 bytes

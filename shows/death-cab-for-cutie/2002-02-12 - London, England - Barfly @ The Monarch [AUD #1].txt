@@ -1,0 +1,60 @@
+Death Cab For Cutie
+12th February 2002
+Barfly @ The Monarch
+London, England
+
+SETLIST (60:05)
+-----------------
+01. tuning up / soundchecking
+02. Title Track
+03. Why You'd Want To Live Here
+04. Company Calls
+05. I Was A Kaleidoscope
+06. Company Calls Epilogue
+07. Lowell, MA
+08. Amputations
+09. For What Reason
+10. Styrofoam Plates
+11. A Movie Script Ending
+12. We Laugh Indoors
+13. 405
+14. Prove My Hypothesis
+
+GENERATION
+-----------------
+DAT(M) -> FLAC
+
+SOURCE (AUD #1)
+-----------------
+Marantz EM-8 -> Sony TCD-D8 -> DAT(M)
+
+TRANSFER
+-----------------
+DAT(M) -> Tascam DA-20 MkII -> M-Audio Audiophile 2496 (digital coax) -> WAV (44kHz/16bit) 
+-> Adobe Audition 2017 (EQ/fades/amplify) -> CDWave (splits) -> foobar2000 -> FLAC(8)
+
+NOTES
+-----------------
+The PA here was not great, and the vocals sound muffled.  The support act (Radio 4) sounded better!
+The EQ was to slightly improve the bass and top-end.
+
+FLAC FINGERPRINTS
+-----------------
+dcfc-2002feb12-aud-t01.flac:6b56cc954d9e8486c53a8bda670eae75
+dcfc-2002feb12-aud-t02.flac:2299c22435a6f087b2dcd194f0727b7c
+dcfc-2002feb12-aud-t03.flac:2c5293b5f147963c07d7e2dbcf5078aa
+dcfc-2002feb12-aud-t04.flac:2156bcb5873dc65faaf5dfab863421ab
+dcfc-2002feb12-aud-t05.flac:2af4da6eb3c3af47e3b5f94605d6ad9e
+dcfc-2002feb12-aud-t06.flac:b2203a62de7cd75882921bf174d3e557
+dcfc-2002feb12-aud-t07.flac:31063d6d702e7d0120cb8dde0ced45bd
+dcfc-2002feb12-aud-t08.flac:05502df5761f3d8f4f669deecf115a9f
+dcfc-2002feb12-aud-t09.flac:a71c9a662f083924afee7ed2fc9064fb
+dcfc-2002feb12-aud-t10.flac:40028b2ec0abb55ef43ebb9f26d93584
+dcfc-2002feb12-aud-t11.flac:6a08c48c0969e43da90c437983effdf1
+dcfc-2002feb12-aud-t12.flac:90969cdf8e41b066c39f5bb3662c56e5
+dcfc-2002feb12-aud-t13.flac:b06933885d08fc86908ed6e63abe517f
+dcfc-2002feb12-aud-t14.flac:4f42aac22f0dc8f27bbaec6a16d2d3e5
+
+Taped, transferred & mastered by: Gary Watson (packetboatlane@yahoo.co.uk)
+
+DO NOT SELL, OR DISTRIBUTE IN LOSSY FORMATS!

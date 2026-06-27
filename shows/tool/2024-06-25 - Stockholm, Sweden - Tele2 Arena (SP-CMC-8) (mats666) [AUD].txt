@@ -1,0 +1,29 @@
+Tool
+Tele2 Arena, Stockholm, Sweden
+2024-06-25
+
+Recorded and Mastered by: mats666
+
+Source: Audience Master Recording, SP-CMC-8 mic, Sony PCM A10
+
+Lineage: Master wav 24/48 > Audacity/Adobe Audition (edits/EQ, Limiter) > dBpoweramp >
+wav 16/44 > TLH (fixing SBE`s) > CD wave editor (Track Splits) > dBpoweramp > FLAC (level 8)
+
+
+01. Intro
+02. Jambi
+03. Fear Inoculum
+04. Lost Keys
+05. Rosetta Stoned
+06. Pneuma
+07. Intolerance
+08. Descending
+09. Schism
+10. The Grudge
+11. Chocolate Chip Trip
+12. Flood
+13. Invincible
+14. Stinkfist
+
+Duration: 128:19 min
+

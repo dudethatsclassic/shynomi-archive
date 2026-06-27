@@ -1,0 +1,15 @@
+Tool - 2001.09.07
+Alliant Energy Center - Madison, WI, USA
+version 3
+
+media type: FLAC
+source: Core Sound Binaurals > Sony SBM-1 > Sony TCD-D8 > CDR > SHN > WAV > FLAC
+taper: unknown
+trade status: can trade
+
+disc 1 - 7 tracks - 59:30
+disc 2 - 7 tracks - 58:27
+
+notes: none
+
+ 

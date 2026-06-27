@@ -1,0 +1,27 @@
+Tool
+2022-01-31
+BOK Center,
+Tulsa, OK
+
+Source:  DPA 4080's > Church Audio Ugly Battery Box > MicroDot to 3.5mm Y Adapter > Sony PCM-M10 (Oade Pre-Amp Mod) (24bit/96kHz)
+Transfer: SD Card > Reaper (EQ, Compression, Phase Alignment, Cuts, Fades) > Fission (Track Splits) > xACT (Level 8) > .FLAC > Meta (Tags)
+Location: 14 Rows from Stage, 10ft off-center
+Taper: TB
+
+
+Tracklist:
+
+01 Intro
+02 Fear Inoculum
+03 Opiate (Extended)
+04 The Pot
+05 Pushit
+06 Pneuma
+07 The Grudge
+08 The Patient
+09 Descending
+10 Hooker With a Penis
+11 Intermission
+12 Chocolate Chip Trip
+13 Culling Voices
+14 Invincible

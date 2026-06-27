@@ -1,0 +1,41 @@
+Tripping Daisy - 2025-07-04, Milwaukee, WI
+
+Tripping Daisy
+Briggs & Stratton Big Backyard Stage
+Summerfest
+Milwaukee, WI
+2024-07-04
+
+TRACK LISTING 
+01 - Community Mantra
+02 - On the Ground
+03 - Rocketpop
+04 - Bang
+05 - I Got a Girl
+06 - Trip Along
+07 - Wiggle Wiggle
+08 - You First
+09 - Piranha
+10 - Field Day Jitters
+11 - My Umbrella
+12 - Prick
+
+FLAC FINGERPRINTS or MD5 checksum for the musical content only (*)
+01 - Community Mantra.flac:7e5effbda85b20670ea4e9de34864c6a
+02 - On the Ground.flac:bb5e79033838c6fd64b5160bc2fbd81f
+03 - Rocketpop.flac:7900fe8cb911b90e2cfbeed79b7aa1ca
+04 - Bang.flac:c405cae77425d5d170e7ef1af3fbfaf1
+05 - I Got a Girl.flac:916be530b5f8a1b5fdaff670f1ab6347
+06 - Trip Along.flac:832eaeedc54dda221581bdc81ce29144
+07 - Wiggle Wiggle.flac:3031318c1166a276e4abf7dcf314ba71
+08 - You First.flac:465622056077ea4a5106948ad75c2f1f
+09 - Piranha.flac:4ed4554bda54af86381426c0b5f97eca
+10 - Field Day Jitters.flac:d94fd6ce88bfc8df6076154e306b9e5a
+11 - My Umbrella.flac:26fb240a751647bdb97761f70b1363d4
+12 - Prick.flac:a43108ccfd19a8f8d4a0b6ed388d37e3
+
+AUD SOURCE 
+Shure mv88 -> iPhone Motive app wav -> split & amplified in Audacity -> flac
+
+Go see them live
+Go buy their albums

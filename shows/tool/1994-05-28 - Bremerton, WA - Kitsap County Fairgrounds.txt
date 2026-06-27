@@ -1,0 +1,15 @@
+Tool - 1994.05.28
+Kitsap County Fairgrounds - Bremerton, WA, USA
+version 2 
+
+media type: FLAC 
+source: unknown Analog source > Casette Master > Cool Edit Pro (cleanup/hiss/etc) > WAV > 1st Gen CDR > EAC > FLAC
+taper: unknown 
+trade status: can trade
+
+disc 1 - 11 tracks - 65:49
+
+notes: There is no real way to verify the lineage of this source, so I am keeping it separate from version 1, even though they have the same number of tracks and total running times. Consider it an 'upgrade' for now. 
+
+
+

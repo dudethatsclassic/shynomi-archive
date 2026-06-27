@@ -26,7 +26,8 @@ const ARTIST_DATA = {
       "venue": "St Anne's Church",
       "notes": "Version 1B",
       "version": "SBD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1991-04-26 - New York, NY - St Anne's Church (Version 1B) [SBD].txt"
     },
     {
       "year": 1991,
@@ -39,7 +40,8 @@ const ARTIST_DATA = {
       "venue": "Krypton Studios Demos",
       "notes": "Gods",
       "version": "SBD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1991-08-17 - New York, NY - Krypton Studios Demos - Gods & Monsters [SBD].txt"
     },
     {
       "year": 1991,
@@ -50,9 +52,10 @@ const ARTIST_DATA = {
       "state": "NY",
       "location": "New York, NY",
       "venue": "The Knitting Factory",
-      "notes": "VHS(x) · 1991 CMJ Music Marathon",
+      "notes": "VHS(x) \u00b7 1991 CMJ Music Marathon",
       "version": "FM",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1991-11-01 - New York, NY - The Knitting Factory - VHS(x) (1991 CMJ Music Marathon) [FM].txt"
     },
     {
       "year": 1991,
@@ -63,9 +66,10 @@ const ARTIST_DATA = {
       "state": "NY",
       "location": "New York, NY",
       "venue": "The Knitting Factory",
-      "notes": "VHS(x) · unk",
+      "notes": "VHS(x) \u00b7 unk",
       "version": "AUD",
-      "format": "MKV"
+      "format": "MKV",
+      "textFile": "1991-11-01 - New York, NY - The Knitting Factory - VHS(x) (unk) [MKV].txt"
     },
     {
       "year": 1992,
@@ -78,7 +82,8 @@ const ARTIST_DATA = {
       "venue": "St Anne's Church",
       "notes": "",
       "version": "SBD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1992-03-13 - Brooklyn, NY - St Anne's Church [SBD].txt"
     },
     {
       "year": 1992,
@@ -91,7 +96,8 @@ const ARTIST_DATA = {
       "venue": "The Knitting Factory",
       "notes": "WFMU-FM The Music Faucet",
       "version": "FM",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1992-03-22 - New York, NY - The Knitting Factory (WFMU-FM The Music Faucet) [FM].txt"
     },
     {
       "year": 1992,
@@ -102,9 +108,10 @@ const ARTIST_DATA = {
       "state": "NY",
       "location": "New York, NY",
       "venue": "The Knitting Factory",
-      "notes": "VHS(x) · partial",
+      "notes": "VHS(x) \u00b7 partial",
       "version": "AUD",
-      "format": "MKV"
+      "format": "MKV",
+      "textFile": "1992-03-22 - New York, NY - The Knitting Factory - VHS(x) (partial) [MKV].txt"
     },
     {
       "year": 1992,
@@ -117,7 +124,8 @@ const ARTIST_DATA = {
       "venue": "The Knitting Factory",
       "notes": "Correct",
       "version": "FM",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1992-03-22 - New York, NY - The Knitting Factory (Correct) [FM].txt"
     },
     {
       "year": 1992,
@@ -130,7 +138,8 @@ const ARTIST_DATA = {
       "venue": "The Knitting Factory",
       "notes": "VHS Complete",
       "version": "AUD",
-      "format": "MKV"
+      "format": "MKV",
+      "textFile": "1992-03-22 - New York, NY - The Knitting Factory (VHS Complete) [MKV].txt"
     },
     {
       "year": 1992,
@@ -143,7 +152,8 @@ const ARTIST_DATA = {
       "venue": "The Roulette Club",
       "notes": "",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1992-04-05 - New York, NY - The Roulette Club [AUD].txt"
     },
     {
       "year": 1992,
@@ -156,7 +166,8 @@ const ARTIST_DATA = {
       "venue": "WFMU-FM Studios",
       "notes": "The",
       "version": "FM",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1992-04-19 - E. Orange, NJ - WFMU-FM Studios - The Music Faucet with NIck Hill [FM].txt"
     },
     {
       "year": 1992,
@@ -169,7 +180,8 @@ const ARTIST_DATA = {
       "venue": "The Knitting Factory",
       "notes": "unk",
       "version": "FM",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1992-08-13 - New York, NY - The Knitting Factory (unk) [FM].txt"
     },
     {
       "year": 1992,
@@ -182,7 +194,8 @@ const ARTIST_DATA = {
       "venue": "WFMU-FM",
       "notes": "Nick",
       "version": "FM",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1992-10-11 - E. Orange, NJ - WFMU-FM - Nick Hill's Music Faucet [FM].txt"
     },
     {
       "year": 1993,
@@ -195,7 +208,8 @@ const ARTIST_DATA = {
       "venue": "WFMU Trash Can Tape",
       "notes": "",
       "version": "FM",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1993-01-17 - E. Orange, NJ - WFMU Trash Can Tape [FM].txt"
     },
     {
       "year": 1993,
@@ -208,7 +222,8 @@ const ARTIST_DATA = {
       "venue": "Sin-e",
       "notes": "WFMU-FM",
       "version": "FM",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1993-06-06 - New York, NY - Sin-e - WFMU-FM - The Music Faucet with Nick Hill [FM].txt"
     },
     {
       "year": 1993,
@@ -221,7 +236,8 @@ const ARTIST_DATA = {
       "venue": "CBGB 313 Gallery",
       "notes": "Sony ECM-959",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1993-12-18 - New York, NY - CBGB 313 Gallery (Sony ECM-959) [AUD].txt"
     },
     {
       "year": 1993,
@@ -232,7 +248,7 @@ const ARTIST_DATA = {
       "state": "",
       "location": "Jeff Buckley",
       "venue": "Every Monday Night",
-      "notes": "Sin-è Cafè Compilation",
+      "notes": "Sin-\u00e8 Caf\u00e8 Compilation",
       "version": "",
       "format": "FLAC"
     },
@@ -247,7 +263,8 @@ const ARTIST_DATA = {
       "venue": "KCRW Studios",
       "notes": "Man In The Moon Broadcast",
       "version": "FM",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1994-01-25 - Santa Monica, CA - KCRW Studios (Man In The Moon Broadcast) [FM].txt"
     },
     {
       "year": 1994,
@@ -260,7 +277,8 @@ const ARTIST_DATA = {
       "venue": "KCRW Studios",
       "notes": "2024 Goody",
       "version": "FM",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1994-01-25 - Santa Monica, CA - KCRW Studios (2024 Goody) [FM].txt"
     },
     {
       "year": 1994,
@@ -273,7 +291,8 @@ const ARTIST_DATA = {
       "venue": "C'est What",
       "notes": "unk",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1994-02-14 - Toronto, ON - C'est What (unk) [AUD].txt"
     },
     {
       "year": 1994,
@@ -286,7 +305,8 @@ const ARTIST_DATA = {
       "venue": "The Black Cat",
       "notes": "unk",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1994-02-22 - Washington, DC - The Black Cat (unk) [AUD].txt"
     },
     {
       "year": 1994,
@@ -299,7 +319,8 @@ const ARTIST_DATA = {
       "venue": "Mountain Stage Broadcast",
       "notes": "",
       "version": "FM",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1994-02-27 - Charleston, WV - Mountain Stage Broadcast [FM].txt"
     },
     {
       "year": 1994,
@@ -312,7 +333,8 @@ const ARTIST_DATA = {
       "venue": "APC Studios",
       "notes": "99X",
       "version": "FM",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1994-08-06 - Atlanta, GA - APC Studios - 99X Atlanta [FM].txt"
     },
     {
       "year": 1994,
@@ -325,7 +347,8 @@ const ARTIST_DATA = {
       "venue": "Black Cat",
       "notes": "unk",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1994-08-13 - Washington, DC - Black Cat (unk) [AUD].txt"
     },
     {
       "year": 1994,
@@ -338,7 +361,8 @@ const ARTIST_DATA = {
       "venue": "Lowlands Festival",
       "notes": "",
       "version": "SBD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1994-08-27 - Biddinghuizen, The Netherlands - Lowlands Festival [SBD].txt"
     },
     {
       "year": 1994,
@@ -351,7 +375,8 @@ const ARTIST_DATA = {
       "venue": "Reading Festival",
       "notes": "Sony ECMS101",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1994-08-28 - Reading, England - Reading Festival (Sony ECMS101) [AUD].txt"
     },
     {
       "year": 1994,
@@ -364,7 +389,8 @@ const ARTIST_DATA = {
       "venue": "The Garage",
       "notes": "",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1994-09-01 - London, UK - The Garage [AUD].txt"
     },
     {
       "year": 1994,
@@ -377,7 +403,8 @@ const ARTIST_DATA = {
       "venue": "Nachtleben",
       "notes": "",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1994-09-14 - Frankfurt, Germany - Nachtleben [AUD].txt"
     },
     {
       "year": 1994,
@@ -390,7 +417,8 @@ const ARTIST_DATA = {
       "venue": "Nachtleben",
       "notes": "Upgrade",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1994-09-14 - Frankfurt, Germany - Nachtleben (Upgrade) [AUD].txt"
     },
     {
       "year": 1994,
@@ -403,7 +431,8 @@ const ARTIST_DATA = {
       "venue": "The Milky Way",
       "notes": "",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1994-09-20 - Amsterdam, The Netherlands - The Milky Way [AUD].txt"
     },
     {
       "year": 1994,
@@ -416,7 +445,8 @@ const ARTIST_DATA = {
       "venue": "Pacific Club",
       "notes": "",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1994-09-21 - Antwerp, Belgium - Pacific Club [AUD].txt"
     },
     {
       "year": 1994,
@@ -427,9 +457,10 @@ const ARTIST_DATA = {
       "state": "Belgium",
       "location": "Antwerp, Belgium",
       "venue": "Pacific Club",
-      "notes": "VHS(x) · TV-5",
+      "notes": "VHS(x) \u00b7 TV-5",
       "version": "TV",
-      "format": "MKV"
+      "format": "MKV",
+      "textFile": "1994-09-21 - Antwerp, Belgium - Pacific Club - VHS(x) (TV-5) [MKV].txt"
     },
     {
       "year": 1994,
@@ -442,7 +473,8 @@ const ARTIST_DATA = {
       "venue": "WBCN-FM Studios",
       "notes": "Nocturnal",
       "version": "FM",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1994-10-23 - Boston, MA - WBCN-FM Studios - Nocturnal Emissions [FM].txt"
     },
     {
       "year": 1994,
@@ -455,7 +487,8 @@ const ARTIST_DATA = {
       "venue": "Trinity Centre",
       "notes": "ANA(M)",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1994-10-28 - Toronto, ON - Trinity Centre - ANA(M) [AUD].txt"
     },
     {
       "year": 1994,
@@ -468,7 +501,8 @@ const ARTIST_DATA = {
       "venue": "Green Mill",
       "notes": "",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1994-11-09 - Chicago, IL - Green Mill [AUD].txt"
     },
     {
       "year": 1994,
@@ -481,7 +515,8 @@ const ARTIST_DATA = {
       "venue": "Noe Valley Ministry",
       "notes": "",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1994-11-20 - San Francisco, CA - Noe Valley Ministry [AUD].txt"
     },
     {
       "year": 1994,
@@ -492,9 +527,10 @@ const ARTIST_DATA = {
       "state": "AZ",
       "location": "Tempe, AZ",
       "venue": "Valley Art Theatre",
-      "notes": "PZM mics · david holmes",
+      "notes": "PZM mics \u00b7 david holmes",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1994-11-26 - Tempe, AZ - Valley Art Theatre (PZM mics) (david holmes) [AUD].txt"
     },
     {
       "year": 1994,
@@ -505,9 +541,10 @@ const ARTIST_DATA = {
       "state": "TX",
       "location": "Austin, TX",
       "venue": "Waterloo Records & the Electric Lounge",
-      "notes": "SS-DSM6 · chris milazzo",
+      "notes": "SS-DSM6 \u00b7 chris milazzo",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1994-11-29 - Austin, TX - Waterloo Records & the Electric Lounge (SS-DSM6) (chris milazzo) [AUD].txt"
     },
     {
       "year": 1994,
@@ -531,9 +568,10 @@ const ARTIST_DATA = {
       "state": "TX",
       "location": "Houston, TX",
       "venue": "Cactus Records & Urban Art Bar",
-      "notes": "SS-DSM6 · chris milazzo",
+      "notes": "SS-DSM6 \u00b7 chris milazzo",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1994-12-01 - Houston, TX - Cactus Records & Urban Art Bar (SS-DSM6) (chris milazzo) [AUD].txt"
     },
     {
       "year": 1994,
@@ -544,9 +582,10 @@ const ARTIST_DATA = {
       "state": "FL",
       "location": "Miami Beach, FL",
       "venue": "Stephen Talkhouse",
-      "notes": "SS mics · dolphinsmile",
+      "notes": "SS mics \u00b7 dolphinsmile",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1994-12-04 - Miami Beach, FL - Stephen Talkhouse (SS mics) (dolphinsmile) [AUD].txt"
     },
     {
       "year": 1994,
@@ -559,7 +598,8 @@ const ARTIST_DATA = {
       "venue": "930 Club",
       "notes": "",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1994-12-12 - Washington DC - 930 Club [AUD].txt"
     },
     {
       "year": 1994,
@@ -570,9 +610,10 @@ const ARTIST_DATA = {
       "state": "PA",
       "location": "Philadelphica, PA",
       "venue": "JC Dobbs",
-      "notes": "SS-DSM6 · teddy ballgame",
+      "notes": "SS-DSM6 \u00b7 teddy ballgame",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1994-12-13 - Philadelphica, PA - JC Dobbs (SS-DSM6) (teddy ballgame) [AUD].txt"
     },
     {
       "year": 1994,
@@ -583,9 +624,10 @@ const ARTIST_DATA = {
       "state": "NY",
       "location": "Greenwich Village, NY",
       "venue": "Tower Records",
-      "notes": "Aiwa Mic · phideaux3 · Goody Remaster",
+      "notes": "Aiwa Mic \u00b7 phideaux3 \u00b7 Goody Remaster",
       "version": "AUD",
-      "format": "FLAC 24"
+      "format": "FLAC 24",
+      "textFile": "1994-12-16 - Greenwich Village, NY - Tower Records (Goody Remaster) (Aiwa Mic) (phideaux3) [AUD24].txt"
     },
     {
       "year": 1994,
@@ -598,7 +640,8 @@ const ARTIST_DATA = {
       "venue": "Irving Plaza",
       "notes": "2 unk sources",
       "version": "MIX",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1994-12-17 - New York, NY - Irving Plaza (2 unk sources) [MIX].txt"
     },
     {
       "year": 1995,
@@ -611,7 +654,8 @@ const ARTIST_DATA = {
       "venue": "CBS Studios",
       "notes": "",
       "version": "preFM",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1995-01-12 - New York, NY - CBS Studios [preFM].txt"
     },
     {
       "year": 1995,
@@ -624,7 +668,8 @@ const ARTIST_DATA = {
       "venue": "The Astoria II",
       "notes": "unk",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1995-01-18 - London, UK - The Astoria II (unk) [AUD].txt"
     },
     {
       "year": 1995,
@@ -637,7 +682,8 @@ const ARTIST_DATA = {
       "venue": "Liquid Room",
       "notes": "",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1995-01-30 - Tokyo, Japan - Liquid Room [AUD].txt"
     },
     {
       "year": 1995,
@@ -650,7 +696,8 @@ const ARTIST_DATA = {
       "venue": "Shiniyuku Liquid Room",
       "notes": "",
       "version": "PRO",
-      "format": "DVD"
+      "format": "DVD",
+      "textFile": "1995-01-30 - Tokyo, Japan - Shiniyuku Liquid Room (PRO) [DVD].txt"
     },
     {
       "year": 1995,
@@ -663,7 +710,8 @@ const ARTIST_DATA = {
       "venue": "Nihon Seinenkan",
       "notes": "MTV",
       "version": "TV",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1995-01-31 - Tokyo, Japan - Nihon Seinenkan - MTV Japan Session [TV].txt"
     },
     {
       "year": 1995,
@@ -676,7 +724,8 @@ const ARTIST_DATA = {
       "venue": "Skala Espacio *Roses For My Friend",
       "notes": "",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1995-02-02 - Fukuaka, Japan - Skala Espacio - Roses For My Friend [AUD].txt"
     },
     {
       "year": 1995,
@@ -689,7 +738,8 @@ const ARTIST_DATA = {
       "venue": "L'Ubu",
       "notes": "unk",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1995-02-13 - Rennes, France - L'Ubu (unk) [AUD].txt"
     },
     {
       "year": 1995,
@@ -702,7 +752,8 @@ const ARTIST_DATA = {
       "venue": "La Laiterie",
       "notes": "",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1995-02-14 - Strasbourg, France - La Laiterie [AUD].txt"
     },
     {
       "year": 1995,
@@ -715,7 +766,8 @@ const ARTIST_DATA = {
       "venue": "Arte TV Studios *Black Session/Velver Jungle Session",
       "notes": "",
       "version": "Silver CD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1995-02-15 - Paris, France - Arte TV Studios - Black Session-Velver Jungle Session [Silver].txt"
     },
     {
       "year": 1995,
@@ -728,7 +780,8 @@ const ARTIST_DATA = {
       "venue": "Arte TV Top Live",
       "notes": "2024 Goody",
       "version": "TV",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1995-02-15 - Paris, France - Arte TV Top Live (2024 Goody) [FM].txt"
     },
     {
       "year": 1995,
@@ -741,7 +794,8 @@ const ARTIST_DATA = {
       "venue": "Arte TV Studios *Top Live",
       "notes": "",
       "version": "TV",
-      "format": "MP4"
+      "format": "MP4",
+      "textFile": "1995-02-15 - Paris, France - Arte TV Studios - Top Live [MP4].txt"
     },
     {
       "year": 1995,
@@ -752,9 +806,10 @@ const ARTIST_DATA = {
       "state": "Germany",
       "location": "Frankfurt, Germany",
       "venue": "Sudbahnhof",
-      "notes": "Aiwa CM-30 · mw",
+      "notes": "Aiwa CM-30 \u00b7 mw",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1995-02-24 - Frankfurt, Germany - Sudbahnhof (Aiwa CM-30) (mw) [AUD].txt"
     },
     {
       "year": 1995,
@@ -767,7 +822,8 @@ const ARTIST_DATA = {
       "venue": "Sudbahnhof",
       "notes": "",
       "version": "TV",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1995-02-24 - Frankfurt, Germany - Sudbahnhof - ANA(M) (Aiwa CM30A) (mike weiss) [AUD].txt"
     },
     {
       "year": 1995,
@@ -780,7 +836,8 @@ const ARTIST_DATA = {
       "venue": "Nighttown Hall *Dream Brother",
       "notes": "OXY 006",
       "version": "Silver CD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1995-02-25 - Rotterdam, The Netherlands - Nighttown Hall - Dream Brother (OXY 006) [Silver].txt"
     },
     {
       "year": 1995,
@@ -793,7 +850,8 @@ const ARTIST_DATA = {
       "venue": "La Botanique",
       "notes": "",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1995-02-26 - Brussels, Belgium - La Botanique [AUD].txt"
     },
     {
       "year": 1995,
@@ -804,9 +862,10 @@ const ARTIST_DATA = {
       "state": "England",
       "location": "Wolverhampton, England",
       "venue": "Wulfrun Hall",
-      "notes": "Aiwa Stereo Clip Mic · belfrank",
+      "notes": "Aiwa Stereo Clip Mic \u00b7 belfrank",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1995-03-02 - Wolverhampton, England - Wulfrun Hall (Aiwa Stereo Clip Mic) (belfrank) [AUD].txt"
     },
     {
       "year": 1995,
@@ -819,7 +878,8 @@ const ARTIST_DATA = {
       "venue": "Shepherd's Bush Empire",
       "notes": "inc",
       "version": "FM",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1995-03-04 - London, England - Shepherd's Bush Empire (inc) [FM].txt"
     },
     {
       "year": 1995,
@@ -832,7 +892,8 @@ const ARTIST_DATA = {
       "venue": "Shepherd's Bush Empire",
       "notes": "unk",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1995-03-04 - London. England - Shepherd's Bush Empire (unk) [AUD].txt"
     },
     {
       "year": 1995,
@@ -845,7 +906,8 @@ const ARTIST_DATA = {
       "venue": "KRBE FM",
       "notes": "unk",
       "version": "FM",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1995-04-28 - Houston, TX - KRBE FM (unk) [FM].txt"
     },
     {
       "year": 1995,
@@ -856,9 +918,10 @@ const ARTIST_DATA = {
       "state": "TX",
       "location": "Austin, TX",
       "venue": "Liberty Lunch",
-      "notes": "CSB · unk",
+      "notes": "CSB \u00b7 unk",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1995-04-29 - Austin, TX - Liberty Lunch (CSB) (unk) [AUD].txt"
     },
     {
       "year": 1995,
@@ -869,9 +932,10 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "San Diego, CA",
       "venue": "The Back Door",
-      "notes": "DAT(x) · unk",
+      "notes": "DAT(x) \u00b7 unk",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1995-05-01 - San Diego, CA - The Back Door - DAT(x) (unk) [AUD].txt"
     },
     {
       "year": 1995,
@@ -884,7 +948,8 @@ const ARTIST_DATA = {
       "venue": "KROQ-FM Studios",
       "notes": "",
       "version": "FM",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1995-05-02 - Los Angeles, CA - KROQ-FM Studios [FM].txt"
     },
     {
       "year": 1995,
@@ -897,7 +962,8 @@ const ARTIST_DATA = {
       "venue": "KSCA-FM Studios",
       "notes": "goody's 2024",
       "version": "FM",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1995-05-03 - Glendale, CA - KSCA-FM Studios (goody's 2024) [FM].txt"
     },
     {
       "year": 1995,
@@ -910,7 +976,8 @@ const ARTIST_DATA = {
       "venue": "Tower Records",
       "notes": "unk",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1995-05-03 - Westwood, CA - Tower Records (unk) [AUD].txt"
     },
     {
       "year": 1995,
@@ -923,7 +990,8 @@ const ARTIST_DATA = {
       "venue": "GAMH",
       "notes": "unk",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1995-05-04 - San Francisco, CA - GAMH  (unk) [AUD].txt"
     },
     {
       "year": 1995,
@@ -936,7 +1004,8 @@ const ARTIST_DATA = {
       "venue": "KFOG FM Studios",
       "notes": "",
       "version": "FM",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1995-05-04- San Francisco, CA - KFOG FM Studios [FM].txt"
     },
     {
       "year": 1995,
@@ -947,9 +1016,10 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "San Francisco, CA",
       "venue": "GAMH",
-      "notes": "ANA(M) · unk",
+      "notes": "ANA(M) \u00b7 unk",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1995-05-05 - San Francisco, CA - GAMH - ANA(M) (unk) [AUD].txt"
     },
     {
       "year": 1995,
@@ -962,7 +1032,8 @@ const ARTIST_DATA = {
       "venue": "Bluebird Theater",
       "notes": "",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1995-05-10 - Denver, CO - Bluebird Theater [AUD].txt"
     },
     {
       "year": 1995,
@@ -975,7 +1046,8 @@ const ARTIST_DATA = {
       "venue": "The Barrymore Theatre",
       "notes": "",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1995-05-14 - Madison, WI - The Barrymore Theatre [AUD].txt"
     },
     {
       "year": 1995,
@@ -988,7 +1060,8 @@ const ARTIST_DATA = {
       "venue": "930 Club",
       "notes": "unk",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1995-05-16 - Washington, DC - 930 Club (unk) [AUD].txt"
     },
     {
       "year": 1995,
@@ -999,9 +1072,10 @@ const ARTIST_DATA = {
       "state": "RI",
       "location": "Providence, RI",
       "venue": "Lupo's VHS",
-      "notes": "1 · unk",
+      "notes": "1 \u00b7 unk",
       "version": "AUD",
-      "format": "MKV"
+      "format": "MKV",
+      "textFile": "1995-05-19 - Providence, RI - Lupo's VHS(1) (unk) [MKV].txt"
     },
     {
       "year": 1995,
@@ -1014,7 +1088,8 @@ const ARTIST_DATA = {
       "venue": "Metropol",
       "notes": "",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1995-05-21 - Pittsburgh, PA - Metropol [AUD].txt"
     },
     {
       "year": 1995,
@@ -1027,7 +1102,8 @@ const ARTIST_DATA = {
       "venue": "WENZ-FM",
       "notes": "On",
       "version": "FM",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1995-05-22 - Cleveland, OH - WENZ-FM - On the Edge [FM].txt"
     },
     {
       "year": 1995,
@@ -1038,9 +1114,10 @@ const ARTIST_DATA = {
       "state": "Quebec",
       "location": "Montreal, Quebec",
       "venue": "Le Spectrum",
-      "notes": "Sennheiser MKE2002 · stevemtl",
+      "notes": "Sennheiser MKE2002 \u00b7 stevemtl",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1995-05-28 - Montreal, Quebec - Le Spectrum (Sennheiser MKE2002) (stevemtl) [AUD].txt"
     },
     {
       "year": 1995,
@@ -1053,7 +1130,8 @@ const ARTIST_DATA = {
       "venue": "Mama Kin",
       "notes": "Goody's Speed-Pitch Adjusted 2024",
       "version": "FM",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1995-05-30 - Boston, MA - Mama Kin (Goody's Speed-Pitch Adjusted 2024) [FM].txt"
     },
     {
       "year": 1995,
@@ -1064,9 +1142,10 @@ const ARTIST_DATA = {
       "state": "NJ",
       "location": "Sea Bright, NJ",
       "venue": "Tradewinds",
-      "notes": "SS-DSM6 · joey mutis",
+      "notes": "SS-DSM6 \u00b7 joey mutis",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1995-06-01 - Sea Bright, NJ - Tradewinds (SS-DSM6) (joey mutis) [AUD].txt"
     },
     {
       "year": 1995,
@@ -1077,9 +1156,10 @@ const ARTIST_DATA = {
       "state": "NY",
       "location": "New York, NY",
       "venue": "Roseland Ballroom",
-      "notes": "2 Source Mix · phideaux3",
+      "notes": "2 Source Mix \u00b7 phideaux3",
       "version": "MIX",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1995-06-02 - New York, NY - Roseland Ballroom (2 Source Mix) (phideaux3) [MIX].txt"
     },
     {
       "year": 1995,
@@ -1090,9 +1170,10 @@ const ARTIST_DATA = {
       "state": "MD",
       "location": "Rockville, MD",
       "venue": "99.1 WHFS",
-      "notes": "Just · Goody",
+      "notes": "Just \u00b7 Goody",
       "version": "FM",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1995-06-11 - Rockville, MD - 99.1 WHFS - Just Passin' Thru (Goody) [FM].txt"
     },
     {
       "year": 1995,
@@ -1103,9 +1184,10 @@ const ARTIST_DATA = {
       "state": "England",
       "location": "Leeds, England",
       "venue": "City Varieties",
-      "notes": "Sony Walkman · unk",
+      "notes": "Sony Walkman \u00b7 unk",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1995-06-21 - Leeds, England - City Varieties (Sony Walkman) (unk) [AUD].txt"
     },
     {
       "year": 1995,
@@ -1118,7 +1200,8 @@ const ARTIST_DATA = {
       "venue": "Worthy Farm",
       "notes": "Glastonbury",
       "version": "TV",
-      "format": "MKV"
+      "format": "MKV",
+      "textFile": "1995-06-24 - Pilton, UK - Worthy Farm - Glastonbury Festival [TV].txt"
     },
     {
       "year": 1995,
@@ -1131,7 +1214,8 @@ const ARTIST_DATA = {
       "venue": "Exo 7",
       "notes": "unk",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1995-06-28 - Rouen, FR - Exo 7 (unk) [AUD].txt"
     },
     {
       "year": 1995,
@@ -1144,7 +1228,8 @@ const ARTIST_DATA = {
       "venue": "Festival Stage",
       "notes": "",
       "version": "FM",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1995-06-30 - Roskilde, Denmark - Festival Stage [FM].txt"
     },
     {
       "year": 1995,
@@ -1157,7 +1242,8 @@ const ARTIST_DATA = {
       "venue": "Meltdown Festival",
       "notes": "",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1995-07-01 - London, UK - Meltdown Festival [AUD].txt"
     },
     {
       "year": 1995,
@@ -1170,7 +1256,8 @@ const ARTIST_DATA = {
       "venue": "Torhout Festival",
       "notes": "",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1995-07-01 - Torhaut, Belgium - Torhout Festival [AUD].txt"
     },
     {
       "year": 1995,
@@ -1183,7 +1270,8 @@ const ARTIST_DATA = {
       "venue": "Festival Stage",
       "notes": "VHS(x)",
       "version": "PRO",
-      "format": "MKV"
+      "format": "MKV",
+      "textFile": "1995-07-02 - Werchter, Belgium - Festival Stage - VHS(x) [MKV].txt"
     },
     {
       "year": 1995,
@@ -1196,7 +1284,8 @@ const ARTIST_DATA = {
       "venue": "L'Olympia",
       "notes": "unk",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1995-07-06 - Paris, FR - L'Olympia (unk) [AUD].txt"
     },
     {
       "year": 1995,
@@ -1209,7 +1298,8 @@ const ARTIST_DATA = {
       "venue": "Les Eurockeenes de Belfort",
       "notes": "Arte TV 2007 Re-broadcast",
       "version": "TV",
-      "format": "MKV"
+      "format": "MKV",
+      "textFile": "1995-07-09 - Belfort, FR - Les Eurockeenes de Belfort (Arte TV 2007 Re-broadcast) [MKV].txt"
     },
     {
       "year": 1995,
@@ -1222,7 +1312,8 @@ const ARTIST_DATA = {
       "venue": "Scala",
       "notes": "",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1995-07-13 - Ludwigsburg, Germany - Scala [AUD].txt"
     },
     {
       "year": 1995,
@@ -1235,7 +1326,8 @@ const ARTIST_DATA = {
       "venue": "Scala",
       "notes": "unk",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1995-07-13 - Ludwigsburg, DE - Scala (unk) [AUD].txt"
     },
     {
       "year": 1995,
@@ -1248,7 +1340,8 @@ const ARTIST_DATA = {
       "venue": "Zona Sportiva",
       "notes": "Festa",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1995-07-15 - Corregio, IT - Zona Sportiva - Festa de l'Unita [AUD].txt"
     },
     {
       "year": 1995,
@@ -1261,7 +1354,8 @@ const ARTIST_DATA = {
       "venue": "Zona Sportiva",
       "notes": "unk",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1995-07-15 - Corregio, IT - Zona Sportiva (unk) [AUD].txt"
     },
     {
       "year": 1995,
@@ -1274,7 +1368,8 @@ const ARTIST_DATA = {
       "venue": "Rooftop Cafe",
       "notes": "3RRR Broadcast Acoustic set & Interview",
       "version": "FM",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1995-08-31 - Melbourne, AUS - Rooftop Cafe (3RRR Broadcast Acoustic set & Interview) [FM].txt"
     },
     {
       "year": 1995,
@@ -1287,7 +1382,8 @@ const ARTIST_DATA = {
       "venue": "Athenaeum Theatre",
       "notes": "unk",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1995-09-03 - Melbourne, AUS - Athenaeum Theatre (unk) [AUD].txt"
     },
     {
       "year": 1995,
@@ -1298,9 +1394,10 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "Berkeley, CA",
       "venue": "Sproul Plaza",
-      "notes": "Sony ECM-77b · a.k.",
+      "notes": "Sony ECM-77b \u00b7 a.k.",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1995-09-05 - Berkeley, CA - Sproul Plaza (Sony ECM-77b) (a.k.) [AUD].txt"
     },
     {
       "year": 1995,
@@ -1313,7 +1410,8 @@ const ARTIST_DATA = {
       "venue": "Phoenician Club",
       "notes": "2005 Triple-J Re-broadcast",
       "version": "FM",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1995-09-06 - Sydney, AUS - Phoenician Club (2005 Triple-J Re-broadcast) [FM].txt"
     },
     {
       "year": 1995,
@@ -1326,7 +1424,8 @@ const ARTIST_DATA = {
       "venue": "WXRK-FM",
       "notes": "Idiots",
       "version": "FM",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1995-12-17 - New York, NY - WXRK-FM - Idiots Delight Acoustic [FM].txt"
     },
     {
       "year": 1996,
@@ -1339,7 +1438,8 @@ const ARTIST_DATA = {
       "venue": "Workers Club",
       "notes": "unk",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1996-02-13 - Newcastle, AUS - Workers Club (unk) [AUD].txt"
     },
     {
       "year": 1996,
@@ -1352,7 +1452,8 @@ const ARTIST_DATA = {
       "venue": "Enmore Theatre",
       "notes": "unk",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1996-02-15 - Sydney, AUS - Enmore Theatre (unk) [AUD].txt"
     },
     {
       "year": 1996,
@@ -1363,9 +1464,10 @@ const ARTIST_DATA = {
       "state": "AUS",
       "location": "Queensland, AUS",
       "venue": "Seagulls Stardust Auditorium",
-      "notes": "Sonic Studios Mics · dolphinsmile",
+      "notes": "Sonic Studios Mics \u00b7 dolphinsmile",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1996-02-20 - Queensland, AUS - Seagulls Stardust Auditorium (Sonic Studios Mics) (dolphinsmile) [AUD].txt"
     },
     {
       "year": 1996,
@@ -1376,9 +1478,10 @@ const ARTIST_DATA = {
       "state": "AUS",
       "location": "Perth, AUS",
       "venue": "Belvoir Amphitheatre",
-      "notes": "ANA(2) · eclect transfer",
+      "notes": "ANA(2) \u00b7 eclect transfer",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1996-02-24 - Perth, AUS - Belvoir Amphitheatre - ANA(2) (eclect transfer) [AUD].txt"
     },
     {
       "year": 1996,
@@ -1391,7 +1494,8 @@ const ARTIST_DATA = {
       "venue": "Selina's Coogee Bay Hotel",
       "notes": "unk",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1996-03-01 - Sydney, AUS - Selina's Coogee Bay Hotel (unk) [AUD].txt"
     },
     {
       "year": 1996,
@@ -1404,7 +1508,8 @@ const ARTIST_DATA = {
       "venue": "SPoT Coffee",
       "notes": "unk",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1996-12-09 - Buffalo, NY - SPoT Coffee (unk) [AUD].txt"
     },
     {
       "year": 1997,
@@ -1415,7 +1520,7 @@ const ARTIST_DATA = {
       "state": "NY",
       "location": "New York, NY",
       "venue": "Arlene's Grocery",
-      "notes": "The · unk",
+      "notes": "The \u00b7 unk",
       "version": "AUD",
       "format": "FLAC"
     },
@@ -1430,7 +1535,8 @@ const ARTIST_DATA = {
       "venue": "The Knitting Factory",
       "notes": "Goody's speed/pitch remaster",
       "version": "SBD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1997-02-04 - New York, NY - The Knitting Factory (Goody's speed:pitch remaster) [SBD].txt"
     }
   ],
   "misc": [

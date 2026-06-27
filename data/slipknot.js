@@ -39,7 +39,8 @@ const ARTIST_DATA = {
       "venue": "Ranch Bowl",
       "notes": "unk",
       "version": "AUD",
-      "format": "DVD"
+      "format": "DVD",
+      "textFile": "1998-08-15 - Omaha, NE - Ranch Bowl (unk) [DVD].txt"
     },
     {
       "year": 1999,
@@ -50,9 +51,10 @@ const ARTIST_DATA = {
       "state": "WI",
       "location": "Somerset, WI",
       "venue": "Float-Rite Park Amphitheatre",
-      "notes": "unk · shynomi transfer",
+      "notes": "unk \u00b7 shynomi transfer",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1999-07-01 - Somerset, WI - Float-Rite Park Amphitheatre [AUD].txt"
     },
     {
       "year": 1999,
@@ -63,9 +65,10 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "San Bernardino, CA",
       "venue": "Blockbuster Pavilion",
-      "notes": "unk · shynomi transfer",
+      "notes": "unk \u00b7 shynomi transfer",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1999-07-24 - San Bernardino, CA - Blockbuster Pavilion [AUD].txt"
     },
     {
       "year": 1999,
@@ -78,7 +81,8 @@ const ARTIST_DATA = {
       "venue": "Madisen Theater",
       "notes": "unk",
       "version": "AUD",
-      "format": "DVD"
+      "format": "DVD",
+      "textFile": "1999-08-26 - Peoria, IL - Madisen Theater (unk) [DVD].txt"
     },
     {
       "year": 1999,
@@ -89,9 +93,10 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "San Bernardino, CA",
       "venue": "National Orange Show Fairgrounds",
-      "notes": "ANA(M) · Sony WM-D3 · ijwthstd",
+      "notes": "ANA(M) \u00b7 Sony WM-D3 \u00b7 ijwthstd",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1999-10-11 - San Bernardino, CA - National Orange Show Fairgrounds - ANA(M) (Sony WM-D3) (ijwthstd) [AUD #1].txt"
     },
     {
       "year": 1999,
@@ -102,9 +107,10 @@ const ARTIST_DATA = {
       "state": "IA",
       "location": "Des Moines, IA",
       "venue": "Super Toad Entertainment Center",
-      "notes": "unk · shynomi transfer",
+      "notes": "unk \u00b7 shynomi transfer",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1999-10-17 - Des Moines, IA - Super Toad Entertainment Center [AUD].txt"
     },
     {
       "year": 1999,
@@ -115,9 +121,10 @@ const ARTIST_DATA = {
       "state": "France",
       "location": "Paris, France",
       "venue": "Elysee Montmartre",
-      "notes": "CDR(x) · unk",
+      "notes": "CDR(x) \u00b7 unk",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1999-12-16 - Paris, France - Elysee Montmartre [AUD].txt"
     },
     {
       "year": 2000,
@@ -128,9 +135,10 @@ const ARTIST_DATA = {
       "state": "NY",
       "location": "New York, NY",
       "venue": "Irving Plaza",
-      "notes": "VHS(1) · tripkore",
+      "notes": "VHS(1) \u00b7 tripkore",
       "version": "AUD",
-      "format": "DVD"
+      "format": "DVD",
+      "textFile": "2000-02-24 - New York, NY - Irving Plaza - VHS(1) (tripkore) [DVD].txt"
     },
     {
       "year": 2000,
@@ -141,9 +149,10 @@ const ARTIST_DATA = {
       "state": "NY",
       "location": "New York, NY",
       "venue": "The Limelight",
-      "notes": "VHS(1) · tripkore transfer",
+      "notes": "VHS(1) \u00b7 tripkore transfer",
       "version": "AUD",
-      "format": "DVD"
+      "format": "DVD",
+      "textFile": "2000-02-25 - New York, NY - The Limelight - VHS(1) (tripkore transfer) [DVD].txt"
     },
     {
       "year": 2000,
@@ -156,7 +165,8 @@ const ARTIST_DATA = {
       "venue": "Manchester Main Debating Hall",
       "notes": "",
       "version": "FM",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "2000-02-29 - Manchester, England - Manchester Main Debating Hall [FM].txt"
     },
     {
       "year": 2000,
@@ -169,7 +179,8 @@ const ARTIST_DATA = {
       "venue": "Bronco Bowl",
       "notes": "unk",
       "version": "AUD",
-      "format": "DVD"
+      "format": "DVD",
+      "textFile": "2000-04-22 - Dallas, TX - Bronco Bowl (unk) [DVD].txt"
     },
     {
       "year": 2000,
@@ -180,9 +191,10 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "San Francisco, CA",
       "venue": "The Warfield",
-      "notes": "Schoeps MK4s · alex coluzzi",
+      "notes": "Schoeps MK4s \u00b7 alex coluzzi",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "2000-04-30 - San Francisco, CA - The Warfield [AUD].txt"
     },
     {
       "year": 2000,
@@ -195,7 +207,8 @@ const ARTIST_DATA = {
       "venue": "Dynamo Open Air Festival",
       "notes": "metalmike",
       "version": "FM",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "2000-06-03 - Nijmegen, Holland - Dynamo Open Air Festival [FM].txt"
     },
     {
       "year": 2000,
@@ -206,9 +219,10 @@ const ARTIST_DATA = {
       "state": "CO",
       "location": "Morrison, CO",
       "venue": "Red Rocks Amphitheatre",
-      "notes": "CSB · sxpxdxcx",
+      "notes": "CSB \u00b7 sxpxdxcx",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "2000-08-10 - Morrison, CO - Red Rocks Amphitheatre (Core Sound CSBs) (sxpxdxcx) [AUD].txt"
     },
     {
       "year": 2000,
@@ -219,9 +233,10 @@ const ARTIST_DATA = {
       "state": "Belgium",
       "location": "Hasselt, Belgium",
       "venue": "Domein Keiwit",
-      "notes": "Pukkelpop · x",
+      "notes": "Pukkelpop \u00b7 x",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "2000-08-25 - Hasselt, Belgium - Domein Keiwit - Pukkelpop Festival - CDR(x) [AUD].txt"
     },
     {
       "year": 2000,
@@ -232,9 +247,10 @@ const ARTIST_DATA = {
       "state": "NJ",
       "location": "Asbury Park, NJ",
       "venue": "Convention Hall",
-      "notes": "VHS(x) · unk",
+      "notes": "VHS(x) \u00b7 unk",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "2000-10-29 - Asbury Park, NJ - Convention Hall - VHS(x) (unk) [AUD].txt"
     },
     {
       "year": 2001,
@@ -245,9 +261,10 @@ const ARTIST_DATA = {
       "state": "Switzerland",
       "location": "Zurich, Switzerland",
       "venue": "Volkshaus",
-      "notes": "DAT(M) · ECM939T · ko",
+      "notes": "DAT(M) \u00b7 ECM939T \u00b7 ko",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "2001-05-21 - Zurich, Switzerland - Volkshaus - DAT(M) (ECM939T) (ko) [AUD].txt"
     },
     {
       "year": 2004,
@@ -258,9 +275,10 @@ const ARTIST_DATA = {
       "state": "Denmark",
       "location": "Roskilde, Denmark",
       "venue": "Orange Stage",
-      "notes": "Roskilde · CSC · jtl",
+      "notes": "Roskilde \u00b7 CSC \u00b7 jtl",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "2004-07-02 - Roskilde, Denmark - Orange Stage - Roskilde Festival (CSC) (jtl) [AUD].txt"
     },
     {
       "year": 2004,
@@ -273,7 +291,8 @@ const ARTIST_DATA = {
       "venue": "Hovet",
       "notes": "",
       "version": "FM",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "2004-10-14 - Stockholm, Sweden - Hovet [FM].txt"
     },
     {
       "year": 2004,
@@ -284,9 +303,10 @@ const ARTIST_DATA = {
       "state": "Denmark",
       "location": "Copenhagen, Denmark",
       "venue": "Valby",
-      "notes": "Hallen · CSC · unk",
+      "notes": "Hallen \u00b7 CSC \u00b7 unk",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "2004-10-19 - Copenhagen, Denmark - Valby - Hallen (CSC) (unk) [AUD].txt"
     },
     {
       "year": 2005,
@@ -299,7 +319,8 @@ const ARTIST_DATA = {
       "venue": "Rock am Ring",
       "notes": "",
       "version": "SBD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "2005-06-03 - Nurburg, Germany - Rock am Ring [SBD].txt"
     },
     {
       "year": 2008,
@@ -312,7 +333,8 @@ const ARTIST_DATA = {
       "venue": "Hammersmith Apollo",
       "notes": "DirecTV",
       "version": "PRO",
-      "format": "TS"
+      "format": "TS",
+      "textFile": "2008-12-01 - London, England - Hammersmith Apollo [PRO].txt"
     },
     {
       "year": 2009,
@@ -323,9 +345,10 @@ const ARTIST_DATA = {
       "state": "MN",
       "location": "St. Paul, MN",
       "venue": "Xcel Energy Center",
-      "notes": "AT943 · joel swaney",
+      "notes": "AT943 \u00b7 joel swaney",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "2009-01-23 - St. Paul, MN - Xcel Energy Center (AT943) [AUD].txt"
     },
     {
       "year": 2009,
@@ -336,9 +359,10 @@ const ARTIST_DATA = {
       "state": "MA",
       "location": "Lowell, MA",
       "venue": "Tsongas Arena",
-      "notes": "Edirol R9 · ec666",
+      "notes": "Edirol R9 \u00b7 ec666",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "2009-02-06 - Lowell, MA - Tsongas Arena (Edirol R9) (ec666) [AUD].txt"
     },
     {
       "year": 2009,
@@ -349,9 +373,10 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "Inglewood, CA",
       "venue": "The Forum",
-      "notes": "DSM6 · unk",
+      "notes": "DSM6 \u00b7 unk",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "2009-03-07 - Inglewood, CA - The Forum (DSM6) (unk) [AUD].txt"
     },
     {
       "year": 2009,
@@ -362,9 +387,10 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "San Diego, CA",
       "venue": "Cox Arena",
-      "notes": "CA-11 · porcelmc",
+      "notes": "CA-11 \u00b7 porcelmc",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "2009-03-08 - San Diego, CA - Cox Arena (CA-11) (porcelmc) [AUD].txt"
     },
     {
       "year": 2011,
@@ -375,9 +401,10 @@ const ARTIST_DATA = {
       "state": "Belgium",
       "location": "Dessel, Belgium",
       "venue": "Graspop Metal Meeting",
-      "notes": "SP-CMC-8 · unk",
+      "notes": "SP-CMC-8 \u00b7 unk",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "2011-06-26 - Dessel, Belgium - Graspop Metal Meeting (SP-CMC-8) [AUD].txt"
     },
     {
       "year": 2011,
@@ -388,9 +415,10 @@ const ARTIST_DATA = {
       "state": "England",
       "location": "Knebworth, England",
       "venue": "Sonisphere Festival",
-      "notes": "Knebworth · SP-CMC-8 · unk",
+      "notes": "Knebworth \u00b7 SP-CMC-8 \u00b7 unk",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "2011-07-10 - Knebworth, England - Sonisphere Festival - Knebworth House [AUD].txt"
     },
     {
       "year": 2012,
@@ -401,9 +429,10 @@ const ARTIST_DATA = {
       "state": "MI",
       "location": "Clarkston, MI",
       "venue": "DTE Energy Center",
-      "notes": "Zoom H2 · jamminj",
+      "notes": "Zoom H2 \u00b7 jamminj",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "2012-07-22 - Clarkston, MI - DTE Energy Center (Zoom H2) [AUD].txt"
     },
     {
       "year": 2012,
@@ -416,7 +445,8 @@ const ARTIST_DATA = {
       "venue": "SPAC (ATu83s) dassarri)",
       "notes": "",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "2012-07-31 - Saratoga Springs, NY - SPAC (AT853s) [AUD].txt"
     },
     {
       "year": 2012,
@@ -427,9 +457,10 @@ const ARTIST_DATA = {
       "state": "CT",
       "location": "Hartford, CT",
       "venue": "Comcast Theatre",
-      "notes": "RCA VR5220-A · aia1994",
+      "notes": "RCA VR5220-A \u00b7 aia1994",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "2012-08-05 - Hartford, CT - Comcast Theatre (aia1994) [AUD].txt"
     },
     {
       "year": 2013,
@@ -440,9 +471,10 @@ const ARTIST_DATA = {
       "state": "Belgium",
       "location": "Dessel, Belgium",
       "venue": "Graspop Metal Meeting",
-      "notes": "SP-CMC-8 · unk",
+      "notes": "SP-CMC-8 \u00b7 unk",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "2013-06-29 - Dessel, Belgium - Graspop Metal Meeting [AUD].txt"
     },
     {
       "year": 2014,
@@ -453,9 +485,10 @@ const ARTIST_DATA = {
       "state": "CT",
       "location": "Uncasville, CT",
       "venue": "Mohegan Sun Arena",
-      "notes": "CA-14 · tripkore",
+      "notes": "CA-14 \u00b7 tripkore",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "2014-12-05 - Uncasville, CT - Mohegan Sun Arena (CA-14) [AUD].txt"
     },
     {
       "year": 2014,
@@ -466,9 +499,10 @@ const ARTIST_DATA = {
       "state": "MA",
       "location": "Lowell, MA",
       "venue": "Tsongas Arena",
-      "notes": "CA-14 · tripkore",
+      "notes": "CA-14 \u00b7 tripkore",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "2014-12-07 - Lowell, MA - Tsongas Arena (CA-14) [AUD].txt"
     },
     {
       "year": 2015,
@@ -478,7 +512,7 @@ const ARTIST_DATA = {
       "city": "Budapest",
       "state": "Hungary",
       "location": "Budapest, Hungary",
-      "venue": "Papp László Sportaréna",
+      "venue": "Papp La\u0301szlo\u0301 Sportare\u0301na",
       "notes": "unk",
       "version": "AUD",
       "format": "FLAC"
@@ -492,9 +526,10 @@ const ARTIST_DATA = {
       "state": "Germany",
       "location": "Berlin, Germany",
       "venue": "Max-Schmeling-Halle",
-      "notes": "AT853 · jederlacht",
+      "notes": "AT853 \u00b7 jederlacht",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "2015-02-07 - Berlin, Germany - Max-Schmeling-Halle [AUD].txt"
     },
     {
       "year": 2015,
@@ -505,9 +540,10 @@ const ARTIST_DATA = {
       "state": "TN",
       "location": "Knoxville, TN",
       "venue": "Knoxville Civic Coliseum",
-      "notes": "CSB · thefixxxer",
+      "notes": "CSB \u00b7 thefixxxer",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "2015-05-05 - Knoxville, TN - Knoxville Civic Coliseum (CSB) (thefixxxer) [AUD].txt"
     },
     {
       "year": 2016,
@@ -518,9 +554,10 @@ const ARTIST_DATA = {
       "state": "MA",
       "location": "Mansfield, MA",
       "venue": "Xfinity Center",
-      "notes": "CA-11 · ec666",
+      "notes": "CA-11 \u00b7 ec666",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "2016-07-05 - Mansfield, MA - Xfinity Center [AUD].txt"
     },
     {
       "year": 2016,
@@ -531,9 +568,10 @@ const ARTIST_DATA = {
       "state": "OH",
       "location": "Cincinnati, OH",
       "venue": "Riverbend Music Center",
-      "notes": "Zoom H1 · hollowmoons",
+      "notes": "Zoom H1 \u00b7 hollowmoons",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "2016-07-12 - Cincinnati, OH - Riverbend Music Center [AUD].txt"
     },
     {
       "year": 2019,
@@ -546,7 +584,8 @@ const ARTIST_DATA = {
       "venue": "Download Festival",
       "notes": "1080p",
       "version": "Webcast",
-      "format": "MKV"
+      "format": "MKV",
+      "textFile": "2019-06-15 - Castle Donington, UK - Download Festival (1080p) [MKV].txt"
     },
     {
       "year": 2019,
@@ -557,9 +596,10 @@ const ARTIST_DATA = {
       "state": "Hungary",
       "location": "Sopron, Hungary",
       "venue": "VOLT Festival",
-      "notes": "CA-14 · h0mer1983",
+      "notes": "CA-14 \u00b7 h0mer1983",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "2019-06-26 - Sopron, Hungary - VOLT Festival (CA-14) [AUD].txt"
     },
     {
       "year": 2019,
@@ -570,9 +610,10 @@ const ARTIST_DATA = {
       "state": "Portugal",
       "location": "Lisbon, Portugal",
       "venue": "Altice Arena",
-      "notes": "VOA · Soundman OKM II Pop AVs · antihero",
+      "notes": "VOA \u00b7 Soundman OKM II Pop AVs \u00b7 antihero",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "2019-07-04 - Lisbon, Portugal - Altice Arena - VOA Heavy Rock Festival (Soundman OKM II Pop AVs) (antihero) [AUD].txt"
     },
     {
       "year": 2019,
@@ -585,7 +626,8 @@ const ARTIST_DATA = {
       "venue": "Resurrection Fest",
       "notes": "sbr1z",
       "version": "Webcast",
-      "format": "MKV"
+      "format": "MKV",
+      "textFile": "2019-07-05 - Viveiro, Spain - Resurrection Fest [WEBCAST].txt"
     },
     {
       "year": 2019,
@@ -596,9 +638,10 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "Mountain View, CA",
       "venue": "Shoreline Amphitheatre",
-      "notes": "DPA 4061s · unk",
+      "notes": "DPA 4061s \u00b7 unk",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "2019-07-26 - Mountain View, CA - Shoreline Amphitheatre (DPA 4061) [AUD].txt"
     },
     {
       "year": 2019,
@@ -609,9 +652,10 @@ const ARTIST_DATA = {
       "state": "MO",
       "location": "Maryland Heights, MO",
       "venue": "Hollywood Casino Amphitheater",
-      "notes": "Nokia Lumia · cptncrash76",
+      "notes": "Nokia Lumia \u00b7 cptncrash76",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "2019-08-18 - Maryland Heights, MO - Hollywood Casino Amphitheater (Nokia) [AUD].txt"
     },
     {
       "year": 2020,
@@ -622,9 +666,10 @@ const ARTIST_DATA = {
       "state": "England",
       "location": "Manchester, England",
       "venue": "Manchester Arena",
-      "notes": "CA-14 · unk",
+      "notes": "CA-14 \u00b7 unk",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "2020-01-16 - Manchester, England - Manchester Arena (CA-14) [AUD].txt"
     },
     {
       "year": 2020,
@@ -635,9 +680,10 @@ const ARTIST_DATA = {
       "state": "England",
       "location": "Manchester, England",
       "venue": "Manchester Arena",
-      "notes": "SP-CMC-8 · unk",
+      "notes": "SP-CMC-8 \u00b7 unk",
       "version": "",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "2020-01-16 - Manchester, England - Manchester Arena (CP-CMC-9) [AUD].txt"
     },
     {
       "year": 2021,
@@ -648,9 +694,10 @@ const ARTIST_DATA = {
       "state": "IL",
       "location": "Chicago, IL",
       "venue": "Doublass Park",
-      "notes": "Riot · AT853s · tj",
+      "notes": "Riot \u00b7 AT853s \u00b7 tj",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "2021-09-19 - Chicago, IL - Doublass Park - Riot Festival (AT853s) (tj) [AUD].txt"
     },
     {
       "year": 2022,
@@ -661,9 +708,10 @@ const ARTIST_DATA = {
       "state": "ON",
       "location": "Ottawa, ON",
       "venue": "Canadian Tire Center",
-      "notes": "Knotfest · CA-14s · scooby",
+      "notes": "Knotfest \u00b7 CA-14s \u00b7 scooby",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "2022-05-29 - Ottawa, ON - Canadian Tire Center - Knotfest (CA-14s) (scooby) [AUD]  .txt"
     },
     {
       "year": 2024,
@@ -674,9 +722,10 @@ const ARTIST_DATA = {
       "state": "NV",
       "location": "Las Vegas, NV",
       "venue": "Las Vegas Fairgrounds",
-      "notes": "Sick · iPhone · anonymous",
+      "notes": "Sick \u00b7 iPhone \u00b7 anonymous",
       "version": "AUD",
-      "format": "FLAC 24"
+      "format": "FLAC 24",
+      "textFile": "2024-04-27 - Las Vegas, NV - Las Vegas Fairgrounds - Sick New World (iPhone) (anonymous) [AUD24].txt"
     },
     {
       "year": 2024,
@@ -689,7 +738,8 @@ const ARTIST_DATA = {
       "venue": "Pinkpop",
       "notes": "Corey Taylor",
       "version": "TV",
-      "format": "TS"
+      "format": "TS",
+      "textFile": "2024-06-22 - Landgraaf, The Netherlands - Pinkpop (Corey Taylor) [TV].txt"
     },
     {
       "year": 2024,
@@ -700,9 +750,10 @@ const ARTIST_DATA = {
       "state": "France",
       "location": "Clisson, France",
       "venue": "Hellfest",
-      "notes": "Mainstage · arte.tv Livestream, 1080p · Corey Taylor",
+      "notes": "Mainstage \u00b7 arte.tv Livestream, 1080p \u00b7 Corey Taylor",
       "version": "PRO",
-      "format": "MP4"
+      "format": "MP4",
+      "textFile": "2024-06-30 - Clisson, France - Hellfest - Mainstage 2 (arte.tv Livestream, 1080p) (Corey Taylor) [MP4].txt"
     },
     {
       "year": 2025,
@@ -713,9 +764,10 @@ const ARTIST_DATA = {
       "state": "SWE",
       "location": "Norje, SWE",
       "venue": "Sweden Rock Festival",
-      "notes": "Zoom H2n · d.m.",
+      "notes": "Zoom H2n \u00b7 d.m.",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "2025-06-04 - Norje, SWE - Sweden Rock Festival (Zoom H2n) (d.m.) [AUD].txt"
     },
     {
       "year": 2025,
@@ -728,7 +780,8 @@ const ARTIST_DATA = {
       "venue": "Rock am Ring",
       "notes": "Bild.de Livestream",
       "version": "Webcast",
-      "format": "TS"
+      "format": "TS",
+      "textFile": "2025-06-07 - Nurburg, Germany - Rock am Ring (Bild.de Livestream) [WEB] .txt"
     }
   ],
   "misc": []

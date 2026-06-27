@@ -1,0 +1,17 @@
+Tool - 2001.09.06
+Xcel Energy Center - St. Paul, MN, USA
+version 4
+
+media type: FLAC 
+source: Core Sound Binaurals > Sony MZ-r70 > unknown transfer > unknown Gen CDR > EAC > FLAC
+taper: Curt Branum
+trade status: can trade
+
+disc 1 - 9 tracks - 72:48
+disc 2 - 7 tracks - 38:13
+
+notes: This is most likely the MZ-r70 source. After examining the frequencies of this version versus version 2, this one appears to be MD sourced. There is still a possibility that this source info is incorrect. 
+
+
+
+

@@ -1,0 +1,12 @@
+Tool - 2006.05.13
+Auditorium Theatre - Chicago, IL, USA
+version 2
+
+media type: FLAC
+source: IEM > MT24/96 (@24/48) > 0 gen FLAC
+taper: unknown
+trade status: can trade
+
+disc 1 - 13 tracks - 93:07
+
+Notes: World premiere of Right In Two

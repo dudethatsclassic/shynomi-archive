@@ -1,0 +1,56 @@
+Jeff Buckley
+14 May 1995
+The Barrymore Theatre, Madison, WI
+
+I'm a Beavis with Butthead rising
+
+source: AUD > ?Gens > Trade CDr > EAC > FLAC 
+Me: FLAC > xAct > WAV > Audacity > WAV > FLAC
+Downsampled to 16/44.1 with Switch
+
+Art included
+
+Set List:
+---------
+01 Band Intros
+02 Dream Brother
+03 Chocolate -> Mojo Pin
+04 Chat: "What's My Sign?"
+05 Last Goodbye
+06 Chat "I think God has MTV as well"
+07 So Real
+08 Lover, You Should've Come Over
+09 Chat "I have this pedal" -> Love Hurts tease
+10 Eternal Life -> Kick Out The Jams
+11 Thats All I Ask
+12 Lilac Wine
+13 What Will You Say
+14 Grace 
+15 Je N'en Connais Pas le Fin
+16 Hallelujah
+17 Band Intros
+18 Vancouver -> Kanga-Roo
+
+TT: 1:53:54
+
+Jeff Buckley - Guitars & Vocals
+Michael Tighe - Guitars
+Mick Grondahl - Bass
+Matt Johnson - Drums 
+
+The Bluebird was more-or-less the mid-point of the Spring 1995 leg of the seemingly-eternal Mystery White Boy Tour. After a day off, the band played the famed 1st Ave Club in Minneapolis before moving on to Chicago, where their show at the Cabaret Metro has been officially released on DVD as https://www.discogs.com/master/81021-Jeff-Buckley-Live-In-Chicago and later as a digital DL in 2019 as part of the 25th anniversary of Grace.
+
+From Chicago, it was a quick hop to the historic Barrymore Theatre in Madison, WI. At 1000+ seats, the Barrymore was twice the size of the venues the band had mostly played thus far on the tour, and Jeff struggles with some tech issues, but the band is in great form and play a spirited set that doesn't stray too far from the regulars. Early on, Jeff notes that MTV is present, apparently filming the show. If this WAS filmed, I know of no release, unless it was used in the background of some MTV programme over the years. Nonetheless, the gag is continued throughout the evening.
+
+The show itself magnificent. Jeff is in great voice in front of a very appreciative crowd. We get a gorgeous "Lilac Wine" after the hard rock section, and a little Edith Piaf during the solo section. After the encore break, Jeff introduces the band and is apparently handed a bouquet, which leads to an amusing Morrissey take. The furious medley of "Vancouver/Kanga-Roo" is introduced as "Kill Your MTV", continuing the running joke of the evening. The tape ends abruptly during Jeff's final band intros.
+
+I received this show on two trade CDrs many years ago. It wasn't burned DAO, so I used Audacity to remove the 2-second gaps, and while I was in there, I removed a few of the more offending clicks etc, before re-tracking it. The encore break was abruptly cut out, so I cross-faded to cover that. There are still a few very minor artefacts which I left alone. The show is also quite over-saturated. I tried playing with some minor EQ but ultimately decided it was best to leave that for someone with more audio editing skills than I, so I present the sound as-is. Despite the faults, it's Avery listenable recording, well-balanced and everyone is audible.
+
+
+Files verified, tagged, and renamed to etree conventions; new checksums generated. 
+Text file updated, compiled & copy-edited by lovesick alien 2024-09-29
+--------------------------------------------------------------------------------
+Trade Freely. Never Sell. 
+Support the Artist: Purchase ALL authorised releases. 
+Support the Trading Community: Never Encode to lossy formats.
+--------------------------------------------------------------------------------

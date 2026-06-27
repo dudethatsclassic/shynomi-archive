@@ -21,7 +21,8 @@ const ARTIST_DATA = {
       "venue": "Wilbur Theatre",
       "notes": "",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "2013-10-08 - Boston, MA - Wilbur Theatre [AUD].txt"
     },
     {
       "year": 2017,
@@ -34,7 +35,8 @@ const ARTIST_DATA = {
       "venue": "Express Live",
       "notes": "",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "2017-07-26 - Columbus, OH - Express Live [AUD].txt"
     },
     {
       "year": 2017,
@@ -47,7 +49,8 @@ const ARTIST_DATA = {
       "venue": "Rose Music Center",
       "notes": "",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "2017-07-29 - Huber Heights, OH - Rose Music Center [AUD].txt"
     }
   ],
   "misc": []

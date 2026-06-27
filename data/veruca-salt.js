@@ -25,9 +25,10 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "Palo Alto, CA",
       "venue": "The Edge",
-      "notes": "Binaurals · marcr",
+      "notes": "Binaurals \u00b7 marcr",
       "version": "AUD",
-      "format": "FLAC 24"
+      "format": "FLAC 24",
+      "textFile": "1994-11-12 - Palo Alto, CA - The Edge (Binaurals) (marcr) [AUD24].txt"
     },
     {
       "year": 1994,
@@ -40,7 +41,8 @@ const ARTIST_DATA = {
       "venue": "Universal Amphitheatre",
       "notes": "",
       "version": "FM",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1994-12-10 - Universal City, CA - Universal Amphitheatre [FM].txt"
     },
     {
       "year": 1995,
@@ -53,7 +55,8 @@ const ARTIST_DATA = {
       "venue": "Glasgow Garage (NME Tour)",
       "notes": "ANA(x)",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1995-01-16 - Glasgow, Scotland - Glasgow Garage (NME Tour) - ANA(x) [AUD].txt"
     },
     {
       "year": 1995,
@@ -66,7 +69,8 @@ const ARTIST_DATA = {
       "venue": "Studio 105",
       "notes": "",
       "version": "FM",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1995-01-25 - Paris, France - Studio 105 [FM].txt"
     },
     {
       "year": 1995,
@@ -77,9 +81,10 @@ const ARTIST_DATA = {
       "state": "CO",
       "location": "Denver, CO",
       "venue": "Ogden Theatre",
-      "notes": "Binaural Mics · marcr",
+      "notes": "Binaural Mics \u00b7 marcr",
       "version": "AUD",
-      "format": "FLAC 24"
+      "format": "FLAC 24",
+      "textFile": "1995-04-25 - Denver, CO - Ogden Theatre (Binaural Mics) (marcr) [AUD24].txt"
     },
     {
       "year": 1995,
@@ -92,7 +97,8 @@ const ARTIST_DATA = {
       "venue": "The Palace",
       "notes": "1st gen",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1995-05-05 - Hollywood, CA - The Palace (1st gen) [AUD].txt"
     },
     {
       "year": 1995,
@@ -105,7 +111,8 @@ const ARTIST_DATA = {
       "venue": "Meadows Music Theater",
       "notes": "",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1995-09-10 - Hartford CT  - Meadows Music Theater [AUD].txt"
     },
     {
       "year": 1997,
@@ -118,7 +125,8 @@ const ARTIST_DATA = {
       "venue": "Indre Studios",
       "notes": "qew",
       "version": "FM",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1997-07-30 - Philadelphia, PA - Indre Studios (qew) [FM].txt"
     },
     {
       "year": 1997,
@@ -131,7 +139,8 @@ const ARTIST_DATA = {
       "venue": "Riddarholmen",
       "notes": "",
       "version": "FM",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1997-08-13 - Stockholm, Sweden - Riddarholmen [FM].txt"
     },
     {
       "year": 1997,
@@ -142,9 +151,10 @@ const ARTIST_DATA = {
       "state": "SWE",
       "location": "Stockholm, SWE",
       "venue": "Water Festival",
-      "notes": "VHS(1) · travisbickle1963",
+      "notes": "VHS(1) \u00b7 travisbickle1963",
       "version": "AUD",
-      "format": "MKV"
+      "format": "MKV",
+      "textFile": "1997-08-13 - Stockholm, SWE - Water Festival - VHS(1) (travisbickle1963) [MKV].txt"
     },
     {
       "year": 1997,
@@ -157,7 +167,8 @@ const ARTIST_DATA = {
       "venue": "Bizarre Festival",
       "notes": "",
       "version": "PRO",
-      "format": "DVD"
+      "format": "DVD",
+      "textFile": "1997-08-15 - Cologne, Germany - Bizarre Festival (PRO) [DVD].txt"
     },
     {
       "year": 1997,
@@ -168,9 +179,10 @@ const ARTIST_DATA = {
       "state": "IA",
       "location": "Des Moines, IA",
       "venue": "Super Toad",
-      "notes": "DAT(M) · CSB · cpscps",
+      "notes": "DAT(M) \u00b7 CSB \u00b7 cpscps",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1997-11-10 - Des Moines, IA - Super Toad [AUD].txt"
     },
     {
       "year": 2003,
@@ -183,7 +195,8 @@ const ARTIST_DATA = {
       "venue": "Splendour In The Grass",
       "notes": "",
       "version": "FM",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "2003-07-19 - Byron Bay, Australia - Splendour In The Grass [FM].txt"
     },
     {
       "year": 2014,
@@ -196,7 +209,8 @@ const ARTIST_DATA = {
       "venue": "Mississippi Studios",
       "notes": "",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "2014-06-22 - Portland, OR - Mississippi Studios [AUD].txt"
     },
     {
       "year": 2014,
@@ -207,9 +221,10 @@ const ARTIST_DATA = {
       "state": "OR",
       "location": "Portland, OR",
       "venue": "Mississippi Studios",
-      "notes": "WAV(M) · CA-11 · kris sproul",
+      "notes": "WAV(M) \u00b7 CA-11 \u00b7 kris sproul",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "2014-06-22 - Portland, OR - Mississippi Studios - WAV(M) (CA-11) (kris sproul) [AUD].txt"
     },
     {
       "year": 2014,
@@ -222,7 +237,8 @@ const ARTIST_DATA = {
       "venue": "",
       "notes": "",
       "version": "AUD",
-      "format": ""
+      "format": "",
+      "textFile": "2014-06-23 - Seattle, WA - Tractor Tavern [AUD].txt"
     },
     {
       "year": 2014,
@@ -235,7 +251,8 @@ const ARTIST_DATA = {
       "venue": "Factory Theatre",
       "notes": "",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "2014-10-02 - Sydney Australia - Factory Theatre [AUD].txt"
     },
     {
       "year": 2015,
@@ -248,7 +265,8 @@ const ARTIST_DATA = {
       "venue": "Amoeba Music",
       "notes": "",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "2015-07-13 - Hollywood, CA - Amoeba Music [AUD].txt"
     },
     {
       "year": 2015,
@@ -259,9 +277,10 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "North Hollywood, CA",
       "venue": "Federal Bar",
-      "notes": "Mimosa Music Sunday · AT831",
+      "notes": "Mimosa Music Sunday \u00b7 AT831",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "2015-07-19 - North Hollywood, CA - Federal Bar (Mimosa Music Sunday) (AT831) [AUD].txt"
     },
     {
       "year": 2015,
@@ -274,7 +293,8 @@ const ARTIST_DATA = {
       "venue": "Beat Kitchen",
       "notes": "",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "2015-07-25 - Chicago, IL - Beat Kitchen [AUD].txt"
     },
     {
       "year": 2018,
@@ -287,7 +307,8 @@ const ARTIST_DATA = {
       "venue": "The Lodge Room",
       "notes": "",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "2018-02-17 - Los Angeles, CA - The Lodge Room [AUD].txt"
     },
     {
       "year": 2024,
@@ -298,9 +319,10 @@ const ARTIST_DATA = {
       "state": "",
       "location": "Norwegian Pearl",
       "venue": "Atrium",
-      "notes": "Summer · Louise Post · Zoom H4N · unk",
+      "notes": "Summer \u00b7 Louise Post \u00b7 Zoom H4N \u00b7 unk",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "2024-04-21 - Norwegian Pearl - Atrium - Summer of 99 Cruise (Louise Post) (Zoom H4N) (unk) [AUD].txt"
     }
   ],
   "misc": []

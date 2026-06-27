@@ -1,0 +1,112 @@
+Paramore
+June 15, 2018
+Raliegh, North Carolina
+Red Hat Amphitheater
+Lineage: SP-CMC-8(AT8538 Mod)>CA-9100>Edirol R-05>PC>Adobe Audition>CDWAVE>FLAC
+Taped by: Porcelmc 
+
+_____________________________________________________________
+
+Setlist - Paramore
+
+01. Grudges
+02. Still Into You
+03. Rose-Colored Boy
+04. That's What You Get
+05. Crushcrushcrush
+06. Hayley Speaks
+07. Fake Happy
+08. Playing God
+09. Forgiveness
+10. Ignorance
+11. Pool
+XX. Acoustic Set Up Break (CUT)
+12. Hayley Speaks #2
+13. Passionfruit
+14. Hayley Speaks #3
+15. Misguided Ghosts
+16. Hayley Speaks #4
+17. 26
+XX. Acoustic Tear Down Break (CUT)
+18. Caught in the Middle
+19. Idle Worship
+20. No Friend
+21. Hayley Speaks #5
+22. Misery Business
+23. Aint It Fun
+24. Encore Break
+25. Told You So
+26. All That Love Is
+27. Band Intros
+28. Hard Times
+
+_____________________________________________________________
+
+Notes: For all of the super duper kick ass women of the universe. Enjoy!
+
+
+
+Sample: https://www.youtube.com/watch?v=jjpdDFyFT58
+
+
+ST5 Hash File:
+
+473724da1b8e23dcded1cb66a10e6c13 *01_Grudges.flac
+bfbc3d738c0942d785b73b63e960a98a *02_Still Into You.flac
+1452108da913d97354432725dfb37f17 *03_Rose Colored Boy.flac
+249caf22aa3337464c17ffddea38a1d5 *04_That's What You Get.flac
+c49b52fdb68a0704013abc71bc3412e7 *05_Crushcrushcrush.flac
+542bd529370d9ebc3566a99ba2055588 *06_Hayley Speaks.flac
+bd0ae62878de4e89df30da3a739766c7 *07_Fake Happy.flac
+ef24d1fbc367e43f372a03b72181e047 *08_Playing God.flac
+66a2065e861fc97eeb30e0649e299feb *09_Forgiveness.flac
+f309c09c4c2f4867099c50b862e5d5cd *10_Ignorance.flac
+a5d147cb8780fe211cad27c2578f09a2 *11_Pool.flac
+477fd2ebe3062d0e75cb7a6482e35148 *12_Haley Speaks #2.flac
+5ee6d215d2a14dd3dfe4af4ab4e22c6f *13_Passionfruit.flac
+ab129a89440d6a1d82843ea318676a71 *14_Hayley Speaks #3.flac
+b1e92b48fbc6c840e9cd477253aacea4 *15_Misguided Ghosts.flac
+bb41c85a3a69945f3c73e4bea632b3c1 *16_Hayley Speaks #4.flac
+1c449477cf88cf4538ef70840565bb1f *17_26.flac
+1b12b137be8b0a511658931bc71fcb5e *18_Caught in the Middle.flac
+492adb569617992c6c0310235b9eb263 *19_Idle Worship.flac
+56ce5ff7e4a99da504b551c7a9dfcb2e *20_No Friend.flac
+910d1682df8a8947e554073945962624 *21_Hayley Speaks #5.flac
+6c6b485cfa3937c002a77b5ee7c53b72 *22_Misery Business.flac
+9890248b2ffc77d88869893c884e6f10 *23_Aint It Fun.flac
+67166e9187b9fde025286c7878903942 *24_Encore Break.flac
+60c671049080ccd6d9be2012cede3de2 *25_Told You So.flac
+f281f06002548040c026cbbf73c12ae3 *26_All That Love Is.flac
+06e44ea49fa614f7590634a8e66f0790 *27_Band Intros.flac
+92f86ca1d6fe97e6427992366b05980f *28_Hard Times.flac
+
+Flac Fingerprint File:
+
+01_Grudges.flac:53c2005edc0b0a66545bd8da1fe58034
+02_Still Into You.flac:5533b06ceac5f0887af79b2943ba779a
+03_Rose Colored Boy.flac:b1d744e6d0151fb9a04d2c44c0bb9668
+04_That's What You Get.flac:f4e18c90b537a392fc1d4e9038fdb0b5
+05_Crushcrushcrush.flac:7b1c24772a97163709889095c94a0d1c
+06_Hayley Speaks.flac:9c9d18670cb7565ad2c25604a6e95ee4
+07_Fake Happy.flac:8735b6c3ef9a5de1aef03e3220c8cfc7
+08_Playing God.flac:4d1483a7bcd2ac41ca9f05f5770963dd
+09_Forgiveness.flac:eedbe8b8934857e800c7ce09e93ac305
+10_Ignorance.flac:ed73b128b2db122dcdab74a1dab7a69c
+11_Pool.flac:b25cf7fcd4fc03a27793fec00a9009da
+12_Haley Speaks #2.flac:ecc845f6168893e1bc11a82a1aeed283
+13_Passionfruit.flac:1a609588c6fd26a4ed42b0ae309d5517
+14_Hayley Speaks #3.flac:322bac7cd4c16c43c71bad81a47918d5
+15_Misguided Ghosts.flac:bfa300700ce696bd045e36cec986f72c
+16_Hayley Speaks #4.flac:780b935cca1f2a525166c3960b1a5a8f
+17_26.flac:51bd63973676d39cb21c55cfa35caeeb
+18_Caught in the Middle.flac:a81e01c2d059413262c5494556c4898f
+19_Idle Worship.flac:95564360cff352d4ee115cf6eb58c26c
+20_No Friend.flac:d638fe9ba928007060691e234af61f9f
+21_Hayley Speaks #5.flac:6f33afda64131febfd6c7bf43b8b9e80
+22_Misery Business.flac:8913cdf28ae6401eacc8b80550f96743
+23_Aint It Fun.flac:f00c981d0e6d7c11b5fbf8a9c8f40398
+24_Encore Break.flac:61a502cbeead399cb1134282bd3dd9f2
+25_Told You So.flac:e53f56b49661ec63e43976cd513c1be7
+26_All That Love Is.flac:fe14f43fea0cc085f2bd9bb08691dfd2
+27_Band Intros.flac:d401f7c45a074139abcf0aa6ced053cf
+28_Hard Times.flac:5ed9cc2c4ad530bee01c63af14e48f97

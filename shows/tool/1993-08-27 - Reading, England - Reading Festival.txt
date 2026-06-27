@@ -1,0 +1,44 @@
+Tool
+Main Stage
+Reading Festival
+England
+27th August 1993
+
+Taper - Peter Bullock
+
+Source - Realistic mic > Sony WM-F2097
+
+Transfer - ANA(M) > MD(1) > Unknown Transfer to PC > Wav > Audacity > Wav > FLAC (align, verify, lvl8)
+
+Editing - Splits
+
+01. Intro
+02. Intolerance
+03. Undertow
+04. Sober
+05. Opiate
+06. Flood
+07. Jerk-Off (cut)
+
+Total time - 31 min 00 sec
+
+Notes - Analogue master thrown out; mini disc backup now serves as master.  
+
+Transfered November 06 by taper
+Compiled by jadg2/James
+
+
+
+*Do not sell*
+*Do not mp3*
+
+Fingerprints:
+
+02 - Intolerance.flac:b4cfaee41eabf3c927d29a65a4fdc191
+03 - Undertow.flac:93cbb83eb437f73a4120ca82b5a0d301
+04 - Sober.flac:db6c7e9a3c12eeaa7534ec8f7efad11b
+05 - Opiate.flac:48e3bd4d0a1bebceaf85fe3820de0d51
+06 - Flood.flac:18033804d95b4d7a0f18f4368326d391
+07 - Jerk-Off.flac:9e2587f1aecf4bc93a00619565ec665c
+01 - Intro.flac:2a86cebc932e22b16a15d807ba64794e
+

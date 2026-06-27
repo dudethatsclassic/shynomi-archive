@@ -1,0 +1,12 @@
+Tool - 2001.06.09
+Apollo Theatre - Manchester, England
+version 4
+
+media type: FLAC
+source: Panasonic mic (unknown model) > Sony MZ-R90 > unknown transfer > 2nd Gen CDR > EAC > FLAC
+trade status: can trade
+
+disc 1 - 9 tracks - 67:52
+disc 2 - 5 tracks - 34:19
+
+notes: The show has transition inconsistencies and the bass is brickwalled but the rest is nice.

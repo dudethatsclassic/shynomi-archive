@@ -1,0 +1,48 @@
+Tool
+=====
+April 30, 2006
+Coachella Music & Arts Festival
+Empire Polo Grounds, Indio, California
+
+VIDEO:
+AUD - Sony TRV-900 miniDV, no external mics - NTSC - 4:3 - 9200 kbps
+
+AUDIO:
+
+Matrix of 3 sources
+-------------------
+Stereo AC3 - 448 kbps
+
+• Source 1: Sony TRV-900 miniDV, no external mics
+Taper: cesaro
+
+• Source 2: Danish Pro Audio 4060 > Sony PCM-M1
+Taper: BoldCaptain
+
+• Source 3: Danish Pro Audio 4061 > Sony MZ-RH10
+Taper: Adam Lancaster
+
+------
+TRACKS
+------
+Stinkfist
+The Pot
+Forty-Six & 2
+Jambi
+Schism
+Eon Blue Apocalypse > The Patient
+Sober
+Lateralus
+Vicarious
+Ænema
+
+---------
+
+I decided to give it a try to the audio, considering all the sources available.
+After a few test and mixing all the sources, I decided to use the ones provided by BoldCaptain & Adam Lancaster, keeping the original audio from the Sony TRV-900 MiniDV. Retouched and sync them, and this is the best version I was able to create.
+I think the result is pretty good.
+
+As always, thanks a lot to all tapers (BoldCaptain / Adam Lancaster / cesaro)
+
+Audio mix, remaster & DVD authoring by Alvarojam
+April 19, 2025

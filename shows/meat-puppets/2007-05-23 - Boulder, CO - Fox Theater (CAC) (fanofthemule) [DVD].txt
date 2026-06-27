@@ -1,0 +1,82 @@
+Meat Puppets   (2x DVD) 2-CAM MIX
+2007-05-23
+Fox Theater
+Boulder,CO(USA)
+
+
+
+
+
+Video / Audio taped by : fanofthemule
+
+Edit-Authored : Beatkilla
+
+
+
+
+
+Source:  2x Mini Dv cam on Tripods > Master Mini DV tapes > firewire > PC
+
+Source : Church-Audio Cardioids > (Fostex fr2le) 
+
+
+In 2007 i mixed and edited the entire project in Sony Vegas Pro > DVD Architect
+
+
+~ Back in 2007 fanofthemule sent me his masters to put together a DVD.
+
+
+
+
+
+
+General
+Complete name                            : C:\Meat Puppets  2007-05-23 DVD
+Format                                   : MPEG-PS
+Overall bit rate mode                    : Variable
+Overall bit rate                         : 9 517 kb/s
+
+Video
+ID                                       : 224 (0xE0)
+Format                                   : MPEG Video
+Format version                           : Version 2
+Format profile                           : Main@Main
+Format settings                          : BVOP
+Format settings, BVOP                    : Yes
+Format settings, Matrix                  : Default
+Format settings, GOP                     : M=3, N=15
+Format settings, picture structure       : Frame
+Bit rate mode                            : Variable
+Bit rate                                 : 7 792 kb/s
+Maximum bit rate                         : 8 000 kb/s
+Width                                    : 720 pixels
+Height                                   : 480 pixels
+Display aspect ratio                     : 16:9
+Frame rate                               : 29.970 (30000/1001) FPS
+Standard                                 : NTSC
+Color space                              : YUV
+Chroma subsampling                       : 4:2:0
+Bit depth                                : 8 bits
+Scan type                                : Interlaced
+Scan order                               : Bottom Field First
+Compression mode                         : Lossy
+Bits/(Pixel*Frame)                       : 0.752
+Time code source                         : Group of pictures header
+GOP, Open/Closed                         : Open
+
+
+Audio
+ID                                       : 189 (0xBD)-160 (0xA0)
+Format                                   : PCM
+Format settings                          : Big / Signed
+Muxing mode                              : DVD-Video
+Bit rate mode                            : Constant
+Bit rate                                 : 1 536 kb/s
+Channel(s)                               : 2 channels
+Sampling rate                            : 48.0 kHz
+Bit depth                                : 16 bits
+Delay relative to video                  : -418 ms
+
+
+Setlist
+

@@ -1,0 +1,103 @@
+10,000 Lakes Ferstival
+July 23rd to 26
+Soo Pass Ranch
+Detroit Lakes, Minnesota
+~~~~~~~~~~~~~~~~~~~~~~~~~
+The Flaming Lips
+July 25th, 2008 ~9:00PM
+Main Stage
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Source: Josephson's C42MP -> Marantz PMD 660 -> CF* @ 16bits/44.1Khz
+Configuration: X-Y
+Distance: about 150 to 200 feet, 10 feet to the right and 10 in front of the SBD
+Height: 8'-0" 
+
+Transfer: CF Card* (Lexar Pro UDMA - 300x) -> PC
+Remastering: Wavelab - Ozone, Minor Graphical Edits -> CD Wave -> FlacFrontend (L8) -> Traders Little Helper (checks included)
+
+Recording, transfer and editing by Michael Townshend (mtownshend1@gmail.com)
+August 14, 2008
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Disk One:
+01. Intro
+02. Race For The Prize
+03. Free Radicals
+04. The Song Remains the Same (Led Zep cover)
+05. Fight Test
+06. Mountain Side
+07. Vein Of Stars
+08. Yoshimi Battles The Pink Robots Pt. 1
+
+
+Disk Two:
+01. Pompeii Am Götterdämmerung
+02. Yeah Yeah Yeah Warmup
+03. Yeah Yeah Yeah Song
+04. Taps
+05. The W.A.N.D.
+06. She Don't Use Jelly
+07. Crowd/Chatter
+08. Do You Realize
+
+
+Total Time: 2 hours, 5 minutes, 8 seconds
+
+Comments:
+I thouroughly enjoy using these Josephson mics. Thanks -J
+
+As far as my ears had learned from several other bands on this stage, the lawn was in the sweet spot, tho farther than normal back, the stacks were aimed back that far.  There were tapers located 75+ feet up at the Videogrepher's tent, in "the bowl" which was a concrete floor with a bowl shaped wall at the rear.  I didn't want anything to do with taping on concrete in front of a 6' wall, not that they got horrible sound, mind you, I don't know.
+
+Visit: http://www.10klf.com/artists.php to learn more about the festival and the lineup
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+The Flaming Lips:
+Wayne Coyne-Vocals
+Ronald Jones-Guitarist 
+Michael Ivins-Bassist 
+Steven Drozd-Drummer 
+(Please let me know if I have this lineup wrong)
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+http://s276.photobucket.com/albums/kk37/mtownshend14075/?action=view&current=Cover-Front-1.jpg
+
+[IMG]http://i276.photobucket.com/albums/kk37/mtownshend14075/Cover-Rear.jpg[/IMG]
+
+[IMG]http://i276.photobucket.com/albums/kk37/mtownshend14075/TheBubble.jpg[/IMG]
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+md5's:
+b643a93c059b95b0ad0eb67bbfc1f70f *Flaming Lips 2008-07-31d1t01-Intro.flac
+9c3927147c4aba7a68fb9ffe73acbdcd *Flaming Lips 2008-07-31d1t02-Race For The Prize.flac
+15d33b474df7541c5c395668c9bdb251 *Flaming Lips 2008-07-31d1t03-Free Radicals.flac
+40cb5b76b885f70dd1406cc83b298020 *Flaming Lips 2008-07-31d1t04-The Song Remains the Same.flac
+c685bbc1cbf29be51600cb25aca886b9 *Flaming Lips 2008-07-31d1t05-Fight Test.flac
+a5e14511fa938ae16e9afc2c87942171 *Flaming Lips 2008-07-31d1t06-Spacey Modulation-Banter.flac
+738eb040137a08054c340ef793833f92 *Flaming Lips 2008-07-31d1t07-Mountain Side.flac
+5148b492ba1545083dc354464615bf34 *Flaming Lips 2008-07-31d1t08-Vein Of Stars.flac
+1c40075602dbb1fd3e9280ecea53eafe *Flaming Lips 2008-07-31d1t09-Yoshimi Battles The Pink Robots Pt. 1.flac
+b9394cd270ade1bcfe83c2b73bc38f96 *Flaming Lips 2008-07-31d2t01-Pompeii Am Götterdämmerung.flac
+3fe7541c078b9750a6938373b1f920b4 *Flaming Lips 2008-07-31d2t02-Yeah Yeah Yeah Warmup-Political RantPolitical Rant.flac
+039387ee07cb7f573475df304e5aff31 *Flaming Lips 2008-07-31d2t03-Yeah Yeah Yeah Song.flac
+7aa1253bf765e4f23aa503f9d84d93bf *Flaming Lips 2008-07-31d2t04-Taps.flac
+76075146cf24d4aecb5df215fbbbdafb *Flaming Lips 2008-07-31d2t05-The W.A.N.D..flac
+d5dbd68fcc06aee226c6ce37dcafc367 *Flaming Lips 2008-07-31d2t06-She Don't Use Jelly.flac
+a7d5b0a094f05e020ec61f0bf5e596ca *Flaming Lips 2008-07-31d2t07-Crowd.flac
+af5d564f5841d6fb5cdd1bac2b6bee7a *Flaming Lips 2008-07-31d2t08-Do You Realize.flac
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+ffp's:
+Flaming Lips 2008-07-31d1t01-Intro.flac:7a3a377c9fd62aad596dfc61268806fb
+Flaming Lips 2008-07-31d1t02-Race For The Prize.flac:7535e6331f78dc284f83c998125f4251
+Flaming Lips 2008-07-31d1t03-Free Radicals.flac:72029dcfc83fc1b5abe1abbed52f6a17
+Flaming Lips 2008-07-31d1t04-The Song Remains the Same.flac:d15987ca7ba05d498af6556d834130cb
+Flaming Lips 2008-07-31d1t05-Fight Test.flac:fae9e24b73f28cf59b02274be7408f67
+Flaming Lips 2008-07-31d1t06-Spacey Modulation-Banter.flac:5960d981bbd48044ee10f0f6c47a3109
+Flaming Lips 2008-07-31d1t07-Mountain Side.flac:0d95e58a4790a7624c601979fe36fa0c
+Flaming Lips 2008-07-31d1t08-Vein Of Stars.flac:9446ff9130b033d8ee82adcbad1c5b97
+Flaming Lips 2008-07-31d1t09-Yoshimi Battles The Pink Robots Pt. 1.flac:5ca477df189a6258f3aea725bbe9970f
+Flaming Lips 2008-07-31d2t01-Pompeii Am Götterdämmerung.flac:2fd83059852a4331cf86edafe7730677
+Flaming Lips 2008-07-31d2t02-Yeah Yeah Yeah Warmup-Political RantPolitical Rant.flac:b2cf1d21e4c9f6e932b7f8a3e367a549
+Flaming Lips 2008-07-31d2t03-Yeah Yeah Yeah Song.flac:56bdaf2333e262bf0bfce43f00f5d792
+Flaming Lips 2008-07-31d2t04-Taps.flac:17e903753d2da559909f09cb90edcc49
+Flaming Lips 2008-07-31d2t05-The W.A.N.D..flac:f64d6f3632ad478e857c7a2c461c09ce
+Flaming Lips 2008-07-31d2t06-She Don't Use Jelly.flac:c1bb60cef0bac0d58df1c5d4cd47ff85
+Flaming Lips 2008-07-31d2t07-Crowd.flac:6f12c39e87b18189b24063cdc12cc53d
+Flaming Lips 2008-07-31d2t08-Do You Realize.flac:f2e45770c6e30691aabcd23e2d989b0a

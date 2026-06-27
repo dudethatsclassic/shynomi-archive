@@ -1,0 +1,29 @@
+Meat Puppets - 2007 11 12 @ Bottleneck, Lawrence KS
+
+Show note:
+There's a glitch in the tape after the intro, I think that somehow the tape stopped and then the taper turned it back on during the start of Touchdown King.  Many of the shows had "Attacked by Monsters" as the first track, I am not sure if it was played or not.	
+Date confirmed - https://www.brooklynvegan.com/meat-puppets-20-1/ 
+
+1 intro
+2 Touchdown King
+3 Sam
+4 Snow
+5 Up on the Sun
+6 Plateau
+7 Look at the Rain
+8 Lost
+9 The Whistling Song
+10 My Baby's Gone (George Jones cover)
+11 Buckaroo [Buck Owens and His Buckaroos]
+12 Station
+13 Comin' Down
+14 Oh, Me
+15 ??
+16 Lake of Fire
+>> Encore:
+17 Climbing
+18 Backwater
+
+Taper: SonicTooth
+Lineage: SoundPro SP831 Mics > Sound Pro Batterybox > Sony PCM M1 > DAT
+Transfer: Sony TCD-D7 > 7-pin OADE cable > ESIU24XL > USB > Audacity (44.1/24) > SoundForge(levels, fades) > CDWAVE (splits] > FLAC

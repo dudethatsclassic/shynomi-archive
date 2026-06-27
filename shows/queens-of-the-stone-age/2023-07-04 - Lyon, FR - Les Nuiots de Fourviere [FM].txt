@@ -1,0 +1,26 @@
+Queens of the Stone Age
+04/07/2023, Les nuits de Fourvière, Lyon, FR
+
+Source : FM Ana (Technics ST-GT350) -> Hard Drive -> FLAC (level 5)
+Taped and splitted with Kwave (22.12.3) on Debian 13 (testing)
+
+Track #00 is the DJ introduction
+
+No One Knows
+My God Is the Sun
+Smooth Sailing
+Carnavoyeur
+The Way You Used to Do
+Negative Space
+Emotion Sickness
+If I Had a Tail
+The Evil Has Landed
+Paper Machete
+Make It Wit Chu
+I Sat by the Ocean
+Straight Jacket Fitting
+Little Sister
+In the Fade
+God Is in the Radio
+Go With the Flow
+A Song for the Dead 

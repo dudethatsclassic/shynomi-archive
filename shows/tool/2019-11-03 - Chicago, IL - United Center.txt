@@ -1,0 +1,29 @@
+Tool
+2019-11-03
+United Center,
+Chicago, IL
+
+Source: DPA 4080 > DPA MPS 6040 > Sony PCM-M10 (Preamp Mod) @ 24bit/96kHz
+Transfer:  MicroSD Card > PC > Adobe Audition (Appends, Cuts, Fades, EQ, Compression, Bit Depth, Resampled) > .WAV > xACT > .FLAC > Tag & Rename (tags)
+Taper: TB
+Location: 13th row floor, directly inline with Adam
+Notes: The right channel was blocked by clothing a few times during the show for 1-3 minutes at a time.  I made a few attempts to fix it in post but it ended up being more trouble than it was worth.
+
+Tracklist:
+
+01 Intro
+02 Aenema
+03 The Pot
+04 Parabol
+05 Parabola
+06 Pneuma
+07 Schism (Extended)
+08 Jambi
+09 Vicarious
+10 Intolerance
+11 Forty Six & 2
+12 Intermission
+13 Danny plays with his gong
+14 Chocolate Chip Trip
+15 Invincible
+16 Stinkfist (Extended)

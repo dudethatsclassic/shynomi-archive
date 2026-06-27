@@ -1,0 +1,75 @@
+blink-182
+2023-04-14
+Coachella Valley Music and Arts Festival
+Sahara Tent
+Indio, CA
+
+SOURCE: 
+SP-CMC-8 (w/Mods) > Sony PCM-A10 > Sandisk Mini-SD Card (32gb - Class 10)
+
+TRANSFER: 
+.WAV (24 Bit) > Adobe Audition 2023 CC (normalize/amplify/tracking) > Trader's Little Helper > FLAC (Level 6)
+
+SETLIST:
+
+01. Intro (Also sprach Zarathustra, op. 30)
+02. Family Reunion
+03. Anthem Part Two
+04. The Rock Show
+05. Man Overboard
+06. Feeling This
+07. Reckless Abandon
+08. Dysentery Gary
+09. What's My Age Again?
+10. EDGING
+11. Dumpweed
+12. Aliens Exist
+13. First Date
+14. Don't Leave Me
+15. Down
+16. Happy Holidays, I Miss You
+17. I Miss You
+18. All the Small Things
+19. Dammit
+20. Outro
+ 
+NOTES:
+
+This was my first ever time seeing blink-182. I, like many others I'm sure, grew up listening to them in high school (I had "Dude Ranch" and "Enema of the State" on CD), but I lost interest quick once "Take Off Your Pants and Jacket" came out, and turned my ears elsewhere to other bands/genres. So while I do wish I had gotten to see them, in what I would consider their true height/hey-day, back in 1999-2000, I never had any interest in seeing them at their own show over the last decade or longer. But cue Coachella booking them as a surprise act for the first day (ala just like Arcade Fire last year)? Sign me up, I'll be there! Even better, this is the first show with Tom Delonge back since 2014 I believe.
+
+I really do have to hand it to Coachella and Goldenvoice. Just when I thought the Friday night lineup couldn't get any better, up pops blink-182 on the lineup, for no other reason, then why the hell not? Were they the "1999.ODDS" band listed on the poster this whole time? Who knows. I heard lots of rumors about that possibly being a James Murphy side project that fell through (he was there afterall, running the Despacio tent), maybe it was something to do with 88 Rising? Or maybe it really was blink-182 in disguise this whole time? We'll probably never know. I did have a suspicion they would be playing once I saw Travis post a picture from Palm Springs early in the week. Then Mark posted his Coachella playlist on Apple music (wtf?) "accidentally". It all started to add up, and then bam there they were in the Sahara tent (I'm sure this is going to fuel wild speculation about a surprise band for Friday every year now). A bit of an odd place to have them I do admit, as the Sahara tent has (sadly) become home to trap music and shitty EDM over the last 7-8 years. The last set I caught in there was probably Underworld in 2016, but fuck, blink-182 drew me back in, what else could I do? Not attend? Pffft.
+
+I got to the tent an hour early (and caught Vintage Culture) and I'm glad I did, as that crowd (according to pictures I saw later, and just using my own eyes to look around) bloomed into a huge gathering that spilled hundreds of feet outside, past the Ferris wheel. If I had shown up 20 minutes prior to their start time, there would have been no way in fucking hell I would have made it inside the tent, let alone to the soundboard rail, where I was stationed up and ready to record. The band started a little late, but ended up playing almost exactly an hour, and ran through all the hits and songs that you would expect and that I remembered listening to back in the day. Aliens Exist, Dumpweed, Dammit (of course), were all there and then some. And of course the banter. You can't have a Mark, Tom and Travis show without a bunch of rancid banter going on, which I found funny. I remember reading the dumbest fucking headline and "article" (that's being nice) on the Desert Sun a few days after the set, which said "Blink fans were leaving in droves during the set" and speculated that maybe it was because of Tom's "fuck cancellation" comment. Sigh. Tell me you've never been to, seen or heard of a blink-182 set (featuring Tom) without telling me you've never been to, see or heard of a blink-182 set. I mean how fucking stupid is that? I thought the banter was great and funny. It wouldn't have been a reunion with Tom without it.
+
+Overall, it was pretty cool to be part of Blink's first show back after Mark beat cancer, and Tom reunited with the guys. It was even cooler, in my humble opinion, that it occured at Coachella, my favorite festival. My friend, co-worker, and now roommate (!) was super pissed that I was part of this and he wasn't (he was stuck at home watching the webcast) as Blink is his favorite band in the entire world, and even managed to get Mark to come into our work office once for a tour (which I had takeover and handle, but that's another story for another day), but he did manage to drive down for weekend 2's show, but I'll save that story for the weekend 2 recording write up. Until then, crank this sucker up and pretend we're back in high school wishing for 6th period to end so we can all go home, crank our stereo/discman and listen to Mark, Tom and Travis again. Peace!
+
+CHECKSUMS: 
+
+bfa4256a82f9adc1e5543620e10e8ada *blink-182-2023-04-14-coachella-aud-24bit-t01-intro.flac
+5e3a23e359b6b8607d00e21586774b44 *blink-182-2023-04-14-coachella-aud-24bit-t02-family-reunion.flac
+c2f9baf3b41082c25871cfd6c5ea97f7 *blink-182-2023-04-14-coachella-aud-24bit-t03-anthem-part-two.flac
+a37000d6e80221594c6d691342421bcf *blink-182-2023-04-14-coachella-aud-24bit-t04-the-rock-show.flac
+a4fed040f1ddc53e152582759e128dab *blink-182-2023-04-14-coachella-aud-24bit-t05-man-overboard.flac
+10ee6fec4fcc9f1444cbd78e30e9e352 *blink-182-2023-04-14-coachella-aud-24bit-t06-feeling-this.flac
+0a6a4d5e092345c876b765ef01c15c6e *blink-182-2023-04-14-coachella-aud-24bit-t07-reckless-abandon.flac
+97842d2d37919cf788baeb39d12a7583 *blink-182-2023-04-14-coachella-aud-24bit-t08-dysentery-gary.flac
+8b70601f7dcd0b0b0d4c45e99b7e6346 *blink-182-2023-04-14-coachella-aud-24bit-t09-whats-my-age-again.flac
+87fe63b803925dc2700a46c65aedcdd8 *blink-182-2023-04-14-coachella-aud-24bit-t10-edging.flac
+5f0d9ccd573bec206cfebaaf28ab8a13 *blink-182-2023-04-14-coachella-aud-24bit-t11-dumpweed.flac
+a880f8c3677df7d2c8ece8f03aaf7725 *blink-182-2023-04-14-coachella-aud-24bit-t12-aliens-exist.flac
+d11653cf6eed18739dbc58c13e0494b6 *blink-182-2023-04-14-coachella-aud-24bit-t13-first-date.flac
+b60987ef9cf2a1ee9a6711966a2137ed *blink-182-2023-04-14-coachella-aud-24bit-t14-dont-leave-me.flac
+3d97e03701aa8682161e5f571f3d8e88 *blink-182-2023-04-14-coachella-aud-24bit-t15-down.flac
+b0e6097a51cab5f29116a5c36a2e17a3 *blink-182-2023-04-14-coachella-aud-24bit-t16-happy-holidays-you-bastard.flac
+a65b7744c27dc5b96dc10bc085176c5b *blink-182-2023-04-14-coachella-aud-24bit-t17-i-miss-you.flac
+ba5250311ae36aa4dc6eb3841e449f8f *blink-182-2023-04-14-coachella-aud-24bit-t18-all-the-small-things.flac
+3715b507b2fa5ed7c2f76c2da3665ed6 *blink-182-2023-04-14-coachella-aud-24bit-t19-dammit.flac
+3073c53ee344928cab5022240694bfc8 *blink-182-2023-04-14-coachella-aud-24bit-t20-outro.flac
+
+Check out my site: 
+
+https://www.themojavetent.com 
+https://www.facebook.com/coachellarecordings 
+https://www.twitter.com/livecoachella
+
+***DO WHATEVER YOU WANT WITH THIS RECORDING EXCEPT SELL IT, OR ELSE THE KARMA POLICE WILL GET YOU***

@@ -1,0 +1,56 @@
+Failure: Fantastic Planet 20th Anniversary
+Thursday October 27th, 2016
+The Crocodile
+2200 2nd Ave
+Seattle, WA
+
+Taper:  LeifH
+Source:  CA-11 (cardioid) > Bat2B > Sony PCM M10 @ 24/48 > Duracell 8GB microSD card
+Transfer:  Memory card > PC via USB > Wavepad Masters Edition (edits, amplify, tracking, 16/44.1) > flac (8) via Frontend
+
+Setlist:  1:32:07
+01 Saturday Savior
+02 Sergeant Politeness
+03 Segue 1
+04 Smoking Umbrellas
+05 Pillowhead
+06 Blank
+07 Segue 2
+08 Dirty Blue Balloons
+09 Solaris
+10 Pitiful
+11 Leo
+12 Segue 3
+13 The Nurse Who Loved Me
+14 Another Space Song
+15 Stuck On You
+16 Heliotropic
+17 Daylight
+
+18 Mulholland Dr.
+19 Frogs
+20 Screen Man
+
+Sold out show at a small venue.  Sounded really good that night.  I got caught taking video at the beginning of Another Space Song, then kept going for 2 more songs with a cell phone, getting most of the show on video.   
+
+fingerprints:
+01 - Saturday Savior.flac:08670973a760cbb81972473e1f84a017
+02 - Sergeant Politeness.flac:8e74a48c426ca89210a6b5dd19aaf172
+03 - Segue 1.flac:82777b15aecbcddbaf5a1eae80d9b174
+04 - Smoking Umbrellas.flac:e8d9ce62596227afc99965cfecb7a395
+05 - Pillowhead.flac:e5eef6b8443761644b74de4e212a31e9
+06 - Blank.flac:4471f3152a5e4ca811632b6331b8f3b5
+07 - Segue 2.flac:caa1a708df89a154a5dd7c7d6f27cd95
+08 - Dirty Blue Balloons.flac:08ce12d56cc30ee8fecf0dbb44daddcb
+09 - Solaris.flac:d508076e6eae50123b7b071f4c7112c9
+10 - Pitiful.flac:2460814cae4a422f05eb78fc8abe1236
+11 - Leo.flac:8e0befd0b7299b77084a7730c012d402
+12 - Segue 3.flac:644dc448df44e50a39395c5efa5bc4fd
+13 - The Nurse Who Loved Me.flac:cc3d4f8a6d8ea9fdfbb2ff3c4d53e0c6
+14 - Another Space Song.flac:a38e940be06d7d1099537faf516a6827
+15 - Stuck On You.flac:915ea278624239dce3a79410a3c5305e
+16 - Heliotropic.flac:1a7c66c4c931bd4a916b91b2910cc445
+17 - Daylight.flac:ba55f21b692f48f32df0b2b2d0f8a38c
+18 - Mulholland Dr.flac:6cb4bc60cc6f7a3e0fe222e9992ba6d1
+19 - Frogs.flac:f3af9439f97e1b653d08a90a82eb938f
+20 - Screen Man.flac:e52129000ff012f19d4696e8962d642c

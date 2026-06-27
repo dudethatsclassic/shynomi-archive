@@ -20,7 +20,8 @@ const ARTIST_DATA = {
       "venue": "Greek Theatre",
       "notes": "",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1988-06-27 - Los Angeles, CA - Greek Theatre [AUD].txt"
     }
   ],
   "misc": []

@@ -1,0 +1,18 @@
+TOOL
+1993-05-25
+Manchester, England
+Ritz
+
+Source: Soundboard
+Transfer: ASBM > DDC2 32khz > CDR > EAC (Secure Mode) > CDWave (tracking) > .WAV > .FLAC
+Generation: 3rd
+Notes: Noticeable tape warble occasionally
+
+Setlist:
+01 - Part of Me - 8:29
+02 - Intolerance - 5:21
+03 - Cold & Ugly - 3:59
+04 - Sober - 5:23
+05 - Crawl Away - 6:18
+06 - Undertow - 5:52
+07 - Bottom - 7:26

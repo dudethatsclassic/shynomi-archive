@@ -1,0 +1,104 @@
+Blink 182
+
+2009-08-04
+Marcus Amphitheater
+Milwaukee, WI
+
+
+Source:  Core Sound Stealthy Cardioids --> BBox --> Sony TCD-D8
+
+
+Transfer:  Master DAT(Sony DG90P) --> Tascam DA 20 MKII -->  CD Wave Editor --> Adobe Audition 1.5(Downsample/Hardlimit/EQ) --> HAT(Track/Align) --> Flac Frontend 1.7.1 --> FLAC(lvl8)
+
+
+Taper: Bubba420
+
+
+Disc 01:
+
+01. Intro
+02. Dumpweed
+03. Feeling This
+04. The Rock Show
+05. What's My Age Again?
+06. Go
+07. Violence
+08. I Miss You
+09. Stay Together For The Kids
+10. Down
+11. Always
+12. Stockholm Syndrome
+13. First Date
+14. Blow Job
+15. Man Overboard
+16. Don't Leave Me
+
+
+Disc 02:
+
+01. Not Now
+02. The Country Song
+03. Adam's Song
+04. All The Small Things
+05. Reckless Abandon
+06. Josie
+07. Anthem Part Two
+Encore:
+08. Travis Drum Solo
+09. Carousel
+10. Dammit
+11. (Please Excuse) My Friend Tom
+12. Mark Drum Solo
+
+Notes:
+This was my second time taping wih my core sound mics. I went to this show becuase my 13 year old son really wanted to see Blink 182 so i thought what the hell...i would take him and give the mics another "test run". The sound in the venue wasn't the greatest, it was pretty bassy for the other acts but not to bad for Blink 182 which i thought had the best sound of the night. At times the levels are a bit hot, mostly inbetween songs from the crowd. After mastering this i think overall this still sounds pretty good, better then the old Sony ECM-719's i used to use before this. I am pretty sure nobody else taped this show, if they did they haven't stepped forword and said they have or circulated it. A big thanks goes out to brad for transfering my DAT master.
+
+
+                              ~~ bubba420 ~~
+
+
+
+
+
+=========================================================================================
+DO NOT ENCODE INTO MP3 OR ANY OTHER LOSSY FORMAT
+DO NOT BUY & DO NOT SELL IT 
+TRADE FREELY AS SHN/FLAC/APE OR CDR
+=========================================================================================
+
+
+FLAC Fingerprint:
+
+Disc 01:
+
+01. Intro.flac:29ae78047e12126ec49d9c68ea9a4b3d
+02. Dumpweed.flac:7234fa81ab857fb52554fb371fee65dc
+03. Feeling This.flac:1b7e3e44ef50c861f0451f960127cff4
+04. The Rock Show.flac:30917f26f72557c6e56c79780a85fad4
+05. What's My Age Again.flac:252a639fe305e0dffb92add95c0910cf
+06. Go.flac:43179bb0b2cf3da6ecc4d2ac3548a3a8
+07. Violence.flac:47ddc95f779ad95bf55d58753fb6b27c
+08. I Miss You.flac:cb7368e8df007ecc68a692073ef970c8
+09. Stay Together For The Kids.flac:ef8db0491d7e04fabf7e0e0275f59e81
+10. Down.flac:a134b7ec63ac0f92d07ba0a0b5646e34
+11. Always.flac:201c1b03aad681d9feeb164b93f052e6
+12. Stockholm Syndrome.flac:2af4cafa8de755fde6f2a25756888c8d
+13. First Date.flac:8bcdda1a424047790eaccd61e9037d81
+14. Blow Job.flac:9a3457c5381ab9c637a37f3c92e396ec
+15. Man Overboard.flac:4d32740f4994fcaeeaea47185e585147
+16. Don't Leave Me.flac:206b384fd66740a1906900522199d956
+
+Disc 02:
+
+01. Not Now.flac:926f10440faebadde8b14c787bb00fb4
+02. The Country Song.flac:3e4211060a395218fae50644d1a8f853
+03. Adam's Song.flac:ef1a1133c3c31218f1212d00ef3f96c4
+04. All The Small Things.flac:8ecbc03e529535519c05e53fc59c14c6
+05. Reckless Abandon.flac:d0454b98ea571cfdc49bb17ee18c9dce
+06. Josie.flac:e2376eff28b9db8b90c4f62546ef2a72
+07. Anthem Part Two.flac:ca6f54254299155c8cfb3cfaa0dcd05b
+08. Travis Drum Solo.flac:278232a818168a06c0058808f2bc7887
+09. Carousel.flac:04ab775442b5f9566e3ca71899a2c3eb
+10. Dammit.flac:e17dec94fd0a31bb82b72c8e18277862
+11. (Please Excuse) My Friend Tom.flac:896ce716bd57ee4e5d691faa35c0db52
+12. Mark Drum Solo.flac:027c6b08e027edcf48d6fd0bcbeee21d

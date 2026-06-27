@@ -1,0 +1,44 @@
+This is third of three Dave Brubeck tapes I received recently in a trade.  This one finds
+Brubeck in the most well-known iteration of his quartet: Desmond, Wright, and Morello.  
+
+A few things... First, I received it as 1963-9-23, but a review of Brubeck's personal archives
+at University of the Pacific Library gives a date of the 28th for this show, so I will go with 
+that date instead.  Second, as with everything I receive from this trader, it was burned with
+gaps between the tracks, which WAV TRIM seems to have cleared up.  Finally, the frequency wave
+on this seems very limited.  I ran it through Tau Analyzer and it came up 100% CDDA, aside from 
+the first and last tracks which were unknown.  It was clearly taped off the radio, and as a result
+there are some static spots, most  significantly  on tracks 7 and 9.  I checked with the one trader 
+on etree who has this tape - he also happens to be a Dime member - and after describing it to him, 
+he seemed to think it was identical to his copy.  
+
+So here it goes... (there's an audio sample for your pre-download evaluation). 
+
+
+DAVE BRUBECK QUARTET
+1963-9-28
+Grand Casino (?)
+Basel, Switzerland
+
+Source: SRG Radio
+
+Quality: B+/A- (some static spots)
+
+FM > ? > CDR > WAV > WAV TRIM > Trader's Little Helper (FLAC 8, align on sector boundaries)
+
+Dave Brubeck, Piano
+Paul Desmond, Alto 
+Gene Wright, Bass
+Joe Morello, Drums
+
+01 Take the "A" Train
+02 Audrey
+03 Cable Car
+04 You Go to My Head
+05 Take Five
+06 Koto Song
+07 Pennies From Heaven
+08 Shim Wa
+09 Thank You
+10 Radio DJ
+
+Total Time: 77:48

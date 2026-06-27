@@ -1,0 +1,44 @@
+ tool august 25th 2002
+ hamilton ontario
+ copps coliseum
+ canada
+
+My trade Notation: aud/sa_DVR,
+
+Support files: info.txt, artwork.jpg, checksum.md5,
+
+VLC media information:
+Type: Video
+Codec: MPEG-1/2 Video (mpgv)
+Resolution: 720x480
+Display resolution: 720x480
+Frame rate: 29.970029
+Decoded format: Planar 4:2:0 YUV
+Type: Audio
+Codec: A52 Audio (aka AC3) (a52 )
+Channels: Stereo
+Sample rate: 48000 Hz
+Bitrate: 256 kb/s
+
+Original notes from Trader:  this is a MASTER off the taper of the show!!i know the guy and he taped this and
+made a copy off his master! it doesnt get any better then this for this show!!!!
+ during aenima the video stops but he clipped together the audio from elsewhere to
+finish the song so u get a paused screen for awhile..no big deal though..still looks
+cool anyway
+ and thats it...   as the taper said about this  'they think there pink floyd,too
+many slow songs' haha :)
+
+enjoy
+
+Setlist:
+ 1.intro/sober
+ 2.the grudge
+ 3.stinkfist
+ 4.h
+ 5.schism
+ 6.parabol/parabola
+ 7.aenima
+ 8.intermission weirdness
+ 9.dispostion/reflection
+ 10.triad (with your mom)
+ 11.lateralus

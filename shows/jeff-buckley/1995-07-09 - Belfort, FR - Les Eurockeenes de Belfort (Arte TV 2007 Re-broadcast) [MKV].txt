@@ -1,0 +1,31 @@
+JEFF BUCKLEY
+9 July 1995
+Les EurockŽenes de Belfort, Belfort, France
+
+source: Arte TV 2007 re-broadcast
+
+Video: mpeg2 720 x 576i, 25.00 fps pal; Audio: mpeg1 layer II 2.0 48kHz 192 kbps
+Aspect ratio: 4:3; Average bitrate: 3.8 mbps
+
+Lineage: dvb-s astra > pinnacle pctv 400e > dvbviewer > HD > videoredo > dvd-lab > DVD
+Transfer: DVD(VOB) > MakeMKV > MKV > LosslessCut > MKV
+ 
+01 Intro -> Interview - Grace [snippet] 1:47
+
+Jeff Buckley - Guitars & Vocals
+Michael Tighe - Guitars
+Mick Grondahl - Bass
+Matt Johnson - Drums 
+
+
+Two days after Paris, it was up to Belfort on the beautiful Lake Malsaucy peninsula, one of the most successful of the Euro summer fests since 1989. Sadly, we do not have a complete recording of the show, either in audio or video form. What we do have is this low-gen clip, once again sourced from a compilation created by Buckley super-fan eclect, this time a compilation of European concert appearances. It's not the greatest quality, but it's all we have. Enjoy it in the spirit in which it is offered.
+
+The show was filmed by MTV, who presumably have the entire thing in their vaults. And don't get me started on the Sony vaults.
+
+Files verified, tagged, and renamed to etree conventions; new checksums generated. 
+Text file updated, compiled & copy-edited by lovesick alien 2024-10-02
+--------------------------------------------------------------------------------
+Trade Freely. Never Sell. 
+Support the Artist: Purchase ALL authorised releases. 
+Support the Trading Community: Never Encode to lossy formats.
+--------------------------------------------------------------------------------

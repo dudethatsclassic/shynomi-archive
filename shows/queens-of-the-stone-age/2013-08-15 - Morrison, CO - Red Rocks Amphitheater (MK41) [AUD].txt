@@ -1,0 +1,41 @@
+Queens of the Stone Age
+August 15, 2013
+Red Rocks Amphitheatre
+Morrison, CO
+
+Source: Schoeps MK41’s > actives > Tinybox > Sony PCM-M10 24/44.1
+Location: 16th row, dead center, back rail of soundcage
+Mastering: Adobe Audition (edits) > iZotope Ozone 5 (EQ,Exciter,Imaging,Dynamics) > MBIT+ (dither to 16 bit) > WavePad (tracking) > xACT (tags) > FLAC
+Taper: BLG
+
+01 Intro
+02 Keep Your Eyes Peeled
+03 Millionaire
+04 No One Knows
+05 My God Is the Sun
+06 Monsters in the Parasol
+07 Burn the Witch
+08 Long Slow Goodbye
+09 The Vampyre of Time and Memory
+10 In the Fade
+11 Kalopsia
+12 If I Had a Tail
+13 Little Sister
+14 Make It wit Chu
+15 Smooth Sailing
+16 Better Living Through Chemistry
+17 Sick Sick Sick
+18 Go with the Flow
+
+Encore:
+19 Feel Good Hit of the Summer
+20 I Sat by the Ocean
+21 A Song for the Dead
+
+Total Time: 104:15
+
+Notes: This was taped side by side with Tapeworm(48)’s MK4 source.
+
+I originally released this show raw and had always meant to go back and fix it up since I was never completely happy with the sound at the venue that night nor the sound of the recording.  I believe this version fixes the muddiness issues as much as possible.
+
+.txt compiled on 01/24/2016 by BLG

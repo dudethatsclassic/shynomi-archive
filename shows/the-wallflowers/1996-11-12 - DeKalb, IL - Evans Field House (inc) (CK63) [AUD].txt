@@ -1,0 +1,20 @@
+WALLFLOWERS
+November 12, 1996
+Evans Field House
+DeKalb, IL
+
+Source: AKG460B + CK63 > Panasonic SV-255 (mod) > Sony TCD-D7
+Location: mics on stand near SBD
+Taper: Michael Devitt
+Lineage: DAT(M) > DAT(1) > WAV [48] > WAV [44.1] > FLAC
+Transfer: Tascam DA-20mkII > M-Audio Audiophile 2496 > Sound Forge
+Edits/EQ: none
+Notes: opening for Blues Traveler, incomplete - shut down by Wallflowers soundman
+
+01 - One Headlight
+02 - Ashes to Ashes
+03 - Bleeders
+04 - Three Marlanas (cuts out)
+
+
+Compiled November 2019 by CPS

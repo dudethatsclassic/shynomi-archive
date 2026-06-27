@@ -1,0 +1,89 @@
+TOOL
+Monster Mash Halloween
+Tempe Beach Park
+Tempe, Arizona
+October 31, 2015
+
+Maynard James Keenan (vocals)
+Adam Jones (guitar)
+Justin Chancellor (bass)
+Danny Carey (drums)
+
+Source Info:
+Recorder: Zoom Q3HD
+Audio Settings: 24-bit, 48 kHz stereo PCM lossless
+Storage Media: Kingston 32 GB ultimateX 100X SDHC
+Batteries: Energizer Ultimate Lithium AA (two)
+Recorded By: Meddle Earth
+
+Transfer: SDHC (.mov file) > SDHC reader > HDD
+Audacity (.mov > .wav) > CD Wave (splits) > dBpoweramp (.wav > .flac, tags)
+Original recording, no EQ, volume increase
+
+Archive Folder: TOOL 2015-10-31 Tempe Arizona Meddle Earth (master) (24bit48kHz) (FLAC)
+Archive Size: 1.17 GB
+Duration: 1 hr 43 min 47 sec
+
+MediaInfo Specs (full details included in specs.txt file):
+24-bit 48 kHz stereo lossless audio split into tracks, FLAC
+TLH checksums (verified ffp, md5 file included)
+
+Setlist:
+01 No Quarter
+02 The Grudge
+03 Parabol/Parabola
+04 Opiate
+05 Schism
+06 Ænema
+07 jam session
+08 Jambi
+09 Forty Six & 2
+10 intermission
+11 synth/drum solo
+12 Vicarious
+13 Stinkfist
+
+Sample:
+http://livepeace.org/Artists/TOOL_2015-10-31_Tempe/info.html
+               
+Recording Notes:
+Headliner TOOL was recorded, audio & video, this is the soundtrack.
+From 13 rows of humanity in front of stage aligned with Maynard.
+
+This recording is in the legal public domain,
+is not for sale, has not been for sale,
+is not and has not been involved in commerce.
+
+Band link:
+http://www.toolband.com
+
+TOOL 2015-10-31 Tempe Arizona Meddle Earth (master) (24bit48kHz) (FLAC)
+\TOOL_2015-10-31_Tempe_Arizona_MeddleEarth_master_24bit48kHz_01.flac
+Format                                   : FLAC
+Format/Info                              : Free Lossless Audio Codec
+File size                                : 183 MiB
+Duration                                 : 16mn 22s
+Overall bit rate mode                    : Variable
+Overall bit rate                         : 1 566 Kbps
+Album                                    : TOOL 2015-10-31 Tempe Arizona Meddle Earth master
+Album/Performer                          : TOOL
+Track name                               : No Quarter
+Track name/Position                      : 01
+Performer                                : TOOL
+Description                              : Recorded by Meddle Earth at Tempe Beach Park
+Recorded date                            : 2015
+Cover                                    : Yes
+Cover type                               : Cover (front)
+Cover MIME                               : image/jpeg
+
+Audio
+Format                                   : FLAC
+Format/Info                              : Free Lossless Audio Codec
+Duration                                 : 16mn 22s
+Bit rate mode                            : Variable
+Bit rate                                 : 1 559 Kbps
+Channel(s)                               : 2 channels
+Sampling rate                            : 48.0 KHz
+Bit depth                                : 24 bits
+Stream size                              : 183 MiB (100%)
+Writing library                          : libFLAC 1.2.1 (UTC 2007-09-17)

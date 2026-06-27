@@ -1,0 +1,37 @@
+The Flaming Lips
+April 15, 2010
+Charlottesville Pavilion
+Charlottesville, VA
+
+**16 bit source**
+
+Source: B&K4022(ortf) > Sonosax > 744T
+Location: fob/dfc, @ 45' from stage
+Transfer: 744T>soundforge 7.0 (fades)>cd wave>wavelab (resampling/UV22)>flac
+Taped & transferred by: craig davis
+
+One Set
+Disc One:
+01 The Fear
+02 Worm Mountain
+03 Silver Trembling Hands
+04 The Yeah Yeah Yeah Song
+05 The Sparrow Looks Up At The Machine*
+06 In The Morning Of The Magicians
+07 I Can Be A Frog
+08 Yoshimi Battles The Pink Robots Pt. 1
+09 See The Leaves
+10 Powerless*
+
+Disc Two:
+01 Pompeii Am Gotterdammerung
+02 She Don't Use Jelly
+03 Convinced Of The Hex
+Encore One:
+04 Eclipse** 
+Encore Two:
+05 Do You Realize
+
+Notes:
+*  1st time played
+** w/ Stardeath and White Dwarfs

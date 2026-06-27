@@ -1,0 +1,36 @@
+Tool
+2022-02-20
+Philadelphia, PA
+Wells Fargo Center
+
+Audience Master (Incomplete)
+
+Lineage: iPhone SE-Shure MV88 -> WAV (24-bit/48kHz) -> Audacity (Track Split) -> FLAC 8 (24-bit/48kHz)
+Taper: mozohere
+
+Set:
+
+01.  01:38   Litanie contre la Peur (Intro)
+02.  11:58   Fear Inoculum
+03.  09:06   Opiate
+04.  07:48   The Pot
+05.  11:10   Pushit
+06.  09:56   Pneuma (end cut)
+xx.          The Grudge (MISSING)
+xx.          Right in Two (MISSING)
+xx.          Descending (MISSING)
+xx.          Hooker With a Penis (MISSING)
+xx.          Chocolate Chip Trip (MISSING)
+xx.          Culling Voices (MISSING)
+xx.          Invincible (MISSING)
+
+Total Time : 00:51:36
+
+Band:
+Maynard James Keenan – vocals
+Adam Jones – guitars
+Danny Carey – drums, percussion
+Justin Chancellor – bass 
+
+
+Note: Cut at the end of Pneuma when the recording device was stolen during the show and microphone removed, however, it was recovered a few days later minus the microphone.

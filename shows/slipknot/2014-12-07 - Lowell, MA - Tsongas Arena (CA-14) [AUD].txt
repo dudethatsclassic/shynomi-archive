@@ -1,0 +1,58 @@
+﻿Slipknot
+2014-12-07 Lowell, MA (Aud)
+2014
+
+Tsongas Arena
+
+Free Lossless Audio Codec (flac)
+Bitrate:  738kbps
+Size: 611.18 MB
+Total Running Time: 01:34:47
+
+Prepare For Hell Tour
+
+Source: Church Audio CA-14 omnis (cap mounted) > iRiver H340 (rockbox) 
+Location: Block 102 
+Transfer: iRiver H340 > PC > Adobe Audition 3.0 (volume boost, EQ) > Audacity (bass reduction -2dB, fade in/out) > CD Wave (splitting + output FLAC Highend Level 8) 
+Taper: TripKore
+Editor: nowfacethetruth
+
+Setlist:
+
+01. Be Prepared For Hell
+02. Sarcastrophe
+03. The Heretic Anthem
+04. My Plague
+05. -Corey Talks-
+06. The Devil In I
+07. Psychosocial
+08. -Corey Talks-
+09. The Negative One
+10. Eeyore
+11. Liberate
+12. -Interlude- Frail Limb Nursery
+13. Purity
+14. -Corey Talks-
+15. Before I Forget
+16. Duality
+17. -Corey Talks-
+18. Left Behind
+19. Spit It Out
+20. Custer
+21. -Encore Break-
+22. 742617000027
+23. (sic)
+24. People = Shit
+25. -Corey Talks-
+26. Surfacing
+27. -Outro-
+
+Recording notes: 
+-Great recording!
+
+
+######################## 
+DONT SELL 
+DONT REMASTER 
+DONT CONVERT LOSSILY 
+########################

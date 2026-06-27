@@ -1,0 +1,14 @@
+Tool - 2001.05.24
+013 Club - Tilburg, The Netherlands
+version 2
+
+media type: FLAC
+source: Core Sound Cardioids > Sharp MD-MS200h > MD-Master > 1st gen cdr > Max 0.92 (cdparanoia) > FLAC
+
+taper: Wim de Vreugd 
+trade status: can trade
+
+disc 1 - 9 tracks - 68:04
+disc 2 - 6 tracks - 45:15
+
+notes: none

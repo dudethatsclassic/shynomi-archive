@@ -1,0 +1,177 @@
+The Flaming Lips: Live @ The Kennel Club in San Francisco, California (USA) on 10-08-1993.
+
+1. Introduction 
+2. Mountain Side  
+3. Moth in the Incubator  
+4. Superhumans  
+5. Jets (Part 1)
+6. Unconsciously Screaming
+7. Rainin' Babies  
+8. Take Meta Mars
+9. Hit Me Like You Did The First Time
+10. What's The New Mary Jane? (Written by The Moles)
+11. She Don't Use Jelly
+12. Chewin' The Apple Of Yer Eye
+13. One Million Billionth Of A Millisecond On A Sunday Morning
+14. Halloween On The Barbary Coast
+
+Recording Source: Sony939> Sony D5 DAT Recorder> CASSETTE Tape> Sonic Foundary's Sound Forge> WAV File> SHN File
+
+Band Members:
+Wayne Coyne - Vocals, Guitar
+Steven Drodz - Drums
+Michael Ivins - Bass Guitar
+Ronald Jones - Electric Guitar
+
+Comments: 
+"This is classic Flaming Lips!" - Sara Vidoni Guidoni
+"Jets (Part 1) is an unreleased song that was on thier demo tape.  The Flaming Lips played it occassionally at early 1990's concerts" - Ryan Mulberger
+
+Originally Seeded by: Sara Vidoni Guidoni
+Original Seeder's Contact: saravidoniguidoni@hotmail.com
+
+New (Edited) Seed by: Ryan Mulberger
+New (Edited) Seeder's Contact: recruitingcommunists@hotmail.com
+
+Setlist by: Sara Vidoni Guidoni & Ryan Mulberger (tracks 5, 10, 14 and name correction on 8)
+
+SPECIAL CHANGES: 
+
+Track 13 is a merged file which used to be these 3 seperate shn files (as seen below):
+13. One Million Billionth Of A Millisecond On A Sunday Morning
+14. One Million Billionth Of A Millisecond On A Sunday Morning (continued)
+15. Audience Cheering
+I converted them to .wav using MKW's Audio Compression Tool 0.97 Beta 1 and placed the .wavs 
+together using Sonic Foundary's Sound Froge 4.5a (and reconverted the file to shn).  
+Merged by Ryan Mulberger
+
+The end of (new) track 13 included some of the begenning song audio for (new) track 14, so I cut 
+the audio off the end of 13 and pasted it into the beggenning of 14.
+
+Track 16 renamed to track 14. Setlist amended to reflect the changes.
+
+New MD5 checksum generated to reflect the setlist and file name changes.
+(original files were named like "1 - song title")
+
+SOUND QUALITY REVIEW:
+The original seeded shn files seem to have very small silent gaps at the end of each song.
+It also sounds like there is a small volume click or pop just before the next track begins to 
+play.  You can initially hear some cassette tape hiss in the shn files, but once the show's 
+volume increases it is not noticable.
+
+If possible, we would like to track down the original DAT tape and make a new recording to
+circulate.  If you own the original master recording, please e-mail me at: recruitingcommunists@hotmail.com
+
+----------------------------------------------------------------------------------------------
+            !PLEASE DO NOT DELETE THIS IMPORTANT MESSAGE FROM THIS TEXT FILE!
+----------------------------------------------------------------------------------------------
+
+                    The Flaming Lips - The Bootleg Archive Project
+
+Who?  Started by me, Ryan Mulberger.  
+
+What is it?  It is the group effort to compile the largest and hopefully the most complete
+collection of live, promo and Interview Flaming Lips audio.
+
+What format?  We want to keep the audio "lossless."  Which means saving the audio data as .wav, 
+.shn, .flac, .ape.  (see http://www.etree.org).  (We prefer .shn.)
+
+Purity:  I hope to "weed out" inferrior audio files from circulation.  
+Currently the average trader burns his or her own CD-Rs (at 16 bit / 44.1 Khz).  
+In the past many people traded cassette tapes, that were Generations copied from other copies.
+Hopefully, this project can find master copies and share better audio files (than those
+CD-Rs made from the cassette tapes).  I know there are many flaming lips DAT recordings out there
+as well as many other Master cassette tapes, Minidiscs, etc.  I want to make sure we preserve all
+recordings at their highest potential sampling and bit rate.  I hope you will all join in and 
+collaborate shows.  All you have to do is join the Flaming Lips DC++ group here:
+Just get ahold of me, Mulberger, and well evaluate & compare what we have.
+
+It is extremely important to put the seeder's information down in the text file. 
+( A "seeder" is the orignal person who began sharing the audio files that "flourish and
+spread" all over the internet and HUB users.)  That way we know who the files came from and can 
+contact them about show related info, recording equipment or sound quality.
+
+* Analog Cassette Masters:  If anyone has master bootlegs they made on cassette tapes, I can now
+make 24 bit / 96 Khz recordings out of them.  I urge you to digitally preserve them, otherwise 
+the cassette tapes ages every day and will one day finally jam, rip, flake, gum up or disintegrate!
+
+Data:  I also hope this will result in more text files on each bootleg's setlist, date, 
+location, venue name, band line-up, the opening bands, and recording equipment.  
+
+Preservation:  I plan on making master back-up data DVD-Rs of all the shows.
+I will continue to share all the shows I have and will be leaving my computer on as much as 
+possible so that other fans can enjoy these great live shows.  I think it is important to make
+a physical DVD-R back-up of all the shows so that other fans will have continued access to free 
+shared live music files.  The DVD-Rs will be used to distribute large amounts of files to those
+without hi-bandwidth modems or for trading tree ("Pyramid") schemes.  Lastly, the back-ups will
+be provided to our homepage in hopes of one day having the official OK and financial backing to 
+put these on a webpage via our own server...big dreams there!
+
+I am building a new computer than can run 8 hard drives, so I will serve as a 24/7 HUB access.
+I will have a 1.5Mbps cable modem hooked up to it (but I don't know the upload speed yet).
+
+Video?: I plan on making DVD-Rs from various bootleg VHS Tapes.  This is another large project 
+within itself.  I would like to get ahold of the Master recordings for preservation.  
+I will keep everyone posted via the website below as to when this project begins.  I'm also 
+planning a LP > DVD-R (24/96) project.   But that's just for personal use (not for trades).
+So basically, if you can prove you own the record or CD or CS, you can have a hi-fi DVD-Audio of
+it providing you pay for the blank media and shipping.
+Feel free to e-mail me at: soyelcomandante@hotmail.com
+
+Website info: http://flaminglips.netfirms.com
+(please visit!  There's a trade post, discography, bootlegography, tourography, interviews, etc!)
+
+Do you have Master Bootlegs?  If you don't have the time or the transferring equipment, let me 
+do it for you.  Currently I only have the capabilities to convert 8-Tracks, Cassettes, LPs, 
+and 7"s.  If you have DAT bootlegs, you may want to find a friend that can make an
+identical wav file from it.  e-mail me at: soyelcomandante@hotmail.com
+
+
+----------------------------The (unofficial) Flaming Lips Taping Policy--------------------------
+
+Scott D. Booker on the Flaming Lips taping policy (May 15, 2002)
+
+"Our attitude has always been - you can tape all you want - but we don't want to be involved. 
+In other words, we'll tell the clubs we're ok with it, but we don't have the time to go into any 
+special effort to hook you up to the soundboard or anything. Some clubs have policies of not allowing 
+tapers, because they tape the shows and try to sell them to the bands. We can't override that - 
+it's usually in the contract for the show that we're not even allowed to tape - that's why we 
+don't put too much effort into it. Our show is so difficult to make happen in the first place 
+that we have to put all of our energy into that!" 
+
+Personally, I stick to stealth taping the Flaming Lips shows.  It gives you a good chance of
+getting your recording equipment in and leaving with a decent recording.  To date, I have never 
+seen anyone openly taping a flaming lips concert.  - Ryan Mulberger
+
+------------------------------The Official Mercury Rev Taping Policy-----------------------------
+
+Mercury Rev features Jonathan Donahue (of Flaming Lips fame).  What's pretty cool is the like 
+bootlegs!  We do too!  So, they encourage and OPENLY allow kids to tape their shows.  They say
+they don't like video bootlegs, but the kids seems to videotape the band anyhow and the band 
+doesn't make a fuss about it.  So, this gives you a great chance to perfect your bootlegging 
+skills  without all that nervous looking over your shoulder stuff.  There's a good possibility 
+you can bring in microphone stands and all the other recording gadgetry you have.  They say they 
+will set aside room by the soundboard, but my experince was thier soundman said "setup anywhere
+you want."  There was no designated "special" recording area, like at phish concerts.  Oh, and 
+their soundman did not offer me a patch into the console.  I didn't ask and he didn't offer.
+So it's probably best not to mess with it since they allow you to tape live shows.  
+
+This is what their website says:
+
+"A message for anyone interested in making an audio recording of a live Mercury Rev show: please 
+feel free to do so, what's ours is yours. You may want to check with the venue beforehand to be 
+sure that they will allow it. We'll do our best to set aside an area somewhere near the mixing 
+console for you to set up. Unfortunately, we cannot provide a direct feed to the console. 
+Eventually, we would like to post some of these live shows on our site, so if you've got some 
+recordings that you'd like to share via our website, contact us."
+
+webmaster@mercuryrev.com
+
+(Taken from http://www.mercuryrev.com/content/Welcome.html)
+
+-------------------------------------------------------------------------------------------------
+ev.com
+
+(Taken from http://www.mercuryrev.com/content/Welcome.html)
+
+-------------------------------------------------------------------------------------------------

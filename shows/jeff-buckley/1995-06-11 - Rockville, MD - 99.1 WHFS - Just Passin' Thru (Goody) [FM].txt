@@ -1,0 +1,52 @@
+Jeff Buckley
+11 June 1995
+99.1 WHFS-FM, Omega Studio, Rockville, MD
+
+"Just Passin' Thru"
+
+Source: DFM PCM master > cdr > cdr > extraction via EAC > WAV > flac 8 > 
+
+Goody: dBpoweramp (WAV) > CDWav (Track Splits) > Trader's Little Helper (FLAC, ffp)
+
+Set List:
+---------
+01 station intro >
+02 Intro > 
+03 Last Goodbye > [REMOVED]
+04 station ID > 
+05 Lover, You Should've Come Over > 
+06 station ID
+07 station ID >
+08 interview > 
+09 So Real > 
+10 station ID
+11 station ID> 
+12 interview (with wonderful Elvis Costello imitation) > 
+13 Grace > 
+14 station ID & credits
+
+TT: 0:24:31 (exclusive of official material)
+
+Jeff Buckley - Guitars & Vocals
+Michael Tighe - Guitars
+Mick Grondahl - Bass
+Matt Johnson - Percussion 
+
+Once again, the label/radio station have cherry-picked one track from show, rather than releasing the entire thing. To complete the set, add "Last Goodbye" [Track 10] from "Just Passin' Thru (https://www.discogs.com/release/1050756-Various-Just-Passin-Thru) which has been removed in compliance with Dime policy.
+
+
+The Spring leg of the MWB tour having concluded at the beginning of the month, the band tied up a couple of loose end recording obligations, first at the Columbia Records Radio Hour, now officially released here: https://www.discogs.com/release/14072009-Jeff-Buckley-Columbia-Records-Radio-Hour then ignoring the sage advice of Michael Stipe, he went back to Rockville, to the studios of WHFS, for a taping of their flagship "Just Passin' Thru" programme.
+
+It's a short but sweet set, made even shorter by the removal of "Last Goodbye". For once, the interviewer actually asks interesting questions, and we get three lovely acoustic performances.
+
+I originally posted a raw version of this back in 2009. Our pal goody was kind enough to apply his magic wand and make this a superior listening experience. My thanks, as always, to him for all he does. Apart from some housekeeping, I present this to you as-is.
+
+Goody's 2009 remaster notes:
+----------------------------
+To make a near-seamless mix, leave out tracks 06, 07, 10 & 11.  If desired, 01 and 14 can also be omitted without any loss of material including Jeff, other than the announcer saying this was a show about Jeff. You'll notice that track 02 starts abruptly by itself - that's how it was edited in the studio.  I checked the very end of 01 and there's no remnant of the beginning of the word at the beginning of 02.  Nothin' I could do about sloppy editing at the radio station...  ;-)  But if anybody wanted to leave that first track 01 off their burned audio disc, that's how they cut it at the station at some point.  The rest of it flows like those pesky bumpers were never there.  They may have sentimental value to somebody or other, but others of a majority may want them left out.  Can't blame 'em.  Please accept those as my 'least I can do' offering...Files verified, tagged, and renamed to etree conventions; new checksums generated. 
+Text file updated, compiled & copy-edited by lovesick alien 2024-09-02
+--------------------------------------------------------------------------------
+Trade Freely. Never Sell. 
+Support the Artist: Purchase ALL authorised releases. 
+Support the Trading Community: Never Encode to lossy formats.
+--------------------------------------------------------------------------------

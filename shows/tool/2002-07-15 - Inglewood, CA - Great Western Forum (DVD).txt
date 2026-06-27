@@ -1,0 +1,47 @@
+Tool 2002-07-15 AUD DVD
+Great Western Forum, Inglewood, CA, USA
+Video by Pr1ck
+I obtained this DVD directly from Pr1ck many years ago.
+This is an authored DVD with chapters for each song.
+
+Intro
+Sober
+Flood
+The Grudge
+(-) Ions
+Stinkfist
+Forty-Six & 2
+Schism
+Parabola
+Eon Blue Apocalypse
+The Patient
+Ænema
+Intermission
+Disposition
+Reflection
+Triad
+Lateralus 
+
+
+Video source: Panasonic PV-DC252
+DVD "VOB" format
+MPEG-2 Program Stream << { 1 vid, 1 aud }
+Sys Bitrate: 10080 kb/s VBR
+1.333 (4:3)
+Type: Video
+Codec: MPEG-1/2 Video (mpgv)
+Resolution: 720x480
+Frame rate: 59.940059
+Decoded format: Planar 4:2:0 YUV
+
+Audio source: Sony MD & ECM-zs908
+0xbd[0x80]:48000Hz  128 kb/s tot , stereo (2/0) 
+Type: Audio
+Codec: A52 Audio (aka AC3) (a52 )
+Channels: Stereo
+Sample rate: 48000 Hz
+Bitrate: 128 kb/s
+
+Length: 1:47:33
+
+Mostly the camera shows the band, but sometimes it shows the animations on the big screen. The sound is sometimes slightly overdriven, mostly toward the beginning, but seems overall pleasant enough to listen to. If you like TOOL, you'll probably like this. 

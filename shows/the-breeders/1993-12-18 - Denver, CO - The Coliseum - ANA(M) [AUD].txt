@@ -1,0 +1,62 @@
+THE BREEDERS
+December 18th, 1993
+The Coliseum
+Denver, CO
+
+
+SOURCE:
+unknown > Sony WM-F2401 cassette 
+
+GENERATION:
+ANA(M) > CDR(2) > EAC > WAV > FLAC [level 8]
+
+LENGTH:
+36:01
+ 
+
+SETLIST:
+01. intro
+02. When I Was A Painter
+03. Lime House
+04. Divine Hammer
+05. Fortunately Gone
+06. No Aloha
+07. S.O.S.
+08. Saints
+09. Hag
+10. Hellbound
+11. Safari
+12. Cannonball
+13. Happiness Is A Warm Gun
+14. Iris
+
+
+
+TRANSFER:
+CDR > EAC v 1.6 > Adobe Audition CC > CDWave 1.98 > Trader's Little Helper 2.7.0
+
+
+CHECKSUM:
+23460c91943f73c46de341d478606259 *Breeders 1993-12-18 t01.flac
+233cee0bf862ae5b151a3badc04131aa *Breeders 1993-12-18 t02.flac
+7ebabe87c083f1434f8456a26a3a6a28 *Breeders 1993-12-18 t03.flac
+a213e08f9cd8bbfd60f62ff905055fa7 *Breeders 1993-12-18 t04.flac
+7698f15b96dd1c85659d29e0245f75df *Breeders 1993-12-18 t05.flac
+f755fecf0f838096936b7ad6af7717c2 *Breeders 1993-12-18 t06.flac
+c07fc6a5ec2cb2c703e8f91262290e35 *Breeders 1993-12-18 t07.flac
+b36cb92196ac68ce510a1598c401e483 *Breeders 1993-12-18 t08.flac
+3d652dc2cb0876eae2641146b5332d1e *Breeders 1993-12-18 t09.flac
+8ee839d7a7e1133b5dd47db0185ee4cd *Breeders 1993-12-18 t10.flac
+4ee96bd7278c4659eb2820c70fabf8c6 *Breeders 1993-12-18 t11.flac
+cd78067191ba4faed4d7c3db0cc58658 *Breeders 1993-12-18 t12.flac
+a760290feff812073e5d496b5ff76dd8 *Breeders 1993-12-18 t13.flac
+7c9baa9cd5901c02e623260eced77336 *Breeders 1993-12-18 t14.flac
+
+
+PLEASE DO NOT REDISTRIBUTE IN LOSSY FORMATS
+DO NOT SELL
+
+
+
+
+

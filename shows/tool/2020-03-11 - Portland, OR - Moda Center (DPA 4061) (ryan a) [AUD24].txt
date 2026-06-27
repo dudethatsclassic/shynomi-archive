@@ -1,0 +1,56 @@
+Tool
+Wednesday March 11, 2020
+Moda Center
+Portland, Oregon
+United States
+
+Taper: Ryan A
+Location: Floor Row 17, in line with left stack
+Source: Danish Pro Audio 4061 mics > Danish Pro Audio MMA6000 pre amp > Sony PCM-M10 (line in, 24bit/48kHz wav)
+Transfer: Sony PCM-M10 > USB > wav @ 24bit/48kHz > Hard drive > Mastering > Flac
+
+Mastering: DAW: Reaper v6.36 x64
+- JS Volume adjust
+- Waves Z-Noise to tame venue reverb & ambient noise
+- Waves Q10 EQ to minimize grating frequencies (cymbals at 9-10kHz, tinny guitar at 4kHz), and a +2.7db bell-shaped boost to low mids (390Hz - 570Hz) to add meat to Adam's guitar. 
+- Waves LinEQ for hi pass filter at 60 - 61Hz
+- Waves LinMB for multiband compression
+- Oek Sound Soothe (for 46&2 and 7empest) - dynamic resonance suppressor 
+- Waves S1 Stereo Shuffler - subtle enhance to stereo separation
+- Waves L3-LL Ultramaximizer peak limiter
+- Fades and track splits
+- Render to Flac data compression 5
+
+Set (118:00)
+
+01) Fear Inoculum
+02) Aenema
+03) 7empest
+04) Pneuma
+05) Schism
+06) Jambi
+07) Descending
+08) Forty Six & 2
+<intermission>
+09) Chocolate Chip Trip
+10) Invincible
+11) Stinkfist
+
+NOTES:
+Please do not sell this recording. 
+
+This was the final Tool show before the COVID-19 shutdown. As I drove down to Portland from Seattle that day, the world as we knew it was changing drastically, rapidly. 
+The WHO declared a pandemic that day, NBA games were cancelled, stocks plunged, schools were closing, and toilet paper was being hoarded. We still had very little idea 
+what the virus was about to do to the world. If I had, I never would have gone to this show in a crowd of 15,000 unmasked people. But fortunately I did, and grabbed a good recording. 
+
+There was a weighty sense of unease that night. But at the same time there was an oblivious, almost innocent excitement in the crowd and myself. Maybe the last time I felt it. 
+The show itself was exactly what I was hoping for - a heaping spoonful of Fear Inoculum album. This is a meditative, sprawling and at times tedious album. Definitely not arena rock. 
+It is fascinating to see them pull off presenting this material to 15,000 people, just as the progressive rock bands of the 1970s did back in that heyday. 
+
+Danny was on tonight, lots of little improvs and generally just going for it. I think the band had just reached their stride with 7empest, after some shaky earlier performances. 
+It was perfection tonight, and the tempo was ratcheted up. I don't even bother with the album version anymore; this performance is it. 
+
+Great taping spot on this night - directly in line with the stack, Adam side, 17 rows back. The raw recording was close and full, but also had
+challenging frequencies to deal with. Adam's guitar sounded gratingly tinny, Maynard was loud, and the frequency extremes dominated (bass and cymbals). I spent quite a bit of time 
+smoothing all of this out in mastering, while still preserving the original sound as best I could. Enjoy! 
+

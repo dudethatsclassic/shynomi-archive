@@ -1,0 +1,14 @@
+Tool - 2007.07.09
+Copps Coliseum - Hamilton, Ontario, Canada
+version 4 
+
+media type: FLAC
+source: SP-CMC-8 > SP-Microtrack Mic Power > MT 24/96 (@24/48)
+taper: Dru
+trade status: can trade
+
+disc 1 - 13 tracks - 136:04
+
+notes: Received raw recording from taper. Mastered and tracked on 2022.03.10.
+
+

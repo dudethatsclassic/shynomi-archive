@@ -1,0 +1,25 @@
+auCDtect: CD records authenticity detector, version 0.8.2
+Copyright (c) 2004 Oleg Berngardt. All rights reserved.
+Copyright (c) 2004 Alexander Djourik. All rights reserved.
+
+Detect mode (0..40 with 0 = most accurate):  8 (default)
+
+
+01 No One Knows.wav:  track looks like CDDA with probability 100%.
+02 The Lost Art of Keeping a Secret.wav:  track looks like CDDA with probability 100%.
+03 Smooth Sailing.wav:  track looks like CDDA with probability 100%.
+04 My God is the Sun.wav:  track looks like CDDA with probability 100%.
+05 Emotion Sickness.wav:  track looks like CDDA with probability 99%.
+06 If I Had a Tail.wav:  track looks like CDDA with probability 100%.
+07 I Sat by the Ocean.wav:  track looks like CDDA with probability 100%.
+08 Carnavoyeur.wav:  track looks like CDDA with probability 100%.
+09 Band Introductions.wav:  track looks like CDDA with probability 100%.
+10 The Way You Used to Do.wav:  track looks like CDDA with probability 100%.
+11 Made to Parade.wav:  track looks like CDDA with probability 100%.
+12 Better Living Through Chemistry.wav:  track looks like CDDA with probability 100%.
+13 Paper Machete.wav:  track looks like CDDA with probability 100%.
+14 Make it Wit Chu.wav:  track looks like CDDA with probability 99%.
+15 Straght Jacket Fitting.wav:  track looks like CDDA with probability 100%.
+16 Little Sister.wav:  track looks like CDDA with probability 100%.
+17 Go With the Flow.wav:  track looks like CDDA with probability 100%.
+18 A Song for the Dead.wav:  track looks like CDDA with probability 100%.

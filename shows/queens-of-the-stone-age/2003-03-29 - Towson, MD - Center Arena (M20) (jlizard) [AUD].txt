@@ -1,0 +1,33 @@
+QUEENS OF THE STONE AGE
+March 29, 2003
+Center Arena
+Towson, MD
+
+Source: Microtech Gefell M20 > JK Labs DVC iii > Sony SBM-1 > Sony TCD-D7
+Location: five feet from left PA
+Taper: jlizard
+Lineage: DAT(M) > WAV [48] > WAV [44.1] > FLAC
+Transfer: Sony PCM-R500 > M-Audio Audiophile 192? > Amadeus > xACT > Sound Forge
+Edits/EQ: "Feel Good" [Ozone De-Clip @ -0.2 & -14dB limiter]
+Notes: opening for Zwan
+
+01 - intro
+02 - Feel Good Hit of the Summer
+03 - You Think I Ain't Worth a Dollar, But I Feel Like a Millionaire
+04 - You Would Know
+05 - Do It Again
+06 - Monsters in the Parasol
+07 - Quick and to the Pointless
+08 - Go With the Flow
+09 - The Sky is Fallin'
+10 - Gonna Leave You
+11 - Hangin' Tree
+12 - Auto Pilot
+13 - In the Fade
+14 - Song For the Dead
+15 - Another Love Song
+16 - Song For the Deaf
+17 - No One Knows
+
+
+Compiled May 2019 by CPS

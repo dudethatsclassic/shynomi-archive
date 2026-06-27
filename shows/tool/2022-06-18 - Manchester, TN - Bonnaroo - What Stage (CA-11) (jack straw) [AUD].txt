@@ -1,0 +1,14 @@
+Tool - 2022.06.18
+Bonnaroo (What Stage) - Manchester, TN, USA
+version 1
+
+media type: FLAC
+source: Church Audio CA-11 > Church Audio Ugly Battery Box > Sony PCM-A10 > WAV > FLAC
+taper: Jack Straw
+
+disc 1 - 10 tracks - 86:57
+
+notes: none
+
+
+

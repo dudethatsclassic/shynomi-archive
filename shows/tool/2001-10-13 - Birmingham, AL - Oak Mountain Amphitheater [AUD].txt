@@ -1,0 +1,14 @@
+Tool - 2001.10.13
+Oak Mountain Amphitheater - Birmingham, AL, USA
+
+media type: FLAC
+source: Core Sound Binaurals/120 > Sony PCM-M1 > 2nd Gen CDR > EAC > FLAC
+taper: Travis
+trade status: can trade
+
+disc 1 - 12 tracks - 57:16
+disc 2 - 9 tracks - 62:46
+
+notes: none
+
+ 

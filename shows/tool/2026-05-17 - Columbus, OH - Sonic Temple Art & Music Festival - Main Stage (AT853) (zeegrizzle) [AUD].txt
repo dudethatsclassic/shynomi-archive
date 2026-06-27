@@ -1,0 +1,76 @@
+TOOL
+May 17, 2026
+Sonic Temple Art & Music Festival
+Historic Crew Stadium
+Columbus, OH
+
+TAPER:    zeegrizzle
+SOURCE:   AT853 4.7k Mod > Sony PCM-A10 24/96
+TRANSFER: Sony PCM-A10 > USB > PC > Audacity (Compression/EQ/Normalize/Amplify/Tracking)
+DITHER:   Adobe Audition > dithered to 16 bit @44.1kHz
+
+SETLIST: [1:37:35]
+01. Stinkfist
+02. Rosetta Stoned
+03. Fear Inoculum
+04. The Grudge
+05. H.
+06. Jambi
+07. Pneuma
+08. Crawl Away
+09. Invincible
+10. Vicarious
+
+notes from taper: On my way to union station to catch the light rail that takes
+you to the airport and my uber driver and I run into the middle of a marathon 
+downtown. I was definitely going to miss my flight for sure so I had to think 
+quick. Told my driver thanks and jumped out the car to run my ass off and find 
+the nearest scooter or else I was going to miss catching the latest possible 
+light rail departure that'll catch this flight for me. After running for about 
+three blocks like a psychopath I found one. Downloaded the app, purchased the 
+ride and hauled ass with only a few minutes left to spare and got there with 
+literally just a few seconds left before the train doors closed. I was dying 
+on that train trying to catch my breath, but the running didn't stop there. 
+Once I got to the airport I ran to security only to see the longest line I've 
+ever seen. Yep, I'm definitely missing this flight.. But then some random 
+person said the security line on the other side is shorter, so I ran to that 
+one which was also long but not quite as bad as the first one. Still, it was 
+dragging. After making it through security I ran some more all the way across 
+the terminal to my gate and ended up being the last one to board with the 
+attendants closing the airplane door right behind me. Honestly, it was a damn 
+miracle I didn't miss my flight. If I would have hesitated for one second 
+throughout any of that I would have missed this flight without a doubt. 
+Easily the closest call I've ever had for sure. Anyways, after my damn near 
+heart attack of a morning, I finally made it into the festival late around 
+4pm. Went straight to the merch and after getting laughed at for asking if 
+there were any posters left, I decided to just settle for a lousy shirt 
+instead. Got a quick bite after that, checked out the rest of the festival 
+then decided to go check out the main stage situation. This festival's main 
+stage is actually inside a soccer stadium while the rest of the festival's 
+stages surround the outside of it. Ended up finding a spot alongside the 
+soundboard on the right side in the stands. Floor tickets were already sold 
+out by the time I pulled the trigger or else I would have got a spot down 
+there. No complaints though as my seat and the crowd around me ended up 
+being really nice, plus there was barely any wind throughout the whole show. 
+The sound was clear and not too loud so I had my levels at 5. A few hiccups 
+from the band here and there but a great performance overall. First time seeing 
+H. and Crawl Away so those were the highlights. A strong and solid festival set 
+with a couple deep cuts to start out with these 2026 shows. Thank you Adam, 
+Maynard, Danny & Justin. TOOL FOR LIFE
+
+CHECKSUMS:
+tool2026-05-17.v1.t01.flac:c990805693c21f1b5a2db21f9076c128
+tool2026-05-17.v1.t02.flac:cc095c5626270f0bef081a901eff6b4c
+tool2026-05-17.v1.t03.flac:9960618e6852544bccb84f077a9866a9
+tool2026-05-17.v1.t04.flac:095c6ac8b821c93c3407bf6557a34726
+tool2026-05-17.v1.t05.flac:67360f90d82ae2a8eff26c1ad986170d
+tool2026-05-17.v1.t06.flac:7f44a2b4a67755cada1af8c1bb0862b7
+tool2026-05-17.v1.t07.flac:fcf40534a52d0142f1d7f6ea5edee39f
+tool2026-05-17.v1.t08.flac:a1b2bf1c4dd9481ab511c1e4f9b1075c
+tool2026-05-17.v1.t09.flac:8d127858ce5f3443913248b32757859d
+tool2026-05-17.v1.t10.flac:3d3ba5f50e7349e8e580def2854d6ff4
+
+WEBSITES:
+https://www.youtube.com/zeegrizzle
+https://www.tooldriveproject.net
+https://www.toolband.com

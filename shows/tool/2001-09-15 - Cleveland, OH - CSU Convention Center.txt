@@ -1,0 +1,32 @@
+Tool
+2001-09-15
+Cleveland, OH
+CSU Convocation Center
+
+Taper: Toaster
+Source: Core Sound Binaurals > Bass Rolloff > Sony TCD-D100
+Transfer: DDS Drive > WAV > FLAC
+Generation: 0
+
+Setlist:
+Disc 1
+01 - Tuvan intro - 3:32
+02 - The Grudge - 8:27
+03 - (-) ions - 0:41
+04 - Stinkfist - 6:11
+05 - Forty-Six & 2 - 6:39
+06 - Undertow - 6:13
+07 - Schism - 7:15
+08 - Intro to Pushit - 3:48
+09 - Pushit - 12:09
+
+Disc 2
+01 - Disposition - 5:23
+02 - Reflection - 16:19
+03 - intermission - 7:57
+04 - Parabol - 3:09
+05 - Parabola - 7:22
+06 - Eon Blue Apocalypse - 1:02
+07 - The Patient - 8:47
+08 - Opiate - 8:37
+09 - Lateralus - 10:49

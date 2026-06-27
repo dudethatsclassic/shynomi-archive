@@ -1,0 +1,31 @@
+Tool
+June 19th, 2010
+UNO Arena
+New Orleans, LA, USA
+
+Source: dpa4061s > MMA6000 w/low cut @ 100hz > Microtrack 24/96(24 Bit Wav@48Khz)
+Location: just left of center, a few rows from the back
+Conversion: Microtrack 24/96 > USB > CD Wave > Flac Frontend > Flac
+Taper: geordy
+
+01. Third Eye
+02. Jambi
+03. Stinkfist
+04. Vicarious Intro
+05. Vicarious
+06. Eon Blue Apocalypse
+07. The Patient
+08. Intolerance
+09. Maynard's Dick tease
+10. Schism
+11. 46&2 intro
+12. 46&2
+13. -set break-
+14. Lateralus
+15. Ænema
+
+notes: No EQ done, just raised the volume some. Recording turned out much better than I was expecting given our seats. Special thanks to Suzanne and Adam for helping keep an eye out and for an unforgettable weekend!
+
+This is the 24bit/48khz version.  I had two people point out that they can hear some static in the 16/44.1 version I previously torrented.  You can not hear it in this 24/48 version, so the noise must have been introduced in the 16/44.1 conversion.  So here you go.  If you end up circulating a 16/44.1 version made from these files, please make a note as such.  
+
+DO NOT SELL!!!

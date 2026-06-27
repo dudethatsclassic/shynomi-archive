@@ -1,0 +1,16 @@
+Tool - 2001.09.16
+Palace of Auburn Hills - Detroit, MI, USA
+Version 4
+
+media type: FLAC
+source: Sonic Studios DSM6s/L > PA6LC3(65) > Sony TCD-D100 @ 48kHz > DAT Master > dEQ > CDR Master > EAC > TLH
+taper: tapeworm(48)
+
+disc 1 - 16 tracks - 121:19
+
+notes: this is #2 from the mix of two sources in Version 1 that is already on the Tooldrive.  Version 1 is a mix of the two Sonic Studio sources for the entire show where as in this version, #1 was only used as a patch for the missing 1st 3.5 songs.  I inquired about source #1 but the taper did not have a copy of only that source.  
+
+notes from taper: 1st 3.5 songs from the SS DSM6 > M1 source. Some minor EQ performed on the CDR source, however, there are no notes regarding what was done. 
+
+Transferred by tapeworm(48) 
+Txt file compiled on 9/15/2019

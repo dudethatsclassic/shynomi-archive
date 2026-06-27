@@ -24,9 +24,10 @@ const ARTIST_DATA = {
       "state": "IN",
       "location": "Noblesville, IN",
       "venue": "Verizon Wireless Music Center",
-      "notes": "SP-CMC-8 · unk",
+      "notes": "SP-CMC-8 \u00b7 unk",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "2009-07-10 - Noblesville, IN - Verizon Wireless Music Center (SP-CMC-8) (unk) [AUD].txt"
     },
     {
       "year": 2009,
@@ -37,9 +38,10 @@ const ARTIST_DATA = {
       "state": "VA",
       "location": "Bristow, VA",
       "venue": "Nissan Pavilion",
-      "notes": "CA-14s · travelinbeat",
+      "notes": "CA-14s \u00b7 travelinbeat",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "2009-07-13 - Bristow, VA - Nissan Pavilion [AUD].txt"
     },
     {
       "year": 2009,
@@ -50,9 +52,10 @@ const ARTIST_DATA = {
       "state": "MO",
       "location": "St. Louis, MO",
       "venue": "The Pageant",
-      "notes": "Zoom H2 · unk",
+      "notes": "Zoom H2 \u00b7 unk",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "2009-11-03 - St. Louis, MO - The Pageant (Zoom H2) (unk) [AUD].txt"
     },
     {
       "year": 2010,
@@ -63,9 +66,10 @@ const ARTIST_DATA = {
       "state": "England",
       "location": "Birmingham, England",
       "venue": "LG Arena",
-      "notes": "CA-11 · unk",
+      "notes": "CA-11 \u00b7 unk",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "2010-11-16 - Birmingham, England - LG Arena (CA-11) (unk) [AUD].txt"
     },
     {
       "year": 2013,
@@ -78,7 +82,8 @@ const ARTIST_DATA = {
       "venue": "BBC Studios",
       "notes": "Live",
       "version": "FM",
-      "format": "MP2"
+      "format": "MP2",
+      "textFile": "2013-04-03 - London, UK - BBC Studios - Live Lounge [FM].txt"
     },
     {
       "year": 2013,
@@ -89,9 +94,10 @@ const ARTIST_DATA = {
       "state": "UK",
       "location": "Birmingham, UK",
       "venue": "LG Arena",
-      "notes": "CA-11+Sennheiser EK2000 · tailschao",
+      "notes": "CA-11+Sennheiser EK2000 \u00b7 tailschao",
       "version": "MIX",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "2013-09-23 - Birmingham, England - LG Arena (CA-11 + Sennheiser EK2000) (tailschao) [MIX].txt"
     },
     {
       "year": 2013,
@@ -104,7 +110,8 @@ const ARTIST_DATA = {
       "venue": "Arena @ Mohegan Sun Casino",
       "notes": "",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "2013-11-17 - Uncasville, CT - Arena @ Mohegan Sun Casino [AUD].txt"
     },
     {
       "year": 2017,
@@ -117,7 +124,8 @@ const ARTIST_DATA = {
       "venue": "BBC Studios / Live Lounge",
       "notes": "",
       "version": "FM",
-      "format": "MP2"
+      "format": "MP2",
+      "textFile": "2017-06-19 - London, UK - BBC Studios - Live Lounge [FM].txt"
     },
     {
       "year": 2018,
@@ -128,9 +136,10 @@ const ARTIST_DATA = {
       "state": "NC",
       "location": "Raleigh, NC",
       "venue": "Red Hat Amphitheater",
-      "notes": "SP-CMC-8 · porcelmc",
+      "notes": "SP-CMC-8 \u00b7 porcelmc",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "2018-06-15 - Raleigh, NC - Red Hat Amphitheater (SP-CMC-8) (porcelmc) [AUD].txt"
     },
     {
       "year": 2023,
@@ -141,9 +150,10 @@ const ARTIST_DATA = {
       "state": "OH",
       "location": "Columbus, OH",
       "venue": "Schottenstein Center",
-      "notes": "SP-CMC-8 · live2cd",
+      "notes": "SP-CMC-8 \u00b7 live2cd",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "2023-06-10 - Columbus, OH - Schottenstein Center (SP-CMC-8) (live2cd) [AUD].txt"
     },
     {
       "year": 2024,
@@ -154,9 +164,10 @@ const ARTIST_DATA = {
       "state": "Poland",
       "location": "Warsaw, Poland",
       "venue": "PGE Narodowy",
-      "notes": "CA-14 · unk",
+      "notes": "CA-14 \u00b7 unk",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "2024-08-02 - Warsaw, Poland - PGE Narodowy (CA-14) (unk) [AUD].txt"
     },
     {
       "year": 2024,
@@ -169,7 +180,8 @@ const ARTIST_DATA = {
       "venue": "T-Mobile Arena",
       "notes": "iHeart",
       "version": "PRO",
-      "format": "DVD"
+      "format": "DVD",
+      "textFile": "2024-09-20 - Las Vegas, NV - T-Mobile Arena - iHeart Radio Festival [DVD].txt"
     }
   ],
   "misc": []

@@ -1,0 +1,23 @@
+Tool
+1993-06-26
+Lollapalooza,
+Fiddler's Green Amphitheatre,
+Denver, CO
+
+Source (commonly accepted):  SBD > ASBM > DDC2 @ 32kHz
+
+Source (anecdotal): SBD > unknown recording method > DAT (unconfirmed generation and frequency) > unknown transfer > Analog Cassette Master > unknown transfer > DAT-2 @ 32kHz (2nd gen from master analog cassette) > Tascam DA-302 (used for cloning) > DDC-3 @ 32kHz
+
+Transfer: DDC2 @ 32kHz (common) / DDC-3 @ 32kHz (anecdotal) > Tascam DA-302 > ESI UX24L (SPDIF) > Goldwave > .WAV > Fission (removed silence on ends, track splits) > xAct > .FLAC (Level 8) > Meta (ID Tags)
+
+Tracklist:
+
+01 Intro
+02 Hush
+03 Intolerance
+04 Sober
+05 Prison Sex
+06 Sweat
+07 Swamp Song
+08 Bottom (feat. Zack de la Rocha of Rage Against the Machine on vocals)
+09 Jerk-Off

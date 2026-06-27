@@ -1,0 +1,51 @@
+Benjamin Gibbard
+October 14th, 2012
+Danforth Music Hall
+Toronto, CAN
+
+SOURCE: CSB>Edirol R-09hr (WAV 24bit/96kHz) [AUD > SD]
+LOCATION: ~ 10ft from centre stage; third row
+TRANSFER: PNY Class 4 SD>USB>PC
+EQ: WAV>Cool Edit Pro>Goldwave>SRCdrop>CDwave
+EQ DETAILS: GW: Fades, Compression; CEP: EQ; SRC: downsample to 16bit/44.1kHz WAV; CDw: track splits,
+ENCODING: FLAC(6)
+
+time: 01:24:02
+
+01. Shepherd's Bush Lullaby
+02. Such Great Heights
+03. [banter]
+04. St. Peter's Cathedral
+05. Oh, Woe
+06. Willamine
+07. [banter]
+08. Title and Registration
+09. Dream Song
+10. When The Sun Goes Down On Your Street
+11. [banter]
+12. Grapevine Fires
+13. Lady Adelaide
+14. [banter]
+15. Passenger Seat
+16. Duncan, Where Have You Gone?
+17. Unobstructed Views
+18. Soul Meets Body
+19. [banter]
+20. Something's Rattling (Cowpoke)
+21. [banter]
+22. My Music At Work [the Tragically Hip]
+23. Teardrop Windows [abandoned]
+24. Teardrop Windows
+25. The District Sleeps Alone Tonight
+26. You Remind Me Of Home
+27. [encore]
+28. [banter]
+29. A Lack of Colour
+30. [banter]
+31. I'm Building A Fire
+32. I Will Follow You Into The Dark
+
+
+NOTES: 
+
+- The opening show for Ben Gibbard's Former Lives solo album. 

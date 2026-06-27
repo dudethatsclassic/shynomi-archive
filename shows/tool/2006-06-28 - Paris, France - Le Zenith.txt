@@ -1,0 +1,16 @@
+Tool - 2006.06.28
+Le Zénith - Paris, France
+version 4
+
+media type: FLAC
+source: Sony ECM-717 > Sony MZ-R50 > PC > Soundforge > Normalize > WAV > 2nd Gen CDRs > EAC > WAV > FLAC Frontend (Level 8) > FLAC
+taper: Nicolas
+trade status: can trade
+
+disc 1 - 6 tracks - 60:35
+disc 2 - 4 tracks - 41:15 
+
+notes: Taper burned master wav files to cdr(M) and deleted them; mailed out 2nd Gen CDRs  
+
+
+

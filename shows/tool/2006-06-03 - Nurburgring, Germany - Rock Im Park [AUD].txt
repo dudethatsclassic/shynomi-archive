@@ -1,0 +1,34 @@
+Tool
+2006-06-03
+Rock im Park Festival (Club Stage)
+Nuremberg, Germany
+
+
+Taper: Thommi
+Location: ~ 40 meters away from stage, center
+Source: Dynamic Audio Cardioids > DA-120F > Sony MZ-NH700 (mic in)
+Transfer: Digital - Sony MZ-NH700 (Hi-SP) > USB > SonicStage 3.2 > .wav > EQ with WaveLab (thanks to specialK!) > CD Wave (tracking) > FLAC Frontend 1.7.1 (level 8) > .flac
+Gen: 0
+
+
+Setlist:
+
+01 - Intro - 2:15
+02 - Rosetta Stoned - 11:50
+03 - Stinkfist - 6:36
+04 - The Pot - 7:24
+05 - 46 & 2 - 6:35
+06 - Jambi - 8:22
+07 - Schism - 7:49
+08 - Sober - 6:23
+09 - Lateralus - 9:50
+10 - interlude - 1:57
+11 - Vicarious - 7:36
+12 - Ænema - 8:26
+
+
+Notes: 
+
+
+-< Do NOT encode to MP3 or any other lossy format!!! >-
+-< Do NOT equalize and/or torrent without permission!!! >-

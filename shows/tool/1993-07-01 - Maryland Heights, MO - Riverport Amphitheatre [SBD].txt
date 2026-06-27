@@ -1,0 +1,16 @@
+Tool
+1993-07-01
+Maryland Heights, MO
+Riverport Amphitheater
+
+Source: Soundboard
+Transfer: ASBM > DDC2 32khz > CDR > EAC (Secure Mode) > CDWave (tracking) > .WAV > .FLAC
+Generation: 3rd
+Notes: Probably an incomplete source, unverified.
+
+Setlist:
+01 - Intolerance - 6:39
+02 - Undertow - 6:03
+03 - Sober - 5:44
+04 - Prison Sex - 5:33
+05 - 4° - 6:01

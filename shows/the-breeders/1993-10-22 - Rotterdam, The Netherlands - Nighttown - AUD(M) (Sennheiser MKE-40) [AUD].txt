@@ -1,0 +1,50 @@
+The Breeders - Rotterdam - Nighttown (audience, master)
+Running time ~68 minutes.
+
+01. Intro
+02. No aloha
+03. Flipside
+04. Hellbound
+05. Doe
+06. Don't call home
+07. Cannonball
+08. Safari
+09. I just wanna get along
+10. Invisble man
+11. Saints
+12. S.O.S-
+13. Lord of the thighs
+14. Fortunately gone
+15. Only in 3's
+16. Divine hammer
+17. Limehouse
+18. When I was a painter
+19. New year
+20. Happiness is a warm gun
+21. Roi
+
+Lineage: 
+Sennheiser MKE-40 -> Sony TCD-D7 -> DAT tape (32kHz) -> JVC DAT deck -> Edirol UA-1EX USB digital input -> WAV -> Adobe Audition -> FLAC (44.1kHz)
+
+FFP-checksums:
+01. Intro.flac:eecc43103eec0aab185ac04804821fb1
+02. No aloha.flac:3f3a8a6961d713f3d0cc2d9e0171ce33
+03. Flipside.flac:d7f806d69047cf664f83b907d12fc14f
+04. Hellbound.flac:59d55b555cfe5dbf6aba8d75bf38fd56
+05. Doe.flac:431b6ef6e9952bbd25a629044ea19690
+06. Don't call home.flac:ae213012da8e20ed9880788987605b70
+07. Cannonball.flac:cf8ea81671c0b3ad9ba1dd04951bffd6
+08. Safari.flac:f26ae5a763f5977aa0669dfb145f679a
+09. I just wanna get along.flac:9a123121c860451282ab79238ec83a7b
+10. Invisble man.flac:452281dc445baf314869eadc2c8f256a
+11. Saints.flac:6f6827a103f1c69ef58d643c32d3de5f
+12. S.O.S-.flac:865139afd9ac88097c1df6ffe203676f
+13. Lord of the thighs.flac:ad0d41440577cb62796ac04db8bc26ca
+14. Fortunately gone.flac:202c423a64bca3eedefca3cd327b1934
+15. Only in 3's.flac:f1982e7cb78d3724f95e1ae3daf13fbb
+16. Divine hammer.flac:934b4ba993177f8957e07c3bb6905e17
+17. Limehouse.flac:21faf9ea00f8f32eb52276f0876e95d1
+18. When I was a painter.flac:7b302478c7abf3a6509408af912be3c2
+19. New year.flac:77d0031c93846942ab230e0d7e1f6027
+20. Happiness is a warm gun.flac:cefff87ac993c3740f311cc15a922cfa
+21. Roi.flac:8e77c98adf41f6344c768688ef276f0c

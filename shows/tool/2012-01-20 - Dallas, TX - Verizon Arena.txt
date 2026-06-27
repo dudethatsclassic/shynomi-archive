@@ -1,0 +1,58 @@
+TOOL
+Jan 20th, 2012
+Verizon Theatre
+Grand Prairie, TX, USA
+
+********************
+2 source matrix
+********************
+
+Source 1: Church Audio CA-14 cardiods > Church Audio CA-9100 preamp > Sony PCM-M10 (line-in @24/96)
+
+Location: Section 203, Row LL
+
+Taper: Karl
+
+
+
+Source 2: DPA 4061 (matched pair) > 9v batt box > Edirol R-09 (WAV @ 24 bit, 48 kHz)
+
+Location: Section 201, Row MM, Seat 7
+
+Taper: Adam
+
+Transfer: SD card > card reader (USB) > WAV
+
+
+
+Mastering (Adam): Wavlab 3.04 (EQ, dynamic compression, matrixing) > CD Wave Editor (track splits) > FLACfrontend
+
+
+Notes (Adam): Final matrix is a 60/40 mix, in favor of the Church Audio source. Thankfully Karl had a prime seat for this show, as my seat was too far to the side to be in the sweet spot.
+
+This was my 43rd TOOL show.  I was disappointed in the 'Ticks and Leeches' fakeout, leading into Sober, but I figured we'd probably hear it the following night.  Parabol(a) was a great surprise addition to the set.  It was always one of my favorites back in '01/'02.  
+
+Enjoy!
+
+
+01. intro                                 2:33
+02. Hooker With a Penis                   5:07
+03. Jambi                                 8:11
+04. Stinkfist                             5:27
+05. Ticks and Leeches (fakeout)           1:13
+06. Sober                                 6:25
+07. Pushit                               10:46
+08. new jam                               3:34
+09. Schism                                8:26
+10. Intension                             7:32          
+11. Forty-Six & 2                         6:43
+12. Lateralus                            17:06
+13. -set break-                          11:03
+14. Parabol                               3:14
+15. Parabola                              6:34 
+16. Ænema                                 8:33
+
+Total:                                  112:36 
+                                           
+
+ 

@@ -1,0 +1,36 @@
+
+Tool
+Allstate Arena: Rosemont, IL
+September 9, 2001
+
+Source:  Schoeps MK4v > KCY > VMS02IB > SBM-1 > M1 @ 48kHz  
+Location:  FOB, DFC, 40' from stage
+Lineage:  DAT1 > FLAC @ 48kHz
+Transfer:  Tascam DA-20 > Sony PCM-R300 > ZNP6 > CEPv2.1 > CDWave > FLAC
+Taper:  Anonymous
+
+01 -Intro-
+02 The Grudge
+03 Stinkfist
+04 Forty Six & 2
+05 Undertow
+06 Schism
+07 Eulogy
+08 Disposition
+09 Reflection
+10 -Intermission-
+11 Parabol
+12 Parabola
+13 Eon Blue Apocalypse
+14 The Patient
+15 Ænima
+16 Lateralus
+
+Notes:  No editting was performed other than adding fades at the beginning and end of the recording.
+
+Archive:  DAT was transferred @ 48kHz and FLAC'd with cue sheet.
+
+Transferred by tapeworm(48)
+Txt file compiled on 9/23/2005
+
+*** DO NOT DISTRIBUTE IN LOSSY FORMATS. DO NOT SELL THIS RECORDING, TRADE IT FREELY ***

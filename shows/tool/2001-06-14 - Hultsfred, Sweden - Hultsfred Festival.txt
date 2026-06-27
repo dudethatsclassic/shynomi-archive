@@ -1,0 +1,18 @@
+Tool
+06-14-2001
+Hultsfred, Sweden @ Hultsfred Festival (Pampasscenen)
+Source: Marantz EM-8 or Aiwa Mic > Sony TCD-D8
+Transfer: 1st gen CD > EAC > .wav > FLAC
+
+set:
+01.Tuva
+02.Soundcheck jam
+03.The grudge
+04.Stinkfist
+05.Eulogy
+06.Schism
+07.Sober
+08.Parabola
+09.Lateralus
+
+notes: Taper did not remember which mic he used.

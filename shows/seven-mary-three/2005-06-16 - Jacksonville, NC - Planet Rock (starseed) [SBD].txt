@@ -1,0 +1,69 @@
+Seven Mary Three
+Planet Rock
+2201 N Marine Blvd.
+Jacksonville, NC
+June 16, 2005
+
+Taper:
+StArSeEd (jgweston@hotmail.com) -- Thanks for the patch, Jaymo! 
+
+Recording:
+Mackie 16"8 SBD (monitor/headphone out) > 1/4"->1/8" stereo patch > Aiwa AM-F70 MD (ATRAC SP-Stereo). 
+
+Transfer:
+Sony MDS-JB940 MD @ 16bit > Coax S/PDIF > SB Audigy 2 ZS Platinum @ bit-accurate
+> Sound Forge @ 16/44.1/Stereo. 
+
+Editing:
+Sound Forge w/normalize and volume (to help make the 'dropouts' less annoying), post-mastering fade-ins/outs. 
+
+Mastering:
+Vegas w/volume enveloping, Waves IDR, Waves DeEsser, Waves LinMB EQ, Waves MaxxBass,
+Waves TrueVerb, Waves L3 MultiMaximizer.
+
+Set/Track List:
+Disc 1
+1. announcement
+2. Bark No Bite
+3. Oceans of Envy
+4. Wait
+5. Headstrong
+6. Settle Up
+7. Roderigo
+8. Shelf Life
+9. My My
+10. Eleanor Rigby
+11. Water's Edge
+
+Disc 2
+1. Lucky
+2. Needle Can't Burn
+3. Subway Tunnel Microphones
+4. Sleepwalking
+5. Rockcrown
+6. Devil Boy
+7. Home Stretch
+8. Cumbersome
+9. Dead Flowers
+10. Rockin' In The Free World 
+
+Notes:
+Multiple board 'dropouts', presumably from Jaymo hitting solo buttons on five songs: tracks 2, 3, 4, 6,
+and 7 on disc 1. MD disc swap between Water's Edge and Lucky during the guitar change, not a single note missed. 
+
+Thanks:
+Thanks to Seven Mary Three for yet another great show. Thanks to Decyfer (Morehead City)
+and Far From Nowhere (Jacksonville) for a great build-up. Extra special thanks to Far From Nowhere for the spot-on
+cover of Fight For Your Right [The Beastie Boys] that nearly brought the house down. Thanks again to Jaymo for the
+patch (next time I'll try not to have to use your headphone output!) 
+Thanks to the Planet Rock venue soundguy for the power feed. Thanks to Rock 105 for bringing Seven Mary Three
+back to Jacksonville! 
+-StArSeEd/Jonathan G. Weston, 3:21 PM 6/26/2005
+--------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+All credit goes to the taper and those he thanked.
+
+Lineage For This Torrent:
+Transfer:
+Sony MDS-JB940 MD @ 16bit > Coax S/PDIF > SB Audigy 2 ZS Platinum @ bit-accurate
+> Sound Forge @ 16/44.1/Stereo >CD-R's >EAC >TLH >FLAC(level 8).

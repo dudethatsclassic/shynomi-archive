@@ -1,0 +1,43 @@
+Jewel Kilcher
+102.7 WNEW-FM
+Sky Lounge Studios
+New York, NY
+January 26, 1996
+
+Source : FM Broadcast > 2nd gen cassette (Fixed Version)
+
+Transfer : Sony TC-WE 475 > JVC XL-R2010 CD-RW (16/44) (Transferred 4/23/08)
+
+Editing : Sound Forge (CD extract, tracking, volume) > Wave > TLH (sbe aligned) Flac 8
+
+Traders Den - June 17, 2023
+
+transferred & posted by kingrue #3688
+=====================================
+
+
+
+Total Time = 19:47
+
+Set list
+01 Who Will Save Your Soul
+02 Pieces of You
+03 Near You Always
+04 Prayer for the Dead w/Edwin McCain
+05 Cold Song
+
+=========================
+
+
+No errors occured.
+
+
+01 Who Will Save Your Soul.flac:506d94e029e4a69099486e406659a4ed
+02 Pieces of You.flac:b171a673671000e610493453ab536d26
+03 Near You Always.flac:78c9ddc51b6ffff187d2ac30c16419ad
+04 Prayer for the Dead.flac:fb1bbc55bad556896f35f0a1e451a2b7
+05 Cold Song.flac:645e4ffadb26fac88316a58c19660f62
+
+Checksum file saved to disk.
+
+No errors occured.

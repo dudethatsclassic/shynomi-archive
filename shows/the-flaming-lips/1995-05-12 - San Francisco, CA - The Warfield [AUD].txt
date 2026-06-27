@@ -1,0 +1,13 @@
+The Flaming Lips
+Warfield, San Francisco CA
+May 12, 1995
+
+- a 'teddy ballgame' DAT Master
+
+recording info:
+Schoeps MK4 > RMod > D7 DAT Master @ 16bit/48kHz
+
+processing:
+Panasonic 120 DAT > Tascam DA45-HR > SD USBPRE2 > Adobe Audition > CDWAV > TLH FLAC 8
+
+these are 16bit/48kHz flac files

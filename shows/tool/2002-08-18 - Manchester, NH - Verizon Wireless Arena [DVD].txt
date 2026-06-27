@@ -1,0 +1,93 @@
+TOOL
+2002.08.18
+Manchester, NH
+Verizon Wireless Arena
+
+
+Taper: Rawson
+Source: Hi8 --- Sony CCD-TRV940 w/Sound Professional mics 
+Transfer: sears vcr (made by jvc) to dvd recorder magnavox (model MWR10D6), 2009 by bobcat
+
+
+Setlist:
+
+Tuva
+Sober
+The Grudge
+(-) Ions
+Stinkfist
+H. 
+Schism
+Parabol
+Parabola
+Eon Blue Apocalypse
+The Patient
+Opiate
+Intermission
+Disposition
+Reflection
+Triad
+Wings for Marie Pt 1 (instrumental teaser)
+Lateralus
+
+
+
+Format: MPEG-PS
+Duration: 120mn
+Overall bit rate mode: Variable
+Overall bit rate: 4 744 Kbps
+
+Video
+ID: 224 (0xE0)
+Format: MPEG Video
+Format version: Version 2
+Format profile: Main@Main
+Format settings: BVOP
+Format settings, BVOP: Yes
+Format settings, Matrix: Default
+Format settings, GOP: M=3, N=15
+Format settings, picture structure: Frame
+Duration: 120mn
+Bit rate mode: Variable
+Bit rate: 4 393 Kbps
+Maximum bit rate: 6 125 Kbps
+Width: 720 pixels
+Height: 480 pixels
+Display aspect ratio: 4:3
+Frame rate: 29.970 (30000/1001) fps
+Standard: NTSC
+Color space: YUV
+Chroma subsampling: 4:2:0
+Bit depth: 8 bits
+Scan type: Interlaced
+Scan order: Top Field First
+Compression mode: Lossy
+Bits/(Pixel*Frame): 0.424
+Time code source: Group of pictures header
+GOP, Open/Closed: Open
+GOP, Open/Closed of first frame: Closed
+Stream size: 948 MiB (93%)
+Color primaries: BT.601 NTSC
+Transfer characteristics: BT.601
+Matrix coefficients: BT.601
+
+Audio
+ID: 189 (0xBD)-128 (0x80)
+Format: AC-3
+Format/Info: Audio Coding 3
+Commercial name: Dolby Digital
+Muxing mode: DVD-Video
+Duration: 120mn
+Bit rate mode: Constant
+Bit rate: 256 Kbps
+Channel(s): 2 channels
+Channel layout: L R
+Sampling rate: 48.0 KHz
+Frame rate: 31.250 fps (1536 SPF)
+Compression mode: Lossy
+Stream size: 55.2 MiB (5%)
+Service kind: Complete Main
+
+
+
+

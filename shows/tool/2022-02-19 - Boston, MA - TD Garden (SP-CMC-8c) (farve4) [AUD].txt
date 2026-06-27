@@ -1,0 +1,40 @@
+Tool
+TD Garden
+Boston, MA, 
+Feb. 19, 2022
+
+Taper   :   Farve4
+Lineage:  SP-CMC-8c > SP-SPSB-4 > Sony PCM-A10 > 
+                 Internal Memory Card > WAV 48kHz/24-bit
+ 
+
+Band:
+Maynard James Keenan – vocals
+Adam Jones – guitars
+Danny Carey – drums, percussion
+Justin Chancellor – bass
+
+
+Setlist
+01 Fear Inoculum  12:53
+02 Opiate  7:46
+03 The Pot  7:16
+04 Pushit  11:59
+05 Pneuma  12:43
+06 The Grudge  8:48
+07 Right in Two  10:51
+08 Descending  14:30
+09 Hooker With a Penis  6:37
+10 Chocolate Chip Trip  5:47
+11 Culling Voices  12:58
+12 Invincible  14:52
+Total Time: 127:00 (2:07:00)
+
+Remaster
+1. Correct right channel amplitude
+2. Re-balance frequencies / EQ
+3. Correct channel frequency separation
+4. Adjust excessive peaks
+5. Track and verify set list
+6. Convert to 16-bit, 44.1kHz
+

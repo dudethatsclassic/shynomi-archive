@@ -25,7 +25,8 @@ const ARTIST_DATA = {
       "venue": "Yokohama Stadium",
       "notes": "",
       "version": "FM",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1987-09-27 - Yokohama, Japan - Yokohama Stadium [FM].flac.txt"
     },
     {
       "year": 1987,
@@ -38,7 +39,8 @@ const ARTIST_DATA = {
       "venue": "Entertainment Centre",
       "notes": "inc",
       "version": "PRO",
-      "format": "DVD"
+      "format": "DVD",
+      "textFile": "1987-11-29 - Michael Jackson Bad World Tour - 1987 (inc) [DVD].txt"
     },
     {
       "year": 1988,
@@ -51,7 +53,8 @@ const ARTIST_DATA = {
       "venue": "Madison Square Garden",
       "notes": "",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1988-03-03 - New York, NY - Madison Square Garden [AUD].txt"
     },
     {
       "year": 1988,
@@ -64,7 +67,8 @@ const ARTIST_DATA = {
       "venue": "Stadio Flaminio *My Way LP",
       "notes": "",
       "version": "Vinyl",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1988-05-23 - Rome, Italy - Stadio Flaminio - My Way LP [Vinyl].txt"
     },
     {
       "year": 1988,
@@ -77,7 +81,8 @@ const ARTIST_DATA = {
       "venue": "Stadion Feyenoord",
       "notes": "Sony WM-D6C",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1988-06-05 - Rotterdam - Stadion Feyenoord (Sony WM-D6C) [AUD].txt"
     },
     {
       "year": 1988,
@@ -88,9 +93,10 @@ const ARTIST_DATA = {
       "state": "Sweden",
       "location": "Gothenburg, Sweden",
       "venue": "Eriksberg Shipyard Docks",
-      "notes": "M · Marantz EM-8 · kk",
+      "notes": "M \u00b7 Marantz EM-8 \u00b7 kk",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1988-06-11 - Gothenburg, Sweden - Eriksberg Shipyard Docks (M) (Marantz EM-8) (kk) [AUD].txt"
     },
     {
       "year": 1988,
@@ -114,9 +120,10 @@ const ARTIST_DATA = {
       "state": "NJ",
       "location": "East Rutherford, NJ",
       "venue": "Brendan Byrne Arena",
-      "notes": "Two Of Us Master Series Volume 239 · Shure Mic · two of us",
+      "notes": "Two Of Us Master Series Volume 239 \u00b7 Shure Mic \u00b7 two of us",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1988-10-03 - East Rutherford, NJ - Brendan Byrne Arena   (Two Of Us Master Series Volume 239) (Shure Mic) (two of us) [AUD].txt"
     },
     {
       "year": 1989,
@@ -129,7 +136,8 @@ const ARTIST_DATA = {
       "venue": "Memorial Sports Arena",
       "notes": "",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1989-01-27 - Los Angeles, CA - Memorial Sports Arena [AUD].txt"
     },
     {
       "year": 1989,
@@ -142,7 +150,8 @@ const ARTIST_DATA = {
       "venue": "Memorial Sports Arena",
       "notes": "Kai 2021 Transfer",
       "version": "SBD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1989-01-27 - Los Angeles, CA - Memorial Sports Arena (Kai 2021 Transfer) [SBD].txt"
     },
     {
       "year": 1992,
@@ -155,7 +164,8 @@ const ARTIST_DATA = {
       "venue": "Wembley Stadium",
       "notes": "",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1992-07-31 - London, UK - Wembley Stadium [AUD] .txt"
     },
     {
       "year": 1992,
@@ -168,7 +178,8 @@ const ARTIST_DATA = {
       "venue": "National Concert Hall  *Black and Live",
       "notes": "RRC 011",
       "version": "SBD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1992-10-01 - Bucharest, Romania - National Concert Hall - Black and Live (RRC 011) [SBD].txt"
     },
     {
       "year": 1996,
@@ -194,7 +205,8 @@ const ARTIST_DATA = {
       "venue": "",
       "notes": "",
       "version": "Silver CD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1996-11-09 - Auckland, NZ - Destination Auckland {KOP 911} [Silver CD].txt"
     },
     {
       "year": 1997,
@@ -205,9 +217,10 @@ const ARTIST_DATA = {
       "state": "Germany",
       "location": "Munchen, Germany",
       "venue": "Olympic Stadium *The King Is Alive",
-      "notes": "SBD · OPT 14-15",
+      "notes": "SBD \u00b7 OPT 14-15",
       "version": "Silver CD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1997-07-04 - Munchen, Germany - Olympic Stadium (The King Is Alive - Optimum OPT 14-15) [SBD].txt"
     },
     {
       "year": 1997,
@@ -220,7 +233,8 @@ const ARTIST_DATA = {
       "venue": "Live History World Tour",
       "notes": "SATRip",
       "version": "TV",
-      "format": "TS"
+      "format": "TS",
+      "textFile": "1997-07-04 - Munich, Germany - Live History World Tour (SATRip) [TS].txt"
     },
     {
       "year": 1997,
@@ -231,9 +245,10 @@ const ARTIST_DATA = {
       "state": "Denmark",
       "location": "Copenhagen, Denmark",
       "venue": "Parken",
-      "notes": "Homemade stereo mics · kingkeld",
+      "notes": "Homemade stereo mics \u00b7 kingkeld",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1997-08-14 - Copenhagen, Denmark- Parken (Homemade stereo mics) (kingkeld) [AUD] .txt"
     },
     {
       "year": 1997,
@@ -246,7 +261,8 @@ const ARTIST_DATA = {
       "venue": "Ullevi Stadium",
       "notes": "",
       "version": "",
-      "format": ""
+      "format": "",
+      "textFile": "1997-08-16 - Gothenburg, SWE - Ullevi Stadium [DVD].txt"
     }
   ],
   "misc": [

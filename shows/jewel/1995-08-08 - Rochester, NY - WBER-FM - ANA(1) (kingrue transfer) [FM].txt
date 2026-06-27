@@ -1,0 +1,48 @@
+﻿Jewel Kilcher & Steve Poltz
+90.5 WBER-FM
+Rochester, NY
+August 8, 1995
+
+Source : WBER-FM > 1st gen cassette
+
+Transfer : Sony TC-WE 475 > JVC XL-R2010 CD-RW (transferred 4/24/08)
+
+Editing : Sound Forge (volume) > WAV > TLH (sbe aligned) Flac 8
+
+Traders Den - June 29, 2023 
+
+Transferred & Tracked by kingrue upload #3714
+===========================================
+
+Here’s a recording of Jewel when she went into the Rochester radio station to do a short performance.
+Her friend Steve Poltz is here with her. They perform two songs together. 
+There’s some interviews and they discuss about her opening for Peter Murphy, which is quite an odd billing.
+Jewel's voice here sounds just like her album. The highlight is the duet of Old Lover's House.
+
+Total Time = 32:14
+
+Set list
+01 DJ Introduction
+02 Interview
+03 You Were Meant For Me (w/Steve Poltz)
+04 I'm Sensitive
+05 Who Will Save Your Soul
+06 Old Lover's House (w/Steve Poltz)
+
+=================================
+
+
+
+No errors occured.
+
+
+01 DJ Introduction.flac:b9c5417ae1bbad42cdd8d8ad2cec48c5
+02 Interview.flac:b74532c571993dd41baa9fae77a566e7
+03 You Were Meant For Me.flac:4615309b24392044a6b69402d6e35b9b
+04 I'm Sensitive.flac:e6abe28ba134395f69a997f1728a69bc
+05 Who Will Save Your Soul.flac:35279a87bf3442485d38e2ab911677af
+06 Old Lover's House.flac:802433066c14b9342266e489e7eebe8a
+
+Checksum file saved to disk.
+
+No errors occured.

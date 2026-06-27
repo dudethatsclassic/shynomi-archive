@@ -1,0 +1,35 @@
+FAILURE
+October 22, 2015
+Fremont Country Club
+Las Vegas, NV
+
+Source: internal mics > Edirol R-09HR
+Taper: Luke Freteluco
+Location: right stacks
+Lineage: WAV(M) [16/44.1] > FLAC
+Edits/EQ: none
+Notes: none
+
+01 - Hot Traveler
+02 - A.M - Amnesia
+03 - Snow Angel
+04 - Atom City Queen
+05 - Counterfeit Sky
+06 - Petting the Carpet
+07 - Mulholland Drive
+08 - Something
+09 - Moth
+10 - Frogs
+11 - Sergeant Politeness
+12 - Segue1
+13 - Smoking Umbrellas
+14 - Pillowhead
+15 - Solaris
+16 - Another Space Song
+17 - The Nurse Who Loved Me
+18 - Enjoy the Silence
+19 - Stuck on You
+20 - Heliotropic
+
+
+Compiled September 2020 by CPS

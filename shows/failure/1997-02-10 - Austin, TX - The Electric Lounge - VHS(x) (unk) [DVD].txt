@@ -1,0 +1,29 @@
+Failure
+The Electric Lounge
+Austin, TX
+Febuary 10, 1997
+
+Source: Audience > low gen vhs
+Lineage: vhs > sa > dvd > pc(menus) > dvd
+
+NTSC DVD, menus with song selection
+Length: 44:38
+Video: MPEG-2 6000Kbps avg.
+Audio: Dolby 256Kbps 
+
+Setlist:
+01 sargeant politeness
+02 segue 1
+03 saturday saviour
+04 pillowhead
+05 muffled snaps
+06 frogs
+07 another space song
+08 solaris
+09 stuck on you
+10 leo
+11 the nurse who loved me
+
+Notes:
+Re-authored version of the one uploaded years ago 
+The reason the original was 4.03GB & this version is 2.18GB is due to the original having 40+ minutes of black at the end which I removed for this version.

@@ -1,0 +1,28 @@
+TOOL
+1993-02-04
+Berlin, Germany
+The Loft
+
+Source: Soundboard
+Transfer: ASBM > DDC2 32khz > CDR > EAC (Secure Mode) > CDWave (tracking) > .WAV > .FLAC
+Generation: 3rd
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+Remastered by peskypesky 2019-08-28
+FLAC files worked on in Adobe Audition
+Compression and eq to add punch, some low end and tame the harsh highs
+Edited out some gaps between songs
+Added tags with Mp3tag v2.96
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+Setlist:
+01 - Cold and Ugly - 5:05
+02 - Intolerance - 5:20
+03 - Sober - 5:26
+04 - Prison Sex - 5:29
+05 - 4° - 6:13
+06 - Opiate - 6:14
+07 - Flood - 7:45
+08 - Jerkoff - 4:20
+
+originally uploaded by RapeMe

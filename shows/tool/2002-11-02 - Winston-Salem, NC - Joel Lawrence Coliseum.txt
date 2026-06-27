@@ -1,0 +1,29 @@
+Band:  Tool
+Date:  November 2, 2002
+Venue:  Lawrence Joel Coliseum, Winston-Salem, North Carolina
+Rig:  CSC>M1
+Recorder Number:  1
+Mic Location and Info: Center stage about 30 ft. back.
+Taper:  Travis Simpson
+Notes:  Missing part of 'Third Eye' due to me passing out.
+
+Transfer:  DAT(M)>Tascam DA-20mk>Monoprice Coaxial Audio/Video RCA CL2 Rated Cable - RG6/U 75ohm cable>CEP 1.2>CD Wave>FLAC (16-bit, 48kHz)
+
+Setlist:
+Intro
+Sober
+The Grudge
+(-) Ions
+stinkfist
+H.
+Schism
+Parabol
+Parabola
+Third Eye <with cut>
+Intermission
+Disposition
+Reflection
+Triad
+Lateralus 
+
+Total Time:  116:10

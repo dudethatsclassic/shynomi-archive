@@ -1,0 +1,59 @@
+Failure
+Saturday May 17th 2014
+Rickshaw Theatre
+254 E Hastings St
+Vancouver BC Canada
+
+Taper:  LeifH
+Source:  CA-11 (cardioid) > Bat2B > Sony PCM M10 @ 24/48 > microSD card
+Transfer:  Memory card > PC via USB > Wavepad Masters Edition (edits, amplify, tracking, 16/44.1) > flac (8) via Frontend
+
+Set  I:  45:41
+01 Another Space Song
+02 Frogs
+03 Wet Gravity
+04 Saturday Savior
+05 Sergeant Politeness
+06 Segue 2
+07 Dirty Blue Balloons
+08 Undone
+09 Pillowhead
+10 Small Crimes
+
+Set II:  55:44
+11 Blank
+12 Solaris
+13 Smoking Umbrellas
+14 Stuck On You
+15 Heliotropic
+16 Segue 3
+17 The Nurse Who Loved Me
+18 Macaque
+19 Screen man
+20 Daylight
+
+I arrived at the venue pretty early, around 2:30 in the afternoon.  The band wasn't even there yet, but I had just come in from out of town and had nothing else to do.  The alley behind the Rickshaw had too much piss and vomit that particular day for me to hang out and catch the band on the way in.  So I waited out front for a while.  Some time passed and I could hear the band doing soundcheck quite clearly.  A couple venue staff had entered through the front, leaving the doors open but also closing the metal roll-up gate behind them.  I was about to pull out my recorder to capture it when a couple tweekers approached me.  Long story short, one of them had the sense to keep walking but the other one started to turn on me.  "C'mon man, let's go," one called from a distance.  By the time that was over, Failure had played 2.5 songs (the first 3 on the setlist) as their soundcheck.  
+
+The venue was about half full.  There was supposed to be an opening act, but there wasn't one.  The show started with a video montage including a scene from 2001.  Really good performance by an amazing trio.  Much better than what I thought I was in for.  I also filmed the entire show.  Failure was opening up for Tool earlier in 2014, and I had hoped to catch them at those shows.  But the 3 Tool shows I went to in 2014 were the first of that tour, and the opening band was YOB. Probably better to have seen this show in the end rather than a truncated version.   
+
+fingerprints:
+01 - Another Space Song.flac:eabb5f73e9103dd49fd060e3cd496e8c
+02 - Frogs.flac:438ba375381b3b3f0ed8b98439325a3f
+03 - Wet Gravity.flac:52fd1f3507238441faec6d9bf666fbd5
+04 - Saturday Savior.flac:530779b7760c70ba63dde5918d4b3001
+05 - Sergeant Politeness.flac:74e1da99f350329739568af393181ece
+06 - Segue 2.flac:441d43bfab5806f91bf333c382b5bbfc
+07 - Dirty Blue Balloons.flac:75cd0c273054e4e9befc900bcc963cc9
+08 - Undone.flac:152af7714443480f5cad8f80bff58376
+09 - Pillowhead.flac:12532eaee4fadfd6faa0d087c38f6f1a
+10 - Small Crimes.flac:d12e14a941576e74efe19e8ea995e1d4
+11 - Blank.flac:fa977802c229d40660e9ca0f48fa2d9f
+12 - Solaris.flac:20f177841ef658a891c0aa6fe21210bb
+13 - Smoking Umbrellas.flac:931be37b5706e7a90348df1279672a7e
+14 - Stuck On You.flac:742b566b7fd4d35f9e07ed372c31bbf4
+15 - Heliotropic.flac:32f9b41f49cba4a80ff9565b3524b8b7
+16 - Segue 3.flac:af958436746d439c6d62146509398ef0
+17 - The Nurse Who Loved Me.flac:8556142a18d3d8a130b9d4691ab05b27
+18 - Macaque.flac:5dbe0ad30a186705a13f5a5834f5b50a
+19 - Screen Man.flac:128a58ebbae976b31866918f07054615
+20 - Daylight.flac:b39dc4f4a00f1bc88751b0cad2c6ed04

@@ -1,0 +1,40 @@
+Dave Brubeck Quartet
+1955-06-26
+Private House Party
+Carmel, California, USA
+Audiece
+
+The trader, a Brubeck aficionado, believes that the recording was made with Brubeck's permission. This particular recording seems to have originated from an acetate or a private LP. In any event, the sound quality is very good, with only some minor damage and static on track 3.
+
+Lineage: Master Reel > ? > CDR > WAV > WavTrim > FLAC > wav > restore > flac(lvl8)
+
+Dave Brubeck, Piano
+Paul Desmond, Alto Saxophone
+Bob Bates, Bass
+Joe Dodge, Drums
+
+1 Introduction by Dean Martin (0:25)
+2 Gone with the Wind (14:27)
+3 Jeepers Creepers (9:12)
+4 I'll Never Smile Again (10:34)
+5 Brother, Can You Spare a Dime? (6:21)
+6 The Trolley Song (3:44) //
+7 Little Girl Blue (9:26)
+8 Take the "A" Train (12:17)
+
+Total Time: 66:29
+
+
+-Restoration-
+- restored recording to 3 continuous fragments (from 2 tape sides)
+- balanced and gain normalized each fragment
+- restored clipped peaks
+- denoised
+- repaired clicks, pops and drops out
+- corrected phase for track 8
+- renamed files, created flac(lvl8) and checksum files
+------
+- corrected DC offset errors, tagged files and generated new checksums
+
+(Re)seed via DIME, December 5, 2012
+enjoy responsibly, plaz

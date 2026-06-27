@@ -1,0 +1,29 @@
+I don't know if this remaster is a reseed or not. Thanks to whoever took the time to upgrade this incredible performance.
+All the files were tested with Lossless Audio Checker.
+
+--------------------------------------------------
+John Coltrane Quintet
+Newport Festival
+July 2nd, 1966
+
+No lineage given, I assume it would be:
+Original tape -> x -> CDr -> x -> TLH (SBE Fix, ffp & md5) -> Tagging (Foobar2000)
+
+Tracklist:
+1. My Favorite Things	21:34
+2. Welcome	11:07
+3. Leo	23:40
+
+Total Time 56:21
+
+Personnel:
+
+John Coltrane - ssax, ts, perc
+Pharoah Sanders - ts, picc, perc
+Jimmy Garrison - db
+Rashied Ali - dr
+Alice Coltrane - pf
+
+Great improvement from the original tape, MFT is missing the initial ~15 minutes bass solo and 
+there are some little cuts and sound degradation here and there but the quality imho it's A-/B+.
+Terrific performance, the musicianship presented here is simply astounding. 10/10 concert.

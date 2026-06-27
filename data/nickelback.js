@@ -26,7 +26,8 @@ const ARTIST_DATA = {
       "venue": "Whiskey A Go Go",
       "notes": "defu2",
       "version": "FM",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "2000-11-03 -  Los Angeles, CA - Whiskey A Go Go (defu2) [FM].txt"
     },
     {
       "year": 2001,
@@ -39,7 +40,8 @@ const ARTIST_DATA = {
       "venue": "Bizarre Festival",
       "notes": "unk",
       "version": "",
-      "format": ""
+      "format": "",
+      "textFile": "2001-08-18 - Weeze, Germany - Bizarre Festival (unk) [AUD].txt"
     },
     {
       "year": 2001,
@@ -50,9 +52,10 @@ const ARTIST_DATA = {
       "state": "ON",
       "location": "Toronto, ON",
       "venue": "Horseshoe Tavern",
-      "notes": "CSB · thriftynomad",
+      "notes": "CSB \u00b7 thriftynomad",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "2001-09-04 - Toronto, ON - Horseshoe Tavern (CSB) (thriftynomad) [AUD].txt"
     },
     {
       "year": 2002,
@@ -63,9 +66,10 @@ const ARTIST_DATA = {
       "state": "Germany",
       "location": "Weeze, Germany",
       "venue": "Bizarre Festival",
-      "notes": "Flughafen · unk",
+      "notes": "Flughafen \u00b7 unk",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "2002-08-16 - Weeze, Germany - Bizarre Festival - Flughafen Niederrhein (unk) [AUD].txt"
     },
     {
       "year": 2006,
@@ -76,9 +80,10 @@ const ARTIST_DATA = {
       "state": "ON",
       "location": "Toronto, ON",
       "venue": "Air Canada Centre",
-      "notes": "CSC · burnboy",
+      "notes": "CSC \u00b7 burnboy",
       "version": "",
-      "format": ""
+      "format": "",
+      "textFile": "2006-02-15 - Toronto, ON - Air Canada Centre (CSC) (burnboy) [AUD].txt"
     },
     {
       "year": 2006,
@@ -89,9 +94,10 @@ const ARTIST_DATA = {
       "state": "NY",
       "location": "Albany, NY",
       "venue": "Pepsi Arena",
-      "notes": "CSB · unk",
+      "notes": "CSB \u00b7 unk",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "2006-07-10 - Albany, NY - Pepsi Arena (CSB) (unk) [AUD].txt"
     },
     {
       "year": 2006,
@@ -102,9 +108,10 @@ const ARTIST_DATA = {
       "state": "ON",
       "location": "Toronto , ON",
       "venue": "Molson Amphitheatre",
-      "notes": "CSC · burnboy",
+      "notes": "CSC \u00b7 burnboy",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "2006-07-14 - Toronto , ON - Molson Amphitheatre (CSC) (burnboy) [AUD].txt"
     },
     {
       "year": 2006,
@@ -115,9 +122,10 @@ const ARTIST_DATA = {
       "state": "AL",
       "location": "Birmingham, AL",
       "venue": "BJCC Auditorium",
-      "notes": "SP-CMC-4c · jhatcher",
+      "notes": "SP-CMC-4c \u00b7 jhatcher",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "2006-09-01 - Birmingham, AL - BJCC Auditorium (SP-CMC-4c) (jhatcher) [AUD].txt"
     },
     {
       "year": 2015,
@@ -128,9 +136,10 @@ const ARTIST_DATA = {
       "state": "Japan",
       "location": "Tokyo, Japan",
       "venue": "Taiikukan",
-      "notes": "Multiple IEM + AUD · xavel",
+      "notes": "Multiple IEM + AUD \u00b7 xavel",
       "version": "MIX",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "2015-05-30 - Tokyo, Japan - Taiikukan (Multiple IEM + AUD) (xavel) [MIX].txt"
     },
     {
       "year": 2017,
@@ -156,7 +165,8 @@ const ARTIST_DATA = {
       "venue": "Empire Polo Club",
       "notes": "Stagecoach",
       "version": "PRO",
-      "format": "TS"
+      "format": "TS",
+      "textFile": "2024-04-26 - Indio, CA - Empire Polo Club - Stagecoach Festival [TS].txt"
     },
     {
       "year": 2024,
@@ -167,9 +177,10 @@ const ARTIST_DATA = {
       "state": "UK",
       "location": "London, UK",
       "venue": "O2 Arena",
-      "notes": "Sony A10 · unk",
+      "notes": "Sony A10 \u00b7 unk",
       "version": "AUD",
-      "format": "FLAC 24"
+      "format": "FLAC 24",
+      "textFile": "2024-05-21 - London, UK - O2 Arena (Sony A10) (unk) [AUD24].txt"
     }
   ],
   "misc": []

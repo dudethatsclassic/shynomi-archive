@@ -1,0 +1,53 @@
+Tool - 10,000 Days Tour Final Leg
+December 5th, 2007 (Wednesday)
+Memorial Coliseum 
+Portland, Oregon
+
+~ALD-AUD Mix~
+
+Source 1:  Assisted Listening Device > Recorder 
+Recorded by Snapple Eyes (provided by O.D.Jubilee)
+
+Source 2:  Schoeps MK4 > Nbox > Recorder
+Recorded by Snapple Eyes (provided by O.D.Jubilee)
+
+Source 3:  Core Sound Cardioids > Sony TCD-D8
+Recorded by ADAT8
+
+Files > RX9 > Wavepad > TLH (flac 8 16/44)
+
+Setlist:  1:56:35
+00 intro
+01 Jambi
+02 Stinkfist
+03 soundscape 1
+04 Forty-Six & 2
+05 soundscape 2
+06 Schism
+07 Rosetta Stoned
+08 soundscape 3
+09 Flood
+10 soundscape 4
+11 Wings for Marie Part 1
+12 10,000 Days (Wings Part 2)
+13 Lateralus (featuring Trey Gunn & Pat Mastelotto)
+14 Vicarious
+
+Expanded hearing assist feed with two audience sources mixed together.
+
+fingerprints:
+Tool2007-12-05mix00 - intro.flac:797e202b724e8da095d9bba0d4770925
+Tool2007-12-05mix01 - Jambi.flac:1527191655a56766977408b383e1be17
+Tool2007-12-05mix02 - Stinkfist.flac:1f353b7747454ee23dbca51e96c4cf29
+Tool2007-12-05mix03 - soundscape 1.flac:84027524c1173a7744e219a64738c06f
+Tool2007-12-05mix04 - Forty Six & 2.flac:d953400cc1b5af6a104979478415a90e
+Tool2007-12-05mix05 - soundscape 2.flac:3a9c0600addc60887ac789b2792f7670
+Tool2007-12-05mix06 - Schism.flac:ac34691176bc4d1dd582105133ebd38b
+Tool2007-12-05mix07 - Rosetta Stoned.flac:3f8597519e5e4811838e9ab8e7cbf05b
+Tool2007-12-05mix08 - soundscape 3.flac:8d3b82f7ace40d40afb3552f6e52a4db
+Tool2007-12-05mix09 - Flood.flac:0622549ae75832bffc2cc33096b66f7a
+Tool2007-12-05mix10 - soundscape 4.flac:de965314dc03649e1cb4df4749b4c65a
+Tool2007-12-05mix11 - Wings for Marie.flac:9d9c129c2ca33f6831925d78924353a5
+Tool2007-12-05mix12 - 10,000 Days.flac:27b75772eec6b3ad758433fbc3573bb5
+Tool2007-12-05mix13 - Lateralus.flac:d5f07d56c8c6c7d4b2eef07e8c9121c8
+Tool2007-12-05mix14 - Vicarious.flac:53bce599b15aee0d007b7460a56f9ea0

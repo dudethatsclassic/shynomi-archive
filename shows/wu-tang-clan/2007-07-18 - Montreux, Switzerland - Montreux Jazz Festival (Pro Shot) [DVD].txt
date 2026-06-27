@@ -1,0 +1,64 @@
+DVD # 129
+WU-TANG CLAN
+Montreux Jazz Festival, Switzerland 
+18 July 2007
+
+ 
+**********************************************
+Recording: from TV with DVD-Recorder LG RH7800
+
+Lineage: TV -> DVD-Recorder Harddisk -> DVD+RW -> PC with CloneDVD2 -> uTorrent 1.6.1
+
+Menu: No
+
+Cover Artworks: No
+
+Tracklist: unknown (please help)
+
+Line-up:
+    * RZA (MC)
+    * Ghostface Killah (MC)
+    * Inspectah Deck (MC)
+    * Raekwon (MC)
+    * U-God (MC)
+    * Masta Killa (MC)
+    * Method Man (MC)
+    * Cappadonna (MC)
+    * Streetlife (MC)
+    * GZA (MC)
+    * DJ Mathematics (MC)
+
+
+
+Chapters index: Every 5 minutes
+
+Video
+Codec                : MPEG-2 Video
+Codec settings       : CustomMatrix
+PlayTime             : 49m 07s
+Bit rate             : 9260 Kbps
+Bit rate mode        : CBR
+Width                : 720
+Height               : 576
+Aspect ratio         : 4/3
+Frame rate           : 25 fps
+Standard             : PAL
+Bits/(Pixel*Frame)   : 0.893
+
+Audio
+Codec                : AC3
+Bit rate             : 256 Kbps
+Bit rate mode        : CBR
+Channel(s)           : 2 channels
+Sampling rate        : 48 KHz
+ChannelPositions     : L R
+
+
+************************************************
+
+God Bless The Tapers, They Make The Music Live.
+
+************************************************
+
+ 
+ 

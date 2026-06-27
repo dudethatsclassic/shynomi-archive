@@ -1,0 +1,55 @@
+DEATH CAB FOR CUTIE
+Kamp - Bielefeld, Germany
+February 12, 2006 
+
+-source-
+MBHO MBP 603a/KA200n > Sound Devices MP-2 > Sony TCD-D100
+
+-transfer-
+D100 > S/PDIF > M-Audio Audiophile USB > WaveLab v5.00 (fades) > CDWave v1.93 > FLAC frontend 
+
+-setlist-
+*CD1*
+01. Marching Bands of Manhattan
+02. We Laugh Indoors
+03. The New Year
+04. Title and Registration
+05. Soul Meets Body
+06. Photobooth
+07. Crooked Teeth
+08. Different Names for the Same Things
+09. Amputations
+10. A Movie Script Ending
+11. Company Calls
+12. What Sarah Said
+13. Brothers on a Hotel Bed
+14. Why You'd Want to Live Here
+15. Expo '86
+16. The Sound of Settling
+
+*CD2* (encore)
+01. I Will Follow You into the Dark
+02. Transatlanticism
+
+-notes-
+I ran the levels a little too hot. There is audible clipping in a few spots. 
+
+-fingerprints-
+dcfc2006-02-12d1t01.flac:a22709b0c4ef9f97afa2c47cddc1ae3e
+dcfc2006-02-12d1t02.flac:bfea74d1e9a3610a207b1ae3088011c7
+dcfc2006-02-12d1t03.flac:f2c0628b94c74615ac845e203beef9c8
+dcfc2006-02-12d1t04.flac:4edd6b0ab2ca69b7f4a5194729663096
+dcfc2006-02-12d1t05.flac:9887a99e9eb80fa22602533e0b724851
+dcfc2006-02-12d1t06.flac:35577bc2a8416a3fb12c7f0f3662db7f
+dcfc2006-02-12d1t07.flac:e887d1384f184268d61e0b3847bea9bc
+dcfc2006-02-12d1t08.flac:39caeea46a49744f73e9fd6e02149706
+dcfc2006-02-12d1t09.flac:5853fd0981a02ad6d70b228fc874c4a4
+dcfc2006-02-12d1t10.flac:ab9e4c1107c6e6430a2982c65e49cdd6
+dcfc2006-02-12d1t11.flac:940a94ae65a9a2193e7bf756a51f95b0
+dcfc2006-02-12d1t12.flac:140873229dcf38c4ce44651415435fc2
+dcfc2006-02-12d1t13.flac:4d54db815fcc8e3e65b8db4345b3e452
+dcfc2006-02-12d1t14.flac:2aab3014295bb4e22d5c456c131ec175
+dcfc2006-02-12d1t15.flac:1442bbeb1ad8cd717ec71fd2ed2ed321
+dcfc2006-02-12d1t16.flac:6c53ffa868d9c83f53d3b88999b01476
+dcfc2006-02-12d2t01.flac:27bb9f3b43e8305a492a50f50807fd99
+dcfc2006-02-12d2t02.flac:8433873108ddc76a4119f71228fab4c4

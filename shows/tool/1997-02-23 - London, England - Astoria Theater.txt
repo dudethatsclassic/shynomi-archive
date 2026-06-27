@@ -1,0 +1,15 @@
+Tool - 1997.02.23
+The Astoria - London, England
+version 3
+
+media type: FLAC
+source: Sony TCS-580V w/ built-in mic > 0-Gen SHN > WAV > FLAC
+taper: Duncan
+trade status: can trade
+
+disc 1 - 1 track - 49:55
+disc 2 - 1 track - 52:02
+
+notes: none
+
+

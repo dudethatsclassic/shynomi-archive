@@ -1,0 +1,11 @@
+Tool - 2006.06.08
+Philipshalle - Dusseldorf, Germany
+Version 3
+
+media type: FLAC
+source: Hama Stereo Digital Microphone 46108 > iRiver (model # not known) > 2nd gen CDR > EAC > FLAC
+taper: Eulenspiegel
+trade status: can trade
+
+disc 1 - 1 track - 45:13
+disc 2 - 1 track - 49:15

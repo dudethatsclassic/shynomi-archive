@@ -1,0 +1,129 @@
+2024.06.30 Corey Taylor - Hellfest - Mainstage 2, Clisson - FRANCE (PRO-SHOT) 
+(arte.tv Livestream, 1920x1080p)
+
+Band: Corey Taylor
+City: Val De Moine, Clisson
+Country: France
+Venue: Hellfest 2024 - Mainstage 2
+Date: 2024/06/30
+------------------------------------------------
+Menu: No
+Chapters: No
+Source: (Free) Webcast (Pro-shot)
+Cover: No
+Quality: 9
+Time Length: 01:01:57
+
+* arte.tv.de Livestream -> Download with "Downie 4.7.18" -> MP4 file (with no postprocessing).
+
+
+Video: 2.246 Kb/s 1920*1080 (16:9) at 25.000 FPS, AVC (Main@L4) (CABAC / 4 Ref Frames)
+Audio: English, 132 kb/s, 44.1 KHz. 2 channels, AAC LC
+
+* (More detailed Video/Audio info at the end of the file)
+
+------------------------------------------------
+
+SETLIST
+
+The Box (Intro)
+Post Traumatic Blues
+Made of Scars
+Black Eyes Blue
+We Are the Rest
+Song #3
+Beyond
+Before I Forget
+SpongeBob SquarePants Theme
+Snuff
+From Can to Can't
+Home
+Through Glass
+Duality
+
+------------------------------------------------
+
+LINE UP
+
+Corey Taylor: Vocals & Guitar
+Elliot Lorango: Bass
+Christian Martucci: Guitar
+Zach Throne: Guitar
+Dustin Robert: Drums
+
+------------------------------------------------
+
+ATTRIBUTES OF VIDEO
+
+Format                                   : MPEG-4
+Format profile                           : Base Media
+Codec ID                                 : isom (isom/iso2/avc1/mp41)
+File size                                : 1.03 GiB
+Duration                                 : 1 h 1 min
+Overall bit rate                         : 2 383 kb/s
+Frame rate                               : 25.000 FPS
+Writing application                      : Lavf59.30.100
+
+Video
+ID                                       : 1
+Format                                   : AVC
+Format/Info                              : Advanced Video Codec
+Format profile                           : Main@L4
+Format settings                          : CABAC / 4 Ref Frames
+Format settings, CABAC                   : Yes
+Format settings, Reference frames        : 4 frames
+Codec ID                                 : avc1
+Codec ID/Info                            : Advanced Video Coding
+Duration                                 : 1 h 1 min
+Bit rate                                 : 2 246 kb/s
+Width                                    : 1 920 pixels
+Height                                   : 1 080 pixels
+Display aspect ratio                     : 16:9
+Frame rate mode                          : Constant
+Frame rate                               : 25.000 FPS
+Color space                              : YUV
+Chroma subsampling                       : 4:2:0
+Bit depth                                : 8 bits
+Scan type                                : Progressive
+Bits/(Pixel*Frame)                       : 0.043
+Stream size                              : 995 MiB (94%)
+Writing library                          : x264 core 164 r3095 baee400
+Encoding settings                        : cabac=1 / ref=3 / deblock=1:0:0 / analyse=0x1:0x111 / me=hex / subme=8 / psy=1 / psy_rd=1.00:0.00 / mixed_ref=1 / me_range=16 / chroma_me=1 / trellis=2 / 8x8dct=0 / cqm=0 / deadzone=21,11 / fast_pskip=1 / chroma_qp_offset=-2 / threads=34 / lookahead_threads=5 / sliced_threads=0 / nr=0 / decimate=1 / interlaced=0 / bluray_compat=0 / constrained_intra=0 / bframes=3 / b_pyramid=2 / b_adapt=2 / b_bias=0 / direct=3 / weightb=1 / open_gop=0 / weightp=2 / keyint=100 / keyint_min=50 / scenecut=40 / intra_refresh=0 / rc_lookahead=50 / rc=abr / mbtree=1 / bitrate=2235 / ratetol=1.0 / qcomp=0.60 / qpmin=0 / qpmax=69 / qpstep=4 / vbv_maxrate=4470 / vbv_bufsize=8940 / nal_hrd=none / filler=0 / ip_ratio=1.40 / aq=1:1.00
+Color range                              : Limited
+Color primaries                          : BT.709
+Transfer characteristics                 : BT.709
+Matrix coefficients                      : BT.709
+Codec configuration box                  : avcC
+
+Audio
+ID                                       : 2
+Format                                   : AAC LC
+Format/Info                              : Advanced Audio Codec Low Complexity
+Codec ID                                 : mp4a-40-2
+Duration                                 : 1 h 1 min
+Bit rate mode                            : Constant
+Bit rate                                 : 132 kb/s
+Channel(s)                               : 2 channels
+Channel layout                           : L R
+Sampling rate                            : 44.1 kHz
+Frame rate                               : 43.066 FPS (1024 SPF)
+Compression mode                         : Lossy
+Stream size                              : 57.6 MiB (5%)
+Title                                    : Versión Original (originale) - audio_0 - Musical (Original)
+Default                                  : Yes
+Alternate group                          : 1
+
+------------------------------------------------
+
+CHECKSUMS
+
+#MD5 checksums generated by xACT 2.55 on 2024-07-11 20:37:19 +0000
+
+783cf047c28a98dc802450e87271770c *Corey Taylor - Hellfest 2024 (Full Show - arte.tv).mp4
+
+------------------------------------------------
+
+Enjoy!
+
+
+

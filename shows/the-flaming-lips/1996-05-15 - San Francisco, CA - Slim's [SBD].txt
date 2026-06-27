@@ -1,0 +1,11 @@
+The Flaming Lips
+Slim's, San Francisco CA
+May 15, 1996
+
+recording info:
+Soundboard > DAT Master @ 16bit/48kHz
+
+processing:
+TDK DA-R 180 DAT Master > Tascam DA45-HR > SD USBPRE2 > Adobe Audition > CDWAV > TLH FLAC 8
+
+These are 16bit/48kHz flac files

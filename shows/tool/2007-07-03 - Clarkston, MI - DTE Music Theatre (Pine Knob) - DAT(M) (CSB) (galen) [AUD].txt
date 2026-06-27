@@ -1,0 +1,27 @@
+Tool
+2007.07.03
+Clarkston, MI, USA @ Verizon Wireless Amphitheatre (Pine Knob)
+
+Source C: Solid State Recorder --- Core Sound Binaurauls > Edirol R-09 
+Transfer: Master (file) > USB port > Goldwave (resample, EQ) > CD Wave > WAV > Nero 6.0
+Location:  Right-Center, Pavilion (covered) Seating, Row YY
+Taper:  Galen 
+Gen: collectiveunconscious.org Master Recording
+
+2024 Notes: Totally fresh transfer on this. It may come to some or no surprise for me to tell you that this source was originally not intended to be CSB>R09. Instead, this was supposed to be: Aiwa CM-30 > Edirol R-09. However, when I was in the venue I discovered that the signal would not pick up on my line-in on the R-09. I was unsure if running the CM-30 into the mic-in would overload the signal so I grabbed my CSB’s which were in my gear-bag instead. The line-in on my R09, as it turns out, was defective as I had to send the unit into Roland for them to fix (under warranty) so I did run it as microphone-in which did work, I had the levels very low so in post I had to increase them significantly. This is one of those times when a CSB source completely sounds better than a DPA 4061 source (i.e.: the distorted DPA 4061 source). Actually, this recording sounds better than it probably should based on the source information. Some annoying crowd noise as the people around Geordy & I, Christ-God-all-mighty, were more talkative than two 16 year old girls comparing favorite pop artists. More information available at collectiveunconscious.org
+
+2024 Transfer Time: ~1:55:00
+
+Jambi
+(-) Ions
+Stinkfist
+46 & 2
+The Pot
+Schism
+Lost Keys 
+Rosetta Stoned
+Flood
+Wings For Marie
+10,000 Days
+Lateralus
+Vicarious 

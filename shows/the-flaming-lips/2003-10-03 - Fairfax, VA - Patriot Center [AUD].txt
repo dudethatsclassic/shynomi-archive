@@ -1,0 +1,37 @@
+                                   fl2003-10-03
+The Flaming Lips
+Friday, October 3rd 2003
+Patriot Center - Fairfax, VA
+
+Source: AKG 480/ck61 (xy) > DMIC-20 > D8@48kHz
+        10' stand dead center of TS
+        Justin Trinkes (stoner_fee@taping.org)
+
+Conversion: D8 (master) > Waveterminal 2496 > SF 4.5 > CDWav 1.52 > mkw .97
+
+Editing: Sound Forge used for fade in/out and
+         to resample 48 > 44.1kHz (4of4 w/ anti-alias)
+
+Disc 1
+Set 1:
+01. intro/walk on music
+02. Race for the Prize
+03. Seven Nation Army
+04. Fight Test
+05. The Gash
+06. Yoshimi Battles the Pink Robots
+07. Lightning Strikes the Postman
+08. The Spark that Bled
+09. Birthday banter
+10. She Don't Use Jelly
+11. Do You Realize?
+
+
+
+______________Do not encode/trade in MP3 or other lossy formats_______________
+
+
+EAC > FLAC Frontend (level 8) > Seeding to Flaming Lips Hub on 09-08-2004 
+by Rocketman.
+
+EAC LOG, FFP's, along with MD5's of the WAV files and FLAC files are included.

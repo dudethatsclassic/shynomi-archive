@@ -1,0 +1,38 @@
+
+Tool
+Schottenstein Center: Columbus, OH
+September 14, 2001
+
+Source:  SS DSM6s/L>PA6LC3(65)>D100 @ 48kHz
+Location:  FOB, dead center
+Lineage:  DAT Master > FLAC @ 48kHz
+Transfer:  Tascam DA-20 > Sony PCM-R300 > ZNP6 > CEPv2.1 > CDWave > FLAC
+Taper:  tapeworm(48)
+
+
+01 -Intro-
+02 The Grudge
+03 Stinkfist
+04 Forty Six & 2
+05 Prison Sex
+06 Schism
+07 Pushit
+08 Disposition
+09 Reflection
+10 -Intermission-
+11 Parabol
+12 Parabola
+13 Eon Blue Apocalypse
+14 The Patient
+15 Ænima
+16 Lateralus
+
+
+Notes:  Only the 2nd performance since the September 11th attacks.  MJK comments on fans chanting "USA" prior to 'Schism'.  No editting was performed other than adding fades at the beginning and end of the recording.
+
+Archive:  Master DAT was transferred @ 48kHz and FLAC'd with cue sheet.
+
+Taped and transferred by tapeworm(48)
+Txt file compiled on 9/23/2005
+
+*** DO NOT DISTRIBUTE IN LOSSY FORMATS. DO NOT SELL THIS RECORDING, TRADE IT FREELY ***

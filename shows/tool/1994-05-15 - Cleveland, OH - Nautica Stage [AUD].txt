@@ -1,0 +1,21 @@
+Tool
+1994-05-15
+Cleveland, OH
+Nautica Stage
+
+Source: Audio Technica AT822 > Sony WM-D6
+Transfer: CAS-1 > DAT-1@48 kHZ > Tascam DA-30 > SPDIF > M-Audio Delta 2496 > Sound Forge 7.0 (fades) > FLAC
+Notes: Only known lineage version.  Also seen listed as WM-D3. Transferred from DAT in February 2007 by Distortion. Must be downsampled to 44.1 to be burned to CD.
+
+Setlist:
+Cold & Ugly
+Intolerance
+Undertow
+Sober
+Prison Sex
+Swamp Song
+Sweat
+4°
+Opiate
+Flood
+Bottom

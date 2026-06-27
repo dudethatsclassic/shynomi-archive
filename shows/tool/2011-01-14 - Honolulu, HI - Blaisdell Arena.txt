@@ -1,0 +1,18 @@
+Tool - 2011.01.14
+Blaisdell Arena - Honolulu, HI, USA
+version 2 
+
+media type: FLAC
+source: Olympus PCM Recorder > WAV > Audacity +1.5 db amplification > WAV > Format Factory > FLAC
+taper: xip187
+trade status: can trade
+
+disc 1 - 11 tracks - 110:11
+
+notes from taper: So why is there a Stereo and a Mono Mix? Because in the stereo mix, the sound jumps a bit back and forth between the channels 
+when the drummer plays the dual kick drums real fast. The acoustics at Neil Blaisdell arena weren't spectacular and I think that this causes 
+certain sound waves to echo in strange ways and cancel each other out at certain points. Anyway I mixed into mono and these 'jumps' are far less 
+noticeable but I included the stereo mix just in case anyone wanted to hear it. The only thing I messed up was when I converted to FLAC, should've
+ been at 700 KBPS instead of 281, I don't know how this happened. Oh well, (the original recording was made at 4100 KBPS @ 44khz). 
+
+

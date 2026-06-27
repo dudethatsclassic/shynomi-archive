@@ -1,0 +1,85 @@
+Jewel Kilcher
+Chicago Theatre
+Chicago, IL (Source 2)
+March 20, 1997
+
+Source : Sony ECM-727P mic > Sony MZ-R3 MiniDisc > CD Trade > EAC
+
+Editing : Sound Forge (CD extract, volume) > Wave > TLH (sbe aligned) > Flac 8
+
+Traders Den - June 27, 2023
+
+Edited & posted by kingrue upload #3709
+=====================================
+
+This is the second source recording for this performance date.
+
+ I believe this is the best source for sound quality. It sounds closer and louder. 
+
+I have the video available for download here as well.
+http://www.thetradersden.org/forums/showthread.php?t=174740
+
+Band line-up
+Jewel Kilcher - acoustic guitar and vocals
+Steve Poltz - acoustic guitar and backing vocals
+John Castro - bass
+Jeff Aafedt - drums
+
+Total Time = 80:20
+
+Set list
+01 Near You Always
+02 1,000 Miles Away
+03 Morning Song
+04 Satellite
+05 Little Sister
+06 Boy Needs A Bike
+07 Sometimes It Be That Way
+08 Foolish Games
+09 You Were Meant For Me (w/Steve Poltz)
+10 Adrian
+11 Run Tonto Run (w/Rugburns)
+12 Cleveland (w/Rugburns)
+13 Deep Water (w/Rugburns)
+14 Passing Time
+15 All The Animals
+16 Fragile Flame
+17 Angel Standing By
+18 Chime Bells
+19 Who Will Save Your Soul? (w/Rugburns)
+20 Silver Lining (w/Steve Poltz)
+21 Amen
+
+
+
+=======================
+
+
+No errors occured.
+
+
+01 Near You Always.flac:2b3ed7a82ba520c47aa77571aa1d3739
+02 1,000 Miles Away.flac:9f399271e8b55e7c1c72bd966b7002e3
+03 Morning Song.flac:ba192e8c1d2d99836b5b21541805e140
+04 Satellite.flac:8ca5f0ce0d0173b9e94d9bbe3da6ba83
+05 Little Sister.flac:72f397dc2bc980289e216e02fc0e547e
+06 Boy Needs A Bike.flac:3de0230a822656c0aacacb07163b7411
+07 Sometimes It Be That Way.flac:18e2fa0524a18055aa8fe9a483474437
+08 Foolish Games.flac:f9dc1e59a86094b096d6d1cf7bf0c1ab
+09 You Were Meant For Me.flac:2b48dc395c67e0250d31bc0aedfac7bd
+10 Adrian.flac:351f028f5e41cfe3f13fa80f229b00e8
+11 Run Tonto Run.flac:8cc4576ceb484f98310cb0b11d485810
+12 Cleveland.flac:1995a9a1783c13d85e7aff451c0ee13c
+13 Deep Water.flac:751100b7c44e44bda394f881b7c76b91
+14 Passing Time.flac:78a9431a6d5dc455f5c42bed41af62d9
+15 All The Animals.flac:fcc4ecd8e17f50db15543a1cea2ae86e
+16 Fragile Flame.flac:aa3fedffb67594c461a02a6e9d0aab0b
+17 Angel Standing By.flac:49173c1422098b8770788c98e956e109
+18 Chime Bells.flac:4bc4c6487e1d82a6a032781f54717662
+19 Who Will Save Your Soul.flac:6f2f4b0bc7c9868e9af443b58f189c5a
+20 Silver Lining.flac:9c854246c96cadc218f83ca8f4c40067
+21 Amen.flac:7cd523886d61f5c3427c790ec4b441e5
+
+Checksum file saved to disk.
+
+No errors occured.

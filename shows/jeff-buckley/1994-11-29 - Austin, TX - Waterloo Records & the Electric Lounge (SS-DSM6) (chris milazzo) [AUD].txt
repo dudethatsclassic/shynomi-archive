@@ -1,0 +1,69 @@
+Jeff Buckley
+29 November 1994
+Waterloo Records & The Electric Lounge, Austin, TX
+
+Master AUD Recording
+Taper: Chris Milazzo (Chris Milazzo Master 008)
+
+AUD > Sonic Studios [DSM6] > DAR100 > Master DAT > Sony 59ES > HHB CDR-850 > CDR > EAC > FLAC
+
+Set List
+--------
+
+The Electric Lounge (Friday night)
+
+CD1
+01 Chocolate ->
+02 Mojo Pin
+03 Last Goodbye
+04 What Will You Say
+05 Dream Brother
+06 Lilac Wine (Nina Simone)
+07 So Real
+08 Instrumental "Nothing on tour works" > Grace (aborted)
+09 Reggae Improv > Grace (aborted)
+10 Pre-Kick Out The Jams
+11 Kick Out The Jams (MC5) (aborted)
+12 Grace
+13 Eternal Life
+
+CD2
+01 Hallelujah (Leonard Cohen)
+02 Medley: Lover, You Should've Come Over / That's All I Ask (Nina Simone) 
+03 Vancouver 4:24
+04 Kanga-Roo (Big Star)
+
+Waterloo Records (Friday afternoon)
+
+05 Tuning
+06 So Real
+07 Last Goodbye
+08 Grace
+09 Lover, You Should've Come Over
+
+TT: 2:26:49
+
+Known defects:
+D1/2 & D2/6 - level adjustment during these tracks
+D1/6-9 - PA problems during these songs
+D1/10-13 - stage monitors pointed to audience for these songs
+D2/1 - stage monitors pointed to audience for 1st half of this song
+
+From Tempe, it was a more-or-less straight shot over to Texas for a visit that produced four recordings over the space of three days.
+
+First to Austin, where an afternoon in-store at Waterloo Records was followed by an evening show at the now-shuttered Electric Lounge on Bowie Street, presumably named for Jim and not David. The EL hosted live music throughout the nineties, and featured a unique design of transparent plexiglass partitions. Luckily for us, renowned Texas taper Chris Milazzo was on hand for both shows, and it's his master I re-offer here. This was originally uploaded to Dime in 2005, and was still active when I did my first Buckley flood in 2009, it has long since fallen off the tracker. Apart from some minor housekeeping and tagging the files, I present it to you as originally offered. 
+
+The Electric Lounge show is also significant for providing the first recordings of two new songs, recently added to the rotation. "Vancouver", apparently started in London, inspired by his friendship with the Cocteau Twins Liz Frazier, and completed in the city he took its name from, and the MC5 anthem, "Kick Out The Jams" which appealed to Jeff's rockier side, and was usually paired with the now fully "Road" version of Eternal Life.
+
+
+Taper's Notes:
+--------------
+[At the EL,] Levels [were] adjusted during Mojo Pin when I realised my initial level setting [was] too low. There [were] PA problems starting near the end of Lilac Wine.  Eventually the PA [went] out completely so the band turned the stage monitors towards the audience after the Reggae Improv.  The PA [came] back near the middle of Hallelujah. [At Waterloo, the] mic attenuator was turned off near the start of "So Real" - this accounts for the jump in volume.  Don't turn it up until after this point! When 'Grace' finally gets starts Jeff says coldly, "Fuck it." There were at least 2 video cameras rolling in the audience for this - I have never seen either video. Performance took place around 2 in the afternoon. There are photos of both shows (including one of me in line to get my CD signed after the Waterloo in-store - with my gear still with me!) available in the excellent book "Wished for Song: A Portrait of Jeff Buckley" by Merri Cyr.
+
+Files verified, tagged, and renamed to etree conventions; new checksums generated. 
+Text file updated, compiled & copy-edited by lovesick alien 2024-09-19
+--------------------------------------------------------------------------------
+Trade Freely. Never Sell. 
+Support the Artist: Purchase ALL authorised releases. 
+Support the Trading Community: Never Encode to lossy formats.
+--------------------------------------------------------------------------------

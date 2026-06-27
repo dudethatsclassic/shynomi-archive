@@ -24,7 +24,8 @@ const ARTIST_DATA = {
       "venue": "Musikhalle",
       "notes": "",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1950-06-10 - Hamburg, Germany - Musikhalle [AUD].txt"
     },
     {
       "year": 1965,
@@ -37,7 +38,8 @@ const ARTIST_DATA = {
       "venue": "",
       "notes": "",
       "version": "FM",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1965-02-09 - Stuttgart, Germany [FM].txt"
     },
     {
       "year": 1968,
@@ -50,7 +52,8 @@ const ARTIST_DATA = {
       "venue": "Anaheim Convention Center",
       "notes": "",
       "version": "AUD",
-      "format": "FLAC 24"
+      "format": "FLAC 24",
+      "textFile": "1968-04-19 - Anaheim, CA - Anaheim Convention Center [AUD24].txt"
     },
     {
       "year": 1969,
@@ -63,7 +66,8 @@ const ARTIST_DATA = {
       "venue": "University of Berkeley *Duke Ellington Plays Mingus the Clown",
       "notes": "",
       "version": "SBD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1969-09-29 - Berkeley, CA - University of Berkeley - Duke Ellington plays Mingus' The Clown [SBD].txt"
     },
     {
       "year": 1973,
@@ -76,7 +80,8 @@ const ARTIST_DATA = {
       "venue": "Philharmonie Jazztage",
       "notes": "",
       "version": "FM",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1973-11-02 - Berlin, Germany - Philharmonie Jazztage [FM].txt"
     }
   ],
   "misc": []

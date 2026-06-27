@@ -1,0 +1,27 @@
+The Flaming Lips
+2019-07-30
+Capitol Theatre, 
+Port Chester, NY, USA
+
+lineage:
+SBD > (?) > 16-48 1 channel mono flac > Audacity (repair clipping + convert to 2 channel R+L) >
+CDWave (cue sheet) > foobar2000 (tracks + tagging) > Audacity (trim + fade first & last files only) > flac-8 [16-48]
+
+01 Wayne Coyne intro
+02 Also Sprach Zarathustra, op. 30 (Richard Strauss cover)
+03 Race For the Prize
+04 Yoshimi Battles the Pink Robots, Pt. 1 (false Start) (Wayne tells crowd to be more enthusiastic)
+05 Yoshimi Battles the Pink Robots, Pt. 1
+06 There Should Be Unicorns
+07 She Don't Use Jelly
+08 True Love Will Find You in the End (Daniel Johnston cover)
+09 Feedaloodum Beedle Dot
+10 The Star-Spangled Banner (technical issues)
+11 The Star-Spangled Banner (take two)
+12 The Yeah Yeah Yeah Song (With All Your Power)
+13 Are You a Hypnotist??
+14 All We Have Is Now
+Encore:
+15 Do You Realize?? 
+
+   

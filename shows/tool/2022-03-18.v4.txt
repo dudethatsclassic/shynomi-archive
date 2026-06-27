@@ -1,0 +1,33 @@
+Tool - 2022.03.18
+Enterprise Center - St. Louis, MO, USA
+
+taper: Karl Frinkle (specialK)
+email: specialk@karlfrinkle.net
+url: http://karlfrinkle.net
+
+Source: Roland R-07 internal mics (set to 01, @24/96) 
+location: Section B, Row 14, on floor.
+transfer: Roland R-07 > WAV > Audition (volume boost and splitting) > FLAC
+modifications: magik
+
+Setlist - 16 tracks - 132:32
+1. Litanie contre la peur intro [2:16]
+2. Fear Inoculum [12:02]
+3. Opiate [8:01]
+4. The Pot [7:16]
+5. Pushit [12:59]
+6. Pneuma [13:56]
+7. The Grudge [8:53]
+8. Eon Blue Apocalypse [1:15]
+9. The Patient [7:40]
+10. Descending [15:26]
+11. Hooker with a Penis [7:49]
+12. Chocolate Chip Trip [6:56]
+13. Culling Voices  [10:38]
+14. crowd [2:44]
+15. Invincible [13:26]
+16. outro [1:14]
+
+notes from taper: Intermission was removed.  This source was just for shits and giggles.  I bought the R-07 on sale way back in January of 2020, right before COVID hit, and I had not used it yet, so I figured I would just add a second source for taping this show.  I set the input all the way down to 01, and even though the wav file peaked at about -9dB, there is clearly some distortion on the recording.  Perhaps if I was sitting further back the R-07 might have handled the high SPLs a bit better, but I won't complain, as my MBHO source came out very nice, in my opinion.
+
+tooldriveproject.net

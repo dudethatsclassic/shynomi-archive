@@ -1,0 +1,11 @@
+Tool - 2011.01.26
+BDO - Olympic Park Showgrounds - Sydney, Australia
+
+media type: FLAC
+source: Zoom Q3 @48kHz 24Bit > WAV > CDWave > FLAC
+taper: auroboros
+trade status: can trade
+
+disc 1 - 10 tracks - 86:51
+
+notes: none

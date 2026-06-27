@@ -1,0 +1,52 @@
+
+Tool
+Grant Park: Chicago, IL
+Chicago 2016 Stage @ Lollapalooza
+August 8, 2009
+
+Source: DPA 4061s > CSbox > Edirol R-09 @ 24-bit / 44.1kHz
+Transfer: SD Card > USB > CEPv2.1 (EQ/dither) > CDWave > FLAC Frontend
+Taper: tapeworm(48) 
+
+Setlist:
+
+01 Intro
+02 Jambi
+03 -Maynard speak-
+04 Stinkfist
+05 Forty-Six & 2
+06 Schism
+07 Passage to Bangkok [Rush] (tease)
+08 Rosetta Stoned
+09 Flood
+10 -Maynard speak-
+11 Aenima
+12 Lateralus
+13 -Maynard speak-
+14 Vicarious
+15 Outro
+
+Notes:  Tool was in the 8:30 to 10 slot at Lollapalooza on one of the main stages. They played the complete set of songs that they have been playing on this short summer tour, minus 'Lost Keys'. No special guests unlike the rest of the summer tour. It was windy this evening, so you hear some rustling as a result. But I was close to the source, so the sound was not affected greatly IMHO. I did some minor EQ'ing (see notes below) in CEP prior to amplifying and dithering. No fades or EQ besides that noted below.
+
+EQ Notes:
+
+Gentle high cut preset	DONE
+- 30 band EQ
+- Accuracy: 1000 points
+- Range: 36 dB
+- Master Gain: 0 dB
+
+Gentle low boost preset	DONE
+- 30 band EQ
+- Accuracy: 1000 points
+- Range: 36 dB
+- Master Gain: -1 dB
+
+Amplify 5 dB 
+
+Archive: Master WAV was archived @ 24-bit/44.1kHz and FLAC'd with cue sheet. 
+
+Taped and transferred by tapeworm(48) 
+Txt file compiled on August 9, 2009
+
+*** DO NOT DISTRIBUTE IN LOSSY FORMATS. DO NOT SELL THIS RECORDING, TRADE IT FREELY *** 

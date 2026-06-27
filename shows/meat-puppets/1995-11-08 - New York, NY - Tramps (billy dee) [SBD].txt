@@ -1,0 +1,13 @@
+meat puppets
+tramps, nyc
+november 8, 1995
+
+a 'billydee' DAT soundboard master
+
+recording info:
+soundboard > DAT master @ 16bit/48kHz
+
+processing:
+DAT Master > tascam da20 > waveterminal > adobe audition > cdwav > tlh flac 8
+
+these are 16bit/48kHz flac files

@@ -1,0 +1,18 @@
+TOOL
+1993-02-04
+Berlin, Germany
+The Loft
+
+Source: Soundboard
+Transfer: ASBM > DDC2 32khz > CDR > EAC (Secure Mode) > CDWave (tracking) > .WAV > .FLAC
+Generation: 3rd
+
+Setlist:
+01 - Cold and Ugly - 5:05
+02 - Intolerance - 5:20
+03 - Sober - 5:26
+04 - Prison Sex - 5:29
+05 - 4° - 6:13
+06 - Opiate - 6:14
+07 - Flood - 7:45
+08 - Jerkoff - 4:20

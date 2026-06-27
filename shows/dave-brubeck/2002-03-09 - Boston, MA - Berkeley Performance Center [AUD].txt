@@ -1,0 +1,11 @@
+Dave Brubeck Quartet 
+03/09/2002
+Berklee Performance Center - Boston, MA
+
+Schoeps mk21(110) > kc-5 > cmc6 > MP-2 > M1 @44.1k;
+R500 > ZA2 > Soundforge 4.5 > CDWAV > SHN (original DAT > SHN in 03/2002) > FLAC (SHN > FLAC on 04/29/2012)
+
+Dave Brubeck- Piano
+Randy Jones- Drums
+Michael Moore- Bass
+Bob Militello- Sax

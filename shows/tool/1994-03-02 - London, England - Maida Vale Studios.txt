@@ -1,0 +1,40 @@
+Tool
+Evening Session
+Maida Vale Studios
+London
+England
+
+Source - FM > ANA(1) > MD(1)
+
+Transfer - MD(1) > Unknown transfer to PC > Wav > Audacity > Wav > FLAC (align, verify, lvl8)
+
+Taped by Pete Bullock
+Recorded - 2nd March 1994
+First Broadcast - 28th March 1994
+
+
+01. Opiate
+02. 4 degrees
+03. Sober
+04. Prison Sex
+
+Total time - 21 min 37 sec
+
+
+Notes - Recorded from the radio onto cassette, backed up onto Mini disc.  Master tape thrown out, and transfer made from mini-disc to PC November 06.  Cuts in some tracks due to dj speaking over the tracks.  This is an alternate version to the unknown analog version already circulating.  Known problems - Sober 3.07 skip/dropout.  
+
+
+Transferred by taper
+Compiled by jadg2
+
+
+*Do not sell*
+*Do not mp3*
+
+Fingerprints:
+
+01 - Opiate.flac:8669ebae1256370d194f9b53627b30ec
+02 - 4 Degrees.flac:2b74996c4f8e7a7970ae3c634b55c54b
+03 - Sober.flac:cbad83c38964c950f84eca53d93b8caf
+04 - Prison Sex.flac:932de329484b69439fc73fec8b1169fb
+

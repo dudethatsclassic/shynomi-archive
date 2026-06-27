@@ -1,0 +1,35 @@
+blink‐182
+
+Sahara
+Coachella Valley Music and Arts Festival
+Indio, California
+2023-04-14, 14th April 2023
+
+-----
+
+Source: Coachella Live Youtube Stream>TarTube (yt-dlp)>Lossless Cut (trim)>MkvToolNix (mkv)
+
+Total Running time: 1hr 04mins 42secs [1.56gb]
+
+Tech Specs: 
+Video: MPEG4 Video (H264) 1920x1080 30fps ~3300kb/s
+Audio: AAC 44100Hz stereo 128kb/s
+
+01 - Family Reunion
+02 - Anthem Part Two
+03 - The Rock Show
+04 - Man Overboard
+05 - Feeling This
+06 - Reckless Abandon
+07 - Dysentery Gary
+08 - What's My Age Again?
+09 - EDGING
+10 - Dumpweed
+11 - Aliens Exist
+12 - First Date
+13 - Don't Leave Me
+14 - Down
+15 - Happy Holidays, You Bastard
+16 - I Miss You
+17 - All the Small Things
+18 - Dammit

@@ -1,0 +1,44 @@
+foobar2000 1.3.7 / Dynamic Range Meter 1.1.1
+log date: 2015-02-02 22:06:01
+
+--------------------------------------------------------------------------------
+Analyzed: Tool / Live at the Pepsi Arena, Denver, CO, USA
+--------------------------------------------------------------------------------
+
+DR         Peak         RMS     Duration Track
+--------------------------------------------------------------------------------
+DR12      -5.49 dB   -24.08 dB      4:56 01-Intro I
+DR13       0.00 dB   -15.96 dB      2:35 02-Intro II
+DR8        0.00 dB   -11.04 dB      2:18 03-Band emerges
+DR9        0.00 dB   -11.32 dB      5:12 04-Sober
+DR9        0.00 dB   -12.31 dB      7:01 05-4°
+DR9        0.00 dB   -11.02 dB      8:28 06-The Grudge
+DR11      -6.29 dB   -21.97 dB      0:57 07-(-) Ions
+DR10       0.00 dB   -11.89 dB      6:18 08-Stinkfist
+DR9        0.00 dB   -11.16 dB      6:34 09-Forty Six & 2
+DR11      -6.80 dB   -25.06 dB      1:01 10-Schism Intro
+DR10       0.00 dB   -12.62 dB      8:06 11-Schism
+DR10       0.00 dB   -25.01 dB      1:28 12-Parabol Intro
+DR11      -2.97 dB   -19.38 dB      2:58 13-Parabol
+DR9        0.00 dB   -11.78 dB      6:40 14-Parabola
+DR10     -12.08 dB   -28.87 dB      1:20 15-Eon Blue Apocalypse
+DR10       0.00 dB   -13.29 dB      7:32 16-The Patient
+DR9        0.00 dB   -10.52 dB      6:37 17-Ænema
+DR9       -8.99 dB   -22.23 dB      8:26 18-Intermission
+DR13      -2.64 dB   -19.36 dB      5:30 19-Disposition
+DR10       0.00 dB   -12.65 dB     12:31 20-Reflection
+DR10       0.00 dB   -11.65 dB      9:37 21-Triad
+DR12      -8.33 dB   -24.61 dB      1:49 22-Maynard's Speech
+DR9        0.00 dB   -12.15 dB     11:23 23-Lateralus
+--------------------------------------------------------------------------------
+
+Number of tracks:  23
+Official DR value: DR10
+
+Samplerate:        44100 Hz
+Channels:          2
+Bits per sample:   16
+Bitrate:           791 kbps
+Codec:             FLAC
+================================================================================
+

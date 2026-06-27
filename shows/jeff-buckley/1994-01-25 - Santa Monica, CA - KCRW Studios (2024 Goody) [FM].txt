@@ -1,0 +1,48 @@
+Jeff Buckley 
+KCRW Studios
+Santa Monica, CA, USA 
+4 January 1994
+
+"Man In the Moon" radio program
+
+2009 updated again after pitch correction and retracking
+2024 Goody Speed/Pitch-adjusted update of his 2009 edition (additional small tweaks, tag and text updates)
+
+FM > Capture > PC > CDR > ?Gens > EAC(s) > FLAC(8) > 
+
+Goody: dBpoweramp (WAV) > Audition (Pitch Bender +53 cents & additional small tweaks as needed, Retracking) > TLH (FLAC8; Align sector boundaries; ffp) > foobar2000 (tags)
+
+01 Grace 
+02 Interview [contains some digital anomalies]
+03 I Against I
+04 Interview
+05 Lover, You Should Have Come Over
+06 Interview
+07 Tuning
+08 Last Goodbye
+09 Interview
+10 Strange Fruit
+
+TT: 0:32:08
+
+Jeff Buckley - Guitars & Vocals
+Michael Tighe - Guitars
+Mick Grondahl - Bass
+Matt Johnson - Drums 
+
+
+January of 1994 began a gruelling two-year period of virtually non-stop touring, beginning with the so-called "Live at Sin-é" solo tour of 30-odd dates across the US & Canada, before leaving for his first European tour in mid-march(!) Of these, we have recordings of just five, including this charming visit to KCRW-FM studios in LA, for a session of "The Man In The Moon" with host Liz Richardson. This is an outstanding solo performance, made shortly after the "Live at Sin-é" EP was released, but before sessions for "Grace" were completed. 
+
+Jeff shows his typical range, jumping from a frantic Bad Brains cover to a mesmerising version of Billie Holiday's Strange Fruit.
+
+I received this concert as an audio CD many years ago in a trade, and grabbed the art off the net. My thanks to whomever made it.
+
+In 2009, following my original upload, the file set was much improved by goody. After hearing it again, he offered to tweak it further, making this the ultimate version of this fine recording.
+
+Files verified, tagged, and renamed to etree conventions; new checksums generated. 
+Text file updated, compiled & copy-edited by lovesick alien & goody 2024-10-03
+--------------------------------------------------------------------------------
+Trade Freely. Never Sell. 
+Support the Artist: Purchase ALL authorised releases. 
+Support the Trading Community: Never Encode to lossy formats.
+--------------------------------------------------------------------------------

@@ -1,0 +1,127 @@
+A Robert Collins Master Recording.
+
+Artist:              Corea, Clarke, & Williams with Al Jarreau
+Date                 November 15, 1978, Late Show
+Location:            Dorothy Chandler Pavilion, Los Angeles, California
+Seats:               Unknown
+Deck:                Nakamichi 550
+Mics:                AKG-451
+Source:              A:A Master Tape; Stereo
+Sample Rate:         44.1Khz, 16-bit (FLAC)
+Rating:              A-
+Length:              85 Minutes
+
+Also Available
+* Corea, Clarke, & Williams with Al Jarreau, Dorothy Chandler Pavilion, 1978-11-15 Early Show, CD-Audio, 44.1Khz, 16-bit
+* Corea, Clarke, & Williams with Al Jarreau, Dorothy Chandler Pavilion, 1978-11-15 Early Show, DVD-Audio, 96Khz, 24-bit
+* Corea, Clarke, & Williams with Al Jarreau, Dorothy Chandler Pavilion, 1978-11-15 Late Show, DVD-Audio, 96Khz, 24-bit
+
+-----
+
+Musicians:
+Chick Corea          Piano
+Stanley Clarke       Acoustic Bass, Piccolo Bass
+Tony Williams        Drums
+
+Guest Artists:
+Al Jarreau           Vocals
+Bunny Brunel         Electric Bass
+
+-----
+
+Notes:
+It was 25 years ago the last time I listened to this concert and I completely forgot how good it was.  Just the names 
+on the title alone made it special, but I was in for a much bigger surprise.  I had always remembered the concert as 
+Chick Corea, Stanley Clarke, and Lenny White with Al Jarreau.  But when I started mastering this recording, I realized 
+it wasn't Lenny White, but was Tony Williams.  Realizing that this recording has the late Tony Williams is what my son 
+would call an "HCU" (Huge Come-Up) and makes it even more rare and more special than I had remembered.  The second HCU 
+was the concert itself.  After listening to it 25 years later, I had forgotten how incredibly great this concert is.  
+Where else would you ever hear Al Jarreau performing a non-Vocalese version of Spain two years before he recorded it 
+himself and made it a huge hit.
+
+This recording comes from the tape collection of Mike Millard (see Wiki page).  I met Mike in line at a Stevie Wonder 
+concert at Pasadena Civic Auditorium in 1979.  Mike and I became friends and we traded some tapes together.
+http://en.wikipedia.org/wiki/Mike_Millard
+
+Mike had a few Jazz recordings and was an avid Stevie Wonder fan though he didn't want people to know it.  Since 
+Mike was best known for his legendary Led Zepelin, Pink Floyd, and Rolling Stones recordings, he feared knowledge 
+of his Jazz recordings would hurt his reputation.  As far as I know, only myself and maybe one other friend of mine 
+were ever allowed to make copies of his Jazz recordings.  This all but guarantees this recording has never been 
+traded before, or circulated on any of these types of recording sites.
+
+It's been 20+ years since Mike's passing and I've received many persistent requests to work this concert up, 
+master it, and release it.  This is an amazing concert with great 'Mike Millard" sound quality.  Please enjoy.
+
+Mike Millard, 1990, RIP
+
+-----
+
+Flaws: 
+There's a bit of excessive wow and flutter in the opening two minutes of the show.  It seems to clear up after 
+the first few minutes and the remainder of the show is fine.  There are also a few more drop outs on this late 
+show when compared to the early show.
+
+-----
+
+Lineage:
+AUD> Nakamichi 550, AKG-451
+---> Korg MR1000 (5.6 Mhz, 1-bit master tape)
+---> Down sample to 96Khz, 32-bit using Korg Audiogate
+---> Sound Forge
+---> iZotope RX2-Advanced (remove obnoxious hand clapping)
+---> Har-Bal (light equalizing)
+---> Sound Forge (put it all back together, down sample, and dither)
+---> CD Architect
+---> EAC
+---> FLAC
+
+-----
+
+Sound Samples:
+Sample-1:  (Summer Nights)
+http://www.rcollins.org/concerts/mp3/Corea_1978-11-15_Sample-4.mp3
+
+Sample-2:  (Waltz for Debby)
+http://www.rcollins.org/concerts/mp3/Corea_1978-11-15_Sample-5.mp3
+
+Sample-3:  (Spain)
+http://www.rcollins.org/concerts/mp3/Corea_1978-11-15_Sample-6.mp3
+
+-----
+
+Disc-1:
+       Start           End        Length  Name 
+------------  ------------  ------------  ----------------------------------------------- 
+00:00:00.000  00:01:03.531  00:01:03.531  Band Introductions 
+00:01:03.531  00:10:46.187  00:09:42.656  Confirmation 
+00:10:46.187  00:19:38.411  00:08:52.224  Summer Nights 
+00:19:38.411  00:33:49.712  00:14:11.301  On Green Dolphin Street 
+00:33:49.712  00:35:24.261  00:01:34.549  Introducing Bunny Brunel 
+00:35:24.261  00:45:01.131  00:09:36.870  Quiet Afternoon (*)
+
+Disc-2:
+       Start           End        Length  Name 
+------------  ------------  ------------  ----------------------------------------------- 
+00:00:00.000 00:01:48.331 00:01:48.331 Introducing Al Jarreau 
+00:01:48.331 00:13:49.269 00:12:00.939 Summertime (+)
+00:13:49.269 00:18:55.232 00:05:05.963 Waltz for Debby (+)
+00:18:55.232 00:24:52.067 00:05:56.835 Doodlin' (+) 
+00:24:52.067 00:39:42.819 00:14:50.752 Spain (+) 
+
+(*) Featuring Bunny Brunel
+(+) Featuring Al Jarreau 
+
+-----
+
+FFP Fingerprints:
+1.01 Band Introductions.flac:8f359c379229404bba3003ad314eaa8f
+1.02 Confirmation.flac:e0a560028810303743df161fccc17c6c
+1.03 Summer Nights.flac:590a7665a2b6c4115b18930f75752c0d
+1.04 On Green Dolphin Street.flac:97830e70e05b940a3f50286c9d228fb4
+1.05 Introducing Bunny Brunel.flac:859814e138b4121401963b2532bb40bd
+1.06 Quiet Afternoon.flac:4872b94f0dfe2066cd9edbe68f142f96
+2.01 Introducing Al Jarreau.flac:6e9b9844d293df9f3c872b492286f45c
+2.02 Summertime.flac:af8a39dbfee3b5f33059b0c25c6b3f10
+2.03 Waltz for Debby.flac:5a1fbd0e355166295f4b1b317ec35a9f
+2.04 Doodlin'.flac:7c8b09c83346cf80cca3b496bb1d675f
+2.05 Spain.flac:0ea099ebe22035dcdf161b18e3faa186

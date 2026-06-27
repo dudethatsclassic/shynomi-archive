@@ -20,7 +20,8 @@ const ARTIST_DATA = {
       "venue": "Stadium Theater Performing Arts Center",
       "notes": "",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "2017-07-29 - Woonsocket, RI - Stadium Theater Performing Arts Center (IPG-320) [AUD].txt"
     }
   ],
   "misc": [

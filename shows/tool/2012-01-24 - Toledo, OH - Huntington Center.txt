@@ -1,0 +1,12 @@
+Tool - 2012.01.24
+Huntington Center - Toledo, OH, USA
+version 3
+
+media type: FLAC
+source:  unknown > Sony M100 Hi-MD
+taper: nameloc01
+
+disc 1 - 1 track - 68:48
+disc 2 - 1 track - 35:31
+
+notes: none

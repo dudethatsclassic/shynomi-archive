@@ -1,0 +1,59 @@
+Death Cab for Cutie
+Salt Shed
+-Inside The Shed
+Chicago, Illinois, USA
+2023-09-23
+
+Taper:
+EnglishSkylarking
+
+Location:
+Left side near front of grandstands, inline with left stack
+
+Gear:
+> Audio Tehcnica AT943 / Sound Professionals SP-CMC-8 w/ 4.7k mod
+> Sound Professionals SP-SAPM-1-USB-C
+> Motorola Moto X4
+> Pfitzinger Voice Design Field Recorder 9.8 (Low gain, soft clipping, 16-bit/48kHz WAV)
+
+Processing:
+> CD Wave 1.98 (Tracking)
+> MAGIX Sound Forge 16.1.4 (iZotope RX10 de-clip and de-click, Minor EQ, fades, resampled/saved-as 16-bit/44.1kHz WAV)
+> TLH 2.8.5.154 (FLAC Lvl. 8, FFP)
+
+On this night, Death Cab for Cutie was:
+Dave Depper - Guitar
+Ben Gibbard - Vocals, guitar
+Nick Harmer - Bass guitar
+Jason McGerr - Drums
+Zac Rae - Keys
+
+Play Time - 00:47:41
+-Intro-
+The New Year
+Lightness
+-banter-
+Title and Registration
+Expo '86
+The Sound of Settling
+Tiny Vessels
+Transatlanticism @
+Passenger Seat
+-banter-
+Death of an Interior Decorator
+-banter-
+We Looked Like Giants
+A Lack of Color
+-Outro-
+
+@ Some audible clipping near the end when it gets real loud
+
+Notes
+First time letting everything ride on the Sound Pros adapter and my phone. I'd tested this
+adapter/phone/app at several shows with an extra set of mics, so I was aware of its limitations
+and quirks, and I'm thankful that everything went off without any major issues at this show.
+This recording turned out better than I expected, and it's totally listenable after the help of
+a couple iZotope modules with the caveats noted. Definitely recommend checking out the adapter
+over at Sound Professionals and probably the attenuator they mention in the description, the
+SP-ATEN-1, for an extremely low profile setup, particularly if you can't take advantage of the
+Shure offerings because you have an Android rather than an iPhone.

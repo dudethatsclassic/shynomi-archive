@@ -1,0 +1,43 @@
+JEFF BUCKLEY
+Knitting Factory
+New York, NY, USA
+February 4 (Tuesday), 1997
+
+Goody's Speed/Pitch Adjusted Remaster
+
+01 ''Do I smell the pot happening already?'' 0:32
+02 Lover, You Should've Come Over 7:50
+03 Jewel Box (announced as 'Song 21') 5:04
+04 Morning Theft 5:24
+05 Grace (feat. Gary Lucas) 5:53
+06 The Sky is A Landfill 4:34
+07 Everybody Here Wants You 6:22
+08 Yard Of Blonde Girls 3:47
+----------------------------------------------------
+Runtime: 39:26
+
+
+ORIGINAL SOURCE INFO:
+Soundboard recording
+Lineage: Flac > CDr > EAC (sec. mode) > Wav > Flac 
+Uploaded to Dime in 2005
+
+"got it on dc++ Sigur Rós Hub (sigur-ros.no-ip.com:412) from patty-dk (a big thank you to you). 
+I burnt it immediately and i guess i was lucky 'cause few hours later my PC died. 
+so i hope you enjoy this as much as i do.it's one of my favorite shows ever."
+
+
+NOTES:
+On this concert for the 10th anniversary of the Knitting Factory, Jeff played a solo gig followed by Jazz Passengers after him.
+
+Goody's additional lineage and notes:
+dBpoweramp (WAV) > Cool Edit Pro (Pitch Bender +48 cents, retracking) > Trader's Little Helper (FLAC Level 8, ffp) > foobar2000 (tags)
+
+This originally ran rather slow, causing the pitch to be flat by approximately 48 cents. The spoken intros and long stretches of tuning etc. are all at the ends of tracks now, rather than at the beginnings. Thanks to all involved in providing us with the source for me to work with.  
+
+RIP Jeff.  Everybody here still misses you...
+
+2009/12/29; 2023/12/16
+
+2024/09/08 -
+New covers added by ethiessen1 (Thanks for the actual gig photos!)

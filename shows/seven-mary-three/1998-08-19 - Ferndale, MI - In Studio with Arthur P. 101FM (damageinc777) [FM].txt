@@ -1,0 +1,44 @@
+Seven Mary Three
+WRIF In Studio with Arthur P. 
+Ferndale, Michigan
+August 19, 1998
+
+Source : 101 FM > Cassette Master (TDK-SA) (courtesy of DamageInc777)
+
+Transfer : Pioneer Stereo > PC (Wav 16/44)
+
+Editing : Sound Forge (tracking, volume) > Wave > TLH (SBE aligned) Flac 8
+
+Traders Den - July 23, 2023
+
+tracked & posted by kingrue upload #3759
+=====================================
+
+
+
+Total Time = 17:18
+
+Set list
+01 Interview
+02 Peel
+03 Each Little Mystery
+04 Interview
+05 Southwestern State
+06 Interview
+
+=======================
+
+
+No errors occured.
+
+01 Interview.flac:5b40ebdfeb7af4ffb795f6bc089ed5e5
+02 Peel.flac:54ba995795a3cb4731799a4caa7ab2f4
+03 Each Little Mystery.flac:12fc6f603b9ed8bccc607d3293c38891
+04 Interview.flac:e3e112562968a7f5d04ccbda6c3fee55
+05 Southwestern State.flac:c6a076105431ca573a751a79d150c75d
+06 Interview.flac:ae01900caf86a744e56877ca0e12ea91
+
+Checksum file saved to disk.
+
+No errors occured.
+

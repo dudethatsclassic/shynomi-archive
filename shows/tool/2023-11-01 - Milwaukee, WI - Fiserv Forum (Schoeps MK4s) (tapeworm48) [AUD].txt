@@ -1,0 +1,36 @@
+
+Tool
+Fiserv Forum: Milwaukee, WI
+November 1, 2023
+
+Source: Schoeps MK4s > Tinybox > Sony PCM-M10 @ 24-bit / 44.1kHz
+Location: FOB, 1st section right side, 8th row 
+Transfer: M10 > USB > Audacity > xACT 2.50
+Edits/EQ: +3dB
+Taper: tapeworm(48) 
+
+Setlist:
+
+01 Intro
+02 Fear Inoculum
+03 Jambi
+04 The Pot
+05 Rosetta Stoned
+06 Pneuma
+07 Descending
+08 -False Start-
+09 Intolerance
+10 The Grudge
+11 Intermission (cut)
+12 Chocolate Chip Trip
+13 Culling Voices
+14 Invincible (cuts out)
+
+Notes: Opening act was Steel Beans (not recorded). The Tinybox battery died after 2 hours, so the final song (Forty-Six & 2) is missing. The 12 minute intermission was also cut out. M10 set at 4; Tinybox at mid gain. Raw transfer with no fades or EQ.
+
+Archive: Master WAV was archived @ 24-bit/44.1kHz and FLAC'd with cue sheet. 
+
+Taped and transferred by tapeworm(48) 
+Txt file compiled on 11/5/2023
+
+*** DO NOT REMASTER WITHOUT PERMISSION. DO NOT DISTRIBUTE IN LOSSY FORMATS. DO NOT SELL THIS RECORDING, TRADE IT FREELY *** 

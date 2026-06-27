@@ -1,0 +1,11 @@
+Tool - 2002.10.28
+Tsongas Arena - Lowell, MA, USA
+
+media type: SHN
+source: Core Sound Cardioids > Sony TCD-D8 > Tascam CD-RW4U > Teac CD-W58E > WAV > SHN > MKW
+taper: ADAT8
+trade status: can trade
+
+disc 1 - 1 tracks - 127:21
+
+notes: tracks are split but discs are not

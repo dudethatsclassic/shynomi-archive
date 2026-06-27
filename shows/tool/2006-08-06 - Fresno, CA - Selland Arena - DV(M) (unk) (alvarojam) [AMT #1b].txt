@@ -1,0 +1,60 @@
+TOOL
+====
+August 6th, 2006
+Selland Arena - Fresno,CA
+
+AUD - NTSC - 720x480 - 9500 kbps
+Stereo AC3 - 256 kbps (Matrix of 2 sources)
+
+TRACKS
+------
+Intro    
+Stinkfist   
+The Pot    
+Forty-Six & 2    
+Jambi     
+Schism      
+Lost Keys    
+Rosetta Stoned   
+Sober   
+Lateralus  
+soundscape       
+Vicarious     
+Aenema    
+
+---------
+
+Video (from cu.org):
+Source A - Unspecified Video Recording Equipment
+
+Notes: This particular video's major point of strength is the near-center, mezzanine-level-seat of the filmer.
+There are not many close-ups; the majority of this footage consists of stage-shots of the band.
+Which is actually quite nice as many videos are full of shaky moments whereas this is quite smooth throughout
+with little technical issues in that regard. However, that does not always make this that much of an exciting video.
+Suppose it does get interesting in regards to nearly getting busted; check out on Ænema when the filmer shoots the
+ground to avoid security. This happens a few times throughout as well. The audio is distorted on the high end;
+this is of minor annoyance. Taking a guess, the filmers unit could not handle the SPL levels coming from the stacks.
+Ah well. It is *not* that bad & it is tolerable if you have patience. There are some random clicks + pops that hit
+every once in a while. I do not think it would be worth anyone's time to mix the audio with a different source as the
+audio is decent at least. The thing that is confusing to me is why videos, even in 2006, are often floating around
+with no source information? I mean, give me a break... write down what you use already.
+------
+Audio:
+
+Matrix of: Schoeps MK4s > Rmod2k2 box > PCM-M1 + Original audio from video.
+
+Notes: 
+Source C: DAT - Schoeps MK4 > Sony PCM-M1
+Taper: Armen
+
+Notes by taper: The distortion you hear in the high end is from the JBL Vertec line array PA system being overdriven. Taped by Armen using Coluzzi's equipment. The levels of the recording itself are perfect. This recording brought to you by the Armenian/Italian taping mafia.
+
+Notes by Galen: Great recording. There is not any weird distortion, I don’t know what Armen is referring to. The is a crisp, clean and fantastic stand-alone recording. Clearly, the best source to surface. If anything in regards to quality one could argue the vocals are a bit buried at times, however, that still happens at Tool shows even in 2023
+-----------------------------------------------
+2025 notes:
+
+Audio remaster, sync and authoring by Alvarojam
+February 17, 2025
+
+Thank you very much to all tapers for their amazing work and again for sharing their recordings.
+All credit to you.

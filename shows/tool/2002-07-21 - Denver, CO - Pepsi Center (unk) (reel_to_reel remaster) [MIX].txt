@@ -1,0 +1,39 @@
+Tool
+Pepsi Center, Denver, Colorado
+July 21st, 2002
+
+AUDIO 1 LINEAGE: MBHO KA-200 > JK Laboratories DVC-V12 > Sony PCM-M1 > 
+1st Gen CDR > matrixed in Audition > split to 16bit FLAC
+
+AUDIO 2 LINEAGE: ALD Recording > unknown DAT > 2nd Gen CDR > EAC > FLAC > 
+matrixed in Audition > split to 16bit FLAC
+
+SETLIST:
+Sober
+4°
+The Grudge
+Stinkfist
+Forty Six & 2
+Schism
+Parabol
+Parabola
+Eon Blue Apocalypse
+The Patient
+Ænema
+Disposition
+Reflection
+Triad
+Lateralus
+
+COMMENTS:
+This matrix is made with a very uncommon type of recording, that being an ALD
+capture of the show. It's basically a mono soundboard of the whole show, much
+more balanced than an IEM but arguably lower fidelity. I attempted to make it
+more enjoyable by overlaying three copies of the ALD and EQing them differently
+to bring out the guitar, bass, vocals, etc. So it's like an AI stem splitter
+without the AI part. This was then matrixed with the audience source. Someone
+else once did a matrix of these sources but I thought it could use an upgrade
+so I hope you enjoy this take on it!
+
+Remastered and shared by reel_to_reel
+!!! DO NOT SHARE IN MP3 OR OTHER LOSSY FORMATS, KEEP IT LOSSLESS !!!

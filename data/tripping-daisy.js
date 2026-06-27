@@ -19,9 +19,10 @@ const ARTIST_DATA = {
       "state": "WI",
       "location": "Milwaukee, WI",
       "venue": "Summerfest",
-      "notes": "Briggs · Shure MV88 · unk",
+      "notes": "Briggs \u00b7 Shure MV88 \u00b7 unk",
       "version": "AUD",
-      "format": "FLAC 24"
+      "format": "FLAC 24",
+      "textFile": "2025-07-04 - Milwaukee, WI - Summerfest - Briggs & Stratton Big Backyard Stage (Shure MV88) (unk) [AUD24].txt"
     },
     {
       "year": 2026,
@@ -32,9 +33,10 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "San Francisco, CA",
       "venue": "Cafe du Nord",
-      "notes": "Line Audio CM4s · unk",
+      "notes": "Line Audio CM4s \u00b7 unk",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "2026-05-11 - San Francisco, CA - Cafe du Nord (Line Audio CM4s) (unk) [AUD].txt"
     }
   ],
   "misc": []

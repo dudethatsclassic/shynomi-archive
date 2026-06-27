@@ -1,0 +1,59 @@
+Jeff Buckley
+4 December 1994
+Stephen Talkhouse, Miami Beach, FL
+
+Master AUD Recording
+Taoer: dolphinsmile
+
+Patched/Re-tracked/Encoded by AintNoBody
+
+Sonic Studio mics/Sony D3 > DAT Master > CDR > EAC > WAV > CEP 2.1/CDWave > WAV > FLAC
+(Patched from DAT clone)
+
+Set List
+--------
+01 //So Real 
+02 Dream Brother
+03 Last Goodbye 
+04 What Will You Say 
+05 Grace 
+06 Lilac Wine 
+07 Mojo Pin 
+08 Eternal Life 
+09 Lover, You Should've Come Over 
+10 encore
+11 Vancouver >
+12 Kanga-roo 
+
+TT: 1:13:02
+
+Jeff Buckley - Guitars & Vocals
+Michael Tighe - Guitars
+Mick Grandahl - Bass
+Matt Johnson - Drums 
+
+
+From Houston, the boys stopped at famed New Orleans club Howlin' Wolf's for a show which was apparently filmed professionally, as their performance of "Dream Brother" can be found on the "Grace Around The World" DVD https://www.discogs.com/master/378293-Jeff-Buckley-Grace-Around-The-World. An interview from that date with a visiting Japanese journalist can be found here: https://notwithyoubutofyou.blogspot.com/2021/02/crossbeat-oct-1994.html
+
+Following that, Jeff and band headed to one of my favourite clubs in my old stomping grounds, the Miami Beach location of the Stephen Talkhouse franchise, part of a burgeoning local music scene that included the Cactus Canteen, The Island Club, Woody's, Washington Square, and Churchill's, and which produced The Mavericks, Nuclear Valdez, Marilyn Manson and others. I saw a lot of great shows at the Talkhouse, including a memorable night with Chris Whitley, whom I was blessed to meet and hang out with. 
+
+Sadly, by the time Jeff played the Talkhouse, I had moved up north for work and did not see this show, but taping legend dolphinsmile was there, and made this recording for us. It's a fairly standard set list, but a solid show.
+
+Contemporaneous interview here: https://notwithyoubutofyou.blogspot.com/2022/06/grace-under-pressure.html
+
+dolphinsmile's notes
+--------------------
+The hiccup at the start is on the master, Jeff was very anti taping. and i was sitting about 2 feet from him (even tho it doesn't seem so from listening to the tape, as the Talkhouse had about the worst sound system....I had to plug in basically without looking at the recorder. The Stephen Talkhouse in Miami was located about a block from the beach, i used to know the people who ran the place so I was there early and hung out. Jeff spent all night sucking on lollipops. Afterwards a bunch of people went over there to 'hang out'. It was very cool. Then some homeless people tried to steal some of our stuff(!)
+
+AintNoBody's notes
+------------------
+The original DAT tape chewed up the last 15 seconds or so but all was not lost, as thankfully the taper made 1 or 2 copies which were transferred to cassette prior to [the damage]. There were some static pops during the later end of 'Kanga-roo' on the DAT so to ensure a smooth, clean merge, the 2nd source was introduced earlier in the last track (after the 1st verse). The result is very pleasing (-_-). There is a glitch of sorts right at the start which i was unable to fix but other than that, this is a nice solid recording. There has been a cut made after track 09 'Lover, You Should've, & before track 10 'encore' which is pretty much what it is. No music is lost.
+
+Files verified, tagged, and renamed to etree conventions; new checksums generated. 
+Text file updated, compiled & copy-edited by lovesick alien 2024-09-20
+--------------------------------------------------------------------------------
+Trade Freely. Never Sell. 
+Support the Artist: Purchase ALL authorised releases. 
+Support the Trading Community: Never Encode to lossy formats.
+--------------------------------------------------------------------------------
+

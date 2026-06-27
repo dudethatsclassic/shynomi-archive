@@ -1,0 +1,28 @@
+Thelonious Monk Quartet
+TBS-TV Studio G
+Tokyo, Japan
+May 23, 1963
+
+Thelonious Monk p
+Charlie Rouse ts
+Butch Warren b
+Frankie Dunlop d
+
+Source: Television broadcast > ? > CD > EAC v. 1.0 beta 2 (extraction and FLAC encoding) > 
+FLAC compression level 8
+Extraction and encoding: Jack Warner (jackmw@gmail.com), August 3, 2011
+
+Disc one
+d1t01 Evidence [0:08:48.10]
+d1t02 Blue Monk [0:11:21.20]
+d1t03 Just A Gigolo [0:03:17.35]
+d1t04 Bolivar Blues [0:08:46.63]
+d1t05 Epistrophy [0:05:42.25]
+Total time: 0:37:56.03
+
+
+tmonk1963-05-23t01.flac:b61dc939b781354ee76795d54b3048e4
+tmonk1963-05-23t02.flac:d63d971ef2f88c0d1b2be6a1c588ea3a
+tmonk1963-05-23t03.flac:ae1e826c2f036f311840cc17669ce0cc
+tmonk1963-05-23t04.flac:d9545701897948f075ddf3ef3584305f
+tmonk1963-05-23t05.flac:02eb78e3e8f0d4e272dca85849dcfc1c

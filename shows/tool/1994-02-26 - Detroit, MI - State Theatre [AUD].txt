@@ -1,0 +1,34 @@
+Preview of changes:
+-------------------
+
+Warning: skipping first 5 files because they would not be changed.
+
+Track breaks will be shifted backward when necessary.
+
+Tool1994_02_26Tr06.flac --> Tool1994_02_26Tr06-fixed.flac
+  - beginning of track will remain unchanged
+  - data size will decrease by 304 bytes
+
+Tool1994_02_26Tr07.flac --> Tool1994_02_26Tr07-fixed.flac
+  - beginning of track will be moved backward by 304 bytes
+  - data size will decrease by 628 bytes
+
+Tool1994_02_26Tr08.flac --> Tool1994_02_26Tr08-fixed.flac
+  - beginning of track will be moved backward by 932 bytes
+  - data size will remain unchanged
+
+Tool1994_02_26Tr09.flac --> Tool1994_02_26Tr09-fixed.flac
+  - beginning of track will be moved backward by 932 bytes
+  - data size will remain unchanged
+
+Tool1994_02_26Tr10.flac --> Tool1994_02_26Tr10-fixed.flac
+  - beginning of track will be moved backward by 932 bytes
+  - data size will remain unchanged
+
+Tool1994_02_26Tr11.flac --> Tool1994_02_26Tr11-fixed.flac
+  - beginning of track will be moved backward by 932 bytes
+  - data size will remain unchanged
+
+Tool1994_02_26Tr12.flac --> Tool1994_02_26Tr12-fixed.flac
+  - beginning of track will be moved backward by 932 bytes
+  - data size will increase by 932 bytes

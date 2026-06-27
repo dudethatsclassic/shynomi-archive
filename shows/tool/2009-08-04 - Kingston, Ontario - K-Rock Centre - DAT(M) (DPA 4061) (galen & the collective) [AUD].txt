@@ -1,0 +1,26 @@
+Tool
+2009.08.04
+Kingston, Ontario, Canada @ K-Rock Centre
+
+Source A: Solid State Recorder --- DPA 4061> MPS6030 > Edirol R-09 @ 16/48
+Transfer: Master (file) > USB port > Goldwave (resample, EQ) > CD Wave
+Location: Dead Center Floor
+Taper: Galen + The Collective
+Gen: collectiveunconscious Master Recording
+
+2024 Notes: This source is mildly brickwalled by low end although it is worse at Jambi and does improve a little bit after ‘the incident’ it is still rather annoying that this source came out as such. The thing is, the taper put the input into the microphone in and had the levels too high which in turn led to low end issues. It is what it is and even with a retransfer and EQ in 2024 this source may be best left for collectors.
+
+2024 Transfer Time: 2:00:44
+
+Jambi
+(-) Ions
+Stinkfist
+46 & 2
+Schism
+Lost Keys 
+Rosetta Stoned
+Flood
+Ænema
+<intermission>
+Lateralus
+Vicarious 

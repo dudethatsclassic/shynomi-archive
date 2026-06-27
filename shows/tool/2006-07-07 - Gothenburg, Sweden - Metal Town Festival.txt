@@ -1,0 +1,13 @@
+Tool - 2006.07.07
+Metal Town Festival - Gothenburg, Sweden
+Version 2
+
+media type: FLAC
+source: Danish Pro Audio 4061s > modMPS-6010 (flat) > modSBM-1 (44.1) > D8 > VX Pocket V2 > Sound Forge 7.0 > CD Wave 1.93 > wav > FLAC
+taper: unknown
+trade status: can trade
+
+disc 1 - 7 tracks - 50:29
+disc 2 - 4 tracks - 33:05
+
+notes from taper: taped from front of left stack.  (Channels swapped in Wavelab 5.0) / D1T04 - D2T : Volume +1.5 dB in Sound Forge 7.0

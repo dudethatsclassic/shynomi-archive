@@ -1,0 +1,12 @@
+Tool - 2019.05.07
+Legacy Arena at BJCC - Birmingham, AL, USA
+Version 3
+
+media type: FLAC
+source: Samsung S8 (Smart Recorder app @ 24 bit/44.1kHz)
+transfer: Memory Card > WAV > FLAC
+taper: BioshockDaddy1
+
+disc 1 - 1 track - 119:08
+
+notes: Downloaded from link on Reddit 2019.05.09, recorded from pocket on phone with Smart Recorder app. 

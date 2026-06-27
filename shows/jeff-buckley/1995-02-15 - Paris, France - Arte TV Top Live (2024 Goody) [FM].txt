@@ -1,0 +1,46 @@
+Jeff Buckley
+15 February 1995
+Arte TV Studios, Paris, France
+
+"Top Live" TV broadcast audio
+
+Liberated Bootleg "Black Session/Velvet Jungle Session" 
+
+Goody's Speed/Pitch-adjusted Audio Upgrade
+
+SILVERS > CDR > EAC > Steinberg Wavelab/CDWave > FLAC >
+
+Goody's additional lineage:
+Audition (Pitch bender, various; Levels and tracking adjusted) >
+iZotope RX10 Advanced (Azimuth and phase adjusted) >
+TLH Level 8; Align sector boundaries; .ffp)
+
+01 Dream Brother 6:27
+02 So Real 5:33
+03 Last Goodbye 4:54
+04 Mojo Pin 7:11
+05 Grace 5:28
+06 Eternal Life 7:48
+
+TT: 0:37:20
+
+Jeff Buckley - Guitars & Vocals
+Michael Tighe - Guitars
+Mick Grondahl - Bass
+Matt Johnson - Drums 
+
+From Strasbourg, the band returned to Paris for a radio/TV session at Arte TV. This show has circulated for many years under number of different names/dates. It exists in both audio and video versions, with most of the audio sourced from the circulating roio "Black Session/Velvet Jungle Session", which may be a fan-creation, rather than a professional boot. That compilation is also the source of most circulating versions of the Bataclan show, as broadcast on French radio, and is the source of this upload as well. 
+
+The band recorded two sessions at Europe 1. First, a radio session which included interviews, for the Top Live Radio Show, then a filmed session for Arte TV's "Top Live" programme. The TV session was partially re-broadcast later on Paris Premiere's "Velvet Jungle" programme and elsewhere. The multiple shows, combined with the re-broadcasts, have led to continuing confusion over this set.
+
+Having watched the video extensively, I can confidently say this audio was extracted from the TV broadcast; it is mono and compressed, but does not include the interview segments from the video. It cuts off just a few seconds before Jeff says a final "Good Night" at the end of the instrumental coda to "Eternal Life" The FM broadcast would presumably have been in stereo. This is NOT that. I received this on a trade CDr of the afore-mentioned compilation many years ago. 
+
+I'm uploading this for those who might wish only the audio without going to the trouble of extracting it for themselves. The video is a mist-have, and is coming next.
+
+Files verified, tagged, and renamed to etree conventions; new checksums generated. 
+Text file updated, compiled & copy-edited by lovesick alien and goody - 2024-09-30
+--------------------------------------------------------------------------------
+Trade Freely. Never Sell. 
+Support the Artist: Purchase ALL authorised releases. 
+Support the Trading Community: Never Encode to lossy formats.
+--------------------------------------------------------------------------------

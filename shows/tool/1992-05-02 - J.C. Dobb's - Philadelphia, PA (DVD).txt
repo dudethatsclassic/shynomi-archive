@@ -1,0 +1,40 @@
+Tool
+
+May 2nd, 1992
+
+JC Dobbs, Philadelphia, PA, 
+
+My trade notation: aud/pc_c,
+
+Support files: checksum.md5, info.txt,
+
+VLC media information:
+Original ID: 224
+Codec: MPEG-1/2 Video (mpgv)
+Type: Video
+Video resolution: 720x480
+Buffer dimensions: 720x480
+Frame rate: 29.970029
+Decoded format: Planar 4:2:0 YUV
+Orientation: Top left
+Color transfer function: sRGB
+Color space: ITU-R BT.601 Range
+Chroma location: Left
+
+Original ID: 48512Codec: A52 Audio (aka AC3) (a52 )
+Type: Audio
+Channels: Stereo
+Sample rate: 48000 Hz
+Bits per sample: 32
+
+Set list:
+Chest pains productions intro and tuning,
+Part of Me,
+Hush,
+Cold and Ugly,
+Sober,
+Sweat,
+Crawl Away,
+Swamp Song,
+Bottom,
+Jerk-Off,

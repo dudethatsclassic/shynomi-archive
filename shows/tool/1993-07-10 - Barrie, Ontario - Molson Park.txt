@@ -1,0 +1,18 @@
+Tool
+1993-07-10
+Barrie, Ontario, Canada
+Molson Park
+
+Source: Soundboard
+Transfer: ASBM > DDC2 32khz > CDR > EAC (Secure Mode) > CDWave (tracking) > .WAV > .FLAC
+Generation: 3rd
+
+Setlist:
+01 - Intolerance - 8:05
+02 - Undertow - 5:40
+03 - Sober - 5:48
+04 - Prison Sex - 5:45
+05 - Part of Me - 3:42
+06 - Swamp Song - 6:38
+07 - Opiate - 5:41
+08 - Jerk-off - 5:31

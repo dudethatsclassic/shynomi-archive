@@ -1,0 +1,26 @@
+Tool
+2022-03-12
+CHI Health Center Omaha,
+Omaha, NE
+
+Source: DPA 4080 > CA Ugly Battery Box > Sony PCM-M10 (Oade Preamp Mod) > .WAV (24bit/96kHz)
+Transfer: SD Card > MacBook > Adobe Audition (Gain, EQ, Cuts, Fades, Bit Depth, Sample Rate) > Fission (Track Splits) > xAct > FLAC (Level 8) > Meta (ID Tags)
+Location: 15th row floor, dead center
+Taper: TB
+
+Tracklist:
+
+01 Intro
+02 Fear Inoculum
+03 Opiate (Extended)
+04 The Pot
+05 Pushit
+06 Pneuma
+07 The Grudge
+08 Right in Two
+09 Descending
+10 Hooker With a Penis
+11 Intermission
+12 Chocolate Chip Trip
+13 Culling Voices
+14 Invincible

@@ -1,0 +1,38 @@
+Death Cab For Cutie
+Toledo Sports Arena
+Toledo, OH
+Saturday October 2, 2004
+
+Taper:		George Wang <gewwang@yahoo.com>
+Source:		DPA4022 > Sonosax SX-M2 > Audio Magic Hyper-Conductor > SBM-1 (Oade T-Mod)
+Location:	Sec A Row 15 Seat 6, 15th row 5 feet right of center
+
+DAT > FLAC:	D100 > Emagic Audiowerk2 > Dell Dimension 8200 >
+		Steinberg WaveLab v5.00a > CD-WAV > FLAC frontend v1.7.1 > .flac
+
+Disc One:
+
+01:	Eddie Vedder Intro			-	00:54.000
+02:	I Am A Patriot				-	03:40.600
+03:	You've Got To Hide Your Love Away	-	03:01.000
+04:	Gob Roberts Intro			-	01:56.400
+05:	Complain				-	03:24.000
+06:	Let's Have A War			-	02:24.400
+07:	Masters Of War				-	05:27.466
+08:	Drugs Stink				-	02:40.533
+09:	?					-	02:40.866
+10:	?					-	03:22.333
+11:	?					-	05:22.400
+12:	Death Cab For Cutie Intro		-	01:30.000
+13:	A Movie Script Ending			-	04:29.000
+14:	The New Year				-	04:09.800
+15:	Title And Registration			-	04:05.200
+16:	Lightness				-	03:37.000
+17:	Expo '86				-	04:12.800
+18:	Heaven					-	04:30.733
+19:	Tiny Vessels				-	03:56.466
+20:	Transatlanticism			-	08:20.000
+
+Total:						-	73:45.000
+
+compiled by George Wang on 10-21-2004

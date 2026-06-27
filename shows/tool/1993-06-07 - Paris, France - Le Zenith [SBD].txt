@@ -1,0 +1,16 @@
+TOOL
+1993-06-07
+Paris, France
+Le Zenith
+
+Source: Soundboard
+Transfer: ASBM > DDC2 32khz > CDR > EAC (Secure Mode) > CDWave (tracking) > .WAV > .FLAC
+Generation: 3rd
+
+Setlist:
+01 - Intolerance - 5:37
+02 - Sweat - 3:51
+03 - Sober - 5:20
+04 - Opiate - 5:51
+05 - Flood - 3:53
+06 - Jerkoff - 4:17

@@ -1,0 +1,37 @@
+TOOL
+Location: Vienna, Stadthalle, AUT
+Recorded with Sharp MD-MT180H and Vivanco EM216
+
+01	Stinkfist			06:50
+02	Forty-Six&Two			07:28
+03	Jambi				07:56
+04	Schism   			08:35
+05	Lost Keys (Blame Hofmann)	03:29
+06	Rosetta Stoned			11:43
+07	Swamp Song			07:05
+08	Lighter Break			05:41
+09	Wings for Marie (Pt. 1)		05:08
+10	10.000 Days (Wings Pt. 2)	11:24
+11	Lateralus			10:41
+12	Vicarious			10:52
+13	Aenima				06:58
+		Total Running Time:  01:43:50
+
+
+
+
+
+
+01 stinkfist.flac:20ff0ff3adda865b540cc4b6208fd275
+02 forty-six&two.flac:f95de8962bcc57553a32ac65b88d4dd0
+03 jambi.flac:e51ea34390a21816d2b1ad7e1561048e
+04 stinkfist.flac:063ea4ee4cf57ff4d7f0a63b683b82d4
+05 lost keys (blame hofmann).flac:4929ed21b76ae84b81f2df7d6d5b8ae6
+06 rosetta stoned.flac:63a0e0bf1dea5a200369ad5d85985bbd
+07 swamp song.flac:38b400f0eb7af65a57f0770b4a0cc8d5
+08 lighter break.flac:26beefc9447c630f9658ab2e15aee334
+09 wings for marie (pt. 1).flac:a11a5e086225c6e5a8b6331fc7332d1d
+10 10.000 days (wings pt. 2).flac:7a8066b094c1a8bf7ddbfa21e1edbef8
+11 lateralus.flac:f7141b5d8d33ff5be13001314fb09777
+12 vicarious.flac:071ed74665b779dd16fdc3c67a58d15b
+13 aenima.flac:3dc3bfd4d8f90bf6a0ac0817be3474fc

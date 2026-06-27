@@ -1,0 +1,12 @@
+﻿Tool - 2024.01.24
+State Farm Arena - Atlanta, GA, USA
+Version 2
+
+Source: dpa4061s > MMA6000 > Tascam DR-2d (mic in @24/48) > USB > PC > CD Wave Editor > TLH > FLAC
+Taper: geordy
+
+disc 1 - 11 tracks - 102:08
+
+notes from taper: Recorded from stage right.  Tool show #31.  Elder opened, not taped.  Show is incomplete, recorder stopped during Flood.  At least I remembered to take my mics to Atlanta this time.  Found an area stage right where I was pretty much able to sit by myself until The Grudge when 4 guys sat ~10' away from me.  I wish all Tool recordings had this little crowd noise on them.
+
+tooldriveproject.net

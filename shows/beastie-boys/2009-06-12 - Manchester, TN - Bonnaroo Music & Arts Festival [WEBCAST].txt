@@ -1,0 +1,110 @@
+Beastie Boys
+Bonnaroo Music & Arts Festival
+What Stage
+Great Stage Park
+Manchester, Tennessee
+Friday, June 12, 2009
+(broadcast date: September 24, 2020)
+
+Lineage: 'LIVE" Webcast -> Streamlink -> FFmpeg -> MKVToolNix GUI -> .mkv 
+Video: MPEG4 Video (H264) 1920x1080 16:9 1950 Kbps 30.00 fps
+Audio: AAC 128 Kbps 48.0 KHz stereo
+
+The final Beastie Boys concert...
+
+Setlist:
+-introduction-
+The Biz vs. The Nuge
+Time for Livin'
+Super Disco Breakin'
+Sure Shot
+No Sleep Till Brooklyn
+Shake Your Rump
+Gratitude
+Sabrosa
+Egg Raid on Mojo
+Body Movin'
+Pass the Mic
+Root Down
+Too Many Rappers (with Nas)
+Paul Revere (Remix)
+Ricky's Theme
+Something's Got to Give
+Tough Guy
+Remote Control
+So What'cha Want
+
+Encore:
+Intergalactic
+Three MC's and One DJ
+Heart Attack Man (acoustic by Country Mike)
+Heart Attack Man
+Sabotage
+
+TRT = 01:22:55
+
+Note: This is a perfect capture of the webcast.
+Any imperfections, if present, were inherent in the broadcast.
+
+Captured and uploaded to DIME by indykid.
+
+MediaInfo:
+General
+Unique ID                                : 122801426775754999775811537441321129344 (0x5C62B1CB0522CB84F178BE075BFC1580)
+Complete name                            : Beastie Boys - 2009-09-12 Bonnaroo Music & Arts Festival [1080p].mkv
+Format                                   : Matroska
+Format version                           : Version 4
+File size                                : 1.21 GiB
+Duration                                 : 1 h 22 min
+Overall bit rate                         : 2 082 kb/s
+Encoded date                             : UTC 2020-09-25 05:43:26
+Writing application                      : mkvmerge v47.0.0 ('Black Flag') 32-bit
+Writing library                          : libebml v1.3.10 + libmatroska v1.5.2
+
+Video
+ID                                       : 1
+Format                                   : AVC
+Format/Info                              : Advanced Video Codec
+Format profile                           : Main@L4
+Format settings                          : CABAC / 1 Ref Frames
+Format settings, CABAC                   : Yes
+Format settings, RefFrames               : 1 frame
+Codec ID                                 : V_MPEG4/ISO/AVC
+Duration                                 : 1 h 22 min
+Bit rate                                 : 1 951 kb/s
+Width                                    : 1 920 pixels
+Height                                   : 1 080 pixels
+Display aspect ratio                     : 16:9
+Frame rate mode                          : Variable
+Frame rate                               : 30.000 FPS
+Color space                              : YUV
+Chroma subsampling                       : 4:2:0
+Bit depth                                : 8 bits
+Scan type                                : Progressive
+Bits/(Pixel*Frame)                       : 0.031
+Stream size                              : 1.13 GiB (94%)
+Default                                  : Yes
+Forced                                   : No
+Color range                              : Limited
+Color primaries                          : BT.709
+Transfer characteristics                 : BT.709
+Matrix coefficients                      : BT.709
+
+Audio
+ID                                       : 2
+Format                                   : AAC LC
+Format/Info                              : Advanced Audio Codec Low Complexity
+Codec ID                                 : A_AAC-2
+Duration                                 : 1 h 22 min
+Bit rate                                 : 128 kb/s
+Channel(s)                               : 2 channels
+Channel layout                           : L R
+Sampling rate                            : 48.0 kHz
+Frame rate                               : 46.875 FPS (1024 SPF)
+Compression mode                         : Lossy
+Delay relative to video                  : -112 ms
+Stream size                              : 75.9 MiB (6%)
+Default                                  : Yes
+Forced                                   : No
+
+Captured and uploaded to DIME by indykid.

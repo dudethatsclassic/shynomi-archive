@@ -1,0 +1,73 @@
+QUEENS OF THE STONE AGE
+The Fillmore - San Francisco, CA
+April 16, 2005
+
+***PLEASE DO NOT DISTRIBUTE IN LOSSY FORMATS!***
+***PLEASE DO NOT SELL!!!***
+
+-source- 
+AKG C414B-XLS/ST > Edirol UA-5 (Oade TMOD+) @ 24bit/48kHz > Samsung P30 / WaveLab v5.00
+(left of soundboard, hypercardioid setting)
+
+-conversion-
+WaveLab v5.00 (fades, resampling, dithering using UV22 HR) > CDWave v1.93b > FLAC frontend v1.7.1
+
+-tracklist-
+*CD1* [78:44]
+01. Intro
+02. Regular John
+03. If Only
+04. Avon
+05. You Would Know
+06. Mexicola
+07. Walkin' on the Sidewalks
+08. Leg of Lamb
+09. Broken Box
+10. In My Head
+11. Covered in Punks Blood
+12. Monsters in the Parasol
+13. Burn the Witch
+14. Little Sister
+15. Go With the Flow
+16. Tangled up in Plaid
+17. Everybody Knows That You Are Insane
+18. Lost Art of Keeping a Secret
+19. Medication
+20. Song for the Dead
+
+*CD2* [35:31]
+21. I Never Came
+22. I Think I Lost My Headache
+23. Feel Good Hit of the Summer
+-encore-
+24. The Long Slow Goodbye
+25. Someone's in the Wolf 
+
+
+-fingerprints-
+qotsa2005-04-16t01.flac:13bd0fc4c33aaef40c4e1a5f84481f55
+qotsa2005-04-16t02.flac:8a9904f397c779a9bc7c7d3d1eab7add
+qotsa2005-04-16t03.flac:e1c489730bb2b0dc1996570c5f135bf1
+qotsa2005-04-16t04.flac:5562f618aca69d201f91456a200354df
+qotsa2005-04-16t05.flac:d3a6a0369e07c2f41b00e6e60a5c44a5
+qotsa2005-04-16t06.flac:7de62277abde4854c69870efc10d5502
+qotsa2005-04-16t07.flac:52677f60e546ba7ff3e0db40937e2917
+qotsa2005-04-16t08.flac:baf4d35cc5500e6c8ec73db04c5d2208
+qotsa2005-04-16t09.flac:2fc991b5863577e8a930fb02becb3aae
+qotsa2005-04-16t10.flac:e20c30c0e540d61fddbbfeb8f251601b
+qotsa2005-04-16t11.flac:ef261ef3f1f410c70a8ed2498c0a9374
+qotsa2005-04-16t12.flac:ddaac6389378c85f6c8509d38b4d3dd8
+qotsa2005-04-16t13.flac:9b6ea6b3931fcfc8363258b4d4af8b36
+qotsa2005-04-16t14.flac:5795c7f400f1414857aa73b78feda198
+qotsa2005-04-16t15.flac:dccccf8cb8f6bee616e5e439d3ae2145
+qotsa2005-04-16t16.flac:f78b15178b6c3796824218949c22d32c
+qotsa2005-04-16t17.flac:eeae68d3f86cc33f44f5000c62d7899e
+qotsa2005-04-16t18.flac:5a9a13891fb81b02035806d8f5e9ff54
+qotsa2005-04-16t19.flac:9faf516d180bed07f6198c17f313642d
+qotsa2005-04-16t20.flac:7e834375f8c082128b0e8414ed849740
+qotsa2005-04-16t21.flac:fab514036ddc3f001c8c35fbb7ba2307
+qotsa2005-04-16t22.flac:f2ca84243a46ae184eee41600fb4324c
+qotsa2005-04-16t23.flac:92f3b13617cc583d0f0178ae59a2c0db
+qotsa2005-04-16t24.flac:fb9fb69752d829e99c8559b326079559
+qotsa2005-04-16t25.flac:6c680390cbded7b7f08e61b8e01866bd
+

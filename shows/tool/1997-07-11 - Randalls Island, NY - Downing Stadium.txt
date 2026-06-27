@@ -1,0 +1,12 @@
+Tool - 1997.07.11
+Downing Stadium - Randall's Island, NY, USA
+version 3
+
+media type: FLAC 
+source: electric condenser mics (possible CM-30) > WM-D6 > ANA(M) > CDR(1) > FLAC
+taper: unknown 
+trade status: can trade
+
+disc 1 - 9 tracks - 66:41
+
+notes: This source was not circulated until 2008

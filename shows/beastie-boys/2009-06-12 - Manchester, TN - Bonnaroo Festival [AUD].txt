@@ -1,0 +1,74 @@
+Beastie Boys
+2009-06-12
+What Stage
+Bonnaroo Music & Arts Festival
+Manchester, Tennessee
+
+Source:       Church Audio STC-11s (omni caps) > Church Audio ST-20A preamp > Edirol R09
+Lineage:      wav > USB > PC > Audacity 2.3.2 > flac
+Taped by:     Hahninator (Mark T)
+Location:     DFC on the left railing in front of the SBD; mics about 7' high, about 100'(?) from the stage
+
+Setlist:
+01. Introduction
+02. The Biz Vs The Nuge
+03. Time For Living
+04. Super Disco Breakin' 
+05. Sure Shot
+06. No Sleep Till Brooklyn
+07. Shake Your Rump
+08. Gratitude
+09. Sabrosa
+10. Egg Raid on Mojo
+11. Body Movin'
+12. Pass The Mic
+13. Root Down
+14. Too Many Rappers (w/ Nas) (Live Debut)
+15. Paul Revere (Remix)
+16. Ricky's Theme
+17. Something's Got To Give
+18. Tough Guy
+19. Remote Control
+20. So What'cha Want
+21. Encore Break
+22. Mix Master Mike Intro
+23. Intergalactic
+24. Three MC's And One DJ
+25. Heart Attack Man
+26. Sabotage
+
+Notes:
+Taped this with MSTaperJr. His source was sent to his dad while we were at the show and uploaded on etree.
+In 2020 I remember I recorded this show as well, so here we go!
+Great location on the rail by FOH... distinctly remember quite a few tapers for this one because Phish played too.
+This is the last show Beastie Boys performed as a group. RIP Adam Yauch.
+
+
+FLAC Fingerprints:
+
+f420b1cb55c10c316a01a44918d0968c *beastieboys2009-06-12t01.flac
+8362b8976a53853290a600b09fa6c94b *beastieboys2009-06-12t02.flac
+83467508a13f810c5194ac78d34a4ab9 *beastieboys2009-06-12t03.flac
+1ffa7e03867a6091649ba44f59ee0c62 *beastieboys2009-06-12t04.flac
+cee32ab98a0ecb5e2de87358e01171fd *beastieboys2009-06-12t05.flac
+a3e3412aa1abd42286fe4bbb53038f7a *beastieboys2009-06-12t06.flac
+bf06da80e6f795eb6db6bc770deb6204 *beastieboys2009-06-12t07.flac
+b09539a897e366a219d5b7c4cf6199e0 *beastieboys2009-06-12t08.flac
+6a128f46ade4d1e04f4ff40e6233eced *beastieboys2009-06-12t09.flac
+5f101c1c0927a3201f7b850dea97b66e *beastieboys2009-06-12t10.flac
+c9a565828a3effc78016183999ad44d9 *beastieboys2009-06-12t11.flac
+13f509e001b1e04ffe8c67fb89bfb5fa *beastieboys2009-06-12t12.flac
+9afa2b0147964041924918bcfaaeb9f6 *beastieboys2009-06-12t13.flac
+ccc8f28c66e6c6f8e73e0541da942cae *beastieboys2009-06-12t14.flac
+0b1d5928e68ec2b30dc2c9b5e725a52d *beastieboys2009-06-12t15.flac
+a451a3bf2c2e57de945a7624bce86751 *beastieboys2009-06-12t16.flac
+75d2439cc66add715656614047b709c7 *beastieboys2009-06-12t17.flac
+a49313d3e40765f44ac97509e3cb9a42 *beastieboys2009-06-12t18.flac
+ec1dd96a53b303f78f11f96cf06e9239 *beastieboys2009-06-12t19.flac
+77d7190b0634e0211881ebfbd4ba5ddb *beastieboys2009-06-12t20.flac
+ecc58df716fbf7a00daf569382214234 *beastieboys2009-06-12t21.flac
+c0deb457c43c124eecbf1af89213578f *beastieboys2009-06-12t22.flac
+996661401d4ad19074c8994a9a547a70 *beastieboys2009-06-12t23.flac
+e89950f23d0f9dc3c579d4ef160e371a *beastieboys2009-06-12t24.flac
+aa7003807f61710787f59481e5d8cec5 *beastieboys2009-06-12t25.flac
+4ff0ec835a64077806b189d1ee7616c2 *beastieboys2009-06-12t26.flac

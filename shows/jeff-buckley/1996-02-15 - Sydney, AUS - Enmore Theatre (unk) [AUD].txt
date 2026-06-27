@@ -1,0 +1,50 @@
+Jeff Buckley
+Enmore Theatre, Sydney, OZ
+15 February
+
+I do impressions too.
+
+AUD > CDR > EAC(s) > WAV > FLAC > xACT > WAV > Audacity > WAV > xACT > FLAC
+
+Set List:
+---------
+01 I Woke Up In A Strange Place 
+02 Chat: "Hello Everybody"
+03 Intro -> Mojo Pin 
+04 Dream Brother
+05 Chat
+06 Eternal Life
+07 Kick Out The Jams (MC5)
+08 Edna Frau §
+09 Lilac Wine (Nina Simone)
+10 Chat
+11 Last Goodbye
+12 What Will You Say
+13 Grace
+14 Band Intros & chat
+15 Mood Swing Whiskey
+16 So Real
+17 Lover, You Should've Come Over
+18 Vancouver -> 
+19 Kanga-Roo (Big Star)
+
+TT: 1:35:14
+
+Jeff Buckley - Guitars & Vocals
+Michael Tighe - Guitars
+Mick Grondahl - Bass and Vocals §
+Matt Johnson - Drums 
+
+All in all, 1996 was a much quieter year for Jeff and the boys: there was only one tour planned, and it was equal parts vacation, with 15 dates plus promotion over the course of five weeks, with an extra two weeks vacation for the boys in the band at the end, whilst Jeff flew back too the States. A full week into the tour, we have our second recording, this time from the first night of a 3-night stand at Sydney's Enmore Theatre in the Newtown area of Sydney, where an unnamed taper provides us with a better listen than Newcastle. The set has been thoroughly rearranged from 1995, opening with "IO Woke Up In A Strange Place", a song that didn't make it to the "Sketches" release for some reason. The song was only played live ten times, and from that we just have a handful of recordings, none of which are great. Mickey's "Edna Frau" makes another appearance, this time with Jeff adding some vocal help. It's still not much of a song. The third new song makes its appearance two thirds of the way through the show with the second appearance of "Mood Swing Whiskey". Again, it's not a great song - frankly, none of Jeff's post-Grace material is particularly inspired. He lacked a strong so-writer like Lucas or a strong producer like Andy Wallace, which helps explain the weakness of the posthumous material we did get. Jeff would've hated "Sketches", but as has been the case since his death, it's all in his mother's less-than-adequate hands now.
+
+But there is some really enjoyable stuff during this show. We can actually hear Jeff - even if we can't make out what he's saying all the time - from the stage, and there's a hilarious moment after the band intros where he drops into a Marlon Brando imitation. It's largely inaudible, but the audience is in stitches. He gives them a little Edward G Robinson earlier in the set - hence my title.
+
+I got this on a trade CDr many years ago. While not as rough as the Newcastle recording, this one suffered from its own set of problems, mostly a lot of mic rustling and a loud clapper close to the taper's seat. I used Audacity to get rid of the worst of it. There was a hard cut at the end of Last Goodbye, so I added a fade. There's an annoying cut that breaks Jeff's intro to the new song as "Mood Swing Whis-" which I left alone. There was a hard cut before the encores as well, so I added a fade at the end of "Lover". Kanga-Roo quick fades to an abrupt end at the 8:26 mark. I was fairly aggressive with my cuts, but no music or talking has been removed, and I did my best to smooth the transitions as best I could. I think it's a much less challenging listen now, if still far from perfect.
+
+Files verified, tagged, and renamed to etree conventions; new checksums generated. 
+Text file updated, compiled & copy-edited by lovesick alien 2024-10-02
+--------------------------------------------------------------------------------
+Trade Freely. Never Sell. 
+Support the Artist: Purchase ALL authorised releases. 
+Support the Trading Community: Never Encode to lossy formats.
+--------------------------------------------------------------------------------

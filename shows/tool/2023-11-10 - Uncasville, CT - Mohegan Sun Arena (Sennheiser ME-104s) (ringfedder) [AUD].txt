@@ -1,0 +1,49 @@
+Tool
+Arena @ Mohegan Sun Casino
+Uncasville, CT
+November 10, 2023
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Source info:
+
+Sennheiser ME-104's> Sound Professionals SP-SAPM-1-USB-C (16/48)> Pixel 2XL> USBAudioRecorderPRO
+Transfer to PC> GoldWave v6.23 (resample 16/44.1)> CDWaveEditor v1.96 (track split)> TLH> Flac (6)
+
+
+Taper: Ringfedder
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Setlist:
+
+Set: I
+01. Fear Inoculum
+02. Jambi
+03. Rosetta Stoned
+04. Pneuma
+05. Intolerance
+06. Descending
+07. The Grudge
+Set: II
+08. Chocolate Chip Trip
+09. Culling Voices
+10. Invincible
+11. Ænema
+ 
+
+The Band:
+
+Maynard James Keenan - vocal
+Danny Carey - drum
+Adam Jones - guitar
+Justin Chancellor - bass
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Hello Everyone
+
+Trying something new with this recording.  Using a Sound Professionals USC-C adapter into the phone.  I'm very happy with the results.  Feel free to comment if you should feel so inclined.
+
+I had to attenuate the woohooing guy next to me over 40 times.  I hope this doesn't detract from the overall listening experience.
+
+Enjoy

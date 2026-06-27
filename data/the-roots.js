@@ -37,7 +37,8 @@ const ARTIST_DATA = {
       "venue": "House Of Blues - ANA",
       "version": "AUD",
       "format": "FLAC",
-      "notes": "M \u00b7 Unknown"
+      "notes": "M \u00b7 Unknown",
+      "textFile": "1999-03-09 - West Hollywood, CA - House Of Blues - ANA(M) (unk) [AUD].txt"
     },
     {
       "year": 1999,
@@ -50,7 +51,8 @@ const ARTIST_DATA = {
       "venue": "Mayo Island Music Festival",
       "version": "AUD",
       "format": "FLAC",
-      "notes": "CM701s \u00b7 tunegrabber"
+      "notes": "CM701s \u00b7 tunegrabber",
+      "textFile": "1999-05-16 - Richmond, VA - Mayo Island Music Festival (CM701s) (tunegrabber) [AUD].flac.txt"
     },
     {
       "year": 2023,
@@ -63,7 +65,8 @@ const ARTIST_DATA = {
       "venue": "The Kia Forum",
       "version": "AUD",
       "format": "FLAC",
-      "notes": "SP-CMC-4U \u00b7 Unknown"
+      "notes": "SP-CMC-4U \u00b7 Unknown",
+      "textFile": "2023-09-03 - Inglewood, CA - The Kia Forum (SP-CMC-4U) (unk) [AUD].txt"
     },
     {
       "year": 2024,
@@ -76,7 +79,8 @@ const ARTIST_DATA = {
       "venue": "Wolf Trap (with Digable Planets & Arrested Development)",
       "version": "AUD",
       "format": "FLAC",
-      "notes": "Schoeps MK4 \u00b7 bob jacobson"
+      "notes": "Schoeps MK4 \u00b7 bob jacobson",
+      "textFile": "2024-08-31 - Vienna, VA - Wolf Trap (with Digable Planets & Arrested Development) (Schoeps MK4) (bob jacobson) [AUD].txt"
     },
     {
       "year": 2025,
@@ -89,7 +93,8 @@ const ARTIST_DATA = {
       "venue": "The Blue Note (Early set)",
       "version": "AUD",
       "format": "FLAC 24",
-      "notes": "Zoom H4n Pro \u00b7 randybayers"
+      "notes": "Zoom H4n Pro \u00b7 randybayers",
+      "textFile": "2025-03-15 - New York, NY - The Blue Note (Early set) (Zoom H4n Pro) (randybayers) [AUD24].txt"
     },
     {
       "year": 2025,
@@ -102,7 +107,8 @@ const ARTIST_DATA = {
       "venue": "Ft. Adams State Park - Newport Jazz Festival",
       "version": "AUD",
       "format": "FLAC 24",
-      "notes": "Schoeps MK4 \u00b7 funk it blog"
+      "notes": "Schoeps MK4 \u00b7 funk it blog",
+      "textFile": "2025-08-01 - Newport, RI - Ft. Adams State Park - Newport Jazz Festival (Schoeps MK4) (funk it blog) [AUD24].txt"
     }
   ]
 };

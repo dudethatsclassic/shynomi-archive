@@ -1,0 +1,23 @@
+Duke Ellington Orchestra
+Zellerbach Auditorium, University Of California, Berkeley, CA 1969-09-29
+
+
+1.  Introductory remarks by Duke Ellington
+2.  The Clown
+3.  Mingus interview
+
+
+This is the only recorded "collaboration" between Duke Ellington and Charles Mingus apart from the "Money Jungle" album. The recording is Duke playing and narrating "The Clown". Mingus was supposed to conduct Ellington´s orchestra, but chickened out, hiding on the balchony (!)
+
+Sbd recording, from an old reel. The left channel had no output at all, so I only used the right channel for this mono seed. Sound quality is pretty good. Last track is an interview with Mingus about the event, 1970ish
+
+
+reel of unknown lineage > CDR > Soundforge > FLAC
+
+
+ellington_1969-09-29_t01.flac:8d47bba0fbf0c2b47fc5d71ad726c6c2
+ellington_1969-09-29_t02.flac:afd56be833642e667a6bee1a37008af5
+ellington_1969-09-29_t03_mingus_interview.flac:c54556806d109bf69906330db6b25e2c
+
+
+

@@ -1,0 +1,56 @@
+BREEDERS
+November 27, 1993
+AT&T Amphitheater at Bayfront Park
+Miami, FL
+
+SETLIST (37:41)
+-----------------
+01) Don't Call Home
+02) Hellbound
+03) I Just Wanna Get Along
+04) No Aloha
+05) Divine Hammer
+06) Saints
+07) Hag
+08) Flipside
+09) New Year
+10) Safari
+11) Cannonball
+12) Happiness Is A Warm Gun
+13) Doe
+14) Lime House
+
+GENERATION
+-----------------
+DAT(1) [32kHz] > WAV [32kHz] > WAV [44.1kHz] > FLAC [Level 8]
+
+SOURCE
+-----------------
+Sonic Studios DSM-6P > Denon DTR-80P
+
+TRANSFER
+-----------------
+Tascam DA-20 MKII > LynxONE > Adobe Audition 2.0 > CD Wave 1.6.1 > FLAC Frontend 1.7.1
+
+MD5 FINGERPRINTS
+-----------------
+f41bedda90c36b4d92c1a71a387f8240 *breeders1993-11-27t01.flac
+e6ae711366cf24e7285d9476e47bf51f *breeders1993-11-27t02.flac
+73f3b29844bd42b4ac483fc3f32af2d3 *breeders1993-11-27t03.flac
+84f7a802737f9ab2692ca4ebfe746740 *breeders1993-11-27t04.flac
+94376a3b863f0ce211c43ab88d3da507 *breeders1993-11-27t05.flac
+323430a5eede5bc769581f53ae8af0f5 *breeders1993-11-27t06.flac
+13d85eabc1367b35ed925d269868e869 *breeders1993-11-27t07.flac
+b021e4a26b466dbadc1bb84a4f3d160f *breeders1993-11-27t08.flac
+191b4fa8cec5f04f9dad200bc08dbce0 *breeders1993-11-27t09.flac
+41df42de301c4631a207368cd498ed52 *breeders1993-11-27t10.flac
+11e5d0fefd50332f4651102fdca94855 *breeders1993-11-27t11.flac
+c46795c0c1e36d9984d5f19a8b1a1f7a *breeders1993-11-27t12.flac
+9984139e28ca860b0e8468c92885dc48 *breeders1993-11-27t13.flac
+889beab7fcf9a97035f57c1ed07bd9f0 *breeders1993-11-27t14.flac
+
+
+Transferred by Mike Ziegler.
+PLEASE DO NOT ENCODE TO MP3 OR SELL!
+
+If you or anyone you know taped Nirvana, please let me know! mike@mikeziegler.com

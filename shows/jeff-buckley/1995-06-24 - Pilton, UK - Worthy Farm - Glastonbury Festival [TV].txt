@@ -1,0 +1,38 @@
+Jeff Buckley
+24 June 1995
+Pyramid Stage, Worthy Farm, Pilton, UK
+
+Glastonbury Festival
+
+Source: fan-created DVD compilation of European TV appearances 1994-5
+Lineage: TV > ?Gens > DVD
+
+Video - MPEG-2 / 720x576 (PAL) / 4:3 
+Audio - LPCM / 2ch / 48kHz / 16bit
+
+Transfer: DVD(VOB) > MakeMKV > MKV > LosslessCut > MKV
+
+Set List:
+---------
+01 Introduction -> Mojo Pin 6:34
+
+
+Jeff Buckley - Guitars & Vocals
+Michael Tighe - Guitars
+Mick Grondahl - Bass
+Matt Johnson - Drums 
+
+
+After Leeds, the band played The Junction in Cambridge (sadly not recorded AFAIK), before heading to Worthy Farm in Pilton, for an appearance on the Pyramid Stage at Glastonbury 1995. The complete pre-FM audio portion (less the officially released track) is available here: http://www.dimeadozen.org/torrents-details.php?id=557527 In those pre-BBC iPlayer days, we didn't get entire sets broadcast from the Festival (with rare occasions), but MTV UK did show this clip of Mojo Pin. 
+
+It is sourced from a 2007 fan-created compilation of Buckley 1994-1995 European appearances created by Buckley super-fan eclect, from which the clips for Frankfurt were also sourced. This is the best version we have, despite its VHS-sourced weaknesses. I'm hoping that a film of the entire appearance will one day surface, but for now this is all I know of.
+
+I used MKV to convert the DVD to a more watchable format and Lossless Cut to extract and trim the video. No transcoding was performed.
+
+New checksums generated. 
+Text file updated, compiled & copy-edited by lovesick alien 2024-10-02
+--------------------------------------------------------------------------------
+Trade Freely. Never Sell. 
+Support the Artist: Purchase ALL authorised releases. 
+Support the Trading Community: Never Encode to lossy formats.
+--------------------------------------------------------------------------------

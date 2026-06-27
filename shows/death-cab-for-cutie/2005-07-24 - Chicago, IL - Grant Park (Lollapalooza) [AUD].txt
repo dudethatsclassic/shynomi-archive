@@ -1,0 +1,36 @@
+Death Cab for Cutie
+July 24th, 2005
+Grant Park - Lollapalooza
+Chicago, IL
+
+Taper: Richard Simms (sullen)
+Source: Dynamic Audio Binaurals > DA-120F Custom Battery Box, 
+        Bass Roll off 85hz > AD20 set to 0 > JB3 Optical Line-In
+Transer: JB3 > computer via Firewire > Adobe Audition 1.5 > 
+         CD Wave Editor 1.94.5 > FLAC FrontEnd (Level 8, Align SB) 
+
+1. A Movie Script Ending
+2. The New Year
+3. Title and REgistration
+4. Soul Meets Body
+5. We Laugh Indoors
+6. Lightness
+7. Photobooth
+8. I Was A Kaleidoscope
+9. Crooked Teeth
+10. Expo '86
+11. Company Calls
+12. Styrofoam Plates
+13. The Sound of Settling
+14. Encore Break
+15. Tiny Vessels
+16. Transatlanticism
+
+Notes:
+
+1. There is bleed through from the Widespread Panic show 
+   on the other side of the park.
+2. There is moderate crowd noise i.e. talking, answer cell phones, etc.
+3. The audio mix was not good and someone kept turning on some sort of
+   vibrato effect which ruined parts of songs.
+

@@ -1,0 +1,49 @@
+Paramore
+BBC Session ("Live Lounge" for Clara Amfo show)
+BBC Radio 1 Studios
+London
+U.K.
+2017-06-19
+
+http://www.bbc.co.uk/programmes/b08tb8qm
+http://www.bbc.co.uk/programmes/p056fvls
+http://www.bbc.co.uk/iplayer/episode/p053n6yc/live-lounge-paramore
+
+http://ichef.bbci.co.uk/images/ic/640x360/p056bxwz.jpg
+http://ichef.bbci.co.uk/images/ic/1920x1080/p056c89r.jpg
+
+also:
+http://ichef.bbci.co.uk/images/ic/128x72/p056bxwz.jpg
+http://ichef.bbci.co.uk/images/ic/144x81/p056bxwz.jpg
+http://ichef.bbci.co.uk/images/ic/192x108/p056bxwz.jpg
+http://ichef.bbci.co.uk/images/ic/256x144/p056bxwz.jpg
+http://ichef.bbci.co.uk/images/ic/384x216/p056bxwz.jpg
+http://ichef.bbci.co.uk/images/ic/480x270/p056bxwz.jpg
+http://ichef.bbci.co.uk/images/ic/624x351/p056bxwz.jpg
+http://ichef.bbci.co.uk/images/ic/608x342/p056bxwz.jpg
+http://ichef.bbci.co.uk/images/ic/640x360/p056bxwz.jpg
+http://ichef.bbci.co.uk/images/ic/864x486/p056bxwz.jpg
+http://ichef.bbci.co.uk/images/ic/944x531/p056bxwz.jpg
+http://ichef.bbci.co.uk/images/ic/976x549/p056bxwz.jpg
+http://ichef.bbci.co.uk/images/ic/1024x576/p056bxwz.jpg
+http://ichef.bbci.co.uk/images/ic/1280x720/p056bxwz.jpg
+http://ichef.bbci.co.uk/images/ic/1632x918/p056bxwz.jpg
+http://ichef.bbci.co.uk/images/ic/1920x1080/p056bxwz.jpg
+etc ...
+
+Digital Satellite (live) broadcast 2017-06-19 MPEG1 layer 2 48kHz @ 192kbps:
+BBC Radio 1 > DVB-S > TBS 6984 > DVBviewer > .mp2 >
+Mpeg2Schnitt (trimming) > .mp2. Tags added with Mp3tag.
+
+  1. Interview                       5:40
+//
+  2. Chat
+  3. Hard Times                      6:09
+//
+  4. Chat
+  5. Passionfruit
+  6. Closing Comments                6:58
+Total Time : [18:48]
+
+http://www.paramore.net/
+

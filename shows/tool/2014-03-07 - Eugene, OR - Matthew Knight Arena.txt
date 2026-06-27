@@ -1,0 +1,82 @@
+TOOL
+Matthew Knight Arena (University of Oregon)
+Eugene, Oregon, USA
+March 7, 2014 A.D.
+
+Maynard James Keenan (vocals)
+Adam Jones (guitar)
+Justin Chancellor (bass)
+Danny Carey (drums)
+
+Source Info:
+Recorder: Zoom Q3HD
+Audio Settings: 24-bit, 48 kHz stereo PCM lossless
+Storage Media: Kingston 32 GB ultimateX 100X SDHC
+Batteries: Energizer Ultimate Lithium AA (two)
+Recorded By: Meddle Earth
+
+Transfer: SDHC (.mov file) > SDHC reader > HDD
+Audacity (.mov > .wav) > CD Wave (splits) > dBpoweramp (.wav > .flac, tags)
+Original recording, no EQ, volume increase
+
+Archive Folder: Tool 2014-03-07 Eugene Oregon USA (master) (24bit48kHz) (FLAC)
+Archive Size: 1.18 GB
+Duration: 1 hr 46 min 26 sec
+
+MediaInfo Specs (full details included in specs.txt file):
+24-bit 48 kHz stereo lossless audio split into tracks, FLAC
+
+TLH checksums (verified, ffp, md5 files included)
+
+Setlist:
+01 intro
+02 Hooker With A Penis
+03 Forty Six & 2
+04 new song fragment
+05 Schism
+06 Pushit
+07 Intension
+08 Lateralus
+09 intermission (mostly cut)
+10 drum and synth solo
+11 Jambi
+12 Opiate (begin) > new song fragment > Opiate (end)
+13 Ænema
+14 Stinkfist
+15 outro
+               
+
+<b>RECORDING NOTES:</b>
+This Eugene show is my favorite Tool recording.
+A different perspective, a different aspect;
+I was down in the first set of rows right in front of the stage.
+Fourth seat from center aisle, lined up with Maynard.
+I always make sure to get good seats for Tool shows, but never this good.
+My other recordings always had a bunch of crowd noise in front of me;
+this time the vast majority of crowd was way behind in the distance.
+Here, most crowd noise comes from those few around me by the stage.
+
+Eugene was a special night -- an instant cult classic.
+In contrast to the night before where Portland was a city show,
+outstanding and all, but very business-like,
+Eugene gave off a small-town, college campus vibe; noticeably looser.
+Opiate blew everyone's mind, fractured like a stained glass church window.
+. . . it found me peaking at that stage, what an experience.
+
+If you don't have time to hear the whole recording,
+please listen to just this sample of Opiate.
+It has a trippy middle section, still gives me flashbacks to this very day:
+
+Opiate (begin) > new song fragment > Opiate (end)
+http://www.livepeace.org/Tool_2014-03-07_Eugene.html
+
+
+This recording is in the legal PUBLIC DOMAIN,
+is not for sale, has not been for sale,
+is not and has not been involved in commerce.
+
+Band links:
+http://www.toolband.com
+
+Link to my other original recordings and works in progress:
+http://www.livepeace.org/Recorded_by_Meddle_Earth.html

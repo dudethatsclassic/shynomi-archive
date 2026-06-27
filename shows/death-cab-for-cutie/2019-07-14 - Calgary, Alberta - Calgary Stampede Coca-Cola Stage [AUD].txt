@@ -1,0 +1,49 @@
+Death Cab for Cutie
+Calgary Stampede Coca-Cola Stage
+Calgary, Alberta, Canada
+2019-07-14
+
+TAPER: Sharon
+SOURCE: Core Sound Stealthy Cardioid microphones> CA-9200 preamp> Roland R-05
+MICROPHONE LOCATION: Back of the crowd on the right side 
+RECORDED FORMAT: 24 bit, 48 kHz
+CONVERSION: Audacity > r8brain (converting 24/48 to 16/44.1) > CD Wave (tracking) > Traders Little Helper (Flac 8) > Foobar2000 (tagging)
+FINAL FORMAT: 16 bit, 44.1 kHz
+
+TOTAL TIME: [01:20:48]
+
+Thank You for Today Tour
+
+01  I Dreamt We Spoke Again [03:53]
+02  -talk- [00:10]
+03  The Ghosts of Beverly Drive [03:59]
+04  Long Division [04:16]
+05  Title and Registration [03:35]
+06  -talk- [00:13]
+07  Gold Rush [04:16]
+08  Crooked Teeth [03:14]
+09  No Sunlight [04:03]
+10  What Sarah Said [05:56]
+11  -talk- [00:56]
+12  I Will Follow You Into The Dark [03:43]
+13  I Will Possess Your Heart [08:51]
+14  Autumn Love [04:20]
+15  Black Sun [04:47]
+16  -talk- [00:33]
+17  Expo '86 [03:49]
+18  Northern Lights [03:56]
+19  Cath... [03:54]
+20  -talk- [00:09]
+21  Soul Meets Body [04:01]
+22  -talk- [00:23]
+23  Transatlanticism [07:40] 
+
+Ben Gibbard: lead vocals, guitar, piano
+Nick Harmer: bass
+Jason McGerr: drums
+Dave Depper: guitar, vocals
+Zac Rae: keyboards, guitar
+
+Support the artists by seeing them live and buying their official merchandise.
+http://deathcabforcutie.com/
+Please do not buy/sell this recording or trade in lossy formats. 

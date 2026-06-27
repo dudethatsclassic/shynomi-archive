@@ -1,0 +1,73 @@
+Death Cab for Cutie
+Glastonbury Festival of Contemporary Performing Arts
+John Peel Stage
+Worthy Farm
+Pilton, UK
+June 28, 2015
+
+Lineage: Live Webcast -> AdobeHDS script -> .flv -> Avidemux 2.6 -> .mkv (no transcoding)
+Video: MPEG4 Video (H264) 1280x720 16:9 3400 Kbps 25.00 fps
+Audio: AAC 128 Kbps 44.1 KHz stereo
+
+Setlist: 
+The New Year
+Crooked Teeth
+Doors Unlocked and Open
+The Ghosts of Beverly Drive
+Black Sun
+Little Wanderer
+I Will Possess Your Heart
+You Are a Tourist
+Cath...
+Soul Meets Body
+Transatlanticism
+
+TRT = 58 mins 15 secs
+
+MediaInfo:
+General
+Unique ID                                : 272936092069049108400433007130713560310 (0xCD55944A836199A221504985C42494F6)
+Complete name                            : Death Cab for Cutie - 2015-06-28 Glastonbury Festival [720p].mkv
+Format                                   : Matroska
+Format version                           : Version 2
+File size                                : 1.41 GiB
+Duration                                 : 58mn 15s
+Overall bit rate                         : 3 461 Kbps
+Writing application                      : Lavf54.63.104
+Writing library                          : Lavf54.63.104
+
+Video
+ID                                       : 1
+Format                                   : AVC
+Format/Info                              : Advanced Video Codec
+Format profile                           : Main@L3.1
+Format settings, CABAC                   : Yes
+Format settings, ReFrames                : 2 frames
+Codec ID                                 : V_MPEG4/ISO/AVC
+Duration                                 : 58mn 15s
+Width                                    : 1 280 pixels
+Height                                   : 720 pixels
+Display aspect ratio                     : 16:9
+Frame rate mode                          : Constant
+Frame rate                               : 25.000 fps
+Color space                              : YUV
+Chroma subsampling                       : 4:2:0
+Bit depth                                : 8 bits
+Scan type                                : Progressive
+Default                                  : Yes
+Forced                                   : No
+
+Audio
+ID                                       : 2
+Format                                   : AAC
+Format/Info                              : Advanced Audio Codec
+Format profile                           : LC
+Codec ID                                 : A_AAC
+Duration                                 : 58mn 15s
+Channel(s)                               : 2 channels
+Channel positions                        : Front: L R
+Sampling rate                            : 44.1 KHz
+Compression mode                         : Lossy
+Delay relative to video                  : 7ms
+Default                                  : Yes
+Forced                                   : No

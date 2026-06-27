@@ -1,0 +1,13 @@
+Tool - 2002.11.23
+Lawlor Event Center - Reno, NV, USA
+version 3
+
+media type: SHN
+source: Danish Pro Audio 4061 > CSBB/120 > Zefiro Inbox > Sony TCD-D8 > 2nd Gen CDR > SHN
+taper: unknown
+trade status: can trade
+
+disc 1 - 8 tracks - 61:49
+disc 2 - 6 tracks - 79:52
+
+notes: none

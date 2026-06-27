@@ -1,0 +1,46 @@
+Pixies - Torhout Festival 1991-07-06 (audience, master)
+Running time ~57 minutes.
+
+01. Rock music
+02. Debaser
+03. Gouge away
+04. Hang wire
+05. The happening
+06. Allison
+07. Velouria
+08. Into the white
+09. Is she weird
+10. Subbacultcha
+11. Planet of sound
+12. Mr. Grieves
+13. The sad punk
+14. Here comes your man
+15. Where is my mind
+16. The holiday song
+17. Vamos
+18. Tame
+19. Head on
+
+Lineage: 
+Sennheiser MKE-40 -> Sony WM-D6C -> TDK-SA tapes -> Denon tape deck -> Edirol UA-1EX USB analog input -> WAV (44.1kHz 16bit) -> Adobe Audition -> FLAC
+
+FFP-checksums:
+01. Rock music.flac:d30186a0dbf9dea7b82c24cb9127390c
+02. Debaser.flac:113da713c9b6a61fabc76ac57a99a84e
+03. Gouge away.flac:d632df9e9ce62e3589335ceb592cd6fd
+04. Hang wire.flac:f07382206e2b3b4218d4a5c7a8634934
+05. The happening.flac:4acc4c0365af022b1ae7b07e43b1444c
+06. Allison.flac:2b893018cd55081280b7dc356df5e386
+07. Velouria.flac:ca0e11f2e7f41093383615dbe1167ade
+08. Into the white.flac:9a8722335de29d7dd4be189f6d94bc7c
+09. Is she weird.flac:c96f08418244c9078073e4c877e76795
+10. Subbacultcha.flac:6c0cadbc6f5f30a6183ce29ba1c901c1
+11. Planet of sound.flac:d4a689652e3341ea5641e2adbe26f35b
+12. Mr. Grieves.flac:ddce7440b07c93ccaf94745f012dd4c1
+13. The sad punk.flac:25f79faa422ac13b23eb6c3ebc245692
+14. Here comes your man.flac:943acc52b3b36e839e8128e1ca4f1302
+15. Where is my mind.flac:dccd1a9df7bf7c31c6ff87bc546577dd
+16. The holiday song.flac:e89d0fbd386f80a2bd196fb0c50c32ab
+17. Vamos.flac:705b2617b7b124c8cc44805d8b367057
+18. Tame.flac:b8262da9cc600e6210fcd43f70022060
+19. Head on.flac:6da6f8180297a5d18a19477985b18bc7

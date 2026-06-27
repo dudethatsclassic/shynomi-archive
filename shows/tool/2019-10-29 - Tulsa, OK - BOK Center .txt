@@ -1,0 +1,12 @@
+Tool - 2019.10.29
+BOK Center - Tulsa, OK
+Version 4
+
+source: Audio Technica AT-831s > Sound Professionals Battery Box > Edirol R-09 (line-in @24/48)
+transfer: Edirol R-09 (line-in @24/48) > WAV > Wavelab  (mastering) > TLH > FLAC
+modifications: magik
+taper: Adam Lancaster
+
+Setlist - 1 track - 135:41
+
+notes: taped from center floor, 25 rows from stage.  Left channel had issues, was replaced with right.

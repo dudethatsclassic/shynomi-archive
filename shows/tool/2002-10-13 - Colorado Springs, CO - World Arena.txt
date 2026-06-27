@@ -1,0 +1,13 @@
+Tool - 2002.10.13
+World Arena - Colorado Springs, CO, USA
+version 4
+
+media type: SHN
+source: Core Sound Cardioids > Sony MZ-R700 > optical out > Phillips CDR > EAC > SHN
+taper: Tractor
+trade status: can trade
+
+disc 1 - 10 tracks - 75:37
+disc 2 - 6 tracks - 43:28
+
+notes: none

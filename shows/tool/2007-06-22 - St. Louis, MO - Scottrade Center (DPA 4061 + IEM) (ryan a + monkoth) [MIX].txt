@@ -1,0 +1,67 @@
+Tool
+Friday June 22, 2007
+Scottrade Center
+Saint Louis, MO
+USA
+
+
+
+Source 1:    Danish Pro Audio 4061 mics > Danish Pro Audio MMA6000 preamp > Edirol R-09 (line in, 24bit/48kHz wav)
+Source 1 taper: Ryan A
+Location:    21st row on the floor, dead center 
+Transfer 1:  Edirol R-09 (SD flash card) > USB > wav @ 24bit/48kHz > Hard drive > Mastering (see below)
+
+Source 2:    IEM > Microtrack 24/96 (16bit/44kHz wav) 
+Source 2 taper: monkoth
+Transfer 2:  Microtrack 24/96 (Compact flash card) > USB > wav @ 16but/44.1kHz > Hard drive > Mastering (see below) 
+
+Mastering by Ryan A
+	     1) Wavelab 5.0 
+                - To source 1: Waves Renaissance EQ (lowcut at 77Hz, bell shaped decrease of -2.7db @ 4117Hz, -0.3db high shelf @ 11,645Hz)
+                               Normalize to -0.3db, resample and dither (using Apogee UV22 HR) to 16bit/44.1kHz
+                - To source 2: Waves X-Noise Plugin to rid the static, normalize to -0.3db
+                - Mixing the sources: Wavelab Audio Montage function (Source 1: 0db, Source 2: between -0.50db to -5.85db depending on the song)
+             2) T-RackS Standalone Analog Mastering Suite for PC (version 2.0.1)
+                - EQ (high cut @ 15.7kHz), Compression (ratio 1.65:1, input drive -0.9db), Limiter off 
+             3) CD Wave 1.95 (tracking) > Flac Frontend 1.7.1 (Level 6 Flac Compression) > Flac
+
+Set (124:07)
+
+01) Intro - Jambi
+02) Stinkfist
+03) The Pot
+04) Forty-Six & 2 intro
+05) Forty-Six & 2
+06) Schism intro
+07) Schism
+08) Lost Keys
+09) Rosetta Stoned
+10) Ambient jam (with Intension teaser)
+11) Right in Two 
+12) Intermission
+13) Wings for Marie
+14) 10,000 Days
+15) Lateralus (extended jam in the middle with members of Melt Banana) 
+16) Vicarious 
+
+* DO NOT SELL THIS RECORDING UNDER ANY CIRCUMSTANCE.
+** Do not compress to lossy formats (ie. mp3) and distribute.
+*** Do not remaster/edit/alter the recording without permission from the taper
+
+Notes:
+This one sounds great. I spent a lot of time on it because the performance is tremendous and deserves a good recording. 
+It was the best performance of the five 10k Days shows I saw, and one of the best from the 2006-2007 tour I think. 
+Maynard was in a good mood and all the band members were tight and locked in. An extended set was played - just over two hours. 
+I believe it was the first (and as of October 2007 - the only) time all the songs from the 10K Days album (except Intension) 
+were played in the same night. If you like Rosetta Stoned and Right in Two then you'll love this show. Those two were the 
+definite highlights. Even though I'd heard the song a thousand times, I was blown away when they finished Rosetta Stoned.
+Eyes wide, hair standing on end. Perfection.     
+
+Oh, and about the loud 'WHOOOOO' at the very end of the show (you'll know when you hear it). That was me. Sorry. 
+Explanation: there was a dumb fuck two seats to my right who would not stop yelling Whoo Hooo the entire show.  
+A grown adult man sounding like a 12 year old girl at a Hannah Montana show. I told him to shut up a few times during the
+show but he was unrelenting. Finally after Vicarious, while he was WhoooHooing at the top of his lungs again, I got fed up
+and turned to him and screamed "WHOOOOOO" a few times into his face. He stopped and looked at me with the most confused 
+look on his face. 
+    
+ 

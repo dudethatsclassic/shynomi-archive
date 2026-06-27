@@ -1,0 +1,15 @@
+Tool - 2001.11.07
+General Motors Place - Vancouver, British Columbia, Canada
+version 3
+
+media type: FLAC 
+source: Sony Stero Mic > Sony WM-D3 > Denon DRM 500 > Wavelab 3.0 > 1st Gen CDR > EAC > WAV > FLAC
+taper: Audioarchivist U - 101 
+trade status: can trade
+
+disc 1 - 24 tracks - 133:49
+
+notes: none
+
+
+

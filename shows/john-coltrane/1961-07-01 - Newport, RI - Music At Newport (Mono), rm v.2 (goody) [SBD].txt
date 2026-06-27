@@ -1,0 +1,57 @@
+John Coltrane Quartet (and Quintet)
+"Music At Newport" (Thanks to StuHanson for this info and his comments below #)
+Newport, RI
+07-01-61
+Mono SBD
+
+A Goody Speed/Pitch-adjusted Remaster v.2, via jimitrane
+
+
+Source/Lineage: Reel to Reel Master /TEAC Reel to Reel Deck/Nakamichi CR2A/ Philips CR-765 / flac - dime >
+
+Goody's additional lineage 1/16/11: 
+dBpoweramp (WAV) > Cool Edit Pro (Pitch Bender -50 cents) > Trader's Little Helper (FLAC Level 8, ffp) >
+
+New updates 3/27/21:
+TLH (WAV) > Capstan > iZotope RX 8 Advanced (Wow & Flutter repair; Phase repair) > Audition (Channels aligned; levels adjusted; fade) >
+TLH (FLAC Level 8; Align sector boundaries; .ffp) > foobar2000 (tags)
+
+
+Lineup:
+John Coltrane: Tenor and Soprano Sax
+McCoy Tyner: Piano
+Reggie Workman: Bass
+Elvin Jones: Drums
+
+Art Davis: Bass (add to 'MFT')*
+
+
+1. Introductions 01:27
+2. Impressions 06:20
+3. Naima 04:18
+4. My Favorite Things 16:26*
+----------------------------------
+Runtime: 28:31
+
+
+
+Updated from the original notes by jimitrane:
+"This is my personal thank you for all the great shows I received from this site; also, an invitation for some of you to post something really rare this week. We all need to hear this. This is Trane's holy grail missing Newport show from 1961. I recently located my master cassette that I transferred from a reel to reel master mono soundboard back in the late 70s. I figured that I would give my Nakamichi a try on this recording and go straight into my Philips CDR with no EQ or messing. This recording has such an intimate feel. You can hear Trane tap in the count for "Impressions".  You can hear the squeak of Elvin's hi-hat during Naima. Remember this is a recording from 1961. Trane adds Art Davis on 'My Favorite Things', bringing the number to two bassists on that tune - he hadn't settled on Jimmy Garrison yet, but McCoy and Elvin are here. The announcer introduces the first song as "So What", but Trane rips into "Impressions" instead. I've never traded this show but it's time for everyone to hear it. It's a shame there isn't more."
+
+
+Dimeadozen comment#4494005 by StuHanson at 2011-01-12 21:06:30 GMT
+	"This is great. Thank you for sharing!  For the sake of accuracy though, there was no 1961 Newport Jazz Festival. Seriously. This Coltrane recording is from "Music At Newport," an entirely different one-off event that happened in Newport that summer. Here's a basic synopsis of what happened (from the Newport Jazz Festival wiki). You can also read about it in depth in George Wein's highly recommended autobiography.  Stu
+
+In 1960 boisterous spectators created a major disturbance, and the National Guard was called to the scene. Word that the disturbances had meant the end of the festival, following the Sunday afternoon blues presentation headlined by Muddy Waters, reached poet Langston Hughes, who was in a meeting on the festival grounds. Hughes wrote an impromptu lyric, "Goodbye Newport Blues," that he brought to the Waters band onstage, announcing their likewise impromptu musical performance of the piece himself, before Waters pianist Otis Spann led the band and sang the Hughes poem.
+
+Presentation of the proper Newport Jazz Festival was disallowed in 1961 due to the difficulty of the previous year's festival. In its place, another festival billed as "Music at Newport" was produced by Sid Bernstein in cooperation with a group of Newport businessmen. That festival included a number of jazz musicians but was financially unsuccessful. Bernstein announced that he would not seek to return to Newport in 1962. The Newport Jazz Festival resumed at Freebody Park in 1962."
+
+
+Goody's notes:
+I remastered this essential archive many years ago and with the help of some newly acquired software I've been able to upgrade it and further improve how it sounds. No longer is there an issue with wow & flutter, the biggest audio problem I faced other than the speed/pitch that was adjusted a little over ten years ago. That big audio flaw is now virtually (if not completely) gone now! I've also aligned the tracks and adjusted their levels while I took the opportunity to reexamine them once again. To my knowledge, these tracks have never sounded this good since the day someone captured and saved the music nearly 60 years ago; a giant debt of gratitude is owed to whomever that might have been! Other small audio improvements have also been applied here, the tracks are now titled more specifically than how I labeled them before and they're tagged as well. 
+
+Tying it all together, new covers have been added to the package courtesy of our art department, ethiessen1 (Thanks!) Two options - color and black & white - are included here in 2 resolutions, and we've thrown in some additional documents for you as well. 
+
+I'm very proud of the differences and improvements in this v.2 remastered set and it gives me great pleasure to present it to you now! This music is seminal, to say the very least. But y'all already know that...
+
+Text updated for this edition - March 27, 2021

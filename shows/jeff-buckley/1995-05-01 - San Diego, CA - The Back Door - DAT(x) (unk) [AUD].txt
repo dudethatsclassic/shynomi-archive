@@ -1,0 +1,48 @@
+Jeff Buckley
+1 May 1995
+The Back Door, San Diego, CA
+
+LINEAGE: AUD > DAT(x) > MD(?) > CD(x) > EAC > FLAC
+Rolloff at around 19k suggests a lossy heritage in source. (probably MD)
+
+Set List:
+---------
+01 Intro
+02 Dream Brother
+03 Chocolate -> Mojo Pin
+04 So Real
+05 Last Goodbye
+06 What Will You Say
+07 Lilac Wine
+08 Eternal Life
+09 Kick Out The Jams
+10 That's All I Ask
+11 (talk)
+12 Grace
+13 Lover, You Should've Come Over
+14 I Know It's Over
+15 Hallelujah
+
+TT: 1:44:03
+
+Jeff Buckley - Guitars & Vocals
+Michael Tighe - Guitars
+Mick Grandahl - Bass
+Matt Johnson - Drums 
+
+
+After Texas, the band took a travel day before heading west to LA, where we are blessed with an amazing five-day run of eight recordings, beginning with this one from the Back Door, in the SDSU's Aztec Centre. The former bowling alley was repurposed to a coffee house cum concert venue, and like so many similar venues around the country, hosted many superstar bands in their infancy and, on May Day 1995, that included Jeff & the boys.
+
+This is an audience recording - probably from a DAT source originally, but well-removed from its source, per the lineage. Nonetheless, it sounds great, and is apparently the entire show, but "Hallelujah" cuts during the final applause, so it's likely the usual "Vancouver/Kanga-Roo" was not recorded. Even without those, it's a nice long show.It's a fairly standard show from this time. The central rock-out section has now been expanded from Eternal Life & Kick Out The Jams to include a much harder, heavier, almost unrecognisable version of Horace Ott's "That's All I Ask", made famous by Nina Simone, and apparently now called "Two Ninjas (That's All I Ask)" if Columbia's notes on the officially-released King Theatre show are to be believed.
+
+Apparently Jeff's family was at this show: https://notwithyoubutofyou.blogspot.com/2017/11/the-back-door.html He mentions that his grandmother is at the show before "So Real". 
+
+I got this from Buckley super-fan eclect's upload in the early aughts, and apart from some housekeeping, present it to you unchanged.
+
+Files verified, tagged, and renamed to etree conventions; new checksums generated. 
+Text file updated, compiled & copy-edited by lovesick alien 2024-09-27
+--------------------------------------------------------------------------------
+Trade Freely. Never Sell. 
+Support the Artist: Purchase ALL authorised releases. 
+Support the Trading Community: Never Encode to lossy formats.
+--------------------------------------------------------------------------------

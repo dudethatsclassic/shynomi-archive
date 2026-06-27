@@ -1,0 +1,79 @@
+
+**********************
+24 bit / 48000 Hz version
+**********************
+
+Band: The Flaming Lips
+Date: 2010-09-26 (Sunday)
+Title: The Most Pot Smoke That I've Smelled
+Venue: Malkin Bowl (outdoors, capacity - 2,000) - Vancouver, British Columbia, Canada
+Location: General Admission - mics on a stand, slightly left of centre, fob
+Source: Audience Matrix - open air
+Recordist: Seth Meister
+Lineage: Church Audio CA-11 (cardioid) > Church Audio ST-9100 v3.0 pre-amp with bass roll off turned off > Zoom H4n XLR Input (24/48) + Church Audio CA-11 (omnidirectional) > CA-UGLY > Zoom H4n 1/8" Input (24/48) > Wavepad Masters Edition v6.05 (mixdown, track splitting, fades) > Trader's Little Helper v2.7.0.172 (flac 8)
+Sound Quality: 9/10 
+
+Total .flac size: 1.18 GB
+
+-----------
+Setlist: (01:56:42)
+00 soundcheck - 07:53
+01 Wayne Coyne rain speech - 03:33
+02 The Fear - 07:53
+03 Worm Mountain - 06:12
+04 ...pot smoke... - 01:03
+05 Silver Trembling Hands - 07:24
+06 She Don't Use Jelly - 05:41
+07 The Sparrow Looks Up at the Machine - 10:41
+08 Wayne Coyne speaks again - 02:35
+09 In the Morning of the Magicians - 06:42
+10 I Can Be a Frog - 07:32
+11 Yoshimi Battles the Pink Robots Pt. 1 - 05:43
+12 See The Leaves - 10:28
+13 The Ego's Last Stand - 06:15
+14 Sagittarius Silver Announcement - 05:47
+15 The W A N D - 03:55
+16 encore and speech - 03:47
+17 Do You Realize? - 08:32
+18 post show crowd - 03:41 [*]
+19 Wayne Coyne closing speech - 01:25 [*]
+
+********************************************** 
+
+Opening act was Ariel Pink's Haunted Graffiti.  It rained heavily that day but thankfully it stopped before the show. 
+
+This was openly taped with mics on a stand near the soundboard.  The last two tracks are patched with LeifH's analog source (CSB > Sony WM D6C > Maxell XL-II) which was taped from the pit.  [*]
+
+Remember that this recording was made binaurally.  It will naturally sound much better with a pair of headphones & cranked up loud!
+
+Peace & enjoy,
+Seth
+
+
+FFP's:
+flaminglips20100926matrix00 - soundcheck.flac:2c46433e08014488af1aff4c8f2d8fb6
+flaminglips20100926matrix01 - Wayne Coyne rain speech.flac:e4cc8aa0aac96a4fc2222999f2d8f2bb
+flaminglips20100926matrix02 - The Fear.flac:c8f33174629bf2011716cb49a0153cf1
+flaminglips20100926matrix03 - Worm Mountain.flac:8e99de7f391f0aea39ce7900ec2069f6
+flaminglips20100926matrix04 - pot smoke.flac:a0a02db61fa8210cc7751a0cb2b4565b
+flaminglips20100926matrix05 - Silver Trembling Hands.flac:e179bc271b67866d6eee98729e9eb343
+flaminglips20100926matrix06 - She Don't Use Jelly.flac:95297a884bd733b561362a6a6f8e29ce
+flaminglips20100926matrix07 - Sparrow Looks Up.flac:c0926311e1fa1f384f2590b05c5149dc
+flaminglips20100926matrix08 - Wayne Coyne speaks again.flac:e8b10af1bb45f00b38804ce889ae2a83
+flaminglips20100926matrix09 - In the Morning of the Magicians.flac:93a3a6d62a524422e8ffe4cff87a9438
+flaminglips20100926matrix10 - I Can Be a Frog.flac:b2a99003790fc379bb8559da1168e572
+flaminglips20100926matrix11 - Yoshimi Battles the Pink Robots.flac:40e3979c212296b19242e70ce2ffca31
+flaminglips20100926matrix12 - See The Leaves.flac:237b9a6b139dfc677c975836d9e21284
+flaminglips20100926matrix13 - The Ego's Last Stand.flac:9db58ab10e021725d2a3d23aa46a0c99
+flaminglips20100926matrix14 - Sagttarius Silver Announcement.flac:d5d34e39caae1d418c7c10b4fd2bc419
+flaminglips20100926matrix15 - The W A N D.flac:8d8fbde3e9fd0d3e21090a63ee8072f0
+flaminglips20100926matrix16 - encore and speech.flac:42cace1c7e84aadc44d4792c7f53fa9e
+flaminglips20100926matrix17 - Do You Realize.flac:437a8be4241ea717e33f00d9296557b1
+flaminglips20100926matrix18 - post show crowd.flac:0b7d91ece29281fdfc99d21cf0050359
+flaminglips20100926matrix19 - Wayne Coyne closing speech.flac:8fe9eac9fa3a13a3128e2a7ac43f581e
+
+
+*****************************************
+Please share this recording freely. 
+Do not encode to .mp3 (or any other lossy format).
+*****************************************

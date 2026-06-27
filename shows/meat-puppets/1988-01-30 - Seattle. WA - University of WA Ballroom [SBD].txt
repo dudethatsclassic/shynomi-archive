@@ -1,0 +1,15 @@
+2e198c19fc940f7fca3e11766a7b1a6a  [shntool]  01ShesHot.flac
+7c232e5acfbe650066bab38e5f583ba5  [shntool]  02SwimmingGround.flac
+a3a3d3326f80642a01e8bf858ef0fff4  [shntool]  03BadLove.flac
+9b124163965834dfbd7033eb6b7f0d18  [shntool]  04AutomaticMojo.flac
+79f28b487bb9b6e7ba2b79111a8e7235  [shntool]  05NotSwimmingGround.flac
+baa48c0272aaa4c3a80bdde8e2bca6f9  [shntool]  06HotPink-UpOnTheSun.flac
+d67f9052e04fff524ee99317e36b24c2  [shntool]  07GetOnDown.flac
+a4043d142462a38cc9408bcc0359e7ab  [shntool]  08Space-Paradise.flac
+821c2dbbfab779cffcdcb98fe08ae4ae  [shntool]  09HeStoppedLovingHerToday.flac
+1ed9f3a49331e663064f3d645f301375  [shntool]  10OneOfTheseDays.flac
+56dfe01c0e69bebd746cfad2ad1d84c8  [shntool]  11OutMyWay.flac
+578d5e32fc092fa4398e794bacf0cf06  [shntool]  12WalkThroughThisWorldWithMe.flac
+ca7af56b9bb51cc62f65a026f0971766  [shntool]  13MaidensMilk-Utopia-Liquified.flac
+a58d2ea394e25b17c1bc7b3521b960a3  [shntool]  14Rain-ShesSoHeavy.flac
+1ceda721aa75c220d7bb68650eff5c64  [shntool]  15IWannaBeYourDog-MexicanBlackbird-TumblinTumbleweeds-AllRightNow-IJustWantToMakeLoveToYou.flac

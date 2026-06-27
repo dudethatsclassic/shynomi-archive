@@ -1,0 +1,53 @@
+TOOL
+====
+June 25th, 2006
+T-Mobile Arena
+Prague - Czech Republic
+
+Audience Recording
+PAL - 720x576 - 4:3 - 900 kb/s
+Stereo PCM - 1536 kb/s
+
+TRACKS
+------
+Lost Keys (Blame Hofmann)
+Rosetta Stoned
+Stinkfist
+Forty Six & 2
+Jambi
+Schism
+Right in Two
+Sober
+The Pot
+Lateralus
+Vicarious
+Ænema
+-----
+
+
+VIDEO
+-----
+source: Digital8 DCR-TRV255E > Sony HDD DVD recorder RDR-HX750 > DVD (PAL, 2 disc)
+filmed by: zizlator
+
+AUDIO
+-----
+Mix from two sources
+
+source 1: Sanken COS-11sPT Red Marks > Sound Professionals SP-SPSB-1 > Sharp MD-MT888h > MD Master > Sony MZ-RH1 > USB > WAV > Audacity (dED) > FLAC-8
+taper: mmuzik[AT]gmx[DOT]net
+
+source 2: Digital8 DCR-TRV255E > Sony HDD DVD recorder RDR-HX750 > DVD
+-------------------------
+notes: shot from balcony.  
+The Pot & Vicarious missing some seconds at the beginning.
+Ænema cut. Ran out of tape.
+--------------------------
+*2024 NOTES*
+New audio mix from two sources.
+Eq, levels adjustments, sync and others.
+
+Thanks to zizlator & mmuzik[AT]gmx[DOT]net for their recordings.
+----------------------------------
+Audio mix & authoring by Alvarojam
+January 25, 2024

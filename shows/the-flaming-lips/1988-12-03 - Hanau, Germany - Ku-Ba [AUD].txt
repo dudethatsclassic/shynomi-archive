@@ -1,0 +1,103 @@
+FLAMING LIPS
+KU-BA, Hanau, Germany
+December - 03 - 1988
+
+
+
+---
+from SEETHELIGHT7 collection # 279
+THE RAW TAPES VOL. 8
+---
+
+
+
+Rec. Info:
+Unknown audience recording -> ? -> Cassette (TDKSA90) -> playback on Harman Kardon CD491 ->
+ALCrec. -> WAV -> Soundengine (edit/remaster) -> WAV -> TLH8 -> FLAC -> DIME -> 
+YOUR EARS AND MIND...
+Thanks to STARMELT99 for help with the setlist. At least for some tunes here...
+
+
+---
+In complete contrast to the before posted 1988-12-09 Gammelsdorf show, where almost no bass
+was present, this recording has unfortunately more than enough. While lower parts come out
+very clear and crisp, the higher volume sequences are marred by overpowered bass booms. On the
+original tape it was tried to reduce this by cutting off all bass, making it terribly thin
+sounding. I tried to restore this, but with the result of some very fuzzy moments. Scratching 
+the door...Anyway, I know that some of you out there are really die-hard FLIPS collectors, and
+don't be shy, it isn't that bad either. Also, it should be noted, that on tracks 3+4 a very
+looney "LABERKOPP" (as I think they say in Frankfurt-Area-German for DUMBCHATTER) is talking
+straight to the taper. My oh my...You never can tell, what good or bad surprises these old tapes
+are giving to you...SB
+---
+
+
+FROM OK CITY TO FFM AREA 54...
+
+
+FULL SHOW (76:22 min.)
+
+01. ... (6:04)
+02. Peace love and understanding (3:31) *
+03. One million billionth of a milisecond on a sunday morning (10:06)
+04. Charlie Manson's blues (5:46)
+05. ... (4:24)
+06. Drug machine in heaven (2:50)
+07. With you (5:04)
+08. Summertime blues (2:56) **
+09. Right now (6:00)
+10. Scratching the door -> Who do you love -> Scratching the door (11:50)
+11. ... (8:41)
+12. Staring at sound (6:24)
+13. Death valley '69 (2:44) ***
+
+
+* Elvis Costello cover
+** Eddie Cochran cover, but WHO version
+*** Sonic Youth cover
+
+
+FLAMING LIPS...
+
+WAYNE COYNE - vocals, guitar
+MICHAEL IVINS - bass
+JONATHAN DONAHUE - guitar (?)
+RICHARD ENGLISH - drums  (thanks for correction!)
+
+
+
+ffp:
+FLIPS 1988-12-03_t01.flac:d3d60239b3e0bd50af5adc379b2fe8ce
+FLIPS 1988-12-03_t02.flac:28015496f6ab5af092d07f946b819da9
+FLIPS 1988-12-03_t03.flac:6e5c048c820701f1c3c82645abd23d32
+FLIPS 1988-12-03_t04.flac:0ef8cf601a35fc6ae7235c51edc9db87
+FLIPS 1988-12-03_t05.flac:80c27fb143b37764400c71444e11d7f2
+FLIPS 1988-12-03_t06.flac:d15bc51fe8fa42ea14ea399c508bf989
+FLIPS 1988-12-03_t07.flac:85a4a627ff3a4630ee4bcdbf1907a256
+FLIPS 1988-12-03_t08.flac:69a596bb9d096c70c44dfd23eb19acce
+FLIPS 1988-12-03_t09.flac:b830ffbab42bdd76a8c6a2a5e1f348f0
+FLIPS 1988-12-03_t10.flac:38e6e6a8e0a03bb65b89f7cd0fbf1478
+FLIPS 1988-12-03_t11.flac:35b016f00ce0e4e680a7816f7ef17bc2
+FLIPS 1988-12-03_t12.flac:043cf0e6eb0b295cc9b1f00a33d48474
+FLIPS 1988-12-03_t13.flac:fb8964865436a605c5bd38d67d07dad7
+
+No errors occured.
+
+
+md5:
+62c50644eb1108f120ccdcd1cd715aed *FLIPS 1988-12-03_t01.flac
+9080ec6ca1037c599819dbcdf4ffde46 *FLIPS 1988-12-03_t02.flac
+04534d611dead2ae367fa0e671c19861 *FLIPS 1988-12-03_t03.flac
+b94fd684e422f6a58c974b8aaa76d696 *FLIPS 1988-12-03_t04.flac
+cf75c72c8365bfcfc95e01f96cccfd74 *FLIPS 1988-12-03_t05.flac
+56163db5d07088ea5c90e4e0b646e78b *FLIPS 1988-12-03_t06.flac
+9ca77924e657e03454d648d259f5b8b2 *FLIPS 1988-12-03_t07.flac
+2866e647c55cca7ab6ca759bbfb50c59 *FLIPS 1988-12-03_t08.flac
+ee1aedaa83c272e29047d953a0be958d *FLIPS 1988-12-03_t09.flac
+6f2ca57e420174f72817143cacdc58f4 *FLIPS 1988-12-03_t10.flac
+c07732de48d62c06eaa0a5b0d89af2f7 *FLIPS 1988-12-03_t11.flac
+9cfd74aa6b90f02e02b021bad777c4fa *FLIPS 1988-12-03_t12.flac
+76af223165ec62bb944dd75c7d3240f8 *FLIPS 1988-12-03_t13.flac
+62858f5f01fd4e073f94e55858c7f463 *the txt of FLAMING LIPS - 1988-12-03 - HANAU.txt
+
+No errors occured.

@@ -1,0 +1,48 @@
+Jeff Buckley & Gary Lucas
+1991-11-01
+The Knitting Factory, NYC
+
+FAN-SHOT VHS transfer
+
+(Presumed lineage: VHS -> ?Gens -> trade DVDr -> HD) -> MakeMKV -> mkv
+
+TT 51:22
+
+Gary Lucas solo:
+01 00:00 Spacey Echoplex Intro
+02 01:29 Dobro song
+03 02:28 Echoplex guitar with Autobahn hints
+04 05:38 Foolscap
+05 11:55 Hard-Working, Fucked-Over Man
+06 16:15 Robert's Johnson
+07 18:28 I'm Afraid it Will Have To Be Done Professionally
+08 22:26 Cosmics (For Nick Cave)
+
+GL with JN/MB
+09 27:14 Instrumental
+
+GL & JB
+10 31:41 Bluebird Blues
+
+Full band
+11 37:35 Mojo Pin
+12 42:40 Grace
+13 47:15 Instrumental
+
+Gary Lucas - Guitars (all tracks)
+Jeff Buckley- Vocals (tracks 10-12)
+Jared Nickerson - Bass (tracks 9, 11-13)
+Michael Blair - Drums (tracks 9, 11-13)
+
+I received this on a DVDr in a trade many years ago, as VIDEO_TS and its associated files. As there were no chapters, I converted it to mkv for easier watching. 
+
+To the best of my knowledge, this is the earliest known video of Jeff Buckley. The video is the complete show, including Gary Lucas' set. Personally, I'm not a fan of Lucas: I find his playing too busy, and full of 'look at what I can do' technical stuff without a lot of substance. However - he did write the music for Grace and Mojo Pie, arguably the two greatest Buckley originals, so there's that. And without G&M, Buckley would not have come to the attention of Nick Hill at WFMU-FM's Music Faucet. But let's leave that for now.
+
+The quality is not the greatest, due to the VHS generations, and there are a few glitches: at 01:40 someone apparently recorded over the tape for 4 seconds(!), but despite that, we have the earliest band performances of Mojo Pin and Grace which, apart from the superfluous Lucas guitar freak-outs, remained remarkably unchanged two years later when they were finally committed to tape.
+
+Files created, and named to etree conventions; new checksums generated. Text file updated, compiled & copy-edited by lovesick alien 2024-09-09
+--------------------------------------------------------------------------------
+Trade Freely. Never Sell. 
+Support the Artist: Purchase ALL authorised releases. 
+Support the Trading Community: Never Encode to lossy formats.
+--------------------------------------------------------------------------------

@@ -1,0 +1,24 @@
+shntool 3.0.4
+Copyright (C) 2000-2007 Jason Jordan <shnutils@freeshell.org>
+
+    length     expanded size    cdr  WAVE problems  fmt   ratio  filename
+     7:14.17       76597628 B   ---   --   ---xx   flac  0.5655  ccorea1993-03-08d1t01.flac
+     7:02.32       74516108 B   ---   --   ---xx   flac  0.5453  ccorea1993-03-08d1t02.flac
+     6:44.66       71420876 B   ---   --   ---xx   flac  0.5577  ccorea1993-03-08d1t03.flac
+     6:23.16       67598876 B   ---   --   ---xx   flac  0.5590  ccorea1993-03-08d1t04.flac
+     6:34.17       69541628 B   ---   --   ---xx   flac  0.5575  ccorea1993-03-08d1t05.flac
+    10:04.10      106569164 B   ---   --   ---xx   flac  0.5481  ccorea1993-03-08d1t06.flac
+     9:44.36      103102316 B   ---   --   ---xx   flac  0.5179  ccorea1993-03-08d2t01.flac
+     8:44.60       92574764 B   ---   --   ---xx   flac  0.5032  ccorea1993-03-08d2t02.flac
+     2:57.05       31234604 B   ---   --   ---xx   flac  0.5107  ccorea1993-03-08d2t03.flac
+     0:51.57        9130508 B   ---   --   ---xx   flac  0.5244  ccorea1993-03-08d2t04.flac
+     1:21.30       14359004 B   ---   --   ---xx   flac  0.5253  ccorea1993-03-08d2t05.flac
+     1:21.24       14344892 B   ---   --   ---xx   flac  0.5142  ccorea1993-03-08d2t06.flac
+     1:51.42       19679228 B   ---   --   ---xx   flac  0.5414  ccorea1993-03-08d2t07.flac
+     1:28.55       15652604 B   ---   --   ---xx   flac  0.5146  ccorea1993-03-08d2t08.flac
+     0:42.07        7425308 B   ---   --   ---xx   flac  0.5708  ccorea1993-03-08d2t09.flac
+     5:45.54       60985052 B   ---   --   ---xx   flac  0.5570  ccorea1993-03-08d2t10.flac
+     7:46.01       82204796 B   ---   --   ---xx   flac  0.5800  ccorea1993-03-08d2t11.flac
+     5:36.35       59352764 B   ---   --   ---xx   flac  0.5323  ccorea1993-03-08d2t12.flac
+     6:34.67       69659228 B   ---   --   ---xx   flac  0.5737  ccorea1993-03-08d2t13.flac
+    98:49.31     1045949348 B                            0.5455  (19 files)

@@ -1,0 +1,104 @@
+Slipknot
+March 8, 2009
+San Diego, California
+Cox Arena
+Lineage: CA-11>CA-9100>Edirol R-09>PC>Adobe Audition>CDWAVE>FLAC
+Taped by: Porcelmc 
+
+_____________________________________________________________
+
+Setlist - Slipknot
+
+01. Intro
+02. 742617000027
+03. (sic)
+04. Eyeless
+05. Wait and Bleed
+06. Get This
+07. Corey Speaks #1
+08. Before I Forget
+09. The Blister Exists
+10. Corey Speaks #2
+11. Dead Memories
+12. Left Behind
+13. Disasterpiece
+14. BREAK
+15. Frail Limb Misery
+16. Purity
+17. Corey Speaks #3
+18. Everything Ends
+19. Psychosocial
+20. Duality
+21. Corey Speaks #4
+22. People = Shit
+23. ENCORE BREAK
+24. Surfacing
+25. Corey Speaks #5
+26. Spit it Out
+
+
+_____________________________________________________________
+
+Notes: Enjoy!
+
+
+
+Sample: https://www.youtube.com/watch?v=95-clSvzm74
+
+ST5 Hash File:
+
+8f4bfbfa32892f3c77d731cdd3da1b90 *01_Intro.flac
+b7f6efec129bb89655e130f311b00145 *02_742617000027.flac
+356797fb351d8e41286de75f1d2886a9 *03_(sic).flac
+9d02aa37da669d1a571b9177bf0d1c98 *04_Eyeless.flac
+dc3922f70a0b8e8ae83a3c096cd615d9 *05_Wait and Bleed.flac
+240bf915ae73541d370a39f153cf1d56 *06_Get This.flac
+10ec468f0991bebd306f12ebb9df3889 *07_Corey Speeks #1.flac
+a59de78d8b70ee7d8018c5adf101bf5f *08_Before I Forget.flac
+ef266993914f1c91b819dc35356d0a56 *09_The Blister Exists.flac
+f25ce735ffded8ef2bfaba6d622c6b96 *10_Corey Speaks #2.flac
+205e9d2a7445e1bfb441584abcf6bca4 *11_Dead Memories.flac
+863d49a174c2d9554f32997128649a3a *12_Left Behind.flac
+46628ac83b96b49752ccccdb7e8cccca *13_Disasterpiece.flac
+a03bc704a335baaf86c61096b184c2b5 *14_Break.flac
+7e452c6b4ba12b808b9d5dc933cc45f0 *15_Frail Limb Nursery.flac
+3b33f8f2e47514d865c741b9e17cf404 *16_Purity.flac
+4f6a8bad001521ef14af24fdca745b36 *17_Corey Speaks #3.flac
+a742cbfbf498c728f3bd92c4ad1bdc55 *18_Everything Ends.flac
+d2ef307c0c84a0706d161fe24234daa7 *19_Psychosocial.flac
+8b99a77a16ada22960699df9fb073e3f *20_Duality.flac
+f46c82a678767e423b813ae7646814b4 *21_Corey Speaks #4.flac
+3e88a876e4cdce5b164f15b524314a39 *22_People = Shit.flac
+310185746ce732484e7d77a937471550 *23_Encore Break.flac
+f4433c6c98229a1f64f0ccb1db88632e *24_Surfacing.flac
+2f5eca5124e6374c44be7e2e611a0651 *25_Corey Speaks #5.flac
+a48f0d3b213e1271d8391b941808ef08 *26_Spit it Out.flac
+
+Flac Fingerprint File:
+
+8f4bfbfa32892f3c77d731cdd3da1b90 *01_Intro.flac
+b7f6efec129bb89655e130f311b00145 *02_742617000027.flac
+356797fb351d8e41286de75f1d2886a9 *03_(sic).flac
+9d02aa37da669d1a571b9177bf0d1c98 *04_Eyeless.flac
+dc3922f70a0b8e8ae83a3c096cd615d9 *05_Wait and Bleed.flac
+240bf915ae73541d370a39f153cf1d56 *06_Get This.flac
+10ec468f0991bebd306f12ebb9df3889 *07_Corey Speeks #1.flac
+a59de78d8b70ee7d8018c5adf101bf5f *08_Before I Forget.flac
+ef266993914f1c91b819dc35356d0a56 *09_The Blister Exists.flac
+f25ce735ffded8ef2bfaba6d622c6b96 *10_Corey Speaks #2.flac
+205e9d2a7445e1bfb441584abcf6bca4 *11_Dead Memories.flac
+863d49a174c2d9554f32997128649a3a *12_Left Behind.flac
+46628ac83b96b49752ccccdb7e8cccca *13_Disasterpiece.flac
+a03bc704a335baaf86c61096b184c2b5 *14_Break.flac
+7e452c6b4ba12b808b9d5dc933cc45f0 *15_Frail Limb Nursery.flac
+3b33f8f2e47514d865c741b9e17cf404 *16_Purity.flac
+4f6a8bad001521ef14af24fdca745b36 *17_Corey Speaks #3.flac
+a742cbfbf498c728f3bd92c4ad1bdc55 *18_Everything Ends.flac
+d2ef307c0c84a0706d161fe24234daa7 *19_Psychosocial.flac
+8b99a77a16ada22960699df9fb073e3f *20_Duality.flac
+f46c82a678767e423b813ae7646814b4 *21_Corey Speaks #4.flac
+3e88a876e4cdce5b164f15b524314a39 *22_People = Shit.flac
+310185746ce732484e7d77a937471550 *23_Encore Break.flac
+f4433c6c98229a1f64f0ccb1db88632e *24_Surfacing.flac
+2f5eca5124e6374c44be7e2e611a0651 *25_Corey Speaks #5.flac
+a48f0d3b213e1271d8391b941808ef08 *26_Spit it Out.flac

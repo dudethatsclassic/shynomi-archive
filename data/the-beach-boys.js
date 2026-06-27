@@ -21,7 +21,8 @@ const ARTIST_DATA = {
       "venue": "Daughters of the American Revolution Hall",
       "notes": "",
       "version": "SBD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1967-11-19 - Washington, DC - Daughters of the American Revolution Hall [SBD].txt"
     },
     {
       "year": 1971,
@@ -34,7 +35,8 @@ const ARTIST_DATA = {
       "venue": "The Bronx / Live Kingsbridge Armory",
       "notes": "",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1971-07-01 - New York, NY - The Bronx - Live Kingsbridge Armory [AUD].txt"
     }
   ],
   "misc": []

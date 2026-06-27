@@ -1,0 +1,11 @@
+Tool - 2001.06.01
+Rock Am Ring - Nuerburgring, Nuerburg, Germany
+
+media type: FLAC 
+source: Soundman OKM-II Rock > Sony SBM-1 > Sony PCM-M1/48 > DAT Master > Sony DTC-ZE700 DAT > Terratec EWX 24/96 > WaveLab V5.0a > Digital Editing > FLAC 
+taper: Sebastian 
+trade status: can trade
+
+disc 1 - 9 tracks - 63:08
+
+notes: As of September 2005, this is the only known source of this show. The band experiences some technical difficulties with the bass guitar after Schism, and doesn't play Lateralus at this show probably as a result of the time running out. EQ in Sony Sound Forge V7.0 via Steinberg FreeFilter V1.1. Volume boost and fades in Steinberg WaveLab V5.0a. Resampling: 48.0 kHz > 44.1 kHz in Steinberg WaveLab V5.0a. Track splits in CD Wave Editor V1.94.7

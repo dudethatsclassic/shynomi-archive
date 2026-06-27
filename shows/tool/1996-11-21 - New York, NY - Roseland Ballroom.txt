@@ -1,0 +1,36 @@
+
+Tool
+Roseland Ballroom: New York, NY
+November 21, 1996
+
+Source: Sony PC-62 > Sony WM-D3
+Lineage: ANA master > DAT1 @ 32kHz > FLAC
+Transfer: Tascam DA-20 > Digital Coax > Behringer Ultramatch SRC2000 (upsample) > Digital Coax > MicroTrack II > Audacity > CDWave > TLH
+Edits/EQ: none
+Taper: JB
+
+Setlist:
+
+01 Intro
+02 Stinkfist
+03 Forty Six & 2 
+04 Swamp Song 
+05 Eulogy 
+06 Prison Sex 
+07 Jimmy 
+08 Hooker with a Penis
+09 Pushit 
+10 Merkaba
+11 Sober
+12 Opiate 
+13 -encore break-
+14 Aenema
+
+Notes: 1st of 2 nights at Roseland. Transferred from my DAT clone received from the taper in 1999. Tape flip after 'Jimmy'. Raw transfer with no fades or EQ.
+
+Archive: DAT clone was transferred @ 32kHz and FLAC'd with cue sheet. 
+
+Transferred by tapeworm(48) 
+Txt file compiled on 1/19/2021
+
+*** DO NOT DISTRIBUTE IN LOSSY FORMATS. DO NOT SELL THIS RECORDING, TRADE IT FREELY *** 

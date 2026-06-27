@@ -1,0 +1,34 @@
+Queens Of The Stone Age
+October 26, 2000
+The Fillmore
+San Francisco, CA
+
+Source: AKG SE300B + CK93's (left of soundboard in "taper's section", mics aimed at inside of stacks) > Lunatec V2 > Sony TCD-D8
+Lineage: DAT-M 16/48 > FLAC
+Transfer: Tascam DA-20mkII (S/PDIF coax out) > MOTU 828mkII (S/PDIF coax in) > BIAS Peak Pro (Mac) > raw .wav file > WavPad > xACT > FLAC
+
+Taper: Vinny Palese
+
+Thanks go to Teddy Ballgame for facilitating this project.
+
+01 Intro
+02 Feel Good Hit of the Summer
+03 Regular John
+04 Quick and to the Pointless
+05 If Only
+06 Ode to Clarissa
+07 Better Living Through Chemistry
+08 Monsters in the Parasol
+09 Leg of Lamb
+10 Millionaire
+11 Avon
+12 You Would Know
+13 The Lost Art of Keeping a Secret
+14 You Can't Quit Me Baby
+15 Punk Rock Caveman Living in a Prehistoric Age
+
+Total Time: 64:36
+
+Notes: Excellent recording.  Other than tracking, this is a raw transfer with no EQ or editing.
+
+.txt compiled on June 21, 2020 by BLG

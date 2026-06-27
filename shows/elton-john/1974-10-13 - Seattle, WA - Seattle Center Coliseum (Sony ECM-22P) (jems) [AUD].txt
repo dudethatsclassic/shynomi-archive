@@ -1,0 +1,75 @@
+Elton John
+Seattle Center Coliseum
+Seattle, WA
+October 13, 1974
+JEMS Full-Track Mono Masters
+
+Recording Gear: Sony ECM-22P Microphone > Tandberg Model 11 Portable Reel to Reel
+
+JEMS Transfer: Mono Master reels > Otari MX-5050 w/full track mono head stack > Sound Devices USBPre 2 capture (24/96) > iZotope RX and Ozone > xACT > FLAC
+
+D & D Patches: First gen cassette > Nakamichi 670 > Wavelab 2496 > .wav
+
+01 Funeral For A Friend > Love Lies Bleeding
+02 Candle In The Wind
+03 Grimsby
+04 Rocket Man
+05 Take Me To The Pilot
+06 Bennie And The Jets
+07 Daniel
+08 Grey Seal
+09 Goodbye Yellow Brick Road
+10 Burn Down The Mission
+11 You're So Static
+12 Lucy In The Sky With Diamonds
+13 Don't Let The Sun Go Down On Me
+14 Honky Cat
+15 All The Girls Love Alice (D & D)
+16 Saturday Night's Alright (For Fighting) (D & D)
+17 Crocodile Rock 
+18 The Bitch Is Back
+19 Your Song (D & D)
+
+Known Faults: Cuts in "Saturday Night's Alright For Fighting" and "Crocodile Rock"
+
+JEMS lost its founding partner Stan Gutoski in 2020. Stan was to Seattle what Mike Millard was to Los Angeles--the guy who taped every important show. Better still, they were peers and traded tapes in the 1980s.
+
+Stan started recording a year before Mike and both made key decisions to buy what they believed to be the best tape recorder available. For Mike, that was the Nakamichi 550 in 1975. For Stan in 1972, it was a Tandberg Model 11 portable, full-track mono reel to reel. Both decks were capable of high-quality recording, especially for the era, and were superior to the gear that was being used by most early tapers.
+
+If you don’t know about the Tandberg, it was a remarkable piece of equipment in its day, not only capable of recording at 3-3/4 and 7-1/2 IPS, but in full-track mono. I won’t do the math, but compared to a cassette, the surface area of tape capturing music on this deck is orders of magnitude higher, which is why so many of Stan’s Tandberg masters from the likes of David Bowie, Elton John, Led Zeppelin and Bruce Springsteen are considered by some audience-recording classics. The Tandberg required 10(!) D-cel batteries to operate, roughly the size of a compact typewriter and weighs over ten pounds. Imagine sneaking that into a show with its reels spinning off the side of the unit and your respect for what Stan accomplished only grows.
+
+Stan's original Tandberg deck is still functioning, but after years of making transfers, I noticed that our vintage Model 11 introduced a lot of noise in playback. Not surprising considering the age of the unit (54 years), but an issue just the same.
+
+The obvious solution to my problem would be to transfer the tapes on a different reel to reel. But because the Tandberg recorded in relatively uncommon full-track mono, transfers done on any standard deck, be it 1/4 or 1/2-track, could not extract the full fidelity of the master tapes.
+
+As luck would have it, I was taking another reel to reel deck in for service at the one place in Southern California that still does repairs: Adrian Proaudio Services in Canoga Park. I was talking to Adrian about the Tandberg issue and my primary reel to reel, which is an Otari MX-5050. He said, “Why don’t you get a full-track mono head stack for the Otari?” Before I even had a moment to ponder why I had never thought of that, Adrian pulled out a brand-new, dead-stock, full-track mono head unit which I could plug and play into my Otari. Needless to say, I bought it on the spot.
+
+The Otari full-track mono playback was a revelation. The noisiness I had come to expect from any Tandberg playback was gone. The fidelity was everything I had always hoped we could capture from Stan’s master tapes.
+
+###
+
+In the last couple of years, we've revisited some of Stan's greatest Seattle recordings by making new transfers from the master reels, shows like Led Zeppelin '73, George Harrison '74 and Pink Floyd '75.
+
+Which brings to Elton John, performing his second show in Seattle on the Caribou tour, October 13, 1974. To the best of our knowledge this show has never been posted in any digital form and doesn't appear to be in wide circulation dating back to the analog days.
+
+Why these reels weren't transferred along with JEMS’ other Tandberg Elton tapes is unclear, though I suspect these four reels (Stan also taped the first night on October 12 available here http://www.dimeadozen.org/torrents-details.php?id=718816) may have been separated from the rest of the Tandberg masters for decades, and only reunited when we relocated and reorganized the complete JEMS Archive after the passing of Stan and Jared Houser.
+
+Stan’s recording is as as good if not better than his capture of the first night, right up there with his best Tandberg work, offering full, up-close sound, no hiss and nicely balanced audience, likely the result of Stan's practice of using a 25-foot cord to place his microphone on the edge of the seats scaffolding closest to the PA. That meant direct sound and no close audience chatter. Samples provided.
+
+The only flaw in Stan’s efforts this night is that he missed a few songs after switching to his second tape. As one can imagine, having 7-inch open reels rolling on the floor of an arena is asking for trouble and that appears to be what happened here.
+
+As luck would have it, many years ago JEMS was fortunate to transfer and release a series of Seattle-area recordings done by the team of D & D in the early ‘70s. D & D also recorded the second Elton show on cassette and missed a few songs themselves. We’ve used the D & D recording to fill in the missing bits on Stan’s tape. There are still a couple of cuts, but every song is represented making this the most complete recording possible.
+
+Elton’s night-two setlist is identical to night one, but it’s hard to quibble with more great versions of "Funeral For A Friend/Love Lies Bleeding," "Rocket Man," "Take Me Toe The Pilot," "You're So Static" and "All The Girls Love Alice."
+
+###
+
+Stan was one of the kindest and humblest people I ever knew. He took me on as an apprentice taper in the mid-'80s and taught me everything I know about recording shows. He also gave me access to his archive, and the act of doing so was in effect the origin of JEMS, as we began to treat our collective recordings as a single entity.
+
+This tribute video captures the sweetness of Stan and provides a glimpse of the great man I was fortunate enough to call my friend for 35 years. If you love this hobby and have ten minutes to spare, I'd strongly encourage you to watch it.
+
+Stan video: https://vimeo.com/503750464/493aa4f757
+
+Thanks to Professor Goody for providing pitch guidance, to mjk5510 who helped out with research and post-production and to D & D for their complementary recording. 
+
+BK for JEMS

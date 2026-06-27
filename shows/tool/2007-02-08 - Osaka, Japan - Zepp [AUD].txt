@@ -1,0 +1,88 @@
+TOOL
+
+JAPAN TOUR 2007 DAY1 to DAY4 - BOX SET (JSR T-01~07)
+
+Day 1: 2|8 ZEPP OSAKA (JSR T-01~02)
+
+Feb. 8, 2007  Zepp Osaka, Osaka, Japan
+
+Disc 1:
+1. Stinkfist (cut in at the beginning)
+2. Forty Six & 2
+3. Jambi
+4. Schism
+5. Lost Keys (Blam Hoffman)
+6. Rosetta Stoned
+7. The Pot
+8. interlude
+
+Disc 2:
+1. Wings for Marie
+2. 10,000 Days (Wings Part 2)
+3. Lateralis
+4. Vacarious
+5. Aenima
+
+Taper: the_sphere
+Source: ECM-717 (on my baseball cap) > TCD-D100 (48kHz)
+Lineage: DAT master > CDR (DENON CDR-1000) > .aif (Toast) >
+         Remaster (SoundStudio & Peak) > .wav > Track Split (CDWave) > .flac (Level8)
+
+ First night for TOOL Japan Tour 2007. I and my pertner went to Osaka from Tokyo 
+by Shinkansen bullet train (2.5hrs ride) and arrived the venue at 6 o'clock. 
+Zepp Osaka is a SRO venue and the capacity is 2,000 (+180 seats at 2nd floor). 
+What a small venue for TOOL, eh?
+ Our reference number was 9-58 & 59, about the half of whole, and got into the
+hall without hope to take front block. But we found there're still some space
+at the backward of 2nd block ! Wow, it's only about 9m from stage, in front of
+Maynerd.
+ Then the show got started and started the recording... but soon I found the
+batteries are almost empty !! They WERE unused ones for sure, but it was too
+old (later I know the consumption limt was June 2006... oh no)... So I pulled
+out the wrong ones and insert the spare batteries and then re-start the recording.
+So missing almost of intro drone and the beginning of Stinkfist. Damn.
+ The show was excellent as I expect. The setlist is static one without track
+from "Opiate" or "Undertow".There were some stupid american guys' screamings
+at the beginning of Wings, but all in all the audience was well behaved. Although 
+the bass sound was slightly heavy, the total sound was pretty good. So the 
+recorded sound turned excellent. I think it's the 2nd for the recording sound of 
+4 nights.
+
+Jun'ya aka the_sphere
+Feb. 17, 2007
+
+***** flac fingerprint *****
+
+tool2007-02-08_ZeppOsaka_d1t01.flac:f91260bce0bd60b4daa63e63bd0565b3
+tool2007-02-08_ZeppOsaka_d1t02.flac:33b2c617914d64736e77689d858aae29
+tool2007-02-08_ZeppOsaka_d1t03.flac:712a50aca408374bd74d77ed685f1c7a
+tool2007-02-08_ZeppOsaka_d1t04.flac:deb58f1c49e3663bb067c9ce905e3e1e
+tool2007-02-08_ZeppOsaka_d1t05.flac:693a4f9aa22aa522be1a5b8d3125241e
+tool2007-02-08_ZeppOsaka_d1t06.flac:14d9a499f4f5789755e472b4378b19ff
+tool2007-02-08_ZeppOsaka_d1t07.flac:8ecce298d85ab3dea1fc2c53fa0be99c
+tool2007-02-08_ZeppOsaka_d1t08.flac:ce98736cd17c00c25cadbe579071002e
+tool2007-02-08_ZeppOsaka_d2t01.flac:b1186628173cefe21ab6b376d853303d
+tool2007-02-08_ZeppOsaka_d2t02.flac:e982e0243b688cf33a6db9e19534b955
+tool2007-02-08_ZeppOsaka_d2t03.flac:ce8d8875329fe935a18a466068be9722
+tool2007-02-08_ZeppOsaka_d2t04.flac:c9b37dff1f4a238528aa2cfc28ae32e8
+tool2007-02-08_ZeppOsaka_d2t05.flac:3bc83a54f58fae2f144ac4aa0ad162a5
+
+***** master md5 *****
+
+a499ab1b7d7423c7d6e672e0b559a013 *tool2007-02-08_ZeppOsaka.ffp
+c7b3fa91be9272357d898c4b626f3f4b *tool2007-02-08_ZeppOsaka.txt
+c3bf61852f6320b1f247092fe2227888 *tool2007-02-08_ZeppOsaka_back.jpg
+a322d85dff3afe29eac1772a393ccf7f *tool2007-02-08_ZeppOsaka_book.jpg
+53f582a05f71633672ca419a3de61bdb *tool2007-02-08_ZeppOsaka_d1t01.flac
+11e5d3a30413ad39fa236573717fa64d *tool2007-02-08_ZeppOsaka_d1t02.flac
+35fe4a69943c3164eee6219c932312fa *tool2007-02-08_ZeppOsaka_d1t03.flac
+4f6129821a694eb3331ab8e15c7968d2 *tool2007-02-08_ZeppOsaka_d1t04.flac
+2100624a3f19f4e7788d1389bd8a7c18 *tool2007-02-08_ZeppOsaka_d1t05.flac
+f456b85b8c28ea73eb2a43154bdfbddb *tool2007-02-08_ZeppOsaka_d1t06.flac
+0e3b12420fc315e7200339480031fcaf *tool2007-02-08_ZeppOsaka_d1t07.flac
+3641f85d237ccc6187c65f4ee1cb3b3c *tool2007-02-08_ZeppOsaka_d1t08.flac
+a48e4312cdbefea0ee12ea0d37ecb68c *tool2007-02-08_ZeppOsaka_d2t01.flac
+0325fd340a37b548f1efd9beed70604b *tool2007-02-08_ZeppOsaka_d2t02.flac
+66a658ae94d03cee5bab15b26e6229e6 *tool2007-02-08_ZeppOsaka_d2t03.flac
+fe229a2c9227a4488090d1bbf90d18ef *tool2007-02-08_ZeppOsaka_d2t04.flac
+18c8ff0474839ef8f61a9bf2f80fadc5 *tool2007-02-08_ZeppOsaka_d2t05.flac

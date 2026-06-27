@@ -1,0 +1,168 @@
+Artist     : The Flaming Lips
+Album      : Live @ Münchenbryggeriet, Stockholm (March 5, 2003)
+Source     : Sweden P3 Cable FM Broadcast (September 15, 2003)
+Bitrate    : 192Kbps  44100Hz  Joint Stereo
+Year       : 2003
+
+======================================================================
+Track Listing
+-------------
+ 1. Intro (Live Stockholm '03)                                    0:51
+ 2. Race For The Prize (Live Stockholm '03)                       5:42
+ 3. Fight Test (Live Stockholm '03)                               5:01
+ 4. The Gash (Live Stockholm '03)                                 5:44
+ 5. Yoshimi Battles The Pink Robots, Pt. 1 (Live Stockholm '03)   5:32
+ 6. Lightning Strikes The Postman (Live Stockholm '03)            3:10
+ 7. In The Morning Of The Magicians (Live Stockholm '03)          6:27
+ 8. She Don't Use Jelly (Live Stockholm '03)                      5:41
+ 9. All We Have Is Now (Live Stockholm '03)                       4:41
+10. Do You Realize?? (Live Stockholm '03)                         4:02
+11. Waitin' For A Superman (Live Stockholm '03)                   5:27
+12. A Spoonful Weighs A Ton (Live Stockholm '03)                  3:56
+13. Outro (Live Stockholm '03)                                    0:40
+
+======================================================================
+                                      Total Playing Time: 57:00
+                                              Total Size: 78,3 MB
+======================================================================
+
+Ripped     : sprdthluv 
+Codec      : Fraunhofer
+ID3-Tag    : ID3v2.3
+
+Source: Digital FM > Personal Computer (.wav) > Audio CD-R.
+
+Recorded By: Bruno Schmidt  
+Contact: spreadthelove@hotmail.com
+
+MP3 Encoding by: Bruno Schmidt
+SHN Encoding by: Ryan Mulberger
+using MKW's Audio Compression Tool.
+
+----------------------------Exact Audio Copy LOG FILE------------------------------
+
+EAC extraction logfile from 30. September 2003, 10:18 for CD
+Unknown Artist / Unknown Title
+
+Used drive  : MITSUMI CR-4804TE   Adapter: 0  ID: 0
+Read mode   : Secure with C2, accurate stream, NO disable cache
+Combined read/write offset correction : 0
+Overread into Lead-In and Lead-Out : No
+
+Used output format : Internal WAV Routines
+                     44.100 Hz; 16 Bit; Stereo
+
+Other options      : 
+    Fill up missing offset samples with silence : Yes
+    Delete leading and trailing silent blocks : No
+    Installed external ASPI interface
+
+
+Track  1
+   Filename C:\My Music\FL -  Live @ Münchenbryggeriet, Stockholm 03-05-2003\Track0101.wav
+
+   Peak level 100.0 %
+   Track quality 100.0 %
+   Copy CRC 1CA7AFAC
+   Copy OK
+
+Track  2
+   Filename C:\My Music\FL -  Live @ Münchenbryggeriet, Stockholm 03-05-2003\Track0202.wav
+
+   Peak level 100.0 %
+   Track quality 100.0 %
+   Copy CRC 369CE391
+   Copy OK
+
+Track  3
+   Filename C:\My Music\FL -  Live @ Münchenbryggeriet, Stockholm 03-05-2003\Track0303.wav
+
+   Peak level 100.0 %
+   Track quality 100.0 %
+   Copy CRC 2D464923
+   Copy OK
+
+Track  4
+   Filename C:\My Music\FL -  Live @ Münchenbryggeriet, Stockholm 03-05-2003\Track0404.wav
+
+   Peak level 100.0 %
+   Track quality 100.0 %
+   Copy CRC 00E5E2BE
+   Copy OK
+
+Track  5
+   Filename C:\My Music\FL -  Live @ Münchenbryggeriet, Stockholm 03-05-2003\Track0505.wav
+
+   Peak level 95.3 %
+   Track quality 100.0 %
+   Copy CRC A9D623D3
+   Copy OK
+
+Track  6
+   Filename C:\My Music\FL -  Live @ Münchenbryggeriet, Stockholm 03-05-2003\Track0606.wav
+
+   Peak level 100.0 %
+   Track quality 100.0 %
+   Copy CRC 1EFE97F8
+   Copy OK
+
+Track  7
+   Filename C:\My Music\FL -  Live @ Münchenbryggeriet, Stockholm 03-05-2003\Track0707.wav
+
+   Peak level 96.7 %
+   Track quality 100.0 %
+   Copy CRC 24A866E8
+   Copy OK
+
+Track  8
+   Filename C:\My Music\FL -  Live @ Münchenbryggeriet, Stockholm 03-05-2003\Track0808.wav
+
+   Peak level 100.0 %
+   Track quality 100.0 %
+   Copy CRC 1F49FE11
+   Copy OK
+
+Track  9
+   Filename C:\My Music\FL -  Live @ Münchenbryggeriet, Stockholm 03-05-2003\Track0909.wav
+
+   Peak level 100.0 %
+   Track quality 100.0 %
+   Copy CRC C115A606
+   Copy OK
+
+Track 10
+   Filename C:\My Music\FL -  Live @ Münchenbryggeriet, Stockholm 03-05-2003\Track1010.wav
+
+   Peak level 98.7 %
+   Track quality 100.0 %
+   Copy CRC 755DBB85
+   Copy OK
+
+Track 11
+   Filename C:\My Music\FL -  Live @ Münchenbryggeriet, Stockholm 03-05-2003\Track1111.wav
+
+   Peak level 100.0 %
+   Track quality 100.0 %
+   Copy CRC 77234A36
+   Copy OK
+
+Track 12
+   Filename C:\My Music\FL -  Live @ Münchenbryggeriet, Stockholm 03-05-2003\Track1212.wav
+
+   Peak level 96.6 %
+   Track quality 100.0 %
+   Copy CRC A437E490
+   Copy OK
+
+Track 13
+   Filename C:\My Music\FL -  Live @ Münchenbryggeriet, Stockholm 03-05-2003\Track1313.wav
+
+   Peak level 81.8 %
+   Track quality 100.0 %
+   Copy CRC FC6AC486
+   Copy OK
+
+No errors occured
+
+
+End of status report

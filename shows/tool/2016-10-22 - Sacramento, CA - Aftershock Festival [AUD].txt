@@ -1,0 +1,39 @@
+Tool @ Aftershock Festival
+Saturday October 22nd, 2016
+Discovery Park
+1000 Garden Hwy
+Sacramento, CA
+
+Taper:  LeifH
+Source:  CA-11 (cardioid) > Bat2B > Sony PCM M10 @ 24/48 > Duracell 8GB microSD card
+Transfer:  Memory card > PC via USB > Wavepad Masters Edition (edits, amplify, tracking, 16/44.1) > flac (8) via Frontend
+
+Setlist:  1:18:58
+01 Third Eye
+02 The Grudge
+03 Parabola
+04 Opiate
+05 Ænema
+06 Descending
+07 Jambi
+08 Forty-Six & 2
+09 Sweat
+10 Stinkfist
+
+My 8th time seeing Tool.  The weather was nice, there was almost no wind.  This was on the Monster Energy Stage.  
+
+Third Eye was a little rusty but still great.  Maynard had his big suit on as seen earlier in 2016.  Some guy in a wheelchair was repeatedly crowd surfing.  "Fuck these disfunctional, insecure candidates."  "Did you shit yourself?"  I didn't get to see any of the shows they played in January of this year, so it was awesome to finally hear Sweat live.  Not hearing Schism was a treat too!  At the end of Stinkfist, Maynard threw his megaphone down on the riser.  Unfortunately, these kinds of events attract drunken tools and as a result, several fights broke out during the show.  
+
+I only taped Primus and Tool at this festival and did not attend the second day.  Huge thanks to RockTheMullet for driving up to Sacramento.  Nice to see a bunch of familiar faces in the crowd.  
+
+fingerprints:
+01 - Third Eye.flac:2a87110bf4f3357f53e3a4aeb9e45949
+02 - The Grudge.flac:34b81f0179fb1f321bc141ee95ed8186
+03 - Parabola.flac:f2d5474831d4b636d06c8a6ac95c6f32
+04 - Opiate.flac:8dba0039941dd4ef15230092fa2f256e
+05 - Ænema.flac:c948b20b0cdb6c93f59822ce76babd92
+06 - Descending.flac:8676d729027437567fbf21a7588d505c
+07 - Jambi.flac:b49041ac1b2c9002da8a8598c41d8fde
+08 - Forty-Six & 2.flac:a44eca765f154114df019b928509d916
+09 - Sweat.flac:00fa4802144a5fdc25105a534ecbb4e6
+10 - Stinkfist.flac:da7a4f08b9b26b5404cb34cf852cc5be

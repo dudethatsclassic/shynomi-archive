@@ -1,0 +1,38 @@
+he Flaming Lips
+Thursday, October 2nd 2003
+Norva Theatre - Norfolk, VA
+
+
+Source: AKG 480/ck61 (XY) > DMIC-20 > D8@48kHz
+	2nd floor balcony, far right, 6' stand
+	Justin Trinkes (stoner_fee@taping.org)
+
+Conversion: D8 (master) > Waveterminal 2496 > SF 4.5 > CDWav 1.52 > mkw .97
+
+Editing: Sound Forge used for fade in/out and
+	 to resample 48 > 44.1kHz (4of4 w/ anti-alias)
+
+
+Disc 1
+01. intro
+02. ?
+03. ?
+04. ?
+05. ?
+06. Yoshimi Battles the Pink Robots Pt. 1
+07. ?
+08. ?
+09. Golden Path
+10. Do You Realize?
+
+
+
+Note:
+This was orginally to be held at the Harbor Center in Portsmath, VA.
+However hurican Izabel damanged the roof and the Norva kindly stepped 
+in to host the event.  All the money earned that night went to the 
+Harbor Center to help repair the roof.
+
+Also when I arrived at the venue the Chili's in the mall across the 
+street caught fire and the streets where flooded with cops and firemen.
+What a night.

@@ -1,0 +1,13 @@
+Tool - 2002.08.23
+The HSBC Arena - Buffalo, NY, USA
+version 3
+
+media type: SHN
+source: Sony ECM-717 > Sony PCM-M1 > CDR > SHN
+taper: unknown
+trade status: can trade
+
+disc 1 - 8 tracks - 62:29
+disc 2 - 6 tracks - 61:29
+
+notes: none

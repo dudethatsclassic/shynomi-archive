@@ -1,0 +1,13 @@
+﻿Tool - 2020.01.31
+FedEx Forum - Memphis, TN, USA
+Version 1
+
+Source: MM-PC-11s > Tascam DR-05 (@24/48)
+Transfer: Tascam DR-05 > WAV > Audacity > FLAC
+Taper: anonymous
+
+disc 1 - 17 tracks - 121:52
+
+notes: Seats were several rows up in the risers almost directly behind the board, house left. 
+The echo in the room was notable. Few chatty fans around but mostly between songs. Novice taper 
+and only a handful of tapes under my belt.

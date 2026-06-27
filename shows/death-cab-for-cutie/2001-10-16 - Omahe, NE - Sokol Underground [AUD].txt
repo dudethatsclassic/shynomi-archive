@@ -1,0 +1,40 @@
+Death Cab for Cutie
+Sokol Underground
+Omaha, NE
+2001-10-16
+
+Taper:          Zach Payne (pzane@hotmail.com)
+Source:         DSM-6S/L > PA-6LC3B (170) > D100 48kHz
+Transfer:       DDC-M > 7pin > Zefiro ZA2 (Hardware resampled to 44.1kHz)
+Editing:        CEP (Fades), CD Wave (tracksplits) > Flac
+
+01. Bend To Squares
+02. President Of What?
+03. Company Calls
+04. Why You'd Want To Live Here
+05. We Laugh Indoors
+06. Information Travels Faster
+07. Underwater!
+08. Photobooth
+09. A Movie Script Ending
+10. Debate Exposes Doubt
+11. Blacking Out The Friction
+12. Champagne From A Paper Cup
+13. Fake Frowns
+
+Notes:
+- Dead Center, ~ 20 ft back
+
+dcfc2001-10-16.dsm.t01.flac:0a6a32864924dea9c97511b5d916eda1
+dcfc2001-10-16.dsm.t02.flac:f6e9ecae3d0dbe93f9bbb03234541893
+dcfc2001-10-16.dsm.t03.flac:3004543a251eefa3aad8d7cdd6d93cba
+dcfc2001-10-16.dsm.t04.flac:b056bddc7956c0635a94c8269f472ee4
+dcfc2001-10-16.dsm.t05.flac:a36ec889030c4963f29af3c8c290c500
+dcfc2001-10-16.dsm.t06.flac:38dcf3c65aa6223e4820dcf2cf848c78
+dcfc2001-10-16.dsm.t07.flac:26445486f2fc4fb4737f7773b466b425
+dcfc2001-10-16.dsm.t08.flac:c45e7cb6ccba09872c8c54cfea13fa07
+dcfc2001-10-16.dsm.t09.flac:061d9d56d5dc0b606487626d443fa7bd
+dcfc2001-10-16.dsm.t10.flac:2e7b06a76c63fa7da987681672aee9de
+dcfc2001-10-16.dsm.t11.flac:6de06b25f0d718e3d9ad3b25ce210ab5
+dcfc2001-10-16.dsm.t12.flac:186e10751b150e71534c0834b6c12db1
+dcfc2001-10-16.dsm.t13.flac:e5e7fbdad3e09db86cb407de925a60d0

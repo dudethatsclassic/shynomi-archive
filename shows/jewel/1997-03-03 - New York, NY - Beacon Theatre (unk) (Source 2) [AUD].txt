@@ -1,0 +1,88 @@
+Jewel Kilcher
+Beacon Theatre, New York, NY
+March 3, 1997
+
+Source : unknown cassette > ?? > CD Trade (Source 2)
+
+Editing : Sound Forge (CD extract & volume) > Wave > TLH (sbe aligned) Flac 8
+
+Traders Den -  Dec 12, 2021
+
+Edited & posted by kingrue upload #3382
+======================================
+
+Here is a 2nd source for this performance date.
+
+I think this is the better sounding source.
+
+I picked this up in a overseas trade years ago, i don't know the taper.
+
+The opening act were the Rugburns, which were also Jewel's backing band.
+
+
+Band line-up 
+Jewel - vocals, acoustic guitar
+Steve Poltz - acoustic guitar, backing vocals
+John Castro - bass
+Jeff Aafedt - drums
+John Hagen - cello
+
+Total Time = 76:47
+
+Set list
+01 Near You Always
+02 Enter From The East
+03 Morning Song
+04 Little Sister
+05 Don't
+06 Foolish Games 
+07 You Were Meant For Me (duet with Steve Poltz)
+08 Run Tonto Run 
+09 Deep Water
+-- tape flip --
+10 Fragile Flame
+11 Pieces Of You
+12 Cold Song 
+13 Silver Lining (duet with Steve Poltz)
+14 Tiny Love Spaces
+15 Angel Standing By
+16 Who Will Save Your Soul
+17 Amen 
+-- tape break --
+18 I'm Sensitive
+19 Chime Bells
+
+editing notes:
+left channel boosted +3 dB
+right channel boosted +4.5 dB
+de-clapper applied
+
+==========================
+
+
+No errors occured.
+
+
+01 Near You Always.flac:51570fcb09a7496c43a1013966dfdcbf
+02 Enter From The East.flac:99f133999ec2732e7dcab3a9d1525608
+03 Morning Song.flac:180f739fc0b0f167c578b35edaa8a77f
+04 Little Sister.flac:aa4425c12b0aaeadcc0da9075091248e
+05 Don't.flac:568c95d42894c3b1e499675543ae70dd
+06 Foolish Games.flac:31e5950d00574e5566b9b21cfeb47bf4
+07 You Were Meant For Me.flac:749ef5d1c9c8bbd113b5e1022e1f09e2
+08 Run Tonto Run.flac:eb54cbb724ffb1a4fe5ae76d407fdc32
+09 Deep Water.flac:01dac7672c3a59135421f19d46cefdc5
+10 Fragile Flame.flac:bdcb8f1475291a6f5fd4b99a5552d42e
+11 Pieces Of You.flac:2e0b232ee22f25e396aaf8c63a1a061e
+12 Cold Song.flac:eddeddbb8ffd0bab12ad3a036100aa0e
+13 Silver Lining.flac:d1370e7ba7c11582a0ba86aff7d7c5a1
+14 Tiny Love Spaces.flac:6d809151e0aafe73ea7ae6023eaeaf81
+15 Angel Standing By.flac:51c2e6559af7c6ffe42dad4dbb6fc890
+16 Who Will Save Your Soul.flac:5b4cfc93bc29bb59ff004d6e57661eee
+17 Amen.flac:bc4a6878bbee027ff138dcd49ac674e4
+18 I'm Sensitive.flac:854528ab4b2231fba7f487ca81cc6c30
+19 Chime Bells.flac:c6b7288517956e01a9a38daa12cad75a
+
+Checksum file saved to disk.
+
+No errors occured.

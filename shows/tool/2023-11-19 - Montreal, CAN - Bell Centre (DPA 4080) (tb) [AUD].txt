@@ -1,0 +1,29 @@
+Tool
+2023-11-19
+Bell Centre,
+Montreal, Canada
+
+
+Source: DPA 4080 > CA Ugly Battery Box > Sony PCM-M10 (Oade Preamp Mod) > .WAV @ 24bit/96kHz
+Transfer: SD Card > MacBook > Adobe Audition (Gain, Cuts, Fades, EQ, Bit Depth/Sample Rate Conversion) > Fission (Track Splits) > xACT > .FLAC (Level 8) > Meta (ID Tags)
+Location: Font row, on the rail, directly in line with the left stack
+Taper: TB
+
+Tracklist:
+
+01 Intro
+02 Fear Inoculum
+03 Jambi
+04 Rosetta Stoned
+05 Pneuma
+06 Intolerance
+07 Descending
+08 The Grudge
+09 (Intermission)
+10 Chocolate Chip Trip
+11 Culling Voices
+12 Invincible
+13 Forty Six & 2
+
+
+Notes: Danny's mallet keyboard malfunctioned during Invincible and wasn't played.

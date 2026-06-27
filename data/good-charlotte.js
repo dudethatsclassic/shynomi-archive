@@ -20,7 +20,8 @@ const ARTIST_DATA = {
       "venue": "8x10",
       "notes": "",
       "version": "SBD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1999-12-18 - Baltimore, MD - 8x10 [SBD].txt"
     }
   ],
   "misc": []

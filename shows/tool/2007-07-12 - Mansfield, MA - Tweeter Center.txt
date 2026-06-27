@@ -1,0 +1,20 @@
+Section 1 > Row S> Seat 9
+Microtrack 24/96> WAV> Core Sound Binuaral Mics> Bass Rolloff> -20 DB Attenuator Cable
+Audacity> Gain +6> WAV> FLAC> Bootleg Matrix
+
+taper : ericcagle
+
+DISC 1
+01. 46 and 2 (cut)
+02. Schism
+03. Rosetta Stoned
+04. Pushit
+05. Flood
+DISC 2
+06. Soundscape
+07. Wings For Marie
+08. 10,000 Days - Wings pt2
+09. Lateralus
+10. Vicarious
+
+

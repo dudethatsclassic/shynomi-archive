@@ -1,0 +1,8 @@
+    length     expanded size   cdr  WAVE problems filename
+    12:23.36      131149916    ---   --    --xx   monk1964-02-22t01.flac
+    11:10.63      118336220    ---   --    --xx   monk1964-02-22t02.flac
+    10:12.48      108069740    ---   --    --xx   monk1964-02-22t03.flac
+     9:01.72       95601788    ---   --    --xx   monk1964-02-22t04.flac
+     9:07.13       96521420    ---   --    --xx   monk1964-02-22t05.flac
+     1:11.30       12595004    ---   --    --xx   monk1964-02-22t06.flac
+    53:07.37         536.23 MB                    (totals for 6 files, 0.4631 overall compression ratio)

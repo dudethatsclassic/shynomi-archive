@@ -1,0 +1,6 @@
+Tool
+The Gorge Amphitheater
+George WA
+June 17th 2017
+
+lineage: olympus pcm recorder > audacity > trader's little helper > flac

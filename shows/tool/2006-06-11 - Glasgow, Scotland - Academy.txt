@@ -1,0 +1,27 @@
+Tool
+2006-06-11
+Carling Academy 
+Glasgow, UK
+
+Taper: Ben (http://db.etree.org/fourdegreeswarmer)
+Location: Front of right stacks, between 5 and 10 feet back
+Source: CSB > CS Battery Box (no bass roll-off - faulty unit) > iRiver H140 (Rockbox) > WAV 16/44.1
+Transfer/Edit: iRiver H140 (Rockbox) > USB > HDD > Adobe Audition 2.0 > EQ > Normalize > CD Wave > Tracks split > WAV > FLAC Frontend Level 8 > FLAC
+
+11 tracks
+
+01 Lost Keys > Rosetta Stoned
+02 Stinkfist
+03 46 & 2
+04 Jambi
+05 Schism
+06 Intension tease > Right In Two
+07 Jam > Sober
+08 Lateralus
+09 Break > Jam
+10 Vicarious
+11 Aenema
+
+93:02
+
+Notes: Todd Fox leaning on my head during Rosetta Stoned, and a security guard shining a torch in my face during Stinkfist meant firstly that I didn't adjust my levels, which were too high, and secondly that I abandonned my position FOS-R after the second song, and while being slightly further back abated my paranoia it also accentuated the already overwhelming bass.

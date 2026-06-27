@@ -1,0 +1,34 @@
+BAND: Flaming Lips
+DATE: 2006-07-29
+VENUE: Red Rocks
+CITY: Morrison, CO
+
+SOURCE: Oktava MC012 (hypers) > Edirol UA-5 > Optical > Creative JB3
+
+LOCATION: Row 19, DFC
+
+CONVERSION: JB3 > Firewire > Sound Forge 7.0 (EQ > Waves L1-Ultramaximizer+ > Waves L2) > CD Wave (tracking) > FLAC Frontend (level 6)
+
+SETLIST:
+
+DISC 1 [55:15]
+
+1. Race For the Prize
+2. Bohemian Rhapsody
+3. Free Radicals
+4. Yoshimi Battles the Pink Robots Pt. 1
+5. Yoshimi Battles the Pink Robots Pt. 2
+6. Vein of Stars
+7. Yeah Yeah Yeah Song
+
+DISC 2 [
+
+1. The W.A.N.D.
+2. My Cosmic Autumn Rebellion
+3. She Don't Use Jelly
+4. (marriage proposal on stage)
+5. Do You Realize??
+
+Encore: 
+
+6. War Pigs

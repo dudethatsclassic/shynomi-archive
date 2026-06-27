@@ -1,0 +1,15 @@
+Tool - 2007.06.22
+Scottrade Arena - St. Louis, MO, USA
+version 1
+
+media type: FLAC
+source: Core Sound Binaurals > Core Sound Battery Box (w/ bass roll-off) > M-Audio MicroTrack 24/96(@16/44.1) > CDWave > FLAC 
+taper: jrust
+trade status: can trade
+
+disc 1 - 15 tracks - 124:47
+
+notes: none.
+
+
+

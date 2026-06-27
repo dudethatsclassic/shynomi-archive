@@ -1,0 +1,50 @@
+
+Tool
+Sears Centre Arena: Hoffman Estates, IL
+June 27, 2007
+
+Source: Schoeps MK4s > Nbox > Edirol R-09 (@24/44)
+Location: 10' FOB DFC
+Transfer: USB > WAV > CEPv2.1 > CDWave > FLAC
+Taper: tapeworm(48) 
+
+Setlist:
+
+01 Intro
+02 Jambi
+03 Stinkfist
+04 Forty-Six & 2
+05 The Pot
+06 Schism
+07 Lost Keys
+08 Rosetta Stoned
+09 Flood
+10 -encore break-
+11 Wings For Marie
+12 10,000 Days
+13 Lateralus (w/ Cody from Big Business)
+14 Vicarious
+
+Notes: Couple of dropouts during the first song as I had set the input level to '0' since it was so loud.  No EQ was performed.
+
+Archive: Master WAV was archived at 24-bit, 44.1kHz, and FLAC'd with cue sheet. 
+
+Taped and transferred by tapeworm(48) 
+Txt file compiled on 07/02/2007
+
+*** DO NOT DISTRIBUTE IN LOSSY FORMATS. DO NOT SELL THIS RECORDING, TRADE IT FREELY *** 
+
+tool2007-06-2701.flac:0fbefa103ff1d74286dbdeac478951a2
+tool2007-06-2702.flac:a1cd69f89e4180aa8040b8ffaf7e2def
+tool2007-06-2703.flac:424548d8838d18b0fb72fe17cbeb7001
+tool2007-06-2704.flac:0ea1ca91623858bea348a960c2558488
+tool2007-06-2705.flac:870f2663c60386c11178f7413ff289bc
+tool2007-06-2706.flac:f59165e859d373404b2611ff50c7468c
+tool2007-06-2707.flac:a1c1c1b1c0ca5a0d4bca83693c545180
+tool2007-06-2708.flac:be19153cd43d47b3514c0136c81542d9
+tool2007-06-2709.flac:0ac0fcb40ea9a11a0f7ea5a5672d218a
+tool2007-06-2710.flac:8dee43346be8561fc92c1e92126df28b
+tool2007-06-2711.flac:7cc25181771374cb4465d605c3a75504
+tool2007-06-2712.flac:170a43f3f3c3f0ddd9e618fa04acc59c
+tool2007-06-2713.flac:7bfb60159e9442d28d3e89a49d480ff7
+tool2007-06-2714.flac:236bd62561a2d17ae5409325f4325f69

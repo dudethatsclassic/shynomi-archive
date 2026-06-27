@@ -1,0 +1,42 @@
+Tool
+Monday October 23rd, 2023
+Rogers Arena
+800 Griffiths Way
+Vancouver, British Columbia, Canada
+
+2 Source Stereo Matrix
+
+Source 1:  SP-CMC-8 > SP-SPSB-7 > R-05 by Chris Bold, balcony front row side stage
+Source 2:  Sennheiser Ambeo > iPhone > Apogee MetaRecorder by LeifH, rear balcony dead centre [2023#74]
+Transfer:  WAV > RX9 > Wavepad > flac (8) via TLH
+
+Setlist:  02:10:51
+01 Fear Inoculum
+02 Jambi
+03 The Pot
+04 Lost Keys > Rosetta Stoned
+05 Pneuma
+06 Descending
+07 Swamp Song
+08 The Grudge
+-intermission-
+09 Chocolate Chip Trip
+10 Culling Voices
+11 Invincible
+12 Ænema
+
+Another make-up show from 2020.  
+
+fingerprints:
+Tool2023-10-23mtx01 - Fear Inoculum.flac:73f93733439dea9f8a361eabaf4daad0
+Tool2023-10-23mtx02 - Jambi.flac:9d2bc65d08e54195b20ed87df2c1378e
+Tool2023-10-23mtx03 - The Pot.flac:919af1728ccb0b92f351107221d3179b
+Tool2023-10-23mtx04 - Rosetta Stoned.flac:bd3c8cd683678456c7fa18e7ce050996
+Tool2023-10-23mtx05 - Pneuma.flac:01bd553006953bf7a25d58ffd44ebe56
+Tool2023-10-23mtx06 - Descending.flac:b1a31147969928f6d85a5bac5687be5c
+Tool2023-10-23mtx07 - Swamp Song.flac:37a04f8dd5e3f1f098f78df13412fc29
+Tool2023-10-23mtx08 - The Grudge.flac:a94493de2e18e6862d1a773d4caf37a1
+Tool2023-10-23mtx09 - CC Trip.flac:eb83693567e6e8fc3ea6dfa5a9a45e20
+Tool2023-10-23mtx10 - Culling Voices.flac:32c5eeb9f52d62d002e4c53d0c98c76c
+Tool2023-10-23mtx11 - Invincible.flac:779bd143b67c2b5d28cae51466160117
+Tool2023-10-23mtx12 - Ænema.flac:c0fe703cf1abcb114164e1ff51444881

@@ -1,0 +1,23 @@
+Tool
+1997-08-15
+Concord, CA
+Concord Pavilion
+Lollapalooza 97
+
+Source: MarcSounds > Sony TCD-D8 @ 48 kHz
+Transfer: DAT-3G > Sony PCM-M1 > coaxial 7pin > MOTU 2408mkII > BIAS Peak > CDWave (tracking) > .WAV > .FLAC
+Generation: 3rd
+Notes: Tracked and FLACed on 3-25-2006 by Distortion. Must be downsampled to 44.1 kHz to burn to CD.
+
+Setlist:
+Hooker With A Penis
+Stinkfist
+Forty-Six & 2
+Undertow
+Eulogy
+H.
+(-) ions / Sober
+Merkaba
+Third Eye
+Opiate
+Ænema

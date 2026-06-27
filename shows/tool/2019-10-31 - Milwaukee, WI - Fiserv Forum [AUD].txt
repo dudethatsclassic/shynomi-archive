@@ -1,0 +1,40 @@
+
+Tool
+Fiserv Forum: Milwaukee, WI
+October 31, 2019
+
+Source: AT831s > SP-SPSB-11 (@69Hz) > Sony PCM-M10 @ 24-bit / 44.1kHz
+Location: FOB right risers, 8 rows up
+Transfer: SD Card > Audacity (amplify/dither) > CDWave > TLH
+Taper: tapeworm(48) 
+
+Setlist:
+
+01 Intro
+02 Fear Inoculum
+03 Aenema
+04 Parabol
+05 Parabola
+06 Pneuma
+07 Schism
+08 Jambi
+09 Vicarious
+10 -Stage Issues-
+11 Intolerance
+12 Invincible
+13 -Intermission 12 minutes-
+14 Gong Show
+15 Chocolate Chip Trip
+16 Forty-Six & 2
+17 (-) Ions
+18 Stinkfist
+19 -Outro-
+
+Notes: Opening act was Killing Joke (not recorded). The band enters the encore in costume. M10 set at 4.5. Amplified entire file by +1dB prior to dithering. Raw transfer with no fades or EQ.
+
+Archive: Master WAV was archived @ 24-bit/44.1kHz and FLAC'd with cue sheet. 
+
+Taped and transferred by tapeworm(48) 
+Txt file compiled on 11/1/2019
+
+*** DO NOT REMASTER WITHOUT PERMISSION. DO NOT DISTRIBUTE IN LOSSY FORMATS. DO NOT SELL THIS RECORDING, TRADE IT FREELY *** 

@@ -1,0 +1,26 @@
+BREEDERS
+INDIO,CA:EMPIRE POLO FIELD
+4/25/08
+
+"Coachella Valley Music & Arts Festival" 
+
+DSM6 -> PACLC -> D7 
+D7 -> 7pin Coaxial -> CDRW700 -> EAC -> Soundforge -> FLAC Frontend Level 
+
+01. -intro-
+02. Overglazed (aborted)
+03. Overglazed
+04. Tipp City
+05. Huffer
+06. Bang On
+07. Divine Hammer
+08. Night Of Joy
+09. No Aloha
+10. Pacer
+11. Walk It Off
+12. New Year
+13. Cannonball
+14. Happiness Is A Warm Gun
+15. Here No More
+16. Iris
+17. Saints

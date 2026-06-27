@@ -1,0 +1,57 @@
+Death Cab For Cutie
+23rd January 2002
+Dingwall's
+London, England
+
+SETLIST (30:19)
+---------------
+01. intro / sound-checking
+02. Your Bruise
+03. We Laugh Indoors
+04. talking
+05. Why You'd Want To Live Here
+06. talking
+07. A Movie Script Ending
+08. talking
+09. Technicolor Girls
+10. talking
+11. Prove My Hypothesis
+12. outtro
+
+GENERATION
+---------------
+DAT(M) -> FLAC
+
+SOURCE (AUD #1)
+-----------------
+Marantz EM-8 -> Sony TCD-D8 -> DAT(M)
+
+TRANSFER
+-----------------
+DAT(M) -> Tascam DA-20 MkII -> M-Audio Audiophile 2496 (digital coax) -> Cool Edit Pro 2.1
+-> WAV (44kHz/16bit) -> Adobe Audition 2017 (EQ/amplify/fades) -> CDWave (splits) -> foobar2000 -> FLAC(8)
+
+NOTES
+-----------------
+Fourth band of this evening's lineup, hence the short 6-song set.
+Playing as part of the release party for the "Pandemonium 3" EP (a showcase event by the Fierce Panda label).
+EQ was used to boost the lower end and a little mid/top end.
+
+FLAC FINGERPRINTS
+-----------------
+dcfc-2002-jan-23-aud-t01.flac:87e8ec998cbc5a44a1ac574a207d884e
+dcfc-2002-jan-23-aud-t02.flac:7111b5810ee3b7ed2207707caaba84fa
+dcfc-2002-jan-23-aud-t03.flac:b9967289eed8342800c44566fe2cfde6
+dcfc-2002-jan-23-aud-t04.flac:8c2bd900f6640e492bca407040c7ae5b
+dcfc-2002-jan-23-aud-t05.flac:228de6c91568c9a9f518d265ca1e53ee
+dcfc-2002-jan-23-aud-t06.flac:83f2ba48b6a36bfeba9b024ed948b8e1
+dcfc-2002-jan-23-aud-t07.flac:e37fb423ed239984d3c06f5323144f34
+dcfc-2002-jan-23-aud-t08.flac:a393cfc9e1748bb3f7cf038b533939a7
+dcfc-2002-jan-23-aud-t09.flac:4b51a7bff415c9f1674e0695f695dcd7
+dcfc-2002-jan-23-aud-t10.flac:e544f8acfda86f51e68c81282c0855b2
+dcfc-2002-jan-23-aud-t11.flac:f4a4646847e89493b31a843389d5e748
+dcfc-2002-jan-23-aud-t12.flac:1b4234be0a7f6310c7cf22f671a66a52
+
+Taped, transferred & mastered by: Gary Watson (packetboatlane@yahoo.co.uk)
+
+DO NOT SELL, OR DISTRIBUTE IN LOSSY FORMATS!

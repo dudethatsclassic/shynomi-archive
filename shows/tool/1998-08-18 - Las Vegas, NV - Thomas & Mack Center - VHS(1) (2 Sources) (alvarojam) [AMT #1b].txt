@@ -1,0 +1,41 @@
+TOOL
+====
+August 18, 1998
+Thomas & Mack Center
+Las Vegas, NV, USA
+
+AUD > VHS (1st Gen) > DVD > Demux > Sync & Authoring > DVD
+
+720x480 - 7700 kbps
+Stereo AC3 - 384 kbps
+
+TRACKS
+------
+
+Sweat
+Eulogy
+Stinkfist
+You Lied
+Bottom
+Forty Six & 2
+Merkaba
+Sober
+Pushit
+Ænema
+Opiate
+
+------
+
+NOTES
+-----
+Audio: Mix of 2 sources
+
+1: Core Sound Binaurals > Sony TCD-D8 > DAT Master > 1st Gen CDR > FLAC
+2: Original audio from video
+
+----------------------------
+
+Audio remaster & Authoring by Alvarojam
+February 23, 2025
+
+Thanks to all tapers for their work and sharing their recordings.

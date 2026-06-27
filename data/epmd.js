@@ -21,7 +21,8 @@ const ARTIST_DATA = {
       "venue": "Pacific Amphitheatre - ANA",
       "version": "AUD",
       "format": "FLAC",
-      "notes": "M \u00b7 Unknown"
+      "notes": "M \u00b7 Unknown",
+      "textFile": "1991-07-06 - Costa Mesa, CA - Pacific Amphitheatre - ANA(M) (unk) [AUD].txt"
     },
     {
       "year": 2025,

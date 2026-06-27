@@ -20,7 +20,8 @@ const ARTIST_DATA = {
       "venue": "U.B.C Thunderbird Stadium - Lollapalooza",
       "version": "AUD",
       "format": "FLAC 24",
-      "notes": "Sony ECM-PC62 \u00b7 audioarchivist"
+      "notes": "Sony ECM-PC62 \u00b7 audioarchivist",
+      "textFile": "1992-07-21 - Vancouver BC - U.B.C Thunderbird Stadium - Lollapalooza (Sony ECM-PC62) (audioarchivist) [AUD24].txt"
     }
   ]
 };

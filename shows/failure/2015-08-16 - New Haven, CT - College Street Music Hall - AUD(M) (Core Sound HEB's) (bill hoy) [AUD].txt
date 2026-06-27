@@ -1,0 +1,47 @@
+Failure 
+College Street Music Hall, New Haven, CT
+16 August 2015
+
+Master audience recording taped by Bill Hoy
+
+
+01 Hot Traveler
+02 A.M. Amnesia
+03 Another Space Song
+04 Wet Gravity
+05 Atom City Queen
+06 Let It Drip
+07 Undone
+08 Counterfeit Sky
+09 Mulholland Dr.
+10 Saturday Saviour
+11 Sergeant Politeness
+12 Segue 1
+13 Smoking Umbrellas
+14 Solaris
+15 The Nurse Who Loved Me
+16 (crowd)
+17 E: Stuck on You
+18 Heliotropic
+19 Daylight
+
+
+Core Sound HEB's > Battery Box > Oade T-Mod Marantz PMD-661 (Mic In -18dB, 24/96)
+
+FOB Center
+
+
+Edited and FLAC'ed by Carl Morstadt (dantalion8@yahoo.com)
+	
+24-bit/96-KHz wav file ->
+Goldwave (normalizing and fades) ->
+CDWAV (track breaks) ->
+dBpowerAMP Audio Converter (24-bit/96-KHz wav files converted to 16-bit/44.1 KHz wav files) ->
+FLAC Front End (FLAC 8 with sector boundary alignment)
+FLAC files tagged with Foobar2000 Live Show Tagger
+
+No EQ'ing.
+
+A 24-bit/96-KHz flac24 version of this recording is also available.
+
+

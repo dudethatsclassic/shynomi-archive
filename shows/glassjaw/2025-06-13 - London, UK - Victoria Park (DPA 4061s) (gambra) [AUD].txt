@@ -1,0 +1,33 @@
+Glassjaw
+
+Second Stage
+Victoria Park
+London, UK
+2025-06-13
+
+-----
+
+Source: DPA 4061's > JGSound BB2 > Sony PCM-A10 @ 96khz/24bit WAV > iZotope RX11 (Azimuth adjust, EQ, +4db Gain) > FLAC (44khz/16bit)
+Location: Middle of test, approx 30 rows back
+Taper: Gambra
+
+Total Running Time: 46:08 [277.9 MB]
+
+Tracklisting:
+01 - Cut and Run [2:09]
+02 - Tip Your Bartender/You Think You're (John Fucking Lennon) [7:37]
+03 - Pink Roses [3:19]
+04 - Mu Empire [4:27]
+05 - Ape Dos Mil [5:11]
+06 - [chatter] [1:36]
+07 - The Gillette Cavalcade of Sports [6:12]
+08 - Cosmopolitan Bloodloss [3:07]
+09 - Harlem [4:10]
+10 - Shira [4:17]
+11 - Siberian Kiss [3:59]
+
+-----
+
+Tech Notes:
+
+Indoor stage so not the best sound, EQ'd as much as I could but still bit echo-y.

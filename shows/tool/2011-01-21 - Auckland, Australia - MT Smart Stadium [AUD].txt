@@ -1,0 +1,15 @@
+Tool - 2011.01.21
+Mt. Smart Stadium - Auckland, New Zealand
+
+media type: FLAC
+source: Sony ECM-717 > Sony PCM-M10(@24/48) > WAV > Resample + Dithered to 44k/16bit > FLAC
+taper: gazzabr
+trade status: can trade
+
+disc 1 - 9 tracks - 81:54
+
+notes from taper: Was a bit of wind around due to outdoor festival, some phasing from people moving in and out of seats. 
+Started to rain during Third Eye and was pouring down by the end, not really noticeable in the recording. The Pot was on 
+the setlist after Stinkfist, but not played
+
+

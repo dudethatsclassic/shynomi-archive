@@ -1,0 +1,15 @@
+Tool - 1996.11.14
+Aragon Ballroom - Chicago, IL, USA
+
+media type: FLAC
+source: Sonic Studios DSM-6S > PA-6LC3 > Sony TCD-D7 > DAT Master > 1st Gen CDR > EAC > FLAC 
+taper: PG
+trade status: can trade
+
+disc 1 - 7 tracks - 54:14
+disc 2 - 4 tracks - 39:34
+
+notes: Two small dropouts common to the master,
+D1Tr06 @ 4:54 (Prison Sex)
+D2Tr01 @ 9:56 (Pushit).
+

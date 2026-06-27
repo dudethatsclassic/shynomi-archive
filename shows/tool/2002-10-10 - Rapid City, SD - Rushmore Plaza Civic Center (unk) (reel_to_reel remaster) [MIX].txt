@@ -1,0 +1,37 @@
+Tool
+Rushmmore Plaza Civic Center, Rapid City, South Dakota
+October 10th, 2002
+
+AUDIO 1 LINEAGE: IEM > Sony PCM-M1 > 1st Gen CDR > matrixed in Audition > 
+split to 16bit FLAC
+
+AUDIO 2 LINEAGE: MBHO KA-200 > JK Laboratories DVC-V12 > Sony PCM-M1 > 
+1st Gen CDR > matrixed in Audition > split to 16bit FLAC
+
+AUDIO 3 LINEAGE: Sonic Studios DSM-6S/L > PA-6LC2 > Sony WM-D6C > 1st Gen CDR > 
+matrixed in Audition > split to 16bit FLAC
+
+SETLIST:
+Sober
+The Grudge
+Stinkfist
+H.
+Schism
+Parabol
+Parabola
+Ænema
+Disposition
+Reflection
+Triad
+Lateralus
+
+COMMENTS:
+A brand new version of this matrix I made about 4 years ago. This time it's
+a three source matrix, and much better executed than before. Originally I made
+the first matrix in Audacity but this time I've properly done it all in Audition
+with EQ and other effects to balance the sources well. The only songs that
+aren't all three source are Disposition, Reflection, and Triad. Those three are
+only the IEM and Sonic Studios sources.
+
+Remastered and shared by reel_to_reel
+!!! DO NOT SHARE IN MP3 OR OTHER LOSSY FORMATS, KEEP IT LOSSLESS !!!

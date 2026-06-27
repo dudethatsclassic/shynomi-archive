@@ -1,0 +1,97 @@
+blink-182
+2023-04-23
+Coachella Valley Music and Arts Festival - Weekend Two
+Coachella Stage
+Indio, CA
+
+SOURCE: 
+SP-CMC-8 (w/Mods) > Sony PCM-A10 > Sandisk Mini-SD Card (32gb - Class 10)
+
+TRANSFER: 
+.WAV (24 Bit) > Adobe Audition 2023 CC (normalize/amplify/tracking) > Trader's Little Helper > FLAC (Level 6)
+
+SETLIST:
+
+01. Intro (Also sprach Zarathustra, op. 30)
+02. Family Reunion
+03. Anthem Part Two
+04. (talking)
+05. The Rock Show
+06. (talking)
+07. Man Overboard
+08. (talking)
+09. Feeling This
+10. (talking)
+11. Reckless Abandon
+12. (talking)
+13. What's My Age Again?
+14. Dumpweed
+15. (talking)
+16. EDGING
+17. (talking)
+18. Aliens Exist
+19. (talking)
+20. Stay Together for the Kids
+21. Happy Holidays, You Bastard
+22. (talking)
+23. Always
+24. (talking)
+25. Down
+26. (talking)
+27. I Miss You
+28. First Date
+29. (talking)
+30. All the Small Things
+31. Dammit
+ 
+NOTES:
+
+Alright, I think we all can sorta piece together the puzzle that was the Coachella 2023 Weekend 2 Sunday headliner problem. Frank Ocean headlines Sunday night of weekend 1 and puts on what is regarded one of the worst performances in the festival's history. Now of course, that is entirely subjective, but let's look at some facts: he cancelled himself being on the live stream, which pissed Goldenvoice and YouTube off. He was over an hour late taking the stage, and because of that, Goldenvoice had no choice but to extend his set time past the midnight Sunday curfew, which again, pissed Goldenvoice off. He cancelled using the "ice rink" that Goldenvoice and crew spent a ton of money on making (even going so far as building an underground tunnel underneath the main polo field to transfer performers from backstage to the area - or so I heard), which again, pissed Goldenvoice off. And finally, pretty much all the fans on the field, or those who were left, felt the performance was completely lackluster and had low effort. Basically amateur hour at its finest. I of course saw all this coming that night, and hit up the Yuma tent instead, and I even told myself, that by the time I left the Yuma tent to go get a spot in the Saraha for Boris, which would have been an hour after Frank's advertised start time, that he was still not going to be on stage, and sure enough I was right. And it was all downhill from there.
+
+Anyway, I say all that because unsurprisingly, in between weekend one and weekend two, Frank Ocean cancels his weekend two performance, leaving Goldenvoice scrambling to find a replacement at the last second. Well guess what? What band was a "surprise" late entry for Friday of weekend one (is that going to become a "thing" from now on I wonder? hmm) and just so happened to still be in the area? That's right, blink-182. I fully believe, if Frank had performed weekend two, then Blink would have not been on the bill at all, and their Friday slot would have gone to a weekend 2 "surprise" of Four Tet/Skrillex/Fred Again, but because Goldenvoice lost Frank, they had a huge time slot to fill on the main stage, so why not ask Blink to "headline" that night with another performance similar to their weekend 1 set, and then move the Four Tet trio over the main stage in the middle of the "ice rink" (which was still built and not being used)? Sounded like a good enough plan, and that's what happened, and I have zero complaints. I'll take that ending over Frank Ocean any and every damn day of the week.
+
+To have the main stage at Coachella on Sunday night go from Bjork into blink-182 into Four Tet and friends? Holy shit, what a fantastic trio and a great way to end the weekend. After word spread and it was announced Blink was headlining weekend 2, even my roommate scrambled and found tickets and attended on Sunday to catch the show. And because there were no Frank Ocean fans rushing and camping at the stage, getting close for both Bjork and blink-182 proved to be super easy. I ended up with a fantastic spot for that night with great views and great sound.
+
+Blink's set was pretty much the same, song wise, to their weekend 1 set, but this time they had a lot more fireworks given they were playing the big outdoor stage rather than the giant tent. Never in a million years would I have ever thought blink-182 would have headlined a night of Coachella, but it's strange times we're living in these days as you can all probably agree with, and I guess anything really is possible. Even aliens (errr, okay maybe not that one).
+
+CHECKSUMS: 
+
+234c6f83c64aa2a1b061440fafca3aab *blink-182-2023-04-23-coachella-w2-aud-24bit-t01-intro.flac
+eda8e6bc03f2c2c1f86826d80263fa16 *blink-182-2023-04-23-coachella-w2-aud-24bit-t02-family-reunion.flac
+c8ef57c800dd6f14c493861f172eb31c *blink-182-2023-04-23-coachella-w2-aud-24bit-t03-anthem-part-two.flac
+5f50b2049ae2e3960502657a2bbd40b7 *blink-182-2023-04-23-coachella-w2-aud-24bit-t04-talking.flac
+5ad84547d2a52ce010b80ea2b8589830 *blink-182-2023-04-23-coachella-w2-aud-24bit-t05-the-rock-show.flac
+392288d2fc6e17c8e1784181b120c29d *blink-182-2023-04-23-coachella-w2-aud-24bit-t06-talking.flac
+79c5c9d6635807a81af800004a047343 *blink-182-2023-04-23-coachella-w2-aud-24bit-t07-man-overboard.flac
+0bcddb9658c5da38528924039cea3d07 *blink-182-2023-04-23-coachella-w2-aud-24bit-t08-talking.flac
+4b5f9cb8445363e556aef1661f0ce71f *blink-182-2023-04-23-coachella-w2-aud-24bit-t09-feeling-this.flac
+d1dd84b086d5f9f85d483f5f8625dd20 *blink-182-2023-04-23-coachella-w2-aud-24bit-t10-talking.flac
+c90d9798b378346b665a25be43194eaa *blink-182-2023-04-23-coachella-w2-aud-24bit-t11-reckless-abandon.flac
+e38aeddac1c0f70f0eea257a91e2dbc8 *blink-182-2023-04-23-coachella-w2-aud-24bit-t12-talking.flac
+4628e38e3cfe2d39dbbedec0513c45a0 *blink-182-2023-04-23-coachella-w2-aud-24bit-t13-whats-my-age-again.flac
+6c7665a0245518e78121c3804ab6d545 *blink-182-2023-04-23-coachella-w2-aud-24bit-t14-dumpweed.flac
+70cb4c6534db894a44d828dd5f134408 *blink-182-2023-04-23-coachella-w2-aud-24bit-t15-talking.flac
+0a2f9359b0fbcc131b762120ed070c87 *blink-182-2023-04-23-coachella-w2-aud-24bit-t16-edging.flac
+767c46abc311c6ee6a7c7b630042447f *blink-182-2023-04-23-coachella-w2-aud-24bit-t17-talking.flac
+1aeac1131bd2f1f5ff481882b8b74810 *blink-182-2023-04-23-coachella-w2-aud-24bit-t18-aliens-exist.flac
+3f7fc2dd84194556fb58c2bf1e31dbac *blink-182-2023-04-23-coachella-w2-aud-24bit-t19-talking.flac
+b104d844c14a63610cb1337662e8e32c *blink-182-2023-04-23-coachella-w2-aud-24bit-t20-stay-together-for-the-kids.flac
+0ba2c73904918ee70d787868d6dd2c62 *blink-182-2023-04-23-coachella-w2-aud-24bit-t21-happy-holidays.flac
+6c096da09f731b7c4c3577bbbde21ede *blink-182-2023-04-23-coachella-w2-aud-24bit-t22-talking.flac
+aec2ed2df01d9e0804f8c728cbb0b621 *blink-182-2023-04-23-coachella-w2-aud-24bit-t23-always.flac
+9a77bbb3bbcec23d3a443b23f0c3ccad *blink-182-2023-04-23-coachella-w2-aud-24bit-t24-talking.flac
+dc2c51d537ed524d903a0e016eedd36d *blink-182-2023-04-23-coachella-w2-aud-24bit-t25-down.flac
+ef5f37a53e45b377a72381cfc845a27a *blink-182-2023-04-23-coachella-w2-aud-24bit-t26-talking.flac
+231c182feea7b822beb7505d3ce620ef *blink-182-2023-04-23-coachella-w2-aud-24bit-t27-i-miss-you.flac
+aee00732683005f918926d630e20c11e *blink-182-2023-04-23-coachella-w2-aud-24bit-t28-first-date.flac
+4fd65b7869adaf57c522424908f9c531 *blink-182-2023-04-23-coachella-w2-aud-24bit-t29-talking.flac
+856c0cb36073227f0a11061ddedb3ea2 *blink-182-2023-04-23-coachella-w2-aud-24bit-t30-all-the-small-things.flac
+4e22283665fe8f4e869ac074a082793a *blink-182-2023-04-23-coachella-w2-aud-24bit-t31-dammit.flac
+
+Check out my site: 
+
+https://www.themojavetent.com 
+https://www.facebook.com/coachellarecordings 
+https://www.twitter.com/livecoachella
+
+***DO WHATEVER YOU WANT WITH THIS RECORDING EXCEPT SELL IT, OR ELSE THE KARMA POLICE WILL GET YOU***

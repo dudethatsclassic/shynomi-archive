@@ -1,0 +1,27 @@
+Meat Puppets
+Slim's
+San Francisco, CA
+October 13, 2000
+Friday
+
+:: A FIREBALL/SNEAKY BASTARD MASTER FIELD RECORDING ::
+
+:: 44.1kHz/16 bit FILE SET ::
+
+MATRIX:SBD > Sony PCM-M1 > DAT Master (44.1kHz/16 bit) +
+Schoeps CCM4's > Aerco MP-2 > Sony PCM-M1 > DAT Master (44.1kHz/16 bit) > CD-R > WAV
+
+TRANSFER:DAT Master > Tascam DA-20 > Focusrite Scarlett 6i6 > MacBook Pro > ProTools Pro Tools Studio 2024.6 > WAV (44.1kHz/16 bit)
+
+MASTERING:WAV > MacBook Pro > Pro Tools Studio 2024.6 (T-Racks 5 CS: EQ, compressor, limiter, clipper) > WAV (44.1kHz/16 bit) > FLAC
+
+01. Armed and Stupid02. Wipeout03. Hercules04. Oh, Me05. Pieces of Me06. Way That It Are07. Sam08. I Quit09. Up on the Sun10. Tarantula11. You Love Me12. Stop Dreaming13. Take Off Your Clothes14. Push the Button15. Fatboy/Fat/Requiem16. Lake of Fire
+:: encore one ::17. Waltzing Matilda [Banjo Paterson]
+:: encore two ::18. She's About a Mover [Sir Douglas Quintet]
+
+Curt Kirkwood: guitar, vocals
+Andrew Duplantis: bass, vocals
+Kyle Ellison: guitar, keyboards, vocals
+Shandon Sahm: drums
+
+TAPER REQUEST:Support the artist! Buy their records, tickets and merchandise. Be aware of where you share and make sure it's never for profit. Please maintain the entire file set at the original sample rate of the master recording without remastering, editing or tweaking the file set. Convert or down sample for your personal use only.

@@ -1,0 +1,25 @@
+Paramore
+BBC Session ("Live Lounge" for Sara Cox show, with Annie Mac sitting in for Sara Cox)
+BBC Studios
+London
+U.K.
+2013-04-03
+
+http://www.bbc.co.uk/programmes/b01rkyqx
+http://www.bbc.co.uk/programmes/galleries/p0176d2v
+http://ichef.bbci.co.uk/images/ic/640x360/legacy/episode/b01rkyqx.jpg
+
+Digital Satellite (live) broadcast 2013-04-03 MPEG1 layer 2 48kHz @ 192kbps:
+BBC Radio 1 > DVB-S > Tevii S660 USB receiver > DVBviewer > .ts > VLC (demux) > .mp2 >
+MpegSchnitt (trimming) > .mp2. Tags added with Mp3tag
+
+  1. Interview                      6:07
+//
+  2. Still Into You                 5:04
+//
+  3. Matilda
+  4. Hate To See Your Heart Break
+  5. Closing comments              10:51
+Total Time : [22:03]
+
+http://www.paramore.net/

@@ -1,0 +1,42 @@
+Slipknot
+1999-07-01
+Somerset, WI
+Float-Rite Park Amphitheatre
+(shynomi transfer)
+Audience Recording
+
++++
+
+Source: Unknown
+
+Transfer: Memorex DBS > Pioneer CT-W901R > Avid Mbox > iMac 2018 > Logic Pro 10.5.1 > 16 bit/44.1kHz WAV > X Audio Compression Toolkit 2.50 > FLAC Level 8
+
+Edits/EQ: Removed gaps in between songs
+
+Taper: Unknown
+Transferred by: shynomi
+
++++
+
+Setlist: 
+
+01 - (cut-in) 742617000027
+02 - (sic) 
+03 - Eyeless
+04 - Wait and Bleed
+05 - Liberate
+06 - Surfacing
+07 - Purity
+08 - Spit It Out
+09 - Eeyore
+
++++
+
+Notes: This was from a trade back in 1999-2000 era through the mail. I'm in the process of transferring a fair amount of cassettes traded in the late 90's. I did have to remove some gap space in between songs. Recording is very low quality and sounds lossy but the spectrum analysis shows it as lossless.
+
+As always, thanks to the original taper!
+
++++
+
+Compiled November 2020 by shynomi
+

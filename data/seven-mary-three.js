@@ -29,7 +29,8 @@ const ARTIST_DATA = {
       "venue": "",
       "notes": "",
       "version": "SBD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1995-04-09 - Williamsburg, VA - Lake Matoaka Music Festival [SBD].flac.txt"
     },
     {
       "year": 1995,
@@ -42,7 +43,8 @@ const ARTIST_DATA = {
       "venue": "99X Studios",
       "notes": "",
       "version": "preFM",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1995-08-25 - Atlanta, GA - 99X Studios [preFM].txt"
     },
     {
       "year": 1995,
@@ -55,7 +57,8 @@ const ARTIST_DATA = {
       "venue": "CW Mitchell Pavilion",
       "notes": "",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1995-10-21 - Woodlands, TX - CW Mitchell Pavilion [AUD].aud.txt"
     },
     {
       "year": 1996,
@@ -68,7 +71,8 @@ const ARTIST_DATA = {
       "venue": "Deep Ellum Live",
       "notes": "",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1996-01-27 - Dallas, TX - Deep Ellum Live [AUD].flac.txt"
     },
     {
       "year": 1996,
@@ -81,7 +85,8 @@ const ARTIST_DATA = {
       "venue": "Timberbowl",
       "notes": "",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1996-08-04 - Estacada, OR - Timberbowl [AUD].txt"
     },
     {
       "year": 1997,
@@ -94,7 +99,8 @@ const ARTIST_DATA = {
       "venue": "Tramps",
       "notes": "",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1997-06-26 - New York, NY - Tramps [AUD].txt"
     },
     {
       "year": 1997,
@@ -107,7 +113,8 @@ const ARTIST_DATA = {
       "venue": "Bogart's",
       "notes": "",
       "version": "SBD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1997-07-10 - Cincinnati, OH - Bogart's [SBD].txt"
     },
     {
       "year": 1997,
@@ -120,7 +127,8 @@ const ARTIST_DATA = {
       "venue": "Brick By Brick",
       "notes": "",
       "version": "MTX",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1997-08-03 - San Diego, CA - Brick By Brick [MTX].txt"
     },
     {
       "year": 1997,
@@ -133,7 +141,8 @@ const ARTIST_DATA = {
       "venue": "House of Blues",
       "notes": "",
       "version": "MTX",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1997-11-26 - Los Angeles, CA - House of Blues [MTX].txt"
     },
     {
       "year": 1998,
@@ -146,7 +155,8 @@ const ARTIST_DATA = {
       "venue": "In Studio with Arthur P. 101FM",
       "notes": "damageinc777",
       "version": "FM",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1998-08-19 - Ferndale, MI - In Studio with Arthur P. 101FM (damageinc777) [FM].txt"
     },
     {
       "year": 2003,
@@ -159,7 +169,8 @@ const ARTIST_DATA = {
       "venue": "The Machine Shop",
       "notes": "",
       "version": "SBD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "2003-10-31 - Flint, MI - The Machine Shop [SBD].txt"
     },
     {
       "year": 2005,
@@ -172,7 +183,8 @@ const ARTIST_DATA = {
       "venue": "Planet Rock",
       "notes": "starseed",
       "version": "SBD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "2005-06-16 - Jacksonville, NC - Planet Rock (starseed) [SBD].txt"
     },
     {
       "year": 2005,
@@ -185,7 +197,8 @@ const ARTIST_DATA = {
       "venue": "Nascar Speed Park",
       "notes": "",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "2005-06-25 - Concord, NC - Nascar Speed Park [AUD].txt"
     },
     {
       "year": 2007,
@@ -198,7 +211,8 @@ const ARTIST_DATA = {
       "venue": "Monkey Business",
       "notes": "",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "2007-07-24 - Hilton Head, SC - Monkey Business [AUD].txt"
     },
     {
       "year": 2010,
@@ -211,7 +225,8 @@ const ARTIST_DATA = {
       "venue": "Boathouse",
       "notes": "",
       "version": "SBD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "2010-05-23 - Myrtle Beach, SC - Boathouse [SBD].txt"
     },
     {
       "year": 2011,
@@ -224,7 +239,8 @@ const ARTIST_DATA = {
       "venue": "The Blue Loon",
       "notes": "",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "2011-03-25 - Fairbanks, AK - The Blue Loon [AUD].txt"
     },
     {
       "year": 2012,

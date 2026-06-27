@@ -1,0 +1,121 @@
+Tool UK tour 2006
+------------------------
+ 
+Title        : Tooled Up In Glasgow
+Venue        : Glasgow SECC, Scotland
+Dates        : 2006-11-25  
+Media        : 2CD wav (2CD Shn) 
+Tapers       : Gebs (GG Records)
+Source       : Master Wav
+Extraction   : Edirol R9 > WAV
+Mastering    : Adobe Audition (mastering, Gebs) 
+Grading      : Ex-/Ex
+Catalogue    : GG-TOOL-001
+Artwork      : Woodee
+    
+Disc 1 {55.57}
+------
+
+01 - Stinkfist ...................... 7:18
+02 - Swamp Song ............ 6:07
+03 - Jambi ..................... 8:40
+04 - Schism ................... 7:41
+05 - Lost Keys (Blame Hofmann) ................. 3:47
+06 - Rosetta Stoned ..... 11:51
+07 - The Pot ........................... 10:16
+
+
+Disc 2 {48:21}
+------
+
+01 - Wings For Marie ............. 7:38
+02 - 10000 Days (Wings Pt. 2) .................... 11:48
+03 - Lateralus ............... 9:58
+04 - Interlude ......................... 3:06
+05 - Vicarious ....... 7:43
+06 - Aenima ....... 7:55
+
+
+Recording info 
+-------------- 
+
+Edirol R9 > Gebsbb107 > AT933/H (ES943/H)
+Original recording done at 24/48
+Dithered using Audacity to 16bit
+Adobe Audition 1.5 for normalising and a little manipulation of the crowd.
+
+Tapers notes:
+-------------
+
+Recorded 20-25 metres from stage dead centre.
+Little crowd movement and activity around me which
+was very surprising. I am not a Tool fan at all and
+a big thanks to Simon_LDT and Woodee for helping me out on
+this one....nice lasers tho hehe
+
+gebs
+
+
+---------
+
+Mastering Notes
+---------------
+
+Adobe Audition 1.5 for normalising and a little manipulation of the crowd.
+CDWave for track splits.
+
+gebs
+----
+
+Shnsums
+-------
+
+549f2216adb856756423a548bdd72754 *TOOL_2006-11-25_TUIG_d1t01.shn
+7602f2595b37965486c0ba0408aafac8 *TOOL_2006-11-25_TUIG_d1t02.shn
+b8669a2cf2f3aef0e6ebccc55136d606 *TOOL_2006-11-25_TUIG_d1t03.shn
+2025d6eb56fe9f5df9e06f4d8e31bdec *TOOL_2006-11-25_TUIG_d1t04.shn
+d9981e8e192fae5ed30789ef0a89e161 *TOOL_2006-11-25_TUIG_d1t05.shn
+11dc0ed8759fd50173b4dc3f917846bb *TOOL_2006-11-25_TUIG_d1t06.shn
+857fe9963183bda3b5aa2abf6118ce94 *TOOL_2006-11-25_TUIG_d1t07.shn
+696a266035aaea4e7c6a4fa6afea3d69 *TOOL_2006-11-25_TUIG_d2t01.shn
+83100a377c57cfe311d9ffdd78378462 *TOOL_2006-11-25_TUIG_d2t02.shn
+0349aeb5dcb7d2431515f48467f1fadc *TOOL_2006-11-25_TUIG_d2t03.shn
+8bce60b30fbd59bd4cb7e03ef087dca2 *TOOL_2006-11-25_TUIG_d2t04.shn
+a37d2d5e1e0b7de76b0f07592a686283 *TOOL_2006-11-25_TUIG_d2t05.shn
+dfb42ebd3c9a720f9526bb051c975127 *TOOL_2006-11-25_TUIG_d2t06.shn
+
+
+Wavsums
+-------
+
+95c927cabec430e2e6abcd52a3d26df6 *TOOL_2006-11-25_TUIG_d1t01.wav
+b337a478a3020c31312bfc2fa8ce0aa2 *TOOL_2006-11-25_TUIG_d1t02.wav
+dfc54289c17baf9344b42adbbfe08ca1 *TOOL_2006-11-25_TUIG_d1t03.wav
+f019ece61cdc2bdd2a594f02df0ad5f6 *TOOL_2006-11-25_TUIG_d1t04.wav
+d03558532beb8ae8cd7daf0df83a21d0 *TOOL_2006-11-25_TUIG_d1t05.wav
+94dbdb6761f92bb5012dce75cc9d1e41 *TOOL_2006-11-25_TUIG_d1t06.wav
+178c7bc6dadc33490e8e9d6954212cda *TOOL_2006-11-25_TUIG_d1t07.wav
+c407405387d85bb795edfcaa32b8cbd1 *TOOL_2006-11-25_TUIG_d2t01.wav
+365e9c4b77d7f7fa47d538364dae9f25 *TOOL_2006-11-25_TUIG_d2t02.wav
+99869e670657ece0523464e42be6bc30 *TOOL_2006-11-25_TUIG_d2t03.wav
+9ef24d58bb12f3898a4ddcf204c0ea72 *TOOL_2006-11-25_TUIG_d2t04.wav
+26745b394006549b7884ce72afd01a59 *TOOL_2006-11-25_TUIG_d2t05.wav
+b0ad147fb62ab0579135bb9d1e9a204c *TOOL_2006-11-25_TUIG_d2t06.wav
+
+***********************************************************
+***********************************************************
+
+Do not ever convert this show to mp3.
+Do not sell ever.
+
+Gebs says it's OK to torrent.
+
+Please share and trade freely in your own fan base domain.
+Support the artist and always buy official releases.
+And always get this text file ....so you know ;)
+
+Gebs
+Released Dec 2006
+
+***********************************************************
+***********************************************************

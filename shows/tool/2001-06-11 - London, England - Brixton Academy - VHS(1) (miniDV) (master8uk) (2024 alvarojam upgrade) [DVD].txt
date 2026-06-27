@@ -1,0 +1,49 @@
+TOOL
+====
+June 11, 2001
+Brixton Academy - London, England
+
+Unknown Audience MiniDV > Unknown Transfer > 1st Gen VHS > Unknown Transfer > DVD > Demux > Audio sunc & remaster
+
+NTSC - 720x480 - 7701 kb/s
+Stereo AC3 - 448 kb/s
+
+TRACKS
+======
+The Grudge
+Ions
+Stinkfist
+Forty Six & 2
+Prison Sex
+Schism
+Pushit
+Disposition
+Reflection
+
+-------------------------------------------------------------------
+Notes: Shot from the back right of the floor.
+Incomplete. Camera wobbly at times and has some crowd obstructions. 
+Stage is very dark and shot is mostly on Maynard.
+-------------------------------------------------------------------
+
+Video
+-----
+Unknown Audience MiniDV
+Taper: master8uk
+
+Audio
+-----
+Core Sound Binaurals > Sharp MD-MT77 > 1st Gen CDR > EAC > FLAC 
+Taper: Duncan
+
+-------------
+**2024 notes**
+
+Audio EQ, levels adjustments & sync by Alvarojam
+
+No disrespect to the original tapers/creator of the DVD. Just wanted to make the best out of the sources available.
+
+Thanks to the tapers Master8uk and Duncan for recording and sharing their work.
+
+Authored by Alvarojam
+January 6, 2024

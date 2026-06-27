@@ -1,0 +1,13 @@
+Tool - 2001.09.21
+Tweeter Center - Mansfield, MA, USA
+version 3 
+
+media type: FLAC
+source: Sony ECM-719 > Sony TCM-200 > Master Maxell Cassette > Sony TC-FX211 > Line-In > Cool Edit Pro (Hiss Reduction and Track Split) > WAV > dbpoweramp > SHN > MKW > WAV > TLH (Fix SBEs) > WAV > FLAC
+taper: unknown 
+trade status: can trade
+
+disc 1 - 7 tracks - 56:41
+disc 2 - 9 tracks - 67:32
+
+notes: Fade in-out/tape switch between D2Tr05 & D2Tr06.

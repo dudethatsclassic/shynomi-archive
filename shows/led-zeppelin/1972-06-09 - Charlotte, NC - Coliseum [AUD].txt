@@ -1,0 +1,43 @@
+Band Name; Led Zeppelin
+Venue; Coliseum
+City/State/Country; Charlotte, North Carolina, U.S.A.
+Date; 1972/06/09
+
+Source: Analogue Master>DAT(2)>CDR
+Lineage: My CDR's>EAC offset corrected, secure mode, 
+test and copy>WAV>FLAC Frontend level 6 with verify and align on Sector Boundaries>FLAC
+
+Bootleg Title:
+File Size:
+WAV= 1355 MB
+FLAC= 665 MB
+
+Setlist;
+
+Disc 1;
+
+1.Immigrant Song
+2.Heartbreaker
+3.Celebration Day
+4.Black Dog
+5.Since I’ve Been Loving You
+6.Stairway To Heaven
+7.Going To California
+8.That’s The Way
+9.Tangerine
+10.Bron-Yr-Aur Stomp
+
+Disc 2;
+
+1.Dazed & Confused
+2.What Is And What Should Never Be
+3.Moby Dick
+4.Whole Lotta Love (no medley)
+5.Rock And Roll
+6.Communication Breakdown
+
+
+Artwork, EAC log and Fingerprints included
+
+ 
+

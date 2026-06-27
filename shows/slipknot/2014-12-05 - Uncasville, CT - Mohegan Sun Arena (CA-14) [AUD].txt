@@ -1,0 +1,58 @@
+﻿Slipknot
+2014-12-05 Uncasville, CT (Aud)
+2014
+
+Mohegan Sun Arena
+
+Free Lossless Audio Codec (flac)
+Bitrate:  715kbps
+Size: 601.86 MB
+Total Running Time: 01:37:19
+
+Prepare For Hell Tour
+
+Source: Church Audio CA-14 omnis (cap mounted) > iRiver H340 (rockbox) 
+Location: Upper Balcony Center 
+Transfer: iRiver H340 > PC > Adobe Audition 3.0 (volume boost, EQ) > Audacity (bass reduction -2dB, fade in/out) > CD Wave (splitting + output FLAC Highend Level 8) 
+Taper: TripKore
+Editor: nowfacethetruth
+
+Setlist:
+
+01. XIX
+02. Sarcastrophe
+03. The Heretic Anthem
+04. My Plague
+05. -Corey Talks-
+06. The Devil In I
+07. Psychosocial
+08. -Corey Talks-
+09. The Nagative One
+10. Disasterpiece
+11. Opium Of The People
+12. -Interlude-
+13. Dead Memories
+14. -Corey Talks-
+15. Before I Forget
+16. Duality
+17. -Corey Talks-
+18. The Blister Exists
+19. Spit It Out
+20. Custer
+21. -Encore Break-
+22. 742617000027
+23. (sic)
+24. People = Shit
+25. -Corey Talks-
+26. Surfacing
+27. -Outro-
+
+Recording notes: 
+-A few chatters and singalongs audible but otherwise a great recording!
+
+
+######################## 
+DONT SELL 
+DONT REMASTER 
+DONT CONVERT LOSSILY 
+########################

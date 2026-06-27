@@ -1,0 +1,12 @@
+Tool - 1996.11.03
+Salt Air Pavillion - Salt Lake City, UT, USA
+version 3
+
+media type: FLAC
+source: Sanken COS-11 > Sony TCD-D7 > digital transfer > CDR > EAC > FLAC 
+trade status: can trade
+
+disc 1 - 10 tracks - 76:19
+disc 2 - 3 tracks - 18:27
+
+notes: This is the full 2 cd version and was transferred digitally.

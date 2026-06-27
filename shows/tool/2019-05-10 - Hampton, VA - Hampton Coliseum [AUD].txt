@@ -1,0 +1,14 @@
+Tool - 2019.05.10
+Hampton Coliseum - Hampton, VA, USA
+Version 1
+
+Source: Sony ICD-PX470 (internal mics, @16/44.1)
+Transfer: Sony ICD-PX470 > WAV > TLH > FLAC 
+Taper: wahoowa
+
+disc 1 - 2 tracks - 99:13
+
+Notes from taper: Recorded with a Sony ICD-PX470 stereo digital voice 
+recorder from row 23, seat 6 stage right in .wav format. I forgot to 
+turn begin recording after the intermission so I missed Danny’s solo 
+and maybe the first minute of Vicarious.

@@ -32,7 +32,8 @@ const ARTIST_DATA = {
       "venue": "Tonight Starring Steve Allen",
       "notes": "Hudson",
       "version": "TV",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1955-06-10 - 'Tonight Starring Steve Allen', WNBC (Goody Remaster) [FM].txt"
     },
     {
       "year": 1955,
@@ -45,7 +46,8 @@ const ARTIST_DATA = {
       "venue": "'Tonight Starring Steve Allen', WNBC",
       "notes": "Goody Remaster",
       "version": "TV",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1955-06-10 - New York City, NY - Tonight Starring Steve Allen - Hudson Theatre [TV].txt"
     },
     {
       "year": 1956,
@@ -58,7 +60,8 @@ const ARTIST_DATA = {
       "venue": "Blue Note",
       "notes": "",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1956-11-17 - Philadelphia, PA - Blue Note (Pitch Corrected) [AUD].txt"
     },
     {
       "year": 1961,
@@ -71,7 +74,8 @@ const ARTIST_DATA = {
       "venue": "Concertgebouw *The First European Concert '61",
       "notes": "",
       "version": "Silver CD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1961-04-15 - Amsterdam, The Netherlands - Concertgebouw - The First European Concert '61 [Silver].txt"
     },
     {
       "year": 1961,
@@ -84,7 +88,8 @@ const ARTIST_DATA = {
       "venue": "Concertgebouw",
       "notes": "",
       "version": "FM",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1961-04-16 - Amsterdam, Netherlands - Concertgebouw [FM].txt"
     },
     {
       "year": 1961,
@@ -97,7 +102,8 @@ const ARTIST_DATA = {
       "venue": "VanGelder Studios",
       "notes": "",
       "version": "FM",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1961-04-18 - Paris, France - VanGelder Studios [FM].txt"
     },
     {
       "year": 1961,
@@ -123,7 +129,8 @@ const ARTIST_DATA = {
       "venue": "Unknown Venue",
       "notes": "",
       "version": "FM",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1961-05-06 - Manchester, UK - Unknown Venue [FM].txt"
     },
     {
       "year": 1961,
@@ -136,7 +143,8 @@ const ARTIST_DATA = {
       "venue": "Casino",
       "notes": "",
       "version": "FM",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1961-05-10 - Bern, Switzerland  - Casino [FM].txt"
     },
     {
       "year": 1961,
@@ -149,7 +157,8 @@ const ARTIST_DATA = {
       "venue": "Konserthuset",
       "notes": "",
       "version": "FM",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1961-05-16 - Stockholm, Sweden - Konserthuset [FM].txt"
     },
     {
       "year": 1962,
@@ -162,7 +171,8 @@ const ARTIST_DATA = {
       "venue": "Village Gate",
       "notes": "",
       "version": "SBD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1962-11-12 - New York, NY - Village Gate [SBD].txt"
     },
     {
       "year": 1963,
@@ -175,7 +185,8 @@ const ARTIST_DATA = {
       "venue": "Baden",
       "notes": "",
       "version": "TV",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1963-03-02 - Baden, Germany - Baden [TV].txt"
     },
     {
       "year": 1963,
@@ -188,7 +199,8 @@ const ARTIST_DATA = {
       "venue": "Unknown Venue",
       "notes": "",
       "version": "preFM",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1963-03-05 - Stockholm, Sweden - Unknown Venue [preFM].txt"
     },
     {
       "year": 1963,
@@ -201,7 +213,8 @@ const ARTIST_DATA = {
       "venue": "Olympia Theater",
       "notes": "",
       "version": "SBD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1963-03-09 - Paris, France - Olympia Theater [SBD].txt"
     },
     {
       "year": 1963,
@@ -214,7 +227,8 @@ const ARTIST_DATA = {
       "venue": "TBS-TV Studio G",
       "notes": "",
       "version": "SBD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1963-05-23 - Tokyo, Japan - TBS-TV Studio G [SBD].txt"
     },
     {
       "year": 1964,
@@ -227,7 +241,8 @@ const ARTIST_DATA = {
       "venue": "Tivoli Konserthal",
       "notes": "",
       "version": "FM",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1964-02-21 - Copenhagen, Denmark - Tivoli Konserthal [FM].txt"
     },
     {
       "year": 1964,
@@ -240,7 +255,8 @@ const ARTIST_DATA = {
       "venue": "Alhambra",
       "notes": "",
       "version": "SBD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1964-02-22 - Paris, France - Alhambra [SBD].txt"
     },
     {
       "year": 1964,
@@ -253,7 +269,8 @@ const ARTIST_DATA = {
       "venue": "*Live in Paris 1964",
       "notes": "",
       "version": "Silver CD",
-      "format": "SHN"
+      "format": "SHN",
+      "textFile": "1964-02-23 - Paris, France - Live in Paris 1964 [Silver].txt"
     },
     {
       "year": 1964,
@@ -266,7 +283,8 @@ const ARTIST_DATA = {
       "venue": "Volkshaus",
       "notes": "",
       "version": "FM",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1964-02-26 - Zurich, Switzerland - Volkshaus [FM].txt"
     },
     {
       "year": 1965,
@@ -279,7 +297,8 @@ const ARTIST_DATA = {
       "venue": "Sendesaal Radio",
       "notes": "",
       "version": "FM",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1965-03-08 - Bremen, Germany - Sendesaal Radio [FM].txt"
     },
     {
       "year": 1965,
@@ -292,7 +311,8 @@ const ARTIST_DATA = {
       "venue": "Palace des Arts",
       "notes": "",
       "version": "SBD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1965-08-21 - Montreal, Canada - Palace des Arts [SBD].txt"
     },
     {
       "year": 1966,
@@ -305,7 +325,8 @@ const ARTIST_DATA = {
       "venue": "Radio",
       "notes": "Sound",
       "version": "FM",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1966-03-20 - Paris, France - Radio - Sound A [FM].txt"
     },
     {
       "year": 1966,
@@ -318,7 +339,8 @@ const ARTIST_DATA = {
       "venue": "Tivolis Konserthal",
       "notes": "",
       "version": "FM",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1966-04-17 - Copenhagen, Denmark - Tivolis Koncertsal [FM].txt"
     },
     {
       "year": 1966,
@@ -331,7 +353,8 @@ const ARTIST_DATA = {
       "venue": "Newport Jazz Festival",
       "notes": "",
       "version": "FM",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1966-07-02 - Newport, RI - Newport Jazz Festival [FM].txt"
     },
     {
       "year": 1967,
@@ -344,7 +367,8 @@ const ARTIST_DATA = {
       "venue": "Salle Pleyel",
       "notes": "",
       "version": "SBD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1967-11-05 - Paris, France - Salle Pleyel [SBD].txt"
     },
     {
       "year": 1967,
@@ -357,7 +381,8 @@ const ARTIST_DATA = {
       "venue": "Liederhalle",
       "notes": "",
       "version": "FM",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1967-11-08 - Mainz, Germany - Liederhalle [FM].txt"
     },
     {
       "year": 1967,
@@ -370,7 +395,8 @@ const ARTIST_DATA = {
       "venue": "Unknown Venue",
       "notes": "",
       "version": "FM",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1967-11-28 - Rotterdam, Holland - Unknown Venue [FM].txt"
     },
     {
       "year": 1969,
@@ -383,7 +409,8 @@ const ARTIST_DATA = {
       "venue": "Philharmonie in Berlin",
       "notes": "Jazztage",
       "version": "FM",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1969-11-07 - Berlin, Germany - Philharmonie in Berlin - Jazztage [FM].txt"
     },
     {
       "year": 1969,
@@ -396,7 +423,8 @@ const ARTIST_DATA = {
       "venue": "Sartory",
       "notes": "",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1969-12-02 - Cologne, Germany - Sartory [AUD].txt"
     },
     {
       "year": 1971,
@@ -409,7 +437,8 @@ const ARTIST_DATA = {
       "venue": "Giants of Jazz",
       "notes": "",
       "version": "FM",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1971-10-20 - Milano, Italy - Giants of Jazz [FM].txt"
     },
     {
       "year": 1971,
@@ -422,7 +451,8 @@ const ARTIST_DATA = {
       "venue": "Kongresshalle",
       "notes": "",
       "version": "FM",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1971-11-07 - Kongresshalle, Boblingen,Germany [FMB].txt"
     },
     {
       "year": 1972,
@@ -435,7 +465,8 @@ const ARTIST_DATA = {
       "venue": "Unknown Venue",
       "notes": "",
       "version": "FM",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1972-10-27 - Paris, France - Unknown Venue [FM].txt"
     },
     {
       "year": 1975,
@@ -448,7 +479,8 @@ const ARTIST_DATA = {
       "venue": "Philharmonie Hall",
       "notes": "",
       "version": "SBD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1975-07-03 - New York, NY - Philharmonie Hall [SBD].txt"
     }
   ],
   "misc": [

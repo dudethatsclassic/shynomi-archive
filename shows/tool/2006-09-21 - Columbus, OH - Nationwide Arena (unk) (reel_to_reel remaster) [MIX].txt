@@ -1,0 +1,33 @@
+Tool
+Nationwide Arena, Columbus, Ohio
+September 21st, 2006
+
+AUDIO 1 LINEAGE: Core Sound Binaurals/120 > Microtracker 24/96 (@24bit/48kHz) 
+> USB > WAV > CEP2.0 > CD Wave > FLAC > matrixed in Audition > split to 24bit
+FLAC
+
+AUDIO 2 LINEAGE: sp-bmc-3 mics > bass rolloff 195hrzsp-bm6 batt box > 
+sony mzrh-10minidiscHIMD hi-sp > sonicstage(transfer) > goldwave fade ins/outs 
+mastering > cdwave > flac > matrixed in Audition > split to 24bit FLAC
+
+SETLIST:
+Stinkfist
+The Pot
+Forty Six & 2
+Jambi
+Schism
+Rosetta Stoned
+Wings for Marie (Pt 1)
+10,000 Days (Wings Pt 2)
+Lateralus
+Vicarious
+Ænema
+
+COMMENTS:
+There are many sources for this show, even an IEM. I found the IEM to actually
+be pretty useless overall. The CSB source sounds phenomenal, and really has flat
+out more clarity than the IEM recording. I mixed in the sp-bmc source to enhance
+the guitar but that's it really.
+
+Remastered and shared by reel_to_reel
+!!! DO NOT SHARE IN MP3 OR OTHER LOSSY FORMATS, KEEP IT LOSSLESS !!!

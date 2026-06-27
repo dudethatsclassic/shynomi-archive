@@ -1,0 +1,12 @@
+Tool - 2006.04.30
+Empire Polo Fields - Indio, CA, USA
+version 8
+
+media type: FLAC
+source: Danish Pro Audio 4061's > 9V BattBox > Line In > Sony MZ-RH10 (HiSP mode) > SonicStage (USB cable) > Wavelab 3.04a (EQ, compression, normalize) > CD Wave Editor > FLAC
+taper: Adam Lancaster
+trade status: can trade
+
+disc 1 - 12 tracks - 78:05
+
+notes: none

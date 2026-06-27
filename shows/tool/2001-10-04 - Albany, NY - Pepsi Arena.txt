@@ -1,0 +1,32 @@
+Tool
+2001-10-04
+Albany, NY
+Pepsi Arena
+
+Taper: Toaster
+Source: Core Sound Binaurals > Bass Rolloff > Sony TCD-D100
+Transfer: DDS Drive > .WAV > .FLAC
+Generation: 0
+
+Setlist:
+Disc 1
+01 - Tuvan intro - 3:45
+02 - The Grudge - 8:45
+03 - (-) ions - 0:35
+04 - Stinkfist - 6:36
+05 - Forty-Six & 2 - 6:42
+06 - Eon Blue Apocalypse - 1:27
+07 - The Patient - 8:14
+08 - Eulogy - 10:18
+09 - Schism - 7:10
+10 - intro to Disposition - 3:37
+
+Disc 2
+01 - Disposition - 5:18
+02 - Reflection - 17:08
+03 - intermission - 5:59
+04 - Triad - 10:31
+05 - Parabol - 2:58
+06 - Parabola - 6:51
+07 - Ænema - 8:30
+08 - Lateralus - 11:41

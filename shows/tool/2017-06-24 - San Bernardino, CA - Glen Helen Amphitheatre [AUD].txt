@@ -1,0 +1,30 @@
+Tool 2017-06-24 San Bernardino, California, Meddle Earth (24bit48kHz) (flac)
+\11 Third Eye.flac
+Format                                   : FLAC
+Format/Info                              : Free Lossless Audio Codec
+File size                                : 162 MiB
+Duration                                 : 15 min 0 s
+Overall bit rate mode                    : Variable
+Overall bit rate                         : 1 513 kb/s
+Album                                    : Tool 2017-06-24 San Bernardino, California, Meddle Earth (24bit48kHz) (flac)
+Album/Performer                          : Tool
+Track name                               : Third Eye
+Track name/Position                      : 11
+Performer                                : Tool
+Description                              : Recorded by Meddle Earth in San Bernardino 2017
+Cover                                    : Yes
+Cover type                               : Cover (front)
+Cover MIME                               : image/jpeg
+
+Audio
+Format                                   : FLAC
+Format/Info                              : Free Lossless Audio Codec
+Duration                                 : 15 min 0 s
+Bit rate mode                            : Variable
+Bit rate                                 : 1 512 kb/s
+Channel(s)                               : 2 channels
+Channel positions                        : Front: L R
+Sampling rate                            : 48.0 kHz
+Bit depth                                : 24 bits
+Stream size                              : 162 MiB (100%)
+Writing library                          : libFLAC 1.2.1 (UTC 2007-09-17)

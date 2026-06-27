@@ -1,0 +1,62 @@
+TOOL
+====
+2001-09-22
+Hartford, CT
+Hartford Civic Center
+
+AUD Recording • NTSC • 704 x 480 • 4272 kb/s
+Stereo AC3 • 448 kb/s
+
+TRACKS
+------
+Tuva
+The Grudge
+(-) Ions
+Stinkfist 
+46 & 2
+Undertow
+Aeon Red Apocalypse 
+Eulogy
+Schism
+Disposition
+Reflection
+Intermission
+Parabol
+Parabola
+Eon Blue Apocalypse
+The Patient
+Ænema
+Lateralus
+---------
+
+SOURCE:  
+Hi8 --- Sony CCD-TRV940 Hi8 w/Sound Professional mics (according to collectiveunconscious.org)
+-> VHS (1) tape supplied by Mitch Van Beekum
+-> DVD Stand Alone recorder, NTSC, 704 x 480
+
+ORIGINAL NOTES
+--------------
+According to source gathered here http://www.collectiveunconscious.org/01arena0922.html
+the circulating version of this is a DVD taken from a 2nd generation VHS in which
+the audio is only in the left channel. This source was transferred by myself from
+a VHS tape I obtained from Mitch Van Beekum, who alleged to have gotten it from the
+filmer. I transferred a bunch of tapes from Mitch around 2003 and all his sources
+appeared to be as he claimed.
+
+The audio still has a wee bit of VHS crackle but it is very full sounding, as would
+be if the Sound Professional mics that CU has listed as the source were indeed used.
+All this leads me to believe this to be an upgrade over circulating versions.
+I probably traded this a few times back in the day so it is not uncirculated.
+
+2024 NOTES
+----------
+1st Gen VHS > WAV > unknown Gen CDR > FLAC > Remaster
+[Eq / Sync / audio cleaning / Levels adjustments / Stereo separation]
+
+Thanks to all tapers for recording & sharing their work.
+
+Audio Remaster & Authoring by Alvarojam
+January 16, 2024
+
+
+

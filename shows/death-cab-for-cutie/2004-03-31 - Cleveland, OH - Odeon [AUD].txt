@@ -1,0 +1,38 @@
+Death Cab For Cutie
+2004-03-31
+Cleveland, OH - Odeon
+Co-headliner with Ben Kweller, Aveo opener
+
+Taper:      Brian Skalinder
+Location:   Center, 7' up clamped to front of soundboard structure
+Config:     DIN (20cm, 90º)
+Source:     Schoeps MK41/KC5/CMC6 > Lunatec V3 (16-bit/44.1kHz) > Hosa ODL-312 > Nomad JB3
+Conversion: Nomad JB3 > Adaptec FireConnect 4300 > Notmad Explorer > PC
+Editing:    CD-Wave (tracking), Cool Edit Pro 2.0 (fades)
+
+
+ONE DISC
+
+01. [ intro ]
+02. The New Year
+03. A Movie Script Ending
+04. Why You'd Want To Live Here
+05. Title And Registration
+06. For What Reason
+07. Company Calls
+08. Company Calls Epilogue
+09. Expo '86
+10. Lightness
+11. The Sound Of Settling
+12. We Looked Like Giants
+13. Tiny Vessels
+14. Transatlantacism
+
+ENCORE
+
+15. Blacking Out The Friction
+16. Prove My Hypotheses
+
+NOTES:
+
+Full house at the Odeon!  The venue initially stuck me in the back corner of the room - still technical FOB, but a crappy sounding location in an already crappy sounding venue.  After a brief discussion with security (who in turn checked with the soundguys and stage manager) they let me clamp DFC to the front of the soundboard structure.  Sound is pretty good, though I think the following night's Club Laga recording sounds better.	

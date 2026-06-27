@@ -1,0 +1,141 @@
+EAC extraction logfile from 6. June 2005, 15:44 for CD
+pixies / 1988-04-14
+
+Used drive  : _NEC    DV-5800A   Adapter: 1  ID: 0
+Read mode   : Secure with C2, accurate stream, NO disable cache
+Combined read/write offset correction : 0
+Overread into Lead-In and Lead-Out : No
+
+Used output format : Internal WAV Routines
+                     44.100 Hz; 16 Bit; Stereo
+
+Other options      : 
+    Fill up missing offset samples with silence : Yes
+    Delete leading and trailing silent blocks : No
+    Native Win32 interface for Win NT & 2000
+
+
+Track  1
+     Filename C:\temp\pixies1988-04-14t01.wav
+
+     Peak level 87.9 %
+     Track quality 100.0 %
+     Copy CRC C2FA8FE7
+     Copy OK
+
+Track  2
+     Filename C:\temp\pixies1988-04-14t02.wav
+
+     Peak level 82.6 %
+     Track quality 100.0 %
+     Copy CRC 76B86D37
+     Copy OK
+
+Track  3
+     Filename C:\temp\pixies1988-04-14t03.wav
+
+     Peak level 100.0 %
+     Track quality 100.0 %
+     Copy CRC 5A4F634B
+     Copy OK
+
+Track  4
+     Filename C:\temp\pixies1988-04-14t04.wav
+
+     Peak level 100.0 %
+     Track quality 100.0 %
+     Copy CRC AD8F5C50
+     Copy OK
+
+Track  5
+     Filename C:\temp\pixies1988-04-14t05.wav
+
+     Peak level 100.0 %
+     Track quality 100.0 %
+     Copy CRC D1F35815
+     Copy OK
+
+Track  6
+     Filename C:\temp\pixies1988-04-14t06.wav
+
+     Peak level 100.0 %
+     Track quality 100.0 %
+     Copy CRC 8FA0F855
+     Copy OK
+
+Track  7
+     Filename C:\temp\pixies1988-04-14t07.wav
+
+     Peak level 100.0 %
+     Track quality 100.0 %
+     Copy CRC F7DBDD84
+     Copy OK
+
+Track  8
+     Filename C:\temp\pixies1988-04-14t08.wav
+
+     Peak level 97.8 %
+     Track quality 100.0 %
+     Copy CRC 011AF6F5
+     Copy OK
+
+Track  9
+     Filename C:\temp\pixies1988-04-14t09.wav
+
+     Peak level 100.0 %
+     Track quality 100.0 %
+     Copy CRC A6EABCD2
+     Copy OK
+
+Track 10
+     Filename C:\temp\pixies1988-04-14t10.wav
+
+     Peak level 78.9 %
+     Track quality 100.0 %
+     Copy CRC 77F49B10
+     Copy OK
+
+Track 11
+     Filename C:\temp\pixies1988-04-14t11.wav
+
+     Peak level 100.0 %
+     Track quality 100.0 %
+     Copy CRC A5AE5102
+     Copy OK
+
+Track 12
+     Filename C:\temp\pixies1988-04-14t12.wav
+
+     Peak level 88.9 %
+     Track quality 100.0 %
+     Copy CRC 8B757706
+     Copy OK
+
+Track 13
+     Filename C:\temp\pixies1988-04-14t13.wav
+
+     Peak level 86.9 %
+     Track quality 100.0 %
+     Copy CRC 9F04F461
+     Copy OK
+
+Track 14
+     Filename C:\temp\pixies1988-04-14t14.wav
+
+     Peak level 96.1 %
+     Track quality 99.5 %
+     Copy CRC AB796EE1
+     Copy OK
+
+Track 15
+     Filename C:\temp\pixies1988-04-14t15.wav
+
+     Peak level 87.9 %
+     Track quality 99.1 %
+     Copy CRC 2A781AA4
+     Copy OK
+
+No errors occured
+
+
+End of status report

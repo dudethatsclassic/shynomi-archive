@@ -1,0 +1,18 @@
+Tool
+1993-08-01
+Dallas, TX
+Starplex Ampitheater
+
+Source: Soundboard
+Transfer: ASBM > DDC2 32khz > CDR > EAC (Secure Mode) > CDWave (tracking) > .WAV > .FLAC
+Generation: 3rd
+Notes: Layne Staley of Alice In Chains on additional vocals during Opiate, spoken word on Bottom by Maynard.
+
+Setlist:
+01 - Intolerance - 6:11
+02 - Undertow - 5:54
+03 - Sober - 5:29
+04 - Prison Sex - 5:17
+05 - Opiate - 6:00
+06 - Bottom - 7:08
+07 - Jerkoff - 1:37 (cut halfway, fade out on master)

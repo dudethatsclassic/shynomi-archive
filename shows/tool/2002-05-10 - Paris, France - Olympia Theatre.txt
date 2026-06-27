@@ -1,0 +1,15 @@
+Tool - 2002.05.10
+Olympia Theatre - Paris, France
+version 6
+
+media type: FLAC
+source: Core Sound Binaurals > Sharp MT77 > unknown transfer > 0 gen SHN > WAV > FLAC
+taper: Duncan
+
+disc 1 - 13 tracks - 102:25
+
+notes: The second of two sources used in version 3, tracked on 2022.02.27.  Thanks to Distortion for locating this! This may be a 0 gen transfer, but not 100% certain.
+
+tooldriveproject.net
+
+ 

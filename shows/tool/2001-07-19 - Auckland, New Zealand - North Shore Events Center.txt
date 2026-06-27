@@ -1,0 +1,14 @@
+Tool - 2001.07.19
+North Shore Events Centre - Auckland, New Zealand
+version 2
+
+media type: FLAC
+source: Sony Mic > Sony MZ-R70 > unknown transfer > CDR > EAC > FLAC
+trade status: can trade
+
+disc 1 - 9 tracks - 64:31
+disc 2 - 10 tracks - 53:46
+
+notes: Version 1 has a better sound quality. If you happen to know correct source info on this version, please let me know.
+
+ 

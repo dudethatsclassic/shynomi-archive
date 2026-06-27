@@ -21,9 +21,10 @@ const ARTIST_DATA = {
       "state": "IL",
       "location": "Champaign, IL",
       "venue": "Pygmalion Festival",
-      "notes": "Highdive · SP-BMC-2 · rhinowing",
+      "notes": "Highdive \u00b7 SP-BMC-2 \u00b7 rhinowing",
       "version": "AUD",
-      "format": "FLAC 24"
+      "format": "FLAC 24",
+      "textFile": "2014-09-28 - Champaign, IL - Pygmalion Festival - Highdive Outdoor Annex [AUD24].txt"
     },
     {
       "year": 2016,
@@ -34,9 +35,10 @@ const ARTIST_DATA = {
       "state": "IL",
       "location": "Champaign, IL",
       "venue": "Foellinger Auditorium",
-      "notes": "SP-BMC-2 · rhinowing",
+      "notes": "SP-BMC-2 \u00b7 rhinowing",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "2016-12-04 - Champaign, IL - Foellinger Auditorium [AUD].txt"
     },
     {
       "year": 2017,
@@ -49,7 +51,8 @@ const ARTIST_DATA = {
       "venue": "Pitchfork Music Festival",
       "notes": "indykid",
       "version": "Webcast",
-      "format": "TS"
+      "format": "TS",
+      "textFile": "2017-07-16 - Chicago,IL - Pitchfork Music Festival [WEBCAST].txt"
     },
     {
       "year": 2024,
@@ -60,9 +63,10 @@ const ARTIST_DATA = {
       "state": "Spain",
       "location": "Barcelona, Spain",
       "venue": "Primavera Sound",
-      "notes": "Twitch Webcast · 1080",
+      "notes": "Twitch Webcast \u00b7 1080",
       "version": "Webcast",
-      "format": "TS"
+      "format": "TS",
+      "textFile": "2024-06-01 - Barcelona, Spain - Primavera Sound (Twitch Webcast) (1080) [TS].txt"
     },
     {
       "year": 2024,
@@ -73,9 +77,10 @@ const ARTIST_DATA = {
       "state": "NV",
       "location": "Las Vegas, NV",
       "venue": "Best Friends Forever Festival",
-      "notes": "Zoom H1n · unk",
+      "notes": "Zoom H1n \u00b7 unk",
       "version": "AUD",
-      "format": "FLAC 24"
+      "format": "FLAC 24",
+      "textFile": "2024-10-11 - Las Vegas, NV - Best Friends Forever Festival (Zoom H1n) (unk) [AUD24].txt"
     }
   ],
   "misc": []

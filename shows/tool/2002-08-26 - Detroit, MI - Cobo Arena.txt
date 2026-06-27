@@ -1,0 +1,43 @@
+Tool
+2002-08-26
+Cobo Arena
+Detroit, MI 
+Source: CSB > Sharp MT-877
+Location: barricade
+Taper: SP a.k.a. GCMK 
+Transfer: Tascam DA-302 digi coax > Audiophile 2496 > Soundforge 5.0 (resampled/normalized) > CDWav (tracking) 
+
+update [11/24/17] endoded to .flac TLH 2.7.0 (Build 172) encoded to .flac (level 8)/align (fix)/test 
+
+Disc 1:
+
+01) intro			06:42
+02) Sober intro			02:22
+03) Sober			05:29
+04) Grudge			08:27
+05) ions speech 		01:14
+06) Stinkfist 			06:26
+07) H				06:39
+08) Schism intro		02:04
+09) Schism			07:59
+10) tuneups			01:38
+11) Parabol			03:01
+12) Parabola			06:17
+13) maynard			01:18
+14) Opiate			06:43
+15) intermission 		04:50
+
+Total Time: 			71:15
+
+
+Disc 2:
+
+01) intermission		05:53
+02) Disposition			05:38
+03) Reflection			12:51
+04) Triad			10:14
+05) maynard			02:48
+06) Lateralus 			11:59
+
+Total Time: 			49:25
+

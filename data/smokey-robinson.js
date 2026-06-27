@@ -20,7 +20,8 @@ const ARTIST_DATA = {
       "venue": "WDR-TV Studios *Musikladen Extra",
       "notes": "",
       "version": "TV",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1977-10-21 - Bremen, Germany - WDR-TV Studios - Musikladen Extra [TV].txt"
     }
   ],
   "misc": []

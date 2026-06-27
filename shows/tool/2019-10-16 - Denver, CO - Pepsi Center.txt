@@ -1,0 +1,39 @@
+Tool
+2019-10-16
+Pepsi Center,
+Denver, CO
+
+Source: DPA 4061's > Church Audio Ugly Box > Sony PCM-M10 (Preamp Mod) @ 24bit/96kHz
+Transfer: MicroSD card > PC > Adobe Audition (Appends, Cuts, Fades, EQ, Normalized, Resampled, Bit Depth Conversion) > Flac Frontend (Level 8) > .FLAC > Tag & Rename (Tags)
+Taper: TB
+Location: 4th row floor, Adam's side
+
+Tracklist:
+
+01 Intro
+02 Fear Inoculum
+03 Aenema
+04 The Pot
+05 Parabol
+06 Parabola
+07 Pneuma (False Start)*
+08 Pneuma
+09 Schism (Extended)
+10 Jambi
+11 Vicarious
+12 Part of Me
+13 Forty Six & 2
+14 Intermission **
+15 (Danny Plays With His Gong) ***
+16 Chocolate Chip Trip
+17 Invincible
+18 Stinkfist (Extended)
+
+PLEASE DO NOT ALTER/MODIFY/REMASTER AND REPOST IN ANY WAY!!!
+PLEASE DO NOT POST ON YOUTUBE!!!
+
+* Danny triggers the wrong sample in the intro.  It was an really loud crashing sound that got everyones attention.  The band stopped.  Maynard asked if Danny was high.  Adam starts the song over.
+
+** Some bits of the intermission were cut out to remove personal info captured from nearby conversations.
+
+*** A giant gong was setup to the right of Danny's kit.  He opened from intermission by messing around on it for a couple minutes before going into CCTrip.

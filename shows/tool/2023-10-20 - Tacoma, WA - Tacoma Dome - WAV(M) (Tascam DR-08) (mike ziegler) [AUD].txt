@@ -1,0 +1,51 @@
+TOOL
+October 20, 2023
+Tacoma Dome
+Tacoma, WA
+
+SOURCE:
+built-in > Tascam DR-08
+
+TRANSFER:
+Tascam DR-08 > USB > Adobe Audition 3.0 > CD Wave 1.98 > Trader's Little Helper 2.8.4
+
+GENERATION:
+WAV(M) [48kHz/24bit] > WAV [44.1kHz/16bit] > FLAC [Level 8]
+
+LENGTH:
+124:31
+
+TRACKS:
+01. intro
+02. Fear Inoculum
+03. Jambi
+04. The Pot
+05. Rosetta Stoned
+06. Pneuma
+07. Descending
+08. Intolerance
+09. The Grudge
+10. Chocolate Chip Trip
+11. Culling Voices
+12. Invincible
+13. Stinkfist
+
+FLAC FINGERPRINTS:
+tool2023-10-20t01.flac:821ca1d24c089d9a410ed209ffef7383
+tool2023-10-20t02.flac:a368866a0fc1689b9b79aebe18d3b9b7
+tool2023-10-20t03.flac:6cb13f595fe2ffda336772c5848aede2
+tool2023-10-20t04.flac:9774b18690e15ff07468c16f7c628b72
+tool2023-10-20t05.flac:25336a21d6a521c77739ff30131840fb
+tool2023-10-20t06.flac:a29a55ebcc29def8c9059773f67c5266
+tool2023-10-20t07.flac:49a3f8317dd1519475f43257fddde932
+tool2023-10-20t08.flac:e85daab13c31ee81f82bb6a706dadfaf
+tool2023-10-20t09.flac:7b3e2aa1ed8ff1fee31effce30f969b1
+tool2023-10-20t10.flac:f1761b305e6eb765d703f39206cf7666
+tool2023-10-20t11.flac:7ba077962c29813763473c0f3e2f8e79
+tool2023-10-20t12.flac:d4128681dd706df33dd5de029b3cea97
+tool2023-10-20t13.flac:8878352171f2fded5e00daf1c9ffbaef
+
+RECORDED BY:
+Mike Ziegler
+
+PLEASE DO NOT SELL OR ENCODE TO MP3

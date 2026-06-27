@@ -1,0 +1,94 @@
+The Flaming Lips
+Festival Hall
+Melbourne, Australia
+February 1, 2025
+
+Taped by Claire Laura Fredriksson (CLF, choc_eClaire, fuzzbluerain, etc.)
+Specs: Zoom H1n internal mics, bass rolloff @ 80 Hz, positioned in shirt collar
+Position: ground floor, in line with left speakers, ~15-20m back
+Lineage: 24/48 .wav > Audacity (fades, tracking, slight pan adjustment) > TLH (level 8 FLAC) > foobar2000 (tagging)
+
+Track listing:
+-----------------Yoshimi Battles the Pink Robots-----------------
+ 1. [intro]                                                  2:07
+ 2. Flight Test                                              4:16
+ 3. One More Robot / Sympathy 3000-21                        5:04
+ 4. Yoshimi Battles the Pink Robots, Pt. 1                   5:10
+ 5. Yoshimi Battles the Pink Robots, Pt. 2                   3:15
+ 6. [banter]                                                 3:59
+ 7. In the Morning of the Magicians >                        6:27
+ 8. Ego Tripping at the Gates of Hell                        5:25
+ 9. Are You a Hypnotist??                                    6:24
+10. It's Summertime                                          5:23
+11. [banter]                                                 3:34
+12. Do You Realize??                                         4:41
+13. All We Have Is Now                                       4:03
+14. Approaching Pavis Mons by Balloon (Utopia Planitia)      3:48
+    set total                                             1:03:35
+------------------------------Set 2------------------------------
+ 1. [intro]                                                  1:22
+ 2. She Don't Use Jelly                                      3:52
+ 3. [banter]                                                 3:51
+ 4. Flowers of Neptune 6                                     4:02
+ 5. [banter]                                                 2:24
+ 6. The Spark That Bled                                      6:53
+ 7. Pompeii Am Götterdämmerung                               5:00
+ 8. [banter]                                                 4:43
+ 9. Waitin' for a Superman                                   4:48
+10. [banter]                                                 3:38
+11. Riding to Work in the Year 2025 (Your Invisible Now)     5:38
+12. [banter]                                                 2:40
+13. Christmas at the Zoo                                     3:11
+14. [banter]                                                 2:28
+15. Love Yer Brain                                           4:43
+16. [banter]                                                 1:59
+17. The Yeah Yeah Yeah Song (With All Your Power)            4:08
+18. [encore break]                                           3:21
+19. [banter]                                                 4:03
+20. A Spoonful Weighs a Ton                                  4:15
+21. Race for the Prize                                       6:06
+    set total                                             1:23:05
+------------------------------Set 2------------------------------
+    total                                                 2:26:40
+
+Personnel (instruments are kind of a guess):
+Wayne Coyne - lead vocals, (mimed?) horns
+Steven Drozd - guitar, keyboard
+Derek Brown - keyboard, guitar
+Tommy McKenzie - bass, guitar
+Matt Duckworth Kirksey - drums
+
+Review:
+I'm not sure it would be accurate to say I saw the Flaming Lips in Melbourne last night - really,
+I experienced the Flaming Lips. Psychedelic rock goofballs from Oklahoma, they've spent the last
+few years touring in celebration of 2002's Yoshimi Battles the Pink Robots, and they finally bought
+this show to Australia at the start of 2025. It was my first time at Festival Hall, a box in the
+inner west with a capacity of 5,400 and a reputation in Australian music history (it was where the
+Beatles played their only Melbourne shows, for instance) - it was purchased by a weird evangelical
+megachurch group in 2020, to much disdain, but some of the theatrics of the Flips made me think of
+that.
+
+Because, in all honesty, this audio only captures part of the experience. The band performed in
+front of a giant LED screen, with every word sung flashing up on there as he sang it; there were
+lasers flying over our heads constantly; balloons and confetti were thrown into the crowd with
+enthusiasm and regularity (the loud cheer at the end of Yoshimi Pt. 2 is because one of them popped
+a little while after the song finished); and the band was joined on stage by giant inflatable
+robots throughout the first set (there were costume changes in the second). There's really nothing
+else like it.
+
+The music was pretty great, unsurprisingly; I haven't listened to the album in a while but it was
+quite a faithful performance, and the second set gave us another collection of fun neo-psych jams
+(opening it with 'She Don't Use Jelly' was an inspired choice, although I really liked 'Riding to
+Work in the Year 2025'). Wayne was very intent on making sure we were all having a good time,
+constantly getting us to scream for him and generally trying to hype up the love and happiness and
+all of that (I was too busy praying I didn't overheat to really get on board), so there's a lot of
+banter tracks in the second set that I normally wouldn't track out individually but figured I had
+to this time around. At the end of a long evening, yet more confetti was blown out onto us all and
+we made our way out into the night - an experience that (the sober people in) the crowd will never
+forget.
+
+Requests:
+Please don't sell this - nobody, tapers or artists, will like you if you do.
+Please keep this info file around if you post it anywhere else (which you're welcome to do!)
+If you give this recording a remaster/matrix treatment, please message me before you do so.
+I can be reached on Dimeadozen (fuzzbluerain) or Twitter (fuzzybluerain) most easily.

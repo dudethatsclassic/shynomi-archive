@@ -1,0 +1,70 @@
+Jeff Buckley
+21 June 1995
+City Varieties, Leeds, England
+
+Master AUD recording
+Taper: C
+
+Art included
+
+Lineage: Sony Walkman > Unknown Mic > C90 Cassette(M) > CD
+Transfer:  CD > EAC > FLAC > WAV > AudioJoiner/CDWave/AudioJoiner/CDWave > FLAC
+
+Track List:
+-----------
+CD1
+01 intro
+02 The Way Young Lovers Do (Van Morrison)
+03 band intro
+04 Dream Brother
+05 Lover, You Should've Come Over
+06 So Real
+07 Eternal Life
+08 Mojo Pin
+
+Disc 2
+01 chat
+02 Kick Out The Jams (MC5)
+03 Grace
+04 Lilac Wine (Nina Simone)
+05 Last Goodbye
+06 What Will You Say
+07 chat
+08 Hallelujah (inc. I Know It's Over (Smiths))
+
+TT: 1:30:47
+
+Jeff Buckley - Guitars & Vocals
+Michael Tighe - Guitars
+Mick Grondahl - Bass
+Matt Johnson - Drums 
+
+
+With their recording obligations done, the band took two weeks well-deserved rest before setting off for the third leg of the 1995 Mystery White Boy Tour: 20 dates, largely following the Summer Festival circuit, with a few added nights. We are lucky to have recordings of 13 of them, in whole or in part, audio and video both. The tour opened in Edinburgh at Queen's Hall. We have no recording, but a contemporaneous review can be found here: https://notwithyoubutofyou.blogspot.com/2021/01/queens-hall-review.html
+
+From Edinburgh, it was south to Leeds, and the Grade II listed City Varieties Music Hall, a venerable 450-seater which has been hosting entertainment events since the days of Queen Victoria. No longer the opening act, the band's set is expanded back to its full length. Lilac Wine is back in the rotation, but the usual encores are not played, perhaps due to the inclusion of a very special solo performance of "The Way Young Lovers Do", which careful listeners will hear, includes a couple of nifty teases. Jeff starts by announcing that Mickey Grondahl is missing - 'probably off getting drunk' - I assume that's why we get the tune, and it's a scat-filled scorcher. He finishes, saying, "Maybe he's here now". You can actually follow along with the most excellent 'libretto' provided by emilycurious, which is included in the upload. No real surprises in the rest of the show; there is a good bit of over-saturation in the loud bits, but it's a solid performance in a now quite listenable form.
+
+Massive thanks to taper "C", to renowned trader and Buckley fan emilycurious, and the aintnobody for cleaning the set up so nicely. My original copy of these discs was in the same condition as the ones aintnobody had - I may have gotten mine from him in a trade. I tried to clean them up like he did, but he did a MUCH better job, so these are the files I'm uploading. I got this from his Dime upload many years back, and apart from the usual housekeeping, present them to you as-is.
+
+
+
+Taper's notes:
+--------------
+I recorded the whole show on a borrowed Sony Professional Walkman but unfortunately I'd set the recording levels a bit high to begin with, so some of the earlier tracks break up. Most of it is ok though. The mic was strapped to my wrist with the lead passing up my sleeve to the recorder which was hanging under my left arm, under a sweater. As you can imagine I couldn't do any clapping. It was recorded on a C90 cassette which I still have. The only bit of recording from the Jeff gig I didn't send you is when we catch up with [Jeff] after the show and he signed my ticket. I had the tape running while we hunted for a pen! In the end he found his fountain pen and we got his autograph. A special moment for me.
+
+emilycurious' original upload notes
+-----------------------------------
+As far as I am aware the complete concert is uncirculated (some individual tracks were posted to youTube). All the information about the recording are contained in this message from the taper. Unfortunately I don't have that last little bit. I don't know the process involved in getting the C90 recording to CD, but some of the songs are split across several tracks (Hallelujah/I Know It's Over are spread over some dozen tracks!) and a few songs are combined on one track - I'm not competent enough to correct - the files are encoded to FLAC directly from the CD's as I received via international snail mail. I've included a rough transcript of the gig as a guide to the tracking. It's not perfect, but it is superb, imho. 
+
+aintnobody's upload notes
+--------------------------
+It would appear that the original file set at some point in it's transfer to CD had been done so with some kind of 'track-at-once' option selected which inserted no less than thirty-three 2 second gaps(!) in various quieter moments during the recording dissecting most songs into multiple segments..... To fix this, I decoded & rejoined all the files, edited out the silences with CDWave, rejoined & then tracked accordingly. All thanks to taper 'C' & emilycurious 
+
+
+Files verified, tagged, and renamed to etree conventions; new checksums generated. 
+Text file updated, compiled & copy-edited by lovesick alien 2024-09-02
+--------------------------------------------------------------------------------
+Trade Freely. Never Sell. 
+Support the Artist: Purchase ALL authorised releases. 
+Support the Trading Community: Never Encode to lossy formats.
+--------------------------------------------------------------------------------

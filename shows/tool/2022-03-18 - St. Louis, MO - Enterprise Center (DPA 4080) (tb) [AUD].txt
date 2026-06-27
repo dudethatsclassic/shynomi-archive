@@ -1,0 +1,28 @@
+Tool
+2022-03-18
+Enterprise Center,
+St. Louis, MO
+
+Source: DPA 4080 > CA Ugly Battery Box > Sony PCM-M10 (Oade Preamp Mod) > .WAV (24Bit/96kHz)
+Transfer: SD Card > MacBook > Adobe Audition (Gain, Cuts, Fades, EQ) > Fission (Track Splits, Bit Depth, Sample Rate) > xACT > .FLAC (Level 8) > Meta (ID Tags)
+Location: 7th row floor, directly in line with Adam
+Taper: TB
+
+Tracklist:
+
+01 Intro
+02 Fear Inoculum
+03 Opiate (Extended)
+04 The Pot
+05 Pushit
+06 Pneuma
+07 The Grudge
+08 The Patient
+09 Descending
+10 Hooker With a Penis
+   Intermission (Cut)
+11 Chocolate Chip Trip
+12 Culling Voices
+13 Invincible
+
+Notes: Intermission was cut

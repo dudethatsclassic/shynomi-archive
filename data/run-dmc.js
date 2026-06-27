@@ -23,7 +23,8 @@ const ARTIST_DATA = {
       "venue": "LA Street Scene",
       "version": "AUD",
       "format": "FLAC",
-      "notes": ""
+      "notes": "",
+      "textFile": "1985-09-29 - Los Angeles, CA - LA Street Scene [AUD].txt"
     },
     {
       "year": 1987,
@@ -36,7 +37,8 @@ const ARTIST_DATA = {
       "venue": "Jaap Edenhal",
       "version": "FM",
       "format": "FLAC",
-      "notes": "frankvink"
+      "notes": "frankvink",
+      "textFile": "1987-05-21 - Amsterdam, The Netherlands - Jaap Edenhal [FM].txt"
     },
     {
       "year": 1988,
@@ -49,7 +51,8 @@ const ARTIST_DATA = {
       "venue": "Greek Theater",
       "version": "AUD",
       "format": "FLAC",
-      "notes": ""
+      "notes": "",
+      "textFile": "1988-06-27 - Los Angeles, CA - Greek Theatre [AUD].txt"
     },
     {
       "year": 1996,
@@ -62,7 +65,8 @@ const ARTIST_DATA = {
       "venue": "Dragonfly",
       "version": "AUD",
       "format": "FLAC",
-      "notes": ""
+      "notes": "",
+      "textFile": "1996-01-16 - Hollywood, CA - Dragonfly [AUD].txt"
     }
   ]
 };

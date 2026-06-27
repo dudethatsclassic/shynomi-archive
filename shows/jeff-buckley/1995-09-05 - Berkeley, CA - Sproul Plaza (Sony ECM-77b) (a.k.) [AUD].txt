@@ -1,0 +1,69 @@
+Jeff Buckley
+5 May 1995
+Sproul Plaza, UC Berkeley, Berkeley, CA
+
+Master AUD recording
+Taper: A.K.
+
+Art & photos from the event included
+
+Recording: ECM-77b > Sony TCD-D7
+Lineage: DAT clone > M-Audio Audiophile > FLAC > Wavelab/CDWave > FLAC
+
+Technical Notes:
+-Resampled to 44.1 kHz at 32-bit float with Wavelab
+-Levels adjusted during first song as taper adjusts attenuator
+-Clipping present on master attenuated
+-Some frequency loss from 32 kHz source restored; otherwise unadorned
+
+
+Set List:
+=========
+01 Last Goodbye
+02 Jeff Chatter
+03 Lover, You Should Have Come Over
+04 So Real
+05 Stone Temple Pilots tease
+06 Mojo Pin
+07 Chat -> Band Intros
+08 Grace
+
+TT: 38:42
+
+Jeff Buckley - Guitars & Vocals
+Michael Tighe - Guitars
+Mick Grondahl - Bass
+Matt Johnson - Percussion
+
+After the first night a the GAMH, Jeff headed over to the UC Berkeley campus for a short show at Sproul Plaza. Happily for us, taper A.K. was there to capture the show to DAT. This show has had a long and circuitous path to Dime. Apparently the taper provided a DAT clone to Buckley "collector" NewHomeBrew, from where it passed to longtime Buckley fan Milesian (you still out there?) who posted it to Dime in 2005. Some time later Buckley super-fan Buda re-upped it to Dime with extensive notes and commentary. An additional, slightly shorter recording with no lineage is also in circulation - as the taper notes, he was not the only one recording the show. As the commentary on these is so extensive, I'll pass the mic - first, to the taper.
+
+
+Taper's Notes:
+--------------
+Not too bad of a recording, considering the situation.  It all came back to me listening to it last night.  The first couple tracks is Jeff getting ready to play.  He took a while to get going and to engineer the sound.  The third track is when he starts playing.  You'll notice during the track that I'm switching back and forth from turning the attenuator on and off.  I couldn't get any levels with it on but with it off the wind would be a big factor. What a dilemma!! Well, you'll see that I take the plunge....you can hear the wind but it's not that significant, I think.  Lots of crowd interaction. I've always used two ECM-77b mics.  They don't sound too bad.  I remember seeing another DAT taper there except he had the full mic set up on stands, etc.  I got his name but have long since lost it.  I'll let you know when I have it ready to send off. The Buckley show was a free gig put on by the Student Body Union at UC Berkeley.  Outdoors...and windy.  I thought I could get away with switching the attenuator off, which I think was fine but the wind came in and kinda screwed it up...the wind actually distorts the mics if I recall.  All in all, I think it was a good recording but I probably haven't listened to it in almost 7-8 years!!  I hope all this is okay with you too.  Oh yeah...recorded in LP mode.
+
+Milesian's 2005 upload notes:
+-----------------------------
+Received as straight transfer at 32 kHz from NewHomeBrew. The set originally included a 7-plus minute portion at the start, consisting mostly of Jeff strumming his guitar as he prepared to play and lots of swirling wind noise, [which] has been omitted from this presentation. Track splits are mine and differ from NewHomeBrew's.
+
+Buda's re-upload notes & commentary:
+-------------------------------
+A very very good audience recording probably made by one of the students, [who is] audible between the first two songs talking about himself being in illegality now. The wind blows into the mic a few times during the opening 'Last Goodbye' and the closing 'Grace' but it just can't ruin the overall listening experience. Jeff performs an afternoon acoustic-show put on by the Student Body Union at University of California at Berkeley, outside the windy Sproul Plaza. The venue is a major centre of student activity and the show is free given to students. Though it takes some time for Jeff to engineer the sound as he wants it and getting ready to play, he's in great mood, constantly interacting with the audience in-between songs and making jokes all through the 40 minute long mini-set. 
+
+The set starts off with an inspired 'Last Goodbye' after which he saysregretfully that "I'm fighting congestion." Jeff being shy, the overcrowded audience might have caused some kind of stage fright in him. "Are you all Berkeley people?" Before anyone could have , Jeff did so, saying in a different tone "yeah, yeah, no, yes we are, no no... yes!" again causing much laughter in the audience. A bit later he remarks modestly that his song "is more like motifs, really." While tuning his guitar takes a bit more time than [planned], a girl shouts [at him]....Jeff immediately responds, Hello!? I can make an announcement for you if you want..." 
+
+"Lover, You Should Have Come Over" is carried out with just the same enthusiasm as the opener, and by the end of the performance, the audience is left wondering in amazement. Before "So Real", Jeff laments that he hopes "this thing is going to work." The song indeed works and features a spellbinding falsetto part at the end. Answering to a heckler that "Yeah we gonna punk out man... to that alternative thing," he suddenly starts to cover Stone Temple Pilots famous 1992 hit 'Plush' much to [the] surprise of the crowd. Then [comes] "Hey man...", a snippet from David Bowie's 1972 song 'Suffragette City'. [By] the time Jeff starts 'Mojo Pin' the audience is reduced to complete silence through its mere six minute run. The last song is preceded with another lengthy guitar tuning and Jeff acknowledges, "I know I'm not about to sing this motherfucker but I'm gonna do that anyway...." then adds that "I think what I need to do now is to drink all my cappuccino with all the milk in it and drown with some water..." 
+
+Then after introducing his band, he chats some with the audience, and then invites the crowd to join him during the evening show at the Great American Music Hall: "Believe I'll be better tonight if you care to come by at the Great American Music Club" then one of his mates adds that it's already sold-out. "Oh, yeah that's right it's sold-out. Sorry! Fuck. I'm sorry. ... Yeah I know why show up to the... you know all the mess when you see this shit for free?" Meanwhile tuning his guitar he realises that he's swearing in front of an under-age boy and adds "I'm sorry I'm cursing in front of a small child, I'm sorry. ... You'll learn to do it soon enough my dear." After an almost 4 minute break, Jeff asks modestly, "Am I sound chicken?" then suddenly leaves the question aside and adds, "Ok, wish me luck. It's called Grace." The beginning of the song is performed with extreme care both on guitar and on vocal but during halfway Jeff breaks the ice by pulling some occasional jokes. Still he finishes the song with a forceful approach of high and powerful falsettos then saying goodbye seemingly still being elevated by the performance. "Thank you everybody! Thank you very much! Now you gotta go to the class... This is Matt Johnson, people! Thanks very much! Mick Grondahl," adds "unplugged! Michael Tighe - of course, young Patrick Swayze... Thank you very much!"
+
+------------------------------------
+
+Apart from some housekeeping, this is Buda's re-upload, presented as-is.
+
+Files verified, tagged, and renamed to etree conventions; new checksums generated. 
+Text file updated, compiled & copy-edited by lovesick alien 2024-09-02
+--------------------------------------------------------------------------------
+Trade Freely. Never Sell. 
+Support the Artist: Purchase ALL authorised releases. 
+Support the Trading Community: Never Encode to lossy formats.
+--------------------------------------------------------------------------------

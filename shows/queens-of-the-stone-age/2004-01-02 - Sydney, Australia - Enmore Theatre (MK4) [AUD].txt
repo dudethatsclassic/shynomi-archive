@@ -1,0 +1,39 @@
+Queens of the Stone Age
+2nd January 2004
+Enmore Theatre
+Enmore, NSW
+Australia
+
+Taper: 		Brett Habel <mono AT monochromic DOT org>
+Source:		Schoeps MK4 -> Schoeps KCY cables -> Sonosax SX-M2 -> Sony D8 DAT
+Conversion:	DAT(M) -> Tascam DA-20mkII > Audiomedia III > ProTools LE 5.3.1 > WAV
+SHN:         	WAV > mkw > SHN
+                                                              
+
+01 - Six Shooter
+02 - You Think I Aint Worth A Dollar, But I Feel Like A Millionaire
+03 - First It Giveth
+04 - Do It Again
+05 - Go With The Flow
+06 - Tension Head 
+07 - Gonna Leave You
+08 - Precious and Grace [ZZ Top]
+09 - You're So Vague
+10 - Another Love Song
+11 - Song For The Dead
+12 - You Would Know
+13 - Quick And To The Pointless
+14 - Mexicola
+15 - Avon
+16 - Monsters In The Parasol
+17 - No One Knows
+18 - Regular John
+19 - The Lost Art Of Keeping A Secret
+
+78:24
+
+Special thanks to Hutch !
+
+
+- Compiled by Brett Habel, 2004.01.17
+<mono AT monochromic DOT org>

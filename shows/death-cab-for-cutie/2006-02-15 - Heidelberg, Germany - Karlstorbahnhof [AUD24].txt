@@ -1,0 +1,34 @@
+DEATH CAB FOR CUTIE
+2006-02-15
+Karlstorbahnhof
+Heidelberg, Germany
+
+Source:     MBHO MBP 603 A / KA 200 N > M-Audio MicroTrack 24/96 (@ 24/48)
+Mic Config: in hat, DINA (17cm, 90°)
+Location:   left of the soundboard, 10m from the stage
+Transfer:   Master WAV > Digital Editing > CD Wave Editor V1.94 > FLAC V1.1.2
+Editing:    EQ, volume boost and fades in Steinberg WaveLab V5.0a
+
+Setlist:
+01 Marching Bands of Manhattan
+02 The New Year
+03 Why You'd Want to Live Here
+04 Title and Registration
+05 Soul Meets Body
+06 Summer Skin
+07 Photobooth
+08 Crooked Teeth
+09 Different Names for the Same Thing
+10 Company Calls
+11 A Movie Script Ending
+12 What Sarah Said
+13 Brothers on a Hotel Bed
+14 I Was a Kaleidoscope
+15 Expo '86
+16 The Sound of Settling
+17 (Encore Break)
+18 I Will Follow You into the Dark
+19 Transatlanticism
+
+Notes:
+This is the 24-bit version of this recording.

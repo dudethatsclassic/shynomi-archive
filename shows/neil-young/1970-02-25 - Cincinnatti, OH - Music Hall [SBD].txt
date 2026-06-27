@@ -1,0 +1,102 @@
+EAC extraction logfile from 3. August 2002, 19:48 for CD
+Unknown Artist / Unknown Title
+
+Used drive  : HITACHI DVD-ROM GD-8000   Adapter: 1  ID: 1
+Read mode   : Secure with NO C2, accurate stream, disable cache
+Read offset correction : 667
+Overread into Lead-In and Lead-Out : No
+
+Used output format : Internal WAV Routines
+                     44.100 Hz; 16 Bit; Stereo
+
+Other options      : 
+    Fill up missing offset samples with silence : Yes
+    Delete leading and trailing silent blocks : No
+    Native Win32 interface for Win NT & 2000
+
+
+Track  1
+   Filename C:\shn\extract\ny1970-02-25\ny1970-02-25d2t01.wav
+
+   Peak level 98.8 %
+   Track quality 100.0 %
+   Test CRC FB1615CD
+   Copy CRC FB1615CD
+   Copy OK
+
+Track  2
+   Filename C:\shn\extract\ny1970-02-25\ny1970-02-25d2t02.wav
+
+   Peak level 98.8 %
+   Track quality 100.0 %
+   Test CRC 318A8DF8
+   Copy CRC 318A8DF8
+   Copy OK
+
+Track  3
+   Filename C:\shn\extract\ny1970-02-25\ny1970-02-25d2t03.wav
+
+   Peak level 98.8 %
+   Track quality 100.0 %
+   Test CRC 09F0265D
+   Copy CRC 09F0265D
+   Copy OK
+
+Track  4
+   Filename C:\shn\extract\ny1970-02-25\ny1970-02-25d2t04.wav
+
+   Peak level 98.8 %
+   Track quality 100.0 %
+   Test CRC 2DB6A5D0
+   Copy CRC 2DB6A5D0
+   Copy OK
+
+Track  5
+   Filename C:\shn\extract\ny1970-02-25\ny1970-02-25d2t05.wav
+
+   Peak level 98.7 %
+   Track quality 100.0 %
+   Test CRC 5B6B2D23
+   Copy CRC 5B6B2D23
+   Copy OK
+
+Track  6
+   Filename C:\shn\extract\ny1970-02-25\ny1970-02-25d2t06.wav
+
+   Peak level 96.0 %
+   Track quality 100.0 %
+   Test CRC D52FC14B
+   Copy CRC D52FC14B
+   Copy OK
+
+Track  7
+   Filename C:\shn\extract\ny1970-02-25\ny1970-02-25d2t07.wav
+
+   Peak level 98.8 %
+   Track quality 100.0 %
+   Test CRC 77198EC3
+   Copy CRC 77198EC3
+   Copy OK
+
+Track  8
+   Filename C:\shn\extract\ny1970-02-25\ny1970-02-25d2t08.wav
+
+   Peak level 98.8 %
+   Track quality 99.9 %
+   Test CRC 1E94215B
+   Copy CRC 1E94215B
+   Copy OK
+
+Track  9
+   Filename C:\shn\extract\ny1970-02-25\ny1970-02-25d2t09.wav
+
+   Peak level 85.9 %
+   Track quality 100.0 %
+   Test CRC 01B80B42
+   Copy CRC 01B80B42
+   Copy OK
+
+No errors occured
+
+
+End of status report

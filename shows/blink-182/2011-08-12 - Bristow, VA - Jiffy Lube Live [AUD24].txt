@@ -1,0 +1,48 @@
+BLINK 182
+Honda Civic Tour
+2011/08/12 - Jiffy Lube Live; Bristow VA, USA
+
+Taper: travelinbeat
+Location:  *STEALTH* (Lawn)
+Source:  CA-14's > CA ST-9100 > Edirol R-09HR @ 24/96
+Editing:  Tracking, EQ, normalization to -0.1dB, and fades were all done while the show was laid in Sony Soundforge 8.0d (Build 128) as a wav file. Periodic short loud peaks were enveloped to allow for more headroom in normalization.
+Conversion: Trader's Little Helper v.2.5.0 (Build 164)
+
+
+
+TRACKLIST:					TIME:
+
+01- Intro					00:45
+02- Feeling This				03:13
+03- Up All Night				03:42
+04- The Rock Show				03:32
+05- What's My Age Again?			03:24
+06- Down					03:54
+07- I Miss You					04:53
+08- Stay Together For The Kids			03:56
+09- Dumpweed					03:33
+10- Always					04:22
+11- (Drum Solo 1)				01:07
+12- Violence					04:28
+13- After Midnight				03:28
+14- First Date					04:27
+15- Blow Job					01:11
+16- Heart's All Gone				05:00
+17- Man Overboard				03:28
+18- Ghost on the Dancefloor			04:39
+19- All The Small Things			03:27
+20- Josie					07:36
+21- (Drum Solo 2)				05:11
+22- Dammit					03:12
+23- Family Reunion				01:14
+
+				 GRAND TOTAL-   83:44
+
+
+
+MISC NOTES:
+I finally saw Blink 182!  Although I had lawn seats, I think that this recording came out fairly well, considering.  There is some strange sound mix up's towards the end of the set and to be quite honest I'm really not quite sure what caused it... I'm suspecting that it might have had something to do with batteries since the problems seem to get worse as the show goes on, but even at their worst I don't think that they seriously disrupt enjoyment of the recording.  
+
+Blink 182 was the headlining act on this tour.  Before them, My Chemical Romance played for about an hour (I also recorded those guys), and prior to MCR, Manchester Orchestra played (I missed them due to a late arrival).  All in all I think that Blink definitely put on the better show of the two acts I saw, and they were definitely the crowd favorite.  
+
+Thanks to the users of setlist.fm for posting an accurate setlist so soon after the show ended!  Thanks also to Scott for bringing me along!  This show is dedicated to the hard-working security gaurd who kicked me out of the pavilion after I had snuck in; thanks for not busting me for my mics and recording gear!

@@ -1,0 +1,60 @@
+Jeff Buckley
+2 June 1995
+Roseland Ballroom, New York City, NY
+
+2-Source AUD matrix by phideaux3
+
+CONTRAST CLAUSE: This is a two-source AUD matrix of the recording currently running at http://www.dimeadozen.org/torrents-details.php?id=683818 which is a 24/96 recording, with a second audience recording.
+
+Lineage: 
+Source 1: unknown mics > DAT -> ? -> CDR -> slight EQ -> FLAC ->
+Source 2: Aiwa mics -> Aiwa deck -> cassette -> Nak DR-1 (azimuth adj) -> Audigy 5/Rx -> 
+
+Audacity -> CD Wave Editor -> FLAC 1.3 -> you
+
+Set List:
+---------
+01 talk
+02 Dream Brother
+03 So Real
+04 Mojo Pin
+05 Eternal Life (Road Version)
+06 Kick Out the Jams
+07 guitar swap
+08 Last Goodbye
+09 band intros
+10 Lover, You Should've Come Over
+11 Grace
+12 ‘I’ll kill ya.’
+13 Hallelujah (inc. I Know It’s Over)
+
+TT: 1:04:13
+
+Jeff Buckley - Guitars & Vocals
+Michael Tighe - Guitars
+Mick Grondahl - Bass
+Matt Johnson - Drums 
+
+The 1995 Mystery White Boy Tour ran through at least 108 confirmed dates across three continents and in four major legs. The second leg is finally coming to a close as we return to NYC, and a show that is very special to me, as it was my fourth (and final) Jeff show. It took place at New York's famed Roseland, once known as THE place to go for big band and swing on Broadway, but had moved to its W 52nd St location by the time of this show. One of the things I remember best about the shows I saw at Roseland in the 90s was the floor, which bounced up and down if the crowd was really getting into it.
+
+The tour 'offically' concluded a couple of days later with live taping at Sony Studios for broadcast on WNEW-FM. That recording has been officially released as Columbia Records Radio Hour: https://www.discogs.com/release/14072009-Jeff-Buckley-Columbia-Records-Radio-Hour
+
+But back to Roseland. I was a pressed up against the stage for this performance. You are getting a better sounding show than I heard LOL. This is the show which was attended by Paul and Linda McCartney, and some pictures (as proof) are included in the upload. Once again, Jeff was the opener for Juliana Hatfield. Jeff mentions early on that it's the end of the mini-tour, and the band are determined to go out with a bang for his adopted hometown crowd. It's mostly the typical shortened set, but we do get the final solo "Hallelujah" spot, which tonight includes the Smiths tease. The crowd had been shouting for it all night, and he definitely delivered. It's a terrific show, spoiled somewhat for me by the rude audience members who continue to talk on all sides of the taper, throughout the quieter portions of the programme. I think summary execution would quickly bring an end to such rude behaviour, but that's just me.
+
+Phideaux3's original recording is here: http://www.dimeadozen.org/torrents-details.php?id=683818. 
+
+He mentioned in the comments that he had matrixed his with another recording, but that had fallen off the tracker, so I contacted him and he was kind enough to send it to me. Apart from some housekeeping, I present not to you he sent it.
+
+Phideaux3's original upload notes
+---------------------------------
+So here's the matrix, as promised.  Interesting to note how far off in pitch my recording was.  The difference in quality between the sources was practically the same as for my Radiohead matrix.  Have to wonder if both the other sources are from the same taper. Peace, Phideaux3
+
+Contemporaneous review here: https://notwithyoubutofyou.blogspot.com/2023/01/roseland-review.html
+
+Files verified, tagged, and renamed to etree conventions; new checksums generated. 
+Text file updated, compiled & copy-edited by lovesick alien 2024-09-02
+--------------------------------------------------------------------------------
+Trade Freely. Never Sell. 
+Support the Artist: Purchase ALL authorised releases. 
+Support the Trading Community: Never Encode to lossy formats.
+--------------------------------------------------------------------------------

@@ -1,0 +1,45 @@
+Death Cab For Cutie
+01/31/04
+Viking Union Multi-Purpose Room
+Western Washington University
+Bellingham WA
+
+Taper:		Ryan Olsen
+Source:		Oktava MC012msp(card) > Oade P-mod UA5 > Sony D8
+Location:		FOB, right side, 60' from stage
+		A-B mics, 10" apart, approx 60 degree spread
+
+Conversion:	Tascam DA-20 MKII > Creative Extigy > Sound Forge 7.0 > 
+		CD Wave 1.7.2.3 > mkwACT 0.97	
+
+
+Disc One:
+01.	Intro				00:44.28
+02.	Champagne From A Paper Cup	03:02.12
+03.	A Movie Script Ending >		03:57.49
+04.	We Laugh Indoors			06:10.29
+05.	The New Year 			04:25.34
+06.	Title and Registration		04:11.00
+07.	President of What >		03:28.50
+08.	Photobooth			04:20.69
+09.	Lightness 			04:40.29
+10.	For What Reason			02:57.65
+11.	Company Calls 			03:41.31
+
+Total:					41:40.21
+
+Disc Two:
+01.	Company Calls Epilogue		05:17.61
+02.	I Was A Kaleidoscope		03:54.09
+03.	We Looked Like Giants		08:28.19
+04.	The Sound of Settling		02:41.67
+05.	Pictures in an Exhibition		04:37.24
+06.	Tiny Vessels >			03:54.66
+07.	Transatlanticism 			09:57.01
+08.	405				03:28.11
+
+Total:					42:19.33
+
+Notes:
+
+compiled by Ryan Olsen (digginaditch@hotmail.com) 02/07/04

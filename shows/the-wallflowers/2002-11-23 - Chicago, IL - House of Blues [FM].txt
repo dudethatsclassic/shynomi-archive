@@ -1,0 +1,46 @@
+The Wallflowers
+House Of Blues
+Chicago, IL US
+2002-11-23
+
+Lineage: fm (Onkyo TX8511)>SoundBlaster (Live! 24 bit External)>wav(CD Wave Editor)>flac
+
+Jakob Dylan - guitar, vocals
+Rami Jaffee - keyboards
+Greg Richling - bass, vocals 
+Mario Calire - drums/percussion
+
+
+When You're On Top 4:39
+Three Marlenas 4:35
+See You When I Get There 3:12
+The Difference 3:51
+How Good It Can Get 4:14
+One Headlight 5:22
+6th Avenue Heartache 6:30
+Feels Like Summer Again 4:00
+Closer To You 3:54
+Too Late To Quit 4:11
+Everything I Need 4:46
+I've Been Delivered 5:23
+Sleepwalker 3:47
+
+Total Time: 59:12
+
+st5 fingerprints:
+
+4b0287e4891a8832d6d2e530551968fe  [shntool]  01 When You're on Top.flac
+43d446114239cbfc521452054739c679  [shntool]  02 Three Marlenas.flac
+0745f2e31a4dba731e470d00c824eecf  [shntool]  03 See You When You Get There.flac
+3bf72ec87b49ef138a94cf6bdec6b9e8  [shntool]  04 The Difference.flac
+1f8616fedcb52119412d4e6452031918  [shntool]  05 How Good Can It Get.flac
+be1e2a9dc07a20abd07df86b497ee022  [shntool]  06 One Headlight.flac
+630a7fc978d6803af0d73d923b7f289e  [shntool]  07 6th Avenue Heartache.flac
+e94b7c8103a5ba98b53d0c314ec42825  [shntool]  08 Feels Like Summer Again.flac
+1c7bfea9de3a50fde9f5e0b4508b1336  [shntool]  09 Closer to You.flac
+8d81ef5f4a5c5ca39477335a57aeda23  [shntool]  10 Too Late to Quit.flac
+624e51682bafe4483884acba57832d40  [shntool]  11 Everything I Need.flac
+0054b8a8b9457d4adcc60d40b9b7894f  [shntool]  12 I've Been Delivered.flac
+09f9c3aa7f45d7e7560b20c67ad9514e  [shntool]  13 Sleepwalker.flac
+
+No errors occured.

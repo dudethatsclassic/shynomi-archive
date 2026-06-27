@@ -1,0 +1,105 @@
+The Flaming Lips
+07-16-94
+Lollapalooza Tinsley Park, IL
+
+SBD>Cass>CDR>EAC>SHN Seek files appended
+CDR extraction and conversion by Phillip Gray (amberphil@cox.net)
+
+Setlist
+
+1)   Intro
+2)   Space Age Love Song (Flock of Seagulls cover)
+3)   When Yer 22
+4)   Moth In The Incubator
+5)   Bad Days Intro
+6)   Bad Days > Halloween On The Barbary Coast
+7)   Unconsciously Screaming
+8)   She Don't Use Jelly
+9)   Chewin' The Apple Of Yer Eye
+10) Under Pressure (David Bowie cover)
+
+EAC extraction logfile for CD
+The Flaming Lips / Tinsley Park
+
+Track  1
+   Filename C:\CD's\wav\Flaming Lips\FL94-07-16\Track 01.wav
+
+   Peak level 99.9 %
+   Track quality 100.0 %
+   Copy CRC 16FE1619
+   Copy OK
+
+Track  2
+   Filename C:\CD's\wav\Flaming Lips\FL94-07-16\Track 02.wav
+
+   Peak level 99.9 %
+   Track quality 100.0 %
+   Copy CRC C10AAF97
+   Copy OK
+
+Track  3
+   Filename C:\CD's\wav\Flaming Lips\FL94-07-16\Track 03.wav
+
+   Peak level 99.9 %
+   Track quality 100.0 %
+   Copy CRC 691259D8
+   Copy OK
+
+Track  4
+   Filename C:\CD's\wav\Flaming Lips\FL94-07-16\Track 04.wav
+
+   Peak level 99.9 %
+   Track quality 100.0 %
+   Copy CRC 23718DFF
+   Copy OK
+
+Track  5
+   Filename C:\CD's\wav\Flaming Lips\FL94-07-16\Track 05.wav
+
+   Peak level 99.9 %
+   Track quality 100.0 %
+   Copy CRC 8C3080F6
+   Copy OK
+
+Track  6
+   Filename C:\CD's\wav\Flaming Lips\FL94-07-16\Track 06.wav
+
+   Peak level 99.9 %
+   Track quality 100.0 %
+   Copy CRC 011B034E
+   Copy OK
+
+Track  7
+   Filename C:\CD's\wav\Flaming Lips\FL94-07-16\Track 07.wav
+
+   Peak level 99.9 %
+   Track quality 100.0 %
+   Copy CRC 12EC1D32
+   Copy OK
+
+Track  8
+   Filename C:\CD's\wav\Flaming Lips\FL94-07-16\Track 08.wav
+
+   Peak level 82.3 %
+   Track quality 100.0 %
+   Copy CRC F99A339C
+   Copy OK
+
+Track  9
+   Filename C:\CD's\wav\Flaming Lips\FL94-07-16\Track 09.wav
+
+   Peak level 99.9 %
+   Track quality 100.0 %
+   Copy CRC E6B9F720
+   Copy OK
+
+Track 10
+   Filename C:\CD's\wav\Flaming Lips\FL94-07-16\Track 10.wav
+
+   Peak level 99.9 %
+   Track quality 100.0 %
+   Copy CRC A70F0043
+   Copy OK
+
+
+End of status report

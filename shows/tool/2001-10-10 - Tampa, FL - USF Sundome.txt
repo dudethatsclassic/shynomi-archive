@@ -1,0 +1,15 @@
+Tool - 2001.10.10
+The USF Sundome - Tampa, FL, USA
+version 2
+
+media type: FLAC
+source: Core Sound Binaurals/120 > Sony TCD-D8 > CDR > EAC > FLAC
+taper: Jim Charna
+trade status: can trade
+
+disc 1 - 11 tracks - 65:33
+disc 2 - 7 tracks - 65:36
+
+notes: none
+
+ 

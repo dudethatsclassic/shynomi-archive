@@ -1,0 +1,68 @@
+Seven Mary Three
+The Blue Loon
+Fairbanks, AK
+March 25, 2011
+
+** 16 BIT **
+
+Source:  Sonic Studios DSM-6P w/3-way lo-cut filter, position unknown (most likely @ 80hz, middle setting) > Edirol R-09 @ 16 bit/44.1 kHz
+Mastering:  .WAV > Sound Forge Pro 11.0 (Build 299) [iZotope Mastering Suite (declick); minor edits, normalize, & fades] > CDWav tracking) >                    Trader's Little Helper (level 5) > FLAC > TagScanner 6.0.18 (tagging) 
+Location:  Balcony, DFC
+Recorded by:  Steve "ballsdeep" Hagar
+Mastered by:  Dennis Orr
+
+Setlist:
+01 Crowd/Tuning
+02 Last Kiss >
+03 Settle Up
+04 Chat
+05 Rock Crown
+06 Was A Ghost
+07 Wait >
+08 Headstrong
+09 Over Your Shoulder
+10 My My
+11 Million Dollar Bill
+12 Sleepwalking
+13 Cumbersome >
+14 Dear Mr. Fantasy >
+15 Cumbersome
+16 Out For Blood
+17 Dislocated
+18 Shelf Life
+19 Water's Edge >
+20 Rockin' In The Free World
+21 Encore Break
+- Encore -
+22 Times Like These
+
+Jason Ross - vocals & guitar 
+Thomas Juliano - guitar         
+Casey Daniel - bass                      
+Mike Levesque - drums
+
+Show Notes:
+First ever show in Alaska, and it meant they had now played in all fifty states.  They said that after the show scheduled for the next night in Anchorage they were going to "fucking retire".  They did play some dates in 2012, but otherwise it appears that this has been the case.
+
+SevenMaryThree2011-03-25t01.flac:c76172f97fd18d5fe52bf2dadec065b8
+SevenMaryThree2011-03-25t02.flac:edeaed48e8e305a3e1255f41ba596993
+SevenMaryThree2011-03-25t03.flac:fc78da8e87b183f2d9295215d32cc7a3
+SevenMaryThree2011-03-25t04.flac:2260651fd6d939570fa96874d038e46c
+SevenMaryThree2011-03-25t05.flac:6bea377786b5010f1f01354b2c869767
+SevenMaryThree2011-03-25t06.flac:2d3f0e35fc17bc27dc2843513da16563
+SevenMaryThree2011-03-25t07.flac:f836d5af61d75f260880a08afc988109
+SevenMaryThree2011-03-25t08.flac:b4a55a2ca7ba18fc33b9b6ddb8823ddf
+SevenMaryThree2011-03-25t09.flac:c50d21ab293ff81be8accbc33884bc6a
+SevenMaryThree2011-03-25t10.flac:d3dddcd3d96e58fa38f0899215efcb4f
+SevenMaryThree2011-03-25t11.flac:f7cd5e3cd31cfafb770e619facb67c49
+SevenMaryThree2011-03-25t12.flac:600988d21b486e3eac622020589076ea
+SevenMaryThree2011-03-25t13.flac:e92e36d0a978239018fb05673fea89c2
+SevenMaryThree2011-03-25t14.flac:ca486a1f5cc2a61562d6ffdd306c5b32
+SevenMaryThree2011-03-25t15.flac:16a39080a2cdd4d2b8323674619f5685
+SevenMaryThree2011-03-25t16.flac:2ea1da9c838eaffa95cb4010b7dda56e
+SevenMaryThree2011-03-25t17.flac:4d75b0d8830ab308aa1655e573d5f1cc
+SevenMaryThree2011-03-25t18.flac:70246d30a02dd1e393269e28f2f36c9a
+SevenMaryThree2011-03-25t19.flac:f8e470fa67cc04d81a29732ef7cfe9a0
+SevenMaryThree2011-03-25t20.flac:7b2a55dfd40d34fcf87907f7b5c7dde8
+SevenMaryThree2011-03-25t21.flac:a032eb3c33e514edb37e59ce130985c4
+SevenMaryThree2011-03-25t22.flac:7542e15c1824a45df152194caccebb45

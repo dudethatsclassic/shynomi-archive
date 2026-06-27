@@ -1,0 +1,41 @@
+Flaming Lips
+Minneapolis, MN
+First Avenue
+4 May 1996
+(01:06:27)
+
+001 The Abandoned Hospital Ship
+002 Unconsciously Screamin'
+003 Take Meta Mars
+004 Moth In The Incubator
+005 Put The Waterbug In The Policeman's Ear
+006 Lightning Strikes The Postman
+007 Bad Days
+008 She Don't Use Jelly
+009 Chewin The Apple Of Yer Eye
+010 When You Smile
+011 Psychiatric Exploration Of The Fetus With Needles
+012 Placebo Headwound
+013 What A Wonderful World
+
+1st-gen. cassette > Azimuth-optimized transfer to HD via CDWav >
+SoundForge processes:
+DC offset applied,
+left channel decreased -1.25dB,
+right channel decreased -0.75dB,
+split into tracks.
+.flac transfer via Traders Little Helper
+
+about the cassette:
+1st-gen. copy of my original master:
+slightly EQ'd, channels balanced,
+slight editing of glitches from original tape,
+fades applied.
+
+Original cassette recorded on Sony D-3 w/ECM mic (poss. 909-A); unfortunately, the deck was plagued with technical issues...
+a loose connection in either the mic or the jack caused an intermittant buzz in the left channel, as well as a couple of static-like pops...  so, I transferred the original to a second cassette as best as I could, given the glitches - some of which couldn't be removed, but shouldn't interfere with the music too much.  This could probably stand to be cleaned up and tweaked a bit (the low-end in particular is kind of well, low), but I've opted to share a bare-bones version that's about as close to the original as possible, and folks can play around with it to suit their individual tastes.
+
+Okay, that's all the technical stuff - despite everything, I felt this was a pretty great set, and for the most part, the recording should bear that out just fine.  I was actually working behind a bar on the main floor, just about 45 degrees to the right of the stage, maybe about twenty feet away fromt he right P.A. column.  There was a guard rail at the end of the bar nearest the stage, so since no traffic could pass that way anyway, I just set my D-3 and mic right on top of the bar facing the stage, and draped a scarf partially over the deck, to be less conspicuous.  Seemed almost silly at the time, but it worked out alright, I think.
+
+You can hear the crowd go nuts at the mid-section of the first track, when suddenly the entire stage goes from nearly pitch-black, to being illluminated by what appeared be thousands of strands of christmas tree lights - on the drum kit, the amps, and a backdrop behind the band.  It was actually pretty cool to see, and I wish I had been able to take a few pictures, in hindsight.  A pretty good cross-section of material in this set; covering a few years' worth of albums, and it's still one of my favorites, a little over 13 years later.  Enjoy!
+

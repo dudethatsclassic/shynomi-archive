@@ -1,0 +1,24 @@
+The Wallflowers
+Saturday Night Live
+NBC Studios
+New York, NY
+Original broadcast October 21, 2000
+Rebroadcast October 31, 2020
+
+Lineage: HD cable > TiVo Premiere > PC via kmttg > VideoReDo > .mpg file
+
+Video:
+MPEG-2
+12 Mbps
+1920x1080
+16:9
+
+Audio:
+AC-3
+384 Kbps
+48.0 KHz
+6 channels
+
+Setlist:
+[3:42] Sleepwalker
+[0:35] closing segment

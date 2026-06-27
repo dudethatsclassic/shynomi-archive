@@ -1,0 +1,67 @@
+TOOL
+"TOOL in PDX on 3/6"
+Rose Garden (Moda Center)
+Portland, Oregon, USA
+2014-03-06
+
+Maynard James Keenan (vocals)
+Adam Jones (guitar)
+Justin Chancellor (bass)
+Danny Carey (drums)
+
+Source Info:
+Recorder: Zoom Q3HD
+Audio Settings: 24-bit, 48 kHz stereo PCM lossless
+Storage Media: Kingston 32 GB ultimateX 100X SDHC
+Batteries: Energizer Ultimate Lithium AA (two)
+Recorded By: Meddle Earth
+
+Transfer: SDHC (.mov file) > SDHC reader > HDD
+Audacity (.mov > .wav) > CD Wave (splits) > dBpoweramp (.wav > .flac, tags)
+Original recording, no EQ, volume increase
+
+Archive Folder: TOOL 2014-03-06 PDX (Meddle Earth) (master) (24bit48kHz) (FLAC)
+Archive Size: 1.21 GB
+Duration: 1 hr 45 min 17 sec
+
+MediaInfo Specs (full details included in specs.txt file):
+24-bit 48 kHz stereo lossless audio split into tracks, FLAC
+
+TLH checksums (verified, ffp, md5 files included)
+
+Setlist:
+01 Think For Yourself by Dr. Timothy Leary
+02 Third Eye
+03 Vicarious
+04 (fragment of new song)
+05 Schism
+06 Pushit
+07 Intension
+08 Lateralus
+09 intermission (mostly cut)
+10 drum and synth solo (partial rendition of King Crimson's B'Boom)
+11 Jambi
+12 Forty Six & 2
+13 Ænema
+14 Stinkfist
+15 outro
+
+Recording Notes:
+Complete capture of headliner TOOL was recorded (audio and video).
+Opening band YOB was also recorded (audio only).
+Featured band, The Ocean, at TOOL after-party was recorded (audio and video).
+TOOL was also recorded the following night in Eugene (audio and video).
+
+Note: Image embedded in file tags was taken from Eugene video of round 
+"centerpiece" (or whatever you call it) that hung over my head:
+http://livepeace.org/Artists/TOOL_2014-03-07_Eugene/Tool_centerpiece_Eugene.jpg
+
+Sample "Jambi":
+http://livepeace.org/Artists/TOOL_2014-03-06_PDX/sample.html
+
+This recording is in the legal public domain,
+is not for sale, has not been for sale,
+is not and has not been involved in commerce.
+
+Band Link:
+http://www.toolband.com

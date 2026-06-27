@@ -1,0 +1,25 @@
+The Wallflowers
+Paramount Theater
+New York, NY
+1992-11-20
+
+Source:   AUD > C(x) via Alan Bershaw
+Transfer: C(x) (XLII-90) > Nak Dragon > Tascam DA-3000 (DSF 1-bit/5.6 MHz) > EZ CD Audio Converter > PCM @ 2496 
+Master:   Wavelab 11 (tracking, remove DC offset, levels, fades, resample, Lin dither) > FLAC 1644
+
+Thanks to Alan Bershaw for lending his cassette to be digitized and shared
+
+01. Shy Of The Moon
+02. Angel On My Bike
+03. Best Thing
+04. Be Your Own Girl
+05. Hollywood
+06. Ashes To Ashes
+07. Heartache
+08. Sidewalk Annie
+
+Opened for 10,000 Maniacs
+
+A decent low-gen AUD, and apparently the only recording of the show to circulate.  Levels are low at the beginning and there is some noise as the taper sets up.  Give it 60 seconds.  Enjoy!
+
+--mhg :: 2024-04-14

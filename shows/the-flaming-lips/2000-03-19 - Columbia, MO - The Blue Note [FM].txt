@@ -1,0 +1,31 @@
+The Flaming Lips
+
+03-19-00
+Columbia, MO
+The Blue Note
+
+1. Race for the Prize
+2. Happy Birthday to Michael
+3. Riding to Work in the Year 2025
+4. 35,000 Feet of Despair
+5. Feeling Yourself Disintegrate
+6. Sleeping on the Roof
+7. She Don't Use Jelly
+8. Slow Nerve Action
+9. Somewhere Over the Rainbow
+10. Lightning Strikes the Postman
+11. Waitin' For a Superman
+12. What Is the Light?
+13. The Observer
+14. When You Smile
+encore:
+15. The Spark That Bled (cut in the middle)
+
+This is from one of the Lips "Headphone Concerts" where, in addition to the PA, 
+they did a stereo FM radio broadcast & passed out walkmans for people to listen to on headphones.
+The radio was not very well tuned in, so there is some hiss and occasional static present.  
+The last track has about 30 seconds missing in the middle where I had to change minidiscs.
+
+FM broadcast> Sharp MD-MS702 minidisc > Echo Mia Soundcard > Soundforge
+
+Recorded & SHN by Alien Rendel.

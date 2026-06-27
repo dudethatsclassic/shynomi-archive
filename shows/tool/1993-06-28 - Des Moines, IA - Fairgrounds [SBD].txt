@@ -1,0 +1,22 @@
+TOOL
+June 28, 1993
+Fairgrounds
+Des Moines, IA
+
+Source: Soundboard
+Lineage: DAT(x) > WAV [32] > WAV [44.1] > FLAC
+Transfer: Sony PCM-R500 > M-Audio Audiophile 192 > Sound Forge
+Edits/EQ: +7dB
+Notes: Lollapalooza Second Stage
+
+01 - (cuts in) Cold & Ugly
+02 - Intolerance
+03 - Sober
+04 - Prison Sex
+05 - Opiate
+06 - Flood
+07 - Jerk Off
+
+
+Compiled February 2019 by CPS
+Seeded February 2019 to dimeadozen.org by CPS

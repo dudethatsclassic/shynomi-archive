@@ -25,9 +25,10 @@ const ARTIST_DATA = {
       "state": "MA",
       "location": "Boston, MA",
       "venue": "Boston Tea Party",
-      "notes": "ANA(2) · hezekiahx2",
+      "notes": "ANA(2) \u00b7 hezekiahx2",
       "version": "AUD",
-      "format": "FLAC 24"
+      "format": "FLAC 24",
+      "textFile": "1969-01-23 - Boston, MA - Boston Tea Party  - ANA(2) (hezekiahx2) [AUD24].txt"
     },
     {
       "year": 1969,
@@ -51,9 +52,10 @@ const ARTIST_DATA = {
       "state": "FL",
       "location": "Tampa, FL",
       "venue": "Curtis Hixon Hall",
-      "notes": "ANA(1) · krw_co",
+      "notes": "ANA(1) \u00b7 krw_co",
       "version": "",
-      "format": ""
+      "format": "",
+      "textFile": "1970-04-09 - Tampa, FL - Curtis Hixon Hall - ANA(1) (krw_co) [AUD24].txt"
     },
     {
       "year": 1971,
@@ -64,9 +66,10 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "Inglewood, CA",
       "venue": "The Forum",
-      "notes": "ANA(2) · krw_co",
+      "notes": "ANA(2) \u00b7 krw_co",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1971-08-21 - Inglewood, CA - The Forum  - ANA(2) (krw_co) [AUD].txt"
     },
     {
       "year": 1971,
@@ -77,9 +80,10 @@ const ARTIST_DATA = {
       "state": "England",
       "location": "Newcastle, England",
       "venue": "City Hall",
-      "notes": "unk · krw_co transfer",
+      "notes": "unk \u00b7 krw_co transfer",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1971-11-11 - Newcastle, England - City Hall (unk) (krw_co transfer) [AUD].txt"
     },
     {
       "year": 1972,
@@ -92,7 +96,8 @@ const ARTIST_DATA = {
       "venue": "Coliseum",
       "notes": "",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1972-06-09 - Charlotte, NC - Coliseum [AUD].txt"
     },
     {
       "year": 1973,
@@ -103,9 +108,10 @@ const ARTIST_DATA = {
       "state": "TX",
       "location": "Dallas, TX",
       "venue": "Dallas Convention Center ANA",
-      "notes": "2 · krw_co",
+      "notes": "2 \u00b7 krw_co",
       "version": "SBD",
-      "format": "FLAC 24"
+      "format": "FLAC 24",
+      "textFile": "1973-05-18 - Dallas, TX - Dallas Convention Center ANA(2) (krw_co) [SBD24].txt"
     },
     {
       "year": 1975,
@@ -116,9 +122,10 @@ const ARTIST_DATA = {
       "state": "IN",
       "location": "Indianapolis, IN",
       "venue": "Market Square Arena",
-      "notes": "ANA(2) · unk · krw_co transfer",
+      "notes": "ANA(2) \u00b7 unk \u00b7 krw_co transfer",
       "version": "AUD",
-      "format": "FLAC 24"
+      "format": "FLAC 24",
+      "textFile": "1975-01-25 - Indianapolis, IN - Market Square Arena - ANA(2) (unk) (krw_co transfer) [AUD24].txt"
     },
     {
       "year": 1975,
@@ -131,7 +138,8 @@ const ARTIST_DATA = {
       "venue": "Empress Valley",
       "notes": "",
       "version": "SBD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1975-02-16 - St Louis, MO - Empress Valley [SBD].txt"
     },
     {
       "year": 1977,
@@ -142,9 +150,10 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "Inglewood, CA",
       "venue": "The Forum",
-      "notes": "ANA(2) · dadgad",
+      "notes": "ANA(2) \u00b7 dadgad",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1977-06-26 - Inglewood, CA - The Forum - ANA(2) (dadgad) [AUD].txt"
     },
     {
       "year": 1980,
@@ -155,9 +164,10 @@ const ARTIST_DATA = {
       "state": "Germany",
       "location": "Dortmund, Germany",
       "venue": "Westfalenhalle",
-      "notes": "ANA(2) · krw_co transfer",
+      "notes": "ANA(2) \u00b7 krw_co transfer",
       "version": "SBD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1980-06-17 - Dortmund, Germany - Westfalenhalle - ANA(2) (krw_co transfer) [SBD].txt"
     },
     {
       "year": 1980,
@@ -168,9 +178,10 @@ const ARTIST_DATA = {
       "state": "Germany",
       "location": "Bremen, Germany",
       "venue": "Stadthalle",
-      "notes": "ANA(2) · krw_co",
+      "notes": "ANA(2) \u00b7 krw_co",
       "version": "SBD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1980-06-23 - Bremen, Germany- Stadthalle - ANA(2) (krw_co) [SBD].txt"
     }
   ],
   "misc": []

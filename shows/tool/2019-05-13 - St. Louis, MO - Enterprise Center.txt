@@ -1,0 +1,28 @@
+Tool
+2019-05-13
+St. Louis, MO
+Enterprise Center
+
+with All Souls (not taped)
+
+Taper: Distortion
+Source: DPA4061 > MPS-6020 > Sony PCM-M10 @ 24/96
+Transfer: M10 (USB) > Wavelab Elements 9.5 (levels, slight EQ, fades) > CD Wave Editor > FLAC @ 24/96
+
+Setlist:
+intro
+Ænema
+The Pot
+Parabol
+Parabola
+Descending
+Schism (extended)
+Invincible
+Jambi
+Intolerance
+Forty Six & 2
+-intermission- (cut)
+CCTrip
+Vicarious
+(-) Ions
+Stinkfist (extended)

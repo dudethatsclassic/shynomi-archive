@@ -1,0 +1,13 @@
+Tool - 2002.08.04
+Teco Arena - Estero, FL, USA
+version 2
+
+media type: FLAC
+source: Core Sound Binaurals/120 > Sony TCD-D8 > 3rd Gen CDR > EAC > WAV > FLAC
+taper: Jim Charna
+trade status: for trade
+
+disc 1 - 8 tracks - 57:49
+disc 2 - 9 tracks - 67:27
+
+notes: none

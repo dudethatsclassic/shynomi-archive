@@ -1,0 +1,23 @@
+TOOL
+Bill Graham Civic Auditorium
+San Francisco CA 
+Jan 7 2016 
+
+Source: Neumann KM140s > Sound Devices MP-2 > Edirol R09 > 24/48 WAV 
+Transfer: Audacity (fades, minor level adjustments) > CD Wave > flac24 
+Taper: Wilson66
+
+01. No Quarter 
+02. The Grudge
+03. Parabola
+04. Schism
+05. Opiate 
+06. Ænima 
+07. A/Descending
+08. Jambi
+09. 46+2
+10. DC solo w/synth
+11. Sweat
+12. Vicarious
+13. Stinkfist
+

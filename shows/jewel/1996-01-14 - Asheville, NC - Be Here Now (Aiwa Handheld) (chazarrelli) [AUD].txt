@@ -1,0 +1,82 @@
+Jewel Kilcher (solo)
+Be Here Now
+Asheville, NC
+January 14, 1996
+
+Source : AIWA handheld recorder with internal mic (taped by Chazarrelli)
+
+Transfer : Tascam CD-A580 > Sony RCD-W500C standalone CD recorder
+
+Editing : Sound Forge (tracking, volume) > Wave > TLH (SBE aligned) Flac 8
+
+Traders Den - May 25, 2023
+
+edited & posted by kingrue upload #3649
+======================================
+
+Here we have a brand new Jewel cassette master. Recently digitized. The taper did the transfer.
+This is really early in her career when she was still trying to make a name for herself.
+On this tour she was the opening act for Edwin McCain.
+
+
+Total Time = 41:55
+
+Set list
+01 Taper Intro
+02 Pieces of You
+03 Little Sister
+04 Sometimes It Be That Way
+05 Cold Song
+06 Race Car Driver
+07 Morning Song
+08 1000 Miles Away
+09 Near You Always
+10 Angel Standing By
+11 Kiss Your Ass
+12 Who Will Save Your Soul
+13 Chime Bells
+14 Taper Outro
+
+
+=========================
+
+Mpeg test results are CDDA Lossless.
+
+01 Taper Intro.wav:  track looks like CDDA with probability 100%.
+02 Pieces of You.wav:  track looks like CDDA with probability 100%.
+03 Little Sister.wav:  track looks like CDDA with probability 100%.
+04 Sometimes It Be That Way.wav:  track looks like CDDA with probability 100%.
+05 Cold Song.wav:  track looks like CDDA with probability 100%.
+06 Race Car Driver.wav:  track looks like CDDA with probability 100%.
+07 Morning Song.wav:  track looks like CDDA with probability 100%.
+08 1000 Miles Away.wav:  track looks like CDDA with probability 100%.
+09 Near You Always.wav:  track looks like CDDA with probability 100%.
+10 Angel Standing By.wav:  track looks like CDDA with probability 100%.
+11 Kiss Your Ass.wav:  track looks like CDDA with probability 100%.
+12 Who Will Save Your Soul.wav:  track looks like CDDA with probability 99%.
+13 Chime Bells.wav:  track looks like CDDA with probability 100%.
+14 Taper Outro.wav:  track looks like CDDA with probability 100%.
+
+No errors occured.
+
+No errors occured.
+
+
+01 Taper Intro.flac:cfcbbd38d4fb403667af5bc56ed2c7d4
+02 Pieces of You.flac:a93473cf4c9dd503a7f1bc6833b7b94b
+03 Little Sister.flac:b77bcc4eebef5ebc97e6181ec63673d3
+04 Sometimes It Be That Way.flac:596c75977e4dd9160fe1cb8617a70756
+05 Cold Song.flac:db972f5931bd6c2c7009a0044ef4fa1d
+06 Race Car Driver.flac:b4dcf34c59511b5db33e570358c6c352
+07 Morning Song.flac:ccfe0674939464aa85a28ec911d7c31b
+08 1000 Miles Away.flac:66b77aa4cbb59d66eb0cbdda2665de94
+09 Near You Always.flac:014d99b2a20db048d8fb4ae2b8b80321
+10 Angel Standing By.flac:f5a8823999a7a969f2fce3910b69b102
+11 Kiss Your Ass.flac:ca13cd8e80b10617f5858a40f5f8c0ca
+12 Who Will Save Your Soul.flac:6e9c3c793e9e7de2874403a80ccea6e1
+13 Chime Bells.flac:563f3dee7bf938d4ee708438570f36d7
+14 Taper Outro.flac:5c952111ca9106d0f59307065ff34960
+
+Checksum file saved to disk.
+
+No errors occured.

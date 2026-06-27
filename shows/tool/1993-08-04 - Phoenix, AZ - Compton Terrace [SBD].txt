@@ -1,0 +1,22 @@
+Tool
+1993-08-04
+Lollapalooza,
+Compton Terrace
+Phoenix, AZ
+
+Source (commonly accepted):  SBD > ASBM > DDC2 @ 32kHz
+
+Source (anecdotal): SBD > unknown recording method > DAT (unconfirmed generation and frequency) > unknown transfer > Analog Cassette Master > unknown transfer > DAT-2 @ 32kHz (2nd gen from master analog cassette) > Tascam DA-302 (used for cloning) > DDC-3 @ 32kHz
+
+Transfer: DDC2 @ 32kHz (common) / DDC-3 @ 32kHz (anecdotal) > Tascam DA-302 > ESI UX24L (SPDIF) > Goldwave > .WAV > Fission (removed silence on ends, track splits) > xAct > .FLAC (Level 8) > Meta (ID Tags)
+
+Tracklist:
+
+01 Intro
+02 Intolerance
+03 Undertow
+04 Sober (feat. Larry LaLonde of Primus on guitar)
+05 Prison Sex
+06 Opiate (feat. Layne Staley of Alice in Chains on vocals) > 
+07 Flood
+08 Jerk-Off

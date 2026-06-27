@@ -1,0 +1,69 @@
+Meat Puppets  
+Luna Lounge, Brooklyn NY USA
+Saturday September 8, 2007   2007-09-08 
+master sbd/aud matrix, version 1.0
+
+aud: AT825 > D-7 (line in) > DATM > RMR-D110 > D7 > DAT-1 (added track IDs on DAT-1) > RMR-D100 > optical > HHB830 > wav > CDRM recorded 10 ft stage right, between over head center stack and right stack, 8ft stand
+
+sbd: RCA tape outs > D7 > DATM > RMR-D110 > D7 > DAT-1 (added track IDs on DAT-1) > RMR-D100 > optical > HHB830 > wav > CDRM
+
+SBD CDRM + AUD CDRM > protools (time alignment) > wav > matrix CDRM > iTunes (track id's) > xACT > FLAC level8
+
+01. intro
+02. sam
+03. touchdown king
+04. snow
+05. up on the sun
+06. plateau
+07. look at the rain
+08. lost > working on a building (trad.) > whistling song 
+09. flaming heart
+10. my baby's gone (louvin, louvin)
+11. box of limes
+12. fly like the wind
+13. severed goddess hand
+
+14. i'm movin' on
+15. station
+16. disappear
+17. comin' down
+18. oh, me
+19. lake of fire
+20. encore break
+21. the ballad of sleepy pee pee (paul leary)
+22. climbing
+23. back water
+24. outro
+
+recordings by mL; matrix by dc with mL
+ 
+please share this recording in lossless formats only
+
+please support the meat puppets http://www.facebook.com/meatpuppets by 
+purchasing their official releases and attending their live shows.
+
+meatpuppets2007-09-08_matrix_V1.0_tr01.flac:d71f49a71e5ab220180899d768c49159
+meatpuppets2007-09-08_matrix_V1.0_tr02.flac:01d0145f33a2cbef525ddc45c08fa1cc
+meatpuppets2007-09-08_matrix_V1.0_tr03.flac:c448c31b1ba3b370f294d3961a290567
+meatpuppets2007-09-08_matrix_V1.0_tr04.flac:9a276494c095c9794bd22b355f83435c
+meatpuppets2007-09-08_matrix_V1.0_tr05.flac:a4abd5ddc3bc2d9908486dd141c0b2b8
+meatpuppets2007-09-08_matrix_V1.0_tr06.flac:e97da2cfce190a111bef63cab1f3feb2
+meatpuppets2007-09-08_matrix_V1.0_tr07.flac:98d4ed1a52fdaa8a042fa76b1de6b115
+meatpuppets2007-09-08_matrix_V1.0_tr08.flac:3cc35817dd6cf529a33daf72c4208293
+meatpuppets2007-09-08_matrix_V1.0_tr09.flac:d4f1c5ef6d67a862f8f24006990f1eb0
+meatpuppets2007-09-08_matrix_V1.0_tr10.flac:757894333cebe237a2abae76f68db110
+meatpuppets2007-09-08_matrix_V1.0_tr11.flac:6612dc79513383b26d268b4a08db1174
+meatpuppets2007-09-08_matrix_V1.0_tr12.flac:7dc4f7dbf2b313a663d68d3ca3e228f5
+meatpuppets2007-09-08_matrix_V1.0_tr13.flac:62eb38c65f823ae28c7c09dce7d540e1
+meatpuppets2007-09-08_matrix_V1.0_tr14.flac:6d1fe3f5b51a93a8091f4d80767f1ea2
+meatpuppets2007-09-08_matrix_V1.0_tr15.flac:79e0aa25ce2ced74d51c858030787c8c
+meatpuppets2007-09-08_matrix_V1.0_tr16.flac:7dc1d014f312d94c91ac1067ed9028e0
+meatpuppets2007-09-08_matrix_V1.0_tr17.flac:ab08e00ae3e701cda9c0296cca0dff39
+meatpuppets2007-09-08_matrix_V1.0_tr18.flac:a2e6a1b70bb4f340b7ab57a6f2bb9ade
+meatpuppets2007-09-08_matrix_V1.0_tr19.flac:c171f208ce4a563ba05acae928de46e5
+meatpuppets2007-09-08_matrix_V1.0_tr20.flac:29bf4e922a9aa24cb7fc1e4b5015f61f
+meatpuppets2007-09-08_matrix_V1.0_tr21.flac:5eb6ca02844b18064ea489b6e374bbf1
+meatpuppets2007-09-08_matrix_V1.0_tr22.flac:47d8487ee56109be3b9d076f63c4379e
+meatpuppets2007-09-08_matrix_V1.0_tr23.flac:fef39a7bc13fa5afa9893f3b5a5f72d5
+meatpuppets2007-09-08_matrix_V1.0_tr24.flac:d9bc2dfd6a659a5f3e27a4df6981f03b
+

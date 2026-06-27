@@ -1,0 +1,15 @@
+Tool - 2001.09.08
+Verizon Wireless Center Amphitheater - Noblesville, IN, USA
+version 3
+
+media type: FLAC
+source: Core Sound Binaurals > Sony PCM-M1/48 > 1st Gen DAT > 2nd Gen CDR > EAC > FLAC
+taper: unknown
+trade status: can trade
+
+disc 1 - 8 tracks - 54:14
+disc 2 - 9 tracks - 66:40
+
+notes: none
+
+ 

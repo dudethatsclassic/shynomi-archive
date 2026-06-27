@@ -1,0 +1,12 @@
+Tool - 2022.01.16
+Chase Center - San Francisco, CA, USA
+Version 1
+
+source: Schoeps CCM4 mics > Naiant Tinybox > Sony M-10 > .wav (@16/48) > .aif > .flac
+taper: anonymous
+
+disc 1 - 16 tracks - 127:32
+
+notes: none
+
+tooldriveproject.net

@@ -1,0 +1,71 @@
+Paramore
+Monday 23rd September 2013
+LG Arena, Birmingham, England
+FLAC Level 8, 16Bit, 48KHz
+
+Source 1: Church Audio CA-11 Cardioid (2007 V1 Edition) > Tascam Dr-2D (Mic-In, Power On, Gain Low, Levels 80, 24Bit 48KHz)
+Source 2: Sennheiser EK 2000 > Tascam Dr-2D (Line-In, Levels 98, 24Bit 48KHz)
+--------: Adobe Audition CS6 > Trader's Little Helper
+
+Location: Front row of general admission standing, extreme stage right corner,
+underneath speaker stack, mics pointed upwards.
+
+
+My pre-amp has a broken input jack and I do not own a battery box, so mics
+powered by recorder. Not ideal, and I think there is some distortion in the
+pure AUD in places as a result of the underpowering. There is certainly DC
+offset visible in the waveform. I need to buy a battery box!
+
+Decent mix on the Hayley Williams monitor feed. Click track in places - blame
+her, not me. Unfortunately they use Sennheiser B Range and my B Range box has
+something wrong with the antenna. Reception is abysmal. So there are some (not
+too many) patches of radio static. Sorry. I need to buy a new Sennheiser B
+range box, but they're so expensive!
+
+Also in the monitor feed was some odd occasional switching of mixes. 95% of
+the time it was Hayley's mix, and I was sure at Soundcheck that I scanned all
+the frequencies in use and this was definately Hayley's frequency. I do not
+think I taped a monitor engineer feed by mistake. Usually a feed with
+switching mixes is a monitor engineer feed. But I do not think here. Not
+sure what the reasoning was behind that, but I cut out all the sections
+of alternate mixes. So in some places it is pure AUD.
+
+Simple matrix in Audition. A tiny bit of EQ, and dropped the centre channel
+on the monitor feed to bring up the stereo panned guitars a little.
+
+Decent enough sounding recording all in all. A bit low on Bass Guitar though...
+
+
+I don't think I've ever seen as much hair dye as in the audience of a Paramore
+concert!
+
+
+Tracklist:
+01 - Intro
+02 - Grow Up
+03 - Fast In My Car
+04 - That's What You Get
+05 - Decode
+06 - Ignorance
+07 - Interlude: Not Angry Anymore
+08 - Now
+09 - Daydreaming
+10 - When It Rains
+11 - Last Hope
+12 - Brick By Boring Brick
+13 - Interlude: Holiday
+14 - crushcrushcrush
+15 - Ain't It Fun
+16 - The Only Exception
+17 - In The Mourning [with 'Landslide' excerpt]
+18 - Pressure
+19 - Misery Business
+---------------
+20 - Part II
+21 - Interlude: Moving On
+22 - Still Into You
+
+
+Enjoy :-)
+
+-- Tailschao 2013-09-24

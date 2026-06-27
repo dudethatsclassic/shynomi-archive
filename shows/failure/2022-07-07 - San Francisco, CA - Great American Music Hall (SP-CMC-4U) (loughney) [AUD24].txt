@@ -1,0 +1,30 @@
+Failure - 2022 07 07 @ Great American Music Hall, San Francisco, CA
+
+Show note:
+The show started with a 30 minute preview of a documentary work-in-progress, mostly bands talking about Failure.  Show was very loud (it hit 107 db in the back of the club, according to my app) and the Great American Music Hall just upgraded their AV systems - so I was a little paranoid about overloading, but luckily the show came out clean.
+
+1 Ren & Stimpy intro
+2 Submarines
+3 Mercury Mouth
+4 Macaque
+5 Wonderful Life
+6 Frogs
+7 Atom City Queen
+8 Counterfeit Sky
+9 Distorted Fields
+10 Force Fed Rainbow
+11 Bring Back the Sound
+12 Bad Translation
+13 Half Moon
+14 Headstand
+ Encore:
+15 Segue 3
+16 The Nurse Who Loved Me
+17 Another Space Song
+18 Stuck on You
+19 Heliotropic
+20 Daylight
+
+Taper: loughney
+Location: right side of the soundboard
+Lineage: SP-CMC-4U > Tascam DR-07x > WAV (48/24) > Soundforge (fades, volume) > CDWAVE > FLAC 

@@ -1,0 +1,61 @@
+Pixies - Utrecht - Vredenburg 1990-09-25 (only the missing songs, audience, master)
+
+Note 1: Large portions of this show are released as bonus cd to "Death to the pixies". This torrent contains ONLY the songs of this concert that are NOT on that official release!! The songs stripped out are clearly marked in the setlist below
+
+Note 2: "Wave of mutilation" was played twice during this show: A slow version and a fast version. The slow version is on the official release, the fast version is not and therefor included in this set.
+
+01. Intro
+02. Cecilia Ann
+03. Levitate me
+** Taken out of this set: 04. Debaser
+** Taken out of this set: 05. Rock music
+** Taken out of this set: 06. Hang wire
+** Taken out of this set: 07. Dead
+08. There goes my gun
+** Taken out of this set: 09. Monkey gone to heaven
+** Taken out of this set: 10. Isla de encanta
+11. Velouria
+** Taken out of this set: 12. Into the white
+13. Stormy weather
+** Taken out of this set: 14. Hey
+** Taken out of this set: 15. Gigantic
+** Taken out of this set: 16. Crackity Jones
+17. Dig for fire
+18. Dancing the Manta Ray
+** Taken out of this set: 19. Gouge away
+** Taken out of this set: 20. Here comes your man
+21. Caribou
+22. All over the world
+** Taken out of this set: 23. Allison
+24. The happening
+** Taken out of this set: 25. Broken face
+26. I bleed
+** Taken out of this set: 27. Something against you
+** Taken out of this set: 28. Tame
+29. Is she weird
+** Taken out of this set: 30. Wave of mutilation (slow version)
+31. Where is my mind
+** Taken out of this set: 32. Ed is dead
+** Taken out of this set: 33. Vamos
+** Taken out of this set: 34. Tony's theme
+35. Wave of mutilation (fast version)
+
+Lineage: 
+Sennheiser MKE-40 -> Sony WM-D6C -> TDK-SA tapes -> Denon tape deck -> Edirol UA-1EX USB analog input -> WAV (44.1kHz 16bit) -> Adobe Audition -> FLAC
+
+FFP-checksums:
+01. Intro.flac:2d612ef5cf4d4b60831568db9f73b55e
+02. Cecilia Ann.flac:d11a205f0f49b20252d218bc85f9df26
+03. Levitate me.flac:675865dca2e70d02ae8b106c42dc8ad8
+08. There goes my gun.flac:4dc06b075fd74f6d12d6281ef9879c5c
+11. Velouria.flac:5fc671ad7b4c0784e21ee346ead5379d
+13. Stormy weather.flac:8d6685f27a733cc23e65daccd6a084b7
+17. Dig for fire.flac:862726380a29f05912c526105fd12fd3
+18. Dancing the Manta Ray.flac:63783e3b31d6a309b31c94a59966419c
+21. Caribou.flac:369ae14c222785bcf7ff7b39958c4aa3
+22. All over the world.flac:2cd44050bae2c7fe4208b867ca1ecd47
+24. The happening.flac:22f87167e0223efaab92eaf62d9c9047
+26. I bleed.flac:86bf8f813f6ca43949a8d110e476a31d
+29. Is she weird.flac:3fe2790b57f650bdf90f67082518d1b8
+31. Where is my mind.flac:e84a35a25c3de654a399f4facf077f66
+35. Wave of mutilation (fast version).flac:06b19c36027b556886ff1a43c393b0ff

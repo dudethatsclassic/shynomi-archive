@@ -1,0 +1,16 @@
+Tool - 2001.10.01
+Madison Square Garden - New York City, NY, USA
+version 3 
+
+media type: FLAC
+source: Sony ECM-DS70P > Sharp MD-MT821 > unknown transfer > 2nd Gen CDR > WAV > FLAC
+taper: Dethsquad
+trade status: can trade
+
+disc 1 - 8 tracks - 79:34
+disc 2 - 4 tracks - 42:42
+
+notes: none
+
+
+

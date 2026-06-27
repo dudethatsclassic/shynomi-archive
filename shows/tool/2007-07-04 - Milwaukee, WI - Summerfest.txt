@@ -1,0 +1,35 @@
+
+Tool
+Marcus Amphitheater: Milwaukee, WI
+July 4, 2007
+
+Source: Schoeps MK4s > Nbox > Edirol R-09 (@24/44)
+Location: FOB left stack, ~25 rows back
+Transfer: USB > WAV > CEPv2.1 > CDWave > FLAC
+Taper: tapeworm(48) 
+
+Setlist:
+
+01 Intro
+02 Jambi
+03 Stinkfist
+04 The Pot
+05 Forty-Six & 2
+06 Schism
+07 Rosetta Stoned
+08 Flood
+09 -encore break-
+10 Wings For Marie
+11 10,000 Days
+12 Lateralus (w/ Cody from Big Business)
+13 Vicarious
+14 Outro
+
+Notes: Summerfest. Raw transfer with no fades or EQ.
+
+Archive: Master WAV was archived at 24-bit, 44.1kHz, and FLAC'd with cue sheet. 
+
+Taped and transferred by tapeworm(48) 
+Txt file compiled on 07/05/2007
+
+*** DO NOT DISTRIBUTE IN LOSSY FORMATS. DO NOT SELL THIS RECORDING, TRADE IT FREELY *** 

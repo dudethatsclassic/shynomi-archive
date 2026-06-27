@@ -1,0 +1,74 @@
+Jewel Kilcher
+Murat Theater
+Indianapolis, IN (Src 1) 
+March 14, 1997
+
+Source : Sony ECM-727P mic > Sony MZ-R3 MiniDisc > CD Trade > EAC
+
+Editing : Sound Forge (CD extract, volume) > Wave > TLH (sbe aligned) > Flac 8
+
+Traders Den - October 8, 2023
+
+Edited & posted by kingrue upload #3803
+=====================================
+
+Band line-up
+Jewel Kilcher - acoustic guitar and vocals
+Steve Poltz - acoustic guitar and backing vocals
+John Castro - bass
+Jeff Aafedt - drums
+John Hagen - cello
+
+Total Time = 73:11
+
+Set list
+01 Near You Always (cuts in)
+02 Morning Song
+03 Little Sister
+04 Innocence Maintained
+05 Don't
+06 Foolish Games (w/cello)
+07 You Were Meant For Me (w/Steve Poltz)
+08 Adrian
+09 Run Tonto Run (w/Rugburns)
+10 Cleveland (w/Rugburns)
+11 Deep Water (w/Rugburns)
+12 Passing Time
+13 Be Still My Little Heart
+14 I'm Sensitive
+15 My Body Is Changing (w/Steve Poltz)
+16 Sometimes It Be That Way
+17 Angel Standing By
+-- disc break --
+18 Chime Bells
+
+
+===============================
+
+
+
+No errors occured.
+
+
+01 Near You Always.flac:f1240817464f27c15ef5a0f8bb47689d
+02 Morning Song.flac:5584b5dad82b96ccbd6036374811b0c4
+03 Little Sister.flac:9fb26cdfd3301decbaf29046ba5c9626
+04 Innocence Maintained.flac:7276438f15b2c0b00e70e296be0cd64f
+05 Don't.flac:5aef206d1898ef4841839e822e17b95a
+06 Foolish Games.flac:fb188f0545858f8cce87127c5112eab8
+07 You Were Meant For Me.flac:d1bd4d349a3f2b71e330eb0b612d6b27
+08 Adrian.flac:a6f3a5d6d0c95a86c5c4abc86adb2c30
+09 Run Tonto Run.flac:cb26445c4c024749de3f6c3376066053
+10 Cleveland.flac:2766517beb5f935a324ba63403bd2f62
+11 Deep Water.flac:4fe4a622e1d431ddd7788741005ebeba
+12 Passing Time.flac:fcd320d7aebfe2fbc0e7fff70afd3ebd
+13 Be Still My Little Heart.flac:0893c0782441a1754ecce5f69bb08617
+14 I'm Sensitive.flac:e99e95815a26dce925a3311c4d1a7fa0
+15 My Body Is Changing.flac:a088ac648ebd06e019eccbae4de3bd00
+16 Sometimes It Be That Way.flac:7b31c5ed31ad80292be18888679265f4
+17 Angel Standing By.flac:3a4fc164550f12268336786ca73c8059
+18 Chime Bells.flac:fd88b84914e5dc522fe27bd1c8ff4fb3
+
+Checksum file saved to disk.
+
+No errors occured.

@@ -1,0 +1,45 @@
+Meat Puppets
+Slim's
+San Francisco, CA
+November 12, 1991
+Tuesday
+
+:: A FIREBALL MASTER FIELD RECORDING ::
+
+:: 96kHz/24 bit FILE SET ::
+
+RECORDING:SBD > Sony TC-D5M > Cassette Master (TDK MA-110, Dolby B)
+
+TRANSFER:Cassette Master > Nakamichi Dragon > Focusrite Scarlett 6i6 > MacBook Pro > ProTools Pro Tools Studio 2022.10 > WAV (96kHz/24 bit)
+
+MASTERING:WAV > MacBook Pro > ProTools Studio 2022.10.0 (T-Racks 5 CS: EQ, compressor, limiter, clipper) > WAV (96kHz/24 bit) > FLAC
+
+01. Enchanted Porkfist
+02. Touchdown King
+03. Forbidden Places
+04. Whirlpool
+05. Lost
+06. Popskull
+07. This Day
+00. Climbing
+09. Automatic Mojo
+10. Light
+11. Attacked by Monsters
+12. Nail It Down
+13. Open Wide >
+14. Lake of Fire
+15. Buckethead
+16. Six Gallon Pie
+17. Swimming Ground
+:: encore one ::
+18. Farther Along [tease] >
+    Look at the Rain
+19. Maiden's Milk >
+20. I Can't beCounted On
+:: encore two ::
+21. Fuck You
+
+NOTES:
+-The end of Six Gallon Pie (t16) is faded out due to the tape flip.
+
+TAPER REQUEST:Support the artist! Buy their records, tickets and merchandise. Be aware of where you share and make sure it's never for profit. Please maintain the entire file set at the original sample rate of the master recording without remastering, editing or tweaking the file set. Convert or down sample for your personal use only.

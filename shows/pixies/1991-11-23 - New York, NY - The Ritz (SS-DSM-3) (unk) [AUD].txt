@@ -1,0 +1,86 @@
+PIXIES
+The Ritz, New York, NY
+1991-11-23  
+
+
+RECORDING:
+Sonic Studios DSM-3->Sony TCD-D3 DAT(M) [48 kHz]
+
+
+GENERATIONS AND TRANSFER: 
+Sony TCD-D8->optical->D.A.L. CardDeluxe->Cool Edit Pro 2.1->.wav [48kHz]->.wav [44.1 kHz]->FLAC frontend 1.7.1 [level 8]->.wav->CD Wave v1.93 (recording was received as 1 file, so needed to be tracked)->FLAC Frontend 1.7.1 [level 8]->.flac->you
+
+
+Setlist: 
+01. Intro
+02. Wave Of Mutilation (UK Surf) 
+03. Where Is My Mind? 
+04. Ed Is Dead 
+05. Nimrod's Son 
+06. Vamos 
+07. Mr. Grieves 
+08. Subbacultcha 
+09. Dead 
+10. Crackity Jones 
+11. Distance Equals Rate Times Time 
+12. Dancing The Manta Ray 
+13. Lovely Day 
+14. Caribou 
+15. All Over The World 
+16. Allison 
+17. Velouria 
+18. The Happening 
+19. Is She Weird 
+20. The Navajo Know 
+21. Motorway To Roswell 
+22. Monkey Gone To Heaven 
+23. Gouge Away 
+24. Bird Dream Of The Olympus Mons 
+25. Planet Of Sound 
+26. Encore Break
+27. Head On 
+28. U-Mass
+
+
+
+note 1: With Eric Drew Feldman on keyboards. 
+
+note 2: Thanks to the unknown taper, to Rob Landis (pyramid_down@yahoo.com) for the transfer from his DAT clone, and to rappard for sending them to me to be tracked.
+
+note 3: Sound seems to perk up a bit half way through gouge away for some reason
+
+
+flac fingerprints for tracked files:
+pixies1991-11-23t01.flac:d745b8f19c9257e133373d28e28bca41
+pixies1991-11-23t02.flac:d56604c0756cfd8f1ecca39aaf850869
+pixies1991-11-23t03.flac:f883c13dfb53d2636dad819a62ec6350
+pixies1991-11-23t04.flac:df773c6b0b7b0d228c6f5c04560ec01c
+pixies1991-11-23t05.flac:76c969d5216953d3a9be321c0246c491
+pixies1991-11-23t06.flac:5b489cfecb8982861ada30f422f8546b
+pixies1991-11-23t07.flac:ccee099d2ec04dbd6428db7526fb93bb
+pixies1991-11-23t08.flac:de1ec577473f7e18491cb0e7ef0a517a
+pixies1991-11-23t09.flac:a0f8a483aa616c492b84134d7b9cf72d
+pixies1991-11-23t10.flac:7ed5c98db5fb456c3d76aa98d10bcd53
+pixies1991-11-23t11.flac:8cab4ea595586e68b03fb6848a02531c
+pixies1991-11-23t12.flac:06d3d6e377ffd02a0ccc4a609e1628b9
+pixies1991-11-23t13.flac:3981b5f978704276ddc61be04dfbc57f
+pixies1991-11-23t14.flac:79da837f561b9456e5e4300ae7ba2dfd
+pixies1991-11-23t15.flac:8da03539be2d1d8bd71a643f70105c45
+pixies1991-11-23t16.flac:02e5e6325b357370303565806a996015
+pixies1991-11-23t17.flac:78731a330a4f2eda794b5b4fb1f1d372
+pixies1991-11-23t18.flac:691e0fd88bed5d0e7353f7128f673525
+pixies1991-11-23t19.flac:132fea24a78f2d68b3ee116d63103eb8
+pixies1991-11-23t20.flac:72569f90042c5a084792783b54f68d57
+pixies1991-11-23t21.flac:9f042e08d1401ae6883bd3dba5f49ffc
+pixies1991-11-23t22.flac:f683f0f4ea49fb9b64285af2ef7e7d81
+pixies1991-11-23t23.flac:2a43e816c6ea22bd7e9eedd272d2bb0c
+pixies1991-11-23t24.flac:d0616b2789883d9b6c762adecc90ce9e
+pixies1991-11-23t25.flac:8031aceecce338c90391dbc95afe110f
+pixies1991-11-23t26.flac:c3db817cc117439081f7c9cd1a3d5a91
+pixies1991-11-23t27.flac:868cc97f1ec0726cb8864180b14f19e1
+pixies1991-11-23t28.flac:0a9055ffac937f7f64d2b0e4e8b0310e
+
+
+MD5 for original untracked file:
+aa7d996e3be4e6d3aa349f00898a4086 *pixies 11-23-91 DAT2 44kHz.flac
+

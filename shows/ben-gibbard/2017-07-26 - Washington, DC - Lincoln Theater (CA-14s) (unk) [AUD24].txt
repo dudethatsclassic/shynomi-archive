@@ -1,0 +1,49 @@
+BEN GIBBARD
+2017/07/26 - Lincoln Theater; Washington DC, USA
+
+Source: CA-14's (Omnis) > Church Audio ST-9200 > Edirol R09-HR @ 24/96
+Location: *STEALTH*
+Editing: Tracking, EQ, and fades were performed while the show was laid in Sony Soundforge 9.0a (Build 297)
+as a wav file. Normalization performed on each channel independently to -0.10dB. Periodic loud points (ie:
+nearby claps) were enveloped slightly to allow for more headroom in Normalization.
+Conversion: Trader's Little Helper v.2.7.0 (Build 172)
+
+TRACKLIST:						TIME:
+
+01. Intro 						00:23
+02. Title Track						03:23
+03. Black Sun						05:56
+04. Title and Registration				05:04
+05. These Roads Don't Move *				03:31
+06. Good Help (Is So Hard To Find)			05:28
+07. Me and Magdelena @					04:02
+08. Passenger Seat					03:45
+09. What Sarah Said					05:30
+10. Duncan, Where Have You Gone? #			04:16
+11. December %						03:10
+12. Soul Meets Body					04:15
+13. Everything's a Ceiling				05:05
+14. A Movie Script Ending				05:27
+15. Teardrop Windows #					04:19
+16. The Sound of Settling				02:58
+17. Cath...						04:53
+18. Such Great Heights ^				05:45
+19. A Lack of Color					04:31
+20. I Will Follow You into the Dark			04:26
+21. Brand New Colony ^					03:56
+
+					 GRAND TOTAL-   90:03
+
+All songs originally recorded by Death Cab for Cutie unless otherwise noted.
+* Originally recorded by Jay Ferrar and Ben Gibbard
+@ Originally recorded by The Monkees
+# Originally recorded by Ben Gibbard
+% Originally recorded by Teenage Fanclub
+^ Originally recorded by The Postal Service
+
+MISC NOTES:
+First time seeing Ben Gibbard. Very good show!! I was somehow caught off guard by the extremely low volume
+level, so I had several changes of gain throughout the first two songs, which I tried very hard to level-out
+in post production. I feel good about the balance, however the EQ was a little rough and the low levels
+resulted in a fairly sizable noise floor. All in all, I'm pleased with the tape, but I will know for next time
+to expect these far lower sound levels!

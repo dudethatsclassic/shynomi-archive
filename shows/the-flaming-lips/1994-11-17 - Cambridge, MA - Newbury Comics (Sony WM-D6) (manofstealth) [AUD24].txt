@@ -1,0 +1,48 @@
+The Flaming Lips
+Newbury Comics
+Harvard Square
+Cambridge, MA
+November 17, 1994
+
+** 24 BIT **
+
+Source:  Unknown Radio Shack recorder > Maxell XLII cassette
+Transfer:  Sony WM-D6 (line out) > Sony PCM-M10 (line in) > .WAV @ 24 bit/48 kHz
+Mastering:  .WAV > iZotope RX11 Advanced v11.0.1.3871 (De-click) > Sound Forge Pro 14.0 Build 140 [splicing, minor edits, normalize, & fades, Boz Digital Labs T-Bone2 plug-in (tilt EQ)] > 
+CDWav (tracking) > Trader's Little Helper (level 5) > FLAC > TagScanner 6.1.16 (tagging)
+Taped & transferred by:  ManOfStealth
+Mastered by:  Dennis Orr
+
+Setlist: (34:17)
+01 Intro/Tuning
+02 Lord, Can You Hear Me?
+03 Chat & Tuning
+04 Bad Days
+05 Chat & Tuning
+06 I Don't Like Mondays
+07 Chat & Tuning
+08 Put The Waterbug In The Policeman's Ear
+09 You Have To Be Joking
+10 Chewin' The Apple Of Yer Eye
+11 Outro
+
+Wayne Coyne - lead vocals & guitar
+Ronald Jones - guitar & backing vocals
+Steven Drozd - keyboards & backing vocals
+Michael Ivins - bass, percussion, & backing vocals
+
+Notes:
+ManOfStealth's first recording
+Full video here:  https://www.youtube.com/watch?v=cG8WN9S6Ryo
+
+TheFlamingLips1994-11-17t01.flac:af795eb7e2a06de1fcf0128b8baaba7b
+TheFlamingLips1994-11-17t02.flac:bf624ee4ebc070dcdf2d1838ad6b84ab
+TheFlamingLips1994-11-17t03.flac:bd72f200850f7aaa2edcd6340f8a3275
+TheFlamingLips1994-11-17t04.flac:46a61aca0c089de4ddcac5b10e74403f
+TheFlamingLips1994-11-17t05.flac:79f2e2d565571610fa63d1fd8e29b38e
+TheFlamingLips1994-11-17t06.flac:a2868be547252640de18eb3601088e76
+TheFlamingLips1994-11-17t07.flac:02fe5275e07965b9d44977712831e058
+TheFlamingLips1994-11-17t08.flac:d231a078d78a0882a851f83dc6eb382b
+TheFlamingLips1994-11-17t09.flac:61cd892964586e19b52517e13f123b4f
+TheFlamingLips1994-11-17t10.flac:fab55f14f37f17933d6bb8f816839273
+TheFlamingLips1994-11-17t11.flac:e4e966ba8712639415eb7b701537d19b

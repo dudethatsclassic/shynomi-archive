@@ -25,7 +25,8 @@ const ARTIST_DATA = {
       "venue": "Homebase",
       "notes": "VHS(x)",
       "version": "AUD",
-      "format": "MPG"
+      "format": "MPG",
+      "textFile": "2000-05-30 - Wilkes-Barre, PA - Homebase - VHS(x) [MPG].rtf"
     },
     {
       "year": 2000,
@@ -38,7 +39,8 @@ const ARTIST_DATA = {
       "venue": "Newport Music Hall",
       "notes": "",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "2000-07-07 - Columbus, OH, USA - Newport Music Hall [AUD].txt"
     },
     {
       "year": 2010,
@@ -51,7 +53,8 @@ const ARTIST_DATA = {
       "venue": "The Palace",
       "notes": "",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "2010-02-25 - Melbourne, Australia - Palace Theatre [AUD].txt"
     },
     {
       "year": 2011,
@@ -64,7 +67,8 @@ const ARTIST_DATA = {
       "venue": "Trees",
       "notes": "",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "2011-02-19 - Dallas, TX - Trees [AUD].txt"
     },
     {
       "year": 2011,
@@ -77,7 +81,8 @@ const ARTIST_DATA = {
       "venue": "Majestic Theatre",
       "notes": "",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "2011-03-05 - Detroit, MI - Majestic Theatre [AUD].txt"
     },
     {
       "year": 2018,
@@ -88,9 +93,10 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "San Francisco, CA",
       "venue": "Great American Music Hall",
-      "notes": "Edirol R09 · unk",
+      "notes": "Edirol R09 \u00b7 unk",
       "version": "AUD",
-      "format": "FLAC 24"
+      "format": "FLAC 24",
+      "textFile": "2018-07-17 - San Francisco, CA - Great American Music Hall (Edirol R09) (unk) [AUD24].txt"
     },
     {
       "year": 2018,
@@ -101,9 +107,10 @@ const ARTIST_DATA = {
       "state": "GA",
       "location": "Atlanta, GA",
       "venue": "The Masquerade",
-      "notes": "AT853 · ryanj",
+      "notes": "AT853 \u00b7 ryanj",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "2018-07-27 - Atlanta, GA - The Masquerade (AT853) (ryanj) [AUD].txt"
     },
     {
       "year": 2018,
@@ -140,9 +147,10 @@ const ARTIST_DATA = {
       "state": "UK",
       "location": "London, UK",
       "venue": "Victoria Park",
-      "notes": "DPA 4061s · gambra",
+      "notes": "DPA 4061s \u00b7 gambra",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "2025-06-13 - London, UK - Victoria Park (DPA 4061s) (gambra) [AUD].txt"
     }
   ],
   "misc": []

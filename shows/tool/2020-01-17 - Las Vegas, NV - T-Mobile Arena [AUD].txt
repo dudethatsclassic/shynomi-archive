@@ -1,0 +1,27 @@
+Tool - 2020.01.17
+Las Vegas, NV - T-Mobile Arena
+Version 1
+
+Gear: Hook Audio Versa I (great sound but unreliable) to Samsung Galazy s9
+Lineage: S9 (recording tp 16/48 .wav) > USB > Goldwave > 1.5 (EQ, peak limiting, splits) > TLH (sector alignment, flac 8)
+notes from taper: From the floor and pretty hot. Feel free to rework and re-up
+
+Setlist:
+
+Fear Inoculum
+Ænema
+The Pot
+Parabol > Parabola
+Pneuma
+Schism
+Jambi
+Vicarious
+Part of Me
+Forty Six & 2
+Intermission
+Chocolate Chip Trip*
+Invincible*
+(-) Ions*
+Stinkfist*
+
+* Encore not recorded due to bluetooth dropout

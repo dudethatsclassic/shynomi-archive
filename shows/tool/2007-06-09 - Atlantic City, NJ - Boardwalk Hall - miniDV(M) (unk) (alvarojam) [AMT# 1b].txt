@@ -1,0 +1,55 @@
+TOOL
+====
+June 9th, 2007
+Boardwalk Hall
+Atlantic City, NJ
+
+Video source: unknown MiniDV MASTER > DVD
+AUD - NTSC - 4:3 - 7094 kb/s
+PCM Stereo (new audio mix) - 1536 kb/s
+PCM Stereo (original video) - 1536 kb/s
+
+TRACKS
+------
+Jambi
+Stinkfist
+The Pot
+Forty Six & 2
+Schism
+Lost Keys (Blame Hofmann)
+Rosetta Stoned
+Vicarious Jam
+Right in Two
+Wings for Marie (Pt 1)
+10,000 Days (Wings, Pt 2)
+Lateralus
+Vicarious
+---------
+
+VIDEO
+-----
+Unknown MiniDV MASTER > DVD
+Filmed by: Rawson
+
+Notes: filmed from back, left of center
+
+AUDIO
+-----
+-Source 1 (V2): Core Sound Cardioid > M-Audio MicroTrack 24/96
+Taper: Travis
+
+-Source 2 (V3): IEM > M-Audio Microtrack 24/96 (@16/44.1) > HD > Sequoia (Slight EQ and Dehiss) > Wav > Flac (8)
+Taper: p
+
+NOTES
+-----
+
+New 2024 audio mix out of 2 sources:
+
+-Source 1 (V2): Core Sound Cardioid > M-Audio MicroTrack 24/96
+-Source 2 (V3): IEM > M-Audio Microtrack 24/96 (@16/44.1) > HD > Sequoia (Slight EQ and Dehiss) > Wav > Flac (8)
+
+Thanks to all tapers: Rawson, Travis & P for their work and sharing it.
+
+New audio mix, sync, remaster & authoring by Alvarojam
+February 2, 2024

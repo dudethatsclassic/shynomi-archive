@@ -1,0 +1,30 @@
+Tool
+04-11-2002
+Tokyo, Japan
+@ Akasaka Blitz
+Source: DSM6s > TCD-D100 / 48kHz
+Transfer: DC1 > Tascam DA-20  > Waveterminal U24 > Wavelab 5.0 > .wav 48kHz > resampled to 44.1kHz > CDwave > .FLAC
+Time: 121:16
+
+
+set:
+01.Intro
+02.Tuva
+03.The Grudge
+04.Stinkfist
+ (Suspicious Minds)
+05.4 Degrees
+06.Parabol
+07.Parabola
+08.Schism
+09.Sober
+10.Disposition
+11.Reflection
+12.Intermission (Parabola video playing)
+13.Triad
+14.Eon Blue Apocalypse
+15.The Patient
+16.Lateralus
+
+Transferred from DC1 by Per. To burn to 2cd audio, put tracks 1-11 on disc 1 and tracks 12-16 on disc 2. There
+are no fades between any tracks. Thanks alot to Hiro (the taper) for this wonderful Tool tape!  

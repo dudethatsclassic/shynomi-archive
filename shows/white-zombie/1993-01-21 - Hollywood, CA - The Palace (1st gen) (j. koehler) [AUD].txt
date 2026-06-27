@@ -1,0 +1,30 @@
+White Zombie
+The Palace, Hollywood, CA, USA
+1993-01-21
+
+Source: Audience 
+Generation: 1st
+Tape: Maxell XL II (type II)
+Taper: J. Koehler
+
+Tape transferred and edited by Mats.L (mats666) (2021-04-18)
+From my old collection 
+
+Lineage: Maxell XL II > Nakamichi 580 (Azimuth Corrected) > Zoom h2n (wav 24/48) > sandisk > usb > Pc > Audacity/Adobe Audition (edits/EQ) > dBpoweramp music cenverter 
+wav 16/44 > TLH (fixing SBE`s) > CD wave editor (cue sheet) > dBpoweramp music converter > FLAC (level 8)
+
+
+Setlist:
+
+1. Intro
+2. Grindhouse
+3. Thrust
+4. Black Sunshine
+5. Welcome To Planet Motherfucker
+6. I Am Legend
+7. Soul Crusher
+8. Spiderbaby
+9. Cosmic Monsters
+10. Untitled
+11. Thunder Kiss 65
+12. Drinking And Driving

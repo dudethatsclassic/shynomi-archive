@@ -1,0 +1,50 @@
+Tool
+Wednesday June 20, 2007
+Peoria Civic Center
+Peoria, Illinois
+USA
+
+Taper:      monkoth
+Source:     IEM > Microtrack 24/96 (16bit/44kHz wav)
+Conversion: Microtrack 24/96 (Compact flash card) > USB > wav @ 16but/44.1kHz > Hard drive > Mastering (see below) > 
+            CD Wave 1.95 (tracking) > Flac Frontend 1.7.1 (Level 6 Flac Compression) > Flac 
+Mastering:  Done in Wavelab 5.0: Waves X-Noise plugin to reduce the static (threshold -8, reduction 100), reduce gain on 
+            abnormal peaks, normalize each channel separately to -0.3db
+
+
+Set (63:57)
+
+01) Intro - Jambi
+02) Stinkfist
+03) Forty-Six & 2 intro
+04) Forty-Six & 2
+05) Schism intro
+06) Schism
+07) Lost Keys
+08) Rosetta Stoned
+09) Ambient Jam (with Intension teaser)
+10) Right in Two 
+11) Intermission (cut)
+
+
+* DO NOT SELL THIS RECORDING UNDER ANY CIRCUMSTANCE.
+** Do not compress to lossy formats (ie. mp3) and distribute.
+
+Notes:
+First, a big thank you to that special little lady for loaning me the gear. 
+
+Not the greatest sounding, but about 50 times better than the original raw recording. 
+Somehow a loud layer of static got recorded underneath the sound. It sounded like an analog tape that had been run through 
+about 10 generations of copying. That, and the sound was recorded very low. Not sure, but I think I may have accidently 
+hit the phantom power switch on the Microtrack. 
+
+So when mastering it, I took the Waves X-Noise Plugin to it, which is originally intended to restore old analog recordings
+and vinyl records by eliminating the hiss, static and pops. It worked like a charm. There's still a little static underneath
+the sound, but it is A LOT better than the original recording. Danny's ride cymbal got washed out in the static, so unfortunately 
+you can barely hear it.  
+
+The recording cuts out in the middle of the intermission. Just static from then on out, no music.
+Also some good-sized chunks of Jambi are missing, likely due to me channel surfing during the song.
+
+
+   

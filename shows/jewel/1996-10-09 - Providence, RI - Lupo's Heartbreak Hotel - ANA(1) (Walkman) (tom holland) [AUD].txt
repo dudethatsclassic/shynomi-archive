@@ -1,0 +1,82 @@
+Jewel Kilcher (with band)
+Lupo's Heartbreak Hotel
+Providence, RI
+October 9, 1996
+ 
+Source : AUD > Cassette Walkman > 1st gen cassette (taped by: Tom Holland)
+
+Transfer : Sony TC-WE 475 > JVC XL-R2010 CD-RW (16/44) (Transferred 4/11/08)
+
+Editing : Sound Forge (CD extract, volume) > Wave > TLH (sbe aligned) > Flac 8
+
+Traders Den - June 9, 2023
+
+Transferred & posted by kingrue upload #3673
+==========================================
+
+This particular recording is fairly rare. It didn’t get traded out that much, if at all. 
+This one’s not 100% complete, there’s about five minutes missing during the tape flip. 
+I think the taper had to take a bathroom break. 
+Also I was reading a review from his concert and we’re missing the encore.
+An acappella song The Little Bird and Chime Bells.
+
+Band line-up #2 (Aug/Oct 1996)
+Jewel Kilcher - vocals, guitar
+Zev Katz - bass
+Frank Vilardi - drums
+Marc Shulman - guitar
+
+Total Time = 67:32
+
+Set list
+01 Pieces Of You
+02 Little Sister
+03 Cold Song
+04 Morning Song
+05 Race Car Driver
+06 Ain't No Looking Back
+07 Satellite
+08 Sometimes It Be That Way
+09 Run Tonto Tun
+10 Money
+11 Grey Matter
+12 You Were Meant for Me
+13 Near You Always (cuts off)
+-- tape flip --
+14 Love Me Just Leave Me Alone (cuts in)
+15 Fading Away
+16 Foolish Games
+-- tape break --
+17 Who Will Save Your Soul
+xx The Little Bird (accapella)
+xx Chime Bells
+
+===========================
+
+
+
+
+No errors occured.
+
+
+01 Pieces Of You.flac:f9b48d6fd453d9b8d55a99a456593330
+02 Little Sister.flac:bf1cd106732730679ea144fcf333ed7a
+03 Cold Song.flac:51cf9491f9c7dfc8d9554d377758e5a0
+04 Morning Song.flac:717e7a9cdb0316425b8bbb680399e28e
+05 Race Car Driver.flac:61fda1d3f10e78460ee8b0c91703d0d8
+06 Ain't No Looking Back.flac:d2d8ea55d7b1c2c07055978f0ce52011
+07 Satellite.flac:33ea7fc7660139bec32a9b5965cd3d59
+08 Sometimes It Be That Way.flac:f89347d651bca5dabdf8007dd8f36074
+09 Run Tonto Tun.flac:e3a8e23fccd8bede460f23d5c861db31
+10 Money.flac:ec15c3056d3c4f101e25b700b64da41f
+11 Grey Matter.flac:dde9ac17b5d4ffebc927a657d4afd584
+12 You Were Meant for Me.flac:9a6881991dec89c3f8c31d22d97f5ac7
+13 Near You Always.flac:8071aeef35142b0d89050465b31038c4
+14 Love Me Just Leave Me Alone.flac:62e37aa62d29aa598d742485300b9a8e
+15 Fading Away.flac:f92871688de1b4565391322d2cc3182b
+16 Foolish Games.flac:eaf9981d7fbc978804c292ec274e0a43
+17 Who Will Save Your Soul.flac:088144635bb573cf48647bfb29076b9d
+
+No errors occured.
+
+Create checksum file log saved to file.

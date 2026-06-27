@@ -1,0 +1,29 @@
+Tool
+August 5th, 2009
+Molson Amphitheater
+Toronto, ON, CA
+
+Taper: JM
+Source: Built-in>TCM-353V
+Transfer: ANA-1>Sony TC-K630ES>R-09(24/48, unity gain)
+Editing: Audacity (fade in/out), r8brain (downsample/dither), CDWave (splits), TLH (Flac level 8, align on sector boundaries)
+
+01.
+02.
+03.
+04.
+05.
+06.
+07.
+08.
+09.
+10.
+11.
+12.
+
+-thanks to JM for sending me the tape
+-no idea if track splits are correct or not
+-speed issues throughout, tracks 2-7 are in dual-mono
+
+Transferred/seeded by rhinowing
+Don't sell, etc

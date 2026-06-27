@@ -1,0 +1,38 @@
+
+Tool
+United Center: Chicago, IL
+March 10, 2022
+
+Source: AT831s > SP-SPSB-11 (@69Hz) > Sony PCM-M10 @ 24-bit / 44.1kHz
+Location: FOB, left risers, 17 rows up
+Transfer: SD Card > Audacity > xACT
+Edits/EQ: +4dB
+Taper: tapeworm(48) 
+
+Setlist:
+
+01 Intro
+02 Fear Inoculum
+03 Sober
+04 The Pot
+05 Intro >
+06 Pushit
+07 Pneuma
+08 The Grudge
+09 Undertow
+10 Descending
+11 Hooker with a Penis
+12 Intermission (cut)
+13 Chocolate Chip Trip
+14 Culling Voices
+15 Invincible
+16 Outro
+
+Notes: Opening act was The Acid Helps (recorded). M10 set at 4.5. Raw transfer with no fades or EQ.
+
+Archive: Master WAV was archived @ 24-bit/44.1kHz and FLAC'd with cue sheet. 
+
+Taped and transferred by tapeworm(48) 
+Txt file compiled on 3/11/2022 
+
+*** DO NOT REMASTER WITHOUT PERMISSION. DO NOT DISTRIBUTE IN LOSSY FORMATS. DO NOT SELL THIS RECORDING, TRADE IT FREELY *** 

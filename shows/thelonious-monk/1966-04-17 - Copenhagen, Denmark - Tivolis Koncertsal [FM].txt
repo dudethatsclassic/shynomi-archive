@@ -1,0 +1,34 @@
+dBpoweramp Release 13 Digital Audio Extraction Log from 4. december 2008 1:27
+
+Drive & Settings
+----------------
+
+Ripping with drive 'F:   [PIONEER  - DVD RW  DVR-106D]',  Drive offset: 48,  Overread Lead-in/out: No
+AccurateRip: Active,  Using C2: No,  Cache: None,  FUA Cache Invalidate: No
+Pass 1 Drive Speed: Max,  Pass 2 Drive Speed: Max
+Bad Sector Re-rip::  Drive Speed: Max,  Maximum Re-reads: 34
+
+Encoder: FLAC -compression-level-8 -verify
+
+Extraction Log
+--------------
+
+Track 1:  Ripped LBA 0 to 41198 (9:09) in 1:29. Filename: C:\Converted Music\cd2\01 - Track 1.flac
+  Secure  [Pass 1 & 2]
+  CRC32: 59433807     AccurateRip CRC: 20DF1C9A     [DiscID: 004-00068a8d-001a8397-22097e04-1]
+
+Track 2:  Ripped LBA 41198 to 76984 (7:57) in 1:06. Filename: C:\Converted Music\cd2\02 - Track 2.flac
+  Secure  [Pass 1 & 2]
+  CRC32: A330CCB2     AccurateRip CRC: FC5BDDB2     [DiscID: 004-00068a8d-001a8397-22097e04-2]
+
+Track 3:  Ripped LBA 76984 to 128241 (11:23) in 1:22. Filename: C:\Converted Music\cd2\03 - Track 3.flac
+  Secure  [Pass 1 & 2]
+  CRC32: B02387DB     AccurateRip CRC: 39626C16     [DiscID: 004-00068a8d-001a8397-22097e04-3]
+
+Track 4:  Ripped LBA 128241 to 182262 (12:00) in 1:17. Filename: C:\Converted Music\cd2\04 - Track 4.flac
+  Secure  [Pass 1 & 2]
+  CRC32: 630F4243     AccurateRip CRC: D3B21B2A     [DiscID: 004-00068a8d-001a8397-22097e04-4]
+
+--------------
+
+4 Tracks Ripped Securely

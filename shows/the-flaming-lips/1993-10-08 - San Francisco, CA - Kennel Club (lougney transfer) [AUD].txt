@@ -1,0 +1,23 @@
+Flaming Lips - 1993 10 08 Kennel Club, San Francisco, CA
+
+Transfer note:
+Cut after Halloween on the Barbary Coast. Oh, My Pregnant Head cuts - its 4:06 on the album, and 4:01 here, so most likely just the end is cut.
+
+1 intro
+2 Mountain Side
+3 Moth In The Incubator
+4 Superhumans
+5 Jets Pt. 1
+6 Unconsciously Screamin'
+7 Rainin' Babies
+8 Take Meta Mars
+9 Hit Me Like You Did The First Time
+10 What's The New Mary Jane
+11 She Don't Use Jelly
+12 Chewin' The Apple Of Your Eye
+13 One Million Billionth Of A Millisecond On A Sunday Morning
+14 The Process
+15 Halloween On The Barbary Coast
+16 Oh, My Pregnant Head 
+
+Lineage: Audience Master > 1st Gen Tape > Tascam 202MKVII USB out > CDWAV > Audacity (normalization, fades, merges, noise reduction) > CDWAV (splits) > DBPowerAmp (FLAC) [loughney xfer]

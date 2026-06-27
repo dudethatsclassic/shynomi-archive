@@ -1,0 +1,11 @@
+Tool - 1993.09.06
+Stadthalle - Offenbach, Germany
+
+media type: FLAC
+source: ASBM > DDC2 32khz > 1st gen CDR > EAC (Secure Mode) > CDWave (tracking) > .WAV > .FLAC
+taper: unknown 
+trade status: can trade
+
+disc 1 - 9 tracks - 46:42
+
+notes: This date previously circulated as January 27th, 1993, this recording has since been determined to be from September 6th, 1993.  3rd generation FLAC first shared in September 2010.

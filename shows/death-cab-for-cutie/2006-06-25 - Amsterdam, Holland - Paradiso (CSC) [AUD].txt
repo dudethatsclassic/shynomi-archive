@@ -1,0 +1,44 @@
+Death Cab For Cutie - Amsterdam - Paradiso 2006-06-25 (audience, master)
+Running time: ~87m
+
+01. Passenger seat
+02. Different names for the same thing
+03. The new year
+04. We laugh indoors
+05. Title and registration
+06. Soul meets body
+07. Crooked teeth
+08. Photobooth
+09. Lowell, MA
+10. Your heart is an empty room
+11. What Sarah said
+12. I will follow you into the dark
+13. Expo '86
+14. We looked like giants
+15. The sound of settling
+16. Transatlanticism
+17. A Movie Script Ending
+18. Marching Bands Of Manhattan
+
+Lineage: 
+Core Sound Stealth Cardiod Microphones -> Sony TCD-D100 Portable DAT recorder (44.1Hz) -> Edirol UA-1EX USB digital input -> WAV -> Adobe Audition -> FLAC (44.1kHz)
+
+FFP-checksums:
+01. Passenger seat.flac:6b07e5d64c3273fea84f467d2e30593d
+02. Different names for the same thing.flac:aaff20747178210c4fe718d9cadb1704
+03. The new year.flac:79891123dad16821d15120ff01431da8
+04. We laugh indoors.flac:e151882cb64b3cbbc0e45e251a294c38
+05. Title and registration.flac:d31e90a429703f6e66c256dfbad4d16c
+06. Soul meets body.flac:3398f6c92c2eef8ccdb188a64aaa519f
+07. Crooked teeth.flac:64cb182db4ff2f83a0a65bdafbb8106a
+08. Photobooth.flac:b9f27562736bb0f01c792e0305bcc11f
+09. Lowell, MA.flac:b24f6fc799c408745bc32b526f73d248
+10. Your heart is an empty room.flac:6c14f0381798d0d9954cd72b8cf1789b
+11. What Sarah said.flac:d2ccd80af6b43a68820d23035638c5ae
+12. I will follow you into the dark.flac:3fcfd92035f8f3e4fe98386ec85e0aca
+13. Expo '86.flac:9db1b049eb13ee8663cec92282f942be
+14. We looked like giants.flac:985144d43dd5c053825da431463aebb2
+15. The sound of settling.flac:c1de001f649f15cc68d57a0193596ca8
+16. Transatlanticism.flac:361f9c3e71db64a27ff0c049202d80f2
+17. A Movie Script Ending.flac:c148a47feefa3657e257110fc0d9bc9a
+18. Marching Bands Of Manhattan.flac:2e2c374ede4aba391a05579efe7b5f72

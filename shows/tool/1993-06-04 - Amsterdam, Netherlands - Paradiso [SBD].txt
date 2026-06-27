@@ -1,0 +1,17 @@
+TOOL
+1993-06-04
+Amsterdam, The Netherlands
+Paradiso
+
+Source: Soundboard
+Transfer: ASBM > DDC2 32khz > CDR > EAC (Secure Mode) > CDWave (tracking) > .WAV > .FLAC
+Generation: 3rd
+
+01 - Cold and Ugly - 3:27
+02 - Intolerance - 4:56
+03 - Sober - 5:28
+04 - Prison Sex - 5:04
+05 - 4° - 6:10
+06 - Opiate - 5:55
+07 - Flood - 7:16
+08 - post show - 1:07

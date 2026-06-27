@@ -1,0 +1,46 @@
+TOOL
+April 23, 1992
+The Rat
+Boston, MA
+
+DISC #1/1 (37:00)
+-----------------
+01) Hush
+02) Crawl Away
+03) Sober
+04) Sweat
+05) Swamp Song
+06) Jerkoff
+07) Opiate 
+
+GENERATION
+-----------------
+ANA(M) > CDR(1) > WAV [44.1kHz] > FLAC [Level 8]
+
+SOURCE
+-----------------
+built-in > Aiwa HS-M2
+
+EXTRACTION
+-----------------
+NEC ND-3500AG > Exact Audio Copy V0.99 prebeta 3 > Adobe Audition 3.0 > CD Wave 1.96.1 -> FLAC frontend 1.7.1
+
+NOTE
+-----------------
+This was recorded on stereo micro-cassette recorder.
+
+MD5 FINGERPRINTS
+-----------------
+fb668a8724d2e61be9c916a170e65144 *tool1992-04-23t01.flac
+67f86d517a462d8a893ec192a1ce9881 *tool1992-04-23t02.flac
+97f4a0db5508c2f670c51f048765b48c *tool1992-04-23t03.flac
+e516cc193013d2bd837fd31e937797dd *tool1992-04-23t04.flac
+df4c8eaf99cbb948ed44c8da2a0fea4d *tool1992-04-23t05.flac
+3089207f47adfaef2b2795cd47d13085 *tool1992-04-23t06.flac
+41f792913bb213a95dc4414e53bddb79 *tool1992-04-23t07.flac
+
+
+Extracted by Mike Ziegler.
+PLEASE DO NOT ENCODE TO MP3 OR SELL!
+
+If you or anyone you know taped Nirvana, please let me know! mike@mikeziegler.com

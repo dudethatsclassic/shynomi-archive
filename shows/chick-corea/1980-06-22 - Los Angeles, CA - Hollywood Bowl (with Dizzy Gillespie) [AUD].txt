@@ -1,0 +1,48 @@
+A Robert Collins Master Recording
+
+Artist:         Chick Corea
+Date:           1980-06-22
+Location:       Hollywood Bowl, Hollywood CA, USA
+Seats:          Behind box seats, center section
+Deck:           Nakamichi 350
+Mics:           Nakamichi CM-300 
+Source:         A:C Master Tape, Stereo
+Rating:         A-
+Length:         64 Mins
+
+Musicians:      Chick Corea: Keybaords; Al Vizzutti: Trumpet; Steve Kujala: Woodwinds; 
+                Bunny Brunel: Bass; Tom Brechtlein: Drums; Laudir D'Oliviera: Percussion; 
+                Don Alias: Congas; Gayle Moran: Keyboards, Vocals; 
+              
+Guest Artists:  Stanley Clarke: Bass; Lenny White: Drums; Dizzy Gillespie: Trumpet
+
+Notes:          This recording is part of the 2nd Annual Playboy Jazz Festival.
+
+
+Lineage:        AUD> Nakamichi 350 Cassette (Master Tape) 
+                ---> RME Audio Digi96 PAD (import to computer)
+                ---> Sound Forge 
+                ---> CD Architect 
+                ---> EAC 
+                ---> FLAC
+
+
+--------Start ----------End -------Length   Name---------------------- 
+ 00:00:00.000  00:19:45.680  00:19:45.680   Tapstep                    
+ 00:20:12.035  00:33:06.454  00:12:54.419   The Embrace                
+ 00:33:06.454  00:34:13.517  00:01:07.063   Introducing the Musicians  
+ 00:34:13.517  00:51:29.699  00:17:16.182   Central Park               
+ 00:51:29.699  00:53:00.959  00:01:31.259   Introducing Dizzy Gillespie
+ 00:53:00.959  01:01:00.778  00:07:59.819   On Green Dolphin Street    
+ 01:01:17.964  01:10:03.498  00:08:45.533   This Time                  
+
+
+MD5 Fingerprints:
+07b2570b86f4ce170cffdd46c8977ed5 *1.01 Tapstep.flac
+2b5e5b8699f854b35b35d4801e179d62 *1.02 The Embrace.flac
+d8cbd00309e9b2dde2ab9aa696a7ae45 *1.03 Introducing the Musicians.flac
+76fbf64bbf55bd2bd7ff1351f84044cb *1.04 Central Park.flac
+c7f46e1238150e6dadc8fcf9bdf89781 *1.05 Introducing Dizzy Gillespie.flac
+e2f46c0392a0c73093c7838786a4500d *1.06 On Green Dolphin Street.flac
+75a33dd7e58ef88bc7cf6e4cfee6b509 *1.07 This Time.flac
+

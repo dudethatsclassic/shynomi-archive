@@ -1,0 +1,99 @@
+Jewel Kilcher
+Massey Hall
+Toronto, Ontario
+July 17, 2004
+
+Source : SBD > ?? > CD Trade > EAC > Wave > TLH (sbe aligned) > Flac 8
+
+Traders Den - February 13, 2023
+
+posted by kingrue upload #3575
+=======================================
+
+This is excellent qualty.
+
+Total Time = 01:43:45
+
+Set list
+01 Near You Always
+02 chat
+03 Long Slow Slide
+04 A Boy Needs A Bike
+05 Stephenville, TX
+06 chat
+07 Sometimes It Be That Way
+08 Down So Long
+09 Life Uncommon
+10 Hands
+11 Stand
+12 Violet Eyes
+13 Break Me
+14 chat
+15 Intuition
+16 Foolish Games
+17 You Were Meant for Me
+18 1,000 Miles Away
+19 chat
+20 Who Will Save Your Soul
+21 Where You Are
+22 Chime Bells
+
+=======================
+
+MPEG tested as CDDA Lossless.
+
+01 Near You Always.wav:  track looks like CDDA with probability 100%.
+02 chat.wav:  track looks like CDDA with probability 99%.
+03 Long Slow Slide.wav:  track looks like CDDA with probability 100%.
+04 A Boy Needs A Bike.wav:  track looks like CDDA with probability 100%.
+05 Stephenville, TX.wav:  track looks like CDDA with probability 100%.
+06 chat.wav:  track looks like CDDA with probability 100%.
+07 Sometimes It Be That Way.wav:  track looks like CDDA with probability 100%.
+08 Down So Long.wav:  track looks like CDDA with probability 100%.
+09 Life Uncommon.wav:  track looks like CDDA with probability 99%.
+10 Hands.wav:  track looks like CDDA with probability 100%.
+11 Stand.wav:  track looks like CDDA with probability 100%.
+12 Violet Eyes.wav:  track looks like CDDA with probability 100%.
+13 Break Me.wav:  track looks like CDDA with probability 100%.
+14 chat.wav:  track looks like CDDA with probability 100%.
+15 Intuition.wav:  track looks like CDDA with probability 100%.
+16 Foolish Games.wav:  track looks like CDDA with probability 100%.
+17 You Were Meant for Me.wav:  track looks like CDDA with probability 100%.
+18 1,000 Miles Away.wav:  track looks like CDDA with probability 99%.
+19 chat.wav:  track looks like CDDA with probability 100%.
+20 Who Will Save Your Soul.wav:  track looks like CDDA with probability 100%.
+21 Where You Are.wav:  track looks like CDDA with probability 100%.
+22 Chime Bells.wav:  track looks like CDDA with probability 100%.
+
+No errors occured.
+
+
+No errors occured.
+
+
+01 Near You Always.flac:7f5a199dd7c10a0a3484fb0d9403a6de
+02 chat.flac:f40847f37196777fb930c0a82c3de033
+03 Long Slow Slide.flac:f8f1a965e4ce4aacd0067947ccc6663d
+04 A Boy Needs A Bike.flac:4a1bb14072422d0a82d87d644ac0932a
+05 Stephenville, TX.flac:1459723dec0d9970d46f8697114b744c
+06 chat.flac:d0915a729cc6b9d600534ecb77b3a695
+07 Sometimes It Be That Way.flac:b44ba94e07b0e9d4a58a125de091e235
+08 Down So Long.flac:b5434dcf5d8fc32fafb56582ae255631
+09 Life Uncommon.flac:992cdcc2e5acec0f5e4c6d4b7b5d4491
+10 Hands.flac:4a88097efbcbb89e82e808f26e67b04c
+11 Stand.flac:39a551829f9d58167c41cad233b064ac
+12 Violet Eyes.flac:9c2cb2cf6796fed34b6687d3709b3650
+13 Break Me.flac:e03123432ef503ca37a44403d0b9e75f
+14 chat.flac:5d3a9175eb5bc917e166a5ea35ba393b
+15 Intuition.flac:f634cae6720e4bcaf34325fd9c4f6d72
+16 Foolish Games.flac:7146e2063d3420807e690a3de97e7f4f
+17 You Were Meant for Me.flac:df88d1b9d5c4e284fa3696e999fb4098
+18 1,000 Miles Away.flac:d5503d6114c0f41a1d08db3cdcbe370d
+19 chat.flac:1614b4180200ea21d33598791168ed7f
+20 Who Will Save Your Soul.flac:003339f970c94fdd81037e1ccd8dffbc
+21 Where You Are.flac:b8b7d4d8b1c4b60525fe8e94d78bfd78
+22 Chime Bells.flac:f50e417116e1d688ed3d72e522a2887c
+
+Checksum file saved to disk.
+
+No errors occured.

@@ -1,0 +1,32 @@
+Death Cab for Cutie
+Blind Pig, Ann Arbor, MI
+October 16, 2000
+
+Source: SS DSM6s/L > PA6LC3(65) > Sony TCD-D100 @ 48kHz
+Location: FOB 10' right stacks
+Transfer: DAT Master > Tascam DA20 > M-Audio MT2496 II > Audacity (amplify/resample) > CDWave > TLH
+Taper: tapeworm(48)
+
+Setlist:
+
+01 Soundcheck
+02 Bend to Squares
+03 Photobooth
+04 We Have The Facts And We're Voting Yes
+05 For What Reason
+06 Company Calls
+07 Company Calls Epilogue
+08 Technicolor Girls
+09 A Movie Script Ending
+10 Scientist Studies
+11 Pictures In An Exhibition
+
+Notes: Opening act for some band that I did not stick around for. Couple of levels adjustments during first song.
+Resampled to 44.1kHz. Raw transfer with no fades or EQ.
+
+Archive: Master DAT was transferred @ 48kHz and FLAC'd with cue sheet. 
+
+Taped and transferred by tapeworm(48) 
+Txt file compiled on 7/6/2015
+
+*** DO NOT DISTRIBUTE IN LOSSY FORMATS. DO NOT SELL THIS RECORDING, TRADE IT FREELY ***

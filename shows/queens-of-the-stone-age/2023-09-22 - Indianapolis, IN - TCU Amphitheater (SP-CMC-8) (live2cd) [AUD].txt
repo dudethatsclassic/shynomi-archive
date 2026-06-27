@@ -1,0 +1,60 @@
+Queens of the Stone Age
+September 22nd, 2023.
+TCU Amphitheater at White River State Park -
+Indianapolis, IN.
+
+Taper:      Charles Dewey Cole, IV <live2cd@hotmail.com>
+Location:   Section 401, Row D - Seat 8
+            (see chart here: https://www.ticketmaster.com/seatingchart/41695/49385)
+Source:     SP-CMC-8 Cardioids (4.7k mod) > SP-SPSB-11 (@16Hz) > Sony PCM-A10 (24 bit @48kHz) >
+            Adobe Audition 3.0 (dithered to 16 bit @44.1kHz) > Cd Wave > FLAC
+Conversion: Charles Dewey Cole, IV <live2cd@hotmail.com>
+Equipment:  Sony PCM-A10 > (USB) @ 48kHz > 44.1kHz > Cd Wave
+
+---------------------------------------------------------------------------------------------------------
+Total Time: (1:42:26)
+
+01. No One Knows				5:24
+02. Sick, Sick, Sick				3:53
+03. Smooth Sailing	 			4:43
+04. My God Is The Sun				4:22
+05. Emotion Sickness				5:46
+06. If I Had A Tail				6:16
+07. I Sat By The Ocean				4:27
+08. The Evil Has Landed				6:51
+09. Carnavoyeur					4:57
+10. The Way You Used To Do			5:10
+11. Negative Space				3:50
+12. Better Living Through Chemistry		6:51
+13. Make It Wit Chu				7:10
+14. Straight Jacket Fitting			9:10
+15. Little Sister				3:01
+16. ~ Encore ~	 				2:32
+17. Made To Parade				6:07
+18. Go With The Flow		 		4:11
+19. A Song For The Dead 			7:47
+
+----------------------------------------------------------------------------------------------------------
+Notes:
+
+QOTSA returned to touring in '23 after a 5 year hiatus, so seeing them this year
+was an absolute must. They did not announce any headliners in Ohio (altho their
+first show back was an hour set at Sonic Temple), so I decided on Indianapolis.
+"In Times New Roman..." is one of my favorite albums of the year, so I was very
+much looking forward to hearing a few of those cuts. Thankfully, they performed
+5 of them here in Indianapolis. "Negative Space" is one of my favorites, so I was
+happy to get that. The recording went fairly well. I normally do not buy seats
+this far back in a pavilion when taping, but I got into the presale late - and
+these were all that were left. Soon after, the entire pavilion was sold out, with
+only lawn being left. I was pleasantly surprised how good the sound was in 401,
+and may consider sitting there for future shows. I got to meet fellow taper,
+"ironchef" from Dime, and had a blast talking with him after the show. He taped
+from the rear of the pit, so it will be exciting to hear his source, when its
+out! I had fairly good neighbors and was able to fix the few screams and yells
+in RX7. The weather was near perfect at showtime. "I Think I Lost My Headache"
+was on the printed setlist following "Made To Parade", but was skipped.
+
+---------------------------------------------------------------------------------------------------------
+For more information on Queens of the Stone Age, please visit:
+
+http://www.queensofthestoneage.com/

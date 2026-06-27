@@ -1,0 +1,73 @@
+Jewel Kilcher (w/Band)
+Blockbuster Pavilion
+Charlotte, NC
+August 9, 1996
+
+Source : Sonic Studio mics > Sony TCD-D7 > CD Trade > EAC
+
+Transfer : Panasonic SV-3700 > HHB CDR-850
+
+Editing : Sound Forge (CD extract, tracking, volume) > Wave > TLH (sbe aligned) Flac 8
+
+Traders Den - June 23 , 2023
+
+edited & posted by kingrue #3702
+================================
+
+Jewel is opening for Neil Young on this tour and this is the first date out of 13 scheduled. 
+
+Jewel has a brand new backing band and this is their first gig together. 
+
+The quality on this is really good even though there is a couple microphone dropouts.
+It appears the microphone comes unplugged briefly during two songs.
+
+Jewel is rather excited opening for Neil Young and I’ll bet a bit nervous, she has to win over the crowd and they seem to be fairly receptive.
+
+Band line-up #2
+Jewel Kilcher - vocals, guitar
+Zev Katz - bass
+Frank Vilardi - drums
+Marc Shulman - guitar
+
+Total Time = 47:28
+
+Set list
+00 Introduction
+01 1000 Miles Away
+02 Little Sister (mic cuts @ 0:24-0:39 & 0:46-0:48)
+03 Fragile Heart
+04 Satellite
+05 Sometimes It Be That Way (mic cuts @ 1:06 & 3:18-3:30) 
+06 Cold Song
+07 Fade Away
+08 Love Me Just Leave Me Alone
+09 You Were Meant For Me
+10 Angel Standing By
+11 Carnivore
+12 Who Will Save You Soul
+13 Chime Bells
+
+=============================
+
+
+No errors occured.
+
+
+00 Introduction.flac:f8e6806ad1d2d279f568a9cb900648cb
+01 1000 Miles Away.flac:4029210920f6a5c81a16aabc34c7d21a
+02 Little Sister.flac:0b21d6d7e9c22fd37b0e241e7d839098
+03 Fragile Heart.flac:1264756cfc63d4f689ef2ee62ac18db7
+04 Satellite.flac:b6008879ba4e18c95eb3fb7d292fba82
+05 Sometimes It Be That Way.flac:b78f6aa31480e4fd44bf66726ed8fcc9
+06 Cold Song.flac:468db486d82f987f4d60fcb2a5374232
+07 Fade Away.flac:81c98a7987644a27f5e5c3dbf733d2e5
+08 Love Me Just Leave Me Alone.flac:c20d9a6c1a808e281cfbdb36c4ed60eb
+09 You Were Meant For Me.flac:7671a22f3ee85833fded73415f083050
+10 Angel Standing By.flac:41323d36b02f70c703f32161f1a956a6
+11 Carnivore.flac:4385d4ad87a8faaf2614ef56e477fcf5
+12 Who Will Save You Soul.flac:54611664b32a3a06635f8f623c658cc0
+13 Chime Bells.flac:cf355826cfcd0eb279620015a9f27b33
+
+Checksum file saved to disk.
+
+No errors occured.

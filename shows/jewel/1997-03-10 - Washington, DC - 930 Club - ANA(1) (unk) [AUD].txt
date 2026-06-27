@@ -1,0 +1,88 @@
+Jewel Kilcher 
+9:30 Club
+Washington, DC
+March 10, 1997
+
+Source : unknown mics > DAT > 1st gen cassette
+
+Transfer : Sony TC-WE 475 > JVC XL-R2010 CD-RW (transferred 2008)
+.
+Editing : Sound Forge (CD extract, tracking, volume) > WAV > TLH (sbe aligned) Flac 8
+I applied dynamic volume boost to raise the quieter parts
+
+Traders Den -  October 9, 2023
+
+Edited & posted by kingrue upload #3804
+============================================
+
+
+Band line-up
+Jewel Kilcher - acoustic guitar and vocals
+Steve Poltz - acoustic guitar and backing vocals
+John Castro - bass
+Jeff Aafedt - drums
+John Hagen - cello
+
+Total Time = 93:19
+
+Set list
+01 Near You Always
+02 Morning Song
+03 Cold Song
+04 Nicotine Love
+05 I'm Sensitive
+06 Race Car Driver
+07 Don't
+08 Enter From the East (w/Cello)
+09 You Were Meant For Me (w/Steve Poltz)
+10 Adrian
+11 Run Tonto Run (w/Rugburns)
+12 Down (w/Rugburns)
+13 Deep Water (w/Rugburns)
+14 Fat Boy (Fragile Flame)
+15 Silver Lining (w/Steve Poltz)
+16 Little Sister
+17 Passing Time
+18 Feel Like Celebrating
+19 Angel Standing By
+20 Chime Bells
+21 Who Will Save Your Soul (w/Rugburns & Cello)
+22 Jewel talks
+23 Amen (cuts off)
+
+=========================
+
+
+No errors occured.
+
+
+01 Near You Always.flac:71f1d43ae0551b66f873a855bd0a4564
+02 Morning Song.flac:3302e31de796c1b47a11b917a37b128b
+03 Cold Song.flac:a3f7e5bccc940c45ef2d129f891a4273
+04 Nicotine Love.flac:7959300cd62fb220580a1d656b0e053b
+05 I'm Sensitive.flac:4c079ebb1209c0bff9ff09530fbe5e49
+06 Race Car Driver.flac:d0e813e89e6dbde39633e03110be08a3
+07 Don't.flac:22b956c1f8c48563b7aebc962770fb71
+08 Enter From the East.flac:3d4ccb66f56a182eb1090fab2c51edc3
+09 You Were Meant For Me.flac:f529a2427807b7778a26a546abb05144
+10 Adrian.flac:c0a55903cc9ba0f58e44315e1389979b
+11 Run Tonto Run.flac:efbdd584338500a4bb61a37f8dedc570
+12 Down.flac:a036550751d493ac680443c79827b003
+13 Deep Water.flac:861a80f8413e0c2a5fdffcf954844842
+14 Fat Boy.flac:2895768832303e20b3f99a05eb0291fc
+15 Silver Lining.flac:d56b15ab314764cc31c993d586089d77
+16 Little Sister.flac:e8c0e92fff367d17ee97606d12abdd81
+17 Passing Time.flac:4ac8e61f182bffb951c1453d2d123670
+18 Feel Like Celebrating.flac:affb06fd4d05f1d429e099852fdfa5f6
+19 Angel Standing By.flac:ff2278600b33f2b7280e1b73bc0c7a16
+20 Chime Bells.flac:4940851f982a80a1a16878eda489e2ba
+21 Who Will Save Your Soul.flac:eb7f0309c2d3babb63ad9574f5f7ada3
+22 Jewel talks.flac:48bb1efbe3fcb254a9ef7ab592a10da7
+23 Amen (cuts off).flac:fbbe092ca7f09ab3dece1e6573206283
+
+Checksum file saved to disk.
+
+No errors occured.
+
+
+

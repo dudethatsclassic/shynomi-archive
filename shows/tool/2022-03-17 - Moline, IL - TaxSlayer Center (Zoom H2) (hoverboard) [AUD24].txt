@@ -1,0 +1,12 @@
+Tool - 2022.03.17
+TaxSlayer Center - Moline, IL, USA
+Version 1
+
+Source: Zoom H2 (internal mics, @24/96) > WAV > Wavelab (mastering) > Audition (tracking) > TLH (FLAC)
+Taper: hoverboard
+
+disc 1 - 15 tracks - 140:12
+
+notes: Taped from very last row of the arena section 208 seat 1.
+
+tooldriveproject.net

@@ -25,7 +25,8 @@ const ARTIST_DATA = {
       "venue": "Music Hall",
       "notes": "",
       "version": "SBD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1970-11-26 - Cleveland, OH - Music Hall [SBD].txt"
     },
     {
       "year": 1972,
@@ -38,7 +39,8 @@ const ARTIST_DATA = {
       "venue": "Notre Dame University",
       "notes": "Athletic",
       "version": "SBD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1972-05-03 - South Bend, IN - Notre Dame University - Athletic & Convocation Center [SBD].txt"
     },
     {
       "year": 1974,
@@ -49,9 +51,10 @@ const ARTIST_DATA = {
       "state": "WA",
       "location": "Seattle, WA",
       "venue": "Seattle Center Coliseum",
-      "notes": "Sony ECM-22P · jems",
+      "notes": "Sony ECM-22P \u00b7 jems",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1974-10-13 - Seattle, WA - Seattle Center Coliseum (Sony ECM-22P) (jems) [AUD].txt"
     },
     {
       "year": 1974,
@@ -64,7 +67,8 @@ const ARTIST_DATA = {
       "venue": "Hammersmith Odeon *Christmas Party 1974",
       "notes": "",
       "version": "SBD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1974-12-24 - London, England - Hammersmith Odeon - Christmas Party 1974 [SBD].txt"
     },
     {
       "year": 1976,
@@ -90,7 +94,8 @@ const ARTIST_DATA = {
       "venue": "Rossya Hotel Concert Hall",
       "notes": "",
       "version": "SBD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1979-05-28 - Moscow, Russia - Rossya Hotel Concert Hall [SBD].txt"
     },
     {
       "year": 1980,
@@ -103,7 +108,8 @@ const ARTIST_DATA = {
       "venue": "Seattle Center Coliseum",
       "notes": "",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1980-10-21 - Seattle, WA - Seattle Center Coliseum [AUD].txt"
     }
   ],
   "misc": [

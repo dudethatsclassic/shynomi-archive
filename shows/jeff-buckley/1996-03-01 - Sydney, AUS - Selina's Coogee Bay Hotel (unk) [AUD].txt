@@ -1,0 +1,63 @@
+Jeff Buckley
+1 March 1996 
+	
+
+AUD > ?Gens > CDR > EAC(s) > WAV > Audacity > xACT > FLAC
+
+Set List:
+---------
+01 Intro
+02 Mood Swing Whiskey
+03 Dream Brother
+04 Chat
+05 Mojo Pin
+06 Last Goodbye
+07 Chat
+08 Lilac Wine
+09 Grace
+10 So Real (fadeout added)
+11 Eternal Life (fadein added)
+12 Chat: Matt Says Good-Bye
+13 What Will You Say
+14 Kick Out The Jams
+15 Edna Frau §
+16 Chat
+17 I Woke Up In A Strange Place
+18 Chat
+19 Lover, You Should've Come Over
+20 Band Intros
+21 All Flowers In Time Bend Towards The Sun
+22 Dink's Song
+23 Encore & Walk-On
+24 Hallelujah
+25 Vancouver ->
+26 Kanga-Roo
+
+TT: 2:05:57
+
+Jeff Buckley - Guitars & Vocals
+Michael Tighe - Guitars
+Mick Grondahl - Bass
+Matt Johnson - Drums 
+
+
+After nearly two years of solid touring, we've arrived at this sad juncture: the final show of the final tour of Jeff Buckley and band. I still have a few more shows to post - or point to, as most of the last bit is up on the tracker - but this is really the end, for all intents and purposes. After returning to the States the day after this show, Jeff only played a handful of solo shows and one more band gig that we know about, before his fateful swim in Memphis in 1997.
+
+The good news, in spite of all that, is that this is a great show: it's the longest recorded show we have, definitely one of his best, and a very high point to go out on, performance-wise. An unknown taper provides us with a well-balanced and complete show, including some surprises and a real rarity.
+
+The show opens with the first of three of the newer songs, "Mood Swing Whiskey", still not fully formed, but sounding more confident than in previous outings. After a selection of Grace material, we get a bittersweet greeting to the crowd from departing drummer Matt Johnson. Increasingly frustrated by the band's lack of discipline, and members' flirtation with heroin, the rather more strait-laced Johnson had been feeling increasingly out of place, and tendered his resignation during this tour. Next Mickey Grondahl's "Edna Frau" gets another outing, but fails to coalesce, and is followed by another attempt at "I Woke Up In A Strange Place". 
+
+There's some amusing chat throughout the show - Jeff tells how he dealt with a cat in heat, and explores his Elvis moves, before a stunning "Lover" gets the crowd going again for Jeff's solo set. But rather than "Hallelujah", he instead performs the only version we have of his collaboration with friend Elizabeth (Cocteau Twins) Fraser, a never-named song generally referred to by its line, "All flowers, in time, bend towards the sun". Without missing a beat, he then launches into a Sin-é era chestnut, "Dink's Song", before saying a quick good night. After the break, he returns with Hallelujah and, the band having joined him, a fierce "Vancouver/Kanga-Roo" sends the crowd home, and ends the tour.
+
+I got this in a trade many years ago, and in preparation for posting, did a complete review in Audacity, adjusting the track markers and removing a few remaining blemishes. There was a hard cut at the end of the applause following "So Real", so I added fades, and I added a fade at the end of the show, but otherwise it didn't really need much work. Apart from that and the usual housekeeping, I provide it to you as I received it.
+
+
+Review here: https://notwithyoubutofyou.blogspot.com/2017/12/rise-to-grace.html 
+
+Files verified, tagged, and renamed to etree conventions; new checksums generated. 
+Text file updated, compiled & copy-edited by lovesick alien 2024-10-08
+--------------------------------------------------------------------------------
+Trade Freely. Never Sell. 
+Support the Artist: Purchase ALL authorised releases. 
+Support the Trading Community: Never Encode to lossy formats.
+--------------------------------------------------------------------------------

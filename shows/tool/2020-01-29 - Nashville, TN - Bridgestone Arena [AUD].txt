@@ -1,0 +1,31 @@
+Tool 
+January 29th, 2020
+Bridgestone Arena
+Nashville, TN, USA
+
+source: Schoeps MK41s > nbob KCY > babyNbox > Tascam DR-2d (mic in, @24/48)
+transfer: DR-2d > USB > PC > Magik > CoolEdit (>16/44.1) > CD Wave Editor > TLC > FLAC
+taper: geordy
+Location: Section 101, Row A
+
+01. Intro
+02. Fear Inoculum
+03. Ænema
+04. The Pot
+05. Parabol
+06. Parabola
+07. Pneuma
+08. Schism
+09. Jambi (with Richie Faulkner)
+10. Merkaba
+11. Vicarious
+12. Swamp Song
+13. Forty Six & 2
+14. Intermission
+15. Chocolate Chip Trip
+16. Invincible
+17. Stinkfist
+
+Notes: Special thanks to TB and DVN for the loaner recording equipment and to specialk for the Magik EQ.  
+
+tooldriveproject.net

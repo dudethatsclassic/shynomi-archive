@@ -1,0 +1,69 @@
+Tool
+2002-08-13
+Radio City Music Hall
+New York, NY
+
+Source: DPA4060 > DACPS* w/85Hz filter > line in > PCM-M1 (BASF DATmaster 124)
+Location: Left side aprox. 10th row 
+Taper: Genghis Cougar Mellen Khan
+Transfer: Tascam DA-302 > S/PDIF coax > PMD671 > USB > HD 
+Edit: Sound Forge 10 (resample/normalize/fades) > CD wave editor (tracking)
+
+TLH 2.7.0 (Build 172) encoded to .flac (level 8)/align (fix)/test 
+
+*Dynamic Audio custom power supply (Z. Payne)
+
+-Setlist- (for continuous play delete 1-12 fade out & 2-01 fade in)
+
+-tuvan intro-			04:28
+Sober				05:57
+Commando (Ramones Cover)	03:23
+The Grudge			09:07
+Stinkfist			06:43
+H				08:07
+Schism				09:10
+Parabol				02:59
+Parabola			07:25
+Eon Blue Apocalypse/The Patient 09:02
+Ænima 				06:42
+-intermission-			08:00
+Disposition			05:38
+Reflection			12:41
+Triad				12:21
+Lateralus			11:16
+
+Total:	2:03:36
+ 
+
+-Setlist- (to burn to 2 cds delete 1-12 intermission) 
+		
+Disc 1:
+
+01) Tuvan intro			01:16
+02) Sober			08:08
+03) Commando (Ramones cover)	04:01
+04) The Grudge			02:53
+05) Stinkfist			03:38
+06) H				05:27
+07) Schism			09:13
+08) Parabol			05:00
+09) Parabola			01:46
+10) Eon Blue/The Patient	01:11
+11) Ænima			03:24
+12) - fade out - 		00:23
+
+ 
+Total:				73:31
+
+
+Disc 2:
+
+01) - fade in -			00:06
+02) Disposition			05:38
+03) Reflection			12:41
+04) Triad			12:21
+05) Lateralus			11:16
+
+ 
+Total:				42:04
+

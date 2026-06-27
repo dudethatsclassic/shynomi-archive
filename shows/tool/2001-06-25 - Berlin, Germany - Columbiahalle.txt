@@ -1,0 +1,13 @@
+Tool - 2001.06.25
+Columbiahalle - Berlin, Germany
+version 2
+
+media type: FLAC
+Source: OKM-IIr > Casio DAT/32kHz > 1st Gen DAT Master (resampled to 44kHz) > WAV > FLAC
+taper: unknown
+trade status: can trade
+
+disc 1 - 10 tracks - 73:29
+disc 2 - 7 tracks - 45:21
+
+notes: none

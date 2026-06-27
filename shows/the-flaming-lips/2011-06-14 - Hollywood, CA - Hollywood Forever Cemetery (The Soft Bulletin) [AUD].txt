@@ -1,0 +1,90 @@
+The Flaming Lips
+Hollywood Forever Cemetery (6000 Santa Monica Boulevard, Hollywood, CA 90038)
+Tuesday, June 14, 2011
+
+
+
+AKG c422 > s42 > Grace Design Lunatec V2 > Sonic AD2K+ > Tascam HD-P2
+
+Location	: ~Center, ~70' back, ~10' stand/offset arm + nanoclamp
+Mic Config	: Blumlein
+Record Format	: 24-bit, 96 kHz
+Transfer	: CF card > USB 2.0 card reader > PC
+Edit, Tracking	: fades, invert polarity (Samplitude)
+Dither		: POW-r #3 (Samplitude)
+Resample	: Ultra High 1 (Samplitude)
+Final Format	: 16-bit, 44.1 kHz
+Verify		: shntool.exe
+Tagging		: Live Show Tagger (foobar2000)
+
+
+
+01. Intro
+02. Race for the Prize
+03. A Spoonful Weighs a Ton
+04. The Spark That Bled
+05. The Spiderbite Song
+06. Buggin'
+07. What Is the Light?
+08. The Observer
+09. Waiting for a Superman
+10. Suddenly Everything Has Changed
+11. The Gash
+12. Feeling Yourself Disintegrate
+13. Sleeping on the Roof
+
+14. She Don't Use Jelly
+15. The Yeah Yeah Yeah Song (With All Your Power)
+16. Do You Realize??
+
+
+
+    length     expanded size    cdr  WAVE problems  fmt   ratio  filename
+     8:21.70       88541084 B   ---   --   -----    wav  1.0000  fl2011-06-14c422_01.wav
+     5:40.58       60112460 B   ---   --   -----    wav  1.0000  fl2011-06-14c422_02.wav
+     5:40.23       60030140 B   ---   --   -----    wav  1.0000  fl2011-06-14c422_03.wav
+    10:42.66      113404076 B   ---   --   -----    wav  1.0000  fl2011-06-14c422_04.wav
+     9:42.56      102796556 B   ---   --   -----    wav  1.0000  fl2011-06-14c422_05.wav
+     5:50.57       61874108 B   ---   --   -----    wav  1.0000  fl2011-06-14c422_06.wav
+     4:35.16       48547676 B   ---   --   -----    wav  1.0000  fl2011-06-14c422_07.wav
+     9:23.62       99459068 B   ---   --   -----    wav  1.0000  fl2011-06-14c422_08.wav
+     5:59.54       63454652 B   ---   --   -----    wav  1.0000  fl2011-06-14c422_09.wav
+     5:39.44       59903132 B   ---   --   -----    wav  1.0000  fl2011-06-14c422_10.wav
+     7:34.65       80238524 B   ---   --   -----    wav  1.0000  fl2011-06-14c422_11.wav
+     6:38.49       70322492 B   ---   --   -----    wav  1.0000  fl2011-06-14c422_12.wav
+    10:59.22      116299388 B   ---   --   -----    wav  1.0000  fl2011-06-14c422_13.wav
+     6:11.16       65482076 B   ---   --   -----    wav  1.0000  fl2011-06-14c422_14.wav
+     6:53.43       72954380 B   ---   --   -----    wav  1.0000  fl2011-06-14c422_15.wav
+     9:45.51      103313996 B   ---   --   -----    wav  1.0000  fl2011-06-14c422_16.wav
+   119:41.02     1266733808 B                            1.0000  (16 files)
+
+
+
+************************************************************************
+*                                                                      *
+*  ###  FREE  ###                                                      *
+*                                                                      *
+*  The musicians allowed this recording for FREE.  PLEASE...           *
+*                                                                      *
+*    - Only share this recording with others for FREE.                 *
+*    - Do NOT sell or trade this recording for profit of any kind.     *
+*                                                                      *
+*  ###  SUPPORT MUSICIANS  ###                                         *
+*                                                                      *
+*  Help ensure live recordings remain easily accessible and FREE by    *
+*  supporting the musicians:                                           *
+*                                                                      *
+*    - attend their live shows                                         *
+*    - purchase their dry goods                                        *
+*    - buy their studio releases                                       *
+*                                                                      *
+*  For more information on the musicians, their tours, and studio      *
+*  recordings:                                                         *
+*                                                                      *
+*    - http://www.flaminglips.com/                                     *
+*                                                                      *
+************************************************************************
+
+
+
+++ recorded, transferred and uploaded by macdaddy (June 18, 2011)

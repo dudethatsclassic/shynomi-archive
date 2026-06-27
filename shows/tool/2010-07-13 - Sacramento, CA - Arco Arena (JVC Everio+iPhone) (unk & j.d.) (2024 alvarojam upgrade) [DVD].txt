@@ -1,0 +1,61 @@
+TOOL
+====
+July 13, 2010
+Arco Arena
+Sacramento, CA
+
+Audience recording > MOV > DVD > Demux > Audio remaster > Authoring > DVD
+NTSC - 720x480 - 6000 kb/s
+Stereo PCM - 1536 kb/s
+Lenght: 01:47:08
+
+Lineage: 
+Everything > FormatFactory 2.60 (Aenima only) > Tsunami DVD Author Pro
+
+------
+TRACKS
+------
+Third Eye
+Jambi
+Stinkfist
+Vicarious
+Eon Blue Apocalypse
+The Patient
+Intolerance
+Schism
+Forty-Six & 2
+Intermission
+Lateralus
+Ænema 
+
+--------------
+ORIGINAL NOTES
+--------------
+Main footage shot from Sec 123 Row K by dpupenya
+Aenima iphone footage shot by J.D, location unknown
+
+Video: JVC Everio model GZ-MG360BU(Aenima footage shot from iphone)
+FormatFactory 2.60 to convert the iPhone .mov file to MPG.  
+Output setting was 'DVD NTSC Large', 720x480, 6000KB/s bitrate, 48000HZ 2 channel audio.
+
+Thanks to J.D for the Aenima footage
+Thanks to Geordy for authoring
+Thanks to the bitch working Section 123 for the security ducks.
+---------------------------------------------------------------
+***2023 NOTES***
+
+Audio remaster by Alvarojam
+(Equalization, cleaning, stereo simulation, levels adjustments)
+
+No disprespect to the original tapers.
+Just wanted to make the best possible of the sources availables.
+
+Thanks a lot to all tapers for their work!
+
+Alvarojam
+January 2, 2024
+
+
+
+
+

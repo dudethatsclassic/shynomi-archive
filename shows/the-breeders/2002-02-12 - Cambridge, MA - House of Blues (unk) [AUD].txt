@@ -1,0 +1,108 @@
+The Breeders 
+at the House of Blues 
+Cambridge, Massachusetts USA
+2002-02-12 
+February 12, 2002
+trade CDR > flac 2015 seed by [unknown]
+January 2022 reseed 
+FLAC files renamed 
+
+65:09 minutes 
+
+01 intro 1:05 
+02 No Aloha 2:02 
+03 Tipp City 2:32 
+04 Huffer 2:15 
+05 Saints 2:26 
+06 Little Fury 4:15 
+07 Head To Toe 2:45 
+08 I Just Wanna Get Along 2:00 
+09 Cannonball 4:09 
+10 Too Alive 4:40 
+11 Flipside 2:18 
+12 Doe 2:31 
+13 Forced To Drive 4:48 
+14 Iris 3:02 
+15 Safari 5:40 
+16 Full On Idle 3:17 
+17 Pacer 6:03 
+18 Theme from "Buffy The Vampire Slayer" 1:02
+19 Fortunately Gone 2:02 
+20 Son Of Three 2:45 
+21 Divine Hammer 3:19
+
+ 
+Kim Deal - rhythm guitar, lead vocals  
+her twin sister Kelley Deal - lead guitar, vocals 
+Josephine Wiggs - bass guitar, vocals 
+Jim Macpherson - drums 
+
+https://en.wikipedia.org/wiki/The_Breeders 
+
+https://en.wikipedia.org/wiki/Title_TK [2002 release] 
+
+https://en.wikipedia.org/wiki/House_of_Blues 
+
+Tiny Desk Concert NPR video
+https://www.youtube.com/watch?v=CHMZW9kLpg0 
+
+at Pappy & Harriet's 2018
+https://www.youtube.com/watch?v=cNrMuyXNGuo 
+
+-----
+Trade CDR -> EAC -> FLAC > 2005 seed 
+
+2022 reseed:
+FLAC files renamed, new checksum files added 
+and this info file revised; original info file included.
+Thanks again to the original seeder for this recording.
+
+A zootype reseed January 2022 
+
+-- 
+original ffp:
+01 -intro-.flac:41b158f70e49a3799f0c84c554122057
+02 No Aloha.flac:ada3955a338b78d4b22e4c247ccc6c05
+03 Tipp City.flac:ff80a2420f60d2f97734e70a79c6de4e
+04 Huffer.flac:af52bfab95aa08bd715ea29fb0abfc21
+05 Saints.flac:40c6d74db4944b28664f2667f62103c9
+06 Little Fury.flac:011eed9cc16afecb906d752519f1de3c
+07 Head To Toe.flac:0395e6f5adf2eb29e06824052d53959f
+08 I Just Wanna Get Along.flac:de9c6062c9f86f03ebec081e8e68115d
+09 Cannonball.flac:68709cbf1fce317913a8f0ab91f7a2e8
+10 Too Alive.flac:d1cae8b3e4c9381947f4a16ebe6741a2
+11 Flipside.flac:37f0c2e0b4bbce46e98bb32de9ddbb4d
+12 Doe.flac:eb1bd833561b2c23c1de5df84781b371
+13 Forced To Drive.flac:239f2e57535cd7bd79c8e394663d49b4
+14 Iris.flac:720dc09b77ce43b47d7c12c4f29c11f2
+15 Safari.flac:8c7d9040f465131752d4153afaed79a3
+16 Full On Idle.flac:ecd774e1f60a234d5798e3edfc3e7ebc
+17 Pacer.flac:abb30db39948bbae428d0976c3e45ea8
+18 Theme From Buffy The Vampire Slayer.flac:67f3f1bf2d3a02b2058e04130b694c09
+19 Fortunately Gone.flac:471cf088dc00c64c54b47baefbcd66a6
+20 Son Of Three.flac:5f996427703ff1b33351011b3b32ed37
+21 Divine Hammer.flac:316a5c964338f842b17b8861aa29a9fd
+---
+new ffp:
+Breeders-2002-02-12-tr01-intro.flac:41b158f70e49a3799f0c84c554122057
+Breeders-2002-02-12-tr02-No_Aloha.flac:ada3955a338b78d4b22e4c247ccc6c05
+Breeders-2002-02-12-tr03-Tipp_City.flac:ff80a2420f60d2f97734e70a79c6de4e
+Breeders-2002-02-12-tr04-Huffer.flac:af52bfab95aa08bd715ea29fb0abfc21
+Breeders-2002-02-12-tr05-Saints.flac:40c6d74db4944b28664f2667f62103c9
+Breeders-2002-02-12-tr06-Little_Fury.flac:011eed9cc16afecb906d752519f1de3c
+Breeders-2002-02-12-tr07-Head_To_Toe.flac:0395e6f5adf2eb29e06824052d53959f
+Breeders-2002-02-12-tr08-I_Just_Wanna_Get_Along.flac:de9c6062c9f86f03ebec081e8e68115d
+Breeders-2002-02-12-tr09-Cannonball.flac:68709cbf1fce317913a8f0ab91f7a2e8
+Breeders-2002-02-12-tr10-Too_Alive.flac:d1cae8b3e4c9381947f4a16ebe6741a2
+Breeders-2002-02-12-tr11-Flipside.flac:37f0c2e0b4bbce46e98bb32de9ddbb4d
+Breeders-2002-02-12-tr12-Doe.flac:eb1bd833561b2c23c1de5df84781b371
+Breeders-2002-02-12-tr13-Forced_To_Drive.flac:239f2e57535cd7bd79c8e394663d49b4
+Breeders-2002-02-12-tr14-Iris.flac:720dc09b77ce43b47d7c12c4f29c11f2
+Breeders-2002-02-12-tr15-Safari.flac:8c7d9040f465131752d4153afaed79a3
+Breeders-2002-02-12-tr16-Full_On_Idle.flac:ecd774e1f60a234d5798e3edfc3e7ebc
+Breeders-2002-02-12-tr17-Pacer.flac:abb30db39948bbae428d0976c3e45ea8
+Breeders-2002-02-12-tr18-Theme_From_Buffy_The_Vampire_Slayer.flac:67f3f1bf2d3a02b2058e04130b694c09
+Breeders-2002-02-12-tr19-Fortunately_Gone.flac:471cf088dc00c64c54b47baefbcd66a6
+Breeders-2002-02-12-tr20-Son_of_Three.flac:5f996427703ff1b33351011b3b32ed37
+Breeders-2002-02-12-tr21 Divine_Hammer.flac:316a5c964338f842b17b8861aa29a9fd 
+---- 

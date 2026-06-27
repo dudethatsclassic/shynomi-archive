@@ -1,0 +1,83 @@
+Jewel Kilcher (w/Band)
+Madison Square Garden
+New York, NY (Source 1)
+August 19, 1996
+
+Source : unknown mics > DAT Master > CD-R Trade > EAC
+
+Editing : Sound Forge (CD extract, tracking, volume) > Wave > TLH (sbe aligned) Flac 8
+
+Traders Den - June 14, 2023
+
+edited & posted by kingrue #3683
+=====================================
+
+Jewel was opening for Neil Young on this summer tour.
+She has a new backing band, with better professional musicians this time around.
+This is the 6th gig scheduled out of 13.
+
+This is known as source 1 and the first song fades in. The quality is very good. 
+
+I have camcorder footage on my YouTube channel which you can see here.
+https://www.youtube.com/watch?v=nHS_hNHumVU
+
+
+Band line-up #2
+Jewel Kilcher - vocals, guitar
+Zev Katz - bass
+Frank Vilardi - drums
+Marc Shulman - guitar
+
+Total Time = 38:39
+
+Set list
+01 Summertime (fades in)
+02 Deep Water
+03 Little Sister
+04 Satellite
+05 You Were Meant for Me
+06 Sometimes it Be That Way
+07 Fading Away
+08 Love Me Just Leave Me Alone
+09 Carnivore
+10 Who Will Save Your Soul
+11 Chime Bells
+
+
+=======================
+
+
+01 Summertime.wav:  track looks like CDDA with probability 99%.
+02 Deep Water.wav:  track looks like CDDA with probability 100%.
+03 Little Sister.wav:  track looks like CDDA with probability 58%.
+04 Satellite.wav:  track looks like CDDA with probability 76%.
+05 You Were Meant for Me.wav:  track looks like CDDA with probability 94%.
+06 Sometimes it Be That Way.wav:  track looks like CDDA with probability 42%.
+07 Fading Away.wav:  track looks like CDDA with probability 100%.
+08 Love Me Just Leave Me Alone.wav:  track looks like CDDA with probability 100%.
+09 Carnivore.wav:  track looks like CDDA with probability 54%.
+10 Who Will Save Your Soul.wav:  track looks like CDDA with probability 100%.
+11 Chime Bells.wav:  track looks like CDDA with probability 100%.
+
+No errors occured.
+
+
+No errors occured.
+
+
+01 Summertime.flac:c8b1fd74333a22aadfa2e71fcee33c9b
+02 Deep Water.flac:6154cf6a153af31976522d65f23ff354
+03 Little Sister.flac:9a09a06c168100039a5186b61619c2b3
+04 Satellite.flac:4a55364dab7990f4054ff8c985982072
+05 You Were Meant for Me.flac:da49f495d58660d480adb68f27a2a546
+06 Sometimes it Be That Way.flac:845eedb2f93382fa0491196d7d0e77b0
+07 Fading Away.flac:3c88e68fb990bc189042fccc254e4c0a
+08 Love Me Just Leave Me Alone.flac:7289e8555929eeb62680e16ba794c349
+09 Carnivore.flac:2e2c47edc374a164d49eddc81f1c83d4
+10 Who Will Save Your Soul.flac:5f41f1bc8abd8fc5e973349674898a77
+11 Chime Bells.flac:905fc4b340f63d6f08d982ded6800903
+
+Checksum file saved to disk.
+
+No errors occured.
+

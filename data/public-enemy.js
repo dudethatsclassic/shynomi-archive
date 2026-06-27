@@ -23,7 +23,8 @@ const ARTIST_DATA = {
       "venue": "Celebrity Theatre - ANA",
       "version": "AUD",
       "format": "FLAC",
-      "notes": "M \u00b7 Unknown"
+      "notes": "M \u00b7 Unknown",
+      "textFile": "1988-12-18 - Anaheim, CA -  Celebrity Theatre - ANA(M) (unk) [AUD].txt"
     },
     {
       "year": 1991,
@@ -36,7 +37,8 @@ const ARTIST_DATA = {
       "venue": "",
       "version": "AUD",
       "format": "FLAC",
-      "notes": ""
+      "notes": "",
+      "textFile": "1991-07-12 - Hoffman Estates, IL - Poplar Creek Music Theatre (Cassette) [AUD].txt"
     },
     {
       "year": 1992,
@@ -49,7 +51,8 @@ const ARTIST_DATA = {
       "venue": "Winterthur",
       "version": "SBD",
       "format": "FLAC",
-      "notes": ""
+      "notes": "",
+      "textFile": "1992-04-09 - Switzerland - Winterthur [SBD].txt"
     },
     {
       "year": 1992,
@@ -62,7 +65,8 @@ const ARTIST_DATA = {
       "venue": "Dodger Stadium",
       "version": "AUD",
       "format": "FLAC",
-      "notes": ""
+      "notes": "",
+      "textFile": "1992-10-30 - Los Angeles, CA - Dodger Stadium [AUD].txt"
     },
     {
       "year": 1999,
@@ -75,7 +79,8 @@ const ARTIST_DATA = {
       "venue": "Unknown Venue",
       "version": "AUD",
       "format": "FLAC",
-      "notes": ""
+      "notes": "",
+      "textFile": "1999-12-18 - Paris, France - Unknown Venue [FM].txt"
     }
   ]
 };

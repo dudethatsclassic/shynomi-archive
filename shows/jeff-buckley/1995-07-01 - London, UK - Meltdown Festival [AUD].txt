@@ -1,0 +1,54 @@
+Jeff Buckley
+1995-07-01
+Meltdown Festival
+Queen Elizabeth Hall, London, UK
+
+AUD > ?Gens > trade CDr > EAC > Audacity > WAV > Switch (downsample to 16/44) > xAct (fix SBE) > FLAC
+
+01 Elvis Costello introduces Jeff
+02 Jeff introduces Britten
+03 Corpus Christi Carol (Benjamin Britten)+
+04 Jeff introduces Purcell
+05 Dido's Lament (Henry Purcell)+ ±
+06 Jeff introduces The Other Woman
+07 The Other Woman  (Nina Simone)
+08 Jeff Introduces The Smiths
+09 The Boy With The Thorn In His Side (The Smiths)
+10 Jeff introduces Grace
+11 Grace
+
+12 WHFS-FM Interview [Bonus Track]**
+
+** this segment from WHFS-FM's "Just Passin' Thru" broadcast the preceding month includes Jeff talking about the upcoming Meltdown collaboration.
+
+TT: 0:29:49
+
+Jeff Buckley - Vocals & Guitar, with
+
++ Catherine Edwards - Piano
+± Phillip Sheppard - Cello
+---with additional unnamed chamber musicians
+
+I'm often asked, 'what is your favourite Jeff Buckley recording'. Look no further. This is it. The Meltdown Festival is the longest-running artist-curated festival in the world. Beginning in 1993, an internationally-known performer is chosen to assemble the programme. Past compères have included David Bowie, Patti Smith and, this year, Chaka Khan. In 1995, it fell to Elvis Costello to assemble the performers. Elvis had heard Jeff singing Britten's "Corpus Christi Carol" on Grace, and wanted him for the show, which also included contributions from Costello himself (with longtime associate Steve Nieve), Marc Ribot, Debby Harry, June Tabor and others over the two week period of the Festival.
+
+Jeff played the Torhaut Festival that afternoon - the recording has been posted here: http://www.dimeadozen.org/torrents-details.php?id=780588 - and flew back to London expressly for this performance. It is unusual in that it is almost entirely covers, hearkening back to his days at Sin-é. He is accompanied by mostly unnamed chamber musicians, but cellist Phillip Sheppard who was there, remembers the evening vividly, and his remembrances can be found here: https://philipsheppard.com/2009/02/10/playing-with-jeff-buckley/
+
+Here's what Elvis said: "When he started singing Dido’s Lament at the rehearsal, there were all these classical musicians who could not believe it. Here’s a guy shuffling up on-stage and singing a piece of music normally thought to be the property of certain types of specifically developed voice, and he’s just singing, not doing it like a party piece, but doing something with it." 
+
+Sheppard adds, "That’s an understatement… I remember the lights being pretty bright and the silhouette of his frame as he bent almost double to wrench every ounce of meaning from a song written 300 hundred years ago. Better than any classical musician I’ve ever heard."
+
+Although the BBC was there and filmed and recorded the entire programme, it has yet to appear in circulation or on the iPlayer. This is a very good audience recording from an unknown taper, and we are extremely lucky that they were there. I hope you enjoy this amazing, unique performance.
+
+My copy of this came on a CD which had been burned TAO, so I edited out the 2-sec gaps in Audacity, and while I was in there, I removed a few coughs, clicks etc. There were a couple of audio anomalies I couldn't do anything about - a mic pop and a thump of some sort - but they are brief and I left them alone.
+
+
+Contemporaneous review here: Review here: https://notwithyoubutofyou.blogspot.com/2018/09/meltdown-review.html
+
+
+Files verified, tagged, and renamed to etree conventions; new checksums generated. 
+Text file updated, compiled & copy-edited by lovesick alien 2024-10-03
+--------------------------------------------------------------------------------
+Trade Freely. Never Sell. 
+Support the Artist: Purchase ALL authorised releases. 
+Support the Trading Community: Never Encode to lossy formats.
+--------------------------------------------------------------------------------

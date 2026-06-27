@@ -1,0 +1,59 @@
+Tool
+March 6th, 2022.
+Nationwide Arena - Columbus, OH.
+
+Taper:      Charles Dewey Cole, IV <live2cd@hotmail.com>
+Location:   Section 102, Row T - Seat 1
+            (see chart here: http://www.ticketmaster.com/seatingchart/41498/28690)
+Source:     AT853U Cardioids (4.7k mod) > SP-SPSB-11 (@69Hz) > Sony PCM-A10 (24 bit @48kHz) >
+            Adobe Audition 3.0 (dithered to 16 bit @44.1kHz) > Cd Wave > FLAC
+Conversion: Charles Dewey Cole, IV <live2cd@hotmail.com>
+Equipment:  Sony PCM-A10 > (USB) @ 48kHz > 44.1kHz > Cd Wave
+
+---------------------------------------------------------------------------------------------------------
+Total Time: (2:10:59)
+
+01. Fear Inoculum				13:21
+02. Opiate 					8:08
+03. The Pot					8:42
+04. Pushit					11:17
+05. Pneuma					13:07
+06. The Grudge					8:51
+07. Eon Blue Apocalypse				1:13
+08. The Patient					8:28
+09. Descending					16:02
+10. Hooker With A Penis / Encore		6:26
+11. Chocolate Chip Trip #			7:41
+12. Culling Voices				12:35
+13. Invincible					15:07
+
+----------------------------------------------------------------------------------------------------------
+Notes:
+
+# Danny solo.
+
+Also on the bill were The Acid Helps [not recorded].
+
+I purchased tickets to see Tool in Toledo on May 4th, 2020 and had great taping 
+seats. Sadly, that show got cancelled due to covid, so I had to make sure I caught 
+one of their Ohio shows on their FI 2nd leg. The setlist has drastically changed 
+from the last time I saw them in 2019. They have added some real gems and removed 
+every single radio single from the setlist. Well, except for the few cities who get 
+"Sober" on this run, that is. This show was really built for the hardcore fan in 
+mind. Maynard also made mention of a Columbus favorite, Hot Chicken Takeover. He 
+then used the word "spicy!" in "Opiate" and again in "The Grudge". Pretty hilarious. 
+He also wore their shirt on stage from what I heard, but couldn't make it out from 
+my seat. He must love HCT. One minor note, you will hear some static (most notably 
+during the beginning of "Fear Inoculum") and at various times in between songs as
+the show goes on. I tested my rig after loading the wave and as it turns out my
+3.5mm male to male plug I run from my SP-SPSB-11 was going bad. I swapped it out &
+the minor static went away. Bummer! But, honestly, you wont hear it once the band
+turns it on. It could have been a lot worse! Strange enough, I used it the night
+prior and had no issues. Fair warning.
+
+"We both want... a spicy chicken dish!" - MJK
+
+---------------------------------------------------------------------------------------------------------
+For more information on Tool, please visit:
+
+https://www.toolband.com/

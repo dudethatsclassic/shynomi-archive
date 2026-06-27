@@ -1,0 +1,60 @@
+TOOL
+October 6, 2023
+Discovery Park (Aftershock Festival)
+Sacramento, CA, US
+
+SETLIST:
+-------------------
+01. Jambi
+02. The Pot
+03. Fear Inoculum
+04. Pushit
+05. Rosetta Stoned
+06. Forty Six & 2
+07. Pneuma
+08. The Grudge
+09. Invincible
+10. Stinkfist
+11. Swamp Song
+12. Ænema
+
+
+SOURCE:
+-------------------
+AUD #1 - Quality: 9.5
+Schoeps MK4's > Sony PCM-A10
+
+Recorded by: TJ (ratm.live)
+
+TRANSFER:
+-------------------
+2x Schoeps MK4 capsules > Actives cables(?) > Babynbox > Sony PCM-A10 High-Resolution Digital Audio Recorder > WAV [96kHz/24-bit] > USB connector > PC > Audacity > FLAC > Adobe Audition 23.2 [post-production/mastering] > WAV [44.1kHz/16-bit] > xACT 2.54 > FLAC [Level 8]
+
+GENERATION:
+-------------------
+WAV(M) [96kHz/24-bit] > WAV [44.1kHz/16-bit] > FLAC [Level 8]
+
+NOTES:
+-------------------
+- This source was remastered to fully showcase the sound of the recording and show.
+- This source was dithered down to [44.1kHz/16-bit] in order to have the ability to burn onto two CD's, once decoded back to WAV. The desired split is in between "Forty Six & 2" and "Penuma".
+
+
+FLAC FINGERPRINTS:
+-------------------
+5bc1fbf5386ff53b765172ab08ec796c *tool2023-10-06_AUD1_CD-EDIT_t01.flac
+94eb9c3a00dca9c07ed46fd6a9525e08 *tool2023-10-06_AUD1_CD-EDIT_t02.flac
+5dd8d05d7e8c59e3f2447f39a36b4cd8 *tool2023-10-06_AUD1_CD-EDIT_t03.flac
+da8747e28d89e4461c5de1e9a7b8155d *tool2023-10-06_AUD1_CD-EDIT_t04.flac
+885b922ff9669e1bb1b46c631e80cde4 *tool2023-10-06_AUD1_CD-EDIT_t05.flac
+5eb969d6160bc0f70056233b3a35b9bd *tool2023-10-06_AUD1_CD-EDIT_t06.flac
+e971832dda56c9ceccca58a3e2add5a6 *tool2023-10-06_AUD1_CD-EDIT_t07.flac
+9da9dacb3885421d172ce116e76b3e54 *tool2023-10-06_AUD1_CD-EDIT_t08.flac
+ce369989eea90919c2213747651c3aae *tool2023-10-06_AUD1_CD-EDIT_t09.flac
+7c26dfcdd47e7446f9cb35cee5fc79e8 *tool2023-10-06_AUD1_CD-EDIT_t10.flac
+d3b1e44372dd098cbf2c8d11b7a3d10f *tool2023-10-06_AUD1_CD-EDIT_t11.flac
+90a32dd7519adce6bf406955b6529f94 *tool2023-10-06_AUD1_CD-EDIT_t12.flac
+
+
+Transferred and encoded by: TJ & vibrioidxire
+PLEASE DO NOT DISTRIBUTE IN LOSSY FORMATS OR SELL!

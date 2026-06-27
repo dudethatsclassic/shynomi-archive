@@ -28,7 +28,8 @@ const ARTIST_DATA = {
       "venue": "The Palladium",
       "version": "SBD",
       "format": "FLAC",
-      "notes": "Unknown"
+      "notes": "Unknown",
+      "textFile": "1993-12-31 - New York, NY - The Palladium (unk) [SBD].txt"
     },
     {
       "year": 1997,
@@ -41,7 +42,8 @@ const ARTIST_DATA = {
       "venue": "Meadows Music Theatre",
       "version": "AUD",
       "format": "FLAC",
-      "notes": "Radio Shack 33-3003 \u00b7 mike ganezer"
+      "notes": "Radio Shack 33-3003 \u00b7 mike ganezer",
+      "textFile": "1997-08-17 - Hartford, CT - Meadows Music Theatre (Radio Shack 33-3003) (mike ganezer) [AUD].txt"
     },
     {
       "year": 1997,
@@ -54,7 +56,8 @@ const ARTIST_DATA = {
       "venue": "Continental Airlines Arena",
       "version": "AMT",
       "format": "DVD",
-      "notes": ""
+      "notes": "",
+      "textFile": "1997-08-20 - East Rutherford, NJ - Continental Airlines Arena (AMT) [DVD].txt"
     },
     {
       "year": 2001,
@@ -67,7 +70,8 @@ const ARTIST_DATA = {
       "venue": "Water St. Music Hall - Raekwon",
       "version": "AUD",
       "format": "FLAC",
-      "notes": "CSB \u00b7 Unknown"
+      "notes": "CSB \u00b7 Unknown",
+      "textFile": "2001-12-06 - Rochester, NY - Water St. Music Hall - Raekwon (CSB) (unk) [AUD].txt"
     },
     {
       "year": 2002,
@@ -93,7 +97,8 @@ const ARTIST_DATA = {
       "venue": "Montreux Jazz Festival",
       "version": "PRO",
       "format": "DVD",
-      "notes": ""
+      "notes": "",
+      "textFile": "2007-07-18 - Montreux, Switzerland - Montreux Jazz Festival (Pro Shot) [DVD].txt"
     },
     {
       "year": 2010,
@@ -106,7 +111,8 @@ const ARTIST_DATA = {
       "venue": "Arena Moscow",
       "version": "AMT",
       "format": "DVD",
-      "notes": "kuzya 1"
+      "notes": "kuzya 1",
+      "textFile": "2010-07-29 - Moscow, Russia - Arena Moscow (kuzya 1) [DVD].txt"
     },
     {
       "year": 2014,
@@ -119,7 +125,8 @@ const ARTIST_DATA = {
       "venue": "Seattle Center - Bumbershoot Festival",
       "version": "AUD",
       "format": "FLAC",
-      "notes": "Zoom H1 \u00b7 askinas"
+      "notes": "Zoom H1 \u00b7 askinas",
+      "textFile": "2014-08-30 - Seattle, WA - Seattle Center - Bumbershoot Festival (Zoom H1) (askinas) [AUD].txt"
     },
     {
       "year": 2018,
@@ -132,7 +139,8 @@ const ARTIST_DATA = {
       "venue": "The Anthem",
       "version": "AUD",
       "format": "FLAC",
-      "notes": "CA-14s \u00b7 Unknown"
+      "notes": "CA-14s \u00b7 Unknown",
+      "textFile": "2018-11-01 - Washington, DC - The Anthem (CA-14s) (unk) [AUD].txt"
     },
     {
       "year": 2025,
@@ -145,7 +153,8 @@ const ARTIST_DATA = {
       "venue": "Little Caesars Arena",
       "version": "AUD",
       "format": "FLAC 24",
-      "notes": "Sennheiser Ambeo \u00b7 Unknown"
+      "notes": "Sennheiser Ambeo \u00b7 Unknown",
+      "textFile": "2025-07-08 - Detroit , MI - Little Caesars Arena (Sennheiser Ambeo) (unk) [AUD24].txt"
     }
   ]
 };

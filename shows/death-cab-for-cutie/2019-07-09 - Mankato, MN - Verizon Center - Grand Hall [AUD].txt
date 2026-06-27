@@ -1,0 +1,82 @@
+Death Cab For Cutie
+2019-07-09
+----------------------------------------------------------
+Grand Hall
+Verizon Center
+Mankato, Mn
+(LaLa LaLa in support)
+----------------------------------------------------------
+Recorded by: DPK/o-canis  
+Location: LOC top row below club seating   
+Mic Config: A-B ala chapeau
+Source: Countryman B3 > PIP > Sony M10 @ 24/44
+
+Conversion: M10 > USB > Pc > Flac 
+Format: 16-bit, 44 kHz 
+Editing: Adobe Audition 3.0, iZotope RX6 (see Post Notes)
+         CD-Wave (tracking & flac'ing)
+*****************************************************************
+/ Please, support musicians who allow live recording:
+/ Attend their shows, bring a friend, buy their studio releases
+/ or some merch and of course... Spread the word.
+/    
+/  Thanks!  https://deathcabforcutie.com/
+/  
+*****************************************************************
+The Band:
+Benjamin Gibbard - guitar,piano, vocals
+Nicholas Harmer - bass, b.vocals
+Jason McGerr - drums, percussion
+Dave Depper - guitars, keyboards, b.vocals
+Zac Rae - keyboards, guitar
+
+
+One Set [1:55:57]
+
+01. I Drempt We Spoke Again
+02. The Ghosts of Beverly Drive
+03. Long Division
+04. Title and Registration
+05. Gold Rush
+06. Crooked Teeth
+07. Photobooth          
+08. No Sunlight
+09. What Sarah Said 
+10. 60 & Punk               
+11. I Will Possess Your Heart            
+12. time share pitch...
+13. Autumn Love 
+14. Black Sun      
+15. Expo '86
+16. Styrofoam Plates
+17. Cath...
+18. We Looked Like Giants
+19. Soul Meets Body
+20. ovation... 
+
+E
+21. I will Follow You Into the Dark 
+22. When We Drive
+23. Tiny Vessels
+24. Transatlanticism
+ 
+Set list spawned from setlist.fm... then corrected.
+
+Source Notes:
+* see random notes
+
+Post NOTES 
+(Only post processing noted below was applied to this material.)
+
+Editing done in 32bit/48kHz realm:
+----------------------------------------------------------------
+- EQ - small roll off at 30Hz, small lift 2000>4000Hz
+- Repair/Correct - De-Reverb: soft application of de-reverb
+                   Attenuation: applied to near clap artists     
+- Mastering - Applied a bit of Ozone Imager
+ - Fades - IN/out of set
+
+Resample/dithered to 16bit/44.1kHz
+---------------------------------------------------------------
+Random Notes:
+* Originally booked in the Vetter Stone Amphitheater but moved indoors due to rain threat. 

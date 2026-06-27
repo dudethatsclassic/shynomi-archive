@@ -1,0 +1,48 @@
+Jeff Buckley
+19 May 1995
+Lupo's Heartbreak Hotel, Providence, RI
+
+CONTRAST CLAUSE: This version is dubbed directly from the master VHS recording, unlike the version re-seeded here: http://www.dimeadozen.org/torrents-details.php?id=687983, which was extracted from a fan-created video compilation with unknown lineage. This version is longer, sounds and looks better, and has no out-of azimuth striping.
+
+Lineage: Low gen VHS > Stereo VCR > Analog Out > Canopus ADV100 DV vis Firewire . Lossless AVI > WinDV 1.2.3 > Canopus Procoder 2 > Crop/Trim/Colour fix > Encode @ VBR av. 7800 max o800 min 7800, Stereo LPCM, 2 Pass m2v/wav > DVD Lab Pro 1.6 > authoring & menus transcoded without re-encoding > VOB transferred and authored by eclect: http://db.etree.org/eclect 2007
+
+DVD(VOB) > MakeMKV > MKV
+
+We're about to play some very dark fucked up songs for lovers.
+
+Set List:
+---------
+01 Chocolate ->
+02 Mojo Pin
+03 So Real
+04 Last Goodbye
+05 What Will You Say
+06 Eternal Life
+07 Kick Out The Jams
+08 Grace
+09 That's All I Ask (Nina version) ->
+10 Kanga-roo
+
+TT: 0:57:53
+
+Jeff Buckley - Guitars & Vocals
+Michael Tighe - Guitars
+Mick Grondahl - Bass
+Matt Johnson - Drums 
+
+Here is the video portion of Jeff's show at Lupo's. It's hand held and a bit jumpy, but it will give you a good sense of being in the crowd at one of Jeff's shows. This is one of the best-circulated video recordings of Jeff & band. I have six different versions, including compilations. The fan-created "CrimeCrow Productions" release is the source of many of these. However, this is the best available version, direct from the VHS master, and without the annoying out of azimuth ribbon at the bottom of the screen.
+
+My version came from Buckley uber-fan eclect, and his notes follow. I present it to you as downloaded, apart from the conversion to mkv, for easier viewing.
+
+
+Eclect's 2007 notes:
+--------------------
+Opening for Juliana Hatfield, his set is short but oh, so sweet . . . watch for his 'audience interaction' [with] some annoying screamer at around 17 minutes; worth watching just for that! There are other versions made from this source [the fan-created Crmecrow Productions compilation DVD is the main source, including the inferior source currently up on Dime], but they are far inferior to this tape, [which] is a direct dub from the master . . . . others are of an older generation and apparently have a band through the entire video - so: beware of cheap imitations! audio left intact and unaltered (i.e. no DSP) Many thanks to the owner of the tapes.
+
+Files verified, tagged, and renamed to etree conventions; new checksums generated. 
+Text file updated, compiled & copy-edited by lovesick alien 2024-09-02
+--------------------------------------------------------------------------------
+Trade Freely. Never Sell. 
+Support the Artist: Purchase ALL authorised releases. 
+Support the Trading Community: Never Encode to lossy formats.
+--------------------------------------------------------------------------------

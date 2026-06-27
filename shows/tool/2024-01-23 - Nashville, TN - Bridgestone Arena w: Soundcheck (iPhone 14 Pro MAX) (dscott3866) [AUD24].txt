@@ -1,0 +1,12 @@
+﻿Tool - 2024.01.23
+Bridgestone Arena - Nashville, TN, USA
+Version 2
+
+source: iPhone 14 Pro MAX (Voice Memos App @32/48 Mono M4a) > Adobe Audition for splits and EQ > 16/48 WAV Export > TLH > FLAC 8
+taper: dscott3866
+
+disc 1 - 15 tracks - 139:22
+
+notes: Includes soundcheck as track 0, taped from eighth row on Justin's side of the stage.
+
+tooldriveproject.net

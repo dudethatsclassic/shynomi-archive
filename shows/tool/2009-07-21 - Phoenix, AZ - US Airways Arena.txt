@@ -1,0 +1,12 @@
+Tool - 2009.07.21
+US Airways Arena - Phoenix, AZ, USA
+version 2
+
+media type: FLAC
+source: CA STC-11> CA STC-9000 > iRiver iHP-120 > USB > CEP > CDWave > TLH > FLAC
+taper: To0L (pete46and2@hotmail.com)
+trade status: can trade
+
+disc 1 - 1 tracks - 102:31
+
+notes: none

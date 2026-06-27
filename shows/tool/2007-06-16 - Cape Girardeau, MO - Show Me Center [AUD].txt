@@ -1,0 +1,48 @@
+Tool
+Saturday June 16, 2007
+Show Me Center
+Cape Girardeau, Missouri
+USA
+
+Taper:     Ryan A (http://db.etree.org/potsy_monkey)
+Location:  Section 106, Row L. Left of stage, directly in front of left stack 
+Source:    Danish Pro Audio 4061 mics > Danish Pro Audio MMA6000 preamp > Edirol R-09 (line in, 24bit/48kHz wav)
+Transfer:  Edirol R-09 > USB > wav @ 24bit/48kHz > Hard drive > Mastering (see below) > CD Wave 1.95 (tracking) > 
+           Flac Frontend 1.7.1 (Level 6 Flac Compression) > Flac
+Mastering: Done in Wavelab 5.0  
+           - Fades and normalizing
+           - Hi pass filter at 65Hz using LinEQ Broadband plugin 
+                       
+
+Set (114:05)
+
+01) Intro - Jambi
+02) Stinkfist
+03) Forty-Six & 2 intro
+04) Forty-Six & 2
+05) Schism intro
+06) Schism
+07) Lost Keys
+08) Rosetta Stoned
+09) Right in Two 
+10) Intermission
+11) Wings for Marie
+12) 10,000 Days
+13) Lateralus
+14) Vicarious intro
+15) Vicarious
+
+* DO NOT SELL THIS RECORDING UNDER ANY CIRCUMSTANCE.
+** Do not compress to lossy formats (ie. mp3) and distribute.
+*** When trading this around, please distribute only in original Flac format to preserve the generational integrity. 
+
+
+Notes:
+This is a good one. Probably my best large venue recording. 
+The people in our section were so quiet for an American crowd - a real rarity for an arena Tool show. And my location 
+was in front of the left stack 12 rows up, almost parallel to the stage. These two factors combined made for a good quality 
+recording. It was a smaller sized arena (capacity = approx. 5,000 - 6,000), so it has a bit more of an intimate feel.   
+The first half of Jambi is a little shaky: two level changes and some phasing while I was adjusting the rig and moving 
+around to get the best spot. Once the solo kicks in, it's smooth sailing to show's end.  
+
+Best when listening through a good pair of headphones. Enjoy.

@@ -1,0 +1,65 @@
+The Flaming Lips 1996-03-25 (D) Cologne, Luxor [AUD0] (S.I.)
+
+Artist: The Flaming Lips
+Date: 1996-03-25
+City: Cologne
+Country: Germany
+Location: Luxor
+
+Recording-Type: Audience
+Analog-Generation: Master
+Notes: Complete Show (*)
+Taper: S.I.
+
+(*) tape flip after song 08 in track 08
+
+Recording-Equipment: Aiwa CM-30 > Sony WM-D6C @ Mic-In Gain 0dB/CrO2/Dolby C NR
+Recording-Mastertape(s): TDK SA-90
+
+Analog-Transfer: Nakamichi DR-1 @ Type I/Dolby NR off/Head azimuth corrections > Sony DTC-60ES @ 44.1kHz/16bit
+Digital-Transfer: Sony DTC-60ES > Philips CDR 600 > LG GSA H44N > Exact Audio Copy 0.99 PreBeta 3 (Secure Mode)
+
+Editing: WavePurity Professional 5.70 > Tape flip merged/Limiting/Normalizing/Fade in & out/Tracksplitting
+Mastering: Trader's Little Helper 1.1.1 (Build 90) > FLAC Encoding Level 8/MD5-Checksums
+
+Title: Cosmos Superstar Chips
+Media: 1 Audio-CD (Overburning Mode)
+Cover-Artwork: Included
+MP3-Sample: See comments
+Catalog-No.: FireflyDIME-003
+First seed: 2007-11-16 @ www.dimeadozen.org by MarqueInt
+
+Line-Up:
+Wayne Coyne - guitar, keyboards, vocals
+Ronald Jones - guitar
+Michael Ivins - bass, vocals
+Steven Drozd - drums, keyboards, vocals
+
+Disc 1 [80:20]
+--------------------------
+01 - Intro & Soundcheck [8:22]
+02 - The Abandoned Hospital Ship [6:25]
+03 - Unconsciously Screamin' [3:58]
+04 - Take Meta Mars [4:16]
+05 - Moth In The Incubator [5:35]
+06 - Put The Waterbug In The Policeman's Ear [5:36]
+07 - Lightning Strikes The Postman [3:37]
+08 - Bad Days [5:26]
+09 - She Don't Use Jelly [3:43]
+10 - Chewin The Apple Of Your Eye [7:21]
+11 - When You Smile [5:06]
+12 - Psychiatric Explorations Of The Fetus With Needles [10:06]
+13 - Guy Who Got A Headache And Accidentally Saves The World [5:38]
+14 - What A Wonderful World [5:08]
+
+
+This recording was made by fans for fans. Enjoy it!
+Feel free to copy or repost it. Please use the info text file with all your activities.
+
+Share and trade freely in your own fan base domain.
+Support the artist and always buy official releases.
+
+Thank you.
+
+MarqueInt
+November 2007

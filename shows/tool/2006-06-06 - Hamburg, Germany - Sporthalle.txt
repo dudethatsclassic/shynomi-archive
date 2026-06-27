@@ -1,0 +1,42 @@
+Tool
+Sporthalle
+Hamburg
+6th June 2006
+
+
+Taper - jadg2
+Position - Front of right stacks, 2m back
+
+Source - Core Sound Binaurals > Battery Box w/bass roll off at 120Hz > Sony MZ-RH910 Hi-MD(HiSP)
+
+Transfer - Sony MZ-RH910 Hi-MD > USB > Sonicstage > Wav > Audacity > Wav > FLAC (verify, align, lvl8)
+
+Editing - Fixed skip at start of 46&2, split tracks, switched left and right channels and added fades. 
+
+01. Intro
+02. Lost Keys
+03. Rosetta Stoned
+04. Stinkfist
+05. 46 & 2
+06. Jambi
+07. Schism
+08. Right In Two
+09. Sober
+10. Lateralus
+
+---Break---
+11. Soundscapes
+12. Vicarious
+13. Aenema
+
+Total time - 1hr 32min 37sec
+
+Notes - Ran with blind levels, so was lucky to get a recording.  The levels are a little hot at times and there are a few patches of mild distortion.  Fixed a skip present at the start of 46 & 2, present on master and there may be another couple of drop outs due to people and security pushing past.  
+
+- The sound at the Sporthalle was shit.  It sounded terrible fos, to my friends listening by the board and everyone I've heard from at the gig.  It was extremely smoky, hence Maynard's comments.  I remember at one point all five people standing by fos lighting up simultaneuosly.  The vocals sound a little muffled or distorted in the last couple of songs as Maynard was holding a towel up to his face. 
+
+
+
+Do not sell
+Do not mp3
+Do not torrent without the explicit permission of the taper

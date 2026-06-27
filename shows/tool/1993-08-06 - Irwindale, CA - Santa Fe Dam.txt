@@ -1,0 +1,18 @@
+Tool - 1993.08.06	
+Santa Fe Dam - Irwindale, CA, USA
+version 5 
+
+media type: FLAC 
+source: Soundboard > Unknown Recording Media > Unknown Transfer > "Tool Looza Show" DAT-M (Purchased from Sylvia Massy) 
+taper: unknown
+
+disc 1 - 8 tracks - 36:55
+
+notes: Thanks to TB for getting this out there! Transfer and tracking information is as follows:
+
+Transfer (Pre Order Correction):  DAT-M (44.1kHz) > Panasonic SV-3200 (optical out) > (optical in) Apogee Element 88 (Thunderbolt 2 out) > (Thunderbolt 2 in) Mac Mini > Adobe Audition (16bit/44.1kHz) (trimmed, tape pops removed, silence between tracks 7 & 8 removed) > .WAV > Fission (track splits)
+
+Track Order Correction Process:  Adobe Audition > Multitrack Session > Overlap & Sync (removes fades) > Mixdown to single file > .WAV
+
+Transfer (Post Order Correction):  .WAV > Fission (track splits) > xAct > .FLAC (Level 8) > Meta (Tags)
+

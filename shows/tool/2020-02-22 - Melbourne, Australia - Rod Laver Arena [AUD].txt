@@ -1,0 +1,10 @@
+Tool - 2020.02.22
+Rod Laver Arena - Melbourne, Victoria, Australia
+Version 2
+
+source: iPhone 7+ using MetaRecorder (mono recording @32/48) > .CAF > Audacity (export as 24/48 wav) > FLAC
+taper: Ben
+
+disc 1 - 1 track - 167:11
+
+notes: CAF file provided by taper, uncompressed 48khz 32-bit float.  No editing done on files.  Recorded from the floor towards the back near the sound desk phone sitting in back pocket with mic facing upwards

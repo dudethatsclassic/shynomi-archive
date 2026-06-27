@@ -1,0 +1,35 @@
+Queens of the Stone Age
+May 28, 2023
+Boston Calling
+Harvard Athletic Complex
+Boston, MA
+
+Source:
+Sound Professionals SP-CMC-4U (low sensitivity mod) > Sound Professionals SP-SPSB-11 (flat) > Tascam DR-2D (line in)
+
+Lineage:
+WAV [24bit/48KHz] > FLAC [24bit/48KHz]
+
+Transfer:
+Tascam DR-2D > SD card > USB > Reaper 6.56 (slight EQ (FabFilter Pro-Q 3), gentle limiting (Waves L2), balance channels, track splits, fades) > Trader's Little Helper (encode to FLAC)
+
+Location:
+About 50 back from left delay tower
+
+
+Setlist:
+Misfit Love
+Little Sister
+I Sat by the Ocean
+The Lost Art of Keeping a Secret
+Sick, Sick, Sick
+If I Had a Tail
+Emotion Sickness
+My God Is the Sun
+Smooth Sailing
+The Evil Has Landed
+Negative Space
+Make It Wit Chu
+Go With the Flow
+No One Knows
+A Song for the Dead

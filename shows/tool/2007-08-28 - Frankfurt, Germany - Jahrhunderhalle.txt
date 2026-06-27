@@ -1,0 +1,15 @@
+Tool - 2007.08.28
+Jahrhunderthalle - Frankfurt, Germany
+version 4
+
+media type: FLAC
+source: Sony ECM-717 > Sony TCD-D100 > 2nd Gen CDR > WAV > FLAC
+taper: kabi225
+trade status: can trade
+
+disc 1 - 12 tracks - 57:58
+disc 2 - 7 tracks - 49:56
+
+notes: none
+
+

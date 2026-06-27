@@ -1,0 +1,53 @@
+The Flaming Lips
+April 19, 2009
+National Mall
+Washington D.C.
+
+Earth Day on the National Mall
+
+Source: Microtech Gefell m270 (110 degrees, 18" spacing) > E.A.A. PSP-2 > Sony PCM-D50 (24/96)
+Location: SBD, 10' left of center
+Transfer: Sony PCM-D50 > Sony Sound Forge 9.0 (normalization, tracking, 24/96 > 16/44.1 conversion) >
+          Trader's Little Helper > FLAC
+
+Scattered, smothered, covered, and chopped by Jamie Lykos
+
+
+01. Ta! Da!
+02. Race For the Prize
+03. Lightning Strikes the Postman
+04. Fight Test
+05. Borderline
+06. Yoshimi Battles the Pink Robots, Pt. 1
+07. Pompeii AM Gotterdammerung
+08. The W.A.N.D.
+09. She Don't Use Jelly
+10. Do You Realize??
+
+
+FLAC fingerprint:
+
+fl2009-04-19t01-1644.flac:7ceaef6fc6b911bfbe5be9da2103b486
+fl2009-04-19t02-1644.flac:2fdb2df4b7046be2464b6c4d9b94fd7e
+fl2009-04-19t03-1644.flac:150dd82e6b5d138afc417a73b888bd7f
+fl2009-04-19t04-1644.flac:58601642ee6d2e0d51be260e14b2e7d5
+fl2009-04-19t05-1644.flac:500e7741dab7fef5ae679d9172fa98d6
+fl2009-04-19t06-1644.flac:5143624a737824cb40a054bfe0e2c450
+fl2009-04-19t07-1644.flac:a3eeb5f07acfd2ef77513ef80d4942c1
+fl2009-04-19t08-1644.flac:c575d0b56a9dfe181e8f82e2f6f0078b
+fl2009-04-19t09-1644.flac:eb9aa0a73e83e13b1178724aa387ab22
+fl2009-04-19t10-1644.flac:42d4679a4925a9c49a687f8943e2218a
+
+
+md5 checksum:
+
+bd2a910de1c591dcb315fb2f555a8c83 *fl2009-04-19t01-1644.flac
+246fd4a0b85e6e02d224a317dae397ba *fl2009-04-19t02-1644.flac
+1701669e4009bf53ad5b9a38515c585a *fl2009-04-19t03-1644.flac
+e5d6b91c3721715d8917b7c1288caba6 *fl2009-04-19t04-1644.flac
+c98f22e22a5c158dc9aae865c7b22679 *fl2009-04-19t05-1644.flac
+bf5a47a12f98b81e678a056991e6683b *fl2009-04-19t06-1644.flac
+cf57c36a09204ba786ca4a86f54af323 *fl2009-04-19t07-1644.flac
+6d71916a849c88f3ac4ba7adb53611ad *fl2009-04-19t08-1644.flac
+69c74543dea569a0b35496f401aa60ec *fl2009-04-19t09-1644.flac
+dd7a182ee55eaa52a171fdea7503d95b *fl2009-04-19t10-1644.flac

@@ -1,0 +1,62 @@
+Tool
+Wednesday June 20, 2007
+Peoria Civic Center
+Peoria, Illinois
+USA
+
+Taper:     Ryan A (http://db.etree.org/potsy_monkey)
+Location:  Floor (general admission), front of right stack ~50ft from stage
+Source:    Danish Pro Audio 4061 mics > Danish Pro Audio MMA6000 preamp > Edirol R-09 (line in, 24bit/48kHz wav)
+Transfer:  Edirol R-09 (SD flash card) > USB > wav @ 24bit/48kHz > Hard drive > Mastering (see below) > 
+           CD Wave 1.95 (tracking) > Flac Frontend 1.7.1 (Level 6 Flac Compression) > Flac
+Mastering: Done in Wavelab 5.0  
+           - Hi pass filter at 95Hz using Waves LinEQ Broadband plugin 
+           - Reduce crowd cheering/clap peaks, normalize, fades
+           - For the the 16bit version: resample and dither (using Apogee's UV22 HR) to 16bit/44.1kHz
+                       
+
+Set (110:17)
+
+01) Intro - Jambi
+02) Stinkfist
+03) Forty-Six & 2 intro
+04) Forty-Six & 2
+05) Schism intro
+06) Schism
+07) Lost Keys
+08) Rosetta Stoned
+09) Right in Two 
+10) Intermission
+11) Wings for Marie
+12) 10,000 Days
+13) Lateralus (extended jam in the middle with members of Melt Banana) 
+14) Vicarious 
+
+
+* DO NOT SELL THIS RECORDING UNDER ANY CIRCUMSTANCE.
+** Do not compress to lossy formats (ie. mp3) and distribute.
+*** When trading this around, please distribute only in original Flac format to preserve the generational integrity. 
+
+
+Notes:
+Honestly, this show sucked and so does the recording. Well, it's not terrible but I'm definitely disappointed with it. 
+One of the top 3 worst Tool shows I've been to, possibly the worst. Everything about it was bad. A loud woohooing 
+and generally obnoxious crowd. Overzealous gate security. And Tool's sound was complete crap. I've never heard it that 
+bad. Justin's bass was a muddy, rumbling mess. Danny's bass drum distorted when kicked hard, and Maynard's vocals were 
+so low they were inaudible at times. Lots of compression per usual on the sound too. Some of that is the venue, 
+but a lot of that is on Knobby. No excuse for distortion and extreme level discrepencies (unless the low end on the
+PA was actually blown). 
+
+My recording brickwalls on the bass drum quite a few times, the most disappointing thing about it. I think the reason for
+this is a combonation of two things. 1) The loud, rumbly bass and distortion on the kick drum coming from the PA. 
+And 2) I ran my levels too close to 0db. I actually never ran over 0, the loudest peak was -0.3db. But lesson learned - 
+you can still distort and brickwall without running your levels over 0db. I put a filter on the bass all the way up to 
+95Hz in post-editing. It helped a little. 
+
+Maynard was in a pissy, prima donna mood. Back to the crowd almost the entire night. An ass in the crowd threw something 
+on stage during stinkfist - a shirt or cellphone maybe. It didn't hit him, just landed in front of him. He stopped singing 
+the entire 2nd verse, picked up the object and said: "that's what you wanted right. You want me to pay attention to this
+instead of sing. I can sing if you want. It's up to you." Later as Wings was starting, MJ announced "please no flash 
+cameras on this song. No flash cameras please." Repeating it 3 or 4 times. Then stopped singing in the middle, and 
+repeated again "no flash cameras." It may be annoying, but seriously if you make millions of dollars playing music for a 
+living and can't handle people taking some pictures of you on an arena stage - you have problems.

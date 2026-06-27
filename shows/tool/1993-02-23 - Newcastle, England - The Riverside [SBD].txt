@@ -1,0 +1,16 @@
+TOOL
+1993-02-23
+Newcastle, England
+The Riverside
+
+Source: Soundboard
+Transfer: ASBM > DDC2 32khz > CDR > EAC (Secure Mode) > CDWave (tracking) > .WAV > .FLAC
+Generation: 3rd
+
+01 - Intolerance - 4:45
+02 - Hush - 3:10
+03 - Undertow - 5:45
+04 - Sober - 5:25
+05 - Swamp Song - 7:22
+06 - Bottom - 7:44
+07 - Jerkoff - 4:27

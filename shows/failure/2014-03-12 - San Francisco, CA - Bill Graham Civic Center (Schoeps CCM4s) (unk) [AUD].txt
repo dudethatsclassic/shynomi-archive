@@ -1,0 +1,19 @@
+Failure
+March 12, 2014
+Bill Graham Civic Center
+San Francisco, CA
+
+Source: Schoeps CCM4s > Tinybox > Sony PCM-M10
+Lineage: wav 16/44 > Adobe Audition > Izotope Ozone 5 > WavePad > xACT > FLAC
+
+01 Intro
+02 Another Space Song
+03 Frogs
+04 Smoking Umbrellas
+05 Macaque
+06 Dirty Blue Balloons
+07 Let It Drip
+08 Sergeant Politeness
+09 Wet Gravity
+10 Heliotropic
+

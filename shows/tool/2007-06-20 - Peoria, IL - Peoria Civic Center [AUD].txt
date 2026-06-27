@@ -1,0 +1,30 @@
+Tool - 2007-06-20
+Peoria Civic Center - Peoria, Illinois, USA
+
+
+media type:FLAC
+source:  SP-CMC-8> SP-SPSB-1 (w/bass roll-off) set @107Hz> Edirol R-09 (line in, 24bit/48KHz wav} 
+transfer: Edirol R-09>USB>wav editor>Satan's little helper>FLAC fronted @  level 8
+taper: 4intool
+trade status: can trade
+
+disc 1 - 5 tracks
+disc 2 - 5 tracks
+
+notes, HAd the Fox ask me to move so he could bust a dumbass with a picture phone, only time i saw him all night/
+some of wings missing because i frogot what i was doing there, but overall great source
+enjoy ya'll
+
+Disc 1
+f9646cabcdf3141d2cf7b1eee4b0688a *Tool2007_06_20D1Tr01.flac
+f40c51f15d29d103d054e483f6ac8b6d *Tool2007_06_20D1Tr02.flac
+d42b2eda58f2021711f5174f4fa14905 *Tool2007_06_20D1Tr03.flac
+089f9d5b5493a1199b9056ffa45c76eb *Tool2007_06_20D1Tr04.flac
+acba547a7d1195b1c4ed470e23c9cb77 *Tool2007_06_20D1Tr05.flac
+
+Disc 2
+e6e1635a301115286f2ef7f540d7d1b9 *Tool2007_06_20D2Tr01.flac
+2ba2965d45b1af419064ddcd308bc2fa *Tool2007_06_20D2Tr02.flac
+43349baf753ac460f67d09ddad80a201 *Tool2007_06_20D2Tr03.flac
+abce1f8301198934f3e79b40e75b0fb0 *Tool2007_06_20D2Tr04.flac
+5c98a1e3537a2f779a9050da12fba56b *Tool2007_06_20D2Tr05.flac

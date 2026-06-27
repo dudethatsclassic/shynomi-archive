@@ -1,0 +1,58 @@
+Veruca Salt
+Belongil Fields
+Byron Bay, Queensland
+Australia
+2003-07-19
+
+Event : Splendour In The Grass festival
+
+Taper : pumped
+Equipment : Analog Tapedeck
+Type : FM
+Generation : Master
+
+Lineage; FM > Analog Cassette > Playback to PC > WAV > Audacity (raising volumes & splitting) >
+               seperate WAV files > TLH > FLAC Level 8 (SB aligned) ~ 16/44,1kHz
+
+
+Setlist;
+
+01. DJ Intro
+02. Officially Dead
+03. Don't Make Me Prove It
+04. Used To Know Her
+05. Yeah Man
+06. Born Entertainer
+07. Seether
+08. Straight
+09. Volcano Girls
+10. DJ Outro
+
+
+Total Running Time : 00:28:53
+Size (FLAC) : 188,54 MB
+
+Notes;
+Another cool show from Triple J's 'Live At The Wireless' radio
+Louise & Nicole rock their socks off, and have fun on stage
+The audience is getting berserk.
+Good capture of Triple J, one guitar set on each channel.
+This makes it fun listening even more :o)
+
+Usefull links;
+http://en.wikipedia.org/wiki/Veruca_Salt_(band)
+http://verucasalt.com/
+http://en.wikipedia.org/wiki/Splendour_in_the_Grass
+http://www.splendourinthegrass.com/
+
+ffp;
+01. DJ Intro.flac:1352fb515d3dca170121d165d1f07e80
+02. Officially Dead.flac:5b60313bc074c10a9f02128c312fea62
+03. Don't Make Me Prove It.flac:b7468fde6152ea652fe91e75b8c868fa
+04. Used To Know Her.flac:b60a378923fb6debbcae8519da6352d6
+05. Yeah Man.flac:1927beecea27c468a29264d8cf0c7086
+06. Born Entertainer.flac:299106997983d17fd757ccbfc1e7f7af
+07. Seether.flac:805e2afab69ffc090093cc36c3715bc1
+08. Straight.flac:9a3460f0076eafebca9f9b82f5a9e38d
+09. Volcano Girls.flac:aa2436ff72d56a4eb1a9cb83dbb8ab12
+10. DJ Outro.flac:7015c1ac7f7a1b72484000d7a93d452d

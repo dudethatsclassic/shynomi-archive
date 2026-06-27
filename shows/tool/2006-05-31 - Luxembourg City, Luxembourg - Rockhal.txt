@@ -1,0 +1,38 @@
+Tool
+Rockhal, Esch/Alzette, Luxembourg
+2006/11/16
+
+Taper : Elysium
+
+Sony Ecm 719 -> Sony MZ-NH600 (PCM)
+Sonic Stage -> Sony sound forge pro (equalization, normalization) -> Sound Forge (cut) -> Flac (8)
+
+***************************************
+** NE PAS ENCODER EN MP3 ** 
+** NE PAS VENDRE ** 
+** UNIQUEMENT DESTINE AUX ECHANGES **
+*************************************** 
+
+01-Stinkfist
+02-The pot
+03-Forty six & 2
+04-Jambi
+05-Schism
+06-Right in two
+07-Lost keys - Rosetta stoned
+08-Sober
+09-Lateralus
+10-Vicarious
+11-Aenima
+
+ab2f8f84414566c4ff010d9414b79f16 *01-Stinkfist.flac
+43fe0093fd1e461a9c9d1bdc903145bd *02-The pot.flac
+74e78b278ce71278822312b68e86f922 *03-Forty six & 2.flac
+37d7a9ba78467c4a9fea9c1aecabf7ff *04-Jambi.flac
+b8d70dac281b3994065f9efdc9d23219 *05-Schism.flac
+34d6511ded09b7c182ac37b02837bca9 *06-Right in two.flac
+20ec034a03d35b41cac40896fd94633b *07-Lost keys - Rosetta stoned.flac
+ed3217b4f2bd3af5b7a537c5f458dc95 *08-Sober.flac
+d335cda9b0075d88f4992e42d31eaaae *09-Lateralus.flac
+e3ff1e376080ead7329fcc64d1e4db73 *10-Vicarious.flac
+40b107dde0295cbd2f1a8baa0bd52df7 *11-Aenima.flac

@@ -1,0 +1,28 @@
+﻿Tool
+3/18/2022
+Enterprise Center
+St Louis, MO
+
+source: dpa4061s > MMA6000 > Tascam DR-2d (mic in @24/48)
+transfer: Tascam Dr-2D > USB > PC > CD Wave Editor > TLH > FLAC
+taper: geordy
+Location: Section B, Row 14
+
+Setlist: 
+01. Litanie contre la peur intro
+02. Fear Inoculum
+03. Opiate
+04. The Pot
+05. Pushit
+06. Pneuma
+07. The Grudge
+08. The Patient
+09. Descending
+10. Hooker with a Penis
+11. Chocolate Chip Trip
+12. Culling Voices
+--. Invincible
+
+Notes:  Tool show #27.  The Acid Helps opened, not taped.  Incomplete, missing end of Culling Voices and Invincible, not sure what happened.  No EQ, just raised the volume some.  Met up with ToolDVN, specialk, and TB before the show.  First time taping a Tool show next to specialk.  Our seats were on the floor 14th row, a little right of center.  While Specialk was to my left and a joy to tape with, we had two woo girls to our right.  They were pretty predictable though and I would turn towards specialk to try and shield the mics from the brunt of it.  Good mix/recording otherwise.
+
+tooldriveproject.net

@@ -1,0 +1,87 @@
+TOOL
+
+JAPAN TOUR 2007 DAY1 to DAY4 - BOX SET (JSR T-01~07)
+
+Day 2: 2|9 ZEPP TOKYO (JSR T-03~04)
+
+Feb. 9, 2007  Zepp Tokyo, Tokyo, Japan
+
+Disc 1:
+1. bass drone
+2. Stinkfist
+3. Forty Six & 2
+4. Jambi
+5. Schism
+6. Lost Keys (Blam Hoffman)
+7. Rosetta Stoned
+8. The Pot
+9. interlude
+
+Disc 2:
+1. Wings for Marie
+2. 10,000 Days (Wings Part 2)
+3. Lateralis
+4. Vacarious
+5. Aenima
+
+Taper: the_sphere
+Source: ECM-717 (on my baseball cap) > TCD-D100 (48kHz)
+Lineage: DAT master > CDR (DENON CDR-1000) > .aif (Toast) >
+         Remaster (SoundStudio & Peak) > .wav > Track Split (CDWave) > .flac (Level8)
+
+ 2nd night. We went back to Tokyo from Osaka at before the noon (caught
+the Shinkansen bullet train at 8:30) and went to the venue in the evening.
+Zepp Tokyo is SRO venue run by the same company as Zepp Osaka and the capacity
+is 2,416 (+200 on 2nd floor), slightly larger than Osaka...but still small for
+TOOL, right ?
+ We went into the hall about 10mins before the show get start, so we could get
+5th block, about 15m to stage, in front of Danny and it was the best at that 
+time.
+ The setlist was the same with Osaka. Static one. At this show, there're plenty
+of stupid white guys who screams at the beginning of Wings...Shut up and listen !
+The sound was slightly worse than Osaka but still good. This time the recording 
+captured intro drone to the end of the show. But unfortunately, I touched rec. 
+level knob at the beginning of Vicarious jam accidentally, then the rec. level 
+turned very low. It could adjust on the remastering process but present easily 
+audible hiss-noise... damn.
+
+Jun'ya aka the_sphere
+Feb. 17, 2007
+
+***** flac fingerprint *****
+
+tool2007-02-09_ZeppTokyo1_d1t01.flac:0a223a9e8310f09ccf9b472d4d27428f
+tool2007-02-09_ZeppTokyo1_d1t02.flac:7ca22ddd5830da0f71e97b3ca411baef
+tool2007-02-09_ZeppTokyo1_d1t03.flac:118dc0b3ab81348a99f323db34d28dc8
+tool2007-02-09_ZeppTokyo1_d1t04.flac:7afc4dd546997a2152560d7ebc803e76
+tool2007-02-09_ZeppTokyo1_d1t05.flac:7a9e4f44d3e6cfa68bc03070b2e8d8e2
+tool2007-02-09_ZeppTokyo1_d1t06.flac:56fe4bcda55512cc164658ef9975c2ca
+tool2007-02-09_ZeppTokyo1_d1t07.flac:ff8b73f2385a3d1a56e014c064a0afe6
+tool2007-02-09_ZeppTokyo1_d1t08.flac:10eb35c99f986a066f580bc6ea467040
+tool2007-02-09_ZeppTokyo1_d1t09.flac:59478dd2effa07cf47540baa7ee225ea
+tool2007-02-09_ZeppTokyo1_d2t01.flac:a567609d6d98ceda0c1020576b0f2110
+tool2007-02-09_ZeppTokyo1_d2t02.flac:617ca403d96f66666786aa42867dca2b
+tool2007-02-09_ZeppTokyo1_d2t03.flac:fde872889cf05a0128aba9d6a4f9e732
+tool2007-02-09_ZeppTokyo1_d2t04.flac:6e3fcd4c2f1dd23f0d25ca21bd8e3e9a
+tool2007-02-09_ZeppTokyo1_d2t05.flac:0d510d7e7e5d99b05c0b888660b7da49
+
+***** master md5 *****
+
+284ce52e5be570be86a47f3bbe0f5e93 *tool2007-02-09_ZeppTokyo1.ffp
+b47e8a9ed39f3763a75f616c94fa09ad *tool2007-02-09_ZeppTokyo1.txt
+8072e335706bf6fe3afeaad16c77b4b3 *tool2007-02-09_ZeppTokyo1_back.jpg
+70af531e5607e979741501be65f64bf9 *tool2007-02-09_ZeppTokyo1_book.jpg
+2b653d5856eece50760c192c5dc1e790 *tool2007-02-09_ZeppTokyo1_d1t01.flac
+01b799155b43b4f267c035aad34e25a4 *tool2007-02-09_ZeppTokyo1_d1t02.flac
+59885d422dbbaeb17496938b79600fd1 *tool2007-02-09_ZeppTokyo1_d1t03.flac
+76af4eb9f66f528d437ff5659c5de424 *tool2007-02-09_ZeppTokyo1_d1t04.flac
+4f2114936e036445fc8c5c51733f1f0d *tool2007-02-09_ZeppTokyo1_d1t05.flac
+f6a664d93437e2f798c9d0d9eac28881 *tool2007-02-09_ZeppTokyo1_d1t06.flac
+f842f599025837619a2b144d4dba0e62 *tool2007-02-09_ZeppTokyo1_d1t07.flac
+dee2390765050241de0bd12068f2039b *tool2007-02-09_ZeppTokyo1_d1t08.flac
+633ac08984922054acac77d96db236e6 *tool2007-02-09_ZeppTokyo1_d1t09.flac
+1b27a211180191e3b8f95ab8532e1f3a *tool2007-02-09_ZeppTokyo1_d2t01.flac
+7a3102c22644c292a4bdb334f6402e94 *tool2007-02-09_ZeppTokyo1_d2t02.flac
+fcbc52e1ea4a2eee8b076688742c71bb *tool2007-02-09_ZeppTokyo1_d2t03.flac
+ab1f681119fa048781686ca1d9126dc9 *tool2007-02-09_ZeppTokyo1_d2t04.flac
+eea673a4db940b3848f86047b93ce888 *tool2007-02-09_ZeppTokyo1_d2t05.flac

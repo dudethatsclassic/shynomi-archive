@@ -1,0 +1,40 @@
+Preview of changes:
+-------------------
+
+Track breaks will be shifted backward when necessary.
+
+Tool1992_05_01Tr01.flac --> Tool1992_05_01Tr01-fixed.custom
+  - beginning of track will remain unchanged
+  - data size will decrease by 368 bytes
+
+Tool1992_05_01Tr02.flac --> Tool1992_05_01Tr02-fixed.custom
+  - beginning of track will be moved backward by 368 bytes
+  - data size will decrease by 1588 bytes
+
+Tool1992_05_01Tr03.flac --> Tool1992_05_01Tr03-fixed.custom
+  - beginning of track will be moved backward by 1956 bytes
+  - data size will increase by 1028 bytes
+
+Tool1992_05_01Tr04.flac --> Tool1992_05_01Tr04-fixed.custom
+  - beginning of track will be moved backward by 928 bytes
+  - data size will increase by 608 bytes
+
+Tool1992_05_01Tr05.flac --> Tool1992_05_01Tr05-fixed.custom
+  - beginning of track will be moved backward by 320 bytes
+  - data size will decrease by 1092 bytes
+
+Tool1992_05_01Tr06.flac --> Tool1992_05_01Tr06-fixed.custom
+  - beginning of track will be moved backward by 1412 bytes
+  - data size will increase by 460 bytes
+
+Tool1992_05_01Tr07.flac --> Tool1992_05_01Tr07-fixed.custom
+  - beginning of track will be moved backward by 952 bytes
+  - data size will increase by 32 bytes
+
+Tool1992_05_01Tr08.flac --> Tool1992_05_01Tr08-fixed.custom
+  - beginning of track will be moved backward by 920 bytes
+  - data size will decrease by 184 bytes
+
+Tool1992_05_01Tr09.flac --> Tool1992_05_01Tr09-fixed.custom
+  - beginning of track will be moved backward by 1104 bytes
+  - data size will increase by 1104 bytes

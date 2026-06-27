@@ -1,0 +1,51 @@
+Meat Puppets
+Friday, May 29, 2009
+Madison WI
+The Annex
+
+Alan Sparhawk and Dark Meat opened for The Meat Puppets
+
+Disc 1 (48:09.12)01 04:04.6702 04:42.7403 04:15.5904 04:01.3605 03:36.3106 04:46.2007 03:50.6408 03:25.7109 03:46.1810 03:29.1911 05:28.1712 02:40.61Disc 2 (44:00.43)01 10:04.34 Up On The Sun02 02:21.5803 03:53.7304 03:59.5405 04:10.2306 07:32.6307 00:59.5308 10:57.60
+Links:
+www.meatpuppets.com
+http://www.intheannex/
+
+Source: Neumann KM140's > Beyer MV100 > Zoom H2 > WAV @24-bit/48kHz
+KM140's ORTF with windscreens, on stand @ front left of SBD, approx 8-9' high
+
+Lineage: WAV > PowerMac G4 MDD/ Dual 1.42 > Audacity 1.2.6a (level boost, convert to 16-bit /44.1 KHz, track in 1/75 second increments) > xACT 1.64 > FLAC level 8
+
+FoH: John Dolby
+
+Taper: morst
+
+SHNTOOL:
+    length     expanded size    cdr  WAVE problems  fmt   ratio  filename     4:04.67       43199228 B   ---   --   ---xx  MeatPuppets2009-05-29d1t01.flac     4:42.74       49918892 B   ---   --   ---xx  MeatPuppets2009-05-29d1t02.flac     4:15.59       45120812 B   ---   --   ---xx  MeatPuppets2009-05-29d1t03.flac     4:01.36       42597116 B   ---   --   ---xx  MeatPuppets2009-05-29d1t04.flac     3:36.31       38175356 B   ---   --   ---xx  MeatPuppets2009-05-29d1t05.flac     4:46.20       50497484 B   ---   --   ---xx  MeatPuppets2009-05-29d1t06.flac     3:50.64       40722572 B   ---   --   ---xx  MeatPuppets2009-05-29d1t07.flac     3:25.71       36329036 B   ---   --   ---xx  MeatPuppets2009-05-29d1t08.flac     3:46.18       39908780 B   ---   --   ---xx  MeatPuppets2009-05-29d1t09.flac     3:29.19       36912332 B   ---   --   ---xx  MeatPuppets2009-05-29d1t10.flac     5:28.17       57899228 B   ---   --   ---xx  MeatPuppets2009-05-29d1t11.flac     2:40.61       28367516 B   ---   --   ---xx  MeatPuppets2009-05-29d1t12.flac    10:04.34      106625612 B   ---   --   ---xx  MeatPuppets2009-05-29d2t01.flac     2:21.58       25008860 B   ---   --   ---xx  MeatPuppets2009-05-29d2t02.flac     3:53.73       41272940 B   ---   --   ---xx  MeatPuppets2009-05-29d2t03.flac     3:59.54       42286652 B   ---   --   ---xx  MeatPuppets2009-05-29d2t04.flac     4:10.23       44154140 B   ---   --   ---xx  MeatPuppets2009-05-29d2t05.flac     7:32.63       79881020 B   ---   --   ---xx  MeatPuppets2009-05-29d2t06.flac     0:59.53       10532300 B   ---   --   ---xx  MeatPuppets2009-05-29d2t07.flac    10:57.60      116035964 B   ---   --   ---xx  MeatPuppets2009-05-29d2t08.flac    92:09.55      975445840 B                            0.5419  (20 files)
+
+FFP:
+MeatPuppets2009-05-29d1t01.flac:5fc0eaf962baabe4e002200a4d8cefa4MeatPuppets2009-05-29d1t02.flac:0595742a22f929b9e19c4975cac5e5dbMeatPuppets2009-05-29d1t03.flac:db10456c75a6658eb6fde680f81dab79MeatPuppets2009-05-29d1t04.flac:e5723d8374238ecf9960a0e9f2e1704fMeatPuppets2009-05-29d1t05.flac:a2dce50ca3955489a8e929eca731b67dMeatPuppets2009-05-29d1t06.flac:c5245cc39c7197db93a8240523ae7e32MeatPuppets2009-05-29d1t07.flac:5e46499fb067eff90640e877b514209fMeatPuppets2009-05-29d1t08.flac:fc05f2afd9666badefcc069f1ff8c064MeatPuppets2009-05-29d1t09.flac:acd7c38e04461e7b5d63c699b84c5953MeatPuppets2009-05-29d1t10.flac:7e61c9a9e8c2cb8111d348a6cb6ac4e9MeatPuppets2009-05-29d1t11.flac:e06f10ef1b8274fa8569fb65e8bea850MeatPuppets2009-05-29d1t12.flac:510628339a24b9e51c9e66dbe37cdfb9MeatPuppets2009-05-29d2t01.flac:715d4bd18463e7b4ec7591b2505f4eddMeatPuppets2009-05-29d2t02.flac:79dbe246e9b1715222a5cf9fcdfcebd5MeatPuppets2009-05-29d2t03.flac:403fd27e88f83b716be64b80eae73c63MeatPuppets2009-05-29d2t04.flac:ff182b63785ddec9247c796f71ffa4e8MeatPuppets2009-05-29d2t05.flac:d66ba5d8e1779cfde955579d893ca634MeatPuppets2009-05-29d2t06.flac:71413ead0c8f5a349c1d9ac3517ac639MeatPuppets2009-05-29d2t07.flac:dc3eaa8607e0b409f8c4a94a17b5b4e1MeatPuppets2009-05-29d2t08.flac:b36620fc98492e710fbb809fb30fda43
+
+MD5:
+536bfc2fb695223bb285311cb168d438 *MeatPuppets2009-05-29d1t01.flac
+8376f444190cfca3b2cf08803b7b2f3d *MeatPuppets2009-05-29d1t02.flac
+a07228100dcc1eb86d3bef2452e41300 *MeatPuppets2009-05-29d1t03.flac
+a7101d63c03027b8ee1075d0163d544c *MeatPuppets2009-05-29d1t04.flac
+d2e8b9d21ad25815a7438bd12bb3e74f *MeatPuppets2009-05-29d1t05.flac
+7b5a499aeb213270c28d778c4929919c *MeatPuppets2009-05-29d1t06.flac
+125c22927840beb3dc8be0f3bab6a014 *MeatPuppets2009-05-29d1t07.flac
+ca8015e09b46b6adc5fafe54cdc77598 *MeatPuppets2009-05-29d1t08.flac
+f4b5937f7591f9f8ea7555ed96669c94 *MeatPuppets2009-05-29d1t09.flac
+444593c8fbfc905f1a3b490f1913343c *MeatPuppets2009-05-29d1t10.flac
+c769d69ba1409cc15c1cd80281cb5744 *MeatPuppets2009-05-29d1t11.flac
+469906b40ee43c81c330a0bd5e220d1d *MeatPuppets2009-05-29d1t12.flac
+87c1dbe4e6d89619e694c17d5e20c3a5 *MeatPuppets2009-05-29d2t01.flac
+63359abaa93e194376ab27afcf92954b *MeatPuppets2009-05-29d2t02.flac
+815114c18928f187dc4499eb4a5e8a51 *MeatPuppets2009-05-29d2t03.flac
+9598a45e15242f884d6092e8201322ea *MeatPuppets2009-05-29d2t04.flac
+9e63652e71eb07eeb07e4aa4ea654de2 *MeatPuppets2009-05-29d2t05.flac
+984da1d28f7e8950e4dbdb0c778a0e01 *MeatPuppets2009-05-29d2t06.flac
+81bba6d720b5eb76b896ef23cca8de4a *MeatPuppets2009-05-29d2t07.flac
+76347f1299f0fbf9399437582498c12e *MeatPuppets2009-05-29d2t08.flac
+
+~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~
+The Soundscape Preservation Society (Founded 1991)http://www.iamtypingwithonefinger.com/SPS.html~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~

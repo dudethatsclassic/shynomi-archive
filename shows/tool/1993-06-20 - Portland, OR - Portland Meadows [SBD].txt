@@ -1,0 +1,19 @@
+Tool
+1993-06-20
+Portland, OR
+Portland Meadow
+Lollapalooza 93 Second Stage
+
+Source: Analog Soundboard
+Transfer: ASBM > Cas-2G > CD-1G > EAC (Secure Mode) > .WAV > .FLAC (Level 8)
+Generation: 3rd
+Notes: Incomplete, first and last songs cut.
+
+Setlist:
+Intolerance <cuts in>
+Undertow
+Sober
+Prison Sex
+4°
+Sweat
+Flood / Opiate <cuts out>

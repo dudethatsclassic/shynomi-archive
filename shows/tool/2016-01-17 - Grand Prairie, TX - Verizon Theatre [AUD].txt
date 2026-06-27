@@ -1,0 +1,36 @@
+Tool - 2016.01.17
+Verizon Wireless Theatre - Grand Prairie, TX, USA
+
+taper: Karl Frinkle (specialK)
+email: specialk@karlfrinkle.net
+url: http://karlfrinkle.net
+
+source: Church Audio CA-14 cardiods > Church Audio CA-9100 preamp > Sony PCM-M10 (line-in @24/96)
+location: First row of far left 400's section
+transfer: Sony PCM-M10 (line-in @24/96) > WAV > Sony Sound Forge Audio Studio 9.0  (mastering) > CD Wave (splitting) > FLAC
+modifications: magik
+
+Setlist - 17 tracks - 106:17
+1. intro
+2. No Quarter
+3. The Grudge
+4. Parabol
+5. Parabola
+6. Schism
+7. Opiate
+8. Ænema
+9. A/Descending
+10. Jambi
+11. 46 & 2
+12. intermission (partially cut)
+13. Danny drum solo
+14. Sweat
+15. (-) Ions
+16. Stinkfist
+17. outro
+
+Notes: Same set as the night before in Tulsa, no problems with the PA during Danny's drum solo.  They plowed through the set
+with very little pause, except for the 12 minute intermission.  Part of that intermission has been seamlessly removed due to
+the fact that the guy to my right felt the need to chat with me for 5 minutes, it was painful and he did not get the hint.
+There are a couple of screamers at certain points of the show, but it is tolerable.  I was up in the front row of the 400's
+section, all the way to the left of stage, so sound is not super great, but still pretty listenable.  Enjoy!

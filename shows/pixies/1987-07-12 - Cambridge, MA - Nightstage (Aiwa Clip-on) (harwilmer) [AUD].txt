@@ -1,0 +1,114 @@
+The Pixies
+
+Nightstage
+
+Cambridge, Massachusetts USA
+Sunday, July 12, 1987
+
+
+opening for The Zulus 
+audience tape by harwilmer
+September 2009 transfer and seed by [unknown]
+
+November 2014 reseed - original FLAC files renamed but otherwise unaltered
+
+Here's another recording by harwilmer,
+ part of the on-going series of shows he recorded in and around Boston 
+and which were transferred and shared by a commitee of several seeders 
+including phil183, stefan, Songmama, The Commish, carville, 
+notsaved, myself [zootype] and any others I haven't mentioned.
+
+
+
+40:59 minutes
+
+tracklisting:
+
+101 intro 0:30
+102 The Holiday Song 2:04
+103 I'm Amazed
+ 3:34
+104 Caribou
+ 3:22
+105 Isla De Encanta
+ 1:50
+106 Levitate Me 2:38
+107 I've Been Tired 1:24
+
+108 Cactus 1:51
+
+109 Build High
+ 1:19
+110 Ed Is Dead 2:35
+111 Nimrod's Son 2:06 
+112 Break My Body
+ 2:00
+113 Brick Is Red 2:12
+114 Subbacultcha 2:58
+115 Down to the Well 2:15
+116 Broken Face
+ 1:44
+117 Weird at My School 1:24 
+118 Vamos 3:37
+119 In Heaven (The Lady in the Radiator Song) 1:40
+--
+
+source/lineage:
+Aiwa clip-on mic/Sony D6>audience master Maxell XLII cassette> 
+Onkyo TA 2600>Apple Powerbook G4>Audacity (track splits)>wav>xACT>flac>Dime 2009
+original notes:
+
+
+Mic bumps at the beginning and volume fluctuations during the first minute of The Holiday Song. Otherwise an excellent audience recording by the mighty harwilmer.
+
+
+--
+November 2014 reseed notes:
+FLAC files renamed but otherwise unaltered, new checksum files created 
+and this info file revised.
+
+a zootype reseed November 2014
+----
+ffp
+101-Pixies-1987-07-12-Nightstage Cambridge Mass-intro.flac:d844f45249c1ed6c3f6f7d8d09fea5c8
+102-Pixies-1987-07-12-The Holiday Song.flac:9c026ff47dc74171eb14e8bb4f74d245
+103-Pixies-1987-07-12-I'm Amazed.flac:09eab02bff2831020f4994904e36d101
+104-Pixies-1987-07-12-Caribou.flac:8ff068f4d872cefc2aa2179e90a9e9e9
+105-Pixies-1987-07-12-Isla de Encanta.flac:bee2f7fe1194313f7c091a8afd157831
+106-Pixies-1987-07-12-Levitate Me.flac:ce1b692d4249792d6a48c73ea8958fc3
+107-Pixies-1987-07-12-I've Been Tired.flac:74635350abf03ec7ed9bfd0f645a94d0
+108-Pixies-1987-07-12-Cactus.flac:08722ad9462281de28613bbdc54f2e06
+109-Pixies-1987-07-12-Build High.flac:51f50e9aa533c538f3d3c47983ecf087
+110-Pixies-1987-07-12-Ed Is Dead.flac:8849b8d29bd9c2a52f87dc7272048498
+111-Pixies-1987-07-12-Nimrod's Son.flac:d2acf255d486393099b56b1217a6e810
+112-Pixies-1987-07-12-Break My Body.flac:b58bc580c0b946452e619a3ae430a7d9
+113-Pixies-1987-07-12-Brick Is Red.flac:442fb9a91fa4ec7205745284c24f16f4
+114-Pixies-1987-07-12-Subbacultcha.flac:e35fd67372a60cdbda0a0e537a87302e
+115-Pixies-1987-07-12-Down to the Well.flac:92f73c2b1b5f2c043b4f6b7f3ebfeaf3
+116-Pixies-1987-07-12-Broken Face.flac:cce26d51a85638357ae1ed1782d00140
+117-Pixies-1987-07-12-Weird at My School.flac:fc0fc8b9b9cf7d9ac458e8942cf512cc
+118-Pixies-1987-07-12-Vamos.flac:c5c226042a78b95c8d9d75634970138a
+119-Pixies-1987-07-12-In Heaven.flac:fbd0f1d2d10b27952810935320f90d8d
+----
+---
+st5
+d844f45249c1ed6c3f6f7d8d09fea5c8  [shntool]  101-Pixies-1987-07-12-Nightstage Cambridge Mass-intro.flac
+9c026ff47dc74171eb14e8bb4f74d245  [shntool]  102-Pixies-1987-07-12-The Holiday Song.flac
+09eab02bff2831020f4994904e36d101  [shntool]  103-Pixies-1987-07-12-I'm Amazed.flac
+8ff068f4d872cefc2aa2179e90a9e9e9  [shntool]  104-Pixies-1987-07-12-Caribou.flac
+bee2f7fe1194313f7c091a8afd157831  [shntool]  105-Pixies-1987-07-12-Isla de Encanta.flac
+ce1b692d4249792d6a48c73ea8958fc3  [shntool]  106-Pixies-1987-07-12-Levitate Me.flac
+74635350abf03ec7ed9bfd0f645a94d0  [shntool]  107-Pixies-1987-07-12-I've Been Tired.flac
+08722ad9462281de28613bbdc54f2e06  [shntool]  108-Pixies-1987-07-12-Cactus.flac
+51f50e9aa533c538f3d3c47983ecf087  [shntool]  109-Pixies-1987-07-12-Build High.flac
+8849b8d29bd9c2a52f87dc7272048498  [shntool]  110-Pixies-1987-07-12-Ed Is Dead.flac
+d2acf255d486393099b56b1217a6e810  [shntool]  111-Pixies-1987-07-12-Nimrod's Son.flac
+b58bc580c0b946452e619a3ae430a7d9  [shntool]  112-Pixies-1987-07-12-Break My Body.flac
+442fb9a91fa4ec7205745284c24f16f4  [shntool]  113-Pixies-1987-07-12-Brick Is Red.flac
+e35fd67372a60cdbda0a0e537a87302e  [shntool]  114-Pixies-1987-07-12-Subbacultcha.flac
+92f73c2b1b5f2c043b4f6b7f3ebfeaf3  [shntool]  115-Pixies-1987-07-12-Down to the Well.flac
+cce26d51a85638357ae1ed1782d00140  [shntool]  116-Pixies-1987-07-12-Broken Face.flac
+fc0fc8b9b9cf7d9ac458e8942cf512cc  [shntool]  117-Pixies-1987-07-12-Weird at My School.flac
+c5c226042a78b95c8d9d75634970138a  [shntool]  118-Pixies-1987-07-12-Vamos.flac
+fbd0f1d2d10b27952810935320f90d8d  [shntool]  119-Pixies-1987-07-12-In Heaven.flac
+-----

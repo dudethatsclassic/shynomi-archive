@@ -1,0 +1,11 @@
+Tool - 2019.10.27
+Toyota Center - Houston, TX, USA
+
+source: Audio Technica AT-831s > Sound Professionals Battery Box > Edirol R-09 (line-in @24/48)
+transfer: Edirol R-09 (line-in @24/48) > WAV > Wavelab  (mastering) > CD Wave (splitting) > FLAC
+modifications: magik
+taper: Adam Lancaster
+
+disc 1 - 2 tracks - 114:10
+
+notes: Recording stops at intermission and does not restart until 3/4 of the way though Invincible.

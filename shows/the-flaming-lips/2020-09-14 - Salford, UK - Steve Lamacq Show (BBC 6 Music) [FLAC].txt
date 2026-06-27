@@ -1,0 +1,24 @@
+The Flaming Lips
+
+Steve Lamacq Show
+BBC 6Music
+Salford
+UK
+
+Broadcast: 14th September 2020
+
+https://www.bbc.co.uk/programmes/m000mkpm
+BBC iPlayer archive stream > get_iplayer > .ts (aac, 320kbps/48k) > ffmpeg (trimming)
+
+interview
+Flowers of Neptune 6
+interview
+All We Have Is Now
+Will You Return/When You Come Down
+
+Running time [26:22]
+
+Lammo has an exclusive lockdown session from The Flaming Lips, whilst frontman Wayne Coyne joins us to talk about recording it inside his trademark space bubble.
+
+auto_pilot
+September 2020

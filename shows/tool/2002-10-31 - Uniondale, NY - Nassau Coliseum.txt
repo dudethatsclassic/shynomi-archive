@@ -1,0 +1,52 @@
+Tool
+Nassau Coliseum,
+Uniondale,
+Long Island, NY
+October 31st (Halloween), 2002
+
+Lineage: Unknown taping equipment > ? > CDR(x) > EAC > WAV > FLAC
+
+Setlist:
+01 Tuva >
+02 Cold and Ugly
+03 The Grudge
+04 (-) Ions/"just checking"
+05 Stinkfist
+06 H.
+07 extended Schism intro
+08 Schism
+09 Parabol >
+10 Parabola
+11 Third Eye intro
+12 Third Eye >
+13 soundscape
+14 Disposition >
+15 Reflection >
+16 drumtro >
+17 Triad
+18 Maynard thanks
+19 Lateralus
+
+
+1:53:00
+
+Flac fingerprints:
+01 Tuva.flac:acae0a066c256a4a7856d9d169d1963b
+02 Cold and Ugly.flac:a9375c4e568f12af221ba494dd0481dd
+03 The Grudge.flac:8d3d04ba36ab4297ca512783a822f18e
+04 (-) Ions.flac:de4cb4250243ae37bffca3ca5fbfd178
+05 Stinkfist.flac:eecef160e158e29d0a4afed62c52647f
+06 H..flac:7be0d0f6131c6386e0b9ed052f37b4ec
+07 extended Schism intro.flac:fcc4b02154c5c8ec06f36d76b4458586
+08 Schism.flac:7af4ea6d3afb02272c70bd38230c02fe
+09 Parabol.flac:7133361cbfa6f54e7e63365b98d6d506
+10 Parabola.flac:2859893574cf3a8dc6eb26519af0cedb
+11 Third Eye intro.flac:e77b2a37e26182f9b1a39f34a17ca494
+12 Third Eye.flac:a4b00ee6b9ed94ea6e5b0bb233cbaf0b
+13 soundscape.flac:7c5f3cca0541506e46610679581270ea
+14 Disposition.flac:d07cde0aee7ce7b9d0c82fd9a328aa7c
+15 Reflection.flac:92444eb301bc1f1f925b90a317d82d1b
+16 drumtro.flac:b735c3e7961dcb237d3a4fa8ee1bb751
+17 Triad.flac:b0011e5b53ad2bcbd48f7db3354ce0ee
+18 Maynard thanks.flac:e9d0b66bd8537c5d328e64d1a4676416
+19 Lateralus.flac:a0bb8add76489527d12a04f97fdb7a54

@@ -21,7 +21,8 @@ const ARTIST_DATA = {
       "venue": "Higher Ground",
       "version": "SBD",
       "format": "FLAC",
-      "notes": "Mos Def & Black Jack Johnson \u00b7 Sony PCM R500"
+      "notes": "Mos Def & Black Jack Johnson \u00b7 Sony PCM R500",
+      "textFile": "2000-09-28 - Winooski, VT - Higher Ground (Mos Def & Black Jack Johnson) (Sony PCM R500) [SBD].txt"
     },
     {
       "year": 2008,
@@ -34,7 +35,8 @@ const ARTIST_DATA = {
       "venue": "Merriweather Post Pavilion",
       "version": "AUD",
       "format": "FLAC",
-      "notes": "travelinbeat"
+      "notes": "travelinbeat",
+      "textFile": "2008-07-27 - Columbia, MD - Merriweather Post Pavilion [AUD].txt"
     }
   ]
 };

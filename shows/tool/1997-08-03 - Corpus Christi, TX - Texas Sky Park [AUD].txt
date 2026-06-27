@@ -1,0 +1,59 @@
+Tool
+"Texas Sky Amphitheater Park"
+Lollapalooza
+Corpus Christi TX
+August 3 1997
+
+::Disc1::
+1) Hooker With A Penis
+2) Stinkfist
+3) 46 & 2
+4) Prison Sex
+5) Eulogy
+6) H.
+7) Third Eye
+
+::Disc2::
+1) Sober
+2) Opiate
+3) Ænema
+ 
+
+
+
+Taped:Sony Tcd-D7->csb w/o bass filter->line in(LP mode 16bit 32khz)by aleal5687
+Transfer:Sony Tcd-D7->7pin to coaxial->philips cdr870(auto sample rate convert 44.1)->eac(securemode)
+	->Cool Edit Pro2(used to eq out heavy bass and boost levels)->cdwave used to add tracks->flac level 8
+
+Here is what I remember...
+I taped the show from where I taped Failure earlier that afternoon(about 25 ft from right PA).
+A few mosh pits broke out around me so I tried to move but screamers/pits everywhere. 
+I finally ended up 5ft FOS after about 30min or so of fighting my way through the crowd.
+This was the first and last time I every taped a summer festival in South Texas!!!!
+First 30min sounds a bit rough.If anyone has the "remaster" version please seed.
+I don't know why this is considered rare I traded it with all my friends.
+
+Check out 
+http://www.collectiveunconscious.org/97corpuschristi0803.html
+for more info and mp3 sample
+
+
+Flac Fingerprints
+Tool_1997_08_03_d7_csb_d1t01.flac:490a51edb704c8634e5c71dd0b08b5d5
+Tool_1997_08_03_d7_csb_d1t02.flac:45409c0cb4be19b945dd49f8409c0f0e
+Tool_1997_08_03_d7_csb_d1t03.flac:2128e99894a95968a865a78bbb46bbe9
+Tool_1997_08_03_d7_csb_d1t04.flac:314eddb21f9e7281c83b07577b87e197
+Tool_1997_08_03_d7_csb_d1t05.flac:b9feacac98fb82a82afe9991b015ade4
+Tool_1997_08_03_d7_csb_d1t06.flac:fcc7e5dafd8b48871a671fbb7cf27f82
+Tool_1997_08_03_d7_csb_d1t07.flac:b6926d369de2894f54dba6eeee917b8d
+Tool_1997_08_03_d7_csb_d2t01.flac:c68915aefb8278e7187cf522b69f793e
+Tool_1997_08_03_d7_csb_d2t02.flac:8a121ca95c060ccdee83359631c54e11
+Tool_1997_08_03_d7_csb_d2t03.flac:aca40f3538abc3cf1a47de822d3512db
+
+:::::DO NOT SELL THIS RECORDING OR ENCODE INTO MP3::::
+
+
+Enjoy and Share 
+aleal5687
+
+

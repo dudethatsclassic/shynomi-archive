@@ -1,0 +1,86 @@
+Tool
+2001-09-08
+Verizon Wireless Amphitheater
+Noblesville, IN 
+Fall-Winter 2001 North American Tour with Meshuggah 
+
+
+Audio Sources: 
+
+version 1:
+media type: FLAC
+source: Core Sound Low Cost Stealth Cardioids > Sony TCD-D8 > 1st gen CDR > FLAC
+taper: unknown
+disc 1 - 9 tracks - 66:06
+disc 2 - 7 tracks - 67:17
+ 
+version 3:
+media type: FLAC
+source: Core Sound Binaurals > Sony PCM-M1/48 > 1st Gen DAT > 2nd Gen CDR > EAC > FLAC
+taper: unknown
+disc 1 - 8 tracks - 54:14
+disc 2 - 9 tracks - 66:40
+
+Matrix transfer: Flac > WAV > Audacity (sync, minor EQ, new levels: Ver1 -2 dB, Ver3 -2.5 dB) > Remastered WAV @ 44.1 KHz > Audacity > 48 kHz WAV > 192 kbps AC3
+
+
+Video Source:
+
+Source: Sony TR940 Hi8 XR > Fujii 8mm (masterVHS) > Sony DCR-TRV530 digital 8 > firewire > Sony Vegas 6.0 > 25.7gb.avi > Dvd Architect Studio 5.0 > 7.82 gb dvd9
+Taper: Sie Callebs
+
+
+Final Transfer: mpv video (no changes) and replacement AC3 files > tsMuxer (shifted audio -65 ms) > .ts file
+
+
+Data information:
+Menu: No
+Chapters: No
+Artwork: No
+
+Stream 0:
+Codec: MPEG-1/2 Video (mpgv)
+Resolution: 720x480
+Display Aspect Ratio: 4x3
+Frame Rate: 29.97
+Standard: NTSC
+
+Stream 1:
+Codec: A52 Audio (aka AC3) (a52)
+Language: English
+Channels: Stereo
+Sample Rate: 48000 Hz
+Bitrate: 192 kb/s
+
+
+Setlist:
+
+Disc 1 (7.93 GB):
+Tuva
+The Grudge
+(-) Ions
+Stinkfist
+Forty Six & 2
+Prison Sex
+Schism
+Pushit
+Disposition
+Reflection
+Intermission
+Parabol / Parabola
+Eon Blue Apocalypse / The Patient
+Ænema
+Lateralus
+
+
+Notes on the Video: 
+So to follow up my remaster/matrix effort, I decided to go ahead and upgrade the audio to the known video source of this show. Big thanks go to ElvisHitler for getting this on camera. As for the original video, there's a lot of wind in the mics and some movement by the taper. Real early on I think the camera even gets dropped on the ground and sits there for a bit before being picked back up. After you get through the first couple songs though, the video steadies up a lot and turns into a nice capture, especially with the upgraded audio.  
+
+ 
+Notes on the audio: 
+This was another project I undertook on a whim. I was not at this show sadly (I wasn't even a fan of Tool yet at the time) but my best friend was there and wanted to see what I missed out on. In the end these audio sources mixed together alright. Neither source on it's own is all that bad, but Version 1 was mostly top end and a bit distant, and Version 3 (which sounded like it was taped from a lot closer) was much more bass heavy. Both sources have some issues with crowd noise. However, that said, they complimented each other nicely once mixed. The music is pushed up and the crowd noise gets pushed down a bit, and you get a nice response across the full frequency spectrum. Big thanks to Geordy for linking me to the Tool drive, which was where I was able to get both of these sources. 
+
+*Uploaded on Dime in January of 2016* 
+
+Cheers,
+Comm4nd3r

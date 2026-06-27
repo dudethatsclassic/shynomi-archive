@@ -1,0 +1,38 @@
+Tool
+Friday June 22, 2007
+Scottrade Center
+Saint Louis, MO
+USA
+
+Taper:      monkoth
+Source:     IEM > Microtrack 24/96 (16bit/44kHz wav)
+Conversion: Microtrack 24/96 (Compact flash card) > USB > wav @ 16but/44.1kHz > Hard drive > Mastering (see below) > 
+            CD Wave 1.95 (tracking) > Flac Frontend 1.7.1 (Level 6 Flac Compression) > Flac 
+Mastering:  Done in Wavelab 5.0: Waves X-Noise plugin to rid the static, normalize each channel to -0.3db
+
+           
+Set (122:34)
+
+01) Intro - Jambi
+02) Stinkfist
+03) The Pot
+04) Forty-Six & 2 intro
+05) Forty-Six & 2
+06) Schism intro
+07) Schism
+08) Lost Keys
+09) Rosetta Stoned
+10) Ambient jam (with Intension teaser)
+11) Right in Two 
+12) Intermission
+13) Wings for Marie
+14) 10,000 Days
+15) Lateralus (extended jam in the middle with members of Melt Banana) 
+16) Vicarious 
+
+
+* DO NOT SELL THIS RECORDING UNDER ANY CIRCUMSTANCE.
+** Do not compress to lossy formats (ie. mp3) and distribute.
+
+Notes:
+A big thank you to that special little lady for loaning me the gear.  

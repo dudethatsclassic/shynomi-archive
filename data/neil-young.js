@@ -25,7 +25,8 @@ const ARTIST_DATA = {
       "venue": "Down The Wire",
       "notes": "",
       "version": "SBD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1965-12-01 - Wichita Falls, KS - Down The Wire [SBD].txt"
     },
     {
       "year": 1966,
@@ -51,7 +52,8 @@ const ARTIST_DATA = {
       "venue": "Dorothy Chandler Pavilion",
       "notes": "",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1970-02-01 - Los Angeles, CA - Dorothy Chandler Pavilion [AUD].txt"
     },
     {
       "year": 1970,
@@ -64,7 +66,8 @@ const ARTIST_DATA = {
       "venue": "KQED Studios",
       "notes": "",
       "version": "FM",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1970-02-19 - San Fransisco, CA - KQED Studios [FM].txt"
     },
     {
       "year": 1970,
@@ -77,7 +80,8 @@ const ARTIST_DATA = {
       "venue": "Music Hall",
       "notes": "",
       "version": "SBD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1970-02-25 - Cincinnatti, OH - Music Hall [SBD].txt"
     },
     {
       "year": 1974,
@@ -90,7 +94,8 @@ const ARTIST_DATA = {
       "venue": "The Bottom Line",
       "notes": "",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1974-05-16 - New York, NY - The Bottom Line [AUD].txt"
     },
     {
       "year": 1976,
@@ -116,7 +121,8 @@ const ARTIST_DATA = {
       "venue": "Riverside Theater",
       "notes": "AT-35",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1992-11-15 - Milwaukee, WI - Riverside Theater (AT-35) [AUD].txt"
     }
   ],
   "misc": []

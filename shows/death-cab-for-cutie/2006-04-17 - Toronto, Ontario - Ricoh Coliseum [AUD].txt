@@ -1,0 +1,54 @@
+Death Cab For Cutie
+April 17, 2006
+Ricoh Coliseum
+Toronto, ON
+
+SOURCE:
+SP-CMC-8 > SP-SPSB-8 (Bass rolloff @95Hz) > JB3 Line-In
+
+TRANSFER:
+JB3 > Firewire > Seagate Serial-ATA HDD > WAV [48kHz]
+
+LINEAGE:
+JB3 > WAV [48kHz] > T-Racks 24 v2.04 > Adobe Audition v1.5 > CD Wave Editor v1.94.4 > FLAC [Level 8]
+
+GENERATION:
+WAV [48kHz] > WAV [44.1kHz] > FLAC > You (Your copy will be CDR(1) if burnt)
+
+LENGTH: 81:19
+
+TRACKS:
+01 Passenger Seat
+02 Different Names For The Same Thing
+03 The New Year
+04 We Laugh Indoors
+05 Title And Registration
+06 Photobooth
+07 "Does Rush Have To Deal With This?"(Ben talking about the firealarm)
+08 Crooked Teeth
+09 Soul Meets Body
+10 Amputations
+11 A Movie Script Ending
+12 What Sarah Said
+13 We Looked Like Giants
+14 The Sound Of Settling
+15 (crowd noise)
+
+ENCORE
+16 I Will Follow You Into The Dark
+17 Marching Bands Of Manhattan
+18 Transatlanticism
+
+
+NOTES:
+-T-Racks 24 was used for EQing and fade-in and out.
+-Adobe Audition was used to downsample the WAV.
+-Recorded from ~60ft. back-right of the soundboard.
+-Remove track 15 and you can burn this onto 1 disc.
+-During "Title And Registration" the venue's firealarm started going off and is a slight annoyance during the song. The alarm did turn off, but as soon as the band started "Photobooth" it came back on. Ben asked for the PA to be turned up to "ear-bleeding levels" to drown it out. It is still noticable though. It finally goes off during Crooked Teeth and stays off for the rest of the show.
+
+
+RECORDED BY:
+Dave Caley (2006.04.17)
+
+PLEASE DO NOT SELL OR CONVERT TO MP3

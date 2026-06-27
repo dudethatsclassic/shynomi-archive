@@ -1,0 +1,18 @@
+Tool
+1993-05-24
+Glasgow, Scotland
+Glasgow Barrowlands
+
+Source: Soundboard
+Transfer: ASBM > DDC2 32khz > CDR > EAC (Secure Mode) > CDWave (tracking) > .WAV > .FLAC
+Generation: 3rd
+
+Setlist
+01 - Intolerance - 4:53 (cuts in)
+02 - Part of Me - 3:47
+03 - Sober - 5:26
+04 - Prison Sex - 5:47
+05 - 4° - 6:32
+06 - Sweat - 3:55
+07 - Opiate - 6:38
+08 - Flood - 3:41 (incomplete, fades out)

@@ -1,0 +1,62 @@
+Flaming Lips
+The Double Door
+Chicago, IL
+4/29/96
+
+?aud > Cass(2?) > cdr> cdwav > soundforge 6.0 > FLAC
+
+Taped By: unknown
+
+Cassette to cdr transfe: Rev. Mike
+transfer made using a Sony Tc-WE635 tape deck to Hhb burnit 830 stand alone burner
+
+Tracks split using CD wave editor
+
+Fades and other edits done using Soundforge 6.0 
+tape warble removed from beginning of track 01
+fade-in applied to track 01
+crossfaded tape flip between tracks 11 and 12
+crossfaded tape flip in track 12 (tape warble after crossfade present on source cassette)
+fade-out applied to track 18
+crowd noise edited from track 15 so this would fit on an 80 min. disc
+
+
+01 tuning/intro
+02 The Abandoned Hospital Ship
+03
+04 Unconsciously Screaming
+05 Take Meta Mars
+06 Placebo Headwound
+07 Put the Waterbug in the Policeman's Ear
+08 Lightning Strikes the Postman
+09 intro to
+10 Bad Days
+11 She don't Use Jelly
+12 Chewin' the Apple of your Eye
+13 When you Smile
+14 Psychiatric Explorations of the Fetus with Needles
+15 exit stage/return to stage
+16 
+17
+18 What a Wonderful World
+
+Notes:
+This recording came from the estate of Guy Gimbrone (RIP).  Further source info is unknown
+at this time.  I am guessing that this is a 2nd gen. cassette because the tape I transfered
+flipped between tracks 11 and 12 but an apparent tape flip existed within track 12, leading
+me to believe that this was originally on a 100 min. tape (perhaps the master tape?).  
+Internet research only came up with this show existing as an incomplete (70 min.) analog, 
+so this seems to be the closest to the original source that has surfaced thus far, which is 
+why I decided to seed it.  If anyone has more complete information on this show or a source
+closer to the master tape, please contact me at revmike101@yahoo.com. 
+
+Seeded to bt.etree.org and www.sharinghtegroove.org on 2/14/04
+
+This seed is dedicated to the memory of Guy Gimbrone 2/6/68 - 9/9/03, the best friend and 
+travelling companion I ever had and the greatest archivist I have ever known.
+
+
+
+
+
+

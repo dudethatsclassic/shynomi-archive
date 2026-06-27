@@ -1,0 +1,25 @@
+Tool
+2006 August 18
+Neil Blaisdell Center Concert Hall
+Honolulu, Hawaii
+
+Complete Show
+Recorded by Mr Charlie, up front on the left
+
+Sonic Studios DSM-6S/L => Sonic Studios PA6LC3 => iRiver Rockbox
+
+WAV => SoundStudio => FLAC 8 w/SBE fix & checksum
+
+1 Stinkfist 
+2 The Pot
+ 
+3 Forty-Six & 2
+4 Jambi
+ 5 Schism
+6 Rosetta Stoned
+7 Sober (with Kirk Hammett)
+8 Lateralus
+9 Opiate
+10   break 
+11 Vicarious
+12 Aenima

@@ -1,0 +1,61 @@
+Tool
+2007-08-12 Sunday
+Spodek Hall, Katowice
+Poland
+
+
+
+SNS-MR-045
+
+
+
+
+
+source: EX audience recording
+
+lineage: Sony MD MZ-NH700 > Sony ECM-719
+
+transfer: Master HiMD > USB transfer to HDD > SonicStage4.3 > Track splitting in CDWave 1.96 > TLH FlacFrontend level8
+
+taping location: FOB
+
+taper: SNSik (sns3@wp.pl)
+
+total time: [77:42]
+
+
+
+
+
+Setlist:
+
+
+1. Intro [1:35]
+2. Jambi [7:46]
+3. Stinkfist [6:43]
+4. Forty Six & 2 [7:29]
+5. Schism [9:41]
+6. Rosetta Stoned [11:38]
+7. Vicarious Jam [3:54]
+8. Flood  [8:59]
+9. Lateralus [12:27]
+10. Vicarious [7:31]
+
+
+
+
+
+
+release date: Tuesday 21st August 2007
+         - snsik
+
+
+
+
+
+==========================================================================
+==*************** DO NOT ENCODE INTO ANY OTHER FORMAT ******************==
+==************************* DO NOT SELL ********************************==
+==********************** DO NOT CUT THIS CREDITS ***********************==
+==*********************** DO NOT REMASTER THIS *************************==
+==========================================================================

@@ -1,0 +1,115 @@
+Tool
+
+2013-04-27
+Rod Laver Arena
+Melbourne
+Australia
+
+
+Source #2: Church Audio CAFS > Church Audio BatteryBox > Tascam DR2d
+Recorded Bitrate: 24/96
+
+Tb Master 162
+
+Audience Master.
+
+Lineage: Tascam DR2d (24/96) > PC (Wav) > Cool Edit Pro 2 (amplify/fades) > CDWave (edit/downsample 16/44.1) > TLH (convert to Flac, create checksum) > Flac8
+
+
+Taper Notes: A brilliant show put on by the band, though Keenan 's vocals could have been a bit higher in the mix. Security getting in, and inside the 
+venue, was WAY over the top.  I need to buy a lottery ticket!!!!
+
+The only downside were the talkers around me. I've not been to a gig with so many fuckwits that have spent their money just to have a chat and carry 
+on through the show. Luckily they do not intrude much on the music.
+
+
+
+Setlist:
+
+01. Intro
+02. Hooker With a Penis 
+03. Vicarious 
+04. Sober 
+05. Schism 
+06. Pushit 
+07. Intension
+08. Lateralus 
+09. Intermission (cut)
+10. Drum Solo
+11. Jambi 
+12. Forty-Six & 2 
+13. Ænema 
+14. Stinkfist
+15. Outro
+
+
+
+
+tool2013-04-27t01.flac:  tested ok (file is decodable without error).
+tool2013-04-27t02.flac:  tested ok (file is decodable without error).
+tool2013-04-27t03.flac:  tested ok (file is decodable without error).
+tool2013-04-27t04.flac:  tested ok (file is decodable without error).
+tool2013-04-27t05.flac:  tested ok (file is decodable without error).
+tool2013-04-27t06.flac:  tested ok (file is decodable without error).
+tool2013-04-27t07.flac:  tested ok (file is decodable without error).
+tool2013-04-27t08.flac:  tested ok (file is decodable without error).
+tool2013-04-27t09.flac:  tested ok (file is decodable without error).
+tool2013-04-27t10.flac:  tested ok (file is decodable without error).
+tool2013-04-27t11.flac:  tested ok (file is decodable without error).
+tool2013-04-27t12.flac:  tested ok (file is decodable without error).
+tool2013-04-27t13.flac:  tested ok (file is decodable without error).
+tool2013-04-27t14.flac:  tested ok (file is decodable without error).
+tool2013-04-27t15.flac:  tested ok (file is decodable without error).
+
+No errors occured.
+
+
+tool2013-04-27t01.flac:1d8fab091f23448a1775b60c93e092a0
+tool2013-04-27t02.flac:f29a715f63fe3e5db572f03557cb74ee
+tool2013-04-27t03.flac:238bfe7732829a21a118441dc773a7d5
+tool2013-04-27t04.flac:e33f0631040740fc9df14b32728bbe6f
+tool2013-04-27t05.flac:1697761144fce9dec4d2c725dba4b32d
+tool2013-04-27t06.flac:7a945152d4f77d77f7dcd68c6a8f3700
+tool2013-04-27t07.flac:f5adbef065c26da844bbd23dae429554
+tool2013-04-27t08.flac:17aa10962468f70a3b35d79e31b4ca69
+tool2013-04-27t09.flac:21c2195be2742b0f28c25044d0a7168b
+tool2013-04-27t10.flac:c12cde79da1a507709b3091f1bc332ec
+tool2013-04-27t11.flac:538644dab587afed24e356b6576501a0
+tool2013-04-27t12.flac:a8792e02f52ae8411d368314280adbd7
+tool2013-04-27t13.flac:7ce9fa4522e70fc4acc01b74a55bea45
+tool2013-04-27t14.flac:d7599fce506018a475f199cbba6c9aae
+tool2013-04-27t15.flac:c34d398d15b44dffc7f52f37d92bca65
+
+Checksum file saved to disk.
+
+No errors occured.
+
+
+4c48fa8ff4120709811f4ca2564d2fec *tool2013-04-27t01.flac
+83ef87a8f71f57386ac62d212ada6337 *tool2013-04-27t02.flac
+ac0199547ac22d5fa92b855ec600ae16 *tool2013-04-27t03.flac
+be82cb8f9a2801b6f0653b5e7d26cebb *tool2013-04-27t04.flac
+15c1acc9c3062e7e74a724af393db448 *tool2013-04-27t05.flac
+8ff4c4289794fe0e23e54e6ab007524c *tool2013-04-27t06.flac
+f33e1391d62373b63e3283f25ff3011a *tool2013-04-27t07.flac
+b70a1ffcd7b7f18186bc340901092659 *tool2013-04-27t08.flac
+4dada39a1280e220c0ea6dc7625cc16e *tool2013-04-27t09.flac
+01f83d3ec6371da3f2f15849af2b86a5 *tool2013-04-27t10.flac
+9a400a03d933c517986e14e88f77dc38 *tool2013-04-27t11.flac
+2de6fab19b0aa886a7fb7a5db8a6843a *tool2013-04-27t12.flac
+b6d674e6b243c85566923c2f20563c26 *tool2013-04-27t13.flac
+d9aff47f13bdfd014a79faab2a2135c5 *tool2013-04-27t14.flac
+1cdd765e15fdfc3dcdbbb68f983b9e5f *tool2013-04-27t15.flac
+
+No errors occured.
+
+Create checksum file log saved to file.
+
+
+
+
+Do share with others as lossless files.
+Do convert to lossy for your own use but do not upload as lossy on any sites.
+DO NOT POST THIS SHOW AS A LINK ON DIFFERENT SITES!!!!!!!
+DO NOT SELL THIS RECORDING!!!!!!!!
+DO NOT PUT UP ON PAY-TO-USE DOWNLOAD SITES. YOU WILL BE FOUND OUT!! ASK ME HOW I WILL KNOW.....

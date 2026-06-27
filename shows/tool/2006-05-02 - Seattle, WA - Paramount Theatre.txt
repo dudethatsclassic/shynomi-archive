@@ -1,0 +1,40 @@
+Tool
+Paramount Theatre
+Seattle WA
+May 3, 2006
+
+Source: Core Sound Binaurals > battery box without bass rolloff > Sony MZ-RH10 Hi-MD (Hi-SP mode)
+
+Transfer/editing: Sony MZ-RH10 > USB > SonicStage 3.2 > T-RackS 24 (eq, compression) > Cool Edit Pro (edit tracks, fix dropouts, tracking) > FLAC Frontend level 8
+
+Setlist:
+
+1. Lost Keys > Rosetta Stoned
+2. Stinkfist
+3. Forty Six and 2
+4. The Pot
+5. Jambi
+6. Schism
+7. Eon Blue Apocalypse > The Patient
+8. Sober
+9. Lateralus
+10. Vicarious
+11. Aenima
+
+
+Recording Notes: This is an alternate source to the show posted at dimeadozen on 5-4-06. As a comparison, this sounds worse at first, but similar toward the middle and end. The sound of this recording is more bass-heavy.
+
+The first three tracks suffer due to heavy security that prevented me from checking the levels. The connection was bad and resulted in only one channel recording. I corrected this during the middle of 46 & 2 and the rest of the recording is in stereo.
+
+To fix the mono sound for the first tracks, I simply duplicated one channel to the other, so you'll notice the thin sound at the beginning "magically" transform into stereo about 2/3 of the way through track 3.
+
+I fixed a few channel dropouts by pasting the audio from the other track. They're noticable around the end of track 3 and beginning of track 4.
+
+The rest of the show sounds quite good. After the first few songs, the sound guy got the levels nailed and it was an incredibly loud but balanced sounding show in a good acoustic venue.
+
+I was located about 20 rows from the stage, in the main floor right section. This was two rows behind and three seats to the right of the soundboard.
+
+The editing I did was to tame the midrange and employ a slight compression. 
+
+Show notes:
+Tool fucking rocked!

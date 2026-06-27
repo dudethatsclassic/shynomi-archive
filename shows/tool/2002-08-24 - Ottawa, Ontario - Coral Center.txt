@@ -1,0 +1,41 @@
+Tool
+2002-08-24
+Corel Centre
+Ottawa, Ontario 
+Source: CSB > Sony PCM-M1 Oade modII
+Location: front of the left stack on the rail
+Taper: SP a.k.a. GCMK
+Transfer: Tascam DA-302 digi coax > Audiophile 2496 > Soundforge 5.0 (resampled/normalized) > CDWav (tracking)
+
+update [11/24/17] endoded to .flac TLH 2.7.0 (Build 172) encoded to .flac (level 8)/align (fix)/test
+
+Disc 1:
+
+01) Intro Music			10:31
+02) Sober Intro			03:00
+03) Sober			05:36
+04) Grudge			08:01
+05) Stinkfist -white lines-	06:33		
+06) 46&2			06:27
+07) Schism intro -whispers-	02:31
+08) Schism			09:49
+09) Parabol			03:04
+10) Parabola			06:40
+11) Ænima			06:54
+12) intermission 		08:12
+
+Total Time: 			78:24
+
+
+Disc 2:
+
+01) intermission		02:48
+02) Disposition			05:40
+03) Reflection			12:49
+04) Triad			11:01
+05) Maynard talking		01:51
+06) Lateralus 			11:33
+07) go home			01:42
+
+Total Time: 			47:29
+

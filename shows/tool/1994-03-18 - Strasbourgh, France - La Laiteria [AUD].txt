@@ -1,0 +1,14 @@
+    length     expanded size   cdr  WAVE problems filename
+     6:46.25       71677244    ---   --   ---xx   Tool1994_03_18Tr01.flac
+     5:44.17       60721628    ---   --   ---xx   Tool1994_03_18Tr02.flac
+     6:24.57       67871708    ---   --   ---xx   Tool1994_03_18Tr03.flac
+     6:05.21       64435436    ---   --   ---xx   Tool1994_03_18Tr04.flac
+     6:53.23       72907340    ---   --   ---xx   Tool1994_03_18Tr05.flac
+     7:30.31       79452956    ---   --   ---xx   Tool1994_03_18Tr06.flac
+     5:22.53       56925500    ---   --   ---xx   Tool1994_03_18Tr07.flac
+     7:20.61       77759516    ---   --   ---xx   Tool1994_03_18Tr08.flac
+     6:03.01       64035596    ---   --   ---xx   Tool1994_03_18Tr09.flac
+     7:32.61       79876316    ---   --   ---xx   Tool1994_03_18Tr10.flac
+     3:59.13       42190220    ---   --   ---xx   Tool1994_03_18Tr11.flac
+     4:54.07       51877168    -b-   --   ---xx   Tool1994_03_18Tr12.flac
+    74:36.70      789730628 B                     (totals for 12 files, 0.5125 overall compression ratio)

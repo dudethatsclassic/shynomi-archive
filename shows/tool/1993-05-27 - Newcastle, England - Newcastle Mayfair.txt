@@ -1,0 +1,10 @@
+Tool - 1993.05.27
+Newcastle Mayfair - Newcastle, England 
+
+media type: FLAC
+source: ASBM > DDC2 32khz > 1st gen CDR > EAC (Secure Mode) > CDWave (tracking) > .WAV > .FLAC
+trade status: can trade
+
+disc 1 - 1 track - 4:14
+
+notes: 3rd generation FLAC first shared in September 2010.  Incomplete, only 1 track.

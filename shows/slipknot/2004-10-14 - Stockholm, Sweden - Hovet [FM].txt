@@ -1,0 +1,32 @@
+foobar2000 1.4 / Dynamic Range Meter 1.1.1
+log date: 2018-09-30 03:37:21
+
+--------------------------------------------------------------------------------
+Analyzed: Slipknot / 2004-10-14 Hovet, Stockholm, Sweden - 47 minutes FM broadcast
+--------------------------------------------------------------------------------
+
+DR         Peak         RMS     Duration Track
+--------------------------------------------------------------------------------
+DR9        0.00 dB   -10.65 dB      5:29 01-The Blister Exists
+DR10       0.00 dB   -11.51 dB      4:27 02-(sic)
+DR10       0.00 dB   -11.05 dB      4:49 03-Three Nil
+DR10       0.00 dB   -11.22 dB      5:30 04-Vermilion
+DR10      -0.21 dB   -11.97 dB      4:48 05-Pulse Of The Maggots
+DR10       0.00 dB   -11.80 dB      4:06 06-Iowa
+DR10      -0.45 dB   -12.62 dB      4:52 07- The Heretic Anthem
+DR10      -0.01 dB   -12.28 dB      5:02 08-Duality
+DR10      -0.44 dB   -12.28 dB      4:24 09-Spit It Out
+DR9       -2.71 dB   -14.00 dB      0:28 10-(515) + radio announcer 
+DR10      -0.26 dB   -11.61 dB      3:11 11-People = Shit
+--------------------------------------------------------------------------------
+
+Number of tracks:  11
+Official DR value: DR10
+
+Samplerate:        44100 Hz
+Channels:          2
+Bits per sample:   16
+Bitrate:           1091 kbps
+Codec:             FLAC
+================================================================================
+

@@ -1,0 +1,18 @@
+Tool
+Selland Arena
+Fresno CA
+2014-03-14
+
+lineage: olympus ls 11 pcm recorder > wav > format factory > flac
+
+01 3rd Eye
+02 Vicarious
+03 Schism	
+04 Sober
+05 Intension
+06 Lateralus
+07 B'Boom
+08 Jambi
+09 Forty Six & Two
+10 Aenima
+11 Stinkfist

@@ -1,0 +1,13 @@
+Tool - 2001.10.30
+Cricket Pavilion - Phoenix, AZ, USA
+version 3
+
+media type: FLAC
+source: Sony ECM-ZS90 > Sharp MD-MT821 > unknown transfer > 1st Gen CDR > FLAC
+taper: Randy Reed
+trade status: can trade
+
+disc 1 - 8 tracks - 60:47
+disc 2 - 7 tracks - 65:04
+
+notes: none

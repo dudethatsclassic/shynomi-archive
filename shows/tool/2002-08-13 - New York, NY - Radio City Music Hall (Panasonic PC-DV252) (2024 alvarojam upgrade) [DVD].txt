@@ -1,0 +1,61 @@
+TOOL
+====
+August 13, 2002
+Radio City Music Hall
+New York City, NY
+
+
+Audience recorded (master clone) > DVD > Demux > Remaster & Sync > DVD
+NTSC - 720x480 - 6155 kb/s - 29.97 fps - 4:3
+Stereo PMC - 1536 kb/s
+Stereo AC3 - 320 kb/s
+
+TRACKS
+======
+Tuva
+Sober
+Commando
+The Grudge
+Stinkfist
+H.
+Schism
+Parabol
+Parabola
+The Patient
+Ænema
+Intermission
+Disposition
+Reflection
+Triad
+Lateralus
+------------------
+
+VIDEO
+-----
+Panasonic pc-dv252
+
+AUDIO
+-----
+PCM
+Audio Matrix of:
+Sony MD & Sony ecm-zs908 + Danish Pro Audio 4061 > Sony PCM-M1
+Audio EQ, cleaning, Stereo separation, levels adjustments & sync by Alvarojam
+
+Sony PCM-M1 info: 
+DPA4060 > DACPS* w/85Hz filter > line in > PCM-M1 (BASF DATmaster 124)
+Location: Left side aprox. 10th row 
+Taper: Genghis Cougar Mellen Khan
+Transfer: Tascam DA-302 > S/PDIF coax > PMD671 > USB > HD 
+Edit: Sound Forge 10 (resample/normalize/fades) > CD wave editor (tracking)
+
+--------------------------------
+**2024 notes**
+Sync issues present in the original dvd has been fixed.
+The very good audio recoded by Genghis Cougar Mellen Khan has been mixed with the original dvd audio, which sound wider now.
+I kept the original dvd audio as secondary stream, but only selectable from the remote control or the options menu in your preferred player.
+
+No disrespect to the original tapers/creator of the DVD. Just wanted to make the best out of the sources available.
+
+Sync and authored by Alvarojam
+January 5, 2024
+

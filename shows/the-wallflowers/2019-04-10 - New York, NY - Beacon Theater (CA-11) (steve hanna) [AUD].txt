@@ -1,0 +1,41 @@
+The Wallflowers 
+Beacon Theatre
+New York City, NY
+April 10, 2019
+(Opened for Mott The Hoople '74)
+
+** 16 BIT **
+
+Source:  CA-11 cardioids > CA Battery Box > Sony PCM-M10 @ 16 bit/44.1 kHz
+Mastering: .WAV > Sound Forge Pro 11.0 Build 299 [Sony Clipped Peak Restoration plugin; iZotope Mastering Suite (declick); minor edits, normalize, 
+& fades] > CDWav tracking) > Trader's Little Helper (level 5) > FLAC > TagScanner 6.0.18 (tagging) 
+Location:  Second row, far right
+Recorded by:  Steve Hanna
+Mastered by:  Dennis Orr
+
+Setlist: (38:52)
+01 Letters From The Wasteland
+02 6th Avenue Heartache
+03 I Want To See The Bright Lights Tonight
+04 I've Been Delivered >
+05 Everything I Need
+06 One Headlight >
+07 The Difference
+08 The Waiting
+
+Jakob Dylan - lead vocals & guitar
+Stanton Adcock – lead guitar & backing vocals
+Steve Mackey – bass
+Jimmy Wallace – keyboards & backing vocals
+Lynn Williams – drums & percussion
+
+TheWallflowers2019-04-10t01.flac:bdf39fad212cc74e90eef4771546e087
+TheWallflowers2019-04-10t02.flac:eaf39a252f36d845bff3152c02e6fba8
+TheWallflowers2019-04-10t03.flac:c6b9dc66628c69617dc5e359c998c232
+TheWallflowers2019-04-10t04.flac:a36d492a21edc8d927d45b8771c71fa8
+TheWallflowers2019-04-10t05.flac:f6f9a1529dab83276d130443a4937819
+TheWallflowers2019-04-10t06.flac:7ad08e6996f7bf2b24251f368574573f
+TheWallflowers2019-04-10t07.flac:dcb3e2dd4d81d14add4190a72a867d48
+TheWallflowers2019-04-10t08.flac:1d5126aa8b97ee067e6a8a55d331cdd8
+
+

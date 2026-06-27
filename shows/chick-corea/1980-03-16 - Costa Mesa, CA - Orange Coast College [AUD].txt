@@ -1,0 +1,110 @@
+A Robert Collins Master Recording.
+
+Artist:                Chick Corea
+Date                   March 16, 1980
+Location:              Orange Coast College, Costa Mesa, CA (USA)
+Seats:                 Near 13th row, center
+Deck:                  Nakamichi 350
+Mics:                  Nakamichi CM-300
+Source:                A:C Master Tape, Stereo
+Sample Rate:           44.1Khz, 16-bit (FLAC)
+Rating:                B
+Length:                88 Minutes
+
+Also Available:
+* DVD-Audio, 96 Khz, 24-bit version of this show is also available upon special request.
+
+Extras:
+* Ticket stub
+
+-----
+
+Musicians:
+Chick Corea                 Keyboards
+Gayle Moran                 Keyboards, Vocals
+Bunny Brunel                Bass Guitar
+Al Vizutti                  Trumpet
+Steve Kujala                Woodwinds
+Laudir D'Oliviera           Percussion
+Tom Brechlein               Drums
+
+-----
+
+Notes:
+This is a very rare and amazing recording.  It's not an "A" quality fidelity recording, but it's definitely an "A"
+quality in music performance.  To this day, most of the pieces of music on this recording are still unreleased.
+
+One of the highlights is Bunny Brunel's rendition of Ivanhoe three years before its official release.
+
+-----
+
+Lineage:
+AUD> Nakamichi 350
+---> Nakamichi Dragon (playback)
+---> Korg MR1000 (5.6 Mhz, 1-bit master tape)
+---> Down sample to 96Khz, 32-bit using Korg Audiogate
+---> Har-Bal (light equalizing)
+---> iZotope RX2-Advanced (noise reduction)
+---> Sound Forge to normalize channels
+---> iZotope RX2-Advanced (remove pops/ticks, downsample, dither)
+---> Adobe Audition-3 phase correction
+---> iZotope oZone-5 Advanced (stereo imaging)
+---> iZotope RX2-Advanced (downsample, dither)
+---> CD Architect
+---> EAC
+---> FLAC
+
+-----
+
+Sound Samples:
+Sample-1 (Slide):
+http://www.rcollins.org/concerts/mp3/Corea_1980-03-16_Sample-1.mp3
+
+Sample-2 (Piano Concerto for 9000 Voices):
+http://www.rcollins.org/concerts/mp3/Corea_1980-03-16_Sample-2.mp3
+
+Sample-3 (Hello Brazil):
+http://www.rcollins.org/concerts/mp3/Corea_1980-03-16_Sample-3.mp3
+
+-----
+
+Disc-1
+       Start           End        Length  Name 
+------------  ------------  ------------  -------------------------- 
+00:00:00.000  00:10:29.088  00:10:29.088  Slide 
+00:10:29.088  00:11:40.121  00:01:11.033  Introducing 'Ivanhoe' 
+00:11:40.121  00:21:57.401  00:10:17.280  Ivanhoe 
+00:21:57.401  00:24:23.691  00:02:26.289  Introducing 'I'm So Glad I Met You Finally' 
+00:24:23.691  00:29:48.848  00:05:25.157  I'm So Glad I Met You Finally 
+00:29:48.848  00:31:36.661  00:01:47.813  Introducing 'Fickle Funk' 
+00:31:36.661  00:41:35.195  00:09:58.534  Fickle Funk 
+
+Disc-2:
+       Start           End        Length  Name 
+------------  ------------  ------------  -------------------------- 
+00:00:00.000  00:03:14.197  00:03:14.197  Introducing 'Piano Concerto for 9000 Voices' 
+00:03:14.197  00:14:15.141  00:11:00.944  Piano Concerto for 9000 Voices 
+00:14:15.141  00:22:55.770  00:08:40.629  Hello Brazil 
+00:22:55.770  00:24:18.426  00:01:22.656  Introducing 'A Spanish Prelude' 
+00:24:18.426  00:32:21.754  00:08:03.328  A Spanish Prelude 
+00:32:21.754  00:46:13.136  00:13:51.381  Spain 
+
+-----
+
+FFP Fingerprints:
+Disc-1:
+1.01 Slide.flac:2788ec8ce05dd4c2adea58e04c0ba543
+1.02 Introducing 'Ivanhoe'.flac:875cc1b1c17679679a8d24e6452820b1
+1.03 Ivanhoe.flac:92eaaf7477ebba0efef2a5b9e420a729
+1.04 Introducing 'I'm So Glad I Met You Finally'.flac:0b4fc5a300feb16ee0da3a63c7f708c9
+1.05 I'm So Glad I Met You Finally.flac:e2d6bce38e089f859e7dc07e9ddd9616
+1.06 Introducing 'Fickle Funk'.flac:53ec71a6a2518a2ec2aec2f435a84fea
+1.07 Fickle Funk.flac:79646c809d1cd4e5265e80ffe175ccf3
+
+Disc-2:
+2.01 Introducing 'Piano Concerto for 9000 Voices'.flac:1165a64bb6fa9aeca560092c3d7b281f
+2.02 Piano Concerto for 9000 Voices.flac:425f3e7c0abaf2dfd639a9bab0c7878a
+2.03 Hello Brazil.flac:c7f4c33c2306ec719bd0cdd994695e8d
+2.04 Introducing 'A Spanish Prelude'.flac:dc634dd13c4f850e36e788520b41c349
+2.05 A Spanish Prelude.flac:5302054bc23b3526644ed4b0d6720317
+2.06 Spain.flac:90a7afc9a3d15b24fd966f711d624f82

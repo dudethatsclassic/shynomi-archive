@@ -1,0 +1,38 @@
+Tool
+Maimarkthalle, Mannheim, Germany
+2006/12/12
+
+Taper : Elysium
+
+Sony Ecm 719 -> Sony MZ-NH600 (PCM)
+Sonic Stage -> Sony sound forge pro (equalization, normalization) -> Sound Forge (cut) -> Flac (8)
+
+***************************************
+** NE PAS ENCODER EN MP3 ** 
+** NE PAS VENDRE ** 
+** UNIQUEMENT DESTINE AUX ECHANGES **
+*************************************** 
+
+01-Stinkfist
+02-Swamp song
+03-Jambi
+04-Schism
+05-Lost keys - Rossetta stoned
+06-Forty six and 2
+07-Pause
+08-Wings for Marie Pt1 & 2
+09-Lateralus
+10-Vicarious
+11-Aenima
+
+719a8894a47e6d7a5a0350a5c9c0568b *01-Stinkfist.flac
+5cdb9189300248b1dbf3134b099cdeea *02-Swamp song.flac
+9ebd2411953ba33a689b90391019c958 *03-Jambi.flac
+a502db33e3c0884e563b817b81fae031 *04-Schism.flac
+fb5ff781a49e97000b54d4d5622813b2 *05-Lost keys - Rossetta stoned.flac
+e3d0dad1c38f2ff1a67feeb3494d07ce *06-Forty six and 2.flac
+565bf1e896f0d8c49e87969f48891f2a *07-Pause.flac
+aec5a6a4edc996d6da2bd7258200742f *08-Wings for Marie Pt1 & 2.flac
+23e602bba566b03ff1e05833f2cc3bc7 *09-Lateralus.flac
+23a597f00d2ad39e1af44ecfd3bd619a *10-Vicarious.flac
+e878bdfe62dc0237a97a43332b8f98e3 *11-Aenima.flac

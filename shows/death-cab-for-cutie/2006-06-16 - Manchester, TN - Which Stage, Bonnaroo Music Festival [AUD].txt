@@ -1,0 +1,33 @@
+Death Cab For Cutie
+June 16, 2006
+Which Stage, Bonnaroo Music Festival
+Manchester, TN
+
+Source: Earthworks SR77 (17' up over sound tent, 90º spread 8") > Lunatec V2 > Sharp MD-SR60
+Conversion: Pioneer MJ-D707 > Philips CDR870 > EAC (100%) > CEP2K (fades) > CDWave > FLAC Frontend v.1.7.1
+
+Recorded by Scuba Jeremy (livemusic@scubajeremy.net)
+
+Not For Sale
+Support Live Independant Music
+
+Disc 1
+
+01. Passenger Seat >
+02. Different Names for the Same Thing
+03. The New Year
+04. We Laugh Indoors
+05. Title And Registration
+06. Soul Meets Body
+07. Lowell, Ma
+08. Crooked Teeth
+09. Your Heart Is an Empty Room
+10. A Movie Script Ending
+11. Company Calls
+12. What Sarah Said
+13. I Will Follow You Into the Dark
+14. We Looked Like Giants
+15. The Sound of Settling
+16. Transatlanticism
+
+NOTES: The area in front of the soundboard was packed, so I opted to set up just behind the soundboard and run the mics above the level of the tent. The resulting recording is quite good. I had hoped to run my PCM-M1 DAT recorder instead of the minidisc, but the DAT was having problems with loading and unloading tapes. The MD SR-60 is my old standby recorder, and did the job nicely. There are one or two dropouts, probably caused by my over six year old MD deck just being old. I also ran the MD to the brink of brickwalling to maximize the saturation of frequencies. The MD tends to sound flat with more conservative recording levels. There may be an instance or two of brickwalling. As far as I know, this is one of only a small handfull of recordings of this show.

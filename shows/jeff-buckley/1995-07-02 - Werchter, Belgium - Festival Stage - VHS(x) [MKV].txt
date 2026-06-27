@@ -1,0 +1,26 @@
+Jeff Buckley
+2 July 1995
+Festival Stage, Werchter, Belgium 
+
+Lineage: low gen VHS > Stereo VCR > analog out > Canopus ADV100 
+      > DV via FIREWIRE > LOSSLESS AVI > WinDV 1.2.3 > 
+      > Canopus Procoder 2 > Crop/Trim/Colour fix > 
+      > Encode @ VBR av. 7800 max 8000 min 7800, Stereo LPCM, 2 pass            
+      > m2v/wav > DVD Lab Pro 1.6 > authoring and menus
+      > Transcoded without reencoding > VOB
+
+Transfer: DVD(VOB) > KameMKV > LosslessCut > MKV
+
+Set List:
+----------
+01 ZTV Interview + Eternal Life / Kick Out The Jams excerpts
+
+From Torhout, it was over to the Festival's twin site at Werchter. Sadly, we do not have a complete recording of the show, either in audio or video form. What we do have is this low-gen clip, once again sourced from a compilation created by Buckley super-fan eclect, this time a compilation of TV appearances on European TV. It's not the greatest quality, but it's all we have. Enjoy it in the spirit in which it is offered.
+
+Files verified, tagged, and renamed to etree conventions; new checksums generated. 
+Text file updated, compiled & copy-edited by lovesick alien 2024-10-02
+--------------------------------------------------------------------------------
+Trade Freely. Never Sell. 
+Support the Artist: Purchase ALL authorised releases. 
+Support the Trading Community: Never Encode to lossy formats.
+--------------------------------------------------------------------------------

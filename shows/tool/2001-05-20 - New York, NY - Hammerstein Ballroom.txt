@@ -1,0 +1,13 @@
+Tool - 2001.05.20
+Hammerstein Ballroom - New York City, NY, USA
+version 3 
+
+media type: FLAC
+source: Sound Professionals Premium Slimline Binaurals > Sony MZ-R90 > unknown transfer > CDR > EAC > FLAC
+taper: ImpliedPresence 
+trade status: can trade
+
+disc 1 - 10 tracks - 65:01
+disc 2 - 7 tracks - 54:16
+
+notes: There is some skipping at the beginning of d1tr01 during the comedy sketch.

@@ -1,0 +1,16 @@
+Tool - 2007.05.15
+Desoto County Civic Center - Southaven, MS, US
+Version 2
+
+media type: FLAC
+source: sp-bmc-3 mics>bass rolloff 195hrzsp-bm6 batt box>sony mzrh-10minidiscHIMD hi-sp>sonicstage(transfer)>goldwave fade ins/outs mastering>cdwave>flac
+taper: garret
+trade status: can trade
+
+disc 1 - 7 tracks - 66:01
+disc 2 - 5 tracks - 55:05
+
+notes: none
+
+
+

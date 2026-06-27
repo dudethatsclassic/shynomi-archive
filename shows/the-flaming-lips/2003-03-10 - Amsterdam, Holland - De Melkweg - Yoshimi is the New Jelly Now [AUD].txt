@@ -1,0 +1,46 @@
+The Flaming Lips: "Yoshimi is the New Jelly Now"
+
+Live @ De Melkweg in Amsterdam (Holland) on 3-10-2003.
+
+1. intro
+2. tonight your life will change forever
+3. race for the prize
+4. fight test
+5. the gash
+6. yoshimi battles the pink robots
+7. lightning strikes the postman
+8. in the morning of the magicians
+9. happy birthday
+10. she don't use jelly
+11. all we have is now
+12. do you realize??
+13. waitin for a superman
+14. a spoonful weighs a ton
+15. audience cheering # 1
+16. audience cheering # 2
+17. what is the light?
+18. audience cheering # 3 / outtro
+
+------------------------------------------------------------------------------------------------
+
+Source: Master MiniDisc
+Recorded by: ?
+Recording Type: Audience Stealth.
+Recording Location: Directly center and in front of the soundboard (FOB).
+Recording Equipment: Core Sound Binaural Microphones (line-in to) > JVC XM-R70 minidisc recorder
+		     Recorded in Stereo and 16 bit / 44.1 Khz.
+
+Transfer Info: Line-out of MiniDisc to line-in of Sound Blaster Audigy 2 Platinum Ex (external) 
+> Sonic Foundary's Sound Forge 4.5e (.wav 16/44.1 Stereo)
+
+.Shn files created directly from .wav file (using MKW ACT 0.97 Beta 1). No digital audio extraction (DAE) from a CD-R performed!
+No normalization of the wav file either.
+
+Transferred by: Ryan Mulberger
+Contact: recruitingcommunists@hotmail.com
+
+Notes: The master minidsc was purchased by Bill Mayer (for $10!) and donated to Ryan Mulberger
+       for the "bootleg archive project."  There are brief moments which the volume of the show 
+       is too much for the microphones to haldle which causes distortion.  
+
+http://flaminglips.netfirms.com

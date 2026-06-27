@@ -1,0 +1,54 @@
+Tool
+Dallas,TX
+Bronco Bowl
+07 November 1996
+
+Recording info:
+Sonic Studios[DSM6S]mics>Sonic Studios[PA6LC3(-65)]>D7
+Taping Location: SEC L, ROW D, SEAT 16 (behind board, close to center)
+
+Transfer info:
+Master DAT(48)>Sony 59ES>HHB CDR-850 via digital coax>CDR>EAC[secure]>flac[Level 8]
+
+CMM-045 (Chris Milazzo Master)
+
+disc 1:
+01 [02:00] Intro
+02 [13:48] Third Eye
+03 [06:02] Stinkfist
+04 [06:42] Forty Six & 2
+05 [06:19] Prison Sex
+06 [09:52] Eulogy
+------------------------------
+TT [44:46]
+
+disc 2:
+01 [05:49] Jimmy
+02 [05:28] Cold & Ugly
+03 [10:15] Pushit
+04 [10:58] Sober
+05 [08:00] Opiate
+06 [07:12] Aenema
+----------------------------------
+TT [47:46]
+
+No remastering was done do this recording.  Track numbers were created manually through the HHB CDR-850 CD recorder so they may not be perfect.
+
+First Torrented September 10, 2006
+Seed #45 from my master DAT collection
+
+Fingerprints:
+d1:
+Track01.flac:42a9f1579b445aecfe07de2a2c9ebaab
+Track02.flac:e95056edbf0b4b5feb5cc63e7309a34c
+Track03.flac:4573205ed6afef1340171560e596f8d5
+Track04.flac:f7cf1499fa648d1cf005a891dadc42b6
+Track05.flac:34c2e423e5e4d074002da1047a833f31
+Track06.flac:b3f1b37d8c474a37758caf30aa38f2c8
+d2:
+Track01.flac:0527c3c30243f1dd6a646c269d7e8731
+Track02.flac:f9d648f0cadaf313ee697233d4836be5
+Track03.flac:3a7a7f61a83fcb360dba6b40b9d81d63
+Track04.flac:ee311391a870bb9a4bf19f8d3da5d2e1
+Track05.flac:5157ab7507b3dcd462d77c350c83ecdd
+Track06.flac:9510114742d1b3f188294681bdde49fc

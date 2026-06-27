@@ -1,0 +1,38 @@
+Death Cab For Cutie
+Asheville Civic Center
+Asheville, NC
+Wednesday October 6, 2004
+
+Taper:		George Wang <gewwang@yahoo.com> and Nick Gregory <ngregory@taperssection.com>
+Source:		DPA4022 > Sonosax SX-M2 > Audio Magic Hyper-Conductor > SBM-1 (Oade T-Mod)
+Location:	Sec MFL Row G Seat 2, 7th row 5 feet right of stage right stack
+
+DAT > FLAC:	D100 > Emagic Audiowerk2 > Dell Dimension 8200 >
+		Steinberg WaveLab v5.00a > CD-WAV > FLAC frontend v1.7.1 > .flac
+
+Disc One:
+
+01:	Gob Roberts Intro		-	01:00.000
+02:	Complain			-	02:41.000
+03:	Let's Have A War		-	02:28.666
+04:	?				-	04:34.333
+05:	Drugs Stink			-	03:09.000
+06:	?				-	02:42.000
+07:	?				-	03:17.866
+08:	?				-	05:05.133
+09:	Death Cab For Cutie Intro	-	00:30.000
+10:	Your Bruise			-	04:16.133
+11:	We Laugh Indoors		-	05:38.133
+12:	The New Year			-	03:52.600
+13:	Lowell, MA			-	03:56.133
+14:	Title And Registration		-	03:36.000
+15:	Amputations			-	05:24.443
+16:	I Was A Kaleidoscope		-	02:41.000
+17:	Prove My Hypotheses		-	05:02.930
+
+Total:					-	59:55.373
+
+Note:	t10 taped while walking from the stage left side of the arena
+	across to the stage right area
+
+compiled by George Wang on 10-21-2004

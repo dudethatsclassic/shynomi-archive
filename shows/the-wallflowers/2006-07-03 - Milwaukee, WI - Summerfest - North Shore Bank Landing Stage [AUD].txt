@@ -1,0 +1,38 @@
+The Wallflowers
+06 Jul 03
+Milwaukee, WI
+Summerfest - North Shore Bank Landing Stage
+
+    Taper: DK-WI
+ Location: FOB: 15-20' From Left Stack
+Recording: Oktava MK012s (Cardioid, In Hat, ~8' High) >
+           Ramtech FLEX2000 Mic Cables > Denecke PS-2 >
+           Audio-Technica CP8201 Line Transformers > 
+           Sony SBM-1 > Sony PCM-M1
+ Transfer: DAT-M in Seagate CTD8000HS > dat2wav 1.2 >
+           Sound Forge 4.5 > CDWav > FLAC
+
+NOTES:
+-Removed crowd noise between main set and encore to allow
+for a single 80minute CD-R.
+
+DO NOT ENCODE TO MP3 OR OTHER LOSSY FORMATS
+
+01 Three Marlenas 
+02 Everybody Out of the Water 
+03 Bleeders 
+04 How Good It Can Get 
+05 Three Ways 
+06 If You Never Got Sick 
+07 Heroes 
+08 Letters From the Wasteland 
+09 One Headlight 
+10 See You When I Get There 
+11 When You're On Top 
+12 Some Flowers Bloom Dead 
+13 Everything I Need 
+14 Sleepwalker 
+15 The Difference 
+Encore: 
+16 6th Avenue Heartache 
+17 Peace, Love, & Understanding 

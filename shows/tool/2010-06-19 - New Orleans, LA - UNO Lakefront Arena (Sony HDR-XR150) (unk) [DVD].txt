@@ -1,0 +1,47 @@
+Tool
+June 19th, 2010
+UNO Lakefront Arena
+New Orleans, LA, USA
+
+video source: Sony HDR-XR150 (16x9, internal hard drive) > USB > .m2ts 
+location: just left of center, a few rows from the back
+conversion to mpeg: TMPGEnc 4.0 XPress (convert to DVD standard mpeg file, NTSC, 16x9, VBR, LPCM, average video bitrate: 7500kb/s, maximum bitrate: 8000kb/s)
+DVD authoring: DVD Author Pro (menu creation, synced up external audio) > Dual Layer DVD files (6.40GB)
+
+
+audio source 1: dpa4061s > MMA6000 w/low cut @ 100hz > Microtrack 24/96 (24 Bit Wav@48Khz)
+Location: just left of center, a few rows from the back
+Transfer: MT > USB > WAV
+Taper: geordy
+
+audio source 2: Church Audio AT831 > 9v batt box > Edirol R-09 (WAV @ 24 bit, 48 kHz)
+Location: just left of center, a few rows from the back
+Transfer: SD card > card reader (USB) > WAV
+Taper: Adam
+
+Mastering (Adam): Wavlab 3.04 (EQ, dynamic compression, matrixing, convert to 16 bit, 48 kHz) > CD Wave Editor (track splits) > FLACfrontend
+Audio Notes (Adam): Final matrix is a 50/50 mix of the two sources.  No need to use my own DPA source as geordy's turned out quite well.  I like what the cardioid source adds to the midrange and highend of the overall mix.  Glad geordy talked me into making it to this show (my 42nd TOOL show) considering I had admittedly grown quite jaded with TOOL's live show over the past few years.  Also nice to finally strike one more song off of the list of TOOL songs I've never heard live (Intolerance). Enjoy!
+
+setlist:
+
+01. Third Eye (extended)
+02. Jambi
+03. Stinkfist (extended)
+04. Vicarious Intro
+05. Vicarious
+06. Eon Blue Apocalypse
+07. The Patient
+08. Intolerance (extended)
+09. Maynard's Dick tease
+10. Schism
+11. 46&2 intro
+12. 46&2
+13. -set break-
+14. Lateralus
+15. Ænema
+
+Video Notes (geordy): I missed the very, very beginning of the Timothy Leary intro and the first minute or so is jumpy as I got settled in, not to mention the shock of hearing Third Eye right off the bat.  Just a few security 'ducks' during the show, the worst of which was during Intolerance when someone below kept looking back in my direction.  The low battery light started blinking at the beginning of Ænema, luckily it held out to the end.  Yes, those are my sunglasses on a ledge at the bottom of the screen during parts of the show, I had no idea they were in the picture.  This was my second attempt at filming a tool show, first actually pulling it off.  This was filmed with an HD camera, I've talked to someone about authoring a blu-ray disc for me but I do not currently have the means to do so.  If you would be interested in trading for a copy on blu-ray, I am always interested in upgrades or any tool videos that I don't currently have.  I'm happy to finally be able to share this version for your viewing pleasure.  
+
+Copy the .md5 checksum to the root folder to verify contents.
+
+DO NOT SELL!!! 

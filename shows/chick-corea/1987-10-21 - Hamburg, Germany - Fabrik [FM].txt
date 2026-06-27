@@ -1,0 +1,24 @@
+Chick Corea Akoustic Band–
+Chick Corea (p), John Patitucci (b), Dave Weckl (dr).
+ 
+"Fabrik", Hamburg (Germany), October 21, 1987. (recorded at the "12. Jazzfestival Hamburg 1987")
+
+Three Quartets:
+1 Bessie's Blues 
+2 Summer Night
+3 Quartet No. 1
+4 Quartet No. 3
+5 Quartet No. 2 (part one)
+6 Quartet No. 2 (part two)
+7 Autumn Leaves
+8 La Fiesta
+
+90 minutes
+
+lineage: 
+
+recording: 
+FM (analog cable) >Telefunken HT 870 tuner >Telefunken HA 870 amplifier >Denon DR-M 24HX tape deck w/ Dolby C HXpro >Sony UX-S cassettes
+
+transfer (June 2011): 
+Denon DR-M 24HX >Denon PMA-425R amplifier >Asus Xonar DG 5.1 PCI soundcard >WaveLab Lite >harddisk >.wav >FLAC level 8 

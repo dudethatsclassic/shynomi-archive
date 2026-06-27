@@ -1,0 +1,47 @@
+FlamingLips
+2004-5-2
+Coachella.DPAs.flacf.torrent
+
+Source: Master Audience DAT  (DPA 4060's > Sony PCM-1)
+Lineage:Sony PCM-1 > Tascam CD-RW 700 (7Pin Digi > Coax In) > 
+CD > Peak 3.21 on G4 PowerBook (Extraction). 
+xACT 1.2 (Verify SBE OK, generate .md5, compress to flac, 
+generate fingerprint, and verify). Seeded via BitTorrent 3.3a 
+
+Taped, Transfered and Seeded by: SBDJohnny/BoldCaptain
+ 
+File Size: 510.2MB (FLAC) 
+
+Flaming Lips Setlist 
+
+01.Introduction (talk) 2:14.41
+02.The Bubble (talk) 2:47.48
+03.??? (music) 3:04.08
+04.The Dream (talk) 0:59.53
+05.Intro> (O Fortuna) 1:23.72
+06.Race for the Prize 6:22.04
+07.Fight Test 7:03.67
+08.The Gash 5:26.34
+09.Yoshimi Battles the Pink Robots (part 1.) 9:14.55
+10.Happy Birthday (To Beck & Marissa's unborn child) 2:29.57
+
+Total: 41:06.64
+
+Flaming Lips Fingerprint:
+FlamingLips2004-5-2\ DPAsT01.flac: 879ab8cbbdbfd348ad18ed58ea478497
+FlamingLips2004-5-2\ DPAsT02.flac: 7ad97eefa9dad764919f75a26bafa5ae
+FlamingLips2004-5-2\ DPAsT03.flac: 50a68ee6407767a5eea50a74364a84ed
+FlamingLips2004-5-2\ DPAsT04.flac: 9ef536cead546b74e64d71d01d704fad
+FlamingLips2004-5-2\ DPAsT05.flac: 165357267c1f09f11738e820a7c3206c
+FlamingLips2004-5-2\ DPAsT06.flac: 5754cfbba4dbbbdc74d7e990c1b03e34
+FlamingLips2004-5-2\ DPAsT07.flac: da22682b34def9c06e5bfffdfea5dcec
+FlamingLips2004-5-2\ DPAsT08.flac: f21fd1ea16de55c9a4f15357e78d7876
+FlamingLips2004-5-2\ DPAsT09.flac: 40786d8165ada991c47118f215efab59
+FlamingLips2004-5-2\ DPAsT10.flac: 0faf8af942f6fe30f2a4b6d7d855e9da
+
+ 
+Notes: As the sun slowly drifted behind the San Jacinto mountains, the temperature cooled and so did the crowd. The atmosphere could not have been better for Air to take the stage. Soft and subdued, this French combo laid down the perfect groove, making excellent use of the abundant P.A. The set was clean and tight, and provided a much needed recharge of the batteries. (Well played, sounds beautiful. 4/5). But that extra energy stored up came to the top when Wayne Coyne of the Flaming Lips came down from space in a huge bubble. Theatrics like this might sink or swim, and without time to rehearse, could become serious trouble for the artist or the audience. But right time, right place, these guys pulled it off and the crowd ate it up. I was only slightly familiar with these guys work, but now they are one of my faves. (Neo-Psychedelic) rock at its peak here, played to perfection. The only imperfection here is the over exuberant crowd, and that just doesn't translate well to tape, hence a 3/5 rating. Hopefully something better comes around. 
+This was taped left side of security fence half way between stage and soundboard, mics in hat. 
+Go, Johnny, Go...
+
+

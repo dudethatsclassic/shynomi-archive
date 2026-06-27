@@ -1,0 +1,67 @@
+Tool
+February 23, 1994
+The Concert Hall
+Toronto, ON, Canada
+
+Source: ECM909 > Sony Recording Walkman > Maxell XL II 90 Cass(m)
+Transfer: Yamaha KX-650 3-Motor/3-Head Closed Loop Dual Capstan Cassette Deck > Hosa Cables > EMU0404 > CEP2.1 (recording, cutting, no fx) > FLAC (level 8, verify enabled)
+Taper: Andymon
+Transfer: Five
+
+01. Intro
+02. Cold and Ugly
+03. Intolerance
+04. Undertow
+05. Sober
+06. Prison Sex
+07. Sweat
+08. 4°
+09. Opiate
+10. Flood
+encore
+11. Flight Of The Gay Sausage
+12. Swamp Song
+13. Jerk-Off
+
+Notes: This is a new transfer from cass(m) done 2006-03-19. Tape flip at the end of t06.
+
+There are two other sources for this show in circulation that I am aware of. Both are generated, processed, missing 10+ minutes of the introduction and ultimately sourced from this cassette master.
+
+I would rate the sound quality as B. What is particularly interesting and unique about this tape is that it includes most if not almost all of the bizarre tape the band played before hitting the stage.
+
+http://www.collectiveunconscious.org/94toronto0223.html
+
+****************************
+NOT FOR SALE!!! TRADE ONLY!!
+MP3 ONLY FOR PERSONAL USE!!!
+****************************
+
+0afaedc057f8eab28c3ea6e12775c2ad  [shntool]  tool1994-02-23t01.flac
+16d74d38fb8bbcb7d4386d6d8005fd7d  [shntool]  tool1994-02-23t02.flac
+ba0f1b5f186b65eb4995e24825670cc1  [shntool]  tool1994-02-23t03.flac
+6457a2422a523ce2d6decce0af8426fb  [shntool]  tool1994-02-23t04.flac
+80f69cbeb6b5d6e27ff176d7c954aca4  [shntool]  tool1994-02-23t05.flac
+b3d937be5d17ebfae926a53cf772bb74  [shntool]  tool1994-02-23t06.flac
+8d827fdfb6ca9748f9316285b9376a81  [shntool]  tool1994-02-23t07.flac
+ac9938afb44c5bddd0da0ec7aff5050f  [shntool]  tool1994-02-23t08.flac
+9b9f27fecf3349ca7fa60c14bbaa9e6b  [shntool]  tool1994-02-23t09.flac
+6852617a2b56e3db928fd1c106941110  [shntool]  tool1994-02-23t10.flac
+bda86c94ab68134d8f71b676eefb5709  [shntool]  tool1994-02-23t11.flac
+f91c05d5b3d76afcc20428fa33fd9ef8  [shntool]  tool1994-02-23t12.flac
+0e5cbf56783752f4adfa04821e17e693  [shntool]  tool1994-02-23t13.flac
+
+    length     expanded size   cdr  WAVE problems filename
+    12:05.63      128038220    ---   --   ---xx   tool1994-02-23t01.flac
+     5:20.13       56478620    ---   --   ---xx   tool1994-02-23t02.flac
+     6:02.29       63925052    ---   --   ---xx   tool1994-02-23t03.flac
+     6:22.42       67483628    ---   --   ---xx   tool1994-02-23t04.flac
+     6:24.17       67777628    ---   --   ---xx   tool1994-02-23t05.flac
+     5:57.53       63099500    ---   --   ---xx   tool1994-02-23t06.flac
+     5:37.13       59477420    ---   --   ---xx   tool1994-02-23t07.flac
+     6:51.36       72585116    ---   --   ---xx   tool1994-02-23t08.flac
+     6:13.64       65947772    ---   --   ---xx   tool1994-02-23t09.flac
+     4:50.59       51294812    ---   --   ---xx   tool1994-02-23t10.flac
+     1:49.52       19349948    ---   --   ---xx   tool1994-02-23t11.flac
+     6:03.48       64146140    ---   --   ---xx   tool1994-02-23t12.flac
+     5:09.26       54568796    ---   --   ---xx   tool1994-02-23t13.flac
+    78:48.65      834172652 B                     (totals for 13 files, 0.6198 overall compression ratio)

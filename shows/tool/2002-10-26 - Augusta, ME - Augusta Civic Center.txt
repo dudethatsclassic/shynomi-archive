@@ -1,0 +1,60 @@
+Tool
+2002.10.26
+Augusta Civic Center
+Augusta ME
+
+new to circulation November 2022
+contrast clause: different source than http://www.dimeadozen.org/torrents-details.php?id=739097
+
+this is the fourth audio source of this show, see below links
+https://tooldriveproject.net/Details/?ID=1209
+https://tooldriveproject.net/Details/?ID=1206
+https://tooldriveproject.net/Details/?ID=1210
+
+Unknown Cassette > CDR > fre:ac > WAV (44/16) > xAct > flac
+
+01:31:25
+487 MB
+
+Setlist
+
+01 - Sober (cut)
+02 - The Grudge
+03 - Stinkfist
+04 - H.
+05 - Schism
+06 - Parabol/Parabola
+07 - Aenema
+08 - Disposition
+09 - Reflection
+10 - Triad
+11 - Lateralus (cut)
+
+
+Notes:
+This recording is courtesy of a couple friends from high school. One guy worked at the Augusta Civic Center, and he brought this huge, old cassette recorder with him to work that day and handed it off to another guy at the show. This thing seemed old and huge in 2002. The second guy had it sitting across his lap during the show. He was sitting near the left stacks I believe (I was on the floor). After the show while waiting for the parking lot to clear out, we put the tape in someone's car and listened to it. I do not know anything about the recorder or the transfer to CD. The guy who recorded and transferred the show made CDRs for everyone in the friend group. Only a handful of people who went to the same rural high school in Maine have had this recording before November 2022. 
+
+Tuva is missing 
+Sober is cut, only has about last minute and a half
+Intermission between Aenema and Disposition is completely cut
+Lateralus is cut about six and a half minutes in
+
+
+tool.20021026.augustame.tr01.sober.flac:914e81342f882432e5aec0f316434acd
+tool.20021026.augustame.tr02.thegrudge.flac:e469329b6ba8b7e503e68bc71ca28037
+tool.20021026.augustame.tr03.stinkfist.flac:7b5c5a6b9429ddaf8e7c6837b99f27c9
+tool.20021026.augustame.tr04.h.flac:b831e63c1022c25648febcbecc3b2d59
+tool.20021026.augustame.tr05.schism.flac:a0abeaf7799256253c60100d4673b6dd
+tool.20021026.augustame.tr06.parabolparabola.flac:9d9fe5f2546baee46633981296938635
+tool.20021026.augustame.tr07.aenema.flac:eabd76ae4c588d3bdc83b724e66c4b91
+tool.20021026.augustame.tr08.disposition.flac:6533202527da498afa59445fc1d05f51
+tool.20021026.augustame.tr09.reflection.flac:dc89b62c87ca8699f8218da52c910e19
+tool.20021026.augustame.tr10.triad.flac:62bf8ace1c0e690adb4c057bdca9aea5
+tool.20021026.augustame.tr11.lateralus.flac:f6dab3393a24f31db62124bebed63adb
+
+
+do not convert to lossy
+do not sell
+trade freely
+
+skullrose 2022/11/16

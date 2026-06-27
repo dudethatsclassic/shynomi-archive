@@ -1,0 +1,24 @@
+b1c2d732bdfbe4cb206edc5286511dc7  [shntool]  01 Saturday Morning.flac
+cc2f2cc31e6fb02b025e5ac3083bea6e  [shntool]  02 Dolphin Field.flac
+e9f1edc7cce8dd6e00835cc9fa4a672b  [shntool]  03 Rabbit Romp.flac
+c4de91a2d70eeef80ead30cbf92216c8  [shntool]  04 Rodeo.flac
+cb845e38ba4a9e3f9aa26c221194d420  [shntool]  05 Cutting Up.flac
+ec8f0c943d44dd8a932b775cd887b50e  [shntool]  06 Big House.flac
+02c510dc9e604ef75dbb8d73cce7ec5c  [shntool]  07 Fetus in Pus Sauce.flac
+5cb0e82e1f8c8e7f7b408bedc5f6056f  [shntool]  08 Outdoor Miner.flac
+f5d041ae8a920bac0b12c2b06101efb3  [shntool]  09 H-Elenore.flac
+3849990bd59cf891351ebe5c22f0c15d  [shntool]  10 Eat Your Dinner.flac
+c83de21ebc496319c5dbef4576d29f36  [shntool]  11 Casey Jones.flac
+6fac9dc9e98d8e19c879fd3bf0e66658  [shntool]  12 Neutral.flac
+51f202a6f3d3536f2ef84845433553f9  [shntool]  13 The Gold Mine.flac
+db00a8b90e487ba6e9cfeed3f4edae23  [shntool]  14 Submarine Races.flac
+7a10e0d1edc6a201f991be607c88455d  [shntool]  15 Chemicals Baby.flac
+cfaa03df376392c0b0727a28107c90e8  [shntool]  16 In a Car.flac
+ea2031ec0b19b015a3eaeee7df3d2962  [shntool]  17 Foreign Lawns.flac
+99063c2339063d8d78342e0b764e0544  [shntool]  18 Natural's Not In It.flac
+015890f20049c72dbe226f18e52f8032  [shntool]  19 Meat Puppets.flac
+8f88658b5a620ca57e62ef26dd5ed47f  [shntool]  20 Opium for the People.flac
+dd4906357639df95addecc69299848fd  [shntool]  21 Punkmobile.flac
+d601b0d25170acd979f63a347aa8f276  [shntool]  22 See Her Tonight.flac
+c289f902243fc7a0ddcb933ceb2724ad  [shntool]  23 Noise.flac
+fb42b4bc6c8d7fab9959234bc6da02e8  [shntool]  24 After Show.flac

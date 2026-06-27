@@ -1,0 +1,44 @@
+Death Cab For Cutie
+September 23, 2005
+Cingular Stage - ACL Festival
+Zilker Park
+Austin TX
+
+*** THIS IS A 16-BIT FILESET INTENDED FOR AUDIO CD ***
+
+SOURCE (cqbert): Neumann U89 (hyper, vertical XY) > sound devices 722 (24/96)
+PROCESSING (pedro): soundforge 8.0 (resample, dither, +3 dB vol, tracking, fades) > flac 1.1.2
+
+01  intro
+02  Marching Bands Of Manhattan
+03  We Laugh Indoors
+04  The New Year
+05  Title And Registration
+06  Soul Meets Body
+07  Summer Skin
+08  President of What?
+09  A Movie Script Ending
+10  Crooked Teeth
+11  Different Names For The Same Thing
+12  Company Calls
+13  I Was A Kaleidoscope
+14  The Sound Of Settling 
+15  Proving My Hypothesis
+
+    length     expanded size   cdr  WAVE  probs   filename
+     0:43.13       7615820     ---   --    -xx    dcfc2005-09-24_u89_d1t01.flac
+     4:17.03      45341900     ---   --    -xx    dcfc2005-09-24_u89_d1t02.flac
+     5:24.38      57243020     ---   --    -xx    dcfc2005-09-24_u89_d1t03.flac
+     4:05.01      43220396     ---   --    -xx    dcfc2005-09-24_u89_d1t04.flac
+     3:59.51      42279596     ---   --    -xx    dcfc2005-09-24_u89_d1t05.flac
+     4:10.37      44187068     ---   --    -xx    dcfc2005-09-24_u89_d1t06.flac
+     3:21.39      35548172     ---   --    -xx    dcfc2005-09-24_u89_d1t07.flac
+     3:59.56      42291356     ---   --    -xx    dcfc2005-09-24_u89_d1t08.flac
+     4:21.26      46101596     ---   --    -xx    dcfc2005-09-24_u89_d1t09.flac
+     3:37.16      38316476     ---   --    -xx    dcfc2005-09-24_u89_d1t10.flac
+     5:17.35      56001164     ---   --    -xx    dcfc2005-09-24_u89_d1t11.flac
+     3:36.46      38210636     ---   --    -xx    dcfc2005-09-24_u89_d1t12.flac
+     3:06.44      32913932     ---   --    -xx    dcfc2005-09-24_u89_d1t13.flac
+     2:04.68      22033580     ---   --    -xx    dcfc2005-09-24_u89_d1t14.flac
+     6:28.47      68553788     ---   --    -xx    dcfc2005-09-24_u89_d1t15.flac
+    58:33.70     619858500 B                      (totals for 15 files, 0.5444 overall compression ratio)

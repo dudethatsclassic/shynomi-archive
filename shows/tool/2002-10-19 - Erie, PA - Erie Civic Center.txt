@@ -1,0 +1,27 @@
+Tool
+2002-10-19
+Erie, PA
+Erie Civic Center
+
+Taper: Mike M
+Source: Sound Professionals Premium Slimline Cardioids > Sony TCD-D8/48
+Transfer: 2G DAT > Tascam DA-30 (SPDIF out) > M-Audio Audiophile 2496 (SPDIF in) > Sound Forge 7.0 (fades) > CD Wave (tracking) > .WAV > .FLAC (level 8) @ 48 kHz
+Notes: Transferred and tracked on 11-13-05 by Distortion. Must be downsampled to 44.1 to burn to CD.
+
+Setlist:
+Soundscape intro
+Tuvan intro
+Cold & Ugly
+The Grudge
+(-) ions
+Stinkfist
+4°
+Schism w/ extended intro
+Parabol
+Parabola
+Opiate
+intermission
+Disposition
+Reflection
+Triad
+Lateralus

@@ -1,0 +1,49 @@
+Tool
+Friday, March 7th, 2014
+Matthew Knight Arena
+1776 E 13th Avenue
+Eugene, OR, USA
+
+Taper:  LeifH
+Audio:  CA-11 (cardioid) > CA-Bat2B > Sony PCM M10 @ 24/48 > Duracell 8GB microSD card
+Video:  Panasonic SDR-S7 [XP mode] > Kingston 16GB SD card
+Synch & Author:  Memory cards > PC via USB > Videopad > Panasonic Motion SD Studio > DVD9
+
+Setlist:  1:45:34
+intro
+Hooker with a Penis
+Forty-Six & 2
+Schism
+Pushit
+Intension
+Lateralus
+B'Boom
+Jambi
+Opiate
+Ænema
+Stinkfist
+
+codec info:
+-4:3 NTSC
+-29.97 frames/second
+-7589 kb/s
+-LPCM Audio
+
+Third show of the tour, last one for me, my 6th time seeing them.  I enjoyed the time I spent in Eugene much more than Portland.  Matthew Knight Arena is smaller than the other hockey rinks, which I was pleased to see once I got inside.  Its a similar shape as the Bill Graham Civic Auditorium, which meant less zoom and I think the video is nicer than Portland.  I had a ticket in 108, directly behind the soundboard and a few rows up, near the aisle.  This made for a pretty good filming seat, and for most of the show, security was more concerned about drunks than they were pictures/video.  
+
+I guessed that this setlist would be the same of Spokane, but I was surprised by hearing Forty-Six & 2 second in line.  During Pushit, some big dumb drunk was disturbing others' enjoyment a couple rows in front of me.  It took security a while to finally make him leave, which meant lowering my camera while they got the situation under control.  He literally cried like a girl (you can't hear it thankfully).  Everything else in the setlist was the same, so I figured they'd just swapped spots with Vicarious.  I was pleased when I heard those opening harmonic notes for Opiate.  The whole building instantly became more energized.  The breakdown jam they did was magic.  You could tell the band definitely was having fun with that one.  Did not expect to hear them play that.  A really young security kid busted me for taking video after Opiate by shining his flashlight at me a couple times.  I waited until he walked back upstairs and continued to shoot for a bit, then he came back and yelled, "Hey!" so basically most of Ænema is black and Stinkfist is all black.  Overall I think this video turned out better than Portland, more steady and better behaved audience.  I was pretty fried x2 so its amazing that it exists.
+
+After the show there was a busker on the street corner hitting pails and stuff with drum sticks.  I've seen better but it was fun and I watched him make over $100 in 10 minutes.  Some kid started break dancing to the percussion, people were saying he was pretty good.  Then some fat, sweaty, drunk Tool fans started trying to do 'the worm.'  Now that was funny.  I was staying right across the street, so I hung out for a bit and shared a few laughs.  It wasn't that good, but everyone was buzzed from the show so it was great.  
+
+checksum:
+5e0bf0a8e5bdebc20f47206dcef41deb *VIDEO_TS.BUP
+5e0bf0a8e5bdebc20f47206dcef41deb *VIDEO_TS.IFO
+306d3921cfa1659d548792d5d5753718 *VIDEO_TS.VOB
+fb56e84bb7aef342e438d04296364828 *VTS_01_0.BUP
+fb56e84bb7aef342e438d04296364828 *VTS_01_0.IFO
+f456246174cad899866531ec4db84998 *VTS_01_1.VOB
+62d12c30b8a4be9de48b70e1164178bc *VTS_01_2.VOB
+4d651ca6611c1e17816a1a9a01f64ab7 *VTS_01_3.VOB
+ec1eba4257bd736a4776679cd07977ff *VTS_01_4.VOB
+c43fdf0acfc7c1cf32e0ad8f4a420cbe *VTS_01_5.VOB
+3ffe4c8aeb152f40a51f7cb171c6357f *VTS_01_6.VOB

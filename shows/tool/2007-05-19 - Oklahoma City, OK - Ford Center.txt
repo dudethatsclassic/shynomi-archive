@@ -1,0 +1,14 @@
+Tool - 2007.05.19
+Ford Center - Oklahoma City, Oklahoma
+
+media type: FLAC *24bit*
+source: SP-CMC-8> SP-SPSB-1 (w/bass roll-off) set @107Hz> Edirol R-09 (line in, 24bit/48KHz wav} 
+
+transfer: Edirol R-09>USB>CD Wave (tracked)@24bit>Satan's Little Helper>FLAC fronted @ 8
+
+location: two and a half sections back on the left side...in the isle, mics in hat
+taper: Lon Moss
+trade status: can trade
+
+disc 1 - 5 tracks	51:48
+disc 2 - 4 tracks	54:21

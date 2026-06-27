@@ -1,0 +1,30 @@
+Tool - 2020.02.01
+Smoothie King Center - New Orleans, LA
+
+source: DPA 4061's > Core Sound Battery Box > Tascam DR-2D (@24/96)
+location: Section FLR B, Row 19, Seat 12
+transfer: Tascam DR-2D > WAV > WaveLab > Adobe Audition > FLAC
+modifications: magik
+taper: Adam Lancaster
+
+Setlist - 20 tracks - 131:20
+1. intro [0:46]
+2. Fear Inoculum [11:23]
+3. Ænema [6:52]
+4. soundscape [2:13]
+5. Parabol [3:08]
+6. Parabola [7:20]
+7. Pneuma [13:25]
+8. Schism [8:31]
+9. Jambi [8:02]
+10. Merkaba [3:35]
+11. Vicarious [8:52]
+12. Intolerance [4:28]
+13. Forty Six & 2 [5:58]
+14. intermission [13:57]
+15. Danny gong solo [2:43]
+16. Chocolate Chip Trip [7:49]
+17. Invincible [12:49]
+18. (-) Ions [0:23]
+19. Stinkfist [6:46]
+20. outro [2:20]

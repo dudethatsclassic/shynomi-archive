@@ -1,0 +1,60 @@
+TOOL
+====
+February 27, 1997
+Convention Hall
+Asbury Park, NJ USA
+
+Audience Master > DVD > Demux > Audio edit > Authoring > DVD
+
+NTSC - 4:3 - 720x480 - 7900-8100 KB/s
+Stereo PCM - 1536 kb/s
+
+TRACKS
+------
+-intro-
+Third Eye
+Stinkfist
+Forty Six & 2
+Intolerance
+Eulogy
+Prison Sex
+H.
+Sober
+Opiate
+Ænema
+
+VIDEO
+-----
+Sony TR-71 camera
+Transfer: Sony GV-D200 > firewire > Premiere Pro CS3 > TMPGEnc Authoring Works 4
+Taper: rcsguy664
+
+AUDIO
+-----
+Coresound Omni's > modified battery box > Sony TCD-D8(Line in) > Master DAT > M-Audiophile 24/96 >Amadeus Pro > Xact > FLAC
+Taper: Jeffrey S.
+-----------------
+ORIGINAL NOTES:
+
+Pretty steady. Minor head obstruction in the very beginning 
+then clear shot for the rest except when I had to stand to clear people during Sober.
+
+Finally got this project completed Feb 16, 2011. This will be an upgrade
+to any previously circulated versions (stand alone player in SP mode). 
+Direct off my 8mm master. I've been told there are several dat dubbed
+versions out there people created. Please replace with this final one.
+The DAT audio stays perfectly in sync since the transfer was done via
+firewire.
+----------------------
+*2024 NOTES*
+Amazing video quality.
+Watching this, I noticed sync problems all allong the show, which has been fixed with the remastered audio (sync, eq, levels adjustments)
+No disrepect at all to the tapers.
+Just wanted to make the best possible of the available sources.
+
+Thanks to rcsguy664 & Jeffrey S. for recording and sharing.
+
+Audio remaster, sync & authorng by Alvarojam
+January 8, 2024.
+
+

@@ -1,0 +1,15 @@
+Tool - 2002.07.21
+Pepsi Center - Dever, CO, USA
+version 3
+
+media type: FLAC
+source: Assisted Listening Device > unknown DAT + MBHO ka200n > MBHO Actives > JK Labs DVC V-12 > Sony PCM-M1 > FLAC
+taper: unknown
+trade status: Can Trade.
+
+disc 1 - 12 tracks - 76:30
+disc 2 - 5 tracks - 42:11
+
+notes: This is a matrix of version 1 and version 2. BLG did a great job of 
+mixing these together.
+

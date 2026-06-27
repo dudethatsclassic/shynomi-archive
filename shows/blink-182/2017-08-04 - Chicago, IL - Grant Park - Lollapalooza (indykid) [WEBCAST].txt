@@ -1,0 +1,101 @@
+blink-182
+Lollapalooza
+Bud Light Stage
+Grant Park
+Chicago, Illinois
+August 4, 2017
+
+Lineage: LIVE Webcast -> Livestreamer -> FFmpeg (edit) -> uncompressed .ts
+Video: MPEG4 Video (H264) 1920x1080 4840 Kbps 30.00 fps
+Audio: AAC 128 Kbps 48.0 KHz stereo
+
+Setlist:
+The Rock Show
+Cynical
+Anthem Part Two
+What's My Age Again?
+First Date
+Bored to Death
+Built This Pool
+Down
+I Miss You
+Dumpweed
+Reckless Abandon
+She's Out of Her Mind
+Kings of the Weekend
+Violence
+Sober
+Happy Holidays, You Bastard
+Dysentery Gary
+Los Angeles
+All the Small Things
+Brohemian Rhapsody
+Dammit
+
+TRT = 01:07:03
+
+Note: This is a perfect capture of the webcast. Any imperfections, if present, were inherent in the broadcast.
+
+Captured and uploaded to DIME by indykid. 
+
+MediaInfo:
+General
+ID                          : 1 (0x1)
+Complete name               : blink-182 - 2017-08-04 Lollapalooza, Chicago, IL [1080p].ts
+Format                      : MPEG-TS
+File size                   : 2.33 GiB
+Duration                    : 1 h 7 min
+Overall bit rate mode       : Variable
+Overall bit rate            : 4 969 kb/s
+
+Video
+ID                          : 256 (0x100)
+Menu ID                     : 1 (0x1)
+Format                      : AVC
+Format/Info                 : Advanced Video Codec
+Format profile              : High@L4
+Format settings, CABAC      : Yes
+Format settings, ReFrames   : 1 frame
+Codec ID                    : 27
+Duration                    : 1 h 7 min
+Width                       : 1 920 pixels
+Height                      : 1 080 pixels
+Display aspect ratio        : 16:9
+Frame rate mode             : Variable
+Color space                 : YUV
+Chroma subsampling          : 4:2:0
+Bit depth                   : 8 bits
+Scan type                   : Progressive
+Color range                 : Limited
+Color primaries             : BT.709
+Transfer characteristics    : BT.709
+Matrix coefficients         : BT.709
+
+Audio
+ID                          : 257 (0x101)
+Menu ID                     : 1 (0x1)
+Format                      : AAC
+Format/Info                 : Advanced Audio Codec
+Format version              : Version 4
+Format profile              : LC
+Muxing mode                 : ADTS
+Codec ID                    : 15
+Duration                    : 1 h 7 min
+Bit rate mode               : Variable
+Channel(s)                  : 2 channels
+Channel positions           : Front: L R
+Sampling rate               : 48.0 kHz
+Frame rate                  : 46.875 FPS (1024 spf)
+Compression mode            : Lossy
+Delay relative to video     : -2 s 3 ms
+
+Menu
+ID                          : 4096 (0x1000)
+Menu ID                     : 1 (0x1)
+Duration                    : 1 h 7 min
+List                        : 256 (0x100) (AVC) / 257 (0x101) (AAC)
+Service name                : Service01
+Service provider            : FFmpeg
+Service type                : digital television
+
+Captured and uploaded to DIME by indykid.

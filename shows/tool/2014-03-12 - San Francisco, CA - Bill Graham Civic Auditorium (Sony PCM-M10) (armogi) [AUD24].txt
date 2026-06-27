@@ -1,0 +1,11 @@
+Tool - 2014.03.12
+Bill Graham Civic Auditorium - San Francisco, CA, USA
+Version 2
+
+media type: FLAC
+source:  Sony PCM-M10 internal mics > Sony PCM-M10 > WAV > FLAC
+taper: armogi
+
+disc 1 - 12 tracks - 95:46
+
+notes: internal mics were used, sound is overloaded.  Thanks to the taper for sharing anyways!

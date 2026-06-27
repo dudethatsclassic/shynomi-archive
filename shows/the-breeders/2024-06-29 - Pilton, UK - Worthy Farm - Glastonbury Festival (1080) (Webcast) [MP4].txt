@@ -1,0 +1,83 @@
+The Breeders
+
+Park Stage
+Glastonbury Festival
+Worthy Farm
+Pilton
+UK
+
+Saturday 29th June 2024
+
+BBC iPlayer archive stream > get_iplayer > .mp4
+https://www.bbc.co.uk/iplayer/episode/p0j2p1vd/glastonbury-the-breeders
+
+Saints
+Wait in the Car
+Doe
+Invisible Man
+Safari
+When I Was a Painter
+Disobedience
+Hag
+Opened
+New Year
+Cannonball
+Drivin' on 9
+I Just Wanna Get Along
+Do You Love Me Now?
+No Aloha
+Divine Hammer
+Gigantic [Pixies]
+Iris 
+
+Running time [57:06]
+
+ID                                       : 1
+Format                                   : AVC
+Format/Info                              : Advanced Video Codec
+Format profile                           : High@L4.2
+Format settings                          : CABAC / 4 Ref Frames
+Format settings, CABAC                   : Yes
+Format settings, Reference frames        : 4 frames
+Codec ID                                 : avc3
+Codec ID/Info                            : Advanced Video Coding
+Duration                                 : 57 min 6 s
+Bit rate mode                            : Variable
+Bit rate                                 : 10.8 Mb/s
+Maximum bit rate                         : 12.0 Mb/s
+Width                                    : 1 920 pixels
+Height                                   : 1 080 pixels
+Display aspect ratio                     : 16:9
+Frame rate mode                          : Constant
+Frame rate                               : 50.000 FPS
+Color space                              : YUV
+Chroma subsampling                       : 4:2:0
+Bit depth                                : 8 bits
+Scan type                                : Progressive
+Bits/(Pixel*Frame)                       : 0.104
+Stream size                              : 4.30 GiB (99%)
+Color range                              : Limited
+Color primaries                          : BT.709
+Transfer characteristics                 : BT.709
+Matrix coefficients                      : BT.709
+Codec configuration box                  : avcC
+
+ID                                       : 2
+Format                                   : AAC LC
+Format/Info                              : Advanced Audio Codec Low Complexity
+Codec ID                                 : mp4a-40-2
+Duration                                 : 57 min 6 s
+Bit rate mode                            : Constant
+Bit rate                                 : 128 kb/s
+Channel(s)                               : 2 channels
+Channel layout                           : L R
+Sampling rate                            : 48.0 kHz
+Frame rate                               : 46.875 FPS (1024 SPF)
+Compression mode                         : Lossy
+Stream size                              : 52.3 MiB (1%)
+Language                                 : English
+Default                                  : Yes
+Alternate group                          : 1
+
+auto_pilot
+June 2024

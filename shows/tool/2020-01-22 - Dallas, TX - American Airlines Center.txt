@@ -1,0 +1,46 @@
+Tool
+Fear Inconulum Tour 2020
+Dallas, TX
+American Airlines Center
+January 22, 2020 
+8:40PM
+
+Source:  Sony ECM-717 > Roland R-07 (24/48)
+Location:  sec 312
+Transfer:  SD Card > Adobe Audition 1.5 (dEdit) > r8brain 1.9 (dither@vhq) > CDWave 1.98 > TLH (flac8)
+
+
+Tracks:
+
+Set One:
+01:  -crowd/intro-
+02:  Fear Inoculum
+03:  Ænema
+04:  Parabol >
+05:  Parabola
+06:  Pneuma
+07:  Schism
+08:  Jambi
+09:  Merkaba >
+10:  Vicarious
+11:  -sperm puzzle-
+12:  Part of Me
+13:  Forty-Six & 2
+14:  -crowd outro-
+
+
+Set Two:
+01:  -intro/crowd-
+02:  Chocolate Chip Trip
+03:  Invincible
+04:  (-)Ions >
+05:  Stinkfist
+06:  -crowd/Always Look on the Bright Side of Life outro-
+
+Total Time:  119:29.14
+
+
+dEdits-
+
+Set 1 - declip, boost left channel 4db, fades
+Set 2 - boost left channel 4.5db, fades

@@ -1,0 +1,18 @@
+Tool
+1993-07-31
+Houston, TX
+Houston Raceway Park
+
+Source: Soundboard
+Transfer: ASBM > DDC2 32khz > CDR > EAC (Secure Mode) > CDWave (tracking) > .WAV > .FLAC
+Generation: 3rd
+Notes: *Layne Staley of Alice in Chains on guest vocals.
+
+Setlist:
+01 - Cold & Ugly - 5:51
+02 - Intolerance - 5:05
+03 - Sober - 5:28
+04 - Prison Sex - 5:20
+05 - Opiate - 5:46*
+06 - Flood - 4:15
+07 - Jerk-Off - 4:13

@@ -1,0 +1,13 @@
+Tool - 2002.10.16
+Kemper Arena - Kansas City, MO, USA
+
+media type: FLAC 
+source: Core Sound Binaurals > Sony PCM-M1 > DAT Master > Sony MZ-r700 > MD Master > Sound Forge 6.0 > WAV > 1st Gen CDR > EAC > FLAC Frontend Level 5
+taper: unknown
+trade status: can trade
+
+disc 1 - 12 tracks - 79:02 
+disc 2 - 5 tracks - 42:08
+
+notes: Source info is a bit strange on this one. Apparently, this was originally recorded by the taper Sony PCM-M1. The video filmer of the show, Kukykrope, knew the audio taper and managed to get a copy of this source. Unfortunately, Kukyfrope did not know exactly how to clone it as he had no DAT recorder, only a MD recorder. So, the taper let him put his master onto the MD. I hope that at some point, this will have a clean transfer to CD without the MD source. 
+

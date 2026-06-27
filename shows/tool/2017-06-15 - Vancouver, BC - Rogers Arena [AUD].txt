@@ -1,0 +1,50 @@
+Tool
+Thursday June 15th, 2017
+Rogers Arena
+800 Griffiths Way
+Vancouver, BC
+
+Taped using gear borrowed from LeifH
+Source:  CSB (filter) > Zoom H1 @ 24/48 > Duracell 8GB microSD card
+Transfer:  Memory card > PC via USB > Wavepad Masters Edition (edits, amplify, tracking, 16/44.1) > flac (8) via Frontend
+
+Setlist:  1:47:01
+00 intro
+01 The Grudge
+02 Parabol
+03 Parabola
+04 Schism 
+05 Opiate
+06 Ænema
+07 Descending
+08 Jambi
+09 Third Eye
+10 Forty-Six & 2
+--intermission--
+11 Drums and Synth
+12 The Pot
+13 Sweat
+14 Stinkfist
+
+I was in Amsterdam at the time of this concert.  I was able to lend some gear to a fan who wanted a recording of the show.  This was their first time recording a concert.  It turned out really good, however they were heavily intoxicated and there are some moments where they get a little over excited about their experience.  They were row 13 on the floor, in line with the right stacks.  
+
+Maynard references the Trailer Park Boys during Opiate and speaks a few times in regards to politics.  Danny Carey's drum & synth solo is a highlight.  The Pot is tuned to C instead of D which is how they've done it in more recent years.  
+
+The Crystal Method was the support act, and they also did a club show at Venue later the same night.  
+
+fingerprints:
+00 - intro.flac:c7db30cfb6dd382af42baaedf8b58da5
+01 - The Grudge.flac:53a210115e2eaef3bfd899917ceb448e
+02 - Parabol.flac:115944df8340cc9278063d0a53621275
+03 - Parabola.flac:ced671f454dabacbbaccdc20e2cc256f
+04 - Schism.flac:b738f7a9a0e7e4882c851a9e69fe89a1
+05 - Opiate.flac:309f18318767df07ff46336f6e2eeaef
+06 - Ænema.flac:d1e1abaedd3ef15201ae8912a00b8995
+07 - Descending.flac:819b27b3bd61d9f79ba2a8cf1c9af4f5
+08 - Jambi.flac:6abdabef6e010d148f331fde9e4cb290
+09 - Third Eye.flac:0449dfb30ca53d872a1769dea4978827
+10 - Forty-Six & 2.flac:c632dc164fda638c6be3d1f0092da500
+11 - Drums and Synth.flac:b08d4f88eacdb7e168563d2e3f1f2724
+12 - The Pot.flac:389be84929e417ae5e07d440c67d1c75
+13 - Sweat.flac:2ddfe60dda827247bd48107dad3f6424
+14 - Stinkfist.flac:d53af82a3a663180a0d67f49e254fad3

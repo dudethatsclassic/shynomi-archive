@@ -1,0 +1,21 @@
+PARAMORE
+
+PGE Narodowy, Warsaw, Poland
+2024-08-02
+
+Support for Taylor Swift
+
+
+01. Hard Times
+02. Burning Down The House
+03. Still Into You
+04. Forgiveness
+05. Last Hope
+06. The Only Exception
+07. Misery Business
+08. Ain't It Fun
+09. This Is Why 
+
+
+Lineage:
+CA-14 (c) > Sony PCM A10 (Mic in) > WAV (24/48) > Audacity > WAV (16/44,1) > FLAC

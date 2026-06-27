@@ -1,0 +1,25 @@
+The Flaming Lips - Splendour In The Grass Festival, Byron Bay, Australia - 26th July, 2009 (FM)
+
+Lineage: FM->Audacity(split tracks/edits)->wav->Trader's Little Helper (fix SBEs)->flac(level8)
+
+Setlist:
+
+01. dj commentary
+02. Instrumental Intro
+03. Race For The Prize
+04. Silver Trembling Hands
+05. The Yeah Yeah Yeah Song... (With All Your Power)
+06. Fight Test
+07. Mountain Side
+08. Vein Of Stars
+09. Taps
+10. The W.A.N.D.
+11. Do You Realize?
+12. dj outro
+
+The complete Flaming Lips set, broadcast live to air. A new instrumental intro and Silver Trembling Stars from the new album.
+
+There was an 8 second dropout of JJJ's feed on track 3 at 2:20 (JJJ had been doing that all day), I just edited out the silence, so there's a little jump. I removed about 80% of the idents, I couldn't safely get all of them. I usually don't include the dj's but I thought people might be interested this time.
+
+
+Azure Sea.

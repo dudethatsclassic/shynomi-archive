@@ -1,0 +1,77 @@
+THE BREEDERS
+October 25, 2023
+Paramount Theatre
+Seattle, WA
+
+SOURCE:
+built-in > Tascam DR-08
+
+TRANSFER:
+Tascam DR-08 > USB > Adobe Audition 3.0 > CD Wave 1.98 > Trader's Little Helper 2.8.4
+
+GENERATION:
+WAV(M) [48kHz/24bit] > WAV [44.1kHz/16bit] > FLAC [Level 8]
+
+LENGTH:
+93:06
+
+TRACKS:
+01. intro
+02. New Year
+03. Cannonball
+04. Invisible Man
+05. No Aloha
+06. Roi
+07. Do You Love Me Now?
+08. Flipside
+09. I Just Wanna Get Along
+10. Mad Lucas
+11. Divine Hammer
+12. S.O.S.
+13. Hag
+14. Saints
+15. Drivin' On 9
+16. Roi (Reprise)
+17. Gigantic
+18. Doe
+19. Walking With A Killer
+20. Wait In The Car
+21. Glorious
+22. Safari
+23. Hellbound
+24. Happiness Is A Warm Gun (with Tanya Donelly)
+25. When I Was A Painter (with Tanya Donelly)
+26. Iris
+
+FLAC FINGERPRINTS:
+breeders2023-10-25t01.flac:b78a1986e28fae29ba40b94cb15d5c6c
+breeders2023-10-25t02.flac:8d6fa2ac4a91b806e0b031d725ce110f
+breeders2023-10-25t03.flac:49fe367f0cf1ce062d024f61ae163b3b
+breeders2023-10-25t04.flac:8df1ac48136b9c7c6b35932014805117
+breeders2023-10-25t05.flac:13556503ec987b4cc885d92cb0cd2448
+breeders2023-10-25t06.flac:836ab9edb83494e28d2b3309ae48cbdf
+breeders2023-10-25t07.flac:b04ab298a1947ab853255645ada51edb
+breeders2023-10-25t08.flac:aec4383f71051d08f4663c5d1dc3e9e3
+breeders2023-10-25t09.flac:b60f8e084b803a5ce3027834353c777c
+breeders2023-10-25t10.flac:c7c4c4dc7df799ff48e1cab63409beac
+breeders2023-10-25t11.flac:50653b1a2421b3197f3605d708ec89f7
+breeders2023-10-25t12.flac:7d8401458cf5fc9c4eda24a0b1c11d97
+breeders2023-10-25t13.flac:e545e231b2077bb776d6149e9ced9fb3
+breeders2023-10-25t14.flac:89739014c7260e16b1d503a1e4f9341a
+breeders2023-10-25t15.flac:240b6ecf4539561900bcdd15fcfc6917
+breeders2023-10-25t16.flac:692160958709ace21af0ac90555b4e7c
+breeders2023-10-25t17.flac:6236b60aaeba9d27a9b6d7b90925c449
+breeders2023-10-25t18.flac:e0a2613aba8e17d78264ab2115a54b94
+breeders2023-10-25t19.flac:9bf0ef6dd73e9f69674401ad70d40599
+breeders2023-10-25t20.flac:36d7786d2cc94d20b2f8cc0720c1d475
+breeders2023-10-25t21.flac:d558654752b026a31606088bc1b5ec6c
+breeders2023-10-25t22.flac:9cb948cc8cc6278fea089d8070ab2c45
+breeders2023-10-25t23.flac:7f71fe17d594f37b0dfcbab62db3be8f
+breeders2023-10-25t24.flac:75129e5fe3577e0cc25fd7e35df2e540
+breeders2023-10-25t25.flac:300052945a36cf9c5478e4cb6f8b97cd
+breeders2023-10-25t26.flac:1757b7ad5bea3229ecc3e3552eaa4c4b
+
+RECORDED BY:
+Mike Ziegler
+
+PLEASE DO NOT SELL OR ENCODE TO MP3

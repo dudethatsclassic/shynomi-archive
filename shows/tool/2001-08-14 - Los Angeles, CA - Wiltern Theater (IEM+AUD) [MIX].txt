@@ -1,0 +1,38 @@
+Tool
+Wiltern Theater, Los Angeles, California
+August 14th, 2001
+
+LINEAGE: Source 2 (Audience) + Source 3 (IEM) from ToolDriveProject > merged
+and matrixed in Adobe Audition > split to 16 bit FLAC
+
+SETLIST:
+The Grudge
+Stinkfist
+Forty Six & 2
+Parabola
+Schism
+Eulogy
+Disposition
+Reflection
+Robert Fripp Soundscape
+Sober
+Pushit
+Opiate
+Lateralus
+
+COMMENTS:
+The second of two nights at the Wiltern Theater, also captured on both an
+IEM and AUD source. This night also has a circulating recording of
+King Crimson's opening set, I highly recommend you seek it out and listen to
+it along with this!
+
+Just like the night before, I had also once attempted a matrix of this one,
+but it was pretty rough. Nothing desynced during that attempt but due to
+the roughness of both sources it just didn't sound very good. This time
+around I tried my best to make them complement each other. The audience
+source isn't nearly as good as the night before so it needed a lot of work.
+One of the biggest issues I fixed was the heavy volume fluctuations during
+The Grudge. I also attempted some heavy EQ to make it complement the IEM
+well. The result isn't up to the level of a legit soundboard but given
+the rough source material, I think I did good, and I hope you enjoy
+listening!

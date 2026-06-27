@@ -1,0 +1,19 @@
+Tool
+1993-08-07
+Irwindale, CA
+Santa Fe Dam
+Lollapalooza '93
+
+Source: Soundboard
+Transfer: ASBM > DDC2 32khz > CDR > EAC (Secure Mode) > CDWave (tracking) > .WAV > .FLAC
+Generation: 3rd
+Notes: *Someone plays Tablas during Opiate. **Zach de la Rocha of Rage Against the Machine does the spoken word on Bottom.
+
+Setlist:
+01 - Intolerance - 5:59
+02 - Cold & Ugly - 4:27
+03 - Sober - 5:47
+04 - Swamp Song - 6:27
+05 - Opiate - 6:23*
+06 - Bottom - 7:00**
+07 - Jerk-off - 4:27

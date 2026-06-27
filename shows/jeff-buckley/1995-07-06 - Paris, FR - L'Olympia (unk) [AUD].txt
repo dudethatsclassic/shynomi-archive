@@ -1,0 +1,56 @@
+Jeff Buckley
+6 July 1995
+L'Olympia, Paris, FR
+
+CONTRAST CLAUSE & DIME-FRIENDLY AFFIRMATION: This is the first of two nights at the Olympia. Ten tracks from the second night (7 July) are found on the French "Live a l’Olympia" CD: https://www.discogs.com/master/81032-Jeff-Buckley-Live-A-LOlympia; an additional track from the same night is found on Mystery White Boy (https://www.discogs.com/master/81022-Jeff-Buckley-Mystery-White-Boy-Live-95-96). 
+
+None of the tracks from the 6 July show have been released commercially. Confusion has arisen due to improper labelling by Sony on the initial releases of these tracks. Subsequent releases note that all the songs came from Jeff’s tape of one show. Nonetheless, in the spirit of thoroughness, I have also A/B’d all the songs appearing on both my recording of the 6 July and the commercial releases from the seventh. Details on the differences are also noted below.
+
+AUD > ?Gens > CDR > EAC > WAV > FLAC(8)
+
+Set List:
+---------
+01 Walk On
+02 Intro -> Dream Brother (Longer w/different introduction than the official)
+03 Chat: "I just woke up"
+04 Lover You Should've Come Over (clearly a different performance)
+05 So Real [not on official release]
+06 Chat
+07 Eternal Life (includes intro not found on the official release version)
+08 Mojo Pin [not on official release]
+09 Chat
+10 Last Goodbye (clearly a different performance) ->
+11 What Will You Say [not on official release]
+12 Lilac Wine (et spiritus sanctus intro not found on the official release version) ->
+13 Kick Out The Jams (no James Brown intro as on the official) ->
+14 Grace (no a cappella intro as found on the official)
+15 That's All I Ask (contains an instrumental intro not on the official)
+16 Hallelujah (completely different vocal)
+17 Encore Break
+18 Vancouver -> [not on official release]
+19 Kanga-Roo [not on official release]
+
+TT: 1:39:03
+
+Jeff Buckley - Guitar & Vocals
+Michael Tighe - Guitar
+Mick Grondahl - Bass
+Matt Johnson - Drums
+
+After the whirlwind Torhout/London/Werchter weekend, it was back to the relative calm of Paris, to which Jeff and the boys returned for a two night stand on 6 July. This has been a troublesome pair of shows for years. First "Hallelujah" was released as an Australian B-side, then "Lover, You Should've Come Over" got the same treatment. Both were simply dated as the Olympia July, 1995. Then in 2001, the "Live A l'Olympia" CD came out, claiming to contain tracks from both nights. Subsequent releases have been more specific: ALL the related tracks from the Olympia came from a tape of Jeff's of the second (and considerably more interesting) night. 
+
+Before I started this Buckley project, in preparation for potential problems, I listened to ALL the officially-released material - Sin-é, Bataclan, this, and all the CD singles, A/B-ing them for certainty, as the official release tracks have been edited, "cleaned up" [brick-walled], and with cuts made for no reason. I am confident that none of the tracks from the first night have been made available officially.
+
+This is a pretty standard show, played to an enthusiastic audience. There are very interesting takes on "Lilac Wine", "That's All I Ask", "Hallelujah" and the encores. It's not the greatest recording (as detailed below) but it's what we have, and it's well-worth a listen. 
+
+I received this in a trade many years ago, and it was a mess. It was not burned DAO, so I used Audacity to repair the 2-second gaps, remove the most egregious coughs, claps and clicks, and applied a very gentle amount of noise reduction to get rid of the worst of the tape hiss, as this is many generations removed from the master, and the hiss was, at times, overwhelming. It's still hissy, but it's better than it was. There was a hard edit from the applause after "Eternal Life" straight into the start of "Mojo Pin", so I inserted fades to smooth it a bit. From "Mojo Pin" through "What Will You Say", the sound is altered - perhaps the taper partially covered the mic? - but opens back up in "Lilac Wine", and it's ok from then on.
+
+Contemporaneous review here: https://notwithyoubutofyou.blogspot.com/2022/07/jeff-buckley-new-romantic.html
+
+Files verified, tagged, and renamed to etree conventions; new checksums generated. 
+Text file updated, compiled & copy-edited by lovesick alien 2024-10-02
+--------------------------------------------------------------------------------
+Trade Freely. Never Sell. 
+Support the Artist: Purchase ALL authorised releases. 
+Support the Trading Community: Never Encode to lossy formats.
+--------------------------------------------------------------------------------

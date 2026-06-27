@@ -1,0 +1,48 @@
+Artist:	  Tool
+Date:	  2022.05.24
+Place:	  Papp László Sportaréna
+City:	  Budapest
+Country:  Hungary
+Event:	  Fear Inoculum Tour 2022
+Stage:	  -
+
+Duration: 128:68
+
+Setlist:
+00. Litanie contre la Peur 	[0:57] (tape)
+01. Fear Inoculum 		[11:43]
+02. Sober 			[6:54]
+03. The Pot 			[7:47]
+04. Pushit 			[11:57]
+05. Pneuma 			[12:47]
+06. The Grudge 			[9:31]
+07. Right In Two 		[9:54]
+08. Descending 			[14:21]
+09. Hooker With A Penis 	[8:00]
+------encore------
+10. Chocolate Chip Trip 	[6:40] *
+11. Culling Voices 		[12:50]
+12. Invincible 			[15:49]
+
+*With drum solo
+
+Comments:
+Last show of the 2022 Eu Tour. Almost sold out.
+
+I think this show sounded exceptionally good! The visuals were great too.
+Tool played a lot of new songs (almost the whole Fear Inoculum). Its interesting that they
+chose more new songs at the end of the tour than in 2019. But it was all good.
+I'm glad we got Sober!
+Fun to see no phones during the show (except the last song). 
+
+Source: Audience
+Taper: shownomarcy
+
+Lineage: 
+CA-14 (card) mics > CA-UBB > Tascam DR-2d [24 bit, 48 khz]
+> Sound Forge 12 (volume, fade)
+> Cd Wave Editor (Split to tracks) 
+> TLH (Level8) > Flac
+> tagged by foobar2000
+
+Other band(s) recorded on this event: -

@@ -1,0 +1,82 @@
+Queens Of The Stone Age -  Roseland Ballroom, New York City (NY) 12 November 2000
+
+01. New York, New York (Keyboard Intro)
+02. Ode to Clarissa
+03. Feel Good Hit of the Summer
+04. Quick and to the Pointless
+05. Infinity
+06. "Play em something sweet, would ya"
+07. Better Living Through Chemistry 
+08. Monsters in the Parasol
+09. How to Handle a Rope
+10. You Can't Quit Me Baby
+11. The Lost Art of Keeping a Secret
+
+Time: 42:08
+
+Sound: A
+
+Source: 
+Front-Of_House Soundboard -> DAT -> CD (#2) -> EAC -> Cubase SX2.0 
+(using Universal Audio EQ-ing, Waves linMB, and Waves L1) -> Wave (0) 
+CD (0) -> EAC -> Flac (0) -> BT 
+
+Complete: Yes. 
+
+Mastered by Prof. Stoned 
+
+-------------------------------------------------------------------------------------------------------
+
+Prof. sez: 
+Good support show for the Foo Fighters. Secretly taped from the
+mixing desk by...?? (well, probably one of the house sound-engineers).
+
+I did this one a while ago in 2004, before this started circulating.
+This remaster makes it a far more enjoyable listening experience,
+as the vocals are more into the mix & the bass & guitar are 
+a bit more upfront. 
+
+The sound is more ballsy, just how you want it with a QOTSA recording.
+Try this, you won't be dispapointed.
+
+This recording had to be extracted from my original CDR, as I didn't
+archive the original wave files. I can guarentee you that it's free from
+any digital flaws.
+
+Enjoy!
+
+******************************************
+
+Make sure to bookmark this great QOTSA bootleginfo page:
+
+http://www.givethefanwhathewants.info/
+
+******************************************
+
+flac fingerprints:
+
+QOTSA - 2000-11-12 - sdb Tr.01.flac:3dc427e16ba0fad2db4cb9cba60c8345
+QOTSA - 2000-11-12 - sdb Tr.02.flac:c8292326073efe44ad7153b378daae79
+QOTSA - 2000-11-12 - sdb Tr.03.flac:0a140a860d14ff83c333025f7f84354d
+QOTSA - 2000-11-12 - sdb Tr.04.flac:421d6efec978c41d7aa7244332378380
+QOTSA - 2000-11-12 - sdb Tr.05.flac:6e0d614a827c771efbc1be099f461615
+QOTSA - 2000-11-12 - sdb Tr.06.flac:f4590a56656e5a5ccef466165cb9fa8f
+QOTSA - 2000-11-12 - sdb Tr.07.flac:53a509f306b7d4776b5862b8b5fda3b6
+QOTSA - 2000-11-12 - sdb Tr.08.flac:54325ac07cba8f97eb97c883482e72f6
+QOTSA - 2000-11-12 - sdb Tr.09.flac:fe9506ae4d3080c573eb9dfe60aa0559
+QOTSA - 2000-11-12 - sdb Tr.10.flac:48cf5629f43ba5523fb11ff653474591
+QOTSA - 2000-11-12 - sdb Tr.11.flac:8044a27e78472af1de3566adf2272324
+
+wave MD5:
+
+955f05890daca916dafd13fd27537d81 *QOTSA - 2000-11-12 - sdb Tr.01.wav
+f52adf314add568efb3dedb0461677a5 *QOTSA - 2000-11-12 - sdb Tr.02.wav
+457bbab6ab05b121e22ba9f584db03a9 *QOTSA - 2000-11-12 - sdb Tr.03.wav
+ce5984c4c4b1490b20b13f5fa915b0b5 *QOTSA - 2000-11-12 - sdb Tr.04.wav
+4484f5de02021236116887f41f295b46 *QOTSA - 2000-11-12 - sdb Tr.05.wav
+a93c007d7f0e4cb5ce47735e9254a34f *QOTSA - 2000-11-12 - sdb Tr.06.wav
+0480de2052983bf935a34a3d6c5bae42 *QOTSA - 2000-11-12 - sdb Tr.07.wav
+6f7f495caf1b9968acad0f0e5146cead *QOTSA - 2000-11-12 - sdb Tr.08.wav
+ae5dbe926926171055a4ce6c5559321f *QOTSA - 2000-11-12 - sdb Tr.09.wav
+b47a3c624408e791f03149568e34b8c7 *QOTSA - 2000-11-12 - sdb Tr.10.wav
+3da0ceb84b57516055ca5e9c07b14d77 *QOTSA - 2000-11-12 - sdb Tr.11.wav

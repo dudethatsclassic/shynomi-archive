@@ -1,0 +1,31 @@
+Thelonious Monk Quartet
+Casino
+Bern, Switzerland
+May 10, 1961
+
+Thelonious Monk p
+Charlie Rouse ts
+John Ore b
+Frankie Dunlop d
+
+Source: Radio broadcast > ? > CD > EAC v. 1.0 beta 2 (extraction and FLAC encoding) > FLAC compression level 8
+Extraction and encoding: Jack Warner (jackmw@gmail.com), August 3, 2011
+
+Disc one
+d1t01 I'm Getting Sentimental Over You [0:09:42.22]
+d1t02 Jackie-ing [0:07:04.13]
+d1t03 Crepuscule With Nellie [0:03:06.10]
+d1t04 'Round Midnight [0:07:52.52]
+d1t05 Blue Monk [0:09:17.58]
+d1t06 Bright Mississippi [0:09:43.37]
+d1t07 Rhythm-a-ning [0:06:52.03]
+Total time: 0:53:38.45
+
+
+tmonk1961-05-10t01.flac:3ade9f845843fb118295012506b62871
+tmonk1961-05-10t02.flac:bb610d4e4c24309765c8999c41fc2b88
+tmonk1961-05-10t03.flac:600d72e16c3b1093e8a661881c17af67
+tmonk1961-05-10t04.flac:d82281b269eed1af01ac3ed44d189fde
+tmonk1961-05-10t05.flac:d50cace304503b02a3a432408b60ffeb
+tmonk1961-05-10t06.flac:55373614777effdc6f988be3e7d33604
+tmonk1961-05-10t07.flac:3d744c4c8ca2bb1cee2dea04a304087a

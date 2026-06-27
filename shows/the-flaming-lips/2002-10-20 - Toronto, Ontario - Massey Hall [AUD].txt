@@ -1,0 +1,29 @@
+Flaming Lips
+2002.10.20  Massey Hall; Toronto, ON 
+
+Taper:              Lauren Yakiwchuk
+Source:             ECM-717>D8
+Location:           Balcony
+Conversion:         TCD-D8>Coresound 7pin to coax>Zoltrix Nightingale Pro 6 
+Resampling:         None
+Editors:            Brandon Triance-Haldane and Lauren Yakiwchuk
+Editing:            Fades with Sound Forge.  Track splits with CDWave
+SHN:                master DAT > Sound Forge 4.5 > CDWave > MKW Audio Compression Tool
+Special Thanks:     Mike Cranston
+
+Note:               Set was cut short due to technical difficulties.
+
+******************************************************************************************************************
+	                    PLEASE DO NOT MAKE MP3S, OR SELL THIS RECORDING
+******************************************************************************************************************
+
+Disc 1- 
+
+intro
+Race for the Prize
+Fight Test
+Yoshimi Battles the Pink Robots, Part I
+Lightning Strikes the Postman
+Put the Waterbug in the Policeman's Ear
+Do you Realize?
+Waiting for Superman

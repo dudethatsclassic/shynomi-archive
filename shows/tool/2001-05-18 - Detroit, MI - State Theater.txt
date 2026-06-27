@@ -1,0 +1,13 @@
+Tool - 2001.05.18
+State Theater - Detroit, MI, USA
+version 2
+
+media type: FLAC
+source: Radioshack Lavaliers > Sony MZ-R70 > 1st Gen CDR > EAC > FLAC
+taper: Galen
+trade status: Sorry, not for trade.
+
+disc 1 - 9 tracks - 65:10
+disc 2 - 7 tracks - 55:56
+
+notes: none

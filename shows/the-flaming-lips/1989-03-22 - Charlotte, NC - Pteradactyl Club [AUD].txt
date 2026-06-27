@@ -1,0 +1,158 @@
+The Flaming Lips
+03-22-1989
+Charlotte, NC @ Pteradactyl Club
+
+?>CDR>EAC>FLAC L8
+
+EAC and FLAC conversion by Phillip Gray (amberphil@cox.net)
+
+Tracklist:
+
+01. My Own Planet*
+02. Chrome Plated Suicide*
+03. Godzilla Flick
+04. Whats So Funny Bout Peace Love & Understanding
+05. With You
+06. Jesus Shootin Heroin
+07. U.F.O. Story
+08. What a Wonderful World
+09. The Last Drop of Morning Dew
+10. Ode to C.C. Part II
+11. Love Yer Brain
+12. Thank You (cut)
+
+Notes: 2 man show with Wayne and Michael only. Their drummer at the time (Richard English) was being held on drug charges at the Canadian border. * = first time played.
+
+ffp:
+
+fl1989-03-22t01.flac:7f67d7238b192ec2e4ec2adaac6d0975
+fl1989-03-22t02.flac:9fc5125f87fe465d95bde2492496300f
+fl1989-03-22t03.flac:fd3d1d64f2f128b92b50a4b580a7418d
+fl1989-03-22t04.flac:4f23512b05c01ba5dce321b4f27bbeba
+fl1989-03-22t05.flac:f6bc4cefdf5657d85b754846dc618a4a
+fl1989-03-22t06.flac:7f72921e8fb02139dc48e8967386d312
+fl1989-03-22t07.flac:1b1680dcd2eecab21de09160dc1daf2f
+fl1989-03-22t08.flac:4d845eab8918717edbff48c7a2fad491
+fl1989-03-22t09.flac:7610475ba765cb5d81dec12d01a2def1
+fl1989-03-22t10.flac:2d5a008953065f61dc0696bc9b3e4f85
+fl1989-03-22t11.flac:f39fe92794d4cbf093bfac3be5719f3d
+fl1989-03-22t12.flac:25ed3b8d60abb7b0125a8e5510e94524
+
+EAC LOG:
+EAC extraction logfile from 7. January 2005, 12:06 for CD
+Unknown Artist / Unknown Title
+
+Used drive  : ATAPI   COMBO48XMAX   Adapter: 1  ID: 0
+Read mode   : Secure with C2, accurate stream, NO disable cache
+Read offset correction : 0
+Overread into Lead-In and Lead-Out : No
+
+Used output format : Internal WAV Routines
+                     44.100 Hz; 16 Bit; Stereo
+
+Other options      : 
+    Fill up missing offset samples with silence : Yes
+    Delete leading and trailing silent blocks : No
+    Native Win32 interface for Win NT & 2000
+
+
+Track  1
+     Filename C:\Test\3\Track01.wav
+
+     Peak level 97.9 %
+     Track quality 100.0 %
+     Copy CRC 0CF1BA9C
+     Copy OK
+
+Track  2
+     Filename C:\Test\3\Track02.wav
+
+     Peak level 100.0 %
+     Track quality 100.0 %
+     Copy CRC F45A5808
+     Copy OK
+
+Track  3
+     Filename C:\Test\3\Track03.wav
+
+     Peak level 91.6 %
+     Track quality 100.0 %
+     Copy CRC DB9FEA95
+     Copy OK
+
+Track  4
+     Filename C:\Test\3\Track04.wav
+
+     Peak level 100.0 %
+     Track quality 100.0 %
+     Copy CRC 3B2C458B
+     Copy OK
+
+Track  5
+     Filename C:\Test\3\Track05.wav
+
+     Peak level 100.0 %
+     Track quality 100.0 %
+     Copy CRC 553EB3FA
+     Copy OK
+
+Track  6
+     Filename C:\Test\3\Track06.wav
+
+     Peak level 100.0 %
+     Track quality 100.0 %
+     Copy CRC 0119228E
+     Copy OK
+
+Track  7
+     Filename C:\Test\3\Track07.wav
+
+     Peak level 93.2 %
+     Track quality 100.0 %
+     Copy CRC C421E052
+     Copy OK
+
+Track  8
+     Filename C:\Test\3\Track08.wav
+
+     Peak level 80.9 %
+     Track quality 100.0 %
+     Copy CRC 62CD8B72
+     Copy OK
+
+Track  9
+     Filename C:\Test\3\Track09.wav
+
+     Peak level 97.0 %
+     Track quality 100.0 %
+     Copy CRC 1419D6BF
+     Copy OK
+
+Track 10
+     Filename C:\Test\3\Track10.wav
+
+     Peak level 98.5 %
+     Track quality 100.0 %
+     Copy CRC 021DBD4F
+     Copy OK
+
+Track 11
+     Filename C:\Test\3\Track11.wav
+
+     Peak level 97.4 %
+     Track quality 100.0 %
+     Copy CRC 460A5C6A
+     Copy OK
+
+Track 12
+     Filename C:\Test\3\Track12.wav
+
+     Peak level 79.7 %
+     Track quality 100.0 %
+     Copy CRC 71410AEC
+     Copy OK
+
+No errors occured
+
+
+End of status report

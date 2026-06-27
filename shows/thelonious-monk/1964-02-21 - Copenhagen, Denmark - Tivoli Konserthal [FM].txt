@@ -1,0 +1,42 @@
+dBpoweramp Release 13 Digital Audio Extraction Log from 9. oktober 2008 5:02
+
+Drive & Settings
+----------------
+
+Ripping with drive 'F:   [PIONEER  - DVD RW  DVR-106D]',  Drive offset: 48,  Overread Lead-in/out: No
+AccurateRip: Active,  Using C2: No,  Cache: None,  FUA Cache Invalidate: No
+Pass 1 Drive Speed: Max,  Pass 2 Drive Speed: Max
+Bad Sector Re-rip::  Drive Speed: Max,  Maximum Re-reads: 34
+
+Encoder: FLAC -compression-level-8 -verify
+
+Extraction Log
+--------------
+
+Track 1:  Ripped LBA 0 to 18724 (4:09) in 0:43. Filename: C:\Converted Music\cd 1\01 - Epistrophy.flac
+  Secure  [Pass 1 & 2]
+  CRC32: 3BE8FC54     AccurateRip CRC: EB90AE7C     [DiscID: 006-0009f125-00357dc7-55093506-1]
+
+Track 2:  Ripped LBA 18724 to 58276 (8:47) in 1:19. Filename: C:\Converted Music\cd 1\02 - Blue Monk.flac
+  Secure  [Pass 1 & 2]
+  CRC32: BBD85A1D     AccurateRip CRC: E0EAF1DE     [DiscID: 006-0009f125-00357dc7-55093506-2]
+
+Track 3:  Ripped LBA 58276 to 97123 (8:37) in 1:07. Filename: C:\Converted Music\cd 1\03 - Brake's Sake.flac
+  Secure  [Pass 1 & 2]
+  CRC32: CF8646C6     AccurateRip CRC: 97AE88F2     [DiscID: 006-0009f125-00357dc7-55093506-3]
+
+Track 4:  Ripped LBA 97123 to 136578 (8:46) in 1:01. Filename: C:\Converted Music\cd 1\04 - Ruby, My Dear.flac
+  Secure  [Pass 1 & 2]
+  CRC32: 3DBFE6A4     AccurateRip CRC: E9331558     [DiscID: 006-0009f125-00357dc7-55093506-4]
+
+Track 5:  Ripped LBA 136578 to 164044 (6:06) in 0:39. Filename: C:\Converted Music\cd 1\05 - Misterioso.flac
+  Secure  [Pass 1 & 2]
+  CRC32: 2055A632     AccurateRip CRC: C573EBCC     [DiscID: 006-0009f125-00357dc7-55093506-5]
+
+Track 6:  Ripped LBA 164044 to 176812 (2:50) in 0:17. Filename: C:\Converted Music\cd 1\06 - Don't Blame Me.flac
+  Secure  [Pass 1 & 2]
+  CRC32: DD8DDEF9     AccurateRip CRC: 79D2AC42     [DiscID: 006-0009f125-00357dc7-55093506-6]
+
+--------------
+
+6 Tracks Ripped Securely

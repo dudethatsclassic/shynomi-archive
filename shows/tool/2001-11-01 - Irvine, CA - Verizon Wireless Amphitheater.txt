@@ -1,0 +1,15 @@
+Tool - 2001.11.01
+Verizon Wireless Amphitheater - Irvine, CA, USA
+version 3
+
+media type: FLAC
+source: Danish Pro Audio 4061's > -20 db Att. Cable > Sony PCM-M1 > CDR > EAC > FLAC
+taper: unknown
+trade status: can trade
+
+disc 1 - 7 tracks - 57:24
+disc 2 - 8 tracks - 68:34
+
+notes: none
+
+ 

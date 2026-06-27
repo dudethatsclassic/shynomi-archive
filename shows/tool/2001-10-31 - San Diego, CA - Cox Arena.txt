@@ -1,0 +1,15 @@
+Tool - 2001.10.31
+Cox Arena - San Diego, CA, USA
+version 3
+
+media type: FLAC
+source: CSBs > BB > Sharp MT-161
+ > Master MDs > Sony MDS-JE630 > Optical Out > M-Audio CO2 Converter > Marantz PMD671 > WAV > Audition (normalize to -0.1 db) > xACT > FLAC
+
+taper: NotoriousTIMP
+
+disc 1 - 1 track - 130:15
+
+notes from ninlive: Uncirculated up to this point, as to my knowledge.  I have been trying to get TIMP’s master MDs for quite some time now, over 10 years.  He gave them to a friend and he finally received them back so that I could take a look at them.  He had a handful of NIN shows that were uncirculated and in the pile was also this recording.  Pretty good and I think it’s one of his first recordings he ever did.  
+
+Transferred March 2020 by ninlive.

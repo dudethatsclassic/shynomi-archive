@@ -1,0 +1,92 @@
+Tool
+Saturday 2006-06-24
+Spodek Arena, Katowice
+Poland
+
+
+"Lost Sister"
+SNS-MR-002
+
+
+source: audience master recording
+
+quality: EX
+
+lineage: Sony MD MZ-NH700 (PCM mode) > Panasonic ECM RP-VC201 mic
+
+transfer: Master HiMD > USB transfer to HDD > SonicStage3.3 > Track splitting in CDWave 1.94.8 > Flac FrontEnd
+Nothing was done with this recording, no eq, only track splitting.
+
+taping location: in front of soundboard area, a little on the left
+
+taper: SNSik sns3@wp.pl
+
+total time: [93:44]
+
+
+
+Setlist:
+
+
+1. Lost Keys [3:17]
+2. Rosetta Stoned [11:49]
+3. Stinkfist [6:14]
+4. Forty Six & 2 [7:08]
+5. Jambi [8:08]
+6. Schism [9:28]
+7. Right In Two [9:15]
+8. Sober intro [2:54]
+9. Sober [5:45]
+10. Lateralus [11:32]
+11. Jam [3:43]
+12. Vicarious  [7:26]
+13. AEnema  [6:58]
+
+
+
+
+
+
+release date: 2nd November 2006
+         - snsik
+
+
+
+
+
+==========================================================================
+==*************** DO NOT ENCODE INTO ANY OTHER FORMAT ******************==
+==************************* DO NOT SELL ********************************==
+==********************** DO NOT CUT THIS CREDITS ***********************==
+==*********************** DO NOT REMASTER THIS *************************==
+==========================================================================
+
+
+2f1cc6cb8de89c87571ed6b965219f53 *2006-06-24 01 Lost Keys.flac
+f65446f42e90ddd51a0dc016d91a2743 *2006-06-24 02 Rosetta Stoned.flac
+39f45470d76071ce5692cd1c7dd94237 *2006-06-24 03 Stinkfist.flac
+32d0d41868e4d2cafe49e26fae8f934f *2006-06-24 04 Forty Six & 2.flac
+e76aadc503db9e50b52d09e062b8c05c *2006-06-24 05 Jambi.flac
+ddaca0f0e302621619377807d3815abd *2006-06-24 06 Schism.flac
+3549ea7ad5706c0b699925604b43fc60 *2006-06-24 07 Right In Two.flac
+7e482d846a3427c5641d87e44ab17c2c *2006-06-24 08 Sober intro.flac
+abd3b9cd810d8e0cb80c6574e218626c *2006-06-24 09 Sober.flac
+854a382f7b8a33d25d86a709aae919e4 *2006-06-24 10 Lateralus.flac
+cded3baf914be6a6c7e850b212f59d22 *2006-06-24 11 Jam.flac
+dba872cd63b52b851abf550d55203ece *2006-06-24 12 Vicarious.flac
+30177b5debeb8e22125de9a83dd0fd6e *2006-06-24 13 AEnima.flac
+
+
+2006-06-24 01 Lost Keys.flac:a9926a45fa65c19d713b7daf5846ec0c
+2006-06-24 02 Rosetta Stoned.flac:7651994a57f282e861c968e176674237
+2006-06-24 03 Stinkfist.flac:c9b9d8e3aea9c2b0944a5deb25c597cd
+2006-06-24 04 Forty Six & 2.flac:c1b4d7d66963e1d1057c62c351c51403
+2006-06-24 05 Jambi.flac:477ba4e75bee0d85545d2680b6c80381
+2006-06-24 06 Schism.flac:d633d65beeee97b89f35c7a27141319a
+2006-06-24 07 Right In Two.flac:13205df926e285ef6d13c4b011fe52fb
+2006-06-24 08 Sober intro.flac:4a42eda7d4d68837b7a622342e857b72
+2006-06-24 09 Sober.flac:e0145bbb7fbddb77e8ca4f9560a5484f
+2006-06-24 10 Lateralus.flac:878fa8e7c738e17bf3d6d2d4b55c484d
+2006-06-24 11 Jam.flac:d460c01ad5187faf0657f3e491391087
+2006-06-24 12 Vicarious.flac:ca58e08d73b47940fce3b597536e99c9
+2006-06-24 13 AEnima.flac:b659bab2e6739601eafc1c2e65d9214a

@@ -1,0 +1,41 @@
+Tool
+Tuesday, March 4th, 2014
+Spokane Arena
+720 W Mallon Avenue
+Spokane, WA, USA
+
+Taper:  LeifH
+Source:  CA-11 (cardioid) > CA-Bat2B > Sony PCM M10 @ 24/48 > Duracell 16GB microSD card
+Transfer:  Memory card > PC via USB > Wavepad Master's Edition (edits, tracking, downsample to 16/44.1) > flac (8) via Frontend
+
+Setlist:  1:37:44
+00 intro
+01 Hooker with a Penis
+02 Vicarious
+03 Schism
+04 Pushit
+05 Intension
+06 Lateralus
+07 B'Boom
+08 Jambi
+09 Forty-Six & 2
+10 Ænema
+11 Stinkfist
+
+First show of their 2014 tour.  My 4th time seeing them.  Got a ride to the show with some randoms I met at the bar before hand.  Originally I had purchased a ticket in section 102, which was all I could get the minute they went on sale.  They sold that fast.  Anyway, I kept trying for a better seat for about 40 minutes, and just when I was about to give up I scored a nice 10th row centre floor ticket.  So I had one extra I tried to sell.  Nobody wanted a single ticket, even at an extreme discount.  Since my first Tool show was a freebe thanks to a complete stranger, I said fuck it and returned the favor.  I walked over to the local radio station's caravan tent and told them to, "give this ticket away on the air."  I don't know if they actually did, but they immediately got on the phone after I handed it to them so who knows.  Somebody got in for free.  
+
+Nice to hear Hooker with a Penis, Pushit and Intension.  The new jam before Schism rocks.  They had some red bits of foil drop during Intension from a disco ball hanging over the soundboard area.  The disco ball was used later on.  After Lateralus there was a 12 minute intermission, counted down on the layered video screens in digital font.  Danny came back and played with his 'new' synthesizer and did a drum solo, including King Crimson's B'Boom.  Just before Ænema, Maynard pointed out the red, car air freshener hanging from his microphone, saying his friend got it for him because it gives that new car smell, "...and let's be honest, some of you fuckers stink.  No offense."  He changed one of the lyrics to, "...fret for your air fresheners..."  He didn't have it the next two shows so I don't know if it was a Spokane/Washington/first night thing or what.  Gold bits of foil at the end of Stinkfist.  
+
+fingerprints:
+00 - intro.flac:6262574c17427b462d116b8b88d4502a
+01 - Hooker with a Penis.flac:125d6dbadf5d3be0c01c2a372a9a1d13
+02 - Vicarious.flac:ea779ee3c92c16891398198765ba8f8d
+03 - Schism.flac:ebb469beb53f9503d890872a5369a75d
+04 - Pushit.flac:b10f638aed6ae86828f16c952ad1af6c
+05 - Intension.flac:c361e343d2ab8bcada27c2ba8b65e7da
+06 - Lateralus.flac:eb0f8a4b30921828ba196f016b76bf73
+07 - B'Boom.flac:c47d493ae4e3858cfdd0ddcefa4b594d
+08 - Jambi.flac:caceb9f996f539184980f3e1b0d582a6
+09 - Forty-Six & 2.flac:b492a5ab1a93a7fbbbe8f25db48e6290
+10 - Ænema.flac:9babc89dada3632a15bb1c2846a1b354
+11 - Stinkfist.flac:a3f0ebd20122903d3d1874343bbb1270

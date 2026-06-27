@@ -41,7 +41,8 @@ const ARTIST_DATA = {
       "venue": "Blue Note",
       "notes": "",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1956-11-17 - Philadelphia, PA - Blue Note [AUD].txt"
     },
     {
       "year": 1958,
@@ -54,7 +55,8 @@ const ARTIST_DATA = {
       "venue": "Private Jam in Joe Brazil's Basement",
       "notes": "",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1958-09-25 - Detroit, MI - Private Jam In Joe Brazil's Basement [AUD].txt"
     },
     {
       "year": 1960,
@@ -80,7 +82,8 @@ const ARTIST_DATA = {
       "venue": "Sutherland Hotel",
       "notes": "",
       "version": "FM",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1961-03-01 - Chicago, IL - Sutherland Hotel [FM].txt"
     },
     {
       "year": 1961,
@@ -106,7 +109,8 @@ const ARTIST_DATA = {
       "venue": "Music at Newport",
       "notes": "",
       "version": "SBD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1961-07-01 - Newport, RI - Music At Newport (Mono), rm v.2 (goody) [SBD].txt"
     },
     {
       "year": 1961,
@@ -117,9 +121,10 @@ const ARTIST_DATA = {
       "state": "RI",
       "location": "Newport, RI",
       "venue": "Music at Newport",
-      "notes": "speed/pitch adjusted · jimitrane",
+      "notes": "speed/pitch adjusted \u00b7 jimitrane",
       "version": "SBD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1961-07-01 - Newport, RI - Music at Newport [SBD].txt"
     },
     {
       "year": 1961,
@@ -132,7 +137,8 @@ const ARTIST_DATA = {
       "venue": "Village Vanguard",
       "notes": "",
       "version": "SBD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1961-11-01 - New York, NY - Village Vanguard [SBD].txt"
     },
     {
       "year": 1961,
@@ -145,7 +151,8 @@ const ARTIST_DATA = {
       "venue": "Village Vanguard",
       "notes": "",
       "version": "SBD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1961-11-02 - New York, NY - Village Vanguard [SBD].txt"
     },
     {
       "year": 1961,
@@ -158,7 +165,8 @@ const ARTIST_DATA = {
       "venue": "Falkonerteatret",
       "notes": "",
       "version": "FM",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1961-11-20 - Copenhagen, Denmark - Falkonerteatret [FM].txt"
     },
     {
       "year": 1962,
@@ -171,7 +179,8 @@ const ARTIST_DATA = {
       "venue": "Stefaniesaal",
       "notes": "",
       "version": "FM",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1962-11-28 - Graz, Austria - Stefaniesaal [FM].txt"
     },
     {
       "year": 1963,
@@ -184,7 +193,8 @@ const ARTIST_DATA = {
       "venue": "Tivoli Koncertsal",
       "notes": "",
       "version": "preFM",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1963-10-26 - Copenhagen, Denmark - Tivoli Koncertsal [preFM].txt"
     },
     {
       "year": 1963,
@@ -197,7 +207,8 @@ const ARTIST_DATA = {
       "venue": "Liederhalle",
       "notes": "",
       "version": "FM",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1963-11-04 - Stuttgart, Germany - Liederhalle [FM].txt"
     },
     {
       "year": 1965,
@@ -210,7 +221,8 @@ const ARTIST_DATA = {
       "venue": "Half Note Club",
       "notes": "Stereo Radio Broadcast",
       "version": "FM",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1965-03-19 - New York, NY - Half Note Club (Stereo Radio Broadcast) [FM].txt"
     },
     {
       "year": 1965,
@@ -223,7 +235,8 @@ const ARTIST_DATA = {
       "venue": "Jazz Festival",
       "notes": "",
       "version": "SBD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1965-07-27 - Antibes, France - Jazz Festival [SBD].txt"
     },
     {
       "year": 1965,
@@ -236,7 +249,8 @@ const ARTIST_DATA = {
       "venue": "Soldier's Field",
       "notes": "Remastered",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1965-08-15 - Chicago, IL - Soldier's Field (Remastered) [AUD].txt"
     },
     {
       "year": 1965,
@@ -247,9 +261,10 @@ const ARTIST_DATA = {
       "state": "WA",
       "location": "Seattle, WA",
       "venue": "Unknown Venue",
-      "notes": "Trane 65-67 Disc 8 · speed corrected",
+      "notes": "Trane 65-67 Disc 8 \u00b7 speed corrected",
       "version": "FM",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1965-09-30 - Seattle, WA - Unknown Venue (Trane 65-67 Disc 8) (speed corrected).txt"
     },
     {
       "year": 1966,
@@ -262,7 +277,8 @@ const ARTIST_DATA = {
       "venue": "Newport Festival",
       "notes": "audio upgrade",
       "version": "FM",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1966-07-02 - Newport, RI - Newport Festival (audio upgrade) [FM].txt"
     }
   ],
   "misc": [

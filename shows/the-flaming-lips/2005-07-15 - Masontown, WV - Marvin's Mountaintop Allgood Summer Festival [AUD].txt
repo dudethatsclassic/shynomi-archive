@@ -1,0 +1,47 @@
+The Flaming Lips
+July 15, 2005
+Masontown, WV 
+Marvin's Mountaintop
+Allgood Summer Festival 
+
+Source: AKG se300b/ck91 (FOB,~10'ROC,~8'high, DIN) > Canare Starquad XLRs > Edirol UA-5 (Oade digimod) > Nomad Jukebox 3 (@ 44.1kHz)
+Transfer: Nomad Jukebox 3 > firewire > Cool Edit Pro 2.1 (nomalization, fades) > CD Wave > FLAC Frontend
+Taped and transfered by Alex Herd (AlexHerd@Taperssection.com)
+
+Disc 1: 
+01. -intro-
+02. Race for the Prize
+03. Bohemian Rhapsody
+04. Fight Test
+05. The Gash
+06. Yoshimi Battle the Pink Robots, Pt. 1
+07. Yoshimi Battle the Pink Robots, Pt. 2
+08. Spark that Bled
+09. Lightning Strikes the Postman
+10. She Don't Use Jelly
+11. Do you Realize?
+
+Disc 2:
+01. -pre encore crowd & banter- 
+02. War Pigs
+
+Notes: 
+-Large ballon pops just to the left of the mics durring Yoshimi pt. 2
+-no fade between discs so they can be joined seamlessly on longer media
+
+A Team Pittsburgh Flaming Lips recording
+
+FLAC fingerprints:
+FLips2005-07-15d1t01.flac:7a37b8b2bf59602ba6313903d1892686
+FLips2005-07-15d1t02.flac:93af1f8f546209e8f5a008066e2ade80
+FLips2005-07-15d1t03.flac:ca4582fca1bb17d6226d169d0ff33acf
+FLips2005-07-15d1t04.flac:efd8439bb8779798a7aa7bd8cefd3fe6
+FLips2005-07-15d1t05.flac:e50ebf85abf3e573c38bda1436b12b42
+FLips2005-07-15d1t06.flac:c3cc6c8dc780750a26e7ec370c36ca38
+FLips2005-07-15d1t07.flac:eae8f0c09e2df705502b748b3a9881a0
+FLips2005-07-15d1t08.flac:e766fdd028ee7f4a9b95e6d3e75d5c9e
+FLips2005-07-15d1t09.flac:4d08465e094760465ea09ed6e4333a97
+FLips2005-07-15d1t10.flac:f79f6d48854d73254e2849b78398de92
+FLips2005-07-15d1t11.flac:8340aa4c0777f33dafcfc17af86e0a55
+FLips2005-07-15d2t01.flac:6cce250ea0eefd0d06fbc7b465500133
+FLips2005-07-15d2t02.flac:ca1e14d71247194b14c29ff383b57a8c

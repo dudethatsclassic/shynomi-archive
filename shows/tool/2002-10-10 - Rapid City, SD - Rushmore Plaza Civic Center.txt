@@ -1,0 +1,13 @@
+Tool - 2002.10.10
+Rushmmore Plaza Civic Center - Rapid City, SD
+version 1
+
+media type: FLAC
+source: IEM > Sony PCM-M1 > 1st Gen CDR > FLAC
+taper: anonymous
+trade status: can trade
+
+disc 1 - 10 tracks - 76:47
+disc 2 - 5 tracks - 50:02
+
+notes: none

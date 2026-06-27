@@ -1,0 +1,39 @@
+Tool
+Monday February 6, 2012
+Bank Atlantic Center
+Sunrise, Florida
+USA
+
+"Shall We Dance?"
+
+Taper:       Ryan A 
+Location:    Section 134, Row 1 (front of right stack) 
+Source:      Danish Pro Audio 4061 mics > Danish Pro Audio MMA6000 preamp > Sony PCM-M10 (line in, 24bit/48kHz wav)
+Transfer:    Sony PCM-M10 (Micro SDHC card) > USB > wav @ 24bit/48kHz > Hard drive > Mastering (see below) 
+Mastering:   1) Wavelab 5.0 
+                - Normalize to -0.3db
+             2) T-RackS 3 High End Mixing & Mastering Suite
+                - EQ (high pass filter @ 29Hz, -3.8db @ 60Hz,-0.2db & 180Hz, +0.3db bell @ 806Hz, -1.9db @ 5.79kHz)
+		- T-RackS Compressor (ratio 1.74:1, input drive -0.8db, attack 42.0ms, release 174.8ms, 0.2db stereo enhancement, sidechain HPF 78Hz)
+		- fades
+	     3) CD Wave 1.98 (tracking) > Trader's Little Helper (Level 6 Flac Compression) > Flac
+
+Set (100:44)
+
+01) intro 
+02) Hooker with a Penis
+03) Jambi
+04) Stinkfist
+05) Sober
+06) Pushit
+07) New Jam
+08) Schism
+09) Intension
+10) Forty-Six & 2
+11) Lateralus 
+12) asteroid intermission
+13) Aenema
+14) ovation, post-show
+
+* DO NOT SELL THIS RECORDING UNDER ANY CIRCUMSTANCE.
+** Please do not compress to lossy formats (ie. mp3, mp4) and distribute.

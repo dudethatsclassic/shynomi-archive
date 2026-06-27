@@ -1,0 +1,11 @@
+Tool - 2016.01.23
+Bridgestone Arena - Nashville, TN, USA
+Version 2
+
+media type: FLAC
+source: SP-BMC-3 > SP-BM6 Battery box(@195kHz bass rolloff) > Sony MZ-RH10 > WAV > FLAC 
+taper: green1039
+
+disc 1 - 17 tracks - 102:24
+
+notes: received raw transfer from taper Garrett / green1039. Taper moved around a lot, and there are some crackles and pops occasionally from a connection issue, most likey related to moving around.

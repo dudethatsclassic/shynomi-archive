@@ -1,0 +1,32 @@
+FLAMING LIPS
+March 8, 2000
+Union Bar
+Iowa City, IA  
+
+Source: Core Sound Binaural (mod) > Sony TCD-D8
+Location: five feet from left PA
+Taper: CPS
+Lineage: DAT(M) > WAV [44.1] > FLAC [44.1]
+Transfer: Tascam DA-20mkII > M-Audio Audiophile 2496 > Sound Forge > CD Wave
+Edits/EQ: none
+Notes: poor sound quality - microphone preamp distortion & brickwalling
+
+01 - intro
+02 - Race For the Prize
+03 - Riding to Work in the Year 2025
+04 - Thirty-Five Thousand Feet of Despair 
+05 - Feeling Yourself Disintergrate
+06 - She Don't Use Jelly
+07 - Slow Nerve Action
+08 - Somewhere Over the Rainbow
+09 - Waitin' For a Superman
+10 - Lightning Strikes the Postman
+11 - What is the Light
+12 - The Observer
+13 - When You Smile
+14 - encore cheers
+15 - The Spark That Bled
+
+
+Compiled October 2018 by CPS
+Seeded October 2018 to dimeadozen.org by CPS

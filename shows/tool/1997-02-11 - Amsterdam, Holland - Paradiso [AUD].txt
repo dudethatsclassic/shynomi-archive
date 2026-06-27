@@ -1,0 +1,13 @@
+Tool - 1997.02.11 
+Paradiso - Amsterdam, The Netherlands
+
+media type: FLAC
+source: Core Sound Binaurals/120 > Philips DCC-170 > DCC-Master > 1st Gen CDR > Max 0.92 (cdparanoia) > FLAC
+
+taper: Wim de Vreugd 
+trade status: can trade
+
+disc 1 - 7 tracks - 51:42
+disc 2 - 4 tracks - 37:49
+
+notes: This is the full 2 cd version.

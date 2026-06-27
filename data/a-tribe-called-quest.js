@@ -25,7 +25,8 @@ const ARTIST_DATA = {
       "venue": "The Palace - ANA",
       "version": "AUD",
       "format": "FLAC",
-      "notes": "M · Unknown"
+      "notes": "M \u00b7 Unknown",
+      "textFile": "1990-04-20 - Hollywood, CA - The Palace - ANA(M) (unk) [AUD].txt"
     },
     {
       "year": 1992,
@@ -51,7 +52,7 @@ const ARTIST_DATA = {
       "venue": "Golden Gate Park - Tibetan Freedom Concert",
       "version": "AUD",
       "format": "FLAC",
-      "notes": "unk · neekrive"
+      "notes": "unk \u00b7 neekrive"
     },
     {
       "year": 1996,
@@ -64,7 +65,7 @@ const ARTIST_DATA = {
       "venue": "Shoreline Amphitheatre",
       "version": "AUD",
       "format": "FLAC",
-      "notes": "unk · neekrive"
+      "notes": "unk \u00b7 neekrive"
     },
     {
       "year": 1998,
@@ -77,7 +78,8 @@ const ARTIST_DATA = {
       "venue": "Madison Square Garden - DAT",
       "version": "AUD",
       "format": "FLAC",
-      "notes": "M"
+      "notes": "M",
+      "textFile": "1998-08-21 - New York, NY - Madison Square Garden [AUD].txt"
     },
     {
       "year": 1998,
@@ -90,7 +92,8 @@ const ARTIST_DATA = {
       "venue": "House of Blues",
       "version": "AUD",
       "format": "FLAC",
-      "notes": ""
+      "notes": "",
+      "textFile": "1998-11-20 - Chicago, IL - House of Blues [SBD].txt"
     },
     {
       "year": 2010,
@@ -103,7 +106,8 @@ const ARTIST_DATA = {
       "venue": "Merriweather Post Pavilion",
       "version": "AUD",
       "format": "FLAC 24",
-      "notes": "travelinbeat"
+      "notes": "travelinbeat",
+      "textFile": "2010-08-29 - Columbia, MD - Merriweather Post Pavilion [AUD24].txt"
     },
     {
       "year": 2011,

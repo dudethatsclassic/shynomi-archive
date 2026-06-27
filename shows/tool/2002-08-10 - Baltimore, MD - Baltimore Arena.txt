@@ -1,0 +1,13 @@
+Tool - 2002.08.10
+Baltimore Arena - Baltimore, MD, USA
+version 3
+
+media type: FLAC
+source: Sound Professionals Premium Slimline Cardioids/95 > Sony TCD-D8 > 2nd gen CDR > EAC > WAV > FLAC
+taper: unknown
+trade status: can trade
+
+disc 1 - 11 tracks - 65:33
+disc 2 - 5 tracks - 48:58
+
+notes: Tiny hint of static on Disc 1 during Track03 at 2:21

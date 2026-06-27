@@ -1,0 +1,42 @@
+Jeff Buckley
+3 May 1995
+KSCA-FM Studios, Glendale, CA 
+
+Goody's 2024 Speed/Pitch Adjusted Edition
+
+Quality: A-
+
+lineage: unknown taping equipment and media > trade CDR > EAC > WAV > FLAC
+
+Goody's changes: FLAC > dBpoweramp > WAV > Audition (Pitch Bender, various amounts) > 
+Trader's Little Helper (FLAC, Align sector boundaries, .ffp) > foobar2000 (tags)
+
+scanned trade art included
+
+Set List:
+---------
+01 Interview - Part 1
+02 Last Goodbye
+03 Interview - Part 2
+04 Lover, You Should've Come Over
+05 Interview - Part 3
+06 So Real
+
+TT: 29:05
+
+Goody's Notes 26/9/24:
+----------------------
+The source ran quite fast; the pitch was between approximately 73-80 cents sharp.  
+
+After KROQ and the Legion Hall on the 2nd, it was time for another radio session - this time on KSCA-FM in Westwood. Once again, a giggly enraptured interviewer tries to come up with questions Jeff hasn't already answered 1000 times, and fails, but it's a typical Jeff-fest of silliness, and well worth a listen.
+
+I am SUPER-pleased to be able to offer a brand new to circulation Goody edition of this show. Marc last "fixed" the show in 2009, after I uploaded a raw version of it. This is an additional improvement upon the 2009 version, and I thank him SO much for his work on this and on so many other shows he has improved over the years and shared with us. Happily there is already more to come.
+
+Text file updated, compiled & copy-edited by lovesick alien 2024-09-27
+--------------------------------------------------------------------------------
+Trade Freely. Never Sell. 
+Support the Artist: Purchase ALL authorised releases. 
+Support the Trading Community: Never Encode to lossy formats.
+--------------------------------------------------------------------------------
+
+

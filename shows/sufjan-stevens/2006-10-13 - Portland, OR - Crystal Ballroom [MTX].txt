@@ -1,0 +1,62 @@
+
+Sufjan Stevens
+2006-10-13
+Crystal Ballroom
+Portland OR
+*Produced** by thir13en Productions
+Both sources recorded by yltfan
+
+If you like Sufjan Stevens, I bet you will love this recording. Touring as the "Majesty Songbird" and the "Magical Butterfly Kite Brigade" this show featured a 14 piece band with string and horn sections, and included the new masterpiece Majest Snowbird. I don't know of any other soundboard recordings or matrixes out there, so enjoy!
+
+
+Original thir13en iNfo:
+
+Again, much thanks to YLTfan for his original sources.
+
+I spent considerable amount of time playing around with this show, which was mired in a heavy midrange orgy. It had to go a different route than usual, in which I mastered the SBD seperatley before even attempting to blend it with the AUD. And the EQ'ing was far more drastic than I generally care to apply. We're still trying to find a culprit, I'm a little suspicious of the iRiver, but not totally sure. It sounds pretty damn good considering where the sources started.
+
+Anyways, weird artist, weird "songs". It struck me as ambitiously overdramatic. But you know, a couple of songs did start to grow on me near the 8th or 9th time through. Sometimes a little repetition goes a long way.
+
+
+
+
+01 -crowd anticpates-
+02 Sister
+03 The Transfiguration
+04 The Tallest Man, The Broadest Shoulders (Part I: The Great Frontier)
+05 Casimir Pulaski Day 
+06 Dear Mr. Supercomputer
+07 -story-
+08 The Predatory Wasp of the Palisades Is Out to Get Us!
+09 John Wayne Gacy, Jr.
+10 -story-
+11 A Good Man Is Hard to Find
+12 -story-
+13 Majesty Snowbird
+14 -back down to earth-
+15 Jacksonville
+16 Detroit, Lift Up Your Weary Head! (Rebuild! Restore! Reconsider!)
+17 To Be Alone with You
+18 The Man of Metropolis Steals Our Hearts
+19 -thank you-
+20 Chicago
+21 -encore break-
+22 They Are Night Zombies!! They Are Neighbors!! They Have Come Back from the Dead!! Ahhhhh!
+
+
+
+====================
+=PRE-13 SOURCE INFO=
+====================
+
+
+SOURCE 1 - AUD (AKG C1000s (8' high, xy)>RCA>JB3>USB-2-WAV)
+
+SOURCE 2 - SBD (XLR-2-RCA>iRiver H140>USB-2-WAV)
+
+
+SBD-Mastered in SoundForge8>Blends mixed-mastered in Vegas7>SoundForge8 (splits)>Flac
+
+
+-----------------
+Setlist corrected by Patrick the Nowhere Man on 2017.01.12.

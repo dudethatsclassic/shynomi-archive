@@ -1,0 +1,12 @@
+Tool - 21.08.02
+War Memorial at OnCenter - Syracuse, NY
+version 4
+
+media type: FLAC
+source: Sony ECM-MS908C > MZ-R700 > unknown transfer > 3rd Gen CDR > EAC > FLAC
+taper: Charles
+trade status: can trade
+
+disc 1 - 8 tracks - 53:48
+disc 2 - 6 tracks - 57:25
+

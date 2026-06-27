@@ -1,0 +1,24 @@
+Flaming Lips
+08-29-2002
+CD101 Radio Broadcast
+WWCD FM Columbus, Ohio
+SHN
+
+FM > Mackie 1604 VLZ preamps > M-Audio Delta 1010 > Sound Forge 6.0 (24-bit recording dithered to 16-bit) > CDWav > SHN
+SHN conversion using mkw Audio Compression tool 0.97
+Recording and conversion by Keith Hanlon (keith@orchestraville.com)
+
+SHN and MP3 uploaded to the Bigolbug server on 8/29/02
+
+Setlist
+
+1. Interview
+2. Do You Realize
+3. Interview
+4. Yoshimi Battles the Pink Robots, Part 1
+5. Interview
+6. The Golden Age
+
+Notes
+
+CD101 has a lousy transmitter, so reception is lousy just about everywhere in Columbus. For the recording, I hooked up a rabbit ear antenna and found a setting with minimal static. As noted above, the broadcast was recorded through a Mackie board (VLZ preamps) and patched out post gain to the M-Audio Delta 1010 soundcard. My editor was Sonic Foundry's Sound Forge 6.0. The only adjustments made were the fade-in and fade-out, then I dithered to 16-bit. No compression or EQ was applied. CDWav was used to easily edit the one file into individual files for each track. 

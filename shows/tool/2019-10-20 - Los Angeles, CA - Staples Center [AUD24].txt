@@ -1,0 +1,55 @@
+Tool
+Sunday October 20, 2019
+Staples Center
+Los Angeles, California
+USA
+
+Fear Inoculum Tour, Fall 2019 leg
+L.A. Homecoming Shows: Night One
+
+Taper:       Ryan A 
+Location:    Floor Section 3 (front of right stack) 
+Source:      Danish Pro Audio 4061 mics > Danish Pro Audio MPS 6030 battery box > Sony PCM-M10 (line in, 24bit/48kHz wav)
+Transfer:    Sony PCM-M10 > USB > wav @ 24bit/48kHz > Hard drive > Mastering  
+Mastering:   DAW: Reaper v5.981 x64
+                - JS Volume adjust +5db
+                - Waves Z-Noise to tame venue reverb & ambient noise (learn noise sample, threshold -20.0db, Reduction 10.0, Attack 0.03, Release 0.40, Transients 0.2, Knee 25.0)
+                - Waves LinEQ: hi pass filter @ 61-62Hz Q 1.25, -2.5db low shelf @ 281Hz Q 1.00, +0.5db bell @ 861Hz Q 1.20, +1.0db bell @ 2239Hz Q 0.80, -3.0db bell @ 9733Hz Q 3.50 to tame Danny's sibilant cymbals
+		- Waves LinMB for multiband compression
+                - Waves L3-LL Ultramaximizer peak limiter (Threshold -13.8db, Out ceiling -0.3db)
+		- fades and track splits
+                - Render to Flac data compression 5
+
+Set (121:50)
+
+01) Intro (band takes stage)
+02) Fear Inocolum
+03) Aenema
+04) The Pot
+05) Parabol
+06) Parabola
+07) Pneuma
+08) Schism
+09) Jambi
+10) Vicarious
+11) Intolerance
+12) Forty Six & 2
+<intermission>
+13) Chocolate Chip Trip
+14) Invincible
+15) Stinkfist
+16) Ovation (Adam brings his cute little son out)
+
+NOTES:
+- Please do not sell this recording, ever.
+- There are a couple of brief volume adjustments in Fear Inoculum and Aenema. Otherwise it's smooth sailing. 
+
+Night one of the homecoming L.A. shows:  
+This was a powerful show. The performance was tight and intense. Probably the best Tool show I had seen since the Lateralus tour. Pneuma was the highlight. 
+Tool's sound engineers + Staples Center PA were working well that night. Nicely balanced and crisp.
+I lucked out with an aisle seat perched underneath the right stack in front of Justin. Loud with a clear line to the stacks.  
+We were hit by waves and waves of sound for 2 hours. Loud brutal crunchy tightly wound ethereal waves of sound. By the middle of Invincible, the sound had pulverized me into a semi-trance. 
+Stinkfist pulled me back out, then Abba's Dancing Queen sent us off for a surreal walk out into the warm L.A. night. 
+
+A special performance and a really nice recording. Hope you enjoy! 
+

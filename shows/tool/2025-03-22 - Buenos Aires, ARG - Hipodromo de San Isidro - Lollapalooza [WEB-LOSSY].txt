@@ -1,0 +1,11 @@
+﻿Tool - 2025.03.22
+Hipódromo de San Isidro - San Isidro, Argentina
+Version 1
+
+source: Flow 1080p WEB-DL stream > wav (16/48) > CD Wave (tracking) > mp3 (VBR 0)
+
+disc 1 - 10 tracks - 92:36
+
+notes: Audio sourced from 1080p Flow WEB-DL stream.  Livestream audio is in lossy format, thus this tracked out version is being provided in mp3 format.
+
+tooldriveproject.net

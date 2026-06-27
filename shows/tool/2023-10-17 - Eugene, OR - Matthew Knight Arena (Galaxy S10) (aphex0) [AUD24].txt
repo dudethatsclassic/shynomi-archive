@@ -1,0 +1,12 @@
+﻿Tool - 2023.10.17
+Matthew Knight Arena - Eugene, OR, USA 
+Version 1
+
+source: Galaxy S10 (Sound Recorder Pro with auto gain control) @24/48 > WAV > FLAC
+taper: aphex0
+
+disc 1 - 12 tracks - 121:51
+
+notes: Recorded from dead center behind the soundboard (elevated)
+
+tooldriveproject.net

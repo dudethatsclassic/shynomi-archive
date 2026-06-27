@@ -1,0 +1,58 @@
+The Breeders
+Lollapalooza 1994 
+Bicentennial Park
+Miami, FL
+August 15, 1994
+
+** 16 BIT **
+
+Source:  Sonic Studios DSM-6P > Denon DTR-80P > DAT Master > .WAV @ 16 bit/32 kHz
+Mastering:  .WAV > RX11 Advanced v11.0.1.3871 (De-click) > Sound Forge Pro 14.0 Build 140 [up-sample to 16 bit/44.1 kHz, WAVES C4 UNcompressor plug-in, minor edits, normalize, & fades, Boz 
+Digital Labs T-Bone2 plug-in (tilt EQ)] > CDWav (tracking) > Trader's Little Helper (level 5) > FLAC > TagScanner 6.1.17 (tagging)
+Recorded by:  Michael Wolf ("datfly")
+Mastered by:  Dennis Orr
+
+Setlist: (35:52)
+01 Intro/Tuning
+02 Divine Hammer
+03 The Freed Pig
+04 No Aloha
+05 Chat
+06 Head To Toe
+07 Hellbound
+08 Chat & Tuning
+09 I Just Wanna Get Along (1)
+10 Chat & Tuning
+11 Safari
+12 New Year
+13 Cannonball
+14 Chat & Tuning
+15 Saints
+16 Chat & Tuning
+17 Drivin' On 9 (2)
+
+(1) Kelley - lead vocals
+(2) with Carrie Bardley - violin
+
+Kim Deal – lead vocals & rhythm guitar
+Kelley Deal – lead guitar & backing vocals
+Josephine Wiggs – bass & backing vocals
+Jim Macpherson – drums & percussion
+
+TheBreeders1994-08-15t01.flac:5e59103b91781870f3577f41b81e85e3
+TheBreeders1994-08-15t02.flac:035d230a723e1ebed2a5faae793cc62e
+TheBreeders1994-08-15t03.flac:58fe669af272a6d6059cb8cbca2c0d5e
+TheBreeders1994-08-15t04.flac:461eacf1ceec6178d201e3ddcadd4499
+TheBreeders1994-08-15t05.flac:0d3115a73adadf5ca711e3333b01a8f8
+TheBreeders1994-08-15t06.flac:bd36ed6e0699591e08a48ff368411264
+TheBreeders1994-08-15t07.flac:b4d9eaaba8c5b1f0e6df7f8d4bbe167d
+TheBreeders1994-08-15t08.flac:e1cb333a7af6c197541f86bd3b2a140c
+TheBreeders1994-08-15t09.flac:2641c8e90985741ea76eeb09982e346b
+TheBreeders1994-08-15t10.flac:80f06af4a8cd525760354538f231fc8f
+TheBreeders1994-08-15t11.flac:5d454a925d16405a0974ada147dbc67e
+TheBreeders1994-08-15t12.flac:6dbdf239bf44ecfed5a057914e696bd5
+TheBreeders1994-08-15t13.flac:7d2c4f091e8b49981db1439f66b572e9
+TheBreeders1994-08-15t14.flac:406e954563e85523434a7b0383b34e40
+TheBreeders1994-08-15t15.flac:ddbc10840195bbc53d7c790e650f840c
+TheBreeders1994-08-15t16.flac:cce4fc30c24d57f21b1fd2294eb9114a
+TheBreeders1994-08-15t17.flac:14d99744944b8b2eb12446d45415287e

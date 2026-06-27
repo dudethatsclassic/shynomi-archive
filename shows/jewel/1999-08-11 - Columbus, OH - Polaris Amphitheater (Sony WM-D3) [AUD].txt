@@ -1,0 +1,79 @@
+
+Jewel Kilcher
+Polaris Amphitheater, Columbus, OH
+August 11, 1999
+
+Source : Sony WM-D3 > 1st generation cassette (Maxell XL-II) (Recorded by Steve Marriott)
+
+Transfer : JVC-W505 deck > 1/8 inch stereo jack > PC soundcard (16/44) (Transfer & Tracking by mmarkov)
+
+Editing : Cool Edit (tracking) > Sound Forge (volume) > Wave > TLH (sbe aligned) > Flac level 8
+
+Traders Den - November 19, 2020
+
+Posted by kingrue upload #2810
+-----------------------------------------
+
+This was the 27th out of 40 scheduled shows for the 1999 Spirit tour.
+
+
+Jewel's Band:
+Tony Hall : bass
+Brady Blade : drums
+Steve George : keyboards
+Steve Poltz : acoustic guitar, backing vocals
+Doug Pettibone : slide and pedal steel guitar
+
+
+Total Time = 01:36:09
+
+Set list
+01. Near You Always
+02. Deep Water
+03. Whats Simple Is True
+04. Hands
+05. Jupiter
+06. You Were Meant For Me
+07. Does Anyone Believe In Love
+08. Enter From The East
+09. Per la Gloria d'Adorarvi
+10. Barcelona
+11. Life Uncommon
+12. Foolish Games
+13. Down So Long
+14. Down
+15. Love Me Just Leave Me Alone
+16. Who Will Save Your Soul
+17. Absence Of Fear
+18. Chime Bells
+
+
+I made some volume adjustments and lowered the crowd cheering by -4 dB.
+
+---------------------------------
+
+
+No errors occured.
+
+01. Near You Always.flac:95bff68c3cd0d22f59d7141f0561cfa4
+02. Deep Water.flac:0574c2b5ff1ef3498b6a922838764d10
+03. Whats Simple Is True.flac:1fa6f26df0759c7fbb102dc9b23e408a
+04. Hands.flac:4b1299309d8842842b1788e3c4d049d8
+05. Jupiter.flac:0476f5147359a7b5c30601ce0ac55f78
+06. You Were Meant For Me.flac:36390dbd740993d9ddc7d15885819aa8
+07. Does Anyone Believe In Love.flac:df683fa0f545c63c8b922595f04de61e
+08. Enter From The East.flac:563a24a0203a2364cb2b11123731c1df
+09. Per la Gloria d'Adorarvi.flac:aef95bf6e3fb0b7b4f1b37ad475f39cf
+10. Barcelona.flac:255b9ba5ab618136d2d481633cade705
+11. Life Uncommon.flac:49d50a0e22006dd118c862a698595c1a
+12. Foolish Games.flac:13f4d592bb06544aebff01428436897d
+13. Down So Long.flac:40491aa0bb39000b743c5707e92531f8
+14. Down.flac:217d620fdf326ed5258b51d31fd472cf
+15. Love Me Just Leave Me Alone.flac:4c8e2eb5a104186932741688bc4186e8
+16. Who Will Save Your Soul.flac:e9352bbfac621abd0a2fa80474a057f8
+17. Absence Of Fear.flac:0aab274ad499a36ea135fe312843ebae
+18. Chime Bells.flac:90c993f5677d39412574ac04b0dff093
+
+Checksum file saved to disk.
+
+No errors occured.

@@ -26,7 +26,8 @@ const ARTIST_DATA = {
       "venue": "Unknown Venue",
       "notes": "KCSB-FM",
       "version": "FM",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1988-05-25 - Santa Barbara, CA - KCSB [FM].txt"
     },
     {
       "year": 1990,
@@ -39,7 +40,8 @@ const ARTIST_DATA = {
       "venue": "",
       "notes": "",
       "version": "SBD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1990-01-19 - Den Bosch, Holland - Willem 2 [SBD].txt"
     },
     {
       "year": 1992,
@@ -52,7 +54,8 @@ const ARTIST_DATA = {
       "venue": "Hollywood Palladium",
       "notes": "with Bonus Rob Zombie tracks from 12-11-1999",
       "version": "preFM",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1992-06-27 - Hollywood, CA - Hollywood Palladium [preFM].txt"
     },
     {
       "year": 1993,
@@ -63,9 +66,10 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "Hollywood, CA",
       "venue": "The Palace",
-      "notes": "ANA(M) · unk",
+      "notes": "ANA(M) \u00b7 unk",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1993-01-21 - Hollywood, CA - The Palace (1st gen) (j. koehler) [AUD].txt"
     },
     {
       "year": 1993,
@@ -78,7 +82,8 @@ const ARTIST_DATA = {
       "venue": "",
       "notes": "",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1993-01-21 - Hollywood, CA - The Palace - ANA(M) (unk) [AUD].txt"
     },
     {
       "year": 1993,
@@ -89,9 +94,10 @@ const ARTIST_DATA = {
       "state": "NY",
       "location": "New York,  NY",
       "venue": "Roseland Ballroom",
-      "notes": "Olympus ME-1S · smores",
+      "notes": "Olympus ME-1S \u00b7 smores",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1993-08-11 - New York,  NY - Roseland Ballroom (Olympus ME-1S) (smores) [AUD].txt"
     },
     {
       "year": 1994,
@@ -102,9 +108,10 @@ const ARTIST_DATA = {
       "state": "TX",
       "location": "Fort Worth, TX",
       "venue": "Amon G. Carter Jr. Exhibits Hall",
-      "notes": "Sony ECM-155 · smores",
+      "notes": "Sony ECM-155 \u00b7 smores",
       "version": "AUD",
-      "format": "FLAC 24"
+      "format": "FLAC 24",
+      "textFile": "1994-02-23 - Fort Worth, TX - Amon G. Carter Jr. Exhibits Hall (Sony ECM-155) (smores) [AUD24].txt"
     },
     {
       "year": 1995,
@@ -117,7 +124,8 @@ const ARTIST_DATA = {
       "venue": "Thomas & Mack Center (Radio Master Discs",
       "notes": "Live",
       "version": "preFM",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1995-10-31 - Las Vegas, NV - Thomas & Mack Center [FM].txt"
     },
     {
       "year": 1996,
@@ -130,7 +138,8 @@ const ARTIST_DATA = {
       "venue": "Sullivan Arena",
       "notes": "DSM-6P",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1996-03-19 - Anchorage, AK - Sullivan Arena (DSM-6P) [AUD].txt"
     },
     {
       "year": 1996,
@@ -143,7 +152,8 @@ const ARTIST_DATA = {
       "venue": "Cow Palace",
       "notes": "dj master",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1996-07-22 - Daly City, CA - Cow Palace (DJ Master) [AUD].txt"
     },
     {
       "year": 1996,
@@ -156,7 +166,8 @@ const ARTIST_DATA = {
       "venue": "Arco Arena",
       "notes": "dj mstr",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1996-07-23 - Sacramento, CA - Arco Arena (DJ MSTR) [AUD].txt"
     }
   ],
   "misc": [

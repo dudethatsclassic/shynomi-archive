@@ -1,0 +1,31 @@
+Sufjan Stevens
+Somerville Theater
+Somerville, Massachusetts
+September 8, 2005
+
+source: Core Sound Binaurals > Sony D8 (DAT) 
+(about 30 rows back from the stage and to the left; 
+not particularly great seats)
+master: Sony PCM300 > optical > Tascam CDRW700 standalone
+extract: CD > EAC (secure) > Flac Frontend (level 8)
+
+sorry, I haven't figured out the setlist...
+
+d1:
+1. 
+2. 
+3. 
+4.
+5.
+6.
+7.
+8.
+9.
+
+d2:
+1.
+2.
+3.
+-encore-
+4.
+5.

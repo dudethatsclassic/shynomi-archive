@@ -1,0 +1,46 @@
+Jewel Kilcher (solo)
+Tinker Street Cafe
+Woodstock, NY
+July 16, 1996
+
+Source : FM Broadcast > low gen cassette
+
+Transfer : Sony TC-WE 475 > JVC XL-R2010 CD-RW (16/44)
+
+Editing : Sound Forge (CD extract, tracking, volume) > Wave > TLH (sbe aligned) Flac 8
+
+Traders Den - June 20, 2023
+
+transferred & posted by kingrue #3698
+===================================
+
+
+Total Time = 27:04
+
+Set list
+01 You Were Meant For Me
+02 Little Sister
+03 Carnivore
+04 Satellite
+05 Innocence Maintained
+06 Who Will Save Your Soul
+07 Chime Bells
+
+
+==========================
+
+No errors occured.
+
+
+01 You Were Meant For Me.flac:24dbf5314e84cadf82c7fd9b3db0dadd
+02 Little Sister.flac:8e5172eb0190375e73e7fb80132b2c7b
+03 Carnivore.flac:cda5df7e3a695936f436b34cea9b6eb9
+04 Satellite.flac:e3b3e339a921c2d3b50b76eeb97b9ef8
+05 Innocence Maintained.flac:c8fa5dce28f6740fbbbbc96e6557ad3a
+06 Who Will Save Your Soul.flac:2383a1d146aa63eb30a2d7d3841e4b88
+07 Chime Bells.flac:b351989ae2e787c25e29499ab8115083
+
+Checksum file saved to disk.
+
+No errors occured.
+

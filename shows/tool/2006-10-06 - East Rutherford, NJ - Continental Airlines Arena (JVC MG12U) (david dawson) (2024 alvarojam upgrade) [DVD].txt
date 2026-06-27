@@ -1,0 +1,63 @@
+TOOL
+====
+October 26, 2006
+Continental Airlines Arena
+East Rutherford NJ
+
+Taper: David Dawson
+Lineage: JVC MG12U->Cyber Link Director (make Mod files into one MPG)-> Cyberlink Power Producer (Menu and VOB)-> Dvd Shrink -> Demux -> Audio remaster & mix -> Authoring -> DVD
+
+Audience Master - NTSC - 720x480 - 4:3 - 6602 kb/s
+Stereo PCM - 1536 kb/s
+
+TRACKS
+------
+Stinkfist (intro cut)
+The Pot
+Forty Six & 2
+Jambi
+Schism
+Lost Keys
+Rosetta Stoned
+Wings For Marie
+10,000 Days
+Lateralus
+Vicarious
+Ænema
+---------------------
+Original Taper notes:
+Stinkfist is very dark and shaky since i was very nervous with security everywhere but I soon relaxed.
+This is my virgin taping and am very proud of what i produced
+Mild crowd chit chat (including myself) in between songs but luckily very polite crowd
+
+Thanks to everyone for all the editing software i played with
+Thanks for people in front of me for staying out of my way during filming
+----------------------
+* 2024 NOTES by Alvarojam *
+
+I decided to give it a try to this show since 10.000 Days is my favourite Tool's album.
+
+I created a mix from audio sources V1 & V2. Pretty good result.
+Then, sync work was done. 
+I added some patches to the skips present on some tracks. 
+This was done merging some bits from the same show where skips were present. No reeencoding.
+----------
+Audio Mix:
+Sony ECM-MS907 > Sony D8 + Core Sound Binaurals > Sony PCM-M1
+EQ > Levels adjustments > Sync
+
+Sources:
+• Sony ECM-MS907 > Sony D8 (via mic-in) > DAT > Cool Edit Pro (via line-in) > Wave > Flac Level 6
+Taped/Transfered By: Al (moderndaywarrior2112@yahoo.com)
+***Modern Day Warrior Recordingzzz***
+
+• Core Sound Binaurals > Battery Box > Sony PCM-M1 (line-in) > Maxell HS-4/90s > Tascam DA-20 > Coaxial > Audiophile 2496 > Audacity > CDWave > WAV > FLAC
+Recorded and transferred by: daskrabs
+-------------------------------------
+No disrepect at all to the tapers.
+Just wanted to make the best possible of the available sources.
+
+Thanks to David Dawson, Al (moderndaywarrior2112@yahoo.com) & daskrabs for recording and sharing.
+
+Audio remaster, sync & authoring by Alvarojam
+January 10, 2024.

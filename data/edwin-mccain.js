@@ -22,7 +22,8 @@ const ARTIST_DATA = {
       "venue": "The Wetlands",
       "notes": "unk",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1995-08-07 - New York, NY - The Wetlands (unk) [AUD].txt"
     },
     {
       "year": 1996,
@@ -35,7 +36,8 @@ const ARTIST_DATA = {
       "venue": "Smith's Olde Bar",
       "notes": "unk",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1996-05-30 - Atlanta, GA - Smith's Olde Bar (unk) [AUD].txt"
     },
     {
       "year": 2024,
@@ -46,9 +48,10 @@ const ARTIST_DATA = {
       "state": "NY",
       "location": "Bethel, NY",
       "venue": "Bethel Woods Center for the Arts",
-      "notes": "Schoeps MK41vs · radio_w_b",
+      "notes": "Schoeps MK41vs \u00b7 radio_w_b",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "2024-06-27 - Bethel, NY - Bethel Woods Center for the Arts (Schoeps MK41vs) (radio_w_b) [AUD].txt"
     }
   ],
   "misc": []

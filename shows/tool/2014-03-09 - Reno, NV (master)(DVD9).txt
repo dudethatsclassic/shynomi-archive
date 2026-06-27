@@ -1,0 +1,56 @@
+Tool 2014-03-09 Reno NV USA (master) (DVD)
+\VIDEO_TS\VTS_01_3.VOB
+Format                                   : MPEG-PS
+File size                                : 1 024 MiB
+Duration                                 : 13mn 51s
+Overall bit rate mode                    : Variable
+Overall bit rate                         : 10.3 Mbps
+
+Video
+ID                                       : 224 (0xE0)
+Format                                   : MPEG Video
+Format version                           : Version 2
+Format profile                           : Main@Main
+Format settings, BVOP                    : Yes
+Format settings, Matrix                  : Custom
+Format settings, GOP                     : M=3, N=18
+Format settings, picture structure       : Frame
+Duration                                 : 13mn 50s
+Bit rate mode                            : Variable
+Bit rate                                 : 8 589 Kbps
+Maximum bit rate                         : 8 900 Kbps
+Width                                    : 720 pixels
+Height                                   : 480 pixels
+Display aspect ratio                     : 16:9
+Frame rate                               : 29.970 fps
+Standard                                 : NTSC
+Color space                              : YUV
+Chroma subsampling                       : 4:2:0
+Bit depth                                : 8 bits
+Scan type                                : Interlaced
+Scan order                               : Top Field First
+Compression mode                         : Lossy
+Bits/(Pixel*Frame)                       : 0.829
+Time code of first frame                 : 00:28:31:29
+Time code source                         : Group of pictures header
+Stream size                              : 851 MiB (83%)
+Color primaries                          : BT.601 NTSC
+Transfer characteristics                 : BT.601
+Matrix coefficients                      : BT.601
+
+Audio
+ID                                       : 189 (0xBD)-160 (0xA0)
+Format                                   : PCM
+Format settings, Endianness              : Big
+Format settings, Sign                    : Signed
+Muxing mode                              : DVD-Video
+Duration                                 : 13mn 51s
+Bit rate mode                            : Constant
+Bit rate                                 : 1 536 Kbps
+Channel(s)                               : 2 channels
+Sampling rate                            : 48.0 KHz
+Bit depth                                : 24 bits
+Delay relative to video                  : -534ms
+Stream size                              : 152 MiB (15%)
+
+Menu

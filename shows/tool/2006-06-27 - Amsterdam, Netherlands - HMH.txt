@@ -1,0 +1,62 @@
+TOOL
+
+live at the Heineken Music Hall
+Amsterdam, The Netherlands
+Jun 27th 2006
+
+source C
+
+recorded live and transferred by Bliv
+
+Source:   Core Sound Binaural mics (low cost) --> battery box with fixed bass roll-off --> Sony MZ-N10 Net MD
+Transfer: Sony MZ-N10 --> Line in --> Sound Forge 8.0 --> WAV --> FLAC --> YOU
+Location: balcony, first row, in front of the left stack.
+
+
+
+Tracks:
+
+disc 1:
+01. intro drone		(01:25)
+02. Lost Keys 		(03:05)
+03. Rosetta Stoned 	(12:03)
+04. Stinkfist 		(06:12)
+05. synth interlude 	(01:05)
+06. Forty Six & 2 	(06:48)
+07. Jambi 		(07:44)
+08. intro to... 	(00:46)
+09. Schism 		(07:39)
+10. intro to... 	(00:53)
+11. Right In Two 	(09:05)
+12. intro to... 	(03:20)
+13. Sober 		(05:21)
+
+total: 			(65:26)
+
+
+disc 2:
+14. Lateralus 		(09:47)
+15. encore break 	(02:18)
+16. intro to... 	(03:16)
+17. Vicarious 		(07:34)
+18. Ænema 		(08:44)
+
+total: 			(31:39)
+
+
+total recording time:	01:37:05
+
+
+Notes:
+* I like to cut things up. That's why most of the intro's/interludes were cut into seperate tracks. I also think it does them 
+  justice and makes it easier to skip to the actual songs if you just want those.
+* Awesome show, but not much 'Maynardism': it doesnt get any better then a "Good e-ve-ning dutch personsss!' and 'We had a new 
+  album come out, rrrecently. That's why we're here. To tell you all about it. It's called 10,000 Days. This is a song off the 
+  album'.
+* I fucked up changing discs: i was too early and missed a few seconds of Lateralus. With his permission I used a patch from
+  Niek's excellent recording (thanks!) to fill the gap.
+
+
+
+		*** DO NOT SELL THIS RECORDING!!! ***
+	*** PLEASE CONVERT TO MP3 FOR PERSONAL USE ONLY ***

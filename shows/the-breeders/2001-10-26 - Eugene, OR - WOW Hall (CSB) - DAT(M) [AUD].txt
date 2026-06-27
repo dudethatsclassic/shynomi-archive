@@ -1,0 +1,78 @@
+THE BREEDERS
+October 26th, 2001
+WOW Hall
+Eugene, OR
+
+
+SOURCE:
+Core Sound Binaural -> Sony PCM-M1 DAT 
+
+GENERATION:
+DAT(M) > CDR(1) > EAC > WAV > FLAC [level 8]
+
+NOTES:
+CDR extracted to single WAV file. WAV file trimmed, normalized, and re-tracked.
+
+LENGTH:
+65:17
+ 
+
+SETLIST:
+01. intro
+02. Huffer
+03. Tipp City
+04. Doe
+05. Head To Toe
+06. Saints
+07. Forced To Drive
+08. Flipside
+09. Little Fury
+10. Divine Hammer
+11. Iris
+12. Cannonball
+13. Safari
+14. Too Alive
+15. I Just Wanna Get Along
+16. Mom's Drunk
+17. Full On Idle (part of)
+18. Full On Idle
+19. Pacer
+20. Fortunately Gone
+21. No Aloha
+
+
+TRANSFER:
+CDR > EAC v 1.6 > Adobe Audition CC > CDWave 1.98 > Trader's Little Helper 2.7.0
+
+
+CHECKSUM:
+5950e43c5e9a00450f698624ec7f89f0 *Breeders 2001-10-26 t01.flac
+aea84d25698cbe815ca7c95d6a3fea7a *Breeders 2001-10-26 t02.flac
+3f6052f5d94a8d82f66eed6a5aa53dec *Breeders 2001-10-26 t03.flac
+ef8e4e6cdc0baf2e2cc35fffb3a6983a *Breeders 2001-10-26 t04.flac
+447d3634559fe23d5ff8f999885e870d *Breeders 2001-10-26 t05.flac
+d853d31de9624311b3ba6ba565e7e646 *Breeders 2001-10-26 t06.flac
+471997018ce90b09ce50bd7aca4e619c *Breeders 2001-10-26 t07.flac
+eae914dabc69a1dba159c4fe742835e7 *Breeders 2001-10-26 t08.flac
+8c03d2ada1bf1e5c8636d0381ab84de6 *Breeders 2001-10-26 t09.flac
+b6200466dcfd62ffc3de961b7dadc500 *Breeders 2001-10-26 t10.flac
+bbfa260fb28ef1e467c405ec368ca723 *Breeders 2001-10-26 t11.flac
+3e826c7db4a389f44948b7e8a42bdd0f *Breeders 2001-10-26 t12.flac
+1261029762c55ecd53e648e83bffa74c *Breeders 2001-10-26 t13.flac
+09e811a6464108d2f993291b63bd1ed4 *Breeders 2001-10-26 t14.flac
+38a08ff14884cc90802b4d4a92d3015f *Breeders 2001-10-26 t15.flac
+21b24e85d15d8ccf1f3eb4c48a93cdef *Breeders 2001-10-26 t16.flac
+bf9c30a729831d78be088e79397186be *Breeders 2001-10-26 t17.flac
+d1f6dd24d39eb7ffbf2873fb092e4bd1 *Breeders 2001-10-26 t18.flac
+dc9a768e901c8040048b88a4054ee983 *Breeders 2001-10-26 t19.flac
+619f54c70e6ff3a855fbd63afe797b93 *Breeders 2001-10-26 t20.flac
+012b2c267b1294b1ab761ece967481c6 *Breeders 2001-10-26 t21.flac
+
+
+PLEASE DO NOT REDISTRIBUTE IN LOSSY FORMATS
+DO NOT SELL
+
+
+
+
+

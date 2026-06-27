@@ -1,0 +1,12 @@
+Tool - 2006.05.12
+Orpheum Theatre - Minneapolis,MN, USA
+version 4
+
+media type: FLAC
+source: Sound Professionals Premium AT Slimline Cardioids > M-Audio MicroTrack 24/96(@24/48) > USB > WAV > Wavelab
+taper: crazyafroman
+trade status: can trade
+
+disc 1 - 13 tracks - 99:11
+
+notes: Most of Ænema is cut due to the MT shutting off.

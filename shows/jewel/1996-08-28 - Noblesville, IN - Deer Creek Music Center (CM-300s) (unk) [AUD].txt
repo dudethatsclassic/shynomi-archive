@@ -1,0 +1,75 @@
+Jewel Kilcher (w/Band)
+Deer Creek Music Center
+Noblesville, IN
+August 28, 1996
+
+Source : Nakamichi CM-300 mics w/CP-1 caps > Sony TCD-D3 DAT > CD Trade > EAC
+
+Editing : Sound Forge (CD extract, tracking, volume) > Wave > TLH (sbe aligned) Flac 8
+
+Traders Den - June 14, 2023
+
+edited & posted by kingrue #3684
+=====================================
+
+Jewel was opening for Neil Young on this summer tour.
+She has a new backing band, with better professional musicians this time around.
+This is the 11th gig scheduled out of 13.
+
+The quality is very good. 
+
+Band line-up #2
+Jewel Kilcher - vocals, guitar
+Zev Katz - bass
+Frank Vilardi - drums
+Marc Shulman - guitar
+
+Total Time = 44:02
+
+Set list
+01 Pieces Of You
+02 Satellite
+03 Fragile Heart
+04 Sometimes It Be That Way
+05 Fading Away
+06 You Were Meant For Me
+07 Love Me Just Leave Me Alone
+08 Carnivore
+09 Deep Water
+10 Who Will Save Your Soul
+
+FYI:
+There is another source that exists with this lineage, i dont have this.
+Sony ECM-959 > SonyMZR3 > Sony Type 4 Metal SR 
+
+===========================
+
+Mpeg test results are CDDA Lossless
+
+01 Pieces Of You.wav:  track looks like CDDA with probability 100%.
+02 Satellite.wav:  track looks like CDDA with probability 99%.
+03 Fragile Heart.wav:  track looks like CDDA with probability 100%.
+04 Sometimes It Be That Way.wav:  track looks like CDDA with probability 100%.
+05 Fading Away.wav:  track looks like CDDA with probability 100%.
+06 You Were Meant For Me.wav:  track looks like CDDA with probability 100%.
+07 Love Me Just Leave Me Alone.wav:  track looks like CDDA with probability 100%.
+08 Carnivore.wav:  track looks like CDDA with probability 99%.
+09 Deep Water.wav:  track looks like CDDA with probability 99%.
+10 Who Will Save Your Soul.wav:  track looks like CDDA with probability 100%.
+
+No errors occured.
+
+01 Pieces Of You.flac:708625b7c835b017c40eb9a7751b71de
+02 Satellite.flac:751947ec374a1cd9f027da25719d2e8a
+03 Fragile Heart.flac:b52ddf4abd3698cece2372328e0bed58
+04 Sometimes It Be That Way.flac:4ab8e458e6a94303fca46dd9cca5cb6c
+05 Fading Away.flac:f4fd6b6b6da9ae7ce5a9edc667feccaa
+06 You Were Meant For Me.flac:4ded1921b614f0d612595162bfb43f89
+07 Love Me Just Leave Me Alone.flac:1dc59d56c4e69b9f27c481de155160a0
+08 Carnivore.flac:7f27b66472ce8957b2570a3be7a651fb
+09 Deep Water.flac:201730fa60a5868e1beea6e09acaf0b3
+10 Who Will Save Your Soul.flac:b3e9144f7a4646e8a167ff2bae0539fe
+
+Checksum file saved to disk.
+
+No errors occured.

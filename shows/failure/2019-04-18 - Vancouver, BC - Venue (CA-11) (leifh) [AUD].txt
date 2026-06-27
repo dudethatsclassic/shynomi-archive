@@ -1,0 +1,54 @@
+Failure
+Thursday April 18th, 2019
+Venue
+881 Granville Street
+Vancouver, BC, Canada
+
+Taper:  LeifH
+Source:  CA-11 (cardioid) > Bat2B > Sony PCM M10 @ 24/48 > microSD card
+Transfer:  Memory card > PC via USB > Wavepad Masters Edition (edits, amplify, tracking, 16/44.1) > flac (8) via TLH
+
+Setlist:  1:24:00
+00 Segue 11
+01 Solar Eyes
+02 Distorted Fields
+03 Heavy and Blind
+04 Another Space Song
+05 Pillowhead
+06 Smoking Umbrellas
+07 Stuck On You
+08 Undone
+09 Frogs
+10 A M Amnesia
+11 Counterfeit Sky
+12 Dark Speed
+13 No One Left
+14 The Pineal Electorate
+15 Heliotropic
+
+16 Macaque
+17 Screen Man
+
+A very good sounding show and recording.  I was centre floor, roughly 20' from the stage.  
+
+Also on the bill was Swervedriver (not recorded).  Balcony was closed that night, the place was maybe 2/3rds full.  
+
+fingerprints:
+00 - Segue 11.flac:532a10614b6356e92d4ac9daaf4be788
+01 - Solar Eyes.flac:ee50848eeee40e99fa0782cfc757cc41
+02 - Distorted Fields.flac:da9870ac3e23763533e970b25e41c145
+03 - Heavy and Blind.flac:ee13ba6bdfe854179578f2f54fe59000
+04 - Another Space Song.flac:fd6300b131e394f9c04a862653602088
+05 - Pillowhead.flac:7dad529e54d6664cf82fa15795dfc91c
+06 - Smoking Umbrellas.flac:cf812caae7781c35a74bf135c7b345bf
+07 - Stuck on You.flac:e5eb9f44dd87207adeb1957d7b885186
+08 - Undone.flac:3e2b3149e4c6ea2273608df6aa06bd45
+09 - Frogs.flac:f689fd938b3b33c840cfd1ee214b992c
+10 - AM Amnesia.flac:a103a8d53530405b30a28a12c9d13996
+11 - Counterfeit Sky.flac:e1af89273e8664bb5a117e2d7bf988f8
+12 - Dark Speed.flac:996389cbc2028fd2ea668ae81867e50d
+13 - No One Left.flac:6bac8db8edb5a5af0cc858197a0b51e9
+14 - The Pineal Electorate.flac:34860c7ce45daf3296790eb0f858e78f
+15 - Heliotropic.flac:7075f0810d35b23de1e2d389b3d70292
+16 - Macaque.flac:03c911ca7fb43c9ac50f3ecb7e465284
+17 - Screen Man.flac:6853635bc2bdce49e6b64c0b37b1d746

@@ -1,0 +1,31 @@
+Death Cab for Cutie
+October 5th, 2004
+Fox Theatre
+St. Louis, MO
+NMC017
+
+Source:  	ATM41a > Sony Hi-MD MZ-NHF800 (PCM) > (USB out) WAV > FLAC
+
+Transfer:	USB Line Out > Computer Line In
+
+Software:  	SoundForge 5.0
+		Tracking via CD Wave
+
+Location:	Orchestra, Row N, Left Side
+
+
+01 					[4:00]
+02 New Year				[4:07]
+03 One Song I Don't Know		[4:07]
+04 					[3:33]
+05 					[3:21]
+06 					[7:44]
+07 					[2:12]
+08 					[5:12]
+
+
+Notes:
+Sound is quite boomy, not sure on the song titles.
+
+
+Taped & Transferred By: Nate Roth (db.etree.org/nomorecrackpipes)

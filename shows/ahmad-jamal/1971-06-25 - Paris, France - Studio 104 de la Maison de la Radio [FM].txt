@@ -1,0 +1,30 @@
+Ahmad Jamal - Studio 104 de la Maison de la Radio, Paris, 1971-06-25
+Paris, France
+
+Line-up:
+Ahmad Jamal - piano, electric piano
+Jamil Sulieman Nasser - bass
+Frank Gant - drums
+
+Setlist:
+1. Introduction by André Francis - 0:26
+2. Bogota (Richard Evans) - 15:24
+3. Effendi (McCoy Tyner) -  13:46
+4. Manhattan Reflections (Ahmad Jamal) - 10:23
+5. Extensions (Ahmad Jamal) - 23:50
+6. Poinciana (Buddy Bernier, Nat Simon) - 10:37
+__________________
+Total Time = 1:14:26
+
+
+Broadcast:
+francemusique 
+Date: 2014-05-10 (Tracks 01 and 05)
+Date: 2016-12-17 (Tracks 04 and 06)
+Date: 2020-02-16 (Tracks 02 and 03)
+
+Source:
+dvb-s > aud (ts) > DVR Studio > mp2  MPEG 1.0 Layer-2; 48,000 Hz Stereo; 256 Kbps
+AudioEdit Deluxe > wav > dBpoweramp > flac
+
+recorded and edited by Lewojazz

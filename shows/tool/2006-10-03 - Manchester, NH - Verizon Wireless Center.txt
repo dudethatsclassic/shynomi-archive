@@ -1,0 +1,41 @@
+Tool
+Tuesday, October 3rd, 2006
+Verizon Wireless Arena
+Manchester, NH, US
+
+Source:
+AUD > Radio Shack 33-3013 mics > MZ-RH10 (PCM & Hi-SP, Mic In)
+Manual Gain Control
+
+Transfer/Lineage/Conversion:
+PCM & Hi-SP data > USB > PC > WAV > FLAC (level 8)
+
+Editing:
+Audacity 1.2.6 (Normalize, Amplify to -0.5dB, Fade In, Fade Out)
+Winamp 5.541 (EQ, hard limiting w/ Enhancer 0.17 plug-in volume at 8.0)
+CD Wave 1.97 (track splits)
+EasyTAG 2.1 (files tagged)
+
+Setlist/Tracklist:
+01. Stinkfist
+02. The Pot
+03. Forty Six & Two
+04. Jambi
+05. Schism
+06. Lost Keys
+07. Rosetta Stoned
+08. Wings For Marie
+09. 10,000 Days
+10. Lateralus
+11. Vicarious
+12. Ænema
+
+Notes:
+Towards the end of the show, I was running out of free space on the minidisc.  So, there is a small cut between Lateralus and Vicarious where I changed the recording mode on the deck...not that you would even notice except for the quick fade out and fade in.  The difference in recording quality between the two modes is almost negligible.  Overall, I think the sound of the recording is very good.  It probably would sound slightly better if I had used the line in instead of the mic in on the recorder.  Oh well...it's still very listenable.  Listen loud, and enjoy!
+
+Total Playing Time (according to Winamp):
+01h:46m:24s
+
+PLEASE DO NOT BUY OR SELL THIS RECORDING
+PLEASE DO NOT SHARE AS MP3 OR OTHER LOSSY FILES
+PLEASE DISTRIBUTE THIS RECORDING WITH THIS TEXT FILE

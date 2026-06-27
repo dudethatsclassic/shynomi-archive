@@ -1,0 +1,12 @@
+Tool - 2001.10.06
+Verizon Wireless Amphitheater - Charlotte, NC, USA
+
+media type: FLAC
+source: Neumann KM 140 > Sonosax SX-M2 > Sony TCD-D100 > 1st gen DAT > Sony PCM-R700 > SPDIF > Mia MIDI > Sound Forge Pro 10 > WAV > FLAC
+taper: George Wang
+
+disc 1 - 1 track - 138:09
+
+notes: Recorded 10' left of left speakers
+
+ 

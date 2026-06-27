@@ -1,0 +1,33 @@
+Failure
+Whisky A Go-Go
+Hollywood, CA
+1996-12-06
+
+In-house SBD/CAM feed > ? > ? > CDr > EAC > FLAC
+
+TAO audio gaps occurred at the ends of all tracks.  These were trimmed.
+
+This appears to be the in-house audio mix that appears on the video of this concert.  The mix is not perfect but has full signal integrity up to the 20k level and doesn't show significant analog degradation or background noise.  Some stereo panning in the guitars is audible.  There is a slight phasiness to the sound at times like open mics picking up a slight delay vs onstage feeds - narrowing the stereo field brings it into a bit more focus, but I left that untouched after performing the waveform/timeline repairs.  Season to taste!
+
+Waveform/timeline repair in Adobe Audition.
+
+01 Carson Daly Intro/Sgt. Politeness
+02 Segue 1
+03 Saturday Savior
+04 Pillowhead
+05 Bernie
+06 Pitiful
+07 Frogs
+08 Another Space Song
+09 Solaris
+10 Blank (with extended intro)
+11 Smoking Umbrellas
+12 Stuck On You
+13 Wonderful Life
+14 Are 'Friends' Electric?
+15 The Nurse Who Loved Me
+16 Leo
+17 Dirty Blue Balloons
+18 Undone
+19 Screen Man
+20 Daylight

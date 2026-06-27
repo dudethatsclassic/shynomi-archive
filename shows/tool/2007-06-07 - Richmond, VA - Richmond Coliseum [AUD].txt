@@ -1,0 +1,15 @@
+Tool - 2007.06.07
+Richmond Coliseum - Richmond, VA, USA
+
+media type: FLAC
+source: SP-CMC4U(atU853)cards > nady cbm40s/Denecke ps-2 > line in/sony MZ-M100 HiMD (PCM) > Behringer802 > Sony RCDW500 CD Burner > CDR(M/1) > 2nd gen CDR (from taper) > EAC > WAV > FLAC[8]
+taper: Nameloc01
+trade status: DO NOT TORRENT, can trade
+
+disc 1 - 9 tracks - 66:10
+disc 2 - 6 tracks - 50:58
+
+notes from taper: Recorded from GA floor, 45' back, dead center.  This is the EQ'ed version the taper sent out.  
+
+
+

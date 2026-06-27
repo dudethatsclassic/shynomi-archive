@@ -1,0 +1,97 @@
+TOOL
+
+JAPAN TOUR 2007 DAY1 to DAY4 - BOX SET (JSR T-01~07)
+
+Day 4: 2|12 CLUB CITTA' (JSR T-07)
+
+Feb. 12, 2007  Club Citta' Kawasaki, Kanagawa, Japan
+
+Disc 1 (81:30): 
+1. bass drone
+2. Stinkfist (fade out at the beginning)
+-. Swamp Song (MISSING)
+-. Forty Six & 2 (MISSING)
+-. Jambi (MISSING)
+3. Schism (fade in at the intro)
+4. Right in Two
+5. Sober
+6. interlude
+7. Wings for Marie
+8. 10,000 Days (Wings Part 2)
+9. Lateralis
+10. Vacarious
+11. Aenima
+
+Taper: the_sphere
+Source: ECM-717 (on my baseball cap) > TCD-D100 (48kHz)
+Lineage: DAT master > CDR (DENON CDR-1000) > .aif (Toast) >
+         Remaster (SoundStudio & Peak) > .wav > Track Split (CDWave) > .flac (Level8)
+
+ The 4th night and the last show for us (we could not manage to go to Nagoya show).
+The venue name is Club Citta', stand at Kawasaki City, in Kanagawa prefecture. 
+And the capacity is 1,300. ...ONLY 1,300 !! I believe it is the smallest venue
+for TOOL in the decade ! You would listen to this small venue atmosphere on my
+recording. 
+ Well, we went to the venue by a car and arrived about one hour before door open.
+(And when walked around the venue, met the guy who played guitar on Forty Six & 2
+at Zepp Tokyo) Then we finally could entered at 5:50 p.m., our reference numbers 
+were 703 & 704, and got into the center of the hall. It's really small hall so 
+it's only about 8m from stage even I was at the there ! And the show got started 
+at about 6:20. Although there're some horizontal bars which separate brocks, 
+audience flowed quickly at the beginning of the show...then an accident occured. 
+The recording was stopped. And even worse, I did not know that ! I checked the 
+recorder at the beginning of Stinkfist but next time I checked it was at the intro 
+of Schism... I found is at that time and soon re-start the recording. So, first 
+four songs are missing on my recording, almost. VERY SORRY THING. The sound is 
+crisp and clear, it could be the best recording for the four nights...
+ The set list is similar with previous night but changed Opiate into Sober. It is
+good thing my recording could capture Sober and Right in Two, at least. Audience
+behavior was pretty good succeeding to previous night, quiet and polite, so this
+one turnd very clear recording. But incomplete... damn.
+ Oh well, there're some mistakes by Adam, particularly at the intro and ending 
+for Lateralis...pretty off-kilter ones !
+
+* THIS IS OVER 80 MINS TITLE. PLEASE USE OVER-BURN OPTION FOR THIS ONE
+  if you cannot make over 80mins disc, or even you do not know about over-burn,
+  pleae use "tool2007-02-12_ClubCitta_t11short.flac" instead of
+  "tool2007-02-12_ClubCitta_t11.flac". The total lenght would be 79:56 and could
+  burn any drive & software.
+
+Jun'ya aka the_sphere
+Feb. 17, 2007
+
+***** flac fingerprint *****
+
+tool2007-02-12_ClubCitta_t01.flac:e229799a29019ac7e0d0d6de0069c90e
+tool2007-02-12_ClubCitta_t02.flac:f8f69eb9a3d4048a66aeb1018ce62c3b
+tool2007-02-12_ClubCitta_t03.flac:559b526f2208e5f56afb6df28d0a8bc1
+tool2007-02-12_ClubCitta_t04.flac:2afe9a1b71f552ce5e07e2e0f9f4e478
+tool2007-02-12_ClubCitta_t05.flac:4cde529925fdb142a12f2980ff04dc81
+tool2007-02-12_ClubCitta_t06.flac:ec967d4711168cd5e803f39cfe05529b
+tool2007-02-12_ClubCitta_t07.flac:721d2decf337a4333c8ba0659876d6ed
+tool2007-02-12_ClubCitta_t08.flac:61ea32acfbaf6e8197b9be834eb0aa10
+tool2007-02-12_ClubCitta_t09.flac:146c55d92965a5c518bab2d874202c29
+tool2007-02-12_ClubCitta_t10.flac:f58b27f15746bd2cd9016686063e691f
+tool2007-02-12_ClubCitta_t11.flac:38f0617c443a1291600442270025c39e
+
+tool2007-02-12_ClubCitta_t11short.flac:c69daf8b4171c104b1ddf910ddc43815
+
+***** master md5 *****
+
+040093072ceb0ab904aefa8dd7ec6750 *tool2007-02-12_ClubCitta.ffp
+4d5bfe9aa3baa455098ff56c0e5ed957 *tool2007-02-12_ClubCitta.txt
+46cc326280efa18be7b476dfdcfa0662 *tool2007-02-12_ClubCitta_back.jpg
+51c8a3ca31cae55d505221c0b0520c7b *tool2007-02-12_ClubCitta_book.jpg
+a9b9ab8ce28fce172234bc2b461f5160 *tool2007-02-12_ClubCitta_t01.flac
+fa6601a250d3e03bef1da0a85737ea1b *tool2007-02-12_ClubCitta_t02.flac
+0842ffd056005142fa10e55b55d17bcb *tool2007-02-12_ClubCitta_t03.flac
+db15311724a519ed828c4be926b9adf1 *tool2007-02-12_ClubCitta_t04.flac
+9b1febdcda0b1ef1ab2fdcc2636a2237 *tool2007-02-12_ClubCitta_t05.flac
+e8805d4e56b4eedd4893f38345819e92 *tool2007-02-12_ClubCitta_t06.flac
+782725dbadef93d5f4193e49917fcdee *tool2007-02-12_ClubCitta_t07.flac
+bdc91bfc06e3f58138a80db2e52235c6 *tool2007-02-12_ClubCitta_t08.flac
+ffdba1c9546b97cf16f60600654e898a *tool2007-02-12_ClubCitta_t09.flac
+2a474a20f2762f211aca606e70740bfb *tool2007-02-12_ClubCitta_t10.flac
+bf62032cd25b943f0c3873d95c0e2119 *tool2007-02-12_ClubCitta_t11.flac
+62cd3bc319fb25585c0c205408f71d02 *tool2007-02-12_ClubCitta_t11short.ffp
+bbd7095138506a6dec42e14b5e264a02 *tool2007-02-12_ClubCitta_t11short.flac

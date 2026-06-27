@@ -1,0 +1,18 @@
+Tool
+1993-06-11
+Genêve, Switzerland
+Palladium
+
+Source: Soundboard
+Transfer: DSBM > DDC2 48khz > CDR > EAC (Secure Mode) > CDWave (tracking) > .WAV > .FLAC
+Generation: 3rd
+
+Setlist:
+01 - Intolerance - 6:45
+02 - Part of Me - 3:28
+03 - Sober - 5:45
+04 - Prison Sex - 5:23
+05 - 4° - 6:23
+06 - Opiate - 6:19
+07 - Flood - 7:40
+08 - Bottom - 8:19

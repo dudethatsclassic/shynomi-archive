@@ -1,0 +1,28 @@
+Tool
+2022-03-15
+T-Mobile Center,
+Kansas City, MO
+
+Source:  DPA 4080 > CA Ugly Battery Box > Sony PCM-M10 (Oade Preamp Mod) > .WAV (24bit/96kHz)
+Transfer: SD Card > MacBook > Adobe Audition (Gain, EQ, Cuts, Fades) > Fission (Track Splits, Bit Depth, Sample Rate) > xAct > .FLAC (Level 8) > Meta (ID Tags)
+Taper: TB
+Location: 6th row floor, Justin's side
+
+Tracklist:
+
+01 Intro
+02 Fear Inoculum
+03 Sober
+04 The Pot
+05 Pushit
+06 Pneuma
+07 The Grudge
+08 Right in Two
+09 Descending
+10 Hooker With a Penis
+   Intermission (Cut)
+11 Chocolate Chip Trip
+12 Culling Voices
+13 Invincible
+
+Notes: Some personal info was captured during intermission so it was cut

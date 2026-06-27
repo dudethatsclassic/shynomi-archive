@@ -1,0 +1,42 @@
+Slipknot
+July 02nd 2004 Orange Stage / Roskilde Festival / Roskilde / Denmark
+
+01. 742617000027
+02. (sic)
+03. The Blister Exists
+04. Eyeless
+05. Three Nil
+06. Duality
+07. Disasterpiece
+08. Pulse of the Maggots
+09. The Heretic Anthem
+10. Spit It Out
+11. Wait and Bleed
+12. 515 > People = Shit
+13. Surfacing
+
+Taper:
+ JTL
+
+Gear: 
+ Core Sound Cardioid Mics > Batterybox (Flat response) > Sharp MD-DR470H (LP2 mode)
+
+Edit:
+ Optical transfer to Pc > Sound Forge 8.0 (Eq, Normalize, Fades) > CDWave (Splitting tracks) > CDR > dBpoweramp CD Ripper > Flac lvl. 8 > You 
+
+Notes:
+ This is the first of two Slipknot shows to be played on this date (the other being With Full Force festival in Germany). David Bowie originally had this slot at the Roskilde Festival, but had to cancel at the very last moment due to chest pains. Slipknot, who weren't even supposed to play at Roskilde was then booked.
+
+Slipknot_2004-07-02_01.flac:64acea2cf40b746f8b3e85f551fa174f
+Slipknot_2004-07-02_02.flac:db2cc5d47df690cd406628b62d710f8d
+Slipknot_2004-07-02_03.flac:738d535f92536e2a864e5ca755161199
+Slipknot_2004-07-02_04.flac:4e3b123f48d2aaafdfdea71558345594
+Slipknot_2004-07-02_05.flac:c4a698ae8a43196ccaa63b476e36d0c8
+Slipknot_2004-07-02_06.flac:95ee58e45372b1c39849cb52abae92be
+Slipknot_2004-07-02_07.flac:022e0b8a5f61984cb6d389cee22d93eb
+Slipknot_2004-07-02_08.flac:e2ca4fed7d8006954381a2c15bc29d4b
+Slipknot_2004-07-02_09.flac:12a85c9579ae17e904e6a0803c36dce3
+Slipknot_2004-07-02_10.flac:64458166ef547ae7af06cbcbe4be7d1e
+Slipknot_2004-07-02_11.flac:8721ed6f95e05594c54b0e01028d5e3c
+Slipknot_2004-07-02_12.flac:a7b1cb15163cec89e41a1cb1768c59c4
+Slipknot_2004-07-02_13.flac:976e23bee43fda9e84e8b94823a09f33

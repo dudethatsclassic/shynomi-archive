@@ -1,0 +1,27 @@
+Tool
+November 24, 2002
+Long Beach Arena
+Long Beach, CA
+
+Source: DPA 4061’s > CSBox > Sony PCM-M1
+Lineage: DAT Master 16/48 > FLAC
+Transfer (BLG): DA-20 > coax > Marantz PMD-670 > usb reader > Adobe Audition (edits,slight EQ) > WavePad (tracking) > xACT (tags) > FLAC
+Taper: Ed Davis 
+
+01 Sober
+02 The Grudge
+03 (-) Ions
+04 Stinkfist
+05 Eon Blue Apocalypse
+06 The Patient
+07 Schism
+08 Parabol
+09 Parabola
+10 Third Eye
+11 -intermission-
+12 Disposition
+13 Reflection
+14 Triad
+15 Lateralus
+
+Total Time: 136:30

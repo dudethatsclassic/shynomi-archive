@@ -1,0 +1,49 @@
+SLIPKNOT
+October 11, 1999
+National Orange Show Fairgrounds
+San Bernardino, CA, US
+
+SETLIST:
+-------------------
+00. 742617000027 [P.A. tape]
+01. (sic)
+02. Eyeless
+03. Wait And Bleed
+04. Surfacing
+05. Purity
+06. Spit It Out
+07. Eeyore
+
+
+SOURCE:
+-------------------
+AUD #1 - Quality: 8.0
+unknown mic > Sony WM-D3
+
+TRANSFER:
+-------------------
+unknown mic > Sony Walkman WM-D3 Stereo Cassette-corder > ANA(M) > unknown transfer > Sound Forge > FLAC > Adobe Audition 23.1 [post-production/mastering] > xACT 2.51 > FLAC [Level 8]
+
+GENERATION:
+-------------------
+ANA(M) > WAV [44.1kHz/16-bit] > FLAC [Level 8]
+
+NOTES:
+-------------------
+- This source is mastered by manually adjusting the azimuth to meet in the middle.
+
+
+FLAC FINGERPRINTS:
+-------------------
+slipknot1999-10-11-aud1-t00.flac:464ff0c71dfa179ca68be11c3d371ca7
+slipknot1999-10-11-aud1-t01.flac:e00a28a7ff5e5860186e49a0d9035aed
+slipknot1999-10-11-aud1-t02.flac:335be6a99518328d41a3713654039c9d
+slipknot1999-10-11-aud1-t03.flac:4289771ea9954a21e9945cb068f5c130
+slipknot1999-10-11-aud1-t04.flac:0ed1be35634befd309732d648aa8ad43
+slipknot1999-10-11-aud1-t05.flac:73a70aec681863ea3106eeb5070ecb25
+slipknot1999-10-11-aud1-t06.flac:200585b3f7b9004672274ba2a713d9e8
+slipknot1999-10-11-aud1-t07.flac:488d9c6e7c7f321f048bac20721e33d9
+
+
+Transferred and encoded by: ijwthstd & vibrioidxire
+PLEASE DO NOT DISTRIBUTE IN LOSSY FORMATS OR SELL!

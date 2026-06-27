@@ -1,0 +1,37 @@
+TOOL
+
+Date:       2019-06-28
+Location:   Werchter - Festival Park Werchter (Belgium)
+Event:      Rock Werchter
+Source:     AUD/WAV MASTER (WAV-24 bit/48 khz) / Input Level '100'
+Equipment:  TASCAM DR-2d ( line in ) +
+            2x Audio Technica ATU853hc ('darktrain' 4.7k mod) + windscreens +
+            Sound Professionals SP-SPSB-10 Micro-mini microphone power supply
+            w/mini 12vdc battery and 16 inch removable output cable made with Schoeps kevlar cable
+            w/gold-plated 3,5 mm (1/8 inch) right angle stereo plug
+            mics hat mounted
+Lineage:    WAV(master)
+Transfer:   TASCAM DR-2d > USB > Hard Drive [PM]
+Taper:      PM
+
+Notes:      Actually the concert took place on the 29th of june ! TOOL started at around 00:30 in the early morning ...
+
+-----------------------------------------------------------------------------------------------------------------------
+
+
+setlist:
+
+oo. crowd
+o1. third eye intro
+o2. Ænema
+o3. the pot
+o4. parabola
+o5. descending
+o6. schism
+o7. invincible
+o8. part of me
+o9. jambi
+1o. forty six & 2
+11. vicarious
+12. (-) ions
+13. stinkfist

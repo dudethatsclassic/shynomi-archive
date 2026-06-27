@@ -1,0 +1,15 @@
+57dcc245204e12741d8201f466020c27 *1. Get Back.flac
+27c58b5a2c3df8d6f91173f1dad7f702 *2. All Hail Me.flac
+3f5c5e45b3322adaa8da9197ce0ae59f *3. Stoneface.flac
+623399310354ce8ac374418aabed1810 *4. Forsythia.flac
+ab2ce44ca8dcb9b9f244e970bee44962 *5. Straight.flac
+6208897b0da2ee5e75486abe8e45400b *6. Track 6.flac
+0c29ebb9284df86af189a8a6dcae42b8 *7. She's A Brain.flac
+3862e0f45876d6ab9b4e736b9060153e *8. Twinstar.flac
+3ee50bc1df0a989fc52c98d442480943 *9. Number One Blind.flac
+fda9fd027cabd47487db2b3e7dfd9e3d *10. Track 10.flac
+f0c63da7d1f2ab7aa2aa4841820c4333 *11. Hey Little Ghost.flac
+dab06b1216f256fd5ee01cf23ec66625 *12. Spiderman 79.flac
+c571f5a8a5657b8eb69aacb217f752a0 *G95.jpg
+0f1063e02d0cc70ec5205c7b279fa0db *info.txt
+a5a6ddfeeb689fe7ca9217e41b52f44e *photothumb.db

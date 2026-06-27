@@ -1,0 +1,29 @@
+Tool
+Texas Sky Park, Corpus Christi, Texas
+August 3rd, 1997
+
+LINEAGE: Core Sound Binaurals (w/o bass filter) > Sony TCD-D7 (line in LP mode 
+32kHz/16-bit) > 7 pin to coaxial > Philips CDR 870 (auto sample rate convert 
+44.1) > EAC (securemode) > Cool Edit Pro 2 > CDWave > FLAC > remastering in
+Audition > split to 16bit FLAC
+
+SETLIST:
+Hooker with a Penis
+Stinkfist
+Forty Six & 2
+Prison Sex
+Eulogy
+H.
+Third Eye
+Sober
+Opiate
+Ænema
+
+COMMENTS:
+I noticed this recording had potential to sound better than it turned out.
+Taper changed location a few times due to the rowdy audience and some parts
+ended up very muffled but with some work I've better balanced the sound and
+made it more clear so you've got a solid capture of a great Lollapalooza set.
+
+Remastered and shared by reel_to_reel
+!!! DO NOT SHARE IN MP3 OR OTHER LOSSY FORMATS, KEEP IT LOSSLESS !!!

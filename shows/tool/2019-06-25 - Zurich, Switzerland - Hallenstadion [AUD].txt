@@ -1,0 +1,35 @@
+TOOL
+2019-06-25
+Hallenstadion
+Zürich, Switzerland
+
+Source:     Schoeps MK41V > Schoeps KC actives > Naiant tinybox > Sony PCM-A10
+Mic Config: DIN-A (90°, 17cm)
+Location:   section H1, right side
+Transfer:   Master WAVs > dEdit > FLAC V1.3.2
+Editing:    Digital editing in Apple Logic Pro X V10.3.1
+            EQ, compression and volume boost using iZotope Ozone7 V7.0.1299
+            Fades in Audiofile Engineering Wave Editor V1.5.7
+Dithering:  MBIT+
+Format:     16 bit / 44.1 kHz
+
+Disc 1:
+01 (Third Eye Intro)
+02 Ænema
+03 The Pot
+04 Parabol
+05 > Parabola
+06 Descending
+07 Schism
+08 Invincible
+
+Disc 2:
+01 Intolerance
+02 Jambi
+03 Forty Six & 2
+04 (Intermission)
+05 Chocolate Chip Trip
+06 Vicarious
+07 (-) Ions
+08 Stinkfist
+09 (Outro)

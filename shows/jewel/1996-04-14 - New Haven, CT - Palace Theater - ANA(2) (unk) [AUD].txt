@@ -1,0 +1,71 @@
+﻿Jewel Kilcher
+Palace Theatre
+New Haven, CT
+April 14, 1996
+
+Source : AUD > 2nd generation cassette
+
+Transfer : JVC TD-W354 deck > Sony Standalone RCD-W500C
+
+Processing : Sound Forge (CD extract, tracking, volume) > Wave > TLH (sbe aligned) > Flac 8
+
+edited & posted by kingrue upload #4268
+====================================
+
+Here’s a recording from Jewel when she was the opening act for Bob Dylan.
+Jewel did a total of five shows with Bob Dylan and this is the second show.
+I was never able to find the master tape so a second generation is the best I can offer.
+
+Total Time = 46:48
+
+Set list
+01 Pieces Of You
+02 Little Sister
+03 Sometimes It Be That Way
+04 Morning Song
+05 She Cries
+06 Don’t
+07 Near You Always
+08 Tiny Love Spaces
+09 Angel Standing By
+10 Amen
+11 Fragile Flame
+12 Deep Water
+13 Who Will Save Your Soul
+14 Chime Bells
+
+=========================
+
+17b487aa0de747d11e324ef8641a305e *01 Pieces Of You.flac
+b0055d73dbfadd424c88284c33bf1d3a *02 Little Sister.flac
+6a90bfc9926ea6e2902b700e42dc2a3b *03 Sometimes It Be That Way.flac
+c1b4926adc22ba7096c8e1d075813f44 *04 Morning Song.flac
+a5330f62d9e491e99d464390cc295a75 *05 She Cries.flac
+c12e0a2a2790c3dbeb0c3393304b0c09 *06 Don’t.flac
+d5793eb14908e68a227ad07f72e7c86b *07 Near You Always.flac
+27250d211fde446c14cbc271c18730fe *08 Tiny Love Spaces.flac
+b82c67f4f3f68a169e57b7e49592c67b *09 Angel Standing By.flac
+b585b7b682be16a4d88699cb2d9a001b *10 Amen.flac
+3e38fa85807dae7d86fc4dae3a01d9e7 *11 Fragile Flame.flac
+382287ad1696f1fc0a0b2b2468658eb1 *12 Deep Water.flac
+0f1ebfa92e730345cde09f0666554f52 *13 Who Will Save Your Soul.flac
+3305f735aace6880f2ad50a7fe10122f *14 Chime Bells.flac
+
+01 Pieces Of You.flac:3809aa32de4c990f420412f73403a132
+02 Little Sister.flac:5097337ae1426077a1499c0642c84434
+03 Sometimes It Be That Way.flac:b0de95323798c36d30828f2d738b284c
+04 Morning Song.flac:93d80c4c0b10111e18a86e990c48da06
+05 She Cries.flac:d2ab1186629373067aae360113791355
+06 Don’t.flac:59d0124f6d08347a317c171ff1685bff
+07 Near You Always.flac:0fa1d8e508a54c040ad80c0c6e57704c
+08 Tiny Love Spaces.flac:a50a2d2d4f1101e4ea5157df9e4cd2e6
+09 Angel Standing By.flac:8e29b3a2fe51c206f803afb59082cda2
+10 Amen.flac:09dfb05ba1a254bb70a297e32ed9796d
+11 Fragile Flame.flac:a9121704f8d34803ab7290e45217d06d
+12 Deep Water.flac:6073402d32e14bd3b8066d13b1a232a5
+13 Who Will Save Your Soul.flac:5819d9e115dce8c032edcd6f0cdd3870
+14 Chime Bells.flac:72dc51839f8d0c6090484fda4b4e86e8
+
+No errors occured.
+
+Create checksum file log saved to file.

@@ -1,0 +1,43 @@
+Thelonious Monk Quartet
+Newport Jazz Festival
+Newport, RI
+July 2, 1966
+
+lineage:
+FM? > ? > flac on DVD in trade > Easy DC-DA Extractor > Dime
+
+The sound on this one is in the A- range, generally very clear, but a
+bit hissy in the quieter parts.
+
+01. Evidence (11:32)
+02. Light Blue (10:49)
+03. Japanese Folk Song [Kojo No Tsuki] (10:08)
+
+NOTE: The Monk discography at www.jazzdisco.org lists this date (with
+a somewhat different track listing) as "Blue Monk"  (Black Lion (J) 
+32JDB 137).  However, extensive research has not shown any evidence that 
+such an album was released.  The "London Sessions" (all from 1971) appear
+to be the only Monk releases on Black Lion.  In addition, Mosaic's 
+"The Complete Black Lion and Vogue Recordings of Thelonious Monk" does not
+include this set.
+
+Lineup:
+Thelonius Monk - Piano
+Charlie Rouse - Tenor Sax 
+Larry Gales - Bass
+Ben Riley - Drums
+
+
+
+64b0cd4a98d5983fbc2347cfcbf1f047 *Track 01.flac
+7e00aee029729462de3525c6709bc26d *Track 02.flac
+161e6d0f319ca89b5c508e605b7b5bb2 *Track 03.flac
+
+No errors occured.
+
+Track 01.flac:7052eda8261f01213fb10615de6e6b95
+Track 02.flac:3512795abbced0aca0037b51bd323ac6
+Track 03.flac:6b1f3d5dc81d9a5464d7ffec11b42539
+
+No errors occured.
+

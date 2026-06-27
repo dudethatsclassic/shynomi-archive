@@ -1,0 +1,32 @@
+Blink-182
+Coachella Festival,
+Empire Polo Grounds,
+Indio, CA, USA
+Main Stage
+April 23, 2023
+
+Lineage: YouTube LIVE Stream -> youtube-dl -> ffmpeg (cut) -> uncompressed .ts
+Video: MPEG4 Video (H264) 1920x1080 2890kbps 30.00 fps
+Audio: AAC 384 Kbps 44.0 KHz stereo
+
+Setlist:
+Family Reunion
+Anthem Part Two
+The Rock Show
+Man Overboard
+Feeling This
+Reckless Abandon
+What's My Age Again?
+Dumpweed
+EDGING
+Aliens Exist
+FiStay Together for the Kids
+Happy Holidays, You Bastard
+Always
+Down
+I Miss You
+First Date
+All the Small Things
+Dammit
+
+TRT = 01:03:13

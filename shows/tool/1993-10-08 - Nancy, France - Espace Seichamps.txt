@@ -1,0 +1,16 @@
+Tool
+10-08-1993
+OCT-08-1993
+Nancy, France @ Espace Seichamps
+Source: Aiwa CM30 > Sony TCD-D7 / 32kHz
+Transfer: DC1 > Tascam DA-20 > Waveterminal U24 > coax > Wavelab 5.0 > 44.1kHz (resampled) > CDWave (tracksplits) > .FLAC
+Transferred by Per (nov. 2005)
+
+Set:
+Part Of Me
+Sober
+Bottom
+Crawl Away
+Prison Sex
+Undertow
+Opiate

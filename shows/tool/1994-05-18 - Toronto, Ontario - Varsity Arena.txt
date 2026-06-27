@@ -1,0 +1,22 @@
+Tool
+1994-05-18
+Toronto, Ontario, Canada
+Varsity Arena, University of Toronto
+
+Taper: Andymon
+Source: Sony ECM-909 > Unk Portable DAT/48 kHz
+Transfer: 2G DAT > Tascam DA-30 (SPDIF out) > M-Audio Audiophile 2496 (SPDIF in) > Sound Forge 7.0 (fades) > .FLAC (level 8) [Raw Tape, no editing.]
+Notes: Tranferred by Distortion on 5-3-2006.  Only DAT sourced version known to exist. Must be downsampled to 44.1 to burn to CD.
+
+Setlist:
+Cold & Ugly
+Intolerance
+Undertow
+Sober
+Prison Sex
+Swamp Song
+Sweat
+4°
+Opiate
+Flood
+Bottom

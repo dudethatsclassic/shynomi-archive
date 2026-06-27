@@ -1,0 +1,70 @@
+THE BREEDERS
+September 21, 1993
+The Troubadour
+West Hollywood, CA
+
+SOURCE:
+Sonic Studios DSM-6 > Denon DTR-80P
+
+TRANSFER:
+Tascam DA-20 MKII > PreSonus FireStudio Project > Adobe Audition 3.0 > FLAC frontend 1.7.1
+
+GENERATION:
+DAT(M) > WAV [48kHz/16bit] > WAV [44.1kHz/16bit] > FLAC [Level 8]
+
+LENGTH:
+64:37
+
+TRACKS:
+01. intro
+02. S.O.S.
+03. New Year
+04. Hellbound
+05. When I Was A Painter
+06. No Aloha
+07. Flipside
+08. Don't Call Home
+09. Iris
+10. Lord Of The Thighs
+11. Fortunately Gone
+12. I Just Wanna Get Along
+13. Cannonball
+14. Invisible Man
+15. Saints
+16. Hag
+17. Divine Hammer
+18. Safari
+19. Limehouse
+20. Roi
+21. Doe
+
+MD5 FINGERPRINTS:
+987bcd0965e14463f07186e6f331206c *breeders1993-09-21t01.flac
+72917a164875f239638ffecd7f819bf2 *breeders1993-09-21t02.flac
+430ba70d34a0b3a3f9a147c965df5d5f *breeders1993-09-21t03.flac
+7ce16340e045ea1ecf03696f128fd681 *breeders1993-09-21t04.flac
+baedfdeeae1f91467b5422f3985884dc *breeders1993-09-21t05.flac
+f99204d879b5cb89b62d470b13090500 *breeders1993-09-21t06.flac
+c16f400cbb9bee3cd5ed8735ef35734b *breeders1993-09-21t07.flac
+72b5e3d77fe9c92adf9db8452d361774 *breeders1993-09-21t08.flac
+11080f6900f6659c3c3a3c8958ba7928 *breeders1993-09-21t09.flac
+a6e148ffa0d769946cfbea45bc524203 *breeders1993-09-21t10.flac
+0ae6b2bce9e0e8d697731f6710ba3554 *breeders1993-09-21t11.flac
+d102c2192c629de36d290e816f052839 *breeders1993-09-21t12.flac
+43a3f747674a868483e90ef2660144e8 *breeders1993-09-21t13.flac
+a04d85b4742ab9c25af11874c0690040 *breeders1993-09-21t14.flac
+eba71f158913150e2d8703530a93a477 *breeders1993-09-21t15.flac
+52cbc82504932fc98ac9da4b2a6f74d3 *breeders1993-09-21t16.flac
+ebe71ca936b224e1ac52a537bd2c06ba *breeders1993-09-21t17.flac
+7f1f0b7b5440555ef6558819a548e472 *breeders1993-09-21t18.flac
+e35df1b9a87e2b73f48dce4593eaf88c *breeders1993-09-21t19.flac
+110df6d2148b96267bdbb5e999939579 *breeders1993-09-21t20.flac
+5f83c09d5e92df984ccb4183d2d67e15 *breeders1993-09-21t21.flac
+
+TRANSFERRED BY:
+Mike Ziegler
+
+RECORDED BY:
+JEMS
+
+PLEASE DO NOT SELL OR ENCODE TO MP3

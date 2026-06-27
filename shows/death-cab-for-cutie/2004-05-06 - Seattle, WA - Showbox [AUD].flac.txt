@@ -1,0 +1,40 @@
+Death Cab for Cutie
+Showbox
+Seattle, WA
+2004-05-06
+
+Taper: Jarod Watson (alienbobz@yahoo.com)
+Source: AT831 > SP-SPSB-1 (Bass Roll-Off @ 95hz) > Creative Nomad Jukebox 3
+Location: Left of soundboard, mics aimed at left stack, 6' high
+Conversion/Editing: JB3 > USB > Soundforge 6.0 > CD Wave v1.91 > Flac Frontend v1.7.1
+
+***Please keep the show lossless. Don't convert to mp3.***
+
+Disc 1:
+
+01	Intro				00:41.07
+02	Bend To Squares			04:38.48
+03	The New Year			03:46.15
+04	Why You'd Want To Live Here	05:23.37
+05	Title and Registration		04:13.02
+06	Expo '86			04:01.42
+07	Company Calls			03:30.14
+08	Company Calls Epilogue		05:21.01
+09	Lightness			04:09.49
+10	The Sound Of Settling		03:12.48
+11	We Looked Like Giants		08:04.26
+12	Photobooth			04:12.26
+13	A Movie Script Ending		04:55.29
+14	Tiny Vessels >			03:53.11
+15	Transatlanticism		10:01.31
+Encore
+16	405				03:36.57
+17	Styrofoam Plates		05:10.61
+
+Total:					78:51.54
+
+Notes:
+
+None :).
+
+Compiled by alienbobz@yahoo.com (2004-10-29).ed by alienbobz@yahoo.com (2004-10-29).

@@ -1,0 +1,52 @@
+Jeff Buckley
+Workers Club, Newcastle, Australia
+13 February 1996
+
+AUD > ?Gens > Trade CDr > Nero Wave Editor > WAV > FLAC > Audacity > FLAC
+
+Incomplete show
+
+Probable Set List
+-----------------
+01 Dream Brother [Not Recorded]
+01 //Mojo Pin (cuts in)
+02 Band Intros 
+03 Lilac Wine
+04 Grace 
+05 Eternal Life 
+06 Kick Out The Jams
+07 Edna Frau ¤
+08 I Woke Up In A Strange Place 
+09 The Way Young Lovers Do
+10 New Years Prayer -> Lover, You Should Have Come Over
+11 Chat: "You wanna hear that French song?"
+12 Je N'en Connais Pas Le Fin
+13 Hallelujah// (cuts out)
+15 Vancouver -> Kanga-Roo [Not Recorded] 
+
+TT: 1:10:50
+
+Jeff Buckley - Guitars & Vocals
+Michael Tighe - Guitars
+Mick Grondahl - Bass, vocals on ¤  
+Matt Johnson - Drums 
+
+A new year - a new tour - a new continent. At the beginning of February 1996, after five months off the road, the band headed to Auckland, NZ for rehearsals, followed by a show at the St James Theatre, probably best known as the site of Neil Finn's 'Seven Worlds Collide' project a few years later. Further rehearsals took place in Sydney, and on the twelfth the band played the Royal in Canberra. Sadly neither of those shows was recorded. So for us, this is the first chance to hear the band this tour, courtesy of an unknown - and not terribly good, sad to say, taper. It's really a shame: we're missing the beginning and the end of the show; the taper stopped and started the tape several times; and the levels are all over the map, from distorted to inaudible.
+
+During his interview on WXRK (posted here: http://www.dimeadozen.org/torrents-details.php?id=780713), Jeff mentions he will be trying out new material on the road, and true to his word, we get three new songs: "I Woke Up In A Strange Place", which Jeff had tried out on Idiot's Delight, a brief "New Years Prayer" (the MSTD track, not the actual prayer he read at New Years 1993 in Sin-Ž, which is on the Sin-Ž DVD), and Grondahl's "Edna Frau" (that's Mickey singing). As on the official "Sketches" release, these songs are unfinished and rough. 
+
+As noted above, this show is a mess. I originally received it on a trade CDr as 30 tracks(!). Levels varied wildly for no apparent reason. In 2007 or so, I used Nero to join & edit the WAV files so that it was tracked correctly. I removed about a half-dozen loud clicks at that time. In preparation for re-posting this year, I repeated the process in Audacity, removed few more clicks and pops, and tried to repair some of the worst damage. I smoothed the transition into "Lilac Wine", which had a hard cut.  Grace contains a fade about 19 seconds in to cover a 5-sec dropout as best as possible. There's a glitch at 4:13 or so. Levels continue to fluctuate throughout. After "Kick Out the Jam"s, the entire thing seems to fall away completely. There is some tape degradation at the start of "Lover", and the last two songs are so quiet that the hiss is nearly overwhelming. I added a fade to the end of Hallelujah, which was cut.
+
+I'm presenting this purely for the historic value, and for the completists out there - I see you!
+
+
+Here is one of the very best interviews of Jeff I've ever read, written shortly before the start of the tour: https://notwithyoubutofyou.blogspot.com/2017/11/double-take-magazine.html
+
+
+Files verified, tagged, and renamed to etree conventions; new checksums generated. 
+Text file updated, compiled & copy-edited by lovesick alien 2024-10-02
+--------------------------------------------------------------------------------
+Trade Freely. Never Sell. 
+Support the Artist: Purchase ALL authorised releases. 
+Support the Trading Community: Never Encode to lossy formats.
+--------------------------------------------------------------------------------

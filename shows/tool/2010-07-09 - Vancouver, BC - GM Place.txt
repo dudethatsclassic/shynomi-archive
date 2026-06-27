@@ -1,0 +1,43 @@
+Tool
+Friday, July 9th, 2010
+Rogers Arena [formerly General Motors Place],
+800 Griffiths Way,
+Vancouver, BC, Canada
+
+Taper: LeifH
+Source: CA-1 > Sony WM D6C (Dolby [B or C?] on for recording) > Maxell XL-II C-90 (x2)
+Transfer: Master cassettes > Pioneer CT-S405 (Dolby off) > H/K 3500 > Creative X-Fi Soundblaster > Wavepad Master's                        Edition @ 48000kz > flac (8) via Frontend
+
+Setlist:  1:50:51
+01 Third Eye
+02 Jambi
+03 Stinkfist
+04 Vicarious
+05 Eon Blue Apocalypse
+06 The Patient
+07 Intolerance
+08 Schism
+09 Forty-Six & 2
+10 Lateralus
+11 Ænima
+
+Where to start... This time was ten thousand times better than when I first saw them in 2007.  Rajas was the opening act, and I didn't dislike them, but I don't regret not taping them.  The crowd was a solid mix of all levels of Tool fans, and I think most people were nicely surprised by the setlist.  We got to the arena about 19:00 and it took maybe 8-10 minutes of waiting in line to get in.  It looked like Tool had their own guys watching everyone enter, on top of the usual pat down from venue staff.  There weren't any cops at this show, but there was a third party security crew.  I didn't see one person get kicked out, but plenty of people were hassled for smoking and sitting on others' shoulders.  I was surprised at the amount of cameras going with little care from any security.  
+
+Maynard had on a t-shirt that said, "POSTAL," and a USPS hat.  During Third Eye he was taking pictures with some sort of hand-held, digital device.  Danny had a Lakers jersey on.  During Jambi you can hear a guy's reaction to me signaling him  to shut up.  He gave me the finger and told ME to move, but he still shuts up.  My friend and I smoked a joint during Stinkfist, and towards the end of the J, there were 2 different flash lights pointing in our eyes, so out it went.  Maynard was drinking out of a bottle of wine (his, I assume) for most of the show, shared some with Justin early on, and also gave a swig to Gino, the drummer from Rajas after Lateralus.  I'm pretty sure I saw Adam puffing on something, too.  Listen for the Back to the Future reference, it was appropriate for the city, as Michael J. Fox grew up in Burnaby/Vancouver (not the first time he's used that one, though).  One guy occasionally yells, "Cold & Ugly!" between songs and eventually tells his neighbour, "I will shit my pants if they play it."  Just before Ænima, Maynard held out a white piece of paper with the number 2 drawn on it in black felt... not too sure why.  Michael Jackson is referred to, and some of the cuss words weren't actually said for Ænima, half the time he said "eff" or "shhhht."  Outside, after the show, I heard 2 different fugly-gunts complaining that the show, "sucked," and that they "played like four songs."  I don't think so, both were wrong.
+
+Now for the recording details.  First off, using a Sony Walkman for really loud shows is like peeing through a Cheerio.  When it works out, it sounds very nice.  On the way home from the show, I noticed that the bias selector switch was on Normal (I), and the Dolby switch was on type C.  Before entering the venue, I had the switches on Cro2 (II) and Dolby B, however the only time they could have moved accidentally would have been prior to the show starting.  I can't say for sure, but now I know to check them before I start recording.  Send me a private message if you can't figure out how this might have happened and want to know.  At the beginning of the show, I had my levels very low, and it turned out to be too low, so I missed the lights going out, and the beginning of Timothy's speech, however I still caught all of Third Eye, I just had to fade in a little later than I would have liked.  Tool is always bass-heavy, and this was no exception.  My shirt was literally moving along with the music.  Unfortunately, the CA-1's have a little bit of mic-overload in these kinds of environments, so to some, the bass drum might be a bit much at times.  It's basically how it sounded though, and I was even I bit lower than I usually am with the levels.  
+
+I think next time I'll get seats at the back, rather than general admission floor tickets.  Don't get me wrong, it was a lot of fun, but I don't like standing amongst drunken fools that pay $8.50 for a beer, spill half of it on people, and start mini-mosh pits at a show with zero tolerance for moshing (while recording).  I didn't actually find out about this show until it was already sold out.  So I had to find tickets from a third party...It was worth the extra dough.  Bring ear plugs if/when you see Tool.  You won't regret either.
+
+fingerprints:
+01 - Third Eye.flac:fd4d7411999f18cbdac8cc3b7d29dfaa
+02 - Jambi.flac:0dbba280b1eccf3be0f78009bfb2af9b
+03 - Stinkfist.flac:b96c2be03d4ee1390b6afd0cb095ad19
+04 - Vicarious.flac:f62c6f7583fec8559954f3ccd13f4d7d
+05 - Eon Blue Apocalypse.flac:e6cfb4dab1bc777301cfc3d287a9ee17
+06 - The Patient.flac:574b2fa701f5d87a4c5eba434c042935
+07 - Intolerance.flac:49c605199911711b832fdc0a0224199f
+08 - Schism.flac:4274caeea30b6aad900a5f3630562509
+09 - Forty-Six & 2.flac:efe51336545924c6128dd97e733b1241
+10 - Lateralus.flac:387926c486a15d3d13637c62e8ee2487
+11 - Ænima.flac:0e0dd091002b3065bb3e326af388722c

@@ -1,0 +1,50 @@
+Jewel Kilcher
+World Cafe
+Philadelphia, PA
+November 13, 1995
+
+Source : FM Broadcast > 1st gen cassette > CD-R > EAC
+
+Transfer : Sony TC-WE 475 > JVC XL-R2010 CD-RW (16/44) (Transferred on 4/5/08)
+
+Editing : Sound Forge (CD extract, tracking, volume) > Wave > TLH (sbe aligned) Flac 8
+
+Traders Den - June 16, 2023
+
+transferred & posted by kingrue #3687
+=====================================
+
+
+Total Time = 22:23
+
+Set list
+01 Interview
+02 Who Will Save Your Soul
+03 Interview
+04 I'm Sensitive
+05 Interview
+06 Amen
+07 Interview
+08 Pieces Of You
+09 Interview
+
+======================
+
+
+No errors occured.
+
+
+01 Interview.flac:f2a7a19be0348777c9bc37df4c637c69
+02 Who Will Save Your Soul.flac:beb31accf3d7f333ec24399cc1f07f16
+03 Interview.flac:5b7a338a9eec2245ace295d1bd7e005a
+04 I'm Sensitive.flac:e3ed7b038a3d2f93c42e2dc3338cb12e
+05 Interview.flac:408466778f63c72e55a1db2e8808174f
+06 Amen.flac:68666b4066071b8bb8070fe18dad558a
+07 Interview.flac:ca5c24c5fbf6380f1a4a8081cd0bb573
+08 Pieces Of You.flac:699e6a614a4fedd8c6ef8b682131689d
+09 Interview.flac:11e736bc0628dea557e9ba60a9d79c5d
+
+Checksum file saved to disk.
+
+No errors occured.
+

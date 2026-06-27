@@ -1,0 +1,61 @@
+Jeff Buckley
+16 December 1994
+Tower Records, Greenwich Village, NYC
+
+Goody's Speed/Pitch-adjusted Audio Upgrade - 24-bit Edition
+
+Master AUD Recording
+Taper: Phideaux3
+
+Aiwa MIC/Deck > CASS > Audigy 5/Rx/Audacity/CD WAve > FLAC >
+
+Goody's additional lineage:
+Audition (Pitch Bender, various amounts) > TLH (FLAC Level 8; Align sector boundaries; .ffp) > foobar2000 (tags)
+
+Set List:
+---------------------------------------------------------
+01 Walk On & Band Intros 2:35
+02 Dream Brother 6:07
+03 "Tool moment" 0:54
+04 Grace 7:22
+05 So Real 4:54
+06 "insert phone joke here" 2:01
+07 Last Goodbye 6:48
+08 What Will You Say 8:32
+09 Mojo Pin (tape flip @5:27) 7:03
+10 Lover, You Should've Come Over 7:53
+11 Outro 1:25
+---------------------------------------------------------
+Runtime: 55:34
+
+Jeff Buckley - Guitars & Vocals
+Michael Tighe - Guitars
+Mick Grondahl - Bass
+Matt Johnson - Drums 
+
+From Philly, it was home to New York City with back to back appearances at Tower Records and Irving Plaza bringing the Fall 1994 Tour to a close. The Tower Records In-Store is a bit longer than these affairs usually ran - it's closer to an actual concert, featuring most of the regular set, along with the usual Jeff goofiness. We are lucky that taper Phideaux3 was there to capture the event and to share it with us.
+
+Taper's Notes
+-------------
+First transfer. New to circulation. I thought I got there early, but there were already a good number of people smashing into the small space created by pushing the CD stands aside.  I remember a lot of people outside even though it was so cold.  I don’t think everyone that showed up got inside for the performance. [I'm] pretty sure that’s Jeff whistling while waiting for everyone to get in place on stage.  The noise and laughter early in Mojo Pin is because someone thought it was safe to lean on something and a bunch of CDs fell on the floor.
+
+Only 7 songs, but I think everyone was more than satisfied as there was a meet & greet after.  He was somehow simultaneously aloof and approachable.  It wasn’t like the 3 seconds for a photo and ‘Next, please.’ that you have to pay for in recent years.  Got him to sign my CD booklet for the Siné EP and said “I met your dad once when I was about 5.” He said “You and me both, man.”  I was surprised we actually got to talk for a little longer.  He tried to brush me off when I told him his album was one of the greatest expressions of emotion I’d heard in my life.  I told him a little more about how I got to meet Tim and he had a couple jokes about that. I feel incredibly fortunate I got to see him again 6 months later opening for Juliana Hatfield at Roseland [ED: where I was lucky enough to see my third JB show]....there were other chances to see him.  It was the start of his career; I figured I’d wait for the next album.  Sigh.
+--------------
+
+Some pics from this show here: http://www.flowersintime.org/show.php?gigid=204
+
+Contemporaneous interviews/articles here: https://notwithyoubutofyou.blogspot.com/2020/12/gracefully-changing-family-fortunes.html 
+and here: https://notwithyoubutofyou.blogspot.com/2022/12/jeff-buckley-knowing-not-knowing.html
+
+I got this from a Dime upload some years back, but before reseeding it I thought to check with Prof Goody first who discovered the speed to be running extremely slowly, the pitch being between approximately 76-96 cents flat. That's been fixed and is available in 24/96 and 16/44.1 editions.
+
+Files verified, tagged, and renamed to etree conventions; new checksums generated. 
+Text file updated, compiled & copy-edited by lovesick alien & goody 2024-10-14
+------------------------------------------------------------------------------------------------------
+Trade Freely. Never Sell. 
+Support the Artist: Purchase ALL authorised releases. 
+Support the Trading Community: Never Encode to lossy formats.
+-----------------------------------------------------------------------------------------------------
+ 
+
+

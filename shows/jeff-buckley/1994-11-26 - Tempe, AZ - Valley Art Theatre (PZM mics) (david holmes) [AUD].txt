@@ -1,0 +1,42 @@
+Jeff Buckley
+27 November, 1994
+Valley Art Theatre
+Phoenix, Arizona
+
+Master AUD Recording
+Taper: David Holmes
+
+PZM Mics/TCDD3 > DAT > DAT2WAV/WAVELAB > WAV > FLAC
+
+Set List
+--------
+01 Chocolate -> Mojo Pin
+02 The Time Warp tease
+03 Grace
+04 Dream Brother
+05 Eternal Life
+06 Last Goodbye
+07 What Will You Say
+08 So Real
+09 Hallelujah
+10 Lover, You Should Have Come Over
+11 Pink Panther theme tease
+12 Kanga-Roo
+
+From the church in San Francisco, the band played further dates in Cali, including a Tower Records in-store and a date at the famed Roxy on the 23rd, before heading to Arizona for this date at the Valley Art Theatre in Tempe. The show is frequently mislabeled as Phoenix, but the theatre is in nearby Tempe, where the band also appeared for an afternoon session at local station KASR. This master recording was posted to Dime some time ago. I downsampled it to 16/44.1 and tagged it. It remains unchanged, otherwise.
+
+Eclect's Notes
+-------------------------
+Yes, you read right, this is a master DAT [from] an uncirculated source! Massive credits to the original taper David Holmes the foresight of taping this way back in 1994, and for being generous enough to share it with us. New Buckley sources are so few and far between these days, so we salute you David - it is truly a gift. Additional thanks must also go to joenirvana [whoo loacated and procured the source]. Great work dude!
+
+I have done absolutely no DSP on this, to keep it in its pristine, unadulterated glory. That said, it is not without its peculiarities. The show was recorded in two parts at different sample rates on the same DAT (neither were 44kHz). The initial set was recorded at 16bit, 32kHz, Stereo, while the encore was recorded at 16bit, 48khz, Stereo. This made extraction very interesting. [ED NOTE: this fileset has been downsampled to 16/44.1 throughout, so I have removed a couple of paragraphs about sample rates and associated difficulties, which have now been obviated].
+
+Jeff is in typically playful form for this gig, from mucking around waiting for the sound guys to fix the PA, to the encore, in which he teases the Pink Panther theme before segueing into a less than serious take of Kanga-Roo. While [his equipment's behaviour] was less than perfect, Jeff is at his masterful best, with his band following suit. I hope you enjoy this as much as i did transferring it! Once again all thanks go to David Holmes for taping and sharing this source! 
+
+Files verified, tagged, and renamed to etree conventions; new checksums generated. 
+Text file updated, compiled & copy-edited by lovesick alien 2024-09-19
+--------------------------------------------------------------------------------
+Trade Freely. Never Sell. 
+Support the Artist: Purchase ALL authorised releases. 
+Support the Trading Community: Never Encode to lossy formats.
+--------------------------------------------------------------------------------

@@ -1,0 +1,33 @@
+Tool
+2024-02-17
+Toyota Arena
+Ontario, CA, USA
+
+-- Source --
+DPA 4081 > MMA-A > 24bit/48kHz
+
+-- Processing --
+iZotope RX (editing/mastering) > CD Wave (tracking) > Trader's Little Helper (encoding)
+
+-- Setlist --
+01 - intro (Third Eye heartbeat)
+02 - Fear Inoculum
+03 - Jambi
+04 - Lost Keys (Blame Hofmann)
+05 - Rosetta Stoned
+06 - Pneuma
+07 - Descending
+08 - Schism
+09 - intermission
+10 - Chocolate Chip Trip
+11 - Culling Voices
+12 - Invincible
+13 - (-) Ions
+14 - Stinkfist
+
+-- Notes --
+Elder opened.
+
+Length: 2h10m40s
+
+-- faninor -- 2024-02-29 --

@@ -1,0 +1,17 @@
+Tool
+1993-07-23
+Raleigh, NC
+Walnut Creek Ampitheater
+
+Source: Soundboard
+Transfer: ASBM > DDC2 32khz > CDR > EAC (Secure Mode) > CDWave (tracking) > .WAV > .FLAC
+Generation: 3rd
+
+Setlist:
+01 - Intolerance - 5:10
+02 - Hush - 3:17
+03 - Sober - 5:28
+04 - Crawl Away - 5:34
+05 - Sweat - 3:29
+06 - Undertow - 5:30
+07 - Jerkoff - 4:06

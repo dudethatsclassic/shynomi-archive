@@ -1,0 +1,41 @@
+The Flaming Lips
+Madison Square Garden
+New York, NY
+Friday December 31, 2004
+
+Taper:		George Wang <gewwang@yahoo.com>
+Source:		DPA4022 > Sonosax SX-M2 > Audio Magic Hyper-Conductor > SBM-1 (Oade T-Mod)
+Location:	Sec 1, Row J, Seat 1, 10th row stage left stack, 20 ft. stage left stack
+
+DAT > FLAC:	D100 > Digigram VXPocket V2 > Steinberg WaveLab v5.00a > CD-WAV >
+		FLAC frontend v1.7.1 > .flac
+
+Disc One:
+
+01:	Intro *					-	03:53.600
+02:	Intro >					-	02:26.000
+03:	Race For The Prize			-	06:05.573
+04:	Fight Test				-	04:27.245
+05:	Intro >					-	03:02.000
+06:	The Gash (Battle Hymn For The Wounded
+	Mathematician)				-	04:15.400
+07:	Intro >					-	02:20.400
+08:	War Pigs !				-	04:53.333
+09:	Intro >					-	01:32.400
+10:	Yoshimi Battles the Pink Robots Pt. 1	-	08:36.000
+11:	Yoshimi Battles the Pink Robots Pt. 2	-	04:49.466
+12:	Lighting Strikes The Postman		-	05:05.000
+13:	In The Morning Of The Magicians		-	06:49.400
+14:	Intro >					-	01:55.400
+15:	She Don't Use Jelly			-	07:35.486
+16:	Do You Realize?				-	04:22.733
+17:	Outro					-	04:07.000
+
+Total:						-	76:17.736
+
+*	Fred Armisen
+!	with Corin Tucker
+
+Note:	some noise caused by balloons hitting the mics in d1t01-d1t06
+
+compiled by George Wang on 01-18-2005

@@ -1,0 +1,58 @@
+Thelonious Monk Nonet
+Liederhalle
+Mainz, Germany
+November 8, 1967
+
+Solid sound here, given the age of the recording.  Definitely in the A-
+range.
+
+
+01  intro
+ [2:31]
+02  Ruby My Dear (quartet) [7:07]
+03  Don't Blame Me (solo piano) [5:03]
+04  Rhythm-a-ning  (C.Terry - trumpet) [4:46]
+xx  I Mean You / Theme (nonet) [officially released*]
+05  Straight, No Chaser
+ [9:11]
+06  Evidence
+ [18:08]
+07  Oska.T [18:13]
+
+
+*Released in a 4:16 version on "Straight No Chaser" (the movie soundtrack 
+album - Columbia CK 45358).  Sheriden notes that "this was spliced from
+several sources, including an on-tour rehearsal, being drawn from the
+Charlotte Zwerin/Bruce Ricker film documentary, "Straight No Chaser."
+The version I have is 24:27 and the real gem of this show, as all members 
+of the nonet take solos.  I have no means of splicing out the officially
+released portions, and I am thus unable to upload them.  This seems pretty 
+rare, since the 4:16 version of I Mean You is the only portion of this 
+concert catalogued by Sheridan.
+
+Lineup:
+Thelonius Monk - Piano
+Charlie Rouse - Tenor Sax 
+Ray Copeland - Trumpet
+Johnny Griffin - Tenor Sax
+Jimmy Cleveland - Trombone
+Phil Woods - Alto Sax
+Clark Terry - Trumpet
+Larry Gales - Bass
+Ben Riley - Drums
+
+
+lineage:
+FM recording > ? > flac on DVD in trade > Dime
+
+ffp:
+384f1417cadc13b94dbded3df73f92dc *D1Mainz01.flac
+fbb6999bf35f794a68c0f2a350c58a67 *D1Mainz02.flac
+4c4ac13e1baf88a9eba733903f6f0f27 *D1Mainz03.flac
+88e49f3ba53443d85a46d0038362fdd4 *D1Mainz04.flac
+80a71916d0f727eba302d331c64cbf3d *D2Mainz01.flac
+20468ef4f91b08ed60dea932344b4b0f *D2Mainz02.flac
+97ab214d3aa74370119c7c97ee1b0fdf *D2Mainz03.flac
+
+
+

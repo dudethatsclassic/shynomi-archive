@@ -1,0 +1,13 @@
+Tool - 2002.10.11
+Coors Event Center - Boulder, CO, USA
+version 3
+
+media type: CDR
+source: Core Sound Low Cost Binaurals/95 (Low sensitivity) > Sony MZ-R700 > unknown transfer > 1st Gen CDR
+taper: unknown
+trade status: can trade
+
+disc 1 - 10 tracks - 72:36
+disc 2 - 5 tracks - 51:15
+
+notes: none

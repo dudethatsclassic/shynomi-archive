@@ -1,0 +1,13 @@
+d81e1fc8b87fdfc7f004da01279a43bb  [shntool]  01QuitIt.flac
+02d2b15ba2d33313716147d39226fd92  [shntool]  02HotPink-Utopia.flac
+38a68acb69a11682f9155299a9bc3529  [shntool]  03OutMyWay.flac
+942dd453a09072707b9fb3df66a4c11a  [shntool]  04LoveOurChildrenForever.flac
+4d61bf008756f4bfcda5ea6b536388b5  [shntool]  05IAmAMachine.flac
+e6328ff4bad028dfc1a17644fa6a3225  [shntool]  06LakeOfFire.flac
+c327fb12fbe6734789b75225107a258e  [shntool]  07Paradise-ICantBeCountedOn.flac
+7dce5f15117228dec308e2c7bc3313bd  [shntool]  08Liquified.flac
+45d2f26dfabf5aaf38f2587eeb955c55  [shntool]  09BadBoy-IJustWantToMakeLoveToYou-ItsOkay.flac
+edbeb2c817bf5645ed2b25a6d9bf82a7  [shntool]  10NoMoneyInThisDeal.flac
+1de5f96d4d42f696e20093e6b84961cc  [shntool]  11SwimmingGround-TumblinTumbleweeds.flac
+994c56fe0f2fa1c0c4e633b54a8546cc  [shntool]  12MaidensMilk-WorkingOnABuilding-WalkingBoss-SeasonsOfTheHeart-WashedMyHandsInMuddyWater-Guantanamera-TwistShout.flac
+0fb6d70773482a647ca015f7d5aaf7a5  [shntool]  13Blockhead.flac

@@ -1,0 +1,13 @@
+ Tool - 2002.11.05
+Knoxville Civic Auditorium - Knoxville, TN, USA
+version 3
+
+media type: CDR
+source: Panasonic WM-61A > Sony TCD-D8 > 2nd Gen CDR
+taper: unknown
+trade status: can trade
+
+disc 1 - 7 tracks - 73:49
+disc 2 - 6 tracks - 56:51
+
+notes: Converted by Jason Franklin.

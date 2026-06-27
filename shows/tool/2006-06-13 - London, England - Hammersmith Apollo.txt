@@ -1,0 +1,28 @@
+Tool
+2006-06-13
+Carling Apollo, Hammersmith
+London, UK
+
+Taper: Ben (http://db.etree.org/fourdegreeswarmer)
+Location: In line with right stacks, about 25 feet back
+Source: CSB > CS Battery Box (w/ bass roll-off) > iRiver H140 (Rockbox) > WAV 16/44.1
+Transfer/Edit: iRiver H140 (Rockbox) > USB > HDD > Adobe Audition 2.0 > Channel Swap > Normalize > CD Wave > Tracks split > WAV > FLAC Frontend Level 8 > FLAC
+
+11 tracks
+
+01 Lost Keys > Rosetta Stoned
+02 Stinkfist
+03 46 & 2
+04 Jambi
+05 Schism
+06 Intension tease > Right In Two
+07 Jam > Sober
+08 Lateralus
+09 Break > Jam
+10 Vicarious
+11 Aenema
+
+94:36
+
+
+Notes: Wore the mics wrong way round so I swapped the channels in Audition. Now all the screamers and talkers are on the right side, where they're supposed to be.
