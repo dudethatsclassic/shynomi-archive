@@ -18,10 +18,9 @@ const ARTIST_DATA = {
       "state": "IL",
       "location": "Rosemont, IL",
       "venue": "Allstate Arena",
-      "notes": "Sony MZ-NF610 \u00b7 roy martin",
+      "notes": "Sony MZ-NF610 · roy martin",
       "version": "AUD",
-      "format": "FLAC",
-      "textFile": "2002-08-17 - Rosemont, IL - Allstate Arena (Sony MZ-NF610) (roy martin) [AUD].txt"
+      "format": "FLAC"
     }
   ],
   "misc": []
