@@ -18,10 +18,11 @@ const ARTIST_DATA = {
       "state": "Jamaica",
       "location": "Montego Bay, Jamaica",
       "venue": "Jamaica Wolrd Music Festival",
+      "notes": "",
       "version": "SBD",
       "format": "FLAC 24",
-      "notes": "",
       "textFile": "1982-11-27 - Montego Bay, Jamaica - Jamaica Wolrd Music Festival [SBD24].txt"
     }
-  ]
+  ],
+  "misc": []
 };
