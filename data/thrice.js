@@ -20,7 +20,7 @@ const ARTIST_DATA = {
       "state": "Germany",
       "location": "Hamburg, Germany",
       "venue": "Markthalle",
-      "notes": "OKMII \u00b7 unk",
+      "notes": "OKMII · unk",
       "version": "AUD",
       "format": "FLAC",
       "textFile": "2008-08-19 - Hamburg, Germany - Markthalle (OKMII) (unk) [AUD].txt"
@@ -48,7 +48,7 @@ const ARTIST_DATA = {
       "state": "SWE",
       "location": "Stockholm, SWE",
       "venue": "Slaktkyrkan",
-      "notes": "SP-CMC-4U \u00b7 qew",
+      "notes": "SP-CMC-4U · qew",
       "version": "AUD",
       "format": "FLAC 24",
       "textFile": "2026-03-06 - Stockholm, SWE - Slaktkyrkan (SP-CMC-4U) (qew) [AUD24] .txt"
