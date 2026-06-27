@@ -2190,7 +2190,7 @@ const ARTIST_DATA = {
       "notes": "SS-DSM6",
       "version": "AUD",
       "format": "SHN",
-      "textFile": "2002-08-18 - San Francisco, CA - Bimbo's 365 Club (SS-DSM6) [AUD].txt"
+      "textFile": "2002-08-18 - San Francisco, CA - Bimbos 365 Club [AUD].txt"
     },
     {
       "year": 2002,
@@ -3536,7 +3536,7 @@ const ARTIST_DATA = {
       "notes": "martijn middel",
       "version": "TV",
       "format": "SHN",
-      "textFile": "2003-04-03 - Dusseldorf, Germany - Philipshalle (Sharp MD) [AUD].txt"
+      "textFile": "2003-04-03 - Dusseldorf, Germany - Philipshalle [TV].txt"
     },
     {
       "year": 2003,
@@ -4161,7 +4161,8 @@ const ARTIST_DATA = {
       "venue": "Hordern Pavilion",
       "notes": "Promo CD",
       "version": "SBD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "2003-07-21 - Sydney, Australia - Horden Pavillion [SBD].txt"
     },
     {
       "year": 2003,
@@ -6739,7 +6740,7 @@ const ARTIST_DATA = {
       "notes": "1st Source \u00b7 redbeard",
       "version": "AUD",
       "format": "FLAC",
-      "textFile": "2009-05-17 - Atlanta, GA - Aaron\u2019s Amphitheatre at Lakewood (2nd Source) [AUD].txt"
+      "textFile": "2009-05-17 - Atlanta, GA - Aaron\u2019s Amphitheatre at Lakewood (1st Source) [AUD].txt"
     },
     {
       "year": 2009,
@@ -7778,7 +7779,8 @@ const ARTIST_DATA = {
       "venue": "E-Werk",
       "notes": "",
       "version": "",
-      "format": "DVD"
+      "format": "DVD",
+      "textFile": "2011-11-02 - Cologne, Germany - E-Werk [DVD].txt"
     },
     {
       "year": 2011,
@@ -9042,7 +9044,8 @@ const ARTIST_DATA = {
       "venue": "Stade Charles Ehrmann",
       "notes": "jolikrapo",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "2016-05-24 - Nice, France - Stade Charles Ehrmann [AUD].txt"
     },
     {
       "year": 2016,

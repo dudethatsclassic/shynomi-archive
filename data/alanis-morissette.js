@@ -593,7 +593,8 @@ const ARTIST_DATA = {
       "venue": "The Joint",
       "notes": "",
       "version": "FM",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "2002-05-09 - Las Vegas, NV - The Joint [FM].txt"
     },
     {
       "year": 2002,

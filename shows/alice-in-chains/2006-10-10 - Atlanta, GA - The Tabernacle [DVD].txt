@@ -1,15 +1,16 @@
-Alice In Chains
-2006/10/10
+Alice in Chains
+October 10th, 2006
 The Tabernacle
-Atlanta, GA
+Atlanta, GA, USA
 
-AUD SHOT from the balcony
-No info about the material used
-Thanks to all involved
+Video: Sony DCR-DVD203(fixed shot) > DVD-RW x3@LP > TMPGEnc4XP > DVD files
+NTSC, 16:9, 2904 kbps, 29.970 frames/s
 
-DVD
-Menus    : Yes
-Chapters : Yes
+Audio: Core Sound Binaural mics > CS Batt Box/Bass-Filter On > Microtrack 24/96(24 Bit Wav@48Khz)
+Location: Upper Balcony, section 303, Row 1.  
+Conversion: Microtrack 24/96 > USB > 16/48 LPCM audio
+Taper: geordy
+
 
 01. Whale and Wasp intro
 02. Again
@@ -21,23 +22,41 @@ Chapters : Yes
 08. Them Bones
 09. Dam That River
 10. Rain When I Die
+11. *Layne Staley video tribute #1
 
 - Acoustic Set -
+12. Band talking about Layne
+13. Don't Follow
+14. Brother
+15. Killer Is Me
+16. No Excuses
+17. Got Me Wrong
+18. Down In A Hole
+19. *Layne Staley video tribute #2
 
-11. Don't Follow
-12. Brother
-13. Killer Is Me
-14. No Excuses
-15. Got Me Wrong
-16. Down In A Hole
 
-17. Sludge Factory
-18. We Die Young
-19. Heaven Beside You
-20. Angry Chair
-21. Man In The Box
+20. Sludge Factory
+21. We Die Young
+22. Heaven Beside You
+23. Angry Chair
+24. Man In The Box
 
 - Encore -
+25. Rooster 
+26. Would? 
 
-22. Rooster
-23. Would?
+*Incomplete, this is when I did the disc switches.  
+
+
+Video Notes: For most of the show, this is a fixed shot from the balcony.  I picked up the camera and actually filmed the last 3 songs.  Wish I could have done that the entire show...oh well, something is better than nothing.  It might be a little boring at times, but at least it's not too annoying to watch!  
+
+Audio Notes:  No EQ was done to this recording.  Thanks to Michael for grabbing the front row balcony tickets!  There are a few instances of the sound being muffled because I would duck down to make sure the camera was still centered on the stage.  Thanks to everyone in section 303, I didn't have a single chatty person sitting near me, maybe a few whistles here and there.  Kind of cool the way the mics pick up the ambient crowd noise from everyone below singing along once the show really gets going.  Thanks to greg for sharing his recording of the last two songs to use on this video.  
+
+
+The show - The show started out with an electric set of 9 songs.  The band left the stage and a video tribute to Layne Staley began playing as crew members brought out a rug, set up some stools, another drum kit, and some badass ambient lights.  The band then came back out and began playing a 6 song acoustic set.  Never thought I'd hear Don't Follow or Killer is Me live...   The band left the stage again and another video tribute to Layne played as the crew took down the acoustic stage setup.  The band then came back out and played a 7 song electric set.  22 songs total, nearly 2 hours.  
+
+
+
+***DO NOT ALTER THESE FILES IN ANY WAY WITHOUT PERMISSION OF THE TAPER***
+***DO NOT COMPRESS AND DISTRIBUTE IN LOSSY FORMATS***
+***DO NOT SELL***

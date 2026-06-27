@@ -525,7 +525,8 @@ const ARTIST_DATA = {
       "venue": "Miami Arena",
       "notes": "",
       "version": "AUD",
-      "format": "DVD"
+      "format": "DVD",
+      "textFile": "1991-07-14 - Miami, FL - Miami Arena [DVD].txt"
     },
     {
       "year": 1991,
@@ -926,7 +927,8 @@ const ARTIST_DATA = {
       "venue": "The Phoenix *Live In Chains",
       "notes": "",
       "version": "Silver CD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1992-11-22 - Toronto, Ontario - The Phoenix - Life In Chains [Silver].txt"
     },
     {
       "year": 1992,
@@ -2956,7 +2958,8 @@ const ARTIST_DATA = {
       "venue": "Jimmy Kimmel Live",
       "notes": "hellrazor",
       "version": "TV",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "2013-04-10 - West Hollywood, CA - Jimmy Kimmel Live [TV].txt"
     },
     {
       "year": 2013,
@@ -3067,7 +3070,8 @@ const ARTIST_DATA = {
       "venue": "Donington Park",
       "notes": "SP-CMC-4U \u00b7 andylgr",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "2013-06-15 - Castle Donington, England - Donington Park [AUD].txt"
     },
     {
       "year": 2013,
@@ -3150,7 +3154,8 @@ const ARTIST_DATA = {
       "venue": "Yokohama Bay Hall",
       "notes": "DSM+PCM-D100 \u00b7 unk",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "2014-03-09 - Kanagawa, Japan - Yokohama Bay Hall [AUD].txt"
     },
     {
       "year": 2014,
@@ -3163,7 +3168,8 @@ const ARTIST_DATA = {
       "venue": "Shinkiba Studio Coast",
       "notes": "DSM+PCM-D50 \u00b7 unk",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "2014-03-10 - Tokyo, Japan - Shinkiba Studio Coast [AUD].txt"
     },
     {
       "year": 2014,
@@ -3176,7 +3182,8 @@ const ARTIST_DATA = {
       "venue": "Grand Theater at Foxwoods",
       "notes": "Sennheiser ME-104s \u00b7 ringfedder",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "2014-05-10 - Mashantucket, CT - Grand Theater at Foxwoods [AUD].txt"
     },
     {
       "year": 2014,
@@ -3203,7 +3210,8 @@ const ARTIST_DATA = {
       "venue": "Sonisphere",
       "notes": "Apollo \u00b7 SP-CMC-8 \u00b7 unk",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "2014-07-06 - Knebworth Park, UK - Sonisphere - Apollo Stage [AUD].txt"
     },
     {
       "year": 2015,
@@ -3258,7 +3266,8 @@ const ARTIST_DATA = {
       "venue": "Ryman Auditorium",
       "notes": "Schoeps MK41s \u00b7 darktrain",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "2015-08-08 - Nashville, TN - Ryman Auditorium [AUD].txt"
     },
     {
       "year": 2016,
@@ -3285,7 +3294,8 @@ const ARTIST_DATA = {
       "venue": "Turning Stone Casino",
       "notes": "Zoom H1 \u00b7 besley",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "2016-07-22 - Verona, NY - Turning Stone Casino [AUD].txt"
     },
     {
       "year": 2016,

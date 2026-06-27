@@ -640,7 +640,8 @@ const ARTIST_DATA = {
       "venue": "Brixton Academy",
       "notes": "Sony ECM-717 \u00b7 unk",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "2001-08-21 - London, UK - Brixton Academy (Sony ECM-717) (unk) [AUD].txt"
     },
     {
       "year": 2001,

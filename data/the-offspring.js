@@ -227,7 +227,8 @@ const ARTIST_DATA = {
       "venue": "Worthy Farm",
       "notes": "Glastonbury",
       "version": "FM",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1995-06-17 - Pilton, England - Worthy Farm - Glastonbury Festival [FM].txt"
     },
     {
       "year": 1995,
@@ -813,7 +814,8 @@ const ARTIST_DATA = {
       "venue": "Pier Six Concert Pavilion",
       "notes": "Punk \u00b7 CA-14s \u00b7 mistacabbage",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "2014-07-30 - Baltimore, MD - Pier Six Concert Pavilion - Punk Rock Summer Nationals 2014 Tour [AUD].txt"
     },
     {
       "year": 2015,

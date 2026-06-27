@@ -108,7 +108,8 @@ const ARTIST_DATA = {
       "venue": "Antone's",
       "notes": "",
       "version": "SBD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "2011-03-17 - Austin, TX - Antone's [SBD].txt"
     }
   ],
   "misc": []

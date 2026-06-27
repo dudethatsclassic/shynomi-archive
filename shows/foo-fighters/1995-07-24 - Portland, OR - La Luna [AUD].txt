@@ -2,5 +2,31 @@ Foo Fighters
 07/24/95
 La Luna, Portland, OR
 
-Source: AT Lapel Mic -> Unknown Aiwa Deck
-Generation: ANA(M) -> DAT(1) -> FLAC
+Source: Audio Technica Lapel Mic -> Unknown Aiwa Deck
+Generation: ANA(M) -> DAT(1) -> Normalize -> FLAC
+Notes: I borrowed a bunch of masters from the taper several years ago, including this gem. Originally I transfered the analog stuff using a Kenwood CT1050 -> Tascam DA-20MKII. About a year ago I transferred the DAT to FLAC and have been meaning to torrent it and finally had the chance. The digital transfer was done with the same Tascam DA-20MKII -> Echo Mia midi -> Adobe Audition. I removed the loud pops from the tape flip and normalized the whole thing before downsampling from 16/48Khz to 16/44.1Khz. Split the whole thing up in CD WAVE.
+
+Setlist:
+
+Intro
+I'll Stick Around
+Winnebago
+Wattershed
+Big Me
+Weenie Beenie
+This Is A Call
+For All The Cows
+Butterflies
+My Hero
+X-Static
+Alone + Easy Target
+Podunk
+Exhausted
+Good Grief
+Down In The Park
+
+All transfering done by Jim Hirte.
+
+Please do not alter any of the files, or post in lesser form (MP3, etc).
+
+Enjoy!

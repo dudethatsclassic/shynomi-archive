@@ -68,7 +68,8 @@ const ARTIST_DATA = {
       "venue": "Max's Kansas City",
       "notes": "unk",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1992-10-28 - Ithaca, NY - Max's Kansas City [AUD].txt"
     },
     {
       "year": 1992,
@@ -81,7 +82,8 @@ const ARTIST_DATA = {
       "venue": "The Stone Pony",
       "notes": "unk",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1992-11-07 - Asbury Park, NJ - The Stone Pony [AUD].txt"
     },
     {
       "year": 1992,
@@ -190,7 +192,8 @@ const ARTIST_DATA = {
       "venue": "Club 616",
       "notes": "unk",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1993-07-21 - Memphis, TN - Club 616 [AUD].txt"
     },
     {
       "year": 1993,
@@ -203,7 +206,8 @@ const ARTIST_DATA = {
       "venue": "First Avenue",
       "notes": "Nakamichi 700 \u00b7 unk",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1993-08-02 - Minneapolis, MN - First Avenue [AUD].txt"
     },
     {
       "year": 1993,
@@ -272,7 +276,8 @@ const ARTIST_DATA = {
       "venue": "Maple Leaf Gardens",
       "notes": "unk",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1993-09-22 - Toronto, Canada - Maple Leaf Gardens [AUD].txt"
     },
     {
       "year": 1993,
@@ -299,7 +304,8 @@ const ARTIST_DATA = {
       "venue": "UCLA Pauley Pavilion",
       "notes": "unk",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1993-10-21 - Los Angeles, CA - UCLA Pauley Pavilion [AUD].txt"
     },
     {
       "year": 1993,
@@ -340,7 +346,8 @@ const ARTIST_DATA = {
       "venue": "The Warehouse",
       "notes": "unk",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1993-12-10 - Toronto, Canada - The Warehouse [AUD].txt"
     },
     {
       "year": 1993,
@@ -353,7 +360,8 @@ const ARTIST_DATA = {
       "venue": "Universal Theatre",
       "notes": "",
       "version": "FM",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1993-12-12 - Los Angeles, CA - Universal Theatre [FM].txt"
     },
     {
       "year": 1994,
@@ -434,7 +442,8 @@ const ARTIST_DATA = {
       "venue": "Pershing Theatre",
       "notes": "",
       "version": "SBD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1994-03-17 - Kirksville, MO - Pershing Theatre [SBD] .txt"
     },
     {
       "year": 1994,
@@ -475,7 +484,8 @@ const ARTIST_DATA = {
       "venue": "MuchMusic Studios *Climbing the Clouds",
       "notes": "OXY 033",
       "version": "Silver CD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1995-09-12 - Toronto, Ontario - MuchMusic Studios - Climbing the Clouds [Silver].txt"
     },
     {
       "year": 1995,
@@ -488,7 +498,8 @@ const ARTIST_DATA = {
       "venue": "Maida Vale Studios",
       "notes": "",
       "version": "FM",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1995-09-17 - London, UK - Maida Vale Studios [FM].txt"
     },
     {
       "year": 1995,
@@ -515,7 +526,8 @@ const ARTIST_DATA = {
       "venue": "Shoreline Amphitheatre",
       "notes": "unk",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1995-10-07 - Mountain View, CA - Shoreline Amphitheatre [AUD].txt"
     },
     {
       "year": 1995,
@@ -542,7 +554,8 @@ const ARTIST_DATA = {
       "venue": "Mancow Radio Show",
       "notes": "unk \u00b7 311guy",
       "version": "FM",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "2007-10-17 - Chicago, IL - Mancow Radio Show [FM].txt"
     },
     {
       "year": 2008,
@@ -569,7 +582,8 @@ const ARTIST_DATA = {
       "venue": "POPS",
       "notes": "unk \u00b7 ryan conway",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "2008-03-24 - Sauget, IL - POPS [AUD].txt"
     },
     {
       "year": 2008,
@@ -582,7 +596,8 @@ const ARTIST_DATA = {
       "venue": "Beaumont Club",
       "notes": "unk \u00b7 ryan conway",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "2008-03-25 - Kansas City, MO - Beaumont Club [AUD].txt"
     },
     {
       "year": 2008,
@@ -595,7 +610,8 @@ const ARTIST_DATA = {
       "venue": "Meridian Blue Room",
       "notes": "DPA 4023 \u00b7 prof_peabody",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "2008-04-20 - Houston, TX - Meridian Blue Room [AUD].txt"
     },
     {
       "year": 2008,
@@ -650,7 +666,8 @@ const ARTIST_DATA = {
       "venue": "House Of Blues",
       "notes": "DPA 4021 \u00b7 ofotd",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "2008-08-07 - Dallas, TX - House Of Blues [AUD].txt"
     },
     {
       "year": 2011,
@@ -663,7 +680,8 @@ const ARTIST_DATA = {
       "venue": "The Metro",
       "notes": "DPA 4022 \u00b7 marke",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "2011-09-04 - Chicago, IL - The Metro [AUD].txt"
     },
     {
       "year": 2013,
@@ -676,7 +694,8 @@ const ARTIST_DATA = {
       "venue": "Decatur Celebration",
       "notes": "SP-CMC-8 \u00b7 foosman1",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "2013-08-04 - Decatur, IL - Decatur Celebration [AUD].txt"
     }
   ],
   "misc": [
