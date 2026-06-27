@@ -2431,9 +2431,9 @@ const ARTISTS = [
   {
     "id": "social-distortion",
     "name": "Social Distortion",
-    "showCount": 88,
+    "showCount": 89,
     "firstYear": 1981,
-    "lastYear": 2025
+    "lastYear": 2026
   },
   {
     "id": "son-volt",
