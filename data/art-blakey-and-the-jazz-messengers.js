@@ -284,7 +284,7 @@ const ARTIST_DATA = {
       "state": "NY",
       "location": "New York, NY",
       "venue": "Blue Note",
-      "notes": "1st Set \u00b7 Nak 300s \u00b7 tapetyrant",
+      "notes": "1st Set · Nak 300s · tapetyrant",
       "version": "AUD",
       "format": "FLAC",
       "textFile": "1983-02-25 - New York, NY - Blue Note (1st Set) (Nak 300s) (tapetyrant) [AUD].txt"
