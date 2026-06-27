@@ -18,14 +18,13 @@ const ARTIST_DATA = {
       "month": 2,
       "day": 6,
       "dateStr": "2-6-1954",
-      "city": "Mu\u0308nchen",
+      "city": "München",
       "state": "Germany",
-      "location": "Mu\u0308nchen, Germany",
+      "location": "München, Germany",
       "venue": "Private Acetate Made for Vivian Liberto Studio",
       "notes": "",
       "version": "",
-      "format": "FLAC",
-      "textFile": "1954-02-06 - Mu\u0308nchen, Germany - Private Acetate Made for Vivian Liberto Studio.txt"
+      "format": "FLAC"
     },
     {
       "year": 1968,
@@ -38,8 +37,7 @@ const ARTIST_DATA = {
       "venue": "BBC Picadilly",
       "notes": "",
       "version": "Vinyl",
-      "format": "FLAC",
-      "textFile": "1968-05-10 - London, UK -BBC Picadilly [Vinyl].txt"
+      "format": "FLAC"
     },
     {
       "year": 1972,
@@ -52,8 +50,7 @@ const ARTIST_DATA = {
       "venue": "Oral Roberts University Center",
       "notes": "",
       "version": "SBD",
-      "format": "FLAC",
-      "textFile": "1972-10-27 - Tulsa, OK - Oral Roberts University Center [SBD].txt"
+      "format": "FLAC"
     },
     {
       "year": 1973,
@@ -66,8 +63,7 @@ const ARTIST_DATA = {
       "venue": "Free Trade Hall",
       "notes": "",
       "version": "SBD",
-      "format": "FLAC",
-      "textFile": "1973-09-03 - Manchester, UK - Free Trade Hall [SBD].txt"
+      "format": "FLAC"
     },
     {
       "year": 1975,
@@ -80,8 +76,7 @@ const ARTIST_DATA = {
       "venue": "Deutschlandhalle",
       "notes": "",
       "version": "SBD",
-      "format": "FLAC",
-      "textFile": "1975-09-15 - Berlin, Germany - Deutschlandhalle [SBD].txt"
+      "format": "FLAC"
     }
   ],
   "misc": [
