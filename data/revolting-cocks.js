@@ -20,7 +20,8 @@ const ARTIST_DATA = {
       "venue": "The Ritz",
       "notes": "w/ Trent Reznor",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "revco-trentreznor1990-08-09.unknown.unknown.1.flac1644.txt"
     }
   ],
   "misc": []
