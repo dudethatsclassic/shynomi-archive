@@ -1,0 +1,41 @@
+Them Crooked Vultures
+Fox TheaterOakland, CANovember 19, 2009
+
+This is the 16 bit version, suitable for burning to audio CD. A high quality 24 bit version is also available.
+Source:  Schoeps MK4 > Reutelhuber Box > Tascam DR-100 at 24bit/48kHz
+Transfer: Apple MacBook 2GHz Core Duo > Bias Peak v6.0.3 (downsampled and dithered to 16bit/44.1kHz, gain adjusted) > xAct v1.3 (SBEs fixed)> FLAC, tagged including replay gain in Foobar2000 v0.9.6.5
+
+Recorded from the floor DFC ~60 ft back, ~15 ft in front of soundboard. 
+
+Recorded by daspyknows. Mastering, cover art and back cover photo by Brad Phillips. Front cover photo by Max Sidman (maxonemillion.com). This recording is strictly for non-commercial use. Please do not distribute in any lossy format, such as mp3. 
+
+Total time 1:29:36
+
+If burning to audio CD, begin disc 2 at track 11.
+
+536.1 MB folder
+
+01. Nobody Loves Me And Neither Do I
+02. Dead End Friends
+03. Scumbag Blues
+04. Elephants
+05. Highway 1
+06. New Fang
+07. Gunman
+08. Bandoliers
+09. Mind Eraser
+10. Caligulove
+11. Interlude With Ludes
+12. Spinning In Daffodils > JPJ solo
+13. band intros
+14. Reptiles
+15. Warsaw
+
+Dave Grohl - drums, vocals
+Josh Homme - guitar, vocals
+John Paul Jones - bass, keyboard, mandolin, vocals
+Alain Johannes - guitar, vocals
+
+
+FLAC fingerprint:
+tcv2009-11-19-16bit-t01.flac:b293f78678ad325d4a177a2fa6ac2841tcv2009-11-19-16bit-t02.flac:4c6c3ca2ffc8fb2cce9ffb2c57acb498tcv2009-11-19-16bit-t03.flac:ea62bc2df41f6c48327be2e662e942f9tcv2009-11-19-16bit-t04.flac:eedd8545f56a3ef68e119195d332c96ftcv2009-11-19-16bit-t05.flac:5702e4d686e26d9f2fe95e0d25773d59tcv2009-11-19-16bit-t06.flac:6f31da3066776a4622527531a45feb9ctcv2009-11-19-16bit-t07.flac:34a72fc49a03a8983f7e30f1dd27c63etcv2009-11-19-16bit-t08.flac:d7ac0f5d78223a8f795a8f530b0c4729tcv2009-11-19-16bit-t09.flac:67d6aeaea3e687ca386f3768d606042dtcv2009-11-19-16bit-t10.flac:bedc112bd867cc23f89d13addcdc0539tcv2009-11-19-16bit-t11.flac:d3c0164d3662be72463365dc9cbf9c1ctcv2009-11-19-16bit-t12.flac:802d2de668a43776658e147262f97308tcv2009-11-19-16bit-t13.flac:4a0d5431846f1a72a6f9f9237fabd326tcv2009-11-19-16bit-t14.flac:9136890c345206d18362081d6f0988c1tcv2009-11-19-16bit-t15.flac:1b9a7ad029583421cd1cd79077e85bb2

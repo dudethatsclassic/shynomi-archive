@@ -1,0 +1,43 @@
+{\rtf1\mac\ansicpg10000\cocoartf824\cocoasubrtf480
+{\fonttbl\f0\fswiss\fcharset77 ArialMT;}
+{\colortbl;\red255\green255\blue255;}
+\paperw11900\paperh16840\margl1440\margr1440\vieww15040\viewh12500\viewkind0
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\ql\qnatural\pardirnatural
+
+\f0\fs24 \cf0 Them Crooked Vultures\
+Paris, Zenith\
+08 Jun. 2010\
+\
+\
+\pard\pardeftab720\ql\qnatural
+\cf0 lineage: uni-directional (cardioid) stereo microphones MM-MCSM-5 + MM-CBM- Battery ---> Edirol R-09 16 bit/48 kHz ---> 16 bit/44.1 kHz ---> WaveBurner (Eq, etc) ---> Amadeus II (tracks / fade in / fade out) ---> Flac level 8 \
+\
+\
+Great Show! Enjoy!\
+\
+\
+Set list: \
+\
+\
+01. No One Loves Me & Neither Do I \
+02. Gunman \
+03. Scumbag Blues \
+04. Dead End Friends \
+05. Elephants \
+06. Highway 1 \
+07. Band Intro\
+08. New Fang \
+09. Alain Johannes solo \
+10. Bandoliers \
+11. Interlude With Ludes \
+12. Mind Eraser, No Chaser \
+13. Caligulove \
+14. You Can't Possibly Begin To Imagine \
+15. Spinning In Daffodils \
+16. Reptiles \
+17. Warsaw Or The First Breath You Take After You Give Up \
+\
+\
+\
+\
+}

@@ -1,0 +1,32 @@
+THEM CROOKED VULTURES
+April 17, 2010
+Joint
+Las Vegas, NV
+
+Source: AKG CK91 (mod) > Audio Technica 8531 (mod) > Edirol R-09HR
+Location: five feet front of board, center
+Taper: CPS
+Lineage: WAV(M) [24/44.1] > WAV [16/44.1] > FLAC
+Edits/EQ C4, Q1 -18dB @ 60Hz, BBE, L3 @ -12.5dB/-0.2dB
+Notes: none
+
+01 - intro
+02 - Elephants
+03 - Gunman
+04 - Scumbag Blues
+05 - Dead End Friends
+06 - No One Loves Me and Neither Do I
+07 - Highway One
+08 - New Fang
+09 - Bandoliers
+10 - Interlude with Ludes
+11 - Caligulove
+12 - Alain Johannes solo
+13 - New Song (untitled)
+14 - Spinning In Daffodils
+15 - Mind Eraser, No Chaser
+16 - Reptiles
+17 - Warsaw 
+
+
+Compiled March 2021 by CPS

@@ -1,0 +1,54 @@
+THEM CROOKED VULTURES
+August 30, 2009
+Scène de la Cascade, Rock En Scène
+Domaine National de Saint Cloud, Saint Cloud (Paris)
+FRANCE
+
+DISC #1/1 (57:33)
+--------------
+01. Elephants (cuts out)
+02. Dead End Friends (cuts in & out)
+03. Gunman
+04. Mind Eraser RAS
+05. Bandoliers RAS
+06. Caligulove RAS
+07. Daffodils
+08. New Fang
+09. Nobody Loves Me and Neither Do I
+10. Warsaw
+
+GENERATION
+--------------
+DAT(M) -> WAV [32kHz] -> WAV [44.1kHz] -> FLAC [Level 8]
+
+SOURCE (AUD)
+--------------
+Giant Squid Omnidirectional -> Giant Squid Battery Box with Bass roll-off (107Hz) -> Sony TCD-D8
+
+TRANSFER
+--------------
+Tascam DA-20 MKII -> Viablue S/PDIF Cable -> M-Audio Delta Audiophile 192 digital-in -> Adobe Audition 3.0 -> CD Wave 1.98 -> Flac Frontend 1.7.1
+
+NOTES
+--------------
+- the band played under the secret name "Les Petits Pois"
+- "Elephants" cuts out and "Dead End Friends" cuts in due to the microphone being unplugged (lasts 6:20)
+- a few digital glitches can be heard throughout the recording, espescially during "Dead End Friends" & "Gunman"
+
+MD5 FINGERPRINTS
+--------------
+4d3f56821459cf747bf58fe3ea47fc4c *themcrookedvultures_2009-08-30_aud_datm_d1t01.flac
+5fe38c536846c0d097e9a1ab8c239b00 *themcrookedvultures_2009-08-30_aud_datm_d1t02.flac
+cb286ea02da668dd1fc2211eb891bf84 *themcrookedvultures_2009-08-30_aud_datm_d1t03.flac
+aab3b466c81e85720f5999a294585b2a *themcrookedvultures_2009-08-30_aud_datm_d1t04.flac
+191398975ac0579f5aa14ec4eb79204e *themcrookedvultures_2009-08-30_aud_datm_d1t05.flac
+aff0bea577afc4006c77e1cd80a706fa *themcrookedvultures_2009-08-30_aud_datm_d1t06.flac
+af62152a8016e6ee7bb2728a9dcf8f7d *themcrookedvultures_2009-08-30_aud_datm_d1t07.flac
+b710d24173b7f7fd14dfd4e5c9172b47 *themcrookedvultures_2009-08-30_aud_datm_d1t08.flac
+514d248143205c74a8336ae0b609bcd5 *themcrookedvultures_2009-08-30_aud_datm_d1t09.flac
+8380d85b6c9875d1fe62e9a802795623 *themcrookedvultures_2009-08-30_aud_datm_d1t10.flac
+
+Recorded & transferred by
+Pierre LEROY
+
+DO NOT ENCODE TO MP3 OR SELL !!!

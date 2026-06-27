@@ -35,7 +35,8 @@ const ARTIST_DATA = {
       "venue": "Hong Kong Cafe",
       "notes": "djm5000",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1979-09-22 - Hollywood , CA - Hong Kong Cafe (djm5000) [AUD].txt"
     },
     {
       "year": 1980,
@@ -48,7 +49,8 @@ const ARTIST_DATA = {
       "venue": "Club Fleetwood",
       "notes": "",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1980-03-13 - Redondo Beach, CA - Club Fleetwood (Cassette Master) [AUD].txt"
     },
     {
       "year": 1980,
@@ -61,7 +63,8 @@ const ARTIST_DATA = {
       "venue": "Club Fleetwood",
       "notes": "",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1980-05-06 - Redondo Beach, CA - The Fleetwood [AUD].txt"
     },
     {
       "year": 1980,
@@ -74,7 +77,8 @@ const ARTIST_DATA = {
       "venue": "The Starwood",
       "notes": "Rhino RHM2 524568",
       "version": "Silver CD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1980-12-03 - West Hollywood, CA - The Starwood (Rhino RHM2 524568) [SBD].txt"
     }
   ],
   "misc": [

@@ -1,0 +1,39 @@
+THEM CROOKED VULTURES
+March 21st, 2010
+Maida Vale Studios (Radio 1)
+London, United Kingdom
+
+SOURCE (SBD #1):
+soundboard > unknown
+
+TRANSFER:
+JVC UX-G3 > Unbranded RCA Cable > Creative Soundblaster Audigy SE > Adobe Audition 3.0 > CD Wave 1.97 > 
+
+GENERATION:
+FM > WAV [44.1khz] > FLAC [Level 8]
+
+LENGTH:
+31:42
+
+TRACKS:
+01. intro/jam
+02. interview
+03. Mind Eraser, No Chaser
+04. interview w/ Warsaw Jam
+05. Dead End Friends
+06. interview
+07. Spinning In Daffodils
+
+MD5 FINGERPRINTS:
+37e003d6b89af3f928e4d188e14f936a *ThemCrookedVultures2010-03-21t01.flac
+cfd086b9dddae0ac2ae7c47521ad4ff1 *ThemCrookedVultures2010-03-21t02.flac
+0db0d82a141e36010cd18604d5d7e2ec *ThemCrookedVultures2010-03-21t03.flac
+069fb7e42d831ac3740f517d0a6ce180 *ThemCrookedVultures2010-03-21t04.flac
+3543e08ef357d693183f2fbe1d6b0d7a *ThemCrookedVultures2010-03-21t05.flac
+e7918492d375150adbb903ab49dd1010 *ThemCrookedVultures2010-03-21t06.flac
+e9d075e2417aa59c34cba6df14d92fac *ThemCrookedVultures2010-03-21t07.flac
+
+RECORDED AND TRANSFERRED BY:
+Simon Kilmore at www.tcvlive.com
+
+**PLEASE DO NOT ENCODE TO MP3 OR OTHER LOSSY FORMATS OR SELL!!**

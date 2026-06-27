@@ -1,0 +1,39 @@
+Artist: Them Crooked Vultures
+Date: 2009-10-18
+Location: New York, NY
+Venue: Roseland Ballroom
+Source: Audience
+Lineage: digital master(wav 16/44)>flac
+Transfer: Iriver H340>usb>pc>wav 16/44
+Taped Gear: Panasonic WM-61(w/high spl mod) mics>SOUND PROFESSIONALS SP-SPSB-1(bass roll-off 107Hz)>Iriver H340 
+Taped From: About 5ft in FOB dead center
+Taped and Transferred By: weedwacker
+
+Band Members:
+John Paul Jones - various basses, guitars, various keys, vocals
+Josh Homme - lead vocals, guitar
+Dave Grohl - drums, vocals
+Alain Johannes - guitar, bass, keys, vocals
+
+Setlist:
+01. Intro
+02. Elephants
+03. Dead End Friend
+04. Scumbag Blues
+05. Gunman
+06. Highway One
+07. New Fang
+08. Caligulove
+09. Bandoliers
+10. Mind Eraser (No Chaser)
+11. Spinning In Daffodils ->
+12. JPJ Piano Solo
+13. Interlude With Ludes
+14. Reptiles
+15. No One Loves Me (And Neither Do I)
+16. Warsaw
+
+Length: 91:08
+
+Notes:
+This is a pretty good recording. The sound was pretty muddy on the floor and the bass roll-off help immensely but being the first time using it I definately overdid it so the left channel sounds flat from the lack of bass but the recording is clear as a bell. The recording was mastered to balance the channels out using phase correction since the mics are unbalanced(I tried gaining the left and right channels differently during the opening act to balance them but the recording still came out unbalanced even though the level meters said they were pretty much the same) and added a touch of bass back into the left channel to counteract the flat sound. The performance was really good and loud(my ears were still ringing the next day).

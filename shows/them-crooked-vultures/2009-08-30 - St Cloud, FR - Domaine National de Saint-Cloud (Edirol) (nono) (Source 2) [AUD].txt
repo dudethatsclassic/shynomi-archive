@@ -1,0 +1,50 @@
+THEM CROOKED VULTURES 
+2009-08-30
+
+"Rock en Seine" (Scène de la Cascade)
+Domaine National de Saint-Cloud, Saint-Cloud, France
+
+
+NOTES
+—————–
+
+- Aka "Les Petits Pois" (announced with this name on the program)
+
+- line up: Josh Homme (guitar, voice)
+           John Paul Jones (bass, keyboard)
+           Dave Grohl (drums)
+           Alain Johannes (guitar, keyboard)
+
+- Taper/cover: Nono
+- Recorded with internals mics of my edirol and after, I equalized because too much bass.
+- Do not encode to a lossy format, do not sell, thanks !!
+- Photos credits: courgamicrobes (flickr.com)
+
+
+AUDIO (62mn)
+—————–
+01. Elephants
+02. Dead End Friends
+03. *presentation
+04. Gunman
+05. Mind Eraser
+06. Bandoliers
+07. Caligulove
+08. Daffodils
+09. New Fang
+10. Nobody Loves Me and Neither Do I
+11. Warsaw
+
+
+
+GENERATION
+—————–
+.WAV[24bits/48kHz] > .FLAC Lvl.8[24bits/48kHz] > .WAV[24bits/48kHz] > Audacity > .WAV [16bits/41kHz] > .FLAC Lvl.8 [16bits/41kHz]
+
+SOURCE
+—————–
+Internal mics Edirol r-09hr
+
+TRANSFER
+—————–
+SD > USB > Audacity (tracking) > Db poweramp music converter

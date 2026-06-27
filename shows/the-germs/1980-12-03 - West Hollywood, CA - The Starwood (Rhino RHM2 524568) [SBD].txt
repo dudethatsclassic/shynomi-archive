@@ -1,0 +1,29 @@
+auCDtect: CD records authenticity detector, version 0.8.2
+Copyright (c) 2004 Oleg Berngardt. All rights reserved.
+Copyright (c) 2004 Alexander Djourik. All rights reserved.
+
+Detect mode (0..40 with 0 = most accurate):  8 (default)
+
+
+01 Circle One.wav:  track looks like CDDA with probability 100%.
+02 Manimal.wav:  track looks like CDDA with probability 100%.
+03 Caught In My Eye.wav:  track looks like CDDA with probability 100%.
+04 Lion's Share.wav:  track looks like CDDA with probability 100%.
+05 No God.wav:  track looks like CDDA with probability 100%.
+06 Our Way.wav:  track looks like CDDA with probability 100%.
+07 Strange Notes.wav:  track looks like CDDA with probability 100%.
+08 What We Do Is Secret.wav:  track looks like CDDA with probability 100%.
+09 Richie Dagger's Crime.wav:  track looks like CDDA with probability 100%.
+10 Land Of Treason.wav:  track looks like CDDA with probability 100%.
+11 My Tunnel.wav:  track looks like CDDA with probability 100%.
+12 Media Blitz.wav:  track looks like CDDA with probability 100%.
+13 Communist Eyes.wav:  track looks like CDDA with probability 99%.
+14 The Other Newest One.wav:  track looks like CDDA with probability 100%.
+15 Let's Pretend.wav:  track looks like CDDA with probability 100%.
+16 Forming.wav:  track looks like CDDA with probability 100%.
+17 Lexicon Devil.wav:  track looks like CDDA with probability 99%.
+18 Shut Down (Annihilation Man).wav:  track looks like CDDA with probability 100%.
+19 Public Image.wav:  track looks like CDDA with probability 100%.
+20 American Leather.wav:  track looks like CDDA with probability 100%.
+21 We Must Bleed.wav:  track looks like CDDA with probability 100%.
+22 Richie Dagger's Crime (Reprise).wav:  track looks like CDDA with probability 100%.
