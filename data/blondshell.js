@@ -34,7 +34,7 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "Hollywood, CA",
       "venue": "Amoeba Music",
-      "notes": "SP-CMC-4U \u00b7 ijwthstd",
+      "notes": "SP-CMC-4U · ijwthstd",
       "version": "AUD",
       "format": "FLAC",
       "textFile": "2023-04-16 - Hollywood, CA - Amoeba Music (SP-CMC-4U) (ijwthstd) [AUD].txt"
@@ -48,7 +48,7 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "San Francisco, CA",
       "venue": "The Masonic Auditorium",
-      "notes": "Schoeps MK4 \u00b7 loughney",
+      "notes": "Schoeps MK4 · loughney",
       "version": "AUD",
       "format": "FLAC",
       "textFile": "2023-11-11 - San Francisco, CA - The Masonic Auditorium (Schoeps MK4) (loughney) [AUD].txt"
@@ -90,7 +90,7 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "Indio, CA",
       "venue": "Coachella Festival-  Empire Polo Grounds",
-      "notes": "Outdoor \u00b7 1080p",
+      "notes": "Outdoor · 1080p",
       "version": "PRO",
       "format": "MKV",
       "textFile": "2026-04-18 - Indio, CA - Coachella Festival-  Empire Polo Grounds - Outdoor Theatre (1080p) [MKV].txt"
