@@ -33,7 +33,7 @@ const ARTIST_DATA = {
       "state": "Denmark",
       "location": "Copenhagen, Denmark",
       "venue": "Tivolis Koncertsal",
-      "notes": "Jazz \u00b7 Danish TV",
+      "notes": "Jazz · Danish TV",
       "version": "TV",
       "format": "MKV"
     }
