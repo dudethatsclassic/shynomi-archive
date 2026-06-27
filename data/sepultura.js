@@ -62,7 +62,7 @@ const ARTIST_DATA = {
       "state": "TX",
       "location": "Dallas, TX",
       "venue": "Starplex Amph",
-      "notes": "Sony ECM-155 \u00b7 smores",
+      "notes": "Sony ECM-155 · smores",
       "version": "AUD",
       "format": "FLAC",
       "textFile": "1994-07-29 - Dallas, TX - Starplex Amph (Sony ECM-155) (smores) [AUD24].txt"
