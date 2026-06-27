@@ -3110,7 +3110,7 @@ const ARTISTS = [
   {
     "id": "weezer",
     "name": "Weezer",
-    "showCount": 292,
+    "showCount": 293,
     "firstYear": 1993,
     "lastYear": 2025
   },
