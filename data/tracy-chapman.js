@@ -18,7 +18,7 @@ const ARTIST_DATA = {
       "state": "IL",
       "location": "Chicago, IL",
       "venue": "Cabaret Metro",
-      "notes": "ANA(M) \u00b7 unk \u00b7 aadam jacobs",
+      "notes": "ANA(M) · unk · aadam jacobs",
       "version": "",
       "format": "FLAC",
       "textFile": "1988-05-07 - Chicago, IL - Cabaret Metro - ANA(M) (unk) (aadam jacobs) [AUD24].txt"
