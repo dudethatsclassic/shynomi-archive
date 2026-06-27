@@ -793,9 +793,9 @@ const ARTISTS = [
   {
     "id": "epmd",
     "name": "EPMD",
-    "showCount": 2,
+    "showCount": 1,
     "firstYear": 1991,
-    "lastYear": 2025
+    "lastYear": 1991
   },
   {
     "id": "eric-church",
@@ -1034,6 +1034,13 @@ const ARTISTS = [
     "showCount": 843,
     "firstYear": 1992,
     "lastYear": 2026
+  },
+  {
+    "id": "gza",
+    "name": "GZA",
+    "showCount": 1,
+    "firstYear": 2025,
+    "lastYear": 2025
   },
   {
     "id": "harvey-danger",
@@ -3215,7 +3222,7 @@ const ARTISTS = [
   {
     "id": "wu-tang-clan",
     "name": "Wu Tang Clan",
-    "showCount": 10,
+    "showCount": 11,
     "firstYear": 1993,
     "lastYear": 2025
   },
