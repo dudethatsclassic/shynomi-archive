@@ -18,7 +18,7 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "Los Angeles, CA",
       "venue": "The Troubador",
-      "notes": "Sonics \u00b7 jb",
+      "notes": "Sonics · jb",
       "version": "AUD",
       "format": "FLAC",
       "textFile": "2018-05-30 - West Hollywood, California - Troubadour, (Rivers Cuomo) (Sonics) (jb) [AUD].txt"
