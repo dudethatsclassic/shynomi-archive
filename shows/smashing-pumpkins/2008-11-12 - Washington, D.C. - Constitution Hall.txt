@@ -1,40 +1,12 @@
-Smashing Pumpkins
-DAR Constitution Hall
-Washington, District Of Columbia
-November 12th, 2008
+The Smashing Pumpkins 
+2008.11.12 
+D.A.R Constituion Hall
 
-Taper: Craig "Cabbage" Kabis <craigkabis@gmail.com> <cabbage@jimmieschickenshack.net>
-Location: Gaffe taped ledge in Box 18 point at the right stack
-Source: AKG ck93 hyper-cardioid capsules (mod) > RM 3-wire battery box > iRiver H120 > .wav @ 44.1 kHhz / 16 bit
-Lineage: .wav > USB > Amadeus Pro 1.3.4 > FLAC (8)
-Flaws: This is a dual mono
+Video recording shot using Canon FS300 in XP quality mode to SD memory card.  Original files were in .MOD format. To change them to MPG, all I had to do was rename the file .MOD extension as .MPG, which is losless.
 
-Setlist:
-01 - Ava Adore 					[04:29]
-02 - Cupid De Locke				[02:59]
-03 - 1979					[04:43]
-04 - 99 Floors					[07:09]
-05 - Owata					[04:37]
-06 - Sunkissed					[05:16]
-07 - Soma					[07:04]
-08 - Cherub Rock				[04:22]
-09 > Zero					[02:16]
-10 - Bodies					[04:38]
-11 - Crestfallen				[04:22]
-12 - I Of The Mourning				[05:32]
-13 - A Song For A Son				[07:15]
-14 - Landslide [Stevie Nicks]			[04:00]
-15 - Disarm					[03:06]
-16 - Mellon Collie and the Infinite Sadness	[04:11]
-17 > Galapogos					[04:32]
-18 - Gossamer					[16:03]
-19 - As Rome Burns				[03:42]
-20 - The Sounds of Silence [Paul Simon] 	[05:31]
-   > Li'l Red Riding Hood [Ronald Blackwell]	[04:29]
-21 - The March Hare 				[04:49]
-22 > Suffer					[07:33]
-23 - Age Of Innocence				[11:32]
+Shot from Front Row, just about dead center.
+During first few songs, security was not allowing taping, so Rocktopus, Ava Adore, Owata, and Cupide are Missing.  So the recording starts with 1979.
+Includes most of the concert, minus about 10 minutes towards the end when my battery was running low and I wanted to save the last bit for when he said farewell to the crowd.
+Audio isn't great on heavy distortion songs, so if anyone knows a way to clean it up or sync it with soundboard, please let me know. Otherwise good recording.
 
-Encore:
-24 - That's The Way (My Love Is)		[04:03]
-25 - I Am One Part II				[13:57]
+Video Recording By: A. Stevens as04059@students.salisbury.edu

@@ -1,29 +1,30 @@
 Smashing Pumpkins
-July 6th, 1997
-Rock Werchter Festival
-Werchter, BE
+1997/07/06 - Belgacom '97; Werchter, BE 
+aud>ana 
+  
+Set: 
 
-FM>MD-M>DAT-?>CDR-? (from DE)>EAC>Audacity/CD Wave (fixed gaps)>FLAC
 
-Source: FM #1 - two audience sources and another fm source also circulate
-
-01. Glimpses [The Yardbirds] - 1:17
-02. Where Boys Fear To Tread - 3:28
-03. Eye - 0:39
-04. X.Y.U. - 2:32
-05. The Aeroplane Flies High - 8:59
+Glimpses [Yardbirds] 
+Where Boys Fear to Tread 
+Eye 
+Tonight, Tonight 
+Transformer 
+Zero 
+Thru the Eyes of Ruby 
+The End Is the Beginning Is the End 
+By Starlight 
+Bullet with Butterfly Wings 
+Muzzle 
+1979 
+X.Y.U. 
+Porcelina of the Vast Oceans 
+The Aeroplane Flies High 
 
 Notes:
-Tracks two and three had three second gaps at the end of the track. Gaps were removed and the tracks crossfaded for a smooth transition with Audacity, then resplit with CD Wave.
+this recording was only the right channel until the trader I got it from
+pasted the R channel onto the L to make it stereo
 
-Flaws:
-All songs except for Where Boys Fear To Tread are cut somehow.
-The DJ talks over Glimpses and Eye, as well as after The Aeroplane Flies High.
-
----
-Don't sell this recording
-Don't convert to mp3 aside from personal use for your ipod or whatever
-Enjoy the tunes
----
-
--rhinowing
+super loud clapping 
+mic position changes causing quality to vary
+ 

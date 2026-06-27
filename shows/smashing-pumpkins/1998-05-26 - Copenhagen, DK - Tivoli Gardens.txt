@@ -1,42 +1,34 @@
-Smashing Pumpkins
-May 26th, 1998
-Tivoli Gardens
-Copenhagen, DK
+The Smashing Pumpkins
+1998/05/26 - 
+Tivoli Gardens; 
+Copenhagen, DK 
 
-main source: FM [Danish P3 Radio] > SBLive > HDD > CDR-0 > EAC > WAV > SHN > FLAC
+Recorded from Danmarks Radio P3 Live.
 
-AUD > VHS-5 [mono] > Magnavox ZV427MG9 > RCA to 1/8" cable > R-09 (16 / 44.1) provides:
-t01 To Sheila (0:00 - 2:08)
-t08 Perfect (3:40 - 4:11) [banter after song]
-t10 Let Me Give the World to You
-t11 Bullet with Butterfly Wings (0:00 - 3:30) [percussion solo]
-t14 encore break
-t15 1979 (5:05 - end) [crowd after track]
-t16 Transmission / Help
+FM>SBLive>HDD>CDR(m)>EAC>WAV>SHN >flac
+  
+The most complete recording with all the broadcasted tracks. Two broadcasts edited together.
 
----
+disc 1: (49:47)
+1. To Sheila 
+2. Tear 
+3. Once Upon a Time 
+4. Crestfallen 
+5. Ava Adore 
+6. Daphne Descends 
+7. Thru the Eyes of Ruby 
 
-01. To Sheila
-02. Tear
-03. Once Upon a Time
-04. Crestfallen
-05. Ava Adore
-06. Daphne Descends
-07. Thru the Eyes of Ruby
-08. Perfect
-09. Tonight, Tonight
-10. Let Me Give the World to You
-11. percussion solo > Bullet with Butterfly Wings
-12. Shame
-13. For Martha
-14. encore break
 
-15. 1979
-16. Transmission [Joy Division] > Help! [The Beatles] (tease)
+disc 2: (46:10)
+1. Perfect 
+2. Tonight, Tonight 
+3. Bullet with Butterfly Wings 
+4. Shame 
+5. For Martha 
+6. 1979
 
-trt 130:39
+Not Broadcasted: Let Me Give the World to You & Transmission.
 
-* this VHS source is mono and suffers from occasional static / warble
+orld to You & Transmission.
 
-don't sell, etc
--rhinowing
+

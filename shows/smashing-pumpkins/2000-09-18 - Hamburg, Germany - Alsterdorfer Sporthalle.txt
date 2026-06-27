@@ -1,20 +1,14 @@
 Live at Alsterdorfer Sporthalle
 Hamburg, Germany
-**Remastered**  by thir13en
+September 18, 2000
 
-Smaashing Pumpkins
-2000-09-18
-Hamburg, Germany
+Taper:  Agnew
+Source:  SBD > M1 @ 44.1khz
+Conversion: M1 (DAT-M) > Sony Optical Cable > Zefiro ZA2 Soundcard
+DAT/SBD > CDR-?
+NOTE: Small drop-out at the beginning of "Blank Page"
 
-Another great Machina show, near the end of the tour they give an appreciative German audience the works. The M2 segment rocks through from "Dross" to "Cash Car Star" with a short but cool electric version of "If Is There Is A God" in the middle. And in total this show clocks in at just over 2 hours. Nice.
-
-I have two beefs' with this show. One, I wish there was more guitar in the mix, but that's SBD's for you. Two, I wish they hadn't used that annoying whiny chorus on Billy's voice throughout the show. Serious overkill on that. Listen to "ITIAG", no effect, and to me it's much nicer to hear just his voice as is. 
-
-The below-mentioned imperfections have been repaired. The dropout in "BWBW" wasn't in the song, but about 3-4 seconds after the last note, during maniacal crowd applause only. I did a crossfade. The dropout in the beginning of "Blank Page" was fixed using a loop edit. The skip was actually a repeated 5 seconds of material, nothing was missing, I just cut the extraneous piece out.
-
-No show edits other than mentioned above.
-
-
+Disc One -- 72:45
 
 01.  Glass and the Ghostchildren
 02.  Today
@@ -27,29 +21,19 @@ No show edits other than mentioned above.
 09.  Bullet With Butterfly Wings
 10.  Dross
 11.  Speed Kills
-12.  If There Is A God 
+12.  If There Is A God (he'll release MP!)
 13.  Cash Car Star
-14.  Rock On
+14.  Rock On (Essex)
 15.  Heavy Metal Machine
-16.  Disarm 
-17.  Tonight, Tonight 
-18.  Try, Try, Try 
-19.  Porcelina of the Vast Oceans 
-20.  This Time 
-21.  I of the Mourning (cut)
-22.  Blank Page 
-23.  Cherub Rock 
-24.  1979
 
+Disc 2 -- 48:34
 
-
-PRE-13 SOURCE INFO
-=====================
-=====================
-
-
-Taper:  Agnew
-Source:  SBD > M1 @ 44.1khz
-Conversion: M1 (DAT-M) > Sony Optical Cable > Zefiro ZA2 Soundcard
-DAT/SBD > CDR-?
-NOTE: Small drop-out at the beginning (:03-:07) of "Blank Page" and a skip at :53.  drop-out in BWBW at 5:32
+01. Disarm 
+02. Tonight, Tonight 
+03. Try, Try, Try 
+04. Porcelina of the Vast Oceans 
+05. This Time 
+06. I of the Mourning (cut)
+07. Blank Page 
+08. Cherub Rock 
+09. 1979

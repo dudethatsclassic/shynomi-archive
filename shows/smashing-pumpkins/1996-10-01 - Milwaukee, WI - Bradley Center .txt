@@ -1,18 +1,42 @@
-tsp1996-10-01d1t01.flac:07c8f3b465a6a2c35074490186484a54
-tsp1996-10-01d1t02.flac:0e4690c63b0d56220411c8693539df2c
-tsp1996-10-01d1t03.flac:3610e1f44a2c1d43fd4f2b2094e710d4
-tsp1996-10-01d1t04.flac:25df72d63c58416f599ae6a20399a233
-tsp1996-10-01d1t05.flac:ecbb0c39d9e3a40a015d2a0bf847f394
-tsp1996-10-01d1t06.flac:6be6c09c935213317e6fca72b1057e4a
-tsp1996-10-01d1t07.flac:25bb86f732ac3df73cb1114b4de2b0af
-tsp1996-10-01d1t08.flac:4f442812a5fc66a986edd67bde345495
-tsp1996-10-01d1t09.flac:25149c4ce12d27189823a1ca8600b9cd
-tsp1996-10-01d1t10.flac:344ec03c548ddf47095bef5ec5c4570a
-tsp1996-10-01d1t11.flac:ed133e97b578947681d36a3007071aca
-tsp1996-10-01d1t12.flac:b4bac5c8903e2bc290af5b9dd5cf0199
-tsp1996-10-01d1t13.flac:b175c3fc52aab3fac59a7f4ac10dfcf5
-tsp1996-10-01d2t01.flac:4dfdebc9b3c2eafc67e56b78e50c9724
-tsp1996-10-01d2t02.flac:a4a3c9152d260f087b64ae3eb6d7faf6
-tsp1996-10-01d2t03.flac:a682fe1b08e5a8d961e83aa0131f3780
-tsp1996-10-01d2t04.flac:366aade9c71ef87d0d8fde62b6fc4266
-tsp1996-10-01d2t05.flac:e02f73d76f80408bdea92afe2d69eeda
+The Smashing Pumpkins
+1996-10-01
+Bradley Center
+Milwaukee, WI, US
+
+Track Listing
+=============
+01 - Mellon Collie and the Infinite Sadness
+02 - Where Boys Fear to Tread
+03 - Zero
+04 - Cherub Rock
+05 - To Forgive
+06 - Tonight, Tonight
+07 - Today
+08 - Thru the Eyes of Ruby
+09 - Siva
+10 - Disarm
+11 - Bullet with Butterfly Wings
+12 - Fuck You
+13 - Porcelina of the Vast Oceans
+14 - X.Y.U.
+15 - 1979
+16 - Muzzle
+17 - Bodies
+18 - Silverfuck
+
+Lineage
+=======
+Transfer: ??? > NTSC SP VHS > JVC BR-S822DXU > DataVideo TBC-1000 >
+          Blackmagic Intensity Pro > FFMPEG > Audacity > MJPEG Tools >
+          DVDAuthor > NTSC DVD
+
+Video: NTSC; 4:3; 720x486; 8265kbps CBR; YUV4:2:0; Bottom Field First Interlaced
+Audio: LPCM 768kbps Mono
+
+An amateur recording of 1996-10-01. This is from a commercial bootleg,
+hence the tape generation is unknown. The recording cuts briefly during
+Silverfuck.
+
+Enjoy.
+
+- magikarp99

@@ -1,13 +1,11 @@
 Smashing Pumpkins
 September 7th 2024
+VIP Set
 Coors Field
 Denver, CO, US
 
-SOURCE (AUD#1):
-CA-14 Cards > Zoom H1 (24bit-48khz)
-
-LOCATION:
-GA pit house center front of the sound techs
+SOURCE (AUD#2):
+Internal Mics > Zoom H1 (24bit-48khz)
 
 TRANSFER:
 Zoom H1 (24bit-48khz) > WAV > (EQ, Amplify, Fades, Tracking) > FLAC
@@ -16,44 +14,28 @@ GENERATION:
 WAV(M) > FLAC
 
 LENGTH:
-66:34
+31:44
 
 SETLIST:
-01. Atum (Studio Track)
-02. The Everlasting Gaze
-03. Doomsday Clock
-04. Zoo Station [U2]
-05. Today
-06. That Which Animates the Spirit
-07. Tonight, Tonight
-08. Ava Adore
-09. Disarm
-10. Bullet With Butterfly Wings
-11. Sighommi
-12. 1979
-13. Jellybelly
-14. Cherub Rock
-15. I Want You To Want Me [Cheap Trick] (tease) > Will You Go My Way [Lenny Kravitz] (tease) > Zero > Love Gun [Kiss] (tease)
+01. Cenotaph
+02. Ziggy Stardust [David Bowie]
+03. To Forgive
+04. Perfect
+05. Q&A
 
 NOTES:
+VIP Set
+James Iha on vocals for Ziggy Stardust
+Katie Cole on lead vocals for To Forgive with Billy joining vocals for chorus
+
 Huge thanks to 2ndtheory for recording and releasing this show
 
 MD5 FINGERPRINTS:
-c125def8e371bd1a3d29ec46626c989e *Smashing Pumpkins 2024-09-07 AUD1 t01 Atum.flac
-b0bf22d935c7cb6e548b047baca43c9e *Smashing Pumpkins 2024-09-07 AUD1 t02 The Everlasting Gaze.flac
-5945e421ae722dcfe2f2e1281b1245f4 *Smashing Pumpkins 2024-09-07 AUD1 t03 Doomsday Clock.flac
-ec3c3837fe2adaaa5118df6f43336777 *Smashing Pumpkins 2024-09-07 AUD1 t04 Zoo Station [U2].flac
-a300b5baf228af9c21155eabe64c58b8 *Smashing Pumpkins 2024-09-07 AUD1 t05 Today.flac
-b5d1d3614735602decd15855db23400f *Smashing Pumpkins 2024-09-07 AUD1 t06 That Which Animates the Sprit.flac
-6a4a9a419c623b07c037d18b2afb9db6 *Smashing Pumpkins 2024-09-07 AUD1 t07 Tonight, Tonight.flac
-6085473b9d516a3ac9875ad696241d76 *Smashing Pumpkins 2024-09-07 AUD1 t08 Ava Adore.flac
-0c0d4f1454387624a00790adae91ad99 *Smashing Pumpkins 2024-09-07 AUD1 t09 Disarm.flac
-00442e8658be742b18ff9027a7159a1a *Smashing Pumpkins 2024-09-07 AUD1 t10 Bullet With Butterfly Wings.flac
-11970c28ded9e7c68da450f7915ae251 *Smashing Pumpkins 2024-09-07 AUD1 t11 Sighommi.flac
-cca6a128796a781e280632bbc72d48c8 *Smashing Pumpkins 2024-09-07 AUD1 t12 1979.flac
-b30f6777580847172ed9997e46c78aa7 *Smashing Pumpkins 2024-09-07 AUD1 t13 Jellybelly.flac
-572d9b3d287b44d8c6e5313deba83b26 *Smashing Pumpkins 2024-09-07 AUD1 t14 Cherub Rock.flac
-ca43526cd8ca1f3ead75a2c41b013e7d *Smashing Pumpkins 2024-09-07 AUD1 t15 Zero.flac
+1221c033b4f1d897bc7a7551a967df5f *Smashing Pumpkins 2024-09-07 AUD2 t01 Cenotaph.flac
+d89df13d00c009e88f079d00de6a68be *Smashing Pumpkins 2024-09-07 AUD2 t02 Ziggy Stardust [David Bowie].flac
+1dca72070fd33039976ae68b562a47ad *Smashing Pumpkins 2024-09-07 AUD2 t03 To Forgive.flac
+74fb36d3110afade7cff46440aaba595 *Smashing Pumpkins 2024-09-07 AUD2 t04 Perfect.flac
+ff8de8f3346e383d06b0d1a4d1dde376 *Smashing Pumpkins 2024-09-07 AUD2 t05 Q&A.flac
 
 RECORDED BY:
 2ndtheory

@@ -1,44 +1,41 @@
 Smashing Pumpkins
-
-Virgin Festival
-Centre Island
-Toronto, Ontario, Canada
 September 9th, 2007
+Centre Island (Virgin Festival)
+Toronto, ON, CA
 
-Taper: Cabbage <cabbage@jimmieschickenshack.net> <craigkabis@gmail.com>
-Location: ~ 50' back about 10' on the right from center aligned with Jeff and the front of the soundboard.  Mounted in my hat about 6' 3" high.
-Source: AKG ck93 hyper-cardioid capsules (mod) > RM 3-wire battery box > iRiver H120 > .wav @ 44.1Khz / 16 bit
-Lineage: .wav > Amadeus Pro 1.1.1 > FLAC
+taper: John M. (CanadianMayonaise)
+source: built-in > Sony TCS-35V
+location: 15 feet from right stack
+transfer: ANA-1 (Maxell UD-90) > playback on Sony TC630ES > 1/4 out> 1/4 to 1/8 cable > laptop
+editing: Audacity (recording, fades, channel fixes), CDWave (splits), FLAC Frontend (level 8)
 
-Setlist
-01 - United States
-   > The Star-Spangled Banner (tease) [Francis Scott Key]
-   > O Canada (tease) [Sir Adolphe Basile Routhie]
-   > United States			[10:48]
-02 - Bullet With Butterfly Wings	[05:02]
-03 - That's The Way (My Love Is)	[03:43]
-04 - Neverlost				[04:22]
-05 - Hummer				[07:06]
-06 - Stand Inside Your Love		[03:53]
-07 - Tonight, Tonight			[04:32]
-08 - Tarantula				[04:02]
-09 - Starz				[03:57]
-10 - Zero				[02:19]
-11 - Glass And The Ghost Children	[11:23]
-12 - By Starlight (abandoned)		[01:13]
-13 > To Shiela				[04:17]
-14 - 1979				[04:22]
-15 - Superchrist			[06:11]
-16 - Doomsday Clock			[03:32]
-17 - Heavy Metal Machine		[10:05]
-18 > On The Road Again [Canned Heat]	[06:13]
+Set:
+01. -intro-
+02. United States > Star Spangled Banner (tease) > O Canada (tease)
+03. Bullet with Butterfly Wings
+04. That's the Way (My Love Is)
+05. Neverlost
+06. Hummer
+07. Stand Inside Your Love
+08. Tonight, Tonight
+-tape flip-
+09. Tarantula
+10. Starz
+11. Zero
+12. Glass and the Ghost Children
+13. By Starlight (unfinished)
+14. > To Sheila
+15. 1979
+16. Superchrist
+17. Doomsday Clock
+-tape flip-
+18. Heavy Metal Machine > White Rabbit [Jefferson Airplane] > On the Road Again [Canned Heat]
 
-Encore
-19 - Today				[03:37]
+19. Today
 
-Total Running Time			[01:40:37]
+* not a great recording, completists only
+* United States through Tonight, Tonight is dual mono
+* runs fast
 
-
-Notes
-By Starlight and 1979 are Billy solo acoustic.
-To Shiela is the whole band with Billy on acoustic.
+don't sell, etv
+-rhinowing

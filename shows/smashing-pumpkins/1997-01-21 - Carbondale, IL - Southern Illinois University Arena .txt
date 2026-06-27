@@ -1,23 +1,30 @@
 Smashing Pumpkins
-January 21st 1997
-Southern Illinois University Arena
-Carbondale, IL, US
+1997-01-21
+SIU Arena, Carbondale, IL, US
 
-SOURCE (AMT#1):
-unknown > unknown
+Source: Walkman>ANA-1>CDR-M>FLAC
 
-VIDEO TRANSFER:
-Panasonic AG-1980 SVHS > Datavideo TBC-6000 > ATI TV Wonder 600 USB > VirtualDub > AviSynth 2.6.0 > x264.exe 0.155.2901 7d0ff22 > MKVToolNix GUI v46.0.0
+Disc 1:
 
-GENERATION:
-VHS(X) > AVI [UTVideo/48khz/16-Bit/PCM] > MKV [480p/x264 | AAC | FLAC]
+01. Tonight, Tonight
+02. Cherub Rock
+03. Where Boys Fear to Tread
+04. Rhinoceros
+05. Zero
+06. Fuck You (An Ode To No One)
+07. Porcelina of the Vast Oceans > Rocket (tease)
+08. Nineteen Seventy Nine
 
-LENGTH:
-108:16
+Disc 2:
 
-MD5 FINGERPRINTS:
-2a7abf9888636af3c0cc0bb401e2b369 *Smashing Pumpkins 1997-01-21 AMT1 x264 AAC FLAC.mkv
-
-TRANSFER & DISTRIBUTION:
-Nicholas Serra & Members of SPLRA
-2021-01-07
+01. (unknown instrumental)
+02. Thirty Three
+03. Bullet With Butterfly Wings
+04. (talking)
+05. Muzzle
+06. Disarm
+07. Thru The Eyes of Ruby
+08. (talking)
+09. X.Y.U.
+10. Drown > Hummer (tease)
+11. Siva > Spiders (tease)

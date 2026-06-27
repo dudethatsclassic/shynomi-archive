@@ -3,51 +3,51 @@ October 16th, 2000
 Halles Tony Garnier
 Lyon, France
 
-source: SS-DSM-6S > PA-6LC3 (175) > PCM-M1 (48k)
-Transfer:  DDC-1 > IBM CTD-8000 > DAT2WAV > WAV (16 bit / 48khz)
-Editing: Audacity (volume envelope, trimming, limit), CDWave (split), TLH (flac8)
+SS-DSM-6S>PA6LC3>M1>DAT-1(48k)>Fostex D5 (Optical)>m-audio DiO 2496>CDWave>FLAC
 
-set one (acoustic)
-01. -intro-
-02. Stand Inside Your Love
-03. Today
-04. Glass the Ghost Children > Le Deux Machina (tease)
-05. Thirty-three
-06. To Sheila
-07. Blue Skies Bring Tears > drums
+Source: AUD #1 - the only known source for this show
 
-set two (electric)
-08. Glass' Theme
-09. The Everlasting Gaze
-10. Bullet with Butterfly Wings
-11. Dross
-12. Speed Kills
-13. Rock On [David Essex] >
-14. Heavy Metal Machine
-15. Disarm
-16. Tonight, Tonight
-17. -band intros-
-18. Try, Try, Try
-19. Drown >
-20. Porcelina of the Vast Oceans
+Set One:
+01. Intro - 1:33
+02. Stand Inside Your Love - 4:29
+03. Today - 4:26
+04. Glass And The Ghost Children -> Le Deux Machina (tease) - 11:54
+05. Thirty-Three - 3:48
+06. To Sheila - 3:05
+07. Blue Skies Bring Tears - 8:38
+Set Two:
+08. Glass' Theme - 2:02
+09. The Everlasting Gaze - 3:33
+10. Bullet With Butterfly Wings - 5:16
+11. Dross - 5:32
+12. Speed Kills - 4:09
+13. Rock On [Essex] - 2:54
+14. -> Heavy Metal Machine - 8:08
+15. Disarm - 5:09
+16. Tonight, Tonight - 4:22
+17. Band Introductions - 2:06
+18. Try, Try, Try - 5:05
+19. Drown - 4:02
+20. -> Porcelina Of The Vast Oceans - 13:54
+Encore One:
+21. Blank Page - 4:43
+22. Cherub Rock - 6:29
+Encore Two:
+23. Band Introductions/Ava Adore (tease)/Frere Jacque [traditional] (tease)/I Feel You [Depeche Mode] (tease) - 3:21
+24. 1979 - 7:03
 
-21. Blank Page
-22. Cherub Rock
+Notes:
+Awesome show. Great versions of Glass And The Ghost Children and Porcelina.
 
-23. Ava Adore (tease) / Frere Jacques (tease) / I Feel You [Depeche Mode] (tease/jam)
-24. 1979 > I Feel You (jam)
+---
+DO NOT SELL
+DO NOT CONVERT TO MP3 ASIDE FROM PERSONAL USE
+DO NOT REMIX, REMASTER, ETC WITHOUT PERMISSION
+ENJOY THE MUSIC!
+---
 
-* DAT from Halteh's collection
-* the mics are either dropped or covered during Speed Kills (maybe the taper sits down??); recording quality drops a little for the rest of the show
-* I applied a volume envelope and limiter to even out several level changes and large amount of claps on this tape
-* this derives from the same DAT as my seed from 2006; this recording is a direct to WAV transfer (as opposed to playback and S/PDIF capture), is at the original 48khz sample rate, and has adjusted levels
-* I'm pretty sure this was taped by JC (or at least using his rig) but cannot confirm
-* transferred by Richard Campbell -- thank you!
-* additional thanks to the following people who had a role in getting this recording to your ears: Reece D, Matt K, and Terry Watts
-* band introductions are by Melissa in French
+Ben Valocchi (rhinowing) and Matt Krueger (Punkishlyevil)
 
-"I apologize...again, I apologize" - Iha
+VERY large thank yous go to Reece Donovan and Kevin Davis
 
-don't sell this recording
-https://splra.org/wiki/index.php?title=Tsp2000-10-16
--rhinowing
+brought to you in association with the SPLRA (splra.org)

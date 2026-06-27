@@ -222,7 +222,8 @@ const ARTIST_DATA = {
       "venue": "International Forum *Freaking Out",
       "notes": "",
       "version": "PRO",
-      "format": "DVD"
+      "format": "DVD",
+      "textFile": "1999-09-10 - Tokyo, Japan - International Forum - Freaking Out [SBD].txt"
     },
     {
       "year": 2008,

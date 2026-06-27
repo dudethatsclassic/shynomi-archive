@@ -5,9 +5,9 @@ London, UK
 
 Source: SBD>??multitrack or DAT??>Virgin Promo ("Monitor Mixes", duplicated 7/19/93)
 Transfer: Virgin Promo Tape>Sony TC-K630ES>R-09(unity gain, 24/48)
-Editing: Audacity (amplified, spliced tape sides together), CDWave (split), r8brain (downsample/dither), TLH (FLAC)
+Editing: Audacity (amplified, spliced tape sides together), CDWave (split), TLH (FLAC)
 
-16/44.1 version
+24/48 version
 
 01. Intro - 2:58
 02. Rocket - 4:41

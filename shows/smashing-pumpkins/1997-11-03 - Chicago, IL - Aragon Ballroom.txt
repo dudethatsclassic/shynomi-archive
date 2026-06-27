@@ -1,46 +1,25 @@
 Smashing Pumpkins
-November 3rd 1997
+November 3rd, 1997
 Aragon Ballroom
 Chicago, IL, US
 
-SOURCE (AUD#1)
-Core Sound Cardioids > Sony TCD-D8
+source: CSC > D8 @ 48k
+transfer: DDC-3 > PCM-R300 > Coaxial SPDIF > Tascam DR-680 > WAV > FLAC
+editing: CDWave (split), TLH (flac8)
 
-TRANSFER:
-Tascam DA-20mkII > Apogee S/PDIF cable > PreSonus FireStudio Project > Adobe Audition 3.0 > Trader's Little Helper 2.7.0
+01. Thru the Eyes of Ruby
+02. Zero 
+03. Tonight, Tonight
+04. Porcelina of the Vast Oceans
+05. Muzzle
 
-GENERATION:
-DAT(1) [48kHz] > WAV [48kHz] > FLAC [Level 8]
+trt 31:51
 
-LENGTH:
-31:50
+* surprise opening set for Jane's Addiction
+* the band performed in drag
+* taped from floor, left/center, 30 feet back
+* Matt Walker's second to last show
+* these are 16 bit / 48 khz files, you will need to resample to 16 / 44.1 before burning to CD
 
-SETLIST:
-01. Intro
-02. Thru the Eyes of Ruby
-03. Zero
-04. Tonight, Tonight
-05. Porcelina of the Vast Oceans
-06. Muzzle
-
-NOTES:
-DAT(3) to DAT(1) upgrade
-
-Unannounced surprise set supporting Jane's Addiction with the band performing in drag
-
-Thank you to Mike Ziegler for the recording and to Matt Reeder for analysis.
-
-MD5 FINGERPRINTS:
-2b41077aff204dd17a3535d10187669c *Smashing Pumpkins 1997-11-03 AUD1 t01 Intro.flac
-bc10ecbe80d7dc1dea34d115af15b5fa *Smashing Pumpkins 1997-11-03 AUD1 t02 Thru the Eyes of Ruby.flac
-25e7583359f6165a33614c39af85eafb *Smashing Pumpkins 1997-11-03 AUD1 t03 Zero.flac
-c542883355552f0b8229e9c101072056 *Smashing Pumpkins 1997-11-03 AUD1 t04 Tonight, Tonight.flac
-32203ee70823a2227ac8214b24957f78 *Smashing Pumpkins 1997-11-03 AUD1 t05 Porcelina of the Vast Oceans.flac
-6b8bb8006966be6194d6358d52524acf *Smashing Pumpkins 1997-11-03 AUD1 t06 Muzzle.flac
-
-TRANSFER BY:
-Mike Ziegler
-
-DISTRIBUTION:
-Nicholas Serra, Spaldz & Members of SPLRA
-2024-10-15
+don't sell, etc
+-rhinowing

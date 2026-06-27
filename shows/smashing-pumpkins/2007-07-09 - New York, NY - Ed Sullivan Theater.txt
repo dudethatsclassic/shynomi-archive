@@ -1,18 +1,11 @@
 Smashing Pumpkins
 2007-07-09
-Ed Sullivan Theatre (Letterman)
-New York, NY
+Late Show With David Letterman
 
-1. Tarantula
-2. That's the Way (My Love Is)
-
-
-SOURCE INFO:
+Setlist:
 
 Tarantula
-Toshiba CB > WinTV > BeyondTV 6mbit > Nero Vision > Apollo DVD Audio Extractor
-Taped by bodhisattva
 
-That's the Way 
-Terk HDTVa Indoor Amplified High-Definition Antenna > Miglia TV MiniHD > USB > Apple MacBook Pro 2.33 Ghz Intel Core 2 Duo > Elgato Eye TV 2.4.1 Build 2824 > Adobe Audition
-Taped by cabbage
+Total Time:  4:36
+
+lineage:  analog cable TV > Sony Technics M215 tape deck > iMic > CD Spin Doctor > flac level 8 with xAct > you

@@ -1,31 +1,19 @@
 A Perfect Circle
-October 21, 1999
-The Galaxy
+1999-10-21
 Santa Ana, CA
+Galaxy Theater
 
-Source: Core Sound Binaurals > Sony PCM-M1
-Lineage: DAT Master 16/48 > FLAC
-Transfer (BLG): DA-20 > coax > Marantz PMD-670 > usb reader > Adobe Audition (edits) > iZotope Ozone 5 (EQ,Exciter,Imaging,Dynamics) > WavePad (tracking) > xACT (tags) > FLAC
-Taper: Ed Davis
+Source:
+Transfer: UnK Gen CDR > EAC (Secure Mode) > .FLAC (Level 8)
+Notes:
 
-01 Intro
-02 Hollow
-03 Orestes
-04 Magdalena
-05 3 Libras
-06 Thomas
-07 Brena
-08 Diary of a Lovesong
-09 Rose
-10 Judith
-
-Total Time: 46:10
-
-Band:
-Maynard
-Billy Howerdel
-Troy Van Leeuwen
-Paz Lenchantin
-Tim Alexander
-
-.txt compiled on 12/25/2014 by BLG
+Setlist:
+The Hollow
+Orestes
+Magdelena
+3 Libras
+Thomas
+Brena
+Diary Of A Lovesong
+Rose
+Judith

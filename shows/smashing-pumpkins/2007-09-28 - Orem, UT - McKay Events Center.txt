@@ -1,77 +1,49 @@
-The Smashing Pumpkins
+Smashing Pumpkins
 McKay Events Center
-Orem, Utah USA
+Orem, Utah
 2007-09-28
 
-Video & Editing by MonteLDS
------
-Format : NTSC
-Aspect : 16:9 - 720x480 Progressive
-Bitrate : VBR 2 Pas, Min 1.5 Target 4.00, Max 7.00 [Mbps]
-Framerate : 29.97 fps
-
-Source : Sony HDR-SR5 1080i > Elecard Converter Studio AVC HD Edition > MPEG2
-Editing : Adobe Premiere Pro CS3
-Authoring: Adobe Encore CS3
 
 
-Sync with
-Audio by BobbinTB
------
 Source: generic binaural mics > Edirol R-09 (mic gain off, input level at 15) > Lexar 4GB SDHC Platinum II SD card
-Lineage: Edirol R-09 > USB > PC
+Lineage: Edirol R-09 > USB > PC > Adobe Audition (to split and join tracks) > FLAC
+Taper: Bobbin TB (netphoria)
 Location: dead center by soundboard
-File Type: 48000Hz, 32-bit, Stereo
-Uncompressed Size: 2.89 GB (3,112,024,064 bytes)
-File Format: Windows PCM
+File Type:	48000Hz, 32-bit, Stereo
+Uncompressed Size:	2.89 GB (3,112,024,064 bytes)
+File Format:	Windows PCM
+		24-bit Packed Int (type 1 (24-bit)
+
+Track Listing
+
+01 - Intro > United States > The Star-Spangled Banner (tease)
+02 - Bullet with Butterfly Wings
+03 - That's the Way (My Love Is)
+04 - Bleeding the Orchid
+05 - Drown
+06 - Bring the Light
+07 - Ava Adore
+08 - Tonite, Tonite
+09 - Tarantula
+10 - Glass and the Ghost Children
+11 - Perfect +
+12 - 1979 +
+13 - To Sheila +
+14 - Today
+15 - Starz
+16 - Zero
+17 - Superchrist
+18 - Doomsday Clock
+19 - Heavy Metal Machine > White Horse [Laid Back] > White Rabbit [Jefferson Airplane]
+
+Encore 1
+20 - Cherub Rock
+
+Encore 2
+21 - Starla
+22 - Muzzle 
+
++ acoustic
 
 
-Setlist
--------
-
-DISC 1
-Runtime: 1 Hour 58 Seconds
-1) United States
-2) Bullet with Butterfly Wings
-3) That's the Way (My Love Is)
-4) Bleeding the Orchid
-5) Drown
-6) Bring the Light
-7) Ava Adore
-8) Tonight, Tonight
-9) Tarantula
-10) Glass and the Ghost Children
-
-DISC 2
-Runtime: 1 Hour 7 Minutes 5 Seconds
-1) Perfect
-2) 1979
-3) To Sheila
-4) Today
-5) Starz
-6) Zero
-8) Doomsday Clock
-9) Heavy Metal Machine*
-> On the Road Again [Canned Heat]
-
-Encore 1:
-
-10) Cherub Rock*
-
-Encore 2:
-
-11) Starla
-12) Muzzle*
-
-
-
-Notes
------
-Main menu & chapters, but no chapter menu. Song denoting a * have missing footage due to camera "buffer error" Typically a 20 seconds
-worth of footage missing. The crowd was really rough so during some of the last songs footage gets a little crazy. But still watchable
-
-Some Highlight: Billy playing guitar with his teeth. The tune from Viephoria where a fan sings "they're from chicago... the windy city.."
-is played between Starla & Muzzel. All footage shot from the rail for an up close experience.
-
-
-A HD 1080i BLU-RAY version currently not available for public circulation but does exist. 
+Notes: missed the first few second of the circusy intro due to recorder suddenly not recognizing card. almost had a panic attack.

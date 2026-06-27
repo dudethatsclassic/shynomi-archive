@@ -3,47 +3,43 @@ August 14, 2007
 Vega
 Copenhagen, Denmark
 
+Taper: NA
+Source: Sennheiser MKE40 (MM-HLSC-1)>20db att cable>Edirol-R09(24/48, mic in)
+Editing: Fades, Track Splits, Waves C4+L2
+Dithering: UV22 HR dithering in Steinberg WaveLab V5.01b
+Resampling: 48.0 kHz > 44.1 kHz resampling in Steinberg WaveLab V5.01b
+FLAC: Master wav's > Foobar2000 
 
-Taper:       IJ
-Source:      DPA 4061>Edirol-R09(24/48)
-Conversion:  Edirol-R09>USB>Cool Edit Pro 2.0>CD Wave>xACT 0.5.9
-Editing:     Fades (CEP) Track Splits (CDwave) 
-Dithering:   UV22 HR dithering in Steinberg WaveLab V5.01b
-Resampling:  48.0 kHz > 44.1 kHz resampling in Steinberg WaveLab V5.01b
-FLAC:        Master wav's > TLH
+==== CD1
+01: Intro
+02: United States
+03: That's The Way (My Love Is)
+04: Bleeding The Orchid
+05: (Come On) Let's Go!
+06: Tonight Tonight
+07: Tarantula
+08: Starz
+09: Glass and the Ghost Children
+10: Zero
+11: Cherub Rock
+12: With Every Light
+13: Death From Above
+14: Daydream
+15: Thirty-Three
+==== CD2
+01: Winterlong
+02: Superchrist
+03: Doomsday Clock
+04: Heavy Metal Machine >
+White Rabbit [Jefferson Airplane] (tease)
+05: Disarm
+06: Stand Inside Your Love
+07: Hummer
+08: Shame >
+09: Bullet With Butterfly Wings
+10: Zeitgeist
+11: Silverfuck
 
+Total Time: 130h52m
 =============================================
-01:     Intro
-02:     United States
-03:     That's The Way (My Love Is)
-04:     Bleeding The Orchid
-05:     (Come On) Let's Go!
-06:     Tonight Tonight
-07:     Tarantula
-08:     Starz
-09:     Glass and the Ghost Children 
-10:     Zero
-11:     Cherub Rock
-12:     With Every Light
-13:     Death From Above
-14:     Daydream
-15:     Thirty-Three
-16:     Winterlong
-17:     Superchrist
-18:     Doomsday Clock
-19:     Heavy Metal Machine >
-        White Rabbit [Jefferson Airplane] (tease)
-20:     Disarm
-21:     Stand Inside Your Love
-22:     Hummer
-23:     Shame >
-24:     Bullet With Butterfly Wings
-25:     Zeitgeist
-26:     Silverfuck
-
-
-Total Time:                            146:23
-=============================================
-
-Notes:  Thanks to Nicke for letting me borrow the mics yet again.
 

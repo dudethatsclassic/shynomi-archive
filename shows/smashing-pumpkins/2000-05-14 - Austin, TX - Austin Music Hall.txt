@@ -1,82 +1,53 @@
+**Remastered** by thir13en
+
+
+MY FAQ:
+
+
+
 Smashing Pumpkins
-May 14th 2000
-Music Hall
-Austin, TX, US
+Live at the Music Hall
+Austin, Texas
+May 14, 2000
 
-SOURCE (AUD#4):
-CSBMod > Att(-20db) > TCD-D7
+This is one that I meant to get out over a month ago, but the switch happened and it was sort of forgotten. JB upped the original recently, here's now the RM of it. 
 
-TRANSFER:
-Tascam DA-20mkii > Marantz PMD670
+Another great Machina show, their second night in Texas. Something about SP in Austin doesn't quite seem right, they don't really fit the scene there. Maybe they should have done a SRV song, or even a Butthole Surfers tune. Either way, they came, they rocked, they moved on. And this is what's left.
 
-GENERATION:
-DAT(M) > FLAC
+I re-spread what the FM crunched, created a nice even spectrum for it to breathe in, then lit it up to the top, as always. No editing...
 
-LENGTH:
-106:41
+Like it, download and enjoy it.
+Don't like it, that's nice too.
 
-SETLIST:
-01. Rock On [Essex]
-02. The Everlasting Gaze
-03. Glass and the Ghost Children > Blissed and Gone (tease)
-04. Age of Innocence
-05. Blew Away
-06. Stand Inside Your Love
-07. Pug
-08. Heavy Metal Machine
-09. (god interlude)
-10. To Sheila > Spiteface (tease)
-11. Muzzle
-12. Try, Try, Try
-13. Mayonaise
-14. Fuck You (An Ode To No One)
-15. Blue Skies Bring Tears
-16. Cherub Rock
-17. Snail
-18. I of the Mourning
-19. (encore break)
 
-Encore
+"...have you ever heard the words, Im singing in these songs..."
 
-20. Blank Page
-21. Bullet with Butterfly Wings
-22. Once in a Lifetime [Talking Heads]
 
-NOTES:
-Fourth audience recording of the show. Taped 10ft in front of right stack. This isn't an upgrade over any of the existing sources and there is also a soundboard recording of the show in circulation. One for the collectors! 
 
-Thank you to our taper Arnold Leal for lending his master DAT, and to Andrew Fogelsong for the transfer and raw files.
+01.  Rock On
+02.  The Everlasting Gaze
+03.  Glass and the Ghostchildren
+04.  Age of Innocence
+05.  Blew Away
+06.  Stand Inside Your Love
+07.  Pug
+08.  Heavy Metal Machine
+09.  Intro
+10.  To Sheila
+11.  Muzzle
+12.  Try, Try, Try
+13.  Mayonaise
+14.  Ode To No One
+15.  Blue Skies Bring Tears
+16.  Cherub Rock
+17.  Snail 
+18.  I Of The Mourning 
+19.  Blank Page
+20.  Bullet With Butterfly Wings
+21.  Once In A Lifetime
 
-MD5 FINGERPRINTS:
-a347774bf1f4a33b540ff7fdc459648d *Smashing Pumpkins 2000-05-14 AUD4 t01 Rock On.flac
-bb009ac355a2f14b8ebc6453130cc6de *Smashing Pumpkins 2000-05-14 AUD4 t02 The Everlasting Gaze.flac
-83c0380291804e91c70dbb41e700d64e *Smashing Pumpkins 2000-05-14 AUD4 t03 Glass and the Ghost Children.flac
-ce766f3571c8c590cdce8679633875b9 *Smashing Pumpkins 2000-05-14 AUD4 t04 Age of Innocence.flac
-2f768073c26c07d8cf994c95a6fc9138 *Smashing Pumpkins 2000-05-14 AUD4 t05 Blew Away.flac
-5e0704413678a65e47365382694aaf0f *Smashing Pumpkins 2000-05-14 AUD4 t06 Stand Inside Your Love.flac
-9f1982db9377666324e2bde9363a94e7 *Smashing Pumpkins 2000-05-14 AUD4 t07 Pug.flac
-032f57468a4426407fd535b6b8172ec2 *Smashing Pumpkins 2000-05-14 AUD4 t08 Heavy Metal Machine.flac
-7a4449b11a87a29758141ecadd2ef9d5 *Smashing Pumpkins 2000-05-14 AUD4 t09 (God Interlude).flac
-5efbeccdaeb4ce8cda818cf00378b7e0 *Smashing Pumpkins 2000-05-14 AUD4 t10 To Sheila.flac
-e9d3d28647c7f503cb1a877c3ea7f80f *Smashing Pumpkins 2000-05-14 AUD4 t11 Muzzle.flac
-c5e0220ff3d8e828a03d813dd2a46cb0 *Smashing Pumpkins 2000-05-14 AUD4 t12 Try, Try, Try.flac
-34a929c905f7481b303749402b901ebb *Smashing Pumpkins 2000-05-14 AUD4 t13 Mayonaise.flac
-308f04c6eeae81d786958dacc73f0e2c *Smashing Pumpkins 2000-05-14 AUD4 t14 Fuck You (An Ode To No One).flac
-8db92f764ecd04cfce95e6f2e89306c1 *Smashing Pumpkins 2000-05-14 AUD4 t15 Blue Skies Bring Tears.flac
-d675631106d75d736544ccdb15f46d7f *Smashing Pumpkins 2000-05-14 AUD4 t16 Cherub Rock.flac
-f071d0f20ee21a481b6051c93ad3180b *Smashing Pumpkins 2000-05-14 AUD4 t17 Snail.flac
-735692b4c4f4c49d5e6ed8cff5d5ce6a *Smashing Pumpkins 2000-05-14 AUD4 t18 I Of The Mourning.flac
-dea0c8060640a3cfe0c6af22bc094211 *Smashing Pumpkins 2000-05-14 AUD4 t19 (Encore Break).flac
-7a3372c089c730b0ab690f1b1549cb24 *Smashing Pumpkins 2000-05-14 AUD4 t20 Blank Page.flac
-9bd04eede903f2d9d2986915e86a5322 *Smashing Pumpkins 2000-05-14 AUD4 t21 Bullet with Butterfly Wings.flac
-1288be25c14b9a22403602ca1352338c *Smashing Pumpkins 2000-05-14 AUD4 t22 Once in a Lifetime.flac
 
-RECORDED BY:
-Arnold Leal
-
-TRANSFER BY:
-Andrew Fogelsong
-
-DISTRIBUTION:
-Spaldz & Members of SPLRA
-2022-02-21
+ORIGINAL SOURCE INFO
+-------------------
+Taper:  Agnew
+Source:  SBD > M1 @ 44.1khz

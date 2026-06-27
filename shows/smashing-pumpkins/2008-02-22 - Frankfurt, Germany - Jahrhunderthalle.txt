@@ -1,46 +1,34 @@
-THE SMASHING PUMPKINS
-2008-02-22
+Smashing Pumpkins
+February 22nd, 2008
 Jahrhunderthalle
-Frankfurt am Main, Germany
+Frankfurt, DE
 
-Source:     MBHO MBP 603 A / KA 200 N > Sound Devices MP-2 > Edirol R-09
-Mic Config: in hat, DINA (17cm, 90°)
-Location:   ~20m from the stage, center
-Transfer:   Master WAVs > dEdit > CD Wave Editor V1.95.1 > FLAC V1.1.4
-Editing:    EQ and volume boost in Apple Logic Pro V8.0.1
-            Fades in Sound Studio V3.5.5
+Taper: CosmoNaut
+Lineage: Panasonic NV-GS75>MiniDV-M>DVD>FLAC
+Editing: DVD2AVI (demuxed/downsampled PCM track from the DVD)>CDWave (splits)>FLAC Frontend (level 8, align on sector boundaries)
 
-Setlist:
-01 (Intro)
-02 Porcelina of the Vast Oceans
-03 > Behold! The Night Mare
-04 Bring the Light
-05 Tonight, Tonight
-06 Mayonaise
-07 Try, Try, Try
-08 Superchrist
-09 > (Come On) Let's Go!
-10 Stellar
-11 Perfect
-12 Lily (My One and Only)
-13 The Rose March
-14 Today
-15 > Tarantula
-16 Stand Inside Your Love
-17 Ava Adore
-18 Drown
-19 > Bullet with Butterfly Wings
-20 1979
-21 That's the Way (My Love Is)
-22 My Blue Heaven [Whiting/Donaldson]
-23 The Everlasting Gaze
-24 Cash Car Star (Version 1)
-25 > Easy Livin' [Uriah Heep]
-26 > Foreplay [Boston]
-27 > For What It's Worth [Buffalo Springfield]
-28 > Wasted Years [Iron Maiden] (tease)
-29 (Encore Break)
-30 United States / The Star-Spangled Banner [Key/Smith] (tease)
+Soundcheck:
+01. Take One (fades in) - 8:33
+02. Take Two - 12:52
+03. Take Three - 8:03
+04. Take Four - 2:58
+05. Take Five - 4:52
+06. Take Six (new wave version) - 3:13
+07. Take Seven (with vocals) - 6:01
+08. talking - 2:27
 
 Notes:
-This is the 24 bit version of this recording.
+Massive, massive thanks to Cosmonaut for seeding this and giving me permission to release this audio version.
+This is SP rehearsing Run, Shaker Life (Richie Havens). Select fans were let into the venue for the soundcheck.
+
+Flaws:
+Bass brickwalling...not *that* much of an issue.
+
+edited/seeded by rhinowing
+
+Don't sell, etc.
+
+CosmoNaut says:
+"Thanks for re-seeding ...
+and please make sure to visit my bands website www.saviour.de  and www.myspace.com/saviourband
+Enjoy !"

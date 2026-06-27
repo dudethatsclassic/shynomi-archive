@@ -1,7 +1,37 @@
+Smashing Pumpkins
+November 11th, 2007
+Ryman Auditorium
+Nashville, TN
 
-flac 1.1.0, Copyright (C) 2000,2001,2002,2003 Josh Coalson
-flac comes with ABSOLUTELY NO WARRANTY.  This is free software, and you are
-welcome to redistribute it under certain conditions.  Type `flac' for details.
+source: sp-bmc-3 mics>bass rolloff 195hrzsp-bm6 batt box>sony mzrh-10minidiscHIMD hi-sp>sonicstage(transfer)>goldwave fade ins/outs mastering>cdwave>flac
+taper: Garret
 
-options: -P 4096 -b 4608 -m -l 8 -e -q 0 -r 0,6
-sp-11-11-07_d204.wav: 0% complete, ratio=0.746sp-11-11-07_d204.wav: 1% complete, ratio=0.502sp-11-11-07_d204.wav: 2% complete, ratio=0.556sp-11-11-07_d204.wav: 2% complete, ratio=0.578sp-11-11-07_d204.wav: 3% complete, ratio=0.579sp-11-11-07_d204.wav: 4% complete, ratio=0.572sp-11-11-07_d204.wav: 5% complete, ratio=0.559sp-11-11-07_d204.wav: 5% complete, ratio=0.560sp-11-11-07_d204.wav: 6% complete, ratio=0.572sp-11-11-07_d204.wav: 7% complete, ratio=0.580sp-11-11-07_d204.wav: 8% complete, ratio=0.588sp-11-11-07_d204.wav: 9% complete, ratio=0.593sp-11-11-07_d204.wav: 9% complete, ratio=0.597sp-11-11-07_d204.wav: 10% complete, ratio=0.600sp-11-11-07_d204.wav: 11% complete, ratio=0.605sp-11-11-07_d204.wav: 12% complete, ratio=0.609sp-11-11-07_d204.wav: 12% complete, ratio=0.611sp-11-11-07_d204.wav: 13% complete, ratio=0.614sp-11-11-07_d204.wav: 14% complete, ratio=0.617sp-11-11-07_d204.wav: 15% complete, ratio=0.619sp-11-11-07_d204.wav: 16% complete, ratio=0.619sp-11-11-07_d204.wav: 16% complete, ratio=0.620sp-11-11-07_d204.wav: 17% complete, ratio=0.620sp-11-11-07_d204.wav: 18% complete, ratio=0.620sp-11-11-07_d204.wav: 19% complete, ratio=0.620sp-11-11-07_d204.wav: 19% complete, ratio=0.620sp-11-11-07_d204.wav: 20% complete, ratio=0.620sp-11-11-07_d204.wav: 21% complete, ratio=0.621sp-11-11-07_d204.wav: 22% complete, ratio=0.621sp-11-11-07_d204.wav: 23% complete, ratio=0.621sp-11-11-07_d204.wav: 23% complete, ratio=0.622sp-11-11-07_d204.wav: 24% complete, ratio=0.623sp-11-11-07_d204.wav: 25% complete, ratio=0.625sp-11-11-07_d204.wav: 26% complete, ratio=0.626sp-11-11-07_d204.wav: 26% complete, ratio=0.627sp-11-11-07_d204.wav: 27% complete, ratio=0.628sp-11-11-07_d204.wav: 28% complete, ratio=0.629sp-11-11-07_d204.wav: 29% complete, ratio=0.630sp-11-11-07_d204.wav: 29% complete, ratio=0.632sp-11-11-07_d204.wav: 30% complete, ratio=0.632sp-11-11-07_d204.wav: 31% complete, ratio=0.633sp-11-11-07_d204.wav: 32% complete, ratio=0.634sp-11-11-07_d204.wav: 33% complete, ratio=0.635sp-11-11-07_d204.wav: 33% complete, ratio=0.635sp-11-11-07_d204.wav: 34% complete, ratio=0.635sp-11-11-07_d204.wav: 35% complete, ratio=0.635sp-11-11-07_d204.wav: 36% complete, ratio=0.634sp-11-11-07_d204.wav: 36% complete, ratio=0.633sp-11-11-07_d204.wav: 37% complete, ratio=0.633sp-11-11-07_d204.wav: 38% complete, ratio=0.632sp-11-11-07_d204.wav: 39% complete, ratio=0.631sp-11-11-07_d204.wav: 40% complete, ratio=0.631sp-11-11-07_d204.wav: 40% complete, ratio=0.630sp-11-11-07_d204.wav: 41% complete, ratio=0.629sp-11-11-07_d204.wav: 42% complete, ratio=0.629sp-11-11-07_d204.wav: 43% complete, ratio=0.630sp-11-11-07_d204.wav: 43% complete, ratio=0.631sp-11-11-07_d204.wav: 44% complete, ratio=0.632sp-11-11-07_d204.wav: 45% complete, ratio=0.633sp-11-11-07_d204.wav: 46% complete, ratio=0.634sp-11-11-07_d204.wav: 47% complete, ratio=0.635sp-11-11-07_d204.wav: 47% complete, ratio=0.636sp-11-11-07_d204.wav: 48% complete, ratio=0.636sp-11-11-07_d204.wav: 49% complete, ratio=0.637sp-11-11-07_d204.wav: 50% complete, ratio=0.637sp-11-11-07_d204.wav: 50% complete, ratio=0.638sp-11-11-07_d204.wav: 51% complete, ratio=0.639sp-11-11-07_d204.wav: 52% complete, ratio=0.639sp-11-11-07_d204.wav: 53% complete, ratio=0.639sp-11-11-07_d204.wav: 53% complete, ratio=0.640sp-11-11-07_d204.wav: 54% complete, ratio=0.641sp-11-11-07_d204.wav: 55% complete, ratio=0.641sp-11-11-07_d204.wav: 56% complete, ratio=0.642sp-11-11-07_d204.wav: 57% complete, ratio=0.642sp-11-11-07_d204.wav: 57% complete, ratio=0.643sp-11-11-07_d204.wav: 58% complete, ratio=0.643sp-11-11-07_d204.wav: 59% complete, ratio=0.644sp-11-11-07_d204.wav: 60% complete, ratio=0.644sp-11-11-07_d204.wav: 60% complete, ratio=0.644sp-11-11-07_d204.wav: 61% complete, ratio=0.644sp-11-11-07_d204.wav: 62% complete, ratio=0.645sp-11-11-07_d204.wav: 63% complete, ratio=0.645sp-11-11-07_d204.wav: 64% complete, ratio=0.646sp-11-11-07_d204.wav: 64% complete, ratio=0.646sp-11-11-07_d204.wav: 65% complete, ratio=0.646sp-11-11-07_d204.wav: 66% complete, ratio=0.647sp-11-11-07_d204.wav: 67% complete, ratio=0.647sp-11-11-07_d204.wav: 67% complete, ratio=0.648sp-11-11-07_d204.wav: 68% complete, ratio=0.648sp-11-11-07_d204.wav: 69% complete, ratio=0.648sp-11-11-07_d204.wav: 70% complete, ratio=0.649sp-11-11-07_d204.wav: 71% complete, ratio=0.649sp-11-11-07_d204.wav: 71% complete, ratio=0.649sp-11-11-07_d204.wav: 72% complete, ratio=0.650sp-11-11-07_d204.wav: 73% complete, ratio=0.650sp-11-11-07_d204.wav: 74% complete, ratio=0.650sp-11-11-07_d204.wav: 74% complete, ratio=0.650sp-11-11-07_d204.wav: 75% complete, ratio=0.651sp-11-11-07_d204.wav: 76% complete, ratio=0.651sp-11-11-07_d204.wav: 77% complete, ratio=0.651sp-11-11-07_d204.wav: 78% complete, ratio=0.652sp-11-11-07_d204.wav: 78% complete, ratio=0.652sp-11-11-07_d204.wav: 79% complete, ratio=0.652sp-11-11-07_d204.wav: 80% complete, ratio=0.652sp-11-11-07_d204.wav: 81% complete, ratio=0.653sp-11-11-07_d204.wav: 81% complete, ratio=0.653sp-11-11-07_d204.wav: 82% complete, ratio=0.654sp-11-11-07_d204.wav: 83% complete, ratio=0.654sp-11-11-07_d204.wav: 84% complete, ratio=0.654sp-11-11-07_d204.wav: 84% complete, ratio=0.655sp-11-11-07_d204.wav: 85% complete, ratio=0.655sp-11-11-07_d204.wav: 86% complete, ratio=0.655sp-11-11-07_d204.wav: 87% complete, ratio=0.655sp-11-11-07_d204.wav: 88% complete, ratio=0.655sp-11-11-07_d204.wav: 88% complete, ratio=0.655sp-11-11-07_d204.wav: 89% complete, ratio=0.655sp-11-11-07_d204.wav: 90% complete, ratio=0.656sp-11-11-07_d204.wav: 91% complete, ratio=0.656sp-11-11-07_d204.wav: 91% complete, ratio=0.656sp-11-11-07_d204.wav: 92% complete, ratio=0.656sp-11-11-07_d204.wav: 93% complete, ratio=0.656sp-11-11-07_d204.wav: 94% complete, ratio=0.657sp-11-11-07_d204.wav: 95% complete, ratio=0.657sp-11-11-07_d204.wav: 95% complete, ratio=0.657sp-11-11-07_d204.wav: 96% complete, ratio=0.657sp-11-11-07_d204.wav: 97% complete, ratio=0.657sp-11-11-07_d204.wav: 98% complete, ratio=0.657sp-11-11-07_d204.wav: 98% complete, ratio=0.657sp-11-11-07_d204.wav: 99% complete, ratio=0.656sp-11-11-07_d204.wav: 100% complete, ratio=0.656sp-11-11-07_d204.wav: wrote 24983544 bytes, ratio=0.656
+setlist:
+I Don't Mind
+The Leaving Lament
+The Rose March
+United States
+Bullet With Butterfly Wings
+Drown
+Bring the Light
+Tonight, Tonight
+Tarantula
+That's The Way
+Lucky 13
+Hummer
+Glass and the Ghost
+1979
+Perfect
+To Shelia
+Today
+Superchrist
+Heavy Metal Machine
+Pomp and Circumstance
+Cherub Rock
+
+
+notes: I recently traded with another taper named Garret who asked that I torrent a few of his recordings for him, this is one of them.  I merely created this text file with the info that he provided to me, all flac files are as I received them.   
+
+
+***DO NOT ENCODE TO LOSSY FORMATS (MP3,OGG,Etc..)***
+***DO NOT SELL***

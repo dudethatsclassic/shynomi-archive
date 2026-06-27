@@ -1,49 +1,19 @@
-The Smashing Pumpkins - Lostbrook 2.0 Volume 7
-
-December 9, 2012
+Smashing Pumpkins
 Patriot Center
-Fairfax, VA
-USA
+Fairfax, Virginia
+December 9th, 2012
 
-Source:  CA-14 (omnis)>CA-9200>Sony M10(24/48)
-Transfer: Sony M10>PC>WAV>CQ Mastering>FLAC(16/44.1) 
-Location: Approx. 50' from stage, DFC, leaning on VIP cage in front of board
-Taping Environment: Quiet neighbors.  No issues.
+Taper: Craig "Cabbage" Kabis <cabbage@jimmieschickenshack.net> <craigkabis@gmail.com>
+Location: Fourth row about 6â€™ from the left stack.  Mics clamped to my shoulders.
+Source: Church Audio 14â€™s > PA-6LC3B (roll off @ 65Khz) > Sony PCM-M10 > .wav @ 96 kHz / 24 bit
+Lineage: .wav > USB > Amadeus Pro 2.1 (1523) > FLAC 8
+Notes: Mics graciously lent to me by @SPfreak77.  Fuck Church Audio.
 
-Taper: Lostbrook
-Mastering: CQ
-Covers: ethiessen1
-
-See covers for disc break.
-
-
-01 Quasar (6:53)
-02 Panopticon (3:56)
-03 The Celestials (3:54)
-04 Violet Rays (4:24)
-05 My Love Is Winter (3:38)
-06 One Diamond, One Heart (3:55)
-07 Pinwheels (7:28)
-08 Oceania (10:08)
-09 Pale Horse (4:44)
-10 The Chimera (4:15)
-11 Glissandra (4:53)
-12 Inkless (3:04)
-13 Wildflower (5:03)
-14 Space Oddity (7:42)
-15 X.Y.U. (11:01)
-16 Disarm (3:40)
-17 Tonite Reprise (1:26)
-18 Tonight, Tonight (4:15)
-19 Bullet With Butterfly Wings>Band Intros (11:34)
-20 The Dream Machine (7:19)
-21 Hummer (10:49)
-22 Ava Adore (5:15)
-23 Cherub Rock (4:46)
-24 Zero (5:12)
-
-Billy Corgan – lead vocals, guitars, keyboards
-Jeff Schroeder – guitars, backing vocals
-Mike Byrne – drums, percussion, backing vocals
-Nicole Fiorentino – bass, backing vocals
-
+VIP Setlist:
+01 - Enter Baldman		[01:00]
+02 - There It Goes		[04:37]
+03 - Plume			[03:20]
+04 - Gossamer (tease)		[00:41]
+05 - Today			[03:39]
+06 - Question And Answer	[16:09]
+Total Running Time		[29:28]

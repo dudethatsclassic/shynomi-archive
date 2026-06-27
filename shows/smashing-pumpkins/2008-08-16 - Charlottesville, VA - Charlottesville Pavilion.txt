@@ -1,74 +1,22 @@
-The Smashing Pumpkins
-August 16th, 2008
-Charlottesville Pavilion
-Charlottesville, VA
-
-source: BSCS-L (M/S; C/8) > FR2-LE (24/44.1)
-location: 5' FOB (last seated GA row FOB), 6' ROC, "stand" 5'
-transfer: FR2-LE; WAV > Audacity 1.3.5d (M/S decode, processing, tracking, dither) > WAV (16/44.1) > FLAC (v1.1.4 --best --sector-align -V)
-recorded & seeded by: page
-
-
-notes:
-This seed is seamless between discs 1 and 2, however the first minute or so of the intro music is cut. The processing done includes a high pass filter at 75hz for -2db with the mid, and a -0.5db high pass filter at 75hz in the right channel's side component. The kick drum seemed to do funny things with the M/S decoding and that appeared to resolve most of it. I made one noticeable level adjustment during the show, about 12 minutes in and I've amplified the affected section approximately +2db to balance with the rest of the show. This was an enforced "no stands" show, and this was a substitute that I was able to get in under the radar after my bogen was caught.
-
-This recording is my way of giving a big, big thank you to two groups of people; The guy who tracked me down in line after I was shot down at the gate (cause the contract rider said no audio/video/camera regardless of SP's published policy) to tell me to ask again after the staff had been informed of the change. Second, to the people in the row in front of me who moved to the sides so the mic had a clear view of both stacks without me asking. I really appreciate it, without the actions of either, this wouldn't have turned out as well as it did. I hope this finds its way to you.
-
-
-setlist:
-Disc1
-01. //<<<intro music>>>
-02. Tarantula
-03. G.L.O.W.
-04. Siva
-05. Eye
-06. Mayonnaise
-07. Tonight, Tonight
-08. Speed Kills
-09. Transformer
-10. Superchrist
-11. United States
-
-Disc2
-01. <<<band introductions>>>
-02. Once Upon A Time
-03. Again, Again, Again (The Crux)
-04. The Rose March
-05. <<<stage banter>>>
-06. Today
-07. Bullet With Butterfly wings
-08. The Beginning is the End is the Beginning
-09. Heavy Metal Machine
-10. Glass' Theme
-11. Set the Controls For the Heart of the Sun [Pink Floyd]
-12. <<<encore break>>>
-13. We Only Come Out At Night
-14. In the Summertime [Mungo Jerry]
-
-
-flac fingerprints:
-tsp2008-08-16d1t01.flac:291bbdb037bf54028f99d353ac3f3d33
-tsp2008-08-16d1t02.flac:3510ae8b39127dc18cc1aaaa96a7e3ec
-tsp2008-08-16d1t03.flac:1cbbf971c2156b6165a00abbe52639e4
-tsp2008-08-16d1t04.flac:5fc0b22af2d521e31e9bef31fc94f6c9
-tsp2008-08-16d1t05.flac:949c39ba1688f92d186a2108ea2a1aed
-tsp2008-08-16d1t06.flac:a377f456f7b77b081116a868b1e61af1
-tsp2008-08-16d1t07.flac:1c4f64714bcf2aa9542b6ecf191485a0
-tsp2008-08-16d1t08.flac:4d6c209c700d9a6c483b68546c811165
-tsp2008-08-16d1t09.flac:9be69423bf00bde095b5560f2eab5f92
-tsp2008-08-16d1t10.flac:cfbadddbb47d13a0b394932efe61f280
-tsp2008-08-16d1t11.flac:64b5bd68fe5706f14c5661def6bbb441
-tsp2008-08-16d2t01.flac:51cac841103305ea4494d3a1552791e6
-tsp2008-08-16d2t02.flac:6d39890ce35b70dbd8f77132aab6293c
-tsp2008-08-16d2t03.flac:949c4a8b5cccbc3eaaebd4a7b1775276
-tsp2008-08-16d2t04.flac:7e93872d440b60c240308d9b2be20c62
-tsp2008-08-16d2t05.flac:e7e93487e1885e03fc33e1f4dc80a5ee
-tsp2008-08-16d2t06.flac:334fecb3ff1ecc9e77de2ffc03e69938
-tsp2008-08-16d2t07.flac:9047aeb6f7b7c3960870ff9e603d8108
-tsp2008-08-16d2t08.flac:6eb375f50b282648c75fd15611de59d0
-tsp2008-08-16d2t09.flac:c145520e6ea87e28031f14963195011a
-tsp2008-08-16d2t10.flac:8dcf59d9753351dfe83c7aecd761687e
-tsp2008-08-16d2t11.flac:23b3c251dfd4ccfee508945ceab9a8d6
-tsp2008-08-16d2t12.flac:218b3778b04d25c037644a3d95e7c46d
-tsp2008-08-16d2t13.flac:830738ff8f4ec517971de403bc2030d0
-tsp2008-08-16d2t14.flac:7d58a09f04f704f706aeb2519f0c2df2
+tsp2008-08-16t01.flac:faca6aea16408f6ab1ebbcdb13943593
+tsp2008-08-16t02.flac:0942b92b70f7773dc0fd37e1aed82e3f
+tsp2008-08-16t03.flac:e61592c19158a7fab95b97c0fb474f44
+tsp2008-08-16t04.flac:30fde7cee82dea22436bb174454bd3d7
+tsp2008-08-16t05.flac:9eb3191c84259e141327c41d4388fe33
+tsp2008-08-16t06.flac:d5d79116856d1190ed7350bc88c64e5e
+tsp2008-08-16t07.flac:d0f01ec048a669d927729c920e22e336
+tsp2008-08-16t08.flac:44ac6b631d9ad238ca69de7e3cd6477d
+tsp2008-08-16t09.flac:6257b857d9521ca80086ae66b7666c72
+tsp2008-08-16t10.flac:ef96a4112a88b1f82b3041b5a8065e33
+tsp2008-08-16t11.flac:142ead012a3bb4ac74c8691dae1766e7
+tsp2008-08-16t12.flac:e1fd8eb0147f8e8f385729a910ccab9f
+tsp2008-08-16t13.flac:7c91a7227494c1d0ce1b6725457955b4
+tsp2008-08-16t14.flac:7db756e5f58955db0c65c67d2fb661d8
+tsp2008-08-16t15.flac:6d41f5264b77d4ee1df53c1bd41a618f
+tsp2008-08-16t16.flac:b56174f74acf1559ae251ffa64b25fe8
+tsp2008-08-16t17.flac:4843b83bdc1a9029fac8fe714906176a
+tsp2008-08-16t18.flac:6e8f05dbfecf068fe0beb9948123fc09
+tsp2008-08-16t19.flac:71226d44d55dd9384948cfbc6ce0f08c
+tsp2008-08-16t20.flac:df589716bbf2e7565ab271924d48c03c
+tsp2008-08-16t21.flac:3afa6871cc452ed4f5a470d0b5d5073e
+tsp2008-08-16t22.flac:9eeca086eec3054bf09e93eee205ea6b

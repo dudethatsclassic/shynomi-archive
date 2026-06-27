@@ -1,46 +1,16 @@
 Smashing Pumpkins
 November 6th, 1996
 Worcester Centrum
-Worcester, Massachusets, USA
+Worcester, MA, US
 
-ANA-M>DAT-M (48k)>Fostex D5 (Optical)>m-audio DiO 2496>CDWave>FLAC
+VHS-? > DVD (LPCM) > WAV > dEdit > FLAC
+(rip audio track with DVD2AVI, downsampled/dithered with r8brain, splits with CDWave)
 
-Set:
-01. Mellon Collie And The Infinite Sadness - 3:08
-02. Where Boys Fear To Tead - 4:39
-03. Zero - 2:39
-04. Cherub Rock - 4:24
-05. Tonight, Tonight - 5:40
-06. Today - 4:22
-07. By Starlight - 5:24
-08. Thru The Eyes Of Ruby - 9:43
-09. Fuck You (An Ode To No One) - 6:08
-10. Drown -> Hummer (tease) - 8:13
-11. Disarm - 4:14
-12. Bullet With Butterfly Wings - 5:41
-13. X.Y.U. - 12:52
-14. Encore Break - 3:58
-Encore One:
-15. Porcelina Of The Vast Oceans - 11:09
-Encore Two:
-16. Banter/Introducing Dancers - 8:44
-17. 1979 - 6:18
-18. Silverfuck -> The Aeroplane Flies High (clips) - 31:08
+01. Hummer (tease)
+02. Disarm
+03. Bullet with Butterfly Wings
+04. X.Y.U
+05. Porcelina of the Vast Oceans > Rocket (tease)
+06. Silverfuck > The Aeroplane Flies High (clips)
 
-Flaws:
-Might be running slow
-Distant and somewhat distorted
-Porcelina is cut
-
----
-DO NOT SELL
-DO NOT CONVERT TO MP3 ASIDE FROM PERSONAL USE
-DO NOT REMIX, REMASTER, ETC WITHOUT PERMISSION
-ENJOY THE MUSIC!
----
-
-Ben Valocchi (rhinowing) and Matt Krueger (Punkishlyevil)
-
-VERY large thank yous go to Reece Donovan and Kevin Davis
-
-brought to you in association with the SPLRA (splra.org)
+Incomplete and fragmented, but sounds much better than the walkman recording, and includes the missing portion of Porcelina.

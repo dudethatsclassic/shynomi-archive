@@ -1,59 +1,41 @@
-THE SMASHING PUMPKINS
-January 22, 1997
-John F. Savage Hall
-Toledo, OH, USA
+The Smashing Pumpkins @ John F. Savage Hall; Toledo, OH, USA
+97.01.22
+Lineage: AUD>DAT>ANA-L>CDR
+Equip.: CSB>D8?
 
-Source: DAT audience audio (CSB>D8?)
-Generation: DAT(x) > ANA(x) > CDR(x) > WAV > remastered in Audacity > FLAC(8)
-Quality: 7.5
-Time: 138:42
+Set: 
 
-Setlist: 
-01. intro (cuts in)
-02. The Aeroplane Flies High 
-03. Jellybelly 
-04. Tonight, Tonight 
-05. Rhinoceros 
-06. Here Is No Why 
-07. Zero 
-08. Fuck You 
-09. Porcelina of the Vast Oceans > Rocket   (tease) 
-10. 1979 
-11. improv ("Music From Our Roots, Music From the Mountains")
-12. Thirty-three 
-13. Bullet with Butterfly Wings 
-14. Muzzle 
-15. Disarm 
-16. Thru the Eyes of Ruby 
+The Aeroplane Flies High 
+Jellybelly 
+Tonight, Tonight 
+Rhinoceros 
+Here Is No Why 
+Zero 
+Fuck You 
+Porcelina of the Vast Oceans 
+> Rocket   (tease) 
+1979 
+(unknown instrumental) 
+Thirty-three 
+Bullet with Butterfly Wings 
+Muzzle 
+Disarm 
+Thru the Eyes of Ruby 
 
-encore 1: 
-17. encore break 1, featuring: 
-    	* Bad Moon Rising [Creedence Clearwater Revival]   (tease) 
-	* In-A-Gadda-Da-Vida [Iron Butterfly]   (tease) 
-18. X.Y.U. 
+Encore 1: 
 
-encore 2: 
-19. encore break 2
-20. Drown > Hummer   (tease) 
-21. Cherub Rock 
+Bad Moon Rising [Creedence Clearwater Revival]   (tease) 
+In-A-Gadda-Da-Vida [Iron Butterfly]   (tease) 
+X.Y.U. 
 
-encore 3: 
-22. Silverfuck > Space Jam > Spiders (tease)
+Encore 2: 
 
-Remaster notes: 
-* This was ripped from my CDR copy of the show, which appears to be almost identical to this: https://archive.org/details/tsp1997-01-22.shn
-* Smoothed out the very slight dropout at 11:50 during "Rocket"; it's still noticeable but only if you're paying attention; there's still a cut later in the song that is present on both circulating versions of this show.
-* Repaired the dropout between "Disarm" and "Thru the Eyes of Ruby" that separated the two CDs
-* Repaired a few pops during "Silverfuck"
-* Bumped up the bass a little as the recording was a little thin, then added a slight bit of treble back in. 
-* Normalized, as the right channel was quieter than the left. 
-* Removed about 10 seconds of dead space between main set and first encore, and between the first and second encores; the taper must have paused the recording, and whoever traded the discs faded out the space between the set and encores.
-* It's still not a great recording, but it sounds just a slight bit better than before - and the tracking is correct, unlike the source linked above. 
+Drown 
+> Hummer   (tease) 
+Cherub Rock 
 
-Show notes: 
-* Amazing show, though not quite as amazing as Cincinnati three nights before (which has the same setlist). 
-* Third of four shows on this tour where they opened with "The Aeroplane Flies High".
-* SPLRA lists two sources of this show but both are clearly the same source (listen for the guy near the taper who says "This is bullshit, man!" at the beginning of "The Aeroplane Flies High"). This sounds much better than the other source. 
-* Somebody needs to convince Billy to release the entire Mellon Collie Tour, as they recorded every show. 
+Encore 3: 
 
- 
+Silverfuck 
+> Space Jam    
+> Spiders   (tease) 

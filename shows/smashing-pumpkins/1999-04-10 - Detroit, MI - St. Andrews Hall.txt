@@ -1,110 +1,23 @@
-Smashing Pumpkins April 10th, 1999
+Smashing Pumpkins
+April 10th, 1999
+St Andrew's Hall
+Detroit, MI, US
 
-CSB's->Sony TCD-D8->Sound Forge 4.5->CD
-----------------------------------------------------------------------
-Tsp1999-04-10
+source: mono webcast > DAT
+transfer: DDC-1 > PCM-R300 > Audiophile 2496 > SHN > CDR-0 > EAC (secure mode) > FLAC
 
-From SPLRA
-The Smashing Pumpkins
-Date 	1999-04-10
-Venue 	St. Andrew's Hall
-Location 	Detroit, MI, US
-Venue Type 	Club
-Capacity 	1000
-Notes 	Jimmy's first show since 1996-07-10. Premiere of: Glass' Theme, The Imploding Voice, Dross,
-Speed Kills, Blue Skies Bring Tears, Stand Inside Your Love, Glass and the Ghost Children, Wound, 
-Home, and With Every Light.
+01. With Every Light (tease) / Pug
+02. The Imploding Voice
+03. Glass' Theme
+04. Glass and the Ghost Children [cut in]
+05. Dross
 
-AUD #4
-Source 	AUD
-Format 	DAT
-Equipment 	CSB>D8
-Length 	114m
-Complete? 	Yes
-Notes 	sounds slightly better than AUD#1. sounds like the taper was located close to taper of AUD #1.
-------------------------------------------------------------------------------------------------------------------------------------------------------------------
-Set:
+trt 30:45
 
-Disc 1: 74:01
-01 I Am One 5:50
-02 Zero 2:50
-03 Pug 4:45
-04 La Dolly Vita 5:16
-05 Glass' Theme 1:57
-06 The Imploding Voice 4:46
-07 Dross 3:46
-08 Speed Kills 5:47
-09 Blue Skies Bring Tears 5:16
-10 Stand Inside Your Love 4:13
-11 Glass and the Ghost Children 10:49
-12 Wound 4:36
-13 Cash Car Star 3:53
-14 Ava Adore 5:56
-15 Today 4:18
+* soundcheck
+* it sounds like the stream drops after Glass' Theme and then picks up partway through GATGC
+* disc from the collection of Andrew Fogelsong
+* EAC log included
 
-Disc 2: 39:38
-Encore One:
-01 banter 4:36
-02 Muzzle 4:23
-03 Soma 9:51
-
-Encore Two:
-04 Home 3:44
-05 If There Is a God 1:49
-06 With Every Light  7:37
-
-Encore Three:
-07 Geek U.S.A. 7:38
--------------------------------
-Total time: 113:39
-
-Banter
-
-    I Am One
-    Zero
-    Pug
-    La Dolly Vita
-    Glass' Theme
-    The Imploding Voice
-    Wretzky: you know, we don't have a new record to support, and people are probably wondering, what the hell is this tour about? what the hell is this tour about, y'know? i've been wondering, what the hell is this tour about? it's just about having fun isn't it? everyone having fun? i'm having fun! i mean that sounds corny but, i mean, we don't usually like, we're not like a fun band really, but we're really having fun. he's smiling! good lord! somebody grab a camera!
-    Dross
-    Speed Kills
-    Blue Skies Bring Tears
-    Stand Inside Your Love
-    Glass And The Ghost Children
-    Wound
-    Cash Car Steal
-    Ava Adore
-    Today
-    (Encore Break)
-    Iha: Grazi, Grazi.
-    Wretzky: wow. over the ten years we've been together...
-    Corgan: No it's longer.
-    Wretzky: something like that then, or whatever
-    Corgan: Eleven.
-    Wretzky: whatever.
-    Corgan: how about if you subtract jimmy's time out?
-    Wretzky: yeah, whatever, anyway, whatever. We will learn to say thank you in about a million different languages, and we say them all to you right now. In our minds. But for me, this is a really like, big show, you guys have been great. Best audience i've ever seen in michigan, which is, shut up, important to me, because i'm from Michigan...and this is like a real rock show and i can tell because i'm actually sweating for a change. You guys sweating? Yes, this is the real deal. If you're sweating, you know it.
-    Iha: alright, we're gonna go back in time to another old song. We know you like the old songs, so, here it is.
-    Muzzle
-    Soma
-    (Encore Break)
-    Iha: thanks again, thanks again.
-    Wretzky: boy you are screaming loud. Oh yeah, i know what it is! You're screaming about jimmy! We saw alot of signs, welcome back jimmy, and we thank you for welcoming him back. We just wanna say one more thank you.
-    Chamberlin: Thank you everybody, it's good to be back. (unintelligible)
-    Corgan: what i wanna know is about that trip to africa Jimmy
-    Iha: while uh, while jimmy was not in the group he was a um, african explorer, he was also a racecar driver, he was also a roughneck on an oil rig.
-    Wretzky: no, that's really for real, it's true.
-    Iha: jimmy has become a renissance man, and he's only doing this one show with us, and then he goes back to egypt, to explore the great pyramids.
-    Home
-    If There Is A God
-    With Every Light
-    (Encore Break)
-    Wretzky: we only know one more song. This is a song that we couldn't play with any other drummer. Ok, i'm sorry, i have to take that back...this is a song that any other drummer couldn't play with us.
-    Iha: Thank you very much. this is the last song and very hard work.
-    Wretzky: Let's, can we play it with him?
-    Corgan: One last time, you guys rule.
-    Iha: alright...
-    Wretzky: it's michigan, what do you want?
-    Iha: are you ready to rumble?
-    Geek U.S.A. 
+don't sell, etc
+-rhinowing

@@ -1,56 +1,52 @@
-The Smashing Pumpkins
-All Sports Stadium
-Oklahoma City, OK, US
-1998-07-15
+I got this in a trade, soon after the actual show.  I'm pretty sure this is the MD version, as the very end of Transmission fades out while James is screaming obscenities.  D'arcy gets really mad at the crowd toward the end, but Billy tries to keep the mood lighthearted.  I remember he came out in a straw hat.
 
-Taper:       Bryan Freeland
-Source:      Sennheiser MKE2 > Sony PCM-M1 @48kHz
-Conversion:  Sony PCM-M1 > Coresounds Cable (7-pin > Coaxial) > 
-	     Midiman Audiophile 2496 
-Resampling:  48kHz downsampled in Sound Forge 6.0 to 44.1kHz
-Editor:      Tobin Stewart
-Editing:     Added fade in's and out's in Sound Forge 6.0 and split 
-             the tracks in CD Wave Editor
-FLAC:        DDC2 > Sound Forge 6.0 > CD Wave Editor> FLAC Frontend 
-             (level 8)   
-                                                              
+There were numerous clicks during tracks 3,4, and 5, which I fixed...hopefully I got 'em all.  I've heard of other people's copies having the same issue.
 
-**********************************************************************
-                   DO NOT ENCODE TO A LOSSY FORMAT                             	
-**********************************************************************
+SPLRA says there's a VID of this show?  Man, that would be awesome.
+
+CD-R > Exact Audio Copy > Adobe Audition (single clicks fixed) > FLAC level 8
+
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 
-                                                             Length
-----------------------------------------------------------   --------
-01 - To Sheila      		                              05:44 
-02 - Behold! the Night Mare                                   05:32
-03 - Tear                                                     08:59
-04 - The Tale of Dusty and Pistol Pete                        04:26
-05 - Ava Adore                                                05:30
-06 - Thru the Eyes of Ruby                                    11:18
-07 - Blank Page                                               07:43
-08 - Bullet with Butterfly Wings                              09:06
-09 - Transmission (Joy Division)                              17:14
+1998/07/15 - All Sports Stadium; Oklahoma City, OK, US
+ 
 
-Total Running Length:  75:32
+Set:
 
-Enjoy!
+    * To Sheila
+    * Behold! the Night Mare
+    * Tear
+    * The Tale of Dusty and Pistol Pete
+    * Ava Adore
+    * Thru the Eyes of Ruby
+    * Blank Page
+    * Bullet with Butterfly Wings
+    * Transmission [Joy Division]
+           * Let's Dance (tease) [Bowie]
 
-There is a small dropout during To Sheila at 3:43, and there are a 
-few blips of diginoise throughout the recording; these are most 
-likely from dirty heads on the tapers deck.
 
-Also, the recording clips every now and than, but mostly at the 
-beginning of the show (you'll want to kill the screaming girls).
 
-Fingerprint:
+Surfaced Recordings
+AUD #1
+Format 	DAT
+Equipment 	MKE2>M1
+Length 	01:16:00
+Lowest Circulating Generation	DAT(2)
+Notes	Screamers at the start of the show.
+AUD #2 (incomplete)
+Format 	VID
+Equipment 	Unknown
+Length 	Unknown
+Lowest Circulating Generation	MD(?)>CDR
+Notes	End of Transmission cut.
 
-tsp1998-07-15-MKE2-d1t01.flac:a85bd822a4beb12064ace3569f9fc03e
-tsp1998-07-15-MKE2-d1t02.flac:97ce806bfd9f8e6175f9af7d61496b0d
-tsp1998-07-15-MKE2-d1t03.flac:56578a3e9e7bdb8c934d32f2d4b7ad5b
-tsp1998-07-15-MKE2-d1t04.flac:6de0d228ecacad72da6baf8d8de24a64
-tsp1998-07-15-MKE2-d1t05.flac:e1faea27598bc41f0cc3276befbc09cb
-tsp1998-07-15-MKE2-d1t06.flac:b0afed15f07a34cdf14a0bc0d79e63cf
-tsp1998-07-15-MKE2-d1t07.flac:baa1f08748d3f5aa05666f34541f802b
-tsp1998-07-15-MKE2-d1t08.flac:b3178409a013f35cc82d1d386f53d20f
-tsp1998-07-15-MKE2-d1t09.flac:ada5c7d49f39f31b6b84a012738ad9b1
+ 
+
+Known Recordings
+
+    Src 	Fmt 	Pos 	Len 	Equipment
+    AUD 	DAT 	- 	75m 	MKE2 > M1
+    AUD 	MD 	- 	75m 	ECM-907 > MZ-R30
+
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------

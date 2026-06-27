@@ -1,26 +1,22 @@
-The Smashing Pumpkins
-12/5/1997
-Orange Bowl
-Miami, FL
+12.05.97 - Homestead Racetrack Homestead, FL
 
-Taper:            unknown
-Source:           CSC > D8
-Conversion:       DDC-3 > PCM-R300 > Audiophile 2496 > WAV > SHN > CDR-0
-Ripper:           Andrew Fogelsong
-FLAC:             CDR-0 > EAC V0.95 beta 4(proper offset) > WAV > FLAC (level 8)
-Notes:		  Beginning of Thru the Eyes of Ruby cut
 
-********************************************************************************
-	                    SPREAD THE MUSIC
-********************************************************************************
+Format: CD-R
+Disc's: 1
+Quality: 8/10
+Source: DAT>CD-R
+Mic/Deck: CSC>D8
+Length: 71 min
 
-1. Thru the Eyes of Ruby(cut)
-2. In the Arms of Sleep
-3. Where Boys Fear to Tread
-4. Zero
-5. Ava Adore
-6. Porcelina of the Vast Oceans
-7. Bullet with Butterfly Wings
-8. 1979
-9. Eye (with Marilyn Manson and Twiggy Ramirez)
-10. X.Y.U. (with Marilyn Manson and Twiggy Ramirez)
+
+Disc One: 
+Thru The Eyes of Ruby 
+In The Arms of Sleep 
+Where Boys Fear to Tread 
+Zero 
+Ava Adore 
+Porcelina of The Vast Oceans 
+Bullet with Butterfly Wings 
+1979 
+Eye 
+XYU 

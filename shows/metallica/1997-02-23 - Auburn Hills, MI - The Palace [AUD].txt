@@ -1,54 +1,15 @@
-Metallica
-The Palace - Auburn Hills, MI
-2/23/97
-
-Recording Info: Core Sound Binaurals->Sony TCD-D7@48kHz
-Transfer Info: Sony TCD-D7-> Audiophile 2496 via Cool Edit 2000
-Cool Edit 2000:
-	* Normalize
-	* Apply bass filter
-	* Convert to 44.1kHz at 350 quality
-Tracks inserted via CD Wave Editor
-Verified via Shntool
-Transferred to FLAC via FLAC frontend 1.7.1 @ Level 6 encoding
-
-Disc One [
-1. Intro
-2. Last Caress
-3. Creeping Death
-4. Sad But True
-5. Ain't My Bitch
-6. Hero Of The Day
-7. King Nothing
-8. Intro->
-9. One
-10. Devil's Dance
-11. My Friend Of Misery->
-12. Sanitarium (Instr.)->
-13. Nothing Else Matters
-14. Until It Sleeps
-15. For Whom The Bell Tolls
-16. Wherever I May Roam
-
-Disc Two [
-1. Fade To Black
-Kill/Ride Medley:
-2. Ride The Lightning
-3. No Remorse
-4. Hit The Lights
-5. Four Horsemen
-6. Seek And Destroy
-7. Fight Fire With Fire
-8. Crowd
-9. God Of Thunder Snippet
-10. So What
-11. Master Of Puppets
-12. Enter Sandman
-13. Crowd
-14. Breadfan*
-15. Overkill
-
-* Mics cut out for about 20 seconds at beginning of Breadfan
-
-Recorded by Notorious T.I.M.
-DAT->CD Transfer by Notorious T.I.M. June 2005
+metallica1997-02-23d2t14.flac:bf92dc70070b943d58f72787d5b02a38
+metallica1997-02-23d2t15.flac:5d9a00d13c3f29203a8d86d2a459070e
+metallica1997-02-23d2t01.flac:bf8e5b2b7b8ef920b61f3434cd8c34bf
+metallica1997-02-23d2t02.flac:9d3fab2acb4e394d811d4080fdf73d6f
+metallica1997-02-23d2t03.flac:d3482669866eefca29c549f8f3b003c4
+metallica1997-02-23d2t04.flac:35c3efc56780a7481cbf74ba348d826c
+metallica1997-02-23d2t05.flac:a73c9b4ba2d1f46f421906a01421633e
+metallica1997-02-23d2t06.flac:5efbe53ba88c9d8b92f53752077063da
+metallica1997-02-23d2t07.flac:4b6481aa9d7e4334385a0baa067c6993
+metallica1997-02-23d2t08.flac:9775caa63359becbd6b2fe32d05cb57c
+metallica1997-02-23d2t09.flac:bedfd1ec85042e94ffe52de9fbd64b1d
+metallica1997-02-23d2t10.flac:d58807e3fb0c6d90b084be635fc03235
+metallica1997-02-23d2t11.flac:bf52a162d84ee00e50ac249a0ff02b67
+metallica1997-02-23d2t12.flac:58f2656d12e6b9c9fbcc26a128d4959e
+metallica1997-02-23d2t13.flac:f848bcfbb66dbd9fd0aa345ce5a54087

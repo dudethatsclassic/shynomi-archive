@@ -1,17 +1,19 @@
-The Smashing Pumpkins
-The O2 Arena, London, UK
-2008-02-16
-===
+THE SMASHING PUMPKINS
+O2 ARENA
+LONDON, UK
+16TH FEBRUARY 2008
 
-Media: 3 CD-R
-Time: 52:36, 53:51, 45:44
-Taper: Zenith023
-Source: Audience (Hi-MD Master)
-Lineage: Sony MZ-NH600 w/Sony ECM - 719 (Mic) > SonicStage 4.3 > WAV > Audacity 1.2.6 > WAV > TLH > FLAC 
-Notes: Recorded in Hi-SP mode due to the length of the show. Some unwanted crowd noise/talking during quieter songs, but nothing too bad.
+LINEAGE:
+VIDEO > TAPER : MIKY - http://db.etree.org/endless_soul
+SONY HC47 1.07MP SP MODE + 16 BIT AUDIO  >
+FIREWIRE400  > AVI
++
+AUDIO > Taper: Zenith023
+Sony MZ-NH600 HISP  w/Sony ECM - 719 (Mic) >
+SonicStage 4.3 > WAV > Audacity 1.2.6 >
+SONY VEGAS PRO8 > ORIGINAL AUDIO @ -9.1 dB +
+ECM - 719 @ 0.0 dB 4% L > DVD ARCHITECT 4.0 > DVD
 
-Setlist:
-===
 Disc 1
 
 01 Porcelina of the Vast Oceans
@@ -47,49 +49,4 @@ Disc 3
 04 Daydream
 05 Wound
 06 United States
-07 Lips Like Sugar 
-
-FLAC Fingerprints
-===
-
-Disc 1
-
-D101 Porcelina of the Vast Oceans.flac:d77a43cfdf6ca88dad125b174aaf4a5c
-D102 Behold! The Night Mare.flac:dbe1f1d7cb4a5255886a4d00409305ff
-D103 Bring The Light.flac:66403059d599def925f63ca5a8b0f990
-D104 Tonight, Tonight.flac:66a0dbc632d4c75cbf40bad4b3e03111
-D105 Mayonaise.flac:a11910fdf35f59f556280ce03308a52f
-D106 Try, Try, Try.flac:48941ad1640689714d91047ce9792e93
-D107 Superchrist.flac:0336c978c0a0d9d7988aa487662b7f9f
-D108 (Come On) Lets Go!.flac:644499e79284e617ae3ec6e49aca431b
-D109 Stellar.flac:9be5a400a6e4452a75fa9848eb478afb
-
-Disc 2
-
-D201 Perfect.flac:45a6f79f7d5053c131490a28bb097a37
-D202 Lily (My One And Only).flac:02a8f2bd1bdb6b6bb466d05b8cd58200
-D203 The Rose March.flac:ff409c6c07324eec30a593f63d45ccac
-D204 Today.flac:f55ed73b590504e70224f85640e6d6b4
-D205 Tarantula.flac:aa7fc951d989ec76a0fcd909e14f227b
-D206 Stand Inside Your Love.flac:4a4dd562a1649395bcff3c7d50658f3d
-D207 Ava Adore.flac:11eece9c591b10c7df092590d8c0a271
-D208 Drown.flac:2912c41fb5ee62862390be8405db8c61
-D209 Bullet with Butterfly Wings.flac:25e780e89cb5f0d603f20b07a21c7991
-D210 Call The Shots.flac:e233f58eb929410beb2690fa50b2209c
-D211 1979.flac:8cfdb1b56068c4c757ef9f1b67e2103f
-D212 That's The Way My Love Is.flac:2ab6e7d5f9e570d000a1283d1f0decca
-D213 My Blue Heaven.flac:6c5c88c21d387ee7b1cb9507ff4e2df3
-
-Disc 3
-
-D301 The Everlasting Gaze.flac:7112da1e53fa507edd85609a34cb61f4
-D302 Cash Car Star.flac:b557f03f5ff0b91feca7b39884a76a2b
-D304 Daydream.flac:94082535cacd76a0794f0022bb170aef
-D305 Wound.flac:e3a397195bdad119afe635c248a46aa6
-D306 United States.flac:8f5813795168cb46c14ef75ea917f34e
-D307 Lips Like Sugar.flac:399ce0a73fe12654e0d700af278ce2bc
-
-
-Recording, Editing and Artwork by Zenith023
-
-:: FREE TRADE ONLY - DO NOT BUY OR SELL THIS RECORDING ::
+07 Lips Like Sugar

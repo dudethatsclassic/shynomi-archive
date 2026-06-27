@@ -1,28 +1,4 @@
-    length     expanded size    cdr  WAVE problems  fmt   ratio  filename
-     2:46.787      48034604 B   cxx   --   ---xx   flac  0.7258  tsp1996-07-09t01.flac
-     4:25.787      76546604 B   cxx   --   ---xx   flac  0.7717  tsp1996-07-09t02.flac
-     2:28.000      42624044 B   cxx   --   ---xx   flac  0.7701  tsp1996-07-09t03.flac
-     2:15.640      39064364 B   cxx   --   ---xx   flac  0.7070  tsp1996-07-09t04.flac
-     4:36.360      79591724 B   cxx   --   ---xx   flac  0.7633  tsp1996-07-09t05.flac
-     3:26.667      59520044 B   cxx   --   ---xx   flac  0.6953  tsp1996-07-09t06.flac
-     4:03.933      70252844 B   cxx   --   ---xx   flac  0.7405  tsp1996-07-09t07.flac
-     4:24.827      76270124 B   cxx   --   ---xx   flac  0.7529  tsp1996-07-09t08.flac
-     3:29.573      60357164 B   cxx   --   ---xx   flac  0.7570  tsp1996-07-09t09.flac
-     7:48.800     135014444 B   cxx   --   ---xx   flac  0.7638  tsp1996-07-09t10.flac
-     5:00.187      86453804 B   cxx   --   ---xx   flac  0.7619  tsp1996-07-09t11.flac
-     4:03.147      70026284 B   cxx   --   ---xx   flac  0.7099  tsp1996-07-09t12.flac
-     4:13.467      72998444 B   cxx   --   ---xx   flac  0.7313  tsp1996-07-09t13.flac
-     4:21.800      75398444 B   cxx   --   ---xx   flac  0.7671  tsp1996-07-09t14.flac
-    12:16.613     212144684 B   cxx   --   ---xx   flac  0.7367  tsp1996-07-09t15.flac
-     1:16.760      22106924 B   cxx   --   ---xx   flac  0.6986  tsp1996-07-09t16.flac
-     4:43.827      81742124 B   cxx   --   ---xx   flac  0.7474  tsp1996-07-09t17.flac
-     0:32.733       9427244 B   cxx   --   ---xx   flac  0.7282  tsp1996-07-09t18.flac
-     1:02.773      18078764 B   cxx   --   ---xx   flac  0.7325  tsp1996-07-09t19.flac
-     8:14.293     142356524 B   cxx   --   ---xx   flac  0.7368  tsp1996-07-09t20.flac
-     0:53.973      15544364 B   cxx   --   ---xx   flac  0.7053  tsp1996-07-09t21.flac
-     5:26.520      94037804 B   cxx   --   ---xx   flac  0.7568  tsp1996-07-09t22.flac
-     5:44.253      99145004 B   cxx   --   ---xx   flac  0.7400  tsp1996-07-09t23.flac
-     3:40.427      63482924 B   cxx   --   ---xx   flac  0.7257  tsp1996-07-09t24.flac
-     4:26.787      76834604 B   cxx   --   ---xx   flac  0.7701  tsp1996-07-09t25.flac
-    27:46.187     479861804 B   cxx   --   ---xx   flac  0.7399  tsp1996-07-09t26.flac
-   133:30.120    2306915704 B                            0.7435  (26 files)
+The Smashing Pumpkins
+
+07/09/96  USAir Arena: Landover, MD    
+ANAm(DSM-6>WM-D6)->CDR

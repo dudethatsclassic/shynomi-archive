@@ -227,7 +227,8 @@ const ARTIST_DATA = {
       "venue": "Royal Roost",
       "notes": "WMCA",
       "version": "FM",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1948-09-25 - New York, NY - Royal Roost - WMCA Radio Broadcast [FM].txt"
     },
     {
       "year": 1948,
@@ -268,7 +269,8 @@ const ARTIST_DATA = {
       "venue": "WPIX Braodcast",
       "notes": "All",
       "version": "",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1949-01-17 - New York, NY - WPIX Braodcast - All Star Jam Session.txt"
     },
     {
       "year": 1949,
@@ -407,7 +409,8 @@ const ARTIST_DATA = {
       "venue": "Birdland",
       "notes": "WJZ Radio",
       "version": "FM",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1952-04-25 - New York, NY - Birdland.txt"
     },
     {
       "year": 1952,
@@ -448,7 +451,8 @@ const ARTIST_DATA = {
       "venue": "Birdland",
       "notes": "WJZ Radio",
       "version": "FM",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1952-05-02 - New York, NY - Birdland (WJZ Radio).txt"
     },
     {
       "year": 1952,
@@ -475,7 +479,8 @@ const ARTIST_DATA = {
       "venue": "Birdland",
       "notes": "WJZ Radio",
       "version": "",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1952-05-03 - New York, NY - Birdland (WJZ Radio).txt"
     },
     {
       "year": 1953,
@@ -515,7 +520,8 @@ const ARTIST_DATA = {
       "venue": "Birdland",
       "notes": "WABC Radio",
       "version": "",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1953-05-16 - New York, NY - Birdland (WABC Radio).txt"
     },
     {
       "year": 1953,
@@ -638,7 +644,8 @@ const ARTIST_DATA = {
       "venue": "Peacock Alley Lounge",
       "notes": "KSTL-AM Radio",
       "version": "",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1957-02-16 - St. Louis, MO - Peacock Alley Lounge (KSTL-AM Radio) [FM].txt"
     },
     {
       "year": 1957,
@@ -665,7 +672,8 @@ const ARTIST_DATA = {
       "venue": "Peacock Alley Lounge",
       "notes": "KSTL-AM Radio",
       "version": "",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1957-02-23 - St. Louis, MO - Peacock Alley Lounge (KSTL-AM Radio) [FM].txt"
     },
     {
       "year": 1957,
@@ -1024,7 +1032,8 @@ const ARTIST_DATA = {
       "venue": "Kurhaus",
       "notes": "",
       "version": "FM",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1960-04-09 - Amsterdam, Holland - Green Dophin Street (with John Coltrane) [FM].txt"
     },
     {
       "year": 1960,
@@ -1037,7 +1046,8 @@ const ARTIST_DATA = {
       "venue": "Kurhaus",
       "notes": "",
       "version": "FM",
-      "format": "SHN"
+      "format": "SHN",
+      "textFile": "1960-04-09 - Amsterdam, Holland - Green Dophin Street (with John Coltrane) [FM].txt"
     },
     {
       "year": 1960,
@@ -1050,7 +1060,8 @@ const ARTIST_DATA = {
       "venue": "Kurhaus",
       "notes": "",
       "version": "FM",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1960-04-09 - Amsterdam, Holland - Green Dophin Street (with John Coltrane) [FM].txt"
     },
     {
       "year": 1960,
@@ -1133,7 +1144,8 @@ const ARTIST_DATA = {
       "venue": "Jazz Villa",
       "notes": "",
       "version": "",
-      "format": "SHN"
+      "format": "SHN",
+      "textFile": "1963-05-06 - St. Louis, MO - Jazz Villa.txt"
     },
     {
       "year": 1963,
@@ -1161,6 +1173,20 @@ const ARTIST_DATA = {
       "notes": "",
       "version": "FM",
       "format": "FLAC",
+      "textFile": "1963-07-26 - Antibes, Switzerland - La Pinede [SBD].txt"
+    },
+    {
+      "year": 1963,
+      "month": 7,
+      "day": 26,
+      "dateStr": "7-26-1963",
+      "city": "Antibes",
+      "state": "Switzerland",
+      "location": "Antibes, Switzerland",
+      "venue": "La Pinede",
+      "notes": "",
+      "version": "",
+      "format": "FLAC",
       "textFile": "1963-07-26 - Antibes, Switzerland - La Pinede.txt"
     },
     {
@@ -1174,20 +1200,8 @@ const ARTIST_DATA = {
       "venue": "La Pinede",
       "notes": "",
       "version": "",
-      "format": "FLAC"
-    },
-    {
-      "year": 1963,
-      "month": 7,
-      "day": 26,
-      "dateStr": "7-26-1963",
-      "city": "Antibes",
-      "state": "Switzerland",
-      "location": "Antibes, Switzerland",
-      "venue": "La Pinede",
-      "notes": "",
-      "version": "",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1963-07-26 - Antibes, Switzerland - La Pinede.txt"
     },
     {
       "year": 1963,
@@ -1242,7 +1256,8 @@ const ARTIST_DATA = {
       "venue": "Maruyama Ongaku-do Hall",
       "notes": "",
       "version": "",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1964-07-15 - Kyoto, Japan - Maruyama Ongaku-do Hall.txt"
     },
     {
       "year": 1964,
@@ -1255,7 +1270,8 @@ const ARTIST_DATA = {
       "venue": "Maruyama Ongaku-do Hall",
       "notes": "",
       "version": "",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1964-07-15 - Kyoto, Japan - Maruyama Ongaku-do Hall.txt"
     },
     {
       "year": 1964,
@@ -1282,7 +1298,8 @@ const ARTIST_DATA = {
       "venue": "Salle Pleyel",
       "notes": "",
       "version": "",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1964-10-01 - Paris, France - Salle Pleyel.txt"
     },
     {
       "year": 1964,
@@ -1309,7 +1326,8 @@ const ARTIST_DATA = {
       "venue": "Johanneshovs Isstadion",
       "notes": "",
       "version": "",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1964-10-03 - Stockholm, Sweden - Johanneshovs Isstadion.txt"
     },
     {
       "year": 1964,
@@ -1322,7 +1340,8 @@ const ARTIST_DATA = {
       "venue": "Johanneshovs Isstadion",
       "notes": "",
       "version": "",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1964-10-03 - Stockholm, Sweden - Johanneshovs Isstadion.txt"
     },
     {
       "year": 1964,
@@ -1377,7 +1396,8 @@ const ARTIST_DATA = {
       "venue": "Stadthalle",
       "notes": "",
       "version": "",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1964-10-08 - Sindelfingen, Germany - Stadthalle.txt"
     },
     {
       "year": 1964,
@@ -1390,7 +1410,8 @@ const ARTIST_DATA = {
       "venue": "Stadthalle",
       "notes": "",
       "version": "",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1964-10-08 - Sindelfingen, Germany - Stadthalle.txt"
     },
     {
       "year": 1964,
@@ -1431,7 +1452,8 @@ const ARTIST_DATA = {
       "venue": "Oriental Theatre",
       "notes": "",
       "version": "",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1966-05-21 - Portland, OR - Oriental Theatre.txt"
     },
     {
       "year": 1966,
@@ -1459,7 +1481,7 @@ const ARTIST_DATA = {
       "notes": "Voice",
       "version": "FM",
       "format": "FLAC",
-      "textFile": "1966-07-04 - Newport, RI - Festival Field - Voice of America Broadcast.txt"
+      "textFile": "1966-07-04 - Newport - Goody Pitch Fix Edition.txt"
     },
     {
       "year": 1966,
@@ -1472,7 +1494,8 @@ const ARTIST_DATA = {
       "venue": "Festival Field",
       "notes": "Voice",
       "version": "",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1966-07-04 - Newport, RI - Festival Field - Voice of America Broadcast.txt"
     },
     {
       "year": 1967,
@@ -1486,7 +1509,7 @@ const ARTIST_DATA = {
       "notes": "University",
       "version": "FM",
       "format": "FLAC",
-      "textFile": "1967-04-07 - Berkeley, CA - Harmon Gymnasium - University of CA - KALX Radio.txt"
+      "textFile": "1967-04-07 - Berkeley, CA - Harmon Gymnasium - University of CA - KALX Radio [FM].txt"
     },
     {
       "year": 1967,
@@ -1499,7 +1522,8 @@ const ARTIST_DATA = {
       "venue": "Harmon Gymnasium",
       "notes": "University",
       "version": "",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1967-04-07 - Berkeley, CA - Harmon Gymnasium - University of CA - KALX Radio.txt"
     },
     {
       "year": 1967,
@@ -1526,7 +1550,8 @@ const ARTIST_DATA = {
       "venue": "Festival Field",
       "notes": "",
       "version": "",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1967-07-02 - Newport, RI - Festival Field.txt"
     },
     {
       "year": 1967,
@@ -1540,7 +1565,7 @@ const ARTIST_DATA = {
       "notes": "",
       "version": "SBD",
       "format": "FLAC",
-      "textFile": "1967-10-28 - Antwerp, Belgium - Konigin Elisabethsaal.txt"
+      "textFile": "1967-10-28 - Antwerp, Belgium - Konigin Elisabethsaal [SBD].txt"
     },
     {
       "year": 1967,
@@ -1553,7 +1578,8 @@ const ARTIST_DATA = {
       "venue": "Konigin Elisabethsaal",
       "notes": "",
       "version": "FM",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1967-10-28 - Antwerp, Belgium - Konigin Elisabethsaal.txt"
     },
     {
       "year": 1967,
@@ -1594,7 +1620,8 @@ const ARTIST_DATA = {
       "venue": "Konserthuset",
       "notes": "",
       "version": "",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1967-10-31 - Stockholm, Sweden - Konserthuset.txt"
     },
     {
       "year": 1967,
@@ -1677,7 +1704,8 @@ const ARTIST_DATA = {
       "venue": "Stadthalle",
       "notes": "",
       "version": "FM",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1967-11-07 - Karlsruhe, Germany - Stadthalle.txt"
     },
     {
       "year": 1968,
@@ -1731,7 +1759,8 @@ const ARTIST_DATA = {
       "venue": "Central Park",
       "notes": "",
       "version": "",
-      "format": "APE"
+      "format": "APE",
+      "textFile": "1969-07-07 - New York, NY - Central Park.txt"
     },
     {
       "year": 1969,
@@ -1899,6 +1928,20 @@ const ARTIST_DATA = {
       "notes": "Early + Late show",
       "version": "SBD",
       "format": "SHN",
+      "textFile": "1969-11-03 - Paris, France - Salle Pleyel (Alternate Version).txt"
+    },
+    {
+      "year": 1969,
+      "month": 11,
+      "day": 3,
+      "dateStr": "11-3-1969",
+      "city": "Paris",
+      "state": "France",
+      "location": "Paris, France",
+      "venue": "Salle Pleyel",
+      "notes": "Early + Late show",
+      "version": "",
+      "format": "SHN",
       "textFile": "1969-11-03 - Paris, France - Salle Pleyel .txt"
     },
     {
@@ -1912,7 +1955,8 @@ const ARTIST_DATA = {
       "venue": "Salle Pleyel",
       "notes": "Early + Late show",
       "version": "",
-      "format": "SHN"
+      "format": "SHN",
+      "textFile": "1969-11-03 - Paris, France - Salle Pleyel .txt"
     },
     {
       "year": 1969,
@@ -1925,20 +1969,8 @@ const ARTIST_DATA = {
       "venue": "Salle Pleyel",
       "notes": "Early + Late show",
       "version": "",
-      "format": "SHN"
-    },
-    {
-      "year": 1969,
-      "month": 11,
-      "day": 3,
-      "dateStr": "11-3-1969",
-      "city": "Paris",
-      "state": "France",
-      "location": "Paris, France",
-      "venue": "Salle Pleyel",
-      "notes": "Early + Late show",
-      "version": "",
-      "format": "SHN"
+      "format": "SHN",
+      "textFile": "1969-11-03 - Paris, France - Salle Pleyel .txt"
     },
     {
       "year": 1969,
@@ -1965,7 +1997,8 @@ const ARTIST_DATA = {
       "venue": "Tivoli Konserthal",
       "notes": "",
       "version": "FM",
-      "format": "SHN"
+      "format": "SHN",
+      "textFile": "1969-11-04 - Copenhagen, Denmark - Tivoli Konserthal.txt"
     },
     {
       "year": 1969,
@@ -1992,7 +2025,8 @@ const ARTIST_DATA = {
       "venue": "Folkets Hus",
       "notes": "",
       "version": "",
-      "format": "SHN"
+      "format": "SHN",
+      "textFile": "1969-11-05 - Stockholm, Sweden - Folkets Hus.txt"
     },
     {
       "year": 1969,
@@ -2005,7 +2039,8 @@ const ARTIST_DATA = {
       "venue": "Folkets Hus",
       "notes": "",
       "version": "",
-      "format": "SHN"
+      "format": "SHN",
+      "textFile": "1969-11-05 - Stockholm, Sweden - Folkets Hus.txt"
     },
     {
       "year": 1969,
@@ -2018,7 +2053,8 @@ const ARTIST_DATA = {
       "venue": "Folkets Hus",
       "notes": "",
       "version": "",
-      "format": "SHN"
+      "format": "SHN",
+      "textFile": "1969-11-05 - Stockholm, Sweden - Folkets Hus.txt"
     },
     {
       "year": 1969,
@@ -2031,7 +2067,8 @@ const ARTIST_DATA = {
       "venue": "Folkets Hus",
       "notes": "",
       "version": "",
-      "format": "SHN"
+      "format": "SHN",
+      "textFile": "1969-11-05 - Stockholm, Sweden - Folkets Hus.txt"
     },
     {
       "year": 1969,
@@ -2044,7 +2081,8 @@ const ARTIST_DATA = {
       "venue": "Folkets Hus",
       "notes": "",
       "version": "",
-      "format": "SHN"
+      "format": "SHN",
+      "textFile": "1969-11-05 - Stockholm, Sweden - Folkets Hus.txt"
     },
     {
       "year": 1969,

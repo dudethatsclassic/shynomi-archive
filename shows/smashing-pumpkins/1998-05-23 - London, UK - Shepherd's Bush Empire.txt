@@ -1,72 +1,47 @@
-Smashing Pumpkins
-May 23rd, 1998
-Sheperd's Bush Empire
+The Smashing Pumpkins
+1998-05-23
+Shepherd's Bush Empire
 London, UK
 
-four source mix for a continuous/complete show
+Track Listing
+=============
+01 - Ava Adore
+02 - Perfect
+03 - Daphne Descends
+04 - Bullet with Butterfly Wings
+05 - Tonight, Tonight
 
-00. pre-show interview
+Lineage
+=======
+Video Transfer: ??? > PAL SP VHS > JVC BR-S525E > Blackmagic Intensity Pro >
+                FFMPEG > MJPEG Tools > DVDAuthor > PAL DVD
 
-01. To Sheila
-02. Tear
-03. Once Upon a Time
-04. Crestfallen
-05. Ava Adore
-06. Daphne Descends
-07. Shame
-08. Perfect
-09. Tonight, Tonight
-10. Stumbleine
-11. percussion solo > Bullet with Butterfly Wings
-12. Thru the Eyes of Ruby
-13. 1979
-14. For Martha
-15. encore break
+Audio Transfer: ??? > PAL SP VHS > Panasonic AG-7350 > 
+                Blackmagic Intensity Pro > FFMPEG > Audacity
 
-16. Night Boat [Duran Duran]
-17. Transmission [Joy Division] > Help! [Beatles] (tease)
+Video: PAL; 4:3; 720x576; 8264kbps CBR; YUV4:2:0; Top Field First Interlaced
+Audio: LPCM 1536kbps
 
-* audience source speed corrected -4%
-* tape flip after Ruby crossfaded
-* in my opinion the audience recording is an MD source but with a high-speed dub somewhere in the line, this would explain the constant speed variation (as opposed to a gradually slowing recording that you would encounter on a cassette master); logic dictates that it's likely a first or second generation copy due to being acquired just a few days after the show
-* interview has been misdated as 5/31 Dublin; this was my fault
 
------
+This is the second transfer of this particular tape, using superior equipment.
 
-[1] tv broadcast > "Enter Adore" silver > EAC > FLAC provides:
-t02 Tear
-t03 Once Upon a Time
-t04 Crestfallen
-t05 Ava Adore
-t06 Daphne Descends
-t07 Shame
-t08 Perfect
-t09 Tonight, Tonight
-t10 Stumbleine
+This transfer is from a studio VHS.
 
-[2] tv broadcast > "Adoration" silver > FLAC provides:
-t01 To Sheila
-t11 Bullet with Butterfly Wings (2:49 - end)
-t13 1979
-t16 Night Boat
-t17 Transmission (0:00 - 4:08, 16:34 - 17:42)
+This tape has a 30 second gap between tracks 3 and 4, I have left this on the
+DVD. The drum solo in Bullet with Butterfly Wings is edited out on the tape.
 
-[3] audience > MD-M > ANA-L > CDR-0 > FLAC provides:
-t07 Shame (7:41 - end)
-t08 Perfect (0:00 - 0:16)
-t11 Bullet with Butterfly Wings (0:00 - 2:49) [percussion solo]
-t12 Thru the Eyes of Ruby
-t13 1979 (4:09 - end) [crowd after song]
-t14 For Martha
-t15 encore break
-t17 Transmission (4:09 - 16:33, 17:42 - end)
-[tape from a bootleg stall in London shortly after the show, transferred by Brewer]
+The audio track has quite a bit of hiss, this is especially audible during
+Perfect. Due to the amount of noise it is difficult to reduce it without
+introducing worse artefacts, so the audio track remains unedited. It should be
+noted that this noise is recorded onto the tape itself. The noise is present in
+both the normal and Hi-Fi audio tracks on the tape. The higher quality Hi-Fi
+track is used in this release.
 
-[4] "As Featured on MTV" PAL VHS promo [mono] > Thomson VTH6080 > Dazzle DVC100 > Instant DVD Recorder > VOB [LPCM / 48k] > DVD2Avi [demux] > r8brain [resample to 44.1] provides:
-t00 pre-show interview
-[via Gazebofrost / SmashingPumpkinsUK]
+The video was transferred using the JVC deck as it has superior image quality,
+however it failed to track the HiFi audio track, but the Panasonic succeeded.
 
------
+Thanks to Cool As Ice Cream for sending me his tapes to transfer.
 
-don't sell, etc
--rhinowing
+Enjoy.
+
+- magikarp99

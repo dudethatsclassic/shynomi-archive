@@ -1,69 +1,10 @@
 Smashing Pumpkins
-May 28th 1998
-Botanique Gardens
-Brussels, BE
+1998-05-28
+Botanique Gardens, Brussels, BE
 
-SOURCE (AUD#1)
-Unknown
+01. Tear
 
-TRANSFER:
-CDR > EAC > CD Wave Editor > Trader's Little Helper 2.8.4
+Notes:
+Unsure on the source of this (sorry). Downloaded from someone on the tsp hub. One track from the Botanique Gardens show from 1998. 
 
-GENERATION:
-MD(X) > ANA(X) > CDR(X) > WAV > FLAC
-
-LENGTH:
-128:56
-
-SETLIST:
-01. Intro
-02. To Sheila
-03. Once Upon a Time
-04. Ava Adore
-05. Crestfallen > Eye (tease)
-06. Tear
-07. Daphne Descends
-08. Thru the Eyes of Ruby
-09. Perfect
-10. Tonight, Tonight
-11. Stumbleine
-12. (percussion solo)
-13. Bullet With Butterfly Wings
-14. Shame
-15. For Martha
-16. (encore break)
-
-ENCORE:
-17. 1979
-18. Transmission [Joy Division] > Let's Dance [Bowie] (tease) > Help! [The Beatles] (tease)
-
-NOTES:
-Thanks to traveller03 for sending over. Extracted from an unknown generation CDR received from trader Simon Mifsud.
-
-This is the only circulating source of the show which includes the complete ending to Transmission. FM sources which include Transmission have a "fake" abrupt ending edited in.
-
-Tape flip after Bullet With Butterfly Wings (potentially from the analog generation)
-
-MD5 FINGERPRINTS:
-719d5fecee0f5058bdf316e6910d2544 *Smashing Pumpkins 1998-05-28b AUD1 t01 Intro.flac
-88336f13d1c14481f911781adeeb070b *Smashing Pumpkins 1998-05-28b AUD1 t02 To Sheila.flac
-b6c0081d2256548cf47978683055a50f *Smashing Pumpkins 1998-05-28b AUD1 t03 Once Upon a Time.flac
-f8dedb8e3a2ef15a2375014985ecd51b *Smashing Pumpkins 1998-05-28b AUD1 t04 Ava Adore.flac
-8cb693aad4ecf57c2425f1ea2ebac7b3 *Smashing Pumpkins 1998-05-28b AUD1 t05 Crestfallen.flac
-b628e94fc09bd291f8615cf913036bd1 *Smashing Pumpkins 1998-05-28b AUD1 t06 Tear.flac
-9b326e6df4a67fdbb13e50166b10b941 *Smashing Pumpkins 1998-05-28b AUD1 t07 Daphne Descends.flac
-e0a5640a7e7972ee4554f0a354d5c4cd *Smashing Pumpkins 1998-05-28b AUD1 t08 Thru the Eyes of Ruby.flac
-47465b63e4536951f8a2271c0f083782 *Smashing Pumpkins 1998-05-28b AUD1 t09 Perfect.flac
-02a1fa3f9999d38d2c0736b8165fe1e2 *Smashing Pumpkins 1998-05-28b AUD1 t10 Tonight, Tonight.flac
-2b78ec3d4b6e9db9e45eed4112a83fe0 *Smashing Pumpkins 1998-05-28b AUD1 t11 Stumbleine.flac
-58272088aecbb1d09553428c387c56a1 *Smashing Pumpkins 1998-05-28b AUD1 t12 (percussion solo).flac
-e8acdb63983e61163bd3858e655b7b86 *Smashing Pumpkins 1998-05-28b AUD1 t13 Bullet With Butterfly Wings.flac
-99dab5fd7183bd2853890e0a030eb4d3 *Smashing Pumpkins 1998-05-28b AUD1 t14 Shame.flac
-5dc6c4f22c54d1532bd711c169cd0d9c *Smashing Pumpkins 1998-05-28b AUD1 t15 For Martha.flac
-c4f21a0d8fbad90cccb178cd417c5730 *Smashing Pumpkins 1998-05-28b AUD1 t16 (encore break).flac
-d50c26d592bc4694466062a3658320d2 *Smashing Pumpkins 1998-05-28b AUD1 t17 1979.flac
-1fcd26329cef613e58b97f4c86a98b06 *Smashing Pumpkins 1998-05-28b AUD1 t18 Transmission [Joy Division].flac
-
-DISTRIBUTION:
-Spaldz, Nicholas Serra & Members of SPLRA
-2026-03-04
+Enjoy

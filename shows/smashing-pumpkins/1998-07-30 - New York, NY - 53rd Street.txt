@@ -1,28 +1,25 @@
-Smashing Pumpkins
+The Smashing Pumpkins
 1998-07-30
-Late Show With David Letterman
-53rd Street, New York City, NY, US
+53rd Street
+New York
+NY, US
 
-Source: Beta-M>DVD>WAV>FLAC
-Editing: Ripped, resampled (to 44.1k) and fades in Adobe Audition 1.5
-
-
+Track Listing
+=============
 01 - Perfect
+02 - 1979 (Clip)
+03 - To Sheila (Clip)
+
+Lineage
+=======
+Transfer: ??? > NTSC SP VHS > Panasonic AG-7350 > BlackMagic Intensity Pro >
+          FFMPEG > Audacity > MJPEG Tools > DVDAuthor > PAL DVD
+
+Video: NTSC; 4:3; 720x480; 8264kbps CBR; YUV4:2:0; Bottom Field First Interlaced
+Audio: LPCM 1536kbps
+
+Performance on the Late Show with David Letterman. This transfer is from an
+in-house promo VHS.
 
 
-********************************NOTES***************************************
-****************************************************************************
-
-Thanks to the original editor..(Who sadly didn't decide to leave their name)
-And thanks to RumoredToTheStraight&Narrow who originally put the dvd together
-
-Bring back the love of the hub
-
--Spaldz
-
-****************************************************************************
-****************************************************************************
-
-------------------------------------------
-ffp:
-01 - Perfect.flac:cb2428dc83ab92bc6f33f73d5737a199
+- magikarp99

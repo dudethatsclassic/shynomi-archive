@@ -1,35 +1,28 @@
 Smashing Pumpkins
 August 21st, 1998
-Parque Sarmiento
+Centro Cultural Recoleta
 Buenos Aires, AR
 
-Source: TV>VID>DAT>CDR>SHN>dEdit>FLAC
-Editing: Foobar2000 (FLAC conversion), CDWave (re-split), Audacity (fixed transition), TLH (flac level 8)
+Source: Pro Shot (MuchMusic broadcast) > VHS-1
+Transfer: Magnavox ZV427MG9 Standalone > DVDr > DVD Shrink 2.3 (removed generic SA menu, no re-encoding)
 
-01. To Sheila - 8:16
-02. Pug - 5:01
-03. Tear - 10:11
-04. Crestfallen - 5:13
-05. Ava Adore - 5:52
-06. Perfect - 3:37
-07. Annie-Dog - 4:29
-08. Thru the Eyes of Ruby - 11:15
-09. Summertime [Gershwin/Heyward] (tease) > Blank Page - 10:06
-10. banter - 0:55
-11. Tonight, Tonight - 3:59
-12. Once Upon a Time - 4:47
-13. percussion solo > Zero (tease) > Cherub Rock (tease) > Bullet with Butterfly Wings - 10:24
-14. Shame - 9:31
-15. For Martha - 8:34
-Encore:
-16. banter/jam - 2:42
-17. 1979 - 3:58
-18. Transmission [Joy Divsion] > Don't Cry For Me Argentina [Webber/Rice] (tease) > Let's Dance [Bowie] (tease) > Star Spangled Banner [Key] (tease) > X.Y.U. (tease) - 27:40
+01. To Sheila
+02. Perfect
+03. Tear
+04. 1979
+05. Ava Adore
+06. The Tale of Dusty and Pistol Pete
+07. Let Me Give the World to You
+08. Shame
 
--weirdly mixed show, sounds like the mics were far away from the stage
--there are some strange edits throughout the show (possibly where commercial breaks would have gone)
--final show of the Adore tour
--final/longest performance of Transmission
--final pre-hiatus performance of Annie-Dog (next performance: 2007/05/22)
--I threw out the old .cue files that the show came with the show, resplit it in CDWave, and renamed to etree standards
--transition between Once Upon a Time and Bullet With Butterfly Wings edited in Audacity
+no menu, 10 minute chapters
+
+TRT: 44:41
+NTSC 720x480
+video: 8818kbps average bitrate
+audio: 256k AC3
+
+Thanks to Josh Provost for sending me his tapes to transfer
+
+Don't sell, etc
+-rhinowing

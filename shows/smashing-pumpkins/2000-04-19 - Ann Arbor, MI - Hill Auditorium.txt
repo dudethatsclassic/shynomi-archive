@@ -1,23 +1,37 @@
-tsp2000-04-19.SPPB.d1t01.flac:33dff5f4edda109f8707356d76d075f1
-tsp2000-04-19.SPPB.d1t02.flac:96c167df691734b3f8000c1c02244a51
-tsp2000-04-19.SPPB.d1t03.flac:77647e3b63c44bb09c8515bed7342ce5
-tsp2000-04-19.SPPB.d1t04.flac:b0ed3311a599c49f1886ade0ef176943
-tsp2000-04-19.SPPB.d1t05.flac:69e6d54bdb12e1d12d1236c9e872f6a8
-tsp2000-04-19.SPPB.d1t06.flac:193225d1a4c42c751cfe0026bea78276
-tsp2000-04-19.SPPB.d1t07.flac:a77e8a72036849889f054f32deda591e
-tsp2000-04-19.SPPB.d1t08.flac:e130e9b9cc0ece09d5448de62da1eec1
-tsp2000-04-19.SPPB.d1t09.flac:ae5fdff17db7c88de783b031cab03d86
-tsp2000-04-19.SPPB.d1t10.flac:9f6bed0a00060bc716aa5de1666e2c89
-tsp2000-04-19.SPPB.d1t11.flac:f5bb680b6015a9c80a9319d84e7ca4df
-tsp2000-04-19.SPPB.d1t12.flac:a45f8e0519e8c5bed14d5ae7be15db18
-tsp2000-04-19.SPPB.d1t13.flac:7de06b554bbe8b39286cf10db210de30
-tsp2000-04-19.SPPB.d2t01.flac:abdda15018fa12933c4f6ae7f31b8fa4
-tsp2000-04-19.SPPB.d2t02.flac:38e38a1c2caa21e9ff21e040d0c010b2
-tsp2000-04-19.SPPB.d2t03.flac:aaa12733d31d9acf6b7026a58e150ff3
-tsp2000-04-19.SPPB.d2t04.flac:4ba6850dfbb3c538181565cea57f891c
-tsp2000-04-19.SPPB.d2t05.flac:698406f2b9364eefb5bdbb726c36dde8
-tsp2000-04-19.SPPB.d2t06.flac:02a448b5b48612634e5df6ee48bdc77a
-tsp2000-04-19.SPPB.d2t07.flac:863f1361636a19ebbdd4c45bf3b0ab38
-tsp2000-04-19.SPPB.d2t08.flac:0fbcfd61efce1495c46012eb5da2d7d2
-tsp2000-04-19.SPPB.d2t09.flac:2b9715b4a0e8ff26b5c4399bf8337ba1
-tsp2000-04-19.SPPB.d2t10.flac:d39cd96a62bab15ed990f18e47a50b40
+smashing pumpkins
+hill auditorium, ann arbor mi
+april 19, 2000
+
+recording info:
+DPA 4061 > bbox/rolloff > D8 DAT Master @ 16bit/48kHz
+ - recorded in the front row, leaning on stage, between james and billy.
+
+processing:
+DAT Master > tascam da20 > waveterminal > adobe audition > cdwav > tlh flac 8
+
+these are 16bit/48kHz flac files
+
+01. Pale Scales
+02. Rock On 
+03. The Everlasting Gaze
+04. Glass and the Ghost Children
+05. Age of Innocence
+06. Blew Away
+07. Stand Inside Your Love
+08. I of the Mourning
+09. To Sheila
+10. If There Is a God
+11. Disarm
+12. Try, Try, Try
+13. Mayonaise
+14. Fuck You
+15. Today
+16. Blue Skies Bring Tears
+17. Cherub Rock 
+18. Blank Page
+19. Bullet with Butterfly Wings
+20. With Every Light
+21. Tonight, Tonight 
+22. Zero
+23. Heavy Metal Machine 
+

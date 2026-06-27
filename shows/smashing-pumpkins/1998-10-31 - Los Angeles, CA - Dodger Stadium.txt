@@ -1,52 +1,25 @@
-Smashing Pumpkins
-October 31st, 1998
-Dodger Stadium
-Los Angeles, CA, US
+the Smashing Pumpkins
+10.31.1998 - Dodger Stadium; Los Angeles, CA, US 
 
-source: Sennheiser MKE2 > M1
-transfer: DAT > CDR-? > EAC > 2005 FLAC seed > CDR-0 > EAC > dEdit > FLAC
-editing: Audacity (rejoin, amplified left channel, pencil tool fixes, patches), CDWave (split), TLH (flac8)
+Source:      DAT > CSC > M1 
+Location:    First row off the floor
+Lineage:     DAT-M>cdR-01>MKW Audio Compression>SHN
 
-patch source: CSC > M1; recorded from first row off floor
-transfer: DAT-M > CDR-1 > EAC > SHN
+*******************************************************************************************
+			NOT TO BE SOLD OR CONVERTED TO MP3!!
+				  PLEASE SHARE! :)
+*******************************************************************************************
 
-patch supplies
-t01 Money [0:00 - 0:50]
-t09 banter [0:12 - 0:15]
-
-01. Money (That's What I Want) [Strong]
-02. Zero
-03. Ava Adore
-04. Eye
-05. Tear
-06. Today
-07. Bullet with Butterfly Wings
-08. Thru the Eyes of Ruby
-09. Cash Car Star (abandoned) / stage banter
-10. Cash Car Star
-11. X.Y.U. > The Ether's Tragic (tease) > Never Say Never [Romeo Void] (tease) > Where Boys Fear to Tread (tease)
-
-trt 62:20
-
-* this is an upgrade to the CSC > M1 tape
-* left channel was ~3db lower than the right throughout the recording; balanced via Audacity
-* first minute of "Money" and some banter prior to Cash Car Star patched with the CSC source
-* this is from the same MKE2 > M1 rig that covered numerous Texas / California shows in 1998/1999 (see 7/10/98, 4/21/99, etc); I believe that this rig belonged to Bryan F. but cannot confirm
-* this disc came from a snail mail trade in 2005 (other party unremembered), I then lost the files and they didn't appear again until just now when Bram / Cool As Ice Cream came through with his burned copy
-
-show notes
-* opened for KISS; the band appeared on stage dressed up as The Beatles
-* Cash Car Star was broadcast live on FOX as part of the "Psycho Circus" tv special
-* Kenny Aronoff's final show as a member of SP
-* only "Money"
-* last "Eye" until 2008-08-08 Davenport, IA
-* first "Cash Car Star"
-
-Billy Corgan - guitar, vocals
-James Iha - guitar
-D'arcy Wretzky - bass, vocals
-Kenny Aronoff - drums
-Mike Garson - keyboards
-
-don't sell, etc
--rhinowing
+01. Money (That's What I Want) [Strong] 
+02. Zero 
+03. Ava Adore 
+04. Eye 
+05. Tear 
+06. Today 
+07. Bullet with Butterfly Wings 
+08. Thru the Eyes of Ruby 
+09. Cash Car Star 
+10. XXX.Y.U.
+	> The Ethers Tragic   (tease) 
+	> Never Say Never [Romeo Void]   (tease) 
+	> Where Boys Fear to Tread   (tease)

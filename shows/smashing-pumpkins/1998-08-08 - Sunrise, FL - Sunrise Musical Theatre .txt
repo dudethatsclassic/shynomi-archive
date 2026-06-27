@@ -1,69 +1,37 @@
-Smashing Pumpkins
-August 8th 1998
-Sunrise Musical Theater
-Sunrise, FL, US
+**********************************************************************************************************
+The Smashing Pumpkins
+08.08.98 - Sunrise Musical Theatre - Sunrise, FL  
 
-SOURCE (AUD#1):
-ECM-44B > TCD-D8
+Taper:		---
+Source:		DAT>CD-R  D7
+Flac:		Waves>flac frontend
 
-GENERATION:
-DAT(M) > FLAC
+**********************************************************************************************************
+		       	   DO NOT ENCODE TO ANY LOSSY FORMAT OR SELL
+**********************************************************************************************************
 
-TRANSFER:
-TCD-D8 > 7-Pin > Marantz PMD671 (Digi In, 16/48)
+Disc One (62:43)
 
-LENGTH:
-123:24
+01. To Sheila 
+02. Behold! The Night Mare 
+03. Pug 
+04. Tear 
+05. Annie Dog 
+06. Ava Adore 
+07. Daphne Descends 
+08. Thru the Eyes of Ruby 
+09. Blank Page 
 
-SETLIST:
-01. To Sheila
-02. Behold! the Night Mare
-03. Pug
-04. Tear
-05. Annie-Dog
-06. Ava Adore
-07. Daphne Descends
-08. Thru the Eyes of Ruby
-09. Blank Page
-10. Tonight, Tonight
-11. Once Upon a Time
-12. jam
-13. Bullet with Butterfly Wings
-14. Shame
-15. For Martha
-16. 1979
-17. Transmission [Joy Division] 
+Disc Two (61:20)
 
-
-NOTES:
-Master upgrade to previously circulating DDC(X) transfers. Thank you to our taper Jon and to Ryan Jonik (NINLive.com) for the fresh transfer. Thanks to Matt Reeder for comparing sources for us.
-
-
-MD5 FINGERPRINTS:
-c87ae0c4aa636f46cf11cf3d16024a69 *Smashing Pumpkins 1998-08-08 AUD1 t01 To Sheila.flac
-9d85ed421759d86e1b5e3bac7e77834b *Smashing Pumpkins 1998-08-08 AUD1 t02 Behold! the Night Mare.flac
-c395d8414a8f03af85cd7162848e60a3 *Smashing Pumpkins 1998-08-08 AUD1 t03 Pug.flac
-e3514e4211d9efdf7389ab402351aab8 *Smashing Pumpkins 1998-08-08 AUD1 t04 Tear.flac
-b15834f6a064a9cb8fe3b98aed3c64d3 *Smashing Pumpkins 1998-08-08 AUD1 t05 Annie-Dog.flac
-85038c1678cb0fe3f51d3b5d0af59c98 *Smashing Pumpkins 1998-08-08 AUD1 t06 Ava Adore.flac
-48ef69246dc65fb5dcf966f3f5b94b59 *Smashing Pumpkins 1998-08-08 AUD1 t07 Daphne Descends.flac
-2eaccf1c10d77ce7213d4de5c5603a99 *Smashing Pumpkins 1998-08-08 AUD1 t08 Thru the Eyes of Ruby.flac
-37b10b9a0ed469af153dbad97018c4ce *Smashing Pumpkins 1998-08-08 AUD1 t09 Blank Page.flac
-11df7f390daa1c5e0031e2e71aa5dfb0 *Smashing Pumpkins 1998-08-08 AUD1 t10 Tonight, Tonight.flac
-847a731e03dc3e12e1c290e3c87af3e6 *Smashing Pumpkins 1998-08-08 AUD1 t11 Once Upon a Time.flac
-540bcfdddeecc7a10fdb13e38f5a06ba *Smashing Pumpkins 1998-08-08 AUD1 t12 jam.flac
-859fd41e0ae2c47a69bccafc834e7c72 *Smashing Pumpkins 1998-08-08 AUD1 t13 Bullet with Butterfly Wings.flac
-fb54b9136c836a5fcb6d7d41aca99cab *Smashing Pumpkins 1998-08-08 AUD1 t14 Shame.flac
-867c86c83537cf87dd2d13a2e6da60c3 *Smashing Pumpkins 1998-08-08 AUD1 t15 For Martha.flac
-df527cd60ebd71b031a1a678bf224135 *Smashing Pumpkins 1998-08-08 AUD1 t16 1979.flac
-cf013a492e444a918eab66709ef89b2f *Smashing Pumpkins 1998-08-08 AUD1 t17 Transmission [Joy Division].flac
-
-RECORDED BY:
-Jon Duchin
-
-TRANSFER BY:
-Ryan Jonik (NINLive.com)
-
-DISTRIBUTION:
-Nicholas Serra, Spaldz & Members of SPLRA
-2023-02-02
+01. Tonight, Tonight 
+02. Once Upon a Time 
+03. Bullet with Butterfly Wings 
+04. Shame 
+05. For Martha 
+06. 1979 
+07. Transmission 
+ 
+**********************************************************************************************************
+						ENJOY
+**********************************************************************************************************

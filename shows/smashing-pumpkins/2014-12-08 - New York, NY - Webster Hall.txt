@@ -1,89 +1,40 @@
-The Smashing Pumpkins
+Smashing Pumpkins
+2014-12-08
 Webster Hall
-New York City, New York
-December 8th, 2014
+New York NY
+ 
+Digital Master Recording
+Soundboard + Audience Matrix
+ 
+Soundboard [Engineer Kevin] + Schoeps CCM4u Cardioids > Sound Devices 744t > 2 x 24bit 48kHz wavs > 
+Soundforge (level adjustments, mixdown, EQ, set fades) > CDWave 1.95 (tracking) > TLH  > 
+flac (320 MP3 and tagging via Foobar)
 
+Please support this legendary band:
+http://www.smashingpumpkinsnexus.com/
 
-Taper: @mistacabbage
-Location: Mics taped to my shoulders standing a few rows in front of the back bar on the floor
-Source: Church Audio 14’s > PA-6LC3B (roll off @ 65Khz) > Mic In > Sony PCM-M10 > .wav @ 96 kHz / 24 bit
-Lineage: .wav > USB > Amadeus Pro 2.1.7 (1576) > FLAC 8
-
-
+Recorded and Produced by nyctaper 
+ 
 Setlist:
-01 - One And All (We Are)		[04:48]
-02 - Being Beige			[05:11]
-03 - Hummer				[07:03]
-04 - Tiberius				[05:03]
-05 - Tonight, Tonight			[04:36]
-06 - Drum + Fife			[04:00]
-07 - Glass And The Ghost Children	[12:49]
-08 - Stand Inside Your Love		[05:25]
-09 - Monuments				[03:30]
-10 - Drown				[06:22]
-11 - Disarm				[03:19]
-12 - Zero				[03:24]
-13 - Bullet with Butterfly Wings	[04:23]
-14 - Fame [David Bowie]			[04:35]
-15 - Silverfuck				[15:17]
+[Total Time 1:41:09]
+01  One and All
+02  Being Beige
+03  Hummer
+04  Tiberius
+05  [banter - bass amp]
+06  Tonight Tonight
+07  Drum and Fife
+08  Glass and the Ghost Children
+09  Stand Inside Your Love
+10  [banter - adventure]
+11  Monuments
+12  Drown
+13  Disarm
+14  Zero
+15  Bullet with Butterfly Wings
+16  Fame [Bowie]
+17  Silverfuck
+18  [encore break]
+19  Ava Adore
+20  Burnt Orange-Black
 
-Encore:
-16 - Ava Adore				[05:09]
-17 - Burnt Orange-Black			[05:52]
-Total Running Time			[100:46]
-
-
-Verify FFP: sp2014-12-08.ffp
-sp2014-12-08t01.flac : OK
-sp2014-12-08t02.flac : OK
-sp2014-12-08t03.flac : OK
-sp2014-12-08t04.flac : OK
-sp2014-12-08t05.flac : OK
-sp2014-12-08t06.flac : OK
-sp2014-12-08t07.flac : OK
-sp2014-12-08t08.flac : OK
-sp2014-12-08t09.flac : OK
-sp2014-12-08t10.flac : OK
-sp2014-12-08t11.flac : OK
-sp2014-12-08t12.flac : OK
-sp2014-12-08t13.flac : OK
-sp2014-12-08t14.flac : OK
-sp2014-12-08t15.flac : OK
-sp2014-12-08t16.flac : OK
-sp2014-12-08t17.flac : OK
-
-Verify Flac Files in sp2014-12-08.ffp
-sp2014-12-08t01.flac: testing, 100% complete
-sp2014-12-08t01.flac: ok
-sp2014-12-08t02.flac: testing, 100% complete
-sp2014-12-08t02.flac: ok
-sp2014-12-08t03.flac: testing, 100% complete
-sp2014-12-08t03.flac: ok
-sp2014-12-08t04.flac: testing, 100% complete
-sp2014-12-08t04.flac: ok
-sp2014-12-08t05.flac: testing, 100% complete
-sp2014-12-08t05.flac: ok
-sp2014-12-08t06.flac: testing, 100% complete
-sp2014-12-08t06.flac: ok
-sp2014-12-08t07.flac: testing, 100% complete
-sp2014-12-08t07.flac: ok
-sp2014-12-08t08.flac: testing, 100% complete
-sp2014-12-08t08.flac: ok
-sp2014-12-08t09.flac: testing, 100% complete
-sp2014-12-08t09.flac: ok
-sp2014-12-08t10.flac: testing, 100% complete
-sp2014-12-08t10.flac: ok
-sp2014-12-08t11.flac: testing, 100% complete
-sp2014-12-08t11.flac: ok
-sp2014-12-08t12.flac: testing, 100% complete
-sp2014-12-08t12.flac: ok
-sp2014-12-08t13.flac: testing, 100% complete
-sp2014-12-08t13.flac: ok
-sp2014-12-08t14.flac: testing, 100% complete
-sp2014-12-08t14.flac: ok
-sp2014-12-08t15.flac: testing, 100% complete
-sp2014-12-08t15.flac: ok
-sp2014-12-08t16.flac: testing, 100% complete
-sp2014-12-08t16.flac: ok
-sp2014-12-08t17.flac: testing, 100% complete
-sp2014-12-08t17.flac: ok

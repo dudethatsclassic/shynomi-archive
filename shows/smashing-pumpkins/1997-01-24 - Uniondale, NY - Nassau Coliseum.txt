@@ -1,80 +1,57 @@
-BoldCaptain Presents:
-Pumpkins1997-1-24Nassau.flacf.torrent
-
 Smashing Pumpkins
-Jan 24 1997
-Nassau Coliseum, Uniondale, NY
+January 24th, 1997
+Nassau Coliseum
+Uniondale, New York, USA
 
-Title: Jimmys New Haircut
+CSBMod>D8>DAT-2 (48k)>Fostex D5 (optical)>M-Audio DiO 2496>CDWave>FLAC
 
-Source: Master Audience Cassette - Audio Technica (? Small lapel type in hat) > Sony TC-D5M > Maxell UD XL II 90
+Source: AUD #1 - Less complete (but better sounding) second source circulates.
 
-Playback/Transfer: Nakamichi 680ZX > Tascam CD-RW5000 > CD > Peak 4.0 ( Extraction, Tracking, Fades, convert first two tracks to mono ) > verify SBE OK, compress to flac level 6, generate fingerprint, verify via xACT 1.4b23, seeded to EZT via Azureus 2.2.0.2 by BoldCaptain.
+Set:
+01. Mellon Collie And The Infinite Sadness (cuts in) - 2:36
+02. Tonight, Tonight - 4:26
+03. Cherub Rock - 5:17
+04. Where Boys Fear To Tread - 3:56
+05. Rhinoceros - 6:26
+06. Here Is No Why - 4:02
+07. Zero - 2:27
+08. Fuck You - 5:52
+09. Porcelina Of The Vast Oceans -> Rocket (tease) - 12:52
+10. Introducing The Frogs - 2:51
+11. 1979 - 5:42
+12. Thirty-three - 4:18
+13. Bullet With Butterfly Wings - 4:49
+14. Banter - 3:49
+15. Muzzle - 3:55
+16. Disarm - 3:28
+17. Thru The Eyes Of Ruby - 9:44
+Encore One:
+18. Talk/In-A-Gadda-Da-Vida [Iron Butterfly] (tease) - 4:40
+19. X.Y.U. - 9:01
+Encore Two:
+20. Talk - 2:09
+21. Drown -> Hummer (tease) - 6:38
+22. Siva - 11:50
 
-File Size: 
+Notes:
+Not so good recording of a great show. This show has what might be the longest version of Siva ever recorded.
 
-Setlist: 
--//Tonight 
-- Cherub Rock 
-- Where Boys Fear To Tread
-- Rhinoceros
-- Here is No Why 
-- Zero 
-- Fuck You 
-- Porcelina/Rocket (tease) 
-- 1979 
-- 33 
-- BWBW 
-- Muzzle 
-- Disarm 
-- Ruby 
-- XYU 
-- Drown/Hummer (tease) 
-- Jam/Siva 
+Flaws:
+The taper is located in screamer central up until the encores
+d1t01 - diginoise
+d2t06 - diginoise
+d2t05 - scratching noise (7:45)
+d2t10 - scratching noise (8:26)
 
-Fingerprint:
-tsp1997-01-24d1t01.flac:f712989ef41821428a1fe9b287592458
-tsp1997-01-24d1t02.flac:484c2b3827f12273305fb4833569fd8d
-tsp1997-01-24d1t03.flac:f8a57bc2c877dffd4bd0e01c615fe551
-tsp1997-01-24d1t04.flac:3d466dca3727bed75c3fd9c2da5ed3b3
-tsp1997-01-24d1t05.flac:72629b01b2d8260ca8bd1d9ec5be8f92
-tsp1997-01-24d1t06.flac:5ca8242c752217c4db65a1b27cf7885c
-tsp1997-01-24d1t07.flac:e19362144c52b7f51faad9527760527b
-tsp1997-01-24d1t08.flac:8f4d38c56ca0c6977f5b0715349bce67
-tsp1997-01-24d1t09.flac:3985c4c83b592c18fc2fbbf15f13abd0
-tsp1997-01-24d1t10.flac:1aef0098a987436f763179480ebe2ce3
-tsp1997-01-24d1t11.flac:4d6035c175c3f12deff45fb99ccff706
-tsp1997-01-24d2t01.flac:a78fa709efc5df5cc81199856b83fdf6
-tsp1997-01-24d2t02.flac:0f647a11992d47e6498a4b75caf65d3f
-tsp1997-01-24d2t03.flac:03e72ad866dcdd007f4e178116a67533
-tsp1997-01-24d2t04.flac:929d7e28e77d1728ad6a87feaf80030f
-tsp1997-01-24d2t05.flac:1b3b3ae3fb052e1f9c40fd7308971b48
-tsp1997-01-24d2t06.flac:6aa85b15a4d115bf191df515b127ca83
-tsp1997-01-24d2t07.flac:6e986ac62449d149fdb7eff910c6c0b8
-tsp1997-01-24d2t08.flac:e9a16cae354bdad87ecf3edc3b458004
+---
+DO NOT SELL
+DO NOT CONVERT TO MP3 ASIDE FROM PERSONAL USE
+DO NOT REMIX, REMASTER, ETC WITHOUT PERMISSION
+ENJOY THE MUSIC!
+---
 
-Shntool:
-    length     expanded size   cdr  WAVE problems filename
-     2:55.28       30935900    ---   --   ---xx   tsp1997-01-24d1t01.flac
-     3:49.41       40492076    ---   --   ---xx   tsp1997-01-24d1t02.flac
-     6:25.38       68003420    ---   --   ---xx   tsp1997-01-24d1t03.flac
-     3:50.21       40621436    ---   --   ---xx   tsp1997-01-24d1t04.flac
-     2:25.25       25636844    ---   --   ---xx   tsp1997-01-24d1t05.flac
-     5:02.35       53355164    ---   --   ---xx   tsp1997-01-24d1t06.flac
-     5:50.03       61747100    ---   --   ---xx   tsp1997-01-24d1t07.flac
-     7:15.50       76851644    ---   --   ---xx   tsp1997-01-24d1t08.flac
-     5:47.16       61248476    ---   --   ---xx   tsp1997-01-24d1t09.flac
-     4:17.34       45414812    ---   --   ---xx   tsp1997-01-24d1t10.flac
-     8:08.68       86243180    ---   --   ---xx   tsp1997-01-24d1t11.flac
-     4:09.15       43958924    ---   --   ---xx   tsp1997-01-24d2t01.flac
-     3:26.26       36399596    ---   --   ---xx   tsp1997-01-24d2t02.flac
-     9:30.56      100679756    ---   --   ---xx   tsp1997-01-24d2t03.flac
-     3:27.56       36646556    ---   --   ---xx   tsp1997-01-24d2t04.flac
-     4:31.63       47952620    ---   --   ---xx   tsp1997-01-24d2t05.flac
-     3:56.37       41717468    ---   --   ---xx   tsp1997-01-24d2t06.flac
-     7:06.09       75167612    ---   --   ---xx   tsp1997-01-24d2t07.flac
-    11:45.71      124529036    ---   --   ---xx   tsp1997-01-24d2t08.flac
-   103:42.17     1097601620 B                     (totals for 19 files, 0.6440 overall compression ratio)
+Ben Valocchi (rhinowing) and Matt Krueger (Punkishlyevil)
 
-Notes:Blowing the dust off another box of tapes yielded this gem. While this setlist is the popular accepted account for the evening, I got 19 tracks while there are only 17 entries. No data exists on db.etree for this show, although fan sites indicate two different recordings, this would be a third. Also indicated is a run time of approx. 120 mins, while mine has the first song cut and a run time of 103 min. Good sound overall, taped right hand side of stage in the 100 section.
-Enjoy!
+VERY large thank yous go to Reece Donovan and Kevin Davis
+
+brought to you in association with the SPLRA (splra.org)

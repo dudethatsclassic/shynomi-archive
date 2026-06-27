@@ -1,57 +1,36 @@
 Smashing Pumpkins
+8/28/94
 Shoreline Amphitheater
-Mountain View, California
-August 28, 1994 (Night 2)
+Mountain View, CA
 
-Source (Steve Hagar):  Sonic Studios DSM-6P w/3-way lo-cut filter, position unknown (most likely @ 80hz, middle setting) > Sony WM-D6 > Master cassettes (Maxell XL-IIS 100m)
+Taper:            ??
+Source:           DSM-6 > WM-D6 > ANA-1 > DAT @ 32kHz
+Conversion:       Sony PCM-M1(DCC-?) > Coresound 7pin to coax out > Delta Dio 2496 > Cool Edit Pro
+Resampling:       converted to 44.1kHz in Cool Edit Pro
+Editor:           Andrew Fogelsong
+Editing:	  amplified, fade out
+SHN:              CDR-0 > EAC v0.9 beta 4 > MKW Audio Compression Tool
 
-Transfer (Steve Hagar):  Master cassettes > Denon 790R > Kenwood A-522 amplifier > Kenwood GE-622 Equalizer > .WAV @ 16 bit/44.1 kHz
 
-Tracking (dandrew):  .WAV > Audacity 2.2.2 > xAct 2.44 (encode to FLAC level 8, align sectors, ffp, md5)
+********************************************************************************
+	                    SPREAD THE MUSIC
+********************************************************************************
 
-setlist
-
-01. Quiet
-02. Cherub Rock
-03. Disarm
-04. Rocket
-05. I Am One
-06. Soma
-07. Geek U.S.A. (tape flip, fades out)
-08. Today (fades in)
-09. Spaceboy
-10. Frail and Bedazzled
-11. Plume
-12. Siva
-13. Daydream
-14. Starla
-15. Pissant
-16. Voodoo Chile (tease) > Fantastic Voyage (tease) > jam
-
-show notes:  
-
-well, this Lollapalooza was a bust right out of the gate. 
-
-got up on the lawn, The Breeders hit the stage, I got 6 songs taped (in a mere 10 minutes!), then....BUSTED!
-
-she (yeah, a chick) made me give her my batteries.
-
-but I had more of those, and tape, so I waited until dusky-time, and taped the last half of the Beasties...and then THIS!
-
-pretty sure this show has been discussed ad-nauseum in the past, and believe it was considered one of the "top 5 Lolla sets", due to the rarities played in the time alotted.
-
-you be the judge....fresh transfer from the "spring of '15" project...and it's 3+ years later, and here we are....
-
-hopefully you kids enjoy.
-
-he's not a silverfucker....he just claims the name dandrew.
-
-THANK him for his time...which we all only have so much of.
-
-as for me, you can fucking tell me to fucking stick it where the sun don't fucking shine.
-
-or something like that.
-
-just gonna keep digging in these boxes, and see what else tickles my fancy...
-
----ballsdeep is OUT!!!
+1. Quiet 
+2. Cherub Rock 
+3. Disarm 
+4. Rocket 
+5. I Am One 
+6. Soma 
+7. Geek U.S.A. 
+8. Today 
+9. Spaceboy 
+10. Frail and Bedazzled 
+11. Plume 
+12. Siva 
+13. Daydream 
+14. Starla 
+15. Pissant 
+16. Voodoo Chile [Hendrix]   (tease) 
+     > Fantastic Voyage [Coolio]   (tease) 
+     > (jam: "Concerto in C Minor") 

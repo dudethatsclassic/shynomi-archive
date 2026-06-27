@@ -1,33 +1,17 @@
-The Smashing Pumpkins
+
+Smashing Pumpkins
 1993-06-22
 MTV Studios
 London, UK
 
-Track Listing
-=============
-01 - Cherub Rock Music Video (REMOVED)
-02 - Cherub Rock (REMOVED)
-03 - Disarm
-
-Total Run Time: 13:49
-
-Lineage
-=======
-Transfer: ??? > NTSC SP VHS > Panasonic AG-7350 > Datavideo TBC-1000 >
-          Blackmagic Intensity Pro > FFMPEG > Audacity > MJPEG Tools >
-          DVDAuthor > NTSC DVD
-
-Video: NTSC; 4:3; 720x480; 8264kbps CBR; YUV4:2:0; Bottom Field First Interlaced
-Audio: LPCM 1536kbps
+Source: SBD
+Transfer: 
 
 
-This transfer is from a promotional VHS.
-This tape also included the live acoustic performance of Cherub Rock and the 
-Cherub Rock music video, but these have been removed in compliance with ZOMB
-guidelines.
+01. Cherub Rock
+02. Disarm
 
-Thanks to Cool As Ice Cream for sending me his tapes to transfer.
 
-Enjoy.
 
-- magikarp99
+tsp1993-06-22t01.shn
+tsp1993-06-22t02.shn

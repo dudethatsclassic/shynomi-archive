@@ -1,63 +1,15 @@
-Smashing Pumpkins
-August 11th 2000
-Molson Park
-Barrie, Ontario, CA
-
-SOURCE (AUD#5)
-Optimus Omnidirectional Tie-Clip Mic > Sharp MD MT-15
-
-TRANSFER:
-Sony MDS-PC3 > iRiver H120 (Rockbox 3.10) (optical) > Adobe Audition > CD Wave Editor > Trader's Little Helper 2.8.4
-
-GENERATION:
-MD(M) > FLAC
-
-LENGTH:
-75:35
-
-SETLIST:
-01. Glass and the Ghost Children
-02. The Everlasting Gaze
-03. Heavy Metal Machine
-04. The Sacred and Profane
-05. Mayonaise
-06. Stand Inside Your Love
-07. Fuck You (An Ode to No One)
-08. Don't You Want Me [The Human League] > Du Hast [Rammstein] (tease)
-09. I of the Mourning
-10. Once Upon a Time
-11. Cherub Rock
-12. Bullet With Butterfly Wings
-13. Once in a Lifetime [Talking Heads]
-14. Drown
-
-NOTES:
-A massive thank you to spaceyraygun for sharing their recording
-
-Original recording was left channel only. This has been converted to stereo with identical L and R channels.
-
-MD5 FINGERPRINTS:
-8b79c0e43d67eb5a889a36f92ffdfe27 *Smashing Pumpkins 2000-08-11 AUD5 t01 Glass and the Ghost Children.flac
-317a84b03300ece768e7e8aa6b2193ac *Smashing Pumpkins 2000-08-11 AUD5 t02 The Everlasting Gaze.flac
-8ec46f4a42fe00cdaf58f8953dc6ced5 *Smashing Pumpkins 2000-08-11 AUD5 t03 Heavy Metal Machine.flac
-a858ddb934b65b057ec446da7cbf4fb0 *Smashing Pumpkins 2000-08-11 AUD5 t04 The Sacred and Profane.flac
-0d7447de84d7304d67026b7454b2e8eb *Smashing Pumpkins 2000-08-11 AUD5 t05 Mayonaise.flac
-ff809c26edaa1abf6b0b53b5bdcc484d *Smashing Pumpkins 2000-08-11 AUD5 t06 Stand Inside Your Love.flac
-fe9f699f4dca6874f8f832c0df0ec632 *Smashing Pumpkins 2000-08-11 AUD5 t07 Fuck You (An Ode to No One).flac
-81d2de39167de6110202a264fff94ee3 *Smashing Pumpkins 2000-08-11 AUD5 t08 Don't You Want Me [The Human League].flac
-99ee2b5e06a490e5ed6bbe14201099e3 *Smashing Pumpkins 2000-08-11 AUD5 t09 I of the Mourning.flac
-efb85e88f9afdac1a9e9b90506d4ca12 *Smashing Pumpkins 2000-08-11 AUD5 t10 Once Upon a Time.flac
-84b2af8cd21f8c2c435b62edbd652a96 *Smashing Pumpkins 2000-08-11 AUD5 t11 Cherub Rock.flac
-cfe60fae2db8928def4cf438d2f27a39 *Smashing Pumpkins 2000-08-11 AUD5 t12 Bullet With Butterfly Wings.flac
-c273cde73d2ddc747bb6d219f6d1c43c *Smashing Pumpkins 2000-08-11 AUD5 t13 Once in a Lifetime [Talking Heads].flac
-7c200c74ff652c15f40af64444ef8b84 *Smashing Pumpkins 2000-08-11 AUD5 t14 Drown.flac
-
-RECORDED BY:
-spaceyraygun
-
-TRANSFER BY:
-@deadhoarse
-
-DISTRIBUTION:
-Spaldz, Nicholas Serra & Members of SPLRA
-2025-03-14
+tsp2000-08-11.at853.t01.flac:09f9527f4211582fc1ce7f67467a1159
+tsp2000-08-11.at853.t02.flac:e2493816b684d18c5c3454db581ab586
+tsp2000-08-11.at853.t03.flac:41deb1feb1baf916e278945c3bc11f4f
+tsp2000-08-11.at853.t04.flac:e57b0fb4ce7b5e94f78f7604bf3ab613
+tsp2000-08-11.at853.t05.flac:b05b11ddbdab21702a71dd6a58133e1a
+tsp2000-08-11.at853.t06.flac:7431b1be47954338f4ad9714f37998bf
+tsp2000-08-11.at853.t07.flac:f2053e8ec9dfed111cee4dbf8773f265
+tsp2000-08-11.at853.t08.flac:eae6c33197e30a5e79656440aba1bbd8
+tsp2000-08-11.at853.t09.flac:69ab66db8f411191a7c37637172eb0b8
+tsp2000-08-11.at853.t10.flac:7c7cede4ddd118fd32f806897dc78ac9
+tsp2000-08-11.at853.t11.flac:5f396d2fb67c82b826175a282a512f82
+tsp2000-08-11.at853.t12.flac:52244b3240e6882cdb07e70be6f020be
+tsp2000-08-11.at853.t13.flac:eb210b3abc9723b67d756fcc8d825dc1
+tsp2000-08-11.at853.t14.flac:31492fedee279e298ebbcfb381b31826
+tsp2000-08-11.at853.t15.flac:0617641c7ddf6c9e2592c2d3d77e4e6a

@@ -1,29 +1,16 @@
 A Perfect Circle
-2001/02/05
+2001-02-05
 Memorial Auditorium
 Sacramento, CA
 
+*******Do Not Sell
+*******Do Not Encode to Lossy formats
 
-Source: Core Sound Binaurals>Sony PCM-M1
+Taper:  Brad Ziegler
+Source:  ECM-TS120 > D8
+Transfer:  Dat Master > Unknown Transfer > CDR(1) > EAC (Secure) > Flac Frontend > .Flac (Level 8)
 
 
 
-Setlist:
 
-01-Renholder
-02-Thinking of You
-03-Magdalena
-04-3 Libras (Remix)
-05-3 Libras
-06-Brena
-07-Orestes
-08-Vacant (Tapeworm Cover)
-09-Rose
-10-Over
-11-Thomas
-12-Judith
-13-Ashes to Ashes (David Bowie Cover)
-14-The Hollow
 
-*do not mp3*
-*do not sell*

@@ -1,90 +1,81 @@
 The Smashing Pumpkins
 The Fillmore
-San Francisco, CA, US
+San Francisco, California USA
 2007-07-27
 
-Recordist    : Zero23
-Editor       : Zach Payne <pzane@hotmail.com>
-Location     : ~ 8ft, stage right stacks
-Mic Config   : Binaural
-Source       : CSB > Battery Box (120Hz LC) > R-09 @ 24bit/48kHz
-Edit         : WaveLab V5.01b (fades)
-Tracking     : CD-Wave v1.97
-Encoding     : FLAC v1.1.4 (Level 8) w/ FLAC Frontend v1.7.1
+Video & Editing by MonteLDS
+-----
+Format : NTSC
+Aspect : 16:9 - 720x480 Progressive
+Bitrate Disc 1 : VBR 2 Pas, Min 2.0 Target 5.00, Max 8.00 [Mbps]
+Bitrate Disc 2: VBR 2 Pas, Min 2.0 Target 4.00, Max 8.00 [Mbps]
+Framerate : 29.97 fps
 
-Tracklist:
+Video
+Source : Sony HDR-SR5 1080i > Elecard Converter Studio AVC HD Edition > MPEG2
+Editing : Adobe Premiere Pro CS3
+Authoring: Adobe Encore CS3
 
-01. Intro
-02. 99 Floors
-03. That's the Way (My Love Is)
-04. Superchrist
-05. Doomsday Clock
-06. Today
-07. Starz
-08. Zero
-09. Bullet with Butterfly Wings
-10. Starla
-11. United States
-12. Disarm
-13. Mama
-14. If All Goes Wrong
-15. Happy Birthday [Hill/Hill/Coleman]
-16. Daydream
-17. The Crying Tree of Mercury
-18. To Sheila
-19. Tonight, Tonight
-20. Tarantula
-21. Hummer
-22. Drown
-23. Glass and the Ghost Children
-24. Heavy Metal Machine
-25. Neverlost
-26. 1979
-27. Cherub Rock
-28. (Encore Call #1)
-29. Untitled
-30. (Encore Call #2)
-31. No Surrender
-32. Gossamer
-33. Outro
+Sync with
+Taper: Zero23
+--------
+Audio
+Source: Coresound Binaurals > Battery Box (??? Hz low cut) > Edirol R-09
+Lineage: .wav @ 24/48 > WaveLab V5.01b (48kHz > 44.1kHz, UV22 HR 16bit/Normal)> CD Wave v1.95.1 > FLAC v1.1.4a (Level 8)
+Transferred by: pzane
 
-Running Time: 3:04:59
+Setlist
+---------
 
-Notes:
+Disc 1
+Runtime: 1 hour 21 minutes 45 seconds
 
-- Compiled for release on 2008-04-10
-- Encoded with FLAC v1.1.4 for LMA compatability
+1) 99 Floors
+2) That's the Way (My Love Is)
+3) Superchrist
+4) Doomsday Clock
+5) Today
+6) Starz
+7) Zero
+8) Bullet with Butterfly Wings
+9) Starla
+10) United States
+11) Disarm
+12) Mama
+13) If All Goes Wrong
+14) Happy Birthday
+15) Daydream
+16) The Crying Tree of Mercury
+17) To Sheila
 
-tsp2007-07-27.csb.t01.flac:5904bccb14efd863b5083c4dc8a918f7
-tsp2007-07-27.csb.t02.flac:020568f19c55adb8e9bb5669982fbb2b
-tsp2007-07-27.csb.t03.flac:2a44c58f49ceba1961935649cbc4315a
-tsp2007-07-27.csb.t04.flac:27efbcd013a296dd52446e3d905c1ee9
-tsp2007-07-27.csb.t05.flac:b7527d1ec6f908facc28edd64e53adb5
-tsp2007-07-27.csb.t06.flac:a04f3edd880d9e72890cb89009c7d151
-tsp2007-07-27.csb.t07.flac:94cf6aa3c638f470a4981f7720cd7fb7
-tsp2007-07-27.csb.t08.flac:bce6b7fcbb24f6506dd97dea8638ef94
-tsp2007-07-27.csb.t09.flac:b6ea30703e30c1bb564c58607d088c4f
-tsp2007-07-27.csb.t10.flac:7cbc008813cac4238a5a0af0951c8787
-tsp2007-07-27.csb.t11.flac:abad16b26aa0576d63f50af10ad3afe2
-tsp2007-07-27.csb.t12.flac:186ed01e6b5ab18eedee50ac4a0cc80f
-tsp2007-07-27.csb.t13.flac:9d6f0816fae0011dc239f26dc882848d
-tsp2007-07-27.csb.t14.flac:b8b6bbfa41923990bfb7febfb227cc76
-tsp2007-07-27.csb.t15.flac:2c9fd8caa38aaaecc8ce6cf0f2c895d3
-tsp2007-07-27.csb.t16.flac:e830c8ae2bb669087f3a1c477bd06612
-tsp2007-07-27.csb.t17.flac:1cc97a3d7c0b1beb5bd250c362ea6b3f
-tsp2007-07-27.csb.t18.flac:00b8be52ce3583ce8d559330993d3ed5
-tsp2007-07-27.csb.t19.flac:e4d965c3f4c7aa0f82e9e8755afc5751
-tsp2007-07-27.csb.t20.flac:f8e74eab2db0cdc6ba2263d239c89806
-tsp2007-07-27.csb.t21.flac:d0652fc7c1b544654aa8f6f6227c32f3
-tsp2007-07-27.csb.t22.flac:0bb0b54cca95ef32161ecc805a965948
-tsp2007-07-27.csb.t23.flac:761cb4db12146250abc3073a03c5f8a8
-tsp2007-07-27.csb.t24.flac:48ab761c35e76b7e2e7457c1d30042c2
-tsp2007-07-27.csb.t25.flac:259e771c07e9107f5b3cc5134a15a0a3
-tsp2007-07-27.csb.t26.flac:281fb4514f941b4e042d12a8c0e15761
-tsp2007-07-27.csb.t27.flac:fd57bf17c6cbdd58dc8fca3356b6c936
-tsp2007-07-27.csb.t28.flac:9ff63ab5a767b6fcc15005ec4775c9ee
-tsp2007-07-27.csb.t29.flac:ff263df3ce2e748c79e59fd2e9704e7e
-tsp2007-07-27.csb.t30.flac:401aa0e0b3852c353f85df74e62b35ca
-tsp2007-07-27.csb.t31.flac:c6b34e8eb3afd0eac11eceaaf8b5991e
-tsp2007-07-27.csb.t32.flac:6e56d19080cbcc55da5e2de47d56e8e6
-tsp2007-07-27.csb.t33.flac:aa78999302e068da3bc441470ee46c45
+Disc 2
+Runtime: 1 hour 37 minutes 5 seconds
+
+1) Tonight, Tonight
+2) Tarantula
+3) Hummer
+4) Drown
+5) Glass and the Ghost Children
+6) Heavy Metal Machine
+7) Neverlost
+8) 1979
+9) Cherub Rock
+
+Encore 1:
+
+10) Untitled
+
+Encore 2:
+
+11) Banter
+12) No Surrender
+13) Gossamer
+
+
+Notes
+-----
+This was the 1st show @ the Fillmore that was pro shot. so we might see some of these songs later. Billy was in a very good mood on this Friday night. a lot of short banter. The last banter was the only one long enough that i felt could use its own chapter. I have some wonders about the audio sync being perfect during Drown - 1979. It feels like it goes in & out of sync. some people don't notice it, the rest of the show feels like it is in sync perfectly.
+
+Highlights: This show was pretty smooth. lots of guitar changes. Nice 1979 full band. Last performance of Daydream & The Crying Tree of Mercury @ the Fillmore. lots of panning in this footage to see a lot of the band
+
+A HD 1080i BLU-RAY version currently not available for public circulation but does exist. (I am looking for Asheville shows in HD to trade for)

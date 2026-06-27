@@ -1,56 +1,54 @@
-The Smashing Pumpkins
-Date: 1994-03-25
-Venue: Palmer Auditorium
-City: Davenport, Iowa
+Smashing Pumpkins
+March 25th, 1994
+Palmer Auditorium
+Davenport, IA, US
 
-Taper: unknown  
+source: SS-DSM-6P > TCD-D7 @ 32k
+transfer: DAT clone (unknown generation) > FLAC
+editing: r8brain (resample to 16/44.1), Audacity (amplified channels independently to -0.1db), CDWave (splits), TLH (flac level 8)
 
-Source: AUD -> DAT -> SS mic > D7 -> CDR? -> EAC -> SHN
- 
-Flaws: There are some minor skips at 7:22 and 7:30 on disc 2 track 3.  And this is the most important part because Billy is
-talking about playing a new song for the first time on the entire Siamese Dream tour (which turns out to be B.W.B.W.).   
+01. tape intro / Cherub Rock - 5:24
+02. Quiet - 4:10
+03. Disarm - 3:12
+04. Today - 3:10
+05. Rocket - 5:12
+06. Rhinoceros - 4:24
+07. Siva - 6:27
+08. Drown - 4:52
+09. > Hummer - 6:24
+10. Geek U.S.A. - 6:25
+11. Soma - 6:47
 
-*****************************************************************************
-*     THIS SHOW IS NOT TO BE ENCODED TO ANY LOSSY FORMAT (MP3) OR SOLD!     *
-*****************************************************************************
+12. I Am One (with rant) - 8:40
 
-Tracklisting:
+13. Mayonaise - 7:14
+14. Bullet with Butterfly Wings (abandoned) - 3:28
+	> Bad Moon Rising [CCR] (tease)
+	> Bye June (abandoned)
+	> Communication Breakdown [Led Zeppelin] (tease)
+	> Unchained [Van Halen] (tease)
+15. Bullet with Butterfly Wings - 4:13
 
-Disc 1:
+16. instrumental - 4:36
+	> Spaced (tease)
+	> Suffer (one verse)
+17. Silverfuck - 13:11
+	> Never Let Me Down [Depeche Mode] (one verse)
+	> Over the Rainbow (tease)
+	> Jackboot
+18. Sweet Sweet - 1:43
 
-1. Cherub Rock
-2. Quiet
-3. Disarm 
-4. Today
-5. Rocket
-6. Rhinoceros
-7. Siva
-8. Drown
-9. Hummer
-10. Geek U.S.A.
+TRT: 99:31
 
-Disc 2:
+--notes--
+* this sounds noticeably better than previous versions and does not contain skips in the encores, but still suffers from distortion and brickwalling
 
-1. Soma
-2. I Am One
-3. Mayonaise
-4. Bye June (tease) / Communication Breakdown [Led Zepplin] (tease) / Unchained [Van Halen] (tease)
-5. Bullet With Butterfly Wings
-6. unknown instrumental / Spaced (tease) / Suffer (tease) 
-7. Silverfuck / Jackboot
-8. Sweet Sweet
+* taper pauses between encores
 
-Notes: Well, I'm pleased to say that I was personally on the barricade at this show. I didn't know it at the time, but this
-turned out to be a pretty monumental show. It was the VERY first live performance of B.W.B.W. ever!! A whole 19 MONTHS before
-Mellon Collie was released - and I was only 5 feet away - hehe.  Anyway, this show holds the ONLY known tease of Communication
-Breakdown [Led Zepplin], one of only 4 known teases of Spaced (and recall that Pisces Iscariot wasn't released until
-Oct. 94 - still 7 months from this show), as well as one of the very few versions of Bye June (which you can tell that 
-Billy would've played the whole thing if he could only have remembered it). It also has only one of 3 known teases of
-Unchained [Van Halen]. And it all happened in a matter of 15 minutes. As I said, I didn't know the full meaning of 
-this show at the time, but I'm glad I was a part of it.  
+* first performance of Bullet with Butterfly Wings, although Billy has mentioned that the verse riff floated around as far back as the 1992/93 Siamese Dream sessions in Atlanta
 
-Send any questions to Toadkat9@msn.com
-       
+* Red Red Meat opened
 
+* infinite thanks to BLG for this recording
 
-
+* this is a terrific show from the band's space-psychedelia period [listen for James' raygun], highly recommended if you can deal with the below average sound quality

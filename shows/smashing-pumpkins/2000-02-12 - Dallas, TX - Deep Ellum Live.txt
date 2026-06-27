@@ -1,73 +1,38 @@
-Smashing Pumpkins
-February 12th 2000
-Deep Ellum Live
-Dallas, TX, US
+The Smashing Pumpkins
+2000/02/12 - Deep Ellum Live; Dallas, TX, US 
+ 
+Source: DAT (master)>CDR
+Mic: SSDSM-6S>PA-6LC>D8
+Conversion: CDR>EAC>WAV>FLAC  
 
-SOURCE (AUD#3)
-CSBMod > TCD-D7
+*DO NOT CONVERT TO MP3 OR OTHER LOSSY FORMAT*
+-------------------
 
-TRANSFER
-Tascam DA-20mkII > Marantz PMD670 > Adobe Audition > CD Wave Editor
+Disc 1 (73:15)
+1. Rock On [Essex] 
+2. The Everlasting Gaze 
+3. Stand Inside Your Love 
+4. Blue Skies Bring Tears 
+5. I Am One 
+6. Ava Adore 
+7-8. Glass and the Ghost Children 
+9. I of the Mourning 
+10. Zero 
+11. Heavy Metal Machine 
+12. To Sheila
 
-GENERATION
-DAT(M) > WAV[48khz + 32khz] > WAV[44.1khz] > FLAC
+Disc 2 (51:06)
+1. Cherub Rock 
+Encore 1: 
+2. 1979 
+3. Join Together [The Who] 
+Encore 2: 
+4. Bullet with Butterfly Wings/ Once in a Lifetime [Talking Heads] 
+5. X.Y.U. 
+6. Foxey Lady [Hendrix]   (tease) 
+7. We Love You  
 
-LENGTH
-133:04
+total: 124:21
+---------------------- 
 
-SETLIST
-01. Rock On [Essex]
-02. The Everlasting Gaze
-03. Stand Inside Your Love
-04. Blue Skies Bring Tears
-05. I Am One
-06. Ava Adore
-07. Glass and the Ghost Children
-08. I of the Mourning
-09. Zero
-10. Heavy Metal Machine
-11. To Sheila
-12. Cherub Rock
-13. encore break
-14. 1979
-15. Join Together [The Who]
-16. encore break
-17. Bullet with Butterfly Wings
-18. Once in a Lifetime [Talking Heads]
-19. X.Y.U.
-20. We Love You
-
-NOTES
-Thank you to Arnold Leal for taping and providing his DAT and thank you to Andrew Fogelsong for the transfer. This recording was switched from 48khz SP mode to 32khz LP mode before second encore. All files were resampled to 44.1khz for simplicity, after verifying no frequencies present above 20khz.
-
-MD5 FINGERPRINTS
-532636129e143a44ecce69d740b56ab5 *Smashing Pumpkins 2000-02-12 AUD3 t01 Rock On [Essex].flac
-52ebdeb1eef9b61462f23a887629a8da *Smashing Pumpkins 2000-02-12 AUD3 t02 The Everlasting Gaze.flac
-6417afc7653cfba2a833ade64fdfb7cf *Smashing Pumpkins 2000-02-12 AUD3 t03 Stand Inside Your Love.flac
-a4f1d074de43ddf26ab3a5d8036dde6f *Smashing Pumpkins 2000-02-12 AUD3 t04 Blue Skies Bring Tears.flac
-dd190ac2c780acf2aab01687f26be51e *Smashing Pumpkins 2000-02-12 AUD3 t05 I Am One.flac
-6cfdad957117a6f36adff9d7991ce462 *Smashing Pumpkins 2000-02-12 AUD3 t06 Ava Adore.flac
-cc14984a594deacd2c032c5cee4448ca *Smashing Pumpkins 2000-02-12 AUD3 t07 Glass and the Ghost Children.flac
-0d6e3c280e83b5e78829da9a2a6a4159 *Smashing Pumpkins 2000-02-12 AUD3 t08 I of the Mourning.flac
-e4d1b764c8ea37322af9c4ce3e298ea1 *Smashing Pumpkins 2000-02-12 AUD3 t09 Zero.flac
-99f9a18c4849c81b8319930895cbf8ba *Smashing Pumpkins 2000-02-12 AUD3 t10 Heavy Metal Machine.flac
-0643a6d315bbd86ae2c8922ad3549ef0 *Smashing Pumpkins 2000-02-12 AUD3 t11 To Sheila.flac
-1fd55ab9dd184bb84ea61c93f38dfebb *Smashing Pumpkins 2000-02-12 AUD3 t12 Cherub Rock.flac
-990ca2f06611a9c21be352ed37949727 *Smashing Pumpkins 2000-02-12 AUD3 t13 encore break.flac
-417fba42bf9a74df1ea4abc9df3d233c *Smashing Pumpkins 2000-02-12 AUD3 t14 1979.flac
-0f3678707fa3785291c06f0413fb3836 *Smashing Pumpkins 2000-02-12 AUD3 t15 Join Together [The Who].flac
-37a32a06adc4dfe6c37af93acd8fc7f3 *Smashing Pumpkins 2000-02-12 AUD3 t16 encore break.flac
-99f2532bd5fc645b53df45e18692181e *Smashing Pumpkins 2000-02-12 AUD3 t17 Bullet with Butterfly Wings.flac
-8927cdd5c198ddd1b749954ec3b86b88 *Smashing Pumpkins 2000-02-12 AUD3 t18 Once in a Lifetime [Talking Heads].flac
-e4be600da824613dc62b9bb378383b21 *Smashing Pumpkins 2000-02-12 AUD3 t19 X.Y.U..flac
-348f8951bc29a77fef5220a4941252a6 *Smashing Pumpkins 2000-02-12 AUD3 t20 We Love You.flac
-
-RECORDED BY
-Arnold Leal
-
-TRANSFER BY
-Andrew Fogelsong
-
-DISTRIBUTION
-Nicholas Serra & Members of SPLRA
-2022-03-01
+uploaded to the TSP/Zwan Hub 08/2004 by dsheinem@yahoo.com

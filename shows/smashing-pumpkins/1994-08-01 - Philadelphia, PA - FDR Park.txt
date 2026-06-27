@@ -1,46 +1,46 @@
-Smashing Pumpkins
-August 1st, 1994
-FDR Park - Lollapalooza
-Philadelphia, PA, US
+Tsp1994-08-01
 
-Tapers: Joe Burns (PillgrimsProgress) & Nick 
-Source Masters [8mm] via Joe Burns (Mail) 
-8mm > firewire > Vegas > TMPGEnc Authoring Works 4 
-VBR 2-Pass ~6000kb/s - 2ch - 48khz - LPCM - 704x480 
-Menus/Chapters/Etc 
-   
-01. Geek U.S.A.
-02. Rocket
-03. Disarm
-04. -thanks for staying late for us-
-05. Quiet
-06. I Am One (with rant) > Zero (tease)
-07. Soma
-08. Today
-09. -water break-
-10. Hummer
-11. -never trust a man with a moustache-
-12. Siva
+From SPLRA
+The Smashing Pumpkins
+Date 	1994-08-01
+Venue 	FDR Park
+Location 	Philadelphia, PA, US
+Venue Type 	Unknown
+Unsurfaced Recordings
+AMT #1
+Source 	AUD
+Format 	8mm
+Equipment 	Unknown
+Length 	74m
+Complete? 	No
+Notes 	Cuts/dropouts in Geek USA, and Rocket. VHS(3)>CDR audio transfer circulates. Taper torrented a DVD of the Funkadelic set 10/2005.
+------------------------------------------------------------------------------
+Source info for this fileset:
+Dan Elsen's VID-3>CDR-0 (from DE)>EAC>WAV>FLAC
+...your burned copy will be CDR-1
 
-encore
-13. Stay [Lisa Loeb] (tease)
-14. Cherub Rock
-15. Silverfuck > Over the Rainbow (tease)
-16. -final goodbyes-
-17. Starla > Star Spangled Banner (tease)
+Set:
 
-trt 73:50
+01 Geek U.S.A. 5:04
+02 Rocket 4:11
+03 Disarm 3:56
+04 Quiet 3:19
+05 I Am One
+     Zero (tease)  10:00
+06 Soma 6:38
+07 Today 2:59
+08 banter 2:35
+09 Hummer 6:29
+10 Siva 4:57
+11 banter 0:45
+12 Cherub Rock 4:29
+13 Silverfuck 9:17
+14 Starla 9:09
+----------
+Total time: 73:48
 
-Notes 
---------- 
-** - Source 2 cut off before end of Startla (Rough audio last 4min) 
+Thanks to Dan Elsen for transferring this!
 
-Thanks to PillgrimsProgress (who filmed the center shot) for sending me the masters of both of these sources to clean/mix. 
+Seeded to ZOMB by traveller03 on 2007-04-13
 
-DVD authored from masters w/ menus/chapters/etc. 
-
-Compiled by -Copperpot5 
-March 2015 
-
-* most of this show is the same recorder as the VHS-3 > CDR transfer previously circulating
-* there are some small patches from the second camera's audio (the center/far angle)
+Enjoy!

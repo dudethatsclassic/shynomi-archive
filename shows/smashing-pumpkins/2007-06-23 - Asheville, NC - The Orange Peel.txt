@@ -1,85 +1,48 @@
 The Smashing Pumpkins
 The Orange Peel
-Asheville, NC, US
-2007-06-23
+Asheville, NC
+Saturday June 23, 2007
 
-Recordist    : Zach Payne <pzane@hotmail.com>
-Location     : ~ 40 feet, stage left stack
-Mic Config   : Clamped to pole (~7ft), DINA (17cm, 90°)
-Source       : Schoeps MK4 > Nbox+ > Edirol R-09 @ 24bit/48kHz
-Edit         : WaveLab V5.01b (fades)
-Tracking     : CD-Wave v1.97
-Encoding     : FLAC v1.1.4 (Level 8) w/ FLAC Frontend v1.7.1
+Taper:		Jim Pollack
 
-Tracklist:
+Source:		Neumann KM140s (DIN) -> SD 744T
 
-01. Intro
-02. United States
-03. Doomsday Clock
-04. Bleeding the Orchid
-05. Today  
-06. Bullet with Butterfly Wings
-07. Glass and the Ghost Children
-08. Home
-09. Hummer
-10. Lucky 13
-11. (Come On) Let's Go!
-12. Blue Skies Bring Tears
-13. For God and Country
-14. Daydream
-15. Rocket
-16. 1979
-17. Question Mark
-18. Translucent
-19. Starla
-20. Tonight, Tonight
-21. Tarantula
-22. Starz
-23. Zero
-24. Disarm
-25. Gossamer
-26. (Encore Call #1)
-27. Shame
-28. Silverfuck
-29. (Encore Call #2)
-30. With Every Light
-31. Outro
+Location:	~ 40 feet back, DFC, Clamped to SBD Rail (~4' high)
 
-Running Time: 2:49:18
+Conversion:  	SD744T -> CD Wave (tracking) -> 
+		Wavelab 5 (joining split tracks) -> FLAC 
 
-Notes:
+1)  Intro
+2)  United States
+3)  Doomsday Clock
+4)  Bleeding the Orchid
+5)  Today 
+6)  Bullet with Butterfly Wings 
+7)  Glass and the Ghost Children
+8)  Home
+9)  Hummer
+10) Lucky 13
+11) (Come On) Lets Go!
+12) Blue Skies Bring Tears
+13) For God and Country
+14) Daydream
+15) Rocket
+16) 1979
+17) Question Mark
+18) Translucent
+19) Starla
+20) Tonight, Tonight
+21) Tarantula
+22) Starz
+23) Zero
+24) Disarm
+25) Gossamer
+-----ENCORE 1-----
+26) Shame
+27) Silverfuck *
+-----ENCORE 2-----
+28) With Every Light
 
-- Compiled for re-release on 2008-04-07.
-- Encoded with FLAC v1.1.4 for LMA compatability
+* "The End" tease
 
-tsp2007-06-23.mk4.t01.flac:24747e3686eff807455c322154d20ac8
-tsp2007-06-23.mk4.t02.flac:7ddc746ee58ea0c7b83ed26c79946da2
-tsp2007-06-23.mk4.t03.flac:8b3bf56a6def9c8be798427f7ae49248
-tsp2007-06-23.mk4.t04.flac:cd5bdd92714bc72b08a0c9586f726de1
-tsp2007-06-23.mk4.t05.flac:7d59848e97c5b525f69a833f1aa1ca17
-tsp2007-06-23.mk4.t06.flac:1b1f989e2f55f9b47eee44eaa2479d49
-tsp2007-06-23.mk4.t07.flac:b83264fb8fc72384bbeec0bcfe148ecd
-tsp2007-06-23.mk4.t08.flac:7c475e08c16640602479f28373f89c43
-tsp2007-06-23.mk4.t09.flac:faa61f6630c6f18db32411b342ea61e0
-tsp2007-06-23.mk4.t10.flac:203c58aa14ba0deea405fc2813b15be8
-tsp2007-06-23.mk4.t11.flac:1731a3cfc3e68036d5752f02265887b4
-tsp2007-06-23.mk4.t12.flac:0bac64a282cf9bdc24b9dac013bbd6ea
-tsp2007-06-23.mk4.t13.flac:f16092d822f264854e63a114a48a6969
-tsp2007-06-23.mk4.t14.flac:901828fb713b457ab094106b4dc36e94
-tsp2007-06-23.mk4.t15.flac:1f91db701a621e0f2f7d6a6080ab8b92
-tsp2007-06-23.mk4.t16.flac:d4ecc7549481bbe60fcd880d9d665df9
-tsp2007-06-23.mk4.t17.flac:b82fac2b3ba2f0be0728156a40c07dc7
-tsp2007-06-23.mk4.t18.flac:879565ad3a0c16d1c566055fa99d50ea
-tsp2007-06-23.mk4.t19.flac:fd8bde7583c8cff65e8076e18b052fe5
-tsp2007-06-23.mk4.t20.flac:6907f9797d4cbb94eff3b8c21ca00088
-tsp2007-06-23.mk4.t21.flac:9f162617d0d4bfe50a5d34def0d6f5b6
-tsp2007-06-23.mk4.t22.flac:ad079371ae95f9b07ae0820b30efbf2e
-tsp2007-06-23.mk4.t23.flac:705857e00f609c52e845398717fa74e6
-tsp2007-06-23.mk4.t24.flac:fefe3fa14434d82d4d6584fe66d091ef
-tsp2007-06-23.mk4.t25.flac:fed325fa0f9c0949ae0cb20ebd893ced
-tsp2007-06-23.mk4.t26.flac:f28bca9cedba6eeffb3944b04b10fead
-tsp2007-06-23.mk4.t27.flac:fa834a21444a35897937877d0476b9eb
-tsp2007-06-23.mk4.t28.flac:a3f380eb5773751e466a06028cbd1541
-tsp2007-06-23.mk4.t29.flac:9cdb1f5fa18278726ca148dc0c7b9962
-tsp2007-06-23.mk4.t30.flac:e644f0ee97f7be842daadd539eaf936d
-tsp2007-06-23.mk4.t31.flac:a2dfacd2c412a6970e1a902756476cec
+compiled by Nick Gregory on 8/3/07

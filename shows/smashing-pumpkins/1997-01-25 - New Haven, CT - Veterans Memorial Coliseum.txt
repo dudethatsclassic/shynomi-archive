@@ -1,52 +1,51 @@
-1997.01.25 - New Haven Veterans Memorial Coliseum, New Haven, CT
+Smashing Pumpkins
+January 25th, 1997
+Veterans Memorial Coliseum
+New Haven, CT, US
 
-Taper:            ?
-Generation:       ANA-3? (see below)
-Source:           ? (see below)
-Location:         ?
-flaws:            varying levels; two small dropouts during Porcelina; tape flip during Porcelina/Rocket; cut between Rocket and 1979; cut during 1st encore break and beginning of Spiders; tape flip during transition from Cherub Rock to Silverfuck
-Conversion:       Sony TC-WE625S > SGI Octane2 > Audition 3 > CDWave > flac
-Resampling:       none; show A/D converted at 44.1k
-Editor:           Henry Bent
-Editing:          none
-SHN:              Master WAV > flac 1.2.1 (level 8)
+source: AT-822 > TCD-D7
+transfer: DAT(M?) > ANA-1 > Sony TC-WE825S > Tascam DA-20MKii (A>D @ 44.1kHz) > Monster coax > Delta Dio 2496 > FLAC
+unknown taper, transferred by Fogelsong
 
-Tracklist:
+patch source: unknown audience analog
+transfer: ANA-? > Sony TC-WE625S > SGI Octane2 > FLAC
+unknown taper, transferred by Henry Bent
 
-01 - MCIS (over PA)                                      3:27
-02 - The Aeroplane Flies High >                          8:42
-03 - Jellybelly                                          3:26
-04 - Tonight, Tonight                                    4:32
-05 - Rhinoceros                                          7:10
-06 - Zero                                                2:23
-07 - Fuck You                                            5:30
-08 - Porcelina > (cut)                                  11:16
---tape flip--
-09 - Rocket (cut)                                        1:44
-10 - 1979 (with Jimmy Frog) and noodling                 7:42
-11 - Thirty-Three                                        4:26
-12 - Bullet with Butterfly Wings                         4:57
-13 - Muzzle                                              4:22
-14 - Disarm                                              3:39
-15 - Thru the Eyes of Ruby                               9:43
---tape flip--
-16 - Spiders (tease) (cut)                               1:30
-17 - Landslide (tease)                                   0:48
-18 - Tristessa, Soma, Last Song (teases)                 1:20
-19 - X.Y.U. (and encore break)                          13:13
-20 - Cherub Rock >                                       4:34
---tape flip--
-21 - Silverfuck >                                       16:06
-22 - Space Jam                                           6:09
+patch source provides:
+t09 Porcelina / Rocket (12:48 - end)
+	[there may still be some space missing between tracks 9 and 10 that was not on either source]
 
-This is AUD #2, a previously uncirculating ANA source of this
-show.  It isn't an improvement over the DAT source so this is
-one for completists only.
+crossfades in Audacity, retracking in CDWave, encode and SBE align via TLH
 
-The ANA noise at the beginning of the tape leads me to think
-that this is ANA-3, but that is only a guess.
+01. Mellon Collie and the Infinite Sadness (PA intro) - 3:06
+02. The Aeroplane Flies High - 8:05
+03. Jellybelly - 3:22
+04. Tonight, Tonight - 4:18
+05. Rhinoceros - 5:43
+06. banter - 1:02
+07. Zero - 2:15
+08. Fuck You - 5:13
+09. Porcelina of the Vast Oceans > Rocket (tease) - 13:03
+10. banter - 0:54
+11. 1979 - 4:30
+12. banter - 2:17
+13. Thirty-three - 4:10
+14. Bullet with Butterfly Wings - 4:41
+15. Muzzle - 4:03
+16. Disarm - 3:32
+17. Thru the Eyes of the Ruby - 9:13
+18. encore break - 2:40
 
-The levels were noticeably different on each tape side.  I
-did not make any attempt to correct this.
+encore one
+19. tease medley: Spiders, Landslide, Tristessa, Soma, the Last Song - 3:58
+20. X.Y.U. - 9:33
+21. encore break - 2:50
 
-Any questions, comments - hbent@cs.oberlin.edu
+encore two
+22. Cherub Rock - 4:12
+23. Silverfuck > Space Jam - 22:34
+
+TRT 125:12
+
+don't sell, etc
+-rhinowing

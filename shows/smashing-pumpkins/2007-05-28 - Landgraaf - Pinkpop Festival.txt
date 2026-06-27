@@ -1,75 +1,61 @@
-Smashing Pumpkins
-2007-05-28
-Landgraaf
-Pinkpop Festival
+The Smashing Pumpkins - 2007-05-28 Pinkpop 2007 Festival, Landgraaf, NL (PRO)
 
+Disc 1 of 1 (~1:43:17)
 
-****************************
-Don't sell it, never buy it.
-****************************
+Setlist:
 
-You can convert in mp3 if you want for personnal use. 
-But remember, mp3 is bullshit
+01 3voor12 Intro
+02 Suspiria Intro
+03 Today
+04 Bullet With Butterfly Wings
+05 United States
+06 Bleeding The Orchid
+07 Tonight, Tonight
+08 Tarantula
+09 Starz
+10 Zero
+11 Glass And The Ghost Children
+12 For God And Country (missing due to 3voor12 error)
+13 Thirty-Three (intro missing due to 3voor12 error)
+14 To Sheila
+15 Stand Inside Your Love
+16 Cherub Rock
+17 1979
+18 Disarm
+19 Untitled
+20 Encore Break
+21 Gossamer
 
-********************************************************
-Do not distribute in any lossy form(mp3, ogg, wma...)
-********************************************************
+Source:
 
+3voor12 Digital TV via Athome/Ziggo > Samsung DCB 9401-R > Panasonic DMR-EH65 XP/FR (Highest Quality) > DVD Decrypter
 
-Many bass guitar. 
-Too many for each shows. 
+Video:
 
+Compression: MPEG-2
+Aspect Ratio: 4:3
+Resolution: 720x576 (PAL)
+TV System: PAL 625/50 Hz/25 fps
+Data Rate: 9282000 bps
 
-Everything else is good.
+Audio:
 
+Compression: AC3
+Sampling Frequency: 48 kHz
+Bit Rate: 384 kbps
+Audio Coding Mode: 2/0
+Channels: 2
+Low Frequency Effects: No
+Dolby Surround Mode: Not Indicated
 
-There's no fade out after track17, and no fade in before track18.
-Do what you want there.
-Main set is more than 79'. You can cut where you want.
+Notes:
 
+Unfortunately 'For God And Country' and 'Thirty-Three' are (partly) missing due to an 3voor12 error and there are several (audio) drop-outs throughout the broadcast. This is the plain recording just as I received it, please take it as is.
 
-Many thanks for Amande, who makes the setlist, 
-I didn't have enough energy for it.
-Many thanks for everybody who shared his Paris recording, 
-I was there, but my micro broke.
+Thanks Leo for recording this broadcast, and thanks Arthur for spfreaks.com!
 
+--
+'to Rock!! for you'
+(Cherub Rock/Siamese Dream '93),
 
-OKMII -> 
-A3(-20dB, bass frequence cut) -> 
-MZ-RH10 Hi MD ->
-Sonicstage 4,3(Wav) ->
-Audacity(normalisation) ->
-CD Wave(tracksplit) ->
-Db Power Amp(flac8)
-
-
-Setlist : 
-
-Main set : 81'32
-
-01 - Today				03:27
-02 - Bullet with butterfly wings	04:40
-03 - United States			10:23
-04 - Bleeding the Orchid		04:31
-05 - Tonight, tonight			05:26
-06 - Tarantula				03:57
-07 - Starz				04:17
-08 - Zero				02:17
-09 - Glass & the ghostchildren		08:41
-10 - For God and country		03:55
-11 - 33					04:02
-12 - To Sheila				04:35
-13 - Stand Inside your love		03:55
-14 - Cherub rock			04:23
-15 - 1979				04:23
-16 - Disarm				03:02
-17 - Untitled				
-
-
-Change MD
-[Encore cut]
-
-
-Second set : 22'33
-
-18 - Gossamer				22:33
+Jeroen

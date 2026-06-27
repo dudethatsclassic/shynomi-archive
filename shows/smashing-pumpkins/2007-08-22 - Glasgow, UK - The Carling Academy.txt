@@ -1,83 +1,31 @@
-The Smashing Pumpkins
-Carling Academy
-Glasgow
-Scotland
-22nd August 2007
+Smashing Pumpkins
+2007-08-22
+The Carling Academy, Glasgow, UK
 
-.."An evening with the Smashing Pumpkins"..
+An Evening with the Smashing Pumpkins, recorded live at the Carling Academy in Glasgow on August 22nd 2007.
+Recorded from the Balcony, 4th row centre.
+Stereo mics with battery box onto Sony MZR-500 in LP2 mode.
+Transferred optically to PC and EQd in Soundforge.
+Incomplete as unfortunately my MD player failed approximately 19 minutes in (near the end of Hummer).
+Taped & edited by Jambo.
 
-Supported by Twilight Sad
+Downloaded as a 119MB FLAC file.
+Track splits with CD Wave Editor.
+Files renamed, tagged with Winamp 5.35.
+Added checksums and info text.
 
-Taper - jadg2
-Position - FOB, drinks rail centre, 2m back.
+Source: Stereo mics (WM-61A) > battery box > Sony MZR-500
+Transfer: Sony MZR-500 > optical out > WAV
+Edit: WAV > EQ in Soundforge > FLAC > CD Wave Editor (track splits) > file rename > Winamp 5.35 (tags) > FLAC
+Lineage: MD(m) > WAV > FLAC
 
-Source - Core Sound Binaurals > Core Sound Battery Box w/ bass filter flat > Edirol R-09 (24-bit, 48kHz)
+Set:
 
-Transfer - Edirol R-09 > USB >  Wav > Digital Editing > Wav > FLAC (lvl8, verify)
+01. (intro)  0:58
+02. Superchrist  5:40
+03. Doomsday Clock  3:33
+04. That's the Way (My Love Is)  3:19
+05. Hummer (cut)  5:21
 
-Editing - EQ in SonicStage Mastering Studio, tracking in Audacity.  
-
-*24-bit - not for CD use*
-
-01. Intro
-02. Superchrist
-03. Doomsday Clock
-04. That's the Way (My Love Is)
-05. Hummer
-06. Drown
-07. Bullet with Butterfly Wings
-08. United States (w/ Star Spangled Banner tease)
-09. Glass and the Ghost Children
-10. 1979 (acoustic)
-11. The Crying Tree of Mercury
-12. To Sheila
-13. Tonight, Tonight
-14. Starz
-15. Zero
-16. Heavy Metal Machine (w/ White Rabbit tease) 
-17. Shame
-18. Tarantula
-19. Today
---------------
-20. Starla
------------------
-21. Death from Above
-22. Silverfuck 
-
-Total time - 2hr 14min 28sec
-
-Notes - Muzzle was on the setlist, but not played.  Talked to the opening band and apparently the pumpkins had been practising for hours on the day of the performance already.  
-
-Editing Notes - Bass roll-off at 120Hz, with additional attenuation of -2.0db, -1.0db at 134Hz with bandwidth of 2.0.  Amplitude boost of 1.6db and Oxford inflator plug-in with 5.0db input boost, 60% effect and -10 curve.  
-
-Do not sell 
-Do not convert to lossy formats
-
-* Support the bands involved *
-
-
-Fingerprints: 
-
-tsp-2007-08-22-tr01.flac:73858db1bf745293e491b10e7e6a338f
-tsp-2007-08-22-tr02.flac:c070ede2e4cd9d0b276f297f7ea233ad
-tsp-2007-08-22-tr03.flac:60ed2f5440b781cc9e62f00038f6515f
-tsp-2007-08-22-tr04.flac:5b1beb60930b67a29804ebcaf7550c94
-tsp-2007-08-22-tr05.flac:3a1cb845cc7cfe0105163a3f62e04d2a
-tsp-2007-08-22-tr06.flac:1c8b12d589c15ab75c2861c19cab1131
-tsp-2007-08-22-tr07.flac:f593be0e8c4408ffccc4df54b5c2a279
-tsp-2007-08-22-tr08.flac:fb4cd1e57f7589dd7d34fe60083547a1
-tsp-2007-08-22-tr09.flac:c2b52d5c8a17d68561e783a5e0b3bdfa
-tsp-2007-08-22-tr10.flac:6e3428669622678747dc88044981ae3c
-tsp-2007-08-22-tr11.flac:3bcb0b374a826f4996414887f7466a51
-tsp-2007-08-22-tr12.flac:d3538d94620139e01ab264fea976a1c1
-tsp-2007-08-22-tr13.flac:c667cb9c7c5f35af86d539a966055a3a
-tsp-2007-08-22-tr14.flac:4ceecd8bb8af79586285f62e90606da7
-tsp-2007-08-22-tr15.flac:faffed273b5ee2f3974b18e281aca3d9
-tsp-2007-08-22-tr16.flac:2125eb81611f057bd4e3ab9dbe12dd1a
-tsp-2007-08-22-tr17.flac:26294b0446e0d27ded6c5769917bd999
-tsp-2007-08-22-tr18.flac:fa92a279312973912a7bfcecf2937cca
-tsp-2007-08-22-tr19.flac:20140558ced12a1abf9116fa07427dbd
-tsp-2007-08-22-tr20.flac:96fe7d55d1941cda4021f384e8c5acf3
-tsp-2007-08-22-tr21.flac:bb0922a914123fdfebe34ecbacac1581
-tsp-2007-08-22-tr22.flac:e18426b49a41b9f0d8669739cd2ac33f
-tsp-2007-08-22-tr23.flac:4c1feb3f12a3cdaf921549ec6ed74071
+Thanks to archive.org for hosting the original file.
+Thanks to the taper, Jambo, for sharing.

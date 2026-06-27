@@ -1,31 +1,9 @@
-*A thir13en Matrix* 
+*A thir13en remaster*
 
-Smashing Pumpkins 
-2000-09-23 Arena, Oberhausen, Germany 
+The Smashing Pumpkins
+2000-09-23 Arena, Oberhausen, DE
 
-On the AUD, the "pumping" of compression that's fighting the recording device is triggered mostly by the drums, and mostly in the electric section of the show. In the blend it added an interesting effect to the drums, as there is a kit-strike followed by a slight delay as the device get's hit, then responds slowly, creating a slap-back effect on the kit. I controlled it by using my own compression on the AUD. It's still there in spots, though much less obvious. At this point, it sounds like a natural effect of the room, probably a lot like the experience of being in the crowd, toward the back. 
-All in all, the AUD gave the SBD some needed ambience and depth, and the vocals and guitars both were supplemented into fuller and more well-rounded spectrums. Plus the crowd chatter, whoops and claps. 
-
-AUD SOURCE 
------------ 
-Taper: ?? 
-Source: AUD > DAT > OKM-II (Rock) > SBM1 > M1 > ?? > CD-R? > EAC > FLAC 
-
-SBD SOURCE 
----------- 
-Taper: 34 
-Source: SBD > M1 
-Conversion: DAT > CDR-? 
-FLAC: EAC 0.95 beta 4 (offset corrected) > WAV > FLAC (level 8) 
-
-thir13en Process 
----------------- 
-SOURCES>Waves>Vegas> 
-SBD> EQ, Comp (light), BBE-SMII (bottom-end enhanced). 
-AUD> Comp (medium), EQ, S1 (stereo spread). 
-Master> L3 maximized. 
-Flac'd, tagged, ASB'd using Flac Frontend (level 7) 
-******************************************************************************** 
+FLAC > WAV > 13'd (eq>BBE>L3) > FLAC
 
 Tracks:
 
@@ -52,17 +30,19 @@ Tracks:
 19. Porcelina of the Vast Oceans 
 20. I of the Mourning 
 21. This Time 
-22. {encore break}
-23. 1979 
-24. {band introduction}
+22. 1979
+    > {band introduction}
     > Blew Away (tease) 
-25. Cherub Rock
+23. Cherub Rock
+    > (jam) 
 
-Thanks to mixwell for this show.
+Pre-thir13en source info:
+Taper:            34
+Source:           SBD > M1
+Conversion:       DAT > CDR-?
+FLAC:             EAC 0.95 beta 4 (offset corrected) > WAV > FLAC (level 8)
+
 Notes:
 I left an untouched copy of the original info file as I received it.
 I added tags in Winamp 5.34, created ffp and st5 checksums, and added a spectral analysis.
-
-Seeded to ZOMB Torrents by ognetty 2007-05-01.
-
-*For Heather*
+This is one hell of a piece of work. From a good source, despite being a little on the thin side, it now has vitality and range. The beef has been turned up and the highs are crystal clear. Listen for Jimmy's cymbals throughout, and gain appreciation for what the thir13en remasters can do for your listening pleasure. This is a treat, amongst the finest remasters around, no question.

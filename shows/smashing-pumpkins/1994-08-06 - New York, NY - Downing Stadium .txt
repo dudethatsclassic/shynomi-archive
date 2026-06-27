@@ -1,36 +1,35 @@
-The Smashing Pumpkins
-1994/08/06 - Downing Stadium; Randalls Island, NY, US 
+Smashing Pumpkins
+August 6th, 1994
+Downing Stadium (Randall's Island)
+New York, NY, US
 
-Source: VID-1>DAT[M1]>CDR (unknown gen but probably low)>EAC>WAV>FLAC      
+Source: Audience shot > VHS-?
+Transfer: Magnavox ZV427MG9 Standalone > DVDr > DVD Shrink 2.3 (removed generic SA menu, no re-encoding)
 
-Notes/ Flaws: There is a tiny dropout at 5.42 of "I Am One"
+01. I Am One
+02. Rocket
+03. Rhinoceros
+04. Quiet
+05. Cherub Rock
+06. Soma
+07. Geek U.S.A.
+08. Disarm
+09. Today
+10. Silverfuck > Bye June > Over the Rainbow
 
-*******************************************************************************************************
-		PLEASE DO NOT ENCODE TO MP3 OR SELL.
-*******************************************************************************************************
+11. Hummer
+12. Starla
+13. Sweet Sweet
 
-01  I Am One   (with rant) 	 9:36
-02 Rocket 	 4:08
-03 Rhinoceros 	 4:57
-04 Quiet 	
-     Cherub Rock	7:40 
-05 Soma 		 7:20
-06 Geek U.S.A. 	 5:08
-07 The Sign [Ace of Base]   (tease) 
-     Disarm 	 4:16
-08 Today 	 2:57
-09 Silverfuck 
-> Bye June   (tease) 
-> Over the Rainbow [Harburg/Arlen]   (tease) 	11:52
-10 Hummer 	 8:40
-11 Starla 		10:39
-12 Sweet Sweet  	 1:36
-----------------------------------------------------------------------------------------
-Total time: 78:49
+TRT: 79:08
 
-For the details on FLAC and the software needed to decompress these files go to:
-http://wiki.etree.org/index.php?page=FLAC
+720 x 480 NTSC
+4321 kbps avg
+256k AC3 audio (stereo)
 
-Enjoy!
+final performance of Sweet Sweet
+no menu, auto chapters
+thanks to Josh Provost for sending me his tapes to transfer
 
--traveller03
+Don't sell, etc
+-rhinowing

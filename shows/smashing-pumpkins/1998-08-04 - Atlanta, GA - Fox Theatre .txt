@@ -1,82 +1,20 @@
 Smashing Pumpkins
-August 04, 1998 (late)
-Fox Theatre
-Atlanta, GA
 
-Recordist	: unknown
-Source		: FM Broadcast (99X - Atlanta, GA) > DAT
-Recorded Format	: 16 bit, 48 kHz
-Conversion	: DAT > Philips CDR770 > CDR(0) > EAC > Range .wav
-Editing		: none
-Dither       	: none
-Final Format 	: 16 bit, 44.1 kHz *
-Tracking	: CD Wave
-Compression	: FLAC v1.1.2, FLAC Frontend v1.7.1, Level 8, Sector Boundaries Aligned
+1998/08/04 - (unknown venue); New York City, NY, US
+"Live with Regis & Kathie Lee" television program.
 
- * It is unknown how the sample rate was converted from 48 to 44.1 kHz.
+Lineage: [TV/VHS] VHS-M>CDR
 
- Track re-naming, MD5, FLAC Fingerprint, text file, and uploading to the Live Music Archive by Tim Burke (tburke@upstatetapers.org) on August 11, 2008. 
 
- 138m 09s
- t01. To Sheila
- t02. Behold! The Night Mare
- t03. Pug
- t04. Crestfallen
- t05. Ava Adore
- t06. Tear
- t07. Annie-Dog
- t08. Perfect
- t09. Thru The Eyes Of Ruby
- t10. Tonight, Tonight
- t11. Once Upon A Time * 
- t12. The Tale Of Dusty And Pistol Pete
- t13. Where Boys Fear To Tread (tease) >
- t14. Zero (tease) > 
- t15. Bullet With Butterfly Wings
- t16. Shame
- t17. For Martha
-Encore One:
- t18. 1979
- t19. Summertime [Gershwin/Heyward] (tease) > 
- t20. Blank Page
-Encore Two:
- t21. Transmission [Joy Division] > 
- t22. Let's Dance [David Bowie] (tease)
 
-Notes:
- There are three dropouts in 'To Sheila' at 00:17, 00:19 and 00:20.
- * Billy solo on acoustic guitar and vocals.
- Earlier in the day the band performed on the television program 'Live With Regis And Kathy Lee'.
+Setlist:
 
-Personnel: 
- Kenny Aronoff - drums
- Billy Corgan - guitar, vocals
- Mike Garson - piano, keyboards, synthesizer
- Stephen Hodges - percussion
- James Iha - guitar, vocals
- Dan Morris - percussion
- D'arcy Wretzky - bass guitar, vocals
+Perfect
+Tear (tease)
+(interview)
 
-FLAC Fingerprint
-SmashingPumpkins1998-08-04t01.flac:167d12f66d74e246f94ea7cefd89b556
-SmashingPumpkins1998-08-04t02.flac:c70b360e9ab0035adc33a9078dc87dce
-SmashingPumpkins1998-08-04t03.flac:172b5ea3cd4ef8ee849471a3163b4ba0
-SmashingPumpkins1998-08-04t04.flac:3d1f2bd5516d6a743ba8f129a6259fae
-SmashingPumpkins1998-08-04t05.flac:7611a9a52cf7004d57c889b0143b420a
-SmashingPumpkins1998-08-04t06.flac:9d0bede36df27e197ae337a0c5695fbc
-SmashingPumpkins1998-08-04t07.flac:c11088c7ae19aa798ce6dd12eb3ec03b
-SmashingPumpkins1998-08-04t08.flac:632d8acddf63a7e796bcdda43066a5d1
-SmashingPumpkins1998-08-04t09.flac:60690b1eb0c4a1c215bae0ef157a9d6b
-SmashingPumpkins1998-08-04t10.flac:481d8b0dfe07d9f4c78ce80f556fdc13
-SmashingPumpkins1998-08-04t11.flac:7e644b9a90a6784e3d0a1f65e28a8e12
-SmashingPumpkins1998-08-04t12.flac:d8d527b6290fdd905dd2682b78808cef
-SmashingPumpkins1998-08-04t13.flac:93c1de8712a5f326775581a61badadad
-SmashingPumpkins1998-08-04t14.flac:60bc012a6b678afa0e9504eea96e939f
-SmashingPumpkins1998-08-04t15.flac:96dba74c40426f14c269a30b8f232d72
-SmashingPumpkins1998-08-04t16.flac:c9dfc52323615f9f727883ac5dc0034d
-SmashingPumpkins1998-08-04t17.flac:81dc204a9a0bc906d3b28c21f2731b1d
-SmashingPumpkins1998-08-04t18.flac:78c08a620cadc3aefd311709cb403c6c
-SmashingPumpkins1998-08-04t19.flac:03bc034f0c824e4f9181ed5f6070082a
-SmashingPumpkins1998-08-04t20.flac:3e81f1c9e8bd024857f20216eccb3449
-SmashingPumpkins1998-08-04t21.flac:f5c639e7a9764868fd3feb2aba637266
-SmashingPumpkins1998-08-04t22.flac:6f1552d2810f5ae8df27694a736e11b7
+
+
+Notes: 
+	Once Upon a Time was performed but not broadcasted.
+

@@ -1,35 +1,34 @@
 Smashing Pumpkins
-September 6th, 1996
-Civic Arena
-Pittsburgh, PA, US
+Civic Arena - Pittsburgh, PA, US
 
-AUD (possibly from unknown DAT?) > ANA-L > CDR-1 (from DE) > EAC > WAV > dEdit(remove micro gaps from original transfer) > FLAC
+AUD (ana)
+
+Length-120 min.
+
+Ripped by zwanfan401@yahoo.com
+
+Setlist:
+
+Disc-1
 
 01. Where Boys Fear to Tread
 02. Zero
 03. Cherub Rock
 04. To Forgive
-05. Tonight, Tonight
+05. Tonight Tonight
 06. Today
 07. Thru the Eyes of Ruby
 08. Disarm
-09. Bullet with Butterfly Wings
+09. Bullet With Butterfly Wings
 10. Fuck You
 11. Porcelina of the Vast Oceans
 12. Muzzle
 
-13. tease medley: Bury Me / Tristessa / Crush / Snail / Drown / Starla / Siva
-14. Siva
-15. -banter-
-16. X.Y.U. > Communication Breakdown [Led Zeppelin] (tease)
+Disc-2
 
-17. 1979
-18. -banter-
-19. Bodies
-20. Silverfuck > Space Jam (tease)
-
-trt 124:56
-
-"Just for you, just so you don't go on the fucking internet and tell everyone what a fucking asshole I am, we will play you a medley of old hits" - BC
-* originally came as two large flac files with cue sheets, I split this with CDWave and fixed some weird tracking during the first encore
-* this is traveller03's dEdit (gap removal)
+01. Siva
+   ->In-A-Gadda-Da-Vida [Iron Butterfly] (tease)
+02. X.Y.U.
+03. 1979
+04. Bodies
+05. Silverfuck

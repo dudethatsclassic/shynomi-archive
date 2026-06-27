@@ -1,35 +1,34 @@
 Smashing Pumpkins
-Reading Festival
-England
-26th August 2007
+Reading Festival, UK 
+2007-08-26
 
-5 songs broadcast as part of Radio 1 five hour highlights package broadcast on 27th August 2007 and the Zane Lowe show on 29th August 2007.  
+Audience DVD
 
-1. Today
-2. That's the Way (My Love Is)
-3. Tarantula
-4. Death From Above
-5. Tonight Tonight
+Set:
 
-Lineage:
+    * Superchrist
+    * Doomsday Clock
+    * Today
+    * Tarantula
+    * Drown
+    * Stand Inside Your Love
+    * Zero
+    * United States
+          o Star Spangled Banner [Key] (tease) 
+    * Bullet with Butterfly Wings
+    * Glass and the Ghost Children
+    * 1979
+    * Death from Above
+    * Tonight, Tonight
+    * Thats the Way (My Love Is)
+    * Heavy Metal Machine
+          o White Rabbit [Jefferson Airplane] (tease) 
 
-Digital Satellite Broadcast at 192 kbps>Sky+ receiver>iRiver iHP120 (Rockboxed, Wav)>PC>
-Audacity 1.3 beta (fade-in/fade-out)>CDWave (Track splits)>Shntool (Fix SBE, postpad)>FLAC
+Encore:
 
-Notes:
+    * Cherub Rock 
 
-First two songs listed are taken from the broadcast on the 29th, the other 3 from the 27th.  
-I believe Today was also broadcast on the 27th at the start of the five hour programme separate from the other 3 songs broadcast on this date 
-- I missed the start, but luckily it was broadcast again on the 29th.    
 
-I believe that the songs are not in the order they were played live - 
-it would have been too messy to rearrange it all for an incomplete show and would be beyond my basic audio editing ability.  
+notes: This was bought off Ebay to get it out there to the true fans who don't sell dvd's. Thanks go to New Art Rioter who also bought a copy. Quality and sound isn't bad. A few dodgy taper moments and crowd singing but watchable. 
 
-I receive BBC Radio 1 via digital satellite in the UK at 192 kbps 
-(see http://www.digitalradiotech.co.uk/uk_satellite_bit_rates.php)  
-Hence I thought it was justified under Dime's rules from Digital Satellite broadcasts to post this, 
-as my FM reception was poor on the nights of the broadcasts,so I decided to record it this way rather than have a sub-par FM recording.   
-I have no way of capturing the broadcast in the original broadcast codec, hence the method of recording wav via my iRiver.  
-
-If anyone has an FM upgrade please post.
-
+Purchased and upped by Spaldz

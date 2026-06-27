@@ -1,13 +1,13 @@
-01. Ecstasy Of Gold.flac:  successfully fixed/rewritten to '01. Ecstasy Of Gold-fixed.flac'.
-02. Blackened.flac:  successfully fixed/rewritten to '02. Blackened-fixed.flac'.
-03. For Whom The Bell Tolls.flac:  successfully fixed/rewritten to '03. For Whom The Bell Tolls-fixed.flac'.
-04. Welcome Home (Sanitarium).flac:  successfully fixed/rewritten to '04. Welcome Home (Sanitarium)-fixed.flac'.
-05. The Four Horsemen.flac:  successfully fixed/rewritten to '05. The Four Horsemen-fixed.flac'.
-06. Harvester Of Sorrow.flac:  successfully fixed/rewritten to '06. Harvester Of Sorrow-fixed.flac'.
-07. Eye Of The Beholder.flac:  successfully fixed/rewritten to '07. Eye Of The Beholder-fixed.flac'.
-08. Jason's solo.flac:  successfully fixed/rewritten to '08. Jason's solo-fixed.flac'.
-09. To Live Is To Die jam.flac:  successfully fixed/rewritten to '09. To Live Is To Die jam-fixed.flac'.
-10. Master Of Puppets.flac:  successfully fixed/rewritten to '10. Master Of Puppets-fixed.flac'.
-11. One.flac:  successfully fixed/rewritten to '11. One-fixed.flac'.
+01. Seek And Destroy.flac:  successfully fixed/rewritten to '01. Seek And Destroy-fixed.flac'.
+02. ...And Justice For All.flac:  successfully fixed/rewritten to '02. ...And Justice For All-fixed.flac'.
+03. Black Night jam.flac:  successfully fixed/rewritten to '03. Black Night jam-fixed.flac'.
+04. Creeping Death.flac:  successfully fixed/rewritten to '04. Creeping Death-fixed.flac'.
+05. Fade To Black.flac:  successfully fixed/rewritten to '05. Fade To Black-fixed.flac'.
+06. Kirk's solo.flac:  successfully fixed/rewritten to '06. Kirk's solo-fixed.flac'.
+07. Battery.flac:  successfully fixed/rewritten to '07. Battery-fixed.flac'.
+08. Jam.flac:  successfully fixed/rewritten to '08. Jam-fixed.flac'.
+09. Last Caress.flac:  successfully fixed/rewritten to '09. Last Caress-fixed.flac'.
+10. Am I Evil.flac:  successfully fixed/rewritten to '10. Am I Evil-fixed.flac'.
+11. Whiplash.flac:  successfully fixed/rewritten to '11. Whiplash-fixed.flac'.
 
-Padded last file with 1576 zero-bytes.
+Padded last file with 932 zero-bytes.

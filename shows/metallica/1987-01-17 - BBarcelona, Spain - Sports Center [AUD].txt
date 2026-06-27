@@ -3,11 +3,5 @@
 03.flac:  successfully fixed/rewritten to '03-fixed.flac'.
 04.flac:  successfully fixed/rewritten to '04-fixed.flac'.
 05.flac:  successfully fixed/rewritten to '05-fixed.flac'.
-06.flac:  successfully fixed/rewritten to '06-fixed.flac'.
-07.flac:  successfully fixed/rewritten to '07-fixed.flac'.
-08.flac:  successfully fixed/rewritten to '08-fixed.flac'.
-09.flac:  successfully fixed/rewritten to '09-fixed.flac'.
-10.flac:  successfully fixed/rewritten to '10-fixed.flac'.
-11.flac:  successfully fixed/rewritten to '11-fixed.flac'.
 
-Padded last file with 1220 zero-bytes.
+Padded last file with 376 zero-bytes.

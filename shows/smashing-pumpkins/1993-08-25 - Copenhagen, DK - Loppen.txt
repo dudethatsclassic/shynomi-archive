@@ -1,59 +1,34 @@
-Smashing Pumpkins
-August 25th 1993
-Christiana Loppen
+The Smashing Pumpkins
+08/25/1993
+Loppen
 Copenhagen, DK
 
-SOURCE (AUD#1)
-ECM-155 > TCD-D3
+Taper:            unknown
+Source:           ECM155 > D3
+Conversion:       DDC-? > Sony PCM-M1 > 7-pin to coax > Delta Dio 2496 > Adobe Audition 2.0
+Editor:           Andrew Fogelsong
+Editing:          downsampled(48k to 44.1k), normalized(+2.74dB)
+FLAC:             master wav's > CD Wave Editor 1.95.1 > FLAC (level 8)
+Notes:		  
 
-TRANSFER:
-CDR > EAC > WAV > FLAC
+********************************************************************************
+	                    SPREAD THE MUSIC
+********************************************************************************
 
-GENERATION:
-DDC-1 > CDR(X) > WAV > FLAC
+Disc One
+1. Bury Me
+2. Rocket
+3. Today
+4. Quiet
+5. Rhinoceros
+6. Hummer
+7. I Am One
+8. Soma
 
-LENGTH:
-85:52
-
-SETLIST:
-01. Bury Me
-02. Rocket
-03. Today
-04. Quiet
-05. Rhinoceros
-06. Hummer
-07. I Am One
-08. Soma
-09. Geek U.S.A.
-10. Drown
-11. Siva
-12. Cherub Rock
-13. (encore break)
-
-ENCORE:
-14. Disarm
-15. Silverfuck > Over the Rainbow [Harburg/Arlen] (tease) > Jackboot > Star Spangled Banner [Key] (tease)
-
-NOTES:
-Thanks to traveller03 for sending over. This is an upgrade on the DDC-? > FLAC transfer
-
-MD5 FINGERPRINTS:
-09ee465b79626a9baa8b113c68fd2b32 *Smashing Pumpkins 1993-08-25 AUD1 t01 Bury Me.flac
-a84cc6fa154d5302fe2a85c74cbbcb47 *Smashing Pumpkins 1993-08-25 AUD1 t02 Rocket.flac
-0220210b6ee3e83a340eca50e9ccbc7d *Smashing Pumpkins 1993-08-25 AUD1 t03 Today.flac
-9a465f092410f2ce3d8a47b5ccdde259 *Smashing Pumpkins 1993-08-25 AUD1 t04 Quiet.flac
-15f27184668144d6533ee90182a0e559 *Smashing Pumpkins 1993-08-25 AUD1 t05 Rhinoceros.flac
-8f9300f8af9c71ba279aacef10839cbc *Smashing Pumpkins 1993-08-25 AUD1 t06 Hummer.flac
-77427824143ecc5d3f58f6dccaebe65a *Smashing Pumpkins 1993-08-25 AUD1 t07 I Am One.flac
-b4ab1877d3ca0c0b091a1369ab9b5389 *Smashing Pumpkins 1993-08-25 AUD1 t08 Soma.flac
-0eed437f73aa4845ce4d8b7498503c6c *Smashing Pumpkins 1993-08-25 AUD1 t09 Geek U.S.A..flac
-2a83931657e11eaf551aee42dcb3048a *Smashing Pumpkins 1993-08-25 AUD1 t10 Drown.flac
-f8e5d90453a7d7f801f15becb4a9691a *Smashing Pumpkins 1993-08-25 AUD1 t11 Siva.flac
-b2396abcb7d2ba2b07f457bfb0d3e9e5 *Smashing Pumpkins 1993-08-25 AUD1 t12 Cherub Rock.flac
-0b025f9c5db3b6d0e0f348d08b83e05a *Smashing Pumpkins 1993-08-25 AUD1 t13 (encore break).flac
-41cac30661a1c2a9b34a6dcab69716b0 *Smashing Pumpkins 1993-08-25 AUD1 t14 Disarm.flac
-d941a17f55a1acbf549a71a6f30a0525 *Smashing Pumpkins 1993-08-25 AUD1 t15 Silverfuck.flac
-
-DISTRIBUTION:
-Spaldz, Nicholas Serra & Members of SPLRA
-2026-03-10
+Disc Two
+1. Geek USA
+2. Drown
+3. Siva
+4. Cherub Rock
+5. Disarm
+6. Silverfuck > Over the Rainbow [Harburg/Arlen](tease) > Star Spangled Banner [Key] (tease)

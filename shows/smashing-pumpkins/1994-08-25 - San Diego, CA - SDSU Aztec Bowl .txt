@@ -1,18 +1,33 @@
-    length     expanded size   cdr  WAVE problems filename
-     3:26.44       36441932    ---   --   ---xx   F:\tsp1994-08-25b SDSU Aztec Bowl, San Diego, CA, US [AMT #1 audio]\CD1\Track01.flac
-     4:13.50       44746844    ---   --   ---xx   F:\tsp1994-08-25b SDSU Aztec Bowl, San Diego, CA, US [AMT #1 audio]\CD1\Track02.flac
-     3:09.60       33480764    ---   --   ---xx   F:\tsp1994-08-25b SDSU Aztec Bowl, San Diego, CA, US [AMT #1 audio]\CD1\Track03.flac
-     4:06.70       43559084    ---   --   ---xx   F:\tsp1994-08-25b SDSU Aztec Bowl, San Diego, CA, US [AMT #1 audio]\CD1\Track04.flac
-     7:35.02       80266748    ---   --   ---xx   F:\tsp1994-08-25b SDSU Aztec Bowl, San Diego, CA, US [AMT #1 audio]\CD1\Track05.flac
-     6:27.09       68288012    ---   --   ---xx   F:\tsp1994-08-25b SDSU Aztec Bowl, San Diego, CA, US [AMT #1 audio]\CD1\Track06.flac
-     5:01.42       53195228    ---   --   ---xx   F:\tsp1994-08-25b SDSU Aztec Bowl, San Diego, CA, US [AMT #1 audio]\CD1\Track07.flac
-     6:51.44       72603932    ---   --   ---xx   F:\tsp1994-08-25b SDSU Aztec Bowl, San Diego, CA, US [AMT #1 audio]\CD1\Track08.flac
-     3:01.46       32036636    ---   --   ---xx   F:\tsp1994-08-25b SDSU Aztec Bowl, San Diego, CA, US [AMT #1 audio]\CD1\Track09.flac
-     5:34.68       59077580    ---   --   ---xx   F:\tsp1994-08-25b SDSU Aztec Bowl, San Diego, CA, US [AMT #1 audio]\CD1\Track10.flac
-     6:27.01       68269196    ---   --   ---xx   F:\tsp1994-08-25b SDSU Aztec Bowl, San Diego, CA, US [AMT #1 audio]\CD1\Track11.flac
-     0:57.45       10160684    ---   --   ---xx   F:\tsp1994-08-25b SDSU Aztec Bowl, San Diego, CA, US [AMT #1 audio]\CD1\Track12.flac
-     9:08.54       96794252    ---   --   ---xx   F:\tsp1994-08-25b SDSU Aztec Bowl, San Diego, CA, US [AMT #1 audio]\CD1\Track13.flac
-     8:28.18       89653580    ---   --   ---xx   F:\tsp1994-08-25b SDSU Aztec Bowl, San Diego, CA, US [AMT #1 audio]\CD2\Track01.flac
-     3:17.22       34802588    ---   --   ---xx   F:\tsp1994-08-25b SDSU Aztec Bowl, San Diego, CA, US [AMT #1 audio]\CD2\Track02.flac
-     2:35.19       27386732    ---   --   ---xx   F:\tsp1994-08-25b SDSU Aztec Bowl, San Diego, CA, US [AMT #1 audio]\CD2\Track03.flac
-    80:22.69      850763792 B                     (totals for 16 files, 0.2733 overall compression ratio)
+The Smashing Pumpkins
+Date: 1994-08-25	
+Venue: SDSU Aztec Bowl
+City: San Diego, CA
+
+Source: AUD -> VID -> VHS? -> DVD
+ 
+
+*****************************************************************************
+*     THIS SHOW IS NOT TO BE ENCODED TO ANY LOSSY FORMAT (MP3) OR SOLD!     *
+*****************************************************************************
+
+Tracklisting:
+
+
+1. Quiet
+2. Cherub Rock
+3. Disarm
+4. Rocket
+5. I Am One
+6. Soma
+7. Geek U.S.A.
+8. Mayonaise
+9. Today 
+10. Siva
+11. Hummer
+12. Silverfuck
+--> Over The Rainbow (tease)
+13. Starla
+14. Pissant
+
+
+Another great show from Lollapalooza '94.  ENJOY!!! :)

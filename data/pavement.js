@@ -1585,7 +1585,7 @@ const ARTIST_DATA = {
       "version": "AUD",
       "format": "FLAC",
       "notes": "Sennheiser MKE 2 \u00b7 Toby Dodds",
-      "textFile": "2022-10-05 - Philadelphia, PA - The Met (Sennheiser MKE 2) (toby dodds) [AUD].txt"
+      "textFile": "2022-10-05 Metropolitan Opera House, Philadelphia, Pennsylvania.txt"
     },
     {
       "year": 2022,

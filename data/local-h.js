@@ -2582,7 +2582,7 @@ const ARTIST_DATA = {
       "notes": "Scott Lucas solo w/ Special Guests \u00b7 DABs \u00b7 jon gannon",
       "version": "AUD",
       "format": "FLAC",
-      "textFile": "2004-10-31 - Chicago, IL - The Double Door (Scott Lucas solo with Special Guests) (DPA 4061) (tapeworm48) [AUD].flac.txt"
+      "textFile": "2004-10-31 - Chicago, IL - Double Door (DPA 4061s) (tapeworm48) [AUD24].txt"
     },
     {
       "year": 2004,

@@ -1,74 +1,35 @@
-Smashing Pumpkins
-January 7th 1997
+SMASHING PUMPKINS
+January 07, 1997
 Rose Garden
-Portland, OR, US
+Portland, OR, USA
 
-SOURCE (AUD#1)
-Core Sound Binaurals > Sony TCD-D8
+Source: CSB > TCD-D8
+Generation: DAT(x) > CDR(x) > FLAC (8)
+Quality: 8.0
+Time: 119:03
 
-TRANSFER:
-Tascam DA-20mkII > Apogee S/PDIF cable > PreSonus FireStudio Project > Adobe Audition 3.0 > Trader's Little Helper 2.7.0
+Disc 1:
+1. Mellon Collie And The Infinite Sadness (over PA) [2:21]
+2. Tonight, Tonight [4:15]
+3. Cherub Rock [4:01]
+4. Where Boys Fear To Tread [4:51]
+5. Rhinoceros [5:57]
+6. Zero [2:16]
+7. Fuck You [4:45]
+8. Porcelina Of The Vast Oceans > Rocket (partial) [12:16]
+9. Thirty-Three [4:57]
+10. 1979 [4:21]
+11. Bullet With Butterfly Wings [5:01]
+12. Muzzle [4:00]
+13. Disarm [3:22]
+14. Thru The Eyes Of Ruby [9:11]
 
-GENERATION:
-DAT(1) [44.1kHz] > WAV [44.1kHz] > FLAC [Level 8]
+Disc 2:
+1. encore break 1 / In-A-Gadda-Da-Vida (tease) / Swallowed (tease) [3:38]
+2. X.Y.U. [8:10]
+3. encore break 2 [2:02]
+4. Drown/(Hummer) [6:15]
+5. Silverfuck > Space Jam [27:24]
 
-LENGTH:
-120:19
-
-SETLIST:
-01. Mellon Collie and the Infinite Sadness
-02. Tonight, Tonight
-03. Cherub Rock
-04. Where Boys Fear to Tread
-05. Rhinoceros
-06. Zero
-07. Fuck You (An Ode to No One)
-08. Porcelina of the Vast Oceans > Rocket (tease)
-09. Thirty-Three
-10. 1979
-11. Bullet With Butterfly Wings
-12. Muzzle
-13. Disarm
-14. Thru the Eyes of Ruby
-15. (encore break) > In-A-Gadda-Da-Vida [Iron Butterfly] (tease) > Swallowed [Bush] (tease)
-
-ENCORE ONE
-16. X.Y.U.
-17. (encore break)
-
-ENCORE TWO
-18. Drown > Hummer (tease)
-19. Silverfuck > Space Jam
-
-NOTES:
-DAT(X) to DAT(1) upgrade
-
-Thank you to Mike Ziegler for the recording and to Matt Reeder for analysis.
-
-MD5 FINGERPRINTS:
-fe4a68494bad87877d840aa421f349f8 *Smashing Pumpkins 1997-01-07 AUD1 t01 Mellon Collie and the Infinite Sadness.flac
-206919a02a149783f88460f460aaa3f8 *Smashing Pumpkins 1997-01-07 AUD1 t02 Tonight, Tonight.flac
-7f3396b0301cab788cd653b64944413a *Smashing Pumpkins 1997-01-07 AUD1 t03 Cherub Rock.flac
-9ac7637ce612a0b378df80028ac13092 *Smashing Pumpkins 1997-01-07 AUD1 t04 Where Boys Fear to Tread.flac
-b915b46b2d0e994aab65ddfb31f7dac4 *Smashing Pumpkins 1997-01-07 AUD1 t05 Rhinoceros.flac
-67cbb4cc5e335742af1bfecd34222860 *Smashing Pumpkins 1997-01-07 AUD1 t06 Zero.flac
-9943efb9ad33d8a28fb822c8f2c68ad8 *Smashing Pumpkins 1997-01-07 AUD1 t07 Fuck You (An Ode to No One).flac
-d5f0b8f08fb9f370e0230c63ff8d50f1 *Smashing Pumpkins 1997-01-07 AUD1 t08 Porcelina of the Vast Oceans.flac
-4b407ee85bfaea94cf40f4ed140a1ced *Smashing Pumpkins 1997-01-07 AUD1 t09 Thirty-Three.flac
-54b9a22a65bbc840860e5a9f48f43620 *Smashing Pumpkins 1997-01-07 AUD1 t10 1979.flac
-ff8a580603c09a5326646dbce2a69e6b *Smashing Pumpkins 1997-01-07 AUD1 t11 Bullet With Butterfly Wings.flac
-8b9ae0364d28533606a2a60f2574400e *Smashing Pumpkins 1997-01-07 AUD1 t12 Muzzle.flac
-3ebd2800ae37a3d28dcc23b63f8ad3b2 *Smashing Pumpkins 1997-01-07 AUD1 t13 Disarm.flac
-32d962647a2386e714ddbc702cfca0cf *Smashing Pumpkins 1997-01-07 AUD1 t14 Thru the Eyes of Ruby.flac
-6e81866115d7eaad779a34b2460a8b9c *Smashing Pumpkins 1997-01-07 AUD1 t15 (encore break).flac
-aa2b2f33c6bb640c6543949cdf00c403 *Smashing Pumpkins 1997-01-07 AUD1 t16 X.Y.U..flac
-82beb9f2674d77e603cd3c43396dab7f *Smashing Pumpkins 1997-01-07 AUD1 t17 (encore break).flac
-9dae25296d6d1339e97d11a7c666a376 *Smashing Pumpkins 1997-01-07 AUD1 t18 Drown.flac
-5b54b7ca3a3758c8bd4ba9599c08158d *Smashing Pumpkins 1997-01-07 AUD1 t19 Silverfuck - Space Jam.flac
-
-TRANSFER BY:
-Mike Ziegler
-
-DISTRIBUTION:
-Nicholas Serra, Spaldz & Members of SPLRA
-2024-10-15
+Notes: I traded for this recording back in 2001 and have not seen it online on a tracker or on lists for a very, very long time. It's definitely a surfaced recording, but it isn't a very common one. This is a shame, too, as the show is outstanding. Highlights include a fantastic "Porcelina" into "Rocket" combo, a spot-on "Rhinoceros", a fabulous "Drown" and another crazy "Silverfuck" which features a unique and very cool outro unlike any others I've heard from this tour. As to the lineage I have little reason to doubt that this is completely digital, though it would not surprise me too much if there was an analog step in there somewhere either. Remember, this was back in the day when people didn't keep track of that stuff as closely. Maybe somebody who specializes in spectral analysis or something can check it out? I don't know. Regardless, I hope you all enjoy it. It's a great show from one of the last great eras of the mighty SP.
+ 

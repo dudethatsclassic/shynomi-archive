@@ -1,63 +1,29 @@
-Smashing Pumpkins
-August 13th 2000
-Rideau Carleton Raceway
-Ottawa, CA
+**********************************************************************************************************
+The Smashing Pumpkins
+2000-08-13
+Rideau Carleton Raceway - Ottawa, CAN
 
-SOURCE (AUD#5):
-Generic Lapel Mic (mono) > Sharp MD MT-15
+Taper:			Unknown
+Source: 	        DSM-6S>PA6LC3B>M1 - DAT>CD-R
+Flac:	                Waves > flac frontend
 
-TRANSFER:
-Sony MDS-PC3 > iRiver H120 (Rockbox 3.10) (optical) > CD Wave Editor
+**********************************************************************************************************
+                                  DO NOT ENCODE TO ANY LOSSY FORMAT OR SELL
+**********************************************************************************************************
 
-GENERATION:
-MD(M) > FLAC
+Total Run Time: 67:35.21
 
-LENGTH:
-69:32
+Rock On 
+The Sacred and Profane 
+Bullet with Butterfly Wings 
+Once Upon a Time 
+Stand Inside Your Love 
+Fuck You 
+Mayonaise 
+Don't You Want Me 
+I of the Mourning 
+Today 
+Heavy Metal Machine 
+The Everlasting Gaze 
 
-SET:
-01. Intro
-02. Rock On [Essex] > Rock With You [Jackson] (tease)
-03. The Sacred and Profane
-04. Bullet with Butterfly Wings
-05. Once Upon a Time
-06. Stand Inside Your Love
-07. How Many More Times [Led Zeppelin] (tease) > Theme from Great White North [unknown] (tease)
-08. Fuck You (An Ode To No One)
-09. Mayonaise
-10. Don't You Want Me [The Human League]
-11. I Of The Mourning
-12. Today
-13. Heavy Metal Machine
-14. The Everlasting Gaze
-
-NOTES:
-A massive thank you to spaceyraygun for sharing their recording. Notes from the taper as follows:
-
-"This show is a birthday celebration for yours truly. I went on a road trip to see Smashing Pumpkins 3 times in Canada for the Summersault Festival. This was the final night of my trip, on my birthday! It's also one of the earliest recordings I made, possibly the 5th? The quality is decent considering the gear and my inexperience and that it was an outdoor festival, but certainly not the definitive recording. Plenty of other sources of this show exist, but this one is mine."
-
-MD5 FINGERPRINTS:
-a623e1d3a7e29ac8185a8af7cdb3e68c *Smashing Pumpkins 2000-08-13 AUD5 t01 Intro.flac
-7cf764450ad3c15939c5c788de611abd *Smashing Pumpkins 2000-08-13 AUD5 t02 Rock On [Essex].flac
-7e2c9f16e76df520c82b8b75c685a7c5 *Smashing Pumpkins 2000-08-13 AUD5 t03 The Sacred And Profane.flac
-070181dfbad8921ffc64d055756f7c8c *Smashing Pumpkins 2000-08-13 AUD5 t04 Bullet With Butterfly Wings.flac
-0b05743a4245fc5deb6e1bf70782b650 *Smashing Pumpkins 2000-08-13 AUD5 t05 Once Upon A Time.flac
-5f033ea2e697cfc4d1f6ff1347b2e396 *Smashing Pumpkins 2000-08-13 AUD5 t06 Stand Inside Your Love.flac
-44c0c3d6d712506866051d0f60d520e9 *Smashing Pumpkins 2000-08-13 AUD5 t07 How Many More Times [Led Zeppelin] (tease).flac
-c0ca91ed0615cc2dd45b505a9b918413 *Smashing Pumpkins 2000-08-13 AUD5 t08 Fuck You (An Ode To No One).flac
-59243e2cf284f41f265bfb87dfbc1d66 *Smashing Pumpkins 2000-08-13 AUD5 t09 Mayonaise.flac
-49a30877be851e849fcedf882178e192 *Smashing Pumpkins 2000-08-13 AUD5 t10 Don't You Want Me [Human League].flac
-87dfe97768920e99aa0f6d141f6c1266 *Smashing Pumpkins 2000-08-13 AUD5 t11 I Of The Mourning.flac
-b948b6220239ac2f5c72b61529166179 *Smashing Pumpkins 2000-08-13 AUD5 t12 Today.flac
-9a4a79c2d513a0ab084fc658633d4ac4 *Smashing Pumpkins 2000-08-13 AUD5 t13 Heavy Metal Machine.flac
-9a396d4195f367957645be39c4bb0e6e *Smashing Pumpkins 2000-08-13 AUD5 t14 The Everlasting Gaze.flac
-
-RECORDED BY:
-spaceyraygun
-
-TRANSFER BY:
-@deadhoarse
-
-DISTRIBUTION:
-Spaldz, Nicholas Serra & Members of SPLRA
-2022-10-24
+**********************************************************************************************************

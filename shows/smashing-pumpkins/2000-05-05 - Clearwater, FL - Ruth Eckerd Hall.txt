@@ -1,40 +1,37 @@
-The Smashing Pumpkins
-05/05/2000
-Ruth Eckerd Hall
-Clearwater, FL
+Smashing Pumpkins
+2000-05-05 Ruth Eckerd Hall, Clearwater, FL, US
 
-Taper:            Larry Fiske
-Source:           CSBmod > M1
-Conversion:       DDC-1 > Sony PCM-M1 > 7-pin to coax > Delta Dio 2496 > Adobe Audition 2.0
-Editor:           Andrew Fogelsong
-Editing:          downsampled from 48kHz to 44.1kHz, normalized(+4.98dB), amplified right
-		  channel +2.5dB
-FLAC:             master wav's > CD Wave Editor 1.95.1 > FLAC (level 8)
-Notes:		  small dropout right before To Sheila
+source: coresounds(cardioid) > D8 44.1 (FOB) > CD-R > EAC (wav) > dbPowerAmp (flac) (log included)
+location: 12th row center, 3 empty seats on each side
 
-********************************************************************************
-	                    SPREAD THE MUSIC
-********************************************************************************
+taped & transferred by Jim Fiesler (a.k.a undiscokidd)
 
-Disc One
-1. Glass and the Ghost Children
-2. Age of Innocence
-3. Pale Scales > 
-4. The Everlasting Gaze
-5. Heavy Metal Machine
-6. Blue Skies Bring Tears
-7. Blew Away
-8. Stand Inside Your Love
-9. I of the Mourning
-10. To Sheila
 
-Disc Two
-1. If There Is a God
-2. Disarm
-3. Ava Adore
-4. Rock On [Essex]
-5. Zero
-6. Today
-7. Perfect
-8. Bullet with Butterfly Wings > Once in a Lifetime [Talking Heads]
-9. Mayonaise
+Disc 1 (55:49)
+
+01 Glass and the Ghost Children (slightly cut at the beginning)
+02 Age of Innocence
+03 Pale Scales
+04 The Everlasting Gaze > Heavy Metal Machine
+05 Blue Skies Bring Tears
+06 Blew Away
+07 Stand Inside Your Love
+08 I of the Mourning
+09 To Sheila
+
+
+Disc 2 (52:14)
+
+01 If There Is a God
+02 Disarm
+03 Ava Adore
+04 Rock On (Essex) > Theme from Jaws (tease) (Williams)
+05 Zero
+06 Today
+07 Perfect
+08 Bullet with Butterfly Wings > Once in a Lifetime (Talking Heads)
+09 We Love You (tease) > Mayonaise
+
+
+Thanks to undiscokidd who kindly sent me this show.
+Re-ripped with log in June 2011.

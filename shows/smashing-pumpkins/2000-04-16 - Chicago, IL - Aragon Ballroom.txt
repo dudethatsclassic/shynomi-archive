@@ -1,86 +1,64 @@
+**Remastered**  By thir13en
+
+My FAQ: http://zombtracker.the-zomb.com/forums.php?action=viewtopic&topicid=1232
+
 Smashing Pumpkins
-April 16th 2000
-Aragon Ballroom
-Chicago, IL, US
+2000-04-16
+The Aragon Ballroom
+Chicago, IL
 
-SOURCE (FM#1)
-FM > TCD-D7
+No easy way to say this, so I'll just blurt it out:
 
-TRANSFER:
-Tascam DA-20mkii(DDC-1) > Marantz PMD670 (WAV)
+-----it's a different remaster than the one I did last spring. There, I said it------
 
-GENERATION:
-DAT(1) > WAV > FLAC
+So, I re-did this for a couple of reasons:
 
-LENGTH:
-133:11
+1. It was one helluva show, a personal favorite and I felt the first RM could be improved on a bit.
+2. A friend who wanted my version of this show also happens to like the banter. He never asked me to put it back in. I did it as a favor. Even though he loves the RM's, he also wishes I wouldn't cut the banter. So for him I left it all in. Being respectful of each other pays off. 
 
-SETLIST:
-01. Intro
-02. Rock On [Essex]
-03. Heavy Metal Machine
-04. Age of Innocence
-05. Glass and the Ghost Children
-06. I of the Mourning
-07. This Time
-08. Blew Away
-09. Stand Inside Your Love
-10. To Sheila
-11. Disarm
-12. Try, Try, Try
-13. Ava Adore
-14. Mayonaise
-15. The Everlasting Gaze
-16. Bullet With Butterfly Wings
-17. Once in a Lifetime [Talking Heads]
-18. Blue Skies Bring Years
-19. Tonight, Tonight
-20. Cherub Rock
-21. (encore break)
 
-Encore 1
-22. Blank Page
-23. Today
-24. (encore break > band introductions)
+Edits: 
 
-Encore 2
-25. 1979
-26. Join Together [The Who]
+Imperfections in Everlasting Gaze were repaired. There was an odd jump in volume from disc 1 to disc 2, now corrected.
+All XRT mentions, DJ v/o's and mindless babble was cut, a good 7 or 8 minutes of just total blah-dy blah-dy blah...gone. All show material remains, all banter, intro's, false starts, bad story telling...it's all there. The show has only been edited to smoothly run from song 1 to 23, like one long uninterrupted show.
 
-NOTES:
-Thank you to Andrew Fogelsong for the transfer. Does not suffer from the bad track transitions which circulate on many copies of the DAT(M) > CDR
+I saw when this was posted at DIME that one person commented about liking the DJ banter too. I was dumbfounded, appalled even. But I quickly realized, there it is, the true fact that you'll never please everyone, ever. Why try? Not gonna.
 
-MD5 FINGERPRINTS:
-4211b7e2d157939b62112de82baf29c9 *Smashing Pumpkins 2000-04-16 FM1 t01 Intro.flac
-100328d1f4927eb174ad9ebb7e6ba030 *Smashing Pumpkins 2000-04-16 FM1 t02 Rock On [Essex].flac
-b983a1e2d134cca7f2778184e26d0586 *Smashing Pumpkins 2000-04-16 FM1 t03 Heavy Metal Machine.flac
-ea7d4ae28d48f316e58e0caef96bfb28 *Smashing Pumpkins 2000-04-16 FM1 t04 Age of Innocence.flac
-3ac029e88e0f4fd7bfba633721910e00 *Smashing Pumpkins 2000-04-16 FM1 t05 Glass and the Ghost Children.flac
-68e8cc4bc563bc8ee222dffed42628aa *Smashing Pumpkins 2000-04-16 FM1 t06 I of the Mourning.flac
-2fbd2d1f7570737b3934c91c10bbfea1 *Smashing Pumpkins 2000-04-16 FM1 t07 This Time.flac
-7061e3f7e94f3100e8a7c2ed06b1aa36 *Smashing Pumpkins 2000-04-16 FM1 t08 Blew Away.flac
-682ffc41d440d5b33cae33d4fd8fd53a *Smashing Pumpkins 2000-04-16 FM1 t09 Stand Inside Your Love.flac
-93692f398492a83910765324c69d0f9f *Smashing Pumpkins 2000-04-16 FM1 t10 To Sheila.flac
-dea0fa17be20df1d83c629e035e86640 *Smashing Pumpkins 2000-04-16 FM1 t11 Disarm.flac
-f614203843df5316f1a8a861a6ed082c *Smashing Pumpkins 2000-04-16 FM1 t12 Try, Try, Try.flac
-ed73d2c2f8abaef126fbcc665ab7bf21 *Smashing Pumpkins 2000-04-16 FM1 t13 Ava Adore.flac
-f85922b376202fce085e9c0140dafb36 *Smashing Pumpkins 2000-04-16 FM1 t14 Mayonaise.flac
-a03de61592bb35a822c0e80cb3fa1739 *Smashing Pumpkins 2000-04-16 FM1 t15 The Everlasting Gaze.flac
-e9d3c3c9cd863bdf633ee7189d524a84 *Smashing Pumpkins 2000-04-16 FM1 t16 Bullet With Butterfly Wings.flac
-9a628b02dfda9eb428e52134ddb6dbad *Smashing Pumpkins 2000-04-16 FM1 t17 Once in a Lifetime [Talking Heads].flac
-309c950be98855ee24ab99cf202c7c97 *Smashing Pumpkins 2000-04-16 FM1 t18 Blue Skies Bring Tears.flac
-8f31f9a67548081e49f52bafb195b74e *Smashing Pumpkins 2000-04-16 FM1 t19 Tonight, Tonight.flac
-73f9ff5a0fbec42e8bbe11646d1539a0 *Smashing Pumpkins 2000-04-16 FM1 t20 Cherub Rock.flac
-b234a0207ae078b44545e26955dae843 *Smashing Pumpkins 2000-04-16 FM1 t21 (encore break).flac
-a843db875fc5e0e8bd0f886d1987e930 *Smashing Pumpkins 2000-04-16 FM1 t22 Blank Page.flac
-d4ac2e23430b3092deacaa0d8914180b *Smashing Pumpkins 2000-04-16 FM1 t23 Today.flac
-a2c4e7fd083217cc50f671a187e785a9 *Smashing Pumpkins 2000-04-16 FM1 t24 (encore break - band introductions).flac
-5907d1d4b670b0cfbf9d2f66ce560bf1 *Smashing Pumpkins 2000-04-16 FM1 t25 1979.flac
-ab6dbb26b50b48380bacca38db352211 *Smashing Pumpkins 2000-04-16 FM1 t26 Join Together [The Who].flac
 
-TRANSFER BY:
-Andrew Fogelsong
 
-DISTRIBUTION:
-Spaldz, Nicholas Serra & Members of SPLRA
-2024-06-07
+Hey Kids, Rock n Roll...
+
+ 
+ 
+Rock On
+Heavy Metal Machine 
+Age of Innocence 
+Glass and the Ghost Children 
+I of the Mourning 
+This Time 
+Blew Away 
+Stand Inside Your Love 
+To Sheila 
+Disarm 
+Try, Try, Try 
+Ava Adore 
+Mayonaise 
+The Everlasting Gaze 
+Bullet with Butterfly Wings 
+Once in a Lifetime
+Blue Skies Bring Tears 
+Tonight, Tonight 
+Cherub Rock 
+Blank Page 
+Today 
+1979 
+Join Together
+ 
+
+PRE-13 SOURCE INFO
+=======================
+
+Taper:       J. Messer
+Source:      FM > Yamaha DSP-A1 > Goldlink 24bit D/A converter > Tascam  CDRW 700 > CDRS > SHN > WAV > FLAC
+
+Your copy is a master clone.

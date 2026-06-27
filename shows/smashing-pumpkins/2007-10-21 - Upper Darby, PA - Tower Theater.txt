@@ -1,79 +1,46 @@
 The Smashing Pumpkins
-Tower Theater
-Upper Darby, PA, US
-2007-10-21
 
-Recordist    : Zach Payne <pzane@hotmail.com>
-Location     : row AA Loge, DFC
-Mic Config   : clamped to rail, DIN (20cm, 90°)
-Source       : Schoeps MK4 > Nbox+ > Edirol R-09 @ 24bit/48kHz
-Edit         : WaveLab V5.01b (fades)
-Tracking     : CD-Wave v1.97
-Encoding     : FLAC v1.1.4 (Level 8) w/ FLAC Frontend v1.7.1
+Recorded : 2007/10/21 - Tower Theater; Upper Darby, PA, US
+Broadcasted the 2008/05/19 on French Virgin17 Channel TV
 
-Tracklist:
 
-01. Intro
-02. United States
-03. Bullet with Butterfly Wings
-04. Drown
-05. Bring the Light
-06. Stand Inside Your Love
-07. Tonight, Tonight
-08. Tarantula
-09. Home
-10. Hummer
-11. Starla
-12. 1979
-13. Perfect
-14. Set the Ray to Jerry
-15. Today
-16. That's the Way (My Love Is)
-17. Superchrist
-18. Doomsday Clock
-19. Heavy Metal Machine
-20. On the Road Again [Canned Heat]
-21. I Love Rock 'n' Roll [Arrows]
-22. (Encore Call #1)
-23. Ava Adore
-24. Zero
-25. (Encore Call #2)
-26. Pomp and Circumstances
-27. Cherub Rock
-28. Outro
 
-Running Time: 2:16:21
+Source:  TV Pro > Freebox V5 (set-top box) ADSL2+ > Freebox Hard Disk > ethernet> PC 
+Conversion: .ts file > MPEG2Repair > dvbcut > .mpg > DVDStyler > Video_TS
 
-Notes: 
 
-- Compiled for release on 2008-04-11
-- Encoded with FLAC v1.1.4 for LMA compatability
 
-tsp2007-10-21.mk4.t01.flac:13ab2fdfc8ba44f46a9bb51844b4c40f
-tsp2007-10-21.mk4.t02.flac:afda7186e65d52a856e90a8500e40dba
-tsp2007-10-21.mk4.t03.flac:db93c913266bd773e57f663f804db859
-tsp2007-10-21.mk4.t04.flac:96dd906438be9180287f6cc56ccd3cc3
-tsp2007-10-21.mk4.t05.flac:42644253706f23859de0d03cffe77c56
-tsp2007-10-21.mk4.t06.flac:7c0466dbf36834fb215853e46d6ba82a
-tsp2007-10-21.mk4.t07.flac:18003ffd17cb17d9807a45f008ed5010
-tsp2007-10-21.mk4.t08.flac:1691243431a707fed9a119abfb48b45f
-tsp2007-10-21.mk4.t09.flac:390bfccff71b4da65157256eaea71f37
-tsp2007-10-21.mk4.t10.flac:2750b9c2d6c2acc3ef093dc202674ef0
-tsp2007-10-21.mk4.t11.flac:ab03bb98d7e65d1034ccf7e405989ec1
-tsp2007-10-21.mk4.t12.flac:950d8203356a80e01fcba1b134d918d4
-tsp2007-10-21.mk4.t13.flac:29423ac51fa27aa8329f8f45732fbe99
-tsp2007-10-21.mk4.t14.flac:582ebdd5bbc4f639b0b0fb20458a7021
-tsp2007-10-21.mk4.t15.flac:baf73c8986ca3c9831734ac27cd21d3e
-tsp2007-10-21.mk4.t16.flac:a25b83e1fd424f40e76f2a58f368c256
-tsp2007-10-21.mk4.t17.flac:1b79efe98938df28f8a13e1e0aa8aaef
-tsp2007-10-21.mk4.t18.flac:40d21b606f1a0c96e15d60bcffae0d4c
-tsp2007-10-21.mk4.t19.flac:5567ba41771257f1243f7de456155c00
-tsp2007-10-21.mk4.t20.flac:23c4c58d7413ea1d7b6be9907751b5eb
-tsp2007-10-21.mk4.t21.flac:50bcf833e09e8a8611fe30fab16901ec
-tsp2007-10-21.mk4.t22.flac:4eb16806abe486c7a4f9802742bc62d2
-tsp2007-10-21.mk4.t23.flac:63eed6d7a59211e5beb246a060bc7f9a
-tsp2007-10-21.mk4.t24.flac:508af409251f48d82dd558e5c3b6cdc8
-tsp2007-10-21.mk4.t25.flac:5ae6bfd7f42af95982b664319fde057e
-tsp2007-10-21.mk4.t26.flac:89715d7b52ff5cafc5870664a02c6724
-tsp2007-10-21.mk4.t27.flac:8ea180f7a3db88c9f7f7ce6dc5b00ac1
-tsp2007-10-21.mk4.t28.flac:a90b93a854afc707a01b1a0127f455ee
+
+* Bullet with Butterfly Wings 
+* Drown 
+* Bring the Light 
+* Stand Inside Your Love 
+* Tonight, Tonight 
+* Tarantula 
+* Home (not broadcasted)
+* Hummer 
+* Starla 
+* 1979 (not broadcasted)
+* Perfect (acoustic) 
+* Set the Ray to Jerry
+* Today 
+* That's the Way (My Love Is) 
+* Superchrist 
+* Doomsday Clock
+* Heavy Metal Machine (not broadcasted)
+> On the Road Again [Canned Heat]
+> I Love Rock 'n' Roll [Arrows]
+Encore 1:
+* Ava Adore (not broadcasted)
+* Zero (not broadcasted)
+Encore 2:
+* Pomp and Circumstances 
+* Cherub Rock 
+
+
+Note:
+The image quality is not very good, due to  low bandwith of this TV channel from the ISP
+Blinking square on the top and bottom of the picture.
+
+
+Thanks www.dimeadozen.org

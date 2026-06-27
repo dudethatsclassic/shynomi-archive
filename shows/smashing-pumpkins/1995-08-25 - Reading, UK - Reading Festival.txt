@@ -1,35 +1,15 @@
-**Remastered** by thir13en
+Smashing Pumpkins
+August 25th, 1995
+Reading Festival
+Berkshire, UK
 
+Source: MTV broadcast > unknown gen NTSC VHS (EP)
+Transfer: Magnavox ZV427MG9 Standalone > RCA to 1/8 cable > DR-2D (24/44.1)
+Editing: Audacity (amplified, dithered), TLH (flac level 8)
 
-Baby, Let's Rock!
+01. interview / clips of Today, Cherub Rock, Zero, Jellybelly - 9:10
 
-This is one hell of a show. The band returns once again to Reading and delivers a shredding performance of material from SD and the 2 months-away MCIS. It's time to shake the rust and show-off the new songs. And they do, opening with "Jellybelly" and "Zero". And look Ognetty, a damn nice version of "Thru The Eyes...".
+thanks to stumpycat for the VHS
 
-I can't quite figure what's the deal with this source. This was clearly edited, much the way I would have done, song to song no banter at all, but the transistions are quite smooth. The only info was an EAC log file and it had this:
-
---Smashing Pumpkins\1995-08-25 - Reading Festival, Berkshire, UK {pre-fm + audience)-
-
-So it's pFM and AUD. Well, what exactly does that mean? Listening to the show the one obvious thing is that "Fuck You..." is different than the rest. A lot like an audience recording but not completely (unfortunately it's kinda fucked up, no pun intended). But the whole show has a mixed feel to it, as though someone combined the pFM (which according to SPFC was missing "F-Y") with an audience source for the whole show and then used all or most of the audience recording for "F-Y". Got it? I'm not sure I do.
-
-Anyway, I'm not a big fan of people doing the mix of two sources without proper timecode. But whoever did this did a pretty decent job. It really does sound like your there at the show. It's a bit much on the audience mix I think,but none-the-less it gets my approval of a very enjoyable listening experience.
-
-The only thing it lacked was proper mastering. Until now.
-
-I spread the mix a bit and added a bunch of bottom. Baby got back!
-
-Enjoy!
-
-(01) - Jellybelly
-(02) - Zero
-(03) - Today
-(04) - Disarm
-(05) - Fuck You (An Ode To No One)
-(06) - Bullet With Butterfly Wings
-(07) - Porcelina Of The Vast Oceans
-(08) - Geek U.S.A.
-(09) - Rocket
-(10) - Thru The Eyes Of Ruby
-(11) - Siva
-(12) - Cherub Rock
-(13) - Mayonaise
-(14) - X.Y.U.
+don't sell, etc
+-rhinowing

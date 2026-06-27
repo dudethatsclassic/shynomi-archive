@@ -1,57 +1,35 @@
-tsp1997-06-23
+Smashing Pumpkins - 6-23-97 - Double Door; Chicago, IL
 
-From SPLRA:
-The Smashing Pumpkins
-Date: 	1997-06-23
-Venue: 	Double Door
-Location: 	Chicago, IL, US
-Venue Type: 	Club
-Capacity: 473
-Notes: 	Secret show performing as the Audio Vanguard Association. 
-The Frogs opened the show dressed as the Pumpkins and played a set of SP songs. 
-This show features the first known performances of Eye, Glimpses
-, The End Is The Beginning Is The End, and Transformer.
+The band played under the name Audio Vanguard Association at this show.
+SPFC has this to say about the name/show:
 
-AUD #1
-Source 	AUD
-Format 	DAT
-Equipment 	Unknown
-Length 	83m
-Complete? 	Yes
-Lowest Circulating Generation 	DAT-?>ANA-2>CDR
-------------------------------------------------------------------------
+Audio Vanguard Association
+ - The band called themselves this for a secret show at the Double Door, in 
+Chicago, on June 23, 1997. This concert was one of the very first after 
+the start of the Adore recording sessions. It is likely that the band chose 
+this name because the first letter of each word spells out "Ava", which of 
+course relates to Adore's first single, "Ava Adore".
 
-Source info for this file set:
-AUD>DAT[unknown mic>D8]>ANA-1>DE's transfer>CDR-0
->my CDR-1 from Dan>EAC>WAV>FLAC
-...your burned copy will be CDR-2
+Source: AUD > DAT (equipment) ??
 
-Notes: This is an upgrade to the above AUD#1 source. 
-Transfer was done by Dan Elsen from one of Kris Scheurich's tapes.
-Sound quality is a little better than the circulating ANA-2.
+TRACKS:
 
-Set:
+Disc 1 
+1. Glimpses [Yardbirds]
+2. Where Boys Fear To Tread
+3. Eye 
+4. Tonight, Tonight
+5. Transformer
+6. Zero
+7. Thru The Eyes Of Ruby
+8. By Starlight 
+9. B.W.B.W.
+10. TEITBITE (abandoned)
+11. TEITBITE
+12. 1979
+13. Muzzle
+14. X.Y.U.
+15. Porcelina Of The Vast Oceans
 
-Disc 1: 42:35
-01 Glimpses [Yardbirds] 4:43
-02  Where Boys Fear to Tread 3:42
-03 Eye 5:27
-04 Tonight, Tonight 3:58
-05 Transformer 4:00
-06 Zero 3:33
-07 Thru the Eyes of Ruby 7:48
-08 By Starlight 3:55
-09 Bullet with Butterfly Wings 5:29
-
-Disc 2: 43:10
-01 The End Is the Beginning Is the End (abandoned) 1:14
-02 The End Is the Beginning Is the End 4:46
-03 1979 4:39
-04 Muzzle 5:22
-05 X.Y.U. 10:04
-06 Porcelina of the Vast Oceans 7:43
-
-Encore:
-07 The Aeroplane Flies High 9:22
-------------------------------
-Total time: 85:45
+Disc 2 
+1. The Aeroplane Flies High 

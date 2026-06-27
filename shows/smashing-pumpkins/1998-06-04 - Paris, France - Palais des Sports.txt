@@ -1,30 +1,31 @@
 Smashing Pumpkins
-FNAC (Rooftop)
-Paris, France
-June 4 1998
+Palais de Sports; Paris, FR
+1998/06/04
+[AUD/MD]ECM909A>MD>(ana transfer?)>CDR
+Runtime: 127min  
 
-source: Pro-Shot > CDR-2/3 > Flac
-notes: pops removed using Adobe Audition 1.5
-------------------------------------------------
+Source: [AUD/MD]ECM909A>MD>(ana transfer?)>CDR
 
-1. To Sheila 		        5:17
-2. Ava Adore 		        5:32
-3. Daphne Descends 	        4:51
-4. Once Upon A Time 	        4:51
-5. Tear 			8:34
-6. Perfect 			3:35 
-7. Blank Page 		        8:13
-8. Shame 			8:19
-9. For Martha 		        8:50
 
-------------------------------------------------
-01 - To Sheila.flac:6b0e6d3d90c4b9689f5846f02e310349
-02 - Ava Adore.flac:56e4a56c4181e269e2bd1a16cd05c262
-03 - Daphne Descends.flac:c1d61fadd812af09aac95e450a8975c6
-04 - Once Upon A Time.flac:ebb34d41405ad7aebb5f12a56333cc5b
-05 - Tear.flac:25ffdf22507e8715776870a19afe5cd7
-06 - Perfect.flac:eadd96c478c9cb8026f952c1fd3bd7bf
-07 - Blank Page.flac:5ff75ffae7409d79a2de0157e3238380
-08 - Shame.flac:ec573ea27a2027e71c095c09763bdd7f
-09 - For Martha.flac:530aa5634fa6abf3aee0dc77dcba279b
+Set: 
 
+01. To Sheila 
+02. Once Upon a Time 
+03. Ava Adore 
+04. Tear 
+05. Crestfallen 
+06. Daphne Descends 
+07. Thru the Eyes of Ruby 
+08. Perfect 
+09. Tonight, Tonight 
+10. Stumbleine 
+11. Bullet with Butterfly Wings 
+12. Shame 
+13. For Martha 
+14. (encore)
+15. 1979
+16. Transmission [Joy Division]
+
+NOTES: 
+	First seconds of Shame are missing.
+	Sounds hissy to me (ana MD>CDR transfer?).

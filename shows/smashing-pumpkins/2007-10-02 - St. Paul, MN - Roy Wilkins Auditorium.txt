@@ -1,62 +1,49 @@
-Smashing Pumpkins
-October 2, 2007
+The Smashing Pumpkins
 Roy Wilkins Auditorium
-St. Paul MN
+St. Paul, MN
+Tuesday October 2nd 2007
 
-Taper:  "The Fridge" aka: alzeppelin
+Taper: empty (neveragain1980 AT yahoo DOT com)
+Location: AB ~20cm (clamp disabled DIN) ROB, ~40' back, ~6' ^ stand 
+Source: Studio Projects C4's > Mil Spec Silver Quad customs > UA-5 (BM2p+) > iRiver h120 (Optical @ 16bit 44.1kHz WAV)
+Conversion: h120 > USB 2.0 > PC [WAV > FLAC Frontend 1.7.1 lvl 6 + Verify]
+Edit: CD Wave (tracking) Sound Forge 9.0 (d1t1 & d2t15 fades) 
 
-Location:  15 ft above the soundboard desk DFC on the 1st row of the balcony taped to railing
+Please Do Not sell this recording. Share & trade it freely.
 
-Source: Coresound High-end Binaurals > Bass Roll-off Box > Sony D100 > Master 48 khz DAT
+Disc I - 65:43
 
-Transfer: Master DAT > Standalone burner > Master CDRs > EAC > Cooledit Pro (normalized levels)
-> CDWave (tracking) > FLAC Level 8
+01. intro 
+02. United States 
+03. Rocket
+04. That's the Way (My Love Is) 
+05. Neverlost 
+06. Drown 
+07. Bring the Light 
+08. Stand Inside Your Love 
+09. Tonight, Tonight 
+10. Tarantula  
+11. Zero 
+12. Glass and the Ghost Children 
 
-My first time seeing the Pumpkins and their new lineup.  I was very impressed with the show
-and just how powerful Jimmy Chamberlain is live...he is a machine.  The setlist was excellent
-featuring a lot of Siamese Dreams tracks mixed in with many others including
-the only 2 tracks I like off the Adore album. ;-)
+Disc II - 74:11
 
-Billy was in a great mood and even joked about dancing with the "Golden Gopher" by the fire.  The
-whole band was extremely tight and played the old songs with the power they
-deserve.  
+01. Golden Gopher banter > 1979 
+02. Perfect 
+03. To Sheila 
+04. Bullet with Butterfly Wings 
+05. Hummer 
+06. Home 
+07. Superchrist 
+08. Doomsday Clock 
+09. Heavy Metal Machine 
+10. encore 1
+11. Cherub Rock 
+12. encore 2
+13. With Every Light  
+14. encore 3
+15. Today 
 
-The sound was suprisingly good for Roy Wilkins with the "boomy-ness" of Roy Wilkins
-not nearly as bad as it could have been.  It was also extremely loud, even directly
-across the venue from the stage.
+Thank you to everyone that made documenting this show possible from BC to the band's management to the Roy's staff. It is appreciated. It was nice hanging out with some other local tapers...good people and not just because they're tapers! 
 
-Billy Corgan now allows taping (audio AND video) so I would strongly advise
-you to tape and check out the new lineup if they come near you.
-
-
-Disc One
-
-1) Intro
-2) United States
-3) Rocket
-4) That's the Way (My Love Is)
-5) Neverlost
-6) Drown
-7) Bring the Light
-8) Stand Inside Your Love
-9) Piano Intro
-10) Tonight, Tonight
-11) Tarantula
-12) Zero
-13) Glass and the Ghost Children
-14) 1979
-
-Disc Two
-
-1) Perfect
-2) To Sheila 
-3) Bullet With Butterfly Wings
-4) Hummer
-5) Home
-6) Superchrist
-7) Doomsday Clock
-8) Heavy Metal Machine
-9) Cherub Rock
-10) With Every Light
-11) Today
-
+I am really happy with the sound on this, I hope you enjoy. 

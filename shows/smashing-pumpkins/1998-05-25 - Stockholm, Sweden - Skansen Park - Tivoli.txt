@@ -1,54 +1,28 @@
-Smashing Pumpkins
-May 25th 1998
-Skansen Park
-Stockholm, SE
 
-SOURCE (AUD#4):
-Unknown Analog Recorder
+1998/05/25 - Skansen Park; Stockholm, SE 
+ 
+  
+Set: 
 
-TRANSFER:
-Nakamichi DR1 > Focusrite Scarlett 8i6 > Adobe Audition
 
-GENERATION:
-ANA(X) > FLAC
+To Sheila 
+Tear 
+Once Upon a Time 
+Crestfallen 
+Ava Adore 
+Daphne Descends 
+Thru the Eyes of Ruby 
+Perfect 
+Tonight, Tonight 
+Stumbleine 
+Bullet with Butterfly Wings 
+Shame 
+For Martha 
 
-LENGTH:
-84:26
+Encore: 
 
-SET:
-01. To Sheila
-02. Tear
-03. Once Upon a Time
-04. Crestfallen
-05. Ava Adore
-06. Daphne Descends
-07. Thru the Eyes of Ruby
-08. Perfect
-09. Tonight, Tonight
-10. Stumbleine
-11. (Percussion solo) > Bullet With Butterfly Wings
-12. Shame
 
-NOTES:
-Thank you to Henry for sending along his tapes for transfer. Likely to be previously unsurfaced AUD4. This is not an upgrade on circulating AUD1 with cuts in To Sheila, Thru the Eyes of Ruby and Shame. Missing For Martha, 1979 and Transmission [Joy Division]. Second tape likely to exist but was not found with this transfer.
-
-MD5 FINGERPRINTS:
-0b7fb663e6413b162954404c9ce4640c *Smashing Pumpkins 1998-05-25 AUD4 t01 To Sheila.flac
-660230cca131dcb911a121dcb1123361 *Smashing Pumpkins 1998-05-25 AUD4 t02 Tear.flac
-81179620858e9713b8a05fa433dd1300 *Smashing Pumpkins 1998-05-25 AUD4 t03 Once Upon a Time.flac
-64f57a4e0404f5bff876a0e87acea128 *Smashing Pumpkins 1998-05-25 AUD4 t04 Crestfallen.flac
-348b085b7330068c3e81069338ea3178 *Smashing Pumpkins 1998-05-25 AUD4 t05 Ava Adore.flac
-d4775142f2d9db4dc85e532dc08f3d5b *Smashing Pumpkins 1998-05-25 AUD4 t06 Daphne Descends.flac
-0febe770032194d53b3f1c15c3dbc27e *Smashing Pumpkins 1998-05-25 AUD4 t07 Thru the Eyes of Ruby.flac
-5d67bd95e74c48dafe518e962be705ea *Smashing Pumpkins 1998-05-25 AUD4 t08 Perfect.flac
-7fcf82f5eedcc87a101ea91475a62388 *Smashing Pumpkins 1998-05-25 AUD4 t09 Tonight, Tonight.flac
-9710520db85f94bd11dccca7d8bd4868 *Smashing Pumpkins 1998-05-25 AUD4 t10 Stumbleine.flac
-ec4562d4ba0f9da1577cfca68914d3e9 *Smashing Pumpkins 1998-05-25 AUD4 t11 Bullet With Butterfly Wings.flac
-be74c08294b082e848d1cf2b873791fd *Smashing Pumpkins 1998-05-25 AUD4 t12 Shame.flac
-
-TRANSFER BY:
-Nicholas Serra
-
-DISTRIBUTION:
-Spaldz, Nicholas Serra & Members of SPLRA
-2023-11-20
+1979 
+Transmission [Joy Division] 
+> Help [Beatles]   (tease) 
+ 

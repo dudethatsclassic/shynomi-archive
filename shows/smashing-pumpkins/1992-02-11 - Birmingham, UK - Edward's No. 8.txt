@@ -1,36 +1,28 @@
-The Smashing Pumpkins
+VHS-?>DVD
+
+
 1992/02/11 - Edward's No. 8; Birmingham, UK 
-
-Source: VID-L>TurtleBeach>CDR
-Conversion: CDR>EAC>WAV>FLAC
-
-*DO NOT CONVERT TO MP3 OR OTHER LOSSY FORMAT*
-
----------------------
-
-1. Rocket 
-2. Tristessa 
-3. Slunk 
-4. Window Paine 
-5. Bury Me 
-6. Snail 
-7. Siva 
-8. Silverfuck 
-
-total: 52:17
----------------------
  
-uploaded to the TSP/Zwan Hub 07/2004 by dsheinem@yahoo.com
+  
+Note: Often mislabeled as either 02.05.92 or 02.10.92. 
+
+Set: 
 
 
-Flac Fingerprint:
+Rocket 
+Tristessa 
+Slunk 
+Window Paine 
+Bury Me 
+Snail 
+Siva 
+Silverfuck 
 
-Track 1.flac:896c2d677a02eeded78335560695c20a
-Track 2.flac:003ee77e6bf06a8d6c2ec3c3ad0ef515
-Track 3.flac:ab26df31822298f9b0eea98bccc68068
-Track 4.flac:38e2f35991d3a20434d9456124413c7e
-Track 5.flac:66ae05f9fc197f11fe064e7dd96785d4
-Track 6.flac:7c5e53c46f714c6cc11292e6184912d2
-Track 7.flac:3ed8094a58229b0221ac55fe0dacd7aa
-Track 8.flac:a1ed37611cb401d7034f765226418d4f
+ 
+  
+ 
 
+Src Fmt Pos Len Equipment 
+AUD (vid) - 51m - 
+
+ 

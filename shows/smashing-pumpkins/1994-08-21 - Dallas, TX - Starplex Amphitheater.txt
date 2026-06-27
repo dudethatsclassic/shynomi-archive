@@ -1,29 +1,15 @@
-Smashing Pumpkins
-1994.08.21
-Dallas, TX
-Starplex Amphitheater
-
-Equipment: Sonic Studios DSM-6 + Sony TCD-D7 (48 kHZ)
-Taper: Smores
-Transferred By: RyanJ (ryanjonik@sbcglobal.net)
-Transfer: DAT Master > Tascam DA-20 > Coax > CO2 Converter > Optical In > iMac > Adobe Audition (Normalize, track) > WAV > FLAC 
- 
-  
-Set: 
-01. Intro
-02. Quiet
-03. Cherub Rock
-04. Disarm
-05. Rocket
-06. I Am One > Zero (tease)
-07. Soma
-08. Geek U.S.A.
-09. Mayonaise
-10. Today
-11. Siva
-12. Hummer
-13. Silverfuck
-
-Notes: Smores was kind enough to let me transfer all of his DAT masters. I only have a handful of them, but over the next few months I should be torrenting everything that he sends me that is allowed on the tracker. Please send thanks to Smores for taping and allowing for these shows to be shared!!! As you have noted, the first night was recorded with his Sony Mic. The 2nd night was recorded with Sonic Studio mics, loaned to Smores by taper CM. CM taped the first night with those mics and his D7, and I believe that source is on archive.org. This is a great recording. Enjoy.
-
-THESE FILES ARE IN 16/48kHZ for archiving purposes. They need to be converted to 44.1kHZ to listen to them on CD!
+tsp1994-08-21t01.flac:6d9738747253513ae881861a341e717d
+tsp1994-08-21t02.flac:280deefa6f816dc283bf261960a4e20c
+tsp1994-08-21t03.flac:15b573428d93b6536a5d91e3a47bc811
+tsp1994-08-21t04.flac:ebfd047a6bcb3ad06f1e132190b60574
+tsp1994-08-21t05.flac:7054a88fc741cf5662e47574114f25a9
+tsp1994-08-21t06.flac:98bd8b471ced3f36161a4af3ee71ea15
+tsp1994-08-21t07.flac:b343662be5648edf1196a6c7cada067b
+tsp1994-08-21t08.flac:4f9f50671182855848ec7c4adbecff64
+tsp1994-08-21t09.flac:8c4745bf72eff0d83df9ab3380de8f56
+tsp1994-08-21t10.flac:fb917f28c44b88d3dbbfdf15c151d9bf
+tsp1994-08-21t11.flac:a85b9c0672f1e2639b6e4ee5b929949f
+tsp1994-08-21t12.flac:072a62d46d835bae51e75fd38412ade6
+tsp1994-08-21t13.flac:066c18c18959a9c930ca88d45284adc0
+tsp1994-08-21t14.flac:32bb6ca9c851c6d8b6bd2f84879504b0
+tsp1994-08-21t15.flac:4ea8a6f86eba631a485aa939cf346ff8

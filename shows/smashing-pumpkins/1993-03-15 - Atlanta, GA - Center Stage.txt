@@ -1,55 +1,53 @@
-unknown gen cassette>WAV>FLAC
-
-The Smashing Pumpkins
-1993-03-15 Center Stage - Atlanta, GA
-
-seeded by: xdx {meladoridarcy@smashing-pumpkins.com}
-
-This was a benefit show the band played 3 months prior to the release of Siamese Dream. I imagine the band had just finished the album, as it was recorded in Triclops Studios, also in Atlanta. Very cool show, rarities such as Hello Kitty Kat and Frail and Bedazzled are played. 
-
-There is also some funny banter from Billy "whatever you hit me in the face with.. that's being donated to charity too!" and "this song is dedicated to assholes like you, I hope you fucking die!"
-
-If anyone has a better copy or can remove the awful hiss, please do and put it on the hub! 
-It's really great to hear  the band right before they got "big", I love Soma and Drown here. 
-
-On an interesting note, this may be the only show during the 1993-1994 era that Today was not played (unless by some strange reason it was an encore, but all copies of this show apparently have Silverfuck cut after a few seconds; see spfc.org) 
-
-Enjoy.
-
-1. Bury Me
-2. Quiet
-3. Cherub Rock
-4. Rhinceros
-5. Hello Kitty Kat
-6. Spaceboy
-7. I Am One
-8. Geek USA
-9. Soma
-10. Disarm
-11. Siva
-12. Drown
-13. Frail and Bedazzled
-14. Hummer
-15. I Feel You (Depeche Mode)/Tristessa/Silverfuck (cut)
+Smashing Pumpkins
+1993-03-15
+Center Stage
+Atlanta, GA
 
 
 
-track1.flac:79d986e88bc1f374bd1822f7217876e2
-track2.flac:61bf52f2e93768dee2b1d09a823fbb57
-track3.flac:2120e371fc244745f50ce1f6905ef5f4
-track4.flac:05fb2fbaaab32f3ef576cc4b34190d0f
-track5.flac:c024f91442520ec6f0e6165d0d13dbe0
-track6.flac:f4ace75b58a2ab0f3a5266da1576c4ec
-track7.flac:62f375753bded0e3286d81c65762abb5
-track8.flac:455b89b3793a9af35b03d7d8fec5ffb1
-track9.flac:12e18d7a1d53ee49277dbe838694d826
-track10.flac:17eb8b725fb30d593b450f025d3e4935
-track11.flac:4a139a557be0f9922b212143af2702c6
-track12.flac:6179eba1251d832611ae2704947d5f89
-track13.flac:b0bdff90b2587a8424ac9d0e57d821c2
-track14.flac:d0bd095b04a899d6bb39a62475392026
-track15.flac:b305ea8294bc2ff62801f3ab56471275
+Thanks to the supplier man, haylo.
+
+Video is quite good, once the folks around the taper settle in it's a great view of the stage. Killer set but unfortunate that "F&B" is cut just 20 seconds into the song. I filled in the audio with the AUD source and I did a quick-fill of video for that song. Basically it's a few cut up pieces in slow-mo crossfading once in a while. Better than a black screen or incomplete set. Also the very beginning of "Geek" is cut, I think the taper thought the banter would go on longer as they were switching guitars for that song. NBD though.
+
+Transferred the same way as always, capped through my HD-cam and down-converted to DV, edited in Vegas and rendered in Main Concept MPG2 and Dolby Digital AC3. Sorry though, no 5.1, it's just stereo. I played with a bunch of different audio setups on this one and decided the straight stereo sounded the best to me. Audio was worked over, sounds ok, I think it's a little better than the straight audio, but not all that much. That's AUD's for ya.
+
+Built a small menu for it, DVD begins with a title screen then the main menu appears, and song selections can be made from the track menu. Plus it has some nice soothing tunes and a built-in SP heart-shaped glitter lamp for your extra enjoyment.
+
+Have Fun! I did.
 
 
 
 
+
+
+Bury Me 
+Quiet 
+Cherub Rock 
+Rhinoceros 
+Hello Kitty Kat 
+Spaceboy 
+I Am One 
+Geek U.S.A. 
+Soma 
+Disarm 
+Siva 
+Drown 
+Frail and Bedazzled 
+Hummer 
+I Feel You
+Tristessa 
+Silverfuck
+
+
+
+Source Info
+==============
+
+VIDEO
+
+JVC VHS>SONY HVR-Z1U>SONY Vegas>MC-MPG2@6100CBR>DVD
+
+
+AUDIO
+
+VHS>MOTU Traveler @24-96>Vegas(16-48)>AC3

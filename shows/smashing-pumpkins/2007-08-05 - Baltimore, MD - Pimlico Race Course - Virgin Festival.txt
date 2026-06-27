@@ -1,34 +1,34 @@
-Smashing Pumpkins
+The Smashing Pumpkins
 Virgin Festival
 Pimlico Race Course
 Baltimore, Maryland
 August 5th, 2007
 
-Taper: Cabbage <cabbage@jimmieschickenshack.net> <craigkabis@gmail.com> - AKG ck93 hyper-cardioid capsules (mod) > RM 3-wire battery box > iRiver H120 > .wav @ 44.1Khz / 16 bit
-Location: 50' back about 10' from center align with Ginger.  Mounted in my hat about 6' 3" high.
-Source: AKG ck93 hyper-cardioid capsules (mod) > RM 3-wire battery box > iRiver H120 > .wav @ 44.1Khz / 16 bit
-Lineage: .wav > Amadeus Pro 1.0.3 > FLAC
-Flaws:  I got nailed by a crowd server in the middle of Zero and several other times later in the show
+Taper:		Jeremy Wilhide
+Source:		Dynamic Audio Binarial -> Dynamic Audio 120hz 
+                low cut batt box (Filter) -> Sharp MS-722 (Mic In)
+Location:	~30' from left stack Mics mounted to my glasses about 6' high
+Transfer:	MD-M -> Sharp MD MS-722 -> Sound Blaster Live
+                -> Adobe Audition 2.0 -> CDWave -> flac16	
 
-Setlist
-01 - intro				[02:19]
-02 - United States			[10:40]
-03 - Today				[03:34]
+Setlist:
+01 - Intro				[01:58]
+02 - United States			[10:39]
+03 - Today				[03:33]
 04 - Stand Inside Your Love		[03:54]
-05 - Zero				[02:17]
+05 - Zero				[02:15]
 06 - Hummer				[06:34]
-07 - Superchrist			[06:03]
+07 - Superchrist			[06:02]
 08 - Doomsday Clock			[04:17]
-09 - Starla				[08:03]
-10 - Bullet With Butterfly Wings	[04:50]
-11 - Death From Above			[04:34]
-12 - To Sheila				[04:14]
+09 - Starla				[08:02]
+10 - Bullet With Butterfly Wings	[04:17]
+11 - Death From Above			[04:26]
+12 - To Sheila				[04:13]
 13 - Tonight, Tonight			[04:44]
-14 - Tarantula				[04:00]
-15 - 1979				[05:01]
-16 - That's The Way (My Love Is)	[03:46]
-17 - Heavy Metal Machine		[10:01]
-Total Running Time			[01:28:52]
+14 - Tarantula				[03:59]
+15 - 1979				[05:05]
+16 - That's The Way (My Love Is)	[03:41]
+17 - Heavy Metal Machine		[10:15]
+Total Running Time			[01:28:08]
 
-Death From Above was Billy on vocals and Lisa on keys.
-To Sheila was the whole band with Billy on acoustic.
+Notes: Numerous pops and skips due to crowd surfers and the rough crowd.

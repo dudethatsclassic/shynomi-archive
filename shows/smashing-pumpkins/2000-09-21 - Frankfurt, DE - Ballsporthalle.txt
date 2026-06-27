@@ -1,55 +1,39 @@
-THE SMASHING PUMPKINS
-2000-09-21
+***Remastered*** by thir13en
+
+
+Smashing Pumpkins
+09-21-00
 Ballsporthalle
-Frankfurt am Main, Germany
+Frankfurt, DE
 
-Source:     Soundman OKM-IIr > Sony PCM-M1
-Location:   ~ 5m from left stacks
-Transfer:   DAT-M > Tascam DA-20 MK II > Terratec EWX 24/96 > dEdit
-              > FLAC V1.2.1
-Editing:    EQ and volume adjustments in Apple Logic Pro V8.0.1
-            Fades in Audiofile Engineering Wave Editor V1.3.3
-Resampling: 48.0 kHz > 44.1 kHz resampling using iZotope 64-bit SRC
-Dithering:  MBIT+
+Original Taper: Eric Agnew
 
-Disc 1:
-01 Glass and the Ghost Children (incomplete)
-02 Today
-03 Stand Inside Your Love
-04 Thirty-three
-05 To Sheila
-06 Blue Skies Bring Tears
-07 Glass' Theme
-08 The Everlasting Gaze
-09 Bullet with Butterfly Wings
-10 Dross
-11 Speed Kills
-12 If There Is a God
-13 Cash Car Star
-14 Rock On [David Essex]
-15 > Heavy Metal Machine
-16 [Fade Out]
 
-Disc 2:
-01 [Fade In]
-02 Disarm
-03 Tonight, Tonight
-04 Try, Try, Try
-05 Porcelina of the Vast Oceans
-06 I of the Mourning
-07 This Time
-08 (Encore Break #1)
-09 Blank Page
-10 Cherub Rock
-11 (Encore Break #2)
-12 (Band Introduction)
-13 1979
+01. Glass and the Ghost Childern
+02. Today
+03. Stand Inside Your Love
+04. Thirty-three
+05. To Sheila
+06. Blue Skies Bring Tears
+07. Glass' Theme
+08. The Everlasting Gaze
+09. Bullet With Butterfly Wings
+10. Dross
+11. Speed Kills
+12. If There is a God
+13. Cash Car Star
+14. Rock On
+15. Heavy Metal Machine
+16. Disarm
+17. Tonight, Tonight
+18. Try, Try, Try
+19. Porcelina of the Vast Oceans
+20. I of the Mourning
+21. This Time
+22. Blank Page
+23. Cherub Rock
+23. 1979
 
-Notes:
-I had some problems with the Sony SBM-1 A/D converter that night. Its
-batteries must have died shortly before the show started and I found out
-about it during the first song. Therefore, most of "Glass and the Ghost
-Children" is missing and I continued recording without the SBM-1. However,
-there is an excellent soundboard recording of this show in circulation.
-To seamlessly join the two discs, simply remove the fade tracks D1T16
-and D2T01.
+thir13en wow factor - 4.5   This show was near death in quality, gasping for a last breath, daring to be forgotten...not anymore...
+
+Enjoy!

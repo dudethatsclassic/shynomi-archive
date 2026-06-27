@@ -1,54 +1,36 @@
-tsp1994-03-27
+Smashing Pumpkins
+March 27th, 1994
+Memorial Hall
+Kansas City, MO, US
 
-From SPLRA:
-The Smashing Pumpkins
-Date: 	1994-03-27
-Venue: 	Memorial Hall
-Location: 	Kansas City, MO, US
-Venue Type: 	Club
-Capacity:	3500
+Source: SS Mic>TCD-D7
+Transfer: DAT>ANA-?>Sony TC-K630ES>R-09(24/48, unity gain)
+Editing: Audacity (cleaned up tape flip, fades), r8brain (downsample/dither), CDWave (splits), TLH (FLAC level 8)
 
-AUD #1
-Source: 	AUD
-Format: 	DAT
-Equipment: 	SS Mic>D7
-Length: 	88m
-Complete? 	Yes
-
-AUD>DAT[SS DSM>D7]>DAT-M>CDR-2 (from Simon Mifsud. His CDR-1 was from Ben Golumb(?))
->EAC>WAV>FLAC...your copy is CDR-3
-
-Set:
-Disc 1:
-01 Cherub Rock
-02 Bury Me
-03 Disarm
-04 Rocket
-05 Quiet
-06 Today
-07 Drown
-08 > Hummer 
-09 Geek U.S.A.
-10 I Am One (with rant)
-11 Soma 
-
+01. Cherub Rock - 5:20
+02. Bury Me - 4:07
+03. Disarm - 3:00
+04. Rocket - 3:53
+05. Quiet - 4:01
+06. Today - 3:46 
+07. Drown - 4:36
+08. -> Hummer - 6:16
+09. Geek U.S.A. - 5:13
+10. I Am One (with rant) - 8:34
+11. Soma - 7:13
 Encore One:
-12 Bullet with Butterfly Wings
-13 Mayonaise 
-
-Disc 2:
+12. (talk: "beat him, punch him, do you have a brick? hit him!") - 2:07
+13. Bullet with Butterfly Wings - 4:15
+14. Mayonaise - 6:49
 Encore Two:
-01 Siva
-02 Silverfuck
-03 > Never Let Me Down [Depeche Mode] //
+15. Siva - 5:55
+16. Silverfuck -> Never Let Me Down Again [Depeche Mode] - 9:34
 
+-second performance of Bullet with Butterfly Wings (first: Davenport IA 3/25)
+-Silverfuck cuts (on all copies, as far as I can tell)
+-to my ears this sounds somewhat fuller and less hissier than the xdx transfer
+-the superball incident occurred at this show (see track 12)
 
-trt 86:55
-
-additional notes:
-* audience members throw superballs at the band throughout the show
-* second ever performance of Bullet with Butterfly Wings
-* Never Let Me Down cuts and the Silverfuck coda is missing (seems to be per master)
-* brickwalling is present throughout, but this is still very listenable and a significant upgrade to previously circulating versions from unknown generation cassettes
-* there may be an ANA generation before the transfer to CDR (I suspect this is actually the DAT-M > ANA-M > DAT > CDR transfer)
-* originally came as two large files with cue sheets, I split this via CDWave
+Thanks to Evan (blazinator) for the tape
+Don't sell, etc
+-rhinowing

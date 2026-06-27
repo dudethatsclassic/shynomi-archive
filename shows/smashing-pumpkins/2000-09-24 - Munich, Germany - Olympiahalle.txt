@@ -1,52 +1,45 @@
-The Smashing Pumpkins
-Date: 2000-09-24
-Venue: Olympiahalle
-City: Munich, Germany
+Smashing Pumpkins
+September 24th, 2000
+Olympiahalle
+Munich, DE
 
-Taper: ??
+source: SBD > PCM-M1 > DAT-M > CDR > EAC [secure] > FLAC
 
-Source: AUD->DAT->OKM-II(ROCK)->SBMI->M1 --> ?? -> CDR -> FLAC
- 
-Flaws: 
+01. Daydream (tease) > Glass and the Ghost Children > Le Deux Machina (tease)
+02. Today
+03. Stand Inside Your Love
+04. Thirty-three
+05. To Sheila
+06. Blue Skies Bring Tear
 
-*****************************************************************************
-*     THIS SHOW IS NOT TO BE ENCODED TO ANY LOSSY FORMAT (MP3) OR SOLD!     *
-*****************************************************************************
-
-Tracklisting:
-
-DISC 1:
-ACOUSTIC
-
-1. Glass + The Ghost Children 
-2. Today 
-3. Stand Inside Your Love
-4. Thirty-Three
-5. To Sheila
-6. Blue Skies Bring Tears
-
-ELECTRIC
-7. Glass' Theme
-8. The Everlasting Gaze
-9. B.W.B.W.
+07. Glass' Theme
+08. The Everlasting Gaze
+09. Bullet with Butterfly Wings
 10. Dross
 11. Speed Kills
-12. If There Is A God
+12. If There is a God
 13. Cash Car Star
-14. Rock On
-15. Heavy Metal Machine
+14. Rock On > Heavy Metal Machine
+15. instrumental
+16. Disarm
+17. Tonight, Tonight
+18. Try, Try, Try
+19. Porcelina of the Vast Oceans
+20. I of the Mourning
+21. This Time
 
-DISC 2:
-1. Disarm
-2. Tonight, Tonight
-3. Try, Try, Try
-4. Porcelina
-5. I Of The Mourning
-6. This Time
-7. Blank Page
-8. Cherub Rock
-9. 1979
+22. Blank Page
+23. Cherub Rock
 
+24. band intros
+25. 1979
 
+trt 133:03
 
+* taped by 34
+* some EQing was done before this came to me
+* discs from the collection of Andrew Fogelsong
+* EAC log included
 
+don't sell, etc
+-rhinowing

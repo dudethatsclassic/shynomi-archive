@@ -1,110 +1,76 @@
-THE SMASHING PUMPKINS
-June 30, 2007
+The Smashing Pumpkins
 The Orange Peel
-Asheville, NC
+Asheville, NC, US
+2007-06-30
 
-SOURCE:
-Panasonic WM-61A > Sound Pro SP-SPSB-2 (195Hz bass roll-off) > Edirol R-09
+Taper:          Zach Payne (pzane@hotmail.com)
+Source:         Schoeps MK4 (DIN) > Nbox+ > Edirol R-09 @ 24bit/48kHz
+Editing:        .wav @ 24/48 > WaveLab V5.01b (48kHz > 44.1kHz, UV22 HR 16bit/Normal)
+		> CD Wave v1.95.1 > FLAC v1.1.4a (Level 8)
 
-TRANSFER:
-Edirol R-09 > USB > Adobe Audition 2.0 > CD Wave 1.95.1 > FLAC frontend 1.7.1
+Disc 1:
 
-GENERATION:
-WAV(M) [24bit/48kHz] > remaster > WAV [16bit/44.1kHz] > FLAC [Level 8]
+01: Set One Intro
+02: Today
+03: Stand Inside Your Love
+04: 1979
+05: United States  
+06: (Come On) Let's Go!
+07: Starla
+08: In My Body
+09: Hummer
+10: Kashmir [Led Zeppelin] (tease) > Silverfuck
+11: Blue Skies Bring Tears
+12: Bullet with Butterfly Wings
+ 
+Disc 2:
 
-LENGTH:
-195:51
+01: Set Two Intro
+02: new song: "!"/"If Only in a Dream"
+03: To Sheila
+04: new song: "Mama"
+05: Teases (various)
+06: Zero
+07: Starz
+08: Fuck You
+09: Tarantula
 
-NOTES:
-- The PA system repeatedly failed throughout the show.
+Disc 3:
 
-TRACKS (DISC 1):
-01. intro
-02. Today
-03. Stand Inside Your Love
-04. 1979
-05. United States
-06. (Come On) Let's Go!
-07. Starla
-08. In My Body
-09. Hummer
-10. Kashmir (tease)
-11. Silverfuck > The End (tease)
-12. Blue Skies Bring Tears
-13. Bullet With Butterfly Wings
+01: Tonight, Tonight
+02: Drown
+03: Heavy Metal Machine > White Rabbit [Jefferson Airplane] (tease)
+04: Cherub Rock
+05: Untitled
+06: Gossamer
 
-TRACKS (DISC 2):
-01. set break
-02. set 2 intro
-03. If Only In A Dream
-04. To Sheila
-05. Mama
-06. The Everlasting Gaze (tease)
-07. Ava Adore (tease)
-08. Over The Hills And Far Away (tease)
-09. Day Tripper (tease)
-10. Sweet Leaf (tease)
-11. Fly By Night (tease)
-12. We Will Rock You (tease)
-13. Misty Mountain Hop (tease)
-14. Smoke On The Water (tease)
-15. Gimme Shelter (tease)
-16. guitar solo
-17. Zero
-18. Starz
-19. Fuck You (An Ode To No One)
-20. Tarantula
-21. Tonight, Tonight
-22. Drown
-23. Heavy Metal Machine > White Rabbit (tease)
 
-TRACKS (DISC 3):
-01. encores intro
-02. Cherub Rock
-03. Untitled
-04. Gossamer
+Notes: Taped from stand (~9ft), in line w/ right stack. No Eq
 
-MD5 FINGERPRINTS:
-25ae0240b181ade9d62920e74d316164 *tsp2007-06-30d1t01.flac
-7453a6f7b83f481a37f2a9fbf98bfca7 *tsp2007-06-30d1t02.flac
-6b313fecf11c93bc477f9c9255874738 *tsp2007-06-30d1t03.flac
-b431b9dcc9a8c2b9ae5909d3fc910150 *tsp2007-06-30d1t04.flac
-902258ea8c9c83c0a1c28d77dd759b8e *tsp2007-06-30d1t05.flac
-c41b4bdd3e654cbe9c8fcbeb0e8826f6 *tsp2007-06-30d1t06.flac
-f6a210d433a6c5651104bd319a4eb535 *tsp2007-06-30d1t07.flac
-05287190fe952b3ee1bd30e6da251abf *tsp2007-06-30d1t08.flac
-a762b31b065833854f8de0e2a64b2070 *tsp2007-06-30d1t09.flac
-7a6d2fd03816c83003dd1b5129e1835a *tsp2007-06-30d1t10.flac
-72848bf5d75699762bd1c817d5a11a32 *tsp2007-06-30d1t11.flac
-0dd2c016e56c14e2da2fd9637deb2a68 *tsp2007-06-30d1t12.flac
-6200ad3541d3fa9b62fe24748cfd6cd4 *tsp2007-06-30d1t13.flac
-ceed0afcddc82464a57b96a08da1fe5b *tsp2007-06-30d2t01.flac
-eedf24cd509c7c81d4d905b8ea3220e4 *tsp2007-06-30d2t02.flac
-3dc58df23853d9e51894fad08946b1f1 *tsp2007-06-30d2t03.flac
-9b7919cd7bfd31c034c7212197766d69 *tsp2007-06-30d2t04.flac
-db8d4d01a66c4f5226fd7de22017fbf9 *tsp2007-06-30d2t05.flac
-25e7aea3586720992f6086e7a9f22ccc *tsp2007-06-30d2t06.flac
-79d003529b59a4472022a8ffdb420b67 *tsp2007-06-30d2t07.flac
-31d3fafe785568123c90edc2861025b1 *tsp2007-06-30d2t08.flac
-24993b7d88ce037e6da4f58c5dd91101 *tsp2007-06-30d2t09.flac
-0e4cffc8b16f146cf0934dd3eaac76e4 *tsp2007-06-30d2t10.flac
-3e40e38f2a3ceb64f5c0af0c08793a6c *tsp2007-06-30d2t11.flac
-51ddad01e14a34e10ad0df844289ce3a *tsp2007-06-30d2t12.flac
-5bd27da8d43b019eb4eccad59fa1e156 *tsp2007-06-30d2t13.flac
-3d142a165cd2ec2a988876074e0165b5 *tsp2007-06-30d2t14.flac
-ff5bd968ecba56c9fa4484f9a57ef9b0 *tsp2007-06-30d2t15.flac
-4f5bfcddda2c5a095d3f29d3c94c6348 *tsp2007-06-30d2t16.flac
-b774a726af06e2520a188e8b3adb8242 *tsp2007-06-30d2t17.flac
-010ae4ca0a176b60a0d8c30b75c0645d *tsp2007-06-30d2t18.flac
-94f005511861895ac625121f6aacba47 *tsp2007-06-30d2t19.flac
-5f35ed1f4cf026854531cc93e9cf5212 *tsp2007-06-30d2t20.flac
-dfbb0b2fcfe91e21fd239347da2fac21 *tsp2007-06-30d2t21.flac
-b898fa6e343d9a6ab4100f47c6d6575a *tsp2007-06-30d2t22.flac
-6126d928db5f782efb983284997317e1 *tsp2007-06-30d2t23.flac
-c7e5ef88ad1bf6a1c751d523c89e60bd *tsp2007-06-30d3t01.flac
-f79d911eeb73904ed971901c4463ac8a *tsp2007-06-30d3t02.flac
-40007994e439315597d078a8e5c13da9 *tsp2007-06-30d3t03.flac
-525617253050799c1ec6a4660b3be7fe *tsp2007-06-30d3t04.flac
-
-RECORDED, TRANSFERRED, AND REMASTERED BY:
-Kris Sproul
+tsp2007-06-30.mk4.d1t01.flac:1ecd18d2effe478455fac99e7f19833e
+tsp2007-06-30.mk4.d1t02.flac:4d731d78969affb7408f7c24aa541818
+tsp2007-06-30.mk4.d1t03.flac:5b79e4e9a123aa0b7343501044d1dcfa
+tsp2007-06-30.mk4.d1t04.flac:52f77d7530d8e363f6bae621a7d2a7e7
+tsp2007-06-30.mk4.d1t05.flac:844b60817da3a4d3860e3b6ad857ef79
+tsp2007-06-30.mk4.d1t06.flac:c2a28f31e8f14a6f2835c71463ef4c39
+tsp2007-06-30.mk4.d1t07.flac:3b367025b852c66c61c2dc891471439b
+tsp2007-06-30.mk4.d1t08.flac:1b7d788e3aa47e95cd8b265ea5c60321
+tsp2007-06-30.mk4.d1t09.flac:55317331a70bd9d0117c699f2e861804
+tsp2007-06-30.mk4.d1t10.flac:021d44dbd44c7bc68e2237eb65fb91eb
+tsp2007-06-30.mk4.d1t11.flac:bfdfbdc8f68970b8232fbcda83b07a13
+tsp2007-06-30.mk4.d1t12.flac:d34c1bb596cadae54214a29d11df11de
+tsp2007-06-30.mk4.d2t01.flac:8886842c0f1e49eefd98643137901e8d
+tsp2007-06-30.mk4.d2t02.flac:525242624aad0db17737115e09653e28
+tsp2007-06-30.mk4.d2t03.flac:d6bd5c630706f50ae62506c0c944b9b2
+tsp2007-06-30.mk4.d2t04.flac:4b21c53b8954263315fcca58d437ee4d
+tsp2007-06-30.mk4.d2t05.flac:9a2f7423f57056697501b93d78555c57
+tsp2007-06-30.mk4.d2t06.flac:aab122c0ec703e863eddfa85186d49ef
+tsp2007-06-30.mk4.d2t07.flac:2545979778545ee58302a0767c0d16dd
+tsp2007-06-30.mk4.d2t08.flac:5807a01c19963e82ed94b73c1ba0f5d5
+tsp2007-06-30.mk4.d2t09.flac:ff072833e1654bfd0e92f693f64eab10
+tsp2007-06-30.mk4.d3t01.flac:a1bbcc888cfc12dccb8a906c3117d025
+tsp2007-06-30.mk4.d3t02.flac:4cf9992b57104eba3fb9ae89398dcfc9
+tsp2007-06-30.mk4.d3t03.flac:3183a8ce9227ee3a857752866249d4ff
+tsp2007-06-30.mk4.d3t04.flac:74b430572a82bb016b0c28a724fd8929
+tsp2007-06-30.mk4.d3t05.flac:74b137247e3f26fa00538e785a076cdc
+tsp2007-06-30.mk4.d3t06.flac:93267ae287c2db8222dbaab2b6dcf6db

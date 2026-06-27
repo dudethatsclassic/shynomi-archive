@@ -1,61 +1,43 @@
-The Smashing Pumpkins
-Date: 2000-02-27
-Venue: Canopy Club
-City: Champaign/Urbana, IL
+Something I had lying around. Soundcheck, so it sounds 
+like shit of course. Some people consider this _RARE_. 
+*yawn*
 
-Taper: anonymous
+Props to whoever recorded it, you know who you are ;-)
 
-Source: AUD > MD > ?? > ?? > cdr-0 > EAC > FLAC -- [your copy will be cdr-1] 
-           (this version [recording] is not listed at SPFC)
+---------------------------------------------------------
 
-Flaws: there is a small (yet sometimes loud) popping type noise that occurs occasionally.  This
-        is not the type of "pop" from a bad cdr burn.  It sounds like someone/something was 
-        rubbing up against the mic while recording, or possibly a bad connection. You be the 
-        judge. Also, this show gets very flawed during the beginning of 1979. 
-        These flaws were on the master. This show has only been shared since 
-        so many people were interested in it. It's not the best recording and awfully flawed 
-        (but per master)! One last note. To Sheila fades in due to a disc change and Join 
-        Together is missing.
- 
-*****************************************************************************
-*     THIS SHOW IS NOT TO BE ENCODED TO ANY LOSSY FORMAT (MP3) OR SOLD!     *
-*****************************************************************************
+000227 - Canopy Club; Urbana, IL, US
+Soundcheck
 
-Tracklisting:
+AUD DAT outside 52m 
+CSBmod > M1 
+DAT-M > CDR-2> SHN
 
+Tracklist is well, uhm. Guesswork?
+Did I mention it sounds like shit? ;-)
 
-Disc 1:
+01 - (riffing (without BC))
+02 - ""
+03 - (check test 1-2 2 check 1-2 1-2)
+04 - Promise
+05 - "
+06 - " (sound a bit like Snail though)
+07 - "
+08 - Join Together [The Who]
+09 - Tristessa (tease) ?
+10 - Once in a lifetime
+11 - "
+12 - "
+13 - "
+14 - "
+									    
 
-1. Pale Scales
-2. The Everlasting Gaze
-3. Heavy Metal Machine
-4. Crush
-5. Tonight, Tonight 
-6. I Am One
-7. I Of The Mourning
-8. Glass + The Ghost Children
-9. Rock On
-10. Zero
+******* NOTE *******
 
-Disc 2:
+These are not the original files.  The original SHNs were decoded and then 
+burned to audio CD with CDRWin v3.8b, so no write offset was employed.  The 
+current FLACs were created by extracting the tracks from the CDR with EAC 
+v0.9b4 and encoding them with FLAC Frontend 1.7.1 Etree edition.  So the 
+current source info looks like this: 
 
-1. To Sheila
-2. Stand Inside Your Love
-3. Cherub Rock
-4. 1979
-            -- join Together [The Who] -- MISSING!!
-5. Ava Adore
-6. B.W.B.W.  
-   --Once In A Lifetime [Talking Heads]
-   --jam
-7. X.Y.U. 
-    > Rock On (tease) 
-    > B.W.B.W. (tease)
-    -- blues jam
-    -- Gloria (tease) [Them]
-    -- What I Like About You (tease) [Romantics]
-    -- Smoothe (tease) [Thomas/Santana]
-    -- drum solo
-    -- Celebrity Skin (tease) [Hole]
-    -- We Love You
-
+CSBmod > M1 > DAT-M > CDR-2 > SHN > CDR > FLAC [ > CDR-4 for you ]

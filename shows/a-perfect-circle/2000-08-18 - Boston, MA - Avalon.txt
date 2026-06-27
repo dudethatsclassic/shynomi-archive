@@ -2,29 +2,6 @@ A Perfect Circle
 August 18, 2000
 Avalon
 Boston, MA
-[coolusername edit]
-
-------------coolusername notes-------------------------------------------------------------
-
-Contrast clause: this torrent is different from http://www.dimeadozen.org/torrents-details.php?id=691964
-because I have applied the following using Audacity:
-
-Lowered the volumes on the worst pops, there were about 15 in total.
-These mostly occur in the first half of the show (there were no pops from Track 8 onwards).
-
-Applied the following settings with the 'Bass & Treble' effect:
--4 Bass 
-+2 Treble
-
-This also allowed room to raise the overall volume slightly.
-
-It seems a smoother listening experience with these edits.
-I hesitate to call this a 'remaster', and this is not intended to be the 'definitive' version of this show.
-Thanks to the original taper.
-Enjoy!
-
-Original notes below.
--------------------------------------------------------------------------------------------
 
 Taper: Dave Asselin
 Source: CSBmod > M1

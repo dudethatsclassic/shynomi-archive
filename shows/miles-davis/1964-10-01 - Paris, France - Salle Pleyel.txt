@@ -1,85 +1,80 @@
 Miles Davis Quintet
-10-01-1964 (Early)
+10-01-1964 (Late)
 Salle Pleyel 
 Paris, France
 
-Project ID - LL138
+Project ID - LL139
 
 Source: FM Broadcast
-Lineage: ORTF radio broadcast > ?? > disk 1 of the fall 64 Miles Tree > 
-?? > wave > flac
+Lineage: ORTF radio broadcast > ?? > disk 2 of the fall 64 Miles Tree > 
+?? > wave > flac > wave > CD Wave (split tracks, omiitted dead air) > flac (TLH lvl 8 )
 
 Miles Davis (tpt); Wayne Shorter (ts); Herbie Hancock (p); Ron Carter (b); 
 Tony Williams (d)
 
 disc 1
 
-d1t01. Autumn Leaves
-d1t02. So What/
-d1t03. Stella by Starlight
-d1t04. Walkin'> The Theme
+d1t01. All of you/
+d1t02. /Joshua/
+d1t03. My Funny Valentine
+d1t04. No Blues
+d1t05. The Theme > announcement
  
 -------------------------------------------------------
 
 Notes:
 
-- d1t01: There are instances of light static throughout this track
+- d1t01: The first few bars are just barely audible if you listen. The track 
+is cut at the end. 
 
-- d1t02: There are some light static bursts at :07, :09, :14, 8:41, 8:43. There 
-is a signifigant drop in levels at 4:44 - 4:46, and 4:58. The track fades as the music 
-is still playing
+- d1t02: It sounds as though the first few bars are missing from this track. 
+Slight drop out at 3:15. digi pop/static at 5:25. This track is cut at the end 
+also. 
 
-- d1t03: There is a tapping sound starting at about 4:40 and ending when the tempo drops 
-back at 6:44. It sounds as though it's under the music, so I'm not sure exactly what the 
-source is. It doesn't sound like a natural occurance in the music but I have my doubts it 
-digi noise, or static as it is usually right on the beat. 
+- d1t03: digi pop/static at :35, 1:04, 1:17, 1:45, 2:06, 2:19, 2:20, 2:24, 2:28, 2:36
+3:46, 3:49, 4:53, 4:59, 5:08, 7:07, 7:34, 7:42, 8:00, 10:23, and 12:19. At 11:38 and 
+on you can hear some artifacts. It's odd. It sounds like an echo, but it's actually 
+plays what is in the next couple bars.
 
-- d1t04: This track also has the tapping sound from the start to about the one minute mark. 
-It alsmost seems as though it's may be the high hat cymbal causing the noise somehow. Slight
-drop out at 2:33, 5:21, 7:10- 7:12, 8:43 . 
+- d1t04: digi pop/static at 3:11, 4:43,9:41, 10:27,    
 
-- Not a bad source. A little hollow sounding and heavy on the high end, but very 
-listenable. All tracks have a 2 second gap between play. 
+- There is a hiss present, and the levels seem to fluctuate a bit, but the overall sound
+is decent. Lots of static/digi pops. 
 
-- According to Peter Losin's site, this date should also have "All of you" and "The 
-Theme" but they are missing from this source. 
-
--  "So What" was apparently only broadcast in this incomplete form. Tapes in general 
-circulation include incomplete versions of "All of You" (10:52) and "Joshua" (9:18). 
-The "Miles Impro" included on Moon MCD 021 is an excerpt of "Joshua" from Stockholm, 
-October 3 -- not from this concert."- Credit to Peter Losin, http://www.plosin.com/
+- This came to me as a single track. I split the files in cd wave. Nothing else was 
+altered or edited from the original source. 
 
 - QC done by Bgreen
 
 md5
-914697cc34ecec918dbc2edc4013675d *md1964-10-01E.LL138.d1t01.flac
-e1136bed50a3963927b0540c22951a28 *md1964-10-01E.LL138.d1t02.flac
-f758a61e0627cb5d98dca63d7adc70be *md1964-10-01E.LL138.d1t03.flac
-f05297412f060134f5b0f4c73bcd7462 *md1964-10-01E.LL138.d1t04.flac
+988ffaf8aab2e63304a0c6a507d59cc9 *md1964-10-01L.LL139.d1t01.flac
+15a95f0c473b4423ee6086d9eac24aac *md1964-10-01L.LL139.d1t02.flac
+d718bd34505d601ec3538b93e08fe390 *md1964-10-01L.LL139.d1t03.flac
+d4acd67273c4677d71e3a828abba1b2d *md1964-10-01L.LL139.d1t04.flac
+71c028961e89881326076d39a309c89b *md1964-10-01L.LL139.d1t05.flac
 
 ffp
-md1964-10-01E.LL138.d1t01.flac:3902d3f107e8486d1baa6cad7ee77ef1
-md1964-10-01E.LL138.d1t02.flac:fc6fcef29c4fca40973f9c18f4b12a5f
-md1964-10-01E.LL138.d1t03.flac:016ce65f24a3d8d67aad903a39cff801
-md1964-10-01E.LL138.d1t04.flac:c863a0350379538c02dd41eda1bfabe2
+md1964-10-01L.LL139.d1t01.flac:3ccaa5533e9031eb127a5a7b86e27e5b
+md1964-10-01L.LL139.d1t02.flac:7c5e5848532b63ecaeba0b3a78043444
+md1964-10-01L.LL139.d1t03.flac:d2f34d32168b209d8501af7e5859974f
+md1964-10-01L.LL139.d1t04.flac:63ef2cb03384a7b05809b7dd608bef9d
+md1964-10-01L.LL139.d1t05.flac:d1cc49ca984ba2673b3a8b5e8c0590bb
 
 shntool
 length     expanded size   cdr  WAVE problems filename
-    12:29.25      132182444    ---   --   ---xx   md1964-10-01E.LL138.d1t01.flac
-     8:53.62       94167068    ---   --   ---xx   md1964-10-01E.LL138.d1t02.flac
-    11:13.62      118863068    ---   --   ---xx   md1964-10-01E.LL138.d1t03.flac
-     9:48.63      103871420    ---   --   ---xx   md1964-10-01E.LL138.d1t04.flac
-    42:25.62      449084000 B                     (totals for 4 files, 0.3799 overall compression ratio)
-
+     8:22.17       88592828    ---   --   ---xx   md1964-10-01L.LL139.d1t01.flac
+     9:43.36      102925916    ---   --   ---xx   md1964-10-01L.LL139.d1t02.flac
+    12:25.45      131523884    ---   --   ---xx   md1964-10-01L.LL139.d1t03.flac
+    13:12.08      139727660    ---   --   ---xx   md1964-10-01L.LL139.d1t04.flac
+     1:10.01       12350396    ---   --   ---xx   md1964-10-01L.LL139.d1t05.flac
+    44:53.32      475120684 B                     (totals for 5 files, 0.5078 overall compression ratio)
 
 spectral analysis from TLH
-md1964-10-01E.LL138.d1t01.wav:  track looks like MPEG with probability 93%
-md1964-10-01E.LL138.d1t02.wav:  track looks like MPEG with probability 100%
-md1964-10-01E.LL138.d1t03.wav:  track looks like CDDA with probability 85%
-md1964-10-01E.LL138.d1t04.wav:  track looks like CDDA with probability 43%
+md1964-10-01L.LL139.d1t01.wav:  track looks like CDDA with probability 100%
+md1964-10-01L.LL139.d1t02.wav:  track looks like CDDA with probability 100%
+md1964-10-01L.LL139.d1t03.wav:  track looks like CDDA with probability 100%
+md1964-10-01L.LL139.d1t04.wav:  track looks like CDDA with probability 99%
+md1964-10-01L.LL139.d1t05.wav:  track looks like CDDA with probability 100%
 
 old md5 
-d01t01.flac:3902d3f107e8486d1baa6cad7ee77ef1
-d01t02.flac:016ce65f24a3d8d67aad903a39cff801
-d01t03.flac:fc6fcef29c4fca40973f9c18f4b12a5f
-d01t04.flac:c863a0350379538c02dd41eda1bfabe2
+d02t01.flac:3ccaa5533e9031eb127a5a7b86e27e5b

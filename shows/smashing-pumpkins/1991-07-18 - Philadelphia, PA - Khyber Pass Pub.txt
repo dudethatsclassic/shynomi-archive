@@ -1,56 +1,27 @@
-The Smashing Pumpkins
-July 18, 1991
+Smashing Pumpkins
+July 18th, 1991
 Khyber Pass Pub
 Philadelphia, PA, US
 
-Source:      AUD > ANA-L > DAT > DDC-1 > dEdit > CDR
-Conversion:  CDR-2 > WAV via EAC > FLAC
+Source: ANA-?>DAT-M>CDR-2 (from BM)>EAC>FLAC
 
-Setlist:
-01. I Am My End
-02. Tristessa
-03. Rocket
-04. Bury Me
-05. Snail
-06. Siva
-07. Out of Focus [Blue Cheer]
-08. Drown
-09. Silverfuck
-10. I Am One
-11. Terrapin [Syd Barrett]
+01. I Am My End - 4:05
+02. Tristessa - 4:31
+03. Rocket - 5:05
+04. Bury Me - 4:50
+05. Snail - 6:48
+06. Siva - 8:08
+07. Out of Focus [Blue Cheer] - 3:17
+08. Drown - 6:04
+09. Silverfuck - 7:06
+10. I Am One - 5:32
+11. Terrapin [Syd Barrett] - 4:51
 
-Notes:
- - brief static at 7:34 during siva
- - left channel drops out a few times in out of focus
- - tape flip after drown
- - one drop out at end of silverfuck
+-great show with some classic Corgan banter ("Hi, we're motherfuckin' Hole")
+-first (known) performance of Silverfuck
+-upgrade to the ANA-?>CDR transfer (no cut in Silverfuck, improved sound)
+-decent recording (for 1991 anyways)
+-EAC log included
 
-seeded to ZOMB 2006-01-30 by starmetheus
-
-flac fingerprints:
-tsp1991-07-18d1t01.flac:e28b360cbe0512678a3a94c6a8ca564e
-tsp1991-07-18d1t02.flac:a341cca5f864e8b08db41f5dfbf105a1
-tsp1991-07-18d1t03.flac:c7bd5414903d2bebea954c7ca01ddb56
-tsp1991-07-18d1t04.flac:c8ea1b64f65bac64a69a395301bb5b8d
-tsp1991-07-18d1t05.flac:e809eb17da86c4c739f8babd5cd8b41a
-tsp1991-07-18d1t06.flac:759824fa24500363ee05ac40159a7457
-tsp1991-07-18d1t07.flac:cd75efaabfdaa7f2ec35d8ff9daf7b3d
-tsp1991-07-18d1t08.flac:c48225884cf13f07d2c3f3941bbc5ecb
-tsp1991-07-18d1t09.flac:2494c7348f6d2f18839b8190f9411a68
-tsp1991-07-18d1t10.flac:6b775ada931da526848242d7297eca17
-tsp1991-07-18d1t11.flac:58ed9dca55f0ab384612fdc1f1921440
-
-shntool len:
-    length     expanded size   cdr  WAVE problems filename
-     3:51.14       40781372    ---   --   ---xx   tsp1991-07-18d1t01.flac
-     4:33.24       48213692    ---   --   ---xx   tsp1991-07-18d1t02.flac
-     5:03.23       53503340    ---   --   ---xx   tsp1991-07-18d1t03.flac
-     4:50.34       51236012    ---   --   ---xx   tsp1991-07-18d1t04.flac
-     6:47.44       71898332    ---   --   ---xx   tsp1991-07-18d1t05.flac
-     8:09.26       86320796    ---   --   ---xx   tsp1991-07-18d1t06.flac
-     3:16.56       34706156    ---   --   ---xx   tsp1991-07-18d1t07.flac
-     6:25.32       67989308    ---   --   ---xx   tsp1991-07-18d1t08.flac
-     8:40.67       91885628    ---   --   ---xx   tsp1991-07-18d1t09.flac
-     4:41.66       49723676    ---   --   ---xx   tsp1991-07-18d1t10.flac
-     4:32.09       48002012    ---   --   ---xx   tsp1991-07-18d1t11.flac
-    60:52.20      644260324 B                     (totals for 11 files, 0.4811 overall compression ratio)
+Don't sell, etc
+Rhinowing

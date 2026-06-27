@@ -1,23 +1,26 @@
 The Smashing Pumpkins
-1998-06-24
-Koyakuin University; Hachioji, JP
 
-Source: AT-822 > Dat > DDC3 (32k) > Fostex D5(Optical) > m-audio DiO 2496 > CD Wave 1.94.4 > .FLAC > dbpoweramp (upsample to wav) > CD Wave 1.94.5 > FLAC Level 8 (FLAC Frontend 1.7.1 Etree edition)
+06/24/1998 - (unknown venue)K-Rock; Tokyo, JP
+ 
+Source:  FM>CDR
+Conversion: CDR>EAC>WAV>FLAC
 
-Tracklist:
-01 - To Sheila
-02 - Ava Adore
-03 - Perfect
-04 - Tear
-05 - Once Upon A Time
-06 - Let Me Give The World To You
-07 - Shame
-08 - Transmission [Joy Division]
+*DO NOT CONVERT TO MP3 OR OTHER LOSSY FORMAT*
 
-Note: Transmission is cut.
+-----------------
 
-Do not convert this to MP3 unless its for personal use. Never trade MP3s of this show.
-Do not ever sell this show.
+1. DJ intro
+2. Cheap Trick- Surrender
+3. Interview
+4. To Sheila
+5. Interview
+6. Perfect
+7. Interview
+8. Ava Adore
+9. Interview
+10. I Want You to Want Me [Cheap Trick]
 
-Thanks to Fares for selling the tapes, Reece for buying the tapes, Kevin for transferring them, and Ben for helping me.
-Tracked by Matt Krueger (Punkishlyevil).
+total: 61:48
+-------------------
+
+uploaded to the TSP/Zwan Hub 08/2004 by dsheinem@yahoo.com

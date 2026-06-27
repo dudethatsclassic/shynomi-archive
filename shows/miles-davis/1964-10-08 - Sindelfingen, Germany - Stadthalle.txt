@@ -1,9 +1,9 @@
 Miles Davis Quintet
-10-08-1964 (Early)
+10-08-1964 (Late)
 Stadthalle
 Sindelfingen, Germany
 
-Project ID - LL117
+Project ID - LL118
 
 Source: Pre-FM 
 Lineage: Süddeutscher Rundfunk (SDR) radio broadcast Station reel > ? > DAT > 
@@ -17,33 +17,25 @@ Tony Williams (d)
 
 disc 1
 
-d1t01. Autumn Leaves
-d1t02. So What
-d1t03. All Blues
-d1t04. Oleo
-d1t05. Walkin' 
-d1t06. The Theme
+d1t01. Milestones
+d1t02. No Blues
+d1t03. All of You
+d1t04. Joshua
+d1t05. The Theme
  
 -------------------------------------------------------
 
 Notes:
 
-- d1t02: staic/digi pop at 5:35
-
-- d1t03: staic/digi pop at 3:04, 4:11, 11:04. Drop out at 10:56 
-
-- d1t04: staic/digi pop at :49, 
-
--  Pete Losin also lists "Stella By Starlight" as being played  between "Oleo" 
-and "Walkin".
+- d1t02: static/digi pop at 3:26.
 
 - There is a slight bit of distortion and hiss in this source. During the quieter 
 parts of the recording, particularly between bass solos, you can hear the oversaturation in 
 the form of a whooshing noise as noted below. Still very nice! The sound on LL116 is 
-cleaner, but is not complete and uses tracks from both the early and late show to make 
+cleaner, but is not complete and uses songs from both the early and late show to make 
 the source. 
 
-- Original notes from Milesians set list
+- Original notes from Milesains set list
 "The source DAT was received with tracks in a slightly different order, in an unknown 
 generation but with a very full frequency spectrum showing little or no high-end 
 generational loss. Frequency analysis is also free from the distinct spike at around 
@@ -61,46 +53,42 @@ leaked out.
 
 No fades were applied between sets so as to preserve everything on the source tape and allow continuous play. FLAC encoding was done with sectors aligned as one complete set, not two separate discs.
 
+
 - QC done by Bgreen
 
 md5
-a44521bf4645ca28ac7f9600bbc7407a *md1964-10-08E.LL117.d1t01.flac
-9ed9c1668d70874d5ddc7e5222ac9759 *md1964-10-08E.LL117.d1t02.flac
-0f2141f4f11616940a0ce602f8adab84 *md1964-10-08E.LL117.d1t03.flac
-55cc84463467a7f912641cfb06d7ef61 *md1964-10-08E.LL117.d1t04.flac
-7ed1ed88d786f58cc442f328399a14a8 *md1964-10-08E.LL117.d1t05.flac
-eda7052802ee8d47c00dedadaedeba73 *md1964-10-08E.LL117.d1t06.flac
+0d6c8b3889fabd5cc57f70b706689869 *md1964-10-08L.LL118.d1t01.flac
+324f4c9ab3458137133300f7e0710723 *md1964-10-08L.LL118.d1t02.flac
+cee3b0ed6b8e1063cf16b80a8326b785 *md1964-10-08L.LL118.d1t03.flac
+0128cf5346ee2688daafe6f66c828793 *md1964-10-08L.LL118.d1t04.flac
+5d894b6a0abeaf3b1c37f7da60d6036d *md1964-10-08L.LL118.d1t05.flac
 
 ffp
-md1964-10-08E.LL117.d1t01.flac:6e9f237c9f7ccf8803862c79b91866e2
-md1964-10-08E.LL117.d1t02.flac:68120d726b75e27f36e100bc1ca1e50c
-md1964-10-08E.LL117.d1t03.flac:0492fe4abc220dca80ed9c6c0e274764
-md1964-10-08E.LL117.d1t04.flac:43cb3405b9f56d35ba6068f9a7a10303
-md1964-10-08E.LL117.d1t05.flac:2596402c279ba847af18dbc4a7b6ded1
-md1964-10-08E.LL117.d1t06.flac:77928154400814dc7dc4a9510002f34e
+md1964-10-08L.LL118.d1t01.flac:5a3764c1f17b7aa1debfc05657757622
+md1964-10-08L.LL118.d1t02.flac:952e444daa54ce0466bbfbc6bacbb905
+md1964-10-08L.LL118.d1t03.flac:803a067a125493bb7fe830bf9201d8f1
+md1964-10-08L.LL118.d1t04.flac:c3f587979a894c72a0a4b9c616e1fdcc
+md1964-10-08L.LL118.d1t05.flac:653c04e37269f004e5ef2eb05f1ae165
 
 shntool
     length     expanded size   cdr  WAVE problems filename
-    10:37.23      112420940    ---   --   ---xx   md1964-10-08E.LL117.d1t01.flac
-     9:00.21       95305436    ---   --   ---xx   md1964-10-08E.LL117.d1t02.flac
-    12:28.71      132114236    ---   --   ---xx   md1964-10-08E.LL117.d1t03.flac
-     6:01.02       63685148    ---   --   ---xx   md1964-10-08E.LL117.d1t04.flac
-     7:06.61       75289916    ---   --   ---xx   md1964-10-08E.LL117.d1t05.flac
-     1:08.24       12051692    ---   --   ---xx   md1964-10-08E.LL117.d1t06.flac
-    46:22.52      490867368 B                     (totals for 6 files, 0.5901 overall compression ratio)
+     7:00.29       74156252    ---   --   ---xx   md1964-10-08L.LL118.d1t01.flac
+     9:55.06      104972156    ---   --   ---xx   md1964-10-08L.LL118.d1t02.flac
+    12:25.21      131467436    ---   --   ---xx   md1964-10-08L.LL118.d1t03.flac
+     9:14.19       97770332    ---   --   ---xx   md1964-10-08L.LL118.d1t04.flac
+     1:01.02       10765148    ---   --   ---xx   md1964-10-08L.LL118.d1t05.flac
+    39:36.02      419131324 B                     (totals for 5 files, 0.5742 overall compression ratio)
 
 spectral analysis from TLH
-md1964-10-08E.LL117.d1t01.wav:  track looks like CDDA with probability 99%
-md1964-10-08E.LL117.d1t02.wav:  track looks like CDDA with probability 100%
-md1964-10-08E.LL117.d1t03.wav:  track looks like CDDA with probability 100%
-md1964-10-08E.LL117.d1t04.wav:  track looks like CDDA with probability 100%
-md1964-10-08E.LL117.d1t05.wav:  track looks like CDDA with probability 100%
-md1964-10-08E.LL117.d1t06.wav:  track looks like CDDA with probability 100%
+md1964-10-08L.LL118.d1t01.wav:  track looks like CDDA with probability 100%
+md1964-10-08L.LL118.d1t02.wav:  track looks like CDDA with probability 100%
+md1964-10-08L.LL118.d1t03.wav:  track looks like CDDA with probability 100%
+md1964-10-08L.LL118.d1t04.wav:  track looks like CDDA with probability 100%
+md1964-10-08L.LL118.d1t05.wav:  track looks like CDDA with probability 99%
 
 old md5
-a44521bf4645ca28ac7f9600bbc7407a *miles1964-10-08t01.flac
-9ed9c1668d70874d5ddc7e5222ac9759 *miles1964-10-08t02.flac
-0f2141f4f11616940a0ce602f8adab84 *miles1964-10-08t03.flac
-55cc84463467a7f912641cfb06d7ef61 *miles1964-10-08t04.flac
-7ed1ed88d786f58cc442f328399a14a8 *miles1964-10-08t05.flac
-eda7052802ee8d47c00dedadaedeba73 *miles1964-10-08t06.flac
+0d6c8b3889fabd5cc57f70b706689869 *miles1964-10-08t07.flac
+324f4c9ab3458137133300f7e0710723 *miles1964-10-08t08.flac
+cee3b0ed6b8e1063cf16b80a8326b785 *miles1964-10-08t09.flac
+0128cf5346ee2688daafe6f66c828793 *miles1964-10-08t10.flac
+5d894b6a0abeaf3b1c37f7da60d6036d *miles1964-10-08t11.flac

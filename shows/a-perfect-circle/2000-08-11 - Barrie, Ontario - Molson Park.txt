@@ -1,33 +1,21 @@
-
 A Perfect Circle
-Molson Park: Barrie, Ontario
-"Summersault Festival"
-August 11, 2000
+2000-08-11
+Barrio, Ontario, Canada
+Molson Park
 
-Source: Sennheiser MKE-2002 > Sony TCD-D8 @ 44.1kHz
-Lineage: DAT Master > FLAC
-Transfer: DAT Master > Tascam DA-20 > Audiophile 2496 > Audacity (amplify) > CDWave > TLH
-Taper: MS
+Source: Unknown Audience
+Transfer: Unk Gen CD > EAC (Secure Mode) > WAV > FLAC
+Notes: Verified lossless.
 
 Setlist:
-
-01 Intro
-02 The Hollow
-03 Magdalena
-04 Sleeping Beauty
-05 3 Libras
-06 Brena
-07 Orestes
-08 Thinking of You
-09 Thomas
-10 Rose
-11 Judith
-
-Notes: The mix cleans up pretty nicely after the 1st song. I did not tape this show, but I acquired the master DAT in 2009. Transferred in 2020. Amplified entire file by +7dB. Raw transfer with no fades or EQ.
-
-Archive: Master DAT was transferred @ 44.1 kHz and FLAC'd with cue sheet. 
-
-Transferred by tapeworm(48) 
-Txt file compiled on 8/22/2020
-
-*** DO NOT DISTRIBUTE IN LOSSY FORMATS. DO NOT SELL THIS RECORDING, TRADE IT FREELY *** 
+Renholder (intro track)
+The Hollow
+Magdalena
+Sleeping Beauty
+3 Libras
+Brena
+Orestes
+Thinking of You
+Thomas
+Rose
+Judith

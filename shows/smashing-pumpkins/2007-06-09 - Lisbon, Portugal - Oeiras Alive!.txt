@@ -1,49 +1,41 @@
-The Smashing Pumpkins
-2007-06-09 - Zeitgeist tour
-Oeiras Alive!07
-Passeio Marítimo de Algés,Algés, Oeiras, Portugal
+THE SMASHING PUMPKINS
+2007-06-09
+Oeiras Alive!, Oeiras
+Lisbon, Portugal
 
-Source:MD Sharp MD-MS702>Mic Sony ECM-717
-Lineage: MD Master>Minidisk Deck Sony MDS JE-510>optical cable>Creative SoundBlaster optical in>USB> Computer> Audacity recording in WAV - 44 kHz / 16 bit Wave>Audacity track cut>FLAC
-Taper: ziggyswoon
+Source:     AUD > SP-CMC-1 > SP-SPSB-1 @ 16Hz (no bass roll-off) > Nomad Jukebox 3 (44Hz/16bit; line-in gain @ +12dB)
+Location:   ~40m front of right stacks
+Transfer:   NJ3 > HD (firewire) > CD Wave Editor > TLH (FLAC level 8)
+Editing:    Cool Edit Pro 2.1 (fade in/out tracks)
 
-Set:
+Disc 1
+01 <intro>
+02 Today
+03 Stand Inside Your Love
+04 Bleeding The Orchid
+05 United States >
+06 Bullet With Butterfly Wings
+07 1979
+08 Home
+09 Silverfuck > The End (tease) [Doors]
+10 33
+11 Rocket
+12 To Sheila
+13 <piano interlude>
+14 <fade out>
 
-01. Intro
-02. Today
-03. Stand Inside Your Love
-04. Bleeding the Orchid
-05. United States
-06. Bullet with Butterfly Wings
-07. 1979
-08. Home
-09. Silverfuck
-10. Thirty-three
-11. Rocket
-12. To Sheila
-13. Tonight, Tonight
-14. Tarantula
-15. Starz
-16. Zero
-17. Disarm (cuts in)
-18. Untitled
-Encore #
-19. Cherub Rock
-20. Gossamer
+Disc 2
+01 <fade in>
+02 Tonight Tonight
+03 Tarantula
+04 Starz
+05 Zero
+06 Disarm
+07 Untitled
+08 encore break
+09 Cherub Rock
+10 Gossamer
 
-
-Billy Corgan - Vocals & Guitar
-Ginger Pooley - Bass
-Jeff Schroeder - Guitar
-Jimmy Chamberlin - Drums
-Lisa Harriton - Keyboards
-
-This was the first edition of what is now known as NOS Alive Festival. It was the Pumpkins return and we decided to go and glad we did. It was a nice show but it was a very windy day and a really compact crowd. The recording suffers from that. The sound from the PA system floats from one side to another sometimes and there are inevitable audience noise. I was able to find a more quiet spot in the audience and i find that this turned out better than the other existing source. I leave that for you guys to judge. Disarm cuts in due to MD change.
-
-This is the first time i am sharing this recording and the first transfer from my master mds.
-
-Share and enjoy
-Cheers
-Z
-
-
+Notes:
+  Lots of crowd movement that made it sometimes difficult to get a clear "path" to the PA, so it gets a little bit muffled sometimes. Plus the usual loud singers/clappers/whistlers (etc...)
+  There are 2 sound glitches ("1979" @ 0:26 / "Home" @ 1:25) during the show. These were PA failures, not recording errors.

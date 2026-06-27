@@ -1,70 +1,37 @@
-I know this is *at least* 3rd gen. A friend of mine had a copy of this show that she got from someone, and then she copied her tape for me. i have no idea what gen the person she got it from was. but thats all i know - anyway enjoy.
+96.08.30 - McNichols Arena, Denver, CO
 
--xdarcyx
+Taper:            ?
+Generation:       DAT>ANA-2
+Source:           CSB>TCD-D7
+Location:         ?
+flaws:            some occasional small clicks and pops
+Conversion:       Sony TC-WE625S > SGI Octane2 > Cool Edit Pro 2.1 > CDWave > FLAC
+Resampling:       none; show A/D converted at 44.1k
+Editor:           Henry Bent
+Editing:          none
 
+Tracklist:
 
-*missing 1979 and XYU according to SPFC.org* (yea i wish i would have known this a long time ago.. :( )
-would be nice to get the full show here.
+01 - (unknown)			6:27
+02 - Zero			6:04
+03 - Mouths of Babes		3:47
+04 - Where Boys Fear to Tread	7:00
+05 - Silverfuck		     	23:16
 
+I downloaded the previous transfer (claims DAT>CDR) of this soundcheck thinking that 
+it would be an upgrade to my copy.  Imagine my surprise when it wasn't!  That transfer 
+has some badly audible noise reduction (which has no place in a standard release 
+anyway) and someone had very obviously removed a lot of the bass.  The bass as well as 
+the muffled sound were my favorite parts of this recording - you can easily imagine 
+yourself in a huge, empty arena hiding under some seats trying not to get caught.
 
-@@i am not the only one with this flaw of missing tracks, ziggy also has the same copy with missing tracks
-therefore, i am guessing there are a lot circulating like this, even though SPFC.org states
-nothing about missing tracks.@@
+The bass does get a little overbearing at times, especially at one point in WBFTT
+and less so in a few sections of Silverfuck.
 
+This is a DAT>ANA-2, from Dave Asselin's DAT>ANA-1, traded way back in the day.  My
+copy has a few clicks and pops in it, all of which are on my cassette and have nothing 
+to do with the transfer.  I have no idea if they are on the original.  
 
-conversion: ANA- (at least 3rd gen)>WAV>FLAC
+I would, of course, be more than happy to see a clean DAT transfer of this.
 
-
-1996-08-30 McNichols Arena - Denver, Colorado
-
-Set: 
-
-
-Where Boys Fear to Tread 
-Zero 
-Cherub Rock 
-To Forgive 
-Tonight, Tonight 
-Today 
-Thru the Eyes of Ruby 
-Thirty-three 
-Disarm 
-Bullet with Butterfly Wings 
-Fuck You 
-Porcelina of the Vast Oceans 
-> Beautiful 
-Muzzle 
-
-Encore 1: 
-
-
-1979 **
-X.Y.U. **  
-
-Encore 2: 
-
-
-By Starlight 
-Silverfuck 
-Drown 
-> Hummer   (tease) 
-
-
-AUD DAT - 120m CSB > D7 
-
-** - missing from my copytrack06.flac:6c32b2cee5b2df8d6ea7e98866c1e3e4
-track07.flac:7607eaee01cc921de47d3b06c8749c69
-track08.flac:42d8596e4f457ea5a3c2a8743f83b537
-track09.flac:614a4d58ef06d59552df8228a5fa83da
-track10.flac:614a4d58ef06d59552df8228a5fa83da
-track11.flac:7650032522869329b1cf63d771b52475
-track12.flac:33cb05c886a841957024bf5ab6b18555
-track13.flac:57cb9938d422a169cd97628fec42d6d4
-track14.flac:57cb9938d422a169cd97628fec42d6d4
-track15.flac:81f7ed3ed55d35767f2761c4a39d71a4
-track16.flac:1df7750536aa80b571c7737760a8aaa2
-track01.flac:935753dfdab86fd5fc7b959ed05c58ce
-track02.flac:a903576e086ad13faa6caecd487ec563
-track03.flac:c5f6427e2525f938309dcdf43104508f
-track04.flac:b09b329b672b1531068dfc0f1df0923e
-track05.flac:15e3727080aadd3da3f20c7a4b234067
+Any questions, comments - hbent@cs.oberlin.edu

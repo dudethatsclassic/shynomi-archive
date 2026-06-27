@@ -1,42 +1,12 @@
-Smashing Pumpkins :: Virgins :: Backstage Tavern; Seattle, WA, US :: 20 August 1991 :: Full Show :: RARE :: Audience Recording :: Liberated Silver
-
-Publisher: Red Robin Records
-Reference: SPCD 940111
-Made In: ?
-Date:
-Total Duration: 62:10
-
-Source: Original Silver --> wav (EAC) --> flac (level 8)
-Artwork: Included
-
-01. Rocket
-02. Tristessa
-03. Window Paine
-04. Bury Me
-05. Siva
-06. Snail
-07. I Am One
-08. Silverfuck
-09. STP
-10. I Am My End
-11. Terrapin [Syd Barrett] 
-
-Note - Artwork Discrepancies: 
-Track 07 is mislabeled as 'I Am The One'.
-Track 09 is mislabeled as 'What Do You Want'.
-Track 10 is mislabeled 'When You Die Inside'.
-Track 11 is mislabeled as 'Crystal Blue'.
-Venue is mislabeled as 'Off Ramp Cafe in Seattle, Washington, August 28, 1991'.
-
-Flac Fingerprints
-01 - Smashing Pumpkins - Rocket.flac:611a7ca71aa5b4566cfbda5c3345f69a
-02 - Smashing Pumpkins - Tristessa.flac:56052409ddac0f323f749dc3a977213a
-03 - Smashing Pumpkins - Window Paine.flac:da601aa112c6afb4474018c80a06ee73
-04 - Smashing Pumpkins - Bury Me.flac:e3f109b4f2fd7042f99854be374b9b46
-05 - Smashing Pumpkins - Siva.flac:fd6ce86a12c857229bae108701b5a946
-06 - Smashing Pumpkins - Snail.flac:7e475ffebf4942851276b13d737790f3
-07 - Smashing Pumpkins - I Am One.flac:755fc91b86959cec9c32c4c2e8d1cac8
-08 - Smashing Pumpkins - Silverfuck.flac:1d9c93cd3664fba5cf26fccb4fc3c732
-09 - Smashing Pumpkins - STP.flac:bb6c2ffae28e03f97892ef61e4ebca85
-10 - Smashing Pumpkins - I Am My End.flac:620d30aa51db0024e8b74b0ec42bcfb1
-11 - Smashing Pumpkins - Terrapin [Syd Barrett].flac:9b1866d2636b5235091d36b0c7fc90dd
+tsp1991-08-20t01.flac:b7c2329dcb50c1d412d543a77e717804
+tsp1991-08-20t02.flac:3378473e285204b4c836e4184c8b3406
+tsp1991-08-20t03.flac:d7d3557d83edf3d31acf463b20acc85c
+tsp1991-08-20t04.flac:a7cc059ce4416d35787c6a0cab74a55c
+tsp1991-08-20t05.flac:bb15264e995119ba4b2883bcc1c89014
+tsp1991-08-20t06.flac:5e700a21226dfe54eeb5a8776b3c2451
+tsp1991-08-20t07.flac:f63a3fca06cc82624eeecd43183db2a0
+tsp1991-08-20t08.flac:e2aa6a732276a380c2a77912667121de
+tsp1991-08-20t09.flac:c8f21a0dbd0afdcb0386931d299a0c59
+tsp1991-08-20t10.flac:96afbe9462f877e971a124382a64711c
+tsp1991-08-20t11.flac:b8b8b270010566791fe2ec9f68463da3
+tsp1991-08-20t12.flac:a496087ec1667ac9683b70149e02e966

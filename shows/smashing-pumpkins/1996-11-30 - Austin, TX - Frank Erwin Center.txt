@@ -1,52 +1,35 @@
-Tsp1996-11-30
 
-From SPLRA
-The Smashing Pumpkins
-Date 	1996-11-30
-Venue 	Frank Erwin Center
-Location 	Austin, TX, US
-Venue Type 	Arena
-Capacity 	17,617
-Surfaced Recordings
-AUD #1
-Source 	AUD
-Format 	DAT
-Equipment 	SS Mic>D7
-Length 	119m
-Complete? 	Yes
-Lowest Circulating Generation 	DAT-?
+1996/11/30 - Frank Erwin Center; Austin, TX, US 
+ 
+  
+Set: 
 
-Set:
-Disc 1:
-    * Mellon Collie and the Infinite Sadness (over PA)
-    * Where Boys Fear to Tread
-    * Zero
-    * Cherub Rock
-    * By Starlight
-    * Tonight, Tonight
-    * Today
-    * Fuck You
-    * Thru the Eyes of Ruby
-    * Norwegian Wood [Beatles] (tease)
-    * Thirty-three
-    * Disarm
-    * Bullet with Butterfly Wings
-    * Muzzle 
 
-Disc 2:
-Encore One:
+Where Boys Fear to Tread 
+Zero 
+Cherub Rock 
+By Starlight 
+Tonight, Tonight 
+Today 
+Fuck You 
+Thru the Eyes of Ruby 
+Norwegian Wood [Beatles]   (tease) 
+Thirty-three 
+Disarm 
+Bullet with Butterfly Wings 
+Muzzle 
 
-    * In-A-Gadda-Da-Vida [Iron Butterfly] (tease)
-    * X.Y.U. 
+Encore 1: 
 
-Encore Two:
 
-    * 1979
-    * Drown
-          o Hummer (tease) 
-    * Silverfuck 
+In-A-Gadda-Da-Vida [Iron Butterfly]   (tease) 
+X.Y.U. 
 
-Source info for this fileset:
-AUD>DAT[SS mic>D7]>DDC-?@48kHz>CDR-1 (from Brian Muehlhaus)>EAC>FLAC
+Encore 2: 
 
-Notes: 26 minute Silverfuck!
+
+1979 
+Drown 
+> Hummer   (tease) 
+Silverfuck 
+ 

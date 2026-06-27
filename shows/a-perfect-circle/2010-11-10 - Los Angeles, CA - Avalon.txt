@@ -3,29 +3,33 @@ November 10th, 2010
 Avalon
 Los Angeles, CA, USA
 
-Source: dpa4061s > MMA6000 w/low cut @ 100hz > Microtrack 24/96(24 Bit Wav@48Khz)
-Location: front row of balcony, right side
-Conversion: Microtrack 24/96 > USB > Cooledit (>16/44.1) > CD Wave > Flac Frontend > Flac
-Taper: geordy
+Source: IEM > Microtrack 24/96
+Transfer: Microtrack 24/96 > USB > CD Wave > Flac Frontend > Flac
 
-01. Annihilation
-02. Imagine
-03. Peace, Love and Understanding
-04. What's Going On
-05. Passive
-06. Gimme Gimme Gimme
-07. People are People
-08. Freedom of Choice
-09. Let's Have a War
-10. Counting Bodies Like Sheep to the Rhythm of the War Drum
-11. When the Levee Breaks
-12. Iha Jokes
-13. Fiddle and Drum
-14. Band Intros
-15. 3 Libras (All Main Courses Mix)
-16. The Noose
+01. Annhilation
+02. Talking
+03. Annhilation
+04. "I can't remember half this shit, so we, I have to do the whole set whether my throat hurts or not"
+05. Peace, Love, and Understanding
+06. Talking
+07. What's Going On
+08. Talking
+09. Passive
+10. Gimme
+11. Talking - retard
+12. People are People
+13. "Tonight's after thingy", "I'm not sure I can make it thru W&P"
+14. Freedom of Choice
+15. Talking
+16. Lets have a war
+17. Talking
+18. Counting Bodies Like Sheep
+19. Talkling
+20. Levee
+21. Talking
+22. Fiddle and the Drum
+23. Talking, "James Iha better learn that fucking song, and stat", maynard on keys
+24. 3 Libras Remix
+25. 3 Libras Remix Part 2
 
-notes: No EQ, just raised the volume some.  Flew out and caught all 3 shows in the middle of a week long vacation in Los Angeles and San Diego.  Long story short, I wasn't able to use my mics on night one but did tape nights 2 and 3.  Though this is my least favorite album, it was the most enjoyable show of the 3 nights.  Like night 2, crowd noise is minimal as we got front row balcony spots, on the right side this time so we could actually see Maynard.  I particularly enjoyed the stretch of What's Going On > Passive > Gimme Gimme Gimme.  The crowd was very respectful during Fiddle and Drum, so much so that you can hear subtle noises from the bar below us at times.  Though Troy played during 3 Libras on the previous night, he was not at this show.  The Noose was a nice change from Imagine as the closer.  Special thanks to Distortion and Jason for putting up with us and an all around great vacation!
-
-
-DO NOT SELL!!!
+notes: MT died/turned off during the 3 Libras Remix, I turned it back on, hit record, and got another 1:27 before it turned off again.

@@ -1,60 +1,19 @@
-Smashing Pumpkins
-April 24th 1996
-Palatrussardi
-Milan, IT
-
-SOURCE (AMT#1):
-unknown > unknown
-
-TRANSFER:
-Sony DCR TRV230E > JVC JX-S777 > Datavideo TBC3000 > Blackmagic Intensity Pro > VirtualDub > AviSynth 2.60 > x264.exe 0.155.2901 7d0ff22 > MKVToolNix GUI v46.0.0
-
-GENERATION:
-HI8(M) > AVI [UTVideo/48khz/16-Bit/PCM] > MKV [576p/x264 | AAC | FLAC] >  Audacity (normalized to -0.1db) > CDWave (split) > TLH (flac8)
-
-LENGTH:
-120:04
-
-RECORDING:
-"Pluscenti"
-
-TRANSFER:
-TravisBickle1963
-
-ENCODE & DISTRIBUTION:
-Nicholas Serra - July 2020
-
-01. Mellon Collie and the Infinite Sadness
-02. Tonight, Tonight
-03. Zero
-04. Fuck You
-05. Today
-06. To Forgive
-07. Bullet with Butterfly Wings
-08. Thru the Eyes of Ruby >
-09. By Starlight
-10. Disarm
-11. Jellybelly
-12. Porcelina of the Vast Oceans
-13. -banter-
-14. Muzzle
-15. Cherub Rock
-
-16. -banter-
-17. 1979
-18. X.Y.U.
-
-19. -banter-
-20. Mayonaise
-
-21. Bodies >
-22. Silverfuck > Dose [Filter]
-23. Farewell and Goodnight
-
-* the band are in an excellent mood this evening
-
-* Kerry Brown joins in on a second drumkit for Silverfuck
-
-* there are two tape blips around the 15 minute mark of Silverfcuk
-
-* an FM broadcast exists (https://archive.org/details/tsp1996-04-24.flac16) but the DJs talk over large amounts of the music, and the last 11 minutes of the show are missing entirely
+tsp1996-04-24d1t01.flac:fffa45fd2eb0f9e8ce4453906b3d6f13
+tsp1996-04-24d1t02.flac:6018586c353fbfd6f7678ac726caeada
+tsp1996-04-24d1t03.flac:08443b9ddbd37a1a7da5a766cbb39065
+tsp1996-04-24d1t04.flac:82301c70daf8305aaacd8b27744490a2
+tsp1996-04-24d1t05.flac:a0b10fb425fff782e24bf1ec953655a0
+tsp1996-04-24d1t06.flac:7e29753be25e17b78430345eddf7dda7
+tsp1996-04-24d1t07.flac:98750e8b162bc023ab40f669bdb38748
+tsp1996-04-24d1t08.flac:56cb7652735c1448462f572f95b0f5a9
+tsp1996-04-24d1t09.flac:04b2f3a9f577657b99b1907a3b7be5ce
+tsp1996-04-24d1t10.flac:4a2da9ebdcfdec83382b1f52273355e3
+tsp1996-04-24d1t11.flac:ffb3415040c4b940cc4350b6f9d49318
+tsp1996-04-24d1t12.flac:14faba8fe5d7d145c35149ccac54363e
+tsp1996-04-24d2t01.flac:c7b086360b1f9d07098008027606f710
+tsp1996-04-24d2t02.flac:624c2adce4ccd2754505100aea1b1981
+tsp1996-04-24d2t03.flac:ee061fd8c17e04b352c676f01053d2a0
+tsp1996-04-24d2t04.flac:5e1e69c6e52329c8b8e97fd537ac1ec7
+tsp1996-04-24d2t05.flac:6799d9df5a8bcf1498b70b2b8c1a826c
+tsp1996-04-24d2t06.flac:48d14ba949fc17d01146a141837126fb
+tsp1996-04-24d2t07.flac:5aacf3f6ef27060bbb1982e6b155aa99

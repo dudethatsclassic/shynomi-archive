@@ -1,53 +1,36 @@
-A Perfect Circle
-November 2, 2003
-Voodoo Music Festival
+11/02/03
+Voodoo Music Fest @ City Park
 New Orleans, LA
+Fall 2003, US 
 
+Taper Source:  SPt16 Cardioids > SPsb-1 (bass roll-off @ 107hz) > D100 (48kHz)
+Transfer:  Tascam DA20mkII > U24 Waveterminal (downsampled to 44.1 kHz) >
+           Cool Edit 4.90 > Cd wav editor > mkw 0.96 > shn > wav > flac
+Taper:  Maria A (ToriphileMaria)
+Transfer: Tom A 
 
-Source: Core Sound Binaurals > Sound Pros SPSB-3 BB > line-in > Sony MZ-R910 minidisc
+Setlist:
+01 - Vanishing - 4:51
+02 - Pet - 4:37
+03 - The Hollow - 2:56   
+04 - Magdalena - 5:04
+05 - Weak And Powerless - 3:55   
+06 - Orestes - 4:41
+07 - Blue - 5:04
+08 - Thinking Of You - 5:45   
+09 - The Package - 7:29
+10 - 3 Libras - 5:18
+11 - The Nurse Who Loved Me - 5:34
+12 - The Outsider - 4:31
+13 - Gravity - 5:33
+14 - The Noose - 5:53
+15 - Judith* - 5:16
 
-Location: front of stacks, stage right
+* Featuring Troy Van Leeuwen 
 
-Transfer: MZ-R910 > line-out > WAV (soundcard via Totalrecorder)
+Notes: Sound fluctuation in the first track due to fiddling with recording levels. 
 
-Mastering: Wavlab 3.04a (EQ, dynamic compression, track splits)
+***PLEASE DO NOT ENCODE TO MP3 OR ANY OTHER FORM OF LOSSY COMPRESSION***
 
-Recorded and Mastered by Adam Lancaster (adam_lancaster462@yahoo.com)
-
-
-Note:  This was the third APC show in a row for me... the first two being San Antonio on Oct 31st, and Houston on Nov 1st.
  
-
-Also note that these files were ripped from my original master audio CD-R. Unfortunately I was not in the habit of keeping the original WAV files back then.
-
-
-
-Tracks:
-
-01.  Vanishing                            5:55
-02.  Pet                                  4:40
-03.  The Hollow                           2:57
-04.  Magdalena                            5:02
-05.  Weak and Powerless                   4:00
-06.  Orestes                              4:50
-07.  Blue                                 6:05
-08.  Thinking of You                      4:34
-09.  The Package                          7:29
-10.  3 Libras                             5:22
-11.  The Nurse Who Loved Me               5:32
-12.  The Outsider                         4:31
-13.  Gravity                              5:34
-14.  The Noose                            6:13
-15.  Judith (w/ Troy Van Leeuwen)         4:38 
-
-
-Total:                                   77:22
-
-
-
-
-
-Do not sell this recording.
-
-Enjoy!
-
+ 

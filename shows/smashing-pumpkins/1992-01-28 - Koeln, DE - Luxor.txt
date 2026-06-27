@@ -1,37 +1,34 @@
-SMASHING PUMPKINS - Köln (Germany), 28 Jan 1992, Luxor (off Hi8 master)* A Bobfather recording*
+The Smashing Pumpkins
+1992/01/28 - Luxor; Koeln, DE 
+ 
 
-SOURCE: SONY HI 8 video cam w/ external mic (aiwa cm 30 stereo mic)
-LINEAGE: SONY HI 8 Video cam > PIONEER STANDALONE DVD REKORDER (fine mode)> DVD (optimized mode) 
+Set: 
 
-Notes: I asked the band for permission to film. Billy said yes. During the soundcheck they were arguing all the time. I thought "oh boy. This band won't exist for no longer than 6 months." Ok....I was wrong. It took a little longer.
-Anyway...I`m glad to see them when they were full of energy.
+01 Slunk 
+02 Rocket 
+03 Tristessa 
+04 Window Paine 
+05 Snail 
+06 Siva 
+07 Luna 
+08 Bury Me 
+09 Offer Up   (tease) 
+10 Silverfuck 
+11 Crush 
+12 I Am One 
+     > Jellybelly (old version) 
+     > Enter Sandman [Metallica]   (tease) 
+     > Paranoid [Black Sabbath]   (tease) 
 
-Setlist:
 
-Slunk 
-Rocket 
-Tristessa 
-Window Paine 
-Snail 
-Siva 
-Luna 
-Bury Me 
-Offer Up 
-Silverfuck 
+Source: AUD>VID-L>Turtle Beach sound card>CDR>FLAC                     
 
-Encore:
-Crush 
-I Am One 
-(With "Star-Spangled Banner" tease) 
-Jellybelly 
-(Early version; with "Enter Sandman" and "Paranoid" teases) 
+Flaws:Tiny dropout @ 1:46 track 12. Most likely from VID gens.
 
-Video Codec: MPG2
-Frrame Rate: 25 pics/sec
-Bitrate: 6453
-Frame: 720 x 576
-Screen: 4:3 PAL
-48khz/256 kb/s stereo 
+Enjoy!
 
-Best
-Bobfather
+-traveller03
+
+http://wiki.etree.org/index.php?page=FLAC
+
+ 

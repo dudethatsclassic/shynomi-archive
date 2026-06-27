@@ -1,86 +1,55 @@
-Smashing Pumpkins
-July 2nd 2000
-Kokusai Forum
-Tokyo, JP
 
-SOURCE (AUD#1):
-SS-DSM-6S > PA-6LC2 > TCD-D7
+The Smashing Pumpkins / IN CONCERT 7.2.2000
 
-TRANSFER:
-Tascam DA-20mkii > Marantz PMD670 (WAV) > Adobe Audition > CD Wave Editor
+Jul 2nd, 2000
+at Tokyo International Forum, Tokyo, Japan
 
-GENERATION:
-DDC(1) > FLAC
+Aud Rec VHS(Panasonic NV-SVB1) -> TOSHIBA RD-X5 -> DVD-R
+NTSC / Total : 135min
 
-LENGTH:
-143:56
+-----------------------------------------------------------------------
+There are sound jump resulting from an original master tape.
+This show was the last performed in Japan.
+Set 1 is an acoustic performance, and set 2 is an electric performance.
 
-SET:
-01. Speed Kills.flac
-02. Today.flac
-03. Muzzle.flac
-04. Once Upon a Time.flac
-05. The Imploding Voice.flac
-06. To Sheila.flac
-07. Shame.flac
-08. Drown.flac
-09. Glass and the Ghost Children.flac
-10. This Time.flac
-11. Stand Inside Your Love.flac
-12. Disarm.flac
-13. The Everlasting Gaze.flac
-14. Heavy Metal Machine.flac
-15. Blue Skies Bring Tears.flac
-16. I Am One.flac
-17. Raindrops + Sunshowers.flac
-18. Blew Away.flac
-19. Tonight, Tonight.flac
-20. I of the Mourning.flac
-21. Rock On [Essex].flac
-22. Bullet with Butterfly Wings.flac
-23. Once in a Lifetime [Talking Heads].flac
-24. encore break.flac
-25. Perfect.flac
-26. Cherub Rock.flac
-27. encore break.flac
-28. 1979.flac
+Speed is slow here because of an ADSL circuit. 
+Please download without haste.
 
-NOTES:
-Cuts during the encore breaks. Acoustic set normalized to reduce volume discrepancy. Thank you to Andrew Fogelsong for the transfer from his first gen tape. Special thanks to Matt Reeder for detailed analysis and comparisons.
+Sorry, if my English is wrong...
+Enjoy!
+-----------------------------------------------------------------------
 
-MD5 FINGERPRINTS:
-c70513ffc5cf8dd509441c0571b1ad88 *Smashing Pumpkins 2000-07-02 AUD1 t01 Speed Kills.flac
-f650793e42f20a92f8608bcd6b7cb665 *Smashing Pumpkins 2000-07-02 AUD1 t02 Today.flac
-8d105a4cb5df43140e0430144f39b996 *Smashing Pumpkins 2000-07-02 AUD1 t03 Muzzle.flac
-24ff078889d9b02fb83ff76c20a39f9f *Smashing Pumpkins 2000-07-02 AUD1 t04 Once Upon a Time.flac
-caf8f2266d871d642ac24d675ca4f6a1 *Smashing Pumpkins 2000-07-02 AUD1 t05 The Imploding Voice.flac
-483712b94c0871d57f917b98b23468da *Smashing Pumpkins 2000-07-02 AUD1 t06 To Sheila.flac
-e86858e7698c0e82c76bc49b9f3c229c *Smashing Pumpkins 2000-07-02 AUD1 t07 Shame.flac
-d8d23a4e4ec142e5190364d69168b47c *Smashing Pumpkins 2000-07-02 AUD1 t08 Drown.flac
-dc93d4bf6d6647a609c0f43e5e4492f9 *Smashing Pumpkins 2000-07-02 AUD1 t09 Glass and the Ghost Children.flac
-d7a40431db0f78334a9024b4488f46d7 *Smashing Pumpkins 2000-07-02 AUD1 t10 This Time.flac
-68665c4edfdce01f8224a9978042c852 *Smashing Pumpkins 2000-07-02 AUD1 t11 Stand Inside Your Love.flac
-3ba97cd4fd20e3662aac2d6656bc855b *Smashing Pumpkins 2000-07-02 AUD1 t12 Disarm.flac
-72635d2ab68978ab88450753667a6362 *Smashing Pumpkins 2000-07-02 AUD1 t13 The Everlasting Gaze.flac
-67d17639b40f4fb451c8f6e8a9cc898c *Smashing Pumpkins 2000-07-02 AUD1 t14 Heavy Metal Machine.flac
-f82732455b607f47ce76b843985ffa70 *Smashing Pumpkins 2000-07-02 AUD1 t15 Blue Skies Bring Tears.flac
-6eb8ba5093ca928e32756627e3212b38 *Smashing Pumpkins 2000-07-02 AUD1 t16 I Am One.flac
-26168aed5f3caa66ecb4cba68576ea72 *Smashing Pumpkins 2000-07-02 AUD1 t17 Raindrops + Sunshowers.flac
-073e620c7dd4b41a16598c06c7c25438 *Smashing Pumpkins 2000-07-02 AUD1 t18 Blew Away.flac
-29ec7ac0fe8f06118b5e6b2e88265c2e *Smashing Pumpkins 2000-07-02 AUD1 t19 Tonight, Tonight.flac
-46deedc88af11839fff0a65f3bdfc13e *Smashing Pumpkins 2000-07-02 AUD1 t20 I of the Mourning.flac
-2f560dffdfb4eaac1df67135a4d2cb57 *Smashing Pumpkins 2000-07-02 AUD1 t21 Rock On [Essex].flac
-ef2e2e367d34f07b96293c9e46bb917d *Smashing Pumpkins 2000-07-02 AUD1 t22 Bullet with Butterfly Wings.flac
-f843708c98a4942ab1d9b2e81f30f97c *Smashing Pumpkins 2000-07-02 AUD1 t23 Once in a Lifetime [Talking Heads].flac
-7b64fbe6c3bd58208da0f7c1bda0c210 *Smashing Pumpkins 2000-07-02 AUD1 t24 encore break.flac
-3d5064024f48c7798c31d7974d580821 *Smashing Pumpkins 2000-07-02 AUD1 t25 Perfect.flac
-c6a0a3a4a858765ed6976b2f2b9a802b *Smashing Pumpkins 2000-07-02 AUD1 t26 Cherub Rock.flac
-bdfe5757ab9c365fef3ac03d3b96e5bb *Smashing Pumpkins 2000-07-02 AUD1 t27 encore break.flac
-44c4db1c05fed83c4d20c1d330903766 *Smashing Pumpkins 2000-07-02 AUD1 t28 1979.flac
+[Part.1 Acoustic]
+01.Speed Kills
+02.Today
+03.Muzzle
+04.Once Upon a Time
+05.Improding Voive
+06.To Sheila
+07.Shame
+08.Drown
+09.The Glass and the Ghost Children
+10.This Time
+11.Stand Inside your love
+12.Disarm
 
-TRANSFER BY:
-Andrew Fogelsong
+[Part.2 Electric]
+13.The Everlasting Gaze
+14.Heavy Metal Machine
+15.Blue Skies Bring Tears
+16.I am one
+17.Raindrops & Sunshowers
+18.Blew Away
+19.Tonight, Tonight
+20.I of the Mourning
+21.Rock On
+22.Bullet with Butterfly Wings
+23.Once in a Lifetime
 
-DISTRIBUTION:
-Nicholas Serra, Spaldz, & Members of SPLRA
-2022-10-13
+[Encole]
+24.Perfect
+25.Cherub Rock
+
+[Encole 2]
+26.1979
+

@@ -1,22 +1,10 @@
-**Remastered** by thir13en
+The Smashing Pumpkins
+1988/08/10
+Avalon; Chicago IL, USA
+ 
+Source: SBD>ANA>CDR
 
-My FAQ: http://zombtracker.the-zomb.com/forums.php?action=viewtopic&topicid=1232
-
-Smashing Pumpkins
-1988-08-10
-Avalon
-Chicago, IL
-
-
-I'm one of those that climbed aboard in 1991 from the moment I heard "I Am One". I was freaked by what I heard, and dug in for the next decade as a dedicated fan. Of course for most of us "freaks", that means going backwards. The inevitable question becomes "...where did these guys come from?" and "...how did this all happen, just like that?"
-
-Clearly, it doesn't happen "just like that". There is an embryonic stage to all of it, even Jimi spent time laying mediocre chops over The Isley Brothers and Little Richard tracks. Yea, I said it, mediocre. But the great will come, as we all know now. But this is the medicore embryonic stage of the Pumpkins. The foundation is there, but it's weak and at times it struggles to be engaging. The songwriting maturity is still just around the corner, so I certainly wouldn't put this in my top rotation of SP shows, but it's an important link in the chain. 
-
-And of course the other question that comes to mind, why is it that in 1988 we got a pretty decent soundboard but by 1991-92 they were hard to come by?
-
-
-Process: Waves REN EQ>Waves REN COMP>Waves S1>BBE-SM2>Waves L3 MM>FLAC
-
+Set:
 
  1. The Vigil
  2. Armed To The Teeth
@@ -28,17 +16,6 @@ Process: Waves REN EQ>Waves REN COMP>Waves S1>BBE-SM2>Waves L3 MM>FLAC
  8. 6234
  9. Holiday
 10. Screaming
-
-
-
-
-
-PRE-13 SOURCE INFO
-======================
-
-
-Source: SBD>ANA>CDR
-
 
 FLAC Fingerprints:
 
@@ -52,4 +29,3 @@ tsp1988-08-10t07.flac:c09ed55a1edf22d0f53bfedcda2d9378
 tsp1988-08-10t08.flac:62e2e4ee66fe45477de53480bb36fe0f
 tsp1988-08-10t09.flac:6406904326cd9be3c04cb537f18d3152
 tsp1988-08-10t10.flac:0369edbc34f00abaddd1ceb2b01efea0
-

@@ -1,72 +1,46 @@
-Smashing Pumpkins
-August 2nd 1998
-Radio City Music Hall
-New York, NY, US 
+Smashing Pumpkins: 1998-08-02 - Radio City Music Hall, New York, NY, US
 
-SOURCE (AUD#5):
-Schoeps CMC5-MK4 > Sonosax SX-M2 > unknown recorder
 
-TRANSFER:
-Sony DTC-700 > Tascam DA-3000 > WAV @ 16/48
 
-GENERATION:
-DAT(X) > FLAC
 
-LENGTH:
-108:20
+Hi8-M (AMT #1) > DVD > Hard Drive > TLH
 
-SET:
-01. Organ Intro: Annie-Dog > For Martha > Tear
-02. To Sheila
-03. Tear
-04. The Tale of Dusty and Pistol Pete
-05. Ava Adore
-06. Daphne Descends
-07. Annie-Dog
-08. Perfect
-09. Thru the Eyes of Ruby
-10. For Martha
-11. Tonight, Tonight
-12. Once Upon a Time
-13. (percussion solo)
-14. Zero (tease) > Bullet With Butterfly Wings
-15. Shame
-16. (encore break)
 
-ENCORE:
-17. (check presentation)
-18. 1979
 
-NOTES:
-Small dropout at 10:03 which could not be cleanly transferred (using either a Fostex D-15 or a Sony D-100). Two other dropouts were patched using Fostex D-15 > Marantz PMD-580, and inserted seamlessly into the audio.
 
-MD5 FINGERPRINTS:
-dd277b37c9dfe7b94866207c0feecab2 *Smashing Pumpkins 1998-08-02 AUD5 t01 Intro.flac
-c54ad811046c95142bfebc933766a11d *Smashing Pumpkins 1998-08-02 AUD5 t02 To Sheila.flac
-9b02cb54fc9e82f48bbd4dd1d789b7d8 *Smashing Pumpkins 1998-08-02 AUD5 t03 Tear.flac
-55321860beb4c70cf75af657406d3852 *Smashing Pumpkins 1998-08-02 AUD5 t04 The Tale of Dusty and Pistol Pete.flac
-38ad451bdf10d1a8fb6823deb2825c38 *Smashing Pumpkins 1998-08-02 AUD5 t05 Ava Adore.flac
-947aa8656e28b55b7cc851d4fed28248 *Smashing Pumpkins 1998-08-02 AUD5 t06 Daphne Descends.flac
-a69333ad2cc294ebf24870f2a6153677 *Smashing Pumpkins 1998-08-02 AUD5 t07 Annie-Dog.flac
-d55febb984c706e813563e7e381c8614 *Smashing Pumpkins 1998-08-02 AUD5 t08 Perfect.flac
-8e4444c087a3aa579214990cd855ec1a *Smashing Pumpkins 1998-08-02 AUD5 t09 Thru the Eyes of Ruby.flac
-2543bfc3af1869260fde50e3fa03877e *Smashing Pumpkins 1998-08-02 AUD5 t10 For Martha.flac
-b78031eb3cd70c271d484b2a12111131 *Smashing Pumpkins 1998-08-02 AUD5 t11 Tonight, Tonight.flac
-c9bc7b483454c803009cd671c8e4cb4f *Smashing Pumpkins 1998-08-02 AUD5 t12 Once Upon a Time.flac
-95a3d9ff77083865984a4a0b7a7a0988 *Smashing Pumpkins 1998-08-02 AUD5 t13 (percussion solo).flac
-316ce47be47d4fb8c6a4a5995a548f38 *Smashing Pumpkins 1998-08-02 AUD5 t14 Bullet With Butterfly Wings.flac
-240213f305ba22fc0281cc434e249725 *Smashing Pumpkins 1998-08-02 AUD5 t15 Shame.flac
-28668ae98fa96fbef256822d5a71391a *Smashing Pumpkins 1998-08-02 AUD5 t16 (encore break).flac
-d6dcdc6087dd845a8e94f834916924bf *Smashing Pumpkins 1998-08-02 AUD5 t17 (check presentation).flac
-405e9fcf51958435f770d05ded5ef4a0 *Smashing Pumpkins 1998-08-02 AUD5 t18 1979.flac
+Annie-Dog (unfinished)
+For Martha (unfinished)
+Tear (unfinished)
 
-RECORDED BY:
-Boris Lvovsky
+To Sheila
+Tear
+The Tale of Dusty and Pistol Pete
+Ava Adore
+Daphne Descends
+Annie-Dog
+Perfect
+Thru the Eyes of Ruby
+For Martha
+Tonight, Tonight
+Once Upon a Time
 
-TRANSFER BY:
-Mark Goldey
+(percussion solo)
+Zero (tease)
+Bullet with Butterfly Wings
 
-DISTRIBUTION:
-Nicholas Serra, Spaldz & Members of SPLRA
-2025-11-25
-  
+Shame
+
+Encore:
+
+(check presentation)
+1979
+
+
+
+
+Duration: 1.31.32
+
+
+
+
+::: All credits to the original Creator/s :::

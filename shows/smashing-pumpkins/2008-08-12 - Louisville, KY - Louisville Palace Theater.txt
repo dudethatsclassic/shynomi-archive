@@ -1,25 +1,24 @@
-tsp2008-08-12d1t01.flac:8f8a52a480d61869bc7bab8ae1690daa
-tsp2008-08-12d1t02.flac:724b3010e0a713662ed483e7023c1c23
-tsp2008-08-12d1t03.flac:728b001ba709f9020f2f6c74c736a448
-tsp2008-08-12d1t04.flac:83c2e48ea0515dee6a0323d280ef1a02
-tsp2008-08-12d1t05.flac:a5e800e38467316dbf410602a7b93c96
-tsp2008-08-12d1t06.flac:a1c287bcac794fc00bee8104a5c0f557
-tsp2008-08-12d1t07.flac:c9bb13413ef1b46eaf70b7fc1f6f26a7
-tsp2008-08-12d1t08.flac:f28e39bbf9fcc472ef6b790104d21b47
-tsp2008-08-12d1t09.flac:1058d0dbf050fa8b79fc5cd5b453a8b8
-tsp2008-08-12d1t10.flac:4da5e735d3965e03c6ed8b88153ce6ca
-tsp2008-08-12d1t11.flac:7774893b7c2252ed5fc11853aa3a2c0b
-tsp2008-08-12d2t01.flac:cd76c4855fa8149715a551de2a4fdb4c
-tsp2008-08-12d2t02.flac:3d66cda93a298bd15b37eca6dae465d7
-tsp2008-08-12d2t03.flac:c400b6f403f8fe7d5c907075564d93b7
-tsp2008-08-12d2t04.flac:1866cff0787d9a6a3ee4210ac4142ace
-tsp2008-08-12d2t05.flac:0672b17fdfc10712d9e7577d75c9378f
-tsp2008-08-12d2t06.flac:e8ce4f0c560999a22f74b47288894795
-tsp2008-08-12d2t07.flac:ce6cff0db8ef5c4568e05f2b394d271b
-tsp2008-08-12d2t08.flac:23afc57bbc04af18fffec9e8500fc175
-tsp2008-08-12d2t09.flac:9816ca8d5bb783c76825a8d48aef8f2a
-tsp2008-08-12d2t10.flac:50344612b303bcbcc6f8fbb3a3f5d0ac
-tsp2008-08-12d2t11.flac:2dc387dea4773ee0641d663d0ed95154
-tsp2008-08-12d2t12.flac:16224a81ca922a250d02a158c3d3d731
-tsp2008-08-12d2t13.flac:f10da841f0bc1f77015f786f5a86673e
-tsp2008-08-12d2t14.flac:8b41ea18f7e09371ae104258e4681c7c
+Smashing Pumpkins
+2008-08-12 - Palace Theater, Louisville, KY, US
+taper/filmer: brock666
+equipment: Sony DCR HC28 Mini DV Camera
+
+DVD Contains:
+
+1. G.L.O.W.
+2. Superchrist
+3. United States (Clip)
+-Banter
+4. Today
+5. TBITEITB
+-Banter
+6. We Only Come Out At Night
+7. In The Summertime
+-After Show Footage
+
+Notes:
+I found that when playing this DVD in VLC media player that I had to manually set the aspect ratio to watch the DVD so it does work ok, I'm not sure how that will affect things when burning to DVD however. Files taken directly from mounted image of DVD so this does not have any generations after the original DVD rip from the taper. 
+
+Enjoy. 
+
+Spaldz

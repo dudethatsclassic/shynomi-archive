@@ -1,93 +1,80 @@
-Smashing Pumpkins
-March 2nd 2000
-Lupo's Heartbreak Hotel
-Providence, RI, US
+tsp2000-03-02b
 
-SOURCE (AUD#3):
-CSBMod > M1
+From SPLRA
+The Smashing Pumpkins
+Date: 	2000-03-02
+Venue: 	Lupo's Heartbreak Hotel
+Location: 	Providence, RI, US
+Venue Type: 	Club
+Capacity: 	850
+Surfaced Recordings
+AUD #1
+Source: 	AUD
+Format: 	DAT
+Equipment: 	SS-DSM-6S>PA-6LC3>M1
+Length: 	146m
+Complete: 	Yes
+Lowest Circulating Generation: 	DAT(?)>CDR
+-------------------------------------------------------------------------
 
-TRANSFER:
-Tascam DA-20mkii > Marantz PMD670
+Source: AUD>DAT[SS DSM-6S>PA-6LC3>M1]>CDR-2 (from LM)>EAC
+>WAV>CD Wave (track splits)>FLAC... your burned copy will be CDR-3
 
-GENERATION:
-DAT(M) > FLAC
+Setlist:
 
-LENGTH:
-143:08
+Disc 1: 64:05
+Set One: electric
+01 Rock On [Essex] 6:04
+02 The Everlasting Gaze 3:59
+03 Disarm 3:47
+04 Blue Skies Bring Tears 6:57
+05 I of the Mourning 5:56
+06 Glass and the Ghost Children 11:32
+07 I Am One
+    Today (tease) 8:21
+08 Wound 4:59
+09 The Imploding Voice 4:47
+10 Heavy Metal Machine 5:42
+11 Glass' Theme 2:01
 
-SETLIST:
-01. Rock On [Essex]
-02. The Everlasting Gaze
-03. Disarm
-04. Blue Skies Bring Tears
-05. I of the Mourning
-06. Glass and the Ghost Children
-07. I Am One (with rant) > Today (tease)
-08. Wound
-09. The Imploding Voice
-10. Heavy Metal Machine
-11. Glass' Theme
-12. Speed Kills
-13. To Sheila
-14. Shame
-15. Drown
-16. To Sheila (reprise)
-17. Crush
-18. Join Together [The Who]
-19. Pale Scales
-20. Zero
-21. Bullet with Butterfly Wings
-22. Once in a Lifetime [Talking Heads]
-23. This Time
-24. Tonight, Tonight
-25. Cherub Rock
+Disc 2: 78:50
+Set Two: acoustic
+01 Speed Kills 2:01
+02 To Sheila
+     Shame
+     Drown 9:18
+03 Crush 3:19
+04 Join Together [The Who] 4:57
+05 Pale Scales 2:20
+06 Zero
+07 Bullet with Butterfly Wings
+08  Once in a Lifetime [Talking Heads] 15:04
+09 This Time 5:31
+10 Tonight, Tonight 3:43
+11 Cherub Rock 4:57    
 
-Encore
+Encore:
+12 Never Say Never [Romeo Void] (tease)
+     X.Y.U.
+     Today (tease)
+     Tristessa (tease)
+     Rebel Rebel [Bowie] (tease) 17:56
+13 We Love You 7:19
+-------------------
+Total time: 142:55
 
-26. X.Y.U. (with rant) > Never Say Never [Romeo Void] (tease) > We Love You (tease) > Today (tease) > Tristessa (tease) > Rebel Rebel [Bowie] (tease)
-27. We Love You
+I'm seeding this because:
 
-NOTES:
-Minor cuts between sets and encores so fades in/out have been added
-Minor clipping towards end of I Am One and minor mic noise during certain songs
+1) It was requested.
+2) It's a great show and it took me a LONG time and many trades to get a copy without 
+problems in the track transitions.
+3) 3/2 is my birthday.
 
-Thank you to our taper Dave Asselin for lending his master DAT, and to Andrew Fogelsong for the transfer and raw files.
+Seeded to ZOMB 2006-06-30
 
-MD5 FINGERPRINTS:
-34a888b785bb54128cb9f2afe1832500 *Smashing Pumpkins 2000-03-02 AUD3 t01 Rock On.flac
-d62f3c46925a4c96317d2b3a9fe29a65 *Smashing Pumpkins 2000-03-02 AUD3 t02 The Everlasting Gaze.flac
-8d8d4c1a3bbd72f42b23e1ab28ecfbc6 *Smashing Pumpkins 2000-03-02 AUD3 t03 Disarm.flac
-712b0d998e68196b635adf7451e3b9db *Smashing Pumpkins 2000-03-02 AUD3 t04 Blue Skies Bring Tears.flac
-6822a5c6baf912e0be788a12dc508dde *Smashing Pumpkins 2000-03-02 AUD3 t05 I of the Mourning.flac
-f170a455068cf9337b4694a81f663ea8 *Smashing Pumpkins 2000-03-02 AUD3 t06 Glass and the Ghost Children.flac
-0c1ec5401807b77526c4152d16f314c9 *Smashing Pumpkins 2000-03-02 AUD3 t07 I Am One.flac
-3acf867dd38d6566813ec7947c8c323c *Smashing Pumpkins 2000-03-02 AUD3 t08 Wound.flac
-b19671112878c5fa7f6525e2356e7180 *Smashing Pumpkins 2000-03-02 AUD3 t09 The Imploding Voice.flac
-a5c8d691aa84139081f0075a4a416e32 *Smashing Pumpkins 2000-03-02 AUD3 t10 Heavy Metal Machine.flac
-391b914513c78163093164f2d48e67a7 *Smashing Pumpkins 2000-03-02 AUD3 t11 Glass' Theme.flac
-47f9d9034080b5478114e1dc8bc919b3 *Smashing Pumpkins 2000-03-02 AUD3 t12 Speed Kills.flac
-4e2516219e20a37496d932e4339631b8 *Smashing Pumpkins 2000-03-02 AUD3 t13 To Sheila.flac
-f4b9bf7447a0127656fff76e2ce9a027 *Smashing Pumpkins 2000-03-02 AUD3 t14 Shame.flac
-2e6d65b8851579209903f72922f1e468 *Smashing Pumpkins 2000-03-02 AUD3 t15 Drown.flac
-24ddb32292dde5dc8053688daec6983e *Smashing Pumpkins 2000-03-02 AUD3 t16 To Sheila (Reprise).flac
-2b4ed5cdf007c5c64a09e9f7d613115e *Smashing Pumpkins 2000-03-02 AUD3 t17 Crush.flac
-c750168a100b5f1226a50508d1f2bf51 *Smashing Pumpkins 2000-03-02 AUD3 t18 Join Together.flac
-5556d11a156514bb29e91a3b2205718f *Smashing Pumpkins 2000-03-02 AUD3 t19 Pale Scales.flac
-10765dd909c5a07f736ddee359d09cfc *Smashing Pumpkins 2000-03-02 AUD3 t20 Zero.flac
-665f23adbbc058acd931223d8d8a1a2e *Smashing Pumpkins 2000-03-02 AUD3 t21 Bullet With Butterfly Wings.flac
-d16e1585dc5c9ed1e512baf330f8c1bb *Smashing Pumpkins 2000-03-02 AUD3 t22 Once in a Lifetime.flac
-1654cee3bfef869d08b26eead9dee642 *Smashing Pumpkins 2000-03-02 AUD3 t23 This Time.flac
-022211699882fa60fa38a596a243cfb3 *Smashing Pumpkins 2000-03-02 AUD3 t24 Tonight, Tonight.flac
-e725b28a2f6efeb9b6ecd5c6d7825c57 *Smashing Pumpkins 2000-03-02 AUD3 t25 Cherub Rock.flac
-5d1d750ad319293a31d8e4c63ceafee0 *Smashing Pumpkins 2000-03-02 AUD3 t26 X.Y.U..flac
-a231419eed863471eb8549b2149a6c96 *Smashing Pumpkins 2000-03-02 AUD3 t27 We Love You.flac
+Enjoy!
 
-RECORDED BY:
-Dave Asselin
+-traveller03
 
-TRANSFER BY:
-Andrew Fogelsong
 
-DISTRIBUTION:
-Spaldz & Members of SPLRA
-2022-02-17
+ADDITIONAL EDIT: split Zero/Bullet/Once in a Lifetime into separate tracks

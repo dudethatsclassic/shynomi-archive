@@ -1,33 +1,18 @@
-Track01.flac:464d8586232b8d189c962d5b681d7625
-Track02.flac:cf67bc46de5c8c70273907b8356dbe07
-Track03.flac:22fa2121e22646267112eab99b2796a4
-Track04.flac:2e461161307eb8213af933ce36f33284
-Track05.flac:67a7f599d9016c31238e9c4fd9ed5cd2
-Track06.flac:fc39b793f064091bf5b28c8265b38704
-Track07.flac:68c60af4c41efd64dd108a134c8156cc
-Track08.flac:b9a58e95411e4050f5605ea067ee06b1
-Track09.flac:dc64b1007e77e107b55795e64c0fc028
-Track10.flac:8d08a72ac9969acd63648321444e5b7e
-Track11.flac:79175ab62a707d9a8b517426e285911b
-Track12.flac:12fa6768f518eb1047caaa3c04dbc243
+A Perfect Circle
+1999-10-22
+West Hollywood, CA
+The Troubadour
 
-Artist:  A Perfect Circle
-Date:  October 22, 1999
-Venue:  The Troubadour, Los Angeles, California
-Equipment:  CSB(mod)>M1
-Lineage:  DAT(M)>cdr(2)>FLAC
-Location:  N/A
-Transfer:  N/A
-Taper:  N/A
+Source: Unknown
+Transfer: Unk Gen CD > EAC (Secure Mode) > WAV > FLAC
 
 Setlist:
-Introduction
-The Hollow
+Hollow
 Orestes
-Duran (Magdalena)
+Magdelena
 3 Libras
 Thomas
-Brena
-Diary of a Love Song
+Breña
+Diary Of A Lovesong
 Rose
 Judith

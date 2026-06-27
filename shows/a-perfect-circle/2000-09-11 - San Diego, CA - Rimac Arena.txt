@@ -1,39 +1,25 @@
-A Perfect Circle 
-09/11/2000
-La Jolla, CA
+A Perfect Circle
+2000-09-11
+San Diego, CA
 Rimac Arena
 
-Sony DCR-TRV900 (miniDV SP), no external mics > FIREWIRE >TMGPENC 3XPRESS
-(2-pass 10bit/high motion search max bitrate 9200, min 7500, audio mpeg2 384kbs) >
-DVDLab Pro > You.
-Menu: Yes 
-Chapters: No 
-Video: 720x480 (4/3)
-FPS: 29.970 fps MPEG video 
-Audio: 480 KHz, 2 Channels, AC-3 
-Lenght: 64 min 37 sec 
-Taper (arizona_bay AT hotmail.com):
-Notes: Enjoy. I've been changing some opinions about sharing since the trading scene has changed. Please do not alter this or any other torrents posted. This like all other of the shows I've torrented are not for sale and never will be. You can email me if you want to work a trade for a dual layer/lossless audio copy. 
+Taper: Mason (mason@madwizard.net)(http://bootleg.madwizard.net/bootlist.asp)
+Source: Sound Professional Slimline Cardiods > Sony TCD-D8
+Transfer: Unk Gen CD > EAC (Secure Mode) > WAV > FLAC
+Notes: Verified lossless.
 
-Video: MPEG-2 Program Stream << { 1 vid, 1 aud }
-Sys Bitrate: 10080 kb/s VBR
-Audio: MPEG-1 Layer 2 48000Hz  384 kb/s tot , Stereo 
-Data Rate: 9200
-Audio Btrate: 384
-Total Bitrate: 9584
-
- 
-1.) Strip Tease
-2.) Magdalena
-3.) The Hollow
-4.) Sleeping Beauty
-5.) Orestes
-6.) Brena
-7.) Thinking of You
-8.) Thomas
-9.) Rose
-10.) Renholder
-11.) Three Libras
-12.) Diary of a Love Song <<--- The Cure Cover !!
-13.) Over
-14.) Judith
+Track List:
+intro
+Magdalena
+The Hollow
+Sleeping Beauty
+Orestes
+Brena
+Thomas
+Thinking of You
+Rose
+Renholder
+3 Libras
+Ozzy's Cure (Diary of a Love Song)
+Over
+Judith

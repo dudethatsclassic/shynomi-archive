@@ -1,40 +1,16 @@
-1994-02-24 Smashing Pumpkins
-February 24th 1994
-Astoria Theatre
-London, UK
+TV>VHS-?>MPEG>DVD
 
-SOURCE (AMT#1):
-unknown > unknown
+would be great to see a lower gen of this - and yes its shot all weird hooray MTV EUrope.
 
-AUDIO TRANSFER:
-Sony DCR TRV230E > JVC JX S777 > Datavideo TBC3000 > Blackmagic Intensity Pro > VirtualDub > flac.exe
 
-GENERATION:
-HI8(M) > AVI [UTVideo/48khz/16-Bit/PCM] > MKV [576p/x264 | AAC | FLAC] > Audacity (normalized to -0.1db) > CDWave (split) > TLH (flac8)
+1994/02/24 - Astoria Theater; London, UK 
 
-LENGTH:
-61:19
 
-RECORDING
-"Master 8"
+Soma
+Disarm
+Today
+I Am One (w/rant) *tape blip toward end*
+Cherub Rock
 
-TRANSFER
-TravisBickle1963 - December 2019
 
-ENCODE:
-Nicholas Serra - March 2020
 
-01. Geek U.S.A.
-02. Rocket
-03. Quiet
-04. -banter-
-05. Disarm
-06. Today
-07. Cherub Rock
-08. Drown >
-09. Hummer
-10. Siva
-11. Soma
-
-12. Bury Me
-13. Rhinoceros

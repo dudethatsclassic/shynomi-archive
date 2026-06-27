@@ -1,43 +1,54 @@
-Smashing Pumpkins
-August 28th, 1996
-Delta Center
-Salt Lake City, UT, US
+The Smashing Pumpkins
+Date	1996-08-28
+Venue 	Delta Center
+URL 	unknown
+Location 	Salt Lake City, Utah - US
+Venue Type 	Arena
+Capacity 	unknown
+Notes	[No notes found]
 
-Source: SS-DSM-6>WM-D6
-Lineage: ANA-M>CDR-? (from BM)>EAC>dEdit>FLAC
 
-01. Where Boys Fear to Tread - 4:37
-02. Zero - 2:56
-03. Cherub Rock - 4:42
-04. To Forgive - 4:21
-05. Tonight, Tonight - 5:48
-06. Today - 3:24
-07. Thru the Eyes of Ruby - 9:10
-08. Thirty-three - 4:46
-09. Disarm - 4:38
-10. Bullet with Butterfly Wings - 4:13
-11. Fuck You - 5:05
-12. Porcelina of the Vast Oceans > Beautiful (one verse only) - 12:43
-13. encore break - 1:34
+AUD #1(complete)
+Format 	ANA
+Equipment 	SS-DSM-6>D6
+Length
+
+AUD>ANA[SS DSM-6S>WM-d6]>ANA-M>DAT-M>CDR-3 (CDR-1 A.F. > CDR-2 D.E. > me) [ > EAC > dEdit > FLAC ]
+...your burned copy will be CDR-4
+
+Setlist
+Set:
+
+Disc 1:
+01 Mellon Collie And The Infinite Sadness
+02 Where Boys Fear to Tread
+03 Zero
+04 Cherub Rock
+05 To Forgive
+06 Tonight, Tonight
+07 Today
+08 Thru the Eyes of Ruby
+09 Thirty-three
+10 Disarm
+11 Bullet with Butterfly Wings
+12 Fuck You
+13 Porcelina of the Vast Oceans / Beautiful
+
+Disc 2:
+
+14 banter 
 Encore One:
-14. banter - 2:53
-15. 1979 - 4:39
-16. In-A-Gadda-Da-Vida [Iron Butterfly] (tease) - 3:05
-17. X.Y.U. - 9:45
+15 1979
+16 In-A-Gadda-Da-Vida (tease) [Iron Butterfly]
+17 X.Y.U.
+
 Encore Two:
-18. banter - 0:32
-19. Mayonaise - 7:12
+18 Mayonaise
+
 Encore Three:
-20. banter/Soma (tease, fan on drums) - 4:46
-21. Bodies - 4:15
-22. Silverfuck - 15:15
-xx. Farewell and Goodnight
+19 Soma (abandoned)
+20 Bodies
+21 Silverfuck
+22 Farewell and Goodnight
 
--undercirculated show
--missing Farewell and Goodnight and MCIS intro
--other version of this show (ANA-M>DAT-M>CDR) contains Farewell and Goodnight
--EAC logs included
--tracking errors present on CDRs were corrected in Audacity and CDWave
-
-Don't sell, etc
-Rhinowing
+dEdit consisted of splitting WBFTT and Zero. Thanks to Chuck D. for the rip/sending the show to me

@@ -1,45 +1,24 @@
+92.07.11 - Blackout Records, Chicago, IL
 
-The Smashing Pumpkins
-Date: 	1992-07-11
-Venue: 	Blackout Records
-Location: 	Chicago, IL, US
-Venue Type: 	Record Store
-Capacity: ~100 (best guess from photo)
-Notes: 	Acoustic in-store.
+Taper:            ?
+Generation:       ANA-?
+Source:           ?
+Location:         ?
+flaws:            Hummer is cut
+Conversion:       Sony TC-WE625S > Turtle Beach Montego II > Cool Edit Pro 1.2a > CDWave > shn
+Resampling:       none; show A/D converted at 44.1k
+Editor:           Henry Bent
+Editing:          none
+SHN:              Master WAV > shortn32 commandline prog.
 
-AUD #1
-Source: 	AUD
-Format: 	ANA
-Equipment: 	Unknown
-Length: 	37m
-Complete? 	Yes
+Tracklist:
 
-AUD>ANA-2>DAT>CDR(unknown gen from D.E.)>EAC>FLAC>Milkysunshine dEdit>FLAC Level 8
+01 - Disarm				3:39
+02 - Rocket				5:28
+03 - Obscured				3:41
+04 - Blue				4:54
+05 - Luna				3:58
+06 - Siva				6:18
+07 - Hummer (cut)			3:21
 
-Setlist:
-01 Disarm	 3:15
-02 Rocket	 5:38
-03 Obscured	 3:49
-04 Blue		 5:03
-05 Luna		 4:08
-06 Siva		 6:25
-07 Hummer	 8:07
-
-Total time: 36:25
-
-Seeded to the http://zombtracker.the-zomb.com on 2006-03-09
-
-***********************dEdit************************
-Milkysunshine's dEdit notes:
-
-This show had decent sound to begin with, but was clipping all over the place.
-I fixed the DC offset, corrected the volume and repaired most of the clipped audio, then balanced the left and right channels.
-I also ran a very mild noise filter to remove some of the tape hiss. I finished it off by limiting the volume to -0.02db.
-
-I am seeding BOTH shows (the unedited, and the dEdit at the same time, so if you are a 'purist', the unedited show is also circulating.
-
-I usually don't share my dEdits, but this one is well worth it. Awesome acoustic set with an 8 minute version of hummer, and a few Pisces tracks!
-
-Enjoy!
-
-
+Any questions, comments - hbent@cs.oberlin.edu

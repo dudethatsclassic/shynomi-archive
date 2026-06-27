@@ -1,116 +1,103 @@
 Miles Davis Quintet
 02-23-1957
 Peacock Alley Lounge
-St. Louis Missouri
+St. Louis, Missouri
 
-Project ID - LL180
+Project ID - LL21
 
-Source: FM Broadcast
-Lineage:  Maxell XL II >  DR-1 > Lunatec v2 > Korg MR-1000 > 
-DSD-DFF 1bit 5.64MHz  > Audio Gate > 24/44.1 > audiophile enginering Sample Manager Izotpe/ src 
-> 16/44.1 > cd wave > flac ( lvl 8 )
+Source: AM Broadcast
+Lineage: KSTL-AM radio broadcast > ?? > wave > ?? > flac
 
-Miles Davis (tpt); John Coltrane (ts); William "Red" Garland (p); Paul Chambers (b); 
-Philly Joe Jones (d); Spider Burks (ann)
+Miles Davis (tpt); John Coltrane (ts); William "Red" Garland (p); 
+Paul Chambers (b); Philly Joe Jones (d); Spider Burks (ann)
 
 disc 1
 
-d1t01. Introduction
-d1t02. Two Bass Hit
-d1t03. Introduction
-d1t04. Well, You Needn't
-d1t05. Introduction
-d1t06. Billy Boy
-d1t07. Introduction
-d1t08. All of You
-d1t09. Introduction
-d1t10. Oleo
-d1t11. Introduction
-d1t12. Airegin
-d1t13. The Theme/
+d1t01. Two Bass Hit
+d1t02. Well, You Needn't/
+d1t03. Billy Boy
+d1t04. All of You
+d1t05. Oleo
+d1t06. Airegin > The Theme/
  
 -------------------------------------------------------
 
 Notes:
 
-- This source is close to LL21, but a little brighter in my opinion. Partnered with
-a lineage that is at least documentable from the transfer on and this is the source 
-to have IMO.
+- Like the KSTL-AM broadcast of the Peacock Alley show from the previous week, this is 
+another fine performance from the earliest incarnation of the "Classic Quintet". The two 
+shows are often found on bootlegs paired together.  Recorded from AM radio, the sound is 
+very "thin" and band-limited, with most of the frequency content restricted from about 
+250 Hz - 3 KHz.
 
-- Big thanks to Jason (Freekjazz) for the tapes, and Derek McCabe for the transfer 
-and edit. 
+- d1t02 is incomplete
 
-- "The Soulard CD lists the date for this performance as July 21, 1956, but this 
-seems to be wrong. Spider Burks was fired by KXLW-AM on July 11, 1956, two days 
-before the Davis Quintet opened a nine-day gig at Peacock Alley (July 13-21, Friday-
-Saturday). He was hired by KSTL-AM in August 1956 and quickly began live Saturday 
-matinee broadcasts from Peacock Alley. The Davis Quintet returned to Peacock Alley 
-in February 1957 for a nine-day gig (February 15-23, Friday-Saturday). In all 
-likelihood, then, the Soulard material comes from broadcasts on February 16 and 23, 
-and the correct station is KSTL-AM. Many thanks to Chris DeVito for careful research
-here."- Credit to Peter Losin, http://www.plosin.com/
+-d1t06 (the Theme) is incomplete
 
-- QC done by Bgreen
+- The original incorrect flac tags for this show were corrected. 
+
+- The Peacock Alley KSTL-AM recording, md1957-02-23.LL21, contain occasional 
+to sometimes numerous clustered low-frequency "pops". In this show these noises 
+are more frequent. One example that can be heard amidst the immediate surrounding 
+silence is in md1957-02-23.LL21.d1t03 at 0:04.769-0:04.843 and a slightly 
+quieter one immediately following at 0:05.034. The source of these brief 
+muffled "thumps" could be in the original broadcast recording, or perhaps 
+more likely are the remnants of vinyl-sourced popping and clicking in the 
+lineage after crude de-clicking or simple low-pass filtering was applied.
+
+-d1t03. Is played by the "Rhythm Section" of the quartet, minus Miles 
+Davis and John Coltrane.
+
+- QC done by guygee
 
 md5
-4420b573ce9c12da34a0bb8c47f8d4d0 *md1957-02-23.LL180.d1t01.flac
-fbbcafe4c2327112385ba17266703244 *md1957-02-23.LL180.d1t02.flac
-c6d62cf2a43a4d61357b44b7f5734682 *md1957-02-23.LL180.d1t03.flac
-485981865b1abca6ce7c0f710e3d37af *md1957-02-23.LL180.d1t04.flac
-9e639511e0fcc9df504e7ffc74e61233 *md1957-02-23.LL180.d1t05.flac
-f21578b50248c522d74680d0f315eb1b *md1957-02-23.LL180.d1t06.flac
-b2f553bfe40fea328d6fb4ceb9cdeec5 *md1957-02-23.LL180.d1t07.flac
-ab0b2679dec54ca9cfa2be80698b1c74 *md1957-02-23.LL180.d1t08.flac
-c28ce88d8bdaec0fe693306b2c1200de *md1957-02-23.LL180.d1t09.flac
-dfaa7db575177a6f0c5e6e78e05204fa *md1957-02-23.LL180.d1t10.flac
-a964e6f9f409b3fa505caf1e6d691755 *md1957-02-23.LL180.d1t11.flac
-d417b4108d34df3e1f41b52cffaf904e *md1957-02-23.LL180.d1t12.flac
-2254e36d9ffbd4fc61bc733e45f6726a *md1957-02-23.LL180.d1t13.flac
+c53c802ba75d889c63d49b9d67770559 *md1957-02-23.LL21.d1t01.flac
+43c05d52bf5dc386975a5bc99cc87963 *md1957-02-23.LL21.d1t02.flac
+3a75988565bfc4ada5fd3fb4733078e1 *md1957-02-23.LL21.d1t03.flac
+42e51d639107d6611ce055fae48ac889 *md1957-02-23.LL21.d1t04.flac
+b6b5e521a2334ad2aa7ad6dbdf79a3fa *md1957-02-23.LL21.d1t05.flac
+0d2be7da49bf2e2f40a5f9a6779fb18d *md1957-02-23.LL21.d1t06.flac
 
 ffp
-md1957-02-23.LL180.d1t01.flac:ef80d5e4c5a05982c91e5a1863cc7aae
-md1957-02-23.LL180.d1t02.flac:136e2bc3b533aa9e3cdc39786280f74a
-md1957-02-23.LL180.d1t03.flac:c0a68adebbbc8ab3cd382f9e72ef7f2f
-md1957-02-23.LL180.d1t04.flac:31c68dbf905129710fa6e7f56538b98e
-md1957-02-23.LL180.d1t05.flac:81a407c80afba6952aaac47abdd8c4ee
-md1957-02-23.LL180.d1t06.flac:ac0a260c576de6c3cece88240d6a027d
-md1957-02-23.LL180.d1t07.flac:df1105874aca38a03dc6fe1a5ec9c975
-md1957-02-23.LL180.d1t08.flac:b87b33f6d91229df80f6f2112e390a0a
-md1957-02-23.LL180.d1t09.flac:d37a602694ebe0a8fd123d74a10f4ead
-md1957-02-23.LL180.d1t10.flac:4303edefb7721543256d90ad3a1b2a64
-md1957-02-23.LL180.d1t11.flac:99513995ca5a36ab37a565d86fc8e8d2
-md1957-02-23.LL180.d1t12.flac:9a53d241d88cdcac6bc0095e1473613a
-md1957-02-23.LL180.d1t13.flac:1b66ed91bb97bc3aec19529026b2ba78
+md1957-02-23.LL21.d1t01.flac:155b61c377a7e6b9cdf8189e0293aac6
+md1957-02-23.LL21.d1t02.flac:d4c44db2347ee79022b745134b3095f2
+md1957-02-23.LL21.d1t03.flac:dd0234a860da70a0abcbb1be57c1c1ed
+md1957-02-23.LL21.d1t04.flac:bb6a7e364ea7d3c3d0a189b136817f79
+md1957-02-23.LL21.d1t05.flac:43e297b1bd87922e99166a26115ac323
+md1957-02-23.LL21.d1t06.flac:397c12426fe80b3202fb3bd6947abbcc
 
 st5 
-ef80d5e4c5a05982c91e5a1863cc7aae  [shntool]  md1957-02-23.LL180.d1t01.flac
-136e2bc3b533aa9e3cdc39786280f74a  [shntool]  md1957-02-23.LL180.d1t02.flac
-c0a68adebbbc8ab3cd382f9e72ef7f2f  [shntool]  md1957-02-23.LL180.d1t03.flac
-31c68dbf905129710fa6e7f56538b98e  [shntool]  md1957-02-23.LL180.d1t04.flac
-81a407c80afba6952aaac47abdd8c4ee  [shntool]  md1957-02-23.LL180.d1t05.flac
-ac0a260c576de6c3cece88240d6a027d  [shntool]  md1957-02-23.LL180.d1t06.flac
-df1105874aca38a03dc6fe1a5ec9c975  [shntool]  md1957-02-23.LL180.d1t07.flac
-b87b33f6d91229df80f6f2112e390a0a  [shntool]  md1957-02-23.LL180.d1t08.flac
-d37a602694ebe0a8fd123d74a10f4ead  [shntool]  md1957-02-23.LL180.d1t09.flac
-4303edefb7721543256d90ad3a1b2a64  [shntool]  md1957-02-23.LL180.d1t10.flac
-99513995ca5a36ab37a565d86fc8e8d2  [shntool]  md1957-02-23.LL180.d1t11.flac
-9a53d241d88cdcac6bc0095e1473613a  [shntool]  md1957-02-23.LL180.d1t12.flac
-1b66ed91bb97bc3aec19529026b2ba78  [shntool]  md1957-02-23.LL180.d1t13.flac
+155b61c377a7e6b9cdf8189e0293aac6  [shntool]  md1957-02-23.LL21.d1t01.flac
+d4c44db2347ee79022b745134b3095f2  [shntool]  md1957-02-23.LL21.d1t02.flac
+dd0234a860da70a0abcbb1be57c1c1ed  [shntool]  md1957-02-23.LL21.d1t03.flac
+bb6a7e364ea7d3c3d0a189b136817f79  [shntool]  md1957-02-23.LL21.d1t04.flac
+43e297b1bd87922e99166a26115ac323  [shntool]  md1957-02-23.LL21.d1t05.flac
+397c12426fe80b3202fb3bd6947abbcc  [shntool]  md1957-02-23.LL21.d1t06.flac
 
 shntool
- length     expanded size   cdr  WAVE problems filename
-     0:04.07         722108    ---   --   ---xx   md1957-02-23.LL180.d1t01.flac
-     5:10.73       54855740    ---   --   ---xx   md1957-02-23.LL180.d1t02.flac
-     0:05.19         926732    ---   --   ---xx   md1957-02-23.LL180.d1t03.flac
-     7:36.27       80501948    ---   --   ---xx   md1957-02-23.LL180.d1t04.flac
-     0:08.11        1437116    ---   --   ---xx   md1957-02-23.LL180.d1t05.flac
-     4:08.52       43869548    ---   --   ---xx   md1957-02-23.LL180.d1t06.flac
-     0:09.09        1608812    ---   --   ---xx   md1957-02-23.LL180.d1t07.flac
-    11:02.01      116779196    ---   --   ---xx   md1957-02-23.LL180.d1t08.flac
-     0:04.52         827948    ---   --   ---xx   md1957-02-23.LL180.d1t09.flac
-     6:00.05       63515804    ---   --   ---xx   md1957-02-23.LL180.d1t10.flac
-     0:09.22        1639388    ---   --   ---xx   md1957-02-23.LL180.d1t11.flac
-     5:46.64       61184972    ---   --   ---xx   md1957-02-23.LL180.d1t12.flac
-     1:08.31       12068156    ---   --   ---xx   md1957-02-23.LL180.d1t13.flac
-    41:33.73      439937468 B                     (totals for 13 files, 0.4000 overall compression ratio)
+length     expanded size   cdr  WAVE problems filename
+     5:18.61       56238716    ---   --   ---xx   md1957-02-23.LL21.d1t01.flac
+     7:41.27       81383948    ---   --   ---xx   md1957-02-23.LL21.d1t02.flac
+     4:25.57       46880108    ---   --   ---xx   md1957-02-23.LL21.d1t03.flac
+    11:05.01      117308396    ---   --   ---xx   md1957-02-23.LL21.d1t04.flac
+     6:09.17       65131628    ---   --   ---xx   md1957-02-23.LL21.d1t05.flac
+     7:03.21       74666636    ---   --   ---xx   md1957-02-23.LL21.d1t06.flac
+    41:43.34      441609432 B                     (totals for 6 files, 0.3611 overall compression ratio)
+
+spectral analysis from TLH
+md1957-02-23.LL21.d1t01.wav:  track looks like CDDA with probability 100%
+md1957-02-23.LL21.d1t02.wav:  track looks like CDDA with probability 99%
+md1957-02-23.LL21.d1t03.wav:  track looks like CDDA with probability 99%
+md1957-02-23.LL21.d1t04.wav:  track looks like CDDA with probability 100%
+md1957-02-23.LL21.d1t05.wav:  track looks like CDDA with probability 100%
+md1957-02-23.LL21.d1t06.wav:  track looks like CDDA with probability 100%
+
+
+
+
+
+
+
+
+
 

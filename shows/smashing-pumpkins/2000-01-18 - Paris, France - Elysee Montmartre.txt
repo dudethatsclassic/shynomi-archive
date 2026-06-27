@@ -1,75 +1,32 @@
 Smashing Pumpkins
-
-
+January 18th, 2000
 Elysee Montmartre
 Paris, FR
-January 18, 2000
 
+Source: ECM-717>Aiwa MD
+Lineage: MD>CDR>??>SHN>dEdit>FLAC
+dEdit: Audacity (rejoined .wav files), CDwave (re-split)
 
-
-Source:  Marantz EM-8 > Sony TCD-D8 > DAT(c)
-Transfer 1:  DAT(c) > IBM CTD-8000 > DAT2WAV > WAV (16/32)
-Transfer 2:  WAV > r8brain (16/32 > 16/44) > CDWave > FLAC
-DAT(c) provided by Ben Valocchi
-Transfer 1 by Richard Campbell
-Transfer 2 by Terry Watts
-
-
-Disc 1
-Set I:
-1. Glass and The Ghost Children
-2. Age of Innocence
-3. Heavy Metal Machine
-4. Zero (false start)
-5. Zero
-6. Rock On (Essex)
-7. To Sheila
-8. Tonight, Tonight
-9. I Am One
-
-Disc 2
-Set I:
-1. Blue Skies Bring Tears
-2. Pale Scales
-3. The Everlasting Gaze
-4. Bullet with Butterfly Wings
-5. I of The Mourning
-6. Cherub Rock
-7. ,,encore break > band intro
-8. e: 1979
-
+01. Glass and the Ghost Children - 9:14
+02. Age of Innocence - 4:06
+03. Heavy Metal Machine - 6:13
+04. Zero (abandoned) - 1:40
+05. Zero - 3:10
+06. Rock On [Essex] - 5:43
+07. To Sheila - 7:16
+08. I Am One - 7:04
+09. Blue Skies Bring Tears - 5:21
+10. Tonight, Tonight - 3:43
+11. Pale Scales - 2:16
+12. The Everlasting Gaze - 3:40
+13. Bullet with Butterfly Wings - 5:22
+14. I of the Mourning - 5:54
+15. Cherub Rock - 4:46
+16. encore break/crowd chant - 3:30
+Encore:
+17. band intros - 0:56
+18. 1979 - 6:14
 
 Notes:
-
-DAT(c) was paused during encore break.  There is no music missing.
-
-This DAT(c) was recorded in LP Mode (12/32).  It was transferred digitally to 16/32.
-There is no loss of fidelity. 
-
-Terry Watts
-
-
-FLAC FFP:
-jmp2002-07-27d1t01.flac:665c3544dba6388e8ca6632d2cf3406f
-jmp2002-07-27d1t02.flac:9d842c181933b4286915a61db6e8e768
-jmp2002-07-27d1t03.flac:514a773d9ff9da01c21a7a970714d0ec
-jmp2002-07-27d1t04.flac:506a02718f28a19a976b28f5eb9c3312
-jmp2002-07-27d1t05.flac:2ce9c4db4fd2174a118a5cf5046611d5
-jmp2002-07-27d1t06.flac:09a22f3c88deb7f72f4f0855a065fa8b
-jmp2002-07-27d1t07.flac:33f2ad2523f055fd1d4a0bacb4c25c8f
-jmp2002-07-27d1t08.flac:b7b7ca5ac2ecae1245fe2ea2c14456eb
-jmp2002-07-27d1t09.flac:174596801aaef8dee791e87a52962371
-jmp2002-07-27d1t10.flac:bf34e18a0bc269a9d9d4c9f373226883
-
-
-WAV MD5:
-a28e833c58f76d4e2fdf2d584f56488c *jmp2002-07-27d1t01.wav
-ae8808f2ccd51940385eef2f462aa2a0 *jmp2002-07-27d1t02.wav
-c30907af54e3a4df9846c0fa0cd64070 *jmp2002-07-27d1t03.wav
-2bf35f98cd678360b427f5c94163c38d *jmp2002-07-27d1t04.wav
-a3e31dda93ef11f2c471aa9298a4be12 *jmp2002-07-27d1t05.wav
-3aa5060eb318731b621c1ddf143d83f8 *jmp2002-07-27d1t06.wav
-04b3317b5257166f6dd333b13c2e7ac3 *jmp2002-07-27d1t07.wav
-675d7619ac9e324dd76247055cb345b5 *jmp2002-07-27d1t08.wav
-652bba78e6eb91f7a14a8cacaa32fad0 *jmp2002-07-27d1t09.wav
-83f838f80f5fed7f4a64e9df51bc4eec *jmp2002-07-27d1t10.wav
+Heavy crowd on the tape (listen for the French guy FREAKING out during I Am One for bonus points)
+Some weird stuff going on between some, but not all tracks. It doesn't sound like TAO lineage, so I dunno what's up with that.

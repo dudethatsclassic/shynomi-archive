@@ -1,27 +1,28 @@
-The Smashing Pumpkins 
-Other Stage
-Glastonbury Festival
-Pilton, Somerset, UK
 
-30th June 2013
+Smashing Pumpkins
+2013-06-30
+Worthy Farm
 
-Broadcast on BBCi (red button)
 
-Tracklist:
-01 Starz
-02 Rocket
-03 Panopticon
-04 Tonight, Tonight
-05 Bullet With Butterfly Wings
-06 One Diamond, One Heart
+Source: SBD
+Transfer: 
 
-Technical info:
-Video: 720x576 25fps 16:9 VBR MPEG-2 (average bitrate = 3843kbps)
-Audio: 48000Hz joint-stereo 192k MP2
-Duration: 00:25:55
-Size: 760Mb
 
-Lineage:
-BBC Red Button Stream 1 -> Fortec Star Zeta satellite PVR -> Firewire out -> MPEG Streamclip -> TMPGEnc DVD Author 3
+1. Quasar
+2. Panopticon
+3. Starz
+4. Rocket
+5. 05.Space Oddity (David Bowie cover)
+6. X.Y.U.
+7. Disarm
+8. 08.Tonite Reprise - Tonight, Tonight
+9. 09.Bullet with Butterfly Wings
+10. 10.One Diamond, One Heart
+11. 11.Pale Horse
+12. Today
+13. 13.Zero (with intro)
+14. 14.Stand Inside Your Love
+15. 15.United States with Uli Jon Roth
 
-(Direct stream capture, no re-encoding)
+
+

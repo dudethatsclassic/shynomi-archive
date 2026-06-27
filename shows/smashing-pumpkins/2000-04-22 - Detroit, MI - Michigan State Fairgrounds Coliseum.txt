@@ -1,79 +1,42 @@
-Smashing Pumpkins
+The Smashing Pumpkins
+State Fairgrounds,Detroit,MI
 April 22nd 2000
-Michigan State Fairgrounds Coliseum
-Detroit, MI, US
 
-SOURCE (AUD#1)
-SPPB > M1
 
-TRANSFER:
-CDR > EAC > WAV > FLAC
+Source:  Coresound Binaural Mics>MZR-55
+Location: Near Soundboard on the Floor
+Transfer: MD>CDWave>Flac
+Taper: SPFreak77
 
-GENERATION:
-DAT(X) > CDR(3) > WAV > FLAC
+Setlist:
 
-LENGTH:
-124:10
+01 Rock on
+02 Everlasting Gaze
+03 Tear
+04 Glass&The Ghost Children
+05 Blew Away
+06 Stand Inside Your Love
+07 This Time
+08 I Of The Mourning
+09 Intro
+10 To Sheila
+11 Disarm
+12 Try Try Try
+13 Tonight Tonight
+14 Today
+15 Blue Skies Bring Tears
+16 Heavy Metal Machine
+17 Bullet With Butterfly Wings
+18 Once In A Lifetime
+19 Encore
+20 Blank Page
+21 Drown
+22 Encore 2
+23 banter
+24 Ode To No One
+25 banter
+26 Join Together
 
-SETLIST:
-01. Rock On [Essex]
-02. The Everlasting Gaze
-03. Tear
-04. Glass and the Ghost Children
-05. Blew Away
-06. Stand Inside Your Love
-07. This Time
-08. I of the Mourning
-09. To Sheila
-10. Disarm
-11. Try, Try, Try
-12. Tonight, Tonight
-13. Today
-14. Blue Skies Bring Tears
-15. Heavy Metal Machine
-16. Bullet With Butterfly Wings
-17. Once in a Lifetime [Talking Heads]
-18. (encore break)
+Notes..This isn't one of my better shows for sound quality.. i blame the venue.
 
-ENCORE ONE:
-19. Blank Page
-20. Mayonaise
-21. (encore break)
-
-ENCORE TWO:
-22. Fuck You (An Ode to No One)
-23. Happy Birthday [Hill/Hill/Coleman]
-24. Join Together [The Who]
-
-NOTES:
-Thanks to traveller03 for sending over
-
-MD5 FINGERPRINTS:
-9978a0cea2e1c3d10a60834b9d44080e *Smashing Pumpkins 2000-04-22 AUD1 t01 Rock On [Essex].flac
-0eb23d20251a1d072c4649401cb9746f *Smashing Pumpkins 2000-04-22 AUD1 t02 The Everlasting Gaze.flac
-2091d08299260f92f75eaabbb3c2f5ae *Smashing Pumpkins 2000-04-22 AUD1 t03 Tear.flac
-705c68a7f62bf6c5cdfe77193b13820d *Smashing Pumpkins 2000-04-22 AUD1 t04 Glass and the Ghost Children.flac
-398fecc8a01b840345b41b726b084312 *Smashing Pumpkins 2000-04-22 AUD1 t05 Blew Away.flac
-103097cab9f1a8abea313f5f2b70f9d2 *Smashing Pumpkins 2000-04-22 AUD1 t06 Stand Inside Your Love.flac
-568a0b3ef24eb587b1fe844f92889dc7 *Smashing Pumpkins 2000-04-22 AUD1 t07 This Time.flac
-20feaeb3c7bd4762ccdc91d7af0266d4 *Smashing Pumpkins 2000-04-22 AUD1 t08 I of the Mourning.flac
-34143d6132295b6afa7cab418a84bab7 *Smashing Pumpkins 2000-04-22 AUD1 t09 To Sheila.flac
-562256a00625bd4a0751bf24765448b5 *Smashing Pumpkins 2000-04-22 AUD1 t10 Disarm.flac
-a38f50a42e99a24a7d3b0c0a19e76d93 *Smashing Pumpkins 2000-04-22 AUD1 t11 Try, Try, Try.flac
-6657fd43daa8666d1be9dcc35d43ec2b *Smashing Pumpkins 2000-04-22 AUD1 t12 Tonight, Tonight.flac
-14a41e96c0ee88c759be64684e5f0094 *Smashing Pumpkins 2000-04-22 AUD1 t13 Today.flac
-1e1d9204021d868ca9840f3e09f878fc *Smashing Pumpkins 2000-04-22 AUD1 t14 Blue Skies Bring Tears.flac
-ec8c7b1f33b059e740b8ff387a211949 *Smashing Pumpkins 2000-04-22 AUD1 t15 Heavy Metal Machine.flac
-8f882c1fb1abce5f7e257c08fa9b9111 *Smashing Pumpkins 2000-04-22 AUD1 t16 Bullet With Butterfly Wings.flac
-59df3980a298084c8822bfd6a94816ea *Smashing Pumpkins 2000-04-22 AUD1 t17 Once in a Lifetime [Talking Heads].flac
-77955e4edd0fcc72c617a358207bc518 *Smashing Pumpkins 2000-04-22 AUD1 t18 (encore break).flac
-74684dc3e4a2775406b6ebcc1ec190e3 *Smashing Pumpkins 2000-04-22 AUD1 t19 Blank Page.flac
-1b5dc98ebb9c17a0b66435d8d5678cd8 *Smashing Pumpkins 2000-04-22 AUD1 t20 Mayonaise.flac
-088cffe39e2adefec4038f512d06b446 *Smashing Pumpkins 2000-04-22 AUD1 t21 (encore break).flac
-e22c99a20bdba75a4b888b79a025fd2c *Smashing Pumpkins 2000-04-22 AUD1 t22 Fuck You (An Ode to No One).flac
-85c134f6d7af9ac455eaef07b16f307d *Smashing Pumpkins 2000-04-22 AUD1 t23 Happy Birthday [Hill Hill Coleman].flac
-e1d9a032d6aec33da20e2ec69b966def *Smashing Pumpkins 2000-04-22 AUD1 t24 Join Together [The Who].flac
-
-DISTRIBUTION:
-Spaldz, Nicholas Serra & Members of SPLRA
-2026-03-04
+ 

@@ -1,77 +1,44 @@
-The Smashing Pumpkins
+Smashing Pumpkins
 Tower Theater
-Upper Darby, PA, US
-2007-10-19
+Upper Darby, PA
+October 19,2007
+Schoeps MK4's>NBOX>Edirol R-09 (@24Bit/48Khz)>Wavelab 5 (UV22HR Dither to 16bit/44.1khz)>CDWAV>FLAC
 
-Recordist    : Zach Payne <pzane@hotmail.com>
-Location     : ~ 25 feet, stage right stack
-Mic Config   : In hat, DINA (17cm, 90°)
-Source       : Schoeps MK4 > Nbox+ > Edirol R-09 @ 24bit/48kHz
-Edit         : WaveLab V5.01b (fades)
-Tracking     : CD-Wave v1.97
-Encoding     : FLAC v1.1.4 (Level 8) w/ FLAC Frontend v1.7.1
+Recorded by NickyC From Orchestra L/C Row GG
 
-Tracklist:
 
-01. Intro
-02. Superchrist
-03. Doomsday Clock
-04. That's the Way (My Love Is)
-05. Drown
-06. Bring the Light
-07. Bullet with Butterfly Wings
-08. Set the Ray to Jerry
-09. Today
-10. United States
-11. Glass and the Ghost Children
-12. 1979
-13. Perfect
-14. Tonight, Tonight
-15. Tarantula
-16. Stand Inside Your Love
-17. Zero
-18. Disarm
-19. Heavy Metal Machine
-20. On the Road Again [Canned Heat]
-21. I Love Rock 'n' Roll [Arrows]
-22. (Encore Call #1)
-23. Pomp and Circumstances
-24. Cherub Rock
-25. (Encore Call #2)
-26. Let Me Give the World to You
-27. Outro
+Setlist:
 
-Running Time: 2:13:54
+Superchrist 
+Doomsday Clock 
+That's the Way (My Love Is) 
+Drown 
+Bring the Light 
+Bullet with Butterfly Wings 
+Set the Ray to Jerry 
+Today 
+United States 
+Glass and the Ghost Children 
+1979 
+Perfect 
+Tonight, Tonight 
+Tarantula 
+Stand Inside Your Love 
+Zero 
+Disarm 
+Heavy Metal Machine    
+ > On the Road Again [Canned Heat] (tease) 
+ > I Love Rock N' Roll [Joan Jett] (tease) 
 
-Notes: 
+Encore 1: 
 
-- Compiled for release on 2008-04-11
-- Encoded with FLAC v1.1.4 for LMA compatability
+Pomp and Circumstances 
+Cherub Rock 
 
-tsp2007-10-19.mk4.t01.flac:84c19785ac1a105e919c961f8baf4c26
-tsp2007-10-19.mk4.t02.flac:7decc7578827e0ee9bf255ac486ad191
-tsp2007-10-19.mk4.t03.flac:2de0f263eecda8be5a40a94c95f23c42
-tsp2007-10-19.mk4.t04.flac:479d4737b57e927e45daf92c6f00b318
-tsp2007-10-19.mk4.t05.flac:28bed3c977e3b29b826a025d768d834c
-tsp2007-10-19.mk4.t06.flac:6a61467b168e4c99b92d8991b0916d3e
-tsp2007-10-19.mk4.t07.flac:39d5a1f0dafdf7c72ee6136e74a7a823
-tsp2007-10-19.mk4.t08.flac:6bfaa676a96025cc1d62844d02aa917d
-tsp2007-10-19.mk4.t09.flac:e8dcd8e6bb891d8f6a72dd4dd1c003ec
-tsp2007-10-19.mk4.t10.flac:0900ff9428a8ff45af55b8fb9793c1f2
-tsp2007-10-19.mk4.t11.flac:ad2bc0fb3e4be766cfd39fdbc1cfb6bf
-tsp2007-10-19.mk4.t12.flac:b073a02af5e6e074ee530f6e693786b7
-tsp2007-10-19.mk4.t13.flac:352ee01a1d40d5069e59e96e199d4d21
-tsp2007-10-19.mk4.t14.flac:7ae35ef5c1628b01ce9240480c0f2eca
-tsp2007-10-19.mk4.t15.flac:397d5f6a350b9eb4cc67a255b3653308
-tsp2007-10-19.mk4.t16.flac:b0c717c7af61026ae3f4c564a7f54f26
-tsp2007-10-19.mk4.t17.flac:7fc3638e490017f6e7d5277aa9099923
-tsp2007-10-19.mk4.t18.flac:a8088f8b51d1d77b62e2a94b94230a3e
-tsp2007-10-19.mk4.t19.flac:1d4c8c1529656db5ae43d98dc4dfe7b7
-tsp2007-10-19.mk4.t20.flac:b8cd0c5f89f52eb976144f7bdb220bf5
-tsp2007-10-19.mk4.t21.flac:76c3667a178fc206a45512583b19a787
-tsp2007-10-19.mk4.t22.flac:69f0d0ee93214bce047b4dc9fed44775
-tsp2007-10-19.mk4.t23.flac:13b63d54284b2d908afbed5ae73b5055
-tsp2007-10-19.mk4.t24.flac:6a20f6c5f690a69809ffff9e971e6a47
-tsp2007-10-19.mk4.t25.flac:e9ea08fe5031729dc8eacc8855c3041f
-tsp2007-10-19.mk4.t26.flac:c62d5c2a3117ad3a05f1fa149639d433
-tsp2007-10-19.mk4.t27.flac:53147c32dac3ea2f1228d5126ebb7915
+Encore 2: 
+
+Let Me Give the World to You
+
+
+tracking may not be 100% perfect, tried the best I could, however not being perfectly familiar with all the songs makes it hard.
+

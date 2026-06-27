@@ -1,104 +1,16 @@
-Band: SMASHING PUMPKINS (USA)
-City: Bilbao, Spain (Basque / Euskara / Vizcaya)
-Venue: Museu Guggenheim Bilbao - Nervión (Outdoor)
-Date: 1998-05-21
+the smashing pumpkins
+guggenheim art museum, bilbao, spain
+may 21, 1998
 
+tv broadcast>line out>pc>pcm>cd>wav>flac
 
-*THIS DVD-VERSION:
-Broadcasted by: SWEDISH TELEVISION Channel 1 (SVT 1)
-(Original Broadcast/Recorded by: Televisió De Catalunya - 1998)
-
-(Transfer by : "Trekytt" MASTER - Made by me in february 2012)
-
-PAL (DVD 5)
-
-Sound: A
-Picture: A/A-
-
-Running time: 53:48 minutes
-
------------------------------------------------------------------------------------------
-
-Lineage:
-Master VHS-Videotape (SKC High Grade VHS Videotape) >> LG Videoplayer >> PAL >>
-Analoge Cabel TV - SVT 1 >> Pinnacle Video Edit Pro (12) >> MPEG-2 >> 3.00 GB >> 1 DVD
-
-DVD "VOB" format
-MPEG-2 Program Stream << { 1 vid, 1 aud }
-Sys Bitrate: 10080 kb/s VBR
-0xbd[0x80]:48000Hz  256 kb/s tot , stereo (2/0 Channels) 
-Average bitrate of the videostream: 6263 kbps
-Frame count: 32,305
-Average and maxium keyframe: 12 max; N=12, M=3 (99%)
-Frame quality: 0.604 bits/pixel
-Pics/s: 25.000
-Frames/s: 25.000
-Fields/s: 50.000
-MPEG-2
-Pic: 720 x 576
-4:3 aspect ratio
-
-Running Time: 53:48 minutes
-
-PAL / 3.00 GB
-
-
------------------------------------------------------------------------------------------
-
-SETLIST (*SWEDISH TV - VERSION):
-
-01 Once Upon A Time
-02 - Interview with the band -
-03 Crestfallen
-04 Ava Adore
-05 Daphne Descends
-06 Perfect
-07 Pug
-08 Tonight, Tonight
-09 Stumbeline
-10 - Interview with the band -
-11 Shame
-12 1979 
-13 - TV-Credits/ Outros - (Original Broadcast by: Televisió De Catalunya - 1998)
-
------------------------------------------------------------------------------------------
-
-
-*************Smashing Pumpkins Taping Policy**************
-**June 2007**
-
-"A clear declaration of our new open-source taping policy...everyone is welcome to tape 
-at our shows in whatever capacity they see fit...anyone is welcome and invited to 
-document using audio, video, or picture cameras (cell phones are welcome)...
-although we do reserve the right to refuse anyone at anytime (especially if we feel the 
-reason for recording is not for entirely altruistic)"
-
-Further clarification of the notes below, provided in November of 2011 by Frank Quinto:
-
-Audience versions [of commercially released live recordings] are ok, but sbd/fm/tv/pro versions should not be allowed if they are commercially available.
-
-On June 23, 2007 Frank Quinto, Smashing Pumpkins consultant, gave SP's OK for inclusion in the Live Music Archive:
-
-"The Smashing Pumpkins live recordings can be uploaded to archive.org. The band is allowing archive.org to create mp3's / streaming derivatives from taper's lossless (.flac or .shn) seed files.
-
-Live recordings only please. No Inner Ear Monitor (IEM) / Assisted Listening Device (ALD) sources. Shows recorded off of FM radio broadcasts / TV broadcasts are okay. no unauthorized SBD recordings. If you have a SBD recording you would like to upload, contact Frank at frank AT frankquinto DOT com first to get approval to upload it to archive.org. No profiting on any recordings. We reserve the right to take down any recording that does not fit this policy.
-
-All Smashing Pumpkins live recordings are allowed to be uploaded to archive.org regardless of when the date of performance is (i.e. ALL shows are OK, not just the new 2007 performances.)
-
-NOTE: official recordings from livesmashingpumpkins.com are not allowed on the LMA
-
--Frank"
-
-
-SOURCE:
-http://archive.org/details/SmashingPumpkins
-
------------------------------------------------------------------------------------------
-
-**OFFICIAL DVD:S TRACKLISTNING HERE -
-
--NO- LIVE SONGS FROM THE BILBAO-CONCERT ABOVE WAS USED FOR THESE:
-
-http://en.wikipedia.org/wiki/Vieuphoria
-http://en.wikipedia.org/wiki/Greatest_Hits_Video_Collection
-http://en.wikipedia.org/wiki/If_All_Goes_Wrong
+01 once upon a time
+02 crestfallen
+03 ava adore
+04 daphne descends
+05 perfect
+06 pug
+07 tonight tonight
+08 stumbleine
+09 shame
+10 1979

@@ -1,115 +1,27 @@
 A Perfect Circle
 Marquee Theatre
 Tempe, Arizona
-November 4th, 2010
+2010-11-04
 
-taper: anonymous
+Source: CA STC-11> CA STC-9000> Iriver hp120
+Lineage: Iriver > USB > CEP > CDWave > TLH > FLAC
+Taper: To0L
+Email: pete46and2@hotmail.com
 
-source: AT831 > SP-SPSB-11 (rolloff @ 107 Hz) > Edirol R-09 @ 44.1 / 16-bit 
-
-location: GA Floor / Centered 
-
-transfer: Card reader > PC > Soundforge 7.0 (normalization and fades only) > Cdwave > TLH > shn
-
-01. Intro/Crowd
-02. The Hollow
-03. Magdalena
-04. Rose
-05. Judith
-06. Orestes
-07. 3 Libras
-08. Sleeping Beauty
-09. Thomas
-10. Renholder
-11. Thinking Of You
-12. Brena
-13. Over
-14. Encore/Band Intros
-15. Diary of a Lovesong
-16. Ashes to Ashes
-17. Imagine
-
----------------------------------------------------------------------------------------------------
-
-A Perfect Circle
-Marquee Theatre
-Tempe, Arizona
-November 5th, 2010
-
-taper: anonymous
-
-source: AT831 > SP-SPSB-11 (rolloff @ 107 Hz) > Edirol R-09 @ 44.1 / 16-bit 
-
-location: GA Floor / Centered 
-
-transfer: Card reader > PC > Soundforge 7.0 (normalization and fades only) > Cdwave > TLH > shn
-
-01. Intro/Crowd
-02. The Package
-03. Weak and Powerless
-04. The Noose
-05. Blue
-06. Vanishing
-07. A Stranger
-08. The Outsider
-09. Crimes
-10. The Nurse Who Loved Me (aborted) / Maynard's phone call
-11. The Nurse Who Loved Me
-12. Pet
-13. Lullaby
-14. Gravity
-15. Encore/Band Intros
-16. Imagine
-
-
-
---------------------------------------------------------------------------------------------------
-
-A Perfect Circle
-Marquee Theatre
-Tempe, Arizona
-November 6th, 2010
-
-taper: anonymous
-
-source: AT831 > SP-SPSB-11 (rolloff @ 107 Hz) > Edirol R-09 @ 44.1 / 16-bit 
-
-location: GA Floor / Centered 
-
-transfer: Card reader > PC > Soundforge 7.0 (normalization and fades only) > Cdwave > TLH > shn
-
-
-01. Intro/Crowd
-02. Annihilation
-03. Imagine 
-04. Peace, Love and Understanding 
-05. What's Going On 
-06. Passive
-07. Gimmie Gimmie Gimmie
-08. Jokes With James 
-09. People Are People
-10. Freedom of Choice
-11. Let's Have a War
-12. Counting Bodies Like Sheep to the Rhythm of the War Drums
-13. When the Levee Breaks
-14. Fiddle and the Drum
-15. Encore/Band Intros
-16. Weak and Powerless
-
-
-
-Seeding these for a friend who did all of you a big favor. Please leave the appropriate thank yous. 
-
-Image of Maynard's "Patron Advisory"/ rule sheet is attached. 
-
-Please don't have any fun when listening to these recordings. He would likely not approve of you doing so. 
-
-If you need help with the .shn to .wav conversion, please download Trader's Little Helper for Windows here: http://tlh.easytree.org/ or xACT for Mac here: http://www.macupdate.com/info.php/id/14246/xact
-
-Compiled by Edgar (edgar518@hotmail.com) on November 8th, 2010. 
-
- 
-
-
-
-
+Setlist:
+1. The Hollow
+2. Magdalena
+3. Rose
+4. Judith
+5. Orestes
+6. 3 Libras
+7. Sleeping Beauty
+8. Thomas
+9. Renholder
+10. Thinking Of You
+11. Brena
+12. Over
+13. Encore
+14. Diary of a Lovesong
+15. Ashes to Ashes
+16. Imagine 

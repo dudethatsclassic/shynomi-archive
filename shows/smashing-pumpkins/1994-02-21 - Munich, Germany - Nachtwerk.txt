@@ -1,86 +1,45 @@
-Smashing Pumpkins - Nachtwerk Munich, Germany 1994-02-21 HDTV 720P
+Smashing Pumpkins
 
-October 2025 Broadcast
+Alabamahalle
 
-Lineage: Edision Piccollo S2 DVB-S2 Satellite Receiver -> HDD -> Avidemux -> uncompressed .ts file
-
-Video
-ID                                       : 256 (0x100)
-Menu ID                                  : 1 (0x1)
-Format                                   : AVC
-Format/Info                              : Advanced Video Codec
-Format profile                           : High@L4
-Format settings                          : CABAC / 4 Ref Frames
-Format settings, CABAC                   : Yes
-Format settings, Reference frames        : 4 frames
-Codec ID                                 : 27
-Duration                                 : 51 min 37 s
-Bit rate                                 : 6 496 kb/s
-Width                                    : 1 280 pixels
-Height                                   : 720 pixels
-Display aspect ratio                     : 16:9
-Frame rate                               : 50.000 FPS
-Standard                                 : Component
-Color space                              : YUV
-Chroma subsampling                       : 4:2:0
-Bit depth                                : 8 bits
-Scan type                                : Progressive
-Bits/(Pixel*Frame)                       : 0.141
-Time code of first frame                 : 19:21:07:17
-Stream size                              : 2.34 GiB (89%)
-Color range                              : Limited
-Color primaries                          : BT.709
-Transfer characteristics                 : BT.709
-Matrix coefficients                      : BT.709
-
-Audio
-ID                                       : 257 (0x101)
-Menu ID                                  : 1 (0x1)
-Format                                   : AC-3
-Format/Info                              : Audio Coding 3
-Commercial name                          : Dolby Digital
-Codec ID                                 : 129
-Duration                                 : 51 min 37 s
-Bit rate mode                            : Constant
-Bit rate                                 : 448 kb/s
-Channel(s)                               : 2 channels
-Channel layout                           : L R
-Sampling rate                            : 48.0 kHz
-Frame rate                               : 31.250 FPS (1536 SPF)
-Compression mode                         : Lossy
-Delay relative to video                  : 28 ms
-Stream size                              : 165 MiB (6%)
-Language                                 : German
-Service kind                             : Complete Main
-Dialog Normalization                     : -23 dB
-compr                                    : 2.36 dB
-dynrng                                   : 2.57 dB
-dsurmod                                  : Not Dolby Surround encoded
-mixlevel                                 : 105 dB
-ltrtcmixlev                              : -3.0 dB
-ltrtsurmixlev                            : -4.5 dB
-lorocmixlev                              : -3.0 dB
-lorosurmixlev                            : -4.5 dB
-dialnorm_Average                         : -23 dB
-dialnorm_Minimum                         : -23 dB
-dialnorm_Maximum                         : -23 dB
+Munich, Germany
 
 
-Capper: nirtorr
+February 21, 1994
 
 
-Setlist:
+SBD A
 
-Rocket
-Quiet
-Today
-Drown
-Hummer
-Geek U.S.A.
-Soma
-Siva
-Silverfuck
-Cherub Rock
-Disarm
 
-Duration: 51:37
+01 Rocket (4:35)
+02 Quiet (3:31)
+03 Today (3:58)
+04 Drown (4:27)
+05 Hummer (6:28)
+06 Geek USA (5:18)
+07 Soma (6:50)
+08 Siva (6:39)
+09 Silverfuck (fades out) (2:33)
+
+TT - 44:25
+
+
+Lineage: SBD > ? > CDR(x) > EAC > WAV > FLAC
+
+
+01 Rocket.flac:9bce88bc630be5316fd252d8c7b798ad
+02 Quiet.flac:5a99482720795408ce37c309f0d23427
+03 Today.flac:c3ba8ddfa1835d5ebc0b6e44e820c6aa
+04 Drown.flac:2b083c11002dd74d996e9b772503c210
+05 Hummer.flac:1bb8137847faadf2394dbed67119e871
+06 Geek USA.flac:4ec623010a92787dcdd460d706114459
+07 Soma.flac:e128004bf6beec8692151e743e12f149
+08 Siva.flac:8c948401046a60248d47d5acdb48151c
+09 Silverfuck.flac:3d8bea03965686c5989e03be6c18cbae
+
+Got this about 15 years ago in a snail mail trade.  I was heavily into the Smashing Pumpkins around the time this show took place, in fact I saw them in London on the same tour a few months before.  I still dig the albums out once in a while to blow away the cobwebs but my daughter says they're "too noisy" for her. :-)
+
+This is a great sounding SBD of an awesome show (in my opinion one of the best 2 or 3 they performed that year and, trust me, I have a lot of SP bootlegs).  It is unfortunately incomplete (I've never seen a copy that isn't) but, from the sound, it can't be far from the master at all.
+
+Enjoy!
+

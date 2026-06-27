@@ -1,77 +1,50 @@
 Smashing Pumpkins
-May 25th 2022
+2022-05-25
+Greensboro, NC 
 White Oak Amphitheatre
-Greensboro, NC, US
+Rock Invasion 2 Tour
 
-SOURCE (AUD#2):
-Sony TS-125 > JVC XM-R700SL Minidisc
 
-TRANSFER:
-JVC XM-R700SL Minidisc > WAV
+Source: iPhone 12 > Voice Record Pro > 24/48 WAV File
+Transfer: WAV(M) > Logic Pro 10.7.2 for splits and EQ > 24/48 Export > xACT > FLAC 8
+Taper: shynomi
+Location: Section 5 | Row T | Seat 15
 
-GENERATION:
-MD(M) > WAV > FLAC
 
-LENGTH:
-110:50
+Tracklist:
 
-SET:
-01. Intro
-02. The Colour of Love
-03. Today
-04. Bullet With Butterfly Wings
-05. Ugly
-06. Drown
-07. Quiet
-08. Cyr
-09. Once in a Lifetime [Talking Heads]
+1. Intro
+2. The Colour of Love
+3. Today
+4. Bullet With Butterfly Wings
+5. Ugly
+6. Drown
+7. Quiet
+8. Cyr
+9. Once In A Lifetime (Talking Heads Cover)
 10. Solara
 11. Eye
 12. Ava Adore
-13. Blister in the Sun [Violent Femmes] (tease) + Banter
-14. Tonight, Tonight
-15. Starla
-16. Cherub Rock
-17. Zero
-18. FOL
-19. 1979
+13. Tonight, Tonight (Acoustic) (Billy Corgan, James Iha)
+14. Starla
+15. Cherub Rock
+16. Zero
+17. FOL
+18. 1979
+19. Silverfuck
 
-Encore
-20. Silverfuck
 
-NOTES:
-Thanks to leopheard for recording and sending over the original raw wav file
-Tonight, Tonight and Starla are both cut
-The crowd around the taper sucks. 
+Band:
 
-MD5 FINGERPRINTS:
-e6446b382a0f700dd0086f9362901f43 *Smashing Pumpkins 2022-05-25 AUD2 t01 Intro.flac
-f7d36b137e08b5c2e6be850f0374d6eb *Smashing Pumpkins 2022-05-25 AUD2 t02 The Colour of Love.flac
-b6330114c19cbe3b1e2862555dc964ec *Smashing Pumpkins 2022-05-25 AUD2 t03 Today.flac
-39982b86b2fc1a9daed690adaeb04247 *Smashing Pumpkins 2022-05-25 AUD2 t04 Bullet With Butterfly Wings.flac
-d0130d97f0a4f233a17c6abfe4531790 *Smashing Pumpkins 2022-05-25 AUD2 t05 Ugly.flac
-4e91839d4dcfe2f57b308d38372ea436 *Smashing Pumpkins 2022-05-25 AUD2 t06 Drown.flac
-f39e11907c24f492af8bcfb81897570d *Smashing Pumpkins 2022-05-25 AUD2 t07 Quiet.flac
-38da6a8cd43cc01b65e61a01ff10fddc *Smashing Pumpkins 2022-05-25 AUD2 t08 Cyr.flac
-7bb7c17e5b58803eca650b50ce36981b *Smashing Pumpkins 2022-05-25 AUD2 t09 Once in a Lifetime.flac
-a5f76753596d536e4a674061470da874 *Smashing Pumpkins 2022-05-25 AUD2 t10 Solara.flac
-9c9162250ed38df3bf0f01d654089b81 *Smashing Pumpkins 2022-05-25 AUD2 t11 Eye.flac
-b1dbef573cfbf6ddc0e6e4a43348a272 *Smashing Pumpkins 2022-05-25 AUD2 t12 Ava Adore.flac
-b30cdfd34a2ad56acafad60551b0b578 *Smashing Pumpkins 2022-05-25 AUD2 t13 Blister In The Sun + Banter.flac
-9bd27a2d4252c45ee28b748f048174ea *Smashing Pumpkins 2022-05-25 AUD2 t14 Tonight, Tonight.flac
-513e40c47e8ae6c6abde03112cd89f06 *Smashing Pumpkins 2022-05-25 AUD2 t15 Starla.flac
-4c7ff9f4b7314d5bd3b902328323edba *Smashing Pumpkins 2022-05-25 AUD2 t16 Cherub Rock.flac
-f81f2c7142bfe4accbb6112eecf82afd *Smashing Pumpkins 2022-05-25 AUD2 t17 Zero.flac
-d3db03c6bd9d168696d73cec1970a988 *Smashing Pumpkins 2022-05-25 AUD2 t18 FOL.flac
-23274c2ffb5de1196f814ebc126b0b8d *Smashing Pumpkins 2022-05-25 AUD2 t19 1979.flac
-a1ce91ec4fc1788d2c28bc7976e1b30f *Smashing Pumpkins 2022-05-25 AUD2 t20 Silverfuck.flac
+Billy Corgan
+Jack Bates
+James Iha
+Jeff Schroeder
+Jimmy Chamberlin
 
-RECORDED BY:
-leopheard
+Notes:
+Band was tight and seemed to be having a lot of fun. This was just coming off a canceled show the night before in Portsmouth, VA due to non COVID-related illness from seemingly Billy. Had to record on my iPhone 12 since I wasn't able to get a Zoom H4 in but glad it was at least captured. Recording turned out a bit muffled with pushed levels but definitely listenable after some EQ'ing and adjustments. 
 
-TRANSFER BY:
-leopheard
+**This is the 24 bit version. 16 bit file set available
 
-DISTRIBUTION:
-Spaldz, Nicholas Serra & Members of SPLRA
-2022-10-03
+- Nate

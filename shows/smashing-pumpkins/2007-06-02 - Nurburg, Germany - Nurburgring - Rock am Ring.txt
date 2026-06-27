@@ -1,79 +1,30 @@
-Video Source - Most likely a PAL-sized version of the HD feed used for Mojo. Source was 720x576x32 native widescreen MPEG.
-Resized and encoded to NTSC Widescreen DVD standards at 8300-CBR.
+Smashing Pumpkins
+2nd June 2007
+Rock am Ring
+Nürburgring, Nürburg, DE
 
-Patched in 13 mintues of websource video for "Gossamer" using my webstream cap.
+Source: analog tv (tv card) > adobe audition 1.5. > WAV [44.1kHz] > TLH > FLAC [level 8]
 
-----
-
-Audio source - pTV from Obertu (complete show in high quality audio, dude you Rock!)
-Patched in some missing audience portions using the webfeed.
-Upsampled to 48K.
-
-
-Big thanks to the usenet flooder and Obertu for the sources to make this happen.
-
-
-===========
-
-DISC 1
-
-intro
-Today
-Bullet with Butterfly Wings
-United States
-Bleeding The Orchid
-Stand Inside Your Love
-Cherub Rock
-Shame
-Silverfuck
-Thirty-Three
+Setlist:
+01. Intro 
+02. Today
+03. Bullet With Butterfly Wings
+04. United States
+05. Bleeding The Orchid
+06. Stand Inside Your Love
+07. Cherub Rock
+08. Shame
+09. Silverfuck
+10. Thirty-Three
+11. To Sheila
+12. Tonight, Tonight
+13. Tarantula
+14. Starz
+15. Zero
+16. Disarm
+17. 1979
+18. Untitled
+19. Gossamer (cut)
 
 
-Disc 2
-
-
-To Sheila
-Tonight, Tonight
-Tarantula
-Starz
-Zero
-Disarm
-1979
-Untitled
-Gossamer (complete!)
-
-
-
-==========
-
-As if this needs to be said (it really doesn't) but it's all the rage:
-
-*Seed this somewhere else as soon as you get it from here, please.
-*Seed it absolutely anywhere you like, please.
-*Rip the audio from it, down convert to 44K and burn to disc, please.
-*Feel free to remove the thir13en and the (13) and take credit for the whole thing,
--if that's what get's you off, please.
-*DO NOT hail me as a god or comment on how much I've contributed to the community, please.
--Sharing music is about as easy as it gets, and it's a nice thing to do, no need for grandstanding.
-*DO thank the band, the engineers, the stage hands, the cameramen,
--the broadcasters and always the source originators.
-
-
-
-
-I'll enjoy this if no one else does. If others do, my subconscience smile will just get a little bigger.
-
-
-
-
-Hey Sebastian, read this faq:
-
-1. Dude, life's too short...
-
-
-
-
-Rock on, Peace out.
-
--M
-
+Recorded by sikamikanico83@gmail.com

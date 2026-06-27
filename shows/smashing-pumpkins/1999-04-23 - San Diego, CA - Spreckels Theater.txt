@@ -1,69 +1,27 @@
-Smashing Pumpkins
-April 23rd 1999
-Spreckels Theater
-San Diego, CA, US
+1999/04/23 - Spreckels Theater; San Diego, CA, US
+AUD>MK4Schoeps>SBM1>BRbox>D100>DAT-M>CDR-1
 
-SOURCE (AUD#3):
-CSHEB > TCD-D100
+Set:
 
-TRANSFER:
-Tascam DA-20mkii > Marantz PMD670
-
-GENERATION:
-DAT(2) > FLAC
-
-LENGTH:
-87:52
-
-SETLIST:
-01. Intro
-02. I Am One
-03. Zero
-04. Pug
-05. La Dolly Vita
-06. Wound
-07. Blue Skies Bring Tears
-08. Cash Car Star
-09. The Imploding Voice
-10. Glass' Theme
-11. Stand Inside Your Love
-12. Glass and the Ghost Children
-13. Dross
-14. Speed Kills
-15. Ava Adore
-16. Today
+I Am One
+Zero
+Pug
+La Dolly Vita
+Wound
+Blue Skies Bring Tears
+Cash Car Star
+The Imploding Voice
+Glass' Theme
+Stand Inside Your Love
+Glass and the Ghost Children
+Dross
+Speed Kills
+Ava Adore
+Today
 
 Encore:
 
-17. Muzzle
-18. Soma
+Muzzle
+Soma
+Length ~ 95m
 
-NOTES:
-Thank you to Arnold Leal for lending his DATs, and to Andrew Fogelsong for the transfer and raw files.
-
-MD5 FINGERPRINTS:
-8850fe93c5e36519786be9ff2639e55d *Smashing Pumpkins 1999-04-23 AUD3 t01 Intro.flac
-ec31b46160b21b137d9d3da61e35bf38 *Smashing Pumpkins 1999-04-23 AUD3 t02 I Am One.flac
-78368138056c77709643498eefa94836 *Smashing Pumpkins 1999-04-23 AUD3 t03 Zero.flac
-36972916dbb6535ec4dc5f7fb5932b7c *Smashing Pumpkins 1999-04-23 AUD3 t04 Pug.flac
-3472da7ca5c74091d80de4b9a0444cc0 *Smashing Pumpkins 1999-04-23 AUD3 t05 La Dolly Vita.flac
-3a0844dd20dfbd1ad3652286cdb37f6c *Smashing Pumpkins 1999-04-23 AUD3 t06 Wound.flac
-4cb4e64f9d1118f30a0ae3a4930a485e *Smashing Pumpkins 1999-04-23 AUD3 t07 Blue Skies Bring Tears.flac
-28bbbddd50c5d8e8bc7a8420789f7842 *Smashing Pumpkins 1999-04-23 AUD3 t08 Cash Car Star.flac
-03921c431a39dd490392f1deab7c4203 *Smashing Pumpkins 1999-04-23 AUD3 t09 The Imploding Voice.flac
-9e87d88fb1c7b04cd18be3d2197a98dd *Smashing Pumpkins 1999-04-23 AUD3 t10 Glass' Theme.flac
-58ba5cde4452fa2153c40bec8d18d732 *Smashing Pumpkins 1999-04-23 AUD3 t11 Stand Inside Your Love.flac
-7bbf54a2a65f1280b925a36290206faa *Smashing Pumpkins 1999-04-23 AUD3 t12 Glass and the Ghost Children.flac
-22e58af55bc44aef8902cc85f6338c63 *Smashing Pumpkins 1999-04-23 AUD3 t13 Dross.flac
-9a96621c4d5b40cac49ee6936994f1b5 *Smashing Pumpkins 1999-04-23 AUD3 t14 Speed Skills.flac
-2d8c7e8dde70ee6a2105ae9a370ebb7b *Smashing Pumpkins 1999-04-23 AUD3 t15 Ava Adore.flac
-d4dade6894b3a2c34de8e17948d1c97e *Smashing Pumpkins 1999-04-23 AUD3 t16 Today.flac
-b27c3faec23fd3a74bdf727a4b71a2b0 *Smashing Pumpkins 1999-04-23 AUD3 t17 Muzzle.flac
-eb81f5d6a95005852f2f72f0b77dfd8f *Smashing Pumpkins 1999-04-23 AUD3 t18 Soma.flac
-
-TRANSFER BY:
-Andrew Fogelsong
-
-DISTRIBUTION:
-Spaldz & Members of SPLRA
-2022-02-09

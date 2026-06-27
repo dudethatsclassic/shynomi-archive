@@ -1,21 +1,17 @@
-The Smashing Pumpkins	
-1991/09/01 - Rotterdam, NL - De Doelen 
+Smashing Pumpkins
+Ein Abend in Wien Festival
+Rotterdam, the Netherlands
+September 1, 1991
 
-Taper:            ?
-Generation:       ana Low > cdrM
-Source:           SPFC lists only an aud vid.  I suspect this is ana aud (sounds to good for video)
-Location:         ?
-flaws:            first few seconds of rocket cut 
-Conversion:       Technics RS-TR373 > R300 (A/D) > Coax > Midiman Audiophil 2496 > cool edit pro > cdwave editor > mkw audio compression tool(shn)
-Resampling:       none; show converted at 44.1k
-Editor:           Fares Halteh
-Editing:          none
-SHN:              master wav's > cdwave editor > MKW Audio Compression Tool
+FM broadcast > TDKSA90 (master-tape) > to HDD via analog cable > Soundblaster Platinum 5.1 >
+Cooledit pro v2.0 (for edits and fades) > CDWAV 1.94.5 > 
+Flac 1.7.1 Etree edition (level 8)
 
-********************************************************************************
-	                    SPREAD THE MUSIC
-********************************************************************************
+01 Windowpane 
+02 Bury me 
+03 Siva 
+04 Hazy 
 
-Disc 1 37 minutes
+Running time 28:06
 
-Rocket - Tristessa - Window Paine - Bury Me - Siva - Silverfuck
+Seeded to Dimeadozen by "Straap", August 2, 2007

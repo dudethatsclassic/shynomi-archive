@@ -1,16 +1,26 @@
 Smashing Pumpkins
 September 21, 2007
-Clark County Amphitheater,
-Ridgefield, Wa
+Clark County Amphitheater
+Ridgefield, WA
 
-Source: Nakamichi CM-300's w/CP-1's>Sony D8
-Secton 203, Row-E  Seats 14 & 15
-Transfer:  Tascam DA-20 MKII>Philips CDR 775>EAc>FLAC
-Taped & transferred by Chris McGrath  (ifixedmybus@hotmail.com)
+Author/Sync/Edits/Color Correction by: Carl Z  - CarlZeiss.II@gmail.com
 
-Disc 1.
+VIDEO ATTRIBUTES:
+Source: AUD (handheld) Sony PC1000 > Mini DV Master > Firewire > Final Cut Pro 6 > Sorenson Squeeze > DVDStudio 4
+Video System : NTSC 29.97 fps
+Video Bitrate: 7.68 Mbps
+Taped by: Carl Z
 
-1. Intro>United States
+
+AUDIO ATTRIBUTES:
+Source: Nakamichi CM-300's w/ CP-2 caps>Sony D8
+Audio Codec: PCM
+Taped by: Chris McGrath
+
+Note: This DVD requires a Dual Layer Disc for burning 
+
+Set:
+1. United States
 2. Bullet with Butterfly Wings
 3. Hummer
 4. Bring the Light
@@ -19,32 +29,13 @@ Disc 1.
 7. Tarantula
 8. Starla
 9. Cherub Rock
-10. Glass and Ghost the Children
-
-Disc 2.
-
-1. 1979
-2. Winterlong>Sheila
-3. Superchrist>Doomsday Clock
-4. Heavy Metal Machine>On the Road Again (Canned Heat)
-5. Ava Adore
-6. Today
-
-Notes:
-
--Was lucky enough to have enough empty seats & quiet neighbors around me that this recording turned out
- better than I had hoped.   To me, it sounds big, which I like.  Definately pulls in the sound under the
- amphitheater roof and fills the room when played on the home stereo.  My T-Bar & mics were taped to the
- armrest between mine & my daughters seats and pointed in a somewhat X-Y pattern & angled about 90 degrees.
- I expected it to sound like shit & really boomy but I think it sounds great.   I know there is a very,
- very tiny warble of digi-noise during United States but it's extremely minute.   I also messed up the
- tracking as I'm not a Pumpkins aficionado.   Hats off to these guys for allowing open taping on this 
- tour, a very stand up gesture from a band that doesn't need to cater to it's fans but chose to do so 
- anyway, although they could do a slightly better job of informing the venues it's OK to for us to tape ;)
- 
-- Trade Freely, do not sell!!!
-- Please do not "remaster" & give some stupid title or bullshit like that.  If you want to matrix this
-  or something, please just ask & I can get you a clone of the master.
-- A HUGE thanks to Aaron Sternberg for the tickets, I hope this in someway makes up for your having
-  to miss the show. 
-- Enjoy.
+10. Glass and the Ghost Children
+11. 1979
+12. Winterlong
+13. To Sheila
+14. Superchrist
+15. Doomsday Clock
+16. Heavy Metal Machine
+Encore:
+17. Ava Adore
+18. Today

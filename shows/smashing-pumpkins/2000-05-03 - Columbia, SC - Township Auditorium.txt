@@ -1,50 +1,21 @@
-The Smashing Pumpkins
-May 3, 2000
+Smashing Pumpkins
+May 3rd, 2000
 Township Auditorium
-Columbia, SC
+Columbia, South Carolina, USA
 
-Taper:  David Weeks
-Source:  CSBmod > D7
-Lineage:  DDc-1 > CDR (EAC) > flac (level 8)
-Leakist:  David Bowman (bowmand_at_clemson_dot_edu)
+CSBMod>D7>CDR(?)>EAC>WAV>FLAC
 
-*****************************************************************************
-*        THIS SHOW IS NOT TO BE ENCODED TO MP3 OR SOLD!                     *
-*****************************************************************************
+01. Raindrops + Sunshowers - 1:03
+02. Raindrops + Sunshowers - 2:12
+03. Raindrops + Sunshowers - 4:06
+04. People Talking/Riffing - 1:05
+05. Raindrops + Sunshowers - 0:19
 
-Tracklisting:
+Soundcheck, mics were slipped under a door. Sounds incomplete to me. We get to hear the band working up Raindrops + Sunshowers in the full arrangement, although it would premiere with Billy on his own.
 
-Disc 1 [74:21.52]
- 01. Intro
- 02. Pale Scales
- 03. Everlasting Gaze
- 04. Heavy Metal Machine
- 05. Glass and the Ghost Children
- 06. Blew Away
- 07. Stand Inside Your Love
- 08. Tonight Tonight
- 09. Blue Skies Bring Tears
- 10. I of the Mourning
- 11. To Shelia
- 12. Raindrops + Sunshowers
- 13. Ava Adore
- 14. Try Try Try
+---
+DO NOT CONVERT TO MP3
+DO NOT DISTRIBUTE IN ANY SORT OF EDITED FORM WITHOUT CONSENT
+---
 
-Disc 2 []
- 01. Rock On [Essex] 
- 02. Bullet with Butterfly Wings > Once in a Lifetime [Talking Heads] 
- 03. Mayonaise 
- 04. Perfect 
- 05. I Am One 
-
- Encore 1: 
- 06. 1979 
- 07. Fuck You 
-
- Encore 2: 
- 08. Today 
- 09. Drown 
-
-Notes:  Quality isn't the greatest, but this show fills a lot of gaps on trade lists.  Enjoy.
-
-More Notes:  .flac files have internal file verification, so the .md5 file included with this release may *not* pass md5 verification if someone alters the flac's meta files.  Please, do not alter the meta tags on the flac files.
+-rhinowing

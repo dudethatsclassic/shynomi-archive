@@ -1,61 +1,44 @@
-Artist Name: The Smashing Pumpkins
+THE SMASHING PUMPKINS
+2024-06-19
+SparkassenPark
+Mönchengladbach, Germany
 
-Bootleg Title: Moenchengladbach Mayonaise
+Source:     Schoeps MK41V/CMC1L > RiotBox > Sony PCM-A10
+Mic Config: DIN-A (90°, 17cm)
+Location:   20m from the stage, left side
+Transfer:   Master WAVs > dEdit > FLAC V1.4.3
+Editing:    Digital editing in Cockos Reaper V7.03
+            EQ, compression and volume boost using iZotope Ozone 11
+            Azimuth correction, clap removal and fades in iZotope RX 11
+Format:     24 bit / 44.1 kHz
 
-Venue City Country Date:
-Sparkassenpark, Moenchengladbach,Germany, 2024-06-19
-
-01 ATUM (Tape Intro)
+Disc 1:
+01 (Intro: Atum)
 02 The Everlasting Gaze
 03 Doomsday Clock
-04 Zoo Station (U2 cover)
+04 Zoo Station [U2]
 05 Today
 06 Thru the Eyes of Ruby
-07 Banter 01
-08 Spellbinding
-09 Tonight Tonight
-10 That Which Animates the Spirit
-11 Ava Adore
-12 Disarm
-13 Springtimes
-14 Banter 02
-15 Mayonaise
-16 Bullet With Butterfly Wings
-17 Empires
-18 Beguiled
-19 1979
-20 Birch Grove
-21 Gossamer
-22 Jellybelly
-23 Band Introductions
-24 Cherub Rock
-25 Zero
-26 Tape Outro The Well Tempered Clavier
+07 Spellbinding
+08 Tonight, Tonight
+09 That Which Animates the Spirit
+10 Ava Adore
+11 Disarm
+12 Springtimes
+13 Mayonaise
 
-ffp:
-Included
+Disc 2:
+01 Bullet with Butterfly Wings
+02 Empires
+03 Beguiled
+04 1979
+05 Birch Grove
+06 Gossamer > The Spaniards
+07 Jellybelly
+08 (Band Introductions) / Seek & Destroy [Metallica] (tease)
+09 Cherub Rock
+10 Zero > Love Gun [Kiss] (tease)
+11 (Outro: Wanda Landowska - J. S. Bach: The Well-Tempered Clavier, Book II, BWV 870-893: Fugue IV in C-Sharp Minor)
 
-Line-Up:
-Billy Corgan - vocals, guitars
-James Iha - guitars
-Jimmy Chamberlin - drums
-Kiki Wong - guitars
-Katie Cole - vocals, acoustic guitar
-Jack Bates - bass
-
-ARTWORK:
-Included
-
-SOURCE:
-Audience Recording / Exc.- Exc. (-)
-
-TAPER:
-METAMARC
-
-LINEAGE:
-Church Audio CA-11 (Croakie Mount) > SP-SPSB-4 (Micro-mini stereo microphone plug-in power supply) > Roland R-05 > Converted WAV audio files to flac 8, sector aligned and tested with Traders Little Helper - ffp with Traders Little Helper - Torrent file with Maketorrent > Torrent file cleaned and enhanced with iZotope RX8 and Adobe Audition 3.0
-
-If you find this recording enjoyable please support the artists and buy their stuff at www.smashingpumpkins.com
-No mp3's from this upload, never, nowhere!!! Please don't alter the info file in case of uploads to other torrent sites. Give credit to all the tapers out there when uploading their work onto other trackers. Share the gift of music.
-
-Notes: Great open air show, nice capture. Some talking but not too distracting. Enjoy the music.
+Notes:
+Some phasing due to wind.

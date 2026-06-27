@@ -1,106 +1,28 @@
-Bridge School Benefit 11
+THE SMASHING PUMPKINS
 1997-10-18
-Shoreline Amphitheatre, Mountain View, California, USA
+Bridge School Benefit
+Shoreline Amphitheatre
+Mountain View, CA, USA
 
-Source: aud schoeps CCM4 > Aerco > D100 > dat > dat clone
-Transfer: dat clone > Sony R500 > MBox+ > Protools > xACT2.21 > flac(8)
-Taper: kwv
+Source:     Shure SM57 > Sony TCD-D8
+Transfer:   DAT-3 > Tascam DA-20 MK II > Terratec EWX 24/96 > FLAC V1.2.1
+Editing:    Fades in Audiofile Engineering Wave Editor V1.3.3
+Resampling: 48.0 kHz > 44.1 kHz resampling using iZotope 64-bit SRC
 
-Length: 328:56
+Setlist:
+01 To Sheila
+02 Ava Adore
+03 Tonight, Tonight
+04 Set the Ray to Jerry
+05 1979
+06 Bullet with Butterfly Wings
+07 Eye *
+08 The Beautiful People [Marilyn Manson] *
+09 X.Y.U.
+10 Muzzle
 
-
-Neil Young
----
-01. Long May You Run (w/ Mickey Raphael)
-02. Four Strong Winds
-
-
-Kacy Crowley
----
-01. Rebellious
-02. Scars
-03. Vertigo
-
-
-Blues Traveler
-
-01. Carolina Blues
-02. The Mountains Win Again
-03. Canadian Rose
-04. 100 Years
-05. Run-Around
-06. Yours
-07. But Anyway
-
-
-Lou Reed
----
-01. I'll Be Your Mirror
-02. Perfect Day 
-03. The Kids 
-04. Vicious 
-05. Hang On to Your Emotions 
-06. Turning Time Around 
-07. Talking Book 
-08. New Sensations 
-09. Pale Blue Eyes 
-10. Dirty Blvd. 
-11. Sweet Jane
-	
-
-Metallica
----
-01. Low Man's Lyric
-02. Helpless (Diamond Head cover) 
-03. Tuesday's Gone (Lynyrd Skynyrd cover)
-04. Poor Twisted Me
-05. Fade to Black 
-06. The Four Horsemen 
-07. Nothing Else Matters 
-08. Last Caress (Misfits cover w/ John Popper)
-
-
-Neil Young
----
-01. Without Rings
-02. Slowpoke
-03. Buffalo Springfield Again
-04. Good To See You
-05. Silver And Gold
-06. Mother Earth
-07. After The Gold Rush
-08. This Note's For You (w/ Mickey Raphael & John Popper)
-
-
-Alanis Morrisette
----
-01. All I Really Want
-02. Gorgeous
-03. London
-04. Can't Not
-05. No Pressure Over Cappuccino
-06. Pray for Peace
-07. Norwegian Wood
-
-
-Dave Matthews Band
----
-01. Lie in Our Graves
-02. Two Step
-03. #41
-04. Too Much
-05. Crash Into Me
-06. Tripping Billies
-
-Smashing Pumpkins 
----
-01. To Sheila
-02. Ava Adore
-03. Tonight, Tonight
-04. Set the Ray to Jerry
-05. 1979
-06. Bullet With Butterfly Wings
-07. Eye (w/ Marilyn Manson & Twiggy Ramierez)
-08. The Beautiful People (w/ Marilyn Manson & Twiggy Ramierez)
-09. X.Y.U. 
-10. Muzzle 
+Notes:
+* with Marilyn Manson and Twiggy Ramirez
+First ever performances of "To Sheila" and "Ava Adore"; first ever full
+performance of "The Beautiful People".
+Low frequency hum throughout the recording.

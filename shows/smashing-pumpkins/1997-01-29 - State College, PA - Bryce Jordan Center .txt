@@ -1,38 +1,18 @@
-Smashing Pumpkins
-January 29th, 1997
-Bryce Jordan Center
-State College, PA, US
-
-Source: AUD>ANA
-Lineage: ANA>(??DAT??)>CDR-?>EAC>FLAC
-Editing: Audacity (re-joined, attempted to fix track transitions, speed corrected to 97% of original speed), CDWave (splits), TLH (flac level 8, align on sector boundaries)
-
-01. Mellon Collie and the Infinite Sadness (PA intro) - 2:52
-02. Tonight, Tonight - 4:25
-03. Cherub Rock - 3:56
-04. Where Boys Fear to Tread - 4:51
-05. banter - 1:08
-06. Rhinoceros - 5:46
-07. Rocket - 3:52
-08. Zero - 2:24
-09. Fuck You - 4:53
-10. Porcelina of the Vast Oceans - 11:32
-11. introducing The Frogs - 4:32
-12. 1979 - 4:28
-13. banter - 2:09
-14. Thirty-three - 4:12
-15. Bullet with Butterfly Wings - 5:45
-16. banter - 3:23
-17. Muzzle - 3:41
-18. Disarm - 3:16
-19. Thru the Eyes of Ruby - 10:08
-Encore One:
-20. Drown > Hummer (tease) - 6:36
-21. Siva > Spiders (tease) - 8:39
-Encore Two:
-22. Silverfuck > The Aeroplane Flies High (clips) > Space Jam - 25:52
-
-This originally popped up on Zomb in 2007 with no lineage (although it purported to be from DAT, there is obvious analog noise) and TAO gaps. While it's not as good as the SM57 recording, it does not contain the dropouts during Porcelina and Thru the Eyes of Ruby. Track splits are still not perfect, but much better than they used to be.
-
-Don't sell, etc
-Rhinowing
+tsp1997-01-29d1t01.flac:a9fc1e05c22ebd8973d0bc8ba9c6c953
+tsp1997-01-29d1t02.flac:470f97ba4dbe251101b4ebc9e387c4bd
+tsp1997-01-29d1t03.flac:2f4e8c3346ac1f2107309cefada09428
+tsp1997-01-29d1t04.flac:cb3585cbdb5a9886ba550f12bb2979e3
+tsp1997-01-29d1t05.flac:29fb6402b80e83f306235478bdc3434d
+tsp1997-01-29d1t06.flac:b5c17f197cb2eec1bee2d067279fc41c
+tsp1997-01-29d1t07.flac:f4b7f334b59043e29205fa613ec8d96e
+tsp1997-01-29d1t08.flac:f9b2f33f422f608f1a3394f1d6b63ec3
+tsp1997-01-29d1t09.flac:94fd17a8ec8d6cdbd6e5946bfb4e6191
+tsp1997-01-29d1t10.flac:adb2761b357f2f81e26c9246cb56210f
+tsp1997-01-29d1t11.flac:e6f5ef9ff1320724b33d5ae329303324
+tsp1997-01-29d1t12.flac:a67fdeb98b8896bcacf3b459e2e21060
+tsp1997-01-29d1t13.flac:fb94f59eafa9097db51e34d596d0d9f6
+tsp1997-01-29d2t01.flac:c539cfd1888855071068e396e3ad63b6
+tsp1997-01-29d2t02.flac:d25cfd7636114eead3ab8387a5233814
+tsp1997-01-29d2t03.flac:0568b2458c4da5515bd3458b0781deb6
+tsp1997-01-29d2t04.flac:e251ae23b31cfb603fd39add1e8b2db6
+tsp1997-01-29d2t05.flac:24f10e01239a1029b9690938503d8e7d

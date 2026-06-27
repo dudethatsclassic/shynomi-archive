@@ -1,28 +1,35 @@
-THE SMASHING PUMPKINS
-1993/06/29 - Studio 10S; Paris, FR
+SMASHING PUMPKINS
 
-Taper:    ?
-Source:   FM (ana)
-Flaws:    Minor static during some songs
-SHN:      CDR-? > EAC v0.9 beta 3 > MKW Audio Compression Tool
+"The Black Sessions"
 
-**********************************************************************
-                        SPREAD THIS BITCH
-**********************************************************************
+SILVER CD > EAC (v0.99 prebeta 4) - WAV > FLAC:
+Trader's Little Helper v2.2.2 Build 152 (Level 8) & via flac.exe v1.2.1 [Tested]
 
-NOTE: Acoustic; complete recording not sourced from the "Black Sessions" bootleg
 
-1. Rocket 
-2. Cherub Rock 
-3. Rhinoceros 
-4. Today 
-5. Spaceboy 
-6. Siva 
-7. Dancing in the Moonlight [Thin Lizzy] 
-8. Disarm 
-9. Suffer (cut due to DJ talking)
-10. Hummer 
-11. Drown 
-12. Kooks [Bowie] 
-13. Luna
+1  Rocket 
+2  Cherub Rock 
+3  Rhinoceros 
+4  Today 
+5  Spaceboy 
+6  Siva 
+7  Dancing In The Moonlight (Thin Lizzy) 
+8  Disarm 
+9  Suffer
+10 Hummer 
+11 Drown 
+12 Kooks (Bowie) 
+13 Luna 
+  
+Label: Sangatte Records 
+ID:    SANG 024 CD 
+Tracks 1-13: 1993/06/29 - Studio 105, Paris, FR - FM, Acoustic
 
+
+
+
+Notes: Ripped direct from the disc, with a logfile included.
+
+
+
+
+Seeded to Zomb Torrents 4/4/08 by daZeychain

@@ -1,44 +1,39 @@
-The Smashing Pumpkins
-Honda Center: Annaheim, CA
-November 16, 2022
+Smashing Pumpkins
+2022-11-16
+Honda Center
+Anaheim, CA, USA
 
-Source: Church Audio CA14 cardiods > Church Audio CA9100 Preamp > Roland R07 @ 24-bit / 96kHz
-Location: Center floor - Sec 105, row 3, seat 1
-Transfer: Audacity > FLAC
-Edits: track splits, fade-in/out
-Taper: SmokeMonster
+-- Source --
+DPA 4081 > MMA-A > 24bit/48kHz
 
-Tracklist:
+-- Processing --
+iZotope RX (editing/mastering) > CD Wave (tracking) > Trader's Little Helper (encoding)
 
-Intro
-Empires
-Bullet With Butterfly Wings
-Banter
-Today
-We Only Come Out at Night
-Cyr
-Once in a Lifetime [Talking Heads]
-Solara (Extended)
-Eye
-Ava Adore
-Banter
-Tonight, Tonight (Billy & James acoustic)
-Stand Inside Your Love
-I of the Mourning
-Banter (Band Introductions)
-Cherub Rock
-Zero
-1979
-Happy Birthday to Augustus Corgan
-Beguiled
-Silverfuck (Extended)
-Outro Recording: Do I Love You [The Ronettes]
+-- Setlist --
+01 - intro (Atum)
+02 - Empires
+03 - Bullet with Butterfly Wings
+04 - Today
+05 - We Only Come Out at Night
+06 - Cyr
+07 - Once in a Lifetime
+08 - Solara
+09 - Eye
+10 - Ava Adore
+11 - Tonight, Tonight
+12 - Stand Inside Your Love
+13 - I of the Mourning
+14 - Cherub Rock
+15 - guitar solo (w/ Ain't Talkin' 'Bout Love tease)
+16 - Zero
+17 - 1979
+18 - Happy Birthday to You
+19 - Beguiled
+20 - Silverfuck
 
+-- Notes --
+Poppy and Jane's Addiction opened. Happy Birthday to You performed for Billy's son Augustus.
 
-Notes: Spirits on Fire tour, supported by Poppy (not recorded) and Jane's Addiction (recorded). Corgan was recovering from laryngitis but performed an incredible show powered by a very enthusiastic crowd, the band was on fire and were very happy, which came through in their performance. Augustus Corgan's birthday was celebrated on stage when the kids came out and danced, and it was the Pumpkins' first show at the venue in 26 years, the last time being on the day his mother Martha passed away. Chips were eaten.
+Length: 1h48m30s
 
-Raw transfer with no EQ. 1 sec fade-in/outs are the only processing.
-
-Archive: Master WAV archived @ 24-bit/96kHz, and split for FLAC
-
-Taped and transferred by SmokeMonster
+-- faninor -- 2022-11-30 --

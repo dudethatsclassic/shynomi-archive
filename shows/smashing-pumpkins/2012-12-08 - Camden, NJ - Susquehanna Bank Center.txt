@@ -1,41 +1,41 @@
-Smashing Pumpkins
+The Smashing Pumpkins
 Susquehanna Bank Center
-Camden, New Jersey
-December 8th, 2012
+Camden,New Jersey
+December 8 2012
 
-Taper: Craig "Cabbage" Kabis <cabbage@jimmieschickenshack.net> <craigkabis@gmail.com>
-Location: Section 103, Row G, Seat 8.  Sitting down with mics on my shoulders.  In front of the left stack.
-Source: Church Audio 14’s > PA-6LC3B (roll off @ 65Khz) > Sony PCM-M10 > .wav @ 96 kHz / 24 bit
-Lineage: .wav > USB > Amadeus Pro 2.1 (1523) > FLAC 8
-Notes: Missing a little of the live intro to Quasar.  Mics graciously lent to me by @SPfreak77.  Thanks to @waxpancakes for the 7th row ticket.  Fuck Church Audio.
+Source:Tascam Dr-07-MkII's 
+Location:Right between Billy and Nicole In the front
+Transfer:>AudacityCDWave>Flac
+Taper:SPFreak77
 
-Setlist:
-01 - Quasar				[05:31]
-02 - Panopticon				[04:05]
-03 - The Celestials			[03:53]
-04 - Violet Rays			[04:18]
-05 - My Love Is Winter			[03:41]
-06 - One Diamond, One Heart		[03:55]
-07 - Pinwheels				[07:18]
-08 - Oceania				[09:49]
-09 - Pale Horse				[05:01]
-10 - The Chimera			[04:13]
-11 - Glissandra				[04:21]
-12 - Inkless				[03:35]
-13 - Wildflower				[05:07]
-14 - Space Oddity [David Bowie]		[07:03]
-15 - X.Y.U.				[10:48]
-16 - Disarm				[03:32]
-17 - Tonite Reprise			[01:26]
-18 > Tonight, Tonight			[04:20]
-19 - Bullet With Butterfly Wings	[04:27]
-20 - band introductions			[06:43]
-21 - The Dream Machine			[07:10]
-22 - Hummer				[07:12]
-23 - encore break			[02:58]
 
-Encore:
-24 - Ava Adore				[05:18]
-25 - Cherub Rock			[04:41]
-26 - Zero				[04:05]
-Total Running Time			[134:41]
+1. Intro
+2. Starla
+3. Plume
+4. Today
+5. Question 1
+6. Question 2
+7. Question 3
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

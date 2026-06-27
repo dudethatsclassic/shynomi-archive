@@ -1,58 +1,11 @@
-Smashing Pumpkins
-May 20th, 2000
-Open Air Theater
-San Diego, California, USA
-
-CSBMod>D7>DAT-1(32k)>Fostex D5 (Optical)>m-audio DiO 2496>dbpoweramp (upsample)>CDWave>FLAC
-
-Source: AUD #1 - only circulating source for this show, although four others are known to exist.
-
-Set:
-01. Crowd - 0:11
-02. Pale Scales - 2:02
-03. The Everlasting Gaze - 3:24
-04. Heavy Metal Machine - 6:05
-05. Pug - 4:39
-06. Blew Away - 2:49
-07. Stand Inside Your Love - 3:55
-08. Glass And The Ghost Children - 11:15
-09. Tonight, Tonight - 4:05
-10. I Of The Mourning - 5:34
-11. Le Deux Machina (Over PA) - 1:53
-12. To Sheila - 3:08
-13. Talk - 2:00
-14. Muzzle - 4:56
-15. Talk - 1:04
-16. 1979 - 5:05
-17. Ava Adore - 5:34
-18. Rock On [Essex] - 4:28
-19. Zero - 3:05
-20. Today - 3:10
-21. Snail - 3:02
-22. Blue Skies Bring Tears - 9:34
-23. Bullet With Butterfly Wings - 4:26
-24. -> Once In A Lifetime [Talking Heads] - 7:08
-Encore One:
-25. Mayonaise - 8:29
-Encore Two:
-26. With Every Light - 7:49
-27. Drown - 9:31
-
-Notes:
-There was a digital glitch at the beginning of this recording during the crowd noise. I opted to start the seed just after it, so 15 seconds of crowd noise are missing.
-
-Flaws:
-d1t04 - glitch/microdrop (1:20, 1:55)
-
----
-DO NOT SELL
-DO NOT CONVERT TO MP3 ASIDE FROM PERSONAL USE
-DO NOT REMIX, REMASTER, ETC WITHOUT PERMISSION
-ENJOY THE MUSIC!
----
-
-Ben Valocchi (rhinowing) and Matt Krueger (Punkishlyevil)
-
-VERY large thank yous go to Reece Donovan and Kevin Davis
-
-brought to you in association with the SPLRA (splra.org)
+tsp2000-05-20d0t11.flac:8288ad1b303c17346080b7fe8d564061
+tsp2000-05-20d0t01.flac:d61fa714bc41e30f9a55fcce1c1cf564
+tsp2000-05-20d0t02.flac:ed02d13c7ed9647fa884f338967135c9
+tsp2000-05-20d0t03.flac:ec8ae62627cea7dfe1b51a24509911e5
+tsp2000-05-20d0t04.flac:1a646d9c20329b3285b148723724137a
+tsp2000-05-20d0t05.flac:7da91028ff15a51ecd37cf33cdf7fa9c
+tsp2000-05-20d0t06.flac:224216f29d11d0e1327f7ec6eaeb1427
+tsp2000-05-20d0t07.flac:7ce75502ff0041f77a301b1fbefb5a53
+tsp2000-05-20d0t08.flac:a10715daac6be77c44565c07878d9001
+tsp2000-05-20d0t09.flac:7578e3f6100f9b3ae85d2c12705ec4f0
+tsp2000-05-20d0t10.flac:a85602170176b7f2bdbe5d698d365df7

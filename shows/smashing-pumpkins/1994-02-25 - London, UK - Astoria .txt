@@ -1,43 +1,30 @@
 Smashing Pumpkins
-February 25th, 1994
-Astoria Theatre
-London, UK
+1994-02-25
+Astoria Theatre, London, U.K. [AUD]
 
-source: AUD > ANA (unknown taper / equipment -- this is not a sbd or fm as this recording is often labeled)
+This is the "London 1994" bootleg.
+Ripped from silver cd w/ itunes to wav--> Flac by onerok
 
-main source: ANA (low) > "London 1994" silver CD > EAC > FLAC
-patch source: ANA-? > CDR-? > EAC > FLAC
+Wish the sound on this was a little better because this show has the best live version of Starla. The guitar solo is absolutely amazing!  
+Notes: The last part of Hummer is cut, and Silverfuck includes Jackboot at the end.
 
-patch source provides:
-t01 Rocket (0:00 - 0:33)
-t06 Hummer (4:01 - end)
-t07 Soma (6:30 - end)
-t14 instrumental (0:00 - 0:30)
+Running Time 1:17:00
 
-01. Rocket - 4:33
-02. Quiet - 3:17
-03. Today - 3:21
-04. Disarm - 3:16
-05. I Am One (with rant) - 7:17
-06. Hummer - 6:51
-07. Soma - 6:51
-08. Geek U.S.A. - 5:29
-09. Spaceboy - 3:45
-10. Siva - 4:57
-11. Cherub Rock - 5:08
+Setlist
 
-12. Luna - 3:18
-13. Starla - 8:00
+01. Rocket
+02. Quiet
+03. Today
+04. Disarm
+05. I am One
+06. Hummer (last part is cut)
+07. Geek U.S.A.
+08. Spaceboy
+09. Siva
+10. Cherub Rock
+11. Luna
+12. Starla
+13. Never Let Me Down Again (Depeche Mode)
+14. Silverfuck  (with jackboot ending)
 
-14. instrumental > Spaced (tease) > Never Let Me Down [Depeche Mode] (one verse) - 6:18
-15. Silverfuck > Over the Rainbow (tease) > Jackboot - 14:37
-
-TRT: 86:59
-
-* both sources derive from the same master, but the silver cd is of much better quality
-* there are cuts on the master during Hummer (at the point where the silver cd cuts off) and at the encore breaks
-* some portions of the tape source were missing the left channel, I made them dual-mono
-* first complete performance of Jackboot, this show also has a monster Starla
-
-don't sell, etc
--rhinowing
+Great show! Crank the f'n solo on Starla!!!!!!!!!!!!!

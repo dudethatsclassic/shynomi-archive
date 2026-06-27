@@ -3,6 +3,12 @@ May 19th, 2000
 Amphitheater
 Mesa, AZ, US
 
+source: SPHC > MZ-R90 > MD > CDR-? > EAC > FLAC
+originally seeded to the hub in July 2004 by dsheinem
+
+disc swap in Blue Skies Bring Tears (from 7:39 - 8:57) is patched with
+unknown gen VHS > JVC S-VHS HR-S8007UM > Canopus ADVC-110 (via s-video) > Vegas Pro 13 (eq/tweaking) > WAV (LPCM DVD audio) > patched via Audacity > FLAC encode and SBE align in TLH
+
 01. Age of Innocence 
 02. Glass and the Ghost Children 
 03. The Everlasting Gaze 
@@ -25,12 +31,7 @@ Mesa, AZ, US
 Encore: 
 20. Cherub Rock
 
-video: original source unknown; VHS tape recorded in SP mode (unknown generation) > captured using a JVC S-VHS HR-S8007UM VCR connected to a Canopus ADVC-110 via an S-Video cable; connected to the computer via firewire; video capture done with Sony Vegas Pro 13; NTSC, 4:3 PAR, 29.97 fps
+trt 103:04
 
-audio: captured with the video from the VHS tape; tweaked using Sony Vegas Pro 13's 10-band EQ plug-in and encoded as 16 bit, 48.0 kHz, 1,536 kbps LPCM
-
-MPEG 2 video file used in DVD9 encoded with Sony Vegas Pro 13 at 8.2K max, 8.0K avg, 1K min; NTSC, 4:3 PAR, 29.97 fps
-
-Authored to DVD in Sony DVD Architect Pro 6; NTSC, 4:3 PAR, 29.97 fps; by Silver Stallion (AKA guitard on Dime).
-
-Tape liberated from Ebay in December 2019. Master is thought to be on Hi8. Shot from elevated position behind the pit
+* thanks to SilverStallion for transferring the VHS source
+* when this was originally seeded there was some question as to the mic / deck used; shortly after the initial share the source was verified to be SPHC > MZ-R90

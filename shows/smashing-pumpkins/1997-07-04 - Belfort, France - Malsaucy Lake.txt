@@ -1,15 +1,14 @@
-tsp1997-07-04d1t01.flac:776f1f4fb3b60ee7b93dd2dd5e8d4da4
-tsp1997-07-04d1t02.flac:1bb8870cf683aa26df63527d281f4545
-tsp1997-07-04d1t03.flac:0e4fc6777d94555beff6070abfff52e7
-tsp1997-07-04d1t04.flac:f6b93741bcac1ec1057c88db57a763ed
-tsp1997-07-04d1t05.flac:4944fe3d0be8e96cc7199b6f56350907
-tsp1997-07-04d1t06.flac:835a108d99ff3abd9935297d0f593bce
-tsp1997-07-04d1t07.flac:d1a1f1aba2227233e26376b31fbc9ce6
-tsp1997-07-04d1t08.flac:46bd1ad56220a4210a96217a337e3460
-tsp1997-07-04d1t09.flac:d492a1db3cfb9541d3c6c5cf737777fe
-tsp1997-07-04d1t10.flac:c38d2bd765a41ee10b3b4d021b28eb1f
-tsp1997-07-04d2t01.flac:c09d760836c4d6c79a138e16bf3b2d20
-tsp1997-07-04d2t02.flac:1d9d37e80e6f1eda147d4c0dc6031352
-tsp1997-07-04d2t03.flac:694111d5f83bc31507823654a8bb9556
-tsp1997-07-04d2t04.flac:41b8d39bd9ef0a53f2fb5bab180e5dfc
-tsp1997-07-04d2t05.flac:55a9183c1599da1389538b194882a634
+Smashing Pumpkins
+July 4th, 1997
+Malsaucy Lake (Belfort Festival)
+Belfort, FR
+
+Source: TV Broadcast > ?? > "Festive" silver CD > EAC > FLAC
+
+01. Bullet with Butterfly Wings - 5:20
+02. 1979 - 4:19
+03. X.Y.U. (partial) - 4:19
+
+-sounds like this has VHS lineage...probably TV > VHS > CD
+-originally ripped by FearToTread on 2005/04/24
+-split from original fileset for LMA upload

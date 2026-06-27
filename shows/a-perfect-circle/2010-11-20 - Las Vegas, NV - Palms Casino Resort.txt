@@ -1,40 +1,52 @@
+﻿A Perfect Circle
 
-A Perfect Circle
-The Pearl Theater @ Palms Casino: Las Vegas, NV
-November 20, 2010
+Pearl Concert Theater @ Palms Casino Resort
 
-Source: AT831s > SP-SPSB-11 (rolloff @ 107 Hz) > Edirol R-09 @ 24-bit / 44.1kHz
-Location: FOB ROC
-Transfer: SD Card > USB > Audacity (amplify/dither) > CDWave > TLH
-Taper: tapeworm(48) 
+Las Vegas, Nevada
+
+November 20th, 2010
+
+
+
+Taper: Craig "Cabbage" Kabis <cabbage@jimmieschickenshack.net> <craigkabis@gmail.com>
+
+Location: Section 303 Row L Seat 34 - Sony PCM-M10 sitting on my knee pointed at the stacks
+
+Source: Internal mics on Sony PCM-M10 > .wav @ 96 kHz / 24 bit
+
+Lineage: .wav > Amadeus Pro 1.5.2 > FLAC 8
+
+
 
 Setlist:
 
-01 -crowd-
-02 Intro
-03 The Hollow
-04 Magdalena
-05 Rose
-06 Judith
-07 Orestes 
-08 3 Libras (Remix)
-09 Sleeping Beauty
-10 Thomas
-11 Renholder
-12 Thinking of You
-13 Brena
-14 Over
-15 -band introductions-
-16 -James Iha-
-17 Ashes to Ashes [David Bowie]
-18 Imagine [John Lennon]
-19 -outro-
+01 - The Hollow				[03:01]
 
-Notes: 'Mer de Noms' performed in its entirety in order.  0.8dB amplification applied in Audacity prior to dithering to 16-bit. Otherwise, this is a raw transfer with no fades or EQ.
+02 > Magdalena				[04:07]
 
-Archive: Master WAV was archived @ 24-bit/44.1kHz and FLAC'd with cue sheet. 
+03 - Rose				[03:33]
 
-Taped and transferred by tapeworm(48) 
-Txt file compiled on 11/24/2010
+04 - Judith				[05:30]
 
-*** DO NOT DISTRIBUTE IN LOSSY FORMATS. DO NOT SELL THIS RECORDING, TRADE IT FREELY *** 
+05 - Orestes				[05:42]
+
+06 - 3 Libras				[06:15]
+
+07 - Sleeping Beauty			[05:35]
+
+08 - Thomas				[03:53]
+
+09 - Renholdër				[03:18]
+
+10 - Thinking Of You			[04:37]
+11 - Breña				[04:02]
+
+12 - Over				[03:42]
+
+13 - The New Mr. Vegas - James Iha	[03:06]
+
+14 - Ashes To Ashes [David Bowie]	[04:03]
+
+15 - Imagine [John Lennon]		[05:48]
+
+Total Running Time			[66:17]

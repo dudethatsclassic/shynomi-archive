@@ -1,56 +1,37 @@
-Smashing Pumpkins - Rotterdam - Ahoy 2000-09-20 (audience, master)
-Running time ~130 minutes.
+The Smashing Pumpkins
+2000/09/20
+Ahoy; Rotterdam, NL
 
-01. Glass and the ghost children
-02. Today
-03. Stand inside your love
+Took this from the Zomb sometime summer 2K4, did this to it. It sounds pretty nice, much more listenable than before. Not quite as nice as the Cirkus show (most of the Machina shows are thin, canny) but stll quite revivable. CPR performed by thir13en. No editing took place.
+
+Enjoy!
+
+
+01. Glass and the Ghost Children 
+02. Today 
+03. Stand Inside Your Love 
 04. Thirty-three
-05. To Sheila
-06. Blue skies bring tears
-07. Glass' theme
-08. The everlasting glaze
-09. Bullet with butterfly wings
-10. Dross
-11. Speed kills
-12. If there is a God
-13. Cash car star
-14. Rock on
-15. Heavy metal machine
-16. Disarm
-17. Tonight, tonight
-18. Try, try, try
-19. Porcelina of the vast oceans
-20. I of the mourning
-21. This time
-22. Blank page
-23. Cherub rock
-24. 1979
+05. To Sheila (abandoned)
+06. To Sheila
+07. Blue Skies Bring Tears 
+08. Glass' Theme 
+09. The Everlasting Gaze 
+10. Bullet with Butterfly Wings 
+11. Dross 
+12. Speed Kills 
+13. If There Is a God 
+14. Cash Car Star 
+15. Rock On
+16. Heavy Metal Machine 
+17. Disarm
+18. Tonight, Tonight 
+19. Try, Try, Try 
+20. Porcelina of the Vast Oceans 
+21. I of the Mourning 
+22. This Time 
+23. Blank Page 
+24. Cherub Rock 
+25. banter
+26. 1979 
 
-Lineage: 
-Coresound Stealth -> Sony TCD-D7 -> DAT tape (48kHz) -> JVC DAT deck -> Edirol UA-1EX USB digital input -> WAV -> Adobe Audition -> FLAC (44.1kHz)
 
-FFP-checksums:
-01. Glass and the ghost children.flac:d347b2ac0556f20df686ee4b43a73eb1
-02. Today.flac:12f24d7f894076f79bd3be8bf7f885ca
-03. Stand inside your love.flac:0bb78ac6b264cdb14e9b0a987334f26f
-04. Thirty-three.flac:d76ebb6035551470ba51cae2bfda4b42
-05. To Sheila.flac:50e19c8462d62ab9b03b569362f4ab2b
-06. Blue skies bring tears.flac:b7a49940a6d6df668d231d0cf121e723
-07. Glass' theme.flac:cf6891f29b2ca39337fdf78c0b60dc52
-08. The everlasting glaze.flac:d616f675a39c0da7cffba3386adbb1cf
-09. Bullet with butterfly wings.flac:f5377ca8cbce663f60f7550ae66c3801
-10. Dross.flac:a36fc883fa88e8099b0c14baa56445f5
-11. Speed kills.flac:2440e23d3d8779ee6f85808240c80ba3
-12. If there is a God.flac:c11287110072177579d16e117892df83
-13. Cash car star.flac:b29dbbed27a2adac2407c7b5abca7f72
-14. Rock on.flac:c8244489eefed4331b8f57b92af2c708
-15. Heavy metal machine.flac:da6e042c64e0d4bbe75ec6673e9e588f
-16. Disarm.flac:46a323448a3ffdf765b43861888e92d5
-17. Tonight, tonight.flac:3b97d988b0b2d49d20910f6ad0c2db91
-18. Try, try, try.flac:711c2f3e93920d4f9242500b8b0dde1d
-19. Porcelina of the vast oceans.flac:62e5282f652c54626d32bbb1b86534e3
-20. I of the mourning.flac:1b83b3a7c461eb4381d5d3b1ea19c81d
-21. This time.flac:4ab16937e1d3da946e7e555a2a6501da
-22. Blank page.flac:eea56bc7782774c70ea3ce7df576fbb1
-23. Cherub rock.flac:89516e15926fc52a82ae82ef25a52887
-24. 1979.flac:a8d2972534665e42c5ec809f46bf00ed

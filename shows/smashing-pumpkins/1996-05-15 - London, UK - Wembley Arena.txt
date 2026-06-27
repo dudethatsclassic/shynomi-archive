@@ -1,61 +1,55 @@
 Smashing Pumpkins
-
-
+May 15th, 1996
 Brixton Academy
-London, The United Kingdom
-May 15, 1996
+London, UK
 
+Source: Audience Hi8 recording
+Transfer: Hi8-?>(possible VHS lineage)>ANA-1>Sony TC-WE825S>Tascam DA-20MKii(A>D @ 44.1kHz)>Monster coax>Delta Dio 2496
+Editing: Cool Edit Pro 2.1 (recording), Audacity (trimming), CDWave (splits), TLH (FLAC level 8)
 
-Source:  FM > ??? > DAT(c)
-Transfer 1:  DAT(c) > IBM CTD-8000 > DAT2WAV > WAV (16/32)
-Transfer 2:  WAV > r8brain (16/32 > 16/44) > CDWave > FLAC
-DAT(c) provided by Ben Valocchi
-Transfer 1 by Richard Campbell
-Transfer 2 by Terry Watts
+Set One:
+01. Tonight, Tonight - 5:35
+02. In the Arms of Sleep - 4:05
+03. Cupid de Locke - 3:09
+04. Thirty-three - 3:59
+05. Rocket - 4:19
+06. Soma - 6:00
+07. Take Me Down - 3:28
+08. 1979 - 4:51
+09. Beautiful - 5:42
+10. Muzzle - 5:20
+Set Two:
+11. Mellon Collie and the Infinite Sadness (PA intro) - 2:21
+12. Where Boys Fear to Tread - 4:14
+13. Zero - 2:21
+14. Fuck You - 5:03
+15. Here is No Why - 5:15
+16. To Forgive - 3:37
+17. Today - 3:23
+18. Thru the Eyes of Ruby - 8:46
+19. Porcelina of the Vast Oceans - 9:48
+20. Bodies - 3:58
+21. Boys Don't Cry [The Cure] (tease) - 0:45
+22. Disarm - 3:00
+23. Bullet with Butterfly Wings - 4:11
+24. Cherub Rock - 4:19
+Encore One:
+25. Firestarter [The Prodigy] (tease) - 2:50
+26. X.Y.U. - 13:51
+Encore Two:
+27. banter - 2:15
+28. Mayonaise - 6:59
+Encore Three:
+29. Jellybelly - 3:34
+30. Silverfuck -> Space Jam (tease) - 24:11
+31. Farewell and Goodnight - 5:46
 
+-sincere thank you to whoever had the idea to videotape this, this giving us only full recording of the show despite the numerous FM/TV broadcasts
+-set one acoustic, set two electric
+-final acoustic/electric show
+-final pre-hiatus Cupid de Locke (next performance: 2008/11/04)
+-final acoustic Soma (next performance: 1999/04/10)
+-final Take Me Down
 
-Disc 1
-Set I:
-1. intro > interview
-2. Tonight, Tonight
-3. Cupid de Locke
-4. outro
-5. intro > interview
-6. Thirty-Three
-7. 1979
-
-
-Notes:
-
-Interviews with Billy Corgan and Jimmy Chamberlin conducted by BBC Radio One.
-
-This DAT(c) was recorded in LP Mode (12/32).  It was transferred digitally to 16/32.
-There is no loss of fidelity. 
-
-Terry Watts
-
-
-FLAC FFP:
-jmp2002-07-27d1t01.flac:665c3544dba6388e8ca6632d2cf3406f
-jmp2002-07-27d1t02.flac:9d842c181933b4286915a61db6e8e768
-jmp2002-07-27d1t03.flac:514a773d9ff9da01c21a7a970714d0ec
-jmp2002-07-27d1t04.flac:506a02718f28a19a976b28f5eb9c3312
-jmp2002-07-27d1t05.flac:2ce9c4db4fd2174a118a5cf5046611d5
-jmp2002-07-27d1t06.flac:09a22f3c88deb7f72f4f0855a065fa8b
-jmp2002-07-27d1t07.flac:33f2ad2523f055fd1d4a0bacb4c25c8f
-jmp2002-07-27d1t08.flac:b7b7ca5ac2ecae1245fe2ea2c14456eb
-jmp2002-07-27d1t09.flac:174596801aaef8dee791e87a52962371
-jmp2002-07-27d1t10.flac:bf34e18a0bc269a9d9d4c9f373226883
-
-
-WAV MD5:
-a28e833c58f76d4e2fdf2d584f56488c *jmp2002-07-27d1t01.wav
-ae8808f2ccd51940385eef2f462aa2a0 *jmp2002-07-27d1t02.wav
-c30907af54e3a4df9846c0fa0cd64070 *jmp2002-07-27d1t03.wav
-2bf35f98cd678360b427f5c94163c38d *jmp2002-07-27d1t04.wav
-a3e31dda93ef11f2c471aa9298a4be12 *jmp2002-07-27d1t05.wav
-3aa5060eb318731b621c1ddf143d83f8 *jmp2002-07-27d1t06.wav
-04b3317b5257166f6dd333b13c2e7ac3 *jmp2002-07-27d1t07.wav
-675d7619ac9e324dd76247055cb345b5 *jmp2002-07-27d1t08.wav
-652bba78e6eb91f7a14a8cacaa32fad0 *jmp2002-07-27d1t09.wav
-83f838f80f5fed7f4a64e9df51bc4eec *jmp2002-07-27d1t10.wav
+Tapes from D4 via Thom, transfer by Andrew, tracking/upload by rhinowing
+Don't sell, etc

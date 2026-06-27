@@ -1,10 +1,17 @@
-Smashing Pumpkins
-May 13th, 2000
-Aerial Theater
-Houston, TX, US
+**Remastered** by thir13en
 
-source: AUD > DAT > CDR > EAC (secure) > Audacity > FLAC
-(probably SS-DSM-6S > PA-6LC3B > M1 from front/center balcony)
+
+Smashing Pumpkins
+2000-05-13
+Aerial Theater
+Houston, TX, US 
+
+
+Redone for the reseed. I was never too happy about the splice of "Today-BWBW" on my first go round with this, and there was still transfer clips from the original mastering which was done a bit hot for digital. I did some tasteful de-crackle on those break-up spots, really toned down the excessive mid-to-high range and gave the bottom some definition. Much warmer and fuller than the original, and now just a bit cleaner and bigger than my first RM of it. 
+
+*I did a fast fade-out on "Today" and a fast fade-in on "BWBW". 
+*The two overly extended crowd passages for the encores were shortened a bit but all show material and banter remains.
+
 
 01. I of the Mourning
 02. This Time
@@ -14,32 +21,26 @@ source: AUD > DAT > CDR > EAC (secure) > Audacity > FLAC
 06. Blew Away
 07. Stand Inside Your Love
 08. Glass and the Ghost Children
-09. To Sheila
-10. If There is a God
-11. Disarm
-12. Ava Adore
-13. Rock On [David Essex]
-14. Zero
-15. Today
-16. Snail
-17. Bullet with Butterfly Wings > Once in a Lifetime [Talking Heads]
+09. -break-
+10. To Sheila
+11. If There is a God
+12. Disarm
+13. Ava Adore
+14. Rock On
+15. Zero
+16. Today (cut)
+17. Bullet with Butterfly Wings (beginning cut)
+18. Once in a Lifetime
+19. Raindrops + Sunshowers
+20. "Shoe in the Face" story
+21. Mayonaise
+22. I Am One
 
-18. Raindrops + Sunshowers
-19. -shoe thrower story-
-20. Mayonaise
 
-21. I Am One (with rant)
+======================
+ =PRE-13 SOURCE INFO=
+======================
 
-trt 112:40
 
-* from the collection of Jayson K
-* I'm pretty sure this is the front / center balcony tape aka AUD #1 but can't confirm 100%; it is definitely futher back in the room than Fogelsong's FOB tape and features a constant soundstage that doesn't shift around in headphones
-* fades at encore breaks
-* I removed a digizap between Zero and Today in Audacity
-* one of the more interesting setlists of the tour with I of the Mourning in the opening slot and two Gish songs
 
-"It was probably during Mayonaise that I got hit with the shoe. So, we were almost done anyway so we stopped and I was very upset and I decided, “Fuck it, let’s not play anymore.” The audience, to their credit who was there, cheered for about 20 minutes straight. Which was very - which was very impressive, so we decided to go back on and we were gonna go ahead and play for another hour if that’s what it took and um, and all we said was, um, “Okay, we’ll play more, just don’t throw anything,” and then the first guitar chord, here comes a beer can over my head, so I said “Fuck you” and that was the end of the show" - BC
-
-don't sell this recording
-https://www.splra.org/wiki/index.php?title=Tsp2000-05-13
--rhinowing
+Original Source: SBD>DAT>CD-R>FLAC

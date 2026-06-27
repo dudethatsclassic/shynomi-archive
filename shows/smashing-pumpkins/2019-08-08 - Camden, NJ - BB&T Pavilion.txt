@@ -1,13 +1,10 @@
 Smashing Pumpkins
-BB&T Pavilion, Camden, NJ
-August 8, 2019
+08/08/19
+BB&T Pavilion - Camden, NJ, US
 
-Source: Schoeps MK41v > actives > baby n box > Edirol r07 > WAV (24/48) 
-Conv: Adobe Audition 12 (Minor Edits/EQ/Levels/16bit-44.1khz) > CDWave > TLH > FLAC16
-Location: 13th row, dead center 
-
-Audience Recording by Joe "Full Send" Burns aka 'markit aneight' 
-Edited & Mastered by CC5
+source: Nokia Lumia (built in HAAC mics) > Audio Recorder Pro > Audacity > Trader's Little Helper (FLAC 8) > you
+taper/transfer: xdarcyx {xdx} - (meladoridarcy@gmail.com)
+location: 5th row, center stage
 
 01. Intro
 02. Today
@@ -27,31 +24,11 @@ Edited & Mastered by CC5
 16. Blue Skies Bring Tears
 17. Cherub Rock
 18. The Aeroplane Flies High
+19. Outro
 
-Notes:
--
-Very minor editing (removed a couple pops due to jack getting bumped).  Fades
-EQ/Levels
+Included: photos from the show.
 
--Compiled 8/9/19
+Notes: 1st show of the US tour. Excellent setlist. Notable moment of the night was when Jimmy launched into "Cherub Rock" at the end of 1979, when he should have played "Tonight, Tonight". Billy laughed. When it was time to play "Cherub Rock", Billy noted that he thought Jimmy would know that song now! Also, James had some good banter, though he never told his joke, as promised. The band also seemed to be running over time, at the end Billy motioned to James to speed it up, when he was going to say farewell to the audience. The huge digital clock onstage off to the side read 11:02pm when they finished. The outro music also abruptly came on as the band was saying farewell.
 
-=
-sp2019-08-08-Camden01.flac:eba91119cdf1ec7c2b1cbed31378e69d
-sp2019-08-08-Camden02.flac:4da6350563c65e8ce5d88255fe6f00a5
-sp2019-08-08-Camden03.flac:2b5e57aaf45e37a8c38c3e984229856d
-sp2019-08-08-Camden04.flac:874b4a1a121f0d5d7b5b1e6960adf213
-sp2019-08-08-Camden05.flac:8ebab36ef6392e83cdb270cbd8350fe7
-sp2019-08-08-Camden06.flac:dcb75f843907af82c5915a28657e43dc
-sp2019-08-08-Camden07.flac:d60230b0413143f3225e0bd947da3120
-sp2019-08-08-Camden08.flac:1f94a74526c3e697418287278deaf0eb
-sp2019-08-08-Camden09.flac:ea49e65ef2e0b957355fc3327a043c74
-sp2019-08-08-Camden10.flac:b27ccd0a7c602c1725af326d8b3f4288
-sp2019-08-08-Camden11.flac:94705992f41e614ba131c4591ac5b821
-sp2019-08-08-Camden12.flac:0bb493febaf34376deb76f243038851b
-sp2019-08-08-Camden13.flac:6c80d09fa128be0417f15d868e718ef6
-sp2019-08-08-Camden14.flac:0882173793ecbfa212d317312208178a
-sp2019-08-08-Camden15.flac:84336a230fa5b7e53930de24a1cee2e1
-sp2019-08-08-Camden16.flac:287a468f9771579a13bb751041a289f8
-sp2019-08-08-Camden17.flac:dba1991f19c26f4b74b34c6b29a96b53
-sp2019-08-08-Camden18.flac:015e43f222b4f208c5a5e742433bde52
-
+DO NOT SELL!!!!!!!!
+seeded to ZOMB - 8-9-19

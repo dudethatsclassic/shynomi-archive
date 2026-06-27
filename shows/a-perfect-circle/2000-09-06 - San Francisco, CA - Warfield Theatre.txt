@@ -3,9 +3,9 @@ A Perfect Circle
 San Francisco, CA
 Warfield Theater
 
-Source: Core Sound Binaurals/120 > Sony PCM-M1 @ 16/48
-Transfer: 1G DAT > Tascam DA-30 (SPDIF Out) > Audiophile 24/96 (SPDIF In) > Sound Forge 8 > WAV > FLAC
-Notes: Digitally transferred by Distortion 3-9-2009.  This is the raw transfer, untracked.
+Source: Unk Mics > Unk MD
+Transfer: MD-M > Analog Transfer > 1G CD > EAC (Secure Mode) > WAV > FLAC
+Notes: Verified lossless.
 
 Setlist:
 Magdalena

@@ -1,32 +1,28 @@
-1997.10.19 - Shoreline Amphiteater, Mountain View, CA
+THE SMASHING PUMPKINS
+1997-10-19
+Bridge School Benefit
+Shoreline Amphitheatre
+Mountain View, CA, USA
 
-Taper:            Josh Provost
-Generation:       ANA-1
-Source:           Radio Shack SCR-59 Walkman (AUD #3)
-Location:         ?
-flaws:            very beginning of Night Mare cut
-Conversion:       Sony TC-WE625S > SGI Octane2 > Cool Edit Pro 2.1 > CDWave > flac
-Resampling:       none; show A/D converted at 44.1k
-Editor:           Henry Bent
-Editing:          none
-SHN:              Master WAV > flac 1.1.4 (level 8)
+Source:     Shure SM57 > Sony TCD-D8
+Transfer:   DAT-3 > Tascam DA-20 MK II > Terratec EWX 24/96 > FLAC V1.2.1
+Editing:    Fades in Audiofile Engineering Wave Editor V1.3.3
+Resampling: 48.0 kHz > 44.1 kHz resampling using iZotope 64-bit SRC
 
-Tracklist:
+Setlist:
+01 (Intro)
+02 Behold! The Night Mare
+03 Eye
+04 Set the Ray to Jerry
+05 Ava Adore
+06 To Sheila
+07 1979
+08 X.Y.U.
+09 Heart of Gold [Neil Young] (tease)
+10 Cinnamon Girl [Neil Young] (tease)
+11 Bullet with Butterfly Wings
+12 Porcelina of the Vast Oceans *
 
-01 - Behold! The Night Mare (cut)                            6:52
-02 - Eye                                                     4:35
-03 - Set the Ray to Jerry                                    3:35
-04 - Ava Adore                                               4:15
-05 - To Sheila                                               5:41
-06 - 1979                                                    4:19
-07 - X.Y.U.                                                  6:26
-08 - Heart of Gold [Young] + Cinnamon Girl [Young] (teases)  0:37
-09 - Bullet with Butterfly Wings                             5:13
-10 - Porcelina of the Vast Oceans (with John Popper)         9:27
-
-This is what SPLRA has listed as AUD #3, a previously
-uncirculating recording of this show.  It has nothing to offer
-to make it better than any other source, so this is for crazy
-completists only.
-
-Any questions, comments - hbent@cs.oberlin.edu
+Notes:
+* with John Popper
+First ever performance of "Behold! The Night Mare".

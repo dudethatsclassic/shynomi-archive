@@ -3,11 +3,10 @@ Miles Davis Quintet
 Jazz Villa
 St. Louis, Missouri
 
-Project ID - LL111
+Project ID - LL112
 
 Source: Audience Recording
-Lineage: Audience Recording > Jazzview CD > EAC(secure) > wav > shn
-
+Lineage: Audience Recording > ?? > wave > ?? > flac
 
 Miles Davis (tpt); George Coleman (ts); Herbie Hancock (p); Ron Carter (b); 
 Tony Williams (d)
@@ -16,28 +15,23 @@ disc 1
 d1t01. /Seven Steps to Heaven
 d1t02. I Thought About You
 d1t03. All Blues > The Theme
-d1t04. Like Someone In Love
  
 -------------------------------------------------------
 
 Notes:
 
 - d1t01: This track starts with crowd appluase, then jumps right into "seven steps of heaven" 
-mid song. Slight drop out at 1:08. There are multiple occurances of slight static throughout 
-this track.
+mid song. Some slight distortion throughout. 
 
-- d1t02: This track also has multiple occurances of static throughout the track. Slight drop out 
-at :24.
+- d1t02: The static and hiss seems a bit more prevalant in this track.  
 
-- d1t03: There is a level change at 3:13. There is another major level change preceeded by a 
-slight drop out at 7:36. 
+- d1t03: Static and hiss present throughout this track. Level change at 7:32 and 11:05.
 
-- d1t04: this track is not listed on Peter Losins site, possibly because Miles didn't play on it.
-It sounds to me as though this was certainly part of the performance that night so I opted to leave it.
-
-- A decent sounding recording. Some very slight distortion and static, with a few level changes, but 
-overall, a very pleasant listen.  This version is a little more distant than LL112, but overall a better 
-quality recording. I would choose to archive this version over LL112.
+- A decent sounding recording. Some light static that seems to get increasingly worse as the show goes on. 
+The levels seem to be a litte hotter in this version causing distortion and oversaturation audible especially
+when the cymbals are up front in the mix. This source doesn't contain "Like Someone In Love" that is included
+on LL111. This version is flac and is seekable, unlike LL111. As for naming the superior source, I would list 
+LL111 as the source to have butr both have different benifits. 
 
 - "The Davis Quintet was booked for nine days at the Jazz Villa, May 27-June 4 (Monday-Tuesday). 
 The contract called for three sets per night, plus weekend matinees. Beyond that, I don't know 
@@ -65,33 +59,29 @@ period."- Credit to Peter Losin, http://www.plosin.com/
 - QC done by Bgreen
 
 md5
-9c6a97d9fb6db816e04a69978970d787 *md1963-(05-06)-XX.LL111.d1t01.shn
-d5a12a386e04da59e5cd7c0dc399fe53 *md1963-(05-06)-XX.LL111.d1t02.shn
-2ed929feeb733f8fadd2d1343e54d1f6 *md1963-(05-06)-XX.LL111.d1t03.shn
-334a43120be5d9c89e2cf17d20c70162 *md1963-(05-06)-XX.LL111.d1t04.shn
+ec69db3d7e138f76e908aeb422569073 *md1963-(05-06)-XX.LL112.d1t01.flac
+c00950946f36a9e10d04c8b0d615ef5b *md1963-(05-06)-XX.LL112.d1t02.flac
+8fa2ca87293495c3738abb15b549bf11 *md1963-(05-06)-XX.LL112.d1t03.flac
 
-st5 
-8f21f7f206f70d63cd3e98572beb7605  [shntool]  md1963-(05-06)-XX.LL111.d1t01.shn
-2d6cf3e60cb89057e71e0b2d4a36277f  [shntool]  md1963-(05-06)-XX.LL111.d1t02.shn
-ef1ef8cd77a5b955d65c722b9760cb08  [shntool]  md1963-(05-06)-XX.LL111.d1t03.shn
-3f6e00f917e72d345a13b546c2bed9c7  [shntool]  md1963-(05-06)-XX.LL111.d1t04.shn
+ffp
+md1963-(05-06)-XX.LL112.d1t01.flac:81b82180ab9bcb6064abd1af5c6ff45b
+md1963-(05-06)-XX.LL112.d1t02.flac:2f213cce2b04343a21b8fc82de872c8b
+md1963-(05-06)-XX.LL112.d1t03.flac:e4f5577acbf4fc55b2518ad46e543f0c
 
 shntool
     length     expanded size   cdr  WAVE problems filename
-    10:42.70      113413484    ---   --   ---xx   md1963-(05-06)-XX.LL111.d1t01.shn
-     8:05.63       85702220    ---   --   ---xx   md1963-(05-06)-XX.LL111.d1t02.shn
-    12:49.67      135809228    ---   --   ---xx   md1963-(05-06)-XX.LL111.d1t03.shn
-    11:03.63      117101420    ---   --   ---xx   md1963-(05-06)-XX.LL111.d1t04.shn
-    42:42.38      452026352 B                     (totals for 4 files, 0.4370 overall compression ratio)
+    10:40.13      112926620    ---   --   ---xx   md1963-(05-06)-XX.LL112.d1t01.flac
+     8:05.45       85659884    ---   --   ---xx   md1963-(05-06)-XX.LL112.d1t02.flac
+    12:42.40      134510924    ---   --   ---xx   md1963-(05-06)-XX.LL112.d1t03.flac
+    31:28.23      333097428 B                     (totals for 3 files, 0.5054 overall compression ratio)
 
 spectral analysis from TLH
-md1963-(05-06)-XX.LL111.d1t01.wav:  track looks like CDDA with probability 99%
-md1963-(05-06)-XX.LL111.d1t02.wav:  track looks like CDDA with probability 100%
-md1963-(05-06)-XX.LL111.d1t03.wav:  track looks like CDDA with probability 100%
-md1963-(05-06)-XX.LL111.d1t04.wav:  track looks like CDDA with probability 100%
+md1963-(05-06)-XX.LL112.d1t01.wav:  track looks like CDDA with probability 100%
+md1963-(05-06)-XX.LL112.d1t02.wav:  track looks like CDDA with probability 100%
+md1963-(05-06)-XX.LL112.d1t03.wav:  track looks like CDDA with probability 100%
+
 
 old md5 
-2ed929feeb733f8fadd2d1343e54d1f6 *md63-06-01t03.shn
-9c6a97d9fb6db816e04a69978970d787 *md63-06-01t01.shn
-334a43120be5d9c89e2cf17d20c70162 *md63-06-01t04.shn
-d5a12a386e04da59e5cd7c0dc399fe53 *md63-06-01t02.shn
+ec69db3d7e138f76e908aeb422569073 *Track01.flac
+c00950946f36a9e10d04c8b0d615ef5b *Track02.flac
+8fa2ca87293495c3738abb15b549bf11 *Track03.flac

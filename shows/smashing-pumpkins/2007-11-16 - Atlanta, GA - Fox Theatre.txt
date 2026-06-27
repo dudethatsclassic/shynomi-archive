@@ -1,84 +1,58 @@
-The Smashing Pumpkins
-Fox Theatre
-Atlanta, GA, US
-2007-11-16
+Smashing Pumpkins
+11-16-2007
+Fabulous Fox Theater
+Atlanta, GA
 
-Recordist    : Jill Harrison <jillysp@hipstersunited.com>
-Location     : Pit Row DDD, in front of Ginger
-Mic Config   : Binaural
-Source       : Dynamic Audio Binaurals > DA-120F > TCD-D100 @ 48kHz (line in)
-Conversion   : DDC-M > TCD-D100 > 7-pin to coax > Waveterminal 2496 > WaveLab V5.01b
-Edit         : WaveLab V5.01b (fades)
-Resampling   : r8brain v1.9 (r8: 44.1 kHz, Output bit depth: 16 bit, Quality: Very High)
-Final Format : 16-bit, 44.1 kHz
-Tracking     : CD-Wave v1.96.1
-Encoding     : FLAC v1.2.1 (Level 8) with TLH v2.2.2 (Build 152)
 
-Tracklist:
+Lineage: Panasonic pv-gs29 > 3x Sony 60m DVC > 
+Firewire to .avi > Tmpgen > mpg > DVD
 
-01. Intro
-02. Today
-03. Stand Inside Your Love
-04. That's the Way (My Love Is)
-05. Drown
-06. Bring the Light
-07. Tonight, Tonight
-08. Tarantula
-09. Starla
-10. United States
-11. Thirty-three
-12. 1979
-13. To Sheila
-14. Cherub Rock
-15. Ava Adore
-16. Zero
-17. Shame
-18. Bullet with Butterfly Wings
-19. Heavy Metal Machine
-    > Iron Man [Black Sabbath]
-20. On the Road Again [Canned Heat]
-21. I Love Rock 'n' Roll [Arrows]
-22. (Encore Call #1)
-23. Pomp and Circumstances
-24. Rocket
-25. (Encore Call #2)
-26. Doomsday Clock
-27. Lucky 13
-28. (Encore Call #3)
-29. With Every Light
-30. Outro
+Video: MPEG-2 720x480 29.97 fps (4:3) NTSC, 8000 kbps
+Audio: MPEG-1 Audio Layer 2, 48000 Hz Stereo, 384 kbps
 
-Running Time: 2:18:30
+Special thanks goes to Felicia for the use of her camcorder.
+More thanks goes to Kevin for putting up with my obsession during the show and holding the cam at various intervals...
 
-Notes:
 
-tsp2007-11-16.dab.t01.flac:54cab74042d857f473f357048fa77544
-tsp2007-11-16.dab.t02.flac:3c5b8834a59f3c4a8292bf09d353312e
-tsp2007-11-16.dab.t03.flac:11860c153b7737007d857faf4cc3437d
-tsp2007-11-16.dab.t04.flac:5546c33f5d85facb056adc0646c6c620
-tsp2007-11-16.dab.t05.flac:be16935b0f234708ea21948f3babf8d2
-tsp2007-11-16.dab.t06.flac:c0c41c48dea7d873e78ad46a7badcf43
-tsp2007-11-16.dab.t07.flac:5ecd7e428e72e9ccd53fe6140c989e33
-tsp2007-11-16.dab.t08.flac:368aaddb9dac36b6e9ce6b9cdc271d86
-tsp2007-11-16.dab.t09.flac:d5540e960d43c7ed08897ddf296a0a36
-tsp2007-11-16.dab.t10.flac:c6ae090984e52a257d6d138eded11a05
-tsp2007-11-16.dab.t11.flac:d305693773b8c43dd9c4ea27c92b448b
-tsp2007-11-16.dab.t12.flac:c85fddc6d8d35b246d936e253be77c3d
-tsp2007-11-16.dab.t13.flac:d2a0bd7d508b4fe4dcb1498789c0996e
-tsp2007-11-16.dab.t14.flac:27c62f6be8e36f15b1e76db1c247fe52
-tsp2007-11-16.dab.t15.flac:53f1c1bdd2adfbd320a3055117ea7f11
-tsp2007-11-16.dab.t16.flac:c03cfc97e3b092ac078adb7573fed941
-tsp2007-11-16.dab.t17.flac:1574818f37f4e5bfcb691219f857a2b2
-tsp2007-11-16.dab.t18.flac:29f20d1ec24eecb6afbc99b06df17f4d
-tsp2007-11-16.dab.t19.flac:c87bf2e19ae5bbb5eb3b7ab5fb58b214
-tsp2007-11-16.dab.t20.flac:0e1bd7cb71774cd85c48866a1966b734
-tsp2007-11-16.dab.t21.flac:d4dac0481b9b2ed93a95dfa8d7033510
-tsp2007-11-16.dab.t22.flac:ad2afb3e9af1e3cc7f8b051f438f443a
-tsp2007-11-16.dab.t23.flac:fbb8abf5a98a4813fb3005129b1549ee
-tsp2007-11-16.dab.t24.flac:2fc2735999ab535094ad6b8140a93405
-tsp2007-11-16.dab.t25.flac:8ec9274bc40cfb2907cb56990d413ca5
-tsp2007-11-16.dab.t26.flac:e64ba976ac2f474bf4854a2d3791d4f3
-tsp2007-11-16.dab.t27.flac:a9bdbe90afa9a23fb08d704c4e772326
-tsp2007-11-16.dab.t28.flac:215975ff71991d37e02cb252a3a4f5d6
-tsp2007-11-16.dab.t29.flac:5a9a44b8e608d5df2d35056c0569d761
-tsp2007-11-16.dab.t30.flac:f9e6008d58168161d491de31ba66edc4
+DISC 1:
+
+Today
+Stand Inside Your Love
+That's The Way (My Love Is)
+Drown
+Bring The Light
+Tonight, Toight
+Tarantula
+Starla (incomplete, cut due to security)
+United States
+
+
+DISC 2:
+
+Thirty-Three (acoustic, cut intro due to tape change) 
+1979 (acoustic)
+To Sheila (acoustic)
+Cherub Rock
+Ava Adore
+Zero
+Shame
+Bullet With Butterfly Wings
+Heavy Metal Machine
+>White Rabbit
+>Iron Man
+>On The Road Again
+>I Love Rock & Roll
+
+
+DISC 3:
+
+Encore 1:
+Pomp & Circumstance
+Rocket
+
+Encore 2:
+Doomsday Clock
+Lucky 13
+
+Encore 3:
+With Every Light 

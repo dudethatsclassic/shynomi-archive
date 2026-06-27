@@ -1,65 +1,54 @@
-Smashing Pumpkins
-December 7th, 1996
-America West Arena
-Phoenix, AZ, US
 
-Source: audience 8mm > 4th gen NTSC VHS (John Provost)
-Transfer: Magnavox ZV427MG9 Standalone > DVDr > DVD Shrink 2.3 (removed generic SA menu, no re-encoding) (Rhinowing)
-
-Sync/Remaster: Deshaked, Deinterlaced, and applied Neat Video 3 (Removes Noise/Genloss) to video. Resynced Video (some cuts) to complete CSBmod>D8 FLACs (LMA) (Copperpot)
-
-720x780, ~4500kbps (VBR 2-pass), 256kbps 
+1996/12/07 - America West Arena; Phoenix, AZ, US 
 
 
-Setlist:
-2:08:45
+136mins
 
-MCIS (PA intro)
-Where Boys Fear to Tread
-Zero
-By Starlight
-Tonight, Tonight
-Today
-Cherub Rock
-Thru the Eyes of Ruby
-Galapogos
-Disarm
-Bullet with Butterfly Wings
-Muzzle
-Porcelina of the Vast Oceans
-----
+Aud DAT>CSBmod>D8>CDR 
 
-XYU*
-----
+unknown generation
 
-Landslide (Cut)
-1979*
-Siva
-----
-
-Silverfuck*
+ripped by crashcarstar@hotmail.com
 
 
-* = Has Video Dropout (Audio is complete / Still Inserted)
+ 
+  
+Set: 
 
-Notes:
 
-Shot from the stands on James' side.
-Ruby features an extended intro jam that is unique to this show
-Billy kicks out a shoe-thrower during Porcelina
-First Landslide since 1993/09/12 (Mostly Cut)
+Where Boys Fear to Tread 
+Zero 
+By Starlight 
+Tonight, Tonight 
+Today 
+Cherub Rock 
+Thru the Eyes of Ruby 
+Galapogos 
+Disarm 
+Bullet with Butterfly Wings 
+Tribute to Johnny   (tease) 
+Muzzle 
+Porcelina of the Vast Oceans 
+> La Dolly Vita   (tease) 
 
-Deshaker (Thalin), NeatVideo3 (Removes Video Noise/Gen issues), Deinterlace, and VHS Noise crop.  EQed the FLAC audio in Adobe Audition CS 5.5 (Amplify, Stereo Space, Multiband Compressor).  The master FLACs seem a bit monoish until the start of the encore(XYU) - this is how they are on Archive.org (verified cheksum).
+Encore 1: 
 
-Usually would author a show this long to 2 DVDs but all of the video dropouts are in the second half.  Due to the low bitrate required for the audio only sections (Still frame) I opted to author to one DVD.  The original conversion was to one DVD as well.
 
-Thanks to Rhinowing (Zomb) for the VHS original conversion, seed, and permission to sync/clean.  Thanks to John Provost for sharing the original VHS.
+The Ethers Tragic   (tease) 
+X.Y.U. 
 
-TMPGEnc Authoring Works for menus, chapters, etc. 
+Encore 2: 
 
-Burn tested and tested with WMPc.
 
-This is a FREE DVD and is marked as such.
+Landslide [Nicks] 
+1979 
+Siva 
 
-12/30/11
-Copperpot
+Encore 3: 
+
+
+Silverfuck 
+ 
+
+
+

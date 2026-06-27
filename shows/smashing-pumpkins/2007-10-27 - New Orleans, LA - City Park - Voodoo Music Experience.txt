@@ -1,60 +1,32 @@
-﻿Smashing Pumpkins
-Voodoo Music Experience 2007
-City Park
-New Orleans, Louisiana
-October 27th, 2007
+tsp2007-10-27
+[Voodoo Festival, New Orleans, LA]
+gear: Schoeps MK4 > Nbox+ > Edirol R-09 @ 24bit/48kHz
+recordist: Andrew Fogelsong
+location: FOB
 
-Audio:
-taper: Craig "Cabbage" Kabis <cabbage@jimmieschickenshack.net> <craigkabis@gmail.com>
-location: Mics mounted in my hat 6'3" high.  Started 5' in front of the soundboard and moved up to 30' in front of the soundboard by the end of the show.
-source: AKG ck93 hyper-cardioid capsules (mod) > RM 3-wire battery box > iRiver H120 > .wav @ 16 bit / 44.1k 
-editing: Normalized.  Removed encore break, crossfaded audience between songs
-flaws: Some wind in various places
+01. intro
+02. Superchrist
+03. Doomsday Clock
+04. Bring the Light
+05. Drown
+06. Hummer
+07. Bullet with Butterfly Wings
+08. Pomp and Circumstances
+09. Stand Inside Your Love
+10. Tonight, Tonight
+11. Tarantula
+12. Glass and the Ghost Children
+13. banter
+14. 1979
+15. To Sheila
+16. Set the Ray to Jerry
+17. Today
+18. That's the Way (My Love Is)
+19. United States > Star Spangled Banner (tease)
 
-Video:
-taper: Craig "Cabbage" Kabis <cabbage@jimmieschickenshack.net> <craigkabis@gmail.com>
-location:  Focused on the right side screen where the pro shot multicam was being played during the show.  Started 5' in front of the soundboard and moved up to 30' in front of the soundboard by the end of the show.
-source: Canon HV10 > 60i @ 1980 x 1020 > AVCHD > HQ settings > MPEG Transport Stream (.mts)
-lineage: .mts > Final Cut Pro 6.0.2 > Apple ProRes 422 codec @ 960 x 540 / 29.97 fps
-
-Video edited by Craig "Cabbage" Kabis <cabbage@jimmieschickenshack.net> <craigkabis@gmail.com>
-Edited in Final Cut Pro 6.0.2
-Authored in DVD Studio Pro 4.2.1
-Encoded in Compressor 3.0.2 - 2-pass MPEG2 / PCM Audio @ 48Khz / 16 bit
-
-1 x DVD with menus and chapter markers included
-Duration: 1:55:11
-Bit Rate: 5.33 Mbps
-Video Tracks: 224 MPEG-2, 720 × 480, 16:9, 29.97 fps, 7.50 Mbps, upper field first
-Audio Tracks: 128 AC3 2/0, 48 kHz, 192 kbps
-
-
-Setlist
-01 - Superchrist			[05:38]
-02 - Doomsday Clock			[04:17]
-03 - Bring The Light			[05:34]
-04 - Drown				[05:11]
-05 > Hummer				[06:37]
-06 - Bullet With Butterfly Wings	[04:27]
-07 - Pomp And Circumstance		[04:06]
-08 - Stand Inside Your Love		[03:52]
-09 - Tonight, Tonight			[04:48]
-10 - Tarantula				[04:06]
-11 - Glass And The Ghost Children	[15:01]
-12 - 1979				[04:18]
-13 - To Shiela				[04:02]
-14 - Set The Ray To Jerry		[04:37]
-15 - Today				[04:53]
-16 - That's The Way (My Love Is)	[03:37]
-17 > United States			[11:29]
-
-Encore
-18 - Heavy Metal Machine		[18:40]
-   > Born On The Bayou [Creedence Clearwater Revival]
-   > Heavy Metal Machine
-   > On The Road Again [?]
-   > I Love Rock And Roll [Joan Jett]
-
-Notes:
-1979 - Billy solo acoustic
-To Shiela - Billy on acoustic
+20. Heavy Metal Machine
+	> White Rabbit [Jefferson Airplane] (one verse)
+	> White Horse [Laid Back] (tease)
+	> Born on the Bayou [CCR] (one verse)
+	> On the Road Again [Canned Heat] (one verse)
+	> I Love Rock 'n' Roll [The Arrows] (tease)

@@ -1,46 +1,25 @@
-Smashing Pumpkins
-July 2nd 1998
-Universal Amphitheater
-Universal City, CA, US
+SMASHING PUMPKINS
+UNIVERSAL CITY, CA @ UNIVERSAL AMPHITHEATRE
+1998-07-02
 
-SOURCE (AMT#1):
-Hi8 Master
+D3 Cassette Master -> Untracked Aiff File -> Soundforge -> FLAC 
 
-SOURCE (AUD#1)
-D3 Cassette Master 
 
-GENERATION:
-Hi8 Master > DVD > .vob + D3 Cassette Master > FLAC > Adobe Audition/Adobe Premiere Pro > .mp4
-
-LENGTH:
-118:50
-
-SETLIST:
 01. To Sheila
 02. Behold! The Night Mare
 03. Pug
 04. Tear
 05. Crestfallen
-06. Thru The Eyes Of Ruby
-07. Let Me Give The World To You
-08. Tonight, Tonight
-09. Appels + Oranjes
-10. Bullet With Butterfly Wings
-11. Shame
-12. For Martha
-
-Encore:
-
-13. 1979
-14. Transmission (Joy Division) > Drown (tease)
-
-NOTES:
-When an audience audio source of this show surfaced in March 2023 this presented a huge opportunity to matrix this with the AMT1 audio and create a much more listenable video. It was quite a challenge to sync everything up with the audio and video running at different speeds throughout but we got there!
-
-Huge thanks to BJ for filming both nights shows, GazeboFrost for sending me over the original DVD and to ijwthstd for surfacing the audio. 
-
-Show filmed from upper balcony. Cuts in To Sheila, Shame and most of 1979 missing. Quite shaky throughout and due to audience standing infront of the taper it meant that D'arcy had to be filmed more than expected!
-
-TRANSFER & DISTRIBUTION:
-Spaldz, Nicholas Serra & Members of SPLRA
-2023-05-25
+06. Ava Adore
+07. Perfect
+08. Thru The Eyes Of Ruby
+09. Let Me Give The World To You (acoustic)
+10. Tonight, Tonight (acoustic)
+11. Appels + Oranjes
+12. Percussion solo
+13. Bullet With Butterfly Wings
+14. Shame
+15. For Martha
+16. -intro-
+17. 1979
+18. Transmission

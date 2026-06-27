@@ -1,77 +1,44 @@
-The Smashing Pumpkins
+Smashing Pumpkins
+Leon County Civic Center
+Tallahassee,FL
 April 9, 1994
-Leon Count Civic Center
-Tallahassee, FL, US
 
-Source:      AUD > ANA-1 > CDR
-Conversion:  CDR-2 > WAV via EAC > FLAC
 
------------------
-Disc 1:
-01. Rocket
-02. Quiet
-03. Disarm
-04. Snail
-05. Cherub Rock
-06. Soma
-07. Hummer
-08. Geek U.S.A.
-09. Luna
-10. Today
-11. Siva
-12. Starla
-13. I Am One
+TDK SD 90 Masters->Nakamichi DR3->Sony RCD-W500C(SBM)->EAC->WAV->TLH->Flac 8
 
-Disc 2: 
-14. Mayonaise
-15. (unknown instrumental)
-    > Spaced (tease)
-    > Suffer (tease)
-16. Silverfuck
-    > Never Let Me Down [Depeche Mode] (tease) 
-    > Over the Rainbow [Harburg/Arlen] (tease)
-    > Sweet Sweet
------------------
 
-Notes:
- - tape flip at very end of Today through start of Siva
- - cut in crowd noise after Starla
- - few drop outs during Silverfuck
 
-flac fingerprints:
-tsp1994-04-09d1t01.flac:b908775f7060fed5a2339b29bcb97ee3
-tsp1994-04-09d1t02.flac:5d89535bcd60a0855524257d8ed4f58e
-tsp1994-04-09d1t03.flac:e1827cbfc55d7e82ab0fa07fbed9c59e
-tsp1994-04-09d1t04.flac:e02ab223616daa8061c089a45d4067a2
-tsp1994-04-09d1t05.flac:f880980e5dd6b41583a53005586f2757
-tsp1994-04-09d1t06.flac:479baaed6b78e8bef9f6eb3dbd73fa51
-tsp1994-04-09d1t07.flac:e504c40ab4f684ccfd11d5fe41fa66bd
-tsp1994-04-09d1t08.flac:b28efaf91f083a70e0c019950f1e68f8
-tsp1994-04-09d1t09.flac:c5a106d4c132c65eff9289eda7174f31
-tsp1994-04-09d1t10.flac:41a5fcdb10767743b8ca004873c5f6e9
-tsp1994-04-09d1t11.flac:2d110dcca6657e69652e973325f28fde
-tsp1994-04-09d1t12.flac:067a13ba92076ab950a7f14f7460dcfb
-tsp1994-04-09d1t13.flac:e9003b13a7131415b59988454db8bfea
-tsp1994-04-09d2t01.flac:911b8c39b73f6437e35c1a19ce8158bb
-tsp1994-04-09d2t02.flac:21e33d4f2a13937959924c7b331e48a1
-tsp1994-04-09d2t03.flac:ee67728f5a5141669132d32bd6eeb471
+TAPER: Chuck Dagen AKA Floridian
+RECORDER: Realistic SCR-51
+MICS: Realistic hand-held
+LOCATION: upper level
+NOTE: speed problems last 4 songs disc 1.
+TRANSFER: October 2013
+RELEASED HERE: www.echoeshub.com
 
-shntool len:
-    length     expanded size   cdr  WAVE problems filename
-     5:14.40       55483724    ---   --   ---xx   tsp1994-04-09d1t01.flac
-     4:08.68       43907180    ---   --   ---xx   tsp1994-04-09d1t02.flac
-     3:21.52       35578748    ---   --   ---xx   tsp1994-04-09d1t03.flac
-     5:10.00       54684044    ---   --   ---xx   tsp1994-04-09d1t04.flac
-     5:55.15       62657324    ---   --   ---xx   tsp1994-04-09d1t05.flac
-     7:07.18       75365180    ---   --   ---xx   tsp1994-04-09d1t06.flac
-     7:02.44       74544332    ---   --   ---xx   tsp1994-04-09d1t07.flac
-     6:18.19       66723932    ---   --   ---xx   tsp1994-04-09d1t08.flac
-     3:25.32       36237308    ---   --   ---xx   tsp1994-04-09d1t09.flac
-     3:03.72       32450588    ---   --   ---xx   tsp1994-04-09d1t10.flac
-     7:15.73       76905740    ---   --   ---xx   tsp1994-04-09d1t11.flac
-     8:53.48       94134140    ---   --   ---xx   tsp1994-04-09d1t12.flac
-    10:21.72      109713788    ---   --   ---xx   tsp1994-04-09d1t13.flac
-     8:04.37       85464668    ---   --   ---xx   tsp1994-04-09d2t01.flac
-     4:38.00       49039244    ---   --   ---xx   tsp1994-04-09d2t02.flac
-    17:35.01      186104396    ---   --   ---xx   tsp1994-04-09d2t03.flac
-   107:36.66     1138994336 B                     (totals for 16 files, 0.5636 overall compression ratio)
+
+
+
+DISC 1 (46:46)
+
+01. Pre Show-Intro.
+02. Rocket.
+03. Quiet.
+04. Disarm.
+05. Snail.
+06. Cherub Rock.
+07. Soma.
+08. Hummer.
+09. Geek USA.
+10. Luna.
+
+DISC 2 (64:24) 
+
+01. Luna (tape flip).
+02. Today.
+03. Siva.
+04. Starla.
+05. I Am One.
+06. Mayonaise.
+07. Unknown.
+08. Silverfuck.

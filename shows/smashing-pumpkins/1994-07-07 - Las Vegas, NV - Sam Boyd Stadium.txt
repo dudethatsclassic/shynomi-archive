@@ -1,44 +1,17 @@
 Smashing Pumpkins
 July 7th, 1994
 Sam Boyd Stadium
-Las Vegas, Nevada, USA
+Las Vegas, NV, US
 
-ANA-1->DAT-1 (48k)>Fostex D5 (Optical)>m-audio DiO 2496>FLAC
+Source: MTV broadcast > unknown gen NTSC VHS (EP)
+Transfer: Magnavox ZV427MG9 Standalone > RCA to 1/8 cable > DR-2D (24/44.1)
+Editing: Audacity (amplified, dithered), TLH (flac level 8)
 
-Set:
-01. Geek U.S.A. - 4:46
-02. Rocket - 4:09
-03. Disarm - 3:12
-04. Quiet - 3:33
-05. Cherub Rock - 4:35
-06. Drown - 5:25
-07. -> Hummer - 6:00
-08. I Am One - 6:20
-09. Today (cuts in) - 2:58
-10. Soma - 7:14
-11. Silverfuck - 9:08
-Encore:
-12. Siva - 5:01
-13. Starla - 8:21
+01. BC interviews James - 1:14
+02. BC interviews Darcy - 2:06
+03. tv sign-off - 0:58s
 
-Notes: 
-First show of the Lollapalooza tour.
+thanks to stumpycat for the VHS
 
-Flaws:
-t11 - Short single channel dropout
-t13 - pre-song banter cut
-
-James: "We've been really intimidated by Sigfried and Roy and...just the implications of playing in their city is just unfathomable...but we'd like to make an open challenge to Sigfried and Roy tonight saying we've got a better show than you!
-
----
-DO NOT SELL
-DO NOT CONVERT TO MP3 ASIDE FROM PERSONAL USE
-DO NOT REMIX, REMASTER, ETC WITHOUT PERMISSION
-ENJOY THE MUSIC!
----
-
-Ben Valocchi (rhinowing) and Matt Krueger (Punkishlyevil)
-
-VERY large thank yous go to Reece Donovan and Kevin Davis
-
-brought to you in association with the SPLRA (splra.org)
+don't sell, etc
+-rhinowing

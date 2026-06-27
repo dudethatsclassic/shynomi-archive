@@ -1,26 +1,41 @@
-The Smashing Pumpkins
+Smashing Pumpkins
+June 20th, 1998
+Melbourne Park
+Melbourne, VIC, AU
 
-June 20, 1998 
+Source: Built-in>TCS-580V
+Transfer: ANA-?>Sony TC-K630ES>R-09(24/48, unity gain)
+Editing: Audacity (cleaned up tape flips, volume edits), r8brain (downsample/dither), CDWave (splits), TLH (FLAC level 8)
 
-Disc 1: 1. To Shelia, 2. Behold! The Night Mare, 3. Ava Adore, 4. Pug, 5. Crestfallen, 6. Tear, 7. Thru the Eyes of Ruby, 8. Perfect, 9. Tonight, Tonight, 10. Bullet with Butterfly Wings.
-Disc 2: 1. Daphne Descends, 2. Shame, 3. For Martha, 4. 1979, 5. Transmission (Joy Division), 6. Zero. 
+01. To Sheila - 6:38
+02. Behold! the Nightmare - 4:54
+03. Ava Adore - 5:36
+04. Pug - 5:41
+05. Crestfallen - 6:14
+06. Tear - 7:33
+07. Thru the Eyes of Ruby - 10:14
+08. talk - 1:33
+09. Perfect - 3:58
+10. (talk: "Get to known D'arcy") - 1:23
+11. Tonight, Tonight - 3:59
+12. (percussion solo) -> Zero (tease) -> Where Boys Fear to Tread (tease) -> Bullet with Butterfly Wings - 9:23
+13. Daphne Descends - 4:34
+14. Shame - 8:15
+15. For Martha - 17:37
+Encore One:
+16. 1979 - 6:49
+17. Transmission [Joy Division] - 20:57
+Encore Two:
+18. Summertime [Gershwin] (tease) -> Zero - 4:54
 
-Track Info: Melbourne Park, Melbourne, VIC, Australia
-Source Info: AUD > ANA-1? > CDR? > EAC > WAV > FLAC  [built in mic > TCS-580V]
-Extraction: roman79.  EAC [CDRs > WAV] ; TLH [WAV > FLAC] ; TagScanner [Tag FLACs]. 
-Taper : Unknown
-Origin: CDR Trade 2000-2003
-Length: 133:56 (Disc 1 - 70:49, Disc 2 - 63:07) 
+-awesome show
+-only recorded version of Zero in 1998
+-quality varies from ok (first half of show) to crap (1979), sounds like the taper was hiding the recorder under his shirt sometimes
+-lots of weird dropouts and level changes
+-tape I received claims BWBW is cut, but I don't hear one
+-if someone wants to try and clean this up, please do so
+-someone upload the ANA-2>CDR transfer. please?
 
-Sound Comments/Faults?: Average quality. Tape hiss, sounds a bit distant, audience noise is only minor, minimal clipping. Tangible upgrade on ANA-2? previously on the LMA. Doesn’t have any tangible analogue transfer degradation.  Also doesn’t have heavy handed EQ which reduced bass but made the other transfer sound very thin in comparison increasing the clarity of the vocal but also increasing tape hiss and making pockets of near microphone chat actually audible. It also doesn’t have 1 min cuts in Tear, Bullet and Transmission, 1 minute of extra intro but has 2 mins of the 1st encore noise cut after For Martha.
-
-Show Comments: Perfect is solo acoustic. Amusing Aussie related chat - Billy "I did meet Shane Warne [famous Australian cricketer] once, didn't know who the fuck I was, but i knew who HE was". From memory some fans hung a sheet with the words “Zero” off a balcony, the crowd began chanting which got Billy’s attention and SP commenced an impromptu rendition of it with a few lyrics missing but an extended outro. 
-
-*txt file created by roman79 in 2021*
-
-
-I (rhinowing) performed the following edits:
-* added disc numbers in metadata so files will sort properly in a media player
-* corrected spelling on BWBW tag
-* renamed files to run sequentially without sub-folders for discs (audio is untouched)
-* new ffp and md5 files generated
+Thanks to Evan (blazinator) for the tape
+Don't sell, etc
+-rhinowing

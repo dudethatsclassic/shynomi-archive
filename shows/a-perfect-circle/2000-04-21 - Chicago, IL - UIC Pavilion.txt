@@ -1,21 +1,25 @@
 A Perfect Circle
-2000-04-21
-Chicago, IL
+2000.04.21
 UIC Pavilion
+Chicago, IL
 
-Source: AT933s > Sharp MD-MS702
-Transfer: Unk Gen CD > EAC (Secure Mode) > WAV > FLAC
-Notes: Verified lossless.
+Source: CSC > Sharp 702 
+Generation: Unknown
 
 Setlist:
-Renholder
-The Hollow
-Magdalena
-3 Libras
-Sleeping Beauty
-Brena
-Orestes
-Thinking of You
-Thomas
-Rose
-Judith
+
+01 Renholder
+02 The Hollow
+03 Magdalena
+04 3 Libras
+05 Sleeping Beauty
+06 Brena
+07 Orestes
+08 Thinking of You
+09 Thomas
+10 Rose
+11 Judith
+
+Time: 46:14
+
+Notes:

@@ -1,95 +1,10 @@
-The Smashing Pumpkins
-July 16, 2007
-The Fillmore
-San Francisco, CA
+Video & Editing by MonteLDS
+-----
+Format : NTSC
+Aspect : 16:9 - 720x480 Progressive
+Bitrate : VBR 2 Pas, Min 1.5 Target 4.00, Max 7.00 [Mbps]
+Framerate : 29.97 fps
 
-*DO NOT SELL THIS RECORDING ANYWHERE!!!! FREE TRADE ONLY.*
-
-SOURCE (AUD):
-DPA 4061s > SP-MicroTrack Dongle > M-Audio MicroTrack via Line-In
-
-TRANSFER:
-M-Audio MicroTrack > USB 2.0 > Sound Forge 9.0 (EQing, Normalizing) > CD WAVE 1.95.2 (Tracking) > FLAC frontend 1.7.1 (Align on Sector Boundaries)
-
-GENERATION:
-MT(M) > WAV[16bit/44.1Khz] > FLAC[Level 8]
-
-GENERATION IF BURNED:
-MT(M) > CDR(1)
-
-Disc 1 [1:14:53]
-1. Intro
-2. The Leaving Lament
-3. Mama
-4. Promise Me
-5. With Every Light
-6. Blue Skies Bring Tears
-7. Tonight, Tonight
-8. Tarantula
-9. Cherub Rock
-10. Shame
-11. The Aeroplane Flies High (Turns Left, Looks Right)
-12. Hummer
-13. Bullet with Butterfly Wings
-14. United States
-
-Disc 2 [55:02]
-1. - "Reflection Time" Banter
-2. To Sheila
-3. Death From Above
-4. Thirty-Three
-5. Banter
-6. Rocket
-7. Translucent
-8. Starla
-9. Doomsday Clock
-10. 7 Shades of Black
-11. - "Reflection Time #2" Banter
-12. Today
-
-Disc 3 [50:53]
-Encore #1
-1. That's The Way (My Love is)
-2. Heavy Metal Machine
-Encore #2
-3. - Banter
-4. Zero
-5. Gossamer
-
-*DO NOT SELL THIS RECORDING ANYWHERE!!!! FREE TRADE ONLY.*
-DO NOT CONVERT THIS TO MP3 OR OTHER LOSSY FORMATS. IF YOU HAVE TO, KEEP IT TO YOURSELF. PRESERVE THE QUALITY.
-
-fuzn37@gmail.com
-
-FLAC Fingerprints:
-TSP2007-07-16d1t01.flac:c95b01b3218eb2ae4e8e610dc9921cf6
-TSP2007-07-16d1t02.flac:7c4ee80d9d617374c55ba10bd49dc6b0
-TSP2007-07-16d1t03.flac:5c5e71ea6c89b1a4d7ab0d39b1a63f2b
-TSP2007-07-16d1t04.flac:05f86bd814e6fdf189a65b66629e5379
-TSP2007-07-16d1t05.flac:df1bf130e079713875e6169eb84690f2
-TSP2007-07-16d1t06.flac:860eb4647b81d6f013c68ed96e855587
-TSP2007-07-16d1t07.flac:14bcf75ff0dd30be86d123fb6276439d
-TSP2007-07-16d1t08.flac:a6b8da133e9849626973c8d9556a031e
-TSP2007-07-16d1t09.flac:65d0bb90de25e8be81705a3023bb7443
-TSP2007-07-16d1t10.flac:41df2c9eb577401791256052914be714
-TSP2007-07-16d1t11.flac:473f6d96ef2d37dbc082f67029f823b8
-TSP2007-07-16d1t12.flac:5dc9545b7131f3cd427b8dc9a50b0b56
-TSP2007-07-16d1t13.flac:873d4772d5c041fc92b52b69955942ed
-TSP2007-07-16d1t14.flac:a1d2375206cfb7f1d4aebe5a044c7a71
-TSP2007-07-16d2t01.flac:188c9a9ca4f83b941c8f26bef15a7d92
-TSP2007-07-16d2t02.flac:ba68998bc27f11fd3f6fd53d738db652
-TSP2007-07-16d2t03.flac:6c1f70f6681108d8cd5be67d5de06fdd
-TSP2007-07-16d2t04.flac:c19d6784580a77dca137f415aca28672
-TSP2007-07-16d2t05.flac:1f85acc29e844c1903c30c80d52ecbe1
-TSP2007-07-16d2t06.flac:8eb29a47ee3201702506c085fe6d4dd6
-TSP2007-07-16d2t07.flac:f3a57f6291c2ddd801ab0ca0b112392b
-TSP2007-07-16d2t08.flac:3659cf6b27c4855a3187bc18f4259ca7
-TSP2007-07-16d2t09.flac:4ab93ce68f86073b41ce6dbe96855984
-TSP2007-07-16d2t10.flac:61a75aa21d0f3a62e858243c0d40d49a
-TSP2007-07-16d2t11.flac:a895a384dd7a1c69cf8b4fb95a97132e
-TSP2007-07-16d2t12.flac:f98418d993f2f66a672a31e164e28ece
-TSP2007-07-16d3t01.flac:f03e0ba3983e1891fc786c44f195ac3b
-TSP2007-07-16d3t02.flac:880122cac08af79b2a93e31a3d50ad5a
-TSP2007-07-16d3t03.flac:22959784767d0cf0b0260c0c271dfaa5
-TSP2007-07-16d3t04.flac:07d096bfbf9eac83417d2ba748dd0c31
-TSP2007-07-16d3t05.flac:e739419bd2ef2e65fb9da8f92aaaddb2
+Source : Sony HDR-SR5 1080i > Elecard Converter Studio AVC HD Edition > MPEG2
+Editing : Adobe Premiere Pro CS3
+Authoring: Adobe Encore CS3

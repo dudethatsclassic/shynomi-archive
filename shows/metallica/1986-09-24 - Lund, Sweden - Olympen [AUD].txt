@@ -1,46 +1,10 @@
-METALLICA
-September 24, 1986
-Olympen, Lund, Sweden
+01.flac:  successfully fixed/rewritten to '01-fixed.flac'.
+02.flac:  successfully fixed/rewritten to '02-fixed.flac'.
+03.flac:  successfully fixed/rewritten to '03-fixed.flac'.
+04.flac:  successfully fixed/rewritten to '04-fixed.flac'.
+05.flac:  successfully fixed/rewritten to '05-fixed.flac'.
+06.flac:  successfully fixed/rewritten to '06-fixed.flac'.
+07.flac:  successfully fixed/rewritten to '07-fixed.flac'.
+08.flac:  successfully fixed/rewritten to '08-fixed.flac'.
 
-DISC #1/2 (47:09)
------------------
-01) The Ecstacy Of Gold
-02) Battery
-03) Master Of Puppets
-04) For Whom THe Bell Tolls
-05) Welcome Home (Sanitarium)
-06) Ride The Lightning
-07) Cliff Solo
-08) Whiplash
-09) The Thing That Should Not Be (cut)
-
-DISC #2/2 (46:08)
------------------
-01) Fade To Black
-02) Seek & Destroy
-03) Creeping Death
-04) The Four Horsemen
-05) Kirk Solo
-06) AM I Evil?
-07) Damage Inc.
-08) Fight Fire With Fire
-
-GENERATION
------------------
-ANA(M) > WAV [44.1kHz] > FLAC [Level 8]
-
-SOURCE (AUD)
------------------
-unknown > built-in
-
-TRANSFER
------------------
-BASF ferro super LHI-tape > Yamaha KX-200 stero cassette deck > SoundForge 6.0 > FLAC Frontend 1.7.1
-
-MD5 FINGERPRINTS
------------------
-
-2441700ea273598723d50904646cab93 *m1.flac
-af4c0cbfa30800de17ca47d2eee9fc8d *m2.flac
-05ea4bc2eac688fd0f9b19f03731faf9 *met1.cue
-b76417b8d35a7b523dfcb3f1330e673e *met2.cue
+Padded last file with 528 zero-bytes.

@@ -1,31 +1,24 @@
 A Perfect Circle
-September 08, 2000
-Palladium
+2000-09-08
 Hollywood, CA
+The Palladium
 
-Source: DPA 4061’s > CSBox > Sony PCM-M1
-Lineage: DAT Master 16/48 > FLAC
-Transfer (BLG): DA-20 > coax > Marantz PMD-670 > usb reader > Adobe Audition (edits) > iZotope Ozone 5 (EQ,Exciter,Imaging,Dynamics) > WavePad (tracking) > xACT (tags) > FLAC
-Taper: Ed Davis
+Source: Core Sound High End Binaurals > Sony PCM-M1
+Transfer: 2G CD > EAC (Secure Mode) > WAV > FLAC
+Notes: Verified lossless.  
 
-01 Intro
-02 Magdalena
-03 The Hollow
-04 Sleeping Beauty
-05 Orestes
-06 Brena
-07 Thomas
-08 Thinking of You
-09 Rose
-10 Renholder
-11 3 Libras
-12 Diary of a Lovesong
-13 Over
-14 Judith
-
-Total Time: 63:36
-
-Notes: Levels were a little hot, so some mild distortion in a few places.  Other than that another good recording, thanks to the taper.
-
-.txt compiled on 12/25/2014 by BLG
-
+Setlist:
+intro
+Magdalena
+The Hollow
+Sleeping Beauty
+Orestes
+Brena
+Thomas
+Thinking of You
+Rose
+Renholder
+3 Libras
+Ozzy's Cure (Diary of a Lovesong)
+Over
+Judith

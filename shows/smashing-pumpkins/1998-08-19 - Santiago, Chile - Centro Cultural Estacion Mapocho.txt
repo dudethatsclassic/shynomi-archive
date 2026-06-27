@@ -1,36 +1,43 @@
 Smashing Pumpkins
-August 19th, 1998
-Centro Cultural Estacion Mapocho
-Santiago, CL
+Estacion Mapocho, Santiago, Chile
+1998-08-19
+TV > VHS > VHS (my copy) > YOU
 
-Source: TV broadcast > 1st gen NTSC VHS
-Transfer: Magnavox ZV427MG9 Standalone > RCA to 1/8 cable > R-09 (16/44.1)
+SetList: 
+1. To sheila
+2. Behold! The nightmare
+3. Once upon a time
+4. Ava Adore
+5. Tear
+6. Thru the eyes of ruby
+7. Tonight Tonight
+8. Perfect
+9. Bullet with butterfly wings
+10. For Martha
+11. 1979
+12. Transmission
 
-01. To Sheila - 7:04
-02. Behold! the Night Mare - 5:08
-(missing) Pug
-03. Once Upon a Time - 4:44
-04. Ava Adore - 5:37
-05. Tear// - 5:50
-(missing) Blank Page
-06. Thru the Eyes of Ruby - 10:38
-07. Tonight, Tonight - 5:21
-08. Disarm - 3:19
-09. Perfect - 3:02
-10. percussion solo > tease medley (Zero, Today, Tristessa, Quiet, Soma) > Bullet with Butterfly Wings - 11:47
-(missing) Shame
-11. For Martha - 13:19
 
-(missing) 1979
-12. //Transmission// - 17:08
+  Display Information:
+  Video Mode: Progressive
+  Display Mode: DirectDraw
+  FourCC Code: YUY2
+  Surface Type: Overlay
 
-13 - 16: Billy interview (total length 15:11)
+Video Attributes:
+  Video compression mode: MPEG-2
+  TV system: 625/50 (PAL)
+  Aspect Ratio: 4:3
+  Display Mode: Both Pan&scan and Letterbox
+  Source picture resolution: 720x576 (625/50)
+  Frame Rate: 25.00
+  Source picture letterboxed: Not letterboxed
+  Bitrate: 5.34Mbps
 
-tape flub/dropout during Ava Adore, Tear is edited directly into Thru the Eyes of Ruby
-someone from the crowd gives Billy a Chilean flag during Tear
-there is a sweet feedback/noise jam during Bullet when James' guitar rig fucks up
-only performance of Disarm on the Adore tour, last Behold! the Night Mare until 2008/01/30
-I moved all the interview to the end of the show, and crossfaded all the commercial gaps
-
-Don't sell, etc
--rhinowing
+Audio Attributes: 
+  Audio Coding mode: Dolby Digital
+  Sampling Rate: 48kHz
+  Audio application mode: Not specified
+  Number of Audio channels: 2
+  Bitrate: 192 Kbps
+  Number of Audio streams: 1

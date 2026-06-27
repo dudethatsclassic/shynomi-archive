@@ -3,80 +3,62 @@ Miles Davis Quintet
 La Pinède
 Juan-les-Pins, France
 
-Project ID - LL137
+Project ID - LL66
 
 Source: FM Broadcast
-Lineage: OTRF Radio Broadcast > ?? > Côte Blues bootleg > eac (secure) > shn
+Lineage: OTRF Radio Broadcast > ?? > Côte Blues bootleg > eac (secure) > wave > shn
 
 Miles Davis (tpt); George Coleman (ts); Herbie Hancock (p); Ron Carter (b); 
 Tony Williams (d)
 
 disc 1
 
-d1t01. So What
+d1t01. So What 
 d1t02. Stella By Starlight
-d1t03. Seven Steps To Heaven 
-d1t04. Walkin'
+d1t03. Seven Steps To Heaven > Walkin'
+
  
 -------------------------------------------------------
 
 Notes:
 
-- d1t01: There is a drop out at 7:43. A few seconds of All Blues can be heard prior 
-to the fade out.
-
-- d1t02: there is a drop out at 1:51, Digi pop at 3:19, 12:12. There is a level fluctuation at
-6:20 and 9:07. There is a drop out at 12:20 and 12:30.
-
-- d1t03: Dropout at 5:27, 8:53
-
-- d1t04: digi pop/static burst ar 9:41
-
-- Per Peter Losin ( http://www.plosin.com/milesAhead ) All Blues, My Funny Valentine, 
-Joshua, and the Theme were also played on this night but are missing from this source. 
-
-- According to Peter Losin's site, these tracks are also not in the correct order. 
+- d1t01: There is a big digipop at the very end of the track
 
 - most tracks are not continuous. There is a fade out and in between the
 first three tracks.
 
+- According to Peter Losins site, these tracks are also not in the correct order. 
+
+- Per Peter Losin ( http://www.plosin.com/milesAhead ) All Blues, My Funny Valentine, 
+Joshua, and the Theme were also played on this night but are missing from this source.
+
 - Nice sound, strong playing. A great piece of history. The "Seven Steps To Heaven" 
-alone makes this recording worth a listen. This version of this source is seekable, 
-where LL66 is not, but the blemishes listed above make LL66 my choice for the 
-superior version of this source but this one does have it's merits. Listeners choice again. 
+alone makes this recording worth a listen. This version is not seekable and is tracked 
+differently that LL137. The sound quality is pretty much identical but LL137 has many drop 
+outs and digi pops that aren't present or at least so prevelant on this version. 
 
 - QC done by bgreen
 
 md5
-f3b75f4004d19200312e4f86726b4e37 *md63-07-26.LL137.d1t01.shn
-0cd7578b421c7748b34ac1fba5751b7c *md63-07-26.LL137.d1t02.shn
-e28496f756b4102934ce4fa5b2f522ce *md63-07-26.LL137.d1t03.shn
-81cf4d7f8b0b0fdb323623310450cdfa *md63-07-26.LL137.d1t04.shn
- 
+ ae5a74ed7978dd5c270f25ae499e2c34 *md1963-07-26.LL66.d1t01.shn
+ b6f3912306a6d3eb180685ce8e53fb59 *md1963-07-26.LL66.d1t02.shn
+ 91273e827376c712dcb8bad44080bbe0 *md1963-07-26.LL66.d1t03.shn
+
 st5 
-5b8ac29a77adb34e573810bc2652cff5  [shntool]  md63-07-26.LL137.d1t01.shn
-be421485ee465d2bbd89cdd4b2576b5d  [shntool]  md63-07-26.LL137.d1t02.shn
-906c7cf94319c18591bf4d1de660b6af  [shntool]  md63-07-26.LL137.d1t03.shn
-bc0d492a40e93a46ee35cf61651ff180  [shntool]  md63-07-26.LL137.d1t04.shn 
+ c6e6ac0ba6d4d34d905b74760ac79dff  [shntool]  md1963-07-26.LL66.d1t01.shn
+ b4711baec1b599043888f5019bdf01ea  [shntool]  md1963-07-26.LL66.d1t02.shn
+ 93b780692c62a20292bf5bb35ea17b4a  [shntool]  md1963-07-26.LL66.d1t03.shn
 
 shntool
- length     expanded size   cdr  WAVE problems filename
-     9:53.56      104736956    ---   --   ---xx   md63-07-26.LL137.d1t01.shn
-    14:15.08      150840860    ---   --   ---xx   md63-07-26.LL137.d1t02.shn
-    10:54.43      115466780    ---   --   ---xx   md63-07-26.LL137.d1t03.shn
-    10:33.48      111774140    ---   --   ---xx   md63-07-26.LL137.d1t04.shn
-    45:37.05      482818736 B                     (totals for 4 files, 0.5355 overall compression ratio)
+ length     expanded size    cdr  WAVE problems  fmt   ratio  filename
+  9:54.62      104927468 B   ---   --   ---xx    shn  0.5824  md1963-07-26.LL66.d1t01.shn
+ 14:16.14      151031372 B   ---   --   ---xx    shn  0.4653  md1963-07-26.LL66.d1t02.shn
+ 21:33.27      228148748 B   ---   --   ---xx    shn  0.5570  md1963-07-26.LL66.d1t03.shn
+ 45:44.28      484107588 B                            0.5339  (3 files)
 
-
-TLH Verification
-md63-07-26.LL137.d1t01.wav:  track looks like CDDA with probability 99%
-md63-07-26.LL137.d1t02.wav:  track looks like CDDA with probability 100%
-md63-07-26.LL137.d1t03.wav:  track looks like CDDA with probability 100%
-md63-07-26.LL137.d1t04.wav:  track looks like CDDA with probability 100%
- 
 old md5
-81cf4d7f8b0b0fdb323623310450cdfa *md63-07-26d1t04.shn
-0cd7578b421c7748b34ac1fba5751b7c *md63-07-26d1t02.shn
-e28496f756b4102934ce4fa5b2f522ce *md63-07-26d1t03.shn
-f3b75f4004d19200312e4f86726b4e37 *md63-07-26d1t01.shn
-
+91273e827376c712dcb8bad44080bbe0 *miles63-07-26t3.shn
+f7a6323445071fbd1c34c92d45602169 *miles63-07-26t4.shn
+e11af609cbf1bf05dcba3feec258f7c9 *miles63-07-26t5.shn
+ae5a74ed7978dd5c270f25ae499e2c34 *miles63-07-26t1.shn
+b6f3912306a6d3eb180685ce8e53fb59 *miles63-07-26t2.shn

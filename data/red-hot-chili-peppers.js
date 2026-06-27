@@ -4689,7 +4689,7 @@ const ARTIST_DATA = {
       "notes": "ANA(M) \u00b7 unk",
       "version": "SBD #1",
       "format": "FLAC",
-      "textFile": "2002-10-16 - Buenos Aires, Argentina - Estadio Monumental Antonio Vespucio Liberti.txt"
+      "textFile": "2002-10-16 - Buenos Aires, Argentina - River Plate Stadium (Version 1) [SBD #1].txt"
     },
     {
       "year": 2002,

@@ -1,59 +1,36 @@
-
 Smashing Pumpkins
-2011-10-17
-930 Club
-Washington DC
+9:30 Club
+Washington, D.C.
+October 17th, 2011
 
-Source: Busman BSC1-K1 (Cards) in NOS > Naiant Littlebox 1.5 > Edirol R09-HR @ 24/96
-Transfer: R-09HR > Sony Soundforge 8.0 > Sony Vegas Pro > Trader's Little Helper v.2.6.0 (Build 168)
+Taper: Craig "Cabbage" Kabis <cabbage@jimmieschickenshack.net> <craigkabis@gmail.com>
+Location: gaffe taped to my shoulders, first row center balcony
+Source: Sennheiser Micro Madness MMHLSC.II > battery box > internal memory on Sony PCM-M10 > .wav @ 96 kHz / 24 bit
+Lineage: .wav > Amadeus Pro 2.0.4 (1367) > FLAC 8
 
+Setlist
+01 - Quasar				[06:19]
+02 > Panopticon				[03:48]
+03 > Starla				[09:49]
+04 - Geek U.S.A.			[05:05]
+05 - Muzzle				[03:50]
+06 - Window Paine			[06:31]
+07 > Lightning Strikes			[05:40]
+08 - Soma				[06:40]
+09 - Siva				[07:41]
+10 - Oceania				[13:05]
+11 - Frail And Bedazzled		[03:02]
+12 > Silverfuck				[12:02]
+13 - Obscured				[04:14]
+14 - Pale Horse				[05:23]
+15 - Thru The Eyes Of Ruby		[06:35]
+16 > I Am One				[02:23]
+17 - Cherub Rock			[04:39]
+18 - Owata				[06:02]
+19 - My Love Is Winter			[03:33]
+20 - For Martha				[13:32]
 
-01. Smashing Pumpkins - Washington DC - 10.17.11 - 01 - Intro
-02. Smashing Pumpkins - Washington DC - 10.17.11 - 02 - Quasar
-03. Smashing Pumpkins - Washington DC - 10.17.11 - 03 - Panopticon
-04. Smashing Pumpkins - Washington DC - 10.17.11 - 04 - Starla
-05. Smashing Pumpkins - Washington DC - 10.17.11 - 05 - Geek USA
-06. Smashing Pumpkins - Washington DC - 10.17.11 - 06 - Muzzle
-07. Smashing Pumpkins - Washington DC - 10.17.11 - 07 - Window Paine
-08. Smashing Pumpkins - Washington DC - 10.17.11 - 08 - Lightning Strikes
-09. Smashing Pumpkins - Washington DC - 10.17.11 - 09 - Soma
-10. Smashing Pumpkins - Washington DC - 10.17.11 - 10 - Siva
-11. Smashing Pumpkins - Washington DC - 10.17.11 - 11 - Oceania
-12. Smashing Pumpkins - Washington DC - 10.17.11 - 12 - Frail And Bedazzled
-13. Smashing Pumpkins - Washington DC - 10.17.11 - 13 - Silverfuck
-14. Smashing Pumpkins - Washington DC - 10.17.11 - 14 - Obscured
-15. Smashing Pumpkins - Washington DC - 10.17.11 - 15 - Pale Horse
-16. Smashing Pumpkins - Washington DC - 10.17.11 - 16 - Thru The Eyes Of Ruby
-17. Smashing Pumpkins - Washington DC - 10.17.11 - 17 - I Am One
-18. Smashing Pumpkins - Washington DC - 10.17.11 - 18 - Cherub Rock
-19. Smashing Pumpkins - Washington DC - 10.17.11 - 19 - Owata
-20. Smashing Pumpkins - Washington DC - 10.17.11 - 20 - My Love Is Winter
-21. Smashing Pumpkins - Washington DC - 10.17.11 - 21 - For Martha
-22. Smashing Pumpkins - Washington DC - 10.17.11 - 22 - Pissant
-23. Smashing Pumpkins - Washington DC - 10.17.11 - 23 - Bullet With Butterfly Wings
-
-travelinbeat
-
-Smashing Pumpkins - Washington DC - 10.17.11 - 01 - Intro.flac
-Smashing Pumpkins - Washington DC - 10.17.11 - 02 - Quasar.flac
-Smashing Pumpkins - Washington DC - 10.17.11 - 03 - Panopticon.flac
-Smashing Pumpkins - Washington DC - 10.17.11 - 04 - Starla.flac
-Smashing Pumpkins - Washington DC - 10.17.11 - 05 - Geek USA.flac
-Smashing Pumpkins - Washington DC - 10.17.11 - 06 - Muzzle.flac
-Smashing Pumpkins - Washington DC - 10.17.11 - 07 - Window Paine.flac
-Smashing Pumpkins - Washington DC - 10.17.11 - 08 - Lightning Strikes.flac
-Smashing Pumpkins - Washington DC - 10.17.11 - 09 - Soma.flac
-Smashing Pumpkins - Washington DC - 10.17.11 - 10 - Siva.flac
-Smashing Pumpkins - Washington DC - 10.17.11 - 11 - Oceania.flac
-Smashing Pumpkins - Washington DC - 10.17.11 - 12 - Frail And Bedazzled.flac
-Smashing Pumpkins - Washington DC - 10.17.11 - 13 - Silverfuck.flac
-Smashing Pumpkins - Washington DC - 10.17.11 - 14 - Obscured.flac
-Smashing Pumpkins - Washington DC - 10.17.11 - 15 - Pale Horse.flac
-Smashing Pumpkins - Washington DC - 10.17.11 - 16 - Thru The Eyes Of Ruby.flac
-Smashing Pumpkins - Washington DC - 10.17.11 - 17 - I Am One.flac
-Smashing Pumpkins - Washington DC - 10.17.11 - 18 - Cherub Rock.flac
-Smashing Pumpkins - Washington DC - 10.17.11 - 19 - Owata.flac
-Smashing Pumpkins - Washington DC - 10.17.11 - 20 - My Love Is Winter.flac
-Smashing Pumpkins - Washington DC - 10.17.11 - 21 - For Martha.flac
-Smashing Pumpkins - Washington DC - 10.17.11 - 22 - Pissant.flac
-Smashing Pumpkins - Washington DC - 10.17.11 - 23 - Bullet With Butterfly Wings.flac
+Encore:
+21 - Pissant				[02:42]
+22 > Bullet With Butterfly Wings	[07:49]
+Total Running Time			[02:20:34]

@@ -1,44 +1,36 @@
+Smashing Pumpkins
 
 
-----------------------------------------------------------------
-	Artist:			Smashing Pumpkins
-	Date:			August 13, 1993
-	Location:		Metro, Chicago
-	Taper:			JB
-	List:			http://home.comcast.net/~jblietz/index.htm
-	e-mail:			radioheadusa@comcast.net
-	DC++ screenname:	radiohead8989
-	date of seeding:	April 30, 2011
-----------------------------------------------------------------
-	Source Info:		>Sony D-3 DAT recorder (16bit-48kHz)
-				>ECM-S220 Mic
-				>CDWAVE 1.98
-				>FLAC (level 8)
-----------------------------------------------------------------
-	additional info:	Record From ??
-----------------------------------------------------------------
-	running time:		1h:40m:24s
-----------------------------------------------------------------
-	Setlist:		01 Intro
-				02 Soma
-				03 Geek USA
-				04 Rhinoceros
-				05 Quiet
-				06 Window Paine 
-				07 Today
-				08 Disarm
-				09 Siva
-				10 Mayonaise
-				11 Rocket
-				12 Hummer
-				13 Cherub Rock
-				14 Starla
-				15 I Am One
+1993/08/13 - Metro; Chicago, IL, US
+[AUD/DAT] ECM-S220>D3>DAT-M>CDR-1
+100min   Grade: 9
 
-				16 Drown
-				17 Silverf*ck
-----------------------------------------------------------------
-Note:
-This is a 16bit / 48KHZ recording.  It cannot be burned to a cd, unless you convert it to 44.1KHZ.
-The FLAC files were created using CD Wave 1.98, and they were tested using Media Monkey 3.1.1.1261.
-*Part of SilverF*ck is missing.  I had to change batteries.
+
+
+Setlist:
+
+Soma 
+Geek U.S.A. 
+Rhinoceros 
+Quiet 
+Window Paine 
+Today 
+Disarm 
+Siva 
+Mayonaise 
+Rocket 
+Rocket   (continued) 
+Hummer 
+Cherub Rock 
+Starla 
+I Am One 
+Drown 
+Silverfuck 
+> Over the Rainbow [Harburg/Arlen]   (tease)
+
+
+
+
+NOTES:
+
+	-There's a dropout during Silverfuck, from the master.

@@ -1,38 +1,41 @@
-The Smashing Pumpkins
-Date: 1999-12-20
-Venue: Metro
-City: Chicago, IL
 
-Source: AUD->MD -> CSB->MZ-R55
+source:  aud>dat      CSBmod-Ms722
+
+flaws:   BwBW cut, Missing Ava Adore
+
+
+
+1999/12/20 - Metro; Chicago, IL, US 
  
-
-*****************************************************************************
-*     THIS SHOW IS NOT TO BE ENCODED TO ANY LOSSY FORMAT (MP3) OR SOLD!     *
-*****************************************************************************
-
-Tracklisting:
+  
+Set: 
 
 
-Disc 1:
-01. Pale Scales
-02. The Everlasting Gaze 
-03. Glass' Theme
-04. Heavy Metal Machine
-05. Tonight, Tonight
-06. Stand Inside Your Love
-07. The Crying Tree Of Mercury 
-08. I Of The Mourning
-09. Glass + The Ghost Children
-10. (continued)
-11. I Am One
-12. Rock On [Essex]
+Pale Scales 
+The Everlasting Gaze 
+Glass' Theme 
+Heavy Metal Machine 
+Tonight, Tonight 
+Stand Inside Your Love 
+The Crying Tree of Mercury 
+I of the Mourning 
+Glass and the Ghost Children 
+I Am One   
+Rock On [Essex] 
+Zero 
+To Sheila 
+Bullet with Butterfly Wings 
+Ava Adore 
 
-Disc 2:
-01. Zero 
-02. To Sheila
-03. B.W.B.W.
-04. Ava Adore
-05. Disarm
-06. 1979
-07. Age Of Innocence
-08. Cherub Rock
+Encore 1: 
+
+
+Disarm 
+1979 
+
+Encore 2: 
+
+
+Age of Innocence 
+Cherub Rock 
+ 

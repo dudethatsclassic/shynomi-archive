@@ -1,110 +1,84 @@
-The Smashing Pumpkins
-2000-10-20
-Flanders Expo
-Gent, BE
+MDm > (optical) > PC > CDR
+
+M-17>MZ-R90
+
+10 meters from left stack
+
+2000/10/20 - Flanders EXPO; Gent, BE 
+ 
+  
+Set 1: 
 
 
-The CDRs with this apparently new audience recording (AUD#4) were discovered in a secondhand record store in Gent.
-The two CDRs have been retracked. The audio itself was not altered in any way (fades, normalization, or other).
+Glass and the Ghost Children 
+Today 
+Stand Inside Your Love 
+Thirty-three 
+To Sheila 
+Blue Skies Bring Tears 
+
+Set 2: 
 
 
-Source: AUD > ?
-Lineage: ? > CDR > EAC > WAV > retracked with CD Wave > FLAC Frontend > FLAC
+Glass' Theme 
+The Everlasting Gaze 
+Bullet with Butterfly Wings 
+> Once in a Lifetime [Talking Heads] 
+Speed Kills 
+If There Is a God 
+Cash Car Star 
+Rock On [Essex] 
+> Heavy Metal Machine 
+Disarm 
+Tonight, Tonight 
+Try, Try, Try 
+Porcelina of the Vast Oceans 
+
+Encore 1: 
 
 
-Disc 1
-  (Set 1)
-    01  (intro)
-    02  Glass and the Ghost Children
-    03  Today
-    04  Stand Inside Your Love
-    05  Thirty-Three
-    06  To Sheila
-    07  Blue Skies Bring Tears
-  (Set 2)
-    08  Glass' Theme
-    09  The Everlasting Gaze
-    10  Bullet with Butterfly Wings
-    11  > Once in a Lifetime
-    12  Speed Kills
-Disc 2
-    01  If There Is a God
-    02  Cash Car Star
-    03  Rock On
-    04  > Heavy Metal Machine
-  (Set 3)
-    05  Disarm
-    06  Tonight, Tonight
-    07  Try, Try, Try
-    08  Porcelina of the Vast Oceans
-  (Encore 1)
-    09  Fuck You
-    10  (blues jam - band introduction)
-    11  > Ava Adore
-        > Batman Theme (tease)
-  (Encore 2)
-    12  ("thank you and goodbye")
-    13  1979
+Fuck You 
+Ava Adore 
+
+Encore 2: 
 
 
-Notes:
-    - Towards the end of Heavy Metal Machine, about 30 seconds are missing (d2t04, around 5:20)
-    - Part of the encore break after Porcelina is missing (d2t08, around 11:35)
-    - Part of the encore break after Ava Adore is missing (d2t11, around 7:31)
-    - During the encores, there are a handful of glitches and a weird noise throughout (easily noticeable on d2t12, for example)
+1979 
+
+ 
 
 
-Shntool output:
-    length     expanded size   cdr  WAVE problems filename
-     2:25.70       25742684    ---   --   ---xx   tsp2000-10-20d1t01.flac
-    11:28.68      121523180    ---   --   ---xx   tsp2000-10-20d1t02.flac
-     4:22.21       46266236    ---   --   ---xx   tsp2000-10-20d1t03.flac
-     4:34.20       48380684    ---   --   ---xx   tsp2000-10-20d1t04.flac
-     3:54.25       41336444    ---   --   ---xx   tsp2000-10-20d1t05.flac
-     2:56.30       31117004    ---   --   ---xx   tsp2000-10-20d1t06.flac
-     9:58.48      105600140    ---   --   ---xx   tsp2000-10-20d1t07.flac
-     2:04.22       21925388    ---   --   ---xx   tsp2000-10-20d1t08.flac
-     3:36.05       38114204    ---   --   ---xx   tsp2000-10-20d1t09.flac
-     4:31.15       47839724    ---   --   ---xx   tsp2000-10-20d1t10.flac
-     5:43.17       60545228    ---   --   ---xx   tsp2000-10-20d1t11.flac
-     4:38.53       49163900    ---   --   ---xx   tsp2000-10-20d1t12.flac
-     2:01.11       21370316    ---   --   ---xx   tsp2000-10-20d2t01.flac
-     2:55.56       31001756    ---   --   ---xx   tsp2000-10-20d2t02.flac
-     3:28.21       36740636    ---   --   ---xx   tsp2000-10-20d2t03.flac
-     7:52.10       83284364    ---   --   ---xx   tsp2000-10-20d2t04.flac
-     5:45.29       60926252    ---   --   ---xx   tsp2000-10-20d2t05.flac
-     5:51.09       61937612    ---   --   ---xx   tsp2000-10-20d2t06.flac
-     5:15.10       55589564    ---   --   ---xx   tsp2000-10-20d2t07.flac
-    12:19.40      130453724    ---   --   ---xx   tsp2000-10-20d2t08.flac
-     4:55.64       52188572    ---   --   ---xx   tsp2000-10-20d2t09.flac
-     4:47.72       50796188    ---   --   ---xx   tsp2000-10-20d2t10.flac
-     7:48.24       82611692    ---   --   ---xx   tsp2000-10-20d2t11.flac
-     2:47.45       29564684    ---   --   ---xx   tsp2000-10-20d2t12.flac
-     6:10.10       65291564    ---   --   ---xx   tsp2000-10-20d2t13.flac
-   132:12.45     1399311740 B                     (totals for 25 files, 0.5178 overall compression ratio)
 
-efa2dfedd237d0d21dbfac75a56dc9da  [shntool]  tsp2000-10-20d1t01.flac
-e789449eddf3a0bbb2c544fe097ad1ad  [shntool]  tsp2000-10-20d1t02.flac
-2fa833bded9b8a16fd7b60d5d1bac7a2  [shntool]  tsp2000-10-20d1t03.flac
-dbd3f9b5c5db8fc92a4f3901a1bb4ef2  [shntool]  tsp2000-10-20d1t04.flac
-e819d91f11e05ae131649d809a96a7f0  [shntool]  tsp2000-10-20d1t05.flac
-6e03ccc8d4c18eccfea29b759b32b96f  [shntool]  tsp2000-10-20d1t06.flac
-b0b9b6cfc712a96644fd02402d59a4ce  [shntool]  tsp2000-10-20d1t07.flac
-8c7c267af625b69f0f6a205b84d364b1  [shntool]  tsp2000-10-20d1t08.flac
-bc60606659bdbfbfce43917497a4c250  [shntool]  tsp2000-10-20d1t09.flac
-4945e33af4ddad167320f33222736ea5  [shntool]  tsp2000-10-20d1t10.flac
-033a6433804adcd42a864da3f0131e2b  [shntool]  tsp2000-10-20d1t11.flac
-fd64a6827724785c932d5111a0679900  [shntool]  tsp2000-10-20d1t12.flac
-9aceaf5fd97e99233febffca85e51bdd  [shntool]  tsp2000-10-20d2t01.flac
-31936de122ff7fca839f7f613bea3054  [shntool]  tsp2000-10-20d2t02.flac
-97e8d4dd3bd85048c6a4364b5123c38e  [shntool]  tsp2000-10-20d2t03.flac
-dc65cf42aba2d85fc32ca0c971ab57ff  [shntool]  tsp2000-10-20d2t04.flac
-59b26be04c582a73b693811618872188  [shntool]  tsp2000-10-20d2t05.flac
-3a13bcc7c62c5a89992825f4b462cd13  [shntool]  tsp2000-10-20d2t06.flac
-684bcbc0d960d7687b25638d171fdd47  [shntool]  tsp2000-10-20d2t07.flac
-d2d0776432050b32e8bfab651a5e344e  [shntool]  tsp2000-10-20d2t08.flac
-f87d8da1a1b3d66007ce82ec3401bed7  [shntool]  tsp2000-10-20d2t09.flac
-b40b0a766aad70c1ee636d1daeb161ae  [shntool]  tsp2000-10-20d2t10.flac
-18d4d7641250f0ceb19a649bf3a9e9c5  [shntool]  tsp2000-10-20d2t11.flac
-3d60718ae0afc2ad9a5f039909f1c839  [shntool]  tsp2000-10-20d2t12.flac
-ec062ea0df128ad1c46aabfbfc51783f  [shntool]  tsp2000-10-20d2t13.flac
+Set One:
+01. crowd
+02. Silent Machines
+03. Glass and the Ghost Children
+04. Today
+05. Stand Inside Your Love
+06. Thirty-three
+07. To Sheila
+08. Blue Skies Bring Tears > drum solo
+Set Two:
+09. Glass' Theme
+10. The Everlasting Gaze
+11. Bullet with Butterfly Wings
+12. > Once in a Lifetime [Talking Heads]
+13. Speed Kills
+14. If There is a God
+15. Cash Car Star 
+16. Rock On [Essex]
+17. > Heavy Metal Machine
+18. crowd
+19. instrumental
+20. Disarm
+21. Tonight, Tonight
+22. banter
+23. Try, Try, Try
+24. Porcelina of the Vast Oceans
+Encore One:
+25. Fuck You
+26. blues jam
+27. > Ava Adore
+Encore Two:
+28. banter
+29. 1979

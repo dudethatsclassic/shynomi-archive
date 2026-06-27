@@ -1,37 +1,9 @@
-Faith No More
-Coliseu Dos Recreios
-Lisbon, Portugal
-April 7, 1998
-
-their final show
-
-Lineage: ?? > CDR > EAC > FLAC Frontend
-
-
-Disc 1
- 01 Midnight Cowboy [John Barry]
- 02 Collision
- 03 Midlife Crisis
- 04 Naked in Front of the Computer
- 05 Ashes to Ashes
- 06 Evidence
- 07 Easy
- 08 Introduce Yourself
- 09 The Gentle Art of Making Enemies
- 10 Last Cup of Sorrow
- 11 Patton harasses the audience > Ice, Ice, Baby
- 12 Land of Sunshine
-
-Disc 2
- 01 King for a Day
- 02 We Care a Lot
- 03 Epic
- 04 Just a Man
- 05 This Guy Is in Love with You [Burt Bacharach]
- 06 Get Out
- 07 Stripsearch
- 08 Highway Star [Deep Purple]
- 09 As the Worm Turns
-
-
---EACed and FLACed by dave (thedrifter) alawrens@gmail.com january 2007
+Track01.flac:6161635ff1a25bfd7924b9dca4be6b43
+Track02.flac:d89ac1229a366bf166d27cab18033102
+Track03.flac:609f8483dc50849789bebfaeaed90022
+Track04.flac:a718cfac03581eb9d3f92b402e47a6a3
+Track05.flac:8ea46c872bcfae71d7f9dda0fe0cfb2f
+Track06.flac:d0bddf8205ffa46edf7dcda4e5387c24
+Track07.flac:4ba19e1d1fb379fdd21ead4d1c49fb11
+Track08.flac:b6a26092510307e34a67d003c7356b04
+Track09.flac:9ae53c5cbbf32dd55913bc1cc95fb458

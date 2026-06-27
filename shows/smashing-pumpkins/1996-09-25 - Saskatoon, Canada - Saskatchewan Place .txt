@@ -1,44 +1,45 @@
 Smashing Pumpkins
 September 25th, 1996
-Saskatchewan Place
+Saskatechewan Place
 Saskatoon, SK, CA
 
-Source: Unknown (Walkman??)
-Transfer: ANA-2>Sony TC-WE825S>Tascam DA-20MKii(A>D @ 44.1kHz)>Monster coax>Delta Dio 2496
-Editing: Cool Edit Pro 2.1 (recording), Audacity (speed/pitch correction), CDWave (splits), TLH (FLAC level 8)
+source: AUD > ANA-2 > CDR-? > EAC [secure] > CDWave (retracked) > FLAC
 
-01. Mellon Collie and the Infinite Sadness (PA intro) - 2:38
-02. Where Boys Fear to Tread - 4:37
-03. Zero - 2:35
-04. Cherub Rock - 4:35
-05. banter - 0:51
-06. To Forgive - 4:10
-07. Tonight, Tonight - 4:57
-08. Today - 3:34
-09. Thru the Eyes of Ruby - 10:04
-10. Siva - 8:15
-11. banter - 1:32
-12. Disarm - 3:07
-13. Bullet with Butterfly Wings  - 3:26
-14. > Fuck You - 5:17
-15. Porcelina of the Vast Oceans > Rocket (tease) - 12:44
-16. encore break - 1:27
-Encore One:
-17. banter/Going Crazy jam - 2:12
-18. X.Y.U. - 10:10
-Encore Two:
-19. Jimmy Frog chooses the dancers - 6:34
-20. 1979 - 4:53
-21. banter - 2:01
-22. Muzzle - 4:55
-Encore Three:
-23. Bodies - 2:37
+01. Where Boys Fear to Tread
+02. Zero
+03. Cherub Rock
+04. banter
+05. To Forgive
+06. Tonight, Tonight
+07. Today
+08. Thru the Eyes of Ruby
+09. banter
+10. Siva
+11. banter
+12. Disarm
+13. Bullet with Butterfly Wings//
+14. Fuck You
+15. Porcelina of the Vast Oceans > Rocket (tease)
+
+16. improv
+17. X.Y.U.
+
+18. Jimmy Frog selects the dancers
+19. 1979
+20. banter
+21. Muzzle
+
+22. Bodies//
 XX. The Aeroplane Flies High
 XX. Silverfuck > Hummer (tease)
 
--tape error during the first ~2 minutes of Siva was corrected as best I could speed/pitch wise (shame, as it's a fantastic version)
--Billy skips the Bullet coda and goes straight into Fuck You
--Bodies cuts
+trt 105:07
 
-Tapes from D4 via Thom, transfer by Andrew, tracking/upload by rhinowing
-Don't sell, etc
+* most of the MCIS intro is missed, BwBW coda is missing, tape runs out during Bodies
+* transferred by DE
+* superior to the ANA-2 > FLAC transfer [D4 tapes]
+* discs from the collection of Andrew Fogelsong
+* EAC logs included
+
+don't sell, etc
+-rhinowing

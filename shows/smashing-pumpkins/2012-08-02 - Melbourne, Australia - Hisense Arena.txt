@@ -1,71 +1,19 @@
-SMASHING PUMPKINS
-August 2nd, 2012 
-Hisense Arena
-Melbourne, Australia
+The Smashing Pumpkins
 
-SOURCE:
-Sony ECM-717 > iRiver H320 (rockboxed)
+August 2, 2012
+1. Quasar, 2. Panopticon, 3. The Celestials, 4. Violet Rays, 5. My Love Is Winter, 6. One Diamond, One Heart, 7. Pinwheels, 8. Oceania, 9. Pale Horse, 10. The Chimera, 11. Glissandra, 12. Inkless,  13. Wildflower, 14. Space Oddity [Bowie], 15. X.Y.U., 16. Disarm, 17. Tonite Reprise > Tonight, Tonight, 18. Bullet with Butterfly Wings, 19. Soot and Stars, 20. Luna, 21. Today, 22. Encore, 23. Zero, 24. Ava Adore, 25. Cherub Rock.  
 
-TRANSFER:
-iRiver > USB > Sound Forge 9.0 (trim, volume adjust) > Traders Little Helper 2.6.0
+Track Info: Hisense Areana, Melbourne, VIC, AUS
+Source Info: AUD>LPCM>WAV>FLAC [CA-14s > Sony PCM-M10]
 
-GENERATION:
-WAV[44.1khz] > FLAC [Level 8]
+Mastering : Sound Forge normalise > Audacity Track split > Downsample to 16 bit 44khz 
 
-LENGTH:
-131:42
+Taper : Roman79, Mezzanine level, ~50m from stage
 
-SET:
-Quasar
-Panopticon
-The Celestials
-Violet Rays
-My Love Is Winter
-One Diamond, One Heart
-Pinwheels
-Oceania
-Pale Horse
-The Chimera
-Glissandra
-Inkless
-Wildflower
-Space Oddity
-X.Y.U.
-Disarm
-Tonite Reprise > Tonight, Tonight
-Bullet with Butterfly Wings
-Soot and Stars
-Luna
-Today 
-   
-Zero
-Ava Adore
-Cherub Rock 
+Sound Rating: 8.9 (B+)
 
-FLAC PINGERPRINTS:
-tsp2012-08-02t01.flac:0255352fab0c1639615ff1785140c128
-tsp2012-08-02t02.flac:ef0732e6afc55b49ea319eb4c4f22aff
-tsp2012-08-02t03.flac:6a3da9eefe2530d6963f344fd06f4d57
-tsp2012-08-02t04.flac:2e56d66370459b716eed233c6e89d5b7
-tsp2012-08-02t05.flac:1d26f5b7fb08bb24ff176da35ae3ec2f
-tsp2012-08-02t06.flac:781bbc0a68b4b4b37a271c5ca1d8a29a
-tsp2012-08-02t07.flac:0c4744f21594a8e90e1448e4cf8f0e06
-tsp2012-08-02t08.flac:b61f6021a11a4cf4154e62bcfaaa989a
-tsp2012-08-02t09.flac:d9a19733a05cd84154e2df24524f24b6
-tsp2012-08-02t10.flac:2e796b7202c8f50973387abe4dd45fc8
-tsp2012-08-02t11.flac:71633659834d9abd1829680a0f5d43c3
-tsp2012-08-02t12.flac:8b9a9c0c2cf4f2d95a44e2cdd9d45be4
-tsp2012-08-02t13.flac:46f5f1b948127c54b42d1a7de2b5c8c1
-tsp2012-08-02t14.flac:89f8307d1fd1c4b902f75a43ae553173
-tsp2012-08-02t15.flac:1cd432b25bd7e9f1ddaedf438e9c67d7
-tsp2012-08-02t16.flac:43f89140ff7b1dd340f9568c27cc74ce
-tsp2012-08-02t17.flac:c10534b03ee4083e606a2aab2ebecc32
-tsp2012-08-02t18.flac:29f27716ddde01f7bdf030020fd4ddfd
-tsp2012-08-02t19.flac:5013d290a9bcfb2069a67b11f01bbb0d
-tsp2012-08-02t20.flac:f6c191893c7259756e518d83d41694ab
-tsp2012-08-02t21.flac:5391c3411da59af4eb86127be0788364
-tsp2012-08-02t22.flac:70d5e5fd3287344a76ba4f1fd2b22a13
-tsp2012-08-02t23.flac:724a46acc6d1b0829f4bee4a952f51b0
-tsp2012-08-02t24.flac:8ca39431b13119767ab2d2e97ebd2179
+Length: 130:07 (Recommended split 1-15 (79:59) ; 16-25 (50:08)
 
-**PLEASE DO NOT ENCODE TO LOSSY FORMATS OR SELL!** 
+Sound Comments/Faults?:  Very good quality, audience noise is negligible (some detectable chair squeaking is about the worst of it).  
+Show Comments:  First full band performance of Luna since 1994-04-27 in San Francisco.
+

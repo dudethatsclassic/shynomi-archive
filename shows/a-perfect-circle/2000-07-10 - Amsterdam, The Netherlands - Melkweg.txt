@@ -1,23 +1,11 @@
 A Perfect Circle
-2000-07-10
-Amsterdam, The Netherlands
-Melkweg Max
+07/10/2001
+Melkweg
+Amsterdam, Netherlands
 
-Taper: Job Storm
-Source: Marantz EM-8 > Sony TCD-D100/32 (Resampled to 48kHz)
-Transfer: 1G-DAT > Sony PCM-M1 > coaxial 7pin > MOTU 2408mkII > BIAS Peak > Sound Forge 7.0 (fades, resampling to 44.1) > CDWave (tracking) > .WAV > .FLAC
-Generation: 1st
+Source: Unknown mic > Sony TCD-D100
+ 
+Ripped to .wav using EAC 0.9b4, converted to SHN using SHN2K 0.9b7 (seektables appended).
+	-Martin
 
-Setlist:
-Renholdër
-The Hollow
-Magdalena
-Sleeping Beauty
-3 Libras
-Breña
-Orestes
-Thinking Of You
-Thomas
-Ozzy's Cure
-Rose
-Judith
+DO NOT ENCODE TO MP3! DO NOT SHARE ON AMT AND/OR TSH! ABSOLUTELY DO NOT SELL!

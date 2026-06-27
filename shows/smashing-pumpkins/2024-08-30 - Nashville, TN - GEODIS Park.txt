@@ -1,9 +1,10 @@
 Smashing Pumpkins
 August 30th 2024
+VIP Set
 GEODIS Park
 Nashville, TN, US
 
-SOURCE (AUD#1)
+SOURCE (AUD#2)
 Internal Mics > iPhone 15
 
 TRANSFER:
@@ -13,26 +14,20 @@ GENERATION:
 M4A(M) > WAV > FLAC
 
 LENGTH:
-62:30
+31:40
 
 SETLIST:
-01. Intro
-02. The Everlasting Gaze
-03. Doomsday Clock
-04. Zoo Station [U2]
-05. Today
-06. That Which Animates the Spirit
-07. Tonight, Tonight
-08. Ava Adore
-09. Disarm
-10. Bullet With Butterfly Wings
-11. Sighommi
-12. 1979
-13. Jellybelly
-14. Cherub Rock > Are You Gonna Go My Way [Lenny Kravitz] (tease)
-15. Zero > Love Gun [Kiss] (tease)
+01. Cenotaph
+02. Ziggy Stardust [David Bowie]
+03. To Forgive
+04. Perfect
+05. Q&A
 
 NOTES:
+VIP Set
+James Iha on vocals for Ziggy Stardust
+Katie Cole on lead vocals for To Forgive with Billy joining vocals for chorus
+
 Thank you to the taper Liquidsun for sending this for release
 
 *******************
@@ -40,21 +35,11 @@ The SPLRA team have converted the M4A to a WAV file to indicate there is no upgr
 *******************
 
 MD5 FINGERPRINTS:
-4623f34d78827e7d9effbf085f875f0c *Smashing Pumpkins 2024-08-30 AUD1 t01 Intro.flac
-be5975b8100ab70d97a4ece721337da1 *Smashing Pumpkins 2024-08-30 AUD1 t02 The Everlasting Gaze.flac
-f36f35e72ffe75a58b4a431a5b175b9d *Smashing Pumpkins 2024-08-30 AUD1 t03 Doomsday Clock.flac
-deadcd6fcbe2022ada496dc8e994fd93 *Smashing Pumpkins 2024-08-30 AUD1 t04 Zoo Station [U2].flac
-e14694eea2f688db121d32d4dfeb446d *Smashing Pumpkins 2024-08-30 AUD1 t05 Today.flac
-5edad8e933972c9926ca8badc32eab40 *Smashing Pumpkins 2024-08-30 AUD1 t06 That Which Animates the Spirit.flac
-36bec7009f6ee4d0ae61de14120f9beb *Smashing Pumpkins 2024-08-30 AUD1 t07 Tonight, Tonight.flac
-b5a2a9230f71c2123ab5804abd014663 *Smashing Pumpkins 2024-08-30 AUD1 t08 Ava Adore.flac
-2fe74361a64cf35dd10f98d750be0fae *Smashing Pumpkins 2024-08-30 AUD1 t09 Disarm.flac
-3b59e34a7b13955347a6eb9ef5539b38 *Smashing Pumpkins 2024-08-30 AUD1 t10 Bullet With Butterfly Wings.flac
-2b3c78eb4605963b06a6ce3fb9a9bca5 *Smashing Pumpkins 2024-08-30 AUD1 t11 Sighommi.flac
-1a6c86a773fcdfd000c771ac0bb260d1 *Smashing Pumpkins 2024-08-30 AUD1 t12 1979.flac
-54492053c492822d17b8e3a768921592 *Smashing Pumpkins 2024-08-30 AUD1 t13 Jellybelly.flac
-d40a7a0cbe0833686f14accacc36af96 *Smashing Pumpkins 2024-08-30 AUD1 t14 Cherub Rock.flac
-e9574bd6879e39e74d5aefeeb2b5f7e3 *Smashing Pumpkins 2024-08-30 AUD1 t15 Zero.flac
+029d639fcc1cfcf5f47a7fde97d40918 *Smashing Pumpkins 2024-08-30 AUD2 t01 Cenotaph.flac
+932ada76e3ba26f30dc626b6e5a14a20 *Smashing Pumpkins 2024-08-30 AUD2 t02 Ziggy Stardust [David Bowie].flac
+f7ca1d8ec07e6300367a081a036e1049 *Smashing Pumpkins 2024-08-30 AUD2 t03 To Forgive.flac
+34f2e89e442093d968be0dc3708bc5c9 *Smashing Pumpkins 2024-08-30 AUD2 t04 Perfect.flac
+090923734cfb120fade78c91279eab43 *Smashing Pumpkins 2024-08-30 AUD2 t05 Q&A.flac
 
 RECORDED BY:
 Liquidsun

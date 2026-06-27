@@ -1,0 +1,68 @@
+Miles Davis
+Festival Field, Newport, RI
+Voice of America (VOA) radio broadcast
+July 4, 1966
+
+Goody Pitch-Corrected Remaster
+
+Voice of America (VOA) Broadcast > ?? > CD Trade > > EAC Wave > TLH Flac Level 8 > 
+
+Goody's additional lineage:
+dBpoweramp (WAV) > Cool Edit Pro (Pitch Bender +82 cents; Balanced channels; Tracking) > Trader's Little Helper (FLAC 
+
+Level 8) >
+ 
+plaz's additional lineage below*
+
+ 
+Miles Davis (tpt); Wayne Shorter (ts); Herbie Hancock (p); Ron Carter (b); Tony Williams (d); Willis Conover (ann) 
+
+1 Introduction > Gingerbread Boy 8:34
+2 All Blues 10:29
+3 Stella by Starlight (Incomplete) 6:56
+
+Total Time: 26:00
+
+RatedX comment about his source:
+Note: I believe this version sounds better than the upload still available here:
+
+- http://www.dimeadozen.org/torrents-details.php?id=300063
+
+---------------------------------------------------------
+
+*Additional lineage:
+Goody flacs > wav (checksums verified) > clean + declip > flac(lvl8)
+
+
+Additional editing by plaz (all in Sound Forge Pro 10, except where noted):
+
+Gain corrections:
+- repaired drop outs, wows, gain fluctuations, and a few pops as follows:
+
+track 1
+- removed leading silence
+0:39.0931 - 0:39.1160, repaired wow in right channel (gain bump)
+2:08.2590 - 2:08.2790, repaired wow in left channel (cross-mix with right channel signal)
+
+track 2
+1:23.2742 - 1:23.2864 : replaced damaged left-channel with right channel signal
+1:46:1716 - 1:46.1895 : repaired wow in left channel (gain bump)
+3:12.6000 - 3:13.6082 : repaired wow in right channel (cross-mixed with left channel)
+3:35.4974 - 3:35.5084 : replaced damaged left-channel with right channel signal
+5:57.4675 - 5:57.4810 : repaired wow in left channel (cross-mixed with right-channel)
+6:37:5588 - 6:37.5682 : repaired left channel wow (cross-mixed with right-channel)
+9:36.5900 - 9:36.5995 : repaired damaged right-channel with left channel signal
+8:51.7061 - 9:51.7017 : repaired damaged right-channel with left channel signal
+
+track 3
+- attenuated microphone pop (0:17) and mic switching or line noises (0:32, 0:34-0:35)
+- repaired pop at 6:12.7574-6:12.7612
+
+Clipped Peak Restoration (Izotope RX2):
+- declipped left and right channels of all 3 tracks separately, but maintaining relative gain levels
+
+Recombined files, gain normalized to 0 dB, and re-split tracks (sbs aligned).
+
+Text updated and new FLACs and .ffp created - April 1, 2011.  (No foolin'!)
+
+Upped to DIME, April 1, 2011.

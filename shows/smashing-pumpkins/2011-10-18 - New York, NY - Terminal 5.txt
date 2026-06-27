@@ -1,38 +1,33 @@
-The Smashing Pumpkins
-Live at Terminal 5, New York, NY, US
-10-18-2011
+Smashing Pumpkins
+2011-10-18
+Terminal 5
+New York, NY  USA
 
-Source:Schoeps MK41/CMR > Naiant PFA > EAA PSP-2 > Tascam DR-680 @ 24 bit / 48 kHz
-Location : first balcony rail, DFC
-Edit : WaveLab V6 (EQ/Fades/Resampling/Dither)
-Final Format : 16 bit, 44.1 kHz
-Tracking : CD-Wave v1.98
-Encoding : FLAC v1.2.1 (Level 8) with TLH v2.6.0 (Build 168)
-Taper : pzane@hipstersunited.com
+An acidjack master recording
+Recorded and produced by acidjack for nyctaper.com
 
-intro
-Quasar
-Panopticon
-Starla
-Geek U.S.A.
-Muzzle
-Window Paine
-Lightning Strikes
-Soma
-Siva
-Oceania
-Frail and Bedazzled
-Silverfuck
-Obscured
-Pale Horse
-Thru the Eyes of Ruby
-Cherub Rock
-Owata
-My Love Is Winter
-For Martha
-encore
-Pissant
-Bullet with Butterfly Wings
+Schoeps MK41>CMC6 (DFC, PAS)>Oade M248>PCM-M10>24bit/44.1kHz WAV>Audition (amplify)>Audacity (set fades, tracking)>FLAC ( level 8 )
 
-lost original txt file, rebuild from etreedb.org
-original files -> CDR -> FLAC
+01 [intro]
+02 Quasar
+03 Panopticon
+04 Starla
+05 Geek U.S.A.
+06 Muzzle
+07 Window Paine
+08 Lightning Strikes 
+09 Soma
+10 Siva
+11 Oceania
+12 Frail and Bedazzled 
+13 Silverfuck
+14 Obscured
+15 Pale Horse
+16 Thru the Eyes of Ruby
+17 Cherub Rock
+18 Owata
+19 My Love Is Winter
+20 For Martha
+21 [encore break]
+22 Pissant
+23 Bullet With Butterfly Wings

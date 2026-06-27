@@ -1,59 +1,32 @@
 Smashing Pumpkins
-November 1st 1997
+November 1st, 1997
 Texas Motor Speedway
 Fort Worth, TX, US
 
-SOURCE (AUD#4):
-ECM-717 > TCD-D7
+taper: strtj
+source: built-in > Panasonic Walkman
+transfer: ANA-M > FLAC > CDWave (split) > FLAC
 
-TRANSFER:
-Tascam DA-20mkii > Marantz PMD670
+01. Thru the Eyes of Ruby
+02. In the Arms of Sleep
+03. The End is the Beginning is the End
+04. Eye
+05. Mouths of Babes
+06. Zero
+07. 1979
+08. Blissed and Gone
+09. Ava Adore
+10. X.Y.U.
+11. Porcelina of the Vast Oceans
+12. Bullet with Butterfly Wings
 
-GENERATION:
-DAT(1) > FLAC
+trt 63:13
 
-LENGTH:
-67:03
+SP opened for the Rolling Stones (Matchbox 20, Dave Matthews Band also on the bill
 
-SETLIST:
-01. Intro
-02. Thru the Eyes of Ruby
-03. In the Arms of Sleep
-04. The End is the Beginning is the End
-05. Eye
-06. Mouths of Babes
-07. Zero
-08. 1979
-09. Blissed and Gone
-10. Ava Adore
-11. X.Y.U.
-12. Porcelina of the Vast Oceans
-13. Bullet with Butterfly Wings
 
-NOTES:
-Thank you to our taper Bryan Freeman, to Arnold Leal for lending this DAT clone, and to Andrew Fogelsong for the transfer and raw files.
+"Everyone can stop holding their breath now, here is the absolutely awful recording of 1997.11.01 that I did:
 
-MD5 FINGERPRINTS:
-3dbbc26946b5b2cfad0b6efdce7fed4a *Smashing Pumpkins 1997-11-01 AUD4 t01 Intro.flac
-0271f75139a7d11d4a8603864cc8e837 *Smashing Pumpkins 1997-11-01 AUD4 t02 Thru the Eyes of Ruby.flac
-80580312fc3e0a14846fb2af4dd3a769 *Smashing Pumpkins 1997-11-01 AUD4 t03 In the Arms of Sleep.flac
-aaf930cbdb0739f4e923a9e53161eb3b *Smashing Pumpkins 1997-11-01 AUD4 t04 The End is the Beginning is the End.flac
-4ace31e2f8b7b12d292c745508f1fabc *Smashing Pumpkins 1997-11-01 AUD4 t05 Eye.flac
-634708797fbf8610d723ef2aa3411c31 *Smashing Pumpkins 1997-11-01 AUD4 t06 Mouths of Babes.flac
-fa65b7d84aafc702060ed38265cf2389 *Smashing Pumpkins 1997-11-01 AUD4 t07 Zero.flac
-6b527060b517f5c5b9c7760b42556bc0 *Smashing Pumpkins 1997-11-01 AUD4 t08 1979.flac
-9422ec4b54ca1d4cd457b42972598a70 *Smashing Pumpkins 1997-11-01 AUD4 t09 Blissed and Gone.flac
-3b00d891375555a9291110a3f68ee559 *Smashing Pumpkins 1997-11-01 AUD4 t10 Ava Adore.flac
-cdbd7226b8e7859eb420cfa350c9ec06 *Smashing Pumpkins 1997-11-01 AUD4 t11 X.Y.U..flac
-fa7b6c3e860da442ac13f5d23d6e7a03 *Smashing Pumpkins 1997-11-01 AUD4 t12 Porcelina of the Vast Oceans.flac
-e72c6533a27b31067ff48430c8238851 *Smashing Pumpkins 1997-11-01 AUD4 t13 Bullet with Butterfly Wings.flac
+If someone wants to split it into tracks and put it on archive.org that's fine, I really can't imagine that I would ever do it myself.
 
-RECORDED BY:
-Bryan Freeman
-
-TRANSFER BY:
-Andrew Fogelsong
-
-DISTRIBUTION:
-Nicholas Serra & Members of SPLRA
-2022-02-07
+If anyone gives a shit I think I might still have that awful Panasonic walkman somewhere so I could look up the model number, I'm pretty sure it was a dictation walkman, and I'm a little bit surprised that the recording came out as well as it did."

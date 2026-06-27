@@ -1,96 +1,51 @@
 The Smashing Pumpkins
-The Fillmore
-San Francisco, CA, US
-2007-07-28
+July 28, 2007
+The Fillmore 
+San Francisco, CA
+http://www.splra.org/wiki/index.php?title=Tsp2007-07-28
 
-Recordist    : Zero23
-Editor       : Zach Payne <pzane@hotmail.com>
-Location     : ~ 8ft, stage right stacks
-Mic Config   : Binaural
-Source       : CSB > Battery Box (120Hz LC) > R-09 @ 24bit/48kHz
-Edit         : WaveLab V5.01b (fades)
-Tracking     : CD-Wave v1.97
-Encoding     : FLAC v1.1.4 (Level 8) w/ FLAC Frontend v1.7.1
+Source: Soundboard > DAT-M > WAV-M > The Pirate Bay (one wave) > Cool Edit Pro 2.1 > WAV (Mulitple WAV Files) > Little Trader's Tool > FLAC (Level 8)
 
-Tracklist:
+Disc 1:
 
-01. Intro
-02. The Leaving Lament
+01. The Leaving Lament
+02. "Crowd Noise"
 03. Rotten Apples
-04. Peace and Love and All That Other Shit
+04. Peace and Love
 05. 99 Floors
 06. No Surrender
 07. Today
 08. 1979
 09. United States
-10. Bleeding the Orchid
+10. Bleeding the Orchid 
 11. Lucky 13
-12. (Banter)
-13. Shame
-14. Hummer
-15. Bullet with Butterfly Wings
-16. For God and Country
-17. Death from Above
-18. By Starlight
-19. To Sheila (with Linda Strawberry)
-20. Tonight, Tonight
-21. Tarantula
-22. Starz
-23. Zero
-24. Glass and the Ghost Children
-25. That's the Way (My Love Is)
-26. Superchrist
-27. Starla
-28. (Encore Call #1)
-29. Doomsday Clock
-30. Heavy Metal Machine
-31. (Encore Call #2)
-32. Zeitgeist
-33. Muzzle
-34. Outro
 
-Running Time: 2:53:39
+Disc 2:
 
-Notes:
+01. "Amp Meltdown" (Banter)
+02. Shame
+03. Hummer
+04. Bullet with Butterfly Wings
+05. For God and Country
+06. Death from Above 
+07. By Starlight (unfinished)
+08. To Sheila (with Linda Strawberry on vocals) 
+09. Tonight, Tonight
+10. Tarantula
+11. Starz
+12. Zero
 
-Two minor cuts in audience noise (R-09 filesplit performed manually):
-- Track 12 (03:08)
-- Track 31 (03:31)
+Disc 3:
 
-- Compiled for release on 2008-04-10
-- Encoded with FLAC v1.1.4 for LMA compatability
+01. Glass and the Ghost Children
+02. That's the Way (My Love Is)
+03. Superchrist
+04. Starla 
+05. Encore Break #1
+06. Doomsday Clock
+07. Heavy Metal Machine > White Rabbit [Jefferson Airplane] (tease)
+08. Encore Break #2
+09. Zeitgeist
+10. Muzzle 
 
-tsp2007-07-28.csb.t01.flac:fec68d843f845b255a8c920b2b95d801
-tsp2007-07-28.csb.t02.flac:fd992c85e4441617498221e136c991b3
-tsp2007-07-28.csb.t03.flac:4e1a0f3444d62aaaf7375f36bec9bfba
-tsp2007-07-28.csb.t04.flac:b2cc6f55e8198945535fa5d3ecc22078
-tsp2007-07-28.csb.t05.flac:667246a5b69a6a76c27ef70d5308edd9
-tsp2007-07-28.csb.t06.flac:7f672fa24ea76dd7f53ca6c1241f0dd5
-tsp2007-07-28.csb.t07.flac:f2df05f6cee15a5b3286dd90ed557135
-tsp2007-07-28.csb.t08.flac:2dbe738c6721ce54e0173a3ed37c1f57
-tsp2007-07-28.csb.t09.flac:e722d4f60f05b8a3f0df39154b2e1a4b
-tsp2007-07-28.csb.t10.flac:8fb93dec83753fa6b1ed0a5b4b2fb42d
-tsp2007-07-28.csb.t11.flac:6e788334e0b2017f22fac117fa429ac9
-tsp2007-07-28.csb.t12.flac:3c54e8f38e1431abab9337a4a2e78054
-tsp2007-07-28.csb.t13.flac:fd5fc500f90a83d0a9ddd7d11cae72d2
-tsp2007-07-28.csb.t14.flac:2d75a61eef5b1a9cbb91293eca55d23b
-tsp2007-07-28.csb.t15.flac:f01975aa53353302a93e671bda36a2ae
-tsp2007-07-28.csb.t16.flac:f2b8a32fedd68f459a3f9aea532fd5fa
-tsp2007-07-28.csb.t17.flac:d5ba7711532f5c07e32ddd1fcb810cb5
-tsp2007-07-28.csb.t18.flac:e7501c6b3d627405c848d75ecfc50b7d
-tsp2007-07-28.csb.t19.flac:0ad6919037875bdeb2a2d4fe4fcc17f9
-tsp2007-07-28.csb.t20.flac:f2b7d83caa149a21c3261587aa3b946b
-tsp2007-07-28.csb.t21.flac:d3aeacfc2e3a62eaa4001d83bafef1b5
-tsp2007-07-28.csb.t22.flac:d29afc4533338b52de36f6be58845b97
-tsp2007-07-28.csb.t23.flac:d786dc2efeff2d22ed7508b3b90215c7
-tsp2007-07-28.csb.t24.flac:abc42bfcd291853bbd4a1b4340b8b3bd
-tsp2007-07-28.csb.t25.flac:ff26f2417236780e93d501bae6c7ff7a
-tsp2007-07-28.csb.t26.flac:605185c2db6ebba15d0da1c07a93309b
-tsp2007-07-28.csb.t27.flac:4db45944891651d82210b6333ccbe503
-tsp2007-07-28.csb.t28.flac:356e62e7523a769e36341aa5ba3b9a94
-tsp2007-07-28.csb.t29.flac:75383029108d049188f1961906984f75
-tsp2007-07-28.csb.t30.flac:b0f1054af69bca7cf0fb301e45913ff0
-tsp2007-07-28.csb.t31.flac:2b6be2da54f3c0feff19a78aa711d777
-tsp2007-07-28.csb.t32.flac:44aced843bc5f666f334fbbc8bc493a5
-tsp2007-07-28.csb.t33.flac:d13fd6d02787b7e7af7ac7cacbe5401f
-tsp2007-07-28.csb.t34.flac:154b30dadc70d5e010418abe59003c49
+Originally uploaded by link343 @ The Traders Den.

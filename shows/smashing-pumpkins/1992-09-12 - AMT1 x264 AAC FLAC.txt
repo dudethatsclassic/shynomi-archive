@@ -1,0 +1,23 @@
+Smashing Pumpkins
+September 12th 1992
+Town & Country Club
+London, UK
+
+SOURCE (AMT#1):
+unknown > unknown
+
+VIDEO TRANSFER:
+Panasonic AG-1980 SVHS > Datavideo TBC-6000 > ATI TV Wonder 600 USB > VirtualDub > AviSynth 2.6.0 > x264.exe 0.155.2901 7d0ff22 > MKVToolNix GUI v46.0.0
+
+GENERATION:
+VHS(4) > AVI [UTVideo/48khz/16-Bit/PCM] > MKV [480p/x264 | AAC | FLAC]
+
+LENGTH:
+80:31
+
+MD5 FINGERPRINTS:
+915acec812fb38cca0bdbd1d077a551d *Smashing Pumpkins 1992-09-12 AMT1 x264 AAC FLAC.mkv
+
+TRANSFER & DISTRIBUTION:
+Nicholas Serra & Members of SPLRA
+2020-12-10

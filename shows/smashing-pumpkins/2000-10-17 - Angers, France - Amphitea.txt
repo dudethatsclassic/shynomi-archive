@@ -1,82 +1,34 @@
-Smashing Pumpkins
-October 17th 2000
-Amphitea
-Angers, FR
 
-SOURCE (AUD#2)
-CSBMod > M1
+2000/10/17 - Amphitea; Angers, FR 
 
-TRANSFER:
-CDR > EAC > WAV > FLAC
+CSBmod>M1
+ 
+  
+Set: 
 
-GENERATION:
-DAT(M) > CDR(X) > WAV > FLAC
 
-LENGTH:
-114:12
+The Everlasting Gaze 
+Bullet with Butterfly Wings 
+The Sacred and Profane 
+Glass and the Ghost Children 
+Cherub Rock 
+Zero 
+Rock On [Essex] 
+> Heavy Metal Machine 
+I of the Mourning 
+Today 
+Stand Inside Your Love 
+Disarm 
+Tonight, Tonight 
+Blue Skies Bring Tears 
+If There Is a God 
+Cash Car Star 
+Porcelina of the Vast Oceans 
 
-SETLIST:
-01. Intro
-02. The Everlasting Gaze
-03. Bullet With Butterfly Wings
-04. The Sacred and Profane
-05. Glass and the Ghost Children
-06. Cherub Rock
-07. Zero
-08. Rock On [Essex]
-09. Heavy Metal Machine
-10. I of the Mourning
-11. Today
-12. Stand Inside Your Love
-13. (interlude)
-14. Disarm
-15. (interlude)
-16. Tonight, Tonight
-17. (interlude)
-18. Blue Skies Bring Tears
-19. If There Is a God
-20. Cash Car Star
-21. Porcelina of the Vast Oceans
-22. (encore break)
+Encore: 
 
-ENCORE:
-23. (jamming)
-24. Ava Adore
-25. (banter)
-26. 1979
 
-NOTES:
-Thanks to traveller03 for sending over. From a unknown generation CDR provided by Simon Mifsud
-This is a lineage only upgrade on circulating DDC-? > CDR > SHN. Recording suffers from same interference present on this source
-
-MD5 FINGERPRINTS:
-18f83f9a12a5cc4043f51521f71886cf *Smashing Pumpkins 2000-10-17 AUD2 t01 Intro.flac
-520f5fff092d45f769bd1272061b3717 *Smashing Pumpkins 2000-10-17 AUD2 t02 The Everlasting Gaze.flac
-452f93c18582a3dc52949dd3ccd7709e *Smashing Pumpkins 2000-10-17 AUD2 t03 Bullet With Butterfly Wings.flac
-45aec398d4878b9006daaae5cff96693 *Smashing Pumpkins 2000-10-17 AUD2 t04 The Sacred and Profane.flac
-a584de7f70f1c99e6da37efd845ede96 *Smashing Pumpkins 2000-10-17 AUD2 t05 Glass and the Ghost Children.flac
-9b14aa85243072fd06f2c93e90a417a3 *Smashing Pumpkins 2000-10-17 AUD2 t06 Cherub Rock.flac
-8616e5524756ca7a3fa9fa0afa20008b *Smashing Pumpkins 2000-10-17 AUD2 t07 Zero.flac
-f2f899d4cbefac3a0afc0ead550e1379 *Smashing Pumpkins 2000-10-17 AUD2 t08 Rock On [Essex}.flac
-db3dcb22723eb2dbfb94554e7d8883c9 *Smashing Pumpkins 2000-10-17 AUD2 t09 Heavy Metal Machine.flac
-550994931e1022c83c3909151e473445 *Smashing Pumpkins 2000-10-17 AUD2 t10 I of the Mourning.flac
-bd970814497f456cbeb2ef4061378f8f *Smashing Pumpkins 2000-10-17 AUD2 t11 Today.flac
-8a527f133056544bfc69ea5248dbd8c2 *Smashing Pumpkins 2000-10-17 AUD2 t12 Stand Inside Your Love.flac
-6c6263a763795e0d8252507c2b1fd7fd *Smashing Pumpkins 2000-10-17 AUD2 t13 (interlude).flac
-f706aba2e142641fd8d9fba58c4cc3ac *Smashing Pumpkins 2000-10-17 AUD2 t14 Disarm.flac
-396efee6e23c0a4e06e6d02bdf3045b3 *Smashing Pumpkins 2000-10-17 AUD2 t15 (interlude).flac
-593d70236cc1544e46806063aea98c39 *Smashing Pumpkins 2000-10-17 AUD2 t16 Tonight, Tonight.flac
-82c0743ae420ab38eb08be793ea37af6 *Smashing Pumpkins 2000-10-17 AUD2 t17 (interlude).flac
-38d59903b4b37c31f02ce7ed76c321a1 *Smashing Pumpkins 2000-10-17 AUD2 t18 Blue Skies Bring Tears.flac
-3c1236ea60b7d7441dd419604d52806b *Smashing Pumpkins 2000-10-17 AUD2 t19 If There Is a God.flac
-2b76b2518247bf8d2aa9f8b57992eaac *Smashing Pumpkins 2000-10-17 AUD2 t20 Cash Car Star.flac
-de60e2953845c3bc109db952383afcf4 *Smashing Pumpkins 2000-10-17 AUD2 t21 Porcelina of the Vast Oceans.flac
-3e4b6185f2a38a17593ced05aa41c2a7 *Smashing Pumpkins 2000-10-17 AUD2 t22 (encore break).flac
-b8d36eac084fc068bbb4f6947d2fecab *Smashing Pumpkins 2000-10-17 AUD2 t23 (jamming).flac
-be83ed3dec9c56fb05deef6055bca233 *Smashing Pumpkins 2000-10-17 AUD2 t24 Ava Adore.flac
-31230dc185b967bfde37068f6fd3ffb6 *Smashing Pumpkins 2000-10-17 AUD2 t25 (banter).flac
-15b3e8da717a2571b7315da3fc52700d *Smashing Pumpkins 2000-10-17 AUD2 t26 1979.flac
-
-DISTRIBUTION:
-Spaldz, Nicholas Serra & Members of SPLRA
-2026-03-20
+Ava Adore 
+1979 
+ 
+ 

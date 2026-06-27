@@ -1,30 +1,11 @@
-SMASHING PUMPKINS
-Radio City Music Hall (MTV Video Music Awards), New York City, New York, US
-September 8th, 1994
+Smashing Pumpkins
+1994-09-08
+MTV Music Awards
+NYC, NY
+[TV] DVD NTSC
 
-DISC #1/#1 (00:00)
-----------------
-01) Disarm
+VHS-->imovie-->idvd
 
-SOURCE (SBD)
-----------------
-soundboard > unknown
+I was hesitant to put this up, then I had a couple of beers and said what the hell! This is from an old VHS tape and it shows at the beginning of the song. The very beginning of the song is cut and there's a few rough spots, nothing major, just not perfect. (Also this is from the rebroadcast of the awards later that night.) If you have a better copy, please post it. I like the electric version of Disarm and wish they would have played it more. Billy breaks a string during this performance and doesn't seem to happy about it. Good stuff!!
 
-GENERATION
-----------------
-TV > VHS(x) > DVD-R > RE-AUTHOR > DVD-R(0) [48kHz PCM] > WAV [48kHz] > WAV [44.1kHz] > FLAC [Level 8]
-
-TRANSFER
-----------------
-SUPER v.2007.bld.23 > Audacity 1.2.6 > Trader's Little Helper 2.4.1
-
-NOTES
-----------------
-* I'm not sure of the generation of the original VHS, but I would guess it's a VHS(1) or VHS(2)
-
-MD5 FINGERPRINTS
-----------------
-..
-
-Transferred by Martin Donohoe.
-Please do not encode to lossy formats and/or sell.
+Disarm (electric)

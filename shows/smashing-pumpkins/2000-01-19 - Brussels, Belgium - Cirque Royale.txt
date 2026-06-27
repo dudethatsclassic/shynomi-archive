@@ -1,18 +1,19 @@
-The Smashing Pumpkins
-2000-01-19
-Cirque Royale; Brussels, BE
+Smashing Pumpkins
+January 19th, 2000
+Ancienne Belgique
+Brussels, BE
 
-Source: CSBMod > D100 > DDC 1 (48k) > Fostex D5(Optical) > m-audio DiO 2496 > CD Wave 1.94.4 > .FLAC > dbpoweramp (downsample to wav) > CD Wave 1.94.5 > FLAC Level 8 (FLAC Frontend 1.7.1 Etree edition)
+source: AUD > MD > CDR > EAC > dEdit > FLAC
 
-Set:
-01 - Heavy Metal Machine
-02 - The Everlasting Gaze
-03 - Talking
+01. Heavy Metal Machine
+02. The Everlasting Gaze
+03. cancellation announcement
 
-Note: The concert was abandoned due to problems with Billy's voice.
+trt 13:40
 
-Do not convert this to MP3 unless its for personal use. Never trade MP3s of this show.
-Do not ever sell this show.
+* show is stopped after two songs due to Billy's voice going out
+* from the collection of PJP
+* originally came as one large file, I split via CDWave
 
-Thanks to Fares for selling the tapes, Reece for buying the tapes, Kevin for transferring them, and Ben for helping me.
-Tracked by Matt Krueger (Punkishlyevil).
+don't sell, etc
+-rhinowing

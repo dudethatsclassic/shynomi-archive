@@ -1,46 +1,30 @@
 A Perfect Circle
 March 10, 2001
-Convention Hall
-The Boardwalk
-Ashbury Park, NJ
+Convention Hall - The Boardwalk 
+Asbury Park, NJ
+
+2001, North America 
+Supported by Snake River Conspiracy
+
+SP PSB > Sony MZ R90
 
 
-Taper:		Oysterhead (Oysterhead00@hotmail.com)
-		core sound stealth cardioids > battery box > sharp md-sr60
-
-Location:	General Admission.  Second row of seats in the back, dead center.
-
-Encoding:	Oysterhead (Oysterhead00@hotmail.com)
-		sony mds-s707 > toslink > dio 2448 > soundforge > .wav > mkwact > .shn
-
-
-01.  Rehnolder Intro > Thinking Of You		9:29
-02.  Magdalena					4:17
-03.  3 Libras (Remix) 				6:23
-04.  3 Libras					3:33
-05.  Brena					4:17
-06.  Orestes (Alternate Version)		6:04
-07.  Vacant (Tapeworm Cover)			4:39
-08.  Rose					3:42
-09.  Sleeping Beauty				5:27
-10.  Shitbox					0:39
-11.  Over					4:03
-12.  Thomas					6:30
-13.  Judith					5:34
-14.  Ashes To Ashes (David Bowie Cover)		4:31
-15.  The Hollow					5:32
+Rehnolder Intro > Thinking Of You
+Magdalena 
+3 Libras (Remix)
+3 Libras 
+Brena 
+Orestes (Alternate Version)
+Vacant (Tapeworm Cover) 
+Rose
+Sleeping Beauty 
+Shitbox
+Over 
+Thomas 
+Judith 
+Ashes To Ashes (David Bowie Cover)
+The Hollow
 
 
-NOTES:  The sound at the venue was horrible and I had to do some digital editing to get
-        rid of some of the bass bouncing off of all the concrete walls.  The sound is 
-        still a little bassy, but it sounds better than it did at the show.  I also had
-        a tiny bit of clipping so I smoothed out the wav.  This was my first time ever 
-        taping and encoding a show.
-
-
-****************************************************************************************
-******************DO NOT ENCODE THIS TO MP3 OR ANY OTHER LOSSEY FORMAT******************
-*************DO NOT SELL THIS SHOW OR DO 2:1 DEALS.  FOR EQUAL TRADE ONLY.**************
-*PLEASE DISTRIBUTE THIS FILE WHEN YOU TRADE THE SHOW SO PEOPLE HAVE ALL THE SOURCE INFO*
-*******************http://www.geocities.com/Oysterhead00/SHNList.html*******************
-****************************************************************************************
+Do Not Sell
+Do Not Encode to MP3

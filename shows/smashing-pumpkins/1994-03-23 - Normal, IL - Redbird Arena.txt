@@ -1,45 +1,11 @@
+Smashing Pumpkins
+March 23rd, 1994
+Redbird Arena (Soundcheck)
+Normal, IL, US
 
+AUD>Microcassette
+ANA-1>DAT-M>CDR-?>EAC>FLAC
 
-----------------------------------------------------------------
-	Artist:			Smashing Pumpkins
-	Date:			March 23, 1994
-	Location:		Redbird Arena, Normal, IL
-	Taper:			JB
-	List:			http://home.comcast.net/~jblietz/index.htm
-	e-mail:			radioheadusa@comcast.net
-	DC++ screenname:	radiohead8989
-	date of seeding:	March 19, 2013
-----------------------------------------------------------------
-	Source Info:		>Sony D-3 DAT recorder (16bit-48kHz)
-				>ECM-S220 Mic
-				>CDWAVE 1.98
-				>FLAC (level 8)
-----------------------------------------------------------------
-	additional info:	Recorded From LB-A Row 13 Seat 1 
-----------------------------------------------------------------
-	running time:		1h:39m:44s
-----------------------------------------------------------------
-	Setlist:		01 Rocket
-				02 Quite
-				03 Today
-				04 Disarm
-				05 Snail
-				06 I Am One
-				07 Cherub Rock
-				08 Drown
-				09 Hummer
-				10 Geek USA
-				11 Soma
-				12 Siva
-				13 Encore Break
-
-				14 Starla
-				15 Spaceboy
-				17 Suffer
-				18 Silverfuck / Over The Rainbow / Jackboot
-				19 Sweet Sweet
-----------------------------------------------------------------
-Note:
-This is a 16bit / 48KHZ recording.  It cannot be burned to a cd, unless you convert it to 44.1KHZ.
-The FLAC files were created using CD Wave 1.98, and they were tested using Media Monkey 4.0.6.1501.
-This is from my master DAT recording.
+Shit quality
+Don't sell, etc
+-rhinowing

@@ -1,50 +1,18 @@
-1994.05.23  Smashing Pumpkins  "Holland 1994-1995"
-	    Pinkpop Festival, Landgraaf, Netherlands
-	    VPRO Nederland 3 Cable Television Broadcast
-	    VPRO "Lola Da Musica" Television Broadcast, aired 04mar'96
-	    Video: Pro-Shot; MPEG-2; 9.26Mbps; 4:3; 720x576 PAL; 25.00fps
-	    Audio: Dolby AC-3; 256Kbps; 48kHz
-	    Length: 34:19; 24:38
-	    VHS(M) > HDD Recorder > DVDr > VIDEO_TS
+PinkPop
+Source : AUD/VID > ? > CDR > EAC > SHN
+Flaws : 2 or 3 glitches
+Sound : a bit too bassy
+Tracklist :
 
-01 Rocket
-02 Today (cut)
-03 Disarm
-05 Hummer
-06 Drown
-07 Geek U.S.A.
-08 Silverfuck > Over the Rainbow
+1.Cherub Rock 
+2.Rocket 
+3.Today 
+4.Disarm 
+5.I Am One (with Rant) 
+6.I Am One (continued) 
+7.Drown 
+8.Hummer 
+9.Geek USA 
+10.Silverfuck 
 
-VPRO "Lola Da Musica" Television Broadcast, aired 04mar'96:
-
-09 Bullet With Butterfly Wings (cut)		Melkweg, Amsterdam, The Netherlands, 12dec'95
-10 Thru the Eyes of Ruby 			Melkweg, Amsterdam, The Netherlands, 12dec'95
-11 Today					Pinkpop, Landgraaf, The Netherlands, 23may'94
-12 Cherub Rock				Melkweg, Amsterdam, The Netherlands, 12dec'95
-13 Jellybelly				Melkweg, Amsterdam, The Netherlands, 12dec'95
-
-2.03 GB
-
-Pinkpop Notes: During the first few seconds of "Rocket" there is a presenter telling about what you can 
-see in the broadcast later that evening. "Today" is cut because the broadcast of the Pinkpop Festival 
-was interrupted for other programs. At the end of "Today" you will see the end credits of the broadcast.
-The very first notes of "Disarm" are cut. This is the way it was broadcast. The transition from "Drown"to 
-"Hummer" was edited. "Drown" was not broadcast until a few years after the festival and to make the 
-show more complete I have included it in the place where it belonged in the setlist. The Pumpkins went 
-straight into "Hummer" and a little part of that transition is missing due to the compilation of sources
-used.
-
-Lola Da Musica Notes: This is a Dutch televisions special about The Pumpkins from 1995 that first aired
-March 04, 1996. The program consists of interviews and live songs.
-
-checksums:
-b21743535aab5b6f024dbbeb08c60d4d *VIDEO_TS\VIDEO_TS.BUP
-b21743535aab5b6f024dbbeb08c60d4d *VIDEO_TS\VIDEO_TS.IFO
-dd3ed3346e9b9b2fa55bdcbc9585104c *VIDEO_TS\VIDEO_TS.VOB
-2fa025cab622181775fe7f453976a67b *VIDEO_TS\VTS_01_0.BUP
-2fa025cab622181775fe7f453976a67b *VIDEO_TS\VTS_01_0.IFO
-b3eb1f8425e30d191b8337d72a12b66d *VIDEO_TS\VTS_01_1.VOB
-bdc25583f04526e55d742a7c6a669a43 *VIDEO_TS\VTS_01_2.VOB
-ea23a73b0f552b5d4b57f0eb589a562f *VIDEO_TS\VTS_02_0.BUP
-ea23a73b0f552b5d4b57f0eb589a562f *VIDEO_TS\VTS_02_0.IFO
-98b236a7be6c7d713e07fe789af4e4fc *VIDEO_TS\VTS_02_1.VOB
+length : 51'44''

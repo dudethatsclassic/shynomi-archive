@@ -12,13 +12,12 @@ Ana2>DAT?>CDR>SHN (via the hub)
 (very beginning of show, tape flip around 45:00, last 20 minutes)
 
 01. Interview part 1 - 26:02
-02. Interview part 2 - 38:20
-03. Interview part 3 - 49:25
+02. Interview part 2 - 38:22
+03. Interview part 3 - 53:58
 
 Notes:
 Thanks to Davin for the tape. You can hear his phone call at around 24:00 in part two.
-The patch source runs noticeably fast and has a weird compressed/limited waveform. If anyone wants to attempt a speed correction, please do.
-Patch material was reduced in volume by 4.5db to match the main source.
+Patch material was reduced in volume by 4.5db to match the main source. Corrected patch speed fix by marrs-guitar.
 
 Don't sell, etc
 -rhinowing

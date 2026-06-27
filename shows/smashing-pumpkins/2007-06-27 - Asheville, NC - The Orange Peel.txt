@@ -1,22 +1,19 @@
-Smashing Pumpkins
-June 27th 2007
+The Smashing Pumpkins
 The Orange Peel
 Asheville, NC, US
+2007-06-27
 
-SOURCE (AUD#5):
-Schoeps CCM-4 > Sonosax SX-M2 > M1
+Recordist    : Zach Payne <pzane@hotmail.com>
+Location     : ~ 40 feet, stage left stack
+Mic Config   : On Stand (~9ft), DINA (17cm, 90°)
+Source       : Schoeps MK4 > Nbox+ > Edirol R-09 @ 24bit/48kHz
+Edit         : WaveLab V5.01b (fades)
+Tracking     : CD-Wave v1.97
+Encoding     : FLAC v1.1.4 (Level 8) w/ FLAC Frontend v1.7.1
 
-TRANSFER:
-Tascam DA-20mkii > Marantz PMD670
+Tracklist:
 
-GENERATION:
-DAT(M) > FLAC
-
-LENGTH:
-165:55
-
-SET ONE:
-01. Intro 
+01. Set I Intro
 02. I'm Doing the Best I Can
 03. If Only in a Dream
 04. Mama
@@ -24,82 +21,75 @@ SET ONE:
 06. Hummer
 07. Bullet with Butterfly Wings
 08. In My Body
-09. Fuck You (An Ode To No One)
+09. Fuck You
 10. Bleeding the Orchid
 11. Doomsday Clock
 12. Neverlost
 13. Lucky 13
 14. United States
-
-SET TWO:
-15. Interlude
+15. Set II Intro
 16. Tonight, Tonight
 17. Tarantula
 18. Starz
 19. Zero
 20. Starla
 21. Blue Skies Bring Tears
-22. Today
-23. 1979
-24. If All Goes Wrong
-25. Rotten Apples
-26. Thirty-three
-27. Question Mark
-28. Cherub Rock
-29. Untitled
+22. (Banter)
+23. Today
+24. 1979
+25. If All Goes Wrong
+26. Rotten Apples
+27. Thirty-three
+28. Question Mark
+29. Cherub Rock
+30. Untitled
+31. (Encore Call #1)
+32. Shame
+33. Silverfuck
+34. (Encore Call #2)
+35. With Every Light
+36. Outro
 
-ENCORE ONE:
-30. Interlude
-31. Shame
-32. Silverfuck
+Running Time: 2:48:14
 
-ENCORE TWO:
-33. Interlude
-34. With Every Light
+Notes:
 
-NOTES:
-Thank you to Josh Puckett for lending his DATs, and to Andrew Fogelsong for the transfer and raw files
-Taper switched off recording between Set One and Set Two so a couple of fades added
+- Compiled for re-release on 2008-04-08.
+- Encoded with FLAC v1.1.4 for LMA compatability
 
-MD5 FINGERPRINTS:
-ca16f4980e2717a58b57dc99aefc8213 *Smashing Pumpkins 2007-06-27 AUD5 t01 Intro.flac
-736f3fe872291ad4770cb3f660ca413b *Smashing Pumpkins 2007-06-27 AUD5 t02 I'm Doing the Best I Can.flac
-841bf0064022ffd6c08e8aa254639bab *Smashing Pumpkins 2007-06-27 AUD5 t03 If Only in a Dream.flac
-37ce742c1571344dc8ac427ca4cad210 *Smashing Pumpkins 2007-06-27 AUD5 t04 Mama.flac
-d0bc0f8bc2d5356893fa2fb3b9abc617 *Smashing Pumpkins 2007-06-27 AUD5 t05 The Aeroplane Flies High.flac
-40a32afcfe9a818c6acee5802d30bd03 *Smashing Pumpkins 2007-06-27 AUD5 t06 Hummer.flac
-5e7cf64c4544648956354fe4fa52e321 *Smashing Pumpkins 2007-06-27 AUD5 t07 Bullet With Butterfly Wings.flac
-e05ebd44a484a0ff2e32ece57ff088c4 *Smashing Pumpkins 2007-06-27 AUD5 t08 In My Body.flac
-3533963a4ca33f6479c9003612c4a5c1 *Smashing Pumpkins 2007-06-27 AUD5 t09 Fuck You (An Ode To No One).flac
-8358f09426027f051f8532150c54a4e8 *Smashing Pumpkins 2007-06-27 AUD5 t10 Bleeding the Orchid.flac
-e6910e2eb837d1093f116e18d11771b6 *Smashing Pumpkins 2007-06-27 AUD5 t11 Doomsday Clock.flac
-0ac51af7404573274ae9a3d56ac43327 *Smashing Pumpkins 2007-06-27 AUD5 t12 Neverlost.flac
-dcf225358539f3515c7b5085f0b8ad54 *Smashing Pumpkins 2007-06-27 AUD5 t13 Lucky 13.flac
-6e934f6fda20a754b3d9cf45f1aab140 *Smashing Pumpkins 2007-06-27 AUD5 t14 United States.flac
-4dc2f020961ee02d405e9769b4536b16 *Smashing Pumpkins 2007-06-27 AUD5 t15 Interlude.flac
-c4a86d053178513e82cdb281e5b71fef *Smashing Pumpkins 2007-06-27 AUD5 t16 Tonight, Tonight.flac
-0270c8c53b50314424c103b2b8b29e66 *Smashing Pumpkins 2007-06-27 AUD5 t17 Tarantula.flac
-ba7af07c66efdaabbb3142414b8e0c27 *Smashing Pumpkins 2007-06-27 AUD5 t18 Starz.flac
-3108d914a580a9e1014321a2f23ca92c *Smashing Pumpkins 2007-06-27 AUD5 t19 Zero.flac
-e2b2e95b57bbae962347e33e7ed0c60b *Smashing Pumpkins 2007-06-27 AUD5 t20 Starla.flac
-926b0a24ce483a8616f7b280753595e9 *Smashing Pumpkins 2007-06-27 AUD5 t21 Blue Skies Bring Tears.flac
-2edb17c5bc36c079306527040515657e *Smashing Pumpkins 2007-06-27 AUD5 t22 Today.flac
-2f7050d0409f87d0b744e80eb814ab04 *Smashing Pumpkins 2007-06-27 AUD5 t23 1979.flac
-9326731a06066f582676d26b2999f50e *Smashing Pumpkins 2007-06-27 AUD5 t24 If All Goes Wrong.flac
-e4b24aa6a369d68d663bbb5212998630 *Smashing Pumpkins 2007-06-27 AUD5 t25 Rotten Apples.flac
-02747a0dafa71350b6d6fdcea61f2da0 *Smashing Pumpkins 2007-06-27 AUD5 t26 Thirty-Three.flac
-ad7c596d056310b4bece50ae07b63735 *Smashing Pumpkins 2007-06-27 AUD5 t27 Question Mark.flac
-6fd981faa877c0a9a75f39a59b291c93 *Smashing Pumpkins 2007-06-27 AUD5 t28 Cherub Rock.flac
-7892f5eb583170b66f4622f21123ad30 *Smashing Pumpkins 2007-06-27 AUD5 t29 Untitled.flac
-2c7eb54fc65f321daa38b46f3bad8323 *Smashing Pumpkins 2007-06-27 AUD5 t30 Interlude.flac
-38f4f3c3a5b3d2aa7929e0a8b8600529 *Smashing Pumpkins 2007-06-27 AUD5 t31 Shame.flac
-303cad2d2a19a4c3a7c4ee95feaaa2d1 *Smashing Pumpkins 2007-06-27 AUD5 t32 Silverfuck.flac
-d0055a9047fb80f4326baac7e0fd78a5 *Smashing Pumpkins 2007-06-27 AUD5 t33 Interlude.flac
-8c4ad99f3ac21a15321dfdcdaeeac539 *Smashing Pumpkins 2007-06-27 AUD5 t34 With Every Light.flac
-
-TRANSFER BY:
-Andrew Fogelsong
-
-DISTRIBUTION:
-Spaldz & Members of SPLRA
-2022-04-26
+tsp2007-06-27.mk4.t01.flac:061e7622b1a9c2603a6c8aa34332b742
+tsp2007-06-27.mk4.t02.flac:31dbfab2d734c4f8efea2d2b5d6ee884
+tsp2007-06-27.mk4.t03.flac:2c2c097e5db4f92827e8f4c3ee2c2758
+tsp2007-06-27.mk4.t04.flac:b0216a17433c34c42255a7c0af72ad18
+tsp2007-06-27.mk4.t05.flac:decffcc5e99b7b2d77b858d0b517b9c6
+tsp2007-06-27.mk4.t06.flac:46b1dbe0e4dd787bd79317379d17b073
+tsp2007-06-27.mk4.t07.flac:b53e6731455a3ac9704208d158d3e554
+tsp2007-06-27.mk4.t08.flac:ccd29d73c99311bcf55879bdc1f7773d
+tsp2007-06-27.mk4.t09.flac:4a3e3d748514e7bfc7694822ac5cdf26
+tsp2007-06-27.mk4.t10.flac:45333305e101ed66c23867681f72989a
+tsp2007-06-27.mk4.t11.flac:d43e6eba0bd7bea5733cf6606f624298
+tsp2007-06-27.mk4.t12.flac:3401201849a5b85bf9be0a17f2abc0b3
+tsp2007-06-27.mk4.t13.flac:daa268189b55a25363fcbcb271a6b8e5
+tsp2007-06-27.mk4.t14.flac:c3229399ab7a3b2bc3753c2cbc1d7e3e
+tsp2007-06-27.mk4.t15.flac:1ed75ed9864748c9ed5423efe357b5a4
+tsp2007-06-27.mk4.t16.flac:f30fe50a16bea8bc10c7bf873e286abe
+tsp2007-06-27.mk4.t17.flac:d3cf527972cf34ac4e131d2adb1a316e
+tsp2007-06-27.mk4.t18.flac:a8a010e4e9b0ca35f34f13c1794d83e7
+tsp2007-06-27.mk4.t19.flac:0cff836cd7b089cce5a1e1edc4c206ef
+tsp2007-06-27.mk4.t20.flac:1a07f51f99abfe287f7c42e496e3592d
+tsp2007-06-27.mk4.t21.flac:01dee15a45212e6226dd551255858df3
+tsp2007-06-27.mk4.t22.flac:144b81ea6e0d2eff0830bb234ffd2f11
+tsp2007-06-27.mk4.t23.flac:8070c9b0363622882ada2a05842487ab
+tsp2007-06-27.mk4.t24.flac:9005d628134ca3c2055db9b2e75b4f45
+tsp2007-06-27.mk4.t25.flac:76f9ac1b95878a897591a626f477f321
+tsp2007-06-27.mk4.t26.flac:b169395cd2458a1f3d2d9983142431d5
+tsp2007-06-27.mk4.t27.flac:98101dabe3e0619eeede1f1390d7c368
+tsp2007-06-27.mk4.t28.flac:ca81efb657020bf6668941ceb8e9cb36
+tsp2007-06-27.mk4.t29.flac:8f2925b3d25d7600576bb1489c3a81e5
+tsp2007-06-27.mk4.t30.flac:3b3a962d60bef7bba33b054ac7c1ac81
+tsp2007-06-27.mk4.t31.flac:1bbbce492779999b30b8cf89c0286ff6
+tsp2007-06-27.mk4.t32.flac:5b032ec78d33d4ed4655339f876499b4
+tsp2007-06-27.mk4.t33.flac:1f5f75215177d5b3a656bde80726eba1
+tsp2007-06-27.mk4.t34.flac:81d403a276c177cc20ec5b80950aa882
+tsp2007-06-27.mk4.t35.flac:9fb510b554d73cd6a8995a351a5a5ef4
+tsp2007-06-27.mk4.t36.flac:547c25a4027347ef0df587756318f396

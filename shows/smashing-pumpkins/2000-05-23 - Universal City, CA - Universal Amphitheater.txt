@@ -1,36 +1,24 @@
 Smashing Pumpkins
-May 23rd, 2000
-Universal Ampitheater
-Los Angeles, California, USA
+May 23rd 2000
+Universal Amphitheater
+Universal City, CA, US
 
-Audience MD>Unknown Transfer>CDR(?)>WAV>FLAC [AUD #1]
+SOURCE (SBD#1a)
+CDNow Liquid Audio Promo CD
 
-01. Age Of Innosence - 3:38
-02. Glass And The Ghost Children (Part One) - 6:27
-03. Glass And The Ghost Children (Part Two) - 4:01
-04. The Everlasting Gaze - 3:33
-05. Heavy Metal Machine - 6:21
-06. Blew Away - 3:25
-07. Stand Inside Your Love - 3:45
-08. I Am One - 6:52
-09. I Of The Mourning - 5:43
-10. Le Deux Machina (Over PA)/To Sheila - 6:33
-11. Muzzle - 4:02
-12. 1979 - 7:02
-13. Ava Adore - 5:07
-14. Rock On [Essex] - 4:39
-15. Zero - 3:03
-16. Today - 3:38
-17. Blue Skies Bring Tears - 9:05
-18. Tonight, Tonight - 3:52
-19. Cherub Rock - 3:40
-Encore One:
-20. Blank Page - 4:00
-21. Bullet With Butterfly Wings/Once In A Lifetime [Talking Heads] - 10:41
-Encore Two:
-22. With Every Light - 4:16
-23. Mayonaise - 7:47
+TRANSFER:
+CDNow Liquid Audio Promo CD > WAV > FLAC
 
-The day of the break up announcement....a sad day in pumpkins history indeed. This is an awesome show, but this source is FLAWED. Skip at 0:27 in tEG. Clicking (sounds like from a bad cdr) before With Every Light, and there are big gaps (like 5-10 seconds) in: Tonight, Cherub Rock, Blank Page, Once In A Lifetime, and Mayonaise (and I've probably missed some). This show has probably the BEST versions of Glass And The Ghost Children and Once In A Lifetime I've ever heard, I really recommend you get the DAT source to this show to hear the full thing. It would be nice if someone could find a version of this source with known transfer/deck info too.
+GENERATION:
+LQT(M) > WAV > FLAC
 
-Seeded to the SP hub 2005/09/07 by rhinowing
+LENGTH:
+15:51
+
+SETLIST:
+01. Heavy Metal Machine
+02. Blue Skies Bring Tears
+
+MD5 FINGERPRINTS:
+6117833d685e445e73f7fda417aa8c41 *Smashing Pumpkins 2000-05-23 SBD1a t01 Heavy Metal Machine.flac
+1d0e77b13a11d16890f052e5a7ae1f39 *Smashing Pumpkins 2000-05-23 SBD1a t02 Blue Skies Bring Tears.flac

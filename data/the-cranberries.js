@@ -60,7 +60,7 @@ const ARTIST_DATA = {
       "notes": "Maide",
       "version": "FM",
       "format": "FLAC",
-      "textFile": "1992-02-16 - London, United Kingdom - The John Peel Session - Maida Vale 4 Studio [FM].txt"
+      "textFile": "1992-02-16 - The John Peel Session, Maida Vale Studio 4, London, UK [FM].txt"
     },
     {
       "year": 1993,
@@ -74,7 +74,7 @@ const ARTIST_DATA = {
       "notes": "",
       "version": "FM",
       "format": "FLAC",
-      "textFile": "1993-05-03 - Paris, France - Studio 105 [FM].txt"
+      "textFile": "1993-05-03 - Black Session, Studio 105, Paris, France [FM].txt"
     },
     {
       "year": 1993,

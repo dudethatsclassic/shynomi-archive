@@ -1,22 +1,42 @@
-tsp1996-05-20d01t01.flac:d55e62e3222caf34925262913ad3fa04
-tsp1996-05-20d02t08.flac:203e16ceb18f78241d5ce5c198d5f1c6
-tsp1996-05-20d01t02.flac:7337741215db11c92e40f2b0b222f9ef
-tsp1996-05-20d01t03.flac:ceb1e6611cffda11265cac8952a11ac5
-tsp1996-05-20d01t04.flac:3f82a9a7c556470adbfdf0c1f902a04a
-tsp1996-05-20d01t05.flac:0c14a41f83d07ce52ea7653da446e338
-tsp1996-05-20d01t06.flac:4c638dbebee19f1efbcb7d957eb3b75e
-tsp1996-05-20d01t07.flac:aabca7b5cf83c11601641bc20cf50f17
-tsp1996-05-20d01t08.flac:7bdfff3c47c12467e081195d2d934bb6
-tsp1996-05-20d01t09.flac:7beaa2a5c17796d5f8f38d2f4c2a33bb
-tsp1996-05-20d01t10.flac:2da1f0425ff364e1cb6e2fe4f7a56a09
-tsp1996-05-20d01t11.flac:7c1ba91e9d20ecb69b142ac2b410b925
-tsp1996-05-20d01t12.flac:8ddcd763e5315a4e46af4f6203238612
-tsp1996-05-20d01t13.flac:3a79a1719b7ddcb3775dd1ce478bd8e4
-tsp1996-05-20d01t14.flac:6e0ad17f3e0f99b06782301e9e54b3d0
-tsp1996-05-20d02t01.flac:03a42675190901f1246a499177844d37
-tsp1996-05-20d02t02.flac:8174892161214b29d0525b9252ea3cee
-tsp1996-05-20d02t03.flac:df0bfef4b511f72e5c656bf2bdc5bb57
-tsp1996-05-20d02t04.flac:df7d952656c4fecde87a59dc6add364a
-tsp1996-05-20d02t05.flac:9cc7a58a03a3897d4b49f3d85d4225e3
-tsp1996-05-20d02t06.flac:233d2b29989675f20df714a7770cea8b
-tsp1996-05-20d02t07.flac:36849d634d9226ac6c4b71deb539781c
+Smashing Pumpkins
+May 20th, 1996
+Hordern Pavilion
+Sydney, NSW, AU
+
+Source: Unknown
+Transfer: ANA-2>Sony TC-WE825S>Tascam DA-20MKii(A>D @ 44.1kHz)>Monster coax>Delta Dio 2496
+Editing: Cool Edit Pro 2.1 (recording), CDWave (splits), TLH (FLAC level 8)
+
+01. Mellon Collie and the Infinite Sadness (PA intro) - 1:36
+02. Tonight, Tonight - 4:15
+03. Zero - 2:23
+04. Fuck You - 4:26
+05. Here is No Why - 4:52
+06. To Forgive - 3:47
+07. Today - 3:02
+08. Geek U.S.A. - 5:24
+09. Thru the Eyes of Ruby - 7:34
+10. > By Starlight - 5:38
+11. Disarm - 3:17
+12. Bullet with Butterfly Wings - 5:55
+13. Cherub Rock - 4:48
+14. Porcelina of the Vast Oceans > Rocket (tease) - 10:04
+15. encore break - 3:15
+Encore One:
+16. 1979 - 4:08
+17. banter - 5:05
+18. X.Y.U. - 9:16
+Encore Two:
+19. banter - 1:37
+20. Mayonaise - 6:06
+Encore Three:
+21. Bodies - 3:59
+22. Silverfuck - 27:20
+23. Farewell and Goodnight - 3:59
+
+-astoundingly bad recording
+-cool extended interlude during Bullet with Butterfly Wings
+-sounds like one of those weird Siamese Dream effects tapes gets played during the banter before X.Y.U.
+
+Tapes from D4 via Thom, transfer by Andrew, tracking/upload by rhinowing
+Don't sell, etc

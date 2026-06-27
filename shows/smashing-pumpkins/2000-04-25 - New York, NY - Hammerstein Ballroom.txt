@@ -1,42 +1,45 @@
+
 The Smashing Pumpkins
-04/25/2000
-Hammerstein Ballroom
-New York City, NY
+Hammerstein Ballroom: New York, NY
+April 25, 2000
 
-Taper:            David Fresko
-Source:           DSM-6S > PA-6LC3 > M1
-Conversion:       DDC-2 > Sony PCM-M1 > 7-pin to coax > Delta Dio 2496 > Adobe Audition 2.0
-Editor:           Andrew Fogelsong
-Editing:          downsampled from 48kHz to 44.1kHz, hard limiting(+3dB)
-FLAC:             master wav's > CD Wave Editor 1.95.1 > FLAC (level 8)
-Notes:		  recording volume increase and decrease during Pale Scales, two blips and 
-		  recording volume increase during Heavy Metal Machine, dropout in Blank
-		  page.
+Source: SS DSM6s/L > PA6LC3(65) > Sony TCD-D100 @ 48kHz
+Location: FOB 40-50' back, left-center
+Transfer: DAT Master > Tascam DA-20 > M-Audio MicroTrack II > Audacity > CDWave > FLAC Frontend
+Taper: tapeworm(48) 
 
-********************************************************************************
-	                    SPREAD THE MUSIC
-********************************************************************************
+Setlist:
 
-Disc One
-1. Pale Scales
-2. The Everlasting Gaze
-3. Heavy Metal Machine
-4. Age of Innocence
-5. Glass and the Ghost Children
-6. Blew Away
-7. Stand Inside Your Love
-8. This Time
-9. I of the Mourning
-10. To Sheila
-11. Disarm
-12. Try, Try, Try
+01 Intro
+02 Pale Scales
+03 The Everlasting Gaze
+04 Heavy Metal Machine
+05 Age of Innocence
+06 Glass and the Ghost Children
+07 Blew Away
+08 Stand Inside Your Love
+09 This Time
+10 I of the Mourning
+11 Le Deux Machina
+12 To Sheila
+13 Disarm
+14 Try, Try, Try
+15 Ava Adore
+16 Rock On [Essex]
+17 Zero
+18 Today
+19 Blue Skies Bring Tears
+20 Cherub Rock
+21 -encore break-
+22 Blank Page 
+23 Bullet With Butterfly Wings >
+24 Jam (Once in a Lifetime [Talking Heads])
 
-Disc Two
-1. Ava Adore
-2. Rock On [Essex]
-3. Zero
-4. Today
-5. Blue Skies Bring Tears
-6. Cherub Rock
-7. Blank Page (beginning cut)
-8. Bullet with Butterfly Wings > Once in a Lifetime [Talking Heads]
+Notes: Transferred from the DAT master in 2018. Applied envelope tool to bring down levels during first track, as well as click removal throughout. Amplified entire file by +2.0dB. Raw transfer with no fades or EQ.
+
+Archive: Master DAT was transferred @ 48kHz and FLAC'd with cue sheet. 
+
+Taped and transferred by tapeworm(48) 
+Txt file compiled on 5/5/2018
+
+*** DO NOT DISTRIBUTE IN LOSSY FORMATS. DO NOT SELL THIS RECORDING, TRADE IT FREELY *** 

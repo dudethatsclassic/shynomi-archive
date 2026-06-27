@@ -1,61 +1,17 @@
-Smashing Pumpkins
-July 10th, 1996
-USAir Arena
-Landover, MD, US
-
-source: AUD > DAT (listed as DSM-6S > D7)
-lineage: DAT > standalone burner (tracked on the fly) > CDR > SHN > dEdit > FLAC
-taper: unknown
-
-this had been circulating as an SHN fileset with the following lineage:
-07.10.96 USAir Arena; Landover, MD, US                  -    2/    aud>dat      D7/SS>DSM-6
-
-[the original text file is included here for posterity]
-
-thanks to Deadmarsh for pointing out that despite carrying the same rig info, this version actually sounds better than the spoogles DSM-6S > D7 tape at archive.org
-upon further examination I discovered differences in the crowd noise (notably right at the start of the show) and a tape pause after Cherub Rock that isn't present on the other version
-
-I cannot detect a tape flip at any of the usual spots (45, 50, 55, 60 minutes) so I do not believe this to be an analog recording, which rules out the CSB > D6 rig as being the source for this
-you can also hear skips / flutter as the taper's DAT runs out at the 120 minute mark, missing the bands final thank-you (missing roughly 60 seconds compared to the spoogles version)
-
-so, it's possible that this is the ECM-909A > D8 source, or there could also have been two people running DSM-6 > D7 rigs at this show (a pretty common stealth setup in the mid-90s)
-
-track splits were obviously done on the fly during the transfer, and a cut / repeat at the 72 minute mark (ie the CD change for 74 minute media) seems to confirm a standalone burner as the transfer device
-I recombined this into a single WAV file with Audacity, cleaned up the cut / repeat and retracked it with CDWave
-
-thanks to the original taper, whoever they may be
-
-01. Mellon Collie and the Infinite Sadness (PA intro)
-02. Tonight, Tonight
-03. Zero
-04. Fuck You (An Ode to No One)
-05. To Forgive
-06. Today
-07. Thru the Eyes of Ruby
-08. > By Starlight
-09. Disarm
-10. Bullet with Butterfly Wings
-11. Siva
-12. Porcelina of the Vast Oceans > Beautiful (one verse) > Rocket (tease)
-13. Cherub Rock
-
-14. In-A-Gadda-Da-Vida [Iron Butterfly] (tease)
-15. X.Y.U.
-16. 1979
-
-17. Silverfuck
-
-[[Silverfuck contains teases / riffs from X.Y.U., Space Jam, Eye, The End [Doors], Dose [Filter], Star Spangled Banner, Jellybelly (old version), You Are My Sunshine [Johnny Cash] and Hava Nagila]]
-
-trt 119:55
-
-Billy Corgan - guitar, vocals
-James Iha - guitar
-D'arcy Wretzky - bass, backing vocals
-Jimmy Chamberlin - drums
-Jonathon Melvoin - keyboards, drums / percussion on Silverfuck
-
-Jonathon Melvoin's last performance
-Jimmy's last show with SP until 1999-04-10
-
--rhinowing
+ 
+tsp1996-07-10d1t01.flac:5243fe52be8983df2839e1b7d66d0fb0
+tsp1996-07-10d1t02.flac:694464f0a691874614229e5b55cb07ce
+tsp1996-07-10d1t03.flac:58bb23874497324042e72aa717bcfdbe
+tsp1996-07-10d1t04.flac:3f181eb00ead2505a176b9240afc2bd5
+tsp1996-07-10d1t05.flac:1866e7eca187161ae0c0aa32339f45c4
+tsp1996-07-10d1t06.flac:66844bb2e630c573524275374dec4034
+tsp1996-07-10d1t07.flac:430a20a3ac03ade99fcdaecf0a1f45cf
+tsp1996-07-10d1t08.flac:ac1598fd7d9c8f6c08ed9c80518cbb24
+tsp1996-07-10d1t09.flac:8e9be21af527f7dc07ba45e087e6a580
+tsp1996-07-10d1t10.flac:660521db844d3e1ca6804d33fc8b8c80
+tsp1996-07-10d1t11.flac:8429c11cb77f5801205322c1c5d94842
+tsp1996-07-10d1t12.flac:77a6addac5974e14a4b9c90c2012f464
+tsp1996-07-10d2t01.flac:c123550a9dc2c160d7a3a5dc2ac580b4
+tsp1996-07-10d2t02.flac:c4e48eb782483d0f756540b468d83f79
+tsp1996-07-10d2t03.flac:4e9b5749d94ee14599bf6e0f53386ec3
+tsp1996-07-10d2t04.flac:e424403f4b64344583b8d9962740f921

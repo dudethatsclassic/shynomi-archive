@@ -1,30 +1,47 @@
-The Smashing Pumpkins
-Muziekcentrum Vredenburg, Utrecht, The Netherlands
-January 24, 2000
+Smashing Pumpkins - 2000/01/24 - Muziekcentrum Vredenburg, Utrecht, Netherlands, Europe
 
-1. The Everlasting Gaze (4:08)
-2. Age Of Innocence (3:44)
-3. Blue Skies Bring Tears (5:15)
-4. Glass And The Ghost Children (10:29)
-5. I Am One (7:49)
-6. Rock On [Essex] (6:01)
-7. Zero (3:21)
-8. Band Intro (0:54)
-9. To Sheila (6:58)
+TV > VHS (1st Gen) > VHS Recorder Panasonic Hi-Fi Stereo NV F-55 > Conceptronic Home Video Creator > Nero Vision > DVD > Hard Drive > Trader's Little Helper v2.6.0 (Build 168)
 
-Total running time: 48 minutes and 39 seconds.
 
-Taken from the Dutch VPRO "Het Lek" Radio 3FM broadcast, February 18, 2000.
 
-Source and lineage (taped and transferred by Magnix): FM cable > Tape > WAV > FLAC level 8.
 
-Note: There's a sort of skip during the band introduction, just before the next song is played. This is already present on the original tape, so it most probably has been broadcast like that as well.
+01 Pale Scales
+02 The Everlasting Gaze
+03 Heavy Metal Machine
+04 Age Of Innocence
+05 Blue Skies Bring Tears
+06 Glass And The Ghost Children
+07 I Am One
+08 Rock On (Essex)
+09 Zero
+10 Introductions
+11 Stand Inside Your Love
+12 To Sheila
+13 Ava Adore
+14 Cherub Rock
+15 I Of The Mourning
+16 1979
+17 The Tale Of Dusty And Pistol Pete
+18 Tonight, Tonight
+19 Glass Theme
+20 Bullet With Butterfly Wings
+21 X.Y.U.
+22 Untitled (We Love You)
 
-Used software: CDWave v1.94.5 > Cool Edit Pro v2.00 > CDWave v1.98 > FLAC v1.2.1 as build in Traders Little Helper v2.4.1 (build 160).
 
-Another tape from the Magnix Live Archive.
+Duration: 2.07.57
 
-Magnix,
-July/September/November 2009.
 
-Uploaded to DIME on April 21, 2017 by Magnix.
+
+
+Notes:
+
+* All credits to the original creators *
+
+MPEG-2 / 720x576 (PAL) / 4:3
+0xbd (0x80): 48000Hz 192 kb/s tot, stereo (2/0)
+
+
+
+
+Seeded to Zomb Torrents 19/3/2011 by daZeychain

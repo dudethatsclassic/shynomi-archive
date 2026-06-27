@@ -1,80 +1,59 @@
-Smashing Pumpkins
-1992-08-05 - Washington Square; Miami, FL, US
+1992/08/05 - Washington Square; Miami, FL, US 
 
-VHS(2)>MPEG2(lpcm audio)>WAV>Sound Forge>shntool fix>FLAC
+SP's 2nd show ever in Florida.
 
-Disarm
-Hello Kitty Kat
-Bury Me
-Luna
-Tristessa
-Rocket
-Window Paine
-Snail
-Siva
-Drown
-  Slunk (tease)
+ANA(?)>WAV>FLAC
+
+ *inc. Hummer missing from my copy.*
+It also looks like Slunk is cut into I Am One..
+ if anyone has a complete and better copy of this show please share! :)
+ 
+  
+Set: 
+
+
+Disarm 
+Hello Kitty Kat 
+Bury Me 
+Luna 
+Tristessa 
+Rocket 
+Window Paine 
+Snail 
+Siva 
+Drown 
+Slunk   (tease) 
 I Am One 
-Offer Up
-Silverfuck
-  When You Wish Upon a Star [Washington/Harline] (tease) 
-Hummer 
+Offer Up 
+Silverfuck 
+> When You Wish Upon a Star [Washington/Harline]   (tease) 
+**Hummer 
 
-Show has a little bit of a vhs hiss in it, but i didnt want to remove
-it. This is an upgrade of the current release of this show.  The video 
-is the center shot source.  The audio has more bass than the one that is
-currently out there.
+ 
+Src Fmt Pos Len Equipment 
+AUD (ana) - 100m - 
+AUD (vid) - 65m - 
+Incomplete. 
+AUD (vid) - 65m - 
+Incomplete. 
+AUD (vid) - 100m - 
+center 
+AUD (vid) side 100m - 
+right 
 
-This is a great show. It is the pumpkins second show in Miami.  The camera 
-man gets hassled at one point so they say he is filming it for the band. 
-All in all a great show.
+ 11.Slunk.flac:17aeb3dee87acdc64c034f116b25dcde
+10.Drown.flac:ebaafd0683ec4b223b358974cc04cb64
+09.Siva.flac:20f279ccbdf15e460158d42021fb310a
+08.Snail.flac:f7ff5d31aa3342582e650aad92828244
+07.Window Paine.flac:b2bde27b4372c4868455482f673e54a5
+06.Rocket.flac:c80df9c27780b8658fd9cf964db1a01e
+05.Tristessa.flac:a7db44dde8c26c87940ad8f55fcb1938
+04.Luna.flac:ecf982dd1df19bc7e0f68cc64243b032
+03.Bury Me.flac:6127605cbf9c934464f3adc98c109452
+02.Hello Kitty Kat.flac:217082227d052e526db7f519f82d4d04
+01.Disarm.flac:51785e8b6cadc4d6510319f8e50f5884
+14.Silverfuck (cut at end).flac:86b7cff4cc4352e2543f1df09bfa4e2b
+13.Offer Up.flac:8e244ecafe5ed8a402cfd3982977d9c0
+12.I Am One.flac:cd66a50be1aa3c304c0666e31844ad65
 
-The tape was provided by dsheinem (many thanks to dave!!!).  The video
-will follow eventually.
-
-enjoy
-
--Frank Claycomb
-aka Syco54645
-
-Admin of splra.org
-
-Uploaded to ttd by Frank Claycomb on 2-26-2006
-
-
-tsp1992-08-05-amt1audio-d1-t01.flac:f45d82f3599965eabaed737637ec68c9
-tsp1992-08-05-amt1audio-d1-t02.flac:77562646a071d11fab32aef32ec9dd00
-tsp1992-08-05-amt1audio-d1-t03.flac:64f5aadc8e1557cec54e3e34081136a4
-tsp1992-08-05-amt1audio-d1-t04.flac:0446bb7c9bc1b9f4946483f78689049c
-tsp1992-08-05-amt1audio-d1-t05.flac:7149daa110583f6a71cb81e4f100c346
-tsp1992-08-05-amt1audio-d1-t06.flac:c96c969587036537bcfe30c0d3114141
-tsp1992-08-05-amt1audio-d1-t07.flac:a2012b81d7b31e1bb8b3c929337fbfe5
-tsp1992-08-05-amt1audio-d1-t08.flac:032c4b3b52ca066ec341fa6b1075b3ad
-tsp1992-08-05-amt1audio-d1-t09.flac:9d88ec93ee73340763d67312c2971f75
-tsp1992-08-05-amt1audio-d1-t10.flac:cb22c35b525bc00cdd4fd39855748d08
-tsp1992-08-05-amt1audio-d1-t11.flac:d45156cef8bc09445453e77488174fcf
-tsp1992-08-05-amt1audio-d1-t12.flac:b74018ec00bd549408e7727355e57610
-tsp1992-08-05-amt1audio-d2-t01.flac:4d271b8a22196b1d417510845d75f835
-tsp1992-08-05-amt1audio-d2-t02.flac:6fef7375e5da89b7f4ce05876e1144a4
-
-
-This is just to show that the wavs passed the sector boundary test
-
-frank@Behemoth:~/Desktop/tsp1992-08-05$ shntool len *.wav
-    length     expanded size   cdr  WAVE problems filename
-     3:42.62       39306668    ---   --   -----   tsp1992-08-05-amt1audio-d1-t01.wav
-     4:22.54       46343852    ---   --   -----   tsp1992-08-05-amt1audio-d1-t02.wav
-     4:14.09       44826812    ---   --   -----   tsp1992-08-05-amt1audio-d1-t03.wav
-     3:58.70       42147884    ---   --   -----   tsp1992-08-05-amt1audio-d1-t04.wav
-     3:32.23       37450940    ---   --   -----   tsp1992-08-05-amt1audio-d1-t05.wav
-     5:31.33       58466060    ---   --   -----   tsp1992-08-05-amt1audio-d1-t06.wav
-     7:08.53       75623900    ---   --   -----   tsp1992-08-05-amt1audio-d1-t07.wav
-     8:31.50       90258044    ---   --   -----   tsp1992-08-05-amt1audio-d1-t08.wav
-     9:18.57       98565308    ---   --   -----   tsp1992-08-05-amt1audio-d1-t09.wav
-     9:01.33       95510060    ---   --   -----   tsp1992-08-05-amt1audio-d1-t10.wav
-     4:43.04       49930652    ---   --   -----   tsp1992-08-05-amt1audio-d1-t11.wav
-     3:27.14       36547772    ---   --   -----   tsp1992-08-05-amt1audio-d1-t12.wav
-    14:04.47      148992188    ---   --   -----   tsp1992-08-05-amt1audio-d2-t01.wav
-     9:32.53      101025500    ---   --   -----   tsp1992-08-05-amt1audio-d2-t02.wav
-    91:10.37      964995640 B                     (totals for 14 files, 1.0000 overall compression ratio)
-
+ 

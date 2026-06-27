@@ -1,58 +1,20 @@
-Smashing Pumpkins
-Ft.Worth, TX
-Will Rogers Auditorium
-10 July 1998
-
-Recording info:
-Sonic Studios[DSM6S]>PA6LC3(-30)>D7
-
-Taping Location:
-SEC RT/CTR, ROW EE, SEAT 8
-
-Transfer info:
-Master DAT(48,32*)>Sony 59ES>HHB CDR-850 via digital coax>CDR>EAC[secure]>CD Wave (tracking)>Trader's Little Helper (flac[Level 8])
-
-* When I realized I was running out of tape I switched to LP mode to try and get as much as I could.  This starts right before 1979.
-
-CMM-065 (Chris Milazzo Master)
-
-Disc1:
-[01] [00:38] Intro
-[02] [05:51] To Sheila
-[03] [05:03] Behold! the Night Mare
-[04] [05:07] Pug
-[05] [04:10] Crestfallen
-[06] [06:01] Ava Adore
-[07] [04:41] Daphne Descends
-[08] [02:49] Appels + Oranjes
-[09] [04:05] Annie-Dog
-[10] [04:06] Perfect
-[11] [09:25] Tear
----------------------------------------------------
-TT:  [52:02]
-
-Disc2:
-[01] [01:36] Intro
-[02] [05:12] Tonight, Tonight
-[03] [04:04] Once Upon a Time
-[04] [04:38] The Tale of Dusty and Pistol Pete
-[05] [10:32] Bullet with Butterfly Wings
-[06] [08:44] Shame
-[07] [04:48] For Martha
-[08] [01:04] (encore break/intro)
-[09] [04:52] 1979
-[10] [09:20] Blank Page
-[11] [09:22] Transmission [Joy Division]
----------------------------------------------------
-TT:  [67:20]
-
-Ticket scan included.
-
-No remastering was done do this recording.
-
-I think the last song is missing the last 10 minutes - I had run out of tape.  There is some talking cut during track 8 on disc 2 - again, trying to conserve tape.
-
-No artwork - please share if you create some!
-
-First Torrented 21 December 2006.
-Seed #65 from my master collection.
+tsp1998-07-10d1t01.flac:b996800ede4e6277a71a293abdaf808c
+tsp1998-07-10d1t02.flac:592695cf9469b2fe2a9d4abe50acd431
+tsp1998-07-10d1t03.flac:bb31c85f718f4f1912508dfbb312d6e4
+tsp1998-07-10d1t04.flac:dbf33d4818a791a058c3172378b82fe0
+tsp1998-07-10d1t05.flac:87068da6126012d4c86172202d831005
+tsp1998-07-10d1t06.flac:a024730d340f04ebdc62a33b198b3ca3
+tsp1998-07-10d1t07.flac:dbcf53b520ecec563be62b3e001dcedb
+tsp1998-07-10d1t08.flac:28191f793e019accef1bf18648a419ce
+tsp1998-07-10d1t09.flac:059ee6ddac5546d5153b56c86f5df48f
+tsp1998-07-10d1t10.flac:102e0d64faa41922607cc9d16b8e5ace
+tsp1998-07-10d1t11.flac:d0074ff2832340334e2a1af840d4f665
+tsp1998-07-10d1t12.flac:2be16cd50b959c80a856ee0b0fb0d539
+tsp1998-07-10d1t13.flac:cdedfb48e7bfc924b89d85374a87ae80
+tsp1998-07-10d2t01.flac:4ccaabfc53492b7bbada32bdb3defb86
+tsp1998-07-10d2t02.flac:76f78825e1028f9fe8825d301ff54b69
+tsp1998-07-10d2t03.flac:6564508222c8f4201f9264a97896a055
+tsp1998-07-10d2t04.flac:d414fc685e61902a7a1cca7556dc941f
+tsp1998-07-10d2t05.flac:735ae8b3604b5717b599c62a37f3476c
+tsp1998-07-10d2t06.flac:11074bb8089a4ddd3f41315647175d1f
+tsp1998-07-10d2t07.flac:559adbafa603e895abaf8cb97763de53

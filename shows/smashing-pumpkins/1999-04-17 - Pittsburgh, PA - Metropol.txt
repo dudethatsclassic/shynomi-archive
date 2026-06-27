@@ -1,88 +1,40 @@
-Smashing Pumpkins
-April 17th 1999
-Metropol
-Pittsburgh, PA, US
+The Smashing Pumpkins
+Metropol - Pittsburgh, PA
+April 17, 1999
 
-SOURCE (AUD#2)
-CSBMod > Sony TCD-D8
+Source:     Schoeps CCM4 > MV-100 > SBM1 > D8
+Conversion: DAT? > CDR1 > SHN
 
-TRANSFER:
-Tascam DA-20mkII > Apogee S/PDIF cable > PreSonus FireStudio Project > Adobe Audition 3.0 > Trader's Little Helper 2.7.0
+		
+Disc One:
 
-GENERATION:
-DAT(2) [48kHz] > WAV [48kHz] > FLAC [Level 8]
-
-LENGTH:
-111:04
-
-SETLIST:
-01. Intro
-02. I Am One
-03. Zero
-04. Pug
-05. La Dolly Vita
-06. Wound
-07. Blue Skies Bring Tears
-08. Cash Car Star
-09. Glass' Theme
-10. The Imploding Voice
-11. Stand Inside Your Love
-12. Glass and the Ghost Children
+01. I Am One
+02. Zero
+03. Pug
+04. La Dolly Vita
+05. Wound
+06. Blue Skies Bring Tears
+07. Cash Car Star
+08. Glass' Theme
+09. Virex
+10. Stand Inside Your Love
+11. Glass + The Ghost Children 1
+12. Glass + The Ghost Children 2
 13. Dross
 14. Speed Kills
 15. Ava Adore
 16. Today
-17. (encore break)
 
-ENCORE ONE
-18. Muzzle
-19. Soma
-20. (encore break)
 
-ENCORE TWO
-21. Home
-22. If There Is a God
-23. With Every Light
-24. (encore break)
+Disc Two:
 
-ENCORE THREE
-25. Geek U.S.A.
+01. Muzzle
+02. Soma
+03. talking
+04. Home
+05. If There Is a God
+06. With Every Light
+07. Geek USA
 
-NOTES:
-DAT(X)>CDR to DAT(2) upgrade
-
-Thank you to Mike Ziegler for the recording and to Matt Reeder for analysis.
-
-MD5 FINGERPRINTS:
-4cc3c25b34dd861f53cd550180995fd2 *Smashing Pumpkins 1999-04-17 AUD2 t01 Intro.flac
-becfb000680e72401e8d319129ed4d84 *Smashing Pumpkins 1999-04-17 AUD2 t02 I Am One.flac
-b44cea1792ed029e0dc382a195b8fc03 *Smashing Pumpkins 1999-04-17 AUD2 t03 Zero.flac
-e6d0022a391bd0d1d0594aa2161cc88a *Smashing Pumpkins 1999-04-17 AUD2 t04 Pug.flac
-428a65dd8e04204077fb0df838591029 *Smashing Pumpkins 1999-04-17 AUD2 t05 La Dolly Vita.flac
-049a6525f2fa53be7ec68e8bf566be00 *Smashing Pumpkins 1999-04-17 AUD2 t06 Wound.flac
-5a9b994f68142aa0d7156c852c8f29ac *Smashing Pumpkins 1999-04-17 AUD2 t07 Blue Skies Bring Tears.flac
-ef94b43420854f9eba57e9cab6750c48 *Smashing Pumpkins 1999-04-17 AUD2 t08 Cash Car Star.flac
-3e691fba0a0b6d303c91881fcf6c9360 *Smashing Pumpkins 1999-04-17 AUD2 t09 Glass' Theme.flac
-a533f33323b1e65423aef932969fcc47 *Smashing Pumpkins 1999-04-17 AUD2 t10 The Imploding Voice.flac
-ea262f8c89ad3434db64b457a9033b24 *Smashing Pumpkins 1999-04-17 AUD2 t11 Stand Inside Your Love.flac
-5d106d4ca0a018cca763033ca37bab16 *Smashing Pumpkins 1999-04-17 AUD2 t12 Glass and the Ghost Children.flac
-442636712be367d28a58c73a45a8885b *Smashing Pumpkins 1999-04-17 AUD2 t13 Dross.flac
-436e92be9fe64da0dedd9c25b7f44e32 *Smashing Pumpkins 1999-04-17 AUD2 t14 Speed Kills.flac
-08ec9bb9981f8ee74cba7d65ba78822c *Smashing Pumpkins 1999-04-17 AUD2 t15 Ava Adore.flac
-62466c9d1fce1e6397ae37221af938fd *Smashing Pumpkins 1999-04-17 AUD2 t16 Today.flac
-8c3ad71da688e3a9e0c30c0812aea16e *Smashing Pumpkins 1999-04-17 AUD2 t17 (encore break).flac
-400cb0606014146b9489b72147cd5aab *Smashing Pumpkins 1999-04-17 AUD2 t18 Muzzle.flac
-3937632bb232397f0e59112e0e7af41c *Smashing Pumpkins 1999-04-17 AUD2 t19 Soma.flac
-b6d554688e354ee954db35dbce2daf38 *Smashing Pumpkins 1999-04-17 AUD2 t20 (encore break).flac
-b1c2b8f756567eac88e090991eb5850a *Smashing Pumpkins 1999-04-17 AUD2 t21 Home.flac
-3d6d00e7225ec4ad36c52ae3d638e44d *Smashing Pumpkins 1999-04-17 AUD2 t22 If There Is a God.flac
-306cb5426e9a51e9d1742c430f10ec10 *Smashing Pumpkins 1999-04-17 AUD2 t23 With Every Light.flac
-ac877991d8e1bc074e6ed860a0134c31 *Smashing Pumpkins 1999-04-17 AUD2 t24 (encore break).flac
-b6bf774304ef99b5076e125cfaeff700 *Smashing Pumpkins 1999-04-17 AUD2 t25 Geek U.S.A..flac
-
-TRANSFER BY:
-Mike Ziegler
-
-DISTRIBUTION:
-Nicholas Serra, Spaldz & Members of SPLRA
-2025-01-10
+06. With Every Light
+07. Geek USA

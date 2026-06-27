@@ -1,82 +1,27 @@
-Smashing Pumpkins
-April 9th 1996
-KB Hallen
-Copenhagen, DK
 
-SOURCE (AUD#1)
-Sony ECM-155 > Sony TCD-D7
+1996/04/09 - KB Hallen; Copenhagen, DK 
+ 
+Tonight, Tonight 
+Zero 
+Fuck You 
+Today 
+To Forgive 
+Bullet with Butterfly Wings 
+Thru the Eyes of Ruby 
+Porcelina of the Vast Oceans 
+Disarm 
+Jellybelly 
+Cherub Rock 
+Muzzle 
+1979 
+X.Y.U. 
+Mayonaise 
+By Starlight 
+Silverfuck 
+Farewell and Goodnight 
 
-TRANSFER:
-Tascam DA-20mkII > Apogee S/PDIF cable > PreSonus FireStudio Project > Adobe Audition 3.0 > Trader's Little Helper 2.7.0
+ 
+ECM-155 > D7 > CDR(?)> EAC > SHN
+  
 
-GENERATION:
-DAT(2) [48kHz] > WAV [48kHz] > FLAC [Level 8]
-
-LENGTH:
-115:31
-
-SETLIST:
-01. Mellon Collie and the Infinite Sadness
-02. Tonight, Tonight
-03. Zero
-04. Fuck You (An Ode to No One)
-05. Today
-06. To Forgive
-07. Bullet With Butterfly Wings
-08. (banter)
-09. Thru The Eyes of Ruby
-10. Porcelina of the Vast Oceans
-11. Disarm
-12. (interlude)
-13. Jellybelly
-14. (banter)
-15. Cherub Rock
-16. Muzzle
-17. (encore break)
-18. (banter)
-19. 1979
-20. X.Y.U.
-21. (encore break)
-22. Mayonaise
-23. (encore break)
-24. By Starlight
-25. Silverfuck > Dose [Filter] (tease)
-26. Farewell and Goodnight
-
-NOTES:
-Thank you to Mike Ziegler for the recording
-
-MD5 FINGERPRINTS:
-52072bbe3c937d64dc729f2f1a4f16d7 *Smashing Pumpkins 1996-04-09 AUD1 t01 Mellon Collie and the Infinite Sadness.flac
-fbb751e5a81b0405f7b3b527529f8de6 *Smashing Pumpkins 1996-04-09 AUD1 t02 Tonight, Tonight.flac
-92ade7b1c84e2ea6f96c75fa08443981 *Smashing Pumpkins 1996-04-09 AUD1 t03 Zero.flac
-26ff88548695cb6d3b84ba846052cfb4 *Smashing Pumpkins 1996-04-09 AUD1 t04 Fuck You (An Ode to No One).flac
-670934ce361fb17b737f48ac13fd39c4 *Smashing Pumpkins 1996-04-09 AUD1 t05 Today.flac
-034c6644e0980c79559584c3111f91f7 *Smashing Pumpkins 1996-04-09 AUD1 t06 To Forgive.flac
-9080d79cd27b65d85c99b7d9758bf36c *Smashing Pumpkins 1996-04-09 AUD1 t07 Bullet With Butterfly Wings.flac
-070e6376fa0c080f4b2065d5988a5ba3 *Smashing Pumpkins 1996-04-09 AUD1 t08 (banter).flac
-9fbeb8f46193a3e34a0a0c2df72eb91f *Smashing Pumpkins 1996-04-09 AUD1 t09 Thru The Eyes of Ruby.flac
-a48dad411bfa5a7544e1025ba7e9c174 *Smashing Pumpkins 1996-04-09 AUD1 t10 Porcelina of the Vast Oceans.flac
-1aa6ba12e2f7bf23b8fb60705f84877c *Smashing Pumpkins 1996-04-09 AUD1 t11 Disarm.flac
-3fdb289724574c4a39670a39ca1259e3 *Smashing Pumpkins 1996-04-09 AUD1 t12 (interlude).flac
-b4af46c356be4092a3dfffb49670251f *Smashing Pumpkins 1996-04-09 AUD1 t13 Jellybelly.flac
-0f1be2a95360e6a5aa9e874c1e8a9cbb *Smashing Pumpkins 1996-04-09 AUD1 t14 (banter).flac
-846e3dea79c26c68464904c77f2dc69e *Smashing Pumpkins 1996-04-09 AUD1 t15 Cherub Rock.flac
-157e4357394a7ef62ee25b8b1b0ee91e *Smashing Pumpkins 1996-04-09 AUD1 t16 Muzzle.flac
-601ab2b66c3fb48d68758f07625114cb *Smashing Pumpkins 1996-04-09 AUD1 t17 (encore break).flac
-982d299d351544eef725e0ba0aa5d1d9 *Smashing Pumpkins 1996-04-09 AUD1 t18 (banter).flac
-e7ef53f371ca9ab02c361583fe998881 *Smashing Pumpkins 1996-04-09 AUD1 t19 1979.flac
-277c0fe68f02d888c4a18d649a2edd37 *Smashing Pumpkins 1996-04-09 AUD1 t20 X.Y.U..flac
-735f837008c0fcd7f939a557864504a9 *Smashing Pumpkins 1996-04-09 AUD1 t21 (encore break).flac
-e08330574dc3e78a01814765ece33bca *Smashing Pumpkins 1996-04-09 AUD1 t22 Mayonaise.flac
-4798a56816d1efb4113c4414e5297d79 *Smashing Pumpkins 1996-04-09 AUD1 t23 (encore break).flac
-c37d37dfc0de5380dd97cf3a3265c4cf *Smashing Pumpkins 1996-04-09 AUD1 t24 By Starlight.flac
-50aad5abf22d54dcd465f8af4a73de1e *Smashing Pumpkins 1996-04-09 AUD1 t25 Silverfuck.flac
-f3062ba4852416ea7361c073d0635886 *Smashing Pumpkins 1996-04-09 AUD1 t26 Farewell and Goodnight.flac
-
-TRANSFER BY:
-Mike Ziegler
-
-DISTRIBUTION:
-Nicholas Serra, Spaldz & Members of SPLRA
-2024-09-25
+ 

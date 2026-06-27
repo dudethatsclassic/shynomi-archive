@@ -1,19 +1,23 @@
-tsp1992-07-24d1t01.flac:b54c8751620abfec0151731000091998
-tsp1992-07-24d1t02.flac:14d0a1795cb1453c52cf221fab2f665f
-tsp1992-07-24d1t03.flac:ab3a429a364b7241039a5b94fc4905fc
-tsp1992-07-24d1t04.flac:48c4cbee6dae071b28ec31e28fe4a64d
-tsp1992-07-24d1t05.flac:f583f990795b23d8690bddf9c0fa8afa
-tsp1992-07-24d1t06.flac:6c9a097d6e99449ecc9821886131b617
-tsp1992-07-24d1t07.flac:14cd448530583c320765576d59a1dcce
-tsp1992-07-24d1t08.flac:14ace6791467ba851b18597d5b1925bf
-tsp1992-07-24d1t09.flac:3a31c41ba78955f0d5db3f4f8870b327
-tsp1992-07-24d1t10.flac:bbcb284b4e971c170ee3634fde44fcae
-tsp1992-07-24d1t11.flac:e4dd5bc0350a71b1cbdaef74a9fc5baf
-tsp1992-07-24d1t12.flac:a9d14871767a8ca2dadf11271dbd5f70
-tsp1992-07-24d2t01.flac:476ed06b143adfa96a843a53791ecd7c
-tsp1992-07-24d2t02.flac:551b74332181b00137a06b53ee3f3906
-tsp1992-07-24d2t03.flac:d0a3727ea8a14286103ccb53cf7bdbcc
-tsp1992-07-24d2t04.flac:ca89fa25fcc271139bba77f737e9eb60
-tsp1992-07-24d2t05.flac:088ae5f0cd15d5f89fe59e43793c0727
-tsp1992-07-24d2t06.flac:1fe148953b73194780bf836affcef7fa
-tsp1992-07-24d2t07.flac:d392e40c1bec82115a6b3655a71ae870
+Smashing Pumpkins
+1992-07-24 - Chicago, IL - Cabaret Metro
+
+Source: 1st generation VHS
+
+Setlist:
+
+1. Luna
+2. Hello Kitty Kat
+3. Bury Me
+4. Disarm
+5. Rocket
+6. Tristessa
+7. Window Paine
+8. I Am One
+9. Drown
+10. Siva
+11. Slunk
+12. Hummer
+13. Offer Up
+14. Silverfuck
+15. Daydream
+16. Starla

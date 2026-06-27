@@ -1,77 +1,31 @@
-The Smashing Pumpkins
-1999/04/19 - Ogden Theater; Denver, CO, US 
- 
-Source: MiniDisc Master ( SM58>MZR30 )> CDR
-Conversion: CDR>Xing AudioCatalyst>WAV>FLAC
+Smashing Pumpkins
+April 19th, 1999
+Ogden Theater
+Denver, CO, US
 
+source: SM58 > MZ-R30 [taped by projecte]
+transfer: MD-M > CDR-? > EAC [secure] > WAV > Audacity [fixed tracking] > FLAC
 
-*DO NOT CONVERT TO MP3 OR OTHER LOSSY FORMAT*
+01. I Am One
+02. Zero
+03. Pug
+04. La Dolly Vita
+05. Wound
+06. Blue Skies Bring Tears
+07. Cash Car Star
+08. Glass' Theme
+09. The Imploding Voice
+10. Stand Inside Your Love
+11. Glass and the Ghost Children
+12. Dross
+13. Speed Kills
 
---------
-Disc 1 (67:58)
-1. I Am One 
-2. Zero 
-3. Pug 
-4. La Dolly Vita 
-5. Wound 
-6. Blue Skies Bring Tears 
-7. Cash Car Star 
-8. Glass' Theme 
-9. The Imploding Voice 
-10. Stand Inside Your Love 
-11-12. Glass and the Ghost Children 
-13. Dross 
-14. Speed Kills 
-15. Ava Adore 
-16. Today 
+trt 61:12
 
+* it appears that there was a mix up when this show originally occured; this is actualy the SM58 > MZ-R30 source while the complete recording with fades is likely the CSB > MD source
+* incomplete but does not have fades between tracks
+* disc from the collection of Andrew Fogelsong
+* EAC log included
 
-Disc 2 (36:23)
-Encore 1: 
-1. Muzzle 
-2. Soma 
-Encore 2: 
-3. Home 
-4. If There Is a God 
-5. With Every Light 
-Encore 3: 
-6. Geek U.S.A. 
-7. Siva 
-
-total: 104:21
---------
- 
-
-uploaded to the TSP/Zwan Hub 12/2004 by dsheinem@yahoo.com
-
-notes: I've been hesitant to share this show as it was initially given to me with tracks out of order and included fades between some songs.  As far as I can tell, I've corrected the order and the fades (usually) make more sense now. The Flac's are small becuase the show is most likely mono. To the nest of my knowledge, it has never been mp3'ed. For more on this discussion check here: http://www.thetradersden.org/forums/showthread.php?t=2051
-
-Flac Fingerprint:
-
-Disc 1
-
-tsp1999-04-19d1t01.flac:b96065d24ee3b47541c2cbf60cd4926a
-tsp1999-04-19d1t02.flac:8194a85f07be695eb6b788e20138e727
-tsp1999-04-19d1t03.flac:c39f8cea1abcfdfa66e66f0c88b12d6b
-tsp1999-04-19d1t04.flac:e07a64182b98e1a919f9d0dab4d1f7a7
-tsp1999-04-19d1t05.flac:f7ec3b739d329149dd40e4afb0c606a8
-tsp1999-04-19d1t06.flac:18233fb937c4d9ef5272cd07f0d29bf2
-tsp1999-04-19d1t07.flac:310f578d637b974f4d0a7bbb5b62c313
-tsp1999-04-19d1t08.flac:1fe7307a6918a7f3605bd7881cd4dd90
-tsp1999-04-19d1t09.flac:374c8115a34fb7766c16d4f8724afbe9
-tsp1999-04-19d1t10.flac:06c63be60fb9f67719f556f9ab6035be
-tsp1999-04-19d1t11.flac:41c3f8fc15b4c9b37197287905cadeeb
-tsp1999-04-19d1t12.flac:de47e47812b02f61145e94e10e8b8e2e
-tsp1999-04-19d1t13.flac:3542f4149263411ecef690a5a4f5b4e9
-tsp1999-04-19d1t14.flac:f3cc6820245de9fd905e41f7ac7d4466
-tsp1999-04-19d1t15.flac:bb57d18148e4a4de40b0c982a9758f9c
-tsp1999-04-19d1t16.flac:1cd0387af3e710e3de98b80ffdbfc18f
-
-Disc 2
-tsp1999-04-19d2t01.flac:7e4b78cecff770e37e3944607cabdca7
-tsp1999-04-19d2t02.flac:9a1ea33d119aa0a453ab72a0bd4e227e
-tsp1999-04-19d2t03.flac:24307af36ea4704520e029055ddcf9f2
-tsp1999-04-19d2t04.flac:790061507a3c2782d6851fc7b04d04db
-tsp1999-04-19d2t05.flac:85d5ef5d1ebe900874b5bee474841ffa
-tsp1999-04-19d2t06.flac:ad719999cafee394a1792d50337cc533
-tsp1999-04-19d2t07.flac:a95fdb5fe5deadbdccebbdeb46439ef6
+don't sell, etc
+-rhinowing

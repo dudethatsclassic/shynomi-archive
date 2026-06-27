@@ -1,32 +1,30 @@
-==========
 A Perfect Circle
-2003-11-14
+November 14, 2003
+Mid-South Coliseum
 Memphis, TN
-Midsouth Coliseum
-==========
-Taper: Claycol <ccoletta@midsouth.rr.com>
-Source: Core Sound Binaurals > switchable battery box > Nomad Jukebox 3
-Transfer: NJB3 > 1394 Firewire > .wav > Cool Edit (EQ) > .shn
-Notes: EQ by Sweat & Sheep <roio420@hotmail.com>
-==========
 
-Disc 1
-01 - Vanishing - 5:20
-02 - Pet - 4:43
-03 - The Hollow - 3:04
-04 - Magdalena - 5:39
-05 - Weak and Powerless - 3:32
-06 - Rose - 3:33
-07 - Blue - 6:37
-08 - Thomas - 6:30
-09 - The Package - 7:30 
+Taped by:  neognosis
+Position:  fob
+Source:  Core Sound Binaurals > Sharp MT-180
+Transfer:  MD Master > Sony MDS-E10 > SPDIF > M-Audio Delta 2496 > Sound Forge 8 (15.0 db volume increase, fades) > WAV > 0 Gen FLAC
+Notes:  Digitally transferred in December, 2009
 
-Disc 2
-01 - 3 Libras - 5:59
-02 - The Nurse Who Loved Me - 5:37
-03 - Gravity - 5:17
-04 - The Outsider - 4:54
-05 - The Noose - 5:53
-06 - Judith - 5:32
-07 - Looks That Kill - 2:19
-08 - Master of Puppets - 2:56
+Setlist:
+Vanishing
+Pet
+The Hollow
+Magdalena
+Weak and Powerless
+Rose
+Blue
+Thomas
+James Iha sings Journey
+The Package
+3 Libras
+The Nurse Who Loved Me
+Gravity
+The Outsider
+The Noose
+Judith
+---
+Zero/Looks That Kill/Master of Puppets/Supersonic medley

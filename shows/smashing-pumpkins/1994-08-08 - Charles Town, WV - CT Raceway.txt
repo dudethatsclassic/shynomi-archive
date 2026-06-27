@@ -1,29 +1,29 @@
 The Smashing Pumpkins
-08/08/1994
-CT Raceway
+8/8/1994
+Charles Town Raceway
 Charles Town, WV
 
-Taper:            unknown
-Source:           unknown analog recorder
-Conversion:       ANA-1 > DDC-0 > CDR-?(Fresko) > CDR-?(me)
-Ripper:           Andrew Fogelsong
-FLAC:             EAC V0.95 beta 4(proper offset) > WAV > FLAC (level 8)
-Notes:		  This is not sourced from mp3.  See the spectral analysis.
-		  Tape flip during I Am One cuts part of the song
+Taper:            Unknown
+Source:           mono mic > Panasonic RQL340
+Conversion:       ANA-M > Sony TC-WE825S > Tascam DA-20MKii(A>D @ 44.1kHz)> Monster coax 
+		  > Delta Dio 2496 > Adobe Audition 2.0
+Editor:           Andrew Fogelsong
+Editing:          normalized (+1.71dB)
+FLAC:             master wav's > CD Wave Editor 1.95 > FLAC (level 8)
+Notes:            recording stops during Geek USA and starts again during Disarm.
 
 ********************************************************************************
 	                    SPREAD THE MUSIC
 ********************************************************************************
 
+
 1. Soma
 2. Quiet
 3. Cherub Rock
-4. Drown > 
-5. > (metal riff) >
-6. > Hummer
-7. Geek USA
-8. Today
-9. Disarm
-10. I Am One (cut), Zero (tease)
-11. Rocket
-12. Silverfuck > Over the Rainbow [Harburg/Arlen] (tease)
+4. Drown
+5. > Hummer
+6. Geek USA (cut)
+7. Disarm (cut)
+8. I Am One
+9. Rocket
+10. Silverfuck

@@ -1,59 +1,49 @@
-{\rtf1\mac\ansicpg10000\cocoartf824\cocoasubrtf410
-{\fonttbl\f0\fswiss\fcharset77 Helvetica;}
-{\colortbl;\red255\green255\blue255;}
-\margl1440\margr1440\vieww9000\viewh8400\viewkind0
-\pard\tx720\tx1440\tx2160\tx2880\tx3600\tx4320\tx5040\tx5760\tx6480\tx7200\tx7920\tx8640\ql\qnatural\pardirnatural
+Smashing Pumpkins
+2007-10-16
+Orpheum Theater -  Boston, MA
 
-\f0\fs24 \cf0 Smashing Pumpkins\
-10.16.07\
-Orpheum Theatre\
-Boston, MA\
-\
-Source: Rode NT4 (X/Y) > M-Audio Microtrack (16/44.1)\
-Lineage: SanDisk Extreme III Compact Flash > Fission > xACT> Flac\
-Recorded by: Jesse Clark (wjesseclark@gmail.com)\
-Location: orchestra left center, row J; mic (with shock mount) taped to backpack which was taped on top of the side wall of orchestra entrance ramp (security would not allow stands).\
-\
-Disc 1:\
-\
-1) Intro Music\
-2) United States\
-3) Bullet With Butterfly Wings\
-4) Home\
-5) Bring the Light\
-6) Set the Ray to Jerry\
-7) Today\
-8) Stand Inside Your Love\
-9) Superchrist\
-10) Doomsday Clock\
-11) Glass and the Ghost Children\
-12) 1979\
-13) The Crying Tree of Mercury\
-14) With Every Light\
-\
-Disc 2: \
-\
-1) Tonight, Tonight\
-2) Tarantula\
-3) Ava Adore\
-4) Disarm\
-5) Heavy Metal Machine > On the Road Again > I Love Rock n Roll\
-6) Crowd Noise\
-\
-Encore 1:\
-\
-7) Pomp and Circumstances\
-8) Stage Banter\
-9) Muzzle\
-10) Crowd Noise\
-\
-Encore 2:\
-\
-11) Where Boys Fear to Tread\
-12) Cherub Rock\
-13) Thanks\
-\
-Notes:\
-\
-i accidentally switched the input on the microtrack to line 2:45 through 14:35 during Heavy Metal Machine, , so there is a noticeable drop in gain, but not to the point of being inaudible. no music was lost. crank up the volume and you'll be fine.\
-}
+Taped By: BennyBlanco	
+
+Source: CSB>CSB BB NO ROLLOFF > MT1 @ 24/96
+Location = Orchestra Right Center Row PP
+
+
+Tracklist:
+
+Intro
+United States
+Bullet with Butterfly Wings
+Home
+Bring the Light
+Set the Ray to Jerry
+Today
+Stand Inside Your Love
+Superchrist
+Doomsday Clock
+Glass and the Ghost Children
+1979
+The Crying Tree of Mercury
+With Every Light
+Tonight, Tonight
+Tarantula
+Ava Adore
+Disarm
+Heavy Metal Machine > White Rabbit > On the Road Again > I Love Rock and Roll
+
+----------------------------------------------------------
+
+Encore 1 - 
+
+Pomp and Circumstances
+Muzzle
+
+
+-------------------------------------------
+
+Encore 2 - 
+
+Where Boys Fear to Tread
+Cherub Rock (cut Batt ran out)
+
+
+!! Do not sell this recording and do not trade mp3s/lossy files of this recording. !!

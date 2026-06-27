@@ -1,47 +1,34 @@
-The Smashing Pumpkins
-1992/09/04 - Tor 3; Duesseldorf, DE 
- 
-Source: VHS?>DAT?>CDR
-Mic: unknown
-Conversion: CDR>EAC>WAV>FLAC  
+Smashing Pumpkins
+September 4th, 1992
+Tor 3
+Düsseldorf, DE
 
-*DO NOT CONVERT TO MP3 OR OTHER LOSSY FORMAT*
-------------------- 
+source: audience video (three cam shoot)
+transfer: unknown gen VHS > Panasonic VCR (four head / hifi) > HDTV Wonder > Vegas 6 > torrent circa 2006 > my DVDr-0
+editing: .VOB files (mono 16/48 LPCM audio) > DVD2AVI (demux to .WAV) > Audacity (amplified to -0.1db, trimmed silence) > CDWave (split) > TLH (flac8)
 
-1. Today 
-2. Geek U.S.A. 
-3. Rocket 
-4. Bury Me 
-5. Spaceboy 
-6. Tristessa 
-7. Hello Kitty Kat 
-8. "Your Whore" 
-9. Siva 
-10. Hummer 
-11. Slunk 
-12. Starla 
-13. I Am One 
-14. "Lookout Loretta"/ When You Wish Upon a Star [Washington/Harline]   (tease) 
+01. -intro-
+02. Today
+03. Suicide Kiss
+04. Rocket
+05. Bury Me
+06. Spaceboy
+07. Tristessa
+08. Hello Kitty Kat
+09. Kill Your Parents II > Your Whore
+10. > Siva
+11. Hummer
+12. Slunk
+13. Starla
 
-total: 70:42
---------------
- 
-uploaded to the TSP/Zwan Hub 07/2004 by dsheinem@yahoo.com
+14. -banter-
+15. I Am One
+16. > Lookout Loretta > When You Wish Upon a Star (tease)
 
+trt 70:27
 
-Flac Fingerprint:
-
-Track01.flac:4d8bc10fee940a696da25dd4e2871902
-Track02.flac:5f08896afa95cfdc0aa482c99ce9cd0e
-Track03.flac:1090b1dfa54e56ebdba1fc52f5717bd7
-Track04.flac:931e2ca3a24922e55c42e1672a45d0d8
-Track05.flac:ace5db32c1dcad5da22729a5ca53f546
-Track06.flac:bccba508efe50845d18473ae9445bcef
-Track07.flac:bf48017ec387a66ecb5d461f81a3f75c
-Track08.flac:bc18f8694819a3c3e9938dce1dd7e3ac
-Track09.flac:551b5484f77e304a140faa85e5ad4361
-Track10.flac:611c9b1e59d76fd0ed4340583e41fbab
-Track11.flac:56a8cc97bdbb18b9c3e9f20c131137ef
-Track12.flac:a2f930982ff8be0f0f5001b4b86a46fe
-Track13.flac:9fc94f628f7a88e991c9549f221451d1
-Track14.flac:7c987a57a3850ee8580ea133829faefa
+* not a great recording (cam audio and mono), but europe 92 is probably the band's best tour ever
+* this is a minor upgrade over the previously circulating transfer -- less distortion and a little more definition in the low end
+* the encore audio is from a different camera angle than the main set and sounds considerably better
+* these are 16 bit / 48 khz flac files, you will need to resample if burning to CD
+* thanks to the original taper / seeder

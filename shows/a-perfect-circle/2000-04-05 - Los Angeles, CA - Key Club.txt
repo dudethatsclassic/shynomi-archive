@@ -1,24 +1,28 @@
-http://db.etree.org/cesaro
-Date: April 5th, 2000
-City: Los Angeles
-Venue: The Key Club
-Lineage: CSB/Filter On > Sony MZ-R50 > Minidisc > Analog > Sound Forge 8.0 > FLAC.
+A Perfect Circle
+April 05, 2000
+Key Club
+West Hollywood, CA
 
+Source: Core Sound Binaurals > Sony PCM-M1
+Lineage: DAT Master 16/48 > FLAC
+Transfer (BLG): DA-20 > coax > Marantz PMD-670 > usb reader > Adobe Audition (edits) > iZotope Ozone 5 (EQ,Exciter,Imaging,Dynamics) > WavePad (tracking) > xACT (tags) > FLAC
+Taper: Ed Davis
 
+01 Renholder
+02 The Hollow
+03 Orestes
+04 Magdalena
+05 Sleeping Beauty
+06 3 Libras
+07 Thinking of You
+08 Brena
+09 Thomas
+10 Diary of a Lovesong
+11 Rose
+12 Judith
 
-1.) The Hollow
-2.) Orestes
-3.) Magdalena
-4.) Sleeping Beauty
-5.) Three Libras
-6.) Thinking of You
-7.) Brena
-8.) Thomas
-9.) Diary of a Love Song
-10.) Rose
-11.) Judith
+Total Time: 57:19
 
-Taper (arizona_bay AT hotmail.com):
-What would have been a superb record blown by the infamous hi/low sensitivity switch.
-You always take a gamble using mic-in instead of line in, and this accident wasn't
-planned for. Collectors item, but enjoy anyways, this hasn't been released at all.
+Notes: Excellent recording, thanks to the taper.
+
+.txt compiled on 12/25/2014 by BLG

@@ -3,9 +3,7 @@ A Perfect Circle
 Kemper Arena
 Kansas City, MO
 
-Source: AT63 > MZR70
+Source: unknown
 Transfer: unknown
 
-Taper: unknown
-
-Notes: 1st gen
+Taper: cs

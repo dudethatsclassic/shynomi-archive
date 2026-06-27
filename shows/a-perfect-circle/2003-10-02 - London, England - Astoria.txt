@@ -1,97 +1,28 @@
 A Perfect Circle
-================
-October 2, 2003
-Astoria - London, England
+2003/10/02
+The Astoria
+London, England
 
-Support from The Boxer Rebellion
+Source: Unknown (definitely not Rob's recording!)
 
-Source: Unspecified Mini DV
-Filmer: Master8UK
-Transfer: ? > DVD
+Setlist:
 
-TRACKS
-------
-Lullaby
-Pet
-The Hollow
-Magdalena
-Weak And Powerless
-Orestes
-Rose
-Blue
-Thinking Of You
-The Package
-3 Libras
-The Nurse Who Loved Me
-The Outsider
-Gravity
-Judith
-Covers Medley
-
-Total time: 1h 22min 39sec
-
-Notes:  Outstanding footage from a small club. The filmer did a good job to conceal his camera, then messed it up by selling this.
-Recieved in a trade with no specific info, picture quality suggests no analogue generations, straight from the master MiniDV.
-Audio's average.  
-
-Covers medley includes at least the following songs - 
-"Supersonic" (Oasis), "Barracuda" (Heart), "Master of Puppets" (Metallica), "Looks That Kill" (Mötley Crüe), "Seven Nation Army" (The White Stripes),
-"Heart-Shaped Box" (Nirvana), "The Beautiful People" (Marilyn Manson), "Today" and "Zero" (The Smashing Pumpkins).  
-
-Thanks Rob for figuring that out.
-There are also at least two audience audio recordings for this show.  
-
---------------------------------------------------------------------
-
-September 19, 2003
-Wembley Arena - London, England
-
-Supporting the Deftones
-
-Source: Unspecified Mini DV
-Filmer: Master8UK
-Transfer: ? > DVD
-
-TRACKS
-------
-Lullaby (missing)
-Pet
-The Hollow
-Blue
-Magdalena
-The Package
-Weak And Powerless
-3 Libras
-The Outsider
-Judith
-
-
-Total time: 37min 04sec
-
-Notes:  Supporting Deftones, cuts into "Pet".  At least one audience audio recordings also exsits.
-Again filmed by a shameless bootlegger of live recordings, no specified transfer information is available,
-but it looks like it comes from the master MiniDV.
-Filmed from left side, good picture and audio. 
-
-PAL - 720x576 • 4:3 • 4600 kbps
-Stereo AC3 • 256 kbps
----------------------
-2025 NOTES:
-
-• Astoria gig
-Audio mix: audio from video + Sony ECM-717
-
-Taper: Rob
-Location: Front of stack (right), ~10' back
-Source: Sony ECM-717 > Sony MZ-R900 (mono)
-Transfer: Sony MDS-JB980QS > TOSlink > SB DB III > wave (Wavelab)
-Editing: dED/dEQ (Wavelab) > track indexes (CD Wave) > splits, Level 8 FLAC Compression & tagging (foobar2000)
-
-Transfer and editing by Martin M.
-
-• Wembley Arena gig
-Audio remastered
-----------------
-
-Authoring, audio sync & remaster by Alvarojam
-March 26, 2025
+01-Lullaby/Pet
+02-The Hollow
+03-Magdalena
+04-Weak And Powerless
+05-Orestes
+06-Rose
+07-Maynard Introducing Band
+08-Blue
+09-Maynard Talking
+10-Thinking Of You
+11-Maynard Talking
+12-The Package
+13-3 Libras
+14-The Nurse Who Loved Me
+15-James Iha
+16-The Outsider
+17-Gravity
+18-Judith
+19-Encore Jam

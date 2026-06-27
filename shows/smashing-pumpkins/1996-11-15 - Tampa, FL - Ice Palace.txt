@@ -1,47 +1,41 @@
 Smashing Pumpkins
-November 15th, 1996
 Ice Palace
-Tampa, FL, Us
+Tampa, FL, US
+November 15th, 1996
 
-Source: Built-in>Walkman
-Transfer: ANA-2>Sony TC-WE825S>Tascam DA-20MKii(A>D @ 44.1kHz)>Monster coax>Delta Dio 2496
-Editing: Cool Edit Pro 2.1 (recording), Audacity (fades, patching), CDWave (splits), TLH (FLAC level 8)
-Patch Lineage (same source, different tape): ANA-?>Sony TC-630ES (three-head deck)>Edirol R-09 (24/48, unity gain)>dEdit>FLAC>WAV>This fileset
+Source: Walkman>ANA
+Transfer: Unknown gen tape>Sony TC-630ES (three-head deck)>Edirol R-09 (24/48, unity gain)
+Editing: Audacity (fade in/out, crossfades, amplification--all editing done at 32-bit float), r8brain (resample/dither on "very high" quality setting), CDWave (splits), FLAC Frontend (level 8, align on sector boundaries)
 
-01. Mellon Collie and the Infinite Sadness (PA intro) - 3:04
-02. Where Boys Fear to Tread - 4:13
-03. Zero - 2:26
-04. Fuck You - 4:37
-05. Tonight, Tonight - 4:25
-06. By Starlight - 5:01
-07. banter - 0:58
-08. Today - 2:55
-09. Thru the Eyes of Ruby - 8:21
-10. Cherub Rock - 4:36
-11. Galapogos - 4:26
-12. Lily - 3:31
-13. Disarm - 3:23
-14. Bullet with Butterfly Wings - 5:06
-15. banter - 1:41
-16. Muzzle - 4:08
-17. Porcelina of the Vast Oceans > Rocket (tease) - 12:34
+01. Mellon Collie and the Infinite Sadness (PA intro) - 3:08
+02. Where Boys Fear to Tread - 4:12
+03. Zero - 2:24
+04. Fuck You - 4:32
+05. Tonight, Tonight - 4:23
+06. By Starlight - 5:55
+07. Today - 2:54
+08. Thru the Eyes of Ruby - 8:19
+09. Cherub Rock - 4:28
+10. Galapogos - 4:22
+11. Lily - 3:59
+12. Disarm - 3:31
+13. Bullet with Butterfly Wings - 4:25
+14. banter - 1:41
+15. Muzzle - 3:59
+16. Porcelina of the Vast Oceans -> Rocket (tease) - 12:37
 Encore One:
-18. Siva - 6:52
-19. Drown > Hummer (tease) - 6:17
+17. Siva - 6:55
+18. Drown -> Hummer (tease) - 6:22
 Encore Two:
-20. disco improv/selecting the dancers - 6:09
-21. 1979 - 4:31
-22. banter - 0:58
-23. X.Y.U. - 9:05
+19. selecting  the dancers - 6:04
+20. 1979 - 5:26
+21. X.Y.U. - 8:54
 Encore Three:
-24. Silverfuck - 36:20
+22. Silverfuck - 33:23
 
--not a good recording
--slight upgrade to the two ANA-? transfers
--patch provides most of the banter before Muzzle
--super-long Silverfuck
--Bullet with Butterfly Wings and We Gotta Get Out of This Place teases during Silverfuck
+Notes:
+Some nasty low-end distortion on this one, but a great show (and an undercirculated one at that). Additionally, this contains material not found on the circulating ANA-2>CDR transfer (third encore) and does not have the dropout issue present in that transfer.
 
-Tapes from D4 via Thom, transfer by Andrew, tracking/upload by rhinowing
-Patch source via Davin
-Don't sell, etc
+thanks to melabonbon for the tape
+don't sell, etc
+-rhinowing

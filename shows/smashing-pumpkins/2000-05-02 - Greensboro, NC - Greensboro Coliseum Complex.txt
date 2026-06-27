@@ -1,78 +1,39 @@
-Smashing Pumpkins
+The Smashing Pumpkins
+North Carolina
 May 2nd 2000
-Greensboro Coliseum Complex
-Greensboro, NC, US
 
-SOURCE (AUD#2):
-SS-DSM-6S/L > MZ-R55
+Source:Csb>MZR55
+Location:Recorded on right side about 20 rows back
+Transfer:MD>CDWave>Flac
+Taper:SPFreak77
 
-TRANSFER:
-MD-M > CDR > Exact Audio Copy (EAC)
 
-GENERATION:
-MD-M > CDR > FLAC
+1. I Of The Mourning
+2. This Time
+3. Blue skies Bring Tears
+4. Stand Inside Your Love
+5. Blew Away
+6. Everlasting Gaze
+7. Heavy Metal Machine
+8. Glass&Ghost Children
+9. Intro
+10.To Sheila
+11.Disarm
+12.Try,Try,Try
+13.Rock On
+14.Zero
+15.Tonight Tonight
+16.Today
+17.With Every Light
+18.Bullet With Butterfly Wings
+19.Once In A Lifetime
+20.Encore
+21.Blank Page
+22.Cherub Rock
+23.Encore 2
+24.banter
+25.1979
+26.banter
+27.Mayonaise
 
-LENGTH:
-134:34
 
-SET:
-01. I of the Mourning 
-02. This Time 
-03. Blue Skies Bring Tears 
-04. Stand Inside Your Love 
-05. Blew Away 
-06. The Everlasting Gaze 
-07. Heavy Metal Machine 
-08. Glass and the Ghost Children 
-09. To Sheila 
-10. Disarm 
-11. Try, Try, Try 
-12. Rock On [Essex] 
-13. Zero 
-14. Tonight, Tonight 
-15. Today 
-16. With Every Light 
-17. Bullet with Butterfly Wings / Once in a Lifetime [Talking Heads]
-
-Encore 1
-18. Blank Page 
-19. Cherub Rock
- 
-Encore 2
-20. 1979 
-21. Mayonaise 
-
-NOTES:
-This source was listed as surfaced on splra.org although never made it onto archive.org. 
-
-Thank you to Andrew Fogelsong for transferring his CD copy so this could be properly archived 
-
-MD5 FINGERPRINTS:
-85eb9b8e8eb49e7a4544124341fd86c7 *Smashing Pumpkins 2000-05-02 AUD2 t01 I of the Mourning.flac
-b17b0aa0c2a3dec03d10a8d5539d734f *Smashing Pumpkins 2000-05-02 AUD2 t02 This Time.flac
-225e274064522a81a037d02df58cdeca *Smashing Pumpkins 2000-05-02 AUD2 t03 Blue Skies Bring Tears.flac
-368af55c475bcbc2be1a7bd67f97d7a7 *Smashing Pumpkins 2000-05-02 AUD2 t04 Stand Inside Your Love.flac
-85fc249b93fa22ff7a6333b0c60ffb46 *Smashing Pumpkins 2000-05-02 AUD2 t05 Blew Away.flac
-0933f5f56648e9659660c021c82ec247 *Smashing Pumpkins 2000-05-02 AUD2 t06 The Everlasting Gaze.flac
-334839518e8d89b9c08f7e937c4a1851 *Smashing Pumpkins 2000-05-02 AUD2 t07 Heavy Metal Machine.flac
-444cfc04eb52ee06fbe3bca6f4c32880 *Smashing Pumpkins 2000-05-02 AUD2 t08 Glass and the Ghost Children.flac
-2dcc998ec247f24b7aa06fe2073dd2eb *Smashing Pumpkins 2000-05-02 AUD2 t09 To Sheila.flac
-44d6fbdbec0287ba66e90b9e149f42ec *Smashing Pumpkins 2000-05-02 AUD2 t10 Disarm.flac
-8c1ca788c2236411a14ed2705eec5d6a *Smashing Pumpkins 2000-05-02 AUD2 t11 Try, Try, Try.flac
-0f22a6c3a98fde7753df561ab790369d *Smashing Pumpkins 2000-05-02 AUD2 t12 Rock On [Essex].flac
-9287def36a40eeaf68c7672c68a14354 *Smashing Pumpkins 2000-05-02 AUD2 t13 Zero.flac
-6faa5608d9322a3987de41c000ca1e8b *Smashing Pumpkins 2000-05-02 AUD2 t14 Tonight, Tonight.flac
-346b44635f9cc9934551aef8ce5a83b7 *Smashing Pumpkins 2000-05-02 AUD2 t15 Today.flac
-82405de389c3e54f3a2ca7ac58b3d502 *Smashing Pumpkins 2000-05-02 AUD2 t16 With Every Light.flac
-5c996237b2637726673cacc7914d6fe5 *Smashing Pumpkins 2000-05-02 AUD2 t17 Bullet with Butterfly Wings - Once in a Lifetime [Talking Heads].flac
-ef4094cb00727c19736ad61d610814e1 *Smashing Pumpkins 2000-05-02 AUD2 t18 Blank Page.flac
-06a3b94e19287e81089db5ed45838e87 *Smashing Pumpkins 2000-05-02 AUD2 t19 Cherub Rock.flac
-e1bf9a4c2a59b02f5bce11f3b7b5740b *Smashing Pumpkins 2000-05-02 AUD2 t20 1979.flac
-ec3c7aead727c68f317386a834649af3 *Smashing Pumpkins 2000-05-02 AUD2 t21 Mayonaise.flac
-
-TRANSFER BY:
-Andrew Fogelsong
-
-DISTRIBUTION:
-Spaldz, Nicholas Serra, & Members of SPLRA
-2022-07-25

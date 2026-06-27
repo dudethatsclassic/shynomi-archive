@@ -11,7 +11,7 @@ Editing (with Audacity):
 Fade In, Fade Out, Normalize, and Amplify to -0.5dB
 Tracks were cut with CD Wave
 
-XX. United States
+01. United States
 02. Bullet with Butterfly Wings
 03. Tarantula
 04. Today
@@ -20,5 +20,3 @@ XX. United States
 This is the complete, uncut broadcast.  Includes some DJ talk at the end.  Apparently a Pictures of Matchstick Men [Status Quo] tease was played during United States, but that may just be the DJs misinterpreting the song.
 
 Seeded by Skradgee 2007-07-16
-
-Spaldz notes: Removed commercially released United States for upload to archive.org

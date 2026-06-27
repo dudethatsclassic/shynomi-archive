@@ -1,58 +1,40 @@
 Smashing Pumpkins
-May 14th 1996
+May 14th, 1996
 Wembley Arena
 London, UK
 
-SOURCE (AMT#1):
-unknown > unknown
+Source: Audience Hi8 > 2nd gen NTSC VHS
+Transfer: Magnavox ZV427MG9 Standalone > RCA to 1/8 cable > R-09 (16/44.1)
+Editing: Audacity (amplified, fade in/out), CDWave (splits), TLH (flac level 8)
 
-TRANSFER:
-Sony DCR-TRV320 > Datavideo TBC3000 > Blackmagic Intensity Pro > VirtualDub > AviSynth 2.60 > x264.exe 0.155.2901 7d0ff22 > MKVToolNix GUI v46.9.0
-
-GENERATION:
-HI8(M) > AVI [UTVideo/48khz/16-Bit/PCM] > MKV [576p/x264 | AAC | FLAC] > CDWave (split) > TLH (flac8)
-
-LENGTH:
-118:59
-
-RECORDING
-"Master 8"
-
-TRANSFER
-TravisBickle1963
-
-ENCODE:
-Nicholas Serra & Members of SPLRA
-2020-12-30
-
-01. Mellon Collie and the Infinite Sadness (intro)
-02. Where Boys Fear to Tread
-03. Zero
-04. Fuck You
-05. To Forgive
-06. Tonight, Tonight
-07. Cherub Rock
-08. Thru the Eyes of Ruby >
-09. By Starlight
-10. In Between Days [The Cure] (tease) > Disarm
-11. Bullet with Butterfly Wings
-12. Cherub Rock
-13. Porcelina of the Vast Oceans > Rocket (tease)
+01. Mellon Collie and the Infinite Sadness (PA intro) - 2:03
+02. Where Boys Fear to Tread - 4:05
+03. Zero - 2:26
+04. Fuck You - 4:47
+05. To Forive - 3:40
+06. Tonight, Tonight - 4:15
+07. Today - 3:29
+08. Thru the Eyes of Ruby - 7:47
+09. > By Starlight - 4:47
+10. Inbetween Days [The Cure] (tease) / Disarm - 3:25
+11. Bullet with Butterfly wings - 4:36
+12. Cherub Rock - 4:33
+13. Porcelina of the Vast Oceans > Rocket (tease) - 10:32
 14. Muzzle
 
-15. -banter-
-16. 1979 (Matt Walker on drums, Geno Lenardo and Jimmy Chamberlin on guitar)
-17. -banter-
-18. X.Y.U.
+15. banter - 1:30
+16. 1979 (Jimmy and Geno Lenardo on guitar, Matt Walker on drums) - 4:17
+17. banter - 1:52
+18. X.Y.U. - 9:30
 
-19. Mayonaise
+19. Mayonaise - 6:29
 
-20. Bodies >
-21. Silverfuck > Dose [Filter] (Richard Patrick on vocals, Matt Walker and Jonathon Melvoin share a second drum kit)
-22. Farewell and Goodnight
+20. Bodies - 3:47
+21. Silverfuck > Dose [Filter] (Richard Patrick on vocals, Matt Walker on second drum kit, Jonathon Melvoin on aux. percussion) - 22:22
+22. Farewell and Goodnight - 4:57
 
-* security duck causes muffling and a small cut in To Forgive
-* small cut in Silverfuck (so small its hard to find)
-* only a minor upgrade sonically from the old transfer, but this is from the master and 48k
+thanks to Josh Provost for the VHS
+this is a major upgrade to DAT recording of this show, and the triple-drummer Silverfuck will blow your mind
 
-http://www.splra.org/wiki/index.php?title=20201230-Release-1996-05-14AMT1
+don't sell, etc
+-rhinowing

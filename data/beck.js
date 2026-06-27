@@ -1882,8 +1882,7 @@ const ARTIST_DATA = {
       "venue": "Zellerbach Theatre",
       "notes": "Sony MZ-S1 \u00b7 unk",
       "version": "AUD",
-      "format": "FLAC",
-      "textFile": "2002-08-17 - Philadelphia, PA - Zellerbach Theatre [AUD].flac.txt"
+      "format": "FLAC"
     },
     {
       "year": 2002,

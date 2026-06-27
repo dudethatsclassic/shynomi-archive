@@ -1,62 +1,64 @@
-**Remastered** by thir13en
-
-
 Smashing Pumpkins
-2000-08-12
-Montreal, Quebec, Canada
+August 12th 2000
+Parterre, parc Jean Drapeau
+Montreal, QC, CA
 
+SOURCE (FM#2):
+FM
 
+TRANSFER:
+FM > PC > CDR > Exact Audio Copy (EAC)
 
-So, here's all the info that came with this one:
+GENERATION:
+WAV-M > CDR > FLAC
 
+LENGTH:
+74:05
 
+SET:
+01. The Everlasting Gaze
+02. The Sacred and Profane
+03. Glass and the Ghost Children
+04. Stand Inside Your Love (abandoned) > Stand Inside Your Love
+05. I Am One (with rant)
+06. Du Hast [Rammstein] > Don't You Want Me [The Human League]
+07. I of the Mourning
+08. Mayonaise
+09. (Banter)
+10. (Banter)
+11. To Sheila
+12. Bullet with Butterfly Wings
+13. Blue Skies Bring Tears
+14. Cherub Rock
+15. (Banter)
+16. 1979
 
-  Source: AUD / Quality: A+
+NOTES:
+This source was listed as surfaced on splra.org although never made it onto archive.org. As other good quality FM sources are already in circulation this isn't considered an upgrade. Heavy Metal Machine was not broadcast.
 
-*Greatest Audience Recording EVER***
-**By Z£R0G££K For ZOMB Users** 
-         2004/10/11           
+Thank you to Andrew Fogelsong for transferring his CD copy so this could be properly archived 
 
+MD5 FINGERPRINTS:
+1f78f6e45e7a075d3fca1576f4b891c0 *Smashing Pumpkins 2000-08-12 FM2 t01 The Everlasting Gaze.flac
+65456f499118124b023cc0ab25069840 *Smashing Pumpkins 2000-08-12 FM2 t02 The Sacred and Profane.flac
+37be5d3bebed2b35ce73d6e22527f0b9 *Smashing Pumpkins 2000-08-12 FM2 t03 Glass and the Ghost Children.flac
+dd6624a046954a4c5a8db502153eab34 *Smashing Pumpkins 2000-08-12 FM2 t04 Stand Inside Your Love.flac
+cb27dfe9d23ab451adcca75b786e64b0 *Smashing Pumpkins 2000-08-12 FM2 t05 I Am One (with rant).flac
+d2b3dcd9f9c11c9e14401d72d8ddda74 *Smashing Pumpkins 2000-08-12 FM2 t06 Don't You Want Me [Human League].flac
+2efa6cfbb2df221b15590cf3380c2a6f *Smashing Pumpkins 2000-08-12 FM2 t07 I of the Mourning.flac
+b3e1905f48a23750f3a2ec006cf45f28 *Smashing Pumpkins 2000-08-12 FM2 t08 Mayonaise.flac
+98ae2fc72bcf99f5a27077bf610d6690 *Smashing Pumpkins 2000-08-12 FM2 t09 (Banter).flac
+efe0d2c763decf244f5e90eb53ab34b7 *Smashing Pumpkins 2000-08-12 FM2 t10 (Banter).flac
+7231c6cbe99ba849ffb260cf6732dde9 *Smashing Pumpkins 2000-08-12 FM2 t11 To Sheila.flac
+eec331259077bc72399e6dbfd82c78d1 *Smashing Pumpkins 2000-08-12 FM2 t12 Bullet with Butterfly Wings.flac
+b2db3e6f24b0b949d6932697b8d1f823 *Smashing Pumpkins 2000-08-12 FM2 t13 Blue Skies Bring Tears.flac
+7892a762330ac805927e7eff3fec3bb9 *Smashing Pumpkins 2000-08-12 FM2 t14 Cherub Rock.flac
+7922e6c0bd3c6d81e3c89196aa385195 *Smashing Pumpkins 2000-08-12 FM2 t15 (Banter).flac
+1586341a7e4d8b712d81164006e3c9b8 *Smashing Pumpkins 2000-08-12 FM2 t16 1979.flac
 
-Now, after I got done laughing my ass off, then chuckled for another ten minutes or so, I laughed some more. And then I looked for Zerogeek in the system, and nothing came up, lot's of other zero's out there, but nobody really close. So whoever you are you're getting off light, as you were able to side-step the barrage of ridicule I would put upon you.
+TRANSFER BY:
+Andrew Fogelsong
 
-Why, why, why is it so important to find that "*Greatest Audience Recording EVER*?"
-
-Clearly, this is no AUD. I've had others who know I hate AUD's try to pass a SBD or FM over on me as an AUD. You can't fool me, don't try. But please, this one was sooooooo easy anyways. 
-
-Let's start with the obvious and plainly visible 19k stereo tone inherent in many analog FM's. You'd have to be blind to miss it. And of course it sounds very much like all the other FM's of this tour, granted it does have a well-mic'd crowd, but it has all the direct tangibles that a SBD>FM gen has as well. 
-
-Now a quick peek at [url=http://www.splra.org/wiki/index.php?title=Tsp2000-08-12]SPLRA [/url] shows 2 "unsurfaced" gens of FM's, one of which is missing HMM. But it's here. The other one listed says it's incomplete, but I found it intact, unless there is some banter missing (which I left alone) the songs are all there, even the botched version of "SIYL". And that gen also is listed as an MD, and that explains it all, as the scope of the files shows a similar drop to MD's frequency limits, but a solid 19k means it's never been encoded, so this is it, that FM>MD version.
-
-It's still a crisp-essy recording, but does not contain the horrible phasing that the more widely circulated dFM>MP2 does, which in my book should not be traded as a lossless show at all, but that's just me.
-
-Anyway, here it is sounding quite good to me. I waited a long time to get my hands on one of the true FM's, and this is it. The bonuses are a rare but quality live version of "The Sacred and Profane" and a killer rendition of Melissa singing Human Leagues "Don't You Want Me" with the "Du Hast" tease opening.
-
-I left the abandoned "SIYL" as I know some of you prefer it that way, but I gave it it's own track at least. Also, this had the titles of "HMM" and "BWBW" switched. The songs were in correct order, but the names were not. I did some work to it overall, killing some of the "essing" and smoothing out the whole spectrum, spread, enhanced, maximized.
-
-Enjoy the greatest *Not Really An Aud* ever!
-
-1  The Everlasting Gaze
-2  The Sacred and Profane
-3  Glass and the Ghost Children
-4  Stand Inside Your Love (abandoned)
-5  Stand Inside Your Love 
-6  I Am One 
-7  Don't You Want Me
-8  I of the Mourning 
-9  Mayonaise 
-10 To Sheila 
-11 Bullet with Butterfly Wings 
-12 Heavy Metal Machine
-13 Blue Skies Bring Tears 
-14 Cherub Rock 
-15 1979
-
-
-
-PRE-13 SOURCE
-===============
-
-Read Above
-
-Most likely gen is: FM>MD>FLAC
+DISTRIBUTION:
+Spaldz, Nicholas Serra, & Members of SPLRA
+2022-07-25

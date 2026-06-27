@@ -1,75 +1,44 @@
-Smashing Pumpkins
-October 5th 1996
+The Smashing Pumpkins
+96.10.05
 Rosemont Horizon
-Rosemont, IL, US
+Rosemont, IL
 
-SOURCE (AUD#1)
-CSB > TCD-D7
 
-TRANSFER:
-Tascam DA-20 > Monster coax > Delto Dio 2496 > Sound Forge 6.0 (resample to 44.1) > CDWAVE > Adobe Audition > FLAC
+DAT(CSB>D7)->CDR
+(no ANA lineage)
 
-GENERATION:
-DAT(M) > FLAC
 
-LENGTH:
-143:42
+Set: 
 
-SETLIST:
-01. Mellon Collie and the Infinite Sadness
-02. Where Boys Fear to Tread
-03. Zero
-04. Cherub Rock
-05. To Forgive
-06. Tonight, Tonight
-07. Today
-08. Thru the Eyes of Ruby
-09. Porcelina of the Vast Oceans > Beautiful (unfinished) > Rocket (tease)
-10. (banter) > We Only Come Out at Night (one verse)
-11. Disarm
-12. Bullet With Butterfly Wings
-13. Fuck You (An Ode to No One)
-14. Muzzle
-15. (encore break)
+Where Boys Fear to Tread 
+Zero 
+Cherub Rock 
+To Forgive 
+Tonight, Tonight 
+Today 
+Thru the Eyes of Ruby 
+Porcelina of the Vast Oceans 
+> Beautiful   (tease) 
+> Rocket   (tease) 
+We Only Come Out at Night 
+Disarm 
+Bullet with Butterfly Wings 
+Fuck You 
+Muzzle 
 
-ENCORE ONE:
-16. 1979
-17. X.Y.U.
-18. (encore break)
+Encore 1: 
 
-ENCORE TWO:
-19. Mayonaise
-20. (encore break)
+1979 
+X.Y.U. 
 
-ENCORE THREE:
-21. Silverfuck
+Encore 2: 
 
-NOTES:
-Thanks to traveller03 for sending over. This is a direct transfer from the master tape. Unfortunately there were two small skips in this transfer which have been patched from an alternative transfer
+Mayonaise 
 
-MD5 FINGERPRINTS:
-522c59bfec80d3a846cf30429a536ff2 *Smashing Pumpkins 1996-10-05 AUD1 t01 Mellon Collie and the Infinite Sadness.flac
-bb7a52024c606e4d4b658181fe740961 *Smashing Pumpkins 1996-10-05 AUD1 t02 Where Boys Fear to Tread.flac
-d943b346853de15b17018c25592244fb *Smashing Pumpkins 1996-10-05 AUD1 t03 Zero.flac
-83de91f064d18e9496768f134a08478f *Smashing Pumpkins 1996-10-05 AUD1 t04 Cherub Rock.flac
-b29d37a74e9ca5214a7aa4918cee6db3 *Smashing Pumpkins 1996-10-05 AUD1 t05 To Forgive.flac
-0e691ff10785bc8e449047309f9e552e *Smashing Pumpkins 1996-10-05 AUD1 t06 Tonight, Tonight.flac
-a9c4bb491392a2068248f16043a48ac7 *Smashing Pumpkins 1996-10-05 AUD1 t07 Today.flac
-95cf84b25736545326ae2183fb6b22d2 *Smashing Pumpkins 1996-10-05 AUD1 t08 Thru the Eyes of Ruby.flac
-a80da13198d2911a43b20af332774a6d *Smashing Pumpkins 1996-10-05 AUD1 t09 Porcelina of the Vast Oceans.flac
-2501fa3d36162e3e22e21e748a26c8bc *Smashing Pumpkins 1996-10-05 AUD1 t10 (banter).flac
-c1cbf8563ef9133905117dac7eb1b977 *Smashing Pumpkins 1996-10-05 AUD1 t11 Disarm.flac
-216ad88ccdc3bda5d3ff3d7acd2e407e *Smashing Pumpkins 1996-10-05 AUD1 t12 Bullet With Butterfly Wings.flac
-73146bb08d89316edb2298df44fc1cd3 *Smashing Pumpkins 1996-10-05 AUD1 t13 Fuck You (An Ode to No One).flac
-bda4a3f6a2854f769bb96d8109e6e036 *Smashing Pumpkins 1996-10-05 AUD1 t14 Muzzle.flac
-98bb8d40fc32ac13badde30ced9faf26 *Smashing Pumpkins 1996-10-05 AUD1 t15 (encore break).flac
-77656900d0e75fb374010ce9073f23c2 *Smashing Pumpkins 1996-10-05 AUD1 t16 1979.flac
-4b074cf9d6f341ba4d0611bcc33030df *Smashing Pumpkins 1996-10-05 AUD1 t17 X.Y.U..flac
-2743aa9252e3138d9f8cfecb674a6525 *Smashing Pumpkins 1996-10-05 AUD1 t18 (encore break).flac
-721d740ed1f5467e7008b7e52e6e615e *Smashing Pumpkins 1996-10-05 AUD1 t19 Mayonaise.flac
-a9e6c21fab0559620ada315bcf6912e6 *Smashing Pumpkins 1996-10-05 AUD1 t20 (encore break).flac
-45ce2bbe06057cdb6836d0acd5121c85 *Smashing Pumpkins 1996-10-05 AUD1 t21 Silverfuck.flac
+Encore 3: 
 
-DISTRIBUTION:
-Spaldz, Nicholas Serra & Members of SPLRA
-2026-03-03
+Silverfuck 
+
+-----------------------------------------------------
+Encoded to SHN vie EAC by Slurpee
+Weezer Tour Archive: http://www.iceage.org/wta/

@@ -1,45 +1,30 @@
-Smashing Pumpkins
-October 19th, 1993
-Warfield Theater
-San Francisco, CA, US
+The Smashing Pumpkins
+1993-10-19
+Warfield Theater; San Francisco, CA
 
-source: AUD > DAT > 4th gen analog tape > Audacity (level adjustment, peak reduction) > WAV
-editing: Audacity (patch last track), CDWave (split), TLH (flac8)
+Source: AUD>ANA-?>CDR-M>CDR-1>EAC>FLAC
 
-from the collection of Steve Hagar aka ballsdeep
+your burned copy will be CDR-2
 
-01. -intro-
-02. Geek U.S.A.
-03. Quiet
-04. Today
-05. Rhinoceros
-06. Rocket
-07. I Am One (with rant)
-08. Disarm
-09. Hummer
-10. Soma
-11. Luna
-12. Siva
-13. Cherub Rock
+01. Geek U.S.A. - 6:20
+02. Quiet - 3:32
+03. Today - 3:43
+04. Rhinoceros - 4:24
+05. Rocket - 4:43
+XX. I Am One
+XX. Disarm
+XX. Hummer
+XX. Soma
+XX. Luna
+XX. Siva
+XX. Cherub Rock
+XX. Mayonaise
+XX. Bury Me
+06. Unknown Instrumental - 3:35
+07. Silverfuck > Over the Rainbow [Harburg/Arlen] (tease) > Jackboot (tease) - 10:24
+08. > Livin' After Midnight [Judas Priest] (tease) - 1:20
+09. Sweet Sweet - 2:06
 
-encore one:
-14. -banter-
-15. Mayonaise
-16. Bury Me
+Thanks to Chuck Drost!
 
-encore two:
-17. -instrumental-
-18. > Silverfuck > Over the Rainbow (tease) > Jackboot (tease) > Livin' After Midnight [Judas Priest] (tease)
-19. > Sweet Sweet
-
-trt 98:19
-
-* last 35 seconds of Sweet Sweet patched from the old transfer of this show [ANA-? > CDR-1 > EAC > FLAC]
-* the sound on this is bassier than the other version, but contains less hiss...probably an upgrade sonically, and this version is complete
-* Medicine, Richard McGee, and Shudder to Think opened
-
-Steve says:
-"on closer inspection, it appeared the levels were pretty low until the 40m mark. not in a major way, but the last song on side A in Audacity looked to be nearly twice as loud as the rest of side A, and side B seems to be higher like the last song on side A"
-
-don't sell, etc
 -rhinowing

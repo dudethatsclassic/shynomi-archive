@@ -1,23 +1,13 @@
 A Perfect Circle
-2000-07-01
-London, England
+2000.07.01
 Docklands Arena
+London, UK
 
-Taper: CatalystX
-Source: Core Sound Binaurals > CS Battery Box/120 > Sony PCM-M1(Oade)/48 (FOB)
-Transfer: DAT-M > Tascam DA-30 (SPDIF Out) > Audiophile 24/96 (SPDIF In) > Sound Forge 7.0 (Levels +14db) > WAV > FLAC (Level 8)
-Notes: Digitally transferred by Distortion on 9-2-2006. Raised the levels as they were too low, otherwise this is the raw recording.
+Source: unknown
+Generation: unknown
 
-Setlist:
-Renholdër
-The Hollow
-Magdalena
-3 Libras
-Orestes
-Sleeping Beauty
-Breña
-Thinking Of You
-Thomas
-Ozzy's Cure
-Rose
-Judith
+Taper: unknown
+
+Notes:
+Ripped from Geordy's CD marked "sj".
+Ripped via EAC 01/2010 by Dassarri.

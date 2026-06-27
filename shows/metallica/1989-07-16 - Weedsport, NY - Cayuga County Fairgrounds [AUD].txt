@@ -1,5 +1,5 @@
-EAC extraction logfile from 10. November 2006, 18:31 for CD
-Metallica / Weedsport, NY - July 16, 1989 Disc 1
+EAC extraction logfile from 10. November 2006, 18:53 for CD
+Metallica / Weedsport, NY - July 16, 1989 Disc 2
 
 Used drive  : _NEC    DVD_RW ND-3500AG   Adapter: 0  ID: 3
 Read mode   : Secure with C2, accurate stream, NO disable cache
@@ -16,84 +16,69 @@ Other options      :
 
 
 Track  1
-     Filename C:\Documents and Settings\Rich\My Documents\My Music\\Metallica\Weedsport, NY - July 16, 1989 (bootleg) CD1\01_Blackened.wav
+     Filename C:\Documents and Settings\Rich\My Documents\My Music\\Metallica\Weedsport, NY - July 16, 1989 (bootleg) Disc 2\01_...And_Justice_for_All.wav
 
      Peak level 100.0 %
      Track quality 100.0 %
-     Copy CRC EDE8844A
+     Copy CRC DA9DADC7
      Copy OK
 
 Track  2
-     Filename C:\Documents and Settings\Rich\My Documents\My Music\\Metallica\Weedsport, NY - July 16, 1989 (bootleg) CD1\02_For_Whom_The_Bell_Tolls.wav
+     Filename C:\Documents and Settings\Rich\My Documents\My Music\\Metallica\Weedsport, NY - July 16, 1989 (bootleg) Disc 2\02_Creeping_Death.wav
 
      Peak level 100.0 %
      Track quality 100.0 %
-     Copy CRC 66779D88
+     Copy CRC E2BC58A5
      Copy OK
 
 Track  3
-     Filename C:\Documents and Settings\Rich\My Documents\My Music\\Metallica\Weedsport, NY - July 16, 1989 (bootleg) CD1\03_Welcome_Home_(Sanitarium).wav
-
-     Peak level 100.0 %
-     Track quality 100.0 %
-     Copy CRC 55B449E5
-     Copy OK
-
-Track  4
-     Filename C:\Documents and Settings\Rich\My Documents\My Music\\Metallica\Weedsport, NY - July 16, 1989 (bootleg) CD1\04_Harvester_Of_Sorrow.wav
-
-     Peak level 100.0 %
-     Track quality 100.0 %
-     Copy CRC 2CD8BD09
-     Copy OK
-
-Track  5
-     Filename C:\Documents and Settings\Rich\My Documents\My Music\\Metallica\Weedsport, NY - July 16, 1989 (bootleg) CD1\05_The_Four_Horsemen.wav
-
-     Peak level 100.0 %
-     Track quality 100.0 %
-     Copy CRC 74EC5F7C
-     Copy OK
-
-Track  6
-     Filename C:\Documents and Settings\Rich\My Documents\My Music\\Metallica\Weedsport, NY - July 16, 1989 (bootleg) CD1\06_The_Thing_That_Should_Not_Be.wav
+     Filename C:\Documents and Settings\Rich\My Documents\My Music\\Metallica\Weedsport, NY - July 16, 1989 (bootleg) Disc 2\03_One.wav
 
      Peak level 100.0 %
      Track quality 99.9 %
-     Copy CRC 21679F12
+     Copy CRC 54D3D211
+     Copy OK
+
+Track  4
+     Filename C:\Documents and Settings\Rich\My Documents\My Music\\Metallica\Weedsport, NY - July 16, 1989 (bootleg) Disc 2\04_Guitar_Solo.wav
+
+     Peak level 100.0 %
+     Track quality 100.0 %
+     Copy CRC 7E8F7032
+     Copy OK
+
+Track  5
+     Filename C:\Documents and Settings\Rich\My Documents\My Music\\Metallica\Weedsport, NY - July 16, 1989 (bootleg) Disc 2\05_Battery.wav
+
+     Peak level 100.0 %
+     Track quality 100.0 %
+     Copy CRC B8B5669C
+     Copy OK
+
+Track  6
+     Filename C:\Documents and Settings\Rich\My Documents\My Music\\Metallica\Weedsport, NY - July 16, 1989 (bootleg) Disc 2\06_Last_Caress.wav
+
+     Peak level 100.0 %
+     Track quality 99.8 %
+     Copy CRC 6098921A
      Copy OK
 
 Track  7
-     Filename C:\Documents and Settings\Rich\My Documents\My Music\\Metallica\Weedsport, NY - July 16, 1989 (bootleg) CD1\07_Bass_Solo.wav
+     Filename C:\Documents and Settings\Rich\My Documents\My Music\\Metallica\Weedsport, NY - July 16, 1989 (bootleg) Disc 2\07_Am_I_Evil_.wav
 
      Peak level 100.0 %
      Track quality 100.0 %
-     Copy CRC 34F29419
+     Copy CRC CC19FA0F
      Copy OK
 
 Track  8
-     Filename C:\Documents and Settings\Rich\My Documents\My Music\\Metallica\Weedsport, NY - July 16, 1989 (bootleg) CD1\08_Master_Of_Puppets.wav
+     Filename C:\Documents and Settings\Rich\My Documents\My Music\\Metallica\Weedsport, NY - July 16, 1989 (bootleg) Disc 2\08_Damage_Inc..wav
 
      Peak level 100.0 %
-     Track quality 100.0 %
-     Copy CRC 3DC07DBF
+     Track quality 99.9 %
+     Copy CRC 1C70D09B
      Copy OK
 
-Track  9
-     Filename C:\Documents and Settings\Rich\My Documents\My Music\\Metallica\Weedsport, NY - July 16, 1989 (bootleg) CD1\09_Fade_To_Black.wav
-
-     Peak level 100.0 %
-     Track quality 100.0 %
-     Copy CRC C5EECCA2
-     Copy OK
-
-Track 10
-     Filename C:\Documents and Settings\Rich\My Documents\My Music\\Metallica\Weedsport, NY - July 16, 1989 (bootleg) CD1\10_Seek_And_Destroy.wav
-
-     Peak level 100.0 %
-     Track quality 100.0 %
-     Copy CRC 4A02E35D
-     Copy OK
 
 No errors occured
 

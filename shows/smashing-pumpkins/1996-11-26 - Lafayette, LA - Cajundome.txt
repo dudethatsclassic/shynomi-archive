@@ -1,62 +1,30 @@
-Smashing Pumpkins
-November 26th 1996
+The Smashing Pumpkins
+11/26/1996
 Cajundome
-Lafayette, LA, US
+Lafayette, LA
 
-SOURCE (AUD#1)
-Core Sound Binaurals > Sony TCD-D8
+Taper:            Jack White
+Source:           CSB > D8
+Conversion:       DDC-2 > PCM-R300 > Audiophile 2496 > SHN > CDR-0
+Ripper:           Andrew Fogelsong
+FLAC:             CDR-0 > EAC V0.95 beta 4(proper offset) > WAV > FLAC (level 8)
+Notes:		  recording ends during Porcelina
 
-TRANSFER:
-Tascam DA-20mkII > Apogee S/PDIF cable > PreSonus FireStudio Project > Adobe Audition 3.0 > Trader's Little Helper 2.7.0
+********************************************************************************
+	                    SPREAD THE MUSIC
+********************************************************************************
 
-GENERATION:
-DAT(1) [32kHz] > WAV [32kHz] > FLAC [Level 8]
-
-LENGTH:
-61:15
-
-SETLIST:
-01. Mellon Collie and the Infinite Sadness
-02. Where Boys Fear to Tread
-03. Zero
-04. Fuck You (An Ode to No One)
-05. By Starlight
-06. Tonight, Tonight
-07. Today
-08. Jellybelly
-09. Thru the Eyes of Ruby
-10. Siva
+1. MCIS
+2. Where Boys Fear to Tread
+3. Zero
+4. Fuck You
+5. By Starlight
+6. Tonight, Tonight
+7. Today
+8. Jellybelly
+9. Thru the Eyes of Ruby
+10. Siva (blues version)
 11. Disarm
-12. Bullet With Butterfly Wings
+12. Bullet with Butterfly Wings
 13. Muzzle
 14. Porcelina of the Vast Oceans (cut)
-
-NOTES:
-DAT(2) to DAT(1) upgrade. Old source had a moderate amount of dropouts/pops whereas this is a clean transfer. Recording ends during Porcelina of the Vast Oceans.
-
-This DAT was 32khz and the old circulating DAT was likely upsampled to 44.1 for CD distribution. The original master tape may also have been 32khz.
-
-Thank you to Mike Ziegler for the recording and to Matt Reeder for analysis.
-
-MD5 FINGERPRINTS:
-db2a1d36b688197859e83865247e9895 *Smashing Pumpkins 1996-11-26 AUD1 t01 Mellon Collie and the Infinite Sadness.flac
-12a6ff56c7757d47f9c8eaa2d949cfb4 *Smashing Pumpkins 1996-11-26 AUD1 t02 Where Boys Fear to Tread.flac
-0d62178eed7ecfb8baa6e2a4c3e112e0 *Smashing Pumpkins 1996-11-26 AUD1 t03 Zero.flac
-8e29f18549245622125c9fe07bfcb64b *Smashing Pumpkins 1996-11-26 AUD1 t04 Fuck You (An Ode to No One).flac
-cbf877d0ccac064abf9c112ca9c4e518 *Smashing Pumpkins 1996-11-26 AUD1 t05 By Starlight.flac
-5fe069cb0b0d1bc309101a165a05a5f0 *Smashing Pumpkins 1996-11-26 AUD1 t06 Tonight, Tonight.flac
-ba3465de4ccee42354c9b870521cdf78 *Smashing Pumpkins 1996-11-26 AUD1 t07 Today.flac
-c6a2329a3898551e8f7af55bd176ec56 *Smashing Pumpkins 1996-11-26 AUD1 t08 Jellybelly.flac
-778299a0119346909d43d2f549accbfd *Smashing Pumpkins 1996-11-26 AUD1 t09 Thru the Eyes of Ruby.flac
-18514e34c89a51b40bc9c985cdbf767a *Smashing Pumpkins 1996-11-26 AUD1 t10 Siva.flac
-b637a68baf394934fb5c53e1208590c5 *Smashing Pumpkins 1996-11-26 AUD1 t11 Disarm.flac
-f3912e48061c90f26bfcc804a3ad2db3 *Smashing Pumpkins 1996-11-26 AUD1 t12 Bullet With Butterfly Wings.flac
-72c509cfc55da0c3964f7b75802bf449 *Smashing Pumpkins 1996-11-26 AUD1 t13 Muzzle.flac
-19d8cb8ca133eb23fbf8b65951135d1d *Smashing Pumpkins 1996-11-26 AUD1 t14 Porcelina of the Vast Oceans (cut).flac
-
-TRANSFER BY:
-Mike Ziegler
-
-DISTRIBUTION:
-Nicholas Serra, Spaldz & Members of SPLRA
-2025-11-02

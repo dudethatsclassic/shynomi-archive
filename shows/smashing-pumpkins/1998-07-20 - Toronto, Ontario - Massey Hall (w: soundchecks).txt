@@ -1,65 +1,20 @@
 Smashing Pumpkins
 July 20th, 1998
-Massey Hall
-Toronto, Ontario, CA
+Street Outreach Services
+Toronto, ON, CA
 
-MKE2>M1>DAT-2(48k)>Fostex D5 (Optical)>m-audio DiO 2496>CDWave(tracking/downsample)>FLAC
+Source: MuchMusic broadcast > unknown gen NTSC VHS (EP)
+Transfer: Magnavox ZV427MG9 Standalone > RCA to 1/8 cable > DR-2D (24/44.1)
+Editing: Audacity (amplified, dithered), TLH (flac level 8)
 
-Source: AUD #1 - One other source circulates.
+01. press conference snippet - 0:32
+02. Billy / James interview - 5:56
 
-Set:
-01. To Sheila - 7:32
-02. Behold! The Night Mare - 5:11
-03. Pug - 5:07
-04. Crestfallen - 4:36
-05. The Tale Of Dusty And Pistol Pete - 4:52
-06. Ava Adore - 6:34
-07. Perfect - 3:19
-08. Annie-Dog - 4:27
-09. Tear - 9:46
-10. Talk - 1:25
-11. Tonight, Tonight - 4:28
-12. Once Upon A Time - 5:24
-13. Stumbleine - 3:57
-14. Where Boys Fear To Tread (tease) -> Bullet With Butterfly Wings - 10:39
-15. Shame - 9:19
-16. For Martha - 8:02
-17. Encore Break - 4:43
-Encore One:
-18. Check Presentation - 1:53
-19. Thru The Eyes Of Ruby - 10:35
-20. Sunshine Of Your Love [Cream] (tease)/1979 (abandoned) - 2:30
-21. 1979 - 3:59
-22. Summertime [Gershwin] (tease) -> Blank Page - 8:48
-23. Encore Break - 4:01
-Encore Two:
-24. Sunshine Of Your Love [Cream] (tease)/Band Introductions - 2:33
-25. Transmission [Joy Division] -> Let's Dance [Bowie] (tease) -> Last Night A DJ Saved My Life [Indeep] (tease) -> Sympathy For The Devil [Rolling Stones] (tease) - 18:17
+thanks to stumpycat for the VHS!
 
-Notes:
-Billy plays Once Upon A Time solo acoustic and Perfect gets a rare electric airing.  This is the only time Sympathy For The Devil and Last Night A DJ Saved My Life were teased. A CDR transfer also circulates from this same exact tape.
+* Street Outreach Services was the charity benefiting from the Massey Hall show
+* I have edited out various segments from the Ava Adore video that were intercut with the interview
+* a clip of Transmission from the 7/19 show remains
 
-Flaws:
-d1t01 - diginoise (0:50)
-d1t02 - volume swell (1:15)
-d1t03 - cut/skip (4:52)
-d2t08 - skip/blip (8:30)
-d2t11 - two left channel pops (6:58)
-Because of the length of this show, you will have to either put Bullet With Butterfly Wings and Shame on separate discs, or put Transmission on a disc by itself
-From viewing the waveforms when tracking this show, I noticed that the bottom half of the sound looked clipped off starting before Pug
--I'm not sure how this could happen to only one half of the sound, unless the taper had separate levels for each mic or someone monkeyed with the show during a DAT copy.
-
----
-DO NOT SELL
-DO NOT CONVERT TO MP3 ASIDE FROM PERSONAL USE
-DO NOT REMIX, REMASTER, ETC WITHOUT PERMISSION
-ENJOY THE MUSIC!
----
-
-Ben Valocchi (rhinowing) and Matt Krueger (Punkishlyevil)
-
-VERY large thank yous go to Reece Donovan and Kevin Davis
-
-Thanks to Dead for the ticket stub
-
-brought to you in association with the SPLRA (splra.org)
+don't sell, etc
+-rhinowing

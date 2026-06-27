@@ -1,45 +1,10 @@
-The Smashing Pumpkins
-The Fillmore
-San Francisco, CA
-July 15, 2007
+Video & Editing by MonteLDS
+-----
+Format : NTSC
+Aspect : 16:9 - 720x480 Progressive
+Bitrate : VBR 2 Pas, Min 1.5 Target 4.00, Max 7.00 [Mbps]
+Framerate : 29.97 fps
 
-Taper:     dcbullet
-Source:    Church Audio Cardioid Mics > Church Audio STC-9000 > Iriver H120
-Transfer:  Iriver H120 > Audacity (levels) > CDWave (tracking) > Flac
-
-01 Intro music
-02 United States (middle cut)
-03 Doomsday Clock
-04 Bleeding The Orchid
-05 Blue Skies Bring Tears
-06 Starla
-07 Today
-08 BWBW
-09 Hummer
-10 Lucky 13
-11 Heavy Metal Machine
-12 Tonight, Tonight
-13 For God & Country
-14 Rotten Apples
-15 If All Goes Wrong
-16 The Leaving Lament
-17 To Sheila
-18 Glass And The Ghost Children
-19 Tarantula
-20 Starz
-21 Zero
-22 Disarm
-23 Untitled
-24 That's The Way
-25 Neverlost
-26 Drown
-27 Silverfuck
-28 Encore Cheers
-
-Encore
-
-29 Gossamer
-
-During the first song, security escorted me to the fire escape while they verified that taping was OK, which, of course, it was.  Therefore, there is approximately 2-3 minutes missing in the middle of United States.
-
-I taped from the right side approximately 30 feet back from the right stack.  Audience chatter is not too bad at all.  Sound quality is pretty darn good.
+Source : Sony HDR-SR5 1080i > Elecard Converter Studio AVC HD Edition > MPEG2
+Editing : Adobe Premiere Pro CS3
+Authoring: Adobe Encore CS3

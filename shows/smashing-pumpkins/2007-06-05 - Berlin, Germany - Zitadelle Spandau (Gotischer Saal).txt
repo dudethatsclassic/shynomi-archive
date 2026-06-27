@@ -1,38 +1,34 @@
-THE SMASHING PUMPKINS
+
+Smashing Pumpkins
 2007-06-05
-Zitadelle Spandau, Gotischer Saal
-Berlin, Germany
+Zitadelle Spandau
+Berlin, DE
 
-Source #1:     OKM IIr/c > A3 > M-AUDIO Microtrack 24/96 (44.1 kHz)
-Source #2:     MBHO MBP 603 A / KA 200 N > Sound Devices MP-2 > Edirol R-09 (44.1 kHz resampling)
-Matrix and Mastering done by: Chris Schu (cjs42079@gmail.com)
-
-Disc 1:
-01 Hummer
-02 Shame
-03 Tonight, Tonight
-04 Home
-05 Glass and the Ghost Children
-06 The Crying Tree of Mercury
-07 Crush
-08 Untitled
-09 Today
-10 Bleeding the Orchid
-11 United States
-
-Disc 2:
-01 Thirty-three
-02 Daydream
-03 Tarantula
-04 Winterlong
-05 That's the Way (My Love Is)
-06 Neverlost
-07 Drown
-08 Gossamer
+Source: OKM-IIr / OKM-IIp > A3 > Microtrack 2496 (16bit / 44.1)
+Transfer: WAV-M > FLAC
 
 
-Notes:
-- The Intro was excluded from this remaster, as well as the Fan Q&A session at the end.
-- Neither source was perfect, but the biggest problem was Source #1 suffered from low levels on the first 7 songs.  Upon increasing the levels, it revealed a TON of hiss.  Major surgery was performed on these 7 to closely match the rest of the set.
-- An effort was made to fix the problem with audience clapping between songs.  Anyone who has either source knows how bad it was.  Yea the music sounded good, but as soon as people start clapping on the recording it was so much louder that it would kill your ears.  It's much better now.
-- Both sources have been EQ'd, maximized, and limited for your listening pleasure.  You should find this version to be a vast improvement over what is currently clogging up your hard dr
+01. intro
+02. Hummer
+03. Shame
+04. Tonight, Tonight
+05. Home
+06. Glass and the Ghost Children
+07. The Crying Tree of Mercury
+08. Crush
+09. Untitled
+10. Today
+11. Bleeding the Orchid
+12. United States
+13. Thirty-three
+14. Daydream
+15. Tarantula
+16. Winterlong
+17. That's the Way (My Love Is)
+18. Neverlost
+19. Drown
+20. Gossamer
+21. Q + A
+
+
+

@@ -1,38 +1,45 @@
-The Smashing Pumpkins
-Unicorn
-Milwaukee, WI
-June 09, 1992
+The Smashing Pumpkins  
+Date:  1992-06-09  
+Venue:  Unicorn  
+Location:  Milwaukee, WI, US  
+Venue: Type  Club
 
-Unknown Audience Source* > 2nd Gen Cassettes > Nakamichi Deck w/ azimuth adjustment > Roland Quad-Capture > PC > WAV > FLAC 
+Info: I've wanted a good complete version of this show for a while and have traded for it 
+quite a few times. The best sounding version I've found so far is a supposed VID-M>CDR-3
+copy but unfortunately it is incomplete, missing Silverfuck entirely. I recently got a VID-?>ANA-3
+copy which not only had a complete Silverfuck but slightly more crowd noise on the intro to 
+'Bury Me'. I've combined the two sources splicing in the missing parts of the VID-M from the
+ANA-3 source. Sounds pretty nice though unfortunately the ANA-3 source is somewhat more
+hissy. I crossfaded the end of the VID-M source into the ANA-3 Silverfuck so that the transition 
+wasn't too abrupt. 
 
-Tracklist: 
+Anyway, enjoy this good sounding complete version of the show until an upgrade comes along. 
+Obviously the "VID-M" I have can't really be the complete VID-M since there's no Silverfuck and 
+the weird cut in the crowd noise. 
 
-01. Intro
-02. Rocket
-03. Slunk
-04. Disarm (earliest known performance)
-05. Happy Birthday Jimmy
-06. The Joker (Steve Miller)
-07. Tristessa
-08. Plume (earliest known performance)
-09. Frail And Bedazzled (earliest known performance)
-10. Drown
-11. Bury Me
-12. Kill Your Parents II
-13. Siva
-14. Luna
-15. Snail
-16. I Am One
-17. Bullet Train To Osaka (only known performance)
-**. Offer Up (REMOVED - Released on Pisces Iscariot Reissue)
-19. Silverfuck
+If anyone out there has a better copy they'd like to share please do so!  :)
+       
+dEdit info: VID-M(?)>CDR-3 + VID-?>ANA-3 > EAC > Adobe Audition 2.0 
+                 > CD Wave for tracking > FLAC 
 
-*Notes: I received these tapes as "ANA-2", with no other lineage. This source is the same one usually listed as being sourced from an audience-shot video. Going by the circulating clips, I don't believe that this source is actually from that video. The video clips were shot from the side of the stage, with the sound captured up close and off-axis. Whereas, the recording here sounds like it was recorded from the back of the venue, next to the bar. In a few spots you can even hear the sound of bottles being cleared away. In any case, this version has more crowd noise before and after the show, and doesn't have noise-reduction or fades between songs like other versions do. 
+01 Rocket 
+02 Slunk 
+03 Disarm 
+04 Happy Birthday [Hill/Hill/Coleman] 
+     The Joker [Steve Miller] 
+05 Tristessa 
+06 Plume 
+07 Frail and Bedazzled 
+08 Drown 
+09 Bury Me 
+10 Siva 
+11 Luna 
+12 Snail 
+13 I Am One 
+14 Bullet Train to Osaka 
+xx Offer Up (removed)
+16 Silverfuck 
 
-The band captured all three Wisconsin shows (6/9 and 6/10 at Unicorn in Milwaukee, and 6/11 at Club de Wash in Madison) via soundboard. Milwaukee's Atomic Records videotaped all three shows as well, and circulated a rough mix of a few songs called "Three Days In June", which was included on Fruit Bat Salad Volume 1. Some of the soundboard songs from these shows were circulated via the Mashed Potatoes set, but nothing else has since come out. 
-
-These gigs were a turning point for the band, marking the shift from the Gish period towards the Siamese Dream era. This first show at Unicorn features the earliest known performances of Disarm, Plume, and Frail and Bedazzled, and the only known performance of Bullet Train to Osaka. The band probably played some of these new songs at the Chicago (5/30) and Champaign (6/8) shows just before these gigs, but no recordings circulate for those. At this first night in Milwaukee, the band played past midnight, so included a rendition of Happy Birthday for Jimmy, in honor of his birthday on 6/10. After these gigs, the band would travel to Detroit, where Billy's favorite guitar would be stolen outside of St Andrew's Hall. He would replace that guitar with a newer model 57 Stratocaster reissue. That guitar would soon get fitted with higher gain Lace Sensor pickups and be paired with a Big Muff fuzz pedal, the combination that would provide the signature sound heard all over Siamese Dream.
-
-Of course, it would be great if the complete soundboards and videos for these shows were to finally come out. The show here is a top ten performance in the band's live history.  
-
-MD5 Checksum included.
+Enjoy!
+-traveller03 
+2/20/06

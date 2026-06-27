@@ -1,37 +1,27 @@
-https://archive.org/details/tsp1991-10-22.early.shn
-
 Smashing Pumpkins
 October 22nd, 1991
 Atomic Records
 Milwaukee, WI, US
 
-01. Intro
-02. Blue
-03. Obscured (abandoned)
+source: AUD > VHS-1 > DAT-M > CDR-2 > EAC [secure] > FLAC
+
+01. -
+02. intro
+03. Blue
 04. Obscured (abandoned)
-05. Siva
-06. Smiley
-07. Suffer
-08. (crowd)
-XX. Terrapin [Syd Barret]
-XX. Luna (first time played)
+05. Obscured (abandoned)
+06. Siva
+07. Smiley
+08. Suffer
+09. Terrapin [Syd Barrett]
+10. Luna
+11. outro
 
-Source AUD>ANA
-Lineage ANA-2>JVC Kaboom Box>Monster Sound Cables>Diamond MX-300>Cool Edit Pro>SHN
-Taped by unknown
-Transferred by unknown
-
-* acoustic show
-* this may actually be sourced from the video
-
-
-Last two tracks from alternate source:
-https://archive.org/details/tsp1991-10-22.early.upgrade.flac16
-
-Source: Audience video > unknown gen VHS (via Josh Provost)
-Transfer: Magnavox ZV427MG9 Standalone > RCA to 1/8 cable > R-09 (16/44.1)
-Editing: Audacity (amplified), CDWave (splits), TLH (flac level 8)
-Lineage VHS-1 > DAT-M > CDR-2 > EAC > FLAC
+trt 38:59
 
 * upgrades VHS-? > FLAC and VHS-L > CDR transfers
-* this is a really great version of Suffer
+* disc from the collection of Andrew Fogelsong
+* EAC log included
+
+don't sell, etc
+-rhinowing

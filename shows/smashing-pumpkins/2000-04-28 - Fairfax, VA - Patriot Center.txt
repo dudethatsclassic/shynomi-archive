@@ -1,78 +1,52 @@
-Smashing Pumpkins
-April 28th 2000
-Patriot Center
-Fairfax, VA, US
+Band: The Smashing Pumpkins
+Date: April 28, 2000
+City: Fairfax, VA, US
+Venue:Patriot Center
+Generation: aud-dat-cdr-eac-wav-shn
 
-SOURCE (AUD#7):
-DSM-6S/L > PA-6LC2 > M1
+****************************************************************************
+          Don't even think about selling or converting to mp3!!!!!
+****************************************************************************
+This show is brought to you fans through the efforts of James alexander and Ryan Blazek.
+2 dedicated pumpkins fan justs making an attempt at spreading the joy of live SP material.
+questions or comments, email us at zwanfan401@yahoo.com
 
-TRANSFER:
-Tascam DA-20mkii > Marantz PMD670 (WAV) > Adobe Audition > CD Wave Editor
+Tracklisting
 
-GENERATION:
-DDC(2) > FLAC
+Disc-1
 
-LENGTH:
-130:28
+01.Rock On
+02.The Everlasting Gaze
+03.Age of Innocence
+04.Glass and the Ghost Children
+05.Blew Away
+06.Stand Inside Your Love
+07.I of the Mourning
+08.Zero
+09.Heavy Metal Machine
+10.GATGC Rant
+11.To Sheila
+12.Blissed and Gone
+13.Disarm
+14.Ava Adore
 
-SET:
-01. Rock On [Essex]
-02. The Everlasting Gaze
-03. Age of Innocence
-04. Glass and the Ghost Children
-05. Blew Away
-06. Stand Inside Your Love
-07. I of the Mourning
-08. Zero
-09. Heavy Metal Machine
-10. To Sheila
-11. Blissed and Gone
-12. Disarm
-13. Ava Adore
-14. Mayonaise
-15. Tonight, Tonight
-16. Today
-17. Blue Skies Bring Tears
-18. Bullet with Butterfly Wings
-19. Once in a Lifetime [Talking Heads]
-20. Moshpit Queen
-21. 1979
-22. Cherub Rock
-23. With Every Light
-24. Drown
+Disc-2
 
-NOTES:
-Thank you to Andrew Fogelsong for the transfer and raw files.
+01.Mayonaise
+02.Tonight Tonight
+03.Today
+04.Blue Skies Bring Tears
+05.Bullet With Butterfly Wings
+06.Once in a Lifetime
+07.1979
+08.Cherub Rock
+09.With Every Light
+10.Drown
 
-MD5 FINGERPRINTS:
-eeb40e889cafc11049b82fbe108f41c4 *Smashing Pumpkins 2000-04-28 AUD7 t01 Rock On [Essex].flac
-40c2194b81a13271d104e85f5ba06632 *Smashing Pumpkins 2000-04-28 AUD7 t02 The Everlasting Gaze.flac
-d7a5c1c32822559383ec1d9c4e9cc369 *Smashing Pumpkins 2000-04-28 AUD7 t03 Age of Innocence.flac
-f9b7c13c009a94debbfa44b08bc35b10 *Smashing Pumpkins 2000-04-28 AUD7 t04 Glass and the Ghost Children.flac
-c3a614a779bb831880c7a8c2507b5037 *Smashing Pumpkins 2000-04-28 AUD7 t05 Blew Away.flac
-5d9cfef7804884704522339195f6cdb2 *Smashing Pumpkins 2000-04-28 AUD7 t06 Stand Inside Your Love.flac
-5a20d4babf006156cd011e870d8c2f0f *Smashing Pumpkins 2000-04-28 AUD7 t07 I of the Mourning.flac
-32a9602ee3dce475c3388bdec44a6e65 *Smashing Pumpkins 2000-04-28 AUD7 t08 Zero.flac
-b281bcae3fe86edc87d251506f8a54fc *Smashing Pumpkins 2000-04-28 AUD7 t09 Heavy Metal Machine.flac
-ad086ab226671c267280c66b72ae543f *Smashing Pumpkins 2000-04-28 AUD7 t10 To Sheila.flac
-e4f2d8bb1440889c6cad572557e3dd10 *Smashing Pumpkins 2000-04-28 AUD7 t11 Blissed and Gone.flac
-0dc511bb67bcb77016afc890be557651 *Smashing Pumpkins 2000-04-28 AUD7 t12 Disarm.flac
-2bb1e186e6e9ed3fa31612d5ffdbb7a0 *Smashing Pumpkins 2000-04-28 AUD7 t13 Ava Adore.flac
-6f86989a17dfc9c6175166e7f56461a2 *Smashing Pumpkins 2000-04-28 AUD7 t14 Mayonaise.flac
-447c8ff2122e81d79a24f19b282bd78a *Smashing Pumpkins 2000-04-28 AUD7 t15 Tonight, Tonight.flac
-05457567f243d6d9ac9e44caf42c11f3 *Smashing Pumpkins 2000-04-28 AUD7 t16 Today.flac
-91235de82d34cc4dff314222b1a867a9 *Smashing Pumpkins 2000-04-28 AUD7 t17 Blue Skies Bring Tears.flac
-68e6986a1cca457afd56b6654d6ecdae *Smashing Pumpkins 2000-04-28 AUD7 t18 Bullet with Butterfly Wings.flac
-df6c57ad855e88af002f59102dbeaf54 *Smashing Pumpkins 2000-04-28 AUD7 t19 Once in a Lifetime [Talking Heads].flac
-c7decb4ecc261cb17277a408d14e742f *Smashing Pumpkins 2000-04-28 AUD7 t20 Moshpit Queen.flac
-d90124b7f2b604b4606a444296147057 *Smashing Pumpkins 2000-04-28 AUD7 t21 1979.flac
-4ece60b25bc488de7a6a247f9fb81993 *Smashing Pumpkins 2000-04-28 AUD7 t22 Cherub Rock.flac
-9047b220cb4bb8f66b555f19b7050649 *Smashing Pumpkins 2000-04-28 AUD7 t23 With Every Light.flac
-bd79e07679e2fe0d8a76125deff42cda *Smashing Pumpkins 2000-04-28 AUD7 t24 Drown.flac
+Notes
+Show has never appeared on the hub to our knowledge, thus, we must bring it to the
+fans.  The show is complete, and has good quality, not the greatest though.  Nothing
+to special to report about the show though.  Here it is to the SP community, i hope you 
+all enjoy, ROCK ON!!!
 
-TRANSFER BY:
-Andrew Fogelsong
-
-DISTRIBUTION:
-Nicholas Serra, Spaldz, & Members of SPLRA
-2022-07-19
+seeded on March 04, 2004

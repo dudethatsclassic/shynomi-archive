@@ -1,18 +1,36 @@
-    length     expanded size   cdr  WAVE problems filename
-     6:13.04       65806652    ---   --   ---xx   931130-01.flac
-     3:46.57       40000508    ---   --   ---xx   931130-02.flac
-     3:11.59       33831212    ---   --   ---xx   931130-03.flac
-     3:20.25       35338844    ---   --   ---xx   931130-04.flac
-     4:03.48       42978140    ---   --   ---xx   931130-05.flac
-     6:58.02       73739948    ---   --   ---xx   931130-06.flac
-     4:44.69       50259932    ---   --   ---xx   931130-07.flac
-     6:30.18       68838380    ---   --   ---xx   931130-08.flac
-     4:34.00       48333644    ---   --   ---xx   931130-09.flac
-     6:34.61       69645116    ---   --   ---xx   931130-10.flac
-     6:48.30       72041804    ---   --   ---xx   931130-11.flac
-     4:25.44       46849532    ---   --   ---xx   931130-12.flac
-     8:43.14       92290172    ---   --   ---xx   931130-13.flac
-    10:23.45      110002096    -b-   --   ---xx   931130-14.flac
-    80:18.26         810.58 MB                    (totals for 14 files, 0.6111 o
-verall compression ratio)
-Druk op een toets om door te gaan. . .
+Smashing Pumpkins
+November 30th, 1993
+Metropolis
+Montreal, QC, CA
+
+source: PC-62 > WM-D3
+transfer: ANA-1 > TCD-D8 > DDC-0 > CDR-2 > EAC [secure] > FLAC
+
+01. intro
+02. Geek U.S.A.
+03. Quiet
+04. Today
+05. Disarm
+06. Rocket
+07. Siva
+08. banter
+09. Drown > Hummer
+10. Cherub Rock
+11. Soma
+12. I Am One (with rant)
+
+13. Bury Me
+14. Spaceboy
+
+15. Fly By Night [Rush] (tease) > instrumental > Suffer (one verse)
+16. Silverfuck > Over the Rainbow (tease)
+
+trt 77:59
+
+* mic pullouts during Hummer and Cherub Rock
+* Melissa auf der Maur played bass for opening band Tinker
+* disc from the collection of Andrew Fogelsong
+* EAC log included
+
+don't sell, etc
+-rhinowing

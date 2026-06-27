@@ -1,50 +1,42 @@
-Smashing Pumpkins
-February 27th, 1995
-Double Door
-Chicago, IL, US
+The Smashing Pumpkins
+02-27-1995 Double Doors; Chicago, IL
 
-source: AUD > ANA-1 > CDR-? > EAC [secure] > WAV > dEdit > FLAC
+Source: ANA(low?)>CDR
+Conversion: CDR>EAC>WAV>FLAC
+Notes: certainly not "almost unlistenable"; about half of show cut, though
 
-* sonically identical to what is circulating as ANA-? > CDR; this has corrrected track marks and verified lineage
+*DO NOT CONVERT TO MP3 OR OTHER LOSSY FORMAT*
 
-01. Take Me Down [James solo]
-02. Country Girl [James solo]
-03. Meladori Magpie [Billy / James]
-04. Ugly [Billy solo]
-05. Stumbleine [Billy solo]
-06. band enter
-07. Tonight, Tonight
-08. Fuck You
-09. Love
-10. Porcelina of the Vast Oceans
-11. Speed
-XX. Cupid de Locke
-XX. Galapogos
-XX. God
-XX. Here is No Why
-XX. Muzzle
-XX. Bullet with Butterfly Wings
-XX. Zero
-XX. Set the Ray to Jerry
-XX. Jellybelly
+------------------
+1-2.Take Me Down/ Country Girl 
+3. Meladori Magpie 
+4. Ugly 
+5. Stumbleine 
+6. Tonight, Tonight 
+7. Fuck You 
+8. Love 
+9. Porcelina of the Vast Oceans 
+10. Speed 
+--CUT--
+Cupid de Locke 
+Galapogos 
+God 
+Here Is No Why 
+Muzzle 
+Bullet with Butterfly Wings 
+Zero 
+Set the Ray to Jerry 
+Jellybelly 
+--CUT--
+11. Lily 
+12. Frail and Bedazzled (extrememly muffled) [orig track 15 on my CD- I put it back in place here]
+13. Pissant 
+Encore 2: 
+14. Blew Away 
+15. Never Let Me Down [Depeche Mode] 
+16. Hello Kitty Kat (extremely muffled)
 
-12. Lily (My One and Only)
-13. Frail and Bedazzled
-14. Pissant
+total: 71:36
+-------------------
 
-15. Blew Away
-16. Never Let Me Down [Depeche Mode]
-17. Hello Kitty Kat
-
-trt 71:23
-
-* missing the last nine songs of the main set
-* Frail and Bedazzled and Hello Kitty Kat are extremely muffled; in general this is not a good recording
-* this is supposedly the first show chronologically to exist in the band's vault on multitrack ADAT
-* I cleaned up the tape edits and moved Frail and Bedazzled into it's proper place
-* first performances: Take Me Down, Country Girl, Meladori Magpie
-* only performance: Ugly
-* final performance: Hello Kitty Kat
-
-don't sell, etc
--rhinowing
+uploaded to the TSP/Zwan Hub 08/2004 by dsheinem@yahoo.com

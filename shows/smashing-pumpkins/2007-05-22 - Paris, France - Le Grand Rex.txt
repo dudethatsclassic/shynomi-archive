@@ -1,55 +1,49 @@
-The Smashing Pumpkins
-Paris, France - Le Grand Rex
-May 22, 2007
+THE SMASHING PUMPKINS
+2007-05-22
+Le Grand Rex
+Paris, France
 
-Audience recording
-Sony ECM-717 > SP-SPSB-8 (bass roll-off @ 95 Hz) > H120 > SoundForge 8.0 (Balance > Smooth compression on crowd noise > Normalize > Fade in/out) > flac -8
-taper: Arn0
+Source:     MBHO MBP 603 A / KA 200 N > Sound Devices MP-2 > Edirol R-09
+Mic Config: in hat, DINA (17cm, 90°)
+Location:   Mezzanine (lower balcony), 1st row, center
+Transfer:   Master WAVs > Digital Editing > CD Wave Editor V1.95.1
+              > FLAC V1.1.4
+Editing:    EQ, volume boost and fades in Steinberg WaveLab V5.01b
 
-Setlist :
+Setlist:
+01 (Intro)
+02 United States
+03 Today
+04 Stand Inside Your Love
+05 Bleeding the Orchid
+06 Doomsday Clock
+07 Home
+08 Hummer
+09 Starz
+10 Tarantula
+11 Bullet with Butterfly Wings
+12 Gossamer
+13 For God and Country
+14 Thirty-three
+15 Rocket
+16 Winterlong
+17 To Sheila
+18 Glass and the Ghost Children
+19 Cherub Rock
+20 1979
+21 Tonight, Tonight
+22 Neverlost
+23 That's the Way
+24 Disarm
+25 Zero
+26 Untitled
+27 (Encore Break #1)
+28 Shame
+29 Silverfuck > The End [The Doors] (tease)
+30 (Encore Break #2)
+31 Annie-Dog
+32 Muzzle
 
-01 United States
-02 Today
-03 Stand Inside Your Love
-04 Orchid
-05 Doomsday Clock
-06 Home
-07 Hummer
-08 Starz
-09 Tarantula
-10 Bullet with Butterfly Wings
-11 Gossamer
-12 For God and Country
-13 Thirty-three
-14 Rocket
-15 Winterlong
-16 To Sheila
-17 Glass and the Ghost Children
-18 Cherub Rock
-19 1979
-20 Tonight, Tonight
-21 Never Lost
-22 That's The Way
-23 Disarm
-24 Zero
-25 Untitled 
-
-Encore 1:
-
-26 Shame
-27 Silverfuck 
-
-Encore 2:
-
-28 Annie-Dog
-29 Muzzle 
-
-***************************************************************************
-PLEASE REDISTRIBUTE IT AS IS
-DO NOT CONVERT TO ANOTHER LOSSLESS OR LOSSY FORMAT EXCEPT FOR PERSONNAL USE
-***************************************************************************
-
-Originally seeded on dimeadozen.
-
-
-Thanks to the Smashing Pumpkins !! Nice to see you back !
+Notes:
+First show since 2000-12-02.
+This is the 24-bit version of this recording.

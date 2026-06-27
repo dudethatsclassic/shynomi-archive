@@ -8,4 +8,4 @@
 08. Track 8.flac:  successfully fixed/rewritten to '08. Track 8-fixed.flac'.
 09. Track 9.flac:  successfully fixed/rewritten to '09. Track 9-fixed.flac'.
 
-Padded last file with 408 zero-bytes.
+Padded last file with 392 zero-bytes.

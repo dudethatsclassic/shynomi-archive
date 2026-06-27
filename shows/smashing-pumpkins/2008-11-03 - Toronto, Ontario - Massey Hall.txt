@@ -1,62 +1,26 @@
-Smashing Pumpkins - 2008-11-03
-Massey Hall
-Toronto, ON
-
-Recorded by Matt - splatto at gmail dot com
-Equipment: Edirol r09 (internal mics) ->FLAC
-Location: left-centre floor, row M
-Cut up in CD Wave Editor
-
-Set:
-
-01. Roctopus
-02. Jimmy's Drum Solo
-02. Everybody Come Clap
-03. Tarantula
-04. G.L.O.W.
-05. Siva
-06. Eye
-07. Mayonaise
-08. Tonight, Tonight
-09. Speed Kills
-10. Transformer
-11. Superchrist
-12. United States
-     ->Star Spangled Banner [Key] (tease)
-13. Banter, Band Introductions
-14. Once Upon a Time
-15. Again, Again, Again (The Crux)
-16. The Rose March
-17. Banter
-18. Today
-19. Bullet with Butterfly Wings
-20. The Beginning is the End is the Beginning
-21. Heavy Metal Machine
-     ->White Rabbit [Jefferson Airplane] (tease)
-     ->YYZ [Rush] (tease)
-     ->Tom Sawyer [Rush] (tease) 
-22. Glass' Theme
-23. Set the Controls for the Heart of the Sun [Pink Floyd]
-24. Encore Break
-25. We Only Come Out at Night
-26. Everything's Beautiful (In Its Own Way) [Stevens]
-
-
-"You find me a band without beards that can play forty-eight fucking songs over two nights.  This ain't no hippy shit!"
-
-
-Ok, some comments.
-First, to the guy who screamed out "Where's Iha?" during the band introductions, you're an asshole.  To the guys beside me, thanks for considering the recording and it's my pleasure to share it with you.  
-
-Second, this show is a must listen for everybody.  The Pumpkins tonight were a 9 piece band with brass instruments and a set of kazoos.  The band is currently touring on their 20th anniversary (or 21st, technically, but whose counting?) and may never perform the songs this way again at the end of this tour.
-
-This recording sounds great up until shortly after Tarantula starts.  Then I made the boneheaded move of putting the recorder down on the armrest on the seat in front of me so I could rock out a bit more.  Bad idea, the recording suffered as the unit isn't in direct contact with the sound, so it comes out muffled and the loud part is quiet and the quiet part is loud.  I also recorded with mic gain on high, which may have also been a mistake.  The greatest parts of this are the start of the show up until that noticeable quality transition in Tarantula, the acoustic songs (OUAT-TRM), and the last two songs during the encore.  These are the points I was holding the recorder in my hand.
-
-This is the third time I've seen them play, and the second time I taped them.  This set was longer than the previous two combined.  There were quite a few great jam sessions - Superchrist, United States, Heavy Metal Machine, and Set the Controls.  
-
-There is some pretty good banter in this recording too.  The band was in a great mood.  During Everything's Beautiful, Billy tears into one guy in the front row for screaming "Cherub Rock!!" all night.   The tells the story about how, the first time he played in Canada, some guy threw a beer bottle at his head.  He singles out a girl in the balcony, calling her beautiful.  He goes to tear into the guy who screamed "Cherub Rock!" again.  "We play Cherub Rock tomorrow!" Billy scolded him, in a reference to their back-to-back nights in Toronto where they vowed not to play the same song twice between the two nights.  "cherub rock cherub rock cherub rock cherub rock cherub rock cherub rock cherub rock cherub rock cherub rock cherub rock.  I wrote that song in a car on the way to work.  I didn't have anything better to do".
-
-I'm going to be attending tomorrow nights show as well.  I will make sure not to make the same mistakes I did tonight.  Hopefully I can get the soundcheck too!
-
-Cheers,
-Matt
+tsp2008-11-03t03.flac:1260bcf033f66974e2c3adfdf9877642
+tsp2008-11-03t02.flac:d54035f35d3cd42880d0bff6c0560f1f
+tsp2008-11-03t01.flac:15ce6eb004355d907414e26fd0fc9cbe
+tsp2008-11-03t04.flac:b780d1a6a29a1b12ef758f381bb84486
+tsp2008-11-03t05.flac:eadb62f2a8e496d96b48c25e37201fa7
+tsp2008-11-03t06.flac:3f46a2d2c7dfe06635a206776643ee0b
+tsp2008-11-03t07.flac:2491f2aef516cf66e8f17924e6497297
+tsp2008-11-03t08.flac:76a2a1367e419a193d6b3847299fc4bc
+tsp2008-11-03t09.flac:279bb2991c5157c0a3f26e58d3243709
+tsp2008-11-03t10.flac:0f5282559b4684d88f56a5cf832da892
+tsp2008-11-03t11.flac:ac8400299145d7f32473050ed7c6cc6b
+tsp2008-11-03t12.flac:04beb19a753a2d970a4c0caf84c8df2a
+tsp2008-11-03t13.flac:1b302e41d2e298349c9666541daad98f
+tsp2008-11-03t14.flac:e5997ac480869287722bdc7f8a9caafc
+tsp2008-11-03t15.flac:67a25e0989c965c1312fd53d5e9ade3a
+tsp2008-11-03t16.flac:bbb673527550d82378091d45b7b9b8ba
+tsp2008-11-03t17.flac:eb0e948457b987d49af191bbf3e7ac4d
+tsp2008-11-03t18.flac:df22fff7c8343c16473969513bd05c93
+tsp2008-11-03t19.flac:f6c7d595d075a043b509f8b1d760b93f
+tsp2008-11-03t20.flac:55b4a11d0703afb920ecb88fa6cb0e76
+tsp2008-11-03t21.flac:659ffe8c1b5c1456dda8eabd91516a1e
+tsp2008-11-03t22.flac:84b9568602c6e28213dabf4d727fd9af
+tsp2008-11-03t23.flac:ef97138ffcd773f02ec8043135571a6d
+tsp2008-11-03t24.flac:7010e842ffa50dbf21196689fdfaf5ae
+tsp2008-11-03t25.flac:de32792ae0359f9fbcddfa3636bc17b3
+tsp2008-11-03t26.flac:bc260f793549745facb5fd6e58df052e

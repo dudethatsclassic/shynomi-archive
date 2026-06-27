@@ -1,82 +1,76 @@
-Smashing Pumpkins
-November 15th 2007
+The Smashing Pumpkins
 Fox Theatre
 Atlanta, GA, US
+2007-11-15
 
-SOURCE (AUD#2):
-Unknown MD recorder
+Recordist    : Jill Harrison <jillysp@hipstersunited.com>
+Location     : Orchestra LC, row F in front of left stack
+Mic Config   : Binaural
+Source       : Dynamic Audio Binaurals > DA-120F > TCD-D100 @ 48kHz (line in)
+Conversion   : DDC-M > TCD-D100 > 7-pin to coax > Waveterminal 2496 > WaveLab V5.01b
+Edit         : WaveLab V5.01b (fades)
+Resampling   : r8brain v1.9 (r8: 44.1 kHz, Output bit depth: 16 bit, Quality: Very High)
+Final Format : 16-bit, 44.1 kHz
+Tracking     : CD-Wave v1.96.1
+Encoding     : FLAC v1.2.1 (Level 8) with TLH v2.2.2 (Build 152)
 
-TRANSFER:
-Sony MZ-RH1 > web.minidisc.wiki
+Tracklist:
 
-GENERATION:
-MD(M) > FLAC
+01. Intro
+02. The Rose March
+03. That's the Way (My Love Is)
+04. Disarm
+05. For God and Country
+06. United States
+07. Bullet with Butterfly Wings
+08. Drown
+09. Bring the Light
+10. Tonight, Tonight
+11. Tarantula
+12. Glass and the Ghost Children
+13. Hummer
+14. Pomp and Circumstances
+15. Set the Ray to Jerry
+16. Today
+17. Superchrist
+18. Heavy Metal Machine
+    > Iron Man [Black Sabbath]
+19. On the Road Again [Canned Heat]
+20. I Love Rock 'n' Roll [Arrows]
+21. (Encore Call #1)
+22. 1979
+23. Perfect
+24. (Encore Call #2)
+25. Cherub Rock
+26. Outro
 
-LENGTH:
-139:45
+Running Time: 2:20:39
 
-SETLIST:
-01. The Rose March
-02. That's the Way (My Love Is)
-03. Disarm
-04. For God and Country
-05. United States > Star Spangled Banner [Key] (tease)
-06. Bullet with Butterfly Wings
-07. Drown
-08. Bring the Light
-09. Tonight, Tonight
-10. Tarantula
-11. Glass and the Ghost Children
-12. Hummer
-13. Pomp and Circumstances
-14. Set the Ray to Jerry
-15. Today
-16. Superchrist
-17. Heavy Metal Machine > White Rabbit [Jefferson Airplane] (tease) > White Horse [Laid Back] (tease) > Iron Man [Black Sabbath] (tease) > On the Road Again [Canned Heat] (tease) > I Love Rock 'n' Roll [The Arrows] (tease)
-18. (encore break)
+Notes:
 
-ENCORE ONE:
-19. 1979
-20. Perfect
-21. (encore break)
-
-ENCORE TWO:
-22. Cherub Rock
-
-NOTES:
-- Cut during encore break
-- Overdriven in a couple spots
-
-MD5 FINGERPRINTS:
-5383ab06fc457b118cdbed2177ac90d8 *Smashing Pumpkins 2007-11-15 AUD2 t01 The Rose March.flac
-c66f94805d8625ce4e5b0d0efde834fb *Smashing Pumpkins 2007-11-15 AUD2 t02 That's the Way (My Love Is).flac
-4d2c441af1658b861a607fea4e06477b *Smashing Pumpkins 2007-11-15 AUD2 t03 Disarm.flac
-a28febe9ccc12f187c061273bf208a36 *Smashing Pumpkins 2007-11-15 AUD2 t04 For God and Country.flac
-0757152d326f88a5a84f34404b010993 *Smashing Pumpkins 2007-11-15 AUD2 t05 United States.flac
-885bfc6b25d1803299c4c178664d3290 *Smashing Pumpkins 2007-11-15 AUD2 t06 Bullet With Butterfly Wings.flac
-576ddc391805326512325546192c9855 *Smashing Pumpkins 2007-11-15 AUD2 t07 Drown.flac
-9f38d78df502a8366cdb822e2b52660d *Smashing Pumpkins 2007-11-15 AUD2 t08 Bring the Light.flac
-0cb85064dbeaae274fadca9ea1b02c96 *Smashing Pumpkins 2007-11-15 AUD2 t09 Tonight, Tonight.flac
-6235bdb732b1a54de7b3b2781fb661a4 *Smashing Pumpkins 2007-11-15 AUD2 t10 Tarantula.flac
-aa8f71661ff4b67d76b4658b336fc64b *Smashing Pumpkins 2007-11-15 AUD2 t11 Glass and the Ghost Children.flac
-25e4c9e6e0f93ad1abc75032503906fe *Smashing Pumpkins 2007-11-15 AUD2 t12 Hummer.flac
-5b7d9e24540757d4a1a2af5083377680 *Smashing Pumpkins 2007-11-15 AUD2 t13 Pomp and Circumstances.flac
-9dd0e22e9f3caab4eb7107320b352cf2 *Smashing Pumpkins 2007-11-15 AUD2 t14 Set the Ray to Jerry.flac
-e47468691c4f05c011b31cdf1a9d7f18 *Smashing Pumpkins 2007-11-15 AUD2 t15 Today.flac
-f73ef2088e0fc6489a773697bd1ecf44 *Smashing Pumpkins 2007-11-15 AUD2 t16 Superchrist.flac
-6d18268cfbe8a991ab49fd32cb61ecfb *Smashing Pumpkins 2007-11-15 AUD2 t17 Heavy Metal Machine.flac
-65974ed59720bce76eef1e6cc9322674 *Smashing Pumpkins 2007-11-15 AUD2 t18 (encore break).flac
-ea7e25d7c413a9fa22db0658a4100a8f *Smashing Pumpkins 2007-11-15 AUD2 t19 1979.flac
-f53c17cf5b84118a098c34103add20ac *Smashing Pumpkins 2007-11-15 AUD2 t20 Perfect.flac
-a61370bf128d3486f8318fc3ff84356d *Smashing Pumpkins 2007-11-15 AUD2 t21 (encore break).flac
-e58069e42cdbc1b52be69075d8a2f27e *Smashing Pumpkins 2007-11-15 AUD2 t22 Cherub Rock.flac
-
-RECORDED BY:
-Greg Harvey
-
-TRANSFER BY:
-Nicholas Serra
-
-DISTRIBUTION:
-Nicholas Serra, Spaldz & Members of SPLRA
-2025-07-22
+tsp2007-11-15.dab.t01.flac:730a101d9fdfc550901815658a0a8338
+tsp2007-11-15.dab.t02.flac:6ec15b980d64aecf13a49a8d9992d46c
+tsp2007-11-15.dab.t03.flac:40d9928761e3673eb5eef763b328ee41
+tsp2007-11-15.dab.t04.flac:bed9c3f778d37f24dd50a1f380c996e6
+tsp2007-11-15.dab.t05.flac:f84ba1a4a156ea2d90ba2ba81857a263
+tsp2007-11-15.dab.t06.flac:6081c78b5d876fac382c7cf353cf50eb
+tsp2007-11-15.dab.t07.flac:7eb5b29e1f5b9f06f83b2ed15122a225
+tsp2007-11-15.dab.t08.flac:0a33cf099d308a91c2eab5ac59704981
+tsp2007-11-15.dab.t09.flac:641d3b4de50271ef930bdfa44dfc2a19
+tsp2007-11-15.dab.t10.flac:05c0f70de037b92f35964a90a376cb69
+tsp2007-11-15.dab.t11.flac:27a68df534adad1d860aa6bc64c68f83
+tsp2007-11-15.dab.t12.flac:748517a62b9c6e62c6368650419bfddf
+tsp2007-11-15.dab.t13.flac:6658b3e84da00f148afa691283ddca6a
+tsp2007-11-15.dab.t14.flac:aeb0ef8f6d29a91bf52ac73cc5ae75e6
+tsp2007-11-15.dab.t15.flac:d937049db16625b31528e5a8ac8f911b
+tsp2007-11-15.dab.t16.flac:e086b1c4782d044045b3412ae4a7464d
+tsp2007-11-15.dab.t17.flac:9934da1c6d37cf53a5b4f6b354299d89
+tsp2007-11-15.dab.t18.flac:b2907d23652f62818dfe4df5a51ad5c5
+tsp2007-11-15.dab.t19.flac:9efd8dc7cc68284682ee3bd5f3bc6098
+tsp2007-11-15.dab.t20.flac:897b9ae0ee25cb72bd549590a699d3f1
+tsp2007-11-15.dab.t21.flac:773956aab92847307e2eb00e944b82c6
+tsp2007-11-15.dab.t22.flac:2ffcbc4da6b62769300b406882ec47fc
+tsp2007-11-15.dab.t23.flac:b066736cce464e42746b03271af804f1
+tsp2007-11-15.dab.t24.flac:6fbea2343b1872d9503a82516b5628f5
+tsp2007-11-15.dab.t25.flac:4212c58bee035d1c442a700dc7133993
+tsp2007-11-15.dab.t26.flac:7f777949454cb3321dbf4799cc9ae2da

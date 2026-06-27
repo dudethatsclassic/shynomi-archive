@@ -1,13 +1,13 @@
-101 - The Ecstacy of Gold.shn:  successfully fixed/rewritten to '101 - The Ecstacy of Gold-fixed.shn'.
-102 - Enter Sandman.shn:  successfully fixed/rewritten to '102 - Enter Sandman-fixed.shn'.
-103 - Creeping Death.shn:  successfully fixed/rewritten to '103 - Creeping Death-fixed.shn'.
-104 - Harvester of Sorrow.shn:  successfully fixed/rewritten to '104 - Harvester of Sorrow-fixed.shn'.
-105 - Welcome Home (Sanitarium).shn:  successfully fixed/rewritten to '105 - Welcome Home (Sanitarium)-fixed.shn'.
-106 - Sad but True.shn:  successfully fixed/rewritten to '106 - Sad but True-fixed.shn'.
-107 - Of Wolf and Man.shn:  successfully fixed/rewritten to '107 - Of Wolf and Man-fixed.shn'.
-108 - The Unforgiven.shn:  successfully fixed/rewritten to '108 - The Unforgiven-fixed.shn'.
-109 - Justice Medley.shn:  successfully fixed/rewritten to '109 - Justice Medley-fixed.shn'.
-110 - Bass & Guitar Solo.shn:  successfully fixed/rewritten to '110 - Bass & Guitar Solo-fixed.shn'.
-111 - Through the Never.shn:  successfully fixed/rewritten to '111 - Through the Never-fixed.shn'.
+201 - For Whom the Bell Tolls.shn:  successfully fixed/rewritten to '201 - For Whom the Bell Tolls-fixed.shn'.
+202 - Fade to Black.shn:  successfully fixed/rewritten to '202 - Fade to Black-fixed.shn'.
+203 - Master of Puppets.shn:  successfully fixed/rewritten to '203 - Master of Puppets-fixed.shn'.
+204 - Seek & Destroy.shn:  successfully fixed/rewritten to '204 - Seek & Destroy-fixed.shn'.
+205 - Whiplash.shn:  successfully fixed/rewritten to '205 - Whiplash-fixed.shn'.
+206 - Nothing Else Matters.shn:  successfully fixed/rewritten to '206 - Nothing Else Matters-fixed.shn'.
+207 - Wherever I May Roam.shn:  successfully fixed/rewritten to '207 - Wherever I May Roam-fixed.shn'.
+208 - Am I Evil.shn:  successfully fixed/rewritten to '208 - Am I Evil-fixed.shn'.
+209 - Last Caress.shn:  successfully fixed/rewritten to '209 - Last Caress-fixed.shn'.
+210 - One.shn:  successfully fixed/rewritten to '210 - One-fixed.shn'.
+211 - Battery.shn:  successfully fixed/rewritten to '211 - Battery-fixed.shn'.
 
-Last file didn't need any padding with zero-bytes.
+Padded last file with 2348 zero-bytes.

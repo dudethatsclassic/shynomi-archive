@@ -1,59 +1,54 @@
 Smashing Pumpkins
+Dallas,TX
 Reunion Arena
-Dallas, Texas
-December 1, 1996 (rescheduled from July 24)
+01 December 1996
 
-Source (Steve Hagar):  Sonic Studios DSM-6P w/3-way lo-cut filter, position unknown (most likely @ 80hz, middle setting) > Sony WM-D6 > Master cassettes (Maxell XL-IIS 100m)
+Recording info:
+Sonic Studios[DSM6S]mics>Sonic Studios[PA6LC3(-100)]>D7
+Taping Location: SEC 10, ROW U, SEAT 10 (floor, stage right, 21st row, FOB)
 
-Transfer (Steve Hagar):  Master cassettes > Denon 790R > Kenwood A-522 amplifier > Kenwood GE-622 Equalizer > .WAV @ 16 bit/44.1 kHz
+Transfer info:
+Master DAT(48)>Sony 59ES>HHB CDR-850 via digital coax>CDR>EAC[secure]>AddaWav>CD Wave[track split]>flac[Level 8]
 
-Tracking (dandrew):  .WAV > Audacity 2.2.2 > xAct 2.44 (encode to FLAC level 8, align sectors, ffp, md5)
+CMM-064 (Chris Milazzo Master)
 
-setlist
+disc 1:
+01 [03:14] Intro
+02 [04:28] Where Boys Fear To Tread
+03 [02:26] Zero
+04 [04:43] Fuck You
+05 [05:11] By Starlight
+06 [05:16] Tonight, Tonight
+07 [03:01] Today
+08 [04:39] Cherub Rock
+09 [08:49] Thru The Eyes Of Ruby
+10 [05:01] Galapogos
+11 [04:02] Disarm
+12 [06:29] Bullet With Butterfly Wings
+13 [03:54] Muzzle
+14 [12:00] Porcelina Of The Vast Oceans
+15 [01:51] (encore break)
+------------------------------
+TT [75:09]
 
-01. Mellon Collie and the Infinite Sadness [PA]
-02. Where Boys Fear To Tread
-03. Zero
-04. Fuck You
-05. By Starlight
-06. Tonight, Tonight
-07. Today
-08. Cherub Rock
-09. Thru The Eyes Of Ruby
-10. Galapogos
-11. Disarm
-12. Bullet With Butterfly Wings
-13. Muzzle
-14. Porcelina Of The Vast Oceans
-15. break, crowd noise
-16. Siva
-17. Drown (with extended intro)
-18. band intros
-19. audience participation / Jimmy The Frog / picking dancers
-20. 1979
-21. chat
-22. X.Y.U.
-23. The Aeroplane Flies High
-24. Silverfuck
+disc 2:
+01 [01:10] Intro
+02 [05:49] Siva
+03 [06:19] Drown
+04 [02:28] (encore break)
+05 [04:38] (introducing Jimmy The Frog)
+06 [05:11] (picking dancers)
+07 [06:01] 1979
+08 [09:01] X.Y.U.
+09 [03:19] (encore break/intro)
+10 [12:00] The Aeroplane Flies High
+11 [22:50] Silverfuck
+----------------------------------
+TT [78:49]
 
-show notes:  this was an epic show on numerous levels. 
+No remastering was done to this recording.
 
-I remember the show starting, and then not even an hour and a half later it was 'over'...like wtf?
+Ticket says 24 July but 01 December is the right date - the show was rescheduled.  The Aeroplane Flies High & Silverfuck are one song, I split it a little before the lyrics to Silverfuck start.  There could be more songs in Silverfuck - I am not familiar enough with all their songs to know.  Corrections are welcome!
 
-and then the first encore was played...and then the people started to file out of the arena.
-
-so, as you can hear on the tape,  I went from my near half-court elevated seats down onto the floor...and that's when the real craziness ensued, as you can see we got a 2nd and 3rd encore!!!
-
-will just let the music do the talking here, as the textures over the course of the evening that were captured were pretty amazing (just listen to the samples)
-
-only saw the Pumpkins twice, and both times were epic shows....the other one should be uploaded (reseeded) soon...
-
-he's smashing and dashing, just don't call him a squash. he goes by dandrew in these parts, and you *could* say "thanks Dan" for all he does.
-
-in my case, however, whatever feels good, just do it.
-
-back to the melting pot...what could be next?
-
-who knows?
-
----ballsdeep is OUT!!!
+First Torrented 19 December 2006.
+Seed #64 from my master collection.

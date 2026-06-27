@@ -1,35 +1,35 @@
-Smashing Pumpkins
-November 5th, 1996
+The Smashing Pumpkins
+1996.11.05
 Fleet Center
-Boston, MA, US
+Boston, MA
 
-Source: ECM-909>HSJ445
-Transfer: ANA-M>Sony TC-WE825S>Tascam DA-20MKii(A>D @ 44.1kHz)>Monster coax>Delta Dio 2496
-Editing: Cool Edit Pro 2.1 (recording), CDWave (splits), TLH (FLAC level 8)
+Taper:            ??
+Source:           Hi8 Video Recorder
+Conversion:       VHS-3 > JVC HR-S5955 > QED Stereo Cable > SB Audigy NX-2 > 
+		  > Soundforge 7.0b > WAV (44.1k) 
+Editor:           Simon Mifsud
+Editing:          Slight clean up of the cuts on tape
+FLAC:             master wav's > CD Wave Editor 1.95 > FLAC (level 8)
 
-01. Mellon Collie and the Infinite Sadness (PA intro) - 2:01
-02. Where Boys Fear to Tread - 4:28
-03. Zero - 2:29
-04. Fuck You - 4:58
-05. To Forgive - 5:05
-06. Today - 3:08
-07. Tonight, Tonight - 4:26
-08. Thru the Eyes of Ruby - 8:30
-XX. Siva
-XX. Disarm
-XX. Bullet with Butterfly Wings
-XX. Cherub Rock
-XX. Porcelina of the Vast Oceans -> Rocket (tease)
-Encore One:
-09. banter - 1:13
-10. X.Y.U. - 10:45
-11. (encore break) - 3:30
-Encore Two:
-12. band intros/(jam) - 6:59
-13. 1979 - 4:39
+********************************************************************************
+	                    SPREAD THE MUSIC
+********************************************************************************
 
--sub-par tape, decent performance...completists only
--this does contain some material missing from the VID transfer (Where Boys Fear to Tread, Fuck You, To Forgive, Today, X.Y.U.)
+01. Zero
+02. Fuck You (An Ode to No One)
+03. Today
+04. Tonight Tonight
+05. Thru the Eyes of Ruby
+06. Siva
+07. Disarm
+08. Bullet with Butterfly Wings
+09. Cherub Rock
+10. Porcelina of the Vast Oceans >
+11. Rocket (tease)
+12. XYU
+13. Talking/Choosing the Dancers
+14. 1979
 
-Tapes from D4 via Thom, transfer by Andrew, tracking/upload by rhinowing
-Don't sell, etc
+---------------
+
+Notes > Incomplete recording; Zero/Fuck You/Today/Disarm [cut], Nice sound.

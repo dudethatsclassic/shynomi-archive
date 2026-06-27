@@ -1,0 +1,31 @@
+The Smashing Pumpkins 1998-05-14 - Hamburg, Germany, Spielbudenplatz (DVD)
+
+The concert had a few more songs on the setlist but only these seven had been broadcasted by VIVA TV:
+
+To Sheila
+Tear
+Crestfallen
+Ava Adore
+Daphne Descends
+Let Me Give the World to You
+Bullet With Butterfly Wings
+
+
+Conversion : TV > dvd
+Source : DVD
+Generation: Master
+Camera : Professional
+Nb Cam. : 1 + more
+Video file format: MPEG-2
+Format : PAL
+Résolution : 720 * 576
+Video frame rate: 25.000 FPS
+Video bitrate: 9282 kb/s
+Ratio : 4/3
+Sound Audo codec : AC-3 2 channels
+Sampling rate: 48.000 kHz
+Authoring : Yes (by title)
+Menu : No
+Length: 48.03 min
+
+

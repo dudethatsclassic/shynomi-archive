@@ -1,66 +1,39 @@
-> SMASHING PUMPKINS > 15.10.2010
+The Smashing Pumpkins
+Festival Hall
+Melbourne, VIC, AU
+2010-10-15
 
-October 15th 2010   FESTIVAL HALL, west melbourne, vic, australia
+Source:      Schoeps MK4 > Nbox+ > Edirol R-09 @ 24bit/48kHz
+Mic Config:  DINA
+Location:    FOB
+Transfer:    Master WAV > dEdit > CD Wave Editor V1.97.0 > FLAC v1.2.1 (Level 8) with TLH v2.4.1 (build 160)
+Editing:     Fades, gain boost in Wavelab 5.0.1b 
 
-SOURCE:
+Setlist:
+01 (Intro)                    
+02 The Fellowship	              
+03 Lonely Is the Name            
+04 Today    
+05 Astral Planes             
+06 Ava Adore          
+07 A Song for a Son
+08 Eye                
+09 Bullet with Butterfly Wings
+10 United States
+   > Star Spangled Banner [Key] (tease)               
+   > Moby Dick [Led Zeppelin] (tease)
+11 (Banter) 
+12 Spangled            
+13 Stumbleine                   
+14 Cherub Rock            
+15 Zero               
+16 Stand Inside Your Love            
+17 Shame                   
+18 Freak  
+19 Tonight, Tonight                   
+20 Tarantula
 
-Sony ECM-DS70P > Rockboxed iRiver h320 (line-in @ 16bit 44.1kHz wav) > USB > Cool Edit Pro (edit out static, normalised to 115%) > .wav > CDWave (split) > TLH > .flac (lvl 8)
+21 (Encore Break)
 
-Recorded by KingBean
-
-AUDIO:
-
-Quality: A-
-
-Duration: 134min 01sec
-
-SETLIST:
-
-01. The Fellowship
-02. Lonely Is The Name
-03. Today
-04. Astral Planes
-05. Ava Adore
-06. Song For A Son
-07. Eye
-08. Bullet With Butterfly Wings
-09. United States (w/ Moby Dick [Led Zeppelin] interlude)
-10. (banter)
-11. Spangled
-12. Stumbleine
-13. Cherub Rock
-14. Zero
-15. Stand Inside Your Love
-16. Shame
-17. Freak
-18. Tonight, Tonight
-19. Tarantula
-20. Landslide (Fleetwood Mac cover)
-21. Gossamer
-
-
-I must have not plugged my microphone into the iRiver properly for this recording, because there were horrible static clicks scattered throughout the file and the left channel was virtually empty (it only had a little bit of audio here-and-there amongst the static - other thanthat it was dead air).
-
-So, in order to get this listenable, I first deleted the left channel and copied the right (so I now have dual channel mono). Then I went through to every static click, zoomed in as far as I could and replaced the static with silence. Of course, Cool Edit doesn't let you replace your selection with silence, so I had to open the Generate Noise dialogue, copy the duration to the clipboard (usually something like .013854875 or .142199546 seconds) then close that, go to Generate Silence and paste in the duration. That way the audio gaps are still the same length as they were and won't interrupt the tempo of the songs.
-
-
-
-
-Now I had pretty much a regular audio file, so I normalised it up to 115%, copied one of the channels, saved it as a mono file (which I should have just done in the first place) and tracked it as per usual.
-
-All in all, it turned out a lot better than I thought it was going to. I thought it was going to be a wasted recording. Sound is pretty bassy for the first 4 or so songs, then gets better.
-
-Here's a photo of the guy Billy is talking about during track 10 (not my photo):
-
-
-
-
-
-
-SHOW LINE-UP:
-
-City Riots, Smashing Pumpkins
-
-
-
-
+22 Landslide [Nicks]
+23 Gossamer
