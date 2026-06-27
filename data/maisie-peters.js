@@ -19,7 +19,7 @@ const ARTIST_DATA = {
       "state": "UK",
       "location": "Glastonbury, UK",
       "venue": "Glastonbury Festival",
-      "notes": "Pyramid \u00b7 BBC",
+      "notes": "Pyramid · BBC",
       "version": "PRO",
       "format": "MKV",
       "textFile": "2023-06-23 - Glastonbury, UK - Glastonbury Festival - Pyramid Stage (BBC) [MKV].txt"
