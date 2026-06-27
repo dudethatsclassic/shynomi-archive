@@ -1,0 +1,60 @@
+The Presidents of The United States Of America
+Aug 7, 2004 Funfest Decatur Il, set 2 (Eric's film)
+Source: MiniDV to Panasonic DVD recorder via firewire
+
+Unobstructed video with nice audio. Great shots of the band throughout! There is a little bit of bass distortion, but it's not very bad at all - still very pleasant to listen to with very little audience chatter. I believe that Erik only recorded set 2.
+
+setlist:
+Back Porch
+Tiki God
+Kitty
+Some Postman
+Boll Weevil
+Lump
+Monkey River
+Naked and Famous
+Zero Friction
+Dune Buggy
+Highway Forever
+Video Killed the Radio Star (with Heartbreaker (Pat Benatar)/Refugee (Tom Petty) tease intro)
+Mach 5
+Candy
+Peaches (cuts in due to tape change)
+encore break
+Shreds Of Boa
+We're Not Going to Make It
+
+Length: 1:10:42
+
+Erik was kind enough to mail me his 2 MiniDV tapes around 2005 for me to transfer. I did the transfer, and mailed him back his masters plus a copy of this DVD.  This upload a copy of the original DVD that I made.
+
+As always, support the band and never sell!
+
+Enjoy!
+A BobC release of a BobC transfer of Erik's recording.
+
+Thanks to Erik for filming and sending me his tape to transfer! 
+
+Stream 2
+Original ID: 224
+Codec: MPEG-1/2 Video (mpgv)
+Type: Video
+Video resolution: 720x480
+Buffer dimensions: 720x480
+Frame rate: 29.970030
+Decoded format: 
+Orientation: Top left
+Color primaries: ITU-R BT.601 (525 lines, 60 Hz)
+Color transfer function: ITU-R BT.709
+Color space: ITU-R BT.601 Range
+Chroma location: Left
+
+Stream 7
+Original ID: 48512
+Codec: A52 Audio (aka AC3) (a52 )
+Type: Audio
+Channels: Stereo
+Sample rate: 48000 Hz
+Bits per sample: 32
+
+Chapters are at 10 minute intervals.

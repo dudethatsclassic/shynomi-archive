@@ -1,0 +1,49 @@
+The Presidents of the United States of America
+2005-06-03
+Crystal Ballroom
+Portland, OR, USA
+
+-- Source --
+CSB > battery box > MZ-R91 (mono mode)
+CSC > battery box > MZ-R909 (stereo)
+
+-- Processing --
+CSB source: MD (master) > MDS-JB940 optical out > Soundblaster Audigy 2 NX optical in > Audition (wav)
+CSC source: MD (master) > MZ-M200 > SonicStage (wav)
+Mixing: Audition (sync + patching) > iZotope RX (editing) > Audition (mixing) > iZotope RX (mastering) > CD Wave (tracking) > Trader's Little Helper (encoding)
+
+-- Setlist --
+01 - intro
+02 - Lunatic to Love
+03 - Boll Weevil
+04 - Kitty
+05 - Highway Forever
+06 - Naked and Famous
+07 - Lump
+08 - Zero Friction
+09 - Back Porch
+10 - Some Postman
+11 - Mobile Home
+12 - Shreds of Boa
+13 - Froggie
+14 - Dune Buggy/What I Like About You
+15 - Will You Be My Girlfriend?
+16 - Love Everybody
+17 - Bug City
+18 - Don't You Want Me/Wannabe/Rock You Like a Hurricane/Video Killed the Radio Star
+19 - Peaches
+20 - Kick Out the Jams/Shout
+21 - encore
+22 - Munky River
+23 - Tiki God
+24 - 5,500 Miles
+25 - We Are Not Going to Make It
+
+-- Notes --
+The Carolines and The Village Green opened. Debut performance of the unreleased song 'Will You Be My Girlfriend?' PUSA's taping/trading policy at the time did not allow the use of external microphones, so this recording was kept out of circulation. In 2023, the band held a Reddit AMA, where I asked and received permission to post the recording online.
+
+A disc swap for the CSC source occurs at the beginning of Dune Buggy, so the recording temporarily drops to mono. The CSC source was retransferred from the master MiniDiscs using an MZ-M200. The original digital transfer from 2005 has been used for the CSB source (all attempts to retransfer this source later with the MZ-M200 contained read errors/audio dropouts).
+
+Length: 1h31m15s
+
+-- faninor -- 2023-06-03 --

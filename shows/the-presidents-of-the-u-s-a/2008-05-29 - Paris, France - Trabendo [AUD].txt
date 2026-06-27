@@ -1,0 +1,56 @@
+Presidents of The United States of America
+2008-05-29 
+Paris, France
+Trabendo
+
+
+
+SP-CMC-8(cardioid-low sensitivity)
+SP-SPSB10(rocker on are 1-4, for right and left)
+Editol R-09, 48khz-24 bit ->
+Audition(normalisation) ->
+Audition(44khz-16 bit) ->
+CD Wave(tracksplit) ->
+Db Power Amp(flac8)
+
+
+
+****************************
+Don't sell it, never buy it.
+****************************
+
+You can convert in mp3 if you want for personnal use. 
+
+********************************************************
+Do not distribute in any lossy form(mp3, ogg, wma...)
+********************************************************
+
+
+
+Setlist : 73'16
+
+
+01 - Intro				1:03
+02 - We're not gonna make it		2:12
+03 - Volcano				3:35
+04 - Kitty > Superstition > Kitty	4:54
+05 - Mixed up SOB			3:01
+06 - Munky river			2:59
+07 - Peaches				2:47
+08 - Speech				1:06
+09 - Ladybug				3:04
+10 - Bug city				3:22
+11 - Boll weevil			3:55
+12 - Flame is love			2:31
+13 - Lump				2:28
+14 - Shreds of Boa			3:23
+15 - Rot in the sun			2:42
+16 - Dune buggy				3:02
+17 - Deleter				3:13
+18 - Back porch				4:10
+19 - Mach 5				3:58
+20 - Video killed the radio star	3:37
+21 - [Encore]				1:22
+22 - Ca plane pour moi			2:28
+23 - French girl			3:05
+24 - Kick out the jams			5:09

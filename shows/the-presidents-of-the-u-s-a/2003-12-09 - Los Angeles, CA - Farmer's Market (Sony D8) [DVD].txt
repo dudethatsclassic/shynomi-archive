@@ -1,0 +1,60 @@
+The Presidents of The United States Of America
+Dec 9, 2003 - The Old Farmers Market, Los Angeles CA
+Source: Sony D8(M) to DVD received from the filmer. 
+
+The filmer is right up front near Chris, so the video is great - just a little shaky sometimes. You can see Chris and Dave very well, but Chris is often in front of Jason. Unfortunately, the audio is pretty distorted for much of the show. It doesn't sound terrible, but you may not want to turn this one up very loud. This is the worst-sounding of the 3 known-source PUSA DVDs that I have, but it's still a good DVD, overall.
+
+
+setlist:
+Kick Out the Jams (MC5)
+Boll Weevil
+Feather Pluckn (with "I Got a Feeling" and "Baby You're a Rich Man" by The Beatles)
+Highway Forever
+Naked & Famous
+Lump
+Dune Buggy
+Some Postman
+Back Porch
+Jilted on the Tarmac (Chris and Tad)
+Froggie
+Kitty
+Mach 5 
+Video Killed the Radio Star
+Peaches
+We're Not Gonna Make It
+Problems (Sex Pistols)
+
+Length: 57:54
+
+Very fun show with a great Froggie and hilariously botched Kitty. At one point, Chris breaks one of his guitar strings. He finishes the show with 1 string.
+
+Support the band, share this recording freely with fans, and never sell this DVD!
+
+Many thanks to the filmer for filming the show and sending me this DVD in 2005 with chapters at the beginning of each song.
+If anyone would like to remaster the sound on this one, I'm sure it would be fine.
+
+Enjoy!
+A BobC release of someone else's recording.
+
+Technical info (from VLC player):
+Stream 2
+Original ID: 224
+Codec: MPEG-1/2 Video (mpgv)
+Type: Video
+Video resolution: 720x480
+Buffer dimensions: 720x480
+Frame rate: 29.970030
+Decoded format: 
+Orientation: Top left
+Color primaries: ITU-R BT.601 (525 lines, 60 Hz)
+Color transfer function: ITU-R BT.709
+Color space: ITU-R BT.601 Range
+Chroma location: Left
+
+Stream 3
+Original ID: 48544
+Codec: DVD LPCM Audio (lpcm)
+Type: Audio
+Channels: Stereo
+Sample rate: 48000 Hz
+Bits per sample: 16

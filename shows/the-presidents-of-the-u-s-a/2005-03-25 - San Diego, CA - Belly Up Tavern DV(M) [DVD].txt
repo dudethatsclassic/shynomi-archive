@@ -1,0 +1,68 @@
+The Presidents of The United States Of America
+March 25, 2005, San Diego CA, Belly Up Tavern - DV(M) to DVD
+Source: Filmed on Sony Handycam DCR-HC32 NTSC in LP (90min) mode. MiniDV played back through that camera to Panasonic DVR-210-s DVD recorder via firewire.
+
+An epic performance by PUSA! Unobstructed balcony-shot video with great audio. Very little audience chatter. If you like PUSA at all, then you should download this DVD.
+
+setlist:
+Tiki God
+Kitty (with Superstition by Stevie Wonder)
+Highway Forever
+Feather Pluckn (with I Got a Feeling by The Beatles)
+Some Postman
+Back Porch
+Poke & Destroy
+Naked & Famous
+Lump
+Zero Friction
+Boll Weevil
+Love Everybody
+Dune Buggy
+Mobile Home
+Peaches
+Shreds Of Boa
+Video Killed The Radio Star*
+Kick Out The Jams (MC5) (with Shout by The Isley Brothers)
+ENCORE BREAK**
+Froggie
+In My Time of Dying (Led Zeppelin - intro tease)
+Mach 5 
+We're Not Gonna Make It
+Ace of Spades (Motorhead - outtro tease)
+
+Length: 1:28:11
+
+* with extended intro consisting of teases of the following: Heartbreaker (Pat Benetar) / Refugee (Tom Petty) / Don't You Want Me (The Human League) / Let the Good Times Roll (The Cars) / Wonderwall (Oasis) / Wannabe (Spice Girls) / I Wanna Be Sedated (Ramones)
+** I stopped recording during the encore break until PUSA came back out - no music or talking by the band was lost.
+
+This is the first concert that I ever filmed. I filmed from the balcony through glass for most of the concert. The glass was mostly clean, except that there was a little smudge that sometimes blurred Chris's face. Toward the end of the show, I stood up and filmed above the glass. This upload a copy of the original DVD that I made. This DVD contains the entire PUSA performance that evening.
+The included pics in the folder were downloaded from the following website: http://www.dotphoto.com/ViewAlbum.asp?AID=2353453. If you look very closely, you can spot me in the background of a couple pics with my camera.
+Support the band, share this recording freely with fans, and never sell my recordings/transfers!
+
+Enjoy!
+A BobC release.
+
+Technical info (from VLC player):
+Stream 2
+Original ID: 224
+Codec: MPEG-1/2 Video (mpgv)
+Type: Video
+Video resolution: 720x480
+Buffer dimensions: 720x480
+Frame rate: 29.970030
+Decoded format: 
+Orientation: Top left
+Color primaries: ITU-R BT.601 (525 lines, 60 Hz)
+Color transfer function: ITU-R BT.709
+Color space: ITU-R BT.601 Range
+Chroma location: Left
+
+Stream 7
+Original ID: 48512
+Codec: A52 Audio (aka AC3) (a52 )
+Type: Audio
+Channels: Stereo
+Sample rate: 48000 Hz
+Bits per sample: 32
+
+Chapters are at 10 minute intervals.

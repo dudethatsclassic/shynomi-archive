@@ -1,0 +1,28 @@
+shntool 3.0.4
+Copyright (C) 2000-2007 Jason Jordan <shnutils@freeshell.org>
+
+    length     expanded size    cdr  WAVE problems  fmt   ratio  filename
+     1:42.27       18056348 B   ---   --   ---xx   flac  0.4866  01 Intro Music & Opening Comments.flac
+     4:52.39       51600572 B   ---   --   ---xx   flac  0.5385  02 Highway Forever.flac
+     4:35.60       48651164 B   ---   --   ---xx   flac  0.5608  03 Kitty ~ Superstition ~ Kitty.flac
+     2:42.08       28595660 B   ---   --   ---xx   flac  0.5760  04 Rotting In The Sun.flac
+     3:03.05       32293004 B   ---   --   ---xx   flac  0.5806  05 Volcano.flac
+     3:32.08       37415660 B   ---   --   ---xx   flac  0.6069  06 Boll Weevil.flac
+     3:05.04       32643452 B   ---   --   ---xx   flac  0.5575  07 Ladybug.flac
+     2:46.24       29338892 B   ---   --   ---xx   flac  0.6024  08 Love Everybody.flac
+     2:53.25       30576044 B   ---   --   ---xx   flac  0.5609  09 Flame Is Love.flac
+     2:44.74       29103692 B   ---   --   ---xx   flac  0.5573  10 Dune Buggy.flac
+     3:40.40       38902124 B   ---   --   ---xx   flac  0.5786  11 Mixed Up S.O.B..flac
+     3:32.34       37476812 B   ---   --   ---xx   flac  0.5790  12 Back Porch.flac
+     2:09.50       22873244 B   ---   --   ---xx   flac  0.6356  13 Lump.flac
+     3:46.71       40033436 B   ---   --   ---xx   flac  0.5588  14 Bad Times.flac
+     3:10.53       33640700 B   ---   --   ---xx   flac  0.5823  15 Tiki God.flac
+     3:12.17       33908828 B   ---   --   ---xx   flac  0.6065  16 Deleter.flac
+     3:50.47       40682588 B   ---   --   ---xx   flac  0.5967  17 Mach 5.flac
+     2:35.62       27487868 B   ---   --   ---xx   flac  0.5948  18 Peaches.flac
+     4:25.65       46898924 B   ---   --   ---xx   flac  0.5934  19 Kick Out The Jams.flac
+     0:58.70       10395884 B   ---   --   ---xx   flac  0.4737  20 Audience.flac
+     4:09.40       44017724 B   ---   --   ---xx   flac  0.5628  21 Video Killed The Radio Star.flac
+     3:04.67       32615228 B   ---   --   ---xx   flac  0.5821  22 Shreds Of Boa.flac
+     4:12.36       44537516 B   ---   --   ---xx   flac  0.5785  23 We Are Not Going To Make It.flac
+    74:48.26      791745364 B                            0.5749  (23 files)

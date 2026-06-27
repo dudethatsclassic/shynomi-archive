@@ -1,0 +1,87 @@
+Presidents Of The United States Of America
+Bear Tooth Theatre & Pub
+Anchorage, AK
+June 17, 2010
+
+** 16 BIT **
+
+Source:  SBD > Edirol R-09 @ 16 bit/44.1 kHz > .WAV > CDR 
+Transfer:  CDR > EAC > WAV's
+Mastering:  .WAV's > Visual Audio Splitter & Joiner 10.0 (re-join .WAV's) > Sound Forge Pro 11.0 (Build 299) (minor edits, normalize, &                    fades) > CDWav (tracking) > Trader's Little Helper (level 5) > FLAC > TagScanner 6.0.18 (tagging)
+Recorded by:  Jim Maley
+Transfer by:  Steve "ballsdeep" Hagar
+Mastered by:  Dennis Orr
+
+Setlist: (1:21:27)
+01 Intro
+02 Tiki God
+03 Kitty
+04 Rot In The Sun
+05 Volcano
+06 Chat
+07 Ladybug (with false start)
+08 Boll Weevil
+09 Chat
+10 Sharpen Up Those Fangs
+11 Lump
+12 Back Porch
+13 Some Postman
+14 Chat
+15 Nothing But Love
+16 Chat
+17 Mach 5
+18 Ghosts Are Everywhere
+19 More Bad Times
+20 Love Everybody
+21 Dune Buggy
+22 Mixed Up S.O.B.
+23 Peaches
+24 Kick Out The Jams >
+25 Shout >
+26 Spoonman
+27 Encore Break
+- Encore - 
+28 Video Killed The Radio Star >
+29 Body >
+30 We Are Not Going To Make It >
+31 We're Going To Make It After All
+
+Chris Ballew - basitar & vocals
+Jason Finn - guitbass & vocals
+Andrew McKeag - drums & vocals
+
+Notes:
+There is some slight echo effect on the vocals at times
+A portion of the Encore Break was removed (pre-recorded version of the Beatles "I Am The Walrus").  Crowd noise is seamlessly spliced.
+
+PUSA2010-06-17t01.flac:dc207c58ab6aaba93bdc55e361cc8af7
+PUSA2010-06-17t02.flac:aa87fa9df2f8da2dea6eed9311d15792
+PUSA2010-06-17t03.flac:fc90c8c9f5eec2e5c4e045656ecfe07a
+PUSA2010-06-17t04.flac:20c9b5f78ad8260dc96a6c73ab9882c6
+PUSA2010-06-17t05.flac:cf9567efe863236fec5a5ad590a984ae
+PUSA2010-06-17t06.flac:72742acb61d2f6f510dbbf0dc4cc938e
+PUSA2010-06-17t07.flac:ca566f4a0cfd598dc2c5cf5aa25c0da0
+PUSA2010-06-17t08.flac:1d143021f45e18dc8510382135f283f7
+PUSA2010-06-17t09.flac:409b00930874045cfcc199f998e3162f
+PUSA2010-06-17t10.flac:ed0a7d0da6b414e42e6ed9f86c864804
+PUSA2010-06-17t11.flac:66443290929527dd0677382ee904d2cd
+PUSA2010-06-17t12.flac:8932b5e77cb9e5ecec93a3c33bcaf365
+PUSA2010-06-17t13.flac:b80f15caff4b9e52b80452c0b55b300b
+PUSA2010-06-17t14.flac:cdcbcaaca8b58e3316a711238a96b03c
+PUSA2010-06-17t15.flac:76477a253e58d73ddb314da2bea6bc4b
+PUSA2010-06-17t16.flac:a052a8514a476665c495d3bf12d1501f
+PUSA2010-06-17t17.flac:4d288bab0d47ee4ea8d33e467a2ed073
+PUSA2010-06-17t18.flac:69e6b17e2b985a9c5be56e01500748c6
+PUSA2010-06-17t19.flac:21e3c4c3de191a8bc336bd4ff047beb1
+PUSA2010-06-17t20.flac:8958e046c660555ea2c88f9927744040
+PUSA2010-06-17t21.flac:e8eafc05fcefe8b3b051ddd87e013279
+PUSA2010-06-17t22.flac:1c8b1a4465624e50bfbae1b03cc6290d
+PUSA2010-06-17t23.flac:5840ab2b451557afeb09dc8cc327b921
+PUSA2010-06-17t24.flac:36a0548d97e208df1f6818917042d704
+PUSA2010-06-17t25.flac:44b0ca9b9ff4fd0631e62073d9ccb1ff
+PUSA2010-06-17t26.flac:f56a98f961b74bdaec48a36fc16a2af7
+PUSA2010-06-17t27.flac:21cde43a5dc74a7bdb7248a8f59c366e
+PUSA2010-06-17t28.flac:427852b91c6d089b8730cf99f7bcf5cf
+PUSA2010-06-17t29.flac:24ee47afa3ca2bc0a3c2cd2e67e60eda
+PUSA2010-06-17t30.flac:3fafe9dc32d6cfee6b9d4c97ec904b74
+PUSA2010-06-17t31.flac:a0c9bed37a0f0a1f6c80e02823f094d9

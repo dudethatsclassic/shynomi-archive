@@ -1,0 +1,14 @@
+The Presidents of the USA
+
+March 10, 2013
+1. Intro, 2. Tiki God, 3. Bug City [w/Kansas City > Hey Hey Hey [Beatles] outro], 4. Some Postman, 5. Flame Is Love, 6. Love Everybody, 7. Poor Turtle, 8. Last Girl on Earth, 9. Mach 5, 10. Kitty, 11. Feather Pluckn, 12. Lump, 13. Stranger, 14. Boll Weevil, 15. Peaches, 16. Dune Buggy, 17. We Are Not Going to Make It, 18. Kick Out the Jams (MC5), 19. Body, 20. Back Porch, 21. Candy, 22. Naked and Famous, 23. Encore:, 24. More Bad Times [(Ed’s Redeeming Qualities] > Praise You (tease) [(Fatboy Slim] > More Bad Times, 25. Ghosts are Everywhere, 26. Teases: I Got You (Split Enz) > Don't You Want Me (The Human League) > Highway to Hell [AC/DC cover] > (I'm) Stranded [The Saints] > I Wanna Be Sedated [Ramones], 27. Video Killed the Radio Star [Buggles] > Kick Out the Jams (tease) [MC5] > Ace of Spades (tease) [Motorhead].
+
+Track Info: Palace Theatre, Melbourne, VIC, Australia
+Source Info: AUD MATRIX >LPCM>WAV>FLAC [Source #1: CA-14s > muffled* > Bat-2B >  Sony PCM-M10]  ; Source #2: 2xCountryman B3s > Tinybox > Edirol R-09]
+Mastering: Adobe Audition CS5.5, w/izotope Ozone 5 and RX7 (Declick audience clapping, maximiser, low shelf filter on the B3s source at 100Hz, match sources in multitrack session;  Track Split, retain 44/16>  TLH (FLAC); Tag Scanner (Tags)
+Taper: roman79, ~ 30m from the stage, on the floor
+Length: 101:10
+
+Sound Comments/Faults?: Good quality matrix. Neither of the individual sources were ideal. The CA-14s was a little flat probably due to me taping it with a non-sound transparent hat*, the B3s source was quite distant. I decided to matrix the two, the CA-14s was the better sounding source but by adding the B3s I’ve added some more bass and richness into the recording. A raucous show – I had to move to the back of the GA floor after getting hammered in the mosh pit that I wasn’t expecting. Audience noise is moderate, most near microphone audience noise are just screams and a bit of chat, the audience singing is significant but away from the microphone and quite complementary. 
+
+Show Comments: Track 26 which has multiple teases goes for about 5 minutes. This venue no longer exists, but it was quite unique for Melbourne. It was a standing venue but over 3 levels [capacity around 2000 I think], so people would stand all along the stairs up to the other balconies. Thus, a bit like in a church, audience singing is amplified considerably by the nature of the space, as demonstrated in this tape. 

@@ -1,0 +1,31 @@
+PRESIDENTS OF THE UNITED STATES OF AMERICA W/ KRIST NOVOSELIC
+September 20, 2011
+Sky Church, Experience Music Project (Nevermind Live in Sky Church - A Benefit Show for Susie Tennant)
+Seattle, WA
+
+SOURCE:
+Panasonic WM-61A > Sound Professionals SP-SPSB-2 > Edirol R-09
+
+TRANSFER:
+Edirol R-09 > USB > Adobe Audition 3.0 > CD Wave 1.98 > FLAC frontend 1.7.1
+
+GENERATION:
+WAV(M) [48kHz/24bit] > WAV [44.1kHz/16bit] > FLAC [Level 8] 
+
+LENGTH:
+11:38
+
+TRACKS:
+01. intro
+02. On A Plain
+03. Sliver
+
+FLAC FINGERPRINTS:
+pusa2011-09-20t01.flac:12f09a289e77bb7cc1ae12004ab4bcf0
+pusa2011-09-20t02.flac:1582f1bc33d4a598256faefc1df122bf
+pusa2011-09-20t03.flac:97dc52780703ad1a634b73a5066ffdbe
+
+RECORDED BY:
+Mike Ziegler
+
+PLEASE DO NOT SELL OR ENCODE TO MP3

@@ -1,0 +1,65 @@
+Presidents of the United States of America
+Middle East Club
+Cambridge, Massachusetts, USA
+2005.10.03
+
+Taper
+Jason Adler
+
+Source
+AKG 391 (x2, DIN, FoB, DFC, Hanged from cieling) > Audio Magic Hyper-Conductors > Edirol UA-5 (Oade T-Plus Mod) > Creative Nomad JB3 44.1KHz WAV
+
+Lineage
+(3)
+AKG 391 (x2) (DIN) > Audio Magic Hyper-Conductors > Edirol UA-5 (Oade T-Plus Mod) > Creative Nomad JB3 44.1KHz WAV > Firewire to PC > CD Wave (Splitting) > FLAC Frontend v1.7.1 Lvl. 8
+
+Notes
+Excellent quality, very clear and well recorded.  Everything about this recording is perfect.  The crowd sings along, but not too loud, and is VERY enthusiastic.  This is one of the better bootlegs I've heard, and I say it is a must have for any PUSA fan.
+
+CD Time - 01:28:19
+01 Boll Weevil 
+02 Kitty
+03 Highway Forever
+04 Tiki God
+05 Shreds of Boa
+06 Naked and Famous
+07 Lump 
+08 Zero Friction
+09 Back Porch
+10 Some Postman
+11 Dune Buggy
+12 Mach 5
+13 Candy
+14 Love Everybody
+15 Peaches
+16 Kick Out the Jams
+17 We Are Not Going to Make It
+18 Video Killed the Radio Star
+19 Froggie
+20 Thursday
+
+Checksum
+474aa2bc11c2982b46195c8f33a12c7d *01 Boll Weevil.flac
+bcc5145ccfc582b97ae0868816ae62f1 *02 Kitty.flac
+4dcc3f427c6bef17d8c87a2a21302e82 *03 Highway Forever.flac
+0cf27a9bc6a414604cd2e050de3e5003 *04 Tiki God.flac
+a1ca28e60d6b3953559ab56ff1e5a08b *05 Shreds of Boa.flac
+d520e6785bd06f5e21ad537081984515 *06 Naked and Famous.flac
+20861fa7584e8b0969e571d274b6d266 *07 Lump.flac
+29683fc2eb4bb94006261139aa06d930 *08 Zero Friction.flac
+3a89f280e0aee82e1a261d926b5277db *09 Back Porch.flac
+badd1ff4e291c1a1ea5ec59dca5c79ba *10 Some Postman.flac
+3ba0a2dfcad434fd240c466f60e735ed *11 Dune Buggy.flac
+faf181a7219bf1741d3fb04b15160737 *12 Mach 5.flac
+696692a65b296e34d8d3890c676966ad *13 Candy.flac
+62bd7b93ee08796ba8bd922fd2bf565d *14 Love Everybody.flac
+fe040de5ebf511e1f310f5df02a6e9e3 *15 Peaches.flac
+1a8ebc477d3f7ba703ee21d5d2acfd00 *16 Kick Out the Jams.flac
+dd38245322a3b602cc8da5c3da692065 *17 We Are Not Going to Make It.flac
+0f7cd2a551d7598148c505b59ccbe311 *18 Video Killed the Radio Star.flac
+ab7a316cac51e3a87ba57f284529a341 *19 Froggie.flac
+913a14cd05bba50183bdb81a2d775d6e *20 Thursday.flac
+
+No errors occured.
+
+Create checksum file log saved to file.

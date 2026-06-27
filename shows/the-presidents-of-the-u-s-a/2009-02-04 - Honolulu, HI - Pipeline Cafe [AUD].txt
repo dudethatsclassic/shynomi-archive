@@ -1,0 +1,38 @@
+The Presidents of the United States of America
+Pipeline Cafe
+Honolulu, HI
+2009-02-04
+
+Equipment: CA-14 cardioid -> CA-9100 preamp -> R-09HR (24/96)
+Lineage: 24/96 WAV -> Amadeus Pro (normalize, dither, downsample) -> FLAC(8)
+
+Location: Stage Right, 20 feet from the stage
+Recorded by: TheBang
+
+Setlist:
+
+01 Intro
+02 Tiki God
+03 Feather Pluckn
+04 Kitty
+05 Rot in the Sun
+06 Dune Buggy
+07 Ladybug
+08 Volcano
+09 Back Porch
+10 Lump
+11 Sharpen Up Those Fangs
+12 Boll Weevil
+13 Mixed Up S.O.B.
+14 Froggie/Moving In
+15 Ghosts Are Everywhere
+16 Interlude (Iron Man/Where Have You Been All My Life)
+17 Mach 5
+18 Video Killed the Radio Star
+19 Peaches
+20 Kick Out the Jams
+21 Encore Break
+22 Love Everybody
+23 Candy
+24 We Are Not Going to Make It
+25 Ace of Spades

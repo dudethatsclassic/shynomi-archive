@@ -32,9 +32,10 @@ const ARTIST_DATA = {
       "state": "WA",
       "location": "Seattle, WA",
       "venue": "Crocodile Cafe",
-      "notes": "Sony WM-D3 · geech",
+      "notes": "Sony WM-D3 \u00b7 geech",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1994-05-04 - Seattle, WA - Crocodile Cafe [AUD].txt"
     },
     {
       "year": 1994,
@@ -45,9 +46,10 @@ const ARTIST_DATA = {
       "state": "OR",
       "location": "Portland, OR",
       "venue": "Mt. Tabor Theater",
-      "notes": "Sony WM-D3 · geech",
+      "notes": "Sony WM-D3 \u00b7 geech",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1994-11-26 - Portland, OR - Mt. Tabor Theater [AUD].txt"
     },
     {
       "year": 1995,
@@ -58,9 +60,10 @@ const ARTIST_DATA = {
       "state": "OR",
       "location": "Portland, OR",
       "venue": "Satyricon",
-      "notes": "Sony WM-D3 · unk",
+      "notes": "Sony WM-D3 \u00b7 unk",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1995-03-03 - Portland, OR - Satyricon [AUD].txt"
     },
     {
       "year": 1995,
@@ -71,9 +74,10 @@ const ARTIST_DATA = {
       "state": "OR",
       "location": "Portland, OR",
       "venue": "Pine Street Theater",
-      "notes": "Sony WM-D3 · geech",
+      "notes": "Sony WM-D3 \u00b7 geech",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1995-05-26 - Portland, OR - Pine Street Theater [AUD].txt"
     },
     {
       "year": 1995,
@@ -97,9 +101,10 @@ const ARTIST_DATA = {
       "state": "CO",
       "location": "Denver, CO",
       "venue": "Mercury Cafe",
-      "notes": "DAT(M) · unk · sxpxdxcx",
+      "notes": "DAT(M) \u00b7 unk \u00b7 sxpxdxcx",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1995-10-07 - Denver, CO - Mercury Cafe - DAT(M) (unk) (sxpxdxcx) [AUD].txt"
     },
     {
       "year": 1995,
@@ -112,7 +117,8 @@ const ARTIST_DATA = {
       "venue": "Lee's Place",
       "notes": "stevemtl",
       "version": "FM",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1995-11-09 - Toronto, ON - Lee's Place [FM].txt"
     },
     {
       "year": 1995,
@@ -125,7 +131,8 @@ const ARTIST_DATA = {
       "venue": "Paradise Club *Everybody Supernova",
       "notes": "",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1995-11-12 - Boston, MA - Paradise Club - Everybody Supernova [AUD].txt"
     },
     {
       "year": 1996,
@@ -136,9 +143,10 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "San Francisco, CA",
       "venue": "Warfield",
-      "notes": "unk · neekrive",
+      "notes": "unk \u00b7 neekrive",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1996-02-18 - San Francisco, CA - Warfield (unk) (neekrive) [AUD].txt"
     },
     {
       "year": 1996,
@@ -149,9 +157,10 @@ const ARTIST_DATA = {
       "state": "TX",
       "location": "Dallas, TX",
       "venue": "Bomb Factory",
-      "notes": "D7 · dave h",
+      "notes": "D7 \u00b7 dave h",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1996-03-01 - Dallas, TX - Bomb Factory [AUD].txt"
     },
     {
       "year": 1996,
@@ -162,9 +171,10 @@ const ARTIST_DATA = {
       "state": "IA",
       "location": "Iowa City, IA",
       "venue": "Union Bar",
-      "notes": "CSB · so",
+      "notes": "CSB \u00b7 so",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1996-03-11 - Iowa City, IA - Union Bar (CSB) (so) [AUD].txt"
     },
     {
       "year": 1996,
@@ -177,7 +187,8 @@ const ARTIST_DATA = {
       "venue": "Studion *Funk, Punk & Twang",
       "notes": "",
       "version": "Silver CD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1996-03-29 - Stockholm, Sweden - Studion plus 1995 show - Funk Punk & Twang [Silver].txt"
     },
     {
       "year": 1996,
@@ -203,7 +214,8 @@ const ARTIST_DATA = {
       "venue": "WCBN Studios",
       "notes": "steve hopkins",
       "version": "FM",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1996-06-25 - Boston, MA - WCBN Studios [FM].txt"
     },
     {
       "year": 1996,
@@ -214,9 +226,10 @@ const ARTIST_DATA = {
       "state": "CH",
       "location": "St. Gallen, CH",
       "venue": "Open Air Sittertobel",
-      "notes": "CASS(M) · stevemtl transfer",
+      "notes": "CASS(M) \u00b7 stevemtl transfer",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1996-06-29 - St. Gallen, CH - Open Air Sittertobel - CASS(M) (stevemtl transfer) [AUD].txt"
     },
     {
       "year": 1996,
@@ -240,7 +253,7 @@ const ARTIST_DATA = {
       "state": "France",
       "location": "Paris, France",
       "venue": "Fun Radio",
-      "notes": "FM>CASS(1 · FA007",
+      "notes": "FM>CASS(1 \u00b7 FA007",
       "version": "FM",
       "format": "FLAC"
     },
@@ -268,7 +281,8 @@ const ARTIST_DATA = {
       "venue": "",
       "notes": "",
       "version": "Silver CD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1996-11-16 - Tokyo, Japan - Get Happy [Silver].txt"
     },
     {
       "year": 1996,
@@ -305,9 +319,10 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "San Francisco, CA",
       "venue": "Fillmore",
-      "notes": "DAT(M) · cps transfer",
+      "notes": "DAT(M) \u00b7 cps transfer",
       "version": "SBD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1997-02-06 - San Francisco, CA - Fillmore - DAT(M) (cps transfer) [SBD].txt"
     },
     {
       "year": 1997,
@@ -318,9 +333,10 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "San Francisco, CA",
       "venue": "Fillmore",
-      "notes": "DAT(M) · cps transfer",
+      "notes": "DAT(M) \u00b7 cps transfer",
       "version": "SBD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1997-02-07 - San Francisco, CA - Fillmore - DAT(M) (cps transfer) [SBD].txt"
     },
     {
       "year": 1997,
@@ -370,9 +386,10 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "Los Angeles, CA",
       "venue": "Farmer's Market",
-      "notes": "Sony · M · bobc release",
+      "notes": "Sony \u00b7 M \u00b7 bobc release",
       "version": "AUD",
-      "format": "DVD"
+      "format": "DVD",
+      "textFile": "2003-12-09 - Los Angeles, CA - Farmer's Market (Sony D8) [DVD].txt"
     },
     {
       "year": 2004,
@@ -396,9 +413,10 @@ const ARTIST_DATA = {
       "state": "MA",
       "location": "Boston, MA",
       "venue": "Landsdown Street",
-      "notes": "Sony ECM-717 · jason adler",
+      "notes": "Sony ECM-717 \u00b7 jason adler",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "2004-06-03 - Boston, MA - Landsdown Street [AUD].txt"
     },
     {
       "year": 2004,
@@ -409,9 +427,10 @@ const ARTIST_DATA = {
       "state": "IL",
       "location": "Decatur, IL",
       "venue": "Funfest",
-      "notes": "Set · x · eric master · bobc release",
+      "notes": "Set \u00b7 x \u00b7 eric master \u00b7 bobc release",
       "version": "AUD",
-      "format": "DVD"
+      "format": "DVD",
+      "textFile": "2004-08-07 -  Decatur, IL - Funfest - Set 2 (eric master) [DVD].txt"
     },
     {
       "year": 2004,
@@ -422,9 +441,10 @@ const ARTIST_DATA = {
       "state": "AL",
       "location": "Birmingham, AL",
       "venue": "Zydeco",
-      "notes": "CA-11 · chris brightwell",
+      "notes": "CA-11 \u00b7 chris brightwell",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "2004-12-01 - Birmingham, AL - Zydeco (CA-11) (chris brightwell) [AUD].txt"
     },
     {
       "year": 2005,
@@ -435,9 +455,10 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "San Diego, CA",
       "venue": "Belly Up Tavern",
-      "notes": "Sony Handycam DCR-HC32 · bobc release",
+      "notes": "Sony Handycam DCR-HC32 \u00b7 bobc release",
       "version": "AUD",
-      "format": "DVD"
+      "format": "DVD",
+      "textFile": "2005-03-25 - San Diego, CA - Belly Up Tavern DV(M) [DVD].txt"
     },
     {
       "year": 2005,
@@ -448,9 +469,10 @@ const ARTIST_DATA = {
       "state": "OR",
       "location": "Portland, OR",
       "venue": "Crystal Ballroom",
-      "notes": "MD(M) · CSB · faninor",
+      "notes": "MD(M) \u00b7 CSB \u00b7 faninor",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "2005-06-03 - Portland, OR - Crystal Ballroom - MD(M) (CSB) (faninor) [AUD].txt"
     },
     {
       "year": 2005,
@@ -461,9 +483,10 @@ const ARTIST_DATA = {
       "state": "MA",
       "location": "Cambridge, MA",
       "venue": "Middle East Club",
-      "notes": "AKG 391 · jason adler",
+      "notes": "AKG 391 \u00b7 jason adler",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "2005-10-03 - Cambridge, MA - Middle East Club [AUD].txt"
     },
     {
       "year": 2005,
@@ -476,7 +499,8 @@ const ARTIST_DATA = {
       "venue": "The Metro Theatre *Rock Australia 2005",
       "notes": "FTR #20",
       "version": "Silver CD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "2005-10-20 - Sydney, Australia - The Metro Theatre - Rock Australia 2005 - FTR #20 [Silver].txt"
     },
     {
       "year": 2006,
@@ -487,9 +511,10 @@ const ARTIST_DATA = {
       "state": "France",
       "location": "Paris, France",
       "venue": "Elysee Montmartre",
-      "notes": "Sony ECM-719 · unk",
+      "notes": "Sony ECM-719 \u00b7 unk",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "2006-05-18 - Paris, France - Elysee Montmartre [AUD].txt"
     },
     {
       "year": 2007,
@@ -513,9 +538,10 @@ const ARTIST_DATA = {
       "state": "WA",
       "location": "Seattle, WA",
       "venue": "The Showbox",
-      "notes": "Giant Squid Audio Omnis · b.c.",
+      "notes": "Giant Squid Audio Omnis \u00b7 b.c.",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "2007-02-17 - Seattle, WA - The Showbox [AUD].txt"
     },
     {
       "year": 2007,
@@ -539,9 +565,10 @@ const ARTIST_DATA = {
       "state": "NY",
       "location": "New York, NY",
       "venue": "Bowery Ballroom",
-      "notes": "SP-CMC-10 · unk",
+      "notes": "SP-CMC-10 \u00b7 unk",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "2008-03-24 - New York City, NY - Bowery Ballroom [AUD].txt"
     },
     {
       "year": 2008,
@@ -552,9 +579,10 @@ const ARTIST_DATA = {
       "state": "PA",
       "location": "Philadelphia, PA",
       "venue": "Trocadero",
-      "notes": "CSB · unk",
+      "notes": "CSB \u00b7 unk",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "2008-03-26 - Philadelphia, PA - Trocadero [AUD].txt"
     },
     {
       "year": 2008,
@@ -565,9 +593,10 @@ const ARTIST_DATA = {
       "state": "MA",
       "location": "Boston, MA",
       "venue": "The Paradise",
-      "notes": "Microtech Gefell M200s · jason adler",
+      "notes": "Microtech Gefell M200s \u00b7 jason adler",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "2008-03-27 - Boston, MA - The Paradise [AUD].txt"
     },
     {
       "year": 2008,
@@ -578,9 +607,10 @@ const ARTIST_DATA = {
       "state": "TN",
       "location": "Knoxville, TN",
       "venue": "Market Square *Sundown in the City",
-      "notes": "Realistic 33-1065 · the govner",
+      "notes": "Realistic 33-1065 \u00b7 the govner",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "2008-05-22 - Knoxville, TN - Market Square - Sundown In The City [AUD].txt"
     },
     {
       "year": 2008,
@@ -591,9 +621,10 @@ const ARTIST_DATA = {
       "state": "France",
       "location": "Paris, France",
       "venue": "Trabendo",
-      "notes": "SP-CMC-8 · unk",
+      "notes": "SP-CMC-8 \u00b7 unk",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "2008-05-29 - Paris, France - Trabendo [AUD].txt"
     },
     {
       "year": 2009,
@@ -604,9 +635,10 @@ const ARTIST_DATA = {
       "state": "HI",
       "location": "Honolulu, HI",
       "venue": "Pipeline Cafe",
-      "notes": "CA-14 · thebang",
+      "notes": "CA-14 \u00b7 thebang",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "2009-02-04 - Honolulu, HI - Pipeline Cafe [AUD].txt"
     },
     {
       "year": 2010,
@@ -617,9 +649,10 @@ const ARTIST_DATA = {
       "state": "AK",
       "location": "Anchorage, AK",
       "venue": "Bear Tooth Theatre Pub",
-      "notes": "SBD>Edirol · jim maley",
+      "notes": "SBD>Edirol \u00b7 jim maley",
       "version": "SBD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "2010-06-17 - Anchorage, AK - Bear Tooth Theatre Pub [SBD].txt"
     },
     {
       "year": 2010,
@@ -630,9 +663,10 @@ const ARTIST_DATA = {
       "state": "IL",
       "location": "Skokie, IL",
       "venue": "Skokie's Backlot Bash",
-      "notes": "CA-14 · jon g,",
+      "notes": "CA-14 \u00b7 jon g,",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "2010-08-28 - Skokie, IL - Skokie's Backlot Bash [AUD].txt"
     },
     {
       "year": 2011,
@@ -643,9 +677,10 @@ const ARTIST_DATA = {
       "state": "WA",
       "location": "Seattle, WA",
       "venue": "Showbox",
-      "notes": "Zoom H1 · unk",
+      "notes": "Zoom H1 \u00b7 unk",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "2011-02-20 - Seattle, WA - Showbox [AUD].txt"
     },
     {
       "year": 2011,
@@ -656,9 +691,10 @@ const ARTIST_DATA = {
       "state": "WA",
       "location": "Seattle, WA",
       "venue": "Sky Church",
-      "notes": "Experience · with Krist Novoselic · M · Panasonic WM-61A · mike ziegler",
+      "notes": "Experience \u00b7 with Krist Novoselic \u00b7 M \u00b7 Panasonic WM-61A \u00b7 mike ziegler",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "2011-09-20 - Seattle, WA - Sky Church - Experience Music Project (with Krist Novoselic) [AUD].txt"
     },
     {
       "year": 2013,
@@ -669,9 +705,10 @@ const ARTIST_DATA = {
       "state": "Australia",
       "location": "Melbourne, Australia",
       "venue": "Palace Theatre",
-      "notes": "CA-14 + Countryman B3s · roman79",
+      "notes": "CA-14 + Countryman B3s \u00b7 roman79",
       "version": "MTX",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "2013-03-10 -  Melbourne, Australia - Palace Theatre  [MTX].txt"
     },
     {
       "year": 2013,
@@ -682,9 +719,10 @@ const ARTIST_DATA = {
       "state": "MA",
       "location": "Boston, MA",
       "venue": "Paradise Club",
-      "notes": "Microtech Gefell M200s · jason adler",
+      "notes": "Microtech Gefell M200s \u00b7 jason adler",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "2013-04-11 - Boston, MA - Paradise Club [AUD].txt"
     },
     {
       "year": 2013,
@@ -695,9 +733,10 @@ const ARTIST_DATA = {
       "state": "NY",
       "location": "New York, NY",
       "venue": "Irving Plaza",
-      "notes": "DPA 4060 · unk",
+      "notes": "DPA 4060 \u00b7 unk",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "2013-04-15 - New York City, NY - Irving Plaza [AUD].txt"
     },
     {
       "year": 2013,
@@ -708,9 +747,10 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "San Francisco, CA",
       "venue": "The Independent",
-      "notes": "Zoom H2 · unk",
+      "notes": "Zoom H2 \u00b7 unk",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "2013-05-24 - San Francisco, CA - The Independent [AUD].txt"
     },
     {
       "year": 2014,
@@ -721,9 +761,10 @@ const ARTIST_DATA = {
       "state": "WA",
       "location": "Seattle, WA",
       "venue": "Showbox Market",
-      "notes": "PUSAFest · Zoom H2 · unk",
+      "notes": "PUSAFest \u00b7 Zoom H2 \u00b7 unk",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "2014-02-15 - Seattle, WA - Showbox Market (PUSAFest 2014) [AUD].txt"
     },
     {
       "year": 2014,
@@ -734,9 +775,10 @@ const ARTIST_DATA = {
       "state": "WA",
       "location": "Seattle, WA",
       "venue": "Triple Door",
-      "notes": "PUSAFest · Zoom H2 · unk",
+      "notes": "PUSAFest \u00b7 Zoom H2 \u00b7 unk",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "2014-02-16 - Seattle, WA - Triple Door (PUSAFest 2014) [AUD].txt"
     }
   ],
   "misc": [

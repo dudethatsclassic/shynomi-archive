@@ -1,0 +1,39 @@
+PRESIDENTS OF THE UNITED STATES OF AMERICA
+March 11, 1996
+Union Bar
+Iowa City, IA
+
+Source: Core Sound Binaural > Sony TCD-D7
+Taper: SO
+Lineage: DAT(M) > DAT(1) > WAV [48] > WAV [44.1] > FLAC
+Transfer: Tascam DA-20 > DiO 2496 > Cool Edit Pro
+Edits/EQ: 0:00:27-0:02:21 limiter @ -2.5dB, +2.4dB, Ozone Maximizer -2.5dB/-0.2dB
+Notes: none
+
+01 - intro
+02 - Kick Out the Jams
+03 - Lunatic to Love
+04 - Feather Pluckin'
+05 - Baby You're a Rich Man
+06 - Boll Weevil
+07 - Dune Buggy
+08 - Bug City
+09 - Bath of Fire
+10 - Naked and Famous
+11 - Lump
+12 - Twig in the Wind
+13 - Back Porch
+14 - Man (Opposable Thumb) 
+15 - Kitty
+16 - Video Killed the Radio Star
+17 - (Feel Like Makin' Love)
+18 - Peaches
+19 - improv
+20 - Body
+21 - Toob Amplifier
+22 - Stranger
+23 - Mach 5
+24 - We Are Not Going to Make It
+
+
+Compiled February 2020 by CPS
