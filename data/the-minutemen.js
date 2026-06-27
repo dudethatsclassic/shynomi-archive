@@ -20,11 +20,10 @@ const ARTIST_DATA = {
       "city": "Santa Monica",
       "state": "CA",
       "location": "Santa Monica, CA",
-      "venue": "Santa Monica Civic Auditorium - CASS",
+      "venue": "Santa Monica Civic Auditorium",
+      "notes": "CASS(M) · unk",
       "version": "AUD",
-      "format": "FLAC",
-      "notes": "M \u00b7 Unknown",
-      "textFile": "1981-06-19 - Santa Monica, CA - Santa Monica Civic Auditorium - CASS(M) (unk) [AUD].txt"
+      "format": "FLAC"
     },
     {
       "year": 1983,
@@ -34,11 +33,10 @@ const ARTIST_DATA = {
       "city": "Philadelphia",
       "state": "PA",
       "location": "Philadelphia, PA",
-      "venue": "Love Hall - VHS",
+      "venue": "Love Hall",
+      "notes": "VHS(M) · howard",
       "version": "AUD",
-      "format": "DVD",
-      "notes": "M \u00b7 howard",
-      "textFile": "1983-12-16 - Philadelphia, PA - Love Hall - VHS(M) (howard) [DVD].txt"
+      "format": "DVD"
     },
     {
       "year": 1984,
@@ -49,9 +47,9 @@ const ARTIST_DATA = {
       "state": "",
       "location": "Valencia CA",
       "venue": "California Institute of the Arts Santa Clarita",
+      "notes": "AKG 567e · unk",
       "version": "AUD",
       "format": "FLAC 24",
-      "notes": "AKG 567e \u00b7 Unknown",
       "textFile": "1984-11-03 - Valencia CA - California Institute of the Arts Santa Clarita (AKG 567e) (unk) [AUD24].txt"
     },
     {
@@ -63,10 +61,11 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "Hollywood, CA",
       "venue": "Club Lingerie",
+      "notes": "",
       "version": "AUD",
       "format": "FLAC",
-      "notes": "",
       "textFile": "1985-08-16 - Hollywood, CA - Club Lingerie [SBD].txt"
     }
-  ]
+  ],
+  "misc": []
 };
