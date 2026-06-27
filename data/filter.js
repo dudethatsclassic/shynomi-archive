@@ -28,7 +28,7 @@ const ARTIST_DATA = {
       "state": "MD",
       "location": "Baltimore, MD",
       "venue": "Hammerjacks",
-      "notes": "DAT(M) \u00b7 jr",
+      "notes": "DAT(M) · jr",
       "version": "SBD",
       "format": "FLAC",
       "textFile": "1995-10-03 - Baltimore, MD - Hammerjacks - DAT(M) (jr) [SBD].txt"
@@ -42,7 +42,7 @@ const ARTIST_DATA = {
       "state": "OH",
       "location": "Cleveland, OH",
       "venue": "Agora Theatre",
-      "notes": "CSB \u00b7 jlizard",
+      "notes": "CSB · jlizard",
       "version": "AUD (48k)",
       "format": "FLAC",
       "textFile": "1995-12-31 - Cleveland, OH - Agora Theatre (CSB) 48k (jlizard) [AUD].txt"
@@ -70,7 +70,7 @@ const ARTIST_DATA = {
       "state": "FL",
       "location": "Gainesville, FL",
       "venue": "The Palace Theatre",
-      "notes": "CSB \u00b7 dunebug81",
+      "notes": "CSB · dunebug81",
       "version": "AUD",
       "format": "FLAC",
       "textFile": "2002-09-24 - Gainesville, FL - The Palace Theatre (CSB) (dunebug81) [AUD].txt"
@@ -84,7 +84,7 @@ const ARTIST_DATA = {
       "state": "MI",
       "location": "Royal Oak, MI",
       "venue": "Royal Oak Music Theater",
-      "notes": "Sharp MD-SR60 \u00b7 Sony ECM-DS70 \u00b7 gladcarrot",
+      "notes": "Sharp MD-SR60 · Sony ECM-DS70 · gladcarrot",
       "version": "AUD",
       "format": "FLAC",
       "textFile": "2008-05-16 - Royal Oak, MI - Royal Oak Music Theater (Sharp MD-SR60) (Sony ECM-DS70) (gladcarrot) [AUD].txt"
@@ -98,7 +98,7 @@ const ARTIST_DATA = {
       "state": "OH",
       "location": "Toledo, OH",
       "venue": "Gatorz",
-      "notes": "HEB DPA 4060 \u00b7 charles dewey cole",
+      "notes": "HEB DPA 4060 · charles dewey cole",
       "version": "AUD",
       "format": "FLAC",
       "textFile": "2008-06-30 - Toledo, OH - Gatorz (HEB DPA 4060) (charles dewey cole) [AUD].txt"
@@ -112,7 +112,7 @@ const ARTIST_DATA = {
       "state": "AL",
       "location": "Birmingham, AL",
       "venue": "Birmingham-Jefferson Convention Complex Parking Lot",
-      "notes": "DPA 4061s \u00b7 dunebug81",
+      "notes": "DPA 4061s · dunebug81",
       "version": "AUD",
       "format": "FLAC",
       "textFile": "2009-05-02 - Birmingham, AL - Birmingham-Jefferson Convention Complex Parking Lot (DPA 4061s) (dunebug81) [AUD].txt"
@@ -126,7 +126,7 @@ const ARTIST_DATA = {
       "state": "IL",
       "location": "Merrionette Park, IL",
       "venue": "115 Bourbon Street",
-      "notes": "Sony PCM M10 \u00b7 auger_d",
+      "notes": "Sony PCM M10 · auger_d",
       "version": "AUD",
       "format": "FLAC",
       "textFile": "2010-08-24 - Merrionette Park, IL - 115 Bourbon Street (Sony PCM M10) (auger_d) [AUD].txt"
@@ -168,7 +168,7 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "Concord, CA",
       "venue": "Concord Pavilion",
-      "notes": "Schoeps MK4s \u00b7 tj",
+      "notes": "Schoeps MK4s · tj",
       "version": "AUD",
       "format": "FLAC 24",
       "textFile": "2023-09-22 - Concord, CA - Concord Pavilion (Schoeps MK4s) (tj) [AUD24].txt"
@@ -182,7 +182,7 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "Anaheim, CA",
       "venue": "Honda Center",
-      "notes": "DPA 4081 \u00b7 faninor",
+      "notes": "DPA 4081 · faninor",
       "version": "AUD",
       "format": "FLAC 24",
       "textFile": "2023-09-23 - Anaheim, CA - Honda Center (DPA 4081) (faninor) [AUD24].txt"
@@ -196,7 +196,7 @@ const ARTIST_DATA = {
       "state": "Germany",
       "location": "Stuttgart, Germany",
       "venue": "Im Wizemann",
-      "notes": "Schoeps MK41V \u00b7 sebi2704",
+      "notes": "Schoeps MK41V · sebi2704",
       "version": "AUD",
       "format": "FLAC",
       "textFile": "2024-03-20 - Stuttgart, Germany - Im Wizemann (Schoeps MK41V) (sebi2704) [AUD].txt"
@@ -210,7 +210,7 @@ const ARTIST_DATA = {
       "state": "DE",
       "location": "Hamburg, DE",
       "venue": "Knust",
-      "notes": "Zoom H2n \u00b7 jon toft",
+      "notes": "Zoom H2n · jon toft",
       "version": "AUD",
       "format": "FLAC 24",
       "textFile": "2024-03-29 - Hamburg, DE - Knust (Zoom H2n) (jon toft) [AUD24].txt"
@@ -224,7 +224,7 @@ const ARTIST_DATA = {
       "state": "MA",
       "location": "Mansfield, MA",
       "venue": "Xfinity Center",
-      "notes": "SP-CMC-8c \u00b7 farve4",
+      "notes": "SP-CMC-8c · farve4",
       "version": "AUD",
       "format": "FLAC",
       "textFile": "2024-09-06 - Mansfield, MA - Xfinity Center (SP-CMC-8c) (farve4) [AUD].txt"
@@ -238,7 +238,7 @@ const ARTIST_DATA = {
       "state": "OH",
       "location": "Cleveland, OH",
       "venue": "House of Blues",
-      "notes": "SP-CMC-8 \u00b7 live2cd",
+      "notes": "SP-CMC-8 · live2cd",
       "version": "AUD",
       "format": "FLAC",
       "textFile": "2025-02-21 - Cleveland, OH - House of Blues (SP-CMC-8) (live2cd) [AUD].txt"
@@ -252,7 +252,7 @@ const ARTIST_DATA = {
       "state": "OH",
       "location": "Columbus, OH",
       "venue": "Sonic Temple Festival",
-      "notes": "Sanctuary \u00b7 Schoeps MK4 \u00b7 jesse mc",
+      "notes": "Sanctuary · Schoeps MK4 · jesse mc",
       "version": "AUD",
       "format": "FLAC 24",
       "textFile": "2025-05-08 - Columbus, OH - Sonic Temple Festival - Sanctuary Stage (Schoeps MK4) (jesse mc) [AUD24].txt"
@@ -266,7 +266,7 @@ const ARTIST_DATA = {
       "state": "IN",
       "location": "Indianapolis, IN",
       "venue": "The Hi-Fi",
-      "notes": "CA-14 \u00b7 live2cd",
+      "notes": "CA-14 · live2cd",
       "version": "AUD",
       "format": "FLAC",
       "textFile": "2026-03-14 - Indianapolis, IN - The Hi-Fi (CA-14) (live2cd) [AUD].txt"
