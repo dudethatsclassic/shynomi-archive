@@ -1,0 +1,30 @@
+Lush
+The Ritz
+New York, NY, USA
+March 27, 1992
+
+AUD: Sony ECM-929 mic > Sony WM-D6 > analog master (Maxell MX-s 100)
+Transfer: analog master > BBE > hard drive > WAV
+Tracking: WAV > Audacity 3.7.5 > Trader's Little Helper 2.8.4 (Build 185) > FLAC (level 8, with checksums)
+
+Recording and Transfer: Scott Simpson
+Tracking: driffemall
+
+Great sounding audience recording, many thanks to the taper for sending this show to me!
+
+01. Stray
+02. Bitter
+03. God's Gift
+04. Nothing Natural
+05. Ocean
+06. For Love
+07. Starlust
+08. Covert
+09. De-Luxe
+10. Downer
+11. Sweetness and Light
+12. Superblast!
+13. Monochrome
+14. Baby Talk
+
+Enjoy, and do not distribute this in lossy format or sell!

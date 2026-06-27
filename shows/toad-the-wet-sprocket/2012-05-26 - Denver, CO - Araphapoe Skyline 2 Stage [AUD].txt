@@ -1,0 +1,50 @@
+Toad the Wet Sprocket
+Arapahoe Skyline 2 Stage
+Denver, CO 
+May 26, 2012
+
+  One Set:
+
+01 intro
+02 Something's Always Wrong
+03 Whatever I Fear
+04 Jam
+05 Crowing
+06 Good Intentions
+07 Stupid
+08 Nanci
+09 Inside
+10 Windmills
+11 The Moment
+12 Friendly Fire
+13 Come Back Down
+14 Nightingale Song
+15 All I Want
+16 Crazy Life
+17 Brother (false start)
+18 Finally Fading
+19 Brother
+20 Fall Down
+
+  Encore:
+
+21 banter and crowd
+22 Come Down
+23 Ziggy Stardust
+24 Walk On the Ocean
+
+Source (AUD): AKG C 480 B comb/ CK63-ULS (DIN, FOB, slightly right of center, 11' up) > Tascam DR-680
+Master format: 44.1 kHz, 16 bit, stereo (.WAV)
+Digital transfer: SDHC card (USB reader) > PC
+Digital editing: CuBase SX 2.0.1 (pre and post set fades, WAVES Q10-Paragraphic EQ, WAVES L1-Ultramaxizer)
+Tracking & processing for distribution: CD Wave Editor 1.95.1 > FLAC Frontend 1.7.1/ FLAC 1.1.2
+Distribution format: 44.1 kHz, 16 bit, stereo (.FLAC)
+
+Jonathan Kingham, on tour with Toad the Wet Sprocket, played multiple instruments and sang back-up vocals thoughout the show.
+
+Recording notes: There is wind rumble on this recording. I tried to minimized it as much as possible with EQ. Also, the band Toto was playing at the same time on a stage close by, so there is some bleed from that stage on the quieter parts of the Toad the Wet Sprocket performance.
+
+Recorded, processed and distributed by Chuck Miller (chuck@taperssection.com)
+
+Event notes: The third annual Denver Day of Rock, Concerts for Kids was a free day of concerts held in downtown Denver. Toad the Wet Sprocket played on the Arapahoe Skyline 2 Stage from approximately 8:00pm to 9:30pm. They were the final band to play on that stage for the day.
+

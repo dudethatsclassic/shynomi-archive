@@ -1,0 +1,21 @@
+Sonic Youth, 1982-11-14, Cat's Cradle, Carrboro, 26:45 / 170 MB
+
+1. Inhuman
+2. She's In A Bad Mood
+3. World Looks Red
+4. The Burning Spear
+5. Confusion Is Sex
+6. Making The Nature Scene
+
+?         recording
+??        transfer
+tris1979  editing, notes*
+rappard   checks, extraction, encoding, notes*, seed
+
+Audience > unknown mic > unknown analog recorder > analog cassette (master) > analog cassette (first generation?) > unknown transfer > CD-R (low generation, but with one-second gaps between tracks) > Tau Analyzer 1.2 (verified losslessness) > EAC v0.95b4 (proper offset, secure) > individual .wav files > Spark 2.82 (one long .wav file > gap removal** > new track splits) > Trader's Little Helper 2.2.1.151 (verified losslessness, checked for sector boundary errors) > FLAC Frontend 1.7.1 (verify, align on sector boundaries) > .flac 1.2.1b (level 8) > Mp3tag v2.39 (tagged) > Trader's Little Helper 2.2.1.151 (generated checksum files)
+
+http://www.sonicyouth.com/mustang/cc/111482.html
+http://sylrdb.free.fr/1982.htm
+
+*         based on research done with etree, google, JL, and phishhook, 2008-01-28
+**        at 00:00, 00:13, 00:43, 04:22, 10:45, 11:52, 14:08, 18:46, and 21:55 - some sound (noise, applause) might actually have gone missing during the original transfer (all circulating copies have the same flaws)

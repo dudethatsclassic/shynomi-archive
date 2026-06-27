@@ -1,0 +1,15 @@
+primus
+silverdome, pontiac mi
+september 9, 1992
+
+recording gear:
+unknown mic > unknown cassette deck
+
+lineage:
+cassette master > my cassette
+
+processing:
+gen1 cassette > nak rx505 > edirol r4 > adobe audition > cdwav > tlh flac 8
+
+these are 24bit/48kHz flac files
+

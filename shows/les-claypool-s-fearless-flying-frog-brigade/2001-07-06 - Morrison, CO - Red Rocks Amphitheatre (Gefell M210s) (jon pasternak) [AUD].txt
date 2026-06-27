@@ -1,0 +1,39 @@
+Les Claypool & the Fearless Flying Frog Brigade
+July 6th, 2001
+Red Rocks Amphitheatre, Morrison, CO
+
+Master/Conversion:
+Microtech Gefell M210's>Oade M248>SBM-1>D8, D8>Tascam CDRW2000>CD
+by Jon Pasternak
+
+Extraction:
+CD>xACT 1.69 (cdparanoia)>WAV>FLAC, all tracks extracted with no errors
+by Dave Mallick
+
+Disc 1 [51:48.71]
+01. Shine on You Crazy Diamond    [14:24.07]
+02. Taxman                        [08:34.11]
+03. Highball with the Devil       [12:52.54]
+04. Cygnus X-1 tease > Hendershot [08:17.61]
+05. Precipitation                 [07:40.13]
+
+Disc 2 [39:57.21]
+01. Space Oddity                  [08:14.33]
+02. Walking On The Moon           [07:15.34]
+03. Holy Mackerel                 [07:22.46]
+04. Tomorrow Never Knows*         [17:04.58]
+
+* with Warren Haynes
+
+- Wynona's Big Brown Beaver tease during Taxman
+- Mr. Oysterhead tease during Highball
+- Cygnus X-1 tease before Hendershot
+- Jerry Was A Race Car Driver Tease before Holy Mackerel
+- Warren Haynes sits in on Tomorrow Never Knows
+
+https://toasterland.com/setlists/jplayer/index.php?name=2001-07-06&band=1&id=804
+
+Les Claypool - bass
+Eenor - guitar
+Skerik - saxophone
+Paul Svena - drums

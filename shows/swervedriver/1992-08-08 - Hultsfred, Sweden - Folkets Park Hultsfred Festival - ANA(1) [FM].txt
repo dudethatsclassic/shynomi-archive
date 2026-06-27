@@ -1,0 +1,5 @@
+Swervedriver1992-08-08Hultsfred Festival, Swedensource: analog fm 1st gen cassette>dat@48khz
+transfer (2006): Otari DTR-8S>Hosa coax>Calrad 10-110>Hosa OPM-330>2x2.5 G5>Audio Recorder 1.4>Audacity 1.2.4>xACT 1.5b4>flac8w/verify
+preparation for torrenting (2023-05-14): Audacity (resample to 44.1kHz, speed correction, amplify, track splits) > xACT (fix sbe, flac)01 intro02 Sandblasted03 Rave Down04 Son Of Mustang Ford (incomplete as broadcast)(12:31)
+
+Shared on dime 2023-05-14 by Aaron (supahstah)

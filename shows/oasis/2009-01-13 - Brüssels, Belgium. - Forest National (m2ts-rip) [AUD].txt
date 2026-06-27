@@ -1,0 +1,56 @@
+eac3to v3.04
+command line: eac3to.exe "d:\2009.01.13 Oasis - Belgique,Bruxelles  - Forest National (Video HD 1080i)\Oasis.part1.m2ts"+"d:\2009.01.13 Oasis - Belgique,Bruxelles  - Forest National (Video HD 1080i)\Oasis.part2.m2ts"+"d:\2009.01.13 Oasis - Belgique,Bruxelles  - Forest National (Video HD 1080i)\Oasis.part3.m2ts" 2009-01-30_bruessel_forest_national.flac
+------------------------------------------------------------------------------
+M2TS, 1 video track, 1 audio track, 1 subtitle track, 1:44:20, 50i
+1: h264/AVC, 1440x1080 50i (16:9)
+2: AC3, 2.0 channels, 256kbps, 48khz, 80ms
+3: Subtitle (PGS)
+Track 2 is used for destination file "2009-01-30_bruessel_forest_national.flac".
+[a02] The Nero decoder doesn't seem to work, will use libav instead.
+[a02] Extracting audio track number 2...
+[a02] Decoding with libav/ffmpeg...
+[a02] Applying RAW/PCM delay...
+[a02] Reducing depth from 64 to 24 bits...
+[a02] Encoding FLAC with libFlac...
+[a02] Creating file "2009-01-30_bruessel_forest_national.flac"...
+[a02] Clipping detected, a 2nd pass will be necessary.  <WARNING>
+[a02] Audio overlaps for 80ms at playtime 1:16:33.  <WARNING>
+[a02] Starting 2nd pass...
+[a02] Extracting audio track number 2...
+[a02] Decoding with libav/ffmpeg...
+[a02] Applying RAW/PCM delay...
+[a02] Reducing depth from 64 to 24 bits...
+[a02] Encoding FLAC with libFlac...
+[a02] Realizing RAW/PCM gaps...
+[a02] Creating file "2009-01-30_bruessel_forest_national.flac"...
+eac3to processing took 33 minutes, 28 seconds.
+Done.
+------------------------------------------------------------------------------
+
+2009-01-30_bruessel_forest_national.flac splitted with Medieval CUE Splitter 1.2
+
+------------------------------------------------------------------------------
+
+Setlist
+
+01. Fuckin' in the bushes
+02. Rock 'n' Roll Star
+03. Lyla
+04. The shock of the lightning
+05. Cigarettes & Alcohol
+06. The meaning of soul
+07. To be where there's life
+08. Waiting for the rapture
+09. The masterplan
+10. Songbird
+11. Slide away
+12. Morning Glory
+13. Ain't got nothin'
+14. Half the world away
+15. I'm outta time
+16. Wonderwall
+17. Supersonic
+18. Don't look back in anger
+19. Falling down
+20. Champagne Supernova
+21. I am the walrus

@@ -1,0 +1,43 @@
+foobar2000 1.4.6 / Dynamic Range Meter 1.1.1
+log date: 2019-11-10 18:04:32
+
+--------------------------------------------------------------------------------
+Analyzed: ? / 
+--------------------------------------------------------------------------------
+
+DR         Peak         RMS     Duration Track
+--------------------------------------------------------------------------------
+DR9       -3.17 dB   -14.58 dB      2:32 01-01 This Is Not A Drill Fuckin' In The Bushes
+DR10      -2.18 dB   -12.94 dB      5:23 02-02 Rock 'n' Roll Star
+DR11      -1.19 dB   -13.13 dB      5:00 03-03 Lyla
+DR11      -1.39 dB   -12.91 dB      5:17 04-04 The Shock Of The Lightning
+DR10      -1.62 dB   -13.12 dB      4:06 05-05 Cigarettes & Alcohol
+DR10      -1.81 dB   -13.16 dB      2:06 06-06 The Meaning Of Soul
+DR11      -1.87 dB   -13.73 dB      6:43 07-07 To Be Where There's Life
+DR11      -1.02 dB   -14.48 dB      4:48 08-08 Waiting For The Rapture a
+DR12      -1.23 dB   -16.34 dB      5:07 09-09 The Masterplan aa
+DR12      -1.14 dB   -14.91 dB      2:29 10-10 Songbird a
+DR11      -1.93 dB   -13.75 dB      6:37 11-11 Slide Away
+DR10      -1.78 dB   -13.53 dB      5:02 12-12 Morning Glory
+DR10      -2.10 dB   -13.86 dB      2:37 13-13 Ain't Got Nothin'
+DR15      -3.78 dB   -21.71 dB      5:17 14-14 Whatever
+DR12      -1.35 dB   -14.62 dB      3:56 15-15 The Importance Of Being Idle
+DR12      -1.22 dB   -15.05 dB      4:29 16-16 I'm Outta Time
+DR12      -0.83 dB   -14.58 dB      4:21 17-17 Wonderwall
+DR11      -1.40 dB   -15.39 dB      8:36 18-18 Supersonic
+DR12      -4.05 dB   -20.14 dB      5:14 19-19 Don't Look Back In Anger
+DR11      -1.64 dB   -13.72 dB      4:33 20-20 Falling Down
+DR10      -2.59 dB   -15.00 dB      8:21 21-21 Champagne Supernova
+DR11      -1.98 dB   -14.96 dB      8:54 22-22 I Am The Walrus
+--------------------------------------------------------------------------------
+
+Number of tracks:  22
+Official DR value: DR11
+
+Samplerate:        44100 Hz
+Channels:          2
+Bits per sample:   16
+Bitrate:           972 kbps
+Codec:             FLAC
+================================================================================
+

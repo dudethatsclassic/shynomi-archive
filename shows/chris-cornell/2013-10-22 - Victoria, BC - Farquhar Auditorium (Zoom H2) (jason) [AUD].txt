@@ -1,0 +1,117 @@
+Chris Cornell
+University Of Victoria
+University Center
+Farquhar Auditorium
+Victoria, BC
+October 22, 2013
+
+** 16 BIT **
+
+Source:  Zoom H2 with rear internal mics (120 degree pattern) @ 24 bit/96 kHz, Low master record levels with "concert limiter"
+Mastering (Part 1):  Wavelab 6 used for editing/VST plugin chain; Levels boosted and balanced +15 dB left/+18 dB right) (toolsone); EQ'd to cut
+                     a slice out of vocal mids (-6 dB @ 1000 Hz 7.0Q bandpass) and add high sparkle (+6 dB 4000 Hz hi shelf); BBE Sonic                              Maximizer to beef up the sound (lo contour 2.0 process 2.0) 
+Mastering (Part 2):  .WAV's (after Part I mastering) > Sound Forge Pro 11.0 (Build 299) [iZotope Mastering Suite (declick); Sony Wave                                Hammer (lower crowd screams); minor edits, normalize, & fades] > CDWav tracking) > iZotope MBIT+ (dithered and downsampled                      to 16 bit/44.1 kHz) > Trader's Little Helper (level 5) > FLAC > TagScanner 6.0.18 (tagging)
+Location:  Row 1, left side, directly in front of the P.A. stack
+Recorded by:  "Jason" (with Audioarchivist's gear)
+Mastered by:  Audioarchivist (Part 1) and Dennis Orr (Part 2) 
+
+Setlist:
+01 Crowd > Chat
+02 The House Where Nobody Lives
+03 Chat
+04 Scar On The Sky
+05 Chat
+06 Silence The Voices (1)
+07 Chat
+08 You Know My Name
+09 Chat
+10 Dandelion
+11 Chat
+12 Original Fire
+13 Chat
+14 #1 Zero
+15 Chat
+16 Sun Shower
+17 Chat
+18 Halfway There
+19 Fell On Black Days
+20 Chat
+21 When I'm Down (1)
+22 Chat
+23 Seasons
+24 The Day I Tried To Live
+25 Chat
+26 One
+27 Wooden Jesus
+28 Call Me A Dog
+29 Chat
+30 Hunger Strike (2)
+31 Chat
+32 Like A Stone (2)
+33 Sweet Euphoria
+34 Chat
+35 Wide Awake
+36 Billie Jean
+37 Encore Break
+- Encore -
+38 Chat
+39 Misery Chain
+40 Zero Chance
+41 Imagine > A Day In The Life
+42 Black Hole Sun
+43 Doesn't Remind Me
+
+(1) Backed by a vinyl record track
+(2) With Bhi Bhiman - guitar & vocals
+
+Chris Cornell - vocals & guitars
+
+Audioarchivist Notes (after Mastering - Part 1):
+This is a pre-release "rough version" of the recording Jay made with my recorder. I've edited the pre-show random recording out - I made sure that Jay got the recorder working well in advance of the start of the show! I guess you could say I've done most of the heavy lifting and the show basically just needs to be tracked, unless you'd like to do something about the varying left/right imbalances as Jay shifted in his seat and eventually stood up, etc. as the show progresses. Some songs are hot on the left, and some are hotter on the right, and yet others shift mid-song.
+
+-Audioarchivist
+
+ChrisCornell2013-10-22t01.flac:9b57c0e5b87e9d8163c38304b85fcb99
+ChrisCornell2013-10-22t02.flac:8733130abffaf2ab81892220d975165f
+ChrisCornell2013-10-22t03.flac:92d03dd026e56b3baac3918075eea48b
+ChrisCornell2013-10-22t04.flac:63c5c112f5eb08647a9b1c3fc7860d00
+ChrisCornell2013-10-22t05.flac:73c3394421909df4642e6b2da27d89e1
+ChrisCornell2013-10-22t06.flac:e99f637c39ce7514903724cf14e57a2e
+ChrisCornell2013-10-22t07.flac:7489847ae6a2f348aad04682eec1f94a
+ChrisCornell2013-10-22t08.flac:389ed591952d3cf242020039dcddbebe
+ChrisCornell2013-10-22t09.flac:37885ade6dbd133b57a6cbbf22be1ff3
+ChrisCornell2013-10-22t10.flac:6396e64880cb55990c410986543bfb9e
+ChrisCornell2013-10-22t11.flac:456cf42550114102cd7f95fd0ae989cb
+ChrisCornell2013-10-22t12.flac:aca5c890143df7eab770b6501fd2718b
+ChrisCornell2013-10-22t13.flac:38c2423b983f0dd78fc0d51bd899a679
+ChrisCornell2013-10-22t14.flac:a5549e197210be178e68e6ddd866dbde
+ChrisCornell2013-10-22t15.flac:3527f5872e157cbba1106b3ec31a2bc3
+ChrisCornell2013-10-22t16.flac:9a783433634aa5641491d1340ee96bf0
+ChrisCornell2013-10-22t17.flac:3a150289b207d60777d41820449bbce6
+ChrisCornell2013-10-22t18.flac:b4a6c2007722e3fd793571280972adc5
+ChrisCornell2013-10-22t19.flac:f58e046c60d2a8d0893cef2b2f478f9d
+ChrisCornell2013-10-22t20.flac:c1f1f5e5e18620225fe874119f97420e
+ChrisCornell2013-10-22t21.flac:aeb9f0188ca16537ded7a87d32b36a7d
+ChrisCornell2013-10-22t22.flac:f79365a219180167b14aecba0f2f203b
+ChrisCornell2013-10-22t23.flac:4a75469fd5fb23c154184568f58c6dde
+ChrisCornell2013-10-22t24.flac:63f32914837271a37ba571757962b438
+ChrisCornell2013-10-22t25.flac:5351a357b975f3df16e655f07fb25bd0
+ChrisCornell2013-10-22t26.flac:f47081d8b90095f6d67f81cbdd94324f
+ChrisCornell2013-10-22t27.flac:383430e2639767d54dbd76f84c4a381e
+ChrisCornell2013-10-22t28.flac:aba3875124bc970cd42e2637e27a15e1
+ChrisCornell2013-10-22t29.flac:82482180fe7bd9300c15de65caada2cb
+ChrisCornell2013-10-22t30.flac:5007bcb07154b3d44e6cac943fa41651
+ChrisCornell2013-10-22t31.flac:bf96580246e646064c339e250d5e064b
+ChrisCornell2013-10-22t32.flac:1894f4a2988e59b9d242d9acb747054f
+ChrisCornell2013-10-22t33.flac:1339c9ab69edbea6ca2edfcc7b289388
+ChrisCornell2013-10-22t34.flac:7a2fbfc0ab8aef977d33d1d8be1a9e8b
+ChrisCornell2013-10-22t35.flac:fce461ca18bd48e0b6334855883d717b
+ChrisCornell2013-10-22t36.flac:05989764e90f2ca4e0697ec0b3e5959e
+ChrisCornell2013-10-22t37.flac:4aa629fa48357ef2359340a19a280b04
+ChrisCornell2013-10-22t38.flac:346548519cb5bb7a6c762fd56bd42208
+ChrisCornell2013-10-22t39.flac:9cd864c311ac208911b6eeb262c3de73
+ChrisCornell2013-10-22t40.flac:77e8d61b9cab92aba04b7332f9b9f8dc
+ChrisCornell2013-10-22t41.flac:ce712ce8ddb96997cc4068a621c83e5b
+ChrisCornell2013-10-22t42.flac:6ea5d50e3b1adc4d1ecc9087aa6e5e08
+ChrisCornell2013-10-22t43.flac:f844414278becd5f80af3aab833d0937
+

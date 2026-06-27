@@ -1,0 +1,88 @@
+Tom Petty & The Heartbreakers
+MGM Garden Grand Arena, Las Vegas, NV
+October 15, 1999
+
+Source : Sony ECM MS-907 mic > Sony MZ R-55 Mini Disc (in mono)
+
+Transfer : Sony MZ R700 Mini Disc > Tascam SD-20M (rack mount) wave recorder (16/44)
+
+Editing : Sound Forge (volume &  tracking) > Wave > TLH (sbe aligned) Flac 8
+
+Traders Den - April 13, 2021
+
+Transferred & Tracked by kingrue upload #3087
+============================================
+
+Here we have a new source for this Tom Petty performace. This is Very Good quality !!
+
+This is complete, except for a brief disc stop to adjust the recording levels., during "Breakdown".
+
+
+Band line-up
+Tom Petty - vocals, guitar & harmonica (died Oct 2, 2017, aged 66)
+Howie Epstein - bass, backing vocals (died February 23, 2003, aged 47)
+Mike Campbell - lead guitar, bass, keyboards & mandolin
+Benmont Tench - piano, organ, synthesizers & backing vocals
+Scott Thurston - rhythm guitar, bass, harmonica, ukulele, lap steel guitar, synthesizer & backing vocals
+Steve Ferrone - drums
+
+Total Time = 02:05:46
+
+Set list
+00 crowd cheer
+01 Runnin' Down A Dream
+02 Breakdown (disc stop @ 3:42)
+03 Swingin'
+04 Don't Do Me Like That
+05 I Don't Wanna Fight
+06 Mary Jane's Last Dance
+07 I Won't Back Down
+08 Listen To Her Heart
+09 It's Good To Be King
+10 Mike's surf guitar solos > Penetration > Apache
+11 You Don't Know How It Feels
+12 Band Introduction
+13 Don't Come Around Here No More
+14 Walls
+15 You Got Lucky
+16 Free Girl Now
+17 You Wreck Me
+18 encore cheer
+19 Free Fallin'
+20 Gloria
+21 American Girl
+
+Recorded by Big D Vol. 40
+
+==============================
+
+
+No errors occured.
+
+
+00 crowd cheer.flac:2f6716b2a46e21d5f158bb90e933f33e
+01 Runnin' Down A Dream.flac:f75a7a84147d828430a9b97ffe166d52
+02 Breakdown.flac:0a3313c4572531bca1c567d192da4f60
+03 Swingin'.flac:bae086f33ee1d20228c05d41afea1285
+04 Don't Do Me Like That.flac:9d8c167887c749b1ad08df2a1aa3c0cd
+05 I Don't Wanna Fight.flac:c50d7dbce47221b6c18cc3a4fe637eb8
+06 Mary Jane's Last Dance.flac:0649a38f7d454e69b10c2e3b4f555e9b
+07 I Won't Back Down.flac:0048cc09d791bf4e330bd7d52a226e26
+08 Listen To Her Heart.flac:ccdacb224b4d305f134338060dbf3026
+09 It's Good To Be King.flac:e80ee921e8b7ec1527e35519166130d8
+10 Mike guitar solo.flac:be2c3f457fd321e21c112a0eb1e554d4
+11 You Don't Know How It Feels.flac:5d43cad561f3f24c4b37ba81a8eea184
+12 Band Introduction.flac:6b230b348b7128e4aa60ec32c82a853e
+13 Don't Come Around Here No More.flac:fc31459028a9a52ba16edafe2cb93979
+14 Walls.flac:f205ec04486bf7927250622d2da61cf5
+15 You Got Lucky.flac:e988c223667e62236eb675a8116ca2f2
+16 Free Girl Now.flac:5934fc6cbe56dd60647c92b0d685a54e
+17 You Wreck Me.flac:c1e32806892e52b34998941609f5bf92
+18 encore cheer.flac:8d8f3274e5201e4beaa4e1ce091cb57e
+19 Free Fallin'.flac:40882b83eee4541a7ce9ccae809ec7d5
+20 Gloria.flac:6064b3a8ad67e72d733cedfc8fdf00d8
+21 American Girl.flac:00813e270faae6174429fc360f3966e3
+
+Checksum file saved to disk.
+
+No errors occured.

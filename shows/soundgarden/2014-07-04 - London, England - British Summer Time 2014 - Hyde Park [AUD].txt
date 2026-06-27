@@ -1,0 +1,60 @@
+Soundgarden
+
+2014-07-04 (04 July 2014)
+British Summer Time 2014, Hyde Park London, UK
+
+Source: SPCMC2(AT831)>SPSPSB10>iRiver H140 (rockboxed)
+
+Transfer: H140>USB>DellHD>Audacity (fade in, volume boost +22.0/21.0dB, fade out)>CD Wave>FLAC
+
+Location: In front of the left stack, 10m from stage
+
+Recorded, transferred, and FLAC'd by Humbug 
+
+Time: 77:20
+
+1. Intro
+2. Let Me Drown
+3. My Wave
+4. Fell On Black Days
+5. Mailman
+6. Superunknown * 
+7. Head Down
+8. Black Hole Sun
+9. Spoonman
+10. Limo Wreck
+11. The Day I Tried To Live
+12. Kickstand
+13. Fresh Tendrils
+14. 4th Of July
+15. Like Suicide
+    
+Notes: 
+Fairly average recording, affected by wind noise (despite using screens / dead rats), and a fairly rowdy/chatty crowd. Still a listenable recording. The band play nearly all of "Superunknown" - "Half" is missing, due to time constraints, as they were main support to Black Sabbath.
+
+Band:
+Chris Cornell, vocals, guitar
+Kim Thayil, guitar
+Matt Cameron,  drums 
+Ben Shepherd, bass
+* with Mike McCready, guitar
+
+FLAC Fingerprint: 
+soundgarden2014-07-04cmc2t01.flac:f23bfbff7ac74de846188ad5e78b338f
+soundgarden2014-07-04cmc2t02.flac:77638fa451231119682e7998dade8bef
+soundgarden2014-07-04cmc2t03.flac:0f9d4e14da03a5b7545db4c1406bbadf
+soundgarden2014-07-04cmc2t04.flac:a5007fde72578136f77e019c77dbe7d7
+soundgarden2014-07-04cmc2t05.flac:38179894a50e73630599628af32b166b
+soundgarden2014-07-04cmc2t06.flac:7a921c6d473cbdd6bdb49dbc69b51d61
+soundgarden2014-07-04cmc2t07.flac:566364adadbafcdbc10df7fbf6c1fb32
+soundgarden2014-07-04cmc2t08.flac:90fc0e2d0e67c6dbf01d7fdaf07ea729
+soundgarden2014-07-04cmc2t09.flac:71a6f44c96158e809114299cda290228
+soundgarden2014-07-04cmc2t10.flac:0a40af64c2e06cbe780e9f59d88d2b3b
+soundgarden2014-07-04cmc2t11.flac:3802868d8c56b158cb2e424bd8bcb042
+soundgarden2014-07-04cmc2t12.flac:95a82c436a11a884678058d37df155c8
+soundgarden2014-07-04cmc2t13.flac:cc1b004f2e0dbef8056639dbeba4d0d2
+soundgarden2014-07-04cmc2t14.flac:13bea0548a4f3b830e27ec5b81d4f908
+soundgarden2014-07-04cmc2t15.flac:cddbd7995341a618f55e7f964405a02c
+
+** PLEASE FEEL FREE TO TRADE IN MP3 FORMAT **
+** PLEASE DO NOT PROFIT FROM THIS RECORDING **

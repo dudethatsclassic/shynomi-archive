@@ -1,0 +1,54 @@
+Toad The Wet Sprocket
+2011-08-01
+Kent, OH - The Kent Stage
+
+Glen Phillips - guitar, vocals
+Todd Nichols - guitar, vocals
+Dean Dinning - bass, vocals
+Randy Guss - drums
+Jonathan Kingham - keyboards, guitar, vocals
+
+Taper:      spyboychoir (spyboychoir@gmail.com)
+Source:     Audio Technica AT822 (fixed cards XY, 2' right of center, 40' back, 6.5' high) > Kind Kables > Tascam DR-2d (24/48)
+Conversion: DR-2d > USB > Sound Studio 3.6.1 > WAV > xACT 2.13 > FLAC (level 8)
+Format:     24bit, 48kHz
+Editing:    Sound Studio 3.6.1 (tracking, fades, normalization to peak (-0.2dB))
+
+Support the musicians!
+http://www.toadthewetsprocket.com/
+
+SET ONE (1:41:20)
+
+01. (Intro)
+02. Something's Always Wrong
+03. Whatever I Fear
+04. Fly From Heaven
+05. Woodburning
+06. Good Intentions
+07. Stupid
+08. Inside
+09. Torn
+10. Windmills
+11. Is It For Me
+12. The Moment *
+13. Friendly Fire *
+14. I Will Not Take These Things For Granted
+15. Come Down
+16. Crazy Life
+17. Finally Fading ^
+18. Come Back Down
+19. Nightingale Song
+20. All I Want
+21. Fall Down
+
+ENCORE
+
+22. Brother >
+24. Ziggy Stardust %
+25. Walk On The Ocean
+
+NOTES:
+
+* New songs
+^ Glen Phillips "cover"
+% David Bowie cover

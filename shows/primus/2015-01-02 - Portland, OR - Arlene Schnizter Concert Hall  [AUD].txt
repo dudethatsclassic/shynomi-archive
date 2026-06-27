@@ -1,0 +1,78 @@
+Primus & the Chocolate Factory
+Friday, January 2nd, 2015
+Arlene Schnizter Concert Hall
+1037 SW Broadway
+Portland, OR, USA
+
+Taper:  LeifH
+Source:  CA-11 (cardioid) > CA-Bat2B > Sony PCM M10 @ 24/48 > Lexar 16GB microSD card
+Transfer:  Memory card > PC via USB > Wavepad Master's Edition (edits, amplify, tracking) > flac (8) via 
+
+Set  I: 57:33
+00 intro
+01 Star Spangled Banner
+02 American Life
+03 Moron TV
+04 Frizzle Fry
+05 Seas of Cheese
+06 Jilly's on Smack
+07 Mr. Krinkle
+08 The Heckler
+09 My Name is Mud
+10 Jerry Was a Race Car Driver
+
+Set II: 1:19:11
+11 Hello Wonkites
+12 Candy Man
+13 Cheer Up Charlie
+14 Golden Ticket
+15 Lermaninoff
+16 Pure Imagination
+17 Oompa Augustus
+18 Semi-Wondrous Boat Ride
+19 Oompa Violet
+20 I Want It Now
+21 Oompa Veruca
+22 Wonkamobile
+23 Oompa TV
+24 Farewell Wonkites
+
+25 Groundhog's Day
+26 Southbound Pachyderm 
+27 Here Come the Bastards
+
+14th time seeing Primus.  I traveled to Oakland for the New Year's show at the Fox, and made my back up the west coast, stopping in Portland and Seattle to see Primus on the way back to Vancouver.  The lobby was packed at this show because the merch table was right next to the entrance, and possibly the theatre doors weren't open right away.  This is a really nice venue but the seats aren't removable, so everyone just kinda stood still and bobbed their heads.  I don't think you're allowed to bring in drinks either, they must be drank in the lobby.  It makes for a different atmosphere, and less talking on the recordings.  I was in section B, row Q, sort of in line with the left stacks.  Sounds really nice.  I got a portion of each set on video, but the same venue employee busted me two or three times.  
+
+I was at the very first Primus & the Chocolate Factory show on New Year's Eve in 2013, which had many differences.  I enjoyed both versions for different reasons.  The best parts of the Wonka material are the jams.
+
+Obviously the second set is with the Fungi Ensemble, as well as Southbound Pachyderm and Here Come the Bastards.  Les joked about putting the sperm whale on the rider.  Got the setlist (there's only 1 at these shows).  They were selling off extra Pork Soda bars from the NYE show in Oakland.  
+
+fingerprints:
+00 - intro.flac:e37ac27171a88f68368a9e7fb6f21099
+01 - Star Spangled Banner.flac:a4acef6f110088b97d8fc007c24c9c95
+02 - American Life.flac:49aa22aa344555ed843bd3dc38a5913b
+03 - Moron TV.flac:4aa26a10ef2eeb6b1cd98336bc2cf83d
+04 - Frizzle Fry.flac:e437c9ab905bf4cabfe528386879b3ca
+05 - Seas of Cheese.flac:59b3d4e9b74f602613bf3140b72b35a9
+06 - Jilly's on Smack.flac:bcb29448529b6f772929beac94558308
+07 - Mr. Krinkle.flac:fd7d695ddc7e9fd15cc95d8a6144f9da
+08 - The Heckler.flac:bbc69b8f4539a9b079ad7241e5d819cc
+09 - My Name is Mud.flac:dc597db749d8ac6b7013bce2f8af8bd8
+10 - Jerry Was a Race Car Driver.flac:2d6bafee48ae3c96a9de63b10a9484d3
+11 - Hello Wonkites.flac:d768ae3696b41f71e616d2a551276a36
+12 - The Candy Man.flac:7e688fe4cf3b4f4ae7c6f95d53e60d58
+13 - Cheer Up Charlie.flac:61704069e64913d2622255b927749bb0
+14 - Golden Ticket.flac:4ce0ed7252325e83b3042c508b269bd0
+15 - Lermaninoff.flac:c817d7ddbba3ae01c480b90cc10acfce
+16 - Pure Imagination.flac:6ccf27d9e6b72246dfd23a3f16e86a0b
+17 - Oompa Augustus.flac:795ad674cba69284c20290fe831dd5d6
+18 - Semi-Wondrous Boat Ride.flac:02d7da1ef1839d1b7712d4668ed5725b
+19 - Oompa Violet.flac:ee87476ef149db4822f53de0459fa1a1
+20 - I Want It Now.flac:f2f6a553e9f282428589093f1dddae83
+21 - Oompa Veruca.flac:063ef23cfc5af7118a3b08e4a1bdef5f
+22 - Wonkamobile.flac:5855133a3dbb1006d35eae886f2685ce
+23 - Oompa TV.flac:59cff334d31a96c7a2eb36142d980e10
+24 - Farewell Wonkites.flac:c7894f1eaa864a9b59dd1b9dc38c9eb7
+25 - Groundhog's Day.flac:29b3abaa0f21327f9e7e635dc8bbd095
+26 - Southbound Pachyderm.flac:886ba4261fde8b913f41ea37c2545206
+27 - Here Come the Bastards.flac:4c73c28d71d0551924ec8c3734e606d9

@@ -1,0 +1,31 @@
+foobar2000 1.4.6 / Dynamic Range Meter 1.1.1
+log date: 2019-07-15 21:20:49
+
+--------------------------------------------------------------------------------
+Analyzed: Slowdive / 1991-10-11 Town & Country Club, Kentish Town, London
+--------------------------------------------------------------------------------
+
+DR         Peak         RMS     Duration Track
+--------------------------------------------------------------------------------
+DR2       -2.16 dB    -4.65 dB      4:34 01-Spanish Air
+DR2       -2.16 dB    -4.17 dB      4:00 02-Catch the Breeze
+DR2       -2.16 dB    -4.84 dB      3:16 03-Bleed
+DR1       -2.16 dB    -4.30 dB      4:01 04-Primal
+DR1       -2.16 dB    -4.24 dB      5:11 05-Slowdive
+DR2       -2.16 dB    -4.27 dB      4:42 06-Morningrise
+DR1       -2.16 dB    -4.21 dB      5:35 07-She Calls
+DR2       -2.16 dB    -4.68 dB      4:36 08-Ballad of Sister Sue
+DR1       -2.16 dB    -4.01 dB      6:42 09-Avalyn
+DR1       -1.97 dB    -4.18 dB      6:12 10-Curtains and Carpets
+--------------------------------------------------------------------------------
+
+Number of tracks:  10
+Official DR value: DR2
+
+Samplerate:        44100 Hz
+Channels:          2
+Bits per sample:   16
+Bitrate:           644 kbps
+Codec:             FLAC
+================================================================================
+

@@ -1,0 +1,34 @@
+Hüsker Dü — Mandel Hall, University of Chicago, Chicago IL, 09 Oct 1987
+
+Audience recording by Aadam on Sony WM-D6 with Aiwa CM-30 mic
+Master cassette ripped by Aadam: Nakamichi LX-5 -> wav file
+Raw wav file edited by plh in Audacity:
+ • Track IDs inserted
+ • Flagrant spikes attenuated manually
+ • Peak level amplified to 0dB
+ • Light compression (1.5:1) applied
+ • Tracks exported to FLAC, MP3 (320 kbps)
+
+Track list:
+
+01. [preliminary futzing & noodling]
+02. New Day Rising
+03. The Girl Who Lives On Heaven Hill
+04. Standing In The Rain
+05. Back From Somewhere
+06. From The Gut
+07. Wheels
+08. Target
+09. It's Not Funny Anymore
+10. Chartered Trips
+11. Pink Turns To Blue
+12. Hardly Getting Over It
+13. Now That You Know Me
+14. Ain't No Water In The Well
+15. Diane
+16. Could You Be The One?
+17. Terms Of Psychic Warfare
+18. Powerline
+19. Books About UFOs
+20. Celebrated Summer
+21. Keep Hanging On 

@@ -23,7 +23,8 @@ const ARTIST_DATA = {
       "venue": "Burruss Auditorium",
       "notes": "unk",
       "version": "AUD",
-      "format": "FLAC 24"
+      "format": "FLAC 24",
+      "textFile": "1999-04-29 - Blacksburg, VA - Burruss Auditorium (unk) [AUD24].txt"
     },
     {
       "year": 2010,
@@ -34,9 +35,10 @@ const ARTIST_DATA = {
       "state": "MN",
       "location": "Minneapolis, MN",
       "venue": "First Avenue",
-      "notes": "Schoeps MK4s · perks",
+      "notes": "Schoeps MK4s \u00b7 perks",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "2010-10-08 - Minneapolis, MN - First Avenue (Schoeps MK4s) (perks) [AUD].txt"
     },
     {
       "year": 2012,
@@ -47,9 +49,10 @@ const ARTIST_DATA = {
       "state": "MN",
       "location": "Mound, MN",
       "venue": "Our Lady Of The Lakes Catholic Church",
-      "notes": "Schoeps MK5s · perks",
+      "notes": "Schoeps MK5s \u00b7 perks",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "2012-05-19 - Mound, MN - Our Lady Of The Lakes Catholic Church (Schoeps MK5s) (perks) [AUD].txt"
     },
     {
       "year": 2012,
@@ -60,9 +63,10 @@ const ARTIST_DATA = {
       "state": "MN",
       "location": "Falcon Heights, MN",
       "venue": "Grandstand",
-      "notes": "MN · Schoeps MK5s · perks",
+      "notes": "MN \u00b7 Schoeps MK5s \u00b7 perks",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "2012-08-31 - Falcon Heights, MN - Grandstand - MN State Fairgrounds (Schoeps MK5s) (perks) [AUD].txt"
     },
     {
       "year": 2023,
@@ -73,9 +77,10 @@ const ARTIST_DATA = {
       "state": "MN",
       "location": "Minneapolis, MN",
       "venue": "First Avenue",
-      "notes": "iPhone 13 · ngs428",
+      "notes": "iPhone 13 \u00b7 ngs428",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "2023-01-28 - Minneapolis, MN - First Avenue (iPhone 13) (ngs428) [AUD].txt"
     }
   ],
   "misc": []

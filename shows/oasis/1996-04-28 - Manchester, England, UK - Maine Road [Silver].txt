@@ -1,0 +1,210 @@
+Oasis - Maine Road Football (Soccer!) Stadium 04-28-1996
+
+Soundboard Recording from Boolteg CD "Maine Road 2nd night"
+
+Linage Silver CD > EAC (secure) WAV > TLH flac level 7
+
+Number of CD's = 1
+
+Track Listing
+
+1. Swamp Song
+2. Acquiesce
+3. Supersonic
+4. Hello
+5. Some Might Say
+6. Morning Glory
+7. Round Are Way
+8. Champagne Supernova
+9. Whatever
+10. Cast No Shadow
+11. Wonderwall 
+12. Masterplan
+13. Don't Look Back In Anger
+14. I Am The Walrus
+
+----------------------------------------------------------------------------------------------------
+
+
+Exact Audio Copy V0.99 prebeta 4 from 23. January 2008
+
+EAC extraction logfile from 18. January 2009, 14:35
+
+Unknown Artist / Unknown Title
+
+Used drive  : ATAPI   DVD A  DH16A3S   Adapter: 2  ID: 0
+
+Read mode               : Secure
+Utilize accurate stream : Yes
+Defeat audio cache      : Yes
+Make use of C2 pointers : No
+
+Read offset correction                      : 12
+Overread into Lead-In and Lead-Out          : No
+Fill up missing offset samples with silence : Yes
+Delete leading and trailing silent blocks   : No
+Null samples used in CRC calculations       : Yes
+Used interface                              : Installed external ASPI interface
+Gap handling                                : Appended to previous track
+
+Used output format : Internal WAV Routines
+Sample format      : 44.100 Hz; 16 Bit; Stereo
+
+
+TOC of the extracted CD
+
+     Track |   Start  |  Length  | Start sector | End sector 
+    ---------------------------------------------------------
+        1  |  0:00.00 |  3:44.65 |         0    |    16864   
+        2  |  3:44.65 |  4:10.00 |     16865    |    35614   
+        3  |  7:54.65 |  5:10.57 |     35615    |    58921   
+        4  | 13:05.47 |  3:05.05 |     58922    |    72801   
+        5  | 16:10.52 |  5:15.53 |     72802    |    96479   
+        6  | 21:26.30 |  4:25.70 |     96480    |   116424   
+        7  | 25:52.25 |  4:34.70 |    116425    |   137044   
+        8  | 30:27.20 |  9:59.62 |    137045    |   182031   
+        9  | 40:27.07 |  6:41.33 |    182032    |   212139   
+       10  | 47:08.40 |  4:32.57 |    212140    |   232596   
+       11  | 51:41.22 |  4:05.13 |    232597    |   250984   
+       12  | 55:46.35 |  6:00.50 |    250985    |   278034   
+       13  | 61:47.10 |  4:30.70 |    278035    |   298354   
+       14  | 66:18.05 |  9:10.47 |    298355    |   339651   
+
+
+Track  1
+
+     Filename J:\Torrents\Oasis4-28-1996-manchester-flac\01. Unknown Artist - Track01.wav
+
+     Pre-gap length  0:00:02.00
+
+     Peak level 77.6 %
+     Track quality 100.0 %
+     Copy CRC 0DB2A1A8
+     Copy OK
+
+Track  2
+
+     Filename J:\Torrents\Oasis4-28-1996-manchester-flac\02. Unknown Artist - Track02.wav
+
+     Peak level 82.6 %
+     Track quality 100.0 %
+     Copy CRC 83013205
+     Copy OK
+
+Track  3
+
+     Filename J:\Torrents\Oasis4-28-1996-manchester-flac\03. Unknown Artist - Track03.wav
+
+     Peak level 81.5 %
+     Track quality 100.0 %
+     Copy CRC B77580CD
+     Copy OK
+
+Track  4
+
+     Filename J:\Torrents\Oasis4-28-1996-manchester-flac\04. Unknown Artist - Track04.wav
+
+     Peak level 83.4 %
+     Track quality 100.0 %
+     Copy CRC 6B1AD7A9
+     Copy OK
+
+Track  5
+
+     Filename J:\Torrents\Oasis4-28-1996-manchester-flac\05. Unknown Artist - Track05.wav
+
+     Peak level 81.4 %
+     Track quality 100.0 %
+     Copy CRC 6490CBF4
+     Copy OK
+
+Track  6
+
+     Filename J:\Torrents\Oasis4-28-1996-manchester-flac\06. Unknown Artist - Track06.wav
+
+     Peak level 91.7 %
+     Track quality 100.0 %
+     Copy CRC CCA6DE7B
+     Copy OK
+
+Track  7
+
+     Filename J:\Torrents\Oasis4-28-1996-manchester-flac\07. Unknown Artist - Track07.wav
+
+     Peak level 90.5 %
+     Track quality 99.9 %
+     Copy CRC 29F2DCFA
+     Copy OK
+
+Track  8
+
+     Filename J:\Torrents\Oasis4-28-1996-manchester-flac\08. Unknown Artist - Track08.wav
+
+     Peak level 89.2 %
+     Track quality 100.0 %
+     Copy CRC 330D7F87
+     Copy OK
+
+Track  9
+
+     Filename J:\Torrents\Oasis4-28-1996-manchester-flac\09. Unknown Artist - Track09.wav
+
+     Peak level 90.3 %
+     Track quality 99.9 %
+     Copy CRC B93D9328
+     Copy OK
+
+Track 10
+
+     Filename J:\Torrents\Oasis4-28-1996-manchester-flac\10. Unknown Artist - Track10.wav
+
+     Peak level 79.6 %
+     Track quality 100.0 %
+     Copy CRC 404DE1AD
+     Copy OK
+
+Track 11
+
+     Filename J:\Torrents\Oasis4-28-1996-manchester-flac\11. Unknown Artist - Track11.wav
+
+     Peak level 74.8 %
+     Track quality 100.0 %
+     Copy CRC 10478BD3
+     Copy OK
+
+Track 12
+
+     Filename J:\Torrents\Oasis4-28-1996-manchester-flac\12. Unknown Artist - Track12.wav
+
+     Peak level 79.3 %
+     Track quality 100.0 %
+     Copy CRC 8FE69D5A
+     Copy OK
+
+Track 13
+
+     Filename J:\Torrents\Oasis4-28-1996-manchester-flac\13. Unknown Artist - Track13.wav
+
+     Peak level 90.9 %
+     Track quality 100.0 %
+     Copy CRC 71313586
+     Copy OK
+
+Track 14
+
+     Filename J:\Torrents\Oasis4-28-1996-manchester-flac\14. Unknown Artist - Track14.wav
+
+     Peak level 87.0 %
+     Track quality 100.0 %
+     Copy CRC A28A938F
+     Copy OK
+
+No errors occurred
+
+End of status report
+
+---------------------------------------------------------------------------------------------------
+
+
+
+

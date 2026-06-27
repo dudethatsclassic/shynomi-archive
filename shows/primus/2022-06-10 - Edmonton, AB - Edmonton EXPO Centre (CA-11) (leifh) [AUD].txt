@@ -1,0 +1,55 @@
+Primus - A Tribute To Kings 2nd Leg
+Friday June 10th, 2022
+Edmonton EXPO Centre
+7515 118 Ave NW
+Edmonton, Alberta, Canada
+
+Taper:  LeifH [2022#59]
+Source:  CA-11 > Bat2B > M10
+Transfer:  PC via USB > RX9 > Wavepad > flac (8) via TLH
+
+Setlist:  02:02:36
+00 intro
+01 Those Damned Blue-Collar Tweekers > 
+02 Lacquer Head
+03 Fisticuffs
+04 Groundhog's Day > Polkadot Rose [Oysterhead]
+05 Wynona's Big Brown Beaver
+06 Conspiranoia
+07 Jilly's on Smack
+08 The Ol' Diamondback Sturgeon
+09 My Name is Mud
+-intermission-
+10 A Farewell To Kings
+11 Xanadu
+12 Closer to the Heart
+13 Cinderella Man
+14 Madrigal
+15 Cygnus X-1
+-encore-
+16 Follow the Fool
+17 Here Come the Bastards
+
+Floor Row 4 Seat 6 (left stacks).  
+
+My 42nd Primus show and third time seeing them in Edmonton, a city I've traveled to many times but only for work and to tape concerts.  More of a basketball court than a music venue but the sound was good where I was, although somewhat lacking guitar in the mix.  The Edmonton Expo Centre is a large, multi-purpose facility and there was also a high school prom happening the same night.  Funny contrast of people after the show, Primus fans vs. grads all dressed up.  
+
+fingerprints:
+00 - intro.flac:337999601f53b8112ddf3a1e9c29b454
+01 - Those Damned Blue Collar Tweekers.flac:0d92fedb32d68327cf70fa79235a8d7e
+02 - Lacquer Head.flac:a641fc55785defe516fadcfec92fc8db
+03 - Fisticuffs.flac:69e81d8808b967845c68cbf551407538
+04 - Groundhog's Day.flac:9441ec2120a6df055f05e4f5dd3d8624
+05 - Wynona's Big Brown Beaver.flac:1df7d4e1f1e3763377aded9bda5e5b45
+06 - Conspiranoia.flac:30047b7f14aace074773cc9979cb257c
+07 - Jilly's on Smack.flac:6b5bc1bec9410314ebd0283755e54426
+08 - The Ol' Diamond Back Sturgeon.flac:4df793e9ec8986b0598573fff4184835
+09 - My Name is Mud.flac:e340c30ff81f481a0efd4900961ad301
+10 - A Farewell to Kings.flac:3192712c41849f889ab496a8532778b9
+11 - Xanadu.flac:66cba13a05293231c8738f285926c02d
+12 - Closer to the Heart.flac:9b99e9afa7dd2a1e813f99dc94c0f8c0
+13 - Cinderella Man.flac:c465545aa0f18d73f8c733e8ac041876
+14 - Madrigal.flac:e93bac6d0cf5d80b16d84e21413fc075
+15 - Cygnus X-1.flac:a5ecf46284cb91fd9aaab90fd56dbff4
+16 - Follow the Fool.flac:18b25da417a31531f649e050017982d8
+17 - Here Come the Bastards.flac:ef5aac7f953ee6794ffa8e3f9e161ff9

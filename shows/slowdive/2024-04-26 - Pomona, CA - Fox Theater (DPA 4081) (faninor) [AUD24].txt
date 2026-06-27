@@ -1,0 +1,37 @@
+Slowdive
+2024-04-26
+Fox Theater
+Pomona, CA, USA
+
+-- Source --
+DPA 4081 > MMA-A > 24bit/48kHz
+
+-- Processing --
+iZotope RX (editing/mastering) > CD Wave (tracking) > Trader's Little Helper (encoding)
+
+-- Setlist --
+01 - intro
+02 - shanty
+03 - She Calls [false start]
+04 - She Calls
+05 - Star Roving
+06 - Catch the Breeze
+07 - Avalyn
+08 - skin in the game
+09 - Crazy for You
+10 - Souvlaki Space Station
+11 - chained to a cloud
+12 - kisses
+13 - Alison
+14 - When the Sun Hits
+15 - 40 Days
+16 - encore
+17 - Sugar for the Pill
+18 - Golden Hair
+
+-- Notes --
+Drab Majesty opened.
+
+Length: 1h33m20s
+
+-- faninor -- 2024-05-16 --

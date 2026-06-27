@@ -1,0 +1,73 @@
+Primus
+Rialto Theatre
+Tucson, AZ
+May 18, 2013	
+
+Source: Sonic Studio DSM-6S Mics>Sonic Studios PA-6LC2 LoCut>Edirol RO9 @24bit/44.1 khz
+
+1st set:
+01) Here Come the Bastards (3:48)
+02) Last Salmon Man (7:02)
+03) Southbound Pachyderm (13:07)
+04) Tucson banter (3:34)
+05) Hats Off (2:48)
+06) Lee Van Cleef (4:25)
+07) The Heckler (4:25)
+08) Wynona's Big Brown Beaver (4:28)
+09) Bob (10:23)
+10) Jerry Was a Race Car Driver (3:26)
+Total: (57:46)
+
+2nd set:
+01) Prelude to a Crawl (5:58)
+02) Hennepin Crawler (9:08)
+03) Frizzle Fry (6:31)
+04) Eternal Consumption Engine (3:55)
+05) Jilly's On Smack (7:42)
+06) Eleven>The Pressman (9:02)
+07) Groundhog's Day (7:55)
+08) Tommy the Cat (6:11)
+enc:
+09) HOINFODAMAN (4:21)
+10) Too Many Puppies (4:06)
+Total: (65:11)
+
+Les Claypool - bass, lead vocal
+Jay Lane - drums, backing vocals
+Larry Lalonde - guitar, backing vocals
+
+Lineage: Edirol RO9 USB out>Lenovo H430 C15 HD>AUDACITY to 16bit/44.1 khz>TLH>FLAC
+
+notes:
+-a packed house for Primus at the Rialto in psychedelic quad sound with 3D background images behind the band - quite the spectacle/experience!
+-no taper's section so I'm among the crowd on the floor left center about 50' up. The recording suffers a bit for it, and for the usual rowdy Primus
+fans who there's no getting away from. They tone down a bit in 2nd set. Because of these factors only an "A-/B+" on this one.
+-hot show: Larry just incredibly head-melting psychedelic on his leads, Jay at the top of his game, and Les being Les. "Southbound Pachyderm" is
+my favorite so it was all cherries after that to me - lots of smokin' psych music/jams in here mixed with shorter more rhythmic ones. Great stuff!
+-another Sonoran Desert Recording recorded, mastered, and seeded by matt23.
+-absolutely no right is given to sell in any format ever for any reason. Please trade freely in lossless formats only - keep the gene pool clean! Support
+these guys, they're great. Go see live music.
+
+Primus-2013-05-18-s1tr01.flac:fdbd98a03dfa6fc23e94c88a23aa874f
+Primus-2013-05-18-s1tr02.flac:238e076ebb97d164bff67d10522d1e5c
+Primus-2013-05-18-s1tr03.flac:0efc1d076780b5293176b25b765743cb
+Primus-2013-05-18-s1tr04.flac:d994f6d68493426bc24e5cfd44a9ae21
+Primus-2013-05-18-s1tr05.flac:cea7d818b5f31becd6d2a24a566b413a
+Primus-2013-05-18-s1tr06.flac:83ebb0032c7fd9fe84e9eb22ddbd096b
+Primus-2013-05-18-s1tr07.flac:640ecc7c828d5f62f708e2ac36663389
+Primus-2013-05-18-s1tr08.flac:937aa3852b13dd6c6e7caf3948d4a667
+Primus-2013-05-18-s1tr09.flac:6301f1bf95788e20464ed464fedc5ded
+Primus-2013-05-18-s1tr10.flac:689fbcb526a2177a2d3fac792b4ea021
+Primus-2013-05-18-s2tr01.flac:15e016cac6ee083ce6d34a3463120449
+Primus-2013-05-18-s2tr02.flac:9a988f7188b6424b15a3e1a01bf8d876
+Primus-2013-05-18-s2tr03.flac:398b095a5591dd9b09417f090c1be697
+Primus-2013-05-18-s2tr04.flac:5e7ca23e77edd17db152678c001bf38e
+Primus-2013-05-18-s2tr05.flac:8cfb36fdc96aa3a93dfb796cf6e793c0
+Primus-2013-05-18-s2tr06.flac:22dac1aa8307d01bbfeca763dae358de
+Primus-2013-05-18-s2tr07.flac:027ba613f7106f15df1bdc915f35d9f4
+Primus-2013-05-18-s2tr08.flac:af952a2b599c35d4ca7cdde11eb498b1
+Primus-2013-05-18-s2tr09.flac:0b29ae0984fe9996007ef495c809a3f5
+Primus-2013-05-18-s2tr10.flac:19c843fe7b66420e019159b6f4261f81
+
+
+

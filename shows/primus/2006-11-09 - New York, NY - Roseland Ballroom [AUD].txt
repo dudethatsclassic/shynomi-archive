@@ -1,0 +1,73 @@
+Primus
+November 9, 2006
+Roseland Ballroom
+New York, New York
+
+
+Harold of the Rocks
+Here Come the Bastards
+American Life
+Frizzle Fry
+Those Damned Blue Collar Tweekers
+Seas of Cheese
+Mr. Krinkle
+My Name is Mud
+Jerry was a Racecar Driver
+
+Encore:
+Is It Luck?
+
+
+Audience recording by Steve T.
+Nakamichi 100s (shotguns) > SBM1 > Sony M1 > 
+DAT > ? > CDR > EAC > .wav > Trader's Little Helper
+(level 8 / aligned on sector boundaries) > .flac
+CDR > .flac conversion by Eamon Keenan 
+
+
+problems / comments to chnactsnflwrATmsnDOTcom
+THANK YOU STEVE T. for making this available to us all 
+
+v i s u a l i z e w h i r l e d p e a s 
+
+
+..><((((º>·´¯`·.¸¸..><((((º>·.¸´¯`·.¸¸..><((((º>.¸¸..·
+
+
+..·><((((º>·´¯`·.¸¸..><((((º>.¸¸..·.¸¸..><((((º>.¸¸..· 
+
+Trader's Little Helper Summary:
+
+No need for fixing SBEs (all wav files are already sector-aligned).
+
+Primus2006-11-09t01.wav:  successfully encoded to 'Primus2006-11-09t01.flac'
+Primus2006-11-09t02.wav:  successfully encoded to 'Primus2006-11-09t02.flac'
+Primus2006-11-09t03.wav:  successfully encoded to 'Primus2006-11-09t03.flac'
+Primus2006-11-09t04.wav:  successfully encoded to 'Primus2006-11-09t04.flac'
+Primus2006-11-09t05.wav:  successfully encoded to 'Primus2006-11-09t05.flac'
+Primus2006-11-09t06.wav:  successfully encoded to 'Primus2006-11-09t06.flac'
+Primus2006-11-09t07.wav:  successfully encoded to 'Primus2006-11-09t07.flac'
+Primus2006-11-09t08.wav:  successfully encoded to 'Primus2006-11-09t08.flac'
+Primus2006-11-09t09.wav:  successfully encoded to 'Primus2006-11-09t09.flac'
+Primus2006-11-09t10.wav:  successfully encoded to 'Primus2006-11-09t10.flac'
+
+No errors occured.
+
+
+Primus2006-11-09t01.flac:40e7f9a82299b96f8b04342c0ca83960
+Primus2006-11-09t02.flac:37feb27302c65d97cdec0c71fb789e55
+Primus2006-11-09t03.flac:7238c255482c994a27f9c401542adc9c
+Primus2006-11-09t04.flac:2be7ae078700d4a453db62e6b3d8cb7b
+Primus2006-11-09t05.flac:bb9e988e981eb238128c70da8df7fb59
+Primus2006-11-09t06.flac:d1289d5fc599d401faeec3451c6a5a52
+Primus2006-11-09t07.flac:44c404dd13ee6d7974624e3b1a186991
+Primus2006-11-09t08.flac:d4d64e22760ce16e72a6dac5f6b40039
+Primus2006-11-09t09.flac:44a4f9f3881100386288ec0f91a1fec6
+Primus2006-11-09t10.flac:497c38eaeb7dc204d38c625d9da22f5f
+
+No errors occured.
+
+Checksum file saved to disk.
+
+
+Source files deleted.

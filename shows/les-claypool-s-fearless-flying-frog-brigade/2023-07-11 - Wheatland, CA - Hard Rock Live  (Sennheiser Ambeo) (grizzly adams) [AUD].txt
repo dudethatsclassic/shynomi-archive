@@ -1,0 +1,44 @@
+Les Claypool's Fearless Flying Frog Brigade
+July 11th, 2023 (Tuesday)
+Hard Rock Live
+Wheatland, California
+
+Recorded by:  Grizzly Adams
+Source:  Sennheiser Ambeo > iPhone > Apogee MetaRecorder
+Transfer:  .WAV > RX9 > Wavepad > flac (8) via TLH
+
+Setlist:  01:58:46
+01 intro
+02 Thela Hun Ginjeet
+03 David Makalaster
+04 Rumble of the Diesel
+05 Cricket and the Genie
+06 Pigs on the Wing
+07 Dogs
+08 Pigs
+09 Sheep
+10 Pigs on the Wing
+11 Precipitation
+12 Maple Leaf Rag
+13 Amanitas
+14 D's Diner
+15 Cosmic Highway
+16 Whamola
+
+fingerprints:
+lcfffb2023-07-11t01 - intro.flac:ca9b7fa154e0fb05348cc9155f0a490b
+lcfffb2023-07-11t02 - Thela Hun Ginjeet.flac:ba1655150e836656cb7a5779085c2562
+lcfffb2023-07-11t03 - David Makalaster.flac:a469418ead36d773d33faa61fafc551e
+lcfffb2023-07-11t04 - Rumble of the Diesel.flac:1d28f6e4a4e3dba994458fd36e4b3b54
+lcfffb2023-07-11t05 - Cricket and the Genie.flac:538394fac66eb2ea40a63894041cba62
+lcfffb2023-07-11t06 - Pigs on the Wing.flac:77a46cafb5852b237c8c3f33327befdf
+lcfffb2023-07-11t07 - Dogs.flac:0a0a153609796c1e10010c7e938be929
+lcfffb2023-07-11t08 - Pigs.flac:0951860f10556aa57167543b7a0e4c12
+lcfffb2023-07-11t09 - Sheep.flac:f95ba8a93c9d9378a4022aff41dce006
+lcfffb2023-07-11t10 - Pigs on the Wing.flac:097976533108c08bc9412c499d648e78
+lcfffb2023-07-11t11 - Precipitation.flac:7d154d778165c5f0904c0dbc2ff6749a
+lcfffb2023-07-11t12 - Maple Leaf Rag.flac:79398b0cc5ba7b24c36ea766956e6ae2
+lcfffb2023-07-11t13 - Amanitas.flac:d016dea0e224cd2ebb8cb80fc2ed58ab
+lcfffb2023-07-11t14 - D's Diner.flac:a60b1bab17ab1b8aba23bcd484cc903e
+lcfffb2023-07-11t15 - Cosmic Highway.flac:dcb2179b15daaca870215f2b08ed8a27
+lcfffb2023-07-11t16 - Whamola.flac:326ada00fa3ecba969efd0e592d9adf0

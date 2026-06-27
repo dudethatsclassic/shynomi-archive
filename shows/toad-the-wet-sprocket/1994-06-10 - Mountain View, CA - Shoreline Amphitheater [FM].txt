@@ -1,0 +1,32 @@
+Toad the Wet Sprocket
+6/10/94
+Shoreline Amphitheater
+Mountian View, CA
+
+Live 105 BFD
+
+FM Broadcast > DAT > DAT clones @ 48kHz
+
+DAT on Fostex D5 > optical SPDIF > Marantz CDR-630 pass-thru
+(SRC 48 > 44.1 kHz) > optical SPDIF > Nomad JB3 WAV > Cool Edit Pro 1.2 >
+CDWAV 1.71 > mkwACT 0.97 Beta 1 > SHN (seekable)
+
+DAT > SHN mastering by Jeff Lester <jeff.lester@verizon.net>
+
+1. Walk on the Ocean (3:38)
+2. Fly From Heaven (4:48)
+3. All I Want (3:44)
+4. Woodburning (4:10)
+5. Hold Her Down (3:57)
+6. Fall Down (3:41)
+
+Total: 23:58
+
+NOTES:
+This recording was at 48k and needed to be resampled, which I ddi with samplitude v7.02 pro.
+I did this on 12/17/03..cm
+
+charliemiller87@earthlink.net
+
+rliemiller87@earthlink.net
+

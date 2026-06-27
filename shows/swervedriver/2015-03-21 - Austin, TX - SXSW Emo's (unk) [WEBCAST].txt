@@ -1,0 +1,69 @@
+Swervedriver
+SXSW
+Emo's
+Austin, Texas
+March 21, 2015
+
+Lineage: Webcast -> FFmpeg -> Avidemux 2.6 -> .mkv (no transcoding)
+Video: MPEG4 Video (H264) 1280x720 1840 Kbps 30.000 fps
+Audio: AAC 128 Kbps 44.1 KHz stereo
+
+Setlist: 
+Autodidact
+For Seeking Heat
+Setting Sun
+Rave Down
+These Times
+For a Day Like Tomorrow
+Last Train to Satansville
+Everso
+Duel
+
+TRT = 45 mins 52 secs
+
+MediaInfo:
+===================== General =====================
+UniqueID/String             : 225863561111953196264893435284689293248 (0xA9EBBD546749A53BAA52208CA8548FC0)
+Complete name               : Swervedriver - 2015-03-21 SXSW, Emo's, Austin, TX [720p].mkv
+Format                      : Matroska
+Format version              : Version 2
+File size                   : 647 MB
+Duration (ms)               : 45mn 52s
+Total bitrate               : 1 971 Kbps
+Encoded application         : Lavf54.63.104
+Encoded library             : Lavf54.63.104
+
+===================== Video =====================
+Id                          : 1
+Format                      : AVC
+Format info                 : Advanced Video Codec
+Format profile              : Main@L3.1
+Use of CABAC                : Yes
+RefFrames                   : 3 frames
+Codec Id                    : V_MPEG4/ISO/AVC
+Duration (ms)               : 45mn 52s
+Width                       : 1 280 pixels
+Height                      : 720 pixels
+Aspect ratio                : 16:9
+Framerate mode              : Constant
+Framerate                   : 30.000 fps
+Colorimetry                 : YUV
+Colos space                 : 4:2:0
+Bit depth                   : 8 bits
+Scan type                   : Progressive
+Default/String              : Yes
+Forced/String               : No
+
+===================== Audio =====================
+Id                          : 2
+Format                      : AAC
+Format info                 : Advanced Audio Codec
+Format profile              : LC
+Codec Id                    : A_AAC
+Duration (ms)               : 45mn 52s
+Channel(s)                  : 2 channels
+ChannelPositions            : Front: L R
+Sampling rate               : 44.1 KHz
+Compression_Mode/String     : Lossy
+Default/String              : Yes
+Forced/String               : No

@@ -1,0 +1,50 @@
+Toad the Wet Sprocket
+August 23, 2013
+The Troubadour
+West Hollywood, CA
+
+Album release party for "New Constellation"
+
+MXL1006BP (modified by Stephen Paul Audio) 20cm spacing, ~60deg angle > Edirol R-09HR @ 24-bit/44.1 kHz
+balcony railing in line with right PA stack
+WAV -> Adobe Audition 3.0 (fades, normalization, conversion to 16-bit/44.1 kHz) ->
+CDWAV 1.98 -> Trader's Little Helper 2.5.0 -> FLAC
+
+Recorded by Jeff Lester
+
+01. The Moment
+02. Woodburning
+03. Good Intentions
+04. Crowing
+05. Windmills
+06. New Constellation
+07. Inside
+08. All I Want
+09. Whatever I Fear
+10. Come Back Down
+11. Nightingale Song
+
+12. Something's Always Wrong
+13. The Eye
+14. Crazy Life
+15. Way Away
+16. California Wasted
+17. Brother
+18. Fall Down
+19. encore cheering - thanks 
+20. Come Down&
+21. I'll Bet on You*
+22. Ziggy Stardust*
+23. Walk on the Ocean*
+
+
+
+Glen Phillips - lead vocals, acoustic guitar, electric guitar
+Todd Nichols - electric guitar, vocals
+Dean Dinning - bass guitar, tambourine, vocals
+Randy Guss - drums
+with
+Jonathan Kingham - keyboards, lap steel guitar, mandolin, acoustic guitar
+&Joe Lyons - cowbell
+*Mikal Blue - acoustic guitar, mandolin, vocals
+

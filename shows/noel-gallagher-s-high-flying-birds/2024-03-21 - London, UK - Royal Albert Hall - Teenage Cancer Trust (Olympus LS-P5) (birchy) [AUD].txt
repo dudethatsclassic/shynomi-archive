@@ -1,0 +1,42 @@
+Noel Gallagher's High Flying Birds
+Teenage Cancer Trust
+Royal Albert Hall
+London, UK
+
+21st March 2024
+
+Taper: birchy
+
+Setlist:
+01 intro
+02 Pretty Boy
+03 Council Skies
+04 Open the Door, See What You Find
+05 We're Gonna Get There in the End
+06 Easy Now
+07 You Know We Can't Go Back
+08 We're on Our Way Now
+09 In the Heat of the Moment
+10 Lock All the Doors
+11 If I Had a Gun...
+12 AKA... What a Life!
+13 Dead in the Water
+14 Going Nowhere
+15 Talk Tonight
+16 Whatever
+17 Half the World Away
+18 The Masterplan
+19 Little by Little
+20 Quinn the Eskimo (The Mighty Quinn)
+
+Encore:
+21 Stand by Me (acoustic)
+22 Live Forever
+23 Don't Look Back in Anger
+
+Length: 01:48:49
+
+Source 1: Olympus LS-P5 (internal mics, 16-bit 44100Hz FLAC)
+Source 2: Nokia Lumia 830 (built-in HAAC mics) -> Audio Recorder Pro app (16-bit 44100Hz PCM)
+
+Mixed & edited using Reaper & Adobe Audition

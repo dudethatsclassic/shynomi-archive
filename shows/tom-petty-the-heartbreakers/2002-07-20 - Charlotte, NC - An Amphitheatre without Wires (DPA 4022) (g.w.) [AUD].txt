@@ -1,0 +1,45 @@
+Tom Petty & The Heartbreakers
+An Amphitheater without Wires
+Charlotte, NC
+Saturday July 20, 2002
+
+Taper: g.w.
+Source: DPA4022 > Sonosax sx-m2 > SBM-1 (Oade Mod)
+Location: Sec. 2 Row P Seat 31, 16th row 20 ft. right of center
+
+DAT > SHN: Archive Python DDS/DAT2WAV > .wav > CD-WAV/mkwACT > .shn > .wav > CDR > EAC > flac
+(Direct DAT extraction, no soundcard)
+
+
+Many thanks to g.w. for taping and sharing this recording.
+
+
+Disc One:
+
+01: Intro - 01:05.000
+02: Runnin' Down a Dream - 05:07.000
+03: I Won't Back Down - 04:12.133
+04: I Need to Know - 02:49.400
+05: Mary Jane's Last Dance - 07:58.466
+06: Have Love Will Travel - 05:01.000
+07: Here Comes My Girl - 05:33.666
+08: Even the Losers - 04:36.733
+09: You Don't Know How It Feels - 10:31.600
+10: It's Good to Be King - 12:24.400
+
+Total: - 59:19.400
+
+01: Disc Two Intro - 00:25.133
+02: Lost Children - 06:05.000
+03: Money > King Bee - 08:26.000
+04: Learning to Fly - 05:12.866
+05: Yer So Bad - 03:07.266
+06: Can't Stop the Sun - 05:31.333
+07: Refugee - 05:21.266
+08: Too Much Ain't Enough - 08:07.133
+09: You Wreck Me - 09:23.000
+10: Free Falling - 06:12.466
+11: Gloria - 09:07.666
+12: American Girl - 06:56.866
+
+Total: - 73:56.000

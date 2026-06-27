@@ -19,9 +19,10 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "West Hollywood, CA",
       "venue": "Roxy",
-      "notes": "DPA 4081 · faninor",
+      "notes": "DPA 4081 \u00b7 faninor",
       "version": "AUD",
-      "format": "FLAC 24"
+      "format": "FLAC 24",
+      "textFile": "2024-12-05 - West Hollywood, CA - Roxy (DPA 4081) (faninor) [AUD24].txt"
     },
     {
       "year": 2025,
@@ -32,9 +33,10 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "Anaheim, CA",
       "venue": "House of Blues",
-      "notes": "DPA 4081 · faninor",
+      "notes": "DPA 4081 \u00b7 faninor",
       "version": "AUD",
-      "format": "FLAC 24"
+      "format": "FLAC 24",
+      "textFile": "2025-02-06 - Anaheim, CA - House of Blues (DPA 4081) (faninor) [AUD24].txt"
     },
     {
       "year": 2025,
@@ -45,9 +47,10 @@ const ARTIST_DATA = {
       "state": "",
       "location": "Melbourne AUS",
       "venue": "The Forum",
-      "notes": "IEM HiFi Stereo · blackout",
+      "notes": "IEM HiFi Stereo \u00b7 blackout",
       "version": "IEM",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "2025-04-13 - Melbourne AUS - The Forum (IEM HiFi Stereo) (blackout) [IEM].txt"
     },
     {
       "year": 2025,
@@ -58,9 +61,10 @@ const ARTIST_DATA = {
       "state": "MA",
       "location": "Boston, MA",
       "venue": "Paradise Rock Club",
-      "notes": "OKMIIr · massu2",
+      "notes": "OKMIIr \u00b7 massu2",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "2025-11-17 - Boston, MA - Paradise Rock Club (OKMIIr) (massu2) [AUD].txt"
     }
   ],
   "misc": []

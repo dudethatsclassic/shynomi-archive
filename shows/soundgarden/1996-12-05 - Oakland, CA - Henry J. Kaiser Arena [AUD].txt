@@ -1,0 +1,38 @@
+Soundgarden
+December 05, 1996
+Henry J. Kaiser Arena
+Oakland, CA
+
+Source: Schoeps CMC64 > Aerco > Sony TCD-D8 (Center, 30 feet FOB)
+Lineage: DAT1 16/44.1 > FLAC
+Transfer (BLG): DA-20 > digital coax > Marantz PMD-670 > usb reader > Adobe Audition > iZotope Ozone 5 > WavePad > xACT > FLAC
+
+01 Intro
+02 Spoonman
+03 Searching With My Good Eye Closed
+04 Let Me Drown
+05 Pretty Noose
+06 Burden In My Hand
+07 My Wave
+08 Ty Cobb
+09 Black Hole Sun
+10 Outshined
+11 Rusty Cage
+12 Fell on Black Days
+13 Blow Up the Outside World
+14 Rhinosaur
+15 Hands All Over
+16 Slaves and Bulldozers
+17 -encore break-
+18 Dusty
+19 Jesus Christ Pose
+
+Total Time: 94:39
+
+Notes: It’s possible this tape is the DAT master and not a 1st gen clone, but I am unable to verify this.  Not a great sounding venue, but the sound seems to improve as the show goes.
+
+This is a clean transfer except for one small spot of diginoise at the beginning of Spoonman.  Not bad for an eighteen year old tape. 
+
+.txt compiled on 07/23/2014 by BLG 
+
+

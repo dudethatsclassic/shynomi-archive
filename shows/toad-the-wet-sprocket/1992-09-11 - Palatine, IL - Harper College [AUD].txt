@@ -1,0 +1,49 @@
+	Artist:			Toad The Wet Sprocket
+	Date:			September 11, 1992
+	Location:		Harper College, Palatine, IL
+	Taper:			JB
+	e-mail:			radioheadusa@comcast.net
+	DC++ screenname:	radiohead8989
+	date of seeding:	April 13, 2013
+----------------------------------------------------------------
+	Source Info:		>Sony D-3 DAT recorder (16bit-48kHz)
+				>ECM-S220 Mic
+				>CDWAVE 1.98
+				>FLAC (level 8)
+----------------------------------------------------------------
+	additional info:	
+----------------------------------------------------------------
+	running time:		1h:18m:07s (Concert Only)
+----------------------------------------------------------------
+	Setlist:		01 Way Away
+				02 Nightingale Song
+				03 All I Want
+				04 Jam
+				05 Before You Were Born
+				06 Butterflies 
+				07 Torn
+				08 Chile
+				09 Corporal Brown
+				10 Brother
+				11 One Little Girl
+				12 In My Ear
+				13 Hold Her Down
+				14 Come Back Down
+				15 Is It For Me
+				16 Encore Break
+
+				17 Walk On The Ocean
+				18 Fall Down
+				19 Cinnamon Girl
+ 				20 Encore Break
+
+				21 I Will Not Take These Things For Granted
+
+				22 WCBR Interview 9.11.1992
+				23 WLUP AM1000 Chicago with Kevin Matthews 7.24.1992
+
+----------------------------------------------------------------
+Note:
+This is a 16bit / 48KHZ recording.  It cannot be burned to a cd, unless you convert it to 44.1KHZ.
+The FLAC files were created using CD Wave 1.98, and they were tested using Media Monkey 4.0.6.1501.
+This is from my master DAT recording. 

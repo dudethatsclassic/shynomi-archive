@@ -1,0 +1,30 @@
+AUDIOSLAVE
+March 7, 2003
+Electric Factory
+Philadelphia, PA
+
+Source: Microtech Gefell M20 > JK Labs DVC iii > Sony SBM-1 > Sony TCD-D7
+Location: fifteen feet from left PA
+Taper: jlizard
+Lineage: DAT(M) [48] > dEQ > CDR(1) > EAC > FLAC
+Transfer: Sony PCM-R500 > Behringer DSP-8000 Ultracurve > HHB CDR-800
+
+01 - intro
+02 - Set It Off
+03 - Light My Way
+04 - Gasoline
+05 - Like a Stone
+06 - Super Stupid
+07 - Hypnotize
+08 - What You Are
+09 - Exploder
+10 - Last Remaining Light
+11 - Working Man
+12 - Show Me How to Live
+13 - Shadow of the Sun
+14 - encore cheers
+15 - I Am the Highway
+16 - Cochise
+
+
+Compiled April 2019 by CPS

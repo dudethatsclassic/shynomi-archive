@@ -1,0 +1,44 @@
+SOUNDGARDEN
+September 23, 1989
+Concrete Foundations Forum (Hollywood Live)
+Burbank, CA
+
+DISC #1/1 (44:29)
+-----------------
+01) intro
+02) Come Together
+03) Ugly Truth
+04) Get On The Snake
+05) Mood For Trouble
+06) I Awake
+07) Gun
+08) Hands All Over (cut)
+09) Beyond The Wheel
+
+GENERATION
+-----------------
+ANA(M) -> WAV [44.1kHz] -> FLAC [Level 8]
+
+SOURCE
+-----------------
+Sony (supplied) -> Sony WM-F76
+
+TRANSFER
+-----------------
+Nakamichi DR-8 -> Hosa RCA cable -> LynxONE analog-in -> Adobe Audition 1.5 -> CD Wave 1.94.5 -> FLAC Frontend 1.7.1
+
+MD5 FINGERPRINTS
+-----------------
+494e95bb0da807175f84a45c58dcc3b4 *soundgarden1989-09-23t01.flac
+4d50b1ee96e0e52c2b32a9c936cd5b71 *soundgarden1989-09-23t02.flac
+6a582cb7fd63e46ed5e4a3696d6d804d *soundgarden1989-09-23t03.flac
+9c54fd468fa8ce93f2cd14c5008e980b *soundgarden1989-09-23t04.flac
+806cb84fce8515b2eabf5fa706d92a99 *soundgarden1989-09-23t05.flac
+998af2cfc2f05d81a984089767475128 *soundgarden1989-09-23t06.flac
+543ac5f3f7de295c1951918b545ab5f3 *soundgarden1989-09-23t07.flac
+d6470191102c0bcdb601f15a8f6e2155 *soundgarden1989-09-23t08.flac
+e39e3c43da44d244fb3f69a797de8e11 *soundgarden1989-09-23t09.flac
+
+
+Transferred by Mike Ziegler.
+PLEASE DO NOT ENCODE TO MP3 OR SELL!

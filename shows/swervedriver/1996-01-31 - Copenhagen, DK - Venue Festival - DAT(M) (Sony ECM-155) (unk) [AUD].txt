@@ -1,0 +1,28 @@
+Swervedriver
+Copenhagen Loppen, DK
+1996-01-31
+
+[Venue Festival]
+
+source: 2xsony ecm-155->sony tcd-d8
+transfer: master dat->sony tcd-d7->ana->sony pcm-m10->hd->cep->cdwav->flac
+
+01. Intro
+02. - ? -
+03. Sandblasted
+04. Duel
+05. Son of Jaguar 'E'
+06. Bring Me the Head of the Fortune Teller
+07. She's Beside Herself
+08. The Other Jesus
+09. Never Lose That Feeling
+10. The Birds
+11. Son of Mustang Ford
+12. Rave Down
+13. Duress
+---
+14. Sunset
+15. Kill the Superheroes
+
+NB! Occasional mini dropouts on this master DAT.
+

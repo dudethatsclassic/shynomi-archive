@@ -1,0 +1,37 @@
+Tom Petty
+19830421
+Universal City, CA
+Universal Amphitheatre
+
+Source: Audience
+Lineage: Nakamichi 300 > Sony TCD-5M > CDR > EAC > FLAC
+Quality: 9 (8.5+)
+Comments:
+Notes:
+  spectrally attenuated a few whistles
+  alt source provides:
+    101: 00:00-00:25
+    102: 00:00-01:09
+
+  Set 1:
+01. intro                                        00:25
+02. One Story Town                               04:34
+03. Listen To Her Heart                          03:17
+04. A Thing About You                            05:41
+05. You Got Lucky                                04:31
+06. I Need To Know                               02:41
+07. Don't Do Me Like That                        03:37
+08. Here Comes My Girl                           06:24
+09. Change Of Heart                              04:58
+10. The Waiting                                  04:30
+11. Hang On Sloopy                               08:01
+12. The Stories We Could Tell                    03:48
+13. American Girl                                04:58
+14. A Woman In Love                              05:54
+15. Kings Road                                   07:33
+16. Breakdown                                    09:36
+17. Refugee                                      06:25 //
+18. Shout                                        10:42
+19. Even The Losers                              04:36
+                                              ________
+                                              01:42:11

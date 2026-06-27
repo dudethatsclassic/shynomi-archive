@@ -1,0 +1,57 @@
+Primus - A Tribute To Kings 2nd Leg
+Tuesday June 7th, 2022
+Sid Buckwold Theatre / TCU Place
+35 22nd St. E
+Saskatoon, Saskatchewan, Canada
+
+Taper:  LeifH [2022#55b]
+Source 2:  CA-11 > Bat2B > M10
+Transfer:  PC via USB > RX9 > Wavepad > flac (8) via TLH
+
+Setlist:  01:59:00
+00 intro
+01 Too Many Puppies > 
+02 Sgt. Baker 
+03 Last Salmon Man
+04 Groundhog's Day > Polkadot Rose [Oysterhead]
+05 The Seven
+06 Conspiranoia
+07 Over The Falls > Bridge Came Tumblin' Down [Stompin' Tom]
+08 Welcome To This World > 
+09 Jerry Was A Race Car Driver > 
+10 My Name Is Mud
+-intermission-
+11 A Farewell To Kings
+12 Xanadu
+13 Closer To The Heart
+14 Cinderella Man
+15 Madrigal
+16 Cygnus X-1
+-encore-
+17 Southbound Pachyderm
+
+Floor row F seat 1 (8th row dfc).  The theatre is a carbon copy of the place they played the night before in Regina (Conexus Centre).  "Continental Style" seating; long rows of seats with no aisles.  The facility was also hosting a retirement party the same night, and there was a very noticeable contrast in people at the front entrance.  
+
+My 40th Primus show.  Their first time playing in Saskatoon.  Les mentions seeing a skinned moose carcass on the side of the road on the way from Regina to Saskatoon.  The setlist originally had Golden Boy in place of Last Salmon Man.  They also made a slight change towards the end of the first set, and Ler suddenly had a guitar malfunction so there is a slight delay prior to Welcome To This World.  The vocals were pretty low in the mix all around, I think maybe if I was seated a few rows further back my microphones would have picked up a more balanced P.A. sound.  
+
+I found the audience to be pretty annoying at this show, far too many woops and whistles during songs, people having conversations, had to tell some drunk guy to get lost, Costco sized woman kept squishing into my space all night.  I've attenuated and removed the worst of it.  
+
+fingerprints:
+00 - intro.flac:6d9fe88ff7db4f79fa98133f151504e1
+01 - Too Many Puppies.flac:a23570fa061e9bd54e97881adf518db4
+02 - Sgt. Baker.flac:8f940491e907ea6f6b6082b826df8f70
+03 - Last Salmon Man.flac:c3c655222fc40369cc6b6b75332ef655
+04 - Groundhog's Day.flac:8d3fa483f2f46c5d09d6df048f53d8ad
+05 - The Seven.flac:de350fe5cb017d81ebdf061e5f83f085
+06 - Conspiranoia.flac:765fbd8766d28ef4f436ad5320576405
+07 - Over the Falls.flac:1198aa849608d42dd2d218b1f3b7076a
+08 - Welcome to This World.flac:530f4ab31192fe705a47bcd19fee9112
+09 - Jerry Was a Racecar Driver.flac:e14c840c5f96b0253d04c1fe784c60a2
+10 - My Name Is Mud.flac:e5f24e8eef9135d708c2c95d21fbca04
+11 - A Farewell To Kings.flac:3611e61ef58be57cb1bbde35d7f1869b
+12 - Xanadu.flac:a24aa868c86bf035e5e9c6890e3217b4
+13 - Closer to the Heart.flac:85927db2966e5bea5c989ab6bc457df6
+14 - Cinderella Man.flac:c15b53cfae8fc6dcbd4317ed609fc719
+15 - Madrigal.flac:ff54b8e1eb9d2fd9111f1cdf1165f775
+16 - Cygnus X-1.flac:80e58c0c655dc78b47166048ecc958c6
+17 - Southbound Pachyderm.flac:c6f2847924d1ccf80f41780b2514984a

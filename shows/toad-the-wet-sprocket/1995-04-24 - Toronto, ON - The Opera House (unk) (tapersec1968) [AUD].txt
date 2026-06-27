@@ -1,0 +1,22 @@
+TOAD THE WET SPROCKET 4/24/95
+THE OPERA HOUSE, TORONTO, ON
+
+COMMAND PERFORMANCE
+
+01 Intro
+02 Fly From Heaven
+03 Something's Always Wrong
+04 Woodburning
+05 Commercial One
+06 Interview One
+07 Come Back Down
+08 Crowing
+09 Commercial Two
+10 Interview Two
+11 All I Want
+12 Commercial Three
+13 Walk On The Ocean
+14 Fall Down
+15 Closing
+
+GEAR USED: trade CDR > EAC > TLH > .flac files

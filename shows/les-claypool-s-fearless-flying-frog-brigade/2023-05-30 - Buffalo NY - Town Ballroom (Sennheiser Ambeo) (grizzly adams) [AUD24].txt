@@ -1,0 +1,47 @@
+Les Claypool's Fearless Flying Frog Brigade
+May 30th, 2023 (Tuesday)
+Town Ballroom
+Buffalo, New York
+
+Recorded by:  Grizzly Adams
+Source:  Sennheiser Ambeo Binaural Headset > iPhone > Apogee MetaRecorder
+Transfer:  .WAV > RX9 > Wavepad > flac (8) via TLH
+
+Setlist:  02:01:08
+01 intro
+02 Highball with the Devil > Tommy the Cat
+03 David Makalaster > Southbound Pachyderm
+04 Buzzards of Greenhill
+05 Cricket and the Genie
+06 Pigs on the Wing I
+07 Dogs
+08 Pigs (Three Different Ones)
+09 Sheep
+10 Pigs on the Wing II
+11 Phantom Patriot
+12 D's Diner
+13 Whamola
+-encore-
+14 Tomorrow Never Knows
+
+Les Claypool - bass, vocals
+Sean Lennon - guitar, vocals
+Mike Dillon - percussion
+Harry Waters - keyboards, vocals
+Paulo Baldi - drums
+
+fingerprints:
+lcfffb2023-05-30t01 - intro.flac:2795348af982a8838b9a96785708f141
+lcfffb2023-05-30t02 - Highball.flac:6b9c3a91fd89a6cf4b3de773c03340b4
+lcfffb2023-05-30t03 - David Makalaster.flac:a467894f23bea0747954ebde9c375517
+lcfffb2023-05-30t04 - Buzzards.flac:22c979de9b555f87ae93188e6df77267
+lcfffb2023-05-30t05 - Cricket.flac:d41d51bf2cb37116c68a0bc8396fc0b7
+lcfffb2023-05-30t06 - Pigs on the Wing I.flac:02c54eff21fb10e5b0d23ae830269a3e
+lcfffb2023-05-30t07 - Dogs.flac:f9411cf16d9a2d03812dde4e686783bc
+lcfffb2023-05-30t08 - Pigs.flac:e2b8a8a1870da513e05e5986e1f63deb
+lcfffb2023-05-30t09 - Sheep.flac:59699cd8572b25cbe8a5ad263e06cf14
+lcfffb2023-05-30t10 - Pigs on the Wing II.flac:9e7ec4a7f5aa46fbc9cac141a04a93f6
+lcfffb2023-05-30t11 - Phantom Patriot.flac:3f05660c8d28700a01a137d735e5debe
+lcfffb2023-05-30t12 - Ds Diner.flac:f0b47a32c225219170c02d7e53d1f637
+lcfffb2023-05-30t13 - Whamola.flac:5b2749ae4e6bfac4ed9f617d06a58374
+lcfffb2023-05-30t14 - Tomorrow Never Knows.flac:25fa33ce421b0ece71f6eba50cf2bad9

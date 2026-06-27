@@ -1,0 +1,35 @@
+Primus
+The Omni
+Oakland, CA
+July 13, 1987
+
+Audience Recording
+
+Earliest known live audio recording of Primus
+
+Fixed version -- When I got this, it had a couple of dead spots between tracks. The "Eleven" fragment was lumped together with "Is It Luck?" on one track and "Temporary Phase" was lumped together with "Pudding Time" on one track. 
+
+Lineage: AUD> ???> .flac> Trader's Little Helper (decoded to .wav)> CDR> CD Wave Editor (extracts & de-tracking)> PC> Audacity 1.3 Beta (removed gaps, re-tracking)> TLH (fixed SBEs & .flac level 6)
+
+Tracks:
+
+1. Jellikit
+2. To Defy The Laws Of Tradition
+3. Temporary Phase
+4. Pudding Time
+5. Tommy The Cat (cuts in)
+6. Eleven (cuts out)
+7. Is It Luck?
+8. John The Fisherman
+9. Sgt. Baker
+
+Running Time: 36:11
+
+Lineup:
+Les Claypool - bass
+Todd Huth - guitar
+Tim "Curveball" Wright - drums
+
+Many, many thanks to pawelr for uploading this and working so hard to resolve the torrent problems, and thanks to the taper - whoever you are.
+
+Enjoy it, share it...just don't sell it.  ~Slickdaddyo

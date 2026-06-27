@@ -1,0 +1,30 @@
+Sonic Youth - 2004 07 15 Crystal Ballroom, Portland, OR
+
+Show note: 
+Show is (mostly) Source 1 mixed with Source 2. My disc died 2 minutes into track 13 / Stones. I tried several different drives, but no luck.  I added the rest of track 13 and track 14 from source 3. Its I did raise the volume on source 3 to match the volume of the other source. It mixed in pretty well. Safe to say, noone else has had this complete version before :)
+
+1 intro
+2 I Love You Golden Blue
+3 Bull In The Heather
+4 The Empty Page
+5 Pattern Recognition
+6 Karen Revisited
+7 New Hampshire
+8 Unmade Bed
+9 Mariah Carey And The Arthur Doyle Hand Cream
+10 White Cross
+11 Paper Cup Exit
+12 Stones
+13 Drunken Butterfly
+ encore
+14 Rain On Tin
+15 Pacific Coast Highway
+ encore 2
+16 Teenage Riot
+
+
+Source 1: SBD > Sony D8 DAT > FLAC (taper S. Dickson)
+Source 2: Superlux SMK-H8K/C > Canare Starquad > digimod UA-5 > Nomad Jukebox 3 (slight right of center, 20' from stage, mics DIN @ 9')
+Mix > CDR > EAC (WAV + CUE) > CDWAVE (split) > FLAC
+Source 3: Schoeps MK4s (ORTF) > Nbox > Oade mod SBM-1@44.1 > Sony PCM-M1 > TRANSFER: Tascam DA-20 MkII > Emagic Audiowerk2>CD Wave Editor>FLAC Frontend v1.7.1 - taped and mastered by Robert Dempster (karob@easystreet.com)
+

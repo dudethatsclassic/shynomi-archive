@@ -1,0 +1,37 @@
+AUDIOSLAVE
+2005-06-10
+Southside Festival @ Flugplatz
+Neuhausen ob Eck, Germany
+
+- SOURCE -
+DAT Audience [OKM-IIr > Sony SBM-1 > Sony PCM-M1]
+
+- LOCATION -
+7 meters from right side stacks, first row.
+
+- TRANSFER -
+DAT master > Sony DTC-ZE700 DAT > Terratec EWX 24/96 > WaveLab V5.0a
+  > Digital Editing > FLAC V1.1.0
+
+- EDITING -
+EQ in Sony Sound Forge V7.0 via Steinberg FreeFilter V1.1
+Volume boost and slight compression in T-RackS V2.0
+Fades in Steinberg WaveLab V5.0a
+Track splits in CD Wave Editor V1.71
+Resampling: 48.0 kHz > 44.1 kHz in Adobe Audition V1.5 (setting 999)
+
+- SETLIST -
+01 Your Time Has Come
+02 Show Me How to Live
+03 Spoonman [Soundgarden]
+04 Like a Stone
+05 Exploder
+06 Be Yourself
+07 Drown Me Slowly
+08 Doesn't Remind Me
+09 Bulls On Parade [Rage Against the Machine]
+10 Sleep Now in the Fire [Rage Against the Machine]
+11 Black Hole Sun [Soundgarden]
+12 Set It Off
+13 Killing in the Name [Rage Against the Machine]
+14 Cochise

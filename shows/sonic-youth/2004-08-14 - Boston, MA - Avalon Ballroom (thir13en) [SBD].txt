@@ -1,0 +1,37 @@
+**Remastered** by thir13en
+
+
+Sonic Youth
+2004-08-14
+Avalon Ballroom
+Boston, MA
+
+Real nice SBD source got beefed into a real nice display of classic SY atonal rock. I just love these guys, old people can still rock too, dammit.
+
+The tracking on this was strange, with lot's of track ID"s cutting up things like intro's to songs and short bits of banter. I retracked it to be more coherent.
+
+
+01. Burning Spear
+02. Pattern Recognition
+03. Disconnection Notice
+04. Mote
+05. New Hampshire
+06. Dude Ranch Nurse
+07. Sugar Kane
+08. Kim Gordon And The Arthur Doyle Hand Cream
+09. Stones
+10. I Love You Golden Blue
+11. Paper Cup Exit
+12. White Kross
+13. Unmade Bed
+14. Pacific Coast Highway
+15. Expressway To Yr. Skull
+
+
+
+
+PRE-13 SOUCE INF0
+==================
+===================
+
+1-26: 2004-08-14, 116, soundboard > Sony D7 > HHB 830 > CD-R master > iTunes > CD-R (1) > EAC v0.95b2 (secure) > FLAC Frontend 1.7.1 (level 5), some overload in first two minutes of 19; audience master (AT822 > Sony D7) and an incomplete (encore only) Sony DCR-TRV730 source also exist / 27-28: 2004-06-09, 5, analogue cable box > RCA out > line-in > Sony D7 > HHB 830 > CD-R master > iTunes > CD-R (1) > EAC v0.95b2 (secure) > FLAC Frontend 1.7.1 (level 5), slight fuzz

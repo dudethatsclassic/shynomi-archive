@@ -1,0 +1,38 @@
+Primus
+August 19th, 1995
+Dallas Bandshell, Fair Park, Dallas, TX
+
+Master:
+AKG C461's>Tascam DA-P1
+by Kyle Holbrook
+
+Conversion:
+Tascam DA-20 (A/D)>Microtrack 24/96>WAV>Sound Studio 2.2.4>xACT 2.00a>FLAC
+by Dave Mallick
+
+01. ...Pudding Time                        [01:19.58]
+02. Here Come The Bastards                 [03:45.67]
+03. Groundhog's Day                        [04:52.04]
+04. Professor Nutbutter's House Of Treats  [07:09.60]
+05. Mrs. Blaileen                          [03:59.54]
+06. Those Damned Blue-Collar Tweekers      [07:05.32]
+07. Southbound Pachyderm                   [06:08.69]
+08. De Anza Jig                            [03:08.53]
+09. Seas Of Cheese >                       [00:42.46]
+10. Pork Soda                              [02:13.64]
+11. John The Fisherman                     [04:37.61]
+12. American Life                          [05:33.48]
+13. My Name Is Mud                         [05:34.39]
+14. Over The Electric Grapevine            [06:09.06]
+15. Eleven                                 [05:39.49]
+16. Wynona's Big Brown Beaver              [04:37.47]
+17. E: Bob                                 [04:44.17]
+18.    Jerry Was A Race Car Driver         [03:22.59]
+                                    Total: [80:46.08]
+                                    
+Notes:
+- First track is incomplete. The first few seconds were completely blown
+  out so I cropped them out and then faded in.
+- Level adjustment upward around 3:30 of track 4.
+- Show may be overburned on an 80-minute CD. Otherwise, the midpoint is
+  after Pork Soda.

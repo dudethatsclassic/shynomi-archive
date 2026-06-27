@@ -1,0 +1,55 @@
+Tom Petty & The Heartbreakers
+Vegoose Music Festival - Double Down Stage
+Las Vegas, NV
+October 28, 2006
+
+Taper: Ian White
+Location: FOB/DFC
+Source: Sennheiser MKH-800s (cards/DIN) @ ~ 10' > Sound Devices 722 @ 24/96
+Conversion: Sound Devices 722 > HP Pavilion > Goldwave 5.14 > CD Wave 1.95 > Wavelab 5.01 > flac 1.1.2
+
+
+** DO NOT DISTRIBUTE IN MP3 FORMAT **
+
+
+Total: 01:33:25
+01 Intro 00:55
+02 Listen To Her Heart 03:59
+03 Mary Jane's Last Dance 06:28
+04 I Won't Back Down 03:37
+05 Free Fallin' 05:29
+06 Saving Grace 04:27
+07 I'm A Man 03:03
+08 Oh Well 04:21
+09 It's Good To Be King 10:46
+10 Carol 06:09
+11 Cabin Down Below 02:49
+12 Don't Come Around Here No More 07:17
+13 Refugee 05:16
+14 Runnin' Down A Dream 08:15
+-Encore-
+15 You Wreck Me 05:58
+16 Mystic Eyes 08:29
+17 American Girl 06:07
+
+
+Compiled by Ian White on 11/03/06
+
+
+tpath2006-10-28t01.flac:fc0cdc47ddba3cc661674beec6f7fde0
+tpath2006-10-28t02.flac:92d05e74318e2b925e9cae6210e51af3
+tpath2006-10-28t03.flac:4c42a090e123753bf19817fd2aa146ce
+tpath2006-10-28t04.flac:4d558beb43c5a301ffea1d72023e4ccd
+tpath2006-10-28t05.flac:31bf09cf6fb031d6503743699149c172
+tpath2006-10-28t06.flac:cfab0a2ab0a6a5f2ec3f5e3829d4e7d4
+tpath2006-10-28t07.flac:79fe75503fab73e204b0fdf9b8502e69
+tpath2006-10-28t08.flac:d9cc869183141dfa49b35fd422aed255
+tpath2006-10-28t09.flac:289dba98658120ae4abea73862d26f7a
+tpath2006-10-28t10.flac:d9b96f21d9679a3c022fc71c38ece8d1
+tpath2006-10-28t11.flac:dc0a74d3a7fb68e6bcde52840e0bbf62
+tpath2006-10-28t12.flac:f629830fd757ae4b1abbb69ad9433ba3
+tpath2006-10-28t13.flac:0a27dbbcc4becf2820220781162153bb
+tpath2006-10-28t14.flac:c9ed4c4e0d1c45fc23669d6142d9bcbd
+tpath2006-10-28t15.flac:0d8dcc060c71b15e5a939ce08542c42d
+tpath2006-10-28t16.flac:73bae815dcf7e1ef8f8ac818d651f33b
+tpath2006-10-28t17.flac:dfb0e7bc31467d13ea8e7ab2e6e11552

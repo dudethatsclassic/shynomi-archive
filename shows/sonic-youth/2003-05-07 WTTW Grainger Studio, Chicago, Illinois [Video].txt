@@ -1,0 +1,62 @@
+Sonic Youth
+May 7, 2003
+WTTW Grainger Studio - PBS Soundstage
+Chicago, IL
+
+HD cable tv (axstv) > tivo > tivo desktop > videoredo > .mpg
+
+Rain On Tin
+The Empty Page
+Karenology
+Plastic Sun
+Mariah Carey & The Arthur Doyle Hand Cream
+Sympathy For The Strawberry
+
+Format                           : MPEG-PS
+FileSize/String                  : 3.66 GiB
+Duration/String                  : 39mn 40s
+OverallBitRate_Mode/String       : Variable
+OverallBitRate/String            : 13.2 Mbps
+
+Video
+ID/String                        : 224 (0xE0)
+Format                           : MPEG Video
+Format_Version                   : Version 2
+Format_Profile                   : Main@High
+Format_Settings_BVOP/String      : Yes
+Format_Settings_Matrix/String    : Default
+Format_Settings_GOP              : M=3, N=15
+Duration/String                  : 39mn 40s
+BitRate_Mode/String              : Variable
+BitRate/String                   : 12.6 Mbps
+BitRate_Maximum/String           : 80.0 Mbps
+Width/String                     : 1 920 pixels
+Height/String                    : 1 080 pixels
+DisplayAspectRatio/String        : 16:9
+FrameRate/String                 : 29.970 fps
+ColorSpace                       : YUV
+ChromaSubsampling                : 4:2:0
+BitDepth/String                  : 8 bits
+ScanType/String                  : Interlaced
+ScanOrder/String                 : Top Field First
+Compression_Mode/String          : Lossy
+Bits-(Pixel*Frame)               : 0.202
+StreamSize/String                : 3.48 GiB (95%)
+
+Audio
+ID/String                        : 189 (0xBD)-128 (0x80)
+Format                           : AC-3
+Format/Info                      : Audio Coding 3
+Format_Settings_ModeExtension    : CM (complete main)
+Format_Settings_Endianness       : Big
+MuxingMode                       : DVD-Video
+Duration/String                  : 39mn 40s
+BitRate_Mode/String              : Constant
+BitRate/String                   : 384 Kbps
+Channel(s)/String                : 6 channels
+ChannelPositions                 : Front: L C R, Side: L R, LFE
+SamplingRate/String              : 48.0 KHz
+BitDepth/String                  : 16 bits
+Compression_Mode/String          : Lossy
+StreamSize/String                : 109 MiB (3%)
+

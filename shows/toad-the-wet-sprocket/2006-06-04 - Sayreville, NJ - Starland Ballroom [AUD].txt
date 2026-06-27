@@ -1,0 +1,42 @@
+Toad the Wet Sprocket
+June 4th, 2006
+Starland Ballroom, Sayreville, NJ
+
+Master:
+Microtech Gefell M210's>Oade M248>SBM-1>D8, D8>Tascam CDRW2000>CD
+Taped from left side of soundboard, 25 feet from stage, 8 feet high
+by Jon Pasternak
+
+Extraction
+CD>xACT 1.66 (cdparanoia)>WAV>FLAC, all tracks extracted with no errors
+by Dave Mallick
+
+Disc 1 [54:33.68] (minutes:seconds.frames)
+01. Something's Always Wrong                 [05:28.55]
+02. Whatever I Fear                          [03:41.05]
+03. Crowing                                  [03:23.21]
+04. Stupid                                   [02:55.72]
+05. Windmills                                [04:25.40]
+06. Nightingale Song                         [02:46.47]
+07. Hold Her Down                            [03:32.43]
+08. Know Me                                  [05:57.37]
+09. Don't Let It                             [04:20.07]
+10. Good Intentions                          [04:12.03]
+11. High On A Riverbed                       [04:23.19]
+12. If I Lose My Faith*                      [03:16.42]
+13. Finally Fading*                          [03:42.37]
+14. Wanna New Drug*                          [02:28.15]
+
+Disc 2 [46:42.30]
+01. Everything But You                       [04:53.36]
+02. Walk On The Ocean                        [03:13.20]
+03. Inside                                   [04:49.47]
+04. Amnesia                                  [04:21.48]
+05. Dam Would Break                          [04:38.23]
+06. All I Want                               [03:47.40]
+07. Fall Down                                [03:59.16]
+08. E: Crazy Life                            [05:21.41]
+09. Brother                                  [04:47.58]
+10. I Will Not Take These Things For Granted [06:50.01]
+
+* Glen solo

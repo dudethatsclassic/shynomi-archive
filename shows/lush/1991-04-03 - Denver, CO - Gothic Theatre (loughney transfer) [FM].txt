@@ -1,0 +1,25 @@
+Lush - 1991 04 03 Gothic Theatre, Denver, CO
+
+Show note:
+Tour with Ride. This show may have been on the tracker, but not this version
+
+Transfer note:
+Had this on CDR for a long time, pre-DIME. Sound was maxed out. I applied some low / hi end EQ boost to bring back some dynamics. Show had a light FM hiss, which I removed. I ran the Deharsh tool to clear up some of the artifacts caused by the max volume.  Unfortunately there's still some FM static.
+
+1 intro
+2 Thoughtforms
+3 Breeze
+4 Bitter
+5 Second Sight
+6 Take
+7 Covert
+8 De-luxe
+9 Etheriel
+10 Ocean
+11 Scarlet
+12 Sweetness and Light
+13 Downer
+14 Baby Talk
+15 Leaves Me Cold
+
+Lineage: FM Broadcast > master cassette > CDR > Audacity (EQ, NR, Deharsh) > CDWAVE (SPLITS) > FLAC [loughney xfer]

@@ -1,0 +1,87 @@
+
+Chris Cornell
+Kingsbury Hall, Salt Lake City, Utah
+February 11, 2000
+
+Source : Sony ECM MS-907 mic > Sony MZ-R55 Minidisc (in mono)
+
+Transfer : Sony MZ-R700 > Tascam SD-20M (rack mount) wave recorder (16/44)
+
+Editing : Sound Forge (tracking & volume) > Wave > TLH (sbe aligned) Flac 8
+
+Traders Den - June 11, 2021
+
+Transferred & posted by kingrue upload #3167
+=============================================
+
+Here is a brand new source for this performance date.
+
+Check out the samples and enjoy the show.
+
+Thanks to Big D. for taping the show.
+
+Band line-up
+Chris Cornell - guitar, vocals (died May 18, 2017) (aged 52)
+Matt Cameron - drums
+Ben Shepherd - bass
+Alain Johannes - guitar
+
+Total Time = 01:36:02
+
+Set list
+00 crowd cheer
+01 Sunshower (tiny cut @ 0:38)
+02 Can't Change Me
+03 Flutter Girl
+04 Mission
+05 Preaching The End of The World
+06 Seasons
+07 When I'm Down
+08 Pillow Of Your Bones
+09 Fell On Black Days
+10 Guitar Solo (Alain Johannes)
+11 Boot Camp
+12 Disappearing One
+13 Moonchild
+14 Sweet Euphoria
+15 Like Suicide
+16 Follow My Way
+17 crowd cheer 
+18 All Night Thing
+19 Sweet Rain
+
+
+============================
+
+
+No errors occured.
+
+
+00 crowd cheer.flac:3c73ab3f3164e1b2adb503ecefc470e9
+01 Sunshower.flac:f1ad21cf45551a51bcdfcf23c214993e
+02 Can't Change Me.flac:2290f4f7347381416aa882a6067ae618
+03 Flutter Girl.flac:9f4e8b5cc5ba99da3cc73b938a27e936
+04 Mission.flac:3cada8993f57a90f977d0a816f307ba8
+05 Preaching The End of The World.flac:28965593ca3c78001f90aad552a09854
+06 Seasons.flac:72b71f3391cb646a3a843e461e00be8f
+07 When I'm Down.flac:40ad8be9719bf22c84c959bbd8ccba6e
+08 Pillow Of Your Bones.flac:d1680e2102cd723e762794650ed2da4c
+09 Fell On Black Days.flac:acce78681dd7e6ab1f182ecee3efed3a
+10 Guitar Solo.flac:01ba4ec3448ef837d85d8e9008714c41
+11 Boot Camp.flac:ee128a7142b080b91e715968ee7f7845
+12 Disappearing One.flac:45854b70dc99e3ea946c6a160e863c5e
+13 Moonchild.flac:09b03cf6f4b681eed9fff64a4f02c478
+14 Sweet Euphoria.flac:0a8e08d88f8b9af77931a8bf499628fc
+15 Like Suicide.flac:3c5cf7f5d25cb5c7e324cfc59696f638
+16 Follow My Way.flac:20f411fddd457ff2bf28f034bd34912b
+17 crowd cheer.flac:396259e9332abcdc13aad88924b877cf
+18 All Night Thing.flac:5d4c29d4fd19b188dcf3cb94f69a3988
+19 Sweet Rain.flac:c51a55c5caa6e26d3b4191121e2b320b
+
+Checksum file saved to disk.
+
+No errors occured.
+
+
+
+

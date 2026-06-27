@@ -1,0 +1,59 @@
+﻿Soundgarden
+Lollapalooza Festival
+Winnebago County Fairgrounds
+Pecatonica, IL
+June 30, 1996
+
+** 16 BIT **
+
+Source:  Core Sound Binaurals > Sony TCD D-7 (master DAT) > Maxell XL-IIS (1st Gen cassettes)
+Transfer:  1st Gen cassettes > Denon 790R > Kenwood A-522 amplifier > Kenwood GE-622 Equalizer > .WAV @ 16 bit/44.1 kHz > CDR > 
+EAC > .WAV @ 16 bit/44.1 kHz
+Mastering:  .WAV > Sound Forge Pro 11.0 (Build 299) [iZotope Mastering Suite (declick)] > CDWav tracking) > Trader's Little 
+Helper (level 5) > FLAC > TagScanner 6.0.35 (tagging)
+Recorded & transferred to cassette by:  TallTaper
+Cassettes transferred by:  Steve "ballsdeep" Hagar
+Mastered by:  Dennis Orr
+
+Setlist: (1:05:13)
+01 Intro
+02 Spoonman
+03 Searching With My Good Eye Closed
+04 Let Me Drown
+05 Pretty Noose
+06 Burden In My Hand
+07 Never The Machine Forever
+08 Ty Cobb
+09 Fell On Black Days
+10 Rusty Cage
+11 Waiting For The Sun
+12 Black Hole Sun
+13 Outshined
+14 Rhinosaur
+15 Drawing Flies
+16 Blow Up The Outside World
+
+Chris Cornell – lead vocals & rhythm guitar
+Kim Thayil – lead guitar
+Ben Shepherd – bass & backing vocals
+Matt Cameron – drums & backing vocals
+
+Soundgarden1996-06-30t01.flac:3ce0e8094de3f2c521d4ac34f6cfa05f
+Soundgarden1996-06-30t02.flac:42d8b765bd8e5436f9450373022c6308
+Soundgarden1996-06-30t03.flac:e481b028d48b0006e2d8e50c03a69d41
+Soundgarden1996-06-30t04.flac:fac1fd67fda9a70002387b9d86972d5e
+Soundgarden1996-06-30t05.flac:8132953775e91dae22c6134effc564b2
+Soundgarden1996-06-30t06.flac:3b1d67c5e5871fd7e768bc4bbdf39ed6
+Soundgarden1996-06-30t07.flac:cd4e67fc4e58ea6888d728ad6f185030
+Soundgarden1996-06-30t08.flac:2153cacff503ebe0215cca9f33a7446a
+Soundgarden1996-06-30t09.flac:67d7db5eb89b6944b044cb344565a3a7
+Soundgarden1996-06-30t10.flac:a6521d67999c012afe0966ef563fafdc
+Soundgarden1996-06-30t11.flac:40b748c328be9b8d4ea26f2f7f5c7959
+Soundgarden1996-06-30t12.flac:ba4e92fbe54aef9792595ac66c5d085f
+Soundgarden1996-06-30t13.flac:691b1631bdb8b617a51fb6b6581262fa
+Soundgarden1996-06-30t14.flac:366bacaa95a083091fd5dc5fb50915f3
+Soundgarden1996-06-30t15.flac:21d7e08555be20e6dcbf9afaebd0cc35
+Soundgarden1996-06-30t16.flac:2d877dd6717fc59873c1723a98b38fea
+
+
+

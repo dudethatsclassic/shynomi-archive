@@ -1,0 +1,34 @@
+Audioslave
+December 7, 2002
+Universal Amphitheatre
+KROQ Almost Acoustic Christmas
+Los Angeles, CA
+
+
+Source:  	SBD > 'Absolutely Live In Concert' show #03-14 CD silver >
+	 	EAC v0.95b04 > WAV > dED > FLAC
+
+Conversion:	CD Wave used for tracking
+		SoundForge 5.0 for editing/crossfades
+
+01 Intro			[0:36]
+02 Light My Way			[4:51]
+03 Set It Off			[4:39]
+04 Gasoline			[5:32]
+05 Like a Stone			[5:00]
+06 Cochise			[4:24]
+07 Shadow on the Sun		[5:59]
+
+
+TRT:				[31:05]		
+
+WARNING: 
+Curse words have been edited out by Westwood One ... don't bitch
+
+Notes:
+Originally split on two tracks (t01-05 (t06-07), they have been crossfaded together.  This
+should be an upgrade from the webcast and the FM source (which was recorded from a radio 
+broadcast of this 'Absolutely Live' promo in April 2003).
+
+
+Extracted, edited, converted, and unleashed by NMC (db.etree.org/nomorecrackpipes) 12/1/04

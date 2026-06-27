@@ -1,0 +1,105 @@
+Green Day
+2025-06-22 
+Forest Stage
+Hurricane Festival
+Eichenring, Scheeßel, Germany
+
+Lineage: magentamusik livestream -> N_m3u8DL-RE -> ffmpeg -> ts
+Video: MPEG-TS (H264) 1920x1080 16:9 7414 kbps 25.00 fps
+Audio: 126 Kbps 48.0 KHz stereo
+
+Setlist:
+American Idiot
+Holiday
+Know Your Enemy
+Fuck Off
+Boulevard of Broken Dreams
+One Eyed Bastard
+Look Ma, No Brains!
+Longview
+Welcome to Paradise
+Hitchin' a Ride
+Brain Stew
+St. Jimmy
+Dilemma
+21 Guns
+Minority
+Basket Case
+When I Come Around
+Wake Me Up When September Ends
+Jesus of Suburbia
+Bobby Sox
+Good Riddance (Time of Your Life)
+
+length: 01:37:02
+
+mediainfo:
+D:\index_2025-06-23_03-56-16\Green Day - 2025-06-21 Hurricane Festival, Eichenring, Scheebel, Germany.ts
+General
+ID                             : 1 (0x1)
+Complete name                  : D:\index_2025-06-23_03-56-16\Green Day - 2025-06-21 Hurricane Festival, Eichenring, Scheebel, Germany.ts
+Format                         : MPEG-TS
+File size                      : 5.11 GiB
+Duration                       : 1 h 37 min
+Overall bit rate mode          : Variable
+Overall bit rate               : 7 541 kb/s
+Frame rate                     : 25.000 FPS
+
+Video
+ID                             : 256 (0x100)
+Menu ID                        : 1 (0x1)
+Format                         : AVC
+Format/Info                    : Advanced Video Codec
+Format profile                 : High@L4.2
+Format settings                : CABAC / 4 Ref Frames
+Format settings, CABAC         : Yes
+Format settings, Reference fra : 4 frames
+Codec ID                       : 27
+Duration                       : 1 h 37 min
+Bit rate mode                  : Variable
+Maximum bit rate               : 7 200 kb/s
+Width                          : 1 920 pixels
+Height                         : 1 080 pixels
+Display aspect ratio           : 16:9
+Frame rate                     : 25.000 FPS
+Standard                       : Component
+Color space                    : YUV
+Chroma subsampling             : 4:2:0
+Bit depth                      : 8 bits
+Scan type                      : Progressive
+Time code of first frame       : 21:55:40:10
+Color range                    : Limited
+Color primaries                : BT.709
+Transfer characteristics       : BT.709
+Matrix coefficients            : BT.709
+
+Audio
+ID                             : 257 (0x101)
+Menu ID                        : 1 (0x1)
+Format                         : AAC LC
+Format/Info                    : Advanced Audio Codec Low Complexity
+Format version                 : Version 4
+Muxing mode                    : ADTS
+Codec ID                       : 15-2
+Duration                       : 1 h 37 min
+Bit rate mode                  : Variable
+Channel(s)                     : 2 channels
+Channel layout                 : L R
+Sampling rate                  : 48.0 kHz
+Frame rate                     : 46.875 FPS (1024 SPF)
+Compression mode               : Lossy
+Delay relative to video        : 62 ms
+Language                       : German
+
+Menu
+ID                             : 4096 (0x1000)
+Menu ID                        : 1 (0x1)
+Format                         : AVC / AAC
+Duration                       : 1 h 37 min
+List                           : 256 (0x100) (AVC) / 257 (0x101) (AAC, German)
+Language                       :  / German
+Service name                   : Service01
+Service provider               : FFmpeg
+Service type                   : digital television
+
+

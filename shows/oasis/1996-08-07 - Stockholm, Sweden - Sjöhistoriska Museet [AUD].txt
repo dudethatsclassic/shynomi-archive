@@ -1,0 +1,59 @@
+Oasis 1996-08-07 Stockholm, Sjöhistoriska Museet
+
+Source:		2xSony ECM-101 > Sony TCD-D3 (@48kHz, Mic-In)
+
+Transfer:	Sony TCD-D8 > 7-pin optical > M-Audio CO2 > Coax > 
+		M-Audio Audiophile 2496 > Wavelab V5.01b (16/48) > 
+		Voxengo r8brain v1.9 (resample to 16/44.1) > 
+		CD Wave Editor V1.98 > FLAC v1.2.0a (Level0) > 
+		Tag and Rename v3.5.238.447 RC1
+		
+Editing:    	Volume boost, fades & mastering in Steinberg WaveLab V5.01b
+
+Recorded, transfered, mastered & seeded by Jofa
+
+
+CD1:
+
+01. The Swamp Song			[02:40.57]
+02. Columbia 				[04:40.12]
+03. Acquiesce 				[04:05.21]
+04. Supersonic 				[05:20.45]
+05. Hello 				[03:09.47]
+06. Some Might Say 			[06:03.47]
+07. Roll With It 			[04:24.62]
+08. Slide Away 				[06:30.60]
+09. Morning Glory 			[05:09.57]
+10. Round Are Way / Up In The Sky 	[04:57.10]
+11. Cigarettes & Alcohol 		[05:16.45]
+12. Fade Track				[00:10.00]
+
+Total:					[52:29.13]
+
+
+CD2:
+
+01. Fade Track				[00:10.00]
+02. Whatever 				[06:08.66]
+03. Cast No Shadow 			[04:33.18]
+04. Wonderwall 				[04:31.62]
+05. The Masterplan 			[05:26.68]
+06. Don't Look Back In Anger 		[04:55.26]
+07. My Big Mouth 			[05:29.08]
+08. It's Gettin' Better (Man!!) *	[05:31.11]
+09. Live Forever 			[04:27.28]
+10. Encore Break			[02:15.09]
+11. Champagne Supernova 		[09:12.41]
+12. I Am The Walrus 			[08:17.33]
+
+Total:					[60:58.70]
+
+* - Small cut due to battery change
+
+
+Transfered, mastered & tracked 2010-01-22
+
+************************************************** 
+NEVER SELL!! 
+NEVER ENCODE TO LOSSY FORMATS!! 
+**************************************************

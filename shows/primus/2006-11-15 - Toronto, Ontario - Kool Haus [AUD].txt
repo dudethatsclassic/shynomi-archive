@@ -1,0 +1,50 @@
+Primus
+11/15/2006
+Kool Haus
+Toronto, ON
+Canada
+
+Source: Akg 481 > Lunatec V2 > Dap1 @44.1khz (Left Front corner of SBD)
+
+Transfer: Sony DTC690 > Audioquest Optilink1 > Sek'd Prodif Plus > Samplitude V5.5 >
+wav > Cdwav 1.71> Flac frontend @ highest setting
+
+Taped and transferred by: Sparki
+
+01: Intro:
+02: Those Damned Blue Collar Tweekers
+03: Here Come the Bastards*
+04: Sgt. Baker
+05: American Life
+06: Seas of Cheese
+07: Mr. Krinkle
+08: De Anza Jig
+09: Nature Boy
+
+Disc 2:
+
+01: Mary the Ice Cube (Instrumental)
+02: My Name is Mud
+03: Harold of the Rocks
+04: Encore Break - Crowd
+05: Wynona's Big Brown Beaver
+
+* - cut short due to someone throwing crap on stage
+
+
+Flac fingerprints: 
+
+primus2006-11-15d1t01.flac:7431ad71b92e39eed2a9036d62af7fbe
+primus2006-11-15d1t02.flac:c86eeed56d5d18f4393f691607d18b0e
+primus2006-11-15d1t03.flac:9842346e66cdc7acc872d9585b7eceea
+primus2006-11-15d1t04.flac:371201987d32a9bbc0e459a57d1abd53
+primus2006-11-15d1t05.flac:0b55d040ecb46b7f68caa6da57a4607b
+primus2006-11-15d1t06.flac:8a70cce295191dfd0294d845766a1e4b
+primus2006-11-15d1t07.flac:97b146014b62d5d24add420673dae689
+primus2006-11-15d1t08.flac:c94cddbd4e1d3cae0293b5060dcf0499
+primus2006-11-15d1t09.flac:f527bbe8851f4f8afb67485e59a21684
+primus2006-11-15d2t01.flac:12f4c6b12252a87ebcea162f3d4a36cb
+primus2006-11-15d2t02.flac:c832f612fc81846127d5af76a0700665
+primus2006-11-15d2t03.flac:c30ed38ade2cb2f2124a65d8dc34d52c
+primus2006-11-15d2t04.flac:3eefc0ed396556f14daa27334269286d
+primus2006-11-15d2t05.flac:1dcd5007f3bd530c9e866463172fb564

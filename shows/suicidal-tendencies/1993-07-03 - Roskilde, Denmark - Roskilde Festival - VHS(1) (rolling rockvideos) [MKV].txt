@@ -1,0 +1,92 @@
+Suicidal Tendencies - Roskilde Festival, Denmark 1993.07.03 #AMT 1st Gen MKV/Flac Audio
+
+Source:
+1st Gen VHS From The Rolling Rockvideos Collection
+Transfer:
+2022 By TravisBickle1963
+
+Tech:
+Panasonic NV HS950 > Datavideo TBC3000 > BlackMagic Intensity Pro > VirtualDub > AVI [UtVideo/48khz/16-Bit/PCM]
+> x264.exe 0.152.2851 ba24899 > Audacity 2.3.3 > MKVToolNix GUI v72.0.0 > MKV
+
+ Tracklist:
+
+01 - You Can't Bring Me Down
+02 - Join the Army
+03 - War Inside My Head
+04 - Accept My Sacrifice
+05 - I Want More
+06 - Lovely
+07 - Subliminal
+08 - I Saw Your Mommy
+09 - Waking the Dead
+10 - Send Me Your Money
+11 - How Will I Laugh Tomorrow
+12 - Pledge Your Allegiance
+
+
+**Uploaded To Dime 1st January 2023**
+
+
+**I Transfer Master Video Tapes Any Format Any Region**
+
+
+**PLEASE DO NOT ENCODE TO LOSSY FORMATS OR SELL! SUPPORT THE ARTISTS AND BUY OFFICIAL PRODUCT**
+
+
+Suicidal Tendencies - Roskilde Festival, Denmark 1993.07.03.mkv
+
+Format                                   : Matroska
+Format version                           : Version 4
+File size                                : 3.41 GiB
+Duration                                 : 56 min 8 s
+Overall bit rate mode                    : Variable
+Overall bit rate                         : 8 695 kb/s
+Encoded date                             : UTC 2023-01-01 09:23:12
+Writing application                      : mkvmerge v72.0.0 ('Minuano (Six-eight)') 64-bit
+Writing library                          : libebml v1.4.4 + libmatroska v1.7.1
+
+Video
+ID                                       : 1
+Format                                   : AVC
+Format/Info                              : Advanced Video Codec
+Format profile                           : High@L3
+Format settings                          : CABAC / 4 Ref Frames
+Format settings, CABAC                   : Yes
+Format settings, Reference frames        : 4 frames
+Codec ID                                 : V_MPEG4/ISO/AVC
+Duration                                 : 56 min 8 s
+Bit rate                                 : 8 108 kb/s
+Width                                    : 720 pixels
+Height                                   : 576 pixels
+Display aspect ratio                     : 4:3
+Original display aspect ratio            : 4:3
+Frame rate mode                          : Constant
+Frame rate                               : 25.000 FPS
+Standard                                 : PAL
+Color space                              : YUV
+Chroma subsampling                       : 4:2:0
+Bit depth                                : 8 bits
+Scan type                                : MBAFF
+Scan type, store method                  : Interleaved fields
+Scan order                               : Top Field First
+Bits/(Pixel*Frame)                       : 0.782
+Stream size                              : 3.18 GiB (93%)
+Writing library                          : x264 core 155 r2901 7d0ff22
+
+Audio
+ID                                       : 2
+Format                                   : FLAC
+Format/Info                              : Free Lossless Audio Codec
+Codec ID                                 : A_FLAC
+Duration                                 : 56 min 8 s
+Bit rate mode                            : Variable
+Bit rate                                 : 585 kb/s
+Channel(s)                               : 2 channels
+Channel layout                           : L R
+Sampling rate                            : 48.0 kHz
+Frame rate                               : 11.719 FPS (4096 SPF)
+Bit depth                                : 16 bits
+Compression mode                         : Lossless
+Stream size                              : 235 MiB (7%)
+Writing library                          : libFLAC 1.3.1 (UTC 2014-11-25)

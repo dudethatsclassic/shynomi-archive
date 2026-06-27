@@ -1,0 +1,43 @@
+SOUNDGARDEN
+February 12, 1989
+I-Beam
+San Francisco, CA, USA
+
+Source: soundboard audio
+Lineage: CD ("Nosebleed")> CDR1 > WAV [EAC secure mode] > CDWave [tracksplit of "Thank You" and "Flower" > FLAC [8]
+Time: 55:07
+Quality: 8.0/10
+
+disc one: 
+1. Hunted Down
+2. All Your Lies
+3. Mood For Trouble
+4. Gun
+5. Thank You
+6. Flower
+7. I Awake
+8. Kingdom of Come
+9. Head Injury
+10. Circle of Power
+11. Incessant Mace
+12. encore break
+13. jam > Earache My Eye
+
+Notes: This is an excellent-sounding soundboard audio from early 1989. There's a lot of reverb on Chris' voice and 
+his guitar doesn't seemed to be mixed all that loudly, but Kim comes through loud (and I mean LOUD) and clear. This is 
+a fantastic show with TONS of energy and Soundgarden at the top of their game. Highly recommended. 
+
+Fingerprints:
+01 - hunted down.flac:90e4651db9a3ff226e6e86f044709a58
+02 - all your lies.flac:c7e6a8dbb392f621dc4be4befda867ad
+03 - mood for trouble.flac:d13acac8095036743df788aef38b43a0
+04 - gun.flac:85f365478bcbdb9503ddbfbb2936a5ef
+05 - thank you.flac:696f7148ea945b8beb63e38da7e70c23
+06 - flower.flac:a5d4c44d451107c0e0fab196ca411535
+07 - i awake.flac:3a696d5cead4990bfac3de2e82fc4e1b
+08 - kingdom of come.flac:17147bf220490a6bac5d885e15f04f85
+09 - head injury.flac:3794aeba1678dd8aa0fccc3389c9f8f9
+10 - circle of power.flac:1b824f8fce0d090c57242cd423ef1e3e
+11 - incessant mace.flac:2615de938657a03ccd11fbc700511fcd
+12 - encore break.flac:707b648b4aee4f7d6a1ea47d3bdb5259
+13 - earache my eye.flac:8e4d615e4933bb6287aba2eb69c391cb

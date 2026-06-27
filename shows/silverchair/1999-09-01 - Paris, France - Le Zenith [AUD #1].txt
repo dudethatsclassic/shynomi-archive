@@ -1,0 +1,50 @@
+SILVERCHAIR
+September 01, 1999
+Le Zénith
+Paris, FR
+
+DISC #1/1 (48:35)
+-----------------
+01) Israel's Son
+02) Emotion Sickness
+03) Slave
+04) Pure Massacre
+05) Ana's Song (Open Fire)
+06) Miss You Love
+07) Madman
+08) The Door (cut)
+09) Freak
+10) Anthem For The Year 2000
+11) Ana's Song (Open Fire) (acoustic)
+
+GENERATION
+-----------------
+ANA(x) -> CDR(x) -> WAV [44.1kHz] -> FLAC [Level 8]
+
+SOURCE
+-----------------
+unknown -> unknown
+
+TRANSFER
+-----------------
+Unknown -> Exact Audio Copy v 0.95 BETA -> FLAC Frontend 1.7.1
+
+NOTES
+-----------------
+- The "glitches" on Freak, Anthem For The Year 2000, Ana's Song (Open Fire) (acoustic) and the cut in The Door are due to CDR damage.
+
+MD5 FINGERPRINTS
+-----------------
+2cfe198e987324604e8ea67e3cea69f5 *silverchair1999-09-01t01.flac
+f6cce9c5cff463e0ae6ef4634027bd8b *silverchair1999-09-01t02.flac
+421c76d98c22131171978d3df6c42939 *silverchair1999-09-01t03.flac
+3cd8ccf17bbe44518f6d27bf7fbdf134 *silverchair1999-09-01t04.flac
+5ee1d5567f2b5a7ace885eb0ff7a7873 *silverchair1999-09-01t05.flac
+793c7764e6df93f31347d1d03f1951e4 *silverchair1999-09-01t06.flac
+23c35de05fb2a937db950c2c7ec09c15 *silverchair1999-09-01t07.flac
+afafc7af43f7f2f72d8e8244aa14fca5 *silverchair1999-09-01t08.flac
+8601225f357715bfa26171386aa81946 *silverchair1999-09-01t09.flac
+caeb9995a1fd9fce4103950da2963364 *silverchair1999-09-01t10.flac
+aa557a34e895f6f65686ac000ab2b15c *silverchair1999-09-01t11.flac
+
+PLEASE DO NOT ENCODE TO MP3 OR SELL!

@@ -1,0 +1,4 @@
+Swervedriver1998-05-08Live At The Wireless, JJJ Studios, Melbourne, AustraliaSource: FM DAT master @32kHz LP mode > DAT clone (still at 32kHz)Transfer (2006): Otari DTR-8S>Hosa coax>Calrad 10-110>Hosa OPM-330>2x2.5 G5>Audio Recorder 1.4>Audacity 1.2.4>xACT 1.5b4>flac8w/verify (single Flac file)
+Preparation for torrenting (2023-04-02): Audacity (amplify, track splits, resample to 44.1kHz) > xAct (fix sbe, tags, flac8)1 Behind The Scenes Of The Sounds And The Times2 The Birds3 She Weaves A Tender Trap4 Blowin' Cool5 In My Time6 Wrong Treats7 Last Train To Satansville8 announcer outro(30:46)
+
+Shared on Dime on 1998-04-01 by Aaron (supahstah)

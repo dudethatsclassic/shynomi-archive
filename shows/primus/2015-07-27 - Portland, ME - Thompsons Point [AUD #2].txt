@@ -1,0 +1,53 @@
+Primus
+Monday July 27th 2015
+Thompson's Point
+Portland ME USA
+
+Taper:  LeifH
+Source 2:  CSB (filter) > Sony PCM M10 @ 24/48 > Lexar 16GB microSD card 
+Transfer:  Memory card > PC via USB > Wavepad Master's Edition (edits, amplify, tracking, downsample to 16/44.1) > flac(8) via Frontend
+
+Setlist:  1:42:56
+00 intro
+01 Those Damned Blue-Collar Tweekers
+02 Fisticuffs
+03 Moron TV
+04 Groundhog's Day
+05 American Life
+06 Over the Falls
+07 Lee Van Cleef
+08 Oompa Augustus
+09 Mr. Krinkle
+10 Jilly's on Smack
+11 Wynona's Big Brown Beaver
+12 Southbound Pachyderm
+13 Jerry Was a Race Car Driver
+
+14 Too Many Puppies
+
+My 17th Primus show.  The weather was great and the performance was too.  This is a brand new venue, I think this show was the second or third ever to take place.  Its sort of an industrial area and there's a retired warehouse on the property.  One thing I noticed right away is, you could easily sneak in by kayak.  There's also a grassy bank on the side of the highway (stage left) that would be perfect to film from (for free).  
+
+I was there early and was one of the first in line as the gates opened.  On the way in there was a pat-down.  The dude who was doing the patting in my line was being very...thorough.  I actually brought 2 recorders and 2 sets of mics and 2 battery boxes to this show.  So I was bringing double my usual amount in for a stealth show.  The security dude was doing his job a little too well and touched one of the recorders.  He immediately stopped the pat-down and waved me through with an awkward look on his face.  I'm sure glad it turned out the way it did and I got in the venue without trouble or someone offering me a phone number!  Haha
+
+Les sang a bit of Hello My Baby before Moron TV.  The night before this I went to see Weird Al Yankovic at the Maine State Pier.  Towards the end of that show, I saw Les Claypool and son Cage leaving the Pier.  He mentions attending Weird Al and eating a couple lobster rolls around Portland.  The setlist from this night also has a lobster roll reference.  During Over the Falls, Les introduced Ler's new Shark Guitar that they got while in Portland.  It turned into a pretty funny bit. Before Lee Van Cleef, Les teased I Am On My Way.  Les played some seriously messed up shit before Wynona's Big Brown Beaver.  At one point there was a drone flying around with a little camera attached to it.  
+
+I would say this is the better of my two recordings I made this night.  For the opening bands I only used this rig.  The other Primus recording I did turned out pretty good too, but this one is better.  The performance this night was also above average by my estimate.  I noticed Ler and Shane LaLonde checking out GOASTT from the front-of-house sound tent.
+
+I was staying on the border of Portland and Westbrook.  I walked 4 miles each way to and from the show.  Not because I had to,  I could have caught a bus or a cab.  It was just a nice day and I got a good look at some more of the city.
+
+fingerprints:
+00 - intro.flac:83aea9c8183191ddc67a2ac758de690c
+01 - Those Damned Blue-Collar Tweekers.flac:5299a7300559d0563ca888841a59c7aa
+02 - Fisticuffs.flac:1689230131ff3926cb8a63eef6c58b72
+03 - Moron TV.flac:76aeab593e88c2496cb87eeb7f4c6a24
+04 - Groundhog's Day.flac:04fea30546e15f8bcfbd244467071b38
+05 - American Life.flac:5fc0b330f3ae1e1d1de28889d011a029
+06 - Over the Falls.flac:e97bab73dc23318076f84ab97a98bbb4
+07 - Lee Van Cleef.flac:b66326f330d830feae7b4bed69555472
+08 - Oompa Augustus.flac:ec748cb558b4e107d4d420ea50275f32
+09 - Mr. Krinkle.flac:7beed31eefa0db5cc9b6ee6fb6e95337
+10 - Jilly's on Smack.flac:26df642e38183937f0b5b50f5cd43a56
+11 - Wynona's Big Brown Beaver.flac:a0a6adbf690624140dc9b6289a107988
+12 - Southbound Pachyderm.flac:8ef672359c4475ba880bd852dfcdc9f3
+13 - Jerry Was a Race Car Driver.flac:f356c5ac2ea7dfc8adb126e4840eb935
+14 - Too Many Puppies.flac:8228c906b72ac1b779f2cbcb300debfa

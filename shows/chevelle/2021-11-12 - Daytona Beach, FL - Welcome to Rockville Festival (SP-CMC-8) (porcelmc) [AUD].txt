@@ -1,0 +1,52 @@
+Chevelle
+November 12, 2021
+Daytona Beach, Florida USA
+Welcome to Rockville Festival at the Daytona International Speedway
+Lineage: SP-CMC-8(AT8538 Mod)>CA-UGLY II>Edirol R-05>PC>CDWAVE>Adobe Audition>FLAC
+Taped by: Porcelmc 
+
+_____________________________________________________________
+
+Setlist - Chevelle
+
+01. Intro
+02. An Island
+03. Door to Door Cannibals
+04. Self Destructor
+05. Vitamin R (Leading Us Along)
+06. Joyride (Omen)
+07. Face to the Floor
+08. Verruckt
+09. The Clincher
+10. Send the Pain Below
+11. The Red
+12. Mars Simula 
+
+_____________________________________________________________
+
+Notes:
+
+N/A
+
+_____________________________________________________________
+
+Sample: 
+
+https://youtu.be/7DpQSvBX8oI
+
+ST5 Hash File:
+
+d3b98114eec00e1d6c636c93d6155ded  [shntool]  01_Intro .flac
+ee24acbe1a7b3c36f74068225c2b26d2  [shntool]  02_An Island.flac
+78c02735a43d0ad13e62701b13594994  [shntool]  03_Door to Door Cannibals.flac
+3d5cf354da2b53c970166db0363b9898  [shntool]  04_Self Destructor.flac
+238caaf6b31a4a0e12b3d31383bdc9ad  [shntool]  05_Vitamin R (Leading Us Along).flac
+e65ddbc7d01f90543a8eaeca92eaa996  [shntool]  06_Joyride (Omen).flac
+be19cd44d19cb6c1381c58e21a1226c6  [shntool]  07_Face to the Floor.flac
+d3ff02aefc31ee4b8a349277e5a6fefb  [shntool]  08_Verruckt.flac
+b6c06ffa68cbf547af9a5cb5a4edb331  [shntool]  09_The Clincher.flac
+05bd46f744d910b8ca3e190e8229beba  [shntool]  10_Send the Pain Below.flac
+bd24ec64881ff79688ac1d6e375f3590  [shntool]  11_The Red.flac
+7b205406fa39593e5a5e8f93cb728bdc  [shntool]  12_Mars Simula.flac
+
+No errors occured.

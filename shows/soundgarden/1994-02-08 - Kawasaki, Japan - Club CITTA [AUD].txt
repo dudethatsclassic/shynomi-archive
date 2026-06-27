@@ -1,0 +1,55 @@
+SOUNDGARDEN
+February 08, 1994
+Club CITTA
+Tokyo, Japan
+
+Source: DAT audience audio [Sony ECM-717 > Sony TCD-D7]
+Lineage: AUD>Sony ECM-717 > Sony TCD-D7>DATx>CDRx>WAV [EAC secure]>FLAC [8]
+Time: 98:01
+Quality: 8.5/10
+
+
+disc 1: 
+1. Room a Thousand Years Wide
+2. Searching With My Good Eye Closed
+3. Flower
+4. Rusty Cage
+5. I Awake
+6. Hands All Over
+7. Face Pollution
+8. Gun
+9. Fell on Black Days
+10. Hunted Down
+
+disc 2:
+1. jam > Spoonman
+2. Beyond the Wheel
+3. Get on the Snake
+4. Somewhere
+5. Mind Riot
+6. New Damage
+7. Jesus Christ Pose
+8. Slaves and Bulldozers
+
+Notes: Awesome setlist. The band described this show as being pretty lackluster due to an extremely quiet crowd. 
+A pro-video also exists with an interview plus "Fell on Black Days" and "Spoonman".
+
+fingerprints:
+d1-01-Room A Thousand Years Wide.flac:6752473c5f7f88153a60a567fed4b860
+d1-02-Searching With My Good Eye Closed.flac:eed55377e5711bf09d29874f0da0ab95
+d1-03-Flower.flac:02911b44d853052f8b4d558f6ee3353b
+d1-04-Rusty Cage.flac:c068a163e4bf8cc19f0c2627dc7f4a54
+d1-05-I Awake.flac:fdc1c1e0aadea9387f5a29e6cd9c63a8
+d1-06-Hands All Over.flac:ceee7894aa5f6d109803dca95b6cc07a
+d1-07-Face Pollution.flac:8709197dcb070efced986bfff20b28f6
+d1-08-Gun.flac:feee6beaad283ad0eead94c16f4d0d29
+d1-09-Fell On Black Days.flac:ebd1cf0a9962f4f6e51ff76e08bd6c0b
+d1-10-Hunted Down.flac:85c61aab039c2f98c89a1153e601177f
+d2-01-Spoonman.flac:416c7a1d12a5ace88f304f04ee08ebf8
+d2-02-Beyond The Wheel.flac:5ca746e9508eb1d4b514e22af2a26ca2
+d2-03-Get On The Snake.flac:dd50ac6c67f00524b65467e0c6016a88
+d2-04-Somewhere.flac:af4ed9f9e820d251ecdf22119c43a165
+d2-05-Mind Riot.flac:2320e2a0ae4c6e2b62a106a9301c9207
+d2-06-New Damage.flac:cf3b8ba03167ee3f546748a85a3a2afa
+d2-07-Jesus Christ Pose.flac:d72a54fa4ffc6e054223bd34c03c7086
+d2-08-Slaves + Bulldozers.flac:0104d81c0bbd4ff4a9ae4cf740dd1777

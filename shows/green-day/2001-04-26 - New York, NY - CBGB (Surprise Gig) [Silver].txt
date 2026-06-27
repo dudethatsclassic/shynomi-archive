@@ -1,0 +1,48 @@
+Green Day
+"Surprise Gig At CBGB"
+04/26/01
+CBGB
+New York, New York
+
+
+Source: Silver CD (Peace Music 001)
+
+
+Conversion: Silver CD > EAC (Secure Mode) > WAV > Flac Frontend > Flac
+
+Extraction and Conversion by: jcrab66 (bootlegarchive@yahoo.com)
+                              http://bootlegarchive.com/jcrab66
+
+
+Setlist:
+
+01. Intro
+02. Only Of You
+03. Welcome To Paradise
+04. Going To Pasalacqua
+05. Coming Clean
+06. Who Wrote Holden Caulfield
+07. Longview
+08. Cover Song Medley
+09. 409 In Your Coffee Maker
+10. She
+11. Blood, Sex and Booze
+12. Scattered
+13. Minority
+
+
+Notes: This show sounds pretty good but in some places there is some noise. Sounds to me
+like whoever recorded this thing had their rig plugged into an unsynched power source but
+I'm not sure. EAC reported an error on extraction. The error is a "Suspicious Position" 
+error about 3:15 into track 11. During the track the band stops right before that point,
+theres some crowd noise then silence and they start playing what i believe is a completely
+different song even though its not listed on the track listing. If anyone who knows Green
+Day well can confirm this please send me an email so I can update the text file. Enjoy!
+
+
+
+Thanks to my friend Tom (KingReptile) for giving me this silver.
+
+
+***DO NOT ENCODE TO LOSSY FORMATS (MP3,OGG,Etc..) AND SHARE***
+***DO NOT SELL***

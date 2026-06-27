@@ -1,0 +1,42 @@
+Rage Against The Machine
+October 28, 1993
+The Concert Hall
+Toronto, ON, Canada
+
+Source: stock mics > Aiwa/Sanyo portable cassette recorder > Maxell XLII Cass(m)
+Transfer: Yamaha KX-650 3-Motor/3-Head Closed Loop Dual Capstan Cassette Deck > Hosa Cables > EMU0404 > CEP2.1 (recording, cutting, nofx) > FLAC (level 8, verify enabled)
+Taper: Andymon
+Transfer: Five
+
+01. Bombtrack
+02. Wake Up
+03. The People Of The Sun
+04. Fistful Of Steel
+05. Take The Power Back
+06. Hadda Been Playing On The Jukebox
+07. Know Your Enemy
+
+Notes: Transferred Feb 2007. Last track cuts off suddenly. Thanks to Andymon for providing the source.
+
+****************************
+NOT FOR SALE!!! TRADE ONLY!!
+MP3 ONLY FOR PERSONAL USE!!!
+****************************
+
+75b7a451781c4cbab007eea6f90048c2  [shntool]  ratm1993-10-28t01.flac
+31b9b19f6ea9021f599f17ca161a31d3  [shntool]  ratm1993-10-28t02.flac
+a55d3240122ffa79f671358b197a58c8  [shntool]  ratm1993-10-28t03.flac
+57534c70bade1b505e1b007235a0d06b  [shntool]  ratm1993-10-28t04.flac
+cb5f97ce334631888ab184f89cb5ac16  [shntool]  ratm1993-10-28t05.flac
+6d5132d74720c6227e6c33fe87546904  [shntool]  ratm1993-10-28t06.flac
+caf29695f8756d78086c3f77e1720db2  [shntool]  ratm1993-10-28t07.flac
+
+    length     expanded size   cdr  WAVE problems filename
+     5:40.48       60088940    ---   --   ---xx   ratm1993-10-28t01.flac
+     8:25.51       89201996    ---   --   ---xx   ratm1993-10-28t02.flac
+     2:45.74       29280092    ---   --   ---xx   ratm1993-10-28t03.flac
+     6:35.41       69774476    ---   --   ---xx   ratm1993-10-28t04.flac
+     7:05.06       74984156    ---   --   ---xx   ratm1993-10-28t05.flac
+    13:02.46      138053036    ---   --   ---xx   ratm1993-10-28t06.flac
+     4:00.37       42423068    ---   --   ---xx   ratm1993-10-28t07.flac
+    47:36.03      503805764 B                     (totals for 7 files, 0.6894 overall compression ratio)

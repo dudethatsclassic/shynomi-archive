@@ -1,0 +1,30 @@
+Primus
+Charlotte Metro Credit Union Amphitheatre
+Charlotte, NC
+Monday July 17, 2017
+
+Taper:		George Wang <gewwang@yahoo.com>
+Source:		DPA 4028 > Sound Devices MixPre-3 @ 24/96
+Location:	GA Pit, 5 feet stage right
+
+WAV > FLAC:	.wav @ 24/96 > Audacity 2.1.2
+
+01: Intro				-	01:39.20
+02: Too Many Puppies > Sgt. Baker	-	06:20.00
+03: Moron TV				-	06:41.40
+04: Groundhog's Day			-	08:14.00
+05: Frizzle Fry				-	07:48.55
+06: Jilly's On Smack			-	10:31.20
+07: Mr. Krinkle				-	06:16.55
+08: Those Damned Blue-Collar Tweekers	-	09:16.00
+09: Golden Boy				-	03:16.00
+10: Intro >				-	01:37.35
+11: Seven				-	03:25.00
+12: Over The Electric Grapevine		-	08:51.60
+13: My Name Is Mud			-	06:12.15
+14: Jerry Was A Race Car Driver		-	05:03.40
+15: Southbound Pachyderm		-	12:50.00
+
+Total:					-	98:03.40
+
+compiled by George Wang on 07-29-2017

@@ -1,0 +1,36 @@
+Green Day Live At Hyde Park 07-01-2017 Radio Broadcast
+
+
+Broadcasted on Absolute Radio on 07-13-2017.
+Recording Lineage: Thinkpad P50 (PureVPN connected to the UK) AAC128kb/s webstream -> USB -> Onkyo ND-S1 -> Optical Out -> Okyo TX 8020 -> Tape Out -> Line-IN -> Desktop PC -> Adobe Audition -> Wave (44.1Khz, 16bit).
+Sadly the lossless stream of Absolute Radio wasn't available at the moment of the broadcast. 
+
+
+Radio station used some sort of compression, to make it sound "nice" overall. Also swearing is completely muted. This could suggest that Green Day recorderd the show itself, and the radio station does not have the multitracks. 
+The songs are in different order than the setlist, kept it because the songs flow into each other. 
+
+Songs broadcasted: 
+
+1. Radio Intro 
+2. Basketcase
+3. Bang Bang
+4. Holiday 
+5. Revolution Radio 
+6. Boulevard of Broken Dreams
+7. Youngblood
+8. 21 Guns
+9. American Idiot
+10. Welcome To Paradise
+11. Ordinary World
+12. Good Riddance
+
+Effects in Audition used: 
+-------------------------
+Fade in at Intro
+Fade out at Good Riddance
+
+Dynamics Processing Stereo Rockmix 
+Mastering Mid Enhancer 
+
+
+Enjoy!

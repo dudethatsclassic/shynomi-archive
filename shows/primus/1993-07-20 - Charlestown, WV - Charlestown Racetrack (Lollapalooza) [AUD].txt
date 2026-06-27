@@ -1,0 +1,15 @@
+Primus
+Charlestown Racetrack, Charlestown WV
+July 20, 1993
+
+Lollapalooza III
+
+a 'billydee' DAT Master tape
+
+recording gear:
+Sonics > Sony D7 DAT Master @ 16bit/48kHz
+
+processing:
+DAT Master > Tascam DA20 > JB3 > Adobe Audition > CDWAV > TLH FLAC 8
+
+these are 16bit/48kHz flac files

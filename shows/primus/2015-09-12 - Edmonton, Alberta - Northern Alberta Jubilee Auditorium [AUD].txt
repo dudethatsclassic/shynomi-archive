@@ -1,0 +1,82 @@
+Primus & the Chocolate Factory
+Saturday September 12th 2015
+Northern Alberta Jubilee Auditorium
+11455 87 Ave NW
+Edmonton AB Canada
+
+Taper:  LeifH
+Source:  CA-11 (cardioid) > CA-Bat2B > Sony PCM M10 @ 24/48 > Duracell 8GB microSD card
+Transfer:  Memory card > PC via USB > Wavepad Master's Edition (edits, amplify, tracking, downsample to 16.44.1) > flac (8) via Frontend
+
+Set  I:  1:02:28
+00 intro
+01 Those Damned Blue-Collar Tweekers
+02 The Last Salmon Man
+03 The Toys Go Winding Down
+04 American Life
+05 Over the Falls
+06 Lee Van Cleef
+07 drums and whamola
+08 Eleven
+09 Jerry Was a Race Car Driver
+
+Set II:  1:07:48
+10 Hello Wonkites
+11 Candy Man
+12 Cheer Up, Charlie
+13 Golden Ticket
+14 Lermaninoff
+15 Pure Imagination
+16 Oompa Augustus
+17 Semi-Wondrous Boat Ride
+18 Oompa Violet
+19 Wonkamobile, Wonkavision
+20 Oompa Veruca
+21 I Want It Now
+22 Oompa TV
+23 Farewell Wonkites
+
+24 Too Many Puppies >
+25 Is It Luck? >
+26 Wynona's Big Brown Beaver
+27 Here Come the Bastards
+
+My 21st Primus show.  I had seen them a little over two years prior in the same venue, and had almost the exact same seats.  I also got really good video of this entire show.  As with the last time here, the crowd stayed seated the entire time, less the encore.  That makes for a weird, relaxed Primus show, as well as great video angles.  
+
+Fun fact: this was also the date of Ler's birthday.  Les mentions it during Over The Falls.  Claypool teased The Bridge Came Tumblin' Down before Lee Van Cleef which was appropriate given that Stompin' Tom is from Alberta.  There was a little improv jam before they played Jerry Was A Race Car Driver.  The setlist has them playing My Name Is Mud second to last in the first set but they never did.  I think that was the case because they were approaching the scheduled intermission, during which the stage curtain is lowered while the second set is prepared.  
+
+This was the 4th time I saw the Chocolate Factory show.  It has grown on me a lot since the first show.  They were recording audio of the second set, with mics on stage facing the audience.  
+
+For the encore, Les offered either a spacey or a zippy ditty, meaning Southbound Pachyderm or Wynona's Big Brown Beaver.  Someone in the front row shouted, "Is It Luck?" which Les said they could do.  There was a vote and Wynona's Big Brown Beaver won.  Les started playing Too Many Puppies, which segued into Is It Luck? and finally Wynona's Big Brown Beaver.  Here Comes The Bastards featured the Fungi Ensemble, as with the second set of course.  
+
+The next morning, I was flying back home to Vancouver.  I was waiting at my gate with a few minutes before boarding.  I saw manager Brad Sands walk up to the window near my seat.  Looked around and there was Tim Alexander getting ready to board.  I talked to him for a bit and suggested he play The 'Ol Diamond Back Sturgeon, and mentioned being at the Boston show in July at which he played the drum part in the beginning of his solo.  Ler was also on the flight, but no Les.  
+
+fingerprints:
+00 - intro.flac:d60cb16168cb9da3c485688f37e111f9
+01 - Those Damned Blue-Collar Tweekers.flac:30b061d2f65386d45678e2a3a0b76743
+02 - Last Salmon Man.flac:caf48e8a58cd861ac049653a5bcb150d
+03 - The Toys Go Winding Down.flac:8530938dddede5c48b2a7bb1f01670b5
+04 - American Life.flac:363991bcca04947214fc71eb2e2d6cce
+05 - Over the Falls.flac:13f09dc0ba9c53d8153a9582ae4a3994
+06 - Lee Van Cleef.flac:a1c1f48ade1d5d501396cc38825450b1
+07 - drums and whamola.flac:f99605a93aab8efefa5c5f8354157997
+08 - Eleven.flac:3538cdf1386da05227e76396b67a88b0
+09 - Jerry Was a Race Car Driver.flac:eb6a8d48e8d47460aaff0fe263c6cd03
+10 - Hello Wonkites.flac:bc9986f2078dd0738f6b7befdcfe64f7
+11 - Candy Man.flac:ad477d031115e5d06eb6b23f4c31be62
+12 - Cheer Up, Charlie.flac:174fba59fae81f046193d4f8ee8834c1
+13 - Golden Ticket.flac:798c2032d30fbf510dc2bb2102f7adc3
+14 - Lermaninoff.flac:366003d4628a6a5bc0baaf8f2444f416
+15 - Pure Imagination.flac:b3d32e7c8c1068581c150838e69ffd2d
+16 - Oompa Augustus.flac:fce3f4fe4f46fa518fb413c52abe6f35
+17 - Semi-Wondrous Boat Ride.flac:fd00a9982fafc95f98ff76b610888ee9
+18 - Oompa Violet.flac:98cc57cac9fb3277bf8e33461a5ed7bf
+19 - I Want It Now.flac:a42f1a50f42cb951612ca22954b80b98
+20 - Oompa Veruca.flac:711174f5fafa4fba37bdc890df138479
+21 - Wonkamobile, Wonkavision.flac:9b3353e4f106e077aec9176447463d6c
+22 - Oompa TV.flac:9addc4c44aa85dd8c99fae24cd2f2e5a
+23 - Farewell Wonkites.flac:bc436a69fd3bf2a55b5523330910f5f0
+24 - Too Many Puppies.flac:a387612aa629174f4afeb066c7b03cd7
+25 - Is It Luck.flac:3c8c7652ee4992e6ed960a708fd4da6b
+26 - Wynona's Big Brown Beaver.flac:b9ff69c988b5b12aa69fe02f8ddbc16d
+27 - Here Come the Bastards.flac:94323bd5b9639b3ec8ddcebbdc4f1924

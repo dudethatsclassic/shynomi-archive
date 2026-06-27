@@ -1,0 +1,30 @@
+foobar2000 1.4.6 / Dynamic Range Meter 1.1.1
+log date: 2019-07-15 21:20:39
+
+--------------------------------------------------------------------------------
+Analyzed: Slowdive / 1991-10-01 Junction, Cambridge
+--------------------------------------------------------------------------------
+
+DR         Peak         RMS     Duration Track
+--------------------------------------------------------------------------------
+DR1       -2.26 dB    -4.57 dB      4:29 01-Spanish Air
+DR2       -2.26 dB    -4.43 dB      4:01 02-Catch the Breeze
+DR2       -2.26 dB    -5.45 dB      3:25 03-Bleed
+DR1       -2.26 dB    -4.52 dB      4:14 04-Primal
+DR1       -2.26 dB    -4.35 dB      5:18 05-Slowdive
+DR2       -2.26 dB    -4.58 dB      4:48 06-Morningrise
+DR2       -2.26 dB    -4.44 dB      5:29 07-She Calls
+DR2       -2.26 dB    -4.80 dB      4:44 08-Ballad of Sister Sue
+DR2       -2.26 dB    -4.41 dB      6:29 09-Avalyn
+--------------------------------------------------------------------------------
+
+Number of tracks:  9
+Official DR value: DR2
+
+Samplerate:        44100 Hz
+Channels:          2
+Bits per sample:   16
+Bitrate:           615 kbps
+Codec:             FLAC
+================================================================================
+

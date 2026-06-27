@@ -1,0 +1,62 @@
+Primus - A Tribute To Kings
+September 22nd, 2021 (Wednesday)
+Michigan Lottery Amphitheatre at Freedom Hill
+Sterling Heights, Michigan
+
+Recorded by Blue Tweeker
+
+Source:  Sennheiser Ambeo Binaural Headset > iPhone > Apogee MetaRecorder 
+Transfer:  .WAV via Google Drive > iZotope RX9 > Wavepad Masters Edition > flac (8) via TLH
+
+Setlist:  02:14:02
+00 intro
+01 Those Damned Blue-Collar Tweekers > 
+02 Lacquer Head > 
+03 Those Damned Blue-Collar Tweekers
+04 Here Come the Bastards
+05 Eclectic Electric
+06 Too Many Puppies > 
+07 Sgt. Baker > 
+08 Too Many Puppies
+09 Jilly's on Smack
+10 Professor Nutbutter's House of Treats
+11 My Name is Mud > 
+12 Jerry Was a Racecar Driver > 
+13 My Name is Mud
+14 Over the Electric Grapevine
+15 A Farewell to Kings
+16 Xanadu
+17 banter
+18 Closer to the Heart
+19 Cinderella Man
+20 Madrigal
+21 Cygnus X-1
+-encore-
+22 Frizzle Fry
+23 Southbound Pachyderm
+
+fingerprints:
+Primus2021-09-22t00 - intro.flac:261e41e98726819e450206e3ad33e830
+Primus2021-09-22t01 - Those Damned Blue Collar Tweekers.flac:d3ae6343d9465cbb3542f9b46836f974
+Primus2021-09-22t02 - Lacquer Head.flac:f7d1b7282bb9706ccaba09be1fc5fca2
+Primus2021-09-22t03 - Those Damned Blue Collar Tweekers.flac:53bf8a5f7b2a42f123607487fc198258
+Primus2021-09-22t04 - Here Come the Bastards.flac:779bc59ac45a7f2f9bb25101fc294734
+Primus2021-09-22t05 - Eclectic Electric.flac:bf0e56b77e8c7d23727df2693dd220ea
+Primus2021-09-22t06 - Too Many Puppies.flac:00e867c3cec9c6bec9794a54e13484d7
+Primus2021-09-22t07 - Sgt Baker.flac:d3f6994c121b2438ef58b32053184426
+Primus2021-09-22t08 - Too Many Puppies.flac:6724d776e738bd6a0fbd78d75eea12a2
+Primus2021-09-22t09 - Jilly's on Smack.flac:2e643788bdc35fdd6de418050c0c8060
+Primus2021-09-22t10 - Professor Nutbutter's House of Treats.flac:cb837937888990ef1a34fe2fcf3806b3
+Primus2021-09-22t11 - My Name is Mud.flac:8c23a1bf9c5d3f46ef97b671acc1ac68
+Primus2021-09-22t12 - Jerry Was a Race Car Driver.flac:9852d7f3dc4335975dd6b51c5a8abb54
+Primus2021-09-22t13 - My Name is Mud.flac:b879f9ef5c006af1f7452586cb784a3b
+Primus2021-09-22t14 - Over the Electric Grapevine.flac:44d692658154f2d1b9e598701fe8ce48
+Primus2021-09-22t15 - A Farewell to Kings.flac:1d36779585269298e3a042cb9f0d9c5a
+Primus2021-09-22t16 - Xanadu.flac:a22d3de7cadcf712b80fd871eaa7bb43
+Primus2021-09-22t17 - banter.flac:692752f0c301c84d13a99d84a0fb5cb9
+Primus2021-09-22t18 - Closer to the Heart.flac:ec45e80f4b4efa305c5c705d2c630a99
+Primus2021-09-22t19 - Cinderella Man.flac:f28fe1f7be95cdee5cf4e6655198b441
+Primus2021-09-22t20 - Madrigal.flac:399fdda5f3476a27db8e3a9d6bde3d1b
+Primus2021-09-22t21 - Cygnus X-1.flac:7eddeec4395c86b74dd1c97477e8bf4d
+Primus2021-09-22t22 - Frizzle Fry.flac:d2ffd0a315af8e287ef32820b3ee9ab3
+Primus2021-09-22t23 - Southbound Pachyderm.flac:271806891a00a9f8a06ef4f24432f6d9

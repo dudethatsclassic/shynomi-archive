@@ -1,0 +1,83 @@
+Primus
+November 08, 2003
+Eagles Ballroom
+Milwaukee, WI
+
+
+Source:  Schoeps mk41>kc5>cmc6>Lunatec V2 (+35dB)>Benchmark AD2k+ (44.1kHz)>DA-P1
+Location: Front corner of board
+Conversion: master DAT>MIT s/pdif>Delta 2496>Samplitude v5.55>CDWav>FLAC frontend v1.7.1
+Shorten: FLAC>WAV>mkwACT by MattMan
+
+Recorded & Seeded by Jered Haddad <funktopu@midsouth.rr.com>
+I hope you enjoy listening to this show as much as I did recording it.
+
+Please do not encode to MP3!  Join the brigade at WWW.SHNS.NET!
+
+
+SET I
+Disc One:
+1. Primus Sucks Chant
+2. Harold of the Rocks
+3. Toys Go Winding Down
+4. My Friend Fats
+5. Professor Nutbutter's House of Treats
+6. Mrs. Blaileen
+7. The Carpenter and the Dainty Bride
+8. Spegetti Western
+
+Set II
+Disc Two:
+1. Seas of Cheese
+2. Here Come the Bastards
+3. Sgt. Baker
+4. American Life
+5. Jerry was a Racecar Driver
+6. Drum Solo
+7. Drum & Whamola Jam
+8. Eleven
+9. Is It Luck?
+10. Grandad's Little Ditty
+11. Tommy the Cat
+
+Disc Three: (set II cntd.)
+1. Sathington Waltz ^
+2. Those Damned Blue-Collar Tweekers
+3. Fish On
+4. Los Bastardos
+5. Crowd before encore
+6. Mr. Knowitall 
+
+^ - with the Filthy Ape on keyboard
+
+     0:28.72       5108588     ---   --    -xx    primus2003-11-08d1t01.shn
+    13:11.21     139581836     ---   --    -xx    primus2003-11-08d1t02.shn
+     8:18.46      87955436     ---   --    -xx    primus2003-11-08d1t03.shn
+    10:14.23     108363740     ---   --    -xx    primus2003-11-08d1t04.shn
+     7:20.01      77618396     ---   --    -xx    primus2003-11-08d1t05.shn
+     9:31.46     100832636     ---   --    -xx    primus2003-11-08d1t06.shn
+     8:04.01      85379996     ---   --    -xx    primus2003-11-08d1t07.shn
+     9:11.58      97332860     ---   --    -xx    primus2003-11-08d1t08.shn
+     4:14.41      44902076     ---   --    -xx    primus2003-11-08d2t01.shn
+     6:07.14      64771772     ---   --    -xx    primus2003-11-08d2t02.shn
+     5:02.58      53409260     ---   --    -xx    primus2003-11-08d2t03.shn
+    11:23.60     120622364     ---   --    -xx    primus2003-11-08d2t04.shn
+     5:08.39      54422972     ---   --    -xx    primus2003-11-08d2t05.shn
+     9:35.24     101486492     ---   --    -xx    primus2003-11-08d2t06.shn
+     6:51.74      72674492     ---   --    -xx    primus2003-11-08d2t07.shn
+     5:05.27      53865548     ---   --    -xx    primus2003-11-08d2t08.shn
+     7:11.65      76181324     ---   --    -xx    primus2003-11-08d2t09.shn
+     0:54.62       9671468     ---   --    -xx    primus2003-11-08d2t10.shn
+     7:10.34      75932012     ---   --    -xx    primus2003-11-08d2t11.shn
+     3:20.07      35296508     ---   --    -xx    primus2003-11-08d3t01.shn
+    10:29.53     111080300     ---   --    -xx    primus2003-11-08d3t02.shn
+     7:20.63      77764220     ---   --    -xx    primus2003-11-08d3t03.shn
+     6:18.08      66698060     ---   --    -xx    primus2003-11-08d3t04.shn
+     3:13.37      34132268     ---   --    -xx    primus2003-11-08d3t05.shn
+     8:08.05      86095004     ---   --    -xx    primus2003-11-08d3t06.shn
+   173:57.39    1841179628 B (totals for 25 files, 0.5568 overall compression ratio)
+
+
+
+
+

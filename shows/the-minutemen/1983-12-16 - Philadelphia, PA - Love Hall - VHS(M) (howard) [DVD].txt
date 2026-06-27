@@ -1,0 +1,49 @@
+Minutemen  
+December 16, 1983
+Love Hall
+Philadelphia, Pennsylvania, USA
+
+NTSC DVD video
+
+Balcony camera position (unknown camera-recorder)
+from VHS master > "Howard's VHS copy" > my Betamax HiFi copy
+
+01. 00:00;00 One Chapter in the Book 
+02. 01:01;04 Fake Contest            
+03. 02:35;10 The Maze
+04. 03:14;02 Colors
+05. 04:35;00 Bob Dylan Wrote Propaganda Songs
+06. 06:03;00 Plight
+07. 07:42;00 Static
+08. 08:38;19 Search
+09. 09:26;00 History Lesson
+10. 10:18;00 The Punch Line
+11. 10:57;00 Life Is A Rehearsal
+12. 12:49;00 The Glory Of Man 
+13. 15:53;00 Beacon Sighted Through Fog      
+14. 16:47;19 The Only Minority  
+15. 17:50;00 Mutiny in Jonestown
+16. 18:56;00 The Tin Roof
+17. 20:10;00 The Product
+18. 22:37.00 Dream Told By Moto 
+19. 24:20;20 Self-Referenced
+20. 25:43;00 Little Man With Gun In His Hand   
+21. 28:43;00 '99
+22. 29:34;20 This Road
+23. 31:05;28 The Anchor
+24. 33:29;17 This Ain't No Picnic  
+25. 35:24;19 Corona
+26. 36:55;21 Joe McCarthy's Ghost (false start)
+27. 37:40;17 Joe McCarthy's Ghost
+28. 39:12;22 Paranoid Chant
+29. 40:17;15 Ain't Talkin' 'Bout Love 
+30. 41:20.00 (end marker)
+
+Lineage & transfer [2008]: 2nd gen. Beta HiFi tape > Sony SL-HF1000 > Sony DVMC-DA2 Media Converter > Apple Macintosh Final Cut Pro (nip and tuck edits, filter to replace bottom of screen "head switch jitter" with black and chaptering) > Compressor > DVD Studio Pro (menu/authoring) > VIDEO_TS file set.
+
+Audio post capture processing in Pro Tools (normalization, minor clicks manually repaired seamlessly and fades). Audio placed back into Final Cut Pro before Compressor down-sampling. 
+
+Video: NTSC 720x480 VBR 7.7 Mbps peak, 6.2 Mbps average data rate, 2-pass. 
+Audio - choice of: Dolby Digital 2/0 (L,R), 48 kHz sample rate, 448 kbps data rate 
+or 
+Linear PCM (2 channel 48kHz 16 bit).

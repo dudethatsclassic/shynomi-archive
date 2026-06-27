@@ -1,0 +1,56 @@
+SOUNDGARDEN
+April 08, 1994
+Elysée Montmartre
+Paris, France
+
+Source: Unknown DAT Audience Audio 
+Generation: DAT(x) > CDR(x) > WAV [EAC Secure] > FLAC [8]
+Quality: 8.0
+Time: 93:58
+
+Tracklist:
+1. Jesus Christ Pose
+2. Spoonman
+3. Let Me Drown
+4. Mailman
+5. The Day I Tried To Live
+6. My Wave
+7. Room A Thousand Years Wide
+8. Black Hole Sun
+9. Searching With My Good Eye Closed
+10. Superunknown
+11. Rusty Cage
+12. Half
+13. Mind Riot
+14. Fell On Black Days
+15. Hands All Over
+16. Kickstand
+--------------
+17. Face Pollution
+18. Like Suicide
+19. Somewhere
+20. Head Down
+
+Originally encoded February 2009.
+
+Fingerprints:
+01 - Jesus Christ Pose.flac:ec4e72ab33fd717f3069712b5f04e832
+02 - Spoonman.flac:c3e069b66f8555cd3becd79087310f35
+03 - Let Me Drown.flac:06176102470d9a73e7c53ab2bf4aeb9c
+04 - Mailman.flac:297cc722b7d32919c862dee395260049
+05 - The Day I Tried To Live.flac:96d24d63e9e7a6c2b4e0aed79d88abb7
+06 - My Wave.flac:bc7f6420fbdd4fb5b7dfa17a285d1857
+07 - Room A Thousand Years Wide.flac:7f3a65e65ce21bdfde5b4fcd52c0db8d
+08 - Black Hole Sun.flac:a84ee9714534ea259ed82bc183626db3
+09 - Searching With My Good Eye Closed.flac:8350d9de0d1a946729e268c5e786bf58
+10 - Superunknown.flac:e2cdc4fb22e0fd0b8529b43b3727387c
+11 - Rusty Cage.flac:5c04cb8099c7fa130a7bfc059f17fb4a
+12 - Half.flac:23a0ca0da1066ceeaa80b28d439e0c97
+13 - Mind Riot.flac:abd8a53d8e7593e8a03fdf831c22dc43
+14 - Fell On Black Days.flac:bdb73acd1f2756594ab92a2698b919e7
+15 - Hands All Over.flac:ea77d04b25874b473276d6573fcd4139
+16 - Kickstand.flac:e94a3e5b415ef873178cf8c239f750ef
+17 - Face Pollution.flac:4bbdd371538974322e50e958fececd2b
+18 - Like Suicide.flac:98ec253f181cc2b1d8e9572c87f4cce7
+19 - Somewhere.flac:31829cb8e3fb00fd6f277d0b3424a90e
+20 - Head Down.flac:ce3ee4d6e155a47b80ea74b8f55504ee

@@ -1,0 +1,70 @@
+Primus
+July 16th, 2011
+Dragon Stage
+All Good Festival
+Marvin's Mountaintop
+Masontown, WV
+
+Source: AKG C460Bs/CK 63-ULS (DINa, ~9' on stand, front right corner of FOH)->Kind Kables->Naiant LittleBox->Segue Dogstar Silver-Clad Interconnect->Edirol R-09HR (24 bit/48 kHz)
+Transfer: SDHC -> PC
+Processing: EQ (Low-end roll-off, high end boost), fade in, fade out, dithered to 16 bit, resampled to 44.1 kHz & tracking using SoundForge 9.0.
+Conversion: FLAC frontend 1.7.1 used to align on sector boundaries and for Flac16 Conversion @ level 8
+Tagging: Band name, Venue and Song Title in Foobar2000
+Recorded by: Timothy Brown (timothydavidbrown@gmail.com)
+
+*****************************************************************
+********* PLEASE SPREAD, BUT PLEASE INCLUDE SOURCE INFO *********
+****** DO NOT SELL OR DISTRIBUTE FOR A PROFIT BY ANY MEANS ******
+*****************************************************************
+
+01. Intro
+02. Groundhog's Day
+03. Duchess and the Proverbial Mind Spread
+04. The Eyes of the Squirrel
+05. American Life
+06. Tommy the Cat -> The Awakening -> Tommy the Cat
+07. Lee Van Cleef
+08. Over the Falls
+09. Tragedy's a' Comin'
+10. Whamola
+11. Eleven
+12. Jilly's on Smack
+13. The Green Ranger
+14. Jerry Was A Race Car Driver
+15. Over the Electric Grapevine
+16. Harold of the Rocks
+
+Notes:
+Festival fireworks can be heard during the last track
+Thanks to Erin and Ryan for a fun weekend of camping and tunes!
+Thanks to Ryan & Steve for all the help throughout the weekend.
+Thanks to everyone who helped to establish and maintain a taper's section. Not an easy feat!
+Shout outs to Bean, Craig, Sam & Neil. Great to see you all again.
+
+A 24 bit/48 kHz version exists.
+
+*****************************************
+****Please support artists and venues****
+************that allow taping************
+*****************************************
+
+primusville.com
+allgoodfestival.com
+timothydavidbrown.blogspot.com
+
+primus2011-07-16t01.flac:ad1d60e4bcd4f6020a23c3a0df5e5006
+primus2011-07-16t02.flac:3c560f1c31c76c27f3e884f6dc57cb16
+primus2011-07-16t03.flac:892f49b721f1ebca961e57f86cfb2239
+primus2011-07-16t04.flac:256138a57160f317db214b98bf50cb34
+primus2011-07-16t05.flac:74164f3278d2a47fa8076d3d0eeea50d
+primus2011-07-16t06.flac:9a0b86138d417a8c90a7d330e38b2cab
+primus2011-07-16t07.flac:3a96896ffffc6ebc164cfff6945baac9
+primus2011-07-16t08.flac:c32da86271a324b12d6b530bc34197b6
+primus2011-07-16t09.flac:c4c297368722c5a539978fdcf91b2eee
+primus2011-07-16t10.flac:f5f79a763efc244c1c09ebdf3113b740
+primus2011-07-16t11.flac:530fb412306542bb7fa2f3df43b2a8cf
+primus2011-07-16t12.flac:e46540a8af534540cfc63aeeae186233
+primus2011-07-16t13.flac:331b2a86cdd9cf36b0b38215cf28129a
+primus2011-07-16t14.flac:3228be5270d39ee3a1b208023e26f161
+primus2011-07-16t15.flac:905fca84963ed59f623a46ce8930ded8
+primus2011-07-16t16.flac:a115f12e95f57d4f9ae86a681e4990a0

@@ -29,7 +29,8 @@ const ARTIST_DATA = {
       "venue": "The Club",
       "version": "Silver CD",
       "format": "FLAC",
-      "notes": ""
+      "notes": "",
+      "textFile": "1976-05-12 - Cambridge, MA - The Club [Silver}.txt"
     },
     {
       "year": 1976,
@@ -42,7 +43,8 @@ const ARTIST_DATA = {
       "venue": "CBGB's",
       "version": "AUD",
       "format": "SHN",
-      "notes": ""
+      "notes": "",
+      "textFile": "1976-05-15 - New York, NY - CBGB's [AUD].txt"
     },
     {
       "year": 1976,
@@ -55,7 +57,8 @@ const ARTIST_DATA = {
       "venue": "Max's Kansas City",
       "version": "AUD",
       "format": "FLAC",
-      "notes": ""
+      "notes": "",
+      "textFile": "1976-10-09 - New York, NY - Max's Kansas City [AUD].txt"
     },
     {
       "year": 1977,
@@ -68,7 +71,8 @@ const ARTIST_DATA = {
       "venue": "San Diego State University - The Backdoor",
       "version": "AUD",
       "format": "FLAC 24",
-      "notes": ""
+      "notes": "",
+      "textFile": "1977-03-12 - San Diego, CA - San Diego State University - The Backdoor [AUD24].txt"
     },
     {
       "year": 1977,
@@ -81,7 +85,8 @@ const ARTIST_DATA = {
       "venue": "CBGB's",
       "version": "AUD",
       "format": "FLAC",
-      "notes": ""
+      "notes": "",
+      "textFile": "1977-03-31 - New York, NY - CBGB's [AUD].txt"
     },
     {
       "year": 1977,
@@ -94,7 +99,8 @@ const ARTIST_DATA = {
       "venue": "Lantaarn - ANA(M)",
       "version": "AUD",
       "format": "FLAC",
-      "notes": "Sony TC-D5M · hans de vente"
+      "notes": "Sony TC-D5M \u00b7 hans de vente",
+      "textFile": "1977-05-10 - Rotterdam, Holland - Lantaarn - ANA(M) (Sony TC-D5M) (hans de vente) [AUD].txt"
     },
     {
       "year": 1977,
@@ -107,7 +113,8 @@ const ARTIST_DATA = {
       "venue": "Roundhouse",
       "version": "AUD",
       "format": "FLAC",
-      "notes": ""
+      "notes": "",
+      "textFile": "1977-06-05 - London, UK -  Roundhouse [AUD].txt"
     },
     {
       "year": 1977,
@@ -120,7 +127,8 @@ const ARTIST_DATA = {
       "venue": "Whisky a Go-Go *Birthday Bash",
       "version": "SBD",
       "format": "FLAC",
-      "notes": ""
+      "notes": "",
+      "textFile": "1977-10-21 - Los Angeles, CA - Whisky a Go-Go - Birthday Bash [SBD].txt"
     },
     {
       "year": 1987,
@@ -146,7 +154,8 @@ const ARTIST_DATA = {
       "venue": "Whisky a Go-Go",
       "version": "FM",
       "format": "FLAC",
-      "notes": ""
+      "notes": "",
+      "textFile": "1977-11-24 - Los Angeles, CA - Whisky a Go-Go [FM].A.txt"
     },
     {
       "year": 1978,
@@ -159,7 +168,8 @@ const ARTIST_DATA = {
       "venue": "Old Waldorf",
       "version": "FM",
       "format": "FLAC",
-      "notes": "Early show · KSAN Live Broadcast"
+      "notes": "Early show \u00b7 KSAN Live Broadcast",
+      "textFile": "1978-01-31 - San Francisco, CA - Old Waldorf (Early show) (KSAN Live Broadcast) [FM].txt"
     },
     {
       "year": 1978,
@@ -172,7 +182,8 @@ const ARTIST_DATA = {
       "venue": "CBGB's",
       "version": "AUD",
       "format": "FLAC",
-      "notes": ""
+      "notes": "",
+      "textFile": "1978-05-04 - New York, NY - CBGB's [AUD].txt"
     },
     {
       "year": 1976,
@@ -185,7 +196,8 @@ const ARTIST_DATA = {
       "venue": "CBGBs",
       "version": "AUD",
       "format": "FLAC 24",
-      "notes": "Reel · pr"
+      "notes": "Reel \u00b7 pr",
+      "textFile": "1976-05-15 - New York, NY - CBGBs (Reel) (pr) [AUD24].txt"
     },
     {
       "year": 1979,
@@ -211,7 +223,8 @@ const ARTIST_DATA = {
       "venue": "The?atre Le Palace (AM Radio) 48KHZ",
       "version": "AM",
       "format": "FLAC",
-      "notes": "AM Radio"
+      "notes": "AM Radio",
+      "textFile": "1980-02-20 - Paris, FR - The\u0301atre Le Palace (AM Radio) 48KHZ [AM].txt"
     },
     {
       "year": 1981,
@@ -224,7 +237,8 @@ const ARTIST_DATA = {
       "venue": "Stage West - ANA",
       "version": "AUD",
       "format": "FLAC",
-      "notes": "2 · Unknown"
+      "notes": "2 \u00b7 Unknown",
+      "textFile": "1981-01-08 - Hartford, CT - Stage West - ANA(2) (unk) [AUD].txt"
     },
     {
       "year": 1985,
@@ -237,7 +251,8 @@ const ARTIST_DATA = {
       "venue": "Lyceum Ballroom 48KHZ",
       "version": "AM",
       "format": "FLAC",
-      "notes": ""
+      "notes": "",
+      "textFile": "1985-02-24 - London, UK - Lyceum Ballroom 48KHZ [AM].txt"
     },
     {
       "year": 1987,
@@ -250,7 +265,8 @@ const ARTIST_DATA = {
       "venue": "Chestnut Cabaret",
       "version": "AUD",
       "format": "FLAC",
-      "notes": "Nak 300s · chuck"
+      "notes": "Nak 300s \u00b7 chuck",
+      "textFile": "1987-02-28 - Philadelphia, PA - Chestnut Cabaret (Nak 300s) (chuck) [AUD].txt"
     },
     {
       "year": 1989,
@@ -263,7 +279,8 @@ const ARTIST_DATA = {
       "venue": "Royal Court Hall",
       "version": "AUD",
       "format": "FLAC",
-      "notes": ""
+      "notes": "",
+      "textFile": "1989-10-01 - Liverpool, UK - Royal Court Hall (2nd CJ show) [AUD].txt"
     },
     {
       "year": 1996,
@@ -276,7 +293,8 @@ const ARTIST_DATA = {
       "venue": "Lincoln Park",
       "version": "AUD",
       "format": "FLAC",
-      "notes": "SS DSM6 · Unknown"
+      "notes": "SS DSM6 \u00b7 Unknown",
+      "textFile": "1996-04-28  - Albany, NY - Lincoln Park (SS DSM6) (unk) [AUD].txt"
     },
     {
       "year": 1976,

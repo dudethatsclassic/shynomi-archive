@@ -1,0 +1,102 @@
+Primus @ Lollapalooza '93
+Live in Vancouver
+Thunderbird Stadium (UBC)
+June 18, 1993
+
+Analog Master Originally recorded and transferred by Audioarchivist U - 101
+
+Lineage:
+Band on stage>PA speakers>live air around us>audience>Sony ECM-909 (I think)>Sony WM D3 Dolby on for recording>TDK MA 90>Denon DRM 500 playback deck (azimuth re-aligned to match master)>Sentrek analog eq>Soundblaster card in my PC>Wavelab 4.0 for track seperation>resident of my harddrive ever since>Trader's Little Helper FLAC6 for encoding>TTD>YOU!
+
+This is an un-processed recording, raw and un-cut direct from the tape that attended the show with me. It's had some wear and tear (well, some krinkles, but no tearing yet!) and you'll hear some cassette flaws during the 'accident sections' where the master was almost lost in a hungry tapedeck some years ago... Also the tape flip in 'To Defy...' shows about exactly how much is missing - not much gone. Sorry. Deal with it! It is a semi-binaural ambiophonic stereo recording, and with headphones on and eyes closed, you'll feel like you're there!
+
+
+Memories:
+It was a last minute scramble to get to this show, and my old mics were dead for then. So, I had borrowed this Sony mic (either an ECM 907 or 909) and had to hold it in my hand. I felt like I was holding a gun or something. Not too stealthy! You'll hear several comments from the crowd around me: "Look at this guy behind me making a bootleg!" "That's pretty sneaky..." "[TAP TAP TAP on the mic] HI MOM!"
+I brought a crappy camera to snap some pics of the day. I'm not that tall, and a really towering dude was standing next to me, so he snapped these shots for me. Only a few of Primus actually turned out, and an ex-girlfriend got most of them. I've included the 2 shots I still have, plus some tickets and stuff for your artwork extravaganza! If you make some cool Photoshop CD Cover art for this, please post it around, and email me your results:
+audioarchivist@hotmail.com
+I'd seen them the year before opening for RUSH, and I'd never heard of them back then, thinking 'cute name for an opening band - Prime-Us!' Kicking myself for not taping them then. Almost made up for it with this show! Sorry I've sat on these tapes (metaphorically) for years, and happy to find a venue to share them now!
+I did tape the whole day, and one day you'll see the other stuff surface...but before that I wanna get Primus Vancouver 1997 Aug 29 Pacific Coliseum show done... I even got soundcheck on that one....
+I've also got 3 other Les Claypool gems almost ready for mass release:
+Les Claypool & The Holy Mackerel @Town Pump Vancouver Oct 18 1996
+Primus @ Ozzfest '99 Thunderbird Stadium Vancouver July 16 1999
+Oysterhead @The Orpheum Vancouver Oct 23 2001
+
+Coming soon to a computer near you!
+
+
+No need for fixing SBEs (all wav files are already sector-aligned).
+
+01Lollapalooza 93 A.wav:  successfully encoded to 'K:\Primus\Primus 1993 06 18 Lollapalooza Vancouver FLAC\01Lollapalooza 93 A.flac'
+02Here Come The Bastards.wav:  successfully encoded to 'K:\Primus\Primus 1993 06 18 Lollapalooza Vancouver FLAC\02Here Come The Bastards.flac'
+03Nature Boy.wav:  successfully encoded to 'K:\Primus\Primus 1993 06 18 Lollapalooza Vancouver FLAC\03Nature Boy.flac'
+04Bob.wav:  successfully encoded to 'K:\Primus\Primus 1993 06 18 Lollapalooza Vancouver FLAC\04Bob.flac'
+05My Name Is Mud.wav:  successfully encoded to 'K:\Primus\Primus 1993 06 18 Lollapalooza Vancouver FLAC\05My Name Is Mud.flac'
+06Jerry Was A Racecar Driver.wav:  successfully encoded to 'K:\Primus\Primus 1993 06 18 Lollapalooza Vancouver FLAC\06Jerry Was A Racecar Driver.flac'
+07The Ol' Diamondback Sturgeon.wav:  successfully encoded to 'K:\Primus\Primus 1993 06 18 Lollapalooza Vancouver FLAC\07The Ol' Diamondback Sturgeon.flac'
+08Primus sucks.wav:  successfully encoded to 'K:\Primus\Primus 1993 06 18 Lollapalooza Vancouver FLAC\08Primus sucks.flac'
+09Seas Of Cheese.wav:  successfully encoded to 'K:\Primus\Primus 1993 06 18 Lollapalooza Vancouver FLAC\09Seas Of Cheese.flac'
+10Pork Soda.wav:  successfully encoded to 'K:\Primus\Primus 1993 06 18 Lollapalooza Vancouver FLAC\10Pork Soda.flac'
+11Mr. Krinkle.wav:  successfully encoded to 'K:\Primus\Primus 1993 06 18 Lollapalooza Vancouver FLAC\11Mr. Krinkle.flac'
+12To Defy The Laws Of Tradition pt.1.wav:  successfully encoded to 'K:\Primus\Primus 1993 06 18 Lollapalooza Vancouver FLAC\12To Defy The Laws Of Tradition pt.1.flac'
+13To Defy The Laws Of Tradition pt.2.wav:  successfully encoded to 'K:\Primus\Primus 1993 06 18 Lollapalooza Vancouver FLAC\13To Defy The Laws Of Tradition pt.2.flac'
+14Those Damned Blue Collar Tweekers.wav:  successfully encoded to 'K:\Primus\Primus 1993 06 18 Lollapalooza Vancouver FLAC\14Those Damned Blue Collar Tweekers.flac'
+15Honky Dance.wav:  successfully encoded to 'K:\Primus\Primus 1993 06 18 Lollapalooza Vancouver FLAC\15Honky Dance.flac'
+16Those Damned Blue Collar Tweekers pt.2.wav:  successfully encoded to 'K:\Primus\Primus 1993 06 18 Lollapalooza Vancouver FLAC\16Those Damned Blue Collar Tweekers pt.2.flac'
+17Welcome To This World.wav:  successfully encoded to 'K:\Primus\Primus 1993 06 18 Lollapalooza Vancouver FLAC\17Welcome To This World.flac'
+18Tommy The Cat.wav:  successfully encoded to 'K:\Primus\Primus 1993 06 18 Lollapalooza Vancouver FLAC\18Tommy The Cat.flac'
+19aftershow afterglow.wav:  successfully encoded to 'K:\Primus\Primus 1993 06 18 Lollapalooza Vancouver FLAC\19aftershow afterglow.flac'
+
+No errors occured.
+
+
+01Lollapalooza 93 A.flac:  tested ok (file will decode properly)
+02Here Come The Bastards.flac:  tested ok (file will decode properly)
+03Nature Boy.flac:  tested ok (file will decode properly)
+04Bob.flac:  tested ok (file will decode properly)
+05My Name Is Mud.flac:  tested ok (file will decode properly)
+06Jerry Was A Racecar Driver.flac:  tested ok (file will decode properly)
+07The Ol' Diamondback Sturgeon.flac:  tested ok (file will decode properly)
+08Primus sucks.flac:  tested ok (file will decode properly)
+09Seas Of Cheese.flac:  tested ok (file will decode properly)
+10Pork Soda.flac:  tested ok (file will decode properly)
+11Mr. Krinkle.flac:  tested ok (file will decode properly)
+12To Defy The Laws Of Tradition pt.1.flac:  tested ok (file will decode properly)
+13To Defy The Laws Of Tradition pt.2.flac:  tested ok (file will decode properly)
+14Those Damned Blue Collar Tweekers.flac:  tested ok (file will decode properly)
+15Honky Dance.flac:  tested ok (file will decode properly)
+16Those Damned Blue Collar Tweekers pt.2.flac:  tested ok (file will decode properly)
+17Welcome To This World.flac:  tested ok (file will decode properly)
+18Tommy The Cat.flac:  tested ok (file will decode properly)
+19aftershow afterglow.flac:  tested ok (file will decode properly)
+
+No errors occured.
+
+
+15a857413542120181eca27b21e0a1bb *01Lollapalooza 93 A.flac
+02b428a69abf4275835e3e161e75e2df *02Here Come The Bastards.flac
+b02f99438da633804125beb0bff1a748 *03Nature Boy.flac
+a36ff137dc65d28f70018b7ff920cd75 *04Bob.flac
+81d3ee7d7db28a06ad19ae8565c55445 *05My Name Is Mud.flac
+61721ec5c1c5b84cc076b456d7c92e66 *06Jerry Was A Racecar Driver.flac
+ba77628eef458dd03af30d2fb664d77c *07The Ol' Diamondback Sturgeon.flac
+9198798e089df067d335e4d1192f8255 *08Primus sucks.flac
+219027401cde07cb3d7c05945ee5a55b *09Seas Of Cheese.flac
+61861ff80e1855b6a41903c3dc8d459a *10Pork Soda.flac
+57168ae3fd674d68058a6c3af5705b52 *11Mr. Krinkle.flac
+7cfd3223d61e72d18b4a0b5251f6806c *12To Defy The Laws Of Tradition pt.1.flac
+f909cc11f5db1a7c23201e1f437691cd *13To Defy The Laws Of Tradition pt.2.flac
+90cb53107664762a5f104ccb88d161e5 *14Those Damned Blue Collar Tweekers.flac
+bc9287e5108717256566e8ba766429dc *15Honky Dance.flac
+17f5ff8e2ca03f6eed406ad7dd959d85 *16Those Damned Blue Collar Tweekers pt.2.flac
+1a069884906fc23b4cf5666696bd761c *17Welcome To This World.flac
+9eab66560c596ec4bdd8fe201a323a8f *18Tommy The Cat.flac
+a0eb9b8893dc34d35001e77ba57dbf47 *19aftershow afterglow.flac
+
+No errors occured.
+
+Checksum file saved to disk.
+
+
+Hope you like it. If you've any feedback for me, please don't hesitate to contact me at:
+audioarchivist@hotmail.com

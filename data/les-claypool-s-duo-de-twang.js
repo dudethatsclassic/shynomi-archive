@@ -19,9 +19,10 @@ const ARTIST_DATA = {
       "state": "AZ",
       "location": "Flagstaff, AZ",
       "venue": "Orpheum Theater",
-      "notes": "Sony ECM-12 · luke freteluco",
+      "notes": "Sony ECM-12 \u00b7 luke freteluco",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "2014-06-14 - Les Claypool's Duo de Twang - Flagstaff, AZ - Orpheum Theater (ECM12) [AUD].txt"
     },
     {
       "year": 2023,
@@ -32,9 +33,10 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "Sebastopol, CA",
       "venue": "HopMonk Tavern",
-      "notes": "Sennheiser Ambeo · grizzly adams",
+      "notes": "Sennheiser Ambeo \u00b7 grizzly adams",
       "version": "AUD",
-      "format": "FLAC 24"
+      "format": "FLAC 24",
+      "textFile": "2023-11-18 - Sebastopol, CA - HopMonk Tavern (Sennheiser Ambeo) (grizzly adams) [AUD24].txt"
     }
   ],
   "misc": []

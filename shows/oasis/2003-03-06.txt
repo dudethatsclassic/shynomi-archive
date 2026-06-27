@@ -1,0 +1,21 @@
+01 This Is Not A Drill.wav:  track looks like CDDA with probability 100%.
+02 Fuckin' In The Bushes.wav:  track looks like CDDA with probability 99%.
+03 Bring It On Down.wav:  track looks like CDDA with probability 100%.
+04 The Hindu Times.wav:  track looks like CDDA with probability 100%.
+05 Hung In A Bad Place.wav:  track looks like CDDA with probability 100%.
+06 Supersonic.wav:  track looks like CDDA with probability 100%.
+07 Columbia.wav:  track looks like CDDA with probability 100%.
+08 Morning Glory.wav:  track looks like CDDA with probability 100%.
+09 Stop Crying Your Heart Out.wav:  track looks like CDDA with probability 100%.
+10 Little By Little.wav:  track looks like CDDA with probability 100%.
+11 Cigarettes & Alcohol.wav:  track looks like CDDA with probability 100%.
+12 Champagne Supernova.wav:  track looks like CDDA with probability 100%.
+13 Better Man.wav:  track looks like CDDA with probability 100%.
+14 Songbird.wav:  track looks like CDDA with probability 100%.
+15 Born On A Different Cloud.wav:  track looks like CDDA with probability 99%.
+16 Rock 'n' Roll Star.wav:  track looks like CDDA with probability 100%.
+17 Force Of Nature.wav:  track looks like CDDA with probability 100%.
+18 Don't Look Back In Anger.wav:  track looks like CDDA with probability 99%.
+19 My Generation.wav:  track looks like CDDA with probability 100%.
+
+No errors occurred.

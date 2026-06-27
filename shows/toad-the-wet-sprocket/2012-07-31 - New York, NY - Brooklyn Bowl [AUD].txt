@@ -1,0 +1,36 @@
+Toad the Wet Sprocket
+July 31st, 2012
+Brooklyn Bowl, New York, NY
+
+Master/Conversion:
+Microtech Gefell M210's>Oade M248>SD-722, SD-722>Tascam CDRW2000>CD
+by Jon Pasternak
+
+Extraction:
+CD>xACT 2.20 (cdparanoia)>WAV>FLAC, all tracks extracted with no errors
+by Dave Mallick
+
+Disc 1 Total: [48:51.16]
+01. Fly From Heaven                           [04:48.23]
+02. Something's Always Wrong                  [05:28.55]
+03. Whatever I Fear                           [03:52.56]
+04. Crowing                                   [03:01.29]
+05. Good Intentions                           [03:16.71]
+06. Nanci                                     [02:51.50]
+07. Inside                                    [04:11.41]
+08. Windmills                                 [04:49.38]
+09. The Moment                                [05:24.74]
+10. Friendly Fire                             [04:49.04]
+11. I Will Not Take These Things For Granted  [06:16.25]
+
+Disc 2 Total: [41:15.26]
+01. banter                                    [02:07.44]
+02. Come Back Down                            [04:02.26]
+03. Nightingale Song                          [02:50.20]
+04. All I Want                                [04:10.08]
+05. Crazy Life                                [04:21.56]
+06. Dam Would Break                           [04:51.20]
+07. Brother                                   [04:04.49]
+08. Fall Down                                 [04:39.30]
+09. E: Come Down                              [04:53.61]
+10.    Walk On The Ocean                      [05:14.12]

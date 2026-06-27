@@ -1,0 +1,46 @@
+Primus 02/09/2012 Gramercy Theater, New York, NY
+
+Schoeps mk4 (DIN, balcony DFC) -> kc-5 -> cmc6 -> Sound Devices 744T -> WAV (@24/96);
+WAV -> SoundForge Pro 10.0c (normalize; 96->44.1 resample with iZotope 64-Bit SRC at higher than "Highest Quality" setting w/anti-alias filter; 
+24->16 bit dither using iZotope MBIT+ Dither with Ultra noise shaping, High dither settings) -> CDWav -> FLAC
+
+
+Recorded, tracked and posted by Eric McRoberts
+
+
+Set I:
+1.  Intro
+2.  To Defy the Laws of Tradition
+3.  Fisticuffs
+4.  Moron TV
+5.  Frizzle Fry
+6.  Eternal Consumption Engine
+7.  The Toys Go Winding Down
+8.  Tommy the Cat
+
+Set II:
+1.  Prelude to a Crawl ->
+2.  Hennepin Crawler
+3.  Golden Boy
+4.  Mr. Knowitall
+5.  Seas of Cheese
+6.  Jilly's on Smack
+7.  The Pressman
+8.  Wynona's Big Brown Beaver
+9.  Bob
+10. My Name is Mud
+11. encore break / banter
+
+Encore:
+12.  Lee Van Cleef
+13.  John the Fisherman
+
+
+Les Claypool - Bass
+Larry LaLonde - Guitar
+Jay Lane - Drums
+
+
+Note: I got there late due to a long line entering the venue and was not compeltely setup in time.  While I got everything, 
+the mics were held in my hand mounted on the DIN bar during the Intro and first half of To Defy the Laws of Tradition.  
+During the stop where Les talked I was able to get the mics onto my clamp and secured.  

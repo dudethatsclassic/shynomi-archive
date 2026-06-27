@@ -1,0 +1,51 @@
+Soundgarden
+The Fabulous Fox Theatre, St. Louis, MO
+Feb 9, 1992
+
+DAMAGE INC. PRODUCTIONS - CLASSIC SERIES
+SOURCE: trade DVD from the BobC Archives - traded to me as VID(1) to PC to DVD-R. The menu contains no mention of the source, but I have no reason to believe that the gen info is not accurate.
+
+Nice sound with unobstructed video and some great close-ups (at least when the filmer isn't hiding the camera, which unfortunately happens for much of the second half of the show).
+
+Setlist:
+
+Searching With My Good Eye Closed
+Jesus Christ Pose
+Face Pollution
+Gun
+Hey Jude (tease) (The Beatles cover)
+Beyond the Wheel
+Rusty Cage
+Big Dumb Sex
+Outshined
+Slaves & Bulldozers  
+
+As always, support the band financially, share this recording freely with fans, and never sell this DVD!
+
+Enjoy!
+BobC
+
+Technical info (from VLC):
+
+Length 47:37
+
+Stream 3
+Original ID: 224
+Codec: MPEG-1/2 Video (mpgv)
+Type: Video
+Video resolution: 720x480
+Buffer dimensions: 720x480
+Frame rate: 29.970030
+Decoded format: Planar 4:2:0 YUV
+Orientation: Top left
+Color transfer function: sRGB
+Color space: ITU-R BT.601 Range
+Chroma location: Left
+
+Stream 4
+Original ID: 192
+Codec: MPEG Audio layer 1/2 (mpga)
+Type: Audio
+Channels: Stereo
+Sample rate: 48000 Hz
+Bits per sample: 32

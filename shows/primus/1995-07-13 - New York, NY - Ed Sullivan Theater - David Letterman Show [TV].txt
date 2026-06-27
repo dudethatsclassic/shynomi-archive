@@ -1,0 +1,12 @@
+Primus
+David Letterman Show, CBS-TV
+Ed Sullivan Theater, New York, NY
+July 13, 1995
+
+Cable TV>VHS Master
+VHS Master>Sony DSR-30>Firewire>DV Gate>AVI>TMPG>VIDEO_TS folder
+
+Audio: LPCM 48kHz
+Video: NTSC 8000kbps  720x480  4:3
+
+01. Wynona's Big Brown Beaver

@@ -1,0 +1,10 @@
+    length     expanded size    cdr  WAVE problems  fmt   ratio  filename
+     1:13.27       12940748 B   ---   --   ---xx   flac  0.5202  ttws2014-06-01.fm.t01.flac
+     4:45.21       50323436 B   ---   --   ---xx   flac  0.5365  ttws2014-06-01.fm.t02.flac
+     3:23.29       35877452 B   ---   --   ---xx   flac  0.5402  ttws2014-06-01.fm.t03.flac
+     4:40.23       49446140 B   ---   --   ---xx   flac  0.5384  ttws2014-06-01.fm.t04.flac
+     3:22.61       35776316 B   ---   --   ---xx   flac  0.5418  ttws2014-06-01.fm.t05.flac
+     5:06.57       54112508 B   ---   --   ---xx   flac  0.5267  ttws2014-06-01.fm.t06.flac
+     3:06.39       32902172 B   ---   --   ---xx   flac  0.5373  ttws2014-06-01.fm.t07.flac
+     0:46.70        8279084 B   ---   --   ---xx   flac  0.5315  ttws2014-06-01.fm.t08.flac
+    26:25.27      279657856 B                            0.5353  (8 files)

@@ -1,0 +1,40 @@
+Toad the Wet Sprocket
+Red Rocks Amphitheatre
+Morrison, CO 
+June 8, 2019
+
+  One set:
+
+01 The Moment
+02 Architect of the Ruin
+03 All I Want
+04 Fly From Heaven
+05 Golden Age
+06 Good Intentions >
+07 Covered In Roses
+08 Brother
+09 Enough
+10 California Wasted
+11 Nightingale Song
+12 band introduction
+13 Crazy Life
+14 Fall Down
+15 Something's Always Wrong
+16 picture banter and microphone problem
+17 Walk On the Ocean
+
+Source (AUD): Church CA-11 cardioid (tree mounted way left, approx row 13, 7'up) > Core Sound battery box (flat) > iRiver iHP-120 (line-in)
+Master format: 44.1 kHz, 16 bit, stereo (.WAV)
+Digital transfer: SDHC card (USB reader) > PC
+Digital editing: CuBase 5 (pre and post set fades, WAVES Q10 Paragraphic EQ, WAVES L2 Maximizer)
+Tracking & processing for CD: CD Wave Editor 1.95.1 > FLAC Frontend 1.7.1/ FLAC 1.1.2
+Distribution formats: 44.1 kHz, 16 bit, stereo (.FLAC) 
+
+Technical detail: Between "Something's Always Wrong" and "Walk On the Ocean" someone bumped into my left microphone. I did what I could to minimize the problem, but decided to leave it in the recording as there was stage banter during that and I wanted to maintain the integrity of the complete performance. There is also some loud wind noise at times throughout this recording.
+
+Recorded, processed and distributed by Chuck Miller (TaperChuck@gmail.com)
+
+Event notes: Colin Hay, Toad the Wet Sprocket then Big Head Todd & the Monsters played in that order
+
+
+

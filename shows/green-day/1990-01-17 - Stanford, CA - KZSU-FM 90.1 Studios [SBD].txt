@@ -1,0 +1,90 @@
+Artist: Green Day
+
+Date: January 17, 1990
+
+Location: KZSU-FM 90.1 Studios, Stanford, California
+	
+Source: KZSU-FM 90.1 "Wednesday Night Live" Pre-FM Soundboard Recording > REEL(M) {SBD#1]
+	    
+Lineage: ANA(M) > WAV > SHNtool [join files] > CD Wave v1.98 [retrack] > FLAC
+
+Size: 359 MB
+
+Length: 57:09
+
+Quality: Excellent
+
+
+setlist:
+
+001 KZSU Intro
+002 Green Day
+003 1,000 Hours
+004 At the Library
+005 Going to Pasalacqua
+006 16
+007 Disappearing Boy
+008 Master of Puppets tease
+009 Sweet Children
+010 KZSU Announcements
+011 banter
+012 Don't Leave Me
+013 Knowledge
+014 I Was There
+015 Rest
+016 Road to Acceptance
+017 The Judge's Daughter
+018 KZSU Announcements
+019 KZSU Interview
+
+
+Notes: Complete show surfaced 24dec'17. Interview takes place after the set.
+
+KZSU played the B-Side "The One That I Want" before the interview. It has been omitted.
+
+Artwork included.
+
+Lineup: Billie Joe Armstrong, guitar and vocals; Mike Dirnt, bass and vocals; John Kiffmeyer, drums.
+
+ffp:
+gd1990-01-17t01.flac:5883f781707dfca063634f6a6dd621ba
+gd1990-01-17t02.flac:498ba6a3ca171d9b71976cc764fe755b
+gd1990-01-17t03.flac:bcc2d1f3317c68bfc168629eba0a7eda
+gd1990-01-17t04.flac:0171954ccc17942f66c575c6afcdb13c
+gd1990-01-17t05.flac:9bff93c37e4d1ac80508a67a05c76f1f
+gd1990-01-17t06.flac:e69d748cbb7f56bb02ae04c89bfee9a2
+gd1990-01-17t07.flac:1330f5594f77698bcd081a2d68c80c7b
+gd1990-01-17t08.flac:f68e6a62ff209ddea6cec5d7a7a67ea5
+gd1990-01-17t09.flac:715234b35339b47d420ab83bd9a2274d
+gd1990-01-17t10.flac:bd82dd52dddee7c9631972e6e05810e5
+gd1990-01-17t11.flac:8fd097808c0830dc6b72379a5a5acfbc
+gd1990-01-17t12.flac:9a6faedf67064584d8c5dc5a70e4e670
+gd1990-01-17t13.flac:f5b7002cf1058102a07c588ab5f2e686
+gd1990-01-17t14.flac:fe7734df6d6447bd5fbecb2595110b87
+gd1990-01-17t15.flac:1d0a575d357549e70afc6f4ac161035d
+gd1990-01-17t16.flac:96b41d04467aaab041697f336898c9e9
+gd1990-01-17t17.flac:6e81195339b51b65bd309309473b6151
+gd1990-01-17t18.flac:6cc829fd1a04757481e7148384336dbe
+gd1990-01-17t19.flac:2f15eac600c588bfc58c4b8d41d27313
+
+    length     expanded size    cdr  WAVE problems  fmt   ratio  filename
+      0:57.45        10160684 B   ---   --   ---xx   flac  0.5598  gd1990-01-17t01.flac
+      3:22.68        35792780 B   ---   --   ---xx   flac  0.6633  gd1990-01-17t02.flac
+      2:20.34        24776012 B   ---   --   ---xx   flac  0.6682  gd1990-01-17t03.flac
+      2:44.53        29054300 B   ---   --   ---xx   flac  0.6668  gd1990-01-17t04.flac
+      5:00.62        53065868 B   ---   --   ---xx   flac  0.6492  gd1990-01-17t05.flac
+      4:02.45        42794684 B   ---   --   ---xx   flac  0.6553  gd1990-01-17t06.flac
+      3:16.04        34583852 B   ---   --   ---xx   flac  0.6556  gd1990-01-17t07.flac
+      0:15.21          2695436 B   ---   --   ---xx   flac  0.5663  gd1990-01-17t08.flac
+      2:12.71        23451836 B   ---   --   ---xx   flac  0.6587  gd1990-01-17t09.flac
+      2:15.19        23858732 B   ---   --   ---xx   flac  0.5740  gd1990-01-17t10.flac
+      1:52.30        19827404 B   ---   --   ---xx   flac  0.5331  gd1990-01-17t11.flac
+      3:01.37        32015468 B   ---   --   ---xx   flac  0.6503  gd1990-01-17t12.flac
+      2:58.32        31474508 B   ---   --   ---xx   flac  0.5954  gd1990-01-17t13.flac
+      4:29.48        47564540 B   ---   --   ---xx   flac  0.6423  gd1990-01-17t14.flac
+      3:17.21        34800236 B   ---   --   ---xx   flac  0.6129  gd1990-01-17t15.flac
+      4:40.35        49474364 B   ---   --   ---xx   flac  0.6266  gd1990-01-17t16.flac
+      3:04.32        32532908 B   ---   --   ---xx   flac  0.6523  gd1990-01-17t17.flac
+      0:54.13          9556220 B   ---   --   ---xx   flac  0.5240  gd1990-01-17t18.flac
+      6:22.25        67443644 B   ---   --   ---xx   flac  0.5362  gd1990-01-17t19.flac
+    57:09.20      604923476 B                                0.6225  (19 files)

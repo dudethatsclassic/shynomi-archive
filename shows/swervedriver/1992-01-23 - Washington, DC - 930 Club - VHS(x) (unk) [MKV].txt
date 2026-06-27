@@ -1,0 +1,24 @@
+Swervedriver
+1992-01023
+9:30 Club, Washington, D.C., US
+
+Source: Audience video camera > VHS copy (? generation) > DVD-R
+Preparation for torrenting (2023-05-23): .vob files > .mkv via Avidemux (not re-encoded)
+
+Required video details (from mediainfo)
+Container: Matroska, codec: V_MPEG2, resolution: 352x480, scan: interlaced, frame rate: 29.970 FPS, video bit rate: 4 824 kb/s, aspect ratio: 4x3, audio codec: A_AC3, channels: 2, audio sampling rate: 48.0 kHz, bitrate: 384 kb/s, 
+
+Sci-Flyer
+Juggernaut Rides
+Sandblasted
+Sunset
+Deep Seat
+Rave Down
+Scrawl & Scream
+Son Of Mustang Ford
+Kill The Superheroes
+Jesus
+
+(53:57)
+
+Shared on Dime 2023-05-23 by Aaron (supahstah)

@@ -1,0 +1,56 @@
+Primus
+Tuesday August 15th, 2017
+Marymoor Park
+6046 West Lake Sammamish Pkwy NE
+Redmond, WA
+
+Taper:  LeifH
+Source:  CSB (flat) > Sony WM D6C (Dolby B) > Maxell MX 110
+Transfer:  Master cassette > Modified Sony TC-WE475 (Dolby off, azimuth adjusted) > Sony PCM M10 @ 24/48 > Wavepad Masters Edition (edits, tracking, 16/44.1) > flac (8) via Frontend
+
+Setlist:  1:43:48
+00 intro
+01 American Life
+02 Too Many Puppies > 
+03 Sgt Baker > 
+04 Too Many Puppies
+05 Moron TV
+06 Wynona's Big Brown Beaver
+07 Fisticuffs
+08 Harold of the Rocks
+09 Candy Man
+10 Mr Krinkle
+11 Eyes of the Squirrel
+12 Welcome to This World >
+13 Mrs Blaileen
+14 My Name is Mud
+15 Jerry Was a Race Car Driver
+
+16 The Seven
+17 Here Come the Bastards*
+
+* = with Skerik
+
+My 30th Primus show.  Nice venue and perfect weather.  I was in front of the soundboard, dead centre for this set.  
+
+Star Spangled Banner tease after Fisticuffs.  Skerik played baritone saxophone on Here Come The Bastards, which included a brown note jam.
+
+fingerprints:
+00 - intro.flac:9e530d320f574ede2e5bdaaa7e72aef1
+01 - American Life.flac:747f7d65e836752ab8d87418f286cd80
+02 - Too Many Puppies.flac:cce2a0e21f76c5cb5c53f03101c8bfa6
+03 - Sgt Baker.flac:e77c88876e49196a050b9af7a2c63610
+04 - Too Many Puppies.flac:a782906604fdbb9872ad86039255f01e
+05 - Moron TV.flac:03de0402926230b3ce3d63f6a3d680a4
+06 - Wynona's Big Brown Beaver.flac:39bbbbfe1755693cd6d0f0120a652ac1
+07 - Fisticuffs.flac:fbb6635048b66ae4a846129f1248ce74
+08 - Harold of the Rocks.flac:b54d75d6e8fc6eab88f3b513c368de78
+09 - Candy Man.flac:e712edf1ebbf03138456ec305195a9ed
+10 - Mr Krinkle.flac:9ac1d6d49a0a7d13c1940e3e3d0ea728
+11 - Eyes of the Squirrel.flac:c4b119202d6880639cc66ebde93dd076
+12 - Welcome to This World.flac:42a1fe8216ca7c7dfbe52c1bbe7b12c8
+13 - Mrs Blaileen.flac:f25830c594ac5e0a62c3a4f6a32bae03
+14 - My Name Is Mud.flac:bdd83d2455b9ff28aa49302d2709ffc2
+15 - Jerry Was a Race Car Driver.flac:4fa64a4f2d68afcae0a90f34b2548c84
+16 - The Seven.flac:f06088969e5c34b743c3faa80a6c1027
+17 - Here Come the Bastards.flac:c88adeb8029b9c3bc81c1e9f842d044d

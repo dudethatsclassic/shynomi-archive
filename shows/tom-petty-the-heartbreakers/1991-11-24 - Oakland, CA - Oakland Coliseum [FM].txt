@@ -1,0 +1,41 @@
+Tom Petty & The Heartbreakers
+Tom Petty: lead vocals, rhythm guitar, harmonica
+Mike Campbell: lead guitar 
+Benmont Tench: keyboards, backing vocals
+Howie Epstein: bass, backing vocals 
+Stan Lynch: drums, backing vocals
+ 
+Oakland Coliseum
+Oakland, Ca, CA
+November 24, 1991
+promoting their 8th album "into the great wide open"
+runtime: 76:18 (minutes/ seconds)
+
+"Superstars concert series"
+
+     setlist:
+1: Jim Ellis radio intro :19 (cuts in) 
+2: king's highway 3:47
+3: too good to be true 6:06 
+4: I won't back down 3:09    
+5: free falling 4:57  
+6: out in the cold 5:12   
+7: psychotic reaction 7:18 
+8: into the great wide open 4:23
+9: I'm tired, Joey Boy 3:18
+9: you're so bad 3:13
+11: Ben's boogie 3:39    
+12: learning to fly 4:01  
+13: here comes my girl 5:35    
+14: refugee 7:06
+15: running down a dream 5:01   
+16: lonely weekends 3:19
+17: makin' some noise 5:54
+
+lineage: 
+  WGIR 101.1 FM Manchester N.H. radio broadcast >
+  Yamaha RX-500U reciever with wire antenna >
+  Naka. BX-150 cassette recorder (dolby off) >
+  Maxell XLII 90 minute cassette >
+  played on tascam 112 into soundforge (wav) >
+  flac (sb's aligned) > torrentially yours.

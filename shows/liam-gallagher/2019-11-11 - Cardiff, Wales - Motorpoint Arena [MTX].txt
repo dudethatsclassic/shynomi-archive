@@ -1,0 +1,36 @@
+Liam Gallagher
+Cardiff Motorpoint Arena, Wales
+11 November 2019
+
+Source 1: AT898 > SP-SPSB-10 > Tascam DR-2D (44.1kHz 24 bit)
+Source 2: Icom ICR5 > Tascam DR-2D (44.1kHz 24 bit) (Guitar Feed)
+Source 3: Icom ICR5 > Tascam DR-2D (44.1kHz 24 bit) (Bass Feed)
+Source 4: Olympus LS-P1 Internal Mics (44.1kHz 16 bit)
+
+Mastered in Adobe Audition 2018 CC, Izotope Ozone 8 and Har Bal 2.3
+
+
+Rock 'n' Roll Star (Oasis song) (with Paul Arthurs)
+Halo
+Shockwave
+Wall of Glass
+For What It's Worth
+Morning Glory (Oasis song) (with Paul Arthurs)
+Columbia (Oasis song) (with Paul Arthurs)
+Stand by Me (Oasis song) (with Paul Arthurs)
+Once
+Now That I've Found You
+One of Us
+The World's Not Set in Stone (Beady Eye song) (with Paul Arthurs) (First time as solo artist)
+Greedy Soul (Acoustic)
+Be Still (live debut)
+The River
+Gas Panic! (Oasis song) (with Paul Arthurs) (First time by an Oasis member since 2002)
+Wonderwall (Oasis song) (with Paul Arthurs)
+Acquiesce (Oasis song) (with Paul Arthurs) (First time by an Oasis member since 2006)
+Roll With It (Oasis song) (with Paul Arthurs)
+Supersonic (Oasis song) (with Paul Arthurs)
+Champagne Supernova (Oasis song) 
+
+Notes:
+Owing to a rougue unplugged cable on the Tascam, the audience source is Source 4 (the backup) from halfway through Morning Glory to halfway through Gas Panic!

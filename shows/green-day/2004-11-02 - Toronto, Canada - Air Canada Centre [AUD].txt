@@ -1,0 +1,54 @@
+Green Day
+Air Canada Center
+Toronto Canada
+November 2, 2004
+
+ripped using eac> wave> flac> fingerprints> md5 checksums
+
+no original recording info received in a cd for cd trade via mail
+
+{1}
+-american idiot
+-jesus of suburbia
+-holiday
+-st.jimmy
+-longview
+-hitchin a ride
+-brainstew
+-jaded
+-knowledge
+{2}
+-basket case
+-she
+-king for a day
+-wake me up when sept ends
+-homecoming
+-boulevard of broken dreams
+-minority
+-we are the champions
+-good riddance
+
+
+
+
+Track01.flac:dff8487bedcff5a2b32237a526a94503
+Track02.flac:78740ddc72de0edd07dac0be818bc0ef
+Track03.flac:85024d326c2e434f12ca1381edabbe2c
+Track04.flac:bb6fd694e4cf2996182c1d2678f31e69
+Track05.flac:1e9372e6972b52d199c1d5b0fcc426b4
+Track06.flac:31204bcab3cb44a0081d8bc72016a12e
+Track07.flac:ecd6451ffdb98bc4e0bc4bb6a66a625c
+Track08.flac:0cb85b814adcc0babeb5699b66edece1
+Track09.flac:ce4ae8bcaecee654f43f9e76bb28127f
+Track10.flac:66c76cc6af90d82b36051699bba131d2
+Track11.flac:2d27570cb89282be83294ea844afabdd
+Track01.flac:0571211e09c22aeec9742eef7c9ffdd1
+Track02.flac:22addd9336902a57a6f8cc14e8cf9606
+Track03.flac:6c5183e81846b37105a55ef814392a47
+Track04.flac:09678ca15d9a599c737db726ea5ad73d
+Track05.flac:59fe5567ca27b9592d8a7997e9408fee
+Track06.flac:87db52b85712009683ed8bffebe4d463
+Track07.flac:678bcac06bb97633af27b75983cc35b3
+Track08.flac:16f7364534fcfbc9544dc8ddbf7a5ee0
+Track09.flac:b23537cfa2ebe6917eae7f3567a526aa
+Track10.flac:b40f356533d9348443aaadeeaa98fb25

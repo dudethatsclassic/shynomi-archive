@@ -1,0 +1,23 @@
+Silverchair
+
+4th January 1996
+Homebake Festival
+Belongil Fields, Byron Bay
+New South Wales, Australia
+
+Double J Live At The Wireless
+
+01 (DJ Intro)
+02 Leave Me Out
+03 Slave
+04 Suicidal Dream
+05 Tomorrow
+06 New Race
+07 Faultline
+08 Learn To Hate
+09 Israel's Son
+10 (DJ Outro)
+
+Running Time: 40:03
+
+Digital Terrestrial Broadcast on 2018-09-11 (MPEG1 Layer 2 48kHz @ 256kb/s) Double J Radio > DVB-T > AVerMedia H727 PCIe Hybrid DVBT > DVBviewer > .mp2 > BeSliced 0.9b6 (.bat Normalize  lossless) > MP3DirectCut (editing/cut, no re-encoding) > .mp2

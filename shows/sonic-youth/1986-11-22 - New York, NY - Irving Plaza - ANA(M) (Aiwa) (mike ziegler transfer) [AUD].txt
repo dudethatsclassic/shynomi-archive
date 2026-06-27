@@ -1,0 +1,52 @@
+Sonic Youth
+November 22, 1986
+Irving Plaza
+New York, NY
+
+DISC #1/1 (57:46)
+-----------------
+01) intro
+02) Marilyn Moore
+03) Tom Violence
+04) White Kross
+05) Shadow Of A Doubt
+06) Death To Our Friends
+07) Secret Girl
+08) Green Light
+09) Brother James
+10) Kill Yr idols
+11) Expressway To Yr Skull
+12) Starpower
+13) The Red And The Black
+
+GENERATION
+-----------------
+ANA(M) -> WAV [48kHz/24bit] -> WAV [44.1kHz/16bit] -> FLAC [Level 8]
+
+SOURCE
+-----------------
+Aiwa (supplied) -> Aiwa HS-J08
+
+TRANSFER
+-----------------
+Nakamichi DR-8 -> Hosa RCA cable -> LynxONE analog-in -> WaveLab 5.00a -> CD Wave 1.94.8 -> FLAC Frontend 1.7.1
+
+MD5 FINGERPRINTS
+-----------------
+3d82113b852a596fb3aa78cf34548f8e *sonicyouth1986-11-22t01.flac
+adf0f56402bebddc2bd9c383d83637f1 *sonicyouth1986-11-22t02.flac
+2a7b3a626554f7021f35c00da46ceca5 *sonicyouth1986-11-22t03.flac
+00799b850a2633a1021b7a6d2607cc34 *sonicyouth1986-11-22t04.flac
+c918cef49b46f2afa8af1e280de46f7d *sonicyouth1986-11-22t05.flac
+bcada5509c36637e7acd0915c2661910 *sonicyouth1986-11-22t06.flac
+6212542ad0e1bb3bca4687fa5a66e0a3 *sonicyouth1986-11-22t07.flac
+f57c12ae3d27145ddbcdde7b615a753a *sonicyouth1986-11-22t08.flac
+02dcf547224cd450ca9ed554c2960fc9 *sonicyouth1986-11-22t09.flac
+b5da14cbcc4ae4cfab16cb964aab8ae8 *sonicyouth1986-11-22t10.flac
+7954a0611458afafc874d826771f26ae *sonicyouth1986-11-22t11.flac
+3fcb466960fef4324b9ffdc251afc2f7 *sonicyouth1986-11-22t12.flac
+e2fa1663086e5eb020985ac2c3edde31 *sonicyouth1986-11-22t13.flac
+
+
+Transferred by Mike Ziegler.
+PLEASE DO NOT ENCODE TO MP3 OR SELL!

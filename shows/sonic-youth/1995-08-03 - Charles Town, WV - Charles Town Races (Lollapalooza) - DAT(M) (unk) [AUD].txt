@@ -1,0 +1,56 @@
+Sonic Youth
+1995-08-03
+Lollapalooza
+Charles Town Races
+Charles Town
+West Virginia, USA
+
+68:43 / 365 MB
+
+
+01. Schizophrenia
+02. White Kross
+03. Eric's Trip
+04. Bull In The Heather
+05. Starfield Road
+06. Washing Machine
+07. Candle
+08. Teenage Riot
+09. Becuz
+10. Junkie's Promise
+11. Brother James
+12. Diamond Sea
+
+
+Encore (13. Tom Violence 14. 100%) not performed due to time restraints; date might be the 3rd
+
+Notes, extraction and seed by Martin van Rappard (rappard [at] gmail [dot] com), 2008-01-15:
+Audience > unknown mic > Sony TCD-D7 (?) > DAT (master) > ? > CD-R (low generation) > EAC v0.95b4 (proper offset, secure) > FLAC Frontend 1.7.1 (verify, align on sector boundaries) > .flac 1.2.1b (level 8) > Mp3tag v2.39 (tagged) > Trader's Little Helper 1.1.1.90 (generated checksum files)
+
+Sources used for this text file:
+http://db.etree.org
+http://google.com
+JL
+http://phishhook.com
+http://sonicyouth.com/mustang/cc/080395.html
+http://sylrdb.free.fr/1995.htm
+
+
+======================================================================
+
+Reseeded to Dime by _tunic_ on 30 July 2020, with following notes:
+
+This one was shared to Dime by rappard in 2008.
+The original date for this fileset was 1995-08-02. 
+The correct date for this gig is 1995-08-03, according to these sites:
+http://www.sonicyouth.com/mustang/cc/080395.html
+https://janesaddiction.org/lollapalooza/lollapalooza-95/
+https://www.concertarchives.org/concerts/lollapalooza-1995--2
+So the date has been changed in alll filenames, and in this info file, and new checksums were created.
+
+In other news, on this day of the Lollapalooza tour, Pavement got a shower of mud and rocks thrown at them from the crowd which forced them to finish their performance prematurely. See:
+https://www.youtube.com/watch?v=wd4fzqSmU3o
+(this short video fragment comes from the Pavement documentary "Slow Century"  and also features Thurston Moore)
+See also:
+https://www.stereogum.com/1891083/6-storied-sets-from-25-years-of-lollapalooza/franchises/columns/sounding-board/
+https://blog.ticketmaster.com/10-lollapalooza-performances-history-pearl-jam-kanye-metallica-lady-gaga/

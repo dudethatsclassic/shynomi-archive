@@ -1,0 +1,80 @@
+PRIMUS
+August 8, 2025
+Channel 24
+Sacramento, CA, US
+
+SETLIST:
+-------------------
+00. intro/banter -> Clown Dream [Danny Elfman song, P.A. tape]
+01. To Defy the Laws of Tradition
+02. Last Salmon Man
+03. Groundhog's Day
+04. Dirty Drowning Man
+05. Seas of Cheese
+06. Mr. Krinkle
+07. The Heckler
+08. Golden Boy
+09. Harold of the Rocks
+
+// INTERMISSION [omitted, seamless edit]:
+- Trailer for upcoming Primus documentary
+- Popeye the Sailor [1933 Fleischer Studios animated short]
+- Adventures of Popeye [1935 Fleischer Studios animated short]
+
+10. Spegetti Western
+11. Moron TV
+12. HOINFODAMAN [w/ "Iron Man" riff tease]
+13. Lee Van Cleef
+14. Eleven
+15. Restin' Bones
+16. Hamburger Train
+17. Tommy the Cat
+18. Southbound Pachyderm -> Pure Imagination [Leslie Bricusse & Anthony Newley song, P.A. tape]
+
+
+SOURCE:
+-------------------
+AUD #1 - Quality: 9.5
+Sound Professionals SP-CMC-4U > Sony PCM-A10
+
+Recorded by: vibrioidxire
+
+TRANSFER:
+-------------------
+Sound Professionals SP-CMC-4U (Audio Technica AT-U853's, with UE-H hypercardioid caps mod) > Sound Professionals SP-SPSB-10 Power Module > Sony PCM-A10 High-Resolution Digital Audio Recorder > Apple MacBook Pro (16-inch, 2021) > Adobe Audition 23.2 [post-production/mastering] > xACT 2.57
+
+GENERATION:
+-------------------
+WAV(M) [48kHz/24-bit] > FLAC [Level 8]
+
+NOTES:
+-------------------
+- After "Hamburger Train", the band celebrated their conclusion of their first full-length tour with their new drummer, John Hofferman. They brought out a cake that said "HOFFER SUCKS", and the band drank champagne.
+- After "Tommy the Cat", an excerpt from an episode of "So Many Roads: A Grateful Dead Podcast" was played. The excerpt was where a music fan, Hillary, describes that the "worst concert [she] ever saw was Primus".
+
+
+FLAC FINGERPRINTS:
+-------------------
+primus2025-08-08_AUD1_t00.flac:f76af83d439804e13bb37811099b8e2d
+primus2025-08-08_AUD1_t01.flac:44728f243a0e7cd85d7e14fa5a939b37
+primus2025-08-08_AUD1_t02.flac:73bc49974afd6dab67d3183203fecb5b
+primus2025-08-08_AUD1_t03.flac:911e5ff22514e3a7ca6ab9025705acb2
+primus2025-08-08_AUD1_t04.flac:f2d40a4213757abda3d9b8cd242e0c67
+primus2025-08-08_AUD1_t05.flac:863b3c5d1d2d4c2fadba16d900f03596
+primus2025-08-08_AUD1_t06.flac:5a869056d3802ef526dfa8a5ed6cdcba
+primus2025-08-08_AUD1_t07.flac:c8aa344693bdb0856ef33f59dc5fa522
+primus2025-08-08_AUD1_t08.flac:aa67c58eacc639ab867b5bfd7044ea6c
+primus2025-08-08_AUD1_t09.flac:59680b628b9a077e75829af9e04f8203
+primus2025-08-08_AUD1_t10.flac:ed6a622cbd4bd15d0b0bb14f426a6ed7
+primus2025-08-08_AUD1_t11.flac:df0a907ce977dc403b34a30f0afacbeb
+primus2025-08-08_AUD1_t12.flac:7ebc90176afd3f9fc8ff598782b488a2
+primus2025-08-08_AUD1_t13.flac:cd703d7d1a44b721ac5ccc0c96f60c6c
+primus2025-08-08_AUD1_t14.flac:e3a10b63311512f410d127cadebd5bfa
+primus2025-08-08_AUD1_t15.flac:9c5d117cf1327e46778c00dc747d7bf7
+primus2025-08-08_AUD1_t16.flac:1597a82d201ce7841410fbd27dafd6b2
+primus2025-08-08_AUD1_t17.flac:9b9e25504f2ea04cc3103fef0ab3216e
+primus2025-08-08_AUD1_t18.flac:09faebbbf631a2e5fa84c0e431d4fcf6
+
+
+Transferred and encoded by: vibrioidxire
+PLEASE DO NOT DISTRIBUTE IN LOSSY FORMATS OR SELL!

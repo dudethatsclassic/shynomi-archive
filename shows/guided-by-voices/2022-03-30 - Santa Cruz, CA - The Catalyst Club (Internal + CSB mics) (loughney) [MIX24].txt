@@ -1,0 +1,69 @@
+Guided by Voices - 2022 03 30 The Catalyst Club, Santa Cruz, CA
+
+This is my mix of two sources (internal mics + CSB mics).  I also have the other versions tracked, if anyone is interested.
+
+Show note:
+Missed the San Francisco show, but this made up for it.  Same setlist, but different order. No opening band, 50 songs, two and half hours. What more could you want?  There was a guy over my right shoulder who was quite talkative, but luckily he doesn't intrude too much on the recording.  By the end of the night, everyone was feeling no pain.
+
+Recording note:
+Used my Tascam DR-40x in 4-track mode with internal mics and CSB mics.  The CSB recording had more audible clapping, which I limited to reduce the noise. CSB mics captured the highs better, but the internal mics had better low-end and presence.  I mixed them equally, normalized the volume, and removed some claps at the start of several songs.
+
+1 intro
+2 The Very Second
+3 Not Behind the Fighter Jet
+4 Re-Develop
+5 climbing a Ramp
+6 Tractor Rape Chain
+7 Haircut Sphinx
+8 To Keep an Area
+9 Cut-Out Witch
+10 The Rally Boys
+11 Spanish Coin
+12 A Salty Salute
+13 Excited Ones
+14 King 007
+15 Motor Away
+16 Eyes of Your Doctor
+17 The Goldheart Mountain Top Queen Directory
+18 Man Called Blunder
+19 Dance of Gurus
+20 The Disconnected Citizen
+21 Back to the Lake
+22 Crash at Lake Placebo
+23 I Am a Tree
+24 Never Mind the List
+25 My Kind of Soldier
+26 Moses on a Snail
+27 Volcano
+28 Twilight Campfire
+29 Mad River Man
+30 Jane of the Waking Universe
+31 Mr Child 
+32 Everybody Thinks I Am A Raincloud (When I'm Not Looking)
+33 Time Without Looking 
+34 Unfun Glitz (false start)
+35 Unfun Glitz
+36 The Best of Jill Hives
+37 Your Name is Wild
+38 The Batman Sees The Ball
+39 Yours to Keep	
+40 Echos Myron
+41 Crystal Nuns Cathedral
+42 Love is Stronger than Witchcraft
+43 Game of Pricks
+44 I Am A Scientist
+45 Non-Absorbing
+ encore
+46 Chasing Heather Crazy
+47 Amusement Park is Over
+48 Shocker in Gloomtown
+49 My (Limited) Engagement
+50 Smothered in Hugs
+51 Teenage FBI
+52 Glad Girls
+
+taper: loughney
+location: center left, at the stage
+Souce 1: Tascam DR-40x internal mics > WAV (24/48) 
+Source 2: CSB > Batterbox with Bass Roll-Off > Tascam DR-40x > WAV (24/48)
+Mix: Source 1 + Source 2 > Audacity (Mix Down to stereo track) > SoundForge (Normalize Volume, clap reduction) > CDWAVE (splits) > FLAC > MP3Tag (tags)

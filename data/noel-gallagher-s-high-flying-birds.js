@@ -24,9 +24,10 @@ const ARTIST_DATA = {
       "state": "UK",
       "location": "London, UK",
       "venue": "The Jonathan Ross Show",
-      "notes": "NTL Box · johnky",
+      "notes": "NTL Box \u00b7 johnky",
       "version": "TV",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "2011-10-18 - London, UK - The Jonathan Ross Show (NTL Box) (johnky) [TV].txt"
     },
     {
       "year": 2011,
@@ -65,7 +66,8 @@ const ARTIST_DATA = {
       "venue": "Casino de Paris",
       "notes": "",
       "version": "FM",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "2011-12-06 - Paris, France - Casino de Paris [FM].txt"
     },
     {
       "year": 2012,
@@ -76,9 +78,10 @@ const ARTIST_DATA = {
       "state": "UK",
       "location": "London, UK",
       "venue": "The Graham Norton Show",
-      "notes": "NTL Box · johnky",
+      "notes": "NTL Box \u00b7 johnky",
       "version": "TV",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "2012-01-06 - London, UK - The Graham Norton Show (NTL Box) (johnky) [TV].txt"
     },
     {
       "year": 2012,
@@ -89,9 +92,10 @@ const ARTIST_DATA = {
       "state": "England",
       "location": "Manchester, England",
       "venue": "Manchester Arena",
-      "notes": "ECM-CS10 · birchy",
+      "notes": "ECM-CS10 \u00b7 birchy",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "2012-02-13 - Manchester, England - Manchester Arena (ECM-CS10) (birchy) [AUD].txt"
     },
     {
       "year": 2012,
@@ -102,9 +106,10 @@ const ARTIST_DATA = {
       "state": "UK",
       "location": "Sheffield, UK",
       "venue": "Motorpoint Arena",
-      "notes": "Sony ECM-719 · leongti",
+      "notes": "Sony ECM-719 \u00b7 leongti",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "2012-02-19 - Sheffield, UK - Motorpoint Arena (Sony ECM-719) (leongti) [AUD].txt"
     },
     {
       "year": 2012,
@@ -117,7 +122,8 @@ const ARTIST_DATA = {
       "venue": "Grand Ole Opry *In Demand Uncut",
       "notes": "",
       "version": "FM",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "2012-02-28 - Glasgow, Scotland - Grand Ole Opry - In Demand Uncut [FM].txt"
     },
     {
       "year": 2012,
@@ -128,9 +134,10 @@ const ARTIST_DATA = {
       "state": "Germany",
       "location": "Munich, Germany",
       "venue": "The Tonhalle",
-      "notes": "AT831b · johnky",
+      "notes": "AT831b \u00b7 johnky",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "2012-03-11 - Munich, Germany - The Tonhalle (AT831b) (johnky) [AUD] .txt"
     },
     {
       "year": 2012,
@@ -141,9 +148,10 @@ const ARTIST_DATA = {
       "state": "MI",
       "location": "Royal Oak, MI",
       "venue": "Royal Oak Music Theatre",
-      "notes": "CA-14s · live2cd",
+      "notes": "CA-14s \u00b7 live2cd",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "2012-03-31 - Royal Oak, MI - Royal Oak Music Theatre (CA-14s) (live2cd) [AUD].txt"
     },
     {
       "year": 2012,
@@ -156,7 +164,8 @@ const ARTIST_DATA = {
       "venue": "Pabst Theater",
       "notes": "ECM-MS9078",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "2012-04-03 - Milwaukee, WI - Pabst Theater (ECM-MS9078) [AUD].txt"
     },
     {
       "year": 2012,
@@ -167,9 +176,10 @@ const ARTIST_DATA = {
       "state": "GA",
       "location": "Atlanta, GA",
       "venue": "Tabernacle",
-      "notes": "unk · sjones",
+      "notes": "unk \u00b7 sjones",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "2012-04-06 - Atlanta, GA - Tabernacle (unk) (sjones) [AUD].txt"
     },
     {
       "year": 2012,
@@ -180,9 +190,10 @@ const ARTIST_DATA = {
       "state": "AZ",
       "location": "Phoenix, AZ",
       "venue": "Orpheum Theatre",
-      "notes": "iPod recording mic · dbsainz",
+      "notes": "iPod recording mic \u00b7 dbsainz",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "2012-04-18 - Phoenix, AZ - Orpheum Theatre (iPod recording mic) (dbsainz) [AUD].txt"
     },
     {
       "year": 2012,
@@ -195,7 +206,8 @@ const ARTIST_DATA = {
       "venue": "Nippon Budokan *I Wanna Live In a Dream In a Judo Arena",
       "notes": "IEM+AUD",
       "version": "Silver CD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "2012-05-23 - Tokyo, Japan - Nippon Budokan [MTX].txt"
     },
     {
       "year": 2012,
@@ -208,7 +220,8 @@ const ARTIST_DATA = {
       "venue": "Kerrang Studios",
       "notes": "Kerrang",
       "version": "FM",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "2012-07-08 - Birmingham, UK - Kerrang Studios - Kerrang Radio [FM].txt"
     },
     {
       "year": 2012,
@@ -221,7 +234,8 @@ const ARTIST_DATA = {
       "venue": "Domaine National de Saint-Cloud \"Festival Rock en Seine\"",
       "notes": "",
       "version": "FM",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "2012-08-25 - Paris, France - Rock en Seine [FM].txt"
     },
     {
       "year": 2012,
@@ -232,9 +246,10 @@ const ARTIST_DATA = {
       "state": "England",
       "location": "Bournemouth, England",
       "venue": "Bournemouth International Centre",
-      "notes": "Blue Mikey 2.0 · 280981",
+      "notes": "Blue Mikey 2.0 \u00b7 280981",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "2012-09-04 - Bournemouth, England - Bournemouth International Centre (Blue Mikey 2.0) (280981) [AUD].txt"
     },
     {
       "year": 2015,
@@ -245,9 +260,10 @@ const ARTIST_DATA = {
       "state": "Ireland",
       "location": "Dublin, Ireland",
       "venue": "The 3 Arena",
-      "notes": "Midnight · MD-699A-B",
+      "notes": "Midnight \u00b7 MD-699A-B",
       "version": "Silver CD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "2015-03-04 - Dublin, Ireland - The 3 Arena - Midnight Dreamer (MD-699A-B) [Silver].txt"
     },
     {
       "year": 2015,
@@ -258,9 +274,10 @@ const ARTIST_DATA = {
       "state": "UK",
       "location": "Nottingham, UK",
       "venue": "Capital FM Arena",
-      "notes": "SP-CMC-8 · birchy",
+      "notes": "SP-CMC-8 \u00b7 birchy",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "2015-03-06 - Nottingham, UK - Capital FM Arena (SP-CMC-8) (birchy) [AUD].txt"
     },
     {
       "year": 2015,
@@ -273,7 +290,8 @@ const ARTIST_DATA = {
       "venue": "Le Zenith",
       "notes": "",
       "version": "TV",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "2015-03-12 - Paris, France - Le Zenith [TV].txt"
     },
     {
       "year": 2015,
@@ -297,9 +315,10 @@ const ARTIST_DATA = {
       "state": "City",
       "location": "Mexico, City, Mexico",
       "venue": "Metropolitan Theatre",
-      "notes": "Tascam DR-WL22 · edba",
+      "notes": "Tascam DR-WL22 \u00b7 edba",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "2015-05-26 - Mexico, City, Mexico - Metropolitan Theatre (Tascam DR-WL22) (edba) [AUD].txt"
     },
     {
       "year": 2015,
@@ -312,7 +331,8 @@ const ARTIST_DATA = {
       "venue": "Bishop Grosseteste University",
       "notes": "",
       "version": "FM",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "2015-12-05 - Lincoln, UK - Bishop Grosseteste University [FM].txt"
     },
     {
       "year": 2017,
@@ -323,9 +343,10 @@ const ARTIST_DATA = {
       "state": "UK",
       "location": "London, UK",
       "venue": "Maida Vale Studios",
-      "notes": "The · BBC Radio2",
+      "notes": "The \u00b7 BBC Radio2",
       "version": "FM",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "2017-12-07 - London, UK - Maida Vale Studios - The Jo Whiley Show (BBC Radio2) [FM].txt"
     },
     {
       "year": 2019,
@@ -338,7 +359,8 @@ const ARTIST_DATA = {
       "venue": "Arena / Roskilde Festival",
       "notes": "",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "2019-07-06 - Roskilde, Denmark - Arena - Roskilde Festival [AUD].txt"
     },
     {
       "year": 2019,
@@ -351,7 +373,8 @@ const ARTIST_DATA = {
       "venue": "BB&T Pavilion",
       "notes": "",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "2019-08-08 - Camden, NJ - BB&T Pavilion [AUD].txt"
     },
     {
       "year": 2019,
@@ -364,7 +387,8 @@ const ARTIST_DATA = {
       "venue": "Optus Stadium",
       "notes": "",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "2019-11-27 -  Perth, Australia - Optus Stadium [AUD].txt"
     },
     {
       "year": 2023,
@@ -375,9 +399,10 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "Concord, CA",
       "venue": "Concord Pavillion",
-      "notes": "Schoeps MK4 · loughney",
+      "notes": "Schoeps MK4 \u00b7 loughney",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "2023-06-06 - Concord, CA - Concord Pavillion (Schoeps MK4) (loughney) [AUD].txt"
     },
     {
       "year": 2023,
@@ -388,9 +413,10 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "Concord, CA",
       "venue": "Concord Pavillion",
-      "notes": "DPA 4061s · wilson66",
+      "notes": "DPA 4061s \u00b7 wilson66",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "2023-06-06 - Concord, CA - Concord Pavilion (DPA 4061s) (wilson66) [AUD].txt"
     },
     {
       "year": 2023,
@@ -401,9 +427,10 @@ const ARTIST_DATA = {
       "state": "FL",
       "location": "West Palm Beach, FL",
       "venue": "iTHINK Financial Amphitheatre",
-      "notes": "ECM-DS70P · kevdogg",
+      "notes": "ECM-DS70P \u00b7 kevdogg",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "2023-06-21 - West Palm Beach, FL - iTHINK Financial Amphitheatre (ECM-DS70P) (kevdogg) [AUD].txt"
     },
     {
       "year": 2023,
@@ -414,9 +441,10 @@ const ARTIST_DATA = {
       "state": "FL",
       "location": "Tampa, FL",
       "venue": "MidFlorida Credit Union Amphitheatre",
-      "notes": "ECM-DS70P · kevdogg",
+      "notes": "ECM-DS70P \u00b7 kevdogg",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "2023-06-22 - Tampa, FL - MidFlorida Credit Union Amphitheatre (ECM-DS70P) (kevdogg) [AUD].txt"
     },
     {
       "year": 2023,
@@ -427,9 +455,10 @@ const ARTIST_DATA = {
       "state": "GA",
       "location": "Alpharetta, GA",
       "venue": "Ameris Bank Amphitheatre",
-      "notes": "Tascam iM2 · jorje",
+      "notes": "Tascam iM2 \u00b7 jorje",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "2023-06-24 - Alpharetta, GA - Ameris Bank Amphitheatre (Tascam iM2) (jorje) [AUD].txt"
     },
     {
       "year": 2023,
@@ -442,7 +471,8 @@ const ARTIST_DATA = {
       "venue": "Alexandra Palace Theatre",
       "notes": "Later",
       "version": "TV",
-      "format": "MKV"
+      "format": "MKV",
+      "textFile": "2023-07-01 - London, UK - Alexandra Palace Theatre - Later with Jools Holland [TV].txt"
     },
     {
       "year": 2023,
@@ -453,9 +483,10 @@ const ARTIST_DATA = {
       "state": "MA",
       "location": "Boston, MA",
       "venue": "MGM Music Hall at Fenway",
-      "notes": "SP-CMC-8 · farve4",
+      "notes": "SP-CMC-8 \u00b7 farve4",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "2023-07-15 - Boston, MA - MGM Music Hall at Fenway (SP-CMC-8) (farve4) [AUD].txt"
     },
     {
       "year": 2023,
@@ -466,9 +497,10 @@ const ARTIST_DATA = {
       "state": "UK",
       "location": "London, UK",
       "venue": "O2 Academy Bournemouth",
-      "notes": "Absolute Radio · whatever",
+      "notes": "Absolute Radio \u00b7 whatever",
       "version": "FM",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "2023-07-31 - London, UK - O2 Academy Bournemouth (Absolute Radio) (whatever) [FM].txt"
     },
     {
       "year": 2023,
@@ -479,9 +511,10 @@ const ARTIST_DATA = {
       "state": "UK",
       "location": "Essex, UK",
       "venue": "Audley End House",
-      "notes": "Olympus LS-P5 · dfb02080",
+      "notes": "Olympus LS-P5 \u00b7 dfb02080",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "2023-08-05 - Essex, UK - Audley End House (Olympus LS-P5) (dfb02080) [AUD].txt"
     },
     {
       "year": 2023,
@@ -492,9 +525,10 @@ const ARTIST_DATA = {
       "state": "Mexico",
       "location": "Mexico City, Mexico",
       "venue": "Corona Capital",
-      "notes": "Autódromo",
+      "notes": "Auto\u0301dromo",
       "version": "WEB",
-      "format": "MKV"
+      "format": "MKV",
+      "textFile": "2023-11-19 - Mexico City, Mexico - Corona Capital - Auto\u0301dromo Hermanos Rodri\u0301guez [WEB].txt"
     },
     {
       "year": 2023,
@@ -507,7 +541,8 @@ const ARTIST_DATA = {
       "venue": "Tokyo Garden Theater",
       "notes": "DPA 4061+IEM",
       "version": "MIX",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "2023-12-01 - Tokyo, Japan - Tokyo Garden Theater (DPA 4061+IEM) [MIX].txt"
     },
     {
       "year": 2023,
@@ -518,9 +553,10 @@ const ARTIST_DATA = {
       "state": "Japan",
       "location": "Tokyo, Japan",
       "venue": "Tokyo Garden Theater",
-      "notes": "Lullaby · X-Avel",
+      "notes": "Lullaby \u00b7 X-Avel",
       "version": "Silver CD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "2023-12-02 - Tokyo, Japan - Tokyo Garden Theater - Lullaby of Tokyo (X-Avel) {SMS-244} [Silver].txt"
     },
     {
       "year": 2023,
@@ -533,7 +569,8 @@ const ARTIST_DATA = {
       "venue": "Festival Hall (X-Avel) {SMS-245}",
       "notes": "",
       "version": "Silver CD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "2023-12-04 - Osaka, Japan - Festival Hall (X-Avel) {SMS-245} [Silver].txt"
     },
     {
       "year": 2023,
@@ -544,9 +581,10 @@ const ARTIST_DATA = {
       "state": "Wales",
       "location": "Cardiff, Wales",
       "venue": "Utilita Arena",
-      "notes": "inc · Edirol R-07 · welshylad",
+      "notes": "inc \u00b7 Edirol R-07 \u00b7 welshylad",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "2023-12-17 - Cardiff, Wales - Utilita Arena (Edirol R-07) (welshylad) [AUD].txt"
     },
     {
       "year": 2024,
@@ -557,9 +595,10 @@ const ARTIST_DATA = {
       "state": "UK",
       "location": "London, UK",
       "venue": "Royal Albert Hall",
-      "notes": "Teenage · Olympus LS-P5 · birchy",
+      "notes": "Teenage \u00b7 Olympus LS-P5 \u00b7 birchy",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "2024-03-21 - London, UK - Royal Albert Hall - Teenage Cancer Trust (Olympus LS-P5) (birchy) [AUD].txt"
     }
   ],
   "misc": []

@@ -1,0 +1,51 @@
+Primus
+Saturday June 22nd, 2013
+Moose's Tooth Pub
+3300 Old Seward Hwy
+Anchorage, Alaska
+
+Taper:  Steve Hagar aka ballsdeep
+Source:  Tascam DR-2d (internal mics) @ 16/44.1
+Transfer:  .WAV > Wavepad Master's Edition (edits, tracking) > flac (8) via Frontend
+
+Setlist:  2:10:31
+01 Pudding Time (fades in)
+02 Groundhog's Day
+03 Fisticuffs
+04 Moron TV
+05 American Life
+06 Over the Falls
+07 Lee Van Cleef
+08 drums > 
+09 Eleven
+10 The Toys Go Winding Down
+11 Jerry Was a Race Car Driver
+12 My Name Is Mud
+13 Over the Electric Grapevine
+14 Eternal Consumption Engine
+15 Jilly's On Smack
+16 Southbound Pachyderm
+17 Tommy the Cat
+18 Too Many Puppies
+
+No intermission or encore.  Recorded from on top of a shitbox.  Some door slams here and there.  Beer thrown towards stage at one point.  
+
+fingerprints:
+01 - Pudding Time.flac:c5f3a798939b5ff29cb33c06e176b24c
+02 - Groundhog's Day.flac:2d546f33bb4fef0a74f63cd597a8219e
+03 - Fisticuffs.flac:2aed48c837a2092bf1b974eb369b46a9
+04 - Moron TV.flac:5398d20c903023d50accc7c818c30b93
+05 - American Life.flac:5118d7cc020da6605e7eb4aa76e31f84
+06 - Over the Falls.flac:7217aa554f1d9f1376be0fa430a26e7e
+07 - Lee Van Cleef.flac:de2686e5e19a36157c4153b52ee855ec
+08 - drums.flac:139392f9e007b1517c812c5f215b4b07
+09 - Eleven.flac:36fa60f2f59c64d0c01248bc9a8a47fd
+10 - The Toys Go Winding Down.flac:51ec799ce1aa722337f0c2c89043e8d5
+11 - Jerry Was A Race Car Driver.flac:b6916c4ab53c67a1a0aaab9bca7372d9
+12 - My Name Is Mud.flac:1a070fe9b76b04c3354aab3f43a3c9e6
+13 - Over the Electric Grapevine.flac:2bf858b907ad5f50b8a32e3a9a23d6a4
+14 - Eternal Consumption Engine.flac:b99acf9e017e1fc48a70c6f1e7b4228b
+15 - Jilly's On Smack.flac:a1b6c00c2f7090020083e808620c2be1
+16 - Southbound Pachyderm.flac:4560caf3f5ac60081fd8014f9b575e12
+17 - Tommy the Cat.flac:f8754309b8fea4145de14727bc14527a
+18 - Too Many Puppies.flac:a36b9aa1540f36ddfccd8e8d2eba50bc

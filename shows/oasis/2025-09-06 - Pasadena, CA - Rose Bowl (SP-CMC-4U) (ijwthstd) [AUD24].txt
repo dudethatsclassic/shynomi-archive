@@ -1,0 +1,78 @@
+﻿Oasis
+Rose Bowl
+Pasadena, CA   (USA)
+September 7, 2025
+
+This is the CD incompatible 24/48 version. 
+
+Source:  Audience recording > Audio Technica SP-CMC-4U Cardioid Stereo Microphones > Sony PCM-A10 Digital Recorder (24/48) > usb > WAV > Soundforge > WAV (untracked). Recorded by ijwthstd. 
+
+I received the untracked WAV (24/48), tracked it with CD Wave, and then converted everything to FLAC (level 6) with TLH and obtained a .md file.  
+  
+01. (intro)
+02. Hello 
+03. Acquiesce
+04. Morning Glory
+05. Some Might Say 
+06. Bring It On Down 
+07. Cigarettes & Alcohol 
+08. Fade Away 
+09. Supersonic
+10. Roll With It
+11. Talk Tonight 
+12. Half The World Away 
+13. Little by Little 
+14. D’You Know What I Mean? 
+15. Stand by Me 
+16. Cast No Shadow 
+17. Slide Away 
+18. Whatever 
+19. Live Forever 
+20. Rock ‘n’ Roll Star 
+21. (encore break)
+22. The Masterplan 
+23. Don’t Look Back In Anger 
+24. Wonderwall 
+25. Champagne Supernova (and fireworks)
+
+Total time = 124:51
+
+Note:  At the end of track 15 and the beginning of track 16 there is a rumbling sound.  I don't know what it is (Thunder?  Wheeled cart being rolled over a wooden floor?  Noise from the speakers?  Taper moving around?)  I don't think it affects the music. It's at the end of one of the samples below.  And there are fireworks at the end of track 25.   
+
+Personnel (ref. https://en.wikipedia.org/wiki/Oasis_Live_'25_Tour):
+Liam Gallagher - lead vocals
+Noel Gallagher - guitar & vocals
+Paul Arthurs - guitar & piano
+Gem Archer - guitar
+Andy Bell - bass
+Joey Waronker - drums
+Christian Madden - keyboards
+Alastair White - trombone
+Steve Hamilton - saxophone
+Joe Auckland - trumpet
+
+8c048d9485d26961983638b8ac99e3b1 *Oasis2025-09-06 d01t01.flac
+b9ddd9ae1c29f4853b2ca9e97ca91cc0 *Oasis2025-09-06 d01t02.flac
+78bfdea6384a289ae3c7aecbfca50397 *Oasis2025-09-06 d01t03.flac
+7a864397652923eb1f71799548661943 *Oasis2025-09-06 d01t04.flac
+9a705916c4530f5cdbc9a72420418d68 *Oasis2025-09-06 d01t05.flac
+96d0107c96a369ff2893e5ea28230d6d *Oasis2025-09-06 d01t06.flac
+9a1d53b8173e3be6bb582e3bff46eb6c *Oasis2025-09-06 d01t07.flac
+21fb8c40b02d0cbd069cf7aa3e8c871d *Oasis2025-09-06 d01t08.flac
+c5c01bc8c95c5903deb1bf71bc501a14 *Oasis2025-09-06 d01t09.flac
+7536c013bef633e41a5e11f2026ce89e *Oasis2025-09-06 d01t10.flac
+cb1cb942da000da19f419f0a23a70570 *Oasis2025-09-06 d01t11.flac
+cc1d52be3294ef88f207864af10c8cba *Oasis2025-09-06 d01t12.flac
+8af6710049eb62b75f230aed58e1eb46 *Oasis2025-09-06 d01t13.flac
+1bee537b29e82ed1ec9f3e28499d0cda *Oasis2025-09-06 d01t14.flac
+21b356d6c08f216c87ce2e76806f3da3 *Oasis2025-09-06 d01t15.flac
+7d2727f4ead21c5a70b9155e4cc903d7 *Oasis2025-09-06 d01t16.flac
+a79048433aa1528b29f214e12f7d2758 *Oasis2025-09-06 d01t17.flac
+6557bf145601953bd70f7de35954d769 *Oasis2025-09-06 d01t18.flac
+247747ced4ab82352f820153417e29ee *Oasis2025-09-06 d01t19.flac
+c74b68871e7c379e9235a89157b2f61f *Oasis2025-09-06 d01t20.flac
+6015a8752e442f85a8509ee33f4b7ee6 *Oasis2025-09-06 d01t21.flac
+a690bb8e790c9172250a719190a7800b *Oasis2025-09-06 d01t22.flac
+4e96fbfa5ce8962b7482796f07b41a5b *Oasis2025-09-06 d01t23.flac
+53ab508c8f3a02d94caff94dd625567e *Oasis2025-09-06 d01t24.flac
+e619be54b95981d2a61a247aed43ccf2 *Oasis2025-09-06 d01t25.flac

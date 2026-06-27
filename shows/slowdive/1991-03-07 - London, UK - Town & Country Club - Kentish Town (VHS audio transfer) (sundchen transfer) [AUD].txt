@@ -1,0 +1,28 @@
+foobar2000 1.4.6 / Dynamic Range Meter 1.1.1
+log date: 2019-07-15 21:19:41
+
+--------------------------------------------------------------------------------
+Analyzed: Slowdive / 1991-03-07 Town & Country Club, Kentish Town, London
+--------------------------------------------------------------------------------
+
+DR         Peak         RMS     Duration Track
+--------------------------------------------------------------------------------
+DR7       -1.24 dB    -9.52 dB      6:25 01-Shine
+DR8       -1.27 dB   -10.23 dB      5:37 02-Slowdive
+DR8       -1.62 dB   -10.38 dB      4:06 03-Catch the Breeze
+DR8       -1.08 dB   -10.54 dB      4:48 04-Avalyn
+DR9       -1.18 dB   -10.68 dB      5:04 05-Morningrise
+DR8       -1.36 dB   -10.48 dB      5:45 06-Colors in Spin
+DR8       -1.18 dB   -10.30 dB      5:53 07-She Calls
+--------------------------------------------------------------------------------
+
+Number of tracks:  7
+Official DR value: DR8
+
+Samplerate:        44100 Hz
+Channels:          2
+Bits per sample:   16
+Bitrate:           682 kbps
+Codec:             FLAC
+================================================================================
+

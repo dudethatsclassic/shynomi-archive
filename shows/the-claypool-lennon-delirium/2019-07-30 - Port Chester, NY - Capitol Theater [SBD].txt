@@ -1,0 +1,25 @@
+The Claypool Lennon Delirium 
+2019-07-30 
+The Capitol Theater, 
+Port Chester, NY
+
+SBD > (?) > 16-48 1 channel Mono flac > Audacity (declip + duplicate channel) >
+CDWave Editor (cue sheet) > Foobar2000 (cut tracks + tagging) > Audacity (trim + fades on first & last track only) > flac-8 [16-48]
+
+
+01 Astronomy Domine (Pink Floyd)
+02 South of Reality
+03 Blood and Rockets: Movement I, Saga of Jack Parsons - Movement II Too the Moon
+04 Little Fishes
+05 In The Court of the Crimson King
+06 Breath of a Salesman
+07 Boriska
+08 Easily Charmed by Fools
+09 Like Fleas
+10 Tomorrow Never Knows (The Beatles)
+11 Cricket and the Genie (Movement II, Oratorio Di Cricket)
+12 Cricket and the Genie (Movement I, The Delirium) 
+
+
+
+

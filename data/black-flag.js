@@ -22,7 +22,8 @@ const ARTIST_DATA = {
       "venue": "Santa Monica Civic Auditorium - ANA",
       "version": "AUD",
       "format": "FLAC",
-      "notes": "M \u00b7 Unknown"
+      "notes": "M \u00b7 Unknown",
+      "textFile": "1981-06-19 - Santa Monica, CA - Santa Monica Civic Auditorium - ANA(M) (unk) [AUD].txt"
     },
     {
       "year": 1981,
@@ -35,7 +36,8 @@ const ARTIST_DATA = {
       "venue": "930 Club",
       "version": "AUD",
       "format": "FLAC",
-      "notes": "Early & Late Shows \u00b7 djm5000"
+      "notes": "Early & Late Shows \u00b7 djm5000",
+      "textFile": "1981-12-03 - Washington, DC - 930 Club (Early & Late Shows) (djm5000) [AUD].txt"
     },
     {
       "year": 1984,
@@ -48,7 +50,8 @@ const ARTIST_DATA = {
       "venue": "Dream Palace - ANA(M)",
       "version": "AUD",
       "format": "FLAC",
-      "notes": "Sony TC-D5 \u00b7 reed hayward"
+      "notes": "Sony TC-D5 \u00b7 reed hayward",
+      "textFile": "1984-11-03 - New Orleans, LA - Dream Palace - ANA(M) (Sony TC-D5) (reed hayward) [AUD].txt"
     },
     {
       "year": 1985,
@@ -61,7 +64,8 @@ const ARTIST_DATA = {
       "venue": "St. Theresa's - ANA(M)",
       "version": "AUD",
       "format": "FLAC",
-      "notes": "Sony TC-D5 \u00b7 reed hayward"
+      "notes": "Sony TC-D5 \u00b7 reed hayward",
+      "textFile": "1985-06-06 - New Orleans, LA - St. Theresa's - ANA(M) (Sony TC-D5) (reed hayward) [AUD].txt"
     }
   ]
 };

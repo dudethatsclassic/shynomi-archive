@@ -1,0 +1,109 @@
+Tom Petty & The Heartbreakers
+Hollywood Bowl
+Los Angeles, CA
+October 16, 1999
+
+** 16 BIT **
+
+Source:  Sonic Studios DSM-6P w/3-way lo-cut filter, position unknown (most likely @ 80hz, middle setting) > Sony WM-D6  
+Transfer:  Master cassettes (Maxell Tyle IV metal) > Denon 790R > Kenwood A-522 amplifier > Kenwood GE-622 Equalizer > Audacity                            (boosting/splicing) > .WAV 
+Mastering:  .WAV > Sound Forge Pro 11.0 (Build 299) [iZotope Mastering Suite (declick); minor edits, normalize, & fades] > CDWav (tracking) >               Trader's Little Helper (level 5) > FLAC > TagScanner 6.0.18 (tagging) 
+Location:  Near the front of the bleacher section  
+Recorded & transferred by:  Steve "ballsdeep" Hagar
+Mastered by:  Dennis Orr
+
+Setlist:
+01 Intro
+02 Jammin' Me
+03 Runnin' Down A Dream
+04 Breakdown
+05 Chat
+06 Swingin'
+07 Don't Do Me Like That
+08 Chat
+09 I Don't Wanna Fight (1)
+10 Mary Jane's Last Dance
+11 I Won't Back Down
+12 Chat
+13 Listen To Her Heart
+14 Chat
+15 It's Good To Be King
+16 You Don't Know How It Feels
+17 Band Intros
+18 Penetration
+19 Don't Come Around Here No More
+20 Heart So Big
+21 You Got Lucky
+22 Free Girl Now
+23 You Wreck Me 
+24 Encore Break
+- Encore -
+25 Free Fallin'
+26 Gloria
+27 American Girl
+28 Crowd
+
+(1) Mike Campbell - kead vocals
+
+Tom Petty - lead vocals & guitars 
+Mike Campbell - guitars & backing vocals
+Benmont Tench - keyboards & backing vocals 
+Howie Epstein - bass & backing vocals 
+Scott Thurston - harp, keyboards, guitar, & backing vocals 
+Steve Ferrone - drums 
+
+Mastering Notes:
+- Tape flip during the applause after "I Won't Back Down".  No music was lost, but some of the following "Chat" is missing.
+- Tape flip during the applause after "Don't Come Around Here No More" - seamlessly spliced, no music lost.
+
+Show Notes:
+This is a sort of 'reseed/remaster'.
+
+In light of Tom's death, this was not a fun show.
+
+A huge component of that was the venue itself...it seemed the lines painted on the bleachers were no more than a foot wide (dividing the seats), and one almost had to stand sideways if you wanted to stand. I can't even imagine sitting for a whole show there.
+
+The other component of that was Tom himself...I had no idea he was on the horse at the time, I *think* this was the final show of the tour, and it may have been the tail end of that use, but in my opinion, he was in pretty rough shape. I say this in no sense of disrespect, as the show itself sounds pretty fantastic.
+
+The one moment that sticks out is "Swingin'"...as there was this intro to the song that to my ears sounds like "mumblemumblemumbleSWIIIIIIIIIIIIINGINmumblemumblemumble".
+
+The Heartbreakers pretty much picked him up and carried him on their back this night...I'll leave it at that.
+
+~~~RIP Tom, while you really weren't my cup of tea, I respected you in the sense I respect artists like Prince, Rush or Dylan. While I might not listen to you on the regular, you were true to yourself, and true to those who loved your art.  And there's not much more a fan can ask for from an artist, in that regard.~~~
+
+BIG THANKS to Dennis for bringing this one back to torrent land.
+
+I'll continue on the "golden road of fuck off".
+
+More, later, as always...
+
+---ballsdeep OUT!!!
+
+TomPetty1999-10-16t01.flac:e54f3c4853e5b7c7a8b9d5829e6dc890
+TomPetty1999-10-16t02.flac:7e11ea46b188deba9c4aa433b14163a3
+TomPetty1999-10-16t03.flac:a8464c97ab70078502767e15e0348285
+TomPetty1999-10-16t04.flac:3f8d089f923b03b1f018f48ba6738945
+TomPetty1999-10-16t05.flac:a9b26d37f5ce7366d5b6fa685ef2522d
+TomPetty1999-10-16t06.flac:8ed7505c83e307f90b0b2ee24876c53c
+TomPetty1999-10-16t07.flac:6c270c1f418e262061bde02cb5bb3f2b
+TomPetty1999-10-16t08.flac:68e9429c06244ea40d4197d1a7534f45
+TomPetty1999-10-16t09.flac:587a3b0d8133266dce0ab2f2e652d412
+TomPetty1999-10-16t10.flac:0b3b86eb1bac0f5c6df0eb93fff1bd24
+TomPetty1999-10-16t11.flac:e30eb518059851aa7165a56a576f1303
+TomPetty1999-10-16t12.flac:20d480d4f70aa349015159400824d9fd
+TomPetty1999-10-16t13.flac:62422470cde2003d717d86b42026a6fc
+TomPetty1999-10-16t14.flac:428e51730cab6e99079bd97c3691f1b1
+TomPetty1999-10-16t15.flac:f4ce902edba1ba142016e2ffa776e62d
+TomPetty1999-10-16t16.flac:8338919c0a79f70c98a62991e060beae
+TomPetty1999-10-16t17.flac:3be539fc6f4d72e90468e4d3f10504dd
+TomPetty1999-10-16t18.flac:7ef0c8851a37d0c1189cb01986c1ae88
+TomPetty1999-10-16t19.flac:11e936e163f5f57dd642eff5fc820071
+TomPetty1999-10-16t20.flac:25ff879f955e36c0e3f52d99f3fb0196
+TomPetty1999-10-16t21.flac:b3b1a0548e32eb16a20beb7b86368329
+TomPetty1999-10-16t22.flac:35a4034c1790d9c82ca70977ba9ad355
+TomPetty1999-10-16t23.flac:75c9f7d69b554da7757e33463524a9b1
+TomPetty1999-10-16t24.flac:baaa70ff3ed0f5fa52c75eeabf1dd792
+TomPetty1999-10-16t25.flac:04ff9d1c82413c50d711fed5dd7d37e7
+TomPetty1999-10-16t26.flac:67f5fa3704fc2f3442d5dfb23d43b43c
+TomPetty1999-10-16t27.flac:50290d9ca2889aa80d7d18220f96c8a9
+TomPetty1999-10-16t28.flac:6024d479ff2ddbecf18cc4702ff0bc0a

@@ -1,0 +1,88 @@
+This excellent set was uploaded by klynch86 back in April. It is a superb-sounding boot 
+(spectrals/frequency analyses look perfect!), from a KSAN broadcast of the entire final 
+concert of TP's sold-out 20-night stand at the Fillmore in February 1997. 
+
+Unfortunately, the original upload was as shn files which had been imperfectly extracted 
+from a CD which was burned with SBEs intact. This resulted in very audible gaps in between 
+each track, as well as a bit of the beginning of the following track showing up at the 
+end of each track, thus making it difficult to remove these gaps. I used a 
+lengthy method, described briefly below, to remove these silences 
+**AND ONLY THESE SILENCES**. I could have done the same thing manually, but that 
+would likely have resulted in the loss of a few bits from the originally uploaded files, 
+which would not have been acceptable to me. What you get as a result is perfect, 
+seamless transitions in between tracks, without any gaps, audible or otherwise. 
+I have not removed even a single bit of the non-silent parts of this recording--only 
+the silent parts have been removed, making a true, lossless, non-SBE, non-TAO, gapless 
+recording. **NO BITS HAVE BEEN HARMED IN THE MAKING OF THIS RECORDING!!.**
+
+Here's the dilly: If you have like this upgrade, and have the old files on the hard drive, 
+please consider seeding discs #2 and 3 for a while, until I can get to 100%. Then, I will 
+do the same fix on those, and you'll have this great concert in the manner that the 
+good Lord intended you to have it. I'll put some links below, as well as a sample. 
+Artwork, md5, SFV are included.
+
+Thanks to klynch86, the original uploader of this great boot, and to Andre at EAC for 
+the free tools which made this fix (painful but) possible. 
+
+Enjoy!
+
+--Doc
+
+--------------------------------------------------------------------------------------------
+
+Tom Petty  -  20 Nights At The Fillmore
+Live at the Fillmore West, San Francisco, California, February 7th, 1997
+
+Source: Soundboard
+
+Lineage: SBD/FM > ? > CD > EAC > wav > shn > wav > EAC as one large wave file > 
+         cdwave - split into tracks > EAC using "remove leading/ending silence" feature > 
+         shntools (SBE errors on all tracks, fixed) > flac6
+   	
+The last night of a sold out 20 night stand. A superb radio broadcast.
+
+Disc 1
+1. Around and Around
+2. Jammin Me
+3. Runnin Down a Dream
+4. Time is on My Side
+5. Call Me the Breeze
+6. Cabin Down Below
+7. Diddy Wah Diddy
+8. Slaughter on 10th Avenue
+9. Listen to Her Heart
+10. I Won't Back Down
+11. The Date I Had
+12. I Found My Baby (w/ John Lee Hooker)
+13. Serves You Right to Suffer (w/ John Lee Hooker)
+14. Boogie Chillin (w/ John Lee Hooker)
+
+Disc 2
+1. It's Good to be King
+2. Green Onions
+3. You Are My Sunshine
+4. There Ain't No Sunshine
+5. On the Street
+6. I Want You Back Again
+7. Little Maggie
+8. Walls
+9. Angel Dream
+10. Guitar Boogie Shuffle
+11. Even the Losers
+12. American Girl
+13. You Really Got Me
+14. Country Farm
+15. You Wreck Me
+
+Disc 3
+1. Shakin All Over
+2. Mary Jane's Last Dance
+3. You Don't Know How It Feels
+4. I Got a Woman
+5. Free Fallin
+6. Gloria
+7. Bye Bye Johnny
+8. Satisfaction
+9. Louie Louie
+10. It's All Over Now
+11. Alright for Now

@@ -1,0 +1,171 @@
+***Please note that some of these files have long file names and are nested in folders with long names as well.  This may cause path names that are too long for Windows to handle.  This won't be an issue for most but if this affects you, try renaming folders to a shorter name.
+
+Title: 1st Pemberton Dust Project
+Date: 2008-07-25-27
+Release date: 2009-02-14
+
+
+This was the first annual Pemberton Music Festival in the incredibly beautiful Pemberton, British Columbia, Canada and it was an absolutely wonderful experience.  As you can tell by some of the screencaps of articles included in this release, there were some definite growing pains that resulted in some difficult times but it was clear that for the most part, everyone made a huge effort to keep things rolling.  And roll it did!  There was a light police presence but I didn't see any problems that would have required them.  First aid responders were aplenty and reported nothing serious.
+
+Just driving to Pemberton was an adventure; the mountain views were incredible and the winding cliff roads were spectacular but treacherous. I knew this was going to be a special event before I even got there when it took me twice as long to drive there as I kept stopping to take photos and admire the beauty.
+
+The main issue at the festival grounds was the dust.  It was incredibly & insanely dusty and dirty.  The dust got everywhere and covered everything.  Truth be told, any normal person would NEVER have taken out their electronics in such an environment.  I suspect that is why no recordings have yet to surface.  Luckily for you, I'm not a normal person.  You could not get away from the dust and even if you took some time to clean yourself off at the water stations, it did not matter; 5 minutes later you were filthy again.  Lots of people were wearing bandanas around their faces to try and protect themselves.  Everything was covered in dust.
+
+The overall weather was quite good but unfortunately winds did pick up a bit from time to time and there was some rain.  The wind and rain came as a comfort in the dust-filled heat and wasn't unwelcome by anyone other than those with electronics out in the open (like me).  I would have gladly forsaken the cooling-off effects of the rain to keep my mics dry.
+
+I really felt for the soundmen and artists as they sure didn’t get a lot of time for soundchecks.  The daily morning soundchecks concerned me as you could hear the sound echoing and bouncing off the distant mountains and it did not sound like it would be high quality.  The actual sound quality at the festival slightly varied by show but for the most part was surprisingly high.  I was very impressed with the quality that the engineers were able to squeeze out; it was completely unexpected and greatly appreciated.  Some of the mixes were a little weak being a bit too low in vocals here or guitar there or whatever but it was the exception rather than the rule.
+
+All of these shows were recorded stealthily and outdoors.  This was my first time recording outdoors and it definitely has its challenges.  For many shows I was completely squashed up against people and people were pushing up against me.  Scores of inebriated people would push by during the artist’s performances as they tried to make their way to the front in an exercise in futility.  I was often being knocked about but I had a great spot very close to the stage, FOB and well centred so I did what it took to make sure I did not lose my place despite the dynamic wave-like motions of the crowd.  I was leaning up against a security fence and was often holding on for dear life.  For a few of the shows there were high winds and rain.  Because of these reasons, you’ll occasionally hear people talking, infrequent phase shifting as I move my head (I was as still as possible), the security fence being banged on and some occasional light wind rumble.  Obviously, this is the nature of all outdoor audience recordings and can’t be controlled.  Luckily I used my cardioid mics with big wind screens which greatly limited much of the peripheral and wind noise.
+
+The recorded sound quality that I was able to obtain was very high.  Due to some of the above reasons, it is difficult to rate all of these shows accurately as it varies.  They all fall in between a VG+ at the low end and EX+ on the high end.  They probably average about EX-.
+
+UPDATE: At the time of this writing (2008-11-30), it's still not clear if there will be a 2nd annual Pemberton Music Festival.  The provincial Agricultural Land Commission (ALC) has just now finally approved the application by Live Nation Canada for non-farm use of the 2008 festival site.  This seemed to be the major sticking point.  It looks like it's a go but this only leaves about 8 months of planning before the event.  My fingers are certainly crossed.  All in all, this festival was a filthy success.
+
+UPDATE 2: Unfortunately at the time of this writing (2009-01-15) it looks like the 2009 Pemberton Music Festival is a no go.  Organizers have promised a 2010 version but they say that they did not have enough time to properly organize a show after the ALC took so long to give permission to use the land.  I have added an image of a news report that was published on piquenewsmagazine.com
+
+Finally, a small technical note.  For the convenience of those who still burn to CD, I've set the disc thresholds at 74 minutes or 650ish MB; whichever comes first. Like most festivals, the artists at Pemberton typically did not perform full length sets however sometimes still went over these thresholds.  In these 5 cases, I chose to make 2 smaller yet more even-balanced discs as opposed to a full disc and an almost empty disc.  This does not affect your listening pleasure!
+
+
+
+
+
+
+
+
+
+**********************************************
+Please share this recording freely.
+Do not encode to .mp3 (or any other lossy format).
+**********************************************
+01010011 01100101 01110100 01101000
+
+
+
+
+#########################################################################
+
+
+
+
+**********************************************
+16 bit / 44100 Hz version
+**********************************************
+
+Artist/Band: Tom Petty & The Heartbreakers
+
+Date: 2008-07-26 (Saturday)
+Title: Seth, You're a Machine
+Venue: Pemberton Music Festival - Outdoors - Pemberton, British Columbia, Canada
+Recording location: FOB - approx. 15 to 20 metres from stage & 1 metre left of centre
+Source: Audience/Stealth
+Recordist: Seth
+Lineage: Church Audio ST-11 cardiod mics > Church Audio 9100 v3.0 pre-amp with bass roll off turned off > Edirol R-09 (24/48) > Adobe Audition 3.0 (track splitting, fades, downsampling) > Trader's Little Helper v.2.4.1 build 160 (flac 8, fix SBE's & create .ffp and .md5 files)
+Sound Quality: Various sound ratings between VG+ to EX+.  See descriptions for more details.
+All photos taken by Seth
+Artwork by Moonwall
+
+Total .wav size:        0.99 GB
+Total .flac(8) size:    538 MB
+
+---------------------------------
+Disc 01:
+d01t00 - Ambiance & Atmosphere - 5:53
+d01t01 - You Wreck Me - 5:15
+d01t02 - Listen To Her Heart - 3:58
+d01t03 - I Won't Back Down - 3:56
+d01t04 - Even The Losers - 4:20
+d01t05 - Free Fallin' - 5:48
+d01t06 - Mary Jane's Last Dance - 7:00
+d01t07 - End Of The Line - 4:02
+d01t08 - Band Introductions - 1:55
+d01t09 - Breakdown - 7:52
+
+Total Disc 01 - 50:03
+
+---------------------------------
+Disc 02:
+d02t01 - Saving Grace - 9:26
+d02t02 - Honey Bee - 5:21
+d02t03 - Don't Come Around Here No More - 6:40
+d02t04 - Refugee - 8:15
+
+Encore
+d02t05 - Running Down a Dream - 5:10
+d02t06 - Gloria - 7:23
+d02t07 - American Girl - 6:29
+
+Total Disc 02 - 48:46
+
+---------------------------------
+Total Time: 1:38:49
+---------------------------------
+
+**********************************************
+
+Well, I first saw Tom Petty in the summer of 1986, some 22 years earlier along with Bob Dylan and The Grateful Dead in Buffalo, NY.  I did not think that the younger crowd was going to be excited by Petty but boy was I wrong.  I met young people who had come to the festival just to see Petty and in general the enormous crowd was pumped for this show.  That certainly encouraged me as I sometimes forget that not all 18 year olds are listening to whatever crap passes for music on the radio stations these days.  I was really surprised by the HUGE chanting crowds and by the time Petty came on stage, the crowds were ready to eat up anything he served.  Thankfully he served us a spectacular dish; from incredible vocals, amazing guitar and piano work to an awesome light show and beyond!
+
+Although Petty's repertoire has slightly changed since the first time I saw him, his excellent delivery and quality has not.  What has jumped ahead by leap years was Petty's incredible light show!  Once again, the LED was king.  This time there were tressels & scaffolding filled with lights, large screens and cubes of LED's that had live images of different members of the band from different camera angles and a background of small spheres of lights hanging on strings.  Again, check out the photos but do keep in mind that they are not doing the experience justice.
+
+By the time this show was over, I had recorded 5 different bands that day and been in the same spot for about 11 hours.  I had braved the searing heat and sun, the rain and humidity, the hunger and did not move from my spot once, not once - not even to go to the bathroom!  I had consumed almost no liquids purposely so I wouldn't have to leave my spot.  I had everything I needed with me including my folding chair, a bit of food, my MP3 player, extra batteries, memory cards, etc.  I did not want to lose my advantagous and most excellent spot.  I was right in the acoustic sweet spot, as close to the centre as was posible, close to the stage yet far enough away from the rowdies that were moshing to not be too worried about being knocked over or otherwise having my recording upset.
+
+For the most part, when a show was over, people would leave, wander around the festival grounds (there were plenty of fun things to see/do) and then come back before the next show began.  I often saw the same people every few hours as they would come by.  At the end of the night, as I was convincing my legs to make the walk back to my tent, someone who had seen me several times throughout the day asked me if I had really not moved since the first time he had seen me much earlier that afternoon.  When I told him that was indeed the case, he said, "Seth, you're a machine".  
+
+And now you how this recording got its title.
+
+There was light rain sporadically throughout this show.
+
+This recording will naturally sound much better cranked up loud with quality headphones!
+
+Peace & enjoy,
+Seth
+
+
+FFP's:
+d01t00 - Ambiance & Atmosphere.flac:a389e9838e7d718d1af430d8b4908b97
+d01t01 - You Wreck Me.flac:08dd7ee3f61981e703a8d17a57510b44
+d01t02 - Listen To Her Heart.flac:fb3c4c968c7ccf46d8872f33ae20c6f5
+d01t03 - I Won't Back Down.flac:41269ab9c082cdb69545681140650fba
+d01t04 - Even The Losers.flac:6ecd54394ce09a154c7e83cac574c21b
+d01t05 - Free Fallin'.flac:5aeeeaa179c7f87b6bbdd3705ecbfb76
+d01t06 - Mary Jane's Last Dance.flac:07d6b30a356b9496f827658465e6e055
+d01t07 - End Of The Line.flac:2ccd36332ca928b3a4d2ef91237cd2e2
+d01t08 - Band Introductions.flac:aa36da850604f775bbdb857bb70b6781
+d01t09 - Breakdown.flac:0915a79f05379cd3bbb21818ae85c4d1
+d02t01 - Saving Grace.flac:fb98eacfcdc3fb1fad323fd9b7909f7a
+d02t02 - Honey Bee.flac:e78584384d75c0d7c96d1dc4f2c5cae7
+d02t03 - Don't Come Around Here No More.flac:49c41f8a24082d7deeb6f8ed87f617c7
+d02t04 - Refugee.flac:836e3a264d5d7ebae7c412cf16001f89
+d02t05 - Running Down a Dream.flac:481a677f1cc2fca27be248d8ec5766ed
+d02t06 - Gloria.flac:b8b1f89bef305c550b2a710e7bfe899f
+d02t07 - American Girl.flac:d1802deffc5ed7d6135cbd11184fa47c
+
+
+
+First seeded on Yeeshkul! 2009-02-14
+
+
+
+
+
+
+===========================
+1st Pemberton Dust Project statistics
+===========================
+11 Bands
+Total discs: 16
+Total tracks: 156
+Total music in time: 12:03:08
+Longest set: 1:38:49 (Tom Petty)
+Shortest set: 43:37 (Sam Roberts)
+Average set: 1:05:44
+Longest track: 13:46 (d01t08 - Mind Flood) - Sam Roberts
+Shortest track: 0:55 (d02t04 - Musical Interlude - band making way to middle of crowd) - Coldplay
+Total .wav size: 7.14062 GB
+Total .flac(8) size: 3.58398 GB
+Total .jpg's: 375 (669.8 MB)
+Total no. of all files: 548 files, 44 folders
+Total size of all files: 4.23 GB
+===========================
+===========================
+
+***END***

@@ -1,0 +1,34 @@
+silverchair
+The Fleet Center
+Boston, MA
+February 8, 1996
+
+
+Taper: unknown
+Source: AUD -> Analog (unknown generation)  -> CD
+
+Analog > CD conversion: Adam Nelson (nelso222@msu.edu) - 1999 
+
+CD > flac conversion: Adam Nelson (nelso222@msu.edu) - 2006
+
+EAC (secure mode, all tracks 100%) -> wav -> flac frontend (level 6)
+
+
+1. Intro
+2. Madman
+3. Leave Me Out
+4. Slave
+5. Findaway
+6. Freak
+7. Suicidal Dream
+8. Tomorrow
+9. Faultline
+10. Pure Massacre
+11. Israel's Son ->
+12. Die
+
+Notes:
+The band opened for the Red Hot Chilli Peppers.
+
+
+Compiled by Adam Nelson

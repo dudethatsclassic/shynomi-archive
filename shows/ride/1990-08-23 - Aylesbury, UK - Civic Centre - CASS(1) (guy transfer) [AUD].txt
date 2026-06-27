@@ -1,0 +1,45 @@
+Ride
+1990-08-23 (23 Aug 1990)
+Civic Centre, Aylesbury, UK
+
+Source: Analog cassette tape (1)
+Transfer: Cass(1)>DAT@48kHz>Cooledit Pro (downsampled to 44.1Khz)>CDR
+
+Transferred by Guy, FLAC'd and seeded by Humbug
+
+1. Intro
+2. Polar Bear
+3. Taste
+4. Drive Blind
+5. Like A Daydream
+6. Dreams Burn Down
+7. Here And Now
+8. Paralysed
+9. Vapour Trail
+10. Perfect Time
+11. Decay
+12. Seagull
+13. Chelsea Girl 
+
+Notes:
+Reasonable (for the era) audience recording. 
+From tapes I received from an old school trader / taper based in Oxford (M) in about 1991.
+Thanks to Guy for doing the tape transfer to CDR in 2004. Recent EAC logs included.
+
+FLAC Fingerprint: 
+ride1990-08-23t01.flac:f500d3c8cdee4a069ac286bc61c882f7
+ride1990-08-23t02.flac:4bc37950e8f945fe376ed9a555898756
+ride1990-08-23t03.flac:6dcbbdcc3b2d8242f0f4f763bc919ca6
+ride1990-08-23t04.flac:d208d724a9d3dde36240461c189504b6
+ride1990-08-23t05.flac:92cab8a253c08b57049f926d5814dbcc
+ride1990-08-23t06.flac:f11b72b83aaf4248c284ee7539971538
+ride1990-08-23t07.flac:951bb87c360998c45eddbe4a761aca79
+ride1990-08-23t08.flac:235bf3d3d835d37114e72cfabb1cc6c5
+ride1990-08-23t09.flac:395dfade9870fd1f240cda24dc0a32c6
+ride1990-08-23t10.flac:e19a0fff917c7f8b24c2460e06ccb05a
+ride1990-08-23t11.flac:f361dbe1d1271a72fc4cf4a2f47fe7ad
+ride1990-08-23t12.flac:69877690d2d8b2daa485ccaa8e2a101b
+ride1990-08-23t13.flac:4afdcac6c87f016795d0ae837cd53e46
+
+** PLEASE DO NOT CONVERT TO MP3 **
+** PLEASE DO NOT PROFIT FROM THIS RECORDING **

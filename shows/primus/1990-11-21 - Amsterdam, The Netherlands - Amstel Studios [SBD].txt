@@ -1,0 +1,44 @@
+Primus
+November 21, 1990
+Amstel Studios
+Amsterdam, The Netherlands
+
+Broadcast by VPRO Radio, Hilversum, The Netherlands
+
+
+Source: SBD > FM > Unknown transfer >
+        CD (silver) “Paradiso – Amsterdam – 1990” / HammerJack Records (Germany) HJ 009/10 > 
+	Exact Audio Copy v0.95 beta4 > CD Wave Editor v1.95.1 (track splits) >
+	FLAC v1.1.2a with FLAC Frontend v1.7.1 (Level 6)
+
+Notes:	Prior to EAC transfer, no track ID’s were written on the HammerJack release
+  
+  	Originated from disc 2 of “Paradiso – Amsterdam – 1990” with 11/20/1990 
+  	(start @ 18m 24s, end @ 53m 50s)
+	
+	The following fade in/out points are from the HammerJack master. I trimmed silence gaps that had been inserted at those points:
+
+	Fades in and out between Harold and Mr. Knowitall
+	(removed a 00:01:65 sec. silence gap and joined the ends of the fade points)
+
+	Crowd noise edit on master tape between Mr. Knowitall and Toys, no crowd reaction until start of Toys
+
+	Fades in and out between Puppies and Tommy. No silence gap present, fade points joined
+
+	Total show length: 35m 21s
+
+
+Transfer and Corrections: Ryan Sebers
+
+
+Setlist (35m 21s):
+
+1.    Pudding Time >				04:27:63
+2.    Harold of the Rocks			07:11:27
+3.    Mr. Knowitall				03:48:63
+4.    Toys Go Winding Down >			04:45:23
+5.    Those Damned Blue-Collar Tweekers >	05:14:59
+6.    Too Many Puppies				03:33:72
+7.    Tommy the Cat > 				03:21:02
+8.    Master of Puppets > 			00:42:49
+9.    Tommy the Cat				02:16:15

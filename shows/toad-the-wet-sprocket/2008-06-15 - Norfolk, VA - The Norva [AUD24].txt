@@ -1,0 +1,45 @@
+Toad the Wet Sprocket
+June 15, 2008
+The NorVa
+Norfolk, VA
+
+Taper: John Kelly (john@taperssection.com)
+Source: Sennheiser MKH8040st (ORTF, 10' FOB DFC) > Sound Devices 702
+Transfer: SD702 > Firewire > MacBook
+Conversion: Sound Studio 3.5.5 > xACT 1.64
+
+This source is 24bit 96khz.  A 16bit 44.1khz version is available.
+
+******************************************************************
+***        This Source Released Under A Creative Commons       ***
+*** Attribution-Noncommercial-Share Alike 3.0 Unported License ***
+******************************************************************
+
+01 Something's Always Wrong              05:36.757
+02 Rings                                 02:57.384
+03 Stupid                                03:15.630
+04 Jam                                   04:38.638
+05 Me and Julio Down By the Schoolyard * 00:51.886
+06 Whatever I Fear                       04:07.128
+07 Good Intentions                       03:56.446
+08 In My Ear                             03:59.136
+09 Inside                                04:33.517
+10 Everything But You                    04:20.027
+11 Butterflies                           04:28.156
+12 Windmills                             05:27.446
+13 Nanci                                 02:49.291
+14 Nightingale                           02:56.862
+15 Come Back Down                        04:04.263
+16 Crowing                               03:22.801
+17 All I Want                            03:59.140
+18 Brother                               04:31.949
+19 Fall Down                             05:53.666
+20 Crazy Life                            04:23.457
+21 Walk on the Ocean                     03:38.420
+22 Ziggy Stardust ~                      03:40.057
+
+Total: 87:32.056
+
+Notes:
+* Paul Simon, Tease
+~ David Bowie

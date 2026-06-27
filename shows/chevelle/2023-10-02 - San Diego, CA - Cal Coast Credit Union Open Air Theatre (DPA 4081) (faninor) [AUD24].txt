@@ -1,0 +1,35 @@
+Chevelle
+2023-10-02
+Cal Coast Credit Union Open Air Theatre
+San Diego, CA, USA
+
+-- Source --
+DPA 4081 > MMA-A > 24bit/48kHz
+
+-- Processing --
+iZotope RX (editing/mastering) > CD Wave (tracking) > Trader's Little Helper (encoding)
+
+-- Setlist --
+01 - intro
+02 - Verruckt
+03 - An Island
+04 - Door to Door Cannibals
+05 - Self Destructor
+06 - Vitamin R (Leading Us Along)
+07 - Young Wicked
+08 - Joyride (Omen)
+09 - Face to the Floor
+10 - Piistol Star (Gravity Heals)
+11 - The Clincher
+12 - Forfeit
+13 - Send the Pain Below
+14 - Comfortable Liar
+15 - The Red
+16 - Mars Simula
+
+-- Notes --
+Co-headlining with Three Days Grace (Chevelle performed last this night). Loathe opened.
+
+Length: 1h09m45s
+
+-- faninor -- 2023-10-11 --

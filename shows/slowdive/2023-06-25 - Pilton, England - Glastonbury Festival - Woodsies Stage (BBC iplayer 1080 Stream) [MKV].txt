@@ -1,0 +1,89 @@
+Slowdive,
+June 25th, 2023
+Glastonbury Festival, Woodsies Stage
+
+Source: BBC iplayer 1080p stream > get_iplayer > mp4 > mkv (mkvtoolnix)
+
+setlist:
+1. Slowdive
+2. Catch The Breeze
+3. Star Roving
+4. Crazy For You
+5. Souvlaki Space Station
+6. Sugar for the Pill
+7. Alison
+8. When the Sun Hits
+9. Kisses
+10. Golden Hair (Syd Barrett cover)
+
+General
+Unique ID                                : 10871640984652430271209898417930489558 (0x82DCD48C63565F167CF96A1AF45CED6)
+Complete name                            : C:\Slowdive - Glastonbury Festival, UK, 2023.mkv
+Format                                   : Matroska
+Format version                           : Version 4
+File size                                : 3.33 GiB
+Duration                                 : 57 min 33 s
+Overall bit rate mode                    : Variable
+Overall bit rate                         : 8 273 kb/s
+Frame rate                               : 50.000 FPS
+Encoded date                             : 2023-06-29 11:45:05 UTC
+Writing application                      : mkvmerge v75.0.0 ('Goliath') 64-bit
+Writing library                          : libebml v1.4.4 + libmatroska v1.7.1
+Cover                                    : Yes
+Attachments                              : cover.jpg
+
+Video
+ID                                       : 1
+Format                                   : AVC
+Format/Info                              : Advanced Video Codec
+Format profile                           : High@L4.2
+Format settings                          : CABAC / 4 Ref Frames
+Format settings, CABAC                   : Yes
+Format settings, Reference frames        : 4 frames
+Codec ID                                 : V_MPEG4/ISO/AVC
+Duration                                 : 57 min 33 s
+Bit rate mode                            : Variable
+Maximum bit rate                         : 12.0 Mb/s
+Width                                    : 1 920 pixels
+Height                                   : 1 080 pixels
+Display aspect ratio                     : 16:9
+Frame rate mode                          : Constant
+Frame rate                               : 50.000 FPS
+Color space                              : YUV
+Chroma subsampling                       : 4:2:0
+Bit depth                                : 8 bits
+Scan type                                : Progressive
+Default                                  : Yes
+Forced                                   : No
+Color range                              : Limited
+Color primaries                          : BT.709
+Transfer characteristics                 : BT.709
+Matrix coefficients                      : BT.709
+
+Audio
+ID                                       : 2
+Format                                   : AAC LC
+Format/Info                              : Advanced Audio Codec Low Complexity
+Codec ID                                 : A_AAC-2
+Duration                                 : 57 min 33 s
+Channel(s)                               : 2 channels
+Channel layout                           : L R
+Sampling rate                            : 48.0 kHz
+Frame rate                               : 46.875 FPS (1024 SPF)
+Compression mode                         : Lossy
+Language                                 : English
+Default                                  : Yes
+Forced                                   : No
+
+Menu
+00:00:00.000                             : Intro - Deep Blue Day [Brian Eno]
+00:00:30.000                             : Slowdive
+00:05:31.000                             : Catch The Breeze
+00:10:39.000                             : Star Roving
+00:16:55.000                             : Crazy For You
+00:21:42.000                             : Souvlaki Space Station
+00:27:37.000                             : Sugar For The Pill
+00:32:51.000                             : Alison
+00:37:10.000                             : When The Sun Hits
+00:42:14.000                             : Kisses
+00:48:35.000                             : Golden Hair [Syd Barrett Cover]

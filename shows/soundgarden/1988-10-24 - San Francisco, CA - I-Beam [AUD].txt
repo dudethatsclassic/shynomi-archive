@@ -1,0 +1,43 @@
+October 24, 1988
+I-Beam
+San Francisco, CA, USA
+
+Source: unknown analog audience audio
+Lineage: ANAx (low)>WAV>CDR1>WAV [EAC]>CDWave [tracksplit]>FLAC [8]
+Time: 43:49
+Quality: 8.5/10
+
+Setlist: 
+1. intro 
+2. Gun 
+3. Flower 
+4. I Awake
+5. All Your Lies
+6. Fopp
+7. Everybody's Got Something to Hide Except For Me and My Monkey
+8. Little Joe
+9. Hand of God
+10. Circle of Power
+11. Power Trip
+12. Beyond the Wheel (cuts)
+
+*** Be aware that a new transfer of this show is forthcoming at some point this summer (2007). When this new retransfer,
+which will be done with vastly superior equipment, becomes available, please delete this version of this recording. Otherwise, there will be an inferior tranfer
+of this source circulating alongside the superior transfer. Thanks. -Matt Reeder, February 09, 2007***
+
+Note: Amazing show, and fantastic quality for an early show. The cassette source can't be more than 2nd or 3rd-generation. 
+"Beyond the Wheel" cuts out towards the end of the song. It is not known whether or not they played more songs afterwards.
+
+Fingerprints:
+01 - intro.flac:bc8b45f40ad084cb01cf032f049fd608
+02 - Gun.flac:cd8c089d538be8c97c49d6712e307151
+03 - Flower.flac:594029c0e8b2823e17be4c12f99e5f48
+04 - I Awake.flac:2b1e3579caee0e2a3dabc2148100313f
+05 - All Your Lies.flac:4afda80f21c2672994422e3c8e696b4b
+06 - Fopp.flac:5e4e1acd2cc682279ce731bbd734a1eb
+07 - Everybodys Got Something To Hide....flac:e48e0de77a43993e5d2faf6d75bcec26
+08 - Little Joe.flac:a59cc4d6d2c7bd26988a3765fef9fbd6
+09 - Hand Of God.flac:d34c025ed3aa9c87591b91ce7db45795
+10 - Circle of Power.flac:d0e793e2eb6b6206dec63506398896a4
+11 - Power of Trip.flac:9d7dab627c46143197ad4d68a406cfb7
+12 - Beyond the Wheel.flac:73b80d054e4d0d8297ce95c3b2314ddc

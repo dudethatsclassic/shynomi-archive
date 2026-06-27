@@ -1,0 +1,42 @@
+
+Soundgarden
+Musikhalle: Hannover, Germany
+October 2, 1996
+
+Source: AT831b > Sony TCD-D7 @ 32kHz
+Lineage: DAT Master > DAT1 > DAT2 > FLAC
+Transfer: Tascam DA-20 > Digital Coax > Behringer Ultramatch SRC2000 (upsample) > Digital Coax > MicroTrack II > Audacity > CDWave > TLH
+Edits/EQ: +4dB
+
+Setlist:
+
+01 Spoonman (cuts in)
+02 Searching With My Good Eye Closed
+03 Let Me Drown
+04 Pretty Noose
+05 Burden In My Hand
+06 My Wave
+07 Ty Cobb
+08 An Unkind
+09 Fell on Black Days
+10 Helter Skelter [The Beatles]
+11 Boot Camp
+12 Rusty Cage
+13 Black Hole Sun (solo)
+14 Outshined
+15 Dusty
+16 Blow Up the Outside World
+17 Kickstand
+18 Slaves and Bulldozers
+19 -encore break-
+20 Never the Machine Forever
+21 Jesus Christ Pose
+
+Notes: Transferred in 2020 from my DAT2. 1st song cuts in, presumably per master. Raw transfer with no fades or EQ.
+
+Archive: DAT clone was transferred @ 32kHz and FLAC'd with cue sheet. 
+
+Transferred by tapeworm(48) 
+Txt file compiled on 1/3/2021
+
+*** DO NOT DISTRIBUTE IN LOSSY FORMATS. DO NOT SELL THIS RECORDING, TRADE IT FREELY *** 

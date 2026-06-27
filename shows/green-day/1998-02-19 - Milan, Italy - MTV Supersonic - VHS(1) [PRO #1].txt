@@ -1,0 +1,47 @@
+GREEN DAY
+February 19, 1998
+
+MTV Supersonic, MTV Studios, Milan, Italy
+
+SOURCE (PRO #1)
+
+01 - Time of Your Life
+02 - Hitchin' A Ride
+03 - Prosthetic Head
+04 - Interviev with Green Day
+05 - Basket Case
+
+GENERATION
+-----------------
+VHS(1)-DVDR(1)> mkv (make mkv)
+
+---------------------------------------------------------------------
+Format                                   : Matroska
+Format version                           : Version 2
+File size                                : 1.08 GiB
+Duration                                 : 18 min 50 s
+Overall bit rate mode                    : Variable
+Overall bit rate                         : 8 197 kb/s
+Frame rate                               : 25.000 FPS
+Encoded date                             : 2023-07-05 07:59:30 UTC
+Format                                   : MPEG Video
+Format version                           : Version 2
+Format profile                           : Main@Main
+Format settings                          : CustomMatrix / BVOP
+Format settings, BVOP                    : Yes
+Format settings, Matrix                  : Custom
+Format settings, GOP                     : M=3, N=15
+Codec ID                                 : V_MPEG2
+Codec ID/Info                            : MPEG 1 or 2 Video
+Duration                                 : 18 min 50 s
+Bit rate mode                            : Variable
+Bit rate                                 : 7 999 kb/s
+Maximum bit rate                         : 9 641 kb/s
+Width                                    : 720 pixels
+Height                                   : 576 pixels
+Display aspect ratio                     : 4:3
+Frame rate mode                          : Constant
+Frame rate                               : 25.000 FPS
+Standard                                 : PAL
+
+ff1a76876ba7fcc280051a8edac75a31 *Green Day MTV Sonic 1998.mkv

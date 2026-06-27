@@ -1,0 +1,66 @@
+TOM PETTY AND THE HEARTBREAKERS
+June 12, 2010
+The Gorge Amphitheatre
+George, WA
+
+SETLIST (122:22)
+-----------------
+01) intro
+02) Kings Highway
+03) You Don't Know How It Feels
+04) I Won't Back Down
+05) Free Fallin'
+06) Oh Well
+07) Mary Jane's Last Dance
+08) Drivin' Down To Georgia
+09) Breakdown
+10) Jefferson Jericho Blues
+11) First Flash Of Freedom
+12) Running Man's Bible
+13) I Should Have Known It
+14) Good Enough
+15) Learning To Fly
+16) Don't Come Around Here No More
+17) Refugee
+18) You Wreck Me
+19) Mystic Eyes
+20) Runnin' Down A Dream
+
+GENERATION
+-----------------
+WAV(M) [48kHz/24bit] > FLAC [Level 8]
+
+SOURCES
+-----------------
+built-in > Edirol R-09
+
+TRANSFER
+-----------------
+Edirol R-09 > USB > Adobe Audition 3.0 > CD Wave 1.98 > FLAC frontend 1.7.1
+
+FINGERPRINTS
+-----------------
+tompetty2010-06-12t01.flac:62dbbde849c68de22751a3cc1de2579c
+tompetty2010-06-12t02.flac:8464c1ccc8fecae1b3f7ecc5d2360e91
+tompetty2010-06-12t03.flac:51c4b880694134b0a6806d52fd38673f
+tompetty2010-06-12t04.flac:e0d340c45ad4fd9cf8f52965946ecba2
+tompetty2010-06-12t05.flac:ef640f8dbeccaea39d2092e732fe09ef
+tompetty2010-06-12t06.flac:3f8b09ff4cff1613b2e09f1a877c2d4d
+tompetty2010-06-12t07.flac:81ce3cbe92240a3f621648ddea50005c
+tompetty2010-06-12t08.flac:4454b6f1511cba2243e1a856e279229c
+tompetty2010-06-12t09.flac:e0d777c964f0026fce45c061d6403a0b
+tompetty2010-06-12t10.flac:1fb9a2a34ab08afba56b82c6bc27f24c
+tompetty2010-06-12t11.flac:13619f7e3c02c6df9a12d13d5a799750
+tompetty2010-06-12t12.flac:dbbfc143d28ff1adf7363c0310a3df05
+tompetty2010-06-12t13.flac:8e4c991568df6a67a3fefed7c8f185dd
+tompetty2010-06-12t14.flac:80e7bc74fdb921908d8e99828b15cb2e
+tompetty2010-06-12t15.flac:7146340cfe1ea4cd3df7a77a2bb71af2
+tompetty2010-06-12t16.flac:645f22efa82b62d2436099df7cd717c9
+tompetty2010-06-12t17.flac:15e98ddd3d740ac71186c7a6574b6928
+tompetty2010-06-12t18.flac:0aef901ea922ff7e4335a69a16e6cf72
+tompetty2010-06-12t19.flac:2ee2673b5b6e91cfe746dc487d7a4a37
+tompetty2010-06-12t20.flac:240ad0850bd83d5c73739108f2741d2c
+
+
+Recorded by Mike Ziegler.
+PLEASE DO NOT ENCODE TO MP3 OR SELL!

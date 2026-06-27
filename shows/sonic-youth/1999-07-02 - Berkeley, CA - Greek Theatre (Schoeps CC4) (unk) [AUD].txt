@@ -1,0 +1,200 @@
+================================================================================
+Sonic Youth, 1999-07-02, This Is Not a Festival, Greek Theatre, Berkeley, 84
+
+Disc 1
+
+1. tuning
+2. She Is Not Alone
+3. Schizophrenia
+4. Bull In The Heather
+5. Starfield Road
+6. Eric's Trip
+7. French Tickler
+8. Ineffable Me
+9. Karen Koltrane
+10. Free City Rhymes
+11. Renegade Princess
+12. Sugar Kane
+13. Teenage Riot / encore break
+14. Shadow Of A Doubt
+
+Disc 2
+
+15. Tom Violence
+16. Brother James
+
+Schoeps CCM4 > Sonosax SX-M2 > Sony PCM-M1 (44.1 kHz) > DAT (master) > Sony TCD-D8 > C-Media CMI8738 > Sound Forge 4.5 (fades, tracking) > CD-R (low generation) > EAC v0.95b4 (secure) > FLAC Frontend 1.7.1 (level 8)
+
+Last show with original gear, Free City Rhymes and Renegade Princess both instrumental and known as "1" and "2". 
+
+http://sonicyouth.com/mustang/cc/070299.html
+
+Notes, extraction and seed by Martin van Rappard (rappard@dds.nl / rappard@gmail.com), 2006-11-14.
+================================================================================
+EAC extraction logfile from 15. September 2006, 11:27 for CD
+sy / 1999-07-02
+
+Used drive  : _NEC    DV-5800A   Adapter: 1  ID: 0
+Read mode   : Secure with C2, accurate stream, NO disable cache
+Combined read/write offset correction : 0
+Overread into Lead-In and Lead-Out : No
+
+Used output format : Internal WAV Routines
+                     44.100 Hz; 16 Bit; Stereo
+
+Other options      : 
+    Fill up missing offset samples with silence : Yes
+    Delete leading and trailing silent blocks : No
+    Native Win32 interface for Win NT & 2000
+
+
+Track  1
+     Filename P:\flac\sy1999-07-02d1t01.wav
+
+     Peak level 22.6 %
+     Track quality 99.7 %
+     Copy CRC 23D9F3B2
+     Copy OK
+
+Track  2
+     Filename P:\flac\sy1999-07-02d1t02.wav
+
+     Peak level 56.4 %
+     Track quality 99.8 %
+     Copy CRC 9C7F8A40
+     Copy OK
+
+Track  3
+     Filename P:\flac\sy1999-07-02d1t03.wav
+
+     Peak level 99.9 %
+     Track quality 100.0 %
+     Copy CRC C15F8CBF
+     Copy OK
+
+Track  4
+     Filename P:\flac\sy1999-07-02d1t04.wav
+
+     Peak level 72.7 %
+     Track quality 100.0 %
+     Copy CRC 882EA610
+     Copy OK
+
+Track  5
+     Filename P:\flac\sy1999-07-02d1t05.wav
+
+     Peak level 81.1 %
+     Track quality 100.0 %
+     Copy CRC 7F0F8FAB
+     Copy OK
+
+Track  6
+     Filename P:\flac\sy1999-07-02d1t06.wav
+
+     Peak level 90.7 %
+     Track quality 100.0 %
+     Copy CRC 2D8B50B6
+     Copy OK
+
+Track  7
+     Filename P:\flac\sy1999-07-02d1t07.wav
+
+     Peak level 72.9 %
+     Track quality 99.9 %
+     Copy CRC 233FFD1C
+     Copy OK
+
+Track  8
+     Filename P:\flac\sy1999-07-02d1t08.wav
+
+     Peak level 61.7 %
+     Track quality 100.0 %
+     Copy CRC 2C199E24
+     Copy OK
+
+Track  9
+     Filename P:\flac\sy1999-07-02d1t09.wav
+
+     Peak level 57.6 %
+     Track quality 100.0 %
+     Copy CRC 79203344
+     Copy OK
+
+Track 10
+     Filename P:\flac\sy1999-07-02d1t10.wav
+
+     Peak level 59.1 %
+     Track quality 99.9 %
+     Copy CRC 7C60C31A
+     Copy OK
+
+Track 11
+     Filename P:\flac\sy1999-07-02d1t11.wav
+
+     Peak level 45.6 %
+     Track quality 99.9 %
+     Copy CRC 75920B8C
+     Copy OK
+
+Track 12
+     Filename P:\flac\sy1999-07-02d1t12.wav
+
+     Peak level 62.3 %
+     Track quality 100.0 %
+     Copy CRC 6A436039
+     Copy OK
+
+Track 13
+     Filename P:\flac\sy1999-07-02d1t13.wav
+
+     Peak level 66.6 %
+     Track quality 99.8 %
+     Copy CRC 82EBED74
+     Copy OK
+
+Track 14
+     Filename P:\flac\sy1999-07-02d1t14.wav
+
+     Peak level 82.3 %
+     Track quality 99.9 %
+     Copy CRC 4EE656FB
+     Copy OK
+
+Track  1
+     Filename P:\flac\sy1999-07-02d2t01.wav
+
+     Peak level 68.5 %
+     Track quality 100.0 %
+     Copy CRC F15570F7
+     Copy OK
+
+Track  2
+     Filename P:\flac\sy1999-07-02d2t02.wav
+
+     Peak level 74.9 %
+     Track quality 100.0 %
+     Copy CRC A41C4046
+     Copy OK
+
+No errors occured
+
+
+End of status report
+================================================================================
+sy1999-07-02d1t01.flac:e93ced263203f532ea5bc13f1154cc56
+sy1999-07-02d1t02.flac:607f8460fad4a81cad9c942d9a0ca3f1
+sy1999-07-02d1t03.flac:5db890c5553582669b6716410542c567
+sy1999-07-02d1t04.flac:5f1658320ce4f0cfac07a0eceb543fbd
+sy1999-07-02d1t05.flac:207d2313d3461739639c2b0c02bee065
+sy1999-07-02d1t06.flac:1ba7b1b11ba60042683694c76ed9c5ce
+sy1999-07-02d1t07.flac:8b1a101152bf83596e77d92ce1dc22d5
+sy1999-07-02d1t08.flac:b7f5dba747ad4cdde21a90af5b09695e
+sy1999-07-02d1t09.flac:98c2137ad82c811d1f51347452649d96
+sy1999-07-02d1t10.flac:9a63645c822fe8d1b40040d0c4f3a5ce
+sy1999-07-02d1t11.flac:059adf2d99a41aa5b526ec676e63e0f2
+sy1999-07-02d1t12.flac:b238f8b44d94a45b6e9f3cd71977ce2f
+sy1999-07-02d1t13.flac:cf2930509bf550414bd16dfbb13ad191
+sy1999-07-02d1t14.flac:559b47d50336820dd8f629f818e8df9b
+sy1999-07-02d2t01.flac:73ff7ea7b76ab9ed64ddb78fdd759f19
+sy1999-07-02d2t02.flac:e5a96493675ef69b5bc14878b4bf4f7e
+================================================================================

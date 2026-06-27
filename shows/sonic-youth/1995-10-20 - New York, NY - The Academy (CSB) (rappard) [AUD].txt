@@ -1,0 +1,175 @@
+
+================================================================================
+Sonic Youth, 1995-10-20, The Academy, New York, 72:07
+
+1. Teenage Riot
+2. Bull In The Heather
+3. Starfield Road
+4. White Kross
+5. Saucer-Like
+6. Washing Machine
+7. No Queen Blues
+8. Tom Violence
+9. Becuz
+10. Eric's Trip
+11. Skink
+12. Diamond Sea
+13. Unwind
+14. Schizophrenia
+
+Audience > ? > Monster Outline bootleg CD (3D Reality, 3D-SY-062,  
+1995) > CD-R (first generation) > CD-R (rappard[at]dds[dot]nl; second  
+generation) > EAC v0.95b4 (secure) > FLAC Frontend 1.7.1 (level 8),  
+crowd noise edits between 7-8 and 11-12, encore break between 13-14;  
+Core Sound Binaurals > Sony TCD-D3 source also(?) exists  
+(approximately 85 minutes)
+================================================================================
+EAC extraction logfile from 12. March 2007, 11:08 for CD
+sy / 1995-10-20mo
+
+Used drive  : HL-DT-STDVDRAM GSA-4083N   Adapter: 0  ID: 0
+Read mode   : Secure with NO C2, accurate stream, disable cache
+Read offset correction : 0
+Overread into Lead-In and Lead-Out : No
+
+Used output format : Internal WAV Routines
+                      44.100 Hz; 16 Bit; Stereo
+
+Other options      :
+     Fill up missing offset samples with silence : Yes
+     Delete leading and trailing silent blocks : No
+     Native Win32 interface for Win NT & 2000
+
+
+Track  1
+      Filename D:\_martin\sy1995-10-20mo01.wav
+
+      Peak level 100.0 %
+      Track quality 100.0 %
+      Copy CRC 248C8FF7
+      Copy OK
+
+Track  2
+      Filename D:\_martin\sy1995-10-20mo02.wav
+
+      Peak level 100.0 %
+      Track quality 100.0 %
+      Copy CRC 434C044D
+      Copy OK
+
+Track  3
+      Filename D:\_martin\sy1995-10-20mo03.wav
+
+      Peak level 100.0 %
+      Track quality 100.0 %
+      Copy CRC 6B15A99B
+      Copy OK
+
+Track  4
+      Filename D:\_martin\sy1995-10-20mo04.wav
+
+      Peak level 100.0 %
+      Track quality 100.0 %
+      Copy CRC F193FBA6
+      Copy OK
+
+Track  5
+      Filename D:\_martin\sy1995-10-20mo05.wav
+
+      Peak level 100.0 %
+      Track quality 99.9 %
+      Copy CRC A9E95BFC
+      Copy OK
+
+Track  6
+      Filename D:\_martin\sy1995-10-20mo06.wav
+
+      Peak level 100.0 %
+      Track quality 100.0 %
+      Copy CRC 34DDCFDC
+      Copy OK
+
+Track  7
+      Filename D:\_martin\sy1995-10-20mo07.wav
+
+      Peak level 99.1 %
+      Track quality 100.0 %
+      Copy CRC E51FD1ED
+      Copy OK
+
+Track  8
+      Filename D:\_martin\sy1995-10-20mo08.wav
+
+      Peak level 89.7 %
+      Track quality 99.9 %
+      Copy CRC 2C8C04BE
+      Copy OK
+
+Track  9
+      Filename D:\_martin\sy1995-10-20mo09.wav
+
+      Peak level 70.3 %
+      Track quality 100.0 %
+      Copy CRC 30389C5A
+      Copy OK
+
+Track 10
+      Filename D:\_martin\sy1995-10-20mo10.wav
+
+      Peak level 100.0 %
+      Track quality 100.0 %
+      Copy CRC 8F025EBA
+      Copy OK
+
+Track 11
+      Filename D:\_martin\sy1995-10-20mo11.wav
+
+      Peak level 74.5 %
+      Track quality 99.9 %
+      Copy CRC 8061F22B
+      Copy OK
+
+Track 12
+      Filename D:\_martin\sy1995-10-20mo12.wav
+
+      Peak level 100.0 %
+      Track quality 100.0 %
+      Copy CRC 21AC1D50
+      Copy OK
+
+Track 13
+      Filename D:\_martin\sy1995-10-20mo13.wav
+
+      Peak level 95.1 %
+      Track quality 99.9 %
+      Copy CRC 521EB8F6
+      Copy OK
+
+Track 14
+      Filename D:\_martin\sy1995-10-20mo14.wav
+
+      Peak level 100.0 %
+      Track quality 100.0 %
+      Copy CRC 5CF8E4C0
+      Copy OK
+
+No errors occured
+
+
+End of status report
+================================================================================
+sy1995-10-20mo01.flac:b49e576d55db8a1d4f89a51a95ceb70f
+sy1995-10-20mo02.flac:ea9181ac56851289d446809bf60bb170
+sy1995-10-20mo03.flac:825cf7abe4f782aab49206106cb3cb76
+sy1995-10-20mo04.flac:f48e7e0417d0368fca24d9d26af60db8
+sy1995-10-20mo05.flac:17821e4eb9285f1bfc2c9538f92d7c7d
+sy1995-10-20mo06.flac:76589007a234fa7525dc570982922ddc
+sy1995-10-20mo07.flac:3a77666507dc27c5ff5296b9a91f2dcc
+sy1995-10-20mo08.flac:c6076755f148bc6cdd05ee4bb90d7192
+sy1995-10-20mo09.flac:c0ec044e0bcd4a69afe50ff30445af06
+sy1995-10-20mo10.flac:4b267a68b734f074bc478d3f1869cadc
+sy1995-10-20mo11.flac:4d330fcd159339004ce09932f011ead5
+sy1995-10-20mo12.flac:a42b56c4042ad6371f5195599c7da115
+sy1995-10-20mo13.flac:e5bf07fdd8564f9381662da5d7811af3
+sy1995-10-20mo14.flac:53b6fe53e4afccf7eab95f1156e8f9aa
+================================================================================

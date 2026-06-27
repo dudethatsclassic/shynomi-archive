@@ -1,0 +1,69 @@
+Primus
+Sunday, December 30th, 2012
+The Warfield Theater 
+982 Market Street,
+San Francisco, CA, USA
+
+Taper:  LeifH
+Source:  CSBs (filter) > Sony PCM M10 @ 24/48 > Lexar 16GB microSD card
+Transfer:  Memory card > PC via USB > Wavepad Master's Edition (amplify, edits, tracking, downsample to 16/44.1) > flac (8) via Frontend
+
+Set  I:  1:08:48
+00 intro music - Clown Dream
+01 American Life
+02 Duchess and the Proverbial Mind Spread
+03 Moron TV
+04 Groundhog's Day > Mr. Oysterhead (Tease)
+05 Over the Falls
+06 Lee Van Cleef
+07 Bob
+08 Jerry Was a Race Car Driver
+09 The Toys Go Winding Down
+
+Set II:  1:17:37
+10 Eyes of the Squirrel
+11 Is It Luck?
+12 Southbound Pachyderm
+13 Eternal Consumption Engine
+14 Glass Sandwich
+15 Hamburger Train
+16 Del Davis Tree Farm
+17 Spegetti Western
+18 Frizzle Fry
+19 Electric Funeral (Black Sabbath cover)
+20 Too Many Puppies > Hello Skinny (The Residents cover)
+
+This was my 6th Primus show.  I ran into a number of people I met in line at the GAMH the previous year, and met a few new fans as well, including people from the Bull Board and people who had found my recordings from last year.  I find Primus to be one of the few bands who I actually enjoy showing up early for beacuse its always fun conversing with other fans.  
+
+Once inside, I stood behind the railing separating the pit and the first raised level, dead centre.  While the first set was all songs I had seen live before, the band was very tight and full of energy.  I can't say it was disappointing because seeing Primus live is the best.  The second set was full of treats though.  I was having such a good time, the show was over far too soon.  I got about an hour on video, trying to save my battery/memory for the more rare stuff.  
+
+This was my first Primus 3D experience and I found it to be one of the best visual shows I've ever seen.  The sound was excellent, however I did not notice any surround sound that isn't found at a regular Primus show.  I've never seen Ler play Les Pauls before, not that he hasn't played them in the past.  He had 3 in his guitar rack and played one of them briefly before a mid-song guitar change, another thing I've never seen Ler do before.  Before the band came out I thought maybe there was a chance of Buckethead showing up, as he was playing at the GAMH on the 31st and one of the Les Pauls was white, however not the signature Buckethead model.  
+
+During the drum intro to Spegetti Western, a roadie came out after Jay signaled for somebody, and right after Les adjusted the hi-hat clutch to a more open position.  Jay then dropped it and re-opened it slightly to how it was before.  This is why the intro does not sound super 'tight' but the rest of the song is.  The video for Electric Funeral was choppy and blurry, and it froze near the end, showing a Microsoft sticky keys message very briefly.  This got a big response from the crowd, which can be heard.  My only complaints were the outrageous beverage prices inside the Warfield.  There was plenty of drinking on route and outside the venue in the lineup, but someone like me has all their 'stashing space' taken up with equipment.  On the bright side, there's nothing worse than needing to piss like a race-horse while you're taping.  
+
+After this show I hung around the artist entrance by Jerry Garcia until about 1:00 AM.  I talked to Primus' sound and light guys for a while, as well as the Warfield security, and I think Ler's wife too if I'm not mistaken.  I mentioned seeing them at 5 other shows, and had some CD covers that had been signed by Ler and Jay.  They realized I might know a thing or two.  I still had my mics set up and they totally spotted them, but evidently Les & Co. don't mind people taping, they  explained its the change in management that does mind.  I bumped into Jay right after the show but he seemed in a hurry to get back inside and I already had his autographs.  After a while they not only got me the setlists from this night, but brought my CD covers in for Les to sign.  Diego brought them back out unsigned and a few seconds later Les walked out.  We talked briefly, he called me the "Canadian buddy," and signed my covers.  "Ah, some signage."  I thanked Les and the crew and they were happy they could help.  The last time I saw Les in person he was very determined to get in and out of the venue without interaction so it was nice to 'shake hands' and talk a bit.
+
+This time I had a hotel just a few blocks from the Warfield and walked there each night.  This was my third of four shows in SF and probably the second best one, my favorite being the following night.  I'm very pleased with how this turned out.  Also included are both setlists, scanned in high resolution, as well as some pictures by me, and some that I "borrowed" off-line.  
+
+fingerprints:
+00 - intro music.flac:4c86028f563cc2642bc3d281818d958b
+01 - American Life.flac:924812617681aed7ddf4954187b2aa85
+02 - Duchess and the Proverbial Mind Spread.flac:45e73fd665f18f270df55eb6a011bc65
+03 - Moron TV.flac:72072126ff41eabed92295d53a5907d9
+04 - Groundhog's Day.flac:e88ead589c7f292a7c260435278d9365
+05 - Over the Falls.flac:ecfbb1bbd47da6e64f6762d676b62fa6
+06 - Lee Van Cleef.flac:e2ae2ea442384e4317838d91fa5aebbc
+07 - Bob.flac:e44b77de826c7cbb69aee24025f5b90e
+08 - Jerry Was A Race Car Driver.flac:d985407b09862daff2a0d7019114d745
+09 - The Toys Go Winding Down.flac:c55e3ef10ba10eb32849f7230bdc7a1a
+10 - Eyes of the Squirrel.flac:9ab20e72c4a224914dc0c8df210d84bd
+11 - Is It Luck.flac:5824adc09642c1883e50cf3c2a657402
+12 - Southbound Pachyderm.flac:52c806dec856b063986e99526590427b
+13 - Eternal Consumption Engine.flac:90827e62be7ae30c55edf2fae949c331
+14 - Glass Sandwich.flac:c6dd50698c4e8db1f56beec57337ad77
+15 - Hamburger Train.flac:bf56c6047d3f9470e25d681d6c2fa471
+16 - Del Davis Tree Farm.flac:4effef88533ccb2e062a355acea59029
+17 - Spegetti Western.flac:cc0995fc95a49f525c74d8efcbf3c683
+18 - Frizzle Fry.flac:e7439c17c5dcb3a5b9825b66de073369
+19 - Electric Funeral.flac:fec2a2222ed4fb70b76a3971666c2432
+20 - Too Many Puppies.flac:e7415c3ffe8b07e11b19a1df4d4b3441

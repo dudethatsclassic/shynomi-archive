@@ -1,0 +1,48 @@
+SOUNDGARDEN
+July 07, 1996
+Hippodrome (Lollapalooza)
+Québec City, QC, CANADA
+
+Source: unknown audience video recording
+Lineage: VID3 > CDRx > WAV [EAC Secure] > FLAC [8]
+Time: 66:55
+Quality: 7.5/10.0
+
+1. Spoonman
+2. Searching With My Good Eye Closed
+3. Let Me Drown
+4. Flower
+5. Head Down [tease] > Pretty Noose
+6. Burden in My Hand
+7. Ty Cobb
+8. Fell On Black Days
+9. Rusty Cage
+10. Black Hole Sun
+11. Outshined
+12. Rhinosaur
+13. Mailman
+14. Drawing Flies
+15. Jesus Christ Pose
+16. feedback outro
+
+Originally encoded: November 18, 2008
+
+Notes: Excellent show with a great setlist and great vocals from Chris. Last recorded performance of longtime staple "Flower" (it was played at the show after this but no recording of that show has surfaced).
+
+Fingerprints:
+01 - Spoonman.flac:0cdb716017aca48ef8d705ce57735d8b
+02 - Searching With My Good Eye Closed.flac:bbc8d98f2b0f69014e7f77ef963e45ac
+03 - Let Me Drown.flac:d4b16d643e962081b9279d54a26b96e8
+04 - Flower.flac:39035192e3d7fabed40f30107d9eb026
+05 - Head Down (intro), Pretty Noose.flac:13392e093719568fe3a9cd7aa12afd28
+06 - Burden In My Hand.flac:63ea99a9b94025bd5904550977f95bbe
+07 - Ty Cobb.flac:2ab8c9c4520632cbe095862e43360a2c
+08 - Fell On Black Days.flac:c7612f65e38abf905a30be405430c540
+09 - Rusty Cage.flac:34cbd417813a863faf9061815b1cd6fd
+10 - Black Hole Sun.flac:adf5d4bce7788f246e6b92f142afadd6
+11 - Outshined.flac:27b988d6c2bd8b7e743c0e32201dbb9e
+12 - Rhinosaur.flac:f8ec0388820e2ea25acb52f2f5e322ca
+13 - Mailman.flac:45698f61aab883c62bf35cf99cbd2689
+14 - Drawing Flies.flac:e7f5250b9dcde366798b212f502fe269
+15 - Jesus Christ Pose.flac:df0b81f590ae4f452672668c22c3dd8e
+16 - feedback outro.flac:7912015aa185d645dd8bcd7688e6cac8

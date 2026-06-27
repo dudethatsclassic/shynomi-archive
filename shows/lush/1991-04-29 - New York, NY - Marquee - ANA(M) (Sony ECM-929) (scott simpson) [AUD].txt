@@ -1,0 +1,33 @@
+Lush
+Marquee
+New York, NY, USA
+April 29, 1991
+
+AUD: Sony ECM-929 mic > Sony WM-D6 > analog master (Maxell MX-s 100)
+Transfer: analog master > BBE > hard drive > WAV
+Tracking: WAV > Audacity 3.7.5 > Trader's Little Helper 2.8.4 (Build 185) > FLAC (level 8, with checksums)
+
+Recording and Transfer: Scott Simpson
+Tracking: driffemall
+
+Great show from their second US tour, with a rare live appearance of Tiny Smiles and Take
+
+Many thanks to the taper for sending this show to me!
+
+01. Thoughtforms (cuts in)
+02. Bitter
+03. Breeze
+04. Second Sight
+05. Take
+06. Covert
+07. De-Luxe
+08. Etheriel
+09. Ocean
+10. Scarlet
+11. Sweetness and Light
+12. Downer
+13. Baby Talk
+14. Tiny Smiles
+15. Leaves Me Cold
+
+Enjoy, and do not distribute this in lossy format or sell!

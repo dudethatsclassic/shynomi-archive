@@ -1,0 +1,23 @@
+Swervedriver
+1992-02-06
+Town Pump, Vancouver, BC, Canada
+
+Source: Audience video camera > VHS copy (? generation)
+Preparation for torrenting (2023-05-21): .vob files > .mkv via Avidemux (not re-encoded)
+
+Required video details (from mediainfo)
+Container: Matroska, codec: V_MPEG2, resolution: 352x480, scan: interlaced, frame rate: 29.970 FPS, video bit rate: 4 897 kb/s, aspect ratio: 4x3, audio codec: A_AC3, channels: 2, audio sampling rate: 48.0 kHz, bitrate: 384 kb/s, 
+
+Sci-Flyer
+Juggernaut Rides
+Sandblasted
+Sunset
+Deep Seat
+Rave Down
+She's Beside Herself
+Son Of Mustang Ford
+Jesus
+
+(54:10)
+
+Shared on Dime 2023-05-21 by Aaron (supahstah)

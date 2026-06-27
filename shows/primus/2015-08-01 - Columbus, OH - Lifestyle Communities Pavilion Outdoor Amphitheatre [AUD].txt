@@ -1,0 +1,54 @@
+Primus
+Saturday August 1st 2015
+Lifestyle Communities Pavilion Outdoor Amphitheatre
+405 Neil Avenue
+Columbus OH USA
+
+Taper:  LeifH
+Source:  CSB (filter) > Zoom H1 @ 24/48 > Scandisk 16GB microSD card
+Transfer:  Memory card > PC via USB > Wavepad Master's Edition (edits, amplify, tracking, downsample to 16/44.1) > flac (8) via Frontend
+
+Setlist:  1:44:04
+00 intro
+01 Those Damned Blue-Collar Tweekers
+02 Fisticuffs
+03 Pudding Time
+04 Last Salmon Man
+05 Frizzle Fry
+06 Over the Falls
+07 Lee Van Cleef
+08 drums and whamola >
+09 Spegetti Western
+10 Jilly's On Smack
+11 Mr. Krinkle
+12 The Heckler
+13 My Name Is Mud
+14 Jerry Was a Racecar Driver
+
+15 Too Many Puppies
+16 Groundhog's Day
+
+My 20th Primus show.  This location doubles as an indoor and outdoor venue.  For an outdoor show like this one, the stage is out the back of the building, facing a grassy slope.  This was the fifth and last show I saw on this tour.  I recorded both opening bands as well.  
+
+Some guy fainted and smacked their head on the concrete a few minutes before Primus started, also spilling a $10 beer.  I could feel it where I was standing a few feet away.  Ouch.
+
+This version of Tweekers was one of the best I've ever seen.  This was the first time I saw Pudding Time played on its own without The Toys Go Winding Down segue.  The decibel level was lowered during Frizzle Fry.  I would guess that they were over the permitted level and turned it down.  During Over The Falls, Les thought it was still the month of July, and introduced Ler's Shark Guitar from Portland, ME but Ler said he, "traded it for a burrito."  Ler did a guitar solo on his usual Telecaster and when the song was over, the Shark Guitar was in the rack, ready to go.  They probably had packed it away.  Always great to hear Spegetti Western live.  Ler kept fucking up The Heckler.  When they came back for the encore, Ler had the Shark guitar, Les had a Westone "The Rail" bass and was wearing the goat horns that haven't made an appearance in years.  They played Too Many Puppies that way and switched to their normal instruments for Groundhog's Day.
+
+fingerprints:
+00 - intro.flac:d4ceceb3f681504345e7f6ec88fe2d0e
+01 - Those Damned Blue-Collar Tweekers.flac:a4c8cee45349866098e09a900e88a2f0
+02 - Fisticuffs.flac:472d26df384109f6ffc51858ec78a842
+03 - Pudding Time.flac:ef5b1b78cb56dce17fc521b7b8c9a2ad
+04 - Last Salmon Man.flac:7810ba23f96cc8a77bf218f154e05b41
+05 - Frizzle Fry.flac:51bbec97211e333a4762442ff31b8484
+06 - Over the Falls.flac:3945eba68830295fea4357f639422452
+07 - Lee Van Cleef.flac:e0b8fc7a35400c0bf81518b9cd7096b5
+08 - drums and whamola.flac:6ccf87720e026a00a87b2cdfc3b636c7
+09 - Spegetti Western.flac:589b92b8d53cbb08ead896ced1a0fc3f
+10 - Jilly's on Smack.flac:23b6bf6dc012324b013d3340ceac8041
+11 - Mr. Krinkle.flac:c6c5aebf6fcfe44a47ee79fd0725113d
+12 - The Heckler.flac:d648f5322346c579b69b0912f81e60de
+13 - My Name Is Mud.flac:3881a302a6dc3cb8ace62bd38d14b3a4
+14 - Jerry Was A Race Car Driver.flac:3ff2d3c7877960f6bddaeede9fb85d88
+15 - Too Many Puppies.flac:3f4a6cf66c07faa7dc6c7371772a035b
+16 - Groundhog's Day.flac:3641f955a3ff555de19de78a7f096c4f

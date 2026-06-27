@@ -1,0 +1,60 @@
+SOUNDGARDEN
+June 17, 1994
+New York Armory
+New York, NY, USA
+
+Recording info: unknown DAT audience
+Lineage: DATx > CD(M) > WAV > FLAC w/patch from DATx>CD(M)>CDRx>WAV [EAC Secure]>FLAC [8]
+Time: 110:40
+Quality: 8.5/10
+
+1. intro (Night Surf)
+2. Jesus Christ Pose
+3. Spoonman
+4. Let Me Drown
+5. Mailman
+6. The Day I Tried To Live
+7. My Wave
+8. Room A Thousand Years Wide
+9. Black Hole Sun
+10. Searching With My Good Eye Closed
+11. Superunknown
+12. Rusty Cage
+13. Half
+14. Mind Riot
+15. Fell On Black Days
+16. Hand Of God 
+17. Drawing Flies
+18. Hands All Over
+19. Face Pollution
+20. Like Suicide
+21. Fresh Tendrils
+22. Head Down
+
+Edit Notes: I received this online from a member of another board. Most copies of this show circulating are sourced from a defective disc and skip through tracks 13 and 14. This copy is clean. Renamed tracks 10, 16 and 17 to their correct names. The sender forgot to include the encore, so those two tracks (21-22) are sourced from my CDR.
+Show Notes: Amazing show and probably the best audience recording of the Superunknown tour. "Hand Of God" is performed for the first time since 1990. Natasha and Alain of Eleven join the band for "Fresh Tendrils". 
+Live Guide: http://mattisnotfrench.hostsnake.com/SGLG/19940617.htm
+------------------
+Fingerprints:
+01 Intro.flac:6f4654e63f30411ce5470843cd0e9249
+02 Jesus Christ Pose.flac:802ac33503825ae3a510a6892262a924
+03 Spoonman.flac:24ed19dbebc9a450869300ca7720bf8a
+04 Let Me Drown.flac:26051403b3899f813a7189156105d674
+05 Mailman.flac:a28d9a0664067178d05cdfdb0b323a51
+06 The Day I Tried To Live.flac:a4d972cb28b9141b0001f3493dfee02a
+07 My Wave.flac:5ba7bacc9284f4d68551350d68ae4ad7
+08 Room A 1000 Years Wide.flac:24b05b827a7ab77ef76a8756af98c984
+09 Black Hole Sun.flac:72b64c9c4bc7a1b1ebc829dc8580568b
+10 Searching With My Good Eye Closed.flac:1afbb0b3af315e09c1fbe069046a412d
+11 Superunknown.flac:4974e9d3057b7358615509515a081b03
+12 Rusty Cage.flac:7f5ee1f6a88ef5cb598e2233656171ea
+13 Half.flac:0872d8b9c2a3d2528113fd0f1e798090
+14 Mind Riot.flac:2d2061fc4978795413cd049f679d85a4
+15 Fell On Black Days.flac:120d238526bd26363069fdbcc3694e4a
+16 Hand Of God.flac:55cd1f4a1e2086c202a49743222fa882
+17 Drawing Flies.flac:cee90f4a03c5cce60ec8029085d9a40b
+18 Hands All Over.flac:ab6215c1fbaf7ffa9cd367326d8f3589
+19 Face Pollution.flac:ace3c2af30487a43ae0f4b692cb7e91c
+20 Like Suicide.flac:a8b5ce1681a163c7432694d8c39f4c4c
+21 Fresh Tendrils.flac:eb0d7ced54689841cf971e239eea3deb
+22 Head Down.flac:1c8bf2f46eeb426979b8d76b085125c9

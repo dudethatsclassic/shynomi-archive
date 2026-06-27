@@ -1,0 +1,22 @@
+Sonic Youth - 1993 03 08 Paramount, Seattle, WA, USA
+
+1 Shoot 
+2 Dirty Boots 
+3 100% 
+4 Swimsuit Issue 
+5 Drunken Butterfly 
+6 Sugar Kane 
+7 Catholic Block 
+8 Tom Violence 
+9 Genetic 
+10 Kool Thing 
+11 Theresa's Soundworld 
+12 JC 
+13 Schizophrenia 
+14 I Love Her All The Time 
+
+Openers
+Cell
+Mecca Normal
+
+Lineage: DAT Master > 1st gen analog > Tascam 202MKVII USB out > CDWAV > Audacity (normalization, fades, merges, noise reduction) > CDWAV (splits) > DBPowerAmp (FLAC)

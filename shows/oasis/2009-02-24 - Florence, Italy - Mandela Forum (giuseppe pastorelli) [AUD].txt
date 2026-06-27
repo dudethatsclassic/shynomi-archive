@@ -1,0 +1,125 @@
+Oasis
+Mandela Forum
+Florence, Italy
+2009-02-24
+
+[GP010dm]
+
+--- 16-bit version ---
+
+source: 	AUD (see location below) > Sony ECM-719 > Edirol R-09 (24-bit/48.0 kHz, MIC-IN high gain, rec. level 9/30) > SDHC Panasonic RP-SDM04G
+location: 	central, 35-40 m from the stage, 5-10 m in front of the mixing desk
+		hat-mounted mic 1.70 m above the floor
+transfer: 	SDHC Panasonic RP-SDM04G > HD (via USB) > Audacity 1.2.6 (cut/amplified[+5.0 dB]/faded-out) > CD Wave 1.97 (track splitting) > r8brain 1.9 (44.1 kHz resampling/very high quality 16-bit dithering) > TLH 2.4.1.160 (sector boundaries alignment/level 8 compression) > FLAC
+generation: 	master (no CD extraction)
+taper: 		Giuseppe Pastorelli [G.P.] (doublec)
+
+Mainset:
+
+01 [00:40] - *** intro (Fuckin' In The Bushes) *** [faded-out]
+02 [04:30] - Rock'N'Roll Star [faded-in]
+03 [04:56] - Lyla
+04 [05:06] - The Shock Of The Lightning
+05 [03:55] - Cigarettes & Alcohol
+06 [01:57] - The Meaning Of Soul
+07 [06:46] - To Be Where There's Life
+08 [04:30] - Waiting For The Rapture
+09 [04:57] - The Masterplan
+10 [02:20] - Songbird
+11 [06:22] - Slide Away
+12 [04:47] - Morning Glory
+13 [03:18] - Ain't Got Nothin'
+14 [04:16] - The Importance Of Being Idle
+15 [04:27] - I'm Outta Time
+16 [04:15] - Wonderwall
+17 [04:38] - Supersonic
+18 [02:59] - *** encore break ***
+
+Encore:
+
+19 [05:32] - Don't Look Back In Anger
+20 [04:45] - Falling Down
+21 [07:46] - Champagne Supernova
+22 [07:59] - I Am The Walrus
+
+Total running time 	[1:40:50]
+WAV 16-bit 		0.99 GB
+FLAC 16-bit 		586 MB
+
+Tape story:
+I have located myself in a central position about 35-40 m from the stage and 5-10 m in front of the mixing desk with the mic mounted on hat
+I think it was a good choice because the sorrounding crowd was totally into the show and only occasionally you will hear people chatting
+Of course, you can hear people clapping, occasionally screaming and often singing...
+The quality of the sound is good and I am proud of this recording, even if a big mistake (my fault) occurred at the beginning of the gig
+40 secs into the intro, when I was putting the mic cable in the usual position behind the left ear, holding the recorder with the other hand, I have erroneously pressed the "minus" recording volume button down to "0"
+Unfortunately this happened when I haven't still secured the recorder's buttons since I had to set the right level volume (usually I do it during the first song after the intro)
+When I have seen that the recording was running but the volume leds didn't move I have thought something wrong happened to the mic
+But plugging/unplugging it didn't give a positive result...
+It needs one and half minute to understand the (very stupid) actual reason: the result is that the last part of the intro and the first part of Rock'N'Roll Star are missing (I have missed about 1:35 mins)
+
+What about the show?
+It was my third Oasis concert in 14 years (Milan 1995 and the infamous Imola 2005 show were the others)
+Very good performance, with Liam in a good form
+Personal highlights: The Shock Of The Lightning, To Be Where There's Life, The Masterplan, Slide Away, The Importance Of Being Idle, I'm Outta Time, I Am The Walrus
+
+Technical notes:
+- The total running time of the recording was 1:42:32; I have cut the erroneously muted 95 secs at the beginning (see above for explanation) and the last useless seconds reducing the master to 1:40:50
+- I have amplified the whole recording (+5.0 dB) and faded-out the last 2-3 secs
+- If you burn to audio CD, you will need 2 CDs (CD1: 1-18; CD2: 19-22)
+
+Please do not sell nor convert to mp3 for distribution (mp3 only for personal use!)
+Feel free to share in the way you prefer, but please share this fileset as originally torrented (so preserve file integrity!)
+
+First seeded by doublec @ DIME on 2008-02-27
+
+Fingerprints:
+
+oasis2009-02-24t01.flac:419f4ec3c6f02a86eaa857ecd9e646b9
+oasis2009-02-24t02.flac:0a72bef1823d42cebb7d8b4dcb8bc471
+oasis2009-02-24t03.flac:3bcf174b6d55b15805e6376bd0086c7d
+oasis2009-02-24t04.flac:5f3b85bbfbc9b9bca008d0f503ddf253
+oasis2009-02-24t05.flac:fb151bc9859c2d31111a9989d2f02d25
+oasis2009-02-24t06.flac:1828f14c5f61599cca818144faa8b4ff
+oasis2009-02-24t07.flac:02efb057a23893c809fdf5778a3f01db
+oasis2009-02-24t08.flac:f4fd624a337a55b3c3c5a479d9bd2baf
+oasis2009-02-24t09.flac:4d6393bf86e20fe3cf57fc20a207b7be
+oasis2009-02-24t10.flac:19dbe3117083daa96bf16318b3d317bd
+oasis2009-02-24t11.flac:bb857813c19bb29cbd3cb5a900f4176f
+oasis2009-02-24t12.flac:e84737d431f0b405a6a0ee356cb4ce63
+oasis2009-02-24t13.flac:70c5c675211a34f9e69ee82e311e74f0
+oasis2009-02-24t14.flac:04960bec3448594a34a6b80a8b20fffd
+oasis2009-02-24t15.flac:df7cfa8a5c22665229d9bc1e21f2580a
+oasis2009-02-24t16.flac:787c3735914cab4407fb7a8c350dec54
+oasis2009-02-24t17.flac:d92bf8dc5229e3b5e891b355cd8ace63
+oasis2009-02-24t18.flac:7631b12706e044491e165dca2aebefa1
+oasis2009-02-24t19.flac:f10951dcc7996932419b7ac49269ac5a
+oasis2009-02-24t20.flac:cdca5887164beed5db9dde496e36f2bc
+oasis2009-02-24t21.flac:0fde6720214120cb9db15dabf00cbe16
+oasis2009-02-24t22.flac:03932b12f0dff658d1a806f4b3d3fdcb
+
+Track lengths:
+
+    length     expanded size    cdr  WAVE problems  fmt   ratio  filename
+     0:40.40        7150124 B   ---   --   ---xx   flac  0.6139  oasis2009-02-24t01.flac
+     4:30.01       47630396 B   ---   --   ---xx   flac  0.5979  oasis2009-02-24t02.flac
+     4:56.07       52230908 B   ---   --   ---xx   flac  0.6086  oasis2009-02-24t03.flac
+     5:06.36       54063116 B   ---   --   ---xx   flac  0.6122  oasis2009-02-24t04.flac
+     3:55.32       41529308 B   ---   --   ---xx   flac  0.6201  oasis2009-02-24t05.flac
+     1:57.13       20669420 B   ---   --   ---xx   flac  0.5945  oasis2009-02-24t06.flac
+     6:46.34       71698412 B   ---   --   ---xx   flac  0.5889  oasis2009-02-24t07.flac
+     4:30.54       47755052 B   ---   --   ---xx   flac  0.5465  oasis2009-02-24t08.flac
+     4:57.02       52395548 B   ---   --   ---xx   flac  0.5577  oasis2009-02-24t09.flac
+     2:20.52       24818348 B   ---   --   ---xx   flac  0.5953  oasis2009-02-24t10.flac
+     6:22.25       67443644 B   ---   --   ---xx   flac  0.5796  oasis2009-02-24t11.flac
+     4:47.46       50735036 B   ---   --   ---xx   flac  0.5965  oasis2009-02-24t12.flac
+     3:18.60       35068364 B   ---   --   ---xx   flac  0.5224  oasis2009-02-24t13.flac
+     4:16.38       45247820 B   ---   --   ---xx   flac  0.5647  oasis2009-02-24t14.flac
+     4:27.30       47169404 B   ---   --   ---xx   flac  0.5569  oasis2009-02-24t15.flac
+     4:15.05       44993804 B   ---   --   ---xx   flac  0.5937  oasis2009-02-24t16.flac
+     4:38.37       49126268 B   ---   --   ---xx   flac  0.6175  oasis2009-02-24t17.flac
+     2:59.35       31657964 B   ---   --   ---xx   flac  0.4641  oasis2009-02-24t18.flac
+     5:32.10       58588364 B   ---   --   ---xx   flac  0.5242  oasis2009-02-24t19.flac
+     4:45.31       50346956 B   ---   --   ---xx   flac  0.5647  oasis2009-02-24t20.flac
+     7:46.58       82338860 B   ---   --   ---xx   flac  0.5580  oasis2009-02-24t21.flac
+     7:59.43       84596780 B   ---   --   ---xx   flac  0.5976  oasis2009-02-24t22.flac
+   100:50.14     1067253896 B                            0.5762  (22 files)

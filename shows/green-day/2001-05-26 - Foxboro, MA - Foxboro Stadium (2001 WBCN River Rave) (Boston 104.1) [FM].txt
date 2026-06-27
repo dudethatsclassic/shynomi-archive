@@ -1,0 +1,40 @@
+Green Day
+Billie Joe Armstrong: lead vocals, guitar, harmonica
+Mike Dirnt: bass, backing vocals
+Tré Cool: drums, percussion, backing vocals
+with
+Jason White: guitar, backing vocals
+Gabrial McNair: trumpet
+Kurt Lohmiller: saxophone
+
+Foxboro Stadium
+Foxboro, Mass. USA
+part of the 2001 WBCN River Rave
+(several other bands were there too)
+May 26, 2001
+FM broadcast
+runtime: 44:00 (minutes/ seconds)
+
+     setlist:
+1: welcome to paradise 3:46
+2: castaway 5:30
+3: longview 4:02
+4: brain stew 3:04
+5: jaded 2:11
+6: knowledge 4:45
+7: hitchin' a ride 5:00
+8: basket case 3:14
+9: king for a day 3:51
+10: minority 8:17
+
+lineage:
+WBCN Boston 104.1 FM broadcast (pre-recorded) >
+Yamaha RX-500U receiever > 
+Naka. BX-125 cassette recorder (dolby off)
+Maxell XLII 90 minute cassette >
+tascam 112 > soundforge (16 bit/ 44.1 khz wav) >
+flac 8 (sb's aligned)
+a this and that production.
+do not sell this recording.
+that's not cool.
+share freely, losslessly and gaplessly.

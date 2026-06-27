@@ -1,0 +1,204 @@
+Soundgarden
+Vancouver, British Columbia, Canada
+P.N.E. Forum
+Saturday December 07, 1996
+
+
+
+Soundgarden Live Guide link:
+http://www.soundgardenliveguide.com/1996/19961207.htm
+review of the show:
+http://classic-web.archive.org/web/20041030031609/www.dropd.com/issue/35/Soundgarden/
+
+Setlist:
+
+00 pre-show tests
+01 dramatic intro music
+02 Spoonman
+03 Searching With My Good Eye Closed
+04 Let Me Drown
+05 Pretty Noose
+06 Burden In My Hand
+07 Adam Kasper in the truck
+08 My Wave
+09 Ty Cobb
+10 lounge music intro
+11 Black Hole Sun
+12 Outshined
+13 Rusty Cage (might be omitted, depending on where you read this)
+13A Rusty Cage intro (not on official release)
+13B Rusty Cage outtro (buffer zone for omitted track)
+14 Fell On Black Days
+15 motherfatherlovehatecountryenemy
+16 Blow Up The Outside World
+17 Rhinosaur
+18 Hands All Over
+19 Slaves And Bulldozers
+20 encore break
+21 Dusty
+22 Jesus Christ Pose
+23 feedback finish
+
+
+
+Note that track 13 Rusty Cage has been released on Soundgarden's "Live On I-5" in an edited version taken from a multitrack master. This is an audience recording that has not been overdubbed and edited like their album is. I have included what I captured of the guitar intro that was omitted from the live album, cutting when the song starts...
+
+
+
+
+Source:
+Sony PC-62 Stereo mic > Sony WM D3 Professional Cassette Recording Walkman (Dolby B on, CrO2 bias) > Maxell XL-II S 90 master cassettes
+
+Transfer:
+Maxell XL-II S 90 master cassettes > Tascam 202mkII playback deck (Dolby off, normal bias PB, azimuth adjusted for each tape side) > Radio Shack gold end 3.5mm to stereo rca cord > Radio Shack 6 foot gold end 3.5mm stereo extension cord > Soundblaster Audigy @ 24 bit 96 khz > Wavelab 5.01b (recording, tracking, and mastering)
+
+Processing:
+24 bit 96 khz master clone split files > Wavelab toolsone (level boost and balance) > Waves Q10 Paragraphic EQ (bass ramp and mid-high tweaks) > Wavelab peak master (limiter @ -.01db) > 24 bit 96 khz batch rendered Remaster files > SoX resampler via Foobar2000 to 44.1 khz (very high quality setting, 95.2% passband, 25% phase response no aliasing) > iZotope RX Advanced MBit+ dither to 16 bit (Ultra noise shaping, high dither) > FLAC8 + torrent via TLH > YOU!!!
+
+Quality:
+The P.N.E Forum building is horrible for room acoustics. I've never had very good results out of this building, really. Having said that, I know there are Soundgarden recordings that circulate that are far worse than this one, and they're loved by the fans! I guess my recording isn't too bad after all, really! It ain't Adam Kasper's 24 track 2 inch analog master tape from the mobile truck, but it is far more honest than the protooling that I think was done to those tapes for the recent "Live on I-5" album from this tour.
+
+
+Audioarchivist Notes:
+It was my 29th birthday two days before this show, so it was a birthday present to go to this show. It was honestly a little disappointing to me, because I had recorded Soundgarden back at Lollapalooza 92 in Vancouver which was a great experience for me. So, this show paled in comparison. Now, so many years later, my perspective has changed a bit on this show. Not exactly as bad as I remembered it, I guess! haha. I have memories of how hoarse Chris Cornell's vocals were, sure, but the thing I remember most was how let down I was by Ben Shepherd. I don't quite know what was going on for sure, but we do know the band went their own ways not that long after this run of shows was done. He played with his back to the audience (when he played at all), and when he did turn around, he was kicking photographers and spitting at the audience. I love the guy's playing when he plays, lurching around the stage, bouncing his bass off the floor, rocking the hell outta that thing. He didn't do much of anything at this show but brood and attack the crowd, I think he gave us the finger, too. Must've been a lot of turmoil in the inner workings of this band at this time. There's a good story about the spitting and the kicking and the bad vibes in the review link I gave above. It's so good to see they've put all that bullshit aside to re-form recently. I hope I get another chance to tape them again one day soon!
+
+I do have to call a bit of bullshit on the official release of "Live on I-5". The song "Rusty Cage" on the album was recorded in Vancouver at this show, or so they claim. I think that perhaps the bed tracks are from the show but edited, protooled and possibly overdubbed a bit. Maybe not new recordings, but I'm sure a bum vocal or twenty have been replaced from the other show nights multitracks. Also, the guitar intro on my recording is chopped down to nothing. I was flipping tapes when CC was dedicating the song to "...the man in black..." as is on the album, but that extended guitar intro is there. Depending where you're downloading this, I may have had to cut Rusty Cage out to comply with some site rules. If so I will do my best to include as much pre and post song crowd as I can (with the missing guitar drone included) so the official track will fit in to place better, or you might luck out and grab this from somewhere else complete!
+
+On my master after the show's over I am on tape talking to someone else I spotted in the crowd recording as well as me. I don't think their gear was quite as "advanced" as my basic Sony Pro WM D3 rig - I seem to remember something more like a Radio Shack micro cassettecorder, but they had the whole show, too! I try to swap telephone numbers and make a trade with the guy, but I think he misunderstood my intentions - not to bust him but to trade my tape of the show for his tape! He walks away and I'm left feeling weird and bad. Bummer. Point being - there is a second source for this show (besides Adam Kasper's 2" 24 track masters), but the second source is deep undercover I guess! Maybe this can be considered a plea for that recording to surface, too, now that mine is out there! 
+
+I've had a myriad of requests for this show. I've been taping concerts since 1989, and have well over 200 shows on tape, minidisc, or memory card now. I've probably put out 1/4 of them so far. Transferring the old analog tapes is rather time consuming to do correctly. I tried a couple years ago to get this show out, but a failing tape deck at the time stopped me. Then, things got too busy and I couldn't do anything with it. I do intend to release it all, but as John Lennon said: "...Life is what happens to you while you're busy making other plans..." and, well, life keeps happening to me while I plan to put all my recordings out there...
+
+One of those "Life" things recently has been that I've been gaining access to three other taper friends collections and beginning to transfer some of their tapes. There are a few "famous" tapers who have become well known for either having their collections recently transferred and posted, or they are known maybe for they're lack of releasing their masters. haha. My bigger plans are to bring my 3 buddies recordings to light. Each one has been very prolific in their own right, taping hundreds of shows each through the 70's, 80's and 90's too. They are all aware of the Lampinski tapes for example, and they all have similar quality recordings in the same huge numbers. They have all expressed interest in getting their stuff out before its all too late, and since I'm the guy with golden ears to work these shows, they want me to get them done. So, make room on your harddrives people, Fred's and Kevin's and Trevor's works will start to trickle down this summer. Plus, there's my own shows to deal with, too!
+
+Please share this show freely, for free. Not a don't ask don't tell policy, but a don't buy don't sell policy! Share the whole fileset (or as close to a whole set as you can get - missing track or not) with the text files and checksums and pictures included, please. If you have to add your own notes, make a separate text file with your additions and include that too, but don't leave mine out! If you absolutely have to encrap these files to eMPty3 or other lossy perversions to play them on your iPood, then do it, but don't upload the lossy files to your blog so your friends can hear it. Friends don't let real friends listen lossy! Burn audio CDR's and throw them around to your buddies, but if you think they're going to share it forward, give them the full FLAC fileset, too. Please don't Re-Re-ReMaster this version of this show. The files have already been processed once, as well as them being "only" CD quality files. One day I plan to post the hi-res raw master clone files at 24 96 both for the audiophile bootleg purists and the other wannabe rebastardizers out there! hahaha. 
+
+I've scanned my tapes tickets and cassette covers, plus some of the handbill flyers that were floating around town before the show. Those links I gave above point to a few pictures from the show, too. If you're a hipster graphic designer, or an amateur doodler with a cracked version of Photoshop, and you have a hankering to make some cool covers for this show, well, please do it! I just ask you to please post them in a comment so we all can share them, and if you could also email me a copy to make sure i get it, well, that'd be awesome! Remember, bigger hi-res art is better than shrunken blurry jpegs, so make them big!
+
+Enjoy this "new" old master. Cheers!
+
+audioarchivist@hotmail.com
+
+
+
+Trader's Little Helper spat out this mumbo jumbo.....
+
+00 pre-show tests.wav:  successfully encoded to '00 pre-show tests.flac' (ratio = 0.569; no need for sector alignment).
+01 dramatic intro music.wav:  successfully encoded to '01 dramatic intro music.flac' (ratio = 0.677; no need for sector alignment).
+02 Spoonman.wav:  successfully encoded to '02 Spoonman.flac' (ratio = 0.700; no need for sector alignment).
+03 Searching With My Good Eye Closed.wav:  successfully encoded to '03 Searching With My Good Eye Closed.flac' (ratio = 0.722; no need for sector alignment).
+04 Let Me Drown.wav:  successfully encoded to '04 Let Me Drown.flac' (ratio = 0.727; no need for sector alignment).
+05 Pretty Noose.wav:  successfully encoded to '05 Pretty Noose.flac' (ratio = 0.727; no need for sector alignment).
+06 Burden In My Hand.wav:  successfully encoded to '06 Burden In My Hand.flac' (ratio = 0.714; no need for sector alignment).
+07 Adam Kasper in the truck.wav:  successfully encoded to '07 Adam Kasper in the truck.flac' (ratio = 0.657; no need for sector alignment).
+08 My Wave.wav:  successfully encoded to '08 My Wave.flac' (ratio = 0.727; no need for sector alignment).
+09 Ty Cobb.wav:  successfully encoded to '09 Ty Cobb.flac' (ratio = 0.732; no need for sector alignment).
+10 lounge music intro.wav:  successfully encoded to '10 lounge music intro.flac' (ratio = 0.636; no need for sector alignment).
+11 Black Hole Sun.wav:  successfully encoded to '11 Black Hole Sun.flac' (ratio = 0.650; no need for sector alignment).
+12 Outshined.wav:  successfully encoded to '12 Outshined.flac' (ratio = 0.720; no need for sector alignment).
+13 Rusty Cage.wav:  successfully encoded to '13 Rusty Cage.flac' (ratio = 0.713; no need for sector alignment).
+13A Rusty Cage intro.wav:  successfully encoded to '13A Rusty Cage intro.flac' (ratio = 0.616; no need for sector alignment).
+13B Rusty Cage outtro.wav:  successfully encoded to '13B Rusty Cage outtro.flac' (ratio = 0.684; no need for sector alignment).
+14 Fell On Black Days.wav:  successfully encoded to '14 Fell On Black Days.flac' (ratio = 0.714; no need for sector alignment).
+15 motherfatherlovehatecountryenemy.wav:  successfully encoded to '15 motherfatherlovehatecountryenemy.flac' (ratio = 0.648; no need for sector alignment).
+16 Blow Up The Outside World.wav:  successfully encoded to '16 Blow Up The Outside World.flac' (ratio = 0.708; no need for sector alignment).
+17 Rhinosaur.wav:  successfully encoded to '17 Rhinosaur.flac' (ratio = 0.726; no need for sector alignment).
+18 Hands All Over.wav:  successfully encoded to '18 Hands All Over.flac' (ratio = 0.731; no need for sector alignment).
+19 Slaves And Bulldozers.wav:  successfully encoded to '19 Slaves And Bulldozers.flac' (ratio = 0.723; no need for sector alignment).
+20 encore break.wav:  successfully encoded to '20 encore break.flac' (ratio = 0.723; no need for sector alignment).
+21 Dusty.wav:  successfully encoded to '21 Dusty.flac' (ratio = 0.653; no need for sector alignment).
+22 Jesus Christ Pose.wav:  successfully encoded to '22 Jesus Christ Pose.flac' (ratio = 0.723; no need for sector alignment).
+23 feedback finish.wav:  successfully encoded to '23 feedback finish.flac' (ratio = 0.671; no need for sector alignment).
+
+No errors occured.
+
+
+00 pre-show tests.flac:  tested ok (file is decodable without error).
+01 dramatic intro music.flac:  tested ok (file is decodable without error).
+02 Spoonman.flac:  tested ok (file is decodable without error).
+03 Searching With My Good Eye Closed.flac:  tested ok (file is decodable without error).
+04 Let Me Drown.flac:  tested ok (file is decodable without error).
+05 Pretty Noose.flac:  tested ok (file is decodable without error).
+06 Burden In My Hand.flac:  tested ok (file is decodable without error).
+07 Adam Kasper in the truck.flac:  tested ok (file is decodable without error).
+08 My Wave.flac:  tested ok (file is decodable without error).
+09 Ty Cobb.flac:  tested ok (file is decodable without error).
+10 lounge music intro.flac:  tested ok (file is decodable without error).
+11 Black Hole Sun.flac:  tested ok (file is decodable without error).
+12 Outshined.flac:  tested ok (file is decodable without error).
+13 Rusty Cage.flac:  tested ok (file is decodable without error).
+13A Rusty Cage intro.flac:  tested ok (file is decodable without error).
+13B Rusty Cage outtro.flac:  tested ok (file is decodable without error).
+14 Fell On Black Days.flac:  tested ok (file is decodable without error).
+15 motherfatherlovehatecountryenemy.flac:  tested ok (file is decodable without error).
+16 Blow Up The Outside World.flac:  tested ok (file is decodable without error).
+17 Rhinosaur.flac:  tested ok (file is decodable without error).
+18 Hands All Over.flac:  tested ok (file is decodable without error).
+19 Slaves And Bulldozers.flac:  tested ok (file is decodable without error).
+20 encore break.flac:  tested ok (file is decodable without error).
+21 Dusty.flac:  tested ok (file is decodable without error).
+22 Jesus Christ Pose.flac:  tested ok (file is decodable without error).
+23 feedback finish.flac:  tested ok (file is decodable without error).
+
+No errors occured.
+
+
+00 pre-show tests.flac:a50a23d09e880beca101b70aa26bd7a7
+01 dramatic intro music.flac:63c80cfbd59cfc37b7b181e20481adaf
+02 Spoonman.flac:35af94d90012e8a56100f6db4b2bd8e2
+03 Searching With My Good Eye Closed.flac:30bec4b4ebc0d2df8d44c1bbb2f88dbc
+04 Let Me Drown.flac:cad070a567d2853c1fe1a580fdc57bb6
+05 Pretty Noose.flac:1f0c98bd315fac5b4448a86d3031932d
+06 Burden In My Hand.flac:c471cada483f99817d023061a497c485
+07 Adam Kasper in the truck.flac:718dd00789d83f34c12773768f81629b
+08 My Wave.flac:839e114ddc4e33817e81ed74a84cbdf9
+09 Ty Cobb.flac:c089c89a2a01f1aa7fd7e811590a19fd
+10 lounge music intro.flac:a3f8febe2324adba30637bc0bab7f0d7
+11 Black Hole Sun.flac:251e645548739735a5701d8e2b530dcf
+12 Outshined.flac:1e942b2b9d1a0053c5a057fe7adfc833
+13 Rusty Cage.flac:433b4e7b53eb37046797516e73aba73f
+13A Rusty Cage intro.flac:8a5d9dd66e3e95a6f4307147fb414a6d
+13B Rusty Cage outtro.flac:4d077aa411467b3f289099d1e2d4d95d
+14 Fell On Black Days.flac:e4b2f8af4cb763b8e055d60a8afd61fc
+15 motherfatherlovehatecountryenemy.flac:65b520d090f7329bbc0076b35ff8b3a3
+16 Blow Up The Outside World.flac:16e9a104345640abd14a39640aa7ca24
+17 Rhinosaur.flac:86d645228b8c677dd7eafb2df4edf598
+18 Hands All Over.flac:d5aae9cf5d4722f3e73bbf21e538209a
+19 Slaves And Bulldozers.flac:c4d6ec56c78e64caefd914d689ee3fad
+20 encore break.flac:995a703d39f737b7334296a3d5c04b44
+21 Dusty.flac:5de4c20695e85bb0f6b4ab017961ca6c
+22 Jesus Christ Pose.flac:9de13cac2231b4d114ab9e7d016af1f6
+23 feedback finish.flac:2bcbdffbda956a7989a4dd0fe1533d0a
+
+Checksum file saved to disk.
+
+No errors occured.
+
+
+E:\Soundgarden Dec 07, 1996 Vancouver BC PNE Forum analog master CD ready 16 44.1 ReMaster FLAC8\00 pre-show tests.wav:  successfully deleted.
+E:\Soundgarden Dec 07, 1996 Vancouver BC PNE Forum analog master CD ready 16 44.1 ReMaster FLAC8\01 dramatic intro music.wav:  successfully deleted.
+E:\Soundgarden Dec 07, 1996 Vancouver BC PNE Forum analog master CD ready 16 44.1 ReMaster FLAC8\02 Spoonman.wav:  successfully deleted.
+E:\Soundgarden Dec 07, 1996 Vancouver BC PNE Forum analog master CD ready 16 44.1 ReMaster FLAC8\03 Searching With My Good Eye Closed.wav:  successfully deleted.
+E:\Soundgarden Dec 07, 1996 Vancouver BC PNE Forum analog master CD ready 16 44.1 ReMaster FLAC8\04 Let Me Drown.wav:  successfully deleted.
+E:\Soundgarden Dec 07, 1996 Vancouver BC PNE Forum analog master CD ready 16 44.1 ReMaster FLAC8\05 Pretty Noose.wav:  successfully deleted.
+E:\Soundgarden Dec 07, 1996 Vancouver BC PNE Forum analog master CD ready 16 44.1 ReMaster FLAC8\06 Burden In My Hand.wav:  successfully deleted.
+E:\Soundgarden Dec 07, 1996 Vancouver BC PNE Forum analog master CD ready 16 44.1 ReMaster FLAC8\07 Adam Kasper in the truck.wav:  successfully deleted.
+E:\Soundgarden Dec 07, 1996 Vancouver BC PNE Forum analog master CD ready 16 44.1 ReMaster FLAC8\08 My Wave.wav:  successfully deleted.
+E:\Soundgarden Dec 07, 1996 Vancouver BC PNE Forum analog master CD ready 16 44.1 ReMaster FLAC8\09 Ty Cobb.wav:  successfully deleted.
+E:\Soundgarden Dec 07, 1996 Vancouver BC PNE Forum analog master CD ready 16 44.1 ReMaster FLAC8\10 lounge music intro.wav:  successfully deleted.
+E:\Soundgarden Dec 07, 1996 Vancouver BC PNE Forum analog master CD ready 16 44.1 ReMaster FLAC8\11 Black Hole Sun.wav:  successfully deleted.
+E:\Soundgarden Dec 07, 1996 Vancouver BC PNE Forum analog master CD ready 16 44.1 ReMaster FLAC8\12 Outshined.wav:  successfully deleted.
+E:\Soundgarden Dec 07, 1996 Vancouver BC PNE Forum analog master CD ready 16 44.1 ReMaster FLAC8\13 Rusty Cage.wav:  successfully deleted.
+E:\Soundgarden Dec 07, 1996 Vancouver BC PNE Forum analog master CD ready 16 44.1 ReMaster FLAC8\13A Rusty Cage intro.wav:  successfully deleted.
+E:\Soundgarden Dec 07, 1996 Vancouver BC PNE Forum analog master CD ready 16 44.1 ReMaster FLAC8\13B Rusty Cage outtro.wav:  successfully deleted.
+E:\Soundgarden Dec 07, 1996 Vancouver BC PNE Forum analog master CD ready 16 44.1 ReMaster FLAC8\14 Fell On Black Days.wav:  successfully deleted.
+E:\Soundgarden Dec 07, 1996 Vancouver BC PNE Forum analog master CD ready 16 44.1 ReMaster FLAC8\15 motherfatherlovehatecountryenemy.wav:  successfully deleted.
+E:\Soundgarden Dec 07, 1996 Vancouver BC PNE Forum analog master CD ready 16 44.1 ReMaster FLAC8\16 Blow Up The Outside World.wav:  successfully deleted.
+E:\Soundgarden Dec 07, 1996 Vancouver BC PNE Forum analog master CD ready 16 44.1 ReMaster FLAC8\17 Rhinosaur.wav:  successfully deleted.
+E:\Soundgarden Dec 07, 1996 Vancouver BC PNE Forum analog master CD ready 16 44.1 ReMaster FLAC8\18 Hands All Over.wav:  successfully deleted.
+E:\Soundgarden Dec 07, 1996 Vancouver BC PNE Forum analog master CD ready 16 44.1 ReMaster FLAC8\19 Slaves And Bulldozers.wav:  successfully deleted.
+E:\Soundgarden Dec 07, 1996 Vancouver BC PNE Forum analog master CD ready 16 44.1 ReMaster FLAC8\20 encore break.wav:  successfully deleted.
+E:\Soundgarden Dec 07, 1996 Vancouver BC PNE Forum analog master CD ready 16 44.1 ReMaster FLAC8\21 Dusty.wav:  successfully deleted.
+E:\Soundgarden Dec 07, 1996 Vancouver BC PNE Forum analog master CD ready 16 44.1 ReMaster FLAC8\22 Jesus Christ Pose.wav:  successfully deleted.
+E:\Soundgarden Dec 07, 1996 Vancouver BC PNE Forum analog master CD ready 16 44.1 ReMaster FLAC8\23 feedback finish.wav:  successfully deleted.
+
+No errors occured.

@@ -1,0 +1,24 @@
+Primus - 2016.01.17
+Verizon Wireless Theatre - Grand Prairie, TX, USA
+
+taper: Karl Frinkle (specialK)
+email: specialk@karlfrinkle.net
+url: http://karlfrinkle.net
+
+source: Church Audio CA-14 cardiods > Church Audio CA-9100 preamp > Sony PCM-M10 (line-in @24/96)
+location: First row of far left 400's section
+transfer: Sony PCM-M10 (line-in @24/96) > WAV > Sony Sound Forge Audio Studio 9.0  (mastering) > CD Wave (splitting) > FLAC
+modifications: magik
+
+Setlist - 8 tracks - 50:08
+1. Those Damned Blue-Collar Tweekers
+2. Last Salmon Man
+3. Les talking
+4. Wynona's Big Brown Beaver
+5. Southbound Pachyderm
+6. Mr. Krinkle
+7. My Name Is Mud
+8. Jerry Was a Race Car Driver
+
+Notes: A couple of static pops near the beginning of the set, I might have been adjusing my mics or making sure the connections
+were well seated.  Sorry about that.

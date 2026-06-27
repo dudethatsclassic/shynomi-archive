@@ -1,0 +1,5 @@
+Swervedriver1991-11-03V.K., Brussels, Belgiumsource: audience cassette (V.M.) > 1st gen copy
+transfer (2006): Nakamichi Dragon>Sony PCM-M1@48khz>Otari DTR-8S (passthrough)>Hosa coax>Calrad 10-110>Hosa OPM-330>2x2.5 G5>Audio Recorder 1.4>Audacity 1.2.4>xACT 1.5b4>flac8w/verify
+preparation for transfer (2023-05-26): Audacity (resample to 44.1kHz, fix loud part at beginning, normalize channels, track splits) > xACT (fix sbe, flac)01 intro02 Sci-Flyer03 Juggernaut Rides04 Sandblasted05 Sunset06 Rave Down07 Deep Seat08 Son Of Mustang Ford09 Feel So Real10 Kill The Superheroes11 Pile-Up12 Zedhead(56:41)
+
+Shared on dime 2023-05-26 by Aaron (supahstah)

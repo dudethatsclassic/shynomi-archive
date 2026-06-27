@@ -1,0 +1,47 @@
+Primus with special guests - A Benefit for Jimmy Hayward
+April 17th, 2023 (Monday)
+The Belasco
+Los Angeles, California
+
+Recorded by:  Grizzly Adams
+Source:  Sennheiser Ambeo Binaural Headset > iPhone > Apogee MetaRecorder
+Transfer:  .WAV > RX9 > Wavepad > flac (8) via TLH
+
+Setlist:  01:40:32
+00 intro
+01 Those Damned Blue Collar Tweekers
+02 Groundhog's Day
+03 Too Many Puppies 			[#][*]
+04 Here Come the Bastards 		[#][*]
+05 Semi-Wondrous Boatride 		[#][*]
+06 Thela Hun Ginjeet 			[#][*]
+07 Ænema 				[#][*]
+08 Whole Lotta Rosie 			[#][*][^]
+09 Moby Dick 				[#][*]
+10 My Name is Mud			[#]
+11 Southbound Pachyderm			[#][*]
+
+Les Claypool - bass, vocals
+Larry "Ler" LaLonde - guitar
+Tim "Herb" Alexander - drums
+Danny Carey - drums 			[#]
+Justin Chancellor - bass 		[#]
+Troy Van Leeuwen - guitar 		[*]
+Dean Delray - vocals 			[^]
+Jimmy Hayward - guitar 			[^]
+
+https://www.gofundme.com/f/help-jimmy-hayward-kick-cancer-to-the-curb
+
+fingerprints:
+Primus2023-04-17t00 - intro.flac:91e36b6b748166bf17f65c53e4a8da4d
+Primus2023-04-17t01 - Those Damned Blue Collar Tweekers.flac:7875cf8740f12f3a600ea4a4a5b09d5f
+Primus2023-04-17t02 - Groundhogs Day.flac:1325f396a2a30fa18fc0f11cb16a9973
+Primus2023-04-17t03 - Too Many Puppies.flac:ef13545f30ea9a8f66f52e23bbc337db
+Primus2023-04-17t04 - Here Come the Bastards.flac:b59e9974c8c1b3978cb6b0d9bfda5f04
+Primus2023-04-17t05 - Semi Wondrous Boat Ride.flac:ca9ef0dc6ae544949950573effddaef0
+Primus2023-04-17t06 - Thela Hun Ginjeet.flac:b784d03a837dd600574f091696e50352
+Primus2023-04-17t07 - Aenema.flac:0b795f808f3311c4d01fa334fa141af6
+Primus2023-04-17t08 - Whole Lotta Rosie.flac:539179e4ea9ceaac1617e66679c9e0eb
+Primus2023-04-17t09 - Moby Dick.flac:436c8cfadcfcebaf9a19a66e2fe666fc
+Primus2023-04-17t10 - My Name is Mud.flac:a37964fae8e82fa7fc42ab50cf946f34
+Primus2023-04-17t11 - Southbound Pachyderm.flac:4525a480250712da94793427e1930b2f

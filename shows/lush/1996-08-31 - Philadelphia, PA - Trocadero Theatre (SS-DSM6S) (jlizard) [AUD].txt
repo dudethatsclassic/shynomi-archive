@@ -1,0 +1,71 @@
+LUSH
+August 31, 1996
+Trocadero Theatre
+Philadelphia, PA, US
+
+SETLIST:
+-------------------
+00. intro/banter
+01. Heavenly Nobodies
+02. The Childcatcher
+03. Lit Up
+04. 500
+05. Single Girl
+06. Downer
+07. Kiss Chase
+08. De-Luxe
+09. Light from a Dead Star
+10. Last Night
+11. Hypocrite
+12. Runaway
+13. For Love
+14. Ladykillers
+15. Desire Lines
+16. Sweetness & Light
+
+
+SOURCE:
+-------------------
+AUD #1 - Quality: 9.0
+Sonic Studios DSM-6's > Sony TCD-D8
+
+Recorded by: jlizard
+
+TRANSFER:
+-------------------
+Sonic Studios DSM-6's > Sonic Studios PA-6LC3 bass filter adapter > Sony TCD-D8 DAT Walkman Tape-corder > DAT(M) [48kHz] > Sony PCM-R500 Digital Audio Tape Recorder Deck > M-Audio Audiophile 192 PCI soundcard interface > Sound Studio > Cubase SE 3.0.3 > xACT > CD Wave > FLAC > Adobe Audition 23.1 [post-production/mastering] > xACT 2.51 > FLAC [Level 8]
+
+GENERATION:
+-------------------
+DAT(M) [48kHz] > WAV [48kHz] > WAV [44.1kHz/16-bit] > FLAC [Level 8]
+
+NOTES:
+-------------------
+- The taper was standing two feet away from the right P.A..
+- This source has been remastered in order to fix the phasing, as well to bring better balance between all frequencies.
+
+
+FLAC FINGERPRINTS:
+-------------------
+lush1996-08-31-aud1-kb-t00.flac:592accb97715ce857dbcbad5594e330f
+lush1996-08-31-aud1-kb-t01.flac:306e73ceccff4fea181326a1aefc4b94
+lush1996-08-31-aud1-kb-t02.flac:c381e6f20a75125b70fca5c7abfc0782
+lush1996-08-31-aud1-kb-t03.flac:71ae50a497e8089b08168693cb0c8582
+lush1996-08-31-aud1-kb-t04.flac:ed47d165c99d3869600ddab508638218
+lush1996-08-31-aud1-kb-t05.flac:a24387b61606edbe840c5e77653bc792
+lush1996-08-31-aud1-kb-t06.flac:14b054edb00cbf145a35230bf7922593
+lush1996-08-31-aud1-kb-t07.flac:cb84391329996564c375dddae51f1c1b
+lush1996-08-31-aud1-kb-t08.flac:146885d482e1cc3be72c17e5512d80dc
+lush1996-08-31-aud1-kb-t09.flac:434c27f150f45b5b68b312aaecb5b6c1
+lush1996-08-31-aud1-kb-t10.flac:b793261aa5ce9e2110259c5a3ad18603
+lush1996-08-31-aud1-kb-t11.flac:01f8c577ca699dccf6871c5c1250b7e6
+lush1996-08-31-aud1-kb-t12.flac:1295787a3179267d60adbe09847f696a
+lush1996-08-31-aud1-kb-t13.flac:ec84874f5ee37f3e97cc1bd93bad539e
+lush1996-08-31-aud1-kb-t14.flac:120ceeea82419bee2c7f94f898a10e5a
+lush1996-08-31-aud1-kb-t15.flac:553a36d436c9a771a3e39eef087a10c1
+lush1996-08-31-aud1-kb-t16.flac:cb1271a016e0344bb21d9fdbc3fc8d90
+
+
+Remastered by: vibrioidxire
+Transferred and encoded by: cpscps & vibrioidxire
+PLEASE DO NOT DISTRIBUTE IN LOSSY FORMATS OR SELL!

@@ -1,0 +1,91 @@
+Minutemen
+June 19, 1981
+Santa Monica Civic Auditorium, Santa Monica, CA
+AUDIENCE RECORDING
+
+TRACKLIST:
+[intro]
+The Punch Line
+Search
+Paranoid Chant
+Warfare [aborted] / Warfare
+Song for El Salvador
+Fanatics
+Static
+Monuments
+Definitions
+Sickles and Hammers
+Gravity
+The Struggle
+Straight Jacket
+Ruins
+Ain't Talkin 'bout Love [Van Halen cover]
+Clocks
+The Maze
+Boiling
+Disguises
+Joe McCarthy's Ghost
+
+LINEUP:
+D. Boon - guitar, vocals
+Mike Watt - bass, vocals
+George Hurley - drums, vocals
+
+QUALITY:
+D+/C-
+
+LINEAGE:
+CASS (M) > AIFF > Soundforge > Audacity > FLAC
+
+COMMENTS:
+I'll just get this out of the way - this tape sounds pretty crap. However,
+it's an absolute must-hear for anyone interested in the Punch Line era.
+This show includes:
+
+- the first known live recordings of Search, Static, Straight Jacket, Ain't
+Talkin' 'bout Love, Clocks, and The Maze.
+- the ONLY known live recordings of Song for El Salvador, Monuments (pre-2003),
+Gravity, The Struggle, Ruins (pre-2003), Boiling, and Disguises.
+
+I've had a different version of this for months but never posted it because
+the spectrogram looked sketchy; I downloaded this a few days ago and it looks
+clean. The files were running slow so I sped them up 6.1% in Audacity; I'm
+not a Super Tuning God but I think it sounds a lot better. (also I have the
+Black Flag, DOA, and Adolescents sets from this show as well if anyone wants
+kthxbye)
+
+CREDITS:
+ijwthstd - sharing
+
+BAND LINKS:
+https://hootpage.com/
+https://www.discogs.com/artist/28963-Minutemen
+
+DO NOT SELL
+SUPPORT YR LOCAL ARTISTS
+SHARE WHEREVER YOU'D LIKE (keep this info file though)
+ENJOY <3
+- The Ugly Midwesterner, 2026-02-18
+---------------------------------------
+MD5 CHECKSUMS:
+987085a1e30986625f60cf3063f89188 *minutemen1981-06-19t01 [intro].flac
+d19f14a4923ac0bf79314c5b80c170cc *minutemen1981-06-19t02 The Punch Line.flac
+22b9189a5d8081a1c641ae3c85070b67 *minutemen1981-06-19t03 Search.flac
+58cbd531c58fb29b83d18d3474ccfb1a *minutemen1981-06-19t04 Paranoid Chant.flac
+80086b43cadf69088f3cc9fb3a56a594 *minutemen1981-06-19t05 Warfare.flac
+0122bbb5cc42126ba88f8b32d89928da *minutemen1981-06-19t06 Song for El Salvador.flac
+cfe4f3f57197b9ae31a9abd55dac7d39 *minutemen1981-06-19t07 Fanatics.flac
+81cfa21a438bb65bbce930a64f2f6e65 *minutemen1981-06-19t08 Static.flac
+99fc1391b1254565e654b81f012b0202 *minutemen1981-06-19t09 Monuments.flac
+95d644b97172ef7ecca36881d11f9b71 *minutemen1981-06-19t10 Definitions.flac
+709bd166a4a02620970ce65bddac356d *minutemen1981-06-19t11 Sickles and Hammers.flac
+15884ad98e80ad7b4bf66726b23224f6 *minutemen1981-06-19t12 Gravity.flac
+581c1bae969207a47f82c22440625cac *minutemen1981-06-19t13 The Struggle.flac
+34442206063a02ac567b2e6018bfe99d *minutemen1981-06-19t14 Straight Jacket.flac
+4a746ff591132bd24046f875b0a5aee3 *minutemen1981-06-19t15 Ruins.flac
+2c9d52b2a62b7072795e0c2b1c48ef4c *minutemen1981-06-19t16 Ain't Talkin' 'bout Love.flac
+2923c1a5e98bfb8904f103c047ae3b8c *minutemen1981-06-19t17 Clocks.flac
+4a35d66f6396c3e241e628935654679b *minutemen1981-06-19t18 The Maze.flac
+f62ba2bf4548ad47ff844b857bac55d2 *minutemen1981-06-19t19 Boiling.flac
+5d199986ad42198a9b6ecfe7d6a39b61 *minutemen1981-06-19t20 Disguises.flac
+0ef701d420ee0c8087f05eb0c2854ff3 *minutemen1981-06-19t21 Joe McCarthy's Ghost.flac

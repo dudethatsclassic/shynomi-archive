@@ -1,0 +1,29 @@
+Elder
+Footprint Center
+Phoenix, AZ
+February 9, 2024 (Friday)
+supporting: Tool
+
+*24bit*
+
+Taper: j.mart
+Source: DPA SMK4061 > DPA d:vice MMA-A (+6dB, no HPF) > Apogee Metarecorder (CAF 24/48) > iPhone 13 Pro
+Mastering: Adobe Audition > Izotope Ozone 10 (EQ, exciter, MB compressor, maximizer, WAV 24/48) > TLH (FLAC 8)
+
+Tracklist:
+-----------
+01- intro
+02- Sanctuary
+03- Merged in Dreams - Ne Plus Ultra
+04- Halcyon
+
+TRT: 37:47
+
+Notes: One of my favorite discoveries of the year (thanks Tool). Slightly longer set, with longer intros from Merged in Dreams and Halcyon compared to MSG2. Better sound too.
+
+#Please pass the info file along as you distribute the show#
+
+-j.mart
+2024/02/20
+
+https://beholdtheelder.com/

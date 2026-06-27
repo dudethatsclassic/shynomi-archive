@@ -1,0 +1,74 @@
+Soundgarden:
+
+Video Source: WDR German Rocklife TV broadcast(on 26th November 1995) and MTV TV Broadcast(on 03rd August 1997)
+Taper: Axel himself
+Video Bitrate: 7801 to 7924 kb/s
+Frame rate: VBR 25.000 Frames/s
+Pictures: 4:3 (all this and more was said by GSpot)
+DVD Author: Axel himself
+DVD format: PAL
+Region: 0, playable worldwide, if not it´s up to your equipment
+
+Audio Source: WDR German Rocklife TV and MTV TV Broadcast(see above)
+Lineage: see below
+Taper: Axel himself
+Audio Codec: AC3
+Audio Bitrate: 0xbd[0x80]:48000Hz  256 kb/s tot , stereo (2/0) (GSpot strikes again)
+
+Lineage: WDR German Rocklife TV and MTV TV Broadcast(see above) > Nokia satellite bowl > Pace satellite TV receiver > via Scart cable > Akai VCR > BASF master VHS´s > playback on LG VCR > via Scart cable > Panasonic stand alone DVD recorder(1h09min flexible time mode) > Sony DVD- > HD ( > YOU)
+File Size: 3.93GB
+Length: 67:58min
+No artwork...
+Information(1990-04-16): http://www.rockpalastarchiv.de/concert/soundgarden.html
+more Information(1990-04-16): http://db.etree.org/lookup_show.php?shows_key=201790
+Information(1996-09-20): http://db.etree.org/lookup_show.php?shows_key=221048
+
+
+I) 
+Philipshalle, Düsseldorf, Germany, 16th April 1990
+01) Announcement by Alan Bangs
+02) Flower
+03) Hands All Over
+04) Gun
+05) Loud Love
+06) Get On The Snake
+07) Full On
+08) Nothing To Say
+09) Beyond The Wheel
+Length: 42:48min
+
+II) 
+MTV Live`N´Loud, MTV Studios, London, England, UK, 20th September 1996
+01) Burden In My Hand
+02) Spoonman
+03) Blow Up The Outside World
+04) Mail Man
+05) Black Hole Sun
+Length: 25:10min
+Personal:
+Chris Cornell: Vocals, Guitar
+Kim Thayil: Guitar
+Ben Shepherd: Bass
+Matt Cameron: Drums
+
+
+(Source: WDR German Rocklife TV and MTV TV Broadcast)
+
+
+MD5 is your mail man.
+
+d8d3388f8ac43a1e45b6efe48d186034 *VIDEO_TS\VIDEO_TS.BUP
+d8d3388f8ac43a1e45b6efe48d186034 *VIDEO_TS\VIDEO_TS.IFO
+6b5511d918ad47b021886fd428d176b6 *VIDEO_TS\VIDEO_TS.VOB
+6163ce8d678a3382a95edea8a5bedd5a *VIDEO_TS\VTS_01_0.BUP
+6163ce8d678a3382a95edea8a5bedd5a *VIDEO_TS\VTS_01_0.IFO
+96718bb4776e56198ae595a390df5518 *VIDEO_TS\VTS_01_1.VOB
+d09f401acc8d948d24e3a6ec091a465b *VIDEO_TS\VTS_01_2.VOB
+7ac7c0cb0a8ddee3292c81d491c0bc8d *VIDEO_TS\VTS_01_3.VOB
+f5c05e82c814bc1d61c8c80f3254ccfd *VIDEO_TS\VTS_02_0.BUP
+f5c05e82c814bc1d61c8c80f3254ccfd *VIDEO_TS\VTS_02_0.IFO
+ca8e457e27e50a61e71a788091d64219 *VIDEO_TS\VTS_02_1.VOB
+281d829200f02984b74f65823bbc1da8 *VIDEO_TS\VTS_02_2.VOB
+
+No errors occured. (Trader´s Little Helper Said That.)
+Attached MD5 was created with MD5summer.

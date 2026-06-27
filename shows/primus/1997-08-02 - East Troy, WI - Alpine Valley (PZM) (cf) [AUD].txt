@@ -1,0 +1,28 @@
+PRIMUS
+August 2, 1997
+Alpine Valley
+East Troy, WI
+
+Source: PZM (Subterranean mod) > Sony TCD-D8
+Location: mics on stand @ 4th row center
+Taper: CF
+Lineage: DAT(M) > DAT(1) > CDR(1) > FLAC
+Transfer: Tascam DA-20mkII > Sony CDR-W33 > EAC > Sound Forge
+Edits/EQ: none
+Notes: main stage @ HORDE Festival
+
+01 - Groundhog Day
+02 - To Defy the Laws of Tradition
+03 - Duchess and The Proverbial Mind Spread
+04 - Those Damned Blue-Collared Tweekers
+05 - My Name is Mud
+06 - Golden Boy
+07 - Jerry was a Racecar Driver
+08 - Shake Hands with Beef
+09 - Sailing the Seas of Cheese
+10 - Over the Falls
+11 - Pudding Time - Wildwood Weed - Tommy the Cat
+12 - drum solo > jam
+
+
+Compiled June 2019 by CPS

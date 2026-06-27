@@ -1,0 +1,54 @@
+Primus
+Saturday July 25th 2015
+Blue Hills Bank Pavilion
+290 Northern Avenue
+Boston MA USA
+
+Taper:  LeifH
+Source:  CSB (filter) > Sony PCM M10 @ 24/48 > Lexar 16GB microSD card
+Transfer:  Memory card > PC via USB > Wavepad Master's Edition (edits, amplify, tracking, downsample to 16/44.1) > flac(8) via Frontend
+
+Setlist:  1:44:25
+00 intro
+01 To Defy the Laws of Tradition
+02 Last Salmon Man
+03 South Park Theme
+04 Wynona's Big Brown Beaver
+05 American Life
+06 Over the Falls
+07 Lee Van Cleef
+08 Oompa Augustus
+09 Mr. Krinkle
+10 Drums and Whamola
+11 Eleven
+12 Golden Boy
+13 My Name is Mud
+14 Jerry Was a Race Car Driver
+15 Harold of the Rocks
+
+16 Too Many Puppies > Hello Skinny
+
+My 16th Primus show.  I got to the venue early and heard the opening bands doing soundcheck.  It was nice weather, not too hot and almost no wind.  I wasn't sure what to expect at this venue.  When the gates first opened they were using metal wands.  Apparently they stopped using them shortly after I got in.  Whatever.
+
+I was on the aisle, between the centre and right sections, row R.  The opening band recordings sound okay, and Primus turned out great.  It was loud and punchy.  Security was beside me the entire night.  On my other side was a young fellow and his grandma.  People were getting busted for smoking cigarettes all night.  Saw some people get thrown out over a joint.  The ushers and security people are very anal about checking tickets for the first 20-something rows of the venue.  
+
+Les played some of the South Park Theme and changed the words to Bean Town.  He also teased I Am On My Way from Paint Your Wagon in between Over The Falls and Lee Van Cleef.  During Tim's drum solo he teased The Ol' Diamondback Sturgeon before Les came out with the whamola.  If only.
+
+fingerprints:
+00 - intro.flac:d8bcc5edf239888d3299ca6e602bd5cc
+01 - To Defy the Laws of Tradition.flac:a4424b146406ee45c4e8026d6b822e4e
+02 - Last Salmon Man.flac:674e11e939cc22d89b1e4ac5a46708d7
+03 - South Park Theme.flac:f148fe9778cf6f0bf5f272a7ca848a85
+04 - Wynona's Big Brown Beaver.flac:d76e3ba700518936480e53599e0e103d
+05 - American Life.flac:0754db06b48851db61a3d71767825d73
+06 - Over the Falls.flac:ea38a5d627374794052ebf95a27861a0
+07 - Lee Van Cleef.flac:d719cdec280ed7075386a063388d6adb
+08 - Oompa Augustus.flac:0f4fa88162a9e5ebeab0454000274470
+09 - Mr. Krinkle.flac:abea0ce93ea679a027e5ff8bed9b3a6c
+10 - Drums and Whamola.flac:7ea92ebc927d9a13b3c4fd760a526cca
+11 - Eleven.flac:2938b846a19d5e72753f2a29b1458b27
+12 - Golden Boy.flac:c7440f0b0164c02f4a7eb0e044bc7f01
+13 - My Name Is Mud.flac:432683702cf795ec5e0fa676caed1ce9
+14 - Jerry Was a Race Car Driver.flac:d1b018dcf7aac64760444ee5ca7b7465
+15 - Harold of the Rocks.flac:13c4972228a6f425d34bee1d5376068c
+16 - Too Many Puppies.flac:9dbdad2695519a85e4fced980c65c21c

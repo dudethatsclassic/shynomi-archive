@@ -1,0 +1,73 @@
+Primus - Green Naugahyde Tour
+June 15th, 2012 (Friday)
+Orpheum Theatre
+Vancouver, British Columbia, Canada
+
+3 Source Matrix
+
+Source 1:  CA-11 (cardioid) > CA-9000 > Zoom H1 @ 24/48 by Bryan C - Dress Circle, Row 3, DFC
+Source 2:  CA-11 (omnidirectional) > CA-UGLY > Zoom H4n (1/8" Mic-In) @ 24/48 by Seth Meister - LC Orchestra, Row 7, LOC
+Source 3:  CA-14 (cardioid) > CA-9100 > Zoom H4n (XLR Line-In) @ 24/48 by Seth Meister - *second set only*
+Transfer:  .WAV files > Wavepad Masters Edition (edits, mixdown, tracking) > flac (8) via TLH
+
+Setlist:  02:21:06
+01 - intro (Danny Elfman "Clown Dream")
+02 - Those Damned Blue-Collar Tweekers
+03 - Duchess and the Proverbial Mindspread
+04 - American Life
+05 - Over the Falls
+06 - Mr. Krinkle
+07 - The Toys Go Winding Down
+08 - Southbound Pachyderm
+09 - Jerry was a Racecar Driver
+-intermission-
+10 - Prelude to a Crawl
+11 - Hennepin Crawler
+12 - Last Salmon Man
+13 - Eternal Consumption Engine
+14 - Tragedy's a Comin'
+15 - Eyes of the Squirrel
+16 - Jilly's on Smack
+17 - Lee Van Cleef
+18 - Moron TV
+19 - Green Ranger
+20 - HOINFODAMAN
+21 - Extinction Burst
+22 - Salmon Men
+-encore-
+23 - Groundhog's Day
+24 - Wynona's Big Brown Beaver
+
+Les Claypool - bass, Larry "Ler" LaLonde - guitar, Jay Lane - drums
+
+The first set is a mix of sources 1 and 2 only.  Seth had consistent cable issues with the CA-14 mics throughout the first set so it was left on the cutting room floor.  Both of Seth's sources also had some issues at the beginning of set 2, so the song Hennepin Crawler is Bryan's recording only.  Many small clicks and pops have been meticulously removed.  
+
+The crowd was pretty rowdy.  Claypool seemed fatigued or possibly hung over.  He forgets to switch off his envelope filter used in the song Hennepin Crawler before beginning the next tune, Last Salmon Man.  This happens again at the start of Lee Van Cleef, you can hear the delay used on Jilly's On Smack for a few seconds.  
+
+There were 4 tapers in attendance this night and we all met up afterwards.
+
+fingerprints:
+Primus20120615Matrix01 - intro.flac:5a66826f4a18702e1925275fb1234bf2
+Primus20120615Matrix02 - Those Damned Blue Collar.flac:f4ad4dff3923719ccb4eddbc139e3fa2
+Primus20120615Matrix03 - Duchess.flac:defb4930089cc0a1f0185fbe94fa8fae
+Primus20120615Matrix04 - American Life.flac:38f11791af17c71612ad16c81af98e06
+Primus20120615Matrix05 - Over the Falls.flac:7c5c4bfbcd5191aae46a73ae4d4ba858
+Primus20120615Matrix06 - Mr Krinkle.flac:8bcd9c8381a6f60c534f7ab10ee48dc9
+Primus20120615Matrix07 - Toys Go Winding Down.flac:fcdd5ef797b6de1e4894a0c5d2a854cc
+Primus20120615Matrix08 - Southbound Pachyderm.flac:ae52db1fe3e79f2c5c194c165665b3d9
+Primus20120615Matrix09 - Jerry was a Racecar Driver.flac:93cb0070e0d7800ab8344ba83bfd7071
+Primus20120615Matrix10 - Prelude to a Crawl.flac:e262eebc9a83e630d0529e4d8dd87701
+Primus20120615Matrix11 - Hennepin Crawler.flac:66c6ab5f7f3a7e8b6e1637ae7a28a0b1
+Primus20120615Matrix12 - Last Salmon Man.flac:8a418236ac7d400d1ea95bf8865f2e28
+Primus20120615Matrix13 - Eternal Consumption Engine.flac:067a3b3ccf834d9aed51896fbb989579
+Primus20120615Matrix14 - Tragedys a Comin.flac:9a91d95a6fe7fcf8f0f5e17f5f5cc623
+Primus20120615Matrix15 - Eyes of the Squirrel.flac:bf6435a4b220e8d935872ad2887f7278
+Primus20120615Matrix16 - Jillys on Smack.flac:29fabf26ddfcf031d62e28ca11de33f9
+Primus20120615Matrix17 - Lee Van Cleef.flac:d8a4c55d52abe2f3098f58a6c2429367
+Primus20120615Matrix18 - Moron TV.flac:3ff87ff0b3776f4c1c4d4849c047e252
+Primus20120615Matrix19 - Green Ranger.flac:abeb7ebddef19e3e691d988846ef3e3f
+Primus20120615Matrix20 - HOINFODAMAN.flac:ddd44ed0cbbbe7118c9782caebb362d1
+Primus20120615Matrix21 - Extinction Burst.flac:86b3e818474179ccf9f8c5ed023fa86c
+Primus20120615Matrix22 - Salmon Men.flac:8b30a78ad04a0ff1389de82cbaff0629
+Primus20120615Matrix23 - Groundhog's Day.flac:ae6bf0144f4d2c59bc0bc48c566480dd
+Primus20120615Matrix24 - Wynona.flac:294ac214e7de1ee44bfaab166e30fa65

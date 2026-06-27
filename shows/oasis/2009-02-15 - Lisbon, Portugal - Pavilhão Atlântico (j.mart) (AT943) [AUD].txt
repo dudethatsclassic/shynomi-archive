@@ -1,0 +1,51 @@
+Oasis
+Pavilhão Atlântico
+Lisbon, Portugal
+February 15, 2009 (Sunday)
+Support Slot: Free Peace
+
+*16bit*
+
+Taper: j.mart (stutter [at] sapo [dot] pt)
+Source: AT943's (c) > Church Audio ST-9100 (~+12dB, no HPF) > Sony PCM-D50 (Mic In, WAV 24bit/48kHz)
+Location: FOB DFC
+Mastering: USB 2.0 > Adobe Audition 3.0 (IZotope Ozone 4.1 Mastering Suite [EQ, multiband compressor, harmonic exciter], Waves C1 compressor, Waves L3 Ultramaximizer, fades) > CDWav 1.95 > R8Brain 1.5 (16/44)  > TLH (FLAC 8)
+
+Tracklist:
+------------
+01- Intro / Fuckin' In The Bushes
+02- Rock'n'Roll Star
+03- Lyla
+04- The Shock Of The Lightning
+05- Cigarettes & Alcohol
+06- The Meaning Of Soul
+07- To Be Where There's Life
+08- Waiting For The Rapture
+09- The Masterplan
+10- Songbird
+11- Slide Away
+12- Morning Glory
+13- Ain't Got Nothin'
+14- The Importance Of Being Idle
+15- I'm Outta Time
+16- Wonderwall
+17- Supersonic / encore
+18- Don't Look Back In Anger
+19- Falling Down
+20- Champagne Supernova 
+21- I Am The Walrus
+
+TRT: 01h:43m:59s
+
+
+Notes: One of the most boring shows of my life. I don't care about Oasis now, or anything they produced musically during this decade, but I thought it would be fun to see one of my favorite childhood groups live, and since Falling Down was a pretty good single, I went to see them mostly for nostalgia's sake. Not long into the show, I concluded that Oasis should have sticked to giving hilarious interviews since the late nineties, because that's their only decent output over the last 12 years. The sound was terrible, the kick drum was all over the place, and you could barely hear the guitars in the muffled mess produced by the sound guy. I enjoyed some Noel songs, but that's that. And I paid 32€ plus travel expenses to see them... Not cool at all. The recording is one of the worst ones I've made in the last couple of years, but somewhat decent after a quick and dirty edit in Audition. The AT's couldn't cut the ridiculous SPL produced by the kick drum, so there's some distortion when the drummer hits it too hard during some songs, but I think that's fine in comparison to the shitty mix made by Oasis FOH guy. I'm putting this out there because apparently some people still care for them and I'm cleaning my HD. Maybe Noel will do something cool now that he's no longer part of these hacks. Enjoy(?)
+
+########### 
+-No selling.
+-No public lossy distribution.
+-Please pass this info file along as you distribute the show.
+###########
+
+
+-j.mart
+2009/09/05

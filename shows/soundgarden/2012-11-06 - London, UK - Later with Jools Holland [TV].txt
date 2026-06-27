@@ -1,0 +1,30 @@
+Soundgarden
+Later with Jools Holland
+BBC Television Centre
+London, U.K.
+6th November 2012
+
+Lineage : BBC HD - Tevii S464 DVB-S2 PCI Card (ProgDVBPro) - Videoredo TV Suite 4.2
+
+.ts file format
+
+Video - H264 1920x1080  
+Audio - Extended Show - AC3 5.1 384kbps , Live Show AC3 2.0 192Kbps 
+
+Extended Show - Recorded on the 6th November and broadcast on the 9th November 2012 
+
+01 Been Away Too Long
+02 Chris Cornell - Interview
+03 Taree
+04 Rusty Cage
+
+Running Time - 17m 3s
+
+Live Show - broadcast on the 6th November 2012
+
+01 Been Away too Long
+02 Rusty Cage
+
+Running Time - 8m 5s
+
+

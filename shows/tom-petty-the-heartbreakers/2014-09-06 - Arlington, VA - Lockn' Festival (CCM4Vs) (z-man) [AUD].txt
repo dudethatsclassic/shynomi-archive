@@ -1,0 +1,400 @@
+Tom Petty And The Heartbreakers
+Lockn' Festival
+Arrington, Virginia
+9/6/2014 
+
+Source: Schoeps CCM4V'S(din)>Lunatec V2>Benchmark AD2K>
+Sound Devices 722 (24/48)
+FOB/DFC/KFC/ZFC/AARP Approximately 55' From Stage, 7' High 
+DSP: Sound Devices 722>Sound Forge 10.0>CD Wave>flac(16)
+ID3 Tagged In Foobar 2000
+Recorded By: Z-Man
+Seeded By: Z-Man
+
+Disc I 
+
+01 Rock And Roll Star 
+02 Last Dance With Mary Jane
+03 American Dream Plan B
+04 Into The Great Wide Open
+05 Forgotten Man
+06 I Won't Back Down
+07 Free Falling
+08 Band Introductions
+09 She's A Woman In Love 
+10 You Get Me High
+
+Disc II 
+
+01 I Was Born A Rebel
+02 You're So Glad
+03 Learning To Fly
+04 Shadow People
+05 Last Time You're Gonna Hurt Me
+06 Refugee
+07 Running Down A Dream
+Encore:
+08 You Rescue Me
+09 American Girl
+
+tompetty2014-09-06d01t01.flac:5e9bc230c3c29f42ec8af487a60397a2
+tompetty2014-09-06d01t02.flac:c5140a19505d51d1caec8739b7ba769c
+tompetty2014-09-06d01t03.flac:5bb0c1a43b874c21c7360a5f448b064d
+tompetty2014-09-06d01t04.flac:85186f1c59685e99d9854653e09c2a78
+tompetty2014-09-06d01t05.flac:121ed4fdfc27f58307f973818c29017d
+tompetty2014-09-06d01t06.flac:3279997f8f421c9de5b3fbf3807218ec
+tompetty2014-09-06d01t07.flac:864262678990bbd90a94de7246540e0e
+tompetty2014-09-06d01t08.flac:8b74950c83609b1a1939da7949282950
+tompetty2014-09-06d01t09.flac:cf357f51c6ed6b63257bb7a9bde75560
+tompetty2014-09-06d01t10.flac:c7a9859dc15bf28cbc11652589d9a957
+tompetty2014-09-06d02t01.flac:3642fb0f78cf122e9cc527feb68fb118
+tompetty2014-09-06d02t02.flac:8d22d74994b520022874c64bf9f8e0df
+tompetty2014-09-06d02t03.flac:2cc579c55f48ba31b81d9e77044b7ff7
+tompetty2014-09-06d02t04.flac:b4580d26c6d305764db22c76e33619a5
+tompetty2014-09-06d02t05.flac:b2360784dbf9b29e5e91f36cbb80c8ef
+tompetty2014-09-06d02t06.flac:87e546aa2c86b41bc8ed1508e562e6ad
+tompetty2014-09-06d02t07.flac:4acc6a9f7e7b33f4db2a924f0e164364
+tompetty2014-09-06d02t08.flac:76736a1e987ab60b7eb0c1eea0814995
+tompetty2014-09-06d02t09.flac:5f2f8fe04d3af9bb27778edac40a034d
+
+  length     expanded size    cdr  WAVE problems  fmt   ratio  filename
+     3:56.59       41769212 B   ---   --   ---xx   flac  0.4749  tompetty2014-09-06d01t01.flac
+     7:56.51       84086396 B   ---   --   ---xx   flac  0.4728  tompetty2014-09-06d01t02.flac
+     4:30.31       47700956 B   ---   --   ---xx   flac  0.4319  tompetty2014-09-06d01t03.flac
+     5:11.03       54867500 B   ---   --   ---xx   flac  0.4471  tompetty2014-09-06d01t04.flac
+     4:22.11       46242716 B   ---   --   ---xx   flac  0.4080  tompetty2014-09-06d01t05.flac
+     3:45.57       39824108 B   ---   --   ---xx   flac  0.4437  tompetty2014-09-06d01t06.flac
+     5:20.10       56471564 B   ---   --   ---xx   flac  0.4440  tompetty2014-09-06d01t07.flac
+     3:28.50       36808844 B   ---   --   ---xx   flac  0.3310  tompetty2014-09-06d01t08.flac
+     6:45.36       71526716 B   ---   --   ---xx   flac  0.4373  tompetty2014-09-06d01t09.flac
+     4:27.40       47192924 B   ---   --   ---xx   flac  0.4814  tompetty2014-09-06d01t10.flac
+     5:59.52       63449948 B   ---   --   ---xx   flac  0.3376  tompetty2014-09-06d02t01.flac
+     3:23.20       35856284 B   ---   --   ---xx   flac  0.4344  tompetty2014-09-06d02t02.flac
+     5:28.37       57946268 B   ---   --   ---xx   flac  0.3367  tompetty2014-09-06d02t03.flac
+     7:35.26       80323196 B   ---   --   ---xx   flac  0.4352  tompetty2014-09-06d02t04.flac
+     5:11.65       55013324 B   ---   --   ---xx   flac  0.4829  tompetty2014-09-06d02t05.flac
+     4:59.18       52785980 B   ---   --   ---xx   flac  0.4860  tompetty2014-09-06d02t06.flac
+     5:58.02       63155948 B   ---   --   ---xx   flac  0.4954  tompetty2014-09-06d02t07.flac
+     5:57.46       63083036 B   ---   --   ---xx   flac  0.4327  tompetty2014-09-06d02t08.flac
+     7:18.31       77336156 B   ---   --   ---xx   flac  0.4709  tompetty2014-09-06d02t09.flac
+   101:36.45     1075441076 B                            0.4381  (19 files)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

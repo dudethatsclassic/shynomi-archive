@@ -1,0 +1,55 @@
+SOUNDGARDEN
+October 02, 1996
+Musikhalle
+Hannover, Germany
+
+Recording info: Audio Technica AT831b>Sony TCD-D7
+Lineage: DATx > CDRx > WAV [EAC Secure] > FLAC [8]
+Time: 
+Quality: 8.0/10
+
+1. Spoonman (cut)
+2. Searching With My Good Eye Closed
+3. Let Me Drown
+4. Pretty Noose
+5. Burden In My Hand
+6. My Wave
+7. Ty Cobb
+8. An Unkind
+9. Fell on Black Days
+10. Helter Skelter
+11. Boot Camp
+12. Rusty Cage
+13. Black Hole Sun
+14. Outshined
+15. Dusty
+16. Blow Up The Outside World
+17. Kickstand
+18. Slaves and Bulldozers
+19. Never the Machine Forever
+20. Jesus Christ Pose
+
+Notes: "Spoonman" cuts in. It is presumed that the cut is on the master, thus making all known copies incomplete.
+Live Guide: http://mattisnotfrench.hostsnake.com/SGLG/19961002.htm
+------------------
+Fingerprints:
+d1-01-spoonman.flac:10b08937f7e794347775436fbf141408
+d1-02-searching with my good eye closed.flac:3bb86c4807e2e9020ddacebc44810cd3
+d1-03-let me drown.flac:f7c717cc27f3417cbf92e8f27e1712f0
+d1-04-pretty noose.flac:33742f34a03877356004da81b84425d5
+d1-05-burden in my hand.flac:7df79f35ad198d35a126391e4d815628
+d1-06-my wave.flac:20fc9ba60606dba2193f0c5713f2420d
+d1-07-ty cobb.flac:cf283556487b35762e0935d228fa5c97
+d1-08-an unkind.flac:d4beed8c48c7518c82f88ca37ac116b8
+d1-09-fell on black days.flac:42af8ffbf3e0eee5bcec170ef817b6f9
+d1-10-helterskelter.flac:d042d753d956c398389c7e5be7651597
+d1-11-boot camp.flac:883008d666fab908b1592a55d5a54fe4
+d1-12-rusty cage.flac:361441711d682145ada6585dcf49b21c
+d1-13-black hole sun.flac:f25daf38033628fb7996ed0d61af4711
+d1-14-outshined.flac:2a11e7a736567afcc44e898cddf9cadd
+d1-15-dusty.flac:b9933ab8e625996ba0fd09d2aa234cd9
+d1-16-blow up the outside world.flac:a2d3e7afa53dd886181da3ba27bce48b
+d2-01-kickstand.flac:418ca9b6ab829ce92a108a8b44d604c5
+d2-02-slaves + bulldozers.flac:b58abacfe5afe45cb33f34f119bbc907
+d2-03-never the machine forever.flac:b34e48670e02b0f7f630856af9d1f9ab
+d2-04-jcp.flac:60745043ff4a5bb7cc73423fc8c368ae

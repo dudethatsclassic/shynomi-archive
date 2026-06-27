@@ -1,0 +1,32 @@
+auCDtect: CD records authenticity detector, version 0.8.2
+Copyright (c) 2004 Oleg Berngardt. All rights reserved.
+Copyright (c) 2004 Alexander Djourik. All rights reserved.
+
+Detect mode (0..40 with 0 = most accurate):  8 (default)
+
+
+------------------------------------------------------------
+[d1t08.RATM-Bullet In The Head.wav]
+Detected average hi-boundary frequency: 2.008513e+004 Hz
+Detected average lo-boundary frequency: 1.232737e+004 Hz
+Detected average hi-cut frequency: 2.121925e+004 Hz
+Detected average lo-cut frequency: 1.052090e+004 Hz
+Maximum probablis boundary frequency: 2.189100e+004 Hz
+Coefficient of nonlinearity of a phase: 4.266480e-001
+First order smothness: 3.888889e-001
+Second order smothness: 6.933333e-001
+------------------------------------------------------------
+This track looks like CDDA with probability 100%.
+
+------------------------------------------------------------
+[d2t06.RATM-Killing In The Name.wav]
+Detected average hi-boundary frequency: 2.006669e+004 Hz
+Detected average lo-boundary frequency: 1.268190e+004 Hz
+Detected average hi-cut frequency: 2.112296e+004 Hz
+Detected average lo-cut frequency: 8.936736e+003 Hz
+Maximum probablis boundary frequency: 2.189100e+004 Hz
+Coefficient of nonlinearity of a phase: 2.962750e-001
+First order smothness: 3.965937e-001
+Second order smothness: 6.082725e-001
+------------------------------------------------------------
+This track looks like CDDA with probability 99%.

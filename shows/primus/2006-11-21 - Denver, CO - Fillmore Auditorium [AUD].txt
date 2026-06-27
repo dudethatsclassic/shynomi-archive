@@ -1,0 +1,70 @@
+Primus
+
+Tuesday, November 21, 2006
+Fillmore Auditorium
+Denver, CO
+
+Disc 1: (42:36)
+01. Intro Music
+02. To Defy The Laws Of Tradition
+03. The Toys Go Winding Down
+04. Groundhog's Day
+05. Seas Of Cheese
+06. Mr. Krinkle
+07. De Anza Jig
+
+Disc 2: (54:17)
+01. Spagetti Western
+02. Nature Boy >
+03. Drums
+04. My Name Is Mud
+05. Jerry Was A Racecar Driver
+06. Intro Banter
+07. Harold Of The Rocks
+08. Wynona's Big Brown Beaver
+
+www.primusville.com
+
+Thanks to Harrison Keijzer for the clamp Space and to Coloartist for the power!
+
+Source: MBHO 603a/actives/KA500 > V3(16/44.1k) > MT2496 (TS-DFC)
+Transfer: MT2496 > USB > SoundForge(EQ/Norm/Fades) > CDWave > FLAC16(Level 8)
+Taped & Transfered by: Eric Foelske (taperwookie AT gmail.com)
+-----------------------------------------------------------
+FLAC Fingerprint:
+-----------------------------------------------------------
+primus2006-11-21d1t01.flac:92f9b62c38208d27d461b9518f421fea
+primus2006-11-21d1t02.flac:b885919bac55d551832c6e0e1ea506be
+primus2006-11-21d1t03.flac:ab61a54ca2d1cbe2fd5570846e2a0e6f
+primus2006-11-21d1t04.flac:e0aa2b70698e4a25c2c20ef8c58073af
+primus2006-11-21d1t05.flac:14461ceb793a8c5420ab4f882fd13570
+primus2006-11-21d1t06.flac:694142ebeaab1105557450e838832591
+primus2006-11-21d1t07.flac:82102aa2b742b738114a80ce9c40cd3b
+primus2006-11-21d2t01.flac:4612c65d5e95042dde6289353fca8253
+primus2006-11-21d2t02.flac:3eff3557a94a1e2670e81382a6485f54
+primus2006-11-21d2t03.flac:674b373ba5d10105d86cbe4e48b21a21
+primus2006-11-21d2t04.flac:f0955f62ba3446621e156513efc37089
+primus2006-11-21d2t05.flac:2085faef13498feeebe8c8bbc20620db
+primus2006-11-21d2t06.flac:2978a1cebe763ed2edd75142c0fc9ccd
+primus2006-11-21d2t07.flac:35e181acd6915309ccce868205c1f737
+primus2006-11-21d2t08.flac:f3e3a940160c41af143d11002c260e84
+-----------------------------------------------------------
+shntool:
+-----------------------------------------------------------
+    length     expanded size   cdr  WAVE problems filename
+     1:08.21       12044636    ---   --   ---xx   primus2006-11-21d1t01.flac
+     8:57.72       94896188    ---   --   ---xx   primus2006-11-21d1t02.flac
+     8:14.47       87252188    ---   --   ---xx   primus2006-11-21d1t03.flac
+     9:45.36      103278716    ---   --   ---xx   primus2006-11-21d1t04.flac
+     3:54.23       41331740    ---   --   ---xx   primus2006-11-21d1t05.flac
+     4:45.32       50349308    ---   --   ---xx   primus2006-11-21d1t06.flac
+     5:50.16       61777676    ---   --   ---xx   primus2006-11-21d1t07.flac
+     8:36.29       91090652    ---   --   ---xx   primus2006-11-21d2t01.flac
+    11:28.19      121407932    ---   --   ---xx   primus2006-11-21d2t02.flac
+     2:48.47       29745788    ---   --   ---xx   primus2006-11-21d2t03.flac
+     6:25.09       67935212    ---   --   ---xx   primus2006-11-21d2t04.flac
+     4:02.35       42771164    ---   --   ---xx   primus2006-11-21d2t05.flac
+     2:02.09       21542012    ---   --   ---xx   primus2006-11-21d2t06.flac
+    13:25.72      142171388    ---   --   ---xx   primus2006-11-21d2t07.flac
+     5:28.50       57976844    ---   --   ---xx   primus2006-11-21d2t08.flac
+    96:53.67     1025571444 B                     (totals for 15 files, 0.5573 overall compression ratio)

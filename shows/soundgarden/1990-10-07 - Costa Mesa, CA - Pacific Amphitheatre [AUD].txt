@@ -1,0 +1,29 @@
+SOUNDGARDEN
+October 07, 1990
+Pacific Amphitheater
+Costa Mesa, CA, USA
+
+Source: analog audience audio [Sony supplied mic > Sony WM-F76]
+Generation: ANA(1) > Nakimichi DR-3> Edirol R-09 > HDD > CDR(1) > WAV [EAC Secure] > FLAC [8]
+Quality: 7.5
+Time: 33:02
+
+Tracklist:
+1. intro
+2. Hands All Over
+3. Gun
+4. Loud Love
+5. Big Dumb Sex
+6. I Awake
+7. I Don't Care About You
+
+Originally encoded January 2009.
+
+Fingerprints:
+01 - intro.flac:c5d8bff2352d94e1a049cefc9642916a
+02 - Hands All Over.flac:1d89d98a877c2be320270c0aa525c1a7
+03 - Gun.flac:d14070d9eb1e0402b0dfac435cdf3830
+04 - Loud Love.flac:e0c956012faa63a2ca00e8ba26be6eb1
+05 - Big Dumb Sex.flac:5b81d93e0b5d4116dcc10066abf5d1e4
+06 - I Awake.flac:20fcd3f4f53d1eaafd0c7c809bccdff5
+07 - I Don't Care About You.flac:1d9479b650abe582bf71e73ba4633181

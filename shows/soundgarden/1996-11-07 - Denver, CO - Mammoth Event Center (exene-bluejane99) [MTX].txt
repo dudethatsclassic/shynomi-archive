@@ -1,0 +1,61 @@
+SOUNDGARDEN
+November 7, 1996
+Mammoth Events Center
+Denver, CO
+
+2 source matrix by exene/bluejane99
+
+source 1
+--------
+Source: Microtech Gefell M300 > Aerco MP-2 > Tascam DA-P1
+Location: first row right balcony with three foot micstand, thirty feet from overhanging PA
+Taper: PL
+Lineage: DAT(M) > DAT(1) > CDR(1) > CDR(2) > FLAC
+Transfer: Panasonic SV-3700 > HHB CDR-800 > EAC (MED 2000)
+Edits/EQ: none
+Notes: none
+Compiled September 2020 by CPS
+
+source 2
+--------
+Source: MarcSounds > Sony TCD-D7 @ 48kHz
+Lineage: DAT Master > DAT1 > FLAC
+Transfer: Tascam DA-20 > Audiophile 2496 > Audacity > CDWave > TLH
+Notes: Transferred in 2011 from my 1st gen DAT clone. Raw transfer with no fades or EQ.
+Archive: DAT clone was transferred @ 48kHz and FLAC'd with cue sheet. 
+Transferred by tapeworm(48) 
+Txt file compiled on 2/12/2011; edited 11/8/2020
+
+01 - Spoonman
+02 - Searching With My Good Eye Closed
+03 - Let Me Drown
+04 - Pretty Noose
+05 - Burden in My Hand
+06 - My Wave
+07 - Ty Cobb
+08 - An Unkind
+09 - Fell on Black Days
+10 - Helter Skelter
+11 - Bootcamp
+12 - Rusty Cage
+13 - Black Hole Sun
+14 - Outshined
+15 - Dusty
+16 - Blow Up the Outside World
+17 - Search and Destroy
+18 - Slaves & Bulldozers
+19 - encore cheers & talk
+20 - Never the Machine Forever
+21 - Jesus Christ Pose
+
+notes:
+Mixed and rendered in Audacity
+Fun show.  Chris sounds drunk. 
+Great versions of Down On The Upside material.
+Both sources are loud and clear DAT captures, making for an excellent matrix.
+Thanks to both tapers!
+
+enjoy!
+-exene/bluejane99
+
+

@@ -1,0 +1,61 @@
+---------------------------------------------------------------------------
+	Artist:			Sonic Youth
+	Date:			1986-05-29
+	Location:		Wartburg
+				Wiesbaden
+				Germany
+---------------------------------------------------------------------------
+	Recorded by:		A.Cl.
+	Transfered & encoded by: Tristan Ruellan	
+				http://db.etree.org/tris1979
+---------------------------------------------------------------------------
+	Generation:	 	Aud>Aiwa Cm30a>Sony WmD6c>ANA(M)>ANA(1)
+				>flac
+---------------------------------------------------------------------------
+	Lineage:	 	Aud
+				>Aiwa Cm30a
+				>Sony WmD6c
+				>ANA(M)
+				>ANA(1)
+				>Tascam 130
+				>Presonus Firebox
+				>Spark 2.82
+				>.wav
+				>Xact 1.55 (SBE fixed)
+				>Flac
+---------------------------------------------------------------------------
+	total time:		0:59:52
+	Fileset size:		342.9MB	--------------------------------------------------------------------------
+	Note: 
+---------------------------------------------------------------------------
+	Setlist:		 
+				t01: Intro
+				t02: Tom Violence 
+				t03: White Kross
+				t04: Burning Spear
+				t05: Shadow of a Doubt 
+				t06: Starpower 
+				t07: Death to our Friends 
+				t08: Secret Girl 
+				t09: Green Light
+				t10: Brother James
+				t11: Kill Yr Idols
+				t12: Expressway to yr Skull 
+				t13: Marilyn Moore 
+				t14: World Looks Red
+				t15: Outro
+---------------------------------------------------------------------------sonicyouth1986-05-29t01.flac:f44574392b2fd3c2082bd8752d3fcfe1
+sonicyouth1986-05-29t02.flac:449b895572664f3a53fe3caa0884fd01
+sonicyouth1986-05-29t03.flac:0c0ca18cba151bb0da2d922dba50416d
+sonicyouth1986-05-29t04.flac:d584325fe6a9985db39b3ee88b3f1911
+sonicyouth1986-05-29t05.flac:9eea2a363edcdee0c94e6cf12b5b8b90
+sonicyouth1986-05-29t06.flac:2b110a85a602e2c7562f19b18f579fc0
+sonicyouth1986-05-29t07.flac:8a10bbe60c8835c30028c945fa092f42
+sonicyouth1986-05-29t08.flac:02531e889c0447cf411bda6cf99462bd
+sonicyouth1986-05-29t09.flac:77fddcb54e9b502053636a02aafaf221
+sonicyouth1986-05-29t10.flac:da4480d4fbc48c8bc189e67a8da9d3a5
+sonicyouth1986-05-29t11.flac:c78da57807a290ec10f129f1484faf84
+sonicyouth1986-05-29t12.flac:11d8288a668d3d297c2edfa1ff801990
+sonicyouth1986-05-29t13.flac:7b103dd5143cc7e911b6d404b7f0b965
+sonicyouth1986-05-29t14.flac:a1167d2f258ccd3d7dc382d22883350b
+sonicyouth1986-05-29t15.flac:2fbc110f4252c5eda5c68cf6aa85a5c9

@@ -1,0 +1,47 @@
+Oasis
+November 29, 2008
+Arena Monterrey
+Monterrey, N.L. MX
+
+Filming type: Audience 
+Generation: Master
+Menu: Yes
+Artwork: Yes
+Video format: NTSC
+Video & Audio Info (with MPEGInfo 0.2)
+Mpeg 2 Program Stream File [Video/Audio]
+Muxrate: 10.08 Mbps
+Aspect ratio 4/3 (TV)
+Interlaced, chroma format: 4:2:0
+Size [720 x 480]  29.97 fps  9.59 Mbps
+Audio: Mpeg 1 layer 1
+320 kbps 32000 Hz
+Mono, No emphasis
+
+Source:
+--------
+DVD trade > MacTheRipper > HD > xACT > MD5 > DIME
+
+Setlist:
+--------
+Fuckin' In The Bushes
+Rock 'n' Roll Star
+Lyla
+The Shock Of The Lightning
+Cigarettes & Alcohol
+The Meaning Of Soul
+To Be Where There's Life
+Waiting For The Rapture
+The Masterplan
+Songbird
+Slide Away
+Morning Glory
+Ain't Got Nothin'
+The Importance Of Being Idle
+I'm Outta Time
+Wonderwall
+Supersonic
+Don't Look Back In Anger
+Falling Down
+Champagne Supernova
+I Am The Walrus

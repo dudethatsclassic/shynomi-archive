@@ -1,0 +1,80 @@
+No need for fixing SBEs (all wav files are already sector-aligned).
+
+Track0101.wav:  successfully encoded to 'Track0101.flac'
+Track0102.wav:  successfully encoded to 'Track0102.flac'
+Track0103.wav:  successfully encoded to 'Track0103.flac'
+Track0104.wav:  successfully encoded to 'Track0104.flac'
+Track0105.wav:  successfully encoded to 'Track0105.flac'
+Track0106.wav:  successfully encoded to 'Track0106.flac'
+Track0107.wav:  successfully encoded to 'Track0107.flac'
+Track0108.wav:  successfully encoded to 'Track0108.flac'
+Track0109.wav:  successfully encoded to 'Track0109.flac'
+Track0110.wav:  successfully encoded to 'Track0110.flac'
+Track0111.wav:  successfully encoded to 'Track0111.flac'
+Track0101.wav:  successfully encoded to 'Track0101.flac'
+Track0102.wav:  successfully encoded to 'Track0102.flac'
+Track0103.wav:  successfully encoded to 'Track0103.flac'
+Track0104.wav:  successfully encoded to 'Track0104.flac'
+Track0105.wav:  successfully encoded to 'Track0105.flac'
+Track0106.wav:  successfully encoded to 'Track0106.flac'
+Track0107.wav:  successfully encoded to 'Track0107.flac'
+Track0108.wav:  successfully encoded to 'Track0108.flac'
+Track0109.wav:  successfully encoded to 'Track0109.flac'
+Track0110.wav:  successfully encoded to 'Track0110.flac'
+
+No errors occured.
+
+
+Track0101.flac:  tested ok (file will decode properly)
+Track0102.flac:  tested ok (file will decode properly)
+Track0103.flac:  tested ok (file will decode properly)
+Track0104.flac:  tested ok (file will decode properly)
+Track0105.flac:  tested ok (file will decode properly)
+Track0106.flac:  tested ok (file will decode properly)
+Track0107.flac:  tested ok (file will decode properly)
+Track0108.flac:  tested ok (file will decode properly)
+Track0109.flac:  tested ok (file will decode properly)
+Track0110.flac:  tested ok (file will decode properly)
+Track0111.flac:  tested ok (file will decode properly)
+Track0101.flac:  tested ok (file will decode properly)
+Track0102.flac:  tested ok (file will decode properly)
+Track0103.flac:  tested ok (file will decode properly)
+Track0104.flac:  tested ok (file will decode properly)
+Track0105.flac:  tested ok (file will decode properly)
+Track0106.flac:  tested ok (file will decode properly)
+Track0107.flac:  tested ok (file will decode properly)
+Track0108.flac:  tested ok (file will decode properly)
+Track0109.flac:  tested ok (file will decode properly)
+Track0110.flac:  tested ok (file will decode properly)
+
+No errors occured.
+
+
+d1\Track0101.flac:40687dece235d3c395324a7a0865b322
+d1\Track0102.flac:06517e0f4322fc94b3cf9b5097647929
+d1\Track0103.flac:d0421c70aabbb297e94fc02a2cb47d55
+d1\Track0104.flac:914ec49756261ff286b2e2660436fa7f
+d1\Track0105.flac:22d9d5aeade52a2b508e560be6a4e4de
+d1\Track0106.flac:8098dadad1f352e8fa85209d37fc4970
+d1\Track0107.flac:4df5218d1504fe04deb7a5b578c26620
+d1\Track0108.flac:cb503e661f23e489d39f21df58b319b0
+d1\Track0109.flac:3fef2e5d8c57b06e8e2d83b3e567dce9
+d1\Track0110.flac:558eeaa2c51d627e431b19401c60f62d
+d1\Track0111.flac:af23879d82ea6d3b2554ac840ede6d82
+d2\Track0101.flac:e2c3e51e5638eb9789ed8c01a527ae76
+d2\Track0102.flac:0dc128dbbd91182cda738e49fae2e7d1
+d2\Track0103.flac:4d3c9a88cc681143eec347fc75dc4c42
+d2\Track0104.flac:721e4f0f0c19eab3bb8305809d18e4b1
+d2\Track0105.flac:ff910bd973d74951ef92ce0a8cdba3e7
+d2\Track0106.flac:3d9846064f1b391404d9f6e4ee3cc784
+d2\Track0107.flac:6bdb34befbacbd2f08742d81c1455c33
+d2\Track0108.flac:b36750e0fa43ba69111231e53268c927
+d2\Track0109.flac:25d9d863317ba4f3dba6763e8a66c83d
+d2\Track0110.flac:dfb38bbe4558022b433771c6b77310d1
+
+No errors occured.
+
+Checksum file saved to disk.
+
+
+Source files deleted.

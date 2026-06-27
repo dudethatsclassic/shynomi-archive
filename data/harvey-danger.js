@@ -23,9 +23,10 @@ const ARTIST_DATA = {
       "state": "MA",
       "location": "Boston, MA",
       "venue": "Hatch Memorial Shell",
-      "notes": "Sony ECM-717 · jason adler",
+      "notes": "Sony ECM-717 \u00b7 jason adler",
       "version": "AUD",
-      "format": "SHN"
+      "format": "SHN",
+      "textFile": "2000-08-24 - Boston, MA - Hatch Memorial Shell (Sony ECM-717) (jason adler) [AUD].txt"
     },
     {
       "year": 2000,
@@ -36,9 +37,10 @@ const ARTIST_DATA = {
       "state": "OH",
       "location": "Toledo, OH",
       "venue": "The Main Event",
-      "notes": "CSB · charles dewey cole",
+      "notes": "CSB \u00b7 charles dewey cole",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "2000-10-20 - Toledo, OH - The Main Event (CSB) (charles dewey cole) [AUD].txt"
     },
     {
       "year": 2004,
@@ -49,9 +51,10 @@ const ARTIST_DATA = {
       "state": "WA",
       "location": "Seattle, WA",
       "venue": "Crocodile Cafe",
-      "notes": "DAT(M) · Shure SM98 · cps",
+      "notes": "DAT(M) \u00b7 Shure SM98 \u00b7 cps",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "2004-09-26 - Seattle, WA - Crocodile Cafe - DAT(M) (Shure SM98) (cps) [AUD].txt"
     },
     {
       "year": 2005,
@@ -62,9 +65,10 @@ const ARTIST_DATA = {
       "state": "WA",
       "location": "Seattle, WA",
       "venue": "The Showbox",
-      "notes": "Jospehson c42mp · ryan olsen",
+      "notes": "Jospehson c42mp \u00b7 ryan olsen",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "2005-09-21 - Seattle, WA - The Showbox (Jospehson c42mp) (ryan olsen) [AUD].txt"
     },
     {
       "year": 2006,
@@ -75,9 +79,10 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "Los Angeles, CA",
       "venue": "Live at Spaceland",
-      "notes": "Sony ECM-DS70P · unk",
+      "notes": "Sony ECM-DS70P \u00b7 unk",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "2006-08-12 - Los Angeles, CA - Live at Spaceland (Sony ECM-DS70P) (unk) [AUD].flac.txt"
     },
     {
       "year": 2008,
@@ -88,9 +93,10 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "Los Angeles, CA",
       "venue": "Largo at Coronet",
-      "notes": "Little · ECM-DS70P · unk",
+      "notes": "Little \u00b7 ECM-DS70P \u00b7 unk",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "2008-08-02 - Los Angeles, CA - Largo at Coronet - Little Room (ECM-DS70P) (unk) [AUD].FLAC.txt"
     },
     {
       "year": 2009,
@@ -103,7 +109,8 @@ const ARTIST_DATA = {
       "venue": "The Bell House",
       "notes": "",
       "version": "AUD",
-      "format": "MP3"
+      "format": "MP3",
+      "textFile": "2009-08-08 - Brooklyn, NY - The Bell House [AUD-LOSSY].mp3.txt"
     },
     {
       "year": 2009,
@@ -114,9 +121,10 @@ const ARTIST_DATA = {
       "state": "IL",
       "location": "Chicago, IL",
       "venue": "Schubas Tavern",
-      "notes": "Late show · CA-11 · brian emerick",
+      "notes": "Late show \u00b7 CA-11 \u00b7 brian emerick",
       "version": "AUD",
-      "format": "FLAC 24"
+      "format": "FLAC 24",
+      "textFile": "2009-08-15 - Chicago, IL - Schubas Tavern (Late show) (CA-11) (brian emerick) [AUD24].txt"
     }
   ],
   "misc": []

@@ -1,0 +1,42 @@
+SONIC YOUTH
+09 November 1986
+Knights Of Columbus Hall, Baton Rouge, Louisiana
+
+Blend of the following sources:
+
+(1) http://www.dimeadozen.org/torrents-details.php?id=681907
+
+Soundboard master by RH on Sony TC-D5> Sony UX-ES90 cassette>  Denon DR-M11 cassette deck playback> 
+M-Audio MicrotrackII capture to 16bit/44.1kHz WAV> CD Wave Editor tracksplit> Traders Little Helper FLAC level 8
+
+(2) http://www.dimeadozen.org/torrents-details.php?id=681908
+
+Audience master by RH on Sony WM-D6 + ECM 939 mic> Sony UCX-S90 cassette>  Denon DR-M11 cassette deck playback> 
+M-Audio MicrotrackII capture to 16bit/44.1kHz WAV> CD Wave Editor tracksplit> Traders Little Helper FLAC level 8
+
+(2) set -8dB lower in the mix, and (1) speed corrected against it as trying to align a pair of analogue sources
+involves a lot of sliding stretch.  I'll include a PNG of my Adobe Audition multitrack, as well as save the
+PKF file, which should work against all the FLACs in the above two seeds.
+
+Tracklist
+
+01 Marilyn Moore [Thurston: "This first song is written about a kid from New Orleans and his name was Marilyn Moore"]
+02 Tom Violence [Thurston: "This song is about being in control..."]
+03 White Kross + Nasty Girl tape
+04 Shadow Of A Doubt [Thurston: "This song is about the scene gone sour."]
+05 Death To Our Friends
+06 Secret Girl
+07 Green Light
+08 Brother James
+09 Expressway To Yr Skull [Thurston: "This is a song about my school teacher..."]
+encore with fIREHOSE:
+10 Star Power [Thurston: "This song is about the severe and extreme homosexuality in punk rock today." 
+   Mike Watt: "What do you think Dean Martin and Jerry Lewis was really about."]
+11 The Red & The Black [Blue Öyster Cult cover] [Thurston: "This song's about getting beat up."]
+
+REMEMBER
+
+* Do not sell or leverage for material gain.  Otherwise karma will carve an expressway through YR skull.
+* RH is an absolute legend recordist, so it's an honor to work on this.
+* Above all, ENJOY.
+

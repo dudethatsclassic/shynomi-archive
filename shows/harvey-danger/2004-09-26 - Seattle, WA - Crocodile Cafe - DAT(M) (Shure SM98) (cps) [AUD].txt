@@ -1,0 +1,31 @@
+HARVEY DANGER
+September 26, 2004
+Crocodile Cafe
+Seattle, WA
+
+Source: Shure SM98 > P-Mod > Sony PCM-M1
+Location: five feet from right PA
+Taper: CPS
+Lineage: DAT(M) > WAV [48] > WAV [44.1] > FLAC
+Transfer: Tascam DA-20mkII > M-Audio Audiophile 2496 > Sound Forge
+Edits/EQ: 0:00-13:01 +5dB
+Notes: No Vote Left Behind Benefit
+
+01 - intro
+02 - Sad Lisa {Cat Stevens}
+03 - Pike Street/Park Slope
+04 - Wine, Women, and Song 
+05 - Carlotta Valdez 
+06 - Sad Sweetheart of the Rodeo 
+07 - Problems and Bigger Ones 
+08 - Meetings With Remarkable Men 
+09 - Moral Centralia
+10 - Why I'm Lonely 
+11 - Authenticity
+12 - Flagpole Sitta 
+13 - encore cheers & talk
+14 - My Happy Ending {Avril Lavigne} 
+15 - (Theme From) Carjack Fever
+
+
+Compiled May 2020 by CPS

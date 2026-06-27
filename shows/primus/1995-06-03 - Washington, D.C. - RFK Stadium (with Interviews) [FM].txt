@@ -1,0 +1,15 @@
+primus
+'modern rock live' Syndicated FM show live band interview
+june 4, 1995 (broadcast date)
+
+features pre recorded parts of:
+WHFSTival
+RFK Stadium, Washington DC
+june 3, 1995 (festival date)
+
+a 'billydee' DAT FM Master recorded @ 16bit/48kHz
+
+processing:
+DAT Master > tascam da45-hr > waveterminal > adobe audition > cdwav > tlh flac 8
+
+these are 16bit/48kHz flac files

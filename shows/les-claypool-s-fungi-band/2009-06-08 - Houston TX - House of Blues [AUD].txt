@@ -1,0 +1,44 @@
+Les Claypools Fungi Band
+June 8, 2009
+House of Blues
+Houston, TX
+
+Source:  Neumann AK40 > LC3 > KM100 > V3 (analog out) > 722 (@24/48)
+Location: DFC, Front row of balcony, 30' from stage
+Transfer: 722 > Wavelab (fades, dither, resample) > CDWave (tracks)
+
+Tape and Transfer by Brad Wolf
+
+1 Set, Co-billed with Matisyahu
+
+d1t01. Thela Hun Ginjeet
+d1t02. Rumble of the Diesel
+d1t03. Amanitas
+d1t04. David Makalaster I >
+d1t05. Southbound Pachyderm >
+d1t06. Mak I > David Makalaster II
+d1t07. Red State Girl
+d2t01. Precipitation
+d2t02. Drums*
+d2t03. Booneville Stomp
+d2t04. Fisticuffs
+d2t05. D's Diner
+
+*with Whamola
+
+
+---------------------------------------------------------
+-------------------- Flac Fingerprint -------------------
+---------------------------------------------------------
+lcfb2009-06-08d1t01.flac:619f5afb82cf33006b5ce40a27d53673
+lcfb2009-06-08d1t02.flac:4ac935c45c08477270c8248be96bfb88
+lcfb2009-06-08d1t03.flac:cfe80d1bd128e16b0d77a4e513b45a76
+lcfb2009-06-08d1t04.flac:cc4dcc4284ee21a7b591c91cd9aaf35b
+lcfb2009-06-08d1t05.flac:d6a5fb9b3ab1db90688f0ef0cf705584
+lcfb2009-06-08d1t06.flac:4823c79fed4f88d05cac4500e3a08924
+lcfb2009-06-08d1t07.flac:9e28adfd1db5a34d8a1d8f1eadba1466
+lcfb2009-06-08d2t01.flac:9216a43725035aedbbd89cb99e87d5ac
+lcfb2009-06-08d2t02.flac:7011036e072953c8b8943a1d5106e892
+lcfb2009-06-08d2t03.flac:fb1df38424347acc10a60f9ac632371d
+lcfb2009-06-08d2t04.flac:35105cb29e3872f1b1f74abae780b6ce
+lcfb2009-06-08d2t05.flac:ef25219026c6a2d20f5e929b1eb263b6

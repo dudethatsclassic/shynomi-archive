@@ -1,0 +1,83 @@
+Soundgarden
+Reading Festival
+Reading, UK
+August 27, 1995
+
+***Remastered by exene***
+
+This is a nice upgrade to previous mixes floating around.
+
+Huge thanks to mareede for providing both sources with improved lineage!
+
+Matrix of aud #1 / aud #2. 
+Ben is loud in this one. 
+No other EQ, noise reduction, etc. was done.
+Edited out some crowd talking.  
+Rusty Cage is still rough due to skips in aud #2. 
+I patched these best I could with aud #1.
+First seeded this in 2013, its one of my favorite shows.
+And what a show it is.  What else is there to say about this one?
+Great covers of the Beatles (I Want You) and the Doors (Waiting for the Sun)
+Live debut of Ty Cobb and Kristi.
+
+enjoy!
+-exene
+
+Tracklist:
+1. Searching With My Good Eye Closed
+2. Let Me Drown
+3. Spoonman
+4. My Wave
+5. Drawing Flies
+6. Ty Cobb
+7. Fell On Black Days
+8. Mailman
+9. Head Down
+10. Superunknown
+11. Rusty Cage
+12. Waiting For The Sun ~ (The Doors)
+13. Black Hole Sun
+14. Kristi
+15. Hands All Over
+16. 4th Of July
+17. Kickstand
+18. I Want You (She's So Heavy)  ~ (The Beatles)
+
+Running time:  1hr 23min
+
+-----------------
+
+Notes aud #1:
+
+Source: unknown analog audience audio
+Generation: ANA(M) > DAT(x) > CDR(x) > WAV [EAC Secure] > FLAC [8]
+Quality: 8.5
+
+Encoded February 2009.
+
+Notes: Great show, great sound, an all-around great bootleg. 
+Only known performance of "Christi". 
+Chris incorporates some lines from "Slaves And Bulldozers" into the bridge of "Hands All Over".
+
+----------------
+
+Notes aud #2:
+
+Source:		AUD | Sony ECM 909 > Sony WM-D6 Professional
+Location:	On the front barrier in front of the left PA stack.
+Generation:	ANA(M) > MD(1) > CDR(1) > .wav (44.1kHz) > .flac (lvl 8)
+If burned:	ANA(M) > MD(1) > CDR(2)
+Transfer: 	Sony WM-D6 > Sharp MT877 MD > PC Line In > Unknown
+		Soundcard > Cool Edit Pro v. 2 > CDR(1) > Exact Audio 
+		Copy V0.95 prebeta 5 > CD Wave 1.93.3 > FLAC Frontend 1.7.1
+Taper:		Pete Bullock
+Transferer:	Pete Bullock
+Editing:	Noise reduction & EQ with Cool Edit Pro v. 2
+Set:		Complete
+Size (wav):	1.77gB
+Size (flac):	750mB
+
+
+
+
+

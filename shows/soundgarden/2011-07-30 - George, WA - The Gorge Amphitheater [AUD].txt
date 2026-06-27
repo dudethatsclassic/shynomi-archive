@@ -1,0 +1,62 @@
+Soundgarden
+The Gorge Amphitheater
+George, Washington
+7/30/2011
+
+*Updated 16bit file set, originally uploaded as 24bit*
+
+Source:  Sonic Studios > Sony M10
+Location:  (FOB) 30ft in front of sound board / DFC
+
+Recorded/transferred by Mike Albright
+
+Set List:
+
+d01t01 Searching With My Good Eye Closed 
+d01t02 Spoonman 
+d01t03 Gun 
+d01t04 Jesus Christ Pose 
+d01t05 Blow Up the Outside World 
+d01t06 The Day I Tried to Live 
+d01t07 My Wave 
+d01t08 Burden in My Hand 
+d01t09 Ugly Truth 
+d01t10 Fell on Black Days 
+d01t11 Hunted Down 
+d01t12 Drawing Flies 
+d02t01 Black Hole Sun 
+d02t02 Outshined 
+d02t03 Rusty Cage 
+d02t04 Head Down 
+d02t05 Pretty Noose 
+d02t06 Superunknown 
+d02t07 4th of July 
+Encore:
+d02t08 Room a Thousand Years Wide 
+d02t09 Beyond the Wheel 
+d02t10 Slaves & Bulldozers 
+
+
+
+e5799add762ce2f8e53f5d4117862899  [shntool]  sgdn2011073016bd01t01.flac
+499108cd90a569df752dba5d69e50922  [shntool]  sgdn2011073016bd01t02.flac
+1cb90fc151273644e22dcea1b2c3e90b  [shntool]  sgdn2011073016bd01t03.flac
+1d8ece1dd7bb3f7bf100c7703efa3ce0  [shntool]  sgdn2011073016bd01t04.flac
+db768cadde8a9f79b30e2d95599b5e53  [shntool]  sgdn2011073016bd01t05.flac
+bdcf7c5094d2adf80cb043a57c806a61  [shntool]  sgdn2011073016bd01t06.flac
+2a9cb5b568adda2d0cabaa5032c91689  [shntool]  sgdn2011073016bd01t07.flac
+784042c3bff79f8e006e095b7542e07b  [shntool]  sgdn2011073016bd01t08.flac
+958f67539353dfd8a7fbbaa7c92e3911  [shntool]  sgdn2011073016bd01t09.flac
+ce1a3f50af2534bc26f2a1889a387350  [shntool]  sgdn2011073016bd01t10.flac
+12dd272c31c588396eafc4a3599b0933  [shntool]  sgdn2011073016bd01t11.flac
+c624c7e349444c3aea597022285af547  [shntool]  sgdn2011073016bd01t12.flac
+8573c914a3ffc64ae64449cd52cd855b  [shntool]  sgdn2011073016bd02t01.flac
+d81312e71b4f54597e9b65db0e3d046a  [shntool]  sgdn2011073016bd02t02.flac
+538eb38c98555377a609a75e6ba6cfcc  [shntool]  sgdn2011073016bd02t03.flac
+7fd116fc1675c5d3d6df35d3c1a96294  [shntool]  sgdn2011073016bd02t04.flac
+fb637c8fd7bdbcff9945af1a9b9929eb  [shntool]  sgdn2011073016bd02t05.flac
+091c4b8b3737f090bc3efe5e79a80d7d  [shntool]  sgdn2011073016bd02t06.flac
+b3b02cd568ae5f7f1aa45932688ec56a  [shntool]  sgdn2011073016bd02t07.flac
+5c336787f9c22dd2453ded190452033d  [shntool]  sgdn2011073016bd02t08.flac
+86498e06af80fa82ce7f4c38d9ec07e8  [shntool]  sgdn2011073016bd02t09.flac
+adf13ea5fdcd51fa084719a24f99f287  [shntool]  sgdn2011073016bd02t10.flac

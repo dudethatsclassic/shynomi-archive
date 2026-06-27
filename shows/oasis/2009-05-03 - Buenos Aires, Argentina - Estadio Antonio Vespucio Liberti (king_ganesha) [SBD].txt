@@ -1,0 +1,28 @@
+auCDtect: CD records authenticity detector, version 0.8.2
+Copyright (c) 2004 Oleg Berngardt. All rights reserved.
+Copyright (c) 2004 Alexander Djourik. All rights reserved.
+
+Detect mode (0..40 with 0 = most accurate):  0
+
+
+1-01. Fuckin' In The Bushes.wav:  track looks like CDDA with probability 100%.
+1-02. Rock'n Roll Star.wav:  track looks like CDDA with probability 100%.
+1-03. Lyla.wav:  track looks like CDDA with probability 99%.
+1-04. The Shock Of The Lightning.wav:  track looks like CDDA with probability 100%.
+1-05. Cigarettes & Alcohol.wav:  track looks like CDDA with probability 100%.
+1-06. The Meaning Of Soul.wav:  track looks like CDDA with probability 100%.
+1-07. To Be Where There's Life.wav:  track looks like CDDA with probability 100%.
+1-08. Waiting For The Rapture.wav:  track looks like CDDA with probability 100%.
+1-09. The Masterplan.wav:  track looks like CDDA with probability 100%.
+1-10. Songbird.wav:  track looks like CDDA with probability 100%.
+1-11. Slide Away.wav:  track looks like CDDA with probability 100%.
+1-12. Morning Glory.wav:  track looks like CDDA with probability 100%.
+2-01. Ain't Got Nothin'.wav:  track looks like CDDA with probability 100%.
+2-02. The Importance Of Being Idle.wav:  track looks like CDDA with probability 100%.
+2-03. I'm Outta Time.wav:  track looks like CDDA with probability 100%.
+2-04. Wonderwall.wav:  track looks like CDDA with probability 100%.
+2-05. Supersonic.wav:  track looks like CDDA with probability 100%.
+2-06. Don't Look Back In Anger.wav:  track looks like CDDA with probability 100%.
+2-07. Falling Down.wav:  track looks like CDDA with probability 100%.
+2-08. Champagne Supernova.wav:  track looks like CDDA with probability 100%.
+2-09. I Am The Walrus.wav:  track looks like CDDA with probability 100%.

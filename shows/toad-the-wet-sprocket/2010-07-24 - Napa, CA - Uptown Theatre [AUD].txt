@@ -1,0 +1,30 @@
+Toad The Wet Sprocket
+Napa, CA - Uptown Theatre
+July 24, 2010
+
+Source: SP-CMC-4 (omnis) > SP-SPSB-6 > R-09 HR @ 96/24
+Transfer: WAV > Audacity 1.2.6 (hard limit, db boost, downsample) > CDWave 1.98 > FLAC
+
+01. Something's Always Wrong
+02. Rings
+03. Stupid
+04. Woodburning
+05. Crowing
+06. Good Intentions
+07. we're having fun
+08. Is It For Me
+09. Windmills
+10. Torn
+11. Born
+12. _Popup Book of Toad_
+13. Know Me
+14. Nightingale Song
+15. Come Back Down
+16. Whatever I Fear
+17. All I Want
+18. Fall Down
+19. encore break
+20. band introduction
+21. Come Down
+22. Brother
+23. Walk On The Ocean

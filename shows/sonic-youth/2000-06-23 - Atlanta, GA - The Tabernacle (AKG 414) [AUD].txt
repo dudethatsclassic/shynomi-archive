@@ -1,0 +1,23 @@
+Sonic Youth, 2000-06-23, Tabernacle, Atlanta, 79:48
+
+1. intro
+2. Tom Violence 
+3. Brother James
+4. Free City Rhymes
+5. Renegade Princess
+6. Kool Thing / noise jam
+7. Hoarfrost
+8. Nevermind
+9. Side2Side
+10. White Kross
+11. Bull In The Heather
+12. NYC Ghosts & Flowers
+13. interlude
+14. Lightnin'
+15. Schizophrenia
+16. noise intro
+17. 100%
+
+Recording and transfer by KindTaper(?), extraction and seed by rappard [at] gmail [dot] com: AKG 414 TL-2s > Oade M248 preamp > SBM-1 > Sony D8 > SPDIF > CD-R (low generation) > EAC v0.95b4 (proper offset, secure) > FLAC Frontend 1.7.1 (verify, align on sector boundaries) > flac 1.1.4 (level 8), encore break fade between 12 and 13 to make the show fit on a single disc; show with Jim O'Rourke
+
+<!-- etree, mustang, phook -->

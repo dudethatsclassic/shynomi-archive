@@ -1,0 +1,86 @@
+Primus w/The Frog Brigade Ensemble
+Tuesday, December 31st, 2013
+Fox Theater
+1807 Telegraph Avenue
+Oakland, CA, USA
+
+Taper:  LeifH
+Source:  CA-11 (cardioid) > CA-Bat2B > Sony PCM M10 @ 24/48 > Duracell 8GB microSD card
+Transfer:  Memory card > PC via USB > Wavepad Master's Edition (edits, amplify, tracking, downsample to 16/44.1) > flac (8) via Frontend
+
+Set  I:  1:02:52
+00 intro music
+01 YYZ > John the Fisherman
+02 Those Damned Blue-Collar Tweekers
+03 Groundhog's Day
+04 Over the Falls
+05 Lee Van Cleef
+06 Jilly's On Smack
+07 Mr. Krinkle
+08 Over the Electric Grapevine
+09 Jerry Was a Race Car Driver
+
+Set II:  1:46:49
+10 intro video
+11 Main Title
+12 The Candy Man
+13 Cheer Up, Charlie
+14 (I've Got A) Golden Ticket
+15 Pure Imagination
+16 Oompa Loompa
+17 The Woundrous Boatride
+18 Oompa Loompa
+19 I Want It Now
+20 Oompa Loompa
+21 Wonkamobile, Wonkavision
+22 Oompa Loompa
+23 End Title
+24 Countdown to the New Year
+25 Here Come the Bastards
+26 Southbound Pachyderm
+27 Harold of the Rocks
+
+28 Duchess and the Proverbial Mindspread
+29 My Name Is Mud
+
+"Primus & the Chocolate Factory"
+
+This was my tenth time seeing Primus, and first time seeing Tim 'Herb' Alexander.  This was the third time I would go to see them in the Bay Area for New Year's.  The Fox is basically one block from the 19th Street BART station, making it easy for someone from out of town to get there.  Originally I thought the Frog Brigade would open the show, as the Fancy Band did in 2010 at the same venue.  The Frog Brigade Ensemble was Mike Dillon, who I had seen once before as Don Hoser, and Skerik, who I hadn't seen before.  They played on all of the second set except for Southbound Pachyderm, Harold of the Rocks, and My Name Is Mud.  
+
+When they started with YYZ > John the Fisherman and had the Suck on This tarp behind them on stage, I thought there was a good chance of them playing the whole album, which didn't happen.  As the first set progressed, the basic lighting cast on the tarp got more and more psychedelic.  It wasn't just me.  Before the show there were a bunch of skinny glow sticks passed out in the lobby near the insanity known as the merch line.  There were a handful of people who were intentionally throwing them on stage, some directed right at the band.  At least a couple sticks landed on Tim's kit/cymbals and also hit Les while playing his upright bass.  They were likely trying to get a reaction.  It pretty much stopped after Les politely asked for it to.  The first set was nothing fancy but it was great hearing Tim play the variety of songs.  They all seemed happy to be playing together and exchanged smiles.  
+
+The second set started with an intro video by Les wearing a mask.  The rest of the set there were clips from the movie with pseudo 3D effects overtop, similar to the 2012 video screen.  Les was Willy Wonka, Tim was a Wonkavision person and was backwards a lot of the time, surrounded by a massive drum kit that could have been the Wonkamobile.  Some of the riffs reminded me of stuff you hear on Purple Onion and Of Fungi & Foe.  The laughing in Cheer Up, Charlie reminded me of the Residents' Laughing Song.  I think most of the crowd was a lot more 'tuned in' for the second half of the show and people seemed to be paying closer attention.  There is very little crowd noise on the recording as a result, and the applause was much quieter and more polite.  It was pretty amazing witnessing this all unfold, live.  There was a lot of work put into the show.  I thought it was funny to hear Ler sing a song but also kind of silly and awkward.  As far as I could tell the only real mistakes made were during Primus songs and not during the soundtrack.
+
+I really enjoyed this show but I hope it stays a one-time novelty.  I was hoping for a two night run but this was very unique.  I didn't mind that this wasn't in 3D.  I saw four 3D shows and liked the display a lot, but by the fourth show I was finding it distracting and left the glasses off.  A few nights later I won a bunch of money on a Willy Wonka slot machine in Vegas.
+
+fingerprints:
+00 - intro music.flac:e4209971b35e36731a20da811db95c28
+01 - YYZ-John the Fisherman.flac:9edc8e3a1ffe17b2b8849d655635c1f2
+02 - Those Damned Blue-Collar Tweekers.flac:8697b3d2bbfc70c8e8c963e22bcdc020
+03 - Groundhog's Day.flac:9d9d0ae6e87e7f266c48dcf5b3b98406
+04 - Over the Falls.flac:d66a5d81fcd84942b10d787c5d4b00a3
+05 - Lee Van Cleef.flac:5fe84ed63bee8abdd07d61eb761280fc
+06 - Jilly's On Smack.flac:c60f67bdff586dd28877825c180e11d1
+07 - Mr. Krinkle.flac:8f87419de82224a836bfd95ff5a27cc2
+08 - Over the Electric Grapevine.flac:3ef48448fe4becc8f2f92d408154fe76
+09 - Jerry Was a Race Car Driver.flac:b41ceea55b699863ee59357b935ea987
+10 - intro video.flac:96a5b84c5b2470942e941df67da8da4b
+11 - Main Title.flac:f3e4b11e71c64c660e75c904ea96d3ad
+12 - The Candy Man.flac:4e14eedc8f9f4fa78f1ff1baf35ef5b7
+13 - Cheer Up, Charlie.flac:d52be83a87f0c5364c54917ed0fdcbf8
+14 - (I've Got A) Golden Ticket.flac:040330e61f828bf32360569c8ff353c1
+15 - Pure Imagination.flac:61323ae12a20fddb0d8736d14fe39620
+16 - Oompa Loompa.flac:c724ef4dc1cf5dc19f93435f17922c8f
+17 - The Woundrous Boatride.flac:b5f00955c68e6906ed46b54adc0eaba1
+18 - Oompa Loompa.flac:3479e12c525f0a00c1c5c065863b1828
+19 - I Want It Now.flac:a404865ab78024087bd7bdb5ac27efc6
+20 - Oompa Loompa.flac:306fbe19ac6034c1033ba93a5a112670
+21 - Wonkamobile, Wonkavision.flac:bd3c0cada1f14f6b8416ac5b3900142e
+22 - Oompa Loompa.flac:d15e539d6ad0d9a934cc5b9321c4677f
+23 - End Title.flac:2cf159cd5eeaafe8b52e726625974767
+24 - Countdown to the New Year.flac:880f8786f2a21be8c3425542975b7fb9
+25 - Here Come the Bastards.flac:dc336e4226e0051f0be44240c98a7b7c
+26 - Southbound Pachyderm.flac:e14e87c7c4787ee2354e39a8c1637915
+27 - Harold of the Rocks.flac:68a85f6dea71b57eae26ba0acc218ec3
+28 - Duchess and the Proverbial Mindspread.flac:7167a9bbfcb483287023ae6ef7f6971c
+29 - My Name Is Mud.flac:eaf8333314a4e591fe166a86630c9292

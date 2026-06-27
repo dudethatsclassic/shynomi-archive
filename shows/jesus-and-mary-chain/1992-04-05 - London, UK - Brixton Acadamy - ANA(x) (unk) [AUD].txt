@@ -1,0 +1,13 @@
+410777b9b58adf114cd9b1d3acc77f92 *01. Intro.flac
+dc513077bdbd45d155fdbb539aeedac8 *02. Catchfire.flac
+275db6abdca84ef73eb76da769b9e95d *03. Blues From A Gun.flac
+d4beb4d6a6e377f8b817a64f67e67792 *04. Head On.flac
+4d591ad46d7d7013916b1c8afbdea39e *05. Teenage Lust.flac
+6558389f5a273481250cab444ff64008 *06. Reverence.flac
+a67aa7fea13742a5a9177066a2aca1ae *07. Far Gone And Out.flac
+651be9c3f0097db40760595e70f70cfb *08. In A Hole.flac
+4214a06ab1e0ef4fb6ee8351d5d6fc9e *09. Taste The Floor.flac
+b54ee69a17066fefcda34ff50843aa15 *10. Gimme Hell.flac
+f8a12f8ffa54c511b9c1bf26ac62f90e *1992.04.05-File.jpg
+72840c509bb3c86df848666ca0c1df3a *Info.txt
+c5b7b8dcb6bb0aec7b6859b3d332bd27 *photothumb.db

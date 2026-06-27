@@ -1,0 +1,39 @@
+foobar2000 1.5.1 / Dynamic Range Meter 1.1.1
+log date: 2020-09-06 01:41:08
+
+--------------------------------------------------------------------------------
+Analyzed: Oasis / 2003-03-05 - The Point, Dublin, Ireland [2020 Remaster]
+--------------------------------------------------------------------------------
+
+DR         Peak         RMS     Duration Track
+--------------------------------------------------------------------------------
+DR11      -1.21 dB   -14.34 dB      1:33 02-Fuckin' In The Bushes
+DR10      -1.08 dB   -13.29 dB      3:29 03-Bring It On Down
+DR11      -1.00 dB   -13.97 dB      4:13 04-The Hindu Times
+DR12      -1.18 dB   -14.96 dB      3:50 05-Hung In A Bad Place
+DR11      -1.14 dB   -13.89 dB      4:51 06-Supersonic
+DR10      -1.15 dB   -13.46 dB      5:05 07-Columbia
+DR10      -1.10 dB   -13.73 dB      5:09 08-Morning Glory
+DR11      -1.13 dB   -15.04 dB      5:58 09-Stop Crying Your Heart Out
+DR11      -1.04 dB   -14.49 dB      4:43 10-Little By Little
+DR11      -1.15 dB   -14.37 dB      4:48 11-Cigarettes & Alcohol
+DR12      -1.18 dB   -14.78 dB      6:22 12-Champagne Supernova
+DR12      -1.17 dB   -15.62 dB      5:11 13-Better Man
+DR13      -1.06 dB   -17.10 dB      2:58 14-Songbird
+DR10      -1.15 dB   -13.10 dB      5:48 15-Born On A Different Cloud
+DR11      -1.11 dB   -14.32 dB      7:05 16-Rock 'n' Roll Star
+DR10      -1.14 dB   -13.77 dB      6:17 17-Force Of Nature
+DR10      -1.15 dB   -13.62 dB      5:32 18-Don't Look Back In Anger
+DR10      -0.64 dB   -13.08 dB      4:15 19-My Generation
+--------------------------------------------------------------------------------
+
+Number of tracks:  18
+Official DR value: DR11
+
+Samplerate:        44100 Hz
+Channels:          2
+Bits per sample:   16
+Bitrate:           855 kbps
+Codec:             FLAC
+================================================================================
+

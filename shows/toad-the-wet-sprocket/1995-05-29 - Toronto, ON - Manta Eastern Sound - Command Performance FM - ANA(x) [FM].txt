@@ -1,0 +1,25 @@
+﻿TOAD THE WET SPROCKET 5/29/95
+MANTA EASTERN SOUND, TORONTO, ON
+
+COMMAND PERFORMANCE FM BROADCAST
+
+01 Intro
+02 Fly From Heaven
+03 Something's Always Wrong
+04 Woodburning
+05 Interview
+06 Come Back Down
+07 Crowing
+08 Interview
+09 All I Want
+10 Walk On The ocean
+11 Fall Down
+
+GEAR USED:
+
+trade Cassette Tape >
+Magnovox Stereo Boom Box > Tascam DR-07 Portable Recorder >
+Sound Forge 9.0 > CDWav > TLH > .flac files
+
+iZotope RX11 Advanced v11.0.1.3871 (De-Click)
+iZotope RX11 Advanced v11.0.1.3871 (Time & Pitch adjustment) 

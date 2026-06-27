@@ -1,0 +1,35 @@
+Artist : Oasis
+Place : Estadio Nacional, Lima - Perú
+Tour : Dig Out Your Soul
+Date : 2009/04/30
+Type : Grabacion desde audiencia
+Equip : SP-CMC-8 (AT943 Cardioid / low-sens mod) -> SP-SPSB-10 -> iRiver h320 (rockbox)
+Details : Wav 44.1kHz/16bit
+Edicion : iRiver h320 -> PC (Wav)
+Taper: Rolandx
+Remaster: TheWalruz!
+
+Remaster by thewalruz!
+Wav -> Adobe Audition 3.0 -> Eq + MultiBands -> CDWave -> Winamp 5.52 -> Flac lvl 8
+
+01. Fuckin' in the Bushes
+02. Rock 'n' Roll Star
+03. Lyla
+04. The Shock Of The Lightning
+05. Cigarettes & Alcohol
+06. The Meaning of Soul
+07. To Be Where There's Life
+08. Waiting For The Rapture
+09. The Masterplan
+10. Songbird
+11. Slide Away
+12. Morning Glory
+13. Ain't Got Nothin'
+14. The Importance of Being Idle
+15. I'm Outta Time
+16. Wonderwall
+17. Supersonic
+18. Don't Look Back In Anger
+19. Falling Down
+20. Champagne Supernova
+21. I Am The Walrus

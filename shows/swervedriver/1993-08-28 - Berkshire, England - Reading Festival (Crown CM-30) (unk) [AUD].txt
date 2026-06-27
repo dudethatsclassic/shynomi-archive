@@ -1,0 +1,19 @@
+Swervedriver, 1993-08-28, NME / Melody Maker Stage, Reading Festival, Berkshire, 44:40
+1. Harrie And Maggie
+2. Last Train To Satansville
+3. Sandblasted
+4. Blowin' Cool
+5. Duel
+6. Rave Down
+7. Duress
+Crown CM-30 > Sony TCD-D3 > DAT (LP, 32 kHz; master) > Tascam DA-302 > coaxial > Tascam CD-RW700 > CD-R, digital burst in 1 (0:45-0:48) on master
+<!-- 2007-02-16: etree, google, mora, phook, readingmuseum, swervedriver -->
+
+swd1993-08-28.txt
+swd, eac v0.95b4 (secure)	flac frontend 1.7.1 (level 8)
+
+-- -- --
+
+The above info is as it was shared with me.
+
+Shared on dime on 2023-05-13 by Aaron (supahstah)

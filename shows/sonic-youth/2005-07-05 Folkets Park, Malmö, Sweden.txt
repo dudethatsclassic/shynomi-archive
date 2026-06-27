@@ -1,0 +1,43 @@
+Species presents Sonic Youth @ Accelerator Festival  2005-07-05
+
+Venue: Accelerator Festival, Folkets Park
+Location: Malmö, Sweden 
+Date: 2005-07-05
+Broadcast date: 2005-11-10
+Lineage: FM Broadcast -> Denon TU 1500RD -> NAD C350 -> Audigy 2 -> Adobe Audition -> WAV -> CD Wave -> FLAC Frontend level 8 -> FLAC
+Recorded by Swedish Radio P3 Live
+Transferred and edited by Species
+
+File Size: 362 MB (FLAC)
+Total running time: 55.20
+
+Setlist
+-- I Love You Golden Blue (Not broadcast)
+1. Stones
+2. Pattern Recognition
+3. Unmade Bed
+4. Skip Tracer
+5. Schizophrenia
+-- Plastic Sun (Not broadcast)
+6. New Hampshire
+7. Rain on Tin
+8. PCH
+9. Drunken Butterfly
+
+Notes
+Excellent FM quality. This is not the complete show, but the complete broadcast. I'm not a big fan and not familiar with the songs so I hope I got the tracksplits correct. You'll hear the radio announcer between track 3 and 4, between track 8 and 9, and finally after track 9. I usually delete the announcer when possible, but in this case I sort of left him in there. A Swedish radio announcer is fun for the whole family.
+
+Yes, I do know that a complete soundboard recording was seeded here earlier. This is an FM broadcast.
+
+*** Please, share this recording freely and in lossless format only. Do not redistribute in lossy format. Do not buy or sell. Thank you.***
+
+Flac fingerprints
+1 Stones.flac:59551551ff87d3a1e1441b19f616d3d5
+2 Pattern Recognition.flac:a7cfbebcfc6b9449c3f9eb2e377d6abb
+3 Unmade Bed.flac:84734121b5016e2edda8015db937d9b1
+4 Skip Tracer.flac:85de98a3a10e919c2fce2e37b2e7d1b0
+5 Schizophrenia.flac:9a76dd8af5f971b315d8bf7726052bd4
+6 New Hampshire.flac:f1af944980ef79f600f7a3d781cee587
+7 Rain on Tin.flac:88b5df3dfa6967cd63b559f9b3987ae2
+8 PCH.flac:1bc5be3a3a93e4202ac9936bc15d46a8
+9 Drunken Butterfly.flac:b9d94aba4145b7b6527b7250f6208c09

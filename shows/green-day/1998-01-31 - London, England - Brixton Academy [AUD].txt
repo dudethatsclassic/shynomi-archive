@@ -1,0 +1,50 @@
+Green Day
+1998-01-31
+Brixton Academy
+London, England
+
+1. intro (1:00)
+2. Going to Pasalacqua (4:02)
+3. Welcome to Paradise (3:57)
+4. Geek Stink Breath (2:09)
+5. Nice Guys Finish Last (3:01)
+6. Hitchin' A Ride (4:19)
+7. The Grouch (2:32)
+8. Chump (2:48)
+9. Longview (3:29)
+10. 2000 Light Years Away (5:02)
+11. Blue Moon of Kentucky (tease) (1:25)
+12. Brain Stew (3:15)
+13. Jaded (1:32)
+14. Knowledge (5:45)
+15. Basket Case (2:46)
+16. She (2:18)
+17. F.O.D. (3:36)
+18. Paper Lanterns (10:35)
+19. Scattered (4:17)
+20. When I Come Around (4:55)
+
+sound quality: good audience recording
+lineage: ? > cassette tape (unknown generation) > Tascam CC-222 (WAV) > CD WAV Editor (track split) > FLAC Frontend (FLAC)
+
+checksums:
+01 intro.flac:a1b2935b63361d18e0cb2d819312f32d
+02 Going to Pasalacqua.flac:baa6cc0307c2a2bbbbe23d05ef734c62
+03 Welcome to Paradise.flac:c1e0e64584a5001d4211ca7ef044deee
+04 Geek Stink Breath.flac:f69a2355979f0be7f39e41cde5ea1498
+05 Nice Guys Finish Last.flac:f045a570a73e8f1a059acebeecddeb9f
+06 Hitchin' A Ride.flac:578a100f5ff41c29bfc81a85c66853b9
+07 The Grouch.flac:f7ca5b03b8a1f6637584a0fd0f608478
+08 Chump.flac:a288855c7fab64181708ef4958959944
+09 Longview.flac:acfa5075d510b3a28ff300029fab4487
+10 2000 Light Years Away.flac:96305399522dbfff43a01137f5cf1169
+11 Blue Moon of Kentucky (tease).flac:db35ae9db706e669e50f622a5e45153d
+12 Brain Stew.flac:8e537c6a1201883864de2845cf1c7d7a
+13 Jaded.flac:61d0992b7df12c9f6ef0e3dec6bd0677
+14 Knowledge.flac:ca7656f195b4308303ab7cf80bfd1fe1
+15 Basket Case.flac:ae407d32a0fb002a9b50d47405eea6e7
+16 She.flac:f8a3e819bd2105f8d2738e9d66f06115
+17 F.O.D.flac:f0240107737491e813fa95744562e66a
+18 Paper Lanterns.flac:3ebb603aa16c548b515ef973a833aa2f
+19 Scattered.flac:420a2f390e0e489b661e1d3d57c1cfe6
+20 When I Come Around.flac:9233eccdb8dcbc4857df35861a4d0be3

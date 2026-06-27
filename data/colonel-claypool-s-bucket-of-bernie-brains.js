@@ -21,7 +21,8 @@ const ARTIST_DATA = {
       "venue": "State Palace Theatre",
       "notes": "2 cam",
       "version": "AUD",
-      "format": "DVD"
+      "format": "DVD",
+      "textFile": "2003-05-03 - New Orleans, LA - State Palace Theatre (2 cam) [DVD].txt"
     },
     {
       "year": 2004,
@@ -47,7 +48,8 @@ const ARTIST_DATA = {
       "venue": "Royal Oak Theatre",
       "notes": "C2B3 Live",
       "version": "SBD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "2004-09-27 - Royal Oak, MI - Royal Oak Theatre (C2B3 Live) [SBD].txt"
     },
     {
       "year": 2004,
@@ -99,7 +101,8 @@ const ARTIST_DATA = {
       "venue": "Electric Factory",
       "notes": "C2B3 Live",
       "version": "SBD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "2004-10-02 - Philadelphia, PA - Electric Factory (C2B3 Live) [SBD].txt"
     },
     {
       "year": 2004,
@@ -136,9 +139,10 @@ const ARTIST_DATA = {
       "state": "NC",
       "location": "Asheville, NC",
       "venue": "The Orange Peel",
-      "notes": "Schoeps MK4 · team no drama",
+      "notes": "Schoeps MK4 \u00b7 team no drama",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "2004-10-05 - Asheville, NC - The Orange Peel (Schoeps MK4) (team no drama) [AUD].txt"
     },
     {
       "year": 2004,
@@ -151,7 +155,8 @@ const ARTIST_DATA = {
       "venue": "Variety Playhouse",
       "notes": "C2B3 Live",
       "version": "SBD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "2004-10-06 - Atlanta, GA - Variety Playhouse (C2B3 Live) [SBD].txt"
     },
     {
       "year": 2004,
@@ -216,7 +221,8 @@ const ARTIST_DATA = {
       "venue": "4th & B",
       "notes": "C2B3 Live",
       "version": "SBD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "2004-10-27 - San Diego, CA - 4th & B (C2B3 Live) [SBD].txt"
     },
     {
       "year": 2004,
@@ -242,7 +248,8 @@ const ARTIST_DATA = {
       "venue": "The Warfield",
       "notes": "C2B3 Live",
       "version": "SBD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "2004-10-30 - San Francisco, CA - The Warfield (C2B3 Live) [SBD].txt"
     },
     {
       "year": 2004,
@@ -255,7 +262,8 @@ const ARTIST_DATA = {
       "venue": "The Catalyst",
       "notes": "C2B3 Live",
       "version": "SBD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "2004-11-01 - Santa Cruz, CA - The Catalyst (C2B3 Live) [SBD].txt"
     },
     {
       "year": 2004,
@@ -268,7 +276,8 @@ const ARTIST_DATA = {
       "venue": "Crest Theater",
       "notes": "C2B3 Live",
       "version": "SBD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "2004-11-03 - Sacramento, CA - Crest Theatre (C2B3 Live) [SBD].txt"
     },
     {
       "year": 2004,
@@ -279,9 +288,10 @@ const ARTIST_DATA = {
       "state": "OR",
       "location": "Portland, OR",
       "venue": "Roseland Theater",
-      "notes": "DAT(M) · Nakamichi CM-300s · chris mcgrath",
+      "notes": "DAT(M) \u00b7 Nakamichi CM-300s \u00b7 chris mcgrath",
       "version": "AUD",
-      "format": "FLAC 24"
+      "format": "FLAC 24",
+      "textFile": "2004-11-06 - Portland, OR - Roseland Theater - DAT(M) (Nakamichi CM-300s) (chris mcgrath) [AUD24].txt"
     }
   ],
   "misc": []

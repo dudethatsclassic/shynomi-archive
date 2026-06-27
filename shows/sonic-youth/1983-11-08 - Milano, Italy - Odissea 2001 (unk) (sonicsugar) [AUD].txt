@@ -1,0 +1,156 @@
+HandBrake Activity Log for Session: 2020-12-30T08:58:25Z
+Handbrake Version: 1.3.3 (2020061300)
+Sonic Youth - 1983-11-08 Odissea 2001, Milan, Italy [AMT-DVD-HEVC].mkv
+Preset: H.265 MKV 480p30 (Modified)
+[00:58:25] macgui: QueueCore work done
+[00:58:25] macgui: QueueCore scanning specifically for title: 1
+[00:58:25] CPU: Intel(R) Core(TM) i7-1068NG7 CPU @ 2.30GHz
+[00:58:25]  - Intel microarchitecture Ice Lake
+[00:58:25]  - logical processor count: 8
+[00:58:25] hb_scan: path=/Users/tkeswick/Dropbox/Music/_DIME/Sonic Youth - 1983-11-08 Milan, Italy DVD + MTV 1991 interview, title_index=1
+disc.c:424: error opening file BDMV/index.bdmv
+disc.c:424: error opening file BDMV/BACKUP/index.bdmv
+bluray.c:2585: nav_get_title_list(/Users/tkeswick/Dropbox/Music/_DIME/Sonic Youth - 1983-11-08 Milan, Italy DVD + MTV 1991 interview/) failed
+[00:58:25] bd: not a bd - trying as a stream/file instead
+libdvdnav: Using dvdnav version 6.0.1
+libdvdread: Encrypted DVD support unavailable.
+libdvdread: Couldn't find device name.
+libdvdnav: Can't read name block. Probably not a DVD-ROM device.
+libdvdnav: vm: dvd_read_name failed
+libdvdnav: DVD disk reports itself with Region mask 0x00000000. Regions: 1 2 3 4 5 6 7 8
+libdvdread: Encrypted DVD support unavailable.
+libdvdread: Couldn't find device name.
+[00:58:25] scan: DVD has 2 title(s)
+[00:58:25] scan: scanning title 1
+[00:58:25] scan: duration is 01:04:23 (3863433 ms)
+[00:58:25] pgc_id: 1, pgn: 1: pgc: 0x7fb2d7016ea0
+[00:58:25] scan: checking audio 1
+[00:58:25] scan: id=0x80bd, lang=Unknown (AC3), 3cc=und ext=0
+[00:58:25] scan: title 1 has 10 chapters
+[00:58:25] scan: chap 1, 226600 ms
+[00:58:25] scan: chap 2, 340767 ms
+[00:58:25] scan: chap 3, 720300 ms
+[00:58:25] scan: chap 4, 273867 ms
+[00:58:25] scan: chap 5, 255867 ms
+[00:58:25] scan: chap 6, 263066 ms
+[00:58:25] scan: chap 7, 247834 ms
+[00:58:25] scan: chap 8, 197400 ms
+[00:58:25] scan: chap 9, 887300 ms
+[00:58:25] scan: chap 10, 450433 ms
+[00:58:25] scan: aspect = 4:3
+[00:58:25] scan: decoding previews for title 1
+libdvdnav: DVD disk reports itself with Region mask 0x00000000. Regions: 1 2 3 4 5 6 7 8
+libdvdnav: Menu Languages available: 
+libdvdnav: Menu Languages available: 
+libdvdnav: Menu Languages available: 
+[00:58:25] scan: title angle(s) 1
+[00:58:25] scan: audio 0x80bd: ac3, rate=48000Hz, bitrate=256000 Unknown (AC3) (2.0 ch) (256 kbps)
+[00:58:25] scan: 10 previews, 720x480, 29.970 fps, autocrop = 0/2/8/4, aspect 4:3, PAR 8:9
+[00:58:25] libhb: scan thread found 1 valid title(s)
+[00:58:26] macgui: QueueCore scan done
+[00:58:26] Starting work at: Wed Dec 30 00:58:26 2020
+
+[00:58:26] 1 job(s) to process
+[00:58:26] macgui: QueueCore started encoding Sonic Youth - 1983-11-08 Odissea 2001, Milan, Italy [AMT-DVD-HEVC].mkv
+[00:58:26] macgui: QueueCore with preset H.265 MKV 480p30 (Modified)
+[00:58:26] Starting Task: Encoding Pass
+[00:58:26] Skipping crop/scale filter
+[00:58:26] job configuration:
+[00:58:26]  * source
+[00:58:26]    + /Users/tkeswick/Dropbox/Music/_DIME/Sonic Youth - 1983-11-08 Milan, Italy DVD + MTV 1991 interview
+[00:58:26]    + title 1, chapter(s) 1 to 10
+[00:58:26]  * destination
+[00:58:26]    + /Users/tkeswick/tmp/Sonic Youth - 1983-11-08 Odissea 2001, Milan, Italy [AMT-DVD-HEVC].mkv
+[00:58:26]    + container: Matroska (libavformat)
+[00:58:26]      + chapter markers
+[00:58:26]  * video track
+[00:58:26]    + decoder: mpeg2video
+[00:58:26]      + bitrate 200 kbps
+[00:58:26]    + filters
+[00:58:26]      + Comb Detect (mode=3:spatial-metric=2:motion-thresh=1:spatial-thresh=1:filter-mode=2:block-thresh=40:block-width=16:block-height=16)
+[00:58:26]      + Decomb (mode=39)
+[00:58:26]      + Framerate Shaper (mode=2:rate=27000000/900000)
+[00:58:26]        + frame rate: 29.970 fps -> peak rate limited to 30.000 fps
+[00:58:26]    + Output geometry
+[00:58:26]      + storage dimensions: 720 x 480
+[00:58:26]      + pixel aspect ratio: 8 : 9
+[00:58:26]      + display dimensions: 640 x 480
+[00:58:26]    + encoder: H.265 (libx265)
+[00:58:26]      + preset:  slow
+[00:58:26]      + options: strong-intra-smoothing=0:rect=0:aq-mode=1
+[00:58:26]      + profile: main
+[00:58:26]      + level:   auto
+[00:58:26]      + quality: 20.00 (RF)
+[00:58:26]      + color profile: 6-1-6
+[00:58:26]  * audio track 1
+[00:58:26]    + decoder: Unknown (AC3) (2.0 ch) (256 kbps) (track 1, id 0x80bd)
+[00:58:26]      + bitrate: 256 kbps, samplerate: 48000 Hz
+[00:58:26]    + AC3 Passthru
+libdvdnav: Using dvdnav version 6.0.1
+libdvdread: Encrypted DVD support unavailable.
+libdvdread: Couldn't find device name.
+libdvdnav: Can't read name block. Probably not a DVD-ROM device.
+libdvdnav: vm: dvd_read_name failed
+libdvdnav: DVD disk reports itself with Region mask 0x00000000. Regions: 1 2 3 4 5 6 7 8
+libdvdread: Encrypted DVD support unavailable.
+libdvdread: Couldn't find device name.
+libdvdnav: DVD disk reports itself with Region mask 0x00000000. Regions: 1 2 3 4 5 6 7 8
+libdvdnav: Menu Languages available: 
+libdvdnav: Menu Languages available: 
+libdvdnav: Menu Languages available: 
+[00:58:26] sync: expecting 115787 video frames
+x265 [info]: HEVC encoder version 3.2.1+1-b5c86a64bbbe
+x265 [info]: build info [Mac OS X][clang 11.0.3][64 bit] 8bit+10bit+12bit
+x265 [info]: using cpu capabilities: MMX2 SSE2Fast LZCNT SSSE3 SSE4.2 AVX FMA3 BMI2 AVX2
+x265 [info]: Main profile, Level-3 (Main tier)
+x265 [info]: Thread pool created using 8 threads
+x265 [info]: Slices                              : 1
+x265 [info]: frame threads / pool features       : 3 / wpp(8 rows)
+x265 [warning]: Source height < 720p; disabling lookahead-slices
+x265 [info]: Coding QT: max CU size, min CU size : 64 / 8
+x265 [info]: Residual QT: max TU size, max depth : 32 / 1 inter / 1 intra
+x265 [info]: ME / range / subpel / merge         : star / 57 / 3 / 3
+x265 [info]: Keyframe min / max / scenecut / bias: 30 / 300 / 40 / 5.00
+x265 [info]: Lookahead / bframes / badapt        : 25 / 4 / 2
+x265 [info]: b-pyramid / weightp / weightb       : 1 / 1 / 0
+x265 [info]: References / ref-limit  cu / depth  : 4 / on / on
+x265 [info]: AQ: mode / str / qg-size / cu-tree  : 1 / 1.0 / 32 / 1
+x265 [info]: Rate Control / qCompress            : CRF-20.0 / 0.60
+x265 [info]: tools: limit-modes rd=4 psy-rd=2.00 rdoq=2 psy-rdoq=1.00 rskip
+x265 [info]: tools: signhide tmvp deblock sao
+[00:58:26] sync: first pts audio 0x80bd is 0
+[00:58:26] sync: first pts video is 863
+[00:58:26] sync: "The World Looks Red" (1) at frame 1 time 863
+[01:02:42] sync: "She’s in a Bad Mood" (2) at frame 6793 time 20397239
+[01:09:06] sync: "Early American / The Burning Spear" (3) at frame 17005 time 51063875
+[01:22:33] sync: "Confusion Is Next" (4) at frame 38593 time 115892639
+[01:27:46] sync: "Brother James" (5) at frame 46801 time 140541263
+[01:32:36] sync: "Kill Yr Idols" (6) at frame 54469 time 163568267
+[01:37:35] sync: "Making the Nature Scene" (7) at frame 62353 time 187243919
+[01:42:20] sync: "Shaking Hell" (8) at frame 69781 time 209550203
+[01:46:05] sync: "The Good and the Bad" (9) at frame 75697 time 227315951
+[02:03:10] sync: "Inhuman" (10) at frame 102289 time 307171727
+libdvdnav: Menu Languages available: 
+[02:11:37] reader: done. 1 scr changes
+[02:11:42] work: average encoding speed for job is 26.355839 fps
+[02:11:42] comb detect: heavy 98788 | light 8838 | uncombed 8162 | total 115788
+[02:11:42] decomb: deinterlaced 98788 | blended 8838 | unfiltered 8162 | total 115788
+[02:11:42] vfr: 115788 frames output, 0 dropped and 0 duped for CFR/PFR
+[02:11:42] vfr: lost time: 0 (0 frames)
+[02:11:42] vfr: gained time: 0 (0 frames) (0 not accounted for)
+[02:11:42] ac3-decoder done: 120733 frames, 0 decoder errors
+[02:11:42] mpeg2video-decoder done: 115788 frames, 0 decoder errors
+[02:11:42] sync: got 115788 frames, 115787 expected
+[02:11:42] sync: framerate min 29.970 fps, max 29.970 fps, avg 29.970 fps
+x265 [info]: frame I:    397, Avg QP:21.23  kb/s: 3882.33 
+x265 [info]: frame P:  24336, Avg QP:22.74  kb/s: 3061.88 
+x265 [info]: frame B:  91055, Avg QP:25.93  kb/s: 1560.23 
+x265 [info]: Weighted P-Frames: Y:12.0% UV:6.1%
+x265 [info]: consecutive B-frames: 0.3% 1.8% 3.0% 19.3% 75.6% 
+
+encoded 115788 frames in 4396.15s (26.34 fps), 1883.81 kb/s, Avg QP:25.25
+[02:11:42] mux: track 0, 115788 frames, 910214358 bytes, 1884.75 kbps, fifo 2048
+[02:11:42] mux: track 1, 120733 frames, 123630592 bytes, 256.00 kbps, fifo 2048
+[02:11:42] Finished work at: Wed Dec 30 02:11:42 2020
+
+[02:11:42] libhb: work result = 0

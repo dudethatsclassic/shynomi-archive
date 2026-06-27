@@ -1,0 +1,28 @@
+auCDtect: CD records authenticity detector, version 0.8.2
+Copyright (c) 2004 Oleg Berngardt. All rights reserved.
+Copyright (c) 2004 Alexander Djourik. All rights reserved.
+
+Detect mode (0..40 with 0 = most accurate):  8 (default)
+
+
+01 The Swamp Song.wav:  track looks like CDDA with probability 100%.
+02 Acquiesce.wav:  track looks like CDDA with probability 100%.
+03 Supersonic.wav:  track looks like CDDA with probability 100%.
+04 Hello.wav:  track looks like CDDA with probability 100%.
+05 Some Might Say.wav:  track looks like CDDA with probability 100%.
+06 Roll With It.wav:  track looks like CDDA with probability 100%.
+07 Slide Away.wav:  track looks like CDDA with probability 100%.
+08 Listen Up.wav:  track looks like CDDA with probability 100%.
+09 Morning Glory.wav:  track looks like CDDA with probability 100%.
+10 Cigarettes & Alcohol.wav:  track looks like CDDA with probability 100%.
+11 It's Gettin' Better (Man!!).wav:  track looks like CDDA with probability 100%.
+12 Champagne Supernova.wav:  track looks like CDDA with probability 100%.
+13 Whatever.wav:  track looks like CDDA with probability 100%.
+14 Wonderwall.wav:  track looks like CDDA with probability 100%.
+15 Don't Look Back In Anger.wav:  track looks like CDDA with probability 100%.
+16 Live Forever.wav:  track looks like CDDA with probability 100%.
+17 I Am The Walrus.wav:  track looks like CDDA with probability 100%.
+
+No errors occurred.
+
+Test for MPEG log saved to file.

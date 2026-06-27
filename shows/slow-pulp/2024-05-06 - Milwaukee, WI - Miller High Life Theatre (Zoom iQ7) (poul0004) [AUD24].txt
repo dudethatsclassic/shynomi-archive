@@ -1,0 +1,32 @@
+Slow Pulp - 2023-06-27, Green Bay, WI
+
+Slow Pulp
+Miller High Life Theatre
+Milwaukee, WI
+2024-05-06
+
+TRACK LISTING 
+01 - Idaho
+02 - At It Again
+03 - Cramps
+04 - Worm
+05 - Slugs
+06 - Falling Apart
+07 - Broadview
+08 - MUD
+
+FLAC FINGERPRINTS or MD5 checksum for the musical content only (*)
+01 - Idaho.flac:1645c68b65663dcb81d633511ec6091e
+02 - At It Again.flac:33206e844e69cdd418ec2c8585a786f3
+03 - Cramps.flac:4d941c933aef09ff6d038cff86daaa8a
+04 - Worm.flac:72a102152c4a78e17a097ec52527efef
+05 - Slugs.flac:d88ad12633aa8de7aeffd57bb6fac204
+06 - Falling Apart.flac:cdbfe8a1e85cbec8fcbc85019488bba2
+07 - Broadview.flac:56f690b6dfca9aa364d26f8f7e560131
+08 - MUD.flac:9baccc4be10666ab887d9708c5434ecb
+
+AUD SOURCE 
+Zoom iQ7 -> iPhone Handy Recorder app wav -> apmplifed & split in Audacity -> flac
+
+Go see them live
+Go buy their albums

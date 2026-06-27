@@ -1,0 +1,27 @@
+Sonic Youth - 2000 06 19 @ 9:30 Club, Washington DC
+
+Transfer note:
+Good recording, but some soft limiting on the loud parts. I raised high and low end to losen the recording up and normalized the volume.
+
+1 intro
+2 Schizophrenia 
+3 Teenage Riot 
+4 Free City Rhymes 
+5 Renegade Princess 
+6 Kool Thing 
+7 Burning Spear 
+8 Mote 
+9 Nevermind 
+10 Side2Side 
+11 The Ineffable Me 
+12 NYC Ghosts & Flowers 
+ encore 
+13 Lightnin' 
+14 100% 
+
+Openers:
+Stereolab
+Quix-O-Tic
+
+Taper: C DiPietro             
+Lineage: Audio Technica 815's > Sony PCM-M1 Audience Master > SPDIF > SoundForge 4.5 > CDWIN > CDR > EAC > SoundForge 16 (eq, volume) > CDWAVE (splits) > FLAC

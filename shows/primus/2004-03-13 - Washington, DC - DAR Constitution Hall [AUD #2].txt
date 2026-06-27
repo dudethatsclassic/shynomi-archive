@@ -1,0 +1,59 @@
+Live In Washington
+2004-03-13
+
+Last Stop - Tour de Fromage
+Sony SDT-9000> DAT2WAV> SF6.0(fades, 48>44.1)
+
+cd1
+   1.  /Southbound Pachyderm
+   2. Mr. Knowitall
+   3. The Heckler
+   4. My Friend Fats
+   5. The Air Is Getting Slippery
+   6. Mr. Krinkle
+   7. Mary The Ice Cube
+   8. My Name Is Mud
+cd2
+   1.  /Intermission
+   2. Seas of Cheese
+   3. Here Come the Bastards
+   4. Sgt. Baker
+   5. American Life
+   6. Jerry Was A Race Car Driver
+   7. Drum and Whamola Jam
+   8. Eleven
+   9. Is It Luck?
+cd3
+   1.  Grandad's Little Ditty
+   2. Tommy the Cat
+   3. Sathington Waltz
+   4. Those Damned Blue-Collar Tweekers
+   5. Fish On
+   6. Los Bastardos
+   7. ENCORE
+   8. Groundhog's Day
+
+Track01.flac:e1d11585cef6ec19dff12e0bafd224c0
+Track02.flac:c031b181cc5aae6c8dbed995ec3bafda
+Track03.flac:ad60a86c8fd5d5b68d026b83abdfc03f
+Track04.flac:4cdce82ee93b9c1bfc8a5423f1744020
+Track05.flac:2c55dd691edb9b8bcd5ee7a4116ed5a9
+Track06.flac:90f691c31f8addc1423adca5b745b45c
+Track07.flac:ed1bc8c6f8af4b3e94f991f20ae81797
+Track08.flac:63c7dba8d41d4cbf864b13bbf5a1ae21
+Track01.flac:b7808c6288feda9f1f60206ebb759b15
+Track02.flac:fa0bba24b37119c94e6fda487a28774d
+Track03.flac:f48a206c6ef2fa7cbaab1b57b6d36d4e
+Track04.flac:e7d0386a23d5fb1d93abc1acc916bbf6
+Track05.flac:e5ca5e6b4df6266f7fd8f24bb41a1c77
+Track06.flac:ab50aa9741ef3aebdc3ac59ceb9d1112
+Track07.flac:e54e8f6e7aaf179156033c9d123996a2
+Track08.flac:bae5728a0d0bb52eb31b718f7d0fc568
+Track09.flac:dcf0d53d62a8d815795dac07518bc0c6
+Track01.flac:7883247c42807283b76d92a2ad572aee
+Track02.flac:88cf3e24f99a0b5df1bac25ed1072e61
+Track03.flac:8e80d91c0d797cc92fd95dccbdfd85c5
+Track04.flac:8fdff281648d5b4ba6c152dfffe58d2a
+Track05.flac:4a3e91887addaa1c8b3ad8b979ee9af7
+Track06.flac:d7d0fe7c8e8cd7b92ef2c4f0997f5aaa
+Track07.flac:75828e455274f22d1aaeef15e3369cfc

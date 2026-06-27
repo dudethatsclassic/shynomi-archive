@@ -22,7 +22,8 @@ const ARTIST_DATA = {
       "venue": "CBGB's",
       "version": "SBD",
       "format": "FLAC",
-      "notes": ""
+      "notes": "",
+      "textFile": "1981-12-25 - New YOrk, NY - CBGB's [SBD].txt"
     },
     {
       "year": 1983,
@@ -35,7 +36,8 @@ const ARTIST_DATA = {
       "venue": "Bowes Lyon House Stevenage",
       "version": "AUD",
       "format": "FLAC",
-      "notes": "unk \u00b7 djm5000 - smokeydiablo"
+      "notes": "unk \u00b7 djm5000 - smokeydiablo",
+      "textFile": "1983-05-08 - Stevenage, England - Bowes Lyon House Stevenage (unk) (djm5000 - smokeydiablo) [AUD].txt"
     },
     {
       "year": 1986,
@@ -48,7 +50,8 @@ const ARTIST_DATA = {
       "venue": "The Ritz",
       "version": "SBD",
       "format": "FLAC",
-      "notes": ""
+      "notes": "",
+      "textFile": "1986-12-27 - New York, NY - The Ritz [SBD].txt"
     }
   ]
 };

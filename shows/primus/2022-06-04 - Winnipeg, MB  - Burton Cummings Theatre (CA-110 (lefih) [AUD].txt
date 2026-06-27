@@ -1,0 +1,65 @@
+Primus - A Tribute To Kings 2nd Leg
+Saturday June 4th, 2022
+Burton Cummings Theatre
+364 Smith Street
+Winnipeg, Manitoba, Canada
+
+Taper:  LeifH [2022#51b]
+Source 2:  CA-11 > Bat2B > M10 
+Transfer:  PC via USB > RX9 > Wavepad > flac (8) via TLH
+
+Setlist:  02:10:44
+00 intro
+01 Those Damned Blue-Collar Tweekers > 
+02 Lacquer Head 
+03 Here Come the Bastards
+04 The Toys Go Winding Down > 
+05 Pudding Time
+06 Duchess and the Proverbial Mindspread
+07 Conspiranoia
+08 Jilly's on Smack
+09 Erin on the Side of Caution
+10 Professor Nutbutter's House of Treats
+-intermission-
+11 A Farewell to Kings
+12 Xanadu
+13 Closer to the Heart
+14 Cinderella Man
+15 Madrigal
+16 Cygnus X-1
+-encore-
+17 Welcome to This World > 
+18 My Name is Mud > 
+19 Jerry Was a Racecar Driver
+20 Over the Electric Grapevine
+
+My 38th Primus show and first time visiting the province of Manitoba.  This theatre first opened in 1907 as the Walker Theatre, was designated a National Historic Site of Canada in 1991, and was renamed the Burton Cummings Theatre in 2002 after local musician Burton Cummings who is best known for his work with the band The Guess Who.  
+
+I chose to stay close to the venue, but didn't realize I would have a 10th floor room overlooking it too.  While walking around the neighbourhood in the afternoon, I crossed paths with Les, Tim and Ler at different times.  
+
+I was on the floor, dead centre, roughly 35' from the stage.  
+
+After the show I was listening to my recordings and packing up to get ready for travel the next day.  It was getting late, about 01:00 in the morning.  Fire alarm goes off.  Its a concrete building, I just put my earplugs in and thought I'd wait it out.  A few minutes pass, the alarm starts sounding in double time and I could hear several people evacuating the floor I was on.  Someone's voice said, "I think its serious."  I put the recording gear in my bag and walked down 10 flights of stairs with it.  The fire department showed up ready for business, but as I suspected, it was some partiers smoking something in their room.  At least I got free espresso out of it when I checked out.  
+
+fingerprints:
+00 - intro.flac:a34fa7da364e2c1d97bde787b7d715e4
+01 - Those Damned Blue Collar Tweekers.flac:28797b250967f1acf7358a905a50bc23
+02 - Lacquer Head.flac:68b70168f16111c98c83cf8dec675ed6
+03 - Here Come The Bastards.flac:582ef584d6d32c6ef15f40df712b1cae
+04 - The Toys Go Winding Down.flac:2bb9b6292039968d8fe14816ed80c7a7
+05 - Pudding Time.flac:52f0110ce08857ec93413fcd33f2007d
+06 - Duchess and the Proverbial Mindspread.flac:6d3654c762908582599be33af929a7d2
+07 - Conspiranoia.flac:958fdea1294265aa722d58f591af0382
+08 - Jilly's on Smack.flac:bf3f18b79c7bd6f4904675fe78d5b3ac
+09 - Erin on the Side of Caution.flac:54fdbcc2000ea3a38785711f796ba945
+10 - Professor Nutbutter's House of Treats.flac:9d45c6633dfd93d0748faca848fb2763
+11 - A Farewell to Kings.flac:6d23f9144906c89a33089c1b64d44972
+12 - Xanadu.flac:0fcb3afa24ed7e90f0d89dab2b0fa548
+13 - Closer to the Heart.flac:ffd849a604265e5bdcb8945b1572ca28
+14 - Cinerella Man.flac:8d85d3d838be9361f7b77593a3ee3db1
+15 - Madrigal.flac:ebcbaa1cbbbdc487786fcc8486f160f3
+16 - Cygnus X-1.flac:ce2a8116566afdae2063534015989c5b
+17 - Welcome to This World.flac:efba501401eb64766aa3a330a0f1c5c1
+18 - My Name is Mud.flac:6e678e1338f3e02dcf66c10d16a806f8
+19 - Jerry Was a Race Car Driver.flac:2d06c0e92d3b707372221f57fa702325
+20 - Over the Electric Grapevine.flac:cbaf34f5e1233d7d6dbdb4d2910df28d

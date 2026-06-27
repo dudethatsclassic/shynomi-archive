@@ -1,0 +1,53 @@
+Posted here by creature_d in '08 and reposted here by MeddleEarth in March '10.  
+
+But the files were replete with SBEs, so I fixed them all and re-encoded back to FLAC.  
+
+Soundgarden
+St. Andrews Hall
+Detroit, Michigan  (USA)
+Jan. 13, 1990
+
+Source:  Audience recording > ? > Master > Azimuth > Audacity > Normalized > TLH > FLAC.
+
+My part:
+
+FLAC (obtained in '08)> TLH > WAV > TLH (shntool, detect and fix SBEs, re-encode to FLAC) > FLAC (level 6).  
+
+CD 1:
+01. Get On The Big Snake
+02. Big Dumb Sex
+03. Loud Love
+04. Gun
+05. I Awake
+06. The Wheel
+07. Flower
+08. Full On
+09. Big Bottom
+10, Hands All Over
+
+Total time = 49:51
+
+original:
+Soundgarden_Track01.flac:c1c1fe7fe17eb61d8fa67c93c2ff472c
+Soundgarden_Track02.flac:3e77146773c9af932be0b6ab12b86208
+Soundgarden_Track03.flac:516aa21e1ca96436de04497ff0cfbdbc
+Soundgarden_Track04.flac:34d84fee396f6d1fbef7ba9bf3c6fdbf
+Soundgarden_Track05.flac:62684376ef7cc7c0ea94ff7295a05d4a
+Soundgarden_Track06.flac:14be3aa362320dae5667009a54e1ee01
+Soundgarden_Track07.flac:0b25c0334e9f3380be4c664b044523a9
+Soundgarden_Track08.flac:601d76c1034afedce92385d15dbc5fbe
+Soundgarden_Track09.flac:085eb0def54bff625d870cf95b9ac5f7
+Soundgarden_Track10.flac:43aeaeb52f982fc8614d4a42dbe92ce8 
+
+fixed:   
+Soundgarden_Track01-fixed.flac:c1c1fe7fe17eb61d8fa67c93c2ff472c
+Soundgarden_Track02-fixed.flac:1dc2d3655850ea83f6b90cf6dab5a2eb
+Soundgarden_Track03-fixed.flac:677b4a55601382c01c7c97f11642cd6a
+Soundgarden_Track04-fixed.flac:d6554f19024375865523e33c9c362477
+Soundgarden_Track05-fixed.flac:a903d15fe5e2280f9a7cc712239a8c7f
+Soundgarden_Track06-fixed.flac:3aefdcaa8a761a7618d1fb050e37049f
+Soundgarden_Track07-fixed.flac:2747d97463b001831f7b33255253ea19
+Soundgarden_Track08-fixed.flac:2c74addb7b3b487683f9b2f8c50f3286
+Soundgarden_Track09-fixed.flac:61bf6bccd11a378cf74185d7196dd59b
+Soundgarden_Track10-fixed.flac:c1c9fa0678db121b7743b6bd72b028ee
+                           `          

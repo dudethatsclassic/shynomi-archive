@@ -1,0 +1,15 @@
+04994a3c02605bb0ac7909a3cc208d83 *01. The Spangle Maker.flac
+a99779d02cba1c00692ac17e7d2d6f17 *02. Dear Heart.flac
+3caf09b9e77b45d26ee5a9e89286b944 *03. Aikea Guinea.flac
+90f8bff24727a7abd242f9b092a83dce *04. Pale Clouded White.flac
+a5f1d138e963141b6148f35240d74675 *05. Lorelei.flac
+926e27d6526a8f35ee62ea96402aec67 *06. From The Flagstones.flac
+32598c734cdfdf4657710edcf58609f5 *07. Rococo.flac
+fb9774718222e3292cc781c50577897f *08. Plain Tiger.flac
+59292aacfb2e81542a0290a4595e1808 *09. Pearly Dewdrop's Drops.flac
+f255d2a052c3a55dc006b711767a9dba *10. Pepper Tree.flac
+10f76eefd701125340d4e60f38981ce7 *11. Pink Orange Red.flac
+b630970e0913bb4085da0204bea48848 *12. Musette And Drums.flac
+303b1af10c270da09995d1060c465cad *1985.09.18-File.jpg
+7f90d3d00934782a7480733abb9896a0 *Info.txt
+b6327e68dbc24418ba83a5642fb42ccf *photothumb.db

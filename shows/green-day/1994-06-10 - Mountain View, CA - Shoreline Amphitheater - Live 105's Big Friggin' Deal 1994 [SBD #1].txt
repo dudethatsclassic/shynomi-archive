@@ -1,0 +1,81 @@
+Torrent #38
+
+GREEN DAY - live @ Shoreline Amphitheater,Mountain View,CA
+June 10th 1994
+
+
+SETLIST:
+
+01) Welcome To Paradise
+02) Chump
+03) Longview
+04) Basket Case
+05) 2,000 Light Years Away
+06) When I Come Around
+07) Paper Lanterns
+
+
+Lineage(initial): FM > ? > Tape > Pioneer Ct-WM60R > Philips CDR760 > CD-RW > EAC > .wav > SoundForge > .wav > cd-r 
+Lineage(archive): cd-r > EAC > WAV > CDWAV > FLAC (Level 8) (Align on Sector Boundaries) 
+
+Notes: 
+-Unknown lineage. Received in a tape trade.
+-SoundForge was used to remove leading and trailing tape silence. 
+-Initially burned all as one track. Split tracks for purpose of this archive.
+
+Enjoy! 
+
+
+===================================================
+Please do not encode to MP3 or other lossy formats.
+Please do not sell this recording.
+Please pass it on for free.
+===================================================
+
+Wanna request me to seed something of mine? 
+
+Check out my webpage :  http://www.users.qwest.net/~edgein/scarface
+
+P-Dub
+<edgein @ qwest.net>
+
+TORRENTS SEEDED SO FAR:
+-----------------------
+#01 (05/06/2005) - Ice Cube/Porno For Pyros – “Lollapalooza ‘92” - *liberated bootleg* 
+#02 (05/07/2005) - ICE CUBE - live @ L.A. International Marketplace,Irwindale,CA April 9th 1995
+#03 (05/07/2005) - AFI & SAMHAIN - live @ The Quest,Minneapolis,MN November 26th 1999
+#04 (05/08/2005) - JURASSIC 5 - live @ Connecticut College,New London,CT 5.6.2000
+#05 (05/08/2005) - AGENT ORANGE - live @ 9:30 Club,Washington,D.C. June 20th 1982
+#06 (05/08/2005) - THE VON BONDIES - live @ Werchter Festival,Belgium July 2nd 2004
+#07 (05/09/2005) - T.S.O.L. - live @ Whiskey-A-Go-Go,Los Angeles,CA July 4, 1981
+#08 (05/09/2005) - BRIGHT EYES - live @ La Zona Rosa,Austin,TX October 4th 2002
+#09 (05/09/2005) - HELMET - live @ Crowbar,State College,PA September 30th 1997
+#10 (05/10/2005) - FEAR - live @ WOW Hall,Eugene,OR September 17th 1982
+#11 (05/11/2005) - BLACK SABBATH - live @ Celebrity Theatre,Phoenix,AZ October 17th 1971
+#12 (05/11/2005) - GRANDMASTER FLASH & THE FURIOUS FIVE - live @ Auto Bonn Ballroom,New York City,NY December 23rd 1978 
+#13 (05/12/2005) - D.O.A. - live @ Palisades Gardens,San Diego,CA 8.10.1985
+#14 (05/22/2005) - MAN OR ASTRO-MAN?  - live @ Kulturhuset,Stockholm,Sweden 8.23.2001
+#15 (05/24/2005) - JERRY CANTRELL - live @ Nile Theater,Mesa,AZ 3.20.2001
+#16 (05/26/2005) - JERRY CANTRELL - live @ Cajun House, Scottsdale,AZ 10.15.2002
+#17 (07/05/2005) - THE COOPER TEMPLE CLAUSE - live @ Bizarre Festival,Weeze,Germany 8.17.2002
+#18 (07/08/2005) - THE COOPER TEMPLE CLAUSE - live @ QMU,Glasgow,Scotland 5.13.2003
+#19 (07/09/2005) - FACE TO FACE - live @ Minneapolis,MN 5.9.1994 (late show)
+#20 (07/09/2005) - THE HELLACOPTERS - live @ Starlight,Ft. Collins,CO 5.22.1999
+#21 (07/10/2005) - SEX PISTOLS "Welcome To The Rodeo" - live @ U.S.A. Tour,Longhorn Ballroom,Dallas,TX 1.10.1978
+#22 (07/10/2005) - OZOMATLI - live @ Maritime Hall,San Fransisco,CA 4.1.2000
+#23 (07/13/2005) - F.Y.P - live @ 924 Gilman St.,Berkeley,CA 6.17.1995
+#24 (07/14/2005) - F.Y.P - live @ Indient Record Shop,Nashville,TN 7.20.1999
+#25 (07/15/2005) - THE AFGHAN WHIGS "Debonair Gentlemen" *liberated bootleg*
+#26 (07/16/2005) - THE MIGHTY MIGHTY BOSSTONES - live @ Forty Watt Club, Athens, GA 3.6.1995
+#27 (07/16/2005) - THE HELLACOPTERS – live @ Club Quattro,Shibuya,Tokyo,Japan 1.14.2001
+#28 (07/18/2005) - HÜSKER DÜ - live @ Backstage,Tucson,AZ 1.18.1983
+#29 (07/19/2005) - HÜSKER DÜ - live @ Backstage,Tucson,AZ 12.28.1982
+#30 (07/23/2005) - GRINSPOON - live @ Blacktown RSL,Sydney,Australia 9.10.2004
+#31 (07/26/2005) - DREDG - live @ Marquee Theater,Tempe,AZ 11.22.2003
+#32 (07/27/2005) - NELLY FURTADO - live @ Warfield Theater,San Francisco,CA 5.22.2001
+#33 (07/28/2005) - NELLY FURTADO - live @ Warfield Theater,San Francisco,CA 5.23.2001
+#34 (07/29/2005) - EXCITER - live @ L'Amours,Brooklyn,NY 12.3.1983
+#35 (07/30/2005) - COLD CRUSH BROTHERS - live @ Harlem World,New York City,NY 5.1982
+#36 (07/31/2005) - RAGE AGAINST THE MACHINE - live @ Olympic Velodrome,Cal State Dominguez Hills,Carson,CA 4.20.1996
+#37 (08/01/2005) - HI FIVES - live @ Oakland Coliseum,Oakland,CA 12.15.1995
+#38 (08/02/2005) - GREEN DAY - live @ Shoreline Amphitheater,Mountain View,CA 6.10.1994

@@ -1,0 +1,30 @@
+Primus
+Rick's American Cafe, Ann Arbor MI
+August 18, 1990
+
+recording info:
+sony 909>sony wmd6 (Dolby C 'on') 
+
+lineage:
+TDK Metal ES-90 master cassettes
+
+transfer:
+nakamichi rx505 (Dolby C 'on')>kindkables rca/xlr>apogee mini me @ 24bit/48kHz>kindkables coax>mt24/96>wav
+
+processing:
+wav>adobe audition (fades, normalize)>cdwav (tracking)>trader's little helper>flac level 8
+
+these are 24bit/48kHz flac files
+
+
+01. To Defy the Laws of Tradition
+02. Tommy the Cat
+03. Frizzle Fry
+04. The Toys Go Winding Down
+05. Pudding Time
+06. Spaghetti Western
+07. Groundhog's Day
+08. Harold of the Rocks
+09. In the Flesh
+10. Mr. Knowitall
+11. Too Many Puppies

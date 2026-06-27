@@ -1,0 +1,72 @@
+An Evening with Primus 
+Friday, June 15th, 2012 
+Orpheum Theatre, 
+884 Granville Street, 
+Vancouver, British Columbia, Canada
+
+Taper:  LeifH
+Lineage:  CSB's (filter) > Sony WM D6C (Dolby B) > Maxell XL II-S 90 (x2)
+Transfer:  Master cassettes > Modified Sony TC-WE475 (Dolby off) > H/K 3500 > Creative X-Fi Soundblaster > Wavepad Master's Edition @ 48000kHz  (tracking, edits, downsample to 16/44.1) > EQ in foobar2000 > flac (8) via Frontend
+
+Set  I:  1:10:00
+00 intro music
+01 Those Damned Blue-Collar Tweekers
+02 Duchess and the Proverbial Mindspread
+03 American Life
+04 Over the Falls
+05 Mr. Krinkle
+06 The Toys Go Winding Down
+07 Southbound Pachyderm
+08 Jerry Was a Race Car Driver
+
+Set II:  1:18:16
+09 Prelude to a Crawl
+10 Hennepin Crawler
+11 The Last Salmon Man
+12 Eternal Consumption Engine
+13 Tragedy's a' Comin'
+14 Eyes of the Squirrel
+15 Jilly's on Smack
+16 Lee Van Cleef
+17 Moron TV
+18 The Green Ranger
+19 HOINFODAMAN
+20 Extinction Burst
+21 Salmon Men
+
+22 Groundhog's Day
+23 Wynona's Big Brown Beaver
+
+Total run time:  2:28:17
+
+This was my 5th Primus show.  Seeing a show in the Orpheum is always a great experience of its own, and this was no exception.  It was originally a movie theatre, built in 1927.  We watched Les, Ler and Jay walk into the stage doors of the Orpheum on Seymour a couple hours before show time.  Tried to get their attention, and Jay said, "We'll be back."  They all looked determined to get inside.  Shortly after that, Ler came back outside to grab a pair of sneakers, so I got his attention and had him sign a copy of Tales from the Punchbowl.  Jay came out a few minutes later, and he signed a Sausage album and a Claypool album.  After a brief conversation, Jay said, "You'll get Claypool's later."  We waited until the doors were open and he never came out.  The soundcheck was Hennepin Crawler, and there were Popeye cartoons for the intermission, which were enhanced visually and auditorily for me personally.  Not to mention the show.  I had floor tickets for left centre orchestra in the 7th row, a few seats left of dead centre.  The show was supposed to start at 19:30 but didn't start until almost 20:00.  I don't think it was sold out but it was very well attended.  This turned out pretty good all things considered, and the sound of set 2 was much better than set 1.  There are some brief moments of talking and some asshole answers their phone during one song but none of it lasts.  "Primus sucks!"  "Fuck yeah they do!"  The crowd was very enthusiastic and responsive to most of the show.  
+
+Somebody brought a package of balloons into the show and was inflating them by the handfull throughout.  It made it kind of like an early birthday celebration but eventually I was putting them down at my feet so I wouldn't have balloons randomly fall on me or distract me from the stage.  I was much more interested in the band and the visuals being presented.  Les seemed a little fatigued during the first set, but he appeared more energized for the second set.  Some of the Sandman mic parts were too low in the mix.  As Les talked about Ler's new toupee to cover up an embarrassing Primus tattoo, Ler made as if he was repositioning his hair like a wig.  This was my second time seeing Green Naugahyde in its entirety.  My hearing was impaired and it seemed that Les' voice was dripping along for Jilly's on Smack and Lee Van Cleef, and I especially enjoyed seeing the video for HOINFODAMAN again, with the car salesman slapping his hand on the vehicles in time with the music.  This was the first time I saw Ler with the Orange gear, which I like the sound of and can certainly tell the difference in sound.   Not necessarily an improvement, but different for sure.  
+
+Didn't lose any music during tape flips, although I completely forgot what time I started each tape side all four times haha.  The first side of the second tape ran out just after Green Ranger finished, and I didn't have to press stop to flip it.  I didn't record all the Popeye cartoons but I did keep the recorder going after the show while everyone begged and faught for setlists, guitar picks, drum sticks and even a joint that was tossed on stage.  The security people wanted to flush everyone out right away.  We went out back to the stage doors but unfortunately Les didn't stop and sign anything.  Their bus left right away, and the next show was in Spokane a day later, about 6 hours away plus the border crossing.  
+
+
+primus2012-06-15t00 - intro music.flac:7826082591da43b27135a5d59d73eca1
+primus2012-06-15t01 - Those Damned Blue-Collar Tweekers.flac:c334c86ef57f2e30ad43b2196c1508cb
+primus2012-06-15t02 - Duchess and the Proverbial Mind Spread.flac:e6bdd0fe271b0128b6ad66919dd87227
+primus2012-06-15t03 - American Life.flac:e75c66e1c3568c4dde05ee281b7b1a70
+primus2012-06-15t04 - Over the Falls.flac:c647b17818e98ad1e79b4823e72e68ba
+primus2012-06-15t05 - Mr. Krinkle.flac:635c765e1ad2b7a4c61d64136ca2a187
+primus2012-06-15t06 - The Toys Go Winding Down.flac:487f7d526ebd201d901e2bd69f8cb08e
+primus2012-06-15t07 - Southbound Pachyderm.flac:102a07e9b8092b3c899015e10c684891
+primus2012-06-15t08 - Jerry Was a Racecar Driver.flac:0bf53b84d3f5e1a8d1772e1c0c3161af
+primus2012-06-15t09 - Prelude to a Crawl.flac:dea12d1f28aa367d673044435470e50f
+primus2012-06-15t10 - Hennepin Crawler.flac:06982ae02c1534a4e48100e42d0d7981
+primus2012-06-15t11 - The Last Salmon Man.flac:3cbd55b40988ae893a41cd6ae98a4ed7
+primus2012-06-15t12 - Eternal Consumption Engine.flac:bd28a7a609be43f958c56ec3a5971f08
+primus2012-06-15t13 - Tragedy's a' Comin'.flac:3d7e84813b29a1da828a3640b2ff0aff
+primus2012-06-15t14 - Eyes of the Squirrel.flac:fdeb53f3d96101457791931e34c9c777
+primus2012-06-15t15 - Jilly's on Smack.flac:b2b0e885e81bbbcc49b4658e1634c638
+primus2012-06-15t16 - Lee Van Cleef.flac:c49ed3a0cda68d13696e83217e49b0d1
+primus2012-06-15t17 - Moron TV.flac:6d2ca33fce8ba459270e7062920f3e35
+primus2012-06-15t18 - Green Ranger.flac:f251bee4eb35d7ec975dc70d4ec2a11d
+primus2012-06-15t19 - HOINFODAMAN.flac:e1deaa4c5e9e48e91e7042bc477e321d
+primus2012-06-15t20 - Extinction Burst.flac:1013461b6dfc9071ed51ee3fb9705d96
+primus2012-06-15t21 - Salmon Men.flac:dc24c9252d06ccbe330867277d90038c
+primus2012-06-15t22 - Groundhog's Day.flac:2987f8def93e384110fc9bdfa7ca9cfc
+primus2012-06-15t23 - Wynona's Big Brown Beaver.flac:9105b9477cb90d6d9c91c25c0407e0d0

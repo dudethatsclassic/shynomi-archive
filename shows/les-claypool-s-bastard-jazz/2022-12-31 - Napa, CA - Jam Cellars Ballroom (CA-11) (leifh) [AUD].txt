@@ -1,0 +1,43 @@
+Les Claypool's Bastard Jazz
+Saturday December 31st, 2022
+JaM Cellars Ballroom @ Margrit Mondavi Theatre
+1030 Main Street
+Napa, California
+
+Taper:  LeifH [2022#111a]
+Source 1:  CA-11 > Bat2B > A10 (floor, ~20' from stage, slightly r.o.c.)
+Transfer:  PC via USB > RX9 > Wavepad > flac (8) via TLH
+
+Setlist:  1:58:19
+00 crowd
+01 Jam 1
+02 Jam 2
+03 Jam 3
+04 NYE
+05 Jam 4
+06 Jam 5
+07 Jam 6
+-encore-
+08 Jam 7
+
+Les Claypool - bass
+Vinnie Colaiuta - drums
+Mike Dillon - percussion
+Skerik - saxophone
+
+Night 2 of 2
+
+King Street Giants opened the show this night.  Sold out.  
+
+I believe this was my 50th time seeing Les in concert.  
+
+fingerprints:
+lcbj2022-12-31t00 - crowd.flac:81df61845708c50a4ddae7c667e8657c
+lcbj2022-12-31t01 - Jam 1.flac:023f0c491c1068bf99915b2580e43d87
+lcbj2022-12-31t02 - Jam 2.flac:e3361997d4f45de7b722fba2354c6184
+lcbj2022-12-31t03 - Jam 3.flac:7a6b881b732128fc5510321828bb55ac
+lcbj2022-12-31t04 - NYE.flac:e3e0e0ca4739b11f7b531ef44d4fc08c
+lcbj2022-12-31t05 - Jam 4.flac:bf92d8bbf954c052dbfc3e65ae6729a9
+lcbj2022-12-31t06 - Jam 5.flac:47c41833aaf3ff88cd4edea030bba181
+lcbj2022-12-31t07 - Jam 6.flac:cc8c2c608611ccd9d7000d09863ea54b
+lcbj2022-12-31t08 - Jam 7.flac:2df1a052d02432042424927cf05e0420

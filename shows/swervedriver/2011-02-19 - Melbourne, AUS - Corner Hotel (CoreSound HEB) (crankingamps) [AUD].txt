@@ -1,0 +1,38 @@
+artist: Swervedriver
+venue: Corner Hotel, Melbourne, Australia
+date: Saturday 19 February 2011
+
+http://www.swervedriver.com
+
+(total 87:06)
+1. intro (1:16)
+2. Girl On A Motorbike (3:57)
+3. Duel (6:32)
+4. Sandblasted (5:03)
+5. Pile-Up (3:58)
+6. Rave Down (5:28)
+7. Deep Seat (6:26)
+8. These Times (3:42)
+9. Last Train To Satansville (5:09)
+10. The Birds (3:21)
+11. Just Sometimes (Song Of Laughter And Forgetting) (3:58)
+12. Sunset (5:30)
+13. Out (4:34)
+14. Duress (12:05)
+15. encore (3:08)
+16. Son Of Mustang Ford (4:43)
+17. Kill The Superheroes (8:09)
+
+recorded/encoded/seeded on Dime by crankingamps 4Sep11
+
+lineage: Core Sound HEB (matched DPA4061) mics
+> Core Sound Battery Box (flat response, no filter)
+> Sony PCM-M10 digital recorder (line in)
+> internal memory as 24-bit 48kHz .wav file
+> Adobe Audition 3 convert to 16-bit 44.1kHz, normalise (+5dB), trim/fade top/tail and tracking (sector aligned)
+> dBpoweramp Music Converter to flac (level 8)
+
+notes: recorded standing 2m from stage dead centre;
+mics at temples on glasses directed straight forward;
+no equalisation, no compression, no effects;
+not for sale or commercial exchange, for trade or give away only;

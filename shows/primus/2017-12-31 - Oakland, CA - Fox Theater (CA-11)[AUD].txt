@@ -1,0 +1,70 @@
+Primus: A Goblin New Years
+Sunday December 31st, 2017
+Fox Theater
+1807 Telegraph Ave
+Oakland, CA, USA
+
+Taper:  LeifH
+Source:  CA-11 (cardioid) > Bat2B > Sony PCM M10 @ 24/48 > microSD card
+Transfer:  Memory card > PC via USB > Wavepad Masters Edition (edits, amplify, tracking, 16/44.1) > flac (8) via Frontend
+
+Setlist:  2:10:34
+00 intro
+01 Too Many Puppies > 
+02 Sgt. Baker > 
+03 Too Many Puppies 
+04 Last Salmon Man
+05 Groundhog's Day
+06 Candy Man
+07 The Valley
+08 The Seven
+09 The Trek
+10 The Scheme
+11 The Dream
+12 The Storm
+13 The Ends?
+14 countdown to the new year
+15 Holiday in Cambodia* [Dead Kennedys]
+16 drums 
+17 Eleven > 
+18 Pudding Time
+19 Welcome to This World > 
+20 Mrs. Blaileen
+21 Jerry Was a Race Car Driver
+
+22 Southbound Pachyderm^
+
+23 Wynona's Big Brown Beaver
+
+* = with Bob C. Cock on vocals
+^ = with Danny Carey on drums
+
+My 33rd Primus show.  I arrived at the Fox Theater about 10:30 in the morning to get in line.  There were some people there much earlier than that.  
+
+The PA volume dipped down at 3:00 minutes during The Storm and gets turned back up 19 seconds later.  
+
+fingerprints:
+00 - intro.flac:2c23b2cf8886b82831232e7f4bf95a31
+01 - Too Many Puppies.flac:aebea0cf7d0daaf29412b03a511ff190
+02 - Sgt Baker.flac:89fea08a8726e90607e331c2cff3a364
+03 - Too Many Puppies.flac:71cd7b30040615778cb9649503075833
+04 - Last Salmon Man.flac:86a2158dd786b101f7a3a83a62a264d7
+05 - Groundhog's Day.flac:a41ecfce531ae643e5aafac6a72e24cf
+06 - Candy Man.flac:0c79a766bb4fd5ae8fcbc51ca19945d6
+07 - The Valley.flac:0dac25070c0c23682213f4f7169677fb
+08 - The Seven.flac:c9e25a3580d4c4dcb7b23db0eaef045d
+09 - The Trek.flac:7a0ffad4029e5be47adf4b21b80ad134
+10 - The Scheme.flac:b389ec1189737344dfcdda5ac7207adb
+11 - The Dream.flac:707f79b4cdd799a680de9e95eb9a7dd3
+12 - The Storm.flac:d80f6fc4c7ae3c12a2c0055251b9ca35
+13 - The Ends.flac:aa00a90d75148fdf9ddc8c02db5b0349
+14 - countdown to the new year.flac:2b15fd4f91d3a2a88ab0e7580e5d07fb
+15 - Holiday In Cambodia.flac:b455ec38c3464def331f8f7a705ff12f
+16 - drums.flac:08b51e16c99300bdcf5f47adb6bc69cf
+17 - Eleven.flac:3c929557dc8598bb2de28d9140516b39
+18 - Pudding Time.flac:8200584e1a65dc64113937ff7fedb111
+19 - Welcome To This World.flac:840b9347ee1dc9845cdabbdf36d51425
+20 - Mrs Blaileen.flac:2b518539f47b92280f5eaa35eb4653a3
+21 - Jerry Was A Race Car Driver.flac:564418d2f45aee5f906e3de72078dfc7
+22 - Southbound Pachyderm.flac:539d3a9e822953afcd6e5368b2772985
+23 - Wynona's Big Brown Beaver.flac:33487ce0523414d521cc0d10bd91c0a0

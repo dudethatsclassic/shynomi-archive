@@ -1,0 +1,46 @@
+Oasis
+10 December 2005
+Millennium Stadium (Noise And Confusion), Cardiff, United Kindom
+
+Source 1: Sony MZR-55 > Sony ECM70P (Plug-In Mic)> Mini Disc > Line In > PC > WAVE > GoldWave (Track Splitting) > Traders Little Helper > FLAC > Dime > Trader's Little Helper (rip to wav)
+Taper: oasisgiants (available here http://www.dimeadozen.org/torrents-details.php?id=489625)
+
+Source 2: Icom IC-R5 > Sharp MT877MD
+Transfer: Sony MZ-RH1 > USB > Open MG ATRAC file > SonicStage 4.3 > 44.1kHz PCM wav
+Taper: petrock2000
+
+Source 3: At831b [Paired] > Sony PCM-M1 > Sound Forge 8.0 > WAV > FLAC
+Taper: John Keaveney
+
+01. FITB
+02. Turn Up The Sun
+03. Lyla
+04. Bring It On Down
+05. Morning Glory*
+06. Cigarettes & Alcohol
+07. The Importance Of Being Idle
+08. The Masterplan
+09. Songbird
+10. A Bell Will Ring
+11. Acquisce
+12. Live Forever
+13. Mucky Fingers
+14. Wonderwall
+15. Champayne Supernova
+16. Rock n Roll Star 
+17: Guess God Thinks I'm Abel^
+18: The Meaning of Soul^
+19: Don't Look Back in Anger^
+20: My Generation (The Who cover)^
+
+
+Notes
+-----
+* Source 1 and 3 only
+^ Source 2 and 3 only
+
+Mixed in Adobe Audition 2022, Har Bal 2.3, UVR (DEMUCS, Echo removal), Izotope, BBE and Waves plugins
+
+
+
+

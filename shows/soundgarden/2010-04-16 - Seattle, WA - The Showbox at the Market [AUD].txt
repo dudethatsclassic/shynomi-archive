@@ -1,0 +1,68 @@
+SOUNDGARDEN
+April 16, 2010
+The Showbox at the Market
+Seattle, WA
+
+SETLIST (97:16)
+-----------------
+01) intro
+02) Spoonman
+03) Gun
+04) Searching With My Good Eye Closed
+05) Rusty Cage
+06) Beyond The Wheel
+07) Flower
+08) Ugly Truth
+09) Fell On Black Days
+10) Hunted Down
+11) Nothing To Say
+12) Loud Love
+13) Blow Up The Outside World
+14) Pretty Noose
+15) Outshined
+16) Slaves And Bulldozers
+17) Get On The Snake
+18) Big Dumb Sex
+19) Waiting For The Sun
+
+GENERATION
+-----------------
+WAV(M) [48kHz/24bit] > WAV [44.1kHz/16bit] > FLAC [Level 8]
+
+SOURCE
+-----------------
+Panasonic WM-61A > Sound Professionals SP-SPSB-2 > Edirol R-09
+
+TRANSFER
+-----------------
+Edirol R-09 > USB > FLAC frontend 1.7.1
+
+NOTES
+-----------------
+- Secret reunion show billed as "Nudedragons."
+
+MD5 FINGERPRINTS
+-----------------
+40a6a7fb99abe775cd58face31bf5fad *soundgarden2010-04-16t01.flac
+219ef4a70300cd9f09e04edb9da352d4 *soundgarden2010-04-16t02.flac
+de675ac028fe99daabc82a1f1a4cec84 *soundgarden2010-04-16t03.flac
+9fa4c01e704e766b937e7ae3ed7c9805 *soundgarden2010-04-16t04.flac
+39d8eb3b626c9abff28b2ff7a66f2ee7 *soundgarden2010-04-16t05.flac
+56fe9559522b766317dc56845d40bdab *soundgarden2010-04-16t06.flac
+b25b12d6f48b04c8fee08904c0edcdd6 *soundgarden2010-04-16t07.flac
+2cb17e0dd74742657e7f6fdfa27294a9 *soundgarden2010-04-16t08.flac
+c63e6e677fcd678db798f286acbe294b *soundgarden2010-04-16t09.flac
+ea26ddabbfba3ffeeb95e988595a5dd1 *soundgarden2010-04-16t10.flac
+b87b2378a2743bea3fb7e3078fe664ce *soundgarden2010-04-16t11.flac
+dd14e905ee2b1a0c17c192681fd520be *soundgarden2010-04-16t12.flac
+1106965d7008dda04ffdfac91460f6d6 *soundgarden2010-04-16t13.flac
+4bd1dee766a56e9427f630a28e4bcb3d *soundgarden2010-04-16t14.flac
+9b8186ff9a622e902e0ef7f310e5f3b2 *soundgarden2010-04-16t15.flac
+3ee5c796808ff46801d6592c4a2cbec6 *soundgarden2010-04-16t16.flac
+63556beeea9c85ff02187773b029d0c3 *soundgarden2010-04-16t17.flac
+933a2182ca65e0e14d58915c0ebff8fe *soundgarden2010-04-16t18.flac
+cd3037c35d104219bccab63524a6119f *soundgarden2010-04-16t19.flac
+
+
+Recorded by Mike Ziegler.
+PLEASE DO NOT ENCODE TO MP3 OR SELL!

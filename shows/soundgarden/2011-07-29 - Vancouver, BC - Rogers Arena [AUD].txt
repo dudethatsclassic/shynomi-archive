@@ -1,0 +1,179 @@
+Soundgarden
+July 29, 2011
+Vancouver, B.C., Canada
+Rogers Arena
+
+
+Source "A" : SanDisk Sansa Fuze 8gb running RockBox 3.9
+16 bit 44.1 khz "lossless" mono master recording
+Recorded, Enhanced, Sweetened, and ReMastered by Audioarchivist
+
+
+Track Listing:
+01 Searching With My Good Eye Closed
+02 Spoonman
+03 Gun
+04 Jesus Christ Pose
+05 Blow Up the Outside World
+06 The Day I Tried To Live
+07 My Wave
+08 Burden In My Hand
+09 Ugly Truth
+10 Fell On Black Days
+11 Loud Love
+12 none of you could be so stupid
+13 Drawing Flies
+14 Black Hole Sun
+15 we don't need to drive anywhere
+16 Outshined
+17 Rusty Cage
+18 Superunknown
+19 4th Of July
+20 encore echo - band introductions
+21 Beyond The Wheel
+22 Mailman
+23 Slaves & Bulldozers
+24 big finish
+
+
+
+Lineage:
+SanDisk Sansa Fuze "mp3 player" running the RockBox 3.9 firmware recording from the built-in mono microphone > master dual mono "stereo" files @ 16/44.1 > Wavelab 5.01b (master DC offset correction; toolsone - level boost and balance; Waves Q10 Paragraphic EQ - mid to high boost and ultra high cut; Waves TrueVerb - custom room model reverb for stereo field simulation and smoothing; Peak Master - limit to -0.03db; track splits and names) > Trader's Little Helper (FLAC8 and torrent) > YOU!!!
+
+
+Notes:
+This must be one of the top 5 loudest shows I've ever been to! I'd also have to say it's one of the top ten best sounding shows I've ever attended. I find it hard to believe that I can say these two things about the same show, but I was very impressed with how "loud and clear" this show really was, for the most part. There were several times that I thought Kim's lead guitar should have been about 3 times louder in the mix than it was. Maybe if everything else was turned down a notch it all would have balanced better, but it wouldn't have been a real Soundgarden concert without a large dose of hearing damage for all the concert goers!
+
+This recording is the first of three that I will be releasing. I recorded the whole show from three completely different recorders and mics. I also used with a Zoom H2 with my Sony ECM DS-70P mic, and a Zoom H1 with a Sony ECM-907 mic. I ran this third cheezy little recorder "for fun" as a backup to the backup of the main recorder. It came out sort of alright, so I worked on it a bit to put it out first. For fun. The other two will come out soon, and, yes, of course they're much better than this one. I was just thinking that if this was all there was and I didn't have my good recorders working that it wouldn't be too bad. So, I thought I shouldn't just ignore this lo-fi version because even though it isn't exactly "great" it isn't that bad at all, and if I put the good ones out first this one would totally get ignored... This version comes from my "anything but an iPod" mp3 player that I bought from London Drugs for about $50 plus tax. It recorded a 16 bit 44.1 khz wav stereo file, but the single point mono voice recorder microphone clearly makes it a mono master recording. The Sansa Fuze by SanDisk isn't really made for recording much more than, well, I don't really know. Meetings? Lectures? Notes? I wouldn't normally say that it is for live music recording (unless it comes off the radio!)... I mean, it usually just doesn't cut it for heavy duty recording, but the RockBox operating system makes it seem like it's a better machine! Once I got the RockBox firmware on it I felt like I had a cool player. Drag and drop FLAC files, has a micro SDHC card slot to expand to 32gb, its a sweet little player! Still, it is a pretty lo-fi recorder, giving the recordings from it a vintage 70's dictaphone tape quality! hehe. I think that the great concert sound they had at the show comes through in this recording! So, don't ignore this crappy little recording! haha.
+
+
+As far as what I did to this recording, after correcting the DC offset I EQ'd up the upper mids and lower highs, and sharply rolled off the extreme highs. There was interference in the very upper highs from internal data passing through the machine - a high squeaking pulsing that had to go away! Then I ran it trough some custom reverb to simulate a stereo field and I think it more or less matches the delay times that GM Place - I mean Rogers Arena actually has. I think that except for a few unnatural sounding loud localized claps between a few songs (I think it's me clapping! haha) the stereo picture is amazingly normal and real for an arena concert tape. It kind of feels like the simulated arena stereo reverberating reflected sounds from the sides aren't simulated at all... So, a lossless mono master stereo simulated remaster is what we have here. I think that its amazingly good for how kind of cruddy it really started out!
+
+Try it out - it's free! Nothing to lose, really, right?
+
+Share this recording freely. Don't buy, don't sell. Give. Trade. Reverse shoplift it into stores and leave it on the for sale shelves! This is still a lossless recording. Don't distribute as lossy files. This means don't post eMPty3 files on your blog for your buddies. Share the FLAC files! Share ALL the files with it - including this text file - complete and unedited! Pervert the files to eMPty3 for your own personal use, and destroy when done so they don't fall into the wrong hands! haha. Make and share artworx covers for this if you can! If you do decide to work on some coverart, aim for making three sets of art for my three different releases of this show from my 3 sources! Thanks! Please post them in the comment thread, and if you could please email me your art I'd really appreciate it! Thanks...
+
+Talk to you again on the next version of this show. I know of another taper at the show. Did you record it too? Please contact me! Thanks...
+
+audioarchivist@hotmail.com
+
+
+
+
+
+
+
+
+
+01 Searching With My Good Eye Closed.wav:  successfully encoded to '01 Searching With My Good Eye Closed.flac' (ratio = 0.600; no need for sector alignment).
+02 Spoonman.wav:  successfully encoded to '02 Spoonman.flac' (ratio = 0.620; no need for sector alignment).
+03 Gun.wav:  successfully encoded to '03 Gun.flac' (ratio = 0.626; no need for sector alignment).
+04 Jesus Christ Pose.wav:  successfully encoded to '04 Jesus Christ Pose.flac' (ratio = 0.626; no need for sector alignment).
+05 Blow Up the Outside World.wav:  successfully encoded to '05 Blow Up the Outside World.flac' (ratio = 0.621; no need for sector alignment).
+06 The Day I Tried To Live.wav:  successfully encoded to '06 The Day I Tried To Live.flac' (ratio = 0.597; no need for sector alignment).
+07 My Wave.wav:  successfully encoded to '07 My Wave.flac' (ratio = 0.599; no need for sector alignment).
+08 Burden In My Hand.wav:  successfully encoded to '08 Burden In My Hand.flac' (ratio = 0.618; no need for sector alignment).
+09 Ugly Truth.wav:  successfully encoded to '09 Ugly Truth.flac' (ratio = 0.611; no need for sector alignment).
+10 Fell On Black Days.wav:  successfully encoded to '10 Fell On Black Days.flac' (ratio = 0.607; no need for sector alignment).
+11 Loud Love.wav:  successfully encoded to '11 Loud Love.flac' (ratio = 0.627; no need for sector alignment).
+12 none of you could be so stupid.wav:  successfully encoded to '12 none of you could be so stupid.flac' (ratio = 0.604; no need for sector alignment).
+13 Drawing Flies.wav:  successfully encoded to '13 Drawing Flies.flac' (ratio = 0.593; no need for sector alignment).
+14 Black Hole Sun.wav:  successfully encoded to '14 Black Hole Sun.flac' (ratio = 0.618; no need for sector alignment).
+15 we don't need to drive anywhere.wav:  successfully encoded to '15 we don't need to drive anywhere.flac' (ratio = 0.631; no need for sector alignment).
+16 Outshined.wav:  successfully encoded to '16 Outshined.flac' (ratio = 0.573; no need for sector alignment).
+17 Rusty Cage.wav:  successfully encoded to '17 Rusty Cage.flac' (ratio = 0.609; no need for sector alignment).
+18 Superunknown.wav:  successfully encoded to '18 Superunknown.flac' (ratio = 0.626; no need for sector alignment).
+19 4th Of July.wav:  successfully encoded to '19 4th Of July.flac' (ratio = 0.623; no need for sector alignment).
+20 encore echo - band introductions.wav:  successfully encoded to '20 encore echo - band introductions.flac' (ratio = 0.623; no need for sector alignment).
+21 Beyond The Wheel.wav:  successfully encoded to '21 Beyond The Wheel.flac' (ratio = 0.591; no need for sector alignment).
+22 Mailman.wav:  successfully encoded to '22 Mailman.flac' (ratio = 0.560; no need for sector alignment).
+23 Slaves & Bulldozers.wav:  successfully encoded to '23 Slaves & Bulldozers.flac' (ratio = 0.614; no need for sector alignment).
+24 big finish.wav:  successfully encoded to '24 big finish.flac' (ratio = 0.518; no need for sector alignment).
+
+No errors occured.
+
+
+01 Searching With My Good Eye Closed.flac:  tested ok (file is decodable without error).
+02 Spoonman.flac:  tested ok (file is decodable without error).
+03 Gun.flac:  tested ok (file is decodable without error).
+04 Jesus Christ Pose.flac:  tested ok (file is decodable without error).
+05 Blow Up the Outside World.flac:  tested ok (file is decodable without error).
+06 The Day I Tried To Live.flac:  tested ok (file is decodable without error).
+07 My Wave.flac:  tested ok (file is decodable without error).
+08 Burden In My Hand.flac:  tested ok (file is decodable without error).
+09 Ugly Truth.flac:  tested ok (file is decodable without error).
+10 Fell On Black Days.flac:  tested ok (file is decodable without error).
+11 Loud Love.flac:  tested ok (file is decodable without error).
+12 none of you could be so stupid.flac:  tested ok (file is decodable without error).
+13 Drawing Flies.flac:  tested ok (file is decodable without error).
+14 Black Hole Sun.flac:  tested ok (file is decodable without error).
+15 we don't need to drive anywhere.flac:  tested ok (file is decodable without error).
+16 Outshined.flac:  tested ok (file is decodable without error).
+17 Rusty Cage.flac:  tested ok (file is decodable without error).
+18 Superunknown.flac:  tested ok (file is decodable without error).
+19 4th Of July.flac:  tested ok (file is decodable without error).
+20 encore echo - band introductions.flac:  tested ok (file is decodable without error).
+21 Beyond The Wheel.flac:  tested ok (file is decodable without error).
+22 Mailman.flac:  tested ok (file is decodable without error).
+23 Slaves & Bulldozers.flac:  tested ok (file is decodable without error).
+24 big finish.flac:  tested ok (file is decodable without error).
+
+No errors occured.
+
+
+01 Searching With My Good Eye Closed.flac:eaab8cf249d7af18e6e08c3ee2e96fc5
+02 Spoonman.flac:f15c4793c8fe7a0ca13e032809342d84
+03 Gun.flac:df2f1b4db488d4a81cea6dcddbb459a7
+04 Jesus Christ Pose.flac:41b9a4dda7a0fbea0c96c985d4360aad
+05 Blow Up the Outside World.flac:d1fa5de6ff02537e0a3eabef9d1d7ffc
+06 The Day I Tried To Live.flac:07c3ce64c103d1958a0094fc1807b386
+07 My Wave.flac:b0e99a711bc125107644ce7a6f18b31c
+08 Burden In My Hand.flac:9b3e5d53576fa8eb8b482442dfd71778
+09 Ugly Truth.flac:54ecfae0f4109d074393d08f5786e32f
+10 Fell On Black Days.flac:c4d6184833d41603b8b221f96d503d84
+11 Loud Love.flac:445a5a9d1335afd6d36f4fc11613cc7a
+12 none of you could be so stupid.flac:cb596ce36d6d579b2cdf101801fb6710
+13 Drawing Flies.flac:b3fe1d2445c05df13da60bc081b0caf3
+14 Black Hole Sun.flac:ee1de63204bb64653d3228ddead3e99a
+15 we don't need to drive anywhere.flac:99add13c88efa17a5a646fba79b8e669
+16 Outshined.flac:df429fda4e47c59c4cf1a7fd97d8dc61
+17 Rusty Cage.flac:876208250c017a4fb7512df1b9853ce8
+18 Superunknown.flac:081df932c363792a1b61e3b382b56790
+19 4th Of July.flac:f855f575df510554dc80bcab1822243d
+20 encore echo - band introductions.flac:24b3310b3bc58277f44390951e8b6f95
+21 Beyond The Wheel.flac:b7bfc4cc229dcd26b5e891dd75c5e438
+22 Mailman.flac:1883cd1c26575b0515227405d5106a52
+23 Slaves & Bulldozers.flac:12191013a743dc348f59bfa825d4b591
+24 big finish.flac:f5da552a3a9e14cc0f7565e672671402
+
+Checksum file saved to disk.
+
+No errors occured.
+
+
+E:\Soundgarden - Vancouver BC July 29, 2011 Sansa Fuze RockBox ReMastered FLAC8\01 Searching With My Good Eye Closed.wav:  successfully deleted.
+E:\Soundgarden - Vancouver BC July 29, 2011 Sansa Fuze RockBox ReMastered FLAC8\02 Spoonman.wav:  successfully deleted.
+E:\Soundgarden - Vancouver BC July 29, 2011 Sansa Fuze RockBox ReMastered FLAC8\03 Gun.wav:  successfully deleted.
+E:\Soundgarden - Vancouver BC July 29, 2011 Sansa Fuze RockBox ReMastered FLAC8\04 Jesus Christ Pose.wav:  successfully deleted.
+E:\Soundgarden - Vancouver BC July 29, 2011 Sansa Fuze RockBox ReMastered FLAC8\05 Blow Up the Outside World.wav:  successfully deleted.
+E:\Soundgarden - Vancouver BC July 29, 2011 Sansa Fuze RockBox ReMastered FLAC8\06 The Day I Tried To Live.wav:  successfully deleted.
+E:\Soundgarden - Vancouver BC July 29, 2011 Sansa Fuze RockBox ReMastered FLAC8\07 My Wave.wav:  successfully deleted.
+E:\Soundgarden - Vancouver BC July 29, 2011 Sansa Fuze RockBox ReMastered FLAC8\08 Burden In My Hand.wav:  successfully deleted.
+E:\Soundgarden - Vancouver BC July 29, 2011 Sansa Fuze RockBox ReMastered FLAC8\09 Ugly Truth.wav:  successfully deleted.
+E:\Soundgarden - Vancouver BC July 29, 2011 Sansa Fuze RockBox ReMastered FLAC8\10 Fell On Black Days.wav:  successfully deleted.
+E:\Soundgarden - Vancouver BC July 29, 2011 Sansa Fuze RockBox ReMastered FLAC8\11 Loud Love.wav:  successfully deleted.
+E:\Soundgarden - Vancouver BC July 29, 2011 Sansa Fuze RockBox ReMastered FLAC8\12 none of you could be so stupid.wav:  successfully deleted.
+E:\Soundgarden - Vancouver BC July 29, 2011 Sansa Fuze RockBox ReMastered FLAC8\13 Drawing Flies.wav:  successfully deleted.
+E:\Soundgarden - Vancouver BC July 29, 2011 Sansa Fuze RockBox ReMastered FLAC8\14 Black Hole Sun.wav:  successfully deleted.
+E:\Soundgarden - Vancouver BC July 29, 2011 Sansa Fuze RockBox ReMastered FLAC8\15 we don't need to drive anywhere.wav:  successfully deleted.
+E:\Soundgarden - Vancouver BC July 29, 2011 Sansa Fuze RockBox ReMastered FLAC8\16 Outshined.wav:  successfully deleted.
+E:\Soundgarden - Vancouver BC July 29, 2011 Sansa Fuze RockBox ReMastered FLAC8\17 Rusty Cage.wav:  successfully deleted.
+E:\Soundgarden - Vancouver BC July 29, 2011 Sansa Fuze RockBox ReMastered FLAC8\18 Superunknown.wav:  successfully deleted.
+E:\Soundgarden - Vancouver BC July 29, 2011 Sansa Fuze RockBox ReMastered FLAC8\19 4th Of July.wav:  successfully deleted.
+E:\Soundgarden - Vancouver BC July 29, 2011 Sansa Fuze RockBox ReMastered FLAC8\20 encore echo - band introductions.wav:  successfully deleted.
+E:\Soundgarden - Vancouver BC July 29, 2011 Sansa Fuze RockBox ReMastered FLAC8\21 Beyond The Wheel.wav:  successfully deleted.
+E:\Soundgarden - Vancouver BC July 29, 2011 Sansa Fuze RockBox ReMastered FLAC8\22 Mailman.wav:  successfully deleted.
+E:\Soundgarden - Vancouver BC July 29, 2011 Sansa Fuze RockBox ReMastered FLAC8\23 Slaves & Bulldozers.wav:  successfully deleted.
+E:\Soundgarden - Vancouver BC July 29, 2011 Sansa Fuze RockBox ReMastered FLAC8\24 big finish.wav:  successfully deleted.
+
+No errors occured.

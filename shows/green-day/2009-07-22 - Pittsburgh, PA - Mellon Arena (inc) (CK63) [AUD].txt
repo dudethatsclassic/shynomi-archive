@@ -1,0 +1,41 @@
+GREEN DAY
+July 22, 2009
+Mellon Arena
+Pittsburgh, PA
+
+Source: AKG CK63 > JK Labs DVC III > Edirol R-09HR
+Taper: jlizard
+Lineage: WAV(M) [24/48] > WAV [16/44.1] > FLAC
+Edits/EQ: none
+Notes: incomplete - cuts out start of "American Eulogy", last 5 songs cut/missing
+
+01 - intro
+02 - 21st Century Breakdown
+03 - Know Your Enemy
+04 - East Jesus Nowhere
+05 - Holiday
+06 - The Static Age
+07 - Before the Lobotomy
+08 - Are We the Waiting
+09 - St. Jimmy
+10 - Boulevard of Broken Dreams
+11 - 2000 Light Years Away
+12 - J.A.R.
+13 - At The Library
+14 - Going To Pasalacqua
+15 - Brain Stew
+16 - Jaded
+17 - Longview
+18 - Basket Case
+19 - She
+20 - King For A Day
+21 - 21 Guns
+22 - American Eulogy (cuts out)
+[cut] American Idiot
+[cut] Jesus Of Suburbia
+[cut] Minority
+[cut] Drama Queen
+[cut] Good Riddance (Time Of Your Life)
+
+
+Compiled June 2020 by CPS

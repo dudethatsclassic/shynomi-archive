@@ -1,0 +1,32 @@
+Soundgarden 2012-06-01 - Rock am Ring 2012 [ProShot PAL-DVD]
+
+Video compression mode: MPEG-2
+TV system: PAL
+Aspect Ratio: 16:9
+Source picture resolution: 720x576
+Frame Rate: 25.00
+Bitrate: 6298 Kbps
+
+Audio Coding mode: AC-3
+Sampling Rate: 48kHz
+Number of Audio channels: 5.1
+Bitrate: 384 Kbps
+
+Recorded at EinsPlus (DVB-S) -> Dreambox (Transport Stream) -> ProjectX (Demux) -> Cuttermaran -> DVDStyler (Menu, chapters)
+
+70 minutes from the Centerstage - Soundgarden in original cast of the 90s (Chris Cornell, Kim Thayil, Matt Cameron, Ben Shepherd)
+
+(Intro)
+1. Spoonman
+2. Let Me Drown
+3. Gun
+4. Jesus Christ Pose
+5. Blow Up the Outside World
+6. Fell on Black Days
+7. Hunted Down
+8. Outshined
+9. Rusty Cage
+10. My Wave
+11. The Day I Tried to Live
+12. Black Hole Sun
+13. Beyond the Wheel

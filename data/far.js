@@ -18,9 +18,10 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "San Francisco, CA",
       "venue": "Slim's",
-      "notes": "unk · neekrive",
+      "notes": "unk \u00b7 neekrive",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1996-10-03 - San Francisco, CA - Slim's (unk) (neekrive) [AUD].txt"
     }
   ],
   "misc": []

@@ -1,0 +1,31 @@
+Liam Gallagher
+MTV Unplugged
+Hull City Hall,
+Kingston upon Hull, 
+England, UK
+
+Recorded 3rd August 2019
+
+First broadcast 27th September 2019
+
+Setlist:
+01 Wall Of Glass
+02 For What It's Worth
+03 Now That I've Found You
+04 Why Me? Why Not.
+05 Sad Song (Oasis cover)
+06 Some Might Say (Oasis cover)
+07 Cast No Shadow (Oasis cover)
+08 Once
+09 Stand By Me (Oasis cover)
+10 Champagne Supernova (Oasis cover)
+
+Lineage:
+Channel 5 HD satellite broadcast -> ZGemma-Star 2S -> external HDD -> TSMuxerGUI -> VideoReDo TV Suite v4
+(direct stream capture, no re-encoding)
+
+Technical info:
+Video: 1920x1080i 25fps 16:9 H.264 (average bitrate = 8.44 Mbps)
+Audio: 48000Hz 384kbps 5.1 AC3
+Duration: 00:44:25
+Size: 2.84 Gb

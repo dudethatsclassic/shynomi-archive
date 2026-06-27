@@ -1,0 +1,47 @@
+Soundgarden
+Vic Theater
+Chicago, Illinois
+August 5, 2010
+
+Source: Audio Technica AT-899 omnis => Edirol R-09 (24/48) 
+Transfer: R-09 => WAV => Audition 1.5 (dither to 16-bit) => WAV => Magix Audio Cleaning Lab => WAV => FLAC (level 8) 
+
+Location: Balcony, center, 2/3 of the way up
+
+Disc one (60:54): 
+(1)  Intro (0:06)
+(2)  Searching With My Good Eye Closed (6:03)
+(3)  Spoonman (3:43)
+(4)  Gunman (5:34)
+(5)  Rusty Cage (4:54)
+(6)  Let Me Down (3:57)
+(7)  Jesus Christ Pose (5:40)
+(8)  Flower (3:29)
+(9)  Outshined (6:00)
+(10)  Fell On Black Days (4:32)
+(11)  Ugly Truth (7:16)
+(12)  Get On The Snake (4:50)
+(13)  Burden In My Hand (4:40)
+
+Disc two (62:10): 
+(1)  Pretty Noose (4:05)
+(2)  Head Down (6:09)
+(3)  Face Pollution (2:45)
+(4)  Superunknown (5:48)
+(5)  Black Hole Sun (5:44)
+(6)  Mailman (4:29)
+(7)  Slaves & Bulldozers (9:02)
+(8)  Encore break (5:46)
+(9)  4th of July (5:39)
+(10)  Blow Up The Outside World (5:27)
+(11)  Like Suicide (7:12)
+
+Md5 signature file is included. Sorry, no artwork (feel free to make some) 
+
+Comments: 
+
+First "proper" Soundgarden show since the mid-1990s; this was a warm-up gig for their headlining set closing out the final night of Lollapalooza.  I will admit that I'm not a fan (I only knew three or four of their songs); I'm mystified that I came of age in the early '90s and was a big PJ/Nirvana fan, yet somehow was never exposed to their music.  Given their very long layoff, I was really surprised at how tight the performance was -- I didn't notice any snafus (other than what was perhaps an equipment issue prior to the encore), and I have a fresh appreciation for Matt Cameron as one of the best drummers around.  I enjoyed it, but I would imagine that the hardcore fans who flew in for this show were ecstatic over the performance.
+
+As far as the quality of this recording ... I briefly checked out the Scheops source posted this morning, and honestly, most people will probably prefer that one.  The mix was pretty rough in the balcony (pronounced bass, vocals and guitar too low), and it's hard to compete with a good pair of Schoeps.  That said, this recording isn't too bad, and I had the benefit of very little audience interference aside from sporadic audience cheers between songs.  (Surprisingly, considering that this was an extremely tough ticket, the balcony was only about 75% full.)  Given the historic nature of the show, I thought it wouldn't hurt to contribute my source for those who like multiple versions of a recording ... but by all means, also go grab the "tapewormy" source too.
+
+I used Audio Cleaning Lab to split tracks, and also tamped down the lowest of the low end while boosting some of the higher frequencies to compensate for the terrible mix.  Mp3 samples are included in the comments to help you decide.

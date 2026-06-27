@@ -1,0 +1,45 @@
+The Claypool Lennon Delirium
+Tuesday June 25th, 2019
+Commodore Ballroom
+868 Granville Street
+Vancouver, British Columbia, Canada
+
+Taper:  LeifH
+Source:  CA-11 (cardioid) > Bat2B > Sony PCM M10 @ 24/48 > microSD card
+Transfer:  Memory card > PC via USB > Wavepad Masters Edition (edits, amplify, tracking, 16/44.1) > flac (8) via TLH
+
+Setlist:  1:16:22
+00 intro (There's No Underwear in Space)
+01 Cricket and the Genie Pt. 1 + 2
+02 South of Reality
+03 Blood and Rockets
+04 Court of the Crimson King [King Crimson]
+05 banter
+06 Breath of a Salesman
+07 Boriska
+08 Easily Charmed by Fools
+09 Cricket Chronicles Revisited
+10 Mr Wright
+11 Like Fleas
+12 Tomorrow Never Knows [The Beatles]
+
+The last song also featured a tease of Third Stone From The Sun [Jimi Hendrix Experience]
+
+This would be my third time seeing CLD.  This was a co-headline tour with Jim James, who played second (well, third because the opening band was UNI).  I beat it right after the Delirium and did not stick around to record Jim James.  Being able to leave a show early on a Tuesday night was a bonus.  
+
+Taped from centre floor, roughly 15' from stage.  
+
+fingerprints:
+00 - intro.flac:6235c602ee84f56df661b7710f3c70bb
+01 - Cricket and the Genie.flac:4f99df51fbbbae4cbf0e4bb97741c2e0
+02 - South of Reality.flac:67fc01323e88cda7612e038fa006918f
+03 - Blood and Rockets.flac:ca6a704c0c4bd94f68f4084d3a496613
+04 - Court of the Crimson King.flac:d01dc54d4ff03ca6e31080d36c9823f1
+05 - banter.flac:a680db76194c14cb675bfc7de4417c68
+06 - Breath of a Salesman.flac:672e452d751344eed7217a80203f5d90
+07 - Boriska.flac:8bf0918e08fa90ab8aaa3bd30712713f
+08 - Easily Charmed by Fools.flac:d8940e3a2f18761dc6bcd393ad6bb516
+09 - Cricket Chronicles Revisited.flac:f93e190c3fc30cf2587708ef52428fce
+10 - Mr Wright.flac:c6fda40d4ceb36c4d4ae7e8b98d9f670
+11 - Like Fleas.flac:ea2663873b10db467227c280ac54cba8
+12 - Tomorrow Never Knows.flac:2c023f4418bd3e2a1ed2c871a1c1bc5e

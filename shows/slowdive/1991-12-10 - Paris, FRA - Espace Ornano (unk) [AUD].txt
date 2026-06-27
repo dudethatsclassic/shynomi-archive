@@ -1,0 +1,31 @@
+foobar2000 1.4.6 / Dynamic Range Meter 1.1.1
+log date: 2019-07-15 21:21:15
+
+--------------------------------------------------------------------------------
+Analyzed: Slowdive / 1991-12-10 Espace Ornano, Paris
+--------------------------------------------------------------------------------
+
+DR         Peak         RMS     Duration Track
+--------------------------------------------------------------------------------
+DR10      -4.90 dB   -18.34 dB      4:46 01-Spanish Air
+DR10      -3.84 dB   -16.84 dB      4:04 02-Catch the Breeze
+DR10      -4.74 dB   -16.95 dB      3:16 03-Bleed
+DR9       -4.86 dB   -17.12 dB      5:06 04-Slowdive
+DR10      -4.79 dB   -17.30 dB      5:02 05-Ballad of Sister Sue
+DR9       -4.80 dB   -17.51 dB      4:38 06-Morningrise
+DR10      -4.79 dB   -16.49 dB      5:55 07-She Calls
+DR10      -4.89 dB   -18.14 dB      8:51 08-Avalyn 2
+DR8       -3.10 dB   -17.51 dB      0:46 09-Encore Break
+DR10      -0.52 dB   -12.35 dB      6:04 10-Jazz Odeon
+--------------------------------------------------------------------------------
+
+Number of tracks:  10
+Official DR value: DR10
+
+Samplerate:        44100 Hz
+Channels:          2
+Bits per sample:   16
+Bitrate:           929 kbps
+Codec:             FLAC
+================================================================================
+

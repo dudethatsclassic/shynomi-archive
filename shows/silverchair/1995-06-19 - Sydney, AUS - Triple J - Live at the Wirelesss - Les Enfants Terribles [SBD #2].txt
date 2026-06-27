@@ -1,0 +1,34 @@
+SILVERCHAIR
+June 17, 1995
+Triple J (Live At The Wireless)
+Sydney, NSW, AU
+
+DISC #1/1 (18:53)
+-----------------
+01) Madman
+02) Blind 
+03) Undecided
+04) Findaway
+05) Leave Me Out
+
+GENERATION
+-----------------
+CD [Les Enfants Terribles] -> WAV [44.1kHz] -> FLAC [Level 8]
+
+SOURCE
+-----------------
+soundboard -> unknown
+
+TRANSFER
+-----------------
+Sony DVD-ROM DDU1621 -> Exact Audio Copy v 0.95 BETA -> FLAC Frontend 1.7.1
+
+MD5 FINGERPRINTS
+-----------------
+6e45c6a68fb2772e926d34509b84e80c *silverchair1995-06-17t01.flac
+fa3d5645a80160d43eb4901e9d7b0ed3 *silverchair1995-06-17t02.flac
+c44d862dd4643b2fe2c1977e70a72b29 *silverchair1995-06-17t03.flac
+9fa937388755689899fa7f0d9073a40f *silverchair1995-06-17t04.flac
+df6c72133e6a794054de0eb2664c922f *silverchair1995-06-17t05.flac
+
+PLEASE DO NOT ENCODE TO MP3 OR SELL!

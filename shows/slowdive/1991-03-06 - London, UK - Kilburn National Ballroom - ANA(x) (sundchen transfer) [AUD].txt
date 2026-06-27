@@ -1,0 +1,28 @@
+foobar2000 1.4.6 / Dynamic Range Meter 1.1.1
+log date: 2019-07-15 21:19:33
+
+--------------------------------------------------------------------------------
+Analyzed: Slowdive / 1991-03-06 Kilburn National Ballroom, London
+--------------------------------------------------------------------------------
+
+DR         Peak         RMS     Duration Track
+--------------------------------------------------------------------------------
+DR10      -4.32 dB   -16.52 dB      6:05 01-Shine
+DR8       -5.01 dB   -16.00 dB      5:20 02-Slowdive
+DR8       -6.09 dB   -16.92 dB      4:24 03-Catch the Breeze
+DR13      -6.92 dB   -23.09 dB      5:02 04-Avalyn
+DR9       -6.22 dB   -18.78 dB      5:07 05-Morningrise
+DR9       -6.25 dB   -18.46 dB      5:42 06-Colors in Spin
+DR9       -6.41 dB   -18.67 dB      5:27 07-She Calls
+--------------------------------------------------------------------------------
+
+Number of tracks:  7
+Official DR value: DR9
+
+Samplerate:        44100 Hz
+Channels:          2
+Bits per sample:   16
+Bitrate:           786 kbps
+Codec:             FLAC
+================================================================================
+

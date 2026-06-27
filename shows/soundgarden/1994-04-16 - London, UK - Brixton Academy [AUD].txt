@@ -1,0 +1,66 @@
+SOUNDGARDEN
+April 16, 1994
+Brixton Academy
+London, England, UK
+
+Source: Unknown DAT Audience Audio 
+Generation: Master Cassette TDK > Sherwood Tape Deck (Model DD 1030) (Azimut Adjusted) > Y-Adapter > Soundblaster Live > Sound Forge 7.0 > Wave > CD Wave Split > cd-r(1) > WAV [EAC Secure] > FLAC [8]
+Quality: 6.5
+Time: 123:26
+
+Tracklist:
+1. Night Surf [intro music]
+2. Jesus Christ Pose
+3. Spoonman
+4. Let Me Drown
+5. Mailman
+6. The Day I Tried To Live
+7. My Wave
+8. Room A Thousand Years Wide
+9. Black Hole Sun
+10. Searching With My Good Eye Closed
+11. Superunknown
+12. Rusty Cage
+-------------
+13. Half
+14. Mind Riot
+15. Fell On Black Days
+16. Slaves And Bulldozers
+17. Kickstand
+18. Face Pollution
+19. Like Suicide
+20. God Save The Queen [traditional-sung by fan]
+21. Somewhere
+22. banter ("crowd problems")
+23. Head Down
+24. Limo Wreck
+
+Originally encoded February 2009.
+
+Notes: A crazy, crazy show culminating in a bizarre, unruly encore. A fan runs on stage to sing "God Save The Queen" (NOT the Sex Pistols song). Chris plays most of "Head Down" solo before the band joins him towards the end of the song. 
+
+Fingerprints:
+01 - Night Surf.flac:cec6e86b7bd2b91438ef1e1e54364ca8
+02 - Jesus Christ Pose.flac:9b9f537ca1acf153b85aca6c2e8864b7
+03 - Spoonman.flac:59221edd6e1051eb78183a01cbdd682a
+04 - Let Me Drown.flac:dabaeffb511871559293129a770479b3
+05 - Mailman.flac:3dddc94a66b65184389f097748e53d5c
+06 - The Day I Tried To Live.flac:23eb6db8ae5315b3dab3570d8954f8f0
+07 - My Wave.flac:91d1e4da7ad0cb67e739ce55508c90cf
+08 - Room A Thousand Years Wide.flac:1852e06fb7ea14af34f3a7707a8986e6
+09 - Black Hole Sun.flac:d77386a68006505f788cda2a1aa6f423
+10 - Searching With My Good Eye Closed.flac:472187d9453dbe88eaba1f1a673f6b62
+11 - Superunknown.flac:6b58ecf99f86260f74f37f5785522468
+12 - Rusty Cage.flac:0a192888a9e1366ab91f235539453e1f
+13 - Half.flac:10ef5dcd1c15a6566aab6bcf3d6414a0
+14 - Mind Riot.flac:b8af75ad3129ca3151e091cfc3d935c5
+15 - Fell On Black Days.flac:b4684989d7fd20ed7e163bcb447e8b28
+16 - Slaves And Bulldozers.flac:285571ad44c7948177b70046f1140db3
+17 - Kickstand.flac:09d87694e82bea192adb2a9ba7b529ad
+18 - Face Pollution.flac:cacdab676b868e62604f9939962240cb
+19 - Like Suicide.flac:185fc0d02faa4a1af3cd853b10150c75
+20 - God Save The Queen [traditional].flac:0a80824261a9c1e2de1cbd7c28baebba
+21 - Somewhere.flac:40ab5723980273bd45e6d30650c12264
+22 - banter.flac:8eb21de2643e9edee8de9e7b84ca0b3c
+23 - Head Down.flac:6ec487d1c91500ca33fa17759b583e14
+24 - Limo Wreck.flac:a0660ecfe574532c83041952bc2f401d

@@ -1,0 +1,41 @@
+Oasis - Sudoeste Festival; Odemira, Portugal 08th August 2000
+
+Tracks
+
+Fuckin' in the Bushes
+Go Let it Out
+Who Feels Love?
+Supersonic
+Shakermaker
+Acquiesce
+Gas Panic!
+(Band leave the Stage due to stones thrown by the audience)
+
+Info
+The VHS of this gig was bought by an old trading friend Two-Rok from a flea market in Portugal in the early 2000's, he originally listed it as a 2nd generation transfer which is probably a guess on the quality but it's the only version that has ever surfaced, it's certainly not the master anyhow. Any ideas on who filmed it so we could perhaps get the master? Feel free to contact me.
+
+The filmer was focused on filming the big screen but it is very shaky, what you can really expect from filming at a festival. Only a short set as some of the audience start throwing stones at the band, so they just walked off stage.
+
+Enjoy
+
+Stream 0
+Original ID: 224
+Codec: MPEG-1/2 Video (mpgv)
+Type: Video
+Video resolution: 720x576
+Buffer dimensions: 720x576
+Frame rate: 25
+Decoded format: 
+Orientation: Top left
+Color primaries: ITU-R BT.601 (625 lines, 50 Hz)
+Color transfer function: ITU-R BT.470 BG
+Color space: ITU-R BT.601 Range
+Chroma location: Left
+
+Stream 1
+Original ID: 48512
+Codec: A52 Audio (aka AC3) (a52 )
+Type: Audio
+Channels: Stereo
+Sample rate: 48000 Hz
+Bits per sample: 32

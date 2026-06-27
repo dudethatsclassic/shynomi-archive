@@ -1,0 +1,63 @@
+Primus
+Wednesday, May 29th, 2013
+MacEwan Hall
+402 Collegiate Boulevard North West
+Calgary, Alberta, Canada
+
+Taper:  LeifH
+Source:  CSBs (filter) > Sony PCM M10 @ 24/48 > Duracell 8GB microSD card
+Transfer:  Memory card > PC via USB > Wavepad Master's Edition (amplify, edits, downsample to 16/44.1) > flac (8) via Frontend
+
+Set  I:  1:01:07
+00 intro - clown dream
+01 Those Damned Blue-Collar Tweekers
+02 Duchess and the Proverbial Mindspread
+03 The Last Salmon Man
+04 Frizzle Fry
+05 Over the Falls
+06 Lee Van Cleef
+07 The Heckler
+08 My Name is Mud
+09 Jerry Was a Racecar Driver
+
+Set II:  1:06:21
+10 Southbound Pachyderm
+11 Moron TV
+12 Golden Boy
+13 Seas of Cheese
+14 Jilly's On Smack
+15 John the Fisherman
+16 Del Davis Tree Farm
+17 Hamburger Train
+18 Tommy the Cat
+19 The Toys Go Winding Down
+20 Here Come The Bastards
+
+My ninth Primus show.  Took the bus from Edmonton to Calgary the morning of.  We hung around the loading doors a while before doors to the show were open and ran into Primus again.  "You guys made it," said Ler as we told them in Edmonton we'd be in Calgary too.  We gave Jay two more j's, which he seemed to not only appreciate, but may have also inspired this night's setlist cartoon for the first set.  The venue is part of a university campus and most of the people I spoke to weren't going to the show, just coming or going to class.  We left a pile of empties by the garbage can closest to the tour bus and got in line once the doors were open.  
+
+This show was very different from the Edmonton show.  Possibly the better of the two.  Being a general admission show, there were no seats, which created a higher energy level and the band seemed a little more lively.  The previous night, everyone sat down the entire show less the encore, which was nice for recording.  I was going to try to video tape the Calgary show but gave up after getting the first song.  Too many heads in the way and my arms were very tired from holding this heavy camera the night before for the duration of the show.  There were no drinks allowed in the hall itself, which meant everyone was getting well liquored before hand and in the beer garden.  The crowd was very noisy and less respectful than Edmonton, moreso during the second set.  You could tell a lot of people there weren't necessarily big Primus fans, but took it upon themselves to see the first 3D rock tour.  They also had the merch booth inside the venue as opposed to the lobby, which is more of a hallway/passage to the food court and outside.  
+
+I was probably about 12 rows back from the stage, dead centre.  The sound was great, and looking at the venue before hand I had doubts being that's its basically a cinderblock hall.  Between the Heckler and My Name is Mud, there was some noodling which was very similar to Cosmic Highway but not the real deal.  I didn't get the first setlist, but got a picture of it.  Afterwards I got the second setlist and one of Ler's guitar picks.  Also included are some pictures I took.
+
+fingerprints:
+00 - intro music.flac:b8adec1f91a3d419f4af396688f6e3eb
+01 - Those Damned Blue-Collar Tweekers.flac:a8be6b0de14247c4562604e07558c24e
+02 - Duchess and the Proverbial Mind Spread.flac:388c8b080ff0b4ec8459abe647e43ced
+03 - Last Salmon Man.flac:48560d2cd3f264b9a303b7f4770a1012
+04 - Frizzle Fry.flac:8f51064d8927751269e2c891988489e1
+05 - Over the Falls.flac:75570894b9e9178ae646a01b769a74c6
+06 - Lee Van Cleef.flac:a9d78115aac29252f27794ce0b12d215
+07 - The Heckler.flac:b71c4cd2d959d94cf2c7cca5240b484b
+08 - My Name is Mud.flac:c8020f81dfe2ee52ff1ded84c28492c3
+09 - Jerry Was a Race Car Driver.flac:5bc97135826d9ace9aaeb4cd342814dd
+10 - Southbound Pachyderm.flac:cf7f02e20d05e68d3d912720c5e1ee95
+11 - Moron TV.flac:6c2570a469ef53ced624c351147f4b21
+12 - Golden Boy.flac:f2d7962d4c43d273325dd2c2e0e2b594
+13 - Seas of Cheese.flac:da9e663425af037de057f7eba5603fcb
+14 - Jilly's On Smack.flac:4ad912c772df3424f49c8d937d03cba9
+15 - John the Fisherman.flac:6ddcbf7f1b057507983ea0f38f8a3112
+16 - Del Davis Tree Farm.flac:1c1f46a0e85a2bde22c3e5755c76dd65
+17 - Hamburger Train.flac:64a8afc9278dcc6d7f7365e6290d8096
+18 - Tommy the Cat.flac:a926e36e88a5575da79db0e75d657293
+19 - The Toys Go Winding Down.flac:c000351340093ba05a763f8ee998b4f0
+20 - Here Come the Bastards.flac:1ce44ce1e7b4504d3e29b69958f8cbb4

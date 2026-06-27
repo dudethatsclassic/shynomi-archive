@@ -1,0 +1,24 @@
+Slowdive
+Copenhagen Vega, DK
+2024-01-21
+
+Source: ca14->ca9100->sony pcm-m10 -> wav (48 khz/24 bit)
+Transfer: sony pcm-m10->hd->cep->cdwav (44,1 khz/16 bit)->flac
+
+01. Intro
+02. shanty
+03. Star Roving
+04. Catch the Breeze
+05. Crazy for You
+06. Souvlaki Space Station
+07. chained to a cloud
+08. kisses
+09. Slomo
+10. Sugar for the Pill
+11. Alison
+12. When the Sun Hits
+13. Golden Hair (Syd Barrett)
+---
+14. Dagger
+15. skin in the game
+16. 40 Days

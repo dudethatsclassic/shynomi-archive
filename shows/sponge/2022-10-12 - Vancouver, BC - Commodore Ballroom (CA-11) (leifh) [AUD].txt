@@ -1,0 +1,37 @@
+Sponge (opened for Everclear)
+Wednesday October 12th, 2022
+Commodore Ballroom
+868 Granville St.
+Vancouver, British Columbia, Canada
+
+Taper:  LeifH [2022#99]
+Source:  CA-11 > Bat2B > A10 (centre floor ~20' from stage)
+Transfer:  PC via USB > RX9 > Wavepad > flac (8) via TLH
+
+Setlist:  57:49
+00 intro
+01 Wax Ecstatic
+02 Molly
+03 Rotting Piñata
+04 Glue
+05 Neenah Menasha
+06 Got to Be a Bore
+07 Have You Seen Mary
+08 Treat Me Wrong
+09 Sick of It All
+10 Stitch
+11 Plowed
+
+fingeprints:
+Sponge2022-10-12t00 - intro.flac:f7809b95a8869dde2febf6bc7793ace0
+Sponge2022-10-12t01 - Wax Ecstatic.flac:c9f62d92624cbe53f707d9bc283fb833
+Sponge2022-10-12t02 - Molly.flac:497994870eb5204d09c31324c0c482c9
+Sponge2022-10-12t03 - Rotting Pinata.flac:9742574be277ebb6cb22f56fdc5892d0
+Sponge2022-10-12t04 - Glue.flac:e47c1c511af194b101eb8996badce3c3
+Sponge2022-10-12t05 - Neenah Manasha.flac:02ca9af71778f1ebf0e6ec4a5d4e262d
+Sponge2022-10-12t06 - Got To Be A Bore.flac:d99e1101d676737b4f38497aac576eb5
+Sponge2022-10-12t07 - Have You Seen Mary.flac:e4c436ff375c816d2da45b8f0907e1f6
+Sponge2022-10-12t08 - Treat Me Wrong.flac:8b4285919baf93a5c0a12627738de79a
+Sponge2022-10-12t09 - Sick Of It All.flac:7f8890bd5276dbd0a25cfe4938b71130
+Sponge2022-10-12t10 - Stitch.flac:708d276be02325cf38a0f52560bfa611
+Sponge2022-10-12t11 - Plowed.flac:933f3b7744aebeb55e6954982a2dd7d0

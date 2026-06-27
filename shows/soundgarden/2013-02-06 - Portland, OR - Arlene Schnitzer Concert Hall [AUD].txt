@@ -1,0 +1,72 @@
+Soundgarden
+Venue: Arlene Schnitzer Concert Hall
+Location: Portland, Oregon, USA
+Date: 2013-02-06
+
+Chris Cornell (vocals, guitar)
+Kim Thayil (guitar)
+Ben Shepherd (bass)
+Matt Cameron (drums)
+
+Source Info:
+Recorder: Zoom Q3HD
+Audio Settings: 24-bit, 48 kHz stereo PCM lossless
+Storage Media: Kingston 32 GB ultimateX 100X SDHC
+Recorded By: Meddle Earth
+
+Transfer: SDHC (.mov file) > SDHC reader > HDD
+Audacity (.mov > .wav) > CD Wave (splits) > dBpoweramp (.wav > .flac, tags)
+Original recording, no EQ, +4 dB volume
+
+Archive Folder: Soundgarden 2013-02-06 Portland Oregon (master) (FLAC)
+Archive Size: 1.56 GB
+Duration: 2 hr 14 min 36 sec
+
+MediaInfo Specs (full details included in specs.txt file):
+24-bit 48 kHz stereo lossless audio split into tracks, FLAC
+
+TLH checksums (verified before upload. ffp, md5 files included)
+
+Setlist split and tagged as follows:
+01 Been Away Too Long
+02 My Wave
+03 Worse Dreams
+04 Jesus Christ Pose
+05 Flower
+06 Outshined
+07 Spoonman
+08 Room A Thousand Years Wide
+09 Taree
+10 Rhinosaur
+11 Non-State Actor
+12 Loud Love
+13 Hunted Down
+14 Drawing Flies
+15 Blow Up The Outside World
+16 Fell On Black Days
+17 Big Dumb Sex
+18 Tighter & Tighter
+19 Ty Cobb
+20 Bones Of Birds
+21 By Crooked Steps
+22 Rowing
+23 encore break
+24 Rusty Cage
+25 Burden In My Hand
+26 A Thousand Days Before
+27 Slaves & Bulldozers
+
+Lineup and Recording Notes:
+Soundgarden was the only band on the bill.
+Slight cut in "Spoonman" while switching to audio-only mode.
+Video was recorded along with audio through most of Spoonman.
+
+This recording is in the legal PUBLIC DOMAIN,
+is not for sale, has not been for sale,
+is not and has not been involved in commerce.
+
+Band link:
+http://soundgardenworld.com
+
+Link to other original recordings and works in progress:
+http://www.meddleearth.com/Recorded_by_Meddle_Earth.html

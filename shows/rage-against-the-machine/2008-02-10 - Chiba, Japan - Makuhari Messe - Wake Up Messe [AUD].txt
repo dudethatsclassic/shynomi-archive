@@ -1,0 +1,19 @@
+auCDtect: CD records authenticity detector, version 0.8.2
+Copyright (c) 2004 Oleg Berngardt. All rights reserved.
+Copyright (c) 2004 Alexander Djourik. All rights reserved.
+
+Detect mode (0..40 with 0 = most accurate):  8 (default)
+
+
+------------------------------------------------------------
+[d1t04.Rage Against The Machine-Bombtrack.wav]
+Detected average hi-boundary frequency: 2.016358e+004 Hz
+Detected average lo-boundary frequency: 1.517281e+004 Hz
+Detected average hi-cut frequency: 2.022806e+004 Hz
+Detected average lo-cut frequency: 6.101729e+003 Hz
+Maximum probablis boundary frequency: 2.190200e+004 Hz
+Coefficient of nonlinearity of a phase: 1.586814e-001
+First order smothness: 3.588957e-001
+Second order smothness: 3.957055e-001
+------------------------------------------------------------
+This track looks like CDDA with probability 100%.

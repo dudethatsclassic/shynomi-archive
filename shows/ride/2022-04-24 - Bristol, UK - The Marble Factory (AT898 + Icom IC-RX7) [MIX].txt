@@ -1,0 +1,31 @@
+﻿Ride
+The Marble Factory, Bristol
+24 April 2022
+
+Source 1: AT898 > SP-SPSB-10 > Tascam DR-2D (96kHz 24 bit)
+Source 2: Icom IC-RX7 > Tascam DR-2D (96kHz 24 bit) (Steve Queralt feed)
+Source 3: Icom IC-RX7 > Tascam DR-2D (96kHz 24 bit) (Mark Gardener feed)
+
+Mastered in Adobe Audition 2020, Izotope 9, Izotope RX8 and Har Bal 2.3
+
+
+Fyt by This Mortal Coil
+Seagull
+Kaleidoscope
+In a Different Place
+Polar Bear
+Dreams Burn Down
+Decay
+Paralysed
+Vapour Trail
+Taste
+Here and Now
+Nowhere
+
+Encore:
+Lannoy Point
+Future Love
+OX4
+Kill Switch
+Unfamiliar
+Leave Them All Behind 

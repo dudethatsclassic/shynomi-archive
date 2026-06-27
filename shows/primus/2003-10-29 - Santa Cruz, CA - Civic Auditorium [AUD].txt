@@ -1,0 +1,76 @@
+Primus
+Santa Cruz Civic Auditorium
+Santa Cruz, CA
+October 29, 2003
+
+
+disc I:
+
+-first set-
+01 Nature Boy 						09:53
+02 Pudding Time						06:45
+03 Del Davis Tree Farm					06:44
+04 Hellbound 17 1/2					03:22
+05 My Friend Fats					10:03
+06 Groundhog Day					17:46
+-second set-
+07 Sailing The Seas Of Cheese				03:24
+08 Here Come The Bastards				05:22
+09 Sgt. Baker						04:02
+10 American Life					11:42
+
+
+disc II:
+
+-second set continued-
+01 Jerry Was A Race Car Driver 				04:44
+02 Herb drum solo 					09:53
+03 Herb & Les jam 					06:04
+04 Eleven 						05:38
+05 Is It Luck? > In The Flesh > Is It Luck? 		05:13
+06 Grandad's Little Ditty 				01:00
+07 Tommy The Cat 					05:48
+08 Sathington Waltz 					03:18
+09 Those Damn Blue Collar Tweekers 			09:52
+10 Fish On (Fisherman Chronicles Part II) 		07:21
+11 Los Bastardos 					05:58
+12 encore break/crowd 					03:54
+-encore- 
+13 Pilcher's Squad					02:46
+
+
+====================================================================================
+source:		[2] AKG 480 + CK61 {ORTF, front of soundboard} > 
+		Graham Patten DMIC-20 (@ 44.1 khz) > M-Audio CO2 > 
+		Creative Nomad Jukebox 3
+
+transfer:	Creative Nomad Jukebox 3 (via USB) > CD Wave > GoldWave (fades) > 
+		FLAC Frontend > .flac
+
+culprit: 	Steve McCracken [crackmc@hotmail.com]
+
+
+
+primus2003-10-29d2t04.flac:d16e814a3c87ce9ad72d9a25e1d832c1
+primus2003-10-29d2t05.flac:2830159e68030e3053b797ddf642b4f6
+primus2003-10-29d2t06.flac:3fdf8e750d7d1ae6a982bd59234c2f0c
+primus2003-10-29d2t07.flac:32dd668cc674328771c75e8b12aeeed4
+primus2003-10-29d2t08.flac:8f5326a30d27a64d74c3d39787587d1d
+primus2003-10-29d2t09.flac:87b3ed2105d4ecc8b57cdad1b7d67408
+primus2003-10-29d2t10.flac:fff11455a4bb2cee43c28cdf18dd46d8
+primus2003-10-29d2t11.flac:7d9191425165811c9a721bddccb9b0c1
+primus2003-10-29d2t12.flac:e684d12cd7d982191a52c7bf84327ac4
+primus2003-10-29d2t13.flac:64966e3437ff49708a68a814be78d4b7
+primus2003-10-29d1t01.flac:ac71be17f679a0b8835b3165a4bfd40f
+primus2003-10-29d1t02.flac:4a904d62afd6bef4b64f1619a4d0b235
+primus2003-10-29d1t03.flac:46fbbd85ccd5b4eca76b9c027eec1841
+primus2003-10-29d1t04.flac:fb2a77aa2669f921f2c252e8a6a1c559
+primus2003-10-29d1t05.flac:704dd4d05902669f9975cee11344626b
+primus2003-10-29d1t06.flac:4722135c509f5e1cd651fa4a4244a995
+primus2003-10-29d1t07.flac:881fe4ff6871ee48fedcb77f81b70ab1
+primus2003-10-29d1t08.flac:49b97dbf8697f761b654bc4e6333bc54
+primus2003-10-29d1t09.flac:73861100db2139e94d824ddf8eb5091e
+primus2003-10-29d1t10.flac:e401c8f0e460dabb93903774052a96dd
+primus2003-10-29d2t01.flac:d39a48063d75cbdc1a6034d9592a574b
+primus2003-10-29d2t02.flac:efcb101d6c917fe5b285c85adfbd9842
+primus2003-10-29d2t03.flac:6e57978f30b7dd397ab6a78ee263878b

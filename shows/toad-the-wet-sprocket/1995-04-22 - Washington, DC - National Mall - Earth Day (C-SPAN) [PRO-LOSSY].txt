@@ -1,0 +1,14 @@
+Toad The Wet Sprocket
+National Mall - Washington DC
+Earth Day
+04/22/1995
+
+Taper:		C-SPAN: https://www.c-span.org/video/?64700-1/earth-day-25th-anniversary-rally
+Source:		Pro shot
+
+Conversion:	hemisphire (hemisphire@hotmail.com)
+webm > ffmpeg > mp3
+
+01 Something's Always Wrong
+02 Walk On The Ocean
+03 Fall Down

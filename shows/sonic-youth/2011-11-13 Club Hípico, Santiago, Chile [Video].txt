@@ -1,0 +1,77 @@
+Sonic Youth
+Maquinaria Festival
+Club Hípico
+Santiago, Chile
+November 13, 2011
+
+
+
+
+
+
+Format : Matroska
+Format version : Version 2
+File size : 3.58 GiB
+Duration : 1h 2mn
+Overall bit rate : 8 259 Kbps
+Encoded date : UTC 2011-12-07 01:30:19
+Writing application : mkvmerge v5.0.1 ('Es ist Sommer') built on Oct 9 2011 11:55:43
+Writing library : libebml v1.2.2 + libmatroska v1.3.0
+
+Video
+ID : 1
+Format : AVC
+Format/Info : Advanced Video Codec
+Format profile : High@L4.0
+Format settings, CABAC : Yes
+Format settings, ReFrames : 2 frames
+Muxing mode : Container profile=Baseline@3.2
+Codec ID : V_MPEG4/ISO/AVC
+Duration : 1h 2mn
+Bit rate mode : Variable
+Maximum bit rate : 22.0 Mbps
+Width : 1 280 pixels
+Height : 720 pixels
+Display aspect ratio : 16:9
+Frame rate : 59.940 fps
+Color space : YUV
+Chroma subsampling : 4:2:0
+Bit depth : 8 bits
+Scan type : Progressive
+Language : English
+
+Audio
+ID : 2
+Format : AAC
+Format/Info : Advanced Audio Codec
+Format profile : LC
+Codec ID : A_AAC
+Duration : 1h 2mn
+Channel(s) : 2 channels
+Channel positions : Front: L R
+Sampling rate : 48.0 KHz
+Compression mode : Lossy
+Language : English
+
+Menu
+00:00:00.000 : :[01] Brave Men Run (In My Family)
+00:04:26.000 : :[02] Death Valley '69
+00:09:35.000 : :[03] Tom Violence
+00:12:45.000 : :[04] Sacred Trickster
+00:14:52.000 : :[05] Calming the Snake
+00:18:17.000 : :[06] Eric's Trip
+00:21:34.000 : :[07] Stereo Sanctity
+00:24:57.000 : :[08] Kotton Krown
+00:29:58.000 : :[09] Starfield Road
+00:33:28.000 : :[10] Flower
+00:36:55.000 : :[11] What We Know
+00:40:45.000 : :[12] Drunken Butterfly
+00:43:38.000 : :[13] Sugar Kane
+00:50:50.000 : :[14] Teen Age Riot
+
+
+
+
+
+Not reencoded, just cutted in/out and chapters added.
+Thanks to EliteHD from Chilecomparte.cl who captured the fullshow. 

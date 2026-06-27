@@ -1,0 +1,49 @@
+Primus
+Hippodrome Theatre
+Baltimore, MD
+October 29, 2014
+
+Taper: whitenite
+Location: front row, right balcony
+Source: AT943 (cards) > Roland R-05 @24/96
+Conversion: Roland R-05 > Goldwave > CD Wave > tlh
+Yield: FLAC (24/96)
+
+Set I:
+01 Those Damned Blue-Collar Tweekers*
+02 The Toys Go Winding Down
+03 Groundhog's Day
+04 Over the Falls
+05 Lee Van Cleef
+06 John the Fisherman
+07 The Pressman
+08 My Name is Mud
+09 Jerry was a Race Car Driver
+
+Set II:
+10 Hello Wonkites
+11 Candy Man
+12 Cheer Up Charlie
+13 Golden Ticket
+14 Lermaninoff
+15 Pure Imagination
+16 Oompa Augustus
+17 Semi-Wondrous Boat Ride
+18 Oompa Violet
+19 I Want It Now
+20 Oompa Veruca
+21 Wonkamobile
+22 Oompa TV
+23 Farewell Wonkites
+
+Encore:
+24 The Heckler**
+25 Southbound Pachyderm
+26 Too Many Puppies
+
+*late arrival, missing first 90 seconds or so
+**toggled switch, merged gap
+
+Notes:
+- Fungi Ensemble sat in second set
+- chattery neighbors

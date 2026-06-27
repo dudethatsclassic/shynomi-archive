@@ -1,0 +1,46 @@
+Les Claypool's Fearless Flying Frog Brigade
+July 13th, 2023 (Thursday)
+Madonna Inn
+San Luis Obispo, California
+
+Recorded by:  Grizzly Adams
+Source:  Sennheiser Ambeo > iPhone > Apogee MetaRecorder
+Transfer:  .WAV > RX9 > Wavepad > flac (8) via TLH
+
+Setlist:  02:05:25
+01 intro
+02 Up on the Roof
+03 Amanitas
+04 Buzzards of Greenhill
+05 Cricket and the Genie
+06 Pigs on the Wing
+07 Dogs
+08 Pigs
+09 Sheep
+10 Pigs on the Wing
+11 Precipitation
+12 Hendershot
+13 Maple Leaf Rag
+14 David Makalaster
+15 Tomorrow Never Knows
+16 Lust Stings
+17 Whamola
+
+fingerprints:
+lcfffb2023-07-13slo - 01 - intro.flac:079d21ff2eb87e24eab4c54584268814
+lcfffb2023-07-13slo - 02 - Up on the Roof.flac:1131c8a3699dae890d097ea7e5754ba8
+lcfffb2023-07-13slo - 03 - Amanitas.flac:0655caad680f209b5d83c8a5a29552dd
+lcfffb2023-07-13slo - 04 - Buzzards of Greenhill.flac:65e05e99220233ca63831c9eb809efa6
+lcfffb2023-07-13slo - 05 - Cricket and the Genie.flac:c381a625d94aa0142c307fb39cee7844
+lcfffb2023-07-13slo - 06 - Pigs on the Wing.flac:e74fc39eff64aa7b2c1ffd2e2b8816d6
+lcfffb2023-07-13slo - 07 - Dogs.flac:8d42aa254a52bd0810581f248cc0ec61
+lcfffb2023-07-13slo - 08 - Pigs.flac:4bbee276877b9f379032931c008081c1
+lcfffb2023-07-13slo - 09 - Sheep.flac:038ee9f11be38bb6bc82bc854930e28e
+lcfffb2023-07-13slo - 10 - Pigs on the Wing.flac:8f1835782ce9b9d48edbade226ef7326
+lcfffb2023-07-13slo - 11 - Precipitation.flac:e7602c6487179ce5928c87cf9ae2fb2a
+lcfffb2023-07-13slo - 12 - Hendershot.flac:7f160e7e559adc7bfc748987fc95762e
+lcfffb2023-07-13slo - 13 - Maple Leaf Rag.flac:62808e93e0adcb27df502a9d5c2712a4
+lcfffb2023-07-13slo - 14 - David Makalaster.flac:757fd37e7f9c3d8e91245ba7e5745e33
+lcfffb2023-07-13slo - 15 - Tomorrow Never Knows.flac:0d5fbbaf74a385fe3756d971acb733e7
+lcfffb2023-07-13slo - 16 - Lust Stings.flac:1e2fdae5fa691b195fb4157ab144f283
+lcfffb2023-07-13slo - 17 - Whamola.flac:344e9cf3bd69afad30cc4eff80fb6e68

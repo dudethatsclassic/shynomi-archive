@@ -1,0 +1,76 @@
+Primus
+Monday, December 31st, 2012
+The Warfield Theater 
+982 Market Street,
+San Francisco, CA, USA
+
+Taper:  LeifH
+Source:  CSBs (filter) > Sony PCM M10 @ 24/48 > Lexar 16GB microSD card
+Transfer:  Memory card > PC via USB > Wavepad Master's Edition (amplify, edits, downsample to 16/44.1) > flac (8) via Frontend
+Patch:  Zoom H4n(internal mics) 16/44.1 > Eq and De-clip with iZotopeRX > Tracked and Flac'd with Audacity1.3.12 (Recorded by IAMHAMMERED/BIGT)*
+
+Set  I:  1:06:20
+00 intro - clown dream
+01 Those Damned Blue-Collar Tweekers*
+02 The Last Salmon Man
+03 Golden Boy
+04 Pressman
+05 Tragedy's a' Comin'
+06 Hats Off
+07 Game Show/Costume Contest
+08 Mrs. Blaileen
+09 My Name is Mud
+
+Set II:  1:32:47
+10 Extinction Burst
+11 Wynona's Big Brown Beaver
+12 Fisticuffs
+13 Seas of Cheese
+14 Mr. Krinkle
+15 Jilly's on Smack
+16 John The Fisherman > Poetry & Prose (Tease)
+17 Sgt. Baker
+18 Countdown to the New Year
+19 Frankenstein (Edgar Winter cover)
+20 Electric Funeral (Black Sabbath cover)
+21 Tommy the Cat > The Awakening
+22 HOINFODAMAN
+23 Harold of the Rocks 
+
+My seventh Primus show and second NYE run with them.  I ate 3 squares while in line and enjoyed some beers being passed around.  I ran into a bunch more people I met the previous year at GAMH while waiting in line, and some new faces.  I saw a skateboarding dog and a guy walking around with a cat on his shoulder, and a few good costumes.  Just before doors opened I began to peak and was quite overwhelmed, needing to sit down on the sidewalk.  I was having a good time, but things got really weird briefly and I had a strange situation on my hands.  Thanks to those who may have assisted me momentarily while I gathered my bearings.  By the time the doors were open I was good to go.  
+
+I got in and set up at the same spot, dead centre behind the railing, where I was the previous night.  I was looking around at all the costumes and 'visuals' throughout the venue when someone pointed out to me the stage.  Instead of astronauts there were Frankensteins, as well as various science lab decorations.  I remember seeing Jay walk on stage well before the show was due to start, dressed normally.  He stepped about halfway out towards the drum kit before people started cheering, at which point he turned around and disappeared.  Not too many people really dressed up but most the costumes were good.  I heard one of the costume judges walking through the crowd behind me and heard her say to someone that they will be judging the costumes in the lobby after Tragedy's a' Comin'.  
+
+Ler was the first one to come out, "Tweekers," being the opening cut, and at first I didn't recognize him because of the outfit ("who the fuck is that?"), and soon noticed that Les had the same thing on, and Jay was wearing a white apron.  This distracted me.  *Unfortunately I didn't check my levels until 2.5 minutes into, "Tweekers," which was just a tad too hot, so I patched in the H4n internal mic source for the first 2.5 minutes of that song.*  This made me feel like a tweeker and some brief paranoia set in, causing me to monitor the levels consistently for the next couple songs.  The rest of the show is fine though, don't let that worry/discourage you.  It sounds awesome.  
+
+I also filmed almost an hour of footage before my battery ran out.  However, some of it is a tad shaky.  It can be hard to hold a tiny camera still in that condition.  This version of Pressman was intense!  My pineal gland was being "tickled".  I bursted out into a (silent) laughing fit during the game show/costume contest part of the show, which does not affect the audio recording.  I was practically in tears at points, it was that funny (to me).  It was like a parody of the Price is Right, Shane LaLonde was doing the exact hand motions that the ladies on Price is Right do when showing off items (afterall she is/was one of them).  That and Les' descriptions of the products and calling out the "brown-noser" were definitely what triggered most the laughter.  It was done to perfection, as was my mind.
+
+There was a giant gingerbread man on stage during Frankenstein, which was being jabbed by two guys in lab coats with broom handles.  I was definitely hearing 'surround sound' this night, especially during this song, and I didn't notice any the previous night.  The video for Electric Funeral didn't get messed up, so technically there were no repeats.  Somebody messed up during HOINFODAMAN, causing Les to stop the song and do a re-take.  I'll be honest, I was kind of hoping/expecting to hear more rare songs this night, but that said this was probably the best Primus show I've seen to date.  Its tough to compare, and the first time I saw them was pretty special.  But this was very memorable and I'm sure it helped that I was in the condition I was.  I walked out happy and had a celebratory stogie in the midst of all the New Year's Market Street madness.  
+
+Also included are some pictures I "borrowed" off-line and a picture of the first setlist from this night.  Thanks to BigT/IAmHammered for their source.  Thanks to the  'simian astronaut' for the picture of Baby Cakes.  
+
+fingerprints:
+00 - intro music.flac:314af444afa048686cbd0038789b7d1e
+01 - Those Damned Blue-Collar Tweekers.flac:d48c600f5620c86a3e34d0549f31896d
+02 - The Last Salmon Man.flac:f72dcd5b700ca282f7f67fcab238fbfe
+03 - Golden Boy.flac:e190180d33fabb8d1129396e0ba8717b
+04 - Pressman.flac:a1be99412818b988ecbad13342e7168d
+05 - Tragedy's a' Comin'.flac:b1a3c868e3dac9dee5ee4ceb38584ecc
+06 - Hats Off.flac:9f78b0035588a01ebc83d9825521cdc2
+07 - Game Show.flac:7ec363f59e7db613388984aae7af3032
+08 - Mrs. Blaileen.flac:33760292b7f4857be1c58c08d7b3fc7e
+09 - My Name Is Mud.flac:d3eff247991660ebffae3ddc7d99254d
+10 - Extinction Burst.flac:4505cf1ab37f2fc29757e71c19a5af3f
+11 - Wynona's Big Brown Beaver.flac:29d0a21ccfc453cbfc516346da1f20da
+12 - Fisticuffs.flac:7af60edf2a8150d8bcf871b99f6f48a3
+13 - Seas of Cheese.flac:9067a30408af20017e226bbe2a1823d4
+14 - Mr. Krinkle.flac:8e74db908a3dcef3f969326a9c8ab66e
+15 - Jilly's on Smack.flac:71fe00679810eb1e323170799e26aa58
+16 - John the Fisherman.flac:79bdf51bf2a0bc33d249ec77ea62f746
+17 - Sgt. Baker.flac:13fb4749f0230ad871a54a7b2088df3b
+18 - countdown to the new year.flac:bd5ed046b48f9c947d96873c03698db2
+19 - Frankenstein.flac:2bf3b5e0273d96b8878a6f06dd71b877
+20 - Electric Funeral.flac:a189ee2a98040ffc19a09ef41c3feb17
+21 - Tommy the Cat.flac:ef2edac720c376936a2b2d566dceea0e
+22 - HOINFODAMAN.flac:250faf9de53b4f80808c004d46e5e244
+23 - Harold of the Rocks.flac:6ce90bd0f034b3f04ce3389e6e80ae16

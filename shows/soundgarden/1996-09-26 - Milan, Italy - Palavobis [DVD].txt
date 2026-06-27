@@ -1,0 +1,43 @@
+Soundgarden
+1996-09-26
+Palavobis, Milan, Italy
+
+01. Spoonman
+02. Searching with my Good Eye Closed
+03. Let me Drown
+04. Pretty Noose
+05. Burden in my Hand
+06. My Wave
+07. Ty Cobb
+08. An Unkind
+09. Fell on Black Days
+10. Helter Skelter (Beatles cover)
+11. Boot Camp
+12. Rusty Cage
+13. Black Hole Sun
+14. Outshined
+15. Dusty
+16. Blow up the Outside World
+17. Kickstand
+18. Slaves & Bulldozers
+
+
+Run Time: 1:31:45
+Video: PAL; MPEG-2
+Audio: AC3
+Size: 3.59 GB
+
+Probable source/lineage:
+VHS(x) > standalone recorder (SP mode) > dvdr
+
+My part:
+Dvdr > VIDEO_TS > TMPGEnc 4 > VIDEO_TS > you
+
+Note:
+Received on dvd in a trade with no info. 
+To me it looks like possibly 2nd gen vhs copy transferred to dvd via a standalone recorder (blue screen) in SP mode.
+I've authored it somewhat, using TMPGEnc 4, to at least index each track, add menu's etc.
+
+Balcony shot, completely unobstructed but quite distant.
+The sound is not the best, especially during Spoonman and Slaves & Bulldozers.
+

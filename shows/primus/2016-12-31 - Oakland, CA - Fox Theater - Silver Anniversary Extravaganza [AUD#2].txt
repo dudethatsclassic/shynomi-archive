@@ -1,0 +1,70 @@
+Primus 
+2016-12-31 
+The Silver Anniversary Extravaganza (25th NYE show)
+Fox Theater - Oakland, CA 
+
+Contrast clause: this is a matrix made of 2 different recordings upped here:
+
+
+1st recording
+
+http://www.dimeadozen.org/torrents-details.php?id=580977
+
+recorded and uploaded by RockTheMullet
+
+Source: CSB's > Tascam DR-22WL @ 16bit48khz > EQed and Tracked in Audacity > flac (8) via Audacity 
+
+
+
+
+2nd recording
+
+http://www.dimeadozen.org/torrents-details.php?id=581045
+
+recorded and uploaded by muchmusic
+
+Source: Sony PCM-M10 + Audio-Technica AT831b (x2)
+Transfer: Sony PCM-M10 (48/16) --> Audacity (44.1/16) --> Trader's Little Helper --> FLAC 8 
+
+
+
+
+
+Processing of matrix:
+
+Cubase -> arrangement of matrix -> edit/remaster -> Flac (44.1/16) -> Dime
+
+I made some EQ,Dynamics and a bit of Compression.
+
+
+
+Length: 02:11:37
+
+
+Setlist:
+01.Intro
+02.YYZ-John the Fisherman
+03.Those Damned Blue-Collar Tweekers
+04.Groundhog's Day
+05.Banter
+06.Last Salmon Man
+07.Frizzle Fry
+08.Fisticuffs (with Skerik)
+09.Here Come the Bastards
+10.Sgt. Baker - Hello Skinny - Sgt. Baker
+11.Semi-Wondrous Boat Ride - NYE Countdown
+12.Man on the Silver Mountain (Rainbow cover)(with Bob C. Cock, Kehoe as Santa, Pete Drungle)
+13.Jilly's on Smack
+14.Eleven (Drum intro)
+15.American Life
+16.Banter
+17.My Name Is Mud
+18.Jerry Was a Race Car Driver
+19.Southbound Pachyderm (with the rest of Claypool Lennon Delirium and Skerik)
+
+
+
+
+
+Thanks for both tapers for recording and uploding this great show.
+Don't convert to lossy files, unless for personal use.Don't Sell. Free Trade Only.

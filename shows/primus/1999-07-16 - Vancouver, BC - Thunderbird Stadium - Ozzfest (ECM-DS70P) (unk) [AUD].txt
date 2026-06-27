@@ -1,0 +1,113 @@
+Primus
+July 16, 1999
+Vancouver BC
+Thunderbird Stadium
+part of Ozzfest
+audience recording
+
+Sony ECM-DS70P mic (in hat) > Radio Shack gold 6 foot stereo headphone (and microphone) extension cord > Sony WM D3 Professional Recording Walkman (Hi bias Dolby B on) > Maxell XL II-S 90 master cassettes > mis-remembered tape transfer details (dolby off) > Maxell CDR "master" > EAC > FLAC
+
+
+01 Ozzfest 1999 07 16 audience intro
+02 Pudding Time
+03 Those Damned Blue Collar Tweekers
+04 Buckethead
+05 Those Damned Blue Collar Tweekers (reprise)
+06 small and insignificant genitalia
+07 Jerry Was A Racecar Driver
+08 My Name Is Mud
+09 Too Many Puppies pt1
+10 Crazy Train
+11 Too Many Puppies pt2
+12 antipop introduction
+13 The Antipop
+14 harold introduction
+15 Harold Of The Rocks
+
+
+
+I had to do some manual track number renaming. Exact Audio Copy renumbered them incorrectly. I transferred my master cassette of this show a long time ago on a friend's equipment. I got a CDR copy and he got a CDR copy, and the wav files were deleted. These tracks were burned as bonus tracks on disc 2 of his recording of Oysterhead in Vancouver Oct 23, 2001. I have split my show out on its own by renumbering the tracks I ripped from my discs.
+
+This was part of the Ozzfest 99 festival outside at Thunderbird Stadium in Vancouver, British Columbia. Black Sabbath headlined the show later that evening. Each act had a pretty short set time to play.
+
+I tracked out several extra events in the show, including making the Crazy Train tease it's own track, and making introductions their own tracks as well. It all plays consecutively and gapless playback is needed. If you don't like it you can re-join some tracks for your own use (but, why, really???) .....
+
+
+
+Trader's Little helper spat out this mumbo jumbo...
+01 Ozzfest 1999 07 16 audience intro.wav:  successfully encoded to '01 Ozzfest 1999 07 16 audience intro.flac' (ratio = 0.520; no need for sector alignment).
+02 Pudding Time.wav:  successfully encoded to '02 Pudding Time.flac' (ratio = 0.590; no need for sector alignment).
+03 Those Damned Blue Collar Tweekers.wav:  successfully encoded to '03 Those Damned Blue Collar Tweekers.flac' (ratio = 0.580; no need for sector alignment).
+04 Buckethead.wav:  successfully encoded to '04 Buckethead.flac' (ratio = 0.582; no need for sector alignment).
+05 Those Damned Blue Collar Tweekers (reprise).wav:  successfully encoded to '05 Those Damned Blue Collar Tweekers (reprise).flac' (ratio = 0.571; no need for sector alignment).
+06 small and insignificant genitalia.wav:  successfully encoded to '06 small and insignificant genitalia.flac' (ratio = 0.549; no need for sector alignment).
+07 Jerry Was A Racecar Driver.wav:  successfully encoded to '07 Jerry Was A Racecar Driver.flac' (ratio = 0.615; no need for sector alignment).
+08 My Name Is Mud.wav:  successfully encoded to '08 My Name Is Mud.flac' (ratio = 0.604; no need for sector alignment).
+09 Too Many Puppies pt1.wav:  successfully encoded to '09 Too Many Puppies pt1.flac' (ratio = 0.608; no need for sector alignment).
+10 Crazy Train.wav:  successfully encoded to '10 Crazy Train.flac' (ratio = 0.598; no need for sector alignment).
+11 Too Many Puppies pt2.wav:  successfully encoded to '11 Too Many Puppies pt2.flac' (ratio = 0.611; no need for sector alignment).
+12 antipop introduction.wav:  successfully encoded to '12 antipop introduction.flac' (ratio = 0.512; no need for sector alignment).
+13 The Antipop.wav:  successfully encoded to '13 The Antipop.flac' (ratio = 0.610; no need for sector alignment).
+14 harold introduction.wav:  successfully encoded to '14 harold introduction.flac' (ratio = 0.527; no need for sector alignment).
+15 Harold Of The Rocks.wav:  successfully encoded to '15 Harold Of The Rocks.flac' (ratio = 0.596; no need for sector alignment).
+
+No errors occured.
+
+
+01 Ozzfest 1999 07 16 audience intro.flac:  tested ok (file is decodable without error).
+02 Pudding Time.flac:  tested ok (file is decodable without error).
+03 Those Damned Blue Collar Tweekers.flac:  tested ok (file is decodable without error).
+04 Buckethead.flac:  tested ok (file is decodable without error).
+05 Those Damned Blue Collar Tweekers (reprise).flac:  tested ok (file is decodable without error).
+06 small and insignificant genitalia.flac:  tested ok (file is decodable without error).
+07 Jerry Was A Racecar Driver.flac:  tested ok (file is decodable without error).
+08 My Name Is Mud.flac:  tested ok (file is decodable without error).
+09 Too Many Puppies pt1.flac:  tested ok (file is decodable without error).
+10 Crazy Train.flac:  tested ok (file is decodable without error).
+11 Too Many Puppies pt2.flac:  tested ok (file is decodable without error).
+12 antipop introduction.flac:  tested ok (file is decodable without error).
+13 The Antipop.flac:  tested ok (file is decodable without error).
+14 harold introduction.flac:  tested ok (file is decodable without error).
+15 Harold Of The Rocks.flac:  tested ok (file is decodable without error).
+
+No errors occured.
+
+
+01 Ozzfest 1999 07 16 audience intro.flac:1cb9addcd0942435411ecbe146e4b0f1
+02 Pudding Time.flac:734afe67c9c5e72109cdce544c98b879
+03 Those Damned Blue Collar Tweekers.flac:b3fbd914cbf39266feb892a036c1b73d
+04 Buckethead.flac:4740a75b7acf4e8090ef844ab3b5b87c
+05 Those Damned Blue Collar Tweekers (reprise).flac:b7b95995e5054bc9b800b9ecb0af3b7a
+06 small and insignificant genitalia.flac:6d1bfa2fb7b8e9d60db6a1c33d8b8d5d
+07 Jerry Was A Racecar Driver.flac:5a62b107c21943c0de91b93e6038f477
+08 My Name Is Mud.flac:e147397db5b03f749e57663f40e0e4a9
+09 Too Many Puppies pt1.flac:8e1068b0c1bb3768ee385bc16dafe289
+10 Crazy Train.flac:ff306f25d1ee2b069f717b531365a9c6
+11 Too Many Puppies pt2.flac:c2657207c4eed90d8f8bc5b340947296
+12 antipop introduction.flac:3c58efcd639f0c4dbc6ffc80cda822da
+13 The Antipop.flac:ce1c1d61408c360a40cfedbaf0e5f5ec
+14 harold introduction.flac:b998c3988be4eda0bc429ebf13bd7577
+15 Harold Of The Rocks.flac:9bb121051b6d828eaba3f049378265d0
+
+Checksum file saved to disk.
+
+No errors occured.
+
+
+N:\Primus - Ozzfest 99-07-16 Vancouver BC aud\01 Ozzfest 1999 07 16 audience intro.wav:  successfully deleted.
+N:\Primus - Ozzfest 99-07-16 Vancouver BC aud\02 Pudding Time.wav:  successfully deleted.
+N:\Primus - Ozzfest 99-07-16 Vancouver BC aud\03 Those Damned Blue Collar Tweekers.wav:  successfully deleted.
+N:\Primus - Ozzfest 99-07-16 Vancouver BC aud\04 Buckethead.wav:  successfully deleted.
+N:\Primus - Ozzfest 99-07-16 Vancouver BC aud\05 Those Damned Blue Collar Tweekers (reprise).wav:  successfully deleted.
+N:\Primus - Ozzfest 99-07-16 Vancouver BC aud\06 small and insignificant genitalia.wav:  successfully deleted.
+N:\Primus - Ozzfest 99-07-16 Vancouver BC aud\07 Jerry Was A Racecar Driver.wav:  successfully deleted.
+N:\Primus - Ozzfest 99-07-16 Vancouver BC aud\08 My Name Is Mud.wav:  successfully deleted.
+N:\Primus - Ozzfest 99-07-16 Vancouver BC aud\09 Too Many Puppies pt1.wav:  successfully deleted.
+N:\Primus - Ozzfest 99-07-16 Vancouver BC aud\10 Crazy Train.wav:  successfully deleted.
+N:\Primus - Ozzfest 99-07-16 Vancouver BC aud\11 Too Many Puppies pt2.wav:  successfully deleted.
+N:\Primus - Ozzfest 99-07-16 Vancouver BC aud\12 antipop introduction.wav:  successfully deleted.
+N:\Primus - Ozzfest 99-07-16 Vancouver BC aud\13 The Antipop.wav:  successfully deleted.
+N:\Primus - Ozzfest 99-07-16 Vancouver BC aud\14 harold introduction.wav:  successfully deleted.
+N:\Primus - Ozzfest 99-07-16 Vancouver BC aud\15 Harold Of The Rocks.wav:  successfully deleted.
+
+No errors occured.

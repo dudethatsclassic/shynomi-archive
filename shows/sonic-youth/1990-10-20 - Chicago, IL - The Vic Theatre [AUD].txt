@@ -1,0 +1,50 @@
+---------------------------------------------------------------------------
+	Artist:			Sonic Youth
+	Date:			1990-10-20
+	Location:		Vic Theater
+				Chicago
+				Usa-IL
+---------------------------------------------------------------------------
+	Recorded by:		Unknown
+	Transferred & encoded by: Tristan Ruellan	
+---------------------------------------------------------------------------
+	Generation:	 	Aud>Unknown Mic>Unknown Analog 
+				recorder>ANA(M)>ANA(X)>flac
+---------------------------------------------------------------------------
+	Lineage:	 	Aud
+				>Unknown Mic
+				>Unknown Analog Recorder
+				>ANA(M)
+				>ANA(X)
+				>Tascam 130
+				>Presonus Firebox
+				>Spark2.82
+				>Wav (16bits, 44,1khz)
+				>xAct 1.62
+				>flac (Level 8, SBE fixed)
+---------------------------------------------------------------------------
+	total time:		1:19:43
+	Fileset size:		469.9MB	
+---------------------------------------------------------------------------
+	Note: 			Venue might be "The Cabaret Metro"
+				Tape flip between t10&t11
+---------------------------------------------------------------------------
+	Setlist:		
+				t01: White Cross 
+				t02: Stereo Sanctity
+				t03: Mote 
+				t04: Flower 
+				t05: Tom Violence 
+				t06: Tunic 
+				t07: Dirty Boots 
+				t08: Catholic Block 
+				t09: Mary Christ 
+				t10: Kool Thing 
+				t11: Silver Rocket 
+				--
+				t12: Cinderella's Big Score 
+				t13: My Friend Goo 
+				t14: Disappearer 
+				t15: Eric's Trip ---------------------------------------------------------------------------
+	Seeded on:		2008-04-01
+---------------------------------------------------------------------------

@@ -1,0 +1,41 @@
+Swervedriver 
+Sudsy Malone's
+Cincinnatti, Ohio 
+6-11-98
+
+Source:2 pzm mics
+Lineage:Tascam portastudio>WAV (Audition)>FLAC
+477 MB
+
+1. Intro
+2. Sandblasted
+3. The Birds
+4. Duel
+5. 99th Dream
+6. Blowin Cool
+7. Wrong Treats
+8. Never lose the Feeling
+9. She's beside herself
+10. I am Superman
+11. These Times
+12. Last day on Earth
+13. Kill the Superheroes
+14. Last Train to Satansville
+
+01 - intro.flac:1ce9c6c39d2a8e76c366eb01f0e96db0
+02 - sandblasted.flac:017cb05012c03f57e72e264ddb13e132
+03 - the birds.flac:b762040eb7610ef4acbd6943df868f53
+04 - duel.flac:1ca7a93160ec73c40b2cc1a957b7f46e
+05 - 99th dream.flac:621eb7858178a006a8dabeb8570db718
+06 - blowin cool.flac:964a08e861098449e1fceea1f1e69849
+07 - wrong treats.flac:09eb12ffc2093da6dd321e6c88c2c3d6
+08 - never lose the feeling.flac:65ef6ea2d27b2ca28ef0d42fb0abc39c
+09 - shes beside herself.flac:246baee4caf4858ce4a84a7fa8a89ce7
+10 - i am superman.flac:232d2e902daa4e674621abf07580c35c
+11 - these times.flac:03c65afee3526fe8c3ae9bba284a1683
+12 - last day on earth.flac:f8d63925785fccf173dde1d9bbda7854
+13 - kill the superheroes.flac:923a33e4e3ca097d6b4ab5be72097852
+14 - last train to satansville.flac:a3868b5e65bcb161a17154c28d6030e8
+
+
+This was taped with two pzm mics (supposedly on the wall) into a tascam portastudio by a friend. The tape basically sat in a box for a couple of years and then he gave it to me. Another two years went by, and I made a torrent of it. That's basically the lineage. This was the only night I ever got to see them live so it holds a tender spot. It suffers from the typical cassette type defects, but it was a fantastic show, and Im glad it got captured at all. As far as transfer, I took the first gen tape (arrgh) and made 16 bit 44.1 wavs in audition. From there, I did nothing but set track markers. It could use some eq work here and there and might be made a bit better, but I left it as is straight from the tape. Any restorative suggestions would be much appreciated to make this sound a bit better, beyond basic eq that is.

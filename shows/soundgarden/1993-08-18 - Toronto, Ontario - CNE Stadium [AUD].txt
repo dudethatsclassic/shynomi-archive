@@ -1,0 +1,46 @@
+Soundgarden
+CNE Stadium
+Toronto, ON
+August 18, 1993
+(Opened for Neil Young & Booker T & the MG's)
+
+** 16 BIT **
+
+Source:  Cassette master (unknown mics & recorder) > Cassette (1) > Cassette (2)
+Transfer:  Cassette (2) > Denon 790R > Kenwood A-522 amplifier > Kenwood GE-622 Equalizer > .WAV @ 16 bit/44.1 kHz
+Mastering:  .WAV's > Sound Forge Pro 11.0 (Build 299) [iZotope Mastering Suite (declick); minor edits, normalize, & fades] > CDWav 
+            (tracking) > Trader's Little Helper (level 5) > FLAC > TagScanner 6.0.18 (tagging) 
+Recorded by:  Unknown
+Transferred by:  Steve "ballsdeep" Hagar
+Mastered by:  Dennis Orr
+
+Nota bene: This performance of Beyond The Wheel was officially released in the second CD from the Superunknown 20th Anniversary Super Deluxe edition but this version should be uploadable because this is not the official soundboard recording but instead an audience recording
+
+Setlist: (44.02)
+01 Gun
+02 Beyond The Wheel
+03 Chat
+04 Outshined
+05 Let Me Drown
+06 My Wave
+07 Rusty Cage
+08 Mailman
+09 Jesus Christ Pose
+
+Chris Cornell – lead vocals & rhythm guitar
+Kim Thayil – lead guitar
+Ben Shepherd – bass & backing vocals
+Matt Cameron – drums & backing vocals
+
+Notes:
+Also on the bill - Blues Traveler, Pearl Jam, and headliners Neil Young & Booker T & The MG's
+
+Soundgarden1993-08-18t01.flac:5a27a7fe5cd8a07efee5d771aadcae26
+Soundgarden1993-08-18t02.flac:a5063d1345c9a12dd8e5b23c7859a8ac
+Soundgarden1993-08-18t03.flac:d07a2fc8893e5dc8b04ded1de0f52a9c
+Soundgarden1993-08-18t04.flac:f64ff03b6ba005c0fb3f7c3185926eb5
+Soundgarden1993-08-18t05.flac:3f5d45777944380eea8931aea06eafde
+Soundgarden1993-08-18t06.flac:48a5942828ff84ac299587b47f0c0d2d
+Soundgarden1993-08-18t07.flac:8c4ec9214b83d2b28da50d84d89e1e00
+Soundgarden1993-08-18t08.flac:a92baeb5d0a19ec0f4372d45200529b3
+Soundgarden1993-08-18t09.flac:25646f3ce0d40a7f21b5ff9b35cc1f99

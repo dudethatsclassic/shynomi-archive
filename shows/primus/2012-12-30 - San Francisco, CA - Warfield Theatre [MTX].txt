@@ -1,0 +1,60 @@
+Primus - Holiday 3D Tour
+December 30th, 2012 (Sunday)
+Warfield Theater
+San Francisco, California
+
+2 Source Matrix
+
+Source 1:  Core Sound Binaurals > 9v battery box (filter on) > Sony PCM M10 @ 24/48 by LeifH [2012#65]
+Source 2:  Neumann KM 140 > AETA Audio Systems PSP 2 > Zoom H4n @ 16/44 by CHOP & BIGT aka IAMHAMMERED
+Transfer:  .WAV > Wavepad Masters Edition (edits, mixdown, tracking) > flac (8) via TLH
+
+Setlist:  02:26:24
+01 intro
+02 American Life
+03 Duchess and the Proverbial Mind Spread
+04 Moron TV
+05 Groundhog's Day
+06 Over the Falls
+07 Lee Van Cleef
+08 Bob
+09 Jerry was a Racecar Driver
+10 The Toys Go Winding Down
+-intermission-
+11 Eyes of the Squirrel
+12 Is It Luck?
+13 Southbound Pachyderm
+14 Eternal Consumption Engine
+15 Glass Sandwich
+16 Hamburger Train
+17 Del Davis Tree Farm
+18 Spegetti Western
+19 Frizzle Fry
+-encore-
+20 Electric Funeral [Black Sabbath]
+21 Too Many Puppies > Hello Skinny [The Residents]
+
+These two sources sound great together, one being a pair of omnidirectional mics and the other a pair of cardioids.  Track 19, Frizzle Fry, is the CSB source only.  
+
+fingerprints:
+Primus20121230Matrix01 - intro.flac:1ed6a725d0b2bf3819e2f363169b343a
+Primus20121230Matrix02 - American Life.flac:f9b4f355007f5541ff7c9381fe11ff2f
+Primus20121230Matrix03 - Duchess.flac:ce62392abe51e7f4cba06344fdde5384
+Primus20121230Matrix04 - Moron TV.flac:eca2a8858a8621bf758bdbed83dbed8c
+Primus20121230Matrix05 - Groundhogs Day.flac:e6320f8162bb5c7387004a0f12d20c87
+Primus20121230Matrix06 - Over the Falls.flac:1daf8682275bf56146fa8399003ea562
+Primus20121230Matrix07 - Lee Van Cleef.flac:37d06af4b7d18a6dac9619505735b0ff
+Primus20121230Matrix08 - Bob.flac:dcf164c2357d28c5abab89fda452521b
+Primus20121230Matrix09 - Jerry.flac:d0abbed1aead20d002b6a8c97030bdb2
+Primus20121230Matrix10 - Toys.flac:cc527357176342318142f0cc1245f53e
+Primus20121230Matrix11 - Eyes of the Squirrel.flac:871347961a7dab6d4b233381bed33714
+Primus20121230Matrix12 - Is It Luck.flac:0a0f5fa1813b03da85b2ef40e099ded1
+Primus20121230Matrix13 - Southbound Pachyderm.flac:007521ba9ed7caf581c4ba4384233840
+Primus20121230Matrix14 - Eternal.flac:34b3f0074a251f66af147519c609c6ab
+Primus20121230Matrix15 - Glass Sandwich.flac:0716210ec58959bb91fcc3fefa24813c
+Primus20121230Matrix16 - Hamburger Train.flac:381eed20c10a928f8f9c0f9b915312ca
+Primus20121230Matrix17 - Del Davis.flac:cbeb0f995688ba9c49d50567256434cd
+Primus20121230Matrix18 - Spegetti Western.flac:f278c2dc3f3749fff4d55207e88c8d82
+Primus20121230Matrix19 - Frizzle Fry.flac:0e1e1d8a19748f27bc08479dfef9154a
+Primus20121230Matrix20 - Electric Funeral.flac:51a692278e06f2a5931166679933d3a2
+Primus20121230Matrix21 - Too Many Puppies.flac:2d9ab5884213a3750e36830b55e0f7ae

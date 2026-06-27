@@ -1,0 +1,10 @@
+01 -intro-.flac:fa7f06b5c011616238c840ded21c45f5
+02 Wake Up.flac:fd68ecf02fa67f4f386c8dcbc2f68888
+03 Take The Power Back.flac:f5ddc2f162bac11ed48cedaa1efbf3f0
+04 People Of The Sun.flac:3f3caa012433f7f710199bfb593c1281
+05 Bombtrack.flac:4e926980dc0ca77c8aa3d8b1bf7d2b4b
+06 Darkness Of Greed.flac:ae1e2174d2741cb62ef96d7333f2338a
+07 Bullet In The Head.flac:a574af75b2bb5237ed75a1145fc6d4ef
+08 Killing In The Name.flac:c6424cfade82720dca6b425eccbf899c
+09 They Had To Be Playing The Jukebox.flac:0ff0d4a09a3af529c5e1228d792e1d94
+10 Freedom.flac:9bd6525724eb256105af51c7b9496c6f

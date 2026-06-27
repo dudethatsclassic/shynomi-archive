@@ -1,0 +1,106 @@
+Sonic Youth - 2003 05 24 Primavera Sound Festival, Barcelona, SPA
+
+Show note:
+Primavera Festival. Lively show, with some singalongs from the crowd. Definately sounds like an outdoor gig :)
+24,000 people attended in 2003, and the number of acts also increased to more than 90 groups and DJs both local and international. Five areas were arranged at the Poble Espanyol site for the night shows (Nitsa-Apolo, Rockdelux by Lois, CD Drome, Nasti and Psicolabis). An extra site was added to the festival: Mercat de les Flors, for the day time activities: the Primavera Soundtrack Film Festival and the Record label Fair, which included two stages (acoustic and electric) where the label's bands showcased their works. Acts included Belle And Sebastian, Yo La Tengo, Teenage Fanclub, Arab Strap, I Am Kloot, Sonic Youth, Mogwai, The White Stripes, Television, Beef, The Go-Betweens, 2 Many Dj's, Julian Cope, Baxter Dury, Roni Size, Ed Harcourt, Antònia Font, Lcd Soundsystem, Märtini Brös, Erol Alkan, Gold Chains, Godspeed You! Black Emperor, Hangedup, The Streets, Baby Zizanie, A Room With A View.
+
+Editing note:
+The right channel was significantly maxed & limited.  There's some mic noise in places. I raised the bass and a bit of the treble, normalized each channel seperately, limited some of the transients on the right channel (mostly clapping) and evened the volume levels of each channel to be the same. I ended up retracking the show, just as I like to have each track start with the start of the song.
+
+0 intro
+1 The Empty Page
+2 Rain on Tin
+3 Plastic Sun
+4 Mote
+5 Brother James
+6 Mariah Carey & The Arthur Doyle Handcream
+7 Sugar Kane
+8 Karenology
+9 Drunken Butterfly
+10 Radical Adults Lick Godhead Style
+11 100%
+
+Festival Lineup
+
+2manydjs (DJ Set)
+A Room With A View
+Adam Beyer
+Adam Green
+Airbag
+Antònia Font
+Arab Strap
+Astronaut
+Audience
+Baby Zizanie
+Bart Davenport
+Baxter Dury
+Beef
+Belle & Sebastian
+Calc
+Cobra Killer
+Cola Jet Set
+Console
+Dead Capo
+DJ Rupture
+Djs Are Not Rockstars
+DMX Krew
+Ed Harcourt
+El-P
+Ellen Allien
+Erol Alkan
+Euro-Trash Girl
+Folk Implosion
+Future Bible Heroes
+Glissando
+Godspeed You! Black Emperor
+Gold Chains
+Gurus
+Hangedup
+Henry
+Holland Park
+I Am Kloot
+Ikara Colt
+J.G. Thirlwell
+JerônimoJohn Parish
+Julian Cope
+L'altra
+Larry Tee
+LCD Soundsystem
+Le Hammond Inferno
+Lena
+Mano De Santo
+Martini Bros
+Mary Gauthier
+Michael Mayer
+Migala
+Mogwai
+Morning Star
+Motormark
+Peaches
+Pipas
+Rahim
+Roni Size
+Scratch Perverts
+Soledad Brothers
+Sonic Youth
+Standstill
+Super_Collider
+Tan Low
+Teenage Fanclub
+Television
+Thalia Zedek
+The Go-Betweens
+The Kills
+The Streets
+The Tea Servants
+The White Stripes
+Tocotronic
+Tokyo Sex Destruction
+Umek
+Vacaciones
+Whirlwind Heat
+Wire
+Yo La Tengo
+Zola
+	
+Lineage: Sony ECM-TS125 > Sony MZ-R700 MiniDisc Audience Master > EAC (WAV + CUE) > SoundForge (channel adjustment) > CDWAVE (split) > FLAC

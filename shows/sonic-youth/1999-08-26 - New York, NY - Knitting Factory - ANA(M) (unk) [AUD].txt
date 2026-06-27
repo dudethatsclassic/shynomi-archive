@@ -1,0 +1,22 @@
+Sonic Youth - 1999 08 26 @ Knitting Factory, NYC, NYC
+
+Show note:
+This was billed as a Thurston gig, but the full band played. Early instrumentals, but Lightnin'.
+
+Transfer note:
+THis is a strange one.  Each song had a short gap before and after, but after removing the gap, the sound didn't transition, so I am not what happened - unless the taper removed applause & tuning and then recorded as track-at-once. Sound quality is a little odd as well, listening to "StreamXSonik Subway" you might think this was a show from 1981 not 1999.
+
+1 Free City Rhymes 
+2 Renegade Princess 
+3 Nevermind (What Was It Anyway) 
+4 Small Flowers Crack Concrete 
+5 Side2Side 
+6 StreamXSonik Subway 
+7 NYC Ghosts & Flowers 
+ encore: 
+8 Lightnin' 
+
+Opening for:
+US Maple
+
+Lineage:  Audience Master > CDR > EAC > WAV > SoundForge (gap removal) > CDWAVE (splits) > FLAC

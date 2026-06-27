@@ -1,0 +1,25 @@
+Rage Against the Machine
+1993-06-23
+Shoreline Amphitheatre
+Mountain View, CA
+Lollapalooza Festival
+
+Taper: Unknown
+Taping Location: Unknown
+Lineage: Unknown Aud -> Cassette -> Nakamichi DR-3 -> Audacity -> FLAC
+Transfer Notes: Removed hiss via noise distortion, but that's it.
+Length: 35:39
+
+Setlist:
+
+1. People of the Sun
+2. Bombtrack
+3. Hadda Be Playin on a Jukebox (Allen Ginsberg poem)
+(Zack speaks)
+4. Killing in the Name
+5. Bullet in the Head
+6. Wake Up
+
+Notes: One of the channels is significantly louder than the other and a bit overloaded. I kept it as is for now, but may adjust in the future. There are at least two audience recordings of Tool from this date, so I'd like to cross reference to see if I can make a guess at lineage. The two Tool recordings that are known to exist are Song ECM-909 and Sony PC-62 microphones both feeding into a Sony WM-D3. If anyone has any guess please get in touch.
+
+I run a Rage Against the Machine live archive at http://ratm.live . Please get in touch if you know anyone that taped Rage or has any recordings of Rage!

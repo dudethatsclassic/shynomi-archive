@@ -1,0 +1,52 @@
+Primus
+Saturday, September 25th, 2010
+Pacific National Exibition Forum,
+100 North Renfrew Street - PNE Grounds,
+Vancouver, BC, Canada
+
+Taper: LeifH
+Source: CSB's w/b. box (Filter) > Sony WM D6C (Dolby B on for recording) > Maxell XL-II C-90 (x2)
+Transfer: Master cassettes > Pioneer CT-S405 (Dolby off) > H/K 3500 > Creative X-Fi Soundblaster > Wavepad Master's Edition @ 48000kz > downsample to 16/44.1 > flac (8) via Frontend
+
+Setlist:  1:33:04
+00 intro music
+01 Here Come the Bastards
+02 Fisticuffs
+03 Behind My Camel >
+04 Groundhog's Day
+05 the shoe
+06 Sgt. Baker
+07 Southbound Pachyderm
+08 Over the Falls
+09 Sathington Willoughby [cut]
+10 Spegetti Western
+11 drums and whamola
+12 Eleven
+13 Kalamazoo
+14 Bob
+15 Jerry Was a Racecar Driver
+16 Frizzle Fry
+
+This was my first time seeing Primus or Les Claypool, and I can't wait to see them again.  It was a kick ass show, the sound was good for the PNE Forum, and while the security was kind of tight going in, it was the most relaxed inside I've seen it in a while.  Before Primus even started, 3 different people were in need of flame and shared their joints with me.  I also smoked one of my own during Behind My Camel and Groundhog's Day (nice, slow burning stuff).  Les Claypool had a sort of cowboy get-up on, and during the whamola section he had on a monkey mask.  It seemed to be a more quiet night for the band, but still lively and awesome.  I had to tap on a couple of people's shoulders and signal them to STFU, but for the most part the audience wasn't too chatty.  The reason track 5 exists is because someone threw a sneaker at Les' shoulder, you should be able to figure out the rest.  Sathington Willoughby is cut due to a messy tape flip that took too long as my mic cable became unplugged.  After Kalamazoo, someone was trying to make their way to the front and offered me some of his joint, making that the fifth joint of the night for me.
+
+After the show, some fellow tapers and myself got together, smoked a few bowls, and compared recordings.  So to my knowledge, there's at least 8 channels of lossless audio, and at least 1 HD video source.  Hopefully they all get released at some point.  Satisfaction not guaranteed.  I wore a semi big winterish jacket into the show, as I'd rather go in with the clothes on my back than rely on a back-pack (which weren't allowed in anyway).  So I was sweating my ass off for the entire show with no water, and was about 8.5 on the cotton-mouth scale.  After the show it started to piss rain, so not only did I cool off right away, but all my shit stayed dry. 
+
+
+fingerprints:
+00 - intro music.flac:7a5189b45607d6ddae8ee689f451d640
+01 - Here Come the Bastards.flac:8ee4e4ddee0758876715ee0a3f567901
+02 - Fisticuffs.flac:503df720f03ce32d5b25df7a6b4ecb05
+03 - Behind My Camel.flac:b1ad1bbd37828f2056b0ec9c13d8533b
+04 - Groundhog's Day.flac:e5e43ae2526f951236cc294db374576b
+05 - the shoe.flac:b7118e4df1c7337ea897c93d42f95df9
+06 - Sgt. Baker.flac:3fdac565043c44079c867e09ce2253e6
+07 - Southbound Pachyderm.flac:0cbf3a8c8d0d9a44e03aabad84de00a5
+08 - Over the Falls.flac:cff9340a26ec05f711d31868cd0dcb85
+09 - Sathington Willoughby.flac:a63c5346a9053fd68cb2e2a47c47f26f
+10 - Spegetti Western.flac:11a88e9a4b5f0eb38cdc57fada785dea
+11 - drums and whamola.flac:b70e2b97d616f9a9f9a625cd0b5ba249
+12 - Eleven.flac:39d8732a9ae5b965518fc68186950bcf
+13 - Kalamazoo.flac:f55bf8d6dfdbaa35a38de0c6ce9594ef
+14 - Bob.flac:12e5d660ed33f1531ccf79fc3209bfab
+15 - Jerry Was a Racecar Driver.flac:6b9c71114a0f70a397265c9f29afa184
+16 - Frizzle Fry.flac:61bc10897a6d75d35c89be0551501bbf

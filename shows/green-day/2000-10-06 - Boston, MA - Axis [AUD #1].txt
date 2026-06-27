@@ -1,0 +1,45 @@
+Green Day at Axis, Boston, MA USA, October 06, 2000, audience recording.
+
+This was recorded with a Sony minidisc recorder, with these horrible mics designed to look like headphones, bought on ebay for way too much.  I'll add the exact model number in the comments when I find the recorder.  Minidiscs went direct from the recorder into Audigy Soundblaster SE.  Tracks split, remastering done, and cdrs made with Magix Music On CD And DVD program.  Discs converted to wav with Roxio Easy Media 8, flac with Flac Frontend.
+
+The sound quality on this gets a C+.  It sounds good, but there is a major distortion problem.  I fiddled about a bit with the Magix program, in an attempt to get rid of some of the distortion pop.  It worked, to a large degree, but it still sounds a bit awful.  It's still an enjoyable listen.
+
+The show itself was very loose.  It was a free show - you either had to win tickets on WAAF, or acquire them at a signing the night before at Newbury Comics at Alewife Station, Cambridge.  I went to the signing, wearing a WAAF shirt to ensure tickets.  I ended up knowing one of the ticket guys, so I still have an extra or two.  I got the Warning lp signed by the band (they wouldn't write on the record itself), and recorded this show.  While the recording is a bit rough, this is a prime example of this band having a blast, in a way we may never see again.
+
+Track 22 gets cut by the disc running out, and the last track also gets cut off, I think it was because the battery died.
+
+Enjoy responsibly.  Don't sell, and give credit when trading elsewhere.
+
+
+01 - Minority.flac:7225aea589bec764d9c966056d846fa0
+02 - Church On Sunday.flac:e013a6e7eb177d09fe01624278a3d3ee
+03 - Hitchin' A Ride.flac:1ea4973907a3e4caa02e6d730b66e956
+04 - Disappearing Boy.flac:1d3c23537c4224b41314335440287956
+05 - Dominated Love Slave.flac:49277a8bdadf49b999ab00a98e4a2bc3
+06 - Only Of You.flac:b40512118be10b0e3487d2ddbaafbeaf
+07 - Castaway.flac:4a7ac5b263fbc7e9478604690a91e48d
+08 - Longview.flac:e3dc776e30eaf913a583dbe9c80dbb97
+09 - Welcome To Paradise.flac:0801aa6d04a5622357129b33683fea66
+10 - 80.flac:40ff181ec84ed07035d0b0091edef723
+11 - J.A.R..flac:6ef49dd1165afcfd662df33bc557e0fb
+12 - Beat It - Runnin' With The Devil.flac:ac957df6573cc759a4612dcb6ed9bfdd
+13 - Surrender.flac:94be6e895feabcc98ccb55c1e4f56c50
+14 - Making The Fuckheads.flac:f0d548e5ad2f35f95356a0f6ca5c8b6c
+15 - Blitzkrieg Bop by the Fuckheads.flac:5c9f472190d570503c79eb2c15fd7860
+16 - Another One Bites The Dust.flac:2eaa4cb6e0004c0fbd53d284f4ffdb6d
+17 - My Generation.flac:1a5f8904db7bb412b5ab616409dc387f
+18 - Macy's Day Parade.flac:d5748d35396df258ec86482009b5a237
+19 - Coming Clean false start.flac:4251479fe6ef33feb716a69ac7c8552a
+20 - F.O.D..flac:5025640a9eb1a83d7d026bf3fd69d3f4
+21 - Geek Stink Breath.flac:7b7bae5c76db3fbef17ca463a82124e0
+22 - 2000 Light Years Away cut.flac:ccd4b1548ba74d85193de2f7f822077f
+23 - Blowing It Big Time.flac:390482435feaa4f202789ac108e5bf57
+24 - One Of My Lies.flac:6d06869712f365aa39ac40afbb186e98
+25 - Jackass.flac:17293d00c04aab391c17569acbb0c31e
+26 - Waiting.flac:87c7950692de7671a0aaea2b262c8e2d
+27 - Platypus (I Hate You).flac:cfd94fa173d9ef4b755bd5c330be7caf
+28 - King For A Day.flac:5578a063fedade1576fd871c45695cdb
+29 - Nice Guys Finish Last.flac:b4f2d0a92613194412552f18a7064c2e
+30 - When I Come Around.flac:a0743d07265b158855938f03e837f571
+31 - She.flac:ae7da6b8a298ceb50b82088dc4605f0b
+32 - Basket Case cut.flac:b14ffc41b4f611404838c28f3a50cb0b

@@ -1,0 +1,36 @@
+Toad The Wet Sprocket
+The Warfield
+San Francisco, CA
+December 16, 2002
+
+Taper:      Joe Polastre <polastre@cs.berkeley.edu>
+Source:     Neumann km184s > mp2 > da-p1 *All Audio Magic Cables
+
+1: Taper's section.  Floor, Right Center section, Second standing level
+(out of 4).  Board is located in the front center of the balcony which
+ends over the front of the third standing level.
+
+2: X-Y
+Conversion: Joe Polastre <polastre@cs.berkeley.edu>
+DAT>SHN:    da-p1 > dio 2448 > Cool Edit Pro > CDWav > SHN
+
+*** DO NOT ENCODE THIS SHOW INTO MP3 FORMAT ***
+
+Disc One:
+
+01:  Adam Duritz Introduces Toad                   -       00:23:69
+02:  Something's Always Wrong                      -       04:56:68
+03:  Whatever I Fear                               -       03:31:56
+04:  Woodburning                                   -       04:12:38
+05:  Crowing                                       -       03:07:20
+06:  Brother                                       -       05:12:44
+07:  Amnesia                                       -       04:23:66
+08:  Crazy Life                                    -       04:17:26
+09:  Walk On The Ocean                             -       02:58:34
+10:  All I Want                                    -       03:38:46
+11:  Know Me                                       -       05:26:43
+12:  Fall Down                                     -       03:24:42
+
+Total:                                             -       45:34:27
+
+*** DO NOT ENCODE THIS SHOW INTO MP3 FORMAT ***

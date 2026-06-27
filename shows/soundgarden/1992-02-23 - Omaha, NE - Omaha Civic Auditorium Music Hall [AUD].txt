@@ -1,0 +1,46 @@
+SOUNDGARDEN
+February 23, 1992
+Omaha Civic Auditorium Music Hall
+Omaha, NE
+
+SOURCE:
+Realistic 33-1065 > Aiwa HS-J707
+
+TRANSFER:
+Nakamichi CR-7A > Hosa RCA cable > PreSonus FireStudio Project > Adobe Audition 3.0 > CD Wave 1.98 > FLAC frontend 1.7.1
+
+GENERATION:
+ANA(M) > WAV [48kHz/24bit] > WAV [44.1kHz/16bit] > FLAC [Level 8]
+
+LENGTH:
+50:26
+
+TRACKS:
+01. Searching With My Good Eye Closed
+02. Jesus Christ Pose
+03. Face Pollution
+04. Gun
+05. Beyond The Wheel
+06. Rusty Cage
+07. Big Dumb Sex
+08. Outshined
+09. Slaves And Bulldozers
+
+FLAC FINGERPRINTS:
+soundgarden1992-02-23t01.flac:eea77f90f51afb67afb725461a8d3340
+soundgarden1992-02-23t02.flac:16365a332d0243b83ce59699496ba234
+soundgarden1992-02-23t03.flac:24ad97a8bb990f8bde245972a1415168
+soundgarden1992-02-23t04.flac:580a91ad70b6aefc48f81c0dbeaed252
+soundgarden1992-02-23t05.flac:57cc01f75a311cfc4ada3b68f59b8f97
+soundgarden1992-02-23t06.flac:d63def6a04dbed194541df1d5e1298b5
+soundgarden1992-02-23t07.flac:d753e86402d181e4dbacacaf28fbffd3
+soundgarden1992-02-23t08.flac:6da5ba331c6676e1d0de00197c4a1ad1
+soundgarden1992-02-23t09.flac:7df053be73cb41ff6c15168fe8b31dcb
+
+RECORDED BY:
+Brad C. (provided by Charley C.)
+
+TRANSFERRED BY:
+Mike Ziegler
+
+PLEASE DO NOT SELL OR ENCODE TO MP3

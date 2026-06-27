@@ -1,0 +1,94 @@
+Primus w/Don Hoser
+New Year's Day Hawaiian Hukilau
+Sunday, January 1st, 2012
+Great American Music Hall,
+859 O'Farrell Street,
+San Francisco, California, USA
+
+Taper:  LeifH
+Source:  CSB's (filter) > Sony PCM M10 @ 24/96 > Duracell 8GB microSD card
+Transfer:  Memory card > PC via USB > EQ in foobar2000 > Wavepad Master's Edition for edits and downsample to 16/44.1 > flac (8) via TLH
+
+Set  I:  1:08:34
+00 intro music
+01 Here Come the Bastards
+02 Duchess and the Proverbial Mind Spread
+03 Seas of Cheese (extended)
+04 The Pressman
+05 John the Fisherman
+06 Bob
+07 The Toys Go Winding Down > 
+08 Pudding Time
+09 the hangover show...
+10 Mr. Knowitall
+11 Groundhog's Day
+
+Set II:  1:19:41
+12 Prelude to Crawl
+13 Hennepin Crawler
+14 The Last Salmon Man
+15 Eternal Consumption Engine
+16 Tragedy's A Comin'
+17 Eyes of the Squirrel
+18 Jilly's On Smack
+19 green naugahyding it...
+20 Lee Van Cleef
+21 Moron TV
+22 The Green Ranger
+23 HOINFODAMAN
+24 Extinction Burst 
+25 Salmon Men
+
+26 Sgt. Baker (alternate)
+27 Tommy the Cat > 
+28 Silly Putty/Jam > 
+29 Tommy the Cat
+
+Total Run Time:  2:28:15
+
+
+I took BART downtown and walked from Civic Plaza to O'Farrell Street both nights.  What a nice, friendly neighbboorhood!  You just have to watch out for feces and urine on the sidewalks.  The Tenderloin was one of the areas of SF I may have passed through driving during previous visits, but hadn't walked through.  Don't spend all your change on one bum!
+
+I met a few cool people while hanging outside before the doors opened, and while waiting for the show to begin.  I had no idea how small and intimate the Great American Music Hall is until I got inside.  The pictures I had seen of the interior made it seem deeper.  I think it's a spectacular venue for live music.  The acoustics are great, and its very ornate.  The frescoes and other designs and faces can start to play tricks on your vision.  There was also a video screen playing clips in time with the music.  When the crowd starts jumping the floor acts almost like a trampoline.  The place was decorated with a Hawaiian theme, and many people were dressed in Hawaiian shirts for the contest.  I almost wish I bought dinner tickets, but then I wouldn't have had much time to eat.  Les Claypool's wines were available for consumption at the show, too.  I found out this night that Furthur had played three nights at the Bill Graham Civic Auditorium.  I wish I'd known as I would have gone to at least the Friday show.  
+
+I stood under the chandelier on the dance floor, centered between the third marble columns.    
+
+Don Hoser was interesting.  Can't say I've ever seen a show quite like his.  He wasn't keeping many people's undivided attention, but I noticed most of the crowd swaying along to his tunes.  He played a half-hour set of covers including Tiny Bubbles and then about twenty minutes later Primus began.  His set is included here for your listening pleasure.  
+
+This was my fourth time seeing Primus.  It was like I never left the Hall the previous night.  My back was still sore and everything, hahaha.  Plenty of smokables floating around (thanks again).  Les wore the pig mask for Seas of Cheese.  Someone lost their keys on the floor during the first set, and some guy was waving them around, trying to find the owner.  Eventually he threw them on stage, and during the set break a roadie stumbled across them and took them away.  This was considered the Hang Over show.  The first set was all old tunes that they didn't play the previous night, and for the second set they were "Green Naugahyding it."  The start of the encore was Les playing Sgt. Baker solo, and not anything like the LP version.  Then during Tommy the Cat they started to jam and Les busted out the Silly Putty riff for a bit.  
+
+After this show, I was going to find a place to eat with some fellow concert goers.  We walked to their van, very pleased about the last two nights of Primus.  Our moods quickly changed when we got to their van and noticed some idiot smashed their passenger door window and snatched their GPS device off the dash (poor placement!).  Lucky for them and stupid of the thief, there was a LOT more stuff that could (should) have been stolen of much, much greater value.  Poor dogs were inside for the smash and grab and aftermath freakout.  I couldn't stick around too long because BART was on the regular Sunday schedule.  That must have sucked, hopefully the garbage bag held up for the trip back.  While I was walking to Civic Plaza, I saw some [place slur here] running away from a convenience store where he'd just busted some guy's skull over something.  Another guy started after him, but he had the speed of a tweeker.  "Get back here!  Stop where you stand nigga!  If I ever see you again I'll kill you!!"  "Fuck you!!!"  The guy running stopped and grabbed a short Christmas tree out of a garbage bin on the curb and began to smash the base apart for a section of 2x4 he could use as a weapon.  As he was smashing the thing I was closing in on him, and when I caught up he dropped the piece of 2x4 he was carrying that had nails sticking out of it.  I guess he must have been tweeking hard and thought I was a cop (I've got a plain, cop coloured jacket and look pretty straight for that neighboorhood).  He started walking away, as did I.  I had to laugh at some fool trying to scam me in the BART station.  "Hey man, I'll sell you this ticket, its still good."  He put it in the machine I was about to use.  It owed $5.35.  "No thanks.  I can give you a dollar, that's it."  "I wanna get some grub, that's not enough.  I'll give you this bottle of wine, too!"  He pulled out a brand new wine bottle.  I just went to the other machine.  "Ahh you're going to put that five in the machine?  You should trade."  Fuckin' crackheads.  
+
+
+fingerprints:
+primus2012-01-01d01t00.flac:bbc9e69a0b902424370817833b75902d
+primus2012-01-01d01t01.flac:a91837f47b93e751a0b83cde419367ab
+primus2012-01-01d01t02.flac:f58e56a056e36fb1a4c7ec46c335ad2d
+primus2012-01-01d01t03.flac:992dfcfca16c9effc50457391b087b1c
+primus2012-01-01d01t04.flac:1b5b48a4f5d257e3cdc928fe39b6ef67
+primus2012-01-01d01t05.flac:6fcf1015572b788a9b3790758c031d57
+primus2012-01-01d01t06.flac:7727017c0a5885f33fa330abb5cfaf1b
+primus2012-01-01d01t07.flac:3e61f53d7e046ff6b00963616ac44ed2
+primus2012-01-01d01t08.flac:b7d5aae39e1b00c33f49259a30852de1
+primus2012-01-01d01t09.flac:f527fe77d7187f9512162202071f6843
+primus2012-01-01d01t10.flac:8deac4a1cab4594c3bb7723be098490e
+primus2012-01-01d01t11.flac:7c723944348f33154450be5a1fe98711
+primus2012-01-01d02t01.flac:697363d20a0695020288b47dc6db2513
+primus2012-01-01d02t02.flac:fdc9eac2058642aa584c559bd7cbf5f7
+primus2012-01-01d02t03.flac:377ff0f61ee3ab0b622a4198302ff84c
+primus2012-01-01d02t04.flac:880e406c7367cd89f5e00c6e03c35bde
+primus2012-01-01d02t05.flac:f737803ef0b62e711fd6af97c4cc0b35
+primus2012-01-01d02t06.flac:99eb5aae30f4fd8c0056e597615beafb
+primus2012-01-01d02t07.flac:f52c8ade846be9297b0c87ce0133524c
+primus2012-01-01d02t08.flac:c40651046c8fcde26bf407960c174ba6
+primus2012-01-01d02t09.flac:91b1d90b8a9c3e77bcc98c0cb736b3e4
+primus2012-01-01d02t10.flac:d8c88caf2a84dde3045b2443ef75a618
+primus2012-01-01d02t11.flac:daf81b01e94b7c9f357fb25207dcd392
+primus2012-01-01d02t12.flac:8ad3377be8e8de9a13b4b8cfb641d087
+primus2012-01-01d02t13.flac:50db85bd60fa99567ddbc3ebd7c81563
+primus2012-01-01d02t14.flac:4d35b71bb5808fa1e34d7dfa4649e083
+primus2012-01-01d02t15.flac:0feccf5e95718e7a2b00dfdc72817c75
+primus2012-01-01d02t16.flac:e9524a0971b2ce349c5a66b2073bd467
+primus2012-01-01d02t17.flac:5873c8c9e908fe25ba21c0174147db8b
+primus2012-01-01d02t18.flac:f5e282296388e3de15f005854a650e4b
+primus2012-01-01d03t01.flac:2e4ee2278232a10134f9e05fbbaca45b

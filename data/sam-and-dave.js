@@ -20,7 +20,8 @@ const ARTIST_DATA = {
       "venue": "Trax",
       "notes": "WPIX 102FM",
       "version": "FM",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1979-10-27 - New York, NY - Trax (WPIX 102FM) [FM].txt"
     }
   ],
   "misc": []

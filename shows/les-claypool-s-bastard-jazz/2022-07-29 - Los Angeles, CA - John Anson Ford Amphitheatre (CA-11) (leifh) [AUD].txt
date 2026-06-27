@@ -1,0 +1,47 @@
+Les Claypool's Bastard Jazz
+Friday July 29th, 2022
+The Ford (John Anson Ford Amphitheatre)
+2580 Cahuenga Blvd. E
+Los Angeles, California
+
+Taper:  LeifH [2022#69b]
+Source 2:  CA-11 > Bat2B > A10
+Transfer:  PC via USB > RX9 > Wavepad > flac (8) via TLH
+
+Setlist:  02:16:40
+00 venue announcement
+01 Jam 
+02 Jam "Are Ya Happy?" 
+03 Jam 
+04 Jam (incl. Spegetti Western)
+05 Jam [*]
+06 Jam [*] "Here Comes Ler"
+07 Jam [*] "Beer Full of Cooler"
+08 Jam (incl. Tommy The Cat, One Better)
+09 Jam (incl. Riddles Are Abound Tonight)
+-encore-
+10 Jam (incl. Cosmic Highway, Wynona's Big Brown Beaver)
+
+Les Claypool - bass
+Stanton Moore - drums
+Mike Dillon - percussion, vibes
+Skerik - saxophone
+Larry "Ler" LaLonde - guitar synthesizer [*]
+
+Row EE Seat 7 (5th row, loc).  My first time at The Ford and wow what a nice spot to see a show.  
+My levels on the CA-11 source were way too hot for the first 2 minutes of music but I was able to smooth it out in RX, as well as attenuate and remove the most intrusive crowd moments.  
+
+Ler LaLonde joined in for a few jams with a Roland G-808 Guitar Synthesizer plugged into a GR-300.  He had a couple other effects and a little Vox Mini5 amp.  
+
+fingerprints:
+00 - venue announcement.flac:c3eb005fe03c6a6030a4a01047c063c9
+01 - Jam 1.flac:98bcee09ad4ef329f780b619c3f8e6e6
+02 - Jam 2.flac:857b1430943f035fbac06e51efb8bc00
+03 - Jam 3.flac:461937eb587e45dcdb1c84126653e802
+04 - Jam 4.flac:b468ca16337759428a93de65303ca953
+05 - Jam 5.flac:7835a70061aa2e646d9b756179060439
+06 - Jam 6.flac:bc785aeb84c81817bd08e4610138963b
+07 - Jam 7.flac:9e4def896dd6f3500d5dc846cad3b8e5
+08 - Jam 8.flac:875845249774aa51847f0ea9a7a6237a
+09 - Jam 9.flac:49a1e15eae8e1c9fa5e7dc86b3608022
+10 - Jam 10.flac:68b19a9b60540e4a5b726649e7b6d3a0

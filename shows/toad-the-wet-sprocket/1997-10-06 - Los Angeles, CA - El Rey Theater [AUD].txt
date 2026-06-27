@@ -1,0 +1,71 @@
+Toad the Wet Sprocket
+October 6, 1997
+El Rey Theater
+Los Angeles, CA
+
+Recorded by: Eugene Hu
+
+Source: AKG460B+CK63 -> Sonosax SX-M2 -> Panasonic SV-255 DAT master @ 48 kHz > 1 DAT clone
+
+DAT clone on Fostex D5 > optical SPDIF > Nomad JB3 WAV > Cool Edit Pro 1.2 (SRC 48>44.1) >
+CDWAV 1.71 > FLAC Frontend > FLAC
+
+Transfer and mastering by Jeff Lester <tdcrjeff@yahoo.com>
+
+01. Whatever I Fear [3:09]
+02. Way Away [3:15]
+03. Jam [3:23]
+04. Butterflies [5:16]
+05. Something's Always Wrong [4:14]
+06. Good Intentions [3:40]
+07. Desire [4:05]
+08. Always Changing Probably [5:23]
+09. Come Back Down [4:26]
+10. Nightingale Song [3:06]
+11. Crowing [4:20]
+12. Dam Would Break [4:08]
+13. Amnesia [4:44]
+14. Crazy Life [4:19]
+15. Hold Her Down [3:37]
+16. Walk on the Ocean [3:15]
+17. E1: Baby Beluga tease [1:05]
+18. Come Down [3:25]
+19. All I Want [3:48]
+20. Fall Down [4:01]
+21. E2: Night Fever tease - intros and thanks [1:46]
+22. Throw It All Away [3:11]
+23. Hey Bulldog [3:29]
+24. All Things in Time [3:55]
+
+Total time: 1:29:00
+
+To burn to audio disc, split between tracks 16 and 17.
+
+
+
+
+
+toad1997-10-06t01.flac:a7572f524247935e4d8da6c7539c830e
+toad1997-10-06t02.flac:2e2755757b69ec7a7885d6019f084826
+toad1997-10-06t03.flac:855cfda6847dc0cd38c22c14f7fc5a65
+toad1997-10-06t04.flac:2a43a05839fefccee5d921a74524b85c
+toad1997-10-06t05.flac:1066a8844414046f938f7abc7041827b
+toad1997-10-06t06.flac:d8e84eb8d2a3fea349cca96db4e5db53
+toad1997-10-06t07.flac:8da9aca46d45210a2ba89affb405f9c0
+toad1997-10-06t08.flac:ca4ab82f9cfe610a8dc6f5d659963aee
+toad1997-10-06t09.flac:61a5bee5b627b59bd8f66c71df85e18c
+toad1997-10-06t10.flac:023bc2fd9b90b5c2bc748068321fa57c
+toad1997-10-06t11.flac:60bae079c30d1bbb22ba0b82254729db
+toad1997-10-06t12.flac:6375483a8602c679a3ef275fc7239dd0
+toad1997-10-06t13.flac:c0caa0fa282e1a797afb21625464f605
+toad1997-10-06t14.flac:da7d939242a8fdb9e41e60398659fb60
+toad1997-10-06t15.flac:64fe8aa31704bc07ad4c75b50675f847
+toad1997-10-06t16.flac:b6189a767900faa394d726643a42e116
+toad1997-10-06t17.flac:caf728e19f1b9a633e3258daed3c25b6
+toad1997-10-06t18.flac:705febe3c008a0ec788d8dd62ea96e46
+toad1997-10-06t19.flac:62f3668797d74742a24097efd5d1f9cc
+toad1997-10-06t20.flac:ab94752fa316c3933407581aea6b80dc
+toad1997-10-06t21.flac:8dc45b83a63b31deda85b302075d3da1
+toad1997-10-06t22.flac:bd2cd9c1ffce0dcf12afb0cb39de0337
+toad1997-10-06t23.flac:810bce9cbbb361c6285ef9f465b4cd37
+toad1997-10-06t24.flac:93b6a5f1d1c9f8b66ba56733dcbe98f6

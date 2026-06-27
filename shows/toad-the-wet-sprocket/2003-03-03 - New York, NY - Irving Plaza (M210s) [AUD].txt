@@ -1,0 +1,42 @@
+Toad the Wet Sprocket
+March 3rd, 2003
+Irving Plaza, New York, NY
+
+Master:
+Microtech Gefell M210's>Oade M248>SBM-1>D8, D8>Tascam CDRW2000>CD
+FOB 25 feet from stage, dead center, mics 8 feet high
+by Jon Pasternak
+
+Extraction
+CD>xACT 1.66 (cdparanoia)>WAV>FLAC, all tracks extracted with no errors
+by Dave Mallick
+
+Disc 1 [54:21.66] (minutes:seconds.frames)
+01. Whatever I Fear          [03:51.21]
+02. Something's Always Wrong [04:21.31]
+03. Dam Would Break          [04:03.56]
+04. Rings                    [04:28.43]
+05. Fly From Heaven          [04:52.06]
+06. Crowing                  [03:30.62]
+07. All I Want               [03:19.13]
+08. Inside                   [05:14.30]
+09. Stupid                   [03:06.71]
+10. Ziggy Stardust           [03:34.67]
+11. Come Back Down           [04:16.46]
+12. Nightingale Song         [03:10.17]
+13. Train Wreck*             [04:14.45]
+14. Political Science*       [02:17.08]
+
+Disc 2 [43:52.46]
+01. Cool                     [04:02.56]
+02. Windmills                [04:38.69]
+03. Nanci                    [02:56.66]
+04. Walk On The Ocean        [03:16.46]
+05. Amnesia                  [04:29.49]
+06. Fall Down                [03:56.39]
+07. Crazy Life               [06:30.61]
+08. Hold Her Down            [03:36.14]
+09. Brother                  [04:24.02]
+10. All Things In Time       [06:00.19]
+
+* Glen solo

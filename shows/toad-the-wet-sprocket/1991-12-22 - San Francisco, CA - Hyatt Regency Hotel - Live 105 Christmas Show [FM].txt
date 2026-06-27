@@ -1,0 +1,27 @@
+Toad the Wet Sprocket
+December 22, 1991
+Hyatt Regency Hotel
+San Francisco, CA
+
+Live 105 Christmas Show
+
+FM broadcast > cassette master > CDR
+(unknown transfer method, probably analog input to soundcard)
+some distortion, hiss, and FM fuzziness
+
+1 CDR clone > EAC V.09 beta 3 -> Cool Edit Pro 1.2 ->
+CDWAV 1.71 -> mkwACT 0.97 Beta 1 -> SHN (seekable)
+
+EAC>normalization>retracking>SHN by Jeff Lester <jeff.lester@verizon.net>
+
+1. Walk on the Ocean (3:16)
+2. Something to Say (3:50)
+3. Way Away (2:52)
+4. Nightingale Song (2:16)
+5. Spirit (1:57)
+
+Total: 14:14
+
+Glen Phillips and Todd Nichols
+with Glen's brother Dan (percussion?)
+and Angus Cooke on cello

@@ -18,9 +18,10 @@ const ARTIST_DATA = {
       "state": "TX",
       "location": "Houston, TX",
       "venue": "House of Blues",
-      "notes": "Neumann AK40 · brad wolf",
+      "notes": "Neumann AK40 \u00b7 brad wolf",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "2009-06-08 - Houston TX - House of Blues [AUD].txt"
     }
   ],
   "misc": []

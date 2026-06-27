@@ -1,0 +1,77 @@
+CHEVELLE
+April 21, 2024
+Hard Rock Live @ Hard Rock Hotel & Casino at Fire Mountain
+Wheatland, CA, US
+
+SETLIST:
+-------------------
+00. intro/banter
+01. Verruckt
+02. An Island
+03. Door to Door Cannibals
+04. Self Destructor
+05. Vitamin R (Leading Us Along)
+06. Young Wicked
+07. Joyride (Omen)
+08. Take Out the Gunman
+09. Face to the Floor
+10. Hunter Eats Hunter
+11. The Clincher
+12. Jars
+13. Forfeit
+14. Send the Pain Below
+15. The Red [Pete solo through first chorus]
+16. Comfortable Liar
+17. Piistol Star (Gravity Heals)
+18. Hats Off to the Bull [w/ guitar solo intro]
+19. I Get It
+20. Mars Stimula [w/ feedback ending]
+
+
+SOURCE:
+-------------------
+AUD #1 - Quality: 9.5
+Sound Professionals SP-CMC-4U > Sony PCM-A10
+
+Recorded by: vibrioidxire
+
+TRANSFER:
+-------------------
+Sound Professionals SP-CMC-4U (AT-U853's, with SP UE-H-PAIR hypercardioid caps mod) > Sound Professionals SP-SPSB-10 Power Module > Sony PCM-A10 High-Resolution Digital Audio Recorder > WAV [48kHz/24-bit] > USB connector > Insignia NS-PA3C3A USB-C to USB adapter > Apple MacBook Pro (16-inch, 2021) > Adobe Audition 23.2 [post-production/mastering] > xACT 2.55 > FLAC [Level 8]
+
+GENERATION:
+-------------------
+WAV(M) [48kHz/24-bit] > FLAC [Level 8]
+
+NOTES:
+-------------------
+- Any worthy notes, or even mastering notes.
+
+
+FLAC FINGERPRINTS:
+-------------------
+chevelle2024-04-21_AUD1_t00.flac:5455f40f8f962f8207bb989aa963da76
+chevelle2024-04-21_AUD1_t01.flac:b703e66bf6fed8efc1f89543083ef5ed
+chevelle2024-04-21_AUD1_t02.flac:542849a8f0f4e827e8a6afafe79af30c
+chevelle2024-04-21_AUD1_t03.flac:c9a5d22343cde242bfd419c92e852326
+chevelle2024-04-21_AUD1_t04.flac:fe366b31eb4ea025cdfd541540db5b56
+chevelle2024-04-21_AUD1_t05.flac:477226b9bb8b8dd9c774043212326a80
+chevelle2024-04-21_AUD1_t06.flac:206f64ce5c8ed816149b10500593dac9
+chevelle2024-04-21_AUD1_t07.flac:f0235506ffd78c5f0ad23ff9229c82b0
+chevelle2024-04-21_AUD1_t08.flac:f7880747c510a914c598d5ced0a95bdb
+chevelle2024-04-21_AUD1_t09.flac:3f610cd3720082ad73d331cd0fdf54c5
+chevelle2024-04-21_AUD1_t10.flac:6880ab223dc1e925d4a1b04f1d20c987
+chevelle2024-04-21_AUD1_t11.flac:a92a8b7e5b155eb48560b02f6b3ae9ab
+chevelle2024-04-21_AUD1_t12.flac:5ae6734c5ccb7ee6f02d071fe580562a
+chevelle2024-04-21_AUD1_t13.flac:d9d505aeb8d9c77fbd1720603d9e0a3a
+chevelle2024-04-21_AUD1_t14.flac:08a21282bff47f760775772b7aa534d0
+chevelle2024-04-21_AUD1_t15.flac:9f492ebdd695647ffa840285ddebac47
+chevelle2024-04-21_AUD1_t16.flac:f426a0afc6c341c8407c63af793c0753
+chevelle2024-04-21_AUD1_t17.flac:deaefc22862df2256f6d8d19a6797234
+chevelle2024-04-21_AUD1_t18.flac:88f6e8207f038c0df1228118d8cb0316
+chevelle2024-04-21_AUD1_t19.flac:0dbb3ec777798ff81979dd5f292d1858
+chevelle2024-04-21_AUD1_t20.flac:5f6661193981506d7b279e6d418ceb5e
+
+
+Transferred and encoded by: vibrioidxire
+PLEASE DO NOT DISTRIBUTE IN LOSSY FORMATS OR SELL!

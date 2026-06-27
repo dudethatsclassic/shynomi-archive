@@ -1,0 +1,58 @@
+Primus
+Tuesday July 28th 2015
+Mountain Park
+Holyoke MA USA
+
+Taper:  LeifH
+Source:  CSB (filter) > Sony PCM M10 @ 24/48 > Lexar 16GB microSD card
+Transfer:  Memory card > PC via USB > Wavepad Master's Edition (edits, amplify, downsample to 16/44.1) > flac (8) via Frontend
+
+Setlist:  1:47:15
+00 intro
+01 To Defy The Laws of Tradition
+02 Last Salmon Man
+03 Wynona's Big Brown Beaver
+04 Frizzle Fry
+05 Over the Falls
+06 Lee Van Cleef
+07 The Toys Go Winding Down
+08 Oompa Augustus
+09 Mr. Krinkle
+10 Jilly's On Smack
+11 drums and whamola
+12 Eleven
+13 My Name Is Mud
+14 Jerry Was a Race Car Driver
+
+15 Here Come the Bastards
+
+16 Bonus: 17 Port-o-potties (sound check)
+
+My 18th Primus show.  I arrived fairly early.  Around 2PM I think.  The main gate was being guarded by a security employee.  Since I couldn't get in yet, I walked along the road/trail that loops around the park.  A very creepy guy sorta came out of nowhere.  Instant bad vibes.  He wanted to talk, and kept inching closer, and closer.  I'd take a step or two to the side and he'd step closer.  It was 95 degrees so I walked toward some shade in an attempt to end the conversation.  He started into the weird talk, going on about watching people having sex on the trail, at the abandoned hotel at the top, then asking me if its something I'm into.  I shook my head and some long, awkward silence ensued.  Since he seemed to want to walk which ever direction I would go, I just stayed in the shade and eventually he took off.  I waited a bit, then walked a little further, and who's waiting around the corner, the creepy guy!  He changed directions all of a sudden and that was the last I saw of him.  Was it the last he saw of me?  I don't want to know.
+
+I was still really early for the show.  I poked around and found a maintenance gate that had a partial view of the stage.  At the time there was nobody guarding it.  I could have easily hopped the fence and found a nice hiding bush until the gates opened.  But some of the Primus crew would have recognized me and wondered how the hell I got in if I was spotted, plus I had already purchased a ticket.  Being an international visitor, I wasn't up for extra risks.  However, this maintenance gate provided a mic stand and I recorded the sound check.  Its nothing much, no songs or anything.  They're just kind of making sure everything is plugged in and works.  I had to use a port-o-potty which was really why I kept thinking about sneaking in.  During a vocal mic check, somebody was counting the port-o-potties.  It was ironic I guess.  They were so close yet so far.
+
+Les wasn't happy with his sound right from the very start.  He was playing with settings on his pedal board and rack mount during the first few songs.  You can hear a delayed To Defy The Laws Of Tradition and some one handed tapping during Last Salmon Man.  Then he called the crowd Springfield which wasn't well accepted.  As an out-of-town-er its the same place to me.  Over The Falls featured a guitar solo by J Mascis from Dinosaur Jr instead of Ler.  I thought it didn't really fit with the song.  You might say its terrible!  Lots of smoking going on at this show.  Security was tame.  I saw someone catch a setlist and asked them if I could take a picture of it.  They refused, and it seemed like they were afraid that me or someone else would try to snatch it.  By the end of the show, all these odd things happened; the creep, unhappy Les, a bad guest solo and a setlist hoarder.  
+
+Pretty good sounding recording.  Venues like this that are surrounded by trees are cool, especially at night.  There was another taper at this show, using a handheld Olympus recorder.  They said they never transfer the stuff or anything, just listen to it off the SD card.  I didn't bother asking to trade.  I also recorded Dinosaur Jr but for some reason I didn't record The Ghost Of A Sabre Tooth Tiger.  I got a really good recording of them in Portland the night before, so I think I just wanted to take it in.  It was afterall the same setlist as the previous two shows.  Cage Claypool was walking around the venue quite a bit and watched parts of the opening bands from side stage.  Scott Helland from Deep Wound was at this show and played bass on one song with Dinosaur Jr.  Apparently Ed Mann and a member of Sonic Youth were also in attendance.
+
+Everyone wanted to clear out of the park all at once.  The sloped, gravel parking lot got messy and some cars were having trouble getting out.  Thanks to a very kind fan, I got a lift back to Springfield.  
+
+fingerprints:
+00 - intro.flac:151871d1bd680f1dcedf17adc59213c2
+01 - To Defy the Laws of Tradition.flac:0dea1a1c76ea03c97651a2d04c3c8ea1
+02 - Last Salmon Man.flac:54c6e89920b97f8c3e3871aab341215d
+03 - Wynona's Big Brown Beaver.flac:582cf76bdca8c877a629b6caaa1778b9
+04 - Frizzle Fry.flac:d37ac938b59a69b69507677d181c99e4
+05 - Over the Falls.flac:3c104b8efca2b42bb68195ea18d34ba5
+06 - Lee Van Cleef.flac:8cc485f82adc7419bc62dc377013890d
+07 - The Toys Go Winding Down.flac:5cab66f3a04e2b00e74c524ed518d994
+08 - Oompa Augustus.flac:40ffbc68708d6c2fca32f4a04c823583
+09 - Mr. Krinkle.flac:4f3bc1510de4f6e623d56e0022361bd9
+10 - Jilly's On Smack.flac:15d830cd8c9c18a90adacbbe8b5582f8
+11 - drums and whamola.flac:202d40b9c4a5df8bc31b4c3da856cd66
+12 - Eleven.flac:37195ca70755d7a93a7076c69fb488ac
+13 - My Name Is Mud.flac:bdf3fe39b39ba6476a91631cde13bc22
+14 - Jerry Was a Race Car Driver.flac:69105416c96613b07ec932149dce8590
+15 - Here Come the Bastards.flac:69abd866f27606eb435cffe172cbfaad
+16 - 17 Port-o-potties (soundcheck).flac:71261f02c9fb6ec44429e2f1053c6d6b

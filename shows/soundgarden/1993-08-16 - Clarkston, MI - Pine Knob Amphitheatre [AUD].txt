@@ -1,0 +1,30 @@
+SOUNDGARDEN
+August 16, 1993
+Pine Knob Amphitheater
+Clarkston, MI, USA
+
+Tracklist:
+1. Gun
+2. Kickstand
+3. My Wave
+4. Let Me Drown
+5. Outshined
+6. Rusty Cage
+7. Spoonman
+8. Fell on Black Days
+9. Jesus Christ Pose
+
+Equipment: unknown analog audience
+Source: ANA3>CDR1>WAV>FLAC [6]
+Quality: 7.8/10 (B+/A-)
+Time: 42:28
+
+01-gun.flac:93253ce3ec990b069c607694e3b04906
+02-kickstand.flac:477e0c0345223cc9fd6fd65ad0df6062
+03-my wave.flac:3043acf6143da7b239aa4ef4c36d1006
+04-let me drown.flac:583b9f66a2478245d2cf2800bd395151
+05-outshined.flac:f7fb6fa97e2d83fcd5f12d1d1e3b3f5a
+06-rusty cage.flac:7533123c3e4e1b597f5d7c3180f68339
+07-spoonman.flac:22f4abcc91503618c0a02a242c955159
+08-fell on black days.flac:b63f572869faa41e65b2b60d8c82c595
+09-jesus christ pose.flac:96cd012dec151f9bc20cbd7e63285cfb

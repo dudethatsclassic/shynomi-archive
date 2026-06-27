@@ -1,0 +1,76 @@
+SOUNDGARDEN
+February 1st, 2012 
+Sidney Myer Music Bowl
+Melbourne, Australia
+
+SOURCE (AUD #2):
+Sony ECM-717 > iRiver H320 (rockboxed)
+
+TRANSFER:
+iRiver > USB > Sound Forge 9.0 (volume adjust) > Traders Little Helper 2.6.0
+
+GENERATION:
+WAV[44.1khz] > FLAC [Level 8]
+
+LENGTH:
+2:08:40
+
+NOTES:
+- The crackling noise from the kick drum, such as on the first verse of 'Fell On Black Days' was coming 
+through the PA, not a recording defect.
+
+Setlist: 
+01. Searching With My Good Eye Closed
+02. Spoonman
+03. Jesus Christ Pose
+04. Hands All Over
+05. Blow Up the Outside World
+06. Hunted Down
+07. Drawing Flies
+08. My Wave
+09. The Day I Tried to Live
+10. Pretty Noose
+11. Burden in My Hand
+12. Fell on Black Days
+13. Ty Cobb
+14. Rusty Cage
+15. Outshined
+16. Let Me Drown
+17. Black Hole Sun
+18. Loud Love
+19. Superunknown
+20. 4th of July
+*encore*
+21. Beyond the Wheel
+22. I Awake
+23. Slaves & Bulldozers
+
+
+MD5 FINGERPRINTS:
+742528d8cfc0a9e1aa3b6f729319f39d *soundgarden2012-02-01t01.flac
+7b92c61e5e6bda737aa9b9802b8ca941 *soundgarden2012-02-01t02.flac
+41b8884c03501d96858823ea41c5eb14 *soundgarden2012-02-01t03.flac
+057cacc2128b0282df18d3f78a30e73c *soundgarden2012-02-01t04.flac
+3ed3263833041ec0d1de05a0a90bd6d3 *soundgarden2012-02-01t05.flac
+57cc5e7b3675cef5b01e2e5915a2e114 *soundgarden2012-02-01t06.flac
+d77317c9d60a74f45f44bceb171e4060 *soundgarden2012-02-01t07.flac
+8bae014d1a66810f2e30bc5ca2685a3e *soundgarden2012-02-01t08.flac
+ef61fa93adae3fb3f4947d1997c5fad5 *soundgarden2012-02-01t09.flac
+edd0fc2259a0fba999cc320aab998143 *soundgarden2012-02-01t10.flac
+5233285b2572a34d813895543df117ee *soundgarden2012-02-01t11.flac
+e19d4d066580749ec6bcb2af155468d0 *soundgarden2012-02-01t12.flac
+b35aa737603b8f279b9efa8c95eacb91 *soundgarden2012-02-01t13.flac
+5afde760fef3430ebe8679245f4e92c4 *soundgarden2012-02-01t14.flac
+fd6803c08b4f977f110d54ecd8542b74 *soundgarden2012-02-01t15.flac
+7edd57bfcfdf34b7e5fcf36475763ad8 *soundgarden2012-02-01t16.flac
+e7f8c2c187814a5ca355ce9cd8817962 *soundgarden2012-02-01t17.flac
+555c5ad4b0620d435da101fe2ef27947 *soundgarden2012-02-01t18.flac
+299f1646b444ccbc1f6c4cae20018da3 *soundgarden2012-02-01t19.flac
+b18a1e45dabe50a81444566b024dfe0b *soundgarden2012-02-01t20.flac
+6bb91c8afecb03c641d85c3000407980 *soundgarden2012-02-01t21.flac
+ee03dd7ee0ab9d498a40406701659611 *soundgarden2012-02-01t22.flac
+3a1abe9a3b4c0e89c016fe40db9e442e *soundgarden2012-02-01t23.flac
+
+
+
+**PLEASE DO NOT ENCODE TO LOSSY FORMATS OR SELL!** 

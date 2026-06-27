@@ -1,0 +1,48 @@
+This is a short special i recorded accidently, and decided to keep at that time.
+I normally recorded the entire program, and recorded the clips i wanted again onto
+the next recorder to cutout all commercials & stuff i disliked. So a 1st generation
+of my own master TV recording.
+The special was pushed in due the many many RATM requests from viewers.
+
+Band : Rage Against The Machine
+Channel : MTV Europe, London, UK
+Program : 120 minutes
+Date : 1993-07-11
+
+Length : 0:07:23
+Size : 513 MB
+
+Lineage : TV > VHS+ > VHS+ > SONY DRDX 9700 SA recorder > DVD+R > torrent
+
+Format : DVD
+System : PAL
+VIDEO : 720x576 [4:3] - 25f/s @ 9290kbps VBR
+AUDIO : AC3 - 48kHz @ 256kbps CBR stereo
+
+tracklist;
+01. Introduction by Paul King
+02. All mixed through excerpts including;
+      * 2 different interviews with Tom Morello
+      * interview with Timmy C
+      * Bombtrack (The Venue,London Jan 1993)
+      * Take The Power Back (Le Zenith, Paris June 1993)
+      * Killing in the name/Bullet In The Head (promo) **
+
+-------- CLAUSE -------- CLAUSE --------
+(**) The off. excerpt take no longer than 15 seconds.
+I have had pm contact with Dime Mod nightshifted on
+this same issue a few years before, and he approved
+short official excerpt of footages as long as they 
+were not longer than 30 seconds. Therefor i upload this
+footage unedited in the honest opinion this footage is
+within the rules of Dimeadozen.org
+----------------------------------------
+
+# And now MD5 checksums do what they told you
+# Generated 5-6-2011 16:06:50
+
+e611b553aeb59d8c427e13a4cf46795a *VIDEO_TS/VIDEO_TS.BUP
+e611b553aeb59d8c427e13a4cf46795a *VIDEO_TS/VIDEO_TS.IFO
+e20820a5deb5ddb979d67074759e9d65 *VIDEO_TS/VTS_01_0.BUP
+e20820a5deb5ddb979d67074759e9d65 *VIDEO_TS/VTS_01_0.IFO
+0df1367c6b53f95241af2485693e6b3f *VIDEO_TS/VTS_01_1.VOB

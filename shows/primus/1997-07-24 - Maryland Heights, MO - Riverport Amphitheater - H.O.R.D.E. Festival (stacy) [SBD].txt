@@ -1,0 +1,47 @@
+Primus
+Thursday July 24, 1997
+H.O.R.D.E. Festival - Main Stage
+Riverport Amphitheater
+Maryland Heights, Missouri
+
+
+-=A Stacy Master=-
+-=16bit/44khz.edit=-
+
+
+Source: Mono SBD > XLR > DBX 160XT (leveling) > Sony TCD-D8 > Maynard 90m Dat Master (16/48)
+Transfer: Sony TCD-D100 > Custom S/PDIF Cable > M-Audio Microtrack II > Kingston CF/16GB-S2
+Lineage: Wavelab 6 (EQ, +3db) > r8brain PRO > CD Wave Editor > TLH (FLAC6) > Live Show Tagger
+
+Credit: 
+Marshall Stacy - recording and Master DAT loan!
+Kobi (liveween.com) - gear loan and setlist
+James E / BlingFree - transfer, edit, track and FLAC
+
+
+Set:
+01 Groundhog's Day
+02 Pudding Time
+03 Duchess & The Proverbial Mind Spread
+04 Those Damned Blue-Collar Tweekers *
+05 Golden Boy
+06 My Name Is Mud
+07 Jerry Was A Race Car Driver
+08 Shake Hands With Beef
+09 Seas Of Cheese >
+10 Over The Falls
+11 Harold Of The Rocks
+12 Tommy The Cat >
+13 The Awakening >
+14 Drums >
+15 Tommy The Cat
+
+* with Highball With The Devil Tease
+
+Lineup: 
+Les Claypool - Bass/Vocals
+Larry LaLonde - Guitar
+Bryan "Brain" Mantia - Drums
+
+
+-= Originally seeded at Lossless Legs - http://shnflac.net on Monday August 24, 2015 =-

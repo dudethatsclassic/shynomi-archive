@@ -1,0 +1,35 @@
+primus
+state theater, kalamazoo michigan
+november 1, 1997
+
+les, ler, brain
+
+recording info:
+marcsounds cards > rolloff/bbox > D8 DAT Master @ 16 bit / 48 kHz
+  mics mounted on glasses
+  recorded in 2nd row of seats, right side in front of stack
+
+transfer:
+DAT Master > Tascam DA-45HR > Coax > MT2496
+
+processing:
+wav > adobe audition (fades, some volume adjust) > cdwav > tlh flac 8
+
+these are 16 bit / 48 kHz flac files
+
+01. Kalamazoo
+02. My Name Is Mud
+03. Puddin' Taine
+04. Nature Boy
+05. Groundhog's Day
+06. Duchess And The Proverbial Mind Spread
+07. Those Damned Blue Collar Tweekers
+08. Bob's Party Time Lounge
+09. Jerry Was A Race Car Driver
+10. Shake Hands With Beef
+11. Seas Of Cheese
+12. Over The Falls
+13. Frizzle Fry
+14. Tommy The Cat
+15. Southbound Pachyderm
+16. Too Many Puppies

@@ -1,0 +1,22 @@
+SOUNDGARDEN
+December 05, 1989
+Mason Jar
+Phoenix, AZ, USA
+
+Source: unknown analog audience audio
+Generation: ANA(x) > CDR(1) > WAC [EAC Secure] > FLAC [8] > corrected speed and remastered in Audacity > FLAC [8]
+Quality: 7.5
+Time: 32:18
+
+Tracklist:
+1. Ugly Truth
+2. Get On The Snake
+3. Loud Love
+4. Flower
+5. Nothing To Say
+6. Gun
+7. I Awake
+
+Originally encoded January 2009.
+
+Notes: I sped up the recording 4.8%, added a bit of treble and amplified to an acceptable (not clipping) level. This is all that exists of this source.

@@ -1,0 +1,34 @@
+primus
+state theater, detroit michigan
+october 31, 1997
+
+les, ler, brain
+
+recording info:
+marcsounds cards > rolloff/bbox > D8 DAT Master @ 16 bit / 48 kHz
+  mics mounted on glasses
+  recorded at 1st drink rail, left of center
+
+transfer:
+DAT Master > Tascam DA-45HR > Coax > MT2496
+
+processing:
+wav > adobe audition (fades, some volume adjust) > cdwav > tlh flac 8
+
+these are 16 bit / 48 kHz flac files
+
+01. Here Come The Bastards
+02. In The Flesh
+03. Pudding Time
+04. Duchess And The Proverbial Mind Spread
+05. Those Damned Blue Collar Tweekers > Highball With The Devil > Those Damned Blue Collar Tweekers
+06. Fisticuffs
+07. My Name Is Mud
+08. Puddin' Taine
+09. Jerry Was A Race Car Driver
+10. Bob's Party Time Lounge
+11. Sgt Baker > Seas of Cheese
+12. Over The Falls
+13. Southbound Pachyderm
+14. Tommy The Cat > The Awakening > Glide > Tommy The Cat
+15. Frizzle Fry

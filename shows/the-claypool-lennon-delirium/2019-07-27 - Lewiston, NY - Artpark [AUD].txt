@@ -1,0 +1,26 @@
+The Claypool/Lennon Delerium
+Artpark
+Lewiston, NY
+
+
+16 bit version
+
+Taper: Poignant Pros (Binko)
+Gear: Ca14s > Tascam DR-08
+Mastered by }{eywood
+Lineage: DR-08 (recording to 24/96 .wav) > USB > Adobe Audition 1.5 (EQ, peak limiting, splits & fades) > Xrecode III (conversion to 16/44.1) > TLH (sector alignment, flac 8)
+
+
+01 Little Fishes
+02 Blood and Rockets: Movement I, Saga of Jack Parsons - Movement II Too the Moon
+03 South of Reality
+04 Amethyst Realm
+05 Breath of a Salesman
+06 The Court of the Crimson King
+07 Boriska
+08 banter
+09 Easily Charmed by Fools
+10 Tomorrow Never Knows
+11 Like Fleas
+
+12 Astronomy Domine 

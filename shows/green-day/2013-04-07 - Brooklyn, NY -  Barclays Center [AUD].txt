@@ -1,0 +1,47 @@
+GREEN DAY
+Barclay's Center
+Brooklyn, NY
+4/7/2013
+
+Source: Iphone 4 Internal Mic (Running Tascam PCMRecorder App) -> 16 Bit WAV
+Transfer: Iphone 4 (mono) -> Audacity (mono -> stereo conversion, track splitting, conversion to FLAC) -> TLH (fix SBE and 
+          generate FFP, md5)
+
+Setlist:
+01 Intro
+02 99 Revolutions
+03 Know Your Enemy
+04 Stay The Night
+05 Stop Me When The Red Lights Flash
+06 Letterbomb
+07 Oh Love
+08 Holiday
+09 Boulevard Of Broken Dreams
+10 Burnout
+11 Welcome To Paradise
+12 Geek Stink Breath
+13 Knowledge
+14 When I Come Around
+15 Going To Pasalacqua
+16 Highway To Hell
+17 Brain Stew
+18 St Jimmy
+19 Longview
+20 Basket Case
+21 She
+22 King For A Day
+23 Shout/Satisfaction/Hey Jude Medley
+24 X-Kid
+25 Minority
+26 Encore Break
+27 American Idiot
+28 Jesus Of Suburbia	
+29 Brutal Love
+
+Notes:
+No fades, cuts or adjustments made except for mono to stereo conversion. 
+I think the recording came out good considering the set up, judge for yourself.  
+Samples included. Feel free to remaster if you like, just please credit me as the original source,
+and please post a link.
+
+Enjoy!!

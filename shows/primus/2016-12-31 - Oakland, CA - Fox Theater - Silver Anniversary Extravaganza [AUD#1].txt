@@ -1,0 +1,62 @@
+Primus
+Saturday December 31st, 2016
+Fox Theater
+1807 Telegraph Ave
+Oakland, CA
+
+Taper:  LeifH
+Source:  CA-11 (cardioid) > Bat2B > Sony PCM M10 @ 24/48 > Lexar 16GB microSD card
+Transfer:  Memory card > PC via USB > Wavepad Masters Edition (edits, amplify, tracking, 16/44.1) > flac (8) via Frontend
+
+Setlist:  2:06:28
+00 intro
+01 YYZ > John The Fisherman
+02 Those Damned Blue-Collar Tweekers > Cygnus X-1
+03 Groundhog's Day
+04 Last Salmon Man
+05 Frizzle Fry
+06 Fisticuffs (with Skerik)
+07 Here Come The Bastards
+08 Sgt. Baker > Hello Skinny
+09 Passage To Bangkok > Semi-Wondrous Boatride
+10 countdown to the new year
+11 Man On The Silver Mountain [Rainbow]
+12 Jilly's On Smack
+13 Eleven
+14 American Life
+15 My Name Is Mud
+16 Jerry Was A Race Car Driver
+
+17 Southbound Pachyderm
+18 post show
+
+This was the Silver Anniversary 25th NYE show in a row for Les Claypool.  Also performing were Duo De Twang and the Claypool Lennon Delirium. Yoko Ono was in attendance, seen stage right in between opening sets.  John Perry Barlow was also sitting side stage, as seen at the end of the show.
+
+This would be my 26th Primus show.  Many people camped out since early in the morning in front the venue.  Some folks were generous enough to share a big pot of chili, other munchies and a propane heater to keep warm.  
+
+Before the show began, they showed a video montage of all the previous years' NYE shows.  Most of the footage was from bootleg sources, including some of my videos from 2012-2015.  
+
+They had two inflated babies on stage rather than astronauts or mushrooms.  Several Rush teases throughout the set.  Skerik joined in for Fisticuffs.  At midnight they were joined by Pete Drungle, Bob C. Cock and Bryan Kehoe (dressed as Santa Claus) for their rendition of Rainbow's Man On The Silver Mountain (Man With The Silver Cock Ring).  It rained suds onto the floor in addition to the balloon drop.  Tim's kick drum mic caused some crackles during My Name Is Mud and failed completely during Jerry Was A Race Car Driver.  Loose cable connection or something.
+
+For Southbound Pachyderm, they were joined by all the rest of the Claypool Lennon Delirium, as well as Skerik.  Ler played a Gibson Flying V for that rather than a Fender.  Les used the same black Pachyderm bass for the whole show, except for the upright and 6 string songs.  I was wondering if Yoko would come out and ruin the song but she didn't.  
+
+fingerprints:
+00 - intro.flac:ab8be99e371604edebe1fbbb92cba1b9
+01 - YYZ-John The Fisherman.flac:51e2bb5c539b517d487b9d19e67119a6
+02 - Those Damned Blue-Collar Tweekers.flac:862d225c41712a48657927f757a15dfc
+03 - Groundhog's Day.flac:911be2f4c5c7b831432e4239f26f0f0a
+04 - Last Salmon Man.flac:a4c6d47f9b57f1fe87e77e2a1148e0d9
+05 - Frizzle Fry.flac:5c5c0a572678d0af5b52eef8e49cca6f
+06 - Fisticuffs.flac:66002650b1b58b3e6ad431b28dcd2921
+07 - Here Come the Bastards.flac:9edb574a51a70f3c5641300a119c888a
+08 - Sgt. Baker-Hello Skinny.flac:ebcfee9fe2d1a925535907e50b4a5271
+09 - Semi-Wondrous Boat Ride.flac:f9ca4337de7b6b273e8f71e36d28a66e
+10 - countdown to the new year.flac:a333a2b87322135e6019ba7875755fc8
+11 - Man on the Silver Mountain.flac:c7fe514574d5affea9c29440b77e0ad3
+12 - Jilly's on Smack.flac:2f8941229ad2c5cf55d2bdbb45405f46
+13 - Eleven.flac:7939242b4f38d94d9b51ca3fb1c6b765
+14 - American Life.flac:d4ebeeb84841974985ab69c9baffb7c2
+15 - My Name is Mud.flac:a6cd490f1547aee0989e895bbc50f7d4
+16 - Jerry Was a Race Car Driver.flac:3b52aebeda04a4d8de0d690f8adb9eda
+17 - Southbound Pachyderm.flac:cd612c70c06dcb882a9be5cbcb888812
+18 - post show.flac:951b0546e33653c3667df8f474729477

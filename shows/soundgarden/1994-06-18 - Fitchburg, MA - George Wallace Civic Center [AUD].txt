@@ -1,0 +1,59 @@
+June 18, 1994
+George Wallace Civic Center
+Fitchburg, MA, USA
+
+Recording info: unknown DAT audience
+Source: DATx>CDRx>EAC>FLAC
+Time: 102:25
+Quality: 8.0/10 
+
+Disc 1:
+1. Jesus Christ Pose
+2. Spoonman
+3. Let Me Drown
+4. Mailman
+5. The Day I Tried to Live
+6. My Wave
+7. I Awake
+8. Black Hole Sun
+9. Searching With My Good Eye Closed
+10. Superunknown
+11. Rusty Cage
+12. Half
+13. Mind Riot
+
+Disc 2:
+1. Fell on Black Days
+2. I Don't Care About You
+3. Drawing Flies
+4. Slaves and Bulldozers
+5. Kickstand
+6. Face Pollution
+7. Like Suicide
+8. Improv>Head Down (cut)
+
+Notes: Volume fluctuates quite a bit throughout the show. One of only three known performances of "I Don't Care About You". Chris sounds tired. 
+"Head Down" cuts towards the end of the song. It is not know whether they played any songs afterwards.
+
+Fingerprints:
+d1-01-jcp.flac:c6ea0523715b8507e3efa669bbb1bb4e
+d1-02-spoonman.flac:3cc1b224117485cc95861295b2f2b22f
+d1-03-letmedrown.flac:af761da983f27e624873b48032b5cfc1
+d1-04-mailman.flac:66d0f918451b6d858b9b8c996e741fab
+d1-05-thedayitiriedtolive.flac:a4c721e73ffc04b73f72aceeb988912e
+d1-06-mywave.flac:804103aef0f880223685be8a92f6b71d
+d1-07-iawake.flac:d71903b26f5ff7d26d675e0a2ead5ee3
+d1-08-bhs.flac:f8a44f420a3f02fac752b15a4c6101c0
+d1-09-searching.flac:507d63dfe96598370ba259458ff5a61f
+d1-10-superunknown.flac:47197b69b7a7ad9442922aba3fda419f
+d1-11-rustycage.flac:48187127e96e490ebc1c015f303afddd
+d1-12-half.flac:7f50cb941a1d4a98681bba413d2e7fb8
+d1-13-mindriot.flac:52e1b8370cd4c9f8cafdc70dc697437a
+d2-01-fellonblackdays.flac:c0451965ca1cb213a10a32c2cdd7441c
+d2-02-idontcareaboutu.flac:3fa838c51e1375d6ee616e5a90873f99
+d2-03-drawingflies.flac:5c2270ed56c38a0442b1007f0a0a1d67
+d2-04-slavesandbulldozers.flac:0d876eaff6d7b04ac2b8bde80acbe188
+d2-05-kickstand.flac:8f401c1222de11ae23585d45debb28ac
+d2-06-facepollution.flac:87770abf195290cabe2994cec3aba7ce
+d2-07-likesuicide.flac:a532469e342db38cb937076838af8cf7
+d2-08-headdown.flac:d4754f4351466d169480b601ca8e12bd

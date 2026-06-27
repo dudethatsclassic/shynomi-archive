@@ -1,0 +1,84 @@
+
+Contrast Clause:
+The Alice In Chains show is also at: http://www.dimeadozen.org/torrents-details.php?id=257785 .... which is from an alternate recorded source.
+The above mention (in URL) is from CSB mics, & is missing the last track Rooster.
+Another version was previously upped that was complete at 55 minutes long. That was recorded by "rcsguy", using Sony PC62 mics.
+The version presented here is from the master, which I don't know if MattF recorded it or if he received it from the taper on CDR. This version is missing the last two tracks, but includes Rage Against The Machine's set at the beginning of the disc. This version may have been uploaded here previously from my 2nd gen analog cassette tape version, possibly by Layne who transferred my tape & if he did I believe his handle used to be "zepaero", but I can not confirm that.
+
+******************************************************************
+Rage Against The Machine & Alice In Chains .... July 13, 1993
+Lollapalooza III; Waterloo Village, Stanhope, New Jersey, U.S.A.
+
+
+Taper: maybe MattF (U.S.A.) THX!!!
+Trades: MattF> Phrob (Maine, U.S.A.) THX!!!> JAJ (roryglzep)
+Lineage: (AUD) Master (unknown equipment)> Traded CDR's (wav) EAC (secure mode)> (flac) Trader's Little Helper level 6 (align on sector boundaries)
+Quality: vg
+
+Total Length: 15 tracks = 71:09 minutes
+"Rage Against The Machine" Length: 5 tracks = 27:19 minutes
+"Alice In Chains" Length: 10 tracks = 43:50 minutes
+
+
+Set list:
+
+Rage Against The Machine:
+01 (cuts in) Take The Power Back (with mid-cuts)>
+02 "No More Lies/Take The Backdoor (short improv)" audience talk, Bomb Track
+03 Township Rebellion
+04 Darkness Of Greed
+05 Killing In The Name> Testify
+
+Alice In Chains:
+06 Iron Gland> Would
+07 Godsmack
+08 Sickman
+09 Junkhead
+10 Angry Chair
+11 Man In The Box
+12 Hate To Feel
+13 A Little Bitter
+14 Dam That River
+15 Them Bones (cut at end)
+(missing) We Die Young (missing)
+(missing) Rooster (missing)
+
+
+----------------------------------------------------------
+Support the artists: Buy the officially released items, etc.
+
+Prepared by Jeff James (roryglzep@aol.com)
+******************************************************************
+ffp:
+Track01.flac:edb3f11f2e88b3bd529ce907fea0bd89
+Track02.flac:853ff120ef9145a590901a50bb6360c6
+Track03.flac:c6b905ca5c5751d39d06090ad66db009
+Track04.flac:43b9e78acc41bcbe64dd8720fba962aa
+Track05.flac:b305ffda3759442303f02cf276b51d8e
+Track06.flac:f765dec653f562e375687e9b34fa48c0
+Track07.flac:0727ca43b25c81801e488417eb717c14
+Track08.flac:e037be7d2957062021acdac2b79f0d33
+Track09.flac:90a3847b1f304422e1664afd4cddcf92
+Track10.flac:666a142fdfe0d63b4a4b7f64a782b520
+Track11.flac:fe64a2d8d55514a2ded279e56597969f
+Track12.flac:cd508246a8130252ae390357aa1d2468
+Track13.flac:4d0e32f729550cdf7ec4c990fa222881
+Track14.flac:f6db9a11be040709409098b228721e6a
+Track15.flac:83ab1a96d2474c883a2e40cae970cb4e
+
+md5:
+b99d565385e6c3094582feba4d235da8 *Track01.flac
+e95d5f89704f87c1f566c8b51eed191c *Track02.flac
+ee77ec973569dba8ec1f94d0fc87c9c6 *Track03.flac
+a0310b24184118b409c44971a335de28 *Track04.flac
+0283fb5ad34d42f7e3144194080d940a *Track05.flac
+53035537e23f1d1506f3d6abd152cdc2 *Track06.flac
+fed60ae69008816cdc0277741c91654a *Track07.flac
+b30f429538d140f8e3056472049af968 *Track08.flac
+e2d5db593096e39c743ce1569b01a67a *Track09.flac
+6667777e47a3db51aa716f7c5eaed58a *Track10.flac
+42446f42d8f36a0cbfc9b1e6f1b6f7b3 *Track11.flac
+824311585f099e6b2e0cf903c02487e8 *Track12.flac
+f68646cdf404e170a63493b3d2497337 *Track13.flac
+6e22c8a9705c66fdda31320c0f566804 *Track14.flac
+546d93022d123f8d2e1aec20ead15f0a *Track15.flac

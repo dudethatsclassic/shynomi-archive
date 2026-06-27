@@ -1,0 +1,217 @@
+Oasis
+Orpheum Theatre
+Minneapolis, Mn.
+26 February 1996
+
+This is an audience recording. I am not sure who I got this from so I can't tell you how it was recorded. No matter who I got it from I am reasonably certain it came to me on cassette from the master. 
+I transferred it to CD myself from a Nakamichi MR-2 to a Tascam CDRW-700 standalone CD recorder. Cassette > CD > EAC > FLAC 6. The sound is very good. I rated it an 8 on the audience scale. Runs 83 minutes. No artwork.
+
+Track listing:
+CD1:
+The Swamp Song
+Acquiesce
+Supersonic
+Hello
+Some Might Say
+Roll With It
+Shakermaker
+Morning Glory
+Cigarettes & Alcohol
+
+CD2:
+Champagne Supernova
+Wonderwall
+Whatever
+Slide Away
+Don't Look Back In Anger
+Live Forever
+I Am The Walrus
+
+Track01.flac:c2e92f70d934b21a039b92ad4a5504bd
+Track02.flac:640e361fe618ee715a929ed2d7869fd1
+Track03.flac:8cdf8069669b8bd55037a299f46c62c9
+Track04.flac:56f34f5f41776a49ef875e161e2b7383
+Track05.flac:e835eeba3775156de5d4066dfd09080e
+Track06.flac:f29b0cbfe9bec5959d9baea46f1fdd7e
+Track07.flac:f020390d5722529a78b97a05ecfdedd2
+Track08.flac:13891a269e27922b407b381b41b686a8
+Track09.flac:979624fafbd2335089b0b5225b200f6a
+CD2Track01.flac:4955736dc88663f5571279d45820ac80
+CD2Track02.flac:04d96dcebb778f02c9b73b193e1ed497
+CD2Track03.flac:1ec88ac2fe08ac6155131897b3d0cf2e
+CD2Track04.flac:d3c35ab4edb0b26d3551df51122a40b7
+CD2Track05.flac:45e29d091e54ef8839e559490f1666ac
+CD2Track06.flac:92860e3bf0b264b7c3795a3c20d51c14
+CD2Track07.flac:7c694cee0413d806d9cc56b0535ced5c
+
+EAC extraction logfile from 16. June 2007, 21:00 for CD
+ / 
+
+Used drive  : _NEC    DVD_RW ND-3520A   Adapter: 1  ID: 0
+Read mode   : Secure with C2, accurate stream, NO disable cache
+Read offset correction : 0
+Overread into Lead-In and Lead-Out : No
+
+Used output format : Internal WAV Routines
+                     44.100 Hz; 16 Bit; Stereo
+
+Other options      : 
+    Fill up missing offset samples with silence : Yes
+    Delete leading and trailing silent blocks : No
+    Native Win32 interface for Win NT & 2000
+
+
+Track  1
+     Filename G:\Oasis , Track01.wav
+
+     Peak level 100.0 %
+     Track quality 100.0 %
+     Copy CRC 2E893F23
+     Copy OK
+
+Track  2
+     Filename G:\Track01 , Track02.wav
+
+     Peak level 100.0 %
+     Track quality 100.0 %
+     Copy CRC 327FD38A
+     Copy OK
+
+Track  3
+     Filename G:\Oasis , Track03.wav
+
+     Peak level 98.7 %
+     Track quality 100.0 %
+     Copy CRC 53FB725B
+     Copy OK
+
+Track  4
+     Filename G:\Track02 , Track04.wav
+
+     Peak level 100.0 %
+     Track quality 100.0 %
+     Copy CRC 503198BC
+     Copy OK
+
+Track  5
+     Filename G:\Track03 , Track05.wav
+
+     Peak level 100.0 %
+     Track quality 100.0 %
+     Copy CRC E149942A
+     Copy OK
+
+Track  6
+     Filename G:\Track04 , Track06.wav
+
+     Peak level 100.0 %
+     Track quality 100.0 %
+     Copy CRC 2D9B3F36
+     Copy OK
+
+Track  7
+     Filename G:\Track05 , Track07.wav
+
+     Peak level 100.0 %
+     Track quality 100.0 %
+     Copy CRC 46A630DE
+     Copy OK
+
+Track  8
+     Filename G:\Track05 , Track08.wav
+
+     Peak level 100.0 %
+     Track quality 100.0 %
+     Copy CRC 141D5C9B
+     Copy OK
+
+Track  9
+     Filename G:\Track06 , Track09.wav
+
+     Peak level 100.0 %
+     Track quality 100.0 %
+     Copy CRC EC9165E2
+     Copy OK
+
+No errors occured
+
+
+End of status report
+
+EAC extraction logfile from 16. June 2007, 21:25 for CD
+ / 
+
+Used drive  : _NEC    DVD_RW ND-3520A   Adapter: 1  ID: 0
+Read mode   : Secure with C2, accurate stream, NO disable cache
+Read offset correction : 0
+Overread into Lead-In and Lead-Out : No
+
+Used output format : Internal WAV Routines
+                     44.100 Hz; 16 Bit; Stereo
+
+Other options      : 
+    Fill up missing offset samples with silence : Yes
+    Delete leading and trailing silent blocks : No
+    Native Win32 interface for Win NT & 2000
+
+
+Track  1
+     Filename G:\CD2Track01.wav
+
+     Peak level 100.0 %
+     Track quality 100.0 %
+     Copy CRC EA3E01B6
+     Copy OK
+
+Track  2
+     Filename G:\CD2Track02.wav
+
+     Peak level 83.7 %
+     Track quality 100.0 %
+     Copy CRC C889E2EF
+     Copy OK
+
+Track  3
+     Filename G:\CD2Track03.wav
+
+     Peak level 73.6 %
+     Track quality 100.0 %
+     Copy CRC 5AABE65D
+     Copy OK
+
+Track  4
+     Filename G:\CD2Track04.wav
+
+     Peak level 73.3 %
+     Track quality 99.9 %
+     Copy CRC B4974E14
+     Copy OK
+
+Track  5
+     Filename G:\CD2Track05.wav
+
+     Peak level 100.0 %
+     Track quality 100.0 %
+     Copy CRC 0C7EE3A4
+     Copy OK
+
+Track  6
+     Filename G:\CD2Track06.wav
+
+     Peak level 100.0 %
+     Track quality 100.0 %
+     Copy CRC 9CB6E9BE
+     Copy OK
+
+Track  7
+     Filename G:\CD2Track07.wav
+
+     Peak level 100.0 %
+     Track quality 100.0 %
+     Copy CRC EB709EF7
+     Copy OK
+
+No errors occured
+
+
+End of status report

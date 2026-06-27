@@ -1,0 +1,32 @@
+Primus
+15th April 2018
+The Palais, St. Kilda (Melbourne), VIC, Australia
+
+Recorded from front of Lounge seating, level with right speaker
+Source: Zoom H1 (in-built mics, level 15, low-cut off) > WAV (24bit 48kHz)
+Processing: WAV > Audacity (top/tail) > WAV > CD Wave > WAVs > FLACs
+
+Notes: 
+My setup isn't ideal for this venue. 
+I just put the recorder in my pocket, so the mics point upwards.
+And in this case, the right mic points to the speaker, but the left inwards, mostly at the crowd, so it's a right leaning recording mostly.
+The Palais has a very high ceiling, so the sound ended up very "big room" and echoy.
+I've done minimal processing on this (just top/tail, no volume boost) in the hope someone gets enthusiastic and remasters?
+
+Setlist:
+01 - (intro music)
+02 - Those Damned Blue-Collar Tweekers
+03 - Wynona's Big Brown Beaver
+04 - The Seven
+05 - Moron TV
+06 - Too Many Puppies / Sgt. Baker / Too Many Puppies
+07 - Jilly's on Smack
+08 - Mr. Krinkle
+09 - The Trek
+10 - John the Fisherman
+11 - The Storm
+12 - Welcome to This World
+13 - Mrs. Blaileen
+14 - Jerry Was a Race Car Driver / My Name Is Mud / Jerry Was a Race Car Driver
+15 - (encore call)
+16 - Southbound Pachyderm (with Dean Ween)

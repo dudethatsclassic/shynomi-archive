@@ -1,0 +1,33 @@
+
+Soundgarden
+
+1. Flower, 2. Kickstand, 3. Outshined, 4. Attrition, 5. Room a Thousand Years Wide, 6. Jesus Christ Pose, 7. Like Suicide, 8. Superunknown [Final Performance], 9. Mailman, 10. Black Hole Sun, 11. Spoonman, 12. Hunted Down, 13. Ty Cobb, 14. Fell on Black Days, 15. My Wave, 16. The Day I Tried to Live, 17. Been Away Too Long, 18. Pretty Noose [Final Performance], 19. Birth Ritual, 20. A Thousand Days Before, 21. Rusty Cage, 22. Limo Wreck [Final Performance], 23. Slaves & Bulldozers.
+
+
+Track Info: Festival Hall, Melbourne, VIC, Australia
+Source Info: AUD>LPCM>WAV>FLAC [Tascam DR-07mkII* internal microphone]
+Mastering: Audacity -> TLH* [likely based on other recordings from this taper around the same time period] 
+Taper: BeShakey ; http://this-was-now.blogspot.com.au/search/label/Soundgarden
+Remastering: roman79 ; WEB>16 bit FLAC>Shuangs Audio Joiner>WAV>Adobe Audition (w/Rx3 and Ozone) [declick audience clapping, balance channels and amplify ~4DB, retrack >TLH (Fix SBEs > FLAC)
+Length: 130:49
+Sound Comments/Faults?: good quality, crowd noise for the encore between #21 and #22 was edited out.
+Show Comments: Based on setlist.fm statistics as of May 2017, these were the final Soundgarden performances of Superunknown, Pretty Noose and Limo Wreck.
+
+
+This isn't my recording, thanks to the original taper for circulating a lossless. I've just declicked the near microphone audience clapping and raised the amplitude on the whole show because there was leg room, and then re-tracked it so that the talking tracks aren't seperated. 
+
+I couldn't get to this show as I'd already moved my flight once to cover the Smashing Pumpkins post Soundwave festival solo show the day before and couldn't afford to move it again.
+
+Original Taper notes:
+
+Soundgarden's last headlining show in Melbourne was ruined by the awful sound at Sidney Myer. And while Festival Hall isn't the greatest of venues (by a long stretch), the sound was good and the band put on a great show.
+
+Without an opening act and a scheduled set of nearly three hours, I was hoping that the band might be planning on doing something interesting. In the end they came on stage 45 minutes late, but when the eventually made it they were on fire. The set featured a lot of Superunknown songs, with a few from all their other albums thrown into the mix.
+
+The recording is really good, there's a tiny bit of noise from people around me and from when I've moved as people walk back and forth from the bar, but other than that this sounds great.
+
+
+
+
+
+

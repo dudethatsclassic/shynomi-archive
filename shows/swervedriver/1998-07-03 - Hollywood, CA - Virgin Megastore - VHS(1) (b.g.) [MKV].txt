@@ -1,0 +1,20 @@
+Swervedriver
+1998-07-03
+Virgin Megastore, Hollywood, CA, US
+Source: Audience video camera of some sort (taper: B.G.) > VHS copy (1st generation)
+Transfer (in 2010): VCR > MiniDV camcorder (passthrough) > firewire > Quicktime (Mac) > single .mov file
+Preparation for torrenting (2023-03-27): .mov > .mkv via MKVToolNix (not re-encoded)
+
+Required video details (from mediainfo)
+Container: Matroska, codec: V_MPEG4/ISO/AVC, resolution: 640x480, scan: progressive, frame rate: 29.970 FPS, video bit rate: 2 006 kb/s, aspect ratio: 4x3, audio codec: A_AAC-2, channels: 2, audio sampling rate: 44.1 kHz, bitrate: 144 kb/s, 
+
+Stellar Caprice
+These Times
+
+(7:19)
+
+The note on the screen at the end of the video refers to the fact that the taper was forced to stop taping. There's another note in that night's recording about the misunderstanding being worked out as he was able to record that full show (separate torrent).
+
+Note: thought I did get this from the taper, the text overlaid on the screen at the end makes me wonder if he added that on to a copy he made, then used that copy when duplicating for me. If so, that would make this a 2nd gen copy instead of 1st gen. No way of knowing at this point.
+
+Shared on Dime 2023-03-27 by Aaron (supahstah)

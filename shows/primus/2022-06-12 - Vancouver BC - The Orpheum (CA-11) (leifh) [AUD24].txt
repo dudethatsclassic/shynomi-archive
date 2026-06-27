@@ -1,0 +1,57 @@
+Primus - A Tribute To Kings 2nd Leg
+Sunday June 12th, 2022
+The Orpheum
+601 Smithe Street
+Vancouver, British Columbia, Canada
+
+Taper:  LeifH [2022#61a]
+Source 1:  CA-11 > Bat2B > M10
+Transfer:  PC via USB > RX9 > Wavepad > flac (8) via TLH
+
+Setlist:  01:58:00
+00 intro
+01 American Life
+02 Wynona's Big Brown Beaver
+03 Follow The Fool
+04 Frizzle Fry
+05 Conspiranoia
+06 Welcome To This World > 
+07 My Name Is Mud > 
+08 Jerry Was A Racecar Driver
+09 The Ol' Diamondback Sturgeon
+-intermission-
+10 A Farewell To Kings
+11 Xanadu
+12 Closer To The Heart
+13 Cinderella Man
+14 Madrigal
+15 Cygnus X-1
+-encore-
+16 Shake Hands With Beef
+17 Professor Nutbutter's House Of Treats
+
+My 43rd Primus show.  This was the sixth and final show I caught on this tour, having flown out to Winnipeg and followed them back west.  Recorded from the orchestra section - RC, Row 9, slightly ROC by 1 seat.  
+
+This was the first time they used Cage Claypool's music video for Follow The Fool as their live visuals accompanying the song.  
+
+Primus played the Orpheum 10 years prior, almost to the day (June 15th, 2012) on the Green Naugahyde Tour.  
+
+fingerprints:
+Primus2022-06-12t00 - intro.flac:23d6a41dfb8d4c8aa049f539df667cfb
+Primus2022-06-12t01 - American Life.flac:00863e83dd7257a78fac59abe0dccc68
+Primus2022-06-12t02 - Wynonas Big Brown Beaver.flac:a140160f41e394a4b4b55ac3150071ca
+Primus2022-06-12t03 - Follow the Fool.flac:05a3f940657f3ca66b489638870e9dd1
+Primus2022-06-12t04 - Frizzle Fry.flac:053dbdb79c2128a7d2967845d0fee339
+Primus2022-06-12t05 - Conspiranoia.flac:e787cd81b054ccd4b0d6eb686c3b1385
+Primus2022-06-12t06 - Welcome to This World.flac:418de94981a6c40fa0dd953d069d3712
+Primus2022-06-12t07 - My Name is Mud.flac:53f3c02854af2f7d4dc736c9c091bfc9
+Primus2022-06-12t08 - Jerry Was a Racecar Driver.flac:bc14e07e352c08bbf62f9175db11f5f7
+Primus2022-06-12t09 - The Ol Diamondback Sturgeon.flac:2ecfda4ef9369c2850370a7a4d75dcd1
+Primus2022-06-12t10 - A Farewell to Kings.flac:54704e078ab29d429b38e69b1ba261bc
+Primus2022-06-12t11 - Xanadu.flac:503bc5e4f2198e903e55d5163ba46fe4
+Primus2022-06-12t12 - Closer to the Heart.flac:9fb5c83e8466027230f67dea2341973a
+Primus2022-06-12t13 - Cinderella Man.flac:9d490309ea55f6cd32f0f345355a5f5e
+Primus2022-06-12t14 - Madrigal.flac:fee89f05bdbea60321bf9eea11b8b43a
+Primus2022-06-12t15 - Cygnus X-1.flac:0c0ee084c5461b879984445af65d1e0a
+Primus2022-06-12t16 - Shake Hands with Beef.flac:8c384856f0af1d6fe0c37ec75aaf2490
+Primus2022-06-12t17 - Professor Nutbutters House of Treats.flac:3bda6400534394723d81c74ca8a10e06

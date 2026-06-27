@@ -1,0 +1,30 @@
+SILVERCHAIR
+October 02, 1995
+Sydney Convention & Exhibition Centre (ARIA Awards)
+Sydney, NSW, AU 
+
+DISC #1/1 (04:00)
+-----------------
+01) New Race
+
+GENERATION
+-----------------
+CD [Mud Bath At Homebake] -> WAV [44.1kHz] -> FLAC [Level 8]
+
+SOURCE
+-----------------
+soundboard -> unknown
+
+TRANSFER
+-----------------
+Sony DVD-ROM DDU1621 -> Exact Audio Copy v 0.95 BETA -> FLAC Frontend 1.7.1
+
+NOTE
+-----------------
+- Tim Rogers plays guitar and backup vocals
+
+MD5 FINGERPRINTS
+-----------------
+ccdb56a26804b2acd4f21d6e57493121 *silverchair1995-10-02t01.flac
+
+PLEASE DO NOT ENCODE TO MP3 OR SELL!

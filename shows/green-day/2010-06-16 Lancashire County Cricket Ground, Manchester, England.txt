@@ -1,0 +1,88 @@
+Green Day
+Lancashire County Cricket Club, Manchester, UK
+Wednesday 16th June, 2010
+
+
+Lineage:
+
+Church Audio ST-11 Cardioid Mics
+-> Battery Box
+-> iRiver H120 (Rockbox r18607-3.0-080923)
+-> SoundForge (v10.0b) (trim WAV, normalise, fade out)
+-> CDWave (v1.9.8.1) (tracking)
+-> TLH (v2.6.0)
+-> FLAC (level 8)
+-> Foobar2000 (v0.9.5.3) (tagging)
+
+Source: Open air audience recording from stage centre, 20m back
+Taper: PABBY
+Duration: 2hr 29m 34s
+Size: 779MB
+
+
+Setlist:
+
+Unfortunately, the first 3 songs of the set are missing from the recording-:
+
+- Song of the Century
+- 21st Century Breakdown
+- Know Your Enemy 
+
+01. East Jesus Nowhere
+02. Holiday
+03. The Static Age
+04. Give Me Novacaine
+05. Are We The Waiting
+06. St. Jimmy
+07. Boulevard of Broken Dreams
+08. 2000 Light Years Away
+09. Nice Guys Finish Last
+10. Burnout
+11. Coming Clean
+12. Geek Stink Breath
+13. Hitchin a Ride
+14. Welcome to Paradise
+15. When I Come Around
+
+Rock Medley:-
+16. Iron Man 
+17. Sweet Child of Mine
+18. Highway to Hell
+
+19. Brainstew
+20. Jaded
+21. Longview
+22. Basketcase
+23. She
+24. King For a Day
+25. Shout Medley:-
+- Shout
+- Teenage Kicks
+- (I Can't Get No) Satisfaction
+- Champagne Supernova
+- Hey Jude
+- Shout (reprise)
+26. 21 Guns
+27. Minority
+28. encore break #1
+29. American Idiot
+30. Jesus of Suburbia
+31. encore break #2
+32. When It's Time
+33. Wake Me Up When September Ends
+34. Good Riddance (Time of Your Life)
+
+
+Notes:
+
+SoundForge was used for trimming the start/end of the WAV, normalisation and adding fade out. No equalisation was performed on this recording.
+
+I started recording when the drunken rabbit came on stage, but somehow it paused before the band came on. I can only think that I didn't lock the remote and the pause button was pressed at some stage. All this meant that I didn't actually start recording until I checked the levels just before the 4th song of the set, East Jesus Nowhere. Sorry!
+
+As you can imagine, with me only being 20m from the stage, the crowd were quite boisetrous and vociferous throughout the show. This obviously comes across on the recording, but gets noticeably better as the show goes on, particularly after I managed to move away from one tone deaf youth! Once Green Day got into the "old school" section, the extra vocals were then provided by my mate Sam, but thankfully he disappeared into a mosh pit after a few of the songs!  :-)
+
+As for the show itself, what a superb way to spend a beautiful summer's evening! The band were on stage for a whopping 2 hours & 45 minutes, and that was 2 hours & 45 minutes of spectacular quality. An excellent setlist was supplemented by Billy Joe's usual crowd interaction and he once again had the near 30,000-strong crowd eating out of the palm of his hand. The songs that were played covered all but the earliest part of their career and all were delivered as if the band's lives depended on it. A truly awesome experience!
+
+Enjoy!  :-)
+
+

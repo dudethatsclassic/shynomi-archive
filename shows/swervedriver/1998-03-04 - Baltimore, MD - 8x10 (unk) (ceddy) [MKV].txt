@@ -1,0 +1,23 @@
+Swervedriver
+1998-03-04
+8x10 Club, Baltimore, MD, US
+Source: Balcony video camera > VHS > DVD (capture by ceddy, audio remaster by jamesg)
+Preparation for torrenting (2023-04-15): VOB files > single mkv via AVIDemux (not re-encoded)
+
+Required video details (from mediainfo)
+Container: Matroska, codec: V_MPEG2, resolution: 704x480, scan: interlaced, frame rate: 29.970 FPS, video bit rate: 4 246 kb/s, aspect ratio: 4x3, audio codec: A_PCM/INT/BIG, channels: 2, audio sampling rate: 48.0 kHz, bitrate: 1 536 kb/s
+
+For Seeking Heat
+Sandblasted
+In My Time
+The Birds
+She Weaves A Tender Trap
+Never Lose That Feeling
+Wrong Treats
+Rave Down
+These Times
+Son Of Mustang Ford
+
+(44:09)
+
+Shared on Dime 2023-04-15 by Aaron (supahstah)

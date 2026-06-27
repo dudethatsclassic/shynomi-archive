@@ -1,0 +1,107 @@
+Uploaded by Axel(a.k.a. RoryGallagher), Friesland, Germany.
+
+recording, trading and sharing for the Blues-Rock-&-Jazz community,
+what are you sharing with all of us
+
+
+Audioslave:
+
+Lineage: RB4 German FM radio broadcast(on 21st October 2003) > Nokia satellite bowl > Pace satellite TV receiver > via Scart cable > Akai VCR > Kodak 240min master VHS > playback on Akai VCR via Kenwood Amplifier > Pioneer stand alone CD recorder > CD > EAC(secure mode, enjoy EAC log in German language) > Wav > TLH(level8) > Flac (> YOU)
+Taped by: Axel himself
+File Size: 361MB
+No artwork...
+Length: 51:52min
+Information: http://db.etree.org/lookup_show.php?shows_key=177848
+more information: http://bands.rock-im-park.de/index.asp?year=2003
+
+
+Rock Im Park, Frankenstadion, Nürnberg(a.k.a. Nuremberg), Germany, 08th June 2003
+01) Announcement RB4 on 21st October 2003
+02) Seven Nation Army
+03) Set It Off
+04) Exploder
+05) Gasoline
+06) Like A Stone
+07) Super Stupid (a few seconds only due to broadcasting senses)
+08) Announcement RB4
+09) Light My Way
+10) Shadow On The Sun
+11) Techno Ted
+12) I Am The Highway
+13) Show Me How To Live
+14) Cochise ~ Announcement RB4
+Length: 51:52min
+Personal:
+Chris Cornell: Vocals, Guitar
+Tom Morello: Guitar
+Tim Commerford: Bass
+Brad Wilk: Drums
+
+
+This show is for free trading only ~ if you sell you´ll go to hell
+
+Enjoy,
+P&L
+
+(Source: RB4 FM radio broadcast)
+
+
+the finger of audioslave2003-06-08:
+
+audioslave2003-06-08d1t01.flac:41b017df7674089978f874eff5b32f41
+audioslave2003-06-08d1t02.flac:b3172432ab02f2463cf111672cfd22f2
+audioslave2003-06-08d1t03.flac:60ebb4fe538632d6bbd4703fbedd3194
+audioslave2003-06-08d1t04.flac:7842690a909938e64b0c1bc7c74a51e0
+audioslave2003-06-08d1t05.flac:d5006d23629d55b61f7ca09a79bfe7b2
+audioslave2003-06-08d1t06.flac:21b881c3554714bd6aff73a613910b85
+audioslave2003-06-08d1t07.flac:3d9d15297c4934453125808e9abd3b79
+audioslave2003-06-08d1t08.flac:80280757de82f7a370f06cd9fe2fbf11
+audioslave2003-06-08d1t09.flac:f1b05f13dfaec16f39b0309e05c6da14
+audioslave2003-06-08d1t10.flac:088f545d26a35a5c338ab966e280a97a
+audioslave2003-06-08d1t11.flac:315fb8f21832b58dc434afff67c6b501
+audioslave2003-06-08d1t12.flac:b7365163c34371f10ac279aa787ba183
+audioslave2003-06-08d1t13.flac:4c8ffb325508b7664465ba3d15433dc4
+audioslave2003-06-08d1t14.flac:057b10afa6a253e5dd42e6007591007a
+
+(Flac Frontend used)
+
+
+shntool st5 of audioslave2003-06-08:
+
+41b017df7674089978f874eff5b32f41  [shntool]  audioslave2003-06-08d1t01.flac
+b3172432ab02f2463cf111672cfd22f2  [shntool]  audioslave2003-06-08d1t02.flac
+60ebb4fe538632d6bbd4703fbedd3194  [shntool]  audioslave2003-06-08d1t03.flac
+7842690a909938e64b0c1bc7c74a51e0  [shntool]  audioslave2003-06-08d1t04.flac
+d5006d23629d55b61f7ca09a79bfe7b2  [shntool]  audioslave2003-06-08d1t05.flac
+21b881c3554714bd6aff73a613910b85  [shntool]  audioslave2003-06-08d1t06.flac
+3d9d15297c4934453125808e9abd3b79  [shntool]  audioslave2003-06-08d1t07.flac
+80280757de82f7a370f06cd9fe2fbf11  [shntool]  audioslave2003-06-08d1t08.flac
+f1b05f13dfaec16f39b0309e05c6da14  [shntool]  audioslave2003-06-08d1t09.flac
+088f545d26a35a5c338ab966e280a97a  [shntool]  audioslave2003-06-08d1t10.flac
+315fb8f21832b58dc434afff67c6b501  [shntool]  audioslave2003-06-08d1t11.flac
+b7365163c34371f10ac279aa787ba183  [shntool]  audioslave2003-06-08d1t12.flac
+4c8ffb325508b7664465ba3d15433dc4  [shntool]  audioslave2003-06-08d1t13.flac
+057b10afa6a253e5dd42e6007591007a  [shntool]  audioslave2003-06-08d1t14.flac
+
+No errors occured. (TLH used, attached st5 created and to be verified with TLH)
+
+
+MD5 is the highway.
+
+2f15c7bd817493a723ade2daa0f97c96 *audioslave2003-06-08d1t01.flac
+ecf65301b5e2c0b76392d49f472759de *audioslave2003-06-08d1t02.flac
+eacde50d692bc89dde8f288bac24851a *audioslave2003-06-08d1t03.flac
+6ea142c0109dab98fc8623d152a206d7 *audioslave2003-06-08d1t04.flac
+b342ccd26b957df1a490522bba82d31d *audioslave2003-06-08d1t05.flac
+52cd79ac366df791d8ba26969555942c *audioslave2003-06-08d1t06.flac
+3fc66fa458a14ab33e53a3fc27d36c3a *audioslave2003-06-08d1t07.flac
+ab6051173e29b3287e34e35d3a78b03f *audioslave2003-06-08d1t08.flac
+62b5dd5c84cf6bc881d000c8495dfa07 *audioslave2003-06-08d1t09.flac
+f4ae57e9c0534472ae1b7f862c7a9f6e *audioslave2003-06-08d1t10.flac
+48a627674d56b58f224f76acc152a671 *audioslave2003-06-08d1t11.flac
+d1fd176445a514c441fe45038afe47b5 *audioslave2003-06-08d1t12.flac
+5267347cbf4addbe9f5bdf0c046ab0ef *audioslave2003-06-08d1t13.flac
+e94c69ca195f60b341b3cc796714031d *audioslave2003-06-08d1t14.flac
+
+No errors occured. (Trader´s Little Helper Said That.)
+Attached MD5 was created with MD5summer.

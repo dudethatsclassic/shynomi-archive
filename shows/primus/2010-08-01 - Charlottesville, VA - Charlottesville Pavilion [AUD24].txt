@@ -1,0 +1,40 @@
+PRIMUS
+2010/08/01 - Charlottesville Pavilion; Charlottesville VA, USA
+
+Taper: travelinbeat
+Location:  *STEALTH*
+Source:  CA-14's >  CA-9100 Pre > Edirol R-09HR @ 24/96
+Editing:  Tracking, normalization to -0.1dB, and fades were all done while the show was laid in Sony Soundforge 8.0 as a wav file.  Periodic loud peaks such as nearby claps were enveloped to allow more headroom in the normalization process.
+Conversion: Trader's Little Helper v.2.5.0 (Build 164)
+
+
+
+TRACKLIST:					TIME:
+
+01- Intro					01:42
+02- Those Damned Blue-Collar Tweekers		08:22
+03- Pudding Time				06:09
+04- The Toys Go Winding Down			07:32
+05- American Life				10:47
+06- Golden Boy					02:38
+07- Over the Falls				06:00
+08- Frizzle Fry					07:02
+09- My Name is Mud				06:56
+10- Over the Electric Grapevine			07:36
+11- (Drums)					02:12
+12- (Drums and Whamola)				02:56
+13- Eleven					06:57
+14- Too Many Puppies				04:35
+15- Tommy the Cat >				03:37
+16- The Awakening >				01:48
+17- Tommy the Cat				04:28
+18- Behind My Camel				01:42
+19- Groundhog's Day				06:27
+
+				 GRAND TOTAL-   99:26
+
+
+MISC NOTES:
+A strange course of events preceding this show (which was early in the tour) lead to some considerable uncertainty as to whether Les / Primus's long standing policy of open-taping was in affect, so I suited up for a low pro gig and brought my open rig just in case.  At the door we were initially told that open taping was fine, only to have the policy changed at the last minute.  Tapers speculate that a disconnect has occurred between the band and the management, and that the latter is either unaware of the artists' wishes, or is consciously going against them.  Another possibility, though somewhat less likely in my opinion, is that the opening act / tourmates, Gogol Bordello, have somehow managed to have their policy override the headlining act's.  Regardless, I was able to get in with my gear and get a pull for both Gogol and Primus (though I decided against taping the very 1st band, who's name I forget).
+
+Big thanks go out to Page for the assist in blocking, and to "Toaster" for helping me track and label my recording!

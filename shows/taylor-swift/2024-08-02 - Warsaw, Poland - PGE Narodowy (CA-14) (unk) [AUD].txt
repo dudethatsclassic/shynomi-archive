@@ -1,0 +1,82 @@
+TAYLOR SWIFT
+
+PGE Narodowy, Warsaw, Poland
+2024-08-02
+
+The Eras Tour
+
+
+00. Intro Music (removed)
+01. Intro
+-- Lover --
+02. Miss Americana & The Heartbreak Prince
+03. Cruel Summer
+04. The Man
+05. You Need To Calm Down
+06. Lover
+-- Fearless --
+07. Fearless
+08. You Belong With Me
+09. Love Story
+-- Red --
+10. Red Intro
+11. 22
+12. We Are Never Ever Getting Back Together
+13. I Knew You Were Trouble
+14. All Too Well
+-- Speak Now --
+15. Speak Now Intro
+16. Enchanted
+-- reputation --
+17. reputation Intro
+18. ...Ready For It?
+19. Delicate
+20. Don't Blame Me
+21. Look What You Made Me Do
+-- folklore / evermore --
+22. folklore / evermore Intro
+23. cardigan
+24. betty
+25. champagne problems
+26. august
+27. illicit affairs
+28. my tears ricochet
+29. marjorie
+30. willow
+-- 1989 --
+31. 1989 Intro
+32. Style
+33. Blank Space
+34. Shake It Off
+35. Wildest Dreams
+36. Bad Blood
+-- THE TORTURED POETS DEPARTMENT --
+37. The Tortured Poets Department Intro
+38. But Daddy I Love Him / So High School
+39. Who's Afraid Of Little Old Me?
+41. Down Bad
+42. Fortnight
+43. The Smallest Man Who Ever Lived
+44. I Can Do It With A Broken Heart
+-- Surprise Songs --
+45. I Can Fix Him (No Really I Can) / I Can See You
+46. Red / Maroon
+-- Midnights --
+47. Midnights Intro
+48. Lavender Haze
+49. Anti-Hero
+50. Midnight Rain
+51. Vigilante Shit
+52. Bejeweled
+53. Mastermind
+54. Karma
+
+
+Lineage:
+CA-14 (c) > Sony PCM A10 (Mic in) > WAV (24/48) > Audacity > WAV (16/44,1) > FLAC
+
+Comments:
+The sound is a bit distant, and wasn't the best sound either (Hamburg Night 1 was much better/clearer).
+I had an annoying Clapper sitting right next to me and tried to remove the claps (hundreds!) in Audacity. 
+It's possible that I didn't get all of them and sometimes you can still hear the remains of the clapping. 
+It is what it is... Enjoy it anyway!

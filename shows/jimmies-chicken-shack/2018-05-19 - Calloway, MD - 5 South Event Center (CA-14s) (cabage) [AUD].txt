@@ -1,0 +1,27 @@
+Jimmie's Chicken Shack
+
+5 South Event Center
+Calloway, Maryland
+May 19th, 2018
+
+Taper: Cabbage <craigkabis@gmail.com>, @mistacabbage
+Location: Mics taped to my shoulder in the front row on Double D's side
+Source: Church Audio 14's > PA-6LC3B (roll off @ 65Khz) > Mic In > Sony PCM-M10 > .wav @ 96 kHz / 24 bit
+Lineage: .wav > USB > Amadeus Pro 2.4.7 (2023) > FLAC 8
+
+
+Setlist:
+01 - School Bus			[06:42]
+02 - Sitting With The Dog	[05:38]
+03 - Blood				[04:31]
+04 - Dropping Anchor		[04:26]
+05 - Pure				[06:46]
+06 - Outhouse			[04:14]
+07 - Lazy Boy Dash		[04:09]
+08 - Spiraling			[04:54]
+09 - Another Day			[13:18]
+10 - Fill In The Blank	[04:26]
+11 - Do Right			[05:38]
+12 - High				[03:57]
+13 - Milk				[08:57]
+Total Running Time:		[77:36]

@@ -1,0 +1,25 @@
+Toad the Wet Sprocket
+June 30th, 2014
+Summerstage, New York, NY
+
+Master/Conversion:
+Edirol R-09 (internal mics), R-09>>Tascam CDRW2000>CD
+recorded FOB by Jon Pasternak
+
+Extraction:
+CD>xACT 2.33 (cdparanoia)>WAV>FLAC, all tracks extracted with no errors
+by Dave Mallick
+
+01. The Moment                [04:37.41]
+02. Good Intentions           [03:43.40]
+03. Whatever I Fear           [03:28.17]
+04. Something's Always Wrong  [05:23.47]
+05. New Constellation         [03:12.42]
+06. Windmills                 [04:22.11]
+07. Come Down                 [03:40.73]
+08. California Wasted         [03:40.65]
+09. Nightingale Song          [03:17.45]
+10. All I Want                [03:49.63]
+11. Fall Down                 [05:23.21]
+12. Walk On The Ocean         [04:10.17]
+                       Total: [48:50.32]

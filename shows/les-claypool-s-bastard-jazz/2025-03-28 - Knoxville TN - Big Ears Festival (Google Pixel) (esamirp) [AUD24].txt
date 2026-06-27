@@ -1,0 +1,33 @@
+Les Claypool's Bastard Jazz
+March 28th, 2025 (Friday)
+Big Ears Festival
+The Mill & Mine
+Knoxville, TN
+
+Source: built in mics > Google Pixel > PCM recorder @ 16/48
+Recorded from: front row by esamirp
+
+Processing: iZotope RX9 > Wavepad > TLH
+
+Setlist:  01:26:25
+01 Jam 1 
+02 Jam 2
+03 Jam 3 [incl. Liquid Sky, Black Sabbath, Groundhog's Day]
+04 banter about the pyramids
+05 Jam 4 [incl. Rumble of the Diesel, Smoke on the Water]
+06 Jam 5 
+07 Jam 6
+
+Les Claypool - bass, vocals
+Skerik - saxophone
+Mike Dillon - percussion
+Stanton Moore - drums
+
+fingerprints:
+lcbj2025-03-28a01.flac:4b2c9aa9458b92b4de7408fca22ef0ab
+lcbj2025-03-28a02.flac:4c2de460af4b4e3e5f2c7d98b3414200
+lcbj2025-03-28a03.flac:d9fcec57ce2f1c15e26388bdaf1c54e4
+lcbj2025-03-28a04.flac:705fce4307b1c35ce0e05ec9216dfeaa
+lcbj2025-03-28a05.flac:f88a7453355b04887ba0c1f18eb8d70f
+lcbj2025-03-28a06.flac:668f849f98919ae7adc34268c6ff74df
+lcbj2025-03-28a07.flac:c93778e1014b646123905a2ead074ad2

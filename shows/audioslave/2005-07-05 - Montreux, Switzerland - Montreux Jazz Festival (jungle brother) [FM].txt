@@ -1,0 +1,18 @@
+01.Your Time Has Come.flac:  successfully fixed/rewritten to '01.Your Time Has Come-fixed.flac'.
+02.Spoonman.flac:  successfully fixed/rewritten to '02.Spoonman-fixed.flac'.
+03.The Worm.flac:  successfully fixed/rewritten to '03.The Worm-fixed.flac'.
+04.Like A Stone.flac:  successfully fixed/rewritten to '04.Like A Stone-fixed.flac'.
+05.Doesn't Remind Me.flac:  successfully fixed/rewritten to '05.Doesn't Remind Me-fixed.flac'.
+06.Gasoline.flac:  successfully fixed/rewritten to '06.Gasoline-fixed.flac'.
+07.Out Of Exile.flac:  successfully fixed/rewritten to '07.Out Of Exile-fixed.flac'.
+08.Set It Off.flac:  successfully fixed/rewritten to '08.Set It Off-fixed.flac'.
+09.Be Yourself.flac:  successfully fixed/rewritten to '09.Be Yourself-fixed.flac'.
+10.Bulls On Parade-Sleep Now In The Fire.flac:  successfully fixed/rewritten to '10.Bulls On Parade-Sleep Now In The Fire-fixed.flac'.
+11.Drown Me Slowly.flac:  successfully fixed/rewritten to '11.Drown Me Slowly-fixed.flac'.
+12.Loud Love.flac:  successfully fixed/rewritten to '12.Loud Love-fixed.flac'.
+13.Shadow Of The Sun.flac:  successfully fixed/rewritten to '13.Shadow Of The Sun-fixed.flac'.
+14.Black Hole Sun.flac:  successfully fixed/rewritten to '14.Black Hole Sun-fixed.flac'.
+15.Call Me A Dog.flac:  successfully fixed/rewritten to '15.Call Me A Dog-fixed.flac'.
+16.I Am The Highway.flac:  successfully fixed/rewritten to '16.I Am The Highway-fixed.flac'.
+
+Padded last file with 116 zero-bytes.

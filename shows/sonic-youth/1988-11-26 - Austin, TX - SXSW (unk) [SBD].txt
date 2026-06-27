@@ -1,0 +1,45 @@
+---------------------------------------------------------------------------
+	Artist:			Sonic Youth
+	Date:			1988-11-26
+	Location:		SXSW
+				Austin 
+				Usa - TX
+---------------------------------------------------------------------------
+	Recorded by:		 Unknown
+	Transferred & encoded by: Tristan Ruellan	
+---------------------------------------------------------------------------
+	Generation:	 	Sbd>FMB>ANA(M)>ANA(X)>Flac
+---------------------------------------------------------------------------
+	Lineage:	 	Sbd
+				>FMB
+				>Unknown FM receiver
+				>Unknown Analog Recorder
+				>ANA(M)
+				>ANA(X)
+				>Tascam 130
+				>Presonus Firebox
+				>Spark2.82
+				>Wav (16bits, 44,1khz)
+				>xAct 1.62
+				>flac (Level 8, SBE fixed)
+---------------------------------------------------------------------------
+	total time:		0:44:19
+	Fileset size:		277.4MB	
+---------------------------------------------------------------------------
+	Note: 			Broadcasted on Italian radio, seems to be 
+				the complete broadcast but not the complete 
+				concert. DJ comments between songs.
+---------------------------------------------------------------------------
+	Setlist:		
+				t01: Brother James 
+				t02: The Wonder 
+				t03: Hyperstation 
+				t04: -DJ-
+				t05: Kissability 
+				t06: Silver Rocket
+				t07: -DJ-	
+				t08: Teenage Riot 
+				t09: Hey Joni 				t10: Eric's Trip 				t11: The Sprawl 
+---------------------------------------------------------------------------
+	Seeded on:		2008-02-23
+---------------------------------------------------------------------------

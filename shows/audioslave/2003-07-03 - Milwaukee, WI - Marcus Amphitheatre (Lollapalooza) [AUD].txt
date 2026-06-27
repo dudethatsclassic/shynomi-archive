@@ -1,0 +1,27 @@
+Audioslave
+11 Jul 03
+Milwaukee, WI
+Marcus Amphitheatre
+Lollapalooza 2003
+
+    Taper: LS
+Recording: DPA 4061s > Oade modSBM-1 > Sony TCD-D7
+ Transfer: DAT-1 in Seagate CTD8000HS > dat2wav 1.2 >
+           CoolEdit Pro 1.2 > CDWav > FLAC
+
+NOTES:
+-Used CEP's Dynamic Processor to reduce extreme bass.
+-Used Waves L1-Ultramaximizer to increase low levels.
+
+01 Gasoline
+02 Set It Off
+03 Light My Way
+04 Like A Stone
+05 Super Stupid
+06 Exploder >
+07 Shadow Of The Sun
+08 I Am The Highway
+09 Seven Nation Army
+10 Show Me How To Live >
+11 Cochise
+

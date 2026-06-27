@@ -1,0 +1,52 @@
+﻿Sonic Youth
+Bumbershoot Festival
+Mainstage
+Seattle Center Arena
+Seattle, WA
+August 30, 1997
+
+** 16 BIT **
+
+Source:  Sony FM/AM Stereo Cassette-Corder WM-F46 with supplied mic > Master cassette (Maxell XLII-S)
+Transfer:  Master cassette > Akai GXC-730D (azimuth adjusted) > Focusrite Scarlett 4I4 3rd Generation USB Audio Interface > Sound Forge 
+Pro 11.0 (Build 299) (Dell PRECISION M6800 laptop) > .WAV
+Mastering:  .WAV  > Sound Forge Pro 14.0 Build 43 [splicing, minor edits, normalize, & fades; Boz Digital Labs T-Bone plug-in (slant EQ)] >
+iZotope RX7 Advanced v7.01.315 (De-click) > iZotope MBIT+ (dithered and downsampled to 16 bit/44.1 kHz) > WavePad (split tracks) > 
+Trader's Little Helper (level 8) > FLAC > TagScanner 6.0.35 (tagging) 
+Taped by:   "crowflies"
+Transferred & mastered by:  Dennis Orr
+Tracked & FLAC'd by:  Rob Gronotte
+
+Setlist: (1:00:07)
+01 Anagrama (fades in)
+02 The Ineffable Me (AKA Proud Marie) (1)
+03 Wildflower Soul (1)
+04 Stil
+05 Sunday
+06 Female Mechanic Now On Duty (1)
+07 Hits Of Sunshine (For Allen Ginsberg) (fades in)
+08 Heather Angel
+
+(l) Instrumental versions
+
+Show Notes:
+All instrumentals except "Sunday", "Hits Of Sunshine", and "Heather Angel".  "Anagrama" and "Stil" are always instrumentals, but the other 
+songs are instrumental versions of songs that usually have lyrics.
+
+Thurston Moore – vocals & guitar
+Kim Gordon – vocals & bass
+Lee Ranaldo – guitar & backing vocals
+Steve Shelley – drums
+
+Mastering Notes:
+Tape flip after "Female Mechanic Now On Duty", the first few seconds of "Hits Of Sunshine" are missing 
+Lots of crowd chatter
+
+SonicYouth1997-08-30t01.flac:8c41df31dac5c17bf7a43f2281e33bd0
+SonicYouth1997-08-30t02.flac:ce0073867b4e7f3bc7ff4aa6141a5473
+SonicYouth1997-08-30t03.flac:d30bb006d6655a873bde42ba502508f4
+SonicYouth1997-08-30t04.flac:90ab8110a10176f89aa56390996807ee
+SonicYouth1997-08-30t05.flac:fc3df151e79e74528a977ac932b71d8e
+SonicYouth1997-08-30t06.flac:ffb8a4edf58b4eb009cdaaa1cc2e3f24
+SonicYouth1997-08-30t07.flac:8af9ad97a613d4599c9563a97177f2da
+SonicYouth1997-08-30t08.flac:ba07c2369105382a0a2a31a41f999956

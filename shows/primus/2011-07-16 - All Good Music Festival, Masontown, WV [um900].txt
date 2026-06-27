@@ -1,0 +1,55 @@
+Primus
+2011-07-16
+All Good Music Festival - Marvin's Mountaintop
+Masontown, WV
+
+Source: 
+
+Microtech Gefell um900 (omni, 52cm split, fob) + Schoeps mk41v (dina, fob) > kc5 > cmc6 > lunatec V3 (digital out) > SD744T (24/48); 
+Wavelab 5 (matrix, fades, tracking)
+
+Recorded By: SonicSound
+
+01. Intro
+02. Groundhog's Day
+03. Duchess and the Proverbial Mind Spread
+04. The Eyes of the Squirrel
+05. American Life
+06. ...Hello All Good
+07. Tommy the Cat > 
+08. The Awakening > 
+09. Tommy the Cat
+10. Lee Van Cleef
+11. Over the Falls
+12. Tragedy's A' Comin'
+13. Whamola
+14. Eleven
+15. Jilly's on Smack
+16. The Green Ranger
+17. Jerry Was A Race Car Driver
+18. Over the Electric Grapevine
+19. Harold of the Rocks
+
+Notes:
+
+Track 3 from 0:00:50 to 0:00:55 patch from section source - MBHO603a/KA200N > Fostex FR2-LE
+
+55fe87ab0c0e581b478cc09205b9c933 *primus2011-07-16t01.flac
+393fc7d563c56780ced42d5b53019636 *primus2011-07-16t02.flac
+1eba752293a5755eea931cbd49aeac22 *primus2011-07-16t03.flac
+1b58793438d5095255d1cad7bff31331 *primus2011-07-16t04.flac
+4a4c619e8271da9450b9246d584ee26a *primus2011-07-16t05.flac
+8c74351f24c2b88bf2418bd5641b4d1d *primus2011-07-16t06.flac
+52caab039ce9d25420aab84ef2696e45 *primus2011-07-16t07.flac
+0209531378afbdde5a1b652c14c72671 *primus2011-07-16t08.flac
+f8b13d300d5de72489ec021da5ed6d6c *primus2011-07-16t09.flac
+1b0cd52df13fc1cb8023cd97fd117b2f *primus2011-07-16t10.flac
+c5598ceb4d58e344f8a9eba88c0e52ec *primus2011-07-16t11.flac
+4a031d1ec9150eb6aa11471296b6da5f *primus2011-07-16t12.flac
+9e999b79d953e4c57d3f7f41d54d46d0 *primus2011-07-16t13.flac
+c38dc70d17ece821fc550fc07e9e5007 *primus2011-07-16t14.flac
+d8a2ab460f2146a0d5e1ab16f05eeb19 *primus2011-07-16t15.flac
+b27b67bcbb7a265bbd6168966b2d152a *primus2011-07-16t16.flac
+e7377c5b01702c1808ec52c458096479 *primus2011-07-16t17.flac
+b82a6c430c1d10a5fec6d88863d67556 *primus2011-07-16t18.flac
+34873cadc2d3004bcc1065adf0b50166 *primus2011-07-16t19.flac

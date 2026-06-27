@@ -1,0 +1,70 @@
+Toad The Wet Sprocket
+November 2, 2013
+Ridgefield Playhouse
+Ridgefield, CT
+
+Source:   Tascam DR-07 MKII [.wav @ 24-bit/48kHz] 
+Lineage:  SD card > USB 2.0 > Amadeus Pro v2.1.5 [.flac @ level 8] 
+Location: DFC on balcony ledge
+Mics:     internals, A-B position  
+
+Taped & Transferred by James Bonaiuto (cd2go@hotmail.com)
+------------------------------------------------------------------------------
+Total: [90:45.775]
+------------------------------------------------------------------------------
+01. intro                                           
+02. The Moment                                        
+03. Woodburning                                 
+04. Good Intentions                                      
+05. Crowing                                    
+06. Windmills                                  
+07. New Constellation                                         
+08. All I Want                             
+09. Whatever I Fear                                      
+10. Come Back Down                              
+11. Nightingale Song                                  
+12. Is There Anyone Out There                        
+13. Is It For Me                            
+14. The Eye                              
+15. Crazy Life                                           
+16. Way Away                                  
+17. California Wasted
+18. Brother
+19. Fall Down
+20. encore
+21. Something’s Always Wrong
+22. I’ll Bet On You
+23. Walk On The Ocean                                                                                                                            
+------------------------------------------------------------------------------
+Amadeus Pro Notes:
+
+- Balanced channels
+- EQ
+- Normalized peak level to -0.1 dB
+- Faded beginning/end of show
+------------------------------------------------------------------------------
+xACT v2.25 FLAC Fingerprint:
+
+ttws2013-11-02t01.dr07mkII.flac:2cbe9e3b178e80aa028c6016ac22f5ee
+ttws2013-11-02t02.dr07mkII.flac:198508a21f9e5db69c91eddafa43c057
+ttws2013-11-02t03.dr07mkII.flac:a3c8ec94f6286190744b4273d53601ce
+ttws2013-11-02t04.dr07mkII.flac:dfb9655cae9a2b90c6be8976298e2d92
+ttws2013-11-02t05.dr07mkII.flac:44e43ebfc6df4144623d51c18bcc9f10
+ttws2013-11-02t06.dr07mkII.flac:be257ada4df86d8ab1036e8738dbada7
+ttws2013-11-02t07.dr07mkII.flac:caa657a57d84239f0b074f661e3f52b8
+ttws2013-11-02t08.dr07mkII.flac:be836e2a616d323b2a44351c144ca164
+ttws2013-11-02t09.dr07mkII.flac:29a8dcdf1a9dfde102413e4d6ef268e0
+ttws2013-11-02t10.dr07mkII.flac:9f6bab88fe06cd77ea99c8aea810f59e
+ttws2013-11-02t11.dr07mkII.flac:4e3de0ba90ed3187b5914b1a9a148306
+ttws2013-11-02t12.dr07mkII.flac:c638679cc75e6a34309027c68181768b
+ttws2013-11-02t13.dr07mkII.flac:635eba4644fdb9f3be21ee418e349787
+ttws2013-11-02t14.dr07mkII.flac:f2435885e1b398416630c06daac27380
+ttws2013-11-02t15.dr07mkII.flac:9dfe0690c5d1652857a0edaa4a0ce8a3
+ttws2013-11-02t16.dr07mkII.flac:d2e297f82b8d28554ebb04d6a05045b3
+ttws2013-11-02t17.dr07mkII.flac:1d7106641258ffa0e2da97a1bccbc364
+ttws2013-11-02t18.dr07mkII.flac:ec7b5e6ebf8450f8119fcca691beab92
+ttws2013-11-02t19.dr07mkII.flac:bbdde221caa63f2e0d80f7d1d08b9f1e
+ttws2013-11-02t20.dr07mkII.flac:5350bb83f1fafa46768329f14256f1c8
+ttws2013-11-02t21.dr07mkII.flac:a249fc0746a6861c25f4cc86e0c7384c
+ttws2013-11-02t22.dr07mkII.flac:8435848d1be75fd147678663a68706c9
+ttws2013-11-02t23.dr07mkII.flac:9ab37aad71b5f7357a590f49c529da43

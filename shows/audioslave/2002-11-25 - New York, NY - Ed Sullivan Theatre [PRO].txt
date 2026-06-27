@@ -1,0 +1,37 @@
+Audioslave - 2002-11-25 - Ed Sullivan Theatre Marquee, New York, USA [PRO-UPSCALED HD]
+
+Audioslave
+November 25th, 2002
+Ed Sullivan Theatre Marquee,
+New York, USA
+
+01. Like A Stone
+02. Cochise
+
+Source: ABC TV (HD) RAGE
+Linage: ABC TV > Video Redo (crop out watermark) > .ts
+
+Video
+Format                         : MPEG-TS
+File size                      : 287 MiB
+Duration                       : 8mn 15s
+Overall bit rate mode          : Variable
+Overall bit rate               : 4 855 Kbps
+
+Audio
+
+Format                         : MPEG Audio
+Format version                 : Version 1
+Format profile                 : Layer 2
+Codec ID                       : 3
+Duration                       : 8mn 15s
+Bit rate mode                  : Constant
+Bit rate                       : 256 Kbps
+Channel(s)                     : 2 channels
+Sampling rate                  : 48.0 KHz
+Compression mode               : Lossy
+
+
+Runtime: 00:08:15
+
+Notes: Incomplete broadcast as Set It Off and Gasoline were released officially, to my research I cannot find any evidence these videos were released officially. 

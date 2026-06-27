@@ -1,0 +1,67 @@
+Claypool Gold:  The Colonel's Primus-Frog-Mackerel Brigade
+Tuesday December 31st, 2024
+Fox Theater
+1807 Telegraph Ave
+Oakland, California
+
+Taper:  LeifH [2024#67]
+Source:  CA-11 > A10 - 2nd rail, dead center
+Transfer:  PC via USB > RX9 > Wavepad > flac (8) via TLH
+
+Setlist:  02:11:20
+01 Paint Your Wagon
+02 Holy Intro  [%]
+03 Highball with the Devil  [@][#][%]
+04 Holy Mackerel  [@][#][%]
+05 Precipitation  [!][@][#][$][%][&][*]
+06 Thela Hun Ginjeet  [!][#][$][&][*]
+07 Rumble of the Diesel  [!][$][&][*]
+08 Whamola  [!][$][&][*]
+09 D's Diner  [!][$][&][*]
+10 Clown Dream
+11 Those Damned Blue-Collar Tweekers  [!][@]
+12 Fisticuffs  [!][@]
+13 Happy New Year  [!][@][%]
+14 Bob's Party Time Lounge  [!][@][%]
+15 Groundhog's Day > 777-9311  [!][@]
+16 Duchess and the Proverbial Mindspread  [!][#][$][&]
+17 The Antipop  [!][@]
+18 My Name is Mud  [!][@][&]
+-encore-
+19 Here Come the Bastards  [!][@][#][$][%][&][*]
+
+Larry "Ler" LaLonde - guitar  [!]
+Bryan "Brain" Mantia - drums  [@]
+Marc "MIRV" Haggard - guitar  [#]
+Mike Dillon - percussion  [$]
+Les Claypool - lead vocals, bass  
+Adam Gates - baritone guitar  [%]
+Paulo Baldi - drums  [&]
+Skerik - saxophone  [*]
+
+Bonus:  32:13
+20 VIP Q & A with Les & Ler 
+
+Night two of two.  Primus show #49 for me.  Originally billed as two nights of Primus with a fisherman's costume ball theme.  Then their drummer quit (again).  Rebranded as Claypool Gold, incorporating members from various Claypool projects, some of whom were already scheduled to be there as part of each night's opening act.  I was a bit skeptical after the initial rebranding, but in the end these were great shows and I'm glad they didn't just scrap the event.  
+
+fingerprints:
+Claypool2024-12-31t01 - paint your wagon.flac:ecb025858c6aa98bc932b5048d448547
+Claypool2024-12-31t02 - Holy Intro.flac:5fb9e6bb6e93b5ec4c547f2d03b849fa
+Claypool2024-12-31t03 - Highball.flac:14e1dca8daa82d18e292e2a29bab6feb
+Claypool2024-12-31t04 - Holy Mackerel.flac:7de249d6198286c90a74f9063f907e19
+Claypool2024-12-31t05 - Precipitation.flac:a2c2905163a3c9fb02da65535b4a85b4
+Claypool2024-12-31t06 - Thela Hun Ginjeet.flac:9f4e9b4d74e0e92dae6d4e64a3a6460e
+Claypool2024-12-31t07 - Rumble.flac:45f4503a6130d59e1831a1fc8d57eb02
+Claypool2024-12-31t08 - Whamola.flac:e37429702f2f02662157b065d7dec542
+Claypool2024-12-31t09 - Ds Diner.flac:e4b87b5fad6d38f03b7b480129009a33
+Claypool2024-12-31t10 - clown dream.flac:78a0833f38a52037dc9c6613b46560b8
+Claypool2024-12-31t11 - Tweekers.flac:ed059aa19848b9c619009bbf5f501e5f
+Claypool2024-12-31t12 - Fisticuffs.flac:cb0723aef38f9d2f11a9ff41fcdeed65
+Claypool2024-12-31t13 - Happy New Year.flac:de5aeacb91252b258606418fd090ae7f
+Claypool2024-12-31t14 - Bobs Party Time.flac:8bbaa2e569693a25fea8f39fbc58ef4e
+Claypool2024-12-31t15 - Groundhogs Day.flac:5c1ca67905c9fa8ff66a24dc735bcfef
+Claypool2024-12-31t16 - Duchess.flac:00474444af32198c5bc08c996b37afd1
+Claypool2024-12-31t17 - Antipop.flac:b3342f0b5fd893371029dd45014476c3
+Claypool2024-12-31t18 - My Name is Mud.flac:a9ebf414d4071341f0dac60b46679562
+Claypool2024-12-31t19 - Here Come.flac:76928317b06cb4ff2cdb2438e0704441
+Claypool2024-12-31t20 - VIP Q n A.flac:978506ae585fcdee614b5f1eb49779b3

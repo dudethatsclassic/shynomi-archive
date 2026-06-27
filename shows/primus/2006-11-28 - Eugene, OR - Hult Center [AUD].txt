@@ -1,0 +1,48 @@
+Primus
+Hult Center
+Eugene, Or
+
+Source:
+FOB > DFC 14th Row > Neumann Ak 40/lc3/km 100's (DIN) >
+V3 > Vx Pocket 440 > Toshiba 3480ct > Wavelab 4.0 @ 24/48
+
+Transfer:
+Wavelab 4.0 24/48 > Resampled, Dithered w/UV 22HR, Fades > Cd Wave > FLac 16/44
+
+Taped,Transferred,Seeded By:
+gotfob
+
+Disc I
+1. To Defy The Laws Of Tradition
+2. Mr. Knowitall
+3. American Life
+4. The Toys Go Winding Down *
+5. Seas Of Cheese
+6. Mr. Krinkle
+7. De Anza Jig
+8. Nature Boy
+9. Drumz
+10. My Name Is Mud
+
+Disc II
+1. Jerry Was A Race Car Driver
+2. Ground Hog's Day **
+-Encore-
+3. Is It Luck
+
+*Les switched to the stand up bass during the jam.
+**Wyonna's Big Brown Beaver vocal tease By Les
+
+Primus2006--11-28d1t01.flac:80295a0a80009c41d761ba33b4adbc9e
+Primus2006--11-28d1t02.flac:c0def580168202c7b96792e78d697c88
+Primus2006--11-28d1t03.flac:6d3554148df83a86b1ab29474255d64a
+Primus2006--11-28d1t04.flac:abcc01fa377c0154ba5507d990c326e8
+Primus2006--11-28d1t05.flac:bb6c15b5026661b9792a29248c00d69f
+Primus2006--11-28d1t06.flac:47314146264f80f23a3a1cd617ca0413
+Primus2006--11-28d1t07.flac:e67d26a1d7fa4ca929a9166b53f3e842
+Primus2006--11-28d1t08.flac:41ab0409126ef18cbfc89c84255be4fb
+Primus2006--11-28d1t09.flac:172c3ffba297807d0ab12b085bd5375a
+Primus2006--11-28d1t10.flac:466f25c3c9d3a6738a90cae5f2c2e8ce
+Primus2006--11-28d2t01.flac:c0fbd856b49f9cd3738922be6bd82f68
+Primus2006--11-28d2t02.flac:35efcd104f8a1f3fc245ad659de35c9a
+Primus2006--11-28d2t03.flac:e85fc2f77660f0d54344c2d3d1df47ee

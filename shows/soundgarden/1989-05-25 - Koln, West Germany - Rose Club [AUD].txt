@@ -1,0 +1,23 @@
+auCDtect: CD records authenticity detector, version 0.8.2
+Copyright (c) 2004 Oleg Berngardt. All rights reserved.
+Copyright (c) 2004 Alexander Djourik. All rights reserved.
+
+Detect mode (0..40 with 0 = most accurate):  8 (default)
+
+
+01 - Gun.wav:  track looks like CDDA with probability 100%.
+02 - Flower.wav:  track looks like CDDA with probability 99%.
+03 - I Awake (I Like You).wav:  track looks like CDDA with probability 100%.
+04 - Little Joe.wav:  track looks like CDDA with probability 100%.
+05 - Hand Of God.wav:  track looks like CDDA with probability 100%.
+06 - Hunted Down.wav:  track looks like CDDA with probability 100%.
+07 - All Your Lies.wav:  track looks like CDDA with probability 100%.
+08 - Kingdom Of Come.wav:  track looks like CDDA with probability 100%.
+09 - Tears To Forget.wav:  track looks like CDDA with probability 100%.
+10 - Incessant Mace.wav:  track looks like CDDA with probability 100%.
+11 - Problem Child.wav:  track looks like CDDA with probability 100%.
+12 - Submission.wav:  track looks like CDDA with probability 100%.
+13 - Thank You.wav:  track looks like CDDA with probability 100%.
+14 - Nothing To Say.wav:  track looks like CDDA with probability 100%.
+15 - Beyond The Wheel.wav:  track looks like CDDA with probability 100%.
+16 - Communication Breakdown.wav:  track looks like CDDA with probability 100%.

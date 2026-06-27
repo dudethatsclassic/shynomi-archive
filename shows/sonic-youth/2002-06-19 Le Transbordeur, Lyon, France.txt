@@ -1,0 +1,28 @@
+Sonic Youth - 2002 06 19 Le Transbordeur, Lyon, FRA
+
+Show notes:
+Decent sounding MD audience recording. Noticed that the left channel was somewhat weak and picked up a lot of crowd noise. I put an envelope around some of the clapping, to lower the volume, then normalized the left channel in pieces. Raised bass and guitars to brighten the sound a little bit. Finally, some light compression to raise the music compared to the crowd. Finally, a removed fade after Radical Adults.
+
+1 intro
+2 Cotton Crown 
+3 Bull in the Heather 
+4 The Empty Page 
+5 Plastic Sun 
+6 Karenology 
+7 Kissability 
+8 noise bridge
+9 Shadow of a Doubt 
+10 Rain on Tin 
+11 Radical Adults Lick Godhead Style -fix
+12 Eric's Trip 
+13 Sympathy for the Strawberry 
+ encore 
+14 Disconnection Notice 
+15 Making the Nature Scene 
+ encore 2 
+16 Drunken Butterfly
+
+Opener:
+Marteau Rouge
+
+Lineage: Minidisc Master > CDR > EAC > FLAC

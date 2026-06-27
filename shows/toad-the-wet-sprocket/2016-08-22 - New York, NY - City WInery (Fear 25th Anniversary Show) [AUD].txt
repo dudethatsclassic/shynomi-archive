@@ -1,0 +1,74 @@
+Toad The Wet Sprocket
+“Fear” 25th Anniversary Show
+22 August 2016
+City Winery
+New York, New York
+
+Recorded by: Christopher Jones <jones.chris@gmail.com>
+Source: DPA 4022 Compact Cardioid > Sound Devices 744T Hard Disk Recorder (@ 24-bit / 96 kHz)
+Location: Approximately 5 meters from the stage.  Microphones clamped to stageright pillar and elevated approximately 2.5 meters, ORTF.
+HD > .flac: Sound Devices 744T Hard Disk Recorder > Apple Macbook Pro (2.53 GHz Intel Core 2 Duo / 4GB 1067 MHz DDR3) > Audiofile Engineering Wave Editor v1.5.8 > xACT v2.38
+
+Resampled with iZotope Resampler at highest quality setting and a filter steepness of "150"; dithered using iZotope MBIT+ with a "Normal" amount of "Ultra" noise shaping applied.  24-bit / 96 kHz version of this recording available in .flac24.
+
+Early Show
+
+t01 Introduction  						01:27.56
+t02 Walk On The Ocean  						03:18.57
+t03 Is It For Me?  						03:25.55
+t04 Butterflies  						04:52.06
+t05 Nightingale Song  						03:51.29
+t06 Hold Her Down  						03:43.16
+t07 Pray Your Gods  						04:20.66
+t08 Before You Were Born  					03:55.23
+t09 Something To Say  						05:03.68
+t10 In My Ear  							03:17.68
+t11 (I Just Called To Say I Love You #) >  			00:39.43
+t12 All I Want  						03:33.38
+t13 Stories I Tell  						05:28.64
+t14 I Will Not Take These Things For Granted  			06:21.16
+t15 Architect  							03:56.30
+t16 Amnesty  							04:38.45
+t17 The Moment  						04:40.63
+t18 Brother  							04:51.56
+---
+t19 “Thank You..."  						00:58.67
+t20 Nothing Can Stop My Loving You %  				03:10.72
+t21 Fall Down  							05:39.39
+
+Late Show
+
+t22 Introduction  						02:02.12
+t23 Walk On The Ocean 						03:43.35
+t24 Is It For Me?   						03:27.65
+t25 Butterflies  						04:52.13
+t26 Nightingale Song   						04:05.40
+t27 Hold Her Down  						03:17.14
+t28 Pray Your Gods  						04:19.36
+t29 Before You Were Born   					04:15.45
+t30 Something To Say  						04:12.70
+t31 In My Ear    						03:06.60
+t32 Intro To...  						00:26.72
+t33 All I Want  						04:13.49
+t34 Stories I Tell  						05:30.02
+t35 I Will Not Take These Things For Granted 			06:08.18
+t36 Fly From Heaven  						04:30.08
+t37 Crazy Life  						04:45.74
+t38 Amnesty  							04:46.69
+t39 Architect  							03:39.03
+t40 Brother  							05:08.26
+---
+t41 “Thank You..."  						01:31.08
+t42 Nothing Can Stop My Loving You %  				03:18.70
+t43 Something’s Always Wrong  					04:48.56
+t44 Fall Down 							04:41.03
+
+								172:09.25
+
+() Indicates a tease or partial song if not part of a song with a parenthetical subtitle
+#  Stevie Wonder cover
+%  Roger Miller and George Jones cover
+
+Notes:
+
+Compiled by Christopher Jones <jones.chris@gmail.com> 25 September 2016.

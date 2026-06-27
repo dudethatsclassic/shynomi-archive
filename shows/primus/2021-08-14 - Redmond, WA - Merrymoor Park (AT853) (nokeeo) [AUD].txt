@@ -1,0 +1,75 @@
+Primus
+August 14, 2021 (Saturday)
+Merrymoor Park
+Redmond, Washington
+
+Source: AT853 > Tascam DT-40X (24/48) wav.
+Transfer: TDT-40X > MacBook > Tracked with Logic > FLAC via XLD.
+
+Location: General admission, stage right ~50 feet behind the soundboard 10 feet from the aisle walkway.
+
+Recorded by Nokeeo.
+
+Setlist:
+01-01. Those Damned Blue-Collar Tweekers
+01-02. Last Salmon Man
+01-03. Break
+01-04. American Life
+01-05. Duchess and the Proverbial Mind Spread
+01-06. Fizzle Fry
+01-07. Sea of Cheese
+01-08. Mr. Krinkle
+01-09. Intersong
+01-10. Jerry Was a Race Car Driver
+01-11. My Name Is Mud
+(Intermission)
+
+Rush Cover Set:
+02-01. A Farewell to Kings
+02-02. Xanadu
+02-03. Break
+02-04. Closer to the Heart
+02-05. Cinderella Man
+02-06. Madrigal
+02-07. Cygnus X-1 (Book I: the Voyage)
+
+Encore:
+02-08. Here Come the Bastards (w/Skerik)
+
+Notes:
+Redmond WA, the forth stop on Primus' A Tribute to Kings Tour.  The tour's name is an homage to Rush's album 'A Farewell To Kings', which was played in its entirety during the second set.  The tour was originally scheduled for the Summer of 2020, but was rescheduled due to the COVID-19 pandemic.
+
+This was my first show since March 2020 and my first attempt at recording a concert with this gear.  Any feedback is welcome.
+
+The show starts off a bit quiet.  In the first mic break, Les Claypool comments on audience members requesting the volume to be turned up.  Throughout the recording there is a bit of chatter from the group next to me.
+
+During the encore the band was joined by Skerik on the saxophone.  Skerik is a Seattle based saxophonist and an original member of Les Claypool's Frog Brigade.
+
+Requests:
+- Do not sell this recording or pair it with a video that is sold.
+- Do not distribute on websites that are not 100% free to use.
+- Do not modify this text file.
+- If re-mastered, do add an additional info file describing changes.
+- Do not distribute lossy formats of this recording.
+- Do support Primus and Rush.
+
+Checksums:
+01-01-Those Damned Blue-Collar Tweekers.flac:ece2cc47625313bc7f1ed3d214406607
+01-02-Last Salmon Man.flac:033970bce87eb29ba6005b39109acf37
+01-03-Break.flac:4be1220f7cb995d19aaa7898e439ca24
+01-04-American Life.flac:0f14d9aefcc460beac010c2441911bb1
+01-05-Duchess and the Proverbial Mind Spread.flac:9e4cf4bdb7427b044492c3383ff6e2dc
+01-06-Fizzle Fry.flac:a574ddc8973aa5baf5cde4dd15de30dd
+01-07-Sea of Cheese.flac:4cc2979d676f62fff79d5fb2eddb824e
+01-08-Mr. Krinkle.flac:7d7bdcbcc51ee8260286edc6b0fbd75c
+01-09-Intersong.flac:b93d828cad08058e5ad1c630292a43d1
+01-10-Jerry Was a Race Car Driver.flac:bec24d4858cc1c394e87432847a0eabd
+01-11-My Name Is Mud.flac:b4882893a7498ef8d4f21a4f96e988f7
+02-01-A Farewell to Kings.flac:d97afe481b81c5a018392ea9125a62e7
+02-02-Xanadu.flac:607d8227d718f7188ca8e9af56fc0849
+02-03-Break.flac:0cc7a11d3a4405c8920e7511fe625c3e
+02-04-Closer to the Heart.flac:7cafb262a438508966577ebb4af1e1cc
+02-05-Cinderella Man.flac:f7ccb02aca7ba2b877f9a78e0ddc9fd1
+02-06-Madrigal.flac:5832ee7677ca2490bc4440ab253777f3
+02-07-Cygnus X-1.flac:f5cb85d1e71c177f985e41d4d654b83f
+02-08-Here Come the Bastards.flac:6417e8af5b81528c70efa438ff4c3180

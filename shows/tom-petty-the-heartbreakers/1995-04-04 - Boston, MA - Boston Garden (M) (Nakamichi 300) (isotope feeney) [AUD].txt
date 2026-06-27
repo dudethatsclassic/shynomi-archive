@@ -1,0 +1,118 @@
+TOM PETTY & THE HEARTBREAKERS
+
+personnel:
+Tom Petty
+Mike Campbell - guitar, backing vox
+Benmont Tench - piano, keyboards, backing vox
+Howie Epstein - bass, harmony vox
+Steve Ferrone - drums
+plus:
+Scott Thurston - guitar, keyboards, percussion, backing vox
+
+venue: Boston Garden
+location: Boston  MA  USA
+date: 1995-04-04 [April 4, 1995]
+
+source: audience MASTER
+recording location: Balcony Section 62, Row AA: front row L side of arena, 2 sections back from stage
+recording gear: Nakamichi 300 microphones (cardioid capsules) > Sony Hi8 videocamera  (exact make & model # not remembered)
+lineage: Hi8 videocassette MASTER  (pb on same camera as recorded) > Pioneer SG 9500 [10 band stereo EQ] > dbx 117 [dynamic range restoration] > Sansu1 AX-7 [4-channel mixer] > Toshiba DX-900 VCR [PCM encoding] > Sony RCD-W1 [standalone CD recorder (D/D/D 'listening' CD, track start IDs inserted manually ‘on the fly’)] > Exact Audio Copy [wav files extracted uncompressed] > DeGlitch [glitches detected & corrected] > Sound Forge 11.0 + Sound Forge 4.5 [smooth fades, blank spots repaired and missing section of Wildflowers patched (cf. MIXING NOTES below)] > Traders' Little Helper [flac files level 8 created, SBEs checked & fixed, checksums created] > torrent creation > www
+total running time: 125' 23"
+file size: 842 MB
+sample rate: 16 bit / 44.1 kHz [CD compliant]
+imaging: stereo
+sound quality: 8.5 (out of 10)
+recorded: Isotope Feeney
+sound design: Isotope Feeney
+title: Petty Larceny
+label: Mighty Big IF
+artwork: yes
+
+(audio was extracted from 'listening' CDRs, so there are fades out & in between disk breaks)
+
+01 Love Is A Long Road
+02 You Don't Know How It Feels
+03 (She's Gonna) Listen To Her Heart (It's Gonna Tell Her What To Do)
+04 I Won't Back Down
+05 Free Fallin'
+06 You Wreck Me
+07 bandmember introduction: Mike Campbell
+- - Diamond Head  [Ventures]
+08 Mary Jane's Last Dance
+09 Into The Great Wide Open
+10 bandmember introduction: Benmont Tench
+- - Learning To Fly
+
+11 Time To Move On
+- - bandmember introduction: Howie Epstein
+12 Girl On LSD
+13 I Just Want To Make Love To You  [Muddy Waters]
+14 bandmember introduction: Steve Ferrone
+- - Wildflowers
+15 The Waiting
+16 Yer So Bad
+- - accompanist introduction: Scott Thurston
+17 It's Good To Be King
+18 Drivin' Down To Georgia
+19 Refugee
+20 Runnin' Down A Dream
+21 Honey Bee
+22 American Girl
+23 Alright For Now
+
+PERFORMANCE NOTES
+Ironically, this TP+H tour seems to be largely in support of Tom Petty's recent "solo" (i.e., without Heartbreakers) release Wildflowers. 6 of the album's 15 songs (plus one outtake/b-side) are performed.
+
+Mike Campbell delivers a virtuoso guitar workout of Ventures surf instrumental Diamond Head. He spices up the extended showcase with snippets of some other guitar instrumentals: James Bond Theme, Out Of Limits, others.
+
+One freshly-minted composition is played: Drivin' Down To Georgia. Interestingly, it is introduced as "Dreamin' Down To Georgia," which may be the song's original title, as TP reveals that it has not been recorded yet.
+
+Upon listening back to this, one thing that struck me is the preponderance of high-pitched audience screams. They provide a susurrus of enthusiasm reminiscent of a Beatles concert! Much has been made of performers' voices enervating over the years, but you hafta wonder about audiencemembers' voices too. How many concertgoers from 1995 could keep up that level of piercing vocal intensity today? Not me.
+
+RECORDING NOTES
+Recorded from Row AA in Section 62 (see picture of ticketstub included). This was in the front row of 2nd balcony section (which overhung 1st balcony by about 10 rows), L hand side of arena 2 sections from front of stage.
+
+Taping from this Prime Location, I had one (directional) mike pointed directly at the PA (only a few feet away from where I was situated), and the other one pointed downwards towards the middle of the room: what Grateful Dead tapers consider the 'sweet spot' mixing board location. This was a good setup. It gave me a very full, almost 3D stereo sound.
+
+MIXDOWN NOTES
+Because of equipment and taping location, the sound on the videotape was good. So I wanted to make an audio copy and have something to listen to without putting unnecessary wear & tear on the mastertape. My solution was to transfer the audio to PCM: the consumer-level digital recording format that immediately preceded DAT. Pulse-code modulated (digital) information was recorded onto VHS videocassettes. My setup at the time was pretty basic: ran signal thru a 10 band stereo equalizer, plus a dbx 117 compressor/expander to restore dynamic range squished by  the auto-compression inflicted audio  by ALC (sliding gain limiter embedded in the circuitry of all consumer-level videocameras at that time).
+
+As good as the digital recording capabilities of Hi8 videocameras were, their audio captures sometimes struck me as being a bit thin: lacking the power felt at the actual live performance. To re-inject some of that ooomph (what I liked to refer to as "the big sound"), my mixes (at that time, anyway) strongly emphasized the bass frequencies. Listening back now, it occurs to me I may have gone a little overboard in that regard. The "big sound" may be a  little TOO big. But it does sound ferocious! YMMV, but today everyone has EQ capability for playback, so one can season to taste.
+
+The VHS PCM was eventually transferred > CDR, and it is from those D/D/D copies that information was extracted for this flac creation.
+
+One of the defects of Hi8 video technology = the presence of bare spots (no data whatsoever) here and there. Not the traditional dropouts heard on analogue tapes, but a complete loss of information. These are not caused by the absence or diminution of magnetic particles, but by the tape failing altogether to make contact with the helical scan recording head - - - either because of moisture inside the compartment, or a thick spot (excess of particle coating) on the tape. Back when I was first transferring this to digital (PCM), I had no effective way of dealing with those lacunae. Digital editing (Sound Forge etc.) had not entered my arsenal yet, so I just had to accept them as part of the recording landscape. But when listening back to this to vet it for upload, I felt maybe I could repair those bald spots. The shortest ones were fixable by simply stitching together the bordering information. In some longer cases I imported a matching piece of sound from another part of he file. In a couple of cases where there was no matching audio elsewhere, I used a timestretch tool to fill in the gap, so that the surrounding information could be stitched together without a  noticeable contraction in tempo.
+
+There was a 3 to 4 second gap in the middle of Wildflowers. Unfortunately the resulting missing lyric exists nowhere else in the song, so there was no way to cut & paste it from elsewhere in the soundfile to camouflage its absence. I eventually decided to import the same passage from my recording of the following nite (4/5/95), recorded with the same equipment but from similar vantage point on opposite side of arena. Volume match, EQ match, and imaging match (amount of stereo separation) to make substitution as subtle as possible.
+
+WARTS
+The R ch = slightly lower in volume (c. 1 - 1.5 db). This is undoubtedly a mistake I made when first transferring audio to PCM. Despite its awesome capabilities, the VU meters on the Toshiba 900 were pretty small, so small differences were hard to spot. As a result, this mix = slightly lopsided, but I don't think it's that noticeable, and didn't think it merited going back for a complete remix of the entire project. If I start going down that road, it'll be ANOTHER 30 years before these recordings see the light of day.
+
+There are a few minor mike bumps still present. Most were edited out, but a couple were during stage announcements and proved too tricky to edit out in a timely fashion.
+
+There is a jumpcut at about the 4:07 mark of track d1t07 (Diamond Head). Barely noticeable. In order for the edit to make musical sense a little information had to be sacrificed, but I thot it was the lesser of two evils.
+
+As mentioned in MIXDOWN NOTES above, a repair was effected on the song Wildflowers by inserting a piece from the following nite. Although archivally corrupt (the patch is from a completely different  performance), under the circumstances it seemed like the best choice.
+
+DON'T DO ME LIKE THAT DEPT.
+As usual, I request that this not be uploaded elsewhere. I'll do it when and IF.
+
+  -- IF --
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

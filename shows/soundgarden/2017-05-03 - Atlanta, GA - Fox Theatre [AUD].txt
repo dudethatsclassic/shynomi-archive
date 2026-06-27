@@ -1,0 +1,111 @@
+Soundgarden
+Fox Theatre
+Atlanta, GA
+May 3, 2017
+
+** 16 BIT **
+
+Source:  Sonic Studios DSM-6P w/3-way lo-cut filter (@ 80hz, middle setting) > Tascam DR-2d @ 16 bit/44.1 kHz
+Mastering:  .WAV > Sound Forge Pro 11.0 (Build 299) [WAVES GEQ Classic Stereo equalizer plugin (see EQ settings in "Mastering Notes" below);
+            iZotope Mastering Suite (declick); minor edits, normalize, & fades] > CDWav tracking) > Trader's Little Helper (level 5) > FLAC >
+            TagScanner 6.0.18 (tagging) 
+Location:  Section: DLC Row: A seat: 33 and 35
+Recorded by:  Steve "ballsdeep" Hagar
+Mastered by:  Dennis Orr
+
+Setlist:
+01 Crowd
+02 Incessant Mace
+03 All Your Lies
+04 Hunted Down
+05 Drawing Flies
+06 Searching With My Good Eye Closed >
+07 Spoonman
+08 Chat
+09 Outshined
+10 Black Hole Sun
+11 Crooked Steps
+12 My Wave
+13 The Day I Tried To Live
+14 Chat
+15 Been Away Too Long
+16 A Thousand Days Before
+17 Burden In My Hand
+18 Rusty Cage
+19 Blow Up The Outside World >
+20 Fell On Black Days
+21 Ugly Truth
+22 Chat
+23 Hands All Over
+24 Encore Break
+- Encore -
+25 Slaves & Bulldozers
+
+Chris Cornell – lead vocals & rhythm guitar
+Kim Thayil – lead guitar
+Ben Shepherd – bass & backing vocals
+Matt Cameron – drums & backing vocals
+
+RIP Chris Cornell.......52 years young.
+
+Mastering Notes:
+Here are the EQ settings I used, based on Steve's analysis with his Kenwood GE-622 equalizer
+
+160 hz   -2dB
+250 hz   -4dB
+400 hz   -2dB
+1.5 khz  -2dB
+4.0 khz  +2dB
+6.3 khz  +4dB
+10.0 khz +2dB
+
+Show Notes:
+This show was the center of the Oreo, the first ticket purchased (thru the Soundgarden presale) for a 3.5 week adventure.
+
+I had row X, orchestra. I realized that was 'under the overhang', and that would just not do, so I picked up a pair of row A, dress-circle seats, and made friends with my seatmates. So I was $200 into the show before it started (and picked up another $250 in merch, being a headline show, it was the best selection).
+
+I got 2 decks (there's also a Tascam/internals source, maybe someday...) and a vidcam in, but sadly the vantage point for filming did not materialize.
+
+All that said...what a fucking show. They deleted 3 songs from the set (I think the pic is on my phone), and it was still right at 2 hours.
+
+When Tuscaloosa, another headline show, was only 98 minutes long, just 3 nights later, I should have seen the writing on the wall.
+
+This show opens with the 1-2-3 punch of "old shit" (bewildering the hipsters to no end) before the slow brew bubbled over with the 10-ton heavy thing of "Hands All Over" and "Slaves And Bulldozers".
+
+I dig the "sound" of this show over all the others (no wind, no one really in front of me, it reminds me of an early 70's Zeppelin show), and consider it a gift from the taping gods.
+
+Play it LOUD! It's what Chris would have wanted.
+
+Thank Dennis. He's the guru in all of this, I'm just the pusher of the buttons.
+
+More new shit, less vault...
+
+
+---ballsdeep OUT!!!!
+
+Soundgarden2017-05-03t01.flac:06363bc05c990f36ca2160ac5c95800c
+Soundgarden2017-05-03t02.flac:e1956e98c64e939d31bfc398c818a389
+Soundgarden2017-05-03t03.flac:27ccbb78cfee15b37f3c7ca42f9f1e12
+Soundgarden2017-05-03t04.flac:c86c6efa75719d8f7ce7129c8dac6b0c
+Soundgarden2017-05-03t05.flac:b81752fe2bc7a0488a82835bfca007d5
+Soundgarden2017-05-03t06.flac:79a55a2b9087aa54b58055f3d802732c
+Soundgarden2017-05-03t07.flac:c08ea968787c3221033a3512755569f9
+Soundgarden2017-05-03t08.flac:36cc5ab64d94abcdb5f36443b6a0c5f9
+Soundgarden2017-05-03t09.flac:33b4e8b925458ed11d7c91ba4205bdd8
+Soundgarden2017-05-03t10.flac:a03fb5605add485f3bf39c017fb1ce02
+Soundgarden2017-05-03t11.flac:7a1dae07766ff0332b76d4a2393cce85
+Soundgarden2017-05-03t12.flac:0195ce8a06bb81dc42753ddda149098d
+Soundgarden2017-05-03t13.flac:ec4bc859c4ba707b6ebfa4e0694aac66
+Soundgarden2017-05-03t14.flac:1ac6f41d6c29c39fc83602a343fba0e9
+Soundgarden2017-05-03t15.flac:865acce26557942222191e2d828e3961
+Soundgarden2017-05-03t16.flac:b2f31aad79de195f0fb6a4698fa6c975
+Soundgarden2017-05-03t17.flac:dab93053681e369e21bda5ca79095c4c
+Soundgarden2017-05-03t18.flac:37529a7c8191dfc4372c3b32d0d6e96f
+Soundgarden2017-05-03t19.flac:cce471a2e86f997a5a7c6420e5196d26
+Soundgarden2017-05-03t20.flac:5986224ddb92179f3a846a0102804525
+Soundgarden2017-05-03t21.flac:481fddb31d70ede8b7d89764b43c25da
+Soundgarden2017-05-03t22.flac:d2df029b22f13fbdb6dfd0495287711f
+Soundgarden2017-05-03t23.flac:d99ae71603d6df670b9ad49f0bd31c59
+Soundgarden2017-05-03t24.flac:fdbad1710536f84678a7685861c856eb
+Soundgarden2017-05-03t25.flac:3190c1b5541e6ea6c169ab085d498802
+

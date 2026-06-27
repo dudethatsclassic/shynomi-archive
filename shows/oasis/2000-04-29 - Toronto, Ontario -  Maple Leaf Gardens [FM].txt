@@ -1,0 +1,56 @@
+﻿Oasis
+Maple Leaf Gardens
+Toronto, ON
+April 29, 2000
+(Broadcast on "RadioSonic" on CBC Radio2 - CBU-FM 105.7 Vancouver - exact broadcast date unknown)
+
+** 16 BIT **
+
+Source: FM Broadcast > Technics Receiver SA 212 > Yamaha K-520 Cassette Deck > Master cassette (Maxell XLII)
+Transfer: Master cassette > Nakamichi LX-5 (azimuth adjusted) > Focusrite Scarlett 4I4 3rd Generation USB Audio Interface > Sound Forge Pro 11.0 
+(Build 299) (Dell PRECISION M6800 laptop) > .WAV
+Mastering: .WAV's > Sound Forge Pro 14.0 (Build 43) (splicing, minor edits, normalize, & fades) > iZotope RX7 Advanced v7.01.315 (De-click) > CDWav 
+(tracking) > iZotope MBIT+ (dithered and downsampled to 16 bit/44.1 kHz) > Trader's Little Helper (level 5) > FLAC > TagScanner 6.0.35 (tagging) 
+Taped by: "crowflies"
+Transferred & mastered by: Dennis Orr
+
+Setlist: (55:24)
+01 DJ Intro/Crowd
+02 Fucking In The Bushes
+03 Go Let It Out >
+04 Who Feels Love?
+05 Supersonic
+06 Acquiesce
+07 Where Did It All Go Wrong?
+08 Gas Panic!
+09 Roll With It
+10 Wonderwall
+11 Don't Look Back In Anger
+12 Live Forever
+13 DJ Outro
+
+Liam Gallagher - vocals & guitar
+Noel Gallagher – vocals & guitar
+Gem Archer - guitar & backing vocals
+Mike Rowe - keyboards
+Andy Bell - bass
+Alan White - drums & percussion
+
+Radio Host - David Wisdom
+
+Mastering Notes:
+Tape flip during the applause after "Gas Panic!" - seamlessly spliced, no music lost
+
+Oasis2000-04-29t01.flac:c583c5ce6d75a61ac357a7d7d91f78a2
+Oasis2000-04-29t02.flac:52f7efc4d088d6dbb2f245200dea0e93
+Oasis2000-04-29t03.flac:7e1d6632e5bc9cbe897c3f8cc2a4f40e
+Oasis2000-04-29t04.flac:923402dfeb49adc8ccd7830b8d888d9a
+Oasis2000-04-29t05.flac:6f67e3eea209e14df9c661660f7f60bb
+Oasis2000-04-29t06.flac:0a0637cfafd1c653916a1c3c9dd66b48
+Oasis2000-04-29t07.flac:e4cbcaba8accfb9343c44caf20346b6a
+Oasis2000-04-29t08.flac:6d1411b14cfd9ea6e1dc15e76502fc64
+Oasis2000-04-29t09.flac:9abe9a0f2fb38b8d1bf756c603500a6e
+Oasis2000-04-29t10.flac:971e18e13c16d9ed7a9cfe111524da87
+Oasis2000-04-29t11.flac:88f3bad5866d5e47996e37725ecdc4b2
+Oasis2000-04-29t12.flac:6b64d6a5ec36005dfae80dda09fe0d98
+Oasis2000-04-29t13.flac:6e1851988be44b4d17cece63aeb8a731

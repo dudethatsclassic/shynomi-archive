@@ -1,0 +1,25 @@
+auCDtect: CD records authenticity detector, version 0.8.2
+Copyright (c) 2004 Oleg Berngardt. All rights reserved.
+Copyright (c) 2004 Alexander Djourik. All rights reserved.
+
+Detect mode (0..40 with 0 = most accurate):  8 (default)
+
+
+ratm 1996-08-13-vhs-01.wav:  track looks like CDDA with probability 99%.
+ratm 1996-08-13-vhs-02.wav:  track looks like CDDA with probability 100%.
+ratm 1996-08-13-vhs-03.wav:  track looks like CDDA with probability 100%.
+ratm 1996-08-13-vhs-04.wav:  track looks like CDDA with probability 100%.
+ratm 1996-08-13-vhs-05.wav:  track looks like CDDA with probability 100%.
+ratm 1996-08-13-vhs-06.wav:  track looks like CDDA with probability 100%.
+ratm 1996-08-13-vhs-07.wav:  track looks like CDDA with probability 100%.
+ratm 1996-08-13-vhs-08.wav:  track looks like CDDA with probability 100%.
+ratm 1996-08-13-vhs-09.wav:  track looks like CDDA with probability 100%.
+ratm 1996-08-13-vhs-10.wav:  track looks like CDDA with probability 100%.
+ratm 1996-08-13-vhs-11.wav:  track looks like CDDA with probability 100%.
+ratm 1996-08-13-vhs-12.wav:  track looks like CDDA with probability 100%.
+ratm 1996-08-13-vhs-13.wav:  track looks like CDDA with probability 100%.
+
+No errors occured.
+
+Test for MPEG log saved to file.
+

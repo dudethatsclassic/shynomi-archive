@@ -1,0 +1,71 @@
+Primus
+Wednesday December 31st, 2025
+Fox Theater
+1807 Telegraph Avenue
+Oakland, California
+
+Taper:  LeifH [2025#75b]
+Source:  CA-11 > A10
+Transfer:  PC via USB > RX9 > Wavepad > flac (8) via TLH
+
+Setlist:  02:17:27
+01 Send in the Clowns [Frank Sinatra][*]
+02 clown dream
+03 The Antipop
+04 Last Salmon Man
+05 The Star Spangled Banner > American Life
+06 banter
+07 Little Lord Fentanyl
+08 Restin' Bones
+09 Bob's Party Time Lounge
+10 Hamburger Train
+11 Hello Skinny [The Residents]
+12 Too Many Puppies
+13 To Defy the Laws of Tradition
+14 Happy New Year
+15 N.I.B. [Black Sabbath][*]
+16 banter
+17 Duchess and the Proverbial Mind Spread
+18 Shadow of a Man [Oysterhead]
+19 Jilly's on Smack
+20 Wynona's Big Brown Beaver
+-encore-
+21 banter
+22 Holy Diver [Dio][*]
+23 Southbound Pachyderm
+
+Bonus:  45:20
+24 pre show Q & A
+
+Les Claypool - vocals, bass, synthesizer
+Larry "Ler" LaLonde - guitar
+John "Hoffer" Hoffman - drums
+Puddles the Clown - vocals [*]
+
+Night two of two.  A clown themed costume contest was held this night.  Thirteen finalists were brought on stage in front of a closed curtain prior to the Primus set.  Puddles the Clown, who performed as an opening act, held a sign that said, "Cheer 4 Yer Fav!" and the winner would later receive a waffle maker signed by the band. 
+
+fingerprints:
+Primus2025-12-31t01 - Send in the Clowns.flac:3529870218cc3013375eccfb83b16b18
+Primus2025-12-31t02 - clown dream.flac:ac72269c015758c64124254c7433ac23
+Primus2025-12-31t03 - Antipop.flac:578db68382a21804da1537ac7180bc24
+Primus2025-12-31t04 - Last Salmon Man.flac:0fc2b7f5a310ca215ef4f742c8cb52d6
+Primus2025-12-31t05 - American Life.flac:d3bda973c43eaabc94c1877675167b8a
+Primus2025-12-31t06 - banter.flac:c074f1aa7c63caf9d44d961b5aa85b09
+Primus2025-12-31t07 - Fentanyl.flac:f781b01d8346138c9e45aefa3bab1386
+Primus2025-12-31t08 - Restin Bones.flac:5f7e70adb17451b3038b6d4257982d52
+Primus2025-12-31t09 - Bobs.flac:3f742764d82923ea353b34e9962eab18
+Primus2025-12-31t10 - Hamburger Train.flac:ba73ce87ee3a7299d2faec681a63f25a
+Primus2025-12-31t11 - Hello Skinny.flac:3d736644eb0f4b8f2d0a8dd05dfe2e23
+Primus2025-12-31t12 - Too Many Puppies.flac:7e00c69263e6d30adcf6f246ad197d0b
+Primus2025-12-31t13 - To Defy.flac:e412e341835711022582cbd3fe786ea6
+Primus2025-12-31t14 - Happy New Year.flac:694439fd316bc2e0a9b2cc4dd822ac98
+Primus2025-12-31t15 - NIB.flac:b5b192c4d9f84d18bf041278913caa3a
+Primus2025-12-31t16 - banter.flac:feb92ecb089275062a22ceaec995e0cc
+Primus2025-12-31t17 - Duchess.flac:bce695bbf4ee942209f246e01ebf6749
+Primus2025-12-31t18 - Shadow.flac:f4c8267a64a475b251897385d2bbae8a
+Primus2025-12-31t19 - Jilly.flac:756f8a58cc8bb80944a49bdda2b654fa
+Primus2025-12-31t20 - Wynona.flac:0cf4d8e2411e76d8536a8026343162d8
+Primus2025-12-31t21 - banter.flac:df19a952bb8305541f35a2763fc7a6f3
+Primus2025-12-31t22 - Holy Diver.flac:b5ca1e4a028fd5f0978f855680b76bc5
+Primus2025-12-31t23 - Southbound.flac:04695d0063306a09d4965ec48d8d1110
+Primus2025-12-31t24 - pre show qna.flac:7f58999b68fbffb0f8cc4402c0708e4b

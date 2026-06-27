@@ -1,0 +1,47 @@
+Oasis
+March 7th, 1996
+Patriot Center
+Fairfax, VA
+Rolling Stone's 'Live from the Pit' show (to be aired on radio stations 3/25/96-3/30/96)
+SBD
+
+Source:  Rolling Stone 'Live from the Pit' CDs (2) > EAC v0.95 beta04 > WAV >
+	 SoundForge (tracking, no EQ) > flac 
+
+01 Swamp Song
+02 Acquiesce
+03 Supersonic
+04 Hello
+05 Some Might Say
+06 Roll With It
+07 Shakermaker
+08 Morning Glory
+09 Cigarettes & Alcohol
+10 Champagne Supernova
+11 Whatever/(Octopus's Garden)*
+12 Wonderwall*
+13 Slide Away*
+14 Don't Look Back in Anger
+15 Live Forever
+16 I Am the Walrus
++ interview track
++ intro track
++ outro track
+
+* = Noel solo acoustic
+
+t01-t16 are roughly 82:30 minutes long, so you may be able to fit onto one CD depending
+on your discs / overburn option.  
+
+*516mb*
+
+Etree link:  http://db.etree.org/lookup_show.php3?shows_key=63972
+
+Notes:
+Editing was done to eliminate commercials and DJ banter.  The really short interviews with
+the band are included in the 'banter' track, included is the show intro / outro tracks
+(depending on how you want to listen to it).  The regular show was edited enough so it sounds
+like one show, the track breaks are between t6/7, t10/11, and t13/14.  Included are scans
+of the actual CDs, and the sound is great throughout.
+
+Originally seeded by NMC on 2/9/04

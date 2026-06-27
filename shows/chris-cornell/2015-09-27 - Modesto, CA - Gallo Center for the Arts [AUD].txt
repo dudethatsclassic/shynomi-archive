@@ -1,0 +1,63 @@
+
+Chris Cornell
+Gallo Center for the Arts: Modesto, CA
+September 27, 2015
+
+Source: Schoeps MK4s > Tinybox > Sony PCM-M10 @ 24-bit / 44.1kHz
+	(Last 3 songs patched with Custom Omni > Edirol R09HR source from 12th row)
+Location: FOB 10th row left stack
+Transfer: SD Card > Audacity (click removal/compressor/amplify/dither) > CDWave > TLH
+Taper: tapeworm(48) 
+
+Setlist:
+
+01 Intro
+02 Before We Disappear
+03 Can't Change Me
+04 The Times They Are a Changin' Back
+05 As Hope & Promise Fade
+06 Nearly Forgot My Broken Heart 
+07 Fell on Black Days
+08 Thank You [Led Zeppelin]
+09 Moonchild
+10 Wide Awake
+11 Doesn't Remind Me
+12 All Night Thing
+13 Call Me a Dog
+14 Blow Up the Outside World
+15 To Love Somebody [Bee Gees]
+16 When I'm Down
+17 Rusty Cage
+18 Sunshower
+19 Hunger Strike
+20 Black Hole Sun
+21 Worried Moon
+22 Like a Stone
+23 Nothing Compares 2 U [Prince]
+24 Ave Maria [Franz Schubert]
+25 Cleaning My Gun
+26 River of Deceit [Mad Season]
+27 Wooden Jesus
+28 -Encore break-
+29 Like Suicide
+30 Imagine [John Lennon]
+31 Josephine
+32 Seasons
+33 Higher Truth
+
+Notes: Higher Truth acoustic tour. Opening act was Hemming (recorded). Thanks to JL for letting me use his source to patch in the last 3 songs; my rig suffered some sort of malfunction resulting in a completely distorted recording. Tinybox set to mid gain, M10 set to 7.** Applied click removal throughout and compressor in select areas prior to amplifying entire file by +4.5dB, and dithering to 16-bit.  Otherwise, raw transfer with no fades or EQ.
+
+Click Removal: 	Threshold - 110
+		Spike Width - 40
+Compressor:	Threshold - -14dB
+		Noise Floor - -60dB
+		Ratio - 5:1
+		Attack Time - 0.1s
+		Decay Time - 2.0s
+
+Archive: Master WAV was archived @ 24-bit/44.1kHz and FLAC'd with cue sheet. 
+
+Taped and transferred by tapeworm(48) 
+Txt file compiled on 12/2/2015
+
+*** DO NOT DISTRIBUTE IN LOSSY FORMATS. DO NOT SELL THIS RECORDING, TRADE IT FREELY *** 

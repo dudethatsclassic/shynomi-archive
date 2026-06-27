@@ -1,0 +1,12 @@
+TOAD THE WET SPROCKET 2/15/95
+WYEP-FM, PITTSBURGH, PA
+
+01 Dialog
+02 Fly From Heaven
+03 Dialog
+04 Woodburning
+05 Dialog
+06 Nightingale Song
+07 Dialog
+
+GEAR USED: trade CDR > EAC > TLH > .flac files

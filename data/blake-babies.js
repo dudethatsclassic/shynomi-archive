@@ -18,7 +18,7 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "San Francisco, CA",
       "venue": "Slim's",
-      "notes": "ANA(M) · ECM-909 · tjcruz",
+      "notes": "ANA(M) \u00b7 ECM-909 \u00b7 tjcruz",
       "version": "AUD",
       "format": "FLAC"
     }

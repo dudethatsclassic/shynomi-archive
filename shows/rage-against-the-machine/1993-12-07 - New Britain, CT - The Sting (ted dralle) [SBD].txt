@@ -1,0 +1,54 @@
+{\rtf1\ansi\ansicpg1252\cocoartf2821
+\cocoatextscaling0\cocoaplatform0{\fonttbl\f0\fswiss\fcharset0 ArialMT;}
+{\colortbl;\red255\green255\blue255;\red0\green0\blue0;}
+{\*\expandedcolortbl;;\cssrgb\c0\c0\c0;}
+\margl1440\margr1440\vieww24060\viewh8400\viewkind0
+\deftab720
+\pard\pardeftab720\sl276\slmult1\partightenfactor0
+
+\f0\fs36 \cf2 Rage Against The Machine\
+1993-12-07\
+The Sting \
+New Britain, CT \
+\pard\pardeftab720\sl276\slmult1\partightenfactor0
+\cf2 \ul \ulc2 \
+\pard\pardeftab720\sl276\slmult1\partightenfactor0
+\cf2 \ulnone Source: SBD (Soundcraft 800) > Sony TCD-D10 Pro (16/48) > MDAT\
+Lineage : MDAT >  Panasonic SV-3700 > Digital S/PDIF Out > Scarlett 18i20 > Mac Pro > Adobe Audition > WAV (16/48) > FLAC >xACT > Vuze\
+Recorded By: Ted Dralle\
+Transferred & Mastered By Scott Medeiros \
+Tracked and Edited By Rich Lemire \
+From the collection belonging to Toni Fishman, Bill Hoy & Scott Medeiros \
+\
+\
+\pard\pardeftab720\sl276\slmult1\partightenfactor0
+\cf2 \ul \ulc2 One Set\
+\
+\pard\pardeftab720\sl276\slmult1\partightenfactor0
+\cf2 \ulnone 01 Intro\
+02 People Of The Sun\
+\pard\tx4320\pardeftab720\sl276\slmult1\partightenfactor0
+\cf2 03 Bombtrack 	\
+\pard\pardeftab720\sl276\slmult1\partightenfactor0
+\cf2 04 Township Rebellion \
+05 Killing In The Name\
+06 Fistful Of Steel\
+07 Wake Up\
+\
+\
+\pard\pardeftab720\sl276\slmult1\partightenfactor0
+\cf2 \ul \ulc2 Show notes\
+\pard\pardeftab720\sl276\slmult1\partightenfactor0
+\cf2 \ulnone Opened for Cypress Hill\
+\
+\pard\pardeftab720\sl276\slmult1\partightenfactor0
+\cf2 \ul \ulc2 Recording Notes \ulnone \
+Original Recording had serious reverb on drums. During the editing and mastering process a lot of the reverb was taken out.\
+\
+Rage Against The Machine is:\ul \
+\
+\pard\pardeftab720\sl276\slmult1\partightenfactor0
+\cf2 \ulnone Zack de la Rocha \'96 lead vocals\
+Tom Morello \'96 guitars\
+Tim Commerford \'96 bass, backing vocals\
+Brad Wilk \'96 drums, percussion}

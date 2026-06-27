@@ -1,0 +1,26 @@
+Noel Gallagher's High Flying Birds
+Corona Capital
+Autódromo Hermanos Rodríguez, Mexico City, Mexico
+19th November 2023
+
+Lineage: yt-dlp > ffmpeg (trim)
+Video: VP9 1920x1080 1928 Kbps 30 fps
+Audio: AAC 128 Kbps 44.1 kHz stereo 
+
+
+Setlist:
+Pretty Boy
+Council Skies
+Open the Door, See What You Find
+We're Gonna Get There in the End
+You Know We Can't Go Back
+In the Heat of the Moment
+If I Had a Gun...
+AKA... What a Life! (Dedicated to Manchester City fans)
+Going Nowhere (Oasis cover)
+The Importance of Being Idle (Oasis cover)
+The Masterplan (Oasis cover)
+Half the World Away (Oasis cover)
+Little by Little (Oasis cover)
+Live Forever (Oasis cover)
+Don't Look Back in Anger (Oasis cover)

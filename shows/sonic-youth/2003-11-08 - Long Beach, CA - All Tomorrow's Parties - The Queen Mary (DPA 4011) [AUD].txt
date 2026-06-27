@@ -1,0 +1,21 @@
+Sonic Youth, 2003-11-08, All Tomorrow's Parties, Queen Mary, Long Beach, California, 86:01
+
+1. noise intro
+2. Rain On Tin
+3. Plastic Sun
+4. Eric's Trip
+5. City Grass (Stones)
+6. Unmade Bed
+7. Catholic Block
+8. Kim Gordon And The Arthur Doyle Hand Cream
+9. Maaco (Dripping Dream)
+10. The Empty Page
+11. Karenology
+12. Shadow Of A Doubt
+13. Brother James
+14. Making The Nature Scene 
+
+Notes, extraction and seed by (rappard [at] gmail [dot] com:
+[audience, 25 meters back, mics in hat > DPA 4011 > Sony PCM-M1 > DAT (master)] + [soundboard > Sony PCM-M1 > DAT (master)] > ProTools > coaxial in > Philips stand-alone burner > CD-Rs (master) > CD-Rs (first generation) > EAC v0.95b4 (proper offset, secure) > FLAC Frontend 1.7.1 (verify, align on sector boundaries) > flac 1.2.0 (level 8) > Mp3tag v2.39 (renamed, tagged) > Trader's Little Helper 1.1.1.90 (generated checksum files)
+
+http://www.sonicyouth.com/mustang/cc/110803.html

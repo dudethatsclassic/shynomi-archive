@@ -1,0 +1,74 @@
+Artist: Soundgarden
+Date: 1990-09-03
+Location: Seattle, WA
+Venue: Seattle Center Coliseum (Bumbershoot)
+Source: Audience
+Lineage: DAT(M)>WAV [48kHz/16bit]>WAV [44.1kHz/16bit]>Flac
+Transfer: Tascam DA-20 MKII>PreSonus FireStudio Project>Adobe Audition 3.0 
+Taping Gear: Nakamichi CM-300 w/CP-4 shotgun capsules>Panasonic SV-250
+Taped By: JEMS
+Transferred By: Mike Ziegler
+
+Band Members:
+Chris Cornell - Lead vocals, guitar
+Kim Thayil - Lead guitar
+Ben Shepherd - Bass
+Matt Cameron - Drums
+
+Setlist:
+01. intro
+02. Beyond The Wheel
+03. Flower
+04. Gun
+05. Loud Love
+06. Big Dumb Sex
+07. Hunted Down
+08. Full On Kevin's Mom
+09. Ugly Truth
+10. All Your Lies
+11. I Awake
+12. Nothing To Say
+13. Hands All Over
+14. Get On The Snake
+15. Big Bottom
+
+Length: 78:15
+
+Notes:
+For many years, the annual Bumbershoot Festival in Seattle provided a host 
+of taping opportunities for JEMS. Given its search-free, choose-your-own-seat 
+approach, Bumbershoot became a testing ground gear we could normally deploy. 
+Hence the use of Nak 300 shotguns for this Soundgarden show which we also 
+shot on video. Our seats at the rail gave us mounting capabilities and clear 
+sight lines.
+
+A couple of curious things about the show, the first being that Soundgarden 
+was actually pinch-hitting for the Psychedelic Furs who were scheduled to 
+headline. Second being that the opening act were local power-pop purveyors 
+the Posies, which seemed odder at the time than it does now. The PA cut out 
+several times during the Posies' set but I think it held solid for Soundgarden.
+
+The show includes a cover of Spinal Tap's "Big Bottom" as the set closer. When
+we get around to posting the video, you'll see why it was such a highlight.
+
+Samples provided. Hope you enjoy it. And if you are interested in the video, 
+let us know, it just might motivate us to post it.
+
+Butterking for JEMS
+
+Fingerprints:
+soundgarden1990-09-03t01.flac:8955ae1fa4aa10986105271754d01bd8
+soundgarden1990-09-03t02.flac:a4bc1d3028414b7017a837c5c9246fa4
+soundgarden1990-09-03t03.flac:fdf80cce9679de0c9d0a9252ee51cdd5
+soundgarden1990-09-03t04.flac:ae3743426d21f0004fb01326fd1adcd6
+soundgarden1990-09-03t05.flac:83166d8b4cf31a4656fc0109e7df15b7
+soundgarden1990-09-03t06.flac:bb9256812bb09ff7a6b8b7382871548c
+soundgarden1990-09-03t07.flac:3a511781d1d17de9ea105128694af590
+soundgarden1990-09-03t08.flac:36d27558614cb47e69191d3c07b73b0a
+soundgarden1990-09-03t09.flac:964812691025f1eaa946d98244c5961e
+soundgarden1990-09-03t10.flac:ffe54765a8837ba2d41072a00ccc418f
+soundgarden1990-09-03t11.flac:b26558ab4e668f6cad3db3b7ac5e0fcc
+soundgarden1990-09-03t12.flac:9459ec31642d0baf5b9542283c9a5d36
+soundgarden1990-09-03t13.flac:6b838c3b0dc19c40dd7a6524cdef3144
+soundgarden1990-09-03t14.flac:3b10dc99298705f752dd7d6c42c880f0
+soundgarden1990-09-03t15.flac:80f226a04dc46cc0483f00ab08ab9762

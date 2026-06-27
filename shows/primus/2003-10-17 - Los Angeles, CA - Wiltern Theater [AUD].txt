@@ -1,0 +1,25 @@
+SET 1 - SET 2 DISC 1
+01 To Defy.flac:d5f18a5666ca72ece8e12a44c38cc879
+02 Professor Nutterbutter.flac:530064c88a7b8791b639be90786b2c67
+03 Mrs Blaileen.flac:66dc2b6cd7610f01430f98c360af4820
+04 Sgt Pilcher.flac:96f66d16682d0180587909359a622b56
+05 Southbound Pachyderm.flac:be7e2d29cf8bfebb6e69a2d2bdf46e3f
+06 My Friend Fats.flac:8cb77a2358cc30ed0f0ae70f4213ea28
+07 Hello Skinny _ Harold Of The Rocks.flac:a1492ac325a43ad373dd035fcee29b67
+08 Seas of Cheese.flac:a9b5853221a0460b02b499c9e306f4f5
+09 Here Come The Bastards.flac:6162cc0f5fd69d191575203e847876b5
+10 Sgt Baker.flac:0b9dde7812a0cccfab85f51151d23853
+
+SET 2 DISC 2
+01 American Life.flac:e3dfa3fbdd5f7ea38775d094113ef2e9
+02 Jerry Was A Race Car Driver.flac:fe95e90d708bdff7c429c504c98a3908
+03 Drums Whamola.flac:191906db5f2ad6fa1661f3dffedce7f6
+04 Drums Whamola Part 2.flac:e095397110ac9f96ef5be68d50381c07
+05 Eleven.flac:19f5f49f8db2b44df1f6c3498624ee23
+06 Is It Luck_.flac:8271dfd88146eae607ccb643e755afab
+07 Grandad's Little Ditty _ Tommy The Cat.flac:434b8113e39558d4a1456204d2f8c15a
+08 Jam.flac:fb7a004a29bbe392d0a8750c9c74685e
+09 Those Damn Blue Collar Tweekers.flac:ac8bb9ab6c1d7b1d0d546cf094e2f06f
+10 Fish On.flac:c052ec4debe7f0582baa946f463d421d
+11 Bastards.flac:13c2d525a94fc8ca4ce1b43af1be49b6
+12 Too Many Puppies.flac:2ae3d7dc13a01f7ed466e0406eb73120

@@ -1,0 +1,67 @@
+Primus
+Friday June 22nd, 2017
+Marymoor Park
+6046 West Lake Sammamish Pkwy NE
+Redmond, WA
+
+Taper: LeifH
+Source:  CA-11 (cardioid) > Bat2B > Sony PCM M10 @ 24/48 > microSD card
+Transfer:  Memory card > PC via USB > Wavepad Masters Edition (edits, amplify, tracking, 16/44.1) > flac (8) via TLH
+
+Setlist:  1:33:50
+00 intro
+01 Those Damned Blue-Collar Tweekers
+02 Too Many Puppies > 
+03 Sgt. Baker >
+04 Too Many Puppies (Reprise)
+05 HOINFODAMAN
+06 Frizzle Fry
+07 The Valley
+08 The Seven
+09 The Trek
+10 The Scheme
+11 The Dream
+12 The Storm
+13 The Ends? 
+14 Intruder (~) [Peter Gabriel]
+15 Welcome to This World > 
+16 Professor Nutbutter's House of Treats > 
+17 My Name is Mud > 
+18 Jerry Was a Race Car Driver
+
+19 Southbound Pachyderm (*)
+
+~ = with Brann Dailor on drums
+* = with Skerik on baritone saxophone
+
+My 34th time seeing Primus.  Opening bands were JJUUJJUU and Mastodon (not recorded).  I found $20 soon after getting in the venue and later an abandoned vinyl copy of the Desaturating Seven.  
+
+Just as Primus took the stage, a light mist of rain began to fall on the crowd.  It was a little damp for most of the show but not that bad.  The crowd was very chatty and annoying, to make matters worse the PA volume wasn't that loud because of bylaws.  
+
+Les played the Star Spangled Banner during the breakdown of Tweekers.  The PA volume was turned down during Too Many Puppies.  Mastodon's drummer joined in on Intruder.  Tracks 15-18 are sort of a medley, and not full versions.  Skerik joined in for the encore.
+
+Just after the show ended, the rain picked up for a while.  Waiting for a ride under a tree trying to keep everything dry, still frizzle-fried from the show!  
+
+I did not record the opening bands because of lack of interest.  I saw JJUUJJUU once before and they're okay.  Mastodon is not my cup of tea and were kind of a buzz kill to me!  
+
+fingerprints:
+00 - intro.flac:a7fdf0b84a02a15b3e3457d0abca59e6
+01 - Those Damned Blue Collar Tweekers.flac:5fdb0c5ba70d819ebf3ead49df767363
+02 - Too Many Puppies.flac:0f4126f45464e65ebe35f2784ab1781a
+03 - Sgt Baker.flac:b2a8343a8e9950f0115c3c7a10f7c601
+04 - Too Many Puppies.flac:95e496cc87d83aecaf32df422b3085af
+05 - HOINFODAMAN.flac:9e162aa9685710931d1f5ed47e794eef
+06 - Frizzle Fry.flac:a4fd8d8b73d1c9682ee487c40b3e82b7
+07 - The Valley.flac:311abd1fb22c62e20cc51ba1cf314e1a
+08 - The Seven.flac:d7e27461bcaa226e428a69736833354b
+09 - The Trek.flac:ee31575463b01587d3b20f0a7972f799
+10 - The Scheme.flac:3f64aa0aa5f74d7f0c183c39985bb24a
+11 - The Dream.flac:262bb2aab585a4f87e577edcde5c3930
+12 - The Storm.flac:5fe9aa2d93d70cecc1aa33330a5e8ff2
+13 - The Ends.flac:7ef94631b4b384c690dcd449698ea83e
+14 - Intruder.flac:ca7865b68ae96e9a6caf08107dbd4b6c
+15 - Welcome to This World.flac:bd84638f41260910aa34a78cbd9072c7
+16 - Professor Nutbutter's House of Treats.flac:b539f2308ba7edd77628ab4309680508
+17 - My Name is Mud.flac:07866173e6fb2d7c666b98063dc24db0
+18 - Jerry Was a Race Car Driver.flac:cfe30fa4212b986548a4c463c1461e79
+19 - Southbound Pachyderm.flac:c60d325941adc840a89450197c8727cf

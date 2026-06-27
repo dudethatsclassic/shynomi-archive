@@ -1,0 +1,31 @@
+Soundgarden
+March 13, 2013
+ACL Live at The Moody Theater
+Austin, TX
+SXSW Festival
+
+Generation:
+MPEG-TS(M) [H.264 1920x1080 8500kbps, AAC 256kbps]
+
+Transfer:
+HTTP Download > TSSplitter 1.2
+
+Info:
+This is a direct capture of the iTunes stream of the show. I simply used Wireshark to find the address of the of the .ts files and then downloaded the files directly using Safari because it had the proper cookie authorizing the downloads. Then I used TSSplitter to join the 485 .ts segments into a single file. For some reason however, there is a problem with the audio when playing the file back with VLC on Windows. Windows Media Player is able to play it without any issues though.
+
+Setlist:
+Let Me Drown
+My Wave
+Fell On Black Days
+Mailman
+Superunknown
+Head Down
+Black Hole Sun
+Spoonman
+Limo Wreck
+The Day I Tried To Live
+Kickstand
+Fresh Tendrils
+4th Of July
+Half
+Like Suicide

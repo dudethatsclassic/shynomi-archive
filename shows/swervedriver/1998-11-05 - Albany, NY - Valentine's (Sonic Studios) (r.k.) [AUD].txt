@@ -1,0 +1,7 @@
+Swervedriver11-5-98Valentine's, Albany, New YorkSource: audience DAT (Sonic Studios mics by R.K.) @32kHz > clone1
+Transfer (back in 2006): Otari DTR-8S>Hosa coax>Calrad 10-110>Hosa OPM-330>2x2.5 G5>Audio Recorder 1.4>Audacity 1.2.4>xACT 1.5b4>flac8w/verify
+Prep for sharing (3/24/23): Audacity (resample to 44.1kHz, track splits) > xACT (fix sbe, flac8)01 Behind The Scenes Of The Sounds And The Times02 Blowin' Cool03 Duel04 99th Dream05 Cars Converge On Paris06 Sandblasted07 Stellar Caprice08 Wrong Treats09 The Other Jesus10 Duress11 It's All Happening Now(62:55)
+
+NOTE: This is from a 32kHz DAT master, otherwise known as LP mode. This mode allowed you to tape twice as much on one tape with minimal sound quality loss. It did this by cutting the high-end frequency to a point just above what the human ear can hear. Though 32kHz tapes can sound great, a spectral graph will look somewhat similar to that of an mp3 or other lossy format. It's not. This is straight from the taper and sounds great.
+
+shared on Dime on 2023-03-25 by Aaron (supahstah)

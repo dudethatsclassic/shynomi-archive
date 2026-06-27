@@ -1,0 +1,42 @@
+Les Claypool's Bastard Jazz @ Festival de Frue
+Sunday November 2nd, 2025 @ 18:00
+Tsumagoi Resort @ Event Hall
+Kakegawa City, Shizuoka, Japan
+
+Taper:  LeifH [2025#49]
+Source:  CA-11 > Bat2B > A10
+Transfer:  PC via USB > RX9 > Wavepad > flac (8) via TLH
+
+Setlist:  01:32:59
+01 Jam (w/Girls for Single Men)
+02 banter
+03 Jam (w/Can't Stand the Heat)
+04 Jam (w/Kashmir, Groundhog's Day, In The Mood, Toys Go Winding Down)
+05 banter
+06 Jam (w/Southbound Pachyderm, Mike & Stanton solos)
+07 Jam (w/One Better, Tommy the Cat, Spegetti Western, Master of Puppets)
+-encore-
+08 Jam (w/Rumble of the Diesel)
+
+Bonus soundcheck:  00:14:41
+09 pre show sound check
+
+Les Claypool - bass, vocals
+Skerik - saxophone
+Mike Dillon - percussion
+Stanton Moore - drums
+
+Claypool's first time performing in Japan since 2004.  This was the final performance on the second and final day of Festival de Frue.  
+The band (minus Les) were on stage around 17:00 doing their own line checks.  
+Bastard Jazz would perform 4 more times in Tokyo while in Japan during November 2025.  
+
+fingerprints:
+LCBJ2025-11-02t01.flac:d7dce86ffb3dea016227f10044bcc6bc
+LCBJ2025-11-02t02.flac:4b85159002b105f5339841bb0b52cf07
+LCBJ2025-11-02t03.flac:0b3316406ce04a104bce80f34d77758a
+LCBJ2025-11-02t04.flac:dcc65853d998f9d5de646a62b60d11ff
+LCBJ2025-11-02t05.flac:a6c599c32896f281ead3c428d1c17471
+LCBJ2025-11-02t06.flac:5488a16bc67a9f3b7b14913db2faffa1
+LCBJ2025-11-02t07.flac:60ef725f63f6eff105abd1b9f466997e
+LCBJ2025-11-02t08.flac:17b7c81c639640e3a2fd8e813ea39c81
+LCBJ2025-11-02t09.flac:a03ad740a91d4265d23ba3562e2c0069

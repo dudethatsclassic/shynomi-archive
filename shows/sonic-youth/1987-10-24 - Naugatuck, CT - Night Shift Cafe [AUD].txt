@@ -1,0 +1,68 @@
+SONIC YOUTH
+October 24, 1987
+Night Shift Cafe
+Naugatuck, CT
+
+SOURCE:
+built-in > Aiwa
+
+TRANSFER:
+TSSTcorpCD SH-S182D > Exact Audio Copy V0.99 prebeta 5 > Adobe Audition 3.0 > CD Wave 1.98 > FLAC frontend 1.7.1
+
+GENERATION:
+ANA(M) > CDR(1) > WAV [44.1kHz/16bit] > FLAC [Level 8]
+
+LENGTH:
+63:18
+
+TRACKS:
+01. intro
+02. Schizophrenia
+03. Tom Violence
+04. White Kross
+05. Cotton Crown
+06. Stereo Sanctity
+07. Brother James
+08. Pipeline/Kill Time
+09. Catholic Block
+10. Tuff Gnarl
+11. Beauty Lies In The Eye
+12. Expressway To Yr. Skull
+13. Pacific Coast Highway
+14. Jumpin' Jack Flash (jam)
+15. Brown Sugar (jam)
+16. Cunt Tease (jam)
+17. Mom, I Gave The Cat Some Acid (jam)
+18. Just Like Honey (jam)
+19. I Don't Wanna Walk Around With You
+20. Today Your Love, Tomorrow The World
+
+FLAC FINGERPRINTS:
+sonicyouth1987-10-24t01.flac:5cb4b2cb396210f6c641c362ac4c695f
+sonicyouth1987-10-24t02.flac:b7c408023cb435091cb6ca6cb40e947c
+sonicyouth1987-10-24t03.flac:560c3973b42b96c9b4910d4a983dfd06
+sonicyouth1987-10-24t04.flac:4185c94d706747e4e24458d62949b18a
+sonicyouth1987-10-24t05.flac:3fdec4bfc59ad18319c83e3574f3669e
+sonicyouth1987-10-24t06.flac:9c3fcf92212f20066d1fab2642721445
+sonicyouth1987-10-24t07.flac:dbc30dda1aa0196570bac62a132b1d49
+sonicyouth1987-10-24t08.flac:7aa13821ff9cfc3c39e1043c950e4234
+sonicyouth1987-10-24t09.flac:c7bffb9f019d8a76abf6304bca0ef62e
+sonicyouth1987-10-24t10.flac:c6ba394b01628ed10063483215882e03
+sonicyouth1987-10-24t11.flac:027faa86cab0c8bed1d31f5df3bfd1f6
+sonicyouth1987-10-24t12.flac:bc799a19442c3432030b5b07bb9b0910
+sonicyouth1987-10-24t13.flac:e4fd75e9ef89c431fe4fbf4d55592b1a
+sonicyouth1987-10-24t14.flac:074c1429008106b12f37e8994fbeb25f
+sonicyouth1987-10-24t15.flac:2863903345b1370898043b25d60345b4
+sonicyouth1987-10-24t16.flac:f88f8fde3b86ce3b7a15995221d9a66c
+sonicyouth1987-10-24t17.flac:e294dd353fd0e9fa710ac2eab4246ce5
+sonicyouth1987-10-24t18.flac:2f41acb7a138d04aaa7a9714e53b13c9
+sonicyouth1987-10-24t19.flac:72090e06d5f21a79e07fc6407bec1190
+sonicyouth1987-10-24t20.flac:e9ef6d375bdb96854123c8cebe561803
+
+EXTRACTED BY:
+Mike Ziegler
+
+RECORDED BY:
+M.T.
+
+PLEASE DO NOT SELL OR ENCODE TO MP3

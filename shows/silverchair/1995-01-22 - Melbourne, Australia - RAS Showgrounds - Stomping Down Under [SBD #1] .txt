@@ -1,0 +1,32 @@
+SILVERCHAIR
+January 22, 1995
+RAS Showgrounds (Big Day Out Festival)
+Melbourne, VIC, AU
+
+DISC #1/1 (18:19)
+-----------------
+01) Israel's Son
+02) Blind
+03) Leave Me Out
+04) Undecided
+
+GENERATION
+-----------------
+CD [Stomping Down Under] -> WAV [44.1kHz] -> FLAC [Level 8]
+
+SOURCE
+-----------------
+soundboard -> unknown
+
+TRANSFER
+-----------------
+Sony DVD-ROM DDU1621 -> Exact Audio Copy v 0.95 BETA -> FLAC Frontend 1.7.1
+
+MD5 FINGERPRINTS
+-----------------
+92619a697d0e3a220adf157e20c10982 *silverchair1995-01-22t01.flac
+d96ed0b5addd5c320acd38c56b10fe40 *silverchair1995-01-22t02.flac
+2ab77bc04f6bb14edfabce640c463741 *silverchair1995-01-22t03.flac
+33189cec2088b28b22f41d84786859f2 *silverchair1995-01-22t04.flac
+
+PLEASE DO NOT ENCODE TO MP3 OR SELL!

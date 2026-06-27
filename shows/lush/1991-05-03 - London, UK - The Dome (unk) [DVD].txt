@@ -1,0 +1,40 @@
+Lush
+
+3rd May 1991 - Live At The Dome, London, England
+4:3 PAL DVD
+Lineage: TV > SHARP VC-A111 (VHS) > Sony RDR-GX 350 > TMPGEnc (Trim video, no re-encoding)
+
+No menu, 2 chapters
+
+1. Sweetness & Light
+2. Ocean
+
+
+***CONTRACT CLAUSE***
+This is an upgrade to track 4 of this torrent:
+http://www.dimeadozen.org/torrents-details.php?id=230673
+
+
+Uploaded on Dime in 12/01/2010
+
+
+
+File Details
+========================================
+File Name .......................................: VTS_01_1.VOB
+File Size (in bytes) ............................: 693,465,088 bytes
+Runtime .........................................: 9:30.920
+
+Video Info
+Video Codec .....................................: MPEG-2
+Frame Size ......................................: 720x576 (AR: 1.333)
+FPS .............................................: 25.000
+Video Bitrate ...................................: 9300 kb/s
+Bits per Pixel ..................................: 0.897 bpp
+Compatibillity...................................: [], [], [], []
+
+Audio Info
+Audio Codec .....................................:  AC3
+Sample Rate .....................................: 48000 Hz
+Audio Bitrate ...................................: 256 kb/s [2 channel(s)] CBR
+No. of audio streams ............................: 1

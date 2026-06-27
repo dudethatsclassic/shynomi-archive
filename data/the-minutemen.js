@@ -23,7 +23,8 @@ const ARTIST_DATA = {
       "venue": "Santa Monica Civic Auditorium - CASS",
       "version": "AUD",
       "format": "FLAC",
-      "notes": "M \u00b7 Unknown"
+      "notes": "M \u00b7 Unknown",
+      "textFile": "1981-06-19 - Santa Monica, CA - Santa Monica Civic Auditorium - CASS(M) (unk) [AUD].txt"
     },
     {
       "year": 1983,
@@ -36,7 +37,8 @@ const ARTIST_DATA = {
       "venue": "Love Hall - VHS",
       "version": "AUD",
       "format": "DVD",
-      "notes": "M \u00b7 howard"
+      "notes": "M \u00b7 howard",
+      "textFile": "1983-12-16 - Philadelphia, PA - Love Hall - VHS(M) (howard) [DVD].txt"
     },
     {
       "year": 1984,
@@ -49,7 +51,8 @@ const ARTIST_DATA = {
       "venue": "California Institute of the Arts Santa Clarita",
       "version": "AUD",
       "format": "FLAC 24",
-      "notes": "AKG 567e \u00b7 Unknown"
+      "notes": "AKG 567e \u00b7 Unknown",
+      "textFile": "1984-11-03 - Valencia CA - California Institute of the Arts Santa Clarita (AKG 567e) (unk) [AUD24].txt"
     },
     {
       "year": 1985,
@@ -62,7 +65,8 @@ const ARTIST_DATA = {
       "venue": "Club Lingerie",
       "version": "AUD",
       "format": "FLAC",
-      "notes": ""
+      "notes": "",
+      "textFile": "1985-08-16 - Hollywood, CA - Club Lingerie [SBD].txt"
     }
   ]
 };

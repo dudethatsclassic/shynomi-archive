@@ -1,0 +1,60 @@
+Primus
+Friday June 21st, 2013
+The Blue Loon
+2999 George Parks Hwy
+Fairbanks, Alaska
+
+Taper:  Steve Hagar aka ballsdeep
+Source:  Tascam DR-2d (internal mics) @ 16/44.1
+Transfer:  .WAV > Wavepad Master's Edition (edits, tracking) > flac (8) via Frontend
+
+Set  I:  1:12:28
+00 announcer
+01 intro music - Clown Dream
+02 Those Damned Blue-Collar Tweekers
+03 Duchess and the Proverbial Mind Spread
+04 Last Salmon Man
+05 Southbound Pachyderm
+06 Over the Falls
+07 Lee Van Cleef
+08 John the Fisherman
+09 My Name is Mud
+10 Jerry Was a Race Car Driver
+
+Set II:  1:21:29
+11 Here Come the Bastards
+12 Dirty Drowning Man
+13 Moron TV
+14 American Life
+15 Eternal Consumption Engine
+16 Jilly's On Smack
+17 Groundhog's Day
+18 Wynona's Big Brown Beaver
+19 Harold of the Rocks
+
+20 HOINFODAMAN
+21 Too Many Puppies
+
+fingerprints:
+00 - announcer.flac:44e24cb74c6221521864abbc4c2958f5
+01 - intro music.flac:b119824f8770edc8a589927fdcb9c3bb
+02 - Those Damned Blue-Collar Tweekers.flac:c99851cbdb9b49916dd356a2f0236dac
+03 - Duchess and the Proverbial Mindspread.flac:ae4b486b6e74c629147fb97a996783ef
+04 - The Last Salmon Man.flac:d61d5c8b67a616c79615790c12e028b3
+05 - Southbound Pachyderm.flac:8d4ad58ba54daf7336e3c6cb0fe0fab3
+06 - Over the Falls.flac:ad5527a961540b9905fd3e55d74523b3
+07 - Lee Van Cleef.flac:03f0ad75e1348c71ac38a964a16a2bb0
+08 - John the Fisherman.flac:8b1d54c3482dba0ee75c7a9e7946907b
+09 - My Name is Mud.flac:d291cbc8f31faa55e04516d44e5149f5
+10 - Jerry Was a Race Car Driver.flac:a9f4310c191526cdd49863db2c0313d5
+11 - Here Come the Bastards.flac:26408ab30ffce0c8a6d55960ed029d41
+12 - Dirty Drowning Man.flac:58e20c4284ff2dec0654b6999fc693d0
+13 - Moron TV.flac:60a659f924cb6c38f1d812999dce02b4
+14 - American Life.flac:f2d63ddb9a4102d5b6a0f46651fa502e
+15 - Eternal Consumption Engine.flac:983af55191fbc601019b1d7d1266a83a
+16 - Jilly's On Smack.flac:e00f7399b76db8f98ca475824ca4082c
+17 - Groundhog's Day.flac:357cdeec48e09df4637919b9d691c982
+18 - Wynona's Big Brown Beaver.flac:428a067b7b12fbe0bad86825a50ff32b
+19 - Harold of the Rocks.flac:76bab62ae0fb24530490bfc84aae0a39
+20 - HOINFODAMAN.flac:d1c6650cfadadbfb7f27db3a9d2040cc
+21 - Too Many Puppies.flac:ce80bb6d63e058d890fd04ae96ae8029

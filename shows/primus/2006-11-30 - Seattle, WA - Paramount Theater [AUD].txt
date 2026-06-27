@@ -1,0 +1,26 @@
+Band:Primus
+Venue:Paramount Theater
+Location:Seattle, WA
+Date:11-30-2006
+
+Source: Audio Technica 853's > SP Battery Box (16hz-no rolloff) >
+	MAudio Microtrack (44.1khz/16).   Left side floor 25ft from stage
+
+Transfer: MAudio Microtrack-> USB Transfer-> Soundforge 7.0 Pro (No Resampling)-> 
+	CDWave for track splits-> FLAC
+
+Disc One
+
+1. Those Damned Blue-Collar Tweekers 
+2. Harold of the Rocks with a Cygnus X-1 tease 
+3. Here Come the Bastards 
+4. American Life 
+5. Seas of Cheese 
+6. De Anza Jig 
+7. Spegetti Western 
+8. Shake Hands with Beef 
+9. The Toys Go Winding Down 
+10. My Name is Mud 
+11. Jerry was a Racecar Driver 
+encore 
+12. Wynona's Big Brown Beaver 

@@ -18,7 +18,7 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "San Francisco, CA",
       "venue": "The Fillmore",
-      "notes": "unk · neekrive",
+      "notes": "unk \u00b7 neekrive",
       "version": "AUD",
       "format": "FLAC"
     },
@@ -33,7 +33,8 @@ const ARTIST_DATA = {
       "venue": "Supper Club",
       "notes": "",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1996-09-05 - New York, NY - Supper Club [AUD].txt"
     },
     {
       "year": 1996,
@@ -46,7 +47,8 @@ const ARTIST_DATA = {
       "venue": "Brick By Brick",
       "notes": "",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1996-10-03 - San Diego, CA - Brick by Brick [AUD].txt"
     },
     {
       "year": 1996,
@@ -59,7 +61,8 @@ const ARTIST_DATA = {
       "venue": "Electric Ballroom",
       "notes": "",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1996-10-04 - Tempe, AZ - Electric Ballroom [AUD].txt"
     },
     {
       "year": 1996,
@@ -72,7 +75,8 @@ const ARTIST_DATA = {
       "venue": "Town Pump",
       "notes": "",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1996-10-18 - Vancouver, Canada - Town Pump [AUD].txt"
     },
     {
       "year": 1996,
@@ -83,9 +87,10 @@ const ARTIST_DATA = {
       "state": "OR",
       "location": "Portland, OR",
       "venue": "La Luna",
-      "notes": "AKG C-522 · mark burgin",
+      "notes": "AKG C-522 \u00b7 mark burgin",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1996-10-20 - Portland, OR - La Luna [AUD].txt"
     }
   ],
   "misc": []

@@ -1,0 +1,71 @@
+Primus
+Tuesday, May 28th, 2013
+Northern Alberta Jubilee Auditorium
+11455 87 Avenue North West
+Edmonton, Alberta, Canada
+
+Taper:  LeifH
+Source:  CSBs (filter) > Sony PCM M10 @ 24/48 > Duracell 8GB microSD card
+Transfer:  Memory card > PC via USB > Wavepad Master's Edition (amplify, edits, downsample to 16/44.1) > flac (8) via Frontend
+
+Set  I:  1:07:06
+00 intro - clown dream
+01 Groundhog's Day
+02 Fisticuffs
+03 Extinction Burst
+04 American Life
+05 Bridge Came Tumblin' Down (Stompin' Tom tease)
+06 Hats Off
+07 Lee Van Cleef
+08 drums >
+09 Eleven
+10 Over The Electric Grapevine > Southbound Pachyderm tease
+11 My Name Is Mud
+
+Set II:  1:20:20
+12 Eyes of the Squirrel
+13 Dirty Drowning Man
+14 Frizzle Fry
+15 Southbound Pachyderm
+16 Eternal Consumption Engine
+17 Jilly's On Smack
+18 The Heckler
+19 Moron TV
+20 Harold of the Rocks
+21 HOINFODAMAN
+22 Too Many Puppies
+
+This was my eighth time seeing Primus.  I had awesome floor seats, row 5 centre floor, a few seats right of dead centre.  A friend and I hung out by the tour buses for a good part of the afternoon and got autographs/photos with Primus.  We each gave Jay a j and finished a case of beer before the show started.  The theatre is attached to a school and the only employees there were ushers scanning your tickets on the way to your seat, plus a handful of yellow shirts who sat still the whole night.  
+
+When the show started maybe half the crowd stood up for about 20 seconds.  After that, everyone stayed seated the entire show, with the exception of the encore and the odd person getting up for fluid intake/discharge.  It was kind of weird but made for an easy night of recording.  I liked that Les busted out a Stompin' Tom tune in his home province.  When Jay started doing a bit of a solo before Eleven I was optimistic for a drum and whamola jam.  On the setlist they had Mrs. Blaileen but a guy who was dead centre row 4 (I think) held up a home made 'Over the Electric Grapevine' sign in between just about every song. They played the request instead.  Also, during 'Grapevine' Les teased the Southbound Pachyderm riff, which would get played in full during the second set.  The video for My Name is Mud featured the face of George W. Bush.  By this time I really wanted the first set to end soon because I had to go so bad I skipped the bathroom line and went outside after grabbing the setlist.  
+
+Just about anyone could have waltzed in during intermission and got themselves a seat in the mostly empty second balcony for free.  Everything was very relaxed at this show.  You didn't need a ticket to buy merch or be in the lobby.  This was how it was when I went to a show at the Southern Alberta Jubilee Auditorium in Calgary (for Cheech and Chong no less).  The next night at MacEwan Hall was the opposite.  Tighter security, general admission, merch inside the concert hall, beer garden, noisier crowd.  
+
+Before the show I predicted they'd play Dirty Drowning Man and The Heckler.  There was a tease of the intro to The Final Voyage of the Liquid Sky before Frizzle Fry.  I was happy to see some of the HOINFODAMAN contest video used live as a layer.  Les gave us a choice between "two furry mammals" for the last song, a beaver and a puppy.  I got the second setlist afterwards and by the time we were outside again Primus' bus was just rolling away.
+
+The crowd was very respectful where we were and there's next to no audience noise during the songs, mostly just polite claps of applause at the appropriate times.  We did warn a few people, so that may have helped minimally.  I managed to get a pretty good audio recording and saw 2 songs I hadn't seen Primus play yet.  I also got the entire show on video, really nice 1080p footage from right up close.  I had seen two 3D shows before this one and I still managed to absorb most of the visuals despite me filming.  A scan of each setlist is included here (which are pretty funny), along with a few pictures I took.  I guess the catering wasn't too good in Edmonton.  
+
+fingerprints:
+00 - intro music.flac:e7008bdb621bbf204a42f80d44748c19
+01 - Groundhog's Day.flac:f25f2e06e24b1f7d53d672d31e373a24
+02 - Fisticuffs.flac:9d168cdfc49d55fcf904e084bdf2869b
+03 - Extinction Burst.flac:bd013ce71c85e7d57904bdf09880fef6
+04 - American Life.flac:e078ebf3625acdf1fe4d32d24eedf1ae
+05 - Bridge Came Tumblin' Down.flac:a4e69d59c04f55ca710354204dad4971
+06 - Hats Off.flac:bfab758b85f0b4c10a2deb36f7bf273e
+07 - Lee Van Cleef.flac:5ecad6f5341378c04308def6bfbc0ef7
+08 - drums.flac:ae13424bb5f1a11b172825d31e7c9f84
+09 - Eleven.flac:a06b1912f07bdd8a28528ffce35f6366
+10 - Over the Electric Grapevine.flac:83b6c73cdc85144abdb35f51410e7764
+11 - My Name Is Mud.flac:00ce235043a0379585b152b4c4e99ae0
+12 - Eyes of the Squirrel.flac:5ba0a6fcc2c2910bb13e1ea7fa68a6e3
+13 - Dirty Drowning Man.flac:ba995dc0c1f500960fcd29b95744c396
+14 - Frizzle Fry.flac:2d1b632fa08e1ff26a003647bb61fafb
+15 - Southbound Pachyderm.flac:2c57e4fe917f94e17856fdb19943bd7a
+16 - Eternal Consumption Engine.flac:3e17b0be44123b8ee77ad34da1014e1d
+17 - Jilly's On Smack.flac:60bc445b214439a801987347a4fd1122
+18 - The Heckler.flac:4cb4f408539ff392dbf307c12626a234
+19 - Moron TV.flac:49971b5b622bd58ec5f28ddeebc85e7e
+20 - Harold of the Rocks.flac:f1d515b552dc7f98de3f700c14d3d5bd
+21 - HOINFODAMAN.flac:5758635811bbb97eb4ae721718f63ac3
+22 - Too Many Puppies.flac:897d421e4096605c29807073b0740301

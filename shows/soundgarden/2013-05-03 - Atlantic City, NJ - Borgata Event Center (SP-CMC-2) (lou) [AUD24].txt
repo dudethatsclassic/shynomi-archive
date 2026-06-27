@@ -1,0 +1,56 @@
+Soundgarden
+Borgata Event Center
+Atlantic City, NJ, USA
+May 3, 2013--Friday
+
+Taper: Lou <loucap81@gmail.com>
+Location: General admission, floor, left side ~ 30 feet from stage in line with left speaker stack
+
+Lineage: SP-CMC-2 (AT831's with low sensitivity mod) > SP-SPSB-11 (95 Hz bass roll off) > SP-SPSC-7 cable > Edirol R-09 > WAV 24/48 > CDWave > Trader's Little Helper > FLAC(level 8)
+Raw master recording
+
+Quality: B
+File Size: 1.40 GB, FLAC
+
+Total Time: 124:49
+
+0. 93.3 WMMR FM Radio Promo 1:03 
+1. Searching With My Good Eye Closed 6:36
+2. Let Me Drown 4:18
+3. Spoonman 4:04
+4. Jesus Christ Pose 5:17
+5. By Crooked Steps 4:34
+6. Room A Thousand Years Wide 3:33
+7. Taree 4:17
+8. Been Away Too Long 3:42
+9. My Wave 4:26
+10. The Day I Tried To Live 5:46
+11. Blow Up The Outside World 6:07
+12. Hunted Down 3:23
+13. Fell On Black Days 5:02
+14. Drawing Flies 3:23
+15. Non-State Actor 3:54
+16. Ugly Truth 7:17
+17. Superunknown 5:17
+18. Burden In My Hand 6:00
+19. A Thousand Days Before 4:22
+20. Rusty Cage 5:26
+21. --Encore Break-- 3:30
+22. Outshined 5:30
+23. Flower 3:46
+24. Black Hole Sun 5:45
+25. Rowing 8:30
+
+Notes:
+
+Performance was very good and Chris' voice sounded great. I thought the setlist was a mild disappointment compared to the sets they were doing this past winter--none of the old songs were anything they weren't doing in 2011.
+
+This was the first show I've recorded with my new SP-SPSB-11 12 volt battery box. The wiring for the left channel on the SPSB-8 9 volt box that I had for close to six years gave out during the Steven Wilson show I recorded on April 19th. I decided to go with a battery box that had a detachable cable, so in case this happens again, I'll only need to replace the cable. 
+
+This is an OK recording but I was disappointed with how it came out. I can't help but feel paranoid that somehow the new battery box is to blame. I know there are a lot of variables that go into this but if anyone can confirm or deny that this battery box would affect the quality of the recording please let me know. I think this could sound very good with some post-production editing however as it's a clear take, but a little distant sounding, given how close I was to the speaker stack.
+
+Speaking of that there will not be a 16 bit version. Any of you are free to create one and do whatever you'd like with this recording since I can't stop you anyway. No need to ask permission.
+
+Radio promo lineage is Kenwood KR-A3070 analog receiver > RCA cable > Edirol R-09 > WAV 24/48 > Trader's Little Helper > FLAC(level 8)
+
+FFP and shntool results included.

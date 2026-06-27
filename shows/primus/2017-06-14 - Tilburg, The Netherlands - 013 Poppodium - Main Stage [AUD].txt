@@ -1,0 +1,66 @@
+Primus
+Wednesday June 14th, 2017
+013 Poppodium (Main Stage)
+Veemarktsraat 44
+Tilburg, Netherlands
+
+Taper:  LeifH
+Source:  CA-11 (cardioid) > Bat2B > Sony PCM M10 @ 24/48 > Lexar 16GB microSD card
+Transfer:  Memory card > PC via USB > Wavepad Masters Edition (edits, amplify, tracking, 16/44.1) > flac (8) via Frontend
+
+Set  I:  1:15:30
+00 intro
+01 Those Damned Blue-Collar Tweekers
+02 Last Salmon Man
+03 Frizzle Fry
+04 Fisticuffs
+05 Jilly's on Smack
+06 Mr. Krinkle
+07 Drums and Whamola > 
+08 Eleven
+09 Harold of the Rocks
+
+Set II:  1:24:10
+10 The Toys Go Winding Down
+11 HOINFODAMAN
+12 Pudding Time > 
+13 Too Many Puppies > 
+14 Sgt. Baker
+15 American Life
+16 Over the Falls
+17 Lee Van Cleef
+18 My Name is Mud
+19 Jerry Was a Racecar Driver
+
+20 Seven
+21 Southbound Pachyderm
+22 Wynona's Big Brown Beaver
+
+My 28th Primus show.  This venue was nearly sold out of its 3000 capacity.  A lot of people traveled to this show from other places.  
+
+The crowd got much more rowdy for the second set after fueling up on beer during intermission.  Lots of spliffs going around.  Les broke a string during Southbound Pachyderm and changed basses before the jam section.  
+
+fingerprints:
+00 - intro.flac:87cdb1a6401f2d162ef974938aded9ff
+01 - Those Damned Blue-Collar Tweekers.flac:eefa3bc97fb0d2490d67f39bf97c12a9
+02 - Last Salmon Man.flac:0dfa23b54acf372d2ac7dc3de51682cd
+03 - Frizzle Fry.flac:d3cb089707ffc678b29a81768a81d172
+04 - Fisticuffs.flac:42ea1925c322bad5870378980e9707cd
+05 - Jilly's on Smack.flac:860240de847de1f12bd5da046efd7693
+06 - Mr. Krinkle.flac:8326150ce2594aaaae6c0c593f36c151
+07 - Drums and Whamola.flac:f5706fde5df65b732e548cb945ccb9a9
+08 - Eleven.flac:f1cf14065c5b48d5b98e6cd57f20b841
+09 - Harold of the Rocks.flac:c554755b7a69c34ffdd214c22ad5da07
+10 - The Toys Go Winding Down.flac:b260c40999544297831c404fe2e7271c
+11 - HOINFODAMAN.flac:54412e6909fac396ca801c09eed0ac95
+12 - Pudding Time.flac:80625d572aa5c6acc67ebdea89cd1c6d
+13 - Too Many Puppies.flac:b6d7e6e94c5a8e19082afb140bbb09e3
+14 - Sgt Baker.flac:0d8e11bb6426f58dd8e37a0aae5d8d19
+15 - American Life.flac:06fd9e0529353ee1406df330961f7b08
+16 - Over the Falls.flac:e123f3cb3b177bad3836c1974f3c6b6e
+17 - Lee Van Cleef.flac:1514df3311fdd789ef89b0b4f242c55a
+18 - My Name is Mud.flac:f4aa2fce35f6b7919e7ce4cc0550def4
+19 - Jerry Was a Racecar Driver.flac:28f77d15d447ff8733ed2e2290f39cb2
+20 - Seven.flac:e39e19cdcbaefa12aba68a67e8c631c3
+21 - Southbound Pachyderm.flac:09f05ca4d5f7d9758bd15e081ee00cbc
+22 - Wynona's Big Brown Beaver.flac:9e0374ffb38761764a541ed18f9c4fad

@@ -1,0 +1,39 @@
+Toad the Wet Sprocket
+February 26th, 2009
+Webster Hall, New York, NY
+
+Master:
+Microtech Gefell M210's>Oade M248>SBM-1>D8, D8>Tascam CDRW2000>CD
+FOB 25 feet from stage, dead center, 10 feet high
+by Jon Pasternak
+
+Extraction
+CD>xACT 1.66 (cdparanoia)>WAV>FLAC, all tracks extracted with no errors
+by Dave Mallick
+
+Disc 1 [45:03.70] (minutes:seconds.frames)
+01. PS                       [04:20.09]
+02. Something's Always Wrong [05:13.22]
+03. Whatever I Fear          [03:24.47]
+04. Woodburning              [04:18.34]
+05. Crowing                  [03:06.59]
+06. Good Intentions          [04:04.47]
+07. Butterflies*             [05:55.13]
+08. Windmills                [04:41.41]
+09. Way Away                 [03:39.01]
+10. Know Me                  [06:20.22]
+
+Disc 2 [44:30.51]
+01. Nanci                    [02:58.70]
+02. Nightingale Song         [02:47.49]
+03. Come Back Down           [04:07.13]
+04. Don't Fade               [03:58.74]
+05. All I Want               [03:18.18]
+06. Little Man Big Man       [04:09.54]
+07. Inside                   [04:31.22]
+08. Fall Down                [04:47.20]
+09. E: Come Down             [04:04.60]
+10. Crazy Life               [04:59.59]
+11. Walk On The Ocean        [04:46.62]
+
+* with guest vocals from the audience

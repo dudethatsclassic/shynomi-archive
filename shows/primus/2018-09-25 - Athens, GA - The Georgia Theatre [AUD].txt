@@ -1,0 +1,62 @@
+Primus
+Tuesday September 25th, 2018
+The Georgia Theatre
+Athens, GA, USA
+
+Taped by Blake 
+Lineage:  LG V20 @ 24/192 (internal mic) > .WAV > Wavepad Masters Edition (attenuate, tracking, 16/44.1) > flac (8) via TLH
+
+*incomplete*
+
+Set 1: 46:37
+00 intro
+01 Those Damned Blue Collar Tweekers
+02 Too Many Puppies > 
+03 Sgt Baker > Puppies (Reprise)
+04 banter
+05 The Toys Go Winding Down > 
+06 Pudding Time
+07 Jilly's on Smack 
+XX Mr. Krinkle (with Kashmir tease at start)
+08 Spegetti Western
+09 HOINFODAMAN
+10 Wynona's Big Brown Beaver [cut]
+
+Set 2: 28:19
+XX The Valley
+XX The Seven
+XX The Trek
+XX The Scheme
+XX The Dream
+XX The Storm
+XX The Ends?
+-encore-
+11 Welcome to This World > 
+12 Professor Nutbutter's House of Treats >
+13 My Name is Mud >
+14 Jerry was a Race Car Driver
+15 Southbound Pachyderm (with Brent Hinds)
+
+Total Run Time:  1:14:56
+
+This is not a complete recording, but something is better than nothing!
+
+This is an auto-gain recording and the levels were hot, so I brought it down a bit.  It sounds ok, but nothing fancy.  Thanks to Blake for sharing.  
+
+fingerprints:
+00 - intro.flac:7d2a221fc82fbacc5ae8e22cadd34f0e
+01 - Those Damned Blue-Collar Tweekers.flac:8864ebe2e452e70c27c87e90b65e54f9
+02 - Too Many Puppies.flac:d90eb103bc80f5cd22a7322aab6d75b9
+03 - Sgt. Baker.flac:6c5d9b4d129403fd535bdd74a60c6311
+04 - banter.flac:fc13c9a6918eab4509a535b4b68fe877
+05 - The Toys Go Winding Down.flac:bd2506ceffc98b4c34cf55a6929e2a01
+06 - Pudding Time.flac:ccf591f89d084d07958dc3819b9b2d9d
+07 - Jilly's on Smack.flac:26fc765578258486ae8b0a585f8b7f60
+08 - Spegetti Western.flac:48aad7b0624a1f3cf288a6b0a93f0628
+09 - HOINFODAMAN.flac:60da632aacbc4811b44907912e26d0f4
+10 - Wynona's Big Brown Beaver.flac:c1ad990fc24406e457ca542e7367c010
+11 - Welcome to This World.flac:9b22621801cecc9e0ee13814d071f365
+12 - Professor Nutbutter.flac:7d7b70ca5da57a01bd82ebb5addd0fa3
+13 - My Name is Mud.flac:5a34baeca09a83ae94a27a2ad43780ae
+14 - Jerry was a Race Car Driver.flac:aea309d7c881be518b2637327c20deb4
+15 - Southbound Pachyderm.flac:92f6dcf54a926e68d5dc94e6a2e2cff1

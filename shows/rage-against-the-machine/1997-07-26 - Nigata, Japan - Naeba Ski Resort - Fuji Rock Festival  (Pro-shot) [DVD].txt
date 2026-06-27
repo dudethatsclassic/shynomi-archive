@@ -1,0 +1,41 @@
+Rage Against The Machine
+1997-07-26
+Fuji Rock Festival,
+Naeba Ski Resort,
+Nigata Japan,
+
+++++++++++++++++++++++++++++++++++++++++++++++++
+                                    From The Original Notes:
+++++++++++++++++++++++++++++++++++++++++++++++++ 
+
+This post goes out to 'kieflogic' whom supplied the very needed upgrade in audio source for this very nice quality video. I got this in a trade a little while ago, and the video is quite nice, but the audio must have been messed up during the transfer to DVD because it had an annoying crackling throughout the video. I have replaced this original audio track with another recording taken from the same television broadcast. As a little bonus I have added the SNL performance of Bulls on Parade that was posted on Dime a while back. Enjoy! - nthroot 
+
+Rage Against The Machine -------------------- Fuji Rock Festival -------------------- 07/26/97 Yamanashi, Japan 
+
+Pro-Shot Soundboard Audio Video Source: (unknown, looks like only 1 analog generation though) > Standalone DVD transfer using Toshiba RD-X2 > Re-author (no re-encoding) 
+
+Audio track 1 Source: CD bootleg "Hot Against The Eye Of Summer Tyfoon" (taken from same broadcast) resampled for DVD > 384kbps AC3 (Dolby Digtal) 
+
+Audio track 2 Source: TV Source (containing annoying crackling sound) 384kbps AC3 (Dolby Digital) Source: TV Broadcast > unknown transfer > CD (Silver) > CDR > EAC [Secure] > WAV > Flac Frontend [Level 7] > FLAC 
+
+Setlist: 
+01 People Of The Sun 
+02 Vietnow 
+03 Bombtrack 
+04 Darkness 
+05 Know Your Enemy 
+06 Bulls On Parade 
+07 Bullet In The Head 
+08 Killing In The Name (cut) 
+09 Bulls on Parade**
+
+
+**Recorded on 11/03/99 at MTV Time Square Studios
+
+
+Detailed track 1 audio gen: FLAC > Cool Edit Pro > 48000hz resample > stretched audio to fit video (slow down of .081 seconds total) > 384kbps AC3 (Dolby Digital) 
+
+Also includes: --------------------- Saturday Night Live --------------------- Original Air Date: April 13th, 1996 
+
+Host: Steve Forbes 01 Bulls On Parade TV>DVD Audio - AC3 / 2ch / 48kHz Video - MPEG-2 / 720x480 (NTSC) / 4:3 / 9.3mb/s (taken from dimeadozen post by 'tonyaclifton' I believe)
+

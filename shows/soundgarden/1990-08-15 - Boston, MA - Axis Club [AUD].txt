@@ -1,0 +1,25 @@
+SOUNDGARDEN
+August 15, 1990
+Axis Club
+Boston, MA, USA
+
+Source: unknown analog audience audio (or possibly soundboard)
+Generation: ANA(1) > DAT(1) > WAV > FLAC > WAV [EAC secure] > FLAC [8]
+Quality: 8.0
+Time: 46:53
+
+Tracklist:
+1. Beyond The Wheel
+2. Flower
+3. Gun
+4. Loud Love
+5. Big Dumb Sex
+6. Hunted Down
+7. Full On Kevin's Mom
+8. Ugly Truth
+9. All Your Lies
+10. I Awake
+
+Originally encoded January 2009.
+
+Notes: "I Awake" fades out.

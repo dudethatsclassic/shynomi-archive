@@ -1,0 +1,40 @@
+Toad the Wet Sprocket
+February 28th, 2003
+Irving Plaza, New York, NY
+
+Master:
+Microtech Gefell M210's>Oade M248>SBM-1>D8, D8>Tascam CDRW2000>CD
+FOB 25 feet from stage, dead center, mics 8 feet high
+by Jon Pasternak
+
+Extraction
+CD>xACT 1.66 (cdparanoia)>WAV>FLAC, all tracks extracted with no errors
+by Dave Mallick
+
+Disc 1 [46:17.01] (minutes:seconds.frames)
+01. Whatever I Fear                          [03:42.12]
+02. Something's Always Wrong                 [04:19.25]
+03. Dam Would Break                          [03:58.06]
+04. Woodburning                              [05:00.02]
+05. Fly From Heaven                          [05:08.02]
+06. Crowing                                  [04:02.38]
+07. All I Want                               [03:15.35]
+08. Prisoner (Living Free)                   [04:25.62]
+09. Come Back Down                           [05:04.06]
+10. Nightingale Song                         [03:29.37]
+11. Duck and Cover*                          [03:52.01]
+
+Disc 2 [47:44.02]
+01. Throw It All Away                        [04:51.50]
+02. Windmills                                [04:40.03]
+03. Star Trek Theme                          [01:29.68]
+04. Good Intentions                          [03:28.50]
+05. See You Again                            [03:16.54]
+06. Brother                                  [04:17.55]
+07. Fall Down                                [04:48.12]
+08. Crazy Life                               [05:18.20]
+09. Amnesia                                  [04:35.16]
+10. Walk On The Ocean                        [04:28.39]
+11. I Will Not Take These Things For Granted [06:29.10]
+
+* Glen solo

@@ -1,0 +1,28 @@
+Sonic Youth - 1992 10 05 The Riviera Theatre, Chicago, IL
+
+Show note:
+Chris Ball on Guitar for Nic Fit.  From the "How Can You Want Me?" bootleg. 
+
+Tranfser note:
+Sound levels varied, I normalized in secions. There were some audience noise peaks that I limited to bring some headroom to the music. I leveled the sound, to add a bit more bass. 
+	
+1 Shoot
+2 100%
+3 Kool Thing
+4 Theresa's Sound-World
+5 Youth Against Fascism
+6 Sugar Kane
+7 Genetic
+8 Swimsuit Issue
+9 Purr
+10 Drunken Butterfly
+11 Silver Rocket
+12 JC
+13 Teenage Riot
+14 Nic Fit [The Untouchables]
+15 No II
+
+Opening band:
+Royal Trux
+
+Lineage: Audience Master > Bootleg CD > EAC > Audacity (normalization, sound leveling) > CDWAVE (Split) > FLAC

@@ -1,0 +1,25 @@
+Toad The Wet Sprocket
+May 11, 1991
+Live at Price Center Plaza
+UC San Diego, La Jolla, CA
+
+TAPER:  unknown
+TRANSFER:  Ben Wallis (hurtstotalktoyou@yahoo.com)
+LINEAGE:  SBD>???>CAS>FLAC
+
+SETLIST:
+01.  Scenes From A Vinyl Recliner (cuts in)
+02.  Way Away
+03.  Good Intentions
+04.  Is It For Me
+05.  In My Ear
+06.  All I Want
+07.  Hold Her Down
+08.  Stories I Tell
+09.  Spirit/Know Me
+10.  Redemption Song
+11.  Covered In Roses
+12.  When We Recovered
+13.  Come Back Down (cuts out)
+
+NOTES:  This recording was made from Michael Greene's cassette copy.  Darren estimates the lineage at ANA(5) or even ANA(6), but it sounds to me more like ANA(3) or ANA(4).  I used a Pioneer CT-W103 and a Creative Labs Sound Blaster Audigy LS for the transfer.  Then, I used Adobe Audition 1.0 to remove tape hiss and a slight buzz.  The first few songs were much lower in volume than the rest of the tape.  From what I could tell, the volume jumped up and down throughout the entire recording.  For that reason, I applied "dynamics processing" (volume compression).  CD Wave split the tracks.  Enjoy!

@@ -1,0 +1,17 @@
+auCDtect: CD records authenticity detector, version 0.8.2
+Copyright (c) 2004 Oleg Berngardt. All rights reserved.
+Copyright (c) 2004 Alexander Djourik. All rights reserved.
+
+Detect mode (0..40 with 0 = most accurate):  8 (default)
+
+
+Track01(Intro).wav:  track looks like CDDA with probability 100%.
+Track02(Rock'n roll star).wav:  track looks like CDDA with probability 99%.
+Track03(The shock of the lightning).wav:  track looks like CDDA with probability 100%.
+Track04(Waiting for the rapture).wav:  track looks like CDDA with probability 100%.
+Track05(The masterplan).wav:  track looks like CDDA with probability 99%.
+Track06(Ain't got nothing).wav:  track looks like CDDA with probability 100%.
+Track07(The importance of being idle).wav:  track looks like CDDA with probability 100%.
+Track08(Supersonic).wav:  track looks like CDDA with probability 99%.
+Track09(Don't look back in anger).wav:  track looks like CDDA with probability 100%.
+Track10(Champagne supernova).wav:  track looks like CDDA with probability 100%.

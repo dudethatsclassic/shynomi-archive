@@ -1,0 +1,32 @@
+﻿artist: Lush
+venue: The Greyhound, Fulham, London, England
+date: Saturday 4 June 1988
+
+(total 0:18:32)
+1. He's a Bastard (2:27)
+2. 3 Months (3:10)
+3. Truth or Fiction (2:53)
+4. Female Hybrid (2:06)
+5. Bitter (2:15)
+6. Sunbathing (3:21)
+7. Skin (2:17)
+
+master recorded and encoded by crankingamps
+
+https://en.wikipedia.org/wiki/Lush_(band)
+https://www.discogs.com/artist/20696-Lush
+
+lineup: Lush (this recording)
+The McTells (recorded)
+My Bloody Valentine (recorded)
+The Pastels (recorded)
+
+lineage: Sony WM-D3 cassette recorder with Sony ECM-969 stereo microphone
+> TDK SA C90 type 2 cassette > Nakamichi CR-7 cassette deck with azimuth optimised
+> Sound Devices 744T digital recorder as stereo wav file (24-bit 48kHz)
+> Adobe Audition CC 2020 normalise, edit, track, export as flac files (24-bit, 48kHz, level 8)
+> mp3tag > Traders Little Helper 
+
+no equalisation, no compression, no effects;
+first track cuts in, I can't remember if this was the first song played;
+not for sale or commercial exchange, for trade or give away only

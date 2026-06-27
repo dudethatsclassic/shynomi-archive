@@ -1,0 +1,86 @@
+Green Day
+Radio Fritz
+Berlin, Germany
+2004-10-03
+
+Source: Norwegian P3 FM broadcast through Telenor Avidi (cable provider) -> 
+        Radio/TV cable -> 
+        Pinnacle PCTV PRO -> 
+        Line-in on "Hercules Gamesurround Fortissimo II" sound card ->
+        Recorded as 44.1 KHz wave file with Soundforge 7.0 ->
+        Tracked and converted to FLAC with CD Wave Editor 1.94.5
+Lineage: FM > WAV (44.1KHz) > FLAC
+Taped by: N/A
+Transfered by: N/A 
+
+File Size: 550mb (FLAC)
+
+Setlist:
+
+01. American Idiot
+02. Jesus Of Suburbia
+03. Holiday
+04. We Are The Waiting
+05. Saint Jimmy
+06. Longview
+07. She
+08. The Grouch
+09. Hitchin' A Ride
+10. Brain Stew
+11. Jaded
+12. Knowledge
+13. Basket Case
+14. King For A Day
+15. Minority
+16. I Fought The Law (and the law won) [Clash Cover]
+17. Homecoming
+
+Total running time: 81:12
+
+Notes: 
+ - The complete show! 
+
+FLAC Fingerprints:
+
+greenday2004-10-03_FM_t08.flac:63348b954ab9d4e0163dd8f2f71f36c5
+greenday2004-10-03_FM_t09.flac:742ae6dfaeb27d45f931bf293cc167bf
+greenday2004-10-03_FM_t10.flac:f257f5b04e641bf8fe4cfa792a2db9e2
+greenday2004-10-03_FM_t11.flac:5da8e33f606bdb02b433cb64cf6656c7
+greenday2004-10-03_FM_t12.flac:7bc01f5d4c411eba2f36c961ee92e0d2
+greenday2004-10-03_FM_t13.flac:3212f6e81f48815eb5a6a1aaa1d1a8bb
+greenday2004-10-03_FM_t14.flac:5756370119f500277e2c51ae604b3233
+greenday2004-10-03_FM_t15.flac:9cadfe907cc5a16b292fb0ceb6dbbae8
+greenday2004-10-03_FM_t16.flac:f7c7d826d4fa038dfa44eaf720781aa8
+greenday2004-10-03_FM_t17.flac:6a9508f7ce4cc966be140e9089328fd7
+greenday2004-10-03_FM_t01.flac:9cfb6d820ccf3bde55bae168c1f0bf92
+greenday2004-10-03_FM_t02.flac:96fa5b19f25fa2175789a573295376a2
+greenday2004-10-03_FM_t03.flac:eae65a69b633fc9695afa332d2698cdf
+greenday2004-10-03_FM_t04.flac:adfc29574fd6b19b07f66863d346a2e4
+greenday2004-10-03_FM_t05.flac:2c5e546a31b7a4baa924ef61c193a096
+greenday2004-10-03_FM_t06.flac:bfc7894b379aabe940ae0208b88a959f
+greenday2004-10-03_FM_t07.flac:8d8e70abbd3d7640798abb2bc24af588
+
+MD5 Fingerprints:
+
+02cbb9bfdb1761ca425e41866ffda6da *greenday2004-10-03_FM_t01.flac
+c097c024fca55c1dfadef61657794c39 *greenday2004-10-03_FM_t02.flac
+dd75adf96ae99d59bc40147b32548876 *greenday2004-10-03_FM_t03.flac
+25ba80eb18e311ea23023a4241739522 *greenday2004-10-03_FM_t04.flac
+e2a3baaaf72e21cb6fab520c3088b8ef *greenday2004-10-03_FM_t05.flac
+6d136384333698d9f9e11ec2d95ed209 *greenday2004-10-03_FM_t06.flac
+ee4247006d61396fd01e5eac62bd5da5 *greenday2004-10-03_FM_t07.flac
+23003dbb96bb5ba8e1eba9311603c2e7 *greenday2004-10-03_FM_t08.flac
+0204510e75ebd8dba089a28ea7cb5495 *greenday2004-10-03_FM_t09.flac
+67fc93768f4fd1712fb660ec6016a141 *greenday2004-10-03_FM_t10.flac
+1d4c2d70378211374ec68dce385d1110 *greenday2004-10-03_FM_t11.flac
+784453dcd8c278dca6dbf7c426b9fe61 *greenday2004-10-03_FM_t12.flac
+9111e128489468da48223d870a8b59c1 *greenday2004-10-03_FM_t13.flac
+487587fdb545ce994340336f6f162b97 *greenday2004-10-03_FM_t14.flac
+3bea2c0770c6cff2d07cf3a23959f4db *greenday2004-10-03_FM_t15.flac
+bc9da455087494385dea0e0cc77ee396 *greenday2004-10-03_FM_t16.flac
+9e81557963a54e0997cef6e347fa4ef3 *greenday2004-10-03_FM_t17.flac
+
+!!!For free trade only. Not to be distributed as anything but FLAC/CDR.!!!
+
+Compiled by RA
+2005-07-22

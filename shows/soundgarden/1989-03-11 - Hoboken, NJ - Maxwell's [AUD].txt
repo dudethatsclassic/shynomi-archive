@@ -1,0 +1,39 @@
+SOUNDGARDEN
+March 11, 1989
+Maxwell's 
+Hoboken, NJ, USA
+
+Source: Sony WM-D3 / PC-62
+Lineage: ANA1 > CDRx > WAV [EAC Secure Mode] > FLAC [8]
+Quality: 7.5/10
+Time: 55:06
+
+Setlist:
+1. Working Man / Communication Breakdown
+2. All Your Lies
+3. Gun
+4. Flower
+5. I Awake
+6. Entering
+7. Hand of God
+8. Fopp
+9. Tears to Forget
+10. Power Trip
+11. Beyond the Wheel
+12. Nothing to Say
+
+Note: Amazing show, great setlist. "Working Man" cuts in a bit at the beginning. 
+
+Fingerprints:
+01 - Working Man +  Communication Breakdown.flac:fc8c77fda394a441bee8573bb56016ef
+02 - All Your Lies.flac:c38856e94eb660a09a9094c10253b74e
+03 - Gun.flac:2bbd49be393242626312e046cc7cac30
+04 - Flower.flac:e995b3dd1c9965029409b02711b1b906
+05 - I Awake.flac:2194c7a9d2e8c79c41bfe9d6b3c13b1e
+06 - Entering.flac:a5cff731ff6e1e3dc82d16607259fcf4
+07 - Hand of God.flac:1fa5997452889c61ec320a07dc1618af
+08 - Fopp.flac:ca29824a9d6a575bb59781423580d3a5
+09 - Tears to Forget.flac:b513148b6bcad5849e886c60ccb0fcbf
+10 - Power Trip.flac:55b76c89fbf4d81de7f7f0d8349e8e9a
+11 - Beyond the Wheel.flac:81a18804839e80c8c7dfd8d81ba56ef0
+12 - Nothing to Say.flac:790af291b52f0ffa69302ba872f5df8e

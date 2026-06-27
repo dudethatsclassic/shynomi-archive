@@ -28,7 +28,8 @@ const ARTIST_DATA = {
       "venue": "Fulham",
       "version": "AUD",
       "format": "FLAC",
-      "notes": "Sony ECM-969 · crankingamps"
+      "notes": "Sony ECM-969 \u00b7 crankingamps",
+      "textFile": "1988-06-04 - London, England - Fulham (Sony ECM-969) (crankingamps) [AUD].txt"
     },
     {
       "year": 1989,
@@ -41,7 +42,8 @@ const ARTIST_DATA = {
       "venue": "ULU",
       "version": "AUD",
       "format": "FLAC",
-      "notes": "Sony WM-D3 · loughney transfer"
+      "notes": "Sony WM-D3 \u00b7 loughney transfer",
+      "textFile": "1989-10-26 - London, UK - ULU (Sony WM-D3) (loughney transfer) [AUD].txt"
     },
     {
       "year": 1989,
@@ -54,7 +56,8 @@ const ARTIST_DATA = {
       "venue": "Town And Country Club - ANA(M)",
       "version": "AUD",
       "format": "FLAC",
-      "notes": "Sony TCS 430 · Unknown"
+      "notes": "Sony TCS 430 \u00b7 Unknown",
+      "textFile": "1989-11-09 - London, UK -- Town And Country Club - ANA(M) (Sony TCS 430) (unk) [AUD].txt"
     },
     {
       "year": 1990,
@@ -67,7 +70,8 @@ const ARTIST_DATA = {
       "venue": "Nantes - France Inter FM Broadcast",
       "version": "FM",
       "format": "FLAC",
-      "notes": "Unknown"
+      "notes": "Unknown",
+      "textFile": "1990-02-01 - L'Escall, France - Nantes - France Inter FM Broadcast (unk) [FM].txt"
     },
     {
       "year": 1990,
@@ -80,7 +84,8 @@ const ARTIST_DATA = {
       "venue": "Luxor",
       "version": "AUD",
       "format": "FLAC",
-      "notes": "Sony PC-62 · buenaventura"
+      "notes": "Sony PC-62 \u00b7 buenaventura",
+      "textFile": "1990-02-04 - Koln, Germany - Luxor (Sony PC-62) (buenaventura) [AUD].txt"
     },
     {
       "year": 1990,
@@ -93,7 +98,8 @@ const ARTIST_DATA = {
       "venue": "University Of Sheffield",
       "version": "AUD",
       "format": "FLAC",
-      "notes": "Unknown"
+      "notes": "Unknown",
+      "textFile": "1990-03-08 - Sheffield, UK - University Of Sheffield (unk) [AUD] .txt"
     },
     {
       "year": 1990,
@@ -106,7 +112,8 @@ const ARTIST_DATA = {
       "venue": "Grosse Freiheit",
       "version": "AUD",
       "format": "FLAC",
-      "notes": "Sony WM-D6 · Unknown"
+      "notes": "Sony WM-D6 \u00b7 Unknown",
+      "textFile": "1990-04-06 - Hamburg, Germany - Grosse Freiheit (Sony WM-D6) (unk) [AUD].txt"
     },
     {
       "year": 1990,
@@ -119,7 +126,8 @@ const ARTIST_DATA = {
       "venue": "Borderline Club - ANA(M)",
       "version": "AUD",
       "format": "FLAC",
-      "notes": "Sony TCS 430 · Unknown"
+      "notes": "Sony TCS 430 \u00b7 Unknown",
+      "textFile": "1990-04-27 - London, UK - Borderline Club - ANA(M) (Sony TCS 430) (unk) [AUD].txt"
     },
     {
       "year": 1990,
@@ -132,7 +140,8 @@ const ARTIST_DATA = {
       "venue": "University of London Union - ANA(M)",
       "version": "AUD",
       "format": "FLAC",
-      "notes": "Sony TCS 430 · Unknown"
+      "notes": "Sony TCS 430 \u00b7 Unknown",
+      "textFile": "1990-05-25 - London, UK - University of London Union - ANA(M) (Sony TCS 430) (unk) [AUD].txt"
     },
     {
       "year": 1990,
@@ -145,7 +154,8 @@ const ARTIST_DATA = {
       "venue": "KCRW-FM",
       "version": "FM",
       "format": "FLAC",
-      "notes": "loughney transfer"
+      "notes": "loughney transfer",
+      "textFile": "1990-12-07 - Santa Monica, CA - KCRW-FM (loughney transfer) [FM].txt"
     },
     {
       "year": 1991,
@@ -158,7 +168,8 @@ const ARTIST_DATA = {
       "venue": "The Venue New Cross",
       "version": "AUD",
       "format": "DVD",
-      "notes": "Unknown"
+      "notes": "Unknown",
+      "textFile": "1991-03-15 - London, England - The Venue New Cross (unk) [DVD].txt"
     },
     {
       "year": 1991,
@@ -171,7 +182,8 @@ const ARTIST_DATA = {
       "venue": "Club Babyhead",
       "version": "AUD",
       "format": "DVD",
-      "notes": "Unknown"
+      "notes": "Unknown",
+      "textFile": "1991-03-22 - Providence, RI - Club Babyhead (unk) [DVD].txt"
     },
     {
       "year": 1991,
@@ -184,7 +196,8 @@ const ARTIST_DATA = {
       "venue": "Paradise Rock Club",
       "version": "AUD",
       "format": "FLAC",
-      "notes": "Unknown"
+      "notes": "Unknown",
+      "textFile": "1991-03-23 - Boston, MA - Paradise Rock Club (unk) [AUD].txt"
     },
     {
       "year": 1991,
@@ -197,7 +210,8 @@ const ARTIST_DATA = {
       "venue": "Gothic Theatre",
       "version": "FM",
       "format": "FLAC",
-      "notes": "loughney transfer"
+      "notes": "loughney transfer",
+      "textFile": "1991-04-03 - Denver, CO - Gothic Theatre (loughney transfer) [FM].txt"
     },
     {
       "year": 1991,
@@ -210,7 +224,8 @@ const ARTIST_DATA = {
       "venue": "Roxy",
       "version": "FM",
       "format": "FLAC",
-      "notes": ""
+      "notes": "",
+      "textFile": "1991-04-11 - Los Angeles, CA - Roxy [FM].txt"
     },
     {
       "year": 1991,
@@ -223,7 +238,8 @@ const ARTIST_DATA = {
       "venue": "Marquee - ANA(M)",
       "version": "AUD",
       "format": "FLAC",
-      "notes": "Sony ECM-929 · scott simpson"
+      "notes": "Sony ECM-929 \u00b7 scott simpson",
+      "textFile": "1991-04-29 - New York, NY - Marquee - ANA(M) (Sony ECM-929) (scott simpson) [AUD].txt"
     },
     {
       "year": 1991,
@@ -236,7 +252,8 @@ const ARTIST_DATA = {
       "venue": "The Dome",
       "version": "AUD",
       "format": "DVD",
-      "notes": "Unknown"
+      "notes": "Unknown",
+      "textFile": "1991-05-03 - London, UK - The Dome (unk) [DVD].txt"
     },
     {
       "year": 1991,
@@ -249,7 +266,8 @@ const ARTIST_DATA = {
       "venue": "North London Polytechnic",
       "version": "AUD",
       "format": "FLAC",
-      "notes": "The Rocket · Unknown"
+      "notes": "The Rocket \u00b7 Unknown",
+      "textFile": "1991-10-10 - London, UK - North London Polytechnic (The Rocket) (unk) [AUD].txt"
     },
     {
       "year": 1991,
@@ -262,7 +280,8 @@ const ARTIST_DATA = {
       "venue": "Festival des Inrockuptibles - VHS",
       "version": "AUD",
       "format": "DVD",
-      "notes": "2 · Unknown"
+      "notes": "2 \u00b7 Unknown",
+      "textFile": "1991-10-18 - L'Aeronef, Lille, France - Festival des Inrockuptibles - VHS(2) (unk) [DVD].txt"
     },
     {
       "year": 1991,
@@ -275,7 +294,8 @@ const ARTIST_DATA = {
       "venue": "La Cigale, Paris",
       "version": "FM",
       "format": "FLAC",
-      "notes": "unk · 2024 remaster"
+      "notes": "unk \u00b7 2024 remaster",
+      "textFile": "1991-10-19 - Paris, France - La Cigale, Paris (unk) (2024 remaster)  [FM].txt"
     },
     {
       "year": 1992,
@@ -288,7 +308,8 @@ const ARTIST_DATA = {
       "venue": "Kentish Town & Country Club (Sony ECM-101SM)",
       "version": "AUD",
       "format": "FLAC",
-      "notes": "unk · BBEAR099"
+      "notes": "unk \u00b7 BBEAR099",
+      "textFile": "1992-02-08 - London, UK - Kentish Town & Country Club (Sony ECM-101SM) (unk) (BBEAR099) [Silver].txt"
     },
     {
       "year": 1992,
@@ -301,7 +322,8 @@ const ARTIST_DATA = {
       "venue": "Campus Club",
       "version": "AUD",
       "format": "DVD",
-      "notes": "Unknown"
+      "notes": "Unknown",
+      "textFile": "1992-03-24 - Providence, RI - Campus Club (unk) [DVD].txt"
     },
     {
       "year": 1992,
@@ -314,7 +336,8 @@ const ARTIST_DATA = {
       "venue": "The Ritz - ANA(M)",
       "version": "AUD",
       "format": "FLAC",
-      "notes": "Sony ECM-929 · scott simpson"
+      "notes": "Sony ECM-929 \u00b7 scott simpson",
+      "textFile": "1992-03-27 - New York, NY - The Ritz - ANA(M) (Sony ECM-929) (scott simpson) [AUD].txt"
     },
     {
       "year": 1992,
@@ -327,7 +350,8 @@ const ARTIST_DATA = {
       "venue": "The Palace",
       "version": "AUD",
       "format": "FLAC",
-      "notes": "Unknown"
+      "notes": "Unknown",
+      "textFile": "1992-04-11 - Hollywood, CA - The Palace (unk) [AUD].txt"
     },
     {
       "year": 1992,
@@ -340,7 +364,8 @@ const ARTIST_DATA = {
       "venue": "Slim's",
       "version": "Silver CD",
       "format": "FLAC",
-      "notes": "Late Show · Unknown"
+      "notes": "Late Show \u00b7 Unknown",
+      "textFile": "1992-04-14 - San Francisco, CA - Slim's (Late Show) (unk) [AUD].txt"
     },
     {
       "year": 1992,
@@ -353,7 +378,8 @@ const ARTIST_DATA = {
       "venue": "Luxor",
       "version": "AUD",
       "format": "FLAC",
-      "notes": "Sony PC-62 · buenaventura"
+      "notes": "Sony PC-62 \u00b7 buenaventura",
+      "textFile": "1992-05-12 - Koln, Germany - Luxor (Sony PC-62) (buenaventura) [AUD].txt"
     },
     {
       "year": 1992,
@@ -366,7 +392,8 @@ const ARTIST_DATA = {
       "venue": "Dolce Vita",
       "version": "FM",
       "format": "FLAC",
-      "notes": "Couleur 3 Radio Broadcast"
+      "notes": "Couleur 3 Radio Broadcast",
+      "textFile": "1992-05-14 - Lausanne, Switzerland - Dolce Vita (Couleur 3 Radio Broadcast) - ANA(2) [FM].txt"
     },
     {
       "year": 1992,
@@ -379,7 +406,8 @@ const ARTIST_DATA = {
       "venue": "VARA Studios - 2 Meter Session",
       "version": "FM",
       "format": "FLAC",
-      "notes": ""
+      "notes": "",
+      "textFile": "1992-05-31 - Hilversum, The Netherlands - VARA Studios - 2 Meter Session [FM].txt"
     },
     {
       "year": 1992,
@@ -392,7 +420,8 @@ const ARTIST_DATA = {
       "venue": "Bicentennial Park - Lollapalooza 92 (unk) exene transfer)",
       "version": "AUD #1",
       "format": "FLAC",
-      "notes": "Unknown"
+      "notes": "Unknown",
+      "textFile": "1992-08-22 - Miami, FL - Bicentennial Park - Lollapalooza (unk) [AUD #1].txt"
     },
     {
       "year": 1992,
@@ -405,7 +434,8 @@ const ARTIST_DATA = {
       "venue": "",
       "version": "AUD #1",
       "format": "FLAC",
-      "notes": ""
+      "notes": "",
+      "textFile": "1992-08-22 - Miami, FL - Bicentennial Park - Lollapalooza 92 (unk) exene transfer) [AUD #1].txt"
     },
     {
       "year": 1992,
@@ -418,7 +448,8 @@ const ARTIST_DATA = {
       "venue": "Cabaret Metro",
       "version": "FM",
       "format": "FLAC",
-      "notes": "WXRT 93.1 · loughney transfer"
+      "notes": "WXRT 93.1 \u00b7 loughney transfer",
+      "textFile": "1992-08-30 - Chicago, IL - Cabaret Metro (WXRT 93.1) (loughney transfer) [FM].txt"
     },
     {
       "year": 1992,
@@ -431,7 +462,8 @@ const ARTIST_DATA = {
       "venue": "Irvine Meadows - Lollapalooza - ANA",
       "version": "AUD",
       "format": "FLAC",
-      "notes": "M · Unknown"
+      "notes": "M \u00b7 Unknown",
+      "textFile": "1992-09-11 - Irvine, CA - Irvine Meadows - Lollapalooza - ANA(M) (unk) [AUD].txt"
     },
     {
       "year": 1993,
@@ -444,7 +476,8 @@ const ARTIST_DATA = {
       "venue": "ICA - DAT(M)",
       "version": "AUD",
       "format": "FLAC",
-      "notes": "unk · lammah"
+      "notes": "unk \u00b7 lammah",
+      "textFile": "1993-07-21 - London, UK - ICA - DAT(M) (unk) (lammah) [AUD].txt"
     },
     {
       "year": 1994,
@@ -457,7 +490,8 @@ const ARTIST_DATA = {
       "venue": "Radio 1 Evening Session - ANA",
       "version": "FM",
       "format": "FLAC",
-      "notes": "x"
+      "notes": "x",
+      "textFile": "1994-06-04 - London, England - Radio 1 Evening Session - ANA(x) [FM].txt"
     },
     {
       "year": 1994,
@@ -470,7 +504,8 @@ const ARTIST_DATA = {
       "venue": "Black Session",
       "version": "FM",
       "format": "FLAC",
-      "notes": ""
+      "notes": "",
+      "textFile": "1994-06-28 - Paris, FR - Black Session [FM].txt"
     },
     {
       "year": 1994,
@@ -483,7 +518,8 @@ const ARTIST_DATA = {
       "venue": "Maxwell's - ANA(M)",
       "version": "AUD",
       "format": "FLAC",
-      "notes": "Sony ECM-929 · scott simpson"
+      "notes": "Sony ECM-929 \u00b7 scott simpson",
+      "textFile": "1994-07-24 - Hoboken, NJ - Maxwell's - ANA(M) (Sony ECM-929) (scott simpson) [AUD].txt"
     },
     {
       "year": 1994,
@@ -496,7 +532,8 @@ const ARTIST_DATA = {
       "venue": "The Odeon",
       "version": "AUD",
       "format": "DVD",
-      "notes": "Unknown"
+      "notes": "Unknown",
+      "textFile": "1994-07-27 - Cleveland, OH - The Odeon (unk) [DVD].txt"
     },
     {
       "year": 1994,
@@ -509,7 +546,8 @@ const ARTIST_DATA = {
       "venue": "Glam Slam - ANA",
       "version": "AUD",
       "format": "FLAC",
-      "notes": "2 · Unknown"
+      "notes": "2 \u00b7 Unknown",
+      "textFile": "1994-08-09 - Los Angeles, CA - Glam Slam - ANA(2) (unk) [AUD].txt"
     },
     {
       "year": 1994,
@@ -522,7 +560,8 @@ const ARTIST_DATA = {
       "venue": "Manhattan Center Ballroom - ANA(M)",
       "version": "AUD",
       "format": "FLAC",
-      "notes": "Sony ECM-929 · scott simpson"
+      "notes": "Sony ECM-929 \u00b7 scott simpson",
+      "textFile": "1994-08-18 - New York, NY - Manhattan Center Ballroom - ANA(M) (Sony ECM-929) (scott simpson) [AUD].txt"
     },
     {
       "year": 1994,
@@ -535,7 +574,8 @@ const ARTIST_DATA = {
       "venue": "Zap Club",
       "version": "SBD",
       "format": "FLAC",
-      "notes": "Unknown"
+      "notes": "Unknown",
+      "textFile": "1994-09-05 - Brighton, UK - Zap Club (unk) [SBD].txt"
     },
     {
       "year": 1996,
@@ -548,7 +588,8 @@ const ARTIST_DATA = {
       "venue": "BBC Studios - Mark Radcliffe Session",
       "version": "FM",
       "format": "FLAC",
-      "notes": "loughney transfer"
+      "notes": "loughney transfer",
+      "textFile": "1996-01-04 - BBC Studios - Radcliffe Session [FM].txt"
     },
     {
       "year": 1996,
@@ -561,7 +602,8 @@ const ARTIST_DATA = {
       "venue": "BBC Studios - Radcliffe Session",
       "version": "FM",
       "format": "FLAC",
-      "notes": ""
+      "notes": "",
+      "textFile": "1996-01-04 - London, UK - BBC Studios - Mark Radcliffe Session (loughney transfer) [FM].txt"
     },
     {
       "year": 1996,
@@ -574,7 +616,8 @@ const ARTIST_DATA = {
       "venue": "Commodore Ballroom",
       "version": "FM",
       "format": "FLAC",
-      "notes": "stevemtl"
+      "notes": "stevemtl",
+      "textFile": "1996-04-11 - Vancouver, BC - Commodore Ballroom (stevemtl) [FM].txt"
     },
     {
       "year": 1996,
@@ -587,7 +630,8 @@ const ARTIST_DATA = {
       "venue": "Fillmore",
       "version": "AUD",
       "format": "FLAC",
-      "notes": "unk · neekrive"
+      "notes": "unk \u00b7 neekrive",
+      "textFile": "1996-04-15 - San Francisco, CA - Fillmore (unk) (neekrive) [AUD].txt"
     },
     {
       "year": 1996,
@@ -600,7 +644,8 @@ const ARTIST_DATA = {
       "venue": "Whisky A Go Go",
       "version": "AUD",
       "format": "FLAC",
-      "notes": "CSB · Unknown"
+      "notes": "CSB \u00b7 Unknown",
+      "textFile": "1996-04-17 - West Hollywood, CA - Whisky A Go Go (CSB) (unk) [AUD].txt"
     },
     {
       "year": 1996,
@@ -613,7 +658,8 @@ const ARTIST_DATA = {
       "venue": "Paradise",
       "version": "AUD",
       "format": "FLAC",
-      "notes": "Unknown"
+      "notes": "Unknown",
+      "textFile": "1996-04-29 - Boston, MA - Paradise (unk) [AUD].txt"
     },
     {
       "year": 1996,
@@ -626,7 +672,8 @@ const ARTIST_DATA = {
       "venue": "The Odeon",
       "version": "AUD",
       "format": "DVD",
-      "notes": "Unknown"
+      "notes": "Unknown",
+      "textFile": "1996-05-06 - Cleveland, OH - The Odeon (unk) [DVD].txt"
     },
     {
       "year": 1996,
@@ -639,7 +686,7 @@ const ARTIST_DATA = {
       "venue": "Shoreline Amphitheatre",
       "version": "AUD",
       "format": "FLAC",
-      "notes": "unk · neekrive"
+      "notes": "unk \u00b7 neekrive"
     },
     {
       "year": 1996,
@@ -652,7 +699,8 @@ const ARTIST_DATA = {
       "venue": "Queens Hall",
       "version": "FM",
       "format": "FLAC",
-      "notes": ""
+      "notes": "",
+      "textFile": "1996-06-19 - Belfast, Ireland - Queens Hall [FM].txt"
     },
     {
       "year": 1996,
@@ -665,7 +713,8 @@ const ARTIST_DATA = {
       "venue": "Axion Beach Rock Festival - VHS",
       "version": "AUD",
       "format": "DVD",
-      "notes": "2 · atomicpope"
+      "notes": "2 \u00b7 atomicpope",
+      "textFile": "1996-07-20 - Zeebrugge, Belgium - Axion Beach Rock Festival - VHS(2) (atomicpope) [DVD].txt"
     },
     {
       "year": 1996,
@@ -678,7 +727,8 @@ const ARTIST_DATA = {
       "venue": "Toad's Place - DAT(c)",
       "version": "AUD",
       "format": "FLAC",
-      "notes": "SS mics · rk"
+      "notes": "SS mics \u00b7 rk",
+      "textFile": "1996-08-29 - New Haven, CT - Toad's Place - DAT(c) (SS mics) (rk) [AUD].txt"
     },
     {
       "year": 1996,
@@ -691,7 +741,8 @@ const ARTIST_DATA = {
       "venue": "930 Club - DAT",
       "version": "AUD",
       "format": "FLAC",
-      "notes": "c · Unknown"
+      "notes": "c \u00b7 Unknown",
+      "textFile": "1996-08-30 - Washington DC - 930 Club - DAT(c) (unk) [AUD].txt"
     },
     {
       "year": 1996,
@@ -704,7 +755,8 @@ const ARTIST_DATA = {
       "venue": "Trocadero Theatre",
       "version": "AUD",
       "format": "FLAC",
-      "notes": "SS-DSM6S · jlizard"
+      "notes": "SS-DSM6S \u00b7 jlizard",
+      "textFile": "1996-08-31 - Philadelphia, PA - Trocadero Theatre (SS-DSM6S) (jlizard) [AUD].txt"
     },
     {
       "year": 1996,
@@ -717,7 +769,8 @@ const ARTIST_DATA = {
       "venue": "The Fillmore",
       "version": "AUD",
       "format": "FLAC",
-      "notes": "unk · neekrive"
+      "notes": "unk \u00b7 neekrive",
+      "textFile": "1996-09-07 - San Francisco, CA - The Fillmore (unk) (neekrive) [AUD].txt"
     },
     {
       "year": 2016,
@@ -730,7 +783,8 @@ const ARTIST_DATA = {
       "venue": "Oslo",
       "version": "AUD",
       "format": "FLAC",
-      "notes": "CA-11s · chatts99"
+      "notes": "CA-11s \u00b7 chatts99",
+      "textFile": "2016-04-11 - Hackney, London - Oslo (CA-11s) (chatts99) [AUD].txt"
     },
     {
       "year": 2016,
@@ -743,7 +797,8 @@ const ARTIST_DATA = {
       "venue": "Roundhouse",
       "version": "AUD",
       "format": "FLAC",
-      "notes": "DPA 4060s · Unknown"
+      "notes": "DPA 4060s \u00b7 Unknown",
+      "textFile": "2016-05-06 - London, UK - Roundhouse (DPA 4060s) (unk) [AUD].txt"
     },
     {
       "year": 2016,
@@ -756,7 +811,8 @@ const ARTIST_DATA = {
       "venue": "Roundhouse",
       "version": "AUD",
       "format": "FLAC",
-      "notes": "DPA 4060s · Unknown"
+      "notes": "DPA 4060s \u00b7 Unknown",
+      "textFile": "2016-05-07 - London, UK - Roundhouse (DPA 4060s) (unk) [AUD].txt"
     },
     {
       "year": 2016,
@@ -769,7 +825,8 @@ const ARTIST_DATA = {
       "venue": "The Vic",
       "version": "AUD",
       "format": "FLAC",
-      "notes": "Edirol R-09 · alien rendel"
+      "notes": "Edirol R-09 \u00b7 alien rendel",
+      "textFile": "2016-09-18 - Chicago, IL - The Vic (Edirol R-09) (alien rendel) [AUD].txt"
     },
     {
       "year": 2016,
@@ -782,7 +839,8 @@ const ARTIST_DATA = {
       "venue": "Fonda Theatre",
       "version": "AUD",
       "format": "FLAC",
-      "notes": "AT831s · Unknown"
+      "notes": "AT831s \u00b7 Unknown",
+      "textFile": "2016-09-25 - Los Angeles, CA - Fonda Theatre (AT831s) (unk) [AUD].txt"
     }
   ],
   "misc": [

@@ -1,0 +1,80 @@
+Green Day
+MEN Arena, Manchester, UK
+Friday 30th November, 2009
+
+
+Lineage:
+
+Church Audio ST-11 Cardioid Mics
+-> Battery Box
+-> iRiver H120 (Rockbox r18607-3.0-080923)
+-> SoundForge (v8.0d) (trim WAV, normalise, fade out)
+-> CDWave (v1.95.1) (tracking)
+-> TLH (v2.4.1)
+-> FLAC (level 8)
+-> Foobar2000 (v0.9.4.2) (tagging)
+
+Source: Audience recording from centre of floor
+Taper: PABBY
+Duration: 2hr 24m 56s
+Size: 799MB
+
+
+Setlist:
+
+01. Song of the Century
+02. 21st Century Breakdown
+03. Know Your Enemy
+04. East Jesus Nowhere
+05. Holiday
+06. The Static Age
+07. Give Me Novacaine
+08. Are We the Waiting
+09. St. Jimmy
+10. Boulevard of Broken Dreams
+11. 2000 Light Years Away
+12. Hitchin' A Ride
+13. Coming Clean
+14. When I Come Around
+15. Iron Man (Black Sabbath cover)
+16. Brain Stew
+17. Jaded
+18. Longview
+19. Basket Case
+20. She
+21. King For A Day
+22. Shout Medley:-
+- Shout
+- Orgasm Addict
+- Always Look On The Bright Side Of Life
+- Champagne Supernova
+- Teenage Kicks
+- Always Look On The Bright Side Of Life (Reprise)
+- (I Can't Get No) Satisfaction
+- Shout (Reprise)
+23. 21 Guns
+24. Minority
+25. <encore break #1>
+26. American Idiot
+27. Jesus Of Suburbia
+28. <encore break #2>
+29. Last Night on Earth
+30. Wake Me Up When September Ends
+31. Good Riddance (Time Of Your Life)
+
+
+Notes:
+
+SoundForge was used for trimming the start/end of the WAV, normalisation and adding fade out. No equalisation was performed on this recording.
+
+This was simply an amazing show performed by an equally amazing band. It had everything - crowd participation, pyrotechnics and regular explosions.
+
+Billie-Joe Armstrong had the crowd eating out of the palm of his hand from the moment he walked on stage and he never let them rest until he was finished almost two and a half hours later. He disappeared up into the seated area; he danced with fans onstage; he got fans onstage to sing songs (well done if you're that woman, but Dale from Preston, don't give up the day job!); he got a 10-year old (-ish) kid on stage to be "saved" during East Jesus Nowhere; he fired t-shirts into the upper reaches of the arena from a gun; he soaked the crowd with a hose and giant water pistols. A tad pantomime at times, but a true showman and great entertainment nevertheless!
+
+And then there was the music. The 16,000 strong crowd lapped it up and sang along all the way through. We even had a couple of treats with "2,000 Light Years Away" and "Coming Clean" making rare setlist appearances "for the old school"! The highlights for me were East Jesus Nowhere and Jesus of Suburbia, both outstanding songs that this great band do proud. Cheers lads!
+
+Enjoy!  :-)
+
+
+
+

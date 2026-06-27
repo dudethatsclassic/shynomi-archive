@@ -1,0 +1,24 @@
+TOM PETTY
+October 29, 2000
+Shoreline Amphitheatre
+Mountain View, CA
+
+Source: Core Sound Cardioid > Sony PCM-M1
+Location: forty feet from right-of-center lawn PA
+Taper: CPS
+Lineage: DAT(M) > WAV [48] > WAV [44.1] > FLAC
+Transfer: Tascam DA-20mkII > M-Audio Audiophile 2496 > Sound Forge
+Edits/EQ: none
+Notes: Bridge Benefit
+
+01 - intro
+02 - Baby Please Don't Go
+03 - Face in the Crowd
+04 - Mary Jane's Last Dance
+05 - Little Red Rooster
+06 - Hard to Find a Friend
+07 - I Won't Back Down
+08 - Breakdown
+
+
+Compiled April 2019 by CPS

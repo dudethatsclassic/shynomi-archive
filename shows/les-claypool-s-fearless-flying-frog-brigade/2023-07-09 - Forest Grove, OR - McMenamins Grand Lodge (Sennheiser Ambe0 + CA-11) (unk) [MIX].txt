@@ -1,0 +1,46 @@
+Les Claypool's Fearless Flying Frog Brigade
+July 9th, 2023 (Sunday)
+McMenamins Grand Lodge
+Forest Grove, Oregon
+
+2-AUD Matrix
+
+Source 1:  Sennheiser Ambeo > iPhone > Apogee MetaRecorder - Grizzly Adams, on the rail in front of Sean
+Source 2:  CA-11 > Bat2B > DR-05 - Nic F, central location ~25' from stage
+Transfer:  .WAV > RX9 > Wavepad > flac (8) via TLH
+
+Setlist:  01:58:45
+01 intro
+02 Buzzards of Greenhill
+03 Amanitas
+04 David Makalaster
+05 Blood and Rockets
+06 Pigs on the Wing
+07 Dogs
+08 Pigs
+09 Sheep
+10 Pigs on the Wing
+11 Precipitation
+12 Hendershot
+13 Lust Stings
+14 Running the Gauntlet
+15 D's Diner
+16 Whamola
+
+fingerprints:
+lcfffb2023-07-09mtx01 - intro.flac:caf9e621a795938a2d388713301ef03e
+lcfffb2023-07-09mtx02 - Buzzards of Greenhill.flac:d52e5dde16779edcebeed2225de7f318
+lcfffb2023-07-09mtx03 - Amanitas.flac:fd98e47dd038865703f4609611c9bc6c
+lcfffb2023-07-09mtx04 - David Makalaster.flac:86612f8b6bff8e89b3dab37e01f3603e
+lcfffb2023-07-09mtx05 - Blood and Rockets.flac:7eb69dbb170365366d8ab1234f74b995
+lcfffb2023-07-09mtx06 - Pigs on the Wing.flac:1244e80c98144c79302582e63bd0f0b0
+lcfffb2023-07-09mtx07 - Dogs.flac:1df6ba36aa6e7c96ae450109dacf4df9
+lcfffb2023-07-09mtx08 - Pigs.flac:c01e802fca6a2a8cd79327ab5a7b731e
+lcfffb2023-07-09mtx09 - Sheep.flac:269134bb8ccc63e3e8355432dbea9f78
+lcfffb2023-07-09mtx10 - Pigs on the Wing.flac:466a671014e731ec4988a4757ecd8b6d
+lcfffb2023-07-09mtx11 - Precipitation.flac:aa268c8fe7e1228f01dfec558219f57b
+lcfffb2023-07-09mtx12 - Hendershot.flac:8e4aa60e02771480ee443c79e34f57f2
+lcfffb2023-07-09mtx13 - Lust Stings.flac:2e55ba0e26f24c44347bcddcca44d56a
+lcfffb2023-07-09mtx14 - Running the Gauntlet.flac:7b58aa87a7882f51ab408ef6ac276a2c
+lcfffb2023-07-09mtx15 - D's Diner.flac:835d7b3f36fe40b44370bd032f3c1f0f
+lcfffb2023-07-09mtx16 - Whamola.flac:fabd43f1d929a5ccbd83aff1ff124bd4

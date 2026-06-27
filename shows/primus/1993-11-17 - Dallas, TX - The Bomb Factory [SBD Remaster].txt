@@ -1,0 +1,73 @@
+PRIMUS
+The Bomb Factory
+Dallas, TX.
+11/17/1993
+
+
+*****SBD REMASTERED*****
+
+
+SBD/REMASTERED, Transfered, Tracked & Seeded By: 
+ Michael Wilker  mwilker-at-comcast.net
+Source: DSBD/DAT @48k / Remaster: Tascam DA-45hr~>
+ BehringerDEQ24/96 Ultracurve pro*~>
+ *(1.25db boost overall + 5.45db boost below 160hz
+  + add. boost of 4db below 60hz)
+ Lexicon 480~> ART212 Dual COmpressor~>
+ Furman Limiter Compresor~> Gatex Noise Gate~>
+ Furman Pro Conditioner~> Protools 24 @ 24/96~>
+ CDWave(track)~> TLH(sbe)~> Flac(level 8)
+****************************************************
+
+
+ONE SET/ONE DISC:   -requires 80min cdr
+01. Jerry was a Racecar Driver
+02. Bob
+03. My Name is Mud
+04. Those Damned Blue Collar Tweekers
+05. Frizzle Fry
+06. Seas of Cheese > Pork Soda
+07. The Air is Getting Slippery
+08. Spaghetti Western
+09.Harold of the Rocks
+10. Nature Boy
+11. DMV
+ENCORE:
+12. Toys Go Winding Down > Pudding Time
+13. Here Come the Bastards
+14. Fish On Intro > Tommy the Cat
+
+SHNTOOL:
+ length     expanded size   cdr  WAVE problems filename
+     3:27.33       36592460    ---   --   -----   primus1993-11-17d1t01.wav
+     4:49.72       51148988    ---   --   -----   primus1993-11-17d1t02.wav
+     4:54.03       51868700    ---   --   -----   primus1993-11-17d1t03.wav
+     7:02.31       74513756    ---   --   -----   primus1993-11-17d1t04.wav
+     6:18.63       66827420    ---   --   -----   primus1993-11-17d1t05.wav
+     4:19.71       45854636    ---   --   -----   primus1993-11-17d1t06.wav
+     2:24.42       25500428    ---   --   -----   primus1993-11-17d1t07.wav
+     8:45.44       92713532    ---   --   -----   primus1993-11-17d1t08.wav
+     6:14.16       66011276    ---   --   -----   primus1993-11-17d1t09.wav
+     9:48.48      103836140    ---   --   -----   primus1993-11-17d1t10.wav
+     4:35.53       48634700    ---   --   -----   primus1993-11-17d1t11.wav
+     7:12.53       76329500    ---   --   -----   primus1993-11-17d1t12.wav
+     3:55.34       41534012    ---   --   -----   primus1993-11-17d1t13.wav
+     6:47.18       71837180    ---   --   -----   primus1993-11-17d1t14.wav
+    80:36.56      853202728 B                     (totals for 14 files, 1.0000 overall compression ratio)
+
+FINGERPRINT:
+primus1993-11-17d1t01.flac:7cf129e3f95668ceac64ba3a3607db33
+primus1993-11-17d1t02.flac:c2148975557c4b2b7292416a9598844f
+primus1993-11-17d1t03.flac:d6247481ce7600e35791e45bda664ffa
+primus1993-11-17d1t04.flac:3c8ed277083410cf640a1e02d1ad8763
+primus1993-11-17d1t05.flac:c34885ec3e43cb0e6d2d4eceb21fb3db
+primus1993-11-17d1t06.flac:5be8d9769d61b0663edd493bcef5eb4f
+primus1993-11-17d1t07.flac:fe1cb032df13410349ce4943a190ad17
+primus1993-11-17d1t08.flac:05fd47330ddfae794466032e435eac19
+primus1993-11-17d1t09.flac:4fc24e565f77f58cac7f0f28ec17b7e9
+primus1993-11-17d1t10.flac:6b95cc6c15431b91c034a4aff08ab1d8
+primus1993-11-17d1t11.flac:f26f96222b34901412a634f68fabc497
+primus1993-11-17d1t12.flac:984a61dafd400ac1ab3a593d63d259d5
+primus1993-11-17d1t13.flac:de1b9b591f041f0516f1fad97324dee9
+primus1993-11-17d1t14.flac:92ab42773829fa4494ce5af98fdc3a5c
+

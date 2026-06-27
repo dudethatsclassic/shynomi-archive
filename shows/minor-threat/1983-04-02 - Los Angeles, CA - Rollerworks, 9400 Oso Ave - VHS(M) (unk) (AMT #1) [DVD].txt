@@ -1,0 +1,45 @@
+MINOR THREAT
+April 2nd, 1983
+Rollerworks (9400 Oso Avenue)
+Chatsworth, CA, USA
+
+SOURCE (AMT#1):
+unknown > unknown
+
+TRANSFER:
+unknown > unknown
+
+GENERATION:
+VHS(M) > S-VHS (M) [TDK SA XP] > DVD(M)
+
+LENGTH:
+25:29
+
+TRACKS:
+1 - Stand Up
+2 - Filler
+3 - It Follows
+4 - Screaming At A Wall
+5 - Stepping Stone
+6 - Out Of Step
+7 - No Reason
+8 - 12XU
+9 - Little Friend
+10 - Guilty Of Being White
+11 - Betray
+12 - Bottled Violence
+13 - Think Again
+
+MD5 FINGERPRINTS:
+74607f4dbe04e7e0f350b4503ead953d *VIDEO_TS.IFO
+df287f94791a7efc97dee0da0c11d59c *VTS_01_0.IFO
+91418022786cdb9591ce6f61f28d5d2f *VTS_01_1.VOB
+15a76c3403834dd20a0e5de5bcb36dad *VTS_01_2.VOB
+
+DISTRIBUTION:
+Phil G. - supplied tapes
+hothcanada - transfer
+80 Androids - reauthor
+
+NOTES:
+Released on "Best of Flipside 2" along with Minutemen set

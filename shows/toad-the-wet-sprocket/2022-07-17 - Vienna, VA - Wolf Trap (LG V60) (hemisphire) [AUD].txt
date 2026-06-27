@@ -1,0 +1,20 @@
+Toad the Wet Sprocket
+7/17/2022
+Wolf Trap
+Vienna, VA
+
+Taper: hemisphire
+Source: LG V60 > WAV
+Lineage: WAV > ffmpeg (track split) > FLAC
+
+01. Come Down
+02. Good Intentions
+03. California Wasted
+04. Transient Whales
+05. Brother
+06. Crazy Life
+07. All I Want
+08. (What's So Funny 'Bout) Peace, Love And Understanding
+09. Something's Always Wrong
+10. Fall Down
+11. Walk On The Ocean

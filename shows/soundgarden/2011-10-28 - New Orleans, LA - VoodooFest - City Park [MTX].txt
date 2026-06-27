@@ -1,0 +1,77 @@
+Soundgarden
+Friday, Oct 28, 2011
+VoodooFest, City Park
+New Orleans, LA
+
+
+*********************
+2 Source Mix
+*********************
+
+
+Source 1: DPA 4061 (matched pair) > 9v batt box > Edirol R-09 (WAV @ 24 bit, 48 kHz)
+
+Source 2: Church Audio AT831 > 9v batt box > Edirol R-09 (WAV @ 24 bit, 48 kHz)
+
+Location: Front of stacks, stage left, 30 yards back
+
+Lineage: SD card(s) > card reader (USB) > WAV > FLAC
+
+Mastering: Wavlab 3.04 (EQ, dynamic compression, matrixing, dithering and resampling to 16 bit, 44.1 kHz) > CD Wave Editor (track splits) > FLACfrontend
+
+
+Recorded, mastered and matrixed by Adam
+
+
+Note:  Final matrix is approx. a 60/40 mix of the two sources, in favor of the DPA source (with some variations mixed in throughout.)
+
+There is some slight wind noise at times, and some slight phasing at other times, as I often found myself trying to move out from behind taller folks in front of me, or away from people who were more inclined to have an in-depth conversation than to actually pay attention to the show.  
+
+It's not a perfect recording, by far, but I'm pretty happy with the results, considering I've been waiting 15 years to see and tape these guys.
+
+
+
+Disc 1:
+
+01. intro                                  1:37
+02. Searching With My Good Eye Closed      4:28
+03. Spoonman                               4:32
+04. Let Me Drown                           3:53
+05. Jesus Christ Pose                      6:15
+06. Gun (w/ Pepper Keenan)                 5:37
+07. Blow Up the Outside World              5:56
+08. Loud Love                              5:07
+09. Ugly Truth                             6:46
+10. My wave                                5:18
+11. The Day I tried to Live                6:56
+12. Pretty Noose                           4:16
+
+Total:                                    60:46
+
+
+
+Disc 2:
+
+01. Black Hole Sun                   6:21
+02. Outshined                        5:20
+03. Rusty cage                       5:12
+04. Room a Thousand Years Wide       4:04
+05. Drawing Flies                    2:35
+06. Hunted Down                      2:44
+07. Fell On Black Days               5:01
+08. Superunkown                      5:25
+09. 4th of July                      8:04
+
+Encore:
+10. Beyond the Wheel                 5:47
+11. Slaves and Bulldozers           12:34
+
+Total:                              63:13
+
+
+
+
+******************************
+Do not sell this recording.
+Enjoy!
+******************************

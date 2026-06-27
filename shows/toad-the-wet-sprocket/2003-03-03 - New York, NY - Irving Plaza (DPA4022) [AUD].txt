@@ -1,0 +1,55 @@
+Toad The Wet Sprocket
+3-03-03
+Irving Plaza
+New York, NY
+
+Taper: Scott Brown
+Source: DPA (B&K) 4022s > Lunatec V3 @ 16/44.1 > Sony D8
+Dead Center, XY, 11 feet
+DAT > SHN: Tascam DA-20mkii > Emagic EMI 2|6 > Apple PowerBookG4 > Sound Studio 2.0.7 > shntool 1.2.0-rc1 > shn
+
+
+DO NOT ENCODE TO MP3 OR OTHER LOSSY FORMATS
+
+
+Disc 1   48:29.37
+
+01 Intro                   01:11.52             
+02 Whatever I Fear         03:20.19
+03 Something Always Wrong  04:22.12
+04 Dam Would Break         04:50.32
+05 Rings                   03:56.04
+06 Fly From Heaven         04:42.43
+07 Crowing                 03:29.03
+08 All I Want              03:13.67
+09 Inside                  06:00.24
+10 Stupid                  02:17.34
+11 Ziggy Stardust          04:23.35
+12 Come Back Down          03:41.73
+13 Nightingale Song        03:00.14
+
+
+Disc 2   51:44.22
+
+01 Disc 2 Intro            00:37.42
+02 Train Wreck *           04:10.18
+03 Political Science*      02:45.11
+04 Cool                    02:56.16
+05 Windmills               04:41.23
+06 Nanci                   02:59.01
+07 Walk On The Ocean       03:17.07
+08 Amnesia                 04:38.69
+09 Fall Down               06:22.06
+Encore 1:
+10 Crazy Life              04:40.22
+11 Hold Her Down           03:35.15
+12 Brother                 06:33.43
+Encore 2:
+13 All Things In Time      04:27.49
+
+* Glen Solo
+
+notes: I also ran analog out from the v3 to an Apogee Minime, so a V3/Minime comparison for this exists
+
+
+compiled by scott brown on 3-4-03

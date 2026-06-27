@@ -19,9 +19,10 @@ const ARTIST_DATA = {
       "state": "CO",
       "location": "Boulder, CO",
       "venue": "Fox Theatre",
-      "notes": "DPA 4011 · unk",
+      "notes": "DPA 4011 \u00b7 unk",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "2005-07-07 - Boulder, CO - Fox Theatre (DPA 4011) (unk) [AUD].txt"
     },
     {
       "year": 2005,
@@ -32,9 +33,10 @@ const ARTIST_DATA = {
       "state": "CO",
       "location": "Boulder, CO",
       "venue": "Fox Theatre",
-      "notes": "Schopes MK4 · unk",
+      "notes": "Schopes MK4 \u00b7 unk",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "2005-07-08 - Boulder, CO - Fox Theatre (Schopes MK4) (unk) [AUD].txt"
     },
     {
       "year": 2007,
@@ -45,9 +47,10 @@ const ARTIST_DATA = {
       "state": "MA",
       "location": "Boston, MA",
       "venue": "The Roxy",
-      "notes": "CSB · ghostwheel",
+      "notes": "CSB \u00b7 ghostwheel",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "2007-06-01 - Boston, MA - The Roxy (CSB) (ghostwheel) [AUD].txt"
     },
     {
       "year": 2007,
@@ -58,9 +61,10 @@ const ARTIST_DATA = {
       "state": "PA",
       "location": "Philadelphia, PA",
       "venue": "The Electric Factory",
-      "notes": "CSB · ghostwheel",
+      "notes": "CSB \u00b7 ghostwheel",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "2007-06-03 - Philadelphia, PA - The Electric Factory (CSB) (ghostwheel) [AUD].txt"
     }
   ],
   "misc": []

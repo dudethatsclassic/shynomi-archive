@@ -1,0 +1,41 @@
+Chris Cornell
+
+3 December 2015
+Llewellyn Hall
+Canberra, Australian Capital Territory, Australia 
+
+
+Intro
+Before We Disappear
+Can't Change Me
+As Hope & Promise Fade
+The Times They Are A-Changin' (Bob Dylan)
+Ground Zero
+Nearly Forgot My Broken Heart
+Fell On Black Days (Soundgarden)
+Thank You (Led Zeppelin)
+Doesn't Remind Me (Audioslave)
+Call Me a Dog (Temple Of The Dog)
+Blow Up The Outside World (Soundgarden)
+Let Your Eyes Wander
+Nothing Compares 2 U (Prince)
+Rusty Cage (Soundgarden)
+Seasons
+Misery Chain
+I Am The Highway (Audioslave)
+Sunshower
+Worried Moon
+Black Hole Sun (Soundgarden)
+Wooden Jesus (Temple Of The Dog)
+A Day In The Life (The Beatles)
+Encore Break
+Scream
+Billie Jean (Michael Jackson)
+Higher Truth
+
+
+Running Time: 2:15:13
+
+Taper: Roman79 ~ 15m from stage, centre
+
+Lineage: Matched DPA MMC4011s > DP-MMP-ES > Tinybox @ 48V > Sony PCM-M10 > Adobe Audition CS6 - Edit & Levels - (iZotope RX 4 DeClicker Plugin - remove loud clapping), (iZotope Ozone 5 Mastering Plugin - EQ - MBIT+ Dithering @ 44kHz/16bit WAV) > TLH V2.7.0 FLAC Lvl - Fix SBE's > Foobar - Tagging

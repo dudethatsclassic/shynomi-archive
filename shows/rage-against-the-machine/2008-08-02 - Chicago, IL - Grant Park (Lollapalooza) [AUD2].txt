@@ -1,0 +1,76 @@
+Rage Against The Machine 
+2008-08-02
+Lollapalooza
+AT&T Stage
+Grant Park
+Chicago, IL
+
+record  :  MM-HLSC-1(mounted on hat, ~200-230 feet from stage loc in line with main stage speakers, but picking up some of the secondary relay stacks as well once we took several steps back throughout the show) > MM-MBM (roll off @ 96hz) > R09 @ 24/48
+transfer:  R09 > USB > wavelab (editing and dither to 16bit) > Cdwav (tracking) > Trader's Little Helper (flac)
+taper:  sin213
+website:  http://members.cox.net/sin213/sin213.html
+
+This show was one of the main reasons I attended this years Lollapalooza.  This show got pretty crazy though, with a lot of people getting injured up front.  Zach stops the show on three different occasions to ask everyone to calm down a bit and take a few steps back.  I was toward the middle of the crowd and everyone, including me, were moving back each time.  But it didn't look like any of those up front were moving back at all...  So the setlist is probably a little shorter than other shows due to the breaks they had to take, but all in all, Rage put on another great show.  Hopefully we'll see a new album soon...
+
+I hope everyone enjoys!
+
+
+RATM - total time 93:40 *16bit version*
+
+Disc 1
+
+01 Intro
+02 Testify
+03 Bulls On Parade
+04 People Of The Sun
+05 "You Gotta Take Care" - Zach speaks to crowd
+06 Bombtrack
+07 Know Your Enemy
+08 "Take 5-10 Steps Back, Please" - Zach speaks to crowd
+09 Bullet In Your Head
+10 Born Of A Broken Man
+11 Guerilla Radio
+12 "Please step back" - Zach speaks to crowd
+
+Disc 2
+
+01 Ashes In The Fall Intro
+02 Ashes In The Fall
+03 Calm Like A Bomb
+04 Sleep Now In The Fire
+05 Wake Up (w/ Zach's Political Speech)
+06 encore break
+07 The Internationale
+08 Freedom Intro
+09 Freedom
+10 Township Rebellion
+11 Killing In The Name
+
+*Note:  if you burn without the intro, parts where Zach is talking to the crowd and encore break, this show will fit on one cd*
+
+**DO NOT ENCODE TO MP3, EXCEPT FOR PERSONAL MP3 PLAYER USE**
+**PLEASE DO NOT ALTER OR SELL THIS RECORDING AND INCLUDE THE INFO FILE IN TRADES**
+
+RATM - 2008-08-02 - d1t01.flac:223d48f8d99618bfd88b21e2962216d9
+RATM - 2008-08-02 - d1t02.flac:404a76e8276f379548dc30ed472e0e4d
+RATM - 2008-08-02 - d1t03.flac:af2ac777ce5194aacc1a337b51e29436
+RATM - 2008-08-02 - d1t04.flac:011b27336fdf812f1aa7779ef4e998f4
+RATM - 2008-08-02 - d1t05.flac:fa91bba16cb9f8e17cb7cc47a7552d02
+RATM - 2008-08-02 - d1t06.flac:b46127a9951ca4965954859d11c7c032
+RATM - 2008-08-02 - d1t07.flac:42559a10bb80542f3e7ca646284f70b3
+RATM - 2008-08-02 - d1t08.flac:d83586df4079d10a5e2118b2d0e96aae
+RATM - 2008-08-02 - d1t09.flac:e189b941f366a74b36d20a0eb07285d8
+RATM - 2008-08-02 - d1t10.flac:e795dad9ebe9890d7cba8f4e17151ea6
+RATM - 2008-08-02 - d1t11.flac:a656a5535f0a3dc9c1dc49929d288c54
+RATM - 2008-08-02 - d1t12.flac:e45387c19028ba92cb81a964cb69d0ba
+RATM - 2008-08-02 - d2t01.flac:b7ab9dfb717a687edc85c6ecf2719722
+RATM - 2008-08-02 - d2t02.flac:dded49a24fee1ea2ff1fc3e83acf801e
+RATM - 2008-08-02 - d2t03.flac:156134436814c3045e4f44f326e8d057
+RATM - 2008-08-02 - d2t04.flac:59f8f39bb287d523ec394a9b78a30309
+RATM - 2008-08-02 - d2t05.flac:a61cb8b304223f4dbdd8e02c92e1f494
+RATM - 2008-08-02 - d2t06.flac:21b72af27be6003ab2962069a3f4e4d1
+RATM - 2008-08-02 - d2t07.flac:22154cf44bf2650e6fd6b9cfc4004bb9
+RATM - 2008-08-02 - d2t08.flac:7571cce19789be2db7c52b1d6d2140ed
+RATM - 2008-08-02 - d2t09.flac:a8e9fb98328326f6ede483d065368d67
+RATM - 2008-08-02 - d2t10.flac:03c0791d31981ece114939d2c119ae6f
+RATM - 2008-08-02 - d2t11.flac:41fdf820ac941454fdee7475e4592dd5

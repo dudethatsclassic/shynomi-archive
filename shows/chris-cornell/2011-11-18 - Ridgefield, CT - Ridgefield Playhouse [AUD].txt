@@ -1,0 +1,85 @@
+Chris Cornell
+November 18, 2011
+Ridgefield Playhouse
+Ridgefield, CT
+
+Source:   Tascam DR-07 MKII (internals) [.wav @ 24-bit/48kHz]
+Lineage:  Tascam DR-07 MKII > USB 2.0 > Amadeus Pro v2.0.4 > .flac [level 8] 
+Location: balcony ledge, aligned with left stack 
+Mics:     XY, pointed at stage 
+
+Taped & Transferred by James Bonaiuto (cd2go@hotmail.com)
+------------------------------------------------------------------------------
+Total:                                                      [126:35.05]
+------------------------------------------------------------------------------
+01. intro                                                    [02:08]
+02. Scar On The Sky                                          [04:01]
+03. A Satisfied Mind *                                       [05:33]
+04. Ground Zero                                              [04:17]
+05. Can't Change Me                                          [04:12]
+06. Be Yourself                                              [04:20]
+07. Wide Awake                                               [04:31]
+08. Fell On Black Days                                       [04:58]
+09. Call Me A Dog                                            [04:59]  
+10. Hunger Strike                                            [04:50]
+11. Wooden Jesus                                             [03:27]
+12. Man Of Golden Words ^                                    [04:55]
+13. Seasons                                                  [06:30]
+14. Sunshower                                                [06:12]
+15. When I'm Down                                            [06:16]
+16. Mind Riot                                                [05:20]
+17. Burden In My Hand                                        [05:41]
+18. Getaway Car                                              [03:49]
+19. Black Hole Sun                                           [04:59]
+20. Thank You #                                              [03:56]
+21. Like A Stone                                             [03:59]
+22. A Day In The Life $                                      [05:15]
+23. encore                                                   [01:39]
+24. I Am The Highway                                         [04:47]
+25. Long As I Can See The Light %                            [03:23]
+26. Cleaning My Gun                                          [05:05]
+27. Blow Up The Outside World                                [07:18]
+------------------------------------------------------------------------------
+Notes:
+
+* = by Joe "Red" Hayes & Jack Rhodes
+^ = by Mother Love Bone; with Comfortably Numb outro, by Pink Floyd
+# = by Led Zeppelin 
+$ = by The Beatles
+% = by Creedence Clearwater Revival    
+------------------------------------------------------------------------------
+Amadeus Pro Notes:
+
+- Balanced channels
+- Normalized peak level to -0.1 dB
+- Faded beginning/end of show
+------------------------------------------------------------------------------
+xACT v2.13 FLAC Fingerprint:
+
+chriscornell2011-11-18t01.dr07mkII.flac:b24e58734199ebe899e5d75e3ea1d51a
+chriscornell2011-11-18t02.dr07mkII.flac:0a159b325f806142e84bf94662d14247
+chriscornell2011-11-18t03.dr07mkII.flac:dd6d4e1a2dfc1723853b15f02f2ec143
+chriscornell2011-11-18t04.dr07mkII.flac:1e3f3ca8628d26ac6af2e9b895f0a47e
+chriscornell2011-11-18t05.dr07mkII.flac:66be7d8a5ab0df8ae31ce645bc743a89
+chriscornell2011-11-18t06.dr07mkII.flac:ef5e6f5ac2878b817095d0f7ab77202e
+chriscornell2011-11-18t07.dr07mkII.flac:fe1db90e6db9c78507d076436c36479f
+chriscornell2011-11-18t08.dr07mkII.flac:7719bfebf1b98003ad3e979fee7ca343
+chriscornell2011-11-18t09.dr07mkII.flac:d608d3d9ab84709448f538a9c27694d4
+chriscornell2011-11-18t10.dr07mkII.flac:5a7b30a950377d75d151884ce0b6edc9
+chriscornell2011-11-18t11.dr07mkII.flac:f23b11ac5958bb6fce5b3d8458f961be
+chriscornell2011-11-18t12.dr07mkII.flac:27fc30ae5cfd1c585ea915f4947fee20
+chriscornell2011-11-18t13.dr07mkII.flac:76a3b48bae02ccf3e1263e63b35bd0b0
+chriscornell2011-11-18t14.dr07mkII.flac:5b83d986fe96fa65ed51278f35e4e342
+chriscornell2011-11-18t15.dr07mkII.flac:cbd278678616ac3b31c8a491ead24a8e
+chriscornell2011-11-18t16.dr07mkII.flac:29be9483cbd67a2d0c8bebab6a53774b
+chriscornell2011-11-18t17.dr07mkII.flac:29891f6651f21f762b2798c22126da49
+chriscornell2011-11-18t18.dr07mkII.flac:75955cd4c0317bb04a82d68b0323d0d3
+chriscornell2011-11-18t19.dr07mkII.flac:45d606f2f1f1908910657e44f3f51445
+chriscornell2011-11-18t20.dr07mkII.flac:3f8f8452121dad9dea9d008cec717e16
+chriscornell2011-11-18t21.dr07mkII.flac:2d4cc4725fe5bb0cd6a5ee1644d9b854
+chriscornell2011-11-18t22.dr07mkII.flac:c0d7bd2f54b1f00e6106841fffcd5c2d
+chriscornell2011-11-18t23.dr07mkII.flac:150af25fa23d918af3457ba6c311f663
+chriscornell2011-11-18t24.dr07mkII.flac:1e844b97b5fb3600e5ac9fa326bec411
+chriscornell2011-11-18t25.dr07mkII.flac:8db24a23b4508f7d6480734d6ad89c09
+chriscornell2011-11-18t26.dr07mkII.flac:4ac099d7589364d0d8ee7d0b254e2083
+chriscornell2011-11-18t27.dr07mkII.flac:ca4ba9b9bb73e28bc5c7ec6c55fee8ca

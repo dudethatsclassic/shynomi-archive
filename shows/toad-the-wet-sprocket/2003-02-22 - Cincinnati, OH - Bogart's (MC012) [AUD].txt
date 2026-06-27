@@ -1,0 +1,58 @@
+Toad the Wet Sprocket
+Bogarts
+Cincinnati, OH
+February 22, 2003
+
+
+Taper:		N Culbreth
+Rig Info:	Oktava mc012 (cardoid) > Denecke ps-2 > Hosa mit-176 > Sony 
+                TCD-D100@ 48 kHz
+Location:       FOB (30 ft. from stage), DFC
+
+Conversion:	Sarah Baucco <digitaltrader@hotmail.com>
+		Tascam DA-20 > Audiowerk2 > Cool Edit Pro > CDWAV > mkw Audio                        Compression Tool
+
+
+                          ********************
+                          PRESERVE THE QUALITY
+                          DO NOT ENCODE TO MP3
+                          ********************
+
+Track 	|		Name			|	Time (m:s)
+------------------------------------------------------------------
+Disc 1
+d1t01		Whatever I Fear		                03:37
+d1t02		Something's Always Wrong		04:24
+d1t03		Damn Would Break		        04:17
+d1t04		Fly From Heaven 			04:50
+d1t05           Crowing                                 04:27
+d1t06		Torn				        03:33
+d1t07		Jam		                        03:32
+d1t08		All I want			        03:41
+d1t09		Brother		                        04:18
+d1t10           Come Back Down ->                       03:15
+d1t11           The Nightingale Song@                   03:04
+
+Disc 2
+d2t01		Lay Down Your Arms $		        03:17
+d2t02           See You Again %                         04:17
+d2t03           Windmills                               05:17
+d2t04           Stupid                                  03:54
+d2t05           Throw It All Away                       02:52
+d2t06           Fall Down                               05:37
+
+                -1st Encore-
+d2t78	        Amnesia                                 04:53
+d2t08           Crazy Life	                        04:43
+d2t09           Walk On The Ocean                       04:29
+
+                -2nd Encore-
+d2t10          All Things In Time                       04:23
+
+NOTES:
+----------
+@ = "Teague" on drums
+$ = Glen Solo
+% = Todd Nickels and Johnny Hawthorne Only
+
+Compiled By Sarah Baucco on March 2, 2003

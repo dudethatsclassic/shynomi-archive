@@ -1,0 +1,42 @@
+COCTEAU TWINS - 1983-11-05 - Apeldoorn Gigant, The Netherlands - AUD, 1st gen
+
+The Cocteau Twins
+De Gigant, 
+Apeldoorn,
+The Netherlands
+5th November 1983
+Audience recording - 1st generation
+
+This is a fairly good audience recording, and pretty clear sounding, although a tad bright maybe - this may be partly due to the Dolby B noise reduction on the original TDK-SA cassette tape, which was played back with NR off when originally digitising to CD-R.
+
+Note that when originally transferred to CD-R in the late 1990's, it was not realised that there were SBE problems with the sub-standard Adaptec Easy CD Creator software application used to do it; these problems have now been fixed using the "Tools->Fix SBEs" option in Trader's Little Helper (TLH).
+
+
+Known lineage :- 
+
+TDK-SA90 (type II - pseudo-chrome) cassette tape 1st generation audience copy (traded for in the mid 1980's) -> Aiwa ADF770 Cassette Deck (play) -> Soundblaster SB16 sound card (record via line input) -> CoolEdit Pro 2.1 -> WAV -> CoolEdit Pro (track splitting) -> Adaptec Easy CD Creator version 3.5 -> CD-R 
+
+Conversion to FLAC :- 
+
+Archived CD-R -> EAC -> WAV's -> TLH -> Fix SBE's -> WAV's -> TLH -> FLAC 8 & .ffp 
+
+
+Setlist :- 
+
+01 - When Mama Was Moth
+02 - Tinderbox (Of A Heart)
+03 - Glass Candle Grenades
+04 - In Our Angelhood
+05 - From The Flagstones
+06 - My Love Paramour
+07 - Sugar Hiccup
+08 - Hitherto
+09 - Musette And Drums
+10 - Song To The Siren
+
+Length = 42 minutes approx.
+
+
+
+
+  

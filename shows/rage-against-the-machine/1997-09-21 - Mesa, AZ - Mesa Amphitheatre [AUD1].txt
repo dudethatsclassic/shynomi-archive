@@ -1,0 +1,40 @@
+
+Rage Against the Machine
+Mesa Amphitheater: Mesa, AZ
+September 21, 1997
+
+Source: CSB > Sony TCD-D8
+Location: FOB ~5' left stack
+Lineage: DAT Master > digi EQ > DAT2
+Transfer: Tascam DA-20 > M-Audio Fast Track Pro > Audacity > CDWave > TLH
+
+Setlist:
+
+01 Intro (Internationale)
+02 Bulls on Parade
+03 Know Your Enemy (w/ Maynard James Keenan)
+04 Vietnow
+05 The Ghost Of Tom Joad
+06 Bombtrack
+07 Down Rodeo
+08 Tire Me
+09 Darkness Of Greed
+10 Fistful Of Steel
+11 Revolver
+12 Wind Below (alternate jam)
+13 Bullet In The Head
+14 Freedom > Township Rebellion
+15 -Encore Break-
+16 People of the Sun
+17 Roll Right (alternate jam)
+18 Killing in the Name
+19 -Outro-
+
+Notes: Last night of the 1997 summer tour. Foo Fighters opened up. Taper digitally EQ'd this tape prior to circulating it. My understanding was that the digital EQ was done at 44kHz, and all copies I have seen circulating are labeled as such, but this clone came to me at 48kHz. Hopefully the lineage remained in the digital realm throughout the process. Raw transfer with no fades or EQ by myself. Thanks to RL and BLG for allowing me to transfer the DAT.
+
+Archive: DAT clone was transferred @ 48kHz and FLAC'd with cue sheet. 
+
+Transferred by tapeworm(48) 
+Txt file compiled on 11/13/2012
+
+*** DO NOT DISTRIBUTE IN LOSSY FORMATS. DO NOT SELL THIS RECORDING, TRADE IT FREELY *** 

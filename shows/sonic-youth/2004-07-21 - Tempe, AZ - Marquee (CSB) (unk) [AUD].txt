@@ -1,0 +1,28 @@
+Sonic Youth - 2004 07 21 The Marquee, Phoenix, AZ
+
+Show note:
+The sound had hard limiting. I raised bass and treble to loosen up the limiting.  It still has a little crackling, especially on the applause, but came out pretty nicely.  The intro of Drunken Butterfly was cut across CDRs, might have been cut on change of MDs.
+
+1 intro
+2 I Love You Golden Blue
+3 Rain On Tin
+4 Pattern Recognition
+5 New Hampshire
+6 Bull In The Heather
+7 Karenology
+8 Unmade Bed
+9 Schizophrenia 
+10 Mariah Carey
+11 Paper Cup Exit
+12 Dude Ranch Nurse
+13 Drunken Butterfly
+ encore
+14 Stones
+15 PCH
+ encore 2
+16 Teenage Riot > Teenage Drone ...
+
+Opener:
+XBXRX
+
+Lineage: Core sound CSB > Sony MZ-R3 Audience Master > CDR > EAC (WAV) > SOundForge (merge, bass & treble boost, normilzation, deharsh filter used) > CDWAVE (split) > FLAC

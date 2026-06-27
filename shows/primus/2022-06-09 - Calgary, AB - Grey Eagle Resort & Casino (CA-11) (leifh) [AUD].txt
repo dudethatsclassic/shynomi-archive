@@ -1,0 +1,64 @@
+Primus - A Tribute To Kings 2nd Leg
+Thursday June 9th, 2022
+Grey Eagle Event Centre / Grey Eagle Resort & Casino
+3777 Grey Eagle Drive
+Calgary, Alberta, Canada
+
+Taper:  LeifH [2022#57b]
+Source 2:  CA-11 > Bat2B > M10
+Transfer:  PC via USB > RX9 > Wavepad > flac (8) via TLH
+
+Setlist:  02:02:39
+00 intro
+01 Those Damned Blue-Collar Tweekers > 
+02 Lacquer Head
+03 The Antipop
+04 American Life
+05 The Seven
+06 Conspiranoia
+07 Welcome To This World >
+08 My Name Is Mud >
+09 The Ol' Diamondback Sturgeon
+10 Jerry Was A Racecar Driver
+-intermission-
+11 A Farewell To Kings
+12 Xanadu
+13 Closer To The Heart
+14 Cinderella Man
+15 Madrigal
+16 Cygnus X-1
+17 Follow The Fool
+18 Harold Of The Rocks
+
+Sec. 5 Row B Seat 45 (row 2 left stacks)
+
+My 41st Primus show and second time seeing them in Calgary.  
+
+I was checking out Ticketmaster about 30 minutes after doors opened and there were still tons of seats available via the original broker (not secondary resale).  I was debating moving to a different seat following the opening set by Black Mountain.  Just as Primus started - boom - the venue was full.  What the hell happened?!!?  I don't know but I'm glad it was a full house.
+
+During the first couple songs, security was doing laps - no photos or video, no drinks on the stage, etc.  It didn't take long for the audience to rush the front and the rules were out the window.  My row 2 seat became more like row 4.  
+
+The band was ON this night, especially after witnessing the lackluster gigs in Regina and Saskatoon on the previous stops of the tour.  This was the first time they played The Ol' Diamondback Sturgeon since 2015-12-31 and before that it hadn't been played since 2004.  
+
+The very end of Harold Of The Rocks is finished in a hurry, probably after realizing they were rapidly approaching the 23:00 curfew.  
+
+fingerprints:
+00 - intro.flac:a64fb2ecfc20c5331bb356b93f596713
+01 - Those Damned Blue Collar Tweekers.flac:f4a1c2be73f79a220a33d62b757d49bf
+02 - Lacquer Head.flac:af304b8cb774a111635c7d1a64d8e80d
+03 - The Antipop.flac:7ee57a2dcf554dc1f1a31d83fc3d2bcc
+04 - American Life.flac:988501744e4c23b88a403357f4ef5a6f
+05 - The Seven.flac:b5a29d895b6790362329d12db684f140
+06 - Conspiranoia.flac:99ef5466abb4f32de50a37aa63c64a52
+07 - Welcome to This World.flac:b13e980adb1738de85862376a3108cb6
+08 - My Name is Mud.flac:4451b6ba77962e176c26d516c443b57e
+09 - The Ol' Diamondback Sturgeon.flac:eef871c78758ad65e48d2c49d7977524
+10 - Jerry Was a Race Car Driver.flac:b0a3a71e159cc1c86c6bf533604bfe7f
+11 - A Farewell To Kings.flac:fc351fcbe8ba5be876852427c29327ab
+12 - Xanadu.flac:17c35238bfda6e1ef4be599b8d899b05
+13 - Closer to the Heart.flac:18084ebc7bfbac0961cd956d3fdb6f14
+14 - Cinderella Man.flac:919af8e2ba2b65e86b805bc2cf97e37d
+15 - Madrigal.flac:a39649442013b9065caa3e3a8f781c17
+16 - Cygnus X-1.flac:13f344961fc091a28220e430b09ef216
+17 - Follow the Fool.flac:cde4071c4609e2f7c9684c4c5f2c4de5
+18 - Harold of the Rocks.flac:c7555ab04b091894006421af3966e93e

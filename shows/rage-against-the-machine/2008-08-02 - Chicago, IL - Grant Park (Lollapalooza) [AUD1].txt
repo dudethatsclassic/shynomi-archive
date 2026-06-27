@@ -1,0 +1,45 @@
+Zepdog5 Presents:
+
+Rage Against The Machine
+
+Date: 08-02-2008 
+
+Lollapalooza Music Festival
+AT&T Stage
+Grant Park, Chicago IL 
+
+Taper: Zepdog5 
+
+Source: SP-CMC-8 cardioid mics > spsb-10 battery box (w/bass roll-off @ 16Hz, mics attached to front of shoulder straps of backpack) > Edirol r-09 (line-in, 44.1 wav / 16 bit, 4gb san disk sdhc card) 
+
+Transfer:  Edirol r-09 > 2.0 usb cable > my hard drive > cdwave audio editor v1.93.3 > Audacity 1.2.4 (adjust volume levels, add fade ins/outs) > Flac frontend 1.7.1, level 6, verify, asb. 
+
+Notes: 
+
+Saw these guys last year at Coachella and was blown away, this year's episode was just as powerful but with a hell of alot more people.  Sure, at the start the HGH-laced neanderthals down in front couldn't stop themselves from pushing anything and everyone, prompting Zack to cut "People Of The Sun" short, then asking for people to back up a few feet.  This did stop the initial continuity and momentum of the performance, but the band and crowd weren't going to let it get in the way.  There was just an ocean of people, literally, you couldn't see the back of it.  There have been many comments about the sound quality of the concert itself, and although imo the vocals could have sounded sharper, this recording will give one an excellent idea of what was happening on the ground, recorded about 30 feet behind the soundboard and just to the right.  The sound quality seems to improve a bit as the show goes on.  One can remove the tracks asking for peace, I included them for completists.  As with all Rage shows, there is a lot of contact with other people, and there are moments where the mics are bumped, pushed, etc., but nothing significant.  There is really nothing quite like it when Zack intro's the band from L.A., and then they just explode into the opening bars of "Testify," whereby all first time RATM concertgoers begin to scream for mommy.  The air raid siren before the start of the show is a great touch.  Standout jams for me were Bulls On Parade, Bullet In The Head, Guerilla Radio, and a stirring conclusion with Killing In The Name.  Crowd participation is awesome at many points of this concert.  I'd like to dedicate this show to Mike (aka Tito), Landon, Brian, and Ashley, four people who I met prior to Rage whose hospitality and generosity will not be forgotten.  The three dudes drove 25 hours from Calgary to get to the festival, while Ashley is a blue eyed blond from Georgia who lit it up.  And although DJ Froyd missed the fest as a result of prior commitments, it was clear his heart was in Grant Park this past weekend.  Comments are welcome, turn the shit up loud.  Enjoy.
+
+
+Zepdog5      
+
+
+Setlist:
+=================
+01 Testify
+02 Bulls On Parade
+03 People Of The Sun (cut short due to neanderthals pushing)
+04 Zack's Plea
+05 Bombtrack
+06 Know Your Enemy
+07 Zack & Security Plea
+08 Bullet In The Head
+09 Born Of A Broken Man
+10 Guerilla Radio
+11 Ashes In The Fall
+12 Calm Like A Bomb
+13 Sleep Now In The Fire
+14 Wake Up
+15 Crowd
+16 Freedom
+17 Killing In The Name
+
+Total:  92:15

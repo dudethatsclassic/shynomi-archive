@@ -1,0 +1,77 @@
+Tom Petty & The Heartbreakers
+Prudential Center
+Newark, NJ
+June 16, 2017
+
+** 16 BIT **
+
+Source:  AT943 > SP-SPSB-10 > Sony PCM-M10 @ 24 bit/48 kHz
+Mastering:  .WAV > iZotope RX9 Advanced v9.0.0.1130 (De-click) > Sound Forge Pro 14.0 Build 140 [normalize, & fades, Boz Digital Labs T-Bone plug-in (slant EQ)] > CDWav (tracking) > 
+iZotope MBIT+ (dithered and downsampled to 16 bit/44.1 kHz) > Trader's Little Helper (level 5) > FLAC > TagScanner 6.0.35 (tagging)
+Recorded by:  Joe Burns
+Mastered by:  Dennis Orr
+
+Setlist: (1:59:14)
+01 Crowd/Intro
+02 Rockin' Around (With You)
+03 Mary Jane's Last Dance
+04 Chat
+05 You Don't Know How It Feels
+06 Forgotten Man
+07 Chat
+08 You Got Lucky
+09 I Won't Back Down
+10 Free Fallin'
+11 Chat & Tuning
+12 Walls
+13 Don't Come Around Here No More
+14 Band Intros & Chat
+15 It's Good to Be King
+16 Crawling Back to You
+17 Wildflowers
+18 Learning to Fly
+19 Yer So Bad
+20 I Should Have Known It
+21 Refugee
+22 Runnin' Down A Dream
+23 Encore Break
+- Encore - 
+24 You Wreck Me
+25 Chat
+26 American Girl
+
+Tom Petty - lead vocals & guitars
+Mike Campbell - guitars
+Benmont Tench - keyboards & backing vocals
+Ron Blair - bass & backing vocals
+Scott Thurston - harp, keyboards, guitar, & backing vocals
+Steve Ferrone - drums
+Hattie Webb - backing vocals
+Charley Webb - backing vocals
+
+TomPetty2017-06-16t01.flac:c27d4d6ef0e5398a90c93b4e6c64b2b2
+TomPetty2017-06-16t02.flac:5d75fb162d3b65c5b7138bb04e0025da
+TomPetty2017-06-16t03.flac:4f83b3e0eb25884c24da9eadbd871535
+TomPetty2017-06-16t04.flac:7f2ba9b247389115d353088b4e743c61
+TomPetty2017-06-16t05.flac:f4beb1bcf0339cee70b9db9fcfe2f26f
+TomPetty2017-06-16t06.flac:5e649a01369881d22da1d93ab5746fd4
+TomPetty2017-06-16t07.flac:8935bb8fd97906915e3b05843d5f2057
+TomPetty2017-06-16t08.flac:a6f6bb5fbbf100a5e0494e07de9ef984
+TomPetty2017-06-16t09.flac:4b77e48c0de9cda7d4021aeddc3b9f7f
+TomPetty2017-06-16t10.flac:9090686531fcb0c46aede1209b1b8698
+TomPetty2017-06-16t11.flac:74d965a202de5326c39f52b6b899957c
+TomPetty2017-06-16t12.flac:0bb508c5ff646606bb4f3f0faa7de4eb
+TomPetty2017-06-16t13.flac:bf4ec2050a55dff21cbf6433f33a9306
+TomPetty2017-06-16t14.flac:8541ca243c19e0299ae0d2d759012cb0
+TomPetty2017-06-16t15.flac:4f7e23a223f22e55931cbc0080e08aac
+TomPetty2017-06-16t16.flac:124d38f6b9f41eb45a6e2a37a269a063
+TomPetty2017-06-16t17.flac:e5f92a41bc6043b5f5de76620421c99e
+TomPetty2017-06-16t18.flac:e5e42731b47137a5f204eafd10edb346
+TomPetty2017-06-16t19.flac:e5e24aa8d59dac2ee21a13e028b2be3a
+TomPetty2017-06-16t20.flac:62bb50f1fe64e5a086ce4e3b48862682
+TomPetty2017-06-16t21.flac:c57d1d1805801c345feabd3e88f6f097
+TomPetty2017-06-16t22.flac:f0eee781d86cfd9ee893710209561a23
+TomPetty2017-06-16t23.flac:b99f17137ce850f2cfb9223d9eb2c19f
+TomPetty2017-06-16t24.flac:3de9cfe0f2a1b41c37fd6079579cae2c
+TomPetty2017-06-16t25.flac:a272faf7de74c804d99e69e56089e00e
+TomPetty2017-06-16t26.flac:39a21e1193d4706f0afb177e2e41010f

@@ -30,7 +30,8 @@ const ARTIST_DATA = {
       "venue": "Jericho Tavern",
       "version": "AUD",
       "format": "FLAC",
-      "notes": "Unknown"
+      "notes": "Unknown",
+      "textFile": "1989-01-27 - Oxford, UK - Jericho Tavern (unk) [AUD].txt"
     },
     {
       "year": 1989,
@@ -43,7 +44,8 @@ const ARTIST_DATA = {
       "venue": "Oxford Polytechnic - CASS",
       "version": "AUD",
       "format": "FLAC",
-      "notes": "1 \u00b7 guy transfer"
+      "notes": "1 \u00b7 guy transfer",
+      "textFile": "1989-05-06 - Oxford, England - Oxford Polytechnic - CASS(1) (guy transfer) [AUD].txt"
     },
     {
       "year": 1989,
@@ -56,7 +58,8 @@ const ARTIST_DATA = {
       "venue": "Co-op Hall - CASS",
       "version": "AUD",
       "format": "FLAC",
-      "notes": "1 \u00b7 guy transfer"
+      "notes": "1 \u00b7 guy transfer",
+      "textFile": "1989-07-10 - Oxford, UK - Co-op Hall - CASS(1) (guy transfer) [AUD].txt"
     },
     {
       "year": 1990,
@@ -69,7 +72,8 @@ const ARTIST_DATA = {
       "venue": "Astoria",
       "version": "AUD",
       "format": "FLAC",
-      "notes": "Sony TCS430 with clip on mic \u00b7 Unknown"
+      "notes": "Sony TCS430 with clip on mic \u00b7 Unknown",
+      "textFile": "1990-01-14 - London, UK - Astoria (Sony TCS430 with clip on mic) (unk) [AUD].txt"
     },
     {
       "year": 1990,
@@ -82,7 +86,8 @@ const ARTIST_DATA = {
       "venue": "Wilde Club - Art Centre - ANA",
       "version": "AUD",
       "format": "FLAC",
-      "notes": "M \u00b7 Unknown"
+      "notes": "M \u00b7 Unknown",
+      "textFile": "1990-02-05 - Norwich, England - Wilde Club - Art Centre - ANA(M) (unk) [AUD].txt"
     },
     {
       "year": 1990,
@@ -95,7 +100,8 @@ const ARTIST_DATA = {
       "venue": "University of London Union (Sony TCS430 with clip) [unk)",
       "version": "AUD",
       "format": "FLAC",
-      "notes": "Sony TCS430 with clip"
+      "notes": "Sony TCS430 with clip",
+      "textFile": "1990-03-08 - London, UK - University of London Union (Sony TCS430 with clip) [unk) [AUD].txt"
     },
     {
       "year": 1990,
@@ -108,7 +114,8 @@ const ARTIST_DATA = {
       "venue": "",
       "version": "AUD",
       "format": "DVD",
-      "notes": ""
+      "notes": "",
+      "textFile": "1990-04-06 - London, UK - ULU [DVD].txt"
     },
     {
       "year": 1990,
@@ -121,7 +128,8 @@ const ARTIST_DATA = {
       "venue": "The Co-op Hall",
       "version": "AUD",
       "format": "FLAC",
-      "notes": "Unknown"
+      "notes": "Unknown",
+      "textFile": "1990-05-19 - Oxford, England - The Co-op Hall (unk) [AUD].txt"
     },
     {
       "year": 1990,
@@ -134,7 +142,8 @@ const ARTIST_DATA = {
       "venue": "Civic Centre - CASS",
       "version": "AUD",
       "format": "FLAC",
-      "notes": "1 \u00b7 guy transfer"
+      "notes": "1 \u00b7 guy transfer",
+      "textFile": "1990-08-23 - Aylesbury, UK - Civic Centre - CASS(1) (guy transfer) [AUD].txt"
     },
     {
       "year": 1990,
@@ -147,7 +156,8 @@ const ARTIST_DATA = {
       "venue": "Brielpoort",
       "version": "AUD",
       "format": "FLAC",
-      "notes": "Sony WM-D6 \u00b7 lvn"
+      "notes": "Sony WM-D6 \u00b7 lvn",
+      "textFile": "1990-11-04 - Deinze, Belgium - Brielpoort - ANA(1) (Sony WM-D6c) (lvn) [AUD].txt"
     },
     {
       "year": 1990,
@@ -160,7 +170,8 @@ const ARTIST_DATA = {
       "venue": "Live In Dolce Vita",
       "version": "FM",
       "format": "FLAC",
-      "notes": ""
+      "notes": "",
+      "textFile": "1990-11-17 - Martigny, Swizerland - Live In Dolce Vita [FM].txt"
     },
     {
       "year": 1990,
@@ -173,7 +184,8 @@ const ARTIST_DATA = {
       "venue": "Espace Ornana",
       "version": "AUD",
       "format": "FLAC",
-      "notes": "Sony TC-WE435 \u00b7 elegymart"
+      "notes": "Sony TC-WE435 \u00b7 elegymart",
+      "textFile": "1990-11-30 - Paris, France - Espace Ornana (Sony TC-WE435) (elegymart) [AUD].txt"
     },
     {
       "year": 1991,
@@ -186,7 +198,8 @@ const ARTIST_DATA = {
       "venue": "Town and Country Club",
       "version": "preFM",
       "format": "FLAC",
-      "notes": ""
+      "notes": "",
+      "textFile": "1991-03-08 - London, England - Town and Country Club [preFM].txt"
     },
     {
       "year": 1992,
@@ -199,7 +212,8 @@ const ARTIST_DATA = {
       "venue": "Cabaret Metro",
       "version": "AUD",
       "format": "FLAC",
-      "notes": "Sony TCS430 \u00b7 Unknown"
+      "notes": "Sony TCS430 \u00b7 Unknown",
+      "textFile": "1992-05-08 - Chicago, IL - Cabaret Metro (Sony TCS430) (unk) [AUD].txt"
     },
     {
       "year": 1992,
@@ -212,7 +226,8 @@ const ARTIST_DATA = {
       "venue": "First Avenue",
       "version": "FM",
       "format": "FLAC",
-      "notes": "KZJK 104.1FM"
+      "notes": "KZJK 104.1FM",
+      "textFile": "1992-05-10 - Minneapolis, MN - First Avenue (KZJK 104.1FM) [FM].txt"
     },
     {
       "year": 1992,
@@ -225,7 +240,8 @@ const ARTIST_DATA = {
       "venue": "Slims Club - CASS",
       "version": "SBD",
       "format": "FLAC",
-      "notes": "M"
+      "notes": "M",
+      "textFile": "1992-05-23 - San Francisco, CA - Slims Club - CASS(M) [SBD].txt"
     },
     {
       "year": 1992,
@@ -238,7 +254,8 @@ const ARTIST_DATA = {
       "venue": "Pumpehuset",
       "version": "AUD",
       "format": "FLAC",
-      "notes": "Sony WM-D3 \u00b7 willer"
+      "notes": "Sony WM-D3 \u00b7 willer",
+      "textFile": "1992-09-19 - Copenhagen, DK - Pumpehuset (Sony WM-D3) (willer) [AUD].txt"
     },
     {
       "year": 1992,
@@ -251,7 +268,8 @@ const ARTIST_DATA = {
       "venue": "Theatre Barbey",
       "version": "AUD",
       "format": "FLAC",
-      "notes": "unk \u00b7 r.courb"
+      "notes": "unk \u00b7 r.courb",
+      "textFile": "1992-10-20 - Bordeaux, France - Theatre Barbey (unk) (r.courb) [AUD].txt"
     },
     {
       "year": 2015,
@@ -264,7 +282,8 @@ const ARTIST_DATA = {
       "venue": "Live In Session KCRW",
       "version": "FM",
       "format": "FLAC",
-      "notes": "nibbler"
+      "notes": "nibbler",
+      "textFile": "2015-04-08 - Santa Monica, CA - Live In Session KCRW (nibbler) [FM].txt"
     },
     {
       "year": 2015,
@@ -277,7 +296,8 @@ const ARTIST_DATA = {
       "venue": "Dolina Trzech Stawuw - Off Festival",
       "version": "FM",
       "format": "FLAC",
-      "notes": ""
+      "notes": "",
+      "textFile": "2015-08-08 - Katowice Poland - Dolina Trzech Stawuw - Off Festival [FM].txt"
     },
     {
       "year": 2017,
@@ -290,7 +310,8 @@ const ARTIST_DATA = {
       "venue": "6 Music Festival, Barrowland Ballroom",
       "version": "Webcast",
       "format": "TS",
-      "notes": "indykid"
+      "notes": "indykid",
+      "textFile": "2017-03-24 - Glasgow, Scotland - 6 Music Festival, Barrowland Ballroom (indykid) [WEB].txt"
     },
     {
       "year": 2017,
@@ -303,7 +324,8 @@ const ARTIST_DATA = {
       "venue": "Northside Festival, A?dalen",
       "version": "Webcast",
       "format": "TS",
-      "notes": "Unknown"
+      "notes": "Unknown",
+      "textFile": "2017-06-10 - Aarhus, Denmark - Northside Festival, A\u030adalen (unk) [WEBCAST].txt"
     },
     {
       "year": 2017,
@@ -316,7 +338,8 @@ const ARTIST_DATA = {
       "venue": "WFUV-FM",
       "version": "FM",
       "format": "FLAC",
-      "notes": ""
+      "notes": "",
+      "textFile": "2017-07-20 - Bronx, NY - WFUV-FM [FM].txt"
     },
     {
       "year": 2017,
@@ -329,7 +352,8 @@ const ARTIST_DATA = {
       "venue": "World Cafe",
       "version": "FM",
       "format": "FLAC",
-      "notes": ""
+      "notes": "",
+      "textFile": "2017-07-21 - Philadelphia, PA - World Cafe [FM].txt"
     },
     {
       "year": 2017,
@@ -342,7 +366,8 @@ const ARTIST_DATA = {
       "venue": "The Fillmore",
       "version": "AUD",
       "format": "FLAC",
-      "notes": "Sony PCM-M10 \u00b7 Unknown"
+      "notes": "Sony PCM-M10 \u00b7 Unknown",
+      "textFile": "2017-09-26 - San Francisco, CA - The Fillmore (Sony PCM-M10) (unk) [AUD].txt"
     },
     {
       "year": 2017,
@@ -355,7 +380,8 @@ const ARTIST_DATA = {
       "venue": "Grande Halle de la Villette - Pitchfork Music Festival Paris",
       "version": "Webcast",
       "format": "TS",
-      "notes": "indykid"
+      "notes": "indykid",
+      "textFile": "2017-11-02 - Paris, France - Grande Halle de la Villette - Pitchfork Music Festival Paris (indykid) [WEBCAST].txt"
     },
     {
       "year": 2017,
@@ -368,7 +394,8 @@ const ARTIST_DATA = {
       "venue": "Festsaal Kreuzberg",
       "version": "AUD",
       "format": "FLAC",
-      "notes": "Tascam DR-40 \u00b7 Unknown"
+      "notes": "Tascam DR-40 \u00b7 Unknown",
+      "textFile": "2017-11-05 - Berlin, Germany - Festsaal Kreuzberg (Tascam DR-40) (unk) [AUD].txt"
     },
     {
       "year": 2017,
@@ -381,7 +408,8 @@ const ARTIST_DATA = {
       "venue": "The Institute",
       "version": "AUD",
       "format": "FLAC",
-      "notes": "DPA 4060s \u00b7 Unknown"
+      "notes": "DPA 4060s \u00b7 Unknown",
+      "textFile": "2017-11-08 - Birmingham, UK - The Institute (DPA 4060s) (unk) [AUD].txt"
     },
     {
       "year": 2017,
@@ -394,7 +422,8 @@ const ARTIST_DATA = {
       "venue": "SWX",
       "version": "MIX",
       "format": "FLAC",
-      "notes": "AT898 + Icom IC-R5"
+      "notes": "AT898 + Icom IC-R5",
+      "textFile": "2017-11-09 - Bristow, UK - SWX (AT898 + Icom IC-R5) [MIX].txt"
     },
     {
       "year": 2018,
@@ -407,7 +436,8 @@ const ARTIST_DATA = {
       "venue": "Royal Leamington - The Assembly",
       "version": "AUD",
       "format": "FLAC",
-      "notes": "DPA 4061s \u00b7 Unknown"
+      "notes": "DPA 4061s \u00b7 Unknown",
+      "textFile": "2018-09-06 - Spa, UK - Royal Leamington - The Assembly (DPA 4061s) (unk) [AUD].txt"
     },
     {
       "year": 2019,
@@ -420,7 +450,8 @@ const ARTIST_DATA = {
       "venue": "Truck Store In-store",
       "version": "AUD",
       "format": "FLAC",
-      "notes": "DPA 4061s \u00b7 Unknown"
+      "notes": "DPA 4061s \u00b7 Unknown",
+      "textFile": "2019-08-21 - Oxford, UK - Truck Store In-store (DPA 4061s) (unk) [AUD].txt"
     },
     {
       "year": 2021,
@@ -433,7 +464,8 @@ const ARTIST_DATA = {
       "venue": "Esquires (Andy Bell Space Station)",
       "version": "AUD",
       "format": "FLAC",
-      "notes": "DPA 4060s \u00b7 Unknown"
+      "notes": "DPA 4060s \u00b7 Unknown",
+      "textFile": "2021-09-01 - Bedford, England - Esquires (Andy Bell Space Station) (DPA 4060s) (unk) [AUD].txt"
     },
     {
       "year": 2022,
@@ -446,7 +478,8 @@ const ARTIST_DATA = {
       "venue": "The Marble Factory",
       "version": "MIX",
       "format": "FLAC",
-      "notes": "AT898 + Icom IC-RX7"
+      "notes": "AT898 + Icom IC-RX7",
+      "textFile": "2022-04-24 - Bristol, UK - The Marble Factory (AT898 + Icom IC-RX7) [MIX].txt"
     },
     {
       "year": 2023,
@@ -459,7 +492,8 @@ const ARTIST_DATA = {
       "venue": "Fillmore",
       "version": "AUD",
       "format": "FLAC 24",
-      "notes": "Schoeps MK4 \u00b7 loughney"
+      "notes": "Schoeps MK4 \u00b7 loughney",
+      "textFile": "2023-01-04 - San Francisco, CA - Fillmore (Schoeps MK4) (loughney) [AUD24].txt"
     }
   ],
   "misc": [

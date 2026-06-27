@@ -1,0 +1,57 @@
+Ramones
+Lantaarn, Rotterdam, Holland
+1977-05-10
+
+Source:
+AUD master
+
+Lineage:
+Sony TC-D5M analog audiocassette recorder >
+Metal Sony tape > Nakamichi Dragon tape deck >
+Audacity > FLAC (24 bit) > WAV (16 bit - remastering) > FLAC
+
+Taper:
+Hans De Vente
+
+01 - Loudmouth
+02 - Beat On The Brat
+03 - Blitzkrieg Bop
+04 - I Remember You
+05 - Glad To See You Go
+06 - Gimme Gimme Shock Treatment
+07 - You're Gonna Kill That Girl
+08 - Carbona Not Glue
+09 - Swallow My Pride
+10 - Commando
+11 - I Wanna Be Your Boyfriend
+12 - Havana Affair
+13 - Listen To My Heart
+14 - California Sun
+15 - Judy Is A Punk
+16 - I Don't Wanna Walk Around With You
+17 - Pinhead
+18 - Now I Wanna Sniff Some Glue
+19 - Today Your Love, Tomorrow The World
+20 - Suzy Is A Headbanger
+21 - Chain Saw
+22 - Let's Dance
+
+Time: 45:47
+
+Notes:
+
+Remastered with the taper's permission.
+The master tape was released as one long FLAC file.
+
+Here is what I did:
+- Volume adjusted (the left channel was much louder than the right one)
+- Bass reduced and mid frequency raised
+- Removed two gaps (tape stop during encore breaks)
+- Split into single tracks
+
+Thanks to Hans for taping and sharing this show!!
+
+=========
+Dr. Demonic
+=========
+July 2014

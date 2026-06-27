@@ -1,0 +1,69 @@
+**Matrixed, Mastered**
+by thir13en Productions
+
+
+Sonic Youth
+2006-07-01
+Roseland Theatre
+Portland, OR
+
+
+Big big thanks to YLTfan for letting me do this. Big thanks to jcrab66 for use of his excellent AUD source.
+
+The board is clean, quite dry and raw with a real nice mix. The AUD was a very nice warm capture of the room, but also some real nice detail in the guitars and vocals came through as well. 
+
+The two sources ran nearly identical over the hour. I had to do a very very slight time-tweak to make them run together from top to bottom. The AUD got a slight EQ to control the sub-lows and enhance the mid-highs with some compression to keep the whole thing in a proper space. The SBD got minor EQ in the mids and highs with a slight hint of de-essing around 9k. The left side was less consistent in level than the right, the guitar parts would jump in and out at times, so I did a bit of compression there to try to control that as well. The master channel was then properly imaged, slightly enhanced with the BBE SM and digitally maximized with the L3.
+
+I know with a lot of source blends the AUD comes out more than I would choose. Here, it's quite there in the mix, trust me, it fills in a lot of space. But it won't be as obvious as other blends I've heard. For something of an example, I'll post some clips of each source, and then the final result. Personally, I love it. 
+
+
+01. Intro
+02. Incinerate
+03. Reena
+04. Tom Violence
+05. What a Waste
+06. Mote
+07. Do You Believe in Rapture?
+08. The Neutral
+09. 100% 
+10. Jams Run Free
+11. Rats
+12. Catholic Block
+13. Pink Steam
+14. Or
+15. -break 1-
+16. Sleepin' Around
+17. Schizophrenia
+18. Turquoise Boy 
+19. -break 2-
+20. Lights Out
+21. Shaking Hell
+
+
+
+
+
+======================
+= PRE-13 SOURCE INFO =
+======================
+
+
+
+SBD SOURCE
+----------
+SBD>JB3>USB>WAV 
+
+By YLTFan
+
+
+
+AUD SOURCE
+----------
+
+Source: Studio Project C4's(Cardioid) > UA5(Digimod) > Monster Coax > Tascam HDP2 > Wav @ 24/48
+
+Conversion: Tascam HDP2 > Firewire > Soundforge ( resample, dither and fades) > 16/44.1 Wav > Goldwave (file merging) >
+            CD Wave > TLH > Flac
+
+Taper: jcrab66(bootlegarchive@yahoo.com)
+       http://bootlegarchive.com/jcrab66

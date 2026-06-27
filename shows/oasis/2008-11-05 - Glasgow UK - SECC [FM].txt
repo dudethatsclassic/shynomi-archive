@@ -1,0 +1,40 @@
+OASIS
+2008 11 05
+SECC, Glasgow, UK
+
+AUDIO #1/1 (63mn)
+—————–
+
+01. Rock & Roll Star
+02. Lyla
+03. The Shock Of The Lightning
+04. Cigarettes & Alcohol
+05. Meaning Of Soul
+06. To Be Where There's Life
+07. Waiting For The Rapture
+08. The Masterplan
+09. Songbird
+10. Morning Glory
+11. Ain't Got Nothin'
+12. The Importance Of Being Idle
+13. I'm Outta Time
+14. Wonderwall
+
+GENERATION
+—————–
+FM[OUIFM] > .WAV[16bits/44kHz] > .FLAC Lvl.8[16bits/44kHz]
+
+SOURCE
+—————–
+Soundboard > Unknown 
+
+TRANSFER
+—————–
+FM(Aiwa XR MN-75) > Edirol r-09hr > SD > USB > track split (Magix audio cleanic 2004) > Db poweramp music converter
+
+NOTES
+—————–
+
+Broadcasted on a french radio
+Taper: Nono
+Please do not encode to a lossy format !!

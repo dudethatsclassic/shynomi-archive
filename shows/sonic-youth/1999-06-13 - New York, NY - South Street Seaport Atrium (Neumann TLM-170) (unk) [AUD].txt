@@ -1,0 +1,33 @@
+SONIC YOUTH
+June 13, 1999
+South Street Seaport Atrium
+NYC NY
+
+*** THIS IS A 16-BIT FILESET INTENDED FOR AUDIO CD ***
+
+SOURCE:  Neumann TLM-170 (cardioid, XY) > sonosax sx-m2 > sony pcm-m1 (16/44.1)
+PROCESSING:  archive python DDS > dat2wav 1.2 > soundforge 8.0 (tracking, fades) > flac 1.2.0a
+
+01.  intro
+02.  Free City Rhymes (instrumental, known as "1")
+03.  Renegade Princess (instrumental, known as "2")
+04.  Having Never Written A Note For Percussion
+05.  Composition
+06.  Expressway To Yr Skull
+07.  pre-encore crowd
+08.  encore intro
+09.  Stil
+
+Notes from the Sonic Youth Concert Chronology: First appearance of Free City Rhymes and Renegade Princess (performed instrumentally and then known simply as 1 and 2). After Thurston introduced "Expressway", the band performed a lengthy improvisation which was apparently listed on the set list as "Composition".
+
+    length     expanded size    cdr  WAVE problems  fmt   ratio  filename
+     1:42.56       18124556 B   ---   --   ---xx   flac  0.3810  sonicyouth1999-06-13_tlm170_t01.flac
+     8:55.32       94449308 B   ---   --   ---xx   flac  0.5265  sonicyouth1999-06-13_tlm170_t02.flac
+     5:07.46       54263036 B   ---   --   ---xx   flac  0.4633  sonicyouth1999-06-13_tlm170_t03.flac
+    10:33.09      111682412 B   ---   --   ---xx   flac  0.4159  sonicyouth1999-06-13_tlm170_t04.flac
+    19:58.42      211426028 B   ---   --   ---xx   flac  0.4910  sonicyouth1999-06-13_tlm170_t05.flac
+     9:33.10      101100764 B   ---   --   ---xx   flac  0.4832  sonicyouth1999-06-13_tlm170_t06.flac
+     2:25.36       25662716 B   ---   --   ---xx   flac  0.4714  sonicyouth1999-06-13_tlm170_t07.flac
+     0:22.36        3965516 B   ---   --   ---xx   flac  0.3371  sonicyouth1999-06-13_tlm170_t08.flac
+     9:47.15      103582124 B   ---   --   ---xx   flac  0.5086  sonicyouth1999-06-13_tlm170_t09.flac
+    68:25.57      724256460 B                            0.4791  (9 files)

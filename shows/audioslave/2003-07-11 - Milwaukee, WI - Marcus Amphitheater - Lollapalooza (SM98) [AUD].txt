@@ -1,0 +1,29 @@
+AUDIOSLAVE
+July 11, 2003
+Marcus Amphitheater
+Milwaukee, WI
+
+Source: Shure SM98 > P-Mod > Sony SBM-1 > Sony TCD-D8
+Location: Section 2 Row CC
+Taper: KO
+Lineage: DAT(M) > DAT(1) > CDR(1) > FLAC
+Transfer: Tascam DA-20mkII > Sony CDR-W33 > EAC
+Edits/EQ: none
+Notes: Lollapalooza
+
+01 - intro
+02 - Gasoline
+03 - Set It Off
+04 - Light My Way
+05 - Like a Stone
+06 - Super Stupid
+07 - Exploder
+08 - Last Remaining Light
+09 - talk
+10 - Peace Love & Understanding
+11 - Seven Nation Army
+12 - Show Me How to Live
+13 - Cochise
+
+
+Compiled May 2020 by CPS

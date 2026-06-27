@@ -1,0 +1,81 @@
+Sonic Youth
+May 29, 1998
+Veterans Wadsworth Theater
+Los Angeles, CA
+
+Contrast clause:
+http://www.dimeadozen.org/torrents-details.php?id=685482
+This version is from a separate DAT master of the same mix and is a straight copy of the DAT with no
+CDR step, DAE, or editing. An archival version of my DAT.
+
+Ramsa mixing console  > Mackie 1402 mixer, live recording mix by Gary Davis > Tascam DA-P1 (Gary Davis) >
+SPDIF coax > Sony TCD-D100 DAT (Jeff Lester) master @ 48 kHz
+
+It's not 100% clear to me how many feeds/channels Gary received from the console to perform his recording
+mix. It seems likely that he got enough individual single channels to cover all instruments, rather than his
+technique called a  "Super Seven Stereo Soundboard"* where he took the FOH mix and added additional
+individual channel feeds (like guitars) via aux sends or inserts. Given the text from Aaron Mullan for the
+bandcamp release of May 28th and the title of Gary's video on youtube for the 30th, it seems pretty likely
+that the mix was of the former flavor (14 channels). Aaron's notes for the bandcamp release of May 28th
+refer to  Gary's mixer as being an Alesis that he borrowed, but my tape label notes written the night of the
+29th clearly say "Mackie 1402" so I have little doubt about that.
+
+Gary also recorded the May 28th and May 30th shows at the Wadsworth. His May 28th recording is available
+to purchase from the Sonic Youth bandcamp store:
+https://sonicyouth.bandcamp.com/album/live-in-los-angeles-1998
+
+Gary has uploaded his May 30th video to youtube, using his SBD mix audio from that night.
+https://www.youtube.com/watch?v=ApByoxu0AxU
+
+Transfer:
+DAT master on Panasonic SV-3800 > SPDIF coax > Marantz PMD580 Solid State Recorder >
+SD Card (via CF Card Adapter)
+
+SD card > Adobe Audition 3.0 (no editing other than chopping lack of signal at beginning and end) > 
+CD WAVE 1.98 (tracking) > Trader's Little Helper 2.7.0 > FLAC
+
+This torrent is incompatible with the CD-Audio standard. The sound is in 16-bit stereo sampled at 48 kHz. 
+
+Transfer by Jeff Lester
+All credit to Gary Davis for coordinating the mixing board feed, creating the live recording mix, and
+running my DAT deck to create this master.
+August 2020
+
+01. Karen Koltrane
+02. Female Mechanic Now on Duty
+03. Sunday
+04. Anagrama
+05. Hits of Sunshine
+06. The Ineffable Me
+07. Hoarfrost
+08. French Tickler
+09. Wildflower Soul
+10. Heather Angel
+11. E: Stil
+12. Shadow of a Doubt
+13. Death Valley '69
+
+
+*Gary Davis was an L.A. taper and writer (he wrote for the L.A. independent papers the Weekly Reader 
+and the L.A. Weekly) who was active on DAT-heads in the 90s. He made a number of recordings of Nels
+Cline and Mike Watt in that time frame. For artists (and live sound engineers) who were amenable, Gary
+would hook up a mixer to the soundboard output like a typical "soundboard" recording, but in addition
+to the FOH mix he would get additional individual channels via either an aux send or the insert jack. This
+would provide guitar and bass that might otherwise be lacking in the FOH mix. He would then mix live
+to 2-track DAT with headphones. He described his technique here:
+https://www.taperssection.com/reference/html/DIY_SuperStereoBoards/
+At some point he upgraded his "Super Stereo Soundboard" moniker to "Super Seven Stereo Soundboard"
+and I don't recall why, though it may have had to do with the number of feeds from the soundboard.
+Sadly the DAT-heads archive has gone away.
+
+This was the only Sonic Youth show I ever attended and recorded, which is fortunate since "A Thousand
+Leaves" is my favorite Sonic Youth album. Gary had posted to DAT-heads looking for a volunteer to help him
+record this show at the Wadsworth. I met Gary at his house in Culver City and we drove over to the venue
+together and were allowed in early for him to set up and grab two front row seats off to the audience right
+side. IIRC, he actually had the 2 seats taped off from being there the night before. The front row seats were
+so that Gary could videotape the show as well. I helped Gary carry in his gear and then camped out out in
+one of the seats since it was a General Admission show. I would have liked to have seen more of the recording
+process in action but only really got to see it after the show when he was tearing down. I got a first generation
+copy VHS of Gary's video though currently no functioning player. I'm not quite willing to loan out the tape at
+this time but I am planning on getting a deck repaired and hope to share the video in the future, or perhaps 
+Gary will. My DAT of opening act Fuck is riddled with diginoise and cannot be played cleanly.

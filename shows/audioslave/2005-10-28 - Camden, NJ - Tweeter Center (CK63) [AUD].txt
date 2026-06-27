@@ -1,0 +1,38 @@
+AUDIOSLAVE
+October 28, 2005
+Tweeter Center
+Camden, NJ
+
+Source: AKG CK63 > JK Labs DVC iii > Sony TCD-D8
+Location: Sec. 100 row Z (one hundred fifty feet from overhead right PA)
+Taper: CPS
+Lineage: DAT(M) > WAV [48] > WAV [44.1] > FLAC
+Transfer: Tascam DA-20mkII > M-Audio Audiophile 2496 > Sound Forge
+Edits/EQ: limiter @ -4dB, +4dB, L3 @ -3dB/-0.2dB
+Notes: two second cut/pause @ 0:02:07
+
+01 - Your Time Has Come
+02 - Set It Off
+03 - Doesn't Remind Me
+04 - Out of Exile
+05 - Be Yourself
+06 - Rusty Cage
+07 - Spoonman
+08 - Light My Way
+09 - Man or Animal
+10 - Like a Stone
+11 - Sound of a Gun
+12 - (Bulls on Parade)
+13 - Sleep Now in the Fire
+14 - Shadow on the Sun
+15 - encore cheers & talk
+16 - Black Hole Sun
+17 - Call Me a Dog 
+18 - The Curse 
+19 - I Am the Highway
+20 - Show Me How to Live
+21 - Killing in the Name Of
+22 - Cochise
+
+
+Compiled October 2019 by CPS

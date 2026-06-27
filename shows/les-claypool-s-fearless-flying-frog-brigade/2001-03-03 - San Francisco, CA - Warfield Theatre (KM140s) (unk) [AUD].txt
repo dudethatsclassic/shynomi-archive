@@ -1,0 +1,70 @@
+Les Claypool’s Fearless Flying Frog Brigade
+Warfield Theatre
+S.F., CA
+2001-03-03
+
+
+AUD:  Neumann KM 140's (next to front of sbd on balcony)>PCM-M1@48khz w/20db>DA40>20 Band eq>CDRW700 > (see additional notes)
+
+Les Claypool - Bass
+Todd Huth - Guitar
+Eenor - Guitar
+ Skerik - Saxaphone
+Jeff Chimenti - Keyboards
+Jay Lane - Drums 
+
+
+Setlist:
+
+Disc 1:
+01 Thela Hun Ginjeet 
+02 Sgt Pepper's Lonely Hearts Club Band > A Little Help from my Friends +
+03 Shattering Song +
+04 Climbin' Up The Ladder %
+05 16 Shells From A Thirty-Ought Six *
+06 Hendershot *
+07 Highball With The Devil
+
+Disc 2:
+01 2000 Light Years From Home
+02 Hair ^
+03 Whamola $, #
+04 Shine On You Crazy Diamond @
+05 Taxman @,~
+06 Tomorrow Never Knows @,~
+
++ Kenny Brooks
+% Brian Kehoe
+* Ralph Barney
+^ Houseman
+$ Buckethead
+# DJ Disk
+@ Tim "Herb" Alexander
+~ Jerry Cantrell
+
+Featuring Les Claypool, Robert Walter, Will Bernard on guitar, Cochemea Gastelum on sax and flute, Mike Clark on drums
+
+-------------
+
+Additional notes:
+
+Great AUD recording.  Fairly heavy on the bass side, but everything else is relatively clear.
+
+> FLAC > WAV > (processing) > FLAC
+
+(Processing) notes:
+
+. foobar2000 was used to convert tracks from SHN.  Bit-compare of tracks was done and validated.
+. Went through each song and removed clicks with Audacity.
+. Removed ~10s of silence in Highball With The Devil.  Song now flows into 2000 Light Years From Home for those folks who are not burning to disc.
+. d1-t2/d1-t3 and d2-t1/d2-t2 were retracked.  Shattering Song was attached (poorly) to A Little Help From My Friends; 2000 Light Years
+ from Home was cut 5 minutes into the song and attached to Hair.  WAVs were joined and split (in my opinion) correctly.
+. SBE issues were fixed.
+. Assigned track names correctly.
+. Tags were adjusted and created accordingly.
+. Recreated an .ffp file for the new .flac files.  No testing for the .doc or .txt files.
+
+TBD:
+
+There is static in d1t07-d2t02.  I tried removing it, but I did a poor job, so I let them be.
+Original .doc file is attached for comparison to your own download.

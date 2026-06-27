@@ -1,0 +1,43 @@
+Toad the Wet Sprocket
+Arvada Center for the Arts and Humanities
+Arvada, CO 
+August 3, 2018
+
+  One set:
+
+01 The Moment
+02 Crowing
+03 All I want
+04 California Wasted 
+05 Architect of the Ruin
+06 Windmills
+07 Fly From Heaven
+08 Dam Would Break
+09 Golden Age
+10 Good Intentions
+11 Don't Fade >
+12 Breathe
+13 Nobody's Gonna Get Hurt
+14 Enough
+15 Come Back Down >
+16 Nightingale Song
+17 Brother
+18 Crazy Life
+19 Fall Down
+
+  Encore:
+
+20 I'll Bet On You
+21 Something's Always Wrong
+22 Walk On the Ocean
+
+Source (AUD): Audix CPS-MICRO-O (A/B spaced 7", @SBD, center, 12' up) > Micro capsule active w/ Naiant PFA > Sound Devices MixPre-6
+Master format: 24 bit, 44.1kHz, stereo (.WAV)
+Digital transfer: SDHC card (USB reader) > PC
+Digital editing: SD Wave Agent Beta > CuBase 5 (pre and post set fades, WAVES Q10 Paragraphic EQ, WAVES L2 Maximizer, UV22HR dither)
+Tracking & processing for CD: CD Wave Editor 1.95.1 > FLAC Frontend 1.7.1/ FLAC 1.1.2
+Distribution format: 44.1 kHz, 16 bit, stereo (.FLAC)
+
+Event notes: The Samples opened for Toad the Wet Sprocket
+
+Recorded, processed and distributed by Chuck Miller (taperchuck@gmail.com)

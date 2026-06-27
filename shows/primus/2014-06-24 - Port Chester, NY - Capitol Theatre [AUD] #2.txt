@@ -1,0 +1,62 @@
+An Evening with Primus
+Tuesday, June 24th, 2014
+Capitol Theatre
+149 Westchester Avenue
+Port Chester, NY, USA
+
+Taper:  LeifH
+Source:  CA-11 (cardioid) > Sony PCM M10 @ 24/48 > Duracell 8GB microSD card
+Transfer:  Memory card > PC via USB > Wavepad Master's Edition (edits, amplify, tracking, downsample to 16/44.1) > flac (8) via Frontend
+
+Set  I:  1:06:57
+00 intro music
+01 Those Damned Blue-Collar Tweekers
+02 Last Salmon Man
+03 Southbound Pachyderm
+04 Over the Falls
+05 Lee Van Cleef
+06 The Heckler
+07 Wynona's Big Brown Beaver
+08 Frizzle Fry
+09 Groundhog's Day
+
+Set II:  1:22:05
+10 Spegetti Western
+11 Duchess and the Proverbial Mindspread
+12 Moron TV
+13 American Life
+14 Jilly's On Smack
+15 Mr. Krinkle
+16 My Name is Mud
+17 Mrs. Blaileen
+18 Jerry Was a Race Car Driver
+19 Harold of the Rocks
+
+20 Too Many Puppies > Hello Skinny
+
+11th Primus show for me.  Really liked this venue, and Port Chester was a breath of fresh air after being in New York for a few days.  They projected extra visuals on the walls, as well as this night's poster before the show.  I was directly in front of the soundboard, leaning on the fence, dead centre.  Audio turned out pretty good.  Got both setlists.  I took video of the whole show, some of it is watchable, but the second set might be kind of frustrating.  After the intermission, a taller guy was standing/dancing in front of me.  Okay, fine.  But he kept getting closer, and closer, to the point where he was pretty much grinding me and I was pressed against the rail with nowhere to go.  Then he gets pissed off because he was pushing his back into my elbow, (I'm holding a camera eye level) making the video un-steady at times.  Oh well.  There was a good amount of crowd surfing at this show, which was cool to see.  
+
+Les referred to himself as, "Cocksucker Joe," during Over the Falls and blasted someone holding up a George Lopez sign they tore off the wall on the way into the theatre.  Someone yelled out Pork Soda, and he sang the line, "Grab yourself a can of Pork Soda, you'll be feelin' just fine," after Mr. Krinkle.  If only.  Les also teased PF Money/Sandwiches after Jerry.  Oh and the Mexican place just up the street is great.
+
+fingerprints:
+00 - intro music.flac:7191654b19a19e22e4eb608ce6946181
+01 - Those Damned Blue-Collar Tweekers.flac:c3faf6c988999fb3bca69a4e0cc1b66c
+02 - Last Salmon Man.flac:5df8d6d62e5d7bee8863b73ce3d922da
+03 - Southbound Pachyderm.flac:79ab71a7b7c33839579a3d0cb93ffde8
+04 - Over the Falls.flac:025b807706afcd2bb776e35c1426df3b
+05 - Lee Van Cleef.flac:a9ab5955e475edb4d08b78d4c8b3c095
+06 - The Heckler.flac:d37016bb4633c384f05b995525889a4b
+07 - Wynona's Big Brown Beaver.flac:a8893020d4f28fa21a4051b3a188ba6c
+08 - Frizzle Fry.flac:5885ac33f5a10c08ec2fc2387078362f
+09 - Groundhog's Day.flac:4a2a3c00e4395797d947077c1ab0254d
+10 - Spegetti Western.flac:783a0af2f7ea8b659b5d389e2d1aab37
+11 - Duchess and the Proverbial Mindspread.flac:79c1654caf9187a2e2d8dfe5ea4a8e77
+12 - Moron TV.flac:02f007cba49350dff2a9430b581f1f9a
+13 - American Life.flac:76d21c9bbcb4444037f28479afe17e98
+14 - Jilly's On Smack.flac:fc47e761703720fb54cc17acdef02f72
+15 - Mr. Krinkle.flac:f4e0dd1bfe4ac27fec1d9e4878464b0b
+16 - My Name is Mud.flac:00ea0da1c461a6fea0da79bc18be34af
+17 - Mrs. Blaileen.flac:d67fb9b37a3f30452faa181b29f23ae4
+18 - Jerry Was a Race Car Driver.flac:8965b20406890b631499bcd2f2da9dd5
+19 - Harold of the Rocks.flac:682618ae383172c8d379e0272474026b
+20 - Too Many Puppies.flac:399ccdcd758eb0e5b110e528f1e0e79f

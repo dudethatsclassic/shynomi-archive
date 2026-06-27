@@ -1,0 +1,43 @@
+Oasis
+The Millenium Stadium; Cardiff; Wales
+12th June 2009
+
+Source 1 : Icom IC-R5 > Edirol R-09HR
+Taper : Petrock2000
+
+Source 2 : Danish Pros 4061's > Edirol R09-HR > SD CARD > Sound Forge 8.0 > WAV > FLAC > Trader's Little Helper
+Taper : Tommybagnall 
+
+
+        Fuckin' In The Bushes
+        Rock 'n' Roll Star
+        Lyla
+        The Shock of the Lightning
+        Roll With It
+        Cigarettes & Alcohol
+        To Be Where There's Life
+        Waiting for the Rapture
+        The Masterplan
+        Songbird
+        Slide Away
+        Morning Glory
+        My Big Mouth
+        The Importance of Being Idle
+        Half the World Away
+        I'm Outta Time
+        Wonderwall
+        Live Forever
+        Supersonic
+        Don't Look Back in Anger (Acoustic)
+        Falling Down
+        Champagne Supernova
+        I Am the Walrus (The Beatles cover)
+
+
+
+Notes:
+I looked for the original backup file for Source 1 and couldn't find it. Only the mastered version which had a little too much limiting for my taste these days.  I used waves unlimiter to reduce the effect.
+
+Source 2 had some issues.  Sounds like it was recorded with AGC on meaning every kick drum took the gain of the recording down.  I corrected it with waves uncompressor and Izotope multi band compressor.  A loose cable meant there were crackles and gaps, mainly in the left channel which had been patched with the right at times periodically.  I compensated by only using the right channel and a comb filter to recreate the stereo effect of two mics.
+
+Various multi band, eq and harmonic excitation used to balance the spectrum.  Time aligned in Audition CS6.  There is another matrix of this circulating, as are the independent sources.  This is an alternate version.

@@ -1,0 +1,41 @@
+Soundgarden 
+Jan 27, 1997
+Royal Agricultural Showgrounds
+Sydney, Australia
+"Big Day Out" Festival
+
+?>trade cdr>wav(EAC)>flac(8)
+Time: 71:19
+note: sound low and bassy
+
+01 Spoonman
+02 Searching With My Good Eye Closed
+03 Let Me Drown
+04 Pretty Noose
+05 My Wave
+06 Ty Cobb
+07 improvisation
+08 Black Hole Sun
+09 Outshined 
+10 Rusty Cage
+11 Blow Up The Outside World
+12 Search And Destroy
+13 Slaves And Bulldozers
+14 Jesus Christ Pose
+15 outro
+
+(01)Track01.flac:35e06ed70ae44a374063ec13877696e2
+(02)Track02.flac:fec373068408ab718ba38879bf6f9c8a
+(03)Track03.flac:9dafe9030d8d544f196e349d135aabb2
+(04)Track04.flac:b3204fd7ce1a30c99b65704bed1c8ccf
+(05)Track05.flac:2bd03e9269b7af2063756fbc9b900b7b
+(06)Track06.flac:004d36323e5c058a5a397f45e01f27da
+(07)Track07.flac:f79b15a8003beb044ef8dc469b2a9575
+(08)Track08.flac:9a37e76084e07c7d06f8b769fbdfe9ae
+(09)Track09.flac:c62c8b70580dce0604a21c8fa6ef0c7b
+(10)Track10.flac:d63e3b8c49ed06943d51c8183ff1c9ce
+(11)Track11.flac:a50dd09a5bfc31caba679fa5fa2b98df
+(12)Track12.flac:d8ff49aca8b95db293c4038b31749ff3
+(13)Track13.flac:9f45a40ce48e10a04b7bbb2257d0ecba
+(14)Track14.flac:0818e2b9a6788feba302c571543683f9
+(15)Track15.flac:fb52f8de093e79cb956d4e8d308ccc71

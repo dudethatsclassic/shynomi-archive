@@ -1,0 +1,51 @@
+Guided by Voices - 1995 04 06 Lounge Ax, Chicago, IL
+
+Show note:
+Tape flip after Postal Blowfish. GBDB.com listed track 37 as My Valuable Hunting Knife.
+
+Transfer note:
+Removed tape hiss. Side B was recorded quite a bit lower than Side A, so normalized the volume. Smoothed the tape flip and fixed the tape cuts at encore 2.
+
+1.	Intro
+2.	Deathtrot And Warlock Riding A Rooster	
+3.	Quality Of Armor	
+4.	Pimple Zoo	
+5.	Evil Speakers	
+6.	Game Of Pricks	
+7.	King And Caroline	
+8.	Motor Away	
+9.	Don't Stop Now	
+10.	Tractor Rape Chain	
+11.	Why Did You Land?	
+12.	Blimps Go 90	
+13.	The Goldheart Mountaintop Queen Directory	
+14.	Shocker In Gloomtown	
+15.	My Son Cool	
+16.	Key Losers	
+17.	Echos Myron	
+18.	A Salty Salute	
+19.	Striped White Jets	
+20.	Redmen And Their Wives	
+21.	Postal Blowfish	
+22.	Sheetkickers	
+23.	Johnny Appleseed	
+24.	I Am A Scientist	
+25.	Gold Star For Robot Boy	
+26.	Deaf Ears	
+27.	Hot Freaks	
+28.	Non-Absorbing	
+29.	My Impression Now	
+30.	Big Boring Wedding	
+ encore
+31.	Buzzards And Dreadful Crows	
+32.	Smothered In Hugs	
+33.	Break Even	
+34.	Weed King	
+35.	Lethargy	
+36.	Matter Eater Lad
+ encore 2
+37.	Marchers in Orange
+38.	Unleashed! The Large-Hearted Boy	
+39.	Exit Flagger	
+
+Lineage: Audience Master > unknown gen tape > Tascam 202MKVII > USB > CDWAV > Audacity for fades, normalization, noise reduction > CDWAVE (SPLITS) > FLAC [an o'lachtna production]

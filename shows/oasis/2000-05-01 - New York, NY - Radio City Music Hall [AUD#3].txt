@@ -1,0 +1,28 @@
+auCDtect: CD records authenticity detector, version 0.8.2
+Copyright (c) 2004 Oleg Berngardt. All rights reserved.
+Copyright (c) 2004 Alexander Djourik. All rights reserved.
+
+Detect mode (0..40 with 0 = most accurate):  8 (default)
+
+
+01 - Fuckin' in the bushes.wav:  track looks like CDDA with probability 100%.
+02 - Go let it out.wav:  track looks like CDDA with probability 100%.
+03 - Who feels love.wav:  track looks like CDDA with probability 99%.
+04 - Supersonic.wav:  track looks like CDDA with probability 100%.
+05 - Shakermaker.wav:  track looks like CDDA with probability 100%.
+06 - Acquiesce.wav:  track looks like CDDA with probability 100%.
+07 - Where did it all go wrong.wav:  track looks like CDDA with probability 99%.
+08 - Gas panic!.wav:  track looks like CDDA with probability 100%.
+09 - Roll with it.wav:  track looks like CDDA with probability 100%.
+10 - Stand by me.wav:  track looks like CDDA with probability 100%.
+11 - Wonderwall.wav:  track looks like CDDA with probability 100%.
+12 - Cigarettes & Alcohol.wav:  track looks like CDDA with probability 100%.
+13 - Don't look back in anger.wav:  track looks like CDDA with probability 100%.
+14 - Live forever.wav:  track looks like CDDA with probability 100%.
+15 - Hey Hey My My.wav:  track looks like CDDA with probability 99%.
+16 - Helter Skelter.wav:  track looks like CDDA with probability 99%.
+17 - Rock 'n' Roll Star.wav:  track looks like CDDA with probability 100%.
+
+No errors occured.
+
+Test for MPEG log saved to file

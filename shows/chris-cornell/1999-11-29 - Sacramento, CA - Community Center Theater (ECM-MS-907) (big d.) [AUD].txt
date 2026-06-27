@@ -1,0 +1,80 @@
+Chris Cornell
+Community Center Theater, Sacramento, CA
+November 29, 1999
+
+Source : Sony ECM MS-907 mic > Sony MZ R-55 Minidisc (in mono)
+
+Transfer : Sony MZ R700 Minidisc > Tascam SD-20M (rack mount) wave recorder (16/44)
+
+Editing : Sound Forge (volume & tracking) > Wave > TLH (sbe aligned) Flac 8
+
+Traders Den - June 11, 2021
+
+Transferred & Tracked by kingrue upload #3168
+============================================
+
+Here is a brand new source for this performance date.
+
+Check out the samples and enjoy the show.
+
+Thanks to Big D. for taping the show.
+
+Band line-up
+Chris Cornell - guitar, vocals (died May 18, 2017) (aged 52)
+Matt Cameron - drums
+Ben Shepherd - bass
+Alain Johannes - guitar
+
+Total Time = 01:27:35
+
+Set list
+01 Sunshower
+02 Can't Change Me
+03 Flutter Girl
+04 Mission
+05 Preaching the End of the World
+06 Seasons
+07 When I'm Down
+08 Pillow of Your Bones
+09 Fell On Black Days
+10 Guitar Noise (Alain Johannes)
+11 Boot Camp
+12 Moonchild
+13 Sweet Euphoria
+14 Like Suicide
+15 Follow My Way
+16 All Night Thing
+17 Steel Rain
+
+
+===========================
+
+
+No errors occured.
+
+
+01 Sunshower.flac:db1dcf1ec85a7ca0bfe127758296a7ff
+02 Can't Change Me.flac:a7b8321e785b2d8c6acefdcffc5f8687
+03 Flutter Girl.flac:9443d324056b4979d1338641b7e8f4cd
+04 Mission.flac:23afd173583afb76d0630850b67d3a64
+05 Preaching the End of the World.flac:423aa8efb9ffdc557663c85e8daa714c
+06 Seasons.flac:76491e59c3c086c951aba68f3474374c
+07 When I'm Down.flac:0f2185e28102d376d9473f103b6a246e
+08 Pillow of Your Bones.flac:678a2aec0229c31733ca826026f6efbc
+09 Fell On Black Days.flac:88cda08bae971d0d6cba4ddffc28bee1
+10 Guitar Noise.flac:6e74ba03555ed9d7d73a58cd77e4eeea
+11 Boot Camp.flac:f5207244b4399e8a30230f8077b7c88a
+12 Moonchild.flac:896c9f82eb5920203d1a98894d402d56
+13 Sweet Euphoria.flac:bcd08c21a03350a3c7b645be36b3f3d0
+14 Like Suicide.flac:e3394091544e85063a6d80d69260d154
+15 Follow My Way.flac:d61f58dba9117d787eefde8dc6c3a720
+16 All Night Thing.flac:cc48cc8e52bb8098e8dfcdcce70a84b8
+17 Steel Rain.flac:99b5b90bcc94c73b58c48647423783f9
+
+Checksum file saved to disk.
+
+No errors occured.
+
+
+
+

@@ -1,0 +1,91 @@
+Primus
+Freeborn Hall, UC Davis: Davis, CA
+October 14, 2003
+
+
+********************
+********************
+
+PRESERVE THE QUALITY
+DO NOT ENCODE TO MP3
+ OR LOSSY FORMATS
+
+********************
+********************
+
+
+Taper: johngromley@yahoo.com
+Source: Rode NT-5's > USBPre 1.5 > ASIO > n-track 3.3 > WAV @ 24bit/44.1kHz
+Location: ~150' from stage @ mixing board
+Editing/Bit Depth Conversion/Tracking: Sound Forge 6.0e
+Conversion: WAV > shntool 1.2.3 > shorten 3.5 > SHN (no DAE)
+
+
+Disc 1:
+Set I:
+01. Too Many Puppies			[04:40.65]
+02. Spegetti Western			[13:57.44]
+03. My Friend Fats			[10:57.30]
+04. Pudding Time			[06:51.21]
+05. Pilcher's Squad			[03:20.04]
+06. Mrs. Blaileen			[04:54.71]
+07. Hamburger Train			[06:02.15]
+
+Set II: 
+08. Seas of Cheese			[03:10.45]
+09. Here Come The Bastards		[04:24.11]
+10. Sgt. Baker				[04:44.16]
+11. American Life			[08:23.56]
+
+Total:					[71:27.03]
+
+
+Disc 2:
+Set II (Continued):
+Jerry Was A Race Car Driver		[05:13.17]
+(Drum & Bass Interlude)			[10:37.36]
+Eleven					[05:06.62]
+Is It Luck?				[04:04.42]
+Grandad's Little Ditty			[00:51.06]
+Tommy The Cat				[05:53.52]
+Sathington Waltz			[04:13.44]
+Those Damned Blue Collar Tweekers	[08:41.53]
+Fish On					[07:46.52]
+Los Bastardos				[08:05.08]
+E: (Weak Effort By The Crowd)		[04:07.67]
+E: Mr. Know It All			[06:00.15]
+
+Total:					[70:42.04]
+
+
+
+Notes:
+There was no opening act
+
+Intermission was a 50's vintage movie about the evils of Porn
+
+Primus info: http://www.primussucks.com
+Get an official copy of this show: http://www.primuslive.com
+
+Support live music and live musicians
+Never pay for "bootlegs"
+
+############
+NOT FOR SALE
+############
+
+SHN's made from original recording sources
+
+This source was only edited for length and bit-depth reduced to 16bit
+Levels are a little bit high in a few places...
+What can I say?...the pit was calling.
+
+
+There are several other recordings of this show, please note source info when trading
+
+If you have any setlist corrections let me know
+
+Updated version of this setlist is available here:
+http://www.geocities.com/johngromley/setlists/primus2003-10-14.nt5.txt
+
+If you would like a copy of this show contact me for a B&P

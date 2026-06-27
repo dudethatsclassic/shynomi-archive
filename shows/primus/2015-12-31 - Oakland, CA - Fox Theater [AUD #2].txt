@@ -1,0 +1,82 @@
+Primus 
+Thursday, December 31st, 2015
+Fox Theater
+1807 Telegraph Ave
+Oakland, CA, USA
+
+Taper:  LeifH
+Source:  CA-11 > Bat2B > Sony PCM M10 @ 24/48 > Duracell 8GB microSD card
+Transfer:  Memory card > PC via USB > Wavepad Master's Edition (edits, amplify, tracking) > flac (8) via Frontend
+
+Set  I: 
+00 intro
+01 Those Damned Blue-Collar Tweekers
+02 Wynona's Big Brown Beaver
+03 American Life
+04 Over the Falls
+05 Lee Van Cleef
+06 The Toys Go Winding Down
+07 Groundhog's Day
+08 Jerry Was a Race Car Driver
+09 Over the Electric Grapevine
+ 
+Set II:  1:22:49
+10 Pork Chop's Little Ditty
+11 My Name is Mud
+12 Welcome To This World
+13 Bob
+14 DMV
+15 The Ol' Diamonback Sturgeon
+16 Nature Boy
+17 Wounded Knee
+18 Pork Soda
+19 The Pressman
+20 Mr. Krinkle
+21 The Air is Getting Slippery
+22 count down to the new year
+23 Hamburger Train
+24 Pork Chop's Little Ditty
+25 Hail Santa
+  
+26 Too Many Puppies
+27 Hello Skinny > 
+28 Here Come the Bastards
+   
+My 24th time seeing Primus and 5th New Year's show.  This one was announced a little later than usual, but it was pretty great to see that they'd be playing all of Pork Soda for the first time.  I arrived at the venue around 11:00 AM and hung out all day in line.  It didn't take long for the line to make its way around the corner of the building.  A few of us spotted Wiley Woods early in the evening, just as he arrived, getting directions on the phone.  It became obvious to me then who would be playing Pork Chop's Little Ditty.  A little while before the doors opened, you could faintly hear them doing a soundcheck.  At one point it sounded like they were playing Welcome To This World, the way it would be heavy and go quiet again.  
+    
+They gave out pig noses (with an elastic string) in the lobby for everyone to wear.  I was in the same spot as the previous two years, dead centre against the rail of the first raised section on the floor.  I got the whole show on video.  Wouldn't have been as easy to film if I didn't stake out the spot.  There's always drunk people who think they can get to the floor from the centre of the railing, and when they find out they can't they want to jump over it.  This happens a couple times.  There is some minor disruption during The Toys Go Winding Down while I try to keep my friend from falling over.  
+     
+Ler was playing PRS guitars for the first time in years during the second set.  There were 6 or so songs I had never seen them do live before.  They did a really good job playing all these songs.  Les and Ler played marimba for Wounded Knee.  DMV could maybe use a bit more polish, but that's not an easy one to sing and play at the same time.  There were bubble machines on either side of the stage, which I think started during Pork Soda.  Funny voice crack at the 03:20 mark in The Pressman.  The curtain was lowered at midnight and they came out in front to play an acoustic The Air Is Getting Slippery.  Ler was playing a 6 string banjo, Herb was on 5 gallon percussion, Les played the dobro bass and Wiley Woods played a mandolin solo.  Following that song, Les did the countdown to midnight (haha).  They began to play Hamburger Train as the giant Pork Soda can with a pig-man riding it was revealed, which would spill coloured balls while 2 astronauts and various crew members hit them toward the crowd.  Both Pork Chop's Little Dittys were played by Wiley Woods on mandolin, dressed as an elf or something.  Hail Santa was played over the PA, but not performed live.  I've seen Primus play Hello Skinny in the middle of Too Many Puppies, but this time they finished Too Many Puppies completely, then played the excerpt of the Residents song before starting Here Come The Bastards.  There was a tribute to bass players Louis Johnson, Chris Squire and Lemmy Kilmister on the video screen.
+
+Pork Soda has always been one of my favorite albums so it was very nice to see it live.  Hopefully they put some of the more rare songs in rotation in the future.  
+       
+fingerprints:
+00 - intro.flac:75a48c76d88922edb87313b6a4b81dcc
+01 - Those Damned Blue-Collar Tweekers.flac:10aa3846b1ec8ad2ffdab8a8c97425c1
+02 - Wynona's Big Brown Beaver.flac:fa65bb13cf6fa637711dfd752b3261df
+03 - American Life.flac:4ec343af11b1c341dc946ca0b43c7632
+04 - Over the Falls.flac:d2e59a934340c435f546686c401ece99
+05 - Lee Van Cleef.flac:2911b2e543075f50b8aaf26956a6664c
+06 - The Toys Go Winding Down.flac:58b8c16aa6cae0d8b6c960463f94dbb6
+07 - Groundhog's Day.flac:20742d99ad3bdc5572b84594ed253773
+08 - Jerry Was a Race Car Driver.flac:1ecb6f990d8e78fba93bfd852fc95bfd
+09 - Over the Electric Grapevine.flac:ee9198033242c07cd57dc827726c1cb3
+10 - Pork Chop's Little Ditty.flac:37c4237b39f5cc9a4cacf2b6ba540aae
+11 - My Name Is Mud.flac:9b439ea6649533c4337eae6b64a9f737
+12 - Welcome To This World.flac:16c9918b16a0186fac8d8c329e7b6fb0
+13 - Bob.flac:032e8db3df542bb3276d3201cd4307f8
+14 - DMV.flac:0948f10c086d24e76b7c7ac6bb45cf21
+15 - The Ol' Diamondback Sturgeon.flac:11f48fd9bf082a20525829da3ed1f347
+16 - Nature Boy.flac:ebe8ef5df8773004c07abc655920d87d
+17 - Wounded Knee.flac:f10cf0b9592145c672e0478da78878c8
+18 - Pork Soda.flac:d5b04236797ac54c6b8866f08c48863a
+19 - The Pressman.flac:74d1848c64bb2ef5a9897a125213519a
+20 - Mr. Krinkle.flac:23d9a8d8def7febdad695cbf8af21f2e
+21 - The Air Is Getting Slippery.flac:3ab74ca9d0b60dd599409ff1cfbb716a
+22 - count down to the new year.flac:5d93d442c91a7dee00f94c9e7fee181d
+23 - Hamburger Train.flac:df7478534452ef60743200fe3f91302d
+24 - Pork Chop's Little Ditty.flac:ad0a5cbc43fa89ec4242d96fa6fde2ba
+25 - Hail Santa.flac:6914dd5db8eb4494031c42fb5a56ec18
+26 - Too Many Puppies.flac:908a6f2a090e5cb065c1445715336e3c
+27 - Hello Skinny.flac:525978844c4c60c1a8b2a619561cda28
+28 - Here Come The Bastards.flac:5e353e09d99aa13defd08c94a494140c

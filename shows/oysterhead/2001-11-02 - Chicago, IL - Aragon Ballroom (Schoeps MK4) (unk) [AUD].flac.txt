@@ -1,0 +1,12 @@
+oysterhead2001-11-02.schoeps.mk4.v2.ad2k.flac\t01.flac:3ab3622785476d43d4550a4a4701ec1c
+oysterhead2001-11-02.schoeps.mk4.v2.ad2k.flac\t02.flac:7869f4159271c304e2ad96b2340b57d6
+oysterhead2001-11-02.schoeps.mk4.v2.ad2k.flac\t03.flac:8f3341427ba1b3ba0d83e712f3a90f4a
+oysterhead2001-11-02.schoeps.mk4.v2.ad2k.flac\t04.flac:63858c0b5132b41e0f228cfc88c59e05
+oysterhead2001-11-02.schoeps.mk4.v2.ad2k.flac\t05.flac:8682432879ea64d312e222876b6a523a
+oysterhead2001-11-02.schoeps.mk4.v2.ad2k.flac\t06.flac:ce0bd7ce4194dd38974bcc53bfba2608
+oysterhead2001-11-02.schoeps.mk4.v2.ad2k.flac\t07.flac:fbccc399842aedf5b3313fdcc911a30f
+oysterhead2001-11-02.schoeps.mk4.v2.ad2k.flac\t08.flac:8b091f496a99e6a2d34d3941a635a432
+oysterhead2001-11-02.schoeps.mk4.v2.ad2k.flac\t09.flac:e9fc25dcbf42f34304a2b34c3718eb5d
+oysterhead2001-11-02.schoeps.mk4.v2.ad2k.flac\t10.flac:5e8c7d3283e1e4fdffa30758f89853bb
+oysterhead2001-11-02.schoeps.mk4.v2.ad2k.flac\t11.flac:f3a46de64e34c7d81347b97deae631aa
+oysterhead2001-11-02.schoeps.mk4.v2.ad2k.flac\t12.flac:aa1c10e5b37e0aa0ed98831bef6660a0

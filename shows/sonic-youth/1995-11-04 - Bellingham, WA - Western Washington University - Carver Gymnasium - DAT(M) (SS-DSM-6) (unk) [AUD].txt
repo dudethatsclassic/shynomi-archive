@@ -1,0 +1,33 @@
+Sonic Youth
+November 4, 1995
+Western Washington University - Carver Gymnasium
+Bellingham, Washington, USA
+
+
+[05:19] 01. Cotton Crown
+[03:33] 02. Catholic Block
+[03:38] 03. 100%
+[02:53] 04. Bull in the Heather
+[02:54] 05. Starfield Road
+[08:11] 06. Washing Machine
+[04:22] 07. Saucer-like
+[06:05] 08. Becuz
+[03:04] 09. The World Looks Red
+[04:55] 10. Junkie's Promise
+[03:36] 11. Eric's Trip
+[06:19] 12. Teenage Riot
+[13:28] 13. The Diamond Sea
+            ---
+[04:47] 14. No Queen Blues
+[03:44] 15. Brother James
+
+
+- tape flip between Junkie's Promise and Eric's Trip banter, no music touched.
+- probably recorded on a Sony TCD-D8 DAT machine with Sonic Studios DSM-6 microphones.
+
+
+audience > DAT(M) > ANA(1) > unknown direct PC transfer > AIFF [16-bit, 44.1 kHz]
+Adobe Audition v3.0 > CD Wave Editor v1.98 > FLAC Frontend v1.7.1 > FLAC v1.2.1b [Level 8]
+
+tape provided and transferred by h2o. edited by andrei - ic_andrei [at] yahoo [dot] com
+thanks to Martin van Rappard - rappard [at] dds [dot] nl - for sending this to edit and seed.

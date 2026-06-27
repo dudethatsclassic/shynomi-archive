@@ -1,0 +1,70 @@
+Toad The Wet Sprocket
+January 5, 2012
+Toad's Place
+New Haven, CT
+
+Source:   DPA 4022 > Oade CMOD Marantz PMD-661 [.wav @ 24-bit/48kHz] 
+Lineage:  Marantz PMD-661 > USB 2.0 > Amadeus Pro v2.0.7 > .flac [level 8] 
+Location: DFC/FOB, elevated 8' clamped to soundboard cage
+Mics:     DIN 
+
+Taped & Transferred by James Bonaiuto (cd2go@hotmail.com)
+--------------------------------------------------------------------------
+Total: [93:02.44]
+--------------------------------------------------------------------------
+01. intro                                   
+02. Something's Always Wrong                                                  
+03. Whatever I Fear                                        
+04. Fly From Heaven                                          
+05. Crowing                                           
+06. Good Intentions                                       
+07. Stupid                                           
+08. Inside                                 
+09. Windmills                                                  
+10. Is It For Me                                            
+11. The Moment                                         
+12. Friendly Fire                                                
+13. Way Away                                 
+14. I Will Not Take These Things For Granted                                         
+15. Come Back Down                                                   
+16. Nightingale Song                                           
+17. All I Want                               
+18. Crazy Life                             
+19. Finally Fading                                              
+20. Brother
+21. Fall Down
+22. encore
+23. Come Down
+24. Walk On The Ocean
+--------------------------------------------------------------------------
+Amadeus Pro Notes:
+
+- Normalized peak level to -0.1 dB
+- Faded beginning/end of show
+--------------------------------------------------------------------------
+xACT v2.17 FLAC Fingerprint:
+
+ttws2012-01-05t01.dpa4022.pmd661.flac:466c427718f485067bc0b6e4dbf007f4
+ttws2012-01-05t02.dpa4022.pmd661.flac:19d65ba70a4858e0b43de45618e21b9a
+ttws2012-01-05t03.dpa4022.pmd661.flac:348a1094ae2108e625a7ee6e1620075d
+ttws2012-01-05t04.dpa4022.pmd661.flac:56d6abe8533ead2ffd8adf165602b4ed
+ttws2012-01-05t05.dpa4022.pmd661.flac:e21cf9a3c3855c14485cd2267864012c
+ttws2012-01-05t06.dpa4022.pmd661.flac:333307788494acd17872f3a9b6c3e37d
+ttws2012-01-05t07.dpa4022.pmd661.flac:431befb82b90b2090a9a2d6550b77ef5
+ttws2012-01-05t08.dpa4022.pmd661.flac:4a89ad343b83a3e780f7e126fc3a7334
+ttws2012-01-05t09.dpa4022.pmd661.flac:66b0e361931fb076560ae757979329fc
+ttws2012-01-05t10.dpa4022.pmd661.flac:8f3022559b46a505933a1a78204333a1
+ttws2012-01-05t11.dpa4022.pmd661.flac:6b0f93e31f49ae08688d06af13c926fe
+ttws2012-01-05t12.dpa4022.pmd661.flac:c82733fac339bba94e37c1eebf8a9f7b
+ttws2012-01-05t13.dpa4022.pmd661.flac:751f9447405f09c2715d6bd3dc13479c
+ttws2012-01-05t14.dpa4022.pmd661.flac:fbf089cc8f3e3ae8c0cf0d924f0617e0
+ttws2012-01-05t15.dpa4022.pmd661.flac:6698a7cfd22375ea54b8d665aad2939a
+ttws2012-01-05t16.dpa4022.pmd661.flac:d3497f80294cbc30c7377478b311a770
+ttws2012-01-05t17.dpa4022.pmd661.flac:a28768ff6085e41b538d8a331846652d
+ttws2012-01-05t18.dpa4022.pmd661.flac:268eaab6d2e930ebe99b1d4aa1aea198
+ttws2012-01-05t19.dpa4022.pmd661.flac:03e9dd3d3761068cf9f0921129baa4c2
+ttws2012-01-05t20.dpa4022.pmd661.flac:1470b9fbdb847b95dadbbfe666be8409
+ttws2012-01-05t21.dpa4022.pmd661.flac:32c33cf5b81779eb37ec7f8487c0ba5e
+ttws2012-01-05t22.dpa4022.pmd661.flac:0ab714ae1730bbc4b2c255b6737301cc
+ttws2012-01-05t23.dpa4022.pmd661.flac:26a68e30d3c7c412c2b9b6f628a6c8c7
+ttws2012-01-05t24.dpa4022.pmd661.flac:34b52caa785551e35f28b357386eb5a9

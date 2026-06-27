@@ -1,0 +1,69 @@
+Slowdive
+
+Venue
+Bar & Kitchen
+
+Location
+Hoxton square, London
+
+Date
+18th May 2014
+
+Equipment:
+CA11 Omni > CA Batt Box > Sony M10
+
+Lineage:
+Master > M-Audio Audiophile Soundcard > Adobe Audition 1.5 Normalise Volume > 
+Fade In/Out > WAV > TLH > FLAC(8)
+
+Recorded & Transferred:
+Whiskybob 2014
+
+Band
+Nick Chaplin
+Rachel Goswell
+Neil Halstead
+Christian Savill
+Simon Scott
+
+*******************************************************************************
+*******************************************************************************
+Set list
+
+Slowdive
+Avalyn
+Catch the breeze
+Crazy for you
+Machine gun
+40 days
+Blue skied
+Souvlaki
+When the sun hits
+Morning rise
+She calls
+Golden hair
+Alison
+
+*******************************************************************************
+*******************************************************************************
+01.Slowdive.flac:34d1982dd564324e247bc49a9b09f7d0
+02.Avalyn.flac:0809030ca87e6a341fc3fa9bcb02b849
+03.Catch the breeze.flac:fbc360fe14a1092b5eb326c7f7c0332e
+04.Crazy for you.flac:746f055c85f3f110e60db4f65a8818a5
+05.Machine gun.flac:506c7ea987073ddc66356c154f7a3769
+06.40 days.flac:fd3e18e19fe14126cc7af6c1b59e2e82
+07.Bue skied.flac:2aa2f3265b5fcd156689def9044b6529
+08.Souvlaki.flac:7409666f68561662179608d46d9ef190
+09.When the sun hits.flac:b23df98820948889971c015ac959d58b
+10.Morning rise.flac:40a760cf2bcb0613212700e5f130c4b0
+11.She calls.flac:866fa05e42d489287031f261f2bcdc3b
+12.Golden hair.flac:30d70773bd8da18c2de20b3d1ed711e8
+13.Alison.flac:fca46d37906b59b21a6257d891bd7477
+
+*******************************************************************************
+*******************************************************************************
+
+Never go back is an old adage that our merry bunch of gig friends always cry
+and 99% of the time it's true......Let me introduce the exception...Slowdive.
+From the first notes they were captivating and could have played for another
+half hour without it becoming arduous 

@@ -1,0 +1,29 @@
+AUDIOSLAVE
+July 19, 2003
+Post-Gazette Pavilion
+Burgettstown, PA
+
+Source: Shure SM98 > P-Mod > Sony PCM-M1
+Location: twenty-five feet from center stage
+Taper: CPS
+Lineage: DAT(M) > WAV [48] > WAV [44.1] > FLAC
+Transfer: Tascam DA-20mkII > M-Audio Audiophile 2496 > Sound Forge
+Edits/EQ: none
+Notes: Lollapalooza
+
+01 - intro
+02 - Gasoline
+03 - Set It Off
+04 - Light My Way
+05 - Like a Stone
+06 - Super Stupid
+07 - What You Are
+08 - Shadow of the Sun
+09 - Peace Love & Understanding
+10 - Getaway Car
+11 - Seven Nation Army
+12 - Show Me How to Live
+13 - Cochise
+
+
+Compiled May 2019 by CPS

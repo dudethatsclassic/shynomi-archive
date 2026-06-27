@@ -1,0 +1,69 @@
+AUDIOSLAVE
+June 27, 2005
+Hovet, Stockholm
+Sweden
+
+SOURCE: 
+MD(M) (Sony ECM-DS70P / Sony MZ-N1)
+
+GENERATION: 
+MD(M) > WAV [44.1khz] > FLAC [Level 8]
+
+LENGTH:
+102:18 min
+
+TRACKS:
+01: audience
+02. Your Time Has Come
+03. Spoonman (Soundgarden cover)
+04. The Worm
+05. Like a Stone
+06. Doesn't Remind Me
+07. Gasoline
+08. #1 Zero
+09. Out of Exile
+10. Be Yourself
+11. Bulls on Parade (Rage Against the Machine cover)
+12. Sleep Now in the Fire (Rage Against the Machine cover)
+13. Man or Animal
+14. Loud Love (Soundgarden cover)
+15. Shadow on the Sun
+16. audience
+17. Black Hole Sun (Soundgarden cover)
+18. Call Me a Dog (Temple of the Dog cover)
+19. I Am the Highway
+20. Show Me How to Live
+21. Killing in the Name (Rage Against the Machine cover)
+22. Cochise
+
+TRANSFER: 
+Sony MDS-JE700 > optical cable > Creative SB Platinum EX > Cool Edit Pro 2.0 > CD Wave 1.94.2 beta 
+
+MD5 FINGERPRINTS:
+6c526a4cafef2e1df064752121d45a91 *Audiolsave 2005-06-27 D101.flac
+576b42d2c144e013fcde263fe0fe23f2 *Audiolsave 2005-06-27 D102.flac
+1b7b3d2dd7b326a9ad447952454c7ed8 *Audiolsave 2005-06-27 D103.flac
+2175eade40afe8e6fdcf556b56699bff *Audiolsave 2005-06-27 D104.flac
+1f45f051b81fe2b2bff3c62ec44fb011 *Audiolsave 2005-06-27 D105.flac
+0667e376e649ea82d43f357674d7a462 *Audiolsave 2005-06-27 D106.flac
+7314412c52d12c06d768cb8518876e9e *Audiolsave 2005-06-27 D107.flac
+c0488392711cfc2c484b717d3c3bd0fe *Audiolsave 2005-06-27 D108.flac
+f412c6e6a489384112bc30ae1df2aa92 *Audiolsave 2005-06-27 D109.flac
+8b62dd38ab1cd0b8e2edf78ff4ce1685 *Audiolsave 2005-06-27 D110.flac
+f3d5fd77ecb38ba909f0d1baa53b0c71 *Audiolsave 2005-06-27 D111.flac
+ec55cc90d5f9dd7c5a664f20f7922e3c *Audiolsave 2005-06-27 D112.flac
+51435ffb064080a2cff7de5c0d760e02 *Audiolsave 2005-06-27 D113.flac
+06bb27246862f4ecc3498824f39219b5 *Audiolsave 2005-06-27 D114.flac
+c4ff841152902f54c54a2dd981928c07 *Audiolsave 2005-06-27 D115.flac
+94362b0cd93680b2f5eb73c5813153fd *Audioslave 2005-06-27 D201.flac
+39eaa3768c56e7242580099475e8706d *Audioslave 2005-06-27 D202.flac
+07de4cf04e210a98a745d5c712124f4f *Audioslave 2005-06-27 D203.flac
+86e6afcb691a386d75f3e6d9292af036 *Audioslave 2005-06-27 D204.flac
+d15b8fdc031ebdfdd19f99d66dfcfb6c *Audioslave 2005-06-27 D205.flac
+cb6e27b5f9c3346a10b450fa2c3e9767 *Audioslave 2005-06-27 D206.flac
+b7fd4ba9cdba488c65b652332ac9693e *Audioslave 2005-06-27 D207.flac
+
+TAPED & TRANSFERRED BY:
+Andreas Magnusson
+
+***DO NOT SELL***

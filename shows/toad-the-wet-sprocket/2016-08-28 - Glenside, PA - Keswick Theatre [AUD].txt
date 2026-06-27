@@ -1,0 +1,54 @@
+Toad the Wet Sprocket
+Keswick Theatre
+Glenside, PA 
+August 28, 2016
+
+  One Set:
+
+01 (Intro music)
+02 Good Intentions
+03 Crowing
+04 The Moment
+05 Stupid
+06 Rings
+07 Fly From Heaven
+08 Something To Say
+09 Architect Of The Ruin
+10 Amnesty*
+11 Crazy Life
+12 Something's Always Wrong
+13 Come Back Down
+14 (RAINN PSA)**
+15 Nightingale Song
+16 All I Want
+17 Fall Down
+18 (Crowd Noise)
+
+  Encore:
+
+19 Nothing Can Stop My Love***
+20 I Will Not Take These Things For Granted
+21 (Crew Introduction)
+22 Walk On the Ocean
+
+Source (DAUD): AT831 (FOB, DFC, 4' up) > Tascam DR-2D (mic in)
+Master format: 48 kHz, 24 bit, stereo (.WAV)
+Digital transfer: SDHC card (USB reader) > PC
+Digital editing: Audacity 2.1.0 (pre & post set fades, normalizing)
+Tracking & processing: Audacity 2.1.0 > FLAC/MP3@260VBR
+Distribution format: 44.1 kHz, 16 bit stereo FLAC / 260kbps VBR stereo MP3
+
+Notes:
+* = upcoming release from Glen Phillips solo effort
+
+** = if you enjoyed this recording, please give to this charity supported by TTWS: https://fundraise.rainn.org/events/toads-25-for-25/e91576
+
+*** = Originally recorded by Roger Miller
+
+Please forgive relative n00b inconsistencies in publishing/documentation
+
+Recorded, processed and distributed by Todd Bainbridge (eyedoctodd@hotmail.com)
+
+Performance notes: Jonathan Kingham added keyboards, guitar, lap steel, mandolin and backing vocals the whole set
+
+Event notes: Daisie Ghost-Flower played first, then Rusted Root, and then Toad the Wet Sprocket closed the show.

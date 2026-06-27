@@ -1,0 +1,56 @@
+The Germany Archives - Dimenew #5: 
+
+SOUNDGARDEN
+April 15, 1990
+Noorderlicht - Tilburg
+The Netherlands
+
+DISC #1/1 (67:01)
+-----------------
+01. Flower
+02. Hands All Over
+03. Gun 
+04. Loud Love 
+05. Full On Kevin's Mom
+06. Nothing To Say
+07. Hunted Down
+08. Tears To Forget
+09. I Awake 
+10. Big Bottom [Spinal Tab cover]
+11. Hey Jude [the Beatles cover] - Beyond The Wheel
+12. Big Dumb Sex 
+13. Ugly Truth 
+
+
+GENERATION
+-----------------
+ANA(M) -> WAV [24bit/96kHz] -> WAV [16bit/44.1kHz] -> FLAC [Level 8]
+
+
+SOURCE (AUD)
+-----------------
+SONY WMD6c + Vivanco EM 160 Microphone
+
+TRANSFER
+-----------------
+Sony TC-K470 -> 0.75 meter RCA Gold to RCA Gold Dubbel Shielded OFC cables -> Steinberg VSL 2020 analog-in -> Wavelab 5.0.1.240 -> r8brain 1.9 -> Trader Little Helper 2.4.1
+
+
+MD5 FINGERPRINTS
+-----------------
+soundgarden041590aud01.flac:7d00043d46df3cac802c746bd219cc6d
+soundgarden041590aud02.flac:f76e492233f90d6e759bbe8255bf76f9
+soundgarden041590aud03.flac:128696dd82a1f920aee768add472024d
+soundgarden041590aud04.flac:d180c0a00461ea386f2e4ff731589a15
+soundgarden041590aud05.flac:66da353e3e7cce638045e999a170af1a
+soundgarden041590aud06.flac:d909b3fe5060bc77e6e79485a2c30b03
+soundgarden041590aud07.flac:068bf6b3e8e9dc45c7342bcd96c215d5
+soundgarden041590aud08.flac:5b77a4b7f8a415b2b60ea9cb3f95a22c
+soundgarden041590aud09.flac:934e8947996b96ff27f0826f1e2f612e
+soundgarden041590aud10.flac:9c9a8ec5619460d66e800489852e573e
+soundgarden041590aud11.flac:93e24061c4ef85cf07cff4fb2d296160
+soundgarden041590aud12.flac:6b6865089215479535fba36d34b88899
+soundgarden041590aud13.flac:cf047e6f8aeaeddb35c3e6e2c06a6d55
+
+Transferred by Desiderus [mudhoneytrader@gmail.com]
+PLEASE DO NOT ENCODE TO MP3 OR SELL!

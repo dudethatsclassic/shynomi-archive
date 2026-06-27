@@ -1,0 +1,48 @@
+Les Claypool's Duo de Twang
+November 18th, 2023 (Saturday)
+HopMonk Tavern
+Sebastopol, California
+
+Annual Purple Pachyderm Wine Party
+
+Recorded by:  Grizzly Adams
+Source:  Sennheiser Ambeo > iPhone > Apogee MetaRecorder
+Transfer:  WAV > RX9 > Wavepad > flac (8) via TLH
+
+Setlist:  01:32:16
+01 show starts
+02 Wynona's Big Brown Beaver
+03 Amos Moses
+04 The Bridge Came Tumblin' Down	[*]
+05 Rumble of the Diesel 
+06 Who Knows 				[$]
+07 Stayin' Alive			[*][$]
+08 Booneville Stomp			[$]
+09 Barber Insurance			[$]
+10 Hendershot				[#]
+11 Pipeline				[^]
+12 D's Diner				[#]
+13 Buzzard of Greenhill
+
+Original DDT lineup with guests.
+
+Les Claypool - vocals, bass
+Marc "MIRV" Haggard - guitar
+Wylie Woods - mandolin			[*]
+Todd McMachean - guitar			[$]
+King Street Giants			[#]
+
+fingerprints:
+lcddt2023-11-18t01 - show starts.flac:1e00dac2d6c9abf221d069a979039e3c
+lcddt2023-11-18t02 - Wynonas Big Brown Beaver.flac:b7918eaf411c8d128fb594c06f73a8d1
+lcddt2023-11-18t03 - Amos Moses.flac:73855768b431487616c954b4c122eac9
+lcddt2023-11-18t04 - Bridge Came Tumblin Down.flac:b5fdb65761a6cc908173fa6104b40e87
+lcddt2023-11-18t05 - Rumble of the Diesel.flac:2a4b3654cbddb82600f0b3bda5823a3a
+lcddt2023-11-18t06 - Who Knows.flac:d6ee170c9d22649abeb992bd03dd10d8
+lcddt2023-11-18t07 - Stayin Alive.flac:6053ed5c997518fb1fd4a85932b8511f
+lcddt2023-11-18t08 - Booneville Stomp.flac:950eb38641612a3a8e266df18e8d6b7d
+lcddt2023-11-18t09 - Barber Insurance.flac:7f30bb81f60a538ca366ec3229c8250e
+lcddt2023-11-18t10 - Hendershot.flac:912c3454fa9879f60f5f208f5b04eef7
+lcddt2023-11-18t11 - Pipeline.flac:b20b103f734d1c65e7a467c04b1128e9
+lcddt2023-11-18t12 - Ds Diner.flac:d548f0252d3baee6e3cc8b23a8b7c7ed
+lcddt2023-11-18t13 - Buzzards of Greenhill.flac:631b4ef8d120c94dee1276be4c2f8e7d

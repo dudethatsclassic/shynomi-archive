@@ -1,0 +1,15 @@
+Oasis
+John Peel Session, Radio 1
+Maida Vale Studios, London
+22nd December 1993
+
+Re-broadcast on BBC 6Music, 13th April 2008
+
+Tracklist:
+01 Bring it on Down
+02 Cigarettes and Alcohol
+03 Shakermaker
+04 Up in the Sky (acoustic)
+
+Lineage:
+Digital satellite broadcast (48000Hz 160kbps MP2) -> Adobe Audition (44100Hz WAV) -> Trader's Little Helper (FLAC)

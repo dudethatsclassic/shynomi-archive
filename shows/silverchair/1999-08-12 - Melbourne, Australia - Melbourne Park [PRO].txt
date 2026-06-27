@@ -1,0 +1,38 @@
+Silverchair
+August 12, 1999
+Melbourne Park, Melbourne, Australia  
+
+LINEAGE: NTSC VHS > Stereo VCR > analog out > Canopus ADV100 
+      > DV via FIREWIRE > LOSSLESS AVI > WinDV 1.2.3 > 
+      > Canopus Procoder 2 > Crop/Trim/Colour fix > 
+      > Encode @ VBR 5000 av. 6000 max 4000 min, 
+	224kb AAC audio, 1 pass > VOB
+
+no menu/chapters.
+
+due to the low resolution/definition of VHS, the transfer at a 
+average bitrate of 5000 should not effect quality. 
+
+
+TRACKLIST: (unverified)
+Emotion Sickness
+Israel's Son
+Slave
+Abuse Me
+Ana's Song(Open Fire)
+Suicidal Dream
+Paint Pastel Princess
+Madman
+Point Of View
+Tomorrow
+Satin Sheets
+Miss You Love
+The Door
+Pure Massacre
+Freak
+Anthem For The Year 2000
+Kick Out The Jams
+Spawn Again 
+
+
+tranferred by eclect - http://db.etree.org/eclect

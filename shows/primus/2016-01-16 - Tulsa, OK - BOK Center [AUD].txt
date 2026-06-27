@@ -1,0 +1,26 @@
+Primus - 2016.01.16
+BOK Center - Tulsa, OK, USA
+
+taper: Karl Frinkle (specialK)
+email: specialk@karlfrinkle.net
+url: http://karlfrinkle.net
+
+source: Church Audio CA-14 cardiods > Church Audio CA-9100 preamp > Sony PCM-M10 (line-in @24/96)
+location: Section 306, Row S, seat 6 (Very last row, upper deck, straight back from stage, seriously)
+transfer: Sony PCM-M10 (line-in @24/96) > WAV > Sony Sound Forge Audio Studio 9.0  (mastering) > CD Wave (splitting) > FLAC
+modifications: magik
+
+Setlist - 9 tracks - 50:26
+1. intro
+2. Those Damned Blue-Collar Tweekers
+3. The Toys Go Winding Down
+4. Frizzle Fry
+5. Jilly's on Smack
+6. Mr. Krinkle
+7. My Name Is Mud
+8. Les talking
+9. Jerry Was a Race Car Driver
+
+
+
+

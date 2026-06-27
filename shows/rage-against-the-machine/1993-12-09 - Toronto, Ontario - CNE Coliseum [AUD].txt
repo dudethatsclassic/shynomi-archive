@@ -1,0 +1,42 @@
+Rage Against The Machine
+December 9, 1993
+CNE Coliseum
+Toronto, ON, Canada
+
+Source: stock mics > Aiwa/Sanyo portable cassette recorder > Maxell XLII Cass(m)
+Transfer: Yamaha KX-650 3-Motor/3-Head Closed Loop Dual Capstan Cassette Deck > Hosa Cables > EMU0404 > CEP2.1 (recording, cutting, nofx) > FLAC (level 8, verify enabled)
+Taper: Andymon
+Transfer: Five
+
+01. Take The Power Back
+02. Killing In The Name Of
+03. People Of The Sun
+04. Fistful Of Steel
+05. Bullet In The Head
+06. Freedom
+07. Hadda Been Playing On The Jukebox
+
+Notes: Transferred Feb 2007. Thanks to Andymon for providing the source.
+
+****************************
+NOT FOR SALE!!! TRADE ONLY!!
+MP3 ONLY FOR PERSONAL USE!!!
+****************************
+
+859f5169430c4f261db5ff72ae9d14e3  [shntool]  ratm1993-12-09t01.flac
+8a3e341d29146a0b7c10a730cf686cf4  [shntool]  ratm1993-12-09t02.flac
+c1c8c87f5f6cce6dd5774cca3678d3c6  [shntool]  ratm1993-12-09t03.flac
+1ad1cc86c05dd58a5f3f67f0f1839ad4  [shntool]  ratm1993-12-09t04.flac
+fc21fe51a605079122f857036aff126e  [shntool]  ratm1993-12-09t05.flac
+bb73115156e1d95977d9ea21dc23e73b  [shntool]  ratm1993-12-09t06.flac
+2e5ef62a9e1da1474b61a649cff766f5  [shntool]  ratm1993-12-09t07.flac
+
+    length     expanded size   cdr  WAVE problems filename
+     7:51.40       83178524    ---   --   ---xx   ratm1993-12-09t01.flac
+     6:09.27       65155148    ---   --   ---xx   ratm1993-12-09t02.flac
+     2:16.52       24112748    ---   --   ---xx   ratm1993-12-09t03.flac
+     6:24.70       67902284    ---   --   ---xx   ratm1993-12-09t04.flac
+     6:35.19       69722732    ---   --   ---xx   ratm1993-12-09t05.flac
+     7:22.50       78086444    ---   --   ---xx   ratm1993-12-09t06.flac
+     8:37.46       91307036    ---   --   ---xx   ratm1993-12-09t07.flac
+    45:18.04      479464916 B                     (totals for 7 files, 0.6984 overall compression ratio)

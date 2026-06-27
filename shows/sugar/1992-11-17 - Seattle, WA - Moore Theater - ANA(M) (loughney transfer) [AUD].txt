@@ -1,0 +1,32 @@
+Sugar - 1992 11 17 @ Moore Theater, Seattle, WA
+
+Note:
+"Earplugs were in vogue at the Moore Theater Tuesday night, and even the poor slobs who didn't have the real thing resorted to tissue paper, regular paper, fingers or even cigarette butts to take some of the edge off Sugar's sonic assault."
+
+1 intro	
+2 The Act We Act
+3 A Good Idea
+4 Changes
+5 Running Out Of Time
+6 Where Diamonds Are Halos
+7 Hoover Dam
+8 Sapphire Capital
+9 After All The Roads Have Led To Nowhere
+10 Frustration
+11 Slick
+12 Anyone
+13 Helpless
+14 If I Can't Change Your Mind
+15 Clownmaster
+16 Tilted
+17 Armenia City In The Sky [The Who]
+18 That's When I Reach For My Revolver [Mission of Burma]
+19 The Beer Commercial
+20 Man On The Moon
+
+Line-up:
+Boo Radleys
+Throwing Muses
+Sugar	
+
+Lineage: Audience Master > unknown gen tape > Tascam 202MKVII USB out > CDWAV > Audacity (normalization, fades, merges, noise reduction) > CDWAV (splits) > DBPowerAmp (FLAC) [loughney xfer]

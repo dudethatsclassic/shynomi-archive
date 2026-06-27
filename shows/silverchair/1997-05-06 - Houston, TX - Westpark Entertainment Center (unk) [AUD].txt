@@ -1,0 +1,39 @@
+Silverchair
+Westpark Entertainment Center
+Houston, TX
+May 6, 1997
+
+Taper: unknown
+Source: AUD -> Analog (generation 3) -> CD
+
+Analog > CD conversion: Adam Nelson (nelso222@msu.edu) - 1999 
+
+CD > flac conversion: Adam Nelson (nelso222@msu.edu) - 2006
+
+EAC (secure mode, all tracks 100%) -> wav -> flac frontend (level 6)
+
+
+1. Intro
+2. Slave ->
+3. Roses ->
+4. Findaway
+5. Abuse Me
+6. Pure Massacre
+7. Cemetery *
+8. Suicidal Dream
+9. Tomorrow
+10. The Door ->
+11. Faultline 
+12. No Association ->
+13. Freak ->
+14. Madman
+15. E: Paranoid (Black Sabbath Cover) ^
+16. E: Israel's Son
+
+
+Notes:
+* = Daniel solo
+^ = with Scott Lucas of Local H
+
+
+Compiled by Adam Nelson

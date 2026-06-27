@@ -1,0 +1,61 @@
+Primus
+Arco Arena, Sacramento, CA
+December 29, 1999
+
+Source : Sony ECM MS-907 mic > Sony MZ R-55 Minidisc (in mono)
+
+Transfer : Sony MZ R700 Minidisc > Tascam SD-20M (rack mount) wave recorder (16/44)
+
+Editing : Sound Forge (tracking & volume) > Wave > TLH (sbe aligned) Flac 8
+
+Traders Den - May 14, 2021
+
+Transferred & Tracked by kingrue upload #3139
+===========================================
+
+Opening for Red Hot Chili Peppers.
+
+
+Band line-up
+Les Claypool - bass, vocals
+Bryan "Brain" Mantia - drums (tenure 1989, 1997-1999) (joined GnR in 2000-2006)
+Larry "Ler" LaLonde - guitar (tenure 1989-present)
+
+
+Total Time = 47:09
+
+Set list
+01 Sgt. Baker
+02 Antipop
+03 Those Damned Blue Collar Tweekers
+04 Ballad of Buckethead
+05 Electric Uncle Sam
+06 My Name Is Mud
+07 Jerry Was A Racecar Driver
+08 Laquerhead
+09 Harold of the Rock
+
+
+Recorded by Big D. Vol. 50
+
+======================
+
+No errors occured.
+
+01 Sgt. Baker.flac:4602a767d88ba0e1b27d0d05d595d275
+02 Antipop.flac:3bd76a8462c34f0fb21fa68317f2e29e
+03 Those Damned Blue Collar Tweekers.flac:ac0617b2adee168661f27ef170875391
+04 Ballad of Buckethead.flac:37ec37d2d403950b985310304821de83
+05 Electric Uncle Sam.flac:9e8c92c90e3ae2382a1783babe224058
+06 My Name Is Mud.flac:2f146657e23823a820920f3f1abc0a23
+07 Jerry Was A Racecar Driver.flac:54d4d75d807d8fcae94279c6192ecdc0
+08 Laquerhead.flac:db59024d397372716cc39b24e96e240a
+09 Harold of the Rock.flac:5801071972402ae729b3e56998d4cde6
+
+Checksum file saved to disk.
+
+No errors occured.
+
+
+
+s

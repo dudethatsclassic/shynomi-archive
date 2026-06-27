@@ -1,0 +1,60 @@
+SOUNDGARDEN
+July 22, 1994
+Sunken Gardens Theater
+San Antonio, TX
+
+Disc 1:
+1. intro (Night Surf)
+2. Jesus Christ Pose
+3. Spoonman
+4. Let Me Drown
+5. Mailman
+6. The Day I Tried to Live
+7. My Wave
+8. Flower
+9. Black Hole Sun
+10. Searching With My Good Eye Closed
+11. Superunknown
+12. Rusty Cage
+
+Disc 2:
+1. Half
+2. Mind Riot
+3. Fell on Black Days
+4. Drawing Flies
+5. Slaves and Bulldozers
+6. Kickstand
+7. Face Pollution
+8. Like Suicide
+9. Head Down
+10. Hands All Over
+
+Source: DATx>CDR1>remaster>CDR2>WAV>FLAC [8]
+Equipment: unknown DAT audience
+Quality: 8.5 (A)
+Time: 106:39
+
+Notes: The circulating recording is very bass-heavy. This copy was remastered and sounds very nice.
+
+d1-01-intro.flac:3ad63fc34669925817065477d3a4c34b
+d1-02-jcp.flac:6a28b490a72db71c36b40b94010b2bcb
+d1-03-spoonman.flac:b07466b2de8598283b38184589fb71bd
+d1-04-letmedrown.flac:db73f9230df1909668fb1e1c6a9193de
+d1-05-mailman.flac:c9af50237d069b69625281ad2a9b6f78
+d1-06-thedayitriedtolive.flac:d842dffbc9f6db0a94d819dd3201ab91
+d1-07-mywave.flac:48d3f24b80a078658ad5443fb3420a97
+d1-08-flower.flac:53b1092fd1a141453a8b64a526c9dfbf
+d1-09-bhs.flac:bdc3bf2027eeda15e4325c5253755ace
+d1-10-searching.flac:5d5ff8ee1cb5575e77e1283f0ea9e8ae
+d1-11-superunknown.flac:8b1cbcf62ea64f1bc3f5134a6c29d540
+d1-12-rustycage.flac:d53ecd0539e59ee7187532fc8899b6b4
+d2-01-half.flac:55c114a6ce8b9c8eae6c15bf95892a4b
+d2-02-mindriot.flac:2eab822f22e32d78a1f41de0e14f69e5
+d2-03-fellonblackdays.flac:0dfc2e95322a69f62d2e660c9d661eea
+d2-04-drawingflies.flac:05c53033ab3ab716dfce22fd20fa7f34
+d2-05-slaves.flac:83b6dcc62466739f83c934ba184c8e7d
+d2-06-kickstand.flac:67103b52b54a64f0d948f15387757ee9
+d2-07-facepollution.flac:3d8c9319d548ccdf228dba97b7b43e70
+d2-08-likesuicide.flac:5932afa9681cb34eb6a51a03768e9d5d
+d2-09-headdown.flac:6d4d436a3120a654010bfad15c2e9df3
+d2-10-handsallover.flac:5966d23e1d8b792610ba609961cf55cb

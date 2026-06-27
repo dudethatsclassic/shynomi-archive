@@ -1,0 +1,35 @@
+Husker Du - 1983 04 27 Folk City, NYC, NYC
+
+1 In A Free Land
+2 Target
+3 What Do I Want?
+4 M. I. C.
+5 From The Gut
+6 Blah, Blah, Blah
+7 Wheels
+8 Everything Falls Apart
+9 What's Going On?
+10 Sunshine Superman (Donovan)
+11 Gravity
+12 Out On A Limb
+13 Bricklayer
+14 Tired Of Doing Things
+15 Big Sky
+16 Ultracore
+17 Data Control
+18 Punch Drunk
+19 Eight Miles High (The Byrds)
+20 It's Not Funny Anymore
+21 Gilligan's Island
+22 MTC
+23 Louie, Louie (The Kingsmen)
+24 unknown cover
+25 Look Through Any Window (The Hollies)
+26 Chinese Rocks (The Heartbreakers)
+27 Don't Fear The Reaper (Blue Oyster Cult)
+28 Fast Cars (Buzzcocks)
+29 Paint It Black (The Rolling Stones)
+30 Blue Wind (Jeff Beck)
+31 Train Kept A-Rollin' (Aerosmith)
+
+Lineage: Master > unknown tape gen > Tascam 202MKVII USB out > CDWAV > Audacity (normalization, fades, merges, noise reduction) > CDWAV (splits) > DBPowerAmp (FLAC) [loughney xfer]

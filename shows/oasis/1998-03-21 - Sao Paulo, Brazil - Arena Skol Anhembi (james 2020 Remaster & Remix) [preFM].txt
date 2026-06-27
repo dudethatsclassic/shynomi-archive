@@ -1,0 +1,23 @@
+auCDtect: CD records authenticity detector, version 0.8.2
+Copyright (c) 2004 Oleg Berngardt. All rights reserved.
+Copyright (c) 2004 Alexander Djourik. All rights reserved.
+
+Detect mode (0..40 with 0 = most accurate):  8 (default)
+
+
+01 Be Here Now.wav:  track looks like CDDA with probability 99%.
+02 Stand By Me.wav:  track looks like CDDA with probability 100%.
+03 Supersonic.wav:  track looks like CDDA with probability 100%.
+04 Roll With It.wav:  track looks like CDDA with probability 100%.
+05 D'You Know What I Mean.wav:  track looks like CDDA with probability 100%.
+06 Cigarettes & Alcohol.wav:  track looks like CDDA with probability 100%.
+07 Don't Go Away.wav:  track looks like CDDA with probability 100%.
+08 Setting Sun.wav:  track looks like CDDA with probability 100%.
+09 Fade In-Out.wav:  track looks like CDDA with probability 100%.
+10 Don't Look Back In Anger.wav:  track looks like CDDA with probability 100%.
+11 Wonderwall.wav:  track looks like CDDA with probability 100%.
+12 Live Forever.wav:  track looks like CDDA with probability 100%.
+13 It's Gettin' Better (Man!!).wav:  track looks like CDDA with probability 100%.
+14 Champagne Supernova.wav:  track looks like CDDA with probability 100%.
+15 Acquiesce.wav:  track looks like CDDA with probability 100%.
+16 I Am The Walrus.wav:  track looks like CDDA with probability 100%.

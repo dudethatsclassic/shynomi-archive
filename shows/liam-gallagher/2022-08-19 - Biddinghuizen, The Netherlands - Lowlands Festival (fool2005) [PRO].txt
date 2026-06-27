@@ -1,0 +1,29 @@
+Liam Gallagher
+Lowlands Festival
+Biddinghuizen, Netherlands
+August 19, 2022
+
+Lineage: Cable TV (NPO 2 Extra) -> Humax iHDR-5200C -> .ts segments -> TSSplitter (join) -> FFmpeg (edit) -> .ts
+Video: 1920x1080 - H264 - 4.3Mbps - 50fps
+Audio: MP2 256Kbps - 48.0kHz - Stereo
+
+Setlist:
+Fuckin' in the Bushes (Oasis song – from tape)
+Morning Glory (Oasis song)
+Rock 'n' Roll Star (Oasis song)
+Wall of Glass
+C'mon You Know
+Better Days
+Roll It Over (Oasis song)
+Slide Away (Oasis song)
+Soul Love (Beady Eye song)
+More Power
+Diamond in the Dark
+Once
+Cigarettes & Alcohol (Oasis song)
+Wonderwall (Oasis song)
+Champagne Supernovan (Oasis song)
+
+Length: 01:11:20
+
+Captured by Fool2005 and uploaded to DIME by Paulo Dapper.

@@ -1,0 +1,39 @@
+
+Soundgarden
+Red Rocks Amphitheatre: Morrison, CO
+July 22, 2014
+
+Source: AT831s > SP-SPSB-11 (@ 69Hz) > Sony PCM-M10 @ 24-bit / 44.1kHz
+Location: FOB 3rd row right stack
+Transfer: M10 > Audacity (EQ/amplify/dither) > CDWave > TLH
+Taper: tapeworm(48) 
+
+Setlist:
+
+01 Intro
+02 Searching with My Good Eye Closed
+03 Spoonman
+04 Flower
+05 Outshined
+06 Black Hole Sun
+07 Jesus Christ Pose
+08 Blow Up the Outside
+09 Fell on Black Days
+10 The Day I Tried to Live
+11 My Wave
+12 -band intros-
+13 Superunknown 
+14 A Thousand Days Before
+15 Rusty Cage
+16 Beyond the Wheel
+
+Notes: Co-headlining tour with Nine Inch Nails. Performed some mild EQ to remove extreme low end in Audacity, amplified entire file by +5.5dB prior to dithering. Raw transfer with no fades.
+
+EQ Notes: High Pass Filter set at 6dB, 100Hz, 0.7 q setting.
+
+Archive: Master WAV was archived @ 24-bit/44.1kHz and FLAC'd with cue sheet. 
+
+Taped and transferred by tapeworm(48) 
+Txt file compiled on 7/30/2014
+
+*** DO NOT DISTRIBUTE IN LOSSY FORMATS. DO NOT SELL THIS RECORDING, TRADE IT FREELY *** 

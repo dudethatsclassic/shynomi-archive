@@ -1,0 +1,59 @@
+Soundgarden
+Lollapalooza Festival
+Forks Of The River Park
+Newport, TN
+July 21, 1996
+
+** 16 BIT **
+
+Source:  Core Sound Binaurals w/bass roll off filter > Sony WM-D3 (cassette master) > Maxell XL-IIS (1st Gen cassettes)
+Transfer:  1st Gen cassettes > Denon 790R > Kenwood A-522 amplifier > Kenwood GE-622 Equalizer > .WAV @ 16 bit/44.1 kHz
+Mastering:  .WAV > Sound Forge Pro 11.0 (Build 299) [WAVES C4 Multiband Parametric Processor (UNcompressor);iZotope Mastering Suite declick);               splicing, minor edits, normalize, & fades] > CDWav tracking) > Trader's Little Helper (level 5) > FLAC > TagScanner 6.0.18                      (tagging)
+Recorded by:  Earlehead 
+1st Gen Cassettes transferred by:  Steve "ballsdeep" Hagar
+Mastered by:  Dennis Orr
+
+Setlist:
+01 Intro Music
+02 Spoonman
+03 Searching With My Good Eye Closed
+04 Let Me Drown
+05 Pretty Noose
+06 Burden In My Hand
+07 My Wave
+08 Ty Cobb
+09 Fell On Black Days
+10 Rusty Cage
+11 Black Hole Sun
+12 Outshined
+13 Mailman
+14 Jesus Christ Pose
+
+Mastering Notes:
+Tape flip during the applause after "Rusty Cage" - seamlessly joined, no music lost
+
+Taper Notes:
+The Newport, TN Lollapalooza show in '96 was a really good outing for the hard rock version of Lollapalooza. I got to see Soundgarden, The Ramones, Metallica, Rancid, and Rage Against the Machine, to name a few of the main stage acts. I also caught part of The Melvins show at a side stage.
+
+It was a hot middle of the summer TN day. Not enviable by any means. It meant shirt off after about the first hour. For a pale skinnned, bald white boy, that wasn't the smartest thing to do. I got there around 10 AM and left around 11 PM after the Metallica set ended. It was the worst sunburn I've ever had.
+
+This was my first time seeing Soundgarden and when they opened up with Spoonman you could feel the sonic onslaught vibrating deep in your chest. These guys were there to bring the goods, and that they did. Though it wasn't a headlining show for them, they played as if they owned the place.
+
+You see recordings of this show every once in awhile, but for the most part they are wrongly credited to being in Knoxville. It wasn't in Knoxville, but 50 miles east, in Newport.
+
+Earlehead
+
+Soundgarden1996-07-21t01.flac:342da7093b5cc24e89003ea7723c241d
+Soundgarden1996-07-21t02.flac:439464170300837805aba3abd1c0fcbc
+Soundgarden1996-07-21t03.flac:6aaf3c4d0c514bdcd51b19ede3a4be0d
+Soundgarden1996-07-21t04.flac:01432b1e7ed61f9deca2eb78ac74274c
+Soundgarden1996-07-21t05.flac:ede5a372fe3cbcc420c0559699054520
+Soundgarden1996-07-21t06.flac:399e2041b5ccaec5fd45524056ec339c
+Soundgarden1996-07-21t07.flac:e3a58b961111b9f832f01708a9bfc659
+Soundgarden1996-07-21t08.flac:36fbbc5b403ebdc6c8bb89c3937a635f
+Soundgarden1996-07-21t09.flac:234d63881feb3c99af9d32c8d942e492
+Soundgarden1996-07-21t10.flac:a9296cf45ac443f46fd829ae89b880e3
+Soundgarden1996-07-21t11.flac:8c9c4f30a27da30ace71667a240bb06e
+Soundgarden1996-07-21t12.flac:b38ca697b137b6c433f4c9de9bcd9495
+Soundgarden1996-07-21t13.flac:dde46cb09f85fdac5048d5eb857c2d78
+Soundgarden1996-07-21t14.flac:66cc1d350020c837bfe39dc6c970bd2f

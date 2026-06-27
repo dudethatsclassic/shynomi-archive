@@ -1,0 +1,67 @@
+PRIMUS
+June 26, 1993
+Fiddler's Green Amphitheatre (Lollapalooza '93)
+Greenwood Village, CO, US
+
+SETLIST:
+-------------------
+01. Spegetti Western
+02. Those Damned Blue-Collar Tweekers
+03. Bob
+04. My Name Is Mud [w/ Angelo Moore of Fishbone]
+05. Jerry Was a Race Car Driver
+06. The Ol' Diamondback Sturgeon (Fisherman's Chronicles, Part 3) ->
+07. The Toys Go Winding Down ->
+08. Pudding Time ->
+09. Thieves [Ministry cover, part of] ->
+10. Pudding Time [reprised]
+11. Seas of Cheese
+12. Pork Soda
+13. Mr. Krinkle
+14. John the Fisherman
+15. Here Come the Bastards
+16. Master of Puppets [Metallica cover, part of]
+
+
+SOURCE:
+-------------------
+AUD #1 - Quality: 9.0
+unknown > unknown
+
+TRANSFER:
+-------------------
+unknown mic > unknown recorder > unknown transfer to CD > You Can't Party Without Me! [HR 5915-8] > LG HL-DT-STDVDRAM GP57ES40 External Drive > Exact Audio Copy v1.6 > Adobe Audition 23.3 [re-tracking] > xACT 2.52 > FLAC [Level 8]
+
+GENERATION:
+-------------------
+Unofficial CD ["You Can't Party Without Me!" bootleg] > WAV [44.1kHz/16-bit] > FLAC [Level 8]
+
+NOTES:
+-------------------
+- Bursts of loud sound can be heard throughout the recording. These are presumably caused by attendees brushing past the taper's microphones.
+- This fileset was properly ripped straight from the bootleg CD, with proper re-tracking following the transfer.
+- No EQ'ing took place, though de-clicking was implemented to round off nearby clapping, and gain adjustments were involved to balance out the volume, as well as to lessen the sound of the mic bursts.
+
+
+FLAC FINGERPRINTS:
+-------------------
+primus1993-06-26-aud1-t01.flac:175db6886e75a9a57059d7d5a8f15929
+primus1993-06-26-aud1-t02.flac:7f92f682b69059041f29f0e84ab221f8
+primus1993-06-26-aud1-t03.flac:e200703179aeda08941d02e5dd279b14
+primus1993-06-26-aud1-t04.flac:b3821e65d190068abd53339ac8624c38
+primus1993-06-26-aud1-t05.flac:7c80fdc8b410028f998c1700212b8b1c
+primus1993-06-26-aud1-t06.flac:a60cd67c407bbec63a3587644aa1c53b
+primus1993-06-26-aud1-t07.flac:b8f88c3de0d7a9d8d0d012920bb3b20a
+primus1993-06-26-aud1-t08.flac:f2446184063d9bf6d0699a978fc02daf
+primus1993-06-26-aud1-t09.flac:dd127bc8a77365783753cf6b53320360
+primus1993-06-26-aud1-t10.flac:2d7d71092a0592eddb63cc2e87c95ac8
+primus1993-06-26-aud1-t11.flac:e74af6e315575ad968ce1af088971e3c
+primus1993-06-26-aud1-t12.flac:9309ba6ae9c58a9299249f41f6b24f46
+primus1993-06-26-aud1-t13.flac:b62e6053d9b8c9d196bd7a1040309870
+primus1993-06-26-aud1-t14.flac:3bea7591322abec45a7d05f3716cdfe0
+primus1993-06-26-aud1-t15.flac:af268516ee206f2f0dc64d739eeefff6
+primus1993-06-26-aud1-t16.flac:4399079b6afde5a3bd61457e9e47dbdc
+
+
+Transferred and encoded by: Chris Jonasson & vibrioidxire
+PLEASE DO NOT DISTRIBUTE IN LOSSY FORMATS OR SELL!

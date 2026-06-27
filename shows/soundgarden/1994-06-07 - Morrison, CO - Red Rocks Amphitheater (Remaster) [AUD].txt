@@ -1,0 +1,70 @@
+remaster notes:
+this was posted before remastering by gornandez
+on Jan. 18, 2013 at dime torrent #436079.
+increased right side volume to balance with left,
+removed mini gaps between most of the tracks, 
+spliced cut in track 2,
+spliced cut gap :14 into track 8, 
+and another about 6 seconds into track 14,
+adjusted a level change about 1:53 into track 15
+(there is a brief section missing at beginning of 
+track 16, and also a couple of other tracks),
+spliced tracks 20 and 21 (head down) into one track, 
+where recorder's tape ran out about 3:42 into it,
+reduced several loud claps and mike knocks by 3-4 db's,
+retracked all the tracks so they begin at the start of a song 
+or the spoken words before them, and removed the recorder 
+shutoff noise after the last song ended.
+although a few songs are missing a brief section due to the 
+original digital transferring of the master tape, 
+this is a seamless recording now 
+and sounds alot smoother than it did before.
+
+Soundgarden
+Chris Cornell: lead vocals and guitar
+Kim Thayil: lead guitar
+Ben Shepherd: bass
+Matt Cameron: drums
+June 7, 1994
+Red Rocks Amphitheater
+Morrison, Colorado, USA
+touring their 4th album, "superunknown"
+audience recording
+runtime: 103:03 (minutes/seconds)
+
+    disc 1  58:31  (original disc break 67:17, tracks 1-14)
+
+01 intro (night surf) > 4:37 
+02 Jesus Christ pose (splice at 2:56, cut in master recording)  5:23
+03 spoonman (w. Artis)  4:19
+04 let me drown  4:06
+05 mailman  5:25
+06 the day I tried to live >  4:51
+07 my wave  4:44
+08 room a thousand years wide  3:42
+09 black hole sun > 5:25
+10 searching with my good eye closed  6:04
+11 superunknown  5:16
+12 rusty cage  4:37
+
+    disc 2  44:32   (35:46, tracks 15-21)
+
+13 half  4:36
+14 fell on black days  4:09
+15 slaves & bulldozers >  7:16
+16 kickstand  1:33
+17 face pollution  2:48
+18 like suicide  7:17
+19 somewhere  4:06
+20 head down  (spliced)  5:30
+21 limo wreck  7:14
+ (disc 2 can be started with track 11 or 12 if preferred.
+ the original disc break was not a good one)
+
+original lineage (suspected, but not confirmed)
+Unk. audience tape (master?) > cdr > wav (EAC) > flac > dime.
+remaster lineage:
+ download (flac) wav (remastering) > 
+ flac (sb's aligned) > torrentially yours (again)
+remastering by glasnostrd19.
+

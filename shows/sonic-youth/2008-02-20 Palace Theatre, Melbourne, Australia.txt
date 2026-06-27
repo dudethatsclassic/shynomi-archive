@@ -1,0 +1,51 @@
+artist: Sonic Youth
+event: Don't Look Back - Daydream Nation
+venue: Metro, Melbourne, Australia
+date: 20 February 2008
+
+Total (119:08)
+1. intro (0:55)
+2. Teen Age Riot (7:20)
+3. Silver Rocket (7:25)
+4. The Sprawl (11:02)
+5. 'Cross The Breeze (8:06)
+6. Eric's Trip (4:10)
+7. Total Trash (7:46)
+8. Hey Joni (4:36)
+9. Providence (3:35)
+10. Candle (5:28)
+11. Rain King (4:55)
+12. Kissability (3:31)
+13. Trilogy: a) The Wonder (4:30)
+14. b) Hyperstation (7:23)
+15. z) Eliminator Jr. (2:47)
+16. encore 1 (4:20)
+17. Incinerate (5:19)
+18. Reena (4:03)
+19. The World Looks Red (3:37)
+20. Jams Run Free (3:34)
+21. Pink Steam (8:28)
+22. encore 2 (2:42)
+23. Drunken Butterfly (3:25)
+
+Kim Gordon - bass, vocals
+Thurston Moore - guitars, vocals
+Lee Ranaldo - guitars, vocals
+Steve Shelley - drums
+Mark Ibold - bass (encores only)
+
+recorded/encoded/seeded on Dime by crankingamps 25Feb08
+
+lineage: Core Sound HEB (matched DPA4061) mics
+> Core Sound Battery Box (flat response, no filter)
+> Edirol R09 digital recorder (line in)
+> 4GB Transcend 150x SD Card as 24-bit 48Khz .wav file
+> CoolEdit Pro 2.0 for converting to 16-bit 44.1kHz and tracking (sector aligned)
+> FLAC Frontend 1.7.1 (level 8)
+
+notes: tracks 2-15 comprise the album Daydream Nation;
+recorded FOB approx 15m from stage dead centre standing on steps;
+mics at temples on glasses directed straight forward;
+no equalisation, no compression, no effects;
+normalised (left +2dB right +3dB) and fade in/out in CoolEdit;
+not for sale or commercial exchange, for trade or give away only

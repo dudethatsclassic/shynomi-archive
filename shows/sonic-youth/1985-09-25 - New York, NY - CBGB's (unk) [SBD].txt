@@ -1,0 +1,34 @@
+SONIC YOUTH
+September 25, 1985
+CBGB's (New Music Seminar)
+New York City, NY, USA
+
+Line-up:
+Kim Gordon - Bass
+Thurston Moore - Guitar
+Lee Ranaldo - Guitar
+Steve Shelley - Drums
+
+Setlist:
+
+01 Intro
+02 Green Light 
+03 Brother James 
+04 (tape)
+05 I Love Her All The Time 
+06 Ghost Bitch 
+07 Secret Girl 
+08 Hallowed be thy Name 
+09 Expressway to Yr Skull
+
+Lineage:
+
+Unknown audience or soundboard recording > Unknown transfer > CD-R, untracked > Extraction: Exact Audio Copy v0.99pb4 (xuncat configuration)
+- Verified losslessness: Trader's Little Helper 2.7.0 (build 172) > AuCDtect v0.8.2 (detect mode: 0) > Audacity 2.0.3 (split into tracks)
+
+Thanks should go to skipvacuum for sharing this rare recording and rappard for extracing the audio and sending it to me to track and seed.
+
+Features their only known live performance of "Hallowed Be Thy Name". Also first known performance of "Green Light".
+
+http://sonicyouth.com/main/index.php
+http://www.sonicyouth.com/mustang/cc/092585.html

@@ -1,0 +1,50 @@
+Soundgarden
+Lollapalooza Argentina 2014
+Hipodromo de San Isidro
+Buenos Aires, Argentina
+April.02nd.2014
+
+Taper: Rony Kohn (rony_kohn"at"yahoo.co.uk)
+Source: MM-MCSM-4 > MM-MBM with bass roll off @ 107 Hz > Edirol R-09HR @ 24 bits /44 KHZ
+Transfer: SD Reader > CEP (Graphic EQ) > WAV @ 16 bits > FLAC (Level 8)
+
+Disc I
+
+01 Intro
+02 Searching With My Good Eye Closed
+03 Spoonman
+04 Flower
+05 Outshined
+06 Black Hole Sun
+07 Jesus Christ Pose
+08 Like Suicide
+
+Disc II
+
+01 Been Away Too Long
+02 The Day I Tried to Live
+03 My Wave
+04 Superunknown
+05 Blow Up The Outside World
+06 Fell On Black Days
+07 Burden In My Hand
+08 Rusty Cage
+09 Beyond The Wheel
+
+sg2014-04-02d1t00.flac:31ebfadc9b284c9af45779e97b79001d
+sg2014-04-02d1t01.flac:858d2b1995079ae17b2859bf466d2b09
+sg2014-04-02d1t02.flac:34d497e784bde4273fcace26247e5031
+sg2014-04-02d1t03.flac:a1c6f82e1a8b1544dc70c193c20b2582
+sg2014-04-02d1t04.flac:d30205e3bc574a1ab787adefa6033d90
+sg2014-04-02d1t05.flac:e9345ae7416e6f50a76e5f3f151b4683
+sg2014-04-02d1t06.flac:981f90005cd083dca49013c035e9305b
+sg2014-04-02d1t07.flac:09eff1531a6615d7f853095f979e3f98
+sg2014-04-02d2t01.flac:8a7c4c1ad0087b55ba8b746b6e08ed01
+sg2014-04-02d2t02.flac:09d48cd4736c6e1edbc7356dfb72ff9a
+sg2014-04-02d2t03.flac:aa731ed542f916c54a310d058665b334
+sg2014-04-02d2t04.flac:25a0556df7b894e98601abd9579f260a
+sg2014-04-02d2t05.flac:0c95524a259b45a3bc3a6682b5ac4886
+sg2014-04-02d2t06.flac:5eb2556fce3346715d676c7d013d81e8
+sg2014-04-02d2t07.flac:7b25041175dd6d141bd5c699bf123bd0
+sg2014-04-02d2t08.flac:01aca934aa52f420bccbe7891d417420
+sg2014-04-02d2t09.flac:49c382a68a9a10bb26574a6ff57ba52f

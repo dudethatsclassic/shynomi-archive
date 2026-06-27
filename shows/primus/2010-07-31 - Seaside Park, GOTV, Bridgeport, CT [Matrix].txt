@@ -1,0 +1,64 @@
+Primus
+
+2010/07/31
+
+Seaside Park - Gathering Of The Vibes
+
+Bridgeport, CT, US
+
+3 Source Matrix
+
+sources:
+
+Source 1: WPKNsimulcast>harmon/kardonavr-125receiver>hd-p224/96>pc>cdwave>
+adobeaudition2.016/44.1>flac>.wav
+
+Recorded by Rob Berger
+
+Source 2: MBHO603a/KA200N>FostexFR2-LE>.wav>.flac>.wav
+
+Recorded by toaster
+
+Source 3: CSB>BatBoxW/FilterON>MT@16/48>.wav>AdobeAuditio2.0>.wav
+
+Recorded by sanpablobay
+
+Matrix Info: .wavFiles>AdobeAudtion2.0>.wav>ffe>.flac
+
+Matrix by sanpablobay
+
+*Notes: DJ talk on FM source was faded out. Gaps in Frizzle Fry and Tweekers on 
+FM source were obviously filled in.
+
+Setlist:
+
+CD1:
+
+01.Intro Music
+02.To Defy The Laws Of Tradition
+03.In The Flesh
+04.Here Come The Bastards
+05.American Life
+06.Duchess And The Proverbial Mind Spread
+07.Coattails Of A Deadman
+08.Bob
+09.Jerry Was A Race Car Driver
+10.Over The Electric Grapevine
+
+CD2:
+
+01:Behind My Camel>Groundhog's Day
+02.Drums w/Whamola Jam
+03.Eleven
+04.Frizzle Fry
+05.Harold Of The Rocks
+06.-Crowd-
+
+Encore:
+
+07.Over The Falls
+08.Those Damn Blue Collar Tweekers
+
+*Do Not Sell*
+*Do Not Remaster*
+*Do Not Distribute In Lossy Formats*

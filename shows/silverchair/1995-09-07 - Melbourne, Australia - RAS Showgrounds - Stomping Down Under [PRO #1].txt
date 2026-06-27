@@ -1,0 +1,28 @@
+SILVERCHAIR
+September 07, 1995
+Radio City Music Hall (MTV Video Music Awards)
+New York City, NY, US
+
+DISC #1/1 (09:57)
+-----------------
+01) Tomorrow
+02) Pure Massacre
+
+GENERATION
+-----------------
+CD [Stomping Down Under] -> WAV [44.1kHz] -> FLAC [Level 8]
+
+SOURCE
+-----------------
+soundboard -> unknown
+
+TRANSFER
+-----------------
+Sony DVD-ROM DDU1621 -> Exact Audio Copy v 0.95 BETA -> FLAC Frontend 1.7.1
+
+MD5 FINGERPRINTS
+-----------------
+18fcd93f49359b733b95ab0a518a6246 *silverchair1995-09-07t01.flac
+8cfa47497b1b1069307995ba7da92ec1 *silverchair1995-09-07t02.flac
+
+PLEASE DO NOT ENCODE TO MP3 OR SELL!

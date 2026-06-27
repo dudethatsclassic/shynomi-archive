@@ -1,0 +1,53 @@
+SOUNDGARDEN
+March 02, 1990
+Colorado Indoor Sports Complex 
+Denver, CO
+
+DISC #1/1 (50:24)
+-----------------
+01. intro  
+02. Flower
+03. Hands All Over - American Women [Guess Who cover] - Hands All Over
+04. Gun 
+05. Loud Love
+06. Get On The Snake
+07. Big Dumb Sex
+08. Full On Kevin's Mom
+09. I Awake
+10. Big Bottom [Spinal Tap cover] 
+11. Beyond The Wheel
+
+
+GENERATION
+-----------------
+ANA(M) -> WAV [24bit/96kHz] -> WAV [16bit/44.1kHz] -> FLAC [Level 8]
+
+
+SOURCE (AUD)
+-----------------
+Internal microphone > Realistic Stereo-Mate SCP-29
+
+
+TRANSFER
+-----------------
+Nakamichi DR-3 -> 0.75 meter RCA Gold to RCA Gold Dubbel Shielded OFC cables -> Steinberg VSL 2020 analog-in -> Wavelab 5.0.1.240 -> r8brain 1.9 -> Trader Little Helper 2.4.1
+
+
+MD5 FINGERPRINTS
+-----------------
+b32d8308da5de0abcbe169e63210454c *soundgarden030290aud001.flac
+9ce7f0c4da67846ddd58ec2805f9d5c5 *soundgarden030290aud002.flac
+d65ce4d50c0a1cec821c8d4235d11229 *soundgarden030290aud003.flac
+04d15fb05bbda5af3488f87fb3f1e7fe *soundgarden030290aud004.flac
+6a5b720fe6cb6d0ead66d933cea823dd *soundgarden030290aud005.flac
+a3a5f0bfef92404be961cf329f26d8db *soundgarden030290aud006.flac
+0581e97ecec99aa97bff245ef6e50ce9 *soundgarden030290aud007.flac
+8f69cd1273f9f2fdf723c0330f1ffffa *soundgarden030290aud008.flac
+9ef9b799e3598e696218b795eee6fda7 *soundgarden030290aud009.flac
+81c82b99cb9ae91b32008cd8064107d8 *soundgarden030290aud010.flac
+233af4ed7406a48c3fba51c4d7772216 *soundgarden030290aud011.flac
+
+
+Taped by Lantz B.
+Transferred by Desiderus [mudhoneytrader@gmail.com]
+PLEASE DO NOT ENCODE TO MP3 OR SELL!

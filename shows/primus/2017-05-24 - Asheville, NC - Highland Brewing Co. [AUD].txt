@@ -1,0 +1,57 @@
+Primus
+
+Highland Brewing Company
+
+Asheville, NC
+
+Wednesday May 24, 2017
+
+Taper:		George Wang <gewwang@yahoo.com>
+Source:		DPA 4023 > Tascam DR-100mkIII @ 24/96
+Location:	100 feet center
+
+WAV > FLAC:	.wav @ 24/96 > Audacity 2.1.2 (dither to 16/44.1)
+
+Disc One:
+
+01: Intro				-	02:09.00
+
+02: Those Damned Blue-Collar Tweekers	-	08:26.00
+
+03: Last Salmon Man			-	07:14.00
+
+04: Groundhog's Day			-	07:28.20
+
+05: American Life			-	10:57.20
+
+06: The Heckler				-	04:47.00
+
+07: Over The Falls			-	08:43.20
+
+08: Lee Van Cleef			-	04:07.35
+
+09: Jilly's On Smack			-	08:52.55
+
+10: Too Many Puppies			-	07:15.00
+
+
+Total:					-	70:00.00
+
+
+Disc Two:
+
+
+01: Over The Electric Grapevine		-	10:06.40
+
+02: (Beer Town) > My Name Is Mud	-	06:03.55
+
+03: Jerry Was A Race Car Driver		-	06:17.55
+
+04: Harold Of The Rocks			-	10:49.40
+
+05: Wynona's Big Brown Beaver		-	06:42.35
+
+Total:					-	40:00.00
+
+
+compiled by George Wang on 03-12-2018

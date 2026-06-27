@@ -1,0 +1,29 @@
+
+Pluralone
+Gila River Arena: Glendale, AZ
+May 9, 2022
+
+Source: CA-11s > Sony PCM-A10
+Location: Stone side
+Transfer: A10 > USB > Audacity > CDWave > xACT 2.50
+Edits/EQ: +4dB
+Taper: tapeworm(48)
+
+01 Intro
+02 Far Behind (EV solo)
+03 -Josh intro-
+04 Rat Bastards at Every Turn
+05 Mother Nature
+06 Backwater [Meat Puppets]
+07 Buttercup [Brad] (w/ Stone Gossard)
+08 Offend
+09 Give Peace a Chance [John Lennon]
+
+Notes: Opening for Pearl Jam. A10 set at 10. Raw transfer with no fades or EQ.
+
+Archive: Master WAV was archived @ 24-bit/44.1kHz and FLAC'd with cue sheet.
+
+Taped and transferred by tapeworm(48)
+Txt file compiled on 5/21/2022
+
+*** DO NOT REMASTER WITHOUT PERMISSION. DO NOT DISTRIBUTE IN LOSSY FORMATS. DO NOT SELL THIS RECORDING, TRADE IT FREELY ***

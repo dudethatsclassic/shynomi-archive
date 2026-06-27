@@ -1,0 +1,83 @@
+Primus & the Chocolate Factory
+Monday September 14th 2015
+Malkin Bowl/Stanley Park
+Vancouver BC Canada
+
+Taper:  LeifH
+Source 1:  CA-11 (cardioid) > CA-Bat2B > Zoom H1 @ 24/48 > Scandisk 16GB microSD card
+Transfer:  Memory card > PC via USB > Wavepad Master's Edition (edits, amplify, tracking, downsample to 16/44.1) > flac (8) via Frontend
+
+Set  I:  1:02:10
+00 intro
+01 American Life (aborted)
+02 Wynona's Big Brown Beaver
+03 Last Salmon Man
+04 Groundhog's Day
+05 The Toys Go Winding Down
+06 Frizzle Fry
+07 Over the Falls
+08 Lee Van Cleef
+09 My Name is Mud
+10 Jerry Was a Race Car Driver
+
+Set II:  1:13:39
+11 Hello Wonkites
+12 Candy Man
+13 Cheer Up Charlie
+14 Golden Ticket
+15 Lermaninoff
+16 Pure Imagination
+17 Oompa Augustus
+18 Semi-Wondrous Boat Ride
+19 Oompa Violet
+20 I Want It Now
+21 Oompa Veruca
+22 Wonkamobile, Wonkavision
+23 Oompa TV
+24 Farewell Wonkites
+
+25 Those Damned Blue-Collar Tweekers
+26 Duchess and the Provervial Mind Spread
+27 Here Comes the Bastards
+
+My 22nd Primus show.  There was a chance of rain this day but thankfully the sun came out in the afternoon and made for great weather.  The Malkin Bowl is based on the Hollywood Bowl, but a scaled down version.  There were a lot more children in the crowd than usual, which has been the trend with the Chocolate Factory tour.  I brought two recorders and two sets of mics, plus a heavy camera which I used to film the entire show.  
+
+The show began with Les playing American Life, which was aborted after 15 seconds.  Les said, "You know what?  Let's kick this sucker off," and he began playing Wynona's Big Brown Beaver instead.  The gates to the show opened at 5:30, and the show started around 7:00.  There was still a lot of empty space at the beginning but that quickly filled up after a couple songs.  When the first set began, it was nearing dusk, and by the end it was dark.  
+
+During Over The Falls, Les says sarcastically that, "it doesn't smell anything like marijuana in this facility...this is the least amount of marijuana I've ever smelled...we don't even have a smoke machine up here...unless Ler's barbecuing ribs over on his side of the stage."  Mike Dillon's birthday was the following day, so there was talk of that.  Les said, "Ler was going to play Happy Birthday, but Michael Jackson owns the copyright to that and fuck that guy."  It was also Ler's birthday on Saturday.
+
+This was the 5th Wonka show I saw and the material has grown on me a lot since the first one.  Still, I'm glad this is the last leg of the tour and hope the band can bring something new to the table relatively soon, or at least bring out some more rare songs like they were doing on the 3D tour.
+
+I've never seen Those Damned Blue-Collar Tweekers as an encore.  Duchess And The Proverbial Mind Spread and Here Come The Bastards featured the Fungi Ensemble, as with the second set of course.  During Here Come The Bastards, the visuals show an Oompa Loompa going to landmarks specific to the city they're playing, and trying on a sports team jersey.  
+
+I saw the Edmonton show a couple days earlier and ended up on the same flight back to Vancouver as Tim and Ler (and Brad).  I suggested to Tim that he bring back The 'Ol Diamond Back Sturgeon, to which he said, "Yeah we never touch that one."  
+
+fingerprints:
+00 - intro.flac:a099b88ed24e9b72225a4bb93d9ea527
+01 - American Life.flac:506d3d07605079286474836611206c2b
+02 - Wynona's Big Brown Beaver.flac:065fe0f03c593e5a05a245b2f791b5c9
+03 - Last Salmon Man.flac:e8d40bf8b2fc6d90b0846e04b5ca98a2
+04 - Groundhog's Day.flac:e6af5a3775bb4a2e0ddd294c6e575622
+05 - The Toys Go Winding Down.flac:d013947bf117870c8be823b7a73167cc
+06 - Frizzle Fry.flac:aaf193db9d6e850fc1431dbb122833b4
+07 - Over the Falls.flac:7cb6315fc4122fbb6857b9b26d682938
+08 - Lee Van Cleef.flac:2bbe9f38c5d99cc1ec3a599dda094482
+09 - My Name is Mud.flac:615816f42f36d15ce0acaade991f5849
+10 - Jerry Was a Race Car Driver.flac:4ccbd507bfca981cb126b2e4a107ac14
+11 - Hello Wonkites.flac:5bfdc3b46a0c3c163baea54c237fe4e3
+12 - Candy Man.flac:00a3393af4edf8a3d66391d4085cfe87
+13 - Cheer Up Charlie.flac:c07f427c6c93ddb338c3410339d278a5
+14 - Golden Ticket.flac:02fd3b55134a83a8b572c6307ff98778
+15 - Lermaninoff.flac:d6cd77dcd4261a77534f18d4a389bf09
+16 - Pure Imagination.flac:62a0ae68fb1c4df14e9b565604ddc944
+17 - Oompa Augustus.flac:30eef85435d8cad42a09a1ea363cf105
+18 - Semi Wondrous Boat Ride.flac:05df9af5ce51b4ef41bded2ad25584b6
+19 - Oompa Violet.flac:a4e0d2578d67a2e6b48cb1a3ad5ee37c
+20 - I Want It Now.flac:64d8d03aedce6bf7eafee59c246d2d90
+21 - Oompa Veruca.flac:6b3a4dd4a00e1b481b760ec4c2e8a0a9
+22 - Wonkamobile, Wonkavision.flac:c190811c0e6b3a8daf4f4e0a3332a33e
+23 - Oompa TV.flac:72579776690abdc7a1a1770f4a100e2f
+24 - Farewell Wonkites.flac:6c40211341fb5b73514d89e3c4a6df86
+25 - Those Damned Blue-Collar Tweekers.flac:ecb0b25b708f174fc10d4a69f8f11273
+26 - Duchess and the Proverbial Mindspread.flac:1d80302dbd2f1aae7ee195e566e1c565
+27 - Here Come the Bastards.flac:af025f5c376f471c1baf906caa6da71a

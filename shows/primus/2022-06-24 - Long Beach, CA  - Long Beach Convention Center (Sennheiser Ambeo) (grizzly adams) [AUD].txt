@@ -1,0 +1,52 @@
+Primus 
+June 24th, 2022 (Friday)
+Long Beach Convention Center
+Long Beach, California
+
+Recorded by Grizzly Adams
+Source:  Sennheiser Ambeo Binaural Headset > iPhone > Apogee MetaRecorder
+Transfer:  .WAV > RX9 > Wavepad > flac (8) via TLH
+
+Setlist:  02:14:53
+00 intro
+01 Welcome To This World > 
+02 My Name Is Mud > 
+03 Jerry Was A Race Car Driver
+04 Mrs. Blaileen
+05 The Ol' Diamondback Sturgeon (Fisherman's Chronicles Part 3)
+06 Conspiranoia
+07 Jilly's On Smack
+08 Fisticuffs
+09 Harold of the Rocks
+-intermission-
+10 A Farewell To Kings
+11 Xanadu
+12 Closer To The Heart
+13 Cinderella Man
+14 Madrigal
+15 Cygnus X-1
+-encore-
+16 Follow The Fool
+17 Groundhog's Day
+18 Southbound Pachyderm
+
+fingerprints:
+Primus2022-06-24t00 - intro.flac:a415df0b936a9ca010a93d6df274fb0c
+Primus2022-06-24t01 - Welcome To This World.flac:ae972a95f7399656bd469752c10bffd0
+Primus2022-06-24t02 - My Name Is Mud.flac:fed5d2e15a49d563fcbe5e50b25b1795
+Primus2022-06-24t03 - Jerry Was A Race Car Driver.flac:b779f2bc20066058bf4e648a145004c5
+Primus2022-06-24t04 - Mrs. Blaileen.flac:a811a0d750a909b70b221fa8cd32b0ce
+Primus2022-06-24t05 - The Ol' Diamondback Sturgeon.flac:4fea51ada8050ea2441eb87b568677d8
+Primus2022-06-24t06 - Conspiranoia.flac:577503da1e8c40847003c9789a506e20
+Primus2022-06-24t07 - Jilly's on Smack.flac:6aed78ae706b04567b2e138332959e9d
+Primus2022-06-24t08 - Fisticuffs.flac:eecd88baf9c81b042a16141249e0f0bb
+Primus2022-06-24t09 - Harold of the Rocks.flac:acf60eca6bbe8de376f6ebf06a9d9480
+Primus2022-06-24t10 - A Farewell To Kings.flac:c1bba4806c56327192c6975fcd248fba
+Primus2022-06-24t11 - Xanadu.flac:946aab18a2f8ed19c0cad5705aab94c4
+Primus2022-06-24t12 - Closer To The Heart.flac:fabe7e91326e92d2cdd5cf80e0d5a822
+Primus2022-06-24t13 - Cinderella Man.flac:c893b98f05636b6c22260c2628548da9
+Primus2022-06-24t14 - Madrigal.flac:4e7884a697ee0e768a12dc0bc29bcfb0
+Primus2022-06-24t15 - Cygnus X-1.flac:a1073da18b4b08e52fcd7a01d313a3e4
+Primus2022-06-24t16 - Follow The Fool.flac:7c92c6f7b7bef645558931808a5856dc
+Primus2022-06-24t17 - Groundhog's Day.flac:0b22cf6c985d1ad1546143374a279dff
+Primus2022-06-24t18 - Southbound Pachyderm.flac:23b1d7a91fe058a3548ea5148a824d34

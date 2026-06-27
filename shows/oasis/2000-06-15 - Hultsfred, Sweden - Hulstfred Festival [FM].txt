@@ -1,0 +1,21 @@
+auCDtect: CD records authenticity detector, version 0.8.2
+Copyright (c) 2004 Oleg Berngardt. All rights reserved.
+Copyright (c) 2004 Alexander Djourik. All rights reserved.
+
+Detect mode (0..40 with 0 = most accurate):  8 (default)
+
+
+01 - Go let it out.wav:  source of track cannot be qualified.
+02 - Who feels love.wav:  source of track cannot be qualified.
+03 - Supersonic.wav:  source of track cannot be qualified.
+04 - Shakermaker.wav:  source of track cannot be qualified.
+05 - Gas panic!.wav:  source of track cannot be qualified.
+06 - Roll with it.wav:  source of track cannot be qualified.
+07 - Wonderwall.wav:  source of track cannot be qualified.
+08 - Cigarettes & Alcohol.wav:  source of track cannot be qualified.
+09 - Live forever.wav:  source of track cannot be qualified.
+10 - Rock 'n' Roll Star.wav:  source of track cannot be qualified.
+
+No errors occured.
+
+Test for MPEG log saved to file.

@@ -1,0 +1,60 @@
+Chris Cornell 2008-10-29
+The Catalyst, Santa Cruz CA
+Schoeps CMC34->Aeta PSP3->r-09 (@24bit 48Khz)->USB reader->cool edit pro 2.1 (fades, resample, ~3 db amplification) -> cdwav ->flac frontend (lvl8)
+
+Disc I
+
+01 Searching with my Good Eye Closed 
+02 Gasoline 
+03 You know my Name 
+04 No such Thing 
+05 Flutter Girl 
+06 When I'm Down 
+07 Ground Zero
+08 Set it Off 
+09 Dandeleon
+10 Wide Awake
+11 Overfloater (partial) - > happy birthday
+12 Like a Stone
+13 Doesn't Remind Me
+14 Blow up the Outside
+15 Watch Out
+
+Disc II
+
+01 No Attention
+02 Moth
+03 Be Yourself
+04 Scream
+05 Reach Down (TotD) 
+06 <encore break)
+07 Gun (SG)
+08 Just like Suicide
+09 Black Hole Sun
+10 <exit music -- black hole sun (lounge style)>
+
+One of the "Non-Scream" shows from his recent tour . . . chris_cornell_20081029_cmc34_d01t01.flac:39dc49b20185b0039e621cc07e3c7ca3
+chris_cornell_20081029_cmc34_d01t02.flac:fde66992479b262bd5894e68ccdaa410
+chris_cornell_20081029_cmc34_d01t03.flac:37c929aac65f7d98fcf65e3f29b291cd
+chris_cornell_20081029_cmc34_d01t04.flac:0ea62046a8baf923ef09313319b5ca55
+chris_cornell_20081029_cmc34_d01t05.flac:a5f9ded6aa40ec89be1d376592f7b6d0
+chris_cornell_20081029_cmc34_d01t06.flac:4cf3c5bd3325b2c5958e6634e52290a4
+chris_cornell_20081029_cmc34_d01t07.flac:6dacd52977de3343c1cc2910f68aa691
+chris_cornell_20081029_cmc34_d01t08.flac:20f9c49b5bb605a27b34b22457747a31
+chris_cornell_20081029_cmc34_d01t09.flac:3c0164e435292fb41e9ceb863603a64e
+chris_cornell_20081029_cmc34_d01t10.flac:eb9e57147a6628598b745a17c90edb1b
+chris_cornell_20081029_cmc34_d01t11.flac:13a6f5424c4cd6ac3b9b217e35b94891
+chris_cornell_20081029_cmc34_d01t12.flac:af7f08e4e31b57b4013f3fd7735ee200
+chris_cornell_20081029_cmc34_d01t13.flac:96f0220987dde8948b2e4ba655d72c27
+chris_cornell_20081029_cmc34_d01t14.flac:7a1e0f4d96fce8866da5eb92f55977f3
+chris_cornell_20081029_cmc34_d01t15.flac:a3a5b40a3fbd58750c64f3612aa1a3c6
+chris_cornell_20081029_cmc34_d02t01.flac:a437de115030c89528cabcb0619ec09f
+chris_cornell_20081029_cmc34_d02t02.flac:151d52941b44027385e4e82df7a8eb49
+chris_cornell_20081029_cmc34_d02t03.flac:847d9ac430c7787f919a508d982693f4
+chris_cornell_20081029_cmc34_d02t04.flac:3405ea1cd3ab63728eacc5d684109162
+chris_cornell_20081029_cmc34_d02t05.flac:cf604793fe7d7bfc334393ca74af7cfd
+chris_cornell_20081029_cmc34_d02t06_eb.flac:ccbca6d56e7a35159881cc1fc8d3b45f
+chris_cornell_20081029_cmc34_d02t07.flac:837e68d40187bb0cc1c57eafbe19f82e
+chris_cornell_20081029_cmc34_d02t08.flac:68b93d486a6053259323dccb992f09a1
+chris_cornell_20081029_cmc34_d02t09.flac:122604360e1f6c47a3d5c75f832d1904
+chris_cornell_20081029_cmc34_d02t10.flac:711d868e74437209fa03541aa361bcc1

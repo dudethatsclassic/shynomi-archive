@@ -1,0 +1,22 @@
+Silverchair
+
+20th April 2007
+Triple J's 'One Night Stand'
+Sid Kallas Oval
+Cowra, New South Wales, Australia
+
+Broadcast on Double J's Dream Fest
+
+Intro
+Young Modern Station
+Without You
+The Greatest View
+The Door
+Reflections Of A Sound
+Straight Lines
+Freak
+If You Keep Losing Sleep
+
+Running Time: 34:23
+
+Digital Terrestrial Broadcast on 2019-06-22 (MPEG1 Layer 2 48kHz @ 256kb/s) Double J Radio > DVB-T > AVerMedia H727 PCIe Hybrid DVBT > DVBviewer > .mp2 > BeSliced 0.9b6 (.bat Normalize  lossless) > MP3DirectCut (editing/cut, no re-encoding) > .mp2 > TagScanner 6.0.35 (Tagging)

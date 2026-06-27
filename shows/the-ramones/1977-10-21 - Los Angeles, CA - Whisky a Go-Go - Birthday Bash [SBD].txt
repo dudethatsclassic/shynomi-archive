@@ -1,0 +1,116 @@
+shntool 3.0.4
+Copyright (C) 2000-2007 Jason Jordan <shnutils@freeshell.org>
+
+"Birthday Bash" bootleg flac
+
+    length     expanded size    cdr  WAVE problems  fmt   ratio  filename
+     4:46.18       50492780 B   ---   --   ---xx   flac  0.7186  01-Track-01.flac
+     4:27.63       47247020 B   ---   --   ---xx   flac  0.7207  02-Track-02.flac
+     3:31.00       37220444 B   ---   --   ---xx   flac  0.7192  03-Track-03.flac
+     2:32.08       26831660 B   ---   --   ---xx   flac  0.7143  04-Track-04.flac
+     1:36.38       17023820 B   ---   --   ---xx   flac  0.7157  05-Track-05.flac
+     4:32.08       47999660 B   ---   --   ---xx   flac  0.7278  06-Track-06.flac
+     1:43.73       18340940 B   ---   --   ---xx   flac  0.7317  07-Track-07.flac
+     3:15.61       34541516 B   ---   --   ---xx   flac  0.7063  08-Track-08.flac
+     2:20.15       24731324 B   ---   --   ---xx   flac  0.6854  09-Track-09.flac
+     3:25.13       36192620 B   ---   --   ---xx   flac  0.6992  10-Track-10.flac
+     1:49.11       19253516 B   ---   --   ---xx   flac  0.6930  11-Track-11.flac
+     4:02.08       42707660 B   ---   --   ---xx   flac  0.6975  12-Track-12.flac
+     1:27.40       15440924 B   ---   --   ---xx   flac  0.6369  13-Track-13.flac
+     2:01.06       21358556 B   ---   --   ---xx   flac  0.7033  14-Track-14.flac
+     3:47.13       40073420 B   ---   --   ---xx   flac  0.7044  15-Track-15.flac
+     1:14.05       13065404 B   ---   --   ---xx   flac  0.6662  16-Track-16.flac
+     3:53.43       41202380 B   ---   --   ---xx   flac  0.7034  17-Track-17.flac
+    50:25.48      533723644 B                            0.7070  (17 files)
+
+
+"Birthday Bash" bootleg wav
+
+    length     expanded size    cdr  WAVE problems  fmt   ratio  filename
+     4:46.18       50492780 B   ---   --   -----    wav  1.0000  01-Track-01.wav
+     4:27.63       47247020 B   ---   --   -----    wav  1.0000  02-Track-02.wav
+     3:31.00       37220444 B   ---   --   -----    wav  1.0000  03-Track-03.wav
+     2:32.08       26831660 B   ---   --   -----    wav  1.0000  04-Track-04.wav
+     1:36.38       17023820 B   ---   --   -----    wav  1.0000  05-Track-05.wav
+     4:32.08       47999660 B   ---   --   -----    wav  1.0000  06-Track-06.wav
+     1:43.73       18340940 B   ---   --   -----    wav  1.0000  07-Track-07.wav
+     3:15.61       34541516 B   ---   --   -----    wav  1.0000  08-Track-08.wav
+     2:20.15       24731324 B   ---   --   -----    wav  1.0000  09-Track-09.wav
+     3:25.13       36192620 B   ---   --   -----    wav  1.0000  10-Track-10.wav
+     1:49.11       19253516 B   ---   --   -----    wav  1.0000  11-Track-11.wav
+     4:02.08       42707660 B   ---   --   -----    wav  1.0000  12-Track-12.wav
+     1:27.40       15440924 B   ---   --   -----    wav  1.0000  13-Track-13.wav
+     2:01.06       21358556 B   ---   --   -----    wav  1.0000  14-Track-14.wav
+     3:47.13       40073420 B   ---   --   -----    wav  1.0000  15-Track-15.wav
+     1:14.05       13065404 B   ---   --   -----    wav  1.0000  16-Track-16.wav
+     3:53.43       41202380 B   ---   --   -----    wav  1.0000  17-Track-17.wav
+    50:25.48      533723644 B                            1.0000  (17 files)
+
+
+joined wav
+
+    length     expanded size    cdr  WAVE problems  fmt   ratio  filename
+    50:25.48      533722940 B   ---   --   -----    wav  1.0000  joined.wav
+    50:25.48      533722940 B                            1.0000  (1 file)
+
+
+retracked wav
+    length     expanded size    cdr  WAVE problems  fmt   ratio  filename
+     0:39.35        6961964 B   ---   --   -----    wav  1.0000  ramones1977-10-21t01.wav
+     1:49.66       19382876 B   ---   --   -----    wav  1.0000  ramones1977-10-21t02.wav
+     2:29.02       26288348 B   ---   --   -----    wav  1.0000  ramones1977-10-21t03.wav
+     2:07.53       22527500 B   ---   --   -----    wav  1.0000  ramones1977-10-21t04.wav
+     2:10.17       22972028 B   ---   --   -----    wav  1.0000  ramones1977-10-21t05.wav
+     1:53.06       19947356 B   ---   --   -----    wav  1.0000  ramones1977-10-21t06.wav
+     1:34.52       16703948 B   ---   --   -----    wav  1.0000  ramones1977-10-21t07.wav
+     2:33.29       27057452 B   ---   --   -----    wav  1.0000  ramones1977-10-21t08.wav
+     1:50.64       19554572 B   ---   --   -----    wav  1.0000  ramones1977-10-21t09.wav
+     2:22.34       25128812 B   ---   --   -----    wav  1.0000  ramones1977-10-21t10.wav
+     1:55.34       20366012 B   ---   --   -----    wav  1.0000  ramones1977-10-21t11.wav
+     2:12.72       23454188 B   ---   --   -----    wav  1.0000  ramones1977-10-21t12.wav
+     2:49.38       29901020 B   ---   --   -----    wav  1.0000  ramones1977-10-21t13.wav
+     2:17.36       24251516 B   ---   --   -----    wav  1.0000  ramones1977-10-21t14.wav
+     1:45.63       18670220 B   ---   --   -----    wav  1.0000  ramones1977-10-21t15.wav
+     1:39.30       17534204 B   ---   --   -----    wav  1.0000  ramones1977-10-21t16.wav
+     1:49.05       19239404 B   ---   --   -----    wav  1.0000  ramones1977-10-21t17.wav
+     1:31.00       16052444 B   ---   --   -----    wav  1.0000  ramones1977-10-21t18.wav
+     2:35.24       27398492 B   ---   --   -----    wav  1.0000  ramones1977-10-21t19.wav
+     1:23.25       14700044 B   ---   --   -----    wav  1.0000  ramones1977-10-21t20.wav
+     2:01.10       21367964 B   ---   --   -----    wav  1.0000  ramones1977-10-21t21.wav
+     1:32.37       16315868 B   ---   --   -----    wav  1.0000  ramones1977-10-21t22.wav
+     2:00.03       21175100 B   ---   --   -----    wav  1.0000  ramones1977-10-21t23.wav
+     1:25.60       15135164 B   ---   --   -----    wav  1.0000  ramones1977-10-21t24.wav
+     2:04.58       22010060 B   ---   --   -----    wav  1.0000  ramones1977-10-21t25.wav
+     1:48.32       19126508 B   ---   --   -----    wav  1.0000  ramones1977-10-21t26.wav
+    50:22.60      533223064 B                            1.0000  (26 files)
+
+
+retracked flac
+    length     expanded size    cdr  WAVE problems  fmt   ratio  filename
+     0:39.35        6961964 B   ---   --   ---xx   flac  0.5690  ramones1977-10-21t01.flac
+     1:49.66       19382876 B   ---   --   ---xx   flac  0.6574  ramones1977-10-21t02.flac
+     2:29.02       26288348 B   ---   --   ---xx   flac  0.6531  ramones1977-10-21t03.flac
+     2:07.53       22527500 B   ---   --   ---xx   flac  0.6523  ramones1977-10-21t04.flac
+     2:10.17       22972028 B   ---   --   ---xx   flac  0.6463  ramones1977-10-21t05.flac
+     1:53.06       19947356 B   ---   --   ---xx   flac  0.6361  ramones1977-10-21t06.flac
+     1:34.52       16703948 B   ---   --   ---xx   flac  0.6396  ramones1977-10-21t07.flac
+     2:33.29       27057452 B   ---   --   ---xx   flac  0.6296  ramones1977-10-21t08.flac
+     1:50.64       19554572 B   ---   --   ---xx   flac  0.6279  ramones1977-10-21t09.flac
+     2:22.34       25128812 B   ---   --   ---xx   flac  0.6439  ramones1977-10-21t10.flac
+     1:55.34       20366012 B   ---   --   ---xx   flac  0.6524  ramones1977-10-21t11.flac
+     2:12.72       23454188 B   ---   --   ---xx   flac  0.6367  ramones1977-10-21t12.flac
+     2:49.38       29901020 B   ---   --   ---xx   flac  0.6351  ramones1977-10-21t13.flac
+     2:17.36       24251516 B   ---   --   ---xx   flac  0.6121  ramones1977-10-21t14.flac
+     1:45.63       18670220 B   ---   --   ---xx   flac  0.6174  ramones1977-10-21t15.flac
+     1:39.30       17534204 B   ---   --   ---xx   flac  0.6267  ramones1977-10-21t16.flac
+     1:49.05       19239404 B   ---   --   ---xx   flac  0.6156  ramones1977-10-21t17.flac
+     1:31.00       16052444 B   ---   --   ---xx   flac  0.6199  ramones1977-10-21t18.flac
+     2:35.24       27398492 B   ---   --   ---xx   flac  0.6119  ramones1977-10-21t19.flac
+     1:23.25       14700044 B   ---   --   ---xx   flac  0.5620  ramones1977-10-21t20.flac
+     2:01.10       21367964 B   ---   --   ---xx   flac  0.6258  ramones1977-10-21t21.flac
+     1:32.37       16315868 B   ---   --   ---xx   flac  0.6311  ramones1977-10-21t22.flac
+     2:00.03       21175100 B   ---   --   ---xx   flac  0.6320  ramones1977-10-21t23.flac
+     1:25.60       15135164 B   ---   --   ---xx   flac  0.5870  ramones1977-10-21t24.flac
+     2:04.58       22010060 B   ---   --   ---xx   flac  0.6278  ramones1977-10-21t25.flac
+     1:48.32       19126508 B   ---   --   ---xx   flac  0.6196  ramones1977-10-21t26.flac
+    50:22.60      533223064 B                            0.6288  (26 files)

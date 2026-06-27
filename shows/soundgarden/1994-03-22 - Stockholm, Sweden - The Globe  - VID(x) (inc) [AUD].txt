@@ -1,0 +1,26 @@
+SOUNDGARDEN
+March 22, 1994
+The Globe
+Stockholm, Sweden
+
+Source: unknown audience video
+Lineage: VID(x) > lossless 2020 transfer > .avi file > audio extracted in VLC > tracksplit using CDWAV > FLAC (8) 
+Quality: 6.5
+Time: 64:00
+
+Setlist:
+01. intro (Night Surf)
+02. Jesus Christ Pose
+03. Spoonman
+04. Let Me Drown
+05. Mailman
+06. The Day I Tried to Live
+07. My Wave
+08. Room A Thousand Years Wide
+09. Black Hole Sun
+10. Searching With My Good Eye Closed
+11. Superunknown
+12. Rusty Cage 
+13. Mind Riot (cuts out)
+
+Notes: The video ends about halfway through the show when security catches the taper. 

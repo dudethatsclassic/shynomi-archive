@@ -1,0 +1,15 @@
+Soundgarden
+2014.06.04
+The Tonight Show Starring Jimmy Fallon
+New York, NY, USA
+
+HDTV 1080i Transport Stream
+
+Source: OTA Broadcast > Capture Card > ts > videoRedo > ts
+Capped By: vht
+
+01: Spoonman
+
+Video: MPEG2 Video 1920x1080 29.97fps [V: mpeg2 main, yuv420p, 1920x1080]
+Audio: Dolby AC3 48000Hz 6ch 384kbps [A: English [eng] (ac3, 48000 Hz, 5.1, 384 kb/s)]
+Audio: Dolby AC3 48000Hz stereo 192kbps [A: Spanish [spa] (ac3, 48000 Hz, stereo, 192 kb/s) [visual impaired]]

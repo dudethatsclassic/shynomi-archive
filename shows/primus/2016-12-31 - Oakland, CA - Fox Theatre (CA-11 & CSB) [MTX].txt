@@ -1,0 +1,49 @@
+Primus - Silver Anniversary New Year's Eve Show
+December 31st, 2016 (Saturday)
+Fox Theatre
+Oakland, California
+
+2 Source Matrix
+
+Source 1:  CA-11 (cardioid) > Bat2B > Sony PCM M10 @ 24/48 by LeifH [2016#72] - centre floor, second rail
+Source 2:  CSB > 9v battery box > Tascam DR-22WL @ 16/48 by RockTheMullet - front row, stage right
+Transfer:  .WAV > Wavepad Masters Edition (edits, mixdown, tracking) > flac (8) via TLH
+
+Setlist:  02:03:58
+01 intro - Clown Dream
+02 YYZ > John The Fisherman
+03 Those Damned Blue-Collar Tweekers > Cygnus X-1
+04 Groundhog's Day
+05 Last Salmon Man
+06 Frizzle Fry
+07 Fisticuffs (with Skerik)
+08 Here Come The Bastards
+09 Sgt. Baker > Hello Skinny
+10 Passage To Bangkok > Semi-Wondrous Boatride > NYE Countdown
+11 Man With The Silver Cock Ring
+12 Jilly's On Smack
+13 Eleven
+14 American Life
+15 My Name Is Mud
+16 Jerry Was A Race Car Driver
+-encore-
+17 Southbound Pachyderm
+
+fingerprints:
+Primus20161231Matrix01 - intro.flac:8fc181c14d28d93a78ae38707a340211
+Primus20161231Matrix02 - John The Fisherman.flac:19c74184179a680a7d73e48d630d0751
+Primus20161231Matrix03 - Those Damned Blue Collar Tweekers.flac:d3ce45dbcebd704bde84844714ed1be2
+Primus20161231Matrix04 - Groundhog's Day.flac:697b5c3806d3403479ad8aa28ce51592
+Primus20161231Matrix05 - Last Salmon Man.flac:4d51d1657772d4e45e1a7876c514f2fe
+Primus20161231Matrix06 - Frizzle Fry.flac:758d92ff70ff07eef9236047120c153b
+Primus20161231Matrix07 - Fisticuffs.flac:7ae06be51a33bac0cf8e6236e5b7a919
+Primus20161231Matrix08 - Here Come The Bastards.flac:c26433abcb1e493e61abd05f2b3ab943
+Primus20161231Matrix09 - Sgt. Baker-Hello Skinny.flac:e9ec0f0b4a910e911fbbeb7b13b78a43
+Primus20161231Matrix10 - Semi Wondrous Boatride.flac:c73687530f663ba8f5af53d6d40ff761
+Primus20161231Matrix11 - Man With The Silver Cock Ring.flac:aafc2d58f59736ae8067ec9270d19d61
+Primus20161231Matrix12 - Jilly's On Smack.flac:ee5afc930fc2485449a4bd8ed4acc042
+Primus20161231Matrix13 - Eleven.flac:58b53a69da96dc3af37eeb821c775743
+Primus20161231Matrix14 - American Life.flac:bb700497c470f3381342d5a13f248443
+Primus20161231Matrix15 - My Name Is Mud.flac:e9fcc48b3ea6cbff485b9514ac76717e
+Primus20161231Matrix16 - Jerry Was A Racecar Driver.flac:c0f69896d518aab2b850482ca7821cdf
+Primus20161231Matrix17 - Soutbound Pachyderm.flac:54e0265f82953425ab3a6155557cdbe3

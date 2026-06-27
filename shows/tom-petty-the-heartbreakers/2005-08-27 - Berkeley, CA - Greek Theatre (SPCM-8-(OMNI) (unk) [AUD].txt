@@ -1,0 +1,71 @@
+Tom Petty & the Heartbreakers
+Saturday August 27, 2005
+Greek Theatre, Berkeley CA
+
+
+   SPCM-8-(OMNI) > SPBM-6 > NJB3 >
+          USB > Sound Forge 7.0 > CD Wave Editor 6 > NERO Express (48k>44.1k) >
+          verified CDR Master > EAC > FLAC Frontend 5 
+
+
+
+
+CD One :
+=========
+
+01. Listen to Her Heart									04:47
+02. You Don't Know How It Feels								07:04
+03. Breakdown										06:32
+04. Don't Do Me Like That								03:43
+05. Free Fallin'									05:29
+06. Rip It Up										03:06
+07. I Won't Back Down									03:41
+08. Mary Jane's Last Dance								07:42
+09. I'm Cryin'										05:18
+10. -=+band intros+=-									02:28
+11. Handle Me with Care									04:20
+12. Honey Bee		        							06:31
+
+
+CD Two :
+=========
+
+01. Knockin' on Heaven's Door								05:02
+02. Melinda										08:57
+03. Learning to Fly									04:53
+04. Don't Come Around Here No More							06:21
+05. Refugee										05:14
+06. Runnin' Down a Dream								05:38
+07. -=+encore break+=-									03:03
+08. You Wreck Me									05:17
+09. Gloria										07:49
+10. American Girl									04:49
+
+
+
+
+petty05-08-27-d1tr01.flac:459626aed8af986e93c08e21ce69f42c
+petty05-08-27-d1tr02.flac:11f23fa200617c0aeeaafa561e6f4217
+petty05-08-27-d1tr03.flac:3bd50410ef802227c79b9530e291f098
+petty05-08-27-d1tr04.flac:4873d8c3e5724530959a9853e571eab4
+petty05-08-27-d1tr05.flac:8e02afcfed066c48e73b7b83092cea0a
+petty05-08-27-d1tr06.flac:b5aa65b657c45021fc0fafa33ad63bb5
+petty05-08-27-d1tr07.flac:4e8fa01065e21d815a62c52da66d6da2
+petty05-08-27-d1tr08.flac:c1fab88a53d5f3294187cc6874f3dc8c
+petty05-08-27-d1tr09.flac:9b43a65d7d19980963257a5f26944f71
+petty05-08-27-d1tr10.flac:2b88af0ff1cc499d4514a52b8c43b0f2
+petty05-08-27-d1tr11.flac:2214e249994a9152aaa56fa3e1c26af3
+petty05-08-27-d1tr12.flac:6b726fc33329af54b0fb9c683e51940e
+
+petty05-08-27-d2tr01.flac:c116b1f445898d25da2c484d52684b65
+petty05-08-27-d2tr02.flac:48e0294758f204e8b2b8cf7c290074a3
+petty05-08-27-d2tr03.flac:98fa5f6de880dd1af2664a887205061c
+petty05-08-27-d2tr04.flac:dd3518087420520a20fce97f0eb664be
+petty05-08-27-d2tr05.flac:5204920a80c1f2a5a5928c8d17751d60
+petty05-08-27-d2tr06.flac:48b10e7e3c9aa642db1d9d7fe32d1471
+petty05-08-27-d2tr07.flac:490f7bd3f05e1129dd0f03fadce2fc18
+petty05-08-27-d2tr08.flac:43a2573cc86e2b8b69fba350680bc4aa
+petty05-08-27-d2tr09.flac:bb43264ae24b20b2869201d87c3ef0a7
+petty05-08-27-d2tr10.flac:a97c8171f42d87d87203d307e6729cfa
+
+									

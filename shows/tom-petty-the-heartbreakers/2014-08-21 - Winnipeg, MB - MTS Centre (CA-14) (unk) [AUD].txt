@@ -1,0 +1,71 @@
+Tom Petty & The Heartbreakers
+MTS Centre
+Winnipeg Manitoba Canada
+August 21 2014
+
+Source: CA-14(cards) > CA9100 > ZoomH4n > SD 24/48
+Transfer: SD > iZotopeRX(gain, ozone4, resample, dither 16/44) > 
+CDWave(tracks) > Frontend(FLAC level 8) > TLH(ffp) > MD5sum
+
+Set List:
+
+01. So You Want To Be A Rock 'N Roll Star  (The Byrds)
+02. Mary Jane's Last Dance
+03. talk
+04. American Dream Plan B
+05. talk
+06. Into The Great Wide Open
+07. Forgotten Man
+08. I Won't Back Down
+09. Free Fallin'
+10. (I'm Not Your) Steppin' Stone  (Paul Revere & The Raiders)
+11. introductions
+12. A Woman In Love (It's Not Me)
+13. U Get Me High
+14. Rebels
+15. Willin'  (Little Feat)
+16. You're So Bad
+17. Learning To Fly
+18. Shadow People
+19. I Should Have Known It
+20. Refugee
+21. Runnin' Down A Dream
+22. encore break
+23. You Wreck Me
+24. American Girl
+
+    116 Minutes
+
+Band Members:
+Tom Petty    vocals, guitar
+Mike Campbell  guitar
+Benmont Tench III   keys
+Scott Thurston  guitar, piano, backing vocals, harmonica
+Ron Blair   bass
+Steve Ferrone   drums
+
+Fingerprints:
+TP2014-08-21tr01 - So You Want To Be A Rock 'N Roll Star.flac:a96b9d89eb119ec9ba809f0b18fda7db
+TP2014-08-21tr02 - Mary Jane's Last Dance.flac:d5d73b9429ddf8d630f9125f97ae3258
+TP2014-08-21tr03 - talk.flac:16ccc54ee2536fc59b076eecdb5de581
+TP2014-08-21tr04 - American Dream Plan B.flac:4ff7487101fcf693a06a8614f2bee794
+TP2014-08-21tr05 - talk.flac:a2899f872574f273ad7d57e090e33ec5
+TP2014-08-21tr06 - Into The Great Wide Open.flac:3460d91eb0d8a1faae773393c31a8857
+TP2014-08-21tr07 - Forgotten Man_164408.flac:a460b0f0d6035fddfc3a63ebfea9de43
+TP2014-08-21tr08 - I Won't Back Down.flac:ca63177723d3c5f2d5335aa96b2c4ec6
+TP2014-08-21tr09 - Free Fallin'.flac:b2723b86654a82a8cc54fdc2b5847766
+TP2014-08-21tr10 - I'm Not Your Steppin' Stone.flac:aa474c3c5ad3c6db476d009a2d0bcbdb
+TP2014-08-21tr11 - introductions.flac:c4e72b7934e064575a14ff1a2f57e793
+TP2014-08-21tr12 - A Woman In Love It's Not Me.flac:7798627d2e0ef6ffc64990e748f9b1d0
+TP2014-08-21tr13 - U Get Me High.flac:e409647451ddde03bcf205538d12c48f
+TP2014-08-21tr14 - Rebels.flac:014a12530992b75bbc50631f0e1ca174
+TP2014-08-21tr15 - Willin'.flac:d37d341bd2940739d9b37a526f46cd44
+TP2014-08-21tr16 - You're So Bad.flac:7aec2f708392d38a74fc48299959c0de
+TP2014-08-21tr17 - Learning To Fly.flac:5be70b961db41f423d31cb4a4ed417a7
+TP2014-08-21tr18 - Shadow People.flac:bbb69c307ad278a74fdd1173af83f3e7
+TP2014-08-21tr19 - I Should Have Known It.flac:b58df89d57b855b878ea98965fd74dc5
+TP2014-08-21tr20 - Refugee.flac:12dd0963b04880a025e82caea74c2f63
+TP2014-08-21tr21 - Runnin' Down A Dream.flac:87463dc4199cfec52b68b0446ec2d8a4
+TP2014-08-21tr22 - encore break.flac:ce062ab7231f843b3a5220488d9ef0fe
+TP2014-08-21tr23 - You Wreck Me.flac:7aae0b8e8e18826a8e4904144aea0248
+TP2014-08-21tr24 - American Girl.flac:1748c1d4a57949b2aa74b9c25a493b0f

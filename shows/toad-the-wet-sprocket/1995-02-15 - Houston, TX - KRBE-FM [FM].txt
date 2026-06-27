@@ -1,0 +1,11 @@
+TOAD THE WET SPROCKET 2/15/95
+KRBE-FM, HOUSTON, TX
+
+01 Dialog
+02 Fly From Heaven
+03 Dialog
+04 Jeremy
+05 All I Want
+06 Dialog
+
+GEAR USED: trade CDR > EAC > TLH > .flac files

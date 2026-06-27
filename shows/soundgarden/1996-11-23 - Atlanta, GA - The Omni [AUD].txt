@@ -1,0 +1,73 @@
+Soundgarden
+The Omni
+Atlanta, Georgia
+November 23, 1006
+
+Recorded by: unknown
+Transferred by: Steve “balldeep” Hagar
+Tracked by:  dandrew
+
+Source:  unknown mic > Sony D7 > DAT > analog 1g (Maxell XLII 100m tape)
+
+Transfer: 1g cassette > Denon 790R > Kenwood A-522 amplifier > Kenwood GE-622 Equalizer > .WAV @ 16 bit/44.1 kHz > Audacity 2.1.1 (tracking) > xAct 2.37 (encode to flac level 8, align sectors, ffp, md5)
+
+setlist:
+
+01. Spoonman
+02. Searching With My Good Eye Closed
+03. Let Me Drown
+04. Pretty Noose
+05. Burden In My Hand
+06. chat
+07. My Wave
+08. Ty Cobb
+09. noodling
+10. Black Hole Sun
+11. Outshined
+12. Rusty Cage
+13. Fell On Black Days
+14. Hester Skelter (The Beatles)
+15. Boot Camp 
+16. Blow Up The Outside World
+17. No Attention 
+18. Hands All Over
+19. Slaves & Bulldozers
+20. crowd noise
+21. Dusty
+22. Jesus Christ Pose
+
+show notes:
+
+this is an unknown DAT>unknown mics (most likely Core Sounds or Sonic Studios) 1g (XLII) I obtained in a trade with Brian D. got a good chunk of Soundgarden from him, nearly all of it spun from DAT clones to 1g analog.
+
+this tape had a layer of fluttering hiss at around -38 to -40db that I found annoying, so I gave Audacity's "noise reduction" a spin, and I think it turned out pretty fantastic. 
+
+normally, I don't mess with noise reduction, but when I do, it's always at -10db, vs. after the boost.  this seems to work much better than applying it when the levels are near 0.
+
+the other fortunate thing is that there was about 10 seconds of 'dead air' at the beginning of the analog (most of my tapes spun from DAT have this, I assume from the slower startup time for the heads of a DAT vs. analog)
+
+with that dead air (minus the click at the beginning when the safety tape ends), I was able to isolate ***just the hiss***, sample that, and apply it to the entire file.
+
+and by gum if there was no flutter at -60db pre-boost...yet I think the music retained its 'shape', if you will.
+
+as always, there are samples to see if you agree or disagree.
+
+a short show, Chris is being his usual good-mood sarcastic drunken self. 
+
+some great one-liners here, promise....
+
+there's a few more *uncirculated* Soundgarden gems yet to come...from all eras.
+
+
+he goes by dandrew. is there nothing that he won't throw together for me to re-present to you from my garbage can?
+
+
+as of yet, apparently not.
+
+time for me to go fuck off yet again....maybe someday, the last show will get torrented.
+
+and maybe monkeys will fly out of the proveribal butthole.
+
+stay tuned!!!
+
+---ballsdeep OUT!!!

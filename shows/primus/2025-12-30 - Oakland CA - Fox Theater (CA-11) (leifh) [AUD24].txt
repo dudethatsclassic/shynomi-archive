@@ -1,0 +1,67 @@
+Primus
+Tuesday December 30th, 2025
+Fox Theater
+1807 Telegraph Avenue
+Oakland, California
+
+Taper:  LeifH [2025#73b]
+Source:  CA-11 > A10
+Transfer:  PC via USB > RX9 > Wavepad > flac (8) via TLH
+
+Setlist:  02:15:23
+01 intro clown dream
+02 Those Damned Blue-Collar Tweekers > In The Mood [Glenn Miller]
+03 Dirty Drowning Man
+04 Groundhog's Day > Polka Dot Rose [Oysterhead]
+05 The Seven
+06 Ler solos
+07 Moron TV
+08 Pudding Time
+09 Harold of the Rocks
+-intermission-
+10 Seas of Cheese
+11 The Toys Go Winding Down
+12 Fisticuffs
+13 The Ol' Diamondback Sturgeon
+14 Bob
+15 Hello Skinny [The Residents]
+16 Welcome to This World
+17 My Name is Mud
+18 Jerry Was a Race Car Driver 
+-encore-
+19 Over the Falls
+20 Amos Moses [Jerry Reed]
+21 Here Come the Bastards
+
+Bonus:  44:36
+22 pre show Q & A
+
+Les Claypool - vocals, bass, synthesizer
+Larry "Ler" LaLonde - guitar
+John "Hoffer" Hoffman - drums
+
+Night one of two.  My 50th Primus show. 
+
+fingerprints:
+Primus2025-12-30t01 - intro.flac:f2ba11823ba8469cf0ba7017ff7e9dd4
+Primus2025-12-30t02 - Tweekers.flac:a276e6a17ee63a48a34ea5cbeaca742f
+Primus2025-12-30t03 - Drowning Man.flac:4ca4f9962a409f3650accff884d9b3f8
+Primus2025-12-30t04 - Groundhog.flac:d93229f208afab28d7455016fea48922
+Primus2025-12-30t05 - Seven.flac:ccc766eec151e49b02a6a0b6a8a51a19
+Primus2025-12-30t06 - Ler solos.flac:2f3f87779d3ac908ecd1ba4887fb93e1
+Primus2025-12-30t07 - Moron TV.flac:47c5a978d88fd14634f9b64a332cfb0e
+Primus2025-12-30t08 - Pudding Time.flac:c649910e14124f6d4733beb40172b02d
+Primus2025-12-30t09 - Harold.flac:c9539e3ed021e5a4d1d7ba441a67516e
+Primus2025-12-30t10 - Seas of Cheese.flac:fc7a6ca1c0e3b252dd0ef3bcb5112dd0
+Primus2025-12-30t11 - Toys.flac:9b1d0dd5b766f8bbd12ee03fbd38c524
+Primus2025-12-30t12 - Fisticuffs.flac:2017fb935237c801a36109c2869b4aed
+Primus2025-12-30t13 - Diamondback.flac:6c5c74c0aee3f19aeeecc61c27f62202
+Primus2025-12-30t14 - Bob.flac:481f3a28e4760f6d2e3b0f9e00252a22
+Primus2025-12-30t15 - Hello Skinny.flac:467034aa6f1b0f9cc4a94e2e2e4b758f
+Primus2025-12-30t16 - Welcome.flac:8f411bf24c209df37c8ef3487b28a5e0
+Primus2025-12-30t17 - My Name is Mud.flac:c4421c476ee032e8e1e53b8d29e7b749
+Primus2025-12-30t18 - Jerry.flac:4b67f61d339c8010e8d74b9da8c7f745
+Primus2025-12-30t19 - Over the Falls.flac:757537aaf8e6832b5727e3cf64881e99
+Primus2025-12-30t20 - Amos Moses.flac:39b137a664abbf700ff79e862b6370bc
+Primus2025-12-30t21 - Bastards.flac:b8fca36b272c882b2a23404e0396cb30
+Primus2025-12-30t22 - pre show QnA.flac:2b04719bee59b28120acd51dfe111352

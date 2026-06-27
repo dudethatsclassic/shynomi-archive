@@ -1,0 +1,64 @@
+AUDIOSLAVE
+August 3, 2003
+HiFi Buys Amphitheatre [Lollapalooza '03]
+Atlanta, GA, US
+
+SETLIST:
+-------------------
+00. intro/banter
+01. Exploder
+02. Set It Off
+03. Dark Globe [Syd Barrett acoustic cover, Chris solo]
+04. Light My Way
+05. Like a Stone
+06. Super Stupid [Funkadelic cover]
+07. Gasoline
+08. Shadow on the Sun
+09. (What's So Funny 'Bout) Peace, Love and Understanding [Brinsley Schwarz acoustic cover]
+10. I Am the Highway
+11. Seven Nation Army [The White Stripes cover]
+12. Show Me How to Live
+13. Cochise
+
+
+SOURCE:
+-------------------
+AUD #2 - Quality: 8.5
+Audio Technica AT-853 > Sony PCM-M1
+
+Recorded by: Cal Evans
+
+TRANSFER:
+-------------------
+Audio Technica AT-853's (with supplied cardioid caps) > Sound Professionals SP-SPSB-1 Power Module w/ Bass Roll-Off > Sony PCM-M1 > DAT(M) > Sony PCM-R500 Digital Audio Recorder > Edirol UA-25 USB Audio Interface > Adobe Audition CS > Adobe Audition 22.5 [post-production/mastering] > xACT 2.50 > FLAC [Level 8]
+
+GENERATION:
+-------------------
+DAT(M) [48kHz/16-bit] > WAV [48kHz/16-bit] > FLAC [Level 8]
+
+NOTES:
+-------------------
+- The phase is now directed in the middle, and that the bass was completely re-balanced in order to fix the bias offset, as well as to lower the bass overall.
+- Some de-clicking was applied during "Seven Nation Army" to make the recording less burdened by the crowd.
+
+
+FLAC FINGERPRINTS:
+-------------------
+audioslave2003-08-03-aud2-t00.flac:0e41ccf250469fe69baa54d72b5403ad
+audioslave2003-08-03-aud2-t01.flac:8c83d4f41fb046a301123afe31230a4f
+audioslave2003-08-03-aud2-t02.flac:f4ff8b7321548d33c8fff90cffbd5747
+audioslave2003-08-03-aud2-t03.flac:ef85af8a04ee63f2a7b3b387d0a02546
+audioslave2003-08-03-aud2-t04.flac:3d8faf9eb441c3f927bcbe528ec27c29
+audioslave2003-08-03-aud2-t05.flac:0e0afea762cf38647a80b92f9cda1bc8
+audioslave2003-08-03-aud2-t06.flac:8d10811dbbca442848ea00e7fa8ac91c
+audioslave2003-08-03-aud2-t07.flac:f2b8b9c880f8ce9d4910a0c02d5869a2
+audioslave2003-08-03-aud2-t08.flac:2d81c730fdf9f382cd6066c3ca45ff0f
+audioslave2003-08-03-aud2-t09.flac:803571fd389f0210008fc99ca8f494a5
+audioslave2003-08-03-aud2-t10.flac:32c57b0b8cad69ef6d4b39bc0d28f1f9
+audioslave2003-08-03-aud2-t11.flac:00f9382734672ea29a597b89462cd374
+audioslave2003-08-03-aud2-t12.flac:b37ecf39231f518a50bef996050a095b
+audioslave2003-08-03-aud2-t13.flac:ea53989a05b149cf539e6250e914723d
+
+
+Transferred and encoded by: Cal Evans & vibrioidxire
+PLEASE DO NOT DISTRIBUTE IN LOSSY FORMATS OR SELL!

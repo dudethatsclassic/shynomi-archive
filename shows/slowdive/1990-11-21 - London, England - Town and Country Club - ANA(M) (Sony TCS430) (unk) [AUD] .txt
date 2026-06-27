@@ -1,0 +1,15 @@
+Slowdive
+November 21, 1990
+London, Kentish Town, Town & Country Club, England
+
+lineage: master audience analogue cassette (sony tcs430 with clip on mic) > ? > flac > dime > pitch and speed fix, azimuth correction, eq > flac > dime (again)
+
+setlist:
+
+(tuning)
+Shine
+Catch The Breeze
+Beach Song
+Slowdive
+Morningrise
+She Calls

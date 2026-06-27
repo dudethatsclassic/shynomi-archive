@@ -1,0 +1,7 @@
+PRIMUS
+HOLLYWOOD,CA:HOLLYWOOD PALLADIUM
+11/23/93
+
+
+Cassette Master -> CDRW700 -> EAC -> Soundforge -> FLAC
+(some unremembered Sony recorder)

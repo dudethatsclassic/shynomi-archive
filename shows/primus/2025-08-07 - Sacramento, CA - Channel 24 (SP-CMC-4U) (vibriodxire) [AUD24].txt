@@ -1,0 +1,82 @@
+PRIMUS
+August 7, 2025
+Channel 24
+Sacramento, CA, US
+
+SETLIST:
+-------------------
+00. intro/banter -> Clown Dream [Danny Elfman song, P.A. tape]
+01. Those Damned Blue-Collar Tweekers
+02. Fisticuffs
+03. American Life [w/ "The Star Bangled Banner" intro tease]
+04. Little Lord Fentanyl
+05. Jilly's on Smack [w/ introductory guitar jam]
+06. The Toys Go Winding Down
+07. Bob's Party Time Lounge
+08. Shake Hands with Beef
+
+// INTERMISSION [omitted, seamless edit]:
+- Trailer for upcoming Primus documentary
+- Popeye the Sailor [1933 Fleischer Studios animated short]
+- Adventures of Popeye [1935 Fleischer Studios animated short]
+
+09. Frizzle Fry
+10. Follow the Fool
+11. Wynona's Big Brown Beaver
+12. The Antipop
+13. The Seven
+14. Over the Falls
+15. Amos Moses [Jerry Reed cover, w/ Bryan Kehoe on guitar]
+16. Welcome to This World [w/o last verse and chorus]
+17. My Name is Mud
+18. Over the Electric Grapevine
+19. John the Fisherman -> Pure Imagination [Leslie Bricusse & Anthony Newley song, P.A. tape]
+
+
+SOURCE:
+-------------------
+AUD #1 - Quality: 9.5
+Sound Professionals SP-CMC-4U > Sony PCM-A10
+
+Recorded by: vibrioidxire
+
+TRANSFER:
+-------------------
+Sound Professionals SP-CMC-4U (Audio Technica AT-U853's, with UE-H hypercardioid caps mod) > Sound Professionals SP-SPSB-10 Power Module > Sony PCM-A10 High-Resolution Digital Audio Recorder > Apple MacBook Pro (16-inch, 2021) > Adobe Audition 23.2 [post-production/mastering] > xACT 2.57
+
+GENERATION:
+-------------------
+WAV(M) [48kHz/24-bit] > FLAC [Level 8]
+
+NOTES:
+-------------------
+- Before "Amos Moses", Kehoe attempted to use a guitar that was gifted to him from Zakk Wylde the night before, but it kept failing due to a battery failure. He then switched to a Stratocaster on hand.
+- After "Over the Electric Grapevine", an excerpt from an episode of "So Many Roads: A Grateful Dead Podcast" was played. The excerpt was where a music fan, Hillary, describes that the "worst concert [she] ever saw was Primus".
+
+
+FLAC FINGERPRINTS:
+-------------------
+primus2025-08-07_AUD1_t00.flac:1f33987973d94da87d0227464e6a6543
+primus2025-08-07_AUD1_t01.flac:59f0339e12426500a1c9deff62ba4b76
+primus2025-08-07_AUD1_t02.flac:0e9cca425c382fb6e092adc25d3c993c
+primus2025-08-07_AUD1_t03.flac:ee5c46fdbaf70c2459295610240824ba
+primus2025-08-07_AUD1_t04.flac:5dafe6a9fbc05b14401791b601df762f
+primus2025-08-07_AUD1_t05.flac:92a4a305e275c89322232786fcea0363
+primus2025-08-07_AUD1_t06.flac:e3949b03e3d8ceb7b1bd5780acb95793
+primus2025-08-07_AUD1_t07.flac:6043468854f799b8571c695d8ae753b3
+primus2025-08-07_AUD1_t08.flac:91a238294b76acea214e926416e11359
+primus2025-08-07_AUD1_t09.flac:720c158b243ec8b67cfa22f06192f436
+primus2025-08-07_AUD1_t10.flac:765ecc09e59fbd4bd442d550ea7f3a39
+primus2025-08-07_AUD1_t11.flac:3087f9a7807ca96c31d22718c962b99b
+primus2025-08-07_AUD1_t12.flac:9b98046948e842178f096562af5affc1
+primus2025-08-07_AUD1_t13.flac:0d5ac5578ab147b1d5bfd2d6ac09a53d
+primus2025-08-07_AUD1_t14.flac:442b18a007a021f345e356d061d0d7e7
+primus2025-08-07_AUD1_t15.flac:3f7cbcffbc982179e21b20f5236f7b58
+primus2025-08-07_AUD1_t16.flac:fd2e91af9b3444ba6bc2382546a7df2d
+primus2025-08-07_AUD1_t17.flac:0092fb4a61cefdea834465bcae6037b4
+primus2025-08-07_AUD1_t18.flac:5bec2d51e2ef9970dca8b1a24441f524
+primus2025-08-07_AUD1_t19.flac:bb13560de579bcf64db052dea94da6bc
+
+
+Transferred and encoded by: vibrioidxire
+PLEASE DO NOT DISTRIBUTE IN LOSSY FORMATS OR SELL!

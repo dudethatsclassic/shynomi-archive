@@ -1,0 +1,87 @@
+Claypool Gold
+May 23rd, 2026 (Saturday)
+Marymoor Park
+Redmond, Washington
+
+Main Source:  Sennheiser Ambeo > iPhone > Apogee MetaRecorder - Recorded by Grizzly Adams
+Patch:  built in > Pixel > PCM Recorder - Recorded by esamirp
+Transfer:  .WAV > RX9 > Wavepad > flac (8) via TLH
+
+Setlist:  02:33:35
+[The Les Claypool Frog Brigade]
+101 intro
+102 Up on the Roof
+103 Amanitas
+104 David Makalaster (w/Larry LaLonde)
+105 D's Diner
+[The Claypool Lennon Delirium]
+201 intro
+202 WAP
+203 South of Reality
+204 Blood and Rockets
+205 Troll Bait
+206 Golden Egg of Empathy
+207 Astronomy Domine (with all bands)
+[Primus]
+301 intro
+302 Harold of the Rocks
+303 Last Salmon Man
+304 Dirty Drowning Man
+305 Bob's Party Time Lounge
+306 Shake Hands with Beef
+307 Seas of Cheese
+308 Mr. Krinkle
+309 Welcome to This World > 
+310 My Name is Mud
+311 Over the Electric Grapevine
+-encore-
+312 The Ol' Grizz
+313 Southbound Pachyderm (with all bands)
+
+Frog Brigade is: 
+Les Claypool - bass, vocals
+Harry Waters - keyboards
+Mike Dillon - percussion
+Skerik - saxophone
+Sean Lennon - guitar
+Paulo Baldi - drums
+
+Delirium is: 
+Les Claypool - bass, vocals
+Harry Waters - keyboards
+Sean Lennon - guitar
+Paulo Baldi - drums
+
+Primus is: 
+Les Claypool - bass, vocals
+Larry "Ler" LaLonde - guitar
+John "Hoffer" Hoffman - drums
+
+Third stop on the tour.  A teaser of the forthcoming Primus documentary was shown during a brief intermission between Delirium and Primus. 
+
+fingerprints:
+ClaypoolGold2026-05-23t101.flac:01ad637d2ca1a5b8fc9e71869e541e21
+ClaypoolGold2026-05-23t102.flac:c1aafb2e5ba2f6b40e4fd2e8c776bc20
+ClaypoolGold2026-05-23t103.flac:e319b2b4340cf5d61d365aff2cf79ea3
+ClaypoolGold2026-05-23t104.flac:f237396855e38b8891ba39f2c5d78f66
+ClaypoolGold2026-05-23t105.flac:611fa0742e3d352067c9c74aca3f3eb4
+ClaypoolGold2026-05-23t201.flac:490c6876ca4f70c99fae26bacd5293b8
+ClaypoolGold2026-05-23t202.flac:5e39c3dfd039126901b3f447a431c196
+ClaypoolGold2026-05-23t203.flac:3e5df151ea60b4ebb757deb6b239636d
+ClaypoolGold2026-05-23t204.flac:ba4cb51bee660a5a30896df24264637a
+ClaypoolGold2026-05-23t205.flac:5a276751294d528e9fa9107d0be131a5
+ClaypoolGold2026-05-23t206.flac:31170aa4b27ec73ef24da1237c0a2f6f
+ClaypoolGold2026-05-23t207.flac:83eab9b43316891fa3aceb0aa3048378
+ClaypoolGold2026-05-23t301.flac:f19a2c00028b1fe33d2e1cbc513bd380
+ClaypoolGold2026-05-23t302.flac:a8072e25b77e2960d6ab75b0df3c4beb
+ClaypoolGold2026-05-23t303.flac:9761e704d56f80839c22bd59138ce454
+ClaypoolGold2026-05-23t304.flac:008543cdf313c7b550223b3653a1a151
+ClaypoolGold2026-05-23t305.flac:0b6106804ba4255088f24c49db58c552
+ClaypoolGold2026-05-23t306.flac:7572d26e7e84446a31e74673c5381cf5
+ClaypoolGold2026-05-23t307.flac:23a7906a9f6cad9a61f9f4317aeae369
+ClaypoolGold2026-05-23t308.flac:49f98e1d2154501b59200c25ffd8fc99
+ClaypoolGold2026-05-23t309.flac:16990a4ae20f7ceaebfac9c78309b307
+ClaypoolGold2026-05-23t310.flac:33c440712071d272abd0f21a2f67af68
+ClaypoolGold2026-05-23t311.flac:44caab171aedf615f8468d21bebd4d6f
+ClaypoolGold2026-05-23t312.flac:959ffbfb4d49375e4028beaef8daee05
+ClaypoolGold2026-05-23t313.flac:58b7eab8f7a0c5802ab66195d8f4090f

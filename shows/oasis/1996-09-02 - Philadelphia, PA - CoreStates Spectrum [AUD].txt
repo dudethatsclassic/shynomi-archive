@@ -1,0 +1,57 @@
+Oasis
+CoreStates Spectrum
+Philadelphia, PA
+September 2, 1996
+
+Source: unknown mics/recorder > master cassette > 1g cassette
+
+Transfer (Steve Hagar):  1g cassette > Denon 790R > Kenwood A-522 amplifier > Kenwood GE-622 Equalizer > .WAV @ 16 bit/44.1 kHz
+
+Tracking (dandrew):  .WAV > Audacity 2.2.2 (tracking) > xAct 2.45 (encode to flac level 8, align sectors, ffp, md5)
+
+
+setlist:
+
+01. The Swamp Song > Acquiesce
+02. Supersonic
+03. Hello
+04. Some Might Say
+05. Roll With It
+06. Slide Away
+07. Listen Up 
+08. Morning Glory
+09. Cigarettes & Alcohol (tape flip, spliced, no music lost)
+10. It's Getting Better (Man!!) 
+11. Champagne Supernova
+12. Whatever > Octopus Garden (acoustic)
+13. Cast No Shadow (acoustic)
+14. Wonderwall (acoustic) 
+15. Don't Look Back In Anger
+16. Live Forever
+17. I Am The Walrus
+
+
+
+
+show notes:
+
+a GREAT recording by Brian D (taper of RATM/Pumpkins/etc. in that area)
+
+THANKS Dan
+
+FUCK OFF Steve
+
+or something like that...
+
+so
+much
+MORE
+to
+come!
+
+---ballsdeep is OUT
+
+
+
+
+

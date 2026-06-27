@@ -1,0 +1,52 @@
+Primus
+Friday July 19th, 2024
+McMenamins Historic Edgefield Manor
+2126 SW Halsey Street
+Troutdale, Oregon
+
+Taper:  LeifH [2024#21b]
+Source:  CA-11 > A10 - front row on the rail, left side
+Transfer:  PC via USB > RX9 > Wavepad > flac (8) via TLH
+
+Setlist:  01:40:52
+01 intro
+02 The Toys Go Winding Down > 
+03 Pudding Time
+04 The Seven
+05 Groundhog's Day > Polka Dot Rose
+06 My Friend Fats
+07 Harold of the Rocks
+08 Over the Falls
+09 Lee Van Cleef
+10 Professor Nutbutter's House of Treats
+11 Hamburger Train
+12 Welcome To This World > 
+13 My Name is Mud
+-encore-
+14 Southbound Pachyderm
+
+Les Claypool - vocals, bass
+Larry "Ler" LaLonde - guitar, vocals
+Tim "Herb" Alexander - drums, vocals
+
+Primus show #46.  Pretty last minute decision to go to this and the previous night in Redmond, WA.  When the tour was announced, I wasn't very enthused by the lineup (ie. Coheed & Cambria playing an hour before Primus every night).  However, after seeing the show in Highland a week prior, I just couldn't resist catching a couple more shows even if it meant enduring the support band.  I couldn't have done it without the help from esamirp and Grizzly Adams so a big shout out to both of them.  Since I bought my ticket only a couple days before the event, I ended up with a GA Lawn ticket, which I thought didn't matter, but as it turns out the venue has fenced off the pit area in front of the stage as a Premium GA ticket.  After some quick thinking from esamirp and a bit of sleight of hand, I was in the premium section and caught all three bands from the front rail.  
+
+Guerilla Toss played first and their set was just as hot as the sun at 18:00.  The security team working the show went above and beyond to make sure everyone posted up front was staying hydrated.  Unlike the previous stop in Redmond, Coheed's pre-show acoustic set was only 1 or 2 songs, allowing us non-VIPs to enter the venue closer to the scheduled time of 16:30.  Their main set was still a dreadful 60 minutes spanning from roughly 18:45 - 19:45.  Apparently their drummer still makes the same ill-advised facial expressions while performing "unplugged".  
+
+Primus took the stage right around 20:20 and their set was even better than anticipated.  The crowd was lively and there was a fair bit of crowd surfing happening.  Les sang a bit of Johnny Cash's Folsom Prison Blues before beginning Hamburger Train.  He also did an Is It Luck? fake-out before starting the encore song.  
+
+fingerprints:
+Primus2024-07-19t01 - intro.flac:043dd417abf3425c6951a3c5084536f7
+Primus2024-07-19t02 - Toys Go Winding Down.flac:0ed1aae4c128dbad08aceab56a0db8a6
+Primus2024-07-19t03 - Pudding Time.flac:276e417ce766797929f73a64e8866319
+Primus2024-07-19t04 - Seven.flac:62a351a1ffff7d7ae78c31c57f319801
+Primus2024-07-19t05 - Groundhogs Day.flac:46ddfe8f80137443b407168110433c2e
+Primus2024-07-19t06 - My Friend Fats.flac:d6df32bf4687593cb012bbef74bfa43e
+Primus2024-07-19t07 - Harold of the Rocks.flac:a8a8924f182981e3e9b50adf531e5733
+Primus2024-07-19t08 - Over the Falls.flac:de1e9f1ad87e68843a9df1b8f7f31811
+Primus2024-07-19t09 - Lee Van Cleef.flac:04cd862de7bb3625d00d383a99f3452e
+Primus2024-07-19t10 - Professor Nutbutter.flac:f9e1fb71834582dbfd256ae525406248
+Primus2024-07-19t11 - Hamburger Train.flac:d38740802ee7a05556ea04e1f129d2b5
+Primus2024-07-19t12 - Welcome to This World.flac:2d8b1a0e5b12bcb221a7d3bd91e4f6a4
+Primus2024-07-19t13 - My Name Is Mud.flac:ef1d01df707dfc06b0c53b1c4ec9a8bd
+Primus2024-07-19t14 - Southbound Pachyderm.flac:d14f4486006755f4b01e736ce4077898

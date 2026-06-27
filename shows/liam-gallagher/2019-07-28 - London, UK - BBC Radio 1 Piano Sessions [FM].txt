@@ -1,0 +1,17 @@
+Liam Gallagher
+BBC Radio 1 Piano Sessions,
+Broadcasting House,
+London, UK
+
+Broadcast 28th July 2019
+
+FM Radio broadcast
+
+Lineage: JVC FM radio -> Yamaha Pocketrak C24 (16-bit 44100Hz PCM) -> Adobe Audition (WAV) -> Trader's Little Helper (FLAC)
+
+Setlist:
+01 interview
+02 Once
+03 interview
+04 Champagne Supernova
+05 outro

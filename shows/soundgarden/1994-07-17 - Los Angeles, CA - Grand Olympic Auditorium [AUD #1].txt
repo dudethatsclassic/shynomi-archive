@@ -1,0 +1,60 @@
+SOUNDGARDEN
+July 17, 1994
+Grand Olympic Auditorium
+Los Angeles, CA, USA
+
+Source: Unknown analog Audience Audio 
+Generation: ANA(1) > CDR(1) > WAV [EAC Secure] > FLAC [8]
+Quality: 6.5
+Time: 114:20
+
+Tracklist:
+1. Night Surf [intro music]
+2. Jesus Christ Pose
+3. Spoonman
+4. Let Me Drown
+5. Mailman
+6. The Day I Tried to Live
+7. My Wave
+8. Flower
+9. Black Hole Sun
+10. Searching With my Good Eye Closed
+11. Superunknown
+12.Rusty Cage
+-----------------
+13. Half
+14. Mind Riot
+15. Fell on Black Days
+16. Drawing Flies
+17. Slaves & Bulldozers
+18. Kickstand
+19. Face Pollution
+20. Like Suicide
+21. Head Down
+22. Hands All Over
+
+Originally encoded February 2009.
+
+Fingerprints:
+01 - Night Surf.flac:aebfc4497d1d456b66dc02457ff0372d
+02 - Jesus Christ Pose.flac:86db88eddb797038a7b260755dc8947b
+03 - Spoonman.flac:928a43112d832fd9a0cfbcb8aac05219
+04 - Let Me Drown.flac:38eb6759e4202462d5072e3699513ed3
+05 - Mailman.flac:6de393e123f81c6e0d1f9ac18e17dbb9
+06 - The Day I Tried To Live.flac:67e500fec1b78c347dc6a0c3d580fc12
+07 - My Wave.flac:3e05bb25e21b9dd66cd0e76cfdfacb35
+08 - Flower.flac:f75d87558fc4c0218e91694f9a38e575
+09 - Black Hole Sun.flac:78edefa6740cf4addf90ab7235c60dab
+10 - Searching With My Good Eye Closed.flac:3b9f7466fb48bc3d01bd434b691eeb71
+11 - Superunknown.flac:065f652126e3251e606e7f3f174da3d0
+12 - Rusty Cage.flac:dcefc9ad62b70e373f64b35ff527b895
+13 - Half.flac:05cef3bdb95a0f7a586f03b9fbdb7b01
+14 - Mind Riot.flac:1757f4746acb3714e9a424c5f682aec5
+15 - Fell On Black Days.flac:7902b34abe2fce0558a52865f93f51a1
+16 - Drawing Flies.flac:6e2608166bf7d1a656279d551eeabf6a
+17 - Slaves And Bulldozers.flac:8002bc6cc1bea90ebbe55e346db78ccf
+18 - Kickstand.flac:a53ded8e1107321f34e06af110c66aea
+19 - Face Pollution.flac:7c3cde0679c8d5f880f684faf348db94
+20 - Like Suicide.flac:d0525e2793b681e2ca11b3f8dd4590e4
+21 - Head Down.flac:35600ce9c4da2714fd5ab51600616c42
+22 - Hands All Over.flac:e426d17b767330b3e3fd5bc210810c7a

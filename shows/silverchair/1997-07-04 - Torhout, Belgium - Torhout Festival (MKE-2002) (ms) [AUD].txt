@@ -1,0 +1,33 @@
+
+Silverchair
+Torhout Festival: Torhout, Belgium
+July 4, 1997
+
+Source: Sennheiser MKE-2002 > Sony TCD-D8 @ 32kHz
+Lineage: DAT Master > FLAC
+Transfer: Tascam DA-20 > Digital Coax > Behringer Ultramatch SRC2000 (upsample) > Digital Coax > MicroTrack II > Audacity > CDWave > TLH
+Edits/EQ: None
+Taper: MS
+
+Setlist:
+
+01 MC Intro
+02 Intro
+03 Slave
+04 Roses
+05 Abuse Me
+06 Pure Massacre
+07 Suicidal Dream
+08 Tomorrow
+09 No Association
+10 Freak
+11 Israel's Son
+
+Notes: Performed at the HUMO main stage. Levels run hot during first song. Some minor left channel problems, per taper. I acquired the DAT master in 2009; transferred in 2020. Raw transfer with no fades or EQ.
+
+Archive: DAT clone was transferred @ 32kHz and FLAC'd with cue sheet. 
+
+Transferred by tapeworm(48) 
+Txt file compiled on 12/30/2020
+
+*** DO NOT DISTRIBUTE IN LOSSY FORMATS. DO NOT SELL THIS RECORDING, TRADE IT FREELY *** 

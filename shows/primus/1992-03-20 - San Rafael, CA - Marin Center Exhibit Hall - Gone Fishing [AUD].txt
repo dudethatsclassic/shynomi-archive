@@ -1,0 +1,15 @@
+01_Here Come The Bastards.flac:5eca1dc97c764f44eb5918f7f8d1b96e
+02_Jellikit.flac:dcbbc1a4edd5f1681e4fda0bc9f0e153
+03_Pudding Time.flac:fad61d619732d3b11ccd867a1fd97d84
+04_American Life.flac:1f206b187c6295b3047dbb2465512cc9
+05_John The Fisherman.flac:14dd31f5707b55bc47a7e2fe4ebb2f0c
+06_Kashmir.flac:4b5d42505d85bada1c7234704be18307
+07_Sailing The Seas Of Cheese.flac:9a556035d28700cb5cb4f295e4bca778
+08_Those Damned Blue Collar Tweekers.flac:364a214bb9e266e312357c8922b36a9e
+09_Jerry Was A Racecar Driver.flac:aa6db628c5e0f5e049ee80534896133a
+10_Fish On.flac:5d3b298129c536a299395e08834d83f5
+01_Harold Of The Rocks.flac:6b1e5ee20ea9c04084bf685b83a07a69
+02_Eleven.flac:0c2b5af63a02d0d666a4c2583d24cbfe
+03_Is It Luck.flac:f09d62df52ea315afa2db6dbf21d4166
+04_To Defy The Laws Of Tradition.flac:5d57e29fdf294f29933ddaa9079398cf
+05_Tommy The Cat.flac:6a60a1882ba246391d07df71d60d962f

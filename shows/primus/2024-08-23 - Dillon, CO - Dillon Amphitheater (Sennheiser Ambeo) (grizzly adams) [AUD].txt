@@ -1,0 +1,44 @@
+Primus
+August 23, 2024 (Friday)
+Dillon Amphitheater
+Dillon, Colorado
+
+Recorded by:  Grizzly Adams
+Source:  Sennheiser Ambeo > iPhone > Apogee MetaRecorder
+Transfer:  .WAV > RX9 > Wavepad > flac (8) via TLH
+
+Setlist:  01:41:33
+01 intro
+02 Southbound Pachyderm
+03 Jellikit
+04 The Pressman
+05 Groundhog's Day > Polka Dot Rose [Oysterhead]
+06 My Friend Fats
+07 Jilly's on Smack
+08 Del Davis Tree Farm
+09 Shake Hands With Beef
+10 Spegetti Western
+11 Cygnus X-1 [Rush] 
+12 The Ol' Diamondback Sturgeon (Fisherman's Chronicles, Part 3) 
+13 My Name Is Mud >
+14 Jerry Was A Race Car Driver
+
+Les Claypool - bass, vocals
+Larry "Ler" LaLonde - guitar
+Tim "Herb" Alexander - drums
+
+fingerprints:
+Primus2024-08-23ambeo01 - intro.flac:768d6c4973c09f6a6f327b685a02f4eb
+Primus2024-08-23ambeo02 - Southbound Pachyderm.flac:75daf06a4ca4f146139193dbd484867c
+Primus2024-08-23ambeo03 - Jellikit.flac:862a8d17b24697cb2e3a147b5fd7db07
+Primus2024-08-23ambeo04 - Pressman.flac:8d52217d7d9ed8e04f07f49f6bd1d54d
+Primus2024-08-23ambeo05 - Groundhogs Day.flac:62ebde4d9e5257dd64565895927cb0d5
+Primus2024-08-23ambeo06 - My Friend Fats.flac:940acbd4100fd8758a555d43dfbd7c3b
+Primus2024-08-23ambeo07 - Jillys on Smack.flac:47288bc084bc4d57d40bfaf666ccfc74
+Primus2024-08-23ambeo08 - Del Davis.flac:dae0eb2cd72b59cacf4558d37637bc52
+Primus2024-08-23ambeo09 - Shake Hands with Beef.flac:a4a14c93071104b73ef20af0f2bdf26e
+Primus2024-08-23ambeo10 - Spegetti Western.flac:3107b68cf0394ea967f9c4915fbbaad4
+Primus2024-08-23ambeo11 - Cygnus X1.flac:234980137bb58990f866b82ad92c6e44
+Primus2024-08-23ambeo12 - Ol Diamondback Sturgeon.flac:eae1facf39c6000973527f4a8a9c02bc
+Primus2024-08-23ambeo13 - My Name is Mud.flac:ca3d0d6286a8164564e7c5a02eb27673
+Primus2024-08-23ambeo14 - Jerry Was a Race Car Driver.flac:9666b914de911622caa7ec4c6a1e7b56

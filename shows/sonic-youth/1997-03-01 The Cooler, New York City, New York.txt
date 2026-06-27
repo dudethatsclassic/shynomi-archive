@@ -1,0 +1,17 @@
+Sonic Youth - 1997 03 01 The Cooler, NYC, NY, USA
+
+Contrast Clause:
+Different recording than http://www.dimeadozen.org/torrents-details.php?id=683056. Also one gen lower as well.
+
+1 The Ineffable Me aka Proud Marie
+2 Wildflower Soul aka Wildflower
+3 Anagrama
+
+OTHER PERFORMERS
+Thurston with Rashied Ali
+Dim Sum Clip Job
+The Ruins
+
+Recorded by TinyLung. Recorded 3rd row center, mic in low 3.5 @ 48.0 kHz
+
+Lineage: CSB > Sony TCD-D8 > 1st gen analog tape > Tascam 202MKVII USB out > CDWAV > Audacity (normalization, fades, merges, noise reduction) > CDWAV (splits) > DBPowerAmp (FLAC)

@@ -1,0 +1,58 @@
+Ramones
+CBGB's
+New York NY
+05-15-1976
+Early Set
+
+01 I Don't Wanna Go Down to the Basement
+02 Now I Want to Sniff Some Glue
+03 Blitzkreig Bop
+04 Swallow My Pride
+05 Glad to See You Go
+06 Chain Saw
+07 Listen to My Heart
+08 Babysitter
+09 53rd & 3rd
+10 Havana Affair
+11 Let's Dance
+12 Judy is a Punk
+13 I Don't Wanna Walk Around with You
+14 Today Your Love, Tomorrow the World
+
+Source: MAC > ? > Low-gen Reel @7.5ips quarter-track > Technics RS-1506 > Komplete-6 interface > Audacity 2448 capture > Wavelab (editing) > CD-Wave (24-bit output) > TLH > FLAC 2448.
+
+Note: Reel source via the PR tape collection.
+
+ramones1976-05-15t01.flac:67f9ef487c2479ea893b453ef0580f87
+ramones1976-05-15t02.flac:3179efc02f1f360766588a4bfaa83412
+ramones1976-05-15t03.flac:d321b97014bd75bbbd8378d1dd9f2688
+ramones1976-05-15t04.flac:b7fd5fdfdcc51ad84230475e40070418
+ramones1976-05-15t05.flac:c4ea9e41f71ecc9836ec14f864062a8e
+ramones1976-05-15t06.flac:0a45e35a75d2fd80f794b918d7e7f770
+ramones1976-05-15t07.flac:f62a14b49370fed6d4084c455b62a943
+ramones1976-05-15t08.flac:a49a2b0ab06ab1eaecbdb3c6b414476f
+ramones1976-05-15t09.flac:b994211358111aef5c8af7ace2c91a09
+ramones1976-05-15t10.flac:126720a601905311dbe4b5c969337114
+ramones1976-05-15t11.flac:2c6e481205d01d678223ebdd9de80b15
+ramones1976-05-15t12.flac:d8e14f4be4b5a4d0dab71acf60a2978d
+ramones1976-05-15t13.flac:c830f7842cf5b31bdef351f9d27a4cdf
+ramones1976-05-15t14.flac:980a141e9250ab049f8ad5b4639ebdcd
+
+    length     expanded size    cdr  WAVE problems  fmt   ratio  filename
+     2:11.200      37785644 B   cxx   --   ---xx   flac  0.7060  ramones1976-05-15t01.flac
+     1:42.187      29429804 B   cxx   --   ---xx   flac  0.7142  ramones1976-05-15t02.flac
+     2:23.520      41333804 B   cxx   --   ---xx   flac  0.7185  ramones1976-05-15t03.flac
+     2:54.187      50165804 B   cxx   --   ---xx   flac  0.7121  ramones1976-05-15t04.flac
+     2:09.253      37225004 B   cxx   --   ---xx   flac  0.7240  ramones1976-05-15t05.flac
+     1:46.027      30535724 B   cxx   --   ---xx   flac  0.7227  ramones1976-05-15t06.flac
+     1:59.827      34510124 B   cxx   --   ---xx   flac  0.7272  ramones1976-05-15t07.flac
+     2:46.787      48034604 B   cxx   --   ---xx   flac  0.7269  ramones1976-05-15t08.flac
+     2:18.973      40024364 B   cxx   --   ---xx   flac  0.7312  ramones1976-05-15t09.flac
+     1:58.440      34110764 B   cxx   --   ---xx   flac  0.7393  ramones1976-05-15t10.flac
+     1:52.147      32298284 B   cxx   --   ---xx   flac  0.7388  ramones1976-05-15t11.flac
+     1:26.587      24937004 B   cxx   --   ---xx   flac  0.7410  ramones1976-05-15t12.flac
+     1:36.680      27843884 B   cxx   --   ---xx   flac  0.7441  ramones1976-05-15t13.flac
+     2:06.694      36487928 B   cxx   --   ---xx   flac  0.7349  ramones1976-05-15t14.flac
+    29:12.507     504722740 B                            0.7261  (14 files)
+
+No errors occured.

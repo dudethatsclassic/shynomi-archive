@@ -1,0 +1,24 @@
+Sonic Youth - 1992 10 13 Metropol, Pittsburgh, PA
+
+Show note:
+Youth Against Fascism is cut as side a ran out on the tape.  It wasn't given a seperate track on my CDR, so I split it afterwards and renumbered the tracks, so the files don't match what is included in the EAC log. YAF also had a gap, which was removed.
+
+1 Shoot 
+2 100% 
+3 Kool Thing 
+4 Mote 
+5 Burning Spear 
+6 Sugar Kane 
+7 Theresa's Sound-World 
+8 Youth Against Fascism 
+9 Chapel Hill 
+10 Swimsuit Issue 
+11 Drunken Butterfly 
+12 JC 
+13 Teenage Riot 
+14 White Kross 
+
+Opening Band:
+Boredomes
+
+Lineage: Analog soundboard master > 1st gen tape > Audio CDR > EAC > CDWAVE (spliting tracks) > FLAC

@@ -1,0 +1,17 @@
+Swervedriver1991-11-11Espace Ornano, Paris, Francesource: audience dat @32kHz > clone @32khz
+transfer (2006): Otari DTR-8S>Hosa coax>Calrad 10-110>Hosa OPM-330>2x2.5 G5>Audio Recorder 1.4>Audacity 1.2.4>xACT 1.5b4>flac8w/verify (single flac file)
+preparation for torrenting (2023-05-24): Audacity (44.1kHz upsample, patch last couple of minutes from zenlunatic's file, tracks splits) > xact (fix sbe > flac8)
+01 Sci-Flyer
+02 Juggernaut Rides
+03 Sandblasted
+04 Sunset
+05 Rave Down
+06 Deap Seat
+07 Son Of Mustang Ford
+08 Kill The Superheroes
+09 She's Beside Herself
+10 Pile-Up
+11 Zedhead
+12 Laze It Up(65:33)
+
+Shared on Dime 2023-05-24 by Aaron (supahstah)

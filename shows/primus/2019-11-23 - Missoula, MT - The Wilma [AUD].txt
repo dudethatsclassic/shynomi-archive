@@ -1,0 +1,68 @@
+Primus
+Saturday November 23rd, 2019
+The Wilma 
+131 S Higgins Ave
+Missoula, Montana
+
+Taper:  LeifH
+Source:  CA-11 (cardioid) > Bat2B > Sony PCM M10 @ 24/48 > microSD card
+Transfer:  PC via USB > Wavepad Masters Edition (edits, amplify, tracking, 16/44) > flac (8) via TLH
+
+Set  I:  01:03:40
+00 intro
+01 American Life
+02 Too Many Puppies > 
+03 Sgt. Baker > Puppies Reprise
+04 The Seven
+05 The Pressman
+06 The Toys Go Winding Down > 
+07 Pudding Time > 
+08 Thieves [Ministry] > Pudding Reprise
+09 Cygnus X-1 [Rush]
+10 Groundhog's Day
+11 Eleven
+
+Set II:  01:13:22
+12 Professor Nutbutter's House of Treats
+13 Mrs. Blaileen
+14 Shake Hands with Beef
+15 The Heckler
+16 Mr. Krinkle
+17 Welcome to This World > 
+18 My Name is Mud
+19 Jerry Was a Race Car Driver
+
+20 Fisticuffs
+21 Wynona's Big Brown Beaver
+22 Southbound Pachyderm
+
+My 35th Primus show.  Special thanks to S.T. 
+
+Primus was on tour supporting Slayer along with Ministry and Phil Anselmo.  This was a sold out, one-off, "evening with," concert at a beautiful theatre from 1921. 
+
+Claypool played Welcome To This World and My Name Is Mud on his fretted maple 6-string Carl Thompson bass, which is somewhat unusual for those songs.  
+
+fingerprints:
+00 - intro.flac:a6d4afb48ce5b883e794283234a6771c
+01 - American Life.flac:a0d94ee58287e45651015be9384f0756
+02 - Too Many Puppies.flac:b2f79a30185654a7f68e824ed856dcd9
+03 - Sgt Baker.flac:2d1115ba2318678a2e2b7a396d0f807f
+04 - The Desaturating Seven.flac:633f288469567f25d5a060849790b7da
+05 - The Pressman.flac:f2942a41a47f5e5964da5051ede15ae8
+06 - The Toys Go Winding Down.flac:73d836991626e683c08903f5bba22d8f
+07 - Pudding Time.flac:4feb61e91dc6374c7f8d4c5668edb7f4
+08 - Thieves.flac:3aa0ad2e5ec12ecbc61c37b2a389e61a
+09 - Cygnus X-1.flac:c40b885c82df4e25506818c186847a62
+10 - Groundhog's Day.flac:8d3f091972bb4c9c01c7cbfe39a6166c
+11 - Eleven.flac:763949d9dd293df4a50fa1ab014072f8
+12 - Professor Nutbutter's House of Treats.flac:88313f628da92b8b22003558ffd1aff1
+13 - Mrs Blaileen.flac:6fbcde2161a5d4dc3bde2ef9457872e4
+14 - Shake Hands With Beef.flac:b8e6bb6f373c4dcd60bf174ec0cbfc1c
+15 - The Heckler.flac:c073aabc02e4b218d1e4e3c9090dcc4d
+16 - Mr Krinkle.flac:d588e51c6200e148094c9ff26ac03ae3
+17 - Welcome To This World.flac:777037401546f24a1d0c58f3a7a86af3
+18 - My Name Is Mud.flac:88caed68cfda65fb158124fac131a7db
+19 - Jerry Was A Race Car Driver.flac:93b797e078028f1a57ec424193d05406
+20 - Fisticuffs.flac:96845d73ffe5f272b8a9ca717e524fe9
+21 - Wynona's Big Brown Beaver.flac:0ce3c9f24f8db8b19e1301ce42fc4fac
+22 - Southbound Pachyderm.flac:d20693669e6ba7f1b33bb2d8245a8048

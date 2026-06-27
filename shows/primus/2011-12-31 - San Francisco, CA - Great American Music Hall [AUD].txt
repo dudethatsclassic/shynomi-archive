@@ -1,0 +1,89 @@
+Primus w/Don Hoser
+New Year's Eve Hawaiian Hukilau
+Saturday, December 31st, 2011
+Great American Music Hall,
+859 O'Farrell Street,
+San Francisco, California, USA
+
+Taper:  LeifH
+Source:  CSB's (filter) > Sony PCM M10 @ 24/96 > Lexar 16GB microSD card
+Transfer:  Memory card > PC via USB > EQ in foobar2000 > Wavepad Master's Edition for edits and downsample to 16/44.1 > flac (8) via TLH
+
+Set  I:  1:14:42
+00 emergency exits and champagne
+01 intro music
+02 To Defy the Laws of Tradition
+03 Prelude to Crawl
+04 Hennepin Crawler
+05 American Life
+06 Moron TV
+07 Over the Falls
+08 Lee Van Cleef
+09 Whamola
+10 Eleven
+11 Jerry Was a Racecar Driver
+12 Over the Electric Grapevine
+
+Set II:  1:23:38
+01 Those Damned Blue-Collar Tweekers
+02 The Last Salmon Man (Fisherman's Chronicles Pt. IV)
+03 Southbound Pachyderm
+04 countdown to the new year
+05 Hawaii Five-O *
+06 The Hukilau Song *
+07 Eyes of the Squirrel
+08 My Name is Mud
+09 Jilly's On Smack
+10 get your twelve dollars worth yet?
+11 Harold of the Rocks
+
+12 over the threshold
+13 Wynona's Big Brown Beaver
+
+* = w/Don Hoser & Mark "Mirv" Haggard
+
+Total Run Time:  2:38:20
+
+I took BART downtown and walked from Civic Plaza to O'Farrell Street both nights.  What a nice, friendly neighbboorhood!  You just have to watch out for feces and urine on the sidewalks.  The Tenderloin was one of the areas of SF I may have passed through driving during previous visits, but hadn't walked through.  Don't spend all your change on one bum!
+
+I met a few cool people while hanging outside before the doors opened, and while waiting for the show to begin.  I had no idea how small and intimate the Great American Music Hall is until I got inside.  The pictures I had seen of the interior made it seem deeper.  I think it's a spectacular venue for live music.  The acoustics are great, and its very ornate.  The frescoes and other designs and faces can start to play tricks on your vision.  There was also a video screen playing clips in time with the music.  When the crowd starts jumping the floor acts almost like a trampoline.  The place was decorated with a Hawaiian theme, and many people were dressed in Hawaiian shirtsfor the contest.  I almost wish I bought dinner tickets, but then I wouldn't have had much time to eat.  Les Claypool's wines were available for consumption at the show, too.  
+
+I stood under the chandelier on the dance floor, centered between the third marble columns.  
+
+Don Hoser was interesting.  His set is included here for your listening pleasure.  Can't say I've ever seen a show quite like his.  He wasn't keeping many people's undivided attention, but I noticed most of the crowd kind of swaying along to his tunes.  He played covers, even a Jane's Addiction cover haha, and also played Tiny Bubbles.  Don Hoser played a half-hour set and then about fifteen minutes later Primus began.
+
+This was my third time seeing Primus.  Most of the crowd was quite drunk, being new year's eve.  Not too much crowd came through though.  Plently of joints and glass pipes being passed around.  I'm not used to seeing so many pipes at a concert.  Les lets us know that his mom has passed on.  He wore the monkey mask for Whamola.  Ler had some guitar troubles during Jerry, and the last bit of the song is basically just bass and drums.  During Southbound Pachyderm, they passed out little plastic dixie cups with an inch or so of champagne, I was given two.  Everyone drank at the end of the countdown and there was a balloon drop, hence all the popping sounds during Hawaii Five-O and The Hukailau Song.  Both of those tunes featured Mark "Mirv" Haggard on guitar and grass skirt, and Don Hoser on xylophone.  I have a feeling the band had a nice buzz going on.  When Jay stood up from his kit for the encore, it looked like he had to gather his bearings a bit!
+
+After the show the streets were pretty busy with partiers and most of the eateries were lined up out the door.  Puke on sidewalks, in BART and its stations, you know, new year's eve.  
+
+Thanks to buddy for the free beer.  Thanks to whoever decided to give out free champagne.  Thanks to everyone who shared their smoke.  You know who you are.
+
+
+fingerprints:
+primus2011-12-31d01t00.flac:c12c74bdfae52a8eaf5530f17496789c
+primus2011-12-31d01t01.flac:2ad223fecb41c9750e7c36bf0dcd723d
+primus2011-12-31d01t02.flac:1000047c5aac74ddc8cd79bc224d322d
+primus2011-12-31d01t03.flac:a85439a879b06e1a0869c50719c33498
+primus2011-12-31d01t04.flac:f2092220a73a4e50e1bf80f2686576d5
+primus2011-12-31d01t05.flac:d8d6c579e74ca0274e0be1b8e2f71207
+primus2011-12-31d01t06.flac:677ccdf11f3485eb85868d4659a75149
+primus2011-12-31d01t07.flac:c490579db43879baa7735d8a062f75a8
+primus2011-12-31d01t08.flac:c4b7606d52a7c11a65434959950d3b65
+primus2011-12-31d01t09.flac:6e3784611b36e8b7800e6efffb719962
+primus2011-12-31d01t10.flac:99052a8fae68e7a218eff1bb1fd6d6d1
+primus2011-12-31d01t11.flac:ebef96b441af2a3c58628d31cd343b1b
+primus2011-12-31d01t12.flac:4aa48d9e59163218250e4f2cc5de1711
+primus2011-12-31d02t01.flac:f0d7fb3782e1158a42ad0b90cb368409
+primus2011-12-31d02t02.flac:a8c5ed41a2ef9554f8d4f56ed07cdebc
+primus2011-12-31d02t03.flac:19b7cbdd651020ffde15430ad00c86b1
+primus2011-12-31d02t04.flac:ca32a4dedebe20e27807cc426a02fca3
+primus2011-12-31d02t05.flac:a429eaadc191a1d9ae7224caeb84a2e4
+primus2011-12-31d02t06.flac:01755e5f0d7d6c35cb842157d6bfb962
+primus2011-12-31d02t07.flac:41264dd04c0704c4a214b8cd1193ec52
+primus2011-12-31d02t08.flac:fb5004dc8612762ec565c9553a9dab65
+primus2011-12-31d02t09.flac:7f3f1659c40015fad04c99edf9f5e952
+primus2011-12-31d02t10.flac:8445b1343a395cce3f200ae48274a58a
+primus2011-12-31d02t11.flac:ca944a7921ae4e7470682145e8247311
+primus2011-12-31d03t00.flac:58a36d46833051dd1680dda328904b57
+primus2011-12-31d03t01.flac:0357cf6724f9c79b730f4be27b3b6f7e
+primus2011-12-31d03t02.flac:946907efe3970b2f0246e7dd4c91a123

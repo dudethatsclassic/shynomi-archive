@@ -1,0 +1,43 @@
+Les Claypool And The Holy Mackerel
+La Luna
+Portland, Oregon
+1996-10-20
+
+Source:  AKG C-522 ENG's>Denon DTR-80P@16/48 (balcony, DFC).
+ 
+Transfer:  Tascam DA-302>W-mod Edirol UA-5 @16/48>
+Soundforge 6.0 (normalized to -16 db, fades added at
+beginning and end of sets, downsampled to 44.1 kH)>
+Cdwav 1.93.3 beta (tracked)>Flac Frontend
+1.7.1>flac16. (shntool verified)
+
+Recording and transfer by Mark Burgin  tapermark2003@yahoo.com
+
+DO NOT ENCODE TO LOSSY FORMATS OR CHANGE THESE FILES IN ANY WAY!!!  Thanks
+
+[74:02]
+01  Introduction>
+02  Bad Boys Theme>
+03  Holy Mackerel>
+04  Precipitation
+05  Hendershot
+06  Voodoo Chile Tease>
+07  Highball With The Devil
+08  George E. Porge>
+09  Running The Gauntlet>
+10  Rancor
+11  Band Intros
+12  Granny's Little Yard Gnome
+13  El Sobrante Fortnight
+14  Calling Kyle
+15  The Awakening
+16  Cohibas Esplenditos
+17  Encore: Carolina Rag
+
+Les Claypool - bass, vocals
+Mark "Mirv" Haggard - guitar
+Joe Gore - guitar
+Brain - drums
+
+uncirculated
+MIRV opened the show.  Not taped.

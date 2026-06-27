@@ -1,0 +1,46 @@
+Primus
+November 16, 1999
+Metropol
+Pittsburgh, PA
+
+
+DISC 1/1 (74:59)
+----------------
+01) Sgt. Baker
+02) The Antipop
+03) Those Damned Blue-Collar Tweekers
+04) The Ballad of Buckethead
+05) My Name is Mud
+06) Kalamazoo
+07) Jerry was a Race Car Driver
+08) The Final Voyage of the Liquid Sky
+09) Groundhog's Day
+10) Lacquer Head
+11) Crazy Train / Harold of the Rocks
+12) Electric Uncle Sam
+13) Too Many Puppies (cut)
+
+
+LINEAGE
+----------------
+MD(M) > WAV [44.1kHz] > FLAC [Level 8]
+
+SOURCE
+----------------
+Sound Professionals SP-BMC-1 > Sharp MD-MS702
+
+MD5 Checksum
+----------------
+546ca4fd85cac1e8bb2f7f96b9e21e73 *Primus_1999-11-16_t01.flac
+e61cf0d5c2116d19840246078b0ba118 *Primus_1999-11-16_t02.flac
+a268af21c0900d7a441d7f82aeba7d3e *Primus_1999-11-16_t03.flac
+9c1594b1e86af3c8caac895dcda9804c *Primus_1999-11-16_t04.flac
+bc8b98bda4fc564cb352751ad8e1a31e *Primus_1999-11-16_t05.flac
+a889260c753b2677b43d6dada31807f1 *Primus_1999-11-16_t06.flac
+4f3410e7e99ed5f6b0de0b1aa81ec2d9 *Primus_1999-11-16_t07.flac
+c49233dc778f472b79c414816bccb32a *Primus_1999-11-16_t08.flac
+e0a40e5e95218e7e8b512fa67683c07f *Primus_1999-11-16_t09.flac
+1e42aa2dc15bb07a0e6de4f200e3c0f9 *Primus_1999-11-16_t10.flac
+caa42023f6b48b4c1836a406f1ea9e44 *Primus_1999-11-16_t11.flac
+b45cd8573f019ce24538681a3e28ccbe *Primus_1999-11-16_t12.flac
+9cc50bfb49009f52903c23abe86eef39 *Primus_1999-11-16_t13.flac

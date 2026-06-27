@@ -1,0 +1,39 @@
+Soundgarden 
+Download Festival
+Donington, UK
+June 10, 2012
+AUD matrix
+
+Source 1 (rbose1): Sound Professionals SP-CMC-8 Microphones
+Sound Professionals SP-SPSB-11 Mini Battery Module with Bass Roll-Off (69Hz)
+Edirol R-09HR 44.1kHz / 16 bit
+USB>PC>CD Wave Editor>Trader's Little Helper>FLAC level 8>Dime 
+
+Source 2 (Barghest): Equipment: SP-CMC-8 with windscreens -> Edirol R-09HR -> WAV [originally in 96 kHz/24 bit->downgraded to 44kHZ/16 bit]
+Lineage: WAV -> Adobe Audition (Normalize-Track Splitting) -> FLAC
+
+***NOTES***
+***That's a different source from the one posted by rbose1 (cheers and thanks a lot for the effort!)
+***The rbose1 recording is currently found here http://www.dimeadozen.org/torrents-details.php?id=408775
+***Although we used almost identical equipment, the result is quite different, as:
+***1) I was positioned ~30 m from the stage right at the dividing barrier in the centre & rbose1 was ~50m behind me.
+***2) I was using windscreens
+***3) I wasn't using bass roll-off battery device, that's why my variant sounds a lot bassier.
+
+Length: 1 hr 15 mins
+
+Set list:
+0.000000	0.000000	01 - Spoonman
+355.912211	355.912211	02 - Let Me Drown
+617.166920	617.166920	03 - Gun
+965.506531	965.506531	04 - Outshined
+1283.555741	1283.555741	05 - Jesus Christ Pose
+1669.758353	1669.758353	06 - Drawing Flies
+1840.141858	1840.141858	07 - Hunted Down
+1995.380163	1995.380163	08 - Ugly Truth
+2377.796476	2377.796476	09 - Fell on Black Days
+2688.273085	2688.273085	10 - My Wave
+2968.459294	2968.459294	11 - The Day I Tried To Live
+3275.149604	3275.149604	12 - Rusty Cage
+3593.198814	3593.198814	13 - Black Hole Sun
+3930.179525	3930.179525	14 - Beyond The Wheel

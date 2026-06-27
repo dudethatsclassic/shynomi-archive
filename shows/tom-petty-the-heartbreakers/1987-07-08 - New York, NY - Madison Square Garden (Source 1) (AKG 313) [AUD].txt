@@ -1,0 +1,81 @@
+
+Tom Petty & The Heartbreakers
+Madison Square Garden, New York, NY
+July 8, 1987
+
+Source 1
+
+Source: AKG 313 Omni Mics > Sony TC-D5M Cassette Master (recorded by: Tommy D.)
+
+Transfer: Sony TC KA1ESA Cassette Deck > HHB 850 standalone cd burner (16/44)
+
+Editing: Soundforge (volume balancing) > Wav > TLH (sector boundary aligned) Flac 8 
+
+Traders Den 6/18/18  - posted by kingrue upload 1513
+.....................................................................................................
+
+Here is Source 1 and I would consider this to be the superior source.
+
+The only flaws I noticed is that tracks 16 & 17, have some noticeable tape warble.
+
+All I did to this was check and adjust the volume, to make sure the channels were balanced.
+
+The opening acts were The Del-Fuegos and The Georgia Satellites. (those tapes no longer exist)
+
+Thanks to Tommy D. for this source,  check samples for quality.
+
+
+Set list:
+01 crowd cheer
+02 Breakdown
+03 Think About Me
+04 American Girl 
+05 My Life, Your World
+06 Listen To Her Heart
+07 Here Comes My Girl
+08 For What Its Worth
+09 banter
+10 The Waiting
+11 Don't Come Around Here No More
+12 It'll All Work Out
+13 Ballad Of Easy Rider
+14 Runaway Trains
+15 Should I Stay Or Should I Go
+16 Even The Losers **tape warble**
+17 Jammin' Me **tape warble**
+18 Refugee
+19 You Got Lucky
+20 Bye Bye Johnny
+
+Total Time = 01:42:47
+
+~~ ENJOY ~~
+
+....................................................
+
+ffp:
+
+01 crowd cheer.flac:d9a173e83d14a1386cbcf48c314422d0
+02 Breakdown.flac:053ee0a45b879f7e1e9e9aa5584dff98
+03 Think About Me.flac:fb5255d73e3815ac42526536cc09c556
+04 American Girl.flac:37550121a26a86921f61c4f11a9d4577
+05 My Life, Your World.flac:56316c0b20657038c6fbba0b247b889a
+06 Listen To Her Heart.flac:20dcedff3fdb95224664e7a028607d0f
+07 Here Comes My Girl.flac:d509698ba5c69c334109787f5d5939ea
+08 For What It's Worth.flac:995924a97aaee9b2b47253f8f84dfe08
+09 banter.flac:544ba812c8a66cf6e24090176174a8f0
+10 The Waiting.flac:504186360657323331e9b3d3390a4422
+11 Don't Come Around Here No More.flac:c72279bee32fd45013ad582716a92e32
+12 It'll All Work Out.flac:d5903f3a7baf54af6e3fce8495b20d44
+13 Ballad of Easy Rider.flac:e243902cdfbff5b1bbc8b4ed7d724e1e
+14 Runaway Trains.flac:1f812fb09fd6a4d15dc865ddd5703144
+15 Should I Stay Or Should I Go.flac:e1787258d64460428c52771e38415841
+16 Even The Losers.flac:76a5438fd134a4c5402dfaf16aa2d6b7
+17 Jammin Me.flac:ad695d987f6ee5e4c1b6a994dc8036e6
+18 Refugee.flac:cf6c22fed4b3fc44d286ec3bc2bf5a5f
+19 You Got Lucky.flac:a15fefd30d715efc612013c0f0192491
+20 Bye Bye Johnny.flac:bd4abb6336d9faae9bdcf744d037ab27
+
+Checksum file saved to disk.
+
+No errors occured.

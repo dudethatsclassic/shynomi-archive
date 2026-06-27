@@ -1,0 +1,97 @@
+Tom Petty & The Heartbreakers
+Irving Plaza
+New York, NY
+April 11, 1999
+
+3 Source SBD + AUD Matrix Mix 
+(60%-AUD1 + 20%-AUD1 + 20%-AUD2)
+
+01 Rip It Up
+02 Jammin' Me
+03 Runnin' Down A Dream
+04 Call Me The Breeze
+05 Swingin'
+06 Mary Jane's Last Dance
+07 Telstar
+08 Listen To Her Heart
+09 You Don't Know How It Feels
+10 It's Good To Be King
+11 I Won't Back Down
+12 Green Onions
+13 I Want You Back Again
+14 I Got A Woman
+15 The Letter
+16 Little Maggie
+17 Lay Down My Ole Guitar
+18 Walls
+19 Angel Dream
+20 Titanic
+21 Room At The Top
+22 Heartbreakers Beach Party
+23 Guitar Boogie Shuffle
+24 Even The Losers
+25 I Don't Wanna Fight
+26 Another man done gone
+27 You Wreck Me
+28 Free Girl Now
+29 Gloria
+ 
+https://www.setlist.fm/setlist/tom-petty-and-the-heartbreakers/1999/irving-plaza-new-york-ny-6bc19e76.html
+
+https://www.discogs.com/release/8562342-Tom-Petty-And-The-Heartbreakers-Irving-Plaza-4-11-99
+---------------------------------------------------------
+
+Source Info
+
+SBD
+SBD > DAT(M) > DAT(1) > DAT(2) >CDRW700 > EAC > FLAC
+Transfer: DAT R500 >  M-Audio 24/96 > CD Wave > FLAC
+
+AUD1
+Schoeps MK4 > SX-M2 > SBM-1 > D100 > DAT(M) > DAT(1)
+Transfer: DAT R500 >  M-Audio 24/96 > CD Wave > FLAC
+
+
+AUD2
+AKG300b's > Aero > PCM-M1 > DAT(M) > DAT(1)
+Transfer: DAT R500 >  M-Audio 24/96 > CD Wave > FLAC
+
+---------------------------------------------------------
+
+Tech Notes
+FLACs were decoded to wave and SF 8.0 was used to reassemble 
+the tracks back to 1 long wave.  CEP2.0 was used to align & 
+synch all 3 sources.  CEP2.0 used to adjust the volume for 
+all 3 sources. Multitrack mixdown was performed using CEP2.0.  
+This is a 60% SBD, 20% AUD1, 20% mix.  
+- Mixed by dan@am-dig.com
+- FLAC conversion done 17-JLY-2005  
+- Artwork by dan@am-dig.com 300dpi - For best results print 
+at the highest resolution onto glossy photo paper.  Design for 
+use with a clear slim double jewel case.  
+
+---------------------------------------------------------
+
+Notes
+
+Disc 1 and disc 2 can be assembled seamlessly on longer media.
+
+There was an audible line buzz running throughout the SBD
+recording.  This was likely not going over the PA as the buzz
+is not apparent on either of the AUD sources.  The SBD DAT
+recording continued to run after the feed from the SBD had
+ended and the buzz continued.  This leads me to concluded it 
+was a line feed problem.  Bad cable possibly?  Because the 
+recording continued after the music ended a perfect recording 
+of the buzz was recorded.  This allowed me to accurately 
+capture and then remove the noise throughout the recording 
+very accurately without disturbing the fidelity of the 
+recording.  This was done with Soundforge 8.0 using the 
+highest quality setting.
+
+The 2 AUD tapes made that night were from similar locations
+as you can hear the same 'cat calls', claps, etc. on both 
+recordings.  However the 2 recordings still blended well
+together and had different and unique sounds.
+
+

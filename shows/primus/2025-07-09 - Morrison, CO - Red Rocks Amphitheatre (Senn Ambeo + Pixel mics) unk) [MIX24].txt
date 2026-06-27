@@ -1,0 +1,57 @@
+Primus - Onward and Upward Tour
+July 9th, 2025 (Wednesday)
+Red Rocks Amphitheatre
+Morrison, Colorado
+
+"Brown Rocks"
+
+2 Aud Matrix
+
+Source 1:  Sennheiser Ambeo > iPhone > Apogee MetaRecorder by Grizzly Adams, 1st row
+Source 2:  internal mics > Pixel by esamirp, 3rd row
+Transfer:  WAV > RX9 > Wavepad > flac (8) via TLH
+
+Setlist:  01:45:33
+01 show starts
+02 Harold of the Rocks
+03 Groundhog's Day
+04 Les banter
+05 Fisticuffs
+06 Golden Boy
+07 Duchess and the Proverbial Mind Spread
+08 Over the Falls
+09 Restin' Bones
+10 Bob's Party Time Lounge
+11 Shake Hands with Beef
+12 Welcome to This World
+13 My Name is Mud
+14 Bob
+15 Jerry Was a Race Car Driver
+-encore-
+16 Too Many Puppies
+17 Dirty Drowning Man
+18 Southbound Pachyderm
+
+Les Claypool - bass
+Larry LaLonde - guitar
+John Hoffman - drums
+
+fingerprints:
+Primus2025-07-09mtx01 - intro.flac:336eefeda91ef468aebbacb6693caf6a
+Primus2025-07-09mtx02 - Harold.flac:0bd63e52a367715d1ef0e502c880accb
+Primus2025-07-09mtx03 - Groundhog.flac:67250c5f51073c3fb3caba0390499418
+Primus2025-07-09mtx04 - banter.flac:43f1e493eb2e98a1e20ec0975caeba35
+Primus2025-07-09mtx05 - Fisticuffs.flac:0277ac80ca904dbf280b964a916a318c
+Primus2025-07-09mtx06 - Golden Boy.flac:313ce1ea306037bac78307535c74f82b
+Primus2025-07-09mtx07 - Duchess.flac:b35a92fccd1da31c7c541114fb7b15d0
+Primus2025-07-09mtx08 - Over the Falls.flac:6fed026abf5aa30899dd82bbe1af444f
+Primus2025-07-09mtx09 - Restin.flac:725d5fb419a13937dbcb103542c40c34
+Primus2025-07-09mtx10 - Bobs.flac:93560ddb3f4728e7b4412ecb5a0cfa76
+Primus2025-07-09mtx11 - Shake Hands.flac:ad7053ffc6ee6e9b4cf57d4ec354161e
+Primus2025-07-09mtx12 - Welcome.flac:375eae7dd990da2a77b44496e9066e47
+Primus2025-07-09mtx13 - My Name is Mud.flac:f009c97ed1e53498126a3f1036d5fc55
+Primus2025-07-09mtx14 - Bob.flac:e0f62b6b42db05c81ea2fb938a838799
+Primus2025-07-09mtx15 - Jerry.flac:c758f9507d7b82205f6b3582b766b8fb
+Primus2025-07-09mtx16 - Too Many.flac:951965db53862d55c1e92741ea86aaff
+Primus2025-07-09mtx17 - Dirty Drowning.flac:51c2da8d161a20448198ca52e1961716
+Primus2025-07-09mtx18 - Southbound.flac:b91194c8e4f4562dd5f6a884dc6610b3

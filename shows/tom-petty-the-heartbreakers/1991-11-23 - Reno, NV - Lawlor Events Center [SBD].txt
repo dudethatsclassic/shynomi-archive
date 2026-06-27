@@ -1,0 +1,64 @@
+Tom Petty & The Heartbreakers
+Lawlor Events Center, Reno, NV
+November 23, 1991
+
+Disc 1
+01. King's Highway    [0:03:44.98]
+02. Too Good To Be True    [0:05:55.98]
+03. I Won't Back Down    [0:03:15.09]
+04. Free Fallin'    [0:04:43.98]
+05. Out In The Cold    [0:05:11.98]
+06. Psychotic Reaction    [0:07:38.98]
+07. Ben's Boogie    [0:03:21.98]
+08. Mike's Guitar Solo   [0:04:48.98]
+09. Don't Come Around Here No More    [0:08:57.98]
+10. Here Comes My Girl    [0:05:01.48]
+
+Disc 2
+01. I'm Tired Joey Boy    [0:03:16.98]
+02. Into the Great Wide Open    [0:04:14.98]
+03. Love Is A Long Road    [0:03:58.98]
+04. Refugee    [0:07:12.74]
+05. Runnin' Down A Dream    [0:05:21.98]
+06. Lonely Weekends    [0:02:47.98]
+07. Built To Last    [0:05:47.74]
+08. Makin' Some Noise    [0:06:55.97]
+09. Cry To Me    [0:05:40.80]
+10. Shout    [0:10:34.70]
+11. Fooled Again (I Don't Like It)    [0:05:19.89]
+12. Don't Bring Me Down    [0:03:37.05]
+13. I'm A King Bee    [0:05:14.16]
+14. Route 66    [0:03:45.18]
+15. Strangered In The Night    [0:03:52.97]
+
+Tracks 4-8 of CD 2: Oakland, CA  at the Coliseum 
+Nov. 24th 1991 
+tracks 9-10 March 6, 1980 London, UK
+tracks 11-15 from late 70s
+
+
+9d4a645c9a2d91ab265ed28760b58ee4  [shntool]  1.01 King's Highway.shn
+b9cefc0b06f6db664e24db1732c46768  [shntool]  1.02 Too Good To Be True.shn
+8b08898d28092b9b27b6d1563fa5308b  [shntool]  1.03 I Won't Back Down.shn
+cd6dd36b14c55963fea0eda1b0b302ae  [shntool]  1.04 Free Fallin'.shn
+bf116822ab4fcca1d7521a5021693546  [shntool]  1.05 Out In The Cold.shn
+a6761841efe0ed80f17c018b1e7e9197  [shntool]  1.06 Psychotic Reaction.shn
+158e1d88110cea3360e09076c4d31797  [shntool]  1.07 Ben's Boogie.shn
+39878651af08abf330c32524985d04b2  [shntool]  1.08 Mike's Guitar Solo.shn
+2dc7faefb97296f3b9441d8d642c1bc1  [shntool]  1.09 Don't Come Around Here No More.shn
+bd6bd286f2472c6b270582405c90f564  [shntool]  1.10 Here Comes My Girl.shn
+7dd073801318b56ee028407a3e53ee76  [shntool]  2.01 I'm Tired Joey Boy.shn
+a03c1fa06efe4a4b283263a1eeaaa97b  [shntool]  2.02 Into the Great Wide Open.shn
+afcbf28829c1f680b003ed3d3a28f682  [shntool]  2.03 Love Is A Long Road.shn
+c37d2baff9b160c7dca41da070851d29  [shntool]  2.04 Refugee.shn
+67957038e01dae2aa15e9d8730c7daca  [shntool]  2.05 Runnin' Down A Dream.shn
+f13c608ec49e90c035cdb28952233293  [shntool]  2.06 Lonely Weekends.shn
+0f9e834b7b6734888b70a2cb3691da08  [shntool]  2.07 Built To Last.shn
+e32671decb2e82fcfc7c72b6b653a95a  [shntool]  2.08 Makin' Some Noise.shn
+1d30b432a517fc68e2c221f101be6772  [shntool]  2.09 Cry To Me.shn
+5f5ea36ecc823236859d6afdffe65d32  [shntool]  2.10 Shout.shn
+8f12839cd3fbce674906b670a41ede78  [shntool]  2.11 Fooled Again (I Don't Like It).shn
+498011fb7d27042bafda94afffe17950  [shntool]  2.12 Don't Bring Me Down.shn
+538686a562e02dc23be4f6ff20790dd4  [shntool]  2.13 I'm A King Bee.shn
+be427c7039b98346d4ef924db446339f  [shntool]  2.14 Route 66.shn
+3b9c683fe14a93b57b1c40929670f0ad  [shntool]  2.15 Strangered In The Night.shn

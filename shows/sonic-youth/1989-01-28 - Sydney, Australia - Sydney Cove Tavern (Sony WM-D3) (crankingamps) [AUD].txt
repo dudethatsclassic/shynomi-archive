@@ -1,0 +1,39 @@
+﻿artist: Sonic Youth
+venue: Sydney Cove Tavern, Sydney, Australia
+date: Saturday 28 January 1989
+
+total (1:05:20)
+1. White Cross (3:56)
+2. Silver Rocket (4:12)
+3. Kissability (3:54)
+4. Eric's Trip (3:27)
+5. The Sprawl (7:27)
+6. 'Cross The Breeze (5:08)
+7. Teenage Riot (6:43)
+8. Hey Joni (4:05)
+9. The Wonder (4:55)
+10. Hyperstation (2:41)
+--tape flip--
+11. Hyperstation [continued] (3:07)
+12. Brother James (2:59)
+13. Eliminator Jr. (2:27)
+14. encore/Providence (3:43)
+15. I Love Her All The Time (6:29)
+
+master recorded and encoded by crankingamps
+
+https://en.wikipedia.org/wiki/Sonic_Youth
+https://www.discogs.com/artist/17199-Sonic-Youth
+
+lineup: Lubricated Goat (recorded)
+Sonic Youth (this recording)
+may or may not be complete lineup
+
+lineage: Sony WM-D3 cassette recorder with Sony ECM-969 stereo microphone
+> TDK SA C90 type 2 cassette > Nakamichi CR-7 cassette deck with azimuth optimised
+> Sound Devices MixPre-6 digital recorder as stereo wav file (24-bit 48kHz)
+> Adobe Audition CC 2020 normalise, edit, track, export as flac files (24-bit, 48kHz, level 8)
+> mp3tag > Traders Little Helper 
+
+no equalisation, no compression, no effects;
+not for sale or commercial exchange, for trade or give away only

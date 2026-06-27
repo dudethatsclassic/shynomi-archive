@@ -1,0 +1,44 @@
+Tom Petty & The Heartbreakers
+Oxford Polytechnic, Oxford, England
+March 24, 1980
+BBCFOUR Rebroadcast Tuesday October 10, 2017.
+
+BBCFour>PCTV DVB-T TS capture>Authored with Magix MEP
+
+Chapters:
+01 - Titles & Introduction
+02 - Shadow of a Doubt (A Complex Kid) - Fades In
+03 - Anything That's Rock'n'Roll
+04 - Introduction by Pete Drummond
+05 - Even The Losers
+06 - Here Comes My Girl
+07 - I Need To Know
+08 - Luna
+09 - Stories We Could Tell
+10 - Refugee
+11 - Breakdown
+12 - American Girl
+Run time:- 45:59
+
+md5:
+1844c0877d37cf30de8e214536439456 *VIDEO_TS.BUP
+1844c0877d37cf30de8e214536439456 *VIDEO_TS.IFO
+d4f6446966cda3980ae3583b7891d610 *VIDEO_TS.VOB
+d447e767ce4ebe803276fbabaf613b9b *VTS_01_0.BUP
+d447e767ce4ebe803276fbabaf613b9b *VTS_01_0.IFO
+fdf77e561125c51a899e2a6898896fd7 *VTS_01_0.VOB
+89328535d60225c12545d208384d9996 *VTS_01_1.VOB
+2a3b6d912f11dd8f6c87aba7e08c579b *VTS_01_2.VOB
+
+GSpot Says:
+DVD VOB format
+MPEG-2Program Stream << (1 vid, 1 aud)
+Sys Bitrate 10080 kb/s VBR 4196 kbps I/L TFF
+PAL 16:9
+Audio:
+MPEG-1 Layer 2 0xc0:48000Hz 256 kb/s tot
+stereo (2/0)
+
+Play It LOUD!
+
+Enjoy.

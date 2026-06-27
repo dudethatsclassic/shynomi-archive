@@ -1,0 +1,54 @@
+﻿OASIS
+
+DATE:		2008-08-26
+LOCATION: 	Seattle, Washington - USA
+VENUE:		WaMu Theater
+TITLE:		Seattle Adobe
+
+SOURCE: Church-Audio CA-11 Stereo Cardioid Microphone -> SP-SPSB-6 (@95Hz) -> iRiver iHP 120 (wav @ 44.1 KHz 16 bit)
+TRANSFER: iRiver iHP 120 -> USB -> Adobe Audition -> Mastering Rack (Wave Arts TrackPlug 5) -> CD Wave Editor -> WAV -> FLAC Frontend -> FLAC (8)
+
+SETLIST:
+01 Fuckin' In The Bushes
+02 Rock 'n' Roll Star
+03 Lyla
+04 The Shock Of The Lightning
+05 Cigarettes & Alcohol
+06 The Meaning Of Soul
+07 To Be Where There’s Life
+08 The Masterplan
+09 Songbird
+10 Slide Away
+11 Morning Glory
+12 Ain’t Got Nothin’
+13 The Importance Of Being Idle
+14 Wonderwall
+15 Supersonic
+16 ### Encore Break ###
+17 Don't Look Back In Anger (Semi-Acoustic)
+18 Falling Down
+19 Champagne Supernova
+20 I Am The Walrus
+
+NOTES:
+1) Mic Shuffling prior to FITB (worried about security)
+2) Slight Phasing on FITB as I checked the Mics in my hat
+3) 'Adobe' my 8 year old rat terrier had a heart attack the day before this show and although I rarely give my recordings titles I decided to name this one 'Seattle Adobe' in hopes his memory 'Lives Forever'. If anyone shares this recording please include the title... & pictures are included with the audio files in hopes someone would include Adobe's picture with any artwork that might surface.
+
+LENGTH: 	 96:11
+DATE: 		 Tuesday, August 26, 2008
+RECORDED BY: OasisDouglas (www.oasisdouglas.com | trades@oasisdouglas.com)
+--> NorthWestTapers Recording # NWT08.A.16.aud <--
+
+=========================================
+
+WEBSITE:
+http://www.oasisinet.com/
+
+FACEBOOK URL:
+http://www.facebook.com/pages/Oasis-Official/9949696967
+
+WAMU THEATER HOMEPAGE:
+http://www.wamutheater.com/
+
+### DO WHATEVER YOU WANT WITH THIS RECORDING - DISTRIBUTE FREELY (in any format) - AND MOSTLY... SUPPORT OASIS BY BUYING SOME OF THEIR STUFF ###

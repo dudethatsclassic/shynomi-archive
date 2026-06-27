@@ -1,0 +1,29 @@
+Sonic Youth - 1992 12 01 Brielpoort, Dienze, BE
+
+Rare version of Purr!
+
+1 Shoot
+2 100% 
+3 Teenage Riot 
+4 Kool Thing 
+5 Tom Violence 
+6 Swimsuit Issue 
+7 Sugar Kane 
+8 Burning Spear 
+9 Genetic 
+10 Theresa's Sound-World 
+11 Purr 
+12 Drunken Butterfly 
+13 JC 
+14 Youth Against Fascism 
+15 I Love Her All The Time
+16 vPro interview 1992 12 02
+
+Opening bands:
+Pavement
+Cell
+
+Lineage: 
+Sonic Youth - 1992 12 01 Brielpoort, Dienze, BE: Master Audience > 2nd gen audio tape > Tascam 202MKVII USB out > CDWAV > Audacity (normalization, fades, merges, noise reduction) > CDWAV (splits) > DBPowerAmp (FLAC)
+
+vPro interview 1992 12 02: FM > 2nd gen audio tape > Tascam 202MKVII USB out > CDWAV > Audacity (normalization, fades, merges, noise reduction) > CDWAV (splits) > DBPowerAmp (FLAC)

@@ -1,0 +1,38 @@
+Primus
+August 1, 2024
+Everwise Amphitheater at White River State Park
+Indianapolis, Indiana
+
+Source: Sound Professionals CMC-08s (AT943s)->SP-SB-20->Roland R05-> 
+Audacity (high-pass filter -12db @ 60Hz)->CDWave->TLH 
+Taper: ironchef 
+
+Total time:  102:34 / 1:42:34
+
+01.  Intro
+02.  Those Damned Blue-Collar Tweekers
+03.  Last Salmon Man
+04.  Groundhog's Day
+05.  My Friend Fats
+06.  Frizzle Fry
+07.  Seas of Cheese
+08.  Jilly's on Smack
+09.  Professor Nutbutter's House of Treats
+10.  Hamburger Train
+11.  Welcome to This World ->
+12.  My Name Is Mud
+13.  stage banter
+14.  Tommy the Cat
+15.  encore break
+16.  American Life
+
+Notes:  Recorded from the GA pit.  It was too crowded in the middle, so I stayed
+over to the far left side where I had some space around me to keep away from
+the talkers.  I would've preferred to be in line with the PA stack, but again with 
+the people and the talking, so I was a litle left of that.  The sound was heavy
+on the bass, but at least it was free of crowd interference.   I don't normally mess
+with EQ, but I thought this would benefit from the simple preset high pass filter in 
+Audacity to take a little of the rumble out.  The Coheed and Cambria set was also 
+recorded, but I missed the set by the first opener, Too Many Zooz.  Enjoy!
+
+	

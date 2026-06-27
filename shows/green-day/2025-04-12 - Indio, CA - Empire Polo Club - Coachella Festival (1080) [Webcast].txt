@@ -1,0 +1,33 @@
+Green Day  
+Coachella Festival 2025  
+Coachella Stage  
+Empire Polo Club  
+Indio  
+CA, USA  
+April 12th, 2025
+
+Lineage: Live webcast -> yt-dlp -> ffmpeg ->.mkv  
+Video: MPEG4 Video (H264) 1920x1080 16:9 1715 Kbps 30 fps  
+Audio: AAC 96 Kbps 44.1 KHz stereo
+
+Setlist:  
+American Idiot
+Holiday
+Know Your Enemy
+Boulevard of Broken Dreams
+One Eyed Bastard
+Longview
+Welcome to Paradise
+Hitchin' a Ride
+Brain Stew
+St. Jimmy
+21 Guns
+Minority
+Basket Case
+When I Come Around
+Wake Me Up When September Ends
+Jesus of Suburbia
+Bobby Sox
+Good Riddance (Time of Your Life)
+
+trt = 1:34:17

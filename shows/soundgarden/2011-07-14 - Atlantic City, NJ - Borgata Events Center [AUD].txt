@@ -1,0 +1,28 @@
+The Mars Volta
+Borgata Event Center
+Atlantic City, NJ, USA
+July 14, 2011--Thursday
+
+Taper: Lou <loucap81@gmail.com>
+Location: General admission, ~ 30 feet from and directly in line with left speaker stack
+
+Lineage: SP-CMC-2 (AT831's with low sensitivity mod) > SP-SPSB-8 (95 Hz bass roll off) > Edirol R-09 > WAV 24/48 > CDWave > Trader's Little Helper > FLAC(level 8)
+
+Raw master recording
+
+Quality: B+
+File Size: 526 MB, FLAC
+
+Total Time: 46:44
+
+1. Aegis 7:11
+2. The Whip Hands 5:42
+3. Molochwalk 3:59
+4. Dyslexicon 4:26
+5. Jewel 16:40
+6. Goliath 8:48
+
+Notes:
+Despite standing in the same spot as I did for Soundgarden, with the same settings on the Edirol, the sound is weaker thanks to a crappy and inconsistent mix. 
+
+FFP file and shntool results are included.

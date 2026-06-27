@@ -1,0 +1,38 @@
+
+Rage Against the Machine
+Roseland Ballroom: New York, NY
+August 20, 1996
+
+Source: Core Sound Binaurals > Sony WM-D3
+Lineage: ANA Master > EQ > ANA1 > DAT @ 32kHz
+Transfer: Tascam DA-20 > Digital Coax > Behringer Ultramatch SRC2000 (upsample) > Digital Coax > MicroTrack II > Audacity > CDWave > TLH
+
+Setlist:
+
+01 Intro
+02 Know Your Enemy
+03 Bombtrack
+04 Vietnow
+05 Without a Face
+06 Down Rodeo
+07 Fistful of Steel
+08 Revolver
+09 Tire Me
+10 Bullet in the Head
+11 -encore break-
+12 People of the Sun
+13 Bulls on Parade
+14 Killing in the Name
+15 Roll Right (remix)
+16 Freedom >
+17 Township Rebellion
+18 Outro
+
+Notes: Transferred from my DAT clone in March 2020 using the SRC to upsample the 32kHz DAT. The recording had been EQ'd prior to being placed on DAT. Tape flip after 'Tire Me' but no music was lost. 
+
+Archive: DAT clone was transferred @ 48kHz and FLAC'd with cue sheet. 
+
+Transferred by tapeworm(48) 
+Txt file compiled on 3/30/2020
+
+*** DO NOT DISTRIBUTE IN LOSSY FORMATS. DO NOT SELL THIS RECORDING, TRADE IT FREELY *** 

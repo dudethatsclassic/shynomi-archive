@@ -1,0 +1,67 @@
+Liam Gallagher
+Rock Werchter 2023
+Main Stage
+Festivalpark
+Werchter, Belgium
+June 30, 2023
+
+** 16 BIT **
+
+Source:  SP-CMC-8 (cardioids) > SP-SPSB-10 > Roland R-07 @ 24 bit/48 kHz
+Mastering:  .WAV > iZotope RX10 Advanced v10.0.0.1705 (De-click) > Sound Forge Pro 14.0 Build 140 [minor edits, normalize, & fades, Boz Digital Labs T-Bone plug-in (slant EQ)] > CDWav (tracking) > iZotope MBIT+ 
+(dithered and downsampled to 16 bit/44.1 kHz) > Trader's Little Helper (level 5) > FLAC > TagScanner 6.0.35 (tagging)
+Location:  On the rail, 5 meters right of center
+Recorded by:  toshi
+Mastered by:  Dennis Orr
+
+Setlist: (1:20:55)
+01 Manchester City Champions Chant
+02 Fuckin' In The Bushes
+03 Morning Glory
+04 Rock 'N' Roll Star
+05 Wall Of Glass
+06 Better Days
+07 Why Me?  Why Not.
+08 C'mon You Know
+09 Stand By Me
+10 Roll It Over
+11 Slide Away
+12 More Power
+13 Chat
+14 Diamond In The Dark
+15 The River
+16 Once
+17 Cigarettes & Alcohol
+18 Wonderwall
+19 Champagne Supernova
+
+Liam Gallagher - lead vocals & percussion
+Mike Moore - lead guitar
+Jay Mahler - guitar
+Drew McConnell - bass
+Chris Madden - keyboards
+Dan McDougall - drums & backing vocals
+The three female backing vocalists were not introduced
+
+Notes:
+Toshi's full video is here:  https://www.youtube.com/watch?v=t7vEhCpGeiA
+
+LiamGallagher2023-06-30t01.flac:61aec6f199d9629ecb64ba1edf6593aa
+LiamGallagher2023-06-30t02.flac:b4e5afa5bf73f90f27aa4d67aa223dea
+LiamGallagher2023-06-30t03.flac:0e1ae0bcbff010d314af46b5c176928e
+LiamGallagher2023-06-30t04.flac:646bd7d381b60022759950f7e0374006
+LiamGallagher2023-06-30t05.flac:4387adb0fa9315872bb92955ba68c71c
+LiamGallagher2023-06-30t06.flac:c66a50f9b0b797d09a9df87beea291fb
+LiamGallagher2023-06-30t07.flac:513b0556a77a355d016e3a8c38b9d641
+LiamGallagher2023-06-30t08.flac:9e460955e1541ecf31be5521e8e54177
+LiamGallagher2023-06-30t09.flac:51327296654c70850f1b35bc1dbe9646
+LiamGallagher2023-06-30t10.flac:d8ec9f39bbd5b2e1f12b06443d7d70d4
+LiamGallagher2023-06-30t11.flac:a85a3b852721b6b6cd5e97df46893067
+LiamGallagher2023-06-30t12.flac:f6e1f26c8ca7dd85a32bb19940c1bf84
+LiamGallagher2023-06-30t13.flac:9d8ab7aaefc50beac7e2d2c9cf8fcbdb
+LiamGallagher2023-06-30t14.flac:61aa425e6d62f9afb9d67298aa072edb
+LiamGallagher2023-06-30t15.flac:f57976110c42e334caa008b1dc84257c
+LiamGallagher2023-06-30t16.flac:33abb42b2aa967b53285889dcca3f8be
+LiamGallagher2023-06-30t17.flac:a7bcc83145ac4c4cd209ad9de9725a28
+LiamGallagher2023-06-30t18.flac:5785b9cc34a89c3d69b84692a5abb7a1
+LiamGallagher2023-06-30t19.flac:750702bf24f2bf666e738499cf114aeb

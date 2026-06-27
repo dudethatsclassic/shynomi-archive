@@ -25,7 +25,8 @@ const ARTIST_DATA = {
       "venue": "Venue",
       "version": "AUD",
       "format": "FLAC",
-      "notes": "Unknown"
+      "notes": "Unknown",
+      "textFile": "1982-11-16 - London, England - Venue (unk) [AUD].txt"
     },
     {
       "year": 1983,
@@ -38,7 +39,8 @@ const ARTIST_DATA = {
       "venue": "City Hall - Lovers Are Mortals",
       "version": "AUD",
       "format": "FLAC",
-      "notes": "Vinyl"
+      "notes": "Vinyl",
+      "textFile": "1983-04-29 - Newcastle, UK - City Hall - Lovers Are Mortals (Vinyl) [AUD].txt"
     },
     {
       "year": 1983,
@@ -51,7 +53,8 @@ const ARTIST_DATA = {
       "venue": "Congress Centrum CCH",
       "version": "AUD",
       "format": "FLAC",
-      "notes": "unk \u00b7 dimitroy  transfer 2022"
+      "notes": "unk \u00b7 dimitroy  transfer 2022",
+      "textFile": "1983-05-29 - Hamburg, Germany - Congress Centrum CCH (unk) (dimitroy  transfer 2022) [AUD].txt"
     },
     {
       "year": 1983,
@@ -64,7 +67,8 @@ const ARTIST_DATA = {
       "venue": "Institute of Contemporary Arts - The Mall - ANA(M)",
       "version": "AUD",
       "format": "FLAC",
-      "notes": "Aiwa HS-J2 \u00b7 Unknown"
+      "notes": "Aiwa HS-J2 \u00b7 Unknown",
+      "textFile": "1983-10-08 - London, UK - Institute of Contemporary Arts - The Mall - ANA(M) (Aiwa HS-J2) (unk) [AUD].txt"
     },
     {
       "year": 1983,
@@ -77,7 +81,8 @@ const ARTIST_DATA = {
       "venue": "De Vereniging",
       "version": "AUD",
       "format": "FLAC",
-      "notes": "Source 2 \u00b7 dimenew"
+      "notes": "Source 2 \u00b7 dimenew",
+      "textFile": "1983-11-01 - Nijmegen NL - De Vereniging (Source 2) (dimenew) [AUD].txt"
     },
     {
       "year": 1983,
@@ -90,7 +95,8 @@ const ARTIST_DATA = {
       "venue": "De Vereniging",
       "version": "AUD",
       "format": "FLAC",
-      "notes": "unk \u00b7 dimitroy transfer"
+      "notes": "unk \u00b7 dimitroy transfer",
+      "textFile": "1983-11-01 - Nijmegen, NL - De Vereniging (unk) (dimitroy transfer) [AUD].txt"
     },
     {
       "year": 1983,
@@ -103,7 +109,8 @@ const ARTIST_DATA = {
       "venue": "De Gigant",
       "version": "AUD",
       "format": "FLAC",
-      "notes": "dream remaster"
+      "notes": "dream remaster",
+      "textFile": "1983-11-05 - Apeldoorn, NL - De Gigant (dream remaster) [AUD].txt"
     },
     {
       "year": 1983,
@@ -116,7 +123,8 @@ const ARTIST_DATA = {
       "venue": "De Gigant - ANA",
       "version": "AUD",
       "format": "FLAC",
-      "notes": "1"
+      "notes": "1",
+      "textFile": "1983-11-05 - Apeldoorn, NL - De Gigant - ANA(1) [AUD].txt"
     },
     {
       "year": 1983,
@@ -129,7 +137,8 @@ const ARTIST_DATA = {
       "venue": "Les Bains Douches",
       "version": "AUD",
       "format": "FLAC",
-      "notes": "Unknown"
+      "notes": "Unknown",
+      "textFile": "1983-11-09 - Paris, France - Les Bains Douches (unk) [AUD].txt"
     },
     {
       "year": 1983,
@@ -142,7 +151,8 @@ const ARTIST_DATA = {
       "venue": "University Of Leicester",
       "version": "AUD",
       "format": "FLAC",
-      "notes": "richardbajor"
+      "notes": "richardbajor",
+      "textFile": "1983-12-10 - Leicester, UK - University Of Leicester (richardbajor) [AUD].txt"
     },
     {
       "year": 1984,
@@ -155,7 +165,8 @@ const ARTIST_DATA = {
       "venue": "Kir",
       "version": "AUD",
       "format": "FLAC",
-      "notes": "Unknown"
+      "notes": "Unknown",
+      "textFile": "1984-02-12 - Hamburg, DE - Kir (unk) [AUD].txt"
     },
     {
       "year": 1984,
@@ -168,7 +179,8 @@ const ARTIST_DATA = {
       "venue": "New Ocean Club",
       "version": "AUD",
       "format": "FLAC",
-      "notes": "Sony D6 \u00b7 Unknown"
+      "notes": "Sony D6 \u00b7 Unknown",
+      "textFile": "1984-04-16 - Cardiff, Wales - New Ocean Club (Sony D6) (unk) [AUD].txt"
     },
     {
       "year": 1994,
@@ -194,7 +206,8 @@ const ARTIST_DATA = {
       "venue": "Doornroosje - ANA",
       "version": "AUD",
       "format": "FLAC",
-      "notes": "1 \u00b7 Unknown"
+      "notes": "1 \u00b7 Unknown",
+      "textFile": "1985-02-05 - Nijmegen, NL - Doornroosje - ANA(1) (unk) [AUD].txt"
     },
     {
       "year": 1985,
@@ -207,7 +220,8 @@ const ARTIST_DATA = {
       "venue": "Nakano Sunplaza",
       "version": "AUD",
       "format": "FLAC",
-      "notes": "Unknown"
+      "notes": "Unknown",
+      "textFile": "1985-09-10 - Tokyo, Japan - Nakano Sunplaza (unk) [AUD].txt"
     },
     {
       "year": 1985,
@@ -220,7 +234,8 @@ const ARTIST_DATA = {
       "venue": "Newport Music Hall - ANA",
       "version": "AUD",
       "format": "FLAC",
-      "notes": "x"
+      "notes": "x",
+      "textFile": "1985-09-18 - Columbus, OH - Newport Music Hall - ANA(x) [AUD].txt"
     },
     {
       "year": 1985,
@@ -233,7 +248,8 @@ const ARTIST_DATA = {
       "venue": "Paradise Theatre",
       "version": "AUD",
       "format": "FLAC",
-      "notes": "Aiwa HS-J2 \u00b7 floor clown tapes vol. 2"
+      "notes": "Aiwa HS-J2 \u00b7 floor clown tapes vol. 2",
+      "textFile": "1985-09-23 - Boston, MA - Paradise Theatre (Aiwa HS-J2) (floor clown tapes vol. 2) [AUD].txt"
     },
     {
       "year": 1990,
@@ -246,7 +262,8 @@ const ARTIST_DATA = {
       "venue": "Volksbildungsheim",
       "version": "AUD",
       "format": "FLAC",
-      "notes": "richardbajor"
+      "notes": "richardbajor",
+      "textFile": "1990-10-14 - Frankfurt, DE - Volksbildungsheim (richardbajor) [AUD].txt"
     },
     {
       "year": 1990,
@@ -259,7 +276,8 @@ const ARTIST_DATA = {
       "venue": "Royal Court - ANA",
       "version": "AUD",
       "format": "FLAC",
-      "notes": "x \u00b7 Unknown"
+      "notes": "x \u00b7 Unknown",
+      "textFile": "1990-10-26 - Liverpool, England - Royal Court - ANA(x) (unk) [AUD].txt"
     },
     {
       "year": 1994,
@@ -272,7 +290,8 @@ const ARTIST_DATA = {
       "venue": "Rock City",
       "version": "AUD",
       "format": "FLAC",
-      "notes": "Unknown"
+      "notes": "Unknown",
+      "textFile": "1994-02-09 - Nottingham, UK - Rock City (unk) [AUD].txt"
     },
     {
       "year": 1994,
@@ -285,7 +304,8 @@ const ARTIST_DATA = {
       "venue": "Parr Hall",
       "version": "AUD",
       "format": "FLAC",
-      "notes": "Sony Walkman \u00b7 popsqueeze"
+      "notes": "Sony Walkman \u00b7 popsqueeze",
+      "textFile": "1994-05-28 - Warrington, UK - Parr Hall (Sony Walkman) (popsqueeze) [AUD].txt"
     }
   ]
 };

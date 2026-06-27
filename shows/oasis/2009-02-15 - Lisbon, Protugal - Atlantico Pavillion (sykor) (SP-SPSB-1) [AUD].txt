@@ -1,0 +1,47 @@
+OASIS
+2009-02-15
+Pavilhao Atlantico, Lisbon
+PORTUGAL
+
+Taper: Sykor
+Source: AUD > SP-CMC-1 > SP-SPSB-1 @ 16Hz (no bass roll-off) > Nomad Jukebox 3 (48Hz/16bit; line-in gain @ +11dB)
+Location: Center, ~60m from the stage, ~20m high (2nd balcony)
+Transfer: NJ3 > HD (firewire)
+Editing: Cool Edit Pro 2.1 (clapping attenuation, hard-limiting, normalizing, fade in/out tracks)
+Resample: r8brain v1.9 (r8: 44.1 kHz, Output bit depth: 16 bit, Quality: Very High)
+Tracking: CD Wave Editor 1.98
+Encoding: FLAC v1.2.1 (Level 8) with TLH v2.4.1 (Build 160)
+
+
+ --- Disc 1
+01 (intro) > Fuckin' In The Bushes (sampler)
+02 Rock 'n' Roll Star
+03 Lyla
+04 The Shock Of The Lightning
+05 Cigarettes & Alcohol
+06 The Meaning Of Soul
+07 To Be Where There's Life
+08 Waiting For The Rapture
+09 (stage banter) > (band introduction)
+10 The Masterplan
+11 Songbird
+12 Slide Away
+13 Morning Glory
+14 Ain't Got Nothin'
+15 The Importance Of Being Idle
+
+ --- Disc 2
+01 I'm Outta Time
+02 Wonderwall
+03 Supersonic
+04 <interlude / encore break>
+05 Don't Look Back In Anger
+06 Falling Down
+07 Champagne Supernova
+08 I Am The Walrus [The Beatles]
+09 (outro)
+
+Total time: 105m24s
+
+    Notes
+- Could use some EQ'ing to add some bass to it, but that can be achieved on-the-fly when playing, so there was no point in risking a bad EQ.

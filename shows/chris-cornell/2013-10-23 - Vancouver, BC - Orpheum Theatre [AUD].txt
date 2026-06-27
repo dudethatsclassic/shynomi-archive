@@ -1,0 +1,90 @@
+Chris Cornell
+Orpheum Theatre
+Vancouver, BC
+October 23, 2013
+
+** 16 BIT **
+
+Source:  AT853 cardioid mics (in collar) > Naiant Tinybox V1.5 pre-amp (+18 db) > Edirol R-09HR > SanDisk SD Memory 
+         Card @ 24 bit/48 kHz
+Transfer:  SD Memory Card > USB > Hard Drive > iZotope RX2 Advanced v2.02.457 (declick) > Sound Forge Pro 10.0a 
+           (fades, minor edits, & normalize) > CDWav (tracking) > iZotope MBIT+ (dithered and downsampled to 16 
+           bit/44.1 kHz) > Trader's Little Helper (level 5) > FLAC > TagScanner 5.1 (tagging)
+Location:  Row 19, Orchestra. RC
+Taped and transferred by:  dorrcoq (project #431)
+
+Setlist:
+01 Crowd > Chat
+02 A Satisfied Mind
+03 Scar In The Sky
+04 Chat
+05 Imagine
+06 One Interior Monkey (1)
+07 Dandelion
+08 Chat
+09 Silence The Voices (2)
+10 Chat
+11 Thank You
+12 Be Yourself
+13 Original Fire
+14 Chat
+15 Can't Change Me
+16 #1 Zero
+17 Chat
+18 Halfway There
+19 Fell On Black Days
+20 False Start & Chat
+21 Seasons
+22 The Day I Tried To Live
+23 Redemption Song
+24 Bend In The Road
+25 Chat
+26 When I'm Down (2)
+27 Chat
+28 Wide Awake
+29 Wooden Jesus (with false start)
+30 Encore Break
+- Encore - 
+31 Chat
+32 Hunger Strike (3)
+33 Crowd
+
+(1) Improvised song, based on what a crowd comment sounded like to Chris
+(2) Backed by a vinyl record track
+(3) With Bhi Bhiman - guitar & vocals
+
+Chris Cornell - vocals, guitars, & harp (on Bend In The Road)
+
+ChrisCornell2013-10-23t01.flac:2221e29adce7763946f6e252462589e0
+ChrisCornell2013-10-23t02.flac:9015ce35033cd8704133e51b4088a8f1
+ChrisCornell2013-10-23t03.flac:67fc753be5fbfb5e3cd83a24d1b64f34
+ChrisCornell2013-10-23t04.flac:e1b650c610c523af0ddcf1cd19660a46
+ChrisCornell2013-10-23t05.flac:7e54d56cca82d10642fd7c03567bdcea
+ChrisCornell2013-10-23t06.flac:22c2a78af712f96c6c2fb2e0fffca68b
+ChrisCornell2013-10-23t07.flac:8364a2fb75747fe501d37a55ed81551f
+ChrisCornell2013-10-23t08.flac:a9913288f99dfb1dd0d39cb5fc48e742
+ChrisCornell2013-10-23t09.flac:d6bcbb527f985a8eed6dc3c8162066a2
+ChrisCornell2013-10-23t10.flac:81769b4b0796e24c9fa92808b55584d6
+ChrisCornell2013-10-23t11.flac:a1ef788cf5915608843c7baf1c417aaa
+ChrisCornell2013-10-23t12.flac:94a661c5f0f5fa466054fb1b9bb0e485
+ChrisCornell2013-10-23t13.flac:af3039f322d2edc370673bad4dad6901
+ChrisCornell2013-10-23t14.flac:3961f4e6626f1d14852d15588570b159
+ChrisCornell2013-10-23t15.flac:9232b7b84390d7ec38b2a4b7d4db657f
+ChrisCornell2013-10-23t16.flac:04d3a5619f52c59e664bbf08483b4786
+ChrisCornell2013-10-23t17.flac:7ff5fd6935dcc27f3154be0d7da56bd0
+ChrisCornell2013-10-23t18.flac:e97996cc518ebcd9f3a659b71e2449e1
+ChrisCornell2013-10-23t19.flac:e57443d0862e61b0a91b7c384df3d408
+ChrisCornell2013-10-23t20.flac:3b5b46f9faf0bfc5628b58a8e63a78a2
+ChrisCornell2013-10-23t21.flac:e382fc2b8ff67fce64006b34abdd2ac9
+ChrisCornell2013-10-23t22.flac:e09d4577fd6b1ef7265490099bb863e1
+ChrisCornell2013-10-23t23.flac:1f7c6e456bcd8b7463b8bfd305eaee3f
+ChrisCornell2013-10-23t24.flac:a2ded5b80c1c90ae54e37af9bfcfe381
+ChrisCornell2013-10-23t25.flac:2e4b6f3c9d35962d6e4906b1ac8c13bb
+ChrisCornell2013-10-23t26.flac:98a2bea477e30aa234cbb79948e5cf5d
+ChrisCornell2013-10-23t27.flac:6339638b39ee10d515e19d33231669d0
+ChrisCornell2013-10-23t28.flac:92c9213d1e3ab484e4c87f312bd8501c
+ChrisCornell2013-10-23t29.flac:1da8710de68abce1bde8566b826f6e0d
+ChrisCornell2013-10-23t30.flac:ac8232b74cfba02f78ed8e89181c0d17
+ChrisCornell2013-10-23t31.flac:fab94df3d8b7c1c9fe48bf895303b06d
+ChrisCornell2013-10-23t32.flac:0489d2602e001d56ea833cb3246c0b77
+ChrisCornell2013-10-23t33.flac:e0d215224cd824a151e1174958444837

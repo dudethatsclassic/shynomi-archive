@@ -1,0 +1,22 @@
+Liam Gallagher - Knebworth 3 June 2022 [Oui FM HD stream (192kb/s)]
+
+Liam Gallagher
+Knebworth
+3 June 2022
+
+OuiFM HD stream (192kb/s) > ffmpeg > Audacity > FLAC
+Captured by whatever
+Radio chat and jingles removed in Audacity.
+
+01 - Rock 'n' Roll Star
+02 - Morning Glory
+03 - Wall of Glass
+04 - Everything's Electric
+05 - Better Days
+06 - Roll It Over
+07 - Slide Away
+08 - More Power
+09 - Diamond in the Dark
+10 - Once
+11 - Cigarettes & Alcohol
+12 - Champagne Supernova (with John Squire)

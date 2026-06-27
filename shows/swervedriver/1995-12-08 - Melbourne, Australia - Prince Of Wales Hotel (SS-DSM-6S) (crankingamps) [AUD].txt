@@ -1,0 +1,42 @@
+﻿artist: Swervedriver
+venue: Prince Of Wales Hotel, Melbourne, Australia
+date: Friday 8 December 1995
+
+(total 1:23:25)
+1. Sci-Flyer (5:53)
+2. Sandblasted (5:00)
+3. Duel (5:46)
+4. Last Train To Satansville (5:31)
+5. Son Of Jaguar 'E' (4:38)
+6. Sunset (5:19)
+7. She's Beside Herself (6:02)
+8. The Birds (3:22)
+9. The Other Jesus (3:24)
+10. Never Lose That Feeling (4:11)
+11. Son Of Mustang Ford (4:58)
+12. Kill The Superheroes (6:40)
+13. encore 1 (2:07)
+14. For Seeking Heat (3:18)
+15. Rave Down (5:19)
+16. encore 2 (1:55)
+17. Duress (9:54)
+
+master recorded and encoded by crankingamps
+
+https://en.wikipedia.org/wiki/Swervedriver
+https://www.discogs.com/artist/159997-Swervedriver
+https://www.swervedriver.com
+
+lineup: Incursion (recorded)
+Ammonia (recorded)
+Swervedriver (this recording)
+
+lineage: Sonic Studios DSM-6S binaural microphones > Sonic Studios PA-6LC3 power adapter lo cut 30Hz
+> Sony TCD-D7 portable DAT recorder with Sonic Studios MOD-2 modification
+> TDK DC4-90 90m DDS DAT tape (16-bit, 48kHz) > Fostex D-15 DAT deck > AES/EBU
+> Sound Devices 744T digital recorder as stereo wav file (16-bit 48kHz)
+> Adobe Audition CC 2020 normalise, edit, track, export as flac files (16-bit, 48kHz, level 8)
+> mp3tag > Traders Little Helper 
+
+notes: no equalisation, no compression, no effects;
+not for sale or commercial exchange, for trade or give away only

@@ -1,0 +1,19 @@
+a64eadfac0fba170a41670e0a01b524c *01 Spoonman.flac
+c9e3cc5dc321847150af429dda86ec4d *02 Original Fire.flac
+878a59fa872306153b6a8bb66aef29d0 *03 No Such Thing.flac
+9655151a906545181a4f05022993ef5c *04 Say Hello To Heaven.flac
+ec09cc92cd10096591df17a3e45fb88a *05 Fell On Black Days.flac
+efb635bad14e81d04e1e80dce2483f58 *06 Like A Stone.flac
+d9cf7f4c6e6e028983b381bbad7e4abf *07 Outshined.flac
+3655ec25c9e3aa11c08fadb28484545f *08 Seasons.flac
+9fc131d4e215ee53f9a11de7e98bb04d *09 All Night Thing.flac
+9a17f3b00d01a1b96f62143e5bd73fb3 *10 Redemption Song.flac
+5ffe118dd3bb8fd03e75eb78d856ad99 *11 Can't Change Me.flac
+22723572d30b6ecb8730f07d0cae2db2 *12 Doesn't Remind Me.flac
+e7298042896d93184992360b0f8c0e25 *13 Arms Around Your Love.flac
+2ec8985895d245efdefe1e8b4f5ff364 *14 What You Are.flac
+f9397e283d53ef7f84e88c43ed44d5e9 *15 Rusty Cage.flac
+fde12d417a351dc8f1a883c34a8b9c9f *16 Black Hole Sun.flac
+36447d41092ae06b2a3ff59df6586d72 *17 Billie Jean.flac
+
+No errors occured.

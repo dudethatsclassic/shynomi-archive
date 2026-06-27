@@ -1,0 +1,99 @@
+SONIC YOUTH (& LIGHTNING BOLT)
+Irving Plaza
+New York City, NY, USA
+Saturday, November 30th, 2002
+
+Source: Audience recording
+
+Lineage for this torrent: .FLAC files received in trade > CD Wave Editor 1.98 (for splitting track 15) > WAV > all files Renamed and tagged with Mp3tag v2.49a > Trader's Little Helper (check for sector boundary errors, encoding to .FLAC level 8, .ffp, .md5) 
+
+Set-list:
+
+01.- Making The Nature Scene
+02.- White Kross
+03.- The Empty Page
+04.- Rain On Tin
+05.- Eric's Trip
+06.- Kissability
+07.- Plastic Sun
+08.- Radical Adults Lick Godhead Style
+09.- Shadow Of A Doubt
+10.- Karenology
+11.- Drunken Butterfly
+12.- Sympathy For The Strawberry
+13.- Disconnection Notice
+14.- Silver Rocket
+15.- Inhuman
+16.- Improvisation (Lightning Bolt's set)
+
+Sonic Youth:
+Thurston Moore
+Kim Gordon
+Lee Ranaldo
+Jim O'Rourke
+Steve Shelley
+
+http://www.sonicyouth.com/
+
+
+Lightning Bolt:
+Brian Chippendale
+Brian Gibson
+
+http://laserbeast.com/
+ 
+Notes:
+* Lightning Bolt & Black Dice were on the bill as well. Lightning Bolt began their set just as Sonic Youth was ending theirs with "Inhuman". Steve Shelley rhythmically tied the two sets together. Originally, track 15 of this set of files contained both Sonic Youth's "Inhuman" and Lightning Bolt's improvisation. but I split it into two separate tracks.
+* Please share this freely and losslessly.
+
+
+
+
+.FLAC fingerprint:
+01.Making The Nature Scene.flac:88222cc5c65543cb1a6d5541f780b6b4
+02.White Kross.flac:6019e45312b8e3efd25804575bf6af0e
+03.The Empty Page.flac:e920242902258a5ac3825e4b39d5e0df
+04.Rain On Tin.flac:b90ed9d8e78e4ac2e056467439c6390f
+05.Eric's Trip.flac:51e924cbb817d3ebe7f147ba7905f7bb
+06.Kissability.flac:4ca7341592b67c629342c3a88dadbb3e
+07.Plastic Sun.flac:80903837cb0036274f096fa0c4e8eabb
+08.Radical Adults Lick Godhead Style.flac:ffa81ff94aa149b029e1745633b3391a
+09.Shadow Of A Doubt.flac:52f3ee602976661674c05335f0a9e203
+10.Karenology.flac:eb7bcad11d6bfc29920173049c0041dc
+11.Drunken Butterfly.flac:85f331bc9f3149153a9d115d356a6199
+12.Sympathy For The Strawberry.flac:2c8b5339d900216ae697e8d0f19bfa51
+13.Disconnection Notice.flac:c62cb7db807dd419651fd23fe34280ff
+14.Silver Rocket.flac:91b685125c7cef01288fac4e00933427
+15.Inhuman.flac:56425c0d414c36343656645a9a28f208
+16.Improvisation.flac:ac1bbc55e77c7f818e2f70e73c355cd7
+
+No errors occured.
+
+.MD5 Checksum:
+f68fefab556dd69e69fad29c4d78a27a *01.Making The Nature Scene.flac
+cb18e6f48466970e663b4a0d28d32b9f *02.White Kross.flac
+53e9074f13f7e489bb38a496b8fa8677 *03.The Empty Page.flac
+fda8344046cd7c5b87a2ff7db5cc3d99 *04.Rain On Tin.flac
+8eee78da4a8e66148657608eb911cf68 *05.Eric's Trip.flac
+86c6ea652b3407311d9d088e0bb4eac1 *06.Kissability.flac
+3f087c2117f3430ca108b63d4612a427 *07.Plastic Sun.flac
+28a634f7f5f68fa8c2f6f26d63528233 *08.Radical Adults Lick Godhead Style.flac
+abb96c3799b73108a62df2d9995b6664 *09.Shadow Of A Doubt.flac
+38a2879274add8877d165025be3919cc *10.Karenology.flac
+db54f00cfccd660ed7fbde98f9115fc2 *11.Drunken Butterfly.flac
+d99953b5abc54557872780f8f6d8d839 *12.Sympathy For The Strawberry.flac
+d525bbc77b0a4b215c3ccbfc20f5cd82 *13.Disconnection Notice.flac
+d6f56d9772c9d27ba1239341e9364fd8 *14.Silver Rocket.flac
+0ec412acf4b5533743eb0ef245b6a257 *15.Inhuman.flac
+7b96c2356bd5786c8fd90bf6c3b7a751 *16.Improvisation.flac
+
+No errors occured.
+
+
+
+Seeded by hipster_bebop_junkie aka black_orchid on March 19th, 2012.
+
+----------
+
+Uploaded and shared around by choc e-Claire in August 2020, but after removing the Lightning Bolt set from the folder
+You can get that for yourself at https://archive.org/details/lb2002-11-30

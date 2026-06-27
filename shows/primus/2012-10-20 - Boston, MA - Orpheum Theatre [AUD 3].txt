@@ -1,0 +1,46 @@
+Primus
+October 20, 2012
+Orpheum Theatre
+Boston, MA
+
+Source: Built-In Mics > Zoom H1
+
+Generation: WAV(M) [24bit/96KHz] > WAV [16bit/44.1KHz] > FLAC [Level 8]
+
+Transfer: Zoom H1 > USB > Audacity (balance channels, fades, track splits, resample, dither) > Trader's Little Helper
+
+Taper: Greg Johnson
+
+Location: Balcony, Row F, Seat 5
+
+Set 1:
+
+Intro
+To Defy the Laws of Tradition
+Fisticuffs
+Groundhog's Day
+Glass Sandwich
+Eternal Consumption Engine
+Mr. Krinkle
+Spagetti Western
+Moron TV
+Hello Skinny
+Harold of the Rocks
+
+Set 2:
+
+The Return Of Sathington Willoughby
+Eyes of the Squirrel
+Dirty Drowning Man
+Southbound Pachyderm
+Lee Van Cleef
+Hats Off
+Jilly's on Smack
+My Name Is Mud
+Jerry Was a Race Car Driver
+Encore Break
+Hamburger Train
+Here Come the Bastards
+
+Notes: First time Dirty Drowning Man was played live. Some chatting in the right channel.  
+

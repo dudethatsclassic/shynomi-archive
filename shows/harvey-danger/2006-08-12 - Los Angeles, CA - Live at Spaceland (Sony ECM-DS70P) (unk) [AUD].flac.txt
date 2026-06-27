@@ -1,0 +1,9 @@
+hd2006812-01-TheSameAsBeingInLove.flac:33f45be457402c72bc4796e0165cf7b1
+hd2006812-02-ProblemsAndBiggerOnes.flac:e85ccedf516a94b9830100e529f90bf2
+hd2006812-03-BalladOfTheTragicHeroPityAndFear.flac:6f61bc3821df98824acd527ca1b01ce0
+hd2006812-04-CoolJames.flac:2875cfe5bb932da5ab6548cb6b5ebe7b
+hd2006812-05-Authentic.flac:e55a8e9a0295b36eb75927acac00cd37
+hd2006812-06-SadSweetheartOfTheRodeo.flac:3acec9d54fdd527c065459a7a106c8b2
+hd2006812-07-PikeSTParkSlope.flac:d7c0290a2c1d420acbae3e9fbc85ceec
+hd2006812-08-PrivateHelicopter.flac:b19e971fe18b28689bb64015ba8616d2
+hd2006812-09-RadioSilence.flac:9f07ba00456d5e9ed84f00996103f275

@@ -1,0 +1,38 @@
+Silverchair
+2002.04.01
+ABC Studio 227
+Sydney, New South Wales, Australia
+Broadcast Date: 2006.10.07
+As heard on Triple J's 'Impossible Music Festival'
+
+Lineage
+FM Broadcast-->Stereo Receiver-->PC Line-in-->Sound Forge-->.wav-->Flac Frontend-->.flac
+
+Track Listing
+01. World Upon Your Shoulders
+02. After All These Years
+03. Without You
+04. Emotion Sickness
+05. Miss You Love
+06. The Lever
+07. Paint Pastel Princess
+10. My Favourite Thing
+11. The Greatest View
+12. Do You Feel The Same?
+13. Ana's Song (Open Fire)
+14. One Way Mule
+
+Notes: When introducing this on the radio the DJ said the concert date was 2002.04.02.  Everywhere else has it listed as 2002.04.01 and they've gotten a lot of other show dates wrong so I'll go with 2002.04.01 as well.
+
+01 - World Upon Your Shoulders.flac:7a4a716af97d351a72c0a4522f1663e1
+02 - After All These Years.flac:b677ecb7ea1d73d74f8b6821ca5562fb
+03 - Without You.flac:0eb680a93816c8650f863abe0dca1ba6
+04 - Emotion Sickness.flac:2dff23752ee7b3e298c4d738d0d0f346
+05 - Miss You Love.flac:62ed18ed84184041088e8d419719aa0f
+06 - The Lever.flac:bc04caf2cc22f8162ea25f01ec97fd82
+07 - Paint Pastel Princess.flac:3aadb2d132d422cd31a354c271269298
+08 - My Favourite Thing.flac:ce01856c3bbf38fc35f80eac0e3826ba
+09 - The Greatest View.flac:3936e2568aa34dff6e2600bc3a8105ea
+10 - Do You Feel The Same.flac:2cbc73d9ec0c7b5470b704b3e683fa36
+11 - Ana's Song (Open Fire).flac:e1e81d7ed5d85b48c3b33f2503d54259
+12 - One Way Mule.flac:a938de837f94e703cc34db2a39a59507

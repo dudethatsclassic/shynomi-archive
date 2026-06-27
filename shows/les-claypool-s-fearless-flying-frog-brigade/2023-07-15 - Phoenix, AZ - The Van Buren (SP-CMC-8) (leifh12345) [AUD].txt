@@ -1,0 +1,89 @@
+Les Claypool's Fearless Flying Frog Brigade
+2023-07-15
+The Van Buren
+Phoenix, AZ
+
+SOURCE: 
+SP-CMC-8 (w/Mods) > Sony PCM-A10 > Sandisk Mini-SD Card (32gb - Class 10)
+
+TRANSFER: 
+.WAV (24 Bit) > Adobe Audition 2023 CC (normalize/amplify/tracking/dithering/downsampling) > .WAV (16 Bit) > Trader's Little Helper > FLAC (Level 6)
+
+SETLIST:
+
+01. Intro
+02. Up on the Roof
+03. (talking)
+04. David Makalaster
+05. Amanitas
+06. Cricket and the Genie (Movement I, The Delirium)
+07. Cricket and the Genie (Movement II, Oratorio Di Cricket)
+
+--- Pink Floyd's "ANIMALS" Set ---
+
+08. Pigs on the Wing, Part 1
+09. Dogs
+10. Pigs (Three Different Ones)
+11. Sheep
+12. Pigs ont he Wing, Part 2
+
+--- End of the Pink Floyd Set ---
+
+13. Precipitation
+14. (talking)
+15. Rum and Coke (Professor Longhair cover)
+16. Holy Mackerel
+17. D's Diner
+18. Buzzards of Green Hill
+19. (encore break)
+
+--- ENCORE ---
+
+20. Whamola
+21. Lust Strings
+22. Outro
+
+NOTES:
+
+Back in April, I was offered a ticket to this show from my longtime friend Stacie, and I immediately said yes. Of course, after hanging up and reflecting on the conversation, I realized I had just signed up to fly into Phoenix in fucking July. Granted, I've been there before in November, when it's beautiful out. But July? Holy hell, when I landed, it was 117 degrees out! 117 fucking degrees!! I haven't felt those kinds of temps since I worked a few side jobs up in Ukiah (talk about a shit hole) 15 years ago. But hey, what can ya do? Not like I'm going to defeat the sun. You just have to embrace and endure I suppose, so off I went. C'est la vie.
+
+I've seen Primus, I've seen Les solo and I've seen the Lennon/Claypool delirium (I've also seen Lennon's Ghost of a Saber Tooth Tiger band too), so it's only fitting I finally add the "Fearless Flying Frog Brigade" to the list as well. The special thing about this tour/show being that they were playing Pink Floyd's "Animals" album in its entirety, which just from that alone, was hard to pass up. My ticket, unbeknownst to me when I originally said yes to this show, was a VIP ticket, which enabled me to an early entry to see a Les Claypool Q and A session, along with something called "Trivulation" (think a trivia show/contest). They also handed us VIP lanyards and a signed poster (which I let Stacie end up having).
+
+But before all of that happened, we were having pizza and fries at the Stardust Pinbar next door, and one of our mutual friends (part of the tour) came over and hung out, and he brought along one of his friends, also from the tour (a girl) to join us. So there we all were hanging out eating pizza and playing pinball for an hour or so before the doors opened. I say all of this because when Les started his "Trivulation" show, he said he was going to do something special and he invited his daughter out to participate in the trivia. Well his daughter, Lena, ended up being the girl we were hanging out with, which I had no idea of at the time. So I thought that was pretty cool. She was really cool, down to earth and humble. 
+
+Side note, I do think the whole "q and a session" could be a little better or have more "bang for your buck". The tour manager guy who was running it, just seemed like a complete dickhead if I'm being honest. I get that it was the last show of the tour and everyone is probably worn out, but God damn, realize people paid upwards of $400 or more for this and the dude is saying shit like "Les is taking HIS time out of HIS day to this for you, so be quiet and don't say anything unless spoken to" and shit like that. And then at the end of the session, this couple showed up (late) and were trying to inquire about the whole ordeal and they were told they needed to talk to the tour manager about their VIP stuff, and as soon as I heard that, I knew they were in trouble as the dude pratically told them to fuck off as he was too busy. Eventually Stacie talked to them in the merch line and gave them the run down and told them they had arrived too late and missed the q and a session with Les (which again, if I'm being honest, was a bit of a let down), which broke their hearts considering they said they had splurged on these VIP tickets and a chance to meet/hear Les speak for their anniversary. I dunno, that story and the money spent puts a bit of a sour taste in my mouth. I really feel the venue and the tour manager could have better handled the whole "VIP" experience. It's why I think VIP is never worth it at any show and/or festival. Just my 2 cents though.
+
+Anyway, as for the show, we had a spot about 20 feet (or less) from the stage dead center, and the sound was great. I didn't know, until right before the show, that Harry Waters was in the band as well. What an all star cast I must say. I really love Sean Lennon as a musician and a lot of his work, and he played one helluva show this night. As did Mike the xylophone guy. Holy shit he rocked. Who thought you'd need some xylophone action on these songs? Well I'm glad Les thought so and made it happen. Included with this recording is a scan of the setlist that our friend managed to snag from on stage and give to us. Les mentioned that he draws a unique sketch/cartoon for each setlist and then photocopies it for the rest of the band to use/reference. So yeah, it's a pretty cool and unique setlist and I'm glad we were able to snag a copy of it after the show. I also included some photos that Stacie took, as she was far braver than I was with pulling her phone out for a photo or two, as the security guards, prior to the show, basically threatened all of us that if we were caught with our phones up for too long that we'd be thrown out onto the street. If only that rule applied to the fucking morons who talk all show long or try to start undesired mosh pits. Those are the real douchebags.
+
+CHECKSUMS: 
+
+b5a09abe2bb50283eaf3cbcc88d72452 *lcfffb-2023-07-15-phoenix-az-aud-16bit-t01-intro.flac
+cf9c112753bdafa435de319885eac098 *lcfffb-2023-07-15-phoenix-az-aud-16bit-t02-up-on-the-roof.flac
+2641be63750b9ca8bb90021886b721f0 *lcfffb-2023-07-15-phoenix-az-aud-16bit-t03-talking.flac
+58ed2d091c242e49a5dc0d8579efab5a *lcfffb-2023-07-15-phoenix-az-aud-16bit-t04-david-makalaster.flac
+987e3fb7641c502c2664225c301f6289 *lcfffb-2023-07-15-phoenix-az-aud-16bit-t05-amanitas.flac
+1a4ee1add667a751a80e05996c1276f5 *lcfffb-2023-07-15-phoenix-az-aud-16bit-t06-cricket-and-the-genie-I.flac
+dfa5c871df0c50047ee4c92f5474d14d *lcfffb-2023-07-15-phoenix-az-aud-16bit-t07-cricket-and-the-genie-II.flac
+46365db5821cfc9b521813274fe397ca *lcfffb-2023-07-15-phoenix-az-aud-16bit-t08-pigs-on-the-wings-part-1.flac
+ebd81fa45e549ccf378344c46cf119d2 *lcfffb-2023-07-15-phoenix-az-aud-16bit-t09-dogs.flac
+628770f91bd0b74860df842e99a2d462 *lcfffb-2023-07-15-phoenix-az-aud-16bit-t10-pigs.flac
+b6423cb25ed591883e7fe7288953352e *lcfffb-2023-07-15-phoenix-az-aud-16bit-t11-sheep.flac
+9ea9afaf51ce72f6b66a47265f431f98 *lcfffb-2023-07-15-phoenix-az-aud-16bit-t12-pigs-on-the-wings-part-2.flac
+1d9b21aa51dafe281c3733f7dfdf6a3a *lcfffb-2023-07-15-phoenix-az-aud-16bit-t13-precipitation.flac
+c5a6cdb8bdd2a95ee138b6b79f74f3f0 *lcfffb-2023-07-15-phoenix-az-aud-16bit-t14-talking.flac
+f6857e80dc4f1e826bd36085e9f322b9 *lcfffb-2023-07-15-phoenix-az-aud-16bit-t15-rum-and-coke.flac
+07f48a510f322a65f3b1e97585f51cc4 *lcfffb-2023-07-15-phoenix-az-aud-16bit-t16-holy-mackerel.flac
+7d3b0677a346a1cd4b164e180b12722f *lcfffb-2023-07-15-phoenix-az-aud-16bit-t17-d-diner.flac
+96fd663f180e8e27cff4f551553c9adc *lcfffb-2023-07-15-phoenix-az-aud-16bit-t18-buzzards-of-green-hill.flac
+e564b8678523c2ab4b47174abf82acbb *lcfffb-2023-07-15-phoenix-az-aud-16bit-t19-encore-break.flac
+d630642dcb7af8be9d85f737b49f4d43 *lcfffb-2023-07-15-phoenix-az-aud-16bit-t20-whamola.flac
+b82b470835c406c3a8360a9453adbb23 *lcfffb-2023-07-15-phoenix-az-aud-16bit-t21-lust-strings.flac
+9c41b679e1e4f095444aa7320634af6f *lcfffb-2023-07-15-phoenix-az-aud-16bit-t22-outro.flac
+
+Check out my site: 
+
+https://www.themojavetent.com 
+https://www.facebook.com/coachellarecordings 
+https://www.twitter.com/livecoachella
+
+***DO WHATEVER YOU WANT WITH THIS RECORDING EXCEPT SELL IT, OR ELSE THE KARMA POLICE WILL GET YOU***

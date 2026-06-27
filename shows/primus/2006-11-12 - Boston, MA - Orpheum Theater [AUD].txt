@@ -1,0 +1,53 @@
+Primus
+Orpheum Theater
+Boston, MA
+11-12-2006
+
+Location: Orchestra Section/Row H/Seat 202
+
+Source: Microtech Gefell M200's (DIN)>Bumblebee MiAGii-II silver cables>Lunatec V3>JB3 @ 48Hz
+
+Transfer: JB3>PC>Soundforge 6.0 (resampled to 44.1Hz)>CDWAV>Soundforge 6.0 (for fades in/out)>FLAC frontend 1.7.1
+
+Taped and Transferred by Myco (mr-myco@comcast.net)
+
+Disc 1
+
+01. To Defy The Laws Of Tradition
+02. Mr. Knowitall
+03. Those Damned Blue-Collar Tweakers
+04. Seas Of Cheese
+05. Mr. Krinkle
+06. De Anza Jig
+07. Nature Boy
+08. Here Come The Bastards
+
+Disc 2
+
+01. Frizzle Fry
+02. My Name Is Mud
+03. Jerry Was A Race Car Driver
+04. crowd > "Primus Sucks" chant
+05. Wynona's Big Brown Beaver
+
+This show was all one set which tracked out at 87:24. I split this into two discs to make it flow better, but you can always arrange it however you like, I only faded in the first track and faded out the last.
+
+Flac fingerprint
+
+Disc 1:
+Primus2006-11-12d1t01.flac:0a43ff49027e767deb52a1da3272ac7c
+Primus2006-11-12d1t02.flac:199990c4b9d100fbfdb6525a396a313a
+Primus2006-11-12d1t03.flac:b57345276dbb734ae350e54968c73f97
+Primus2006-11-12d1t04.flac:3ca12bad33df0d2519a403f10f228fab
+Primus2006-11-12d1t05.flac:94277f43aebd678487c404954edc0d4e
+Primus2006-11-12d1t06.flac:9283600ec774e1e572df5098cfcc570a
+Primus2006-11-12d1t07.flac:b836128e898b18a6faed55259be011ef
+Primus2006-11-12d1t08.flac:8e0b9fea5a2c6b773f32ec1b6b251a0a
+
+Disc 2:
+Primus2006-11-12d2t01.flac:a3ab434516e8659b0f14e7ac2a30d5cc
+Primus2006-11-12d2t02.flac:b7dbc769e72b94f97cf76a75a6952bbb
+Primus2006-11-12d2t03.flac:b0a03865ca1d1465df4e6cc44a099afe
+Primus2006-11-12d2t04.flac:3c0f0c766f3b524019bedfc3c59ac381
+Primus2006-11-12d2t05.flac:60c438c3999a7832f539ae844a38196b
+

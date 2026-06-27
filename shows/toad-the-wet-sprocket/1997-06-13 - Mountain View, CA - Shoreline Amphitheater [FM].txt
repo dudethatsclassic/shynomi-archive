@@ -1,0 +1,28 @@
+Toad the Wet Sprocket
+June 13, 1997
+Live 105 BFD
+Shoreline Amphitheater, Mountain View, CA
+
+Live 105 FM > DAT master > 1 DAT clone
+
+DAT on Fostex D5 -> Marantz CDR-630 CDR master -> EAC V.09 beta 3 ->
+Cool Edit Pro 1.2 -> CDWAV 1.71 -> mkwACT 0.97 Beta 1 -> SHN
+FM Recording by Duane Day
+DAT>SHN mastering by Jeff Lester, jeff.lester@verizon.net
+FM broadcast was very compressed, this show is *loud*.
+
+******************************************************
+*** PLEASE DO NOT ENCODE THIS SHOW INTO MP3 FORMAT ***
+******************************************************
+
+1. Come Down                 3:51
+2. Something's Always Wrong  5:20
+3. Whatever I Fear           3:02
+4. Walk on the Ocean         3:40
+5. Desire                    3:28
+6. All I Want                3:28
+7. Hey Bulldog               3:13
+8. Cinnamon Girl             3:12
+9. Fall Down                 3:47
+
+Total:                      33:01

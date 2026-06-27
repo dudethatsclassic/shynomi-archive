@@ -1,0 +1,37 @@
+Silverchair
+Hammerjack's
+Baltimore, MD
+December 12, 1995
+
+
+Taper: unknown
+Source: AUD -> Analog (generation 3) -> CD
+
+Analog > CD conversion: Adam Nelson (nelso222@msu.edu) - 1999 
+
+CD > flac conversion: Adam Nelson (nelso222@msu.edu) - 2006
+
+EAC (secure mode, all tracks 100%) -> wav -> flac frontend (level 6)
+
+
+1. Intro
+2. Leave Me Out
+3. Slave
+4. Findaway
+5. Acid Rain
+6. Suicidal Dream
+7. Tomorrow
+8. Madman
+9. No Association
+10. Faultline
+11. Improv Jam
+12. Pure Massacre
+13. Nobody Came
+14. Israel's Son ->
+15. Die
+
+Notes:
+This show marked the brief return of Acid Rain to the setlist.
+
+
+Compiled by Adam Nelson

@@ -1,0 +1,66 @@
+Slowdive
+Festival Hall
+Melbourne, Australia
+May 3, 2025
+
+Support: Beach Fossils (also taped)
+
+Taped by Claire Laura Fredriksson (CLF, choc e_Claire, fuzzbluerain, etc.)
+Specs: Zoom H1n internal mics, bass rolloff @ 80 Hz, positioned in shirt collar
+Position: centre, ~5-10m in front of sound techs
+Lineage: 24/48 .wav > DarkAudacity (fades, tracking) > TLH (level 8 FLAC) > foobar2000 (tagging)
+
+Track listing:
+ 1. [intro]                             1:11
+ 2. Shanty                              7:18
+ 3. Star Roving                         6:07
+ 4. Catch the Breeze                    5:39
+ 5. No Longer Making Time               6:02
+ 6. Crazy for You                       4:53
+ 7. Souvlaki Space Station              6:24
+ 8. Chained to a Cloud                  6:31
+ 9. Kisses                              5:19
+10. Sugar for the Pill                  5:08
+11. Machine Gun                         5:40
+12. Alison                              4:23
+13. When the Sun Hits                   4:50
+14. Golden Hair [Syd Barrett cover]    10:22
+15. [encore break]                      2:11
+16. Slomo                               7:33
+17. Slowdive                            5:22
+18. 40 Days                             4:21
+--------------------------------------------
+    total                            1:39:15
+
+Personnel:
+Neil Halstead - vocals, guitar
+Rachel Goswell - vocals, guitar, keyboards, tambourine, shakers
+Christian Savill - guitar
+Nick Chaplin - bass
+Simon Scott - drums
+
+Review:
+Slowdive started their touring cycle for 2023's Everything Is Alive with an Australian tour back
+in July of that year, and they've finished it with another run here in May 2025 - and in the
+meantime, they've jumped up to another level of rock and roll stardom. In Perth and Sydney, they
+added second dates to keep up with audience demand, while in Brisbane and Melbourne they doubled
+the size of their venues; in this case, moving from the ~2,000-capacity Forum to the
+~5,000-capacity Festival Hall (or "Festering Hole", as some unkind patrons refer to it). It was an
+all ages show, too, but thankfully I was in the 18+ general admission standing (which didn't help
+the tenor of the crowd, really; at the start of 'Shanty' you can hear someone in the crowd tossing
+out a racist slur. Apologies), ready for my second round with the band.
+
+Apart from the crowd being pretty rowdy between songs, I'm happy with how well this recording came
+out - credit to the sound guys, who must have been pretty locked in for a big boxy venue like this.
+The setlist was pretty similar to when I caught them last time around, although I found it a little
+harder to connect at this show - I'm not in love with their newest stuff the way I am with the old
+material, so when they're skipping 'Avalyn' to play a bunch of new songs I'll be a little bit
+bothered. 'Machine Gun' was a lovely addition, though, as part of the "hits" section later in the
+main set, and they closed out with a brilliant 'Golden Hair' again. Obviously it's not included
+on this audio recording, but the projected video on the backdrop was hypnotic as well.
+
+Requests:
+Please don't sell this - nobody, tapers or artists, will like you if you do.
+Please keep this info file around if you post it anywhere else (which you're welcome to do!)
+If you give this recording a remaster/matrix treatment, please message me before you do so.
+I can be reached on Twitter (fuzzybluerain) or Dimeadozen (fuzzbluerain) most easily.

@@ -1,0 +1,65 @@
+Green Day
+15th September 2000
+Tutu's
+London, England
+
+SETLIST (48:27)
+-----------------
+01. intro
+02. Welcome To Paradise
+03. Hitchin' A Ride
+04. Minority
+05. Geek Stink Breath
+06. Longview
+07. "about the Napster people"
+08. Church On Sunday
+09. 2000 Light Years Away
+10. Basket Case
+11. Warning
+12. Scattered
+13. Platypus (I Hate You)
+14. Blood, Sex And Booze
+15. Waiting
+16. When I Come Around
+
+GENERATION
+-----------------
+DAT(M) -> FLAC
+
+SOURCE (SBD #1)
+-----------------
+SBD -> unknown Yamaha "Natural Sound" FM receiver -> Tascam DA-20 MkII -> DAT(M) (32kHz/16bit)
+
+TRANSFER
+-----------------
+DAT(M) -> Tascam DA-20 MkII -> M-Audio Audiophile 2496 (digital coax) -> WAV (32kHz/16bit) 
+-> Adobe Audition 2017 (fades/amplify) -> CDWave (splits) -> foobar2000 -> FLAC(8)
+
+NOTES
+-----------------
+Small spot of diginoise at the beginning of track 05.
+Incomplete show, but the complete broadcast.
+This show was recorded at 32kHz.
+
+FLAC FINGERPRINTS
+-----------------
+greenday-2000-sep-15-fm-t01.flac:d4e2159391ca1d6ee6a2e893c1e3afdf
+greenday-2000-sep-15-fm-t02.flac:a360f76618aea5b026e439fb82f92cce
+greenday-2000-sep-15-fm-t03.flac:a7239160f3e4b14709a3d2131563fa40
+greenday-2000-sep-15-fm-t04.flac:ed331f4143f8c485656c5a9c1dd89711
+greenday-2000-sep-15-fm-t05.flac:d6fc0cafbfa07e4d1bfde866ded69582
+greenday-2000-sep-15-fm-t06.flac:698d8e8bfa0766f4a83ba28cb3a61495
+greenday-2000-sep-15-fm-t07.flac:366f9acfbe2c48d1e9dee1f83c81c95e
+greenday-2000-sep-15-fm-t08.flac:038feb009c23d2232b3d3fd12099c1ee
+greenday-2000-sep-15-fm-t09.flac:23b158c9d21e430fae7f61de4c437bf1
+greenday-2000-sep-15-fm-t10.flac:fa9ba0905e209f1fda735b744b1134ee
+greenday-2000-sep-15-fm-t11.flac:5123bc4a6bebf0d825d234e9ddf6dc3b
+greenday-2000-sep-15-fm-t12.flac:4361c7705cb90036f1c797d2059b93da
+greenday-2000-sep-15-fm-t13.flac:59c8de5c06a479686ab60d9245b6b177
+greenday-2000-sep-15-fm-t14.flac:704c5b1ea257796497f8f95298dc278e
+greenday-2000-sep-15-fm-t15.flac:6c5eafc09a655d5bda7a546a9f102f3b
+greenday-2000-sep-15-fm-t16.flac:35e60b8ef6a9571b7ae2246eafb4d60d
+
+Taped, transferred & mastered by: Gary Watson (packetboatlane@yahoo.co.uk)
+
+DO NOT SELL, OR DISTRIBUTE IN LOSSY FORMATS!

@@ -1,0 +1,40 @@
+Recorder: Zoom H2n
+Mics: Built-In XY Capsules
+Format: 24-bit/96000 Hz Stereo WAV
+DAW: Avid Pro Tools 10
+Compressor: Waves RCompressor
+EQ: Waves Q2
+Limiter: Waves L2 Ultramaximizer
+Codec: 16-Bit/44100 Hz Stereo FLAC
+
+
+Artist: Tom Petty and the Heartbreakers
+Tour: 40th Anniversary Tour
+Venue: Hollywood Bowl
+Location: Los Angeles, CA, USA
+Date: September 21, 2017
+
+Set List [122:27]
+01 - Intro
+02 - Rockin' Around (With You)
+03 - Mary Jane's Last Dance
+04 - You Don't Know How It Feels
+05 - Forgotten Man
+06 - I Won't Back Down
+07 - Free Fallin'
+08 - Walls (No. 3)
+09 - Don't Come Around Here No More
+10 - Heartbreakers Introductions
+11 - It's Good to Be King
+12 - Crawling Back to You
+13 - Wildflowers
+14 - Learning to Fly
+15 - Yer So Bad
+16 - I Should Have Known It
+17 - Refugee
+18 - Runnin' Down A Dream
+
+Encore
+19 - You Wreck Me
+20 - American Girl
+

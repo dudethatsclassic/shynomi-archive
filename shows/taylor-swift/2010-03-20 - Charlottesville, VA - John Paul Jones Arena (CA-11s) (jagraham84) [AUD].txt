@@ -1,0 +1,48 @@
+Taylor Swift
+03/20/2010 - Saturday
+John Paul Jones Arena, Charlottesville
+
+Gloriana and Kellie Pickler opened
+
+16 bit recording, 24 bit also available
+
+1-Intro
+2-You Belong With Me
+3-Our Song
+4-Intro To...
+5-Tell Me Why
+6-Intro To...
+7-Teardrops On My Guitar
+8-Intro To...
+9-Fearless
+10-Video Interlude
+11-Forever & Always
+12-Video Interlude
+13-Hey Stephen >
+14-Stand By Me Jam >
+15-Hey Stephen
+16-Intro To...
+17-Fifteen
+18-Intro To...
+19-Tim McGraw
+20-Intro To...
+21-White Horse
+22-Love Story Instrumental
+23-Love Story
+24-Guitar Solo >
+25-That's The Way I Loved You >
+26-You're Not Sorry >
+27-What Goes Around Comes Around >
+28-You're Not Sorry
+29-Picture To Burn
+E: 30-Today Was A Fairtytale
+31-Intro To...
+32-Should've Said No
+
+Source: CA-11s > STC-9000(+10db) > DR-07 > WAV(24bit/48khz) > Audacity1.3.11b(peaks removed, amplified to -.01db, dithered) > WAV(16bit/44.1khz) > CD Wave Editor(tracked) > FLAC8(TLH)
+
+Location: Section 314, Row R, Seat 24
+
+Notes: Peaks removed during crowd participation after second song, last song amplified separately due to high volume in drums.
+
+-jagraham84ATgmailDOTcom

@@ -1,0 +1,45 @@
+Chris Cornell - 2011 12 15 @ Palace of Fine Arts, San Francisco, CA
+
+Show note:
+The Songbook tour. This was recorded very low, and the performance was quite quiet.  I had to raise the gain, and in some cases lower the applause to get a better volume balance. There were some places with mic noise that I removed, or tried to lower to make it less obtrusive.
+
+See a review here: http://www.theowlmag.com/live-reviews/chris-cornell-the-songbook-tour-the-palace-of-fine-arts-12-15-11/ and flickr photoset here: https://www.flickr.com/photos/theowlmag/sets/72157628460902645/
+
+1 intro
+2 (What's So Funny 'Bout) Peace, Love and Understanding [Brinsley Schwarz] 
+3 Ground Zero
+4 As Hope & Promise Fade
+5 Can't Change Me
+6 Preaching the End of the World
+7 Dandelion
+8 Wide Awake
+9 Be Yourself
+10 Fell on Black Days
+11 Call Me a Dog
+12 Wooden Jesus
+13 Hunger Strike
+14 Seasons
+15 When I'm Down (on piano)	
+16 Mind Riot
+17 Outshined
+18 The Keeper (Fan Request)
+19 I Am the Highway
+20 Sweet Euphoria
+21 Tangerine [Led Zeppelin] 
+22 Billie Jean [Michael Jackson] 
+23 Doesn't Remind Me
+24 Blow Up the Outside World
+>> Encore:
+25 Burden in My Hand
+26 Black Hole Sun
+27 A Satisfied Mind [Joe Hayes] 
+28 Imagine [John Lennon] 
+
+Support:
+Craig Wedren
+
+Taper: armogi 
+Mastering: loughney
+Lineage: headphone mic > MiniDisk recorder > Sony JE-520 > Optical Out > S/SPIDF > WAVE (44.1/16) > SoundForge (volume normalization, applause reduction, click removal) > CDWAVE (splits) > FLAC
+
+

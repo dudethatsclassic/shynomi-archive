@@ -1,0 +1,76 @@
+Green Day 2009-04-14
+Fox Theatre, Oakland CA
+schoeps cmc34->aeta psp3->r-09 (@24bit 48khz)->cool edit pro 2.1(fades, downsample)->cdwav->flac
+
+Disc I - "21st Century Breakdown"
+
+Prologue
+01 Song of the Century
+
+Act I "Heroes and Cons"
+02 21st Century Breakdown
+03 Know your Enemy
+04 Viva la Gloria!
+05 Before the Lobotomy
+06 Christian's Inferno
+07 Last Night on Earth
+
+Act II "Charlatans and Saints"
+08 East Jesus Nowhere
+09 Peacemaker
+10 Last of the American Girls
+11 Murder City
+12 Viva la Gloria?
+13 Reckless Heart Syndrome
+
+Act III "Horseshoes and Handgrenades"
+14 Horseshoes and Handgrenades
+15 The Static Age
+16 21 Guns
+17 American Eulogy
+   a Mass Hysteria
+   b Modern World
+18 See the Light
+
+Disc II
+
+01 American Idiot
+02 Jesus of Subarbia
+03 St. Jimmy
+04 Longview
+05 Welcome to Paradise
+06 She
+07 Intro - > Going to Pasalacqua
+08 King for a Day
+09 Shout (Isley Brothers)
+10 Minority
+11 Homecoming
+green_day_20090414_cmc34_d01t01.flac:fe10fb60dbb57fe16ed99cf1ad61a265
+green_day_20090414_cmc34_d01t02.flac:0db21562c91e4cf24fd31f0c01ec43d8
+green_day_20090414_cmc34_d01t03.flac:4ae009a4db06eaf473041b4859819b5f
+green_day_20090414_cmc34_d01t04.flac:b06c23fc623d8be68d0fb49117c0c64b
+green_day_20090414_cmc34_d01t05.flac:02fc6e28ac8669a26a2fdb430d366675
+green_day_20090414_cmc34_d01t06.flac:f1b4503d2f9b740f3452a27815f1aa31
+green_day_20090414_cmc34_d01t07.flac:439299b32374c68a15be4f5d450a1c34
+green_day_20090414_cmc34_d01t08.flac:1c3c9b13c5f5c6f75d1412671d44a55f
+green_day_20090414_cmc34_d01t09.flac:fd88bef12aae85a28f5e39bb249a1528
+green_day_20090414_cmc34_d01t10.flac:d2944ca78ef550705156ddd99988128f
+green_day_20090414_cmc34_d01t11.flac:e769bc732fbb5e30b728bb8f92841200
+green_day_20090414_cmc34_d01t12.flac:79c42b2cb895b2fdab7e04b60240336f
+green_day_20090414_cmc34_d01t13.flac:189ce54e302283cb89bd56e20783ec03
+green_day_20090414_cmc34_d01t14.flac:c3da9eb906d17476d80aae9431b228a5
+green_day_20090414_cmc34_d01t15.flac:81e586b12047075adce6cf7877a344d3
+green_day_20090414_cmc34_d01t16.flac:f72fdba03ec01030540944ef583e3b55
+green_day_20090414_cmc34_d01t17.flac:2531fa93bdb55eaeeedfd97c23315f52
+green_day_20090414_cmc34_d01t18.flac:15502de7b77d6f018f4db07a95befa3f
+green_day_20090414_cmc34_d01t19.flac:69b6226d65be05cf98347c1977ee1f6a
+green_day_20090414_cmc34_d02t01.flac:34f6aaf77aa910d8ab55ffc107895ce6
+green_day_20090414_cmc34_d02t02.flac:9404e370110e1ebb498065e5a97619f3
+green_day_20090414_cmc34_d02t03.flac:d38b6e5e52612b13cf3c332e85c8857a
+green_day_20090414_cmc34_d02t04.flac:9f3baee801e6fd91c2c9758390f0d07e
+green_day_20090414_cmc34_d02t05.flac:a2e82cfba8a7cb3c94e3147e4cdee3d4
+green_day_20090414_cmc34_d02t06.flac:9dbebcc0a14969ca10b424e0fa4afc50
+green_day_20090414_cmc34_d02t07.flac:48696e1a04b506bbcc644ff10a0fa2c4
+green_day_20090414_cmc34_d02t09.flac:50ed0d0cd3ad66ffe2820ee34699098e
+green_day_20090414_cmc34_d02t10.flac:f4b2e46a829b4b389fe4b22d93254d78
+green_day_20090414_cmc34_d02t11.flac:c673794debb59691623b272e843f502a

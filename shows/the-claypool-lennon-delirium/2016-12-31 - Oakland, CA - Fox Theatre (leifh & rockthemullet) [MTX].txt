@@ -1,0 +1,36 @@
+The Claypool Lennon Delirium (opened for Primus)
+December 31st, 2016 (Saturday)
+Fox Theatre
+Oakland, California
+
+2 Source Matrix
+
+Source 1:  CA-11 (cardioid) > Bat2B > Sony PCM M10 @ 24/48 by LeifH [2016#71] - centre floor, second rail
+Source 2:  CSB > 9v battery box > Tascam DR-22WL @ 16/48 by RockTheMullet - front row, stage right
+Transfer:  .WAV > Wavepad Masters Edition (edits, mixdown, tracking) > flac (8) via TLH
+
+Setlist:  01:09:49
+01 There's No Underwear In Space
+02 Astronomy Domine [Pink Floyd]
+03 Cricket and the Genie Pt. 1 + 2
+04 Breath of a Salesman
+05 Monolith of Phobos
+06 Cosmic Highway 
+07 In The Court Of The Crimson King [King Crimson]
+08 Boomerang Baby
+09 Mr. Wright
+10 Boris The Spider [The Who]
+11 Tomorrow Never Knows [The Beatles]
+
+fingerprints:
+CLD20161231Matrix01 - There's No Underwear In Space.flac:4a66b786d26392b96880154450c121eb
+CLD20161231Matrix02 - Astronomy Domine.flac:d5cba851aa0c81fedb8f2e58eeaea7a1
+CLD20161231Matrix03 - Cricket & Genie.flac:584e21c660c48534306c6452dd4fc576
+CLD20161231Matrix04 - Breath Of A Salesman.flac:ddc41e5c18892cd97e923ce3c3904bc2
+CLD20161231Matrix05 - Monolith Of Phobos.flac:e50235c0ee31f0ff7aa6b641fd81f501
+CLD20161231Matrix06 - Cosmic Highway.flac:eec963e2db1d9d1f1886afcbf903b9db
+CLD20161231Matrix07 - Court Of The Crimson King.flac:d3bfbca4a8293226906ad6883a007a06
+CLD20161231Matrix08 - Boomerang Baby.flac:def0bb08b9cf51f5d46bbe0960b5a679
+CLD20161231Matrix09 - Mr Wright.flac:b13f1123c3efc628bb7f30bd95337bdc
+CLD20161231Matrix10 - Boris The Spider.flac:a7929886663d6a85755c0ae0a53d096d
+CLD20161231Matrix11 - Tomorrow Never Knows.flac:f8e4c6b1efcc3a8ed0c4a4e30dbf1bbc

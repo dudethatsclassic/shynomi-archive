@@ -1,0 +1,63 @@
+SILVERCHAIR
+June 20, 1997
+MGM Grand Casino Lawns
+Darwin, NT, AU
+
+DISC #1/1 (66:12)
+-----------------
+01) Circus Intro
+02) Slave
+03) Roses
+04) Findaway
+05) Abuse Me
+06) Pure Massacre
+07) Cemetery
+08) Suicidal Dream
+09) Tomorrow
+10) The Door
+11) Faultline
+12) No Association
+13) Freak
+14) Madman
+15) Encore Break
+16) Minor Threat
+17) Israel's Son
+
+GENERATION
+-----------------
+ANA(x) -> CDR(x) -> WAV [44.1kHz] -> FLAC [Level 8]
+
+SOURCE
+-----------------
+unknown -> unknown
+
+TRANSFER
+-----------------
+Sony DVD-ROM DDU1621 -> Exact Audio Copy v 0.95 BETA -> Cool Edit Pro 2.0 -> FLAC Frontend 1.7.1
+
+NOTES
+-----------------
+- This recording contains a lot of crowd noise. 
+- There is a slight gap in the recording during No Association at 1:27 due to a tape flip.
+
+MD5 FINGERPRINTS
+-----------------
+32acad467405e0b6bb97abdebbc05038 *silverchair1997-06-20t01.flac
+fc816eb702593cc517de2de9ac95cb99 *silverchair1997-06-20t02.flac
+86e2c1acf06b535d583ae3867bd516fd *silverchair1997-06-20t03.flac
+935622f1cee35f77aee41e9d094d981f *silverchair1997-06-20t04.flac
+852db2d1d64d98388c58eb1a24b9169f *silverchair1997-06-20t05.flac
+80b1b1e8a93d90ac1aa654987a92f8f1 *silverchair1997-06-20t06.flac
+9b18b0ad57393284b31e605dc5ce3384 *silverchair1997-06-20t07.flac
+4b984a7c4949b667ef8599c7261f712f *silverchair1997-06-20t08.flac
+fabd2add33715ce7d9e4bea6c66b5017 *silverchair1997-06-20t09.flac
+1e9cd35d642db5ef133a7ab375c29fa7 *silverchair1997-06-20t10.flac
+2a3eec18d52b0438807e106b30c3591c *silverchair1997-06-20t11.flac
+dd91c4aecb67b69b387d268eb14d3a81 *silverchair1997-06-20t12.flac
+ec5cadb645961f0a4fc88f0b000b3f1d *silverchair1997-06-20t13.flac
+cf00ce8e0171163f5dba649c77ee6775 *silverchair1997-06-20t14.flac
+869ce3f348f21cc393c891c683fdd29f *silverchair1997-06-20t15.flac
+b80d803ff29636a42cf18186ec1a12ab *silverchair1997-06-20t16.flac
+630b30ead4f5cbb4b820228620d8ee95 *silverchair1997-06-20t17.flac
+
+PLEASE DO NOT ENCODE TO MP3 OR SELL!

@@ -1,0 +1,40 @@
+Chris Cornell
+2009-06-07 (concert date)
+2009-06-28 (broadcast date)
+Alterna Stage @ Rock Am Ring Festival
+Nürburgring, Nürburg, Germany
+----
+TV Broadcast Station	SWR
+----
+cable > cinergy c pci > projectx > tmpgenc dvd auhtor > dime
+----
+pal
+16:9
+720x576
+25 fps
+8702 kb/s
+interlaced
+top field first
+----
+mp2
+48000 hz
+192 kb/s
+stereo
+----
+01. Part Of Me (Digital Skips)
+02. Time
+03. Show Me How To Live
+04. Scream
+05. Watch Out
+06. Black Hole Sun	
+----
+time	00:27:06
+----
+the raw shit..no menu
+
+4f38da4a7e04202539e5307e6b0ffdb8 *VIDEO_TS.BUP
+4f38da4a7e04202539e5307e6b0ffdb8 *VIDEO_TS.IFO
+6e882631d1ad1701c460405b1a7c4da1 *VTS_01_0.BUP
+6e882631d1ad1701c460405b1a7c4da1 *VTS_01_0.IFO
+3465e377985fd88ee88986707d1211f0 *VTS_01_1.VOB
+1b0708a00bea00b9e1f608170fb57a78 *VTS_01_2.VOB

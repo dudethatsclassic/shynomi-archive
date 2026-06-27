@@ -1,0 +1,57 @@
+SILVERCHAIR
+Febuary 8, 1999
+Camden Electric Ballroom, London, UK
+85 Minutes
+
+&
+
+INCUBUS
+August 6, 1998
+Roseland Ballroom, New York, NY  
+35 Minutes
+
+LINEAGE: NTSC VHS > Stereo VCR > analog out > Canopus ADV100 
+      > DV via FIREWIRE > LOSSLESS AVI > WinDV 1.2.3 > 
+      > Canopus Procoder 2 > Crop/Trim/Colour fix > 
+      > Encode @ VBR 5000 av. 6000 max 4000 min, 
+	224kb AAC audio, 1 pass > VOB
+
+no menu/chapters.
+
+due to the low resolution/definition of VHS, the transfer at a 
+average bitrate of 5000 should not effect quality. 
+
+
+SILVERCHAIR TRACKLIST: (unverified)
+Slave
+Pure Massacre
+Emotion Sickness
+Israel’s Son
+Ana’s Song (Open Fire)
+Suicidal Dream
+Paint Pastel Princess
+Leave Me Out
+Madman
+Cemetery
+Miss You Love
+Abuse Me
+The Door
+Faultline
+Anthem For The Year 2000
+Freak
+Tomorrow
+No Association
+Spawn Again 
+
+
+INCUBUS TRACKLIST: (unverified)
+1. Intro
+2. Certain Shade Of Green
+3. Favorite Things
+4. Vitamin
+5. Idiot Box
+6. Redefine
+7. Calgone
+8. New Skin 
+
+transferred by eclect - http://db.etree.org/eclect

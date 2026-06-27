@@ -1,0 +1,80 @@
+Artist: Oasis
+Date: 1994-06-26
+Event: Glastonbury Festival
+Venue: NME Stage, Worthy Farm, Pilton, Somerset, England
+Captured by As It Happens
+Source: bbc iPlayer archive > ffmpeg > .ts
+
+Shakermaker
+Fade Away
+Digsy's Dinner
+Live Forever
+Bring It On Down
+Cigarettes & Alcohol
+Supersonic
+I Am the Walrus
+
+General
+ID                                       : 1 (0x1)
+Complete name                            : 1994-06-26 - Glastonbury Festival [sd1080p50] - asithappens.ts
+Format                                   : MPEG-TS
+File size                                : 3.18 GiB
+Duration                                 : 39 min 20 s
+Overall bit rate mode                    : Variable
+Overall bit rate                         : 11.6 Mb/s
+Frame rate                               : 50.000 FPS
+
+Video
+ID                                       : 256 (0x100)
+Menu ID                                  : 1 (0x1)
+Format                                   : AVC
+Format/Info                              : Advanced Video Codec
+Format profile                           : High@L4.2
+Format settings                          : CABAC / 4 Ref Frames
+Format settings, CABAC                   : Yes
+Format settings, Reference frames        : 4 frames
+Codec ID                                 : 27
+Duration                                 : 39 min 20 s
+Bit rate mode                            : Variable
+Maximum bit rate                         : 12.0 Mb/s
+Width                                    : 1 920 pixels
+Height                                   : 1 080 pixels
+Display aspect ratio                     : 16:9
+Frame rate                               : 50.000 FPS
+Color space                              : YUV
+Chroma subsampling                       : 4:2:0
+Bit depth                                : 8 bits
+Scan type                                : Progressive
+Color range                              : Limited
+Color primaries                          : BT.709
+Transfer characteristics                 : BT.709
+Matrix coefficients                      : BT.709
+
+Audio
+ID                                       : 257 (0x101)
+Menu ID                                  : 1 (0x1)
+Format                                   : AAC LC
+Format/Info                              : Advanced Audio Codec Low Complexity
+Format version                           : Version 4
+Muxing mode                              : ADTS
+Codec ID                                 : 15-2
+Duration                                 : 39 min 20 s
+Bit rate mode                            : Variable
+Channel(s)                               : 2 channels
+Channel layout                           : L R
+Sampling rate                            : 48.0 kHz
+Frame rate                               : 46.875 FPS (1024 SPF)
+Compression mode                         : Lossy
+Language                                 : English
+
+Menu
+ID                                       : 4096 (0x1000)
+Menu ID                                  : 1 (0x1)
+Format                                   : AVC / AAC
+Duration                                 : 39 min 20 s
+List                                     : 256 (0x100) (AVC) / 257 (0x101) (AAC, English)
+Language                                 :  / English
+Service name                             : Service01
+Service provider                         : FFmpeg
+Service type                             : digital television
+

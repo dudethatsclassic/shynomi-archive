@@ -1,0 +1,57 @@
+Sonic Youth
+Commodore Ballroom
+2004-07-13
+Vancouver, BC
+Canada
+
+
+Taped By: Chaz Lakip
+Equipment Used: AUD>Sonic Studios DSM-6/L>Sonic Studios PA-6LC>Sony
+PCM-M1 DAT>Sony RMR-D100>S/PDIF>Digidesign HD96 ProTools>CDWave>SHN
+Additional lineage: shn->TLH->Flac
+
+
+Setlist:
+01 - Intro (into I love you golden blue)
+02 - I Love You Golden Blue
+03 - Stones
+04 - Pattern Recognition
+05 - Schizophrenia
+06 - Bull In The Heather
+07 - Paper Cut Exit
+08 - Mariah Carey and the Arthur Doyle Handcream
+09 - Unmade Bed
+10 - Skip Tracer
+11 - New Hampshire
+12 - Dude Ranch Nurse
+13 - Drunken Butterfly
+-- 
+14 - PCH
+15 - Rain On Tin
+-- 
+16 - Making The Nature Scene
+
+
+Torrent History:
+Uploaded to Mind-Warp PaVilion by shipscaptain on 01-24-08
+
+*i saw this show with the webmaster for the ultimate sonic youth fan
+site!
+...so for everything sonic youth, check out,
+
+http://www.sonicyouth.com/mustang
+
+
+_____________________________________________________________________________
+
+Notes by _tunic_ on 3 August 2020:
+This was shared by ingram to Dime in 2008 (Thanks!), in SHN-format.
+I converted the files to Flac in 2009,
+and created new checksums and updated the info file in 2020.
+
+Additional Notes _tunic_ on 3 August 2020:
+The notes claimed that this is a SBD recording, this turned out to be
+not true. It's an AUD. The correct lineage is stated at
+http://db.etree.org/shn/25778 (and notation of the setlist is the
+same as it was in this info file, which proves at least for me that
+that is the lineage for this fileset).

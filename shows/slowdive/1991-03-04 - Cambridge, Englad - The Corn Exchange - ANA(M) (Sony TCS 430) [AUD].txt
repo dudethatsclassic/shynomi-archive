@@ -1,0 +1,28 @@
+foobar2000 1.4.6 / Dynamic Range Meter 1.1.1
+log date: 2019-07-15 21:19:17
+
+--------------------------------------------------------------------------------
+Analyzed: Slowdive / 1991-03-04 The Corn Exchange, Cambridge
+--------------------------------------------------------------------------------
+
+DR         Peak         RMS     Duration Track
+--------------------------------------------------------------------------------
+DR1       -2.26 dB    -4.08 dB      7:03 01-Shine
+DR1       -2.26 dB    -4.07 dB      5:26 02-Slowdive
+DR1       -2.26 dB    -4.11 dB      4:17 03-Catch the Breeze
+DR1       -2.26 dB    -4.15 dB      4:46 04-Avalyn
+DR1       -2.26 dB    -4.07 dB      5:05 05-Morningrise
+DR1       -2.26 dB    -4.07 dB      5:41 06-Colors in Spin
+DR1       -2.26 dB    -3.88 dB      5:34 07-She Calls
+--------------------------------------------------------------------------------
+
+Number of tracks:  7
+Official DR value: DR1
+
+Samplerate:        44100 Hz
+Channels:          2
+Bits per sample:   16
+Bitrate:           702 kbps
+Codec:             FLAC
+================================================================================
+

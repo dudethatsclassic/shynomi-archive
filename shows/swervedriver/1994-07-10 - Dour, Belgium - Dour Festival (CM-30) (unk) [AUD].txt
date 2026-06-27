@@ -1,0 +1,89 @@
+================================================================================
+Swervedriver, 1994-07-10, Duor Festival, Plaine de la Machine à Feu, Duor, 35 minutes
+
+1. Rave Down
+2. Duel
+3. Planes Over The Skyline
+4. The Other Jesus
+5. Sandblasted
+6. Duress
+
+Crown CM-30 > Sony TCD-D3 (LP, 32 kHz) > DAT (master) > Tascam DA-302 > coaxial > Tascam CD-RW700 > CD-R (master) > EAC v0.95b3 (secure) > FLAC Frontend 1.7.1 (level 8); PC-62 > WM-D3 source also exists
+================================================================================
+EAC extraction logfile from 13. February 2006, 7:29 for CD
+swd / 1994-07-10cm30
+
+Used drive  : HL-DT-STDVDRAM GSA-5120D   Adapter: 2  ID: 0
+Read mode   : Secure with NO C2, accurate stream, disable cache
+Combined read/write offset correction : 0
+Overread into Lead-In and Lead-Out : No
+
+Used output format : Internal WAV Routines
+                     44.100 Hz; 16 Bit; Stereo
+
+Other options      : 
+    Fill up missing offset samples with silence : Yes
+    Delete leading and trailing silent blocks : No
+    Native Win32 interface for Win NT & 2000
+
+
+Track  1
+     Filename C:\temp\swd1994-07-10cm30t01.wav
+
+     Peak level 77.4 %
+     Track quality 100.0 %
+     Copy CRC 7E6E900D
+     Copy OK
+
+Track  2
+     Filename C:\temp\swd1994-07-10cm30t02.wav
+
+     Peak level 69.0 %
+     Track quality 100.0 %
+     Copy CRC A9292831
+     Copy OK
+
+Track  3
+     Filename C:\temp\swd1994-07-10cm30t03.wav
+
+     Peak level 73.1 %
+     Track quality 100.0 %
+     Copy CRC 882930C2
+     Copy OK
+
+Track  4
+     Filename C:\temp\swd1994-07-10cm30t04.wav
+
+     Peak level 67.8 %
+     Track quality 99.9 %
+     Copy CRC 8ABBD933
+     Copy OK
+
+Track  5
+     Filename C:\temp\swd1994-07-10cm30t05.wav
+
+     Peak level 77.6 %
+     Track quality 100.0 %
+     Copy CRC AAC1B95D
+     Copy OK
+
+Track  6
+     Filename C:\temp\swd1994-07-10cm30t06.wav
+
+     Peak level 81.4 %
+     Track quality 100.0 %
+     Copy CRC F4F40B8E
+     Copy OK
+
+No errors occured
+
+
+End of status report
+================================================================================
+swd1994-07-10cm30t01.flac:25e67a24309b4021638dde9ebd3e9f1b
+swd1994-07-10cm30t02.flac:2ce6e0a007ab8ef76e2fbb854184f894
+swd1994-07-10cm30t03.flac:51e88e8269d6a62c52fca24541eb03f8
+swd1994-07-10cm30t04.flac:23e3d5c1ef1742219a48e7c9594bea87
+swd1994-07-10cm30t05.flac:7f6fab257a5a67f529911cd96566f51f
+swd1994-07-10cm30t06.flac:ed3eb747080a765ddbfce032766a7311
+================================================================================

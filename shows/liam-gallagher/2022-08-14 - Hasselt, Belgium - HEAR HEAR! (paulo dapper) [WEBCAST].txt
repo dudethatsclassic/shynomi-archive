@@ -1,0 +1,28 @@
+Liam Gallagher
+HEAR HEAR! Festival
+Hasselt, Belgium
+August 14, 2022
+
+Lineage: Official Webcast VOD -> FFmpeg (capture) -> uncompressed .ts
+Video: 1280x720 - H264 - 1.5Mbps - 25fps
+Audio: AAC 128Kbps - 48.0kHz - Stereo
+
+Setlist:
+Fuckin' in the Bushes (Oasis song – from tape)
+Morning Glory (Oasis song)
+Rock 'n' Roll Star (Oasis song)
+Wall of Glass
+Better Days
+Roll It Over (Oasis song)
+Slide Away (Oasis song)
+Soul Love (Beady Eye song)
+More Power
+Diamond in the Dark
+Once
+Cigarettes & Alcohol (Oasis song)
+Wonderwall (Oasis song)
+Champagne Supernova (Oasis song)
+
+Length: 01:05:15
+
+Captured and uploaded to DIME by Paulo Dapper.

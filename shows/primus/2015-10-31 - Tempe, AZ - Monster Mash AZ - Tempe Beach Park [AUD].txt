@@ -1,0 +1,43 @@
+Primus
+Saturday October 31st 2015 Halloween
+Monster Mash AZ
+Tempe Beach Park
+Tempe Arizona USA
+
+Taper:  LeifH
+Source:  CSB (filter) > Sony PCM M10 @ 24/48 > Sony 16GB microSD card
+Transfer:  Memory card > PC via USB > Wavepad Master's Edition (edits, amplify, tracking, downsample to 16/44.1) > flac (8) via Frontend
+
+Setlist:  1:15:31
+00 intro music
+01 Those Damned Blue-Collar Tweekers
+02 Last Salmon Man
+03 Wynona's Big Brown Beaver
+04 Southbound Pachyderm
+05 Frizzle Fry
+06 Jilly's On Smack
+07 Mr. Krinkle
+08 The Toys Go Winding Down
+09 My Name Is Mud
+10 Jerry Was A Race Car Driver
+
+My 23rd time seeing Primus.  I had already seen them a bunch of times earlier in the year, but I couldn't pass up seeing two of my favorite bands, Tool and Primus, play on the same stage.  Due to a limited budget and available time off, I only went for the one day, although the whole weekend was tempting.  As it turned out, the Friday show on the 30th with Santana and Fogerty was cancelled about a week prior to the event, "due to unforseen circumstances."  The Sunday show featured Puscifer, who I had already bought tickets to see in December, plus Rob Zombie and the Deftones who mildy interest me, but also playing was Linkin Narc.  I didn't want a single cent of my earnings to go towards them.
+
+Halloween Saturday was sold out.  It took longer than I expected though.  The original schedule had two stages with slightly conflicting times, but only for the bands preceding Tool and Primus.  The schedule was changed to include all bands on the same stage.  The other days did not sell out, and they were really pushing ticket sales.  
+
+Pretty generic festival set from Primus.  Tim wore some cheesey glasses/goggles for the first few songs.  Ler teased Stairway to Heaven before The Toys Go Winding Down, which I've seen him do before, but it turned out to be very appropriate for Tool's Halloween costumes.  I've seen Les screw up the intro to The Toys Go Winding Down more times than he's gotten it right.  
+
+The recording is nice, good playing.  I was against the left barrier, about 50' from the stage, as dead centre as you could get.  Would have been cool to see some sort of collaboration between Tool and Primus, like maybe a Lateralus drum battle with Herb (but Tool didn't even play that song).  
+
+fingerprints:
+00 - intro music.flac:4c3c429f08be798833dfb345e2ae3a8f
+01 - Those Damned-Blue Collar Tweekers.flac:2dbfc5317ed4ac851445e20f157642db
+02 - Last Salmon Man.flac:e8c482727c3317c57be63e0528450613
+03 - Wynona's Big Brown Beaver.flac:e23ee947f2c436b0e55d09f98ab4bd34
+04 - Southbound Pachyderm.flac:6c63936c93ed413e0ec709abf433ef68
+05 - Frizzle Fry.flac:36f040d047fa8447e9b1ba6464a46dbd
+06 - Jilly's On Smack.flac:ca8d6fa82eece8e9823a7cbb5bbe6764
+07 - Mr. Krinkle.flac:56c89ad8b55493cfd647f4e42ee314e5
+08 - The Toys Go Winding Down.flac:91188f43e706aca9b65cb1512816919a
+09 - My Name is Mud.flac:9421a9c4a5a509b22076497a29aa1bc1
+10 - Jerry Was a Race Car Driver.flac:d79a8dcdba81463a27d92152e3453237

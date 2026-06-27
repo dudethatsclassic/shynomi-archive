@@ -1,0 +1,32 @@
+Ride
+Theatre Barbey
+Bordeaux, France
+20 October 1992
+
+Source/Lineage: Audience > unknown mic/equip > single flac file downloaded from archive.org > split via Adobe Audition > wav > TLH > flac
+Taper: r.courb (see notes below)
+
+Set List
+
+01.Intro
+02.Leave Them All Behind
+03.Taste
+04.Not Fazed
+05.Sennen
+06.Like A Daydream
+07.Twisterella
+08.OX4
+09.Time Of Her Time
+10.Making Judy Smile
+11.Nowhere [cut @ 8'48, fade-out/fade-in on tape]
+12.Vapour Trail
+13.Mouse Trap
+14.Seagull [cut @ 5'56 during encore break]
+(encore)
+15.Drive Blind
+
+TT: 1'08'47
+
+Notes
+-the files in this folder were uploaded to archive.org, under a user account by the name of r.courb, whether it is his/her recording or another person's recording, i have no idea, but it is presumably from the master or very low gen
+-apart from splitting the single file into individual tracks, i compiled the set list and info file and added metadata; a very minor edit done at the track cut in track #11, no other edits/modifications done

@@ -1,0 +1,28 @@
+Sponge
+2025-10-16
+Charlotte, NC
+Neighborhood Theatre
+
+Tour: Sparkle and Fade 30th Anniversary
+Opening for Local H and Everclear (also taped)
+
+Taper: shynomi
+Lineage: Shure MV88 > Motiv Audio App > iPhone 13 Pro
+Transfer: .WAV (24/48) > Logic Pro 11.01 > Splits and Fades > xACT 2.57 > FLAC (Level 8)
+Edits: Beginning and End Fades, Waves L2 Limiter, Light EQ
+
+Tracklist:
+
+1. Wax Ecstatic (To Sell Angelina)
+2. Molly (16 Candles Down the Drain)
+3. Glue
+4. Got to Be a Bore
+5. Treat Me Wrong
+6. Plowed
+
+01 Wax Ecstatic (To Sell Angelina).flac:dd1a01c96da61d113981b7e9dba2645c
+02 Molly (16 Candles Down the Drain).flac:183b20b79e4e0d6319941fa693f61671
+03 Glue.flac:9f6d034af0dc3316135377bf23ee4dff
+04 Got to Be a Bore.flac:aa17dde90df4bb34e4374ef31c978ecd
+05 Treat Me Wrong.flac:7dfccdce310c31a8f385569aa70f731c
+06 Plowed.flac:cf3744704b9b261fb5d8dc9540d62994

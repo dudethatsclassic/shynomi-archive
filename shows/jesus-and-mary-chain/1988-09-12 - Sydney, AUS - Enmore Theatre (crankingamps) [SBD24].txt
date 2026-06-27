@@ -1,0 +1,45 @@
+﻿artist: The Jesus And Mary Chain
+venue: Enmore Theatre, Sydney, Australia
+date: Monday 12 September 1988
+
+(total 1:17:56)
+01. ready
+02. Rider
+03. The Hardest Walk
+04. Surfin' U.S.A. [Beach Boys]
+05. Darklands
+06. Happy When It Rains
+07. Sacrifice
+08. Just Like Honey
+09. Coast To Coast
+10. Cease To Exist [Charles Manson]
+--tape flip--
+11. Fall
+12. The Living End
+13. Nine Million Rainy Days
+14. Inside Me
+15. Sidewalking
+16. Never Understand
+17. encore
+18. Gimme Hell
+19. I Need A Man [Eurythmics]
+--tape flip--
+20. Kill Surf City
+
+master recorded and encoded by crankingamps
+
+https://en.wikipedia.org/wiki/The_Jesus_and_Mary_Chain
+https://www.discogs.com/artist/243280-The-Jesus-And-Mary-Chain
+
+lineup: Died Pretty (recorded)
+The Jesus And Mary Chain (this recording)
+
+lineage: Sony WM-D3 cassette recorder with Sony ECM-969 stereo microphone
+> TDK SA C90 type 2 cassette > Nakamichi CR-7 cassette deck with azimuth optimised
+> Sound Devices 744T digital recorder as stereo wav file (24-bit 48kHz)
+> Adobe Audition CC 2020 normalise, edit, track, export as flac files (24-bit, 48kHz, level 8)
+> mp3tag > Traders Little Helper 
+
+no equalisation, no compression, no effects;
+first 30sec of track 11 Fall sounds like something else?;
+not for sale or commercial exchange, for trade or give away only

@@ -1,0 +1,32 @@
+Liam Gallagher
+O2 Ritz
+Manchester, England
+Sep.21, 2019
+
+Source: VOD Webcast
+Lineage: youtube-dl (Video/Audio) - MKVToolNix GUI - .mkv
+
+Video: MPEG4 Video (H264) 1920x1080 25fps
+Overall bit rate: 2 770 kb/s kb/s Kbps
+Audio: Opus 123 Kbps, 48.0 kHz
+
+Duration = 00:59:46
+
+Setlist
+
+Rock 'N' Roll Star
+Morning Glory
+Wall Of Glass
+Shockwave
+Greedy Soul
+Columbia
+One Of Us
+Once
+The River
+Cigarettes & Alcohol
+Be Here Now
+Sad Song
+Supersonic
+Live Forever 
+
+Note: Paper Crown , Stand By Me removed from the original webcast

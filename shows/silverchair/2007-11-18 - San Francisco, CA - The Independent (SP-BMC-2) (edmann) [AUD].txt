@@ -1,0 +1,31 @@
+Silverchair                                                                    
+November 18, 2007                                                                                                        
+The Independent - San Francisco, CA
+                                         
+Taper: Edmann                                                                
+Source: SP-BMC-2 > SP-SPSB-1S batt. box (w/ bass rolloff set @ 160hz) >     
+(line-in) Sony MZ-R30                                        
+Location: Mics in hat                                                     
+Transfer: Sony MZ-R30 > Line In to Soundcard                    
+Edit: wav > Cool Edit Pro 2.0 > wav                    
+Conversion: wav > FLAC frontend 1.7.1 > .flac                             
+                                                                            
+Notes: Recorded about 20 feet away from center stage.                                                  
+Never pay for or sell live recordings.      
+
+Set List:
+01-Silverchair-Intro.flac
+02-Silverchair-Young_Modern_Station.flac
+03-Silverchair-Emotion_Sickness.flac
+04-Silverchair-Isreals_Son.flac
+05-Silverchair-Reflections_Of_A_Sound.flac
+06-Silverchair-Insomnia.flac
+07-Silverchair-Anas_Song.flac
+08-Silverchair-Tuna_In_The_Brine.flac
+09-Silverchair-Greatest_View.flac
+10-Silverchair-Straight_Lines.flac
+11-Silverchair-The_Door.flac
+12-Silverchair-Mind_Reader.flac
+13-Silverchair-Scream_For_Me.flac
+14-Silverchair-If_You_Keep_Losing_Sleep.flac
+15-Silverchair-Freak.flac

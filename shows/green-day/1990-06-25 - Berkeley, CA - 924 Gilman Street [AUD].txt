@@ -1,0 +1,28 @@
+Green Day
+1990-06-25
+924 Gilman Street
+Berkeley, CA
+
+1. The Judge's Daughter (2:43)
+2. At the Library (2:14)
+3. Paper Lanterns (2:32)
+4. Green Day (3:17)
+5. Going to Pasalacqua (4:49)
+6. 16 (3:52)
+7. Only of You (2:58)
+8. Disappearing Boy (3:16)
+9. 409 in Your Coffeemaker (cut) (0:54)
+
+sound quality: good audience recording
+lineage: ? > cassette tape (unknown generation) > Tascam CC-222 (WAV) > CD WAV Editor (track split) > FLAC Frontend (FLAC)
+
+checksums:
+01 The Judge's Daughter.flac:c599879e77242435bbe4eea0bdf366ca
+02 At the Library.flac:b385e5fb56e3a0cf7688aa08a84456ad
+03 Paper Lanterns.flac:e0bceef2de6a62dbae54704913d76191
+04 Green Day.flac:a877a76bf01850fcc97ef19f608ca4a2
+05 Going to Pasalacqua.flac:a5f03f3985cf3fcacc6017c311c83e70
+06 16.flac:3c802c74e5890089b2ac34b8725bc80b
+07 Only of You.flac:f91c2d58e8eeb6decc5a6120662f3e4b
+08 Disappearing Boy.flac:4c9827848c9813355baea2a126eab6da
+09 409 in Your Coffeemaker (cut).flac:138fcf88c06ba07b2dc68a340b1385ca

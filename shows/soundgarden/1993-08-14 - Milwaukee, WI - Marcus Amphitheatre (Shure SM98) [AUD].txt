@@ -1,0 +1,38 @@
+SOUNDGARDEN
+August 14, 1993
+Marcus Amphitheatre
+Milwaukee, WI
+
+Source: Shure SM-98 -> 94A1670 -> Sony WM-D6
+Lineage: cass-M -> DAT(1) 48khz -> FLAC
+Transfer: DA-20 -> Monster coax -> DiO 2496 -> CEP 2.1 -> FLAC
+
+01 Gun
+02 Kickstand
+03 My Wave
+04 Let Me Drown
+05 Outshined
+06 Rusty Cage
+07 Spoonman
+08 Fell On Black Days
+09 Mailman
+
+Notes: Few minor spots of static, mostly in the right channel.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

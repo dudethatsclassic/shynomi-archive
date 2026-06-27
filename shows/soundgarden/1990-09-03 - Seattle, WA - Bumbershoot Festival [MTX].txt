@@ -1,0 +1,101 @@
+Soundgarden
+Date: 1990-09-03
+Location: Seattle, WA
+Venue: Seattle Center Coliseum (Bumbershoot)
+Source: Audience matrix (50/50 mix of aud 1 and 2)
+
+
+***Contrast clause***
+This is an upgrade to previous version:  http://www.dimeadozen.org/torrents-details.php?id=436112
+
+http://www.soundgardenliveguide.com/1990/19900903.htm
+
+Aud #1
+Unknown analog audience (Silver boot cd "Seattle 1990")
+
+Aud #2
+Lineage: DAT(M)>WAV [48kHz/16bit]>WAV [44.1kHz/16bit]>Flac
+Transfer: Tascam DA-20 MKII>PreSonus FireStudio Project>Adobe Audition 3.0 
+Taping Gear: Nakamichi CM-300 w/CP-4 shotgun capsules>Panasonic SV-250
+Taped By: JEMS
+Transferred By: Mike Ziegler
+
+Matrix 
+Lineage:  wav -> audacity -> flac -> you
+Source #1 ran at different speeds and both sources had tape flips.  Used Audacity to sync source #1 with #2.  
+Adjusted volume levels pre-mix to minimize clipping.
+Source #1 fades in midway through on Beyond the Wheel and Nothing To Say.
+Track 1 (intro) is source #2 entirely.  
+
+Upgrade notes:
+Flower, Hunted Down, Full On Kevin's Mom, and Nothing To Say - slightly improved mixes.  Synched the sources together a little closer on these versions.
+Gun - deleted a slight overlap at the start of the track, redundant with end of previous track.
+Beyond the Wheel - minor volume adjustment and mic pop removed.
+
+All other tracks are the same as previous version.
+
+Out of all the SG shows I've heard, I think this one may be my favorite.  
+This will be the last time I remix it, so I guess this can be considered the definitive version.
+Hope you like it as much as I do.  
+
+enjoy!
+-exene
+
+-----------------------------------------------
+
+Band Members:
+Chris Cornell - Lead vocals, guitar
+Kim Thayil - Lead guitar
+Ben Shepherd - Bass
+Matt Cameron - Drums
+
+Setlist:
+01. intro
+02. Beyond The Wheel
+03. Flower
+04. Gun
+05. Loud Love
+06. Big Dumb Sex
+07. Hunted Down
+08. Full On Kevin's Mom
+09. Ugly Truth
+10. All Your Lies
+11. I Awake
+12. Nothing To Say
+13. Hands All Over
+14. Get On The Snake
+15. Big Bottom
+
+
+-----------------------------------
+Original source text notes
+-----------------------------------
+
+Notes from aud #1: 
+
+none.
+
+
+Notes from aud #2:
+
+For many years, the annual Bumbershoot Festival in Seattle provided a host 
+of taping opportunities for JEMS. Given its search-free, choose-your-own-seat 
+approach, Bumbershoot became a testing ground gear we could normally deploy. 
+Hence the use of Nak 300 shotguns for this Soundgarden show which we also 
+shot on video. Our seats at the rail gave us mounting capabilities and clear 
+sight lines.
+
+A couple of curious things about the show, the first being that Soundgarden 
+was actually pinch-hitting for the Psychedelic Furs who were scheduled to 
+headline. Second being that the opening act were local power-pop purveyors 
+the Posies, which seemed odder at the time than it does now. The PA cut out 
+several times during the Posies' set but I think it held solid for Soundgarden.
+
+The show includes a cover of Spinal Tap's "Big Bottom" as the set closer. When
+we get around to posting the video, you'll see why it was such a highlight.
+
+Samples provided. Hope you enjoy it. And if you are interested in the video, 
+let us know, it just might motivate us to post it.
+
+Butterking for JEMS
+

@@ -23,7 +23,8 @@ const ARTIST_DATA = {
       "venue": "Saenger Theater",
       "notes": "",
       "version": "SBD",
-      "format": "SHN"
+      "format": "SHN",
+      "textFile": "2000-05-04 - New Orleans, LA - Saenger Theater [SBD].txt"
     },
     {
       "year": 2001,
@@ -34,9 +35,10 @@ const ARTIST_DATA = {
       "state": "IL",
       "location": "Chicago, IL",
       "venue": "Aragon Ballroom",
-      "notes": "Schoeps MK4 · unk",
+      "notes": "Schoeps MK4 \u00b7 unk",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "2001-11-02 - Chicago, IL - Aragon Ballroom (Schoeps MK4) (unk) [AUD].flac.txt"
     },
     {
       "year": 2001,
@@ -47,9 +49,10 @@ const ARTIST_DATA = {
       "state": "IL",
       "location": "Chicago, IL",
       "venue": "Aragon Ballroom",
-      "notes": "KM-140 · matt lazor",
+      "notes": "KM-140 \u00b7 matt lazor",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "2001-11-02 - Chicago, IL - Aragon Ballroom [AUD].txt"
     },
     {
       "year": 2001,
@@ -60,9 +63,10 @@ const ARTIST_DATA = {
       "state": "IN",
       "location": "West Lafayette, IN",
       "venue": "Edward C. Elliot Hall of Music",
-      "notes": "DAT(M) · Neumann KM140 · matt lazor",
+      "notes": "DAT(M) \u00b7 Neumann KM140 \u00b7 matt lazor",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "2001-11-03 - West Lafayette, IN - Edward C. Elliot Hall of Music [AUD].txt"
     },
     {
       "year": 2001,
@@ -73,9 +77,10 @@ const ARTIST_DATA = {
       "state": "MI",
       "location": "Ann Arbor, MI",
       "venue": "Hill Auditorium",
-      "notes": "KM-140 · matt lazor",
+      "notes": "KM-140 \u00b7 matt lazor",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "2001-11-04 - Ann Arbor, MI - Hill Auditorium [AUD].txt"
     },
     {
       "year": 2001,
@@ -88,7 +93,8 @@ const ARTIST_DATA = {
       "venue": "Cleveland State Theatre",
       "notes": "Schoeps MK4v",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "2001-11-06 - Cleveland, OH - Cleveland State Theater [AUD].txt"
     },
     {
       "year": 2001,
@@ -99,9 +105,10 @@ const ARTIST_DATA = {
       "state": "Canada",
       "location": "Toronto, Canada",
       "venue": "Massey Hall",
-      "notes": "DAT(M) · Schoeps CCM4s · duncan oldham",
+      "notes": "DAT(M) \u00b7 Schoeps CCM4s \u00b7 duncan oldham",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "2001-11-07 - Toronto, Ontario - Massey Hall  [AUD].txt"
     },
     {
       "year": 2001,
@@ -112,9 +119,10 @@ const ARTIST_DATA = {
       "state": "NY",
       "location": "Utica, NY",
       "venue": "Utica Memorial Auditoriium",
-      "notes": "DAT(M) · Schoeps CCM4s · duncan oldham",
+      "notes": "DAT(M) \u00b7 Schoeps CCM4s \u00b7 duncan oldham",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "2001-11-09 - Utica, NY - Utica Memorial Auditorium [AUD].txt"
     },
     {
       "year": 2001,
@@ -127,7 +135,8 @@ const ARTIST_DATA = {
       "venue": "Roseland Ballroom",
       "notes": "Schoeps MK4s",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "2001-11-14 - New York, NY - Roseland Ballroom [AUD].txt"
     },
     {
       "year": 2001,
@@ -138,9 +147,10 @@ const ARTIST_DATA = {
       "state": "NC",
       "location": "Asheville, NC",
       "venue": "Asheville Civic Center",
-      "notes": "DAT(M) · KM-140 · matt lazor",
+      "notes": "DAT(M) \u00b7 KM-140 \u00b7 matt lazor",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "2001-11-17 - Asheville, NC - Asheville Civic Center [AUD].txt"
     },
     {
       "year": 2001,
@@ -151,9 +161,10 @@ const ARTIST_DATA = {
       "state": "NC",
       "location": "Asheville, NC",
       "venue": "Civic Center",
-      "notes": "AKG483 · c. cage",
+      "notes": "AKG483 \u00b7 c. cage",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "2001-11-17 - Asheville, NC - Civic Center (AKG483) (c. cage) [AUD].txt"
     },
     {
       "year": 2006,
@@ -164,9 +175,10 @@ const ARTIST_DATA = {
       "state": "TN",
       "location": "Manchester, TN",
       "venue": "Bonnaroo Festival",
-      "notes": "What · DPA 4027 · scott schneider",
+      "notes": "What \u00b7 DPA 4027 \u00b7 scott schneider",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "2006-06-16 - Manchester, TN - Bonnaroo [AUD].txt"
     },
     {
       "year": 2022,
@@ -177,9 +189,10 @@ const ARTIST_DATA = {
       "state": "GA",
       "location": "Atlanta, GA",
       "venue": "Sweetwater 420 Festival",
-      "notes": "Sweetwater · Schoeps CCM4vs · z-man",
+      "notes": "Sweetwater \u00b7 Schoeps CCM4vs \u00b7 z-man",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "2022-05-01 - Atlanta, GA - Sweetwater 420 Festival - Sweetwater Stage (Schoeps CCM4vs) (z-man) [AUD].txt"
     }
   ],
   "misc": []

@@ -1,0 +1,42 @@
+Sonic Youth
+May 12, 1986
+Riverside
+Newcastle upon Tyne, United Kingdom
+
+DISC #1/1 (41:49)
+-----------------
+01) intro
+02) Inhuman
+03) Shadow Of A Doubt
+04) Starpower
+05) Death To Our Friends
+06) Burning Spear
+07) Tom Violence
+08) White Kross
+09) Secret Girl
+10) Expressway To Yr Skull
+
+GENERATION
+-----------------
+ANA(2) -> WAV [48kHz/24bit] -> WAV [44.1kHz/16bit] -> FLAC [Level 8]
+
+TRANSFER
+-----------------
+Nakamichi DR-8 -> Hosa RCA cable -> LynxONE analog-in -> WaveLab 5.00a -> CD Wave 1.94.8 -> FLAC Frontend 1.7.1
+
+MD5 FINGERPRINTS
+-----------------
+d1e3f00dcb95e0a3431826a29cf7a55f *sonicyouth1986-05-12t01.flac
+96458ff5fef8f6d7ab22eb66aa6744e2 *sonicyouth1986-05-12t02.flac
+95bb803cef9333e81c82adb533f2e5c3 *sonicyouth1986-05-12t03.flac
+91b1d3486be344179c5e68a7af8c29fa *sonicyouth1986-05-12t04.flac
+8f08e59607ee9cbbbd03ef17cadd3054 *sonicyouth1986-05-12t05.flac
+588d7151a17713679686d56bcf3dc785 *sonicyouth1986-05-12t06.flac
+316819cd8641c998810f5b1d4f2f8695 *sonicyouth1986-05-12t07.flac
+c0fba87fa919a60cc2100b21c5b5489d *sonicyouth1986-05-12t08.flac
+6f27abf31dbc7584ecd59ad8bdaa90c6 *sonicyouth1986-05-12t09.flac
+65649aa85b3d271b23d1594792a65fa4 *sonicyouth1986-05-12t10.flac
+
+
+Transferred by Mike Ziegler.
+PLEASE DO NOT ENCODE TO MP3 OR SELL!

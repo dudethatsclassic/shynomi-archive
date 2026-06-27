@@ -1,0 +1,26 @@
+Toad the Wet Sprocket
+July 15, 2014
+Lifestyle Communities Pavilion
+Columbus, Ohio
+
+Source:  Neumann KM140s > Tascam HD-P2 (24/48)
+Setup:  Mics on stand 9' high, 40' back, DFC (back of pit, against wall)
+Transfer:  HD-P2 (CompactFlash) > Card Reader > PC > Cool Edit Pro 2.0 > EQ > Normalize to -0.1 >
+Dither/Resample to 16/44.1 > WAV > TLH > FLAC Level 8
+Taped, transferred, tracked, and encoded by Matt Miller
+
+(49:54)
+
+01. Intro
+02. The Moment
+03. Good Intentions
+04. Something's Always Wrong
+05. New Constellation
+06. Windmills
+07. Crazy Life
+08. Come Down
+09. California Wasted
+10. Nightingale Song
+11. All I Want
+12. Fall Down
+13. Walk on the Ocean

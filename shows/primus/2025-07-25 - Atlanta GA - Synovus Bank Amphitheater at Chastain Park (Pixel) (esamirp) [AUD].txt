@@ -1,0 +1,45 @@
+Primus - Onward and Upward Tour
+July 25th, 2025 (Friday)
+Synovus Bank Amphitheater at Chastain Park
+Atlanta, Georgia
+
+Recorded by:  esamirp
+Source:  built in mics > Pixel > PCM Recorder
+Transfer:  .WAV > RX9 > Wavepad > flac (8) via TLH
+
+Setlist:  01:41:15
+01 - show starts
+02 - Groundhog's Day
+03 - Dirty Drowning Man
+04 - Les banter
+05 - The Anti-pop
+06 - American Life
+07 - Little Lord Fentanyl
+08 - Jilly's on Smack
+09 - Over the Falls
+10 - Amos Moses
+11 - Restin' Bones
+12 - Bob's Party Time Lounge
+13 - Welcome to This World
+14 - My Name is Mud
+15 - Over the Electric Grapevine
+-encore-
+16 - Wynona's Big Brown Beaver
+
+fingerprints:
+Primus2025-07-25t01 - intro.flac:2c9081c9549c22f64a72876bacb22d40
+Primus2025-07-25t02 - Groundhogs Day.flac:8e0f96e295ab50a6e8f02d494c9c2ca2
+Primus2025-07-25t03 - Dirty Drowning Man.flac:bc6b4e000245995a3c49cb6f51d17375
+Primus2025-07-25t04 - banter.flac:bdd58895d7594b7895b3e033469cf356
+Primus2025-07-25t05 - Antipop.flac:1ceffdb0b4efe6d6146ff97828f9bf4d
+Primus2025-07-25t06 - American Life.flac:ba31624990f8b303a8e89241aebd4aec
+Primus2025-07-25t07 - Little Lord Fentanyl.flac:43cd3ad8da18ab125eacaf55c856d780
+Primus2025-07-25t08 - Jillys on Smack.flac:b776e11fe0e3a8f9ad90a977d4e8a79e
+Primus2025-07-25t09 - Over the Falls.flac:66c1e66a631265da0515ef48dece9795
+Primus2025-07-25t10 - Amos Moses.flac:fc3e53eb2bf1aad93fc9dc1804c299f2
+Primus2025-07-25t11 - Restin Bones.flac:7aad97196eea5ab2af2b8ce8386ff82f
+Primus2025-07-25t12 - Bobs Party Time.flac:6ec50d34efe28750c14d09e2e4e22825
+Primus2025-07-25t13 - Welcome to This World.flac:ea320b878df97401c4a537e9621104f6
+Primus2025-07-25t14 - My Name is Mud.flac:43bdd543fe44c3d05352868b7c9758e7
+Primus2025-07-25t15 - Over the Electric Grapevine.flac:e22b2d4d9b8380c393d297cb303ac0e1
+Primus2025-07-25t16 - Wynona.flac:e4d52ed582ec1fe4388e078964800c5e

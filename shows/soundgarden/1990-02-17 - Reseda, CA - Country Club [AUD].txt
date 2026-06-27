@@ -1,0 +1,37 @@
+SOUNDGARDEN
+February 17, 1990
+Country Club
+Reseda, CA, USA
+
+Source: analog audience audio [Sony supplied mic > Sony WM-F76]
+Generation: ANA(1) > Nakimichi DR-3> Edirol R-09 > HDD > CDR(1) > WAV [EAC Secure] > FLAC [8]
+Quality: 7.5
+Time: 51:26
+
+Tracklist:
+1. intro
+2. Flower
+3. Hands All Over
+4. Gun
+5. Loud Love
+6. Get On The Snake
+7. Big Dumb Sex
+8. Full On Kevin's Mom
+9. I Awake
+10. Big Bottom
+11. Beyond The Wheel
+
+Originally encoded January 2009.
+
+Fingerprints:
+01 - intro.flac:559d12a6cda754875786e301242ab9a0
+02 - Flower.flac:e8c6e483ac65bc88279f1e319dd27092
+03 - Hands All Over.flac:5b3a9956a4d612a11073e4068d8e352a
+04 - Gun.flac:89956c1e2014d2802b1d7dffebc34ca9
+05 - Loud Love.flac:4bb2a76fc03997707670ab5be33625e2
+06 - Get On The Snake.flac:6588ccf7cab06cfd3430fb1b541a373b
+07 - Big Dumb Sex.flac:13f1b361ccf884d845c46d567700dc59
+08 - Full On Kevin's Mom.flac:133d60c6a81dc78dc517137900300db4
+09 - I Awake.flac:df8018ab3620d95c547ab7cae7313828
+10 - Big Bottom.flac:6790564461e11bc2d53ffbe0fc87b285
+11 - Beyond The Wheel.flac:c825aafb14c3ddc08b38e09720b83aa6

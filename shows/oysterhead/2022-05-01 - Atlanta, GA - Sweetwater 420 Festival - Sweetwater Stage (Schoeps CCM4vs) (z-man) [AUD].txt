@@ -1,0 +1,71 @@
+Oysterhead
+Sweetwater 420 Festival
+Sweetwater Stage
+Atlanta, Georgia
+5/1/2022
+
+Source: Schoeps CCM4V's>Lunatec V2>Sound Devices 722 (24/44.1)
+FOB/DFC/KFC/ZFC/AARP 95' From Stage, 7 1/2' High
+DSP: Sound Devices 722>Sound Forge 10.0>CD Wave>flac(16)
+ID3 Tagged In Foobar 2000
+Recorded By: Z-Man
+Seeded By: Z-Man
+A Team Dirty South Recording
+
+Disc I 
+
+01 House PA/Jam >
+02 Mr. Oysterhead
+03 Oz Is Everfloating
+04 Rubberneck Lions
+05 Little Faces
+06 The Grand Pecking Order
+
+Disc II 
+
+01 Polka Dot Rose
+02 Army's On Ecstasy
+03 *Shadow Of A Man
+04 1st Tube >
+05 Owner Of The World 
+Encore:
+06 Banter
+07 Pseudo Suicide
+08 Band Introductions/Outro
+
+Trey Anastasio - Guitar And Vocals
+Col. Les Claypool - Bass And Vocals
+Stewart Copeland - Drums 
+
+oyster2022-05-01d01t01.flac:d76e70d88694cdc4f1742a6a5a6da162
+oyster2022-05-01d01t02.flac:edf8d52f7db1065d936ec2e50dbd2ab8
+oyster2022-05-01d01t03.flac:c420c7f9ae0ed2e8450bbf5227bac694
+oyster2022-05-01d01t04.flac:1bd15e6a060fd3fcff0d454f87924a9c
+oyster2022-05-01d01t05.flac:70f7bf056535d0c300ec11582a4025dd
+oyster2022-05-01d01t06.flac:92dd2ef0f25d822af7c1cd0677872803
+oyster2022-05-01d02t01.flac:0e9de856f013546ff050e9c7e27ee0a1
+oyster2022-05-01d02t02.flac:a87951152615f5257a2470f2dd904bca
+oyster2022-05-01d02t03.flac:1787f68d967c10b276df47130f55fbe9
+oyster2022-05-01d02t04.flac:be60aa77d22add6c00a8dc0edf4633a3
+oyster2022-05-01d02t05.flac:26d8f018c60a3e2522caa198388b5634
+oyster2022-05-01d02t06.flac:f912f157ac57a9ae33420525bf43649a
+oyster2022-05-01d02t07.flac:762bf5f5aa2f4e216ae01cb0739e46a7
+oyster2022-05-01d02t08.flac:ed992b7ce267d41c369c4002986e7411
+
+ length     expanded size    cdr  WAVE problems  fmt   ratio  filename
+     1:11.52       12646748 B   ---   --   ---xx   flac  0.3770  oyster2022-05-01d01t01.flac
+    12:38.03      133718300 B   ---   --   ---xx   flac  0.4800  oyster2022-05-01d01t02.flac
+     7:17.16       77124476 B   ---   --   ---xx   flac  0.5197  oyster2022-05-01d01t03.flac
+    13:28.56      142662956 B   ---   --   ---xx   flac  0.4737  oyster2022-05-01d01t04.flac
+    11:48.28      124957100 B   ---   --   ---xx   flac  0.5493  oyster2022-05-01d01t05.flac
+     6:04.10       64233164 B   ---   --   ---xx   flac  0.4487  oyster2022-05-01d01t06.flac
+     9:54.12      104809868 B   ---   --   ---xx   flac  0.5238  oyster2022-05-01d02t01.flac
+    11:24.35      120739964 B   ---   --   ---xx   flac  0.5398  oyster2022-05-01d02t02.flac
+     8:46.22       92838188 B   ---   --   ---xx   flac  0.4057  oyster2022-05-01d02t03.flac
+     5:50.70       61904684 B   ---   --   ---xx   flac  0.4892  oyster2022-05-01d02t04.flac
+     6:31.54       69099452 B   ---   --   ---xx   flac  0.5192  oyster2022-05-01d02t05.flac
+     1:24.18       14859980 B   ---   --   ---xx   flac  0.3597  oyster2022-05-01d02t06.flac
+     5:43.36       60589916 B   ---   --   ---xx   flac  0.5356  oyster2022-05-01d02t07.flac
+     0:56.37        9965468 B   ---   --   ---xx   flac  0.4328  oyster2022-05-01d02t08.flac
+   102:59.74     1090150264 B                            0.4954  (14 files)
+

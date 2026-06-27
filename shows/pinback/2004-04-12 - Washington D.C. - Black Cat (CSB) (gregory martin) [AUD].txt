@@ -1,0 +1,42 @@
+Pinback
+Black Cat - Washington, DC
+Monday, April 12, 2004
+
+Taper:			Gregory Martin <greg@insete.com>
+Source:			Core Sound Binaurals > Core Sound Battery Box (Flat) >
+			Sharp MD-MT15 + Sharp MD-MS702
+
+Conversion:		Gregory Martin <greg@insete.com> 4/13/04
+MD > WAV:		Sony MDS-JE520 > M-Audio DiO 2448 > Cool Edit 2000
+WAV > FLAC:		FLAC frontend 1.7.1 (Level 8)
+Retracking & Editing:	Cool Edit 2000 and Insete's Wave Tools 13.1
+
+
+Disc 1:
+
+01:	(Intro)								-	00:10.280
+02:	Boo								-	03:51.960
+03:	Chaos Engine							-	03:57.626
+04:	Tripoli								-	04:19.880
+05:	Hurley								-	03:25.746
+06:	Concrete Seconds						-	04:05.506
+07:	Microtonic Wave							-	04:28.600
+08:	(New Song)							-	04:12.520
+09:	Talby								-	04:27.960
+10:	Grey Machine							-	10:55.226
+11:	Loro								-	04:08.120
+12:	Fortress							-	04:49.093
+13:	Offline P.K.							-	02:56.200
+14:	X.I.Y.								-	04:01.480
+15:	Penelope							-	06:10.946
+16:	Tres								-	06:05.306
+17:  E	Crutch								-	03:33.666
+18:  E	Prog								-	04:17.373
+
+Total:									-	79:57.493
+
+
+The levels were set a little too high, but the recording still sounds fine to me.
+
+
+This file was compiled on 4/13/04

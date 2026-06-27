@@ -1,0 +1,26 @@
+Husker Du - 1984 12 15 Club Lingerie, LA, CA
+
+1 Something I Learned Today
+2 It's Not Funny Any More
+3 Everything Falls Apart
+4 The Girl Who Lives On Heaven Hill
+5 I Apologize
+6 If I Told You
+7 Folklore
+8 Terms Of Psychic Warfare
+9 Powerline
+10 Books About UFOs
+11 Diane
+12 Hate Paper Doll
+13 Green Eyes
+14 Divide And Conquer
+15 Pink Turns To Blue
+16 Out On A Limb
+17 Eight Miles High
+18 Reoccurring Dreams
+19 New Day Rising
+20 Ticket To Ride
+21 Love Is All Around
+
+Lineage: Master > unknown tape gen > Tascam 202MKVII USB out > CDWAV > Audacity (normalization, fades, merges, noise reduction) > CDWAV (splits) > DBPowerAmp (FLAC) [loughney xfer]
+

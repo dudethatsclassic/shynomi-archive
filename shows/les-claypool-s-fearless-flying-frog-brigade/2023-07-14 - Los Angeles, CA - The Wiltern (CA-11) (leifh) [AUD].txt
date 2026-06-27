@@ -1,0 +1,60 @@
+Les Claypool's Fearless Flying Frog Brigade - The Summer of Green Tour
+Friday July 14th, 2023
+The Wiltern
+3790 Wilshire Blvd.
+Los Angeles, California
+
+Taper:  LeifH [2023#40]
+Source:  CA-11 > A10 (1st rail behind the pit, center)
+Transfer:  PC via USB > RX9 > Wavepad > flac (8) via TLH
+
+Setlist:  02:17:21
+01 intro (When Johnny Comes Marching Home)
+02 Up on the Roof
+03 Rumble of the Diesel
+04 Amanitas
+05 Blood and Rockets
+06 Pigs on the Wing  I
+07 Dogs
+08 Pigs
+09 Sheep
+10 Pigs on the Wing II
+11 Precipitation
+12 One Better
+13 David Makalaster
+14 David Makalaster II
+15 Thela Hun Ginjeet [w/Larry LaLonde]
+-encore-
+16 Whamola
+17 Cosmic Highway
+
+Les Claypool - vocals, bass, whamola
+Paulo Baldi - drums, vocals
+Mike Dillon - percussion, vocals
+Harry Waters - keyboards, vocals
+Sean Lennon - guitar, vocals
+>>> plus special guest <<<
+Larry "Ler" LaLonde - Roland G-808 Guitar Synthesizer
+
+Second-to-last show of the summer tour.  I would go to the last night in Phoenix as well.  
+
+During the opening act, Moon Duo, I could see a guitar tech tuning up Ler's synth guitar on the side of the stage, so I knew he'd be sitting in at some point.  
+
+fingerprints:
+lcfffb2023-07-14t01 - intro.flac:1d7186c4683a174f17fceb433982f226
+lcfffb2023-07-14t02 - Up on the Roof.flac:42f620f9aa3c7d420b2c2f6b3780dce7
+lcfffb2023-07-14t03 - Rumble of the Diesel.flac:017976fcab69cbd78227ac184d10a1b5
+lcfffb2023-07-14t04 - Amanitas.flac:b8a22dda02d42d59e2e7cf2fe695313d
+lcfffb2023-07-14t05 - Blood and Rockets.flac:44d2eac13febd1dbb1b5f7730408848f
+lcfffb2023-07-14t06 - Pigs on the Wing.flac:36525762b08b8fb957dbf8dfb14b8289
+lcfffb2023-07-14t07 - Dogs.flac:b63d58571f6974afe006769f9046076d
+lcfffb2023-07-14t08 - Pigs.flac:7e44469330f4b85cf42f32df938fec1c
+lcfffb2023-07-14t09 - Sheep.flac:cb51162df162552c7906bc6ef8848b98
+lcfffb2023-07-14t10 - Pigs on the Wing.flac:b43a0a27f8003c568048c408693afbaf
+lcfffb2023-07-14t11 - Precipitation.flac:db99e054ae067dc5a5777013a5c4977d
+lcfffb2023-07-14t12 - One Better.flac:5bda5c57ca8cdb4bba21b56a2a6dd46b
+lcfffb2023-07-14t13 - David Makalaster.flac:82a96d927c89d052db00ce7b3925b2b0
+lcfffb2023-07-14t14 - Makalaster II.flac:55c1c34bcb01887294e4d8ecba063f7d
+lcfffb2023-07-14t15 - Thela Hun Ginjeet.flac:3aa758ea336e9f1adb200ff3f3eb3c5c
+lcfffb2023-07-14t16 - Whamola.flac:c8eb176d32680a1a2e4bfef86a6e8aae
+lcfffb2023-07-14t17 - Cosmic Highway.flac:3bc0f6cdec7d0ae8a0f8b28c44c9af15

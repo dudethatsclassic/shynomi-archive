@@ -1,0 +1,63 @@
+Soundgarden
+January 29, 1992
+The Palace
+Hollywood, CA, USA
+
+**Video with upgraded audio**
+
+file format (container): .AVI
+video codec: MPEG
+resolution: 852x480
+ratio: 16:9
+frame rate: 30fps
+video bitrate: 3887kbs/sec
+audio codec: AAC
+number of channels: 2
+audio bitrate: 192kbps/44.1kHz
+duration: 1hr 37min
+
+audio source: audience #1 (Unknown analog audience)
+Generation: ANA(2) > CDR(1) > WAV > FLAC [8]
+Quality: 6.4
+Time: 1hr 33min
+
+video source: audience video #1
+Generation: VHS(x) > DVDR(x) > torrent > Avidemux 2.6 (copy mode, no reencoding involved) > .avi
+Time: 1hr 37min
+
+setlist:
+Searching With My Good Eye Closed
+Flower
+Face Pollution
+Gun
+Little Joe
+Big Dumb Sex
+Drawing Flies
+Room A Thousand Years Wide
+Rusty Cage
+Outshined
+Nothing To Say
+Hands All Over
+Mind Riot
+Beyond the Wheel
+Into The Void (Stealth)
+Jesus Christ Pose
+Birth Ritual
+Somewhere
+Slaves & Bulldozers
+
+Notes: 
+both sources had multiple dropouts, especially towards the end.  
+I tried to patch these best I could. 
+The two sources ran at different speeds, 
+so the speed correction took forever but I think the results are worth it.  
+Its not perfect, still boomy in places, 
+but at least now its a stereo mix instead of the mono from the video.
+Last known performance of "Birth Ritual" until 2015. 
+https://www.louderthanlive.com/show/1992-01-29-the-palace-hollywood-ca-usa/
+
+enjoy!
+bluejane99
+
+
+

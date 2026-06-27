@@ -1,0 +1,54 @@
+Chevelle
+Fillmore Auditorium
+Denver, Colorado, United States
+September 16, 2025
+
+Loudpuppy master
+
+lineage: iPhone 16 Pro voice memos application > DPA 4061 (mics) > VLC Media Player (conversion from M4A to wav) > CDwav (for tracking) > Traders Little Helpher FLAC level 8 
+
+Setlist:
+
+01 Family System
+02 The Clincher
+03 Rabbit Hole / Cowards Pt. 1
+04 An Island
+05 Joyride (Omen)
+06 Face To The Floor
+07 Pale Horse
+08 Vitamin R (Leading Us Along)
+09 Jars
+10 Hats Off To The Bull
+11 Jim Jones (Cowards Pt. 2)
+12 Get Some
+13 Forfeit
+14 Send The Pain Below
+15 The Red
+16 Comfortable Liar
+17 I Get It
+18 Mars Simula
+
+Notes: this is the second show that Loudpuppy recorded using his newly rediscovered DPAs. This one isn't quite as good sounding as the Linkin Park one, but is a much smaller venue, The Fillmore, which is a notoriously difficult place to get good sound. He did note that this was a great show, so let the sample be your guide and download at your pleasure. He did ask me to say that, if anyone is interested in doing a remaster, that would be greatly appreciated, just please share it with me (or us) so that I can share it with him!
+
+01 Family System.flac:bf94cec9fa5095373451f7548bdaf2ec
+02 The Clincher.flac:b2cfe63e5a90ef9c6445470eee7699fe
+03 Rabbit Hole Cowards Pt. 1.flac:606e79aea975bfc7d20a04a7fe8b6743
+04 An Island.flac:26c8d4709b55290ce07703322ec48a6e
+05 Joyride (Omen).flac:86329d278526e1433571ea9512be3f97
+06 Face To The Floor.flac:fd8bcadd7cee9b13bcb70c606161d61c
+07 Pale Horse.flac:fd7aa931a50c991f7b0eb92a5baec30b
+08 Vitamin R (Leading Us Along).flac:fe7aa85d6a94191e49b6723d19a200eb
+09 Jars.flac:ad4d10709da60b0c0f30a18b0230ad52
+10 Hats Off To The Bull.flac:185e1441bff36368a92b94ae7d69235b
+11 Jim Jones (Cowards Pt. 2).flac:8405e8529fb4724eed2bd57d332a2bfc
+12 Get Some.flac:c9078eaea9a15f28d26da501528321f8
+13 Forfeit.flac:5a6b4e2da1b7739565256abe389ddd5b
+14 Send The Pain Below.flac:b76e1788afdb44a427f8804386038a81
+15 The Red.flac:3a373babcb7513149a04eb4ae9de854c
+16 Comfortable Liar.flac:d6fa751b83ee2a60c3774c8c33c3f507
+17 I Get It.flac:88fb05c68c7f42a79d90884229e21162
+18 Mars Simula.flac:e85895930132edc050a1d2243855b5ba
+
+No errors occured.
+
+Create checksum file log saved to file.

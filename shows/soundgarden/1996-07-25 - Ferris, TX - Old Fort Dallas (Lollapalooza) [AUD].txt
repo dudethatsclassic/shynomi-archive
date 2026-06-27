@@ -1,0 +1,56 @@
+Soundgarden
+Lollapalooza Festival
+Old Fort Dallas
+Ferris, TX
+July 25, 1996
+
+** 16 BIT **
+
+Souce:  Sonic Studios DSM-6P > Dony TCD-D7 > DAT Master > cassette (1)
+Transfer:  Cassette (1) > Denon 790R > Kenwood A-522 amplifier > Kenwood GE-622 Equalizer > .WAV @ 16 bit/44.1 kHz
+Mastering:  .WAV's > Sound Forge Pro 11.0 (Build 299) [iZotope Mastering Suite (declick); minor edits, normalize, & fades] > CDWav
+            (tracking) > Trader's Little Helper (level 5) > FLAC > TagScanner 6.0.18 (tagging) 
+Recorded by: Unverified, but likely Jason Hook
+Transferred by:  Steve "ballsdeep" Hagar
+Mastered by:  Dennis Orr
+
+Setlist: (1:02:33)
+01 Intro
+02 Spoonman
+03 Searching With My Good Eye Closed >
+04 Let Me Drown
+05 Chat
+06 Waiting For The Sun
+07 Pretty Noose
+08 My Wave
+09 Ty Cobb
+10 Fell On Black Days
+11 Rusty Cage
+12 Black Hole Sun >
+13 Outshined
+14 Mailman
+15 Jesus Christ Pose
+
+Chris Cornell – lead vocals & rhythm guitar
+Kim Thayil – lead guitar
+Ben Shepherd – bass & backing vocals
+Matt Cameron – drums & backing vocals
+
+Mastering Notes:
+Tape flip during the applause after "Rusty Cage" - seamlessly spliced, no music lost.
+
+Soundgarden1996-07-25t01.flac:3e228597192032e3067ad1b41e6add70
+Soundgarden1996-07-25t02.flac:5f927c855dfd4ad0c29f33b0fb7a3f86
+Soundgarden1996-07-25t03.flac:0ab3422be624c6cf4a2d6dc195c018d1
+Soundgarden1996-07-25t04.flac:d29f514d6c7a0a869cdbd951596d67d8
+Soundgarden1996-07-25t05.flac:4732e8df54ecb743419d94fe37066e5a
+Soundgarden1996-07-25t06.flac:b368f9e63f9082b19e57079f32e87f37
+Soundgarden1996-07-25t07.flac:d75ed06672a6f3296d27070926b65a49
+Soundgarden1996-07-25t08.flac:6349eb69cc9b4e7163342c07bd3f537b
+Soundgarden1996-07-25t09.flac:af8e1c6d4dd0c93055bbd712cd4d8f31
+Soundgarden1996-07-25t10.flac:65a514b8c02848e332f6f27f04b1e365
+Soundgarden1996-07-25t11.flac:e90ceac6e862f8c9856494803d50e6fc
+Soundgarden1996-07-25t12.flac:73ebb7680578f3ab5cae66a7c1d3ee77
+Soundgarden1996-07-25t13.flac:12c99634a19368f9fdc5bf2de1d39940
+Soundgarden1996-07-25t14.flac:514559ad17f946ab34ff197bb515e9ae
+Soundgarden1996-07-25t15.flac:f78ba41c9c3fcbd48c254aac4bf7a399

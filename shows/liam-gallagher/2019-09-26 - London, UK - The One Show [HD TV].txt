@@ -1,0 +1,19 @@
+Liam Gallagher
+The One Show,
+Broadcasting House,
+London, UK
+
+26th September 2019
+
+Setlist:
+Now That I've Found You
+
+Lineage:
+BBC1 HD satellite broadcast -> ZGemma-Star 2S -> external HDD -> TSMuxerGUI
+(direct stream capture, no re-encoding)
+
+Technical info:
+Video: 1920x1080i 25fps 16:9 H.264 (average bitrate = 7.005 Mbps)
+Audio: 48000Hz 192kbps stereo AC3
+Duration: 00:03:44
+Size: 199Mb

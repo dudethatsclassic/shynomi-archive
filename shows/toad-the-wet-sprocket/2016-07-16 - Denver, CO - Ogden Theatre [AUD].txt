@@ -1,0 +1,42 @@
+Toad the Wet Sprocket
+Ogden Theatre
+Denver, CO 
+July 16, 2016
+
+  One Set:
+
+01 intro music
+02 Good Intentions
+03 Crowing
+04 The Moment
+05 Is It For Me
+06 Something To Say
+07 Saturday Night (fake and discussion)
+08 Fly From Heaven
+09 Way Away
+10 Architect Of the Ruin
+11 Amnesty
+12 Crazy Life
+13 Something's Always Wrong
+14 Come Back Down
+15 Nightingale Song
+16 All I Want
+17 Fall Down
+
+  Encore:
+
+18 Nothing Can Stop My Love
+19 Walk On the Ocean
+
+Source (AUD): AKG CK63-ULS (PAS, FOB, center, 7' up) > Naiant AKG Active w/ PFA > Naiant littlekit 2.0 > Tascam DR-680
+Master format: 44.1 kHz, 16 bit, stereo (.WAV)
+Digital transfer: SDHC card (USB reader) > PC
+Digital editing: CuBase SX 2.0.1 (pre and post set fades, WAVES L1 Maximizer)
+Tracking & processing: CD Wave Editor > Trader's Little Helper > FLAC/MP3 > AudioShell tag editor
+Distribution format: 44.1 kHz, 16 bit, stereo (.FLAC) & 190kbps, VBR, stereo (.MP3)
+
+Recorded, processed and distributed by Chuck Miller (chuck@taperssection.com)
+
+Performance notes: Jonathan Kingham added keyboards, guitar, lap steel, mandolin and backing vocals the whole set
+
+Event notes: Luke Wade (solo) played first, then Toad the Wet Sprocket and Rusted Root closed the show 

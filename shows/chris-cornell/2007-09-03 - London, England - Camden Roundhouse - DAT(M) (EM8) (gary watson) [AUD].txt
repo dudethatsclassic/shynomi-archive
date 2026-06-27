@@ -1,0 +1,101 @@
+Chris Cornell
+3rd September 2007
+Camden Roundhouse
+London, England
+
+SETLIST (134:18)
+-----------------
+01. Silence The Voices
+02. Original Fire
+03. Let Me Drown
+04. Outshined
+05. Show Me How To Live
+06. Say Hello 2 Heaven
+07. You Know My Name
+08. No Such Thing
+09. Be Yourself
+10. What You Are
+11. Rusty Cage
+12. Billie Jean
+13. Fell On Black Days
+14. Preaching The End Of The World
+15. Blow Up The Outside World
+16. Doesn't Remind Me
+17. Cochise
+18. Ty Cobb
+19. Arms Around Your Love
+20. Black Hole Sun
+21. Spoonman
+22. Jesus Christ Pose
+23. (encore break)
+24. (Chris speaking)
+25. Seasons
+26. Burden In My Hand
+27. Wave Goodbye
+28. Slaves & Bulldozers ->
+29. (drum solo) ->
+30. Slaves & Bulldozers
+31. Whole Lotta Love
+
+GENERATION
+-----------------
+DAT(M) -> FLAC
+
+SOURCE (AUD #1)
+-----------------
+Marantz EM-8 -> Sony TCD-D8 -> DAT(M)
+
+TRANSFER
+-----------------
+DAT(M) -> Tascam DA-20 MkII -> M-Audio Audiophile 2496 (digital coax) -> WAV (44kHz/16bit)
+-> Adobe Audition 2017 (EQ/edits/clap reduction/fades/normalize) -> CDWave (splits) -> foobar2000 -> FLAC(8)
+
+NOTES
+-----------------
+You Know My Name is with David Arnold.
+Billie Jean is a Michael Jackson cover.
+Slaves & Bulldozers starts with Chris singing lyrics from Like A Stone.
+Tracks 12 -> 15 are Chris performing solo with an acoustic guitar.
+Noisy crowd as I wasn't close enough to the stage, probably standing in the middle of the venue.
+Silence The Voices has some level fluctuations at the beginning that I've fixed, as best as I can.
+Part of the crowd noise during the encore break is missing - sounds like my mic came unplugged?
+A fade and edit was made to smooth out the missing encore break crowd noise.
+Various sections were at different levels, so the volume of each section has been increased to give the overall sound some balance: Wave Goodbye has a minor but noticeable glitch where this happened, and there are very minor fluctuations still audible at the beginning of Slaves & Bulldozers.
+
+FLAC FINGERPRINTS
+-----------------
+chriscornell-2007-sep-03-aud-t01.flac:989308090136cca5b6a40e5cfc9053cd
+chriscornell-2007-sep-03-aud-t02.flac:b4035781674c365e94d5aaf4629c332a
+chriscornell-2007-sep-03-aud-t03.flac:4d4dcf092ab16b43af4872876e851de9
+chriscornell-2007-sep-03-aud-t04.flac:7bf095acbb3eebd7f0c93e25293ec7ac
+chriscornell-2007-sep-03-aud-t05.flac:70c1a2f21328197148a3d99d4c790185
+chriscornell-2007-sep-03-aud-t06.flac:9cef1fb3b03698962b853bda53c8a871
+chriscornell-2007-sep-03-aud-t07.flac:caff62ba85181162a46f384b870625a4
+chriscornell-2007-sep-03-aud-t08.flac:56da632babd54da4aa09988f5a7f93d4
+chriscornell-2007-sep-03-aud-t09.flac:276d73cb7fb18a92ad0acc6d155c3d4f
+chriscornell-2007-sep-03-aud-t10.flac:eb9d3fc35e0897fb3599e71f009f85b6
+chriscornell-2007-sep-03-aud-t11.flac:814b6e585afbee2748bb003d30de8c5e
+chriscornell-2007-sep-03-aud-t12.flac:578fa97a4db67d06b7eacde35bd30fe8
+chriscornell-2007-sep-03-aud-t13.flac:0519f45d3d809ff7b6641f9d6a7158e9
+chriscornell-2007-sep-03-aud-t14.flac:fbb3a6ed6054a447dab2a986a09d7f9c
+chriscornell-2007-sep-03-aud-t15.flac:4396dc7109e8d533484b9a6b304d5bd2
+chriscornell-2007-sep-03-aud-t16.flac:69daef664d6718c3d2e1e980aa145538
+chriscornell-2007-sep-03-aud-t17.flac:79947feb36f56364247edc541348e82e
+chriscornell-2007-sep-03-aud-t18.flac:169ca1dda30da36c1dc6e756c2487cd6
+chriscornell-2007-sep-03-aud-t19.flac:c920d1c265bc1ace1dd264f90871adc9
+chriscornell-2007-sep-03-aud-t20.flac:8a488cab0a2c4d85656ae11063c5e688
+chriscornell-2007-sep-03-aud-t21.flac:0e397dab83c16fb0c14eb57019fbf3ab
+chriscornell-2007-sep-03-aud-t22.flac:e42faa5d991cedf9c2ee223fb9dfd3b8
+chriscornell-2007-sep-03-aud-t23.flac:a160b54c50b3f3818fbf0ebb48d96efe
+chriscornell-2007-sep-03-aud-t24.flac:39c0be2d26a903b45cb36f4232f70bd5
+chriscornell-2007-sep-03-aud-t25.flac:7a3cdfa5c6cf93a0e5710369218994c9
+chriscornell-2007-sep-03-aud-t26.flac:1248c815cd94c002e52a472fa7572967
+chriscornell-2007-sep-03-aud-t27.flac:7e90491e1d3e01b81ff98638ae83f7a1
+chriscornell-2007-sep-03-aud-t28.flac:c83fa9ee0b94948a236db9ebb430a554
+chriscornell-2007-sep-03-aud-t29.flac:a47eb2ca9a0095b1a4116b479d0823f4
+chriscornell-2007-sep-03-aud-t30.flac:7eeee2510c381de433b7ca54262bd564
+chriscornell-2007-sep-03-aud-t31.flac:5afabfcc25f80b5da7db67d2c338b073
+
+Taped, transferred & mastered by: Gary Watson (packetboatlane@yahoo.co.uk)
+
+DO NOT SELL, OR DISTRIBUTE IN LOSSY FORMATS!

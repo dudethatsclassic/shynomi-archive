@@ -1,0 +1,62 @@
+Primus
+Friday December 29th, 2017
+The Wiltern Theatre
+3790 Wilshire Blvd
+Los Angeles, CA, USA
+
+Taper:  LeifH
+Source:  CA-11 (cardioid) > Bat2B > Sony PCM M10 @ 24/48 > microSD card
+Transfer:  Memory card > PC via USB > Wavepad Masters Edition (edits, amplify, tracking, 16/44.1) > flac (8) via Frontend
+
+Setlist:  2:00:21
+00 intro
+01 Those Damned Blue Collar Tweekers
+02 Too Many Puppies > 
+03 Sgt. Baker > 
+04 Too Many Puppies
+05 Last Salmon Man
+06 Frizzle Fry
+07 Candy Man
+08 Mr. Krinkle
+09 The Valley
+10 The Seven
+11 The Trek
+12 The Scheme
+13 The Dream
+14 The Storm
+15 The Ends
+16 Nature Boy
+17 Welcome to This World > 
+18 Mrs. Blaileen
+19 Jerry Was a Race Car Driver
+
+20 Southbound Pachyderm > 
+21 Holiday in Cambodia [Dead Kennedys]
+
+My 31st Primus show.  The first of two nights at the Wiltern Theatre.  I was close to dead centre, at the front of the second section on the floor.  There was an opening band added at the last minute, Fade Up Fade Out Bye Bye.  
+
+Les played a few bars of Kashmir before starting Mr. Krinkle.  The crowd got pretty rowdy in the latter half of the show, and when people started bumping into me, a switch was moved on the recorder causing two small drop outs.  One during The Storm at 6:45, and again at 2:00 during Welcome To This World.  
+
+fingerprints:
+00 - intro.flac:8442d7f562ec2b0d81e8c5fb01f1c599
+01 - Those Damned Blue Collar Tweekers.flac:830cc15e3a02da34dea8efea9a970679
+02 - Too Many Puppies.flac:93829621feed7f5645b52b1dff55b406
+03 - Sgt Baker.flac:0695db90023aac18f8c2b6029f14ed78
+04 - Too Many Puppies.flac:4c7c2170f0c3d03e24076961570692a4
+05 - Last Salmon Man.flac:52e36eafb2734e53f206c290036720ec
+06 - Frizzle Fry.flac:ea62fa5b2afc4da967ee292845bab310
+07 - Candy Man.flac:fb3672bc8dfd025f0165d5e5c0068632
+08 - Mr Krinkle.flac:7e0bea60fd9547d0b0f1734bfcc411a4
+09 - The Valley.flac:a1f6e7f216bb15b41f490c03120a65b7
+10 - The Seven.flac:13026e27d8844b2bf2a6f3eb488cf3fc
+11 - The Trek.flac:cbc31116d0685111cbf7e44ca0a57578
+12 - The Scheme.flac:3b5dd3cae71d782bcb87a2bb95d2d486
+13 - The Dream.flac:3d5c5ea681d6c7238b4af588580220da
+14 - The Storm.flac:6d70628e9460e132155c47b27dd506c4
+15 - The Ends.flac:3d765c103d90ab4d2ab3bb2dd7dcee6a
+16 - Nature Boy.flac:ee414bce9c3cfcdca9a4587b428b46a9
+17 - Welcome to This World.flac:98d3da6e2f18612bfdf254d1111ef9e5
+18 - Mrs Blaileen.flac:b7e5951623a8dfee9998f704c09654b6
+19 - Jerry Was A Race Car Driver.flac:6e8daf7201d64bbc131514bb424cb109
+20 - Southbound Pachyderm.flac:22a7cbd03de998771a5de3b1005e3eef
+21 - Holiday In Cambodia.flac:2bb7357ec8f9d4a6398221545efac4c7

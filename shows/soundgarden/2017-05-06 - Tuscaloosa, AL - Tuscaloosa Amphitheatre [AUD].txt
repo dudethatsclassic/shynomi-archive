@@ -1,0 +1,137 @@
+Soundgarden
+Tuscaloosa Amphitheatre
+Tuscaloosa, AL
+May 6, 2017
+
+** 16 BIT **
+
+Source:  Sonic Studios DSM-6P w/3-way lo-cut filter (@ 80hz, middle setting) > Tascam DR-2d @ 16 bit/44.1 kHz
+Mastering Part 1:  .WAV > Denon 790R > Kenwood A-522 amplifier > Kenwood GE-622 Equalizer (see notes for EQ adjustments) > .WAV @ 16 bit/44.1
+                   kHz
+Mastering Part 2:  EQ'd .WAV > Sound Forge Pro 11.0 (Build 299) [iZotope Mastering Suite (declick); minor edits, normalize, & fades] > CDWav                       tracking) > Trader's Little Helper (level 5) > FLAC > TagScanner 6.0.18 (tagging) 
+Location:  SEC 205 row Z seat 39, and I moved 8-10 seats closer to center after "My Wave" 
+Recorded by:  Steve "ballsdeep" Hagar
+Mastered by:  Steve Hagar (Part 1) and Dennis Orr (Part 2)
+
+Setlist:
+01 Incessant Mace
+02 Hunted Down
+03 All Your Lies
+04 Searching With My Good Eye Closed >
+05 Spoonman
+06 Outshined
+07 Black Hole Sun
+08 Chat
+09 My Wave >
+10 The Day I Tried To Live
+11 Been Away Too Long
+12 A Thousand Days Before
+13 Burden In My Hand
+14 Rusty Cage
+15 Chat
+16 Drawing Flies
+17 Fell On Black Days
+18 Jesus Christ Pose
+19 Encore Break
+- Encore -
+20 Blow Up The Outside World >
+21 Slaves & Bulldozers
+
+Chris Cornell – lead vocals & rhythm guitar
+Kim Thayil – lead guitar
+Ben Shepherd – bass & backing vocals
+Matt Cameron – drums & backing vocals
+
+
+~~~RIP Chris Cornell: we don't mourn you because we knew you, we mourn you because you helped us know ourselves~~~
+
+
+Show Notes:
+Soundgarden, in beautiful Tuscaloosa AL. Outdoors. Probably 5500 tix sold out of over 8000. I deliberately bought poor seats in hopes of emptiness nearby, and for the most part was handsomely rewarded.  After a nearly 2 hour long headline set in Atlanta, I was pretty disappointed in the "98 minutes and out" offering in Alabama...not based on 'performance', no, but when it's your own party, why so short? (Or maybe now I know why...)
+
+Rarely do I detail the 'mastering process', as there's those who like to poke fun at my little ghetto Kenwood bookshelf stereo I've had for nearly 30 years now. it actually has DAT and Laserdisc inputs. And a little 13 band EQ. And I've gotten pretty good at using that EQ to milk great sound out of sometimes average tapes. I believe this to be one of those times.
+
+Simply put, I mix 'em up with a full range, sounding as good as possible, first visually (on the EQ analyzer), then aurally (does it sound good thru the speakers?).
+
+The show was cut up and put back together in 2 parts:
+- before the drop of the deck during "My Wave"
+- the actual drop and reconnect (about 15 seconds, around the 36-37 minutes mark)
+- after the reconnect, when I moved about 8-10 seats to the right
+
+EQ #1: (thru the deck dropping)
+ 40 HZ  - 0dB 
+ 63 Hz  - -6dB
+ 98 Hz  - 0dB
+160 Hz  - +4dB
+250 Hz  - -2dB
+400 Hz  - +2dB
+625 Hz  - -2dB
+1 kHz   - 0dB 
+1.5 kHz - -10dB
+2.5 kHz - +2dB
+3.9 kHz - +6dB
+6.3 kHz - +2dB
+10 kHz  - + 8dB
+16 kHz  - +2dB
+
+EQ #2 (during and after the reconnect process)
+
+ 40 Hz  - 0dB
+ 63 Hz  - -2dB
+ 98 Hz  - 0dB
+160 Hz  - +2dB
+250 Hz  - -2dB
+400 Hz  - 0dB
+625 Hz  - -10dB
+1 kHz   - -4dB 
+1.5 kHz - 0dB
+2.5 kHz - +4dB
+3.9 kHz - 0dB
+6.3 kHz - +4dB
+10 kHz  - 0dB
+16 kHz  - +4dB
+
+I had brought in a 2nd deck with internals as backup, and while it's complete, it's *very* brickwalled, most likely due to the 2 socks pulled over the end in anticipation of wind that never came (the day was very, very windy leading up to the show, so 'over-prepared' was what happened).
+
+Other notes:
+When recording, the levels were increased at about the 50 second mark of "Incessant Mace"...first by moving the gain from "med" to "high" (sharp jump), then by moving up the levels manually. This was evened out as much as possible, then the first minute of the show was brought up to the volume of the rest.
+
+The high end was somewhat washy up there in the next-to-worst row. That said, crowd noise, especially after moving, was virtually non-existent. And I believe the EQ job brought out a lot more 'brightness' compared to the master.
+
+Chris' voice was *loud*...like "peel paint loud". That's why there's such a EQ reduction in the midrange (and I find 625 Hz to be the 'mud' frequency), to bring his vox closer to 'in line' with the music
+
+The clapper who suddenly appeared between "Spoonman" and "The Day I Tried To Live" was very annoying. So a plan was made to move a bit closer to center. After the couple to my immediate right, there was a row of 25+ seats that had been empty for 30+ minutes.  Click-removal mitigated the bulk of those claps during mastering.
+
+The deck dropped to the concrete floor at the 36-37 minute mark (it slid out of my hoodie pocket, yet kept recording!!!). After that happened, I did my move, and re-set the EQ
+
+Dennis did all the "post-production sweetening".
+
+Speaking of Dennis, he's the Black Hole Sun in all of this. Without him, you don't get to hear this stuff. So alms, praise, and boxes of Omaha Steaks are in order for him. On *your* dime ;)
+
+A simple upraised middle finger directed towards me will suffice on this end.
+
+More to come. There's ALWAYS more to come.
+
+---ballsdeep OUT!!!
+
+Soundgarden2017-05-06t01.flac:dfa26c9df26b44c81d000ca6c26337e1
+Soundgarden2017-05-06t02.flac:83719204087f2df1c03b577ba5619c19
+Soundgarden2017-05-06t03.flac:60c6c6be7e28cf524e7cb23e7268eaad
+Soundgarden2017-05-06t04.flac:cd00a5e19913a97fa0bb93f0545c1a51
+Soundgarden2017-05-06t05.flac:62bf2814855d2e7e80b5bea6eeeb5696
+Soundgarden2017-05-06t06.flac:c8d3e53cfca0c46935f645a47f298150
+Soundgarden2017-05-06t07.flac:17062e1f7343dea4bd440a0a95c90d0c
+Soundgarden2017-05-06t08.flac:9ae96dd50490ba4cf1926f74f752935c
+Soundgarden2017-05-06t09.flac:36433ff1760e7773e31ab7aea1b682a0
+Soundgarden2017-05-06t10.flac:ce90a522b167b83beb57379ed586b46c
+Soundgarden2017-05-06t11.flac:bd0391d1639f9130a9469ed6d4a2fa6b
+Soundgarden2017-05-06t12.flac:3b27f7045ff8d3ea1bf9b567ba7ad9dd
+Soundgarden2017-05-06t13.flac:b8c4b398718d20de40831013ea0b72d4
+Soundgarden2017-05-06t14.flac:bc57619257410382a9a7fb0ba2a7ad02
+Soundgarden2017-05-06t15.flac:55860c6974d4be6c160ef7ff9a7a6201
+Soundgarden2017-05-06t16.flac:4cca0bd424e135d20d97b813fcf952d7
+Soundgarden2017-05-06t17.flac:d4ecac360110e436293ae4987b2babae
+Soundgarden2017-05-06t18.flac:d871ce864a45a34d71043ca7f1d7eb33
+Soundgarden2017-05-06t19.flac:bc0980406ea6c06f281ec8ef4e70102a
+Soundgarden2017-05-06t20.flac:4a67004c22c56f1b80aa438d23d785d3
+Soundgarden2017-05-06t21.flac:4024ee1f0df03a42b42d60572ccdc716

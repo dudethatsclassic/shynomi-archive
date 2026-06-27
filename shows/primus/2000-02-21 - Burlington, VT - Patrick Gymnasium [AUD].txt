@@ -1,0 +1,81 @@
+Primus
+
+
+Patrick Gymnasium
+University of Vermont
+Burlington, Vermont
+February 21, 2000
+
+
+Source:  Sony Stereo Mic > Unknown Mini-Disc > ??? > DAT(c)
+Transfer:  DAT(c) > Sony PCM-R500 > SPDIF > Tascam HD-P2 > CDWave > FLAC
+DAT(c) provided by Dave Flashner and Jason Sobel
+Transfer by Terry Watts
+
+
+Disc 1
+Set I:
+1. Frizzle Fry
+2. In the Flesh >
+3. Antipop
+4. Sgt. Baker
+5. Greet the Sacred Cow
+6. Those Damned Blue-Collared Tweekers >
+7. Communication Breakdown > *
+8. The Toys Go Winding Down > Those Damned Blue-Collared Tweekers
+9. Jerry Was a Racecar Driver
+10. My Name is Mud
+11. Final Voyage of the Liquid Sky
+12. Lacquer Head
+13. Heart of the Sunrise > Crazy Train > Harold of the Rocks >
+14. Tommy the Cat > The Awakening > Tommy the Cat
+15. e: Pork Soda > Electric Uncle Sam,,
+e: Too Many Puppies > Hello Skinny > Too Many Puppies (missing)
+
+
+Notes:
+
+* w/ Trey "Eddie Van Halen" Anastasio, guitar and Stewart "John Henry Bonham" Copeland, drums.
+
+Drop-outs at ~ 0:30 of d1t02 and ~ 4:28-4:29 of d1t10.  There is only ~ 0:43 of the encore
+before the DAT cuts.  I did not attempt to repair, nor was I wable to patch the missing sections.
+Sorry...
+
+Terry Watts
+
+
+FLAC FFP:
+primus2000-02-21d1t01.flac:595ed9e88381957604dadd8dcd045670
+primus2000-02-21d1t02.flac:9babbc5a6b7f63374e81c803ad1a2317
+primus2000-02-21d1t03.flac:1e0b4ba49aa96e10f57a56eceafc67ed
+primus2000-02-21d1t04.flac:d9777040aa86b34fa761aaa5fc761090
+primus2000-02-21d1t05.flac:0e700b0e7e1b07a9abc4681628c598e6
+primus2000-02-21d1t06.flac:937ccacaa988c150935fafa7833187da
+primus2000-02-21d1t07.flac:12f9fd5758c7b05ee0d4ae1e5f9b8788
+primus2000-02-21d1t08.flac:1de5a11c142751b2c867ae5bd287c64e
+primus2000-02-21d1t09.flac:b7c78256b42465dd7f59f4353071ee3e
+primus2000-02-21d1t10.flac:911e0bd36581031f3babaa5bd1488817
+primus2000-02-21d1t11.flac:16e106dc2ea095aac4405733dd181863
+primus2000-02-21d1t12.flac:35c3afac61b1c4c0483a0f43425a3cd1
+primus2000-02-21d1t13.flac:53f49d48d157b99753f93b6f2b63ba91
+primus2000-02-21d1t14.flac:4c297b9f6589abd8402efb97be7ef2a2
+primus2000-02-21d1t15.flac:a8956b453871723e29633535ac931be2
+
+
+WAV MD5:
+7c9b365b7c613ee1f536ab99054eb640 *primus2000-02-21d1t01.wav
+509e8c64426dcb3c729abd97f9edadaf *primus2000-02-21d1t02.wav
+3d83e1db4902a5f58754c963e482a25f *primus2000-02-21d1t03.wav
+1c9c908fc284e6f5be1c597af98f07c9 *primus2000-02-21d1t04.wav
+5d1a105d18292af909bc854585e90442 *primus2000-02-21d1t05.wav
+faf4a6e6452c9ec6eb72f2febbe4c53c *primus2000-02-21d1t06.wav
+cf5b6c686b8396f21491ecb1f8d0b86e *primus2000-02-21d1t07.wav
+c3611189249c1a793ee1336e2aea80f1 *primus2000-02-21d1t08.wav
+eed4b1049da419d0814b927752776dd4 *primus2000-02-21d1t09.wav
+bc42cb67665406133f5a413568c9bfca *primus2000-02-21d1t10.wav
+0e197b3367a4cddbf6fdcf79b577305c *primus2000-02-21d1t11.wav
+5c02d74d2ccbfe1070332aedb6d718e1 *primus2000-02-21d1t12.wav
+97e5e48957561f6f95790868cef5d6fe *primus2000-02-21d1t13.wav
+cc9cccf8b8d05034fdbf7b8b2d2212b5 *primus2000-02-21d1t14.wav
+0f00a94a51e113a41702200d87a08efd *primus2000-02-21d1t15.wav
+

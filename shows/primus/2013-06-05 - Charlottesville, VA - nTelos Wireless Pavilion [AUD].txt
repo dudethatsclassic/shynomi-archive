@@ -1,0 +1,79 @@
+Primus
+nTelos Wireless Pavilion
+Charlottesville, VA
+June 5, 2013
+
+Source: DPA 4061 (10ft in front of board, center) > Sony PCM-M10 > wav@24bit/48kHz
+Lineage: wav@24bit/48kHz > Audacity (EQ,low freq rollof) > wav@16bit/44.1kHz > TLH > FLAC 6
+
+Venue sound was outstanding! 3D was very cool! Great show!
+
+Note: Battery issues with preamp lead to using mics direct into M10. With the lower
+power they overloaded a little particularly at lower frequencies. I performed
+a high pass filter at 80hz in Audacity and it reduced the distorted frequencies
+but maintained decent low end.
+
+At the end of the show Les offers us "a choice between two mammals for encore: 
+puppies and beaver". As the crowd begins to voice their preference, somebody throws
+a shoe and hits him. He says we won't get anything and leaves the stage. Damn.
+
+Tracklist:
+
+01 Intro
+02 Those Damned Blue Collar Tweekers
+03 Duchess And The Proverbial Mind Spread
+04 Moron TV
+05 American Life
+06 Over the Falls
+07 Lee Van Cleef*
+08 Eleven
+09 Eternal Consumption Engine
+10 Jilly's On Smack
+11 John the Fisherman
+12 Southbound Pachyderm
+13 My Name Is Mud
+14 C-Ville Jam (Make You Happy)
+15 Groundhog's Day
+16 encore that was not to be
+
+* with Warren Haynes
+
+Total: 103:50
+
+MD5
+
+d7d5895206d711dc0e862c7ec66cc5a1 *primus2013-06-05t01.flac
+20a893cc003fa33c2a656fd07d2fbd24 *primus2013-06-05t02.flac
+52569472b604f6a9e547efa26fe49c3e *primus2013-06-05t03.flac
+210557af4ab6ee8f17ab2cb23e854f0a *primus2013-06-05t04.flac
+04e13130c2c6b2aab210fb5ecda3b002 *primus2013-06-05t05.flac
+a8837484d4b16d7558267b7e4ffb782b *primus2013-06-05t06.flac
+420ca4a4e59a90e09b7948347e5ebb8a *primus2013-06-05t07.flac
+7b11db687a9aa2780433d14599a2b3ad *primus2013-06-05t08.flac
+33e8c6db941a373bb3c0dff47cd82869 *primus2013-06-05t09.flac
+6431bc10beed97fa370e365d68457663 *primus2013-06-05t10.flac
+0add860e227d7c6a933616be0d902327 *primus2013-06-05t11.flac
+bbcfcbf44f975f0a48867dfbbf0cd33a *primus2013-06-05t12.flac
+608977febcbf4e5dd10fde7ca38f2623 *primus2013-06-05t13.flac
+67b209a197577a3c44f239bca4477fbe *primus2013-06-05t14.flac
+9fa83ccf17b32e87daef16e0c2802d3d *primus2013-06-05t15.flac
+c34f6291268d8d0d272df96ab4db8067 *primus2013-06-05t16.flac
+
+FFP
+
+primus2013-06-05t01.flac:8ee0e8e813674b74b252d4a427a08176
+primus2013-06-05t02.flac:30b2d31cf5ef4fd6b7332960b39f7243
+primus2013-06-05t03.flac:9c43b31ae3c7c875311a4f7c300de098
+primus2013-06-05t04.flac:d81f8ce3408401321a136551bae450e8
+primus2013-06-05t05.flac:6881b5a0ad053cf15927d49c1f208109
+primus2013-06-05t06.flac:2d54d51f5213bfe3cef940e068259b8f
+primus2013-06-05t07.flac:714ae14ca7feee2a480d3ff21175a73a
+primus2013-06-05t08.flac:0425bd80957752c6ce5aea8270458cbc
+primus2013-06-05t09.flac:0170c5b3e58ab18028a54071dcd36766
+primus2013-06-05t10.flac:7f63e29174b0737056b06effd6f41f0b
+primus2013-06-05t11.flac:67855bcb232f5b96855541b7601d7e9f
+primus2013-06-05t12.flac:d68da406f3e1f4ec39afccc18862f344
+primus2013-06-05t13.flac:11a31ca561ec0caa2f10d5117b86ca6a
+primus2013-06-05t14.flac:0d959d01057b3088ab32abaa7c965f36
+primus2013-06-05t15.flac:ed25f56e58b8a82bc48fcad1f001d071
+primus2013-06-05t16.flac:7576695eabea631c6ad0fbdb44c821c9

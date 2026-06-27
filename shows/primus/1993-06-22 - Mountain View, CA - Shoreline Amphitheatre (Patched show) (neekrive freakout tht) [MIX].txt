@@ -1,0 +1,58 @@
+Primus @ Lollapalooza
+June 22nd, 1993 (Tuesday)
+Shoreline Amphitheatre
+Mountain View, California
+
+Nearly Complete Patched Show
+
+neekrive master tape > portable cassette recorder with auto-gain > .aiff [*]
+
+Freak Out Bootleg CD (DAT sourced) > .wav
+
+both sources > iZotope RX > TLH > FLAC 8
+
+Setlist:  01:03:34
+01 show starts [*]
+02 Here Come the Bastards [*]
+03 Nature Boy
+04 Bob
+05 Jerry Was a Race Car Driver
+06 Fish On (Fisherman's Chronicles, Part 2)
+07 My Name is Mud
+08 Those Damned Blue-Collar Tweekers
+09 Seas of Cheese
+10 Pork Soda
+11 Mr. Krinkle
+12 Hamburger Train
+13 Eleven > 
+14 Harold of the Rocks [#][*] > 
+15 Thieves [Ministry] >
+16 Harold of the Rocks [*]
+-encore-
+17 DMV [cut][*]
+
+Les Claypool - vocals, bass
+Larry "Ler" LaLonde - guitar
+Tim "Herb" Alexander - drums
+Jerry Cantrell - guitar [#]
+
+The bootleg DAT source is superior sounding, however it was missing parts of the show, so I used the cassette source as a patch, which is more complete, albeit missing most of DMV.  Many harsh handling noises were scrubbed from the cassette source; both sources had some crowd reduction, phase adjustments and other clean-up applied.  
+
+fingerprints:
+Primus1993-06-22rm01 - show starts.flac:bdf2fc9fec0a2ad87785c764256cbfb8
+Primus1993-06-22rm02 - Here Come the Bastards.flac:702d7f31d7aa4d600f32e8fe411f2456
+Primus1993-06-22rm03 - Nature Boy.flac:b6a9a6602195858706dfd75d96167c01
+Primus1993-06-22rm04 - Bob.flac:12a97627ee1296d5513aca574c7a5f49
+Primus1993-06-22rm05 - Jerry.flac:f2e7431116de00dbb45d2202daa265d1
+Primus1993-06-22rm06 - Fish On.flac:dc408de36ee45efeee5b3e6fda705e44
+Primus1993-06-22rm07 - My Name is Mud.flac:a4e21946fd4dac5eb2daec0fdb11fdf9
+Primus1993-06-22rm08 - Tweekers.flac:b8a655782df6d871740705b428b1cb0a
+Primus1993-06-22rm09 - Seas of Cheese.flac:db472b108f5e139e64a25d5a80038ffe
+Primus1993-06-22rm10 - Pork Soda.flac:56e0549f0dd73847d743e62fc45161ec
+Primus1993-06-22rm11 - Mr Krinkle.flac:e7b544cb141d62135823d03917e4fb0f
+Primus1993-06-22rm12 - Hamburger Train.flac:2a2062e4e617330e1776143d25e32dd7
+Primus1993-06-22rm13 - Eleven.flac:eebff4712c3bf7bd26d1d0f5b163d20d
+Primus1993-06-22rm14 - Harold.flac:704d6428ad29d3ee8da8f12765f401b9
+Primus1993-06-22rm15 - Thieves.flac:71a363139ce5baebdd675c18a43bbf2b
+Primus1993-06-22rm16 - Harold.flac:7ed5488508c98fac7f7799b204ff1700
+Primus1993-06-22rm17 - DMV.flac:aea052ef4ae46183d1028c7ba02cf678

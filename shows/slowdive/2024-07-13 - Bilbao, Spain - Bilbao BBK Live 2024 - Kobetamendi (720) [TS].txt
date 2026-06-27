@@ -1,0 +1,39 @@
+Slowdive
+Bilbao BBK Live 2024
+San Miguel Stage
+Kobetamendi 
+Bilbao, Spain
+July 13th, 2024
+
+
+Lineage: Live webcast -> streamlink -> ffmpeg (edit) ->.ts
+Video: MPEG4 Video (H264) 1280x720 16:9 2370 Kbps 25.00 fps
+Audio: AAC 192 Kbps 48.0 KHz stereo
+
+
+Setlist:
+shanty
+Star Roving
+Catch the Breeze
+Avalyn
+Crazy for You
+Souvlaki Space Station
+chained to a cloud
+kisses
+Sugar for the Pill
+Slomo
+Alison
+When the Sun Hits
+
+
+trt = 70:47
+
+
+Input #0, mpegts, from 'Slowdive - 2024-07-13 Bilbao BBK Live 2024, Kobetamendi, Bilbao, Spain [720p].ts':
+  Duration: 01:10:47.04, start: 1.402667, bitrate: 2562 kb/s
+  Program 1
+    Metadata:
+      service_name    : Service01
+      service_provider: FFmpeg
+  Stream #0:0[0x100]: Video: h264 (High) ([27][0][0][0] / 0x001B), yuv420p(progressive), 1280x720 [SAR 1:1 DAR 16:9], 25 fps, 25 tbr, 90k tbn
+  Stream #0:1[0x101]: Audio: aac (LC) ([15][0][0][0] / 0x000F), 48000 Hz, stereo, fltp, 192 kb/s

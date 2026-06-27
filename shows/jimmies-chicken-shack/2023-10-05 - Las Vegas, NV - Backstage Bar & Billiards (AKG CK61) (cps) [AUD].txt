@@ -1,0 +1,24 @@
+JIMMIE'S CHICKEN SHACK
+October 5, 2023
+Backstage Bar & Billiards
+Las Vegas, NV
+
+Source: AKG CK61 > NBob PFA > Sound Devices 744T
+Taper: CPS
+Location: mics on nine foot stand inside SBD cage, dead center
+Lineage: WAV(M) [24/44.1] > WAV [16/44.1] > FLAC
+Edits/EQ: Ozone 8 (HPF @ 63Hz, shelf @ 130Hz -2.7dB Q2.2), +7.8dB
+Notes: opening for Ballyhoo
+
+01 - intro
+02 - Dead Sleep
+03 - Seconds Slip
+04 - Another Day
+05 - Simple Concept
+06 - Mutha Luvas
+07 - Do Right
+08 - High
+09 - Milk
+
+
+Compiled October 2023 by CPS

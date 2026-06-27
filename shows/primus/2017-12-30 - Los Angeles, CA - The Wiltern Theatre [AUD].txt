@@ -1,0 +1,52 @@
+Primus
+Saturday December 30th, 2017
+The Wiltern Theatre
+3790 Wilshire Blvd
+Los Angeles, CA, USA
+
+Taper:  LeifH
+Source:  CA-11 (cardioid) > Bat2B > Sony PCM M10 @ 24/48 > microSD card
+Transfer:  Memory card > PC via USB > Wavepad Masters Edition (edits, amplify, tracking, 16/44.1) > flac (8) via Frontend
+
+Setlist:  1:55:19
+00 intro
+01 Here Come the Bastards
+02 Moron TV
+03 Groundhog's Day
+04 Candy Man
+05 The Valley
+06 The Seven
+07 The Trek
+08 The Scheme
+09 The Dream
+10 The Storm
+11 The Ends?
+12 Over the Electric Grapevine
+13 My Name is Mud
+14 Harold of the Rocks
+
+15 Holiday in Cambodia [Dead Kennedys]
+16 Wynona's Big Brown Beaver
+
+My 32nd Primus show.  The second of two nights at the Wiltern.  I was slightly right of centre, at the front of the second section on the floor.  The same band (FUFOBB) opened up the show and got booed again.  I did not record them this night.  
+
+Les teased Ace Of Spades by Motorhead before starting Here Come The Bastards, and Passage To Bangkok before Harold Of The Rocks.
+
+fingerprints:
+00 - intro.flac:eb84e3a17936b791a7bfdf9ad441f934
+01 - Here Come The Bastards.flac:9f3fa8c2442ba2cf8cf0e3a763827ffc
+02 - Moron TV.flac:3c30f68770ead114ab7b9e76182d9cb1
+03 - Groundhog's Day.flac:e8e7a5d9c3aa598ceeba8ac202421431
+04 - Candy Man.flac:27ee15b65887b7782b55be11a483038e
+05 - The Valley.flac:b92fab84efe835eabe7c660b43f5ec09
+06 - The Seven.flac:a1643b6141505245b994f5113565a367
+07 - The Trek.flac:1bf207c662f69b02f93b5fc15ecb1513
+08 - The Scheme.flac:e6028005679419ce078c30e14493d71c
+09 - The Dream.flac:e742f22e4ab847711bfa82a77efffd55
+10 - The Storm.flac:857436efcea4d0dda45f5541eaae598f
+11 - The Ends.flac:16016ef8a6eed20ef0c1c5136ead4c29
+12 - Over The Electric Grapevine.flac:bc325d30965171477c558245a064099d
+13 - My Name Is Mud.flac:be9183df9899fed5a268cd944fcc4cfa
+14 - Harold Of The Rocks.flac:8a941bdb2ded1d36bfb4c30feb59a5fd
+15 - Holiday In Cambodia.flac:f8b2188bdcc01f4f77f53ced97a9cd87
+16 - Wynona's Big Brown Beaver.flac:025f014d6de8efa07322e8bdffccc29d

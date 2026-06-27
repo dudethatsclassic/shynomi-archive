@@ -1,0 +1,31 @@
+
+Pluralone
+The Forum: Los Angeles, CA
+May 7, 2022
+
+Source: CA-11s > Sony PCM-A10
+Location: Stone side
+Transfer: A10 > USB > Audacity > CDWave > xACT 2.50
+Edits/EQ: +7dB
+Taper: tapeworm(48)
+
+01 Intro
+02 Wildflowers [Tom Petty] (EV solo)
+03 -Josh intro-
+04 Known Unknown
+05 Belfast [Neon Neon]
+06 Buttercup [Brad] (w/ Stone Gossard)
+07 Claw Your Way Out (w/ Clint Walsh)
+08 A War Within (w/ Clint Walsh)
+09 Can't Put the Bullet Back in the Gun (w/ Clint Walsh)
+10 Offend (w/ Clint Walsh)
+11 My Hometowm [Bruce Springsteen]
+
+Notes: Opening for Pearl Jam. A10 set at 10. Raw transfer with no fades or EQ.
+
+Archive: Master WAV was archived @ 24-bit/44.1kHz and FLAC'd with cue sheet.
+
+Taped and transferred by tapeworm(48)
+Txt file compiled on 5/21/2022
+
+*** DO NOT REMASTER WITHOUT PERMISSION. DO NOT DISTRIBUTE IN LOSSY FORMATS. DO NOT SELL THIS RECORDING, TRADE IT FREELY ***

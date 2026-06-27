@@ -1,0 +1,61 @@
+SPONGE
+April 6, 2025
+Goldfield Trading Post (Midtown)
+Sacramento, CA, US
+
+SETLIST:
+-------------------
+00. intro tape
+01. Jump While the House Is On Fire
+02. Wax Ecstatic (To Sell Angelina)
+03. Rotting Piñata
+04. Molly (16 Candles Down the Drain)
+05. Glue
+06. Got to Be a Bore
+07. Have You Seen Mary [w/ slide guitar/talkbox duel interlude]
+08. Pennywheels
+09. Neenah Menasha
+10. Sick of It All
+11. Rainin'
+12. Plowed
+
+
+SOURCE:
+-------------------
+AUD #1 - Quality: 9.0
+Sound Professionals SP-CMC-4U > Sony PCM-A10
+
+Recorded by: vibrioidxire
+
+TRANSFER:
+-------------------
+Sound Professionals SP-CMC-4U (AT-U853's, with SP UE-H-PAIR hypercardioid caps mod) > Sound Professionals SP-SPSB-10 Power Module > Sony PCM-A10 High-Resolution Digital Audio Recorder > WAV [48kHz/24-bit] > USB connector > Insignia NS-PA3C3A USB-C to USB adapter > Apple MacBook Pro (16-inch, 2021) > Adobe Audition 23.2 [post-production/mastering] > xACT 2.57 > FLAC [Level 8]
+
+GENERATION:
+-------------------
+WAV(M) [48kHz/24-bit] > FLAC [Level 8]
+
+NOTES:
+-------------------
+- Any worthy notes, or even mastering notes.
+
+
+FLAC FINGERPRINTS:
+-------------------
+sponge2025-04-06_AUD1_t00.flac:08d7380ab2c65217937b66ba03c737c5
+sponge2025-04-06_AUD1_t01.flac:4373bc372ec43a77ab8efe1a8a23d51a
+sponge2025-04-06_AUD1_t02.flac:d970a82ca8b95132a589deb7e0336fe3
+sponge2025-04-06_AUD1_t03.flac:2d99aab3372fecd610a3599093a22a49
+sponge2025-04-06_AUD1_t04.flac:e1f9e4f6189915421626731a8a67d3c6
+sponge2025-04-06_AUD1_t05.flac:8fd25805e7ea6363dfeec635d74c69c4
+sponge2025-04-06_AUD1_t06.flac:879fa0223c2e6dbbb26c191e2ff99614
+sponge2025-04-06_AUD1_t07.flac:6ce9cb42623c21bc4ec97ab028c1f6f6
+sponge2025-04-06_AUD1_t08.flac:3ee3e5e760c241f887d554599f5df38d
+sponge2025-04-06_AUD1_t09.flac:edbb4407561b7746104fa2caced4318c
+sponge2025-04-06_AUD1_t10.flac:c5136db55227b913a03f232bef744523
+sponge2025-04-06_AUD1_t11.flac:6a274262c9c4eb2ecdb05afb598184cf
+sponge2025-04-06_AUD1_t12.flac:b3ecd956a4b66c8a53df674c76572da1
+
+
+Transferred and encoded by: vibrioidxire
+PLEASE DO NOT DISTRIBUTE IN LOSSY FORMATS OR SELL!

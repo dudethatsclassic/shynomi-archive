@@ -1,0 +1,89 @@
+Chris Cornell
+Red Robinson Show Theatre
+Boulevard Casino
+Coquitlam, BC
+April 30, 2011
+
+** 24 BIT **
+
+Source:  Church-Audio STC-11 stereo cardioid mics (in collar) > Church-Audio STC-9000 pre-amp > Edirol R-09 > .WAV @ 24 bit/48 kHz
+Transfer:  .WAV > Audacity 1.2.6 (minor crowd edits) > Sound Forge Pro 10.0a (normalize) > CDWav (tracking) > Trader's Little Helper (level 5) > FLAC > TagScanner 6.1.17 (tagging)
+Location:  17th Row, LC, 10 seats left of DFC
+Recorded & mastered by:  Dennis Orr (project #213)
+
+Setlist: (2:12:01)
+01 Intro
+02 Redemption Song
+03 Be Yourself
+04 Chat
+05 Ground Zero
+06 Can't Change Me
+07 Two Drink Minimum
+08 Call Me A Dog
+09 Sunshower
+10 Fell On Black Days
+11 Burden In My Hand
+12 Chat & Tuning
+13 I Am The Highway
+14 State Trooper
+15 Chat
+16 When I'm Down (1)
+17 Chat
+18 Seasons
+19 Thank You
+20 All Night Thing
+21 Man Of Golden Words >
+22 Comfortably Numb
+23 Say Hello 2 Heaven
+24 Blow Up The Outside World
+25 Billie Jean
+26 Preaching The End Of The World
+27 Like A Stone >
+28 Doesn't Remind Me
+29 Wide Awake
+30 Encore Break
+- Encore -
+31 Black Hole Sun
+32 Hunger Strike
+33 Better Man
+34 Imagine
+
+(1) Backed by a piano track on a vinyl record
+
+Chris Cornell - vocals, acoustic & electric guitars
+
+Chris Cornell 2011-04-30 t01.flac:40ea9a89fd6f477a749ec43637f2dd5d
+Chris Cornell 2011-04-30 t02.flac:13198f1ff386c5ccb713690fcb68e6a6
+Chris Cornell 2011-04-30 t03.flac:00a22a43ca3c8f9343f051e62befde74
+Chris Cornell 2011-04-30 t04.flac:80da5dcba8d21c7a5adc18a790425c59
+Chris Cornell 2011-04-30 t05.flac:3bfc6bf084c98d9f0e9692a33895ce70
+Chris Cornell 2011-04-30 t06.flac:eccd18b3a8e780730777f361adc903ee
+Chris Cornell 2011-04-30 t07.flac:a03b1d040639db08004c008ad9bc75cd
+Chris Cornell 2011-04-30 t08.flac:a649fa3164aff95de7283fecf6c6e703
+Chris Cornell 2011-04-30 t09.flac:8534a07b52a3226d6791bcff54c60d08
+Chris Cornell 2011-04-30 t10.flac:87f437ee7b1c9a0f8a4c9dcb220e1135
+Chris Cornell 2011-04-30 t11.flac:ac87878fd1e0f7c18cd992ee1a4ca84a
+Chris Cornell 2011-04-30 t12.flac:5421f3989981f9f2804ab5c0e108825b
+Chris Cornell 2011-04-30 t13.flac:b89d571025fd82900f6b7a4b9d1251c9
+Chris Cornell 2011-04-30 t14.flac:7d0c68eeef819618bb6f1f1f72c962b7
+Chris Cornell 2011-04-30 t15.flac:e5518a9f33c9c6eae9dcd934653222a9
+Chris Cornell 2011-04-30 t16.flac:af78ee1d413286e7c17a98f73eb5ea39
+Chris Cornell 2011-04-30 t17.flac:05cd9003f5f0d74494bef88dd69de27e
+Chris Cornell 2011-04-30 t18.flac:e1082fe99903ee644c22b031575430df
+Chris Cornell 2011-04-30 t19.flac:701b17714e40546be886617c863d6bb7
+Chris Cornell 2011-04-30 t20.flac:32d563a300f5605001d0ad19f94c3be4
+Chris Cornell 2011-04-30 t21.flac:2edc9329e934e9c92befee1c1f7c6c73
+Chris Cornell 2011-04-30 t22.flac:3a089fc23ce99adcbbb8eb66a94074ee
+Chris Cornell 2011-04-30 t23.flac:50f9ae3bcc606727be7ffd4f067a30fd
+Chris Cornell 2011-04-30 t24.flac:9a86c923f9a54b1be63a71adcebd6928
+Chris Cornell 2011-04-30 t25.flac:58bd8331fb48b4e00c7b4579ee50113f
+Chris Cornell 2011-04-30 t26.flac:e75c95cd5064a26c61743e36426f60f8
+Chris Cornell 2011-04-30 t27.flac:3eec9ee1f2e348309d9a08ebf1f7685f
+Chris Cornell 2011-04-30 t28.flac:7ce51ab87f1ddd8404bd7c417e7f055a
+Chris Cornell 2011-04-30 t29.flac:ac416c975bbc1c2c95fd8bcb96fea645
+Chris Cornell 2011-04-30 t30.flac:d64cc96d42f72e8ee1754ed94e123e4d
+Chris Cornell 2011-04-30 t31.flac:d47020e6f919af5399b46d73ad72b65a
+Chris Cornell 2011-04-30 t32.flac:d6975bc98c15ba4d70aa3ed44ad751a6
+Chris Cornell 2011-04-30 t33.flac:4871fbfafa080e0d49b36b6013aeae68
+Chris Cornell 2011-04-30 t34.flac:129a694879e0d4d6c3ae45b575770462
+

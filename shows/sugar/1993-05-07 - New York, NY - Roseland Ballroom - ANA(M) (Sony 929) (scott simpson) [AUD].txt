@@ -1,0 +1,43 @@
+Sugar
+
+Roseland Ballroom
+New York City NY
+USA
+
+7th May 1993
+
+AUD: Sony 929 mic > Sony WM-D6 > analog master (Maxell MX-s 100)
+Transfer: analog master > BBE > hard drive > Audacity (volume adjustments) > WAV
+Recording and transfer: Scott Simpson
+
+Received as untracked wav from Scott Simpson, April 2026
+> CDWave (tracking) > TLH (flac, checksum)
+
+01 The Act We Act 
+02 A Good Idea 
+03 Changes 
+04 The Beer Commercial 
+05 Slick 
+06 Anyone 
+07 Where Diamonds Are Halos 
+08 Clownmaster 
+09 Frustration 
+10 The Slim 
+11 Hoover Dam
+12 If I Can't Change Your Mind
+13 After All the Roads Have Led to Nowhere
+14 Come Around 
+15 Tilted 
+16 Judas Cradle 
+17 JC Auto 
+18 Feeling Better 
+19 Walking Away
+
+Running time [86:13]
+
+11-13 - acoustic
+Cut at the start of 06. The rest of the song sounds muffled.
+Cut at the end of 17. The rest of the song sounds muffled.
+
+auto_pilot
+May 2026

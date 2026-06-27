@@ -1,0 +1,53 @@
+Silverchair
+April 26, 1997
+Metropolis, Montreal, QC
+75minutes 
+
+&
+
+Silverchair
+August 16, 1997
+Bizarre Festival, Cologne, Germany  
+45minutes
+
+LINEAGE: NTSC VHS > Stereo VCR > analog out > Canopus ADV100 
+      > DV via FIREWIRE > LOSSLESS AVI > WinDV 1.2.3 > 
+      > Canopus Procoder 2 > Crop/Trim/Colour fix > 
+      > Encode @ VBR 5000 av. 6000 max 4000 min, 
+	224kb AAC audio, 1 pass > VOB
+
+no menu/chapters.
+
+due to the low resolution/definition of VHS, the transfer at a 
+average bitrate of 5000 should not effect quality. 
+
+
+METROPOLIS TRACKLIST: (unverified)
+Slave
+Roses
+Findaway
+Abuse Me
+Pure Massacre
+Cemetery
+Suicidal Dream
+Tomorrow
+The Door
+Faultline
+No Association
+Freak
+Madman
+Minor Threat
+Israel's Son 
+
+
+
+BIZARRE FESTIVAL TRACKLIST: (unverified)
+Slave
+Pure Massacre
+Abuse Me
+Tomorrow
+The Door
+Faultline
+Freak
+Israel's Son
+Advance Australia Fair 

@@ -1,0 +1,38 @@
+Slowdive - 2017-03-29 The Garage
+London, England
+
+720p webcast (no transcoding)
+h264/aac
+
+Encore not broadcast.
+
+
+The webcast FAQ:
+
+1. There is no audio and/or video when I play this thing. What do I do?
+Change the thing you play your videos with. Use either VLC or MPC-HC, they're free and the best.
+
+2. There is no audio and/or video or it doesn't work at all when I burn webcasts to a DVD. What do I do?
+Use DVD Styler to make DVD-Video discs. It's free, easy to use and supports webcast videos.
+
+3. How do you capture webcasts?
+I use a couple of different tools, depending on how the stream works. The tools I use (which should cover all possible bases) are: ffmpeg, youtube-dl, AdobeHDS.php (+HDS Link Detector), RTMPDump (+RTMPDumpHelper), and Hola Unblocker for proxying as well as URL Snooper and HiDownload as general backup tools.
+
+4. Hey, did you capture any other sets from this festival or that festival?
+If I did, I'll upload them. If I didn't, I won't. This question is a bit redundant. There would be no point in me capturing a whole set and then not uploading it.
+
+If you have any more questions or whatnot feel free to message me. I'll add them to this thing and include them in the description of every webcast I upload.
+
+
+Avalyn
+Catch the Breeze
+Crazy for You
+Machine Gun
+Star Roving
+Souvlaki Space Station
+Blue Skied an' Clear
+When the Sun Hits
+Alison
+Sugar for the Pill
+She Calls
+Golden Hair [Syd Barrett cover]

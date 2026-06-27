@@ -1,0 +1,35 @@
+Sponge
+The Plaza Theatre
+Orlando, FL 
+October 7, 2025
+
+Lineage: 
+Panasonic MM-BSM7's >Tascam DR-05X >44.1khz, 16bit wave
+>SanDisk microSD card >Audition 1.5 >wave >TLH >FLAC(level 8). 
+
+Location: 
+Section 1, Row M, Seat 3. 
+
+Taper: 
+kevdogg 
+
+Set/Track List: 
+1. intro
+2. Wax Ecstatic (To Sell Angelina)
+3. Molly (Sixteen Candles Down The Drain)
+4. Glue
+5. Got to Be a Bore
+6. Treat Me Wrong
+7. Plowed
+
+Notes: 
+Opening for Local H and Everclear on the Sparkle & Fade 30th anniversary tour.
+All were recorded. I was quite disappointed in the shortness of their set but I sort
+of made up for it by catching a second show on the 12th in Ponte Vedra. This was
+an awesome bill and it's been a successful tour for all three bands. Good stuff.
+I was getting some mic connection static during the intro music but luckily it was
+resolved by the time they started Wax Ec~static~. In Audition I repaired the static
+bursts, gave a subtle increase in the 2-6.3khz range with the EQ and a hard limit
+to -.1db with a 9db boost. I am quite pleased with the results. Cover art is included
+in the torrent. Please share some more Sponge if you have it! Enjoy the show.
+-kevdogg

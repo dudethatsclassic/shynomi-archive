@@ -1,0 +1,34 @@
+Primus
+Broadview Stage @ Saratoga Performing Arts Center, Saratoga Springs, NY (USA)
+August 12, 2024
+
+Lineage: SP-CMC-8 mics > SP-SPSB-1-PC @ 16Hz > Edirol R05 (24/48) > Adobe Audition CC2020 (level boost) > Sony Vegas Pro minor eq > CD wav editor > TLH > flac
+
+Recorded: Smores  
+Tracked: beatkilla
+
+setlist:
+1. -intro- (Clown Dream)
+2. Holy Diver [Dio] w/Puddles Pity Party
+3. Nature Boy
+4. Golden Boy
+5. My Friend Fats
+6. Cygnus X-1 [Rush] w/Claudio Sanchez
+7. Professor Nutbutter's House Of Treats
+8. Hamburger Train
+9. Jilly's On Smack
+10. The Ol' Diamondback Sturgeon (Fisherman's Chronicles, Part 3)
+11. Jerry Was A Race Car Driver
+12. Conspiranoia
+13. Here Come The Bastards
+14. Wynona's Big Brown Beaver
+
+bill: 
+Primus
+Coheed & Cambria
+Puddles Pity Party
+
+
+
+
+

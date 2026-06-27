@@ -1,0 +1,70 @@
+Soundgarden
+Elysée Montmartre
+Paris, France
+April 8, 1994
+
+*** 2 source audience matrix by exene***
+
+Setlist: 1hr 42min
+01 intro (Night Surf)
+02 Jesus Christ Pose 
+03 Spoonman
+04 Let Me Drown
+05 Mailman
+06 The Day I Tried To Live
+07 My Wave
+08 Room A Thousand Years Wide
+09 Black Hole Sun
+10 Searching With My Good Eye Closed 
+11 Superunknown
+12 Rusty Cage
+13 Half
+14 Mind Riot
+15 Fell On Black Days
+16 Hands All Over
+17 Kickstand
+18 Face Pollution
+19 Like Suicide
+20 encore break
+21 Somewhere
+22 Head Down
+
+Chris Cornell – lead vocals & rhythm guitar
+Kim Thayil – lead guitar
+Ben Shepherd – bass & backing vocals
+Matt Cameron – drums & backing vocals
+
+Matrix notes:
+Lineage: flac > Audacity (mixing, rendering, speed correction, level adjustments) > wav (16/44) > flac
+Tracks 01 and 20 are source 2 only: track 01 is only present on source 2, and track 20 is just crowd noise.
+At first I thought these two sources were from the same DAT, but close listening
+reveals these are different sources. The audience noise and applause gives it away.
+This one took forever, as the speed fluctuated widely between the sources.  
+Worked on it during 2020 pandemic lockdown, finished it up in 2021.
+After this concert, the band first heard the news about Kurt Cobain's suicide.
+Rolling Stone mentions the show in their article:
+https://www.rollingstone.com/music/music-news/soundgarden-into-the-unknown-96743/
+
+Source 1 notes:
+Source: Unknown DAT Audience Audio 
+Generation: DAT(x) > CDR(x) > WAV [EAC Secure] > FLAC [8]
+Quality: 8.0
+Originally encoded February 2009
+
+Source 2 notes:
+Due to the continuous nature of the DAT recording, when copied to cassettes the tape flips are seamless and nothing is lost.
+Tape flip after "Black Hole Sun"
+Tape flip after "Face Pollution"
+Source:  DAT master (unknown mics & recorder) > Cassette (1) > Cassette (2)
+Transfer:  Cassette (2) > Denon 790R > Kenwood A-522 amplifier > Kenwood GE-622 Equalizer > .WAV @ 16 bit/44.1 kHz
+Mastering:  .WAV's > Sound Forge Pro 11.0 (Build 299) [iZotope Mastering Suite (declick); minor edits, normalize, & fades] > CDWav 
+            (tracking) > Trader's Little Helper (level 5) > FLAC > TagScanner 6.0.18 (tagging) 
+Recorded by:  Unknown
+Transferred by:  Steve "ballsdeep" Hagar
+Mastered by:  Dennis Orr
+
+
+Thanks to all involved in taping, transferring and sharing!
+
+enjoy,
+-exene

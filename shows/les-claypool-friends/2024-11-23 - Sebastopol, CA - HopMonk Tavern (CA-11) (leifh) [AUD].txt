@@ -1,0 +1,39 @@
+Les Claypool & Friends - 15th Annual Purple Pachyderm Pre-Turkey Day Extravaganza 
+Saturday November 23rd, 2024
+HopMonk Tavern
+230 Petaluma Avenue
+Sebastopol, California
+
+Taper:  LeifH [2024#57]
+Source:  CA-11 > Bat2B > A10 - front row dead center
+Transfer:  PC via USB > RX9 > Wavepad > flac (8) via TLH
+
+Setlist:  01:29:55
+01 raffle and start of show
+02 Highball with the Devil > For Whom The Bell Tolls > Too Many Puppies > Pudding Time 
+03 Rumble of the Diesel 	[#]
+04 Pipeline
+05 Jam 				[#][^]
+06 Riddles Are Abound Tonight
+07 Cosmic Highway
+08 D's Diner 			[#][*]
+
+Les Claypool - vocals, bass
+Bryan Kehoe - guitar, vocals
+Paulo Baldi - drums
+-plus guests-
+King Street Giants - horns 	[#]
+Wylie Woods - mandolin		[^]
+Todd McMechen - guitar		[*]
+
+Wylie's mandolin solo was played through Bryan's pedalboard and rig. 
+
+fingerprints:
+LesWino2024-11-23t01 - raffle and start of show.flac:094f32aa8793f67cc42bdf4fc824b8b0
+LesWino2024-11-23t02 - Highball with the Devil.flac:eab74a4907e4066e19792794fccbe83c
+LesWino2024-11-23t03 - Rumble of the Diesel.flac:662144669489186265b1ded61a5c1830
+LesWino2024-11-23t04 - Pipeline.flac:4802b623aed3874885a5b99e54278242
+LesWino2024-11-23t05 - Jam.flac:47cdf25d891a848dd34d1138f9b9c096
+LesWino2024-11-23t06 - Riddles Are About Tonight.flac:f932c10ac8f49321dfe656ccf3523548
+LesWino2024-11-23t07 - Cosmic Highway.flac:da9584456eeb6dc2d069c014982fb15e
+LesWino2024-11-23t08 - Ds Diner.flac:a8cb5da7d7987f0e20bce2f06314bfcb

@@ -1,0 +1,26 @@
+OASIS
+Top of the Pops Special
+
+First Broadcast: October 28th1998
+
+This Broadcast: April 16th 2022
+
+SOURCE: BBC FOUR > Hauppauge WinTV 8.5 > .ts > TMPGEnc Authoring Works 5 > VIDEO_TS
+
+VIDEO: MPEG-2, PAL, 720 x 576, 25fps, 6588 kbps
+AUDIO: MPEG-1 Layer 2, 48000Hz, Stereo, 256 kb/s
+
+Top & Chapter Selection Menus
+
+01. Intro
+02. SHAKERMAKER - 1994
+03. LIVE FOREVER - 1994
+04. ROCK 'N ' ROLL STAR - 1994
+05. WHATEVER - 1994
+06. Intro > SOME MIGHT SAY - 1995
+07. ROLL WITH IT - 1995
+08. WONDERWALL - 1995
+09. DON'T LOOK BACK IN ANGER - 1996
+10. CUM ON FEEL THE NOISE - 1996
+
+JTT April 17th 2022

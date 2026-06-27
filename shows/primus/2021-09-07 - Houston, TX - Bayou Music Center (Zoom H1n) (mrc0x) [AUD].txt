@@ -1,0 +1,69 @@
+Primus: A Tribute To Kings Tour
+September 7th, 2021 (Tuesday)
+Bayou Music Center
+Houston, Texas
+
+A mrc0x Recording
+
+Zoom H1n (internal mics) @ 24/48 > .WAV > Wavepad Masters Edition (balance levels, amplify, tracking, 16/44) > flac (8) via TLH
+
+Set 1:  56:53
+01 intro
+02 Those Damned Blue-Collar Tweekers
+03 Harold of the Rocks
+04 Houston banter
+05 The Seven
+06 Over the Falls
+07 Last Salmon Man
+08 Jilly's on Smack
+09 My Name is Mud > 
+10 Jerry Was a Race Car Driver > 
+11 My Name is Mud (Reprise) 
+
+Set 2:  72:07
+12 A Farewell to Kings
+13 Xanadu
+14 Rush banter
+15 Closer to the Heart
+16 Cinderella Man
+17 Madrigal
+18 Cygnus X-1
+-encore-
+19 Iowan Gal 
+20 Too Many Puppies > 
+21 Sgt. Baker > 
+22 Pudding Time > 
+23 Tommy the Cat > 
+24 Lacquer Head > 
+25 Tommy the Cat (Reprise)
+26 Southbound Pachyderm
+
+Rescheduled from May 27th, 2020.  Recorded from the floor; the recorder was set to auto-level.  Sounds quite good, just a little un-even in the more dynamic parts of the show.  Bob was on the setlist, but was not performed.  Les' wife Chaney was celebrating her birthday, so he played the song he wrote for her, Iowan Gal, during the encore.  
+
+fingerprints:
+Primus2021-09-07t01 - intro.flac:ff35bdb432ef1a5331ce1faeb174e17a
+Primus2021-09-07t02 - Those Damned Blue Collar Tweekers.flac:eacb0f78a0c763675a0b110e70a58cb2
+Primus2021-09-07t03 - Harold of the Rocks.flac:4962aeacb764990516286ed97cefb3d7
+Primus2021-09-07t04 - Houston banter.flac:a0668d7f7bace9f709912758534f1c48
+Primus2021-09-07t05 - The Seven.flac:795fee0a7e4217b880f3bdad01ef28d4
+Primus2021-09-07t06 - Over the Falls.flac:243630258a2503a3ecc773d1eb73c29a
+Primus2021-09-07t07 - Last Salmon Man.flac:2570fbda69221f9720df116e25d51afe
+Primus2021-09-07t08 - Jilly's on Smack.flac:d7d3e9febc23a63f346287cfb9be5dcb
+Primus2021-09-07t09 - My Name is Mud.flac:1c15d2fddc265d1852903a24464ae365
+Primus2021-09-07t10 - Jerry Was a Racecar Driver.flac:eb66f208ef142fef8bf70900159be0ef
+Primus2021-09-07t11 - My Name is Mud.flac:ebe8fb5bbb0226ee5b3fc35238a147b1
+Primus2021-09-07t12 - A Farewell to Kings.flac:068f5ef284ccee313de2dfc16bfaa986
+Primus2021-09-07t13 - Xanadu.flac:5a0286e6623f5380df200c5055c859d6
+Primus2021-09-07t14 - Rush banter.flac:5535bd37e95785cd2e2b4f206f3ff14a
+Primus2021-09-07t15 - Closer to the Heart.flac:bccc823e9136babb11b753a96a362ce6
+Primus2021-09-07t16 - Cinderella Man.flac:de83a57dad74803a19fbf64115b7f8be
+Primus2021-09-07t17 - Madrigal.flac:dce9d81b18ef8fa827037374747133c3
+Primus2021-09-07t18 - Cygnus X-1.flac:ef86f59ca9c9ddf8b672527b8fc94fac
+Primus2021-09-07t19 - Iowan Gal.flac:9fd1851ea2b96d5d851f7f84d70d2236
+Primus2021-09-07t20 - Too Many Puppies.flac:3bf0427a431d42b78ddde86123e8070d
+Primus2021-09-07t21 - Sgt Baker.flac:a3b17570e58e03f2c7c8f52d2cfafedd
+Primus2021-09-07t22 - Pudding Time.flac:953f4b40f0df1f5fd2f65aa0b1440657
+Primus2021-09-07t23 - Tommy the Cat.flac:c6e6884e492ab08be2919a33273ea339
+Primus2021-09-07t24 - Lacquer Head.flac:d3e248a03971c6d74432cda10009744b
+Primus2021-09-07t25 - Tommy the Cat.flac:894a479dddf91de56020e1c685734271
+Primus2021-09-07t26 - Southbound Pachyderm.flac:0a44aa84625d6ec5d31671242273746b

@@ -1,0 +1,32 @@
+SILVERCHAIR
+December 18, 1995
+Universal Amphitheatre (KROQ Acoustic XMAS)
+Universal City, CA, US
+
+DISC #1/1 (24:49)
+-----------------
+01. Pure Massacre
+02. Suicidal Dream
+03. Tomorrow + Faultline
+04. Israel's Son
+
+GENERATION
+-----------------
+FM -> WAV [44.1kHz] -> FLAC [Level 8]
+
+SOURCE
+-----------------
+soundboard -> unknown
+
+TRANSFER
+-----------------
+Unknown -> CD Wave 1.94.8 -> FLAC Frontend 1.7.1
+
+MD5 FINGERPRINTS
+-----------------
+e0316522bf6ba577ffcd49272de0cc66 *silverchair1995-12-18t01.flac
+c6098aae903a137a944f250a885b06f0 *silverchair1995-12-18t02.flac
+263ab6f2520b183d6117a80ef86ed7a1 *silverchair1995-12-18t03.flac
+154a3e0e83572773b04375541ae9d3d8 *silverchair1995-12-18t04.flac
+
+PLEASE DO NOT ENCODE TO MP3 OR SELL!

@@ -26,7 +26,8 @@ const ARTIST_DATA = {
       "venue": "North Lions Club Park - ANA",
       "version": "SBD",
       "format": "FLAC",
-      "notes": "x \u00b7 reed howard"
+      "notes": "x \u00b7 reed howard",
+      "textFile": "1985-12-20 - San Diego, CA - North Lions Club Park - ANA(x) (reed howard) [SBD].txt"
     },
     {
       "year": 1985,
@@ -39,7 +40,8 @@ const ARTIST_DATA = {
       "venue": "The Roxy - ANA",
       "version": "SBD",
       "format": "FLAC",
-      "notes": "2 \u00b7 Unknown"
+      "notes": "2 \u00b7 Unknown",
+      "textFile": "1985-12-22 - Los Angeles, CA - The Roxy - ANA(2) [SBD].txt"
     },
     {
       "year": 1988,
@@ -52,7 +54,8 @@ const ARTIST_DATA = {
       "venue": "Enmore Theatre",
       "version": "SBD",
       "format": "FLAC 24",
-      "notes": "crankingamps"
+      "notes": "crankingamps",
+      "textFile": "1988-09-12 - Sydney, AUS - Enmore Theatre (crankingamps) [SBD24].txt"
     },
     {
       "year": 1989,
@@ -65,7 +68,8 @@ const ARTIST_DATA = {
       "venue": "Theatre Barbey",
       "version": "AUD",
       "format": "FLAC",
-      "notes": "unk \u00b7 r. courb"
+      "notes": "unk \u00b7 r. courb",
+      "textFile": "1989-12-17 - Bordeaux, France - Theatre Barbey (unk) (r. courb) [AUD].txt"
     },
     {
       "year": 1990,
@@ -78,7 +82,8 @@ const ARTIST_DATA = {
       "venue": "The Roxy - ANA",
       "version": "AUD",
       "format": "FLAC",
-      "notes": "1 \u00b7 exene transfer"
+      "notes": "1 \u00b7 exene transfer",
+      "textFile": "1990-02-21 - Atlanta, GA - The Roxy - ANA(1) (exene transfer) [AUD].txt"
     },
     {
       "year": 1990,
@@ -91,7 +96,8 @@ const ARTIST_DATA = {
       "venue": "Yale University - Battell Chapel - ANA",
       "version": "AUD",
       "format": "FLAC",
-      "notes": "1 \u00b7 Unknown"
+      "notes": "1 \u00b7 Unknown",
+      "textFile": "1990-03-26 - New Haven, CT - Yale University - Battell Chapel - ANA(1) (unk) [AUD #1].txt"
     },
     {
       "year": 1992,
@@ -104,7 +110,8 @@ const ARTIST_DATA = {
       "venue": "Brixton Acadamy - ANA",
       "version": "AUD",
       "format": "FLAC",
-      "notes": "x \u00b7 Unknown"
+      "notes": "x \u00b7 Unknown",
+      "textFile": "1992-04-05 - London, UK - Brixton Acadamy - ANA(x) (unk) [AUD].txt"
     },
     {
       "year": 1994,
@@ -117,7 +124,8 @@ const ARTIST_DATA = {
       "venue": "Maison de la Radio - Black Session - ANA",
       "version": "FM",
       "format": "FLAC",
-      "notes": "1"
+      "notes": "1",
+      "textFile": "1994-09-06 - Paris, France - Maison de la Radio - Black Session - ANA(1) [FM].txt"
     },
     {
       "year": 2021,
@@ -130,7 +138,8 @@ const ARTIST_DATA = {
       "venue": "Astra",
       "version": "AUD",
       "format": "FLAC",
-      "notes": "Zoom H2 \u00b7 buenaventura"
+      "notes": "Zoom H2 \u00b7 buenaventura",
+      "textFile": "2021-11-23 - Berlin, Germany - Astra (Zoom H2) (buenaventura) [AUD].txt"
     },
     {
       "year": 2021,
@@ -143,7 +152,8 @@ const ARTIST_DATA = {
       "venue": "Freetown Christiania",
       "version": "AUD",
       "format": "FLAC",
-      "notes": "CA-14 \u00b7 Unknown"
+      "notes": "CA-14 \u00b7 Unknown",
+      "textFile": "2021-11-26 - Den Gra\u030a Hal, Denmark - Freetown Christiania (CA-14) (unk) [AUD].txt"
     }
   ]
 };

@@ -1,0 +1,33 @@
+Artist: Noel Gallagher’s High Flying Birds
+Date: 2023-07-31
+Venue: O2 Academy Bournemouth [Absolute Radio]
+Captured by whatever
+Source: Absolute Radio 192kbs Stream -> ffmpeg -> wav -> Audaciity -> flac
+
+01 - Pretty Boy
+02 - Council Skies
+03 - Open The Door, See What You Find
+04 - Interview
+05 - We're Gonna Get There In The End
+06 - Easy Now
+07 - You Know We Can't Go Back
+08 - We're On Our Way Now
+09 - In The Heat Of The Moment
+10 - Interview
+11 - If I Gun...
+12 - Aka... What A Life
+13 - Dead In The Water
+14 - Going Nowhere
+15 - The Importance Of Being Idle
+16 - The Masterplan
+17 - Interview
+18 - Banter
+19 - Half The World
+20 - Little By Little
+21 - The Mighty Quinn
+22 - Live Forever
+23 - Don't Look Back In Anger
+
+* All Radio DJ & Jingles cut out
+
+Please support the artist

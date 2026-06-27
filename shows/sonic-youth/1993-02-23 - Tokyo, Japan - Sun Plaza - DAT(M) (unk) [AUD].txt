@@ -1,0 +1,31 @@
+Sonic Youth - 1993 02 23 Sun Plaza, Tokyo, Japan
+
+Show not:
+The Boredoms join for Oh, Bondage, Up Yours! and a lot of noise! Only known performance of Oh Bondage, Up Yours!
+ 
+Transfer note:
+CDR was saturated at 0.4 db, which makes some crackling in parts. Levels boosted, some EQ to reduce the staturation impact and then normalized.
+
+1 intro
+2 Shoot
+3 100%
+4 Brother James
+5 Kill Yr Idols
+6 Kool Thing
+7 Sugar Kane
+8 I Love Her All The Time
+9 Teenage Riot
+10 Genetic
+11 Swimsuit Issue
+12 Drunken Butterfly
+13 Theresa's Sound-World
+ encore
+14 JC
+15 Youth Against Fascism
+16 Schizophrenia
+17 tour spiel
+18 Oh Bondage, Up Yours! [X-Ray Spex]
+
+Openers: Boredoms
+
+Lineage: DAT audience Master > CDR-3 > EAC > Audacity (Deharsh) > Soundforge (EQ & Normalization) > CDWAVE (Splits) > FLAC

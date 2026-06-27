@@ -1,0 +1,46 @@
+Primus
+Verizon Theater
+Houston, TX
+2006-11-04
+
+Source: Neumann KM100 > LC3 > AK40 > Lunatec V3 (analog out) > 722 (24/96)
+Location: Behind Board, Stand at 10', 2' ROC
+Transfer: 722 > firewire > Wavelab (fades, tracking, dither, resample) > wav > Flac Frontend > flac
+
+Tape and Transfer by Brad Wolf
+
+One Set Show
+
+d1t01. Intro
+d1t02. Here Come the Bastards
+d1t03. Mr. Knowitall
+d1t04. Groundhogs Day
+d1t05. Wynona's Big Brown Beaver
+d1t06. Bob
+d1t07. My Name is Mud
+
+
+d2t01. Toys Go Winding Down
+d2t02. Seas of Cheese
+d2t03. John the Fisherman
+d2t04. Harold of the Rocks
+d2t05. crowd
+Encore
+d2t06. Over the Electric Grapevine
+
+
+Flac Fingerprint
+----------------------------------------------
+primus2006-11-04d1t01.flac:41c3885fae207afdd26162d4773aba79
+primus2006-11-04d1t02.flac:a1517c8407949ffa502d57c7bb4847bb
+primus2006-11-04d1t03.flac:5d7c5e4d63fde0e5ea49e448215f8d1b
+primus2006-11-04d1t04.flac:7ced512ac3944392ccfd5af1060fabf3
+primus2006-11-04d1t05.flac:7f322edac91eec39c10c3d3556d0940c
+primus2006-11-04d1t06.flac:746bc2d53d89d982162ee982d9bf872e
+primus2006-11-04d1t07.flac:3b4d4af5b02f0286d7f585fb5dcbd215
+primus2006-11-04d2t01.flac:ca8ae2f4262ff9fd52997fc5fb8b53a2
+primus2006-11-04d2t02.flac:937da928fdcccb4d6ca1a9c0b62823fb
+primus2006-11-04d2t03.flac:bd5c1fee92c2bfaab551b3e486888f3b
+primus2006-11-04d2t04.flac:43a5b0516fe94005aaa59dfb1f2f6562
+primus2006-11-04d2t05.flac:066e4a410892816f8e430028d8d5946a
+primus2006-11-04d2t06.flac:db3eb9d4ad204e2830d358bd5711b739

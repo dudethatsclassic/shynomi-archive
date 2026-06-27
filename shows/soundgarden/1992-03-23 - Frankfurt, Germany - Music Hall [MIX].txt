@@ -1,0 +1,65 @@
+Soundgarden
+March 23, 1992
+Music Hall
+Frankfurt, Germany
+
+**Matrixed and remastered by exene**
+
+Contrast clause:
+Upgrade to prior version http://www.dimeadozen.org/torrents-details.php?id=513230
+New to this version:
+Flower and Little Joe added to make the full show.
+Audience video source transferred from a DVD-R copy.
+All eight tracks with video source were re-mixed using this transfer.
+Six tracks re-mixed using source "Seattle Connection pt 2" bootleg cd.
+Added metadata tags.
+
+1 Searching With My Good Eye Closed (1, 2)
+2 Hands All Over (1, 2)
+3 Face Pollution (1, 4)
+4 Room A Thousand Years Wide (1, 4)
+5 Gun (2, 4)
+6 Flower (4)
+7 Little Joe (4)
+8 Big Dumb Sex (2, 4)
+9 Drawing Flies (1, 2)
+10 Incessant Mace (1, 2)
+11 Rusty Cage (3, 4)
+12 Outshined (3, 4)
+13 Mind Riot (2, 3)
+14 Hey Jude / Beyond The Wheel (2, 3)
+15 Jesus Christ Pose (2, 3)
+16 Somewhere (2, 3)
+17 Slaves And Bulldozers / Alive (1, 2)
+
+(1) = Silver CD "Face Pollution" [BOO! 002] -> flac
+(2) = Silver CD "Soundgarden - Live in the USA 1992" [Templar TCD 37] -> EAC -> wav
+(3) = Silver CD "Seattle Connection pt 2" [RBCD 020] -> EAC -> wav
+(4) = aud video -> ? -> DVDR(x) LPCM 16/48 -> Sony SLV-D360P -> Audacity 16/44 -> wav
+
+Total running time:  1hr 37min
+
+Thanks to uninvited94 for sharing "Face Pollution" bootleg!
+
+http://www.soundgardenliveguide.com/1992/19920323.htm
+
+Tech notes:
+All tracks except 6 and 7 are a mix of two sources, as noted above.
+This is the full, complete show using bootleg "Seattle Connection pt 2" instead of "Face Pollution" on six tracks.  
+The two bootlegs are the same source recording, but Seattle Connection sounds a little cleaner.
+
+Show notes:
+I've always wondered why shows recorded at this venue sounded so great.
+Included is a picture of the built-in sound system, enormous speakers under the stage floor.  
+Maybe that's what Chris is referring to when he says "Yeah, it works" during Searching With My Good Eye Closed.
+Chris mentions his voice is fucked up, but he sounds perfectly good to me!
+Massive show, great energy!
+
+Share far and wide, never sell!  Keep it lossless and free!
+
+"This is the most fun I've had at a disco"  - Chris Cornell
+
+enjoy!
+-exene
+
+

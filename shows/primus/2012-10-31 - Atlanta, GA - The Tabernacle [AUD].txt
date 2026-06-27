@@ -1,0 +1,61 @@
+Primus
+2012-10-31
+The Tabernacle - Atlanta, GA
+
+Source Info: Squid Audio omnidirectional mics> zoom h1 recorder (low cut-on, auto level off) @ 24bit48khz
+
+Recorded from front row center, mics clipped to hat, pointed directly at the drum kit. This recording is somewhat lacking up-front vocals, because the vocals were run through the p.a. system. What you hear on this recording is primarily the equipment on the stage,without benefit of the p.a. system. Also (because I was front-row on the barrier) you get a few screamers, clappers, etc every now and then. I recall a balloon bouncing off one of the mics during Southbound Pachyderm. It happened again later in another song, though I don't remember which
+
+Set 1:
+01.Intro
+02.American Life
+03.Dirty Drowning Man
+04.Les Talk
+05.Moron TV
+06.Southbound Pachyderm
+07.Over the Falls
+08.Lee Van Cleef
+09.Spegetti Western
+10.Wynona's Big Brown Beaver
+11.Those Damned Blue-Collar Tweekers
+
+Set 2:
+12.Hamburger Train
+13.Del Davis Tree Farm
+14.Glass Sandwich
+15.Jilly's on Smack
+16.On the Tweek Again
+17.My Name Is Mud
+18.The Heckler
+19.Extinction Burst
+20.Harold of the Rocks
+
+21.Encore Break
+
+22.Tommy the Cat > The Awakening > Tommy the Cat->
+23.Too Many Puppies > Hello Skinny > Too Many Puppies
+----------------------------------------------------------------------------------------------------
+
+01. Intro.flac:38b7d3255244c8053b1b81f9b9449fc3
+02. American Life.flac:311b4d10bc348f6d8457b7ccac061fff
+03. Dirty Drowning Man.flac:95ae0c924ed1f138ed933e24d7470b73
+04. Les Speak.flac:01b5b73237afcae54809a396f26f93a5
+05. Moron TV.flac:ed37e92b9ce2933c6e283dd8f57aff2c
+06. Southbound Pachyderm.flac:01bb333df38df1db3aa5186c16409a03
+07. Over the Falls.flac:a388e0e5b70e9258154da726aab88006
+08. Lee Van Cleef.flac:9461432dea823531e84eda7b9cc51b70
+09. Spegetti Western.flac:b1558864e2ca3e7590898560ffa5fcf2
+10. Wynona's Big Brown Beaver.flac:144fbce2b1f9ee5adc66db28a2054d43
+11. Those Damned Blue-Collar Tweekers.flac:8ba3c759c3ad7964511f952bea3c189b
+12. Hamburger Train.flac:6396c26dd0586187fb9adad6abe8f1c1
+13. Del Davis Tree Farm.flac:69ff2bb31eb58c3ad9f16f52927ad28a
+14. Glass Sandwich.flac:e2df08ece78f13e64c7a6719d05d57b8
+15. Jilly's On Smack.flac:c9fc1b791101b0d31b5ef88073603f5e
+16. On The Tweek Again.flac:665f7cffcb03493c04f4eb442360be4d
+17. My Name Is Mud.flac:665e24b2f3f1057411a8b22b747d4d08
+18. The Heckler.flac:4a7b79bdad4aeda28f5256f892376ea0
+19. Extinction Burst.flac:eec03bde072dd99884dda450c9175d64
+20. Harold Of The Rocks.flac:b0dcaab3cec24ead6d6b9f2af2f4a4d0
+21. Encore Break.flac:4a6601cce9e041bcbf8de2b4f081b9c6
+22. Tommy The Cat-_ The Awakening-_ Tommy The Cat-_.flac:4a0c4412e7517769379c2d095008ce5b
+23. Too Many Puppies-_ Hello Skinny-_ Too Many Puppies.flac:0f1a35a4ae996ffa596e8e450bc6c210

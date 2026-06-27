@@ -1,0 +1,37 @@
+Toad the Wet Sprocket
+April 7th, 2011
+Irving Plaza, New York, NY
+
+Master/Conversion:
+Microtech Gefell M210's>Oade M248>SBM-1>D8, D8>Tascam CDRW2000>CD
+by Jon Pasternak
+
+Extraction:
+CD>xACT 2.09 (cdparanoia)>WAV>FLAC, all tracks extracted with no errors
+by Dave Mallick
+
+Disc 1 [49:56.53]
+01. Something's Always Wrong  [04:56.18]
+02. Woodburning               [04:10.22]
+03. Jam                       [03:25.04]
+04. Crowing                   [03:43.46]
+05. Good Intentions           [03:19.21]
+06. Way Away                  [03:21.01]
+07. Is It For Me?             [03:31.00]
+08. Inside                    [05:00.74]
+09. Torn                      [03:35.48]
+10. Windmills                 [04:46.40]
+11. The Moment                [05:33.37]
+12. Friendly Fire             [04:33.42]
+
+Disc 2 [47:56.12]
+01. Come Back Down            [04:34.66]
+02. Nightingale Song          [02:54.05]
+03. Whatever I Fear           [03:55.31]
+04. Finally Fading            [04:45.22]
+05. Crazy Life                [04:34.11]
+06. All I Want                [03:19.13]
+07. Brother                   [05:47.14]
+08. Fall Down                 [05:04.42]
+09. E: Come Down              [03:24.30]
+10.    Walk On The Ocean      [09:37.03]

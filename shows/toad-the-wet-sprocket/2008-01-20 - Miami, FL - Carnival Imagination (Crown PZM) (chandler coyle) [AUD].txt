@@ -1,0 +1,43 @@
+Toad the Wet Sprocket
+January 20, 2008
+The Rock Boat VIII
+Carnival Imagination, Miami, FL
+
+Taper: Chandler Coyle
+Source (assumed): Crown PZM (stereo pair) > Tascam DA-P1 > Zoom H2 (Wav 24/44.1kHz)
+Lineage: WAV > Bias Peak Pro v6.1.1 (eq, normalize, fades, dither, tracking) > WAV 16/44.1kHz
+
+Setlist:
+
+01: Intro
+02: Something's Always Wrong
+03: Stupid
+04: Jam
+05: Whatever I Fear
+06: Crowing
+07: Good Intentions
+08: In My Ear
+09: Inside
+10: Everything but You *
+11: Butterflies
+12: Windmills
+13: Fly From Heaven
+14: Nightingale Song
+15: Come Back Down
+16: Dam Would Break
+17: All I Want
+18: Stairway To Heaven intro (aborted)
+19: Brother
+20: Fall Down
+21: Crazy Life
+22: Ziggy Stardust &
+23: Walk on the Ocean
+
+------------------
+
+* Glen Phillips song
+& David Bowie cover
+
+Notes:  I was given 5 tracked sets by Glen/TTWS from Rock the Boat.  The source listed is what Chandler was using at the time, so I assume that's the setup.  I'm finally getting around to putting them out 17 years later...
+
+compiled by Brian Emerick on 3/11/2025 - brian dot emerick at gmail dot com

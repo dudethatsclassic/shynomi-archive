@@ -1,0 +1,22 @@
+Sonic Youth - 1989 03 25 Voorit, Ghent
+
+Show seems kind of wild, like it will careen off and blowup.  The audience sees primed, and the band is pretty wired.  Attaching an interview that was on the same data.  It is most likely from the same date.
+
+1 intro 
+2 White Kross 
+3 Candle 
+4 Kissability 
+5 The Sprawl 
+6 Cross the Breeze 
+7 Teenage Riot 
+8 Hey Joni 
+9 Eric's Trip 
+10 The Wonder 
+11 Hyperstation 
+12 Eliminator Jr 
+13 Silver Rocket 
+14 Interview
+
+Opener: Mudhoney
+
+Lineage: Master > Low gen auanlog > Tascam 202MKVII USB out > CDWAV > Audacity (normalization, fades, merges, noise reduction) > CDWAV (slips) > DBPowerAmp (FLAC)

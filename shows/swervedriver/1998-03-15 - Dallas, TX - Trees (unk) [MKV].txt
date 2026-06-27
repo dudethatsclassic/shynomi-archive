@@ -1,0 +1,25 @@
+Swervedriver
+1998-03-15
+Trees Lounge, Dallas, TX, US
+Source: Audience video camera > VHS > DVD
+Preparation for torrenting (2023-04-15): VOB files > single mkv via AVIDemux (not re-encoded)
+
+Required video details (from mediainfo)
+Container: Matroska, codec: V_MPEG2, resolution: 704x480, scan: interlaced, frame rate: 29.970 FPS, video bit rate: 4 805 kb/s, aspect ratio: 4x3, audio codec: A_AC3, channels: 2, audio sampling rate: 48.0 kHz, bitrate: 256 kb/s
+
+Behind The Scenes Of The Sounds And The Times
+Duel
+Blowin' Cool
+You've Sealed My Fate
+Deep Seat
+Wrong Treats
+Never Lose That Feeling
+She Weaves A Tender Trap
+It's All Happening Now
+The Birds
+Rave Down
+Son Of Mustang Ford
+
+(61:40)
+
+Shared on Dime 2023-04-15 by Aaron (supahstah)

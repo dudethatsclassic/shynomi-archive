@@ -1,0 +1,79 @@
+Ride
+BBC 6 Music Festival
+Barrowland Ballroom
+Glasgow, Scotland
+March 24, 2017
+
+Lineage: BBC iPlayer Webcast -> Livestreamer -> .ts
+Video: MPEG4 Video (H264) 1280x720 16:9 5170 Kbps 50.00 fps
+Audio: AAC 320 Kbps 48.0 KHz stereo
+
+Setlist:
+Lannoy Point
+Charm Assault
+Seagull
+Like a Daydream
+Dreams Burn Down
+Twisterella
+Leave Them All Behind
+
+TRT = 00:59:18
+
+Captured and uploaded to DIME by indykid. 
+
+MediaInfo:
+General
+ID                          : 16727 (0x4157)
+Complete name               : Ride - 2017-03-24 6 Music Festival, Barrowland Ballroom, Glasgow, Scotland [720p50].ts
+Format                      : MPEG-TS
+File size                   : 2.27 GiB
+Duration                    : 59 min 18 s
+Overall bit rate mode       : Variable
+Overall bit rate            : 5 483 kb/s
+
+Video
+ID                          : 33 (0x21)
+Menu ID                     : 16727 (0x4157)
+Format                      : AVC
+Format/Info                 : Advanced Video Codec
+Format profile              : High@L3.2
+Format settings, CABAC      : Yes
+Format settings, ReFrames   : 4 frames
+Format settings, GOP        : M=8, N=96
+Codec ID                    : 27
+Duration                    : 59 min 18 s
+Maximum bit rate            : 5 070 kb/s
+Width                       : 1 280 pixels
+Height                      : 720 pixels
+Display aspect ratio        : 16:9
+Frame rate                  : 50.000 FPS
+Standard                    : Component
+Color space                 : YUV
+Chroma subsampling          : 4:2:0
+Bit depth                   : 8 bits
+Scan type                   : Progressive
+Color range                 : Limited
+Color primaries             : BT.709
+Transfer characteristics    : BT.709
+Matrix coefficients         : BT.709
+
+Audio
+ID                          : 34 (0x22)
+Menu ID                     : 16727 (0x4157)
+Format                      : AAC
+Format/Info                 : Advanced Audio Codec
+Format version              : Version 4
+Format profile              : LC
+Muxing mode                 : ADTS
+Codec ID                    : 15
+Duration                    : 59 min 18 s
+Bit rate mode               : Variable
+Maximum bit rate            : 320 kb/s
+Channel(s)                  : 2 channels
+Channel positions           : Front: L R
+Sampling rate               : 48.0 kHz
+Frame rate                  : 46.875 FPS (1024 spf)
+Compression mode            : Lossy
+Language                    : English
+
+Captured and uploaded to DIME by indykid.

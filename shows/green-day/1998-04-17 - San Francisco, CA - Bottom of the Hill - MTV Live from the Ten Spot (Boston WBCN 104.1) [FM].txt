@@ -1,0 +1,48 @@
+Green Day
+Billie Joe Armstrong: vocals and guitar
+Mike Dirnt: bass
+Tre Cool: drums
+
+Bottom of the Hill
+San Francisco, Ca. USA
+April 17, 1998
+promoting their album "nimrod"
+FM broadcast simulcast with MTV 
+on "live from the 10 spot"
+runtime: 44:13 (minutes/ seconds)
+
+    setlist:
+1: Matt Pinfield radio intro :56
+2: nice guys finish last 3:05
+3: hitchin' a ride 3:45
+4: big yellow taxi > the grouch 3:04
+5: geek stink breath 2:13
+6: welcome to paradise 3:36 
+7: longview 3:37
+8: brain stew 3:19
+9: she 2:54
+10: redundant 3:40   
+11: basket case 3:08
+12: prosthetic head 3:14
+13: when I come around 4:13
+14: good riddance (time of your life) 2:33
+15: radio outro :27
+
+disappearing boy
+jaded
+knowledge
+and king for a day were also possibly played in this show, 
+(according to etree), but not broadcasted on this program
+and some of the songs here were broadcasted with w/edits for 
+(excessively unnecessary, U.S. FCC required) censorship.
+
+lineage:
+WBCN Boston 104.1 FM broadcast >
+Yamaha RX-500U reciever > 
+Naka. BX-125 cassette recorder (dolby off)
+Maxell XLII-S 100 minute cassette >
+tascam 112 > soundforge (16 bit/ 44.1 khz wav) >
+flac 8 (sb's aligned)
+a this and that production.
+do not sell this recording.
+that's not cool.

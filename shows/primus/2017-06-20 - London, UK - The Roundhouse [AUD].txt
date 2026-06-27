@@ -1,0 +1,70 @@
+Primus
+Tuesday June 20th, 2017
+The Roundhouse
+Chalk Farm Road
+London, UK
+
+Taper:  LeifH
+Source:  CA-11 (cardioid) > Bat2B > Sony PCM M10 @ 24/48 > Sony 16GB microSD card
+Transfer:  Memory card > PC via USB > Wavepad Masters Edition (edits, amplify, tracking, 16/44.1) > flac (8) via Frontend
+
+Set  I:  1:08:02
+00 intro
+01 Here Come the Bastards
+02 Wynona's Big Brown Beaver
+03 American Life
+04 Nature Boy (aborted)
+05 Groundhog's Day
+06 Jilly's on Smack
+07 Mr. Krinkle
+08 The Heckler
+09 Harold of the Rocks
+
+Set II:  1:15:50
+10 Spegetti Western
+11 Moron TV
+12 Frizzle Fry
+13 Over the Falls
+14 Lee Van Cleef
+15 Too Many Puppies > 
+16 Sgt. Baker > 
+17 Too Many Puppies
+18 My Name Is Mud
+19 Jerry Was A Racecar Driver
+
+20 Seven
+21 Southbound Pachyderm (aborted)
+22 Mr. Knowitall
+22 Southbound Pachyderm (started in progress)
+
+My 29th Primus show.  Pretty cool to see this venue which was a railway engine turntable and where many great bands have played.  Not the most ideal space for acoustics though.  I was close to the very centre of the room, standing on the floor under the peak of the building.  A couple of blokes kept talking during the first few songs but they shut up eventually.  Bloody wankers!
+
+Les kept playing the same riff when it was time to breakdown Nature Boy and gave up on the song.  He played a few seconds of Kashmir on his upright bass before Mr. Krinkle, and played a few seconds of Passage To Bankok before starting Southbound Pachyderm, which he aborted after messing up the riff early in the song.  After playing Mr. Knowitall instead, Les began playing Southbound Pachyderm again near where he left off.  Ler always plays Southbound Pachyderm with a Telecaster, and didn't have time to change to a Strat for the impromptu Mr. Knowitall until mid-way through the song, so you hear him slide up the strings instead of using the tremelo bar for effect in the first half.  
+
+This was the last show of their European tour in 2017 and was sold out.  
+
+fingerprints:
+00 - intro.flac:c1457bf2c161b38b3a37f83ac3cbf26e
+01 - Here Come The Bastards.flac:e541785b361f245f1712d8fc2e60e34d
+02 - Wynona's Big Brown Beaver.flac:daa0b8779cad49c1083393ecbfd319b8
+03 - American Life.flac:536914a177434c32f239d801759eaa0d
+04 - Nature Boy.flac:82009b6e38d3ab36dde82ba4bb5e29f4
+05 - Groundhog's Day.flac:6f948a54921cef3d29d05f47ade3a8a8
+06 - Jilly's on Smack.flac:287d34fd8637640feee1449a1f3b135e
+07 - Mr Krinkle.flac:c6b6f2c2cea8614e97dc58527b16243c
+08 - The Heckler.flac:8d5d72952f1e1db48720a8bc5d7d81b4
+09 - Harold of the Rocks.flac:cc5ee53087150f3f23a56058902ed54f
+10 - Spegetti Western.flac:cad39182ebf940b5a84400742ce0688c
+11 - Moron TV.flac:8f646c81dfecd4a6663114f08126f969
+12 - Frizzle Fry.flac:12326df7296dbe6597933e726d4f11d7
+13 - Over the Falls.flac:1f73232c5f61510cd0e1f357cdb21bab
+14 - Lee Van Cleef.flac:403442f7304b04b749fd2a5e9278169c
+15 - Too Many Puppies.flac:df17c5030771759fecd11faaf8812a77
+16 - Sgt Baker.flac:d3d08b007e83db6661044391e02a074f
+17 - Too Many Puppies.flac:40620adbbf627dffd9ad0815404f83c5
+18 - My Name Is Mud.flac:8da3c2fa23e4159374ce5208587073d2
+19 - Jerry Was a Racecar Driver.flac:651483d797afabd55bff937ccc563397
+20 - Seven.flac:e45186e6caf30d7fcc67c9ba1bb60404
+21 - Southbound Pachyderm.flac:fb7f81d25787f0d97c0b8b8106eb224c
+22 - Mr Knowitall.flac:f52c924afe3683b981f24a747f7e58e0
+23 - Southbound Pachyderm.flac:b7ae4de72dbd6832d5ea43e92d8a8c17

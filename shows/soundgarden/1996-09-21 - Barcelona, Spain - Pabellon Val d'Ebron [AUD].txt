@@ -1,0 +1,71 @@
+Soundgarden
+Pabellon Val d'Ebron
+Barcelona, Spain
+September 21, 1996
+
+** 16 BIT **
+
+Souce:  Sonic Studios DSM-6P > Sony TCD-D7 > DAT Master > cassette (1)
+Transfer:  Cassette (1) > Denon 790R > Kenwood A-522 amplifier > Kenwood GE-622 Equalizer > .WAV @ 16 bit/44.1 kHz
+Mastering:  .WAV's > Sound Forge Pro 11.0 (Build 299) [iZotope Mastering Suite (declick); minor edits, normalize, & fades] > CDWav tracking) >             Trader's Little Helper (level 5) > FLAC > TagScanner 6.0.18 (tagging) 
+Recorded by:  Unknown
+Transferred by:  Steve "ballsdeep" Hagar
+Mastered by:  Dennis Orr
+
+Setlist: (1:38:24)
+01 Spoonman
+02 Searching With My Good Eye Closed >
+03 Let Me Drown
+04 Chat
+05 Pretty Noose
+06 Burden In My Hand
+07 My Wave
+08 Ty Cobb
+09 Fell On Black Days >
+10 Helter Skelter >
+11 Boot Camp
+12 An Unkind
+13 Rusty Cage
+14 Black Hole Sun
+15 Outshined
+16 Mailman
+17 Drawing Flies
+18 Blow Up The Outside World
+19 Kickstand
+20 Slaves & Bulldozers
+21 Encore Break
+- Encore -
+22 Never The Machine Forever
+23 Jesus Christ Pose
+
+Chris Cornell – lead vocals & rhythm guitar
+Kim Thayil – lead guitar
+Ben Shepherd – bass & backing vocals
+Matt Cameron – drums & backing vocals
+
+Mastering Notes:
+The recorder was turned off and restarted during the "Encore Break" applause - seamlessly spliced, no music lost.
+
+Soundgarden1996-09-21t01.flac:fed44e5106bb1cf788459d5bc0c90f85
+Soundgarden1996-09-21t02.flac:1a94c9a868e46dd2602fc81f5119bbf4
+Soundgarden1996-09-21t03.flac:c5ea1a06eae2f1d47402f675ba187d7c
+Soundgarden1996-09-21t04.flac:0aaf636db6340db51e6c0a8d1e0d8863
+Soundgarden1996-09-21t05.flac:08a047e74b9eac1767155ea9718d84b0
+Soundgarden1996-09-21t06.flac:f107b3d4f2860fa38d1a56f1901e9904
+Soundgarden1996-09-21t07.flac:677235cc9069f77366fd1301bba0acd1
+Soundgarden1996-09-21t08.flac:2e41f845b9f4a5c898e3b50a32eac31a
+Soundgarden1996-09-21t09.flac:72568c1512f07a59883cd4a4e1da2a85
+Soundgarden1996-09-21t10.flac:44710ac0e67e823b262ba202ae683e77
+Soundgarden1996-09-21t11.flac:ebbf266e3338f31a6a5d77e2a862016d
+Soundgarden1996-09-21t12.flac:44e7ed695a68531dbfcdb9b884e36f7d
+Soundgarden1996-09-21t13.flac:70bfe9917ad891c2a423fd02299e3027
+Soundgarden1996-09-21t14.flac:0c9b12eab9778ed003e784d29ac1b5ba
+Soundgarden1996-09-21t15.flac:1e39abf6e62d15647594870b5929de8c
+Soundgarden1996-09-21t16.flac:9c56c42dd669d8af4e7bc12484f1f7b7
+Soundgarden1996-09-21t17.flac:85e74afa735da14fc51d76e402e6d263
+Soundgarden1996-09-21t18.flac:865d3cd8b5ccee506f6776a87a147c4c
+Soundgarden1996-09-21t19.flac:2ff8dbab9f09cb5dbe07ac88060caeb0
+Soundgarden1996-09-21t20.flac:e390ca82098446447fdad2915cc2741a
+Soundgarden1996-09-21t21.flac:bd079086a022c666f9cbd83a7eca0aac
+Soundgarden1996-09-21t22.flac:3e1bd454e7146d60a083a84146915d70
+Soundgarden1996-09-21t23.flac:ac8d651cb3e84412ed42242b7f9bfce1

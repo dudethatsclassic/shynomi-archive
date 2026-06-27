@@ -1,0 +1,72 @@
+Soundgarden
+Beale Street Music Festival
+FedEx Stage
+Tom Lee Park
+Memphis, TN
+May 7, 2017
+
+** 16 BIT **
+
+Source:  Sonic Studios DSM-6P w/3-way lo-cut filter (@ 80hz, middle setting) > Tascam DR-2d @ 16 bit/44.1 kHz (-6 dB backup copy)
+Mastering:  .WAV > Sound Forge Pro 11.0 (Build 299) [iZotope Mastering Suite (declick); WAVES GEQ Classic Stereo equalizer plugin (raise 2.5                kHz +2 dB, 4.0 kHz +4.0 dB, 6.3 kHz +2 dB, 10.0 kHz +4.0 dB, 16.0 kHz +2.0 dB); minor edits, normalize, & fades] > CDWav 
+            tracking) > Trader's Little Helper (level 5) > FLAC > TagScanner 6.0.18 (tagging) 
+Location:  Roughly 60 feet to the right of the SBD. I moved about 20 feet closer to the board as the show progressed to avoid talkers/clappers
+Recorded by:  Steve "ballsdeep" Hagar
+Mastered by:  Dennis Orr
+
+Setlist:
+01 Intro Music (Searching With My Good Eye Closed)
+02 Spoonman
+03 Chat
+04 Kyle Petty, Son Of Richard
+05 Outshined
+06 Black Hole Sun
+07 Flower
+08 The Day I Tried To Live
+09 Chat
+10 My Wave
+11 Fell On Black Days
+12 Drawing Flies
+13 A Thousand Days Before
+14 Chat
+15 Incessant Mace >
+16 Rusty Cage
+17 Blow Up The Outside World
+
+Chris Cornell – lead vocals & rhythm guitar
+Kim Thayil – lead guitar
+Ben Shepherd – bass & backing vocals
+Matt Cameron – drums & backing vocals
+
+Show Notes: 
+Well, I gotta say that there's not really much to say. "Drawing Flies" was 2.5 minutes of pure ethereal nirvana. I could not quit smiling. My final Soundgarden recording. EVER. Every show better than the last. They were just hitting their stride.
+
+RIP Chris Cornell, you were one of the special ones; a diamond in the rough.
+
+Beautiful, open-air sound on this one. CRANK IT!
+
+Same with this portion, there are no words other than "Thank You, Dennis". if you can't comply with that, then eff off.
+
+You fuckers know the drill.
+
+---ballsdeep OUT!!!!   (Gonna miss you Mr. Chris Cornell)
+
+#therearenowords
+
+Soundgarden2017-05-07t01.flac:eb9d41f5da1d132d8b237fa24180e7a8
+Soundgarden2017-05-07t02.flac:203dc9aeac8b92cf7ab19630c832b535
+Soundgarden2017-05-07t03.flac:47fd6fb39df00af6102b51f29a4dd605
+Soundgarden2017-05-07t04.flac:6e72cb41c77cc9a533679dd67b61ee82
+Soundgarden2017-05-07t05.flac:efbe3d6c1aea08dc18a5d98c74963a50
+Soundgarden2017-05-07t06.flac:09dc3ed52cedf963b69d4e24c1c1817c
+Soundgarden2017-05-07t07.flac:a5115625e35e77c082566cdf6d88e761
+Soundgarden2017-05-07t08.flac:6246d8eb0b445705eac3e90049b4da9c
+Soundgarden2017-05-07t09.flac:5857e2cff44af1e4ae886a7d3dccc922
+Soundgarden2017-05-07t10.flac:1a0c4dd45255c8f7768e13d2c78b0518
+Soundgarden2017-05-07t11.flac:ae6ddbdc14ac040e91d5835ab6d600a8
+Soundgarden2017-05-07t12.flac:8ceae8719d81c43e051e28e05c8418ef
+Soundgarden2017-05-07t13.flac:3d42aa6e03290fb80f98793bccaabedd
+Soundgarden2017-05-07t14.flac:8bc0c10a205d41b5909e4437125d8148
+Soundgarden2017-05-07t15.flac:9419742483e4be32c7423f57d329ce8d
+Soundgarden2017-05-07t16.flac:856ef5d5079294fbc63eca0fb4b23dce
+Soundgarden2017-05-07t17.flac:cd03938cf09b7370e4536e1bfef231fe

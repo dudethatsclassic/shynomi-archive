@@ -1,0 +1,51 @@
+primus
+state theater, detroit michigan
+november 9, 2003
+
+'tour de fromage'
+les, ler, herb
+
+recording gear:
+mg210 > sxm2 > sbm1 > D8 DAT Master @ 16 bit / 48 kHz
+ -recorded just left of board, ortf, 10 ft. stand
+
+transfer:
+DAT Master > Tascam DA-45HR > Coax > MT2496
+
+processing:
+wav > adobe audition (fades, level adjust, channel drop out correction) > cdwav > tlh flac 8
+
+these are 16 bit / 48 kHz flac files
+
+
+Set I:
+01. Southbound Pachyderm
+02. Pudding Time > John The Fisherman > Pudding Time > John The Fisherman > Pudding Time
+03. Groundhog's Day
+04. The Pressman
+05. Pilcher's Squad
+06. My Name Is Mud
+07. Mary The Ice Cube
+08. Nature Boy
+
+Set II:
+01. Seas of Cheese
+02. Here Come the Bastards
+03. Sgt. Baker
+04. American Life
+05. Jerry Was A Race Car Driver
+06. Drum Solo
+07. Drum and Whamola Jam
+08. Eleven
+09. Is It Luck? > YYZ > Is It Luck?
+10. Grandad's Little Ditty
+11. Tommy The Cat > Professor Nutbutter tease > Tommy The Cat
+12. Sathington Waltz ^
+13. Those Damned Blue Collar Tweekers > Hair Tease > Those Damned Blue Collar Tweekers
+14. Fish On
+15. Los Bastardos
+16. Frizzle Fry
+
+set notes:
+^ - with the Filthy Ape on keyboard
+  - there were a few patchers off of this rig, all coming from analog out of D8

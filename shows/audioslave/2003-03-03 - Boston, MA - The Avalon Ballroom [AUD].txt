@@ -1,0 +1,32 @@
+Audioslave
+March 3, 2003
+Avalon Ballroom
+Boston, MA
+
+
+Tapers: ED and  CT
+Source: Schoeps mk4 > billbox > sbm-1 (@ 48k) > m1
+DAT>SHN:  Archive Python DDS > DAT2WAV 1.2 > CEP > 44.1 > mkwACT
+	  (Direct DAT extraction, no soundcard - **NO DAE**)
+
+Tracked and edited in Wavelab.
+Sector boundaries verified with shntool.
+
+Disc 1 - 71:47
+
+01. Gasoline
+02. Set It Off
+03. Light My Way
+04. Like a Stone
+05. Super Stupid
+06. What You Are
+07. Exploder
+08. Hypnotize
+09. Working Man
+10. Last Remaining Light
+11. Show Me How to Live
+12. Shadow on the Sun
+--- Encore ---
+13. I Am the Highway
+14. Cochise
+

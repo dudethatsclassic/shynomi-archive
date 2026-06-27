@@ -1,0 +1,30 @@
+foobar2000 1.4.6 / Dynamic Range Meter 1.1.1
+log date: 2019-07-15 21:20:20
+
+--------------------------------------------------------------------------------
+Analyzed: Slowdive / 1991-09-18 University, Leichester
+--------------------------------------------------------------------------------
+
+DR         Peak         RMS     Duration Track
+--------------------------------------------------------------------------------
+DR11       0.00 dB   -16.40 dB      4:19 01-Spanish Air
+DR13      -3.95 dB   -20.72 dB      4:06 02-Catch the Breeze
+DR13      -4.58 dB   -22.19 dB      4:13 03-Bleed
+DR12      -3.62 dB   -19.31 dB      4:11 04-Primal
+DR9       -1.87 dB   -16.53 dB      5:41 05-Slowdive
+DR12      -2.89 dB   -19.48 dB      4:49 06-Morningrise
+DR11      -5.38 dB   -20.41 dB      5:34 07-She Calls
+DR12      -8.16 dB   -23.27 dB      4:39 08-Ballad of Sister Sue
+DR13      -8.27 dB   -25.42 dB      6:15 09-Avalyn 2
+--------------------------------------------------------------------------------
+
+Number of tracks:  9
+Official DR value: DR12
+
+Samplerate:        44100 Hz
+Channels:          2
+Bits per sample:   16
+Bitrate:           768 kbps
+Codec:             FLAC
+================================================================================
+

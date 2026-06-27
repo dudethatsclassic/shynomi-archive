@@ -1,0 +1,48 @@
+Pinback 2010-07-03
+The Independent SF CA
+
+schoeps cmc34->psp3->dr2d->usb reader->cool edit->cdwav->flac
+
+01 Lyon
+02 Clemenceau
+03 Soaked 
+04 Tripoli
+05 Some Voices
+06 Penelope
+07 Some Voices
+08 ???
+09 This red Book
+10 Walters
+11 Bb Tone
+12 Crutch
+13 Bouquet
+14 Non Photo Blue
+15 Good to Sea
+16 Fortress
+17 Your Sickness
+18 Versailles
+19 Loro
+20 X I Y
+21 From Nothing To Nowhere
+
+pinback 20100703 cmc34 t01.flac:d71ff0be0d5a908606ed87fe17ce9058
+pinback 20100703 cmc34 t02.flac:f5a33b95a5f8dbb8024f550fcd5c87b4
+pinback 20100703 cmc34 t03.flac:1b92dd9e9092e98c5c0f3f33bccb05e9
+pinback 20100703 cmc34 t04.flac:1235f092ea3155bd4b0976e34c05e3ad
+pinback 20100703 cmc34 t05.flac:33b94d41a490f23d85078a729fe22239
+pinback 20100703 cmc34 t06.flac:80c1364e9468514004b6a19fb384e0df
+pinback 20100703 cmc34 t07.flac:0c1c392f8560e33fd2eabab2dba22e79
+pinback 20100703 cmc34 t08.flac:88604c764a38dea8e2674d812a26b3fd
+pinback 20100703 cmc34 t09.flac:ed6def0b87dc60a2958b1969e22d657e
+pinback 20100703 cmc34 t10.flac:80e4fcfd60ee7b1fb3e0c437290920fb
+pinback 20100703 cmc34 t11.flac:0c5c59aa62582be605f78e20aa161dda
+pinback 20100703 cmc34 t12.flac:1f50514c71a59e1df9ab61d398684b29
+pinback 20100703 cmc34 t13.flac:00f8f682b9dbd58c406826d0148e4a40
+pinback 20100703 cmc34 t14.flac:35bc23118effe22e9b486931e2fb3bc6
+pinback 20100703 cmc34 t15.flac:f20270b53ab4f35ca8992b144c4f232a
+pinback 20100703 cmc34 t16.flac:e7f6de79fc4ae55009a68292b508023d
+pinback 20100703 cmc34 t17.flac:7bdaa1abfff69a8937685f473bc498c4
+pinback 20100703 cmc34 t18.flac:8d1a16701ae0f21bac0f259d20f69878
+pinback 20100703 cmc34 t19.flac:0a58d050935562a374c43fc48f2d60fe
+pinback 20100703 cmc34 t20.flac:a6e19b037b105f330c69bf34ef675531
+pinback 20100703 cmc34 t21.flac:559de83962f91d3cc035ea5ec972e177

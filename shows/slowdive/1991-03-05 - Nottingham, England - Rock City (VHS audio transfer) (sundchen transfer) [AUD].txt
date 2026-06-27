@@ -1,0 +1,28 @@
+foobar2000 1.4.6 / Dynamic Range Meter 1.1.1
+log date: 2019-07-15 21:19:25
+
+--------------------------------------------------------------------------------
+Analyzed: Slowdive / 1991-03-05 Rock City, Nottingham
+--------------------------------------------------------------------------------
+
+DR         Peak         RMS     Duration Track
+--------------------------------------------------------------------------------
+DR9       -1.93 dB   -12.23 dB      6:22 01-Shine
+DR9       -2.25 dB   -11.96 dB      6:07 02-Slowdive
+DR9       -1.61 dB   -11.71 dB      4:43 03-Catch the Breeze
+DR8       -1.91 dB   -10.87 dB      5:16 04-Avalyn
+DR9       -1.58 dB   -11.56 dB      5:25 05-Morningrise
+DR9       -1.35 dB   -11.20 dB      5:49 06-Colors in Spin
+DR9       -1.62 dB   -11.20 dB      5:49 07-She Calls
+--------------------------------------------------------------------------------
+
+Number of tracks:  7
+Official DR value: DR9
+
+Samplerate:        44100 Hz
+Channels:          2
+Bits per sample:   16
+Bitrate:           672 kbps
+Codec:             FLAC
+================================================================================
+

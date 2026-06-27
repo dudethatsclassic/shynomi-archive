@@ -1,0 +1,49 @@
+Band: Chris Cornell
+Title: Whole Lotta Cornell
+Date: August 30th 2007
+City: Helsinki, Finland
+Venue: Icehall
+
+Taper: Borlag
+Lineage: Church Audio STC-11 > ST-9100 > Edirol R-09 (24Bit/48KHz) > USB 2.0 > WAV > mastering > R8Brain (dithering & downsampling to 16/44.1) > CDwave (tracking) > TLH > FLAC lvl6
+
+Disc 1:
+01 - Intro
+02 - Let Me Drown
+03 - Outshined
+04 - Show Me How To Live
+05 - You Know My Name
+06 - No Such Thing
+07 - Say Hello To Heaven
+08 - What You Are
+09 - Rusty Cage
+10 - You Know My Name (acoustic fake start)
+11 - Billie Jean (acoustic)
+12 - Fell On Black Days (acoustic)
+13 - Blow Up The Outside World (acoustic)
+14 - All Night Thing (acoustic)
+15 - Doesn't Remind Me (part acoustic, includes "original groovy" version)
+
+Disc2:
+01 - Cochise
+02 - Arms Around Your Love
+03 - Black Hole Sun
+04 - Spoonman (with drum solo)
+05 - crowd (waiting for encore)
+06 - Silence The Voices
+07 - Like A Stone
+08 - Slaves And Bulldozers (with drum solo)
+09 - Whole Lotta Love
+
+
+	Show notes:
+The venue was maybe half full at best, no opening act. Amusingly enough, half of the audience seemed to only react to Cornell's solo and Audioslave songs, while the other half only reacted to Soundgarden. Wonder if those people even realized what they were going to see?
+
+	Recording notes:
+First time ever recording with my brand new Edirol R-09 and the Church Audio cardioids and the preamp which I received on the same day as the show was. Was a bit nervous on how it goes since I didn't have a chance to test them before the show at all. In the end though I'm more than happy with the sound quality of the rig. I set the R-09 levels to 8 and handled the recording levels entirely from the preamp which was set at around +16-18dB at its final position. No roll-off used.
+
+I was located dead center of the venue, about 3 meters in front of the soundboard. Initially I was a bit to the side but it started to get a bit too crowded there so I relocated during Drown Me In You, which is audible as quite distinct sound change. Despite changing the spot, there was still some people shifting about and as such there's some slight phasing here and there. I'm usually very picky about that in recordings, be it my own or other peoples, and I have to admit that apart from the spot where I relocated, it doesn't bother that much at all.
+
+As usual, I chose not to do any equalization at all to this recording as everyone has their own preferences in how they want the shows to sound, and quite frankly I'm not that good at the mastering phase to begin with. All that's done to it is normalizing in Adobe Audition
+
+- Borlag on August 29th 2007

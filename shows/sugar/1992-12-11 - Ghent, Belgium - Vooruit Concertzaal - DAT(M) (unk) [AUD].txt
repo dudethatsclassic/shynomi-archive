@@ -1,0 +1,25 @@
+Sugar - 1992 12 11 Gent
+
+Notable for the large number of non-album tracks and 27 minute version of Tilted!
+
+1.The Act We Act
+2. A Good Idea
+3. Changes
+4. Running Out Of Time
+5. Where Diamonds Are Halos
+6. Hoover Dam
+7. Sapphire Capital
+8. After All The Roads Have Led To Nowhere
+9. Frustration
+10. Slick
+11. Anyone
+12. Clownmaster
+13. Come Around
+14. Tilted > Jam
+15. Man On The Moon
+
+Images from the show:
+https://www.gettyimages.dk/detail/news-photo/studio-portrait-of-sugar-bob-mould-vooruit-gent-belgium-11-news-photo/1265049441
+https://www.gettyimages.fr/detail/photo-d'actualit%C3%A9/sugar-bob-mould-vooruit-gent-belgium-11-december-photo-dactualit%C3%A9/1265049581
+
+Lineage: DAT Master > 2nd gen tape > Tascam 202MKVII USB out > CDWAV > Audacity (normalization, fades, merges, noise reduction) > CDWAV (splits) > DBPowerAmp (FLAC)

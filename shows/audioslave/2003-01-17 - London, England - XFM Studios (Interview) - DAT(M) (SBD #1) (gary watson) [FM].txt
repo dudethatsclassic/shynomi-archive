@@ -1,0 +1,44 @@
+Audioslave
+16th January 2003
+XFM Studios
+London, England
+
+SETLIST (21:20)
+-----------------
+01. DJ chat
+02. first Audioslave gig / first UK RATM gig / combined histories / jamming with Chris
+03. Rick Rubin / business bullshit / early album listens / Euphoria Morning
+04. initial jam sessions / Chris at rehearsals / musical chemistry / Chris's "dark cloud" / band name
+05. old songs and Funkadelic / politics / song titles and single choices / Letterman and Astoria
+
+GENERATION
+-----------------
+DAT(M) -> FLAC
+
+SOURCE (SBD #1)
+-----------------
+SBD -> unknown Yamaha "Natural Sound" FM receiver -> Tascam DA-20 MkII -> DAT(M) (44kHz/16bit)
+
+TRANSFER
+-----------------
+DAT(M) -> Tascam DA-20 MkII -> M-Audio Audiophile 2496 (digital coax) -> WAV (44kHz/16bit) 
+-> Adobe Audition 2017 (edits/amplify) -> CDWave (splits) -> foobar2000 -> FLAC(8)
+
+NOTES
+-----------------
+Interview between DJ Zane Lowe, and Tom Morello and Tim Cummerford.
+Broadcast date was 17th January, but recorded the day before.
+Some constant light background static due to medium-strength signal.
+All official content removed.
+
+FLAC FINGERPRINTS
+-----------------
+audioslave-2003-jan-17-fm-interview-t01.flac:818db9cc2ae287a238d95ce7e74e72af
+audioslave-2003-jan-17-fm-interview-t02.flac:3de86748de1be4f0f3c9494f07e884ea
+audioslave-2003-jan-17-fm-interview-t03.flac:f8c7078fe4a28f33e7b5edef7cd74df4
+audioslave-2003-jan-17-fm-interview-t04.flac:f1c965c10692730689b2ab24f17770dc
+audioslave-2003-jan-17-fm-interview-t05.flac:383198c51cc80d180f4da31536a3c9f9
+
+Taped, transferred & mastered by: Gary Watson (packetboatlane@yahoo.co.uk)
+
+DO NOT SELL, OR DISTRIBUTE IN LOSSY FORMATS!

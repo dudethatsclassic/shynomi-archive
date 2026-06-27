@@ -1,0 +1,5 @@
+Swervedriver1994-01-28Club Babyhood, Providence, Rhode Island, USsource: audience analog ? gen
+transfer (2006):Nakamichi Dragon>Sony PCM-M1@48khz>Otari DTR-8S (passthrough)>Hosa coax>Calrad 10-110>Hosa OPM-330>2x2.5 G5>Audio Recorder 1.4>Audacity 1.2.4>xACT 1.5b4>flac8w/verify
+preparation for torrenting (2023-05-08): Audacity (downsample to 44.1kHz, split into tracks) > xAct (fix sbe, Flac)01 Planes Over The Skyline02 Duel03 She's Beside Herself04 Son Of Mustang Ford05 Rave Down06 Duress(37:56)
+
+Shared on Dime on 2023-05-08 by Aaron (supahstah)

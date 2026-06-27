@@ -1,0 +1,60 @@
+Primus
+2010-07-31
+GOTV, Seaside Park,
+Bridgeport, CT
+
+source: FM
+
+lineage: WPKN simulcast>harmon/kardon avr-125 receiver>
+hd-p2 24/96>pc>cd wave>adobe audition 2.0 16/44.1>flac
+recorded & seeded by Rob Berger
+
+disc one: 60:23
+
+01 - intro music
+02 - To Defy The Laws Of Tradition
+03 - In The Flesh
+04 - Here Come the Bastards 
+05 - American Life
+06 - Duchess and the Proverbial Mind Spread
+07 - Coat Tails Of A Dead Man
+08 - Bob
+09 - Jerry Was A Race Car Driver
+10 - Over the Electric Grapevine
+
+disc two: 54:09
+
+01 - Behind My Camel
+02 - Groundhogs Day
+03 - Drums> Jam
+04 - Eleven
+05 - Frizzle Fry
+06 - Harold Of The Rocks
+07 - Over The Falls
+08 - Those Damned Blue Collar Tweekers*
+
+notes: *last 4 min's tacked on from aud:
+	thanks to the taper
+	MBHO603a/KA200N > Fostex FR2-LE,
+	disc change is seemless
+
+primus2010-07-31d1t01.flac:3c075a276dd0ced02c601e34f481f45b
+primus2010-07-31d1t02.flac:0802a738b948c3f1b897b53e381addde
+primus2010-07-31d1t03.flac:51ee88cff2873726f033d6c4ac694ba5
+primus2010-07-31d1t04.flac:d730cb75c4ee31ec9d03d6619e5664a1
+primus2010-07-31d1t05.flac:044f1c3c589a65207d0e19b6ff7d94ce
+primus2010-07-31d1t06.flac:6173132d87a07653a451a122d1804502
+primus2010-07-31d1t07.flac:c4b8a3e8e76a61c1a707ada92651f9cc
+primus2010-07-31d1t08.flac:748a0928ef13231bd2397605da6bd2cb
+primus2010-07-31d1t09.flac:768ee21d34105f5f70a64d1ec3e3a3f7
+primus2010-07-31d1t10.flac:63aa70f1f927f79fc5e69d8b52b6a1d6
+primus2010-07-31d2t01.flac:1c1e660d3f56bd18293bc65e0478ec35
+primus2010-07-31d2t02.flac:f6c9d7d6d48e39f8a677cc3c79ea2fd3
+primus2010-07-31d2t03.flac:b08896bbbf58b3b61fa8da51576c3ff2
+primus2010-07-31d2t04.flac:5fccf7f248a60474f6147ba39d9415ab
+primus2010-07-31d2t05.flac:91a2a78735315411940d174e9c3df926
+primus2010-07-31d2t06.flac:6d435cb617e928c05c6413e201178202
+primus2010-07-31d2t07.flac:f8c47c1fff97d079165f2a7d86d7d0b5
+primus2010-07-31d2t08.flac:2bc6185d7816a5e7d6821b61b774c8d6
+
+	

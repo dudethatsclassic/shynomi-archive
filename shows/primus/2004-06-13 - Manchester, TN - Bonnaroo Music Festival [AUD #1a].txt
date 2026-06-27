@@ -1,0 +1,59 @@
+Primus
+2004-06-13
+Which Stage
+Bonnaroo Music Festival
+Manchester
+Tennessee
+USA
+
+Source:  Schoeps MK4V > KC5 > CMC6 > Sonosax > SBM-1 > D8 > DAT (master) > MIT SPDIF > M-Audio Delta DiO 2496 > Samplitude 2496 v5.55 > CD Wave > .flac
+
+Taped by: funkyoctopus@shns.net (w/ special thanks to Bear for providing the rig)
+
+1. To Defy The Laws Of Tradition
+2. American Life
+3. Toys Go Winding Down
+4. Groundhog’s Day
+5. My Friend Fats %
+6. Jerry Was A Race Car Driver
+7. Over The Electric Grapevine
+8. De Anza Jig
+9. Mr. Krinkle
+10. Drums
+11. YYZ
+12. Those Damn Blue-Collar Tweekers #
+13. Lone Rhinocerous #
+14. Thela Hun Ginjeet #
+15. Frizzle Fry
+16. Harold Of The Rocks
+17. Tommy The Cat (encore)
+
+* show was billed as late night 2004-06-12, but Primus did not take stage until after 1 a.m. or so on 2004-06-13.
+% brief cut in Fats due to changing batteries in the SBM-1.
+# w/ Adrienne Belew on guitar (King Crimson)
+
+Reseeder's (rappard@gmail.com) notes on 2006-06-13:
+- One of the better Primus audience recordings around, reseeding it on its second birthday
+- Renamed files to conform to etree guidelines
+- Generated and added md5 file
+- Moved fingerprints to text file
+- Slightly edited text file
+==========================================================================
+primus2004-06-13mk4v01.flac:e0504d6451352eb1714f01ec2715ef95
+primus2004-06-13mk4v02.flac:807b2f97f49dc756e66f67f26ce8efdb
+primus2004-06-13mk4v03.flac:588e587c9f2ec7c14e7834f1f32a1ebc
+primus2004-06-13mk4v04.flac:852dac2aeba35e4087aade8ccc97345c
+primus2004-06-13mk4v05.flac:478f2d71675f63d3fecf909af08bfd7b
+primus2004-06-13mk4v06.flac:d3752a776537e73e60ec9f78f17a3fa9
+primus2004-06-13mk4v07.flac:e19a8a675ceadb7eac9b59776c5ce6b5
+primus2004-06-13mk4v08.flac:b7e064b3f128cf78aaf9a5caf52b34c3
+primus2004-06-13mk4v09.flac:ecfd4457f4ff300593c00f0eb22dff3a
+primus2004-06-13mk4v10.flac:12790949bfd146d6f1202da5efafe37e
+primus2004-06-13mk4v11.flac:829b4f6858838b8e1f0504ebf39b4ce3
+primus2004-06-13mk4v12.flac:1b44d2e52316aa1d9d23ad554140a5db
+primus2004-06-13mk4v13.flac:f392f507761630cb9ca4850935ae3acb
+primus2004-06-13mk4v14.flac:72a84bddae6ba17c58e11e7133f65fc0
+primus2004-06-13mk4v15.flac:c0058fc1e17776d7659b4f5a099b2f9c
+primus2004-06-13mk4v16.flac:f5f0aa3e8b5bc6ff4784085c2d73255c
+primus2004-06-13mk4v17.flac:b213aa39540f2d97ba0d074170ec7c17
+==========================================================================

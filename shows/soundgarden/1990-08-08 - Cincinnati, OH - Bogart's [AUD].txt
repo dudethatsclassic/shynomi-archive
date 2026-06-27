@@ -1,0 +1,20 @@
+Soundgarden
+August 8, 1990
+Bogart's
+Cincinnati, OH
+
+?>trade cdr>wav(EACsecure)>flac(TLH)
+time - 50:55
+
+01 intro (subliminal message)
+02 Beyond The Wheel
+03 Flower 
+04 Gun 
+05 Loud Love
+06 Big Dumb Sex
+07 Hunted Down
+08 Full On Kevin's Mom
+09 Ugly Truth
+10 All Your Lies
+11 I Awake (cut)
+12 (cut) Hands All Over

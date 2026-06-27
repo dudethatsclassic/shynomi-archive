@@ -1,0 +1,50 @@
+SONIC YOUTH
+September 26, 1992
+Castaic Lake Amphitheatre
+Castaic, CA
+
+SETLIST (70:29)
+-----------------
+01) Kool Thing (cuts in)
+02) The Burning Spear
+03) Shoot
+04) Sugar Kane
+05) Mote
+06) Theresa's Sound-World
+07) Youth Against Fascism
+08) Swimsuit Issue
+09) Drunken Butterfly
+10) White Kross
+11) Teenage Riot
+12) JC
+13) Expressway To Yr Skull
+14) Nic Fit
+
+GENERATION
+-----------------
+DAT(1) > WAV [48kHz] > WAV [44.1kHz] > FLAC [Level 8]
+
+SOURCE
+-----------------
+soundboard > Sony TCD-D10
+
+MD5 FINGERPRINTS
+-----------------
+d45c981d9142c087c0ec90bd3f2bbfb3 *sonicyouth1992-09-26t01.flac
+29068b89eb3cdfab6bccc01040b1f526 *sonicyouth1992-09-26t02.flac
+87d2fe0bc9904c9f593d5c7948bd0827 *sonicyouth1992-09-26t03.flac
+d389a6de582caf415920ae54efb701e7 *sonicyouth1992-09-26t04.flac
+a5f1f3a941e9adb8fea559ade1899886 *sonicyouth1992-09-26t05.flac
+13af612a4fc4defb3a7e0e732018a788 *sonicyouth1992-09-26t06.flac
+b763b006db144b3dc6890138a264be8a *sonicyouth1992-09-26t07.flac
+27a83a6e1a693a6687f6ec2a7e874b7d *sonicyouth1992-09-26t08.flac
+f9df2450aafc9d6642b3dbaf55e80991 *sonicyouth1992-09-26t09.flac
+866a084a4b49f200f2bbe72361556ce5 *sonicyouth1992-09-26t10.flac
+7ae6a108e7731b46e617525c08b9c676 *sonicyouth1992-09-26t11.flac
+e2167c682e399d3bfbf40d1dd41091f8 *sonicyouth1992-09-26t12.flac
+2eaa5138ac9cd60138e52b04c66df819 *sonicyouth1992-09-26t13.flac
+df693eec33f6e6c6b9e7744908a0a52b *sonicyouth1992-09-26t14.flac
+
+
+Transferred by JEMS. Edited and tracked by Mike Ziegler.
+PLEASE DO NOT ENCODE TO MP3 OR SELL!

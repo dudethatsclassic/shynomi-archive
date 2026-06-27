@@ -1,0 +1,64 @@
+Rage Against The Machine
+16 May 1996
+Copenhagen, Denmark
+Live at Den Grå Hall
+From VHS(1)
+
+Filmed by RN, VHS from Metallican
+
+_________________________________________
+
+
+1. People Of The Sun
+2. Know Your Enemy
+3. Bulls On Parade
+4. Vietnow
+5. Bombtrack
+6. Without A Face
+7. Fistful Of Steel
+8. Down Rodeo
+9. Bullet In The Head
+10. Tire Me
+11. Killing In The Name
+
+_________________________________________
+
+No menu or chapter here, feel free to create your own menu but
+filmer and metallican must be credited. I didnt see this on any 
+list so I thought I should upload it here. Enjoy
+
+_________________________________________
+
+Video Attributes:
+  Video compression mode: MPEG-2
+  TV system: 625/50 (PAL)
+  Aspect Ratio: 4:3
+  Display Mode: Both Pan&scan and Letterbox
+  Source picture resolution: 720x576 (625/50)
+  Frame Rate: 25.00
+  Source picture letterboxed: Letterboxed
+  Bitrate: 8.14Mbps
+
+Audio Attributes: 
+  Audio Coding mode: LPCM
+  Sampling Rate: 48kHz
+  Audio application mode: Not Specified
+  Number of Audio channels: 2.0
+  Bitrate: 1536 Kbps
+  Number of Audio streams: 1
+
+_________________________________________
+
+124c812611f036e37e76de81faa8a94c *VIDEO_TS.BUP
+124c812611f036e37e76de81faa8a94c *VIDEO_TS.IFO
+774703b2abe6f493cce1fe86ab9555c3 *VIDEO_TS.VOB
+872d60c2142584311cd0a3b2b89aa5d1 *VTS_01_0.BUP
+872d60c2142584311cd0a3b2b89aa5d1 *VTS_01_0.IFO
+fe7843d3352a32a4fa39871dfe258d14 *VTS_01_0.VOB
+31a9e2f8f8d5c5beae4b660d79384d95 *VTS_01_1.VOB
+42439640aa23a0a4a398a52fdb4bf1ed *VTS_01_2.VOB
+8d886011bd45145e6cb3af9ecf1cb0b1 *VTS_01_3.VOB
+df10d40077a965f9c4e77ade9a46c9ae *VTS_01_4.VOB
+dd8bfc63ea1e8d3f9f62e73ce706a1d0 *VTS_01_5.VOB
+
+_________________________________________

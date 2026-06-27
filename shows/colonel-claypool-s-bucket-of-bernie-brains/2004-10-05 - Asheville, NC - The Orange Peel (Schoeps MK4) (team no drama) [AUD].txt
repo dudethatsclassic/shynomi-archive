@@ -1,0 +1,45 @@
+col. claypool's bucket of bernie brains
+05 october 2004
+the orange peel
+asheville, nc
+
+location:	fob, just in font of SBD, slightly to right of center; on stand approx. 6'
+
+source:	schoeps mk4 (ortf) -> kc5 -> cmc6 -> apogee ad1000- > sony D7 @ 48 kHz 16 bit
+
+transfer:	tascam da30 -> sd 744t -> external card reader -> usb-c -> alienware aurora r13
+
+edits:	channels summed & balanced, fades added, normalized, flac'd & track split in magix sound forge 16.1.1;
+		flac files tagged using foobar2000
+
+taped by:	team no drama
+
+contact jadedphan@hotmail.com with questions, concerns, or complaints
+
+01. crowd
+02. bernie solo ->
+03. hip shot from the slab
+04. junior
+05. thai noodles
+06. elephant ghost ->
+07. calling kyle ->
+08. drums & whamola ->
+09. ignorance is bliss ->
+10. scott taylor
+11. encore break:
+12. buckethead's solo ->
+13. tyranny of the hunt
+
+c2b3 2004-10-05_fob mk4_t01.flac:9988298fe24da7d6c003d1332135d0ec
+c2b3 2004-10-05_fob mk4_t02.flac:d17d74712ff6135f7fc699c019f668eb
+c2b3 2004-10-05_fob mk4_t03.flac:95bd2e5cee778bce8f8f4b1a2f117b32
+c2b3 2004-10-05_fob mk4_t04.flac:06a6bb427fc5735a129d0326935bc10e
+c2b3 2004-10-05_fob mk4_t05.flac:f6f53aad92b9ccf6832589346c5e8c6a
+c2b3 2004-10-05_fob mk4_t06.flac:9a4df196ccb97e51d2cbe0446c495b0b
+c2b3 2004-10-05_fob mk4_t07.flac:57ad756d9cd97a1246eb91c22eed360a
+c2b3 2004-10-05_fob mk4_t08.flac:be3a08803767c6bd1e0ca692d8adb48a
+c2b3 2004-10-05_fob mk4_t09.flac:17cfadfe065e5a5f96a36832bd67406c
+c2b3 2004-10-05_fob mk4_t10.flac:c904151397d93276d17b8ac49b65381b
+c2b3 2004-10-05_fob mk4_t11.flac:584dafc25b759b02b97abc9f31692b0c
+c2b3 2004-10-05_fob mk4_t12.flac:14f9abb0490f908589ee939b2d28c4c9
+c2b3 2004-10-05_fob mk4_t13.flac:31cd319709e1fff36677bae30d00d13e

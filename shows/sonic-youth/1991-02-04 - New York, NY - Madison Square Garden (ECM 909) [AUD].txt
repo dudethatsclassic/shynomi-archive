@@ -1,0 +1,25 @@
+Sonic Youth
+Madison Square Garden, NYC
+February 4, 1991
+
+Recording info:
+Sony ECM 909 > Sony D6 Cassette Master
+
+Pedigree:
+Cassette master > DAT @ 16bit/48kHz
+- unknown A > D gear used
+
+Processing:
+Tascam DA-302 > Tascam DR100 MKII > Adobe Audition > CDWAV > TLH FLAC 8
+- these are 16bit/48kHz FLAC Files 
+
+
+01. Eric’s Trip (Clipped at start)
+02. Brother James 
+03. Tunic 
+04. Dirty Boots 
+05. Catholic Block 
+06. Kool Thing 
+07. Expressway to Yr Skull
+
+- missing 'Tom Violence' set opening song  

@@ -19,9 +19,10 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "El Monte, CA",
       "venue": "Shamus O'Brien's",
-      "notes": "ANA(M) · unk",
+      "notes": "ANA(M) \u00b7 unk",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1983-10-12 - El Monte, CA - Shamus O'Brien's - ANA(M) (unk) [AUD].txt"
     },
     {
       "year": 1993,
@@ -32,9 +33,10 @@ const ARTIST_DATA = {
       "state": "Denmark",
       "location": "Roskilde, Denmark",
       "venue": "Roskilde Festival",
-      "notes": "VHS(1) · rolling rockvideos",
+      "notes": "VHS(1) \u00b7 rolling rockvideos",
       "version": "AMT #1",
-      "format": "MKV"
+      "format": "MKV",
+      "textFile": "1993-07-03 - Roskilde, Denmark - Roskilde Festival - VHS(1) (rolling rockvideos) [MKV].txt"
     }
   ],
   "misc": []

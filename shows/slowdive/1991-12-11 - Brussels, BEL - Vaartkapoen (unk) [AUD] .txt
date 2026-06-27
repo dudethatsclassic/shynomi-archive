@@ -1,0 +1,30 @@
+foobar2000 1.4.6 / Dynamic Range Meter 1.1.1
+log date: 2019-07-15 21:21:29
+
+--------------------------------------------------------------------------------
+Analyzed: Slowdive / 1991-12-11 Vaartkapoen, Brussels
+--------------------------------------------------------------------------------
+
+DR         Peak         RMS     Duration Track
+--------------------------------------------------------------------------------
+DR11      -3.00 dB   -16.87 dB      4:45 01-Spanish Air
+DR12      -6.44 dB   -20.61 dB      4:10 02-Catch the Breeze
+DR13      -5.81 dB   -21.67 dB      3:26 03-Bleed
+DR12      -7.02 dB   -20.67 dB      5:04 04-Slowdive
+DR12      -6.33 dB   -21.29 dB      5:17 05-Ballad of Sister Sue
+DR13      -6.26 dB   -21.61 dB      4:42 06-Morningrise
+DR11      -5.09 dB   -18.11 dB      5:51 07-She Calls
+DR12      -4.63 dB   -20.35 dB     12:06 08-Avalyn 2
+DR12      -6.41 dB   -21.64 dB      6:21 09-Jazz Odeon
+--------------------------------------------------------------------------------
+
+Number of tracks:  9
+Official DR value: DR12
+
+Samplerate:        44100 Hz
+Channels:          2
+Bits per sample:   16
+Bitrate:           832 kbps
+Codec:             FLAC
+================================================================================
+

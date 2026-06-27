@@ -1,0 +1,23 @@
+Husker Du - 1983 12 16 Love Hall, Philadelphia, PA, USA
+
+1 Something I Learned Today
+2 It's Not Funny Anymore
+3 From the Gut
+4 Wheels
+5 Everything Falls Apart
+6 Chartered Trips
+7 Sunshine Superman (Donovan cover)
+8 Eight Miles High (The Byrds cover)
+9 Broken Home, Broken Heart
+10 Diane
+11 What's Going On?
+12 Masochism World
+13 Bricklayer
+14 What Do I Want?
+15 Pride
+16 Data Control
+17 Punch Drunk
+18 Out on a Limb
+ 
+Lineage: Soundboard Master > Unknown Gen > Tascam 202MKVII USB out > CDWAV > Audacity (normalization, fades, merges, noise reduction) > CDWAV (splits) > DBPowerAmp (FLAC) [loughney xfer]
+

@@ -1,0 +1,70 @@
+GBV - 2014 06 03 @ The Waiting Room, Omaha NE	
+
+Recording note:
+There was a glitch with the recorder (loose cable / battery box) that caused some problems in the middle of the set. Problems from 54 -64 minutes, and 68 - 70 minutes - tracks 23-29.
+
+Mastering Note:
+I ran a click remover to get rid of most of the bad digital glitches betwee 54 minutes and 70 minutes of the show.  I then went through and limited all of the glitch volumes to the rest of the audio.  From there, I removed some digital glitches by deleting them (most were 1/10th of a second).  A "Bird With No Name",  "The Challenge Is Much More", "Alex and the Omegas" and "All American Boy" had some large silent patches, so I patched in the audio from an unknown lineage from Headlines, Louisville from 30 Aug 2014 (since they are so rarely played).  Songs marked with * had significant glitches, and those marked with ** had chunks missing.  This show is now (mostly?) complete - some shows around the time did have 48 songs, so it is possible one more is missing from the middle while the recording rig was rebooted.
+
+Show review:
+"Guided By Voices returns to its drunken best" by Chris Aponick, June 9, 2014
+
+This time through Omaha, Robert Pollard and his Guided By Voices cohorts played for the diehard fans. The crowd for the iconic Ohio indie rock band’s Tuesday, June 3rd show at the Waiting Room Lounge, 6212 Maple St., was definitely trimmed down by the ongoing thunderstorms that day, but those that did show up seemed intent on matching the intensity and drunkenness of GBV. The band rocked out on a stage complete with beer cooler and several bottles of liquor. The band’s tequila bottle ended up passed around in the crowd, as Pollard served as the sometimes-profane, but always energetic ringleader through the band’s 50-song-plus set list. Pollard himself is a marvel. He looks more like your retired accountant uncle than a progenitor of lo-fi indie rock, but his energy doesn’t flag even when his sobriety might. It was a show so good that I didn’t feel like a missed the band’s heyday because it has definitely returned full-force.
+
+1 intro
+2 I Have Zero Elacicity in My Face
+3 Get Over It
+4 Hat of Flames
+5 Authoritazian Zoo
+6 ? You Could Have Gotten Them All
+7 Psychotic Crush
+8 Gold Start For Robot Boy
+9 These Dooms 
+10 Tables at Fool's Tooth
+11 Wished I Was a Giant
+12 Vote For Me Dummy
+13 Record Level Love
+14 Tractor Rape Chain
+15 Pan Swimmer
+16 The Head 
+17 Fast Crawl 
+18 Males of Wormwood Mars
+19 Ester's Day
+20 Buzzards and Dreadful Crows
+21 Littlest League Possible
+22 Fair Touching
+23 Xenia Pariah*  
+24 A Bird With No Name**  
+25 All American Boy**
+26 Alex and the Omegas**
+27 Teenage FBI*
+28 The Challenge Is Much More**
+29 Cut Out Witch*
+30 Spider Fighter 
+31 Gold Heart Mountain Top Queen Directory
+32 He Rises! Our Union Bellboy
+33 Cool Planet 
+34 No Transmission
+35 I Am A Scientist
+>> encore 1
+36 How I Met My Mother
+37 Echoes Myron
+38 Awful Bliss
+39 Exit Flagger 
+>> encore 2
+40 A Salty Salute
+41 A Good Flying Bird
+42 14 Cheerleader Coldfront
+43 Motor Away
+>> encore 3
+44 Pimple Zoo
+45 Quality of Armor
+46 Large Hearted Boy
+47 Smothered in Hugs
+
+Support:
+Bobby Bare Jr.
+
+Taper: sonictooth
+Mastering: loughney
+Lineage: Church Audio Mics > Church Audio Battery Box > EdirolR9 > WAV > SoundForge (click removal) > Audacity (mix alt source for tracks 23-29) > CDWAVE (splits) > FLAC

@@ -1,0 +1,68 @@
+Slowdive
+
+Venue;
+02 Acadamy
+
+Location;
+Cowley Rd, Oxford
+
+Date;
+2nd June 2017
+
+
+Taper; 
+Whiskybob
+
+Recorder; 
+Edirol R-09HR
+
+Mics; 
+CA11 Omnis > Batt Box
+
+Lineage; 
+Master > ACLAB 16 > Fade in/Out > Normalise to 95% > Wav > TLH > Flac(8)
+
+************************************************************************
+************************************************************************
+
+Set;
+Slowdive
+Catch the breeze
+Crazy for you
+Star roving
+Machine gun
+Souvlaki space station
+Avalyn
+When the sun hits
+Alison
+Sugar for the pill
+She calls
+Golden hair
+
+Slomo
+No longer making time
+40 days
+
+************************************************************************
+************************************************************************
+
+01.Slowdive.flac:43cf399d402f04950faed74c67ee82cd
+02.Catch the breeze.flac:b5643e4d976ee03ae46a8e7561b6885a
+03.Crazy for you.flac:81ec309ad4286af9434eae14990acb62
+04.Star roving.flac:2d6cde996abf506a28844c50478771f2
+05.Machine gun.flac:f84a5bdfdc38f1f655780eca9ac9d68f
+06.Souvlaki space station.flac:9a5fdff5dc5990feedaf73b450c02a6f
+07.Avalyn.flac:109ab594d31d743d0ac1d8cd3bbc6e8d
+08.When the sun hits.flac:4877ba927b91f57d1a22d6aaaf3e7021
+09.Alison.flac:0eafe0ac95a93a872b3bc220b6e4d79c
+10.Sugar for the pill.flac:006d41ff19242232371035d9290c67f6
+11.She calls.flac:5d7017ff3c06c3be0251e5a26457f1e3
+12.Golden hair.flac:d46c1ffed2ecc37ef57d5f5687f54524
+13.Slomo.flac:064496301de04f5f26b148a98d346046
+14.No longer making time.flac:0a6c9ec2dbc4f1004517ca5573539de2
+15.40 days.flac:472be407724ba4ccf90249eb36d94168
+
+************************************************************************
+************************************************************************
+
+The best thing to come out of Reading since Huntley & Palmers.

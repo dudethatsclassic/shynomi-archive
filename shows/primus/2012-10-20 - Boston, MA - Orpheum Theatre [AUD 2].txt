@@ -1,0 +1,108 @@
+Primus
+Orpheum Theatre
+Boston, Massachusetts
+10/20/2012
+
+Source: Schoeps CCM4V'S(din)>Sound Devices 722 (24/48)
+FOB/DRFC/KFC/ZFC/AARP Box E, Front Row, Seat 2, On The Rail
+DSP: Sound Devices 722>Sound Forge 9.0>CD Wave>flac(16)
+Recorded By: Z-Man
+Seeded By: Z-Man
+
+Disc I 1st Set
+
+01 *To Defy The Laws Of Tradition
+02 Fisticuffs
+03 Groundhogs Day
+04 Glass Sandwich Part I
+05 Glass Sandwich Part II
+06 Eternal Consumption Engine
+07 Mr. Krinkle
+08 Spaghetti Western
+09 Moron TV
+10 Harold On The Rock >
+11 Hello Skinny >
+12 Harold On The Rock
+
+Disc II 2nd Set
+
+01 Return Of Sathington
+02 Eyes Of The Squirrel 
+03 Les Banter
+04 #Dirty Drowning Man >
+05 Southbound Pachyderm >
+06 Lee Van Cleef
+07 Hats Off
+08 Jilly's On Smack
+09 My Name Is Mud >
+10 Jerry Was A Racecar Driver
+Encore:
+11 Crowd:Primus Sucks
+12 Hamburger Train >
+13 Here Come The Bastards
+
+* Recording Started Half-Way Through The Opening Song.
+# First Time Ever Played
+
+Flac Fingerprint 
+
+primus2012-10-20d01t01.flac:f45da56f1457d2a718a81bdb3322e15b
+primus2012-10-20d01t02.flac:3fb003a5c5c92e2b561b9dff46b6e34b
+primus2012-10-20d01t03.flac:486d55972e95a69ab91fdac806b9704e
+primus2012-10-20d01t04.flac:9c3a7b92dea24b38560cf009a6d9b5dc
+primus2012-10-20d01t05.flac:5b86620d009cfaa172795497c2a23854
+primus2012-10-20d01t06.flac:1a92e05367961e2f849f78243fc2b1ec
+primus2012-10-20d01t07.flac:d4fd5e553901e7bbb4cda6eb8b92d368
+primus2012-10-20d01t08.flac:0a841d2babef7818a738bc9f5162aea2
+primus2012-10-20d01t09.flac:f72a4d8b6a75356f54eb28655a8093a3
+primus2012-10-20d01t10.flac:68bed340bdeb722e06e3901ee981399f
+primus2012-10-20d01t11.flac:f6347d35c08594f0eb37ce444d84f6e7
+primus2012-10-20d01t12.flac:cdfee841f49e38fbb6f5bdd52a1c680e
+primus2012-10-20d02t01.flac:e2771dbdd332940a50588cb55280dc91
+primus2012-10-20d02t02.flac:1af3a9a2070dcf644423c950fc1e0ac7
+primus2012-10-20d02t03.flac:56f9fc567ad18d96142bcb7d6bb7a2ae
+primus2012-10-20d02t04.flac:7d7c529473e3affe5062e31749c8e639
+primus2012-10-20d02t05.flac:bdf8a2dfd9f8e52e0815eb38cee0c428
+primus2012-10-20d02t06.flac:f73d325c191f1e67303415dc4507e9bd
+primus2012-10-20d02t07.flac:0baf9bae1435d7990f5f60ccb4156f4f
+primus2012-10-20d02t08.flac:c6ce18c00692c7bdd139eb75a5691385
+primus2012-10-20d02t09.flac:20d17851926bd2015d9c46bafb6d33f0
+primus2012-10-20d02t10.flac:8c9225d86d8b86d67602f4c50779fbe1
+primus2012-10-20d02t11.flac:b23258a15276b40caba77aa361ab0c75
+primus2012-10-20d02t12.flac:85768ae4226ae6108980aa8c60c74ade
+primus2012-10-20d02t13.flac:0cac80cb778aba72bfa5958f390d8775
+
+Shntool 
+
+    length     expanded size    cdr  WAVE problems  fmt   ratio  filename
+     5:37.13       59477420 B   ---   --   ---xx   flac  0.4479  primus2012-10-20d01t01.flac
+     7:03.22       74668988 B   ---   --   ---xx   flac  0.4877  primus2012-10-20d01t02.flac
+     8:36.63       91170620 B   ---   --   ---xx   flac  0.4993  primus2012-10-20d01t03.flac
+     2:51.65       30317324 B   ---   --   ---xx   flac  0.4656  primus2012-10-20d01t04.flac
+     3:28.68       36851180 B   ---   --   ---xx   flac  0.4657  primus2012-10-20d01t05.flac
+     3:14.19       34266332 B   ---   --   ---xx   flac  0.4663  primus2012-10-20d01t06.flac
+     5:24.32       57228908 B   ---   --   ---xx   flac  0.4496  primus2012-10-20d01t07.flac
+     7:51.19       83129132 B   ---   --   ---xx   flac  0.5337  primus2012-10-20d01t08.flac
+     6:35.69       69840332 B   ---   --   ---xx   flac  0.4965  primus2012-10-20d01t09.flac
+     8:39.19       91596332 B   ---   --   ---xx   flac  0.4751  primus2012-10-20d01t10.flac
+     4:36.37       48773468 B   ---   --   ---xx   flac  0.4487  primus2012-10-20d01t11.flac
+     1:28.36       15607916 B   ---   --   ---xx   flac  0.4482  primus2012-10-20d01t12.flac
+     3:43.60       39478364 B   ---   --   ---xx   flac  0.4271  primus2012-10-20d02t01.flac
+     7:52.07       83277308 B   ---   --   ---xx   flac  0.4618  primus2012-10-20d02t02.flac
+     1:45.55       18651404 B   ---   --   ---xx   flac  0.3740  primus2012-10-20d02t03.flac
+     4:34.16       48371276 B   ---   --   ---xx   flac  0.4962  primus2012-10-20d02t04.flac
+    11:35.25      122656844 B   ---   --   ---xx   flac  0.4676  primus2012-10-20d02t05.flac
+     4:44.21       50147036 B   ---   --   ---xx   flac  0.5005  primus2012-10-20d02t06.flac
+     4:22.39       46308572 B   ---   --   ---xx   flac  0.4775  primus2012-10-20d02t07.flac
+     8:27.02       89439548 B   ---   --   ---xx   flac  0.4359  primus2012-10-20d02t08.flac
+     7:06.11       75172316 B   ---   --   ---xx   flac  0.4611  primus2012-10-20d02t09.flac
+     3:21.33       35534060 B   ---   --   ---xx   flac  0.5242  primus2012-10-20d02t10.flac
+     0:34.32        6072908 B   ---   --   ---xx   flac  0.4773  primus2012-10-20d02t11.flac
+     5:45.47       60968588 B   ---   --   ---xx   flac  0.4727  primus2012-10-20d02t12.flac
+     4:28.60       47416364 B   ---   --   ---xx   flac  0.4617  primus2012-10-20d02t13.flac
+   133:49.45     1416422540 B                            0.4728  (25 files)
+
+
+
+
+

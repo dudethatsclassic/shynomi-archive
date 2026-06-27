@@ -1,0 +1,21 @@
+auCDtect: CD records authenticity detector, version 0.8.2
+Copyright (c) 2004 Oleg Berngardt. All rights reserved.
+Copyright (c) 2004 Alexander Djourik. All rights reserved.
+
+Detect mode (0..40 with 0 = most accurate):  8 (default)
+
+
+01 - Ugly Truth.wav:  track looks like CDDA with probability 100%.
+02 - Get on the Snake.wav:  track looks like CDDA with probability 100%.
+03 - Loud Love.wav:  track looks like CDDA with probability 100%.
+04 - Mood for Trouble.wav:  track looks like CDDA with probability 100%.
+05 - Flower.wav:  track looks like CDDA with probability 100%.
+06 - Nothing to Say.wav:  track looks like CDDA with probability 100%.
+07 - Gun.wav:  track looks like CDDA with probability 100%.
+08 - I Awake.wav:  track looks like CDDA with probability 100%.
+09 - Big Dumb Sex.wav:  track looks like CDDA with probability 100%.
+10 - Full on Kevin's Mom.wav:  track looks like CDDA with probability 100%.
+11 - Come Together.wav:  track looks like CDDA with probability 100%.
+12 - Beyond the Wheel.wav:  track looks like CDDA with probability 100%.
+13 - Hands All Over.wav:  track looks like CDDA with probability 100%.
+14 - Earache My Eye.wav:  track looks like CDDA with probability 99%.

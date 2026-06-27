@@ -1,0 +1,44 @@
+Tom Petty
+19920312
+Essen, Germany
+Grugahalle
+
+Source: Audience
+Lineage: Sony ECM 155 double mics > Battery Box > Sony DAT TCD3 > Midiman Audiophile 24/96 > Auditon (fade, normalize) > CDWave > TLH > FLAC
+Quality: 9 (9.5)
+Comments:
+Notes:
+  * volume/channel adjustments first 30 seconds or so
+  # 00:18 spectrally attenuated a bit of feedback
+  % 00:18-00:38 alt source
+
+  Set 1:
+01. Into The Great White Open                    04:41 *
+02. King's Highway                               03:06 #
+03. Too Good To Be True                          06:18
+04. I Won't Back Down                            03:45
+05. Free Fallin'                                 05:33
+06. American Girl                                05:08
+07. Psychotic Reaction                           07:45
+08. Benmont's Boogie >                           03:54
+09. Dragon's Guitar                              04:46
+10. Don't Come Around Here No More               08:48
+11. You Get Me High                              03:55
+12. The Damage You've Done                       04:38
+13. I'm Tired Joey Boy                           03:39
+14. A Face In The Crowd                          04:38
+15. Take Out Some Insurance                      05:35
+16. It'll All Work Out                           04:23
+17. Ballad Of Easy Rider                         02:44
+18. Call Me The Breeze                           03:17
+19. On The Road Again                            05:10
+20. Yer So Bad                                   03:19
+21. I'm Driven Down To Georgia                   06:21
+22. Love Is A Long Road                          04:06 %
+23. Refugee                                      07:33
+24. Runnin' Down A Dream                         05:06
+25. Learning To Fly                              04:45
+26. Come On Down To My House                     05:12
+27. Alright For Now                              02:42
+                                              ________
+                                              02:10:47

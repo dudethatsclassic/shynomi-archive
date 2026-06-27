@@ -1,0 +1,41 @@
+Toad the Wet Sprocket
+December 4th, 1997
+Page Auditorium, Duke University, Durham, NC
+
+Master:
+modified Core Sound Binaurals>D7
+by acidjack
+
+Conversion:
+DAT>FLAC ???
+FLAC>WAV>Sound Studio 2.2.4 (track, resample)>xACT 2.00a>FLAC
+10-band EQ - 40/80Hz -2dB, 10.2kHz/20.5kHz +2dB
+by Dave Mallick
+
+Disc 1 [50:32.06]
+01. Whatever I Fear                              [03:58.39]
+02. Something's Always Wrong                     [04:12.63]
+03. Way Away                                     [03:11.12]
+04. Butterflies                                  [05:31.09]
+05. Desire                                       [04:54.11]
+06. Dam Would Break                              [04:09.22]
+07. Good Intentions                              [03:21.73]
+08. All In All                                   [03:48.14]
+09. Nightingale Song*                            [03:59.61]
+10. Come Back Down                               [03:31.40]
+11. Little Heaven                                [05:38.62]
+12. Brother                                      [04:14.51]
+
+Disc 2 [47:20.48]
+01. Stupid                                       [03:50.01]
+02. Fly From Heaven                              [04:32.23]
+03. All I Want                                   [04:51.01]
+04. Fall Down                                    [06:14.70]
+05. Walk On The Ocean                            [03:13.26]
+06. Crazy Life                                   [05:24.25]
+07. Sir Duke                                     [05:03.59]
+08. E: Come Down                                 [03:44.16]
+09.    Rainbow Connection/Throw It All Away      [04:39.01]
+10.    I Will Not Take These Things For Granted  [05:47.51]
+   
+* with random fan on tambourine

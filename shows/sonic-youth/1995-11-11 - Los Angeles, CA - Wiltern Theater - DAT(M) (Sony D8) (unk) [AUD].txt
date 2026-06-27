@@ -1,0 +1,24 @@
+Sonic Youth - 1995 11 10 Wiltern Theater, Los Angeles, USA
+
+This is a great show.  Good bass, great atmosphere, good playing. This is one out of my current flood of SY shows that you should download, especially if you like Washing Machine shows.
+
+intro
+Cotton Crown 
+Tom Violence 
+Washing Machine 
+Saucer Like 
+Becuz 
+Bull in the Heather 
+Starfield Road 
+White Kross 
+Skip Tracer 
+Skink 
+Diamond Sea 
+Unwind 
+Teenage Riot 
+
+Openers:
+Mike Watt
+The Amps
+
+Lineage: Master Sony D8 DAT > T1 > Tascam 202MKVII USB out > CDWAV > Audacity (normalization, fades, merges, noise reduction) > CDWAV (splits) > DBPowerAmp (FLAC)

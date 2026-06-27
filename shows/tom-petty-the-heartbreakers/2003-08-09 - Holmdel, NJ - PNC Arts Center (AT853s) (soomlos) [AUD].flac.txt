@@ -1,0 +1,57 @@
+Tom Petty & The Heartbreakers
+PNC Arts Center
+Holmdel, New Jersey
+August 9, 2003
+
+01. American Girl
+02. You Don't Know How It Feels
+03. Love Is A Long Road
+04. Free Fallin'
+05. You Got Lucky
+06. I Won't Back Down
+07. Mary Jane's Last Dance
+08. band introduction
+09. The Last DJ
+10. Handle With Care
+11. A Woman In Love
+12. The Waiting
+13. Melinda
+14. Learning To Fly
+15. I'm Crying
+16. Refugee
+17. Runnin' Down A Dream
+18. You Wreck Me
+19. Baby, Please Don't Go
+
+Band Members
+Tom Petty - vocals, guitar, harp
+Benmont Tench - piano
+Scott Thurston - guitar, keyboards, harmonica, harmony vocals
+Steve Ferrone - drums
+Ron Blair - bass
+Mike Campbell - guitar
+
+source: soomlos
+at853's > spsb-1 > sony tcd-d8 > dat (48kHz)
+sony tcd-d8 > m-audio microtracker > usb > pc > sound forge 7.0 > cd wave > flac (16/44.1)
+
+ffp
+tompetty2003-08-09t01.flac:a54fcc32d17c8eb4730d9f9d14afd043
+tompetty2003-08-09t02.flac:107931c6268b914331e1056fa71d202d
+tompetty2003-08-09t03.flac:7f0cd356aeea4386d672615188f30b6b
+tompetty2003-08-09t04.flac:5e065030e538496709bcab272dbc029b
+tompetty2003-08-09t05.flac:ccb3d07c7675bf9a88103dbbdce1e734
+tompetty2003-08-09t06.flac:086ca6161a069c9a26cca50ad4e470fc
+tompetty2003-08-09t07.flac:2686e4f34978e8194c3a41619ee36244
+tompetty2003-08-09t08.flac:9cbf1bd96c235a9a1011adcfbb8e437a
+tompetty2003-08-09t09.flac:04e04d40f714ca0c6163b595e36d6688
+tompetty2003-08-09t10.flac:903ebba3688e51f103681c6df769f987
+tompetty2003-08-09t11.flac:ee00cc90ceab8abd375b2d1aec54998b
+tompetty2003-08-09t12.flac:8d0b8d0e4366a817f0461afb364d77ec
+tompetty2003-08-09t13.flac:fbbf05f9ac36d0e531d8c9b30983b89a
+tompetty2003-08-09t14.flac:aae7b486709d5c4a5a3f5ea2f8356546
+tompetty2003-08-09t15.flac:1d1ff1da9f71e0ad66dfd1060dfa6b70
+tompetty2003-08-09t16.flac:de1ff8f60c99a662241304d6ab5feed8
+tompetty2003-08-09t17.flac:5c2f5da29b7ebe8b8fd757bc52553cb9
+tompetty2003-08-09t18.flac:3df3bac649e8093c6ca93bb23345f35c
+tompetty2003-08-09t19.flac:264620cd4ddf7e10abeba55bdc1f9e3d

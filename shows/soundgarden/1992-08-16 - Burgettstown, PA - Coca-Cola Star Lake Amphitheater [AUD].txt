@@ -1,0 +1,52 @@
+Soundgarden
+Lollapalooza Festival
+Coca-Cola Star Lake Amphitheater
+Burgettstown, PA
+August 16, 1992
+
+** 16 BIT **
+
+Source:  Cassette master (unknown mics & recorder) > Cassette (1) > Cassette (2)
+Transfer:  Cassette (2) > Denon 790R > Kenwood A-522 amplifier > Kenwood GE-622 Equalizer > .WAV @ 16 bit/44.1 kHz
+Mastering:  .WAV > Sound Forge Pro 11.0 (Build 299) [WAVES C4 Multiband Parametric Processor (UNcompressor); minor edits, normalize, & 
+            fades] > CDWav (tracking) > Trader's Little Helper (level 5) > FLAC > TagScanner 6.0.18 (tagging) 
+Recorded by:  Unknown
+Transferred by:  Steve "ballsdeep" Hagar
+Mastered by:  Dennis Orr
+
+Setlist: (40:50)
+01 Intro
+02 Face Pollution
+03 Gun >
+04 Suicidal Jam >
+05 Room A Thousand Years Wide (1)
+06 Chat
+07 Drawing Flies
+08 Chat
+09 Cop Killer
+10 Rusty Cage
+11 Hey Jude Intro >
+12 Beyond The Wheel >
+13 Jesus Christ Pose
+
+(1) With unknown Saxophone player
+
+Chris Cornell – lead vocals & rhythm guitar
+Kim Thayil – lead guitar
+Ben Shepherd – bass & backing vocals
+Matt Cameron – drums & backing vocals
+
+Soundgarden1992-08-16t01.flac:e12288746922dc020e1303bdbfcb0d6e
+Soundgarden1992-08-16t02.flac:922aa89ecccf56457b0429feb2409c4c
+Soundgarden1992-08-16t03.flac:3305272ca6325bfab5a6fcb59a193159
+Soundgarden1992-08-16t04.flac:56281cb1cc39973ba628cf8b89703473
+Soundgarden1992-08-16t05.flac:83e64c07dd0430875482463f5da59e21
+Soundgarden1992-08-16t06.flac:f744feaf7b4cab41383bbf342846239f
+Soundgarden1992-08-16t07.flac:5aa43a534ce559340e94b48bb192392a
+Soundgarden1992-08-16t08.flac:359f6381f79914c3a4b71ef8b8269edb
+Soundgarden1992-08-16t09.flac:0f859150f5999b579697329a2ddd3c3f
+Soundgarden1992-08-16t10.flac:2f48d57b60b45f9d58cef83cb896feb3
+Soundgarden1992-08-16t11.flac:fd2f55a6632f81973a42a516cbcb833c
+Soundgarden1992-08-16t12.flac:bc47e7657987b9bb02ac9e1f84eeb39f
+Soundgarden1992-08-16t13.flac:36b0ecc7b4168ed82e3a8ced4f9b6ea1
+

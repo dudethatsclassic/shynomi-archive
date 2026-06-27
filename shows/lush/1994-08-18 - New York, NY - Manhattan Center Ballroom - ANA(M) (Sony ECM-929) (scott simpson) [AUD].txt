@@ -1,0 +1,34 @@
+Lush
+Manhattan Center Ballroom
+New York, NY, USA
+August 18, 1994
+
+AUD: Sony ECM-929 mic > Sony WM-D6 > analog master (Maxell MX-s 100)
+Transfer: analog master > BBE > hard drive > WAV
+Tracking: WAV > Audacity 3.7.5 > Trader's Little Helper 2.8.4 (Build 185) > FLAC (level 8, with checksums)
+
+Recording and Transfer: Scott Simpson
+Tracking: driffemall
+
+Great sounding audience recording, aside from some volume fluctuations at the beginning during Desire Lines, many thanks to the taper for sending this show to me!
+
+00. Undertow (Spooky Remix) [intro tape]
+01. Blackout
+02. Starlust
+03. Lit Up
+04. For Love
+05. The Childcatcher
+06. Kiss Chase
+07. Light from a Dead Star
+08. Lovelife
+09. Hypocrite
+10. Undertow
+11. De-Luxe
+12. Downer
+13. Baby Talk
+14. Desire Lines (volume fluctuations at the beginning)
+15. Sweetness and Light
+16. Thoughtforms
+17. Leaves Me Cold
+
+Enjoy, and do not distribute this in lossy format or sell!

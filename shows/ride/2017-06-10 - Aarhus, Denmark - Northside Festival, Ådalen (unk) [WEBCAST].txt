@@ -1,0 +1,24 @@
+Ride
+Northside Festival
+Ådalen, Aarhus, Denmark
+June 10, 2017
+
+Lineage: Dr.dk Live Stream -> Downloaded *.ts segments -> TSsplitter (join) -> Uncompressed.ts
+
+Video: H264 / 1280x720 / 3000 Kbps / 25 Fps
+Audio: AAC 2.0 / 128 Kbps / 48.0 KHz / Stereo
+
+Length: 01:05:10
+
+Setlist:
+01. Lannoy Point
+02. Charm Assault
+03. Seagull
+04. Like a Daydream
+05. Dreams Burn Down
+06. Leave Them All Behind
+07. ID
+08. All I Want
+09. Taste
+10. Vapour Trail
+11. Drive Blind

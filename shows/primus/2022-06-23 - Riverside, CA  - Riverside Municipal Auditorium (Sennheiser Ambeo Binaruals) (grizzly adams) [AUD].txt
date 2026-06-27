@@ -1,0 +1,54 @@
+Primus 
+June 23rd, 2022 (Thursday)
+Riverside Municipal Auditorium
+Riverside, California
+
+Recorded by Grizzly Adams
+Source:  Sennheiser Ambeo Binaural Headset > iPhone > Apogee MetaRecorder
+Transfer:  .WAV > RX9 > Wavepad > flac (8) via TLH
+
+Setlist:  2:10:35
+00 intro
+01 Those Damned Blue-Collar Tweekers > 
+02 Lacquer Head 
+03 Last Salmon Man
+04 The Seven
+05 Conspiranoia
+06 Over the Falls
+07 Lee Van Cleef
+08 Professor Nutbutter's House of Treats
+09 Shake Hands With Beef
+-intermission-
+10 A Farewell To Kings
+11 Xanadu
+12 Closer to the Heart
+13 Cinderella Man
+14 Madrigal
+15 Cygnus X-1
+-encore-
+16 American Life
+17 Follow The Fool
+18 Here Come The Bastards
+19 Wynona's Big Brown Beaver
+
+fingerprints:
+Primus2022-06-23t00 - intro.flac:aa9a9bd24c9874acf5ed3587ee269fdc
+Primus2022-06-23t01 - Those Damned Blue Collar Tweekers.flac:8b4a39e6634cbbba6953ab06a5935d2c
+Primus2022-06-23t02 - Lacquer Head.flac:1e8fb159b8f7648cb39b679c19515615
+Primus2022-06-23t03 - Last Salmon Man.flac:9517211f6782b21b0d3bdfffdaadec4a
+Primus2022-06-23t04 - The Seven.flac:ba68c538b97375555cfc40c86b51a04e
+Primus2022-06-23t05 - Conspiranoia.flac:3e28c67347dd4b03541b112460837568
+Primus2022-06-23t06 - Over the Falls.flac:bd0fcc5a120774bfd0f3e6e4a949cd4e
+Primus2022-06-23t07 - Lee Van Cleef.flac:1b971253de466b9b027c813217220a17
+Primus2022-06-23t08 - Professor Nutbutter's House of Treats.flac:727e84f0da78e3af17a30ab1dacf2497
+Primus2022-06-23t09 - Shake Hands With Beef.flac:9fe641bc7040728d0d1e3d884ebbffc3
+Primus2022-06-23t10 - A Farewell To Kings.flac:36b24b85206b9ffa3c752f5c4d6b5e4a
+Primus2022-06-23t11 - Xanadu.flac:f02688e7368f13c9ab1cb77799f3fa39
+Primus2022-06-23t12 - Closer To The Heart.flac:608fcf81ebd014e20f2762dc72d7afb2
+Primus2022-06-23t13 - Cinderella Man.flac:a90643a17ea034cfa9f2a824fdbf48bb
+Primus2022-06-23t14 - Madrigal.flac:6fc5d7d57620282860d3bf2cbcbfd9f5
+Primus2022-06-23t15 - Cygnus X-1.flac:5ff808b56652cf73061a2c6714eb385b
+Primus2022-06-23t16 - American Life.flac:444375cc77db99f92c90e5019a511a5d
+Primus2022-06-23t17 - Follow The Fool.flac:03560a95b714e5a15d53cc4851c0259c
+Primus2022-06-23t18 - Here Come The Bastards.flac:23aff385fb94f759eced7ffd2c92bc5f
+Primus2022-06-23t19 - Wynona's Big Brown Beaver.flac:d59847f50786939bbc4195b22ce4cc52

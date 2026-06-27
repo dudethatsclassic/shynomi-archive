@@ -1,0 +1,59 @@
+Primus
+November 25th, 1990 (Sunday)
+Effenaar
+Eindhoven, Netherlands
+
+*Fixed*
+
+Source:  unknown gen cassette > Philips CDR775 Audio CD Recorder > EAC V0.95 beta 4 > FLAC v1.1.4a (Transferred by mcmarkyv)
+Fix:  FLAC > .WAV > Wavepad Masters Edition (rejoin, speed/pitch adjust, amplify right channel, re-track) > flac (8) via TLH (LeifH June 2020)
+
+Setlist:  47:12
+01 The Jam/Going Down > 
+02 Pudding Time
+03 To Defy the Laws of Tradition
+04 The Toys Go Winding Down
+05 Frizzle Fry
+06 Mr. Knowitall
+07 Those Damned Blue-Collar Tweekers
+08 Spegetti Western
+09 Harold of the Rocks
+
+This show was running too fast and the right channel quieter than the left, so I adjusted the speed and pitch, then amplified the right channel.  The right channel is slightly distorted at times and had more hiss but I believe this is now more enjoyable.  This version sounds slightly better than the one streaming on toasterland, no heavy NR.  
+
+fingerprints:
+Primus1990-11-25t01 - The Jam.flac:2fee1bc4553a202e70475d8f9652ab2d
+Primus1990-11-25t02 - Pudding Time.flac:42d956a6130c2b185395ff8ff50dbdf1
+Primus1990-11-25t03 - To Defy the Laws of Tradition.flac:7132c87860ea1d813a9db775a172b1c4
+Primus1990-11-25t04 - The Toys Go Winding Down.flac:b30d805f17658e21e1ed8a57cfb07b12
+Primus1990-11-25t05 - Frizzle Fry.flac:0a2dc1e496f82fe18af091c7650430a6
+Primus1990-11-25t06 - Mr. Knowitall.flac:02f74145d6e2d069a2817687c3c763f1
+Primus1990-11-25t07 - Those Damned Blue Collar Tweekers.flac:5edc75eb171ee86c8d2a44d880d30bb2
+Primus1990-11-25t08 - Spegetti Western.flac:f9b43671a8ac9e59fbaf55b4f7c4d924
+Primus1990-11-25t09 - Harold of the Rocks.flac:1f806db75cb0d461a736e53ed2ebdf1b
+
+-----------------------------------------------------------------------------------------------------------
+
+Original info file:
+
+Linage: ?-generation Audio Cassette -> Philips CDR775 Audio CD Recorder -> EAC V0.95 beta 4 -> FLAC v1.1.4a
+
+Converted by mcmarkyv@hotmail.com
+
+www.toasterland.com:
+--------------------
+
+Show: 11/25/1990
+City: Eindhoven, The Netherlands
+Venue: Effenaar
+
+The Jam >
+Pudding Time
+To Defy the Laws of Tradition 
+The Toys Go Winding Down
+Frizzle Fry
+Mr. Knowitall
+Those Damned Blue-Collar Tweekers
+Spaghetti Western
+Harold Of The Rocks
+

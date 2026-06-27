@@ -1,0 +1,42 @@
+Ride
+1989-10-07 (7 Oct 1989)
+Co-Op Hall, Oxford 
+
+Source: Analog cassette tape (1)
+Transfer: Cass(1)>DAT@48kHz>Cooledit Pro (downsampled to 44.1Khz)>CDR
+
+Transferred by Guy, FLAC'd and seeded by Humbug
+
+1. Seagull
+2. Like A Daydream
+3. Silver
+4. Chelsea Girl
+5. Drive Blind
+6. Perfect Time 
+7. Close My Eyes
+8. Furthest Sense
+9. Dreams Burn Down
+10. Smile
+11. Ride Mind Fuck
+
+Notes:
+Reasonable (for the era) audience recording.
+From tapes I received from an old school trader / taper based in Oxford (M) in about 1991.
+Thanks to Guy for doing the tape transfer to CDR in 2004. Recent EAC logs included.
+
+FLAC Fingerprint: 
+
+ride1989-07-10t01.flac:753b36b54831ddca8a35c8c8d023b7e2
+ride1989-07-10t02.flac:110dac6561f62ee5cdc59ce0906ea1d8
+ride1989-07-10t03.flac:67facf8248a93754fff088e41b211fb2
+ride1989-07-10t04.flac:cbbd82cf4a618ad6745dfdaa4e927ee0
+ride1989-07-10t05.flac:4089515f811fb6a039b0a87c02560c68
+ride1989-07-10t06.flac:f25a8da49e232bdbf8ace7ebb275bb08
+ride1989-07-10t07.flac:05c6cb5fe538810c0f8f215f985fdf73
+ride1989-07-10t08.flac:3d0f9a3beed17dedf6a22d2c50052080
+ride1989-07-10t09.flac:28d9443a853f11ea4c1ea8b7d28b1ef6
+ride1989-07-10t10.flac:f2fb8dbbe9e51261fc7ba251e0e79a52
+ride1989-07-10t11.flac:486ce8eea0bf6419b91a7f1e41f6fba5
+
+** PLEASE DO NOT CONVERT TO MP3 **
+** PLEASE DO NOT PROFIT FROM THIS RECORDING **

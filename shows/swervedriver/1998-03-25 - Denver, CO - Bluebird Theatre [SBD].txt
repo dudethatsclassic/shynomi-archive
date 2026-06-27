@@ -1,0 +1,22 @@
+auCDtect: CD records authenticity detector, version 0.8.2
+Copyright (c) 2004 Oleg Berngardt. All rights reserved.
+Copyright (c) 2004 Alexander Djourik. All rights reserved.
+
+Detect mode (0..40 with 0 = most accurate):  8 (default)
+
+
+swervedriver1998-03-25.track01.wav:  track looks like CDDA with probability 100%.
+swervedriver1998-03-25.track02.wav:  track looks like CDDA with probability 100%.
+swervedriver1998-03-25.track03.wav:  track looks like CDDA with probability 100%.
+swervedriver1998-03-25.track04.wav:  track looks like CDDA with probability 99%.
+swervedriver1998-03-25.track05.wav:  track looks like CDDA with probability 100%.
+swervedriver1998-03-25.track06.wav:  track looks like CDDA with probability 85%.
+swervedriver1998-03-25.track07.wav:  track looks like CDDA with probability 100%.
+swervedriver1998-03-25.track08.wav:  track looks like CDDA with probability 99%.
+swervedriver1998-03-25.track09.wav:  track looks like CDDA with probability 99%.
+swervedriver1998-03-25.track10.wav:  track looks like CDDA with probability 100%.
+swervedriver1998-03-25.track11.wav:  track looks like CDDA with probability 100%.
+swervedriver1998-03-25.track12.wav:  track looks like CDDA with probability 87%.
+swervedriver1998-03-25.track13.wav:  track looks like CDDA with probability 100%.
+swervedriver1998-03-25.track14.wav:  track looks like CDDA with probability 100%.
+swervedriver1998-03-25.track14-edit.wav:  track looks like CDDA with probability 100%.

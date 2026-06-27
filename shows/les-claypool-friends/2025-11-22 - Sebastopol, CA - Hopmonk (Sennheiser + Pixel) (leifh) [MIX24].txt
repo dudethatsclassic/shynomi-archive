@@ -1,0 +1,49 @@
+Les Claypool - 16th Annual Pre-Turkey Day Bonanza / Wine Party
+November 22nd, 2025 (Saturday)
+Hopmonk Tavern
+Sebastopol, California
+
+Source 1:  Sennheiser Ambeo > iPhone > Apogee MetaRecorder by Grizzly Adams
+Source 2:  built in > Pixel > PCM Recorder by esamirp
+Transfer:  WAV > RX9 > Wavepad > flac (8) via TLH
+
+Setlist:  01:34:49
+01 pre show raffle
+02 Jam (w/Fembot in a Wet T-Shirt)
+03 Jam 
+04 banter
+05 Jam  [#]
+06 Jam  [#]
+07 Jam (w/Hendershot)
+08 Jam  [*]
+09 Jam
+10 Jam (w/Voodoo Chile)
+11 Tommy the Cat
+
+Bonus soundcheck:  21:03
+01 soundcheck
+02 soundcheck
+
+Les Claypool - bass, vocals
+Jay Lane - drums
+Marc "M.I.R.V." Haggard - guitar, vocals
+Fred "Flouncin' Fred" Armour - interpretive white board sketches
+-plus guests-
+Nick Pulley - sousaphone [*]
+Josh Willis - guitar [#]
+Martine - saxophone [#]
+
+fingerprints:
+LesWino2025-11-22mtx01.flac:7d8d5303dd7457dfa976a11731b8803f
+LesWino2025-11-22mtx02.flac:bb436ee0be6a65828439d47237c7045e
+LesWino2025-11-22mtx03.flac:8b79915b1fe6d21be7aaa3e4d24474ec
+LesWino2025-11-22mtx04.flac:f1ea079afe4a7d502c42f682a693a1a2
+LesWino2025-11-22mtx05.flac:702117caefb42b47189ca43e77ac5547
+LesWino2025-11-22mtx06.flac:3e86a26a2b670d829405c0f399e3b9fd
+LesWino2025-11-22mtx07.flac:e027c25bcac20c1ce56a8ee17c51fd1a
+LesWino2025-11-22mtx08.flac:0446ba0367f0ee40df4002f1f296caf0
+LesWino2025-11-22mtx09.flac:2490d7e696523f008efdbb1112b42172
+LesWino2025-11-22mtx10.flac:0a7844c8dc5690da98be6a11b9d42315
+LesWino2025-11-22mtx11.flac:a3a755ebbd13ea6fae050f6638f21af2
+LesWino2025-11-22sck01.flac:67946481974d72259534b04af1c3118f
+LesWino2025-11-22sck02.flac:3dbb1c41bef0bc46e8708dc8f82de5b9

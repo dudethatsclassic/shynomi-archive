@@ -1,0 +1,42 @@
+Primus - Beat A Dead Horse Tour
+Wednesday November 29th, 2006
+Orpheum Theatre
+601 Smithe Street
+Vancouver, British Columbia, Canada
+
+Hi-MD Master Audio Recording by kiloor toonz dood
+
+Audio lineage:  Sony ECM-MS907 Stereo Microphone (120 degrees) > Sony MZ-NHF800 Hi-MD Minidisc Walkman (LPCM mode) > Sony Hi-MD 1GB Mini Disc (recorded .wav file) > Sony Sonic Stage 4.3.01.14050 (transferred .wav file) > Wavepad Masters Edition (edits, tracking) > flac (8) via TLH
+
+Setlist:  1:30:22
+00 intro
+01 Here Come the Bastards
+02 Frizzle Fry
+03 Those Damned Blue-Collar Tweekers
+04 Seas of Cheese
+05 Mr. Krinkle
+06 Eleven
+07 Jerry Was a Race Car Driver
+08 Over the Electric Grapevine
+09 Mr. Knowitall
+10 Southbound Pachyderm
+11 Wynona's Big Brown Beaver
+-encore-
+12 American Life
+
+Recorded from the balcony railing, right of centre.  Taper was also operating a miniDV video camera for the whole show.
+
+fingerprints:
+00 - intro.flac:744dedd0ff0e1ba2063af70033715b7f
+01 - Here Come The Bastards.flac:727268fca95d461822388d85c939d5e5
+02 - Frizzle Fry.flac:b12a1b7201f5d47ae30c519bf1ec160a
+03 - Those Damned Blue Collar Tweekers.flac:f8f00ee9fe01c60c3960def75c3b9e84
+04 - Seas Of Cheese.flac:fa82633f650630becf2440951095cb91
+05 - Mr. Krinkle.flac:154fa81c445fe4af44d7d21bf68524ef
+06 - Eleven.flac:73889f264af04aa0f82fe935b12cc694
+07 - Jerry Was A Race Car Driver.flac:cfbef2195153303e8d01a6fb823c8db3
+08 - Over The Electric Grapevine.flac:de04625ffde9161accabf112ce479b64
+09 - Mr. Knowitall.flac:b72a60549c1a913157a36b4986116807
+10 - Southbound Pachyderm.flac:d3541738a950385cc9177779d7179847
+11 - Wynona's Big Brown Beaver.flac:26fd00e39694375d5396830e7aa783e0
+12 - American Life.flac:a5b9b86fb7a90f0cd7cf9cf226f25f1d

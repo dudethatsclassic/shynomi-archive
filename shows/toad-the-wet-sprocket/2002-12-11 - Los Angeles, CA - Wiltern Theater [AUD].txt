@@ -1,0 +1,34 @@
+Toad the Wet Sprocket
+December 11, 2002
+Wiltern Theater, Los Angeles, CA
+
+AKG CK61 capsules ORTF on 7-foot stand -> active cables ->
+JK Labs DVC preamp -> Apogee AD500e A/D @ 44.1kHz -> Midiman CO2 converter ->
+Sony optical 7-pin -> Sony TCD-D100 DAT master
+DAT master on Fostex D5 -> Marantz CDR-630 CDR master -> EAC V.09 beta 3 ->
+Cool Edit Pro 1.2 -> CDWAV 1.71 -> mkwACT 0.97 Beta 1 -> SHN
+Recording and SHN mastering by Jeff Lester, jeff.lester@verizon.net
+
+******************************************************
+*** PLEASE DO NOT ENCODE THIS SHOW INTO MP3 FORMAT ***
+******************************************************
+
+1. All I Want (3:36)
+2. Brother (4:02)
+3. Good Intentions (4:24)
+4. Falling (4:01)
+5. Crowing (2:57)
+6. Something's Always Wrong (5:49)
+7. Walk on the Ocean (3:12)
+8. Crazy Life (4:41)
+9. Amnesia (4:10)
+10. "My Name's Randy" (1:52)
+11. See You Again (w/Johnny Hawthorn of Lapdog) (3:43)
+12. Fall Down (4:04)
+
+Errors: There are 5 dropouts of 0.7 - 0.8 sec in length. Exact cause is unknown,
+but the likely culprit is the Midiman CO2.
+T1: 0:15.2, 2:10.2
+T2: 1:44.8
+T3: 3:03.9
+T9: 3:25.3

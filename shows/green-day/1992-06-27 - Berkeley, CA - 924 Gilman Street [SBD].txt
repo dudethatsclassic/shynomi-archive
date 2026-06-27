@@ -1,0 +1,64 @@
+Green Day
+924 Gilman Street
+Berkeley, CA
+27 June 1992
+
+Lineage:
+2nd gen SBD cassette-->digitized and tracks split using CD Wave-->FLAC conversion (level 6) in TLH-->you
+
+01 intro
+02 2000 light years away
+03 409 in your coffeemaker
+04 tuning.wav
+05 who wrote holden caulfield
+06 banter
+07 welcome to paradise
+08 don't talk shit about my town
+09 at the library
+10 knowledge
+11 one of my lies
+12 free corn nuts
+13 christie road
+14 more banter
+15 only of you
+16 fucking around
+17 going to pasalacqua
+18 sixteen
+19 no stage diving
+20 80
+21 paper lanterns
+22 dominated love slave
+23 more banter
+24 road to acceptance
+
+Checksums:
+ff95c06010ba0e653efa87bf35d67516 *01 intro.flac
+744568f100d3cc47efdf224865d530f5 *02 2000 light years away.flac
+97cad0d179c03543f7317d7689ee4cff *03 409 in your coffeemaker.flac
+466d5a7c45a3ddb47cf970b22b0b22ed *04 tuning.flac
+714f9aef1b24af5d49f16682321568ef *05 who wrote holden caulfield.flac
+c2fe942695110ad8a30c814d3742c7e6 *06 banter.flac
+dc0bd1f85507885b503df7207a66178a *07 welcome to paradise.flac
+da0fc2b74ed8c90b9c3734d85babba07 *08 don't talk shit about my town.flac
+67f6d8235ccbafa3e860a6763980bf59 *09 at the library.flac
+0151a8de0ac212af4d760674dc8e4784 *10 knowledge.flac
+52bdb2486a701f4c671b9db470e85264 *11 one of my lies.flac
+882d30fe94167fec81b9c125067c901a *12 free corn nuts.flac
+c525922f918a86454084b34b608d1977 *13 christie road.flac
+980e58f9f8be3c04ead04e611105e7c1 *14 more banter.flac
+664a1bae8bc246ccd0881c7fc85f3bc5 *15 only of you.flac
+baea49607f1ab403459b3221db293fb8 *16 fucking around.flac
+ee3cd1beb9c54ae1405eb938022bebc8 *17 going to pasalacqua.flac
+01496fc0b549be24815ce252ef8c67f3 *18 sixteen.flac
+98b2f927ad5c08298937db1a62928cda *19 no stage diving.flac
+bfcc305867da6e53595ca0a556d1b6ab *20 80.flac
+063731c208d5fc47a5420c10cacb1655 *21 paper lanterns.flac
+acb1fac9a082734a2766ca48054436ce *22 dominated love slave.flac
+6dc5e7d308982989e49ffe2643779cfa *23 more banter.flac
+030c4fdb127f65e459c6f5827ed820ae *24 road to acceptance.flac
+No errors occured.
+
+Notes:
+Acquired around 1994 in a tape trade from a guy named Jason Duncan (I think) who used to advertise in the back of MRR.
+Now there's a guy I wish was on Dime. He had tons of board tapes from Gilman Street and a lot of other good stuff as well. 
+I don't think this show has been on the tracker before, although some other of his tapes probably have been.

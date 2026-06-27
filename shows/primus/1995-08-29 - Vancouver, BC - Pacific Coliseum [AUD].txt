@@ -1,0 +1,200 @@
+Primus
+August 29, 1995
+Pacific Coliseum
+Vancouver BC Canada
+
+Audioarchivist master analog recording 24 bit 96 khz digital transfer
+including soundcheck jams and Mike Watt track with Les Claypool
+
+16 bit 44.1 khz "mastered" downsampled and dithered CD ready version
+
+Tracklist:
+
+01 pre-show soundcheck jam 1 "Screw You"
+02 pre-show soundcheck jam 2 "Tell Us Twice"
+03 Secret Garden Mike Watt
+04 preshow ambience 1
+05 preshow ambience 2 mic check
+06 show start walk-on music
+07 To Defy The Laws Of Tradition
+08 Mr Knowitall
+09 John The Fisherman
+10 Those Damned Blue Collar Tweekers
+11 Professor Nutbutter's House Of Treats
+12 banter - little green alligator
+13 Mrs. Blaileen
+14 Nature Boy
+15 Southbound Pachderm
+16 De Anza Jig
+17 Seas Of Cheese
+18 Pork Soda
+19 My Name Is Mud
+20 Over The Electric Grapevine
+21 The Toys Go Winding Down
+22 Harold Of The Rocks
+23 encore applause
+24 Eleven
+25 Wynona's Big Brown Beaver
+26 end of show applause
+27 show aftermath
+
+Lineage:
+
+Recording location (I think) 8 rows up off the floor facing stage dead center live in the Pacific Coliseum (was the stage at center? more amphitheatre style?) > probably a Sony PC-62 mic in hat (handheld in soundcheck) > Radio Shack Gold 6 foot 3.5mm stereo extension cord > Sony WM D3 Professional Cassette Walkman CrO2/Metal Rec on Dolby B on > Denon MG-X Metal 100 cassette masters in ceramic composite shells > dry storage for 14 years plus
+
+Playback in September 2010 with Tascam 202mkII (azimuth re-aligned to best approximately track this tape) Metal Play on Dolby off > Radio Shack Gold rca to 3.5mm stereo plug > Radio Shack Gold 3.5mm stereo extension 6 foot (also used as mic extension during recording!) > Soundblaster Audigy 24 bit 96 khz > Wavelab 5.01b (transfer capture and track splitting)
+
+Mastering and processing (as applicable):
+
+1) 16bit 44.1khz version: Raw master transfer split 24/96 files were batch processed and therefore "Mastered" in Wavelab 5.01b: Stereo channel inversion was corrected (stereo mic was wired backwards or upside down), Waves Q-10 EQ (mostly a lows boost for guts and highs enhancement for more sparkle with a small upper-mids dip to cut out the ringing PA horn), and a peak limiter to -.01 db for safety (still plenty of headroom and no compression) > intermediate hi-res 24/96 processed files downsampled to 24 bit 44.1 khz with SoX ReSampler via Foobar2000 (96 to 44.1 khz very High Quality Passband 95.2% Phase response 25%) > intermediate 24/44.1 downsampled processed files then dithered to 16 bit 44.1 khz CD ready files with iZotope RX Advanced (MBit+ Ultra noise shaping High Dither amount) > Final 16/44.1 CD ready "Mastered" processed wav files converted to FLAC8 via Trader's Little Helper
+
+or,
+
+2) 24bit 96khz version: Raw hi-res 24/96 digital original master tape transfer files marked and tagged on exact second marks to prevent sector boundary errors with Wavelab 5.01b > individual song files auto split on markers with Wavelab 5.01b > Master clone capture unaltered (including original channel inversion) @24/96 track split wav files converted to FLAC8 with Trader's Little Helper
+
+
+Notes:
+
+In the days before my trip to Vancouver to again see Primus, I finally decided to revisit these tapes. Of the 100+ shows I think I've recorded, this one is definitely in my top 10 for sound quality with a good performance! I haven't transferred that many of my shows due to, well, life I guess, but I want to one day have them all done and posted and shared. It was a fun day and a great show. I went with a friend who helped me a bit with making this tape happen. I'm very glad I have this recording which I proudly now finally get to share with you all!
+
+We were early to the Pacific Coliseum that day, having come over from Victoria on an early morning ferry to go take in as much of the P.N.E. Fair admission that came included with the tickets to the show. As we wandered around the fairgrounds including the Pacific Coliseum, we found many large doors were wide open, and nobody was around. We heard voices and we were curious, so we followed the sounds inside. There still didn't seem to be a soul around, so we (as curious individuals) continued deeper withing the cavernous coliseum. Eventually as we wandered through dressing room hallways and under seating bleachers the soundcheck seemed to be beginning, so I grabbed my gear and discretely set it up. While not 100% sure who is all playing (is it all Primus or some roadies or Mike Watt's band members as well in places?) as we didn't quite see the soundcheck but we sure heard it. There's two soundcheck jams that are not exactly full on songs but are completely different! I'd call jam number one: "Screw You! You Should Be Shot!" and the other second jam: "You Don't Have To Tell Us Twice!". What are these curious pieces? Listen at your own risk!
+
+There's the last track of Mike Watt's set recorded next on the tape included here. I believe Les came out and played on it, but I can't actually completely remember now if he really did. I've left a couple ambient audient clips before the show in the fileset, so you can hear my mic check. If the left and right announcements are correct you are listeneing to the properly "Mastered" slightly EQ'd CD ready version (or your headphones are on backwards!) and if the stereo channels are inverted you are listening to the hi-res raw master clone flat transfer version (or the headphone switcheroo thing happened again)...
+
+I believe I recorded this with the Sony stereo PC-62 mic that comes with the WM D3 professional cassette walkman. In fact, I think this is right after I bought a new PC-62 mic as a part to replace a broken one. I may be wrong, and this could be recorded with an ECM-907 or even an ECM DS70P stereo mic, as I only briefly used the replacement PC-62, the ECM-907, and finally the ECM-DS70P in rapid succession, and I can't exactly remember the timeline anymore. The master tapes themselves are pretty much top-of-the-line quality. They were pretty expensive but they still sound great!
+
+I did my best to match the azimuth tape head alignment of this playback deck to how it is recorded on the tape, but the heads of my old WM D3 walkman floated a bit from time to time. Sometimes I think it drifted during the show, recording a tape with a bit of a sometimes shifted tracking. I set the playback heads at a good average point, and at times it sounds perfect, but others it sounds a bit off center.
+
+Depending on whether you have the CD friendly 16 bit 44.1 khz "Mastered" version or the raw transfer un-mastered 24 bit 96 khz copy, you might want to know I corrected the mic channel inversion problem and basically fattened up the low end and sweetened the highs and cut a bit of the lower-mids / upper-lows with Waves Q-10 EQ and hard limited the peaks to -0.01db for the properly mastered "RM" version for 16/44.1 CD ready files. The 24/96 version is a straight flat transfer no processing no EQ no channel correction - they are backwards. The un-mastered hi-res copy also sounds much more mid-rangey with much less lower bass response due to the mic used.
+
+I hope you enjoy this classic master tape! It isn't perfect but its pretty good if I do say so myself (and I just did). Please distribute freely - do not sell. Do not ReMaster the 16bit 44.1 khz version - if you must tinker with the sound use the raw master 24/96 version. I'd like a copy of what you're doing to my recording if you alter it (please). Only pervert these files to lossy eMPty3 files for your own personal use - do not distribute as lossy eMPty3 files, please! I love comments, reviews, stories, whatever in response so if you like the show and appreciate it, by all means let me know. Do you have pictures of this show? I'd love to get them. Mine didn't turn out at all. Please feel free to make coverart, and kindly email me a copy. Thanks.
+
+email me with any concerns:
+audioarchivist@hotmail.com
+
+Trader's Little Helper spat this mumbo jumbo out for your viewing displeasure...
+
+01 preshow soundcheck jam 1 Screw You.wav:  successfully encoded to '01 preshow soundcheck jam 1 Screw You.flac' (ratio = 0.605; no need for sector alignment).
+02 preshow soundcheck jam 2 Tell Us Twice.wav:  successfully encoded to '02 preshow soundcheck jam 2 Tell Us Twice.flac' (ratio = 0.612; no need for sector alignment).
+03 Secret Garden Mike Watt.wav:  successfully encoded to '03 Secret Garden Mike Watt.flac' (ratio = 0.664; no need for sector alignment).
+04 preshow ambience.wav:  successfully encoded to '04 preshow ambience.flac' (ratio = 0.548; no need for sector alignment).
+05 preshow ambience 2 mic check channels reversed.wav:  successfully encoded to '05 preshow ambience 2 mic check channels reversed.flac' (ratio = 0.542; no need for sector alignment).
+06 show start walkon music.wav:  successfully encoded to '06 show start walkon music.flac' (ratio = 0.648; no need for sector alignment).
+07 To Defy The Laws Of Tradition.wav:  successfully encoded to '07 To Defy The Laws Of Tradition.flac' (ratio = 0.664; no need for sector alignment).
+08 Mr Knowitall.wav:  successfully encoded to '08 Mr Knowitall.flac' (ratio = 0.694; no need for sector alignment).
+09 John The Fisherman.wav:  successfully encoded to '09 John The Fisherman.flac' (ratio = 0.696; no need for sector alignment).
+10 Those Damned Blue Collar Tweekers.wav:  successfully encoded to '10 Those Damned Blue Collar Tweekers.flac' (ratio = 0.663; no need for sector alignment).
+11 Professor Nutbutter's House Of Treats.wav:  successfully encoded to '11 Professor Nutbutter's House Of Treats.flac' (ratio = 0.655; no need for sector alignment).
+12 banter - little green alligator.wav:  successfully encoded to '12 banter - little green alligator.flac' (ratio = 0.568; no need for sector alignment).
+13 Mrs. Blaileen.wav:  successfully encoded to '13 Mrs. Blaileen.flac' (ratio = 0.658; no need for sector alignment).
+14 Nature Boy.wav:  successfully encoded to '14 Nature Boy.flac' (ratio = 0.647; no need for sector alignment).
+15 Southbound Pachderm.wav:  successfully encoded to '15 Southbound Pachderm.flac' (ratio = 0.635; no need for sector alignment).
+16 De Anza Jig.wav:  successfully encoded to '16 De Anza Jig.flac' (ratio = 0.635; no need for sector alignment).
+17 Seas Of Cheese.wav:  successfully encoded to '17 Seas Of Cheese.flac' (ratio = 0.612; no need for sector alignment).
+18 Pork Soda.wav:  successfully encoded to '18 Pork Soda.flac' (ratio = 0.650; no need for sector alignment).
+19 My Name Is Mud.wav:  successfully encoded to '19 My Name Is Mud.flac' (ratio = 0.680; no need for sector alignment).
+20 Over The Electric Grapevine.wav:  successfully encoded to '20 Over The Electric Grapevine.flac' (ratio = 0.652; no need for sector alignment).
+21 The Toys Go Winding Down.wav:  successfully encoded to '21 The Toys Go Winding Down.flac' (ratio = 0.651; no need for sector alignment).
+22 Harold Of The Rocks.wav:  successfully encoded to '22 Harold Of The Rocks.flac' (ratio = 0.635; no need for sector alignment).
+23 encore applause 2.wav:  successfully encoded to '23 encore applause 2.flac' (ratio = 0.632; no need for sector alignment).
+24 Eleven.wav:  successfully encoded to '24 Eleven.flac' (ratio = 0.626; no need for sector alignment).
+25 Wynona's Big Brown Beaver.wav:  successfully encoded to '25 Wynona's Big Brown Beaver.flac' (ratio = 0.663; no need for sector alignment).
+26 end of show applause.wav:  successfully encoded to '26 end of show applause.flac' (ratio = 0.673; no need for sector alignment).
+27 show aftermath.wav:  successfully encoded to '27 show aftermath.flac' (ratio = 0.562; no need for sector alignment).
+
+No errors occured.
+
+
+01 preshow soundcheck jam 1 Screw You.flac:  tested ok (file is decodable without error).
+02 preshow soundcheck jam 2 Tell Us Twice.flac:  tested ok (file is decodable without error).
+03 Secret Garden Mike Watt.flac:  tested ok (file is decodable without error).
+04 preshow ambience.flac:  tested ok (file is decodable without error).
+05 preshow ambience 2 mic check channels reversed.flac:  tested ok (file is decodable without error).
+06 show start walkon music.flac:  tested ok (file is decodable without error).
+07 To Defy The Laws Of Tradition.flac:  tested ok (file is decodable without error).
+08 Mr Knowitall.flac:  tested ok (file is decodable without error).
+09 John The Fisherman.flac:  tested ok (file is decodable without error).
+10 Those Damned Blue Collar Tweekers.flac:  tested ok (file is decodable without error).
+11 Professor Nutbutter's House Of Treats.flac:  tested ok (file is decodable without error).
+12 banter - little green alligator.flac:  tested ok (file is decodable without error).
+13 Mrs. Blaileen.flac:  tested ok (file is decodable without error).
+14 Nature Boy.flac:  tested ok (file is decodable without error).
+15 Southbound Pachderm.flac:  tested ok (file is decodable without error).
+16 De Anza Jig.flac:  tested ok (file is decodable without error).
+17 Seas Of Cheese.flac:  tested ok (file is decodable without error).
+18 Pork Soda.flac:  tested ok (file is decodable without error).
+19 My Name Is Mud.flac:  tested ok (file is decodable without error).
+20 Over The Electric Grapevine.flac:  tested ok (file is decodable without error).
+21 The Toys Go Winding Down.flac:  tested ok (file is decodable without error).
+22 Harold Of The Rocks.flac:  tested ok (file is decodable without error).
+23 encore applause 2.flac:  tested ok (file is decodable without error).
+24 Eleven.flac:  tested ok (file is decodable without error).
+25 Wynona's Big Brown Beaver.flac:  tested ok (file is decodable without error).
+26 end of show applause.flac:  tested ok (file is decodable without error).
+27 show aftermath.flac:  tested ok (file is decodable without error).
+
+No errors occured.
+
+
+01 preshow soundcheck jam 1 Screw You.flac:6b9a873a38d71c13635992810295d895
+02 preshow soundcheck jam 2 Tell Us Twice.flac:8176099c23a2a46787a0102aee125a90
+03 Secret Garden Mike Watt.flac:565c358e5c9746b087671d364aee97bb
+04 preshow ambience.flac:11bee08d8bf1c99c3c2b2de0b0aff609
+05 preshow ambience 2 mic check channels reversed.flac:77e82bb6602ab5d832c659ec391d379d
+06 show start walkon music.flac:b710f2a34a9111b030694390914a4418
+07 To Defy The Laws Of Tradition.flac:d7b3ffd64de86652cf3c351c3d9b49f4
+08 Mr Knowitall.flac:1e04a05894eb19affc78c12c0c9da2c0
+09 John The Fisherman.flac:ec4908eba663dcdfc8646a5980311df6
+10 Those Damned Blue Collar Tweekers.flac:4bbb2c2e96317d096f951cd347f6c2d2
+11 Professor Nutbutter's House Of Treats.flac:177912f1f0004c3f9c995c9b41bf5c7a
+12 banter - little green alligator.flac:e2ee8da57e0932bc7e2a6a796e844a48
+13 Mrs. Blaileen.flac:7f81d81fa6bd48216cb2c4cbd54f19fc
+14 Nature Boy.flac:9eaa6934aba43331e197329aa23d3879
+15 Southbound Pachderm.flac:c99156c1ec300572666339df96a51b43
+16 De Anza Jig.flac:52385155235c50a0d98a09f190344d52
+17 Seas Of Cheese.flac:25ba2754c06e0594a15b4ab1b465fb5b
+18 Pork Soda.flac:e105e86834335b4014dc9a8d4efa8501
+19 My Name Is Mud.flac:77370fd426c93a0c969dd91608c74992
+20 Over The Electric Grapevine.flac:3dc720ddcc718d5eade00149c2b90e5b
+21 The Toys Go Winding Down.flac:4ca72bd19b6aba3816762e1f9e9d9015
+22 Harold Of The Rocks.flac:d1eae216f4326570e802d12d2f8b9f8a
+23 encore applause 2.flac:93fa0ac0b3ba53fe144e98b201fe7ae1
+24 Eleven.flac:dc6cc1c5071b5272b2aa34912c51a2d1
+25 Wynona's Big Brown Beaver.flac:b50406444b281943fa8bbf010d9e76e0
+26 end of show applause.flac:b683afed67365cc0b88bb29563e3e705
+27 show aftermath.flac:f28ee0ab2ad98e332838c21b6c09c38a
+
+Checksum file saved to disk.
+
+No errors occured.
+
+
+E:\Primus Aug 29 1995 Pacific Coliseum Vancouver BC 16 44 ReMaster files\01 preshow soundcheck jam 1 Screw You.wav:  successfully deleted.
+E:\Primus Aug 29 1995 Pacific Coliseum Vancouver BC 16 44 ReMaster files\02 preshow soundcheck jam 2 Tell Us Twice.wav:  successfully deleted.
+E:\Primus Aug 29 1995 Pacific Coliseum Vancouver BC 16 44 ReMaster files\03 Secret Garden Mike Watt.wav:  successfully deleted.
+E:\Primus Aug 29 1995 Pacific Coliseum Vancouver BC 16 44 ReMaster files\04 preshow ambience.wav:  successfully deleted.
+E:\Primus Aug 29 1995 Pacific Coliseum Vancouver BC 16 44 ReMaster files\05 preshow ambience 2 mic check channels reversed.wav:  successfully deleted.
+E:\Primus Aug 29 1995 Pacific Coliseum Vancouver BC 16 44 ReMaster files\06 show start walkon music.wav:  successfully deleted.
+E:\Primus Aug 29 1995 Pacific Coliseum Vancouver BC 16 44 ReMaster files\07 To Defy The Laws Of Tradition.wav:  successfully deleted.
+E:\Primus Aug 29 1995 Pacific Coliseum Vancouver BC 16 44 ReMaster files\08 Mr Knowitall.wav:  successfully deleted.
+E:\Primus Aug 29 1995 Pacific Coliseum Vancouver BC 16 44 ReMaster files\09 John The Fisherman.wav:  successfully deleted.
+E:\Primus Aug 29 1995 Pacific Coliseum Vancouver BC 16 44 ReMaster files\10 Those Damned Blue Collar Tweekers.wav:  successfully deleted.
+E:\Primus Aug 29 1995 Pacific Coliseum Vancouver BC 16 44 ReMaster files\11 Professor Nutbutter's House Of Treats.wav:  successfully deleted.
+E:\Primus Aug 29 1995 Pacific Coliseum Vancouver BC 16 44 ReMaster files\12 banter - little green alligator.wav:  successfully deleted.
+E:\Primus Aug 29 1995 Pacific Coliseum Vancouver BC 16 44 ReMaster files\13 Mrs. Blaileen.wav:  successfully deleted.
+E:\Primus Aug 29 1995 Pacific Coliseum Vancouver BC 16 44 ReMaster files\14 Nature Boy.wav:  successfully deleted.
+E:\Primus Aug 29 1995 Pacific Coliseum Vancouver BC 16 44 ReMaster files\15 Southbound Pachderm.wav:  successfully deleted.
+E:\Primus Aug 29 1995 Pacific Coliseum Vancouver BC 16 44 ReMaster files\16 De Anza Jig.wav:  successfully deleted.
+E:\Primus Aug 29 1995 Pacific Coliseum Vancouver BC 16 44 ReMaster files\17 Seas Of Cheese.wav:  successfully deleted.
+E:\Primus Aug 29 1995 Pacific Coliseum Vancouver BC 16 44 ReMaster files\18 Pork Soda.wav:  successfully deleted.
+E:\Primus Aug 29 1995 Pacific Coliseum Vancouver BC 16 44 ReMaster files\19 My Name Is Mud.wav:  successfully deleted.
+E:\Primus Aug 29 1995 Pacific Coliseum Vancouver BC 16 44 ReMaster files\20 Over The Electric Grapevine.wav:  successfully deleted.
+E:\Primus Aug 29 1995 Pacific Coliseum Vancouver BC 16 44 ReMaster files\21 The Toys Go Winding Down.wav:  successfully deleted.
+E:\Primus Aug 29 1995 Pacific Coliseum Vancouver BC 16 44 ReMaster files\22 Harold Of The Rocks.wav:  successfully deleted.
+E:\Primus Aug 29 1995 Pacific Coliseum Vancouver BC 16 44 ReMaster files\23 encore applause 2.wav:  successfully deleted.
+E:\Primus Aug 29 1995 Pacific Coliseum Vancouver BC 16 44 ReMaster files\24 Eleven.wav:  successfully deleted.
+E:\Primus Aug 29 1995 Pacific Coliseum Vancouver BC 16 44 ReMaster files\25 Wynona's Big Brown Beaver.wav:  successfully deleted.
+E:\Primus Aug 29 1995 Pacific Coliseum Vancouver BC 16 44 ReMaster files\26 end of show applause.wav:  successfully deleted.
+E:\Primus Aug 29 1995 Pacific Coliseum Vancouver BC 16 44 ReMaster files\27 show aftermath.wav:  successfully deleted.
+
+No errors occured.

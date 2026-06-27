@@ -1,0 +1,59 @@
+Primus
+The Tabernacle
+Atlanta, GA
+October 5, 2010
+"Can I Leave My Bag Here?"
+
+Lineage/transfer: Edirol R-09 w/internal condenser mics recorded center of first balcony about 6 rows back > SDHC card > PC > 24-bit/48 kHz .wav file  to 16-bit/44.1 kHz > Normalization > EQ (Adobe Audition 3.0) > Track splits  (CD Wave Editor v.1.93.3) > Drunks and Clappers selectively minimized / Fades (Audacity v.1.3 Beta) > (Sector Boundaries aligned) .flac, level 8 (Trader's Little Helper v.2.4.1) 
+
+Recorded, transferred, and uploaded by Slickdaddyo
+
+Set I:
+
+01 You Can't Kill Michael Malloy
+02 To Defy The Laws Of Tradition
+03 Duchess and The Proverbial Mind Spread
+04 Golden Boy
+05 American Life
+06 Mr. Knowitall
+07 The Toys Go Winding Down
+08 I'm Big In Japan
+09 John The Fisherman
+10 Banter
+11 Mrs. Blaileen
+12 Jerry Was A Racecar Driver
+
+Set II:
+
+13 Those Damned Blue Collared Tweekers
+14 Fisticuffs
+15 Dazed and Confused tease - Sgt. Baker
+16 Frizzle Fry
+17 Over The Falls
+18 Sathington Willoughby
+19 Spegetti Western
+20 Drums
+21 Drum and Whamola Jam
+22 Eleven
+23 21st Birthday Banter
+24 My Name Is Mud
+25 Over The Electric Grapevine
+26 Encore Call
+27 Pudding Time
+
+Total Running Time: 2:31:43
+
+
+Primus is:
+Les Claypool - Bass, vocals
+Larry "Ler" LaLonde - Guitar
+Jay Lane - Drums
+
+
+Notes:
+The Tabernacle is not known for it's acoustics, and we didn't have the best seats, so I lightly EQ'd this to bring out the higher frequencies. There were a fair amount of drunks, whistlers, and clappers around us, but they were mainly annoying between songs, so I used Audacity to selectively bring the noise down a few dBs wherever it was unbearable.
+
+The reason for the title of this recording is thanks to my cousin, Chuck - toward the end of "To Defy The Laws Of Tradition", he stuck his face right in my mics to tell me about his damned green bag. Yes, a green bag. It was very frustrating when I listened to the playback, and he WILL get an earfull when I see him again. Anyway, I couldn't leave it like it was, so I had to tweak it a little, but none of the music is affected. Right before the final fadeout after "Pudding Time", we get to hear about the green bag again. It was amusing this time, so I left it in as it fades out. 
+
+
+Enjoy it, share it...just don't sell it. ~Slickdaddyo

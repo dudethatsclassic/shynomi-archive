@@ -1,0 +1,48 @@
+Primus
+Tuesday July 9th, 2024
+Yaamava' Resort & Casino Theater
+777 San Manuel Blvd S
+Highland, California
+
+Taper:  LeifH [2024#15b]
+Source:  CA-11 > A10 - Section 101 Row D Seat 5
+Transfer:  PC via USB > RX9 > Wavepad > flac (8) via TLH
+
+Setlist:  01:32:40
+01 intro
+02 Those Damned Blue-Collar Tweekers
+03 The Antipop
+04 Groundhog's Day
+05 Cygnus X-1
+06 My Friend Fats
+07 Seas of Cheese
+08 Mr. Krinkle
+09 Welcome to This World >
+10 My Name is Mud
+11 Mrs. Blaileen
+12 Over the Electric Grapevine
+-encore-
+13 Too Many Puppies > 
+14 Sgt. Baker > Puppies Reprise
+
+Primus show #44 for me.  Near the start of the summer tour - just three shows in - this show was billed as, "An Evening With," while the subsequent dates of the tour were, "Co-Headlining," and/or had an opening act on before Primus.  Historically that meant we'd get two full sets with an intermission in between.  For some reason or another that was not the case, and this show was a mere 90 minutes.  There were some technical difficulties during this show and the previous stop in Paso Robles also had reports of gear malfunctions.  Most notably there was a nasty low frequency noise coming out of the PA (and onto the audience recording) for a few seconds during My Friend Fats which I've mostly removed via spectral editing.  They seemed to be having issues with the vocal delays early in the show as well.  
+
+The start time on the tickets was 20:00 but they did not begin for another ~20 minutes while the crew did a bunch of final line-checks with the instruments.  The venue is all seated and Les called out a few people in the front row for sitting down, first during the beginning of the show, then during the breakdown of Mr. Krinkle, and finally towards the end of the show.  The concert ended a few minutes before 22:00.  
+
+Despite being too short and maybe a bit of false advertising, this show still packed a punch.  Nice to hear Antipop again;  My Friend Fats hadn't been played in ~20 years before this tour.  All in all a great time, fun show and good hang with friends.  An extra special thanks to esamirp for helping get me to and from the show.  
+
+fingerprints: 
+Primus2024-07-09t01 - intro.flac:53a805193c3d03a55f4e4326df58cccc
+Primus2024-07-09t02 - Those Damned Blue Collar Tweekers.flac:b5b68259e73231caf0178c72755ee095
+Primus2024-07-09t03 - Antipop.flac:b8f2be16e84d2e6d0e12f57fc4b54447
+Primus2024-07-09t04 - Groundhogs Day.flac:11cdc08d9347d140e5ddc1f3288c6e3a
+Primus2024-07-09t05 - Cygnus X-1.flac:7a4186b7c2782f70249fdbc3d5ea529b
+Primus2024-07-09t06 - My Friend Fats.flac:8cfa62f4bbd6e79e2415c9312e843274
+Primus2024-07-09t07 - Seas of Cheese.flac:e50dda0abb6647c501819022b82f6f09
+Primus2024-07-09t08 - Mr Krinkle.flac:998b786f0265c27ae01f5467c3447044
+Primus2024-07-09t09 - Welcome to This World.flac:dac956c4272243367be7ffd37e6e8aff
+Primus2024-07-09t10 - My Name Is Mud.flac:28fc1193838760fa4381bf6cd6289e72
+Primus2024-07-09t11 - Mrs Blaileen.flac:c4c3030b4ecf181fff5ce2c509153014
+Primus2024-07-09t12 - Over the Electric Grapevine.flac:dcf6ed2c8c10e3162406a0fbdf7e8dca
+Primus2024-07-09t13 - Too Many Puppies.flac:f5b6d035c9f5e684a73712fa101d31e4
+Primus2024-07-09t14 - Sgt Baker.flac:00f194b57a5b579511ab248d04b21c14

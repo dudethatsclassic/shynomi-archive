@@ -1,0 +1,55 @@
+SOUNDGARDEN 
+1991-12-17
+The Spectrum 
+Philadelphia PA
+
+*avi video with upgraded audio*
+**contrast clause**
+***corrected the sync issues, much better now***
+http://www.dimeadozen.org/torrents-details.php?id=776917
+the above torrent gets out-of-sync a few times, fixed now
+
+Thanks to gornandez for the audience audio sources,
+and thanks to mareede for the upgraded video files!
+
+ 01 Searching With My Good Eye Closed 
+ 02 Jesus Christ Pose 
+ 03 Face Pollution 
+ 04 Beyond The Wheel 
+ 05 Room A Thousand Years Wide 
+ 06 Rusty Cage 
+ 07 Somewhere 
+ 08 Outshined 
+ 09 Slaves And Bulldozers
+ 10 Big Dumb Sex 
+ 11 Hands All Over 
+
+TT: 1hr 2min
+
+file format (container): .AVI
+video codec: MPEG (NTSC)
+resolution: 720x480
+frame rate: 30fps 
+video bitrate: 4576kbps
+display aspect ratio: 4:3
+audio codec: PCM
+number of channels: 2
+audio bitrate: 1411kbps, 44kHz/16bit
+
+notes:
+Opening for Guns N Roses.
+Night 2 of 2 nights in Philly.
+Apparently they decided to crush GnR on these two
+nights.  Amazing performances.
+Audio synched and mixed in Audacity, mix of source 1 and 2 below:
+
+source 1 - audience audio
+Very good mono
+lineage: Cassette (Master) > wav (using Onkyo deck, Audacity and Soundforge XP) > flac
+
+source 2 - audience video
+lineage: 8mm master audience video > DVD > Avidemux 2.6 (.avi)
+
+enjoy!
+-bluejane99
+

@@ -1,0 +1,34 @@
+The Jesus And Mary Chain
+Theatre Barbey
+Bordeaux, France
+17 December 1989
+
+Source/Lineage: Audience > unknown mic/equip > single flac file downloaded from archive.org > split via Adobe Audition > wav > TLH > flac
+Taper: r.courb (see notes below)
+
+Set List
+
+01.//Penetration
+02.Rider
+03.Everything's Alright When You're Down
+04.The Hardest Walk
+05.Coast To Coast
+06.Halfway To Crazy
+07.Head On
+08.Her Way Of Praying
+09.Taste The Floor
+10.Nine Million Rainy Days
+11.The Living End
+12.Who Do You Love [Bo Diddley] [cut toward end of track, fade-out/in applied by taper]
+13.Take It
+14.April Skies
+15.Some Candy Talking
+16.Sidewalking// [fade-out applied by taper]
+17.//Gimme Hell [fade-in applied by taper]
+18.Kill Surf City
+
+TT: 1'10'05
+
+Notes
+-the files in this folder were uploaded to archive.org, under a user account by the name of r.courb, whether it is his/her recording or another person's recording, i have no idea, but it is presumably from the master or very low gen
+-apart from splitting the single file into individual tracks, i compiled the set list and info file and added metadata; no other edits done

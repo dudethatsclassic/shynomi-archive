@@ -26,7 +26,8 @@ const ARTIST_DATA = {
       "venue": "Docks",
       "notes": "NDR Blue",
       "version": "FM",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "2017-09-22 - Hamburg, Germany - Docks (NDR Blue) [FM].txt"
     },
     {
       "year": 2017,
@@ -39,7 +40,8 @@ const ARTIST_DATA = {
       "venue": "Glen Helen Regional Park",
       "notes": "Cal",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "2017-10-07 - San Bernardino, CA - Cal Jam '17, Glen Helen Regional Park [AUD].txt"
     },
     {
       "year": 2018,
@@ -52,7 +54,8 @@ const ARTIST_DATA = {
       "venue": "Parque O'Higgins",
       "notes": "Lollapalooza",
       "version": "Webcast",
-      "format": "TS"
+      "format": "TS",
+      "textFile": "2018-03-18 - Santiago, Chile - Lollapalooza, Parque O'Higgins [1080p].txt"
     },
     {
       "year": 2018,
@@ -65,7 +68,8 @@ const ARTIST_DATA = {
       "venue": "Glasgow Green",
       "notes": "Main",
       "version": "Webcast",
-      "format": "TS"
+      "format": "TS",
+      "textFile": "2018-06-30 - Glasgow, Scotland - TRNSMT [720p50].txt"
     },
     {
       "year": 2019,
@@ -78,7 +82,8 @@ const ARTIST_DATA = {
       "venue": "Broadcasting House",
       "notes": "BBC",
       "version": "FM",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "2019-07-28 - London, UK - BBC Radio 1 Piano Sessions [FM].txt"
     },
     {
       "year": 2019,
@@ -91,7 +96,8 @@ const ARTIST_DATA = {
       "venue": "Hull City Hall",
       "notes": "MTV",
       "version": "Broadcast",
-      "format": "TS"
+      "format": "TS",
+      "textFile": "2019-08-03 - Hull City Hall, UK - MTV Unplugged [HD TV].txt"
     },
     {
       "year": 2019,
@@ -104,7 +110,8 @@ const ARTIST_DATA = {
       "venue": "In the Park",
       "notes": "",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "2019-08-04 - Helsinki, Finland - In the Park [AUD].txt"
     },
     {
       "year": 2019,
@@ -117,7 +124,8 @@ const ARTIST_DATA = {
       "venue": "02 Ritz",
       "notes": "",
       "version": "Broadcast",
-      "format": "MKV"
+      "format": "MKV",
+      "textFile": "2019-09-21 - Manchester, England - O2 Ritz [1080p].txt"
     },
     {
       "year": 2019,
@@ -130,7 +138,8 @@ const ARTIST_DATA = {
       "venue": "Broadcasting House",
       "notes": "The",
       "version": "Broadcast",
-      "format": "TS"
+      "format": "TS",
+      "textFile": "2019-09-26 - London, UK - The One Show [HD TV].txt"
     },
     {
       "year": 2019,
@@ -143,7 +152,8 @@ const ARTIST_DATA = {
       "venue": "Later with Jools Holland",
       "notes": "",
       "version": "Broadcast",
-      "format": "TS"
+      "format": "TS",
+      "textFile": "2019-10-02 -  London, UK - Later with Jools Holland [HD TV].txt"
     },
     {
       "year": 2019,
@@ -156,7 +166,8 @@ const ARTIST_DATA = {
       "venue": "Hollywood Bowl",
       "notes": "",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "2019-10-11 - Hollywood, CA - Hollywood Bowl [AUD].txt"
     },
     {
       "year": 2019,
@@ -169,7 +180,8 @@ const ARTIST_DATA = {
       "venue": "Hollywood Bowl",
       "notes": "",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "2019-10-13 - Hollywood, CA - Hollwood Bowl [AUD] .txt"
     },
     {
       "year": 2019,
@@ -182,7 +194,8 @@ const ARTIST_DATA = {
       "venue": "Motorpoint Arena",
       "notes": "",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "2019-11-11 - Cardiff, Wales - Motorpoint Arena [AUD] .txt"
     },
     {
       "year": 2019,
@@ -195,7 +208,8 @@ const ARTIST_DATA = {
       "venue": "Motorpoint Arena",
       "notes": "",
       "version": "IEM",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "2019-11-11 - Cardiff, Wales - Motorpoint Arena [MTX].txt"
     },
     {
       "year": 2019,
@@ -208,7 +222,8 @@ const ARTIST_DATA = {
       "venue": "The 3Arena",
       "notes": "",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "2019-11-23 - Dublin, Ireland - The Arena [MASTER].txt"
     },
     {
       "year": 2019,
@@ -221,7 +236,8 @@ const ARTIST_DATA = {
       "venue": "The 3Arena",
       "notes": "",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "2019-11-24 - Dublin, Ireland - The Arena [MASTER].txt"
     },
     {
       "year": 2019,
@@ -234,7 +250,8 @@ const ARTIST_DATA = {
       "venue": "The 02 Arena",
       "notes": "",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "2019-11-28 -  London, UK - The O2 Arena [AUD].txt"
     },
     {
       "year": 2019,
@@ -247,7 +264,8 @@ const ARTIST_DATA = {
       "venue": "Margaret Court",
       "notes": "",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "2019-12-11 - Melbourne, Australia - Margaret Court Arena [AUD].txt"
     },
     {
       "year": 2020,
@@ -260,7 +278,8 @@ const ARTIST_DATA = {
       "venue": "Palazzo Della Sport",
       "notes": "",
       "version": "AUD",
-      "format": "FLAC 24"
+      "format": "FLAC 24",
+      "textFile": "2020-02-15 - Rome, Italy - Palazzo Della Sport [AUD MASTER].txt"
     },
     {
       "year": 2022,
@@ -271,9 +290,10 @@ const ARTIST_DATA = {
       "state": "UK",
       "location": "London, UK",
       "venue": "Royal Albert Hall",
-      "notes": "Teenage · Nokia Lumia 830 · birchy",
+      "notes": "Teenage \u00b7 Nokia Lumia 830 \u00b7 birchy",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "2022-03-26 - London, UK - Royal Albert Hall - Teenage Cancer Trust (Nokia Lumia 830) (birchy) [AUD].txt"
     },
     {
       "year": 2022,
@@ -284,9 +304,10 @@ const ARTIST_DATA = {
       "state": "UK",
       "location": "London, UK",
       "venue": "Alexandra Place",
-      "notes": "Later · NGL Digital Box · johnky",
+      "notes": "Later \u00b7 NGL Digital Box \u00b7 johnky",
       "version": "TV",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "2022-05-21 - London, UK - Alexandra Place - Later With Jools Holland (NGL Digital Box) (johnky) [TV].txt"
     },
     {
       "year": 2022,
@@ -299,7 +320,8 @@ const ARTIST_DATA = {
       "venue": "48hrs At Rockfield",
       "notes": "johnky",
       "version": "TV",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "2022-05-24 - Monmouth, Wales - 48hrs At Rockfield (johnky) [TV].txt"
     },
     {
       "year": 2022,
@@ -310,9 +332,10 @@ const ARTIST_DATA = {
       "state": "England",
       "location": "Knebworth, England",
       "venue": "Knebworth House",
-      "notes": "OUI FM · whatever",
+      "notes": "OUI FM \u00b7 whatever",
       "version": "FM",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "2022-06-03 - Knebworth, England - Knebworth House (OUI FM) (whatever) [FM].txt"
     },
     {
       "year": 2022,
@@ -336,9 +359,10 @@ const ARTIST_DATA = {
       "state": "Portugal",
       "location": "LIsbon, Portugal",
       "venue": "Parque da Bela Vista",
-      "notes": "Rock · johnky",
+      "notes": "Rock \u00b7 johnky",
       "version": "SBD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "2022-06-18 - LIsbon, Portugal - Parque da Bela Vista - Rock in Rio (johnky) [SBD].txt"
     },
     {
       "year": 2022,
@@ -351,7 +375,8 @@ const ARTIST_DATA = {
       "venue": "HEAR HEAR!",
       "notes": "paulo dapper",
       "version": "Webcast",
-      "format": "TS"
+      "format": "TS",
+      "textFile": "2022-08-14 - Hasselt, Belgium - HEAR HEAR! (paulo dapper) [WEBCAST].txt"
     },
     {
       "year": 2022,
@@ -364,7 +389,8 @@ const ARTIST_DATA = {
       "venue": "Lowlands Festival",
       "notes": "fool2005",
       "version": "PRO",
-      "format": "TS"
+      "format": "TS",
+      "textFile": "2022-08-19 - Biddinghuizen, The Netherlands - Lowlands Festival (fool2005) [PRO].txt"
     },
     {
       "year": 2022,
@@ -375,9 +401,10 @@ const ARTIST_DATA = {
       "state": "Ireland",
       "location": "Dublin, Ireland",
       "venue": "Kilmainham Hospital",
-      "notes": "johnky · petrock2000 remaster",
+      "notes": "johnky \u00b7 petrock2000 remaster",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "2022-08-27 - Dublin, Ireland - Kilmainham Hospital (johnky) (petrock2000 remaster) [AUD].txt"
     },
     {
       "year": 2023,
@@ -388,9 +415,10 @@ const ARTIST_DATA = {
       "state": "Belgium",
       "location": "Werchter, Belgium",
       "venue": "Rock Werchter",
-      "notes": "SP-CMC-8 · toshi",
+      "notes": "SP-CMC-8 \u00b7 toshi",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "2023-06-30 - Werchter, Belgium - Rock Werchter (SP-CMC-8) (toshi) [AUD].txt"
     },
     {
       "year": 2023,
@@ -401,9 +429,10 @@ const ARTIST_DATA = {
       "state": "IT",
       "location": "Milan, IT",
       "venue": "Ippodromo Snai La Maura",
-      "notes": "WAV(M) · Sennheiser MM-HLSC-2 · alberto",
+      "notes": "WAV(M) \u00b7 Sennheiser MM-HLSC-2 \u00b7 alberto",
       "version": "AUD",
-      "format": "FLAC 24"
+      "format": "FLAC 24",
+      "textFile": "2023-07-01 - Milan, IT - Ippodromo Snai La Maura - WAV(M) (Sennheiser MM-HLSC-2) (alberto) [AUD24] .txt"
     },
     {
       "year": 2023,
@@ -414,9 +443,10 @@ const ARTIST_DATA = {
       "state": "Japan",
       "location": "Tokyo, Japan",
       "venue": "Summer Sonic Extra",
-      "notes": "Toyosu · DPA 4061 + IEM",
+      "notes": "Toyosu \u00b7 DPA 4061 + IEM",
       "version": "MIX",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "2023-08-22 - Tokyo, Japan  - Summer Sonic Extra - Toyosu Pit (DPA 4061 + IEM) [MIX].txt"
     },
     {
       "year": 2024,
@@ -427,9 +457,10 @@ const ARTIST_DATA = {
       "state": "UK",
       "location": "Wolverhampton, UK",
       "venue": "Civic Hall",
-      "notes": "Pete Remaster · Olympus LS-P1 · welshylad",
+      "notes": "Pete Remaster \u00b7 Olympus LS-P1 \u00b7 welshylad",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "2024-03-14 - Wolverhampton, UK - Civic Hall (Pete Remaster) (Olympus LS-P1) (welshylad) [AUD].txt"
     },
     {
       "year": 2024,
@@ -440,9 +471,10 @@ const ARTIST_DATA = {
       "state": "Wales",
       "location": "Cardiff, Wales",
       "venue": "Utilita Arena",
-      "notes": "Olympus LS-P1 · unk",
+      "notes": "Olympus LS-P1 \u00b7 unk",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "2024-06-03 - Cardiff, Wales - Utilita Arena (Olympus LS-P1) (unk) [AUD].txt"
     },
     {
       "year": 2024,
@@ -455,7 +487,8 @@ const ARTIST_DATA = {
       "venue": "Utilita Arena Cardiff",
       "notes": "AUD-IEM",
       "version": "MIX",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "2024-06-03 - Cardiff, Wales - Utilita Arena Cardiff (AUD-IEM) [MIX].txt"
     },
     {
       "year": 2024,
@@ -466,9 +499,10 @@ const ARTIST_DATA = {
       "state": "Wales",
       "location": "Cardiff, Wales",
       "venue": "Utilita Arena Cardiff",
-      "notes": "SP-CMC-8 · unk",
+      "notes": "SP-CMC-8 \u00b7 unk",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "2024-06-03 - Cardiff, Wales - Utilita Arena Cardiff (SP-CMC-8) (unk) [AUD].txt"
     },
     {
       "year": 2024,
@@ -479,9 +513,10 @@ const ARTIST_DATA = {
       "state": "UK",
       "location": "London, UK",
       "venue": "02 Arena",
-      "notes": "Olympus LS-P1 · welshylad",
+      "notes": "Olympus LS-P1 \u00b7 welshylad",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "2024-06-07 - London, UK - 02 Arena (Olympus LS-P1) (welshylad) [AUD].txt"
     },
     {
       "year": 2024,
@@ -494,7 +529,8 @@ const ARTIST_DATA = {
       "venue": "Reading Festival, Little John's Farm",
       "notes": "1080i",
       "version": "Webcast",
-      "format": "MKV"
+      "format": "MKV",
+      "textFile": "2024-08-25 - Reading, UK - Reading Festival highlights (1080i) [MKV].txt"
     }
   ],
   "misc": [

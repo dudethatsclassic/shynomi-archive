@@ -1,0 +1,37 @@
+SOUNDGARDEN
+Pemberton Music Festival
+2014/07/18 - Pemberton Stage; Pemberton BC, Canada
+
+Source: CA-14's (Cards) > Church Audio ST-9100 > Edirol R09-HR @ 24/96
+Location: Mounted to Stage Right FOH camera booth, 9' high, 10' LOC, approx 100' from stage
+Editing:  EQ, tracking, and fades were done while the show was laid in Sony Soundforge 9.0a (Build 297) as a wav file.  Periodic loud points were gently enveloped to allow for more headroom in normalization.  Normalization performed on each channel independently to -0.10dB.
+Conversion: Trader's Little Helper v.2.7.0 (Build 172)
+
+
+
+TRACKLIST:						TIME:
+
+01. Intro						01:20
+02. Searching with my Good Eye Closed			06:02
+03. Spoonman						04:24
+04. Attrition						03:19
+05. Outshined						06:23
+06. Black Hole Sun					05:35
+07. Jesus Christ Pose					06:09
+08. Like Suicide					07:09
+09. Been Away Too Long					03:36
+10. The Day I Tried to Live				05:18
+11. My Wave						05:27
+12. Superunknown					05:26
+13. Blow up the Outside World				06:48
+14. Fell on Black Days					04:47
+15. A Thousand Days Before				06:15
+16. Rusty Cage						05:09
+17. Beyond the Wheel					08:30
+
+					 GRAND TOTAL-   91:39
+
+
+
+MISC NOTES:
+First time seeing Soundgarden.  Both Soundgarden and Nine Inch Nails played the festival as a dry-run before kicking off a summer-long tour together.  Soundgarden was touring in celebration of the 20th anniversary of their release of the album, Superunknown.

@@ -1,0 +1,28 @@
+Artist: Soundgarden
+Date: 	October 26th 2014
+Venue:	Shoreline Amphitheatre, Mountain View
+
+
+Setlist: 
+
+01 Intro
+02 Fell on Black Days
+03 Blow Up the Outside World
+04 - Chris Talkin 1
+05 Black Hole Sun
+06 - Chris Talkin 2
+07 Zero Chance
+08 - Chris Talkin 3
+09 Dusty 
+
+
+Source:
+Schoeps MK41s > actives > Tinybox > Sony PCM-M10 (9624) > Audacity 
+[+6db, tracking, 2496>1644 conversion, FLAC Export Level 8] > TLH SBE Fix
+
+Taper: mttdxb
+Location: Section 103, Row D
+
+---------
+
+

@@ -1,0 +1,68 @@
+An Evening with Primus
+Wednesday, June 25th, 2014
+State Theatre
+609 Congress Street
+Portland, ME, USA
+
+Taper:  LeifH
+Source:  CA-11 (cardioid) > Sony PCM M10 @ 24/48 > Duracell 8GB microSD card
+Transfer:  Memory card > PC via USB > Wavepad Master's Edition (edits, amplify, tracking, downsample to 16/44.1) > flac (8) via Frontend
+
+Set  I:  1:13:15
+00 intro music
+01 To Defy the Laws of Tradition
+02 Last Salmon Man
+03 The Toys Go Winding Down >
+04 Pudding Time
+05 Groundhog's Day
+06 Eternal Consumption Engine
+07 Jilly's on Smack
+08 drums >
+09 Eleven
+10 Wynona's Big Brown Beaver
+11 Southbound Pachyderm
+
+Set II:  1:09:00
+12 HOINFODAMAN
+13 Here Come the Bastards
+14 American Life
+15 Over the Falls
+16 Lee Van Cleef
+17 The Heckler
+18 Bob
+19 My Name is Mud
+20 Jerry Was A Race Car Driver
+
+21 Mr. Knowitall
+22 Is It Luck?
+
+12th Primus show for me.  I was travelling from the Bronx to get to this show and got there just as the doors opened.  I was in 6 different states this day.  It was raining and continued to all night.  I set up a mini tripod on the railing behind the soundboard, pretty close to dead centre, and got the whole show on video.  The footage is mostly pretty good, a bit dark at times though.  Pudding Time was doobie time, and during Groundhog's Day I thought I was busted for sure.  A venue security person started walking directly towards me and was eyeing up my camera set-up on the railing, so I tucked it away briefly.  But it turned out he was just saying, "hi," to a friend directly below me.  Anyway, those songs are less enjoyable to watch.  
+
+The version of Eternal Consumption Engine from this show is one of the cleanest live versions I've heard.  There was some 'Cheer Up Charlie' style laughing during the Eleven jam.  Les seems to like it when people wear glow sticks and light-up stuff, and this show had 3 people wearing some, "sparkly, jellyfish hats."  He lets us know how he feels about Miracle Whip and mayonnaise in between Over the Falls & Lee Van Cleef.  He also had to figure out the intro to Bob, which I guess hadn't been played very much lately. 
+
+I managed to get both setlists again.  I think this is the only Primus show I've seen where the second set was shorter than the first.  Behind the band there was an LED style video screen, like the one used in 2012 prior to the 3D tour.  Random fact: During this show, Les wore the same coat that Ler's wife did when awarding the prizes on New Year's Eve in 2012 at the Warfield in San Francisco (I noticed by coincidence when comparing footage).  The bar at the State Theatre had a drink called Coattails of a Deadman on special.  Went to a place called Nosh after for some food.  The next day I actually saw some of the city before leaving town.  
+
+fingerprints:
+00 - intro music.flac:bb8a8414f6cb377ac718d91150ae7c31
+01 - To Defy the Laws of Tradition.flac:ea75b162ce01775e4319225aa5f51e71
+02 - Last Salmon Man.flac:b85770ef104a01b7687368d87ae06b80
+03 - The Toys Go Winding Down.flac:bc9bc60283c3588fc53569d2e203543d
+04 - Pudding Time.flac:2e6144b056631d8fe4a51b9b9fc0fd05
+05 - Groundhog's Day.flac:9894fdf35c52d5752c1a83d4fe79942d
+06 - Eternal Consumption Engine.flac:b0f68ee9e5fdc9b2e257d574db1c2ba0
+07 - Jilly's on Smack.flac:a0f194ed76f1ec79570e4919af71b42c
+08 - drums.flac:4767713a4b32fc3c438480ed29dddc42
+09 - Eleven.flac:67681aad59ff62a18012fc381bdfc1b7
+10 - Wynona's Big Brown Beaver.flac:48b20c04a04509600aad2d252fbd7934
+11 - Southbound Pachyderm.flac:45874cf239d194b3506eaf4b31010098
+12 - HOINFODAMAN.flac:04dd087d6a607363a5ff3a2b4fdda666
+13 - Here Come the Bastards.flac:899452db1558777b4af326dc15840986
+14 - American Life.flac:bdc9cfa58da39b11c3ca4981fa02fec3
+15 - Over the Falls.flac:dbf33f85225796e5bcf946d81916b0a8
+16 - Lee Van Cleef.flac:b73d79ace76f3a26ff78cc4506c87d09
+17 - The Heckler.flac:3daf86fc37034a5c0c6d6dacc4ff4a1a
+18 - Bob.flac:11f187c1fe26521597d5af4028ab99d5
+19 - My Name is Mud.flac:49abb8924448df6822dda646b9a04a8a
+20 - Jerry Was A Race Car Driver.flac:135056dd919695557c8e9f461b902668
+21 - Mr. Knowitall.flac:28886d72e8bc931f52614fc3b573fd22
+22 - Is It Luck.flac:495dbe483c66d654477568b1d54e4531

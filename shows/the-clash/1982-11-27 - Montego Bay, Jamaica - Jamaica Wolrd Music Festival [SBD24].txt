@@ -1,0 +1,60 @@
+The Clash - November 27, 1982
+Jamaica World Music Festival - Montego Bay, Jamaica
+
+Recording Info:
+SBD -> Cassette Master (Sony TC-D5M/TDK MA-C90/Dolby B)
+
+Transfer Info:
+Cassette Master (Nakamichi DR-1/Dolby B) -> Sound Devices 744T (24bit/44.1k) ->
+Samplitude Professional v11.2 -> FLAC/24
+(1 DVD FLAC)
+
+All Transfers and Mastering By Charlie Miller
+charliemiller87@earthlink.net
+April 19, 2011
+
+Notes:
+-- This is a high resolution 24bit source
+-- Thanks to Frank Streeter for lending me his masters
+
+
+Setlist:
+t01 - Introduction
+t02 - London Calling
+t03 - Police On My Back
+t04 - The Guns Of Brixton
+t05 - The Magnificent Seven (w/ Armagideon Time)
+t06 - Junco Partner
+t07 - Spanish Bombs
+t08 - One More Time
+t09 - Train In Vain
+t10 - Bankrobber
+t11 - This Is Radio Clash
+t12 - Clampdown
+t13 - Should I Stay Or Should I Go?
+t14 - Rock The Casbah
+
+Encore:
+t15 - Straight To Hell
+t16 - I Fought The Law
+
+
+SHNTOOL OUTPUT:
+    length     expanded size   cdr  WAVE  probs   filename
+     0:38          9966992     cxx   --    ---    TheClash1982-11-27t01.wav
+     3:12         50857994     cxx   --    ---    TheClash1982-11-27t02.wav
+     3:10         50381600     cxx   --    ---    TheClash1982-11-27t03.wav
+     3:57         62797034     cxx   --    ---    TheClash1982-11-27t04.wav
+     7:40        121730408     cxx   --    ---    TheClash1982-11-27t05.wav
+     3:12         50930816     cxx   --    ---    TheClash1982-11-27t06.wav
+     3:14         51284168     cxx   --    ---    TheClash1982-11-27t07.wav
+     2:41         42631670     cxx   --    ---    TheClash1982-11-27t08.wav
+     3:52         61356500     cxx   --    ---    TheClash1982-11-27t09.wav
+     2:59         47298794     cxx   --    ---    TheClash1982-11-27t10.wav
+     4:55         78009404     cxx   --    ---    TheClash1982-11-27t11.wav
+     4:06         65157266     cxx   --    ---    TheClash1982-11-27t12.wav
+     3:06         49215092     cxx   --    ---    TheClash1982-11-27t13.wav
+     3:35         56914652     cxx   --    ---    TheClash1982-11-27t14.wav
+     7:21        116775440     cxx   --    ---    TheClash1982-11-27t15.wav
+     2:51         45252596     cxx   --    ---    TheClash1982-11-27t16.wav
+    60:30        960560426 B                      (totals for 16 files)

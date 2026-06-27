@@ -1,0 +1,58 @@
+
+Chris Cornell
+Chicago Theatre: Chicago, IL
+October 6, 2015
+
+Source: Schoeps MK4s > Tinybox > Sony PCM-M10 @ 24-bit / 44.1kHz
+Location: FOB 3rd row left stack
+Transfer: SD Card > Audacity (click removal/compressor/amplify/dither) > CDWave > TLH
+Taper: tapeworm(48) 
+
+Setlist:
+
+01 Intro
+02 Before We Disappear
+03 Can't Change Me
+04 As Hope & Promise Fade
+05 Nearly Forgot My Broken Heart 
+06 Fell on Black Days
+07 Thank You [Led Zeppelin]
+08 Call Me a Dog
+09 Hunger Strike
+10 The Times They Are a Changin' Back
+11 Say Hello 2 Heaven
+12 You Know My Name
+13 Doesn't Remind Me
+14 Blow Up the Outside World
+15 Let Your Eyes Wander
+16 When I'm Down
+17 Wide Awake
+18 Rusty Cage
+19 Sunshower
+20 Black Hole Sun
+21 Worried Moon
+22 Like a Stone
+23 Nothing Compares 2 U [Prince]
+24 Wooden Jesus
+25 Imagine [John Lennon]
+26 -Encore break-
+27 Seasons
+28 I Am the Highway
+29 Higher Truth
+
+Notes: Higher Truth acoustic tour. Opening act was Hemming (recorded). Tinybox set to mid gain, M10 set to 9. Applied click removal throughout and compressor in select areas prior to amplifying entire file by +2dB, and dithering to 16bit.  Otherwise, raw transfer with no fades or EQ.
+
+Click Removal: 	Threshold - 110
+		Spike Width - 40
+Compressor:	Threshold - -8dB
+		Noise Floor - -60dB
+		Ratio - 5:1
+		Attack Time - 0.1s
+		Decay Time - 2.0s
+
+Archive: Master WAV was archived @ 24-bit/44.1kHz and FLAC'd with cue sheet. 
+
+Taped and transferred by tapeworm(48) 
+Txt file compiled on 11/28/2015
+
+*** DO NOT DISTRIBUTE IN LOSSY FORMATS. DO NOT SELL THIS RECORDING, TRADE IT FREELY *** 

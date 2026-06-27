@@ -1,0 +1,72 @@
+Primus & the Chocolate Factory w/Fungi Ensemble
+Saturday, January 3rd, 2015
+Paramount Theatre
+911 Pine Street
+Seattle, WA, USA
+
+Taper:  LeifH
+Source:  CA-11 (cardioid) > CA-Bat2B > Sony PCM M10 @ 24/48 > Duracell 8GB microSD card
+Transfer:  Memory card > PC via USB > Wavepad Master's Edition (edits, amplify, tracking, downsample to 16/44.1) > flac(8) via Frontend
+
+Set  I:  1:02:57
+00 intro 
+01 Too Many Puppies > Hello Skinny
+02 Moron TV
+03 Fisticuffs
+04 Southbound Pachyderm
+05 Jilly's On Smack
+06 Mr. Krinkle
+07 John the Fisherman
+08 My Name is Mud
+09 Jerry Was a Race Car Driver
+
+Set II:  1:08:56
+10 Hello Wonkites
+11 The Candy Man
+12 Cheer Up Charlie
+13 Golden Ticket
+14 Lermaninoff
+15 Pure Imagination
+16 Oompa Augustus
+17 The Semi-Wondrous Boatride
+18 Oompa Violet
+19 I Want It Now
+20 Oompa Veruca
+21 Wonkamobile
+22 Oompa TV
+23 Farewell Wonkites
+
+24 Moby Dick
+25 Here Come the Bastards
+
+15th Primus show.  This was the last of 3 shows in a row that I went to on my trip up the west coast.  Everyone lined up across the street before the doors opened.  The Paramount is a good venue, and the floor was general admission which made for a high energy crowd.  I was dead centre on the floor, about 15 'rows' from the stage if I remember.  
+
+I got the setlist during the intermission.  Skerik sat in on the second set with the Fungi Ensemble, as well as Here Come the Bastards.  
+
+fingerprints:
+00 - intro.flac:bdbac590110b58f31b699b51d001b17c
+01 - Too Many Puppies.flac:6959b4c2b3b1d340562ab045be02647c
+02 - Moron TV.flac:8dab1a38af3f8276da699428f6e76ce4
+03 - Fisticuffs.flac:c24754b19d6112dbaa5efa55b8fbe7b8
+04 - Southbound Pachyderm.flac:9009c3617aef224c43deda6b70e6f8bb
+05 - Jilly's on Smack.flac:cb883934cb3333583c59693ba43a3169
+06 - Mr. Krinkle.flac:e74a1f4e3408dc6e1d9b189c57c57ca9
+07 - John the Fisherman.flac:c3e169ae93e1f783bb9ce0dd41da8b0d
+08 - My Name is Mud.flac:027c3a722b033710ceb2e8774a3ef4ab
+09 - Jerry Was a Race Car Driver.flac:76ed83e59fdf292a233eee2b2aaf1c84
+10 - Hello Wonkites.flac:8a7679c37992893144ad6cf46a0dddc7
+11 - The Candy Man.flac:c7767e829e1a866160d73fdffdc26dc2
+12 - Cheer Up Charlie.flac:d18a97f99f054ea152fc41884224e2dd
+13 - Golden Ticket.flac:87b28f5e6e3d184b7474b1aac098f317
+14 - Lermaninoff.flac:cc7a6c6cd51dc9dd87a978acdb6de14a
+15 - Pure Imagination.flac:cfce7ebb1874a375c7982b8c797fdd2e
+16 - Oompa Augustus.flac:b8c930e6221302bb5145f192573e8986
+17 - The Semi-Wondrous Boatride.flac:d43e58d231089675bf494c1141bed096
+18 - Oompa Voilet.flac:3bbea55f8d5e985e1c5595a5c85d9ea0
+19 - I Want It Now.flac:01dfeabe99994f498eff5973cc295aef
+20 - Oompa Veruca.flac:44fa386114a60b29f58c5e4ace6086a6
+21 - Wonkamobile.flac:c66ac8fb16be7e7115d6180752ac8bdd
+22 - Oompa TV.flac:14bd1ebf1d33e372e93e8cbde08d0bed
+23 - Farewell Wonkites.flac:45862d697bbecac8982faecc7cb042d6
+24 - Moby Dick.flac:f33f21977885d8e7be090ddd3596d696
+25 - Here Come the Bastards.flac:ac8c885a936e1a6e52ea024922ee03bb

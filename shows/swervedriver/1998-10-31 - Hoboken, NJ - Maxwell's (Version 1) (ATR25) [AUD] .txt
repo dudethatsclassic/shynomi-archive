@@ -1,0 +1,117 @@
+EAC extraction logfile from 22. April 2005, 19:25 for CD
+swd / 1998-10-31
+
+Used drive  : _NEC    DV-5800A   Adapter: 1  ID: 0
+Read mode   : Secure with C2, accurate stream, NO disable cache
+Combined read/write offset correction : 0
+Overread into Lead-In and Lead-Out : No
+
+Used output format : Internal WAV Routines
+                     44.100 Hz; 16 Bit; Stereo
+
+Other options      : 
+    Fill up missing offset samples with silence : Yes
+    Delete leading and trailing silent blocks : No
+    Native Win32 interface for Win NT & 2000
+
+
+Track  1
+     Filename D:\martin\music\easytree\swd1998-10-31t01.wav
+
+     Peak level 91.8 %
+     Track quality 99.9 %
+     Copy CRC C6DB7F29
+     Copy OK
+
+Track  2
+     Filename D:\martin\music\easytree\swd1998-10-31t02.wav
+
+     Peak level 91.9 %
+     Track quality 100.0 %
+     Copy CRC 7CFD9543
+     Copy OK
+
+Track  3
+     Filename D:\martin\music\easytree\swd1998-10-31t03.wav
+
+     Peak level 91.4 %
+     Track quality 99.9 %
+     Copy CRC 2B0D0D58
+     Copy OK
+
+Track  4
+     Filename D:\martin\music\easytree\swd1998-10-31t04.wav
+
+     Peak level 91.3 %
+     Track quality 99.9 %
+     Copy CRC 5D0406C4
+     Copy OK
+
+Track  5
+     Filename D:\martin\music\easytree\swd1998-10-31t05.wav
+
+     Peak level 92.3 %
+     Track quality 100.0 %
+     Copy CRC 30439CFC
+     Copy OK
+
+Track  6
+     Filename D:\martin\music\easytree\swd1998-10-31t06.wav
+
+     Peak level 92.9 %
+     Track quality 100.0 %
+     Copy CRC D9927600
+     Copy OK
+
+Track  7
+     Filename D:\martin\music\easytree\swd1998-10-31t07.wav
+
+     Peak level 92.3 %
+     Track quality 99.9 %
+     Copy CRC 33F27A16
+     Copy OK
+
+Track  8
+     Filename D:\martin\music\easytree\swd1998-10-31t08.wav
+
+     Peak level 92.5 %
+     Track quality 100.0 %
+     Copy CRC AAA2EC1D
+     Copy OK
+
+Track  9
+     Filename D:\martin\music\easytree\swd1998-10-31t09.wav
+
+     Peak level 92.4 %
+     Track quality 99.7 %
+     Copy CRC 4BDE1DD4
+     Copy OK
+
+Track 10
+     Filename D:\martin\music\easytree\swd1998-10-31t10.wav
+
+     Peak level 93.5 %
+     Track quality 100.0 %
+     Copy CRC F963DEDB
+     Copy OK
+
+Track 11
+     Filename D:\martin\music\easytree\swd1998-10-31t11.wav
+
+     Peak level 92.0 %
+     Track quality 100.0 %
+     Copy CRC 14CC8988
+     Copy OK
+
+Track 12
+     Filename D:\martin\music\easytree\swd1998-10-31t12.wav
+
+     Peak level 92.8 %
+     Track quality 100.0 %
+     Copy CRC 26D33DFA
+     Copy OK
+
+No errors occured
+
+
+End of status report

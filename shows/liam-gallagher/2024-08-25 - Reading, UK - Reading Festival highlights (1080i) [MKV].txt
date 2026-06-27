@@ -1,0 +1,183 @@
+Liam Gallagher
+Reading Festival
+Reading
+U.K.
+2024-08-25 (Sunday)
+
+https://www.bbc.co.uk/iplayer/episode/m0022f9b/radio-1-at-reading-and-leeds-festival-2024-liam-gallagher
+
+https://ichef.bbci.co.uk/images/ic/1920x1080/p0jllwxk.jpg
+
+also:
+http://ichef.bbci.co.uk/images/ic/128x72/p0jllwxk.jpg
+http://ichef.bbci.co.uk/images/ic/144x81/p0jllwxk.jpg
+http://ichef.bbci.co.uk/images/ic/192x108/p0jllwxk.jpg
+http://ichef.bbci.co.uk/images/ic/256x144/p0jllwxk.jpg
+http://ichef.bbci.co.uk/images/ic/384x216/p0jllwxk.jpg
+http://ichef.bbci.co.uk/images/ic/480x270/p0jllwxk.jpg
+http://ichef.bbci.co.uk/images/ic/624x351/p0jllwxk.jpg
+http://ichef.bbci.co.uk/images/ic/608x342/p0jllwxk.jpg
+http://ichef.bbci.co.uk/images/ic/640x360/p0jllwxk.jpg
+http://ichef.bbci.co.uk/images/ic/864x486/p0jllwxk.jpg
+http://ichef.bbci.co.uk/images/ic/944x531/p0jllwxk.jpg
+http://ichef.bbci.co.uk/images/ic/976x549/p0jllwxk.jpg
+http://ichef.bbci.co.uk/images/ic/1024x576/p0jllwxk.jpg
+http://ichef.bbci.co.uk/images/ic/1280x720/p0jllwxk.jpg
+http://ichef.bbci.co.uk/images/ic/1632x918/p0jllwxk.jpg
+http://ichef.bbci.co.uk/images/ic/1920x1080/p0jllwxk.jpg
+etc ...
+
+BBC One SE HD broadcast 2024-08-25 > DVB-S > TBS 6985 > DVBviewer > .ts >
+VideoRedo TV Suite (version 6.62.6.833 (2021-09-22)) > mkv > mkvmergeGUI v87.0.0 (chapters) > .mkv file
+
+Video : 1920 x 1080i / 25fps @ 6084kbps
+Video Codec : H.264/MPEG-4 AVC
+Aspect Ratio : 16:9
+No logo
+Audio track : AC-3 48.0 kHz @ 192kbps
+Length : 50:58
+
+md5:
+3ebcf791c7a4ad32c59f0d023a13b1cc *Liam Gallagher 2024-08-25 Reading Festival highlights 1080i.mkv
+========================================================================
+
+  1. Introduction
+  2. Rock 'n' Roll Star
+  3. Columbia
+  4. Up In The Sky
+  5. Digsy's Dinner
+  6. Bring It On Down
+  7. (It's Good) To Be Free
+  8. Married With Children
+  9. Supersonic
+ 10. Slide Away
+ 11. Live Forever
+ 12. I Am The Walrus
+Total Time : [50:58]
+
+https://www.liamgallagher.com/
+
+MediaInfo output:
+========================================================================
+General
+Unique ID                                : 226390840165631971227523303305415905166 (0xAA514A31B57A0907D498CF5DA2A64F8E)
+Complete name                            : Liam Gallagher 2024-08-25 Reading Festival highlights 1080i.mkv
+Format                                   : Matroska
+Format version                           : Version 4
+File size                                : 2.24 GiB
+Duration                                 : 50 min 58 s
+Overall bit rate                         : 6 281 kb/s
+Frame rate                               : 25.151 FPS
+Movie name                               : Liam Gallagher 2024-08-25 Reading Festival highlights
+Encoded date                             : 2024-09-14 16:07:09 UTC
+Writing application                      : mkvmerge v87.0 ('Black as the Sky') 64-bit
+Writing library                          : libebml v1.4.5 + libmatroska v1.7.1
+
+Video
+ID                                       : 1
+Format                                   : AVC
+Format/Info                              : Advanced Video Codec
+Format profile                           : High@L4
+Format settings                          : CABAC / 4 Ref Frames
+Format settings, CABAC                   : Yes
+Format settings, Reference frames        : 4 frames
+Format settings, GOP                     : M=8, N=24
+Codec ID                                 : V_MPEG4/ISO/AVC
+Duration                                 : 50 min 58 s
+Bit rate                                 : 6 084 kb/s
+Width                                    : 1 920 pixels
+Height                                   : 1 080 pixels
+Display aspect ratio                     : 16:9
+Active Format Description                : Letterbox 16:9 image, with alternative 14:9 center
+Frame rate mode                          : Variable
+Frame rate                               : 25.151 FPS
+Original frame rate                      : 25.000 FPS
+Standard                                 : Component
+Color space                              : YUV
+Chroma subsampling                       : 4:2:0
+Bit depth                                : 8 bits
+Scan type                                : MBAFF
+Scan type, store method                  : Interleaved fields
+Scan order                               : Top Field First
+Bits/(Pixel*Frame)                       : 0.117
+Stream size                              : 2.17 GiB (97%)
+Language                                 : English
+Default                                  : No
+Forced                                   : No
+Color range                              : Limited
+Color primaries                          : BT.709
+Transfer characteristics                 : BT.709
+Matrix coefficients                      : BT.709
+
+Audio
+ID                                       : 2
+Format                                   : AC-3
+Format/Info                              : Audio Coding 3
+Commercial name                          : Dolby Digital
+Codec ID                                 : A_AC3
+Duration                                 : 50 min 58 s
+Bit rate mode                            : Constant
+Bit rate                                 : 192 kb/s
+Channel(s)                               : 2 channels
+Channel layout                           : L R
+Sampling rate                            : 48.0 kHz
+Frame rate                               : 31.250 FPS (1536 SPF)
+Compression mode                         : Lossy
+Stream size                              : 70.0 MiB (3%)
+Language                                 : English
+Service kind                             : Complete Main
+Default                                  : Yes
+Forced                                   : No
+Dialog Normalization                     : -23 dB
+compr                                    : -0.28 dB
+dsurmod                                  : Not Dolby Surround encoded
+mixlevel                                 : 281 dB
+roomtyp                                  : 3
+dialnorm_Average                         : -23 dB
+dialnorm_Minimum                         : -23 dB
+dialnorm_Maximum                         : -23 dB
+
+Text #1
+ID                                       : 3
+Format                                   : UTF-8
+Codec ID                                 : S_TEXT/UTF8
+Codec ID/Info                            : UTF-8 Plain Text
+Duration                                 : 50 min 39 s
+Bit rate                                 : 68 b/s
+Frame rate                               : 0.313 FPS
+Count of elements                        : 951
+Stream size                              : 25.3 KiB (0%)
+Language                                 : English
+Default                                  : No
+Forced                                   : No
+
+Text #2
+ID                                       : 4
+Format                                   : DVB Subtitle
+Muxing mode                              : zlib
+Codec ID                                 : S_DVBSUB
+Codec ID/Info                            : Picture based subtitle format used on DVBs
+Duration                                 : 50 min 58 s
+Bit rate                                 : 8 267 b/s
+Frame rate                               : 0.371 FPS
+Count of elements                        : 1134
+Stream size                              : 3.01 MiB (0%)
+Language                                 : English
+Default                                  : No
+Forced                                   : No
+
+Menu
+00:00:00.000                             : en:Jack Saunders introduction
+00:00:58.000                             : en:Video montage
+00:01:47.000                             : en:Rock 'n' Roll Star
+00:06:39.000                             : en:Columbia
+00:11:19.000                             : en:Up In The Sky
+00:16:05.000                             : en:Digsy's Dinner
+00:18:26.000                             : en:Bring It On Down
+00:22:19.000                             : en:(It's Good) To Be Free
+00:26:01.000                             : en:Married With Children
+00:28:46.000                             : en:Supersonic
+00:33:51.000                             : en:Slide Away
+00:39:46.000                             : en:Live Forever
+00:44:49.000                             : en:I Am The Walrus
+========================================================================

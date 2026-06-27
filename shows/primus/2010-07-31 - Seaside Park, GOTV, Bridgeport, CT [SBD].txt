@@ -1,0 +1,49 @@
+Primus
+2010-07-31
+GOTV @ Seaside Park, Bridgeport, CT.
+
+*** from the Teddy Ballgame Archive ***
+
+Source
+SBD : DAT (master) @ 16 bit / 48 kHz
+
+Transfer
+TascamDA-20mkII > S/PDIF > MarantzPMD-661pro (SDHC card) @ 16 bit / 48 kHz
+
+Mastering
+SDHC card (raw WAV) > WavelabPro9.5 > CDWav (tracking) > TLH (FLAC level8)
+
+Recorded by Anonymous
+Transferred (February 2020) by Chris Mrachek (Leftover Salmon's Archivist)
+Mastered (July 2020) by Chris Mrachek (Leftover Salmon's Archivist)
+
+*** Show Notes ***
+~ 16 bit / 48 kHz
+~ small DAT "pause" prior to the outro. I crossfaded this and left the outro in for completeness.
+~ special thanks to brother Ted Mattes for getting this master to me
+
+
+SHOW - disc 1 of 2
+01 - intro
+02 - To Defy The Laws Of Tradition
+03 - In The Flesh
+04 - Here Comes The Bastards
+05 - American Life
+06 - Duchess and the Proverbial Mind Spread
+07 - Coattails of a Dead Man
+08 - Bob >
+09 - Jerry Was A Race Car Driver
+10 - Over the Electric Grapevine
+
+SHOW (cont.) - disc 2 of 2
+01 - Behind My Camel > 
+02 - Groundhogs Day
+03 - Drums (w/ Whamola Jam)
+04 - Eleven
+05 - Frizzle Fry >
+06 - Harold Of The Rocks
+ENCORE
+07 - Over The Falls >
+08 - Those Damned Blue-Collar Tweekers
+09 - outro
+

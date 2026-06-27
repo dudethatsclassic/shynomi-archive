@@ -1,0 +1,71 @@
+Artist : Sonic Youth
+Date : Thursday, April 20th, 2006
+City : Paris, France
+Venue : Le Nouveau Casino ( http://www.nouveaucasino.net ) (capacity max : 500)
+
+
+
+Set List:
+
+Disc 1:
+01 intro
+02 Incinerate
+03 Sleepin' Around
+04 Do You Believe in Rapture?
+05 Pink Stream
+06 Shaking Hell
+07 Rats
+08 Pacific Coast Highway
+09 Stones
+10 Turquoise Boys (false start)
+11 Turquoise Boys
+12 Lights Out
+13 Sunday
+14 Brother James
+
+Disc 2:
+01 first encore
+02 Making the Nature Scene
+03 Or
+04 second encore
+05 Mote
+
+
+
+Notes : 
+- second warm-up show for the forthcoming 'Rather Ripped' tour
+- French Filmaker Claire Denis was on stage to shoot the set 
+
+-----------------------------------------
+
+Audience Recording by kissamos
+Location: standing right behind the sound and light console, dead center, on the balcony
+Lineage: Sony ECM717 micropone + Sony MZ-R900 Minidisc -> analog capture to SoundBlaster Audigy -> Wavelab editing (see below) -> FLAC
+
+Editing : 
+The change of MD occured after the main set, and during the first encore cheers.
+Most of this first encore cheers has been cut off, as most of the second encore cheers (about 1m20s edited out)
+
+Known issues: 
+A Digital Glitch during "Rats". This is on the master MD, cannot edit it out, sorry.
+People get a bit talkative during the encores, but this is merely audible.
+
+My sounding appreciation : B+/A-
+
+
+-----------------------------------------
+
+Notes by _tunic_ on 4 August 2020:
+- Update of info file, correcting some titles in setlist and filenames
+- New ffp and md5 checksums, in addition to the pre-existing sfv checksums
+- My rating would be B
+- A complete video is on youtube, but it's not shot from the stage: https://www.youtube.com/watch?v=D8zP9c29CnA
+- The gigograpy page for the previous night mentions that Jim was not present: "Sonic Youth's first performance as a quartet since 2000 (actually, since 5 September 2004, but Jim was still in the band at that point, just unavailable)."
+Jim also wasn't present this night either (see the video).
+- Previous night links: http://www.sonicyouth.com/mustang/cc/041906.html
+& http://www.dimeadozen.org/torrents-details.php?id=682563
+- This night links: http://www.sonicyouth.com/mustang/cc/042006.html
+& some reviews + pictures (in French): 
+http://www.xsilence.net/concert-934.htm
+https://www.concertandco.com/critique/concert-sonic-youth/casino-paris-paris-9eme/13655.htm
+- According to https://sites.google.com/site/sylrdb/2006/042006 several other sources exist

@@ -1,0 +1,80 @@
+Tom Petty & The Heartbreakers
+"40th Anniversary Tour"
+Rogers Arena
+Vancouver, BC
+August 17, 2017
+
+** 16 BIT **
+
+Source:  SP-CMC-8 cardioids > SP-SPSB-7 battery box > Edirol R-05 @ 24 bit/48 kHz
+Mastering:  .WAV > iZotope RX7 Advanced v7.01.315 (De-click) > Sound Forge Pro 14.0 Build 138 [minor edits, normalize, & fades, Boz Digital Labs T-Bone plug-in (slant EQ)] > CDWav 
+(tracking) > iZotope MBIT+ (dithered and downsampled to 16 bit/44.1 kHz) > Trader's Little Helper (level 5) > FLAC > TagScanner 6.0.35 (tagging)
+Recorded by:  Chris Bold
+Mastered by:  Dennis Orr
+
+Setlist: (2:09:04)
+01 Crowd/Tuning/Intro
+02 Rockin' Around (With You)
+03 Mary Jane's Last Dance
+04 Chat
+05 You Don't Know How It Feels
+06 Forgotten Man
+07 Chat
+08 Into The Great Wide Open
+09 I Won't Back Down
+10 Free Fallin'
+11 Chat
+12 Walls (Circus)
+13 Don't Come Around Here No More
+14 Band Intros & Chat
+15 It's Good To Be King
+16 Crawling Back To You
+17 Wildflowers
+18 Learning To Fly
+19 Yer So Bad
+20 I Should Have Known It
+21 Refugee
+22 Runnin' Down A Dream
+23 Encore Break
+- Encore -
+24 You Wreck Me
+25 Chat
+26 American Girl
+27 Crowd/Tom Says Good Night
+
+Tom Petty - lead vocals & guitars
+Mike Campbell - lead guitar
+Benmont Tench - keyboards & backing vocals
+Ron Blair - bass & backing vocals
+Scott Thurston - harp, keyboards, rhythm guitar, bass, & backing vocals
+Steve Ferrone - drums & percussion
+Patti Webb - backing vocals
+Charlie Webb - backing vocals
+
+TomPetty2017-08-17t01.flac:d695aaaceff8ad504bb1adf45163b275
+TomPetty2017-08-17t02.flac:17abe56028f295ca55d9695e3b692613
+TomPetty2017-08-17t03.flac:197b1933c73568fa782d60878b6d1269
+TomPetty2017-08-17t04.flac:69feccf15305c60262c39f2196da129e
+TomPetty2017-08-17t05.flac:c1d493760bbbba5b3ec6c068ad5f901c
+TomPetty2017-08-17t06.flac:6693c7f4502fc3c63e7930b997105364
+TomPetty2017-08-17t07.flac:c32f078b038f0b990c2fefd501f2e25c
+TomPetty2017-08-17t08.flac:cb3c7976ce44573d50bab1c61fbc0926
+TomPetty2017-08-17t09.flac:e549643eac5a2634c26ffb34ec241c31
+TomPetty2017-08-17t10.flac:f3168ebc64ff98df4c42eccbad59f18a
+TomPetty2017-08-17t11.flac:5cbd9a41f63270086e48c12ae9b8636c
+TomPetty2017-08-17t12.flac:0900f8771f037f2271971b9b98343e97
+TomPetty2017-08-17t13.flac:fe31cbf04f5596b90b09c971811f6e9b
+TomPetty2017-08-17t14.flac:c13acd1bbf353ac2ccdc1bedc0bfc390
+TomPetty2017-08-17t15.flac:72b37703a2becd5e8e0e3c9390409821
+TomPetty2017-08-17t16.flac:4b771811bfebf322262d427861a4fc5f
+TomPetty2017-08-17t17.flac:40a1c7dcfb06ae692d5f9b84a8743e7e
+TomPetty2017-08-17t18.flac:1997f5a50bfb52cc4b6869a111840642
+TomPetty2017-08-17t19.flac:12e311585f88d3b20a258ec782a9c3d3
+TomPetty2017-08-17t20.flac:02911f8c5b29b1c4ff17175eceda0a8c
+TomPetty2017-08-17t21.flac:20442870c75e7eb62851f74e3771d25f
+TomPetty2017-08-17t22.flac:ca6a3a479dac419bc8631e8661691a6c
+TomPetty2017-08-17t23.flac:759c50f5054865eda6dae25aa569658f
+TomPetty2017-08-17t24.flac:783ab190eabfc0d491c5284e6a8f6019
+TomPetty2017-08-17t25.flac:bc00eeda46d0b2a3dcd4843bbcc0a186
+TomPetty2017-08-17t26.flac:27b449cda1b8f004daa0d34e66b4ef62
+TomPetty2017-08-17t27.flac:720d9a3e4ec44141f7c03ea13f6b81bd

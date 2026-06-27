@@ -1,0 +1,54 @@
+SOUNDGARDEN
+September 8, 1992
+Desert Sky Pavillion (Lollapalooza '92)
+Phoenix, AZ, US
+
+SETLIST:
+-------------------
+00. intro/banter
+01. Face Pollution
+02. Outshined
+03. Gun
+04. Jesus Christ Pose
+05. Cop Killer [Body Count cover]
+06. Hands All Over
+07. Rusty Cage
+08. Slaves and Bulldozers
+
+
+SOURCE:
+-------------------
+AUD #1 - Quality: 8.5
+unknown > unknown
+
+TRANSFER:
+-------------------
+unknown mic > unknown cassette recorder > unknown transfer to CD > Lollapalooza '92 (Soundgarden) [KTS-115] > LG HL-DT-STDVDRAM GP57ES40 External Drive > Exact Audio Copy v1.6 > Adobe Audition 23.3 [re-tracking] > xACT 2.52 > FLAC [Level 8]
+
+GENERATION:
+-------------------
+Unofficial CD ["Lollapalooza '92" bootleg] > WAV [44.1kHz/16-bit] > FLAC [Level 8]
+
+NOTES:
+-------------------
+- This fileset was properly ripped straight from the bootleg CD, with proper re-tracking following the transfer.
+- No EQ'ing was implemented.
+- It is rumored that the lineage is DAT(M) > ANA(1) > CD.
+
+
+FLAC FINGERPRINTS:
+-------------------
+soundgarden1992-09-08-aud1-t00.flac:4bbffde48fbbdba1823da5ca4e1bfaf2
+soundgarden1992-09-08-aud1-t01.flac:955b824540a54447ef338aa7f787fb23
+soundgarden1992-09-08-aud1-t02.flac:f1e7b84cc8c328fe7a98f844b04797ad
+soundgarden1992-09-08-aud1-t03.flac:312c1ccd8fdd8c6bfa30397b648bd34b
+soundgarden1992-09-08-aud1-t04.flac:a9bf2831ec297bb6d9a733097d8ea03f
+soundgarden1992-09-08-aud1-t05.flac:2f429006b045e51dbcd5f2db11b74179
+soundgarden1992-09-08-aud1-t06.flac:fb5491c0a387c592f0ec0f470655c278
+soundgarden1992-09-08-aud1-t07.flac:85cb0547f70e85585d7f0cf3c98045eb
+soundgarden1992-09-08-aud1-t08.flac:56ad8e349a4d3c3a9aa2cde12a4d7a13
+
+
+
+Transferred and encoded by: Chris Jonasson & vibrioidxire
+PLEASE DO NOT DISTRIBUTE IN LOSSY FORMATS OR SELL!

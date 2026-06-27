@@ -24,7 +24,8 @@ const ARTIST_DATA = {
       "venue": "Backstage - ANA",
       "version": "AUD",
       "format": "FLAC",
-      "notes": "1 \u00b7 Unknown"
+      "notes": "1 \u00b7 Unknown",
+      "textFile": "1983-01-18 - Tucson, AZ - Backstage - ANA(1) (unk) [AUD].txt"
     },
     {
       "year": 1983,
@@ -37,7 +38,8 @@ const ARTIST_DATA = {
       "venue": "Gerde's Folk City - ANA",
       "version": "AUD",
       "format": "FLAC",
-      "notes": "x \u00b7 loughney transfer"
+      "notes": "x \u00b7 loughney transfer",
+      "textFile": "1983-04-27 - New York City, NY - Gerde's Folk City - ANA(x) (loughney transfer) [AUD].txt"
     },
     {
       "year": 1983,
@@ -50,7 +52,8 @@ const ARTIST_DATA = {
       "venue": "Love Hall",
       "version": "SBD",
       "format": "FLAC",
-      "notes": ""
+      "notes": "",
+      "textFile": "1983-12-16 - Philadelphia, PA - Love Hall [SBD].txt"
     },
     {
       "year": 1984,
@@ -63,7 +66,8 @@ const ARTIST_DATA = {
       "venue": "Royal Albert Arms - ANA",
       "version": "AUD",
       "format": "FLAC",
-      "notes": "x \u00b7 Early and Late show"
+      "notes": "x \u00b7 Early and Late show",
+      "textFile": "1984-01-20 - Winnipeg, Canada - Royal Albert Arms - ANA(x) (Early and Late show) [AUD].txt"
     },
     {
       "year": 1984,
@@ -76,7 +80,8 @@ const ARTIST_DATA = {
       "venue": "Maxwell's",
       "version": "AUD #2",
       "format": "FLAC",
-      "notes": "Unknown"
+      "notes": "Unknown",
+      "textFile": "1984-06-23 - Hoboken, NJ - Maxwell's (unk) [AUD #2].txt"
     },
     {
       "year": 1984,
@@ -89,7 +94,8 @@ const ARTIST_DATA = {
       "venue": "7th Street Entry",
       "version": "AUD",
       "format": "FLAC",
-      "notes": ""
+      "notes": "",
+      "textFile": "1984-09-08 - Minneapolis, MN - 7th Street Entry [AUD].txt"
     },
     {
       "year": 1984,
@@ -102,7 +108,8 @@ const ARTIST_DATA = {
       "venue": "Channel - ANA",
       "version": "AUD",
       "format": "FLAC",
-      "notes": "x \u00b7 loughney transfer"
+      "notes": "x \u00b7 loughney transfer",
+      "textFile": "1984-09-30 - Boston, MA - Channel - ANA(x) (loughney transfer) [AUD].txt"
     },
     {
       "year": 1984,
@@ -115,7 +122,8 @@ const ARTIST_DATA = {
       "venue": "Club Lingerie - ANA",
       "version": "AUD",
       "format": "FLAC",
-      "notes": "x \u00b7 loughney transfer"
+      "notes": "x \u00b7 loughney transfer",
+      "textFile": "1984-12-15 - Los Angeles, CA - Club Lingerie - ANA(x) (loughney transfer) [AUD].txt"
     },
     {
       "year": 1984,
@@ -128,7 +136,8 @@ const ARTIST_DATA = {
       "venue": "Keystone",
       "version": "SBD",
       "format": "FLAC",
-      "notes": ""
+      "notes": "",
+      "textFile": "1984-12-18 - Palo Alto, CA - Keystone [SBD].txt"
     },
     {
       "year": 1984,
@@ -141,7 +150,8 @@ const ARTIST_DATA = {
       "venue": "Maxwell's",
       "version": "AUD",
       "format": "FLAC",
-      "notes": ""
+      "notes": "",
+      "textFile": "1984-12-31 - Hoboken, NJ - Maxwell's [AUD].txt"
     },
     {
       "year": 1985,
@@ -154,7 +164,8 @@ const ARTIST_DATA = {
       "venue": "EMU Dining Room",
       "version": "SBD",
       "format": "FLAC",
-      "notes": ""
+      "notes": "",
+      "textFile": "1985-02-22 - Eugene, OR - EMU Dining Room [SBD].txt"
     },
     {
       "year": 1985,
@@ -167,7 +178,8 @@ const ARTIST_DATA = {
       "venue": "Keystone",
       "version": "SBD",
       "format": "FLAC",
-      "notes": "Multi-track reel \u00b7 craig62 transfer"
+      "notes": "Multi-track reel \u00b7 craig62 transfer",
+      "textFile": "1985-02-28 - Palo Alto, CA - Keystone (Multi-track reel) (craig62 transfer) [SBD].txt"
     },
     {
       "year": 1985,
@@ -180,7 +192,8 @@ const ARTIST_DATA = {
       "venue": "Blue Note - ANA",
       "version": "SBD",
       "format": "FLAC",
-      "notes": "M"
+      "notes": "M",
+      "textFile": "1985-11-04 - Boulder, CO - Blue Note - ANA(M) [SBD].txt"
     },
     {
       "year": 1986,
@@ -193,7 +206,8 @@ const ARTIST_DATA = {
       "venue": "Phantasy Theatre",
       "version": "AUD",
       "format": "FLAC",
-      "notes": ""
+      "notes": "",
+      "textFile": "1986-02-01 - Lakewood, OH - Phantasy Theatre [AUD].txt"
     },
     {
       "year": 1986,
@@ -206,7 +220,8 @@ const ARTIST_DATA = {
       "venue": "Irving Plaza (Late Show)",
       "version": "AUD",
       "format": "FLAC",
-      "notes": "LUXMAN K-111 \u00b7 Unknown"
+      "notes": "LUXMAN K-111 \u00b7 Unknown",
+      "textFile": "1986-02-07 - New York, NY - Irving Plaza (Late Show)  (LUXMAN K-111) (unk) [AUD].txt"
     },
     {
       "year": 1986,
@@ -219,7 +234,8 @@ const ARTIST_DATA = {
       "venue": "Mississippi Nights - CASS",
       "version": "AUD",
       "format": "FLAC",
-      "notes": "M \u00b7 doug morris"
+      "notes": "M \u00b7 doug morris",
+      "textFile": "1986-02-20 - St. Louis, MO - Mississippi Nights - CASS(M) (doug morris) [AUD].txt"
     },
     {
       "year": 1986,
@@ -232,7 +248,8 @@ const ARTIST_DATA = {
       "venue": "",
       "version": "AUD",
       "format": "FLAC",
-      "notes": ""
+      "notes": "",
+      "textFile": "1986-03-14 - Edinburgh, Scotland - The Potterrow [AUD].txt"
     },
     {
       "year": 1986,
@@ -245,7 +262,8 @@ const ARTIST_DATA = {
       "venue": "Riverside",
       "version": "AUD",
       "format": "FLAC",
-      "notes": "Unknown"
+      "notes": "Unknown",
+      "textFile": "1986-03-13 - Newcastle, England - Riverside (unk) [AUD].txt"
     },
     {
       "year": 1986,
@@ -258,7 +276,8 @@ const ARTIST_DATA = {
       "venue": "Victoria Hotel - CASS",
       "version": "AUD",
       "format": "FLAC",
-      "notes": "M \u00b7 Unknown"
+      "notes": "M \u00b7 Unknown",
+      "textFile": "1986-03-15 - Aberdeen, Scotland - Victoria Hotel - CASS(M) (unk) [AUD].txt"
     },
     {
       "year": 1986,
@@ -271,7 +290,8 @@ const ARTIST_DATA = {
       "venue": "Lounge Hall, Liverpool University",
       "version": "AUD",
       "format": "FLAC",
-      "notes": ""
+      "notes": "",
+      "textFile": "1986-03-17 - Liverpool, England - Lounge Hall, Liverpool University [AUD].txt"
     },
     {
       "year": 1986,
@@ -284,7 +304,8 @@ const ARTIST_DATA = {
       "venue": "The Leadmill",
       "version": "AUD",
       "format": "FLAC",
-      "notes": ""
+      "notes": "",
+      "textFile": "1986-03-22 - Sheffield, England - The Leadmill [AUD].txt"
     },
     {
       "year": 1986,
@@ -297,7 +318,8 @@ const ARTIST_DATA = {
       "venue": "The Roxy",
       "version": "AUD",
       "format": "FLAC",
-      "notes": "unk \u00b7 jems 2020 transfer"
+      "notes": "unk \u00b7 jems 2020 transfer",
+      "textFile": "1986-05-08 - West Hollywood, CA - The Roxy (unk) (jems 2020 transfer) [AUD].txt"
     },
     {
       "year": 1987,
@@ -310,7 +332,8 @@ const ARTIST_DATA = {
       "venue": "Variety Arts Center - CASS",
       "version": "AUD",
       "format": "FLAC",
-      "notes": "M \u00b7 Unknown"
+      "notes": "M \u00b7 Unknown",
+      "textFile": "1987-04-24 - Los Angeles, CA - Variety Arts Center - CASS(M) (unk) [AUD].txt"
     },
     {
       "year": 1987,
@@ -323,7 +346,8 @@ const ARTIST_DATA = {
       "venue": "Variety Arts Center",
       "version": "AUD",
       "format": "FLAC",
-      "notes": "unk \u00b7 jems 2020 transfer"
+      "notes": "unk \u00b7 jems 2020 transfer",
+      "textFile": "1987-04-25 - Los Angeles, CA - Variety Arts Center (unk) (jems 2020 transfer) [AUD].txt"
     },
     {
       "year": 1987,
@@ -336,7 +360,8 @@ const ARTIST_DATA = {
       "venue": "La Rocca - CASS",
       "version": "AUD",
       "format": "FLAC",
-      "notes": "M \u00b7 Unknown"
+      "notes": "M \u00b7 Unknown",
+      "textFile": "1987-06-15 - Novellara, Italy - La Rocca - CASS(M) (unk) [AUD].txt"
     },
     {
       "year": 1987,
@@ -349,7 +374,8 @@ const ARTIST_DATA = {
       "venue": "Mandel Hall",
       "version": "AUD",
       "format": "FLAC",
-      "notes": "Sony WM-D6 \u00b7 Unknown"
+      "notes": "Sony WM-D6 \u00b7 Unknown",
+      "textFile": "1987-10-09 - Chicago, IL - Mandel Hall (Sony WM-D6) (unk) [AUD].txt"
     },
     {
       "year": 1987,
@@ -362,7 +388,8 @@ const ARTIST_DATA = {
       "venue": "McDonough Field",
       "version": "SBD",
       "format": "FLAC",
-      "notes": "ralph"
+      "notes": "ralph",
+      "textFile": "1987-10-23 - Decatur, GA - McDonough Field (ralph) [SBD].txt"
     }
   ]
 };

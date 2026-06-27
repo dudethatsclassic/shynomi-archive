@@ -1,0 +1,101 @@
+Soundgarden
+Reading Festival,
+Reading UK
+27 August 1995
+
+~Remastered by exene~
+
+3nd times' a charm!  
+
+Contrast clause: 
+If you grabbed either v1 or v2, this one has the following differences:
+All tracks are now fully matrixed, even Rusty Cage.
+
+I guess this can now be considered the definitive version of this matrix. 
+Trust me I wouldn't bother sharing another one unless it sounds better.
+And it does. 
+
+http://www.soundgardenliveguide.com/1995/19950827.htm
+
+Awesome setlist and a wild performance.  
+Worth it just for the version of Christi.
+The meltdown at the end of I Want You is so heavy indeed. 
+
+Borrowed some nice artwork from darcyjam's cover art.
+
+Thanks to the tapers and sharers!
+
+First shared on ZOMB in August 2013.
+This show turns 18 this month.  :-)
+
+For the tech details, see below.  Otherwise... enjoy the show! 
+
+"This is a trip song." -Chris Cornell
+
+---------
+
+Lineage 
+aud #2: Sony ECM909 mic > Sony WMD6 > Maxel XLII tape
+unknown aud: UM > UR > ANA > CDR > SHN
+
+Remaster:  flac/shn > wav > Audacity > wav > flac 8
+
+---------
+
+Setlist:
+
+Searching with my Good Eye Closed
+Let Me Drown
+Spoonman
+My Wave
+Drawing Flies
+Ty Cobb
+Fell on Black Days
+Mailman
+Head Down
+Superunknown
+Rusty Cage
+Waiting for the Sun
+Black Hole Sun
+Christi
+Hands All Over
+4th of July
+Kickstand
+I Want You (She's So Heavy)
+
+--------
+
+Notes - remaster:
+
+A fun remaster, as the Sony WMD6 source already sounded great.  
+Balanced L/R channels, brought down the levels as it was slightly overdriven.
+As per comments, taper was directly in front of PA for most of the show, nice loud recording.
+I think these two sources were standing far away from each other, creating good space for the mix.
+But this also makes the sound a little boomy at times.
+Plus there is some echo on voice/guitar in places (i.e. My Wave), present on both sources.
+
+All tracks are roughly a 60/40 mix, favoring the better quality Sony WMD6 source.
+The unknown audience source had more speed changes than the Indy 500.
+I straightened those out the best I could.  
+Considering both are analog audience sources with gaps, skips and speed fluctuations,
+all changes done manually without proper timecode, I think it came out sounding pretty good.
+
+Patched skips and drops in many places, mostly in Rusty Cage.
+
+Smoothed out crowd noise on the mixed tracks.  
+There is talking at times but its not distracting.
+
+Not perfect, but better.
+
+--------
+
+Notes - aud #2 (Sony WMD6):
+
+Recorded from the front barrier directly in front of the left PA stack.  Mic hidden in hooded top pointing at PA.  Originally transferred in 2002 and master tape thrown away.  There are some skips due to a bad burn in Rusty Cage.
+
+--------
+
+Notes - unknown aud:
+
+darcyjam notes: This recording is sourced from a somewhat generated cassette. The sound quality decreases a bit at times, but the setlist is quite special. "Waiting for the Sun" is a song by The Doors and "I Want You (She's So Heavy)" is a Beatles tune. This show contains the live debut of "Ty Cobb" and the only known performance of "Christi".
+

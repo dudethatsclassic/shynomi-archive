@@ -1,0 +1,83 @@
+Primus
+2003-10-21
+The Fillmore - Denver, CO
+
+Source: [right stack/FOB] Schoeps mk4>actives>NBox>M1
+Transfer: Sony R500>HHB830>CD
+Taped and Transfered by: Bill Tatina AKA Twistertape
+Transfer B: CD>EAC>WAV>FLAC
+Transfer B by: Phil Lucks (lucks@sonicsense.com)
+
+Set I
+Disk 1:
+1:  To Defy the Laws of Tradition
+2:  Pilcher's Squad
+3:  Frizzle Fry>Ol' Diamondback Sturgeon
+4:  My Name is Mud
+5:  Bob
+6:  My Friend Fats
+
+Set II
+Disk 2:
+1:  Seas of Cheese
+2:  Here Come the Bastards
+3:  Sgt. Baker
+4:  American Life
+5:  Jerry Was a Race Car Driver
+6:  Eleven Drum Intro>Eleven
+7:  Is It Luck? > YYZ > Is It Luck?
+8:  Grandad's Little Ditty
+9:  Tommy the Cat
+10: Sathington Waltz
+11: Those Damned Blue Collar Tweekers
+
+Disk 3:
+1:  Fish On>Los Bastardos
+2:  E: Too Many Puppies
+
+primus2003-10-21d1t01.flac:653290d24dabc263a7da182d3d43c875
+primus2003-10-21d1t02.flac:c8c58aec6906b94825de5ebb1757b714
+primus2003-10-21d1t03.flac:59a1953273ca47a170638676cc75a4ad
+primus2003-10-21d1t04.flac:8b78d9d3622d32cb8811cc2849b723cf
+primus2003-10-21d1t05.flac:2f6b1b9486cf8fe76c7c3ee54428608a
+primus2003-10-21d1t06.flac:0aec966a64a969de32ccbed2298f0056
+primus2003-10-21d2t01.flac:513c83daa689a3f18d3c54328157e7cb
+primus2003-10-21d2t02.flac:03f16dd4590c0e91c9a0f6aa05b4662c
+primus2003-10-21d2t03.flac:74d9af39fd079eb95dbb20c7fc9c22e9
+primus2003-10-21d2t04.flac:2a5c96f282ca5fd383af96626f9f4245
+primus2003-10-21d2t05.flac:b7da15082fdb53e9ea2abc5a43f39d97
+primus2003-10-21d2t06.flac:4cdcddec7385e97ed4d4bc2c0d282384
+primus2003-10-21d2t07.flac:4562159de8730954a3dd5ef914418c32
+primus2003-10-21d2t08.flac:e6ba722ff34cc010fd6f45d03d580c2d
+primus2003-10-21d2t09.flac:e5902ac68d7f7f9e26c8415746b5b1f8
+primus2003-10-21d2t10.flac:62f7c29a9f7a2fcc4da2d612eac0ac78
+primus2003-10-21d2t11.flac:48af538e37d116c4d30eae8567eaf498
+primus2003-10-21d3t01.flac:ca0dcb56b2a91cd747acd194d5c127f3
+primus2003-10-21d3t02.flac:1617be7af3b8bd64d857c95cbb93dc69
+
+
+For details and help on Flac check out the following links:
+http://mikewren.com/modules.php?name=News&file=article&sid=6
+http://flac.sourceforge.net/
+
+FLAC Fingerprint:
+*************************************************************************************************
+primus2003-10-21d1t01.flac:653290d24dabc263a7da182d3d43c875
+primus2003-10-21d1t02.flac:c8c58aec6906b94825de5ebb1757b714
+primus2003-10-21d1t03.flac:59a1953273ca47a170638676cc75a4ad
+primus2003-10-21d1t04.flac:8b78d9d3622d32cb8811cc2849b723cf
+primus2003-10-21d1t05.flac:2f6b1b9486cf8fe76c7c3ee54428608a
+primus2003-10-21d1t06.flac:0aec966a64a969de32ccbed2298f0056
+primus2003-10-21d2t01.flac:513c83daa689a3f18d3c54328157e7cb
+primus2003-10-21d2t02.flac:03f16dd4590c0e91c9a0f6aa05b4662c
+primus2003-10-21d2t03.flac:74d9af39fd079eb95dbb20c7fc9c22e9
+primus2003-10-21d2t04.flac:2a5c96f282ca5fd383af96626f9f4245
+primus2003-10-21d2t05.flac:b7da15082fdb53e9ea2abc5a43f39d97
+primus2003-10-21d2t06.flac:4cdcddec7385e97ed4d4bc2c0d282384
+primus2003-10-21d2t07.flac:4562159de8730954a3dd5ef914418c32
+primus2003-10-21d2t08.flac:e6ba722ff34cc010fd6f45d03d580c2d
+primus2003-10-21d2t09.flac:e5902ac68d7f7f9e26c8415746b5b1f8
+primus2003-10-21d2t10.flac:62f7c29a9f7a2fcc4da2d612eac0ac78
+primus2003-10-21d2t11.flac:48af538e37d116c4d30eae8567eaf498
+primus2003-10-21d3t01.flac:ca0dcb56b2a91cd747acd194d5c127f3
+primus2003-10-21d3t02.flac:1617be7af3b8bd64d857c95cbb93dc69

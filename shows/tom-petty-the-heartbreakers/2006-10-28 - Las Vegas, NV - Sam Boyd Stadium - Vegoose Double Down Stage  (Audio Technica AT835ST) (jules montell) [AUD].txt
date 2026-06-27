@@ -1,0 +1,67 @@
+
+Tom Petty & the Heartbreakers
+Saturday, October 28, 2006
+Vegoose Double Down Stage
+Sam Boyd Stadium
+Las Vegas, NV
+
+Disc 1
+------
+01  Listen To Her Heart 
+02  Mary Jane's Last Dance 
+03  I Won't Back Down 
+04  Free Fallin' 
+05  Saving Grace 
+06  I'm A Man 
+07  Oh Well 
+08  It's Good To Be King
+09  Carol
+
+Disc 2
+------
+01  Cabin Down Below
+02  Don't Come Around Here No More 
+03  Refugee 
+04  Runnin' Down A Dream 
+    (encore)
+05  You Wreck Me 
+06  Mystic Eyes 
+07  American Girl 
+
+
+Recording Location
+------------------
+Front of soundboard, slightly right of center
+
+Source
+------
+Audio Technica AT835ST > Lunatec V3 > Sony PCM-M1
+
+Transfer
+--------
+Sony PCM-M1 > Echo Gina 24 > Cool Edit 2000 > 
+CdWave > FLAC Frontend > TagScanner
+
+taped 'n' transferred by
+------------------------
+Jules Montell / CivetCat
+j(dot)montell(at)sbcglobal(dot)net
+
+FLAC Fingerprint
+----------------
+tph2006-10-28d1t01.flac:93f73523b29d819698bbfb4756cbf829
+tph2006-10-28d1t02.flac:a4c30600049e107392c72feecf72afcb
+tph2006-10-28d1t03.flac:dccb3b37ec24801bb74f89fd4a927985
+tph2006-10-28d1t04.flac:c357012907c2df871f4694ad6bd454a5
+tph2006-10-28d1t05.flac:dd74e88c833d9ba04bdb132c745dca79
+tph2006-10-28d1t06.flac:58d6c7b356a40acb2f2d2dedf4474bad
+tph2006-10-28d1t07.flac:8967c925afec730798e04ccad28c0e8f
+tph2006-10-28d1t08.flac:4e8cac7b8660417fc9f51205026be5d4
+tph2006-10-28d1t09.flac:8ee4e06b69c6b8c1e59f75fb47f45faa
+tph2006-10-28d2t01.flac:1dff37b7787e10000a755c6ab28690bb
+tph2006-10-28d2t02.flac:339448b0b2ebe7f01dcfee3ae02799a8
+tph2006-10-28d2t03.flac:fd64aff0ec10774c182283cf6ba5174a
+tph2006-10-28d2t04.flac:ecc3de57e697897c11e37859c7ed89a0
+tph2006-10-28d2t05.flac:8f6420f6b70e47fb4c2fe7e717a589c2
+tph2006-10-28d2t06.flac:30eb787edf092d636fa50bb4450ab85d
+tph2006-10-28d2t07.flac:c759964c4d63e9d18639b05d8393d987

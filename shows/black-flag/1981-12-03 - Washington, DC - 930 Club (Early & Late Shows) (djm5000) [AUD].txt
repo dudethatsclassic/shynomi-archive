@@ -1,0 +1,40 @@
+auCDtect: CD records authenticity detector, version 0.8.2
+Copyright (c) 2004 Oleg Berngardt. All rights reserved.
+Copyright (c) 2004 Alexander Djourik. All rights reserved.
+
+Detect mode (0..40 with 0 = most accurate):  8 (default)
+
+
+CD1T01 Thirsty & Miserable (missing beginning).wav:  track looks like CDDA with probability 100%.
+CD1T02 TV Party.wav:  track looks like CDDA with probability 100%.
+CD1T03 Damaged II.wav:  track looks like CDDA with probability 100%.
+CD1T04 Depression.wav:  track looks like CDDA with probability 99%.
+CD1T05 No More.wav:  track looks like CDDA with probability 100%.
+CD1T06 I've Had It - Jealous Again.wav:  track looks like CDDA with probability 100%.
+CD1T07 American Waste - Nervous Breakdown.wav:  track looks like CDDA with probability 100%.
+CD1T08 Damaged I.wav:  track looks like CDDA with probability 99%.
+CD1T09 Spray Paint (The Walls) - I've Heard It Before.wav:  track looks like CDDA with probability 100%.
+CD1T10 Revenge.wav:  track looks like CDDA with probability 99%.
+CD1T11 What I See.wav:  track looks like CDDA with probability 100%.
+CD1T12 Six Pack.wav:  track looks like CDDA with probability 100%.
+CD1T13 Fix Me.wav:  track looks like CDDA with probability 100%.
+CD1T14 Rise Above.wav:  track looks like CDDA with probability 99%.
+CD2T01 intro.wav:  track looks like CDDA with probability 100%.
+CD2T02 Padded Cell.wav:  track looks like CDDA with probability 100%.
+CD2T03 Revenge.wav:  track looks like CDDA with probability 100%.
+CD2T04 White Minority.wav:  track looks like CDDA with probability 100%.
+CD2T05 Room 13.wav:  track looks like CDDA with probability 100%.
+CD2T06 I've Heard It Before.wav:  track looks like CDDA with probability 99%.
+CD2T07 Depression.wav:  track looks like CDDA with probability 99%.
+CD2T08 Six Pack.wav:  track looks like CDDA with probability 100%.
+CD2T09 Nervous Breakdown.wav:  track looks like CDDA with probability 100%.
+CD2T10 Jealous Again.wav:  track looks like CDDA with probability 99%.
+CD2T11 I've Got To Run.wav:  track looks like CDDA with probability 100%.
+CD2T12 Clocked In.wav:  track looks like CDDA with probability 100%.
+CD2T13 Damaged I.wav:  track looks like CDDA with probability 100%.
+CD2T14 Fix Me.wav:  track looks like CDDA with probability 100%.
+CD2T15 Life Of Pain.wav:  track looks like CDDA with probability 99%.
+CD2T16 No Values.wav:  track looks like CDDA with probability 100%.
+CD2T17 Police Story.wav:  track looks like CDDA with probability 100%.
+CD2T18 Scream.wav:  track looks like CDDA with probability 100%.
+CD2T19 Louie Louie.wav:  track looks like CDDA with probability 100%.

@@ -1,0 +1,60 @@
+Primus
+Tuesday June 13th, 2017
+den Atelier
+54, rue de Hollerich
+Luxembourg City, Luxembourg
+
+Taper:  LeifH
+Source:  CA-11 (cardioid) > Bat2B > Sony PCM M10 @ 24/48 > Lexar 16GB microSD card
+Transfer:  Memory card > PC via USB > Wavepad Masters Edition (edits, tracking, 16/44.1) > flac (8) via Frontend
+
+Set  I:  1:19:58
+00 intro
+01 American Life
+02 Moron TV
+03 Wynona's Big Brown Beaver
+04 Groundhog's Day
+05 The Heckler
+06 Jilly's on Smack
+07 Over the Falls
+08 Lee Van Cleef
+09 Too Many Puppies
+
+Set II: 1:00:54
+10 Nature Boy > 
+11 Drums > 
+12 Eleven
+13 Seven
+14 Bob
+15 My Name Is Mud
+16 Jerry Was a Racecar Driver
+
+17 Southbound Pachyderm
+
+My 27th Primus show.  Had a great time hanging out in Luxembourg for a couple days.
+
+There were no setlists written for this show, they just made it up as they went.  Les would speak into the talk back mic in between songs to say what was next.  At one point he says, "Its all request night."  Apparently this was one of the only times in the last 10 years he hasn't written a setlist.  There also wasn't a poster, but they were selling leftover Oslo posters.  
+
+During Jilly's On Smack, Les' bow turned to shreds, and there was a long pause in the song while a crew member fished out a back up bow, then they finished the song.  After Over The Falls, it almost sounded like Les was going to play something new on the dobro bass, but said, "You guys aren't ready for that yet," and played Lee Van Cleef.  Brief Cygnus X-1 tease during Too Many Puppies.  The jam during Bob was amazing.  The crowd got a little lively during My Name Is Mud and Jerry Was A Racecar Driver.  A few crowdsurfers went over my head, one kicked me in the face, another knocked the right mic off my shoulder which I quickly fixed.  
+
+This was a cool venue to see Primus play.  Only 1200 capacity and sold out.  The stage is not that big and the ceiling is low, so there weren't the usual video screens, just a basic light show.  The screens are cool but they can be distracting sometimes, so it was a nice change.  I recorded this from front row, dead centre.  I also had a GoPro camera hanging from my neck which I used to record video until the new song Seven, when a security employee flipped the camera around.  
+
+fingerprints:
+00 - intro.flac:071830d8a9fa78d82d6388db683ee779
+01 - American Life.flac:15cd85c0ce119e06f88de76e093203b9
+02 - Moron TV.flac:bc53d06ad4a42997dcf17c93932b6e67
+03 - Wynona's Big Brown Beaver.flac:a7e8b451300e48f9f573ee073dcbd384
+04 - Groundhog's Day.flac:12f1c3a1741f2d3131eac440fd5ae6bb
+05 - The Heckler.flac:ee44e4378aaa8735cefc5fdd30aee8fb
+06 - Jilly's on Smack.flac:a3f11c1c04c70534bf73cb163dc3a4eb
+07 - Over the Falls.flac:3d572ddfdc1399a4a2c919d3bed9db8c
+08 - Lee Van Cleef.flac:2169f909c227f0946f62d7cf6ed666fc
+09 - Too Many Puppies.flac:689f0c6ec3d8d64911f96ef30d9e3149
+10 - Nature Boy.flac:a3dc3e83dfbcdf45d461daac5874d59c
+11 - Drums.flac:952bc62c892018c0635f6e99dcaef7a2
+12 - Eleven.flac:be6855eedccf1fbbda0a1a84e159f454
+13 - Seven.flac:b681fc7960ef0bafe510f452419673de
+14 - Bob.flac:1b468140e2f25b597f836117003f448e
+15 - My Name Is Mud.flac:aa5c2597eff47068651c28325abdb791
+16 - Jerry Was a Racecar Driver.flac:94e74d0d07b0338675754a0669c74793
+17 - Southbound Pachyderm.flac:bced28b443351b19298ac3923ccaa98e

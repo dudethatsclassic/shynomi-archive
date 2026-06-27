@@ -1,0 +1,49 @@
+Toad The Wet Sprocket
+October 1, 2022
+Ridgefield Playhouse
+Ridgefield, CT
+
+Source:   Centrance PivotMic PM1 + Wildtronics Micro Mic > Zoom F3 [wav @ FP32/48kHz] 
+Lineage:  SD card > USB > Amadeus Pro [flac @ level 8] 
+Location: balcony ledge, 3' right of left stack
+
+Taped & Transferred by James Bonaiuto (cd2go@hotmail.com)
+
+Total: [93:01.722]
+
+01. intro
+02. Come Down
+03. Crowing
+04. Good Intentions
+05. Whatever I Fear
+06. Hold On >
+07. The Moment 
+08. Fly From Heaven
+09. Windmills 
+10. Starting Now
+11. California Wasted
+12. Transient Whales
+13. Get What You Want *
+14. Little Heaven *
+15. Better Be Home Soon #*
+16. I Will Not Take These Things For Granted
+17. All I Want
+18. Nightingale Song
+19. Crazy Life
+20. Fall Down
+21. encore
+22. Something's Always Wrong
+23. Walk On The Ocean
+
+Notes:
+
+* full band acoustic at the front of the stage
+# = by Crowded House
+
+This is a 2 microphone recording: PivotMic (card) and Micro Mic (omni). Both channels were converted to dual mono, EQ applied then merged.
+
+Amadeus Pro Notes:
+
+- EQ
+- Normalize
+- Fade

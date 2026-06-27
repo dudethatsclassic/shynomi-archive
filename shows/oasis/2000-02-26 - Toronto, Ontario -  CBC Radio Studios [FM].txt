@@ -1,0 +1,44 @@
+﻿Oasis
+CBC Radio Studios
+Toronto, ON
+February 26, 2000
+(Broadcast on CBC Radio2 - CBU-FM 105.7 Vancouver - Broadcast date unknown)
+
+** 16 BIT **
+
+Source:  FM Broadcast > Technics Receiver SA 212 > Yamaha K-520 Cassette Deck > Master cassette (Maxell XLII)
+Transfer:  Master cassette > Akai GXC-730D (azimuth adjusted) > Focusrite Scarlett 4I4 3rd Generation USB Audio Interface > 
+Sound Forge Pro 11.0 (Build 299) (Dell PRECISION M6800 laptop) > .WAV
+Mastering:  .WAV  > Sound Forge Pro 11.0 Build 299 (minor edits, normalize, & fades)  > CDWav (tracking) > iZotope MBIT+ 
+(dithered and downsampled to 16 bit/44.1 kHz) > Trader's Little Helper (level 5) > FLAC > TagScanner 6.0.35 (tagging)     
+Taped by:  "crowflies"
+Transferred & mastered by:  Dennis Orr
+
+Setlist: (25:08)
+01 DJ Intro
+02 Who Feels Love?
+03 Interview
+04 Sunday Morning Call
+05 Interview
+06 Interview
+07 DJ Outro
+
+(1) Official release - not included in the 16 bit posted version
+
+Noel Gallagher – lead vocals & guitar
+Gem Archer - lead guitar
+Mike Rowe - keyboards
+
+Radio Host - David Wisdom
+Interviewer - Jon Siddall
+
+Notes:
+The official version of "Talk Tonight" was played between Tracks 05 and 06, but has not been included here
+
+Oasis2000-02-26t01.flac:3ded2e62e0199bc17abf4255ba872aeb
+Oasis2000-02-26t02.flac:f7e761df45d609ea2a44ce4eee3cde69
+Oasis2000-02-26t03.flac:d21e6f3e7684bac59f1da9c976751f23
+Oasis2000-02-26t04.flac:1e7d85fedc9de2d5372ad2d8e3da1602
+Oasis2000-02-26t05.flac:484794c43938efcaf01fb2e3450461ef
+Oasis2000-02-26t06.flac:e19603fbb56a0062f8279a684b06b656
+Oasis2000-02-26t07.flac:cacda2d383c6d28a0956a4dbabcf59e3

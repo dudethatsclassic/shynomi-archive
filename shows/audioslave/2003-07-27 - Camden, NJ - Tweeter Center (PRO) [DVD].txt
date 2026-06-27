@@ -1,0 +1,80 @@
+AUDIOSLAVE  *DVD* Proshot 
+2003-07-27
+Tweeter Center
+Camden,NJ(USA)
+
+
+DVD (PC created)w/ correct chapter points>Hardrive>Dime
+
+Gasoline
+Set It Off
+Light My Way
+Like A Stone
+Super Stupid
+Techno Ted
+Shadow on the Sun
+(What's So Funny 'Bout) Peace, Love and Understanding
+Getaway Car
+Seven Nation Army
+Show Me How To Live
+Cochise
+
+
+
+Format                                   : MPEG-PS
+Duration                                 : 61 mins
+Overall bit rate mode                    : Constant
+Overall bit rate                         : 9 616 kb/s
+
+Video
+ID                                       : 224 (0xE0)
+Format                                   : MPEG Video
+Format version                           : Version 2
+Format profile                           : Main@Main
+Format settings                          : BVOP
+Format settings, BVOP                    : Yes
+Format settings, Matrix                  : Default
+Format settings, GOP                     : M=3, N=15
+Format settings, picture structure       : Frame
+Duration                                 : 61 mins
+Bit rate mode                            : Constant
+Bit rate                                 : 9 169 kb/s
+Maximum bit rate                         : 9 800 kb/s
+Width                                    : 720 pixels
+Height                                   : 480 pixels
+Display aspect ratio                     : 4:3
+Frame rate                               : 29.970 (30000/1001) FPS
+Standard                                 : NTSC
+Color space                              : YUV
+Chroma subsampling                       : 4:2:0
+Bit depth                                : 8 bits
+Scan type                                : Interlaced
+Scan order                               : Top Field First
+Compression mode                         : Lossy
+Bits/(Pixel*Frame)                       : 0.885
+Time code source                         : Group of pictures header
+GOP, Open/Closed                         : Open
+Stream size                              : 953 MiB (95%)
+Color primaries                          : BT.601 NTSC
+Transfer characteristics                 : BT.601
+Matrix coefficients                      : BT.601
+
+Audio
+ID                                       : 189 (0xBD)-128 (0x80)
+Format                                   : AC-3
+Format/Info                              : Audio Coding 3
+Commercial name                          : Dolby Digital
+Muxing mode                              : DVD-Video
+Duration                                 : 61 mins
+Bit rate mode                            : Constant
+Bit rate                                 : 256 kb/s
+Channel(s)                               : 2 channels
+Channel layout                           : L R
+Sampling rate                            : 48.0 kHz
+Frame rate                               : 31.250 FPS (1536 SPF)
+Compression mode                         : Lossy
+Delay relative to video                  : -552 ms
+
+
+
+

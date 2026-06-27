@@ -1,0 +1,78 @@
+Primus
+
+October 10, 2011
+
+Louisville Palace
+
+Louisville, KY
+
+
+source: Schoeps mk4v (FOB/DINa) > kcy > Sonosax SX-M2/LS2 > Sony D50 (24/96)
+location: Row G, dead center
+
+transfer: Memory Stick > Sound Studio > xACT > .flac (16/44)
+
+recorded by: Porter Moreland Stober
+
+
+Set 1
+
+d1t01 Intro
+
+d1t02 Groundhog's Day
+
+d1t03 Duchess And The Proverbial Mind Spread
+
+d1t04 The Toys Go Winding Down
+
+d1t05 American Life
+
+d1t06 Seas Of Cheese
+
+d1t07 Those Damn Blue-Collar Tweekers
+
+d1t08 Jerry Was A Race Car Driver
+
+d1t09 Mrs. Blaileen
+
+d1t10 Shake Hands With Beef
+
+d1t11 John The Fisherman
+
+
+Set 2
+
+d2t01 Prelude To A Crawl
+
+d2t02 Hennepin Crawler
+
+d2t03 Last Salmon Man
+
+d2t04 Eternal Consumption Engine
+
+d2t05 Tragedy's A' Comin'
+
+d2t06 Eyes Of The Squirrel                                                           d2t07 Jilly's On Smack
+
+d2t08 Lee Van Cleef
+
+d2t09 Moron TV
+
+d2t10 Green Ranger
+
+d2t11 HOINFODAMAN
+
+d2t12 Extinction Burst
+
+d2t13 Salmon Men
+
+Encore:
+
+d3t01 Southbound Pachyderm
+
+d3t02 Pudding Time
+
+
+flac fingerprint:
+primus2011-10-10
+d1t01.flac:2546db05b0cc76b85e00c46195b27a6cprimus2011-10-10d1t02.flac:87ae94019f75bf3905e1df2806e26e2cprimus2011-10-10d1t03.flac:4eb995b9b65a028b79baac0107b911a4primus2011-10-10d1t04.flac:628e3c6c250bcf52784c7c6efb3dfa62primus2011-10-10d1t05.flac:45b1bd0ad74cc4ee011da19a44589cb0primus2011-10-10d1t06.flac:fd3537eb1f937f59104053fcac7822edprimus2011-10-10d1t07.flac:97a088d6de7234de599a66fc2183662cprimus2011-10-10d1t08.flac:06fd087f7a636807a07f9e776da99751primus2011-10-10d1t09.flac:a77f4a15a562f184693aa62f83ef3fbfprimus2011-10-10d1t10.flac:ce91a998d5ce3b0e82e54be077f607ffprimus2011-10-10d1t11.flac:c1d368ba0309e605f68e28ce11979dc8primus2011-10-10d2t01.flac:0ee3b3ac968248d677c435064ff16e84primus2011-10-10d2t02.flac:a4dceb2126cae505aa881b09a05a874eprimus2011-10-10d2t03.flac:a39bf96f72af466f20d2d1880afa28ddprimus2011-10-10d2t04.flac:3795268e1f04cda84f9bf21181ef7ecdprimus2011-10-10d2t05.flac:3e32384d4cab82b668e738e0b2038271primus2011-10-10d2t06.flac:c1dadec1a649367200375d77d4103da9primus2011-10-10d2t07.flac:7aba14bc3d4f5a8f4a971be675045119primus2011-10-10d2t08.flac:5ea78218c7edf1c0d3472bc96f45596cprimus2011-10-10d2t09.flac:ce0f2102dd7e01c60d02805fc9661d84primus2011-10-10d2t10.flac:3697e59fb1a1af036f82ab9e4b6a8c34primus2011-10-10d2t11.flac:25bb1e36790e46afdc7b3f1bdb1b1d66primus2011-10-10d2t12.flac:35ba44643c3b2596470e095be6e49e66primus2011-10-10d2t13.flac:e4a896400e06015ab11af6fb8d5b165dprimus2011-10-10d3t01.flac:4ed82fa25f10608a456b6336b49f615bprimus2011-10-10d3t02.flac:97ab9455ee85bc8dc32ea5889be3d4c3

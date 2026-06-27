@@ -1,0 +1,89 @@
+Primus
+Warfield: San Francisco, CA
+October 31, 2003
+
+
+********************
+********************
+
+PRESERVE THE QUALITY
+DO NOT ENCODE TO MP3
+ OR LOSSY FORMATS
+
+********************
+********************
+
+Taper: johngromley@yahoo.com
+Location: Section @ ~60' from stage, Right of Center
+Source: Rode NT-5's > USBPre 1.5 > ASIO > n-track 3.3 > WAV @ 44.1kHz/24bit
+Editing/Tracking/Bit Depth Conversion: Sound Forge 6.0e
+Conversion: WAV @ 44.1kHz/16bit > shntool 1.2.3 > shorten 3.5 > SHN (no DAE)
+
+
+Disc 1:
+Set I:
+01. Mr. Krinkle					[06:14.02]
+02. Pork Soda					[02:22.20]
+03. My Friend Fats				[09:40.27]
+04. Nature Boy					[14:28.05]
+05. The Last Superpower aka Rapscallion		[13:25.19]
+06. My Name is Mud				[05:12.09]
+07. Frizzle Fry					[07:01.50]
+
+Total:						[58:23.57]
+
+
+Disc 2:
+Set II:
+01. Seas Of Cheese				[03:47.62]
+02. Here Come The Bastards			[04:10.55]
+03. Sgt. Baker					[04:44.19]
+04. American Life				[12:10.06]
+05. Jerry Was A Race Car Driver			[04:55.27]
+06. <drum/bass>					[13:47.12]
+
+Total:						[43:35.31]
+
+
+Disc 3:
+Set II: (Continued)
+01. Eleven					[03:59.23]
+02. Is It Luck?					[04:46.56]
+03. Grandad's Little Ditty			[01:26.62]
+04. Tommy The Cat				[06:28.47]
+05. Sathington Waltz				[03:04.20]
+06. Those Damned Blue Collar Tweekers >		[08:52.09]
+    Mary The Ice Cube>
+    Those Damned Blue Collar Tweekers
+07. Fish On					[07:22.46]
+08. Los Bastardos				[09:38.59]
+09. E: Too Many Puppies				[04:08.59]
+
+Total:						[49:48.06]
+
+
+Notes:
+There was no opening act
+
+Primus info: http://www.primussucks.com
+Get an official copy of this show: http://www.primuslive.com
+
+Support live music and live musicians
+Never pay for "bootlegs"
+
+############
+NOT FOR SALE
+############
+
+SHN's made from original recording sources
+
+This source was only edited for length and bit reduced to 16bit
+
+There are several other recordings of this show, please note source info when trading
+
+If you have any setlist corrections let me know
+
+Updated version of this setlist is available here:
+http://www.geocities.com/johngromley/setlists/primus2003-10-31.nt5.txt
+
+If you would like a copy of this show contact me for a B&P

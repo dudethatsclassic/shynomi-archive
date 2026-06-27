@@ -1,0 +1,12 @@
+Venue : Roy Wilkins Auditorium
+Location: Minneapolis, MN
+Date: 02/12/92
+Running Time: 40:46
+
+Tracklist: (see attached coverart)
+
+Sound Quality: vg+/ex-
+
+Generation: ANA(M) > WAV > FLAC
+
+Equipment/tools used: Aiwa portable walkman/recorder & Aiwa stereo bowtie mic > JVC TD-W309 tapedeck (Dolby B enabled) > Audiophile 2496 soundcard > Cool Edit Pro 2.0 (light Hiss reduction (-6.53 db noisefloor), 30-band EQ (boost lows & highs), Normalize @ 95%, split into tracks) > FLAC frontend (FLAC7)

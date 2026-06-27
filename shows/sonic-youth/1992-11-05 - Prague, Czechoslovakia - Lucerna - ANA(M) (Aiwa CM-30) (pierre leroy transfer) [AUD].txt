@@ -1,0 +1,63 @@
+SONIC YOUTH
+November 5th, 1992
+Lucerna, Prague,
+Czechoslovakia
+
+DISC #1/2 (64:08)
+-----------------
+01. Shoot
+02. 100%
+03. Burning Spear
+04. Kool Thing
+05. Swimsuit Issue
+06. Theresa’s Sound World
+07. Youth Against Fascism
+08. Genetic
+09. Sugar Kane
+10. Dirty Boots
+11. Teenage Riot
+12. Drunken Butterfly
+13. Schizophrenia
+
+DISC #2/2 (22:51)
+-----------------
+14. ??
+15. JC
+16. Mote
+17. Expressway to yr Skull 
+
+GENERATION
+-----------------
+ANA(M) -> WAV [48kHz] -> WAV [44.1kHz] -> FLAC [Level 8]
+
+SOURCE (AUD)
+-----------------
+Aiwa CM-30 -> Sony BF-67
+
+TRANSFER
+-----------------
+Nakamichi DR-3 -> RCA to 1/4" TS custom Klotz cables -> Echo Mia Midi analog-in -> Adobe Audition 2.0 -> CD WAVE 1.94.8 -> FLAC Frontend 1.7.1
+
+MD5 FINGERPRINTS
+-----------------
+fe025a126e02a141f8a0d5d84df8aca4 *sonicyouth_1992-11-05_aud_anam_d1t01.flac
+00025ea257821133272ff38416988593 *sonicyouth_1992-11-05_aud_anam_d1t02.flac
+80a3eec5b131c090eb15f69e83edde54 *sonicyouth_1992-11-05_aud_anam_d1t03.flac
+67b3ebcb4de1cac047208c1688b38694 *sonicyouth_1992-11-05_aud_anam_d1t04.flac
+a5f9681046bd7149d6ba2a8c40421c99 *sonicyouth_1992-11-05_aud_anam_d1t05.flac
+09711433d26dbc74ed8cc09637e48cf9 *sonicyouth_1992-11-05_aud_anam_d1t06.flac
+d25b9f0c7ebd7db249da2c8b210f88ec *sonicyouth_1992-11-05_aud_anam_d1t07.flac
+68c15ec80df973e8aba4acfe0a7f6e5a *sonicyouth_1992-11-05_aud_anam_d1t08.flac
+12d330c29df4fb5b2a62fa936681144d *sonicyouth_1992-11-05_aud_anam_d1t09.flac
+921608b693e76c7c15b4d76032d76dc0 *sonicyouth_1992-11-05_aud_anam_d1t10.flac
+5ea86438b6253001ba0a1dcab2b4876e *sonicyouth_1992-11-05_aud_anam_d1t11.flac
+cf29172791812574d85ee6fd627c8662 *sonicyouth_1992-11-05_aud_anam_d1t12.flac
+de4a8cd7b5401189dfe14e7b409d0b9e *sonicyouth_1992-11-05_aud_anam_d1t13.flac
+4715fd5717abfc8adccbad13164fb690 *sonicyouth_1992-11-05_aud_anam_d2t01.flac
+dcaa77582810c637adfbb63195a10c60 *sonicyouth_1992-11-05_aud_anam_d2t02.flac
+4c001ed6ec3d751be3577777623e6f2d *sonicyouth_1992-11-05_aud_anam_d2t03.flac
+44482cad4fe6f247638f5fb5e7ef4c2b *sonicyouth_1992-11-05_aud_anam_d2t04.flac
+
+
+Transferred by Pierre Leroy
+DO NOT ENCODE TO MP3 OR SELL!

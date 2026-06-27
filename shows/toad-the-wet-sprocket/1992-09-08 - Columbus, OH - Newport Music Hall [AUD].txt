@@ -1,0 +1,46 @@
+	Artist:			Toad The Wet Sprocket
+	Date:			September 08, 1992
+	Location:		Newport Music Hall, Columbus, OH
+	Taper:			JB
+	e-mail:			radioheadusa@comcast.net
+	DC++ screenname:	radiohead8989
+	date of seeding:	March 12, 2013
+----------------------------------------------------------------
+	Source Info:		>Sony D-3 DAT recorder (16bit-48kHz)
+				>ECM-S220 Mic
+				>CDWAVE 1.98
+				>FLAC (level 8)
+----------------------------------------------------------------
+	running time:		1h:27m:30s
+----------------------------------------------------------------
+	Setlist:		01 Walk On The Ocean
+				02 All I Want
+				03 Jam
+				04 Before You Were Born
+				05 Butterflies
+				06 When We Recovered 
+				07 Chile
+				08 All In All
+				09 Corporal Brown
+				10 One Little Girl
+				11 In My Ear
+				12 Hold Her Down
+				13 Nothing Is Alone
+				14 Come Back Down 
+				15 Nightingale Song
+				16 Is It For Me
+				17 Encore Break
+
+				18 Torn
+				19 Brother
+				20 Way Away
+				21 Cinnamon Girl
+				22 Encore Break
+
+				21 Fall Down
+				22 I Will Not Take These Things For Granted
+----------------------------------------------------------------
+Note:
+This is a 16bit / 48KHZ recording.  It cannot be burned to a cd, unless you convert it to 44.1KHZ.
+The FLAC files were created using CD Wave 1.98, and they were tested using Media Monkey 4.0.6.1501.  
+This is from my master DAT recording.

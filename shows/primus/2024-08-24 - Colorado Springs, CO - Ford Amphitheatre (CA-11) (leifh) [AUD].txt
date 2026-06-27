@@ -1,0 +1,62 @@
+Primus
+Saturday August 24th, 2024
+Ford Amphitheatre
+95 Spectrum Loop
+Colorado Springs, Colorado
+
+Taper:  LeifH [2024#30b]
+Source:  CA-11 > A10
+Transfer:  PC via USB > RX9 > Wavepad  flac (8) via TLH
+
+Setlist:  01:51:33
+01 intro
+02 The Ol' Diamondback Sturgeon (Fisherman's Chronicles, Pt. 3)
+03 Welcome to This World > 
+04 My Name is Mud
+05 Over the Electric Grapevine
+06 HOINFODAMAN
+07 The Toys Go Winding Down > 
+08 Pudding Time
+09 American Life
+10 Seas of Cheese
+11 Mr. Krinkle
+12 Over the Falls
+13 Conspiranoia
+14 Frizzle Fry
+15 Harold of the Rocks
+-encore-
+16 Tommy the Cat
+
+Les Claypool - vocals, bass, synthesizer
+Larry "Ler" LaLonde - guitar, vocals
+Tim "Herb" Alexander - drums, vocals
+
+primusville.com
+
+Final show and longest runtime of the 2024 summer tour.  Primus show #47 for me. 
+
+Variations on Sinister #3 (Zappa) and Jailbreak (Thin Lizzy) riffs at the beginning of HOINFODAMAN.  
+Eternal Consumption Engine tease before Toys Go Winding Down.
+DMV tease before Seas of Cheese.  
+
+What a day.  Almost didn't make it.  I was supposed to fly out of Vancouver at 08:30 the morning of.  Everyone had boarded the plane, seatbelts buckled.  Pilot reports a leak in the cockpit.  After a maintenance technician took a look, they realized it would be more than a quick fix.  Great.  Everyone deplaned and the pandemonium commenced.  I had a transfer at Denver to Colorado Springs and the more time that elapsed, the less chance I had to make any connections.  By about 11:00 I was convinced I'd be going back home from the airport and missing the show.  Around 12:00 they had the remaining passengers who hadn't already changed flights re-board the vessel.  Then we sat there on the ground for another hour or so, further delayed by a cargo issue.  By the time I landed in Denver it was around 17:00.  All thanks to esamirp for reaching out and specialguest for picking me up from the airport, I made it to the venue before doors.  Phew.  
+
+Great hanging out with our crew up in the lawn before the show started.  Headed down to the floor section for the opening act Fantastic Negrito.  I was in section 104, row P, in line with the left stacks.  The venue has their own jumbotron screens on each side of the stage, but Primus didn't have their usual visual screens behind them.  Les mentioned that due to wind earlier in the day they couldn't set it up.  The jumbotrons had a blend of in house live cam and the band's usual visuals.  It was kind of nice to just focus on the band playing with a light show and have the option to look over at the screens.  
+
+fingerprints:
+Primus2024-08-24t01 - intro.flac:ff1429582d7f2427ae49b02f51967be2
+Primus2024-08-24t02 - Ol Diamondback Sturgeon.flac:ce9f2b216b7f516157688a6fa20b3bb4
+Primus2024-08-24t03 - Welcome to This World.flac:d960538bd04fafc7f754e274260947f4
+Primus2024-08-24t04 - My Name is Mud.flac:14d3cadf1a74c72a8895a095f0fdad36
+Primus2024-08-24t05 - Over the Electric Grapevine.flac:e34e2dd2972d0861f73247ef8ccbcea4
+Primus2024-08-24t06 - HOINFODAMAN.flac:a83bddc5ae08e5b3e6127453f25a8db1
+Primus2024-08-24t07 - Toys Go Winding Down.flac:8bf8f65e3a95752434498a916855f2f4
+Primus2024-08-24t08 - Pudding Time.flac:fb6f9456a4844904b847da11791b4e84
+Primus2024-08-24t09 - American Life.flac:4773ab05e53b1b585895389281ef55dc
+Primus2024-08-24t10 - Seas of Cheese.flac:e19377f7a6149fd99ac20e6970aff02a
+Primus2024-08-24t11 - Mr Krinkle.flac:4a748a46f56f537e9ba5d8a9b5cb408a
+Primus2024-08-24t12 - Over the Falls.flac:84862918dba19568620ac1c2608ad101
+Primus2024-08-24t13 - Conspiranoia.flac:53fcfa9979aa85a5e4ee9e467ca38a71
+Primus2024-08-24t14 - Frizzle Fry.flac:8ad0bd08187ae4d715f4775eea6a97c4
+Primus2024-08-24t15 - Harold of the Rocks.flac:13a88b162eeb4b0c0ce5d1fe194374d7
+Primus2024-08-24t16 - Tommy the Cat.flac:c2501163b79b8a33620cfd17b4a5667e

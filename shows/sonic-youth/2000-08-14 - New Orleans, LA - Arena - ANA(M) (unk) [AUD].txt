@@ -1,0 +1,20 @@
+Sonic Youth - 2000 08 14 @ Arena, New Orleans, LA
+
+Warning:
+This is a poorly recorded show, which sounds very noisy, which can be a good thing, but its not great here - though the ending of NYCG&F sounds very cool.
+
+Transfer note:
+After ripping this, I noticed almost everything was on the left channel, and after two songs, the volume steadily decreased to almost nothing by the end of the show. Maybe the deck was running out of volume.  I brought up the sound in sections, then doing a graphic fade on each section to make a consistent level, removed some of cracks and claps, did a little EQ.
+
+1 Schizophrenia 
+2 Bull in the Heather 
+3 Free City Rhymes 
+4 Nevermind 
+5 Side2Side 
+6 Kool Thing 
+7 NYC Ghosts & Flowers 
+
+Opening for:
+Pearl Jam
+
+Lineage: Audience Master > CDR > EAC > SoundForge (merge channels, fix volume, EQ, Noise Reduction) > CDWAVE (splits) > FLAC

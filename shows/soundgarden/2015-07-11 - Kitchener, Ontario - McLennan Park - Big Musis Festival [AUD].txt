@@ -1,0 +1,40 @@
+Soundgarden
+2015-07-11
+Big Music Festival
+McLennan Park
+Kitchener, Ontario
+
+SP-CMC-2>SP-SPSB-8>Tascam DR-03 (24/48)>Cool Edit Pro (clap removal, amplify L+7.4 R+3.29, fade in/out, resample to 16/44.1)>CD Wave (tracking)>TLH (encoding, checksums, verify)>flac level 8
+
+disc 1
+01. Searching With My Good Eye Closed Intro	2.10
+02. Spoonman				4.21
+03. Kyle Petty, Son Of Richard			4.20
+04. Attrition				3.12
+05. Outshined				5.33
+06. By Crooked Steps			4.43
+07. Taree	 				3.39
+08. Black Hole Sun				5.18
+09. Jesus Christ Pose			6.20
+10. Fell On Black Days			4.36
+11. Blow Up The Outside World		5.52
+12. Hunted Down				4.12
+13. My Wave				4.49
+					53.58
+
+disc 2
+14. The Day I Tried To Live			4.53
+15. Been Away Too Long			4.22
+16. Birth Ritual				5.00
+17. Rusty Cage				5.13
+18. Slaves And Bulldozers			11.52
+					36.09
+
+total					90.07
+
+
+recording notes:
+This recording came out nicer than the Jane's Addiction one, which is kind of funny as I was in the exact same spot. Nothing really too bad on this, a couple of spots of feedback, and I removed a much annoying clapping as I could find, decent show, but personally I thought Jane's Addiction blew them off the stage. The recording is seemless, but if burnt to cd between 13 and 14 is probably the spot to choose.
+
+compiled 19th August 2015
+coffeecup

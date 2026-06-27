@@ -1,0 +1,40 @@
+foobar2000 1.5.1 / Dynamic Range Meter 1.1.1
+log date: 2020-10-06 12:43:54
+
+--------------------------------------------------------------------------------
+Analyzed: Oasis / 2008-08-26 - WaMu Theater, Seattle, USA [2 Sources Mix]
+--------------------------------------------------------------------------------
+
+DR         Peak         RMS     Duration Track
+--------------------------------------------------------------------------------
+DR14      -1.52 dB   -19.54 dB      2:35 01-Fuckin' In The Bushes
+DR11      -1.01 dB   -13.11 dB      5:25 02-Rock 'n' Roll Star
+DR10      -1.02 dB   -12.66 dB      5:08 03-Lyla
+DR9       -1.00 dB   -11.96 dB      5:13 04-The Shock Of The Lightning
+DR9       -1.01 dB   -12.13 dB      4:08 05-Cigarettes & Alcohol
+DR10      -1.03 dB   -12.54 dB      2:06 06-The Meaning Of Soul
+DR10      -1.02 dB   -13.59 dB      6:40 07-To Be Where There's Life
+DR12      -1.01 dB   -15.75 dB      5:19 08-The Masterplan
+DR12      -1.03 dB   -14.78 dB      2:20 09-Songbird
+DR10      -1.02 dB   -13.29 dB      6:52 10-Slide Away
+DR9       -1.01 dB   -12.12 dB      4:54 11-Morning Glory
+DR10      -1.00 dB   -13.84 dB      3:26 12-Ain't Got Nothin'
+DR11      -1.01 dB   -14.51 dB      4:00 13-The Importance Of Being Idle
+DR11      -1.01 dB   -14.26 dB      4:06 14-Wonderwall
+DR9       -1.00 dB   -12.79 dB      7:02 15-Supersonic
+DR14      -1.04 dB   -18.44 dB      5:18 16-Don't Look Back In Anger
+DR10      -1.02 dB   -13.61 dB      5:12 17-Falling Down
+DR9       -1.03 dB   -13.40 dB      7:48 18-Champagne Supernova
+DR10      -1.02 dB   -12.83 dB      8:46 19-I Am The Walrus
+--------------------------------------------------------------------------------
+
+Number of tracks:  19
+Official DR value: DR11
+
+Samplerate:        44100 Hz
+Channels:          2
+Bits per sample:   24
+Bitrate:           1641 kbps
+Codec:             FLAC
+================================================================================
+

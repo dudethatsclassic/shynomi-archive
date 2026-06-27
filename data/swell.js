@@ -22,7 +22,8 @@ const ARTIST_DATA = {
       "venue": "NOB Radiostudeio",
       "notes": "2",
       "version": "FM",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1994-05-21 - Holland, The Netherlands - NOB Radiostudeio - 2 Meter Sessie [FM].txt"
     },
     {
       "year": 1998,
@@ -35,7 +36,8 @@ const ARTIST_DATA = {
       "venue": "Botanique",
       "notes": "unk",
       "version": "AUD",
-      "format": "FLAC 24"
+      "format": "FLAC 24",
+      "textFile": "1998-09-14 - Brussels, Belgium - Botanique (unk) [AUD24].txt"
     },
     {
       "year": 1999,
@@ -48,7 +50,8 @@ const ARTIST_DATA = {
       "venue": "Estadio Nacional",
       "notes": "Cruz",
       "version": "FM",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1999-07-18 - Oeiras, Portugal - Estadio Nacional - Cruz Quebrada [FM].txt"
     }
   ],
   "misc": []

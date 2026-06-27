@@ -1,0 +1,48 @@
+Les Claypool's Fearless Flying Frog Brigade
+June 2nd, 2023 (Friday)
+Masonic Temple
+Detroit, Michigan
+
+Recorded by:  Blue Tweeker
+Source:  Sennheiser Ambeo Binaural Headset > iPhone > Apogee MetaRecorder
+Transfer:  .WAV > RX9 > Wavepad > flac (8) via TLH
+
+Setlist:  02:02:53
+01 intro
+02 Up on the Roof
+03 David Makalaster > Southbound Pachyderm
+04 Rumble of the Diesel
+05 Mr. Wright
+06 Pigs on the Wing I
+07 Dogs 
+08 Pigs (3 Different Ones)
+09 Sheep
+10 Pigs on the Wing II
+11 Precipitation
+12 Holy Mackerel > My Name is Mud
+13 David Makalaster II
+14 Whamola
+15 Cosmic Highway
+
+Les Claypool - bass, vocals
+Harry Waters - keyboards, vocals
+Mike Dillon - percussion
+Sean Lennon - guitar, vocals
+Paulo Baldi - drums
+
+fingerprints:
+lcfffb2023-06-02t01 - intro.flac:ad26e50c88dc7ed887f0c53342ae4622
+lcfffb2023-06-02t02 - Up on the Roof.flac:755178d690b093f6cbca170d7b087372
+lcfffb2023-06-02t03 - David Makalaster.flac:45baa5dcee11d039190477159e63b465
+lcfffb2023-06-02t04 - Rumble of the Diesel.flac:6d62aae2e6c8258b134fb04a5aceb7e8
+lcfffb2023-06-02t05 - Mr Wright.flac:2cfc0fe7a46da6db7d2b2fba43d0d0da
+lcfffb2023-06-02t06 - Pigs on the Wing I.flac:3f0c2e8f47cdd6f4e75c6796c3c041eb
+lcfffb2023-06-02t07 - Dogs.flac:067199f3d6d06f0967ff56ca1a5561b3
+lcfffb2023-06-02t08 - Pigs.flac:3374e367ef36a33235036babdbe9aa24
+lcfffb2023-06-02t09 - Sheep.flac:94232f8c095e7e5c7e1df64f47cbad98
+lcfffb2023-06-02t10 - Pigs on the Wing II.flac:e51f5b1b06b54b8eceebf303fc51c1c9
+lcfffb2023-06-02t11 - Precipitation.flac:978e22e5d85863eee08a3c0d79f70516
+lcfffb2023-06-02t12 - Holy Mackerel.flac:260ba0504e928382169a9357c40168e4
+lcfffb2023-06-02t13 - David Makalaster II.flac:5334eae1d86dd9466afb4d524402172e
+lcfffb2023-06-02t14 - Whamola.flac:f868b758e9996fe8d235cbfbd8c7986d
+lcfffb2023-06-02t15 - Cosmic Highway.flac:ab3cdbf125a844919b2cabac1ec0cfce

@@ -1,0 +1,35 @@
+Sponge
+2023-05-24
+The Parish at House of Blues
+Anaheim, CA, USA
+
+-- Source --
+DPA 4081 > MMA-A > 24bit/48kHz
+
+-- Processing --
+iZotope RX (editing/mastering) > CD Wave (tracking) > Trader's Little Helper (encoding)
+
+-- Setlist --
+01 - intro
+02 - Jump While the House Is on Fire
+03 - Wax Ecstatic (To Sell Angelina)
+04 - My Purity
+05 - Rotting Piñata
+06 - Molly (16 Candles Down the Drain)
+07 - Glue
+08 - Got to Be a Bore
+09 - Have You Seen Mary
+10 - Treat Me Wrong
+11 - Go Speed Racer Go
+12 - Sick of It All
+13 - Stitch
+14 - Common People
+15 - Rainin'
+16 - Plowed
+
+-- Notes --
+Chokesetter opened.
+
+Length: 1h15m00s
+
+-- faninor -- 2023-05-26 --

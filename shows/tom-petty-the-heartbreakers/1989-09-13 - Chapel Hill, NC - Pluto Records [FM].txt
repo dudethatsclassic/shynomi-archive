@@ -1,0 +1,37 @@
+Tom Petty and the Heartbreakers - Free Fallin'
+Chapel Hill, NC - September 13, 1989 - Pluto Records - PLO 9132 - SB 6
+
+Track List:
+
+01. Bye Bye Johnny
+02. Damage You've Done
+03. Breakdown
+04. Free Fallin
+05. The Waiting
+06. Benmont Boogie
+07. Don't Come Around Here No More
+08. Southern Accents
+09. Even the Losers
+10. Intro LTHH
+11. Listen to her Heart
+12. A Face in the Crowd
+13. Something Big
+14. I Won't Back Down
+15. I Need to Know
+16. Refugee
+17. Running Down a Dream 
+
+Comments: Sourced from FM Broadcast.
+
+FM>EAC>WAV>FLACFRONTEND>FLAC
+
+Corrected set list:
+Actually 17 tracks - Listen to her Heart was split into 2 tracks
+Originally was not titled with track numbers - that would make it burn in alphabetical order
+Original titles up to evens the losers were incorrect - if you check the original MD5 file the was a song titled intro which wa actually 01. Bye Bye Johnny
+
+Changes:
+Added track numbers
+Titled songs correctly
+New MD5
+original MD5 verified OK - I made a new one to match the correct setlist

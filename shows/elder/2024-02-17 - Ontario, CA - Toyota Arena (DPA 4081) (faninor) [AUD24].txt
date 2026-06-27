@@ -1,0 +1,23 @@
+Elder
+2024-02-17
+Toyota Arena
+Ontario, CA, USA
+
+-- Source --
+DPA 4081 > MMA-A > 24bit/48kHz
+
+-- Processing --
+iZotope RX (editing/mastering) > CD Wave (tracking) > Trader's Little Helper (encoding)
+
+-- Setlist --
+01 - intro
+02 - Sanctuary
+03 - Merged in Dreams — Ne Plus Ultra
+04 - Halcyon
+
+-- Notes --
+Opening for Tool.
+
+Length: 38m40s
+
+-- faninor -- 2024-02-29 --

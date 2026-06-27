@@ -1,0 +1,34 @@
+Chris Cornell
+Live at Much More Music
+Toronto, ON
+April 13th 2007
+NTSC DVD
+lineage:
+Cable > Intervideo Windvd Creator > DVD (your copy).
+Set list
+Spoonman (Soundgarden)
+No Such Thing
+Interview
+Arms Around Your Love
+Black Hole Sun (Soundgarden)
+Interview
+Hungerstrike (Temple of the Dog)
+thanks to demetrios for recording and sharing
+
+VLC Media Information:
+Type Video
+Codec MPEG-1/2 Video (mpgv)
+Video resolution 720x480
+Buffer dimensions 720x480
+Frame rate 29.970030
+Decoded format Planar 4:2:0 YUV
+Orientation Top left
+Color transfer function sRGB
+Color space ITU-R BT.601 Range
+Chroma location Left
+
+Type Audio
+Codec DVD LPCM Audio (lpcm)
+Channels Stereo
+Sample rate 48000 Hz
+Bits per sample 16

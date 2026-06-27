@@ -1,0 +1,47 @@
+Primus
+11/10/2006
+Tower Theater
+Upper Darby, PA
+
+Source: Akg 481 > Lunatec V2 > Dap1 @44.1khz (FOB, mic's head high Orch LC Row HHH
+about 25 ft from left stack)
+
+Transfer: Sony DTC690 > Audioquest Optilink1 > Sek'd Prodif Plus > Samplitude V5.5 >
+wav > Cdwav 1.71> Flac frontend @ highest setting
+
+Taped and transferred by: Sparki
+
+One set show = One 80 minute disc
+
+01: Intro:
+02: Those Damned Blue Collar Tweekers
+03: Here Come the Bastards
+04: The Toys Go Winding Down
+05: Tower Theater Banter
+06: My Name is Mud
+07: Jerry was a Racecar Driver
+08: Hamburger Train >
+09: Drum and Whamola Jam >
+10: Drums
+11: Too Many Puppies > Master of Puppets > Too Many Puppies
+12: Encore Break/Crowd
+13: Pudding Time
+14: Groundhog's Day
+
+
+flac fingerprints: 
+
+primus2006-11-10d1t01.flac:2b0e8caa828f337ce9bf697bcf4a5211
+primus2006-11-10d1t02.flac:78f84b160bcc2f2c56da6ac862b7b12c
+primus2006-11-10d1t03.flac:0dbc4b49a7ba8b60d3bd9bc1c7059d45
+primus2006-11-10d1t04.flac:535394fe4db97c7e31cc7a0b6c3b9884
+primus2006-11-10d1t05.flac:836a37ecb0a2c15995d2cb19581cddb2
+primus2006-11-10d1t06.flac:78347790f43ed692fc05b3c5317d1df2
+primus2006-11-10d1t07.flac:ed4806af0d04486ce072bca8cec179ce
+primus2006-11-10d1t08.flac:d85c0ac0fbdd0512b65625a9102d8c13
+primus2006-11-10d1t09.flac:3204d34186edbdc5c9d646dea6142178
+primus2006-11-10d1t10.flac:98eba5e59a4bf68f934c1997686be81d
+primus2006-11-10d1t11.flac:f4835e0f0272bc6c46dc04a189266779
+primus2006-11-10d1t12.flac:195118d1b988070cba90f2630c7b9a0d
+primus2006-11-10d1t13.flac:7bf86e6e2f43acfcd29747bfb10fe645
+primus2006-11-10d1t14.flac:5942f2b89c20374eb495698a4085454b

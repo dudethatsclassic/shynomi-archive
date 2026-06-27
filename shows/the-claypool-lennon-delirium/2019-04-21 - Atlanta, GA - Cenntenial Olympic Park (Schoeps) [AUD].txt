@@ -1,0 +1,91 @@
+The Claypool Lennon Delirium
+Sweetwater 420 Fest
+Centennial Olympic Park 
+Atlanta, Georgia
+4/21/2019 
+
+Source: Schoeps MK4V'S>CMC6>Lunatec V2>Sound Devices 722 (24/44.1)
+FOB/DFC/KFC/ZFC/AARP 60' From Stage, 7 1/2' High
+DSP: Sound Devices 722>Sound Forge 10.0>CD Wave>flac(16)
+ID3 Tagged In Foobar 2000
+Recorded By: Z-Man
+Seeded By: Z-Man 
+
+Disc I 
+
+01 Greeting From Lindsay Marie From Rock 100.5 And Dianna From 99X
+02 PA Music - There's No Underware In Space >
+03 Astronomy Domine >
+04 Little Fishes 
+05 Cricket And The Genie - Movement I The Delirium >
+06 Cricket And The Genie - Movement II Oratorio Di Cricket
+07 Banter
+08 ?
+09 ?
+10 Court Of The Crimson King
+11 Banter
+12 Easily Charmed By Fools
+
+Disc II 
+
+01 ?
+02 ?
+03 Banter
+04 Boris The Spider
+05 ?
+06 Mr. Wright >
+07 Like Fleas
+08 Tomorrow Never Knows
+
+Les Claypool - Bass And Vocals
+Sean Lennon - Guitar And Vocals
+Paulo Baldi - Drums
+Pete Drungle - Keyboards
+
+theclaypool2019-04-21d01t01.flac:69deb1a1583feb8557185e4458baf6f9
+theclaypool2019-04-21d01t02.flac:2d1d3258f825495d99acd5eede42b49c
+theclaypool2019-04-21d01t03.flac:050c651068d8a3b05460ad96b3774279
+theclaypool2019-04-21d01t04.flac:bdf47531698c8de0db604607a95000df
+theclaypool2019-04-21d01t05.flac:95fedea5492d2edd82b464b57debf4ce
+theclaypool2019-04-21d01t06.flac:edc0ba7eff1a11f332f87b9760974c9a
+theclaypool2019-04-21d01t07.flac:197bbae6455567fc489c2675d799b0bb
+theclaypool2019-04-21d01t08.flac:1e7f6cc1f8008a1555122d2900f74829
+theclaypool2019-04-21d01t09.flac:f7185bb223f4cd43312ba5390f737875
+theclaypool2019-04-21d01t10.flac:ca3d90828d7df5f1bf1c9e61b44c61ed
+theclaypool2019-04-21d01t11.flac:3dc83e796084a67da8dff2827242bf91
+theclaypool2019-04-21d01t12.flac:fbdd4ca76a159c86c7e8dbc18132e0b3
+theclaypool2019-04-21d02t01.flac:d45b8f15650b5e120e7486c716ada625
+theclaypool2019-04-21d02t02.flac:c71ae341ebd9a7c1246d1d87f473cd3f
+theclaypool2019-04-21d02t03.flac:31380029e6dd5976c1d2ea61beea4be1
+theclaypool2019-04-21d02t04.flac:aaef95b5c2aaf344828093be3bb8ce91
+theclaypool2019-04-21d02t05.flac:598eeaeed43721e891119ade13525140
+theclaypool2019-04-21d02t06.flac:a930c4529406c48f44136b482686bcea
+theclaypool2019-04-21d02t07.flac:8bb964ff90874f50f7205f2af9ba1317
+theclaypool2019-04-21d02t08.flac:f2aad26d95c703c0783618183a956952
+
+length     expanded size    cdr  WAVE problems  fmt   ratio  filename
+     1:10.10       12371564 B   ---   --   ---xx   flac  0.3635  theclaypool2019-04-21d01t01.flac
+     2:42.67       28734428 B   ---   --   ---xx   flac  0.3025  theclaypool2019-04-21d01t02.flac
+     4:39.12       49243868 B   ---   --   ---xx   flac  0.3942  theclaypool2019-04-21d01t03.flac
+     6:22.24       67441292 B   ---   --   ---xx   flac  0.3482  theclaypool2019-04-21d01t04.flac
+     4:52.74       51682892 B   ---   --   ---xx   flac  0.3694  theclaypool2019-04-21d01t05.flac
+     3:06.58       32946860 B   ---   --   ---xx   flac  0.4277  theclaypool2019-04-21d01t06.flac
+     2:03.67       21854828 B   ---   --   ---xx   flac  0.3024  theclaypool2019-04-21d01t07.flac
+     3:28.20       36738284 B   ---   --   ---xx   flac  0.4066  theclaypool2019-04-21d01t08.flac
+     6:23.55       67690604 B   ---   --   ---xx   flac  0.3896  theclaypool2019-04-21d01t09.flac
+     6:20.51       67151996 B   ---   --   ---xx   flac  0.4179  theclaypool2019-04-21d01t10.flac
+     2:48.14       29668172 B   ---   --   ---xx   flac  0.2867  theclaypool2019-04-21d01t11.flac
+     5:01.68       53256380 B   ---   --   ---xx   flac  0.3838  theclaypool2019-04-21d01t12.flac
+     5:45.55       60987404 B   ---   --   ---xx   flac  0.3889  theclaypool2019-04-21d02t01.flac
+     9:43.35      102923564 B   ---   --   ---xx   flac  0.3717  theclaypool2019-04-21d02t02.flac
+     2:27.40       26024924 B   ---   --   ---xx   flac  0.2924  theclaypool2019-04-21d02t03.flac
+     6:03.00       64033244 B   ---   --   ---xx   flac  0.4331  theclaypool2019-04-21d02t04.flac
+     8:33.31       90566156 B   ---   --   ---xx   flac  0.4025  theclaypool2019-04-21d02t05.flac
+     5:36.29       59338652 B   ---   --   ---xx   flac  0.3787  theclaypool2019-04-21d02t06.flac
+     4:21.08       46059260 B   ---   --   ---xx   flac  0.3494  theclaypool2019-04-21d02t07.flac
+     8:02.21       85074236 B   ---   --   ---xx   flac  0.4124  theclaypool2019-04-21d02t08.flac
+    99:33.64     1053788608 B                            0.3811  (20 files)
+
+
+
+

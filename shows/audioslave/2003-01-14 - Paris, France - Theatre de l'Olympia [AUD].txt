@@ -1,0 +1,46 @@
+*****DO NOT ENCODE TO MP3 OR LOSSY FORMATS*****
+*****DO NOT SELL COPIES OF THIS RECORDING******
+
+
+Audioslave
+Paris, France
+14 january 2003
+(Theatre de l'Olympia)
+
+complete show
+
+set:
+01. Light My Way 
+02. Set It Off 
+03. Gasoline
+04. Like A Stone
+05. Exploder
+06. Super Stupid*
+07. I Am The Highway
+08. Bring Em Back Alive
+09. What You Are 
+10. The Last Remaining Light
+11. Hypnotize 
+12. Show Me How To Live 
+13. Cochise 
+14. Shadow On The Sun
+
+*: new song
+
+Source:
+Sony ECM-717 mics + Sony MZ-R70 MD
+(in the pit, 20 meters in front of the speaker)
+
+Taper:
+Rémi Joubaud
+
+Lineage:
+-> master md
+-> digital transfer to cdr
+-> cdr copy
+-> EAC secure
+-> encode to SHN (with seek tables in separate files)
+
+
+*****DO NOT ENCODE TO MP3 OR LOSSY FORMATS*****
+*****DO NOT SELL COPIES OF THIS RECORDING******

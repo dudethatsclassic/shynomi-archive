@@ -1,0 +1,41 @@
+SILVERCHAIR
+June 23, 1995
+Cabaret Metro
+Chicago, IL, US
+
+DISC #1/1 (35:28)
+-----------------
+01) Madman
+02) Leave Me Out
+03) Faultline
+04) Undecided
+05) Tomorrow
+06) Fat Donuts
+07) Pure Massacre
+08) Israel's Son
+
+GENERATION
+-----------------
+CD [Teenage Runaway] -> WAV [44.1kHz] -> FLAC [Level 8]
+
+SOURCE
+-----------------
+soundboard -> unknown
+
+TRANSFER
+-----------------
+LITE-ON CD-RW SOHR-5238s -> Exact Audio Copy v 0.95 BETA -> FLAC Frontend 1.7.1
+
+MD5 FINGERPRINTS
+-----------------
+e923af17b79fddf73f885772a23fd511 *silverchair1995-06-23t01.flac
+6ed7fee80c307c25bf2a8338f96053c9 *silverchair1995-06-23t02.flac
+2c5c450abc855a8558acd580e2255e62 *silverchair1995-06-23t03.flac
+4c0398466e35744627f5d1e5a2e8c2cd *silverchair1995-06-23t04.flac
+1bb4d798a26106f30b02768e66a61a24 *silverchair1995-06-23t05.flac
+b45b0f0a49ff51893f73d09bd94f3b70 *silverchair1995-06-23t06.flac
+35d4c733ea0217895caf5e507f8c48b2 *silverchair1995-06-23t07.flac
+144552b6df769de5e3ddbe4bc4ca44e5 *silverchair1995-06-23t08.flac
+
+Extracted by Krzysziek Nowak.
+PLEASE DO NOT ENCODE TO MP3 OR SELL!

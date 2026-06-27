@@ -1,0 +1,39 @@
+Primus
+September 3, 2015
+Tucson,AZ
+
+Rialto Theater
+
+SoundPro Audio Technica AT853 with Cardiod elements
+Bass Rolloff box set @ 195hz ->
+Tascam DR-07 recoder ->  wav file 24bit 48,000 -> Adobe audition 3.0
+
+SET I 
+01 Intro
+02 Harold of the Rocks
+03 Last Salmon Man
+04 The Press Man
+05 Wynona's Big Brown Beaver
+06 Jilly's on Smack
+07 Mr.Krinkle
+08 The Heckler
+09 My Name is Mud
+
+SET II
+
+10 Hello Wonkites
+11 Candy Man
+12 Cheer up Charlie
+13 Golden Ticket
+14 Lermaninoff
+15 Pure Imagination
+16 Oompa Augustus
+17 Semi-Wonderous Boat Ride
+18 Oompa Violet
+19 I Want It Now
+20 Oompa Veruca
+21 Wonkmobile
+22 Oompa TV
+23 Farewell Wonkites
+24 Southbound Pachyderm
+25 Here Come the Bastards

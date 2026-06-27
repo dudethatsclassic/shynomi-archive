@@ -1,0 +1,55 @@
+Primus
+
+1994-08-13
+Saugerties, NY
+"Woodstock 94"
+(TV)
+
+
+Lineage: TV-Broadcast > Master VHS > DVD-R > Zomb > Data-DVD-R > HDD > creating new info-file and fingerprints (old MD5s checked and verified OK) > TTD (2008-06-09)
+
+
+--
+
+
+Tracklist:
+
+Bob
+My Name Is Mud
+Jerry Was A Race Car Driver
+Seas Of Cheese
+The Air Is Getting Slippery
+Nature Boy 
+Hello Skinny
+Harold Of The Rocks (feat. Jerry Cantrell)
+Master Of Puppets (tease)
+Those Damned Blue Collar Tweekers
+
+= 46:26 min
+
+
+--
+
+
+Video Attributes:
+
+Video compression mode: MPEG-2
+TV system: NTSC
+Aspect Ratio: 4:3
+Source picture resolution: 720x480
+Frame Rate: 28,874
+Bitrate: 7218 kbps
+
+Audio Attributes:
+
+Audio Coding mode: LPCM
+Sampling Rate: 48000 Hz
+Number of Audio channels: 2.0
+Bitrate: 10080 Kbps VBR 
+Number of Audio streams: 1
+
+
+--
+
+
+Uploaded by uninvited94.

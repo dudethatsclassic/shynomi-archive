@@ -1,0 +1,68 @@
+Bad Brains
+December 25, 1981 
+1981-12-25 
+at CBGB 
+New York City, New York USA 
+soundboard tape 
+trade cassette 
+June 2005 transfer and seed
+December 2021 reseed 
+
+tracklist:
+
+01 12xU [Wire cover] 1:23 
+02 Don't Need It 1:09 
+03 Supertouch-Shitfit 2:40 
+04 Big Takeover 3:13 
+05 Riot Squad 2:45 
+06 i 2:09 
+
+https://en.wikipedia.org/wiki/Bad_Brains 
+
+
+full show at CBGB 1982 
+https://www.youtube.com/watch?v=2pUlNfdnsAM 
+
+-
+lineage - sbd->?gen cassette->wav->
+sound forge 4.5 [noise reduction, normalization]
+->cd wave [splits]->flac 
+min:sec - 13:19
+filesize: 82 mb	
+
+original seeder's notes: 
+received in a cassette trade sometime during 1989-1991. 
+a few cassette generations behind this, 
+scorching performance 
+still translates well. 8.5 out of 10
+June 2005 seed
+
+December 2021 reseed:
+FLAC files renamed, new checksum files added 
+and this info file revised;
+original info file was lost 
+original images included.
+
+Thanks again to the taper and original seeder
+for this recording. 
+
+a zootype reseed December 2021 
+---- 
+original ffp:
+01-12xu.flac:b12ff642c481d7e70b8d8012b8db4321
+02-dont need it.flac:784f34465025ab812e7d305c3f7d6e72
+03-supertouch-shitfit.flac:40080fcc5272fcdf0401e57ab17e6909
+04-big takeover.flac:ff5faf1241899f9e5ae749e4a9dab762
+05-riot squad.flac:db5932c014be05e03c5e846a1a32cc31
+06-i.flac:5e1de1f4ac463f8d1f4094849fecbad0
+--- 
+new ffp:
+Bad_Brains-1981-12-25-tr01-12XU.flac:
+b12ff642c481d7e70b8d8012b8db4321
+Bad_Brains-1981-12-25-tr02-Don't_ Need_It.flac:784f34465025ab812e7d305c3f7d6e72
+Bad_Brains-1981-12-25-tr03-Supertouch-Shitfit.flac:40080fcc5272fcdf0401e57ab17e6909
+Bad_Brains-1981-12-25-tr04-Big_Takeover.flac:ff5faf1241899f9e5ae749e4a9dab762
+Bad_Brains-1981-12-25-tr05-Riot_Squad.flac:db5932c014be05e03c5e846a1a32cc31
+Bad_Brains-1981-12-25-tr06-i.flac:
+5e1de1f4ac463f8d1f4094849fecbad0
+---- 

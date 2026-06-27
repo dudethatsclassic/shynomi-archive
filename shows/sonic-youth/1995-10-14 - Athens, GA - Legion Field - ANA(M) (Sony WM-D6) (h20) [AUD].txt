@@ -1,0 +1,28 @@
+Sonic Youth
+October 14, 1995
+Legion Field
+Athens, Georgia, USA
+
+
+[05:40] 01. Washing Machine
+[04:31] 02. Junkie's Promise
+[04:35] 03. Becuz
+[05:25] 04. Candle
+[02:52] 05. Bull in the Heather
+[02:57] 06. Starfield Road
+[04:47] 07. Saucer-like
+[11:55] 08. The Diamond Sea
+            ---
+[04:35] 09. Skink
+[04:59] 10. Schizophrenia
+
+
+- Washing Machine cuts in, and it is missing the first four songs: Tom Violence, White Kross, Brother James and Eric's Trip.
+- Tape flip during the encore break, no music lost.
+
+
+audience > unknown microphones > Sony WM-D6 > ANA(M) > unknown direct PC transfer > AIFF [16-bit, 44.1 kHz]
+Adobe Audition v3.0 > CD Wave Editor v1.98 > FLAC Frontend v1.7.1 > FLAC v1.2.1b [Level 8]
+
+recorded and transferred by h2o. edited and seeded by andrei - ic_andrei [at] yahoo [dot] com
+thanks to Martin van Rappard - rappard [at] dds [dot] nl - for sending this to edit and seed.

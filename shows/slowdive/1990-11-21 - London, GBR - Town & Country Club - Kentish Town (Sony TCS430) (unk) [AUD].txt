@@ -1,0 +1,28 @@
+foobar2000 1.4.6 / Dynamic Range Meter 1.1.1
+log date: 2019-07-15 21:19:00
+
+--------------------------------------------------------------------------------
+Analyzed: Slowdive / 1990-11-21 Town & Country Club, Kentish Town, London
+--------------------------------------------------------------------------------
+
+DR         Peak         RMS     Duration Track
+--------------------------------------------------------------------------------
+DR11      -0.88 dB   -16.13 dB      3:19 01-(tuning)
+DR11       0.00 dB   -12.06 dB      6:18 02-Shine
+DR9       -0.58 dB   -11.68 dB      3:55 03-Catch the Breeze
+DR10      -0.72 dB   -12.23 dB      3:39 04-I Thought I Saw
+DR9       -0.78 dB   -11.20 dB      5:38 05-Slowdive
+DR9       -0.74 dB   -11.76 dB      5:06 06-Morningrise
+DR9        0.00 dB   -11.41 dB      5:56 07-She Calls
+--------------------------------------------------------------------------------
+
+Number of tracks:  7
+Official DR value: DR10
+
+Samplerate:        44100 Hz
+Channels:          2
+Bits per sample:   16
+Bitrate:           807 kbps
+Codec:             FLAC
+================================================================================
+

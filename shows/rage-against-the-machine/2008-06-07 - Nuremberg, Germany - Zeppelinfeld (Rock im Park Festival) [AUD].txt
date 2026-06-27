@@ -1,0 +1,55 @@
+Rage Against The Machine
+7th June 2008 
+Nürnberg, Germany
+Rock im Park, Center Stage
+
+taper: 		DaGobert
+ICQ:		165-726-126
+
+source:		MBHO MBP 603 A / KA 200 N > Sony XLR-1 > Sony PCM-D50 @ 24/48
+mic config: 	in hat, DINa (17cm, 90°)
+location:	in the middle of the first (right) wavebreaker (watch the "my taping position-jpg")
+transfer:	Sony PCM-D50 > USB2.0 > PC > Adobe Audition3 > Flac Frontend 1.7.1 Etree Edition (Level8)
+editing:	Audition3:	
+
+		• volumeboost on the right channel (+2.3dB)
+		• tracking
+		• fadeIn/Out
+		• ozone3:	
+			- rockmaster 4 band /w eq and widening
+				- loudness maximizer:
+					- treshold: -2.5dB
+					- margin: -0dB	
+				
+ 			- dithering to 16/44.1
+
+Setlist: 
+
+01 - Intro
+02 - Testify
+03 - Bulls On Parade
+04 - People Of The Sun
+05 - Bombtrack
+06 - Know Your Enemy
+07 - Vietnow
+08 - Bullet In The Head
+09 - Renegades Of Funk
+10 - Down Rodeo
+11 - Guerrilla Radio
+12 - Calm Like A Bomb
+13 - Sleep Now In Fire
+14 - War Within A Breath
+-----encore-----
+15 - Freedom
+16 - Township Rebellion
+17 - Killing In The Name Of
+
+*****************************************************************************************************
+*****************************************************************************************************
+*****************************************************************************************************
+**********please dont upload/edit/encode this recording without my permission************************
+*****************************************************************************************************
+**************************************DON'T SELL THIS SHOW*******************************************
+*****************************************************************************************************
+*****************************************************************************************************
+*****************************************************************************************************

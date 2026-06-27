@@ -1,0 +1,50 @@
+Billie Joe Armstrong
+1998-xx-xx
+(rebroadcast 1999-08-21)
+KALX
+Berkeley, CA
+
+A couple of years ago, some idiots on the Green Day Community message board tried to argue with me that this didn't exist. Here's proof that it does. 
+
+On August 21, 1999, I set up a tape recorder to record Bracket live in the KALX (UC Berkeley radio) studio, then went out for the evening. When I got home and listened to the tape, I discovered that this had been broadcast at the end of the show. Believe me, if I'd had any idea that it was on, I'd have found a way to tape the whole thing (I don't know how much longer it went on for; if a complete recording exists outside the KALX archives, I'm unaware of it).
+
+The song "Life During Wartime" was released on a KALX benefit comp called "Bored, Lonely, and a Little Pissed Off" in 1999/2000; for that reason, it's not included in this torrent.
+
+1. intro (1:04)
+2. Reject (aborted) (1:57)
+3. One for the Razorbacks (2:21)
+4. Jinx (2:39)
+5. Stuart and the Ave. (1:35)
+6. Chump (1:55)
+7. One of My Lies (2:22)
+8. Scattered (2:58)
+9. I Got You Babe (aborted) (0:50)
+10. Beastly Bit (2:38)
+(omitted: 11. Life During Wartime (1:56)) 
+12. segue (1:31)
+13. No Pride (1:53)
+14. Christie Road (4:15)
+15. Blue Moon of Kentucky (0:39)
+16. segue (1:18)
+17. Worry Rock (cut) (2:15)
+
+sound quality: FM soundboard recording
+lineage: ? > cassette tape (unknown generation) > Tascam CC-222 (WAV) > CD WAV Editor (track split) > FLAC Frontend (FLAC)
+
+checksums:
+BJ01 intro.flac:17affa970dab2e73e8545409d8faf7c7
+BJ02 Reject (aborted).flac:e3332a1610f2e1d6ef478dd253cc4f7a
+BJ03 One for the Razorbacks.flac:fdf433ad3aaec7f17ca365ae1c7dca3a
+BJ04 Jinx.flac:e95306c3d5093d9cecacf697fa73f97e
+BJ05 Stuart and the Ave..flac:932d797abc18705f11af882cbd86779d
+BJ06 Chump.flac:63ba55cce2074b7f8c1e822156935ab3
+BJ07 One of My Lies.flac:7ef42116b6327616290a5d48b26b6dd9
+BJ08 Scattered.flac:3e7724dde9de3d8629ea7cdff99f3c1a
+BJ09 I Got You Babe (aborted).flac:ea8b24a32e0e7cbb00280e3bc67402dc
+BJ10 Beastly Bit.flac:08d919cf04e25ac7d5316d842d603b38
+BJ12 segue.flac:f6649704e8c9adb2044a36ad663532f2
+BJ13 No Pride.flac:2d556deb4508ecdb7e460b4d24c97c3c
+BJ14 Christie Road.flac:baca87889ce5c77e194e60b699b31ecb
+BJ15 Blue Moon of Kentucky.flac:4912f7ae7550d887d2cea3d00de81144
+BJ16 segue.flac:b8b10af15f3537fc89bed03a9711e39e
+BJ17 Worry Rock (cut).flac:8c0a19cca8ea6cbc1931dc84d4084c46

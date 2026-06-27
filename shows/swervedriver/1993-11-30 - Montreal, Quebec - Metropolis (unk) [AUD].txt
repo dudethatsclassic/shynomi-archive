@@ -1,0 +1,20 @@
+Swervedriver
+Montreal Que Canada
+1993-11-30
+
+Source:Audience
+Lineage:CDR > EAC > WAV > FLAC
+
+404MB
+
+1. sandblasted
+2. last train to satansville
+3. duel
+4. she's beside herself
+5. rave down
+6. duress01 - sandblasted.flac:2b3899dcd352d0d33e62f7f917d4ae80
+02 - last train to satansville.flac:b9125610bb0907b226535a97ae68a298
+03 - duel.flac:20b79543240d52b961380c889c9ff86d
+04 - she's beside herself.flac:5c023514027d63530c1c790d6fae62b2
+05 - rave down.flac:5c93b7d8e667a09d655dbfd01aaa7532
+06 - duress.flac:b0fae1a0bffce70b708491bf05fa883d

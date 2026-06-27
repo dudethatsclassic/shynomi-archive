@@ -1,0 +1,31 @@
+
+Pluralone
+Oakland Arena: Oakland, CA
+May 12, 2022
+
+Source: CA-11s > Sony PCM-A10
+Location: Stone side
+Transfer: A10 > USB > Audacity > CDWave > xACT 2.50
+Edits/EQ: +7dB
+Taper: tapeworm(48)
+
+01 Intro
+02 The Needle & the Damage Done [Neil Young] (EV solo)
+03 I Won't Back Down [Tom Petty] (EV solo)
+04 -Josh intro-
+05 Offend
+06 Can't Put the Bullet Back in the Gun
+07 Buttercup [Brad] (w/ Stone Gossard)
+08 Present Tense [Radiohead]
+09 Wait for Me
+10 This Is Where I Belong [The Kinks]
+11 Purple Rain [Prince]
+
+Notes: Opening for Pearl Jam. A10 set at 10. Raw transfer with no fades or EQ.
+
+Archive: Master WAV was archived @ 24-bit/44.1kHz and FLAC'd with cue sheet.
+
+Taped and transferred by tapeworm(48)
+Txt file compiled on 5/21/2022
+
+*** DO NOT REMASTER WITHOUT PERMISSION. DO NOT DISTRIBUTE IN LOSSY FORMATS. DO NOT SELL THIS RECORDING, TRADE IT FREELY ***

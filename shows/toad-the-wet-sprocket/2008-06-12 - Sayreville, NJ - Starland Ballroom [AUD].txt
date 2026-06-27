@@ -1,0 +1,37 @@
+Toad the Wet Sprocket
+June 12th, 2008
+Starland Ballroom, Sayreville, NJ
+
+Master:
+Microtech Gefell M210's>Oade M248>SBM-1>D8, D8>Tascam CDRW2000>CD
+Taped from directly behind soundboard, 25 feet from stage, 8 feet high
+by Jon Pasternak
+
+Extraction
+CD>xACT 1.66 (cdparanoia)>WAV>FLAC, all tracks extracted with no errors
+by Dave Mallick
+
+Disc 1 [47:00.52] (minutes:seconds.frames)
+01. Something's Always Wrong [05:37.61]
+02. Rings                    [03:44.45]
+03. Stupid                   [02:37.36]
+04. Jam                      [03:41.51]
+05. Whatever I Fear          [03:19.51]
+06. Good Intentions          [03:33.47]
+07. In My Ear                [05:03.66]
+08. Inside                   [04:50.40]
+09. Everything But You       [04:27.11]
+10. Butterflies              [04:55.45]
+11. Windmills                [05:08.49]
+
+Disc 2 [41:02.53]
+01. Way Away                 [03:43.52]
+02. Nightingale Song         [02:47.68]
+03. Come Back Down           [03:38.51]
+04. Crowing                  [03:03.17]
+05. All I Want               [03:40.50]
+06. Brother                  [05:07.16]
+07. Fall Down                [04:26.52]
+08. E: Crazy Life            [06:19.12]
+09. Walk On The Ocean        [03:53.03]
+10. Ziggy Stardust           [04:22.32]

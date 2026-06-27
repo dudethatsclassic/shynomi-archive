@@ -1,0 +1,54 @@
+Slowdive
+10th December 1993,
+London - The Garage (England)
+Equipment: ???
+Lineage: ??? > Tape > WAV (unknown software) > Trader's Little Helper 2.6.0 (FLAC Frontend 1.2.1/Level 8) > DIME > Noise reduction, Azimuth correction > FLAC
+
+Setlist:
+
+01 Machine Gun
+02 Souvlaki Space Station
+03 Good Day Sunshine
+04 Catch The Breeze
+05 Slowdive
+06 Losing Today
+07 In Mind
+08 Melon Yellow
+09 Morningrise
+10 She Calls
+11 Avalyn
+12 Alison
+
+Originally uploaded by dsanchez.
+Despite being an average recording I thought it was worth fixing some issues that affected this tape since it contains a stripped down rendition of "Good Day Sunshine" and "In Mind". Some distortion during the second half of the set, but nothing too drastic.
+
+Notes from original seeder:
+
+If you have been to any Slowdive show please help me with the Slowdive Database (www.slowdivedatabase.com). Any addition or correction is welcome!
+
+From Dave, the guy who passed me this recording (thanks Dave!):
+
+"It was an interesting concert to attend, because they played a few songs that they didn't normally play in concert (...) I bought it off a stall at Camden Market so the quality wasn't that bad. It's similar in quality to the tape that floats around of the 1993 Clapham Grand show (in fact, I think it was the same market stall where I bought that one as well)"
+
+Thank you for downloading this recording.
+
+This recording was uploaded for the first time in the torrent site http://www.dimeadozen.org, a great site for sharing lossless ROIOs.
+
+In order to preserve this recording as it was shared originally, please try to avoid conversion to other formats as MP3 or similar lossy formats. You can see the benefits of the FLAC format in the link below:
+
+http://ubuntuforums.org/showthread.php?t=320351
+
+
+
+Feel free to to redistribute this recording, but don't forget to keep all the files (info, md5, etc.) included here, this way everyone will be able to have access to the original source, just as you did.
+
+
+Enjoy!
+
+
+David
+
+
+slowdivedatabase.com
+listadark.com
+curefans.com

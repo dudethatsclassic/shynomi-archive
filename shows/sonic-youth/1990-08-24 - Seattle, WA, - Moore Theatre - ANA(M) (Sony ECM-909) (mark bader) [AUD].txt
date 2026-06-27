@@ -1,0 +1,54 @@
+SONIC YOUTH
+August 24th, 1990 
+MooreTheatre
+Seattle, WA, USA
+
+SOURCE (AUD#4):
+Sony ECM-909 > Sony WM-D6C
+Recorded by Mark Bader
+
+TRANSFER:
+Nakamichi DR-1 > Canare cable > Focusrite Clarett > Audition CC > SoundForge 12.1 > Trader's Little Helper 2.8.4
+
+GENERATION:
+ANA(M) > WAV [24 bit/48kHz] > WAV [16 bit/44.1kHz] > FLAC [Level 8]
+
+DURATION:
+47:32
+
+
+SETLIST:
+01. (I Got a) Catholic Block
+02. Mary-Christ
+03. Kool Thing
+04. Mote
+05. Flower
+06. The Bedroom (aka The Destroyed Room)
+07. Dirty Boots
+08. Tunic (Song for Karen)
+09. Tom Violence
+10. Cinderella's Big Score
+11. White Kross (cuts out)
+
+
+CHECKSUM:
+d706ad78b25aa51bd9830ebf7be6fb28 *Sonic Youth 1990-08-24 Tr01.flac
+061402fd0937be24648a8aa99f7c34da *Sonic Youth 1990-08-24 Tr02.flac
+a3667217e34938351e04631e1d4b2033 *Sonic Youth 1990-08-24 Tr03.flac
+55f808b242172b6db6e33871946c11f9 *Sonic Youth 1990-08-24 Tr04.flac
+93591df01b2fed04ee6920cbe4f43254 *Sonic Youth 1990-08-24 Tr05.flac
+255355b85d5e0b73c854df0035d16fae *Sonic Youth 1990-08-24 Tr06.flac
+48fa4cc663c3796233c118d6d096948a *Sonic Youth 1990-08-24 Tr07.flac
+25430abfc1ff661872e6d93bb30d2c4b *Sonic Youth 1990-08-24 Tr08.flac
+13f04fb3b4dd295888e6aeb938e0a07e *Sonic Youth 1990-08-24 Tr09.flac
+adbad85bccdbdbe52c5814851045c2e0 *Sonic Youth 1990-08-24 Tr10.flac
+52aa10ecfb9b9ab80de6ff62ba9d9a39 *Sonic Youth 1990-08-24 Tr11.flac
+
+
+TRANSFER:
+Rob Landis
+Members of LiveNIRVANA.com
+
+
+**DO NOT ENCODE TO MP3 OR LOSSY FORMATS EXCEPT FOR PERSONAL USE**
+**DO NOT SELL**

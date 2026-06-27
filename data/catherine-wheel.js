@@ -22,7 +22,8 @@ const ARTIST_DATA = {
       "venue": "After Dark Club",
       "version": "SBD",
       "format": "FLAC",
-      "notes": ""
+      "notes": "",
+      "textFile": "1992-03-28 - Reading, UK - After Dark Club [SBD].txt"
     },
     {
       "year": 1993,
@@ -48,7 +49,8 @@ const ARTIST_DATA = {
       "venue": "Tower Records",
       "version": "AUD",
       "format": "FLAC",
-      "notes": "CSB \u00b7 Unknown"
+      "notes": "CSB \u00b7 Unknown",
+      "textFile": "1995-06-05 - West Hollywood, CA - Tower Records (CSB) (unk) [AUD].txt"
     },
     {
       "year": 1995,

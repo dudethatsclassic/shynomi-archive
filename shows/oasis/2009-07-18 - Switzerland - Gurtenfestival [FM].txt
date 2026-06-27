@@ -1,0 +1,42 @@
+Oasis
+
+
+July 18, 2009, Gurtenfestival, Switzerland
+
+
+01 - Rock 'n' Roll Star (cuts in)
+02 - Lyla
+03 - The Shock Of The Lightning
+04 - Cigarettes & Alcohol
+05 - Roll With It
+06 - Waiting For The Rapture
+07 - The Masterplan
+08 - Songbird
+09 - Slide Away
+10 - Morning Glory
+11 - My Big Mouth
+12 - Half The World Away
+13 - I'm Outta Time
+14 - Wonderwall
+15 - Supersonic
+16 - Live Forever
+17 - Don't Look Back In Anger
+18 - Champagne Supernova
+19 - I Am The Walrus
+
+
+Broadcast: DRS 3, July 18, 2009, 9:45PM
+
+Running time: 1h:30m:59s
+
+Analog Cable FM > Yamaha RX-V530RDS > Audio Out > Monster Interlink 100 Minijack Cable > Sony PCM-D50 (48kHz/16Bit, Limiter off, Low Cut Filter off, SBM off) > Copy Wave File to PC via USB Connection > Edit with Adobe Audition 3 (Normalize to 96%, Fade-In and Fade-Out, Convert to 44.1kHz, Split) > FLAC 8 with TLH > Tag with Tagscanner
+
+Notes:
+
+I cut the following out:
+Jingle after The Shock Of The Lightning.
+Jingle after Slide Away.
+Jingle after Half The World Away.
+Jingle and talking after Supersonic.
+
+I recorded this at 48kHz by accident, to make it Audio-CD compliant I converted it to 44.1kHz.

@@ -1,0 +1,48 @@
+Oasis
+10 December 2005
+Millenium Stadium (Noise And Confusion), Cardiff, United Kindom
+
+Source 1: Sony MZR-55 > Sony ECM70P (Plug-In Mic)> Mini Disc > Line In > PC > WAVE > GoldWave (Track Splitting) > Traders Little Helper > FLAC > Dime > Trader's Little Helper (rip to wav)
+Taper: oasisgiants (available here http://www.dimeadozen.org/torrents-details.php?id=489625)
+
+Source 2: Icom IC-R5 > Sharp MT877MD
+Transfer: Sony MZ-RH1 > USB > Open MG ATRAC file > SonicStage 4.3 > 44.1kHz PCM wav
+Taper: petrock2000
+
+Source 3: Audience shot DVD received in trade > DVD Decrypter > 256kb/s 48KHz ac3 rip > Any DVD Converter Professional (convert to wav)
+Taper: oasisgiants - used on encore only
+
+01. FITB
+02. Turn Up The Sun
+03. Lyla
+04. Bring It On Down
+05. Morning Glory
+06. Cigarettes & Alcohol
+07. The Importance Of Being Idle
+08. The Masterplan
+09. Songbird
+10. A Bell Will Ring
+11. Acquisce
+12. Live Forever
+13. Mucky Fingers
+14. Wonderwall
+15. Champayne Supernova
+16. Rock n Roll Star 
+17: Guess God Thinks I'm Abel
+18: The Meaning of Soul
+19: Don't Look Back in Anger
+20: My Generation (The Who cover)
+
+
+Notes
+-----
+Mixed in Adobe Audition CS6, Har Bal 2.3 and Izotope Ozone 5
+
+Morning Glory is Source 1 only
+
+
+Technical notes
+---------------
+Transferred though a Sony MZ-RH1 Minidisc recorder.  It is capable of ripping Sony ATRAC files to a wav file and therefore removes any lineage from real time transfers, typically through the D/A of the MD recorder (analogue transfer through the headphone socket).  Quality of the transfer is noticeably better than previous transfers.  Having transferred some 500 MDs to archive, I am now selling my Sony MZ-RH1 (http://www.ebay.co.uk/itm/SONY-MZ-RH1-Walkman-Hi-MD-Player-MiniDisc-Recorder-/281308947773?pt=UK_CE_Portable_Audio_Portable_CD_Players_ET&hash=item417f51e53d) 
+
+

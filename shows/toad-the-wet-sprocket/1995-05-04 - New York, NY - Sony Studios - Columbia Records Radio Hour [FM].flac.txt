@@ -1,0 +1,33 @@
+Toad the Wet Sprocket
+May 4, 1995
+Columbia Records Radio Hour
+Sony Studios
+New York, NY
+
+"The Toad Radio Network"
+
+FM live broadcast (KSCA Los Angeles) > Sony DTC-75ES DAT master @ 48kHz
+
+DAT master on Fostex D5 > optical SPDIF > Nomad JB3 > WAV >
+Cool Edit Pro 1.2 (editing and 48>44.1 SRC) > CDWAV 1.71 > 
+FLACfrontend > FLAC
+
+Recording, conversion and mastering by Jeff Lester <tdrcjeff@yahoo.com>
+Typical compressed FM broadcast without much dynamic range.
+Some minor FM noise.
+
+1. introduction by Kid Leo (over instrumental Way Away) (1:46)
+2. Fly From Heaven (4:50)
+3. Something's Always Wrong (4:46)
+4. Woodburning (5:12)
+5. Crowing (3:15)
+6. All I Want (3:53)
+7. Come Back Down (3:17)
+8. Windmills (3:55)
+9. Walk on the Ocean (4:08)
+10. Hold Her Down (4:09)
+11. Stupid (3:07)
+12. Fall Down (3:40)
+13. outro (over instrumental Scenes From A Vinyl Recliner) (1:19)
+
+Total: 47:17

@@ -1,0 +1,30 @@
+Rage Against the Machine
+"The Battle of the DNC 2008"
+The Denver Coliseum
+Denver, Colorado
+2008 Aug 27
+
+Source: CSC > Battery Box > Microtrack 24/96 (24 bit @ 48 khz)
+Lineage: MT > USB (2.0) > Soundforge 8.0 (downsampling: 16 bit @ 44.1 khz
+and splitting) > flac (8)
+Recorded by auto-de-fe
+
+Setlist:
+
+01. Guerrilla Radio                                           [04.36]
+02. Testify                                                   [03.56]
+03. Bulls on Parade                                           [04.27]
+04. Bombtrack                                                 [04.55]
+05. [Introduction of and speach by Wayne Kramer of MC5]       [02.10]
+06. Kick Out the James with Wayne Kramer                      [05.00]
+07. Calm Like a Bomb                                          [05.21]
+08. Sleep Now in the Fire                                     [05.23]
+09. Bullet in the Head                                        [06.12]
+10. [Oath of a protester]                                     [03.32]
+11. Wake Up                                                   [10.40]
+12. Killing in the Name of                                    [05.57]
+
+Total time:                                                   [62.09]
+
+
+*******DO NOT SELL***********

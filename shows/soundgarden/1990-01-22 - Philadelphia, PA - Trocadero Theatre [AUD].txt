@@ -1,0 +1,16 @@
+Soundgarden
+Trocadero, Philadelphia PA
+January 22, 1990
+
+-a 'teddy ballgame' DAT Master
+
+recording info:
+Schoeps CMC 44/441 > Oade capacitor supply > Panasonic Sv-250 DAT Master @ 16bit/48kHz
+- handheld 1st row balcony
+
+processing:
+DAT Master > tascam da-45hr > sd usbpre2 > adobe audition > cdwav > tlh flac 8
+
+these are 16bit/48kHz flac files
+
+-incomplete due to battery issues with the DAT deck.

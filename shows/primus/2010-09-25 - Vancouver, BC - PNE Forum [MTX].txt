@@ -1,0 +1,77 @@
+
+**********************
+24 bit / 48000 Hz version
+**********************
+
+Band: Primus
+Date: 2010-09-25 (Saturday)
+Title: Small and Insignificant Genitalia
+Venue: PNE Forum (capacity - 5,050) - Vancouver, British Columbia, Canada
+Location: General Admission Floor - dead centre, fob
+Source: Audience Matrix
+Recordist: Seth Meister
+Lineage: Church Audio CA-11 (cardioid) > Church Audio ST-9100 v3.0 pre-amp with bass roll off turned off > Zoom H4n XLR Input (24/48) + Church Audio CA-11 (omnidirectional) > CA-UGLY > Zoom H4n 1/8" Input (24/48) > Wavepad Masters Edition v6.05 (mixdown, track splitting, fades) > Trader's Little Helper v2.7.0.172 (flac 8)
+Sound Quality: 9/10 
+
+Total .wav size: 1.52 GB
+Total .flac size: 0.99 GB
+
+-----------
+Setlist: (01:34:40)
+00 intro music (Clown Dream) - 01:49
+01 Here Come the Bastards - 03:56
+02 Fisticuffs - 05:51
+03 Behind My Camel (The Police cover) - 01:48
+04 Groundhog's Day - 07:31
+05 "small and insignificant genitalia" - 01:08
+06 Sgt. Baker - 05:39
+07 Southbound Pachyderm - 09:52
+08 Over the Falls - 07:09
+09 Sathington Willoughby - 02:35
+10 Spegetti Western - 06:58
+11 Drum & Whamola Jam - 06:48
+12 Eleven - 06:08
+13 Kalamazoo - 05:13
+14 Bob - 06:46
+15 Jerry Was a Race Car Driver - 03:25
+16 encore - 02:49
+17 Frizzle Fry - 09:15
+
+
+********************************************** 
+
+Opening acts were Split Lip Rayfield (not taped) and Portugal. The Man (taped).
+
+Channels were backwards on the omni source and were reversed before making the matrix.
+
+Remember that this recording was made binaurally.  It will naturally sound much better with a pair of headphones & cranked up loud!
+
+Peace & enjoy,
+Seth
+
+
+FFP's:
+primus20100925matrix00 - intro.flac:5b6585729721a220a1576c11494272d0
+primus20100925matrix01 - Here Come the Bastards.flac:9cd977086b0b7239c981a90d16c60b48
+primus20100925matrix02 - Fisticuffs.flac:717256ccf82e6c1580f007283c17a8f1
+primus20100925matrix03 - Behind My Camel.flac:1ad63e7aa88792e0d38c79d445f6a567
+primus20100925matrix04 - Groundhog's Day.flac:dc01c0fccd65f4d0440345f50168d688
+primus20100925matrix05 - ...small insignificant genitalia....flac:f5e2d67d18eb4a6dd4555ed5ac35d5af
+primus20100925matrix06 - Sgt. Baker.flac:615beaaa10fe0596c99ce18854ae222c
+primus20100925matrix07 - Southbound Pachyderm.flac:32ea1bba885ff5122df8e2ae21225425
+primus20100925matrix08 - Over the Falls.flac:a23991ef35cb22fcbb509686f5a7616a
+primus20100925matrix09 - Sathington Willoughby.flac:4de7470698926c1f88e2d87c4a83aaee
+primus20100925matrix10 - Spegetti Western.flac:ad790a81d611a17800513f7e95d73e63
+primus20100925matrix11 - Drum and Whamola Jam.flac:56fce9983b320186861c1681bacdfe55
+primus20100925matrix12 - Eleven.flac:223f54dc0f5bb6b15eeb8b7272f58175
+primus20100925matrix13 - Kalamazoo.flac:3d18724adedecc2c8d7967027855b5b2
+primus20100925matrix14 - Bob.flac:6e607a44a43f0fc37cc7b50d861a1d18
+primus20100925matrix15 - Jerry Was a Race Car Driver.flac:d3f27c3721c54d2670c90603e7364368
+primus20100925matrix16 - encore.flac:0a2d84c8c25b0ebd2b4fed4c82406658
+primus20100925matrix17 - Frizzle Fry.flac:f0ec8c8bd22711dd8ecee90de126a634
+
+
+*****************************************
+Please share this recording freely. 
+Do not encode to .mp3 (or any other lossy format).
+*****************************************

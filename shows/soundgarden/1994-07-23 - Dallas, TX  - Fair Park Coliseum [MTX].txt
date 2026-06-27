@@ -1,0 +1,87 @@
+Soundgarden
+Dallas,TX
+Fair Park Coliseum
+23 July 1994
+
+http://www.soundgardenliveguide.com/1994/19940723.htm
+
+***Remastered by exene***
+
+This is a 50/50 matrix of sources aud#1 and aud#2.
+Mixed and rendered in Audacity.
+Both sources sounded excellent to begin with.
+Slight speed correction, and a few minor edits.
+The two sources fit together nicely.
+Encore break is source aud#1 only.
+
+Huge thanks to smores and Chris Milazzo for taping and sharing
+their awesome recordings, and ryanj and RITCNIN for more sharing!
+
+Cover art included.
+
+"Its really hot here.  
+This is the kind of weather that
+makes you want to fuckin' kill somebody." - CC
+
+enjoy!
+-exene
+
+Disc 1
+[01] Jesus Christ Pose
+[02] Spoonman
+[03] Let Me Drown
+[04] Mailman
+[05] The Day I Tried To Live
+[06] My Wave
+[07] Flower
+[08] Black Hole Sun
+[09] Searching With My Good Eye Closed
+[10] Superunknown
+[11] Rusty Cage
+----------------------------------------
+TT:  [51:26]
+
+Disc 2
+[01] Half
+[02] Mind Riot
+[03] Fell On Black Days
+[04] Drawing Flies
+[05] Slaves & Bulldozers
+[06] Kickstand
+[07] Face Pollution
+[08] Like Suicide
+[08a] -encore break-
+[09] Head Down
+[10] Hands All Over
+------------------------------------------
+TT: [50:09]
+
+Total:  [1:41:35]
+
+band: Chris Cornell, Kim Thayil, Matt Cameron, Ben Shepherd
+bill: Soundgarden/Reverend Horton Heat/You Am I
+
+~~~~~~~~~~
+Notes aud#1:
+Core Sound Binaural mics > Sony D7
+taper: smores
+transfer: ryanj [Tascam DA-20 -> Coax Out -> CO2 Converter -> Optical In -> Adobe Audition]
+
+~~~~~~~~~~
+Notes aud#2:
+Recording info:
+Sonic Studios[DSM6]>DAR100
+Taping Location: GA, floor standing near the board (possibly just to stage right of the board)
+
+Transfer info:
+Master DAT(48)>Sony 59ES>HHB CDR-850 via digital coax>CDR>EAC[secure]>SoundForge7(volume boost +4db)>CDWave (track split)>Traders Little Helper (1.1.1)[flac 8]
+
+CMM-068 (Chris Milazzo Master)
+
+I was standing right next to my friend Sim (Hi Sim!) who was also taping.  His source is Sony ECM mic>D7.  We wanted to see how the different mics compared when taping from the same spot.  Not very scientific I admit.  It is his voice you hear at the end of the show talking into his mic (Sim's tapes all bear the voice of Sim giving artist, date, city information).
+
+Sounds like I paused the deck in between Like Suicide & Head Down - I must have been worried about running out of tape.  This was my 18th DAT recording and the 3rd at this venue, 1st time on the floor.  Wish I could remember exactly where I was standing - maybe Sim remembers....
+
+First torrented 19 January 2007.
+Seed #68 from my master collection.
+

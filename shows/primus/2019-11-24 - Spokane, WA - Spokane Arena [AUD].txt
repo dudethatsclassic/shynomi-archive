@@ -1,0 +1,41 @@
+Primus (opened for Slayer)
+Sunday November 24th, 2019
+Spokane Arena
+720 W Mallon Ave
+Spokane, Washington
+
+Taper:  LeifH
+Source:  CA-11 (cardioid) > Bat2B > Sony PCM M10 @ 24/48 > microSD card
+Transfer:  PC via USB > Wavepad Masters Edition (edits, amplify, tracking, 16/44) > flac (8) via TLH
+
+Setlist:  59:00
+00 intro
+01 Those Damned Blue Collar Tweekers
+02 Professor Nutbutter's House of Treats
+03 Too Many Puppies > 
+04 Sgt. Baker > Too Many Puppies (Reprise)
+05 Frizzle Fry
+06 Cygnus X-1 [Rush]
+07 Here Come the Bastards
+08 Mr. Krinkle
+09 Welcome to This World > 
+10 My Name is Mud
+11 Jerry Was a Race Car Driver
+
+Third of four bands playing that night.  Taped from section 204, 5th row.  Mics pointed at right stacks.
+
+This was my 36th time seeing Primus and 40th concert with Les Claypool.  Time flies.  I wasn't planning on attending this gig originally, having seen Slayer during the "final tour" in 2018 on the Vancouver stop.  But a last minute change of plans saw me going to the [Primus] show in Missoula the night before and catching this one as a pit stop on The Trek home.  By the time I got to buying a ticket for the show, the selection remaining was not the best.  I also got the whole set on video.  
+
+fingerprints:
+00 - intro.flac:1ebe7d4ba7847d07bd1f12cdc61fd60a
+01 - Those Damned Blue-Collar Tweekers.flac:4fedf5db8a468c5ed4ea6b93ef78a4b6
+02 - Professor Nutbutter's House of Treats.flac:2df667fbeb257f7865890d95006d6126
+03 - Too Many Puppies.flac:8cccc8dd67a7fd4b6adf4edd58f49267
+04 - Sgt Baker.flac:836f8a3c5218c82a819ff51ff03e4c51
+05 - Frizzle Fry.flac:8e1aaa7cd42e84c964455d3cf85d01af
+06 - Cygnus X-1.flac:8835d76158f9df2fad0d83e2cff1d94e
+07 - Here Come the Bastards.flac:5d7fcfd11f955a28865fcf0ed227755a
+08 - Mr Krinkle.flac:e38c050a0e1991e253134b7818c66336
+09 - Welcome To This World.flac:018e2ad8ed4fa7a977c94f9946ac217c
+10 - My Name Is Mud.flac:442988ba619e0c2db0942314b5bc0d39
+11 - Jerry Was A Race Car Driver.flac:a311211fd74d8a1899dba98fc292a2a0

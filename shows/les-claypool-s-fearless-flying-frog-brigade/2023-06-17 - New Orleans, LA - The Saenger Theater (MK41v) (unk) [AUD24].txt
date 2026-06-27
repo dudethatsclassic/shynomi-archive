@@ -1,0 +1,54 @@
+Les Claypool and the Fearless Flying Frog Brigade
+2023-06-17
+The Saenger Theater
+New Orleans, La
+
+Source:  Schoeps mk41v (ortf, 6 ft, fob/loc) > nbob/Naiant PFA > Zoom F3 @ 32/96
+Transfer: SD Card > HDD > Adobe Audition (dither/resample to 24/96) > CDWav (tracking) > TLH (flac level 6) > Foobar2000 (live show tagging)
+
+Set I:
+
+01.  Intro
+02.  David Makalaster
+03.  Amanitas
+04.  Buzzards of Green Hill
+05.  Cricket and the Genie (Movement I, The Delirium)
+06.  Cricket and the Genie (Movement II, Oratorio Di Cricket)
+07.  Pigs on the Wing, Part 1
+08.  Dogs
+09.  Pigs (Three Different Ones)
+10.  Sheep
+11.  Pigs on the Wing, Part 2
+12.  Precipitation
+13.  Hendershot
+14.  Rum and Coke*
+15.  One Better
+16.  D's Diner***
+17.  Whamola >
+18.  Tomorrow Never Knows
+
+
+Notes:
+* Professor Longhair
+** The Beatles
+*** Encore break at end was a couple of minutes of bass loops into Whamola
+
+ffp:
+lcffb2023-06-17s1t01.flac:6fe87250699eb18adabd349aa6ba7ebd
+lcffb2023-06-17s1t02.flac:2475cedec978737372dfa43ca31ca1e5
+lcffb2023-06-17s1t03.flac:8dc636f4f6d51fef35af56bc156b1e68
+lcffb2023-06-17s1t04.flac:12ad25241e3681841798b0d5df8854d6
+lcffb2023-06-17s1t05.flac:6b6aa83739dee4c77161ec0ca60a03df
+lcffb2023-06-17s1t06.flac:4c9bfcff50fd1c5a04749c94ab83c02f
+lcffb2023-06-17s1t07.flac:cbd4d36185e3d3cf7d5ede1c4c0509a7
+lcffb2023-06-17s1t08.flac:6ca88c3d759eaab19fe1bf75564da070
+lcffb2023-06-17s1t09.flac:84be72d5104f9a40140c4d1361499d65
+lcffb2023-06-17s1t10.flac:2859db53f5861c7db2cbe2d17686d057
+lcffb2023-06-17s1t11.flac:ee0465a74d9643a82d7e05d7cc888c07
+lcffb2023-06-17s1t12.flac:52e7423d335a66e2401262c28c23df73
+lcffb2023-06-17s1t13.flac:1cb7b019bb0eea3d4345f965742acaf1
+lcffb2023-06-17s1t14.flac:612a5d48c3c75d74bf1e81f67d44b29f
+lcffb2023-06-17s1t15.flac:d76225e3c41002786f7924b926e57a89
+lcffb2023-06-17s1t16.flac:6a77e968a8127cc8ef9dba69645859de
+lcffb2023-06-17s1t17.flac:81aa5e1e106d9665c15d73ab04dd3eac
+lcffb2023-06-17s1t18.flac:bd4337b31b0eb7ee7cc7ac898e44ef03

@@ -1,0 +1,40 @@
+This was all that was broadcast of the Eurockeennes Festival performance of Oasis in 1995 on MTV at the time, every video i've had of this has always had some strange lines on them, i'm not 100% sure but I think this version could be from one of my master VHS that I recorded at the time. If you could check your versions of this and see if you have a better version then please get in touch with me.
+
+Oasis - Eurockeennes Festival, Belfort, France
+
+8th July 1995
+
+Tracks
+
+Supersonic      
+Some Might Say     
+Acquiesce
+
+PAL Format
+Time - 11:11
+
+Stream 0
+Original ID: 224
+Codec: MPEG-1/2 Video (mpgv)
+Type: Video
+Video resolution: 720x576
+Buffer dimensions: 720x576
+Frame rate: 25
+Decoded format: 
+Orientation: Top left
+Color primaries: ITU-R BT.601 (625 lines, 50 Hz)
+Color transfer function: ITU-R BT.470 BG
+Color space: ITU-R BT.601 Range
+Chroma location: Left
+
+Stream 1
+Original ID: 48512
+Codec: A52 Audio (aka AC3) (a52 )
+Type: Audio
+Channels: Stereo
+Sample rate: 48000 Hz
+Bits per sample: 32
+
+Enjoy
+
+Shred by Howdo on Dime 28/10/2023

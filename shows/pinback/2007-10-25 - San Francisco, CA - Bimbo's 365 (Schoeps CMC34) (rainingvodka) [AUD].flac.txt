@@ -1,0 +1,59 @@
+Pinback -- 20071025
+Bimbo's 365, SF CA
+20 Feet Center
+Schoeps CMC34->Aeta PSP3->R-09 @ 48khz 24bit.  
+-> USB reader -> Cool Edit Pro 2.1 -- 
+Downsampled and dithered to 16bit 44.1khz at highest quality settings ->
+Flac Level 8
+
+Disk I
+
+01 Bouquet
+02 Devil You Know
+03 Non Photo-Blue
+04 Microtonic Wave
+05 Torch
+06 Tripoli
+07 Good To Sea
+08 How We Breathe
+09 Walters
+10 Boo
+11 Syracuse
+12 Penelope
+13 From Nothing To Nowhere
+14 Off By 50
+15 Prog
+16 AFK
+
+Disc II (Encore)
+
+1 (Encore Talk)
+2 Fortress
+3 Loro
+4 Rousseau
+5 Sender
+
+I don't have a setlist.  I'll update this post if anyone can provide one.
+
+Pinback_20071025_16441cmc34_d1t01.flac:eee82f36768e6945f75c9880698623f3
+Pinback_20071025_16441cmc34_d1t02.flac:9508404ae7e00c613546a119672a88e2
+Pinback_20071025_16441cmc34_d1t03.flac:3b6840aac4081efda7a6f232f8d6ad24
+Pinback_20071025_16441cmc34_d1t04.flac:efa105e46099d775e808a6071c3df133
+Pinback_20071025_16441cmc34_d1t05.flac:91edc3e25b38ac03f51b1452d3a7b556
+Pinback_20071025_16441cmc34_d1t06.flac:f21d74c87706f231c68492ae680ddcca
+Pinback_20071025_16441cmc34_d1t07.flac:52cd5acb8fd1fd15a581abe2f2adbcc7
+Pinback_20071025_16441cmc34_d1t08.flac:6267a92cd7dbc99e015984412e7f8061
+Pinback_20071025_16441cmc34_d1t09.flac:fdda61662be3d553cb88a8af47336324
+Pinback_20071025_16441cmc34_d1t10.flac:2d0b8d35686c0a0dbb4c712febbebe24
+Pinback_20071025_16441cmc34_d1t11.flac:edd34a0f87dccd6a058d71ee0c412b34
+Pinback_20071025_16441cmc34_d1t12.flac:f0f5292be91abaec587c565519afcd96
+Pinback_20071025_16441cmc34_d1t13.flac:d3268c6afacee0ab6ef8afa3c989c72e
+Pinback_20071025_16441cmc34_d1t14.flac:20ff3b5850a81f1bfad1fb9d7028f8f0
+Pinback_20071025_16441cmc34_d1t15.flac:3dcb899e45449e2fe3f950b573f528c4
+Pinback_20071025_16441cmc34_d1t16.flac:9dd7e3679b3f7dd51166d7f8aebf28f6
+Pinback_20071025_16441cmc34_d2t01.flac:0ae6fb822df0eb508270bff7a7feb1ef
+Pinback_20071025_16441cmc34_d2t02.flac:3f5af0c50bc64d33d96b74acccebf108
+Pinback_20071025_16441cmc34_d2t03.flac:90429a2be55ddd8c0f128abe05083eb2
+Pinback_20071025_16441cmc34_d2t04.flac:457fb2c6a6281efae2e47a9823773b97
+Pinback_20071025_16441cmc34_d2t05.flac:dfd1d5f1382641dbd8e28e94b82502f0
+

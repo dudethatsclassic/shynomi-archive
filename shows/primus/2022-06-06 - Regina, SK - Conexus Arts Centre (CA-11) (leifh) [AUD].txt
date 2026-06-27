@@ -1,0 +1,65 @@
+Primus - A Tribute To Kings 2nd Leg
+Monday June 6th, 2022
+Conexus Arts Centre
+200 Lakeshore Drive
+Regina, Saskatchewan, Canada
+
+Taper:  LeifH [2022#53b]
+Source 2:  CA-11 > Bat2B > M10
+Transfer:  PC via USB > RX9 > Wavepad > flac (8) via TLH
+
+Setlist:  02:00:47
+00 intro
+01 Those Damned Blue-Collar Tweekers > 
+02 Lacquer Head
+03 Too Many Puppies > 
+04 Sgt. Baker
+05 American Life
+06 Frizzle Fry
+07 Conspiranoia
+08 Jilly's on Smack
+09 Welcome to This World > 
+10 My Name is Mud > 
+11 Jerry Was a Racecar Driver
+12 Over the Electric Grapevine
+-intermission-
+13 A Farewell to Kings
+14 Xanadu
+15 Closer to the Heart
+16 Cinderella Man
+17 Madrigal
+18 Cygnus X-1
+-encore-
+19 Wynona's Big Brown Beaver
+
+I was on the floor, row E seat 21 (row 11, loc).  A nice sounding venue, but kind of annoying that there are no aisles, just long rows of seats.  Continental style?  More like people tripping over you style.  The venue was first opened in 1970 as the Saskatchewan Centre For The Arts.  
+
+My 39th Primus show.  This was the first time they played in Regina or anywhere in the province.  I hadn't visited Saskatchewan since 1998.
+
+Les was having some issues with his IEM mix at this show.  At the start of Lacquer Head he briefly stops playing.  He couldn't hear himself which was understandably frustrating.  Tim played an extra bar during the intro to Too Many Puppies, and Les yelled, "Go!" followed by a count in on the hi-hat.  Fisticuffs was originally on the setlist in place of American Life.  Les mentions camping next to Mac The Moose, located about 70km away in Moose Jaw.  He didn't do the usual psychedelic introduction to Frizzle Fry, but instead opted to just, "...start this son of a bitch."  
+
+The banter preceding Closer To The Heart, and spoken intro to Madrigal are perhaps the least enthusiastic I've heard of any of the Tribute To Kings shows.  People were up and down during the Rush portion.  I think this show had more families and children than any other Primus gig I've seen to date.  Not a high energy crowd (although I've seen two shows where everyone sat down the entire time?!!?).  
+
+Opening act Black Mountain's set was a short 29 minutes compared to the 45 minutes they played at the previous stop on the tour.  The intermission between Primus sets was very quick, approximately 6 minutes.  
+
+fingerprints:
+00 - intro.flac:8d17777b6aca143ba3db64cd38734c08
+01 - Those Damned Blue-Collar Tweekers.flac:855c5b6e214d764ceb9aad711cd07086
+02 - Lacquer Head.flac:7caed46c8f0cfe0721915941f7d82928
+03 - Too Many Puppies.flac:f91a88e3ff66ffdc78a400ef99be0c19
+04 - Sgt Baker.flac:0560a80aaf814e0b3abf0a35eb6d3fc1
+05 - American Life.flac:509774e25322217a0e9653c295c2ba50
+06 - Frizzle Fry.flac:8e8bc66b381dcfe490cdd14f06de02dc
+07 - Conspiranoia.flac:570cd264fe3929ac274b12b59f4ece77
+08 - Jilly's on Smack.flac:6e13e1ff1cd4e84d64fb4906a7b291b1
+09 - Welcome To This World.flac:8f35f80968047e4569116b7b2bddabf8
+10 - My Name is Mud.flac:bba9bf68bc5e8549d1a6451ff6d5e89e
+11 - Jerry Was a Race Car Driver.flac:ec2c83178668ce6965d070d128efb1c8
+12 - Over the Electric Grapevine.flac:02c41aa7ea53e27573eb5bac8886bf39
+13 - A Farewell To Kings.flac:2a1130439a630074ef9953dde3d2e5de
+14 - Xanadu.flac:a821746bbb637053daf2fd0ed1f13b38
+15 - Closer to the Heart.flac:2d65da44a6d810eb8cc66e8d54ed97f8
+16 - Cinderella Man.flac:182fcf2d47528d62cef7d10dfc736ba5
+17 - Madrigal.flac:56ce09c7955340141a5eb2a0ec8fe300
+18 - Cygnus X-1.flac:9961b090d72075eef9e266fe7cd3273e
+19 - Wynona's Big Brown Beaver.flac:ecad54d6faf69c84dc3e6ae4176aaae9

@@ -1,0 +1,93 @@
+Green Day
+Kevin & Bean's LAST Breakfast
+Live House Hollywood
+Los Angeles, California
+October 25, 2019
+(broadcast date: October 29, 2019)
+
+Lineage: "LIVE" Webcast -> Livestreamer -> FFmpeg (edit) -> uncompressed .ts
+Video: MPEG4 Video (H264) 1280x720 16:9 2980 Kbps 30.00 fps
+Audio: AAC 192 Kbps 48.0 KHz stereo
+
+Setlist:
+-Q&A with Kevin & Bean-
+Welcome to Paradise
+Basket Case
+Father of All...
+Revolution Radio
+Brain Stew
+Bang Bang
+Minority
+
+TRT = 00:53:30
+
+Note: This is a perfect capture of the webcast.
+No imperfections were inherent in the broadcast.
+
+Captured and uploaded to DIME by indykid.
+
+MediaInfo:
+General
+ID                                       : 1 (0x1)
+Complete name                            : Green Day - 2019-10-25 Live House Hollywood, Los Angeles, CA [720p].ts
+Format                                   : MPEG-TS
+File size                                : 1.19 GiB
+Duration                                 : 53 min 30 s
+Overall bit rate mode                    : Variable
+Overall bit rate                         : 3 172 kb/s
+
+Video
+ID                                       : 256 (0x100)
+Menu ID                                  : 1 (0x1)
+Format                                   : AVC
+Format/Info                              : Advanced Video Codec
+Format profile                           : High@L4.1
+Format settings                          : CABAC / 4 Ref Frames
+Format settings, CABAC                   : Yes
+Format settings, RefFrames               : 4 frames
+Format settings, GOP                     : M=1, N=60
+Codec ID                                 : 27
+Duration                                 : 53 min 30 s
+Bit rate mode                            : Variable
+Maximum bit rate                         : 2 703 kb/s
+Width                                    : 1 280 pixels
+Height                                   : 720 pixels
+Display aspect ratio                     : 16:9
+Frame rate                               : 30.000 FPS
+Standard                                 : NTSC
+Color space                              : YUV
+Chroma subsampling                       : 4:2:0
+Bit depth                                : 8 bits
+Scan type                                : Progressive
+Color range                              : Limited
+Color primaries                          : BT.709
+Transfer characteristics                 : BT.709
+Matrix coefficients                      : BT.709
+
+Audio
+ID                                       : 257 (0x101)
+Menu ID                                  : 1 (0x1)
+Format                                   : AAC LC
+Format/Info                              : Advanced Audio Codec Low Complexity
+Format version                           : Version 4
+Muxing mode                              : ADTS
+Codec ID                                 : 15-2
+Duration                                 : 53 min 31 s
+Bit rate mode                            : Variable
+Channel(s)                               : 2 channels
+Channel layout                           : L R
+Sampling rate                            : 48.0 kHz
+Frame rate                               : 46.875 FPS (1024 SPF)
+Compression mode                         : Lossy
+Delay relative to video                  : -1 s 18 ms
+
+Menu
+ID                                       : 4096 (0x1000)
+Menu ID                                  : 1 (0x1)
+Duration                                 : 53 min 30 s
+List                                     : 256 (0x100) (AVC) / 257 (0x101) (AAC)
+Service name                             : Service01
+Service provider                         : FFmpeg
+Service type                             : digital television
+
+Captured and uploaded to DIME by indykid.

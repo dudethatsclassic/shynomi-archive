@@ -1,0 +1,53 @@
+Primus
+Thursday July 30th 2015
+Pier 97/Hudson River Park
+New York NY USA
+
+Taper:  LeifH
+Source:  CA-11 (cardioid) > CA-Bat2B > Zoom H1 @ 24/48 > Duracell 8GB microSD card
+Transfer:  Memory card > PC via USB > Wavepad Master's Edition (edits, amplify, tracking, downsample to 16/44.1) > flac (8) via Frontend
+
+Setlist:  1:39:24
+00 intro
+01 Those Damned Blue-Collar Tweekers
+02 Last Salmon Man
+03 Wynona's Big Brown Beaver
+04 American Life
+05 Semi-Wondrous Boat Ride
+06 Lee Van Cleef
+07 Jilly's On Smack
+08 Mr. Krinkle
+09 drums and whamola
+10 Eleven
+11 Southbound Pachyderm
+12 My Name is Mud
+13 Jerry Was a Race Car Driver
+
+14 Mr. Knowitall
+15 Too Many Puppies
+
+My 19th Primus show.  It was pissing rain in the afternoon.  I stepped outside for 5 seconds on the way to catch the subway and I was soaked.  There were 2" (or more) of rain water flowing down some streets.  I forget which station it was but there was a waterfall underground from a large crack in the ceiling.  It was a reminder that rain can be intense.  
+
+By the time I got to the venue, the rain had stopped and didn't come back.  They only looked in bags, no other security measures.  There were still pools of water everywhere and a threatening sky.  I kept putting off heading to the show because of the weather, and arrived toward the end of The Ghost Of A Sabre Tooth Tiger.  I didn't record Dinosaur Jr either.  I was having a couple pricey beers and catching up with someone I ran into coincidentally from another time and place.  The merchandise booth was late to get started.  The beer was the most expensive out of the 5 shows I went to on this tour.  Although the rain held off, it did get a little windy at some points, which you'll hear, but no high-speed rumbles or anything.  We were surrounded by water afterall.  
+
+Les introduced Wynona's Big Brown Beaver as an obscure U2 number written by Bono (U2 was in town that week).  He played Semi Wondrous Boat Ride on the dobro bass, which I thought was unusual given that its usually played on the upright.  Cygnus X-1 tease after Eleven.  I Am On My Way tease before My Name Is Mud on the rainbow bass.  During Jerry Was A Race Car Driver, a crowd surfer knocked my right mic off my shoulder and it was dangling for a few seconds while I shoved them away and fixed it.  I saw someone catch a setlist at the end and they very rudely refused to let me take a picture of it.
+
+This was a sightly venue and a high energy show.  I was expecting it to rain during the show and came prepared but thankfully it did not.  I talked to the drummer from GOASTT on the subway after the show, who are based out of New York.  
+
+fingerprints:
+00 - intro.flac:db4a832e3c98f2fd2083f1f83bdde7fe
+01 - Those Damned Blue-Collar Tweekers.flac:46e0c9ede3140288007d08e375bad8e1
+02 - Last Salmon Man.flac:2bc0e88096fb1ab1db3e35c462491d11
+03 - Wynona's Big Brown Beaver.flac:de3141a422bc0c99fcb1f02409afc4ec
+04 - American Life.flac:32c60d928e46784f2c1f4bf313c0a017
+05 - Semi-Wondrous Boat Ride.flac:641d59868f929ea1d2dd0d36d0c24b1e
+06 - Lee Van Cleef.flac:68f740d98b3a20c9b45ba6c1f4938420
+07 - Jilly's on Smack.flac:b5f13d8e3d154df8b27bb6ef63e5e284
+08 - Mr. Krinkle.flac:c15ffdf7059f68adab3d2c7881ae82c8
+09 - drums and whamola.flac:115c09be8681b80dd9cb7e2caab2d7dd
+10 - Eleven.flac:330c889f435171e045b4d154e966b4d6
+11 - Southbound Pachyderm.flac:2152cba5b263fa65b9f6965a1dc20f56
+12 - My Name Is Mud.flac:50564fbd8b55ac024d7d1d4c9ae4acc2
+13 - Jerry Was a Race Car Driver.flac:7f28c1571434ea4b240443bcf62cd343
+14 - Mr. Knowitall.flac:36ab90f905bca964295db445e8cc4d52
+15 - Too Many Puppies.flac:04554b79cf59ef63862d5d9aa6c52aba

@@ -1,0 +1,38 @@
+SILVERCHAIR
+June 23, 1995
+Cabaret Metro
+Chicago, IL, US
+
+DISC #1/1 (37:10)
+-----------------
+01) Madman
+02) Leave Me Out
+03) Faultline
+04) Undecided
+05) Tomorrow
+06) Fat Donuts > Pure Massacre
+07) Israel's Son  
+
+GENERATION
+-----------------
+CD [Sony Promo "Live"] -> WAV [44.1kHz] -> FLAC [Level 8]
+
+SOURCE
+-----------------
+soundboard -> unknown
+
+TRANSFER
+-----------------
+Sony DVD-ROM DDU1621 -> Exact Audio Copy v 0.95 BETA -> FLAC Frontend 1.7.1
+
+MD5 FINGERPRINTS
+-----------------
+c5df70474b154e10053e40775702f0b2 *silverchair1995-06-23t01.flac
+5b00c365bd590681a116d21c24f60a30 *silverchair1995-06-23t02.flac
+4a6bd2289745521a4298437d00939b1b *silverchair1995-06-23t03.flac
+8839cf92d55f2503a39085c16d41c156 *silverchair1995-06-23t04.flac
+563f10b861f5afc94e03e6633a9091e3 *silverchair1995-06-23t05.flac
+b5253eb7899247d636d912d19ce73061 *silverchair1995-06-23t06.flac
+afb7f668d8f070a951eceabaa2ca7a7b *silverchair1995-06-23t07.flac
+
+PLEASE DO NOT ENCODE TO MP3 OR SELL!

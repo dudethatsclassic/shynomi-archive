@@ -1,0 +1,92 @@
+Slowdive
+Morning Becomes Eclectic
+KCRW-FM
+Santa Monica, California
+July 21, 2017
+
+Lineage: Webcast -> AdobeHDS script -> .flv -> MKVToolNix GUI -> .mkv (no transcoding)
+Video: MPEG4 Video (H264) 1280x720 2400 Kbps 29.97 fps
+Audio: AAC 128 Kbps 44.1 KHz stereo
+
+UK shoegaze pioneers recently Slowdive reunited and released their first new album in 22 years to critical acclaim. Just hours ahead of their headlining set at FYF Fest, they visited KCRW to perform a typically stunning set of tunes.
+
+Musicians:
+Neil Halstead – Vocals, Guitar
+Rachel Goswell – Vocals, Guitar, Keys
+Christian Savill – Guitar
+Nick Chaplin - Bass
+Simon Scott – Drums
+
+Setlist:
+-introduction by Jason Bentley- 
+Sugar for the Pill
+Star Roving
+Slomo
+-Q&A with Jason Bentley-
+Slowdive
+No Longer Making Time
+Avalyn
+
+TRT = 00:49:35
+
+Note: This is a perfect capture of the webcast. Any imperfections, if present, were inherent in the broadcast.
+
+Captured and uploaded to DIME by indykid. 
+
+MediaInfo:
+General
+Unique ID                   : 198404026789351104214525695118600061489 (0x954339C2C2BAC2538EBA08F679E84231)
+Complete name               : Slowdive - 2017-07-31 Morning Becomes Eclectic [720p].mkv
+Format                      : Matroska
+Format version              : Version 4 / Version 2
+File size                   : 894 MiB
+Duration                    : 49 min 35 s
+Overall bit rate            : 2 521 kb/s
+Encoded date                : UTC 2017-08-10 05:18:06
+Writing application         : mkvmerge v8.3.0 ('Over the Horizon') 64bit
+Writing library             : libebml v1.3.1 + libmatroska v1.4.2
+
+Video
+ID                          : 1
+Format                      : AVC
+Format/Info                 : Advanced Video Codec
+Format profile              : Baseline@L3.1
+Format settings, CABAC      : No
+Format settings, ReFrames   : 3 frames
+Codec ID                    : V_MPEG4/ISO/AVC
+Duration                    : 49 min 35 s
+Bit rate                    : 2 400 kb/s
+Width                       : 1 280 pixels
+Height                      : 720 pixels
+Display aspect ratio        : 16:9
+Frame rate mode             : Variable
+Frame rate                  : 29.970 FPS
+Color space                 : YUV
+Chroma subsampling          : 4:2:0
+Bit depth                   : 8 bits
+Scan type                   : Progressive
+Bits/(Pixel*Frame)          : 0.087
+Stream size                 : 848 MiB (95%)
+Writing library             : x264 core 136 r63M 8fcf9de
+Encoding settings           : cabac=0 / ref=3 / deblock=1:0:0 / analyse=0x1:0x111 / me=hex / subme=7 / psy=1 / psy_rd=1.00:0.00 / mixed_ref=1 / me_range=16 / chroma_me=1 / trellis=1 / 8x8dct=0 / cqm=0 / deadzone=21,11 / fast_pskip=1 / chroma_qp_offset=-2 / threads=24 / lookahead_threads=4 / sliced_threads=0 / nr=0 / decimate=1 / interlaced=0 / bluray_compat=0 / constrained_intra=0 / bframes=0 / weightp=0 / keyint=149 / keyint_min=14 / scenecut=0 / intra_refresh=0 / rc_lookahead=40 / rc=cbr / mbtree=1 / bitrate=2400 / ratetol=1.0 / qcomp=0.60 / qpmin=0 / qpmax=69 / qpstep=4 / vbv_maxrate=2400 / vbv_bufsize=4800 / nal_hrd=none / ip_ratio=1.40 / aq=1:1.00
+Default                     : Yes
+Forced                      : No
+
+Audio
+ID                          : 2
+Format                      : AAC
+Format/Info                 : Advanced Audio Codec
+Format profile              : LC
+Codec ID                    : A_AAC
+Duration                    : 49 min 35 s
+Bit rate                    : 128 kb/s
+Channel(s)                  : 2 channels
+Channel positions           : Front: L R
+Sampling rate               : 44.1 kHz
+Frame rate                  : 43.066 FPS (1024 spf)
+Compression mode            : Lossy
+Stream size                 : 45.4 MiB (5%)
+Default                     : Yes
+Forced                      : No
+
+Captured and uploaded to DIME by indykid.

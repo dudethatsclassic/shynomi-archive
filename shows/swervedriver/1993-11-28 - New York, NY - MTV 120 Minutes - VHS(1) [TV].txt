@@ -1,0 +1,30 @@
+Swervedriver
+MTV's 120 minutes
+November 28, 1993 - date perfomed at mtv
+Aired separately, dates unknown 
+
+
+my 1st-gen stereo hi-fi vhs tapes (sp speed)>Trutech dvd recorder>dvdr>nero vision >VIDEO_TS folder
+
+NTSC DVD
+no artwork
+
+One menu with 2 chapters:
+
+01. Duel
+
+02. Last Train To Satansville
+
+
+--- --- ---
+
+The above was in the info file when Zepdude22 originally torrented it in 2006. The following was added before re-seeding:
+
+Contents of VIDEO_TS folder converted to single .mkv file with Avidemix - no re-encoding necessary
+
+Required video details (from mediainfo) 
+Container: Matroska, codec: V_MPEG2, resolution: 720x480, scan: interlaced, frame rate: 29.970 FPS, video bit rate: 7 388 kb/s, aspect ratio: 4x3, audio codec: A_AC3, channels: 2, audio sampling rate: 48.0 kHz, bitrate: 192 kb/s 
+
+I had to force 4x3 aspect ratio as it wanted to to 16x9 despite it being from a 4x3 source
+
+Shared on dime on 2023-05-09 by Aaron (supahstah)

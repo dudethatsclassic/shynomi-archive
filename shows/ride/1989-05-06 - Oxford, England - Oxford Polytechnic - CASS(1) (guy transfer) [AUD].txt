@@ -1,0 +1,30 @@
+Ride
+1989-06-05 (5 June 1989)
+Oxford Polytechnic
+
+Source: Analog cassette tape (1)
+Transfer: Cass(1)>DAT@48kHz>Cooledit Pro (downsampled to 44.1Khz)>CDR
+Transferred by Guy, FLAC'd and seeded by Humbug
+
+1. Smile
+2. Intro-154
+3. I Wanna Be Your Dog
+4. I'm Fine Thanks
+5. Ride Mind Fuck
+6. Tomorrow Never Knows
+
+Notes:
+Reasonable (for the era) audience recording. Incomplete - most of second half of gig.
+From tapes I received from an old school trader / taper based in Oxford (M) in about 1991.
+Thanks to Guy for doing the tape transfer to CDR in 2004. Recent EAC logs included.
+
+FLAC Fingerprint: 
+ride1989-05-06t01.flac:4c352e0c887da81973137db760587442
+ride1989-05-06t02.flac:a523b059c604f433e4619cf5dd3e210b
+ride1989-05-06t03.flac:bdec0da613355c83bbe01d327aa46620
+ride1989-05-06t04.flac:2123ed9d75d6a253bef240f801d1e617
+ride1989-05-06t05.flac:1842c0cc1c53f46b1b9830d946544a37
+ride1989-05-06t06.flac:fedb64513efc5269e047d4ad7e0b5594
+
+** PLEASE DO NOT CONVERT TO MP3 **
+** PLEASE DO NOT PROFIT FROM THIS RECORDING **

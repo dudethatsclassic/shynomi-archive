@@ -1,0 +1,83 @@
+Soundgarden
+Aragon Ballroom
+Chicago, IL
+November 10, 1996
+
+** 16 bit **
+
+Source:  Core Sound Binaurals > Sony TCD D-7 (master DAT) > Maxell XL-IIS (1st Gen cassettes)
+Transfer:  1st Gen cassettes > Denon 790R > Kenwood A-522 amplifier > Kenwood GE-622 Equalizer > .WAV @ 16 bit/44.1 kHz
+Mastering:  .WAV > Sound Forge Pro 11.0 (Build 299) [iZotope Mastering Suite declick); splicing, minor edits, normalize, & fades] > CDWav                   tracking) > Trader's Little Helper (level 5) > FLAC > TagScanner 6.0.18 (tagging)
+Recorded & transferred to cassette by:  TallTaper 
+Cassettes transferred by:  Steve "ballsdeep" Hagar
+Mastered by:  Dennis Orr
+
+Setlist:
+01 Intro Music
+02 Spoonman >
+03 Searching With My Good Eye Closed >
+04 Let Me Drown
+05 Pretty Noose
+06 Burden In My Hand
+07 My Wave
+08 Ty Cobb
+09 Never Named
+10 Fell On Black Days
+11 Helter Skelter (1) >
+12 Boot Camp
+13 Chat
+14 Rusty Cage
+15 Chat
+16 Black Hole Sun
+17 Outshined
+18 Blow Up The Outside World
+19 Drawing Flies
+20 Dusty
+21 Slaves And Bulldozers
+22 Encore Break
+- Encore -
+23 Mailman
+24 Jesus Christ Pose
+
+(1) With alternate, improvised lyrics.  Chris introduces it as "this is a song for all of the creatures".
+
+Chris Cornell – lead vocals & rhythm guitar
+Kim Thayil – lead guitar
+Ben Shepherd – bass & backing vocals
+Matt Cameron – drums & backing vocals
+
+
+~~~RIP Chris Cornell: we don't mourn you because we knew you, we mourn you because you helped us know ourselves~~~
+
+
+Notes: 
+This was not taped by me, so not much to say on that end. I was blessed to trade with DAT tapers in the 90's (I was analog), and they were kind enough to rewind a bit for each side so this should be a seamless production. This is a true DAT > 1G > you.  Soundgarden was in rare form in '96, methinks Chris was drinking and saying some funny stuff.  See if you agree. My understanding is that this tape has been sought out by Soundgarden collectors for quite some time...I guess the download count will reflect that.
+
+Huge kudos go out to TallTaper for capturing the proceedings, and the inimitable Mr. Orr for his uploading and mastering skills. I did EQ this when it was transferred back in '15, but I have no idea what the settings were. So that should generate a nice round of upraised middle fingers in my direction.
+
+---ballsdeep OUT!!!
+
+Soundgarden1996-11-10t01.flac:6726b0ea1152b78d109909b9a0f1a6e9
+Soundgarden1996-11-10t02.flac:b2598fb421793a76542549d72c94fcc6
+Soundgarden1996-11-10t03.flac:c8f2fdd0c94145b3c05179fc801c81bb
+Soundgarden1996-11-10t04.flac:4e0997e55366c254c2f9f2a0b63f6782
+Soundgarden1996-11-10t05.flac:529ff3bd774da4bd41320380a0c9f323
+Soundgarden1996-11-10t06.flac:be503a528f7765bd0657892c8f5d7dca
+Soundgarden1996-11-10t07.flac:017625e53edb9ab803ca4cc96bdbca82
+Soundgarden1996-11-10t08.flac:d3c37e24cb2395fc203a2bb29b7b3547
+Soundgarden1996-11-10t09.flac:f9bcf00d264958c4f61268985a3ee07b
+Soundgarden1996-11-10t10.flac:c988d7ae55c3b96839b665c80032d9b7
+Soundgarden1996-11-10t11.flac:775614c21ef4dc6450bd8f2c60a19120
+Soundgarden1996-11-10t12.flac:e9ab185e24683f4cec28ef857c1e1b1d
+Soundgarden1996-11-10t13.flac:10e8384913b70f11a5903a979e4f1ed9
+Soundgarden1996-11-10t14.flac:25757174e1df0d808e8bd0157c2ce34f
+Soundgarden1996-11-10t15.flac:8ace8de1c0a7012b4d10c10c8ef7313a
+Soundgarden1996-11-10t16.flac:eb1ce1023eefee3f85f9999fb4af2d95
+Soundgarden1996-11-10t17.flac:102d63338caed383f4c4b9dcbfd2bb56
+Soundgarden1996-11-10t18.flac:23704144aca82b9f125d6ba3a067768e
+Soundgarden1996-11-10t19.flac:fdaefc81dbccd974f4d7e16302230d01
+Soundgarden1996-11-10t20.flac:1cf598ee802bf949d7707b3e373ff41c
+Soundgarden1996-11-10t21.flac:7953802c6c6aee8aae945b559dee60c4
+Soundgarden1996-11-10t22.flac:678f3cd3bbe10e438f9130e66dc7fbb6
+Soundgarden1996-11-10t23.flac:57fa639f2a3de775b73c7178f922231f
+Soundgarden1996-11-10t24.flac:3fbb8c9b4a2867399a0b6cfba583e910

@@ -1,0 +1,77 @@
+Slowdive
+Forum
+Melbourne, Australia
+July 22, 2023
+
+Support: Flyying Colours (also taped)
+
+Taped by Claire Laura Fredriksson (CLF, choc e_Claire, fuzzbluerain, etc.)
+Specs: Zoom H1n internal mics, bass rolloff @ 80 Hz, positioned in shirt collar
+Position: centre ~15m from barrier
+Lineage: 24/48 .wav > DarkAudacity (tracking, fades) > TLH (level 8 FLAC) > foobar2000 (tagging)
+
+Track listing:
+ 1. [intro]                            1:11
+ 2. Slomo                              7:37
+ 3. Slowdive                           4:40
+ 4. Avalyn                             6:25
+ 5. Catch the Breeze                   5:24
+ 6. Star Roving                        6:43
+ 7. Souvlaki Space Station             5:28
+ 8. Crazy for You                      5:11
+ 9. Blue Skied an' Clear               6:43
+10. Sugar for the Pill                 5:11
+11. Alison                             4:27
+12. When the Sun Hits                  5:15
+13. Sleep [Eternal song]               5:08
+14. Kisses                             6:23
+15. Golden Hair [Syd Barrett cover]    9:58
+16. [encore break]                     1:34
+17. Dagger                             4:47
+18. 40 Days                            4:38
+-------------------------------------------
+    total                           1:36:45
+
+Review:
+Slowdive, one of the defining bands of the shoegaze scene, have made their way into the 2020s with
+an adoring fanbase. Set to tour Australia for the third time in April 2022, performing some shows
+with the Daydream Festival and others at headlining bills, the band had to pull out literally the
+day before the first show due to a back injury to drummer Simon Scott. Daydream went off without a
+hitch (see my tapes of that event), Slowdive quickly announced a rescheduled Australian tour - with
+a new headlining date in Melbourne as a makeup - and three months and $90 later I was ready to see
+them.
+
+I had high expectations for the band, but low expectations for the crowd - they've been quite big
+with the TikTok set, and the length of the line up Hosier Lane (all people my age, which makes me
+feel like a raging hypocrite but oh well) didn't thrill me. As it turns out, most of the audience
+was chill; the exception was an overly loud bonehead a few metres backwards and to the left of me.
+Fortunately my mics aren't omnidirectional, unlike my ears, so you don't get to hear just how
+annoying he was - apart from the crowd, I think it's a pretty good recording, although my ears are
+shot as I write this so take it with a grain of salt.
+
+The expectations were met, though - this was an excellent performance, everything you could wish
+for from a band whose return would've seemed a huge surprise thirty years ago. While they've
+physically changed in that time (Rachel was sporting a split-dyed hairdo that wouldn't look too out
+of place on Siouxsie Sioux), the musical elements are just as awe-inspiring as they would have been
+at the time. As wise of a move as it was to put the three songs the crowd most wanted in sequence
+(and you can definitely hear that reaction), I fell in love with the more abstract and sprawling
+songs like 'Star Roving'; they sounded incredible in the big open air. Behind them they had a
+series of psychedelic visualisations waving around for every song, which were also quite nice to
+look at (and easier to see than the band). Possibly best of all was the Syd Barrett cover that
+closed the main set, minutes of ambient post-rock wash steadily building to an extraordinary
+crescendo - I was surprised that they came out for an encore, I couldn't have thought anything
+could follow that up. Still an outstanding band, best of luck to anyone who's trying to see them on
+their upcoming tour.
+
+Personnel:
+Neil Halstead - vocals, guitar
+Rachel Goswell - vocals, guitar, keyboards, tambourine, shakers
+Christian Savill - guitar
+Nick Chaplin - bass
+Simon Scott - drums
+
+Requests:
+Please don't sell this - nobody, tapers or artists, will like you if you do.
+Please keep this info file around if you post it anywhere else (which you're welcome to do!)
+If you give this recording a remaster/matrix treatment, please message me before you do so.
+I can be reached on Twitter (fuzzybluerain) or Dimeadozen (fuzzbluerain) most easily.

@@ -1,0 +1,21 @@
+101 -tuning-.flac:9fd1398abc1d09236dd509c654a78cad
+102 Be Yourself.flac:8b3cbc4571fe27b3c34a5cda8c49b948
+103 Be Yourself.flac:af86ad5431d19761004bd68a70cccced
+104 Your Time Has Come.flac:0803a5dcad82a95250e96ffed4c14451
+105 -intro-.flac:d44dde4e781d2b3dfa3567711903c08d
+106 Your Time Has Come.flac:8f115dbb79a84441c0129f9ac007f63f
+107 Your Time Has Come.flac:8c3ed9bfe1d6059bfb4e317e0ff4862e
+108 -intro-.flac:acee334982714082a9aa0bdc7a98f5e5
+109 Be Yourself.flac:cd60915a9304b96cc78d280d8a7c32dc
+201 -intro-.flac:afdb287218630bedb37a558759777fae
+202 Your Time Has Come.flac:fd3309c9288150d1c87ab6eb241b0229
+203 -intro-.flac:903d5ea5fd0804a4adeb999049556687
+204 Be Yourself.flac:763dd1c8c7855472f24bed7a5d9432ac
+205 Set It Off.flac:90c9f826a0dd7dd9e5772e5aa2f8fb1a
+206 Your Time Has Come.flac:b806680c2024d52c595779aa8afed4d3
+207 Like A Stone.flac:bbeafab32c2e6b5f680769f69c6e46a2
+208 Spoonman.flac:7dbc4491173f3b8ffe8055b2233c280e
+209 Doesn't Remind Me.flac:b23229056dec4e0c7bbea8c6f7ea5b28
+210 Show Me How To Live.flac:5a31e124cdf4cf5e6a9a1d9653005eba
+211 Killing In The Name.flac:ee8775e032d5b93399d96d7956db9758
+212 Cochise.flac:b4599d5d2ac177ee46b2cf638118799a

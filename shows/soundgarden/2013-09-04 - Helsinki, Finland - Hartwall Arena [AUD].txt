@@ -1,0 +1,46 @@
+Band: Soundgarden
+Date: 2013/09/04
+City: Helsinki, Finland
+Venue: Hartwall Areena
+
+Taper: Borlag
+Lineage: Church Audio STC-11 > ST-9100 > Edirol R-09 (24Bit/48KHz) > USB 2.0 > WAV > mastering > R8Brain (dithering & downsampling to 16/44.1) > CDwave (tracking) > TLH > FLAC lvl6
+
+Disc 1:
+01 - Searching With My Good Eye Closed
+02 - Spoonman
+03 - Jesus Christ Pose
+04 - My Wave
+05 - The Day I Tried To Live
+06 - Been Away Too Long
+07 - Hunted Down
+08 - Non-State Actor
+09 - Halfway There
+10 - Mailman
+11 - Taree
+12 - Paljon Onnea Vaan (Happy Birthday Kim Thayill)
+13 - Outshined
+
+Disc 2:
+01 - Superunknown
+02 - Burden In My Hand
+03 - A Thousand Days Before
+04 - Fell On Black Days
+05 - Blow Up The Outside World
+06 - Rusty Cage
+07 - crowd
+08 - Incessant Mace
+09 - Black Hole Sun
+10 - Beyond The Wheel
+11 - Outro (aka Soundgarden)
+
+	Show notes:
+First time seeing them live and despite the absolutely mindblowingly bad sound at the venue (reflected on the recording as well, sorry about that), really enjoyed this 2 hour long set. The show was on Kim's birthday as well, and a member of the audience was called up on stage to sing the finnish version of Happy Birthday to him. Opening act was Graveyard from Sweden.
+
+	Recording notes:
+Recorded approximately 2 meters in front of the soundboard, center of the venue.
+
+	Mastering details:
+Equalizing used to reduce the icepick cymbals quite drastically, as well as some of the excess boominess of the lowest bass frequencies. Still not 100% happy with the sound of the recording, but it is what it is. Outside that just bringing up the volume. 
+
+- Borlag on 2015/07/03

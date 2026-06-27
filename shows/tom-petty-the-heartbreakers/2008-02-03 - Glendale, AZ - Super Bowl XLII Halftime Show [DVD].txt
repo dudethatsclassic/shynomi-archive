@@ -1,0 +1,15 @@
+Tom Petty & The Heartbreakers
+Superbowl XLII
+Glendale, AZ 02/03/08
+
+Cable Broadcast>WinTV-PVR-150>TMPGenc>MakeTorrent
+
+No menu or chapter breaks (my excuse being it's only 12 minutes long).
+
+Video: NTSC non-HD DVR recording at 8500 k/s in 4:3 ratio
+Audio: 224 k/s at 48 KHz, converted to Dolby D 2.0 w/ TMPGenc AC3 Codec
+
+1. American Girl
+2. Won't Back Down
+3. Free Fallin'
+4. Runnin' Down a Dream

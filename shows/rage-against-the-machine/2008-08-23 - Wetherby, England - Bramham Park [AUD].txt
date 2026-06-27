@@ -1,0 +1,46 @@
+Rage Against the Machine
+2008-08-23
+Bramham Park, Wetherby, England
+(Leeds Festival, Main Stage)
+
+Taper: Rob
+Location: Front of stack (left), ~20' back
+Source: Danish Pro Audio 4061s > Sound Professionals SPSB-6 > Sony MZ-RH1 (PCM)
+Transfer: MZ-RH1 > USB > wave (Sonic Stage 4.3)
+Editing: various* (Goldwave) > track indexes (CD Wave) > splits, Level 8 FLAC Compression & tagging (foobar2000)
+
+
+************************************
+Do Not Sell Copies Of This Recording
+************************************
+
+**********************************************************
+Do Not Encode This Recording To MP3 Or Other Lossy Formats
+**********************************************************
+
+
+01. Intro
+02. Testify
+03. Bulls on Parade
+04. People of the Sun
+05. Bombtrack
+06. Know Your Enemy
+07. Bullet in the Head
+08. Renegades of Funk
+09. Guerrilla Radio
+10. Down Rodeo
+11. Calm Like a Bomb
+12. Sleep Now in the Fire
+13. War Within a Breath
+
+14. Freedom
+15. Township Rebellion
+16. Killing in the Name
+
+
+Main Stage lineup:
+Rage Against The Machine / Queens Of The Stone Age / The Fratellis / The Enemy / Biffy Clyro / Serj Tankian / Dizzee Rascal / Taking Back Sunday / Get Cape. Wear Cape. Fly / Anti-Flag
+
+"Renegades of Funk" was originally performed by Afrika Bambaataa
+
+* In addition to a lot of EQ (lows down, highs up) and some heavy limiting (mostly on the crowd noise), there's a cut-and-paste job on the second chorus of "Killing in the Name" as I spent it shouting at the crowd to help someone up.

@@ -1,0 +1,46 @@
+GREEN DAY
+2005-01-15
+Sporthalle - Boeblingen, Germany
+
+Source:     DAT Audience [OKM-IIr > Sony SBM-1 > Sony PCM-M1]
+Location:   left side,1st row, 2m from speaker stack
+
+Transfer:   DAT master > Sony DTC-ZE700 DAT deck
+              > Terratec EWX 24/96 digital sound card > WaveLab V5.0a
+              > Digital Editing > FLAC V1.1.0
+
+Editing:    EQ, Volume boost, and slight tube compression in T-RackS V2.0
+            Fades in Steinberg WaveLab V5.0a
+            Track Splits in CD Wave Editor V1.71
+Resampling: 48.0 kHz > 44.1 kHz in Adobe Audition V1.5 (setting 999)
+
+Disc 1:     01 Intro
+            02 American Idiot
+            03 Jesus of Suburbia
+            04 Holiday
+            05 Are We the Waiting
+            06 St. Jimmy
+            07 Longview
+            08 Hitchin' a Ride
+            09 Brain Stew
+            10 Jaded
+            11 (Band Introduction)
+            12 Knowledge [Operation Ivy]
+            13 Basket Case
+            14 She
+            15 (Fade out)
+
+Disc 2:     01 (Fade in)
+            02 King For a Day
+            03 Shout [Isley Brothers]
+            04 Wake Me Up When September Ends
+            05 Minority
+            06 (Encore Break)
+            07 Boulevard of Broken Dreams
+            08 When I Come Around
+            09 We Are the Champions [Queen]
+            10 Good Riddance (Time of Your Life)
+
+Notes:      Thanks to the security guards and the huge number of crowd
+            surfers between me and the speakers for the phasing.
+            To seamlessly join the two discs, simply remove D1T15 and D2T01.

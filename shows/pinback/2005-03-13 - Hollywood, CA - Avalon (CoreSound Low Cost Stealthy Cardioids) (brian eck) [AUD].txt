@@ -1,0 +1,35 @@
+Pinback
+March 13, 2005
+Avalon
+Hollywood, CA
+
+Source: Aud > Core Sound Low Cost Stealthy Cardioids @ 40ft back from center of stage > iRiver iHP-120 > WAV
+Transfer: WAV > Audacity 1.2.3 > CDWave > FLAC 1.1.1
+
+Taped and transferred by: Brian Eck <brianeck@gmail.com>
+
+
+Set Length: 39:26
+File Size:  211MB
+
+Set List:
+Boo (beginning cut)
+Concrete Seconds
+Microtonic Wave
+Non Photo-Blue
+Bloods On Fire
+Loro
+Fortress
+Syracuse
+AFK
+
+FLAC Fingerprints:
+pinback2005-03-13t01.flac:d832f0189cbc79269e8856de33883894
+pinback2005-03-13t02.flac:c43f51c93b82911c869b847be15c3832
+pinback2005-03-13t03.flac:28c7593f1ec06956a7296fe045f17d6d
+pinback2005-03-13t04.flac:b88571b2db10992370681bc86723e6a5
+pinback2005-03-13t05.flac:8c5822b84ac5b8bd755f58c3fd7eacbe
+pinback2005-03-13t06.flac:ee26b1f08516aaad8526cb3b90c71923
+pinback2005-03-13t07.flac:2b18f83fd8c4b916cdfda6f5eefd2fa6
+pinback2005-03-13t08.flac:df60bc6e0932ee1dfe350604e9e54884
+pinback2005-03-13t09.flac:5929640a74c7303264a21115ebead913

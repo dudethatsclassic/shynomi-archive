@@ -1,0 +1,99 @@
+Husker Du
+October 23, 1987
+McDonough Field, Emory University, Atlanta, GA
+WRATHCHILD MASTER, 2021
+
+Lineage:
+Soundboard --> Tape Trade (LOW GEN) TDK SA90 High Bias Cassette-->
+GRACE TAPE2USB -> USB -> AVS Audio Editor (recording and MASTERING)-> WAV -> 
+Sony CD Architect ->  Remove Tape Flip  -> WAV
+Sony Soundforge 11 (Mastering) -> WAV -> BigAsoft Audio Converter ->FLAC 8  -> 
+TLH -> Remove SBEs, Create Checksum -> FLAC -> Compress Folder -> You
+
+
+01. Into 
+02. Flip your wig
+03. Every everything
+04. Standing in the rain
+05. Back from somewhere
+06. From the gut
+07. Target
+08. Don't want to know if you are lonely
+09. Eiffel Tower high
+10. Every time
+11. Friend you've got to fall
+12. She floated away
+13. Find me
+14. Terms of psychic warfare
+15. Chartered trips
+16. Masochism world
+17. Beyond the threshold
+18. Books about ufo's
+19. Divide and conquer
+20. Now that you know me
+21. Ain't no water in the well
+22. Powerlines
+23. She's A Woman (and now he is a man)
+
+
+2021:
+This is my tape cassette transfer from my bootleg collection by request.
+I did the following to try and improve the sound:
+Sony Soundforge 11: Audio Restoration Tool, Acoustim Mirror Effect
+AVS AudioEditor:  EQ to boost the high end.
+
+Hope this one has a little better sound than the cirulating versions.
+
+0299338cee96c4613d8de6390552e374 *01. Intro.flac
+16947cac826c0f2c947db516101c1db1 *02. Flip Your Wig.flac
+619e69357902c092c1dbc7dcb81736de *03. Every Everything.flac
+949fb31235bffb5d28292df60468131d *04. Standing In The Rain.flac
+65501f3aa6929e9487c7524d718874de *05. Back From Somewhere.flac
+ce2078397ab22e70ee6a9ecba4b0bcfc *06. From The Gut.flac
+9990f9772d25bca3ba536c075e6413ea *07. Target.flac
+cbe490a6047da5251986fcd82d1e0800 *08. Don't Wanna Know.flac
+d5504ff0ca4730a537b8445add4528a2 *09. Eifel Tower High.flac
+b55477add7cbe08982c09c39b3fb392f *10. Everytime.flac
+74fe487c8464a08f12f8c4591c31f630 *11. Friend You've Got To Fall.flac
+09dbee491fae240468db7aeca6ed6f1a *12. She Floated Away.flac
+17d8e24e9f3e6855b3922b7d48f62a22 *13. Find Me.flac
+a4087716d212d20d49397d32b6769b34 *14. Tems Of Psychic Warefare.flac
+49b744de642be4d0ebae34a1bf79857e *15 Chartered Trip.flac
+2bfcd4c27db6f159f008c5e75a795b9e *16. Masochism World.flac
+e19b9e7b6d57d6014b4e469e5af48397 *17. Beyond The Threshold.flac
+97187c641117c026d19f1b5438a5feab *18. Books About UFOs.flac
+87e61e35ff7f958f5e977a590e4fdec5 *19. Divide & Conquer.flac
+66b07091f5c7dd0d85a8d4eae64db243 *20. Now That You Know Me.flac
+c937687fc1dd5c483b91ab644a24b33b *21. Ain't No Water In The Well.flac
+43b755ce2571467401e6798e8a4fc27a *22. Powerlines.flac
+550021d91a0160816f81cab00be189ba *23. She's A Woman.flac
+
+No errors occured.
+
+01. Intro.flac:  successfully fixed/rewritten to '01. Intro-fixed.flac'.
+02.Flip Your Wig.flac:  successfully fixed/rewritten to '02.Flip Your Wig-fixed.flac'.
+03. Every Everything.flac:  successfully fixed/rewritten to '03. Every Everything-fixed.flac'.
+04. Standing In The Rain.flac:  successfully fixed/rewritten to '04. Standing In The Rain-fixed.flac'.
+05. Back From Somewhere.flac:  successfully fixed/rewritten to '05. Back From Somewhere-fixed.flac'.
+06. From The Gut.flac:  successfully fixed/rewritten to '06. From The Gut-fixed.flac'.
+07. Target.flac:  successfully fixed/rewritten to '07. Target-fixed.flac'.
+08. Don't Wanna Know.flac:  successfully fixed/rewritten to '08. Don't Wanna Know-fixed.flac'.
+09. Eifel Tower High.flac:  successfully fixed/rewritten to '09. Eifel Tower High-fixed.flac'.
+10. Everytime.flac:  successfully fixed/rewritten to '10. Everytime-fixed.flac'.
+11. Friend You've Got To Fall.flac:  successfully fixed/rewritten to '11. Friend You've Got To Fall-fixed.flac'.
+12. She Floated Away.flac:  successfully fixed/rewritten to '12. She Floated Away-fixed.flac'.
+13. Find Me.flac:  successfully fixed/rewritten to '13. Find Me-fixed.flac'.
+14. Tems Of Psychic Warefare.flac:  successfully fixed/rewritten to '14. Tems Of Psychic Warefare-fixed.flac'.
+15 Chartered Trip.flac:  successfully fixed/rewritten to '15 Chartered Trip-fixed.flac'.
+16. Masochism World.flac:  successfully fixed/rewritten to '16. Masochism World-fixed.flac'.
+17. Beyond The Threshold.flac:  successfully fixed/rewritten to '17. Beyond The Threshold-fixed.flac'.
+18. Books About UFOs.flac:  successfully fixed/rewritten to '18. Books About UFOs-fixed.flac'.
+19. Divide & Conquer.flac:  successfully fixed/rewritten to '19. Divide & Conquer-fixed.flac'.
+20. Now That You Know Me.flac:  successfully fixed/rewritten to '20. Now That You Know Me-fixed.flac'.
+21. Ain't No Water In The Well.flac:  successfully fixed/rewritten to '21. Ain't No Water In The Well-fixed.flac'.
+22. Powerlines.flac:  successfully fixed/rewritten to '22. Powerlines-fixed.flac'.
+23. She's A Woman.flac:  successfully fixed/rewritten to '23. She's A Woman-fixed.flac'.
+
+Padded last file with 828 zero-bytes.
+
+No errors occured.

@@ -1,0 +1,35 @@
+Toad the Wet Sprocket
+On The Ocean Festival
+August 10th, 2024
+Thompson's Point, Portland, ME
+
+Master:
+AKG C414 XLS (hypercard) > Lunatec V3 > Tascam DR-100 mkIII (24/48)
+At FOH tent, dead center, stand at 10'
+by Dave Mallick
+
+Conversion:
+Tascam DR-100 mkIII > WAV > Sound Studio 4.10.1 > xACT 2.51 > FLAC
+by Dave Mallick
+
+01. “Talk On The Ocean”       [28:19.956]
+02. Something's Always Wrong  [05:51.403]
+03. Woodburning               [04:50.652]
+04. California Wasted         [04:05.202]
+05. Inside                    [04:54.896]
+06. Good Intentions           [03:35.433]
+07. Crazy Life                [04:46.655]
+08. All I Want                [03:35.096]
+09. Nightingale Song *        [04:53.300]
+10. Driver 8 #                [04:27.008]
+11. Walk On The Ocean         [03:11.643]
+12. Fall Down                 [04:56.680]
+                       Total: [77:27.923]
+
+Track 1 is a Q&A on the side ("Starboard") stage prior to Toad's set on
+the main stage. Brian Rosenworcel and Ryan Miller of Guster interviewed
+Glen, Dean, and Todd, and then took questions from the audience. It was
+taped with a Zoom h1n, clamped to a support beam 8' high and 50' away.
+
+* with Brian Rosenworcel (Guster) on tambourine
+# R.E.M. cover

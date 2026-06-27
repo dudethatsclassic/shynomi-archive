@@ -1,0 +1,42 @@
+Silverchair
+Worchester Auditorium
+Worchester, MA
+April 27, 1997
+
+Taper: unknown
+Source: AUD -> Analog (generation 3) -> CD
+
+Analog > CD conversion: Adam Nelson (nelso222@msu.edu) - 1999 
+
+CD > flac conversion: Adam Nelson (nelso222@msu.edu) - 2006
+
+EAC (secure mode, all tracks 100%) -> wav -> flac frontend (level 6)
+
+
+1. Intro
+2. Slave ->
+3. Roses ->
+4. Findaway
+5. Abuse Me
+6. Pure Massacre
+7. Cemetery *
+8. Suicidal Dream
+9. Tomorrow
+10. Faultline 
+11. No Association ->
+12. Freak ->
+13. Madman
+14. E: Minor Threat (Minor Threat Cover) ^
+15. E: Israel's Son
+
+
+Notes:
+* = Daniel solo
+^ = with Jeremy Chatelain from Handsome
+
+This recording has heavy analog hiss. My records listed this as gen 3, but it sounds more like 5 or 6 generations. 
+
+"The Door" is completely missing from this recording - it was played after "Cemetery". The beginning of Faultline is also gone. This is cut at the tape flip.
+
+-
+Compiled by Adam Nelson

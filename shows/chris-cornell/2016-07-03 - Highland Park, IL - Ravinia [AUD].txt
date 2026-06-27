@@ -1,0 +1,52 @@
+
+Chris Cornell
+Ravinia: Highland Park, IL
+July 3, 2016
+
+Source: Schoeps MK4s > Tinybox > Sony PCM-M10 @ 24-bit / 44.1kHz
+Location: FOB 3rd row right stack
+Transfer: SD Card > Audacity (click removal/amplify/dither) > CDWave > TLH
+Taper: tapeworm(48) 
+
+Setlist:
+
+01 Intro
+02 Before We Disappear
+03 Can't Change Me
+04 As Hope & Promise Fade
+05 Nothing Compares 2 U [Prince]
+06 Nearly Forgot My Broken Heart
+07 The Times They Are a Changin' Back
+08 Josephine
+09 Fell on Black Days
+10 Be Yourself
+11 Doesn't Remind Me
+12 Call Me a Dog
+13 Blow Up the Outside World
+14 -Touring story-
+15 Let Your Eyes Wander
+16 You Know My Name
+17 I am the Highway
+18 Scream
+19 Rusty Cage
+20 Jesus Christ Pose (tease)
+21 Black Hole Sun
+22 Hunger Strike
+23 Wooden Jesus
+24 A Day in the Life [The Beatles]
+25 -Encore break-
+26 Billie Jean [Michael Jackson]
+27 Seasons
+28 Higher Truth
+
+Notes: Higher Truth acoustic tour. Opening act was Fantastic Negrito (recorded). Tinybox set to mid gain, M10 set to 6. Applied click removal throughout prior to amplifying entire file by +3dB, and dithering to 16bit.  Otherwise, raw transfer with no fades or EQ.
+
+Click Removal: 	Threshold - 110
+		Spike Width - 40
+
+Archive: Master WAV was archived @ 24-bit/44.1kHz and FLAC'd with cue sheet. 
+
+Taped and transferred by tapeworm(48) 
+Txt file compiled on 7/4/2016
+
+*** DO NOT DISTRIBUTE IN LOSSY FORMATS. DO NOT SELL THIS RECORDING, TRADE IT FREELY *** 

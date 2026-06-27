@@ -1,0 +1,54 @@
+Primus
+2010-08-14
+The Joint
+Hard Rock Hotel & Casino
+Las Vegas, NV
+
+record:  MM-HLSC-1(mounted on hat, 25 feet back from left stack) > MM-MBM (roll off @ 96hz) > R09 @ 24/48
+transfer:  R09 > USB > Wavelab (editing & dither to 16bit) > CDWav (tracking) > Traders Little Helper (flac) > foobar2000 (liveshowtagger)
+taper:  sin213
+
+This was a special midnight show from Primus, since Les had to be at the Rush show just hours before.  There were no openers and Primus was in great form that night.  A few too many covers for my taste...would have liked to have heard a few other Primus songs instead, but all in all it was a great show.
+
+Primus - 111:16 *16bit version*
+
+01 Intro
+02 Pudding Time
+03 In The Flesh (Pink Floyd cover)
+04 Duchess and the Proverbial Mind Spread
+05 Behind My Camel (The Police cover)
+06 Groundhogs Day
+07 Those Damned Blue Collar Tweekers
+08 Mr Knowitall
+09 Big In Japan (Tom Waits cover)
+10 Over The Falls
+11 Drum/Whamola Jam
+12 Eleven
+13 Frizzle Fry
+14 My Name Is Mud
+15 Southbound Pachyderm
+16 Tommy The Cat
+17 Over the Electric Grapevine
+18 Too Many Puppies
+
+**DO NOT ENCODE TO MP3 EXCEPT FOR PERSONAL MP3 USE**
+**PLEASE DO NOT ALTER OR SELL THIS RECORDING AND INCLUDE THE INFO FILE IN TRADES**
+
+Primus 2010-08-1401.flac:00011f517604d2734dbf496ebf9152af
+Primus 2010-08-1402.flac:3ba6d8be68ac6f807776fb03a0721921
+Primus 2010-08-1403.flac:b5cce99bfacd7f66d1f757ff602b89c9
+Primus 2010-08-1404.flac:683df3c5b33c4ef3fd7e839705017ad9
+Primus 2010-08-1405.flac:a4ce6d6203bcff088d1acd0aec9afbc0
+Primus 2010-08-1406.flac:7263e467a66311f7edf3355ffdfb0d28
+Primus 2010-08-1407.flac:b4522e347dfc92d5bb39ae853553610d
+Primus 2010-08-1408.flac:20f836334a5e1c12b01264a81aa3a6b1
+Primus 2010-08-1409.flac:dead9b6a386bb8097836e6f7ecfd9246
+Primus 2010-08-1410.flac:7d4e048d143b0a0af0d81fc6fd351d96
+Primus 2010-08-1411.flac:2365c3ce5852d8fbbbf15814e909f975
+Primus 2010-08-1412.flac:12b5cbeeffb22259731d432b7f39efac
+Primus 2010-08-1413.flac:76f8d45265927b5c9824a818742a9462
+Primus 2010-08-1414.flac:260c6d59bb965570c907cf0f6474b749
+Primus 2010-08-1415.flac:939a78ffdbfc56f1a201b0429fecd092
+Primus 2010-08-1416.flac:4118e2334060046990ddbcb286ea79e4
+Primus 2010-08-1417.flac:4b60e21ae3239f40c2519fa5cdfa5b5a
+Primus 2010-08-1418.flac:9cbf0f840d4e8f074e4349522de6bc5a

@@ -1,0 +1,55 @@
+Primus
+June 13th, 2017
+den Atelier
+Luxembourg City, Luxembourg
+
+2 Source Matrix
+
+Source 1:  CA-11 (cardioid) > Bat2B > Sony PCM M10 @ 24/48 by LeifH, front row centre
+Source 2:  Tascam DR-07 (internal mics) @ 16/44.1 by bouba3d, from balcony (Tascam layed on roof above SBD)
+Transfer:  .WAV files > Wavepad Masters Edition (edits, mixdown, tracking, 16/44.1) > flac (8) via TLH
+
+Set 1:  1:20:06
+00 intro
+01 American Life
+02 Moron TV
+03 Wynona's Big Brown Beaver
+04 Groundhog's Day
+05 The Heckler
+06 Jilly's on Smack
+07 Over the Falls
+08 Lee Van Cleef
+09 Too Many Puppies
+
+Set 2: 1:01:34
+10 Nature Boy 
+11 Eleven
+12 The Seven
+13 Bob
+14 My Name Is Mud
+15 Jerry Was a Racecar Driver
+
+16 Southbound Pachyderm
+
+These two sources sound very nice together.  I was front row centre and picked up a lot of stage sound.  Bouba3d was on the balcony and placed their recorder on the roof that covers the soundboard.  Both are great recordings and compliment each other here.  
+
+This was a layed back show with no written setlists.  Les needed a new bow during Jilly's On Smack and there is a pause in the song for a couple minutes while his bass-tech fishes out another one from a road case.  
+
+fingerprints:
+00 - intro.flac:ab6305223e38ff8b2ab934d214768c9d
+01 - American Life.flac:692b62c87bf02a102181c578900e931b
+02 - Moron TV.flac:edfe7977067bf111df599cdc4e9e2b50
+03 - Wynona's Big Brown Beaver.flac:fd59938e0bb10ca64ebdc9cd592b228e
+04 - Groundhog's Day.flac:f448b44bc936787a9fadde38cc6e2397
+05 - The Heckler.flac:7609e8ebefb3642ee207d16ed9077b4b
+06 - Jilly's on Smack.flac:2eb88c36e25693f80e70e156f4463116
+07 - Over the Falls.flac:a032195b6f628713d2050e9ea912fd4c
+08 - Lee Van Cleef.flac:3e7e293867740cb655a7dc511ca31d87
+09 - Too Many Puppies.flac:62049872e2ee61dd46bf613dbf0589a8
+10 - Nature Boy.flac:33a94c787b505c7d5f9632ac6c787f4e
+11 - Eleven.flac:111b65a077c60e3d267c42a3c368956a
+12 - The Seven.flac:a05f85e30082f0a477ef19eb09dd5fb4
+13 - Bob.flac:2bf68b9b9a40751a5577beb16e149b6c
+14 - My Name is Mud.flac:da89e64d0651ce50870c86801dd30d95
+15 - Jerry Was a Racecar Driver.flac:99db79a6a673b7a477d40fd95d7fb4f2
+16 - Southbound Pachyderm.flac:88b6dcddb2ac94957f8bf3d53eb2ac27

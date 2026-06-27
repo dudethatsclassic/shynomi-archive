@@ -1,0 +1,59 @@
+GREEN DAY
+2017-01-16
+Hallenstadion
+Zürich, Switzerland
+
+Source:     Schoeps MK6 (cardioid) > NBob actives > Naiant IPA > Sony PCM-M10
+Mic Config: DIN-A (90°, 17cm)
+Location:   Section S1, left side
+Transfer:   Master WAVs > dEdit > FLAC V1.3.1
+Editing:    Digital editing in Apple Logic Pro X V10.2.1
+            Limiting of explosions and volume boost using iZotope Ozone7 V7.0.1299
+            Fades in Audiofile Engineering Wave Editor V1.5.7
+Dithering:  MBIT+
+Format:     16 bit / 44.1 kHz
+
+Disc 1:
+01 (Intro: Queen - Bohemian Rhapsody)
+02 (Intro: Ramones - Blitzkrieg Bop)
+03 (Intro: Ennio Morricone - The Good, the Bad and the Ugly)
+04 Know Your Enemy
+05 Bang Bang
+06 Revolution Radio
+07 Holiday
+08 Letterbomb
+09 Boulevard of Broken Dreams
+10 Longview
+11 Youngblood
+12 2000 Light Years Away
+13 Hitchin' a Ride
+14 When I Come Around
+15 Christie Road
+16 Burnout
+17 Scattered
+
+Disc 2:
+01 Minority
+02 Are We the Waiting
+03 > St. Jimmy
+04 Knowledge [Operation Ivy]
+05 Basket Case
+06 She
+07 King for a Day / Careless Whisper [George Michael] (tease)
+08 Shout [The Isley Brothers]
+09 > Always Look on the Bright Side of Life [Monty Python]
+10 > (I Can't Get No) Satisfaction [The Rolling Stones]
+11 > Hey Jude [The Beatles]
+12 Still Breathing
+13 Forever Now
+14 (Encore Break #1)
+15 American Idiot
+16 Jesus of Suburbia
+     I Jesus of Suburbia
+     II City of the Damned
+     III I Don't Care
+     IV Dearly Beloved
+     V Tales of Another Broken Home
+17 (Encore Break #2)
+18 Ordinary World
+19 Good Riddance (Time of Your Life)

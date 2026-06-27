@@ -1,0 +1,86 @@
+Green Day - 2025 01 30 @ Kia Forum, Los Angeles CA
+
+Note:
+FireAid concert. Support families who lost everything, donate: https://fireaidla.org/
+
+1 Last Night on Earth (with Billie Eilish)
+2 Still Breathing
+3 When I Come Around
+
+Source: Webstream > yt-dlp > LosslessCut > MP4
+
+Line-up:
+Intuit Dome, Inglewood, CA, USA
+Rod Stewart
+Earth, Wind & Fire
+Gracie Abrams
+Tate McRae
+Jelly Roll
+Katy Perry
+Lil Baby
+Olivia Rodrigo
+Sting
+Peso Pluma
+Billie Eilish
+Stevie Wonder
+Lady Gaga
+
+Kia Forum, Inglewood, CA, USA
+Green Day
+Alanis Morissette
+Anderson .Paak
+Joni Mitchell
+Dawes
+Stephen Stills & Graham Nash
+P!nk
+John Mayer
+The Black Crowes
+John Fogerty
+No Doubt
+Stevie Nicks
+Nirvana
+Red Hot Chili Peppers
+
+Source info:fs
+File size                                : 170 MiB
+Duration                                 : 17 min 57 s
+Overall bit rate mode                    : Variable
+Overall bit rate                         : 1 327 kb/s
+Frame rate                               : 29.970 FPS
+Writing application                      : Lavf60.3.100
+
+Video
+ID                                       : 1
+Format                                   : VP9
+Codec ID                                 : vp09
+Duration                                 : 17 min 57 s
+Bit rate                                 : 1 193 kb/s
+Width                                    : 1 920 pixels
+Height                                   : 1 080 pixels
+Display aspect ratio                     : 16:9
+Frame rate mode                          : Variable
+Frame rate                               : 29.970 FPS
+Minimum frame rate                       : 29.412 FPS
+Maximum frame rate                       : 30.303 FPS
+Color space                              : YUV
+Chroma subsampling                       : 4:2:0
+Bits/(Pixel*Frame)                       : 0.019
+Stream size                              : 153 MiB (90%)
+Language                                 : English
+Color range                              : Limited
+Color primaries                          : BT.709
+Transfer characteristics                 : BT.709
+Matrix coefficients                      : BT.709
+
+Audio
+ID                                       : 2
+Format                                   : Opus
+Codec ID                                 : Opus
+Duration                                 : 17 min 57 s
+Source duration                          : 17 min 57 s
+Bit rate mode                            : Variable
+Maximum bit rate                         : 127 kb/s
+Sampling rate                            : 48.0 kHz
+Compression mode                         : Lossy
+Source stream size                       : 16.3 MiB (10%)
+Language                                 : English 

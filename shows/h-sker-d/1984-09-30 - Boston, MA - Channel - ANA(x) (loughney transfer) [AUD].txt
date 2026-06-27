@@ -1,0 +1,30 @@
+Husker Du - 1984 09 30 The Channel, Boston, MA, USA
+
+Transfer note:
+Hate Paper Doll is cut due to C60 tape runout.  My copy was put on a C90 with a tape flip after in the middle of Out on a Limb, and restarted on side b.
+
+2022 Uploading notes:
+This was updated in 2020 (or was it 2021, I don't know, it is all a 'Land Speed Record' blur at the moment).  I removed a 1 1/2 second gap with Hate Paper Doll. Part of Out on the Limb repeated on the tape flip on the original torrent, so I removed the duplicated portion. Finally, I normalized the volume of the full show to 0 dB.
+
+1 Something I Learned Today
+2 It's Not Funny Anymore
+3 Everything Falls Apart
+4 Girl Who Lives on Heaven Hill
+5 I Apologize
+6 If I Told You
+7 Folk Lore
+8 Terms of Psychic Warfare
+9 Powerline
+10 Books About UFOs
+11 I Don't Know What You're Talking About
+12 Diane
+13 Hate Paper Doll 
+14 Green Eyes 
+15 Divide and Conquer
+16 Pink Turns to Blue
+17 Eight Miles High [The Byrds]
+18 Out on a Limb
+19 Reoccurring Dreams
+20 New Day Rising
+
+Lineage: Master > unknown gen tape > Tascam 202MKVII USB out > CDWAV > Audacity (normalization, fades, merges, noise reduction) > CDWAV (splits) > DBPowerAmp (FLAC) [loughney xfer]

@@ -1,0 +1,45 @@
+Primus
+Washington, DC
+Constitution Hall
+11-08-2006
+
+Source
+SPCMC8(cardiod) >Sony D8 @48 kHz> PC(Wav)> Audacity(Tracking)> Flac Frontend Level 8
+
+Band 
+Les Claypool - Bass
+Larry Lalonde - Guitar
+Tim Alexander - Bass
+
+
+Setlist
+
+01 - Here Come The Bastards
+02 - Groundhogs Day
+03 - Those Damned Blue Collared Tweekers
+04 - De Anza Jig
+05 - Nature Boy
+06 - Jerry Was A Racecar Driver
+07 - My Name Is Mud
+08 - Over The Electric Grapevine
+09 - Too Many Puppies
+10 - Harold Of The Rocks
+11 - Crowd
+12 - Wynona's Big Brown Beaver
+
+
+
+Flac Fingerprints
+01 - Here Come The Bastards.flac:590ff93c0e09816cc408001519b1d932
+02 - Groundhogs Day.flac:00bb1011eeacef2bfd1aa73774aa85f0
+03 - Those Damned Blue Collared Tweekers.flac:f06f5cfd980f9318e46b18ad7adadadd
+04 - De Anza Jig.flac:c7d5bfa9ea7e555ca3af10f09117db31
+05 - Nature Boy.flac:47419c1f4fde2b53ce561397cb4adfe3
+06 - Jerry Was A Racecar Driver.flac:8024975f668876f3ba49edbc21147b9a
+07 - My Name Is Mud.flac:7c8b59c706163e130f86164128e3216c
+08 - Over The Electric Grapevine.flac:1a81bd75deafb98b1431ec82ca11bcf3
+09 - Too Many Puppies.flac:017b65a313398bf7e5a5563f4d632a36
+10 - Harold Of The Rocks.flac:273c8cb95789293e0fd6a91619df22be
+11 - Crowd.flac:3896af2012fc9373a171d2f2e2c9f8c3
+12 - Wynona's Big Brown Beaver.flac:fb901c8cccf67ea960b74de382052ad4
+

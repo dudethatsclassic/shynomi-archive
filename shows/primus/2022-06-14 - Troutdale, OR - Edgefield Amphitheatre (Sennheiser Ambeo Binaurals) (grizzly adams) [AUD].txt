@@ -1,0 +1,50 @@
+Primus 
+June 14th, 2022 (Tuesday)
+Edgefield Amphitheatre
+Troutdale, Oregon
+
+Recorded by Grizzly Adams
+Source:  Sennheiser Ambeo Binaural Headset > iPhone > Apogee MetaRecorder
+Transfer:  .WAV > RX9 > Wavepad > flac (8) via TLH
+
+Setlist:  2:02:33
+00 intro
+01 Here Come the Bastards
+02 Wynona's Big Brown Beaver
+03 Groundhog's Day > Polkadot Rose
+04 Spegetti Western
+05 Conspiranoia
+06 Jilly's on Smack
+07 Welcome to This World
+08 Jerry Was A Race Car Driver
+09 The Ol' Diamonback Sturgeon
+-intermission-
+10 A Farewell to Kings
+11 Xanadu
+12 Closer to the Heart
+13 Cinderella Man
+14 Madrigal
+15 Cygnus X-1
+-encore-
+16 Follow the Fool
+17 Harold of the Rocks
+
+fingerprints:
+Primus2022-06-14t00 - intro.flac:e1d9edf860f26afa64559c746f2fc255
+Primus2022-06-14t01 - Here Come the Bastards.flac:413c5b23fbc4be6b592a4a94951a2c74
+Primus2022-06-14t02 - Wynona's Big Brown Beaver.flac:1238d4ed0f010b2fe52468fd6c713643
+Primus2022-06-14t03 - Groundhog's Day.flac:801c97af058d5ba0c3fe499a985948a1
+Primus2022-06-14t04 - Spegetti Western.flac:83ad8ae4425f20ae1026ee77c43f799e
+Primus2022-06-14t05 - Conspiranoia.flac:28923bf9db52c5bcf3c8e6292d10956d
+Primus2022-06-14t06 - Jilly's on Smack.flac:9a0aca7c30df722f0bbfdb4d9dc781f0
+Primus2022-06-14t07 - Welcome to This World.flac:ff2c15994c0e909964eac38c96991ed0
+Primus2022-06-14t08 - Jerry Was A Race Car Driver.flac:13c102398b27678efe0edabe0f2724da
+Primus2022-06-14t09 - The Ol' Diamonback Sturgeon.flac:9a774b75a6e1e8a0454b44042ec3f37e
+Primus2022-06-14t10 - A Farewell to Kings.flac:67ca82eb359e64f661b4758e03ed232d
+Primus2022-06-14t11 - Xanadu.flac:a6a448fec1b5d0bb9ad879f50f1a9f9a
+Primus2022-06-14t12 - Closer to the Heart.flac:e72f21e46e4333f84ef2bf3f8567976f
+Primus2022-06-14t13 - Cinderella Man.flac:12b6b7ffdf3da4f88717ae5e541cac34
+Primus2022-06-14t14 - Madrigal.flac:a97b3ca11af7c7fee1b0d3a9f945046f
+Primus2022-06-14t15 - Cygnus X-1.flac:c6892ca7e7ab915f44d26cd50a4630b4
+Primus2022-06-14t16 - Follow the Fool.flac:8f0d8b8146c604b444b76b78f25625db
+Primus2022-06-14t17 - Harold of the Rocks.flac:c328676eec05b166809a21ff9b4a0e39

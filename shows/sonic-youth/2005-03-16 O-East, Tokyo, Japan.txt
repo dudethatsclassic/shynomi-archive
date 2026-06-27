@@ -1,0 +1,52 @@
+---------------------------------------------------------------------------
+	Artist:			Sonic Youth
+	Date:			2005-03-16
+	Location:		Shibuya O-East 
+				Tokyo
+				Japan
+---------------------------------------------------------------------------
+	recorded by:		Tsukasa
+	transfert by:		Tsukasa
+	encoded & text file by:	http://db.etree.org/tris1979	
+---------------------------------------------------------------------------
+	Source Info:		Aud 
+				>Sony ECM-719 
+				>Sony MZ-NH1 (Hi-SP mode ATRAC3plas/256kbps) 
+				>Hi-MDM 
+				>MZ-NH1
+				>analog
+				>UE-205 (USBdigitalaudio processor Onkyo ) 				>Carry On Music Onkyo (Track Split) 
+				>WAV
+				>Record Now DX 
+				>CDRM 
+				>CDR1
+				>Toast 6.1.1
+				>Aif
+				>Xact 1.5b1
+				>flac
+---------------------------------------------------------------------------
+	total time:		1:16:42
+	Fileset size:		490.3MB	
+--------------------------------------------------------------------------
+	Note: 
+---------------------------------------------------------------------------
+	Setlist:		d1:
+				t01: intro
+				t02: i love you golden blue 
+				t03: stones
+				t04: skip tracer 
+				t05: pattern recognition
+				t06: unmade bed 
+				t07: rain on tin 
+				t08: Mariah Carrey and the arthur doyle 								hand cream
+				
+				d2:
+				t01: sugar kane 
+				t02: dude ranch nurse
+				t03: new hampshire 
+				t04: paper cup exit 
+				t05: kool thing 
+				--
+				t06: Pacific Coast Highway
+				t07: expressway to yr.skull
+---------------------------------------------------------------------------

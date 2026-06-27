@@ -1,0 +1,23 @@
+Sonic Youth
+Vooruit Gent Belgium
+June 10, 2001
+
+
+Showinfo check here:
+http://www.sonicyouth.com/mustang/cc/061001.html
+
+Only 4 songs recorded, split into 3 tracks:
+
+She Is Not Alone 
+NYC Ghosts & Flowers 
+Piano Piece #13 > Side2Side 
+
+The taper had recording-problems and could only tape at the end of the concert.
+
+Lineage:
+SB > Unknown MD-recorder > CDR (copy from master-recording)
+ > EAC (secure, no errors, log included) > WAV > Flac8
+
+05 -.flac:a5653f5be2f2fc49e8fa4e178b363320
+06 -.flac:bdf88b36c383a3f86a45f1f1f4180ce0
+07 -.flac:a1700ee53b180e6176933997d7754d2f

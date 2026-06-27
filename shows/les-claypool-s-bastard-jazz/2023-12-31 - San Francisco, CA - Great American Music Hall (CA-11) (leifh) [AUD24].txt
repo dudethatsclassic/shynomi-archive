@@ -1,0 +1,37 @@
+Les Claypool's Bastard Jazz
+Sunday December 31st, 2023 - New Year's Eve
+Great American Music Hall
+859 O'Farrell St. 
+San Francisco, California
+
+Taper:  LeifH [2023#88b]
+Source:  CA-11 > Bat2B > A10 - floor, dead centre, ~12' from stage
+Transfer:  PC via USB > RX9 > Wavepad > flac (8) via TLH
+
+Setlist:  02:11:52
+01 Jam > Tommy the Cat > Spegetti Western
+02 Jam 
+03 Jam > Pudding Time
+04 Jam [*]
+05 Jam > Happy New Year [*]
+06 Hendershot [*]
+07 Jam > Mr. Wright > Fantastic Voyage > One Better 
+-encore-
+08 Jam > Jerry Was a Racecar Driver > Riddles Are Abound Tonight > Heart of the Sunrise
+
+Les Claypool - bass, vocals
+Mike Dillon - percussion
+Skerik - saxophone
+Adam Deitch - drums
+-plus guest-
+Marc "MIRV" Haggard - guitar [*]
+
+fingerprints:
+lcbj2023-12-31t01.flac:0003c3bbbc0c994414b0f8fac9315d8e
+lcbj2023-12-31t02.flac:459462aece97c1aacd87992d4082ff56
+lcbj2023-12-31t03.flac:65f418a0ed6c9ead54d9c909e0cd780e
+lcbj2023-12-31t04.flac:fa634dd40a1f609b99175911ffa7be2d
+lcbj2023-12-31t05.flac:f1de67f6ec7494d19505b5ea61f324a1
+lcbj2023-12-31t06.flac:1bbb2be63053abbfce9e61a5cc76a2b9
+lcbj2023-12-31t07.flac:0512a8953cc3ca8c4abecb0e8f36edff
+lcbj2023-12-31t08.flac:211d1447d906b0be49e2fdfd62b6e69b

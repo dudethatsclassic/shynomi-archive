@@ -1,0 +1,29 @@
+Sonic Youth - 2002 07 11 E-Werk, Cologne, GER
+
+Show note:
+Seperated out the intro and noise intro (tracks 0 and 7). There was a bit of repeated applause and fades at the end of CDR1 and CD2, before Candle.  I removed the repeated applause and merged them. Fixed a 1 second dropout on right channel at 4:46 on Karenology.
+
+0 intro
+1 Tom Violence 
+2 Bull in the Heather 
+3 The Empty Page 
+4 Eric's Trip 
+5 Plastic Sun 
+6 Rain on Tin 
+7 Radical Adults Lick Godhead Style 
+8 noise intro
+9 Shadow of a Doubt 
+10 Karenology 
+11 Candle 
+12 Sympathy for the Strawberry 
+13 Drunken Butterfly 
+ encore 
+14 Disconnection Notice 	
+15 Making the Nature Scene 
+ encore 2 
+16 Kool Thing 
+
+Openers:
+Cobra Killers
+
+Source: MiniDisc Soundboard Master > EAC (WAV + CUE) CDWAVE > FLAC

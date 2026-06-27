@@ -1,0 +1,92 @@
+Taylor Swift
+Venue: Tokyo Dome, Korakuen, Bunkyo ward, Tokyo
+Date: November 21, 2018
+Linage > Xavel > Blu-ray > My Blu-ray
+
+Contrast Clause these are the same date but CD and DVD and this is Blu-ray
+Uploaded by cdparky
+http://www.dimeadozen.org/torrents-details.php?id=638796
+Uploaded by rober953
+http://www.dimeadozen.org/torrents-details.php?id=635842
+Uploaded by 80309561 DVD
+http://www.dimeadozen.org/torrents-details.php?id=684800
+
+Setlist
+01. Opening (Bad) Reputation
+
+02. …Ready for It?
+03. I Did Something Bad
+04. Gorgeous
+05. Style /
+06. Love Story / You Belong With Me
+
+07. Look What You Made Me Do
+08. End Game
+09. King of My Heart
+
+10. Delicate
+11. Shake It Off
+12. So It Goes...
+13. Wildest Dreams
+
+14. Blank Space
+15. Dress
+16. Bad Blood / Should've Said No
+
+17. Don't Blame Me
+18. Long Live / New Year's Day
+
+19. Why She Disappeared(video interlude)
+
+20. Getaway Car
+21. Call It What You Want
+22. We Are Never Ever Getting Back Together / This Is Why We Can't Have Nice Things
+
+The Charli XCX set was also on the Blu-ray and follows Taylor Swift.
+Setlist  
+01. Boom Clap
+02. I Love It (Icona Pop cover)
+03. Break the Rules
+04. Unlock It
+05. Boys
+06. 5 in the Morning
+07. Fancy (Iggy Azalea cover)
+
+Video Attributes
+Video 
+ID                               : 4113 (0x1011)
+Menu ID                          : 1 (0x1)
+Format                           : MPEG Video
+Format version                   : Version 2
+Format profile                   : Main@High
+Format settings, Matrix          : Default
+Duration                         : 2h 21mn
+Bit rate mode                    : Variable
+Bit rate                         : 20.3 Mbps
+Nominal bit rate                 : 35.0 Mbps
+Width                            : 1 920 pixels
+Height                           : 1 080 pixels
+Display aspect ratio             : 16:9
+Frame rate                       : 29.970 fps
+Standard                         : Component
+Colorimetry                      : 4:2:0
+Scan type                        : Interlaced
+Scan order                       : Top Field First
+Bits/(Pixel*Frame)               : 0.327
+
+Audio Attributes
+Audio
+ID                               : 4352 (0x1100)
+Menu ID                          : 1 (0x1)
+Format                           : PCM
+Format settings, Endianness      : Big
+Format settings, Sign            : Signed
+Muxing mode                      : Blu-ray
+Duration                         : 2h 21mn
+Bit rate mode                    : Constant
+Bit rate                         : 1 536 Kbps
+Channel(s)                       : 2 channels
+Channel positions                : Front: L R
+Sampling rate                    : 48.0 KHz
+Resolution                       : 16 bits
+*** UPLOADED TO DIMEADOZEN BY 80309561 ON SUNDAY, NOVEMBER 7, 2021 ***

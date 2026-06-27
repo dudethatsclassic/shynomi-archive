@@ -1,0 +1,49 @@
+
+
+----------------------------------------------------------------
+	Artist:			Toad The Wet Sprocket
+	Date:			March 20, 1995
+	Location:		Madison Civic Center, Madison, WI
+	Taper:			JB
+	e-mail:			radioheadusa@comcast.net
+	DC++ screenname:	radiohead8989
+	date of seeding:	April 24, 2013
+----------------------------------------------------------------
+	Source Info:		>Sony D-3 DAT recorder (16bit-48kHz)
+				>ECM-S220 Mic
+				>CDWAVE 1.98
+				>FLAC (level 8)
+----------------------------------------------------------------
+	additional info:	
+----------------------------------------------------------------
+	running time:		1h:25m:31s
+----------------------------------------------------------------
+	Setlist:		01 Fly From Heaven
+				02 Is It For Me
+				03 All I Want
+				04 WoodBurning
+				05 Crowing
+				06 Windmills 
+				07 Somethings Always Wrong
+				08 Stupid
+				09 Brother
+				10 Come Back Down
+				11 Way Away
+				12 Hold Her Down
+				13 Inside
+				14 >Classic Rock Riff
+				15 Fall Down
+				16 Encore Break
+
+				17 Nightingale Song
+				18 Jam
+				19 Walk On The Ocean
+ 				20 Encore Break
+
+				21 Reincarnation Song
+				22 I Will Not Take These Things For Granted
+----------------------------------------------------------------
+Note:
+This is a 16bit / 48KHZ recording.  It cannot be burned to a cd, unless you convert it to 44.1KHZ.
+The FLAC files were created using CD Wave 1.98, and they were tested using Media Monkey 4.0.6.1501.
+This is from my master DAT recording.

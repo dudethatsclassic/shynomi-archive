@@ -20,9 +20,10 @@ const ARTIST_DATA = {
       "state": "WA",
       "location": "Seattle, WA",
       "venue": "Moore Theater",
-      "notes": "ANA(M) · loughney transfer",
+      "notes": "ANA(M) \u00b7 loughney transfer",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1992-11-17 - Seattle, WA - Moore Theater - ANA(M) (loughney transfer) [AUD].txt"
     },
     {
       "year": 1992,
@@ -33,9 +34,10 @@ const ARTIST_DATA = {
       "state": "Belgium",
       "location": "Ghent, Belgium",
       "venue": "Vooruit Concertzaal",
-      "notes": "DAT(M) · unk",
+      "notes": "DAT(M) \u00b7 unk",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1992-12-11 - Ghent, Belgium - Vooruit Concertzaal - DAT(M) (unk) [AUD].txt"
     },
     {
       "year": 1993,
@@ -46,9 +48,10 @@ const ARTIST_DATA = {
       "state": "NY",
       "location": "New York, NY",
       "venue": "Roseland Ballroom",
-      "notes": "ANA(M) · Sony 929 · scott simpson",
+      "notes": "ANA(M) \u00b7 Sony 929 \u00b7 scott simpson",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1993-05-07 - New York, NY - Roseland Ballroom - ANA(M) (Sony 929) (scott simpson) [AUD].txt"
     },
     {
       "year": 1993,
@@ -59,9 +62,10 @@ const ARTIST_DATA = {
       "state": "WA",
       "location": "Seattle, WA",
       "venue": "Oz Niteclub",
-      "notes": "DAT(M) · loughney transfer",
+      "notes": "DAT(M) \u00b7 loughney transfer",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1993-05-18 - Seattle, WA - Oz Niteclub - DAT(M) (loughney transfer) [AUD].txt"
     },
     {
       "year": 2026,
@@ -72,9 +76,10 @@ const ARTIST_DATA = {
       "state": "NY",
       "location": "New York, NY",
       "venue": "Webster Hall",
-      "notes": "Schoeps MK4 · lachtna productions",
+      "notes": "Schoeps MK4 \u00b7 lachtna productions",
       "version": "AUD",
-      "format": "FLAC 24"
+      "format": "FLAC 24",
+      "textFile": "2026-05-02 - New York, NY - Webster Hall (Schoeps MK4) (lachtna productions) [AUD24].txt"
     },
     {
       "year": 2026,
@@ -85,9 +90,10 @@ const ARTIST_DATA = {
       "state": "NY",
       "location": "New York, NY",
       "venue": "Webster Hall",
-      "notes": "Schoeps MK4 · lachtna productions",
+      "notes": "Schoeps MK4 \u00b7 lachtna productions",
       "version": "AUD",
-      "format": "FLAC 24"
+      "format": "FLAC 24",
+      "textFile": "2026-05-03 - New York, NY - Webster Hall (Schoeps MK4) (lachtna productions) [AUD24].txt"
     }
   ],
   "misc": []

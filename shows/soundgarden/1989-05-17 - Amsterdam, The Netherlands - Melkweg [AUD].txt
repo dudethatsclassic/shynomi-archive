@@ -1,0 +1,20 @@
+Soundgarden
+May 17, 1989
+Melkweg
+Amsterdam, Netherlands
+
+?>trade cdr>wav(EAC secure)>flac8
+Time: 45:39
+
+01 Gun
+02 Flower
+03 Thank You
+04 I Awake
+05 Entering
+06 All Your Lies
+07 Hunted Down
+08 Kingdom Of Come
+09 Tears To Forget
+10 Hand Of God
+11 Fopp
+12 Power Trip (cut), feedback, Nothing To Say (cut)

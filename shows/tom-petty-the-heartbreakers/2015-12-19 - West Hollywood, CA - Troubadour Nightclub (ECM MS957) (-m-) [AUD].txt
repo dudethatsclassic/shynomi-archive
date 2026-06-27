@@ -1,0 +1,148 @@
+Tom Petty and the Heartbreakers
+Merry Minstrel Christmas Show
+Troubadour Nightclub
+West Hollywood, California
+December 19, 2015
+
+with guest appearance by Jeff Lynne
+
+
+01. Hi and tune up...
+02. Cabin Down Below
+03. Little Red Rooster
+04. I'm A Man
+05. Thirteen Days
+06. Dogs On The Run
+07. Tom Introduces Jeff Lynne
+08. Runaway w/ Jeff Lynne
+09. Poor House w/ Jeff Lynne
+10. Roll Over Beethoven w/ Jeff Lynne
+11. Mary Jane's Last Dance
+12. A Final Word From Tom
+13. Runnin' Down A Dream
+[55:34]
+
+
+Heartbreakers with Matt Log filling in on drums
+
+Recorded by -M-
+Source:
+Sony ecm MS957 (mid side stereo microphone) > Sony PCM M-10 @ 24-48
+Mastering:
+Adobe Audition & iZotope RX4 Advanced (prep and cut tracks) > TLH (flac level 8)
+Song information embedded with Stamp ID3 tag editor
+
+
+
+we were packed in like sardines.
+Found a spot to squeeze in on the left side of the stage.
+It was tough to keep a straight line between the microphone and the stage and still be stealthy.
+The PA speaker was 15 feet away and so the mic was pointed up towards that.
+Not optimum but it worked.
+
+For historical reference only and not intended for resale or any commercial use.
+
+enjoy
+-M- (Dec 2015)
+FLYING M PRODIUCTIONS
+
+FAN RECORDINGS FOR COLLECTORS
+TRADE FREELY BUT PLEASE DO NOT SELL
+
+
+
+
+logfiles
+
+flac conversion
+
+Tom Petty-2015-12-19-tr01.wav:  successfully encoded to 'Tom Petty-2015-12-19-tr01.flac' (ratio = 0.449; 2268 bytes to be carried over for sector alignment).
+Tom Petty-2015-12-19-tr02.wav:  successfully encoded to 'Tom Petty-2015-12-19-tr02.flac' (ratio = 0.587; 76 bytes to be carried over for sector alignment).
+Tom Petty-2015-12-19-tr03.wav:  successfully encoded to 'Tom Petty-2015-12-19-tr03.flac' (ratio = 0.508; 2300 bytes to be carried over for sector alignment).
+Tom Petty-2015-12-19-tr04.wav:  successfully encoded to 'Tom Petty-2015-12-19-tr04.flac' (ratio = 0.556; 692 bytes to be carried over for sector alignment).
+Tom Petty-2015-12-19-tr05.wav:  successfully encoded to 'Tom Petty-2015-12-19-tr05.flac' (ratio = 0.503; 2116 bytes to be carried over for sector alignment).
+Tom Petty-2015-12-19-tr06.wav:  successfully encoded to 'Tom Petty-2015-12-19-tr06.flac' (ratio = 0.500; 28 bytes to be carried over for sector alignment).
+Tom Petty-2015-12-19-tr07.wav:  successfully encoded to 'Tom Petty-2015-12-19-tr07.flac' (ratio = 0.448; 588 bytes to be carried over for sector alignment).
+Tom Petty-2015-12-19-tr08.wav:  successfully encoded to 'Tom Petty-2015-12-19-tr08.flac' (ratio = 0.562; 1916 bytes to be carried over for sector alignment).
+Tom Petty-2015-12-19-tr09.wav:  successfully encoded to 'Tom Petty-2015-12-19-tr09.flac' (ratio = 0.532; 436 bytes to be carried over for sector alignment).
+Tom Petty-2015-12-19-tr10.wav:  successfully encoded to 'Tom Petty-2015-12-19-tr10.flac' (ratio = 0.577; 212 bytes to be carried over for sector alignment).
+Tom Petty-2015-12-19-tr11.wav:  successfully encoded to 'Tom Petty-2015-12-19-tr11.flac' (ratio = 0.611; 1788 bytes to be carried over for sector alignment).
+Tom Petty-2015-12-19-tr12.wav:  successfully encoded to 'Tom Petty-2015-12-19-tr12.flac' (ratio = 0.458; 520 bytes to be carried over for sector alignment).
+Tom Petty-2015-12-19-tr13.wav:  successfully encoded to 'Tom Petty-2015-12-19-tr13.flac' (ratio = 0.616; 1240 zero-bytes appended for sector alignment).
+
+No errors occured.
+
+
+verification
+
+Tom Petty-2015-12-19-tr01.flac:  tested ok (file is decodable without error).
+Tom Petty-2015-12-19-tr02.flac:  tested ok (file is decodable without error).
+Tom Petty-2015-12-19-tr03.flac:  tested ok (file is decodable without error).
+Tom Petty-2015-12-19-tr04.flac:  tested ok (file is decodable without error).
+Tom Petty-2015-12-19-tr05.flac:  tested ok (file is decodable without error).
+Tom Petty-2015-12-19-tr06.flac:  tested ok (file is decodable without error).
+Tom Petty-2015-12-19-tr07.flac:  tested ok (file is decodable without error).
+Tom Petty-2015-12-19-tr08.flac:  tested ok (file is decodable without error).
+Tom Petty-2015-12-19-tr09.flac:  tested ok (file is decodable without error).
+Tom Petty-2015-12-19-tr10.flac:  tested ok (file is decodable without error).
+Tom Petty-2015-12-19-tr11.flac:  tested ok (file is decodable without error).
+Tom Petty-2015-12-19-tr12.flac:  tested ok (file is decodable without error).
+Tom Petty-2015-12-19-tr13.flac:  tested ok (file is decodable without error).
+
+No errors occured.
+
+
+
+ffp
+
+Tom Petty-2015-12-19-tr01.flac:4152bfc0df3e0c4539c74e445d5783f5
+Tom Petty-2015-12-19-tr02.flac:3d7598d0a44686e9ac3bd6724ac9d3ee
+Tom Petty-2015-12-19-tr03.flac:932d1538516c59786fbbc5acd35fa3bb
+Tom Petty-2015-12-19-tr04.flac:5993223f1de062205e6d935a664118b7
+Tom Petty-2015-12-19-tr05.flac:9b64fb8133fc63790dca9a316f6024f3
+Tom Petty-2015-12-19-tr06.flac:2ff45cb86d4c6627ff149334d6f254f0
+Tom Petty-2015-12-19-tr07.flac:6f7d0b652212bb7ed06db3ae6c0cb123
+Tom Petty-2015-12-19-tr08.flac:9dbf66426004614592d972db29f3b736
+Tom Petty-2015-12-19-tr09.flac:f46a6632a1fcfb7f5450b946ff3b3011
+Tom Petty-2015-12-19-tr10.flac:a57901e4a267e2ad19395c613204d904
+Tom Petty-2015-12-19-tr11.flac:339633bb198bebd7a4b0c56853e8c624
+Tom Petty-2015-12-19-tr12.flac:4f23b7b5b0a3f1168c00b194d6e55111
+Tom Petty-2015-12-19-tr13.flac:b41c3961e07c468312fb6d30ca347e0d
+
+
+st5
+
+4152bfc0df3e0c4539c74e445d5783f5  [shntool]  Tom Petty-2015-12-19-tr01.flac
+3d7598d0a44686e9ac3bd6724ac9d3ee  [shntool]  Tom Petty-2015-12-19-tr02.flac
+932d1538516c59786fbbc5acd35fa3bb  [shntool]  Tom Petty-2015-12-19-tr03.flac
+5993223f1de062205e6d935a664118b7  [shntool]  Tom Petty-2015-12-19-tr04.flac
+9b64fb8133fc63790dca9a316f6024f3  [shntool]  Tom Petty-2015-12-19-tr05.flac
+2ff45cb86d4c6627ff149334d6f254f0  [shntool]  Tom Petty-2015-12-19-tr06.flac
+6f7d0b652212bb7ed06db3ae6c0cb123  [shntool]  Tom Petty-2015-12-19-tr07.flac
+9dbf66426004614592d972db29f3b736  [shntool]  Tom Petty-2015-12-19-tr08.flac
+f46a6632a1fcfb7f5450b946ff3b3011  [shntool]  Tom Petty-2015-12-19-tr09.flac
+a57901e4a267e2ad19395c613204d904  [shntool]  Tom Petty-2015-12-19-tr10.flac
+339633bb198bebd7a4b0c56853e8c624  [shntool]  Tom Petty-2015-12-19-tr11.flac
+4f23b7b5b0a3f1168c00b194d6e55111  [shntool]  Tom Petty-2015-12-19-tr12.flac
+b41c3961e07c468312fb6d30ca347e0d  [shntool]  Tom Petty-2015-12-19-tr13.flac
+
+
+md5
+
+09279d36382b94d1f5accfa088ad0885 *Tom Petty-2015-12-19-tr01.flac
+a26cfaa8ce08075d0a979c3f3d55e6d5 *Tom Petty-2015-12-19-tr02.flac
+327160eb82fa12baf1165df6845aecd9 *Tom Petty-2015-12-19-tr03.flac
+dda147087339179ccfd5b79361a392be *Tom Petty-2015-12-19-tr04.flac
+57c5c78fa29f7f127341e60b54de6324 *Tom Petty-2015-12-19-tr05.flac
+3c7a141ca9a9e236edc406eb2ffb7b41 *Tom Petty-2015-12-19-tr06.flac
+1ac9aaacb25285e355983fa9fcdd43f8 *Tom Petty-2015-12-19-tr07.flac
+895cd52c94adcd7c28c85de385fe5153 *Tom Petty-2015-12-19-tr08.flac
+4ca9c83126aedb8ddc59aa43ce10abe9 *Tom Petty-2015-12-19-tr09.flac
+d28e6f51ff221b74a229d77831f3444e *Tom Petty-2015-12-19-tr10.flac
+06897e5f47ba68c5f7c650d6f8a54a2c *Tom Petty-2015-12-19-tr11.flac
+e2e147eb70075f1a522af3745e758e6f *Tom Petty-2015-12-19-tr12.flac
+2b7e6dde07395bed579c19dcbaf938ba *Tom Petty-2015-12-19-tr13.flac
+
+
+
+

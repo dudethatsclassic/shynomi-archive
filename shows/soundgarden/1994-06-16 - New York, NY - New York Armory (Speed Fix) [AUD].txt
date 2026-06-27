@@ -1,0 +1,40 @@
+SOUNDGARDEN
+June 16, 1994
+New York Armory
+New York, NY, USA
+
+Recording info: unknown mic > unknown recorder
+Lineage: ANA(x) > CDR(1) > WAV [EAC Secure] > FLAC [8]
+Source: AUD #1
+Time: 105:20 
+Quality: 7.0
+
+Setlist: 
+1. Jesus Christ Pose
+2. Spoonman
+3. Let Me Drown
+4. Mailman
+5. The Day I Tried To Live
+6. My Wave
+7. I Awake
+8. Black Hole Sun
+9. Searching With My Good Eye Closed
+10. Superunknown
+11. Rusty Cage
+12. Half
+13. Mind Riot
+14. Fell On Black Days
+15. Drawing Flies
+16. Slaves And Bulldozers
+17. Kickstand
+18. Face Pollution
+19. Like Suicide
+20. CC acapella
+21. Head Down
+22. Limo Wreck
+
+Originally encoded: December 24, 2008
+Seeded on DIME: December 25, 2008
+
+Notes: A legendary performance in front of a hot, sweaty, steamy crowd with no water or ventilation. Artis joins the band for "Spoonman". The encore suffers from some sort of tape degradation that makes it sound as though it's in the wrong key. There is a also a tape flip during "Superunknown". Sorry! These problems are on my source cassette.
+Remaster notes: The encore suffered from speed and pitch problems. I corrected these in Audacity so that the encore matches the rest of the show. 

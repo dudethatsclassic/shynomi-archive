@@ -1,0 +1,31 @@
+SOUNDGARDEN
+April 16, 1990
+Phillipshalle (Rockpalast)
+Dusseldorf, West Germany
+
+Source: professional video > Satellite Feed
+Generation: VID (M) > satellite > DAT(1) > CDR(1) > WAV [EAC Secure] > FLAC [8]
+Quality: 9.8
+Time: 40:31
+
+Tracklist:
+1. Flower
+2. Hands All Over
+3. Gun
+4. Loud Love
+5. Get On The Snake
+6. Full On Kevin's Mom
+7. I Awake
+8. (Hey Jude)/Beyond The Wheel
+
+Originally encoded January 2009.
+
+Fingerprints:
+08 - Beyond The Wheel.flac:217a7b3cca81c324bf004dba198a4bf2
+01 - Flower.flac:adb887654c9a782fd1a56e06c108ce8d
+02 - Hands All Over.flac:abbf6eb4eab065ead25123d38faecc0b
+03 - Gun.flac:a294a0f355d59a82f3a9262cc5806cd1
+04 - Loud Love.flac:4ec472791cd1bddae720c18a88127d74
+05 - Get On The Snake.flac:b292c2041b3c179d91f6e14e9de4b8e9
+06 - Full On Kevin's Mom.flac:d3d592a0270ac748884a677adffb2d73
+07 - I Awake.flac:929f9aade257dd68a98ad504f9e81982

@@ -1,0 +1,19 @@
+Sonic Youth
+- 08/29/02  Music Millennium (in-store) - Portland, OR
+
+DISC #1/1 (37:41)
+01) intro
+02) The Empty Page
+03) Rain On Tin
+04) Plastic Sun
+05) Disconnection Notice
+06) Karenology
+
+Generation = DAT(M) [48kHz] -> WAV [Resampled to 44.1kHz] -> FLAC
+Source     = Core Sound Binaural -> Sony TCD-D100
+Transfer   = Tascam DA-20 MKII -> Apogee 2 meter S/PDIF cable -> LynxONE digital-in -> 
+          Sound Forge 7.0 -> CD Wave Editor -> FLAC Frontend
+
+Recorded and transferred by Mike Ziegler.
+
+PLEASE DO NOT ENCODE TO MP3 OR SELL!

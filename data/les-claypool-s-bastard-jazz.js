@@ -20,9 +20,10 @@ const ARTIST_DATA = {
       "state": "LA",
       "location": "New Orleans, LA",
       "venue": "Orpheum Theatre",
-      "notes": "MBHO KA200N · unk",
+      "notes": "MBHO KA200N \u00b7 unk",
       "version": "AUD",
-      "format": "FLAC 24"
+      "format": "FLAC 24",
+      "textFile": "2022-04-28 - New Orleans, LA - Orpheum Theatre (MBHO KA200N) (unk) [AUD].txt"
     },
     {
       "year": 2022,
@@ -33,9 +34,10 @@ const ARTIST_DATA = {
       "state": "LA",
       "location": "New Orleans, LA",
       "venue": "Orpheum Theatre",
-      "notes": "Sennheiser Ambeo Binaural · grizzly adams",
+      "notes": "Sennheiser Ambeo Binaural \u00b7 grizzly adams",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "2022-04-28 - New Orleans, LA - Orpheum Theatre (Sennheiser Ambeo) (grizzly adams) [AUD].txt"
     },
     {
       "year": 2022,
@@ -46,9 +48,10 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "Los Angeles, CA",
       "venue": "John Anson Ford Amphitheatre",
-      "notes": "CA-11 · leifh",
+      "notes": "CA-11 \u00b7 leifh",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "2022-07-29 - Los Angeles, CA - John Anson Ford Amphitheatre (CA-11) (leifh) [AUD].txt"
     },
     {
       "year": 2022,
@@ -59,9 +62,10 @@ const ARTIST_DATA = {
       "state": "CO",
       "location": "Denver, CO",
       "venue": "Ogden Theater",
-      "notes": "Olympus LS-P4 · bluejane99",
+      "notes": "Olympus LS-P4 \u00b7 bluejane99",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "2022-08-06 - Denver, CO - Ogden Theater (Olympus LS-P4) (bluejane99) [AUD].txt"
     },
     {
       "year": 2022,
@@ -72,9 +76,10 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "Napa, CA",
       "venue": "Jam Cellars Ballroom",
-      "notes": "CA-11 · leifh",
+      "notes": "CA-11 \u00b7 leifh",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "2022-12-31 - Napa, CA - Jam Cellars Ballroom (CA-11) (leifh) [AUD].txt"
     },
     {
       "year": 2022,
@@ -85,9 +90,10 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "Napa, CA",
       "venue": "Jam Cellars Ballroom",
-      "notes": "Sennheiser Ambeo · grizzly adams",
+      "notes": "Sennheiser Ambeo \u00b7 grizzly adams",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "2022-12-31 - Napa, CA - Jam Cellars Ballroom (Sennheiser Ambeo) (grizzly adams) [AUD].txt"
     },
     {
       "year": 2023,
@@ -98,9 +104,10 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "San Francisco, CA",
       "venue": "Great American Music Hall",
-      "notes": "CA-11 · leifh",
+      "notes": "CA-11 \u00b7 leifh",
       "version": "AUD",
-      "format": "FLAC 24"
+      "format": "FLAC 24",
+      "textFile": "2023-12-31 - San Francisco, CA - Great American Music Hall (CA-11) (leifh) [AUD24].txt"
     },
     {
       "year": 2025,
@@ -111,9 +118,10 @@ const ARTIST_DATA = {
       "state": "",
       "location": "Knoxville TN",
       "venue": "Big Ears Festival",
-      "notes": "Google Pixel · esamirp",
+      "notes": "Google Pixel \u00b7 esamirp",
       "version": "AUD",
-      "format": "FLAC 24"
+      "format": "FLAC 24",
+      "textFile": "2025-03-28 - Knoxville TN - Big Ears Festival (Google Pixel) (esamirp) [AUD24].txt"
     },
     {
       "year": 2025,
@@ -124,9 +132,10 @@ const ARTIST_DATA = {
       "state": "TN",
       "location": "Knoxville, TN",
       "venue": "The Mill & Mine",
-      "notes": "Shure MV88 · mr. mountjoy · inc",
+      "notes": "Shure MV88 \u00b7 mr. mountjoy \u00b7 inc",
       "version": "AUD",
-      "format": "FLAC 24"
+      "format": "FLAC 24",
+      "textFile": "2025-03-28 - Knoxville, TN - The Mill & Mine (Shure MV88) (mr. mountjoy) (inc) [AUD24].txt"
     },
     {
       "year": 2025,
@@ -137,9 +146,10 @@ const ARTIST_DATA = {
       "state": "Japan",
       "location": "Kakegawa, Japan",
       "venue": "Tsumagoi Resort at Event Hall",
-      "notes": "CA-11 · leifh",
+      "notes": "CA-11 \u00b7 leifh",
       "version": "AUD",
-      "format": "FLAC 24"
+      "format": "FLAC 24",
+      "textFile": "2025-11-02 - Kakegawa, Japan - Tsumagoi Resort at Event Hall (CA-11) (leifh) [AUD24].txt"
     }
   ],
   "misc": []

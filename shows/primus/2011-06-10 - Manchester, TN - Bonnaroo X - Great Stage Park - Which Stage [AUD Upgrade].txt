@@ -1,0 +1,50 @@
+Primus
+Friday, June 10th, 2011 - 21:15
+Which Stage - Bonnaroo X
+Great Stage Park,
+Woodland Avenue and South 1st Avenue,
+Manchester, TN, USA
+
+Taper: LeifH
+Source: CSB's (filter) > Sony WM D6C (Dolby B) > Sony CDiT IV 100 + 94 (Type IV)
+Transfer: Master cassettes > Sony WM D6C (Dolby off; azimuth adjusted) > Sony PCM M10 @ 24/96 > Lexar 16GB microSD card > PC via USB > Wavepad Master's Edition (edits, tracking, downsample to 16/44.1) > flac (8) via Frontend
+
+Setlist: 1:43:56
+00 intro music
+01 Groundhog's Day
+02 Prelude to a Crawl >
+03 Hennepin Crawler
+04 American Life
+05 Harold of the Rocks > Tracy Morgan rant
+06 The Last Salmon Man (Fisherman's Chronicles, Part IV)
+07 Over The Falls
+08 Tragedy's a' Comin'
+09 Jerry Was a Race Car Driver
+10 Over The Electric Grapevine
+11 Jilly's On Smack
+12 Green Ranger
+13 Those Damn Blue-Collar Tweekers >
+14 Tommy The Cat
+
+The original version of this I released was not the best transfer.  This particular Sony Walkman I was using to record had a slipping azimuth and it would change drastically over each tape side for certain brands.  If you have the other version, this is a huge upgrade and you should replace the old one with this.  I've adjusted the azimuth during playback using an identical unit and recorded it at 24/96 for the best results.  The sound was near perfect at this show and the recording is one of my best.  I was on the left side of the centre barrier and about 20' in front of the soundboard, as dead centre as you can get.  Mics were about 7' high.  This sounds best really loud!
+
+Very good to see Primus again!  Same equipment, slightly better tapes.  It was as good or better than the first time.  I really like when bands like Primus vary their setlists instead of playing the same stuff all the time.  The weather was very nice this night with basically no wind.  Also, 5 new songs, and they're all pretty cool.  Some poor kid passed out and hit their head before Primus started and was removed from the crowd by "Safety."  Les adds his thoughts on Tracy Morgan during the show (I guess Morgan said something along the lines of 'If my kid was gay I'd kill them' earlier the month during his act), and seems to enjoy playing at this festival more than once.  Just before the first chorus of Tragedy, Les' wireless disconnected or something, causing his bass to go silent.  They stopped the song and took off from the chorus.  During Electric Grapevine, there were some hang-gliders with spotlights on their helmets and they dispensed large amounts of a glitter like substance.  This made it look like it was raining fireworks.  As a result, you can hear the crowd reacting as this all happens to the left of the stage.  Ler cut his hair since the last time I saw Primus.  At the end, Les waved his hat and everyone wanted more, but it didn't happen.  This seems to be every show.  I find Les sometimes over-does the effects on his bass but this show was free of any of that.  I'm sure it helped that it was outdoors as well.  
+
+There is some great official footage of this show, only parts are available to view online, but it is good.  I left this show and tried to get some sleep, but due to being in the closest "campsite" to the main gate, I was kept well awake by Lil' Wayne and everything else going on, especially at That Tent.
+
+fingerprints:
+00 - intro music.flac:4661cba1874ad23c6a527c41b450d340
+01 - Groundhog's Day.flac:5732e30f18a43fad84fec73479988947
+02 - Prelude to a Crawl.flac:5c9e4f9a214df7ccd8f0da118bfa7a9e
+03 - Hennepin Crawler.flac:da6bf7a524211558ddc9e01b75275c5e
+04 - American Life.flac:f41fee8d172f59e5d1e27fb9880403a9
+05 - Harold of the Rocks.flac:9813c16641bd103e2823068aee03d67e
+06 - The Last Salmon Man.flac:8aea35c9fcb79bc259cc054d227764f1
+07 - Over the Falls.flac:dd43a1fbdf44bf5d9cd30df1d237af47
+08 - Tragedy's a' Comin'.flac:ec675a1da7ed9a001c8f9bfcc6ab5c7c
+09 - Jerry Was a Race Car Driver.flac:5123cecfbe9478b998934feef7f0ba00
+10 - Over the Electric Grapevine.flac:21d978854ac1753c6f579751e9b13748
+11 - Jilly's on Smack.flac:ee715d758eaa476e880c07b98cbbd77a
+12 - Green Ranger.flac:f8a4d6a710eff1abe3d15750ebe79727
+13 - Those Damned Blue-Collar Tweekers.flac:4789878067c8d0065cf117d3deac2129
+14 - Tommy the Cat.flac:ed2d096dfd4287cccbd7e217757e9cbf

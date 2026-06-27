@@ -1,0 +1,50 @@
+Primus
+November 18, 2006
+Eagles Ballroom
+Milwaukee, WI
+
+Taped and transferred by Steve B.
+busterr024 at sbcglobal dot net
+
+Source: AKG 414 TL2s(hyper cardioid)> Lunatec V3(50hz rolloff)>Sony D8 (16/48)
+Location: FOB dead center @ 8'
+Transfer: Sony D8> Soundblaster Extigy> Soundforge(resample to 44.1khz)> CD Wave> flac level 6
+
+
+disc 1:
+
+01. Intro
+02. Here Come the Bastards
+03. Frizzle Fry
+04. Those Damned Blue Collar Tweekers
+05. Seas of Cheese
+06. De Anza Jig *
+07. Drums
+08. Eleven
+
+disc 2:
+01. Southbound Pachyderm
+02. Sgt. Baker
+03. Shake Hands With Beef
+04. Jerry Was A Race Car Driver
+Encore
+05. Is It Luck
+
+*= w/ South Park Theme Tease
+
+
+flac fingerprint
+-----------------------------------------------------------
+primus2006-11-18d1t01.flac:257cdc9bef9ec0be684c2f2c1c6eccb7
+primus2006-11-18d1t02.flac:736da4a09fa12ad3afca7b6a12e74c5e
+primus2006-11-18d1t03.flac:221041bb8ee021b9bc24c769230bd1cc
+primus2006-11-18d1t04.flac:973849898d616f807498efddc1b58b30
+primus2006-11-18d1t05.flac:12269f07c4a13e846d474842a5ecc946
+primus2006-11-18d1t06.flac:bcaa52f242705830eebc03a199e94efc
+primus2006-11-18d1t07.flac:6f75ab427f72f941786ed78b48c60dca
+primus2006-11-18d1t08.flac:06a443c8b4fa0a6e072a382c3ce49a62
+primus2006-11-18d2t01.flac:396721845defe41142bc15b0feca5a0b
+primus2006-11-18d2t02.flac:29020823e5a394dcf7964a6228cfd13f
+primus2006-11-18d2t03.flac:33921f907f0519f5feab0d602d22ad51
+primus2006-11-18d2t04.flac:a45ad38ef66a4ba6d2af0ddc8f199bd1
+primus2006-11-18d2t05.flac:8e8ff5a5a08858704dd653001f81c4a6

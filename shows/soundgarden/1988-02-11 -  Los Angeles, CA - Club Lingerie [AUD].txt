@@ -1,0 +1,39 @@
+SOUNDGARDEN
+February 11, 1988
+Club Lingerie
+Los Angeles, CA, USA
+
+Source: unknown amateur video
+Generation: VID(x) > CDR(x) > WAV [EAC Secure] > FLAC [8]
+Quality: 7.5
+Time: 43:27
+
+Tracklist:
+1. Hunted Down
+2. Entering
+3. Tears To Forget
+4. Fopp
+5. Power Trip
+6. Little Joe
+7. Hand Of God
+8. He Didn't
+9. Smokestack Lightning
+10. Circle Of Power
+11. Working Man > Communication Breakdown
+12. Nothing To Say
+
+Originally encoded February 2009.
+
+Fingerprints:
+01 - Hunted Down.flac:14b91cbc82b34f15fe840228cf34d135
+02 - Entering.flac:b4682b5ca4a523e5c1c2d860002f270e
+03 - Tears To Forget.flac:9841278861030641740d336b726242bd
+04 - Fopp.flac:94aa802456d15bb9d627587bbd7127fb
+05 - Power Trip.flac:5dc360368f73538ebce613e3570fb877
+06 - Little Joe.flac:d58804a9d7831e0e63e19c194a148efd
+07 - Hand Of God.flac:c4ac3389963cb3031ff2cfcad2c173dd
+08 - He Didn't.flac:fe514940c972eb2397ee166800d4292e
+09 - Smokestack Lightning.flac:f7432cf290e770bb62cf1bd2fe16aaf6
+10 - Circle Of Power.flac:68fa9c0fd78a9962d5a6b7bac863805d
+11 - Working Man + Communication Breakdown.flac:2210919aaa13b89800f30eac94f7cf0c
+12 - Nothing To Say.flac:814923628f5525cd5b19178ed6e81f55

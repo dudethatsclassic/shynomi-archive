@@ -1,0 +1,90 @@
+Claypool Gold
+May 22nd, 2026 (Friday)
+Hayden Homes Amphitheatre
+Bend, Oregon
+
+Main Source:  Sennheiser Ambeo > iPhone > Apogee MetaRecorder - Recorded by Grizzly Adams
+Patch:  built in > Pixel > PCM Recorder - Recorded by esamirp
+Transfer:  .WAV > RX9 > Wavepad > flac (8) via TLH
+
+Setlist:  02:30:22
+[The Les Claypool Frog Brigade]
+101 intro
+102 Rumble of the Diesel
+103 Riddles Are Abound Tonight
+104 Hendershot
+105 Buzzards of Green Hill
+[The Claypool Lennon Delirium]
+201 intro
+202 WAP
+203 South of Reality
+204 Cricket and the Genie
+205 Troll Bait
+206 Golden Egg
+207 Astronomy Domine (with all bands)
+[Primus]
+301 intro
+302 Wynona's Big Brown Beaver
+303 Fisticuffs
+304 Groundhog's Day > Polkadot Rose
+305 The Ol' Grizz
+306 Jilly's on Smack
+307 Restin' Bones
+308 Bob's Party Time Lounge
+309 Welcome to This World > 
+310 Jerry Was a Race Car Driver
+-encore-
+311 Holy Diver tease
+312 Duchess and the Proverbial Mind Spread
+313 Here Come the Bastards
+314 Southbound Pachyderm (with all bands)
+
+Frog Brigade is: 
+Les Claypool - bass, vocals
+Harry Waters - keyboards
+Mike Dillon - percussion
+Skerik - saxophone
+Sean Lennon - guitar
+Paulo Baldi - drums
+
+Delirium is: 
+Les Claypool - bass, vocals
+Harry Waters - keyboards
+Sean Lennon - guitar
+Paulo Baldi - drums
+
+Primus is: 
+Les Claypool - bass, vocals
+Larry "Ler" LaLonde - guitar
+John "Hoffer" Hoffman - drums
+
+Second stop on the tour.  A teaser of the forthcoming Primus documentary was shown during a brief intermission between Delirium and Primus.
+Both recordings were made front and center, so there is a fair bit of audience noise at times.  
+
+fingerprints:
+ClaypoolGold2026-05-22BendOR101.flac:3382d595314a677da68b80c06b371a78
+ClaypoolGold2026-05-22BendOR102.flac:5eaee8a9ab08ce486efd1075b7f11118
+ClaypoolGold2026-05-22BendOR103.flac:e94710d7216893970a49620331906ddc
+ClaypoolGold2026-05-22BendOR104.flac:4b90ff60565ed9e9ab11e4f173a26fb6
+ClaypoolGold2026-05-22BendOR105.flac:e0f65e1614390fc8a19c21848f88bc54
+ClaypoolGold2026-05-22BendOR201.flac:77a6877d377b8befb05858dd33d1ecc0
+ClaypoolGold2026-05-22BendOR202.flac:76c0c86e252b7493d5a3457999063fef
+ClaypoolGold2026-05-22BendOR203.flac:47439e387bb78c3bcfa977a95a48e257
+ClaypoolGold2026-05-22BendOR204.flac:73fbbce54f365cac123b6d456bee1f36
+ClaypoolGold2026-05-22BendOR205.flac:7f058271fdee8b26e8cddac5235e9cdd
+ClaypoolGold2026-05-22BendOR206.flac:054a3d00a5b7ede6e8e74c43c3e36389
+ClaypoolGold2026-05-22BendOR207.flac:d7dec51b7dc5860c35bf12c5130262b7
+ClaypoolGold2026-05-22BendOR301.flac:cd226d1f04d68786331eff348056d35e
+ClaypoolGold2026-05-22BendOR302.flac:3eb30843b5d7f1b82b38de727463a09f
+ClaypoolGold2026-05-22BendOR303.flac:019452fbc66054eaa0eacb1961d2f255
+ClaypoolGold2026-05-22BendOR304.flac:286606af4a32ada2e9099eea02b08af3
+ClaypoolGold2026-05-22BendOR305.flac:7d2c230310c1d97436f950fd020d6482
+ClaypoolGold2026-05-22BendOR306.flac:1d7e1a63af794bf15e4cb9a54c17fdc9
+ClaypoolGold2026-05-22BendOR307.flac:a4ea2d98ec87eb3de0a01437fe2ab327
+ClaypoolGold2026-05-22BendOR308.flac:f05b493f6d1459aef1681fa68e7245a3
+ClaypoolGold2026-05-22BendOR309.flac:5319b1f8df25893c9d9630ddd0316c70
+ClaypoolGold2026-05-22BendOR310.flac:847862f56b3d8cc9eae695705e4479f4
+ClaypoolGold2026-05-22BendOR311.flac:ebd92b7e9fcf5fdf619a6baeca5533c6
+ClaypoolGold2026-05-22BendOR312.flac:5838c79f95a622e3e6103d3d42d9d9bf
+ClaypoolGold2026-05-22BendOR313.flac:ad54987ab47c3f872304be6bce9ae4f5
+ClaypoolGold2026-05-22BendOR314.flac:113c3c5dc27749d430b6ef2d58e5b6a6

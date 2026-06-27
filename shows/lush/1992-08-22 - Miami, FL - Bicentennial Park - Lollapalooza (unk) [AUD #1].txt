@@ -1,0 +1,57 @@
+LUSH
+August 22, 1992
+Bicentennial Park (Lollapalooza '92)
+Miami, FL, US
+
+SETLIST:
+-------------------
+01. Stray >
+02. Bitter
+03. Nothing Natural
+04. For Love
+05. Superblast!
+06. Convert >
+07. De-Luxe
+08. Downer
+09. Sweetness and Light
+10. Starlust
+11. Leaves Me Cold
+
+
+SOURCE:
+-------------------
+AUD #1 - Quality: 9.0
+unknown > unknown
+
+TRANSFER:
+-------------------
+unknown mic > unknown cassette recorder > unknown transfer to CD > Lollapalooza '92 (Lush/Jesus & Mary Chain) [KTS-114] > LG HL-DT-STDVDRAM GP57ES40 External Drive > Exact Audio Copy v1.6 > Adobe Audition 23.3 [re-tracking] > xACT 2.52 > FLAC [Level 8]
+
+GENERATION:
+-------------------
+Unofficial CD ["Lollapalooza '92" bootleg] > WAV [44.1kHz/16-bit] > FLAC [Level 8]
+
+NOTES:
+-------------------
+- This fileset was properly ripped straight from the bootleg CD, with proper re-tracking following the transfer.
+- No EQ'ing was implemented.
+
+
+FLAC FINGERPRINTS:
+-------------------
+lush1992-08-22-aud1-t00.flac:f898508dfcfcb974d58ef8d46cead2b8
+lush1992-08-22-aud1-t01.flac:1c67b163f2e8999a812d5c0227220517
+lush1992-08-22-aud1-t02.flac:cba6f72ef99329174b297853e515a938
+lush1992-08-22-aud1-t03.flac:a643d01322de7f14e61b10006cc45198
+lush1992-08-22-aud1-t04.flac:3b01cacaf2a59940e8af1a28afe9b67e
+lush1992-08-22-aud1-t05.flac:c0d93dbb1c245b428c847bfc34902313
+lush1992-08-22-aud1-t06.flac:7ae75e7e2fe2ea8996d1c940295e0c5b
+lush1992-08-22-aud1-t07.flac:a47aa34d9648ad08ee8fe2faf5d57df2
+lush1992-08-22-aud1-t08.flac:d6bee326e4d8368910157badd2a7464d
+lush1992-08-22-aud1-t09.flac:d0b62f9338ed4e2f088da829336a4685
+lush1992-08-22-aud1-t10.flac:859b96e405669ea62dbd66ee5f54cc5d
+lush1992-08-22-aud1-t11.flac:3336880870ede05f7efa3fd33a212c7d
+
+
+Transferred and encoded by: Chris Jonasson & vibrioidxire
+PLEASE DO NOT DISTRIBUTE IN LOSSY FORMATS OR SELL!

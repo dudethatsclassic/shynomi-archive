@@ -1,0 +1,26 @@
+auCDtect: CD records authenticity detector, version 0.8.2
+Copyright (c) 2004 Oleg Berngardt. All rights reserved.
+Copyright (c) 2004 Alexander Djourik. All rights reserved.
+
+Detect mode (0..40 with 0 = most accurate):  8 (default)
+
+
+01-Rock 'n' Roll Star.wav:  track looks like CDDA with probability 100%.
+02-Columbia.wav:  track looks like CDDA with probability 100%.
+03-Fade Away.wav:  track looks like CDDA with probability 100%.
+04-Digsy's Dinner.wav:  track looks like CDDA with probability 100%.
+05-Shakermaker.wav:  track looks like CDDA with probability 100%.
+06-Live Forever.wav:  track looks like CDDA with probability 100%.
+07-Headshrinker.wav:  track looks like CDDA with probability 100%.
+08-Up In The Sky.wav:  track looks like CDDA with probability 100%.
+09-Bring It On Down.wav:  track looks like CDDA with probability 100%.
+10-Slide Away.wav:  track looks like CDDA with probability 100%.
+11-(It's Good) To Be Free.wav:  track looks like CDDA with probability 100%.
+12-Cigarettes & Alcohol.wav:  track looks like CDDA with probability 100%.
+13-Married With Children.wav:  track looks like CDDA with probability 100%.
+14-Supersonic.wav:  track looks like CDDA with probability 100%.
+15-I Am The Walrus.wav:  track looks like CDDA with probability 100%.
+
+No errors occured.
+
+Test for MPEG log saved to file.

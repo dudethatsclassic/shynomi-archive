@@ -1,0 +1,72 @@
+Soundgarden
+Rogers Arena
+Vancouver, BC
+July 29, 2011
+
+** 16 BIT **
+
+Source:  SP-CMC-8 cardioids > SP-SPSB-7 > Edirol R-09HR @ 24 bit/48 kHz
+Mastering:  .WAV > iZotope RX7 Advanced v7.01.315 (De-click) > Sound Forge Pro 14.0 Build 130 [minor edits, normalize, & fades, Boz Digital Labs T-Bone plug-in (slant EQ)] > CDWav 
+(tracking) > iZotope MBIT+ (dithered and downsampled to 16 bit/44.1 kHz) > Trader's Little Helper (level 5) > FLAC > TagScanner 6.0.35 (tagging)
+Location:  Section S214, Row 1, Seat 6
+Recorded by:  Chris Bold
+Mastered by:  Dennis Orr
+
+Setlist: (1:57:08)
+01 Crowd/Intro
+02 Searching With My Good Eye Closed
+03 Spoonman
+04 Gun
+05 Jesus Christ Pose
+06 Blow Up The Outside World
+07 The Day I Tried To Live
+08 My Wave
+09 Burden In My Hand
+10 Ugly Truth
+11 Fell On Black Days
+12 Loud Love
+13 Chat
+14 Drawing Flies
+15 Black Hole Sun
+16 Chat
+17 Outshined
+18 Rusty Cage
+19 Superunknown
+20 4th Of July
+21 Encore Break
+- Encore -
+22 Band Intros
+23 Beyond The Wheel
+24 Mailman
+25 Slaves & Bulldozers
+
+Chris Cornell – lead vocals & rhythm guitar
+Kim Thayil – lead guitar
+Ben Shepherd – bass & backing vocals
+Matt Cameron – drums & backing vocals
+
+Soundgarden2011-07-29t01.flac:25f864f54c3be51ff56ddd5b73095f8b
+Soundgarden2011-07-29t02.flac:2162bbbf603fe640c23c9ff57a254c61
+Soundgarden2011-07-29t03.flac:5f6702af1c12b5ed0518cdd9c204a3e2
+Soundgarden2011-07-29t04.flac:04c75c0193b0781c4569d03ab6ea38af
+Soundgarden2011-07-29t05.flac:df60d35d46719b3070caacd9fa7b3055
+Soundgarden2011-07-29t06.flac:43fe72335e0729e0c8bd920de9f7dedb
+Soundgarden2011-07-29t07.flac:860ca05f5887d66b466718f89f1e1e0c
+Soundgarden2011-07-29t08.flac:a4bfec4e2b72ef3c06ee63c868b213c9
+Soundgarden2011-07-29t09.flac:5bf61be59f940c9af9712b58a9d3cf13
+Soundgarden2011-07-29t10.flac:daaf090fa56d52d36c8d952ba94e845d
+Soundgarden2011-07-29t11.flac:5a1ee69968b642430d6cb04529cf4e94
+Soundgarden2011-07-29t12.flac:dec5c3e34bdffaf5ae3321fb31977a4a
+Soundgarden2011-07-29t13.flac:dc084c1a2303e0b0b50e52b3956d4604
+Soundgarden2011-07-29t14.flac:3f072bdc83906af819decb3838118932
+Soundgarden2011-07-29t15.flac:4350c4bcd5f1e5c5c2e0ddf8c52343df
+Soundgarden2011-07-29t16.flac:e0eee4a1caa6b29950ef04f38812232f
+Soundgarden2011-07-29t17.flac:e04e2bb01d3aeb453841033e3e01fcb0
+Soundgarden2011-07-29t18.flac:95692f8a715c5547e2c20b6a66c0efec
+Soundgarden2011-07-29t19.flac:0e3441df6653f6cc1cd7b78a965bac2d
+Soundgarden2011-07-29t20.flac:24e117121ad07bb4eb2da89ecfb3a647
+Soundgarden2011-07-29t21.flac:82e2ffe3d4897d3fba73ed2b4a18317d
+Soundgarden2011-07-29t22.flac:ae79805e03c80fb3d63e12ce2e874a64
+Soundgarden2011-07-29t23.flac:1a843d38339dd8eadab62cb78104309d
+Soundgarden2011-07-29t24.flac:79183236577ddede9437fbe1303c5f13
+Soundgarden2011-07-29t25.flac:b5a0c8284f55c7c0b3ff18f5281cae92

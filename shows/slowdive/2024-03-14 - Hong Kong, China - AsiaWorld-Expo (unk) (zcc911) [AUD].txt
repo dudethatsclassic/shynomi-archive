@@ -1,0 +1,29 @@
+Slowdive
+14th March 2024
+AsiaWorld-Expo, Hong Kong
+
+lineage: aud recording -> x -> untracked .flac file -> tracking, md5 file, sbe fix
+
+setlist:
+
+shanty
+star roving
+catch the breeze
+skin in the game
+crazy for you
+souvlaki space station
+sleep
+chained to a cloud
+slomo
+kisses
+alison
+when the sun hits
+40 days
+------------------------
+sugar for the pill (encore)
+dagger (encore)
+golden hair (encore)
+
+notes:
+audio and photos were taken by reddit user zcc911. They shared the lossy recording on soundcloud, so I gently asked them for the original lossless file and the permission to share it.
+I don't know the lineage of this recording since they didn't specify what they used for recording this gig.

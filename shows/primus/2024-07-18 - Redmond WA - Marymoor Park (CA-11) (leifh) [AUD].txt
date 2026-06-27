@@ -1,0 +1,56 @@
+Primus
+Thursday July 18th, 2024
+Marymoor Park
+6046 West Lake Sammamish Pkwy NE
+Redmond, Washington
+
+Taper:  LeifH [2024#18b]
+Source:  CA-11 > A10 - left stacks, ~15-20' back
+Transfer:  PC via USB > RX9 > Wavepad > flac (8) via TLH
+
+Setlist:  01:39:36
+01 intro
+02 Those Damned Blue-Collar Tweekers
+03 Last Salmon Man
+04 Nature Boy
+05 The Pressman
+06 Jilly's on Smack
+07 Mr. Krinkle
+08 My Friend Fats
+09 Welcome to This World > 
+10 My Name is Mud
+11 Mrs. Blaileen
+12 Jerry Was a Race Car Driver
+-encore-
+13 Here Come the Bastards [*]
+14 Frizzle Fry
+
+Les Claypool - vocals, bass
+Larry "Ler" LaLonde - guitar, vocals
+Tim "Herb" Alexander - drums, vocals
+--plus guest--
+Skerik - baritone saxophone [*]
+
+My 45th Primus show.  Summer tour with Guerilla Toss and Coheed & Cambria opening up (all three acts recorded).  Wasn't going to attend this one, but the night before made a last minute decision to go to both this show and the following night in Troutdale, OR.  Forever indebted to esamirp for picking me up from Sea-Tac that morning on the way to Marymoor Park.  
+
+Both Coheed and Primus had their own VIP add-on packages which got you in the venue early in addition to other bonuses.  We had regular tickets to this show and since we were plenty early, we joined the general admission queue in anticipation of the gates opening at 16:30.  Part of Coheed's VIP package was a pre-show acoustic set, which didn't begin until 16:30, leaving us stranded in the sun for an extra 20-30 minutes while our ears were tortured by C&C Unplugged from outside the fence.  
+
+Guerilla Toss took the stage at 18:00 and performed for 30 minutes.  They were lots of fun.  Coheed & Cambria started about 18:45 and played for an hour.  Having seen them before at a festival I wasn't very interested to see them on this tour lineup, and that feeling was only solidified a few short minutes into their performance.  Its definitely interesting to notice the differences in fan bases and thankfully many C&C fans left their near-stage posts following the set.  
+
+Primus began around 20:20 and the crowd was very active.  Lots of moshing and crowd-surfing.  Things got especially lively during Nature Boy.  Les told a funny origin story about Jerry Was A Race Car Driver before playing the song.  Local Seattleite and Claypool alumni Skerik joined in on Here Come The Bastards.  The concert concluded with a bang as the band played Frizzle Fry, accompanied by some updated visuals on the rear-projection screens behind them.  Even a couple on-duty cops were seen rocking out just off to the side of the front rail.  
+
+fingerprints:
+Primus2024-07-18t01 - intro.flac:6b89fb41f75d66ecffb63a6913c8e8fb
+Primus2024-07-18t02 - Those Damned Blue Collar.flac:932a6bf267b4c11e09532ea56f174f5b
+Primus2024-07-18t03 - Last Salmon Man.flac:1911756005712bc1349f6c8bbbcd6cc8
+Primus2024-07-18t04 - Nature Boy.flac:f4c274b1ea4e1af09687454bd2ba98fa
+Primus2024-07-18t05 - Pressman.flac:c992b9238398a2ba9cfe8e16e4f2ab62
+Primus2024-07-18t06 - Jillys on Smack.flac:b79b1d3be943e9102cfb9dedfaf7f705
+Primus2024-07-18t07 - Mr Krinkle.flac:096225b91aa7334aef0f5396fe91dc57
+Primus2024-07-18t08 - My Friend Fats.flac:47f823a70df75d968edb0d4d7ef20268
+Primus2024-07-18t09 - Welcome To This World.flac:e093bfa3b4b3ec8a85e5e66c351e4999
+Primus2024-07-18t10 - My Name is Mud.flac:0dea2b73e5434d40f46864ba4dcc21a0
+Primus2024-07-18t11 - Mrs Blaileen.flac:01c34186bcc39dee54156e03c0e3651b
+Primus2024-07-18t12 - Jerry Was a Race Car Driver.flac:2ccc447f782cab1846dbe397d258b31f
+Primus2024-07-18t13 - Here Come The Bastards.flac:0960f1f2e7fb7dfb0aaa4a6639854481
+Primus2024-07-18t14 - Frizzle Fry.flac:c7b79d19158b3ef2c90b166df11189b5

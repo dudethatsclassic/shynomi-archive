@@ -1,0 +1,54 @@
+---------------------------------------------------------------------------
+Artist: Oasis
+Date: 2009-01-12
+Location: Zénith de Nantes Métropole
+Nantes
+France
+---------------------------------------------------------------------------
+Recorded, transferred & encoded by: Antoine V.
+http://db.etree.org/avtaper
+---------------------------------------------------------------------------
+Generation: Aud>Soundman OKM II Rock-Studio>Soundman A3>Edirol R-09
+>Wav(24/48)>Flac24
+---------------------------------------------------------------------------
+Lineage: Aud
+>Soundman OKM II Rock-Studio
+>Soundman A3
+>Edirol R-09
+>.Wav(24bits/48khz)
+>Cool Edit Pro 2.1
+>CD Wave Editor 1.97
+>Trader's Little Helper
+>flac24 (Level 8)
+---------------------------------------------------------------------------
+Total time: 1:42:22
+Fileset size: 1.02GB
+---------------------------------------------------------------------------
+Note: 
+---------------------------------------------------------------------------
+Setlist: 
+t01: Intro
+t02: Rock 'n' Roll Star
+t03: Lyla
+t04: The Shock Of The Lightning
+t05: Cigarettes & Alcohol
+t06: The Meaning Of Soul
+t07: To Be Where There's Life
+t08: Waiting For The Rapture
+t09: The Masterplan
+t10: Songbird
+t11: Slide Away
+t12: Morning Glory
+t13: Ain't Got Nothing
+t14: The Importance Og Being Idle
+t15: I'm Outta Time
+t16: Wonderwall
+t17: Supersonic
+--
+t18: Don't Look Back In Anger
+t19: Falling Down
+t20: Champagne Supernova
+t21: I Am The Walrus*
+---------------------------------------------------------------------------
+* The Beattles cover
+---------------------------------------------------------------------------
