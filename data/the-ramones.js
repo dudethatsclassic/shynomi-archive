@@ -2,7 +2,7 @@ const ARTIST_DATA = {
   "id": "the-ramones",
   "name": "The Ramones",
   "drive": "F",
-  "showCount": 28,
+  "showCount": 20,
   "firstYear": 1976,
   "lastYear": 1996,
   "years": [
@@ -27,9 +27,9 @@ const ARTIST_DATA = {
       "state": "MA",
       "location": "Cambridge, MA",
       "venue": "The Club",
+      "notes": "",
       "version": "Silver CD",
       "format": "FLAC",
-      "notes": "",
       "textFile": "1976-05-12 - Cambridge, MA - The Club [Silver}.txt"
     },
     {
@@ -41,9 +41,9 @@ const ARTIST_DATA = {
       "state": "NY",
       "location": "New York, NY",
       "venue": "CBGB's",
+      "notes": "",
       "version": "AUD",
       "format": "SHN",
-      "notes": "",
       "textFile": "1976-05-15 - New York, NY - CBGB's [AUD].txt"
     },
     {
@@ -55,9 +55,9 @@ const ARTIST_DATA = {
       "state": "NY",
       "location": "New York, NY",
       "venue": "Max's Kansas City",
+      "notes": "",
       "version": "AUD",
       "format": "FLAC",
-      "notes": "",
       "textFile": "1976-10-09 - New York, NY - Max's Kansas City [AUD].txt"
     },
     {
@@ -68,11 +68,10 @@ const ARTIST_DATA = {
       "city": "San Diego",
       "state": "CA",
       "location": "San Diego, CA",
-      "venue": "San Diego State University - The Backdoor",
+      "venue": "San Diego State University",
+      "notes": "The",
       "version": "AUD",
-      "format": "FLAC 24",
-      "notes": "",
-      "textFile": "1977-03-12 - San Diego, CA - San Diego State University - The Backdoor [AUD24].txt"
+      "format": "FLAC 24"
     },
     {
       "year": 1977,
@@ -83,9 +82,9 @@ const ARTIST_DATA = {
       "state": "NY",
       "location": "New York, NY",
       "venue": "CBGB's",
+      "notes": "",
       "version": "AUD",
       "format": "FLAC",
-      "notes": "",
       "textFile": "1977-03-31 - New York, NY - CBGB's [AUD].txt"
     },
     {
@@ -96,11 +95,10 @@ const ARTIST_DATA = {
       "city": "Rotterdam",
       "state": "Holland",
       "location": "Rotterdam, Holland",
-      "venue": "Lantaarn - ANA(M)",
+      "venue": "Lantaarn",
+      "notes": "ANA(M) · Sony TC-D5M · hans de vente",
       "version": "AUD",
-      "format": "FLAC",
-      "notes": "Sony TC-D5M \u00b7 hans de vente",
-      "textFile": "1977-05-10 - Rotterdam, Holland - Lantaarn - ANA(M) (Sony TC-D5M) (hans de vente) [AUD].txt"
+      "format": "FLAC"
     },
     {
       "year": 1977,
@@ -111,9 +109,9 @@ const ARTIST_DATA = {
       "state": "UK",
       "location": "London, UK",
       "venue": "Roundhouse",
+      "notes": "",
       "version": "AUD",
       "format": "FLAC",
-      "notes": "",
       "textFile": "1977-06-05 - London, UK -  Roundhouse [AUD].txt"
     },
     {
@@ -125,9 +123,9 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "Los Angeles, CA",
       "venue": "Whisky a Go-Go *Birthday Bash",
+      "notes": "",
       "version": "SBD",
       "format": "FLAC",
-      "notes": "",
       "textFile": "1977-10-21 - Los Angeles, CA - Whisky a Go-Go - Birthday Bash [SBD].txt"
     },
     {
@@ -139,9 +137,9 @@ const ARTIST_DATA = {
       "state": "MA",
       "location": "Boston, MA",
       "venue": "Orpheum",
+      "notes": "zootype",
       "version": "AUD",
-      "format": "FLAC",
-      "notes": "zootype"
+      "format": "FLAC"
     },
     {
       "year": 1977,
@@ -152,9 +150,9 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "Los Angeles, CA",
       "venue": "Whisky a Go-Go",
+      "notes": "",
       "version": "FM",
       "format": "FLAC",
-      "notes": "",
       "textFile": "1977-11-24 - Los Angeles, CA - Whisky a Go-Go [FM].A.txt"
     },
     {
@@ -166,9 +164,9 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "San Francisco, CA",
       "venue": "Old Waldorf",
+      "notes": "Early show · KSAN Live Broadcast",
       "version": "FM",
       "format": "FLAC",
-      "notes": "Early show \u00b7 KSAN Live Broadcast",
       "textFile": "1978-01-31 - San Francisco, CA - Old Waldorf (Early show) (KSAN Live Broadcast) [FM].txt"
     },
     {
@@ -180,9 +178,9 @@ const ARTIST_DATA = {
       "state": "NY",
       "location": "New York, NY",
       "venue": "CBGB's",
+      "notes": "",
       "version": "AUD",
       "format": "FLAC",
-      "notes": "",
       "textFile": "1978-05-04 - New York, NY - CBGB's [AUD].txt"
     },
     {
@@ -194,9 +192,9 @@ const ARTIST_DATA = {
       "state": "NY",
       "location": "New York, NY",
       "venue": "CBGBs",
+      "notes": "Reel · pr",
       "version": "AUD",
       "format": "FLAC 24",
-      "notes": "Reel \u00b7 pr",
       "textFile": "1976-05-15 - New York, NY - CBGBs (Reel) (pr) [AUD24].txt"
     },
     {
@@ -208,9 +206,9 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "San Francisco, CA",
       "venue": "Civic Auditorium",
+      "notes": "",
       "version": "FM",
-      "format": "FLAC",
-      "notes": ""
+      "format": "FLAC"
     },
     {
       "year": 1980,
@@ -220,11 +218,10 @@ const ARTIST_DATA = {
       "city": "Paris",
       "state": "FR",
       "location": "Paris, FR",
-      "venue": "The?atre Le Palace (AM Radio) 48KHZ",
+      "venue": "Théatre Le Palace (AM Radio) 48KHZ",
+      "notes": "",
       "version": "AM",
-      "format": "FLAC",
-      "notes": "AM Radio",
-      "textFile": "1980-02-20 - Paris, FR - The\u0301atre Le Palace (AM Radio) 48KHZ [AM].txt"
+      "format": "FLAC"
     },
     {
       "year": 1981,
@@ -234,11 +231,10 @@ const ARTIST_DATA = {
       "city": "Hartford",
       "state": "CT",
       "location": "Hartford, CT",
-      "venue": "Stage West - ANA",
+      "venue": "Stage West",
+      "notes": "ANA(2) · unk",
       "version": "AUD",
-      "format": "FLAC",
-      "notes": "2 \u00b7 Unknown",
-      "textFile": "1981-01-08 - Hartford, CT - Stage West - ANA(2) (unk) [AUD].txt"
+      "format": "FLAC"
     },
     {
       "year": 1985,
@@ -249,9 +245,9 @@ const ARTIST_DATA = {
       "state": "UK",
       "location": "London, UK",
       "venue": "Lyceum Ballroom 48KHZ",
+      "notes": "",
       "version": "AM",
       "format": "FLAC",
-      "notes": "",
       "textFile": "1985-02-24 - London, UK - Lyceum Ballroom 48KHZ [AM].txt"
     },
     {
@@ -263,9 +259,9 @@ const ARTIST_DATA = {
       "state": "PA",
       "location": "Philadelphia, PA",
       "venue": "Chestnut Cabaret",
+      "notes": "Nak 300s · chuck",
       "version": "AUD",
       "format": "FLAC",
-      "notes": "Nak 300s \u00b7 chuck",
       "textFile": "1987-02-28 - Philadelphia, PA - Chestnut Cabaret (Nak 300s) (chuck) [AUD].txt"
     },
     {
@@ -277,9 +273,9 @@ const ARTIST_DATA = {
       "state": "UK",
       "location": "Liverpool, UK",
       "venue": "Royal Court Hall",
+      "notes": "",
       "version": "AUD",
       "format": "FLAC",
-      "notes": "",
       "textFile": "1989-10-01 - Liverpool, UK - Royal Court Hall (2nd CJ show) [AUD].txt"
     },
     {
@@ -291,114 +287,10 @@ const ARTIST_DATA = {
       "state": "NY",
       "location": "Albany, NY",
       "venue": "Lincoln Park",
+      "notes": "SS DSM6 · unk",
       "version": "AUD",
       "format": "FLAC",
-      "notes": "SS DSM6 \u00b7 Unknown",
       "textFile": "1996-04-28  - Albany, NY - Lincoln Park (SS DSM6) (unk) [AUD].txt"
-    },
-    {
-      "year": 1976,
-      "month": 8,
-      "day": 31,
-      "dateStr": "8-31-1976",
-      "city": "London",
-      "state": "UK",
-      "location": "London, UK",
-      "venue": "The 100 Club",
-      "version": "AUD",
-      "format": "FLAC",
-      "notes": ""
-    },
-    {
-      "year": 1976,
-      "month": 9,
-      "day": 17,
-      "dateStr": "9-17-1976",
-      "city": "Chelmsford",
-      "state": "England",
-      "location": "Chelmsford, England",
-      "venue": "Chelmsford Maximum Security Prison",
-      "version": "SBD",
-      "format": "FLAC",
-      "notes": ""
-    },
-    {
-      "year": 1976,
-      "month": 12,
-      "day": 9,
-      "dateStr": "12-9-1976",
-      "city": "Manchester",
-      "state": "UK",
-      "location": "Manchester, UK",
-      "venue": "Electric Circus",
-      "version": "AUD",
-      "format": "FLAC",
-      "notes": ""
-    },
-    {
-      "year": 1977,
-      "month": 12,
-      "day": 19,
-      "dateStr": "12-19-1977",
-      "city": "Keighley",
-      "state": "UK",
-      "location": "Keighley, UK",
-      "venue": "Nikkers Club",
-      "version": "AUD",
-      "format": "FLAC",
-      "notes": "Unknown"
-    },
-    {
-      "year": 1978,
-      "month": 1,
-      "day": 5,
-      "dateStr": "1-5-1978",
-      "city": "Atlanta",
-      "state": "GA",
-      "location": "Atlanta, GA",
-      "venue": "Great Southeast Music Hall *Kill The Hippies",
-      "version": "Silver CD",
-      "format": "FLAC",
-      "notes": ""
-    },
-    {
-      "year": 1996,
-      "month": 7,
-      "day": 4,
-      "dateStr": "7-4-1996",
-      "city": "Paris",
-      "state": "France",
-      "location": "Paris, France",
-      "venue": "The Zenith",
-      "version": "SBD",
-      "format": "FLAC",
-      "notes": ""
-    },
-    {
-      "year": 1996,
-      "month": 8,
-      "day": 23,
-      "dateStr": "8-23-1996",
-      "city": "Hollywood",
-      "state": "CA",
-      "location": "Hollywood, CA",
-      "venue": "Hollywood Palladium - CASS",
-      "version": "AUD",
-      "format": "FLAC",
-      "notes": "M"
-    },
-    {
-      "year": 1996,
-      "month": 8,
-      "day": 25,
-      "dateStr": "8-25-1996",
-      "city": "Hollywood",
-      "state": "CA",
-      "location": "Hollywood, CA",
-      "venue": "Hollywood Palladium - CASS",
-      "version": "AUD",
-      "format": "FLAC",
-      "notes": "M"
     }
   ],
   "misc": [
@@ -412,126 +304,6 @@ const ARTIST_DATA = {
       "label": "Judy's in the Basement - The 914 Sessions",
       "version": "Vinyl",
       "format": "FLAC 24"
-    },
-    {
-      "type": "label",
-      "label": "Sex Pistols"
-    },
-    {
-      "type": "label",
-      "label": "Drive - F"
-    },
-    {
-      "type": "show",
-      "year": 1976,
-      "month": 8,
-      "day": 31,
-      "dateStr": "8-31-1976",
-      "city": "London",
-      "state": "UK",
-      "location": "London, UK",
-      "venue": "The 100 Club",
-      "notes": "",
-      "version": "AUD",
-      "format": "FLAC"
-    },
-    {
-      "type": "show",
-      "year": 1976,
-      "month": 9,
-      "day": 17,
-      "dateStr": "9-17-1976",
-      "city": "Chelmsford",
-      "state": "England",
-      "location": "Chelmsford, England",
-      "venue": "Chelmsford Maximum Security Prison",
-      "notes": "",
-      "version": "SBD",
-      "format": "FLAC"
-    },
-    {
-      "type": "show",
-      "year": 1976,
-      "month": 12,
-      "day": 9,
-      "dateStr": "12-9-1976",
-      "city": "Manchester",
-      "state": "UK",
-      "location": "Manchester, UK",
-      "venue": "Electric Circus",
-      "notes": "",
-      "version": "AUD",
-      "format": "FLAC"
-    },
-    {
-      "type": "show",
-      "year": 1977,
-      "month": 12,
-      "day": 19,
-      "dateStr": "12-19-1977",
-      "city": "Keighley",
-      "state": "UK",
-      "location": "Keighley, UK",
-      "venue": "Nikkers Club",
-      "notes": "unk",
-      "version": "AUD",
-      "format": "FLAC"
-    },
-    {
-      "type": "show",
-      "year": 1978,
-      "month": 1,
-      "day": 5,
-      "dateStr": "1-5-1978",
-      "city": "Atlanta",
-      "state": "GA",
-      "location": "Atlanta, GA",
-      "venue": "Great Southeast Music Hall *Kill The Hippies",
-      "notes": "",
-      "version": "Silver CD",
-      "format": "FLAC"
-    },
-    {
-      "type": "show",
-      "year": 1996,
-      "month": 7,
-      "day": 4,
-      "dateStr": "7-4-1996",
-      "city": "Paris",
-      "state": "France",
-      "location": "Paris, France",
-      "venue": "The Zenith",
-      "notes": "",
-      "version": "SBD",
-      "format": "FLAC"
-    },
-    {
-      "type": "show",
-      "year": 1996,
-      "month": 8,
-      "day": 23,
-      "dateStr": "8-23-1996",
-      "city": "Hollywood",
-      "state": "CA",
-      "location": "Hollywood, CA",
-      "venue": "Hollywood Palladium",
-      "notes": "CASS(M)",
-      "version": "AUD",
-      "format": "FLAC"
-    },
-    {
-      "type": "show",
-      "year": 1996,
-      "month": 8,
-      "day": 25,
-      "dateStr": "8-25-1996",
-      "city": "Hollywood",
-      "state": "CA",
-      "location": "Hollywood, CA",
-      "venue": "Hollywood Palladium",
-      "notes": "CASS(M)",
-      "version": "AUD",
-      "format": "FLAC"
     }
   ]
 };
