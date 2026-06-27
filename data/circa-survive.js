@@ -34,7 +34,7 @@ const ARTIST_DATA = {
       "state": "IL",
       "location": "Chicago, IL",
       "venue": "Douglass Park",
-      "notes": "Riot \u00b7 AT853s \u00b7 tj",
+      "notes": "Riot · AT853s · tj",
       "version": "AUD",
       "format": "FLAC",
       "textFile": "2021-09-17 - Chicago, IL - Douglass Park - Riot Festival (AT853s) (tj) [AUD].txt"
@@ -48,7 +48,7 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "San Francisco, CA",
       "venue": "August Hall (Anthony Green)",
-      "notes": "DAT(M) \u00b7 SP-CMC-4U \u00b7 loughney",
+      "notes": "DAT(M) · SP-CMC-4U · loughney",
       "version": "AUD",
       "format": "FLAC",
       "textFile": "2022-05-24 - San Francisco, CA - August Hall (Anthony Green) - DAT(M) (SP-CMC-4U) (loughney) [AUD].txt"
