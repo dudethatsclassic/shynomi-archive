@@ -1,0 +1,32 @@
+American Hi-Fi
+2025-06-19
+Echoplex
+Los Angeles, CA, USA
+
+-- Source --
+DPA 4081 > MMA-A > 24bit/48kHz
+
+-- Processing --
+iZotope RX (editing/mastering) > CD Wave (tracking) > Trader's Little Helper (encoding)
+
+-- Setlist --
+01 - intro (Earth People)
+02 - Surround
+03 - Scar
+04 - The Breakup Song
+05 - Hi-Fi Killer
+06 - Another Perfect Day
+07 - Acetate
+08 - The Art of Losing
+09 - Safer on the Outside
+10 - Vertigo
+11 - I'm Still in Love with Rock 'n' Roll
+12 - Flavor of the Weak
+13 - Happy
+
+-- Notes --
+Opening for Eve 6.
+
+Length: 49m20s
+
+-- faninor -- 2025-06-21 --
