@@ -1,0 +1,60 @@
+Foo Fighters
+July 24th, 1995
+La Luna
+Portland, OR
+
+SOURCE (AUD #1):
+Audio Technica > Aiwa (Cassette)
+
+TRANSFER:
+Tascam DA-20MKII > Echo Mia midi > Adobe Audition > CD Wave
+
+GENERATION:
+ANA(M) > DAT(1) > WAV [48khz] > WAV [44.1khz] > FLAC [Level 8]
+
+LENGTH:
+62:05
+
+NOTES:
+- There is one small cut after 'X-Static' and one during the encore break, no music is missing.
+
+TRACKS:
+01. intro
+02. I'll Stick Around
+03. Winnebago
+04. Wattershed
+05. Big Me
+06. Weenie Beenie
+07. This Is A Call
+08. For All The Cows
+09. Butterflies
+10. My Hero
+11. X-Static
+12. Alone + Easy Target
+13. Podunk
+14. Exhausted
+15. Good Grief
+16. Down In The Park
+
+MD5 FINGERPRINTS:
+0528defcc7b20427c3ff19c78f99dbb8 *01. intro.flac
+ed978fb2528474dc3ee93ae5e92df018 *02. I'll Stick Around.flac
+4297fe68496d7255bbf487b747badbc7 *03. Winnebago.flac
+e345afaf5e233e2add11999369787e14 *04. Wattershed.flac
+f7e197b7ed6a5be70b81531f0b2a1782 *05. Big Me.flac
+840d2c03db34ef838f5ce71aa66f1b89 *06. Weenie Beenie.flac
+0d4c36a4a1a57f2db240d6fc940552a8 *07. This Is A Call.flac
+ff552641e6006902f68cef6214dd5040 *08. For All The Cows.flac
+d8f416260cf888841021bb8b7cf9bb13 *09. Butterflies.flac
+c8acc8039c30ec8d2cfbf179afb24e0b *10. My Hero.flac
+cc435532d8b2c01e82baaf140f352a03 *11. X-Static.flac
+768262b57d6f86db7ac599e29d93fb98 *12. Alone + Easy Target.flac
+914becddd3d28c0d841c19eebee0b7e1 *13. Podunk.flac
+e9e2eda19053c23854293aaf44e1f818 *14. Exhausted.flac
+c5a25d5a2b19f2c5b3728dda52d0bf8f *15. Good Grief.flac
+68f476ab4fe80d52d79ab1a85f28b4af *16. Down In The Park.flac
+
+TRANSFERRED BY:
+Jim Hirte
+
+**PLEASE DO NOT ENCODE TO LOSSY FORMATS OR SELL!**

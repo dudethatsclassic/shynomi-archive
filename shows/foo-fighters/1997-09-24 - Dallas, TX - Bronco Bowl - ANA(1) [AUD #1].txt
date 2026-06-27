@@ -1,0 +1,61 @@
+FOO FIGHTERS
+September 24th, 1997
+Bronco Bowl
+Dallas, TX
+
+SOURCE (AUD #1):
+unknown > Sony WMD6
+
+TRANSFER:
+Tascam DA-20 MKII > Monster SPDIF Coaxial Cable > M-Audio Audiophile 2496 > Adobe Audition 3.0 > CD Wave 1.98 > Trader's Little Helper 2.8.4
+
+GENERATION:
+ANA(1) > DAT(1) [16bit/48kHz] > WAV [16bit/48kHz] > WAV [16bit/44.1kHz] > FLAC [level 8]
+
+LENGTH:
+67:49
+
+TRACKS:
+01. intro (jam) (cuts in)
+02. This Is A Call
+03. Wattershed
+04. Hey, Johnny Park!
+05. Monkey Wrench
+06. Alone + Easy Target
+07. Doll
+08. See You
+09. My Poor Brain
+10. Enough Space
+11. For All The Cows
+12. The Colour And The Shape
+13. Weenie Beenie
+14. Up In Arms
+15. Everlong
+16. New Way Home
+17. My Hero
+18. I'll Stick Around
+
+MD5 FINGERPRINTS:
+1f9f5022523cac1821f4990703d251fa *Foo Fighters - 1997-09-24_AUD1_ANA1-DAT1 t01.flac
+d2673d147c281221d2c3ef7e7cfdbf1c *Foo Fighters - 1997-09-24_AUD1_ANA1-DAT1 t02.flac
+d8528a2118c796ac6ba6f01fd803e118 *Foo Fighters - 1997-09-24_AUD1_ANA1-DAT1 t03.flac
+9675c412acf27d766ab48aee4b9e75c1 *Foo Fighters - 1997-09-24_AUD1_ANA1-DAT1 t04.flac
+19ee9409b84e5832e06754cfede2a9d2 *Foo Fighters - 1997-09-24_AUD1_ANA1-DAT1 t05.flac
+8df32e96f52913dff03246718bc12da5 *Foo Fighters - 1997-09-24_AUD1_ANA1-DAT1 t06.flac
+4c8c7dbb9514d8edec1c8a12496dc1ce *Foo Fighters - 1997-09-24_AUD1_ANA1-DAT1 t07.flac
+f57db5dcc579e0b98673a89b5a0716bb *Foo Fighters - 1997-09-24_AUD1_ANA1-DAT1 t08.flac
+80a043d64aaeca5187844863898e055e *Foo Fighters - 1997-09-24_AUD1_ANA1-DAT1 t09.flac
+33707219085c56efeebab715786a6dba *Foo Fighters - 1997-09-24_AUD1_ANA1-DAT1 t10.flac
+df113ae81afad98eedcb1e9ff6c2760e *Foo Fighters - 1997-09-24_AUD1_ANA1-DAT1 t11.flac
+36d7298431511f8fa783e37b97da5d13 *Foo Fighters - 1997-09-24_AUD1_ANA1-DAT1 t12.flac
+3e19f2d4f71d7efcd874dc42e03692cf *Foo Fighters - 1997-09-24_AUD1_ANA1-DAT1 t13.flac
+d8b4ce614ed43e5f8ed8d18c909dc0e8 *Foo Fighters - 1997-09-24_AUD1_ANA1-DAT1 t14.flac
+75a2e8736fa685157ffd71d70e65b421 *Foo Fighters - 1997-09-24_AUD1_ANA1-DAT1 t15.flac
+906ca8f18b46a018c3bc5ce1a1c19406 *Foo Fighters - 1997-09-24_AUD1_ANA1-DAT1 t16.flac
+634244fc5748392377b17542041cdd51 *Foo Fighters - 1997-09-24_AUD1_ANA1-DAT1 t17.flac
+73d6923000f3ee3b2a5bf7c2113a98dd *Foo Fighters - 1997-09-24_AUD1_ANA1-DAT1 t18.flac
+
+TRANSFERRED BY:
+Members of LiveNIRVANA.com
+
+PLEASE DO NOT SELL OR ENCODE TO MP3

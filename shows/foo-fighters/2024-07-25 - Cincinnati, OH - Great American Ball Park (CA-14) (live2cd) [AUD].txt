@@ -1,0 +1,72 @@
+Foo Fighters
+July 25th, 2024.
+Great American Ball Park - Cincinnati, OH.
+
+Taper:      Charles Dewey Cole, IV <live2cd@hotmail.com>
+Location:   50ft back from left stack; mics mounted on baseball hat brim. 
+Source:     CA-14 Omni > CA-9200 > Sony PCM-A10 (24 bit @48kHz) > 
+            Adobe Audition 3.0 (dithered to 16 bit @44.1kHz) > Cd Wave > FLAC
+Conversion: Charles Dewey Cole, IV <live2cd@hotmail.com>
+Equipment:  Sony PCM-A10 > (USB) @ 48kHz > 44.1kHz > Cd Wave
+
+---------------------------------------------------------------------------------------------------------
+Total Time: (2:43:33)
+
+01. All My Life					6:59
+02. No Son Of Mine				7:31
+03. Rescued					4:01
+04. The Pretender				6:35
+05. Walk					8:00
+06. Times Like These 				4:26
+07. Generator					3:43
+08. La Dee Da					4:54
+09. Breakout					7:21
+10. Band introductions				10:36
+11. My Hero					5:33
+12. The Sky Is A Neighborhood			4:20
+13. Learn To Fly				3:29
+14. Arlandria					4:56
+15. These Days					9:04
+16. Skin And Bones #				7:04
+17. Under You ^					4:20
+18. Nothing At All				5:36
+19. This Is A Call				5:26
+20. Monkey Wrench				7:16
+21. Aurora					8:25
+22. Best Of You 				7:55
+23. ~ Encore ~					4:18
+24. The Teacher					14:56
+25. Everlong 					6:50
+
+---------------------------------------------------------------------------------------------------------
+Notes:
+
+#  Dave on acoustic guitar, Rami on accordion.
+^  Dave solo acoustic.
+
+The Foo Fighters first trip back to Cincinnati in nearly 3 years to the date.
+Their prior performance was on July 28th, 2021 when the The Andrew Brady Music
+Center opened. Sadly, since that performance, we have lost Taylor Hawkins, so
+this was the first time we were seeing Josh Freese behind the kit who joined
+the band last year. I was very impressed, but then again - he's Josh Freese,
+who wouldn't be? The setlist did drop in some rarities for the hardcores, which
+I appreciated. "Generator" was really nice to see as was the following song,
+"La Dee Da". They were doing "La Dee Da" for C&G back in 2017/18, but I had
+missed it. The new tracks sounded great with "Under You" (acoustic) and "The
+Teacher" (for Dave's mom) being highlights. "Aurora" is another I will never
+get sick of and it meant even more as it was played for Taylor. The stadium
+was sold out (40k?), but there was plenty of room in the pit, so I did have
+some space around me. I still had to remove some screaming and some yelling
+in RX7, so I did spend a fair amount of time making this sound nicer. Please
+note that during a few songs when Josh would hit his kickdrum there was a 
+loud crackle that came from the PA. This did not happen very often, but when
+it did, I used the de-click feature in RX7 on those hits. It definitely helped
+smooth them out. The show was pretty bass heavy, so I did EQ a tiny bit. I
+left most of the bass in. Please adjust on your home stereos accordingly.
+
+Mammoth WVH and The Pretenders opened. [both recorded].
+
+---------------------------------------------------------------------------------------------------------
+For more information on the Foo Fighters, please visit:
+
+http://www.foofighters.com/

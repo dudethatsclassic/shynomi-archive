@@ -1,0 +1,53 @@
+FOO FIGHTERS
+September 21st, 1997
+Mesa Amphitheatre
+Phoenix, AZ
+
+SOURCE (AUD #1):
+Core Sound Binaural > Sony TCD-D8
+
+TRANSFER:
+Tascam DA-20 MKII > Monster SPDIF Coaxial Cable > M-Audio Audiophile 2496 > Adobe Audition 3.0 > CD Wave 1.98 > Trader's Little Helper 2.8.4
+
+GENERATION:
+DAT(M) > DAT(2) [16bit/48kHz] > WAV [16bit/48kHz] > WAV [16bit/44.1kHz] > FLAC [level 8]
+
+LENGTH:
+49:23
+
+TRACKS:
+01. intro (jam)
+02. This Is A Call
+03. Enough Space
+04. Hey, Johnny Park!
+05. Monkey Wrench
+06. Alone + Easy Target
+07. Doll
+08. See You
+09. The Colour And The Shape
+10. For All The Cows
+11. Everlong
+12. My Hero
+13. New Way Home
+14. I'll Stick Around
+
+MD5 FINGERPRINTS:
+8243b2d338dd633558fdbd833338afba *Foo Fighters - 1997-09-21_AUD1_DAT2 t01.flac
+e489d8cc22d87bbfcef67bcb7d30a550 *Foo Fighters - 1997-09-21_AUD1_DAT2 t02.flac
+e7b0e63f212bc1d2f7d67972a1b2bb58 *Foo Fighters - 1997-09-21_AUD1_DAT2 t03.flac
+e331b4751a43ec15e61302ecaf74ce8a *Foo Fighters - 1997-09-21_AUD1_DAT2 t04.flac
+0221178597c7891f52cb8afbf43c4a51 *Foo Fighters - 1997-09-21_AUD1_DAT2 t05.flac
+db5c14c793cf516f11bb951273f9f698 *Foo Fighters - 1997-09-21_AUD1_DAT2 t06.flac
+59b0dff292d87e666256182ff55158af *Foo Fighters - 1997-09-21_AUD1_DAT2 t07.flac
+2c62bba5a86c0aa62443add369f1b9e9 *Foo Fighters - 1997-09-21_AUD1_DAT2 t08.flac
+f88c7bf7f8220a9b6a69e31a9a228840 *Foo Fighters - 1997-09-21_AUD1_DAT2 t09.flac
+98f4177395cf1f9e3f36a50789e824ce *Foo Fighters - 1997-09-21_AUD1_DAT2 t10.flac
+1ee9e47c2f08f25b041ae8740e778c8a *Foo Fighters - 1997-09-21_AUD1_DAT2 t11.flac
+5675cead617d94ff7844009fc078ae0c *Foo Fighters - 1997-09-21_AUD1_DAT2 t12.flac
+3c0efdbc10c33c14efea74f272d6770a *Foo Fighters - 1997-09-21_AUD1_DAT2 t13.flac
+d303318c7296c7ff3a9816f06ba64e26 *Foo Fighters - 1997-09-21_AUD1_DAT2 t14.flac
+
+TRANSFERRED BY:
+Members of LiveNIRVANA.com
+
+PLEASE DO NOT SELL OR ENCODE TO MP3

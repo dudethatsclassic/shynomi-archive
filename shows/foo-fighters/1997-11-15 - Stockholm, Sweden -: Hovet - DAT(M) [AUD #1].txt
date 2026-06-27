@@ -1,0 +1,59 @@
+FOO FIGHTERS
+November 15th, 1997
+Hovet
+Stockholm, Sweden
+
+SOURCE (AUD #1):
+unknown > unknown
+
+TRANSFER:
+Tascam DA-20 MKII > Monster SPDIF Coaxial Cable > M-Audio Audiophile 2496 > Adobe Audition 3.0 > CD Wave 1.98 > Trader's Little Helper 2.8.4
+
+GENERATION:
+DAT(M) > DAT(3) [16bit/48kHz] > WAV [16bit/48kHz] > WAV [16bit/44.1kHz] > FLAC [level 8]
+
+LENGTH:
+55:39
+
+TRACKS:
+01. crowd
+02. intro (jam)
+03. This Is A Call
+04. Hey, Johnny Park!
+05. Alone + Easy Target
+06. Monkey Wrench
+07. See You
+08. My Poor Brain
+09. Enough Space
+10. The Money Will Roll Right In (jam)
+11. Gas Chamber
+12. The Colour And The Shape
+13. For All The Cows
+14. Weenie Beenie
+15. Everlong
+16. New Way Home
+17. I'll Stick Around
+
+MD5 FINGERPRINTS:
+7cef151cac4f7da5ad3e90a6c1888624 *Foo Fighters - 1997-11-15_AUD1_DAT3 t01.flac
+9e0ba0f85d8b0804bfe1f8bc14dcd421 *Foo Fighters - 1997-11-15_AUD1_DAT3 t02.flac
+1a04a167a961822d52b94178526286d2 *Foo Fighters - 1997-11-15_AUD1_DAT3 t03.flac
+2ddfe49a25a81c563f47e2ee4c14af92 *Foo Fighters - 1997-11-15_AUD1_DAT3 t04.flac
+044d818345d73b2c009521aef908bbd7 *Foo Fighters - 1997-11-15_AUD1_DAT3 t05.flac
+37e8c707a9186059f6e13e7b387afe26 *Foo Fighters - 1997-11-15_AUD1_DAT3 t06.flac
+ae593c3e5a932ee8174047ea89d705c8 *Foo Fighters - 1997-11-15_AUD1_DAT3 t07.flac
+d5e2e96d167db5d9cd10179162b78e06 *Foo Fighters - 1997-11-15_AUD1_DAT3 t08.flac
+613be938c76cebb38fd9c4b167cfc0c9 *Foo Fighters - 1997-11-15_AUD1_DAT3 t09.flac
+e27d4eb067dc80064ab41384e2960edb *Foo Fighters - 1997-11-15_AUD1_DAT3 t10.flac
+0203abf00c736f83c34f1c15e6f9f1b6 *Foo Fighters - 1997-11-15_AUD1_DAT3 t11.flac
+6c08a877103d973f4c56c27f296b3740 *Foo Fighters - 1997-11-15_AUD1_DAT3 t12.flac
+19b3ccbbc69519b3f60243bf3f5f2f4c *Foo Fighters - 1997-11-15_AUD1_DAT3 t13.flac
+b798005f446e631eab4bba499a9e1344 *Foo Fighters - 1997-11-15_AUD1_DAT3 t14.flac
+2f56e26ffeb4360c56c632e0bc10a999 *Foo Fighters - 1997-11-15_AUD1_DAT3 t15.flac
+97984c83f935dffdd6a60f93bd7eb750 *Foo Fighters - 1997-11-15_AUD1_DAT3 t16.flac
+dbe9a87f22bc5725db283a7e1056aff1 *Foo Fighters - 1997-11-15_AUD1_DAT3 t17.flac
+
+TRANSFERRED BY:
+Members of LiveNIRVANA.com
+
+PLEASE DO NOT SELL OR ENCODE TO MP3

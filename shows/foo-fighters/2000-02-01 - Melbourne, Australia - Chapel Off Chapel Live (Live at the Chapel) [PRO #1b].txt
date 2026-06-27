@@ -1,0 +1,39 @@
+Foo Fighters
+February 1st, 2000
+Chapel Off Chapel (Live At The Chapel)
+Melbourne, Australia
+
+SOURCE (PRO #1b):
+soundboard > unknown
+
+EXTRACTION:
+Exact Audio Copy 1 beta 3 > Adobe Audition CS5.5 > CDWave 1.98 > Trader's Little Helper 2.7.0
+
+GENERATION:
+CD(M) > WAV [44.1khz] > FLAC [Level 8]
+
+LENGTH:
+25:10
+
+NOTES:
+- Pre-broadcast source taken from 'Star For Station' bootleg CD. 
+
+TRACKS:
+01. Stacked Actors
+02. Learn To Fly
+03. My Hero
+04. Monkey Wrench
+05. Generator
+06. This Is A Call
+
+MD5 FINGERPRINTS:
+24aaed2ddd8b1211f7a26894494d7921 *FooFighters2000-02-01t01.flac
+8adf271cb4bc084548aac41bb0cc502c *FooFighters2000-02-01t02.flac
+d33e017407a1e0157ab3c7c4f26ff6d1 *FooFighters2000-02-01t03.flac
+98d363fc6401526be7cc1c1ab09a05c0 *FooFighters2000-02-01t04.flac
+84b4a0e2ac491ffa0bb4085536e4209c *FooFighters2000-02-01t05.flac
+
+EXTRACTED BY:
+Simon Kilmore
+
+**PLEASE DO NOT ENCODE TO LOSSY FORMATS OR SELL!**

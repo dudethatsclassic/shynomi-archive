@@ -1,0 +1,51 @@
+Foo Fighters
+April 17th, 1995
+Bottleneck
+Lawrence, KS
+
+SOURCE (AUD #1):
+unknown > unknown (unknown)
+
+TRANSFER:
+Nakamichi DR-3 > Monster RCA Cable > Creative Soundblaster Audigy SE > Adobe Audition 2.0 > CD Wave > FLAC Frontend 1.7.1
+
+GENERATION:
+ANA(3) > WAV [44.1khz] > FLAC [Level 8]
+
+LENGTH:
+44:04
+
+NOTES:
+- Small dropouts during 'Winnebago', 'Big Me' and 'Alone + Easy Target'.
+- Small cut after 'I'll Stick Around', no music is missing.
+
+TRACKS:
+01. intro / chatter
+02. This Is A Call
+03. Winnebago
+04. Floaty
+05. I'll Stick Around
+06. Big Me
+07. Wattershed
+08. For All the Cows
+09. Alone + Easy Target
+10. Podunk
+11. Exhausted
+
+MD5 FINGERPRINTS:
+0ae6ba5d0eb8b260a04edaa586e50d6f *01. intro.flac
+26f309b0a5a56dc8a6dc67be5b16f32d *02. This Is A Call.flac
+53ccbbd5dc5119dfec205f98f91b432a *03. Winnebago.flac
+3bd66ef301b0c0117b26ba4b4f372fde *04. Floaty.flac
+bd340b6807e4beda3b96ce2691a73f10 *05. I'll Stick Around.flac
+ee552c642dff0416841386ccb0f5119a *06. Big Me.flac
+5d2f96b2e0f8d2dd1d789860775eb5d9 *07. Wattershed.flac
+a050f78d225fe4183d97e8deb5be7a22 *08. For All The Cows.flac
+582b244f42102add9acc833f155f3dc9 *09. Alone + Easy Target.flac
+bcc502dc0330ac88cc93b4724b6b75e0 *10. Podunk.flac
+fa0afaddfa839e932970eb81a8b311b0 *11. Exhausted.flac
+
+TRANSFERRED BY:
+Brad Collins
+
+**PLEASE DO NOT ENCODE TO LOSSY FORMATS OR SELL!**

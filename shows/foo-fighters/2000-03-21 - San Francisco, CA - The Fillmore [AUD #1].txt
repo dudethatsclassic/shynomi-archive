@@ -1,0 +1,79 @@
+FOO FIGHTERS
+March 21st, 2000
+The Fillmore West
+San Francisco, CA
+
+SOURCE (AUD #1):
+Schoeps MK4 w/ R-Mod > Sony PCM-M1 (DAT)
+
+EXTRACTION:
+Rubyripper > FLAC.exe
+
+GENERATION:
+DAT(M) > CDR(2) > WAV [44.1khz] > FLAC [Level 8]
+
+LENGTH:
+101:50
+
+NOTES:
+- Taylor plays a drum solo in the middle of 'Alone + Easy Target'.
+- 'Stacked Actors' is stopped at the start due to Nates bass not working so Dave tells a story about Nate visiting McDonalds before picking the song back up.
+- 'Big Me' is played solo by Dave.
+- 'Alive' by Pearl Jam is very briefly jammed on before 'I'll Stick Around'.
+
+TRACKS:
+01. Aurora 
+02. Breakout
+03. Learn To Fly
+04. My Hero
+05. Up In Arms (jam)
+06. Up In Arms
+07. Ain't It The Life
+08. Monkey Wrench
+09. Hey, Johnny Park!
+10. jam
+11. Alone + Easy Target 
+12. Everlong
+13. Stacked Actors (part of)
+14. Stacked Actors (continued)
+15. Generator
+16. New Way Home
+17. This Is A Call
+18. Big Me
+19. My Poor Brain
+20. See You
+21. jam
+22. Next Year
+23. Have A Cigar
+24. I'll Stick Around
+
+MD5 FINGERPRINTS:
+fec90e8d2f8ea419921502232e25144a *FooFighters2000-03-21t01.flac
+d74eb1868d8e0846b707b82799fe7db5 *FooFighters2000-03-21t02.flac
+a8397a5286e47579658f1b0b5f7ed1d5 *FooFighters2000-03-21t03.flac
+e555585a90b594a170a2ac09609160c4 *FooFighters2000-03-21t04.flac
+1befe60675e13d23511031147cd5215d *FooFighters2000-03-21t05.flac
+d74cd5ae1d3e4382b8b96efcfa4d1db4 *FooFighters2000-03-21t06.flac
+50235cbdec758d4d8cda990351c10d66 *FooFighters2000-03-21t07.flac
+062d4afb91c5b632464e7d2b09f10e06 *FooFighters2000-03-21t08.flac
+c63e02be087589735a5914bbe9fd4355 *FooFighters2000-03-21t09.flac
+46e39147aea575e2adca5e2ee967160e *FooFighters2000-03-21t10.flac
+8a8591c7dc0f8014b3ced01e0ec9cee8 *FooFighters2000-03-21t11.flac
+263f9b27c8fb183684e5f506b8bcafe8 *FooFighters2000-03-21t12.flac
+de8c07c117f217e68348c10b703b421c *FooFighters2000-03-21t13.flac
+5f8554498e3914fae95343e501658224 *FooFighters2000-03-21t14.flac
+f8fa513e6e6777da2535a4b950e4d72a *FooFighters2000-03-21t15.flac
+7293c629b998768714648a62d402abef *FooFighters2000-03-21t16.flac
+f4232a9bfe3f75000c6f3e332a9ba249 *FooFighters2000-03-21t17.flac
+f37db6ada881d8e20d678c3160abeb5c *FooFighters2000-03-21t18.flac
+62cfe826de0d6e7717724aa90a03a09c *FooFighters2000-03-21t19.flac
+f03a1c590864afc8c8be4ae46983e29c *FooFighters2000-03-21t20.flac
+3a6933b35bba68bc2d14391751cc9b4f *FooFighters2000-03-21t21.flac
+f4e8792c4d24e64c58830ac2351e44a1 *FooFighters2000-03-21t22.flac
+979a61b5bfc86a291fe9433378531b67 *FooFighters2000-03-21t23.flac
+14f769daf1b2ddb8f5a3c46e75b96487 *FooFighters2000-03-21t24.flac
+
+TRANSFERRED BY:
+Unknown
+
+**PLEASE DO NOT ENCODE TO LOSSY FORMATS OR SELL!**

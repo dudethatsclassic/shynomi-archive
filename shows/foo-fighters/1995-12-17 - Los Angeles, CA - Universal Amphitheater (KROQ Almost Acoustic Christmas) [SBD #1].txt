@@ -1,0 +1,39 @@
+FOO FIGHTERS
+December 17, 1995
+Universal Amphitheater (KROQ Almost Acoustic Christmas)
+Los Angeles, CA
+
+SOURCE: (SBD #1)
+soundboard > unknown
+
+TRANSFER:
+RubyRipper > Trader's Little Helper 2.7.0
+
+GENERATION:
+FM > DAT(c) > CDR(1) > WAV [44.1kHz] > FLAC [Level 8]
+
+LENGTH:
+24:09
+
+TRACKS:
+01. Gas Chamber
+02. This Is A Call
+03. For All The Cows
+04. Wattershed
+05. I'll Stick Around
+06. Floaty
+07. Weenie Beenie
+
+MD5 FINGERPRINTS:
+4c3bf69e24f8e3c39aa5545e60a4e46d *01. Gas Chamber.flac
+6dcfbf28af660be31782442688390660 *02. This Is A Call.flac
+503eee58d8587fe2528e04f6fcee4176 *03. For All The Cows.flac
+6e36d63365008e0288e69a4b65aa21cf *04. Wattershed.flac
+5b96ee3e917ae4c3ad02879f98ba62d3 *05. I'll Stick Around.flac
+9aa819d8ad6b6deac21745f63db57d73 *06. Floaty.flac
+0490868213067a8d95fe8df203f302f2 *07. Weenie Beenie.flac
+
+TRANSFERRED BY:
+Anonymous
+
+**PLEASE DO NOT ENCODE TO LOSSY FORMATS OR SELL!**

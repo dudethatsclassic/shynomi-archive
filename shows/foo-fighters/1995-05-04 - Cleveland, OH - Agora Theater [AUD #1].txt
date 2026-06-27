@@ -1,0 +1,47 @@
+Foo Fighters
+May 4th, 1995
+Agora
+Cleveland, OH
+
+SOURCE (AUD #1):
+unknown > unknown
+
+TRANSFER:
+unknown > Adobe Audition CS6 > CDWave 1.98 > Trader's Little Helper 2.7.0
+
+GENERATION:
+Unknown > CDR(x) > WAV [44.1khz] > FLAC [Level 8]
+
+LENGTH:
+46:12
+
+TRACKS:
+01. Winnebago
+02. This Is A Call
+03. Butterflies
+04. Floaty
+05. I'll Stick Around
+06. Big Me
+07. Wattershed (cuts in)
+08. For All The Cows
+09. Podunk
+10. Alone + Easy Target
+11. Exhausted
+
+MD5 FINGERPRINTS:
+b764dc1ab83ccd7ed4ab33829d9066aa *01. Winnebago.flac
+f4d5bfcad704e7d1aeff170761f74f37 *02. This Is A Call.flac
+e674692d5e08247460e31657939fc4d4 *03. Butterflies.flac
+fe601d178c7b19dc15b1f92da09466e8 *04. Floaty.flac
+ec040b45ecaef6dd0b245c508caf59d9 *05. I'll Stick Around.flac
+d134f0955c489f5a326e6fa576b24a7a *06. Big Me.flac
+4beef106c46772e7aeb72fb8a190e137 *07. Wattershed.flac
+0d851fe6d284a8b081294f7ff300b6eb *08. For All The Cows.flac
+c721e12d0b78af1c3957afd1b133f426 *09. Podunk.flac
+7fa15868c9cd7c006dbe4786588dcaec *10. Alone + Easy Target.flac
+5311cc80f85fd4a3559b3b0d7d2f6159 *11. Exhausted.flac
+
+TRANSFERRED BY:
+Unknown
+
+**PLEASE DO NOT ENCODE TO LOSSY FORMATS OR SELL!**

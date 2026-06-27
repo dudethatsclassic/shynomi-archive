@@ -1,0 +1,57 @@
+FOO FIGHTERS
+August 27th, 1995
+Lowlands Festival
+Biddinghuizen, Netherlands
+
+SOURCE (AUD #1):
+unknown > unknown
+
+TRANSFER:
+Tascam DA-20 MKII > Monster SPDIF Coaxial Cable > M-Audio Audiophile 2496 > Adobe Audition 3.0 > CD Wave 1.98 > Trader's Little Helper 2.8.4
+
+GENERATION:
+DAT(x) [16bit/32kHz] > WAV [16bit/32kHz] > WAV [16bit/44.1kHZ] > FLAC [level 8]
+
+LENGTH:
+52:07
+
+TRACKS:
+01. intro
+02. Winnebago
+03. I'll Stick Around
+04. Butterflies
+05. Wattershed
+06. Big Me
+07. This Is A Call
+08. Weenie Beenie
+09. For All The Cows
+10. My Hero
+11. Oh, George
+12. Podunk (false start)
+13. Podunk
+14. Good Grief
+15. Alone + Easy Target
+16. Exhausted (cut)
+
+MD5 FINGERPRINTS:
+1de19afc9637df438a38e44c02db97b5 *Foo Fighters - 1995-08-27_AUD1_DATx t01.flac
+4289030ab6c75da6a8eb229feca0859e *Foo Fighters - 1995-08-27_AUD1_DATx t02.flac
+083ef4a039367c381956af9a881b2b69 *Foo Fighters - 1995-08-27_AUD1_DATx t03.flac
+cd94801114a86937761a29571f66e316 *Foo Fighters - 1995-08-27_AUD1_DATx t04.flac
+c67a0a99548ccd1178018a27f031c097 *Foo Fighters - 1995-08-27_AUD1_DATx t05.flac
+c2b354d804c7784b02c0c07aac828866 *Foo Fighters - 1995-08-27_AUD1_DATx t06.flac
+a8d35ba1473b9bb2cce755e523e1c005 *Foo Fighters - 1995-08-27_AUD1_DATx t07.flac
+6e38625a41faebe95a34085b8eb4672d *Foo Fighters - 1995-08-27_AUD1_DATx t08.flac
+7b69f035bc76e6fc77c49a8011cdc751 *Foo Fighters - 1995-08-27_AUD1_DATx t09.flac
+a6082c17e1aa4d8da70167e51312ec26 *Foo Fighters - 1995-08-27_AUD1_DATx t10.flac
+6cbdf6c8e669ea2241ae0789e4e786b7 *Foo Fighters - 1995-08-27_AUD1_DATx t11.flac
+57638d6b236eae5ce7a0285ba32b8531 *Foo Fighters - 1995-08-27_AUD1_DATx t12.flac
+5e88e5cb811b12fd495adaa7e62210a5 *Foo Fighters - 1995-08-27_AUD1_DATx t13.flac
+0dff1c976cd6c2462dc14fc5eb7ee4e5 *Foo Fighters - 1995-08-27_AUD1_DATx t14.flac
+24d8bbc90cc5997daa435289c3779709 *Foo Fighters - 1995-08-27_AUD1_DATx t15.flac
+a78dff208fafd67cbe59f37c2aff8772 *Foo Fighters - 1995-08-27_AUD1_DATx t16.flac
+
+TRANSFERRED BY:
+Members of LiveNIRVANA.com
+
+PLEASE DO NOT SELL OR ENCODE TO MP3

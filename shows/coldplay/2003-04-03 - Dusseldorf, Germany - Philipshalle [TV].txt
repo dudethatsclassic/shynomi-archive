@@ -1,0 +1,44 @@
+Coldplay
+
+
+Location: 'Philipshalle', Düsseldorf, Germany
+Date: 03-04-2003
+
+Broadcast: 25-05-2003 on Dutch tv station 'The Box'
+Recorded by: Martijn Middel (mrmiddel@home.nl)
+
+Source/conversion: TV > Amplifier with tuned equalizer > Creative SB Live! > Cool Edit Pro 2 > .wav > mkw Audio Compression Tool 0.97 Beta 1 > .shn
+
+
+Track listing:
+
+01. Politik *
+02. God Put A Smile Upon Your Face *
+03. Spies
+04. Daylight
+05. The Scientist
+06. One I Love
+07. A Rush Of Blood To The Head *
+08. Don't Panic
+09. Everything's Not Lost
+Missing: Poor Me *
+10. Yellow
+11. Amsterdam
+12. -- Encore Break --
+13. Clocks
+14. In My Place
+Missing: Trouble *
+
+Notes:
+---
+- Filtered out a noise tone cause by the television, that was located between 15.40kHz and 15.93kHz
+
+- Boosted some bass and treble frequencies
+
+- Broadcast started at the end of the pre-intro to 'Politik'.
+
+- Two gaps in 'God Put A Smile Upon Your Face' (caused by technical problems) were filled up by mono recordings from a VCR recording of this show.
+
+- The broadcast had a slight audio gap in the first line of 'A Rush Of Blood To The Head'
+
+- 'Poor Me' and 'Trouble' were not broadcasted.

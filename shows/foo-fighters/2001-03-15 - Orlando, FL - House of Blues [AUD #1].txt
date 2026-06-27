@@ -1,0 +1,64 @@
+Foo Fighters
+March 15th, 2001
+House Of Blues
+Lake Buena Vista, FL
+
+SOURCE (AUD #1):
+Panasonic WM-61A > Sound Pro SP-SPSB-2 (195Hz roll off) > Sony PCM-M1 (DAT)
+
+TRANSFER:
+Tascam DA-20MKII > Monster SPDIF Coaxial Cable > MAudio Audiophile 2496 > Audacity > CD Wave 1.98 > Trader's Little Helper 2.7.0
+
+GENERATION:
+DAT(1) [DDC] > WAV [44.1khz/16-bit] > FLAC [Level 8]
+
+LENGTH:
+92:09
+
+NOTES: 
+- The band briefly jam on part of the Rush song 'Cygnus X-1' during 'This Is A Call'.
+
+TRACKS:
+01. Breakout 
+02. My Hero 
+03. For All The Cows (jam)
+04. For All The Cows
+05. Learn To Fly
+06. Doll
+07. See You 
+08. New Way Home
+09. Aurora
+10. Stacked Actors
+11. Next Year
+12. I'll Stick Around
+13. Hey, Johnny Park!
+14. Monkey Wrench
+15. MIA
+16. Everlong
+17. Ain't It The Life
+18. My Poor Brain
+19. This Is A Call
+
+MD5 FINGERPRINTS:
+83cb0287a228e1b18029cd7e6abe5207 *01. Breakout.flac
+a5d11c1a3610d4ff8b97a83ba49e511d *02. My Hero.flac
+998aaa12d93505ef003153b42e9008b3 *03. For All The Cows.flac
+134b8522367f3d07950667835be98977 *04. For All The Cows.flac
+9408b8f9b87e277c3a2c2e4aa3702fbc *05. Learn To Fly.flac
+e8785f7f6ea53b2cf91e21fce63d93d9 *06. Doll.flac
+48f195e8532fc2b13520221ab3cc4f9c *07. See You.flac
+1bdec7c105c892c40d205951b8c15b82 *08. New Way Home.flac
+9d568c91bd15d2ded91399aeeaf515be *09. Aurora.flac
+bc45c363a5ce550747a39f94a76dd6f3 *10. Stacked Actors.flac
+cc0846b523a22dcbcd68bc9dd4e1cd7e *11. Next Year.flac
+91868925a18d0f5b702907a2828aa585 *12. I'll Stick Around.flac
+0fdc5d19755b748464d4d1a75099e0f9 *13. Hey, Johnny Park!.flac
+598a0972be2d41666912d71b5aac988e *14. Monkey Wrench.flac
+68e63b3ddf2d542b1f6edc859ec8c2b3 *15. MIA.flac
+5b4950336ff3e570f787f5f78caaecd6 *16. Everlong.flac
+4371c1fb6772ce220446b9ff2da5906e *17. Ain't It The Life.flac
+e07d2a0fb4860c58d411f0e069e8aa6e *18. My Poor Brain.flac
+5d086cbaa937ff40a688d308f9e9acb9 *19. This Is A Call.flac
+
+TRANSFERRED BY:
+Brad Collins

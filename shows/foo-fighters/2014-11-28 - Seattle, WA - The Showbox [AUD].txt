@@ -1,0 +1,93 @@
+FOO FIGHTERS
+November 28, 2014
+The Showbox at the Market
+Seattle, WA
+
+SOURCE:
+Church Audio CA-11 > Church Audio STC-9000 > Tascam DR-08
+
+TRANSFER:
+Tascam DR-08 > USB > Adobe Audition 3.0 > CD Wave 1.98 > Trader's Little Helper 2.7.0
+
+GENERATION:
+WAV(M) [48kHz/24bit] > WAV [44.1kHz/16bit] > FLAC [Level 8]
+
+LENGTH:
+187:50
+
+TRACKS:
+01. intro
+02. Winnebago
+03. The Feast And The Famine
+04. Learn To Fly
+05. White Limo
+06. Arlandria
+07. Rope
+08. The Pretender
+09. My Hero
+10. Hey, Johnny Park!
+11. Monkey Wrench
+12. Congregation
+13. Walk
+14. Cold Day In The Sun
+15. In The Clear
+16. I'll Stick Around
+17. Big Me
+18. Something From Nothing
+19. These Days
+20. Wattershed (part of)
+21. Wattershed
+22. For All The Cows
+23. Miss You
+24. Ain't Talkin' 'bout Love
+25. Breakdown
+26. Stiff Competition
+27. Subterranean
+28. Under Pressure
+29. All My Life
+30. This Is A Call
+31. Weenie Beenie
+32. Best Of You
+33. Exhausted
+34. Everlong
+
+FLAC FINGERPRINTS:
+foofighters2014-11-28t01.flac:54ec562050d3024d4d3dfe57697ccf89
+foofighters2014-11-28t02.flac:f97a6fa5da3f9ba724d2efb6f887a710
+foofighters2014-11-28t03.flac:24689306a4e615ed89da090a9c1baa27
+foofighters2014-11-28t04.flac:25a16edbaa437bcd2b9421751dc7c2ff
+foofighters2014-11-28t05.flac:33539e8148fd59c8c44732f89dcd917a
+foofighters2014-11-28t06.flac:3993f8efbb84ddb9bdf55cb953968952
+foofighters2014-11-28t07.flac:594e22dd3ea9e14a2dd65e434ebadd06
+foofighters2014-11-28t08.flac:ef5237e99b273cef781315bfa505f5b5
+foofighters2014-11-28t09.flac:637ae083f7117827f35abc56195a1767
+foofighters2014-11-28t10.flac:c3d6d4d9fdade050382dcc34d3e2fc2e
+foofighters2014-11-28t11.flac:3bb9e564d1a1f07ee349ccac1b9a5905
+foofighters2014-11-28t12.flac:4320f4c99306701a3cb8b8ef67314e8a
+foofighters2014-11-28t13.flac:40cb9027742731d21946350f91d747b0
+foofighters2014-11-28t14.flac:3aced83857e6c5fb4fab88b731c354da
+foofighters2014-11-28t15.flac:c136808284461c404d68c6272860b28a
+foofighters2014-11-28t16.flac:fab8e488ee2d66d8c5c7db76ed8a223a
+foofighters2014-11-28t17.flac:0799fb35884c3d295b39554a01333682
+foofighters2014-11-28t18.flac:1598ffd48e5d8076523d34181aa8ad17
+foofighters2014-11-28t19.flac:73cdf2bfb24ae4869b99cb98533f0ff5
+foofighters2014-11-28t20.flac:9f9e72165cc114014e94fb86ea833f6b
+foofighters2014-11-28t21.flac:121a1bafdc75afa0b67a358b933eea0b
+foofighters2014-11-28t22.flac:7d11d625cce5cd30cc6b914e9632dbbf
+foofighters2014-11-28t23.flac:fe34e3781fb51e781355d201c813b301
+foofighters2014-11-28t24.flac:317caf9ac3e32ad885fa1b15aa43d535
+foofighters2014-11-28t25.flac:19fd5b88c98b624babe5362da5ac55a0
+foofighters2014-11-28t26.flac:6b9cf7f10b92079fe34faaa37b6267a2
+foofighters2014-11-28t27.flac:b40e62a5eb02e6acced838776e5545e5
+foofighters2014-11-28t28.flac:ae8c862bcf49415346d8730824c99c89
+foofighters2014-11-28t29.flac:5b2c9ebf8be98e557d7eeb5eeec75c0d
+foofighters2014-11-28t30.flac:2a89fb5f038645e3ceb13c89a35388c1
+foofighters2014-11-28t31.flac:38d27f53293d544f4c7f1ebadd5d22aa
+foofighters2014-11-28t32.flac:cbec016ac4e4262479cf74dd93128f2a
+foofighters2014-11-28t33.flac:47f19370687bf7f624b69a17b9881570
+foofighters2014-11-28t34.flac:d38af5d1ea6b3ee9be8576cb0e9b4931
+
+RECORDED BY:
+Mike Ziegler
+
+PLEASE DO NOT SELL OR ENCODE TO MP3

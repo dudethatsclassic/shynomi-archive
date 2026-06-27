@@ -1,0 +1,58 @@
+Blind Melon
+1990-xx-xx
+The Goodfoot Demos
+Los Angeles, CA
+
+2020 Phase Fix Edition
+
+Source: SBD > CASS(m) > ? > MD > Digital Transfer > DAT(m) > CDR(x?) > ?unknown extraction software > WAV > FLAC > Audacity v2.3.3 dither=off invert right channel phase > FLAC (level 8)
+
+Total time: 29m 39s
+
+01. Drive
+02. What You Lost
+03. Paper Scratcher
+04. Tones of Home
+05. Leave Me Alone
+06. Dear Ol' Dad
+07. Soul One
+08. Seed To A Tree
+
+Notes: The Goodfoot Workshop is a 1991 four-song cassette demo that led to Blind Melon's major label recording contract. This fileset presents the complete sessions for that demo revealing all eight songs the band recorded before narrowing it down. Sourced from Shannon's own DAT MASTER, this release represents these historic sessions in near-perfect sound quality for the first time since 1991.
+
+One of the most legendary Blind Melon studio sessions ever recorded, this was hoarded by the Blind Melon elite and has now been liberated. A Master recording was unearthed from those hoarding bastards. If you don't have this, or have one of the old copies that circulated, download it NOW! You'll definitely be glad you did.
+
+Incredible upgrade in sound quality compared to the old fileset we all know from etree, stg, dime, archive.org etc. All pre-2020 shares of this are now obsolete. It is like night and day. Share this replacement version far and wide.
+
+The lineage has more details added. After noticing unmistakable MD artifacts in the spectral view, it appears with near-certainty that a MD pro deck with digital connections was used at some point for archiving. Something a small LA studio on budget might have. The fate of the "master cassette" or existence of a better lineage version within Shannon's old 'box o' dats' archive is currently unknown. Last I heard, C. Thorn still has the box in his posession, stored carefully but that may no longer be so. Shannon was a GD fan and an avid taper, of himself mostly. He would probably remember all the lineage and equipment used, but sadly we can't ask him anymore. The original fileset listed lineage as "Cassette Master > CD > wav > flac" and the files were named as "01-bm-goodfoot-DAT Master.d1t01.flac". If you're reading this far I want to admit I was kidding about hoarding and such. The nice sound was hidden there for years and years and years in the common "poor sound" flac distribution that's posted all over the place, fixable with a flip of the right channel phase switch.
+
+2020 phase fix: the right channel was out of phase, simple as that. Sound is instantly 100x better after inversion. this is not a remaster. It is a lossless correction. If you wish (and you won't) you can restore the old fileset with exact ffp by inverting the phase of the right channel again and re-saving (dither must be off). I tested this it works.
+
+Enjoy!
+
+****************************
+NOT FOR SALE!!! TRADE ONLY!!
+MP3 ONLY FOR PERSONAL USE!!!
+****************************
+
+Fingerprints:
+
+FLAC Fingerprint
+blind_melon1990-xx-xx.goodfoot.2020.t01.flac:19684369844b18dfaaddd198143876ce
+blind_melon1990-xx-xx.goodfoot.2020.t02.flac:048b7a359240ede85386acac7c74c802
+blind_melon1990-xx-xx.goodfoot.2020.t03.flac:c89b1c36eb8cc5985f2a7163f2529c34
+blind_melon1990-xx-xx.goodfoot.2020.t04.flac:ff412a7100a5e3888c24e245e2389fd0
+blind_melon1990-xx-xx.goodfoot.2020.t05.flac:e6151034155c182f19ffc7b808b8f8a2
+blind_melon1990-xx-xx.goodfoot.2020.t06.flac:de063bc371f86fe6bfabe51c43c8b0cf
+blind_melon1990-xx-xx.goodfoot.2020.t07.flac:9cc5208dd047df2ad31aa778d27dc469
+blind_melon1990-xx-xx.goodfoot.2020.t08.flac:57b1b9b2d89c279fdaaa230ddd42ef26
+
+st5
+19684369844b18dfaaddd198143876ce  [shntool]  blind_melon1990-xx-xx.goodfoot.2020.t01.flac
+048b7a359240ede85386acac7c74c802  [shntool]  blind_melon1990-xx-xx.goodfoot.2020.t02.flac
+c89b1c36eb8cc5985f2a7163f2529c34  [shntool]  blind_melon1990-xx-xx.goodfoot.2020.t03.flac
+ff412a7100a5e3888c24e245e2389fd0  [shntool]  blind_melon1990-xx-xx.goodfoot.2020.t04.flac
+e6151034155c182f19ffc7b808b8f8a2  [shntool]  blind_melon1990-xx-xx.goodfoot.2020.t05.flac
+de063bc371f86fe6bfabe51c43c8b0cf  [shntool]  blind_melon1990-xx-xx.goodfoot.2020.t06.flac
+9cc5208dd047df2ad31aa778d27dc469  [shntool]  blind_melon1990-xx-xx.goodfoot.2020.t07.flac
+57b1b9b2d89c279fdaaa230ddd42ef26  [shntool]  blind_melon1990-xx-xx.goodfoot.2020.t08.flac

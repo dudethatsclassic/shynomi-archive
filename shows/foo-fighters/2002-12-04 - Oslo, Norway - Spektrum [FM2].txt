@@ -1,0 +1,36 @@
+Foo Fighters
+
+12/04/02 Spectrum: Oslo, Norway
+
+source: FM > DAT-M > stand-alone CDR > CDR > .shn
+
+seed: PTB
+
+comments: cps renamed shns, modified txt file, and created new md5
+
+setlist: 
+
+ 1. intro
+ 2. All My Life
+ 3. My Hero
+ 4. Generator
+ 5. Learn to Fly
+ 6. talk >
+ 7. For All the Cows
+ 8. Have It All
+ 9. jam >
+10. Stacked Actors
+11. Times Like These
+12. The One
+13. Low
+14. Hey, Johnny Park!
+15. Monkeywrench
+
+ 1. Tired of You
+ 2. - jam / talk -
+ 3. Everlong
+ 4. - encore cheers -
+ 5. Aurora
+ 6. Enough Space
+ 7. Breakout
+ 8. outtro

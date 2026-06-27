@@ -1,0 +1,47 @@
+Foo Fighters
+May 5th, 1995
+Saint Andrews Hall
+Detroit, MI
+
+SOURCE (AUD #1):
+unknown > unknown
+
+TRANSFER:
+unknown > CDWave 1.98 > Trader's Little Helper 2.7.0
+
+GENERATION:
+ANA(M) > CDR(3) > WAV [44.1khz] > FLAC [Level 8]
+
+LENGTH:
+42:48
+
+TRACKS:
+01. intro
+02. Winnebago
+03. This Is A Call
+04. Floaty
+05. I'll Stick Around
+06. Big Me
+07. Wattershed
+08. For All The Cows
+09. Podunk
+10. Alone + Easy Target
+11. Exhausted 
+
+MD5 FINGERPRINTS:
+20206e08306b1b00f90bb515bb26209f *01. intro.flac
+388a8c1020e918ee6e843e339bf8e42b *02. Winnebago.flac
+af9a8c044e94811009479828edcb4455 *03. This Is A Call.flac
+e9967120513ed8a297210f132b728c9b *04. Floaty.flac
+81dba5903ca902f66e7d8c1347b63ba7 *05. I'll Stick Around.flac
+2da549a499a9350711a14a620441f50d *06. Big Me.flac
+c8228d096722503230e9f0ba5e05257f *07. Wattershed.flac
+6200071c1ba6b7e58cd342a325f24865 *08. For All The Cows.flac
+7d7a398f2cae81da386e5f8f6cfba3e8 *09. Podunk.flac
+172eb534ab1515975f8f632b91ecf177 *10. Alone + Easy Target.flac
+1a5eff6a72345f764430591dfb0cee6b *11. Exhausted.flac
+
+TRANSFERRED BY:
+Unknown
+
+**PLEASE DO NOT ENCODE TO LOSSY FORMATS OR SELL!**

@@ -1,0 +1,63 @@
+FOO FIGHTERS
+July 12th, 1997
+The Garage
+Cincinnati, OH
+
+SOURCE (AUD #1):
+unknown > unknown
+
+TRANSFER:
+Tascam DA-20 MKII > Monster SPDIF Coaxial Cable > M-Audio Audiophile 2496 > Adobe Audition 3.0 > CD Wave 1.98 > Trader's Little Helper 2.8.4
+
+GENERATION:
+DAT(M) > DAT(1) [16bit/48kHz] > WAV [16bit/48kHz] > WAV [16bit/44.1kHz] > FLAC [level 8]
+
+LENGTH:
+72:08
+
+TRACKS:
+01. intro
+02. Wind Up
+03. Wattershed
+04. Hey, Johnny Park!
+05. Monkey Wrench
+06. Alone + Easy Target
+07. Doll
+08. See You
+09. My Poor Brain
+10. For All The Cows
+11. Enough Space
+12. Big Me
+13. Weenie Beenie
+14. February Stars
+15. Everlong
+16. New Way Home
+17. This Is A Call
+18. Up In Arms
+19. I'll Stick Around
+
+MD5 FINGERPRINTS:
+1cc30c71dc122aa5470244397a50f441 *Foo Fighters - 1997-07-12_AUD1_DAT1 t01.flac
+888e4833e65e5cd43afbe772e686163b *Foo Fighters - 1997-07-12_AUD1_DAT1 t02.flac
+e6c93419ad383721121c9f24b3513b27 *Foo Fighters - 1997-07-12_AUD1_DAT1 t03.flac
+07491daabf47255983be5d59015e442b *Foo Fighters - 1997-07-12_AUD1_DAT1 t04.flac
+ad47d4567822ef692fc4a1fcefcee82f *Foo Fighters - 1997-07-12_AUD1_DAT1 t05.flac
+7146845d74029f9e6398682c7f7073ed *Foo Fighters - 1997-07-12_AUD1_DAT1 t06.flac
+042c99d4f8d215537d7a7121843c2e84 *Foo Fighters - 1997-07-12_AUD1_DAT1 t07.flac
+b11f096959a5fc048e90b89b8b6ce55d *Foo Fighters - 1997-07-12_AUD1_DAT1 t08.flac
+b731e9407f410081aa68eb5bd105dfd8 *Foo Fighters - 1997-07-12_AUD1_DAT1 t09.flac
+8c8ecb46d892de79cecee3df7cf31839 *Foo Fighters - 1997-07-12_AUD1_DAT1 t10.flac
+79afe10fedfa2d53fa56f48db5a97334 *Foo Fighters - 1997-07-12_AUD1_DAT1 t11.flac
+20c1dd6e3a1520270b9ebc14aff41821 *Foo Fighters - 1997-07-12_AUD1_DAT1 t12.flac
+1ece959692675f542b5aa6348316f74b *Foo Fighters - 1997-07-12_AUD1_DAT1 t13.flac
+714449ba9e64ac246f881f5815abbab3 *Foo Fighters - 1997-07-12_AUD1_DAT1 t14.flac
+5f893ef73eefef6f7860cc5adfbb3be7 *Foo Fighters - 1997-07-12_AUD1_DAT1 t15.flac
+97cae50215a349d34c74f40e3157e64d *Foo Fighters - 1997-07-12_AUD1_DAT1 t16.flac
+564dd0b527e08d8be2b9bcc8f6c8f32f *Foo Fighters - 1997-07-12_AUD1_DAT1 t17.flac
+4820ce4c77756a0c02987df809851e30 *Foo Fighters - 1997-07-12_AUD1_DAT1 t18.flac
+8bee4e2d301ebd1b73e5cb16082d43a1 *Foo Fighters - 1997-07-12_AUD1_DAT1 t19.flac
+
+TRANSFERRED BY:
+Members of LiveNIRVANA.com
+
+PLEASE DO NOT SELL OR ENCODE TO MP3

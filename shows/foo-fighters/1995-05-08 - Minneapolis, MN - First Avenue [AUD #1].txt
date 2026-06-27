@@ -1,0 +1,45 @@
+Foo Fighters
+May 8th, 1995
+First Avenue Club
+Minneapolis, MN
+
+SOURCE (AUD #1):
+Sonic Studios > Sony TCD-D3 (DAT)
+
+TRANSFER:
+Tascam DA-20MKII > Monster SPDIF Coaxial Cable > MAudio Audiophile 2496 > Audacity > CD Wave 1.98 > Traders Little Helper 2.7.0
+
+GENERATION:
+DAT(1) [DDC] > WAV [32khz/16-Bit] > WAV [44.1khz/16-bit] > FLAC [Level 8]
+
+LENGTH:
+39:45
+
+TRACKS:
+01. Winnebago
+02. This Is A Call
+03. Floaty
+04. I'll Stick Around
+05. Big Me
+06. Wattershed
+07. For All The Cows
+08. Alone + Easy Target
+09. Podunk
+10. Exhausted
+
+MD5 FINGERPRINTS:
+62fe06fddf20c6a506477c2889db41a5 *01. Winnebago.flac
+562fb2ad19d2b652c714d134bcfb2ebe *02. This Is A Call.flac
+b36db60de9e2ebf1852c2c019ac5cc19 *03. Floaty.flac
+3ef2aae29cbb888b9e5c63ac3a47aa72 *04. I'll Stick Around.flac
+79996f8ec1a22ba5f0f1f16ae2812004 *05. Big Me.flac
+37045f9cb4b5e2b0aaa7540dceab3bc7 *06. Wattershed.flac
+6180e8a4eba3854331d4d683b7903f39 *07. For All The Cows.flac
+365d52b05f01c18914abe7215500883e *08. Alone + Easy Target.flac
+d5b8536d1f926da1a1e470b4a30db6ee *09. Podunk.flac
+13b316b66e80c30ef13c04501a0231c5 *10. Exhausted.flac
+
+TRANSFERRED BY:
+Brad Collins
+
+**PLEASE DO NOT ENCODE TO LOSSY FORMATS OR SELL!**

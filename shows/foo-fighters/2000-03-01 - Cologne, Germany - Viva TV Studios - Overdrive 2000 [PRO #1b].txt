@@ -1,0 +1,41 @@
+Foo Fighters
+March 1st, 2000
+VIVA TV Studios
+Cologne, Germany
+
+SOURCE (PRO #1b):
+soundboard > unknown
+
+TRANSFER:
+Sony SBM-1 > Sony TCD-D8 > Dio 2496  > Sony Soundforge > CD-R > Rubyripper > Trader's Little Helper 2.7.0
+
+GENERATION:
+TV > DAT(c) > CDR(1) > WAV [44.1khz] > FLAC [Level 8]
+
+LENGTH:
+34:05
+
+TRACKS:
+01. Next Year
+02. Aurora
+03. Generator
+04. Learn To Fly
+05. interview
+06. Breakout
+07. Stacked Actors
+08. Ain't It The Life
+
+MD5 FINGERPRINTS:
+54e3eae62a7bccb26eed8912c65bfb2a *01. Next Year.flac
+ee73e1d925069086fccf9e219fdbbccd *02. Aurora.flac
+b31f7b9a6ae150dd0953c1984965eb8b *03. Generator.flac
+14ac8e4f01d31c7202f4e7c2d4801ac6 *04. Learn To Fly.flac
+41804ba70f89f04b66e6e20b4f7b3bfb *05. interview.flac
+3532deba833ba895d7e80e31522807da *06. Breakout.flac
+7d1751deaa92f98e917f1ab21573d173 *07. Stacked Actors.flac
+0a2ce1468c31fbe7694c9054bd8058eb *08. Ain't It The Life.flac
+
+TRANSFERRED BY:
+Anonymous
+
+**PLEASE DO NOT ENCODE TO LOSSY FORMATS OR SELL!**

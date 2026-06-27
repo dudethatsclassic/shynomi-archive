@@ -1,0 +1,32 @@
+Foo Fighters
+July 24th, 2015
+Naeba Ski Resort (Fuji Rock Festival)
+Yuzawa-cho, Japan
+
+SOURCE (PRO #1):
+soundboard > unknown
+
+TRANSFER:
+unknown > TsMuxerGUI > MKVMergeGUI 7.8.0
+
+GENERATION:
+HDTV > Transport Stream [MPEG-2 / 14.3Mbps / 1080i | AAC / 192kbps / 2.0] > MKV
+
+LENGTH:
+17:13
+
+NOTES:
+- Partial highlights broadcast by SKY PerfecTV! on August 28th 2015. 
+
+TRACKS:
+01. Monkey Wrench
+02. Learn To Fly
+03. Congregation
+
+MD5 FINGERPRINTS:
+71c020f69a6037127d9ec5c601cc05b7 *FooFighters2015-07-24.mkv
+
+TRANSFERRED BY:
+Minoland
+
+**PLEASE DO NOT ENCODE TO LOSSY FORMATS OR SELL!**

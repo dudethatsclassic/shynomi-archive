@@ -1,0 +1,39 @@
+Foo Fighters
+May 12th, 1995
+Commodore Ballroom
+Vancouver, BC
+
+SOURCE (AUD #1):
+unknown > unknown
+
+EXTRACTION:
+Lite-On iHBS112 > Exact Audio Copy 1.0 beta 3 > Flac Frontend 1.7.1 > CD Wave 1.98 > Trader's Little Helper 2.7.0
+
+GENERATION:
+CD(M) > WAV [44.1khz] > FLAC [Level 8]
+
+LENGTH:
+25:00
+
+TRACKS:
+01. Butterflies
+02. I'll Stick Around
+03. Big Me
+04. Wattershed
+05. For All The Cows
+06. Alone + Easy Target
+07. Exhausted
+
+MD5 FINGERPRINTS:
+862f4ffb16cae2b1f6a3eaed89085c36 *01. Butterflies.flac
+cb8cb0f09593f81fc85c8ad4d0ccec50 *02. I'll Stick Around.flac
+a8962781a903f3698275a8c75cbfde46 *03. Big Me.flac
+d7cc9339679ec242c0a0fadfa28292fd *04. Wattershed.flac
+f4a6d4e84642cc6aaa9b85fd7dcc222d *05. For All The Cows.flac
+4ed90e78f5e671579bd3f51117bb3fbe *06. Alone + Easy Target.flac
+5e60f8691a5473d1913fefe586f3069a *07. Exhausted.flac
+
+EXTRACTED BY:
+Pierre Leroy
+
+**PLEASE DO NOT ENCODE TO LOSSY FORMATS OR SELL!**

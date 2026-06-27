@@ -1,0 +1,52 @@
+Foo Fighters
+October 26th, 2000
+Warfield Theatre (MGD Blind Date Show)
+San Francisco, CA
+
+SOURCE (AUD #1):
+Schoeps Mk4 > R-Mod > Sony SBM-1 > Sony PCM-M1 (DAT)
+
+TRANSFER:
+Rubyripper > FLAC.exe
+
+GENERATION:
+DAT(M) > REMASTER > CDR(2) > WAV [44.1khz] > FLAC [Level 8]
+
+LENGTH:
+64:26
+
+NOTES:
+- All circulating copies are remastered.
+
+TRACKS:
+01. intro
+02. Breakout
+03. My Hero
+04. Learn To Fly
+05. This Is A Call
+06. Aurora
+07. Stacked Actors
+08. Ain't It The Life
+09. Next Year
+10. I'll Stick Around
+11. Monkey Wrench
+12. Everlong
+
+MD5 FINGERPRINTS:
+73deb411cbca374e85bda16f95977673 *FooFighters2000-10-26t01.flac
+d2675ba66348716a6b371a7379b1e21d *FooFighters2000-10-26t02.flac
+6fbeb41093812148952a40618cee8d44 *FooFighters2000-10-26t03.flac
+b0537611d05478d48f87c997655af340 *FooFighters2000-10-26t04.flac
+3b6c653c3348ccaf116b05efb754a13a *FooFighters2000-10-26t05.flac
+30c49884022ddb0319ea323008e33aa8 *FooFighters2000-10-26t06.flac
+757632844342b7429f55977b57cf77ac *FooFighters2000-10-26t07.flac
+55f015b4ce850f615de97683e1754ca3 *FooFighters2000-10-26t08.flac
+4975aca4568bf83204dbcdd3d6482906 *FooFighters2000-10-26t09.flac
+e9003415da75dccfbbfc6563d970e8d7 *FooFighters2000-10-26t10.flac
+1b2affd6e743156a9ea7946af4125896 *FooFighters2000-10-26t11.flac
+f3a933cbfb330b4393d4c212364b2d44 *FooFighters2000-10-26t12.flac
+
+EXTRACTED BY:
+Anonymous
+
+**PLEASE DO NOT ENCODE TO LOSSY FORMATS OR SELL!**

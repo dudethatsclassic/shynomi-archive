@@ -1,0 +1,28 @@
+Foo Fighters
+July 19th, 2015
+Fenway Park
+Boston, MA
+
+SOURCE (PRO #1):
+soundboard > unknown
+
+TRANSFER: 
+Facebook.com Livestream > streamlink 1.4.1 > mkvtoolnixGUI 43.0.0
+
+GENERATION: 
+Webstream > Transport Stream [1080p / H264 / 29.97fps | AAC / 2.0 / 132kbps] > MKV
+
+NOTES:
+- Broadcast during 'Fenway Sessions' webstream on July 22nd, 2020.
+
+LENGTH: 
+5:16
+
+TRACKS: 
+01. Walk
+
+MD5 CHECKSUMS: 
+2ce091282057dc7a0ee838f655a512bb *foofighters2015-07-19_PRO1_WEB.mkv
+
+RECORDED AND TRANSFERRED BY: 
+FooFightersLive.com

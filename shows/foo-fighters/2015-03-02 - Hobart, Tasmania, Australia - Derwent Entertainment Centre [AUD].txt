@@ -1,0 +1,36 @@
+Foo Fighters
+
+2nd March 2015
+Derwent Entertainment Centre
+Hobart, Tasmania, Australia
+
+Intro
+Something From Nothing
+Rope
+The Pretender
+Learn To Fly
+Breakout
+My Hero
+Big Me
+Congregation
+Walk
+Introductions
+Cold Day In The Sun
+In The Clear 
+Arlandria
+Hey, Johnny Park!
+Monkey Wrench
+Skin And Bones
+Times Like These
+Dear Rosemary
+Breakdown (Tom Petty And The Heartbreakers)
+All My Life
+These Days
+Outside
+This Is A Call
+Best Of You
+Everlong
+
+Running Time: 2:28:01
+
+Lineage: CA-11 (Cardioid) > Sony PCM-M10 (96/24) > Adobe Audition CS6 (iZotope Ozone 5 Mastering Plugin) , (iZotope RX 4 DeClicker - remove audience clapping) / Edit & Levels / 48kHz/24bit > Foobar - FLAC Lvl 8

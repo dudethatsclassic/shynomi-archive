@@ -1,0 +1,67 @@
+FOO FIGHTERS
+October 5th, 1997
+Roseland Ballroom
+New York, NY
+
+SOURCE (AUD #4):
+Core Sound Cardioid > Sony TCD-D8
+
+TRANSFER:
+Tascam DA-20 MKII > Monster SPDIF Coaxial Cable > M-Audio Audiophile 2496 > Adobe Audition 3.0 > CD Wave 1.98 > Trader's Little Helper 2.8.4
+
+GENERATION:
+DAT(M) > DAT(1) [16bit/48kHz] > WAV [16bit/48kHz] > WAV [16bit/44.1kHz] > FLAC [level 8]
+
+LENGTH:
+69:24
+
+TRACKS:
+01. crowd
+02. intro (jam)
+03. This Is A Call
+04. Gas Chamber
+05. Hey, Johnny Park!
+06. Monkey Wrench
+07. Alone + Easy Target
+08. Doll
+09. See You
+10. My Poor Brain
+11. Enough Space
+12. Rhiannon (jam) / Big Me
+13. The Colour And The Shape
+14. For All The Cows
+15. Wattershed
+16. Up In Arms
+17. Weenie Beenie
+18. Everlong
+19. New Way Home
+20. Down in the Park
+21. I'll Stick Around
+
+MD5 FINGERPRINTS:
+579975ec7d4751fe6b1145df7b6fda03 *Foo Fighters - 1997-10-05_AUD4_DAT1 t01.flac
+aa54d202f49d9206d66e11ea89adb8f9 *Foo Fighters - 1997-10-05_AUD4_DAT1 t02.flac
+1e8b7ad535171d6060a9fcc38b35d2b9 *Foo Fighters - 1997-10-05_AUD4_DAT1 t03.flac
+b830ced5620f52e4856bceca58b06f7c *Foo Fighters - 1997-10-05_AUD4_DAT1 t04.flac
+ef75f0fe5b81881201c6256af56459bc *Foo Fighters - 1997-10-05_AUD4_DAT1 t05.flac
+bfbe3b891e46df6eab02f2b72686c45a *Foo Fighters - 1997-10-05_AUD4_DAT1 t06.flac
+ca177a1673dbc1245a673a2b75e511fd *Foo Fighters - 1997-10-05_AUD4_DAT1 t07.flac
+9ac27029ec3de694f9a713090cfb27e9 *Foo Fighters - 1997-10-05_AUD4_DAT1 t08.flac
+79be83bc6a2a004391d75948cb139227 *Foo Fighters - 1997-10-05_AUD4_DAT1 t09.flac
+7e98a6fc32d40032c51547d647f621b7 *Foo Fighters - 1997-10-05_AUD4_DAT1 t10.flac
+1ea056dee84b3cdf6bfa731a9d92ac3c *Foo Fighters - 1997-10-05_AUD4_DAT1 t11.flac
+3fc62605ce4287bf141cf0cc25444d34 *Foo Fighters - 1997-10-05_AUD4_DAT1 t12.flac
+efe466704ebd4136359761222251772e *Foo Fighters - 1997-10-05_AUD4_DAT1 t13.flac
+426ff2edfc0929f13ffc78bc60588327 *Foo Fighters - 1997-10-05_AUD4_DAT1 t14.flac
+eed349c8e9a921216164a163f82d23c7 *Foo Fighters - 1997-10-05_AUD4_DAT1 t15.flac
+d409a8bc7735ffdb440123361f2bbd6f *Foo Fighters - 1997-10-05_AUD4_DAT1 t16.flac
+619bfd777f978cd8123af101471771f6 *Foo Fighters - 1997-10-05_AUD4_DAT1 t17.flac
+3e43e5e2b6e6dd8b885957ad3dec45e9 *Foo Fighters - 1997-10-05_AUD4_DAT1 t18.flac
+d3bc74b960b677d1ec15c474ae89e57e *Foo Fighters - 1997-10-05_AUD4_DAT1 t19.flac
+10c088cd82d343f882dcb625a87e58c7 *Foo Fighters - 1997-10-05_AUD4_DAT1 t20.flac
+44de41cbdd6401b02f0fe12e687142ef *Foo Fighters - 1997-10-05_AUD4_DAT1 t21.flac
+
+TRANSFERRED BY:
+Members of LiveNIRVANA.com
+
+PLEASE DO NOT SELL OR ENCODE TO MP3

@@ -1,0 +1,45 @@
+Foo Fighters
+April 20th, 1995
+328 Performance Hall
+Nashville, TN
+
+SOURCE (AUD #1):
+unknown > unknown (cassette)
+
+TRANSFER:
+Tascam DA20 > Nomad Jukebox 3 > Adobe Audition > CD Wave > Trader's Little Helper
+
+GENERATION:
+ANA(M) > DAT(1) > WAV [44.1khz] > FLAC [Level 8]
+
+LENGTH:
+38:00
+
+TRACKS:
+01. Floaty
+02. This Is A Call
+03. Butterflies
+04. I'll Stick Around
+05. Big Me
+06. Wattershed
+07. For All The Cows
+08. Podunk
+09. Alone + Easy Target 
+10. Exhausted 
+
+MD5 FINGERPRINTS:
+ca97a139c26ac8ef35d5212bf9c7ea6a *01. Floaty.flac
+534cd850a9cded12b509e1c292a35015 *02. This Is A Call.flac
+7ed90e45fde530243f8b87e236c3ff73 *03. Butterflies.flac
+ce9d5eb5b2c4a55de20033eaf6f1a44b *04. I'll Stick Around.flac
+eeab1b0a49be16335a30a3f2d7e9a3b1 *05. Big Me.flac
+44af6c9f92ac49670a3f6b1c6e321f52 *06. Wattershed.flac
+2005eba5b3335ea48bca4a6f230d7573 *07. For All The Cows.flac
+b18d98efe9a1f52a2f45956a554685a7 *08. Podunk.flac
+08adcfbcc1b92a89230c342bb9364941 *09. Alone + Easy Target.flac
+8e73645497ce2560a29a56308709f4b1 *10. Exhausted.flac
+
+TRANSFERRED BY:
+ellaguru
+
+**PLEASE DO NOT ENCODE TO LOSSY FORMATS OR SELL!**

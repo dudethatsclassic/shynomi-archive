@@ -1,0 +1,40 @@
+Foo Fighters
+July 28th, 1995
+American Legion Hall
+Los Angeles, CA
+
+SOURCE (AMT #1):
+unknown > unknown (Video 8)
+
+TRANSFER:
+8mm Master > Sony TRV-740 Digital8 Camera with TBC/DNR > firewire > JVC DRM-100 Dvd Recorder > MakeMKV 1.13.1
+
+GENERATION:
+Video8(M) > MKV [480i/29.97fps/MPEG-2 | 384kbps / AC-3 / 2.0]
+
+LENGTH:
+66:56
+
+TRACKS:
+01. Alone + Easy Target 
+02. Winnebago 
+03. Wattershed 
+04. Big Me 
+05. This Is A Call
+06. Weenie Beenie 
+07. For All The Cows 
+08. Butterflies 
+09. I'll Stick Around
+10. X-Static 
+11. My Hero 
+12. Good Grief 
+13. Podunk 
+14. Exhausted
+15. Floaty
+16. Down In The Park
+
+MD5 FINGERPRINTS:
+84cb48853df408e7d02d76454f485293 *foofighters1995-07-28_AMT1_VID8M.mkv
+
+TRANSFERRED BY:
+Ron

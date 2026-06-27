@@ -1,0 +1,48 @@
+Foo Fighters
+September 19th, 2017
+o2 Arena
+London, United Kingdom
+
+SOURCE (SBD #1b):
+soundboard > unknown
+
+TRANSFER:
+Icecast live webstream > ffmpeg N-91666-g70d2bab80b > Adobe Audition CC 2017 > FLAC.exe
+
+GENERATION:
+Webstream [OGG-FLAC 48khz/24-Bit] > WAV > FLAC
+
+LENGTH:
+53:01
+
+NOTES:
+- Re-broadcast by Absolute Radio in September 2018.
+
+TRACKS:
+01. All My Life (cut)
+02. Learn To Fly
+03. The Sky Is A Neighborhood
+04. La Dee Da (cuts out)
+05. The Pretender 
+06. These Days
+07. Run
+08. My Hero (cuts in, cuts out)
+09. Best Of You
+10. Everlong
+
+MD5 FINGERPRINTS:
+4d1d98b13f7bff390bddb7c191e7adf4 *01. All My Life.flac
+3b550fa2834bae3507396c80f7885b2e *02. Learn To Fly.flac
+458161610f767c2e3e715abafb4629df *03. The Sky Is A Neighborhood.flac
+71600ce49a6e9bbffc55d35492a51204 *04. La Dee Da.flac
+c64c9259d1c723f4a95b1e1abc250a23 *05. The Pretender.flac
+1bdacf8b7876ce93f96c8338af537575 *06. These Days.flac
+dba0715ebe2489919f6ccd99d8a2f3f8 *07. Run.flac
+7dd8dde45d3c2775009145988927d70c *08. My Hero.flac
+a3cadb58e6b552be15d511393c7d3aff *09. Best Of You.flac
+7554f114876034b70139d12595458289 *10. Everlong.flac
+
+RECORDED BY:
+FooFightersLive.com
+
+**PLEASE DO NOT SELL!**

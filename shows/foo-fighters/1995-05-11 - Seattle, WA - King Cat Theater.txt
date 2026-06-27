@@ -1,0 +1,47 @@
+FOO FIGHTERS
+May 11th, 1995
+King Cat Theater
+Seattle, WA
+
+SOURCE (AUD #3):
+unknown > unknown
+
+TRANSFER:
+Nakamichi DR-3 > Monster RCA Cable > M-Audio Audiophile 2496 > Adobe Audition 3.0 > CD Wave 1.98 > Trader's Little Helper 2.8.4
+
+GENERATION:
+ANA(x) > WAV [16bit/48kHz] > WAV [16bit/44.1kHz] > FLAC [level 8]
+
+LENGTH:
+41:39
+
+TRACKS:
+01. intro
+02. Winnebago
+03. This Is A Call
+04. Butterflies
+05. I'll Stick Around
+06. Big Me
+07. Wattershed
+08. For All The Cows
+09. Alone + Easy Target
+10. Podunk
+11. Exhausted
+
+MD5 FINGERPRINTS:
+8a1d2aa9f948d2e3f17fa94caa61e950 *Foo Fighters - 1995-05-11_AUD3_ANAx t01.flac
+7eeaa342086fb60d51f2b7f3cc6f9632 *Foo Fighters - 1995-05-11_AUD3_ANAx t02.flac
+60f9e998d3a19de95563cd9f43b64469 *Foo Fighters - 1995-05-11_AUD3_ANAx t03.flac
+f4cd8e398cd14595fecccc02685354e5 *Foo Fighters - 1995-05-11_AUD3_ANAx t04.flac
+769c8be9d702f00434c8774e6b5c02a3 *Foo Fighters - 1995-05-11_AUD3_ANAx t05.flac
+dbe375a0a0757c5eab04d5b76f0bb47e *Foo Fighters - 1995-05-11_AUD3_ANAx t06.flac
+62587f0948b901ad8b15758c1926d515 *Foo Fighters - 1995-05-11_AUD3_ANAx t07.flac
+9edcdd49e3b948cfce3996d03cce8e92 *Foo Fighters - 1995-05-11_AUD3_ANAx t08.flac
+fbb34117cb6def277a85dc3609ade927 *Foo Fighters - 1995-05-11_AUD3_ANAx t09.flac
+ac9e4b1317dfe52555aff92075c24446 *Foo Fighters - 1995-05-11_AUD3_ANAx t10.flac
+ea46acb6e2761e2b987808e83a76f105 *Foo Fighters - 1995-05-11_AUD3_ANAx t11.flac
+
+TRANSFERRED BY:
+Members of LiveNIRVANA.com
+
+PLEASE DO NOT SELL OR ENCODE TO MP3

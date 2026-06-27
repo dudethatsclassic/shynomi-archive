@@ -1,0 +1,57 @@
+FOO FIGHTERS
+August 4th, 1995
+First Avenue Club
+Minneapolis, MN
+
+SOURCE (AUD #2):
+unknown > unknown
+
+TRANSFER:
+Tascam DA-20 MKII > Monster SPDIF Coaxial Cable > M-Audio Audiophile 2496 > Adobe Audition 3.0 > CD Wave 1.98 > Trader's Little Helper 2.8.4
+
+GENERATION:
+DAT(M) > DAT(2) [16bit/32kHz] > WAV [16bit/32kHz] > WAV [16bit/44.1kHZ] > FLAC [level 8]
+
+LENGTH:
+66:34
+
+TRACKS:
+01. intro
+02. Winnebago
+03. I'll Stick Around
+04. Butterflies
+05. Wattershed
+06. Big Me
+07. This Is A Call
+08. Weenie Beenie
+09. For All The Cows
+10. My Hero
+11. X-Static
+12. Podunk
+13. Alone + Easy Target
+14. Exhausted
+15. Floaty
+16. Down in the Park
+
+MD5 FINGERPRINTS:
+c4bbfd4bc627faa03d45297ca04e98e8 *Foo Fighters - 1995-08-04_AUD2_DAT2 t01.flac
+ff1ca5ec3253942174718e194466854d *Foo Fighters - 1995-08-04_AUD2_DAT2 t02.flac
+89edb06ee61d7b25975d1164999c3464 *Foo Fighters - 1995-08-04_AUD2_DAT2 t03.flac
+313c88d3af3d44e63a08c6a3a40d0e7c *Foo Fighters - 1995-08-04_AUD2_DAT2 t04.flac
+d09321c99a5c5e0f2be1b0bdb6a563a9 *Foo Fighters - 1995-08-04_AUD2_DAT2 t05.flac
+ac44fab2f001efdcbdd931a82e883356 *Foo Fighters - 1995-08-04_AUD2_DAT2 t06.flac
+3fc8ae82680be9c02416518f0127319d *Foo Fighters - 1995-08-04_AUD2_DAT2 t07.flac
+b2b91a8190e540aad3e7aae17383d50f *Foo Fighters - 1995-08-04_AUD2_DAT2 t08.flac
+bb51de3f302b16efd4f476ee25bf6c92 *Foo Fighters - 1995-08-04_AUD2_DAT2 t09.flac
+0a45901b48bc1e021fd527db3065fc59 *Foo Fighters - 1995-08-04_AUD2_DAT2 t10.flac
+a342e1f2f8929b5b83d4cf8468ee3790 *Foo Fighters - 1995-08-04_AUD2_DAT2 t11.flac
+7770e344b5654cf82f656e9086048096 *Foo Fighters - 1995-08-04_AUD2_DAT2 t12.flac
+48a2e0f295edaf30c217242e7c7e31f4 *Foo Fighters - 1995-08-04_AUD2_DAT2 t13.flac
+82ecb6a47228a50eea60bb74f2bd8d8a *Foo Fighters - 1995-08-04_AUD2_DAT2 t14.flac
+0752363bae80e71e7b2621efd7f493c5 *Foo Fighters - 1995-08-04_AUD2_DAT2 t15.flac
+8eded11a4c891c7460eb08e4cf4cd9e8 *Foo Fighters - 1995-08-04_AUD2_DAT2 t16.flac
+
+TRANSFERRED BY:
+Members of LiveNIRVANA.com
+
+PLEASE DO NOT SELL OR ENCODE TO MP3

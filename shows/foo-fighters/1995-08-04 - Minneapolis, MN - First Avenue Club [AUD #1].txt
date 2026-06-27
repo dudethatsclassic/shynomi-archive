@@ -1,0 +1,58 @@
+Foo Fighters
+August 4th, 1995
+First Avenue Club
+Minneapolis, MN
+
+SOURCE (AUD #1):
+unknown > unknown
+
+TRANSFER: 
+unknown > Exact Audio Copy > Adobe Audition CC 2019 > CD Wave 1.98 > flac 1.3.2
+
+GENERATION: 
+ANA(x) > CDR(x) > WAV [44.1khz/16-bit] > FLAC [Level 8]
+
+NOTES:
+- Tape cut before 'Podunk', cuts in very slightly.
+- Most of 'Alone + Easy Target' is missing due to a tape flip.
+- Encore break is cut, no music is missing.
+
+LENGTH: 
+60:39
+
+TRACKS: 
+01. Winnebago
+02. I'll Stick Around
+03. Butterflies
+04. Wattershed
+05. Big Me
+06. This Is A Call
+07. Weenie Beenie
+08. For All The Cows
+09. My Hero
+10. X-Static
+11. Podunk
+12. Alone + Easy Target
+13. Exhausted
+14. Floaty
+15. Down In The Park
+
+MD5 CHECKSUMS: 
+62237f2bf86a2d6cabfa6c2c54c99c8d *01. Winnebago.flac
+c47ccae03d0b72671d4d8a01e9ea5b9d *02. I'll Stick Around.flac
+6c64263dd762ffb807420738f8905de1 *03. Butterflies.flac
+a934cc0013cde056a2dbfa3c28ca7962 *04. Wattershed.flac
+f8fa2700c3de7cfc3119d7ae345e11a5 *05. Big Me.flac
+a14fa91a82a66df9b41bec473f90c7e1 *06. This Is A Call.flac
+c8d9f9b0841918143d8d066a086e8fc6 *07. Weenie Beenie.flac
+694b44eabfc98107ffafa1a03c97b4f3 *08. For All The Cows.flac
+8c8c9039bd9748aa4b7c3c0bfd6e588d *09. My Hero.flac
+7ab4adecb1e2d3cc987990c138ef6864 *10. X-Static.flac
+733ddca62afdfb263297e07bfb88057e *11. Podunk.flac
+daa320d2a71e6e4c0c299d94d39e3800 *12. Alone + Easy Target.flac
+a9585b8c1e104e1dd514783e62997b49 *13. Exhausted.flac
+9cb1cf4718db0fdc59da9e7de5b6af1c *14. Floaty.flac
+85e2740c412dd6cce0ab1b1a3c8029ff *15. Down In The Park.flac
+
+TRANSFERRED BY: 
+unknown

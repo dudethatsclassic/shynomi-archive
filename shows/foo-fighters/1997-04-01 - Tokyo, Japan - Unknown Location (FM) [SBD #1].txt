@@ -1,0 +1,31 @@
+FOO FIGHTERS
+April 1st, 1997
+unknown location
+Tokyo, Japan
+
+SOURCE (SBD #1):
+FM > unknown
+
+TRANSFER:
+Tascam DA-20 MKII > Monster SPDIF Coaxial Cable > M-Audio Audiophile 2496 > Adobe Audition 3.0 > CD Wave 1.98 > Trader's Little Helper 2.8.4
+
+GENERATION:
+FM > DAT(2) [16bit/48kHz] > WAV [16bit/48kHz] > WAV [16bit/44.1kHz] > FLAC [level 8]
+
+LENGTH:
+02:07
+
+TRACKS:
+01. Carry on Wayward Son (part of)
+02. Bullet With Butterfly Wings - Wannabe (medley)
+03. Big Me (part of)
+
+MD5 FINGERPRINTS:
+23ee8160638b54d71c19db9a3e9bd02e *Foo Fighters - 1997-04-01_SBD1_FM-DAT2 t01.flac
+b0e7689829c9423cd205a6e45a9cfd42 *Foo Fighters - 1997-04-01_SBD1_FM-DAT2 t02.flac
+f0775505e09e9d25f1da4e3dc44a6568 *Foo Fighters - 1997-04-01_SBD1_FM-DAT2 t03.flac
+
+TRANSFERRED BY:
+Members of LiveNIRVANA.com
+
+PLEASE DO NOT SELL OR ENCODE TO MP3

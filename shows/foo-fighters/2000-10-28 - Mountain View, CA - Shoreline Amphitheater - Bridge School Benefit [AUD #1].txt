@@ -1,0 +1,41 @@
+Foo Fighters
+October 28th, 2000
+Shoreline Ampitheatre (Bridge School Benefit)
+Mountain View, CA
+
+SOURCE (AUD #1):
+Schoeps CCM-4 w/ R-Mod > Sony SBM-1 > Sony TCD-D100 (DAT) 
+
+EXTRACTION:
+RubyRipper > FLAC.exe
+
+GENERATION:
+DAT(M) > CDR(2) > WAV [44.1khz] > FLAC [Level 8]
+
+LENGTH:
+32:21
+
+TRACKS:
+01. intro
+02. See You
+03. Learn To Fly
+04. Next Year
+05. Ain't It The Life
+06. Monkey Wrench
+07. Everlong
+08. This Is A Call
+
+MD5 FINGERPRINTS:
+a91f7b824712c85e90395ea85a35f4e0 *ff2000-10-28t01.flac
+70bafadb2fbc5ba6f8b66a8fb576091d *ff2000-10-28t02.flac
+2ec6ac9be672502359bee7ca7b96b34d *ff2000-10-28t03.flac
+c568cce4b8e3ce1ad52bf1000df89a71 *ff2000-10-28t04.flac
+4d67e833ee668d3f5a772ee6107da3f3 *ff2000-10-28t05.flac
+db94771f03a851cdc59186ff1f659ae5 *ff2000-10-28t06.flac
+eca228060ad5a7299394393dca07da68 *ff2000-10-28t07.flac
+90e927cda12687a8795f011e90d80a59 *ff2000-10-28t08.flac
+
+TRANSFERRED BY:
+Unknown
+
+**PLEASE DO NOT ENCODE TO LOSSY FORMATS OR SELL!**

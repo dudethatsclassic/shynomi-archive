@@ -1,0 +1,62 @@
+FOO FIGHTERS
+August 29, 1998
+Richfield Avenue,
+Reading Festival,
+Reading, UK
+
+DISC #1/1 (56:19)
+---------------
+01) intro
+02) Monkey Wrench
+03) Alone + Easy Target
+04) Hey, Johnny Park!
+05) My Hero
+06) My Poor Brain
+07) See You
+08) jam
+09) I'll Stick Around
+10) Up In Arms
+11) For All The Cows
+12) Enough Space
+13) Everlong
+14) Ain't Talking 'bout Love (jam)
+15) New Way Home
+16) This Is A Call
+
+GENERATION
+---------------
+ANA(M) -> WAV [48khz] -> WAV [44.1khz] -> FLAC [Level 8]
+
+SOURCE (AUD #1)
+---------------
+Sony (supplied) -> Sony WM-GX506
+
+TRANSFER
+---------------
+Nakamichi DR-3 -> RCA to 1/4" TS custom Klotz cables -> M-Audio Delta Audiophile 192 analog-in -> Adobe Audition 2.0 -> CD Wave 1.95.1 -> FLAC Frontend 1.7.1
+
+NOTES
+---------------
+- tape flip after 'Enough Space', missing some banter.
+
+MD5 FINGERPRINTS
+---------------
+f96937bf2132439bb8b7fedd939ef012 *foofighters_1998-08-29_aud1_anam_d1t01.flac
+5f32be67c73f56120612064dcb771203 *foofighters_1998-08-29_aud1_anam_d1t02.flac
+4be35d8dbb0658028cfa0d95ebe1f886 *foofighters_1998-08-29_aud1_anam_d1t03.flac
+68623299aaa5845490a8abaac43b2a0c *foofighters_1998-08-29_aud1_anam_d1t04.flac
+c0e0114c67d8cc9313f5dc4212e772cf *foofighters_1998-08-29_aud1_anam_d1t05.flac
+f4796a807ee9f2af104796c18b8684d0 *foofighters_1998-08-29_aud1_anam_d1t06.flac
+11d30423ed8bb53757c76e10b559b904 *foofighters_1998-08-29_aud1_anam_d1t07.flac
+84fb16bce0c34796afac9c8df3053cd6 *foofighters_1998-08-29_aud1_anam_d1t08.flac
+a7218ec6f3d9878180aaaf5d4d70f304 *foofighters_1998-08-29_aud1_anam_d1t09.flac
+2274c378719190cd64c5d128497ee4ff *foofighters_1998-08-29_aud1_anam_d1t10.flac
+c7d7634f38acfe3953762e390f188207 *foofighters_1998-08-29_aud1_anam_d1t11.flac
+340ac494d02bcfd38c60d8c974aee6b5 *foofighters_1998-08-29_aud1_anam_d1t12.flac
+06682808ebf65f9d86169e81d39963bb *foofighters_1998-08-29_aud1_anam_d1t13.flac
+03ad66d0cc31fd566483b668a2e60db1 *foofighters_1998-08-29_aud1_anam_d1t14.flac
+28d5b5598e873ba27d7ac90e248e993d *foofighters_1998-08-29_aud1_anam_d1t15.flac
+9e5a098f56d1386638e986674b80d06e *foofighters_1998-08-29_aud1_anam_d1t16.flac
+
+Transferred by Pierre Leroy.
+PLEASE DO NOT ENCODE TO MP3 OR SELL!

@@ -1,0 +1,66 @@
+Foo Fighters
+October 11th, 1997
+Arrow Hall
+Toronto, ON
+
+SOURCE (AUD #1):
+Aiwa Binauaral > Sony MZ-R30 (MiniDisc)
+
+TRANSFER: 
+Optical/TOSLink > Adobe Audition CC 2019 > CD Wave 1.98 > flac 1.3.2
+
+GENERATION: 
+MD(M) > WAV [44.1khz/16-bit] > FLAC [Level 8]
+
+NOTES:
+- 'Rhiannon' by Fleetwood Mac is briefly played before 'Big Me'.
+
+LENGTH: 
+72:50
+
+TRACKS: 
+01. jam
+02. This Is A Call
+03. Hey, Johnny Park!
+04. Alone + Easy Target
+05. Monkey Wrench
+06. Doll
+07. See You
+08. My Poor Brain
+09. Enough Space
+10. Big Me
+11. Wattershed
+12. For All The Cows
+13. The Colour And The Shape
+14. Up In Arms
+15. Weenie Beenie
+16. Everlong
+17. New Way Home
+18. My Hero
+19. Gas Chamber
+20. I'll Stick Around
+
+MD5 CHECKSUMS: 
+08f09f21e082b01a700ae52a67e6f308 *01. jam.flac
+f00e1e3cf85a83aa143d8fcac4acefeb *02. This Is A Call.flac
+2e2fe085d7a250ba4f6dd9d064834f6a *03. Hey, Johnny Park!.flac
+74087a19ad7229edac5017d095fc15fb *04. Alone + Easy Target.flac
+8555008ecbbc655b1b1002b0b5b61609 *05. Monkey Wrench.flac
+71e5a560e4e536dca064ddcde6a7cc43 *06. Doll.flac
+abc969b02ddc8654b43b9b51bbc98f28 *07. See You.flac
+7f28fb1464570a0ce5fbd1e1a8e3d6fc *08. My Poor Brain.flac
+64cd22b15010ee27e20faeeb652eafc4 *09. Enough Space.flac
+4c7bc34f2cdab4ba46e671c37945be7e *10. Big Me.flac
+54969c78ec214e159493da5b351fc471 *11. Wattesrhed.flac
+3953c0da6e4170b4ef93d1eac0c60da0 *12. For All The Cows.flac
+ed087f671b320214aa21a7a6184723f1 *13. The Colour And The Shape.flac
+c46707c2194b9aefe63920a58a99de7e *14. Up In Arms.flac
+2d2a977e3b3c4b954b3538e89e7054f6 *15. Weenie Beenie.flac
+00f1c29c9cc992fc283a06e2abef5a41 *16. Everlong.flac
+9b9c0838737b9b5bb66707cc8f8876fc *17. New Way Home.flac
+96a956e41036586f079ab2922b536771 *18. My Hero.flac
+a8aecf2fcb1d7a2f7dd7f9065cc09acf *19. Gas Chamber.flac
+cadb4cb24257ff4923e768be173263f5 *20. I'll Stick Around.flac
+
+RECORDED AND TRANSFERRED BY: 
+David P

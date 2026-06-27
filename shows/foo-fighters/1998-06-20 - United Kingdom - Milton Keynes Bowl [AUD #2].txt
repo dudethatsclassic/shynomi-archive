@@ -1,0 +1,63 @@
+FOO FIGHTERS
+June 20, 1998
+Milton Keynes Bowl,
+Ozzfest '98,
+Milton Keynes, United Kingdom
+
+DISC #1/1 (56:53)
+---------------
+01) Enough Space
+02) My Hero
+03) My Poor Brain
+04) Monkey Wrench
+05) Hey, Johnny Park!
+06) Alone + Easy Target
+07) I'll Stick Around 
+08) Weenie Beenie
+09) Requiem
+10) Gas Chamber 
+11) Wattershed
+12) Everlong
+13) New Way Home
+14) This is a Call
+
+GENERATION
+---------------
+ANA(M) -> WAV [48khz] -> WAV [44.1khz] -> FLAC [Level 8]
+
+SOURCE (AUD #2)
+---------------
+Sony (supplied) -> Sony WM-GX506
+
+TRANSFER
+---------------
+Nakamichi DR-3 -> RCA to 1/4" TS custom Klotz cables -> M-Audio Delta Audiophile 192 analog-in -> Adobe Audition 2.0 -> CD Wave 1.95.1 -> FLAC Frontend 1.7.1
+
+NOTES
+---------------
+- 'Enough Space' cuts in.
+- Black Sabbath's 'War Pigs' and Van Halen 'Ain't Talking 'bout Love' jams during 'Along + Easy Target'.
+- 'Wattershed': fake intro.
+- tape flip in the start of 'New Way Home' (cut).
+
+MD5 FINGERPRINTS
+---------------
+b888c28d8c941cbf168fc64b2ba04280 *foofighters_1998-06-20_aud2_anam_d1t01.flac
+71773d5e86fa0e65693d1b07940d0c61 *foofighters_1998-06-20_aud2_anam_d1t02.flac
+3e90ad0995b470a89882b57af71698c3 *foofighters_1998-06-20_aud2_anam_d1t03.flac
+00f190e42cf6d67ff6f8598742e4fbda *foofighters_1998-06-20_aud2_anam_d1t04.flac
+4d599a5cc83bc64bebb0f74ca96f3d96 *foofighters_1998-06-20_aud2_anam_d1t05.flac
+d24167f25b9e4e07573149ffe37cc603 *foofighters_1998-06-20_aud2_anam_d1t06.flac
+00ae3a880ab25824a7673a2861f50ef3 *foofighters_1998-06-20_aud2_anam_d1t07.flac
+49bc65c8758f68f49f76fafa48396b60 *foofighters_1998-06-20_aud2_anam_d1t08.flac
+da7dd25d14e100a6fe31f2145dcaac71 *foofighters_1998-06-20_aud2_anam_d1t09.flac
+b56d9c0bb6b02afe708a0298871a7681 *foofighters_1998-06-20_aud2_anam_d1t10.flac
+95b3154b9a5469d2c67089f89f0d8a4f *foofighters_1998-06-20_aud2_anam_d1t11.flac
+b42e6bd83611b493d19ab6d10ce5a91a *foofighters_1998-06-20_aud2_anam_d1t12.flac
+c6a8dbd1fbab41cd8841c4cd0e5ca1c7 *foofighters_1998-06-20_aud2_anam_d1t13.flac
+0993a150f112b452cb60fd60c1dc7848 *foofighters_1998-06-20_aud2_anam_d1t14.flac
+
+Transferred by Pierre Leroy.
+PLEASE DO NOT ENCODE TO MP3 OR SELL!!!
+
+

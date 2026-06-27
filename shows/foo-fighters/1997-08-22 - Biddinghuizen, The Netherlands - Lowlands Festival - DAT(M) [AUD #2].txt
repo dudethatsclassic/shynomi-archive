@@ -1,0 +1,38 @@
+FOO FIGHTERS
+August 22nd, 1997
+Lowlands Festival
+Walibi World
+Biddinghuizen, Netherlands
+
+SOURCE (AUD #2):
+unknown > unknown
+
+TRANSFER:
+Tascam DA-20 MKII > Monster SPDIF Coaxial Cable > M-Audio Audiophile 2496 > Adobe Audition 3.0 > CD Wave 1.98 > Trader's Little Helper 2.8.4
+
+GENERATION:
+DAT(M) > DAT(1) [16bit/48kHz] > WAV [16bit/48kHz] > WAV [16bit/44.1kHz] > FLAC [level 8]
+
+LENGTH:
+25:05
+
+TRACKS:
+01. Up In Arms (cuts in)
+02. Weenie Beenie
+03. Everlong
+04. New Way Home
+05. This Is A Call
+06. I'll Stick Around
+
+MD5 FINGERPRINTS:
+fd450cc0b53f148c87d5e4ce846b34a2 *Foo Fighters - 1997-08-22_AUD2_DAT1 t01.flac
+7535dc835c5b8ecba5013c2af5a79997 *Foo Fighters - 1997-08-22_AUD2_DAT1 t02.flac
+5a50b658903ae97e54c3ca3d228da65b *Foo Fighters - 1997-08-22_AUD2_DAT1 t03.flac
+8a8bce8da8112a8617d4ba294024dc2c *Foo Fighters - 1997-08-22_AUD2_DAT1 t04.flac
+005794297f5bc01b3315d0db157b35dc *Foo Fighters - 1997-08-22_AUD2_DAT1 t05.flac
+b643a30afbd6bffe10b9949ca83b8fad *Foo Fighters - 1997-08-22_AUD2_DAT1 t06.flac
+
+TRANSFERRED BY:
+Members of LiveNIRVANA.com
+
+PLEASE DO NOT SELL OR ENCODE TO MP3

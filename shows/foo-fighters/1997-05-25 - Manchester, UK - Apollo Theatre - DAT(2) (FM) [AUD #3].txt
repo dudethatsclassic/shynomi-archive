@@ -1,0 +1,71 @@
+FOO FIGHTERS
+May 25, 1997
+Apollo Theatre
+Manchester, United Kingdom
+
+SOURCE (AUD #3):
+FM > unknown
+
+TRANSFER:
+DAT: Tascam DA-20 MKII > Monster SPDIF Coaxial Cable > M-Audio Audiophile 2496 > Adobe Audition 3.0 > CD Wave 1.98 > Trader's Little Helper 2.8.4
+
+GENERATION:
+FM > DAT(2) [16bit/48kHz] > WAV [16bit/48kHz] > WAV [16bit/44.1kHz] > FLAC [level 8]
+
+LENGTH:
+70:38
+
+TRACKS:
+
+01. Wind Up
+02. Watershed
+03. Hey, Johnny Park!
+04. Monkey Wrench
+05. Alone & Easy Target
+06. Doll
+07. See You
+08. My Poor Brain
+09. For All The Cows
+10. Enough Space
+11. Big Me
+12. Weenie Beenie
+13. February Stars
+14. Everlong
+15. New Way Home
+16. This Is A Call
+17. Up In Arms
+18. I'll Stick Around
+
+MD5 FINGERPRINTS:
+
+df0bfd3bf356f0dad08568ff099fa2c0 *Foo Fighters - 1997-05-25_SBD1_FM-DAT2 t01.flac
+132f5d81bb81e04f4bbcdb713a5d8f2f *Foo Fighters - 1997-05-25_SBD1_FM-DAT2 t02.flac
+ed6635186d8eb29918e2277dc581da42 *Foo Fighters - 1997-05-25_SBD1_FM-DAT2 t03.flac
+f8685cd3b8d616062c2dc2b756778d20 *Foo Fighters - 1997-05-25_SBD1_FM-DAT2 t04.flac
+f944d1394e9ea3217aa7e6221bfb0475 *Foo Fighters - 1997-05-25_SBD1_FM-DAT2 t05.flac
+3ae350e7f96d75d05b6e1b9e817014b1 *Foo Fighters - 1997-05-25_SBD1_FM-DAT2 t06.flac
+4db5956512384db305bf2c6aec55e4e7 *Foo Fighters - 1997-05-25_SBD1_FM-DAT2 t07.flac
+f1c78f14148a5e05a4a83622de2e6ea0 *Foo Fighters - 1997-05-25_SBD1_FM-DAT2 t08.flac
+8dff3a0e8c421126d96505a2e07dbcba *Foo Fighters - 1997-05-25_SBD1_FM-DAT2 t09.flac
+4d9981ab1513085439033e192c983bdf *Foo Fighters - 1997-05-25_SBD1_FM-DAT2 t10.flac
+a43927481efcc77b35c0e631119942a3 *Foo Fighters - 1997-05-25_SBD1_FM-DAT2 t11.flac
+2974927b3f5a7851e3d8f4399096fff6 *Foo Fighters - 1997-05-25_SBD1_FM-DAT2 t12.flac
+feb02ba017fb1131dc3b8cf0468e9c9a *Foo Fighters - 1997-05-25_SBD1_FM-DAT2 t13.flac
+8fea5ad5b693bc9f0c1a772aa4244278 *Foo Fighters - 1997-05-25_SBD1_FM-DAT2 t14.flac
+69d56c2f46db840940ef7fce03e5fdee *Foo Fighters - 1997-05-25_SBD1_FM-DAT2 t15.flac
+1dda4b6a14417be9b932500a4855a26b *Foo Fighters - 1997-05-25_SBD1_FM-DAT2 t16.flac
+8869ec07b78feb5c56a53e0e397aabf3 *Foo Fighters - 1997-05-25_SBD1_FM-DAT2 t17.flac
+9874bccd001e083e20bf83530ffa1057 *Foo Fighters - 1997-05-25_SBD1_FM-DAT2 t18.flac
+3843cb1d395ed2000114d3cbb5848ea0 *Foo Fighters - 1997-05-25_SBD1_FM-DAT2 t19.flac
+
+
+TRANSFERRED BY:
+Members of LiveNIRVANA.com
+
+
+PLEASE DO NOT SELL OR ENCODE TO MP3
+-------------------------------------------
+
+
+
+

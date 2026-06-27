@@ -1,0 +1,45 @@
+FOO FIGHTERS
+May 13th, 1995
+La Luna
+Portland, OR
+
+SOURCE (AUD #3):
+unknown > unknown
+
+TRANSFER:
+Tascam DA-20 MKII > Monster SPDIF Coaxial Cable > M-Audio Audiophile 2496 > Adobe Audition 3.0 > CD Wave 1.98 > Trader's Little Helper 2.8.4
+
+GENERATION:
+DAT(x) [16bit/32kHz] > WAV [16bit/32kHz] > WAV [16bit/44.1kHz] > FLAC [level 8]
+
+LENGTH:
+36:54
+
+TRACKS:
+01. intro
+02. Winnebago
+03. This Is A Call
+04. Butterflies
+05. I'll Stick Around
+06. Big Me
+07. Watershed
+08. For All The Cows
+09. Alone + Easy Target
+10. Exhausted
+
+MD5 FINGERPRINTS:
+4032422d7c68db438460a24c2b0fc90e *Foo Fighters - 1995-05-13_AUD3_DATx t01.flac
+07ea676f1099d150afdd230322eea91d *Foo Fighters - 1995-05-13_AUD3_DATx t02.flac
+09aeb929266040a789d27792d8569ab9 *Foo Fighters - 1995-05-13_AUD3_DATx t03.flac
+e6a56cdb25864bef9e1626b81b5df759 *Foo Fighters - 1995-05-13_AUD3_DATx t04.flac
+998f2b07150975b8d57ca08049299d31 *Foo Fighters - 1995-05-13_AUD3_DATx t05.flac
+96239ee248a63edcb9470558e4d4cda7 *Foo Fighters - 1995-05-13_AUD3_DATx t06.flac
+3b68f75e75582af143d6511f6d160341 *Foo Fighters - 1995-05-13_AUD3_DATx t07.flac
+aca81bc0a5963702bbb4be777587873f *Foo Fighters - 1995-05-13_AUD3_DATx t08.flac
+dc234f11063fa4e4b0e03d56f613b9ed *Foo Fighters - 1995-05-13_AUD3_DATx t09.flac
+b4d69926d6f95a97e7ef52fe270581da *Foo Fighters - 1995-05-13_AUD3_DATx t10.flac
+
+TRANSFERRED BY:
+Members of LiveNIRVANA.com
+
+PLEASE DO NOT SELL OR ENCODE TO MP3

@@ -1,0 +1,47 @@
+Foo Fighters
+May 2nd, 1995
+Opera House
+Toronto, ON
+
+SOURCE (AUD #1):
+Sony ECM-909a > Sony TCD-D7 (DAT)
+
+TRANSFER:
+Tascam DA-20 > M-Audio Audiophile 2496 > Audacity > CDWave 1.98 > Trader's Little Helper 2.7.0
+
+GENERATION:
+DAT(1) > WAV [48khz] > WAV [44.1khz] > FLAC [Level 8]
+
+LENGTH:
+41:42
+
+TRACKS:
+01. intro
+02. Butterflies
+03. Floaty
+04. Winnebago
+05. Wattershed
+06. This Is A Call
+07. Big Me
+08. For All The Cows
+09. I'll Stick Around
+10. Alone + Easy Target
+11. Exhausted
+
+MD5 FINGERPRINTS:
+0f591fe71aced2ccd849dca6079611bf *01. intro.flac
+20a4925f6d64519e3b2b8ff7d76358d0 *02. Butterflies.flac
+23b15ff37c5b794520da313b8b01cf1e *03. Floaty.flac
+2aab9c6da7d0363f0705e519ed5105e9 *04. Winnebago.flac
+dbddbdea2887aace49b692092a129284 *05. Wattershed.flac
+ebc381a8aaf75721411c541dafe90be3 *06. This Is A Call.flac
+386b0ceaea590f02f298e63d3d3cb1f4 *07. Big Me.flac
+da0e63443ff184f18521266b1040bfc1 *08. For All The Cows.flac
+fd046d6cda8ffb8530fb6d0c3d5a5493 *09. I'll Stick Around.flac
+a5c672722123ba9023a9d7d9cee79bd4 *10. Alone + Easy Target.flac
+f66b807bc7e321060e65a71f42250eb8 *11. Exhausted.flac
+
+TRANSFERRED BY:
+tapeworm(48)
+
+**PLEASE DO NOT ENCODE TO LOSSY FORMATS OR SELL!**

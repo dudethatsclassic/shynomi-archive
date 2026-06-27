@@ -1,0 +1,48 @@
+Foo Fighters
+May 24th, 2015
+Earlham Park (Radio 1's Big Weekend)
+Norwich, United Kingdom
+
+SOURCE (SBD #1):
+soundboard > unknown
+
+TRANSFER:
+Roof mounted aerial > JVC UX-G3 > Creative Sound Blaster Audigy SE > Adobe Audition CS6 > CDWave 1.98 > Trader's Little Helper 2.7.0
+
+GENERATION:
+FM > WAV [44.1khz] > FLAC [Level 8]
+
+LENGTH:
+62:07
+
+NOTES:
+- Live broadcast by BBC Radio 1. 
+
+TRACKS:
+01. Everlong
+02. Monkey Wrench
+03. Learn To Fly
+04. Something From Nothing
+05. Walk
+06. My Hero
+07. Congregation
+08. These Days
+09. Best Of You
+10. All My Life
+
+MD5 FINGERPRINTS:
+819f9965a2a1f8e9e44754f595c0960c *FooFighters2015-05-24t01.flac
+b43e74fa01300e58decc36975d647267 *FooFighters2015-05-24t02.flac
+be0afb94d3b879ab5c49b425f69b9cc8 *FooFighters2015-05-24t03.flac
+f74262ea033fb31df71b424aedb38ced *FooFighters2015-05-24t04.flac
+0031440fab7e40628a5730ddd6742f7e *FooFighters2015-05-24t05.flac
+af6e98964af17d8ecae5cc5d0869f033 *FooFighters2015-05-24t06.flac
+99e527a712487a6632b599ccb966eb10 *FooFighters2015-05-24t07.flac
+8728afce86225edf776949cd5a94cf21 *FooFighters2015-05-24t08.flac
+999ffc1c8ac6176db3f14bc45bb7ceb6 *FooFighters2015-05-24t09.flac
+ea0edcfedc535def10b60ad314ae57c7 *FooFighters2015-05-24t10.flac
+
+RECORDED AND TRANSFERRED BY:
+FooFightersLive.com
+
+**PLEASE DO NOT ENCODE TO LOSSY FORMATS OR SELL!**

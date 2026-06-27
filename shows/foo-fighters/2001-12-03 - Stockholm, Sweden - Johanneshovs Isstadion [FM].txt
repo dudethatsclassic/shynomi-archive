@@ -1,0 +1,96 @@
+Artist: Foo Fighters
+
+Date: December 03, 2022
+	    
+Venue: Hovet, Johanneshovs Isstadion, Stockholm, Sweden
+	    
+Source: P3 Sveriges Radio FM Broadcast
+	    
+Lineage:	ANA(M) > Cool Edit Pro 2000 > WAV > FLAC
+
+Notes: The original WAV files were normalized to 98% in Cool Edit 2000 and converted to SHN.
+I decoded the SHN files, aligned the sector boundaries with SHNtool and encoded them to FLAC
+[level 8 -verify]
+
+01 All My Life
+02 My Hero
+03 Generator
+04 Learn to Fly
+05 For All the Cows
+06 The One
+07 Low
+08 Hey, Johnny Park!
+09 Monkey Wrench
+10 Tired of You
+11 Enough Space
+12 Breakout
+
+366 MB
+
+Source:	FM Broadcast > ANA(M)
+
+Transfer:	ANA(M) > PC > Cool Edit 2000 (normalized to 98%) > mkw ACT > SHN
+
+FooFightersLive.com Database:
+
+http://www.foofighterslive.com/liveguide/2002/2002-12-03.php
+
+Original SHN checksums:
+d3d039095d151ddaaa753ebaa696555b *ff2002-12-03t01.shn
+88637556fcd91a362155161079a53b86 *ff2002-12-03t02.shn
+b068b8e8ed6c6ff92453369410882001 *ff2002-12-03t03.shn
+cbca46997df2830c2a26cf129a1c2f5f *ff2002-12-03t04.shn
+11344c2995470dfc38ce1e18caf082a3 *ff2002-12-03t05.shn
+bc431b96b0732e9854b6967be751b1d6 *ff2002-12-03t06.shn
+070a951e98a44a0213f8335c9489d65d *ff2002-12-03t07.shn
+07632cb1a3de841a6d620dcdade54d1d *ff2002-12-03t08.shn
+c0e646e5cbf381793c411c18e6ec312a *ff2002-12-03t09.shn
+7fcb5131b0a6ada4568914080e2c7440 *ff2002-12-03t10.shn
+5d1e31392ab51eecb3d18cfbe3409784 *ff2002-12-03t11.shn
+553dd7264287187516628f2d6fd0e058 *ff2002-12-03t12.shn
+
+shntool [fix]: warning: no output format specified - assuming wav
+shntool [fix]: warning: no shift direction specified - assuming backward shift
+ff2002-12-03t01.wav --> ff2002-12-03t01-fixed.wav ... done.
+ff2002-12-03t02.wav --> ff2002-12-03t02-fixed.wav ... done.
+ff2002-12-03t03.wav --> ff2002-12-03t03-fixed.wav ... done.
+ff2002-12-03t04.wav --> ff2002-12-03t04-fixed.wav ... done.
+ff2002-12-03t05.wav --> ff2002-12-03t05-fixed.wav ... done.
+ff2002-12-03t06.wav --> ff2002-12-03t06-fixed.wav ... done.
+ff2002-12-03t07.wav --> ff2002-12-03t07-fixed.wav ... done.
+ff2002-12-03t08.wav --> ff2002-12-03t08-fixed.wav ... done.
+ff2002-12-03t09.wav --> ff2002-12-03t09-fixed.wav ... done.
+ff2002-12-03t10.wav --> ff2002-12-03t10-fixed.wav ... done.
+ff2002-12-03t11.wav --> ff2002-12-03t11-fixed.wav ... done.
+ff2002-12-03t12.wav --> ff2002-12-03t12-fixed.wav ... done.
+Padded 'ff2002-12-03t12-fixed.wav' with 1324 zero-bytes.
+
+length     expanded size   cdr  WAVE problems filename
+4:46.13        50481020    ---   --   ---xx   ff2002-12-03t01.flac
+5:20.01        56450396    ---   --   ---xx   ff2002-12-03t02.flac
+3:52.06        40938956    ---   --   ---xx   ff2002-12-03t03.flac
+5:20.49        56563292    ---   --   ---xx   ff2002-12-03t04.flac
+3:15.04        34407452    ---   --   ---xx   ff2002-12-03t05.flac
+3:25.24        36218492    ---   --   ---xx   ff2002-12-03t06.flac
+4:24.16        46607276    ---   --   ---xx   ff2002-12-03t07.flac
+4:09.33        44001260    ---   --   ---xx   ff2002-12-03t08.flac
+7:08.49        75614492    ---   --   ---xx   ff2002-12-03t09.flac
+6:37.45        70136684    ---   --   ---xx   ff2002-12-03t10.flac
+2:42.41        28673276    ---   --   ---xx   ff2002-12-03t11.flac
+4:10.67        44257628    ---   --   ---xx   ff2002-12-03t12.flac
+55:12.48      584350224 B
+(totals for 12 files, 0.6585 overall compression ratio)
+
+ffp:
+ff2002-12-03t01.flac:6436cc76d25a66b136b3f418d9867f06
+ff2002-12-03t02.flac:3f5d9ce6df03f784d3419f453bd31052
+ff2002-12-03t03.flac:b082677f3d9fba329e14365d84256bb5
+ff2002-12-03t04.flac:6bb8ace42003877e9ccd25f76ff53fe2
+ff2002-12-03t05.flac:ff91c7a5cb29595127e4faa583895c8d
+ff2002-12-03t06.flac:cca95bbeee32051eb09579d73224e1e6
+ff2002-12-03t07.flac:696d6837ec0289844e09a50baff43e41
+ff2002-12-03t08.flac:ec56721cce0c18a8e306cbb5211e4cf1
+ff2002-12-03t09.flac:c3a89ad1ee62f46d5e52590975363fbc
+ff2002-12-03t10.flac:c4bbcdf74020a1ab04f86a70bf91befe
+ff2002-12-03t11.flac:ebeb71feda4d85b0704b5c8c7359ea2a
+ff2002-12-03t12.flac:ce44c216af0fea3f25f15cd0eaade9e1

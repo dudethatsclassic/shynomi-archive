@@ -1,0 +1,53 @@
+FOO FIGHTERS
+June 7, 1997
+Downing Stadium, Randall's Island
+New York, NY
+
+SOURCE (AUD #3):
+Core Sound Binaural (modified) > Sony TCD-D8
+
+TRANSFER:
+Tascam DA-20 MKII > Monster SPDIF Coaxial Cable > M-Audio Audiophile 2496 > Adobe Audition 3.0 > CD Wave 1.98 > Trader's Little Helper 2.8.4
+
+GENERATION:
+DAT(M) > DAT(2) [16bit/48kHz] > WAV [16bit/48kHz] > WAV [16bit/44.1kHz] > FLAC [level 8]
+
+LENGTH:
+32:48
+
+TRACKS:
+
+01. Wind Up
+02. Watershed
+03. Monkey Wrench
+04. Alone & Easy Target
+05. Everlong
+06. Doll
+07. This is a Call
+08. I'll Stick Around
+09. New Way Home
+
+
+MD5 FINGERPRINTS:
+
+3271f598396ad2f2a8aa0cb648e70e93 *Foo Fighters - 1997-06-07_AUD1_DAT2 t01.flac
+4de0b035e215b18969483a335214b077 *Foo Fighters - 1997-06-07_AUD1_DAT2 t02.flac
+5dc474aa2d710a12dfa234050b7a7a15 *Foo Fighters - 1997-06-07_AUD1_DAT2 t03.flac
+88ad7eeff6b9d7e9d045a03e261b7553 *Foo Fighters - 1997-06-07_AUD1_DAT2 t04.flac
+9dbf2871ba9d63ad22abc10e7f422026 *Foo Fighters - 1997-06-07_AUD1_DAT2 t05.flac
+f8c6d2ab5596a2598a43bb9fc9e6bf5b *Foo Fighters - 1997-06-07_AUD1_DAT2 t06.flac
+f1a22a5f7e61e153b4e9af5e3f31156a *Foo Fighters - 1997-06-07_AUD1_DAT2 t07.flac
+94013c68a9a09153e31b8242b611683b *Foo Fighters - 1997-06-07_AUD1_DAT2 t08.flac
+7277050a20d10f4efc16eaf7f858406e *Foo Fighters - 1997-06-07_AUD1_DAT2 t09.flac
+
+
+TRANSFERRED BY:
+Members of LiveNIRVANA.com
+
+
+PLEASE DO NOT SELL OR ENCODE TO MP3
+-------------------------------------------
+
+
+
+

@@ -1,0 +1,36 @@
+Foo Fighters
+September 16th, 2017
+BARTS
+Barcelona, Spain
+
+SOURCE (PRO #1):
+soundboard > unknown
+
+TRANSFER:
+HDTV > unknown capture card > MKVToolNixGUI 12.0.0.0
+
+GENERATION:
+HDTV > TS [1080i / MPEG2 / 9.6Mbps | AC-3 / 384kbps / 2.0] > MKV
+
+LENGTH:
+43:36
+
+TRACKS:
+01. All My Life
+02. The Sky Is A Neighborhood
+03. The Line
+04. interview
+05. Monkey Wrench
+06. interview
+07. Run
+08. Times Like These
+09. Best Of You
+10. Everlong
+
+MD5 FINGERPRINTS:
+2618eb327caa4d07aab69881e81f23d2 *FooFighters2017-09-16 PRO 1.mkv
+
+CAPTURED BY:
+Anonymous
+
+**PLEASE DO NOT ENCODE TO LOSSY FORMATS OR SELL!**

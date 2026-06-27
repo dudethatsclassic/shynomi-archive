@@ -1,0 +1,47 @@
+Foo Fighters
+April 29th, 1995
+Lupo's Heartbreak Hotel
+Providence, RI
+
+SOURCE (AUD #1):
+unknown > unknown
+
+TRANSFER:
+unknown > Adobe Audition CS6 > CDWave 1.98 > Trader's Little Helper 2.7.0
+
+GENERATION:
+Unknown > CDR(x) > WAV [44.1khz] > FLAC [Level 8]
+
+LENGTH:
+45:53
+
+TRACKS:
+01. Winnebago
+02. This Is A Call
+03. Butterflies
+04. Floaty
+05. I'll Stick Around
+06. Big Me
+07. Wattershed (cuts in)
+08. For All The Cows
+09. Podunk
+10. Alone + Easy Target
+11. Exhausted
+
+MD5 FINGERPRINTS:
+d69e0c4d82a0fb60c538422c9221cfd0 *01. Winnebago.flac
+eefcc9487088ea018e5f2ca2b6053494 *02. This Is A Call.flac
+28fb7628b6eb2dd6f2707cdea9d8daeb *03. Butterflies.flac
+93f222c0cf74b59037439989ef6dae98 *04. Floaty.flac
+7da0c7f3eab893c1f0b7026d1e19dd8d *05. I'll Stick Around.flac
+963161bdde87b0bdb6fcb953f41647d4 *06. Big Me.flac
+d0a114237d144fd087b1b57ee768e540 *07. Wattershed.flac
+1cd3ca4577d78aa418d754aaf205d9d2 *08. For All The Cows.flac
+bf00cbd65d068e438cb1b7665dfdbd10 *09. Podunk.flac
+a39f5f5cf2c0d29d94cadba83ae38119 *10. Alone + Easy Target.flac
+2802c9e2fb0f0e7e89528bb3696bc6a0 *11. Exhausted.flac
+
+TRANSFERRED BY:
+Unknown
+
+**PLEASE DO NOT ENCODE TO LOSSY FORMATS OR SELL!**

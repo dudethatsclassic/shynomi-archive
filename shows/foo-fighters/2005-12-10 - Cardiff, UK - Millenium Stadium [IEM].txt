@@ -1,0 +1,30 @@
+The Foo Fighters
+10 December 2005
+Millenium Stadium (Noise And Confusion), Cardiff, United Kindom (supporting Oasis)
+
+Icom IC-R5 > Sharp MT877MD
+
+Transfer: Sony MZ-RH1 > USB > Open MG ATRAC file > SonicStage 4.3 > 44.1kHz PCM wav
+
+In Your Honor
+All My Life
+My Hero
+Best Of You
+Up In Arms
+Learn To Fly
+Times Like These
+The One
+Stacked Actors
+Big Me
+DOA
+Everlong
+Monkey Wrench
+
+Notes
+-----
+Support to Oasis
+
+
+Technical notes
+---------------
+Transferred though a Sony MZ-RH1 Minidisc recorder.  It is capable of ripping Sony ATRAC files to a wav file and therefore removes any lineage from real time transfers, typically through the D/A of the MD recorder (analogue transfer through the headphone socket).  Quality of the transfer is noticeably better than previous transfers.  Having transferred some 500 MDs to archive, I am now selling my Sony MZ-RH1 (http://www.ebay.co.uk/itm/SONY-MZ-RH1-Walkman-Hi-MD-Player-MiniDisc-Recorder-/281308947773?pt=UK_CE_Portable_Audio_Portable_CD_Players_ET&hash=item417f51e53d) 

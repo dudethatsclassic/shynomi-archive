@@ -1,0 +1,32 @@
+Foo Fighters
+August 18th, 2012
+Kempische Steenweg (Pukkelpop Festival)
+Kiewit, Belgium
+
+SOURCE (PRO #1a):
+soundboard > unknown
+
+TRANSFER:
+HDTV > Sony DVD Recorder > MKVToolNix
+
+GENERATION:
+HDTV > DVDR(1) > MKV
+
+LENGTH:
+13:59
+
+NOTES:
+- Includes only the last few seconds of 'Rope'.
+
+TRACKS:
+01. Rope (cuts in)
+02. The Pretender
+03. My Hero
+
+MD5 FINGERPRINTS:
+85eef2d7ef51a986b629347b38f497d7 *FooFighters2012-08-18_PRO1a.mkv
+
+TRANSFERRED BY:
+Wim Bosmans
+
+**PLEASE DO NOT ENCODE TO LOSSY FORMATS OR SELL!**

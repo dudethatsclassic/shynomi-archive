@@ -1,0 +1,57 @@
+Blind Melon
+August 7, 2008
+House Of Blues
+Dallas, TX
+
+Source: DPA 4021 > ACM V3 > 744
+Location: FOH, DFC, ORTF, 8.5'
+Transfer: 744 (24/48) > SoundForge 9.0e (MBIT+) > CDWave > FLAC (6)
+Taped and Transferred by OFOTD
+
+
+1.  Intro >
+2.  Walk
+3.  For My Friends
+4.  Drive
+5.  2x4
+6.  Skinned
+7.  Tumbling Down
+8.  Time
+9.  Sometimes
+10. Change
+11. Mouthful Of Cavities
+12. No Rain
+13. Soup
+14. Galaxie
+Encore:
+15. The Pusher
+
+
+Notes:
+
+- 24 bit copy of this source available
+
+
+
+[==-->> Support artists that support tapers! <<--==]
+
+
+
+FLAC Fingerprint
+-----------------------------------------------------
+bm2008-08-07t01.flac:9dab8ef768512fb97dec80f6829bd153
+bm2008-08-07t02.flac:0194cea08567614cd452f70dc7a05193
+bm2008-08-07t03.flac:f6e6ee8974a66e0db364b4eca0d302cd
+bm2008-08-07t04.flac:b9083fbb2bb35de77e97abb6d3d52268
+bm2008-08-07t05.flac:47e8b7b28fc752647cfa42c3fb6e4033
+bm2008-08-07t06.flac:75ba7a3d8ca49e99da20d40c46c3bbe7
+bm2008-08-07t07.flac:75e11ac1821d2737be7dff1f1ef62615
+bm2008-08-07t08.flac:3007b0034098668ffbef4c2f839fd9b3
+bm2008-08-07t09.flac:f53f42386a25f0384c2c6b6eb0c328eb
+bm2008-08-07t10.flac:ea5302cd83867a07629922d00d6f7ecd
+bm2008-08-07t11.flac:cb3474a8a2a7522166ba4a90824ef22d
+bm2008-08-07t12.flac:28949e8920443a4b45c6f4bd47447360
+bm2008-08-07t13.flac:32c02475a1c29a66ced77465276a41fa
+bm2008-08-07t14.flac:a1fec6eb5acbaebfa6fed3ad14f2070a
+bm2008-08-07t15.flac:16cb8d34aae3cbf73cac7e34f78b3176
+-----------------------------------------------------

@@ -1,0 +1,34 @@
+Foo Fighters
+April 21st, 1995
+The Masquerade
+Atlanta, GA
+
+SOURCE (AUD #2):
+unknown > unknown
+
+TRANSFER:
+Yamaha KX-500U > Audacity > xACT > Adobe Audition CS6 > CDWave 1.98 > Trader's Little Helper 2.7.0
+
+GENERATION:
+ANA(x) > WAV [44.1khz] > FLAC [Level 8]
+
+LENGTH:
+9:16
+
+NOTES:
+- Has technical issues throughout causing the sound to either drop out entirely or become distorted.
+
+TRACKS:
+01. Winnebago
+02. This Is A Call
+03. Butterflies (cuts out)
+
+MD5 FINGERPRINTS:
+989ceb537d07e9d02f201a567c18b421 *01. Winnebago.flac
+8ffa9d76d602c0e5d920a1467411be03 *02. This Is A Call.flac
+7ca5aa5ca54093f80526a867d3a863cf *03. Butterflies.flac
+
+TRANSFERRED BY:
+phil183
+
+**PLEASE DO NOT ENCODE TO LOSSY FORMATS OR SELL!**

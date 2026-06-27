@@ -1,0 +1,34 @@
+FOO FIGHTERS
+August 14th, 1997
+Live Music Hall
+Cologne, Germany
+
+Source:
+Professional Video #1
+
+Generation:
+TV > VHS(x) > DVDR(1) > MKV
+
+Transfer:
+VCR > Panasonic VHS/DVD Recorder > mkvtoolnixGUI 43.0.0
+
+Length:
+23:29
+
+Video:
+MPEG-2 / 576i / 25fps / 8784 kbps / 4:3
+
+Audio:
+AC3 / 384kbps / 48khz / 2.0
+
+Tracks:
+01. Wind Up (cuts in)
+02. Wattershed
+03. Enough Space
+04. Up In Arms
+05. February Stars
+06. Everlong
+07. I'll Stick Around 
+
+MD5 Fingerprints:
+02a358d510b393a66683baa490b600e5 *1997-08-14_PRO1_TV_VHSX.mkv

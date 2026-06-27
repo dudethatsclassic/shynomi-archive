@@ -1,0 +1,58 @@
+Foo Fighters
+November 8th, 1995
+Paradiso
+Amsterdam, The Netherlands
+
+SOURCE (AUD #1):
+Aiwa CM30 > Sony TCD-D3 (DAT)
+
+TRANSFER:
+Tascam DA 20 > Marantz DR-6000 > Mac rip to disk > Sony Soundforge > CDWave 1.98 > Trader's Little Helper
+
+GENERATION:
+DAT(M) > CDR(1) > WAV [44.1khz] > FLAC [Level 8]
+
+LENGTH:
+60:21
+
+TRACKS:
+01. Enough Space
+02. This Is A Call
+03. Winnebago
+04. Wattershed
+05. For All The Cows
+06. Weenie Beenie
+07. Butterflies
+08. Big Me
+09. I'll Stick Around
+10. Oh, George
+11. Good Grief
+12. Podunk
+13. Alone + Easy Target
+14. Exhausted
+15. Up In Arms
+16. Gas Chamber
+
+MD5 FINGERPRINTS:
+8e6f9907beda87fb69aec42dbd8c2191 *FooFighters1995-11-08t01.flac
+f37db04ec34473a5da209c506df7fef1 *FooFighters1995-11-08t02.flac
+a95a7967d2f94e50974c0df748d9b706 *FooFighters1995-11-08t03.flac
+d1b02753e1293b9a6308be70dbad4118 *FooFighters1995-11-08t04.flac
+2584926b7d99e70bea750713b12aa234 *FooFighters1995-11-08t05.flac
+39c8be8321e073d9f84945c46c47dec4 *FooFighters1995-11-08t06.flac
+c3fe7446da93893617d07910433804c0 *FooFighters1995-11-08t07.flac
+a1bfef5ec8e98f23f2b7c80f675c9be0 *FooFighters1995-11-08t08.flac
+c44afc314056f760506c8b5a8acb7803 *FooFighters1995-11-08t09.flac
+a377bb27219f0f1b39cb53a617a15b3d *FooFighters1995-11-08t10.flac
+b1e8c7bcc9ae3f8a3ce84f444625422c *FooFighters1995-11-08t11.flac
+3c75ef005d8c3a23073e3ddef7621cf0 *FooFighters1995-11-08t12.flac
+406a7600b2fa9babd7058c003a6ee195 *FooFighters1995-11-08t13.flac
+9dbc04526fc2f757571ea13bbe2cb834 *FooFighters1995-11-08t14.flac
+38209f63f4486d94fcfb307dc269f5ae *FooFighters1995-11-08t15.flac
+84aa79394ab7edcfea49cba74c59beae *FooFighters1995-11-08t16.flac
+2ced8de125d7d7274c26b91960af3bff *FooFighters1995-11-08t17.flac
+
+RECORDED AND TRANSFERRED BY:
+Bobfather
+
+**PLEASE DO NOT ENCODE TO LOSSY FORMATS OR SELL!**

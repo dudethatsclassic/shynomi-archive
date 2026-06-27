@@ -1,0 +1,41 @@
+﻿The Offspring
+Punk Rock Summer Nationals 2014 Tour
+Pier Six Concert Pavilion
+Baltimore, Maryland
+July 30th, 2014
+
+
+Taper: @mistacabbage, craigkabis@gmail.com
+Location: Mics taped to my shoulders standing near the soundboard aligned with the left stack
+Source: Church Audio 14’s > PA-6LC3B (roll off @ 65Khz) > Mic In > Sony PCM-M10 > .wav @ 96 kHz / 24 bit
+Lineage: .wav > USB > Amadeus Pro 2.1.6 (1571) > FLAC 8
+
+
+ > TLH > WAV > r8brain (downsample to 16Bit/44Khz) > TLH > FLAC (Level 8); new FFP Setlist:
+01 - Time to Relax							[01:10]
+02 - Nitro (Youth Energy)						[02:36]
+03 - Bad Habit								[04:30]
+04 - Gotta Get Away							[03:51]
+05 - Genocide								[03:34]
+06 - Something To Believe In						[03:21]
+07 - Come Out And Play							[04:08]
+08 - It'll Be A Long Time						[03:07]
+09 - Killboy Powerhead [Didjits]					[02:41]
+10 - What Happened To You?						[02:16]
+11 - So Alone								[01:47]
+12 - Not The One							[03:10]
+13 - Smash								[02:57]
+14 - Self Esteem							[04:27]
+
+Encore:
+15 - Intermission							[01:18]
+16 - All I Want								[02:22]
+17 - You're Gonna Go Far, Kid						[03:00]
+18 - Staring At The Sun							[02:49]
+19 - Slim Pickens Does The Right Thing And Rides The Bomb To Hell	[02:15]
+20 - Why Don't You Get a Job?						[03:13]
+21 - Americana								[03:22]
+22 - (Can't Get My) Head Around You					[03:16]
+23 - Pretty Fly (For A White Guy)					[03:04]
+24 - The Kids Aren't Alright						[03:41]
+Total Running Time							[71:55]

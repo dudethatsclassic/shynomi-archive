@@ -1,0 +1,51 @@
+Foo Fighters
+June 3rd, 1995
+Kings College, KCLSU Studio Union
+London, United Kingdom
+
+SOURCE (AUD #2):
+unknown > unknown (DAT)
+
+TRANSFER:
+Sony DTC-60ES > Monster SPDIF Cable > SIIG Soundwave 7.0 > Adobe Audition CC 2019 > CDWave 1.98 > flac 1.3.2
+
+GENERATION:
+DAT(x) > WAV [48khz/16-bit] > FLAC [Level 8]
+
+LENGTH:
+54:21
+
+TRACKS:
+01. intro
+02. This Is A Call
+03. I'll Stick Around
+04. Winnebago
+05. Wattershed
+06. For All The Cows
+07. Weenie Beenie
+08. Butterflies
+09. Big Me
+10. Podunk
+11. Good Grief
+12. X-Static
+13. Alone + Easy Target
+14. Exhausted
+
+MD5 FINGERPRINTS:
+94d990fa038774c312a82637223946a8 *01. intro.flac
+b8ff954d1431f37e46a3f25fd7f56a05 *02. This Is A Call.flac
+b69b9172f05fc188030b3db318ea0143 *03. I'll Stick Around.flac
+a50047094d9fcb3e56fc0af2761a7b6d *04. Winnebago.flac
+9625fcaf3cdcfab24db63493944df2ff *05. Wattershed.flac
+1ea50dc2feb381ff45f405c3562625de *06. For All The Cows.flac
+1f632e52c654c65eda45b552a6edbcd6 *07. Weenie Beenie.flac
+d79a97e25e72cfad76dea452156f3c23 *08. Butterflies.flac
+3fa1539564300138c82b35357bb9f148 *09. Big Me.flac
+a5f0fa0e46487e04b3f69436a6f8bcb4 *10. Podunk.flac
+543666cfc07f0297d465a76650d686b4 *11. Good Grief.flac
+095410d59768384c625cb228c8237609 *12. X-Static.flac
+b82bd028235a9603dca6e3c44b5852af *13. Alone + Easy Target.flac
+bf122fb8800fd8fefb7252fcb729e5db *14. Exhausted.flac
+
+TRANSFERRED BY:
+Brad Collins

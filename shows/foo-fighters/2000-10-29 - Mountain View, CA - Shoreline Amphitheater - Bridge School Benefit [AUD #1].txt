@@ -1,0 +1,44 @@
+Foo Fighters
+October 29th, 2000
+Shoreline Ampitheatre (Bridge School Benefit)
+Mountain View, CA
+
+SOURCE (AUD #1):
+Schoeps CCM-4 w/ R-Mod > Sony SBM-1 > Sony TCD-D100 (DAT) 
+
+EXTRACTION:
+RubyRipper > FLAC.exe
+
+GENERATION:
+DAT(M) > CDR(2) > WAV [44.1khz] > FLAC [Level 8]
+
+NOTES:
+- Danny Clinch plays Harmonica on 'Big Me'.
+
+LENGTH:
+28:47
+
+TRACKS:
+01. intro
+02. Big Me
+03. Up In Arms
+04. Breakout
+05. My Hero
+06. Floaty
+07. Learn To Fly
+08. Everlong
+
+MD5 FINGERPRINTS:
+bc9edc741ec92e4cd00e36329c6a1450 *FooFighters2000-10-29t01.flac
+6c2caafea9b01579c403d6554ffdc9b5 *FooFighters2000-10-29t02.flac
+c2a344b84fd1aa626af0f39f53334beb *FooFighters2000-10-29t03.flac
+9968d15d48c23af0d808303f2ff88c6f *FooFighters2000-10-29t04.flac
+60a9598063a7c506565fab033b0a7888 *FooFighters2000-10-29t05.flac
+ae6eb783ac1f22007ec627e027cea466 *FooFighters2000-10-29t06.flac
+64334a845913ffdee88eaccafc259ff6 *FooFighters2000-10-29t07.flac
+c838e6cddeb4e83c9f8ac06e47161b07 *FooFighters2000-10-29t08.flac
+
+TRANSFERRED BY:
+Unknown
+
+**PLEASE DO NOT ENCODE TO LOSSY FORMATS OR SELL!**

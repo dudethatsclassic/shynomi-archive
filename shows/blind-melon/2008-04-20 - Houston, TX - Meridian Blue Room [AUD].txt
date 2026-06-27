@@ -1,0 +1,56 @@
+Blind Melon
+Sunday April 20, 2008
+Meridian Blue Room
+Houston, TX
+
+
+Taper: prof_peabody
+Location: about 20 feet in front of board, near center, 11 feet high, DIN config
+Source: DPA4023 -> Aerco MP2 -> R-09 (24/48)
+Transfer: USB -> Wavelab 5 edits (dither with UV22HR) -> CDWAVE -> FLAC
+
+*******************************************************************
+- Do not sell this live recording
+- Do not post remaster without taper's consent
+- Support artists that allow open taping
+*******************************************************************
+
+Notes:
+
+Original WAVE files were dithered from 24/48 to 16/44.1 using the the UV22HR algorithm.
+
+
+01. <Intro>
+02. Hello/Goodbye
+03. Galaxie
+04. 2x4
+05. Toes Across the Floor
+06. For My Friends
+07. Soup
+08. Drive
+09. Paper Scratcher
+10. Sleepyhouse
+11. Sometimes
+12. I Wonder
+13. Last Laugh
+14. Wishing Well
+15. Walk
+16. Change
+
+Disc 2
+ 
+01. Hypnotized
+02. Tumblin' Down
+03. Skinned
+04. Soak the Sin
+05. Wilt
+06. No Rain (Ripped Away Version)
+07. No Rain
+08. The Pusher
+09. Audience
+10. Mouthful of Cavities
+11. Cheetum Street
+12. Time
+
+Comments: I ran the mics a bit higher than usual, because I figured it would be a ruckus sing-a-long.  Running the mics that high gives the recording a bit of a different sound.  I think the drums sounded a bit distant in the mix.  It was nice to have Travis' vocals really strong in the mix.  Overall, this was a great show.
+

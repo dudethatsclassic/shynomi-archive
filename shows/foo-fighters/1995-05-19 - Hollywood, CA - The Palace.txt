@@ -1,0 +1,45 @@
+FOO FIGHTERS
+May 19th, 1995
+The Palace
+Hollywood, CA
+
+SOURCE (AUD #4):
+unknown > unknown
+
+TRANSFER:
+Nakamichi DR-3 > Monster RCA Cable > M-Audio Audiophile 2496 > Adobe Audition 3.0 > CD Wave 1.98 > Trader's Little Helper 2.8.4
+
+GENERATION:
+DAT(x) > ANA(2) > WAV [16bit/48kHz] > WAV [16bit/44.1kHz] > FLAC [level 8]
+
+LENGTH:
+37:01
+
+TRACKS:
+01. intro
+02. Winnebago
+03. This Is A Call
+04. Butterflies
+05. I'll Stick Around
+06. Big Me
+07. Wattershed
+08. For All The Cows
+09. Alone + Easy Target
+10. Exhausted
+
+MD5 FINGERPRINTS:
+Foo Fighters - 1995-05-19_AUD4_DATx-ANA2 t01.flac:9b3b8ff7dca7b47d62996dd5fa64f0c3
+Foo Fighters - 1995-05-19_AUD4_DATx-ANA2 t02.flac:cb3209dc6a2474f2abd10dfecec30c8c
+Foo Fighters - 1995-05-19_AUD4_DATx-ANA2 t03.flac:b1b5f9c664a37ba4d385457b2c28869a
+Foo Fighters - 1995-05-19_AUD4_DATx-ANA2 t04.flac:4c22914be1a90cebea54bf6900e3f21f
+Foo Fighters - 1995-05-19_AUD4_DATx-ANA2 t05.flac:03616f1755b30535c28b5754fb0f05e5
+Foo Fighters - 1995-05-19_AUD4_DATx-ANA2 t06.flac:57e564027ed7b99394578f1aaa44a2bf
+Foo Fighters - 1995-05-19_AUD4_DATx-ANA2 t07.flac:10c40a01401651a459e0aaf34e9cf0da
+Foo Fighters - 1995-05-19_AUD4_DATx-ANA2 t08.flac:71dea4c147352ae9afd797e21ab86446
+Foo Fighters - 1995-05-19_AUD4_DATx-ANA2 t09.flac:8c8d20d79b2620dba568d62ed95cfe73
+Foo Fighters - 1995-05-19_AUD4_DATx-ANA2 t10.flac:7ec1c9f101d5f6a9dc1096fae92e7120
+
+TRANSFERRED BY:
+Members of LiveNIRVANA.com
+
+PLEASE DO NOT SELL OR ENCODE TO MP3

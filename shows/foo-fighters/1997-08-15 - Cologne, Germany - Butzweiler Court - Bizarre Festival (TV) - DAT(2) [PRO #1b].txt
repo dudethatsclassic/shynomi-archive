@@ -1,0 +1,52 @@
+FOO FIGHTERS
+August 15th, 1997
+Bizarre Festival
+Butzweiler Court
+Cologne, Germany
+
+SOURCE (PRO #1b):
+TV > unknown
+
+TRANSFER:
+Tascam DA-20 MKII > Monster SPDIF Coaxial Cable > M-Audio Audiophile 2496 > Adobe Audition 3.0 > CD Wave 1.98 > Trader's Little Helper 2.8.4
+
+GENERATION:
+TV > DAT(2) [16bit/48kHz] > WAV [16bit/48kHz] > WAV [16bit/44.1kHz] > FLAC [level 8]
+
+LENGTH:
+44:38
+
+TRACKS:
+01. interview
+02. intro
+03. Enough Space
+04. Wattershed
+05. Hey, Johnny Park!
+06. Monkey Wrench
+07. Alone + Easy Target
+08. Doll
+09. See You
+10. For All The Cows
+11. Everlong
+12. This Is A Call
+13. I'll Stick Around
+
+MD5 FINGERPRINTS:
+9e44214ef2a16fe255c41b5274c013c7 *Foo Fighters - 1997-08-15_PRO1b_TV-DAT2 t01.flac
+6ebb323cf13fac639e8da57f85c4b86f *Foo Fighters - 1997-08-15_PRO1b_TV-DAT2 t02.flac
+ccfd98706a0bf9dcc2ee004eef896d9a *Foo Fighters - 1997-08-15_PRO1b_TV-DAT2 t03.flac
+c7aa0581c990a7b62f9da2b8f34d7868 *Foo Fighters - 1997-08-15_PRO1b_TV-DAT2 t04.flac
+e432f2620e006e9232b490220be170f8 *Foo Fighters - 1997-08-15_PRO1b_TV-DAT2 t05.flac
+6a65ec06d7c36998635b0f96b059ddc0 *Foo Fighters - 1997-08-15_PRO1b_TV-DAT2 t06.flac
+f470df8b47c4c1b56363137d0fa891c6 *Foo Fighters - 1997-08-15_PRO1b_TV-DAT2 t07.flac
+401a79b495935e698f2b83e4a42dfd71 *Foo Fighters - 1997-08-15_PRO1b_TV-DAT2 t08.flac
+49419fcbb9e397a25e5e0ce492be040d *Foo Fighters - 1997-08-15_PRO1b_TV-DAT2 t09.flac
+f776b9958c4668a517c48ff356e45689 *Foo Fighters - 1997-08-15_PRO1b_TV-DAT2 t10.flac
+5e81160b42c284526ea043b4cb739494 *Foo Fighters - 1997-08-15_PRO1b_TV-DAT2 t11.flac
+330c1d274af7644ec04c957325afa149 *Foo Fighters - 1997-08-15_PRO1b_TV-DAT2 t12.flac
+e3f84d01527add2331fad7fb37492b62 *Foo Fighters - 1997-08-15_PRO1b_TV-DAT2 t13.flac
+
+TRANSFERRED BY:
+Members of LiveNIRVANA.com
+
+PLEASE DO NOT SELL OR ENCODE TO MP3

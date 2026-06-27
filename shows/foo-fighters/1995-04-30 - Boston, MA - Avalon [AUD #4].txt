@@ -1,0 +1,49 @@
+FOO FIGHTERS
+April 30th, 1995
+Avalon
+Boston, MA
+
+SOURCE (AUD #4):
+unknown > unknown
+
+TRANSFER:
+Nakamichi DR-3 > Monster RCA Cable > M-Audio Audiophile 2496 > Adobe Audition 3.0 > CD Wave 1.98 > Trader's Little Helper 2.8.4
+
+GENERATION:
+ANA(M) > WAV [16bit/48kHz] > WAV [16bit/44.1kHz] > FLAC [level 8]
+
+LENGTH:
+43:48
+
+TRACKS:
+01. intro
+02. This Is A Call
+03. Butterflies
+04. Floaty
+05. I'll Stick Around
+06. For All The Cows
+07. Winnebago
+08. Wattershed
+09. Big Me
+10. Alone + Easy Target
+11. Podunk
+12. Exhausted
+
+MD5 FINGERPRINTS:
+8b4c3962d01e08202142d9b48c6d87f1 *Foo Fighters - 1995-04-30_AUD4_ANAM t01.flac
+a93ba1c523b8e291893f3e282a19c926 *Foo Fighters - 1995-04-30_AUD4_ANAM t02.flac
+864745a56299137538c49c4098f93040 *Foo Fighters - 1995-04-30_AUD4_ANAM t03.flac
+2161ce59eaca8a955f4236b9133613f9 *Foo Fighters - 1995-04-30_AUD4_ANAM t04.flac
+8fe9f5ff14178b966d6a44aa12852c5d *Foo Fighters - 1995-04-30_AUD4_ANAM t05.flac
+758942c4aca2f4a82de0b4d878beb55b *Foo Fighters - 1995-04-30_AUD4_ANAM t06.flac
+0f15bf8ba959a341d0c9abadf69177b0 *Foo Fighters - 1995-04-30_AUD4_ANAM t07.flac
+275ba1938b3771d212d3796d42f4f97b *Foo Fighters - 1995-04-30_AUD4_ANAM t08.flac
+f81e41e841a75fb8119d29fef832e8a9 *Foo Fighters - 1995-04-30_AUD4_ANAM t09.flac
+e5ad8d232b629d29cc5cf222f0ba31ae *Foo Fighters - 1995-04-30_AUD4_ANAM t10.flac
+543aadb6c3b17dd7f8c90e057b3622d7 *Foo Fighters - 1995-04-30_AUD4_ANAM t11.flac
+bff8e2444c1b507eacb77b8b7f1bd836 *Foo Fighters - 1995-04-30_AUD4_ANAM t12.flac
+
+TRANSFERRED BY:
+Members of LiveNIRVANA.com
+
+PLEASE DO NOT SELL OR ENCODE TO MP3

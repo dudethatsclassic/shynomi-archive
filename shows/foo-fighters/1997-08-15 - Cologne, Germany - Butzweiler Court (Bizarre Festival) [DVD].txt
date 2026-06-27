@@ -1,0 +1,17 @@
+Foo Fighters - Bizarre Festival
+Butzweiler Hof, Cologne, 15. August 1997
+
+Enough Space
+Watershed
+Hey Johnny Park
+Monkey Wrench
+Alone & Easy Target
+Doll
+For All The Cows
+Everlong
+This Is A Call
+
+TT 39:14, menu & chapters
+DVB-C transport stream by einsfestival, 25. March 2012, recorded with KNC One / DVBViewer -> ProjectX -> Cuttermaran -> DVDLab Pro; no error
+PAL 720*576 @ 25fps @ 0.6735 (4:3); avg. nom. bitrate 6543119bps (min/max: 2031200/11069600)
+MPEG-1, Layer2, 48000Hz, stereo, 192kbps

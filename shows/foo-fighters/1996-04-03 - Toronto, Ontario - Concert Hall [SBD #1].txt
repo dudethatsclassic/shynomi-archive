@@ -1,0 +1,72 @@
+Foo Fighters
+April 3, 1996
+Concert Hall
+Toronto, ON
+
+SOURCE (SBD #1):
+soundboard > unknown
+
+EXTRACTION:
+Pioneer BDR-206 > Exact Audio Copy v1.0 beta 3 > Adobe Audition CS6 > CD Wave 1.98 > Traders Little Helper 2.70
+
+GENERATION:
+Radio Disc [Live From The Pit] > WAV [44.1khz] > FLAC [Level 8]
+
+NOTES:
+- Taken from 'Live From The Pit' Radio CDs, original air date April 22nd-28th April 1996.
+- Incomplete, missing 'Floaty' and some between song banter/noise.
+- All curse words are censored with a buzzing sound.
+- Tracks were edited for volume/levels, radio ads and other non-show segments were removed. 
+
+LENGTH:
+69:41
+
+TRACKS:
+01. Enough Space
+02. This Is A Call
+03. Winnebago
+04. Wattershed
+05. For All The Cows
+06. Weenie Beenie
+07. Satan's In The Manger (jam)
+08. Butterflies
+09. Big Me
+10. My Poor Brain
+11. Gas Chamber
+12. Up In Arms
+13. Good Grief
+14. Podunk
+15. How I Miss You
+16. Alone + Easy Target
+17. I'll Stick Around
+18. Down In The Park
+19. Exhausted
+
+MD5 FINGERPRINTS:
+8158a38297b708e8a3d64cfb2d5d95c2 *01. Enough Space.flac
+8b051aecb4bb89bc40d1d9a14c0e4f86 *02. This Is A Call.flac
+da7e2233d3cf6d164ea616b92ece3e51 *03. Winnebago.flac
+e226d190c0d5bfe0fd348da9156a7450 *04. Wattershed.flac
+14f3927193c41d1a231600f51fffee51 *05. For All The Cows.flac
+b14ecfee2f5dd65984d4754878b96335 *06. Weenie Beenie.flac
+ef544f8f688fb52f34b9d0397d415e85 *07. Satan's In The Manger.flac
+790e43277908a2df05dabda6611b8173 *08. Butterflies.flac
+94048fd4d4239ff65f89a705e5ecbf2f *09. Big Me.flac
+c1f514a6f8ab7e1e3e026695cd242c2b *10. My Poor Brain.flac
+4e62cd3fe7282c249f1c0e46d5286532 *11. Gas Chamber.flac
+d78c65db8093bb710d5fae485eb34254 *12. Up In Arms.flac
+1fe8e3db317084427f334db661829004 *13. Good Grief.flac
+f9aa0afd145635199ee279dbcf29dea2 *14. Podunk.flac
+c0e6e0c451d88d55450671762b797355 *15. How I Miss You.flac
+c4be60e817428d71d1d513481270f509 *16. Alone + Easy Target.flac
+5dd207bad33b54d2cb7e7986738aa457 *17. I'll Stick Around.flac
+e63a1d5d30b1e2cdbe67dc6b3f97c4d2 *18. Down In The Park.flac
+83a597c479bdc291152c91e49bf25111 *19. Exhausted.flac
+
+EXTRACTED BY:
+anonymous
+
+EDITED BY:
+schmokes
+
+PLEASE DO NOT SELL OR ENCODE TO LOSSY FORMATS!

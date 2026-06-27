@@ -1,0 +1,47 @@
+Foo Fighters
+May 13th, 2000
+Civic Center
+Providence, RI
+
+SOURCE (AUD #2):
+Core Sound High End Binaurals w/ DPA 4061 > Sony PCM-M1 (DAT)
+
+TRANSFER:
+Tascam DA-20MKII > Monster SPDIF Coaxial Cable > MAudio Audiophile 2496 > Audacity > CD Wave 1.98 > Trader's Little Helper 2.7.0
+
+GENERATION:
+DAT(1) [DDC] > WAV [48khz/16-bit] > FLAC [Level 8]
+
+LENGTH:
+57:24
+
+TRACKS:
+01. Monkey Wrench 
+02. Learn To Fly 
+03. My Hero 
+04. For All The Cows
+05. Breakout
+06. Big Me 
+07. Stacked Actors 
+08. Next Year 
+09. I'll Stick Around
+10. Alone + Easy Target
+11. Everlong
+12. This Is A Call 
+
+MD5 FINGERPRINTS:
+2903450fed2b5a8c508bce0902274284 *01. Monkey Wrench.flac
+eb056f793b456ad5d00134e4b234375a *02. Learn To Fly.flac
+59482a2e881e8550d0f3b30a805b052d *03. My Hero.flac
+59e9bb4d51ddaa5e06807cd65025d75c *04. For All The Cows.flac
+ee349472df96037c73b1f62145827947 *05. Breakout.flac
+d0a90dadf39e45b6b2af7612a772e6d1 *06. Big Me.flac
+0f81e9a41428efbca9b2ff6a700d2316 *07. Stacked Actors.flac
+6496d45d08f3314cb1724064c365b892 *08. Next Year.flac
+946c2431783e4bb909c963654832b3fa *09. I'll Stick Around.flac
+2abeef0a29c2723c183925c8e6089c4a *10. Alone + Easy Target.flac
+2ba6fc8d27d1a26a4611cdd3e5637cfb *11. Everlong.flac
+fc353ea972c3f45cfb574e5512941a45 *12. This Is A Call.flac
+
+TRANSFERRED BY:
+Brad Collins

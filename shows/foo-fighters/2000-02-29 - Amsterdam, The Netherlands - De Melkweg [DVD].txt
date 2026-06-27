@@ -1,0 +1,13 @@
+Foo Fighters - 2000.02.29 - De Melkweg, Amsterdam, NL
+Generation: 	TV>VHS(1)>STANDALONE>DVDR(1)>REAUTHOR>DVDR(2) - 2 discs
+Source: 	PRO
+Transferred by:	Partick Waelpoel
+
+Format Pal 720/586 Standard Definition
+Audio Codec A52 Audio (aka AC3) (a52 ) 48000 hz, stereo, 256 kbps
+
+Set:		Aurora, Breakout, Learn To Fly, For All The Cows, My Hero, Up In Arms,
+Ain't It The Life, Monkey Wrench, Hey, Johnny Park!, Alone + Easy Target,
+Everlong, Generator, See You, Have A Cigar, Big Me, Weenie Beenie, New Way Home,
+I'll Stick Around, Stacked Actors, Next Year, Sweet Home Alabama (jam),
+This Is A Call

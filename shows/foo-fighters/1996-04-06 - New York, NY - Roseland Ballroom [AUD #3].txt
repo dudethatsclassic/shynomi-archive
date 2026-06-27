@@ -1,0 +1,67 @@
+FOO FIGHTERS
+April 6th, 1996
+Roseland Ballroom
+New York, NY
+
+SOURCE (AUD #3):
+unknown > unknown (DAT)
+
+TRANSFER:
+Nakamichi CR-3A > Sony PCM-M10 > Adobe Audtion > CDWave 1.97 > Traders Little Helper 2.4.1
+
+GENERATION:
+DAT(M) > ANA(1) > WAV [44.1khz/16-bit] > FLAC [Level 8]
+
+LENGTH:
+80:55
+
+NOTES:
+- 'This Is A Call' is performed solo by Dave.
+- Petra Haden sings lead vocals on 'Floaty'.
+
+TRACKS:
+01. This Is A Call
+02. Butterflies
+03. Winnebago
+04. Wattershed
+05. For All The Cows
+06. Weenie Beenie
+07. Gas Chamber
+08. Big Me
+09. My Poor Brain
+10. Up In Arms
+11. Good Grief
+12. Podunk
+13. How I Miss You
+14. Alone + Easy Target
+15. I’ll Stick Around
+16. Floaty
+17. Enough Space
+18. Down In The Park
+19. Exhausted
+
+MD5 FINGERPRINTS:
+6501347330767e4219fc495a9be0b807 *01. This Is A Call.flac
+b08cb31864ba7eb6d0a4bc897b3ee329 *02. Butterflies.flac
+42bd06cf9e1c898ff48812c1c29031b5 *03. Winnebago.flac
+743a44ebaccabc6d5c84937ea2f489b0 *04. Wattershed.flac
+5100e00840123314ff9277e70296ee57 *05. For All The Cows.flac
+7488b470883433017758cf0f00598893 *06. Weenie Beenie.flac
+79d2b112c0da0525f35a53877ece84fa *07. Gas Chamber.flac
+94245793b3e5b72fca429433d56f8321 *08. Big Me.flac
+7ab3e15c48367e6f42ff2b5e694a2c9c *09. My Poor Brain.flac
+b9271d9bb21af81075ec60509233cc19 *10. Up In Arms.flac
+5328418141f2a8ffb13435660d881f77 *11. Good Grief.flac
+931d58cba6f19b85300e528b07ba8c5d *12. Podunk.flac
+29e72b0e21093922d7aad2bacafffb99 *13. How I Miss You.flac
+c3b6e5a1103cc89ca1f945975ab19422 *14. Alone + Easy Target.flac
+ba3edca8a5f95bc341ea04b3d55ae318 *15. I'll Stick Around.flac
+41176b9079d03ac32ce8c7e9e87f789e *16. Floaty.flac
+9520c242ba3a5d34d821d1751b483b1b *17. Enough Space.flac
+0a9ce4068500f5836234c39bd0c2a3ae *18. Down In The Park.flac
+ceb25c812af3e01abaaed008b10ed7d8 *19. Exhausted.flac
+
+TRANSFERRED BY:
+RyanJ @ ninlive.com
+
+**PLEASE DO NOT ENCODE TO LOSSY FORMATS OR SELL**

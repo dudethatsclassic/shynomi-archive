@@ -1,0 +1,11 @@
+   Foo Fighters
+ - 04/29/03  Tweeter Center At the Waterfront, Camden, NJ
+   Generation  = MD(M) > CDR(2) [MASTER CLONE]
+   Source      = Sony ECM-717 > Sharp MD-DR7
+   Details     = 7.5 audience, 99 minutes
+
+cd 1 59:47
+
+cd 2 40:05
+
+HL-DT-STDVDRAM GP57ES40 > Exact Audio Copy V1.6

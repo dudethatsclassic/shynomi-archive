@@ -1,0 +1,78 @@
+Foo Fighters
+March 29th, 2000
+Melkweg
+Amsterdam, The Netherlands
+
+SOURCE (PRO #1b):
+soundboard > unknown
+
+TRANSFER:
+DAT > Dio 2496 > Soundforge > CDR > Rubyripper> FLAC.exe
+
+GENERATION:
+Pre-Broadcast Source > DAT(x) > CDR(1) > WAV [44.1khz] > FLAC [Level 8]
+
+LENGTH:
+94:48
+
+NOTES:
+- 'Sweet Home Alabama' includes only one chorus.
+
+TRACKS:
+01. Aurora
+02. Breakout
+03. Learn To Fly
+04. For All The Cows **REMOVED - OFFICIALLY RELEASED**
+05. My Hero **REMOVED - OFFICIALLY RELEASED**
+06. Up In Arms
+07. Ain't It The Life
+08. Into The Void (jam)
+09. Monkey Wrench **REMOVED - OFFICIALLY RELEASED**
+10. Hey, Johnny Park!
+11. Alone + Easy Target (jam)
+12. Alone + Easy Target
+13. Everlong
+14. Rocky Mountain Way (jam)
+15. Generator
+16. See You
+17. Have A Cigar
+18. Big Me
+19. Stacked Actors
+20. New Way Home
+21. I'll Stick Around
+22. Stacked Actors
+23. Next Year
+24. Sweet Home Alabama (part of)
+25. This Is A Call
+
+MD5 FINGERPRINTS:
+6082b323185c0773c07e6947193e214e *FooFighters2000-02-29t01.flac
+86c260c50256ad0cc7311dca4445b9f7 *FooFighters2000-02-29t02.flac
+3de29d1f3e3adfe0512d51be58206d2a *FooFighters2000-02-29t03.flac
+63067bce759dc87361253bb13c7ad38d *FooFighters2000-02-29t04.flac
+7d91d783b7f1f7fae97f853bb67b575f *FooFighters2000-02-29t05.flac
+508430e484e95f47ce8fda8c9bc1ecc2 *FooFighters2000-02-29t06.flac
+c2d917e3f88aa4c7db045969c4f73705 *FooFighters2000-02-29t07.flac
+ec0476c635587035fa31d0cc75666341 *FooFighters2000-02-29t08.flac
+e4f2e89b953f9907024ef30b8f718c97 *FooFighters2000-02-29t09.flac
+45f45960cee6c5d148f1db56b28f2295 *FooFighters2000-02-29t10.flac
+2b881007dc531ec15f87cf9d1074224e *FooFighters2000-02-29t11.flac
+a4df941ab09feb2ebfc0204f4993c991 *FooFighters2000-02-29t12.flac
+94c1247e9e45ff8c910e03e9b3308b9e *FooFighters2000-02-29t13.flac
+638548a10914b094936ec33101fd80c1 *FooFighters2000-02-29t14.flac
+a249a23bbc003642a3225dd4771c1ef5 *FooFighters2000-02-29t15.flac
+52d2c60bf35abc1b7d708c0ea6ac1b40 *FooFighters2000-02-29t16.flac
+f6c596ea42a78eeb2392d43580043911 *FooFighters2000-02-29t17.flac
+43faaa0834a93b6d03a4e907315c2a9e *FooFighters2000-02-29t18.flac
+2cf5ac53753f27fcd1006cb1332c7e5f *FooFighters2000-02-29t19.flac
+b92f73feef66ba122fd208f2037beee9 *FooFighters2000-02-29t20.flac
+ecb839a03825b752b664b6fae2390f56 *FooFighters2000-02-29t21.flac
+18cc121d8f3615ce710e46319cb83ff0 *FooFighters2000-02-29t22.flac
+4b6c86a6277f827967579f4ea3aeed53 *FooFighters2000-02-29t23.flac
+604bc23a1c774350662dd07aad7d73ee *FooFighters2000-02-29t24.flac
+bf25edc4019d44fd1d8ce385e6c7e494 *FooFighters2000-02-29t25.flac
+
+TRANSFERRED BY:
+Anonymous
+
+**PLEASE DO NOT ENCODE TO LOSSY FORMATS OR SELL!**
