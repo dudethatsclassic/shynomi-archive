@@ -2,12 +2,11 @@ const ARTIST_DATA = {
   "id": "epmd",
   "name": "EPMD",
   "drive": "D",
-  "showCount": 2,
+  "showCount": 1,
   "firstYear": 1991,
-  "lastYear": 2025,
+  "lastYear": 1991,
   "years": [
-    1991,
-    2025
+    1991
   ],
   "shows": [
     {
@@ -18,24 +17,11 @@ const ARTIST_DATA = {
       "city": "Costa Mesa",
       "state": "CA",
       "location": "Costa Mesa, CA",
-      "venue": "Pacific Amphitheatre - ANA",
+      "venue": "Pacific Amphitheatre",
+      "notes": "ANA(M) · unk",
       "version": "AUD",
-      "format": "FLAC",
-      "notes": "M \u00b7 Unknown",
-      "textFile": "1991-07-06 - Costa Mesa, CA - Pacific Amphitheatre - ANA(M) (unk) [AUD].txt"
-    },
-    {
-      "year": 2025,
-      "month": 5,
-      "day": 14,
-      "dateStr": "5-14-2025",
-      "city": "Cincinnati",
-      "state": "OH",
-      "location": "Cincinnati, OH",
-      "venue": "The Taft Theatre",
-      "version": "AUD",
-      "format": "FLAC",
-      "notes": "Schoeps MK4 \u00b7 funk it blog"
+      "format": "FLAC"
     }
-  ]
+  ],
+  "misc": []
 };
