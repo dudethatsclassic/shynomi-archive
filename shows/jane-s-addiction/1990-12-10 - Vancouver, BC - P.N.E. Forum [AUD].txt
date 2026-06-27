@@ -1,0 +1,114 @@
+Jane's Addiction
+Live in Vancouver BC
+Monday December 10, 1990
+P.N.E. Forum 7:30pm
+
+
+Recorded and ReMastered by Audioarchivist U - 101
+
+Originally recorded with my (nearly new back then) Sony WM D3 Professional Cassette Recording Walkman using the itty-bitty stereo condenser microphone that came with it wired up to the top of my hat. I used a Sony Metal SR 90 tape recorded high bias with Dolby B on to boost highs to tape. I played this tape back on a Denon DRM 500 with azimuth adjusted to match master alignment with bias at normal and Dolby off through a Sentrek analog EQ to give the lows some presence, and further enhance the top end. A Soundblaster card in my PC recorded the EQ'd master playpack with Wavelab 4.0 for some further audio work and editing for track seperations. Another early ReMaster job of mine, this work was burned to a single audio CDR and the original data has dissappeared. I should have backed up my data, but naively didn't do that back then. This one existing audio CD was properly cleaned and then ripped with Exact Audio Copy in secure mode and sounds fine. Conversion to FLAC 6 done with Trader's Little Helper. I still own the master cassette, and perhaps an upgrade in 5.1 surround DVDaudio version or something will come one day. For now, enjoy this new previously uncirculated Jane's Addiction tape in semi-binaural stereo recorded up front in the crowd right from my master.
+
+Track list:
+
+1. drum intro
+2. Up The Beach
+3. Whores
+4. 1%
+5. No One's Leaving
+6. Ain't No Right
+7. perryspeak1
+8. Then She Did...
+9. Had A Dad
+10. perryspeak2
+11. Been Caught Stealing
+12.Thank You Boys
+13. perryspeak3
+14. Three Days pt.1
+15 Three Days pt.2
+16. Mountain Song
+17. Stop!
+18. encore break
+19. Jane Says
+
+An unfortunate tape flip happened during Three Days, making the gap between track 14 and 15 happen. I was watching the tape run out waiting for a good place in the music to flip, and there wasn't one. I missed maximum fifteen seconds there. Other than that this is Jane's Addiction whole show.
+I remember the christmas lights strung up haphazardly around the stage. Mr. Farrell was drinking a big bottle of I think red wine. As the night wore on, and he got drunker and drunker, he addressed the audience, engaged in little conversations with them or totally confronted them between songs. It was wild. The sound in the PNE Forum building is notoriously bad, and this tape is a bit sonically echo-ey, but that doesn't subtract from your enjoyment to listen, though! This is one of my personal favorite masters I've recorded. I didn't sit in my seat, but headed for the GA floor. I was 20 feet in front of the soundboard dead center just out of reach of the fringes of the mosh pit, which did threaten to swallow my pride. The PA was boomy loud but lacked definition and loudness for Perry's vocals. He was playing with digital reverb units himself on his vocals all night. The acoustics of the building also did this in a more uncontrolled and organic fashion. The band was tight despite the reported infighting amongst themselves. Drugs versus drunks, I'm glad they basically got beyond all that now.
+
+Please trade these original FLAC files freely, and please burn audio CDR copies for your friends. If your friends might trade further, please provide them with the FLAC files for trading purposes. Don't let them rip from an audio CDR burn again to trade from. Please don't ever EnCrap to MP3, even for your own personal use(!) and spread this recording out without changing it. Don't bother trying to digitally fritch up this recording, denoising and de-life-ing it. It doesn't really need it. I can and will work on a new 24 bit 96 kHz edition this year. For now this one sounds fine, so leave it like it is. Included are scans of my ticket and tape cover, and both sides of the original master tape. If you make up some cool photoshop-ey artworx you can share, please post them on TTD form where you got this from, and could you also please email me your results? Thanks, and play this at maximum volume!
+
+audioarchivist@hotmail.com
+
+
+The technical mumbo jumbo comes from TLH:
+
+
+No need for fixing SBEs (all wav files are already sector-aligned).
+
+01 drumintro.wav:  successfully encoded to 'E:\Jane's Addiction 1990 Dec 10 PNE Forum Vancouver Analog Master FLAC\01 drumintro.flac'
+02 Up The Beach.wav:  successfully encoded to 'E:\Jane's Addiction 1990 Dec 10 PNE Forum Vancouver Analog Master FLAC\02 Up The Beach.flac'
+03 Whores.wav:  successfully encoded to 'E:\Jane's Addiction 1990 Dec 10 PNE Forum Vancouver Analog Master FLAC\03 Whores.flac'
+04 1 percent.wav:  successfully encoded to 'E:\Jane's Addiction 1990 Dec 10 PNE Forum Vancouver Analog Master FLAC\04 1 percent.flac'
+05 No One s Leaving.wav:  successfully encoded to 'E:\Jane's Addiction 1990 Dec 10 PNE Forum Vancouver Analog Master FLAC\05 No One s Leaving.flac'
+06 Ain t No Right.wav:  successfully encoded to 'E:\Jane's Addiction 1990 Dec 10 PNE Forum Vancouver Analog Master FLAC\06 Ain t No Right.flac'
+07 perryspeak1.wav:  successfully encoded to 'E:\Jane's Addiction 1990 Dec 10 PNE Forum Vancouver Analog Master FLAC\07 perryspeak1.flac'
+08 Then She Did.wav:  successfully encoded to 'E:\Jane's Addiction 1990 Dec 10 PNE Forum Vancouver Analog Master FLAC\08 Then She Did.flac'
+09 Had A Dad.wav:  successfully encoded to 'E:\Jane's Addiction 1990 Dec 10 PNE Forum Vancouver Analog Master FLAC\09 Had A Dad.flac'
+10 perryspeak2.wav:  successfully encoded to 'E:\Jane's Addiction 1990 Dec 10 PNE Forum Vancouver Analog Master FLAC\10 perryspeak2.flac'
+11 Been Caught Stealing.wav:  successfully encoded to 'E:\Jane's Addiction 1990 Dec 10 PNE Forum Vancouver Analog Master FLAC\11 Been Caught Stealing.flac'
+12 Thank You Boys.wav:  successfully encoded to 'E:\Jane's Addiction 1990 Dec 10 PNE Forum Vancouver Analog Master FLAC\12 Thank You Boys.flac'
+13 perryspeak3.wav:  successfully encoded to 'E:\Jane's Addiction 1990 Dec 10 PNE Forum Vancouver Analog Master FLAC\13 perryspeak3.flac'
+14 Three Days pt1.wav:  successfully encoded to 'E:\Jane's Addiction 1990 Dec 10 PNE Forum Vancouver Analog Master FLAC\14 Three Days pt1.flac'
+15 Three Days pt2.wav:  successfully encoded to 'E:\Jane's Addiction 1990 Dec 10 PNE Forum Vancouver Analog Master FLAC\15 Three Days pt2.flac'
+16 Mountain Song.wav:  successfully encoded to 'E:\Jane's Addiction 1990 Dec 10 PNE Forum Vancouver Analog Master FLAC\16 Mountain Song.flac'
+17 STOP.wav:  successfully encoded to 'E:\Jane's Addiction 1990 Dec 10 PNE Forum Vancouver Analog Master FLAC\17 STOP.flac'
+18 encore break.wav:  successfully encoded to 'E:\Jane's Addiction 1990 Dec 10 PNE Forum Vancouver Analog Master FLAC\18 encore break.flac'
+19 Jane Says.wav:  successfully encoded to 'E:\Jane's Addiction 1990 Dec 10 PNE Forum Vancouver Analog Master FLAC\19 Jane Says.flac'
+
+No errors occured.
+
+
+01 drumintro.flac:  tested ok (file will decode properly)
+02 Up The Beach.flac:  tested ok (file will decode properly)
+03 Whores.flac:  tested ok (file will decode properly)
+04 1 percent.flac:  tested ok (file will decode properly)
+05 No One s Leaving.flac:  tested ok (file will decode properly)
+06 Ain t No Right.flac:  tested ok (file will decode properly)
+07 perryspeak1.flac:  tested ok (file will decode properly)
+08 Then She Did.flac:  tested ok (file will decode properly)
+09 Had A Dad.flac:  tested ok (file will decode properly)
+10 perryspeak2.flac:  tested ok (file will decode properly)
+11 Been Caught Stealing.flac:  tested ok (file will decode properly)
+12 Thank You Boys.flac:  tested ok (file will decode properly)
+13 perryspeak3.flac:  tested ok (file will decode properly)
+14 Three Days pt1.flac:  tested ok (file will decode properly)
+15 Three Days pt2.flac:  tested ok (file will decode properly)
+16 Mountain Song.flac:  tested ok (file will decode properly)
+17 STOP.flac:  tested ok (file will decode properly)
+18 encore break.flac:  tested ok (file will decode properly)
+19 Jane Says.flac:  tested ok (file will decode properly)
+
+No errors occured.
+
+
+01 drumintro.flac:a92b3f1104e7daf659a81925c8f958cc
+02 Up The Beach.flac:c2a9659e29de16dd744ee4c081bed6be
+03 Whores.flac:40da4025bf7b7b95f6c71ee2a63fcc10
+04 1 percent.flac:5367a3b02d6be88ee453138ef480823d
+05 No One s Leaving.flac:c617fe1d92ee682316b4f2dbcab8bb26
+06 Ain t No Right.flac:cb8328042c6abd85bc38a3f6813ec5e0
+07 perryspeak1.flac:0fc1754a023eed4da5419e67abe28173
+08 Then She Did.flac:7caf87273b968412307eef06d0d723c7
+09 Had A Dad.flac:cb5b50c5f602e22356363a323b8b0829
+10 perryspeak2.flac:8b48367676395ecbb4f5f80f5cf919aa
+11 Been Caught Stealing.flac:b61e87ca1a05cb8b975cade1ca5f8306
+12 Thank You Boys.flac:d608c40147045eccfcdeae9d21277838
+13 perryspeak3.flac:ad68bd9bef8770c64000eb8444450d80
+14 Three Days pt1.flac:d4d03f672481c34b60de5364ab254fbf
+15 Three Days pt2.flac:40662a6ee9e0a1d9c49eed8ff382d3b7
+16 Mountain Song.flac:49567532fefaafb74086d532bbeadb34
+17 STOP.flac:b40ceace2950101e17f6c74c6f7c4861
+18 encore break.flac:3c349b84366e706844375bcfd5d357cb
+19 Jane Says.flac:e79d7121a53eb203c06f0017d85a5716
+
+No errors occured.
+
+Checksum file saved to disk.

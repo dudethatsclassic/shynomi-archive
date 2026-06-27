@@ -1,0 +1,47 @@
+Jane's Addiction
+Live at Rockefeller, Oslo 
+21/10-03
+
+Audience recording. 
+Quality: B+, Sound is decent, but the bass is to low. 
+Volume goes up and down a little bit a few places.
+Missing the end of two songs.
+
+Source:
+Sony ECM-MS957 + Sony TCD-D8 @ 44,1 KHz -> 
+Soundforge7.0 wav@24/44.1 -> normalized, edited -> 
+wav@16/44.1 -> mkw 0.97b1 -> shn
+
+-----------------------------------------------------------
+
+Tracklisting:
+
+01 Up The Beach
+02 Stop
+03 Ain't No Right
+04 True Nature
+05 Been Caught Stealing
+06 Perry Farrell Speaks 1
+07 Three Days
+08 Just Because
+09 Strays
+10 The Riches
+11 Perry Farrell Speaks 2
+12 Ocean Size
+13 In The Flesh? - Pink Floyd Cover
+14 Mountain Song
+15 Leve Blitz
+16 Jane Says
+
+Total running time: 63min
+Size compressed: 418MB
+Size uncompressed: 635MB
+-----------------------------------------------------------
+
+Band:
+
+Perry Farrel - vocal
+Dave Navarro - guitar
+Chris Chaney - bass
+Stephen Perkins - drums
+

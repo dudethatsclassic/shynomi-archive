@@ -1,0 +1,46 @@
+Jane's Addiction
+October 8, 2022
+Hard Rock Live
+Hollywood, Florida
+Spirits on Fire Tour
+
+IEM / AUD Matrix
+
+AUD Info:
+Location: stage left, four rows back
+Source: Tascam DR-05X
+Lineage: WAV > Audacity 3.2.1 (Equalization, Gain, Tracking) > FLAC (Level 5)
+Taper: Shaqwirk
+
+IEM Info:
+Source: Eric Avery's Feed > Edirol R09 (16/44)
+Taper: JD
+Lineage: WAV > Audition (normalize to -0.1db, light EQ) > Fission (track) > xACT >FLAC
+
+Setlist:
+01. Intro
+02. Up the Beach
+03. Whores
+04. 1%
+05. Ain't No Right
+06. Three Days
+07. Jane Says
+08. Been Caught Stealin'
+09. Mountain Song
+10. Ted, Just Admit It
+11. Stop!
+12. Ocean Size
+
+Band:
+Perry Farrell - Vocals
+Eric Avery - Bass
+Stephen Perkins - Drums
+Troy Van Leeuwen - Guitar
+
+Notes:
+Finally got some time to work on this. JD sent over a feed, which I believe it Eric Avery's feed. A little bit more prominent on the bass, but overall a wonderful mix. I supplemented the IEM feed with the audience recording that was seeded here in October by Shaqwirk to help with adding more highs in to the mix. Overall, this is a fantastic tape to listen to. Nothing was done to the audience tape in this mix. Only work that I did on the IEM was add a small amount of reverb to make the IEM feed not so dry. 
+
+If you have unreleased Nine Inch Nails recordings, please visit me (Ryan) at NINLive.com.
+If you have unreleased Rage Against the Machine recordings, please visit TJ at RATM.Live.
+If you have unreleased Linkin Park recordings, please visit Mark at LPLive.net.
+If you have unreleased Depeche Mode recordings, please visit Matt @ dmlive.wiki

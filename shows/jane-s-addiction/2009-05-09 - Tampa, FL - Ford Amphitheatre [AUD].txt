@@ -1,0 +1,25 @@
+Jane's Addiction
+5.9.09 Ford Amphitheatre, Tampa, FL
+
+schoeps ccm4/akg 460b+ck61->aerco mp-2->edirol R09
+taped from erics side back of pit in line with flying stacks
+
+01. Three Days 
+02. Whores 
+03. Ain't No Right 
+04. Pigs in Zen 
+05. Then She Did 
+06. Standing in the Shower... Thinking 
+07. Been Caught Stealing 
+08. Ted, Just Admit It... 
+09. Mountain Song 
+10. Ocean Size 
+Encore: 
+11. Stop! 
+12. Jane Says
+
+I got this show from xiola.org.
+A member there that goes by "jon" shared his recording.
+He uploaded it as one giant wave file. (763 MB)
+I used CD Wave to split it into tracks.
+Then I converted the wave files to flac using flacfrontend. (level 8)

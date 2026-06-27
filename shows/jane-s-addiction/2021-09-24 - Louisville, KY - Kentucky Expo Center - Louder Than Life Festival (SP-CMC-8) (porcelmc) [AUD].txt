@@ -1,0 +1,64 @@
+Jane's Addiction
+September 24, 2021
+Louisville, Kentucky USA
+Louder Than Life Festival on the Highland Festival Grounds at Kentucky Expo Center
+Lineage: SP-CMC-8(AT8538 Mod)>CA-UGLY II>Edirol R-05>PC>Adobe Audition>CDWAVE>FLAC
+Taped by: Porcelmc 
+
+_____________________________________________________________
+
+Setlist - Jane's Addiction
+
+01. Intro Tape
+02. Up the Beach
+03. Just Because
+04. Perry Speaks #1
+05. Been Caught Stealing
+06. Ain't No Right
+07. Perry Speaks #2
+08. Whores
+09. Perry Speaks #3
+10. Jane Says
+11. Perry Speaks #4
+12. Three Days
+13. Mountain Song 
+14. Perry Speaks #5
+15. Stop!
+16. Ted, Just Admit It...
+
+
+_____________________________________________________________
+
+Notes:
+
+N/A
+
+_____________________________________________________________
+
+Sample: https://www.youtube.com/watch?v=vXXd0SVE5Bw
+
+
+ST5 Hash File:
+
+4b76f6d10d0244494bb2b7a8ae10ff59  [shntool]  01_Intro Tape.flac
+3d0ca97e26685762d512fedef24da1e5  [shntool]  02_Up the Beach.flac
+e4333ef78b48ccbf6b044d04bd51e254  [shntool]  03_Just Because.flac
+6cedb286042b9651663ec028982b1abd  [shntool]  04_Perry Speaks.flac
+2abbcb657cc3664797a184a4f7d43c00  [shntool]  05_Been Caught Stealing.flac
+fb383fbc707b6248599f6e1213b4de26  [shntool]  06_Ain't No Right.flac
+2c526337309098106846d965dd514a66  [shntool]  07_Perry Speaks #2.flac
+97e4821fadf8f12e49fe7ba94bf297dc  [shntool]  08_Whores.flac
+28caad699bc6009acaf0c88f3e06f84e  [shntool]  09_Perry Speaks #3.flac
+706db00dcb0a797ce4f5e52b83540b42  [shntool]  10_Jane Says.flac
+7284832da27d7c490bae0229efb61998  [shntool]  11_Perry Speaks #4.flac
+cd57ee6960d561d8d1a487030809e1c0  [shntool]  12_Three Days.flac
+6919ddc76b852d96d48cc5546a651315  [shntool]  13_Mountain Song.flac
+1d9661a1cd264d0a8de925d7c2339f99  [shntool]  14_Perry Speaks #5.flac
+1a3f33dcc6315d024992db7d7ac8e87f  [shntool]  15_Stop!.flac
+4d1c879d73056a2ec710cba3d34f9ee7  [shntool]  16_Ted, Just Admit it....flac
+
+No errors occured.
+
+
+
+

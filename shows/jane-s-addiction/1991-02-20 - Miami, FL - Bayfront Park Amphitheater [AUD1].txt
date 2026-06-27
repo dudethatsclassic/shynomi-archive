@@ -1,0 +1,16 @@
+1ac002508f14dc04eed13ac8f743ea4c *Disc 1/01 Track01.flac
+24db47ac670d585f82a8664aedcf968a *Disc 1/02 Track02.flac
+20b1f82d59d9c3e8a6769b79b8e5d369 *Disc 1/03 Track03.flac
+dbe753510a90c72ab7697b42fd207f02 *Disc 1/04 Track04.flac
+16e6e6049876a752795e1ee5b57f79db *Disc 1/05 Track05.flac
+3189cfb4245da21ead94720a0d3d86f0 *Disc 1/06 Track06.flac
+566f999aa32a86e5f9595ee5a00992d8 *Disc 1/07 Track07.flac
+a2df311d32a642abb2a4180ba6236ee1 *Disc 1/08 Track08.flac
+02bf3a8f682457a8c26e6eb0ecd06a4c *Disc 1/09 Track09.flac
+823260435c9e095afd0e71257ca4fb8d *Disc 1/1991.02.20 - Bayfront Park Amphitheater, Miami, FL (Disc 1).log
+06fbef95118120c9f702af86b314d371 *Disc 2/01 Track01.flac
+221674acf791d23e210b4fe81ba6b52c *Disc 2/02 Track02.flac
+c6d2c88524bf6c75db9ebbfc07e6af61 *Disc 2/03 Track03.flac
+67426aab4461e2d7b2dc823b0b1a0d96 *Disc 2/04 Track04.flac
+b90b2c7a4d2012010ba1024dc99f5c72 *Disc 2/05 Track05.flac
+6925b2ae9ec618a2ac234e9a7b0bf329 *Disc 2/1991.02.20 - Bayfront Park Amphitheater, Miami, FL (Disc 2).log

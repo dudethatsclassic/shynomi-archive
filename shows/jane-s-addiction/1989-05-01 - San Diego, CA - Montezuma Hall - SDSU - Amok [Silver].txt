@@ -1,0 +1,36 @@
+Jane's Addiction
+Montezuma Hall
+San Diego State University
+San Diego, California
+May 1st, 1989
+
+Audience Recording
+Source: Silver CD 'Amok'
+
+Tracks:
+01. Up The Beach 
+02. Mountain Song 
+03. 1% 
+04. Standing In The Shower, Thinking 
+05. Ted, Just Admit It... 
+06. Thank You Boys 
+07. Had A Dad 
+08. Idiots Rule 
+09. Bobhaus 
+10. Pigs In Zen 
+11. Ocean Size 
+12. Trip Away
+
+Total Running Time:   46:35
+
+
+This recording needed some work, which I approaced in a nondestructive way utilizing both CEP 2.1 and Steinberg 
+WaveLab 5.  No hiss reduction or other NR was applied.  I tweaked the dynamics, removed the worst clicks manually, 
+and patched two very brief silences with native audio.  I then gave it an EQing to brighten the music, balanced the 
+channels, and enhanced the stereo profile.  It's much more listenable now, though there were certainly some talkers 
+around our taper, ranging from highly amusing to extremely annoying.
+
+Enjoy!
+
+floodland
+ 

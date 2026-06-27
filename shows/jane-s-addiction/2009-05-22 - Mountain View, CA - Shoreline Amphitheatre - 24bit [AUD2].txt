@@ -1,0 +1,31 @@
+Jane's Addiction
+Shoreline Amphitheatre
+Mountain View, CA, USA
+2009-05-22
+
+Equipment: CA-14 cardioid -> CA-9100 preamp -> R-09HR (24/96)
+Lineage: 24/96 WAV -> Amadeus Pro (normalize, downsample, EQ) -> 24/48 FLAC(8)
+
+Location: Section 102, Row L
+Recorded by: TheBang
+
+Setlist:
+
+05 Then She Did...
+06 Mountain Song
+07 Thank You Boys
+08 Had a Dad
+09 Been Caught Stealing
+10 Ted, Just Admit It...
+11 Ocean Size
+12 Summertime Rolls
+13 Stop!
+14 Ripple
+15 Jane Says
+
+The first half-hour was not recorded because I was backstage.  Sorry.
+
+DO NOT DISTRIBUTE IN MP3 OR OTHER LOSSY FORMAT!
+
+I didn't use any dynamic range compression or limiting.  Preserve the
+dynamic range!  Fight the loudness race!  Just turn up your volume.

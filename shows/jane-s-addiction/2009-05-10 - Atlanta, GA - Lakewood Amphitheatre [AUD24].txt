@@ -1,0 +1,42 @@
+
+
+----------------------------------------------------------------
+	Artist:			Janes Addiction
+	Date:			May 10, 2009
+	Location:		Lakewood Amphitheatre, Chicago
+	Taper:			JB
+	e-mail:			radioheadusa@comcast.net
+	DC++ screenname:	radiohead8989
+	Web:			http://home.comcast.net/~radioheadusa/
+	date of seeding:	May 13, 2009
+----------------------------------------------------------------
+	Source Info:		>Edirol R9 (24bit/48kHz) (Line In)
+				>Core Sound HEB (4060) (Bass Rolloff=ON)
+				>Adobe Audition (+2DB first Track Only) 
+				>CDWAVE
+				>FLAC (level 8)
+----------------------------------------------------------------
+	additional info:	Recorded from the Pit
+----------------------------------------------------------------
+	running time:		1h:23m:59s
+----------------------------------------------------------------
+	Setlist:		01 Intro
+				02 Three Days
+				03 Whores
+				04 Ain't No Right
+				05 Pigs In Zen
+				06 Then She Did... 
+				07 Mountain Song
+				08 Been Caught Stealing
+				09 Ted, Just Admit It...
+				10 Had A Dad
+				11 Ocean Size 
+				12 Off-stage
+				13 Summertime Rolls
+				14 Stop!
+				15 Jane Says
+----------------------------------------------------------------
+Note:
+This is a 24bit / 48KHZ recording.  It cannot be burned to a cd, unless you convert it to 16bit / 44.1k first.
+The FLAC files were created using CD Wave 1.97, and they were tested using Media Monkey 3.0.2.1134.
+

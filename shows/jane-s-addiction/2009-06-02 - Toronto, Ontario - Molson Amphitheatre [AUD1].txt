@@ -1,0 +1,381 @@
+JANE'S ADDICTION
+June 2/09 @ The Molson Amphitheatre: "NIN|JA Tour" - w/Street Sweeper Social Club & Nine Inch Nails
+Toronto, ON
+80:54
+B+/A-
+
+SETLIST:
+01 Intro
+02 Three Days
+03 Whores 
+04 Ain't No Right 
+05 Pigs in Zen 
+06 Then She Did
+07 Up the Beach 
+08 Mountain Song
+09 Been Caught Stealing
+10 Had a Dad 
+11 Ted, Just Admit It
+12 Ocean Size
+13 Encore
+14 Summertime Rolls 
+15 Stop!
+16 Jane Says
+17 Outro
+
+NOTES:
+Jane's freakin' Addiction - all 4 original members w/Avery now back in the fold. The only Canadian stop on the "NIN|JA Tour", the opening show of the season @ The Molson Amp & 2 weeks or so from the tour's wrap. Nice way to 
+start the summer most certainly - with a reunited Jane's concert down by the lake & meeting up w/old friends: good to see Adam/Sue & later Paul. Bummer the pre-sales only allowed for 2 tickets/per order. 1st song into the encore 
+("Summertime") looked over & my woman's smiling away & grooving - life's not too bad all things being equal. Great time, but was surprised that the place thinned out a bit after NIN were done. Oh you old goths ;) Very cool that ALL 
+bands onboard agreed to a FULL open taping policy for the tour. Much thanks to each group for this. That being said, an odd patdown @ the gates coming in where my gear was fine (didn't walk in advertising it, but they opened my 
+storage case), but the small umbrella (wrapped in a plastic bag) was a no-no that had to be checked. Huh?? Dunno.. Missed Jane's back before the split, so this was long overdue (only caught w/Flea @ The ACC in '01 ). Had my 
+pre-amp running pretty hot, and unfortunately there was some bass clipping up till 30 mins or so into the show (very minimal @ times, but still). Thanks to krewechief for allowing the patch to complete my source (and sending along 
+the raw file for me to work with) - as I missed the pre-taped intro & 1 1/4 mins or so into "Three Days". Love trying to make it back to my seat w/16K of my closest friends... As this special show warranted it IMHO, ended up turning 
+into a full matrix of both our sources. 1st time I did one, but am pretty happy w/how things came out sonically (this is mix #5, after a few false starts w/too much/little bass) - especially as we were running similar rigs, save for mics & 
+neither source was directly forward facing to the stage, so..  Special thanks to all the photogs who shared their visual captures of this show as well. Included here:
+
+- Live Nation's webadvert
+- Eye Magazine pre-show piece
+- Both ticket scans
+- Seating Chart
+- Online reviews from: httpwww.eyeweekly.com, httpjam.canoe.ca, httpwww.torontosun.com, httpdylanomaniac.blogspot.com, httpconcertaholics.com, httpinfinitybasement.wordpress.com & httpcasket4mytears.vox.com
+- '08 Promo shot @ La Cita (courtesy of Chapman Baehler)
+- Small Copy of Box Office Tour Poster
+- Copy of Sticker
+- 6 pix courtesy of Richard Beland & www.chartattack.com
+- 378 pix courtesy of: 35mmMonkey's photostream, babaji, bigdaddyhame's photostream, d3zign7reak's photostream, FredrikSSE's photostream, iconaught's photostream, jack_torrance's photostream, jen takes pictures' photostream, 
+  KyleMistry's photostream, Lara W photostream, Life_Is_Loud photostream, Lokus_SMP's photostream, MT & I, photofranco2007's photostream, robynx's photostream, tetris12's photostream, tora.photography's photostream, 
+  xvanx's photostream
+
+Throw on a good set of 'phones, crack a cold one, spark one up & enjoy. You received this lossless, let's keep it that way & please don't encode to MP3 (unless for personal use) and distribute. I'd rather not see this sendspaced, 
+megauploaded, etc all over the web in numerous different formats. This is about as good as it can get format wise. Please include all other non music files when sharing this recording. In 2009, do we still have to say don't sell this? Real 
+time & effort were involved in this recording/upload. As such, considering the price one pays for the results, appreciation is never considered uncool.
+
+- the dude abides..
+
+www.janesaddiction.com
+www.myspace.com/janesaddiction
+
++ This show goes out to the late/great Martin Streek fornerly of CFNY/102.1: a true outspoken original in a growing sea of carbon copies. You left us way too soon man - hope you have found peace now +
+
+SOURCES:
+A - Church Audio (CA-11) Cardioids>Church Audio STC-9000 Pre-Amp>Edirol R-09 (Sec 201/Row A/Seat 18)>WAV M @ 16/44.1>USB>Sonic Foundry>WAV M @ 16/44.1
+
+B - Core Sound High End Binaurals (DPA 4061's)>Church Audio CA-9100 Pre-Amp v4.0 w/Battery Box w/Bass Filter On (Mics on Glasses/Sec 201/Row U/Seat 38)>CC Mini Cable>Edirol R-09 (Mic In/AGC & Low Cut Filter Off/Flat 
+Input Setting)>8 GB SD Card>USB>HD>WAV M @ 24/44.1>Adobe Audition v2.0 Clip Restoration/10 Band dEQ>WAV M @ 24/44.1
+
+MATRIX INFO:
+Audacity>Tracks Aligned>Source A (-0.3 db/Panned 10% LT Side) & Source B (-0.3 db/Panned 10% RT Side)>WAV M @ 16/44.1>Adobe Audition v2.0 10 Band dEQ>CDWav dED>Audacity (fades)>WAV M>TLH>FLAC (8)
+
+TAPERS: 
+krewechief | silverjetz
+
+UPLOADED TO DIMEADOZEN & TRADER'S DEN:
+July 19/09
+
+TRADER'S LITTLE HELPER:
+01 Intro.wav:  successfully encoded to '01 Intro.flac' (ratio = 0.517; no need for sector alignment).
+02 Three Days.wav:  successfully encoded to '02 Three Days.flac' (ratio = 0.643; no need for sector alignment).
+03 Whores .wav:  successfully encoded to '03 Whores .flac' (ratio = 0.680; no need for sector alignment).
+04 Ain't No Right .wav:  successfully encoded to '04 Ain't No Right .flac' (ratio = 0.634; no need for sector alignment).
+05 Pigs in Zen .wav:  successfully encoded to '05 Pigs in Zen .flac' (ratio = 0.640; no need for sector alignment).
+06 Then She Did.wav:  successfully encoded to '06 Then She Did.flac' (ratio = 0.631; no need for sector alignment).
+07 Up the Beach .wav:  successfully encoded to '07 Up the Beach .flac' (ratio = 0.636; no need for sector alignment).
+08 Mountain Song.wav:  successfully encoded to '08 Mountain Song.flac' (ratio = 0.665; no need for sector alignment).
+09 Been Caught Stealing.wav:  successfully encoded to '09 Been Caught Stealing.flac' (ratio = 0.650; no need for sector alignment).
+10 Had a Dad .wav:  successfully encoded to '10 Had a Dad .flac' (ratio = 0.679; no need for sector alignment).
+11 Ted, Just Admit It.wav:  successfully encoded to '11 Ted, Just Admit It.flac' (ratio = 0.654; no need for sector alignment).
+12 Ocean Size.wav:  successfully encoded to '12 Ocean Size.flac' (ratio = 0.678; no need for sector alignment).
+13 Encore.wav:  successfully encoded to '13 Encore.flac' (ratio = 0.508; no need for sector alignment).
+14 Summertime Rolls.wav:  successfully encoded to '14 Summertime Rolls.flac' (ratio = 0.605; no need for sector alignment).
+15 Stop!.wav:  successfully encoded to '15 Stop!.flac' (ratio = 0.651; no need for sector alignment).
+16 Jane Says.wav:  successfully encoded to '16 Jane Says.flac' (ratio = 0.651; no need for sector alignment).
+17 Outro.wav:  successfully encoded to '17 Outro.flac' (ratio = 0.538; no need for sector alignment).
+
+No errors occured.
+
+01 Intro.flac:  tested ok (file is decodable without error).
+02 Three Days.flac:  tested ok (file is decodable without error).
+03 Whores .flac:  tested ok (file is decodable without error).
+04 Ain't No Right .flac:  tested ok (file is decodable without error).
+05 Pigs in Zen .flac:  tested ok (file is decodable without error).
+06 Then She Did.flac:  tested ok (file is decodable without error).
+07 Up the Beach .flac:  tested ok (file is decodable without error).
+08 Mountain Song.flac:  tested ok (file is decodable without error).
+09 Been Caught Stealing.flac:  tested ok (file is decodable without error).
+10 Had a Dad .flac:  tested ok (file is decodable without error).
+11 Ted, Just Admit It.flac:  tested ok (file is decodable without error).
+12 Ocean Size.flac:  tested ok (file is decodable without error).
+13 Encore.flac:  tested ok (file is decodable without error).
+14 Summertime Rolls.flac:  tested ok (file is decodable without error).
+15 Stop!.flac:  tested ok (file is decodable without error).
+16 Jane Says.flac:  tested ok (file is decodable without error).
+17 Outro.flac:  tested ok (file is decodable without error).
+
+No errors occured.
+
+01 Intro.flac:fc6006ca8a20ebf2dbee34899b83d6bf
+02 Three Days.flac:884f856bd8d796267f39d64e9fb2f31d
+03 Whores .flac:2dab9a42e53dbdd7c9c4b0acc44bc264
+04 Ain't No Right .flac:10bd6f3ba454162f3c0363330d05f70c
+05 Pigs in Zen .flac:f9ce1f5f28f5363ff24668e6dcf7e619
+06 Then She Did.flac:81d7622b9998c5e691770dd639382161
+07 Up the Beach .flac:73d9390a163c9fa9031b0c77e24279b5
+08 Mountain Song.flac:c29465438f1938623e105db35ec91fe0
+09 Been Caught Stealing.flac:ce6864462c06d4f28814031f20b8488b
+10 Had a Dad .flac:1312a129db30d972459e6944dc5181db
+11 Ted, Just Admit It.flac:8b2a745ffd9da7c938d4fe1ea5e23a87
+12 Ocean Size.flac:c558f540648cd232c5fc1df37a92ff26
+13 Encore.flac:cbb57cd8120c820218f791e4291f69d4
+14 Summertime Rolls.flac:eb5c6b49ada9cfc25728d027999d7b59
+15 Stop!.flac:8edf9a6e4270dd179c6c2fdcffb3406a
+16 Jane Says.flac:620072351d28c1f843bd67f7b65dc81c
+17 Outro.flac:7ee956d874943c30e4eaa8d365560bfd
+
+Checksum file saved to disk.
+
+No errors occured.
+
+**********************
+
+* UPLOADED MASTERS *
+
+ROB DICKINSON 			- Feb 5/07 Acoustic @ The Edge Studios - CFNY 102.1 "Edge Session" FM Radio Broadcast - Toronto, ON
+RYAN ADAMS			- June 21/07 Unplugged @ The Edge Studios - CFNY 102.1 "Edge Session" FM Radio Early Evening Broadcast + Interview - Toronto, ON
+TOKYO POLICE CLUB 		- Sept 3/07 @ Memorial Stadium / KEXP Music Lounge - Seattle, WA
+BLACK REBEL MOTORCYCLE CLUB 	- Oct 1/07 @ The Koolhaus - w/Uncut & The Dirtbombs - Toronto, ON
+THE GUTTER TWINS 		- Mar 4/08 Instudio @ KEXP - Seattle, WA 
+THE SLACKERS 			- April 16/08 Instore @ Sonic Boom Records - Toronto, ON
+PETER MOREN			- April 24/08 Instore @ Soundscapes Records - Late Afternoon Set - Toronto, ON	
+QUEENS OF THE STONE AGE 	- May 10/08 @ Copps Coliseum - w/Mugison - Hamilton, ON 	
+THE SADIES 			- June 5/08 @ The Koolhaus - Supporting The Raconteurs - Toronto, ON
+THE RACONTEURS 		- June 5/08 @ The Koolhaus - w/The Sadies - Toronto, ON
+AIMEE MANN 			- May 9/08 Instore @ Sonic Boom Records - Toronto, ON
+JOHN FOGERTY			- July 21/07 @ The RBC Theatre / The John Labatt Center - w/The Payolas - London, ON
+SILVERSUN PICKUPS		- Mar 31/07 Acoustic @ The Edge Studios - CFNY 102.1 "Edge Session" FM Radio Early Afternoon Broadcast + Interview - Toronto, ON (INCOMPLETE)
+THE KOOKS			- Feb 11/08 Acoustic @ The Edge Studios - CFNY 102.1 "Edge Session" FM Radio Early Afternoon Broadcast + Interview - Toronto, ON
+THE BLACK ANGELS		- June 26/08 @ Lee's Palace - w/The Warlocks - Toronto, ON
+GRADY				- May 7/08 @ Tattoo Rock Parlour - w/The Paranoid Freaks - Toronto, ON
+THE BLACK KEYS			- Aug 3/08 @ The Phoenix Concert Theatre - w/The Kills - Toronto, ON (INCOMPLETE)
+BLACK MOUNTAIN 		- Sept 27/08 @ The Opera House - w/Jesse Sykes & The Sweet Herefter - Toronto, ON
+LOS LOBOS			- Sept 19/08 @ Massey Hall - w/Pistolera - Toronto, ON (INCOMPLETE)
+EAGLES OF DEATH METAL		- Nov 13/08 @ The Mod Club Theatre - w/The Duke Spirit - Toronto, ON
+FRANZ FERDINAND		- Dec 4/08 @ Lee's Palace - CFNY 102.1 FM Radio Broadcast - w/The Born Ruffians - Toronto, ON 
+EAGLES OF DEATH METAL		- Feb 20/09 @ The Edge Studios - CFNY 102.1 "Edge Session" FM Radio Afternoon Broadcast + Interview w/Jesse - Toronto, ON
+JANE'S ADDICTION		- June 2/09 @ The Molson Amphitheatre: "NIN|JA Tour" - w/Street Sweeper Social Club & Nine Inch Nails - Toronto, ON  (krewechief|silverjetz MATRIX)
+
+** COMING UPLOADS **
+
+BUDDY GUY			- June 6/91 @ The Ontario Place Forum - w/John Mayall's Bluesbreakers & Koko Taylor - Toronto, ON
+
+I MOTHER EARTH			- Jan 20/97 @ Mushroom Studios - Soundsource Network "Command Performance" FM Radio Broadcast + Interviews w/The Band - Vancouver, BC
+GLUELEG				- Aug 14/97 Unplugged @ The Edge Studios - CFNY 102.1 "Edge Session" FM Radio Afternoon Broadcast +  Interview w/The Band - Toronto, ON
+
+BEN HARPER			- Sept 20/00 Acoustic @ The Edge Studios - CFNY 102.1 "Edge Session" FM Radio Broadcast & Interview - Toronto, ON
+UNIFIED THEORY			- Nov 28/00 @ The Horseshoe Tavern / 102.1 FM The Edge "New Music Night" - w/Linkin Park - Toronto, ON (INCOMPLETE)
+
+STONE TEMPLE PILOTS		- July 9/01 Unplugged @ The Edge Studios - CFNY 102.1 "Edge Session" FM Radio Broadcast + Interview w/The Band - Toronto, ON
+DAVE NAVARRO			- July 17/01 Acoustic @ The Edge Studios w/Dave Kushner - CFNY 102.1 "Edge Session" FM Radio Afternoon Broadcast & Interview - Toronto, ON
+
+JON SPENCER BLUES EXPLOSION	- May 14/02 @ The Kool Haus - CBC Radio 2 "Just Concerts" FM Broadcast - Toronto, ON
+QUEENS OF THE STONE AGE		- June 3/02 Acoustic @ The Edge Studios - CFNY 102.1 "Edge Session" FM Radio Early Evening Broadcast + Interview w/Josh & Nick - Toronto, ON
+QUEENS OF THE STONE AGE		- June 4/02 @ Lee's Palace: 6th Date of Pre "Songs For The Deaf" Release Mini "Secret" Club Tour (North American Leg) - w/DJ C Minus - Toronto, ON
+THE VINES			- July 10/02 Acoustic @ The Edge Studios - CFNY 102.1 "Edge Session" FM Radio Broadcast + Interview w/Craig - Toronto, ON
+RED HOT CHILI PEPPERS		- Aug 7/02 Unplugged @ The Edge Studios - CFNY 102.1 "Edge Session" FM Radio Afternoon Broadcast + Interviews w/The Band - Toronto, ON
+... TRAIL OF DEAD			- Sept 7/02 @ The Edge Studios: 102.1 FM Radio Afternoon Broadcast & Interview w/Conrad & Neil - Toronto, ON
+... TRAIL OF DEAD			- Sept 7/02 @ Much Music Studios -  Afternoon Broadcast + Interview w/Conrad & Neil - Toronto, ON
+QUEENS OF THE STONE AGE		- Sept 7/02 @ The Edge Studios: 102.1 FM Radio Afternoon Broadcast - Interview w/Josh & Nick - Toronto, ON
+QUEENS OF THE STONE AGE		- Sept 7/02 @ Much Music Studios - Afternoon Broadcast & Interview w/Josh & Nick - Toronto, ON
+QUEENS OF THE STONE AGE		- Sept 7/02 @ The Koolhaus: "Take Only What You Can Handle" Tour - w/Burning Brides & And You Will Know Us By Trail of Dead - Toronto, ON
+HOOBASTANK			- Oct 9/02 Acoustic @ The Edge Studios - CFNY 102.1 "Edge Session" FM Radio Broadcast + Interview w/Dan & Doug- Toronto, ON
+BRAD				- Oct 31/02 @ The Phoenix Concert Theatre - w/Happy Chichester - Toronto, ON
+
+QUEENS OF THE STONE AGE		- Jan 9/03 @ The Edge Studios - 102.1 FM Radio Broadcast / Phoner Interview w/Josh - Toronto, ON
+AUDIOSLAVE			- Mar 1/03 @ The Koolhaus - w/Burning Brides - Toronto, ON
+ZWAN				- Mar 25/03 @ The Edge Studios - 102.1 Afternoon FM Radio Broadcast + Interview w/The Band
+ZWAN				- Mar 25/03 @ The Koolhaus - Toronto, ON (INCOMPLETE)
+I MOTHER EARTH			- April 7/03 @ Club 279 / The Hard Rock Café: The Edge 102.1 Free Show - "The Quicksilver Meat Dream" CD Release Party - Toronto, ON (INCOMPLETE)
+I MOTHER EARTH			- April 30/03 @ The Masonic Temple - Sympatico.ca "HSE Concert Series" Real Audio Webcast - Toronto, ON
+I MOTHER EARTH			- May 2/03 @ The Opera House / Last Date of Export A "Extreme Music Series" Mini Tour - w/Clark Nova & 40 Foot Echo - Toronto, ON (INCOMPLETE)
+QUEENS OF THE STONE AGE		- May 13/03 Outside @ The Air Canada Center - The Edge 102.1 FM Radio Afternoon Broadcast + Interview w/Josh & Nick - Toronto, ON 
+QUEENS OF THE STONE AGE		- May 13/03 @ The Air Canada Center - w/The Mars Volta & Supporting The Red Hot Chili Peppers (1st Leg of  U.S Tour) - Toronto, ON (INCOMPLETE)
+FINGER ELEVEN			- June 11/03 Acoustic @ The Edge Studios - 102.1 "Edge Session" FM Radio Afternoon Broadcast + Interview w/Scott & James - Toronto, ON (INCOMPLETE)
+COLDPLAY			- June 11/03 @ The Molson Amphitheatre - CFNY 102.1 The Edge FM Radio Broadcast - Toronto, ON
+THEORY OF A DEADMAN		- July 3/03 Acoustic @ The Edge Studios - CFNY 102.1 "Edge Session" FM Radio Early Afternoon Broadcast + Interview w/The Band - Toronto, ON
+THREE DAYS GRACE		- July 3/03 Acoustic @ The Edge Studios - CFNY 102.1 "Edge Session" FM Radio Afternoon Broadcast + Interview - Toronto, ON
+THE DANDY WARHOLS		- Aug 19/03 Acoustic @ The Edge Studios - CFNY 102.1 "Edge Session" FM Radio Afternoon Broadcast + Interview w/Courtney & Brent - Toronto, ON (INCOMPLETE)
+STEREOPHONICS			- Sept 19/03 Acoustic @ The Edge Studios - CFNY 102.1 "Edge Session" FM Radio Afternoon Broadcast + Interview w/Kelly - Toronto, ON
+JANE'S ADDICTION		- Sept 25/03 Unplugged @ The Edge Studios - CFNY 102.1 "Edge Session" FM Radio Afternoon Broadcast + Interview w/The Band - Toronto, ON
+QUEENS OF THE STONE AGE		- Sept 29/03 @ The Koolhaus - w/The Distillers- Toronto, ON
+
+BRAND NEW			- Feb 6/04 Unplugged @ The Edge Studios - CFNY 102.1  "Edge Session" FM Radio Early Evening Broadcast + Interview w/Jesse & Brian - Toronto, ON
+STEREOPHONICS			- Feb 9/04 Unplugged @ The Edge Studios - CFNY 102.1 "Edge Session" FM Radio Afternoon Broadcast + Interview w/Kelly, Rich & Steve - Toronto, ON
+THE VINES			- Feb 9/04 Acoustic @ The Edge Studios - CFNY 102.1 "Edge Session" FM Radio Afternoon Broadcast + Interview w/Craig & Ryan - Toronto, ON
+THE MUSIC			- Feb 14/04 @ The Edge Studios - CFNY 102.1 "Edge Session" FM Radio Afternoon Broadcast + Interview w/Rob & Phil - Toronto, ON
+SWITCHFOOT			- Mar 9/04 Acoustic @ The Edge Studios - CFNY 102.1 "Edge Session" FM Radio Broadcast + Interview w/John & Tim - Toronto, ON
+STERIOGRAM			- May 11/04 Acoustic @ The Edge Studios - CFNY 102.1 "Edge Session" FM Radio Broadcast + Interview w/Brad, Tyson & Jacob - Toronto, ON
+POWDER FINGER			- Mar 15/04 Acoustic @ The Edge Studios - CFNY 102.1 "Edge Session" FM Radio Afternoon Broadcast + Interview w/Ian & Bernard - Toronto, ON
+THE LOST PROPHETS		- Mar 16/04 Acoustic @ The Edge Studios - 102.1 "Edge Session" FM Radio Broadcast + Interview w/Ian & Liam - Toronto, ON
+VELVET REVOLVER			- May 21/04 @ The Edge Studios - CFNY 102.1 FM Radio Afternoon Broadcast + Interview w/Duff & Matt - Toronto, ON
+VELVET REVOLVER			- May 21/04 @ The Koolhaus / Pre "Contraband" CD Release Mini Promo Tour - w/Silvertide - Toronto, ON
+AUF DER MAR			- May 26/04 Acoustic @ The Edge Studios - CFNY 102.1 "Edge Session" FM Radio Early Evening Broadcast + Interview - Toronto, ON
+BIF NAKED			- June 1/04 @ The Edge Studios - CFNY 102.1 "Edge Session" FM Radio Afternoon Broadcast + Interview - Toronto, ON
+OUT OF YOUR MOUTH		- June 16/04 @ The Edge Studios - 102.1 "Edge Session" FM Radio Afternoon Broadcast & Interview - Toronto, ON
+ALTER BRIDGE			- Aug 4/04 Unplugged @ The Edge Studios - CFNY 102.1 "Edge Session" FM Radio Early Evening Broadcast + Interview w/Mark & Myles - Toronto, ON
+THE CURE			- Aug 9/04 @ The Molson Amphitheatre / "Curiosa Festival": CFNY 102.1 The Edge FM Radio Broadcast - w/Mogwai, Interpol & Auf Der Mar - Toronto, ON
+BURNING BRIDES			- Aug 17/04 Acoustic @ The Edge Studios - CFNY 102.1 "Edge Session" FM Radio Afternoon Broadcast + Interview w/Dimitri & Melanie - Toronto, ON
+THE TEA PARTY			- Aug 17/04 Unplugged @ The Edge Studios - CFNY 102.1 "Edge Session" FM Radio Early Evening Broadcast + Interview w/The Band- Toronto, ON
+JIMMY EAT WORLD		- Sept 9/04 @ The Edge Studios - CFNY 102.1 "Edge Session" / "The Dean Blundell Morning Show" FM Radio Broadcast + Interview w/The Band - Toronto, ON
+SNOW PATROL			- Sept 17/04 Unplugged @ The Edge Studios - CFNY 102.1 "Edge Session" / "The Dean Blundell Morning Show" FM Radio Broadcast + Interview - Toronto, ON
+GREEN DAY			- Sept 24/04 @ The Phoenix Concert Theatre: 4th & Last Date of "American Idiot" Mini Promo Tour - CFNY 102.1 The Edge FM Radio Broadcast + Interview - Toronto, ON
+THE STILLS			- Oct 2/04 Acoustic @ The Edge Studios - CFNY 102.1 "Edge Session" FM Radio Afternoon Broadcast + Interview w/Tim & Dave- Toronto, ON
+THE STRANGLERS			- Oct 22/04 Acoustic @ The Edge Studios - CFNY 102.1 "Edge Session" FM Radio Early Evening Broadcast & Interview - Toronto, ON
+VELVET REVOLVER			- Nov 22/04 @ The Edge Studios - CFNY 102.1 FM Radio Afternoon Broadcast Interviews w/Scott, Duff, Slash & Dave - Toronto, ON
+VELVET REVOLVER			- Nov 22/04 @ The Air Canada Center: CFNY 102.1 FM "Velvet Revolver Radio" Broadcast + Interviews w/The Band - w/The Exies - Toronto, ON
+THE LOWEST OF THE LOW		- Dec 17/04 @ The Edge Studios - 102.1 "Edge Session" FM Radio Broadcast + Interview w/Steve - Toronto, ON
+
+QUEENS OF THE STONE AGE		- Feb 7/05 @ AOL Studios - "Sessions @ AOL" Webcast + Interview w/Josh & Troy - Los Angeles, CA
+KASABIAN			- Feb 25/05 Acoustic @ The Edge Studios - CFNY 102.1 "Edge Session" FM Radio Early Evening Broadcast + Interview - Toronto, ON
+THE DISSOCIATIVES		- Mar 21/05 Unplugged @ The Edge Studios - 102.1 "Edge Session" FM Radio Early Evening Broadcast + Interview - Toronto, ON
+QUEENS OF THE STONE AGE		- Mar 30/05 Acoustic @ The Edge Studios - CFNY 102.1 "Edge Session" FM Radio Afternoon Broadcast + Interviews w/Josh - Toronto, ON
+BILLY IDOL			- April 12/05 Acoustic @ The Edge Studios - CFNY 102.1 FM Radio Afternoon Broadcast + Interview - Toronto, ON	
+THE FUTUREHEADS		- April 23/05 Acoustic @ The Edge Studios - 102.1 "Edge Session" FM Radio Afternoon Broadcast + Interview - Toronto, ON
+HOT HOT HEAT			- April 23/05 Acoustic @ The Edge Studios - CFNY 102.1 "Edge Session" FM Radio Afternoon Broadcast + Interview w/Steve & Paul - Toronto, ON
+LOUIS THE XIV			- April 23/05 Acoustic @ The Edge Studios - 102.1 "Edge Session" FM Radio Afternoon Broadcast + Interview - Toronto, ON
+AUDIOSLAVE			- April 26/05 @ The Edge Studios - 102.1 The Edge FM Radio Afternoon Broadcast & Interview w/The Band - Toronto, ON
+AUDIOSLAVE			- April 26/05 @ The Koolhaus - w/Jonny Polonsky - Toronto, ON
+SLOAN				- April 28/05 Acoustic @ The Edge Studios - CFNY 102.1 "Edge Session" FM Radio Afternoon Broadcast + Interview w/Chris & Patrick - Toronto, ON
+COLDPLAY			- May 9/05 Acoustic @ The Edge Studios - CFNY 102.1 "Edge Session" FM Radio Early Evening Broadcast + Interview w/Chris & Johnny - Toronto, ON
+ATHLETE			- May 17/05 Acoustic @ The Edge Studios - CFNY 102.1 "Edge Session" FM Radio Afternoon Broadcast + Interview - Toronto, ON
+SEETHER				- May 17/05 Acoustic @ The Edge Studios - CFNY 102.1 "Edge Session" FM Radio Early Evening Broadcast + Interview w/Pat & Shawn - Toronto, ON
+AUDIOSLAVE			- July 25/05 @ AOL Studios - "Sessions @ AOL" Webcast + Interview w/The Band - Los Angeles, CA
+BLACK REBEL MOTORCYCLE CLUB	- Sept 19/05 Acoustic @ The Fitzgerald Theater - 89.3 KCMP / Minnesota Public Radio "The Current" WWW.Realplayer Webcast + Interview - St. Paul, MN
+
+BLACK REBEL MOTORCYCLE CLUB	- Jan 12/06 Acoustic @ 88.5 WXPN Studios - National Public Radio "World Café" RealAudio Afternoon Webcast + Interview - Philadelphia, PA
+THE RACONTEURS			- April 23/06 Unplugged @ AOL Studios - "The Interface: Sessions @ AOL" Webcast + Interview w/The Band - Los Angeles, CA
+BEN HARPER			- June 23/06 Acoustic @ 88.5 WXPN Studios - National Public Radio "World Café" RealAudio Afternoon Webcast + Interview - Philadelphia, PA
+CHRIS CORNELL			- Aug 28/06 Acoustic @ The Edge Studios - CFNY 102.1 "Edge Session" FM Radio Broadcast / Webcast + Interview - Toronto, ON
+THE BLACK KEYS			- Oct 11/06 @ XFM Studios - "Sessions at XFM /Music Response" Radio Broadcast - London, UK
+THE BLACK KEYS			- Nov 5/06 @ The 9:30 Club - NPR "All Songs Considered" Webcast + Interview - w/The Black Angels - Washington, DC
+
+CHRIS CORNELL			- April 14/07 @ The Phoenix Concert Theatre - Toronto, ON (INCOMPLETE)
+THE BLACK KEYS			- April 18/07 @ 88.5 WXPN Studios - National Public Radio "World Café" RealAudio Afternoon Webcast + Interview - Philadelphia, PA
+CHRIS CORNELL			- April 18/07 Acoustic @ WBCN Studios - 104.1 FM Radio Afternoon Broadcast/Webcast + Interview - Boston, MA
+CHRIS CORNELL			- April 18/07 Acoustic @ WAAF Studios - 107.3 FM Radio Afternoon Broadcast/Webcast + Interview - Boston, MA
+CHRIS CORNELL			- April 20/07 Acoustic @ Grape Street - 93.3 WMMR "MM-aRchive Session" FM Radio Afternoon Broadcast/Webcast + Interview - Philadelphia, PA
+CHRIS CORNELL			- April 25/07 Acoustic @ Smirnoff Ice Lounge / Toyota Tundra Studio - KTBZ 94.5 The Buzz FM Radio Afternoon Broadcast/Webcast + Interview - Houston, TX
+THE ARCTIC MONKEYS		- May 11/07 Acoustic @ The Edge Studios - CFNY 102.1 "Edge Session" FM Radio Afternoon Broadcast + Interview - Toronto, ON
+THE NIGHTWATCHMAN		- May 16/07 Acoustic @ The Edge Studios - CFNY 102.1 "Edge Session" FM Radio Early Evening Broadcast + Interview - Toronto, ON
+THE WHITE STRIPES		- July 5/07 @ The Molson Amphitheatre - w/Dan Sartain - Toronto, ON (INCOMPLETE)
+TOOL 				- July 9/07 @ Copps Coliseum - Hamilton, ON (INCOMPLETE)
+BEN HARPER			- Aug 3/07 @ Grant Park / Bud Light Stage: "Lollapalooza Festival" (1st Night) - AT&T "Blue Room" Webcast - w/Soulive, M.I.A & The Black Keys - Chicago, IL
+VELVET REVOLVER			- Aug 12/07 @ The Molson Amphitheatre - w/Kill Hannah & Alice in Chains - Toronto, ON (INCOMPLETE)
+QUEENS OF THE STONE AGE		- Aug 20/07 Unplugged @ The Edge Studios - CFNY 102.1 "Edge Session" FM Radio Early Evening Broadcast + Interview w/Josh - Toronto, ON
+QUEENS OF THE STONE AGE		- Aug 21/07 @ The Guvernment / Molson Canadian "Revealed" Secret Show - w/Cage The Elephant - Toronto, ON
+BEDOUIN SOUNDCLASH		- Aug 28/07 Unplugged @ The Edge Studios - CFNY 102.1 "Edge Session" / "The Dean Blundell Morning Show" FM Radio Broadcast + Interview - Toronto, ON
+BEN HARPER			- Sept 7/07 @ 88.5 WXPN Studios - National Public Radio "World Café" RealAudio Afternoon Webcast + Interview w/Ben - Philadelphia, PA
+BEN HARPER			- Sept 29/07 @ Massey Hall (2nd Night) - w/Piers Faccini - Toronto, ON 
+QUEENS OF THE STONE AGE		- Oct 12/07 Acoustic @ WBCN Studios - 104.1 "Toucher & Rich Show" FM Radio Afternoon Broadcast/Webcast + Interview w/Josh & Troy - Boston, MA
+QUEENS OF THE STONE AGE		- Oct 15/07 @ The Humingbird Center for The Performing Arts - w/The Black Angels & Biffy Clyro - Toronto, ON (INCOMPLETE)
+
+THE GUTTER TWINS		- Mar 14/08 @ The Mod Club Theatre - w/Great Northern - Toronto, ON
+THE GUTTER TWINS		- Mar 15/08 @ Le Cabaret du Musée / Théatre Juste Pour Rire - w/Great Northern - Montreal, PQ
+ERIC CHENAUX			- May 23/08 Instore @ Soundscapes Records / Late Afternoon Set - Toronto, ON
+CURSED				- Mar 30/08 Instore @ Sonic Boom Records / Afternoon Set - Toronto, ON
+SMOOSH				- May 2/08 Instore @ Sonic Boom Records / Early Evening Set - Toronto, ON
+QUEENS OF THE STONE AGE		- May 9/08 @ The El Mocambo: "A Night You'll Never Remember" Secret Show - Toronto, ON
+THE NEW ODDS			- June 12/08 @ Yonge Dundas Square / Hard Rock Cafe Main Stage: "North By Northeast Music & Arts Festival" - w/The Mahones, Teenage Head & others - Toronto, ON
+MONOTONIX			- June 14/08 Instore @ Sonic Boom Records: "North by North East Music & Arts Festival" - Toronto, ON 
+THE PACK A.D			- June 14/08 Instore @ Criminal Records: "North by North East Music & Arts Festival" - Toronto, ON 
+BILLY BRAGG			- June 16/08 Acoustic @ The Sound Academy - CFNY 102.1 "Edge Session" FM Radio Broadcast - Toronto, ON
+BILLY BRAGG			- June 17/08 Acoustic Instore @ HMV Bloor Street / "Grand Reinvention" Early Afternoon Set - w/Ill Scarlett, Sam Roberts & others - Toronto, ON
+SAM ROBERTS			- June 17/08 Instore @ HMV Bloor Street / "Grand Reinvention" Early Afternoon Set - w/Ill Scarlett, Billy Bragg & others - Toronto, ON
+THE WARLOCKS			- June 26/08 Instore @ Sonic Boom Records / Early Evening Set - Toronto, ON (INCOMPLETE)
+GILBERTO GIL & BANDA LARGA	- June 27/08 @ Massey Hall - Toronto, ON
+LEE SCRATCH PERRY		- June 30/08 @ The Harbourfront Centre / Sirius Satellite Radio Stage: "World Routes Festival" - Toronto, ON
+TOKYO POLICE CLUB		- July 14/08 @ The Sound Academy - CFNY 102.1 "Edge Session" FM Radio Afternoon Broadcast - Toronto, ON 
+GRADY 				- July 23/08 @ The Budweiser Beer Garden / Exhibition Place Parking Lot #3 : "2008 Pepsi MLS Soccer Jam" (2nd Night) - Supporting Sloan - Toronto, ON
+SLOAN				- July 23/08 @ The Budweiser Beer Garden / Exhibition Place Parking Lot #3 : "2008 Pepsi MLS Soccer Jam" (2nd Night) - w/Grady - Toronto, ON
+KING KHAN & THE SHRINES		- July 24/08 Instore @ Sonic Boom Records / Early Evening Set - Toronto, ON
+BLACK REBEL MOTORCYCLE CLUB 	- Aug 11/08 @ The Mod Club Theatre - Toronto, ON
+EDDIE VEDDER			- Aug 13/08 Acoustic @ Massey Hall (2nd Night) - w/Liam Finn - Toronto, ON
+CHEECH & CHONG			- Sept 6/08 @ Massey Hall (Early Show) - Toronto, ON
+YOUSSOU N'DOUR			- Sept 6/08 @ Yonge Dundas Square / Hard Rock Cafe Main Stage: "Toronto International Film Festival" Launch - Toronto, ON (INCOMPLETE)
+THE PACK A.D			- Sept 11/08 @ The Horseshoe Tavern / "Mixed Tape" CD Release Party - Toronto, ON
+THE PACK A.D			- Sept 12/08 Instore @ Criminal Records / Late Afternoon Set - Toronto, ON
+K'NAAN				- Sept 21/08 @ Nathan Phillips Square / 2nd Annual "Manifesto" Festival - w/The Rascalz, K'os & others
+K'OS				- Sept 21/08 @ Nathan Phillips Square / 2nd Annual "Manifesto" Festival - w/The Rascalz, K'Naan & others
+OUR LADY PEACE			- Oct 2/08 Acoustic @ The Edge / 228 Studios: War Child Canada Presents "Busking for Change" - CFNY 102.1 FM Radio Broadcast - Toronto, ON
+DIE MANNEQUIN			- Oct 2/08 Acoustic @ The Edge / 228 Studios: War Child Canada Presents "Busking for Change" - CFNY 102.1 FM Radio Broadcast - Toronto, ON
+NEVERENDING WHITE LIGHTS	- Oct 2/08 Acoustic @ The Edge / 228 Studios: War Child Canada Presents "Busking for Change" - CFNY 102.1 FM Radio Broadcast - Toronto, ON
+THE SUNPARLOUR PLAYERS		- Oct 3/08 @ The Horseshoe Tavern - Supporting The Sadies - Toronto, ON
+THE SADIES			- Oct 3/08 @ The Horseshoe Tavern (1st Night) - w/The Sunparlour Players - Toronto, ON
+JOHNNY FLYNN			- Oct 4/08 Acoustic Instore @ Criminal Records / Late Afternoon Set - Toronto, ON
+CHAD VANGAALEN		- Oct 4/08 Instore @ Sonic Boom Records  / Early Evening Set - Toronto, ON
+THE PACK A.D			- Oct 4/08 @ The Horseshoe Tavern - Supporting The Sadies - Toronto, ON
+THE SADIES			- Oct 4/08 @ The Horseshoe Tavern (2nd Night) - w/The Pack A.D - Toronto, ON
+LIONESS				- Oct 14/08 Instore @ Sonic Boom Records / Early Evening Set - Toronto, ON
+SLOAN				- Oct 20/08 Acoustic @ The Edge Studios - CFNY 102.1 "Ongoing History of New Music: Uncovered" FM Radio Broadcast - Toronto, ON 
+MONOTONIX			- Oct 23/08 @ Wrongbar - w/Lullabye Arkestra - Toronto, ON
+MILTON NASCIMENTO		- Oct 24/08 @ Massey Hall - Toronto, ON
+EAGLES OF DEATH METAL		- Nov 13/08 @ The Masonic Temple: MTV Studios / Early Evening Set - Toronto, ON
+SAM ROBERTS			- Nov 15/08 Instore @ Sonic Boom Records / Afternoon Set - Toronto, ON
+THE NIGHTWATCHMAN		- Nov 16/08 @ The Opera House - w/Boots Riley - Toronto, ON
+GRADY				- Nov 29/08 @ Lee's Palace / "Canadian Aboriginal Fest" - w/Jesus Murphy, Breach of Trust & The Johnny's - Toronto, ON (INCOMPLETE)
+
+CATL				- Jan 23/09 @ The Silver Dollar Room: "¿Adónde vas? A ningún Lado" CD Release Party - w/Speaking Tongues & $100 - Toronto, ON (INCOMPLETE)
+THE VON BONDIES			- Feb 13/09 Instore @ Criminal Records / Late Afternoon Set - Toronto, ON
+SHAWN SMITH			- Feb 15/09 @ The Showbox at The Market: Last Date of "Stripped Down in the Gutter" Tour - w/Happy Chichester & Supporting The Gutter Twins - Seatlle, WA
+THE GUTTER TWINS		- Feb 15/09 Acoustic @ The Showbox at The Market: Last Date of "Stripped Down in the Gutter" Tour - w/Happy Chichester & Shawn Smith - Seatlle, WA
+BEN HARPER & RELENTLESS 7	- Feb 17/09 @ The Highline Ballroom / 101.9 WRXP RealAudio Webcast - New York, NY (INCOMPLETE)
+EAGLES OF DEATH METAL		- Feb 20/09 @ The Phoenix Concert Theatre - w/The Living Things - Toronto, ON
+THE AIRBORNE TOXIC EVENT	- Mar 4/09 Acoustic @ The Edge Studios - CFNY 102.1 "Edge Session" FM Radio Afternoon Broadcast - Toronto, ON
+WHITE LIES			- Mar 31/09 Acoustic @ The Edge Studios - CFNY 102.1 "Edge Session" FM Radio Afternoon Broadcast - Toronto, ON
+METRIC				- April 7/09 Acoustic @ The Edge Studios - CFNY 102.1 "Edge Session" FM Radio Afternoon Broadcast - Toronto, ON
+THE PACK A.D			- April 17/09 @ The Drake Hotel / The Underground - w/Orangutang & The Speaking Tongues - Toronto, ON
+ROCK PLAZA CENTRAL		- April 18/09 Instore @ Criminal Records / "International Record Store Day" - w/Great Bloomers - Toronto, ON (INCOMPLETE)
+GREEN GO			- April 18/09 Instore @ Sonic Boom Records / "International Record Store Day" - w/Gentleman Reg, The Sunparlour Players, Lullabye Arkestra, Slim Twig & others - Toronto, ON (INCOMPLETE)
+GENTLEMAN REG			- April 18/09 Instore @ Sonic Boom Records / "International Record Store Day" - w/Green Go, The Sunparlour Players, Lullabye Arkestra, Slim Twig & others - Toronto, ON
+THE SUNPARLOUR PLAYERS		- April 18/09 Instore @ Sonic Boom Records / "International Record Store Day" - w/Green Go, Gentleman Reg, Lullabye Arkestra, Slim Twig & others - Toronto, ON
+LULLABYE ARKESTRA		- April 18/09 Instore @ Sonic Boom Records / "International Record Store Day" - w/Green Go, Gentleman Reg, The Sunparlour Players, Slim Twig & others - Toronto, ON (INCOMPLETE)
+SLIM TWIG			- April 18/09 Instore @ Sonic Boom Records / "International Record Store Day" - w/Gentleman Reg, The Sunparlour Players, Lullabye Arkestra & others - Toronto, ON
+GRADY				- April 23/09 @ Tattoo Rock Parlour - w/Jay Farrow & The Spades - Toronto, ON
+CAGE THE ELEPHANT		- April 27/09 Acoustic @ The Edge Studios - CFNY 102.1 "Edge Session" FM Radio Afternoon Broadcast - Toronto, ON
+JOHN DOE & THE SADIES		- April 30/09 Instore @ Sonic Boom Records / Early Evening Set - Toronto, ON
+THE SADIES			- April 30/09 @ The Horseshoe Tavern (Early Show) - w/The Pining - Toronto, ON
+JOHN DOE & THE SADIES		- April 30/09 @ The Horseshoe Tavern (Late Show) - w/The Pining - Toronto, ON
+THE ARKELLS			- May 11/09 Acoustic @ The Edge Studios - CFNY 102.1 "Edge Session" / "The Dean Blundell Morning Show" FM Radio Broadcast + Interview - Toronto, ON (INCOMPLETE)
+BEN HARPER & RELENTLESS 7	- May 13/09 @ The Phoenix Concert Theatre - w/Henry Clay People - Toronto, ON
+VETIVER				- May 15/09 Instore @ Sonic Boom Records / Early Evening Set - Toronto, ON
+JOHN FOGERTY			- May 23/09 @ The Sears Theatre / The Air Canada Centre - Toronto, ON (INCOMPLETE)
+ROCK PLAZA CENTRAL		- May 26/09 Instore @ Sonic Boom Records / Early Evening Set - Toronto, ON (INCOMPLETE)
+SKINDRED			- May 26/09 @ The Sound Academy - Supporting All That Remains & Disturbed - Toronto, ON (INCOMPLETE)
+STREET SWEEPER SOCIAL CLUB	- June 2/09 @ The Molson Amphitheatre: "NIN|JA Tour" - Supporting Nine Inch Nails & Jane's Addiction - Toronto, ON (INCOMPLETE)
+NINE INCH NAILS			- June 2/09 @ The Molson Amphitheatre: "NIN|JA Tour" - w/Street Sweeper Social Club & Supporting Jane's Addiction - Toronto, ON
+THE STILLS			- June 5/09 Acoustic @ The Edge Studios - CFNY 102.1 "Edge Session" / "The Dean Blundell Morning Show" FM Radio Broadcast + Interview - Toronto, ON
+PINK MOUNTAINTOPS		- June 14/09 Acoustic Instore @ Sonic Boom Records / Afternoon Set - Toronto, ON (INCOMPLETE)
+PINK MOUNTAINTOPS		- June 14/09 @ The Horseshoe Tavern - w/Megan Hamilton & Great Aunt Ida - Toronto, ON (INCOMPLETE)
+JOSEPH ARTHUR			- June 16/09 Acoustic @ Trinity St. Paul’s Church - Supporting Alejandro Escovedo - Toronto, ON
+ALEJANDRO ESCOVEDO		- June 16/09 Acoustic @ Trinity St. Paul’s Church - w/Joseph Arthur - Toronto, ON
+AMBERLIN			- June 23/09 Acoustic @ The Edge Studios - CFNY 102.1 "Edge Session" FM Radio Afternoon Broadcast - Toronto, ON
+THE OFFSPRING			- July 2/09 Acoustic @ The Edge Studios - CFNY 102.1 "Edge Session" FM Radio Afternoon Broadcast - Toronto, ON
+THE PACK A.D			- July 16/09 @ The Horseshoe Tavern - w/Skulligans, Boxes & Bags & Supporting La Casa Muerte - Toronto, ON
+
+*** UPCOMING SHOWS ***
+
+THE PACK A.D			- April 17/09 @ The University of Toronto / St. George Campus: 89.5 CIUT "Take 5" FM Radio Broadcast - Toronto, ON
+THE DEAD WEATHER		- July 22/09 @ The Koolhaus - w/Screaming Females - Toronto, ON
+RISE AGAINST 			- July 31/09 @ The Edge Studios - CFNY 102.1 "Edge Session" FM Radio Afternoon Broadcast - Toronto, ON
+EAGLES OF DEATH METAL		- Aug 2/09 @ The Koolhaus - w/Flash Lightnin' - Toronto, ON
+TOOL				- Aug 5/09 @ The Molson Amphitheatre - Toronto, ON
+ALICE IN CHAINS			- Sept 15/09 @ The Opera House - Toronto, ON
+THE SOULSAVERS			- Sept 25/09 @ The Mod Club Theatre - Toronto, ON
+THE MISSINGMEN			- Sept 30/09 @ The Phoenix Concert Theatre - w/Supporting Dinosaur Jr - Toronto, ON (TENTATIVE)
+DINOSAUR JR			- Sept 30/09 @ The Phoenix Concert Theatre - w/The Missingmen - Toronto, ON (TENTATIVE)
+THE BUTTHOLE SURFERS 		- Oct 2/09 @ The Phoenix Concert Theatre - Toronto, ON (TENTATIVE)
+DAN AUERBACK			- Nov 7/09 @ The Phoenix Concert Theatre - Toronto, ON
+THE JESUS LIZARD			- Nov 12/09 - Sept 30/09 @ The Phoenix Concert Theatre - Toronto, ON (TENTATIVE)
+BLIND MELON			- Nov 20/08 @ Les Saints - Montreal, PQ (POSTPONED)
+BLIND MELON			- Nov 22/08 @ The Mod Club Theatre - Toronto, ON (POSTPONED)
+
+**********************

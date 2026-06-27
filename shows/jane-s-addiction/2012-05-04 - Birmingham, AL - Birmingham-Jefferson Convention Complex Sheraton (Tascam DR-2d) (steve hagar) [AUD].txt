@@ -1,0 +1,68 @@
+Jane's Addiction
+Schaeffer Eye Center Crawfish Boil
+Birmingham-Jefferson Convention Complex Sheraton (parking lot)
+Birmingham, AL
+May 4, 2012
+
+Recorded by:  Steve "ballsdeep" Hagar
+Mastered by:  Dennis Orr
+Tracked by:   dandrew
+
+Source:  Tascam DR-2d (internals) @ 16 bit/44.1 kHz
+
+Mastering:  .WAV > Sound Forge Pro 11.0 (Build 299) [Waves GEQ Classic Stereo plugin (EQ - see settings below); iZotope Mastering Suite (declick); minor edits, normalize, & fades]
+Location:  Recorder secured to a fence post, 150 yards from the stage
+
+Tracking: .WAV > Audacity 2.2.2 > xAct 2.45 (encode to FLAC level 8, align sectors, ffp)
+
+Location: about 150-200 yards from the stage, to mitigate crowd noise
+
+
+EQ Settings:
+
+63 Hz - minus 2 dB
+100 Hz - minus 8 dB
+160 Hz - minus 2 dB
+250 Hz - plus 2 dB
+630 Hz - minus 3 dB
+1.6 kHz - minus 8 dB
+4 kHz - plus 4 dB
+6.3 kHz - plus 2 dB
+16 kHz - plus 2 dB
+
+
+setlist:
+
+01. intro >  Underground
+02. Mountain Song
+03. Just Because
+04. Been Caught Stealing
+05. Ain't No Right
+06. Ted, Just Admit It...
+07. Twisted Tales
+08. Three Days
+09. Stop!
+10. encore break
+11. Ocean Size
+12. crowd noise, band intros
+13. Jane Says
+
+
+show notes:
+
+
+I don't remember much about this, as I was dealing with my gf getting popped by the rent-a-cops for smoking *resin* out of a one hitter (I took off to use the bathroom and found her surrounded by security)
+
+we'd been smoking in tent all day with Pau (Paul, he works for Snoop Dogg and Bootsy Collins)...then they all left, she lit up and BLAMMO!
+
+so, just let your ears tell the story.
+
+THANK YOU Dennis
+
+THANK YOU dandrew
+
+FUCK YOU Hagar....and go piss on yourself in the shower while you're at it.
+
+this concludes the "dime ratio boost push" for August. be sure to return Sept 7 more good stuff!
+
+---Dr. Deep really don't give a flying f*** what Jane says...Sergio either

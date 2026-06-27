@@ -1,0 +1,26 @@
+Jane's Addiction
+Lollapalooza
+Grant Park, Chicago, Illinois, USA
+July 30, 2016 
+
+Lineage: Red Bull TV live stream (720p) -> DTA (segments) -> Tssplitter (join) -> Uncompressed.ts
+
+Video: H264 / 1280x720 / 3500 Kbps / 30 Fps
+Audio: AAC 2.0 / 160 Kbps / 48.0 KHz / Stereo
+
+Length: 01:18:09
+
+Setlist:
+01. Stop!
+02. No One’s Leaving
+03. Ain’t No Right
+04. Obvious
+05. Been Caught Stealing
+06. Three Days
+07. Then She Did...
+08. Of Course
+09. Classic Girl
+10. Mountain Song (with Tom Morello)
+11. Just Because
+12. Ted, Just Admit It...
+13. Jane Says (with Jimmy Chamberlin)

@@ -1,0 +1,28 @@
+Janes Addiction 1991.05.07 AJPalumbo Center Pittsburgh Pennsylvania
+
+Sony DC6 > Tape > Laptop > Audacity > Foobar
+1st Gen 
+
+Setlist:
+
+Up The Beach
+Whores
+Standing In The Shower... Thinking
+No One's Leaving
+Ain't No Right
+Three Days
+Been Caught Stealing
+Had A Dad
+Summertime Rolls
+Mountain Song
+Stop!
+Ocean Size
+Chip Away
+
+
+Sample rate : 44100 Hz
+Channels : 2
+Bits per sample : 16
+Bitrate : 756 kbps
+Codec : FLAC
+Encoding : lossless

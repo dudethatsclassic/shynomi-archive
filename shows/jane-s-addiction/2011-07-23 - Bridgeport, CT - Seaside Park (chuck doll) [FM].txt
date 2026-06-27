@@ -1,0 +1,57 @@
+Jane's Addiction
+2011-07-23
+Gathering of the Vibes
+Seaside Park,
+Bridgeport, CT
+
+source: fm
+taped by Chuck Doll
+
+lineage: wpkn simulcast>zoom recorder 16/44.1
+
+wave file>hard drive>adobe audition 2.0 (levels)>cd wave>tlh flac8
+editing, seed by Rob Berger 2011-08-27
+
+disc one: 50:41
+
+01 - Whores
+02 - Ain't No Right
+03 - Just Because
+04 - Ted, Just Admit It...
+05 - In The Flesh>
+06 - Up The Beach
+07 - Ocean Size
+08 - Three Days
+
+disc two: 54:31
+
+01 - Bobhaus
+02 - Time
+03 - Been Caught Stealin'
+04 - Summertime Rolls
+05 - End To The Lies
+06 - Sparks
+07 - Mountain Song
+08 - Stop!
+encore:
+09 - Jane Says
+
+notes: several instances of brief static
+
+janesaddiction2011-07-23d1t01.flac:a80c6d6045f60d54d176627a69763580
+janesaddiction2011-07-23d1t02.flac:8900aa5d5be5e5beb1180357b5eac921
+janesaddiction2011-07-23d1t03.flac:2790e55c6a86a4e53936fc9e5e07028b
+janesaddiction2011-07-23d1t04.flac:78ee39f90350dd5e18d5744baed6c113
+janesaddiction2011-07-23d1t05.flac:314aede52e0f045f245aea9a077a457b
+janesaddiction2011-07-23d1t06.flac:7ad2ee0d9cf5478c2a789c4b94a1a5ef
+janesaddiction2011-07-23d1t07.flac:14f6769ad71769068475263413c5297a
+janesaddiction2011-07-23d1t08.flac:8afefbe824cce45274b205cd0a4c2e0e
+janesaddiction2011-07-23d2t01.flac:fd228ac7230a5febef8bf76fd5ae9794
+janesaddiction2011-07-23d2t02.flac:f44dfdaa1e2ac3c86f48a4855e19d2c3
+janesaddiction2011-07-23d2t03.flac:372459702d3056906d372e871741a8ab
+janesaddiction2011-07-23d2t04.flac:61ad974ce6dd69bee7f9ae20316ee724
+janesaddiction2011-07-23d2t05.flac:ed85664eded0d3161fb99572d3e39233
+janesaddiction2011-07-23d2t06.flac:6eeffd1382efb16d765e5265dd53d6a2
+janesaddiction2011-07-23d2t07.flac:003b1071c64ee2275523a1ebb587bb17
+janesaddiction2011-07-23d2t08.flac:c5e8dd797fc4b3e124fde88a38addea3
+janesaddiction2011-07-23d2t09.flac:724f5755bca7ed95db8f494ec31e9c78

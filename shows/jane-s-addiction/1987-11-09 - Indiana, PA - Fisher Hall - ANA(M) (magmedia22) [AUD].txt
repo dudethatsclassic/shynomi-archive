@@ -1,0 +1,18 @@
+Janes Addiction 11.09.87 Fisher Hall Indiana PA
+
+Source/Lineage: AIWA Portable > Master Cassette > Laptop > Audacity > 2024 Transfer
+
+(00) 1. Trip Away
+(02) 2. Whores
+(02) 3. No One’s Leaving
+(03) 4. Ted, Just Admit It...
+(04) 5. Stop!
+(05) 6. I Would For You
+(06) 7. Ocean Size
+
+Sample rate : 44100 Hz
+Channels : 2
+Bits per sample : 16
+Bitrate : 756 kbps
+Codec : FLAC
+Encoding : lossless

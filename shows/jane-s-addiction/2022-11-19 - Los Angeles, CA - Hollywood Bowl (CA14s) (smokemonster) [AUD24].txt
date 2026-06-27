@@ -1,0 +1,37 @@
+Jane's Addiction
+Hollywood Bowl, Los Angeles, CA
+November 19, 2022
+
+Source: Church Audio CA14 cardioids > Church Audio CA 9100 Preamp > Roland R-07 @ 24-bit / 96kHz
+Location: Sec G2, Row 2, Seat 17
+Transfer: Audacity > FLAC
+Edits: track splits, fade-in/out, normalize
+Taper: SmokeMonster
+
+Tracklist:
+(not recorded) Up the Beach
+(not recorded) Whores
+Ain't No Right
+Ocean Size
+Banter
+Then She Did...
+Banter
+Jane Says
+Banter
+Stop!
+Ted, Just Admit It...
+Baanter
+Mountain Song
+Banter
+Three Days
+Banter
+Been Caught Stealing
+Banter - Goodbyes
+
+Notes: Spirits on Fire tour supporting The Smashing Pumpkins (recorded), supported by Poppy (recorded). The first two tracks were not recorded.
+
+Raw transfer with no EQ. 1 sec fade-in/outs and normalization are the only processing.
+
+Archive: Master raw WAV archived @ original 24-bit/96kHz
+
+Taped and transferred by SmokeMonster

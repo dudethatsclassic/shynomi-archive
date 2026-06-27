@@ -1,0 +1,59 @@
+Jane's Addiction
+
+Location: Birmingham, UK 
+Venue: Hummingbird
+Date: March 14, 1991
+Lineage: portable stereo tape recorder>CoolEdit>wav>flac
+
+01. Drum Intro
+02. Up The Beach
+03. Whores
+04. Standing In The Shower... Thinking
+05. No Ones Leaving
+06. Ain't No Right
+07. You Bald Bastard   w/crowd
+08. Three Days
+09. Obvious
+10. Been Caught Stealing //cut
+11. //Then She Did...   w/Morgan on violin
+12. Mountain Song
+13. Stop!
+14. Summertime Rolls
+15. Hummingbird Plea by MC
+
+This was a stealth recording - portable stereo recorder in front left pocket of my leather jacket.
+Very decent sound quality -  EQ to your taste.
+Small venue recorded less than 25 feet from band - often standing in front of the speaker cabinets.
+Small tape jitters at times due to moshing. :D
+Original seed dropped 12-31-2006 at the traders den.
+
+-for the fans - happy new year
+
+Direwolf-pgh
+
+======================================================================================
+
+Additional recording and transfer info supplied by Direwolf-pgh
+
+I think some pro tapers will get a kick out of this - especially if they hear the recording first. It was a Sony stereo recorder walkman - long since gone after a nasty drop. it was great for stealth - as you can see the condenser mics are on the top - so in a top front jacket pocket - your ready to go..
+
+Recording device: Sony TCS-450
+Tape used: Maxell UD II 90mins
+Tape deck for transfer: Harmon-Kardon TD302
+Soundcard: SoundMax (sorry Five..I didn't upgrade yet ..my bad)
+CoolEdit:Used Filters & Hiss reduction (read: hack messin around - but it was fun)
+>saved to wav>flac (level 8)
+
+======================================================================================
+
+My notes:
+
+When Direwolf-pgh uploaded this show at the traders den it was in two FLAC files.
+One file was side one of his Maxell UD II 90 cassette and the other was side two.
+I decoded the FLAC files to wave using FLAC frontend.
+Once decoded I used CD Wave to track the show.
+I then used FLAC frontend (level 8) to encode the tracks to FLAC.
+
+I did not alter the recording in any other way!
+
+Thanks go out to Direwolf-pgh for recording this show and sharing it!

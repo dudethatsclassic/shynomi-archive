@@ -1,0 +1,43 @@
+Jane's Addiction
+May 31st, 2009
+DTE Energy Music Theatre
+Clarkston, MI
+ 
+Taper: Richard Simms (sullen)
+Source: AKG c460b/ck61 > UA-5 BM2P+ > Microtrack II (24/96)
+Transer: Mictrotrack II with Transcend 133x CF > Computer via USB 2.0 
+Processing: Adobe Audition 1.5 > 
+            Fades, Increase Volume, Resample/Dither to 16/44.1 >
+            CD Wave Editor 1.94.5 > FLAC FrontEnd (Level 8, Align SB)
+Tagging: Foobar2000 v0.9.5.3 with TradersFriend Component 
+
+Disc 1
+Main Set
+01. Into (The River Wild)
+02. Three Days
+03. Whores
+04. Ain't No Right
+05. Pigs In Zen
+06. Then She Did...
+07. Up The Beach
+08. Mountain Song
+09. Obvious
+10. Been Caught Stealing
+11. Ted, Just Admit It... *
+12. Ocean Size
+   
+Disc 2
+Encore
+01. Summertime Rolls
+02. Stop!
+03. Jane Says Intro  
+04. Jane Says
+
+*Includes tease for Detroit Rock City by KISS
+
+Notes:
+1. Keep live music free for everyone!  DO NOT SELL THIS RECORDING! 
+2. Special thanks to Street Sweeper Social Club, Nine Inch Nails, and
+   Jane's Addiction for allowing open taping for their North American tour 
+   together.
+

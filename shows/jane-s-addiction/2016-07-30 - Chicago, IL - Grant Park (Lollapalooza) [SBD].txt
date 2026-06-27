@@ -1,0 +1,23 @@
+auCDtect: CD records authenticity detector, version 0.8.2
+Copyright (c) 2004 Oleg Berngardt. All rights reserved.
+Copyright (c) 2004 Alexander Djourik. All rights reserved.
+
+Detect mode (0..40 with 0 = most accurate):  8 (default)
+
+
+01.Stop!.wav:  track looks like CDDA with probability 99%.
+02.No One's Leaving.wav:  track looks like CDDA with probability 100%.
+03.Ain't No Right.wav:  track looks like CDDA with probability 100%.
+04.Obvious.wav:  track looks like CDDA with probability 100%.
+05.Been Caught Stealing.wav:  track looks like CDDA with probability 100%.
+06.Three Days.wav:  track looks like CDDA with probability 100%.
+07.Then She Did...wav:  track looks like CDDA with probability 100%.
+08.Of Course.wav:  track looks like CDDA with probability 100%.
+09.Classic Girl.wav:  track looks like CDDA with probability 100%.
+10.Mountain Song (with Tom Morello).wav:  track looks like CDDA with probability 99%.
+11.Just Because.wav:  track looks like CDDA with probability 100%.
+12.Ted, Just Admit It...wav:  track looks like CDDA with probability 100%.
+13.Encore.wav:  track looks like CDDA with probability 100%.
+14.Jane Says (with Jimmy Chamberlin).wav:  track looks like CDDA with probability 58%.
+
+

@@ -1,0 +1,47 @@
+Jane's Addiction 
+Agora Theatre, Cleveland, OH
+27 November 1990 
+
+Recorded by my friends and I. Rough recording (C-/D+) 
+
+It was a great night. Janes was just starting to pop in Cleveland. It was like we were in a secret club with 2000 other weirdos. The show was sold out. It was a GA show. My friends and I were able to sneak the recorder in. Some of them, I believe, they sat in the balcony while recording. The rest of us were down in the pit. I dove off the stage a couple of times. Just the best. If you ever get a line on that SB I would be all about it.
+
+- MrDoots
+
+Sony tape recorder/unknown make > Memorex HBS II 100 tape (1st Gen) > Sony WM-FX251 > Cool Edit Pro > Wav > hotfile upload > HD > Wave Repair 4.9.3, removed non-destructive gap right before "three Days" [tape side], removed micro gap on outro, tracked songs separately > FLAC
+
+
+01.	Up The Beach
+02.	Whores
+03.	1%
+04.	Standing In The Shower...Thinking
+05.	Ain't No Right
+06.	Then She Did...
+07.	Had A Dad
+08.	Pigs In Zen
+09.	Been Caught Stealing
+10.	Thank You Boys
+11.	Three Days [mid song destructive edit - tape flip?]
+12.	Mountain Song
+13.	Stop!
+14.	Summertime Rolls
+15.	Ocean Size
+
+
+md5:
+
+a82d1b62958dcf40653fb6d557ed0da9 *JA1990-11-27 Track 01.flac
+5f168f529770b7c8d6d368fefd8079e4 *JA1990-11-27 Track 02.flac
+fba731f72200d8d348e66ec95d72a7b1 *JA1990-11-27 Track 03.flac
+6b5c0ab688b487d6de18dcb3af60afad *JA1990-11-27 Track 04.flac
+0746a9a99ab770e867c06fd71b688d7e *JA1990-11-27 Track 05.flac
+591b14e9a130db26da46b1a74e29e70a *JA1990-11-27 Track 06.flac
+6631d403cb0f9c6144a9bbfc43938d5c *JA1990-11-27 Track 07.flac
+8c7378bec306ac80e1eea212618a6255 *JA1990-11-27 Track 08.flac
+585153ec02ca565dcf49adab10e8d953 *JA1990-11-27 Track 09.flac
+12e62d664521a5869f747e3d348b88f6 *JA1990-11-27 Track 10.flac
+e1bdba217e7a63c50930f8ead354cec6 *JA1990-11-27 Track 11.flac
+49af673115d32ce9a8fb0a32103a8cc1 *JA1990-11-27 Track 12.flac
+c8046b3d64939db1ce64e15f95f0a651 *JA1990-11-27 Track 13.flac
+089ac2903e9cf75639c6e5df8ee6da38 *JA1990-11-27 Track 14.flac
+6fc4007ad5f11490a069764c6fcf4a48 *JA1990-11-27 Track 15.flac

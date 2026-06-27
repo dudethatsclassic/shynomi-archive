@@ -1,0 +1,65 @@
+Band: Janes Addiction
+Date: April 28, 1991
+Venue: Cumberland County Civic Center
+Location: Portland, ME
+
+Analog Audience Source: Unknown
+Medium Stock Brands: 1 Maxell XL II C90 Cassette
+Analog Sound Preservation: MAC > AC > Nakamichi BX300 (azimuth checked) > Apogee MiniMe > spdif > Microtrack II > 16/44 wav > AA3 for fades, cdwav for tracks, tlh for flac8, mp3tag for tags
+
+Taped By: Todd Coffin
+Transferred by: Mike Schuncke
+Mastering By: Mike Schuncke
+
+CD ONE:
+- ONE SET: -
+d1t01: Up The Beach
+d1t02: Whores
+d1t03: No One's Leaving
+d1t04: Ain't No Right
+d1t05: Three Days
+d1t06: Been Caught Stealing
+d1t07: Trip Away
+d1t08: Then She Did . . .
+d1t09: Mountain Song
+d1t10: Stop!
+d1t11: Summertime Rolls
+d1t12: Ocean Size
+
+Notes:
+
+- No other eq, normalizing or processing performed
+
+- judging by the wav forms my best guess is source was a mono auto-level cassette recorder
+
+-tape flip in Then She Did . . .  @ 5:42
+
+
+flac fingerprints generated 8/14/16 with tlh:
+janesaddiction1991-04-28.aud.fellas.d1t01.flac:7811f23ef8c4fb3a2d3a2f38210a5e77
+janesaddiction1991-04-28.aud.fellas.d1t02.flac:5f44896031ebf035c871b8413f946aac
+janesaddiction1991-04-28.aud.fellas.d1t03.flac:bd9b47c207427c59a875a904c2c1b636
+janesaddiction1991-04-28.aud.fellas.d1t04.flac:97c1db1c8c9807d8e1e0fa446a8270d0
+janesaddiction1991-04-28.aud.fellas.d1t05.flac:39b6e2f8f586a74b301b6bfaeb5b1a36
+janesaddiction1991-04-28.aud.fellas.d1t06.flac:3c7327ffee99fb195ea7485aadbb9470
+janesaddiction1991-04-28.aud.fellas.d1t07.flac:76bf9e03f5a12d3cda7519ec2349902d
+janesaddiction1991-04-28.aud.fellas.d1t08.flac:f10e07ef6563e39ddf1424129a4e974c
+janesaddiction1991-04-28.aud.fellas.d1t09.flac:b21fbf52dbf68c2a460dac49a65ca815
+janesaddiction1991-04-28.aud.fellas.d1t10.flac:15c5116092a71daf4be6e80c2d9096a4
+janesaddiction1991-04-28.aud.fellas.d1t11.flac:bb87fe61c4ba489f775566c7999a5dc6
+janesaddiction1991-04-28.aud.fellas.d1t12.flac:99336ad951cf8ad93ce21dc2d74a6c85
+
+md5 checksums generated 8/14/16 with tlh:
+1e3e63a0508d455ecb0a8b13ca3c2e4f *janesaddiction1991-04-28.aud.fellas.d1t01.flac
+07e70035c3cbcef8833d7ba7281801d8 *janesaddiction1991-04-28.aud.fellas.d1t02.flac
+1ea4ca9493370c78e9fe66b16b5ed271 *janesaddiction1991-04-28.aud.fellas.d1t03.flac
+af6ecc625fed8b083febedc63ebc9304 *janesaddiction1991-04-28.aud.fellas.d1t04.flac
+3210f598b0e8a363ce6405e404359a8e *janesaddiction1991-04-28.aud.fellas.d1t05.flac
+6f342a7bf94f0cb78de0447532cd4aab *janesaddiction1991-04-28.aud.fellas.d1t06.flac
+e36756d22275fbcaafe7c204dedc6c05 *janesaddiction1991-04-28.aud.fellas.d1t07.flac
+4a0caa0d4c25af2dbe56cfca1794030c *janesaddiction1991-04-28.aud.fellas.d1t08.flac
+b39a50ff4548aab315eeb30863d9b1a8 *janesaddiction1991-04-28.aud.fellas.d1t09.flac
+e9cd7e41adfd2dba7b801c07a7568fed *janesaddiction1991-04-28.aud.fellas.d1t10.flac
+c33ae25cd12f919ffd703ea741b2258d *janesaddiction1991-04-28.aud.fellas.d1t11.flac
+b4b5f803bc7435d8d7f3a10708228c23 *janesaddiction1991-04-28.aud.fellas.d1t12.flac
+

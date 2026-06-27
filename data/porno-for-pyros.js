@@ -25,9 +25,10 @@ const ARTIST_DATA = {
       "state": "LA",
       "location": "New Orleans, LA",
       "venue": "Uno Soccer Field",
-      "notes": "w/ · KTS-117",
+      "notes": "w/ \u00b7 KTS-117",
       "version": "Silver CD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1992-09-04 - New Orleans, LA - Uno Soccer Field - with Ice Cube - Lollapalooza '92  [Silver].txt"
     },
     {
       "year": 1992,
@@ -38,9 +39,10 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "Irvine, CA",
       "venue": "Irvine Meadows",
-      "notes": "Lollapalooza · M · unk",
+      "notes": "Lollapalooza \u00b7 M \u00b7 unk",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1992-09-13 - Irvine, CA - Irvine Meadows - Lollapalooza - ANA(M) (unk) [AUD].txt"
     },
     {
       "year": 1992,
@@ -53,7 +55,8 @@ const ARTIST_DATA = {
       "venue": "Huntridge Theater",
       "notes": "",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1992-11-21 - Las Vegas, NV - Huntridge Theater [AUD].txt"
     },
     {
       "year": 1993,
@@ -66,7 +69,8 @@ const ARTIST_DATA = {
       "venue": "Crystal Studios",
       "notes": "Studio",
       "version": "SBD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1993-02-02 - Los Angeles, CA - Crysal Studios - Studio Rehearsal Demos [SBD].txt"
     },
     {
       "year": 1993,
@@ -79,7 +83,8 @@ const ARTIST_DATA = {
       "venue": "Compton Terrace",
       "notes": "david homes master",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1993-04-23 - Phoenix, AZ - Compton Terrace [AUD].txt"
     },
     {
       "year": 1993,
@@ -92,7 +97,8 @@ const ARTIST_DATA = {
       "venue": "Warfield Theatre *Porno For Perry",
       "notes": "KTS-189",
       "version": "Silver CD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1993-05-29 - San Francisco, CA - Warfield Theatre - Porno For Perry [Silver].txt"
     },
     {
       "year": 1993,
@@ -103,9 +109,10 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "Carson, CA",
       "venue": "CSUDH Olympic Velodrome",
-      "notes": "ANA(M) · unk",
+      "notes": "ANA(M) \u00b7 unk",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1993-06-06 - Carson, CA - CSUDH Olympic Velodrome - ANA(M) (unk) [AUD].txt"
     },
     {
       "year": 1993,
@@ -116,9 +123,10 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "Carson, CA",
       "venue": "Olympic Velodrome",
-      "notes": "ANA(M) · unk · ijwthstd + vibrioidxire transfer",
+      "notes": "ANA(M) \u00b7 unk \u00b7 ijwthstd + vibrioidxire transfer",
       "version": "AUD #1",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1993-06-06 - Carson, CA - Olympic Velodrome - ANA(M) (unk) (ijwthstd + vibrioidxire transfer) [AUD #1].txt"
     },
     {
       "year": 1993,
@@ -129,9 +137,10 @@ const ARTIST_DATA = {
       "state": "MI",
       "location": "Pontiac, MI",
       "venue": "Phoenix Center",
-      "notes": "ANA(M) · Sony Cassette · weedbuzz",
+      "notes": "ANA(M) \u00b7 Sony Cassette \u00b7 weedbuzz",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1993-06-13 - Pontiac, MI - Phoenix Center - ANA(M) (Sony Cassette) (weedbuzz) [AUD].txt"
     },
     {
       "year": 1993,
@@ -142,9 +151,10 @@ const ARTIST_DATA = {
       "state": "NY",
       "location": "New York, NY",
       "venue": "Roseland Ballroom",
-      "notes": "Olympus ME1S · smores",
+      "notes": "Olympus ME1S \u00b7 smores",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1993-06-19 - New York, NY - Roseland Ballroom (Olympus ME1S) (smores) [AUD].txt"
     },
     {
       "year": 1993,
@@ -157,7 +167,8 @@ const ARTIST_DATA = {
       "venue": "Roseland Ballroom",
       "notes": "Sony D6",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1993-06-20 - New York, NY - Roseland Ballroom [AUD].txt"
     },
     {
       "year": 1993,
@@ -170,7 +181,8 @@ const ARTIST_DATA = {
       "venue": "Bayfront Amphitheatre",
       "notes": "datfly",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1993-08-10 - Miami, FL - Bayfront Amphitheatre [AUD].txt"
     },
     {
       "year": 1993,
@@ -183,7 +195,8 @@ const ARTIST_DATA = {
       "venue": "I.C. Light Amphitheater",
       "notes": "",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1993-08-20 - Pittsburgh, PA - I.C. Light Amphitheater [AUD].txt"
     },
     {
       "year": 1993,
@@ -194,9 +207,10 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "San Francisco, CA",
       "venue": "Concourse Exhibition Center",
-      "notes": "KITS-FM · david p.",
+      "notes": "KITS-FM \u00b7 david p.",
       "version": "FM",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1993-12-10 - San Francisco, CA - Concourse Exhibition Center (KITS-FM) (david p.) [FM].txt"
     },
     {
       "year": 1993,
@@ -209,7 +223,8 @@ const ARTIST_DATA = {
       "venue": "KROQ Acoustic Xmas",
       "notes": "ANA(M)",
       "version": "FM",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1993-12-12 - Universal City, CA - KROQ Acoustic Xmas [FM].txt"
     },
     {
       "year": 1993,
@@ -235,7 +250,8 @@ const ARTIST_DATA = {
       "venue": "Woodstock '94 *Eccentric",
       "notes": "IST 58",
       "version": "Silver CD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1994-08-14 - Saugerties, NY - Woodstock (Unofficial, CC Music, US 2018) [Silver].txt"
     },
     {
       "year": 1994,
@@ -259,9 +275,10 @@ const ARTIST_DATA = {
       "state": "VA",
       "location": "Fairfax, VA",
       "venue": "The Patriot Centre",
-      "notes": "VHS(1) · master 8",
+      "notes": "VHS(1) \u00b7 master 8",
       "version": "AMT #1",
-      "format": "MKV"
+      "format": "MKV",
+      "textFile": "1995-12-07 - Fairfax, VA - The Patriot Centre - VHS(1) (master 8) [MKV].txt"
     },
     {
       "year": 1995,
@@ -274,7 +291,8 @@ const ARTIST_DATA = {
       "venue": "Universal Amphitheater",
       "notes": "",
       "version": "FM",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1995-12-17 - Los Angeles, CA - Universal Amphitheater [FM].txt"
     },
     {
       "year": 1996,
@@ -285,9 +303,10 @@ const ARTIST_DATA = {
       "state": "Australia",
       "location": "Perth, Australia",
       "venue": "Perth Oval",
-      "notes": "Big · franger",
+      "notes": "Big \u00b7 franger",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1996-02-04 - Perth, Australia - Perth Oval - Big Day Out Festival [AUD].txt"
     },
     {
       "year": 1996,
@@ -298,9 +317,10 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "San Francisco, CA",
       "venue": "The Fillmore",
-      "notes": "DAT(M) · Schoeps MK4 · teddy ballgame",
+      "notes": "DAT(M) \u00b7 Schoeps MK4 \u00b7 teddy ballgame",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1996-06-18 - San Francisco, CA - The Fillmore - DAT(M) (Schoeps MK4) (teddy ballgame) [AUD].txt"
     },
     {
       "year": 1996,
@@ -311,9 +331,10 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "San Francisco, CA",
       "venue": "The Fillmore",
-      "notes": "unk · neekrive",
+      "notes": "unk \u00b7 neekrive",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1996-06-18 - San Francisco, CA - The Fillmore (unk) (neekrive) [AUD].txt"
     },
     {
       "year": 1996,
@@ -326,7 +347,8 @@ const ARTIST_DATA = {
       "venue": "American Legion Hall",
       "notes": "CSB",
       "version": "SBD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1996-06-21 - Hollywood, CA - American Legion Hall [SBD].txt"
     },
     {
       "year": 1996,
@@ -337,9 +359,10 @@ const ARTIST_DATA = {
       "state": "NY",
       "location": "New York, NY",
       "venue": "Irving Plaza",
-      "notes": "DAT(M) · Sony ECM-737",
+      "notes": "DAT(M) \u00b7 Sony ECM-737",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1996-07-10 - New York, NY - Irving Plaza - DAT(M) (Sony ECM-737)  [AUD].txt"
     },
     {
       "year": 1996,
@@ -350,9 +373,10 @@ const ARTIST_DATA = {
       "state": "MI",
       "location": "Detroit, MI",
       "venue": "St. Andrews Hall",
-      "notes": "DAT(M) · CSB",
+      "notes": "DAT(M) \u00b7 CSB",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1996-07-15 - Detroit, MI - St. Andrews Hall - DAT(M) (CSB) [AUD].txt"
     },
     {
       "year": 1996,
@@ -363,9 +387,10 @@ const ARTIST_DATA = {
       "state": "NJ",
       "location": "Camden, NJ",
       "venue": "Blockbuster",
-      "notes": "Sony · M · DSM-6 · billy dee",
+      "notes": "Sony \u00b7 M \u00b7 DSM-6 \u00b7 billy dee",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1996-08-18 - Camden NJ - Blockbuster - Sony Entertainment Center - DAT(M) (DSM-6) (billy dee) [AUD].txt"
     },
     {
       "year": 1996,
@@ -376,9 +401,10 @@ const ARTIST_DATA = {
       "state": "OH",
       "location": "Cincinnati, OH",
       "venue": "Bogart's",
-      "notes": "ANA(M) · Sony ECM-909 · unk",
+      "notes": "ANA(M) \u00b7 Sony ECM-909 \u00b7 unk",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1996-10-22 - Cincinnati, OH - Bogart's - ANA(M) (Sony ECM-909) (unk) [AUD].txt"
     },
     {
       "year": 1996,
@@ -391,7 +417,8 @@ const ARTIST_DATA = {
       "venue": "Mayan Theatre",
       "notes": "WW1 #97-17",
       "version": "Silver CD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1996-10-30 - Los Angeles, CA - Mayan Theatre [SBD].txt"
     },
     {
       "year": 1997,
@@ -404,7 +431,8 @@ const ARTIST_DATA = {
       "venue": "Late Show with David Letterman",
       "notes": "VHS(2)",
       "version": "TV",
-      "format": "MKV"
+      "format": "MKV",
+      "textFile": "1997-02-26 - New York, NY - Late Show with David Letterman - VHS(2) [TV].txt"
     },
     {
       "year": 1997,
@@ -417,7 +445,8 @@ const ARTIST_DATA = {
       "venue": "Randalls Island",
       "notes": "",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1997-07-11 - New York, NY - Randalls Island [AUD].txt"
     },
     {
       "year": 2022,
@@ -428,9 +457,10 @@ const ARTIST_DATA = {
       "state": "FL",
       "location": "Daytona Beach, FL",
       "venue": "Welcome to Rockville",
-      "notes": "Day · AT853s · mark terrell",
+      "notes": "Day \u00b7 AT853s \u00b7 mark terrell",
       "version": "AUD",
-      "format": "FLAC 24"
+      "format": "FLAC 24",
+      "textFile": "2022-05-22 - Daytona Beach, FL - Welcome to Rockville - Day 4 Space Zebra Stage (AT853s) (mark terrell) [AUD24].txt"
     },
     {
       "year": 2022,
@@ -441,9 +471,10 @@ const ARTIST_DATA = {
       "state": "FL",
       "location": "Daytona Beach, FL",
       "venue": "Daytona International Speedway",
-      "notes": "Schoeps MK4s · anonymous",
+      "notes": "Schoeps MK4s \u00b7 anonymous",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "2022-05-22 - Daytona Beach, FL - Daytona International Speedway (Schoeps MK4s) (anonymous) [AUD].txt"
     },
     {
       "year": 2022,
@@ -454,9 +485,10 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "Los Angeles, CA",
       "venue": "The Belasco",
-      "notes": "SP-CMC-4U · ijwthstd · vibrioidxire transfer",
+      "notes": "SP-CMC-4U \u00b7 ijwthstd \u00b7 vibrioidxire transfer",
       "version": "AUD #1",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "2022-07-07 - Los Angeles, CA - The Belasco (SP-CMC-4U) (ijwthstd) (vibrioidxire transfer) [AUD #1].txt"
     },
     {
       "year": 2024,
@@ -467,9 +499,10 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "Santa Ana, CA",
       "venue": "Observatory",
-      "notes": "DPA 4081 · faninor",
+      "notes": "DPA 4081 \u00b7 faninor",
       "version": "AUD",
-      "format": "FLAC 24"
+      "format": "FLAC 24",
+      "textFile": "2024-02-13 - Santa Ana, CA - Observatory (DPA 4081) (faninor) [AUD24].txt"
     },
     {
       "year": 2024,
@@ -480,7 +513,7 @@ const ARTIST_DATA = {
       "state": "IL",
       "location": "Chicago, IL",
       "venue": "Salt Shed",
-      "notes": "Sony PCM-A10 · auger3d",
+      "notes": "Sony PCM-A10 \u00b7 auger3d",
       "version": "AUD",
       "format": "FLAC 24"
     }

@@ -1,0 +1,20 @@
+auCDtect: CD records authenticity detector, version 0.8.2
+Copyright (c) 2004 Oleg Berngardt. All rights reserved.
+Copyright (c) 2004 Alexander Djourik. All rights reserved.
+
+Detect mode (0..40 with 0 = most accurate):  8 (default)
+
+
+01.(Intro jam).wav:  track looks like CDDA with probability 100%.
+02.Stop.wav:  track looks like CDDA with probability 99%.
+03.Just Because.wav:  track looks like CDDA with probability 100%.
+04.Had a Dad.wav:  track looks like CDDA with probability 100%.
+05.Ain't No Right.wav:  track looks like CDDA with probability 100%.
+06.Ted, Just Admit It...wav:  track looks like CDDA with probability 94%.
+07.Been Caught Stealing.wav:  track looks like CDDA with probability 100%.
+08.Ocean Size.wav:  track looks like CDDA with probability 100%.
+09.Mountain Song.wav:  track looks like CDDA with probability 100%.
+10.Three Days.wav:  track looks like CDDA with probability 100%.
+11.Whores.wav:  track looks like CDDA with probability 100%.
+12.(banter).wav:  track looks like CDDA with probability 100%.
+13.Jane Says.wav:  track looks like CDDA with probability 87%.

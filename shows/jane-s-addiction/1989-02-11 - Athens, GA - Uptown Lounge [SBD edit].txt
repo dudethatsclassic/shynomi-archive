@@ -1,0 +1,42 @@
+Jane's Addiction
+February 11, 1989
+Uptown Lounge
+Athens, GA
+
+Source: SBD > cassette
+Lineage: ANA(3) > CDR > FLAC > wav > dEdit (corrected tape speed) > FLAC
+
+Notes: Original tape ran around 4.5% slow.  I corrected this in Audacity, retracked and encoded to FLAC.  Nothing else has been changed.  Original txt info is below.
+
+Additional notes and edit by BLG
+compiled on 10/02/11 
+
+
+-------------------------------------------------------------------------
+Jane's Addiction
+1989-02-11
+Uptown Lounge
+Athens, GA
+
+SBD > 3rd Gen Cassette > CD Wave > CDR > EAC (properly configured) (log included) > TLH = FLAC (level 8)
+
+01. Up The Beach
+02. Whores
+03. 1%
+04. Idiots Rule
+05. Had A Dad
+06. Ted, Just Admit It
+07. Standing In The Shower...Thinking
+08. Thank You Boys
+09. Bobhaus (Burning From The Inside/Like A Rolling Stone)
+10. Pigs In Zen
+11. Summertime Rolls
+12. Ocean Size
+13. Mountain Song
+14. crowd
+15. Jane Says
+
+Original recording supplied by Jim, then shared out by Mike @ http://janesaddiction.org
+
+Show info: http://janesaddiction.org/tour/show/jan ... 2-11/2226/
+

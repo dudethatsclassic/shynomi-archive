@@ -1,0 +1,33 @@
+
+Jane's Addiction
+United Center: Chicago, IL
+November 5, 2022
+
+Source: AT831s > SP-SPSB-11 (@69Hz) > Sony PCM-M10 @ 24-bit / 44.1kHz
+Location: Sec 219, row 2
+Transfer: M10 > USB > Audacity > xACT 2.50
+Edits/EQ: +5dB
+Taper: tapeworm(48) 
+
+Setlist:
+
+01 Intro
+02 Up The Beach
+03 Whores
+04 Ocean Size
+05 Ain't No Right
+06 Three Days
+07 Jane Says
+08 Stop!
+09 Ted, Just Admit It...
+10 Mountain Song
+11 Been Caught Stealing
+
+Notes: Supporting Smashing Pumpkins (recorded) on the Spirits on Fire tour. Troy Van Leeuwen played guitar in place of Dave Navarro on the entire tour. M10 set at 5. Raw transfer with no fades or EQ. 
+
+Archive: Master WAV was archived @ 24-bit/44.1kHz and FLAC'd with cue sheet. 
+
+Taped and transferred by tapeworm(48) 
+Txt file compiled on 11/6/2022
+
+*** DO NOT REMASTER WITHOUT PERMISSION. DO NOT DISTRIBUTE IN LOSSY FORMATS. DO NOT SELL THIS RECORDING, TRADE IT FREELY *** 

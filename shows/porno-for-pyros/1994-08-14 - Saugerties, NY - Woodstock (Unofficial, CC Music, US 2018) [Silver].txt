@@ -1,0 +1,51 @@
+﻿fooCDtect - foobar2000 + auCDtect, baralgin.
+
+auCDtect: CD records authenticity detector, version 0.8.2
+Copyright (c) 2004 Oleg Berngardt. All rights reserved.
+Copyright (c) 2004 Alexander Djourik. All rights reserved.
+
+     mode: 0
+
+===========================================
+    Track: 1.01 - New Rising Sun (Live- Saugerties, NY 14 Aug '94)
+  Quality: MPEG  95%
+===========================================
+    Track: 1.02 - Sadness (Live- Saugerties, NY 14 Aug '94)
+  Quality: MPEG  95%
+===========================================
+    Track: 1.03 - Meija (Live- Saugerties, NY 14 Aug '94)
+  Quality: MPEG  95%
+===========================================
+    Track: 1.04 - Bad S••t (Live- Saugerties, NY 14 Aug '94)
+  Quality: MPEG  95%
+===========================================
+    Track: 1.05 - Porpoise Head (Live- Saugerties, NY 14 Aug '94)
+  Quality: MPEG  95%
+===========================================
+    Track: 1.06 - Packin' .25 (Live- Saugerties, NY 14 Aug '94)
+  Quality: MPEG  95%
+===========================================
+    Track: 1.07 - Tahitian Moon (Live- Saugerties, NY 14 Aug '94)
+  Quality: MPEG  95%
+===========================================
+    Track: 1.08 - Tahitian Sea Anecdote
+  Quality: Unknown
+===========================================
+    Track: 1.09 - Cursed Female
+  Quality: MPEG  95%
+===========================================
+    Track: 1.10 - Pets
+  Quality: MPEG  95%
+===========================================
+    Track: 1.11 - Dominator
+  Quality: MPEG  95%
+===========================================
+    Track: 1.12 - Blood Rag
+  Quality: MPEG  95%
+===========================================
+    Track: 1.13 - Earth
+  Quality: MPEG  95%
+===========================================
+    Track: 1.14 - Porno For Pyros
+  Quality: MPEG  95%
+===========================================

@@ -1,0 +1,93 @@
+Artist: Jane's Addiction
+Date: 2011-03-31 (March 31, 2011)
+City: Buenos Aires, Argentina
+Venue: Anfiteatro Lola Mora
+Lineage: FM > Wav > Sony Vegas > Wav > Trader's Little Helper > Flac(8)
+Format: Flac Level 8.
+Length: 1:25:22
+Source: FM recording by charlimust94
+Recorder: charlimust94
+
+Setlist:
+
+1 Whores
+2 Ain't No Right
+3 Had a Dad
+4 Ted, Just Admit It...
+5 Been Caught Stealing
+6 End to the Lies (New Song)
+7 Three Days
+8 Superhero
+9 Mountain Song
+10 Then She Did...
+11 Ocean Size
+
+Encore:
+12 Stop!
+13 Jane Says
+
+
+********************************************************************************************************
+
+
+Checksum File:
+
+01_Whores.wav: successfully encoded to '01_Whores.flac' (ratio = 0.492; foreign metadata 'LIST' removed).
+02_Ain't No Right.wav: successfully encoded to '02_Ain't No Right.flac' (ratio = 0.472; foreign metadata 'LIST' removed).
+03_Had a Dad.wav: successfully encoded to '03_Had a Dad.flac' (ratio = 0.475; foreign metadata 'LIST' removed).
+04_Ted, Just Admit It...wav: successfully encoded to '04_Ted, Just Admit It...flac' (ratio = 0.467; foreign metadata 'LIST' removed).
+05_Been Caught Stealing.wav: successfully encoded to '05_Been Caught Stealing.flac' (ratio = 0.462; foreign metadata 'LIST' removed).
+06_End To The Lies.wav: successfully encoded to '06_End To The Lies.flac' (ratio = 0.485; foreign metadata 'LIST' removed).
+07_Three Days.wav: successfully encoded to '07_Three Days.flac' (ratio = 0.451; foreign metadata 'LIST' removed).
+08_Superhero.wav: successfully encoded to '08_Superhero.flac' (ratio = 0.458; foreign metadata 'LIST' removed).
+09_Mountain Song.wav: successfully encoded to '09_Mountain Song.flac' (ratio = 0.467; foreign metadata 'LIST' removed).
+10_Then She Did.wav: successfully encoded to '10_Then She Did.flac' (ratio = 0.452; foreign metadata 'LIST' removed).
+11_Ocean Size.wav: successfully encoded to '11_Ocean Size.flac' (ratio = 0.469; foreign metadata 'LIST' removed).
+12_Stop!.wav: successfully encoded to '12_Stop!.flac' (ratio = 0.459; foreign metadata 'LIST' removed).
+13_Jane Says.wav: successfully encoded to '13_Jane Says.flac' (ratio = 0.433; foreign metadata 'LIST' removed).
+
+No errors occured.
+
+
+01_Whores.flac: tested ok (file is decodable without error).
+02_Ain't No Right.flac: tested ok (file is decodable without error).
+03_Had a Dad.flac: tested ok (file is decodable without error).
+04_Ted, Just Admit It...flac: tested ok (file is decodable without error).
+05_Been Caught Stealing.flac: tested ok (file is decodable without error).
+06_End To The Lies.flac: tested ok (file is decodable without error).
+07_Three Days.flac: tested ok (file is decodable without error).
+08_Superhero.flac: tested ok (file is decodable without error).
+09_Mountain Song.flac: tested ok (file is decodable without error).
+10_Then She Did.flac: tested ok (file is decodable without error).
+11_Ocean Size.flac: tested ok (file is decodable without error).
+12_Stop!.flac: tested ok (file is decodable without error).
+13_Jane Says.flac: tested ok (file is decodable without error).
+
+No errors occured.
+
+
+ffe59d65303eb4e092bb50b39835f86d *01_Whores.flac
+5ad8d7c27be107b2aedcb3a2d3522d2e *02_Ain't No Right.flac
+766a782554c4308eafd1ed291ccb41c6 *03_Had a Dad.flac
+69a6d52effbe57b9de885fbbd965ee09 *04_Ted, Just Admit It...flac
+f9a5b72c3205319c76a56d2ec09b7f96 *05_Been Caught Stealing.flac
+7f98b57837df8380c8d503b59581f5cf *06_End To The Lies.flac
+b18f037d7a559c222ea81b5ad91bcbb2 *07_Three Days.flac
+75a448684d87deb76d5d126ebbfc7d24 *08_Superhero.flac
+9f4fdca147bc622af2cdb91324f2b685 *09_Mountain Song.flac
+929a850315bff18fa4b3ed6c2d379a60 *10_Then She Did.flac
+51d5494f6ea59a7ac474fe3913c38f5a *11_Ocean Size.flac
+96c635e34640439b4f3d7f68e80984f2 *12_Stop!.flac
+ca24c6fc7e3531d376d0987f0b859240 *13_Jane Says.flac
+
+Checksum file saved to disk.
+
+No errors occured.
+
+
+
+------------------------------------------------------------------------------------------------------------------------------------------
+*** Please do NOT convert into mp3 and share! Share this recording just the way it is!!!! ***
+*** NOT for sale, Free trade ONLY!!! ***
+*** Please do NOT re-master this recording and share (for personal use is ok) ***
+------------------------------------------------------------------------------------------------------------------------------------------

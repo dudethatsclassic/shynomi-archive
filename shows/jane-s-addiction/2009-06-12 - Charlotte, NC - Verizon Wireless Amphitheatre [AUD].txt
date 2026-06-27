@@ -1,0 +1,48 @@
+Jane's Addiction (Last US NINJA Date)
+Verizon Wireless Amphitheatre
+Charlotte, NC
+June 12, 2009
+
+Recorder: UNIVONC
+
+Seat: Section 8 Row P
+
+
+Lineage:  
+	Core Sound Dual DPA 4061 merged into 3 pin XLR into
+	Mic2496 V2 Portable Mic Pre-amp/A-to-D Converter (coax out) into
+	Monster Cable Interlink Digital Datalink IDL 100 High Resolution Cable 
+	M-Audio's MicroTrack II Professional 2-Channel Mobile Digital Recorder
+	(into SPDIF)
+	ScanDisk Extreme III 32 GB compact Flashcard
+
+	Recorded in 96khz/24 bit 2 channel stereo
+	All editing done with Adobe Audition 3.0.1 (patch for Vista)
+	Filtering with "kill 60 hz groung loop" ONLY 
+	Conversion from 96/24 to 44k/16 
+	WAV files converted to FLAC 6 via Traders Little Helper
+	Files torrented will be done thru traders little helper onto uTorrent.
+
+SETLIST: (1:20:22)
+
+
+01 Three Days (11:06)
+02 Whores (3:38)
+03 Ain't No Right (3:11)
+04 Pigs In Zen (5:22)
+05 Then She Did... (8:35)
+06 Up The Beach (2:52)
+07 Mountain Song (4:57)
+08 Been Caught Stealing (4:36)
+09 Ocean Size (4:57)
+10 Ted, Just Admit It... (8:07)
+
+Encore:
+
+11 Summertime Rolls (7:33)
+12 Had a Dad (4:10)
+13 Stop! (3:57)
+14 Jane Says (7:16)
+
+Notes: NIN/JA 2009 tour with Street Sweeper Social Club opening and Nine Inch Nails and Jane's Addiction
+co-headlining.

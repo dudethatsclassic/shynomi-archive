@@ -1,0 +1,28 @@
+JANE'S ADDICTION
+July 19, 2003
+Post-Gazette Pavilion
+Burgettstown, PA
+
+Source: Shure SM98 > P-Mod > Sony PCM-M1
+Location: seventy-five feet from right-of-center lawn PA
+Taper: CPS
+Lineage: DAT(M) > WAV [48] > WAV [44.1] > FLAC
+Transfer: Tascam DA-20mkII > M-Audio Audiophile 2496 > Sound Forge
+Edits/EQ: none
+Notes: Lollapalooza
+
+01 - intro
+02 - Stop
+03 - Ain't No Right
+04 - Mountain Song
+05 - Been Caught Stealing
+06 - Wrong Girls
+07 - Ocean Size
+08 - Summertime Rolls
+09 - Just Because
+10 - Three Days
+11 - talk
+12 - Jane Says
+
+
+Compiled May 2019 by CPS

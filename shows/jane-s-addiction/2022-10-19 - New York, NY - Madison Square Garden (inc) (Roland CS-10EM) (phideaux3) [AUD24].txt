@@ -1,0 +1,43 @@
+
+Artist: Jane’s Addiction 
+Recording date: October 19, 2022
+Location: Madison Square Garden, New York, NY
+Source: audience
+
+Setlist:
+
+01 Up the Beach (not included)
+02 Whores (joined in progress)
+03 Ocean Size
+04 Ain't No Right
+05 Three Days (with Josh Klinghoffer)
+06 Mountain Song
+07 talk, intro of Daniel Ash
+08 Jane Says (with Daniel Ash)
+09 Slice of Life (with Daniel Ash)
+10 Ted, Just Admit It...
+11 Stop!
+12 Been Caught Stealing
+
+Perry Farrell
+Troy Van Leeuwen
+Stephen Perkins
+Eric Avery
+Special Guests: Josh Klinghoffer, Daniel Ash and 3 dancing ladies
+
+Lineage: Roland CS-10EM binaural mics -> Field Recorder on Samsung S20 -> Audacity -> FLAC export -> you
+
+This torrent is incompatible with the CD-Audio standard. The sound is in 24-bit stereo sampled at 96 kHz.  Feel free to post a downsample - I’m not going to at least until I’ve got all my tapes done.
+
+Notes, rambles, etc.:
+
+So this was an experiment that came out better than I expected.  This was my first time trying this app & setup, so my expectations were low; yours should be too.
+
+Up the Beach didn’t get recorded and Whores is joined in progress as I didn’t want to start setting up and f’ing with the app while the lights were still up.  Sorry about that.
+
+I don’t know if I’m adjusting the record levels in this odd app the way you’re *supposed* to, but I got the clip to not be solid after messing with the input EQ settings.  You might notice a slight drop in volume and corresponding drop in clipping at 6:35 (about ⅔ into Ocean Size).  It still sounds a little clippy to me, but that might just be these mics.
+
+Peace,
+
+Phideaux3
+

@@ -1,0 +1,41 @@
+Jane's Addiction
+KAABOO Del Mar 2017
+Del Mar, CA USA
+2017-09-16
+
+Lineage: Live webcast -> Streamlink -> FFMPeg (edit) -> .ts
+Video: H264 1920x1080 30fps
+Audio: AAC 48Khz Stereo 136kb/s 
+
+Setlist:
+
+1. Intro/jam
+2. Stop
+3. Just Because
+4. Had a Dad
+5. Ain't No Right
+6. Ted, Just Admit It...
+7. Been Caught Stealing
+8. Ocean Size
+9. Mountain Song
+10. Three Days
+11. Whores
+12. Jane Says
+
+Total Runtime: 01:12:08
+
+FFMPEG Info:
+
+Output #0, mpegts, to 'jane2.ts':
+  Metadata:
+    encoder         : Lavf57.71.100
+    Stream #0:0: Video: h264 (High) ([27][0][0][0] / 0x001B), yuv420p(tv, bt709, progressive), 1920x1080 [SAR 1:1 DAR 16:9], q=2-31, 30 fps, 29.97 tbr, 90k tbn, 90k tbc
+    Stream #0:1: Audio: aac (LC) ([15][0][0][0] / 0x000F), 48000 Hz, stereo, fltp, 136 kb/s
+Stream mapping:
+  Stream #0:1 -> #0:0 (copy)
+  Stream #0:0 -> #0:1 (copy)
+Press [q] to stop, [?] for help
+frame=129687 fps=8395 q=-1.0 Lsize= 2722831kB time=01:12:07.99 bitrate=5153.8kbits/s speed= 280x    
+video:2442319kB audio:67625kB subtitle:0kB other streams:0kB global headers:0kB muxing overhead: 8.481764%
+
+Capped and uploaded to DIME by ffffffe 9/16/2017.
