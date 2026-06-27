@@ -18,10 +18,11 @@ const ARTIST_DATA = {
       "state": "FL",
       "location": "St. Pete, FL",
       "venue": "Jannus Live",
+      "notes": "blokus",
       "version": "AUD",
       "format": "FLAC",
-      "notes": "blokus",
       "textFile": "2014-09-26 - St. Pete, FL - Jannus Live [AUD].txt"
     }
-  ]
+  ],
+  "misc": []
 };
