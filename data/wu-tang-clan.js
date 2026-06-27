@@ -2,7 +2,7 @@ const ARTIST_DATA = {
   "id": "wu-tang-clan",
   "name": "Wu Tang Clan",
   "drive": "D",
-  "showCount": 10,
+  "showCount": 11,
   "firstYear": 1993,
   "lastYear": 2025,
   "years": [
@@ -26,10 +26,23 @@ const ARTIST_DATA = {
       "state": "NY",
       "location": "New York, NY",
       "venue": "The Palladium",
+      "notes": "unk",
       "version": "SBD",
       "format": "FLAC",
-      "notes": "Unknown",
       "textFile": "1993-12-31 - New York, NY - The Palladium (unk) [SBD].txt"
+    },
+    {
+      "year": 1993,
+      "month": null,
+      "day": null,
+      "dateStr": "XX-XX-1993",
+      "city": "New York",
+      "state": "NY",
+      "location": "New York, NY",
+      "venue": "The Palladium",
+      "notes": "Hot",
+      "version": "SBD",
+      "format": "FLAC"
     },
     {
       "year": 1997,
@@ -40,9 +53,9 @@ const ARTIST_DATA = {
       "state": "CT",
       "location": "Hartford, CT",
       "venue": "Meadows Music Theatre",
+      "notes": "Radio Shack 33-3003 · mike ganezer",
       "version": "AUD",
       "format": "FLAC",
-      "notes": "Radio Shack 33-3003 \u00b7 mike ganezer",
       "textFile": "1997-08-17 - Hartford, CT - Meadows Music Theatre (Radio Shack 33-3003) (mike ganezer) [AUD].txt"
     },
     {
@@ -54,9 +67,9 @@ const ARTIST_DATA = {
       "state": "NJ",
       "location": "East Rutherford, NJ",
       "venue": "Continental Airlines Arena",
+      "notes": "",
       "version": "AMT",
       "format": "DVD",
-      "notes": "",
       "textFile": "1997-08-20 - East Rutherford, NJ - Continental Airlines Arena (AMT) [DVD].txt"
     },
     {
@@ -67,11 +80,10 @@ const ARTIST_DATA = {
       "city": "Rochester",
       "state": "NY",
       "location": "Rochester, NY",
-      "venue": "Water St. Music Hall - Raekwon",
+      "venue": "Water St. Music Hall",
+      "notes": "Raekwon · CSB · unk",
       "version": "AUD",
-      "format": "FLAC",
-      "notes": "CSB \u00b7 Unknown",
-      "textFile": "2001-12-06 - Rochester, NY - Water St. Music Hall - Raekwon (CSB) (unk) [AUD].txt"
+      "format": "FLAC"
     },
     {
       "year": 2002,
@@ -82,9 +94,9 @@ const ARTIST_DATA = {
       "state": "CA /The Fillmore (unk) (neekrive)",
       "location": "San Francisco, CA /The Fillmore (unk) (neekrive)",
       "venue": "",
+      "notes": "",
       "version": "AUD",
-      "format": "FLAC",
-      "notes": ""
+      "format": "FLAC"
     },
     {
       "year": 2007,
@@ -95,9 +107,9 @@ const ARTIST_DATA = {
       "state": "Switzerland",
       "location": "Montreux, Switzerland",
       "venue": "Montreux Jazz Festival",
+      "notes": "",
       "version": "PRO",
       "format": "DVD",
-      "notes": "",
       "textFile": "2007-07-18 - Montreux, Switzerland - Montreux Jazz Festival (Pro Shot) [DVD].txt"
     },
     {
@@ -109,9 +121,9 @@ const ARTIST_DATA = {
       "state": "Russia",
       "location": "Moscow, Russia",
       "venue": "Arena Moscow",
+      "notes": "kuzya 1",
       "version": "AMT",
       "format": "DVD",
-      "notes": "kuzya 1",
       "textFile": "2010-07-29 - Moscow, Russia - Arena Moscow (kuzya 1) [DVD].txt"
     },
     {
@@ -122,11 +134,10 @@ const ARTIST_DATA = {
       "city": "Seattle",
       "state": "WA",
       "location": "Seattle, WA",
-      "venue": "Seattle Center - Bumbershoot Festival",
+      "venue": "Seattle Center",
+      "notes": "Bumbershoot · Zoom H1 · askinas",
       "version": "AUD",
-      "format": "FLAC",
-      "notes": "Zoom H1 \u00b7 askinas",
-      "textFile": "2014-08-30 - Seattle, WA - Seattle Center - Bumbershoot Festival (Zoom H1) (askinas) [AUD].txt"
+      "format": "FLAC"
     },
     {
       "year": 2018,
@@ -137,9 +148,9 @@ const ARTIST_DATA = {
       "state": "DC",
       "location": "Washington, DC",
       "venue": "The Anthem",
+      "notes": "CA-14s · unk",
       "version": "AUD",
       "format": "FLAC",
-      "notes": "CA-14s \u00b7 Unknown",
       "textFile": "2018-11-01 - Washington, DC - The Anthem (CA-14s) (unk) [AUD].txt"
     },
     {
@@ -151,10 +162,11 @@ const ARTIST_DATA = {
       "state": "MI",
       "location": "Detroit , MI",
       "venue": "Little Caesars Arena",
+      "notes": "Sennheiser Ambeo · unk",
       "version": "AUD",
       "format": "FLAC 24",
-      "notes": "Sennheiser Ambeo \u00b7 Unknown",
       "textFile": "2025-07-08 - Detroit , MI - Little Caesars Arena (Sennheiser Ambeo) (unk) [AUD24].txt"
     }
-  ]
+  ],
+  "misc": []
 };
