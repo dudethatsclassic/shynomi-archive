@@ -1,0 +1,38 @@
+Blind Melon
+September 5, 1993 (Sunday)
+The Gorge Amphitheatre
+George, Washington
+
+Taper: Unknown
+Source: Unknown Audience Master
+Transfer: ? > 16/44.1 WAV > TLH v2.7.0 (build 172), level 8, sector boundaries aligned using "fix" setting > FLAC v1.2.1
+
+WAV > FLAC compression, text file, track re-naming, md5, FLAC fingerprint and upload to www.archive.org by Tim Burke (tburke@upstatetapers.org) on April 9, 2014.
+
+ 38m 33s
+ t01. Time
+ t02. Holyman
+ t03. Change
+ t04. Paper Scratcher
+ t05. Deserted
+ t06. No Rain
+ t07. Soak The Sin
+
+ Notes:
+ Blind Melon opened for Pearl Jam and Neil Young with Booker T. & the M.G.'s.
+
+ Personnel:
+ Shannon Hoon - lead vocals, guitar
+ Rogers Stevens - guitar
+ Brad Smith - bass guitar
+ Christopher Thorn - guitar
+ Glen Graham - drums
+
+FLAC Fingerprint
+blind_melon1993-09-05.aud.burke.t01.flac:7d8da90b8d1797e7d19ebc519af3eee1
+blind_melon1993-09-05.aud.burke.t02.flac:d4b670cc3f4e1a7c577f73fc38bc7afe
+blind_melon1993-09-05.aud.burke.t03.flac:2364f7122f6840e96b4d4edf66cbbce7
+blind_melon1993-09-05.aud.burke.t04.flac:10d3454826df752056e2ffa48291bf4d
+blind_melon1993-09-05.aud.burke.t05.flac:c38f1c23a18189bf3a2d9ac3d111609f
+blind_melon1993-09-05.aud.burke.t06.flac:60b4cbfbbc750ef4d6869c7251bbc8ca
+blind_melon1993-09-05.aud.burke.t07.flac:ec9a4da067669767400631309fffc348

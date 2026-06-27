@@ -1,0 +1,43 @@
+Blind Melon
+2008-05-03
+The Coach House
+San Juan Capistrano, CA, USA
+
+-- Source --
+{CSB > battery box (bass roll-off enabled) > M-Audio 10db pad} + {CSC > battery box} > Y-splitter > Microtrack (24bit 48kHz)
+
+-- Processing --
+Adobe Audition (editing) > iZotope RX (editing/mastering) > CD Wave (tracking) > Trader's Little Helper (encoding)
+
+-- Setlist --
+01 - intro (Hello, Goodbye)
+02 - Galaxie
+03 - Last Laugh
+04 - 2x4
+05 - Toes Across the Floor
+06 - For My Friends
+07 - Soup
+08 - Drive
+09 - Paper Scratcher
+10 - Sleepyhouse
+11 - Sometimes
+12 - I Wonder
+13 - Wishing Well
+14 - Change
+15 - Hypnotize
+16 - Tumblin' Down
+17 - Skinned
+18 - Soak the Sin
+19 - Wilt
+20 - Jane Says/No Rain (Ripped Away)
+21 - No Rain
+22 - The Pusher
+23 - encore
+24 - Time
+
+-- Notes --
+There were some intermittent issues in the right channel due to a damaged cable or poor connection. During these sections I've reduced the right channel and filled in from the left.
+
+Length: 1h38m20s
+
+-- faninor -- 2024-02-11 --

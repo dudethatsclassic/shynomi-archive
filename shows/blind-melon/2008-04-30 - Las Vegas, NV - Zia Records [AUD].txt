@@ -1,0 +1,20 @@
+BLIND MELON
+April 30, 2008
+Zia Record Exchange
+Las Vegas, NV
+
+Source: AKG CK91 (mod) > Audio Technica 8531 (mod) > iRiver H120
+Location: ten feet from stage, DFC
+Taper: CPS
+Lineage: WAV(M) [16/44.1] > FLAC
+Edits/eq: +6.2dB, limiter @ -0.8dB, L3 @ -8dB
+Notes: in-store acoustic set
+
+01 - intro
+02 - For My Friends
+03 - Change
+04 - Wishing Well
+05 - Skinned
+
+
+Compiled March 2020 by CPS

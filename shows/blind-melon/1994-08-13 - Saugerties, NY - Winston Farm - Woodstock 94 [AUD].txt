@@ -1,0 +1,61 @@
+Blind Melon
+Main (North) Stage
+Woodstock '94
+Winston Farm
+Saugerties NY
+August 13, 1994
+
+** 16 BIT **
+
+Source:  Sonic Studios DSM-6P w/3-way lo-cut filter, position unknown (most likely @ 80hz, middle setting) > Sony WM-D6 
+Transfer:  Master cassette (Sony UX-Pro 90's) > Denon 790R > Kenwood A-522 amplifier > Kenwood GE-622 Equalizer > .WAV @ 16 bit/44.1 kHz
+Mastering:  .WAV > Sound Forge Pro 11.0 (Build 299) [iZotope Mastering Suite (declick); minor edits, normalize, & fades] > CDWav (tracking) >                   Trader's Little Helper (level 5) > FLAC > TagScanner 5.1 (tagging) 
+Location:  About 200 feet from the stage, in front of the right stack, on top of a little ridge
+Recorded & transferred by:  Steve "ballsdeep" Hagar
+Mastered by:  Dennis Orr
+
+Setlist:
+01 Intro
+02 2 X 4
+03 Tones Of Home
+04 Soup
+05 Chat
+06 Wilt
+07 Chat
+08 No Rain
+09 Time
+10 Chat
+11 I Wonder
+12 Working Class Hero
+13 St. Andrew's Fall
+14 Paper Scratcher
+15 Change
+16 Deserted
+17 Chat
+18 Soak The Sin
+
+Shannon Hoon - lead vocals, guitar, harmonica
+Rogers Stevens - guitar
+Christopher Thorn - guitar, mandolin, & harmonica
+Brad Smith - bass & backing vocals
+Miles Tackett - cello
+Glen Graham - drums
+
+BlindMelon1994-08-13t01.flac:e4681b738a2be22e37845bae1ffc6a29
+BlindMelon1994-08-13t02.flac:c7cb1e75916caa5d371999cb167deab8
+BlindMelon1994-08-13t03.flac:de9cd4baaf389d3068288f3792124476
+BlindMelon1994-08-13t04.flac:e371bb6c6fa64192aba0b34c67786a55
+BlindMelon1994-08-13t05.flac:f2d5d60a2a16780e58aaa28ee651467d
+BlindMelon1994-08-13t06.flac:6341ecce64390524be3e92fbdee3d1e9
+BlindMelon1994-08-13t07.flac:552b06809d4c542457f5fb0cb1b8ef13
+BlindMelon1994-08-13t08.flac:2776796cbb6ebc6e8e579745fea5a143
+BlindMelon1994-08-13t09.flac:6e069e3373dfef51486eb64f80549485
+BlindMelon1994-08-13t10.flac:8698a35fb08cb64652128424a5660c00
+BlindMelon1994-08-13t11.flac:076bdeaade21c2759fad20a4b6649e8b
+BlindMelon1994-08-13t12.flac:890170b4616817f51539938b7b885479
+BlindMelon1994-08-13t13.flac:e388d5b8082b71b257dec995be6d7a9e
+BlindMelon1994-08-13t14.flac:7a4fc63f4dd5647886b8ac1aa642b338
+BlindMelon1994-08-13t15.flac:b48deba6e47a1c2aee8547266c3c23c9
+BlindMelon1994-08-13t16.flac:cb19d8909c4cae2ab5a29e4322c19320
+BlindMelon1994-08-13t17.flac:5bc1a9a9beab9ec1d91c7f897b59c0c6
+BlindMelon1994-08-13t18.flac:20f5006d371f400091abf6275d5c8b54

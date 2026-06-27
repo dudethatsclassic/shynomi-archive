@@ -1,0 +1,36 @@
+Information ripping to FLAC, 'Track 1' to 'E:\BOB WOODSTOCK\Unknown Artist\01 Unknown Artist - Track 1.flac'
+   Audio File Passed Verification
+   
+Information ripping to FLAC, 'Track 2' to 'E:\BOB WOODSTOCK\Unknown Artist\02 Unknown Artist - Track 2.flac'
+   Audio File Passed Verification
+   
+Information ripping to FLAC, 'Track 3' to 'E:\BOB WOODSTOCK\Unknown Artist\03 Unknown Artist - Track 3.flac'
+   Audio File Passed Verification
+   
+Information ripping to FLAC, 'Track 4' to 'E:\BOB WOODSTOCK\Unknown Artist\04 Unknown Artist - Track 4.flac'
+   Audio File Passed Verification
+   
+Information ripping to FLAC, 'Track 5' to 'E:\BOB WOODSTOCK\Unknown Artist\05 Unknown Artist - Track 5.flac'
+   Audio File Passed Verification
+   
+Information ripping to FLAC, 'Track 6' to 'E:\BOB WOODSTOCK\Unknown Artist\06 Unknown Artist - Track 6.flac'
+   Audio File Passed Verification
+   
+Information ripping to FLAC, 'Track 7' to 'E:\BOB WOODSTOCK\Unknown Artist\07 Unknown Artist - Track 7.flac'
+   Audio File Passed Verification
+   
+Information ripping to FLAC, 'Track 8' to 'E:\BOB WOODSTOCK\Unknown Artist\08 Unknown Artist - Track 8.flac'
+   Audio File Passed Verification
+   
+Information ripping to FLAC, 'Track 9' to 'E:\BOB WOODSTOCK\Unknown Artist\09 Unknown Artist - Track 9.flac'
+   Audio File Passed Verification
+   
+Information ripping to FLAC, 'Track 10' to 'E:\BOB WOODSTOCK\Unknown Artist\10 Unknown Artist - Track 10.flac'
+   Audio File Passed Verification
+   
+Information ripping to FLAC, 'Track 11' to 'E:\BOB WOODSTOCK\Unknown Artist\11 Unknown Artist - Track 11.flac'
+   Audio File Passed Verification
+   
+Information ripping to FLAC, 'Track 12' to 'E:\BOB WOODSTOCK\Unknown Artist\12 Unknown Artist - Track 12.flac'
+   Audio File Passed Verification
+   

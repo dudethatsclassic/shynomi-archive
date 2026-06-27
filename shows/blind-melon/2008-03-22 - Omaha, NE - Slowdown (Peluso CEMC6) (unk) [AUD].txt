@@ -1,0 +1,62 @@
+Blind Melon
+Slowdown
+Omaha NE
+2008-03-22
+
+
+source: Peluso cemc6 (subcards,28cm~90deg,behind sbd ,center) + sE 2a (hyper,center) > Busman R4 (24/48)
+
+transfer: R4 > Adobe Audition (mix,fades,amplify) > Wavelab 5 (dither/resample) > wav (16/44.1) > CD Wave Editor > flac level 8
+
+setlist:
+ Hello-Goodbye
+ Galaxie
+ 2 x 4
+ Toes Across the Floor
+ For My Friends
+ Soup
+ (With the) Right Set of Eyes
+ Drive
+ Paper Scratchera
+ Sleepyhouse
+ I Wonder
+ Cheatum Street
+ Wishing Well
+ Change
+ Hypnotized
+ Sometimes
+ Skinned
+ Soak the Sin
+ Wilt
+ No Rain
+ The Pusher
+
+encore
+ Mouthful of Cavities
+ Time
+
+
+fingerprint:
+blindmelon2008-03-22_t01.flac:4c11cf10cb440df443129cf596062149
+blindmelon2008-03-22_t02.flac:249ddf08e7451e568adb13c76a6eecb4
+blindmelon2008-03-22_t03.flac:e769c5da20f88572adf441e75142c6df
+blindmelon2008-03-22_t04.flac:8bb19cab61fc5b73630b265e6b4aaad5
+blindmelon2008-03-22_t05.flac:b7310523cf5a182d1b00ed8b857764e3
+blindmelon2008-03-22_t06.flac:cf0ca4ac5cf76c6e51882943076181e6
+blindmelon2008-03-22_t07.flac:7ed2c52cd0db5a2c981513905639d2f7
+blindmelon2008-03-22_t08.flac:c386bf34bcb7a32768486b1408c2e817
+blindmelon2008-03-22_t09.flac:de25a18a6f906a63db5b11d32b8ea227
+blindmelon2008-03-22_t10.flac:395dc9a70bb97ab3973f9316b420ec2d
+blindmelon2008-03-22_t11.flac:89701a160287386b112fb9ff87176d36
+blindmelon2008-03-22_t12.flac:100343cd9ea4724649c6c3ae3fe8b013
+blindmelon2008-03-22_t13.flac:b9814d0094d00177b754a112e7900ec6
+blindmelon2008-03-22_t14.flac:64b93c5d35f95f2becb8a8beb10f7594
+blindmelon2008-03-22_t15.flac:0433fd04e7b61b34b936b2302925f4bf
+blindmelon2008-03-22_t16.flac:c6e08765327bd476567c7e563a489e07
+blindmelon2008-03-22_t17.flac:4be0c6ebb3e138ba00443bff6d4fb853
+blindmelon2008-03-22_t18.flac:cea1edc2e55af9edbc1bbe9ca07c35eb
+blindmelon2008-03-22_t19.flac:ee43a6af0814c9643698c06fdf9d02a0
+blindmelon2008-03-22_t20.flac:a06a5847edeef6ab9f504113cc63e485
+blindmelon2008-03-22enc_t01.flac:bbd2a1c466e19a83f5c3fa361467b587
+blindmelon2008-03-22enc_t02.flac:32ed03d4881c772e27e2b20e554a1732
+

@@ -1,0 +1,22 @@
+BLIND MELON
+August 14, 1993
+Marcus Amphiheater
+Milwaukee, WI
+
+Source: Shure SM98 > Shure 94A1670 > Sony WM-D6C
+Taper: KO
+Lineage: Cassette(M) > DAT(1) > WAV [48] > WAV [44.1] > FLAC
+Transfer: Tascam DA-20mkII > M-Audio Audiophile 2496 > Sound Forge
+Edits/EQ: none
+Notes: opening for Neil Young
+
+01 - I Wonder
+02 - Tones of Home
+03 - (Under Pressure)
+04 - Deserted
+05 - Change
+06 - No Rain
+07 - Soak the Sin
+
+
+Compiled June 2020 by CPS

@@ -1,0 +1,132 @@
+Band: Alanis Morissette
+
+Date: Monday February 24th 2020
+
+Venue: Carré Amsterdam NL
+
+My location at the venue: just 4 or 5 rows from the top of the venue about 10 seats left from centre
+
+Date of first upload at The Traders Den: 2020-02-25
+
+Editor: grigio <- Thank U mate...!
+
+
+
+Lineage:
+
+CHURCH Audio CA-14 Cardioid Microphones. 
+Sony PCM - D50 wav24-bit 48.0 khz.
+Sony 8Gb Memory Pro-HG Duo card.
+To pc via USB cable.
+via Sync folder to Grigio.
+Converted to Flac level 5 with DBPoweramp
+Har-Bal v2.3.
+Wavelab v6.10 Build 340 (Effects: Magneto 1-5, D82 Sonic Maximizer, Waves L3 Ultramaximizer).
+via Sync folder back to me.
+Separation of songs with CD Wave Editor.
+Saved as Flac level 5
+Torrent created with TLH
+TTD
+You
+
+Txt, md5 and ffp files added to this torrent
+
+
+Alanis was in a good, comfortable mood and really did it this night for me (4th time seeing her in 25 years).
+The audience "overdid" it a bit for me as she's just a girl and not a god so to me the applause was more annoying then
+being just an honnest appreciation given to the just played song. 
+Maybe it was the complete setting of the venue and the accoustic set that draws a different type of folk to this kind of shows.
+One thing I was pleased about though was that most of them didn't talk to much or to loud during and in between the songs
+so that makes this a nice and clean recording of a very impressive performance.
+Because of the audience being so loud and Alanis being a bit talkative inbetween songs I had to make some of the splits
+in places I usually don't. I did think about seperating the chats inbetween but then thought you can skip to the next song any
+time you like so most is just right from the start of the first notes of the song where I placed the splits.
+Alanis played a new song called Reasons I Drink and unfortunatly you can hear a little buzz in the recording what I beleive is a
+rather shitty connection between the mics mini jack and the recorders input channel. It stops just after Mary Jane begins and isn't
+really noticable during the songs but some (like me) might think it's pretty annoing. Have no clue how to get it out so it is what it is.
+And yes, I am looking out for new gear and am thinking to put the good old PCM-D50 up in the cupboard and replace it with a Roland RO7 (better sugestions appreciated).
+
+
+Setlist:
+
+00. Intro
+01. Your House
+02. Right Trough You
+03. You Learn
+04. All I Really Want
+05. Not The Doctor
+06. Reasons I Drink
+07. Mary Jane
+08. Forgiven
+09. Perfect
+10. Head Over Feet
+11. Smiling
+12. Hand In My Pocket
+13. Ironic
+14. You Oughta Know
+15. Wake Up
+16. Uninvited
+17. Thank U
+
+
+
+
+
+Never buy or sell these recordings...
+
+Share and trade as you wish but do include the text file and remember, mp3 is not for live music.
+
+Support your artists, buy their merchandise and go see them live...!
+
+I'll seed this torrent till it's on the tracker, after that it's up to you to keep it going....!
+
+
+MD5:
+
+bb8eb569a44ff40f70213fee3f12bf0d *00 Intro.flac
+7b1a0c119385ab39644a12a92784798d *01 Your House.flac
+bbdeb2106759a1b9f83b36a32428e3e2 *02 Right Through You.flac
+4b8f5f49cdc8069b3bf521b0d04eb7d6 *03 You Learn.flac
+99b35ff861c0f434f10317f54f462657 *04 All I Really Want.flac
+beb33a4a3f2c40360aed70c8a76feeb8 *05 Not The Doctor.flac
+ce72adbb4493713783de19cb84def6f0 *06 Reasons I Drink.flac
+2fb71a70ebcaf6fa80202e5adb49071d *07 Mary Jane.flac
+a754aad9962ec39144f3ba1d0c839865 *08 Forgiven.flac
+4326e10c2c830730e12b976067769e7e *09 Perfect.flac
+73c23b1b1a9c2da61ef5ef475ab074e9 *10 Head Over Feet.flac
+f6a4e78ec18776cfeb42e279630146ae *11 Smiling.flac
+5dc2365d0458b2866285ffd2f3d5c11a *12 Hand In My Pocket.flac
+576260798f13b1913c628cb8ba6dd2ae *13 Ironic.flac
+7d63bc747cc85dc7c2e1dd39bb4efeee *14 You Oughta Know.flac
+3642de9532a8f0f33301745da46fc8f2 *15 Wake Up.flac
+ca71148681a03829c9087e4a7cc76079 *16 Uninvited.flac
+ddccc6994449b024259e8f39d091d81e *17 Thank U.flac
+
+No errors occured.
+
+FFP
+
+00 Intro.flac:2be8200c7410e29e75f1aa3b0e244fe7
+01 Your House.flac:0e5c647900013e4b684735e928089dd4
+02 Right Through You.flac:3a63a818a60b53d05f611fb5b581d990
+03 You Learn.flac:6026e92eb40627e081619120fd10f651
+04 All I Really Want.flac:cf7aa2233c6bfbdcc7b2782888bc8dcd
+05 Not The Doctor.flac:7a3e55837ba013e0c2b797c0d0c89797
+06 Reasons I Drink.flac:22accaf626bc36686818bd3c6c7a0a0c
+07 Mary Jane.flac:934fd99507190837115ca151c0f6c362
+08 Forgiven.flac:4f19e813fdf4b88f5809be6e22612724
+09 Perfect.flac:3340bb91fd85c8bd55f4800554cfead0
+10 Head Over Feet.flac:9f152e6807cd0957959d2c323cae0f47
+11 Smiling.flac:95b31076ced146692690423ec05c9365
+12 Hand In My Pocket.flac:93ffcd8abfb077e2f1cc122691f2449a
+13 Ironic.flac:6f9b11a4a1e7f3c143852bdb7285aa3e
+14 You Oughta Know.flac:314b46fae5b935fea504afd1abf8f58f
+15 Wake Up.flac:a6db6ef4651f168fed885ec8b8bdd2a2
+16 Uninvited.flac:965f8a8ec7d070d8685cb3110b80c923
+17 Thank U.flac:bf4e84c0d9d824d68b746ced1defd747
+
+No errors occured.
+
+
+
+

@@ -1,0 +1,80 @@
+Blind Melon
+October 17, 1995 
+Glen Miller Ballroom
+Boulder, CO, USA
+
+analog AUD recording > ? > CDR(x) > EAC > SHN > FLAC
+Total time: 69:57
+Size: 415 MB
+
+Setlist:
+01. 2 x 4 (4:34)
+02. Toes Across the Floor (3:11)
+03. Wilt (2:53)
+04. Tones of Home (5:08)
+05. Vernie (3:21)
+06. Soak the Sin (3:41)
+07. Lemonade (1:17)
+08. Skinned (4:28)
+09. Walk (3:03)
+10. No Rain (3:56)
+11. Galaxie (2:50)
+12. Dumptruck (4:31)
+13. Dear Ol' Dad (3:10)
+14. St. Andrew's Fall (3:25)
+15. Working Class Hero (2:57)
+16. Soup (3:12)
+17. Paper Scratcher (5:18)
+18. Change (3:48)
+19. Time (5:11)
+
+FFP:
+bmelon1995-10-17t01.flac:d4ee682e6767198eab1a8352d32b9561
+bmelon1995-10-17t02.flac:e9d74425d80385f0a964af00eaf7040c
+bmelon1995-10-17t03.flac:3f9e52958bfe545f6b634435308bed89
+bmelon1995-10-17t04.flac:df0ad0dd66f106b36fc89c1ba9f6f126
+bmelon1995-10-17t05.flac:aa4126d18d53b34d6083ebe6e1ef78eb
+bmelon1995-10-17t06.flac:ae27594b5802988140706199ed46bf84
+bmelon1995-10-17t07.flac:3d6e8f39284fbbda76833f6a79a5e097
+bmelon1995-10-17t08.flac:fda63e1eb53fc71e8299378e5d465415
+bmelon1995-10-17t09.flac:bf7c2d4f4e110ab0c9b62ada988d132e
+bmelon1995-10-17t10.flac:3535659a972f93433e77dd85bc22ad21
+bmelon1995-10-17t11.flac:1f2aed5224f476897056ad5da8aeeb7d
+bmelon1995-10-17t12.flac:a0c43391da998ee1291ab9e96b5d5453
+bmelon1995-10-17t13.flac:4c1de92015c49d4584a00af501f638aa
+bmelon1995-10-17t14.flac:908b0d47ee28447db7484f6ecc9f66ed
+bmelon1995-10-17t15.flac:c7a6fc479e28c379c0737a39ef2ede96
+bmelon1995-10-17t16.flac:f18b4811d1526ab26dd76354ad7c89b7
+bmelon1995-10-17t17.flac:a5ddc03d9c12bb0e8a9171d0dba3ff8f
+bmelon1995-10-17t18.flac:3f5a295c30d287607fbb66a4ea7801e4
+bmelon1995-10-17t19.flac:1a543648214e0c33bce51ff9547ac357
+
+len:
+    length     expanded size   cdr  WAVE problems filename
+     4:34.47       48444188    ---   --   ---xx   bmelon1995-10-17t01.flac
+     3:11.74       33866492    ---   --   ---xx   bmelon1995-10-17t02.flac
+     2:53.03       30524300    ---   --   ---xx   bmelon1995-10-17t03.flac
+     5:08.01       54333596    ---   --   ---xx   bmelon1995-10-17t04.flac
+     3:21.00       35456444    ---   --   ---xx   bmelon1995-10-17t05.flac
+     3:41.00       38984444    ---   --   ---xx   bmelon1995-10-17t06.flac
+     1:17.00       13582844    ---   --   ---xx   bmelon1995-10-17t07.flac
+     4:28.05       47287004    ---   --   ---xx   bmelon1995-10-17t08.flac
+     3:03.00       32281244    ---   --   ---xx   bmelon1995-10-17t09.flac
+     3:56.02       41635148    ---   --   ---xx   bmelon1995-10-17t10.flac
+     2:50.73       30159740    ---   --   ---xx   bmelon1995-10-17t11.flac
+     4:31.05       47816204    ---   --   ---xx   bmelon1995-10-17t12.flac
+     3:10.01       33518396    ---   --   ---xx   bmelon1995-10-17t13.flac
+     3:25.74       36336092    ---   --   ---xx   bmelon1995-10-17t14.flac
+     2:57.02       31227548    ---   --   ---xx   bmelon1995-10-17t15.flac
+     3:12.01       33871196    ---   --   ---xx   bmelon1995-10-17t16.flac
+     5:18.00       56095244    ---   --   ---xx   bmelon1995-10-17t17.flac
+     3:48.03       40226300    ---   --   ---xx   bmelon1995-10-17t18.flac
+     5:11.03       54867500    ---   --   ---xx   bmelon1995-10-17t19.flac
+    69:57.69      740513924 B                     (totals for 19 files, 0.5883 overall compression ratio)
+
+Notes: This is the version seeded on STG in the summer of 2004. This is the last known recording of Blind Melon.
+
+******************************************
+DO NOT SELL!!!
+DO NOT ENCRAP TO MP3 OR OTHER LOSSY FORMATS!!!
+****************************************** 

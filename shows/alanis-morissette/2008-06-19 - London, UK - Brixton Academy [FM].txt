@@ -1,0 +1,22 @@
+Alanis Morissette
+
+
+June 19, 2008, Carling Academy, Brixton, London, UK
+
+
+01 - Moratorium Part 1
+02 - Uninvited
+03 - Hand In My Pocket
+04 - In Praise Of The Vulnerable Man
+05 - Moratorium Part 2
+06 - You Oughta Know
+07 - Tapes
+08 - Ironic
+09 - Thank U
+
+
+Broadcast: 3sat, January 1, 2009, 04:45AM
+
+Running time: 44m:29s
+
+Analog TV > JVC HR-J638 > Audio Out > Monster Interlink 100 Minijack Cable > Sony PCM-D50 (44.1kHz/16Bit, Limiter off, Low Cut Filter off, SBM off) > Copy Wave File to PC via USB Connection > Edit with Adobe Audition 3 (Normalize to 96%, Fade-In and Fade-Out, Split) > FLAC 8 with TLH > Tag with Tagscanner

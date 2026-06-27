@@ -54,7 +54,8 @@ const ARTIST_DATA = {
       "venue": "Palladium \"The Medicine Show\"",
       "notes": "",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1992-07-25 - Hollywood, CA - Palladium - The Medicine Show [AUD].txt"
     },
     {
       "year": 1992,
@@ -93,7 +94,8 @@ const ARTIST_DATA = {
       "venue": "The Peppermint Club",
       "notes": "unk",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1992-11-11 - Virginia Beach, VA - The Peppermint Club [AUD].txt"
     },
     {
       "year": 1993,
@@ -117,9 +119,10 @@ const ARTIST_DATA = {
       "state": "PA",
       "location": "Pittsburgh, PA",
       "venue": "AJ Palumbo Center",
-      "notes": "Sony Walkman · unk",
+      "notes": "Sony Walkman \u00b7 unk",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1993-03-10 - Pittsburgh, PA - AJ Palumbo Center [AUD].txt"
     },
     {
       "year": 1993,
@@ -132,7 +135,8 @@ const ARTIST_DATA = {
       "venue": "Floodzone",
       "notes": "unk",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1993-03-16 - Richmond, VA - Floodzone [AUD].txt"
     },
     {
       "year": 1993,
@@ -145,7 +149,8 @@ const ARTIST_DATA = {
       "venue": "Wetland's Preserve",
       "notes": "",
       "version": "SBD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1993-03-25 - New York, NY - Wetland's Preserve [SBD].txt"
     },
     {
       "year": 1993,
@@ -158,7 +163,8 @@ const ARTIST_DATA = {
       "venue": "The Sports Palace",
       "notes": "unk",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1993-04-24 - Mexico City, Mexico - The Sports Palace [AUD].txt"
     },
     {
       "year": 1993,
@@ -169,7 +175,7 @@ const ARTIST_DATA = {
       "state": "VT",
       "location": "Burlington, VT",
       "venue": "Club Metronome",
-      "notes": "unk · mike d transfer · inc",
+      "notes": "unk \u00b7 mike d transfer \u00b7 inc",
       "version": "SBD",
       "format": "FLAC"
     },
@@ -195,7 +201,7 @@ const ARTIST_DATA = {
       "state": "MN",
       "location": "Minneapolis, MN",
       "venue": "First Avenue",
-      "notes": "Nakamichi 700 · unk",
+      "notes": "Nakamichi 700 \u00b7 unk",
       "version": "AUD",
       "format": "FLAC"
     },
@@ -208,9 +214,10 @@ const ARTIST_DATA = {
       "state": "WI",
       "location": "Milwaukee, WI",
       "venue": "Marcus Amphitheater",
-      "notes": "Shure SM98 · ko",
+      "notes": "Shure SM98 \u00b7 ko",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1993-08-14 - Milwaukee, WI - Marcus Amphitheater (SM98) [AUD].txt"
     },
     {
       "year": 1993,
@@ -221,9 +228,10 @@ const ARTIST_DATA = {
       "state": "MI",
       "location": "Clarkston, MI",
       "venue": "Pine Knob Amphitheatre",
-      "notes": "ANA(M) · unk",
+      "notes": "ANA(M) \u00b7 unk",
       "version": "AUD",
-      "format": "FLAC 24"
+      "format": "FLAC 24",
+      "textFile": "1993-08-16 - Clarkston, MI - Pine Knob [AUD1].txt"
     },
     {
       "year": 1993,
@@ -234,9 +242,10 @@ const ARTIST_DATA = {
       "state": "NY",
       "location": "Cheektowaga, NY",
       "venue": "Blind Mellon's",
-      "notes": "unk · bob hamilton",
+      "notes": "unk \u00b7 bob hamilton",
       "version": "AUD",
-      "format": "FLAC 24"
+      "format": "FLAC 24",
+      "textFile": "1993-08-18 - Cheektowaga, NY - Blind Mellon's (unk) (bob hamilton) [AUD24].txt"
     },
     {
       "year": 1993,
@@ -249,7 +258,8 @@ const ARTIST_DATA = {
       "venue": "The Gorge",
       "notes": "unk",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1993-09-05 - George, WA - The Gorge [AUD].txt"
     },
     {
       "year": 1993,
@@ -273,9 +283,10 @@ const ARTIST_DATA = {
       "state": "TX",
       "location": "Dallas, TX",
       "venue": "Dallas County Convention Center",
-      "notes": "DAT(M) · Sony PCM R-300 · smores",
+      "notes": "DAT(M) \u00b7 Sony PCM R-300 \u00b7 smores",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1993-10-16 - Dallas, TX - Dallas County Convention Center [AUD].txt"
     },
     {
       "year": 1993,
@@ -299,9 +310,10 @@ const ARTIST_DATA = {
       "state": "NV",
       "location": "Las Vegas, NV",
       "venue": "Huntridge Theater",
-      "notes": "ANA(M) · Sony WM-D6 · scott tillotson",
+      "notes": "ANA(M) \u00b7 Sony WM-D6 \u00b7 scott tillotson",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1993-10-24 - Las Vegas, NV - Huntridge Theater (Sony) [AUD].txt"
     },
     {
       "year": 1993,
@@ -314,7 +326,8 @@ const ARTIST_DATA = {
       "venue": "Elysee Montmartre",
       "notes": "unk",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1993-11-16 - Paris, France - Elysee Montmartre [AUD].txt"
     },
     {
       "year": 1993,
@@ -366,7 +379,8 @@ const ARTIST_DATA = {
       "venue": "Roseland Ballroom *Hard Road to the Top",
       "notes": "",
       "version": "SBD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1994-02-17 - New York, NY - Roseland Ballroom [SBD].txt"
     },
     {
       "year": 1994,
@@ -377,9 +391,10 @@ const ARTIST_DATA = {
       "state": "NY",
       "location": "New York, NY",
       "venue": "Roseland Ballroom",
-      "notes": "Sony ECM-909a · rob",
+      "notes": "Sony ECM-909a \u00b7 rob",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1994-02-17 - New York, NY - Roseland Ballroom (Sony ECM-909a) (rob) [AUD].txt"
     },
     {
       "year": 1994,
@@ -392,7 +407,8 @@ const ARTIST_DATA = {
       "venue": "Roseland Ballroom",
       "notes": "",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1994-02-17 - New York, NY - Roseland Ballroom - Hard Road to the Top [AUD].txt"
     },
     {
       "year": 1994,
@@ -403,7 +419,7 @@ const ARTIST_DATA = {
       "state": "CT",
       "location": "New Britain, CT",
       "venue": "The Sting",
-      "notes": "DAT(M) · ted dralle",
+      "notes": "DAT(M) \u00b7 ted dralle",
       "version": "SBD",
       "format": "FLAC"
     },
@@ -429,9 +445,10 @@ const ARTIST_DATA = {
       "state": "NY",
       "location": "Saugerties, NY",
       "venue": "Winston Farm",
-      "notes": "Woodstock · M · SS-DSM-6P · dennis orr",
+      "notes": "Woodstock \u00b7 M \u00b7 SS-DSM-6P \u00b7 dennis orr",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1994-08-13 - Saugerties, NY - Winston Farm - Woodstock 94 [AUD].txt"
     },
     {
       "year": 1994,
@@ -442,9 +459,10 @@ const ARTIST_DATA = {
       "state": "IA",
       "location": "Ames, IA",
       "venue": "Cyclone Stadium",
-      "notes": "ANA(M) · SS-DSM-6P · steve hagar",
+      "notes": "ANA(M) \u00b7 SS-DSM-6P \u00b7 steve hagar",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1994-10-01 - Ames, IA - Cyclone Stadium [AUD].txt"
     },
     {
       "year": 1995,
@@ -483,7 +501,8 @@ const ARTIST_DATA = {
       "venue": "First Avenue",
       "notes": "unk",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1995-09-29 - Minneapolis, MN - First Avenue [AUD].txt"
     },
     {
       "year": 1995,
@@ -509,7 +528,8 @@ const ARTIST_DATA = {
       "venue": "Glenn Miller Ballroom",
       "notes": "unk",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1995-10-17 - Boulder CA - Glenn Miller Ballroom [AUD].txt"
     },
     {
       "year": 2007,
@@ -520,7 +540,7 @@ const ARTIST_DATA = {
       "state": "IL",
       "location": "Chicago, IL",
       "venue": "Mancow Radio Show",
-      "notes": "unk · 311guy",
+      "notes": "unk \u00b7 311guy",
       "version": "FM",
       "format": "FLAC"
     },
@@ -533,9 +553,10 @@ const ARTIST_DATA = {
       "state": "NE",
       "location": "Omaha, NE",
       "venue": "Slowdown",
-      "notes": "Peluso CEMC6 · unk",
+      "notes": "Peluso CEMC6 \u00b7 unk",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "2008-03-22 - Omaha, NE - Slowdown (Peluso CEMC6) (unk) [AUD].txt"
     },
     {
       "year": 2008,
@@ -546,7 +567,7 @@ const ARTIST_DATA = {
       "state": "IL",
       "location": "Sauget, IL",
       "venue": "POPS",
-      "notes": "unk · ryan conway",
+      "notes": "unk \u00b7 ryan conway",
       "version": "AUD",
       "format": "FLAC"
     },
@@ -559,7 +580,7 @@ const ARTIST_DATA = {
       "state": "MO",
       "location": "Kansas City, MO",
       "venue": "Beaumont Club",
-      "notes": "unk · ryan conway",
+      "notes": "unk \u00b7 ryan conway",
       "version": "AUD",
       "format": "FLAC"
     },
@@ -572,7 +593,7 @@ const ARTIST_DATA = {
       "state": "TX",
       "location": "Houston, TX",
       "venue": "Meridian Blue Room",
-      "notes": "DPA 4023 · prof_peabody",
+      "notes": "DPA 4023 \u00b7 prof_peabody",
       "version": "AUD",
       "format": "FLAC"
     },
@@ -585,9 +606,10 @@ const ARTIST_DATA = {
       "state": "NV",
       "location": "Las Vegas, NV",
       "venue": "Zia Records",
-      "notes": "In · cps · M · Akg CK91 · cps",
+      "notes": "In \u00b7 cps \u00b7 M \u00b7 Akg CK91 \u00b7 cps",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "2008-04-30 - Las Vegas, NV - Zia Records [AUD].txt"
     },
     {
       "year": 2008,
@@ -598,9 +620,10 @@ const ARTIST_DATA = {
       "state": "NV",
       "location": "Las Vegas, NV",
       "venue": "Jillian's",
-      "notes": "WAV(M) · Studio Projects C4 · cps",
+      "notes": "WAV(M) \u00b7 Studio Projects C4 \u00b7 cps",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "2008-04-30 - Las Vegas, NV - Jillian's - WAV(M) (Studio Projects C4) (cps) [AUD].txt"
     },
     {
       "year": 2008,
@@ -611,9 +634,10 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "San Juan Capistrano, CA",
       "venue": "The Coach House",
-      "notes": "CSB · faninor",
+      "notes": "CSB \u00b7 faninor",
       "version": "AUD",
-      "format": "FLAC 24"
+      "format": "FLAC 24",
+      "textFile": "2008-05-03 - San Juan Capistrano, CA - The Coach House (CSB) (faninor) [AUD24].txt"
     },
     {
       "year": 2008,
@@ -624,7 +648,7 @@ const ARTIST_DATA = {
       "state": "TX",
       "location": "Dallas, TX",
       "venue": "House Of Blues",
-      "notes": "DPA 4021 · ofotd",
+      "notes": "DPA 4021 \u00b7 ofotd",
       "version": "AUD",
       "format": "FLAC"
     },
@@ -637,7 +661,7 @@ const ARTIST_DATA = {
       "state": "IL",
       "location": "Chicago, IL",
       "venue": "The Metro",
-      "notes": "DPA 4022 · marke",
+      "notes": "DPA 4022 \u00b7 marke",
       "version": "AUD",
       "format": "FLAC"
     },
@@ -650,7 +674,7 @@ const ARTIST_DATA = {
       "state": "IL",
       "location": "Decatur, IL",
       "venue": "Decatur Celebration",
-      "notes": "SP-CMC-8 · foosman1",
+      "notes": "SP-CMC-8 \u00b7 foosman1",
       "version": "AUD",
       "format": "FLAC"
     }

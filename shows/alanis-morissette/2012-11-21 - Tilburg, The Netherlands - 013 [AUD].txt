@@ -1,0 +1,117 @@
+Band: Alanis Morissette
+
+Date: tuesday november 21, 2012
+
+Venue: 013 Tilburg Netherlands
+
+My location at the venue: about 20ft from left stack
+
+Date of first upload at The Traders Den: 2013-02-20
+
+Editor: grigio <- Thank U...
+
+
+
+Lineage: 
+
+Church Audio CA-11 Croakie Cardioid Microphones
+Sony PCM D-50 Linear PCM Recorder Wav24-bit 48KHZ.
+Sony Memory Stick PRO-HG Duo 8GB
+To pc via USB with Hama card reader
+via WeTransfer to Grigio
+Har-Bal v2.3
+Wavelab v6.10 Build 340 (Effects: Magneto 1-5, D82 Sonic Maximizer, Waves L3 Ultramaximizer)
+via WeTransfer back to me
+Fade in and out, separation of songs with Audacity 2.0
+Wav to Flac with Audacity 2.0
+Torrent created with TLH
+TTD
+You 
+
+
+
+Setlist: 
+
+01. I Remain
+02. Woman Down
+03. All I Really Want
+04. You Learn
+05. Guardian
+06. Perfect
+07. Receive
+08. Forgiven
+09. So Pure
+10. Ironic
+11. Havoc
+12. Head Over Feet
+14. 21 Things I Want In A Lover
+15. Lens
+16. I Remain
+17. You Oughta Know
+18. Numb
+19. Not The Doctor
+20. Hands Clean
+21. Hand In My Pocket
+22. Thank U
+
+
+
+Never buy or sell these recordings...
+
+Share and trade as you wish but do include the text file and mp3 is not for trading live music...
+
+Support your artists, buy their merchandise and go see them live...!
+
+I'll seed this torrent till it's on the tracker.... After that it's up to you...!
+
+A little thanks goes a long way...!
+
+md5
+
+113e7f5f5b7b7e0e714b6811c80a8fd4 *01 I Remain.flac
+1c48089d5a3d02d705ed3c7675b17e4e *02 Woman Down.flac
+1e679b0218058295d4470fe7e2e0d801 *03 All I Really Want.flac
+0fd2700641f206081b976213d78f6766 *04 You Learn.flac
+2e511fce57cbb0f222a54cf4712acede *05 Guardian.flac
+98cd0c4e98c824a9d9c0f209c0efab9c *06 Perfect.flac
+cfeade0bfe34ade40b82c686eec4263f *07 Receive.flac
+5462534c9c5fb6561f447533e0b22464 *08 Forgiven.flac
+3c8998807496770a60ecd522175e2a74 *09 So Pure.flac
+04ba0e8cebd785d8f535aca00e9023e8 *10 Ironic.flac
+c69e314c7ee269c22fd794c744b346b5 *11 Havoc.flac
+c14c1a661f59fce8572ad3fd1e7385e7 *12 Head Over Feet.flac
+3c0e1153211dc672f7273a9706d41646 *13 21 Things I Want In A Lover.flac
+1d58d6fc2fc0fa2c005f47c6e30dfbbe *14 Lens.flac
+b786f24b6314c1f44d15900411dd9a09 *15 I Remain.flac
+cd495d908b42328e8ab4c211361e3c4c *16 Uninvited.flac
+7891975a246ba98a04cb49186a8ab14d *17 You Oughta Know.flac
+3c8df014b0c7300f655c8631ed90e84b *18 Numb.flac
+1e76833b4a98057af276842203b6851d *19 Not The Doctor.flac
+c79809af75dba62ae4757aa8bf351bf2 *20 Hands Clean.flac
+f5679f760d4b8843937b97c2c7e6dcd7 *21 Hand In My Pocket.flac
+a00eda8ee4d378be8f077546db0d4586 *22 Thank U.flac
+
+ffp
+
+01 I Remain.flac:413c1bb30968875762e56342cce2d4a4
+02 Woman Down.flac:4e5f07210e6f9a89dda2771c78631fd8
+03 All I Really Want.flac:8c9191f7bd662ba3a65dcaacceba5ef1
+04 You Learn.flac:85e0489efd8223701b14aa77379222d1
+05 Guardian.flac:d693be6b487694a9b0acd883b8207559
+06 Perfect.flac:9a6a78dd4d02231fbf156005bcf9a23c
+07 Receive.flac:7c874cb2f0a2540b0861df5aa7a087de
+08 Forgiven.flac:698456a2681227d67827f1922c627fc0
+09 So Pure.flac:d4e7c2b9f648b9219f6b3287c01085b3
+10 Ironic.flac:f75cbbdb91187c24aa34c00fd970f745
+11 Havoc.flac:0ac976712b45bdb7e56bb5175558fc38
+12 Head Over Feet.flac:ee6131175fd7a089f150e43232b17118
+13 21 Things I Want In A Lover.flac:8a977fd83613200c8e2dc437e08ee65b
+14 Lens.flac:fdf99b2279c8862f0dc7e56cf73bb062
+15 I Remain.flac:31fdf976cf8592ba494007e885cd2dc7
+16 Uninvited.flac:897145d6edee97403e44f8a012612914
+17 You Oughta Know.flac:0d5aba53c9b4417627730b0c41322c4d
+18 Numb.flac:25a60e764b95f757d395ce0208bbf81a
+19 Not The Doctor.flac:417262266eec07de126537c6b858a368
+20 Hands Clean.flac:0dd535522fa736867f82ad2b8914db21
+21 Hand In My Pocket.flac:d27fccbff1976417d760ee7d8407b37e
+22 Thank U.flac:fad50f520a9f7df5b96f235fc452dc54

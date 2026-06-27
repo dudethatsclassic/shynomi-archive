@@ -1,0 +1,42 @@
+ALANIS MORISSETTE
+"Jagged Little Anniversary"
+Rogers Place, Edmonton, AB, Canada // July 28, 2022
+
+Recorded on location (Floor section, row 36, left of center) by inu-liger
+
+Lineage: Live sound output > Sound Professionals MS-BMC-3 Master Series Premium binaural microphones w/ SP-EMC-3 Croakie Eyeglass Retainer > Microphone Madness MM-CBM-Mini miniature battery module > Roland R-05 (PCM @ 96/24) > PC > GoldWave (editing out pre-concert/post-concert bits, track-splitting) > WAV > foobar2000 w/ flac.exe > Batch downconversion to 44.1/16 > FLAC Level 8
+
+Quality: EX (*some faint clipping in spots due to input gain running a little hotter than expected)
+
+-
+
+SETLIST
+
+Intro (Video Retrospective)
+All I Really Want
+Hand In My Pocket
+Right Through You
+You Learn
+Segue 1 (Hands Clean)
+Forgiven
+Segue 2 (Everything)
+Mary Jane
+Segue 3 (Diagnosis)
+Reasons I Drink
+Head Over Feet
+Segue 4 (So Unsexy)
+Ablaze
+Segue 4 ½ (Nemesis)
+Perfect
+Segue 5 Mike (Losing The Plot)
+Wake Up
+Not The Doctor
+Ironic
+Segue 6 (Sympathetic Character)
+Smiling
+Segue 7 (I Remain)
+You Oughta Know
+Encore
+Your House
+Uninvited
+Thank U

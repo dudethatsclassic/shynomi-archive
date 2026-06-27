@@ -1,0 +1,28 @@
+*Liberated Bootleg*
+
+Artist  : Alanis Morissette
+Title   : Hard to Swallow
+Ref     : KTS 515
+
+Tracks  :
+01. Wake Up                      05:12
+02. You Learn                    04:13
+03. Not the Doctor               06:12
+04. Your House                   03:00
+05. Headover Feet                04:01
+06. Forgiven                     04:18
+07. All I Really Want            06:36
+08. Hand in My Pocket            04:30
+09. You Oughta Know              05:03
+10. All I Really Want            06:59
+11. Right Through You            03:30
+
+Total   :                          53:24
+Infos   : Tracks 01-06 : Live in Los Angeles, CA on 12/11/95
+        Tracks 07-09 : Live in Germany on 11/95
+        Tracks 10-11 : Live in Amsterdam, Nl on 10/95
+
+Lineage : Silver CD > Sound Juicer (Ubuntu Dapper 6.06 beta) > flac
+
+Extracted by Julien DELASSAUX (just@let-it.be / http://obcd.fr)
+Seeded on TheTradersDen.org

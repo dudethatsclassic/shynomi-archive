@@ -1,0 +1,15 @@
+    length     expanded size   cdr  WAVE problems filename
+     4:07.50       43688444    ---   --   ---xx   01-She Belongs To Me.flac
+     5:33.32       58816508    ---   --   ---xx   02-To Ramona.flac
+     6:19.53       66980300    ---   --   ---xx   03-Gates of Eden.flac
+     5:27.57       57816908    ---   --   ---xx   04-It's All Over Now, Baby Blue.flac
+     9:49.24      103956092    ---   --   ---xx   05-Desolation Now.flac
+     4:01.44       42615932    ---   --   ---xx   06-Love Minus ZeroNo Limit.flac
+     5:43.31       60578156    ---   --   ---xx   07-Mr. Tambourine Man.flac
+     4:39.50       49333244    ---   --   ---xx   08-I Don't Believe You (She Acts Like We Never Have Met).flac
+     5:15.68       55725980    ---   --   ---xx   09-Just Like Tom Thumb's Blues.flac
+     3:14.69       34383932    ---   --   ---xx   10-From a Buick Six.flac
+     4:48.41       50899676    ---   --   ---xx   11-Maggie's Farm.flac
+     6:43.33       71166860    ---   --   ---xx   12-Ballad of a Thin Man.flac
+     6:36.65       70007324    ---   --   ---xx   13-Like a Rolling Stone.flac
+    72:22.17      765969356 B                     (totals for 13 files, 0.5273 overall compression ratio)
