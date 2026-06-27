@@ -1,0 +1,48 @@
+Guster
+February 4th, 2000
+Webster Theatre, Hartford, CT
+
+Master creation: 
+Shure VP88+SBD>Mackie 1202-VLZ>D8
+by Dave Mallick [greenone@bluestraveler.net]
+rig provided by Mike Corcoran
+
+SHNs were made: 
+DA-20>U2A>Sound Studio 2.1.1b3>AIFF>xACT 1.3d2
+by Dave Mallick [greenone@bluestraveler.net] 
+
+CD 1: [43:00.37] (minutes:seconds.frames)
+01. What You Wish For         [05:27.72]
+02. Airport Song              [03:36.65]
+03. So Long                   [03:39.43]
+04. Window                    [03:18.17]
+05. I Spy                     [05:03.35]
+06. Fa Fa                     [05:20.66]
+07. X-Ray Eyes                [05:47.11]
+08. Center Of Attention       [04:12.72]
+09. All The Way Up To Heaven  [06:33.31]
+
+CD 1: [46:36.29]
+01. Great Escape              [04:44.42]
+02. Two Points For Honesty    [05:04.48]
+03. Mona Lisa*                [03:45.12]
+04. Bury Me                   [03:26.39]
+05. Either Way                [05:33.21]
+06. Barrel Of A Gun           [04:08.14]
+07. Demons                    [09:09.40]
+08. E: Happier                [03:50.25]
+09.    Melanie                [04:17.11]
+10.    California Dreamin'    [02:37.02]
+
+* sung by Scott Moorman, a fan who had emailed the band asking to sing 
+  a song to his girlfriend
+
+Notes:
+- Allan Chen converted this show from my master in early 2000 but I was 
+  unable to find any copies, so I reconverted it for distribution.
+- Right channel soundboard feed slowly fades throughout the first few 
+  tracks, then becomes louder midway through d1t07. By d1t09 it fades again.
+- "X-Ray Eyes" preceded by "What A Feeling" tease.
+- "All The Way Up To Heaven" preceded by a "Kokomo" tease.
+- PA crackles several times early in d2t06; Ryan has the crowd sing "YMCA" 
+  while the crew fixes it after the song is over.

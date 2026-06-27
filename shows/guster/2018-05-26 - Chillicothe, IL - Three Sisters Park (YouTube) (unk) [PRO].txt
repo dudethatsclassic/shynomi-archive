@@ -1,0 +1,33 @@
+Guster
+May 26th, 2018
+Summer Camp festival
+Three Sisters Park, Chillicothe, IL
+
+Master:
+unknown
+
+Conversion:
+yt-dlp > wav > Sound Studio 4.11.0 > xACT 2.57 > FLAC
+by Dave Mallick
+
+01. Long Night                   [05:41.293]
+02. The Captain                  [03:25.265]
+03. Manifest Destiny             [03:57.014]
+04. Doin' It By Myself           [04:10.357]
+05. Ramona                       [03:06.678]
+06. Satellite                    [05:19.341]
+07. Come Downstairs & Say Hello  [06:14.832]
+08. Barrel of a Gun              [04:48.999]
+09. Ruby Falls                   [06:27.389]
+10. I Spy                        [03:10.841]
+11. Never Coming Down            [03:57.080]
+12. Bad Bad World                [04:50.298]
+13. Airport Song                 [05:09.007]
+14. This Could All Be Yours      [03:55.773]
+                          Total: [64:14.167]
+ 
+I ripped this directly to audio format from YouTube on December 7th,
+2025. Within two days the original video had been set to private. It was
+a professional multi-camera shot of their sparsely-attended 4:45 set.
+
+Original URL: https://www.youtube.com/watch?v=GXrOvJGr_is

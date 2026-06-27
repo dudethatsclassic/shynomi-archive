@@ -1,0 +1,38 @@
+Guster
+November 25th, 2011
+Wellmont Theatre, Montclair, NJ
+
+Master:
+Elation KM201's>Lunatec V3>Microtrack 24/96 @ 24-bit, 48kHz
+mics XY at 8' high, centered behind the soundboard
+by Dave Mallick
+
+Conversion:
+WAV>Sound Studio 4.2>xACT 2.13>FLAC
+by Dave Mallick
+
+01. What You Wish For            [04:23.889]
+02. This Could All Be Yours      [04:02.758]
+03. Manifest Destiny             [03:32.881]
+04. Architects & Engineers       [03:06.518]
+05. Hercules                     [03:25.641]
+06. Homecoming King              [05:01.840]
+07. Two Points for Honesty       [04:27.344]
+08. Bad Bad World                [04:53.261]
+09. Demons                       [04:28.062]
+10. On the Ocean                 [04:30.457]
+11. Come Downstairs & Say Hello  [06:27.597]
+12. Do You Love Me               [03:58.618]
+13. Ramona                       [03:13.146]
+14. Satellite                    [04:34.069]
+15. banter: Water Song           [02:46.698]
+16. Red Oyster Cult              [03:54.567]
+17. Hang On                      [04:46.164]
+18. Airport Song                 [05:09.006]
+19. Barrel Of A Gun              [05:34.760]
+20. E1: Mona Lisa                [08:48.059]
+21.     Careful                  [03:36.986]
+22.     What You Call Love       [03:51.549]
+23.     Happier                  [05:12.632]
+24. E2: Jesus on the Radio       [02:43.513]
+                         Total: [106:30.016]

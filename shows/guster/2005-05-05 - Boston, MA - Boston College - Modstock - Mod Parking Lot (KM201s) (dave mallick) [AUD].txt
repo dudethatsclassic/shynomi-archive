@@ -1,0 +1,36 @@
+Guster
+May 5th, 2005
+Modstock, Mod Parking Lot, Boston College, Boston, MA
+
+Master:
+Elation KM201's>Lunatec V2>Graham-Patten ADC-20>Sony D8
+Mics X-Y, left corner of soundboard
+by Dave Mallick [greenone@bluestraveler.net]
+
+Conversion:
+Tascam DA-20>Emagic 2|6>Sound Studio 2.1.1b3>AIFF>xACT 1.4d23
+by Dave Mallick [greenone@bluestraveler.net]
+
+Disc 1 [74:08.57] (minutes:seconds.frames)
+01. Demons                      [05:14.34]
+02. Barrel Of A Gun             [04:51.16]
+03. Backyard                    [03:34.20]
+04. I'm Through                 [05:03.33]
+05. Amsterdam                   [05:32.73]
+06. I Spy                       [04:34.52]
+07. Come Downstairs & Say Hello [07:14.74]
+08. G Major                     [03:50.36]
+09. Careful                     [05:50.36]
+10. Window*                     [04:42.58]
+11. You're My Satellite         [04:41.47]
+12. Airport Song                [03:59.29]
+13. Happier                     [05:33.69]
+14. The Captain                 [03:59.57]
+15. Fa Fa                       [05:24.23]
+
+* with Emily on violin
+
+Notes:
+- Show was outdoors and quite windy, so there is occasionally some low-end
+  rumble despite the wind screens, and high-end warble as well.
+- Tick at 3:06 of track 6.

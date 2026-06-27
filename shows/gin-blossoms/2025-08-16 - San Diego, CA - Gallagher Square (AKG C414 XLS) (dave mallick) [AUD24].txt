@@ -1,0 +1,32 @@
+Gin Blossoms
+August 16th, 2025
+Gallagher Square, San Diego, CA
+
+Master:
+AKG C414 XLS (hyper) > Lunatec V3 > Tascam DR-100 mkIII (24/48)
+Recorded from the lawn at the corner of the FOH area, left of center
+by Dave Mallick
+
+Conversion:
+Tascam DR-100 mkIII > WAV > Sound Studio 4.10.1 > xACT 2.57 > FLAC
+by Dave Mallick
+
+01. Follow You Down          [06:01.882]
+02. Hold Me Down             [05:30.302]
+03. Mrs. Rita                [04:24.393]
+04. Lost Horizons            [04:20.655]
+05. As Long as It Matters    [05:50.515]
+06. Until I Fall Away        [05:34.349]
+07. Rocket Man *             [05:06.226]
+08. Hands Are Tied #         [06:59.684]
+09. Found Out About You      [04:01.930]
+10. Allison Road             [03:25.308]
+11. Hey Jealousy             [04:38.282]
+12. Til I Hear It From You   [04:42.857]
+                      Total: [60:36.383]
+
+* with Chan Kinchla (Blues Traveler) on guitar, Ben Wilson (Blues
+ Traveler) on keys/vocals, Tad Kinchla (Blues Traveler) on bass, 
+ Eric Schenkman (Spin Doctors) on guitar, Chris Barron (Spin Doctors) 
+ on vocals
+# with Ben Wilson (Blues Traveler) on keys

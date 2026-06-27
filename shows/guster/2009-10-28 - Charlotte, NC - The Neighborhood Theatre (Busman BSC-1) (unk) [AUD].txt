@@ -1,0 +1,44 @@
+Guster
+10-28-2009
+Neighborhood Theater
+Charlotte, NC
+
+Location:  ROC  10' 
+Source: Busman BSC1->K4(subcards)->psp2>HD-P2(24/48)
+Transfer: Sony Soundforge(+6 db, resample 16/44.1, fades in/out)->flac lvl 6
+
+Set I
+G Major
+Backyard
+Satellite
+This Could All Be Yours*
+Come Downstairs and Say Hello
+One Man Wrecking Machine
+Diane
+Jonah
+Rocketship
+Piano Stool Adjusting Song
+Manifest Destiny
+Red Oyster Cult->
+Don't Fear the Reaper
+The Captain
+
+Set II (Complete Lost and Gone Forever Album)
+What You Wish For
+Barrel of a Gun
+Either Way 
+FA FA
+I Spy
+Center of Attention
+All the Way Up to Heaven
+Happier
+So Long
+2 Points for Honesty
+Rainy Day
+Encore Break
+E: Hang On
+Airport
+Jesus on the Radio &
+
+*New Song, First Time Played
+&- Completely Acoustic- I had to hike the gain on this to pick it up.  The crowd noise at the end distorts for a couple of seconds.

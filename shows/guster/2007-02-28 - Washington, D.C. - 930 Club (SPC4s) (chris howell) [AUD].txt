@@ -1,0 +1,69 @@
+Guster
+9:30 Club
+Washington D.C.
+
+February 28, 2007
+
+Taper: Chris Howell <tapelive@foo.ro>
+Location : Up against left side of SBD wall
+Source : SPC4's(cards, DIN, ~9')> BMP2+UA-5 > MT2496 @ 16bit/44.1khz
+Transfer : MT2496>USB>Powerbook G4
+Processing: Sound Studio 3(normalized to -1db),   
+Conversion : Sound Studio 3(tracking)>xACT 1.57(level 8)
+
+01 Ramona                        03:28.00
+02 Satellite                     04:39.00
+03 Barrel of a Gun               04:36.00
+04 Brazil                        04:40.00
+05 One Man Wrecking Machine      03:47.00
+06 Red Oyster Cult               04:15.00
+07 Demons                        04:48.00
+08 Captain                       04:15.00
+09 X Ray Eyes                    03:49.00
+10 Come Downstairs and Say Hello 07:17.00
+11 What You Wish For             04:05.00
+12 Careful                       03:58.00
+13 Ruby Falls                    06:41.00
+14 Amsterdam                     04:03.00
+15 Manifest Destiny              04:00.00
+16 Airport Song                  06:01.00
+
+--Encore--
+17 Two Points for Honesty *      03:07.00
+18 Keep It Together              05:22.00
+19 New Underground               03:42.00
+20 Happier                       05:39.38
+21 Jesus on the Radio +          02:20.38
+
+Total: 94:33.00 
+
+
+Notes:
+* Ryan had the crowd sing the first part to "earn" the encore
++ Unplugged - Also my levels mysteriously dropped part way through the song
+
+
+
+Fingerprints:
+guster2007-02-28-t01.flac:7a3d7c4f626657556c78d25696939257
+guster2007-02-28-t02.flac:68a57120cd97185d63f0b544028a8653
+guster2007-02-28-t03.flac:0b2d91631361a569451b40e35063abc2
+guster2007-02-28-t04.flac:f8142b7ab6be9a245e51499ba08ac66d
+guster2007-02-28-t05.flac:8dc8652e29f8e57a589c6cfd41440c36
+guster2007-02-28-t06.flac:80258bdb7e7c9b2d5ebe31b95f2366e5
+guster2007-02-28-t07.flac:430429bace407165901cdf3cfef6de35
+guster2007-02-28-t08.flac:f95f313b0e0eb96421e375a8f2a9641d
+guster2007-02-28-t09.flac:6c038e3adff54a4cbc7412e12354742b
+guster2007-02-28-t10.flac:6d90946f8160d1ddf00a17c0048a0d54
+guster2007-02-28-t11.flac:688b481e82e6840ba8bb42b86726a6f8
+guster2007-02-28-t12.flac:16c4278b8ba7b5a0f52e08e916297157
+guster2007-02-28-t13.flac:2069c13ee73dd0604f1fb3b558f8eeca
+guster2007-02-28-t14.flac:a0052dff0baf7f6eddd2cf9449e8e848
+guster2007-02-28-t15.flac:f32c3d0652e215daa1bff0a13b638e09
+guster2007-02-28-t16.flac:ca0982fd8d912364b3e079d05fbb2386
+guster2007-02-28-t17.flac:e785f0bef1643cd2d73d387e5ad12902
+guster2007-02-28-t18.flac:2f8a58d3a91fa837df4904785dc16246
+guster2007-02-28-t19.flac:cf5bbbfe1be4129c1c36ae06e85cf652
+guster2007-02-28-t20.flac:cd3a1906ae5d0554fffa5333b893d6fd
+guster2007-02-28-t21.flac:3f2ef171597a3e53358f9045fc39baf2
+

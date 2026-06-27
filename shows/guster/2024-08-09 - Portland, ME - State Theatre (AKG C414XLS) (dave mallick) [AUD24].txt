@@ -1,0 +1,60 @@
+Guster
+On The Ocean Festival, night 1 - costumes, covers, & karaoke
+August 9th, 2024
+State Theatre, Portland, ME
+
+Master:
+AKG C414 XLS (cardioid) > Lunatec V3 > Tascam DR-100 mkIII (24/48)
+At FOH booth, slightly right of center, stand at 6'
+by Dave Mallick
+
+Conversion:
+Tascam DR-100 mkIII > WAV > Sound Studio 4.10.1 > xACT 2.51 > FLAC
+by Dave Mallick
+
+-----Peace Soldiers opener-----
+01. Sharp Dressed Man                [04:39.354]
+02. Everybody Knows This Is Nowhere  [02:54.059]
+03. The Christian Life               [02:36.677]
+04. You Ain’t Goin’ Nowhere          [03:24.318]
+-----Guster set-----
+05. Careful                          [04:53.869]
+06. Lazy Love                        [04:15.268]
+07. Overexcited                      [04:26.181]
+08. Rocketship                       [05:08.776]
+09. Two Points For Honesty           [04:02.827]
+10. Rise & Shine                     [05:02.174]
+11. Amsterdam                        [05:16.648]
+12. So Long                          [03:09.437]
+13. Lightning Rod                    [03:09.568]
+14. Diane                            [04:21.000]
+15. Don’t Go                         [05:50.759]
+16. The New Underground              [06:01.625]
+17. Hang On                          [05:16.487]
+18. Mona Lisa                        [05:01.399]
+19. Hercules                         [03:38.580]
+20. Manifest Destiny                 [03:37.909]
+21. Witness Tree                     [04:15.615]
+22. Homecoming King                  [08:01.599]
+23. E: Jesus On The Radio            [02:22.826]
+                             Total: [101:26.954]
+
+The Peace Soldiers are old touring partners who bear a striking
+resemblance to the members of Guster. They met in a parking lot in
+Nashville in 1998 and played various shows together over the next four
+years, but their paths had not crossed again until now. They covered 
+ZZ Top, Neil Young, the Byrds (originally the Louvin Brothers), and 
+Bob Dylan.
+
+Guster ran a "join our band" contest where fans sent in audition videos
+in hopes of playing with them on stage at this show. A total of eight
+songs were chosen:
+ 
+Overexcited featured Jackson Crawford on saxophone
+Two Points For Honesty featured Hannah Wetovsky-Devitt on vocals
+Amsterdam featured Gregg Charest on steel drums
+So Long featured Suzanne Monen Miller on cello
+The New Underground featured Darci Willis on drums
+Hang On featured Nick Fede on vocals
+Homecoming King featured Tyler Wood on bagpipes
+Jesus On The Radio featured Amanda and Gavin Cox on vocals

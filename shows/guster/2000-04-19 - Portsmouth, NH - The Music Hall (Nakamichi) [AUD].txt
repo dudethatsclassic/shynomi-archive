@@ -1,0 +1,101 @@
+Guster
+04-19-2000 
+Portsmouth Music Hall
+Portsmouth, NH 
+
+
+
+Source:
+
+Nakamichi 700/CP1 > D-8 (44.1) 
+(First Row Center Balcony)
+
+Conversion:
+
+Tascam DA-20 MKII > Tascam HD-P2 > Sony Soundforge 8.0 (44.1) > CD Wave > Flac
+
+Taper:
+
+Eric White
+
+Conversion:
+
+Patrick Price (patrickprice@comcast.net)
+
+
+Setlist
+
+1.  What You Wish For 
+2.  Great Escape 
+3.  So Long 
+4.  Airport Song 
+5.  Dissolve 
+6.  Demons 
+7.  "Da Da Da" tease -> Kokomo -> All The Way Up To Heaven 
+8.  Jazz Odyssey -> Barrel Of A Gun 
+9.  Window 
+10. Either Way 
+11. Medicine 
+12. Happier 
+13. Garbage Can Medley 
+14. I Spy -> Numbers 
+15. Fa Fa
+
+Encore
+ 
+16. Rainy Day 
+17. Laid 
+18. Center Of Attention 
+19. Bury Me 
+
+Encore 2: 
+
+20. Mona Lisa
+
+Flac Fingerprint:
+
+guster2000-04-19s1t01.flac:6c7b431b0f14e5955566514f0f0ff431
+guster2000-04-19s1t02.flac:3fae1a85d4dcd7d56870903c1c4efddb
+guster2000-04-19s1t03.flac:180bd5f261ffac2a30413a67d324d1d5
+guster2000-04-19s1t04.flac:43e6a53899eedc71de18105b82fd5283
+guster2000-04-19s1t05.flac:0c549954776a2c48affea000cc9196ac
+guster2000-04-19s1t06.flac:c4d7864c196868d82d8ca13d276c15ac
+guster2000-04-19s1t07.flac:ff3ce4c6ffbfe557bf0eeb53384b13f5
+guster2000-04-19s1t08.flac:4481b2acd58116a1cebe0a69c1caf9bb
+guster2000-04-19s1t09.flac:5ed80987000dc197f04cf19948f0c9e6
+guster2000-04-19s1t10.flac:f71393da2b8c946c4f4e9d4b822a4fea
+guster2000-04-19s1t11.flac:f2a40d67fe4d46b77f740623959ec19c
+guster2000-04-19s1t12.flac:aac2efcd02fc34b93389a425586cf56e
+guster2000-04-19s1t13.flac:7b4eededaf3684911e13d7918679dec2
+guster2000-04-19s1t14.flac:31eabf18c2826609017612045843a3e7
+guster2000-04-19s1t15.flac:18014175b3cdb966081d0d84c333f448
+guster2000-04-19s1t16.flac:d54d90bb68ead996a4650718865e1c48
+guster2000-04-19s1t17.flac:29c94ebeced54927e3eb001becd91688
+guster2000-04-19s1t18.flac:3f2d509e55a63b2ae4c4270575770df6
+guster2000-04-19s1t19.flac:22132a3831aa3589bcaa5370f92e0a67
+guster2000-04-19s1t20.flac:eb684b5de7e073cb7559f0235b0d475b
+
+Shntool Output:
+
+    length     expanded size    cdr  WAVE problems  fmt   ratio  filename
+     5:19.43       56372780 B   ---   --   ---xx   flac  0.5389  guster2000-04-19s1t01.flac
+     3:52.49       41040092 B   ---   --   ---xx   flac  0.5284  guster2000-04-19s1t02.flac
+     2:51.20       30211484 B   ---   --   ---xx   flac  0.5004  guster2000-04-19s1t03.flac
+     4:28.35       47357564 B   ---   --   ---xx   flac  0.5408  guster2000-04-19s1t04.flac
+     6:38.51       70327196 B   ---   --   ---xx   flac  0.5040  guster2000-04-19s1t05.flac
+     4:53.43       51786380 B   ---   --   ---xx   flac  0.5597  guster2000-04-19s1t06.flac
+     6:35.48       69790940 B   ---   --   ---xx   flac  0.5324  guster2000-04-19s1t07.flac
+     3:52.71       41091836 B   ---   --   ---xx   flac  0.5446  guster2000-04-19s1t08.flac
+     4:28.08       47294060 B   ---   --   ---xx   flac  0.5501  guster2000-04-19s1t09.flac
+     5:15.62       55711868 B   ---   --   ---xx   flac  0.4906  guster2000-04-19s1t10.flac
+     4:23.36       46477916 B   ---   --   ---xx   flac  0.5666  guster2000-04-19s1t11.flac
+     4:58.01       52569596 B   ---   --   ---xx   flac  0.5264  guster2000-04-19s1t12.flac
+     3:58.51       42103196 B   ---   --   ---xx   flac  0.5228  guster2000-04-19s1t13.flac
+     4:35.45       48615884 B   ---   --   ---xx   flac  0.5160  guster2000-04-19s1t14.flac
+     6:48.65       72124124 B   ---   --   ---xx   flac  0.5509  guster2000-04-19s1t15.flac
+     8:21.24       88432892 B   ---   --   ---xx   flac  0.4475  guster2000-04-19s1t16.flac
+     1:49.66       19382876 B   ---   --   ---xx   flac  0.5756  guster2000-04-19s1t17.flac
+     5:41.39       60244172 B   ---   --   ---xx   flac  0.5512  guster2000-04-19s1t18.flac
+     6:19.66       67010876 B   ---   --   ---xx   flac  0.5104  guster2000-04-19s1t19.flac
+     5:09.15       54542924 B   ---   --   ---xx   flac  0.4204  guster2000-04-19s1t20.flac
+   100:23.13     1062488656 B                            0.5195  (20 files)

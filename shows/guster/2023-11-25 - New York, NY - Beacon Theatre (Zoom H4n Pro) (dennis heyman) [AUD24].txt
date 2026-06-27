@@ -1,0 +1,51 @@
+Guster
+November 25th, 2023
+Beacon Theatre, New York, NY
+
+Master:
+Zoom H4n Pro (24/96)
+Recorder handheld chest high (mic stands were not allowed)
+Recorded from Orchestra Center Row E, center of row
+by Dennis Heyman
+
+Conversion:
+Zoom H4n Pro > WAV > Audacity 3.4.2 > FLAC
+by Dennis Heyman
+
+01. Diane                       
+02. The Captain                 
+03. Center Of Attention          
+04. Mind Kontrol                 
+05. Backyard                    
+06. What You Call Love           
+07. Black Balloon               
+08. “Communication”              
+09. Gangway                      
+10. Manifest Destiny             
+11. Airport                  
+12. Empire State*               
+13. I Spy                        
+14. Satellite                    
+15. The Beginning Of The End    
+16. Stay With Me Jesus **          
+17. Happier**                      
+18. Amsterdam**                   
+19. Don't Go                     
+20. Do You Love Me?              
+21. Come Downstairs & Say Hello  
+22. E: Mona Lisa                 
+23. E: Terrified                
+24. E: Barrel Of A Gun         
+                         
+
+* Broadway performers (vocals)
+	Nick Blaemire
+	Gerard Canonico
+	Sara Chase
+	Jenn Damiano
+	Damon Daunno
+	Van Hughes
+	Pomme Koch
+	Rohan Kymal
+
+** Acoustic Camp Fire set surrounding a wooden cardboard fire. Gain was increased at the beginning of Stay With Me Jesus and that is the annoying clicking sound you hear. Gain was lowered at the end of Amsterdam to original setting. Crowd noise resulted in higher gains leading to minor clipping. Gain was lowered back some in post process as to not blow your ears off.

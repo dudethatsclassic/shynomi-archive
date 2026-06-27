@@ -1,0 +1,43 @@
+Guster
+April 8, 2023
+Capitol Theatre
+Port Chester, NY
+Taper: Eric Lugassy
+Location: Right of Soundboard 8' high
+
+Source: 
+Channels 1 & 2: Vanguard V1 Wide-Cardioids PAS 32" apart > 
+Channels 3 & 4: Audio Technica 3031 Cardioids PAS 30" apart >
+Channels 5 & 6: AKG c414 XLII Hypercardioids PAS >
+Zoom F6 32 Bit Float
+Lineage: SD > Wav > Reaper V6.67 (Tracking/ Normalized/ Slate Digital Plugins) > Flac 24 Bit
+
+01. Intro Radio
+02. Intro Final Countdown
+03. What You Wish For
+04. The Captain
+05. Diane
+06. This Is How It Feels to Have a Broken Heart
+07. Stay With Me Jesus
+08. Satellite
+09. Capitol Theatre Banter/Song
+10. Simple Machine
+11. Hello Mister Sun
+12. Demons
+13. Hard Times
+14. Come Downstairs and Say Hello
+15. Do You Love Me
+16. Kid Dreams
+17. Manifest Destiny
+18. What You Call Love
+19. Ramona
+20. Doin' It By Myself
+21. Airport Song
+22. Either Way
+23. Terrified
+24. Amsterdam
+25. Happy Frappy
+26. One Man Wrecking Machine
+27. Crew Thank You
+28. Barrel of a Gun 
+29. Jesus on the Radio (Acoustic/ Unplugged)

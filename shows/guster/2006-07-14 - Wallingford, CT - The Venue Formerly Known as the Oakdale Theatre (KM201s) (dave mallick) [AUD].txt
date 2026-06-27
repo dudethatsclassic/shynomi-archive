@@ -1,0 +1,43 @@
+Guster
+July 14th, 2006
+The Venue Formerly Known As The Oakdale Theatre, Wallingford, CT
+
+Master:
+Elation KM201's (XY, 9' at FOH)>Lunatec V2>ADC-20>D8
+by Dave Mallick [greenone@bluestraveler.net]
+
+Conversion:
+Tascam DA-20>Egosys U2A>Sound Studio 2.1.1b3>AIFF>xACT 1.58
+by Dave Mallick [greenone@bluestraveler.net]
+
+Disc 1 [48:10.38] (minutes:seconds.frames)
+01. The Captain                 [03:56.45]
+02. Barrel Of A Gun             [04:51.31]
+03. One Man Wrecking Machine    [04:17.07]
+04. What You Wish For           [04:06.69]
+05. Come Downstairs & Say Hello [06:49.69]
+06. Careful                     [03:59.55]
+07. The New Underground         [04:01.19]
+08. Hang On                     [04:47.24]
+09. Airport Song                [05:31.65]
+10. Two At A Time*              [05:48.29]
+
+CD 2 [49:59.39]
+01. Satellite*                  [05:05.29]
+02. I Spy                       [04:52.05]
+03. Manifest Destiny            [03:56.18]
+04. Amsterdam                   [04:08.16]
+05. Demons                      [05:04.28]
+06. Fa Fa                       [06:04.31]
+07. E:  Ruby Falls              [06:53.41]
+08.     C'mon                   [05:06.34]
+09.     Happier                 [06:34.73]
+10. E2: Jesus On The Radio      [02:13.64]
+
+* with Jenna on violin
+
+Notes:
+- Many thanks to Gordon for letting me run inside the FOH barrier!
+- Second live performance ever of "Ruby Falls" and "C'mon".
+- Slight buzzing noise audible in left channel between some tracks;
+  possibly a minor short in left microphone.

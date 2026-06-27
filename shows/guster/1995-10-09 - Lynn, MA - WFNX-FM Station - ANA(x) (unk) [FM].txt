@@ -1,0 +1,23 @@
+Guster
+October 9th, 1995
+WFNX-FM Studios, Boston, MA
+
+Master:
+FM > ?? > Cass(x)
+Taper unknown
+
+Conversion:
+Nakamichi CR-2A > Tascam DA-20 (A/D) > Tascam DR-100 mkIII > 
+WAV > Sound Studio 4.9.6 > xACT 2.48 > FLAC
+by Dave Mallick
+
+01. interview segment #1  [07:21.56]
+02. Dissolve              [04:43.20]
+03. interview segment #2  [10:16.14]
+
+Total: [22:21.15]
+ 
+Janet "Juanita" King interviewed the band in studio. She played "Bury
+Me" from the Aware 3 compilation before the interview, and "Window" from
+Parachute afterwards. As both are studio releases, they were cut from
+this recording.

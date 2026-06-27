@@ -1,0 +1,93 @@
+Guster
+5/13/2000
+State Theater
+Portland, Maine
+
+
+
+Source:
+
+AKG C1000 (hyper) > Tascam DA-P1 (48.)
+
+Conversion:
+
+Tascam DA-20 MKII > Tascam HD-P2 > Sony Soundforge 8.0 (44.1) > CD Wave > Flac
+
+Taper:
+
+Brandon Smith
+
+Conversion:
+
+Patrick Price (patrickprice@comcast.net)
+
+Setlist
+
+1.  Happier
+2.  Bury Me
+3.  So Long
+4.  Center Of Attention
+5.  Fa Fa
+6.  Parachute
+7.  I Spy
+8.  Airport Song
+9.  Two Points For Honesty
+10. Rocketship
+11. What You Wish For
+12. Great Escape
+13. Either Way
+14. Window
+15. Barrel Of A Gun
+
+Encore: 
+
+16. Medicine
+17. All The Way Up To Heaven
+18. Demons
+19. Kiss Me
+
+Flac Fingerprint:
+
+guster2000-05-13s1t01.flac:247504d7eb611db38444c2674b281af9
+guster2000-05-13s1t02.flac:f97a7572b7a4863688d5dfefc92c66bd
+guster2000-05-13s1t03.flac:661dc33e371a9720c6fe0d8c36679d76
+guster2000-05-13s1t04.flac:607d0f5806578bcd5aca888258d5219d
+guster2000-05-13s1t05.flac:7f3b7d91de27462f35f30ec8f3c718ee
+guster2000-05-13s1t06.flac:328fe4ebc955affacee8044c80e7775b
+guster2000-05-13s1t07.flac:990a5da359f311925f90c4a457381639
+guster2000-05-13s1t08.flac:7f24ea7afa109456ccfe887d82a8b066
+guster2000-05-13s1t09.flac:e23881a9617b03a4064f5a2412c2083b
+guster2000-05-13s1t10.flac:2324b837869d9e4f75cfb2d3b03d4d69
+guster2000-05-13s1t11.flac:1a639fb2e9daf05ff380febfca3c275b
+guster2000-05-13s1t12.flac:596dfe94b008df01dfe5fb1a3875eb36
+guster2000-05-13s1t13.flac:1a8faa67ab9dd8c7dbd14a9261a93693
+guster2000-05-13s1t14.flac:0fa1028259e9efad36fd5d02762a7d73
+guster2000-05-13s1t15.flac:cdc0c2be73547cfd854291f1c84253f1
+guster2000-05-13s1t16.flac:87b3e476a13a4a2237feecb4111284fb
+guster2000-05-13s1t17.flac:da2d2755e9febc5405faca9084947347
+guster2000-05-13s1t18.flac:a6076288826c781e20562e721313e967
+guster2000-05-13s1t19.flac:a52fa9bc588c5d0b42b32e2ad800e69c
+
+Shntool Output:
+
+    length     expanded size    cdr  WAVE problems  fmt   ratio  filename
+     5:06.08          51.50 MB  ---   --   ---xx   flac  0.5170  guster2000-05-13s1t01.flac
+     5:26.52          54.96 MB  ---   --   ---xx   flac  0.4769  guster2000-05-13s1t02.flac
+     3:56.43          39.80 MB  ---   --   ---xx   flac  0.5026  guster2000-05-13s1t03.flac
+     4:35.12          46.29 MB  ---   --   ---xx   flac  0.5361  guster2000-05-13s1t04.flac
+     6:14.52          63.03 MB  ---   --   ---xx   flac  0.5066  guster2000-05-13s1t05.flac
+     4:50.42          48.88 MB  ---   --   ---xx   flac  0.4788  guster2000-05-13s1t06.flac
+     4:09.34          41.97 MB  ---   --   ---xx   flac  0.4950  guster2000-05-13s1t07.flac
+     3:32.63          35.81 MB  ---   --   ---xx   flac  0.5241  guster2000-05-13s1t08.flac
+     4:14.41          42.82 MB  ---   --   ---xx   flac  0.5157  guster2000-05-13s1t09.flac
+     4:46.41          48.21 MB  ---   --   ---xx   flac  0.4648  guster2000-05-13s1t10.flac
+     3:55.09          39.55 MB  ---   --   ---xx   flac  0.5112  guster2000-05-13s1t11.flac
+     4:33.21          45.97 MB  ---   --   ---xx   flac  0.4818  guster2000-05-13s1t12.flac
+     5:20.56          53.96 MB  ---   --   ---xx   flac  0.4728  guster2000-05-13s1t13.flac
+     3:44.36          37.76 MB  ---   --   ---xx   flac  0.5166  guster2000-05-13s1t14.flac
+     6:02.33          60.97 MB  ---   --   ---xx   flac  0.5167  guster2000-05-13s1t15.flac
+     4:41.31          47.34 MB  ---   --   ---xx   flac  0.5251  guster2000-05-13s1t16.flac
+     7:31.53          75.99 MB  ---   --   ---xx   flac  0.4937  guster2000-05-13s1t17.flac
+     6:08.64          62.05 MB  ---   --   ---xx   flac  0.5130  guster2000-05-13s1t18.flac
+     2:45.72          27.92 MB  ---   --   ---xx   flac  0.4695  guster2000-05-13s1t19.flac
+    91:37.13         924.78 MB                           0.5009  (19 files)

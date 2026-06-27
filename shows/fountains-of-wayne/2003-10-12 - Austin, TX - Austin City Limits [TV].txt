@@ -1,0 +1,34 @@
+Fountains of Wayne
+2003-October-12
+Austin City Limits
+Austin, Texas
+
+Broadcast TV > Mitsubuishi Stereo VCR > Monster Cable > Denon AVR-1700 receiver > Monster Cable > M-Audio Revolution 7.1 > Total Recorder > wav > Goldwave (minor edit and tracking) > flac frontend > flac level 5
+sound: A+
+
+*****************************************************
+first posted by Colin on May 7, 2005
+then I reposted it on May 2, 2006 
+and again today January 24, 2007
+*****************************************************
+Original flac files
+
+01) Denise
+02) Stacy's Mom
+03) Bright Future in Sales
+04) Hackensack
+05) Valley Winter Song
+06) Radiation Vibe
+07) Survival Car
+08) Interview
+25:07
+
+
+01-Denise.flac:4ac54b4200d8f552ca577cdf86b84481
+02-Stacy's Mom.flac:d11fc8ac14df53f91c4533c73e166985
+03-Bright Future in Sales.flac:d77ef196d721b950a29f2fbb6151b837
+04-Hackensack.flac:5d6a76c21b67a30f6d586149aa7031d2
+05-Valley Winter Song.flac:57ad13145f35405b156e1a4d14e39d51
+06-Radiation Vibe.flac:72e8c875848473a5e16a97e6f634f1c2
+07-Survival Car.flac:9487c04155fdea0c545189ad9244dfd6
+08-Interview.flac:396c94dfa740df0b4b723f2c5dcf4d0f

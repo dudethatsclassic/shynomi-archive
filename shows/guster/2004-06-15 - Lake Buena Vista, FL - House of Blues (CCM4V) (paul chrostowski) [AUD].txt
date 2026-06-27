@@ -1,0 +1,57 @@
+Guster
+House Of Blues
+Lake Buena Vista, FL
+June 15, 2004
+
+Taper:		Paul Chrostowski
+Source:		Schoeps CCM4V cardioids > Schoeps K5LU XLR > 
+		Lunatec V3 (24b/96KHz) > Nuendo Audiolink 96 Multiset >
+		Fujitsu P2120 > WaveLab 4.01b
+Location:	60° ORTF width 7' high, right of center just behind SBD
+
+Conversion:	Paul Chrostowski  6/18/04
+WAV > SHN:	WaveLab 4.01b > CDWAV v1.91 > mkwACT 0.97b1 (no DAE)
+
+
+*****PLEASE DO NOT REDISTRIBUTE ANY ALTERED COPY OF THIS SHN SET*****
+
+
+Disc One:
+
+01: Intro					-	00:47.64
+02: Demons					-	04:57.37
+03: Careful					-	04:06.40
+04: Backyard					-	03:16.66
+05: Happier					-	04:50.25
+06: I Spy					-	04:52.30
+07: (Joe's Shoes) >				-	02:44.62
+08: 2 At A Time					-	04:48.24
+09: Red Oyster Cult				-	04:01.48
+10: So Long					-	03:02.51
+11: Airport Song				-	03:15.32
+12: Barrel Of A Gun				-	05:03.20
+
+Total:						-	45:47.49
+
+
+Disc Two:
+
+01: X-Ray Eyes					-	04:07.14
+02: California Dreaming				-	03:02.60
+03: Ramona					-	04:52.73
+04: Homecoming King >				-	05:14.29
+05: Amsterdam					-	04:42.32
+06: Fa Fa Song					-	05:52.34
+    ~~~Encore~~~
+07: Mona Lisa					-	05:08.13
+08: Come Downstairs And Say Hello		-	08:28.19
+09: Jesus On The Radio (unplugged)		-	02:54.44
+
+Total:						-	44:23.18
+
+
+Processing:
+
+normalize with Wavelab Leveler
+resample to 44.1KHz with Wavelab Resampler 192KHz
+dither to 16bit with Apogee UV22 HR algorithm

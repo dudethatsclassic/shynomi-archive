@@ -1,0 +1,49 @@
+Guster
+July 2, 2000
+Viv's House
+Andover, MA
+
+This show was a "semi-private" event for Guster's Reps.  It was held in a
+rep's backyard. The sound system consisted only of a small PA and
+4-channel mixer.  As a result the low-end is relatively weak in the
+recording.
+
+Source: Microtech Gefell SMS2000/200 (card, XY90) -> Oade M148 -> Sony
+SBM-1 -> D8
+Location: 30 feet from stage, DFC
+Taper: Bill Lakenan <blakenan@us.net>
+Conversion: Panasonic 3700 > Lucid PCI24 > .wav > .shn (No DAE)
+Converted by: Bill Lakenan <blakenan@us.net>
+
+Disc 1:
+01: <Intro>
+02: Happy Frappy *
+03: La Ti Da
+04: Cocoon
+05: Eden
+06: Little Respect
+07: Pantomime *
+08: Killing in the Name Of
+09: 99 Red Balloons
+10: Everybody Else
+11: Melanie
+12: Dregs
+
+Disc 2:
+01: I Spy (incomplete)
+02: I Spy (Take 2)
+03: <Roxanne Tease and Sting Story>
+04: Down In It
+05: Soccer
+06: Closer
+07: Mona Lisa * (a capella)
+08: <Thank You>
+09: Lionel Richie
+
+* = Wind noise partially edited out with a 50Hz high-pass filter used
+during the following:
+D1T02 - @ 00:58 and 01:13 for 5 seconds
+D1T07 - @ 04:06 for 30 seconds
+D2T07 - @ 02:50 for 20 seconds
+There still remains a significant amount of distortion due to the wind
+during these passages.

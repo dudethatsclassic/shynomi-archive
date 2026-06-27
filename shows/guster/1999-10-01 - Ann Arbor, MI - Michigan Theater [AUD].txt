@@ -1,0 +1,33 @@
+Guster
+October 1st, 1999
+Michigan Theater, Ann Arbor, MI
+
+Sound Pro Binaurals>MD-MS702>CD
+taper unknown
+
+Conversion:
+CD>xACT 2.15 (cdparanoia)>WAV<Sound Studio 4.2>xACT>FLAC
+by Dave Mallick
+
+Disc 1 Total: [42:57.32]
+01. Demons                  [06:32.11]
+02. Barrel Of A Gun         [03:12.73]
+03. X-Ray Eyes              [05:16.17]
+04. What You Wish For       [04:15.44]
+05. Bury Me                 [02:31.37]
+06. Perfect                 [01:43.34]
+07. I Spy                   [03:24.31]
+08. Window                  [05:58.59]
+09. Center Of Attention     [04:49.02]
+10. Parachute               [05:13.24]
+
+Disc 2 Total: [44:47.01]
+01. Two Points For Honesty  [05:07.59]
+02. Airport Song            [03:53.68]
+03. Either Way              [05:14.43]
+04. Medicine                [04:55.46]
+05. Rocketship              [06:55.30]
+06. Fa Fa                   [06:06.63]
+07. Mona Lisa               [04:29.09]
+08. Happier                 [05:02.37]
+09. E: Great Escape         [03:01.21]

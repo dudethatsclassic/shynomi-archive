@@ -1,0 +1,34 @@
+Guster
+October 30, 1997
+New Jersey Performing Arts Center
+Newark, NJ
+
+Opening for Rusted Root
+
+Source: 	DAud (Microtech Geffell SMS2000/200 (cards) -> Oade M148 -> Sony SBM1 -> Sony D7)
+Taper:		Michael Corcoran
+Location:	At soundboard
+
+Conversion: 	Archive Python DDS/DAT2WAV > .wav > CD-WAV/mkwACT > .shn
+		(Direct DAT extraction, no soundcard)
+Converted by: 	Bill Lakenan <blakenan@us.net>
+
+Tracks Split by: Jeffrey Hyder <jmh@mhmvab.com> using CDWAV
+SHN:		MKW Audio Compression Tool   (NO DAE)
+
+****************************************************************
+	THIS SHOW IS NOT TO BE MP3-ENCODED	
+****************************************************************
+
+
+Demons
+Barrel of a Gun
+Window
+X-ray Eyes
+Airport Song
+Closer
+Bury Me
+Rocketship
+Great Escape
+Dissolve
+Dregs>intros>dregs

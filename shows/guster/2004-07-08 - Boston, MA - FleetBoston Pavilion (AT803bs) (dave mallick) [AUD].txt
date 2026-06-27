@@ -1,0 +1,35 @@
+Guster
+July 8th, 2004
+FleetBoston Pavilion, Boston, MA
+
+Master:
+AT803b's>battery box>D8
+by Dave Mallick [greenone@bluestraveler.net]
+
+Conversion:
+DA-20>U2A>Sound Studio 2.1.1b3>AIFF>xACT 1.4d1
+by Dave Mallick [greenone@bluestraveler.net]
+
+Disc 1: [72:10.43] (minutes:seconds.frames)
+01. Demons                         [05:23.74]
+02. Amsterdam                      [04:03.61]
+03. Happier                        [04:50.52]
+04. Careful                        [03:48.18]
+05. Airport Song                   [03:31.23]
+06. Barrel Of A Gun                [05:05.11]
+07. Two At A Time                  [05:12.45]
+08. Homecoming King                [05:36.38]
+09. Come Downstairs & Say Hello*   [05:20.36]
+10. Either Way                     [06:46.40]
+11. I Spy                          [05:03.36]
+12. Fa Fa                          [08:32.44]
+13. E: All the Way Up To Heaven#   [06:12.53]
+14.    Bridge Over Troubled Water$ [02:42.37]
+
+* with Rufus Wainwright on vocals
+# with Ben Folds on piano
+$ with Ben Folds on drums
+
+Notes:
+- Stealth recording; some chattiness and clapping from neighbors.
+- New battery in battery box - no sound problems like last week. :)

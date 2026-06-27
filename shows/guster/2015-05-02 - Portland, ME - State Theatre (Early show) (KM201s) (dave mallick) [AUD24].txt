@@ -1,0 +1,27 @@
+Guster
+May 2nd, 2015
+State Theatre, Portland, ME [early show]
+
+Master:
+Elation KM201's>Lunatec V3>Microtrack II (24-bit/48kHz)
+by Dave Mallick
+
+Conversion:
+WAV>Sound Studio 4.7.8>xACT 2.35>FLAC
+
+01. Simple Machine      [04:39.930]
+02. Doin’ It By Myself  [04:00.457]
+03. interview           [05:36.599]
+04. Endlessly           [04:31.441]
+05. Do You Love Me      [04:28.139]
+
+Total: [23:16.565]
+ 
+Notes:
+- 5pm set for WCLZ ticket winners only, ~100 attendees including several
+  young kids down front. Adam's daughter was even broadcasting via Periscope.
+- I tried to record as unobtrusively as possible, so I had my taping bag
+  about two feet off the ground, ~20 feet from the band with my mics
+  sticking out. Sound was coming from two ground stacks so I probably
+  didn't miss much, though it's a bit thin and occasionally changes a bit
+  as people walk in front of it.

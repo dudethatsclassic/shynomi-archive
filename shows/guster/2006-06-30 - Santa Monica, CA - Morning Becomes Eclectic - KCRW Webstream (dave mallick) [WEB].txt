@@ -1,0 +1,32 @@
+Guster
+June 30th, 2006
+"Morning Becomes Eclectic"
+KCRW-FM Studios, Santa Monica, CA
+
+Master:
+KCRW webstream>Audio Hijack>AIFF
+by Dave Mallick [greenone@bluestraveler.net]
+
+Conversion:
+Sound Studio 2.1.1b3>AIFF>xACT 1.58
+by Dave Mallick [greenone@bluestraveler.net]
+
+CD 1 [40:51.36] (minutes:seconds.frames)
+01. 8 a.m. Ad Bumper         [00:56.35]
+02. Intro                    [00:46.68]
+03. One Man Wrecking Machine [03:56.28]
+04. Satellite                [04:58.18]
+05. Jesus On The Radio       [02:24.60]
+06. Two Of Us                [03:27.58]
+07. Interview                [09:07.53]
+08. Lightning Rod            [03:00.14]
+09. Rise & Shine             [03:37.26]
+10. The Captain              [03:36.37]
+11. Amsterdam                [04:59.14]
+
+Notes:
+- First track is an ad for the show that ran three hours before they
+  went on - "Satellite" was used as the background music so I tacked
+  it onto the front end.
+- Most of the chat is in tracks 2 and 7 but a few other questions are
+  interspersed throughout the rest of the performance.

@@ -1,0 +1,48 @@
+Guster
+September 12th, 2003
+FleetBoston Pavilion, Boston, MA
+
+Master:
+Neumann KM184's>Graham-Patten DMIC-20>Tascam DA-P1
+by Brandon Smith
+
+Conversion:
+Tascam DA-20>Egosys U2A>Sound Studio 2.1.1b3>xACT 1.4d9
+by Dave Mallick [greenone@bluestraveler.net]
+
+Disc 1 [52:49.67] (minutes:seconds.frames)
+01. What You Wish For            [06:19.07]
+02. I Spy                        [04:59.49]
+03. Careful                      [03:45.49]
+04. (Nothing But) Flowers        [05:52.34]
+05. Backyard                     [02:45.31]
+06. Barrel Of A Gun              [04:19.02]
+07. Mona Lisa                    [05:04.68]
+08. Amsterdam                    [04:50.22]
+09. Medicine                     [04:10.63]
+10. Come Downstairs & Say Hello> [06:49.26]
+11. Two Points For Honesty       [03:53.16]
+
+Disc 2 [44:05.18]
+01. Airport Song                 [04:06.49]
+02. Ramona                       [03:23.44]
+03. Ring Of Fire*                [01:46.58]
+04. Homecoming King              [04:03.29]
+05. Demons                       [05:09.62]
+06. Fa Fa                        [07:21.08]
+07. E: Keep It Together          [04:55.63]
+08.    Either Way                [05:07.19]
+09.    Happier                   [06:05.37]
+10.    Jesus On The Radio        [02:05.24]
+
+* Johnny Cash cover, in honor of his recent passing.
+
+Notes:
+- Thanks to Brandon for saving my ass and taping this...I showed up
+  with my full rig but no deck. Kind of hard to tape that way.
+- A couple of chatty girls find their seats - right in front of the
+  mics, of course - just before d1t10 and pretty much gab the rest 
+  of the show, including some off-key singing along.
+- Jesus On The Radio completely acoustic; levels gradually adjusted 
+  during the song (due to the limitations of the DMIC-20) but the 
+  end was completely overloaded, hence the quick fade.

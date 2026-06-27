@@ -1,0 +1,72 @@
+Guster
+East Lansing, MI
+MSU Union Ballroom
+March 23, 2000
+
+Source:
+Shure VP88+SBD > Mackie 1202 VLZ > D8
+Taped By:
+Dave Mallick
+Conversion:
+D8 > DiO 2448 > Soundforge 6.0 > CDWav > Flac Frontend 1.7.1
+Converted By:
+Jason Woods
+
+
+.:Disc 1:.
+
+01. Intro
+02. Barrel Of A Gun
+03. Great Escape
+04. So Long
+05. Window >
+06. Wipeout
+07. Center Of Attention
+08. Airport Song
+09. Either Way
+10. "These Bubbles Are Fantastic"*
+11. I Spy#
+12. "Ryan's N'Sync Story"
+13. Fa Fa
+14. California Dreamin'
+15. Creep$
+16. Two Points For Honesty
+17. Demons
+18. What You Wish For
+19. Bury Me
+20. encore break crowd noise
+21. All The Way Up To Heaven
+22. Happier
+
+Notes:
+* During Either Way, a fan blew bubbles and they floated up in front of Ryan. It was then established that bubbles would be the new "tradition" during Either Way.
+# Contains "Numbers" by G. Love as an outro
+$ Radiohead cover ("as much as we can remember of it...")
+
+
+FLAC Fingerprint
+guster2000-03-23d01t01.flac:b19d1fe94518c12fcfffcf0781dc3957
+guster2000-03-23d01t02.flac:4ca4a7ad073829fe07cb011daad0879e
+guster2000-03-23d01t03.flac:7e0e84a003723043c48556998059aa63
+guster2000-03-23d01t04.flac:ba2a7d79ffb7b8a5f48ec4214543c3c8
+guster2000-03-23d01t05.flac:52a9cf05fbf3945d30d800e18f6db4a3
+guster2000-03-23d01t06.flac:a11ae9d64d889fca91d9f8aeac600dcb
+guster2000-03-23d01t07.flac:458f9322f4df7c4713a269343c676e6a
+guster2000-03-23d01t08.flac:d6e2019b73b4fc3f285aa0345bf7cdd1
+guster2000-03-23d01t09.flac:87f7e12b9cad68031aa3728f93ff6f5f
+guster2000-03-23d01t10.flac:30af274f88160702217de788990129da
+guster2000-03-23d01t11.flac:9e3a4dc5c6c1f0e80905c133dd503ab1
+guster2000-03-23d01t12.flac:962bb69e6ed5d31a363b20cacc4a9ccd
+guster2000-03-23d01t13.flac:a379d0b1cf61090058cc75df3918f158
+guster2000-03-23d01t14.flac:a61243c7d6a7813ed478b804f76c9509
+guster2000-03-23d01t15.flac:c7b38aad8d1614dae3c7296a032b930f
+guster2000-03-23d01t16.flac:71ece24ecca8720768fe9fb118052104
+guster2000-03-23d01t17.flac:540c556504c47306233b772358fddda2
+guster2000-03-23d01t18.flac:a1a510764b2d84540e1dd3822b865c55
+guster2000-03-23d01t19.flac:f8b3b364d2134954645a96e1419c61cc
+guster2000-03-23d01t20.flac:8a3d7ce1a6b8766c06893a5f46b2bd9c
+guster2000-03-23d01t21.flac:abfda1194c493065d3381d39de4f9ae4
+guster2000-03-23d01t22.flac:6f0e238576d57957eb8603c5bc260db1
+
+
+compiled 9/1/05 by Jason Woods

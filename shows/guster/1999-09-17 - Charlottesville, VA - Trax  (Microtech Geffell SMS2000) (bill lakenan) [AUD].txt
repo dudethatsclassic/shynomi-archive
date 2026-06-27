@@ -1,0 +1,46 @@
+Guster
+September 17, 1999
+Trax
+Charlottesville, VA
+
+Source: 	DAud (Microtech Geffell SMS2000/200 (cards) -> 
+		      Oade M148 -> Sony SBM1 -> Sony D7)
+Location: 	At front right corner of mix location
+Taper: 		Bill Lakenan <blakenan@us.net>
+Conversion: 	Archive Python DDS/DAT2WAV > .wav > CD-WAV/mkwACT > .shn
+		(Direct DAT extraction, no soundcard)
+Converted by: 	Bill Lakenan <blakenan@us.net>
+
+Tracks Split by: Jeffrey Hyder <jmh@mhmvab.com> using CDWAV
+SHN:		MKW Audio Compression Tool   (NO DAE)
+
+Original digital files lost; CD extracted to WAV by Jeffrey Hyder
+WAV > Sound Studio 4.9.6 (retrack) > xACT 2.50 > FLAC by Dave Mallick
+
+
+****************************************************************
+	THIS SHOW IS NOT TO BE MP3-ENCODED	
+****************************************************************
+
+01. Demons             06:21.13
+02. I Spy              03:52.00
+03. Barrel of a Gun    04:33.14
+04. Parachute          06:23.74
+05. Happier            03:43.47
+06. Airport Song       04:24.30
+07. Either Way         05:35.14
+08. Bury Me            02:38.17
+09. Perfect            02:25.04
+10. X-Ray Eyes         04:17.10
+11. Sweet Caroline     04:03.61
+12. Medicine           05:08.66
+13. What You Wish For  05:41.60
+14. Window *           03:51.38
+15. Rocketship *       06:02.14
+16. E: Fa Fa           06:55.04
+17.    Mona Lisa *     06:10.51
+18.    Great Escape    03:22.04
+                Total: 85:29.71
+
+* with Sruti Nadimpalli on violin
+

@@ -1,0 +1,39 @@
+Guster
+3-12-04
+Max and Erma's (Early Show)
+Freedom Hall (Late Show)
+Louisville, KY
+
+Source:		ck63 > Active Cables > JK Labs DVC > Apogee Mini-Me (line in) > M1 @ 48k
+Location:	Sec. 144, Row L, Seats 5,6	Stand @ 7' due to security restriction
+Taper:		Jon Ice (ice@justdmb.com)
+
+DAT > CD Equipment: 	M1 > Emagic EMI 2|6 > Sound Forge 6.0 > shntool
+
+** No DAE - DAT > .WAV > .SHN
+** Seek Tables Appended
+
+Early Show
+01:	Sound Check/Intro		03:27
+02:	Amsterdam			04:07
+03:	Jesus On The Radio		02:56
+04:	Barrel Of A Gun			03:46
+
+Late Show
+05:	I Spy				05:04
+06:	Careful				03:51
+07:	Airport Song			03:45
+08:	Homecoming King			05:51
+09:	Come Downstairs And Say Hello	03:36
+10:	Happier				04:27
+11:	Intro To...			00:46
+12:	Barrel Of A Gun			03:40
+13:	Amsterdam			04:47
+14:	Fa Fa				05:39
+Total					58:42
+
+Notes:
+Glitch at 00:51 in t02
+Abrupt fade in on t05 due to quick show start
+
+compiled by Jon Ice <4.9.04>

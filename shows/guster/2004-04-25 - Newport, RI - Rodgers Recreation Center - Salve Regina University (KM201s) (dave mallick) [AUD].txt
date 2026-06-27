@@ -1,0 +1,32 @@
+Guster
+April 25th, 2004
+Rodgers Recreation Center, Salve Regina University, Newport, RI
+
+Master:
+Elation KM201's (card, ORTF)>Lunatec V2>ADC-20>D8
+by Dave Mallick [greenone@bluestraveler.net]
+
+Conversion:
+DA-20>emi 2|6>Sound Studio 2.1.1b3>AIFF>xACT 1.4d1
+by Dave Mallick [greenone@bluestraveler.net]
+
+Disc 1 [47:51.54] (minutes:seconds.frames)
+01. Careful                     [05:09.08]
+02. (Nothing But) Flowers       [05:22.22]
+03. Happier                     [05:48.39]
+04. Long Way Down               [05:07.41]
+05. Center Of Attention         [04:23.74]
+06. Airport Song                [03:19.43]
+07. Barrel Of A Gun             [04:37.08]
+08. Come Downstairs & Say Hello [09:24.51]
+09. Demons                      [04:38.68]
+
+Disc 2 [40:26.29]
+01. Diane                       [03:50.69]
+02. Amsterdam                   [04:39.71]
+03. Either Way                  [05:24.10]
+04. I Spy                       [05:13.47]
+05. Homecoming King             [04:24.63]
+06. Fa Fa                       [06:20.70]
+07. E: X-Ray Eyes               [06:07.09]
+08.    Two Points For Honesty   [04:24.65]

@@ -1,0 +1,102 @@
+Fountains of Wayne
+
+19 April 1999
+
+Dingwalls
+
+Camden, London, UK
+
+
+
+Source: Audience DAT recording
+
+Lineage: dpa-4061>d100>cdr1>cdr2>cdparanoia>FLAC
+
+
+Total Running Time: 71m 49s
+
+
+
+Tracklisting:
+
+
+01 - I've Got A Flair
+
+02 - Please Don't Rock Me Tonight
+
+03 - Red Dragon Tattoo
+
+04 - She's Got A Problem
+
+05 - Valley Of Malls
+
+06 - Barbara H.
+
+07 - Joe Rey
+
+08 - Hat And Feet
+
+09 - Troubled Times
+
+10 - Sink To The Bottom
+
+11 - Denise
+
+12 - It Must Be Summer
+
+13 - Sick Day
+
+14 - Radiation Vibe
+
+15 - Survival Car
+
+16 - Smoke A Lot Of Pot
+
+17 - Go Hippie
+
+18 - Leave The Biker
+
+19 - Baby One More Time
+
+
+
+FLAC Fingerprints:
+
+
+01-I_Got_A_Flair.flac:9d8b86da81005eaff5d4e4734d2494f3
+
+02-Please_Dont_Rock_Me_Tonight.flac:81aced8f847f2634ffb6b81e9621a17c
+
+03-Red_Dragon_Tattoo.flac:fed86719c7c7afa90149c5c37969b0b0
+
+04-Shes_Got_A_Problem.flac:0cb9c3f2fefe3b660ecd2631e6356699
+
+05-Valley_Of_Malls.flac:bebbc5f479ca5011806ed0b941360d35
+
+06-Barbara_H.flac:aa83e935c1afbcfef7c313e1478a5ae7
+
+07-Joe_Rey.flac:2174c4a2d80fe081f8fe1bce38eb3a2f
+
+08-Hat_And_Feet.flac:aea488e1f1fda734776aafcccc0338f0
+
+09-Troubled_Times.flac:9e0e6f6cf00d3085ee5c443c338f1f9c
+
+10-Sink_To_The_Bottom.flac:0227d9dfc638f02941746969ec3b5ad0
+
+11-Denise.flac:92c8e30af81afac2f07777b800ae7c2a
+
+12-It_Must_Be_Summer.flac:66db38fa20920c4445d8bd2606eb9184
+
+13-Sick_Day.flac:b22dd0683ce4b0463548e0b59dd4157e
+
+14-Radiation_Vibe.flac:3026318c2887e451301a9184d8912f3b
+
+15-Survival_Car.flac:6790eef06b59e932c7726041f9bcaf17
+
+16-Smoke_A_Lot_Of_Pot.flac:170d5d67c9e627d2d4bf9287d8656e93
+
+17-Go_Hippie.flac:73e17d1b43fee3e567ed822b19c28382
+
+18-Leave_The_Biker.flac:fbd5923431f3914203b38fb6848d3ca0
+
+19-Baby_One_More_Time.flac:924001c026b552d6db78801cde59f12c

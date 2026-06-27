@@ -1,0 +1,39 @@
+Guster
+June 23rd, 2000
+Hudson High School, Hudson, OH
+
+Master:
+Microtech Gefell SMS2000/200>Oade M148>SBM1>D7>CD
+by Bill Lakenan
+
+Extraction/Tracking:
+CD>xACT 2.00 (cdparanoia)>WAV>Sound Studio 4.2 (retrack)>xACT>FLAC
+all tracks extracted with no errors
+by Dave Mallick
+
+Disc 1 Total: [42:17.59]
+01. Happier                   [05:37.13]
+02. Great Escape              [03:10.73]
+03. I Spy                     [05:07.71]
+04. What You Wish For         [05:10.31]
+05. So Long                   [02:40.66]
+06. Airport Song              [04:01.49]
+07. Dissolve*                 [06:04.67]
+08. Demons*                   [05:10.13]
+09. Center of Attention       [05:13.51]
+
+Disc 2 Total: [51:46.55]
+01. Either Way                [05:23.23]
+02. Rocketship                [04:35.40]
+03. Barrel of a Gun           [04:00.22]
+04. All the Way Up to Heaven* [05:58.71]
+05. I Think We're Alone Now   [03:24.16]
+06. Fa Fa*                    [06:20.64]
+07. Medicine                  [05:45.16]
+08. Two Points For Honesty    [04:06.10]
+09. Bury Me                   [06:46.66]
+10. E: Parachute              [05:25.27]
+
+* with Dan Myers on saxophone
+
+Guster played this one-off full show while on tour opening for Dave Matthews Band. The show was a benefit for the American Cancer Society.

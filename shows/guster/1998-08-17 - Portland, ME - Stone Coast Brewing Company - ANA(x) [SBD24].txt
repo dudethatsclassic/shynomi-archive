@@ -1,0 +1,30 @@
+Guster
+August 17th, 1998
+Stone Coast Brewing Company, Portland, ME
+
+Master:
+SBD > Cass(x)
+taper unknown
+
+Conversion:
+Nakamichi CR-2A > Lunatec V3 (A/D) > Tascam DR-100 mkIII > 
+WAV > Sound Studio 4.10.1 > xACT 2.50 > FLAC
+by Dave Mallick
+
+01. Demons            [07:00.687]
+02. Fa Fa             [05:37.004]
+03. Rocketship        [04:52.828]
+04. Love For Me       [04:02.326]
+05. Barrel Of A Gun   [03:47.937]
+06. Parachute         [05:11.175]
+07. Bare              [05:35.347]
+08. Happy Frappy      [03:41.530]
+09. Closer//          [00:32.092]
+10. //Medicine        [03:52.140]
+11. Either Way        [06:14.496]
+12. Window>           [04:09.435]
+13. At The Racetrack  [00:34.625]
+               Total: [55:11.621]
+
+End of Closer and beginning of Medicine missing due to a tape flip.
+Unknown if there were other songs played in between.

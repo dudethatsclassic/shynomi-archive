@@ -1,0 +1,91 @@
+Guster
+March 18, 2004
+RPI Field House
+Troy, NY
+
+Taper:		David Jeffers <Oysterhead00@hotmail.com>
+Source:		AT853s (SP-CMC-8) > SPSB-2 (@69Hz) > CJB3 (44.1 WAV)
+Location:	Even with soundboard, center.  Mics ~ 9'
+Transfer:	CJB3 > Firewire > PC
+Encoding:	SoundForge > CDWAV > MKWACT > .SHN
+
+Disk One
+--------------------------------------------------------
+01.  Two Points for Honesty Muzak Intro		01:19.41
+02.  Happier					05:18.23
+03.  Careful					03:46.55
+04.  Keep It Together				04:38.20
+05.  Airport Song				03:24.43
+06.  Barrel of a Gun Intro > 			00:47.32
+07.  Barrel of a Gun				04:36.50
+08.  Diane					04:01.19
+09.  The Boy with the Arab Strap*		05:22.43
+10.  Deamons					04:35.04
+11.  The Prize+					03:23.38
+12.  Either Way					04:57.16
+13.  Come Down Stairs and Say Hello		06:45.02
+--------------------------------------------------------
+Total						52:56.11
+
+
+Disk Two
+--------------------------------------------------------
+01.  What You Wish For^				06:45.02
+02.  Ramona					04:08.12
+03.  Medicine%					04:33.27
+04.  Homecoming King+				05:33.01
+05.  Fa Fa					06:09.68
+06.  Parachute					05:23.16
+07.  Backyard					04:31.70
+08.  Amsterdam					04:19.06
+09.  Total Eclipse of the Heart=		02:22.69
+--------------------------------------------------------
+Total						41:59.04
+
+
+* Belle and Sebastian
++ Stealing music banter followed by an attempt at The Prize
+^ Bible version
+% Joe's Hot Lix version
++ Funky Town Intro and Chariots of Fire Outro
+= Brian on Vocals
+
+Notes:		This was my second time using the CJB3 and the sound isn't as
+		good as I hoped...it almost sounds like clipping at some
+		points, but it was never close on the levels.  My next purchase
+		is definately going to be an A/D converter.  First time using a
+		mic stand so that's definately a plus.
+
+********************************************************************************
+**DO NOT SELL! DO NOT CONVERT TO MP3! PLEASE INCLUDE THIS FILE WITH ALL TRADES**
+********************************************************************************
+**************http://www.geocities.com/oysterhead00/cdtrading.html**************
+********************************************************************************
+
+
+MD5 - FILE INTEGRITY SIGNATURE LIST
+-----------------------------------
+9fa614c287fc7027784beb5fbbe0eb93 *guster2004-03-18d1t01.shn
+a0f9b0661c23d7956629df23c1958d41 *guster2004-03-18d1t02.shn
+eb8220108ee7da5e08cf3e03a3aaeb56 *guster2004-03-18d1t03.shn
+20fe17d0a92389f39bcba3a549b482f5 *guster2004-03-18d1t04.shn
+979ae6c1a45fd745a18a2ed4e545ac48 *guster2004-03-18d1t05.shn
+74a09dadcdb6c58d61d92b233a60aacc *guster2004-03-18d1t06.shn
+4ec5df3d4e58fe846067b8ab37522471 *guster2004-03-18d1t07.shn
+ac15a9a9ad5ac5b7569c5ec282e64ac0 *guster2004-03-18d1t08.shn
+033174123c8c1563b5cfd59a1d54b552 *guster2004-03-18d1t09.shn
+315c0a75ab3a7f8366b126aa65c24557 *guster2004-03-18d1t10.shn
+df57b88ff5e2e6b63e2dd2ddc2705721 *guster2004-03-18d1t11.shn
+0cf34a17021fc19ef1cb7e7d7cf19d1e *guster2004-03-18d1t12.shn
+4b8d59541a190a12ad0c3f35b2f0051f *guster2004-03-18d1t13.shn
+573b0433e9574b4de3bace976f230032 *guster2004-03-18d2t01.shn
+dbf21b591a4209ebd5df7c5c5f5c4f37 *guster2004-03-18d2t02.shn
+62ce06cf60210711d2d1f683e4dbc1f4 *guster2004-03-18d2t03.shn
+c1d7aa87b503847fca408992bd4514d9 *guster2004-03-18d2t04.shn
+48fe201e07982e611e48f0e0da5938cc *guster2004-03-18d2t05.shn
+5551ca0f21a546913dab5a4899b573ae *guster2004-03-18d2t06.shn
+295a31707bd27c0b5404a28550d762e1 *guster2004-03-18d2t07.shn
+21f0efa568378e409f651aa71df6f077 *guster2004-03-18d2t08.shn
+23ad76c7c0a36ee8f1d27249281f453c *guster2004-03-18d2t09.shn
+
+Compiled by David Jeffers March 19, 2004.

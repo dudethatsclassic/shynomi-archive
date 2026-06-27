@@ -1,0 +1,41 @@
+Guster
+March 24th, 2006
+The Roxy, West Hollywood, CA
+
+Master:
+AT803b's>battery box>Sony D8
+by Dave Mallick [greenone@bluestraveler.net]
+
+Conversion:
+Tascam DA-20>Egosys U2A>Sound Studio 2.1.1b3>xACT 1.55
+by Dave Mallick [greenone@bluestraveler.net]
+
+Disc 1 [40:44.58]
+01. I Spy                       [05:35.64]
+02. Careful                     [04:06.23]
+03. Manifest Destiny            [04:48.65]
+04. One Man Wrecking Machine    [03:50.53]
+05. Amsterdam                   [04:03.12]
+06. Happier                     [04:53.72]
+07. Great Escape                [03:30.56]
+08. Ramona                      [05:15.39]
+09. Satellite                   [04:39.49]
+
+Disc 2 [41:33.14]
+01. The Beginning Of The End    [02:55.34]
+02. Come Downstairs & Say Hello [07:13.35]
+03. Demons                      [04:12.62]
+04. Center Of Attention         [04:44.64]
+05. Backyard                    [04:10.38]
+06. Airport Song                [04:37.60]
+07. E1: Hang On                 [04:44.37]
+08.     Barrel Of A Gun         [06:43.14]
+09. E2: Jesus On The Radio      [02:10.45]
+
+Notes:
+- I had to tape low-profile in the middle of the crowd so some
+  chatter and yelling is inevitably captured for posterity. Special
+  thanks to the leather-lung behind me and to my left for his
+  insightful commentary throughout the night.
+- Brian's kick drum and bass drum caused a bit of overloading at
+  times; noticeably so in d1t06 and d2t05.

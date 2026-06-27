@@ -1,0 +1,26 @@
+Guster
+July 15th, 2003
+The Record Exchange, Boise, ID
+
+Master creation: 
+Sony ECM-MS907>Sony MZ-R37 MD
+MZ-R37>line in>Felt Tip Sound Studio>AIFF>CD
+by Andy Watts [rynedee@runbox.com]
+
+SHNs were made: 
+Master CD>Aqua CD Burn 0.3 (cdparanoia)>AIFF>
+Sound Studio 2.1.1b3 (retrack)>xACT (shntool)
+by Dave Mallick [greenone@bluestraveler.net] 
+
+CD 1 [21:51.55] (minutes:seconds.frames) 
+01. Amsterdam          [04:08.07]
+02. Jesus On The Radio [03:43.73]
+03. Barrel Of A Gun    [05:24.40]
+04. Bury Me            [03:50.06]
+05. Fa Fa              [04:45.04]
+
+Notes:
+- All tracks extracted at 100% with no errors in cdparanoia; any clicks
+  and pops are on the CD as sent to me.
+- Acoustic in-store performance, so crowd noise, cash registers, etc.
+- Some major mic handling noises throughout.

@@ -1,0 +1,57 @@
+COLLECTIVE SOUL
+January 25, 2025
+The Venue at Thunder Valley Casino Resort
+Lincoln, CA, US
+
+SETLIST:
+-------------------
+00. intro/banter -> Get Down On It [Kool & The Gang song, P.A. tape]
+01. Follow You Down
+02. Lost Horizons
+03. As Long as It Matters
+04. Face the Dark
+05. Until I Fall Away
+06. Hold Me Down
+07. Miss Disarray
+08. Hands Are Tired
+09. Allison Road
+10. Found Out About You
+11. Hey Jealousy
+12. Til I Hear It From You
+
+
+SOURCE:
+-------------------
+AUD #1 - Quality: 9.0
+Sound Professionals SP-CMC-4U > Sony PCM-A10
+
+Recorded by: vibrioidxire
+
+TRANSFER:
+-------------------
+Sound Professionals SP-CMC-4U (Audio Technica AT-U853's, with UE-H hypercardioid caps mod) > Sound Professionals SP-SPSB-10 Power Module > Sony PCM-A10 High-Resolution Digital Audio Recorder > Apple MacBook Pro (16-inch, 2021) > Adobe Audition 25.3 [post-production/mastering] > xACT 2.57
+
+GENERATION:
+-------------------
+WAV(M) [48kHz/24-bit] > FLAC [Level 8]
+
+
+FLAC FINGERPRINTS:
+-------------------
+ginblossoms2025-01-25_AUD1_t00.flac:b523fc5b37e38a2d71dbd7e4cb6f0f1a
+ginblossoms2025-01-25_AUD1_t01.flac:acbedcdf031a044e1c75c51ff6cbc03e
+ginblossoms2025-01-25_AUD1_t02.flac:1cf6caf876fd178f02e81e7b63e4f051
+ginblossoms2025-01-25_AUD1_t03.flac:81554883c84441290d17efe6027cdd7c
+ginblossoms2025-01-25_AUD1_t04.flac:4c9f56ad6795e7ba343819af3826e2cf
+ginblossoms2025-01-25_AUD1_t05.flac:3ee39f60e8aee9042c022cc4426619d2
+ginblossoms2025-01-25_AUD1_t06.flac:dda0eeb520fb18a6736fb13cf9246070
+ginblossoms2025-01-25_AUD1_t07.flac:64baebef07b69839981c679202e9ab3f
+ginblossoms2025-01-25_AUD1_t08.flac:e08c270be6dd3156dc23dcc673fd4c14
+ginblossoms2025-01-25_AUD1_t09.flac:5935238c6dbed7127e255a2f9178b4d1
+ginblossoms2025-01-25_AUD1_t10.flac:ac2c58bede29af458685cc276035b5af
+ginblossoms2025-01-25_AUD1_t11.flac:ed3b07eb04b5d85c2bd5b4a9cc4e9778
+ginblossoms2025-01-25_AUD1_t12.flac:b57b1d79c841dbc5256aa88acf6ab138
+
+
+Transferred and encoded by: vibrioidxire
+PLEASE DO NOT DISTRIBUTE IN LOSSY FORMATS OR SELL!

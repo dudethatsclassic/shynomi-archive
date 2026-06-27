@@ -1,0 +1,33 @@
+Guster
+July 11th, 2004
+FleetBoston Pavilion, Boston, MA
+
+Master:
+AT803b's>battery box>D8
+Row X, dead center
+by Dave Mallick [greenone@bluestraveler.net]
+
+Conversion:
+DA-20>U2A>Sound Studio 2.1.1b3>AIFF>xACT 1.4d1
+by Dave Mallick [greenone@bluestraveler.net]
+
+Disc 1: [65:09.71] (minutes:seconds.frames)
+01. What You Wish For                [04:56.44]
+02. Ramona                           [03:24.15]
+03. Airport Song                     [03:49.26]
+04. Happier                          [05:12.05]
+05. Red Oyster Cult*                 [04:02.59]
+06. So Long                          [02:49.05]
+07. Barrel Of A Gun                  [04:22.70]
+08. Come Downstairs & Say Hello      [07:38.17]
+09. Demons                           [04:32.43]
+10. Amsterdam                        [04:12.64]
+11. Fa Fa*                           [08:46.74]
+12. E: The Boy With the Arab Strap*# [05:43.02]
+13.    All the Way Up to Heaven#     [05:39.22]
+
+* with with Dan Sears and Chris Cuzme on trumpet and saxophone
+# with Ben Folds on piano
+
+Notes:
+- Stealth recording; some chattiness and clapping from neighbors.

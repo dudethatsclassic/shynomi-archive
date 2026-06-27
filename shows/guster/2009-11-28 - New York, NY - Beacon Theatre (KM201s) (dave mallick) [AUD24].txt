@@ -1,0 +1,52 @@
+Guster
+November 28th, 2009
+Beacon Theatre, New York, NY
+
+Master:
+Elation KM201's's>Lunatec V3>Microtrack 2496 at FOH position
+by Dave Mallick
+
+Conversion:
+WAV>Audacity 1.3.6>xACT 1.69>FLAC - 24-bit/48kHz
+by Dave Mallick
+
+Disc 1 [53:46.148]
+01. The Captain                    [04:24.861]
+02. Backyard                       [03:19.274]
+03. Satellite                      [04:45.466]
+04. Red Oyster Cult>Reaper&        [05:16.860]
+05. Demons                         [04:43.400]
+06. This Could All Be Yours        [04:45.071]
+07. X-Ray Eyes                     [03:42.912]
+08. Manifest Destiny               [03:24.057]
+09. Ramona                         [03:26.379]
+10. Ruby Falls                     [06:31.396]
+11. C'mon                          [05:00.745]
+12. Airport Song                   [04:25.729]
+
+Disc 2 [72:16.779]
+01. What You Wish For              [05:10.004]
+02. Barrel Of A Gun                [04:43.284]
+03. Either Way*                    [05:10.129]
+04. Fa Fa#                         [05:43.041]
+05. I Spy                          [05:58.832]
+06. Center of Attention$           [05:07.428]
+07. All The Way Up To Heaven%      [06:12.088]
+08. Happier                        [04:38.838]
+09. So Long^                       [04:03.183]
+10. Two Points For Honesty*        [04:01.188]
+11. Rainy Day                      [06:54.683]
+12. E: Hang On                     [04:50.640]
+13.    Come Downstairs & Say Hello [07:31.418]
+14.    Jesus On The Radio          [02:12.022]
+
+* with Jody Redhage on cello and Tom Swafford on violin
+# with the Hornitz (Keith, Pete & Stu) on saxophone, trumpet & trombone
+$ with Steve Lillywhite on bass, featuring a "Sunshine Of Your Love" tease
+% with the Brookwood School chorus on vocals
+^ with Jody Redhage on cello
+& with Brucie on cowbell (instead of Scooter)
+                         
+Notes:
+- Thanks to Gordon for letting me set up in that little corner
+  of the FOH area.

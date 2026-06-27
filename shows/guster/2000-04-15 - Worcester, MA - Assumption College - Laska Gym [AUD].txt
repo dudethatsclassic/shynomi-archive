@@ -1,0 +1,98 @@
+Guster
+4/15/2000
+Laska Gym
+Assumption College
+Worcester, MA
+
+
+Source:
+
+AKG C-1000 (hyper) > Tascam DA-P1 (48.0)
+
+Conversion:
+
+Tascam DA-20 MKII > Tascam HD-P2 > Sony Soundforge 8.0 (44.1) > CD Wave > Flac
+
+Taper:
+
+Brandon Smith
+
+Conversion:
+
+Patrick Price (patrickprice@comcast.net)
+
+
+Setlist
+
+1.  Thriller Into
+2.  Happier
+3.  Bury Me
+4.  Rocketship
+5.  Barrel of a Gun
+6.  Window
+7.  I Spy
+8.  Airport Song
+9.  Two Points for Honesty
+10. Alive
+11. What You Wish For
+12. Either Way
+13. Garbage Can Medly
+14. Great Escape
+15. All the Way Up to Heaven
+16. Fa Fa
+17. Encore Break
+
+Encore
+
+18. Medicine
+19. Demons
+20. Kiss Me
+
+
+Flac Fingerprint:
+
+guster2000-04-15s1t01.flac:dfb620ee9235e1f47ea1e700bf6540a3
+guster2000-04-15s1t02.flac:9626825a8c8847278f82d245cab1898b
+guster2000-04-15s1t03.flac:4998f6f792cf0bd2b32e2dcad3770997
+guster2000-04-15s1t04.flac:fc976e4e59da8911f149c6ccb5761698
+guster2000-04-15s1t05.flac:60b8d13184dd72c05fd4d9c927f3933b
+guster2000-04-15s1t06.flac:b006d84e1abf69f5cc885b90023f3957
+guster2000-04-15s1t07.flac:ac852ea2f5ee774e9b8caa13b0dc8b3d
+guster2000-04-15s1t08.flac:3b2fdbb191adaf2ea1cfc617f55b5fdd
+guster2000-04-15s1t09.flac:5351cfa3d3382138489e7261dd4c777d
+guster2000-04-15s1t10.flac:5d84a15e201a9822f5cbbca5fe9956a0
+guster2000-04-15s1t11.flac:baec767e154da4899534560309bb34d2
+guster2000-04-15s1t12.flac:2dc4ba8eb207818598c9575587314415
+guster2000-04-15s1t13.flac:51bccc76c8cd8283851fcb1e24f7f52c
+guster2000-04-15s1t14.flac:834700c456e3fa351b9feb0321245faa
+guster2000-04-15s1t15.flac:1959403d762baa80b99e495575fed3df
+guster2000-04-15s1t16.flac:8586589ea990b38aca0701563004ac0b
+guster2000-04-15s1t17.flac:fd9f26f27c64149b13836b8156d41423
+guster2000-04-15s1t18.flac:06e555ba60bffb2e91cf652ce8d6fb45
+guster2000-04-15s1t19.flac:e95170b41b5222812cc8cda06823d5ad
+guster2000-04-15s1t20.flac:24c974258945ce7b0118152a0942bcff
+
+Shntool Output:
+
+    length     expanded size    cdr  WAVE problems  fmt   ratio  filename
+     1:17.19       13627532 B   ---   --   ---xx   flac  0.5439  guster2000-04-15s1t01.flac
+     4:32.71       48147836 B   ---   --   ---xx   flac  0.5657  guster2000-04-15s1t02.flac
+     3:47.24       40099292 B   ---   --   ---xx   flac  0.5256  guster2000-04-15s1t03.flac
+     4:15.45       45087884 B   ---   --   ---xx   flac  0.5381  guster2000-04-15s1t04.flac
+     4:50.68       51315980 B   ---   --   ---xx   flac  0.5343  guster2000-04-15s1t05.flac
+     3:28.52       36813548 B   ---   --   ---xx   flac  0.5645  guster2000-04-15s1t06.flac
+     4:02.43       42789980 B   ---   --   ---xx   flac  0.5559  guster2000-04-15s1t07.flac
+     3:31.13       37251020 B   ---   --   ---xx   flac  0.5695  guster2000-04-15s1t08.flac
+     3:41.25       39043244 B   ---   --   ---xx   flac  0.5856  guster2000-04-15s1t09.flac
+     2:39.64       28198172 B   ---   --   ---xx   flac  0.5503  guster2000-04-15s1t10.flac
+     5:14.42       55488428 B   ---   --   ---xx   flac  0.5397  guster2000-04-15s1t11.flac
+     6:08.46       65023436 B   ---   --   ---xx   flac  0.5452  guster2000-04-15s1t12.flac
+     3:51.32       40823708 B   ---   --   ---xx   flac  0.5585  guster2000-04-15s1t13.flac
+     3:17.35       34833164 B   ---   --   ---xx   flac  0.5596  guster2000-04-15s1t14.flac
+     7:44.26       81910796 B   ---   --   ---xx   flac  0.5461  guster2000-04-15s1t15.flac
+     5:10.63       54832220 B   ---   --   ---xx   flac  0.5631  guster2000-04-15s1t16.flac
+     1:48.31       19124156 B   ---   --   ---xx   flac  0.5064  guster2000-04-15s1t17.flac
+     5:06.06       53992556 B   ---   --   ---xx   flac  0.5661  guster2000-04-15s1t18.flac
+     4:55.05       52049804 B   ---   --   ---xx   flac  0.5586  guster2000-04-15s1t19.flac
+     1:51.11       19606316 B   ---   --   ---xx   flac  0.5222  guster2000-04-15s1t20.flac
+    81:15.46      860059072 B                            0.5516  (20 files)

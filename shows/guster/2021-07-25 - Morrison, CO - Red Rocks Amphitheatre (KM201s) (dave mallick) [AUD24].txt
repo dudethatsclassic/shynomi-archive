@@ -1,0 +1,56 @@
+Guster
+with the Colorado Symphony Orchestra
+July 25th, 2021
+Red Rocks Amphitheatre, Morrison, CO
+
+Master:
+Elation KM201's>Lunatec V3>Microtrack II (24-bit/48kHz)
+Row 23, seat 66 - dead center
+by Dave Mallick
+
+Conversion:
+WAV>Sound Studio 4.9.6>xACT 2.50>FLAC
+by Dave Mallick
+
+01. Do You Love Me                     05:02.417
+02. Demons                             04:32.581
+03. Diane                              04:23.789
+04. The Captain                        03:40.651
+05. orchestra intro                    03:03.683
+06. Ramona                             03:23.249
+07. Long Night                         05:07.538
+08. What You Call Love                 04:14.455
+09. Two Points For Honesty             04:28.733
+10. Mind Kontrol                       03:50.383
+11. Dear Valentine                     05:29.696
+12. Rocketship                         04:56.566
+13. Lightning Rod                      04:08.787
+14. Witness Tree                       03:48.158
+15. That’s No Way To Get To Heaven     02:52.066
+16. Fa Fa                              06:16.246
+17. Hello Mister Sun                   04:39.784
+18. Doin’ It By Myself                 04:43.815
+19. Either Way                         04:40.992
+20. Satellite                          04:53.918
+21. Come Downstairs & Say Hello        08:23.260
+22. Me & Julio Down By The Schoolyard  03:10.346
+23. Hard Times                         03:54.522
+24. Hang On                            06:30.315
+25. Happier                            04:38.248
+26. Barrel Of A Gun                    06:16.044
+27. E: Jesus On The Radio              02:23.716
+                               Total: 123:33.955
+                               
+Tracks 6 through 21 were accompanied by the Colorado Symphony Orchestra,
+with concertmaster Yumi Hwang-Williams and conductor Christopher Dragon.
+
+There is a good deal of rumble due to the wind whipping through the
+on-stage microphones, and the wind also makes for some phasing effects
+that result in the loss of higher frequencies from time to time,
+especially earlier in the night. It does calm down later on, but this is
+very common for outdoor recordings in general, and Red Rocks recordings
+in particular. 
+
+That being said, it was an honor to be able to record this - many thanks
+as always to the band and crew for being so permissive and even helpful
+in making this happen, so that anyone can relive the experience.

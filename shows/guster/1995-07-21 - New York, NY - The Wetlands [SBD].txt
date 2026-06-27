@@ -1,0 +1,38 @@
+guster
+7/21/95
+the wetlands
+NYC, NY
+
+dat provided by Dave Mallick and Viv Valenzuela
+source:  DSBD (48KHz)
+
+conversion:  allan chen
+sony r300>sek'd prodif plus>samplitude (48>44.1)>cdwav
+
+**no DAE.  dat>wav>shn
+
+cd1
+---------------
+1 - intro
+2 - window
+3 - bury me
+4 - dregs
+5 - ?
+6 - pantomine
+7 - parachute
+8 - ?
+9 - ?
+
+comments
+----------
+one of the first songs as guster (used to be called gus).  
+
+
+compiled by allan chen
+2/6/00
+
+SHN > FLAC (and Tags) by Falco98
+Falco98's Notes:
+-Track 4 is obviously Dissolve, though it may have been named otherwise back then.
+-Track 5 is a cover of Down In It by Nine Inch Nails (thanks guster.net)
+-Track 9 is obviously Cocoon, and Track 8 is some weird improv intro to it.

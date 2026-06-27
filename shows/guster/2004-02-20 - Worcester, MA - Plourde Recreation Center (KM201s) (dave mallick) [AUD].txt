@@ -1,0 +1,42 @@
+Guster
+February 20th, 2004
+Plourde Recreation Center, Assumption College, Worcester, MA
+
+Master creation: 
+Elation KM201's>Lunatec V2 (with high-pass filter 2)>D8
+by Dave Mallick [greenone@bluestraveler.net]
+
+SHNs were made: 
+Tascam DA-20>Egosys U2A>Sound Studio 2.1.1b3>AIFF>xACT 1.3d3
+by Dave Mallick [greenone@bluestraveler.net]
+
+CD 1: [44:14.49] (minutes:seconds.frames)
+01. What You Wish For            [05:18.25]
+02. Careful                      [04:01.13]
+03. I Spy                        [04:43.61]
+04. Airport Song                 [03:34.73]
+05. Keep It Together*            [06:56.12]
+06. All The Way Up To Heaven     [05:48.07]
+07. Amsterdam                    [04:50.09]
+08. Either Way                   [04:49.24]
+09. Barrel Of A Gun              [04:12.50]
+
+CD 2: [51:40.73]
+01. The Boy With The Arab Strap# [05:08.11]
+02. Come Downstairs & Say Hello  [07:39.52]
+03. Ramona                       [05:59.48]
+04. Red Oyster Cult              [04:11.01]
+05. Demons                       [05:41.27]
+06. Fa Fa                        [07:35.01]
+07. E: Parachute                 [05:27.20]
+08.    Homecoming King           [05:05.11]
+09.    Happier                   [04:53.52]
+
+* with "Baker Street" (Gerry Rafferty) outro
+# Belle & Sebastian cover; first time played
+
+Notes:
+- Show was in a big boomy gym so I ran the high-pass filter on the preamp on
+  the highest setting...a bit of a mistake. Cut out a bit too much bass.
+- Instead of an encore break, "Fa Fa" ends with a jam while Adam rides a lap 
+  on a bike around the gym's elevated track.

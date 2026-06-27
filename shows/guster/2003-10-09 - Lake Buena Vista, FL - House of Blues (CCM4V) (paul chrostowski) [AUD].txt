@@ -1,0 +1,51 @@
+Guster
+House Of Blues
+Lake Buena Vista, FL
+October 9, 2003
+
+Taper:		Paul Chrostowski
+Source:		Schoeps CCM4V cardioids > Schoeps K5LU XLR > 
+		Lunatec V3 (24b/96KHz) > Nuendo Audiolink 96 Multiset >
+		Fujitsu P2120 > WaveLab 4.01b
+Location:	60° ORTF width 7' high, right of center just behind SBD
+
+Conversion:	Paul Chrostowski  10/9/03
+WAV > SHN:	WaveLab 4.01b (resample & Apogee UV22 HR dither) > 
+		CDWAV v1.71 > mkwACT 0.97b1 (no DAE)
+
+
+Disc One:
+
+01: Intro					-	00:33.56
+02: I Spy					-	04:52.37
+03: Homecoming King				-	03:45.39
+04: Airport Song				-	04:04.23
+05: Backyard					-	03:25.02
+06: What You Wish For				-	04:09.56
+07: (Nothing But) Flowers¹			-	05:51.62
+08: Mona Lisa					-	05:27.72
+09: Amsterdam					-	04:16.51
+10: All The Way Up To Heaven			-	05:34.28
+
+Total:						-	42:01.51
+
+
+Disc Two:
+
+01: Come Downstairs And Say Hello		-	07:40.09
+02: Ramona >					-	02:57.73
+03: Barrel of a Gun				-	04:32.19
+04: Keep It Together				-	04:56.26
+05: Demons					-	04:55.20
+06: Fa Fa Song					-	07:16.04
+    ~~~Encore~~~
+07: Diane					-	04:05.31
+08: Either Way					-	06:03.42
+09: Happier					-	05:03.62
+
+Total:						-	47:30.61
+
+
+Notes:
+
+1 - Talking Heads cover

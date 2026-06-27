@@ -1,0 +1,39 @@
+Guster
+November 21st, 2015
+Wellmont Theatre, Montclair, NJ
+
+Master:
+Elation KM201's>Lunatec V3>Microtrack II (24-bit/48kHz)
+DFC in front of sound board, HPF2 on V3.
+by Dave Mallick
+
+Conversion:
+WAV>Sound Studio 4.7.8>xACT 2.36>FLAC
+by Dave Mallick
+
+01. Ramona                       04:15.104
+02. Satellite                    05:03.009
+03. Simple Machine               03:20.245
+04. Happier                      04:09.289
+05. Hercules                     03:19.196
+06. Careful                      04:24.001
+07. Doing It By Myself           04:39.626
+08. The Captain                  03:34.539
+09. Kid Dreams                   06:25.100
+10. Homecoming King              04:51.975
+11. Come Downstairs & Say Hello  05:57.770
+12. Do You Love Me?              04:48.154
+13. Never Coming Down            03:36.894
+14. Demons                       06:51.096
+15. Two Points For Honesty       04:53.719
+16. Happy Frappy                 04:18.639
+17. Ruby Falls                   07:50.419
+18. Lazy Love                    03:07.066
+19. Barrel Of A Gun              06:25.775
+20. This Could All Be Yours      05:09.638
+21. E: Long Night                04:54.083
+22.    One Man Wrecking Machine  03:36.832
+23.    Manifest Destiny          04:34.622
+24.    Airport Song              05:21.252
+25.    Careless Whisper          04:41.697
+                         Total: 120:09.743

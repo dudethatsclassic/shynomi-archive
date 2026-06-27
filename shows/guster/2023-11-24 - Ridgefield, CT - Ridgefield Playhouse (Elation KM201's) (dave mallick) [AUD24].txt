@@ -1,0 +1,50 @@
+Guster
+November 24th, 2023
+Ridgefield Playhouse, Ridgefield, CT
+
+Master:
+Elation KM201's > Lunatec V3 > Tascam DR-100 mkIII (24/48)
+Mics at head height, 7th row center
+by Dave Mallick
+
+Conversion:
+Tascam DR-100 mkIII > WAV > Sound Studio 4.10.1 > xACT 2.54 > FLAC
+by Dave Mallick
+
+01. Diane                        [05:56.078]
+02. The Captain                  [03:44.176]
+03. Architects & Engineers       [03:22.838]
+04. Backyard                     [03:06.517]
+05. What You Call Love           [05:17.220]
+06. Black Balloon                [03:08.944]
+07. Mona Lisa                    [05:09.629]
+08. Center Of Attention          [04:53.964]
+09. Don’t Go                     [03:58.770]
+10. Airport Song                 [04:51.789]
+11. Long Night                   [06:01.602]
+12. I Spy                        [02:53.217]
+13. Satellite                    [05:37.611]
+14. The Beginning Of The End     [04:28.987]
+15. Hard Times                   [03:35.211]
+16. Happier                      [04:02.213]
+17. “false start”                [00:52.887]
+18. Amsterdam                    [05:09.182]
+19. Do You Love Me?              [04:32.088]
+20. Come Downstairs & Say Hello  [06:54.878]
+21. E: One Man Wrecking Machine  [06:04.098]
+22.    “Sean!”                   [02:22.677]
+23.    Gangway                   [04:26.720]
+24.    This Could All Be Yours   [04:52.033]
+25.    Jesus On The Radio        [02:29.524]
+                         Total: [107:52.852]
+
+Tracks 15-18 were performed "fireside" at the front of the stage, where
+the band sat in chairs around a spraypainted cardboard fire and played
+acoustic versions.
+
+Track 17 featured the band false-starting "Jesus On The Radio" after Luke's
+joke count-off.
+
+Track 22 was a tribute to new guitar tech Sean, who quickly intervened
+when Ryan was having cable problems during the intro to the previous
+song. Ryan even gives him a lyrical shout-out during Gangway.

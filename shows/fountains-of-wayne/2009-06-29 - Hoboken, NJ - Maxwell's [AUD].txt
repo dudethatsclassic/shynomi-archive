@@ -1,0 +1,33 @@
+Fountains Of Wayne acoustic
+Maxwells
+Hoboken, NJ
+6/29/2009
+
+DPA 4021(cardioid, in hat)->Battery Box->Sound Devices 722 (@24/96)
+
+FLAC File processing in SoundForge Audio Studio 9.0c (LOUD clap removal, Peak Level Normalize to 0db then resample to 44.1 with interpolation accuracy 4, anti-alias filter then 24->16 bit highpass triangular dither with high pass contour noise shaping); Tracked in CDWav.
+
+1. intro music/tuning
+2. Please Don't Rock Me Tonight
+3. Little Red Light
+4. Someone To Love
+5. The Summer Place
+6. Fire Island
+7. Cold Comfort Flowers
+8. Hey Julie
+9. A Road Song
+10.Red Dragon Tattoo
+11.Barbara H (w/"Under Pressure" bass intro)
+12.I95
+13.Fire In The Canyon +
+14.Half A Woman
+15.Bright Future In Sales
+16.Radiation Vibe (w/Beat It, Yes song [Roundabout?], Jet Airliner)
+17.encore break
+18.Cemetary Guns
+19.Stacy's Mom
+20.Joe Rey
+
++ = w/Mike Viola (vocals and guitar) & Kelly Jones (vocals)
+
+Recorded, mastered, and tracked by Scott Bernstein

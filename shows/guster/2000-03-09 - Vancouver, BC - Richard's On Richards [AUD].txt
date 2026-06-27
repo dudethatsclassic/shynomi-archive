@@ -1,0 +1,62 @@
+guster
+3/9/00
+richard's on richards
+vancouver, BC
+
+taper:  tyler bradford
+source:  akgc391b>at super cable>akg b18 p/s>m1
+ORTF, FOB
+
+conversion:  allan chen
+sony r300>sek'd prodif plus>samplitude(48>44.1)>cdwav
+
+**no DAE.  dat>wav>shn
+SHN > FLAC (and Tags) by Falco98
+
+comments
+---------------------
+levels were very low on tape, and I normalized it in sound forge.  otherwise untouched.
+
+compiled by allan chen
+3/26/00
+
+
+
+Disc 1
+---------------------------
+01 Intro
+02 Barrel Of A Gun*
+03 Demons
+   Happy Frappy tease
+04 What You Wish For
+05 "Flashdance (What A Feeling)" tease**
+06 X-Ray Eyes
+07 Bury Me***
+08 California Dreamin'
+09 "Inner City Blues" tease
+10 Dissolve^
+
+Disc 2
+---------------------------
+01 "With Or Without You" tease
+02 Happier
+03 Great Escape
+04 Either Way
+05 Airport Song
+06 I Spy -> Numbers
+07 Fa Fa 
+08 E: All The Way Up To Heaven
+09 E: Circle Of Friends^^
+
+
+* prior to getting started, Ryan broke a string, so they bought time by telling a few stories
+** the band was given homemade cookies and shared them with the crowd, declaring themselves "Guster, the band that cares"
+*** after the song, Adam was given a shofar, a big ram horn used in Jewish ceremonies
+^ with a shofar solo by Adam
+^^ with Brian on lead vocals; this song won in a vote that also included Two Points For Honesty, Window and a Brian Adams medley 
+
+
+setlist compiled by dennis.heyman@villanova.edu
+http://students.engineering.villanova.edu/dheyma01
+with reference to The Mezzanine
+

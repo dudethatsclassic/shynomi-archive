@@ -1,0 +1,54 @@
+Guster
+August 12th, 2022
+On The Ocean Festival, Day 1
+State Theatre, Portland, ME
+
+Master:
+Elation KM201's > Lunatec V3 > Tascam DR-100 mkIII (24/48)
+by Dave Mallick
+
+Conversion:
+Tascam DR-100 mkIII > WAV > Sound Studio 4.10.1 > xACT 2.50 > FLAC
+by Dave Mallick
+
+01. Demons                                       [06:51.541]
+02. One Man Wrecking Machine                     [04:47.087]
+03. Rise & Shine*                                [04:53.910]
+04. That’s No Way To Get To Heaven#              [02:43.810]
+05. Two Points For Honesty#                      [04:06.499]
+06. X-Ray Eyes#                                  [05:09.809]
+07. Hello Mister Sun#                            [04:27.298]
+08. G Major#                                     [04:11.426]
+09. Diane                                        [05:13.035]
+10. All Day                                      [03:38.316]
+11. Rainy Day*                                   [05:49.330]
+12. Bad Bad World*                               [05:35.186]
+13. Long Way Down#                               [06:03.416]
+14. This Is How It Feels To Have A Broken Heart# [04:30.846]
+15. Kid Dreams#                                  [05:14.409]
+16. Overexcited#                                 [03:59.805]
+17. "Crappy Frappy"                              [01:40.013]
+18. Hang On                                      [06:02.190]
+19. Amsterdam                                    [05:03.289]
+20. E: Parachute$                                [05:53.039]
+21.    Either Way*                               [05:13.412]
+22.    Endlessly*                                [06:23.382]
+23.    Rainbow Connection#                       [03:28.944]
+                                         Total: [110:59.994]
+
+* with Sammy (cello) and Jason Anick (violin)
+# with Sammy and Jason plus Matt LaRocca (viola), Lillian Sawyer
+  (violin), Will Jones (saxophone/flute), Michael O'Neal
+  (saxophone/flute), and Chris Bertelsen (trumpet)
+$ Adam and Ryan only, unamplified, at stage lip
+
+Live debuts of "All Day" and "Rainbow Connection".
+
+Recording notes:
+- I did not bring my stand to this show, and arrived only a few minutes
+  before set time. Instead of trying to find a spot in the balcony, I used 
+  a front-row seat my wonderful wife had saved for me. As a result, the
+  sound is somewhat subpar due to my positioning - the mics were simply
+  sticking out of my taping bag, sitting in my lap, at a seated show.
+- Only known recording - the usual suspects either skipped this year,
+  didn't make it to Friday night, or opted not to record.

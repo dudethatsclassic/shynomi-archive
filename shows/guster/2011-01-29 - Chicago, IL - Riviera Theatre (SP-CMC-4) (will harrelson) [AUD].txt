@@ -1,0 +1,57 @@
+Guster
+01.29.2011
+The Riviera Theatre
+Chicago, IL
+
+Taper:    Will Harrelson (taperwill@gmail.com)
+Source:   SP-CMC-4 Cardiods -> SP-SPSB-1 @ 69Hz -> Creative Nomad JB3
+Location: Left of FOH / 10' High
+
+Conversion: Will Harrelson (taperwill@gmail.com)
+Equipment:  Creative Nomad JB3 -> USB -> CDWave -> FLAC Frontend
+
+---------------------------------------------------------------------
+Disc 1:								57:49
+
+01: Intro							06:09
+02: What You Wish For						03:48
+03: Manifest Destiny						03:55
+04: Architects and Engineers					03:02
+05: Homecoming King!						05:10
+06: Stay With Me Jesus						03:48
+07: Backyard							03:21
+08: Satellite							04:28
+09: Barrel Of A Gun						04:58
+10: Red Oyster Cult#						04:03
+11: On The Ocean						04:39
+12: Come Downstairs & Say Hello					06:35
+13: Do You Love Me						03:53
+
+Disc 2:								54:15
+
+01: Bad Bad World						04:53
+02: Airport Song						04:23
+03: Don't Use Your Phone When You're Shitting on The Pot&	02:07
+03: One Man Wrecking Machine					03:33
+04: I Spy							03:46
+05: This Is How It Feels To Have A Broken Heart			03:37
+06: Happier							04:56
+07: This Could All Be Yours					04:51
+08: E1: Diane							04:08
+09: What You Call Love						04:48
+10: Demons							04:22
+11: The Captain							04:50
+12: E2: Under The Bridge*					04:01
+
+
+
+---------------------------------------------------------------------
+
+! (Chariots of Fire interpolation)
+# (Immigrant Song interpolation)
+& (yes, that's the name of the song)
+* (Thundergod on vox, Good Old War on backup vox)
+
+Thanks to Gordon for advising the best setup in the somewhat difficult Riv.
+
+Compiled by Will Harrelson on 01.31.2011

@@ -1,0 +1,38 @@
+Guster
+July 6th, 2022
+Schermerhorn Symphony Center, Nashville, TN
+
+Master:
+Tascam DR-05X>WAV>FLAC (24/48)
+by Dr. OhFive
+
+Conversion:
+FLAC > Sound Studio 4.10.1 (tracking) > xACT 2.50 > FLAC
+by Dave Mallick
+
+01. intro                        [02:33.855]
+02. Ramona                       [03:24.403]
+03. Long Night                   [05:05.863]
+04. What You Call Love           [04:35.595]
+05. Either Way                   [05:00.209]
+06. Hello Mister Sun             [04:24.645]
+07. Lightning Rod                [03:30.459]
+08. On The Ocean                 [04:55.614]
+09. Two Points For Honesty       [04:01.295]
+10. Do You Love Me               [04:35.805]
+11. Fa Fa                        [05:28.419]
+          --- set break ---
+12. Empire State                 [07:02.858]
+13. Dear Valentine               [04:57.393]
+14. Rocketship                   [05:02.289]
+15. Rise & Shine                 [03:50.776]
+16. Mind Kontrol                 [03:38.713]
+17. Doing It By Myself           [04:31.946]
+18. I Spy                        [04:46.229]
+19. Satellite                    [05:03.543]
+20. Come Downstairs & Say Hello  [07:43.910]
+21. E: Jesus On The Radio        [03:35.337]
+                          Total: [97:49.157]
+
+Entire show performed with the Nashville Symphony and
+Enrico Lopez-Yañez, conductor.

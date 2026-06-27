@@ -1,0 +1,27 @@
+guster
+city hall plaza @ government center
+boston, ma
+june 24, 2003
+
+taper/conversion: morgan halton
+source: at853 > sp p/s @ 95hz > m1
+conversion: m1 > sek'd prodif plus > cool edit pro* > cdwav
+location: on stack, 14' up, XY
+
+one disc			46:54
+01	intro			01:18
+02	barrel of a gun		03:54
+03	happier			05:13
+04	homecoming king		03:39
+05	airport song		03:58
+06	ramona ->		03:01
+07	what you wish for	04:51
+08	(nothing but) flowers^	05:08
+09	demons			05:10
+10	amsterdam		04:49
+11	fa fa			05:47
+
+* right channel increased by 3db.
+^ talking heads cover
+
+6.25.03

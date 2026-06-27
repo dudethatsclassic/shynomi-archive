@@ -1,0 +1,25 @@
+Guster
+June 21st, 2006
+Bull Moose Music, Scarborough, ME
+
+Master:
+AT803b's>battery box>D8
+by Dave Mallick [greenone@bluestraveler.net]
+
+Conversion:
+Tascam DA-20>Egosys U2A>Sound Studio 2.1.1b3>AIFF>xACT 1.58
+by Dave Mallick [greenone@bluestraveler.net]
+
+CD 1 [38:06.47] (minutes:seconds.frames)
+01. One Man Wrecking Machine [06:21.69]
+02. Careful                  [05:29.14]
+03. Lightning Rod            [03:46.55]
+04. Jesus On The Radio       [02:20.45]
+05. Barrel Of A Gun          [06:09.22]
+06. Happier                  [04:35.52]
+07. The Captain              [05:40.74]
+08. Amsterdam                [03:42.16]
+
+Notes:
+- Entire show performed in a stripped-down acoustic arrangement, but 
+  still plugged in to amplifiers.

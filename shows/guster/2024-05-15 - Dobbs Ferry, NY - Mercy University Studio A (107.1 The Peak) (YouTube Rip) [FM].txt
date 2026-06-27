@@ -1,0 +1,23 @@
+Guster
+May 15th, 2024
+107.1 The Peak - Peak Performance
+Studio A, Mercy University, Dobbs Ferry, NY
+
+Master:
+by 107.1 The Peak
+
+Conversion:
+yt-dlp > wav > Sound Studio 4.11.0 > xACT 2.57 > FLAC
+by Dave Mallick
+
+01. Keep Going     [03:45.212]
+02. interview      [06:53.643]
+03. Black Balloon  [02:55.862]
+04. interview      [05:47.618]
+05. Hang On        [04:32.213]
+06. interview      [01:36.674] 
+            Total: [25:31.221]
+ 
+Hosted by Chris "Coach" Rodriguez.
+
+Full video: https://www.youtube.com/watch?v=-Au-YxtbDig

@@ -1,0 +1,51 @@
+Guster
+On The Ocean Festival, night 2
+August 9th, 2025
+Thompson's Point, Portland, ME
+
+Master:
+AKG C414 XLS (hyper) > Lunatec V3 > Tascam DR-100 mkIII (24/48)
+Dead center at front of house tent
+by Dave Mallick - thanks to Dan Godwin for the clamp space!
+
+Conversion:
+Tascam DR-100 mkIII > WAV > Sound Studio 4.10.1 > xACT 2.57 > FLAC
+by Dave Mallick
+
+01. Barrel Of A Gun              [04:29.131]
+02. The Elevator                 [03:19.139]
+03. Two Points For Honesty       [04:06.452]
+04. Kid Dreams                   [05:14.960]
+05. Timothy Leary                [03:46.512]
+06. Demons                       [04:06.610]
+07. Center Of Attention          [04:58.682]
+08. Black Balloon                [03:02.920]
+09. One Man Wrecking Machine     [05:02.382]
+10. Overexcited *                [03:56.301]
+11. Diane                        [04:49.398]
+12. Terrified                    [03:40.246]
+13. moving to the B stage        [04:17.129]
+14. Jesus On The Radio #         [02:35.468]
+15. Hard Times #                 [04:03.755]
+16. Blister In The Sun #         [02:45.592]
+17. moving to the main stage     [02:00.469]
+18. Mona Lisa                    [04:52.175]
+19. Careful                      [03:39.834]
+20. What You Call Love           [04:45.179]
+21. Come Downstairs & Say Hello  [06:52.794]
+22. E: Hang On                   [05:37.577]
+23.    Happier                   [04:41.007]
+24.    Lido Shuffle $            [05:39.928]
+                         Total: [102:23.640]
+
+* with Matt Douglas (Mountain Goats) on saxophone
+# with Joe Pisapia on guitar
+$ Boz Scaggs cover, with John Darnielle (Mountain Goats) on vocals, Matt
+  Douglas (Mountain Goats) on saxophone, Craig Finn (The Hold Steady) on
+  vocals, Eric Johnson (Fruit Bats) on vocals
+
+Timothy Leary was the only song repeated all weekend; third time played
+since 2018.
+
+The three songs with Joe Pisapia were performed on the B-stage, a small
+raised platform in the middle of the crowd to the west side.

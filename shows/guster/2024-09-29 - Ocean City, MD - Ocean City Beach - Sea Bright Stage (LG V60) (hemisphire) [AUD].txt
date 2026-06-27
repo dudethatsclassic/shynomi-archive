@@ -1,0 +1,24 @@
+Guster
+September 29th, 2024
+Ocean City Beach, Ocean City, MD
+Oceans Calling Festival
+Sea Bright stage
+
+Taper: hemisphire
+Source: LG V60 > RecForge II Pro > WAV
+Lineage: WAV > ffmpeg (track split) > Trader's Little Helper > FLAC
+
+01. intro
+02. One Man Wrecking Machine
+03. Barrel Of A Gun
+04. When We Were Stars
+05. Ramona
+06. Satellite
+07. Amsterdam
+08. Mind Kontrol
+09. Happier
+10. Doin' It By Myself
+11. Come Downstairs And Say Hello
+12. Do You Love Me
+13. Demons
+14. Terrified

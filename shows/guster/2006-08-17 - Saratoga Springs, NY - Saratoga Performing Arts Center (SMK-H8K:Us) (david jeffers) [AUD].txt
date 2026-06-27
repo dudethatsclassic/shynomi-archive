@@ -1,0 +1,93 @@
+Guster
+August 17, 2006
+Saratoga Performing Arts Center (SPAC)
+Saratoga Springs, NY
+
+Taper:		David Jeffers <oysterhead00@hotmail.com>
+Source:		Superlux SMK-H8K/U's > PS-2 > AD-20 > CJB3 (WAV 44.1 Optical In)
+Location:	Behind SBD, DFC, @ ~9'.  X/Y Config.
+Transfer:	CJB3 > Firewire > SoundForge > CDWave > FLAC
+
+Disc One
+--------------------------------------------------------
+01.  Intro					00:45.08
+02.  What You Wish For				04:13.07
+03.  The Captain				03:58.25
+04.  Diane					04:04.57
+05.  New Underground				03:32.26
+06.  Deamons > 					04:09.42
+07.  Center Of Attention			04:45.70
+08.  Long Way Down				04:53.14
+09.  Airport Song (Spooky Version)		04:48.01
+10.  SPAC(e) Spaceship Banter			01:04.09
+11.  One Man Wrecking Machine			03:39.03
+12.  C'Mon					04:54.51
+13.  I Spy					05:01.55
+14.  Manifest Destiny				03:44.43
+--------------------------------------------------------
+Total:						53:34.36
+
+Disc Two
+--------------------------------------------------------
+01.  Amsterdam					04:18.60
+02.  Barbershop Pun Banter			01:12.58
+03.  Hang On					04:55.63
+04.  Come Downstairs And Say Hello		06:57.36
+05.  Encore Planning Banter			01:09.56
+06.  Happier					06:57.36
+07.  Close Encounters of the Cell Phone Kind	02:47.27
+Encore:
+08.  Ruby Falls*				07:36.29
+09.  Satellite					04:54.11
+10.  Saratoga Jazz Odyssey >			00:53.16
+11.  Barrel of a Gun+				04:39.26
+12.  Keep It Together^				06:47.74
+--------------------------------------------------------
+Total:						50:52.64
+
+
+Notes:
+*  Adam on Trumpet
++  Joe on Banjo
+^  Joe Solo Intro
+
+Show Notes:
+Guster's first every appearence in Saratoga.  A Gusterino
+(younger roadie) played the drum kits, tamborine, etc on
+a bunch of songs, but I can't remember which to properly
+note.  Mr Clean, bald roadie, played keyboards on a few
+tracks as well.  GREAT crowd really into the show and
+singing along, but no real screamers.  Also a pretty
+decent number of ping pong balls on Airport Song.
+
+FLAC Fingerprints
+------------------------------------------------------------
+guster2006-08-17d01t01.flac:3c3ca419f99a899b4a6d9032d2e80313
+guster2006-08-17d01t02.flac:9cf6a2960fc909823640886b56eb0100
+guster2006-08-17d01t03.flac:ea0ce49e28f19075757d5ca444ac2f79
+guster2006-08-17d01t04.flac:1fddcb4f25bb4841758f1f4fe3d1b866
+guster2006-08-17d01t05.flac:bfebb3822b92e01478d0ba3e810a5651
+guster2006-08-17d01t06.flac:e58a0f126656abadc15f06006a480088
+guster2006-08-17d01t07.flac:f25ad5d93fc97d144d0b15ec647da6c7
+guster2006-08-17d01t08.flac:5440c926f0d1018d748860280bb8154c
+guster2006-08-17d01t09.flac:c85ee3940890c31b8ebe6f1b8523a6c6
+guster2006-08-17d01t10.flac:bad77777981bf25878fa760c18f0ae3c
+guster2006-08-17d01t11.flac:edf465a379dbc6f747aeecf8909a7c1a
+guster2006-08-17d01t12.flac:8e7ace6c360d9c035f91077e7ad47826
+guster2006-08-17d01t13.flac:6f0529bfab1f69a631adc4f34cde541f
+guster2006-08-17d01t14.flac:2ab9261a03ea32090ed817219d148d0a
+guster2006-08-17d02t01.flac:8e45f61222c0cac45b79d8a6d8cf56f0
+guster2006-08-17d02t02.flac:48df59823d0865f0a45d97989ecdc518
+guster2006-08-17d02t03.flac:a9c3c83b14a5728b8d0a4924a168433d
+guster2006-08-17d02t04.flac:056d3da7ccce18b8a3d6352c47257c8a
+guster2006-08-17d02t05.flac:4a7d77a611e98f5f31704802fb08d9ca
+guster2006-08-17d02t06.flac:31d2118b575b57384dc41835ea8ab4ea
+guster2006-08-17d02t07.flac:95035843e8f88024e48782bbae13c2b6
+guster2006-08-17d02t08.flac:21bbcd33a8e36ba2b23e72ea0f1f6813
+guster2006-08-17d02t09.flac:21a8e55517c14cddc60002a96e2c087a
+guster2006-08-17d02t10.flac:b8519f990ff1aed51e01fda167b5e067
+guster2006-08-17d02t11.flac:6cf435ab8865cf7a20be7369869430c1
+guster2006-08-17d02t12.flac:2012d3b9ec596431f495b4ad4d2b073a
+------------------------------------------------------------
+
+Transfered, Indexed and Tracked August 18, 2006.

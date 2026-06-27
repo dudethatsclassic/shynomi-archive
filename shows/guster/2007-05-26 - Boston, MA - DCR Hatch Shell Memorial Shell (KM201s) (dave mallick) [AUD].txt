@@ -1,0 +1,30 @@
+Guster
+May 26th, 2007
+WBOS Earthfest
+DCR Hatch Memorial Shell, Boston, MA
+
+Master:
+Elation KM201's>Lunatec V2>Graham-Patten ADC-20>Microtrack 24/96
+front right corner of soundboard tent
+by Dave Mallick [greenone@bluestraveler.net]
+
+Conversion:
+Tascam DA-20>Egosys U2A>Sound Studio 2.1.1b3 (normalize)>xACT 1.59
+by Dave Mallick [greenone@bluestraveler.net]
+
+CD 1 (minutes:seconds.frames)   [67:17.72]
+01. The Captain                 [03:47.20]
+02. Barrel Of A Gun             [04:18.22]
+03. Keep It Together            [04:13.31]
+04. Amsterdam                   [04:12.30]
+05. Demons                      [04:02.47]
+06. Center Of Attention         [04:37.60]
+07. Brazil                      [03:50.44]
+08. Manifest Destiny            [03:28.07]
+09. G Major                     [03:43.63]
+10. Come Downstairs & Say Hello [07:02.50]
+11. One Man Wrecking Machine    [03:42.38]
+12. Satellite                   [04:49.04]
+13. Airport Song                [04:23.00]
+14. C'mon                       [04:45.06]
+15. Fa Fa                       [06:21.25]

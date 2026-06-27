@@ -1,0 +1,36 @@
+Guster
+March 21st, 2011
+Irving Plaza, New York, NY
+
+Master/Conversion:
+Microtech Gefell M210's>Oade M248>SBM-1>D8, D8>Tascam CDRW2000>CD
+by Jon Pasternak
+
+Extraction:
+CD>xACT 2.08 (cdparanoia)>WAV>Sound Studio 2.2.4 (retrack)>xACT 2.08>FLAC
+by Dave Mallick
+
+Disc 1 [48:07.22]
+01. The Captain                                     [04:18.64]
+02. Barrel Of A Gun                                 [04:26.69]
+03. Architects & Engineers                          [03:20.51]
+04. What You Call Love                              [04:22.66]
+05. Ramona                                          [03:38.45]
+06. Satellite                                       [05:07.05]
+07. Red Oyster Cult>Immigrant Song                  [04:14.71]
+08. Airport Song                                    [04:22.43]
+09. This Could All Be Yours                         [04:26.72]
+10. One Man Wrecking Machine                        [03:40.43]
+11. Come Downstairs & Say Hello                     [06:07.18]
+
+Disc 2 [45:31.22]
+01. Do You Love Me                                  [04:26.12]
+02. Demons                                          [04:05.31]
+03. Center Of Attention                             [04:19.26]
+04. Hercules                                        [03:16.39]
+05. Amsterdam                                       [03:58.11]
+06. Hang On<>My Life                                [08:15.34]
+07. E: Manifest Destiny                             [04:37.49]
+08.    This Is How It Feels To Have A Broken Heart  [04:30.72]
+09.    Mona Lisa                                    [03:08.15]
+10.    Happier                                      [04:53.33]

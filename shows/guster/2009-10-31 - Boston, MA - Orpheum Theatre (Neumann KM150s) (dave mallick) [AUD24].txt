@@ -1,0 +1,61 @@
+Guster
+October 31st, 2009
+Orpheum Theatre, Boston, MA
+
+Master:
+Neumann KM150's>Lunatec V3>Microtrack 2496
+recorded from atop the right-side entrance ramp
+by Dave Mallick
+
+Conversion:
+WAV>Audacity 1.3.6>xACT 1.69>FLAC - 24-bit/48kHz
+by Dave Mallick
+
+Disc 1 [57:06.595]
+01. Set I intro                 [01:15.393]
+02. G Major                     [03:34.128]
+03. Manifest Destiny            [03:48.707]
+04. Ramona                      [03:22.387]
+05. Satellite                   [05:50.472]
+06. Red Oyster Cult>Reaper      [05:09.607]
+07. This Could All Be Yours     [03:55.980]
+08. Demons                      [06:47.338]
+09. Diane                       [04:02.145]
+10. Jonah                       [03:48.292]
+11. Rocketship                  [04:44.118]
+12. Come Downstairs & Say Hello [07:03.476]
+13. The Captain                 [03:44.552]
+
+Disc 2 [70:50.019]
+01. Set II intro                [01:35.666]
+02. What You Wish For           [04:22.478]
+03. Barrel Of A Gun             [04:22.850]
+04. Either Way*                 [05:36.359]
+05. Fa Fa#                      [05:49.058]
+06. I Spy                       [05:26.138]
+07. Center Of Attention         [04:43.242]
+08. All The way Up To Heaven$   [05:54.943]
+09. Happier                     [04:55.011]
+10. So Long%                    [03:53.996]
+11. Two Points For Honesty*     [04:03.520]
+12. Rainy Day                   [07:05.792]
+13. E: Hang On                  [04:44.171]
+14.    Airport Song             [06:00.363]
+15.    Jesus On The Radio       [02:16.433]
+
+* with Marissa and Robin on cello and violin
+# with Keith, Pete and Stu on saxophone, trumpet and trombone
+$ with a local children's school chorus
+% with Robin on cello
+
+Notes:
+- These are 24-bit files which cannot be burned to a CD. A 16-bit
+  fileset is also available.
+- Thanks to Brandon Smith for loaning me his mic cables, and to Jon
+  Pasternak for the generous mic loan.
+- Set I intro was the band taking the stage to an untitled Neutral Milk
+  Hotel track they used to use years ago. Set II's intro was a reference
+  to their entrance on 10/30/99, where they lowered from the rafters,
+  wearing tuxedoes, to the theme from 2001: A Space Odyssey. This time,
+  they were normally-attired, and the same song was butchered by an
+  unidentified (and possibly self-produced) horn section.

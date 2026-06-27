@@ -1,0 +1,22 @@
+Guster
+January 27th, 2000
+WXPN-FM Studios, Philadelphia, PA
+
+Master:
+FM > Cass(1)
+by Mary London
+
+Conversion:
+Nakamichi CR-2A > Lunatec V3 (A/D) > Tascam DR-100 mkIII > 
+WAV > Sound Studio 4.10.1 > xACT 2.50 > FLAC
+by Dave Mallick
+
+01. interview          [03:19.407]
+02. Barrel Of A Gun    [03:18.141]
+03. I Spy              [02:58.596]
+04. Airport Song       [03:11.396]
+05. What You Wish For  [03:46.556]
+06. outro              [00:56.913]
+                Total: [17:31.009]
+
+Some pretty bad FM warble during quiet parts, but the music is fine.

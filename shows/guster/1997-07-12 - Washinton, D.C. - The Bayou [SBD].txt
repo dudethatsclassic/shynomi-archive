@@ -1,0 +1,56 @@
+Guster
+July 12, 1997
+The Bayou
+Washington, DC
+
+
+Taper:		Bill Lakenan <blakenan@us.net>
+Source:		DAud [Microtech Geffell SMS2000/200(cards)->Oade M148->Sony SBM1->Sony D7]
+Location:	At soundboard
+
+DAT > SHN:	Archive Python DDS/vdat > .wav (Direct DAT extraction, no soundcard)
+		Bill Lakenan <blakenan@us.net> and Louie Rendek <ljr7@po.cwru.edu>
+
+Disc One:
+
+01:	Intro					-	02:32.27
+02:	Grin					-	05:25.63
+03:	Fall In Two				-	04:30.68
+04:	Demons					-	05:12.03
+05:	Love For Me				-	04:44.31
+06:	Bury Me					-	03:30.64
+07:	X-ray Eyes				-	04:09.72
+08:	Dissolve				-	05:49.06
+09:	Window					-	03:49.08
+10:	Parachute				-	04:40.48
+
+Total:						-	41:19.45
+
+
+Disc Two:
+
+01:	Intro					-	00:20.21
+02:	Great Escape #				-	03:54.24
+03:	White Wedding $				-	02:25.06
+04:	Happy Frappy				-	03:55.37
+05:	Rocketship				-	04:16.61
+06:	Airport Song				-	03:38.01
+07:	Perfect					-	04:32.14
+08:	Mona Lisa				-	04:21.14
+09:	the "Tufts" song			-	00:48.49
+10:	Dregs					-	05:40.66
+11:	E:  Melanie				-	04:11.25
+12:	E:  Scars and Stitches			-	03:15.03
+
+Total:						-	44:25.15
+
+#  slow-style beginning
+$  /w Mean Joe, the band's tour manager on vocals  :o)
+
+Notes:
+----------
+there is a small zap of diginoise at 0:44 and 0:58 in the intro track crowd 
+chatter of disc one.
+there is a small zap of diginoise at 0:27 into d2t05.
+
+* compiled by Louie Rendek <ljr7@po.cwru.edu>

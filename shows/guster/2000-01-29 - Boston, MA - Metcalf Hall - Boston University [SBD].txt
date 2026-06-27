@@ -1,0 +1,37 @@
+Guster
+January 29th, 2000
+Metcalf Hall, Boston University, Boston, MA
+
+Master:
+SBD + Shure VP-88>Mackie 1202-VLZ>TC Electronics Finalizer Plus>DA-P1>D8
+Matrix operated by Mike "Pasty" Corcoran, patch by Dave Mallick
+
+Conversion:
+Tascam DA-20>Microtrack 24/96>WAV>Sound Studio 2.2.4>xACT 1.71
+by Dave Mallick
+
+Disc 1 [43:56.52]
+01. I Spy                     [06:21.63]
+02. Bury Me                   [02:55.30]
+03. Happier                   [04:43.20]
+04. All The Way Up To Heaven  [07:05.21]
+05. What You Wish For*        [03:53.50]
+06. X-Ray Eyes*               [06:20.74]
+07. The Prize*                [03:44.42]
+08. Barrel Of A Gun*          [04:21.57]
+09. Rocketship                [04:29.70]
+
+Disc 2 [41:10.59]
+01. California Dreamin'       [06:22.17]
+02. Airport Song#             [04:23.33]
+03. Either Way                [05:26.67]
+04. Demons                    [05:06.49]
+05. Center Of Attention       [05:18.20]
+06. Fa Fa                     [05:51.42]
+07. E: Mona Lisa              [05:35.24]
+08.    Great Escape           [03:06.32]
+
+* with Kurt Uenala (My Favorite Relative) on upright bass
+# with Graham Wiggins, aka Dr. Didg, on didgeridoo
+
+SBD portion of matrix kicks in around 3:45 of Rocketship. Watch your ears.

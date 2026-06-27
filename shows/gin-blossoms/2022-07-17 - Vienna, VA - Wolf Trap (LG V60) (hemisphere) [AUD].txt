@@ -1,0 +1,19 @@
+Gin Blossoms
+7/17/2022
+Wolf Trap
+Vienna, VA
+
+Taper: hemisphire
+Source: LG V60 > WAV
+Lineage: WAV > ffmpeg (track split) > FLAC
+
+01. Follow You Down
+02. Break
+03. Allison Road
+04. As Long As It Matters
+05. Lost Horizons
+06. Until I Fall Away
+07. Found Out About You
+08. Hey Jealousy
+09. Smoke On The Water (tease)
+10. Til I Hear It From You

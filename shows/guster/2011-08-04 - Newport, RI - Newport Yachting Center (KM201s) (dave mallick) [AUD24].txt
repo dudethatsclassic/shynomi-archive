@@ -1,0 +1,45 @@
+Guster
+August 4th, 2011
+Newport Yachting Center, Newport, RI
+
+Master:
+Elation KM201's>Lunatec V3>Microtrack 24/96 (24-bit, 48kHz WAV)
+from the center of the 11th row
+by Dave Mallick
+
+Conversion:
+WAV>Sound Studio 2.2.4 (track/dither/resample)>xACT 2.13>FLAC
+by Dave Mallick
+
+01. What You Wish For                               [04:53.118]
+02. The Captain                                     [04:04.735]
+03. Architects & Engineers                          [03:00.227]
+04. What You Call Love                              [04:07.853]
+05. Airport Song                                    [04:18.947]
+06. Hercules                                        [03:21.044]
+07. Happier                                         [04:52.314]
+08. Satellite                                       [04:55.938]
+09. Red Oyster Cult                                 [03:45.478]
+10. This Could All Be Yours                         [04:19.889]
+11. One Man Wrecking Machine                        [04:05.231]
+12. Diane                                           [03:54.653]
+13. Come Downstairs & Say Hello                     [06:09.360]
+14. Do You Love Me                                  [03:40.080]
+15. banter/Newport improv                           [02:42.627]
+16. Jonah                                           [03:21.097]
+17. Ramona                                          [03:13.249]
+18. Manifest Destiny                                [03:20.956]
+19. Amsterdam                                       [04:25.044]
+20. Demons                                          [05:28.293]
+21. Hang On                                         [07:14.613]
+22. E: This Is How It Feels To Have A Broken Heart  [03:40.511]
+23.    Barrel Of A Gun                              [04:17.542]
+                                             Total: [97:12.800]
+
+This recording is dedicated to the family sitting next to us - they
+came with two kids who stood up and sang the whole show. The son
+peppered me with questions before the show, hoping to hear some of
+his favorites from Goldfly. Hope you enjoyed Demons and Airport!
+
+This is a 24-bit, 48kHz recording and is not suitable for burning to CD.
+A 16-bit, 44.1kHz recording is available.

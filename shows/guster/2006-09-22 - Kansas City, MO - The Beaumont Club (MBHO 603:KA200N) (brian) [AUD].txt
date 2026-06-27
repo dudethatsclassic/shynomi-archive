@@ -1,0 +1,52 @@
+Guster
+2006-09-22
+The Beaumont Club - Kansas City, MO
+
+MBHO 603/KA200N>Edirol R-4@2496
+Tracked in CDWav>Dither to 1544 in Sound Forge>FLAC
+Taped and Tracked by brian@liverecording.org
+
+01 Captain
+02 Demons
+03 Diane
+04 Amsterdam
+05 What You Wish For
+06 Manifest Destiny
+07 Satellite
+08 Great Escape
+09 Airport Song
+10 Long Way Down
+11 Ruby Falls
+12 C'Mon
+13 Barrel of a Gun
+14 One Man Wrecking Machine
+15 Come Downstairs and Say Hello
+16 Vitriol
+17 Happier
+18 Hang On
+19 Red Oyster Cult
+20 I Spy
+
+
+guster2006-09-22t15.16bit.flac:c01d2b65c267be9487618a49dbf37939
+guster2006-09-22t16.16bit.flac:d895f0be3d8b5860cb5eab33015d73af
+guster2006-09-22t17.16bit.flac:1cbc557364d98873d04d11f8e7162455
+guster2006-09-22t18.16bit.flac:c34187c3a12129a1bda0767393165a52
+guster2006-09-22t19.16bit.flac:673c6f374e927e06064b5353ba8da7e3
+guster2006-09-22t20.16bit.flac:93ebb099e7d2f62e3ec5ffe57746be61
+guster2006-09-22t01.16bit.flac:824d8a11166fed8aed42c7bb3f1307ce
+guster2006-09-22t02.16bit.flac:e59dac26f6d64e611be8177572cbe2cc
+guster2006-09-22t03.16bit.flac:9acd266c96273ba58d5fd31751f884f2
+guster2006-09-22t04.16bit.flac:4c3e9e537861c3b580b98599aace6ada
+guster2006-09-22t05.16bit.flac:d8678378f271f21d432aa291ca8df83b
+guster2006-09-22t06.16bit.flac:dac25ce57e6eff90090d73d67422f167
+guster2006-09-22t07.16bit.flac:2a897c8543495c40d549b20e76015a39
+guster2006-09-22t08.16bit.flac:679a4f769fc9e9a2725ea8d859df0e4f
+guster2006-09-22t09.16bit.flac:9405ee94979114c9dcf329daada44816
+guster2006-09-22t10.16bit.flac:083c910ca3db439dc412af6a129f4f4f
+guster2006-09-22t11.16bit.flac:f775080ad59d23d29f3c5263a0be3ef9
+guster2006-09-22t12.16bit.flac:5e6a81ed23030f5c163cbea62b4fba29
+guster2006-09-22t13.16bit.flac:b9bb33b62fe58e285ddf3b6e5f9bacd4
+guster2006-09-22t14.16bit.flac:3f90b20a6b6ce667b72da8cd1c31fb04
+
+

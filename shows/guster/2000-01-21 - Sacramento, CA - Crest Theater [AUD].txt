@@ -1,0 +1,32 @@
+guster
+1/21/00
+crest theater
+sacramento, CA
+
+taper:  allan chen
+source:  akg480/ck61 (-10db pad)>beyer mv100>m1
+next to SBD, 8.5' stand
+
+conversion:  allan chen
+sony r300>sek'd prodif plus>samplitude>cdwav
+
+**no DAE.  dat>wav>shn
+
+1 - intro
+2 - what you wish for
+3 - bury me
+4 - either way
+5 - barrel of a gun
+6 - i spy
+7 - happier
+8 - airport song
+9 - rocketship
+10 - fa fa fa
+11 - california dreamin'
+
+comments
+----------
+2nd act of vertical horizong/guster/stroke 9 bill
+
+compiled by allan chen
+1/22/00

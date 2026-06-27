@@ -1,0 +1,32 @@
+Guster
+October 31st, 2010
+Mix 104.1 "Boo Bash"
+Hard Rock Cafe, Boston, MA
+
+Master:
+Elation KM201's>Lunatec V3>Microtrack 24/96>WAV (24/48)
+Taped from the front pole right by the stage, 8' high
+by Dave Mallick
+
+Conversion:
+WAV>Sound Studio 2.2.4>xACT 2.05>FLAC
+by Dave Mallick
+
+01. Satellite                 [05:52.60]
+02. This Could All Be Yours   [04:46.22]
+03. One Man Wrecking Machine  [03:54.27]
+04. Careful                   [04:30.72]
+05. Bad Bad World             [04:56.15]
+06. "Nine-Point Buck"         [02:24.63]
+07. The Captain               [04:08.01]
+08. Do You Love Me            [04:33.73]
+09. C'mon                     [04:35.52]
+10. Amsterdam                 [05:11.26]
+11. Barrel Of A Gun           [03:33.01]
+                       Total: [48:27.37]
+
+Notes:
+- Track 6 is an improv song featuring Luke putting his sweater back on.
+  It featured a "nine-point buck" knitted into the back, hence the title.
+- The last track was done acoustic at stage edge - I boosted the levels
+  so it could be heard, but the crowd was pretty loud as a result.

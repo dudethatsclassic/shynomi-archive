@@ -1,0 +1,87 @@
+Guster
+7/21/1999
+Bill's Bar
+Boston, MA
+
+
+
+Source:
+
+SBD > DA-P1 (44.1)
+
+Conversion:
+
+Tascam DA-20 MKII > Tascam HD-P2 > Sony Soundforge 8.0 > CD Wavae > Flac
+
+Taper:
+
+Brandon Smith
+
+Conversion:
+
+Patrick Price (patrickprice@comcast.net)
+
+
+Setlist:
+
+1.  All the Way Up To Heaven
+2.  What You Wish For
+3.  Rocketship
+4.  Window
+5.  Racetrack
+6.  So Long
+7.  Center of Attention
+8.  Parachute
+9.  Happier
+10. Bury Me
+11. X-Ray Eyes #
+12. Demons #
+13. FaFa Song #
+
+Encore:
+
+14. Dissolve #
+15. Great Escape
+
+Notes:
+
+# - With Dan from FGH on Sax, etc.
+Missing first 3 songs - Barrel of a Gun, I Spy, Airport Song
+
+Flac Fingerprint:
+
+guster1999-07-21s1t01.flac:71350932a14bcab9377a86ca424f7cde
+guster1999-07-21s1t02.flac:92e620349d0a98d471657dd3a5052b0e
+guster1999-07-21s1t03.flac:66f12126012d4f108ce33f7dabc2aa63
+guster1999-07-21s1t04.flac:8f8374abe4085746373f18da911c5f72
+guster1999-07-21s1t05.flac:19bccfb1cb70f6f70c6be1e413180305
+guster1999-07-21s1t06.flac:d3454dab9216ca2dec5ba45624eac0ec
+guster1999-07-21s1t07.flac:06a1421c6505608f3a2faf4daadfffb1
+guster1999-07-21s1t08.flac:940565c53a338e57198f4bd908433bef
+guster1999-07-21s1t09.flac:28b74fcd24e4493e94674acb204de883
+guster1999-07-21s1t10.flac:e4f9a266893bfac40aed450eb9caed44
+guster1999-07-21s1t11.flac:9d87427a625fc92ec2409067868f01b6
+guster1999-07-21s1t12.flac:349856aeb57ad030708adb8f73761264
+guster1999-07-21s1t13.flac:f7554068ea46ac174b2db68baca66e48
+guster1999-07-21s1t14.flac:e4cab8229c318e2a75d6362852d55b57
+guster1999-07-21s1t15.flac:fcdc3f13fb9a4036674d96f11c3ef7eb
+
+Shntool Output:
+
+    length     expanded size    cdr  WAVE problems  fmt   ratio  filename
+     6:06.53       64687100 B   ---   --   ---xx   flac  0.2693  guster1999-07-21s1t01.flac
+     4:07.69       43733132 B   ---   --   ---xx   flac  0.2735  guster1999-07-21s1t02.flac
+     4:44.40       50191724 B   ---   --   ---xx   flac  0.2460  guster1999-07-21s1t03.flac
+     3:21.33       35534060 B   ---   --   ---xx   flac  0.2768  guster1999-07-21s1t04.flac
+     1:44.51       18465596 B   ---   --   ---xx   flac  0.2165  guster1999-07-21s1t05.flac
+     3:08.15       33198524 B   ---   --   ---xx   flac  0.2511  guster1999-07-21s1t06.flac
+     5:45.58       60994460 B   ---   --   ---xx   flac  0.2527  guster1999-07-21s1t07.flac
+     5:04.51       53745596 B   ---   --   ---xx   flac  0.2620  guster1999-07-21s1t08.flac
+     6:35.14       69710972 B   ---   --   ---xx   flac  0.2388  guster1999-07-21s1t09.flac
+     3:20.44       35383532 B   ---   --   ---xx   flac  0.2412  guster1999-07-21s1t10.flac
+     4:16.56       45290156 B   ---   --   ---xx   flac  0.2815  guster1999-07-21s1t11.flac
+     5:24.24       57210092 B   ---   --   ---xx   flac  0.2460  guster1999-07-21s1t12.flac
+     6:29.56       68751356 B   ---   --   ---xx   flac  0.2702  guster1999-07-21s1t13.flac
+     7:09.65       75828524 B   ---   --   ---xx   flac  0.2369  guster1999-07-21s1t14.flac
+     3:39.62       38777468 B   ---   --   ---xx   flac  0.2414  guster1999-07-21s1t15.flac
+    71:00.16      751502292 B                            0.2545  (15 files)

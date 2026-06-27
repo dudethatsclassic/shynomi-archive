@@ -1,0 +1,47 @@
+Guster
+April 21st, 2007
+Opera House, Boston, MA
+
+Master:
+Elation KM201's>Lunatec V2>Graham Patten ADC-20>M-Audio Microtrack 24/96
+Row T, center
+by Dave Mallick [greenone@bluestraveler.net]
+
+Conversion:
+Microtrack>Sound Studio 2.1.1b3>xACT 1.59
+by Dave Mallick [greenone@bluestraveler.net]
+
+Disc 1 [46:35.52] (minutes:seconds.frames)
+01. GSPN Intro                  [04:12.60]
+02. The Captain                 [03:32.06]
+03. Demons                      [04:05.08]
+04. Center Of Attention         [04:48.63]
+05. Hang On                     [04:30.16]
+06. Amsterdam                   [03:53.55]
+07. Manifest Destiny            [03:28.05]
+08. Airport Song                [04:36.34]
+09. Ramona                      [03:15.35]
+10. Ruby Falls                  [07:10.64]
+11. The New Underground         [03:02.06]
+
+Disc 2 [49:34.24]
+01. Barrel Of A Gun             [05:45.05]
+02. G Major                     [03:46.36]
+03. Lightning Rod               [03:01.05]
+04. Come Downstairs & Say Hello [07:45.25]
+05. Fa Fa                       [05:35.53]
+06. E1: Two Points For Honesty  [04:07.17]
+07.     Parachute               [05:03.67]
+08.     Satellite               [06:32.70]
+09. E2: Beginning Of The End    [03:09.58]
+10.     Happier                 [04:46.63]
+
+Notes:
+- The GSPN intro was a video montage filmed by Dave Yonkman and
+  narrated by ESPN anchor John Buccigross, a big fan of the band,
+  who was at both nights' shows. It can be seen in its glorious 
+  entirety at http://youtube.com/watch?v=VYOAQPQQyO0
+- 10-second dropout in The Captain - my deck had an accidental
+  hiccup and I had to restart the recording. Stupid human error.
+- Yes, Bob Saget actually came out between the main set and the 
+  encore.

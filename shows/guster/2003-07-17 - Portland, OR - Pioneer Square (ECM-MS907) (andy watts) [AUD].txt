@@ -1,0 +1,34 @@
+Guster
+July 17th, 2003
+Pioneer Square, Portland, OR
+
+Master creation: 
+Sony ECM-MS907>Sony MZ-R37 MD
+MZ-R37>line in>Felt Tip Sound Studio>AIFF>CD
+by Andy Watts [rynedee@runbox.com]
+
+SHNs were made: 
+Master CD>Aqua CD Burn 0.3 (cdparanoia)>AIFF>
+Sound Studio 2.1.1b3 (retrack)>xACT (shntool)
+by Dave Mallick [greenone@bluestraveler.net] 
+
+CD 1 [60:18.18] (minutes:seconds.frames) 
+01. Intro                  [01:46.21]
+02. Demons                 [04:17.07]
+03. Barrel Of A Gun        [04:48.30]
+04. Ramona>                [02:58.15]
+05. What You Wish For      [04:03.27]
+06. (Nothing But) Flowers  [05:27.16]
+07. Either Way             [05:27.37]
+08. Homecoming King        [03:24.65]
+09. Amsterdam              [04:23.00]
+10. I Spy                  [04:23.13]
+11. Airport Song           [03:44.39]
+12. Happier                [05:25.70]
+13. Fa Fa                  [05:52.51]
+14. E: Center Of Attention [04:16.02]
+
+Notes:
+- All tracks extracted at 100% with no errors in cdparanoia. All clicks
+  and pops are on the CD as it was made for me.
+- Taper inserted fade out/in between tracks 13 and 14.

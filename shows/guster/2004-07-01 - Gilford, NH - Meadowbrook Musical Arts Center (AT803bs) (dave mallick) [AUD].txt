@@ -1,0 +1,32 @@
+Guster
+July 1st, 2004
+Meadowbrook Musical Arts Center, Gilford, NH
+
+Master creation: 
+AT803b's>battery box>D8
+by Dave Mallick [greenone@bluestraveler.net]
+
+SHNs were made: 
+Tascam DA-20>emi 2|6>Sound Studio 2.1.1b3>AIFF>xACT 1.4d1
+by Dave Mallick [greenone@bluestraveler.net] 
+
+Disc 1 [66:49.25] (minutes:seconds.frames)
+01. Happier                     [05:42.61]
+02. Careful                     [03:54.50]
+03. Come Downstairs & Say Hello [06:52.60]
+04. Demons                      [04:59.54]
+05. Amsterdam                   [04:04.36]
+06. Ramona                      [05:38.00]
+07. Airport Song                [03:18.63]
+08. Barrel Of A Gun             [06:52.16]
+09. Diane                       [03:43.69]
+10. Homecoming King             [06:33.64]
+11. So Long                     [04:03.40]
+12. Fa Fa                       [05:52.48]
+13. I Spy                       [05:11.64]
+
+Notes:
+- Stealth recording; some chattiness and off-key singing from neighbors.
+- Some overload in particularly loud passages - low end is particularly
+  rumbly due to a bad battery box. Clipping at the end of track 7. Next
+  show, new battery...

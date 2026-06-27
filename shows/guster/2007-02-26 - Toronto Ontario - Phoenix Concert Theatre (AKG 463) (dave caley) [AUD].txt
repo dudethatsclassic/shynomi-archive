@@ -1,0 +1,67 @@
+Guster
+February 26, 2007
+Phoenix Concert Theatre
+Toronto, ON
+
+SOURCE:
+AKG463 > Marantz PMD660
+
+TRANSFER:
+PMD660 (4gb Kingston Elite 45x CF Card) > CompactDrive > Seagate Serial-ATA HDD > WAV [48kHz]
+
+LOCATION:
+FOB, ROC, ~40' from stage
+
+MIC CONFIG:
+DIN, 9' up
+
+LINEAGE:
+PMD660 > WAV [48kHz] > Adobe Audition v1.5 > CD Wave Editor v1.94.4 > FLAC [Level 8] > You (Your copy will be CDR(1) if burnt)
+
+GENERATION:
+WAV [48kHz] > WAV [44.1kHz] > FLAC
+
+LENGTH: 
+102:26
+
+SETLIST:
+01 Intro
+02 The Captain
+03 Barrel Of A Gun
+04 Ramona
+05 Satellite
+06 The Beginning Of The End
+07 Aquarela do Brasil (Geoff Muldaur)
+08 Lightning Rod
+09 Come Downstairs And Say Hello
+10 Demons
+11 Center Of Attention
+12 On My Own
+13 What You Wish For
+14 Manifest Destiny
+15 One Man Wrecking Machine
+16 Amsterdam
+17 Airport Song
+
+ENCORE I:
+18 Ruby Falls
+19 C'mon
+20 Happier
+21 Keep It Together
+
+ENCORE II:
+22 Jesus On The Radio (Daddy On The Phone) (Unplugged)
+
+NOTES:
+-Adobe Audition was used to downsample the WAV, Fade-In, and Fade-Out.
+-"JOTR" cuts into the crowd applause as the band comes back onstage. No music is missing. Added fade-in for easier listening.
+-The band played "JOTR" without the PA system. Half the crowd had already left when the band came back on stage. Beware of the extremely loud crowd applause due to the levels being way high for this track.
+
+BAND INFO:
+-http://www.guster.com
+-http://www.archive.org/details/Guster
+
+RECORDED BY:
+Dave Caley / dcaleyATtorontotapers.org (2007.02.26)
+
+Convert it to mp3 if you must for personal use, but please circulate this in its original lossless form.

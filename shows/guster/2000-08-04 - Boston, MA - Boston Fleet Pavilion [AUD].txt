@@ -1,0 +1,44 @@
+guster
+8/4/00
+boston fleet pavilion
+boston, ma
+
+taper:  brandon smith
+source:  neumann km184>graham-patten dmic-20 (48KHz)>dap1
+right of center, 16' stand, NOS confi
+
+conversion:  allan chen
+sony r300>sek'd prodif plus>samplitude (48>44.1)>cdwav
+
+**no DAE.  dat>wav>shn
+
+cd1
+---------
+intro
+I spy
+great escape
+what you wish for
+either way
+demons
+"kazoos"
+center of attention
+scars and stitches
+x-ray eyes
+airport song
+happier
+
+cd2
+----------
+two points for honesty
+parachute
+barrel of a gun (jazz intro)
+all the way to heaven
+fa fa fa
+medicine (2000)
+so long
+bury me
+celebrate
+
+
+compiled by allan chen
+9/10/00

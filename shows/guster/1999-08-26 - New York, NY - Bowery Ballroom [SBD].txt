@@ -1,0 +1,26 @@
+Guster
+August 26th, 1999
+Bowery Ballroom, New York, NY
+
+Master:
+SBD>??>CD
+taper unknown
+
+Conversion:
+CD>xACT 2.20 (cdparanoia)>WAV>Sound Studio 4.5 (retrack)>FLAC
+by Dave Mallick
+
+01. Either Way           [04:51.03]
+02. Barrel Of A Gun      [04:24.45]
+03. Demons*              [05:24.51]
+04. Parachute#           [07:02.35]
+05. Fa Fa#               [05:34.10]
+06. E: Mona Lisa         [05:52.32]
+07.    Happier           [03:46.65]
+08.    At The Racetrack  [00:34.18]
+                  Total: [37:30.34]
+
+* with Dan Myers on melodica
+# with Dan Myers on saxophone
+
+Disc 2 only; disc 1 will be uploaded if I ever find it.

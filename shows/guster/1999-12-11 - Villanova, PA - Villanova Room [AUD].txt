@@ -1,0 +1,48 @@
+guster
+12/11/99
+villanova room
+villanova, PA
+
+taper:  keith cetera
+source:  akg c1000s>d8 FOB
+
+conversion:  allan chen
+sony r300>sek'd prodif plus>samplitude>cdwav
+
+**no DAE.  dat>wav>shn
+
+cd1
+-------------
+1 - intro
+2 - barrel of a gun
+3 - rocketship
+4 - may parade
+5 - airport song
+6 - all the way to heaven
+7 - what you wish for
+8 - window
+9 - either way
+10 - bury me
+11 - foreigner - I want to know what love is
+12 - x-ray eyes
+
+cd2
+---------------
+1 - center of attention
+2 - madonna - like a prayer
+3 - demons
+4 - fa fa fa
+5 - parachute
+6 - happier
+7 - great escape
+8 - silent night - pasty
+9 - scars and stitches
+10 - two points for honesty
+11 - mona lisa
+
+comments
+----------------
+the end of mona lisa is faded out because the crowd reaction right after it was all distorted.  
+
+compiled by allan chen
+1/15/00

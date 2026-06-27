@@ -1,0 +1,22 @@
+Guster
+July 8th, 1998
+WBCN-FM/WFNX-FM Studios, Boston, MA
+
+Master:
+FM > Cass(1)
+by Michelle Poirier
+
+Conversion:
+Nakamichi CR-2A > Lunatec V3 (A/D) > Tascam DR-100 mkIII > 
+WAV > Sound Studio 4.10.1 > xACT 2.50 > FLAC
+by Dave Mallick
+
+01. interview     [02:45.186]
+02. Airport Song  [02:48.869]
+03. interview     [03:41.375]
+04. Demons        [04:11.268]
+05. interview     [01:09.255]
+06. interview     [05:25.907]
+07. Airport Song  [02:32.690]
+08. interview     [03:21.595]
+           Total: [25:56.145]

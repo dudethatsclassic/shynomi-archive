@@ -1,0 +1,26 @@
+Guster
+July 10, 2003
+Cities 97 (97.1 fm)
+Minneapolis, MN 
+Host:  Brian Oake
+
+Source:  FM -> CD Wave (Radio directly into computer) -> SHN (mkwact v. 0.97b1)
+
+01:  Open/Interview		2:05
+02:  Barrell of a Gun		3:18
+03:  Interview			1:40
+04:  Jesus on the Radio		2:13
+05:  Interview			2:12
+06:  Amsterdam 			3:39
+07:  Interview/Closing		0:40
+
+Total:				15:47
+
+Notes:  Seek tables appended to shns
+
+Recorded and converted by Connor Cronk <cronk.conn@students.uwlax.edu> on 7/10/03
+
+
+x.edu> on 7/10/03
+
+

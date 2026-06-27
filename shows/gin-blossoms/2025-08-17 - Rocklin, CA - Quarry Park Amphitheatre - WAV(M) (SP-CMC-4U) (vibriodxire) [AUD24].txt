@@ -1,0 +1,71 @@
+GIN BLOSSOMS
+August 17, 2025
+Quarry Park Amphitheatre
+Rocklin, CA, US
+
+SETLIST:
+-------------------
+00. intro/banter -> Fox on the Run [Sweet song, P.A. tape]
+01. Follow You Down
+02. Hold Me Down
+03. Mrs. Rita
+04. Long Time Gone
+05. Competition Smile
+06. Lost Horizons
+07. As Long as It Matters
+08. Here Again
+09. Face the Dark
+10. Until I Fall Away
+11. Miss Disarray
+12. Hands Are Tied
+13. Found Out About You
+14. Allison Road
+15. Hey Jealousy
+16. Til I Hear It From You
+17. A Million Miles Away [The Plimsouls cover]
+
+
+SOURCE:
+-------------------
+AUD #1 - Quality: 9.5
+Sound Professionals SP-CMC-4U > Sony PCM-D10
+
+Recorded by: vibrioidxire
+
+TRANSFER:
+-------------------
+Sound Professionals SP-CMC-4U (Audio Technica AT-U853's, with UE-H hypercardioid caps mod) > Sound Professionals SP-SPSB-10 Power Module > Sony PCM-D10 High-Resolution Digital Audio Recorder > Apple MacBook Pro (16-inch, 2021) > Adobe Audition 25.3 [post-production/mastering] > xACT 2.57
+
+GENERATION:
+-------------------
+WAV(M) [96kHz/24-bit] > WAV [48kHz/24-bit] > FLAC [Level 8]
+
+NOTES:
+-------------------
+- The sound wavers during "Follow You Down" due to the taper crawling to get a better angle of the left P.A. stack.
+
+
+FLAC FINGERPRINTS:
+-------------------
+ginblossoms2025-08-17_AUD1_t00.flac:43735be36dab6edb75115df2f22df8b5
+ginblossoms2025-08-17_AUD1_t01.flac:4910c6fb5dfb66d56da15f7fd0ed2b3d
+ginblossoms2025-08-17_AUD1_t02.flac:2b4427e7d45076af4bf01bbaffd0310e
+ginblossoms2025-08-17_AUD1_t03.flac:f4c5f307bec91d6634a985038d06e09a
+ginblossoms2025-08-17_AUD1_t04.flac:21285a5904aacb711ddeb8fa6179668d
+ginblossoms2025-08-17_AUD1_t05.flac:2edb56ee23e75199e0b8372fbf5c2558
+ginblossoms2025-08-17_AUD1_t06.flac:f45862d1b49c05d9fd0501538f8a8a83
+ginblossoms2025-08-17_AUD1_t07.flac:10e87138a0810e07c6630ca2e87aea91
+ginblossoms2025-08-17_AUD1_t08.flac:1b7e298f3859b76a8d130ad9ee2e37a9
+ginblossoms2025-08-17_AUD1_t09.flac:94c2d0f90f8dbcbb7d6705cafc339b57
+ginblossoms2025-08-17_AUD1_t10.flac:408b1096b74572f16128b7e58f1b1ea8
+ginblossoms2025-08-17_AUD1_t11.flac:9712febd27acbad3c59d2df2be4daec9
+ginblossoms2025-08-17_AUD1_t12.flac:243fddec456c5667b346559885812687
+ginblossoms2025-08-17_AUD1_t13.flac:3a5968888328538bc3028ca55e6de6bf
+ginblossoms2025-08-17_AUD1_t14.flac:94a58ab2c900f11f98d8a1bebb44a631
+ginblossoms2025-08-17_AUD1_t15.flac:4ae7ef422dc2b64c4555929a7d8282fa
+ginblossoms2025-08-17_AUD1_t16.flac:ba8f83b015ace08810c1e1e975ca6d39
+ginblossoms2025-08-17_AUD1_t17.flac:bc37b0283bc1999a211f0b617746a4cd
+
+
+Transferred and encoded by: vibrioidxire
+PLEASE DO NOT DISTRIBUTE IN LOSSY FORMATS OR SELL!

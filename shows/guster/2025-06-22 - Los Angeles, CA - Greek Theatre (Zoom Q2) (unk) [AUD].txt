@@ -1,0 +1,26 @@
+Guster
+June 22nd, 2025
+Last Summer On Earth tour
+Greek Theatre, Los Angeles, CA
+
+Master:
+ZoomQ2 > YouTube (link below)
+by Concerts & Conversations
+
+Conversion:
+yt-dlp > wav > Sound Studio 4.11.0 > xACT 2.57 > FLAC
+by Dave Mallick
+
+01. Ramona                       [04:06.712]
+02. Satellite                    [05:04.196]
+03. The Elevator                 [03:18.726]
+04. Happier                      [04:53.903]
+05. Doin' It By Myself           [04:17.613]
+06. Terrified                    [03:39.495]
+07. Come Downstairs & Say Hello  [06:06.916]
+08. Do You Love Me?              [04:57.046]
+09. One Man Wrecking Machine     [04:13.131]
+10. Barrel Of A Gun              [03:56.524]
+                          Total: [44:34.262]
+  
+Full video: https://www.youtube.com/watch?v=S_iRBSofA-0

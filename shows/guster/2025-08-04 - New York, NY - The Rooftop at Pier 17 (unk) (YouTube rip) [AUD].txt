@@ -1,0 +1,37 @@
+Guster
+August 4th, 2025
+The Rooftop at Pier 17, New York, NY
+
+Master:
+Unknown camera source > YouTube (link below)
+by Concerts Hub
+
+Conversion:
+yt-dlp > wav > Sound Studio 4.11.0 > xACT 2.57 > FLAC
+by Dave Mallick
+
+01. Barrel of a Gun                [04:18.966]
+02. The Elevator                   [04:12.360]
+03. Stay With Me Jesus             [03:00.555]
+04. Satellite                      [04:43.778]
+05. When We Were Stars             [05:00.338]
+06. Two Points for Honesty         [03:44.343]
+07. Kid Dreams                     [04:01.799]
+08. Ramona                         [03:25.839]
+09. Terrified                      [03:34.395]
+10. Amsterdam                      [04:28.078]
+11. Rocketship                     [04:21.017]
+12. Doin' It By Myself             [04:15.322]
+13. One Man Wrecking Machine       [03:57.535]
+14. Come Downstairs and Say Hello  [06:06.673]
+15. Do You Love Me                 [04:06.220]
+16. Demons                         [05:58.837]
+17. E: Maybe We’re Alright         [03:44.756]
+18.    Happier                     [04:55.876]
+19.    Lido Shuffle *              [04:23.607]
+                            Total: [82:20.294]
+
+* with the Mountain Goats - John Darnielle on vocals, Jon Wurster on
+  drums, and Matt Douglas on saxophone
+  
+Full video: https://www.youtube.com/watch?v=yUnoeTXysqs

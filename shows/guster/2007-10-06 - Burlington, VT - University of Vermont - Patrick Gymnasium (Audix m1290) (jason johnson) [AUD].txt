@@ -1,0 +1,55 @@
+Guster
+Patrick Gymnasium
+University of Vermont
+Burlington, Vermont
+October 6, 2007
+
+Taper: Jason Johnson <taperjason@gmail.com>
+Location: FOB, center
+Source: Audix m1290 Cards (DIN, 7.5') > Mini-Quad Star Cables > Marantz ACM-671 (Kingston Elite Pro 45X 8 GB Compact Flash)
+Conversion: PCMCIA Compact Flash Card Reader > WaveLab 5.01b > CDWav 1.96.1 > xACT 0.5.9 > Foobar2000
+
+***********************************************
+**   PLEASE DO NOT SPREAD IN LOSSY FORMATS!  **
+** PLEASE DO NOT REMASTER WITHOUT PERMISSION **
+***********************************************
+
+Disc 1
+
+01 Intro                         	00:27.14
+02 The Captain                   	03:34.16
+03 Happier                       	04:47.19
+04 Backyard                      	03:24.04
+05 Satellite                     	04:56.49
+06 The Beginning of the End      	03:01.39
+07 I Spy                         	04:36.47
+08 Manifest Destiny              	03:53.33
+09 Homecoming King               	05:12.45
+10 Airport Song                  	05:24.32
+11 Ramona                        	03:23.62
+12 Hang On                       	04:39.52
+13 Amsterdam                     	03:57.70
+
+Disc 1 Total: 51:19.32
+
+Disc 2
+
+01 Vermont Jam                   	03:46.40
+02 Barrel of a Gun               	03:26.38
+03 Come Downstairs and Say Hello 	06:50.52
+04 G Major                       	04:04.10
+05 Fa Fa                         	06:12.18
+06 Two Points for Honesty        	03:00.01
+07 Ruby Falls                    	06:37.14
+08 C'mon                         	05:04.17
+09 Demons                        	04:15.52
+10 Encore Break                  	03:03.28
+11 Cheers                        	02:48.70
+
+Disc 2 Total: 49:09.40
+
+Notes:
+- Thanks to Gordon for the insight and conversation.
+
+Compiled by Jason Johnson on November 6, 2007.
+www.greppson.net

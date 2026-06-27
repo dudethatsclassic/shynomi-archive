@@ -1,0 +1,96 @@
+Guster
+9/10/1999
+Pearl Street
+Northampton, MA
+
+
+
+Source:
+
+Shure KSM32/CGs (cardiod) > DA-P1 (44.1)
+
+Conversion:
+
+Tascam DA-20 MKII > Tascam HD-P2 > Sony Soundforge 8.0 > CD Wave > Flac
+
+Taper:
+
+Brandon Smith
+
+Conversion:
+
+Patrick Price (patrickprice@comcast.net)
+
+Setlist
+
+1.  Great Escape
+2.  So Long > Racetrack
+3.  Barrel of a Gun
+4.  Demons
+5.  All the Way Up to Heaven
+6.  Bury Me
+7.  Perfect
+8.  Parachute
+9.  What You Wish For
+10. I Spy
+11. Airport Song
+12. X-Ray Eyes
+13. Center of Attention
+14. Window
+15. Rocketship
+16. FaFa Song
+17. Encore Break
+
+Encore
+
+18. Either Way
+19. Medicine
+20. Happier
+
+Flac Fingerprint:
+
+guster1999-09-10s1t01.flac:2ed4661e00116cc08bdb19f63b811699
+guster1999-09-10s1t02.flac:2e7ca45b1d141a924686b5bb6b4c9712
+guster1999-09-10s1t03.flac:78a24bde093a52bea682b22007dddb62
+guster1999-09-10s1t04.flac:29dfe6d1f58206c8118771339f17ebe6
+guster1999-09-10s1t05.flac:6c4f1a344ec8a6c00fb2e72da1946c64
+guster1999-09-10s1t06.flac:c0c06021679c27be545233a497672e1e
+guster1999-09-10s1t07.flac:3018141e65be262d0924cab8aff629c0
+guster1999-09-10s1t08.flac:af94c62865c98a28a1ebabfa0bfb9b2a
+guster1999-09-10s1t09.flac:fda8df5fb45649d98bde26793c928134
+guster1999-09-10s1t10.flac:8914912fd163e0a6f5ab9f47bf867cc5
+guster1999-09-10s1t11.flac:3b51a1d1fd90703dffdb5065fbecb76f
+guster1999-09-10s1t12.flac:e9698129e68f386dca305f4a7fde5066
+guster1999-09-10s1t13.flac:0c6483974f9dbbe6b93204631de81055
+guster1999-09-10s1t14.flac:40dfe143b6437ef954ca6804d3debb09
+guster1999-09-10s1t15.flac:faeb959f3834f099d2cd81436897b96d
+guster1999-09-10s1t16.flac:37807e188b868248511f8e4897d9d298
+guster1999-09-10s1t17.flac:e7499b226981c7d2c26dab4600468d07
+guster1999-09-10s1t18.flac:3e991bdf36b7e02e49fe274e7ac5cea4
+guster1999-09-10s1t19.flac:a7e39ebf2831d1d4b5794399e4744956
+guster1999-09-10s1t20.flac:62830d180c9156d47d98e8001787313f
+
+Shntool Output:
+
+    length     expanded size    cdr  WAVE problems  fmt   ratio  filename
+     4:32.24          45.81 MB  ---   --   ---xx   flac  0.5131  guster1999-09-10s1t01.flac
+     5:27.43          55.11 MB  ---   --   ---xx   flac  0.5245  guster1999-09-10s1t02.flac
+     3:06.62          31.43 MB  ---   --   ---xx   flac  0.5974  guster1999-09-10s1t03.flac
+     5:07.27          51.71 MB  ---   --   ---xx   flac  0.5512  guster1999-09-10s1t04.flac
+     6:23.31          64.50 MB  ---   --   ---xx   flac  0.5758  guster1999-09-10s1t05.flac
+     2:29.27          25.13 MB  ---   --   ---xx   flac  0.5453  guster1999-09-10s1t06.flac
+     3:19.28          33.54 MB  ---   --   ---xx   flac  0.5255  guster1999-09-10s1t07.flac
+     5:29.22          55.40 MB  ---   --   ---xx   flac  0.5178  guster1999-09-10s1t08.flac
+     3:40.16          37.05 MB  ---   --   ---xx   flac  0.5757  guster1999-09-10s1t09.flac
+     4:13.56          42.69 MB  ---   --   ---xx   flac  0.5177  guster1999-09-10s1t10.flac
+     3:29.59          35.29 MB  ---   --   ---xx   flac  0.5533  guster1999-09-10s1t11.flac
+     4:24.33          44.49 MB  ---   --   ---xx   flac  0.6027  guster1999-09-10s1t12.flac
+     5:23.72          54.50 MB  ---   --   ---xx   flac  0.5548  guster1999-09-10s1t13.flac
+     3:18.18          33.35 MB  ---   --   ---xx   flac  0.5714  guster1999-09-10s1t14.flac
+     5:26.54          54.96 MB  ---   --   ---xx   flac  0.5133  guster1999-09-10s1t15.flac
+     4:51.22          49.00 MB  ---   --   ---xx   flac  0.5781  guster1999-09-10s1t16.flac
+     2:12.60          22.34 MB  ---   --   ---xx   flac  0.4811  guster1999-09-10s1t17.flac
+     5:20.22          53.88 MB  ---   --   ---xx   flac  0.5379  guster1999-09-10s1t18.flac
+     5:07.42          51.74 MB  ---   --   ---xx   flac  0.5793  guster1999-09-10s1t19.flac
+     4:13.69          42.72 MB  ---   --   ---xx   flac  0.5500  guster1999-09-10s1t20.flac
+    87:38.37         884.63 MB                           0.5490  (20 files)

@@ -1,0 +1,46 @@
+Guster 
+March 23rd, 2003
+West Gym, Binghamton University, Binghamton, NY
+
+Master creation: 
+AT803b's (cardioid, X-Y)>battery box>D8
+by Dave Mallick [greenone@bluestraveler.net]
+
+SHNs were made: 
+Tascam DA-20>Egosys U2A>Spark ME>SoundEdit 16>WAV>shntool>shnv3
+by Dave Mallick [greenone@bluestraveler.net] 
+
+CD 1 [44:47.58] (minutes:seconds.frames) 
+01. Barrel Of A Gun              [05:23.63]
+02. Two Points For Honesty       [03:58.15] 
+03. Ramona                       [03:29.45] 
+04. Not The Same*                [04:23.51] 
+05. Mona Lisa                    [04:59.11] 
+06. All The Way Up To Heaven     [05:31.11] 
+07. I Spy                        [04:34.50] 
+08. Airport Song                 [04:03.74] 
+09. X-Ray Eyes                   [04:40.13] 
+10. Amsterdam                    [03:43.25] 
+
+CD 2 [46:47.28] 
+01. Keep It Together             [05:22.25]
+02. What You Wish For            [04:22.06] 
+03. Either Way                   [05:09.70] 
+04. Demons>Jolene#>Demons        [06:53.72] 
+05. Fa Fa                        [07:32.15] 
+06. Jesus On The Radio           [02:35.50] 
+07. Parachute                    [05:43.04] 
+08. Homecoming King              [04:20.11] 
+09. Happier                      [04:48.00] 
+
+Show notes:
+* with Adam on keys - first time played; Ben Folds cover
+# first time played; Cake cover
+- Joe Pisapia guested on various instruments, including:
+  bass (d1t02 - d1t05, d1t09 - d2t01 & d2t04),
+  vocals (d1t03 & d2t01), keyboards (d1t06, d2t07 & d1t08), 
+  shaker (d1t07), and banjo (d2t06).
+
+Recording notes: 
+- Slight overload on d1t02 from levels getting too hot.
+- Digiblip at :06 of d1t09.

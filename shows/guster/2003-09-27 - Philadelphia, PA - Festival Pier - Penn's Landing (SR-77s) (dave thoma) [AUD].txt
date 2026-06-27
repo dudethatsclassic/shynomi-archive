@@ -1,0 +1,62 @@
+Guster
+Festival Pier, Penn's Landing
+Philadelphia, PA
+9.27.2003
+
+Source:		Earthworks SR-77s (ORTF, 9') > Sound Devices MP-2 > TCD-D8
+Location:	Soundboard, center, ~ 150' back
+Taper:		Dave Thoma
+
+DAT > SHN Conversion: Dave Thoma (david.thoma@comcast.net)
+
+Lineage: TCD-D8 > Active 7-pin > Audiowerk2 > cdwav > Sound Forge Pro 6 > 
+	 cdwav > shntool
+
+** No DAE - DAT > .WAV > .SHN
+
+*** PLEASE DO NOT ENCODE THIS SHOW INTO MP3 FORMAT ***
+
+Disc One:					Time
+
+01:	What You Wish For		-	04:14.57
+02:	Demons				-	04:59.38
+03:	Careful				-	03:48.42
+04:	Airport Song			-	04:17.48
+05:	Long Way Down *	#		-	05:13.40
+06:	Red Oyster Cult &		-	03:52.62
+07:	Philadelphia Jazz Odyssey & -> 	-	00:53.53
+08:	Barrel of a Gun			-	04:17.36
+09:	(Nothing But) Flowers		-	05:24.07
+10:	Parachute @			-	05:17.33
+
+Disc One Total				-	42:18.16
+
+Disc Two:
+
+01:	Keep It Together		-	06:16.10
+02:	Amsterdam			-	04:30.46
+03:	X-Ray Eyes			-	03:52.71
+04:	Come Downstairs and Say Hello @	-	06:47.46
+05:	I Spy				-	05:17.33
+06:	Fa Fa &				-	07:26.40
+E07:	Backyard			-	03:01.39
+E08:	Homecoming King			-	04:50.65
+E09:	So Long				-	03:21.66
+E10:	Brother Down (tease) ^		-	01:07.01
+E11:	Happier				-	05:07.64
+
+Disc Two Total				-	51:38.81
+
+Show Total				-	1:33:56.97
+
+* Live debut
+& w/ Dan on Trumpet and Chris on Sax
+# w/ Eric from Sam Roberts' band on keys, drum tech Sean Lynde on drum kit, 
+  and Dan on trumpet)
+^ a Sam Roberts' song
+@ w/ Joe on Lap Steel
+
+Notes:
+
+- Intro track got corrupted, so it's not included.  If this bothers you, you've
+been doing this for too long :-)

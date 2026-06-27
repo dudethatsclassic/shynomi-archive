@@ -1,0 +1,38 @@
+Guster
+May 2nd, 2002
+Shapiro Gymnasium, Brandeis University, Waltham, MA
+
+Master:
+Audio Technica AT853's > Sony TCD-D8
+by Dave Mallick
+
+Conversion:
+Tascam DA-20 > Tascam DR-100 mkIII > WAV >
+Sound Studio 4.9.6 > xACT 2.48 > FLAC
+by Dave Mallick
+
+01. What You Wish For         [05:12.26]
+02. Great Escape              [03:26.03]
+03. I Spy                     [05:06.10]
+04. Homecoming King           [04:33.04]
+05. X-Ray Eyes                [04:07.50]
+06. Happier                   [05:08.60]
+07. Barrel Of A Gun           [05:40.62]
+08. Jesus On The Radio        [02:28.74]
+09. Center Of Attention       [05:03.01]
+10. All The Way Up To Heaven  [05:32.23]
+11. Airport Song              [05:03.05]
+12. Either Way                [05:05.58]
+13. Demons                    [05:30.32]
+14. Fa Fa                     [06:25.25]
+15. E1: Parachute             [06:24.36]
+16.     New Song 2            [05:43.51]
+17.     Bury Me               [05:19.55]
+18. E2: Mona Lisa             [05:08.74]
+                       Total: [91:00.50]
+
+This was the first show I ever recorded with my own mics. Unfortunately,
+I didn't realize the 853's need plug-in power to be able to withstand
+the volume of reinforced sound at a live concert, so the sound is fairly
+overloaded in parts. It's listenable, but definitely a beginner's
+recording.

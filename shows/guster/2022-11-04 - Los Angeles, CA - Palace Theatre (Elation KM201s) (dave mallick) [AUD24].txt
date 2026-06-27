@@ -1,0 +1,42 @@
+Guster
+November 4th, 2022
+Palace Theatre, Los Angeles, CA
+
+Master:
+Elation KM201's > Lunatec V3 > Tascam DR-100 mkIII (24/48)
+Clamped to balcony rail, left aisle of front center mezzanine
+by Dave Mallick
+
+Conversion:
+Tascam DR-100 mkIII > WAV > Sound Studio 4.10.1 > xACT 2.51 > FLAC
+by Dave Mallick
+
+01. What You Wish For             [06:11.953]
+02. Careful                       [04:39.614]
+03. Hang On                       [05:05.164]
+04. Mind Kontrol                  [03:25.486]
+05. Manifest Destiny              [04:27.069]
+06. The New Underground           [03:16.198]
+07. Hello Mister Sun              [05:09.147]
+08. Doing It By Myself            [04:12.480]
+09. Ryan obeys the algorithm      [03:25.850]
+10. Demons                        [04:24.019]
+11. Lightning Rod                 [03:22.320]
+12. Gangway                       [03:33.711]
+13. Barrel Of A Gun               [05:27.271]
+14. When You Go Quiet             [04:55.367]
+15. Terrified                     [03:48.784]
+16. Ramona                        [03:18.110]
+17. Satellite                     [04:41.755]
+18. Do You Love Me                [05:11.435]
+19. Come Downstairs & Say Hello   [07:22.765]
+20. E1: Hard Times                [04:10.464]
+21.     One Man Wrecking Machine  [05:07.598]
+22.     Happier                   [05:25.575]
+23. E2: Jesus On The Radio        [02:36.495]
+                          Total: [103:18.630]
+
+First performance of "When You Go Quiet" since March of 2020.
+
+Thanks to Kainoa for securing our prime taping seats, and to the person
+who never showed up to claim said seats.

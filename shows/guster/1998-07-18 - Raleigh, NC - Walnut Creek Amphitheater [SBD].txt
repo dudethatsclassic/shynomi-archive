@@ -1,0 +1,22 @@
+Guster
+July 18th, 1998
+Walnut Creek Amphitheater, Raleigh, NC
+
+Master creation: 
+SBD>DAT
+by Will Foy; clone provided by Brian Chickowski
+
+SHNs were made: 
+D8>U2A>SoundEdit 16>WAV>shntool>SHNv3 [no DAE] 
+by Dave Mallick [greenone@bluestraveler.net] 
+
+CD 1 [29:01.36] (minutes:seconds.frames) 
+01. Dissolve                   [07:03.36]
+02. Barrel Of A Gun            [03:57.59] 
+03. Airport Song               [04:42.34] 
+04. Happier                    [04:33.19] 
+05. Fa Fa                      [05:57.63] 
+06. Bury Me                    [02:46.50] 
+
+Notes:
+- Opening for Widespread Panic.

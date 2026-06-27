@@ -1,0 +1,76 @@
+Guster
+August 10, 2022
+Wellmont Theater - Montclair, NJ
+
+*=*=*=*=*=* *=*=*=*=*=* *=*=*=*=*=*
+*=*=*=*=* 24/48 RECORDING *=*=*=*=*
+*=* NOT SUITABLE FOR CD BURNING *=*
+*=*=*=*=*=* *=*=*=*=*=* *=*=*=*=*=*
+
+Taper: Zachary Semcken
+Source: AKG C414 XLII (Hypercardioid) > MixPre 6 II (32 Bit Float @ 96)
+Location: DFC inside FOH, Approx. 10' From Rear GA Rail, Mics DIN @ 8'
+Editing: WAV > Reaper 6.66 (Gain, Mixing, Normalizing, Resample 32/48) > Audacity 3.1.3 (Fades, Tracking) > FLAC (Level 8)
+
+Setlist:
+
+01. Intro
+02. Careful
+03. Terrified
+04. Diane
+05. Hercules
+06. Banter: Rescheduling
+07. Hang On
+08. Barrel of a Gun
+09. Backyard
+10. Satellite¹
+11. Jesus on the Radio²
+12. Hard Times²
+13. Parachute²
+14. Doin' It By Myself³
+15. Come Downstairs and Say Hello
+16. Lazy Love
+17. Banter: Music Video
+18. The New Underground
+19. Lightning Rod
+20. Banter: Sam's Introduction
+21. What You Call Love⁴
+22. I Spy
+23. Don't Go
+24. Ramona
+25. Banter: Fall Tour Announcement
+26. The Captain
+27. Banter: Scotti's Record Shop⁵
+28. Demons
+29. Encore Break
+30. Do You Love Me
+
+Set Time: [01:44:35.787]
+
+Guster:
+
+Ryan Miller – Lead Vocals, Bass, Piano, Guitar, Synth, Glockenspiel, Maraca, Ukulele
+Adam Gardner – Backing Vocals, Piano, Bass, Guitar, Trumpet
+Brian Rosenworcel – Drums, Auxiliary Percussion, Bass, Harmonica, Banjo
+Luke Reynolds – Backing Vocals, Guitar, Banjo
+Jeremy Yaddaw - Synth, Tambourine, Drums, Piano
+
+Notes:
+
+¹ House PA goes out at the end of the song due to power outage.
+² Acoustic, performed on stage lip
+³ Ryan sang the song while walking around the venue
+⁴ with 11 year old Sam Wood on bagpipes
+⁵ Performance being referenced took place in Montclair on July 27, 2003 as a promotional appearance for the release of Keep It Together
+
+Dave Butler was substituted by Jeremy Yaddaw for this performance.
+
+A power outage occurred in the Montclair area for a little over 10 minutes during the performance. The venue's emergency lighting was able to keep the stage lit, allowing the band to assemble at the stage lip for an impromptu three song acoustic performance. During this section, occasional noise from the crew can be heard.
+
+During "Doin' It By Myself", Ryan saw my mic stand towards the back of the orchestra, climbed on the chairs, and sang a portion of the song directly into my microphones. I attempted to correct the audio to make it sound more balanced, but it's still glaringly obvious.
+
+My undying gratitude to the entire Guster crew, especially Brian & Jim, for going to bat for me with venue security and made this recording possible.
+
+This recording is dedicated to all the tapers that have taught me to love archiving live music.
+
+Compiled on 2022/08/26.

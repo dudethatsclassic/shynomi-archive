@@ -1,0 +1,25 @@
+Guster
+December 8th, 1995
+7 Willow Street, Port Chester, NY
+
+Master:
+SBD > ?? > Cass(x)
+Taper unknown
+
+Conversion:
+Nakamichi CR-2A > Tascam DA-20 (A/D) > Tascam DR-100 mkIII > 
+WAV > Sound Studio 4.9.6 > xACT 2.48 > FLAC
+by Dave Mallick
+
+01. Window        [05:41.813]
+02. Bury Me       [03:02.544]
+03. Dissolve      [05:41.829]
+04. Pantomime     [06:20.694]
+05. Dregs         [05:20.644]
+06. Melanie       [05:10.263]
+07. Down In It    [03:45.056]
+08. Happy Frappy  [03:52.792]
+09. Cocoon        [03:55.041]
+           Total: [42:50.678]
+
+Live debut of "Melanie".

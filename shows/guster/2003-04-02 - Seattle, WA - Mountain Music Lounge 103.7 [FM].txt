@@ -1,0 +1,28 @@
+Guster
+Mountain Music Lounge
+103.7 KMTT
+Seattle, WA
+2003-04-02
+
+Taper: ABZ
+Source: FM Studio > KMTT archive real audio source 
+Conversion/Editing: rawaverecorder @ 44.1khz > .wav > 
+CD Wave Editor > dBpowerAMP > .shn > md5summer v1.2.0.5
+
+***Please keep the show lossless. Don't convert to mp3.***
+
+Disc 1:
+
+01	Interview 1		02:32.00
+02  	Amsterdam		03:30.65
+03  	Interview 2		04:10.32
+04  	Jesus on the Radio	02:10.21
+05  	Interview 3     	01:32.32
+
+Total:				13:56.00
+
+Notes:
+
+This was an interview and performance before the show later that day at the Showbox.
+
+Complied by ABZ 2004-01-19.

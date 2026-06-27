@@ -1,0 +1,33 @@
+Guster
+June 19th, 2006
+Boston Harbor Cruise, Boston, MA
+
+Master:
+AT803b's>battery box>D8
+by Dave Mallick [greenone@bluestraveler.net]
+
+Conversion:
+Tascam DA-20>Egosys U2A>Sound Studio 2.1.1b3>AIFF>xACT 1.58
+by Dave Mallick [greenone@bluestraveler.net]
+
+CD 1 [42:41.47] (minutes:seconds.frames)
+01. One Man Wrecking Machine    [05:38.54]
+02. Careful                     [05:00.70]
+03. Rise & Shine                [04:00.42]
+04. Jesus On The Radio          [02:39.08]
+05. Barrel Of A Gun             [05:18.43]
+06. The Captain                 [04:38.06]
+07. Lightning Rod               [03:39.57]
+08. Two Of Us                   [05:04.55]
+09. Amsterdam                   [04:52.43]
+10. E: The Star-Spangled Banner [01:48.44]
+
+Notes:
+- Free, winners-only show for WXRV listeners.
+- Entire show performed in a stripped-down acoustic arrangement, but 
+  still plugged in to amplifiers.
+- Live debuts of "Lightning Rod", "Two Of Us" (Beatles Cover) and "The
+  Star-Spangled Banner", which the band rehearsed in preparation for
+  singing it at Fenway Park the following night.
+- People walked in front of me from time to time so the sound is 
+  slightly muffled momentarily when that happens.

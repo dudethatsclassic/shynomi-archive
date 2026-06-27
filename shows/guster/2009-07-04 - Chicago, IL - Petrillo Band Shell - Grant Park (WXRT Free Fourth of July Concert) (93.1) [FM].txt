@@ -1,0 +1,36 @@
+Guster
+July 4, 2009
+Petrillo Band Shell, Grant Park
+Chicago, IL
+
+WXRT Free Fourth of July Concert at Taste of Chicago
+
+Lineage:  93.1 WXRT>Onkyo receiver>Macbook>Audacity 1.3.7
+(record show and split tracks)
+xAct 1.64 (convert wav files to flac level 8 and create checksum)
+
+Tracks:
+1.  Intro by Lin Brehmer
+2.  The Captain
+3.  Barrel of a Gun
+4.  Satellite
+5.  Red Oyster Cult-->Don't Fear the Reaper
+6.  Come Downstairs and Say Hello
+7.  One Man Wrecking Machine
+8.  Jonah (new song)
+9.  Airport Song
+10.  G Major (new song)
+11.  Demons
+12.  Center of Attention
+13.  Hang On
+14.  Umbrella Jam-->C'mon
+15.  Manifest Destiny
+16.  Amsterdam
+17.  Fa Fa
+18.  DJ Talk
+19.  Keep It Together
+
+run time:  76:45
+
+notes:  This was my first time doing this since the weather didn't
+cooperate enough for me to get down to the park.  Enjoy.

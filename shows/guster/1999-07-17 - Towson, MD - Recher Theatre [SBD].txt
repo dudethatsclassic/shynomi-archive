@@ -1,0 +1,31 @@
+Guster 
+July 17th, 1999
+Recher Theatre, Towson, MD
+
+Master creation: 
+SBD>D8
+
+SHNs were made: 
+Tascam DA-20>Egosys U2A>Sound Studio 2.0.7>AIFF>shntool
+by Dave Mallick [greenone@bluestraveler.net] 
+
+CD 1 [54:36.10] (minutes:seconds.frames) 
+01. Barrel Of A Gun              [04:42.40]
+02. I Spy                        [02:55.63] 
+03. Airport Song                 [04:09.01] 
+04. So Long                      [04:03.61] 
+05. What You Wish For            [04:16.16] 
+06. Window                       [05:04.14] 
+07. X-Ray Eyes                   [05:02.32] 
+08. Center Of Attention          [04:40.14] 
+09. Demons                       [05:23.24] 
+10. Fa Fa                        [05:16.60] 
+11. Rocketship                   [04:36.37] 
+12. Great Escape                 [03:33.06] 
+13. All The Way Up To Heaven     [06:21.73] 
+14. Happier                      [04:59.53] 
+15. Bury Me                      [04:17.43] 
+16. E: Parachute                 [04:35.34]
+
+Notes:
+- Break between last two songs due to impromptu encore.

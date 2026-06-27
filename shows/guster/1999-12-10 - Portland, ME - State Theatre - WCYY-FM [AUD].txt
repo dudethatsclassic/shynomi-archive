@@ -1,0 +1,32 @@
+Guster
+December 10th, 1999
+WCYY-FM Holiday Bizarre, State Theatre, Portland, ME
+
+Master:
+AT853a>AT p/s>MD>D8
+by Dave Mallick, rig provided by Chris Mathews
+
+Conversion:
+Tascam DA-20>Egosys U2A>Sound Studio 2.1.1b3>AIFF>xACT 1.4d10
+by Dave Mallick [greenone@bluestraveler.net]
+
+Disc 1: [46:12.72] (minutes:seconds.frames)
+01. Intro             [02:12.33]
+02. Happier           [04:27.42]
+03. Great Escape      [03:25.02]
+04. I Spy             [03:03.06]
+05. Airport Song      [04:31.32]
+06. What You Wish For [04:37.05]
+07. Either Way        [05:16.50]
+08. Fa Fa             [05:10.11]
+09. Demons            [05:10.35]
+10. Barrel Of A Gun   [04:26.01]
+11. Bury Me           [03:53.05]
+
+Notes:
+- Levels during the show peaked hard at -6db, but the applause during 
+  the intro was louder. I lowered the first ~30 seconds by -8db's and 
+  then normalized the entire show to 100% to boost the overall levels. 
+  You can still hear some minor static due to overloading but it's 
+  barely audible.
+- Angry Salad opened, Shootyz Groove and Jimmie's Chicken Shack closed.

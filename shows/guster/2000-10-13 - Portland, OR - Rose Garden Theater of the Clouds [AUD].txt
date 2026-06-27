@@ -1,0 +1,25 @@
+Guster
+October 13th, 2000
+Rose Garden Theater of the Clouds, Portland, OR
+
+Master:
+Sonic Studio mics>D8
+by Brian VanOrnum
+
+Conversion:
+DA-20>emi 2|6>Sound Studio 2.1.1b3>AIFF>xACT 1.4d1
+by Dave Mallick [greenone@bluestraveler.net]
+
+Disc 1 [36:44.34] (minutes:seconds.frames) 
+01. I Spy             [05:01.23]
+02. Barrel Of A Gun   [03:49.57]
+03. Bury Me           [03:28.32]
+04. What You Wish For [04:53.37]
+05. Either Way        [04:51.57]
+06. Airport Song      [04:12.15]
+07. Happier           [04:42.72]
+08. Fa Fa             [05:44.41]
+
+Notes:
+- Opening for Barenaked Ladies.
+- Stealth recording - a good bit of crowd chatter and whooping.

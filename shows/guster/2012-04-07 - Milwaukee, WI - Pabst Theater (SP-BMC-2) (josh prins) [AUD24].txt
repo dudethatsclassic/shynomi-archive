@@ -1,0 +1,61 @@
+Guster
+April 7th, 2012
+Pabst Theater, Milwaukee, WI
+
+Master:
+SP-BMC-2 mics (mounted above ears)>homemade battery box>Tascam DR-05 (24-bit, 48kHz WAV)
+3 rows back from stage just right of center
+by Josh Prins
+
+Conversion:
+WAV>Audacity 1.3.14 beta (track)>FLAC
+by Beth Prins
+
+NOTE: This is the 24-bit/48kHz version. See 16-bit/44.1kHz version for mp3s and CD-friendly FLAC files.
+
+01. Jeff Garlin I
+02. Mat Edgar
+03. Jeff Garlin II
+04. (Guster intro)
+05. Backyard
+06. Do You Love Me
+07. Rise & Shine
+08. Rainy Day
+09. Diane
+10. So Long
+11. The Beginning of the End
+12. This Is How It Feels to Have a Broken Heart
+13. (Garlin joins Guster)#
+14. One Man Wrecking Machine
+15. (requests/Crazy Little Thing Called Love)
+16. Window*
+17. (requests)
+18. I Spy
+19. (steins to the stage)
+20. Happier
+21. (request for Empire State)
+22. Empire State
+23. Rocketship
+24. What You Call Love
+25. That's No Way to Get to Heaven
+26. Two Points for Honesty
+27. Long Way Down
+28. Either Way
+29. Satellite
+30. Solitary Man^
+31. This Could All Be Yours
+-------
+32. Jesus on the Radio$
+   
+
+# Ryan on violin
+* unplugged and in the audience, with Charlene Huang on violin
+^ Neil Diamond cover, with Jeff Garlin and Mat Edgar
+$ unplugged at front of stage, with Jeff Garlin and Mat Edgar on shakers
+
+
+Notes:
+- Acoustic Tour with comedian Jeff Garlin, with Mat Edgar opening.
+- All songs feature The Guster String Players (Charlene Huang on violin and April Guthrie on cello) except tracks 13-22 and "Jesus on the Radio."
+- Tease of "You're the One That I Want" from Grease at the end of track 6 ("Do You Love Me").
+- Recorded from the audience, so there is some crowd noise.

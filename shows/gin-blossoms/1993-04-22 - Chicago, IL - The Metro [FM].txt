@@ -1,0 +1,46 @@
+Gin Blossoms
+The Metro
+Chicago, IL US
+1993-04-22
+
+Lineage: fm (Onkyo TX8511)>SoundBlaster (Live! 24 bit External)>wav(CD Wave Editor)>flac
+
+Hold Me Down 4:06>
+What 4:23
+Idiot Summer *
+Hands are Tied 3:15
+Cajun Song 3:01
+29 3:54
+Until I Fall Away 3:20
+Everywhere 4:09
+Just South of Nowhere 3:20
+Soul Deep 3:06
+Cheatin' 3:52
+Mrs. Rita 4:20
+Allison Road 3:31
+Hey Jealousy 4:12
+My Biggest Date 3:18
+Folsom Prison Blues *
+Weeds 5:57
+
+Total Time: 57:50
+
+st5 fingerprints
+
+27d41bade6028f9800b8ae3a18bdfaa8  [shntool]  01 Hold Me Down.flac
+5e34d14285fe6d3cc06fc3ab0221a3b0  [shntool]  02 What.flac
+f8f6384e8a85da0714a6a43bc55dc23a  [shntool]  03 Hands Are Tied.flac
+3e61765806235780455bf5475750d619  [shntool]  04 Cajun Song.flac
+27de9160530c98682908651accc6837b  [shntool]  05 29.flac
+02a0f818915da3bbe11e23ce5771601c  [shntool]  06 Until I Fall Away.flac
+851aa8760caab941ba948fa557440035  [shntool]  07 Everywhere.flac
+a40ba8a1bcff397a7bc57179ebcdf3be  [shntool]  08 Just South of Nowhere.flac
+6cc3356617b969e3f395d81ac5b8c3bf  [shntool]  09 Soul Deep.flac
+80de2388267dfccf9be929bdcbb44439  [shntool]  10 Cheatin'.flac
+75e0f7cbb71008bf4a11dcef52a0f17d  [shntool]  11 Mrs. Rita.flac
+61ac12ba62b29be11d1b13f1a6044dc4  [shntool]  12 Allison Road.flac
+0c00b269be038062d8318db61df45a46  [shntool]  13 Hey Jealousy.flac
+3cc36338906933cb60d72b425ada7565  [shntool]  14 My Biggest Date.flac
+8ca34fe17f5ffebacb6fe65f64688d7d  [shntool]  15 Weeds.flac
+
+No errors occured.

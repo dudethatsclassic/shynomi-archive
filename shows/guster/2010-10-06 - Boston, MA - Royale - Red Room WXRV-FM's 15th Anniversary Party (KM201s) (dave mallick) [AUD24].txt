@@ -1,0 +1,35 @@
+Guster
+October 6th, 2010
+WXRV-FM's 15th anniversary party
+Red Room, Royale, Boston, MA
+
+Master:
+Elation KM201's>Lunatec V3>Microtrack 24/96>WAV (24/48)
+by Dave Mallick
+
+Conversion:
+WAV>Sound Studio 2.2.4>xACT 2.01>FLAC
+by Dave Mallick
+
+01. Satellite                 [05:29.06]
+02. This Could All Be Yours   [04:36.46]
+03. One Man Wrecking Machine  [04:19.65]
+04. Bad Bad World             [05:25.52]
+05. Do You Love Me            [04:10.14]
+06. The Captain               [04:58.73]
+07. Stay With Me Jesus        [04:13.61]
+08. Careful                   [04:34.30]
+09. Center Of Attention       [05:01.22]
+10. Amsterdam                 [05:34.54]
+11. Jesus On The Radio        [02:59.01]
+                       Total: [51:23.49]
+
+These files are in 24-bit, 48kHz format. A 16-bit, 44.1kHz version exists.
+
+Acoustic set played with rented equipment as their gear was en route
+to Columbus, OH.
+
+The band came off the stage and played the final song completely
+unplugged, standing on a circular bench near the middle of the venue. 
+I boosted the levels and turned the stand to face where they were
+standing; some minor noises can be heard.

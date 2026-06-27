@@ -1,0 +1,66 @@
+Guster
+The Showbox
+Seattle, WA
+April 2, 2003
+
+Taper: Kevin Davis (blu666z@hotmail.com)
+Source: Audio Technica 943s(NOS) -> SP-SPSB-7(w/ Bass Rolloff @ 69 Hz) -> Sharp MD-SR60  
+Location: Directly behind SBD, 35' from Stage, Mics @ 12' 
+
+Conversion: MD Masters -> Sony MDS-JE510 -> Creative SB Extigy -> Soundforge 6.0 -> shntool 1.2.2 -> shortn32 3.1 -> .shn   
+Editing: Soundforge 6.0
+Tracking: CD Wave v1.73
+Seek Tables Appended
+
+==========================================
+| PLEASE DO NOT CONVERT THIS SHOW TO MP3 |
+==========================================
+
+
+
+-Disc 1-
+
+01: Intro					00:24.59
+02: Happier					05:12.64
+03: X-Ray Eyes					03:48.67
+04: Barrel of a Gun				04:31.69
+05: Keep it Together				04:08.69	
+06: Not the Same % 				04:25.15
+07: Two Points for Honesty >			03:47.70
+08: Where the Streets Have No Name @		02:02.62
+09: Careful					03:56.24
+10: Airport Song				04:04.02
+11: Ramona					04:05.20
+12: What You Wish For				05:02.20
+13: Red Oyster Cult				03:41.17
+14: Mona Lisa					05:10.71
+15: Amsterdam					04:26.44
+16: Either Way					05:04.53
+17: Demons/Cake's Jolene			06:11.57
+
+Total:						70:06.33
+
+
+
+-Disc 2-
+
+01: (Witty Bantor) 				01:24.07
+02: Fa Fa					07:39.00
+Encore
+03: Jesus on the Radio				02:24.55
+04: I Spy					05:53.63
+05: Center of Attention				04:37.18
+
+Total:						21:58.68
+
+
+
+-Notes-
+
+% Ben Folds Cover
+@ U2 Cover
+
+1/2 second drop-out at 2:18 mark of Barrel of a Gun is present on master.
+
+
+Compiled by blu666z@hotmail.com (April 6, 2003)

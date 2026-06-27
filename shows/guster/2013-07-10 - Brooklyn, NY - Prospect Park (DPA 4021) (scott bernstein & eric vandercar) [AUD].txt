@@ -1,0 +1,33 @@
+Guster
+Prospect Park
+Brooklyn, NY
+7/30/2013
+
+DPA/B&K4021 (stealth in hat ~10th row, left of center) -> Sound Devices 722 (@24/96); FLAC File processing in SoundForge 10.0e (volume normalization; Graphic EQ to reduce some overpowering bass; targeted EQ to remove spots of wind noise, EQ to dampen nearby yells & whistles; major clap scrubbing; resample to 44.1 with iZotope 64-Bit SRC set higher than "Highest Quality" setting w/anti-alias filter; 24->16 bit dither using iZotope MBIT+ Dither with Ultra noise shaping, High dither settings); Tracked in CDWav. IDv3 tagged in Tag&Rename 3.7.
+
+1.  What You Wish For (cuts in)
+2.  banter - Brooklyn bonafides
+3.  Architects & Engineers
+4.  Airport Song
+5.  Manifest Destiny
+6.  banter - last night of tour
+7.  What You Call Love
+8.  banter - pod of energy
+9.  Come Downstairs And Say Hello
+10. Do You Love Me
+11. banter - tax deduction suit
+12. Ramona
+13. Satellite
+14. Barrel Of A Gun *
+15. banter - amazing summer
+16. This Could All Be Yours
+
+* = w/Ed Robertson from Barenaked Ladies on vocals
+
+Last show of the "Last Summer On Earth" tour with Ben Folds Five, Guster, and Barenaked Ladies
+
+We did not record Barenaked Ladies
+
+Recorded by Scott Bernstein & Eric Vandercar
+
+Mastered, tracked, tagged, and posted by Scott Bernstein (8/14-26/2013)

@@ -1,0 +1,34 @@
+Guster
+November 28th, 1998
+Webster Theatre, Hartford, CT
+
+SBD>Tascam DA-P1>??>CD
+by Mike Corcoran
+
+Conversion:
+CD>xACT 2.15 (cdparanoia)>WAV<Sound Studio 4.2>xACT>FLAC
+by Dave Mallick
+
+Disc 1 Total: [44:25.46]
+01. Barrel Of A Gun    [05:43.48]
+02. Airport Song       [04:20.20]
+03. Medicine           [03:58.11]
+04. Either Way         [04:27.42]
+05. Closer             [04:26.01]
+06. At The Racetrack   [02:19.49]
+07. Bury Me            [03:16.16]
+08. Parachute          [05:26.40]
+09. Pantomime          [04:00.43]
+10. Demons             [05:16.55]
+11. Demons (remix)     [01:10.21]
+
+Disc 2 Total: [39:55.25]
+01. X-Ray Eyes         [04:12.71]
+02. Window             [04:37.35]
+03. At The Racetrack   [02:34.28]
+04. Happier            [04:07.55]
+05. Rocketship         [06:42.33]
+06. Fa Fa              [06:25.70]
+07. Eden               [04:58.62]
+08. Great Escape       [04:22.08]
+09. Circle Of Friends  [01:53.38]

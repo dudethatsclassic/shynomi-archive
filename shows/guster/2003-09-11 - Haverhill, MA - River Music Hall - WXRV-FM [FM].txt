@@ -1,0 +1,20 @@
+Guster 
+September 11th, 2003
+River Music Hall, WXRV-FM Studios, Haverhill, MA
+
+Master creation: 
+FM>D8
+
+SHNs were made: 
+Tascam DA-20>Egosys U2A>Sound Studio 2.1.1b3>AIFF>shntool
+by Dave Mallick [greenone@bluestraveler.net] 
+
+CD 1 [28:28.56] (minutes:seconds.frames) 
+01. Barrel Of A Gun              [07:14.56]
+02. Careful                      [05:08.47] 
+03. Jesus On The Radio           [05:05.31] 
+04. Amsterdam                    [05:32.38] 
+05. Fa Fa                        [05:27.34] 
+
+Notes:
+- Some low-level FM hiss in the background of quieter parts.

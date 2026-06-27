@@ -1,0 +1,59 @@
+Guster
+November 25th, 2023
+Beacon Theatre, New York, NY
+
+Master:
+Elation KM201's > Lunatec V3 > Tascam DR-100 mkIII (24/48)
+Mics handheld at chest height, ORCH1 Row R
+by Dave Mallick
+
+Conversion:
+Tascam DR-100 mkIII > WAV > Sound Studio 4.10.1 > xACT 2.54 > FLAC
+by Dave Mallick
+
+01. Diane                        [04:40.781]
+02. The Captain                  [03:42.399]
+03. Center Of Attention          [05:08.505]
+04. Mind Kontrol                 [03:41.655]
+05. Backyard                     [03:09.746]
+06. What You Call Love           [05:20.209]
+07. Black Balloon                [03:13.153]
+08. “Communication”              [01:44.245]
+09. Gangway                      [05:20.956]
+10. Manifest Destiny             [03:36.034]
+11. Airport                      [06:13.988]
+12. Empire State*                [05:45.369]
+13. I Spy                        [02:49.871]
+14. Satellite                    [04:49.465]
+15. The Beginning Of The End     [04:31.352]
+16. Stay With Me Jesus           [03:41.333]
+17. Happier                      [04:08.216]
+18. Amsterdam                    [04:25.301]
+19. Don't Go                     [04:04.855]
+20. Do You Love Me?              [04:41.201]
+21. Come Downstairs & Say Hello  [07:26.554]
+22. E: Mona Lisa                 [05:44.017]
+23.    Terrified                 [04:47.046]
+24.    Barrel Of A Gun           [04:22.052]
+                         Total: [107:08.305]
+
+* with Nick Blaemire, Gerard Canonico, Sara Chase, Jenn Damiano, Damon
+  Daunno, Van Hughes, Pomme Koch, and Rohan Kymal on vocals
+
+The guest vocalists on Empire State are all Broadway performers who are
+currently collaborating on a musical with Ryan. It is believed to be an
+adaptation of 2012's "Safety Not Guaranteed", for which Ryan wrote the
+original score.
+
+Track 8 was an improv song about the importance of communication in a
+band that has lasted for over 30 years.
+
+Tracks 16-18 were performed "fireside" at the front of the stage, where
+the band sat in chairs around a spraypainted cardboard fire and played
+acoustic versions.
+
+I had forgotten that the Beacon no longer allows mic stands, so I was
+forced to handhold my microphones on their mount at chest height for the
+entire show. I tried to minimize handling noise by only switching hands
+during loud applause, but there is definitely more crowd noise than
+usual at 5 feet than at the typical 8 or 9.

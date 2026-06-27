@@ -1,0 +1,39 @@
+Guster 
+June 28th, 2003
+Tower Records, Philadelphia, PA
+
+Master creation: 
+Elation KM201's (DIN, cardioid)>Lunatec V2>D8
+by Dave Mallick [greenone@bluestraveler.net]
+
+SHNs were made: 
+Tascam DA-20/D8>Egosys U2A>Sound Studio 2.0.7>AIFF>shntool
+by Dave Mallick [greenone@bluestraveler.net] 
+
+CD 1 [37:07.06] (minutes:seconds.frames) 
+01. Amsterdam                    [05:10.66]
+02. Happier                      [04:26.20] 
+03. Ramona                       [03:09.36] 
+04. Airport Song                 [03:42.22] 
+05. Happy Together               [02:51.13] 
+06. Jesus On The Radio           [02:38.43] 
+07. Barrel Of A Gun              [04:17.73] 
+08. Mona Lisa                    [06:02.67] 
+09. Fa Fa                        [04:47.41] 
+
+Show notes:
+- In-store acoustic set played with minor amplification.
+
+Recording notes:
+- d1t01 has several rough spots of distortion in the left channel as
+  recorded on the master; I may have had a short or perhaps something
+  was bumping the mic stand (it was set up behind a display by the
+  stairwell on the right-hand side). I noticed the left channel spiking 
+  all throughout Amsterdam but could not diagnose it before it 
+  mysteriously disappeared after one final distortion 27 seconds into
+  Happier. If anyone is feeling adventurous and feels like fixing or 
+  minimizing these problems, please do!
+- Several blips and dropouts in Happier from the original transfer were
+  repaired by re-recording a couple of segments on the mastering deck, 
+  hence the D8 also appearing in the transfer lineage above. Overlays are
+  flawless and result in no dropped samples but it's worth mentioning.

@@ -1,0 +1,53 @@
+Guster
+August 11th, 2023
+On The Ocean Festival, Day 1
+State Theatre, Portland, ME
+
+Master:
+Elation KM201's > Lunatec V3 > Tascam DR-100 mkIII (24/48)
+Mics 6.5' up at FOH to allow for line of sight
+by Dave Mallick
+
+Conversion:
+Tascam DR-100 mkIII > WAV > Sound Studio 4.10.1 > xACT 2.52 > FLAC
+by Dave Mallick
+
+01. What You Wish For                      [05:07.031]
+02. Manifest Destiny                       [03:57.778]
+03. Gangway                                [04:54.079]
+04. When You Go Quiet*                     [04:29.240]
+05. Rocketship*                            [04:54.370]
+06. Either Way*                            [04:41.570]
+07. Satellite*                             [04:53.692]
+08. Never Coming Down                      [03:33.631]
+09. Architects & Engineers                 [03:12.520]
+10. “Awards/Sequence of Sequins”           [05:49.368]
+11. Careless Whisper                       [04:10.078]
+12. Hercules                               [03:30.225]
+13. Don’t Go                               [04:12.677]
+14. Rise & Shine*                          [03:28.855]
+15. Endlessly*                             [05:26.500]
+16. Window#                                [04:14.000]
+17. Two Points For Honesty*                [04:03.529]
+18. Ruby Falls                             [07:43.122]
+19. Rock Lobster                           [04:55.905]
+20. Bury Me                                [03:45.941]
+21. E: So Long$                            [02:58.799]
+22.    Do You Love Me?*                    [04:41.377]
+23.    Homecoming King                     [05:56.935]
+24.    Good Riddance (Time Of Your Life)*  [03:39.715]
+                                   Total: [108:20.937]
+
+* with Matt LaRocca (violin) and Sam Quiggins (cello)
+# with Matt only, performed unamplified at stage lip
+$ with Sam only
+
+The band billed this evening as an "Enchantment Under the Ocean" dance
+with a prom theme. Everyone who was so inclined dressed up fancy, and
+three lucky couples/families were introduced on stage during track 10.
+
+Live debuts of "Careless Whisper" (Wham!), "Rock Lobster" (The B-52s)
+and "Good Riddance (Time Of Your Life)" (Green Day), all sung by Brian.
+
+Mics were lowered to head height to get out of camera shot, so there may
+be more crowd noise than usual.

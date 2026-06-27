@@ -1,0 +1,24 @@
+Guster
+Live In-Studio KCRW FM 
+Santa Monica, CA 
+June 30, 2006 
+
+FM > rooftop antenna > onkyo T-4087 tuner > m-audio 2496 card > 16 bit aiff via Audio Hijack Pro 2.6.3 > edited, normalized and tracked with Sound Studio 3.0.1 > SBE's repaired, md5, fingerprint, and FLAC (8) via xACT 1.5 > you 
+
+01 intro
+02 one man wrecking machine	
+03 satellite
+04 jesus on the radio
+05 two of us (beatles)
+06 interview
+07 lightning rod
+08 rise and shine
+09 the captain
+10 amsterdam
+11 outro
+
+Song titles from kcrw.com - not always correct.
+
+Here's the first capture with my new (from a pawn shop) FM tuner. I am surprised at the huge difference it makes in clarity and noise level over the Akai tuner that I was working with previously.
+
+don't trade this in a lossy format, don't sell it, and take the time to leave a dadgum comment  - peewee

@@ -1,0 +1,104 @@
+Guster
+Saturday, May 13, 2023
+Albany Tulip Festival
+Washington Park
+Albany, NY
+
+Recording info: sE Electronics sE8 (matched pair) > Zoom F3 > 32 bit 96 kHz FP WAV
+Location info: Right front corner of front of house (mix location). Stand at 12'.
+Transfer info: RX10 (gain adjustment) > Ozone 10 / Reaper 6.66 (low shelf, dynamics control, tracking) > RX10 (bit depth, sample rate, FLAC)
+
+Recorded and mastered by Steve Gravel
+
+Notes:
+- Thank you to the City of Albany, Guster, and WEQX for allowing me to record the performance.
+- A very breezy day.  Some wind noise but it's workable ;-)
+
+16 Bit 48 kHz FLAC Level 8 with MBIT+ dither
+
+Set:
+01 intro
+02 What You Wish For
+03 Architects and Engineers
+04 The Captain
+05 Terrified
+06 One Man Wrecking Machine
+07 Ramona
+08 Stay With Me Jesus
+09 cast signing
+10 Don't Go
+11 Barrel of a Gun
+12 Doin' It By Myself
+13 Diane
+14 banter
+15 Satellite
+16 Come Downstairs and Say Hello
+17 Do You Love Me?
+18 Demons
+19 Amsterdam
+20 Happier
+
+    length     expanded size    cdr  WAVE problems  fmt   ratio  filename
+     1:36.200      18470444 B   cxx   --   ---xx   flac  0.5763  01 - intro.flac
+     4:32.400      52300844 B   cxx   --   ---xx   flac  0.5826  02 - What You Wish For.flac
+     3:16.000      37632044 B   cxx   --   ---xx   flac  0.6156  03 - Architects and Engineers.flac
+     4:09.536      47911012 B   cxx   --   ---xx   flac  0.5833  04 - The Captain.flac
+     4:18.064      49548284 B   cxx   --   ---xx   flac  0.5954  05 - Terrified.flac
+     3:40.138      42266556 B   cxx   --   ---xx   flac  0.5984  06 - One Man Wrecking Machine.flac
+     3:16.062      37643932 B   cxx   --   ---xx   flac  0.5737  07 - Ramona.flac
+     3:03.600      35251244 B   cxx   --   ---xx   flac  0.5524  08 - Stay With Me Jesus.flac
+     2:30.541      28903904 B   cxx   --   ---xx   flac  0.5664  09 - cast signing.flac
+     4:04.593      46961908 B   cxx   --   ---xx   flac  0.5907  10 - Don't Go.flac
+     3:50.866      44326324 B   cxx   --   ---xx   flac  0.5826  11 - Barrel of a Gun.flac
+     4:47.200      55142444 B   cxx   --   ---xx   flac  0.5956  12 - Doin' It By Myself.flac
+     4:09.288      47863388 B   cxx   --   ---xx   flac  0.5822  13 - Diane.flac
+     3:24.112      39189508 B   cxx   --   ---xx   flac  0.5585  14 - banter.flac
+     4:38.802      53530004 B   cxx   --   ---xx   flac  0.5895  15 - Satellite.flac
+     6:14.798      71961284 B   cxx   --   ---xx   flac  0.5718  16 - Come Downstairs and Say Hello.flac
+     4:03.467      46745644 B   cxx   --   ---xx   flac  0.6101  17 - Do You Love Me.flac
+     4:29.299      51705492 B   cxx   --   ---xx   flac  0.5825  18 - Demons.flac
+     4:38.034      53382596 B   cxx   --   ---xx   flac  0.5941  19 - Amsterdam.flac
+     4:24.597      50802756 B   cxx   --   ---xx   flac  0.5824  20 - Happier.flac
+    79:07.598     911539612 B                            0.5850  (20 files)
+
+01 - intro.flac:1424945125d5c5669bd8e6e73e8d7ea8
+02 - What You Wish For.flac:40f46a4e2c2190b0818d6db783631b29
+03 - Architects and Engineers.flac:089703b4a075e83b8c5c0f0248549465
+04 - The Captain.flac:705ba125c3c00f1d201605d6d5222c93
+05 - Terrified.flac:ade64d471c87c35542dbe785cf2e49e1
+06 - One Man Wrecking Machine.flac:5793de076c330ea75d748efc9dcb065a
+07 - Ramona.flac:1442d79a3562d4a132ce916accb3131e
+08 - Stay With Me Jesus.flac:606441d50f665ef584e02d31c8ca76cc
+09 - cast signing.flac:bb678ebc7e02d7a21934685e1ba5afb4
+10 - Don't Go.flac:c8ba915b5ad1cc6fda2b60da4e0541d4
+11 - Barrel of a Gun.flac:dae923d6c946b1f91dc9aed1a372713b
+12 - Doin' It By Myself.flac:1485fc157a821fee7e2b44a8933f0e24
+13 - Diane.flac:27ca28c6c73ccd8b56f8f254e3648c7d
+14 - banter.flac:4f49d11e2eca330ef2989d5098369601
+15 - Satellite.flac:fbf4ea5a4b37da5035eb94cdea0b73e9
+16 - Come Downstairs and Say Hello.flac:006b3887ed6e83fcc3304e7816b15451
+17 - Do You Love Me.flac:9e3aeb083e48a55b9b0bfb42c29d56f6
+18 - Demons.flac:316bfa690a7c45b870c0801d2e990b5f
+19 - Amsterdam.flac:fc3bd9157e4f44c3bb640d5518c14029
+20 - Happier.flac:f1bfe711396a3617bba0f4e3d85f1479
+
+cb230d07c88ff24d66a35cb49940bad7 *01 - intro.flac
+7d3735a33992b859286873d8cc6270a1 *02 - What You Wish For.flac
+0c1339b8c5a246567a1452ba515a07ea *03 - Architects and Engineers.flac
+3adb75ec5312c9c03b2a07cd3b20945e *04 - The Captain.flac
+c96b616e2e43357fbecb4ad0ff1e8cac *05 - Terrified.flac
+b5cab4f8b3d706b50e111e637ca6c877 *06 - One Man Wrecking Machine.flac
+380b60a5e1f771d4247a1d02b7b3c1af *07 - Ramona.flac
+213ffab2baf5eb7b6cbe1124e43fac6d *08 - Stay With Me Jesus.flac
+c70cd41c3a5653a0bc7a03bf7b6de418 *09 - cast signing.flac
+673eff178d99b645e94c0fdd3f02ffd6 *10 - Don't Go.flac
+ec59bb5e2678a6d5baf1bcf69126fafd *11 - Barrel of a Gun.flac
+e668ebb3193d1d579fc9e039506fbd6c *12 - Doin' It By Myself.flac
+536d75862180c8631a13c455000bbad1 *13 - Diane.flac
+692340da33890f5f37163f40792322b2 *14 - banter.flac
+189765516a93381671b845d4fe104b5d *15 - Satellite.flac
+f18db00c0b92455e4af159909a6924ff *16 - Come Downstairs and Say Hello.flac
+913cf688af7b082050eedcddae9542ef *17 - Do You Love Me.flac
+06529982bd9f90ccafa6f60f447616c4 *18 - Demons.flac
+751bffb6720cf2541df4021bc2569d85 *19 - Amsterdam.flac
+8a2743056b328c93e5358d29aff32479 *20 - Happier.flac

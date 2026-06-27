@@ -1,0 +1,35 @@
+Guster
+February 2nd, 1996
+Gunnerz, Iowa City, IA
+
+Master:
+SBD>??>CD
+taper unknown, CDs provided by Neil Brodsky
+
+Conversion:
+CD>xACT 2.15 (cdparanoia)>WAV<Sound Studio 4.2>xACT>FLAC
+by Dave Mallick
+
+Disc 1 Total: [42:08.50]
+01. Window               [03:57.59]
+02. Love For Me          [04:02.73]
+03. The Prize            [03:44.57]
+04. Bury Me              [02:46.09]
+05. Mona Lisa            [04:08.05]
+06. Down In It           [03:37.42]
+07. Grin                 [06:04.06]
+08. Happy Frappy         [04:45.23]
+09. Perfect*             [04:20.60]
+10. Dissolve             [04:41.16]
+
+Disc 2 Total: [41:34.65]
+01. banter>Dregs         [06:59.02]
+02. Melanie              [05:11.15]
+03. Scars & Stitches     [03:41.40]
+04. Pantomime            [04:17.14]
+05. Eden                 [05:14.59]
+06. Killing In The Name  [04:05.61]
+07. Parachute            [08:01.72]
+08. E: Cocoon            [04:03.27]
+
+* original version, not the recorded song

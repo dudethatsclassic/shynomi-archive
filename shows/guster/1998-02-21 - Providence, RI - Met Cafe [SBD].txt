@@ -1,0 +1,55 @@
+Guster 
+February 21st, 1998
+Met Cafe, Providence, RI
+
+Master creation: 
+SBD>D8
+by Dave Mallick [greenone@bluestraveler.net]
+
+SHNs were made: 
+Tascam DA-20>Egosys U2A>Sound Studio 2.0.7>AIFF>shntool
+by Dave Mallick [greenone@bluestraveler.net] 
+
+CD 1 [49:53.63] (minutes:seconds.frames) 
+01. Great Escape                 [07:19.64]
+02. Window                       [04:04.03] 
+03. Perfect                      [04:52.04] 
+04. Fifty Nifty United States    [01:02.14] 
+05. Mona Lisa                    [05:53.20] 
+06. Eden                         [04:36.49] 
+07. Love For Me                  [04:01.06] 
+08. Start It All Over Again      [04:14.60] 
+09. Barrel Of A Gun              [04:03.07] 
+10. Parachute                    [05:33.61] 
+11. Rocketship                   [04:13.00] 
+
+CD 2 [55:14.43]
+01. Happy Frappy                 [04:38.26]
+02. Pantomime                    [03:35.39] 
+03. Bury Me                      [03:07.28] 
+04. Dregs                        [06:17.36] 
+05. Demons                       [05:06.23] 
+06. Cocoon                       [07:44.42] 
+07. The Prize                    [04:21.71] 
+08. At The Racetrack             [01:45.73] 
+09. E: Closer                    [05:13.02] 
+10.    Dissolve                  [06:48.06] 
+11.    Faithfully*               [01:37.47] 
+12.    Airport Song              [03:55.13] 
+13.    At The Racetrack          [01:03.12] 
+
+Show notes:
+- This was the famous "setlist wheel" show, where the band
+  essentially put their entire catalogue of songs on a wheel
+  and spun it to decide what they would play next. The result is
+  one of the longest (if not the longest) Guster shows on record. 
+- "Fifty Nifty United States" was actually a slot on the wheel 
+  labeled "Brian Sings". You can actually hear him register his 
+  disgust before he starts singing: "This fucken sucks..." 
+- "Faithfully" was actually a slot on the wheel labeled "Ari Sings
+  Journey", and featured tour manager Ari "Mean Joe" Weinstein on
+  vocals. This was Ari's last week as tour manager.
+
+Recording notes:
+- Happy Frappy (d1t01) has a 10-second dropout at 1:15 as I
+  momentarily lost my feed from the soundboard somehow.

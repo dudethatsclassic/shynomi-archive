@@ -1,0 +1,40 @@
+Guster
+August 19th, 2000
+Central Park Summerstage, New York, NY
+
+Master:
+Microtech Gefell MG200's > Aerco MP-2 > Tascam DA-P1 > Sony TCD-D8
+by Dave Mallick, rig provided by unknown taper but
+possibly Fred Giordano/Dave K
+
+Conversion:
+Tascam DA-20 > Marantz PMD671 > WAV >
+Sound Studio 4.10.1 > xACT 2.55 > FLAC 16/48
+by Dave Mallick
+
+01. I Spy                        [05:53.53]
+02. Bury Me                      [03:21.24]
+03. What You Wish For            [03:53.49]
+04. Rocketship                   [05:55.02]
+05. Two Points For Honesty       [03:38.34]
+06. Barrel of a Gun              [04:25.46]
+07. Center of Attention>         [03:56.61]
+08. Happy Frappy                 [03:49.51]
+09. X-Ray Eyes                   [05:54.40]
+10. Airport Song                 [03:42.21]
+11. So Long                      [03:31.35]
+12. All The Way Up to Heaven *#  [06:05.63]
+13. Demons *                     [05:06.31]
+14. Either Way                   [04:55.36]
+15. Great Escape                 [03:38.49]
+16. Fa Fa *                      [08:49.71]
+17. E: The Sound of Silence      [02:40.23]
+18.    Dissolve *                [06:56.27]
+19.    Happier                   [04:08.13]
+                          Total: [90:23.54]
+   
+* with Dan Myers (From Good Homes) on saxophone
+# with the ladies of the New York Choral Society on vocals
+
+First and only known performance of "The Sound Of Silence", a tribute to
+Simon & Garfunkel's famous "Concert In Central Park".

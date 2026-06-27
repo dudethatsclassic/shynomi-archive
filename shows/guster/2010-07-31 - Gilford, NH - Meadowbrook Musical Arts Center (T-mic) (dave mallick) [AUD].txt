@@ -1,0 +1,33 @@
+Guster
+July 31st, 2010
+Meadowbrook Musical Arts Center, Gilford, NH
+
+Master:
+T-mic>10db pad>Microtrack 24/96
+by Dave Mallick
+
+Conversion:
+WAV>Sound Studio 2.2.4>xACT 2.00a>FLAC
+by Dave Mallick
+
+01. Intro/Ryan tests his mic     [01:23.35]
+02. The Captain                  [04:05.28]
+03. One Man Wrecking Machine     [03:42.30]
+04. Barrel Of A Gun              [04:45.72]
+05. This Could All Be Yours      [03:54.48]
+06. Hang On                      [04:49.63]
+07. Amsterdam                    [04:39.07]
+08. Architects & Engineers       [03:06.03]
+09. Airport Song                 [05:25.25]
+10. Live Free Or Die*            [01:54.04]
+11. Satellite*                   [04:47.11]
+12. Manifest Destiny             [03:37.12]
+13. Come Downstairs & Say Hello  [06:04.43]
+                          Total: [52:15.06]
+                          
+* with Jesse Carmichael (Maroon 5) on keys
+
+Notes:
+- Sound was run by Josh, their monitor engineer, so he was unavailable
+  to play keys on Satellite; the band got Jesse to fill in since they
+  were opening for Maroon 5.

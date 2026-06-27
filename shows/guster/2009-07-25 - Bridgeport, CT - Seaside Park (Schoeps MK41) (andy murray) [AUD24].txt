@@ -1,0 +1,34 @@
+Guster
+2009-07-25
+Gathering Of The Vibes
+Seaside Park
+Bridgeport, CT
+
+Recorded and transferred by Andy Murray
+
+Right side of soundboard from Taper's Section DINa
+Schoeps MK41>KC5>CMC6>Sonosax SX-M2>Apogee Mini-me(aes out@24 bit/96khz)>COAX>Edirol R-44
+SD-HC Card>USB>Soundforge 8(tracking, normalize)>FLAC Level 8
+
+1 Disc
+1 Set
+
+guster2009-07-25_mk41_2496_d1t01.flac:026dcd544fc491a4c58f304f9b42738e
+guster2009-07-25_mk41_2496_d1t02.flac:4b219330e348a4187cfb862e569a8181
+guster2009-07-25_mk41_2496_d1t03.flac:6aefb16b59ce544aa48e05d5ef5d5d3b
+guster2009-07-25_mk41_2496_d1t04.flac:46627b189e02ec3a8a843b6ef2bf808e
+guster2009-07-25_mk41_2496_d1t05.flac:8d3f5d96df53d669e13ab7331e97a87a
+guster2009-07-25_mk41_2496_d1t06.flac:d0fd9cbc70fc368804bc9a5fe505b565
+guster2009-07-25_mk41_2496_d1t07.flac:5d2dbf3c5124d99fb3044a2a03df7a84
+guster2009-07-25_mk41_2496_d1t08.flac:fd9528b6cb83e979f2e61742d6a56c59
+guster2009-07-25_mk41_2496_d1t09.flac:3571f9fc0e9a812b2eddb5f2f492ba04
+guster2009-07-25_mk41_2496_d1t10.flac:1abe872a991ad4da425f264386cf129d
+guster2009-07-25_mk41_2496_d1t11.flac:25ff7fa66733d48bd9e8ee44f2045da1
+guster2009-07-25_mk41_2496_d1t12.flac:4abccc934d79a4f1431136c9a74ec3a1
+guster2009-07-25_mk41_2496_d1t13.flac:60e74c1a08a53840b48e67818eb0223b
+guster2009-07-25_mk41_2496_d1t14.flac:b570f7b0a0012917b4f7de8b803d0870
+guster2009-07-25_mk41_2496_d1t15.flac:707728a5bef9108d7582496d1cc78102
+guster2009-07-25_mk41_2496_d1t16.flac:fa55ff94de01f91e9a317288bfd0e264
+guster2009-07-25_mk41_2496_d1t17.flac:95ba9bc1b7ab5ba7945de01b9779ccec
+guster2009-07-25_mk41_2496_d1t18.flac:7fd2a6e8227341e3c724e5f77b1bcfc5
+guster2009-07-25_mk41_2496_d1t19.flac:f5c5b8fec1e28f5b1481460eea2fa2cc

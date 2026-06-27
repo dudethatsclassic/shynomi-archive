@@ -1,0 +1,38 @@
+Guster
+August 6th, 2011
+State Theatre, Portland, ME
+
+Master:
+Elation KM201's>Lunatec V3>Microtrack 24/96 (24-bit, 48kHz WAV)
+3' right of center, directly in front of soundboard
+by Dave Mallick
+
+Conversion:
+WAV>Sound Studio 2.2.4>xACT 2.13>FLAC
+by Dave Mallick
+
+01. What You Call Love                           [04:40.768]
+02. The Captain                                  [04:27.083]
+03. Happier                                      [04:01.375]
+04. Architects & Engineers                       [03:05.000]
+05. Homecoming King                              [04:51.272]
+06. Demons                                       [04:02.657]
+07. Center Of Attention                          [05:04.512]
+08. Hang On                                      [04:50.867]
+09. Come Downstairs & Say Hello                  [06:14.933]
+10. Do You Love Me                               [04:31.080]
+11. Jonah                                        [03:26.827]
+12. I Spy                                        [03:06.813]
+13. Satellite                                    [04:40.760]
+14. Red Oyster Cult                              [03:44.613]
+15. This Could All Be Yours                      [04:07.280]
+16. One Man Wrecking Machine                     [03:43.973]
+17. Manifest Destiny                             [03:38.680]
+18. This Is How It Feels To Have A Broken Heart  [03:27.813]
+19. banter/Dreams (Fleetwood Mac)                [02:47.632]
+20. Barrel Of A Gun                              [04:40.764]
+21. On The Ocean                                 [04:39.791]
+22. G Major                                      [03:41.466]
+23. Airport Song                                 [05:19.107]
+24. E: Under The Bridge                          [03:15.040]
+                                         Total: [100:10.107]

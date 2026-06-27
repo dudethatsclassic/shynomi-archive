@@ -1,0 +1,41 @@
+Guster
+September 23rd, 1998
+Lupo's Heartbreak Hotel, Providence, RI
+
+Master creation: 
+SBD>DA-P1>D8
+by Dave Mallick [greenone@bluestraveler.net]
+
+SHNs were made: 
+DA-20>U2A>Sound Studio 2.1.1b3>AIFF>xACT 1.3d3
+by Dave Mallick [greenone@bluestraveler.net] 
+
+CD 1: [41:20.08] (minutes:seconds.frames)
+01. Barrel Of A Gun     [04:55.13]
+02. Demons              [05:13.45]
+03. Window              [03:37.44]
+04. X-Ray Eyes          [04:26.26]
+05. Great Escape        [04:05.56]
+06. Happier             [04:38.25]
+07. Parachute           [06:04.03]
+08. Bury Me             [04:49.07]
+09. Scars & Stitches    [03:30.14]
+
+CD 2: [44:06.42]
+01. Either Way          [05:21.34]
+02. Airport Song        [04:01.74]
+03. Medicine            [04:13.22]
+04. Bare                [04:38.33]
+05. Rocketship          [05:12.04]
+06. Happy Frappy        [03:41.50]
+07. Fa Fa               [05:12.03]
+08. E: Mona Lisa        [06:52.27]
+09.    Closer           [04:21.62]
+10.    At The Racetrack [00:31.33]
+
+Notes:
+- Show volume was quite low after the first minute of d1t01 so I normalized the
+  remainder of the show to 100% in SoundEdit 16 prior to track splitting.
+- Static at 3:12 of d1t05, sounds like it's from the guitar.
+- Signal turned off between main set and encore, so I faded out and removed
+  ~1 minute of dead space between d2t06 and d2t07.

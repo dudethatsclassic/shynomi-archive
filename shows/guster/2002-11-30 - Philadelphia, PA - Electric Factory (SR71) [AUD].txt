@@ -1,0 +1,60 @@
+Guster
+11.30.2002
+Philadelphia, PA
+Electric Factory
+
+Source:		sr-71s > mp2 > d8 *
+Taper:		Dave Thoma
+
+DAT > CD Conversion: Dave Thoma (david.thoma@comcast.net)
+
+Equipment: D8 > Digital Coax > Audiowerk 2 > CD Wave > Soundforge Pro 6.0 > 
+MKW Audio Compression Tool
+
+** No DAE - DAT > .WAV > .SHN
+
+*** PLEASE DO NOT ENCODE THIS SHOW INTO MP3 FORMAT ***
+
+Disc One:							Time
+
+01:	Intro *						-	00:49.666
+02:	Demons *					-	04:51.271
+03:	Center of Attention				-	04:17.955
+04:	Barrel of a Gun					-	05:02.893
+05:	Ramona >					-	02:52.693
+06:	What You Wish For				-	04:27.440
+07:	Red Oyster Cult					-	03:24.573
+08:	Mona Lisa					-	05:32.866
+09:	Homecoming King (Another Brick in the Wall)	-	04:34.986
+10:	Dreidel Song					-	03:36.200
+11:	Either Way					-	04:59.840
+
+Disc Total						-	44:30.383
+
+Disc Two:
+
+01:	I Spy						-	04:05.533
+02:	Airport Song					-	04:00.626
+03:	X-Ray Eyes					-	04:04.013
+04:	Amsterdam					-	04:29.786
+05:	Two Points For Honesty > 			-	05:32.960
+	(Where the Streets Have No Name)			
+06:	Fa Fa						-	07:59.266
+E07:	Jesus on the Radio %				-	02:32.040
+E08:	Window %					-	04:48.906
+E09:	Happier						-	05:48.066
+E10:	Parachute					-	05:01.186
+
+Disc Total						-	48:22.382
+
+Show Total						-	1:32:52.765
+
+* D1T1 & D1T2 Source Info: AT853's>battery box>TCD-D8 (Taper: Dave Mallick)
+% w/ Rachel (from Pennsylvania) on violin
+
+Notes:
+
+- I had power problems at the beginning, so I had to use Demons from Dave Mallick's
+source (thanks again Dave).  I used Sound Forge to join the two sources together after 
+Demons.
+- The volume fluctuates once or twice, when I was adjusting my levels.

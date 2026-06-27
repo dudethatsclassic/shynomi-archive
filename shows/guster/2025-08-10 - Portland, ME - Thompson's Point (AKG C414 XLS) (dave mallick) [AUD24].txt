@@ -1,0 +1,50 @@
+Guster
+On The Ocean Festival, night 3
+August 10th, 2025
+Thompson's Point, Portland, ME
+
+Master:
+AKG C414 XLS (hyper) > Lunatec V3 > Tascam DR-100 mkIII (24/48)
+Dead center at front of house tent
+by Dave Mallick - thanks to Dan Godwin for the clamp space!
+
+Conversion:
+Tascam DR-100 mkIII > WAV > Sound Studio 4.10.1 > xACT 2.57 > FLAC
+by Dave Mallick
+
+01. What You Wish For         [04:53.175]
+02. Do You Love Me?           [03:52.986]
+03. security guard shout out  [02:28.863]
+04. Keep Going                [04:12.396]
+05. Ramona                    [03:09.577]
+06. Don’t Go                  [03:54.543]
+07. The Captain               [04:22.042]
+08. Rocketship                [04:47.044]
+09. Hello Mister Sun *        [04:14.962]
+10. Fa Fa *                   [05:52.663]
+11. Never Coming Down         [03:35.982]
+12. Manifest Destiny          [03:35.882]
+13. When We Were Stars        [05:19.734]
+14. Airport Song              [05:40.464]
+15. Dear Valentine            [04:44.362]
+16. Doin’ It By Myself        [07:12.037]
+17. Gangway #                 [02:59.892]
+18. Maybe We’re Alright #     [03:48.225]
+19. Amsterdam #               [03:38.339]
+20. back to the main stage    [01:44.977]
+21. I Spy                     [03:05.148]
+22. Satellite                 [04:34.992]
+23. Ryan thanks everyone      [01:57.199]
+24. This Could All Be Yours   [04:48.444]
+25. E: Ride Like The Wind *   [04:10.750]
+                      Total: [102:44.678]
+
+* with Jamie (Colpoys) Bifulco (trombone), Andrew Halchak (saxophone),
+  and Emma Stanley (trumpet)
+# with Joe Pisapia on guitar
+
+The three songs with Joe Pisapia were performed on the B-stage, a small
+raised platform in the middle of the crowd to the west side.
+
+Second performance ever of Ride Like The Wind, first since 2017. Brian
+came out from behind the drum kit to sing.

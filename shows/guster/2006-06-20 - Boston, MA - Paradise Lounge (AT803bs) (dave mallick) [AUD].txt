@@ -1,0 +1,29 @@
+Guster
+June 20th, 2006
+Paradise Lounge, Boston, MA
+
+Master:
+AT803b's>battery box>D8
+by Dave Mallick [greenone@bluestraveler.net]
+
+Conversion:
+Tascam DA-20>Egosys U2A>Sound Studio 2.1.1b3>AIFF>xACT 1.58
+by Dave Mallick [greenone@bluestraveler.net]
+
+CD 1 [39:03.68] (minutes:seconds.frames)
+01. One Man Wrecking Machine    [05:19.29]
+02. Rise & Shine                [04:05.52]
+03. Two Of Us                   [03:55.21]
+04. Jesus On The Radio          [03:57.03]
+05. Demons                      [05:39.63]
+06. Lightning Rod               [03:30.68]
+07. The Captain                 [04:42.63]
+08. Amsterdam                   [06:05.73]
+09. E: The Star-Spangled Banner [01:46.71]
+
+Notes:
+- Free, winners-only show for WBOS listeners.
+- Entire show performed in a stripped-down acoustic arrangement, but 
+  still plugged in to amplifiers.
+- People walked in front of me from time to time so the sound is 
+  slightly muffled momentarily when that happens.

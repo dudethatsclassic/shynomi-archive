@@ -1,0 +1,45 @@
+Guster
+May 2nd, 2015
+State Theatre, Portland, ME [late show]
+
+Master:
+Elation KM201's>Lunatec V3>Microtrack II (24-bit/48kHz)
+by Dave Mallick
+
+Conversion:
+WAV>Sound Studio 4.7.8>xACT 2.35>FLAC
+by Dave Mallick
+
+01. Long Night                   [05:40.049]
+02. Happier                      [05:43.133]
+03. The Captain                  [03:48.214]
+04. Keep It Together             [04:21.161]
+05. Doin' It By Myself           [04:18.845]
+06. Ramona                       [03:23.155]
+07. Endlessly                    [04:49.722]
+08. Architects & Engineers       [03:06.914]
+09. Manifest Destiny             [03:22.863]
+10. Kid Dreams                   [04:26.272]
+11. Come Downstairs & Say Hello  [06:03.697]
+12. Do You Love Me?              [05:39.747]
+13. One Man Wrecking Machine     [03:48.082]
+14. Never Coming Down            [04:08.532]
+15. Hercules*                    [03:37.000]
+16. Satellite*                   [06:00.297]
+17. Simple Machine               [04:52.563]
+18. Center Of Attention          [04:36.349]
+19. Ruby Falls                   [07:04.906]
+20. Barrel Of A Gun              [03:32.359]
+21. [two encores improv]         [02:50.803]
+22. This Could All Be Yours      [05:10.687]
+23. E1: Lazy Love                [03:04.622]
+24.     Amsterdam                [05:23.894]
+25.     Demons                   [06:01.442]
+26. E2: Jesus On The Radio#      [03:10.430]
+
+Total: [118:05.739]
+
+* with Kishi Bashi on violin
+# acoustic and unamplified
+
+Thanks to the guys from Crash Boom Bang Media for the space inside the booth behind the soundboard!

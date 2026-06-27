@@ -1,0 +1,27 @@
+Guster
+June 22nd, 2006
+"World Cafe Live"
+WXPN-FM Studios, Philadelphia, PA
+
+Master:
+NPR webstream>Audio Hijack>AIFF
+by Dave Mallick [greenone@bluestraveler.net]
+
+Conversion:
+Sound Studio 2.1.1b3>AIFF>xACT 1.58
+by Dave Mallick [greenone@bluestraveler.net]
+
+CD 1 [22:39.56] (minutes:seconds.frames)
+01. Intro                    [02:12.05]
+02. One Man Wrecking Machine [08:10.38]
+03. The Captain              [04:06.30]
+04. Rise & Shine             [04:36.73]
+05. Jesus On The Radio       [02:21.13]
+06. Outro                    [01:12.47]
+
+Notes:
+- Show was recorded on June 22nd and broadcast locally on that date; it
+  was later broadcast in syndicated form via NPR on June 30th. This
+  version is recorded from NPR's web stream.
+- Songs are interspersed with interview segments which are not tracked
+  separately.

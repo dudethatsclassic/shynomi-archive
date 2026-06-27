@@ -1,0 +1,32 @@
+Guster
+October 9th, 1998
+House of Blues, Chicago, IL
+
+Master:
+SBD>??>CD
+taper unknown
+
+Conversion:
+CD>xACT 2.15 (cdparanoia)>WAV<Sound Studio 4.2>xACT>FLAC
+by Dave Mallick
+
+01. Demons            [03:06.61]
+02. Bury Me           [03:06.00]
+03. Happier           [04:00.72]
+04. X-Ray Eyes        [04:27.54]
+05. Window            [03:59.63]
+06. Closer            [05:00.58]
+07. Parachute         [08:02.13]
+08. Scars & Stitches  [03:25.22]
+09. Either Way        [04:40.05]
+10. Airport Song      [04:05.27]
+11. Medicine          [04:37.19]
+12. Rocketship        [05:14.04]
+13. Fa Fa             [06:14.65]
+14. Mona Lisa         [04:25.40]
+15. Great Escape      [03:02.33]
+               Total: [67:29.11]
+
+Notes:
+- All tracks had two seconds of silence between them, which I trimmed
+  out manually.

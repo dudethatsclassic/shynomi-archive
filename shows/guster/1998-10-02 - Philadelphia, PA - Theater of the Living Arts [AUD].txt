@@ -1,0 +1,44 @@
+Guster
+October 2, 1998
+Theater of the Living Arts (TLA)
+Philadeplhia, PA
+
+Source:		DAud (Microtech Geffell SMS2000/200 > Oade M148 > SBM-1 > D7)
+Taper:		Bill Lakenan <blakenan@us.net>
+
+DAT > SHN:	Archive Python DDS/vdat > .wav (Direct DAT extraction, no soundcard)
+		Bill Lakenan <blakenan@us.net>
+
+Tracked with CdWav.
+Shned with mkwact.
+
+Disc 1:
+1	Intro
+2	Great Escape
+3	Happier
+4	Disolve
+5	Barrel Of A Gun*
+6	Airport Song
+7	Either Way
+8	Grin
+9	Ryan Talking : Letter
+10	Stand By Me
+11	X-ray Eyes
+12	Ryan Talking : Blindfolds, Toplessness
+13	Bury Me
+14	Happy Frappy
+
+
+Disc 2:
+1	Rocketship
+2	Fa Fa
+3	Parachute
+4	Demons
+5	Bare
+6	Window
+7	Encore Break
+8	Mona Lisa
+9	Closer
+
+
+Compiled by brian treacy <brian@whitebirches.net> 2001-04-23.

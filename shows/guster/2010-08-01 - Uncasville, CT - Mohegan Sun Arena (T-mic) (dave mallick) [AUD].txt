@@ -1,0 +1,36 @@
+Guster
+August 1st, 2010
+Mohegan Sun Arena, Uncasville, CT
+
+Master:
+T-mic>10db pad>Microtrack 24/96
+by Dave Mallick
+
+Conversion:
+WAV>Sound Studio 2.2.4>xACT 2.00a>FLAC
+by Dave Mallick
+
+01. The Captain                  [04:20.44]
+02. Manifest Destiny             [03:54.00]
+03. Demons                       [04:22.66]
+04. Red Oyster Cult*             [05:10.06]
+05. This Could All Be Yours      [04:01.51]
+06. Hang On                      [04:38.59]
+07. Architects & Engineers       [02:55.16]
+08. Barrel Of A Gun              [04:02.27]
+09. Airport Song                 [05:23.33]
+10. Satellite#                   [04:44.61]
+11. Amsterdam                    [04:23.49]
+12. Come Downstairs & Say Hello  [06:02.19]
+                          Total: [53:59.56]
+
+* with "Don't Fear the Reaper" outro, featuring Adam Levine and James
+  Valentine on cowbell and PJ Morton on cabasa
+# with Jesse Carmichael (Maroon 5) on keys
+
+Notes:
+- Sound was run by Josh, their monitor engineer, so he was unavailable
+  to play keys on Satellite; the band got Jesse to fill in since they
+  were opening for Maroon 5.
+- Brief burst of static at 1:44 of track 3; the deck fell off my seat.
+  Memo to Mohegan Sun: your seats are tiny and uncomfortable.

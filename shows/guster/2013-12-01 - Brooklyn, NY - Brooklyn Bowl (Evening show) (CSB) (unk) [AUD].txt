@@ -1,0 +1,46 @@
+Guster
+December 1st, 2013
+Brooklyn Bowl, Brooklyn, NY
+Evening show
+
+Master: 
+Core Sounds binuaral > Zoom Handy H4n 
+I did minor processing in Sound Forge to raise the levels
+
+I stood at the Left side of Stage, right up front.
+
+01. What You Wish For
+02. Bad Bad World
+03. Ramona 
+04. Sattelite
+05. The Airport Song
+06. What You Call Love
+07. Rise and Shine
+08. Two Points for Honesty
+09. Come Downstairs and Say Hello
+10. Set Break
+11. Fall in Two
+12. Mona Lisa
+13. Love For Me
+14. Window
+15. Eden
+16. Scars & Stitches
+17. The Prize
+18. Dissolve
+19. Cocoon
+20. Happy Frappy
+21. Parachute
+21. Hang On
+22. Pantomine 
+23. This Could All Be Yours
+24. Happier
+25. Crowd Noise
+26. Demons
+
+Fall in Two was performed as a three piece which is the band's original form.  
+
+The audience actually wouldn't leave until the band came out for another song. House lights were up and even house music
+by the time they retook the stage for Demons
+
+On some songs, there was weird clicking noise in the right channel, so I copied the left channel data to the right channel
+to remove it.

@@ -1,0 +1,56 @@
+Guster
+August 2nd, 2011
+Cape Cod Melody Tent, Hyannis, MA
+
+Master:
+Elation KM201's>Lunatec V3>Microtrack 24/96 (24-bit, 48kHz WAV)
+mics handheld from the 6th row
+by Dave Mallick
+
+Conversion:
+WAV>Sound Studio 2.2.4>xACT 2.13>FLAC
+by Dave Mallick
+
+01. The Captain                                  [04:35.387]
+02. What You Wish For                            [04:04.760]
+03. Architects & Engineers                       [03:09.273]
+04. What You Call Love                           [04:10.994]
+05. Ramona                                       [03:20.799]
+06. Satellite                                    [04:57.564]
+07. Barrel Of A Gun                              [03:25.459]
+08. This Could All Be Yours                      [04:30.288]
+09. Hang On                                      [04:45.766]
+10. Come Downstairs & Say Hello                  [06:06.417]
+11. Do You Love Me                               [03:42.667]
+12. banter/Cape Cod jam                          [02:32.893]
+13. I Spy                                        [03:21.507]
+14. Bad Bad World                                [04:45.760]
+15. G Major                                      [03:33.787]
+16. Demons                                       [04:36.187]
+17. This Is How It Feels To Have A Broken Heart  [03:29.133]
+18. Amsterdam                                    [04:37.560]
+19. Happier                                      [04:18.413]
+20. E: Stay With Me Jesus                        [03:34.400]
+21.    Manifest Destiny                          [03:31.213]
+22.    Airport Song                              [05:20.707]
+23.    All Out Of Love*                          [04:29.053]
+                                          Total: [94:59.987]
+  
+* Air Supply cover, with Will Forte on vocals
+
+Notes:
+- The Melody Tent is a theater in the round, which doesn't make for the
+  best taping situation; there's virtually no open floor space to set up 
+  a mic stand, either at your seat or behind them. Even the soundboard
+  area was packed full with nowhere to set up, so I stowed the stand away
+  and hand-held the mount and mics on my leg for the whole show. We were
+  sitting in the sixth row and I angled the mics up to the PA (which
+  hangs above the rotating stage).
+- Yes, that's Will Forte guesting on the encore. He and Ryan became
+  friendly when they met at "Dylan Fest" at the Bowery Ballroom in NYC
+  back in May. Will was staying in Hyannis while shooting for the Adam
+  Sandler film "Donny's Boy" (formerly "I Hate You, Dad") and texted
+  the band when he heard they were coming to the area.
+  
+This is a 24-bit, 48kHz recording and is not suitable for burning to CD.
+A 16-bit, 44.1kHz recording is available.

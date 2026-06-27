@@ -1,0 +1,53 @@
+Guster
+October 25, 1997
+The Bayou
+Washington, DC
+
+
+Taper:		Bill Lakenan <blakenan@us.net>
+Source:		DAud [Microtech Geffell SMS2000/200(cards)->Oade M148->Sony SBM1->Sony D7]
+Location:	At soundboard
+
+DAT > SHN:	Archive Python DDS/vdat > .wav (Direct DAT extraction, no soundcard)
+		Bill Lakenan <blakenan@us.net> and Louie Rendek <ljr7@po.cwru.edu>
+
+Disc One:
+
+01:	Intro					-	03:03.10
+02:	Demons					-	04:29.41
+03:	Airport Song				-	03:37.69
+04:	Scars And Stitches			-	04:16.73
+05:	X-ray Eyes				-	03:25.43
+06:	Window					-	03:41.66
+07:	Closer					-	05:03.49
+08:	Killing In The Name			-	03:26.31
+09:	Dissolve				-	06:31.44
+10:	Happy Frappy			 	-	03:49.17
+11:	Bury Me					-	03:02.73
+12:	Thegasaurus song			-	00:26.63
+13:	Getting Even				-	05:09.19
+
+Total:						-	50:04.73
+
+
+Disc Two:
+
+01:	Intro					-	00:57.20
+02:	Sedated -> Happy Bday Ari -> Sedated #	-	02:37.16
+03:	Barrel Of The Gun -> ??			-	03:52.12
+04:	Parachute				-	04:35.12
+05:	Great Escape				-	03:02.22
+06:	Can't Touch This tease			-	00:23.65
+07:	Rocketship				-	05:17.18
+08:	Dregs $					-	08:59.53
+09:	E:  Mona Lisa				-	04:47.51
+10:	E:  "Holes In Teeth" ->			-	02:23.74
+11:	E:  Cocoon % 				-	04:24.57
+
+Total:						-	xx
+
+#  with Ari, the band's tour manager, as "Joey Ramone"
+$  with "blues breakdown" and band member introductions
+%  with Hanson's "MMMM, Bop" in middle
+
+*compiled by Louie Rendek <ljr7@po.cwru.edu>

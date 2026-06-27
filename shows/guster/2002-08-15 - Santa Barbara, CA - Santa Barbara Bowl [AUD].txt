@@ -1,0 +1,27 @@
+Guster
+August 15th, 2002
+Santa Barbara Bowl, Santa Barbara, CA
+
+Master:
+source/taper unknown, CD provided by KDHJ
+
+Conversion:
+CD>xACT 2.15 (cdparanoia)>WAV<Sound Studio 4.2>xACT>FLAC
+by Dave Mallick
+
+01. //I Spy              [02:29.50]
+02. What You Wish For    [04:16.01]
+03. New Song 2           [04:39.28]
+04. Center Of Attention  [04:23.73]
+05. Mona Lisa            [05:19.39]
+06. Homecoming King      [04:07.17]
+07. Either Way           [04:59.54]
+08. Happier              [03:52.22]
+09. //Fa Fa              [05:00.21]
+                  Total: [39:08.05]
+
+Notes:
+- First and last tracks cut in; last track may be an unexpected encore
+  which would account for the taper being caught off-guard.
+- This may be from the same source as the following night's recording:
+  http://www.archive.org/details/guster2002-08-16

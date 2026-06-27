@@ -1,0 +1,42 @@
+Guster
+December 3, 2002
+9:30 Club
+Washington, DC
+
+
+Source: 	DAud 	[Microtech Geffell SMS2000/200 (cards) -> Oade M148 
+			-> Sony SBM1 (Oade Mod) -> Sony D7]
+
+Location:	Directly in front of left corner of stage; even with mix position; XY90 @ 12 ft
+
+Conversion: 	Archive Python DDS/DAT2WAV > .wav > CD-WAV/mkwACT > .shn
+		(Direct DAT extraction, no soundcard)
+Converted by: 	Bill Lakenan <blakenan@us.net>
+
+-- Disc 1 --
+01: Intro
+02: Barrel of a gun
+03: Happier
+04: Careful
+05: 2 Points
+06: Mona Lisa
+07: Homecoming
+08: X Ray eyes
+09: Airport Song
+10: I Spy
+11: Ramona
+
+-- Disc 2 --
+01: What you wish for
+02: Amsterdam
+03: Either
+04: Fa Fa
+05: New Song 2
+06: Center of Attention
+07: Demons
+<e:>
+08: Keep it together
+09: Heaven
+10: Happy Together 
+
+ 

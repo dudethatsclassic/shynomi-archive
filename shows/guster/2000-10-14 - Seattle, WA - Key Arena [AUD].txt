@@ -1,0 +1,23 @@
+Guster
+October 14th, 2000
+Key Arena, Seattle, WA
+
+Master:
+Sonic Studio mics>D8
+by Brian VanOrnum
+
+Conversion:
+DA-20>emi 2|6>Sound Studio 2.1.1b3>AIFF>xACT 1.4d1
+by Dave Mallick [greenone@bluestraveler.net]
+
+Disc 1 [23:22.71] (minutes:seconds.frames) 
+01. I Spy             [05:16.28]
+02. What You Wish For [04:06.49]
+03. Airport Song      [03:45.53]
+04. Happier           [04:36.40]
+05. Fa Fa             [05:37.51]
+
+Notes:
+- Opening for Barenaked Ladies.
+- Stealth recording - a good bit of crowd chatter and whooping.
+- Taper arrived late and missed a song or two.

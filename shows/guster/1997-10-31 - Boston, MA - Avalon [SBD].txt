@@ -1,0 +1,46 @@
+Guster
+October 31, 1997
+Avalon
+Boston, MA
+
+Source: 	DSBD (SBD -> D7)
+Taper: 		Neil Brodsky
+Conversion: 	Archive Python DDS/vdat > .wav (Direct DAT extraction, no soundcard)
+Converted by: 	Bill Lakenan <blakenan@us.net>
+
+Tracks Split by: Jeffrey Hyder <jmh@mhmvab.com> using CDWAV
+SHN:		MKW Audio Compression Tool   (NO DAE)
+
+****************************************************************
+	THIS SHOW IS NOT TO BE MP3-ENCODED	
+****************************************************************
+
+Disc 1
+
+Thriller Intro
+Great Escape
+Happy Frappy
+Closer
+Scars and Stitches
+Airport Song
+X-Ray Eyes
+Barrel of a Gun
+Mona Lisa
+"sitcom banter"
+Bury Me
+Perfect
+
+Disc 2
+
+"real world"
+Window
+Parachute
+Demons
+500 miles tease
+Fall in Two
+Dissolve
+Dregs
+E:
+Pantomome
+Killing in the Name Of
+Rocketship

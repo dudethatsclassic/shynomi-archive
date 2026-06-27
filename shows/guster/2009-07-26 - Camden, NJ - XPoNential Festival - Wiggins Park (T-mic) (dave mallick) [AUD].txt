@@ -1,0 +1,35 @@
+Guster
+July 26th, 2009
+XPoNential Festival, Wiggins Park, Camden, NJ
+
+Master:
+T-mic>Microtrack 24/96>WAV, handheld in crowd, 45' back, 5' right of center
+by Dave Mallick
+
+Conversion:
+WAV>Sound Studio 2.1.1b3>xACT 1.69>FLAC
+by Dave Mallick
+
+01. The Captain                 [04:31.52]
+02. One Man Wrecking Machine    [04:27.35]
+03. Red Oyster Cult*            [04:41.59]
+04. Demons                      [04:18.56]
+05. Manifest Destiny            [03:39.34]
+06. Satellite                   [04:45.67]
+07. Come Downstairs & Say Hello [06:24.57]
+08. Barrel Of A Gun             [04:59.60]
+09. Hang On                     [05:24.26]
+10. G Major                     [03:40.72]
+11. Careful                     [03:41.07]
+12. Amsterdam                   [04:57.56]
+13. Airport Song                [04:31.42]
+14. Happier                     [04:44.40]
+                         Total: [64:49.63]
+
+* with "Don't Fear The Reaper" outro, featuring Scooter on cowbell
+
+Notes:
+- The other bands on this stage all ran long, plus there was a 20-minute
+  cloudburst just before Guster's set; as a result, their set was cut short.
+- Mic slightly overloaded on bass drum hits. Probably should look into an
+  attenuator of some sort.

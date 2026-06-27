@@ -1,0 +1,47 @@
+guster
+1/22/00
+mystic theater and dance hall
+petaluma, CA
+
+taper:  allan chen
+source:  akg480/ck61(-10db)>beyer mv100>m1
+balcony, to left of SBD
+
+conversion:  allan chen
+sonry 300>sek'd prodif plus>samplitude>cdwav
+
+**no DAE. dat>wav>shn
+
+cd1
+------------
+1 - intro
+2 - happier
+3 - great escape
+4 - i spy
+5 - airport song
+6 - all the way to heaven
+7 - what you wish for
+8 - either way
+9 - x-ray eyes
+10 - window
+11 - california dreamin'
+
+cd2
+--------------
+1 - "making a video"
+2 - fa fa fa
+3 - parachute
+4 - barrel of a gun
+5 - cum on (?)
+6 - bury me
+7 - E:  melanie
+8 - E:  center of attention
+9 - E:  so long
+10 - E:  demons
+
+comments
+------------------
+cum on is a song done by james ritesdale (sp?), a member of their crew who is leaving.  
+
+compiled by allan chen
+1/24/00

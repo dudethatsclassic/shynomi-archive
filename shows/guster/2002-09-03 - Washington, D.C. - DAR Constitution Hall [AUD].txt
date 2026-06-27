@@ -1,0 +1,39 @@
+Guster
+DAR Constitution Hall
+Washington, DC
+Tuesday Sept 03 2002
+
+Taper:		George Wang <gewwang@yahoo.com>
+Source:		DPA4022 > Sonosax SX-M2 > Apogee Mini-Me @ 44.1
+Location:	Orch Row D Seat 14, 4th row, 5 feet left of left stage stack
+
+DAT > SHN:	Archive Python DDS/DAT2WAV > .wav > CD-WAV/mkwACT > .shn
+		(Direct DAT extraction, no soundcard)
+
+Disc One:
+
+01:	Intro				-	00:29.000
+02:					-	04:40.000
+03:					-	04:10.800
+04:					-	04:21.466
+05:					-	04:43.000
+06:					-	05:01.733
+07:					-	05:09.533
+08:					-	03:56.266
+09:					-	04:57.200
+10:					-	04:02.133
+11:					-	04:02.000
+12:					-	03:48.400
+13:					-	05:03.266
+14:					-	06:25.200
+15:	*				-	08:59.000
+
+Total:					-	69.49.000
+
+*	filler:
+	Charlie Hunter
+	DAR Constitution Hall
+	Washington, DC
+	Tuesday Sept 03 2002
+
+compiled by George Wang on 09-08-2002

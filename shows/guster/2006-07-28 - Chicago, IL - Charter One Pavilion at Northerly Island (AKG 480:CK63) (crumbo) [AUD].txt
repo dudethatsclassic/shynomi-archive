@@ -1,0 +1,22 @@
+    length     expanded size   cdr  WAVE problems filename
+     0:28.52        5061548    ---   --   ---xx   guster2006-07-28.akg483.d1t01.flac
+     3:52.38       41014220    ---   --   ---xx   guster2006-07-28.akg483.d1t02.flac
+     4:59.74       52917692    ---   --   ---xx   guster2006-07-28.akg483.d1t03.flac
+     3:37.59       38417612    ---   --   ---xx   guster2006-07-28.akg483.d1t04.flac
+     3:55.04       41463452    ---   --   ---xx   guster2006-07-28.akg483.d1t05.flac
+     4:50.31       51228956    ---   --   ---xx   guster2006-07-28.akg483.d1t06.flac
+     7:07.29       75391052    ---   --   ---xx   guster2006-07-28.akg483.d1t07.flac
+     8:50.52       93614348    ---   --   ---xx   guster2006-07-28.akg483.d1t08.flac
+     6:48.74       72145292    ---   --   ---xx   guster2006-07-28.akg483.d1t09.flac
+     4:38.46       49147436    ---   --   ---xx   guster2006-07-28.akg483.d1t10.flac
+     4:51.74       51506492    ---   --   ---xx   guster2006-07-28.akg483.d2t01.flac
+     4:57.16       52428476    ---   --   ---xx   guster2006-07-28.akg483.d2t02.flac
+     4:47.24       50683292    ---   --   ---xx   guster2006-07-28.akg483.d2t03.flac
+     4:45.15       50309324    ---   --   ---xx   guster2006-07-28.akg483.d2t04.flac
+     5:31.38       58477820    ---   --   ---xx   guster2006-07-28.akg483.d2t05.flac
+     5:10.51       54803996    ---   --   ---xx   guster2006-07-28.akg483.d2t06.flac
+     1:16.39       13498172    ---   --   ---xx   guster2006-07-28.akg483.d2t07.flac
+     3:07.72       33156188    ---   --   ---xx   guster2006-07-28.akg483.d2t08.flac
+     3:46.38       39955820    ---   --   ---xx   guster2006-07-28.akg483.d2t09.flac
+     4:49.45       51085484    ---   --   ---xx   guster2006-07-28.akg483.d2t10.flac
+    92:14.46         931.08 MB                    (totals for 20 files, 0.5464 overall compression ratio)

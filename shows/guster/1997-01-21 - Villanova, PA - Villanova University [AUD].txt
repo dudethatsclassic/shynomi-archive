@@ -1,0 +1,53 @@
+Guster
+January 21, 1997
+Villanova University
+Villanova, PA
+
+Source: 	DAud [Octava MC012 (cards) -> Beyer MV100 -> Sony D7]
+Taper: 		Bill Lakenan <blakenan@us.net>
+Conversion: 	Archive Python DDS/vdat > .wav (Direct DAT extraction, no soundcard)
+Converted by: 	Bill Lakenan <blakenan@us.net>
+
+Tracks Split by: Jeffrey Hyder <jmh@mhmvab.com> using CDWAV
+SHN:		MKW Audio Compression Tool   (NO DAE)
+
+****************************************************************
+	THIS SHOW IS NOT TO BE MP3-ENCODED	
+****************************************************************
+
+Disc 1
+Set 1
+
+Intro
+Perfect
+Scars and Stitches 
+Grin 
+Demons
+"pacy song"
+Bury Me 
+Rocketship
+"born in the u.s.a."
+Fall in Two 
+Window
+Mona Lisa
+"purple haze"
+Dregs
+
+Disc 2
+Set 2
+
+Pantomime 
+X-Ray Eyes
+Love For Me
+Great Escape 
+Dissolve
+"beach house"
+Happy Frappy
+Airport Song
+Getting Even
+"salsa intro"
+Cocoon
+
+
+
+

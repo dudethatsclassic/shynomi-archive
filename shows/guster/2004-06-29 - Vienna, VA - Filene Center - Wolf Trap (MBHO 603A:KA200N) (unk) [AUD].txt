@@ -1,0 +1,50 @@
+Guster
+June 29, 2004
+Filene Center - Wolf Trap
+Vienna VA
+
+*** THIS IS A 16-BIT FILESET INTENDED FOR AUDIO CD ***
+
+SOURCE:  mbho 603a/ka200n (cardioid) > sound devices mp2 > modSBM > d8
+PROCESSING:  soundforge 8.0 (+2.00 dB, tracking, fades, resample) > flac 1.20a
+
+DISK ONE
+01  intro
+02  Ramona
+03  Barrel Of A Gun
+04  I Spy
+05  Backyard
+06  Amsterdam
+07  Airport Song
+08  Two At A Time
+09  Happier
+10  Come Downstairs & Say Hello
+11  The Boy With The Arab Strap *
+12  Demons
+13  Fa Fa
+14  pre-encore crowd
+15  encore intro
+16  All The Way Up To Heaven &
+
+* = by Belle & Sebastian
+& = with Ben Folds on piano and Sean Lynde on drums & sleigh bells
+
+    length     expanded size    cdr  WAVE problems  fmt   ratio  filename
+     0:40.37        7143068 B   ---   --   ---xx   flac  0.4675  guster2004-06-29_mbho_d1t01.flac
+     3:13.53       34169900 B   ---   --   ---xx   flac  0.4915  guster2004-06-29_mbho_d1t02.flac
+     4:08.45       43853084 B   ---   --   ---xx   flac  0.5287  guster2004-06-29_mbho_d1t03.flac
+     5:01.52       53218748 B   ---   --   ---xx   flac  0.5139  guster2004-06-29_mbho_d1t04.flac
+     3:41.15       39019724 B   ---   --   ---xx   flac  0.4803  guster2004-06-29_mbho_d1t05.flac
+     4:01.00       42512444 B   ---   --   ---xx   flac  0.5511  guster2004-06-29_mbho_d1t06.flac
+     4:06.68       43554380 B   ---   --   ---xx   flac  0.5222  guster2004-06-29_mbho_d1t07.flac
+     5:03.67       53606828 B   ---   --   ---xx   flac  0.5245  guster2004-06-29_mbho_d1t08.flac
+     4:48.08       50822060 B   ---   --   ---xx   flac  0.5300  guster2004-06-29_mbho_d1t09.flac
+     7:25.15       78533324 B   ---   --   ---xx   flac  0.4745  guster2004-06-29_mbho_d1t10.flac
+     5:15.67       55723628 B   ---   --   ---xx   flac  0.5524  guster2004-06-29_mbho_d1t11.flac
+     5:05.45       53907884 B   ---   --   ---xx   flac  0.5127  guster2004-06-29_mbho_d1t12.flac
+     5:26.68       57666380 B   ---   --   ---xx   flac  0.5373  guster2004-06-29_mbho_d1t13.flac
+     2:25.18       25620380 B   ---   --   ---xx   flac  0.5102  guster2004-06-29_mbho_d1t14.flac
+     0:32.57        5778908 B   ---   --   ---xx   flac  0.4515  guster2004-06-29_mbho_d1t15.flac
+     5:31.44       58491932 B   ---   --   ---xx   flac  0.4673  guster2004-06-29_mbho_d1t16.flac
+    66:28.59      703622672 B                            0.5121  (16 files)
+

@@ -1,0 +1,31 @@
+Guster
+September 25th, 1998
+Eagle's Nest, Boston College, Chestnut Hill, MA
+
+Master:
+SBD > Cass(x)
+taper unknown, cassette provided by Steve San Souci
+
+Conversion:
+Nakamichi CR-2A > Lunatec V3 (A/D) > Tascam DR-100 mkIII > 
+WAV > Sound Studio 4.10.1 > xACT 2.50 > FLAC
+by Dave Mallick
+
+01. Barrel Of A Gun  [04:58.762]
+02. Demons           [04:50.019]
+03. Fa Fa            [04:59.161]
+04. X-Ray Eyes       [03:57.996]
+05. Window           [04:15.761]
+06. Happier          [04:34.449]
+07. Dissolve         [05:24.287]
+08. Airport Song     [04:09.009]
+09. Either Way       [04:25.786]
+10. Great Escape     [03:56.729]
+11. Mona Lisa        [04:41.562]
+12. Happy Frappy     [03:08.988]
+13. Rocketship       [05:48.863]
+14. Bury Me          [04:30.271]
+15. E: Parachute*    [05:03.838]
+              Total: [68:45.480]
+
+* with The Bostonians, BC's a cappella group

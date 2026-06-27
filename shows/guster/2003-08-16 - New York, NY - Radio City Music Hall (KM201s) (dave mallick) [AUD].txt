@@ -1,0 +1,52 @@
+Guster 
+August 16th, 2003
+Radio City Music Hall, New York, NY
+
+Master creation: 
+Elation KM201's (X-Y, cardioid)>Lunatec V2>D8
+by Dave Mallick [greenone@bluestraveler.net]
+
+SHNs were made: 
+D8>Egosys U2A>Sound Studio 2.1.1b3>AIFF>shntool
+by Dave Mallick [greenone@bluestraveler.net] 
+
+CD 1 [50:10.61] (minutes:seconds.frames) 
+01. I Spy                             [05:15.46]
+02. Careful                           [03:36.31] 
+03. Barrel Of A Gun                   [04:22.42] 
+04. (Nothing But) Flowers             [05:30.74] 
+05. Keep It Together                  [05:35.55] 
+06. Red Oyster Cult*                  [04:28.45] 
+07. Either Way                        [05:09.48] 
+08. Ramona                            [04:03.64] 
+09. What You Wish For                 [04:12.67] 
+10. Airport Song#                     [04:13.14] 
+11. Homecoming King                   [03:41.25] 
+
+CD 2 [49:18.46]
+01. Medicine                          [05:21.47]
+02. All The Way Up To Heaven          [05:36.57] 
+03. Come Downstairs And Say Hello     [06:46.51] 
+04. Demons                            [05:02.41] 
+05. Fa Fa*                            [07:19.11] 
+06. E: Parachute                      [05:56.55] 
+07.    I Hope Tomorrow Is Like Today$ [03:30.42] 
+08.    Amsterdam                      [04:33.15] 
+09.    Happier                        [05:11.27] 
+
+* with Dan Myers on saxophone, Dan on trumpet and
+  Phil on trombone
+# with Dan Myers on saxophone
+$ with Ben Kweller on vocals and guitar
+
+Show notes:
+- "Happy Frappy" tease in "(Nothing But) Flowers".
+- "Good Vibrations" tease at the end of "Ramona".
+- Guster office assistant Moria came out dressed as a human
+  disco ball at the end of "All The Way Up To Heaven".
+
+Recording notes:
+- Entire left PA stack was non-operational for the first
+  half of I Spy; sound engineer Gordon can be heard chewing
+  out the local crew, and sound completely drops out for a
+  few seconds during the outro.

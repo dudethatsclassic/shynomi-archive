@@ -1,0 +1,28 @@
+Ryan Miller of Guster
+May 8th, 2020
+WXRV-FM, Boston, MA
+
+Master:
+Web stream > Soundflower > QuickTime > AAC
+by Dave Mallick
+
+Conversion:
+AAC > Sound Studio 4.9.6 > xACT 2.96 > FLAC
+by Dave Mallick
+
+01. Ryan commentary 1   [01:04.27]
+02. Ryan commentary 2   [01:43.67]
+03. Ryan commentary 3   [01:43.34]
+04. Ryan commentary 4   [02:17.09]
+05. Ryan commentary 5   [00:39.59]
+06. Ryan commentary 6   [01:42.05]
+07. Ryan commentary 7   [01:34.44]
+08. Ryan commentary 8   [03:24.51]
+09. Ryan commentary 9   [02:54.60]
+10. Ryan commentary 10  [00:46.07]
+                 Total: [17:50.63]
+                 
+
+Ryan Miller took to the airwaves of Boston's WXRV-FM (simulcast on WCYY-FM in Portland, ME and WNCS-FM in Burlington, VT) and played several songs from the band's latest digital release, "Omagah!" while adding comments between tracks. The songs themselves have been removed, only fading in and out around Ryan's commentary.
+
+To stream, buy, or gift Omagah!, visit Guster's Bandcamp page at https://guster.bandcamp.com/album/omagah-guster-with-the-omaha-symphony

@@ -1,0 +1,43 @@
+Guster
+25 June 2011
+Atlantic Stage
+Dave Matthews Band Caravan 2011
+Bader Field
+Atlantic City, New Jersey
+ 
+Recorded by: Christopher Jones <jones.chris@gmail.com>
+Source: DPA 4015-TL Transformerless Handmatched Wide Cardioid > Cardas Audio Golden Reference Cu XLR Interconnect > Sound Devices 722 Hard Disk Recorder (@ 24-bit / 96 kHz)
+Location: GA, DFC, directly in front of VIP barricade, approximately 12 meters from the stage.  Microphones elevated 4 meters, ORTF.
+HD > .flac: Sound Devices 722 Hard Disk Recorder > Apple Mac Pro (2 x 2.66 GHz Dual-Core Intel Xeon / 9GB 667 MHz DDR2 FB-DIMM) > Audiofile Engineering Wave Editor v1.5.5 > xACT v2.11
+
+Resampled with iZotope Resampler at highest quality setting and a filter steepness of "150"; dithered using iZotope MBIT+ with a "Normal" amount of "Ultra" noise shaping applied.  24-bit / 96 kHz version of this recording available in .flac24.
+
+t01 Introduction  				00:31.74
+t02 The Captain  				03:33.37
+t03 Barrel Of A Gun  				04:08.66
+t04 Architects and Engineers  			02:55.28
+t05 This Could All Be Yours  			03:57.35
+t06 Demons  					04:11.57
+t07 Satellite  					04:29.31
+t08 What You Call Love  			03:48.13
+t09 Come Downstairs And Say Hello 		06:04.21
+t10 "The Last Time..."  			01:32.03
+t11 Do You Love Me  				03:40.38
+t12 I Spy  					03:13.43
+t13 Manifest Destiny  				03:33.20
+t14 Airport Song  				04:28.34
+t15 Hang On (My Life *)  			07:15.36
+---
+t16 Happier  					04:06.39
+
+						61:30.50
+
+() Indicates a tease or partial song if not part of a song with a 
+   parenthetical subtitle
+*  Billy Joel cover
+
+Notes:
+
+Significant wind throughout set.  
+
+Compiled by Christopher Jones <jones.chris@gmail.com> 29 June 2011.

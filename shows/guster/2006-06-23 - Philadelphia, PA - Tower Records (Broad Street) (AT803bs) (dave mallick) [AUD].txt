@@ -1,0 +1,29 @@
+Guster
+June 23rd, 2006
+Tower Records (Broad Street), Philadelphia, PA
+
+Master:
+AT803b's>battery box>D8
+by Dave Mallick [greenone@bluestraveler.net]
+
+Conversion:
+Tascam DA-20>Egosys U2A>Sound Studio 2.1.1b3>AIFF>xACT 1.58
+by Dave Mallick [greenone@bluestraveler.net]
+
+CD 1 [43:19.74] (minutes:seconds.frames)
+01. One Man Wrecking Machine [06:41.45]
+02. Rise & Shine             [04:31.30]
+03. Jesus On The Radio       [03:34.21]
+04. Happier                  [04:48.15]
+05. The Captain              [05:23.03]
+06. Two Of Us                [04:22.15]
+07. Amsterdam                [05:56.70]
+08. E: Getting Even          [04:17.70]
+09.    Careful               [03:44.30]
+
+Notes:
+- Entire show performed in a stripped-down acoustic arrangement, but 
+  still plugged in to amplifiers.
+- "Getting Even" was a joking drummer's choice that the crowd ended up
+  cheering really loudly for. They hacked their way through it without
+  really singing much.

@@ -1,0 +1,26 @@
+Guster
+July 21st, 1995
+Wetlands Preserve, New York, NY
+
+Master:
+SBD>DAT
+by Dave Nolan
+
+Conversion:
+DA-20>emi 2|6>Sound Studio 2.1.1b3>AIFF>xACT 1.4d1
+by Dave Mallick [greenone@bluestraveler.net]
+
+Disc 1 [33:26.09] (minutes:seconds.frames) 
+01. Window     [05:02.45]
+02. Bury Me    [03:11.65]
+03. Dissolve   [05:38.10]
+04. Down In It [03:45.15]
+05. Pantomime  [04:51.63]
+06. Parachute  [05:13.24]
+07. Cocoon     [05:43.12]
+
+Notes:
+- Complete show; part of a new music showcase. One of the earliest shows as 
+  "Guster" rather than "Gus", first show in NYC, earliest known digital show.
+- A separate transfer was done by Allan Chen but I have been unable to track
+  him down to get his copy. Someone requested this so I ran it off quickly.

@@ -1,0 +1,51 @@
+Guster
+April 8, 2003
+Nita's Hideaway
+Tempe, AZ
+
+Taper: 		David Baty 
+Source: 	AKG 391 (XY-110) > SD MP-2 (<80Hz) > SBM-1 > D8 
+Location:	soundboard cage, 10ft up, 25-30ft away, DFC
+
+DAT > CD:	David Baty 
+Equip:		D8 > Zoltrix Nightingale > CEP 1.1 > CDWAV 
+
+
+Track 	|		Name			|	Time (m:s)
+------------------------------------------------------------------ 
+d1t01 		Intro					00:31.30
+d1t02		Mona Lisa				05:24.64
+d1t03		I Spy					04:43.38
+d1t04		Barrel of a Gun 			04:10.00
+d1t05		Airport Song				03:44.05
+d1t06		Two Points for Honesty >		05:56.38
+		Where the Streets Have No Name *
+d1t07		Ramona					03:37.05
+d1t08		Not the Same $				04:13.48
+d1t09		Amsterdam				04:41.36
+d1t10		X-Ray Eyes				04:11.06	
+d1 totals 41:19.45
+
+d2t01		What You Wish For			04:04.53
+d2t02		Fa Fa					05:45.47
+d2t03		Either Way				05:14.48
+d2t04		Homecoming King				03:56.01
+d2t05		Center of Attention			04:35.15
+d2t06		Demons					04:23.50
+d2t07		encore break				01:58.58
+d2t08		encore intro				00:21.31
+d2t09		Diane					04:17.02
+d2t10		Boys Don't Cry %			03:49.11
+d2t11		Happier					04:50.08
+d2 totals 43:18.24
+
+* U2 cover
+$ Ben Folds cover
+% The Cure cover
+
+NOTES:
+Joe Pisapia guested for a good portion of the show.  My apologies
+	for not keeping track of what songs.
+
+d1t01 and d1t02 - Low levels during the first song, boosted amplitude
+	significantly to match the volume of the rest of the show.

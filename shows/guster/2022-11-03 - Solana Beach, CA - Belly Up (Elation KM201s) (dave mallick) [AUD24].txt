@@ -1,0 +1,37 @@
+Guster
+November 3rd, 2022
+Belly Up, Solana Beach, CA
+
+Master:
+Elation KM201's > Lunatec V3 > Tascam DR-100 mkIII (24/48)
+Front corner of FOH enclosure, 20' from right stack
+by Dave Mallick
+
+Conversion:
+Tascam DR-100 mkIII > WAV > Sound Studio 4.10.1 > xACT 2.51 > FLAC
+by Dave Mallick
+
+01. Careful                      [04:51.034]
+02. The Captain                  [03:53.512]
+03. Long Night                   [04:40.435]
+04. Two Points For Honesty       [04:18.628]
+05. Don’t Go                     [03:40.970]
+06. Lightning Rod                [03:44.887]
+07. Satellite                    [05:32.667]
+08. Doing It By Myself           [05:04.481]
+09. Terrified                    [04:05.504]
+10. Diane                        [04:08.384]
+11. Come Downstairs & Say Hello  [06:12.230]
+12. Do You Love Me               [05:19.608]
+13. Center Of Attention          [04:29.600]
+14. Hello Mister Sun             [04:16.357]
+15. Hercules                     [03:54.331]
+16. Airport Song                 [04:48.798]
+17. Ryan’s e-bike adventure      [04:03.837]
+18. What You Call Love           [05:11.519]
+19. Happier                      [04:17.585]
+20. E1: Hard Times               [03:58.120]
+21.     Bad Bad World            [05:33.078]
+22.     Amsterdam                [05:40.545]
+23. E2: Jesus On The Radio       [02:23.891]
+                         Total: [104:10.000]

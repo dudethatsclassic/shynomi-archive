@@ -1,0 +1,57 @@
+Guster
+October 3rd, 2003
+Ryman Auditorium, Nashville, TN
+
+Master: AUD>MD
+Taper unknown
+
+Conversion: MD>?>shn
+by JA 
+
+Re-conversion: SHN>xACT 1.4d12 (join)>Sound Studio 2.1.1b3 (retrack)>
+               xACT 1.4d12
+by Dave Mallick [greenone@bluestraveler.net]
+
+Disc 1 [45:15.67] (minutes:seconds.frames)
+01. I Spy                          [05:50.35]
+02. Homecoming King                [04:01.14]
+03. (Nothing But) Flowers          [05:14.51]
+04. Ramona                         [03:19.02]
+05. Happier                        [05:36.62]
+06. Rocketship                     [04:08.49]
+07. Either Way                     [05:29.20]
+08. Backyard                       [03:06.42]
+09. Airport Song                   [04:12.67]
+10. Window*                        [04:16.25]
+
+Disc 2 [45:11.74]
+01. What You Wish For              [04:18.38]
+02. Amsterdam                      [05:03.18]
+03. Careful                        [04:42.21]
+04. Underwater#                    [03:47.03]
+05. Demons                         [04:17.11]
+06. Fa Fa                          [05:31.23]
+07. E: Come Downstairs & Say Hello [07:01.49]
+08.    So Long*                    [02:49.01]
+09.    Barrel Of A Gun             [05:31.27]
+10.    Jesus On The Radio          [02:10.33]
+
+* with Sarah Watkins (Nickel Creek) on fiddle
+# with Marc Pisapia (Joe, Marc's Brother) on drums and James Haggarty
+  (Joe, Marc's Brother) on bass
+
+Notes:
+- Original recording sourced without a text file, proper track names,
+  recording information, seektables, one wholeset md5 and no disc splits.
+  I decoded SHN>WAV, joined WAVs, retracked, re-SHN'ed with seektables
+  and created new md5's and this info file.
+- Handling noises from time to time - mic was either handheld or rested
+  on a surface that really picked up noise around it. Mic moved in the
+  middle of "Underwater" - mix changes noticeably.
+- Faint crackly overloading throughout, more serious/noticeable during 
+  post-song cheering.
+- Jump cut at 2:50 of Backyard; no fix made. Another between Demons and 
+  Fa Fa (missing the beginning); I faded out and back in.
+- Odd squeaky noise at 1:55 of Demons.
+- 58 seconds of crowd noise at 5:21 after "Fa Fa" removed to cut out a 
+  dropped mic, a deck stoppage and general oversaturated crowd loudness.

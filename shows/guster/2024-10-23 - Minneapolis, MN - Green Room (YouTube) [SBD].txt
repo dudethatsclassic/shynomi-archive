@@ -1,0 +1,23 @@
+Guster
+October 23rd, 2024
+Green Room, Minneapolis, MN
+
+Master:
+by The Current
+
+Conversion:
+yt-dlp > wav > Sound Studio 4.11.0 > xACT 2.57 > FLAC
+by Dave Mallick
+
+01. One Man Wrecking Machine  [04:35.510]
+02. Either Way                [04:46.567]
+03. Keep It Together          [06:03.181]
+04. Rise & Shine              [04:24.831]
+05. Keep Going                [05:09.362]
+06. Black Balloon             [04:37.074]
+07. Satellite                 [06:07.617]
+08. This Could All Be Yours   [05:06.536]
+09. Jesus On The Radio        [02:22.782]
+                       Total: [43:13.461]
+
+Full video: https://www.youtube.com/watch?v=TlBpMjG45jQ

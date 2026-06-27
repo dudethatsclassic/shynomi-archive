@@ -1,0 +1,24 @@
+Guster
+July 16th, 2000
+KBCO 97.3 Rockfest, Winter Park, CO
+
+Master:
+FM>??>CD
+by Mr. Twister
+
+Conversion:
+CD>xACT 2.15 (cdparanoia)>WAV<Sound Studio 4.2>xACT>FLAC
+by Dave Mallick
+
+01. I Spy            [05:08.53]
+02. Either Way       [04:28.53]
+03. Barrel Of A Gun  [03:14.20]
+04. Airport Song     [03:23.49]
+05. Happier          [03:40.46]
+06. Fa Fa            [04:59.44]
+              Total: [24:55.40]
+
+Notes:
+- On-air rebroadcast of the previously captured webstream source;
+  unfortunately two songs are missing (Bury Me and Demons) and the
+  setlist is in a different order.

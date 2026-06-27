@@ -1,0 +1,37 @@
+Guster 
+September 24th, 2003
+Palace Theatre, Albany, NY
+
+Master creation: 
+Elation KM201's (X-Y, cards)>Lunatec V2>D8
+by Dave Mallick [greenone@bluestraveler.net] 
+
+SHNs were made: 
+Tascam DA-20>Egosys U2A>Sound Studio 2.1.1b3>AIFF>shntool
+by Dave Mallick [greenone@bluestraveler.net] 
+
+CD 1 [51:03.57] (minutes:seconds.frames) 
+01. Happier                      [05:48.65]
+02. Homecoming King              [03:48.25] 
+03. Airport Song                 [04:18.31] 
+04. Either Way                   [05:17.69] 
+05. Ramona                       [03:09.27] 
+06. (Nothing But) Flowers        [05:12.29] 
+07. Mona Lisa                    [05:23.40] 
+08. Amsterdam                    [05:36.14] 
+09. All The Way Up To Heaven     [05:40.58] 
+10. Come Downstairs & Say Hello  [06:47.74]
+
+CD 2 [43:54.69]
+01. Demons                       [04:59.59]
+02. What You Wish For            [04:32.44]
+03. Keep It Together             [05:31.01]
+04. I Spy                        [05:12.00]
+05. Fa Fa                        [07:45.06]
+06. E: So Long                   [03:58.41] 
+07.    Careful                   [03:41.50] 
+08.    Barrel Of A Gun           [05:55.66] 
+09.    Jesus On The Radio        [02:18.27] 
+
+- tick at 0:13 of d1t06, slight overload
+- some noise during d2t09 due to cranked levels

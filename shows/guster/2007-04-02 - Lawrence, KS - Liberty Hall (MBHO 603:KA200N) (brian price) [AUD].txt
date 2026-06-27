@@ -1,0 +1,56 @@
+Guster
+2007-04-02
+Liberty Hall - Lawrence, KS
+MBHO 603/KA200N>Edirol R4 @24/96
+Tracked in CDWav>Downsampled to 16/44.1 in SoundForge>FLAC
+Taped By Brian Price brian@liverecording.org
+
+01	Intro
+02	Captain
+03	Barrel of a Gun
+04	Backyard
+05	Sattelite
+06	Amsterdam
+07	Downstairs
+08	One Man Wrecking Machine
+09	Manifest Destiny
+10	Airport
+11	Demons
+12	Center of Attention
+13	Ruby Falls
+14	Come On
+15	FaFa
+16	Rock Chock Chant
+17	Brazil
+18	Lighting Rod
+19	Shot Hear Round the World
+20	Happier
+21	Jesus on the Radio *
+
+*Acoustic Completely Unamplified
+
+please do not trade as MP3.  Maintain quality and trade as FLAC or WAV.
+
+
+
+guster2007-04-02d1t09.16bit.flac:48c7d654f825be7cb6a64a526097a899
+guster2007-04-02d1t10.16bit.flac:72824b07039ae1b31b6d6877cc19bd8a
+guster2007-04-02d1t11.16bit.flac:d5ce266ec14f25bcdbae20693e487740
+guster2007-04-02d1t12.16bit.flac:5155c7a56740d145435bb5ff77a894ea
+guster2007-04-02d1t13.16bit.flac:21b6cc01ae66307d058114b698fc7fc4
+guster2007-04-02d1t14.16bit.flac:f50b6cd78a455cde6741ee13554dcaec
+guster2007-04-02d1t15.16bit.flac:f1811f88f2a23487e16a62928670d18f
+guster2007-04-02d2t01.16bit.flac:f5dc7a1c434d9fbae9fd9c696d0dbc8f
+guster2007-04-02d2t02.16bit.flac:ba6f99803faae656e01e739f37a25785
+guster2007-04-02d2t03.16bit.flac:20f5ffbe87f958c98d9ae3f5037e5041
+guster2007-04-02d2t04.16bit.flac:f868963faac120e780481810f4934e88
+guster2007-04-02d2t05.16bit.flac:08dd748d519fc9268641ec6e34e97b93
+guster2007-04-02d2t06.16bit.flac:faf32da0e9e049de2d3b3b075d284617
+guster2007-04-02d1t01.16bit.flac:c73a745db8c938f90d5036655c498530
+guster2007-04-02d1t02.16bit.flac:4d54e50f8d2aaaa6eeec3f4149eea115
+guster2007-04-02d1t03.16bit.flac:9aacc6e3dbb80a7a65ca1c96aef9e8ce
+guster2007-04-02d1t04.16bit.flac:df245af92a9bec3bad0cec879e2bafce
+guster2007-04-02d1t05.16bit.flac:3f4c489a55e15e4fefc774e054221316
+guster2007-04-02d1t06.16bit.flac:42761743e92c8ca9c3be419362f94a45
+guster2007-04-02d1t07.16bit.flac:38b91036f0f1a2c8d853eb69bdc673ad
+guster2007-04-02d1t08.16bit.flac:668db2fd2ad8eac363d749606dead8b7

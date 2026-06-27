@@ -1,0 +1,33 @@
+Guster
+November 30th, 1999
+WBRU-FM Down City Siege, Veteran's Memorial Auditorium, Providence, RI
+
+Master: 
+Sony PC-62 stereo mic>Sony TCD-D8
+by Dave Mallick; mic provided by Woody M.
+
+Conversion:
+Tascam DA-20>Egosys U2A>Sound Studio 2.1.1b3>AIFF>xACT 1.4d10
+by Dave Mallick [greenone@bluestraveler.net]
+
+Disc 1: [53:39.64] (minutes:seconds.frames)
+01. Happier           [04:56.21]
+02. Great Escape      [03:01.27]
+03. X-Ray Eyes        [04:28.43]
+04. I Spy             [03:05.18]
+05. Fa Fa             [06:00.61]
+06. Either Way        [04:55.00]
+07. Airport Song      [04:48.22]
+08. What You Wish For [04:22.10]
+09. Parachute         [05:40.11]
+10. Barrel Of A Gun   [03:10.66]
+11. Demons            [05:27.41]
+12. Bury Me           [03:43.44]
+
+Notes:
+- Thanks to Woody for loaning me his mic, which he had to run out
+  to his car to get after I was denied a SBD patch (forgot that Guster
+  had stopped giving them out). Mic is a little stealth thing which I'd
+  never used before, so there's some handling and breathing noise early
+  on in track 1 while I get it situated.
+- Vertical Horizon opened, Tori Amos closed.

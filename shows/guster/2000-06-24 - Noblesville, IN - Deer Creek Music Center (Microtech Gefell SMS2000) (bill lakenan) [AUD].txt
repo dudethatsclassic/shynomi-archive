@@ -1,0 +1,28 @@
+Guster
+June 24th, 2000
+Deer Creek Music Center, Noblesville, IN
+
+Taper: Bill Lakenan
+Source: Microtech Geffell SMS2000/200 (card, XY90)->Oade M148->
+Sony SBM1->Sony TCD-D8
+Seats: Right Section, 20 rows from stage
+
+Conversion: Sony 60ES > Lucid PCI24 > .wav
+Converted by: Bill Lakenan
+
+Tracking: WAV > Sound Studio 4.9.6 > xACT 2.50 > FLAC
+Tracked by: Dave Mallick
+
+01. Barrel of a Gun    04:28.43
+02. Happier            03:57.13
+03. Bury Me            03:05.39
+04. I Spy              03:55.65
+05. Airport Song       04:05.04
+06. Either Way         04:54.68
+07. Great Escape       03:54.53
+08. What You Wish For  04:15.24
+09. Demons*            05:11.64
+10. Fa Fa*             04:15.36
+                Total: 42:04.33
+                
+* with Dan Myers (From Good Homes) on saxophone

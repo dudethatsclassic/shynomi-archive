@@ -1,0 +1,33 @@
+Guster
+March 24th, 2000
+Slayter Union, Denison University, Granville, OH
+
+Master:
+Shure VP88+SBD>Mackie 1202 VLZ>D8
+Matrix operated by Mike "Pasty" Corcoran, patch by Dave Mallick
+
+Conversion:
+Tascam DA-20>Microtrack 24/96>WAV>Sound Studio 2.2.4>xACT 1.71
+by Dave Mallick
+
+01. What You Wish For          [05:10.26]
+02. Bury Me                    [03:33.65]
+03. Happier                    [04:50.32]
+04. Either Way                 [05:22.04]
+05. Barrel Of A Gun            [04:42.19]
+06. X-Ray Eyes*                [06:09.23]
+07. California Dreamin'        [02:42.42]
+08. Airport Song               [05:54.36]
+09. Parachute                  [04:44.54]
+10. I Spy                      [08:22.26]
+11. Great Escape               [02:57.07]
+12. Rocketship                 [05:33.16]
+13. Fa Fa                      [06:32.07]
+14. E: Two Points For Honesty  [06:50.37]
+15.    Demons                  [04:43.37]
+                        Total: [78:08.56]
+               
+* with "Can't Fight This Feeling" dedication/intro
+
+Notes:
+- Some odd channel dropouts and switching early in track 4.

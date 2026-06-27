@@ -1,0 +1,40 @@
+Guster
+JHU Gymnasium
+Baltimore, MD
+April 24, 2004
+
+
+Source:		M210s (X-Y, 10') > Oade M148 > mod SBM-1 @ 48 kHz > TCD-D8 
+Location:	SBD, DFC
+Taper:		Dave Thoma
+
+DAT > SHN Conversion: Dave Thoma (david.thoma@comcast.net)
+
+Lineage: TCD-D8 > Active 7-pin > Audiowerk2 > cdwav > 
+Sound Forge Pro 6 (resampled to 44.1 at highest setting) > cdwav > shntool
+
+** No DAE - DAT > .WAV > .SHN
+
+*** PLEASE DO NOT DISTRIBUTE THIS SHOW IN MP3 OR OTHER LOSSY FORMATS ***
+
+d1t01 Intro
+d1t02 Demons
+d1t03 Barrel of a Gun
+d1t04 Keep It Together
+d1t05 Careful
+d1t06 Airport Song
+d1t07 Belle
+d1t08 Either Way
+d1t09 Backyard
+d1t10 All the Way Up to Heaven
+d1t11 Amsterdam
+
+d2t01 "Guster @ parties crowd vote"
+d2t02 Mona Lisa
+d2t03 Come Downstairs and Say Hello
+d2t04 I Spy
+d2t05 Homecoming King
+d2t06 Fa Fa
+d2t07 E: Ramona
+d2t08 E: Red Oyster Cult
+d2t09 E: Happier

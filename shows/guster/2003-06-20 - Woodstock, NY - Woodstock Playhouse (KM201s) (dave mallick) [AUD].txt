@@ -1,0 +1,42 @@
+Guster 
+June 20st, 2003
+Woodstock Playhouse, Woodstock, NY
+
+Master creation: 
+Elation KM201's (DIN, cardioid)>Lunatec V2>D8
+by Dave Mallick [greenone@bluestraveler.net] 
+
+SHNs were made: 
+Tascam DA-20>Egosys U2A>Sound Studio 2.0.7>AIFF>shntool
+by Dave Mallick [greenone@bluestraveler.net] 
+
+CD 1 [48:17.27] (minutes:seconds.frames) 
+01. Demons                       [06:30.70]
+02. What You Wish For            [04:13.02] 
+03. Two Points For Honesty       [04:45.04] 
+04. Careful                      [03:53.28] 
+05. Amsterdam                    [04:34.62] 
+06. Mona Lisa                    [04:49.25] 
+07. Barrel Of A Gun              [04:48.37] 
+08. All The Way Up To Heaven     [05:54.21] 
+09. Ramona                       [03:04.03] 
+10. (Nothing But) Flowers        [05:44.00] 
+
+CD 2 [42:10.28]
+01. Keep It Together             [04:59.18]
+02. Homecoming King              [03:57.68] 
+03. Either Way                   [04:54.70] 
+04. Airport Song                 [03:17.12] 
+05. I Spy                        [04:58.12] 
+06. Fa Fa                        [07:35.14] 
+07. E: Diane                     [04:13.52] 
+08.    Happier                   [05:52.04] 
+09.    Jesus On The Radio        [02:22.03] 
+
+Notes:
+- Live debut of "(Nothing But) Flowers" (Talking Heads cover),
+  featuring drum tech Sean on hi-hat/snare.
+- d2t09 was completely unplugged; I cranked up the pre-amp as
+  far as it would go and then had to quickly dial it down when
+  the applause started.
+- Recording is somewhat bassy; you may wish to eq to taste.

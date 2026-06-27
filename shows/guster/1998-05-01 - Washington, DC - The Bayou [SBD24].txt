@@ -1,0 +1,38 @@
+Guster
+May 1st, 1998
+The Bayou, Washington, DC
+
+Master:
+SBD > Cass(x)
+taper unknown
+
+Conversion:
+Nakamichi CR-2A > Lunatec V3 (A/D) > Tascam DR-100 mkIII > 
+WAV > Sound Studio 4.10.1 > xACT 2.50 > FLAC
+by Dave Mallick
+
+01. Window               [04:34.465]
+02. Airport Song         [03:28.579]
+03. Perfect              [04:17.613]
+04. Closer               [04:53.522]
+05. Great Escape         [03:16.214]
+06. Rocketship           [05:55.804]
+07. Dissolve             [05:54.867]
+08. Dregs*               [04:51.969]
+09. So Long>             [02:21.583]
+10. At The Racetrack     [01:22.374]
+11. Demons               [05:44.683]
+12. The Prize            [03:34.632]
+13. Happier              [04:44.645]
+14. X-Ray Eyes           [03:50.247]
+15. Barrel Of A Gun      [03:26.735]
+16. Medicine             [04:50.547]
+17. Parachute            [05:03.462]
+18. Bury Me              [04:13.276]
+19. E: Mona Lisa#        [05:23.069]
+20.    Happy Frappy>     [03:07.457]
+21.    At The Racetrack  [00:44.161]
+                  Total: [85:39.903]
+
+* with "King Of The Hill" theme intro/outro
+# with "Bono" on vocals

@@ -1,0 +1,34 @@
+Guster
+May 13th, 2000
+State Theatre, Portland, ME
+
+Master:
+SBD + Shure VP-88>Mackie 1202-VLZ>TC Electronics Finalizer Plus>DA-P1>D8
+Matrix operated by Mike "Pasty" Corcoran, patch by Dave Mallick
+
+Conversion:
+Tascam DA-20>Microtrack 24/96>WAV>Sound Studio 2.2.4>xACT 2.05>FLAC
+by Dave Mallick
+
+Disc 1 [47:06.50]
+01. Happier                      [05:20.48]
+02. Bury Me                      [05:25.24]
+03. So Long                      [03:56.55]
+04. Center Of Attention          [04:35.49]
+05. Fa Fa                        [06:14.42]
+06. Parachute                    [04:50.28]
+07. I Spy                        [04:07.48]
+08. Airport Song                 [03:32.05]
+09. Two Points For Honesty       [04:16.58]
+10. Rocketship                   [04:46.68]
+
+Disc 2 [43:35.06]
+01. What You Wish For            [03:55.08]
+02. Great Escape                 [04:31.31]
+03. Either Way                   [05:22.10]
+04. Window                       [03:44.49]
+05. Barrel Of A Gun              [06:02.56]
+06. E: Medicine                  [04:40.65]
+07.    All The Way Up To Heaven  [07:32.68]
+08.    Demons                    [06:08.54]
+09.    Kiss Me                   [01:36.40]

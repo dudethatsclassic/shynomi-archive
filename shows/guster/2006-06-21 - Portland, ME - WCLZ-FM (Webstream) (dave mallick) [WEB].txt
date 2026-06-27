@@ -1,0 +1,25 @@
+Guster
+June 21st, 2006
+WCLZ-FM Studios, Portland, ME
+
+Master:
+WCLZ webstream>Audio Hijack>AIFF
+by Dave Mallick [greenone@bluestraveler.net]
+
+Conversion:
+Sound Studio 2.1.1b3>AIFF>xACT 1.58
+by Dave Mallick [greenone@bluestraveler.net]
+
+CD 1 [24:00.29] (minutes:seconds.frames)
+01. The Star-Spangled Banner [01:59.26]
+02. One Man Wrecking Machine [04:01.57]
+03. The Captain              [04:50.40]
+04. Keep It Together         [05:48.57]
+05. Lightning Rod            [03:17.21]
+06. Amsterdam                [04:02.53]
+
+Notes:
+- Entire show performed in a stripped-down acoustic arrangement, but 
+  still plugged in to amplifiers.
+- Show suffers from the typical watery warble of a webstream; also two
+  skips in track 2.

@@ -1,0 +1,36 @@
+Guster
+October 4th, 2024
+Harvey Theater at BAM Strong, New York, NY
+
+Master:
+Phone video posted to Facebook
+by Spicy V
+
+Conversion:
+youtube-dl > mp4 > m4a > Sound Studio 4.10.1 > xACT 2.51 > FLAC
+by Dave Mallick
+
+01. Careful                   [07:18.961]
+02. Happier                   [04:49.354]
+03. Black Balloon             [05:18.482]
+04. Hairy Arms *              [04:44.347]
+05. Do You Love Me?           [04:53.446]
+06. One Man Wrecking Machine  [04:50.418]
+                       Total: [31:55.008]
+
+* with Nkeki Obi-Melekwe and Taylor Trensch on vocals, and Brian Killeen
+  on upright bass
+# with the full cast (Ashley Pérez Flanagan, Pomme Koch, Rohan Kymal,
+  John-Michael Lyles, Nkeki Obi-Melekwe, and Taylor Trensch) plus writer
+  Nick Blaemire and understudies Johann George, Vincent Michael, and
+  Alanna Saunders on vocals, and Brian Killeen on upright bass
+
+Billed as "Guster Night" at Safety Not Guaranteed, the musical that Ryan
+wrote with Nick Blaemire and which ran at the Harvey Theater from
+September 18th through October 20th, 2024. Ryan, Adam, and Brian took
+the stage after the performance and played six songs acoustic at the
+front of the stage, joined by members of the cast.
+
+"Hairy Arms", as Ryan explains, is a song written for the show that was
+cut at the last minute, but it was one of his favorites so he wanted to
+perform it live at least once.

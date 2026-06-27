@@ -1,0 +1,97 @@
+Guster
+07-02-2000
+Viv's House
+Andover, MA
+
+
+Source:
+
+AKG C-1000 (hyper) > Tascam DA-P1 (48.0)
+
+Conversion:
+
+Tascam DA-20 MKII > Tascam HD-P2 > Sony Soundforge 8.0 (44.1) > CD Wave > Flac
+
+Taper:
+
+Brandon Smith
+
+Conversion:
+
+Patrick Price (patrickprice@comcast.net)
+
+
+Setlist:
+
+1.  Intro
+2.  Happy Frappy
+3.  La Ti Da
+4.  Coccoon
+5.  Eden
+6.  Give A Little Respect
+7.  Pantomime
+8.  Killing in the Name Of
+9.  99 Red Balloons
+10. Everybody Else
+11. Melanie
+12. Dregs
+13. I Spy (incomplete)
+14. I Spy (take 2)
+15. Roxanne / Sting Story
+16. Down In It
+17. Soccer
+18. Closer
+19. Mona Lisa (unplugged)
+20. Thank You
+21. Lionel Ritchie Medley
+
+
+Flac Fingerprint:
+
+guster2000-07-02s1t01.flac:36f6a30025acf71d7a4ee7bea5a5f198
+guster2000-07-02s1t02.flac:cea985e71a1f364ca51019e8f1ada11c
+guster2000-07-02s1t03.flac:2bd41825c71d3d68ccee758191d4a7fb
+guster2000-07-02s1t04.flac:78221cf13bcd06de9e770a277ca8c173
+guster2000-07-02s1t05.flac:d564a214c42d13278aca39a2e2a26585
+guster2000-07-02s1t06.flac:b133ed46b5c4d5e3f0e07a86715af8c4
+guster2000-07-02s1t07.flac:7756cd2539d3a80fe723bbb31aaa2205
+guster2000-07-02s1t08.flac:451d516e1045f2ed98f2e188bf097e6a
+guster2000-07-02s1t09.flac:ccae4f6e097a21eb8af605eacc931207
+guster2000-07-02s1t10.flac:90d80fded98e477b1b7f60cebea12cbd
+guster2000-07-02s1t11.flac:126d5d6687012afd299a728738962a01
+guster2000-07-02s1t12.flac:8882c7df5b7a3c53a12f861fa38cb2df
+guster2000-07-02s1t13.flac:0050339c5943183f12743b63e7e9b3cd
+guster2000-07-02s1t14.flac:702fc06d40a6ba91405996a840441962
+guster2000-07-02s1t15.flac:3b45dcd3fa3f901bafd08a54bb58f219
+guster2000-07-02s1t16.flac:3e3929df50b6189d119ac2312dcd9a85
+guster2000-07-02s1t17.flac:0275eff50c148f7e72eada1d161b317c
+guster2000-07-02s1t18.flac:4af30c7ce28565bf52fb38690dd5e1c9
+guster2000-07-02s1t19.flac:e5e972648d35ae9b7de3f33ee3769045
+guster2000-07-02s1t20.flac:0ca10c5c82814c66e136278a284ba123
+guster2000-07-02s1t21.flac:8bed65423d0b246aa1e5a2d11187f8d2
+
+Shntool Output:
+
+    length     expanded size    cdr  WAVE problems  fmt   ratio  filename
+     3:46.71       40033436 B   ---   --   ---xx   flac  0.2618  guster2000-07-02s1t01.flac
+     5:24.28       57219500 B   ---   --   ---xx   flac  0.3724  guster2000-07-02s1t02.flac
+     5:11.19       54905132 B   ---   --   ---xx   flac  0.4151  guster2000-07-02s1t03.flac
+     6:24.11       67763516 B   ---   --   ---xx   flac  0.4187  guster2000-07-02s1t04.flac
+     5:04.63       53773820 B   ---   --   ---xx   flac  0.4278  guster2000-07-02s1t05.flac
+     3:35.61       38069516 B   ---   --   ---xx   flac  0.4425  guster2000-07-02s1t06.flac
+     4:51.66       51487676 B   ---   --   ---xx   flac  0.4290  guster2000-07-02s1t07.flac
+     3:28.17       36731228 B   ---   --   ---xx   flac  0.4120  guster2000-07-02s1t08.flac
+     3:00.42       31850828 B   ---   --   ---xx   flac  0.4234  guster2000-07-02s1t09.flac
+     2:55.49       30985292 B   ---   --   ---xx   flac  0.3572  guster2000-07-02s1t10.flac
+     3:54.63       41425820 B   ---   --   ---xx   flac  0.3613  guster2000-07-02s1t11.flac
+     3:04.64       32608172 B   ---   --   ---xx   flac  0.4118  guster2000-07-02s1t12.flac
+     1:01.54       10887452 B   ---   --   ---xx   flac  0.2771  guster2000-07-02s1t13.flac
+     4:03.39       42956972 B   ---   --   ---xx   flac  0.4121  guster2000-07-02s1t14.flac
+     3:41.46       39092636 B   ---   --   ---xx   flac  0.3244  guster2000-07-02s1t15.flac
+     5:16.16       55780076 B   ---   --   ---xx   flac  0.3778  guster2000-07-02s1t16.flac
+     1:01.50       10878044 B   ---   --   ---xx   flac  0.3380  guster2000-07-02s1t17.flac
+     6:03.43       64134380 B   ---   --   ---xx   flac  0.4005  guster2000-07-02s1t18.flac
+     4:50.55       51285404 B   ---   --   ---xx   flac  0.4214  guster2000-07-02s1t19.flac
+     4:08.21       43796636 B   ---   --   ---xx   flac  0.3234  guster2000-07-02s1t20.flac
+     4:51.20       51379484 B   ---   --   ---xx   flac  0.4411  guster2000-07-02s1t21.flac
+    85:41.73      907045020 B                            0.3917  (21 files)

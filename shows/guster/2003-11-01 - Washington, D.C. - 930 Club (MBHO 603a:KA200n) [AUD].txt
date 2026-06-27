@@ -1,0 +1,18 @@
+guster_031101_mbho_44k 
+Guster
+November 1, 2003
+9:30 Club
+Washington DC
+
+volume anomaly at ~27:00.  not sure if it was a house sound issue or preamp related.  has been tweaked to minimize the impact.
+ 
+source:  mbho 603a/ka200n > mp2 > d8 @ 48k
+audio transfer:  Conner CTD8000R-S - dat2wav 1.2 - sf4.5 (fades, tracking, downsample) - shntool - shn2k 
+ 
+encoded by pwking (sleepypedro@yahoo.com) 
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 
+created by shn2k (v. 0.935_beta2B) 
+the shorten compression assistant for windows 2000 + beyond 
+written by peter w. king (sleepypedro@yahoo.com) 
+(http://home.nyc.rr.com/pedroworld) 
+ 

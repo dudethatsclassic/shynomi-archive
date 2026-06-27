@@ -1,0 +1,41 @@
+Guster
+August 11th, 2006
+The Venue Formerly Known As Harborlights, Boston, MA
+
+Master:
+Elation KM201's (XY, 9' left side of FOH)>Lunatec V2>ADC-20>D8
+by Dave Mallick [greenone@bluestraveler.net]
+
+Conversion:
+Tascam DA-20>Egosys U2A>Sound Studio 2.1.1b3>AIFF>xACT 1.58
+by Dave Mallick [greenone@bluestraveler.net]
+
+Disc 1 [48:31.20] (minutes:seconds.frames)
+01. The Captain                 [04:59.48]
+02. Barrel Of A Gun             [04:20.64]
+03. Diane                       [03:51.03]
+04. C'mon                       [04:53.71]
+05. I Spy                       [04:53.01]
+06. Manifest Destiny            [03:57.11]
+07. Great Escape                [03:52.19]
+08. Airport Song                [05:05.63]
+09. Hang On                     [05:06.65]
+10. Ruby Falls                  [07:30.50]
+
+Disc 2 [46:14.03]
+01. What You Wish For           [04:17.71]
+02. Amsterdam                   [04:43.56]
+03. One Man Wrecking Machine    [03:57.07]
+04. Come Downstairs & Say Hello [07:25.68]
+05. Demons                      [05:27.62]
+06. Fa Fa                       [06:58.27]
+07. E: Lightning Rod            [03:51.70]
+08.    Red Oyster Cult          [04:22.52]
+09.    Happier                  [05:08.40]
+
+Notes:
+- The band took the stage riding Segway scooters and wearing helmets 
+  while "Born To Be Wild" played over the PA.
+- Many thanks to Gordon for letting me run inside the FOH barrier!
+- There was a trio of very enthusiastic girls directly below my mics;
+  they sing - well, scream - a verse of "Happier" between EVERY song.

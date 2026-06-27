@@ -1,0 +1,37 @@
+Guster
+March 17th, 1998
+Fox Theatre, Boulder, CO
+
+Master:
+SBD>Tascam DA-P1>??>CD
+taper unknown
+
+Conversion:
+CD>xACT 2.15 (cdparanoia)>WAV<Sound Studio 4.2>xACT>FLAC
+by Dave Mallick
+
+Disc 1 Total: [71:17.08]
+01. Great Escape         [05:08.10]
+02. Love For Me          [04:37.26]
+03. Closer               [05:49.70]
+04. X-Ray Eyes           [04:16.69]
+05. Bury Me              [03:42.32]
+06. Parachute            [05:10.08]
+07. Demons               [04:58.56]
+08. Barrel Of A Gun      [04:03.37]
+09. Grin                 [05:29.18]
+10. Window               [04:24.30]
+11. Rocketship           [05:26.48]
+12. Medicine             [04:07.03]
+13. Airport Song         [03:38.56]
+14. Happy Frappy         [03:55.09]
+15. Killing In The Name  [06:28.61]
+
+Disc 2 Total: [09:58.48]
+01. Mona Lisa            [04:57.21]
+02. E: Dregs             [05:01.27]
+
+Notes:
+- Taper may have been Mike Corcoran, but I got the CDs from someone else.
+- All tracks had two seconds of silence between them, which I trimmed
+  out manually.

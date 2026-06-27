@@ -1,0 +1,58 @@
+Guster
+October 1, 1998
+9:30 Club
+Washington, DC
+
+Source: 	DAud
+		Microtech Geffell SMS2000/200 (cards) -> Oade M148 -> Sony SBM1 -> Sony D7
+
+Location: 	At board, 10' high, XY90
+Taper: 		Bill Lakenan <blakenan@us.net>
+
+Conversion: 	Archive Python DDS/vdat > .wav (Direct DAT extraction, no soundcard)
+Converted by: 	Bill Lakenan <blakenan@us.net> and Louie Rendek <ljr7@po.cwru.edu>
+
+
+Disc One:
+
+01:	Intro					-	04:31.49
+02:	Barrel Of A Gun				-	03:53.60
+03:	Window					-	04:20.11
+04:	Rocketship				-	05:19.16
+05:	Great Escape				-	04:17.04
+06:	Happier					-	04:26.61
+07:	Parachute				-	05:26.58
+08:	FaFa					-	05:53.40
+09:	Medicine  @				-	04:26.13
+10:	Airport Song  #				-	04:22:59
+11:	Dissolve				-	05:29.40
+
+Total:						-	52:27.35
+
+Disc Two:
+
+01:	Xray Eyes				-	04:36.73
+02:	Stand By Me  $				-	02:45.31
+03:	Bury Me					-	03:01.45
+04:	Happy Frappy				-	03:39.16
+05:	Either Way				-	05:06.47
+06:	Demons					-	05:29.29
+07:	"Holes In Teeth"			-	02:04.33
+08:	Coccon  %				-	06:41.07
+09:	E:  ??					-	05:30.07
+10:	E:  Mona Lisa				-	04:51.59
+
+Total:						-	43.46.47
+
+@	a vote was done between Grin and Medicine.  Medicine won...
+#	with "Stone" from the Getaway People on guitar
+$	a vote was done between Happy Frappy and Stand By Me.  Stand By Me won...
+%	Brian was announced as the MVP of the show
+
+Notes:
+----------
+There is a spot of diginoise 1/2 way into d1t09.
+The volume is lowered 1/2 way into d1t09.
+The levels come back up during d1t10.
+
+* compiled by Louie Rendek <ljr7@po.cwru.edu>

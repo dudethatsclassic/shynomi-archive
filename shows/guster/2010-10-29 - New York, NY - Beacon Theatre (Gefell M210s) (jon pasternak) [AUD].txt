@@ -1,0 +1,40 @@
+Guster
+October 29th, 2010
+Beacon Theatre, New York, NY
+
+Master/Conversion:
+Microtech Gefell M210's>Oade M248>SBM-1>D8, D8>Tascam CDRW2000>CD
+FOB 14th row center
+by Jon Pasternak
+
+Extraction:
+CD>xACT 2.05 (cdparanoia)>WAV>FLAC, all tracks extracted with no errors
+by Dave Mallick
+
+Disc 1 [46:35.61]
+01. Manifest Destiny             [03:24.06]
+02. What You Wish For            [04:06.12]
+03. This Could All Be Yours      [03:54.68]
+04. Ramona                       [03:39.69]
+05. Satellite                    [04:36.39]
+06. The Beginning Of The End     [03:24.54]
+07. Stay With Me Jesus           [03:33.24]
+08. Do You Love Me               [03:45.28]
+09. Happier                      [04:47.59]
+10. Architects & Engineers       [03:11.69]
+11. Amsterdam                    [03:49.06]
+12. Demons                       [04:22.02]
+
+Disc 2 [54:02.58]
+01. "White Denim"                [02:09.56]
+02. The Captain                  [03:31.26]
+03. Airport Song                 [04:38.48]
+04. Bad Bad World                [04:49.38]
+05. Hercules                     [03:17.32]
+06. Come Downstairs & Say Hello  [06:40.69]
+07. Barrel Of A Gun              [04:37.11]
+08. E: Diane                     [04:22.09]
+09.    What You Call Love        [04:44.70]
+10.    Careful                   [03:48.54]
+11.    Hang On<>My Life          [08:13.04]
+12. E2: Jesus On The Radio       [03:09.16]

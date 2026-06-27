@@ -1,0 +1,20 @@
+Guster
+July 18th, 2024
+The SoCal Sound
+KCSN-FM Studios, CSU Northridge, Los Angeles, CA
+
+Master:
+Unknown camera source > YouTube (link below)
+by The SoCal Sound
+
+Conversion:
+yt-dlp > wav > Sound Studio 4.11.0 > xACT 2.57 > FLAC
+by Dave Mallick
+
+01. Guster Interview with Nic Harcourt  [35:47.343]
+02. Keep Going                          [03:46.967]
+03. Black Balloon                       [02:57.993]
+04. Satellite                           [05:07.683]
+                                 Total: [47:39.987]
+  
+Full video: https://www.youtube.com/watch?v=AWinUTLTAQE

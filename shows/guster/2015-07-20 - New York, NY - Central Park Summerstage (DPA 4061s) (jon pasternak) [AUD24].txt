@@ -1,0 +1,119 @@
+GUSTER
+Central Park Summerstage
+New York NY
+07-20-2015
+
+24bit/48kHz file-set
+
+01 I Spy
+02 Careful
+03 Doin' it By Myself
+04 The Captain
+05 Barrel of a Gun
+06 Diane
+07 Ruby Falls
+08 Endlessly
+09 Come Downstairs and Say Hello
+10 Do You Love Me?
+11 Ramona
+12 Bad Bad World
+13 Simple Machine
+14 Lightning Rod
+15 Lazy Love
+16 Never Coming Down
+17 Kid Dreams
+18 Come On Eileen
+19 Hang On
+20 Happier
+21 This Could All Be Yours
+-- Encore
+22 Long Night
+23 the thank you hoedown
+24 Satellite
+25 Demons
+
+Source: DPA-4061's > Coresound Battery Box > Edirol RA-09 > WAV 2448.
+Transfer: WAV 2448 > Wavelab > CD-Wave (24bit) > TLH > FLAC 2448.
+Mics in hat, FOB 35-feet from the stage dead center, recording by Jon Pasternak.
+
+fb9b02f719004d928f182cccf34627c4 *guster2015-07-20t01.flac
+fe96e93632c53646b60e3c19b8eabb16 *guster2015-07-20t02.flac
+6e44525122de5739e44a81b19bc9a780 *guster2015-07-20t03.flac
+e6ad4262605e35b5fff82fa532268c91 *guster2015-07-20t04.flac
+206a973e79bda580f499275e3e616b28 *guster2015-07-20t05.flac
+169712aa7b76400b449075ce8f5cc3ef *guster2015-07-20t06.flac
+4a9a16ca04ad1e5dc7af9ac293917269 *guster2015-07-20t07.flac
+b97012903cd46934aaf34f3a78166781 *guster2015-07-20t08.flac
+d4d6f3512c0ab4700d20693175804d08 *guster2015-07-20t09.flac
+dced93af0deb149ff91df0749326803b *guster2015-07-20t10.flac
+8c6caba9fa304067b4096d5f5640f996 *guster2015-07-20t11.flac
+d5fbfcda046ac7dabc2cf523bc396465 *guster2015-07-20t12.flac
+72434c01753bfa2f19537bda6b8078a9 *guster2015-07-20t13.flac
+768ee440220023962ab31c043b1f4194 *guster2015-07-20t14.flac
+9eea8338b1b4391c7e716e6dedaf5397 *guster2015-07-20t15.flac
+53dd571a69f067e43d0ab93eb17e2d01 *guster2015-07-20t16.flac
+6840512ef1fbac9aa0b57ad79aeadfb5 *guster2015-07-20t17.flac
+d9716ea0963b7eeb338edbca271c9986 *guster2015-07-20t18.flac
+029d3135f58207899dfe5151165cf840 *guster2015-07-20t19.flac
+98b10600ae76e075805ad80ff37042f4 *guster2015-07-20t20.flac
+9f5d78d5bc1a11131f87266f8a2ca3ee *guster2015-07-20t21.flac
+d1a3cf458f61726721c9e3932eca710f *guster2015-07-20t22.flac
+1505239ea6ce6715219dea521fd0c617 *guster2015-07-20t23.flac
+5a00661da35975e86cc3d015fd22e970 *guster2015-07-20t24.flac
+6f7ff2915ae01c861a896bc0f4e9c64e *guster2015-07-20t25.flac
+
+guster2015-07-20t01.flac:0e65b7e2cc82e3c6a63e1bcaa8d30d0c
+guster2015-07-20t02.flac:9e52364ac47efafd2e6292da9ad7db86
+guster2015-07-20t03.flac:869bb5f0ed18874e3c6590fd57514825
+guster2015-07-20t04.flac:d10394676c0cc2733bb7e09affdc9e40
+guster2015-07-20t05.flac:d0fe70735c5624f469877e1752bb029c
+guster2015-07-20t06.flac:a9a6bc806e8c7708350f8e32d9bcc105
+guster2015-07-20t07.flac:4cc4b32d3755ba8909a2990fcbcdadcf
+guster2015-07-20t08.flac:2ccfa0e0ce90abe0eb012610e512b623
+guster2015-07-20t09.flac:a27c7d82d48f92065577b4a5bf09bf95
+guster2015-07-20t10.flac:ba1c17e428f09f84cadda830ad8e967f
+guster2015-07-20t11.flac:83524717f8d23e76421f2434b58945f2
+guster2015-07-20t12.flac:64b4687b05ec0ac83e78c038563b6514
+guster2015-07-20t13.flac:7514ae6f94860424670c974c60c98450
+guster2015-07-20t14.flac:55bd5533124abfc104cb5b64d306521f
+guster2015-07-20t15.flac:0a54017931ccb94aff7d4df720a4e99c
+guster2015-07-20t16.flac:f99bbf9f97ad4f5af42f687101e0ef8f
+guster2015-07-20t17.flac:6f156d7f05794033dac58320c7618fc5
+guster2015-07-20t18.flac:82dd50c278418ea27e0ff29e8343fc97
+guster2015-07-20t19.flac:fef9b7532e441d7e8f35010db9e87f8d
+guster2015-07-20t20.flac:26dfb40d0914d5d3388663af8ad87cce
+guster2015-07-20t21.flac:371a2d7c61632d3956bcdada6a03edc2
+guster2015-07-20t22.flac:7ce6f15576f34f690a3312e8636dd541
+guster2015-07-20t23.flac:f3dec882adfead15bbd918b372d0c48c
+guster2015-07-20t24.flac:14e0163545f89cfaed7cd5ddfa6ec57f
+guster2015-07-20t25.flac:3a3c92a978995602a868fd259e4af314
+
+    length     expanded size    cdr  WAVE problems  fmt   ratio  filename
+     3:27.453      59746604 B   cxx   --   ---xx   flac  0.6499  guster2015-07-20t01.flac
+     4:13.867      73113644 B   cxx   --   ---xx   flac  0.6761  guster2015-07-20t02.flac
+     4:19.213      74653484 B   cxx   --   ---xx   flac  0.6981  guster2015-07-20t03.flac
+     3:50.160      66286124 B   cxx   --   ---xx   flac  0.6942  guster2015-07-20t04.flac
+     4:37.040      79787564 B   cxx   --   ---xx   flac  0.6855  guster2015-07-20t05.flac
+     4:13.573      73029164 B   cxx   --   ---xx   flac  0.6829  guster2015-07-20t06.flac
+     6:35.360     113863724 B   cxx   --   ---xx   flac  0.6700  guster2015-07-20t07.flac
+     4:25.653      76508204 B   cxx   --   ---xx   flac  0.7113  guster2015-07-20t08.flac
+     5:56.813     102762284 B   cxx   --   ---xx   flac  0.6805  guster2015-07-20t09.flac
+     3:49.813      66186284 B   cxx   --   ---xx   flac  0.7035  guster2015-07-20t10.flac
+     3:54.160      67438124 B   cxx   --   ---xx   flac  0.6537  guster2015-07-20t11.flac
+     5:00.160      86446124 B   cxx   --   ---xx   flac  0.6866  guster2015-07-20t12.flac
+     4:00.053      69135230 B   cxx   --   ---xx   flac  0.6928  guster2015-07-20t13.flac
+     3:13.827      55822124 B   cxx   --   ---xx   flac  0.6240  guster2015-07-20t14.flac
+     3:19.573      57477164 B   cxx   --   ---xx   flac  0.6755  guster2015-07-20t15.flac
+     3:57.787      68482604 B   cxx   --   ---xx   flac  0.6861  guster2015-07-20t16.flac
+     4:15.493      73582124 B   cxx   --   ---xx   flac  0.6681  guster2015-07-20t17.flac
+     4:57.893      85793324 B   cxx   --   ---xx   flac  0.6985  guster2015-07-20t18.flac
+     4:50.907      83781164 B   cxx   --   ---xx   flac  0.6815  guster2015-07-20t19.flac
+     4:38.053      80079404 B   cxx   --   ---xx   flac  0.6802  guster2015-07-20t20.flac
+     6:20.987     109724204 B   cxx   --   ---xx   flac  0.6949  guster2015-07-20t21.flac
+     5:03.707      87467564 B   cxx   --   ---xx   flac  0.6741  guster2015-07-20t22.flac
+     1:56.653      33596204 B   cxx   --   ---xx   flac  0.6860  guster2015-07-20t23.flac
+     5:48.413     100343084 B   cxx   --   ---xx   flac  0.7140  guster2015-07-20t24.flac
+     5:04.638      87735770 B   cxx   --   ---xx   flac  0.6819  guster2015-07-20t25.flac
+   111:51.251    1932841292 B                            0.6832  (25 files)
+
+No errors occured.

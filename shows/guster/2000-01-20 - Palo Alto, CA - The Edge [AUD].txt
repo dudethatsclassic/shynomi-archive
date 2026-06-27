@@ -1,0 +1,40 @@
+guster
+1/20/00
+The Edge
+Palo Alto, CA
+
+taper:  allan chen
+source:  akg 480/ck61 (-10db pads)>mv100>m1
+
+conversion:  allan chen
+sony r300>sek'd prodif plus>samplitude>cdwav
+
+**no DAE.  dat>wav>shn
+
+cd1
+------------
+1 - intro
+2 - happier
+3 - great escape
+4 - I spy
+5 - either way
+6 - what you wish for
+7 - parachute
+8 - psychodelic film
+9 - barrel of a gun
+10 - demons
+
+cd2
+--------------
+1 - so long
+2 - airport song
+3 - center of attention
+4 - x-ray eyes
+5 - california dreamin'
+6 - fa fa fa
+7 - E:  medicine
+8 - E:  two points for honesty
+9 - E:  bury me
+
+compiled by allan chen
+1/21/00

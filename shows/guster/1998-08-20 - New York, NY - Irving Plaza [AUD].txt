@@ -1,0 +1,45 @@
+Guster
+August 20th, 1998
+Irving Plaza, New York, NY
+
+Master:
+Nakamichi CM300's>D8>D8
+by Dave Mallick; rig provided by Brian VanOrnum
+
+Conversion:
+DA-20>emi 2|6>Sound Studio 2.1.1b3>AIFF>xACT 1.4d1
+by Dave Mallick [greenone@bluestraveler.net]
+
+Disc 1: [43:25.50] (minutes:seconds.frames)
+01. Great Escape        [04:10.55]
+02. Barrel Of A Gun     [02:59.65]
+03. Fa Fa               [05:17.10]
+04. Perfect             [05:37.74]
+05. The Prize*          [03:33.38]
+06. Rocketship*         [05:30.65]
+07. Soccer              [01:02.13]
+08. Happy Frappy        [03:48.02]
+09. Closer              [05:12.02]
+10. Demons              [04:49.35]
+11. Demons (radio edit) [01:23.66]
+
+Disc 2 [43:32.15]
+01. Either Way          [04:38.03]
+02. Airport Song        [03:35.55]
+03. At The Racetrack    [01:17.51]
+04. Dissolve            [06:03.71]
+05. Mona Lisa#          [05:01.07]
+06. Scars & Stitches#   [03:35.24]
+07. Happier             [04:40.05]
+08. Bury Me             [05:12.60]
+09. E: Window           [04:33.27]
+10.    Parachute        [04:54.12]
+
+* with Kurt Uenala (My Favorite Relative) on upright bass.
+# with Bob ? on pedal steel
+
+Notes:
+- Recording levels were low; show normalized to 100%.
+- Intro includes tease of Rammstein's "Du Ha§t", which was on the PA.
+- d1t02 cut at 2:30 - pause button hit accidentally so the end of the song
+  is missing.

@@ -1,0 +1,40 @@
+Guster
+November 6th, 1999
+Fox Theatre, Boulder, CO
+
+AUD>??>CD
+taper unknown
+
+Conversion:
+CD>xACT 2.15 (cdparanoia)>WAV<Sound Studio 4.2>xACT>FLAC
+by Dave Mallick
+
+Disc 1 Total: [50:36.58]
+01. Happier                   [04:39.10]
+02. Great Escape              [02:59.39]
+03. X-Ray Eyes                [04:52.42]
+04. Fa Fa                     [05:17.31]
+05. Demons                    [05:23.57]
+06. All The Way Up To Heaven  [06:16.35]
+07. What You Wish For         [04:06.15]
+08. Parachute                 [05:07.12]
+09. Center Of Attention       [04:13.19]
+10. Airport Song              [04:46.15]
+11. Sweet Caroline            [02:55.08]
+
+Disc 2 Total: [36:54.34]
+01. I Spy                     [03:21.73]
+02. Window                    [03:52.67]
+03. Barrel Of A Gun           [04:02.54]
+04. Either Way                [05:51.35]
+05. Bury Me                   [02:28.46]
+06. Perfect                   [02:58.12]
+07. Two Points For Honesty    [03:29.29]
+08. E: Medicine               [06:02.44]
+09.    Mona Lisa*             [04:46.49]
+   
+* completely acoustic and barely audible
+
+Notes:
+- Original CDs provided had two seconds of silence between each track;
+  I trimmed this out manually.

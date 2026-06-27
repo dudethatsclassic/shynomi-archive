@@ -1,0 +1,46 @@
+Guster
+February 8, 1996
+The Bayou
+Washington, DC
+
+Source: DAud (Unknown Equipment)
+Conversion: Archive Python DDS/vdat > .wav (Direct DAT extraction, no soundcard)
+Converted by: Bill Lakenan <blakenan@us.net>
+Tracked with CDWav
+Shn'ed with MKWact
+
+Disc 1:
+1	Intro
+2	Happy Frappy
+3	Bury Me
+4	Mona Lisa
+5	The Prize
+6	Pantomime
+7	Down In It^
+8	Melanie
+9	Dissolve
+10	Dregs
+
+Disc 2:
+1	Window
+2	Perfect*
+3	Love For Me
+4	Grin
+5	Scars & Stiches
+6	Eden
+7	Bongo Bri Improv
+8	Mexican Jam
+9	Cocoon
+10	Encore Break
+11	Parachute
+
+
+^ Nine Inch Nails Cover
+* Second time played, sounds quite a bit different 
+  from the modern version
+
+Note:  Due to a bad 'buzz' in the right channel of the recording, 
+the left channel was duplicated into the right channel to reduce 
+the 'buzz', resulkting in a mono recording.  This was done at the 
+request of the converter.  
+Compiled January 19, 2001, bt.

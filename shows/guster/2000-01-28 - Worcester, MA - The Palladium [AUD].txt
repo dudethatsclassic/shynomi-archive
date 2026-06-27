@@ -1,0 +1,41 @@
+Guster
+January 28th, 2000
+The Palladium, Worcester, MA
+
+Master:
+AKG C1000's>DA-P1>D8, right side of soundboard
+Taping rig provided by Brandon Smith, patch by Dave Mallick
+
+Conversion:
+Tascam DA-20>Microtrack 24/96>WAV>Sound Studio 2.2.4>xACT 1.71
+by Dave Mallick
+
+Disc 1 [47:26.21]
+01. Barrel Of A Gun           [04:51.30]
+02. Demons                    [04:34.28]
+03. Center Of Attention       [05:09.36]
+04. What You Wish For         [04:29.20]
+05. Either Way                [05:29.54]
+06. Window                    [04:09.18]
+07. Airport Song*             [04:29.45]
+08. So Long>At The Racetrack  [03:12.74]
+09. Medicine                  [05:16.08]
+10. Fa Fa                     [05:44.08]
+
+Disc 2 [42:26.27]
+01. All The Way Up To Heaven  [05:55.71]
+02. I Spy                     [04:25.38]
+03. Great Escape#             [04:29.19]
+04. Parachute                 [05:56.35]
+05. Bury Me                   [04:09.07]
+06. E1: Closer                [05:01.11]
+07.     X-Ray Eyes            [03:53.70]
+08.     Happier               [05:54.24]
+09. E2: California Dreamin'   [02:40.52]
+
+* with Graham Wiggins, aka Dr. Didg on didgeridoo. His feed was off at 
+  first so he is only audible at the very end.
+# You might notice something sounds off here. See if you can pick it out
+  during the first 30 seconds.
+
+- Light diginoise at 3:56 of d1t03.

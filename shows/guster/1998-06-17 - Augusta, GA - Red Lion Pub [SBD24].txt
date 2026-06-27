@@ -1,0 +1,29 @@
+Guster
+June 17th, 1998
+Red Lion Pub, Augusta, GA
+
+Master:
+SBD > Cass(x)
+taper unknown
+
+Conversion:
+Nakamichi CR-2A > Lunatec V3 (A/D) > Tascam DR-100 mkIII > 
+WAV > Sound Studio 4.10.1 > xACT 2.50 > FLAC
+by Dave Mallick
+
+01. Great Escape     [04:28.919]
+02. Grin             [04:48.318]
+03. Closer           [04:54.071]
+04. Demons           [04:47.734]
+05. Bury Me          [03:49.674]
+06. Dissolve         [06:23.920]
+07. Happier          [05:21.938]
+08. Window           [03:47.618]
+09. X-Ray Eyes       [03:48.454]
+10. Airport Song     [03:17.698]
+11. Parachute        [04:49.524]
+12. Barrel Of A Gun  [03:47.011]
+13. Medicine         [04:24.914]
+14. Rocketship       [05:29.531]
+15. Dregs            [05:14.360]
+              Total: [69:13.685]

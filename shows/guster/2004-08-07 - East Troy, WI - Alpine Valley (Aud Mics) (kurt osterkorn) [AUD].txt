@@ -1,0 +1,34 @@
+Guster
+August 7, 2004
+Alpine Valley
+East Troy, WI
+
+Taper:  Kurt Osterkorn
+Source:  audience mics (Sec. 201, Row MM)
+
+conversion: Brian Emerick (shadowraven@gmail.com)
+            EAC 0.95 > WAV > Sound Forge 7.0 > WAV > FLAC Frontend
+
+***************************
+***DO NOT TRADE AS MP3!!***
+***************************
+
+01: Intro (Dave Matthews)
+02: What You Wish For
+03: Careful
+04: Barrel of A Gun
+05: Airport Song
+06: Ramona
+07: Come Downstairs and Say Hello
+08: I Spy
+09: Amsterdam
+10: Demons
+11: Fa Fa
+
+-----------------
+
+
+notes:  minor clipping on some songs.  i did my best to reduce it with compression.
+        bass is heavy on certain songs.
+
+compiled by Brian Emerick on 10/25/04.

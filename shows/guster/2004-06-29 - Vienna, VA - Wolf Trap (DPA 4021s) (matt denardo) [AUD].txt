@@ -1,0 +1,32 @@
+Guster
+June 29, 2004
+Wolf Trap
+Vienna, VA
+
+Recording by Matt DeNardo
+Source: DPA 4021s (~DIN in hat) > Sound Devices MP-2 > Sony PCM-M1 @ 48 kHz
+Location: F Orch, Row U
+Conversion: M1 > Sek'd Prodif Plus, resampled to 44.1 kHz at highest quality in Sound Forge 6, tracks split in CD Wave, compressed with FLAC level 8
+
+DO NOT CONVERT TO MP3 OR ANY OTHER LOSSY FORMAT!
+
+01 Intro                        00:43.55
+02 Ramona                       03:56.08
+03 Barrel Of A Gun              03:24.30
+04 I Spy                        05:03.43
+05 Backyard                     03:41.08
+06 Amsterdam                    04:01.68
+07 Airport Song                 04:06.24
+08 Two At A Time                05:03.55
+09 Happier                      04:47.47
+10 Come Downstairs & Say Hello  07:25.26
+11 The Boy With The Arab Strap  05:16.01
+12 Demons                       05:05.48
+13 Fa Fa                        08:24.16
+
+Encore
+14 All The Way Up To Heaven*    05:25.61
+
+* w/Ben Folds on piano and Sean Lynde on drums & sleigh bells
+
+compiled on 07/10/04 by Matt DeNardo

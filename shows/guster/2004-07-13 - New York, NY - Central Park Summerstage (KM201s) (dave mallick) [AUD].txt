@@ -1,0 +1,54 @@
+Guster
+July 13th, 2004
+Central Park Summerstage, New York, NY
+
+Master:
+Elation KM201's>Lunatec V2>ADC-20>D8
+by Dave Mallick [greenone@bluestraveler.net]
+
+Conversion:
+Tascam DA-20>Egosys U2A>Sound Studio 2.1.1b3>AIFF>xACT 1.4d10
+by Dave Mallick [greenone@bluestraveler.net]
+
+Disc 1: [63:11.50] (minutes:seconds.frames)
+01. What You Wish For            [04:26.32]
+02. Homecoming King              [04:13.01]
+03. Demons                       [04:32.04]
+04. Come Downstairs & Say Hello  [07:35.55]
+05. I Spy                        [05:20.44]
+06. Amsterdam                    [04:58.55]
+07. Two At A Time*               [05:31.07]
+08. Airport Song                 [03:18.68]
+09. Barrel Of A Gun              [05:24.32]
+10. Fa Fa                        [08:43.05]
+11. E: Backyard#                 [03:25.60]
+12.    All The Way Up To Heaven# [05:41.62]
+
+* with Kristen McDonough on violin
+# with Ben Folds on piano
+
+Notes:
+- Show recorded from OUTSIDE the venue - we sat on a park bench on the 
+  left side of the venue (near the bandshell). As a result, there are all
+  sorts of bird noises, wind, people walking by, asking me questions, etc.
+  I even answered my cell phone before the encore and you can hear me 
+  talking (sorry). One of the stranger taping experiences I've ever had. 
+  In two months, no other recordings have come out, so what you hear is 
+  what I got - not pretty, but all there is.
+- Wind rumble in far too many spots to mention to edit out. If you're even
+  downloading this, you should be expecting it. It's particularly bad from
+  0:15-0:26 of track 7, 2:58-3:28 of track 9 and 1:58-2:10 of track 12.
+- A nasty screeching noise cropped up from time to time in the right 
+  channel; the extreme humidity may have had something to do with it. To 
+  correct it, I simply pasted the left channel over the right during the 
+  following passages, which will sound mono as a result:
+  - Track 4, 7:30.900-7:32.000
+  - Track 5, 3:30.500-3:33.500; 4:47.700-end
+  - Track 6, 0:00-0:14, 0:39-0:48, 2:41-2:49, 4:46-end 
+  - Track 7, 0:00-0:14
+  - Track 9, 5:16-5:19
+  - Track 10, 0:39-1:01
+- Yes, that's venue security coming by at 2:51 of the last song to ask me 
+  to stop recording. I just pretended to break down and handheld the mics 
+  for the last song, though I wonder if they had any authority to make me
+  stop, since I wasn't actually *inside* the venue...

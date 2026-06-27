@@ -1,0 +1,35 @@
+Guster
+April 19th, 2002
+John D. Millett Hall, Miami University, Oxford, OH
+
+Master:
+Oktava MC012 (card) > PS2 > Inbox > MZ-R700
+by Dan Glaser
+
+Conversion:
+MDS-JB920 > Dio 2448 > Wavelab 3.0 > cdwav > mkw
+by Dan Glaser
+
+Extraction:
+CD > xACT 2.50 (cdparanoia) > WAV > Sound Studio 4.9.6 > xACT 2.50 > FLAC
+by Dave Mallick
+
+01. What You Wish For      [06:17.20]
+02. I Spy                  [04:34.42]
+03. Demons                 [05:07.58]
+04. I Am The Resurrection  [03:17.36]
+05. X-Ray Eyes             [03:59.60]
+06. Airport Song           [05:33.56]
+07. Happier                [04:22.71]
+08. Say That To My Face    [03:23.45]
+09. Barrel Of A Gun        [04:58.71]
+10. Parachute              [05:36.69]
+11. Jesus On The Radio     [02:26.22]
+12. Great Escape           [03:29.59]
+13. Either Way             [06:14.34]
+14. Fa Fa                  [05:28.17]
+15. Mona Lisa              [04:01.15]
+                    Total: [68:52.74]
+
+Only known concert recording of "I Am The Resurrection" by the Stone Roses.
+One of only three known recordings of "Say That To My Face".

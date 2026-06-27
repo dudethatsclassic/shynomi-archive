@@ -1,0 +1,39 @@
+Guster
+Deer Creek Amphitheater
+Noblesville, IN
+June 24, 2000
+*opened for Dave Matthews Band*
+
+Source:
+AKG C1000S (card) > Mixer > D8
+Location:
+4th Row, Center, 12' stand, mics XY 90 degrees
+Conversion:
+D8 > DiO 2448 > Soundforge 6 > Wavelab > CDWav > Flac Frontend
+Taped and Converted By:
+Jason Woods
+
+
+[Disc 1]
+01. Dave Matthews Intro
+02. Deer Creek Jazz Odyssey > Barrel of a Gun
+03. Happier
+04. Bury Me
+05. I Spy
+06. Airport Song
+07. Either Way
+08. Great Escape
+09. What You Wish For
+10. Demons#
+11. Fa Fa#
+
+# with Dan Myers of From Good Homes
+
+Notes:
+-Guster played to a half-empty amphitheater, so its a little boomy. They still kick ass and are a better DMB opener than the Black Eyed Peas. Word.
+-It was a stormy, windy, and wet night in June. You can hear some wind "pressure" at times.
+-A soft limiter was applied in Soundforge, along with Normalization and fades into and out of the show.
+-Slight EQ was applied to the high and low end in Wavelab.
+
+
+Compiled October 28, 2005 by Jason Woods

@@ -1,0 +1,43 @@
+guster
+4/23/98
+somerville theater
+somerville, MA
+
+source:  DSBD
+
+conversion:  allan chen
+sony r300>sek'd prodif plus>samplitude>cdwav
+
+**no DAE.  dat>wav>shn
+
+cd1
+------------
+intro
+medicine
+barrel of a gun
+rocketship
+love for me
+great escape
+so long
+race track
+closer
+"live free or die"
+demons
+window
+x-ray eyes
+
+cd2
+--------------
+the prize
+happier
+bury me
+parachute
+grin
+airport song
+perfect
+dregs
+E:  mona lisa
+E:  happy frappy
+
+compiled by allan chen
+1/31/00

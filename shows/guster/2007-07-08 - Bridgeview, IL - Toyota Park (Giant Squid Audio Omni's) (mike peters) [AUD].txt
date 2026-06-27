@@ -1,0 +1,40 @@
+Guster
+July 8th, 2007
+Toyota Park
+Bridgeview, IL
+
+Taper: Mike Peters <mikepeters33@gmail.com> 
+Source: Giant Squid Audio Omni's -> iRiver iHP-120 @ 44.1 wav 
+Conversion: iRiver iHP-120 > Sony Sound Forge 9.0 (Slight EQ, Fades) > FLAC (Level 8)
+Location: Section A5 Row 3 Seats 5 & 6
+
+d01t01 Dave's Guster Introduction 1:16
+d01t02 The Captain 3:42
+d01t03 What You Wish For 3:53
+d01t04 Manifest Destiny 3:44
+d01t05 Amsterdam 3:47
+d01t06 Ruby Falls 6:52
+d01t07 Satellite 4:57
+d01t08 Theme From Brazil 3:50
+d01t09 Airport Song 4:31
+d01t10 G Major 3:39
+d01t11 Fa Fa 5:27
+
+Notes:
+Slight EQ done in Sound Forge 9.0 
+Thanks to the young ladies who were nice enough to switch seats with us so I could use the aisle!
+
+FLAC FINGERPRINTS
+guster2007-07-08.d01t06.flac:45f57f44471912c1442c659ed336b945
+guster2007-07-08.d01t07.flac:73c959a2475651739509110492c34949
+guster2007-07-08.d01t08.flac:d2a9f2c8d1a1259576632c625bae6341
+guster2007-07-08.d01t09.flac:b04628c5bb170dcc025b0301ac3d5dbf
+guster2007-07-08.d01t10.flac:936c5776b5f5a814580fdb2fc7fde3b3
+guster2007-07-08.d01t11.flac:ffc48d2bdbe64b1c0fb5fa29c6147545
+guster2007-07-08.d01t01.flac:a8d8dd103d54e0a3ab7d986ea90127ab
+guster2007-07-08.d01t02.flac:8787cf52777be1e922f8701a657dfc7c
+guster2007-07-08.d01t03.flac:cbfebb35e920cd89725d9c6bef76477e
+guster2007-07-08.d01t04.flac:1a015c6ab0c415921c6e7eb72c6ac684
+guster2007-07-08.d01t05.flac:49ec9ce99374eb44540a1d8a66944299
+
+

@@ -1,0 +1,30 @@
+Guster with the National Symphony Orchestra
+March 28th, 2025
+Washington, DC
+Kennedy Center Concert Hall
+
+Taper: hemisphire
+Source: LG V60 > RecForge II Pro > WAV
+Lineage: WAV > ffmpeg (track split) > Trader's Little Helper > FLAC
+
+01. intro
+02. Ramona
+03. Kid Dreams
+04. Witness Tree
+05. Rocketship
+06. All The Way Up To Heaven
+07. Mind Kontrol
+08. This Is How It Feels To Have A Broken Heart
+09. Either Way
+10. When We Were Stars
+11. Fa Fa
+12. Backyard
+13. This Heart Is Occupied
+14. Happier
+15. Black Balloon
+16. Hard Times (with Michael Kooman and the cast of the musical Finn)
+17. Dear Valentine
+18. Doin' It By Myself
+19. Two Points For Honesty
+20. Satellite
+21. Come Downstairs And Say Hello

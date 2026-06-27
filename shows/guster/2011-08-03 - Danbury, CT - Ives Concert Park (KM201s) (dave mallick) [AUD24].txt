@@ -1,0 +1,51 @@
+Guster
+August 3rd, 2011
+Ives Concert Park, Danbury, CT
+
+Master:
+Elation KM201's>Lunatec V3>Microtrack 24/96 (24-bit, 48kHz WAV)
+by Dave Mallick
+
+Conversion:
+WAV>Sound Studio 2.2.4>xACT 2.13>FLAC
+by Dave Mallick
+
+01. Architects & Engineers                       [03:46.180]
+02. Barrel Of A Gun                              [04:21.067]
+03. The Captain                                  [03:43.560]
+04. Hang On                                      [04:36.100]
+05. What You Call Love                           [04:03.532]
+06. Demons                                       [04:01.548]
+07. Center Of Attention                          [04:13.422]
+08. This Could All Be Yours                      [03:50.298]
+09. On The Ocean                                 [04:46.480]
+10. Come Downstairs & Say Hello                  [06:09.547]
+11. Do You Love Me                               [04:27.948]
+12. I Spy                                        [03:06.559]
+13. Satellite                                    [04:56.840]
+14. The Beginning Of The End                     [03:31.993]
+15. Manifest Destiny                             [03:43.104]
+16. This Is How It Feels To Have A Broken Heart  [03:22.223]
+17. Amsterdam                                    [04:44.231]
+18. Happier                                      [04:05.557]
+19. Stand By Me/Don't Worry Be Happy             [05:11.328]
+20. E: Airport Song                              [06:31.923]
+21. E2: Jesus On The Radio                       [02:10.098]
+                                          Total: [89:23.538]
+
+Notes:
+- The weather was threatening all night long, so rather than run from
+  our seats, we ran directly in front of the board, under a two-foot
+  overhang thanks to the general awesomeness of FOH engineer Gordon.
+  Fortunately the venue sounds fantastic even from back there.
+- Ryan was in rare form - "Manifest Destiny" features some improv
+  lines about milkshakes from Dairy Queen, and the last song before
+  the encore featured him braving a 2-foot deep moat of black water
+  between the stage and the crowd. Video here:
+  http://www.youtube.com/watch?v=pVtvLQEbHJE
+- "Jesus On The Radio" was played acoustic in the middle of the crowd to
+  the right of the soundboard; the band stood on chairs and was surrounded
+  by fans. It's almost impossible to hear, unfortunately.
+  
+This is a 24-bit, 48kHz recording and is not suitable for burning to CD.
+A 16-bit, 44.1kHz recording is available.

@@ -1,0 +1,105 @@
+Guster
+November 11, 2002
+The Chance
+Poughkeepsie, NY
+
+Taper:		David Jeffers <Oysterhead00@hotmail.com>
+Source:  	AT853s (SP-CMC-8) > SPSB-2 (@69Hz) > Sony TCD-D8
+Location:	Dead Center, 1st Row Balcony.  Mics ~ 5'10" clipped on hat
+Transfer:	TCD-D8 > Sony RM-DK3 > toslink->optical mini plug > CNJB3 > Firwire > PC
+Encoding:	Soundforge > CDWav > MKWACT > .SHN
+
+
+
+Disk One
+------------------------------------------------
+01.  Barrel Of A Gun*			05:22.32
+02.  Center of Attention*		05:06.56
+03.  Careful				03:43.27
+04.  I Spy				04:33.44
+05.  Ramona				02:50.76
+06.  What You Wish For			04:58.15
+07.  All The Way Up To Heaven		05:23.10
+08.  Airport Song			03:37.74
+09.  Mona Lisa				04:59.22
+10.  Homecoming King			05:21.31
+------------------------------------------------
+Total					45:56.57
+
+
+
+Disk Two
+------------------------------------------------
+01.  Amsterdam				05:24.47
+02.  Either Way				04:52.73
+03.  Rocketship^			01:11.00
+04.  Unknown				04:29.42
+05.  Happy Birthday@			02:34.20
+06.  Demons				05:10.54
+07.  Fa Fa Fa				06:56.09
+
+Encore
+08.  Two Points For Honesty		03:42.48
+09.  Where The Streets Have No Name+	02:24.73
+10.  Keep It Together			04:31.41
+11.  Happier				04:56.62
+------------------------------------------------
+Total					46:15:20
+
+
+*  There was something wrong with my mics or DAT or something...the first
+   2 tracks are messed up and I've never tried to fix them.  It gets MUCH
+   better on track 3.
+^  Ryan starting making fun of Adam so they aborted the song.
+@  Brian on vocals.
++  U2 Cover.
+
+
+Notes:	This isn't the best sounding Guster show by a long shot...not even
+	the best that I've recorded, but after 14+ months another copy
+	hasn't surfaced and I finally got off my lazy ass and encoded it 
+	so here it is...better than nothing and enjoyable show taped under
+	less than ideal conditions.
+
+	The Chance is a tiny little GA venue that wouldn't allow me in with
+	my taping stuff so I had to stealth it.  I stood dead center on the
+	balcony and there was a lot of traffic so there's some talking.  
+	Also, halfway through the show they put a garbage can by me so you
+	can here beer bottles being thrown out now and then.
+
+	Quite an unusual conversion set up, but I fried my digital soundcard
+	and the CNJB3 tranfer worked fine.  It was all digital so there was
+	no compression or quality loss from the round-about transfer.
+
+
+(FINALLY) Transfered, encoded and tracked by David Jeffers 01.15.04
+******************************************************************************
+*DO NOT SELL! DO NOT CONVERT TO MP3! PLEASE INCLUDE THIS FILE WITH ALL TRADES*
+******************************************************************************
+*************http://www.geocities.com/oysterhead00/cdtrading.html*************
+******************************************************************************
+
+
+MD5 - FILE INTEGRITY SIGNATURE LIST
+-----------------------------------------------------------
+d6db475920cf819c17d11a346075ed79 *guster2002-11-21d1t01.shn
+4a4154c68c952518db1e5f212533dcbe *guster2002-11-21d1t02.shn
+d9814a98718c6423374636dea98cee5c *guster2002-11-21d1t03.shn
+dfa8719aea096d7605f0137a8d4f4b7a *guster2002-11-21d1t04.shn
+8f6c73d8eb908496253f487b5458a3b6 *guster2002-11-21d1t05.shn
+a88b239b6daab81d9f92fc37f136d646 *guster2002-11-21d1t06.shn
+d4e844ee2b3c7a7d3a6e4c343cf17f0d *guster2002-11-21d1t07.shn
+77b3d21c67b6f48aa7275b9d97c1fe10 *guster2002-11-21d1t08.shn
+fbc2a601c3a2303526e3f1c33ca03e37 *guster2002-11-21d1t09.shn
+1a88f1f03c7368e830055d0bc41d97a5 *guster2002-11-21d1t10.shn
+1d72b8ae86f0cf614135bdd67927cecb *guster2002-11-21d2t01.shn
+297772a2f8e4432a798025a446a7bd35 *guster2002-11-21d2t02.shn
+0ff212a615f6d678675f349fc3b22f0b *guster2002-11-21d2t03.shn
+9221d2d88779fba7918827c430b21444 *guster2002-11-21d2t04.shn
+8fe602cca024cd7c158d85cc879f21f8 *guster2002-11-21d2t05.shn
+006c37dbaea51136c7837810d9290b9c *guster2002-11-21d2t06.shn
+9db092265077d7c8b29d64bf4ce43a74 *guster2002-11-21d2t07.shn
+b3ee71e00e017c5cfe0129d2f8249431 *guster2002-11-21d2t08.shn
+773130e1df9f7d3dc6ee184edd969995 *guster2002-11-21d2t09.shn
+bed8e79aa539429a6c24a2d10edf2672 *guster2002-11-21d2t10.shn
+751a12c6967119f8e6675e0a6471b9d8 *guster2002-11-21d2t11.shn

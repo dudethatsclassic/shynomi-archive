@@ -1,0 +1,44 @@
+Guster
+August 15th, 2020 - 8pm set
+Drive-In Live, Cheshire Fairgrounds, Swanzey, NH
+
+Master:
+Elation KM201's>Lunatec V3>Microtrack II (24-bit/48kHz)
+by Dave Mallick
+
+Conversion:
+WAV>Sound Studio 4.9.6>xACT 2.50>FLAC
+by Dave Mallick
+
+01. Careful                      [05:58.432]
+02. Simple Machine               [03:28.119]
+03. Stay With Me Jesus           [03:28.858]
+04. Manifest Destiny             [03:32.346]
+05. C’mon                        [04:31.252]
+06. So Long*                     [03:10.316]
+07. Satellite*                   [05:21.538]
+08. The Beginning Of The End*    [04:28.055]
+09. Either Way*                  [05:12.252]
+10. Demons                       [04:12.852]
+11. Center Of Attention          [04:33.354]
+12. Gangway                      [03:32.077]
+13. Happier                      [04:45.511]
+14. Farewell*                    [03:05.734]
+15. Diane*                       [04:09.606]
+16. Overexcited*                 [04:41.644]
+17. Rise & Shine*                [03:38.739]
+18. Ramona                       [03:44.486]
+19. Homecoming King              [04:44.800]
+20. This Could All Be Yours      [05:42.473]
+21. E: Hard Times*               [05:11.812]
+22.    One Man Wrecking Machine  [04:11.725]
+23.    Barrel Of A Gun           [04:59.414]
+24.    Hang On                   [04:45.526]
+                         Total: [105:10.921]
+
+* with Matt LaRocca on violin and Michael Close on cello
+
+This venue hosted a series of drive-in concerts, where fans got two parking spots - one for their car and one to sit in and remain socially distanced. 
+Our spot for the late set was aligned with the center of the stage in the second row of cars, with virtually nobody in front of us. Lots of beeping from cars in the venue throughout the show, mostly as applause.
+
+Unfortunately, my V3 was putting out a 24-bit signal but my recorder was in 16-bit mode, so the signal got truncated and the sound is tinny as a result. It's listenable, just not as full sounding as I'm used to.

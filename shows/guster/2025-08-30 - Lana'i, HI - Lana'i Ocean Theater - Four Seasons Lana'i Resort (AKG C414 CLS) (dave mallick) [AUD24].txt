@@ -1,0 +1,66 @@
+Guster
+August 30th, 2025
+Lana'i Ocean Theater, Four Seasons Lana'i Resort, Lana'i, HI
+
+Master:
+AKG C414 XLS (cardioid) > Lunatec V3 > Tascam DR-100 mkIII (24/48)
+Dead center, on the ground at the bottom of the center aisle
+by Dave Mallick
+
+Conversion:
+Tascam DR-100 mkIII > WAV > Sound Studio 4.11.0 > xACT 2.57 > FLAC
+by Dave Mallick
+
+01. Keep It Together             [06:25.741]
+02. The Captain                  [03:51.472]
+03. Architects & Engineers       [04:09.771]
+04. Black Balloon                [03:14.068]
+05. C’mon                        [04:26.428]
+06. Do You Love Me               [04:49.829]
+07. X-Ray Eyes                   [04:04.945]
+08. Gangway                      [03:56.304]
+09. Amsterdam                    [04:33.692]
+10. Stay With Me Jesus           [03:39.041]
+11. Dreams                       [04:11.329]
+12. Manifest Destiny             [03:45.343]
+13. Either Way                   [05:04.342]
+14. Satellite                    [04:56.279]
+15. Doin’ It By Myself           [04:53.367]
+16. Mona Lisa                    [05:15.188]
+17. Come Downstairs & Say Hello  [06:44.496]
+18. One Man Wrecking Machine     [04:04.850]
+19. This Could All Be Yours      [06:11.421]
+20. E: Two Points For Honesty    [04:01.587]
+                          Total: [92:19.494]
+
+Entire show with Jonny Lam on guitar, standing in for Adam
+
+Guster's first show in Hawaii, their 49th state. Show was complimentary
+for guests at the Four Seasons, and also open to all residents of
+Lana'i. Venue capacity is 600, and it was well-attended.
+
+Adam had to miss the show due to a family emergency, so the band worked
+their connections and called upon the prodigious talents of Jonny Lam,
+formerly of Brooklyn, now of Hawaii. Check him out at @jonnypartys.
+
+Venue aside, this recording was an adventure. I forgot my mic stand at
+home, so I set my gear at the bottom of the center aisle, under the
+railing. At the time, everyone was sitting well clear of the bag, but as
+the evening progressed, people walked by it constantly, little kids
+swung on the railing in front of it, and one unsupervised toddler
+couldn't resist squeezing the foam windscreen at one point. Two kids
+even went over the rules of hide-and-seek about three feet from the
+mics during the introduction to CDASH. All part of the experience.
+
+I set my levels too hot early on, so the kick drum spikes constantly for
+the first 26 minutes. I adjusted it downward at that point, then again
+at 40 minutes. The second half definitely sounds better than the first.
+
+I would be remiss if I did not acknowledge the constant and incredible
+grace and generosity of the band and their management, as well as the
+staff at the Four Seasons Lana'i. This was without a doubt the most
+expensive "complimentary" concert ever, but a uniquely marvelous and
+intimate experience that we will never forget.
+
+Stage sheet photo courtesy of KR; band photo courtesy of SK. Wonderful
+to spend time with you in such a special place!

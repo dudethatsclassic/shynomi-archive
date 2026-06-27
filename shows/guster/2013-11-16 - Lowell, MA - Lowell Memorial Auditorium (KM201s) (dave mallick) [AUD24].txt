@@ -1,0 +1,53 @@
+Guster
+November 16th, 2013
+Riverfeast 2013
+Lowell Memorial Auditorium, Lowell, MA
+
+Master:
+Elation KM201's>Lunatec V3>Microtrack II (24-bit/48kHz)
+Recorded 6' from the left floor stack
+by Dave Mallick
+
+Conversion:
+WAV>Sound Studio 4.4 (tracking/EQ)>xACT 2.24>FLAC
+by Dave Mallick
+
+01. Ramona                       [03:43.531]
+02. Satellite                    [05:49.401]
+03. Barrel Of A Gun              [03:43.663]
+04. What You Call Love           [03:55.269]
+05. Diane                        [03:49.753]
+06. Homecoming King              [05:05.958]
+07. This Could All Be Yours      [04:09.442]
+08. Demons                       [04:12.779]
+09. Come Downstairs & Say Hello  [06:10.673]
+10. Do You Love Me               [04:49.226]
+11. Hang On                      [05:33.114]
+12. Happy Frappy                 [04:15.029]
+13. Manifest Destiny             [03:19.969]
+14. Architects & Engineers       [03:50.300]
+15. Amsterdam                    [04:10.660]
+16. Happier                      [05:41.896]
+17. E1: California Dreamin'      [02:47.160]
+18.     Bad Bad World            [05:00.002]
+19.     Airport Song             [07:20.234]
+20. E2: Jesus On The Radio       [03:39.019]
+                          Total: [91:07.078]
+
+This was a benefit show for the Greater Boston Food Bank, and was
+preceded by a silent auction and dinner in the venue, which we attended,
+enabling us to get a table on the floor up front. At the time I didn't
+realize that Gordon had returned to run sound for this show, so I
+decided to make my first-ever stack tape. Mics were set up at head level
+directly in front of the left speaker stack; this greatly minimized
+crowd noise, but had the unfortunate side effect of making it very
+bass-heavy - most of the midrange and treble came from the suspended
+arrays, which completely shot over our heads.
+
+The solution? Equalization! Not something I'm tremendously familiar
+with, but I gave it my best shot. I dropped the low end (80Hz) by 8dB,
+boosted the midrange (2.5kHz) by 6dB, and left the high end alone. Since
+this lowered the overall volume considerably, I then turned up the
+master gain by 6dB. The result is listenable in my opinion, but I've
+kept the raw master as well - if anyone feels like tinkering, please let
+me know.

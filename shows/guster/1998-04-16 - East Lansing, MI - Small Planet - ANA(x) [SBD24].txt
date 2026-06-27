@@ -1,0 +1,29 @@
+Guster
+April 16th, 1998
+Small Planet, East Lansing, MI
+
+Master:
+AUD > Cass(x)
+taper unknown
+
+Conversion:
+Nakamichi CR-2A > Lunatec V3 (A/D) > Tascam DR-100 mkIII > 
+WAV > Sound Studio 4.10.1 > xACT 2.50 > FLAC
+by Dave Mallick
+
+01. Closer           [05:40.012]
+02. Great Escape     [03:15.064]
+03. Demons           [04:38.241]
+04. Dissolve         [06:14.837]
+05. X-Ray Eyes       [03:29.324]
+06. Airport Song     [04:27.167]
+07. Window*          [04:13.826]
+08. Rocketship       [04:47.786]
+09. Barrel Of A Gun  [03:46.185]
+10. Parachute        [05:16.632]
+11. Bury Me          [04:01.429]
+              Total: [49:50.503]
+
+* with Chris Han on violin
+
+Opening for ekoostik hookah.

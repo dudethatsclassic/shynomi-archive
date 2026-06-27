@@ -1,0 +1,28 @@
+Guster
+October 23, 1996
+The Middle East
+Cambridge, MA
+
+Taper: 		Bill Lakenan <blakenan@us.net>
+Source: 	DSBD (Soundboard -> D7)
+
+Dat > SHN: 	Archive Python DDS/vdat > .wav (Direct DAT extraction, no soundcard)
+		Bill Lakenan <blakenan@us.net> and Louie Rendek <ljr7@po.cwru.edu>
+
+Disc One:
+
+01:	Intro					-	01:47.50
+02:	Pantomime				-	04:21.58
+03:	Demons					-	04:42.71
+04:	Bury Me					-	03:18.02
+05:	"I wanna be Donny Wahlberg"		-	00:40.22
+06:	Perfect					-	04:32.08
+07:	Window					-	03:49.42
+08:	Start It All Over			-	03:40.32
+09:	Parachute				-	05:13.20
+10:	Great Escape			 	-	02:56.72
+11:	Dregs					-	05:19.24
+
+Total:						-	40:22.26
+
+*compiled by Louie Rendek <ljr7@po.cwru.edu>

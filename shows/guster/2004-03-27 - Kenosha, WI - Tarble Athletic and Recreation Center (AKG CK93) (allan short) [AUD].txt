@@ -1,0 +1,35 @@
+Guster
+March 27th, 2004
+Tarble Athletic and Recreation Center
+Carthage College
+Kenosha, WI
+
+Source:	AKG CK93 > SE300b (DINA @ 90*) > UA-5 (stock) > WaveLab 4.0g @ 24/48, 
+	35' RoC last row Sec. C
+Transfer: Wavelab (patch, fades, resample, dither) > CDWAVE > FLAC
+Taped & Transfered by: Allan Short <mirth AT rafansrule DOT org>
+
+Disc 1:
+01) Deamons					
+02) Careful					
+03) Amsterdam				
+04) Happier					
+05) Airport Song				
+06) The Boy With The Arab Strap *		
+07) Come Downstairs and Say Hello		
+08) Intro to...				
+09) Barrel of a Gun				
+10) Fa Fa					
+
+Notes:
+
+First 2:02 of Deamons patched from alternate source due to not being set up
+when Guster took the stage. Source for the patch is as follows:
+Giant Squids > Batt. Box > Nomad Jukebox 3 > Cd Wave > FLAC
+Patch source taped by Connor Cronk
+
+Connor's Deamons source starts abruptly because the Nomad takes a long time to boot up.
+* - Belle And Sebastian cover
+
+Compiled by Allan Short with the help of Connor's original info file
+on 4-07-04.

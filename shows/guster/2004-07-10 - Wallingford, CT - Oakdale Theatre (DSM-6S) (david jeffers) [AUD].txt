@@ -1,0 +1,72 @@
+Guster
+July 10th, 2004
+careerbuilder.com Center
+Oakdale Theatre
+Wallingford, CT
+
+Taper:		David Jeffers (Oysterhead00@hotmail.com)
+		Sonic Studios DSM-6S > sharp md-mt77
+
+Location:	Lower Orchestra Center, Section B, ROw T, Seat 9
+		Mics mounted on glasses
+
+Encoding:	David Jeffers (Oysterhead00@hotmail.com)
+		Sony MDS-S707 > Toslink > CJB3 > Firewire > SoundForge > .WAV > FLAC
+
+
+------------------------------------------------
+01.  Intro				00:43.33
+02.  Happier				04:48.56
+03.  I Spy				05:01.12
+04.  Keep It Together			04:43.33
+05.  Amsterdamn				04:04.32
+06.  Airport Song			03:17.63
+07.  Barrel Of An Intro > 		01:03.25
+08.  Barrel Of A Gun			03:51.18
+09.  Come Downstairs And Say Hello*	06:47.01
+10.  Brian's First Concert		01:02.34
+11.  Demons				04:51.61
+12.  Red Oyster Cult+			04:45.46
+13.  Fa Fa+				05:46.29
+14.  Stalling For the Piano Jam$	02:21.31			
+14.  Backyard^				03:26.47
+15.  All The Way Up To Heaven^ 		05:50.63
+------------------------------------------------
+Total 					62:25.59
+
+
+* w/Rufus Wainright
++ w/ Horns
+$ Improv jam when they were sending up Ben Folds' piano
+^ w/ Ben Folds
+
+
+Notes:  There's a digi-hiccup in Amsterdamn present on the master
+	My MKWACT isn't working for some reason so I went FLAC this time
+	First time ever using the SS-DSM-6S Mics
+
+
+Transfered, encoded and tracked by David Jeffers July 11, 2004
+******************************************************************************
+*DO NOT SELL! DO NOT CONVERT TO MP3! PLEASE INCLUDE THIS FILE WITH ALL TRADES*
+******************************************************************************
+*************http://www.geocities.com/oysterhead00/cdtrading.html*************
+******************************************************************************
+
+FLAC FINGERPRINTS:
+guster2004-07-10d1t01.flac:e6b498c2131d7bf73cdf31d6b25c7131
+guster2004-07-10d1t02.flac:fc62ab41890a9e5dafd50dc193e1743d
+guster2004-07-10d1t03.flac:acad22a8d158104ac2940f2614f0534a
+guster2004-07-10d1t04.flac:b50f5680c92ffe8a73b3e57422db69c1
+guster2004-07-10d1t05.flac:826bd9467973b225662a244d308d7263
+guster2004-07-10d1t06.flac:5678e203bed4febc24d2173cd86bbf18
+guster2004-07-10d1t07.flac:ba2543101336f0abc3c3ee3e63f62309
+guster2004-07-10d1t08.flac:1e4d975fd13bccac90a7c47e2e443dfd
+guster2004-07-10d1t09.flac:b9478bb794539ffcbf2f961ed1a19938
+guster2004-07-10d1t10.flac:6fe48133fb4e47c8cd79378c6f54978c
+guster2004-07-10d1t11.flac:b1d8a402ae9cbd8fe53d384137f71386
+guster2004-07-10d1t12.flac:5ce881d13063d0b8967ac579579f5576
+guster2004-07-10d1t13.flac:8134f61304db373abc383b4f7ee49b93
+guster2004-07-10d1t14.flac:e3030c480a560e6618caa28d60f868e6
+guster2004-07-10d1t15.flac:98157c3156cb8fb37eefca72106ba7ba
+guster2004-07-10d1t16.flac:87f6e8a788fe8cad72a88fccc3b33922

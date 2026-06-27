@@ -1,0 +1,34 @@
+guster
+3/14/98
+the metro
+chicago, IL
+
+source:  DSBD
+
+conversion:  allan chen
+sony r300>sek'd prodif plus>samplitude (48>44.1)>cdwav
+
+**no DAE.  dat>wav>shn
+
+1 - intro
+2 - Great Escape
+3 - Closer
+4 - Window
+5 - X-Ray Eyes
+6 - Airport Song
+7 - Demons
+8 - Fall In Two
+9 - Dissolve
+10 - Barrel Of A Gun
+11 - Mona Lisa
+12 - Racetrack
+13 - Medicine
+14 - Bury Me
+15 - Rocketship
+16 - Dregs
+17 - E: Parachute
+18 - E: Happy Frappy
+19 - E: Racetrack 
+
+compiled by allan chen
+2/6/00

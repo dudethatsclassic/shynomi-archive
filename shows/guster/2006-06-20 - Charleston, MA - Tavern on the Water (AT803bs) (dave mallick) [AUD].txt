@@ -1,0 +1,28 @@
+Guster
+June 20th, 2006
+Tavern on the Water, Charlestown, MA
+
+Master:
+AT803b's>battery box>D8
+by Dave Mallick [greenone@bluestraveler.net]
+
+Conversion:
+Tascam DA-20>Egosys U2A>Sound Studio 2.1.1b3>AIFF>xACT 1.58
+by Dave Mallick [greenone@bluestraveler.net]
+
+CD 1 [38:39.65] (minutes:seconds.frames)
+01. The Star-Spangled Banner [02:20.74]
+02. One Man Wrecking Machine [05:25.27]
+03. Careful                  [04:39.56]
+04. Rise & Shine             [04:22.50]
+05. Jesus On The Radio       [02:48.15]
+06. Barrel Of A Gun          [05:31.30]
+07. The Captain              [04:15.25]
+08. Two Of Us                [04:45.73]
+09. Amsterdam                [04:30.15]
+
+Notes:
+- Free, winners-only show for Mix 98.5 listeners.
+- Entire show performed in a stripped-down acoustic arrangement, but 
+  still plugged in to amplifiers.
+- Recorded directly in front of right stack; not much stereo imaging.

@@ -1,0 +1,29 @@
+Guster
+August 10th, 2002
+Paramount Theatre, Seattle, WA
+
+Master:
+Unknown, possible matrix?
+
+Extraction/Tracking:
+CD>xACT 2.00 (cdparanoia)>WAV>Sound Studio 4.2 (retrack)>xACT>FLAC
+all tracks extracted with no errors
+by Dave Mallick
+
+01. What You Wish For         [05:09.16]
+02. Great Escape              [03:20.74]
+03. Ramona                    [03:05.02]
+04. Happier                   [04:12.55]
+05. Mona Lisa                 [05:07.46]
+06. Red Oyster Cult           [03:38.07]
+07. Either Way                [05:03.14]
+08. I Spy                     [04:26.11]
+09. Demons                    [04:45.10]
+10. Airport Song              [03:27.45]
+11. Homecoming King           [04:02.37]
+12. Barrel Of A Gun           [03:50.11]
+13. Fa Fa                     [05:22.74]
+14. Center Of Attention       [04:18.72]
+15. All The Way Up To Heaven  [05:51.53]
+16. New Song 2                [04:43.52]
+                       Total: [70:25.54]

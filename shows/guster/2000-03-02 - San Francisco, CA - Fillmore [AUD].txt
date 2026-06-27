@@ -1,0 +1,21 @@
+guster
+3/2/00
+fillmore
+san francisco, ca
+
+taper:  alex coluzzi (first 4 tracks) allan chen (rest)
+source:
+first 4 - mk21>brbox>m1 under mirror ball in kangol
+rest - at853a>battery box>m1 by sbd, 15' stand
+
+conversion:  allan chen
+sony r300>sek'd prodif plus>samplitude>cdwav
+
+**no DAE.  dat>wav>shn
+
+comments
+------------------------
+I thought my at 853a source sounded better, but I used the wrong sensitivity the first 3 songs (4 tracks) and replaced them with alex's schoeps one.  
+
+compiled by allan chen
+3/14/00

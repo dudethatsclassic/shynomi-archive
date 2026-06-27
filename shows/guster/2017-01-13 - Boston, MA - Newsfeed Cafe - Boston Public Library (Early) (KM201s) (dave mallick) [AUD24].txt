@@ -1,0 +1,31 @@
+Guster
+January 13th, 2017
+Boston Public Radio broadcast for WGBH-FM
+Newsfeed Cafe, Boston Public Library, Boston, MA
+
+Master:
+Elation KM201's>Lunatec V3>Microtrack II (24-bit/48kHz)
+by Dave Mallick
+
+Conversion:
+WAV>Sound Studio 4.8.4>xACT 2.38>FLAC
+by Dave Mallick
+
+01. intro               [09:55.998]
+02. Stay With Me Jesus  [03:07.556]
+03. interview           [02:41.199]
+04. Satellite           [04:37.934]
+05. interview/quiz      [18:41.253]
+06. Jesus On The Radio  [04:12.825]
+                 Total: [43:16.764]
+
+Boston Public Radio hosts Jim Braude and Margery Eagan broadcast this
+show live from the Newsfeed Cafe, and Guster joined them for a 40-minute
+session of songs, interview segments, and a quiz on current events. 
+In the band's honor, the cafe offered a "Cheasy Wonderful" sandwich.
+
+As a mic stand would have been very obtrusive, I chose to clamp my mics
+to the metal casing of the V3, which was in my taping bag on the ground,
+about 30 feet away from the broadcast location. There were some small
+speakers set up around the cafe but they weren't particularly strong, so
+the interview segments can be somewhat hard to hear at times.

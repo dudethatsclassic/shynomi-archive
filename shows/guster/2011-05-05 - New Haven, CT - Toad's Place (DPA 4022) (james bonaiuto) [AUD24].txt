@@ -1,0 +1,87 @@
+Guster
+May 5, 2011
+Toad’s Place
+New Haven, CT
+
+Source:   DPA 4022 > Oade WMOD Marantz PMD-661 [.wav @ 24-bit/48kHz] 
+Lineage:  SD card > USB 2.0 > Amadeus Pro v2.1.5 [.flac @ level 8] 
+Location: DFC @ soundboard, elevated 8’ on stand 
+Mics:     PAS, spaced 18 cm  
+
+Taped & Transferred by James Bonaiuto (cd2go@hotmail.com)
+------------------------------------------------------------------------------
+Total: [104:42.514]
+------------------------------------------------------------------------------
+01. intro                                           
+02. Ramona                                        
+03. Barrel Of A Gun                                  
+04. Architects & Engineers                                      
+05. Backyard                                    
+06. Bad Bad World                                  
+07. Red Oyster Cult #                                        
+08. This Could All Be Yours                             
+09. One Man Wrecking Machine                                      
+10. Airport Song                              
+11. On The Ocean                                  
+12. Manifest Destiny                        
+13. Come Downstairs And Say Hello                            
+14. Do You Love Me                              
+15. This Is How It Feels To Have A Broken Heart                                            
+16. [Big Audio Dynamite story]                                   
+17. Two Points For Honesty
+18. Hang On $ 
+19. The Captain
+20. Happier
+21. encore 1
+22. Stay With Me Jesus
+23. Satellite
+24. [Sire Records story]
+25. What You Call Love
+26. Demons
+27. encore 2
+28. Jesus On The Radio *                                                                                                                               
+------------------------------------------------------------------------------
+Notes: 
+
+# = w/ partial Where Is My Mind? by Pixies
+$ = w/ partial My Life by Billy Joel
+* = acoustic in audience w/ Dave Schneider & Shawn Fogel of The Zambonis
+
+Stopped recorder for a few minutes of encore 2, no music missing
+------------------------------------------------------------------------------
+Amadeus Pro Notes:
+
+- EQ
+- Normalized peak level to -0.1 dB
+- Faded beginning/end of show
+------------------------------------------------------------------------------
+xACT v2.24 FLAC Fingerprint:
+
+guster2011-05-05t01.dpa4022.pmd661.flac:7268bfc9305393ad10b2ec620d5d5998
+guster2011-05-05t02.dpa4022.pmd661.flac:5e0b39af4fb5e8adca824d69f1f62b95
+guster2011-05-05t03.dpa4022.pmd661.flac:b81b5295970d79d7960b665cf73b0e0a
+guster2011-05-05t04.dpa4022.pmd661.flac:cca313922c17fcba979c5e8379fc53e0
+guster2011-05-05t05.dpa4022.pmd661.flac:add528f1c4f593453350ab02de0adfd4
+guster2011-05-05t06.dpa4022.pmd661.flac:51436896ff506605f5ee54466bed4d4d
+guster2011-05-05t07.dpa4022.pmd661.flac:b93484d4edb1296d45dbc066c6c007fc
+guster2011-05-05t08.dpa4022.pmd661.flac:c47026d07c9405f336337ecc4734ca5f
+guster2011-05-05t09.dpa4022.pmd661.flac:12aa0110abfa2e285b00e414a02de958
+guster2011-05-05t10.dpa4022.pmd661.flac:a7fb26fd025636942db5c21879855abc
+guster2011-05-05t11.dpa4022.pmd661.flac:40f6fc4a4bcfd15af628609e078e2ae4
+guster2011-05-05t12.dpa4022.pmd661.flac:4aeb18b8d7df2266ef37dc0683275688
+guster2011-05-05t13.dpa4022.pmd661.flac:7081cc84fc815c16b512de3a2309dbd1
+guster2011-05-05t14.dpa4022.pmd661.flac:5e80bd1cc0158d12a9e545b0a09cd64b
+guster2011-05-05t15.dpa4022.pmd661.flac:ccc5a44c061617c222b3140942f7182c
+guster2011-05-05t16.dpa4022.pmd661.flac:7a63c616814af702111b6d9d2aea7ebe
+guster2011-05-05t17.dpa4022.pmd661.flac:08d05aa5e150b2fa744964fbd0fa0429
+guster2011-05-05t18.dpa4022.pmd661.flac:22f5baa6fabbfe7e53d36eed3d872497
+guster2011-05-05t19.dpa4022.pmd661.flac:819d99c467e2c19774e6f5b3e33d2079
+guster2011-05-05t20.dpa4022.pmd661.flac:3dd014c362615988c226c364ef7a2819
+guster2011-05-05t21.dpa4022.pmd661.flac:f33f4b803e748ba4bcfd72d34595207f
+guster2011-05-05t22.dpa4022.pmd661.flac:6662eef21b349490a76d9fece9ec9b8c
+guster2011-05-05t23.dpa4022.pmd661.flac:969ab554218ff3f61b4d5dd044224e21
+guster2011-05-05t24.dpa4022.pmd661.flac:3d60485885996358bd4b6a041b8e3630
+guster2011-05-05t25.dpa4022.pmd661.flac:a0d48891747c54727bacacedd5531146
+guster2011-05-05t26.dpa4022.pmd661.flac:046ea8b5b5256c743e921ce524d4279d
+guster2011-05-05t27.dpa4022.pmd661.flac:b6cd35e0873810bf4e6368c1fde8437b
+guster2011-05-05t28.dpa4022.pmd661.flac:3250227dcfe51e0e943c0710aac3c3b8

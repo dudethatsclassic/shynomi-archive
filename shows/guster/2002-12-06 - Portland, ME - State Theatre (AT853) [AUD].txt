@@ -1,0 +1,39 @@
+Guster 
+December 6th, 2002
+State Theatre, Portland, ME
+
+Master creation: 
+AT853's>battery box>TCD-D8
+by Dave Mallick [greenone@bluestraveler.net]
+
+SHNs were made: 
+D8>Egosys Waveterminal U2A>SoundEdit 16>WAV>shntool>SHNv3 [no DAE] 
+by Dave Mallick [greenone@bluestraveler.net] 
+
+CD 1 [47:52.36] (minutes:seconds.frames) 
+01. Happier                     [05:18.05]
+02. I Spy                       [05:06.66] 
+03. Careful                     [03:59.27] 
+04. X-Ray Eyes                  [03:51.28] 
+05. Barrel Of A Gun             [04:56.07] 
+06. Center Of Attention*        [04:42.53] 
+07. Mona Lisa                   [06:13.25] 
+08. Amsterdam                   [04:19.21] 
+09. Two Points For Honesty>     [05:29.54] 
+    Where The Streets Have No Name
+10. Airport Song                [03:55.50]
+
+CD 2 [41:10.53] 
+01. Ramona                      [03:01.40] 
+02. What You Wish For           [04:19.40] 
+03. Keep It Together            [04:11.38] 
+04. Red Oyster Cult             [03:40.69] 
+05. Either Way                  [04:53.55] 
+06. You Don't Bring Me Flowers  [03:28.15] 
+07. Fa Fa                       [07:27.01] 
+08. E: Parachute                [05:28.19] 
+09.    Demons                   [04:40.01] 
+
+* with "Groove Is In The Heart" tease, featuring drum tech Sean 
+  on tambourine and guitar tech Larry on slide whistle
+# with Carolyn Bremer and Brian on vocals

@@ -1,0 +1,59 @@
+Guster
+30 November 2019
+Terminal 5
+New York, New York
+
+Recorded by: Christopher Jones <jones.chris@gmail.com>
+Source: Schoeps CCM41 Handmatched Compact Supercardioid > Sound Devices 744T Hard Disk Recorder (@ 24-bit / 96 kHz; slaved to Sonosax SX-M2D2 @ 96 kHz)
+Location: FOH, microphones elevated 3.5 meters; A-B
+HDD > .flac: Sound Devices 744T Hard Disk Recorder > Apple Macbook Pro (2.53 GHz Intel Core 2 Duo / 4GB 1067 MHz DDR3) > Apple Logic Pro X > Sound Forge Pro Mac 3.0.0 (Build 100) > xACT v2.41
+
+Resampled with iZotope 64-bit SRC at highest quality setting; dithered using iZotope MBIT+ with a "Normal" amount of "Ultra" noise shaping applied.  24-bit / 96 kHz version of this recording available in .flac24.  
+
+Set I:
+
+t01 Introduction  						00:40.24
+t02 One Man Wrecking Machine  					04:28.56
+t03 Barrel Of A Gun  						04:04.59
+t04 Architects And Engineers  					03:13.36
+t05 Mind Kontrol  						03:38.68
+t06 Demons  							05:58.31
+t07 Ramona  							03:18.57
+t08 Satellite  							05:24.03
+t09 Simple Machine  						03:24.55
+t10 Look Alive  						03:55.39
+t11 Manifest Destiny  						03:37.17
+t12 "Jewkulele..."  						02:11.41
+t13 What You Call Love  					04:00.29
+t14 Airport Song  						06:38.62
+t15 Doin' It By Myself  					04:19.53
+t16 Popcorn #  							02:41.23
+
+Set II:
+
+t17 (Nothing But) Flowers  					05:42.29
+t18 Either Way  						04:48.41
+t19 Do You Love Me?  						05:26.67
+t20 Medicine  							05:45.12
+t21 Overexcited  						04:30.63
+t22 Keep It Together 						05:20.19
+t23 All The Way Up To Heaven  					05:49.42
+t24 Terrified  							03:40.05
+t25 Lightning Rod  						03:06.28
+t26 Amsterdam  							04:32.74
+t27 Happier  							05:28.06
+t28 Come Downstairs And Say Hello  				07:34.67
+---
+t29 Hang On  							05:41.56
+t30 If It Makes You Happy +  					04:05.20
+
+								133:09.57
+
+#  Hot Butter; played over PA
++  Sheryl Crow cover
+
+Notes:
+
+Sound Devices 744T slaved to Sonosax SX-M2D2 via AES; recording intended to be a matrix of Schoeps CCM41 and Neumann U67 > SX-M2D2; NU 67 V power supply experienced an insulation failure and source unable to be mixed.
+
+Compiled by Christopher Jones <jones.chris@gmail.com> 20 December 2019.

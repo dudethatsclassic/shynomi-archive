@@ -1,0 +1,44 @@
+Guster
+On The Ocean Festival, night 2
+August 10th, 2024
+Thompson's Point, Portland, ME
+
+Master:
+AKG C414 XLS (hypercard) > Lunatec V3 > Tascam DR-100 mkIII (24/48)
+At FOH tent, dead center, stand at 10'
+by Dave Mallick
+
+Conversion:
+Tascam DR-100 mkIII > WAV > Sound Studio 4.10.1 > xACT 2.51 > FLAC
+by Dave Mallick
+
+01. On The Ocean                 [05:57.178]
+02. The Captain                  [04:01.623]
+03. Gangway                      [05:00.959]
+04. Keep Going                   [04:09.191]
+05. Demons                       [04:35.283]
+06. Stay With Me Jesus           [03:09.686]
+07. Bad Bad World                [04:40.256]
+08. Come Downstairs & Say Hello  [06:19.254]
+09. Do You Love Me?              [05:39.130]
+10. Eden                         [04:43.011]
+11. When You Go Quiet            [04:05.632]
+12. Doin’ It By Myself           [04:32.090]
+13. (Nothing But) Flowers        [05:38.992]
+14. Ramona                       [03:12.376]
+15. Satellite                    [04:43.251]
+16. Barrel Of A Gun              [03:47.589]
+17. Backyard                     [04:27.017]
+18. When We Were Stars           [05:20.104]
+19. Red Oyster Cult              [05:53.963]
+20. Happier                      [05:02.621]
+21. Ruby Falls                   [07:35.137]
+22. E: Terrified                 [03:45.959]
+                         Total: [106:20.303]
+
+First full performance of "Eden" since 2017. 
+
+First "On The Ocean" since 2022.
+
+Third performance of "When We Were Stars".
+

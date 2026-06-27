@@ -1,0 +1,31 @@
+Guster
+Xcel Energy Center
+St. Paul, MN
+March 26, 2004
+
+Taper:	Jason Glynn <noskis@yahoo.com>
+Location:  Club 29, Row 1, Seat 11
+
+Recording Equipment:	
+Sound Professionals AT933 Hyper Cardioids > SP-SB1-SL Battery Box 
+(Bass Roll off @ 69Hz) > SONY MZ-R700
+
+SHN Process:	
+Sony MDS-PC3 > Toslink Optical Cable > Zoltrix Nightingale Pro 6 >
+Cool Edit 2000 (Normalized to 100% & fade in/out) > CD Wave (Track Splitting) >
+mkwACT 0.97b (SHN)
+
+Disc 1: 
+
+01. Happier
+02. Careful
+03. Flowers
+04. Ramona
+05. Homecoming
+06. Airport
+07. Barrel
+08. Amsterdam
+09. Demons
+10. Fa Fa
+
+compiled 3-29-04 by J.G.

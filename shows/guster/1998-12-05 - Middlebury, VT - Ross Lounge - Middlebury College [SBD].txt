@@ -1,0 +1,33 @@
+Guster
+December 5th, 1998
+Ross Lounge, Middlebury College, Middlebury, VT
+
+SBD>??>CD
+taper unknown
+
+Conversion:
+CD>xACT 2.15 (cdparanoia)>WAV<Sound Studio 4.2>xACT>FLAC
+by Dave Mallick
+
+01. Demons                [06:27.48]
+02. Barrel Of A Gun       [03:23.59]
+03. X-Ray Eyes            [05:39.32]
+04. Airport Song          [04:35.22]
+05. Either Way            [05:11.46]
+06. Scars & Stitches      [04:40.15]
+07. Happier               [06:00.35]
+08. Rocketship            [05:05.20]
+09. Window                [04:13.60]
+10. Fa Fa                 [05:45.09]
+11. Parachute             [07:34.26]
+12. Great Escape          [03:33.57]
+13. Melanie               [03:05.30]
+14. techno jam            [03:51.00]
+15. Bury Me               [03:30.43]
+16. Happy Frappy          [04:37.01]
+17. E: Circle Of Friends  [02:10.71]
+                   Total: [79:25.49]
+                   
+Notes:
+- This show predated the popularity of 80-minute CDs, so it was originally
+  on two discs, with Fa Fa ending disc 1.

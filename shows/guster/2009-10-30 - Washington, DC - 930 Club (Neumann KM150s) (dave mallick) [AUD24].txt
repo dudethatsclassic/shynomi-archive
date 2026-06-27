@@ -1,0 +1,61 @@
+Guster
+October 30th, 2009
+9:30 Club, Washington, DC
+
+Master:
+Neumann KM150's>Lunatec V3>Microtrack 2496
+by Dave Mallick
+
+Conversion:
+WAV>Audacity 1.3.6>xACT 1.69>FLAC - 24-bit/48kHz
+by Dave Mallick
+
+Disc 1 [62:38.382]
+01. Ramona                        [04:20.292]
+02. G Major                       [03:48.305]
+03. The Beginning Of The End      [03:55.842]
+04. This Could All Be Yours       [03:59.740]
+05. Demons                        [04:25.896]
+06. Diane                         [04:01.413]
+07. Satellite                     [05:17.438]
+08. The Captain                   [04:07.023]
+09. Bad Bad World                 [04:56.001]
+10. Manifest Destiny              [03:47.431]
+11. Rocketship$                   [05:18.858]
+12. Come Downstairs And Say Hello [06:50.143]
+13. (between-sets video)          [07:49.999]
+
+Disc 2 [70:59.840]
+01. What You Wish For             [04:14.976]
+02. Barrel Of A Gun               [04:51.499]
+03. Either Way$                   [06:01.984]
+04. Fa Fa^                        [05:45.771]
+05. I Spy                         [05:23.328]
+06. Center Of Attention           [05:01.909]
+07. All The Way Up To Heaven&     [06:15.381]
+08. Happier                       [05:05.323]
+09. So Long$                      [04:06.955]
+10. Two Points For Honesty$       [04:31.701]
+11. Rainy Day                     [07:05.728]
+12. E: Hang On                    [04:59.947]
+13.    Airport Song               [05:21.109]
+14.    Jesus On The Radio         [02:14.229]
+
+$ with Dannie (?) and Amy on cello and violin
+^ with Richard and Howard on saxophone and trumpet
+& with the Brookewood School chorus
+
+Notes:
+- These are 24-bit files which cannot be burned to a CD. A 16-bit
+  fileset is also available.
+- Thanks to Brandon Smith for loaning me his mic cables, and to John 
+  Kelly & Ian White for the clamp space and helping block the stands. 
+  Thanks also to John for the CF card loan, or this recording would not 
+  have happened! Mics generously on loan from Jon Pasternak.
+- The video in track 13 of disc 1 was footage shot during the Lost &
+  Gone Forever studio sessions. It features  band members laying down
+  various tracks, producer Steve Lillywhite talking about his experiences
+  with a Depends diaper, Karl Denson trying out his saxophone solo in Fa
+  Fa, and the guys playing James Bond 007: Goldfinger.
+- A few stray ticks in Jesus On The Radio, likely from stand bumps
+  during the extreme amplification.

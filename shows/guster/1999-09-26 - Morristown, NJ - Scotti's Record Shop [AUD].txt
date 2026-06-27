@@ -1,0 +1,26 @@
+Guster
+9/26/99
+Scotti's Record Shop
+Morristown, NJ
+
+Source:  AT853->SP/PS->D100  
+
+Conversion: Allan Chen
+Sony r300>Sek'd Prodif Plus>Samplitude(48>44.1)>CD-Wave
+
+01. Intro           [00:37.09]
+02. Bury Me         [03:31.03]
+03. I Spy           [02:51.07]
+04. Airport Song    [04:05.47]
+05. Demons          [05:44.37]
+06. Barrel Of A Gun [04:07.07]
+07. Fa Fa           [04:49.24]
+08. X-Ray Eyes      [06:05.22]
+09. Happier         [04:42.62]
+10. Great Escape    [04:01.66]
+             Total: [40:35.59]
+
+Compiled by Allan Chen
+11/22/99
+
+SBE's fixed, SHN>FLAC via xACT 1.71, track listing added 02/04/10 by Dave Mallick

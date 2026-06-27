@@ -1,0 +1,40 @@
+Guster
+November 25th, 2011
+Wellmont Theatre, Montclair, NJ
+
+Master/Conversion:
+Microtech Gefell M210's>Oade M248>SBM-1>D8, D8>Tascam CDRW2000>CD
+by Jon Pasternak
+
+Conversion:
+CD>xACT 2.13 (cdparanoia)>WAV>FLAC, all tracks extracted with no errors.
+by Dave Mallick
+
+Disc 1 Total: [51:52.73]
+01. What You Wish For            [04:02.18]
+02. This Could All Be Yours      [03:52.74]
+03. Manifest Destiny             [03:29.01]
+04. Architects & Engineers       [03:20.14]
+05. Hercules                     [03:24.21]
+06. Homecoming King              [05:00.70]
+07. Two Points for Honesty       [04:01.55]
+08. Bad Bad World                [05:16.31]
+09. Demons                       [04:25.56]
+10. On the Ocean                 [04:37.58]
+11. Come Downstairs & Say Hello  [06:30.29]
+12. Do You Love Me               [03:51.21]
+
+Disc 2 Total: [54:25.20]
+01. Ramona                       [03:24.18]
+02. Satellite                    [05:00.63]
+03. banter: Water Song           [02:17.06]
+04. Red Oyster Cult              [03:39.44]
+05. Hang On                      [04:58.04]
+06. Airport Song                 [04:28.11]
+07. Barrel Of A Gun              [04:19.15]
+08. E1: Mona Lisa                [06:48.28]
+09.     banter                   [03:39.09]
+10.     Careful                  [04:00.13]
+11.     What You Call Love       [03:48.52]
+12.     Happier                  [04:47.74]
+13. E2: Jesus on the Radio       [03:13.58]

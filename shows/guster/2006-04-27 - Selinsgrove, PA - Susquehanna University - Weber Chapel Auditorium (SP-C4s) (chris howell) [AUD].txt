@@ -1,0 +1,86 @@
+Guster
+Weber Chapel Auditorium
+Susquehanna University 
+Selinsgrove , PA
+April 27, 2006
+
+Taper: Chris Howell <tapelive@foo.ro>
+Location : Row P, Seat 105
+Source : SP-C4's(cards,DIN, ~8')>MT2496 @ 16bit/44.1khz
+Transfer : MT2496>USB>Powerbook G4
+Processing: Sound Studio 3(normalized to -2db, fade in/out)  
+Conversion : Sound Studio 3(tracking)>xACT 1.57(flac level 8)
+
+SONGS
+
+Disc 1
+
+01 Intro                                00:43.00
+02 Ramona                               03:23.00
+03 Barrel of a Gun                      04:18.00
+04 Backyard                             03:55.00
+05 Careful                              04:57.00
+06 One Man Wrecking Machine             03:50.00
+07 Amsterdam                            04:26.00
+08 Two Points for Honesty               04:27.00
+09 Demons                               04:33.00
+10 Manifest Destiny                     04:23.00
+11 Come Downstairs and Say Hello        07:12.00
+12 Diane                                05:06.00
+
+Disc 1 Total: 51:13.00
+
+
+Disc 2
+
+01 New Underground                      03:00.00
+02 Joe Plays Early Guster (fall in two) 04:02.00
+03 Happier                              05:00.00
+04 Captain                              04:17.00
+05 Bongo Solo >                         02:05.00
+06 Airport Song                         04:33.00
+07 Where Is Joe                         04:25.00
+08 On My Own                            05:57.00
+09 Great Escape                         03:40.00
+10 I Spy                                05:31.00
+11 Jesus on the Radio                   02:27.63
+
+Disc 2 Total: 44:57.63
+
+Notes:
+Jesus on the Radio was done completely unplugged
+Big Thanks to Seth and Paul for helping me out with event staff!
+Thanks to Tim for riding up with me and helping me set up.
+
+
+*************************************************************
+PLEASE DO NOT DISTRIBUTE IN LOSSY FORMATS SUCH AS MP3 AND WMA
+SUPPORT BANDS THAT ALLOW TAPING 
+*************************************************************
+
+Fingerprints:
+guster2006-04-27-d1t01.flac:b2f9fd95b3107ab9c901429018f0eeab
+guster2006-04-27-d1t02.flac:3aee55ffc400e132795bc79780996f62
+guster2006-04-27-d1t03.flac:3c6c1d22758f353205f8e36592956a8a
+guster2006-04-27-d1t04.flac:bce1ce97c9c4db7dc8c574dff9eaedf9
+guster2006-04-27-d1t05.flac:71fe4155b60f8f5c3251ecf6cc2ef476
+guster2006-04-27-d1t06.flac:3178c490ee234b44929147caaea96efb
+guster2006-04-27-d1t07.flac:13585b05684bf75d835f7483c0de1e61
+guster2006-04-27-d1t08.flac:cd1255f4db729bdfc3d8b6c3d52710b2
+guster2006-04-27-d1t09.flac:9f4c7eff49a3bae3cefd0288e687aeb9
+guster2006-04-27-d1t10.flac:f32c2f07d32657d1dbd59ede82600ead
+guster2006-04-27-d1t11.flac:2e5cf4478f7e87027e6aef83a53dec7e
+guster2006-04-27-d1t12.flac:2e4a51a27ff6b93a534a76ee795707c5
+guster2006-04-27-d2t01.flac:456b35c5c625ce8a48064f3db31ab41d
+guster2006-04-27-d2t02.flac:40cddaa6927b1c7c9046af919820c2a9
+guster2006-04-27-d2t03.flac:d560d3f6a7001bd6264a5a77a13bbe1a
+guster2006-04-27-d2t04.flac:99f4bf1b3fdd62133dbc9fd551bcf1fa
+guster2006-04-27-d2t05.flac:f10da9636a0ae637ed0aa6a622d383d8
+guster2006-04-27-d2t06.flac:32d25bc208ae8493da7955cbd487218d
+guster2006-04-27-d2t07.flac:79f426dd62e6d629f706a1b4be8798e2
+guster2006-04-27-d2t08.flac:423eae0457869fb192dc15b995dc9752
+guster2006-04-27-d2t09.flac:f70b3bcdec6ee1b45103d495b38b4a74
+guster2006-04-27-d2t10.flac:591a7e232f572ad0d22c2fc88bfcd76f
+guster2006-04-27-d2t11.flac:a13b12c9ab762749547526d38decbeb1
+
+Compiled 7.23.6

@@ -1,0 +1,22 @@
+Guster
+January 15th, 2016
+Foundation Room at the House of Blues, Boston, MA
+
+Master:
+Church Audio CAFS> Tascam DR-07 (16bit/48kHz)
+by Dave Mallick
+
+Conversion:
+WAV>Sound Studio 4.7.8>xACT 2.36>FLAC
+by Dave Mallick
+
+01. interview           [05:45.667]
+02. Simple Machine      [04:13.940]
+03. Stay With Me Jesus  [03:42.925]
+04. Doin’ It By Myself  [05:00.113]
+05. Satellite           [08:17.091]
+                 Total: [26:59.736]
+ 
+Private "win your way in" show for WXRV-FM listeners. Mics were handheld
+at chest height in the back of the room due to last-minute arrival and
+cable tangling.

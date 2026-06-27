@@ -1,0 +1,52 @@
+Guster
+April 18th, 2012
+Lincoln Theatre, Washington, DC
+
+Master:
+M-Audio MicroTrack T-Mic>M-Audio MicroTrack II (16-bit/44.1kHz WAV)
+Location: 21 rows back from stage, left center aisle
+by Robert Ruszczyk
+
+Conversion:
+WAV>Audacity 1.3.14 beta (tracking)>FLAC
+by Beth Prins
+
+
+01. Solitary Man$
+02. Backyard
+03. Do You Love Me
+04. Rainy Day
+05. Diane
+06. Rise & Shine
+07. The Beginning of the End
+08. Long Way Down
+09. requests/dinner improv (Brian, Ryan)
+10. Eden/dinner improv (Adam)
+11. Stay With Me Jesus
+12. piggy banks
+13. Here Comes the Sun*/dinner improv (Luke)
+14. The Lady in Red#
+15. Window^
+16. Bad Bad World
+17. Come Downstairs and Say Hello
+18. Rocketship
+19. What You Call Love
+20. So Long
+21. Empire State
+22. Two Points for Honesty
+23. Either Way
+
+The last three songs of the night, "Satellite," "This Could All Be Yours" and "Jesus on the Radio" were not recorded due to space issues.
+   
+
+$ Neil Diamond cover, with Jeff Garlin on vocals.  Recording levels were not set yet, so there is clipping; this was fixed for the remainder of the concert.
+* Beatles cover
+# Chris de Burgh cover, requested by Ryan's mom
+^ unplugged and in the audience, with Charlene Huang on violin
+
+
+Notes:
+- Acoustic Tour with comedian Jeff Garlin.  Garlin left the theater after singing "Solitary Man" with Guster, so he is not present for any of the rest of Guster's set.
+- All songs feature The Guster String Players (Charlene Huang on violin and April Guthrie on cello) except tracks 9-16.
+- Glitch at 0:50 of track 23 ("Either Way"); a few seconds of audio missing.
+- Recorded from the audience, so there is some crowd noise.

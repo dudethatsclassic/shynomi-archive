@@ -1,0 +1,24 @@
+Guster
+April 5th, 2012
+Yak-Zies Bar & Grill (Wrigleyville)
+Chicago, IL
+
+Source:
+WXRT webstream>Audacity 1.2.6
+by Beth Prins
+
+Conversion:
+Audacity 1.3.14 beta (track)>FLAC
+by Beth Prins
+
+01. Satellite*
+02. The Beginning of the End*
+03. Interview
+04. This Could All Be Yours*
+05. Go Cubs Go#
+
+*with April (cello) and Charlene (violin)
+#with Jeff Garlin
+
+Notes:
+Performance was part of the Cubs Opening Day Live Broadcast on WXRT-FM.

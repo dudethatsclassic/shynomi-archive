@@ -1,0 +1,37 @@
+Guster
+September 7, 2002
+Amphitheatre at Regency Park
+Cary, NC
+
+Taper:		Andrew Gresko (gresko@nc.rr.com)
+Source: 	AT853's (cards) -> Batt Box -> AD-20 -> M1
+
+Location:	DFC, FOB, ORTF
+
+Conversion: 	Nick Gregory (ngregory@nc.rr.com)
+		PCM-R300  -> Audiophile 2496-> 
+		SoundForge 5.0 -> CD Wave 1.62 > MKWACT (shn)
+
+DO NOT CONVERT INTO MP3!!!
+
+Disc 1:
+
+01)	Intro			00:35.27
+02)	Happier			04:41.18
+03)	I Spy			04:21.64
+04)	What You Wish For	04:18.68
+05)	Ramona			03:11.21
+06)	Demons			04:27.03
+07)	Barrel of a Gun		04:23.52
+08)	unknown			07:08.56
+09)	Either Way		05:31.11
+10)	New Song 2		04:39.20
+11)	Airport Song		04:25.72
+12)	Center of Attention	04:56.11
+13)	Fa Fa			05:40.27
+			
+			Total	58:21.00
+
+	
+
+Compiled 9/13/02

@@ -1,0 +1,54 @@
+Guster 
+Petrillo Music Shell
+Chicago, IL US
+2009-07-04
+
+
+Lineage: fm (Onkyo TX8511)>SoundBlaster (Live! 24 bit External)>wav(CD Wave Editor @ 16bit)>flac
+
+Tracks:
+1. Intro by Lin Brehmer 1:07
+2. The Captain 3:30
+3. Barrel of a Gun 4:08
+4. Satellite 4:46
+5. Red Oyster Cult-->Don't Fear the Reaper 4:49
+6. Come Downstairs and Say Hello 6:16
+7. One Man Wrecking Machine 3:49
+8. Jonah (new song) 3:46
+9. Airport Song 4:43
+10. G Major (new song) 3:24
+11. Demons 4:25
+12. Center of Attention 4:13
+13. Hang On 4:37
+14. Umbrella Jam-->C'mon 4:25
+15. Manifest Destiny 3:23
+16. Amsterdam 3:48
+17. Fa Fa 5:43
+18. DJ Talk 0:45
+19. Keep It Together 4:54
+
+Total Time: 76:38
+
+st5 fingerprints:
+
+8a812e712d036a59cb4064fe78199a6e  [shntool]  01 Intro.flac
+fc57fe7003b6ea80337fbbd782b95e20  [shntool]  02 The Captain.flac
+d7a83ccc35d5556e56d3b7d49f472ee0  [shntool]  03 Barrel of a Gun.flac
+5c3c511c86140e393cbf6df515fb686c  [shntool]  04 Satellite.flac
+a6624260bcc01ef2389e3fa8a83f24ad  [shntool]  05 Red Oyster Cult - Don't Fear the Reaper.flac
+1fa5408ff3ddd00ebc28b50a1e3ab48c  [shntool]  06 Come Downstairs and Say Hello.flac
+ee993d2fc2a0df299cf3317ef1213d66  [shntool]  07 One Man Wrecking Machine.flac
+e373d92f727b6abaa944962190beb305  [shntool]  08 Jonah.flac
+3560c27d61265506067205f0b5090ee5  [shntool]  09 Airport Song.flac
+7d35f9a4a672532b1613d26b003bb277  [shntool]  10 G Major.flac
+cc9dc30686a89db2b204f55da009dfde  [shntool]  11 Demons.flac
+631eec097c3b2d5663451c136e74b8d4  [shntool]  12 Center of Attention.flac
+2f6b47fd962b11c82bbc481dda6f6b90  [shntool]  13 Hang On.flac
+7ce73b93cd3fd0dd02cea78ff5f5d3d1  [shntool]  14 Umbrella Jam - C'mon.flac
+a567778c7c3e0290c1c20247e2ba9555  [shntool]  15 Manifest Destiny.flac
+36862fde46ee3eba2d5c205d15bd8d40  [shntool]  16 Amsterdam.flac
+2f1b5e0475152ef814dd46a82d1fbbee  [shntool]  17 Fa Fa.flac
+1eaf6b5a8e99cb1bf89451e76667d78d  [shntool]  18 DJ Chatter.flac
+d29983ee15aea6d15c838c2f343eac40  [shntool]  19 Keep It Together.flac
+
+No errors occured.

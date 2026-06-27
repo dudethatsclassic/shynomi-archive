@@ -1,0 +1,25 @@
+Guster 
+June 19th, 2003
+Q Division Studios, Somerville, MA
+
+Master:
+FM>cass
+by Faye Cohen [redgoldfly@yahoo.com]
+
+Conversion:
+Cass(m)>Denon DR-M44HX>DA-20>Sound Studio 2.0.7>AIFF>shntool
+by Dave Mallick [greenone@bluestraveler.net]
+
+CD 1 [23:56.05] (minutes:seconds.frames) 
+01. Fa Fa                        [05:04.54]
+02. Ramona                       [03:15.28] 
+03. Amsterdam                    [03:52.45] 
+04. Jesus On The Radio           [02:28.49] 
+05. Barrel Of A Gun              [05:54.70] 
+06. Airport Song                 [03:19.59] 
+
+Notes:
+- Cassette sounded sped-up after transfer so I slowed it down 3% with
+  SoundEdit 16 and then resampled in Sound Studio.
+- Show was actually performed on June 19th but broadcast (with banter and
+  screw-ups edited out) on WBOS-FM (92.9) on June 20th.

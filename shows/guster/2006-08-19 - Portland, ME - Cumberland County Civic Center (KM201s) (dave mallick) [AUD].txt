@@ -1,0 +1,38 @@
+Guster
+August 19th, 2006
+Cumberland County Civic Center, Portland, ME
+
+Master:
+Elation KM201's (XY, 9' left side of FOH)>Lunatec V2>ADC-20>D8
+by Dave Mallick [greenone@bluestraveler.net]
+
+Conversion:
+Tascam DA-20>Egosys U2A>Sound Studio 2.1.1b3>AIFF>xACT 1.58
+by Dave Mallick [greenone@bluestraveler.net]
+
+Disc 1 [47:52.09] (minutes:seconds.frames)
+01. Careful                     [04:10.37]
+02. Manifest Destiny            [04:03.26]
+03. The Captain                 [03:25.61]
+04. Ramona                      [04:36.31]
+05. Satellite                   [04:43.63]
+06. The New Underground         [03:11.11]
+07. Demons                      [04:10.72]
+08. Center Of Attention         [04:51.62]
+09. Long Way Down               [04:58.39]
+10. Airport Song                [05:54.60]
+11. One Man Wrecking Machine    [03:44.72]
+
+Disc 2 [47:17.64]
+01. Come Downstairs & Say Hello [06:51.34]
+02. Barrel Of A Gun             [04:28.60]
+03. Ruby Falls                  [07:03.67]
+04. Amsterdam                   [05:02.46]
+05. Fa Fa                       [06:33.19]
+06. E: Lightning Rod            [03:01.08]
+07.    C'mon                    [04:45.11]
+08.    I Spy                    [05:00.70]
+09.    Happier                  [04:30.49]
+
+Notes:
+- Many thanks to Gordon for letting me run inside the FOH barrier!

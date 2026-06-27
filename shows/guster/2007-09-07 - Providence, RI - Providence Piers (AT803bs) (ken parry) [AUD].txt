@@ -1,0 +1,35 @@
+Guster
+September 7th, 2007
+Providence Piers, Providence, RI
+
+Master:
+AT803b's>battery box>D8 (front row)
+by Ken Parry
+
+Conversion:
+DA-20>U2A>Sound Studio 2.1.1b3>AIFF>xACT 1.4d1
+by Dave Mallick [greenone@bluestraveler.net]
+
+01. Happier                     [05:19.52]
+02. Manifest Destiny            [03:28.70]
+03. Backyard                    [03:49.01]
+04. Satellite                   [04:41.71]
+05. The Beginning Of The End    [03:19.39]
+06. Brazil                      [05:15.66]
+07. So Long                     [03:03.44]
+08. The Captain                 [03:37.39]
+09. Airport Song                [04:33.68]
+10. Hang On                     [04:35.64]
+11. Come Downstairs & Say Hello [09:09.16]
+12. One Man Wrecking Machine    [03:37.07]
+13. Amsterdam                   [05:48.34]
+14. Fa Fa                       [05:34.03]
+15. Ruby Falls                  [06:39.64]
+16. G Major                     [04:37.28]
+17. Demons                      [04:22.31]
+                         Total: [81:34.22]
+
+Notes:
+- Some bass overloading in spots early on.
+- Thanks to Ken for being crazy enough to take my gear and record from
+  the front row, surrounded by fellow fans!

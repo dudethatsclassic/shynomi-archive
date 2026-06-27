@@ -1,0 +1,42 @@
+Guster
+August 7th, 2009
+Newport Yachting Center, Newport, RI
+
+Master:
+Neumann KM150's>Lunatec V2>Graham-Patten ADC-20>Microtrack 24/96
+Dead center, at FOH position behind last row.
+by Dave Mallick
+
+Conversion:
+WAV>Sound Studio 2.1.1b3>xACT 1.69>FLAC
+by Dave Mallick
+
+Disc 1 [45:55.45] (minutes:seconds.frames)
+01. The Captain                           [04:09.59]
+02. One Man Wrecking Machine              [03:49.05]
+03. Red Oyster Cult>Don't Fear The Reaper [04:44.20]
+04. Backyard                              [03:14.23]
+05. Satellite                             [04:32.37]
+06. Barrel Of A Gun                       [04:48.00]
+07. Hang On                               [04:38.64]
+08. Come Downstairs & Say Hello           [07:24.28]
+09. Demons                                [04:01.16]
+10. Center Of Attention                   [04:33.18]
+
+Disc 2 [43:37.55]
+01. Diane                                 [03:57.35]
+02. Amsterdam                             [03:52.31]
+03. Manifest Destiny                      [03:23.21]
+04. Ruby Falls                            [06:31.10]
+05. C'mon                                 [04:34.34]
+06. Airport                               [05:28.48]
+07. E: Lightning Rod                      [03:36.27]
+08. Jonah                                 [03:59.67]
+09. Happier                               [04:58.14]
+10. You've Got A Friend                   [03:15.68]
+
+Note:
+- This recording is made and circulated with the caveat that Guster's
+  sound engineer Gordon thought the venue sounded like the animal
+  genitalia of your choosing, given the structure and the PA provided.
+  Sorry Gordon...it's what I do. It's in my nature.

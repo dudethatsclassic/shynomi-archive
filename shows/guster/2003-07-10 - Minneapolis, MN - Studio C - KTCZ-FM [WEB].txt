@@ -1,0 +1,15 @@
+Guster 
+July 10th, 2003
+Studio C, KTCZ-FM, Minneapolis, MN
+
+Master/SHN creation: 
+Webcast>Sound Studio 2.0.7>AIFF>shntool
+by Dave Mallick [greenone@bluestraveler.net]
+
+CD 1 [16:09.68] (minutes:seconds.frames) 
+01. Barrel Of A Gun              [07:24.24]
+02. Jesus On The Radio           [04:26.00] 
+03. Amsterdam                    [04:19.44] 
+
+Recording notes:
+- Sound is kind of watery; this is typical of webcasts.

@@ -1,0 +1,29 @@
+Guster 
+June 27th, 2003
+Scotti's Record Shop, Morristown, NJ
+
+Master creation: 
+Elation KM201's (DIN, cardioid)>Lunatec V2>D8
+by Rebecca Mallick
+
+SHNs were made: 
+Tascam DA-20>Egosys U2A>Sound Studio 2.0.7>AIFF>shntool
+by Dave Mallick [greenone@bluestraveler.net] 
+
+CD 1 [54:36.10] (minutes:seconds.frames) 
+01. Barrel Of A Gun              [05:22.71]
+02. I Spy                        [04:45.21] 
+03. Amsterdam                    [04:23.67] 
+04. Happier                      [05:00.64] 
+05. Airport Song                 [04:04.18] 
+06. Ramona                       [03:13.38] 
+07. (Nothing But) Flowers        [05:41.15] 
+08. Homecoming King              [04:05.12] 
+09. Demons                       [06:17.32] 
+10. Fa Fa                        [07:21.47] 
+11. E: Keep It Together          [04:20.00] 
+
+Notes:
+- Show actually played outside in Scotti's parking lot.
+- Ticks at 0:14 and 0:46 of track 11 may be from 
+  crowd; they are present on master.

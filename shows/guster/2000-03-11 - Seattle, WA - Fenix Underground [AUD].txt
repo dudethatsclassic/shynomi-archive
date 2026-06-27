@@ -1,0 +1,41 @@
+Guster
+March 11th, 2000
+Fenix Underground, Seattle, WA
+
+Master:
+Nakamich CM300's>D8
+by Brian VanOrnum
+
+Conversion:
+DA-20>emi 2|6>Sound Studio 2.1.1b3>AIFF>xACT 1.4d1
+by Dave Mallick [greenone@bluestraveler.net]
+
+Disc 1 [40:48.15] (minutes:seconds.frames)
+01. What You Wish For         [06:15.42]
+02. Bury Me                   [02:39.65]
+03. I Spy                     [06:31.46]
+04. Window                    [03:51.55]
+05. California Dreamin'       [02:52.47]
+06. Barrel Of A Gun           [03:27.29]
+07. All The Way Up To Heaven  [07:17.59]
+08. Fa Fa*                    [05:20.00]
+09. Hair Band Medley          [02:31.47]
+
+Disc 2 [42:05.15]
+01. Either Way                [05:04.25]
+02. Demons*                   [04:35.24]
+03. Airport Song              [04:22.62]
+04. So Long                   [04:41.50]
+05. Great Escape              [03:25.04]
+06. Happier                   [05:13.19]
+07. E: Medicine               [04:27.18]
+08.    Two Points For Honesty [05:37.50]
+09.    Rocketship             [04:37.63]
+
+* with members of Owsley
+
+Notes:
+- Due to low recording levels, entire show was normalized and left channel 
+  amplified 200%.
+- "Hair Band Medley" consisted of "Dead or Alive", "Sweet Child O'Mine"
+  and "Talk Dirty To Me" teases.

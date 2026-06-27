@@ -1,0 +1,45 @@
+Guster
+November 19th, 2005
+Nokia Theatre, New York, NY
+
+Master:
+Elation KM201's (XY)>Lunatec V2>Graham-Patten ADC-20>Sony TCD-D8
+by Dave Mallick [greenone@bluestraveler.net]
+
+Conversion:
+Tascam DA-20>Egosys U2A>Sound Studio 2.1.1b3>AIFF>xACT 1.5b1
+by Dave Mallick [greenone@bluestraveler.net]
+
+Disc 1 [64:57.00] (minutes:seconds.frames)
+01. Happier                      [05:31.65]
+02. Backyard                     [03:48.15]
+03. Satellite                    [05:11.47]
+04. Red Oyster Cult              [04:22.33]
+05. Parachute                    [05:06.58]
+06. Come Downstairs & Say Hello  [06:55.42]
+07. I Spy                        [04:42.44]
+08. Manifest Destiny             [04:46.10]
+09. Dear Valentine*              [04:56.28]
+10. Fa Fa*                       [05:45.56]
+11. Ramona                       [03:36.43]
+12. Two at a Time                [06:08.17]
+13. Great Escape#                [04:04.67]
+
+Disc 2 [64:24.14]
+01. Barrel of a Gun              [04:36.32]
+02. Two Points for Honesty       [04:31.37]
+03. Airport Song                 [05:14.25]
+04. E1: Rainy Day                [05:40.56]
+05.     One Man Wrecking Machine [03:49.25]
+06.     Amsterdam                [05:11.40]
+07.     Demons                   [08:48.34]
+08. E2: Jesus on the Radio       [02:16.61]
+09. Trippin' Balls               [24:15.04]
+
+* with Louis on French horn, CJ & Micah on trumpet
+
+Notes:
+- Sub-second diginoise removed at 0:42 of d2t02 by pasting right
+  channel over left channel.
+- d2t09 is the opening set by Trippin' Balls, whose members bear 
+  a striking resemblance to Guster.

@@ -1,0 +1,26 @@
+Guster
+June 24th, 1999
+Lafayette Square, Buffalo, NY
+
+Master:
+SBD>??>CD
+taper unknown
+
+Conversion:
+CD>xACT 2.15 (cdparanoia)>WAV<Sound Studio 4.2>xACT>FLAC
+by Dave Mallick
+
+01. Barrel Of A Gun      [04:22.43]
+02. Demons               [04:47.56]
+03. X-Ray Eyes           [04:08.56]
+04. What You Wish For    [04:14.14]
+05. Great Escape         [03:30.10]
+06. Airport Song         [03:58.15]
+07. I Spy                [03:26.21]
+08. Center Of Attention  [04:48.63]
+09. Bury Me              [02:45.37]
+                  Total: [36:02.15]
+                  
+Notes:
+- Tracks had 2 seconds of silence. I trimmed the silence and retracked.
+- Opened for Great Big Sea.

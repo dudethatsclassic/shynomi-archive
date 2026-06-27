@@ -1,0 +1,53 @@
+Guster
+August 4th, 2018
+Thompson's Point, Portland, ME
+
+Master:
+Elation KM201's>Lunatec V3>Microtrack II (24-bit/48kHz)
+by Dave Mallick
+
+Conversion:
+WAV>Sound Studio 4.8.14>xACT 2.46>FLAC
+by Dave Mallick
+
+01. Long Night                   [04:58.977]
+02. Careful                      [03:48.223]
+03. The Captain                  [03:49.146]
+04. Doing It By Myself           [04:26.077]
+05. I Spy                        [02:56.205]
+06. Endlessly                    [05:26.215]
+07. Backyard                     [03:05.369]
+08. Airport Song                 [05:36.984]
+09. Hello Mr. Sun*               [04:47.515]
+10. Red Oyster Cult*             [04:05.453]
+11. the band moves to stage 2    [04:54.360]
+12. So Long                      [03:09.269]
+13. Demons                       [04:45.426]
+14. Amsterdam                    [03:56.892]
+15. the band moves back          [02:13.340]
+16. Hang On                      [06:13.202]
+17. Come Downstairs & Say Hello  [06:10.584]
+18. Do You Love Me?              [04:01.872]
+19. Happier                      [04:06.104]
+20. Diane                        [04:15.878]
+21. Architects & Engineers       [02:57.154]
+22. Barrel Of A Gun              [04:32.120]
+23. This Could All Be Yours#     [05:07.045]
+24. E: Lightning Rod             [04:23.611]
+25.    Satellite$                [05:12.084]
+26.    Come On Eileen$           [04:09.820]
+                         Total: [113:08.923]
+
+Night 2 of Guster's "On the Ocean" festival. 
+Rest Assured, Kishi Bashi and Secret Sisters opened.
+
+* with Brian Graham (saxophone), Jamie Colpoys (trombone) and Emma
+  Stanley (trumpet) of The Fogcutters
+# with the Guster children on stage; Ryan's son on drums
+$ with Kaoru Ishibashi, aka Kishi Bashi, on violin
+
+Track 1 fades in and is courtesy of Brian Hracyk, who captured an mp3 while I was dealing with rain-induced equipment failure.
+
+Tracks 12-14 were performed semi-acoustic at a small stage next to the soundboard. The band and crew carried Adam there on a paddleboard, while he pretended to paddle through the crowd.
+
+This is far from a clean recording. The weather was threatening all day, and finally the heavens opened between Secret Sisters and Guster. Unfortunately, despite my best efforts, my V3 got some moisture inside it and it would not send out a signal that my deck could understand once the rain stopped. I finally decided to run it hot at 12V in hopes that it would cook off the moisture, and it ended up behaving with about 30 seconds left in the first song. Even so, the levels are extremely low, and there are occasional pops and dropouts in the left channel throughout. However, it's the only recording of the show that I'm aware of, so here it is.

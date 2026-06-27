@@ -1,0 +1,35 @@
+Guster
+January 28th, 2008
+Ships & Dip III, Carnival Victory
+
+Master:
+AT803b's>battery box>D8
+by Bunnie Lebowski
+
+Conversion:
+DA-20>U2A>Sound Studio 2.1.1b3>AIFF>xACT 1.61
+by Dave Mallick [greenone@bluestraveler.net]
+
+01. The Captain                 [04:01.26]
+02. Center Of Attention         [04:36.69]
+03. Satellite                   [04:37.70]
+04. Manifest Destiny            [03:25.34]
+05. Broken Bass Pedal Jam       [02:40.41]
+06. One Man Wrecking Machine    [03:52.36]
+07. The New Underground         [03:43.18]
+08. Keep It Together            [05:03.43]
+09. Either Way                  [04:57.44]
+10. Amsterdam                   [06:29.30]
+11. C'mon                       [04:10.16]
+12. Ruby Falls                  [07:22.60]
+13. Hang On                     [04:50.64]
+14. Happier                     [06:15.01]
+15. Airport Song                [05:44.57]
+16. On My Own                   [06:36.73]
+17. Brandy (You're A Fine Girl) [04:36.69]
+18. E: Jesus On The Radio       [02:05.44]
+                         Total: [85:11.45]
+
+Notes:
+- Levels get bumped up between Happier and Airport Song, so the three songs
+  after that are quite oversaturated when the bass drum kicks in.

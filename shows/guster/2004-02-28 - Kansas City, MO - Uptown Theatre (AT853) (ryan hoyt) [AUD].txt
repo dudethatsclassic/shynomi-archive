@@ -1,0 +1,36 @@
+Guster
+Uptown Theatre
+Kansas City, MO
+February 28th, 2004
+
+Taper:		Ryan Hoyt ( hoytr2@yahoo.com )
+Equipment:	at853* > mp-2 > mod sbm-1 @ 44.1 > d100
+Location:	Inside soundboard fence, stand 15 ft, mics XY
+DAT > SHN:	d100 > AOpen aw-850 > CDWave > SHNtool
+
+*** Please do not encode to lossy formats such as MP3 ***
+
+d01 - 43:41.05
+d01t01	Intro			01:19.13
+d01t02	Happier			05:01.25
+d01t03	Careful			04:25.70
+d01t04	Flowers			05:50.60
+d01t05	Demons			04:53.12
+d01t06	Keep It Together	04:55.51
+d01t07	Amsterdam		04:39.27
+d01t08	Come Downstairs		07:57.44
+d01t09	What You Wish For	04:38.03
+
+d02 - 38:44.23
+d02t01	Romana			03:31.71
+d02t02	Airport Song		03:32.04
+d02t03	Barrel Of A Gun		04:55.50
+d02t04	I Spy			05:56.41
+d02t05	Backyard		03:51.47
+d02t06	Center Of Attention	04:43.54
+d02t07	Homecoming King		05:56.10
+d02t08	Fa Fa			06:16.46
+
+Notes:
+ * Sound pro models modified to perform on 48v phantom power
+d to perform on 48v phantom power

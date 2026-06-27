@@ -1,0 +1,37 @@
+Guster
+August 11th, 2017
+Bay Mist cruise boat, Casco Bay, Portland, ME
+
+Master:
+Elation KM201's>Lunatec V3>Microtrack II (24-bit/48kHz)
+by Dave Mallick
+
+Conversion:
+WAV>Sound Studio 4.8.4>xACT 2.38>FLAC
+by Dave Mallick
+
+01. Keep It Together               [05:41.336]
+02. Homecoming King                [05:16.109]
+03. Rocketship                     [05:03.359]
+04. C'mon                          [05:26.558]
+05. Diane                          [05:27.280]
+06. Simple Machine                 [03:27.053]
+07. Mona Lisa                      [05:26.759]
+08. Gangway                        [03:59.191]
+09. This Could All Be Yours        [05:19.752]
+10. Escape (The Pina Colada Song)  [05:19.737]
+11. Margaritaville                 [04:21.023]
+12. Ride Like The Wind             [03:57.736]
+13. Kokomo                         [04:23.988]
+14. Listen To The Music            [04:37.132]
+                            Total: [67:47.012]
+                            
+Notes:
+- Guster played on a Casco Bay cruise boat for 200 fans as part of their "On The 
+  Ocean" 25th anniversary weekend. The first nine songs were a regular set, 
+  while the final five were a string of "yacht rock" covers that they worked up
+  for the occasion.
+- Ceilings were at 7 feet so the mics had to run around head height; my stand 
+  was in front of a pole about 30 feet back from the stage, even with the left
+  speakers.
+  

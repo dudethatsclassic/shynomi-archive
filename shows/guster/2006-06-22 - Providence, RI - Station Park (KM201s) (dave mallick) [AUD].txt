@@ -1,0 +1,35 @@
+Guster
+June 22nd, 2006
+Station Park, Providence, RI
+
+Master:
+Elation KM201's>Lunatec V2>Graham-Patten ADC-20>Sony TCD-D8
+by Dave Mallick [greenone@bluestraveler.net]
+
+Conversion:
+Tascam DA-20>Egosys U2A>Sound Studio 2.1.1b3>AIFF>xACT 1.58
+by Dave Mallick [greenone@bluestraveler.net]
+
+CD 1 [79:56.09] (minutes:seconds.frames)
+01. The Captain                 [04:04.72]
+02. Demons                      [04:22.15]
+03. Center Of Attention         [04:55.62]
+04. Diane                       [04:34.73]
+05. The New Underground         [02:49.45]
+06. Great Escape                [04:00.62]
+07. I Spy                       [04:36.24]
+08. Manifest Destiny            [03:43.74]
+09. Careful                     [04:13.56]
+10. Come Downstairs & Say Hello [07:37.44]
+11. Red Oyster Cult             [04:04.23]
+12. Harmonica Hoedown           [01:59.33]
+13. One Man Wrecking Machine    [03:41.18]
+14. Amsterdam                   [03:46.37]
+15. Barrel Of A Gun             [05:28.00]
+16. Airport Song                [05:06.66]
+17. E: Hang On                  [06:00.42]
+18.    Happier                  [04:49.13]
+
+Notes:
+- Record release party for "Ganging Up On The Sun".
+- Some minor phase-shifting due to the wind.

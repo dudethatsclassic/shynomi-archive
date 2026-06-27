@@ -1,0 +1,45 @@
+Guster
+January 26th, 1996
+The MUB, University of New Hampshire, Durham, NH
+
+Master:
+SBD>Cassette master>??>WAV
+master by Dave Zbikowski; cass>WAV by David Becker
+
+Conversion:
+WAV>Sound Studio 2.1.1b3>AIFF>xACT 1.58
+by Dave Mallick [greenone@bluestraveler.net]
+
+Disc 1 [47:37.12] (minutes:seconds.frames)
+01. ...Pantomime            [04:00.07]
+02. Love For Me             [04:25.12]
+03. Bury Me                 [02:50.19]
+04. Mona Lisa               [04:07.60]
+05. Down In It              [04:02.52]
+06. The Prize               [03:29.20]
+07. Dissolve                [05:19.24]
+08. Melanie                 [05:13.42]
+09. Happy Frappy            [04:21.41]
+10. Dregs                   [07:24.19]
+11. Rain//                  [02:23.16]
+
+Disc 2 [45:03.42]
+01. ...Grin                 [06:16.26]
+02. Window                  [04:36.03]
+03. La Ti Da                [04:30.28]
+04. Fall In Two*            [04:13.49]
+05. Scars & Stitches        [03:15.32]
+06. Killing In The Name     [04:59.61]
+07. Parachute               [04:54.18]
+08. Cocoon                  [07:09.29]
+09. E: Lionel Richie Medley [05:08.21]
+
+* with Mark Moskovitz (who played in Brian's high school band, 
+  "Toe Jamb") on mandolin
+
+Notes:
+- Rain cuts out several times around the tape flip and the end is
+  missing; Grin cuts in slightly. Tape also stopped briefly after 
+  Killing In The Name.
+- Many, many thanks to both Dave Z and David B for hanging onto this
+  tape for over ten years and then bringing it to light again!

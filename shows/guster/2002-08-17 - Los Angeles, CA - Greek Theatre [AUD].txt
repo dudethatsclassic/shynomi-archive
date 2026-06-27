@@ -1,0 +1,28 @@
+Guster
+August 17th, 2002
+Greek Theatre, Los Angeles, CA
+
+Master:
+unknown, possibly Schoeps CCM4s>SX-M2>Oade mod SBM-1>D8>CD
+
+Extraction/Tracking:
+CD>xACT 2.00 (cdparanoia)>WAV>Sound Studio 4.2 (retrack)>xACT>FLAC
+all tracks extracted with no errors
+by Dave Mallick
+
+01. What You Wish For         [04:42.13]
+02. Happier                   [04:15.50]
+03. New Song 2                [05:04.73]
+04. All The Way Up To Heaven  [05:41.66]
+05. Great Escape              [03:24.40]
+06. Either Way                [05:03.27]
+07. I Spy                     [04:58.57]
+08. Center Of Attention       [04:35.65]
+09. Ramona                    [03:04.62]
+10. Airport Song              [03:37.62]
+11. Homecoming King           [04:12.29]
+12. Barrel Of A Gun           [04:57.52]
+13. Fa Fa                     [05:25.09]
+                       Total: [59:05.05]
+
+Opening set for John Mayer.

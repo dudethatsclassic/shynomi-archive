@@ -1,0 +1,44 @@
+Guster
+July 15th, 2003
+Big Easy Concert House, Boise, ID
+
+Master:
+Sony ECM-MS907>Sony MZ-R37 MD
+MZ-R37>line in>Felt Tip Sound Studio>AIFF>CD
+by Andy Watts
+
+Conversion:
+CD > xACT 2.50 (cdparanoia) > WAV > Sound Studio 4.9.6 > xACT 2.50 > FLAC
+by Dave Mallick
+
+01. I Spy                             [05:36.63]
+02. Barrel Of A Gun                   [03:47.29]
+03. Demons                            [04:35.10]
+04. Careful                           [03:52.18]
+05. Amsterdam                         [03:34.59]
+06. Keep It Together                  [04:56.22]
+07. All The Way Up To Heaven          [05:29.36]
+08. Airport Song                      [03:42.63]
+09. What You Wish For                 [04:01.31]
+10. Come Downstairs & Say Hello       [07:00.58]
+11. Either Way                        [05:39.60]
+12. Ramona                            [02:57.16]
+13. (Nothing But) Flowers             [04:56.21]
+14. Medicine                          [04:45.69]
+15. Fa Fa                             [07:34.44]
+16. E: I Hope Tomorrow Is Like Today  [03:23.52]
+17.    Two Points For Honesty         [04:00.68]
+18.    Happier                        [06:08.67]
+19.    Jesus On The Radio             [02:18.65]
+                               Total: [88:23.26]
+
+I found these unlabeled CDs in a box so I'm giving my best guess as to
+source info. Andy recorded the in-store in Boise earlier that day, so
+he's the most likely candidate. There is also a significant level change
+before Medicine, likely due to a MiniDisc change an hour into the show.
+
+First performance of "I Hope Tomorrow Is Like Today" without Ben Kweller.
+
+First time headlining in Idaho.
+
+"Medicine" is billed as the the "jazz/Journey version".

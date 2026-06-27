@@ -1,0 +1,50 @@
+Guster
+August 8th, 2011
+Central Park Summerstage, New York, NY
+
+Master:
+Elation KM201's>Lunatec V3>Microtrack 24/96 (24-bit, 48kHz WAV)
+8' left of center, 50' from stage
+by Dave Mallick
+
+Conversion:
+WAV>Sound Studio 2.2.4>xACT 2.13>FLAC
+by Dave Mallick
+
+01. What You Wish For                            [04:20.540]
+02. This Could All Be Yours                      [03:51.886]
+03. Homecoming King                              [04:54.053]
+04. Manifest Destiny                             [03:18.163]
+05. Architects & Engineers                       [03:34.557]
+06. Ramona                                       [03:12.680]
+07. Satellite                                    [05:24.960]
+08. What You Call Love                           [04:10.787]
+09. Barrel Of A Gun                              [03:31.760]
+10. On The Ocean                                 [04:41.013]
+11. Come Downstairs & Say Hello                  [06:29.040]
+12. One Man Wrecking Machine                     [03:47.240]
+13. Airport Song                                 [04:59.413]
+14. Demons                                       [04:04.507]
+15. Center Of Attention                          [04:31.853]
+16. This Is How It Feels To Have A Broken Heart  [03:46.160]
+17. Amsterdam                                    [04:06.289]
+18. Happier                                      [04:37.297]
+19. Hang On                                      [05:23.101]
+20. E: Careful*                                  [04:04.032]
+21.    Young Folks#                              [05:19.133]
+                                          Total: [92:08.467]
+   
+* with Andrew McMahon (Jack's Mannequin) on keys and vocals
+# Peter, Bjorn & John cover, with Andrew McMahon on vocals
+
+Notes:
+- This recording is dedicated to Alec Baldwin, who my wife bumped into
+  on her way out of the bathroom at Via Quadronno. Tasty sandwiches
+  and fascinating clientele.
+- Thanks to Jon Pasternak for reserving space for us and running
+  interference at the gate for tapers. Thanks also to Nick Klepesch
+  for keeping my wife company as she worked her way up to a front
+  row spot.
+  
+This is a 24-bit, 48kHz recording and is not suitable for burning to CD.
+A 16-bit, 44.1kHz recording is available.

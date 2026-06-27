@@ -1,0 +1,31 @@
+Guster
+WVU Coliseum
+Morgantown, WV	
+March 11, 2004
+
+Taper:		Ian White <ian.white@adelphia.net>
+Location:	Floor, Row Q, Seat 1 (rear floor/left stack)
+Source:		Sennheiser MKH-800s @ ~ 9' (hypers/A-B) > Lunatec V3 >
+		Benchmark AD2402-96 @ 24/96 > RME Multiface >
+		Sony Vaio PCG-SRX87 > n-Track 3.3
+Conversion:	Goldwave 5.06 > CDWAV 1.93 > Wavelab 4.01 > shntool 1.2.3 > md5sum
+
+
+** DO NOT CONVERT TO MP3 OR OTHER LOSSY FORMAT **
+
+Total: 44:48
+01	Intro			00:18
+02	Happier			04:54
+03	Flowers			05:16
+04	Keep It Together	04:18
+05 	Airport ->		03:12
+06	Barrel			04:56
+07	Downstairs		06:53
+08	Demons			05:07
+09	Amsterdam		04:21
+10	Fa Fa			05:30
+
+-> Indicates a segue into the next song
+
+
+Compiled by Ian 

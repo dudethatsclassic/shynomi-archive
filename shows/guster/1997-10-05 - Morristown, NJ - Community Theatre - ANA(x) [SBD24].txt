@@ -1,0 +1,35 @@
+Guster
+October 5th, 1997
+Community Theatre, Morristown, NJ
+
+Master:
+SBD > Cass(x)
+taper unknown, tape provided by Rob Fleissner
+
+Conversion:
+Nakamichi CR-2A > Lunatec V3 (A/D) > Tascam DR-100 mkIII >
+WAV > Sound Studio 4.9.6 > xACT 2.50 > FLAC
+by Dave Mallick
+
+01. Great Escape            [03:10.027]
+02. Demons                  [04:23.352]
+03. Closer                  [04:53.330]
+04. Fall In Two             [05:50.357]
+05. Rocketship              [04:23.772]
+06. Bury Me                 [03:16.408]
+07. Airport Song *          [03:18.038]
+08. Mona Lisa               [05:47.686]
+09. Happy Frappy            [03:28.329]
+10. Eden                    [03:56.223]
+11. Dissolve                [05:22.068]
+12. Barrel Of A Gun         [03:33.925]
+13. Scars & Stitches        [03:52.525]
+14. X-Ray Eyes #            [04:38.599]
+15. Dregs                   [07:41.781]
+16. E: Killing In The Name  [03:57.469]
+17.    Parachute            [04:19.905]
+18.    Cocoon               [06:53.641]
+                     Total: [82:47.434]
+ 
+* with Ward Williams (Jump, Little Children) on cello
+# with Dan Myers (From Good Homes) on saxophone

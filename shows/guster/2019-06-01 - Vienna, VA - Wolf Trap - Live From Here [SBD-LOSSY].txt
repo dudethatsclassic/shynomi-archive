@@ -1,0 +1,15 @@
+Guster 
+June 1st, 2019
+Wolf Trap
+Vienna, VA
+Live From Here
+
+Location:	Soundboard
+
+Source: Live From Here > MP3
+Lineage: MP3 > ffmpeg (track split) > MP3
+
+01. Guster - Hard Times
+02. Guster - Satellite (with Chris Thile)
+03. Guster - Crying, Laughing, Loving, Lying
+04. Guster - Bad Bad World (with Chris Thile) 

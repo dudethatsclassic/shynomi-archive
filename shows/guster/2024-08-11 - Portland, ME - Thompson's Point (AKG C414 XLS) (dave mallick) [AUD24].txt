@@ -1,0 +1,48 @@
+Guster
+On The Ocean Festival, night 3
+August 11th, 2024
+Thompson's Point, Portland, ME
+
+Master:
+AKG C414 XLS (hypercard) > Lunatec V3 > Tascam DR-100 mkIII (24/48)
+At FOH tent, dead center, stand at 10'
+by Dave Mallick
+
+Conversion:
+Tascam DR-100 mkIII > WAV > Sound Studio 4.10.1 > xACT 2.51 > FLAC
+by Dave Mallick
+
+-----Lost & Gone Forever set-----
+01. What You Wish For         [05:12.912]
+02. Barrel Of A Gun           [03:57.507]
+03. Either Way                [05:09.725]
+04. Fa Fa *                   [06:34.543]
+05. I Spy                     [03:28.800]
+06. Center Of Attention       [04:28.663]
+07. All The Way Up To Heaven  [05:29.690]
+08. Happier                   [05:47.824]
+09. So Long                   [04:59.764]
+10. Two Points For Honesty    [04:47.571]
+11. Rainy Day                 [05:44.692]
+-----Second set-----
+12. Long Night                [06:03.753]
+13. Happy Frappy              [04:22.139]
+14. What You Call Love *      [04:01.738]
+15. Hello Mister Sun *        [04:21.285]
+16. Black Balloon             [03:18.338]
+17. One Man Wrecking Machine  [03:49.341]
+18. Airport Song              [04:45.472]
+19. Architects & Engineers    [02:59.531]
+20. Amsterdam                 [04:00.249]
+21. Ryan thanks everyone      [03:29.556]
+22. This Could All Be Yours # [04:39.111]
+23. E: Keep It Together       [04:45.534]
+                      Total: [106:17.738]
+
+* with Levi Gillis (saxophone) and Brennan Carter (trumpet) from The Dip
+# with the Gusterkids
+
+On track 21, Ryan thanks their crew, office, and everyone else involved
+with the incredible shows they've been able to play over the last year,
+including the fan base that has given them the confidence and comfort level
+to try new, weird, oddball things.

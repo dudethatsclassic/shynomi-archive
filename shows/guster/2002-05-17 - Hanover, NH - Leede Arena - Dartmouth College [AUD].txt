@@ -1,0 +1,33 @@
+Guster
+May 17th, 2002
+Leede Arena, Dartmouth College, Hanover, NH
+
+Master:
+Audio Technica AT853's > battery box > Sony TCD-D8
+by Dave Mallick
+
+Conversion:
+Tascam DA-20 > Tascam DR-100 mkIII > WAV >
+Sound Studio 4.9.6 > xACT 2.48 > FLAC
+by Dave Mallick
+
+01. Happier                        [04:46.20]
+02. Great Escape                   [04:31.35]
+03. Barrel Of A Gun                [04:27.66]
+04. X-Ray Eyes                     [05:04.21]
+05. Window                         [04:18.38]
+06. What You Wish For              [03:53.59]
+07. New Song 2                     [05:02.06]
+08. All The Way Up To Heaven       [06:33.36]
+09. California Dreamin'            [02:40.15]
+10. Airport Song                   [04:06.54]
+11. Either Way                     [05:58.50]
+12. Jesus On The Radio             [02:22.21]
+13. Center Of Attention            [04:29.47]
+14. Demons                         [05:24.57]
+15. Fa Fa                          [08:30.55]
+16. E: Ramona                      [03:22.24]
+17.    I Spy                       [04:50.25]
+18.    Bridge Over Troubled Water  [03:35.13]
+                            Total: [83:58.42]
+

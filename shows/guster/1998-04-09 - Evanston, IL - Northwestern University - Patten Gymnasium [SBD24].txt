@@ -1,0 +1,32 @@
+Guster
+April 9th, 1998
+Suitcase Party to benefit Hilda's Place
+Patten Gymnasium, Northwestern University, Evanston, IL
+
+Master:
+DAT-SBD > Cass(1)
+taper unknown
+
+Conversion:
+Nakamichi CR-2A > Lunatec V3 (A/D) > Tascam DR-100 mkIII > 
+WAV > Sound Studio 4.10.1 > xACT 2.50 > FLAC
+by Dave Mallick
+
+01. Demons           [05:31.305]
+02. Fall In Two      [04:29.450]
+03. Grin             [05:17.451]
+04. X-Ray Eyes       [04:00.783]
+05. Window           [03:24.547]
+06. giveaway banter  [02:56.106]
+07. Bury Me          [03:11.837]
+08. Parachute        [04:40.967]
+09. Closer           [04:29.872]
+10. Barrel Of A Gun  [04:01.326]
+11. Happy Frappy     [03:09.921]
+12. giveaway banter  [03:34.981]
+13. Airport Song     [03:30.084]
+14. Mona Lisa        [05:05.471]
+15. Great Escape     [04:22.219]
+16. E: Rocketship    [04:53.557]
+17.    Dregs         [05:06.867]
+              Total: [71:46.745]

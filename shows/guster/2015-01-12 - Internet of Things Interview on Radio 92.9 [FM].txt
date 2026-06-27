@@ -1,0 +1,20 @@
+
+Interview on Radio 92.9, recorded from the Internet of Things
+
+2015-01-12
+
+01. Interview
+02. Long Night
+03. Sattelite  
+04. Interview
+05. Doin' it By Myself
+06. Interview
+07. Simple Machine
+08. Interview 
+
+
+I cut out about a half second of mic noise after Satellite
+
+There was some level fluctuation in Doin' it By Myself and you can hear some distortion that came from the source; before a big level drop. I tried to compensate with some post processing.
+
+Sorry about the Facebook notification bleeps on the recording.

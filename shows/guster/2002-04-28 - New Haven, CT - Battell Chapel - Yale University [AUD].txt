@@ -1,0 +1,29 @@
+Guster
+April 28th, 2002
+Battell Chapel, Yale University, New Haven, CT
+
+Master:
+AUD>??>CD
+by Rory Mason
+
+Extraction/Tracking:
+CD>xACT 2.00 (cdparanoia)>WAV>Sound Studio 4.2 (retrack)>xACT>FLAC
+all tracks extracted with no errors
+by Dave Mallick
+
+01. Barrel Of A Gun     [04:50.13]
+02. Jesus On The Radio  [02:55.62]
+03. Airport Song        [03:19.23]
+04. I Spy               [03:33.52]
+05. Mona Lisa           [05:58.69]
+06. Either Way          [05:29.09]
+07. Happier             [04:59.31]
+08. Demons              [04:40.63]
+                 Total: [35:47.22]
+
+Notes:
+- Yale University's "Spring Concert" was supposed to be held outside on the quad 
+  but rain canceled the event. Guster moved indoors and played this completely 
+  acoustic set to a crowd of ~300 in a small campus chapel, which was especially 
+  cool because their concert rider said they didn't even have to perform, and 
+  would still get paid, if the show was rained out.

@@ -1,0 +1,96 @@
+Guster
+April 26th, 2002
+McCann Center
+Marist College
+Poughkeepsie, NY
+
+Taper:		Oysterhead <Oysterhead00@hotmail.com>
+Source:		AT853s (SP-CMC-8) > SPSB-2 (@16Hz) > Sony TCD-D8
+Location:	Approx 30' Back, Right of Stage
+Transfer:	Sony TCD-D8 > Sony RM-DK3 > Toslink > Dio 2448
+Encoding:	Dio 2448 > SoundForge > WAV > CDWAV > MKWACT > SHN
+
+
+Disc 1
+01.  Intro				01:36.16
+02.  What You Wish For			03:57.54
+03.  Crash*				00:51.52
+04.  I Spy				04:20.38
+05.  X-Ray Eyes				03:49.48
+06.  We're Guster And We're Old+	01:54.41
+07.  Bury Me				03:48.43
+08.  All The Way Up To Heaven#		05:46.11
+09.  Massachusettes^			05:14.68
+10.  Parachute				05:41.46
+11.  Barrel Of A Gun			04:28.61
+12.  Center Of Attention		04:11.10
+------------------------------------------------
+Total					45:34.38
+
+Disc 2
+01.  Airport Song			04:18.23
+02.  Too High, Too Wide^		03:28.10
+03.  Either Way				05:02.68
+04.  Parachute Vote+			01:31.35
+05.  Happy Frappy (Sort Of)		02:39.08
+06.  Great Escape			03:07.15
+07.  Demons				04:54.01
+08.  We Do Encores+			01:38.39
+09.  Fa Fa@				06:26.45
+10.  Ramona				03:30.16
+11.  Happier				04:34.45
+12.  Mona Lisa%				03:50.41
+13.  Outro				00:58.72
+------------------------------------------------
+Total					46:30.42
+
+
+NOTES:
+*  DMB tease
++  Improv
+#  With Ryan on harmonica
+^  Song of their upcoming album so I guessed the titles
+@  Includes encore break
+%  With Brian on vocals
+
+The only digital editing done was the fades at the start and end of each CD.
+
+Approximately 43 seconds into Happy Frappy there is a digital hiccup.  It is
+present on my DAT master and I don't know what caused it.  I chose to leave it
+as it was.
+
+Transfered, Encoded, and Compiled by Oysterhead on April 27th, 2002.
+******************************************************************************
+*DO NOT SELL! DO NOT CONVERT TO MP3! PLEASE INCLUDE THIS FILE WITH ALL TRADES*
+******************************************************************************
+**************http://www.geocities.com/oysterhead00/shnlist.html**************
+******************************************************************************
+
+
+MD5 - FILE INTEGRITY SIGNATURE LIST
+-----------------------------------
+66b227abf43ce62035879e5c04defef1 *guster2002-04-26d1t01.shn
+e4d507e7e52b002921b70c928aaccad6 *guster2002-04-26d1t02.shn
+b8ad5d12f9795d502647348e90567ad3 *guster2002-04-26d1t03.shn
+9ab79e9bfd9c0f6794209e5b537c4320 *guster2002-04-26d1t04.shn
+0f8ebd89ea7ef92dc360f7fb2aa4e390 *guster2002-04-26d1t05.shn
+e4e4819f3c943e3bf397b58a06fc3459 *guster2002-04-26d1t06.shn
+38b5f3b0a3eca27a44ea621ed48d714c *guster2002-04-26d1t07.shn
+ccb36cd4b5d2a396949008a4b15c2663 *guster2002-04-26d1t08.shn
+1c5da391884f3aa04bc13e241c30abf7 *guster2002-04-26d1t09.shn
+f3145de2ec8234b0393434326d0ad413 *guster2002-04-26d1t10.shn
+222cc2d798b0261f2814a1ac5f42c600 *guster2002-04-26d1t11.shn
+e92f6b761ad5cdc0b64f7e3b8e4edb3f *guster2002-04-26d1t12.shn
+9423210d3caf1081f32a975e15607df8 *guster2002-04-26d2t01.shn
+7f75e2c90dc499e3efceb911d64de19f *guster2002-04-26d2t02.shn
+cfda88d281ec127974c86570db1d8c0d *guster2002-04-26d2t03.shn
+c1078679ae4c6c22b36827a3e2da4fa4 *guster2002-04-26d2t04.shn
+866a900a551da875c3fe6bd5adb74f5e *guster2002-04-26d2t05.shn
+5202c6e35f24bf302352abfc05735ac3 *guster2002-04-26d2t06.shn
+5a322dc27319698ecce8b8a6c14ec9bd *guster2002-04-26d2t07.shn
+8fb96b1ee5a71d860bda8487955e8b23 *guster2002-04-26d2t08.shn
+de7efab4a874a46563607962336e1466 *guster2002-04-26d2t09.shn
+0033e4a38093b4bc18f4a0427f2f3fcf *guster2002-04-26d2t10.shn
+078248dae3162ba05dcaee0a032fd4cc *guster2002-04-26d2t11.shn
+f01313faca2142b6a00389c6ed3a1cf6 *guster2002-04-26d2t12.shn
+36baf197fd5a0158c166e6d2e9519e6f *guster2002-04-26d2t13.shn

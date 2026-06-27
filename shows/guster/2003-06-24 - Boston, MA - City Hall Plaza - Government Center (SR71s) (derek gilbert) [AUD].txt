@@ -1,0 +1,32 @@
+Guster
+City Hall Plaza (Government Center)
+Boston, MA
+2003-06-24
+
+Taper:	Derek Gilbert (dgillyerek@prettytheworld.com)
+
+Source: Earthworks sr71's -> UA-5 -> IBM A31
+Location: Left of board ~80' stand 7'
+Conversion: Cooledit (see notes) -> wav -> shn
+
+
+01: Intro				01:41.235
+02: Barrel of a Gun			03:55.532
+03: Happier				05:13.207
+04: Homecomming King			03:40.104
+05: Airport Song			03:56.047
+06: Ramona				03:03.646
+07: What You Wish For			04:50.428
+08: (Nothing but) Flowers *		05:09:970
+09: Demons				05:09.461
+10: Amsterdam				04:49.922
+-encore-		
+11: Fa Fa 				06:11.993
+					---------
+total					48:11.550
+
+
+* Talking Heads
+
+Notes:
+Capture, EQ ( < 100Hz + 9dB), Tracking

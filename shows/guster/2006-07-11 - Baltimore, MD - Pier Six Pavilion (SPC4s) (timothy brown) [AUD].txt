@@ -1,0 +1,52 @@
+Guster
+July 11th, 2006
+Pier Six Pavilion
+Baltimore, MD
+
+Taper: Timothy Brown (timothydavidbrown@gmail.com)
+Location: DFC, just behind SBD
+Source: SPC4's(Cardioids,-10db pad,NOS,~8'on stand)->PS2->AD20->JB3(Optical In)
+Transfer: JB3->Firewire->PC
+Processing: "Reduce Peaks" Compressor applied using GoldWave 5.10. Normalizing (to -0.1db), fade in and fade out applied using SoundForge 8.0. 
+Conversion: CDWav 1.93.3 for track splitting; FLAC frontend 1.7.1 for Flac16 Conversion @ level 5
+
+*****************************************************************
+***** PLEASE DO NOT ENCODE THIS SHOW TO LOSSY AUDIO FORMATS *****
+********* PLEASE SPREAD, BUT PLEASE INCLUDE SOURCE INFO *********
+****** DO NOT SELL OR DISTRIBUTE FOR A PROFIT BY ANY MEANS ******
+*****************************************************************
+
+Disc 1
+01. Intro
+02. Careful
+03. Barrel of A Gun
+04. One Man Wrecking Machine
+05. The New Underground
+06. Happier
+07. Manifest Destiny
+08. Airport Song
+09. "Ryan's beard vs. Ray's beard"
+10. Demons ->
+11. Center of Attention
+12. Empire State
+
+Disc 2
+01. Ramona
+02. The Captain
+03. Great Escape
+04. You're My Satellite
+05. Amsterdam
+06. Come Downstairs & Say Hello
+07. Hang On
+08. "Happy Birthday Andy"
+09. Red Oyster Cult
+10. I Spy
+
+Notes:
+- Thanks to Chris Howell for the ticket, the clamp space and for helping set up my gear.
+
+
+*****************************************
+****Please support artists and venues**** 
+************that allow taping************
+*****************************************

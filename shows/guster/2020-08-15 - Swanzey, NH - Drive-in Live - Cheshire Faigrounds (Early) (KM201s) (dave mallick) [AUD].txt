@@ -1,0 +1,44 @@
+Guster
+August 15th, 2020 - 3pm set
+Drive-In Live, Cheshire Fairgrounds, Swanzey, NH
+
+Master:
+Elation KM201's>Lunatec V3>Microtrack II (24-bit/48kHz)
+by Dave Mallick
+
+Conversion:
+WAV>Sound Studio 4.9.6>xACT 2.50>FLAC
+by Dave Mallick
+
+01. Keep It Together                              [05:51.689]
+02. The Captain                                   [03:55.785]
+03. Happier                                       [04:45.535]
+04. I Hope Tomorrow Is Like Today                 [03:53.852]
+05. Endlessly*                                    [04:29.313]
+06. Rocketship*                                   [04:37.404]
+07. Do You Love Me*                               [04:45.295]
+08. Overexcited*                                  [04:00.548]
+09. I Spy                                         [03:05.529]
+10. Bad Bad World                                 [05:05.782]
+11. Ramona                                        [03:26.253]
+12. Amsterdam                                     [03:55.947]
+13. “Jayden at the swimming hole”                 [01:41.160]
+14. Mona Lisa                                     [05:59.861]
+15. Rainy Day*                                    [05:29.248]
+16. This is How it Feels to Have a Broken Heart*  [04:25.300]
+17. Either Way*                                   [04:56.438]
+18. Satellite*                                    [05:01.705]
+19. Doin' It By Myself*                           [04:27.381]
+20. Barrel of a Gun                               [04:52.616]
+21. This Could All Be Yours                       [06:35.859]
+22. E: Hard Times*                                [03:57.125]
+23.    Two Points for Honesty*                    [04:16.978]
+24.    Hang On                                    [04:44.690]
+                                          Total: [108:21.296]
+
+* with Matt LaRocca on violin and Michael Close on cello
+
+This venue hosted a series of drive-in concerts, where fans got two parking spots - one for their car and one to sit in and remain socially distanced. 
+Our spot for the early set was aligned with the left speaker stack and virtually nobody in front of us. Lots of beeping from cars in the venue throughout the show, mostly as applause.
+
+Unfortunately, my V3 was putting out a 24-bit signal but my recorder was in 16-bit mode, so the signal got truncated and the sound is tinny as a result. It's listenable, just not as full sounding as I'm used to.

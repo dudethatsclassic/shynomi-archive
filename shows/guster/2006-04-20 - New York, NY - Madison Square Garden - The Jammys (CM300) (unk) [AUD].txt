@@ -1,0 +1,20 @@
+Guster
+April 20th, 2006
+The Jammys
+Theatre at Madison Square Garden, New York, NY
+
+Source: Nakamichi CM300 Shotguns>Sony SBM-1>Sony M-1>Maxell 90m DAT @48k
+Playback/Transfer: Fostex D5 Master (DAT) Recorder > Tascam CD-RW5000 
+   (AES/EBU out > Coax in) > CD > Peak 4.0 ( Extraction, Normalize, 
+   Tracking, Fades ) > verify SBE OK, generate .aiff.checksum, compress 
+   to flac level 7, generate fingerprint, verify via xACT 1.4b23, 
+   seeded to bt.etree via Azureus 2.3.0.6 by BoldCaptain April 2006.
+
+01. Hang On                 [07:32.72]
+02. Do You Feel Like We Do* [12:14.72]
+
+* with Peter Frampton on guitar
+
+Notes:
+- Original fileset seeded as the entire show by BoldCaptain; Guster's
+  portion separated and uploaded to archive.org on 5/1.

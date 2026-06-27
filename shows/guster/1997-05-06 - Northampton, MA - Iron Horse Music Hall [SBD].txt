@@ -1,0 +1,45 @@
+guster
+5/6/97
+iron horse music hall
+northampton, MA
+
+source:  DSBD
+
+conversion:  allan chen
+sony r300>sek'd prodif plus>samplitude>cdwav
+
+**no DAE.  dat>wav>shn
+
+Disc 1
+01. intro                    [00:57.64]
+02. Dissolve                 [05:39.55]
+03. banter                   [00:36.22]
+04. Medicine                 [04:22.34]
+05. Airport Song             [04:02.22]
+06. Pantomime                [04:39.34]
+07. Demons                   [05:03.35]
+08. Window                   [04:05.37]
+09. X-Ray Eyes               [03:51.06]
+10. Bury Me                  [03:29.24]
+11. Scars & Stitches         [03:51.25]
+12. Rocketship               [04:56.59]
+               Disc 1 Total: [45:35.42]
+
+Disc 2
+01. Summer Lovin'            [01:10.50]
+02. Perfect                  [05:06.10]
+03. Start It All Over        [03:56.21]
+04. banter                   [00:30.24]
+05. Purple Haze>Fall In Two  [04:28.48]
+06. banter                   [00:30.24]
+07. Great Escape             [03:42.56]
+08. Parachute                [04:30.50]
+09. Happy Frappy             [04:16.19]
+10. Dregs                    [05:17.35]
+11. E: Mona Lisa             [05:01.17]
+12.    intro>                [02:03.03]
+13.    Cocoon                [04:11.33]
+               Disc 2 Total: [44:47.58]
+ 
+compiled by allan chen
+5/26/00

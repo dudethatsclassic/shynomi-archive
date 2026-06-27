@@ -1,0 +1,30 @@
+guster
+8/16/95
+the wetlands
+NYC, NY
+
+source:  DSBD
+
+conversion:  allan chen
+sony r300>sek'd prodif plus>samplitude (48>44.1)>cdwav
+
+**no DAE.  dat>wav>shn
+
+01. intro          [01:01.34]
+02. Pantomime      [04:27.44]
+03. The Prize      [03:45.65]
+04. Window         [03:16.62]
+05. banter         [00:46.38]
+06. Mona Lisa      [04:22.26]
+07. banter         [00:46.38]
+08. Bury Me        [03:15.62]
+09. Dissolve       [04:59.44]
+10. Lionel Richie  [05:31.54]
+11. Down In It     [04:05.05]
+12. Parachute      [05:02.03]
+13. guitar intro>  [01:30.31]
+14. Cocoon         [03:51.42]
+            Total: [46:34.25]
+
+compiled by allan chen
+3/26/00

@@ -1,0 +1,44 @@
+Guster
+September 10th, 1999
+Pearl Street Nightclub, Northampton, MA
+
+Master:
+Sony PC-62>MD>CD
+by Woody Monaco
+
+Extraction:
+CD>xACT 2.00 (cdparanoia)>WAV>Sound Studio 4.2>WAV>xACT>FLAC
+most tracks extracted with major errors
+by Dave Mallick
+
+Disc 1 Total: [70:50.06]
+01. Great Escape              [04:31.66]
+02. So Long>At The Racetrack  [05:26.63]
+03. Barrel Of A Gun           [03:07.21]
+04. Demons                    [05:06.53]
+05. All The Way Up To Heaven  [06:23.42]
+06. Bury Me                   [02:29.46]
+07. Perfect                   [03:20.20]
+08. Parachute                 [05:28.30]
+09. What You Wish For         [03:40.47]
+10. I Spy                     [07:42.73]
+11. [unlistenable]            [13:05.16]
+12. Rocketship                [05:28.64]
+13. Fa Fa                     [04:57.65]
+
+Disc 2 Total: [11:21.65]
+01. E: Either Way             [06:18.25]
+02.    Medicine               [05:03.40]
+
+Notes:
+- Disc 1 was in extremely bad shape; track 11 contains "X-Ray Eyes", "Center Of 
+  Attention" and "Window", but these three songs were completely unlistenable 
+  despite attempts at low-level extraction on a number of computers; they are 
+  left here for historical purposes only. There are also random, light bursts of 
+  noise throughout most of the tracks as well due to extraction errors.
+- Disc 2 is thankfully clean, but brief - the filler was a bad rip of Guster's 
+  set from Woodstock '99, likely sourced from the satellite TV feed.
+- I extracted each disc as one big WAV, removed the two-second track break gaps,   
+  retracked properly and added fades. I couldn't do much to clean up the 
+  recording quality - it's still a low-profile recording, done from the middle
+  of the crowd with a clip-on mic, but it's the only known copy out there.

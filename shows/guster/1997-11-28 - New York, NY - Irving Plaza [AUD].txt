@@ -1,0 +1,38 @@
+Guster 
+11.28.1997 
+Irving Plaza - New York, NY
+
+Taped by Jason Reiser
+Source: Microtech Gefell M-300 > Beyerdynamics MV-100 > Sony TCD-D8
+Transfer: Otari DTR-8S > Zefiro ZA2 > (WinNT PC) CoolEdit 96 > CDRWin > Yamaha CDR400
+
+Conversion:
+CD>EAC>WAV>FLAC by Allan Chen
+
+Disc 1
+01. intro             [02:03.21]
+02. Demons            [04:35.44]
+03. Bury Me           [03:03.61]
+04. Closer            [04:46.61]
+05. Scars & Stitches  [03:26.30]
+06. Dregs             [05:12.21]
+07. Parachute         [04:30.06]
+08. Airport Song      [05:05.22]
+09. Medicine          [05:43.68]
+10. Window            [03:35.35]
+11. Rocketship        [04:48.35]
+12. Fall In Two       [03:30.50]
+        Disc 1 Total: [50:22.04]
+
+Disc 2
+01. X-Ray Eyes        [04:40.24]
+02. Dissolve          [05:39.30]
+03. Barrel Of A Gun   [04:12.67]
+04. Happy Frappy      [04:09.38]
+05. Eden              [05:44.08]
+06. Great Escape      [05:10.23]
+07. E: La Ti Da       [03:42.10]
+08.    intro>         [03:02.63]
+09.    Cocoon         [05:21.70]
+10.    Mona Lisa      [04:25.53]
+        Disc 2 Total: [46:09.11]

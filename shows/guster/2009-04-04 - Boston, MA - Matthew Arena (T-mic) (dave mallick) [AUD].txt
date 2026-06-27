@@ -1,0 +1,36 @@
+Guster
+April 4th, 2009
+Northeastern University Springfest
+Matthews Arena, Boston, MA
+
+Master:
+T-mic>Microtrack 24/96, back row of front section, 3 seats left of aisle
+by Dave Mallick
+
+Conversion:
+WAV>Sound Studio 2.1.1b3>xACT 1.66>FLAC
+by Dave Mallick
+
+01. One Man Wrecking Machine    [04:18.63]
+02. The Captain                 [03:42.03]
+03. What You Wish For           [04:06.32]
+04. Satellite                   [04:55.72]
+05. Jonah                       [03:36.35]
+06. Hang On                     [04:36.70]
+07. Come Downstairs & Say Hello [06:30.33]
+08. G Major                     [03:36.58]
+09. Airport Song                [04:31.15]
+10. Manifest Destiny            [03:39.53]
+11. Ruby Falls                  [06:28.15]
+12. C'mon                       [05:04.61]
+13. Ramona                      [03:09.37]
+14. Amsterdam                   [04:37.42]
+15. Fa Fa                       [05:14.07]
+                         Total: [68:08.71]
+
+Notes:
+- Guster opened for Jimmy Eat World.
+- Unfortunately, the power source on my usual taping rig died, so I had to 
+  improvise with a mini T-mic and my new recorder. Accidentally left the
+  mic sensitivity on high, so it overloaded rather painfully. I tried to
+  dial down the bass overload in post but it still sounds pretty blatty.

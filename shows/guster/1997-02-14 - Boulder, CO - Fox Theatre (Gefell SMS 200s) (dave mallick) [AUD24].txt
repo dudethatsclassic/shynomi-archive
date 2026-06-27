@@ -1,0 +1,26 @@
+Guster
+February 14th, 1997
+Fox Theatre, Boulder, CO
+
+Master:
+Microtech Gefell SMS 200's > Sonosax SX-M2 > Tascam DA-P1 > Sony TCD-D8
+by Tim Settle
+
+Conversion:
+Tascam DA-20 > Marantz PMD-671 > WAV > 
+Sound Studio 4.10.1 > xACT 2.55 > FLAC 
+by Dave Mallick
+
+01. Demons        [05:06.812]
+02. Happy Frappy  [03:43.375]
+03. Airport Song  [03:43.814]
+04. Dissolve      [05:41.569]
+05. Great Escape  [02:59.352]
+06. Rocketship    [04:51.349]
+07. Window        [04:02.230]
+08. Bury Me       [03:01.874]
+09. Grin          [05:10.123]
+10. Dregs         [04:39.085]
+           Total: [42:59.583]
+
+Opening for Acoustic Junction.

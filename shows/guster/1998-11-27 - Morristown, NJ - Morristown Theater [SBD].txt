@@ -1,0 +1,46 @@
+guster
+11/27/98
+morristown theater
+morristown, nj
+
+source:  dsbd
+
+conversion:  allan chen
+equipment:  sony r300>sek'd prodif plus>samplitude (48>44.1)>cdwav
+
+**no DAE.  dat>wav>shn
+
+Disc 1
+01 Great Escape
+02 Fa Fa
+03 Parachute
+04 Medicine
+05 Bury Me
+06 Rocketship*
+07 Window*
+08 Either Way
+09 Demons
+10 club mix
+11 Pantomime
+
+Disc 2
+01 Airport Song
+02 banter
+03 Dissolve
+04 Barrel Of A Gun
+05 X-Ray Eyes
+06 banter
+07 E: Cocoon
+08 Mona Lisa*
+09 Happier
+10 Happy Frappy
+11 Circle Of Friends
+
+comments
+--------------
+the sbd feed didn't start until during the first song.  therefore the fade right into it.
+
+* with Bob Hallett (Great Big Sea) on fiddle
+
+compiled by allan chen
+11/10/99

@@ -1,0 +1,27 @@
+279fec309bbf2e9f338511c9f6ee3d6e *Guster 2016-11-25 Beacon 16bit T-01.flac
+5a739041816336d9841ef68b75cf3c29 *Guster 2016-11-25 Beacon 16bit T-02.flac
+9792ad367550625f93e1cf05e2aa954a *Guster 2016-11-25 Beacon 16bit T-03.flac
+a10c6b1dc977bfa5d957c6eb1ff803fa *Guster 2016-11-25 Beacon 16bit T-04.flac
+0e14c112d6b29b98c7436c0092edf484 *Guster 2016-11-25 Beacon 16bit T-05.flac
+48c28928c21d475b5bcdf0d219095dcc *Guster 2016-11-25 Beacon 16bit T-06.flac
+bec7ac2f1f7b0ce30d34bf5a01fd8fa0 *Guster 2016-11-25 Beacon 16bit T-07.flac
+1b8dc75d94be76fba0f4013355384559 *Guster 2016-11-25 Beacon 16bit T-08.flac
+88c52089de578a101a8adb10896eccd0 *Guster 2016-11-25 Beacon 16bit T-09.flac
+da46eddc2023e473a683de976640b582 *Guster 2016-11-25 Beacon 16bit T-10.flac
+78cb302b84aed0d30fd8c2bd5ad176b9 *Guster 2016-11-25 Beacon 16bit T-11.flac
+7795137018115597e014bccd42863496 *Guster 2016-11-25 Beacon 16bit T-12.flac
+4cd9fdeb460e5125c43ddab02e6c5b9b *Guster 2016-11-25 Beacon 16bit T-13.flac
+09dc9e76034d8f029cdb9ef4581d7c3d *Guster 2016-11-25 Beacon 16bit T-14.flac
+2dd94e96c4dde073a518bf8b816e2b3a *Guster 2016-11-25 Beacon 16bit T-15.flac
+b9a488836ced02d4cd40415d54b8dbe2 *Guster 2016-11-25 Beacon 16bit T-16.flac
+5c036dbcfe127729bcb7fbc938334b61 *Guster 2016-11-25 Beacon 16bit T-17.flac
+4a662db0dd393d6246ca4a87632aef14 *Guster 2016-11-25 Beacon 16bit T-18.flac
+6bba0b7e0c531a71421ccc8ca759f177 *Guster 2016-11-25 Beacon 16bit T-19.flac
+76221d2741c5736329697b10168bfa7e *Guster 2016-11-25 Beacon 16bit T-20.flac
+09d27f4b65ad797373f3c9a15278e4a2 *Guster 2016-11-25 Beacon 16bit T-21.flac
+feac785a425889a08ff6f11c982efede *Guster 2016-11-25 Beacon 16bit T-22.flac
+918185d70b56648df03b629fec39fb90 *Guster 2016-11-25 Beacon 16bit T-23.flac
+9b3cf17ed76d1a06cf4ec6ef7d725fe3 *Guster 2016-11-25 Beacon 16bit T-24.flac
+f152758ea2dd5b9066cc1f60ad7f16fc *Guster 2016-11-25 Beacon 16bit T-25.flac
+97cf264e8c8fbbea18c76cd4d4305092 *Guster 2016-11-25 Beacon 16bit T-26.flac
+855bcc59a8953791039af829fdc162fb *Guster 2016-11-25 Beacon info.txt

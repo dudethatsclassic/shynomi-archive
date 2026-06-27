@@ -1,0 +1,35 @@
+Guster
+July 27th, 2023
+Ventura Music Hall, Ventura, CA
+
+Master:
+Elation KM201's > Lunatec V3 > Tascam DR-100 mkIII (24/48)
+Left edge of FOH area, stand at 8'
+by Dave Mallick
+
+Conversion:
+Tascam DR-100 mkIII > WAV > Sound Studio 4.10.1 > xACT 2.51 > FLAC
+by Dave Mallick
+
+01. Diane                        [05:20.699]
+02. Center Of Attention          [05:17.547]
+03. The Captain                  [03:48.976]
+04. Rocketship                   [04:15.449]
+05. Satellite                    [05:55.193]
+06. Hercules                     [04:00.154]
+07. Dear Valentine               [05:39.270]
+08. Doin It By Myself            [04:40.800]
+09. Ramona                       [03:12.663]
+10. Come Downstairs & Say Hello  [06:08.310]
+11. Do You Love Me               [03:45.716]
+12. “One Way Bathroom”           [03:29.665]
+13. Demons                       [05:29.417]
+14. Mind Kontrol                 [04:07.905]
+15. One Man Wrecking Machine     [03:55.199]
+16. Long Way Down                [04:36.563]
+17. Amsterdam                    [04:23.247]
+18. Happier                      [05:00.203]
+19. E: Empire State              [05:28.611]
+20.    Terrified                 [05:10.943]
+21.    Airport Song              [05:07.690]
+                          Total: [98:54.219]

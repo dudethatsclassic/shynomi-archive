@@ -1,0 +1,65 @@
+Guster
+March 6th, 2020
+Scottish Rite Masonic Center Auditorium, Omaha, NE
+
+Master:
+Elation KM201's>Lunatec V3>Microtrack II (24-bit/48kHz)
+Dead center, first row of theater seating, head height
+by Dave Mallick
+
+Conversion:
+WAV>Sound Studio 4.9.5>xACT 2.48>FLAC
+by Dave Mallick
+
+01. band intros/“Omaha? Omagah!”                  [09:58.131]
+02. Keep It Together                              [04:24.768]
+03. “Nebraska Hanukkah”                           [01:32.090]
+04. The Captain                                   [03:39.700]
+05. Rise & Shine*                                 [03:26.707]
+06. Backyard*                                     [03:24.134]
+07. Either Way*                                   [05:04.155]
+08. This Is How It Feels To Have A Broken Heart*  [03:45.535]
+09. So Long*                                      [03:28.728]
+10. Window*                                       [05:05.846]
+11. The Beginning Of The End*                     [03:14.261]
+12. “Omaha vs. Aspen (Two Slices Of Bread)”       [05:31.067]
+13. “Whoopie Pies”                                [01:48.695]
+14. “Baby vs. 9-Year-Old”                         [06:15.610]
+15. Stay With Me Jesus                            [03:16.919]
+16. Never Coming Down                             [03:43.085]
+17. Long Way Down*                                [05:42.057]
+18. Overexcited*                                  [05:18.140]
+19. Rainy Day*                                    [05:26.712]
+20. Endlessly*                                    [04:26.168]
+21. Rocketship*                                   [04:49.877]
+22. Do You Love Me?*                              [03:49.646]
+23. Amsterdam*                                    [04:03.689]
+24. “We Are The Candles”                          [03:00.320]
+25. E: Hard Times*                                [03:33.861]
+26.    Satellite*                                 [06:00.983]
+27.    This Could All Be Yours*                   [04:48.990]
+                                          Total: [118:39.872]
+
+Billed as "An Evening of Acoustic Music & Improv"; the band brought
+improv artist Connor Ratliff of Upright Citizens Brigade, violinist
+Bridgid Bibbens and cellist Rebecca Chung Filice on tour with them.
+Connor acted as master of ceremonies, bringing the band on stage one by
+one, decorating the front of the stage area with giant candles from the
+prop room, adding to the between-songs banter, and pulling sticky notes
+out of a fishbowl for the band to riff on between sets.
+
+The musical performance was entirely seated, though not entirely
+acoustic; songs with an asterisk featured Bridgid and Rebecca on their
+respective instruments except for Window, which Bridgid performed alone,
+and the finale, on which they played shaker and percussion.
+
+Due to the seated nature of the show, I ran at head height so as not to
+obstruct anyone, so the recording is a bit lacking in treble at times.
+Some of the louder applause early on overloaded the preamp briefly, but
+a slight level adjustment later fixed that. Also, Ryan sang directly
+into my microphones during "Overexcited" while roaming through the house
+on his wireless mic adventure.
+
+Many thanks to all who came up to say hi to me on this first night of my
+solo adventure, with special thanks to Jill and Rob Whitham for being
+my local companions and hosts!

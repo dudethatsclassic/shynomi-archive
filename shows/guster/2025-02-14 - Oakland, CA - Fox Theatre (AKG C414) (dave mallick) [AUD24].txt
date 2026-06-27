@@ -1,0 +1,76 @@
+Guster
+"We Also Have Eras" tour
+February 14th, 2025
+Fox Theatre, Oakland, CA
+
+Master:
+AKG C414 XLS (hypercard) > Lunatec V3 > Tascam DR-100 mkIII (24/48)
+Back of second floor section, dead center, stand at 6'
+by Dave Mallick
+
+Conversion:
+Tascam DR-100 mkIII > WAV > Sound Studio 4.10.1 > xACT 2.57 > FLAC
+by Dave Mallick
+
+-----ACT 1-----
+01. Sketch 1 - Dorm Room                    [02:14.496]
+02. Parachute                               [04:09.149]
+03. Sketch 2 - Enter Bri                    [01:51.177]
+04. Happy Frappy                            [02:28.643]
+05. Sketch 3 - Harvard Sq                   [01:37.887]
+06. X-Ray Eyes                              [03:15.772]
+07. Airport Song                            [02:49.799]
+08. Sketch 4 - Lillywhite                   [01:42.304]
+09. What You Wish For                       [04:20.523]
+10. I Spy                                   [03:07.060]
+11. Barrel Of A Gun                         [03:59.742]
+12. Sketch 5 - Tour Bus                     [02:46.264]
+13. Jesus On The Radio                      [02:06.826]
+14. Sketch 6 - Joe Joins Band               [01:02.710]
+15. Diane                                   [04:17.757]
+16. Careful                                 [03:40.452]
+17. (Nothing But) Flowers                   [05:22.011]
+18. One Man Wrecking Machine                [04:08.329]
+19. Manifest Destiny                        [03:40.144]
+20. Satellite                               [04:40.502]
+21. Sketch 7 - Evil Producer                [02:29.992]
+22. Thunder Song                            [03:37.926]
+-----ACT 2-----
+23. Do You Love Me?                         [04:07.771]
+24. Sketch 8 - Joe Leaves Band              [04:19.997]
+25. Architects & Engineers                  [03:00.588]
+26. This Could All Be Yours                 [03:52.283]
+27. Kid Dreams                              [04:17.668]
+28. Doin' It By Myself                      [04:24.281]
+29. Sketch 9 - Dave Gets Mad / Appreciated  [02:10.114]
+30. Hello Mister Sun                        [04:26.016]
+31. Terrified                               [03:34.288]
+32. Sketch 10 - COVID                       [02:29.518]
+33. When We Were Stars                      [05:12.155]
+34. Black Balloon                           [03:20.846]
+35. Come Downstairs & Say Hello             [07:35.099]
+36. E: Happier                              [03:41.613]
+37.    Amsterdam                            [03:51.870]
+                                    Total: [129:53.572]                                    
+
+Rather than doing a straightforward album tour, Guster wrote and
+performed a two-act, two-plus-hour career retrospective, featuring
+sketches, props, costume changes, and original music ("Thunder Song").
+Narrated by drum tech, drummer, and keyboardist Dave Butler, the show
+spans 34 years, from their initial meeting at Tufts University through
+the release of "Ooh La La", their ninth studio album.
+
+The sketch names are taken directly from the stage setlists, and are
+largely self-explanatory. I have chosen to separate them from the
+musical tracks as they are performances in their own right. The encore
+was performed "dumpster set" style, with the band playing acoustic
+instruments and sitting next to each other on the "acting bench".
+
+Thank you to the band for 30+ years of allowing fans to record and
+distribute these recordings for free among the fan base, and to the crew
+for offering space, assistance, and advice while still providing
+enthusiastic and expert support for these complex live performances.
+
+Special thanks to my oldest friend, Steve, for hosting me, feeding me,
+and accompanying me all over creation during a whirlwind 24 hours in the
+greater Oakland area. Hope the kiddo enjoys this recording!

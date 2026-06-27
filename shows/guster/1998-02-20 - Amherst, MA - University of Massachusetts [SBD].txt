@@ -1,0 +1,43 @@
+Guster
+February 20, 1998
+University of Massachusetts
+Amherst, MA
+
+
+Source: 	DSBD
+
+Conversion: 	Archive Python DDS/DAT2WAV > .wav > CD-WAV/mkwACT > .shn
+		(Direct DAT extraction, no soundcard)
+Converted by: 	Bill Lakenan <blakenan@us.net>
+
+Tracks Split by: Jeffrey Hyder <jmh@mhmvab.com> using CDWAV
+SHN:		MKW Audio Compression Tool   (NO DAE)
+
+Extraction: CD > Exact Audio Copy > FLAC by Jeffrey Hyder
+
+****************************************************************
+	THIS SHOW IS NOT TO BE MP3-ENCODED	
+****************************************************************
+
+Intro
+Bury Me
+Parachute 
+Barrel Of A Gun 
+"working for the weekend" intro
+Demons 
+The Prize 
+X-Ray Eyes
+Closer
+Scars and Stitches 
+Airport Song 
+Perfect
+Happy Frappy 
+Rocketship
+Medicine
+Great Escape
+Love for Me 
+Melanie
+Dregs
+Mona Lisa 
+Window 
+

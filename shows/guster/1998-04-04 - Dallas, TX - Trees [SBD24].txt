@@ -1,0 +1,29 @@
+Guster
+April 4th, 1998
+Trees, Dallas, TX
+
+Master:
+SBD > Cass(x)
+taper unknown
+
+Conversion:
+Nakamichi CR-2A > Tascam DA-20 (A/D) > Tascam DR-100 mkIII > WAV >
+Sound Studio 4.10.1 > xACT 2.50 > FLAC
+by Dave Mallick
+
+01. Great Escape     [03:26.071]
+02. Dissolve         [05:35.763]
+03. Barrel Of A Gun  [03:36.879]
+04. Medicine         [04:12.089]
+05. Airport Song     [04:02.334]
+06. Parachute*       [04:48.196]
+07. Demons           [05:00.689]
+08. Closer           [05:25.331]
+09. X-Ray Eyes       [03:41.391]
+10. Bury Me          [04:03.291]
+11. Window*          [03:21.735]
+              Total: [47:13.769]
+
+* with Shag on violin
+
+Opening for Gov't Mule

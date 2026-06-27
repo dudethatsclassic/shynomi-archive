@@ -1,0 +1,45 @@
+guster
+11/13/97
+stone coast
+portland, ME
+
+taper:  dave mallick
+source:  DSBD
+
+conversion:  allan chen
+sony r300>sek'd prodif plus>samplitude (48>44.1)>cdwav
+
+**no DAE.  dat>wav>shn
+
+cd1
+---------------
+1 - intro
+2 - barrel of a gun
+3 - dissolve
+4 - fight for your right>
+5 - medicine
+6 - airport song
+7 - closer
+8 - demons
+9 - window
+10 - x-ray eyes
+11 - happy frappy
+
+cd2
+---------------
+1 - bury me
+2 - love for me
+3 - rocketship
+4 - grin
+5 - great escape
+6 - eden
+7 - dregs
+8 - E:  Stairway to Heaven
+9 - E:  Parachute
+
+comments
+---------------
+the beginning of barrel of a gun was full of dropouts.  sounded like the board was cutting in and out on that send.  I decided to cut it when the feed comes in for good, rather than starting it with all these in/out parts.  
+
+compiled by allan chen
+2/6/00

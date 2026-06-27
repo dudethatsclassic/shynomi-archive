@@ -1,0 +1,22 @@
+Guster
+July 19th, 1998
+Blockbuster Pavilion, Charlotte, NC
+
+Master creation: 
+SBD>DAT
+by Will Foy; clone provided by Brian Chickowski
+
+SHNs were made: 
+D8>U2A>SoundEdit 16>WAV>shntool>SHNv3 [no DAE] 
+by Dave Mallick [greenone@bluestraveler.net] 
+
+CD 1 [25:35.29] (minutes:seconds.frames) 
+01. Closer                     [05:43.59]
+02. Great Escape               [02:51.70] 
+03. X-Ray Eyes                 [04:23.21] 
+04. Happier                    [04:20.33] 
+05. Demons                     [04:49.21] 
+06. Airport Song               [03:26.50] 
+
+Notes:
+- Opening for Widespread Panic.

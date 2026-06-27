@@ -1,0 +1,31 @@
+Guster
+March 13th, 1998
+The Odeon, Cleveland, OH
+
+Master:
+SBD > Cass(x)
+taper unknown
+
+Conversion:
+Nakamichi CR-2A > Lunatec V3 (A/D) > Tascam DR-100 mkIII > 
+WAV > Sound Studio 4.10.1 > xACT 2.50 > FLAC
+by Dave Mallick
+
+01. Bury Me                 [04:04.116]
+02. Rocketship              [04:21.204]
+03. Demons                  [05:02.560]
+04. Happy Frappy            [03:26.039]
+05. Barrel Of A Gun         [03:45.236]
+06. Dissolve                [06:21.520]
+07. X-Ray Eyes              [03:21.338]
+08. Airport Song            [04:19.339]
+09. Window                  [04:00.877]
+10. So Long                 [03:16.462]
+11. Love For Me             [04:47.443]
+12. Closer                  [04:25.510]
+13. Great Escape            [03:55.310]
+14. Parachute               [04:23.633]
+15. Cocoon                  [07:26.402]
+16. E: Medicine             [04:18.518]
+17.    Killing In The Name  [03:35.740]
+                     Total: [74:51.246]

@@ -1,0 +1,45 @@
+Guster 
+December 5th, 2002
+Orpheum Theatre, Boston, MA
+
+Master creation: 
+AT853's>battery box>TCD-D8 [row RR, seat 113]
+by Dave Mallick [greenone@bluestraveler.net]
+
+SHNs were made: 
+D8>Egosys Waveterminal U2A>SoundEdit 16>WAV>shntool>SHNv3 [no DAE] 
+by Dave Mallick [greenone@bluestraveler.net] 
+
+CD 1 [45:49.19] (minutes:seconds.frames) 
+01. What You Wish For           [05:49.70]
+02. Happier                     [04:17.48] 
+03. New Song 2                  [05:28.40] 
+04. X-Ray Eyes                  [03:44.69] 
+05. Barrel Of A Gun             [04:12.20] 
+06. I Spy                       [04:00.65] 
+07. Airport Song                [04:18.40] 
+08. Two Points For Honesty>*    [05:27.16] 
+    Where The Streets Have No Name
+09. Window*                     [04:29.26] 
+10. Amsterdam                   [04:00.00]
+
+CD 2 [44:55.24] 
+01. Mona Lisa                   [05:14.53] 
+02. Homecoming King             [04:17.70] 
+03. Either Way                  [05:28.42] 
+04. Center Of Attention#        [05:10.44] 
+05. Demons                      [04:51.63] 
+06. Fa Fa                       [07:06.70] 
+07. E: Ramona                   [03:48.06] 
+08.    All The Way Up To Heaven [06:10.00] 
+09.    Happy Together$          [02:46.51] 
+
+* with Angie on violin
+# with "Groove Is In The Heart" tease, featuring drum tech Sean 
+  on tambourine and guitar tech Larry on slide whistle
+$ with Josh Rouse and Curt Perkins on vocals, Marc Pisapia on 
+  tambourine and vocals, James Haggarty on bass and vocals
+
+Note:
+- Two pops at 2:50 of d1t06 and crackling around 0:30 of
+d2t07; these are from the venue PA and not recording errors.

@@ -1,0 +1,49 @@
+Guster
+November 7th, 2009
+Higher Ground, South Burlington, VT
+
+Master:
+Neumann KM150's>Lunatec V3>Microtrack 2496 at FOH position
+by Dave Mallick
+
+Conversion:
+WAV>Audacity 1.3.6>xACT 1.69>FLAC - 24-bit/48kHz
+by Dave Mallick
+
+Disc 1 [52:29.995]
+01. The Captain                    [04:21.601]
+02. Backyard                       [03:32.494]
+03. Satellite                      [04:50.368]
+04. Red Oyster Cult>Reaper         [05:25.877]
+05. This Could All Be Yours        [04:04.857]
+06. Demons                         [04:13.847]
+07. Keep It Together               [05:05.313]
+08. Jonah                          [03:42.608]
+09. Rocketship                     [05:18.573]
+10. Manifest Destiny               [03:42.404]
+11. The Beginning Of The End       [03:37.417]
+12. Airport Song                   [04:34.636]
+
+Disc 2 [71:14.991]
+01. What You Wish For              [04:54.142]
+02. Barrel Of A Gun                [05:17.361]
+03. Either Way                     [04:58.660]
+04. Fa Fa*                         [05:48.910]
+05. I Spy                          [05:15.493]
+06. Center Of Attention            [05:00.471]
+07. All The Way Up To Heaven       [05:39.474]
+08. Happier                        [04:43.429]
+09. So Long                        [03:52.797]
+10. Two Points For Honesty         [03:56.915]
+11. Rainy Day                      [07:28.209]
+12. E: Hang On                     [04:59.594]
+13.    Come Downstairs & Say Hello [06:56.145]
+14.    Jesus On The Radio          [02:23.392]
+
+* with Daniel (?) and Jennifer on saxophone and trumpet
+
+Notes:
+- These are 24-bit files which cannot be burned to a CD. A 16-bit
+  fileset is also available.
+- Thanks to Brandon Smith for loaning me his mic cables, and to Jon
+  Pasternak for the generous mic loan.

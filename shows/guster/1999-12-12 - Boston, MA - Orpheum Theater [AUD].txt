@@ -1,0 +1,28 @@
+Guster
+December 12th, 1999
+Orpheum Theatre, Boston, MA
+
+Master:
+Sony PC-62>MD>CD
+by Woody Monaco
+
+Conversion:
+CD>xACT 2.13>WAV>Audacity 1.3.11>Sound Studio 4.2>xACT 2.13>FLAC
+by Dave Mallick
+
+01. intro              [02:03.24]
+02. Happier            [04:32.48]
+03. I Spy              [02:50.64]
+04. Airport Song       [04:10.58]
+05. Either Way         [05:24.60]
+06. What You Wish For  [04:27.02]
+07. Fa Fa              [05:04.31]
+08. Demons             [05:08.68]
+09. Barrel Of A Gun    [04:33.59]
+10. Bury Me            [03:17.57]
+                Total: [41:34.21]
+
+Notes:
+- Opening for Barenaked Ladies.
+- Audio files as burned to CD had gaps between tracks; I joined them
+  all and then used Audacity's "truncate silence" feature.

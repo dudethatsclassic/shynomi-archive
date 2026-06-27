@@ -1,0 +1,42 @@
+Guster
+March 14th, 2019
+The Strand Ballroom & Theatre, Providence, RI
+
+Master:
+Elation KM201's>Lunatec V3>Microtrack II (24-bit/48kHz)
+Dead center, directly in front of the soundboard
+by Dave Mallick
+
+Conversion:
+WAV>Sound Studio 4.8.14>xACT 2.48>FLAC
+by Dave Mallick
+
+01. ...Long Night                [04:53.771]
+02. Careful                      [03:42.898]
+03. Architects & Engineers       [03:00.767]
+04. Happier                      [04:20.688]
+05. Manifest Destiny             [03:52.776]
+06. Hard Times                   [05:31.164]
+07. Don't Go                     [03:47.764]
+08. Stay With Me Jesus           [03:12.386]
+09. Satellite                    [05:32.141]
+10. Look Alive                   [04:06.438]
+11. Come Downstairs & Say Hello  [06:23.467]
+12. Demons                       [04:14.708]
+13. Center Of Attention          [04:56.830]
+14. On The Ocean                 [05:00.253]
+15. Simple Machine               [03:21.838]
+16. Ruby Falls                   [07:13.307]
+17. Airport Song                 [05:07.286]
+18. Overexcited                  [04:36.990]
+19. This Could All Be Yours      [05:19.254]
+20. E: Keep It Together          [04:32.678]
+21.    Endlessly                 [05:37.099]
+22.    Barrel Of A Gun           [04:33.416]
+23.    Terrified                 [03:52.174]
+                         Total: [106:50.094]
+
+Notes:
+- Long Night cuts in slightly because my deck picked then to not recognize
+  the signal it was getting.
+- Thanks to Alex for the company and blocking all night!

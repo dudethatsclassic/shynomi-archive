@@ -1,0 +1,52 @@
+Guster
+Jannus Landing
+St. Petersburg, FL
+October 11, 2003
+
+Taper:		Paul Chrostowski
+Source:		Schoeps CCM4V cardioids > Schoeps K5LU XLR > 
+		Lunatec V3 (24b/96KHz) > Nuendo Audiolink 96 Multiset >
+		Fujitsu P2120 > WaveLab 4.01b
+Location:	ORTF 10' high, center 20' front of SBD
+
+Conversion:	Paul Chrostowski  10/12/03
+WAV > SHN:	WaveLab 4.01b (resample & Apogee UV22 HR dither) > 
+		CDWAV v1.71 > mkwACT 0.97b1 (no DAE)
+
+
+Disc One:
+
+01: Intro					-	00:30.45
+02: Happier					-	05:13.65
+03: Careful					-	04:15.38
+04: Ramona					-	03:10.16
+05: Airport Song				-	03:52.59
+06: Keep It Together				-	04:22.67
+07: Amsterdam					-	04:39.23
+08: X-Ray Eyes					-	03:37.56
+09: (Nothing But) Flowers¹			-	05:30.66
+10: Backyard					-	03:14.53
+11: What You Wish For				-	04:18.30
+
+Total:						-	42:46.68
+
+
+Disc Two:
+
+01: Come Downstairs And Say Hello >		-	06:44.62
+02: Two Points For Honesty			-	05:10.09
+03: Diane					-	03:44.68
+04: Barrel Of A Gun				-	05:31.59
+05: Demons					-	04:46.63
+06: Fa Fa Song					-	07:05.73
+    ~~~Encore~~~
+07: I Spy					-	04:45.44
+08: Homecoming King				-	04:40.60
+09: Either Way					-	05:27.12
+
+Total:						-	47:58.00
+
+
+Notes:
+
+1 - Talking Heads cover

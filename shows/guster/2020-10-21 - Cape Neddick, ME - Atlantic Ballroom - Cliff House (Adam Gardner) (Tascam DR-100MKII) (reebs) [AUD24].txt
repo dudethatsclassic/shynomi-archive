@@ -1,0 +1,47 @@
+Adam Gardner
+October 21st, 2020
+Atlantic Ballroom, Cliff House, Cape Neddick, ME
+
+Master:
+Tascam DR-100mkIII internal mic > WAV (24/48)
+by Reebs
+
+Conversion:
+WAV>Sound Studio 4.9.6>xACT 2.50>FLAC
+by Dave Mallick
+
+01. intro                              [03:51.157]
+02. Center Of Attention                [04:19.668]
+03. Yer So Bad                         [02:39.258]
+04. Amsterdam                          [05:01.546]
+05. No One Is To Blame                 [03:39.349]
+06. You've Got to Hide Your Love Away  [04:02.183]
+07. Ramona                             [05:00.443]
+08. Don't You (Forget About Me)        [05:20.451]
+09. Why Does It Always Rain on Me?     [05:23.973]
+10. Satellite                          [05:32.041]
+11. Jonah                              [06:57.806]
+12. Sympathy For The Devil             [04:11.947]
+13. I’m Going To Go Back There Someday [05:59.254]
+14. E: Jesus On The Radio*             [02:09.348]
+                                Total: [64:08.423]
+
+* unplugged, with Pete Kilpatrick on guitar and vocals, and
+Jason Spooner on harmonica
+
+Track information:
+2, 4, 7, 10, 11, 14 - Guster originals
+3 - Tom Petty cover
+5 - Howard Jones cover
+6 - Beatles cover
+8 - Simple Minds cover
+9 - Travis cover
+12 - Rolling Stones cover
+13 - Muppets cover
+
+Private show for hotel guests only; fewer than 50 in
+attendance in a very large ballroom so the sound is somewhat
+hollow. Recording device was sitting on a table right in
+front of the stage.
+
+Jason Spooner opened, then Pete Kilpatrick, and then Adam.

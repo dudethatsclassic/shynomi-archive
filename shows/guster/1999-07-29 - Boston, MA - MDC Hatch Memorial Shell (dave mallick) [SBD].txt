@@ -1,0 +1,41 @@
+Guster
+July 29th, 1999
+MDC Hatch Memorial Shell, Boston, MA
+
+Master:
+SBD > Sony TCD-D8
+by Dave Mallick
+
+Conversion:
+Tascam DA-20 > Marantz PMD-671 > WAV > 
+Sound Studio 4.10.1 > xACT 2.55 > FLAC 
+by Dave Mallick
+
+01. Demons                    [05:06.62]
+02. Bury Me                   [02:40.04]
+03. I Spy                     [04:32.67]
+04. Center Of Attention       [04:29.53]
+05. Airport Song              [03:45.06]
+06. All The Way Up To Heaven  [06:13.30]
+07. Window                    [03:41.70]
+08. Barrel Of A Gun *         [03:33.25]
+09. X-Ray Eyes *              [04:56.53]
+10. What You Wish For *       [04:15.55]
+11. The Prize *               [03:22.41]
+12. So Long *                 [02:53.18]
+13. Sweet Caroline            [03:50.66]
+14. Great Escape              [03:28.01]
+15. Rocketship                [05:38.03]
+16. Fa Fa                     [06:41.05]
+17. Parachute                 [06:19.00]
+18. Happier                   [03:59.51]
+                       Total: [79:28.09]
+
+* with Kurt Uenala (My Favorite Relative) on upright bass
+
+Right channel has some peaking/clipping through the first 14 minutes but
+it is not audible as far as I can tell. Tiny bit of diginoise at 1:52 of
+Sweet Caroline. 
+
+This is the last straight SBD feed provided by the band, although tour
+manager Mike Corcoran ran a matrix feed for a few years after this.

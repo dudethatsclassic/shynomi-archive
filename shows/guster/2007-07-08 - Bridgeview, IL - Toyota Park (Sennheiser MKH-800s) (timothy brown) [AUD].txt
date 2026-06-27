@@ -1,0 +1,53 @@
+Guster
+July 8th, 2007
+Toyota Park
+Bridgeview, IL
+
+Taper: Timothy Brown (timothydavidbrown@gmail.com)
+Location: 4th Row, Left Stack
+Source: Sennheiser MKH-800s (12',ORTF)->PS2->AD20->JB3(Optical In)
+Transfer: JB3->Firewire->PC
+Processing: Fade in and fade out applied using SoundForge 8.0. 
+Conversion: CDWav 1.93.3 for track splitting and Flac16 Conversion @ level 5
+
+*****************************************************************
+***** PLEASE DO NOT ENCODE THIS SHOW TO LOSSY AUDIO FORMATS *****
+********* PLEASE SPREAD, BUT PLEASE INCLUDE SOURCE INFO *********
+****** DO NOT SELL OR DISTRIBUTE FOR A PROFIT BY ANY MEANS ******
+*****************************************************************
+
+01. Dave Matthews Intro
+02. The Captain
+03. What You Wish For
+04. Manifest Destiny
+05. Amsterdam
+06. Ruby Falls
+07. Satellite
+08. Theme From Brazil
+09. Airport Song
+10. G Major
+11. Fa Fa
+
+Notes:
+Opening for Dave Matthews Band
+
+Thanks to Allan Lee for the tickets.
+Thanks to Ian White for the use of the MKH-800s
+Thanks to Erin for helping me haul (and find) gear and tear down.
+Thanks to the EBM crew for a hell of a good time!
+
+*****************************************
+****Please support artists and venues**** 
+************that allow taping************
+*****************************************
+guster2007-07-08t01.flac:a0d8082b6d4a2d1f908a32e332b4bb33
+guster2007-07-08t02.flac:bc36075a9cab0bf78360e4c9bba50b74
+guster2007-07-08t03.flac:b8076b4873333fc5252bb405e19b8014
+guster2007-07-08t04.flac:0c20a5f1249d436d06bc3af180129a15
+guster2007-07-08t05.flac:8401f73199d12df7192ee56c63f82846
+guster2007-07-08t06.flac:8f8c10287a2f9ea2d52c91b420c997ba
+guster2007-07-08t07.flac:2231e0f5ee914e1d3b7ae1d08f0ccc43
+guster2007-07-08t08.flac:c4178e56012fa6a9e69c6f467e3cf2cb
+guster2007-07-08t09.flac:df34d0c3c1ddca1e37cf6cc5a5da1f9c
+guster2007-07-08t10.flac:243f913277dd058178dccb4a6dac4131
+guster2007-07-08t11.flac:74f17912050a37d9e69103be758e30db

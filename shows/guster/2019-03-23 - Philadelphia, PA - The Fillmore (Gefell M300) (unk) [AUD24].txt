@@ -1,0 +1,49 @@
+Guster
+The Fillmore Philadelphia 
+Philadelphia, PA
+March 23, 2019
+
+01. 1999, walk-in music
+02. Diane
+03. Captain
+04. Terrified 
+05. Airport
+06. Gangway
+07. Hello Mr. Sun*
+08. Overexcited*
+09. Stay with me Jesus
+10. Satellite
+11. Doin it*
+12. Look Alive
+13. Backyard
+14. Amsterdam
+15. Bass distortion jam
+16. Window+ with projector
+01. Documentary 
+02. What You Wish for
+03. Barrel of a Gun
+04. Either Way+
+05. Fa Fa*$
+06. I Spy
+07. Center of Attention 
+08. All the Way Up to Heaven
+09. Happier 
+10. So Long*
+11. Two Points for Honesty+
+12. Ryan discusses Lost and Gone Forever
+13. Rainy Day+
+14. Rocket ship +
+15. Hang On
+16. Thomas plays flute rap
+17. Great Escape
+18. Come Downstairs and Say Hello 
+
+*= horns
++= strings
+$= Thomas on flute
+Lost and Gone Forever release 20th anniversary 
+
+Thanks to Dave Mallick for the clamp space
+
+Microtech Gefell m300 xy>SD Mixpre-6 (24 bit/48 kHz)
+Audacity> CDwave>Traders Little Helper>mp3tag
