@@ -21,9 +21,9 @@ const ARTIST_DATA = {
       "state": "PA",
       "location": "Philadelphia, PA",
       "venue": "Chestnut Cabaret",
+      "notes": "billydee · 2023 remaster",
       "version": "SBD",
       "format": "FLAC",
-      "notes": "billydee \u00b7 2023 remaster",
       "textFile": "1989-05-18 - Philadelphia, PA - Chestnut Cabaret (billydee) (2023 remaster) [SBD].txt"
     },
     {
@@ -35,9 +35,9 @@ const ARTIST_DATA = {
       "state": "WA",
       "location": "Seattle, WA",
       "venue": "China Club",
+      "notes": "",
       "version": "AUD",
       "format": "FLAC",
-      "notes": "",
       "textFile": "1996-03-08 - Seattle, WA - China Club [AUD].txt"
     },
     {
@@ -48,10 +48,10 @@ const ARTIST_DATA = {
       "city": "San Francisco",
       "state": "CA",
       "location": "San Francisco, CA",
-      "venue": "Golden Gate Park - Tibetan Freedom Concert",
+      "venue": "Golden Gate Park",
+      "notes": "Tibetan · unk · neekrive",
       "version": "AUD",
-      "format": "FLAC",
-      "notes": "unk \u00b7 neekrive"
+      "format": "FLAC"
     },
     {
       "year": 1998,
@@ -62,9 +62,9 @@ const ARTIST_DATA = {
       "state": "NY",
       "location": "New York, NY",
       "venue": "Tramps",
+      "notes": "",
       "version": "AUD",
       "format": "FLAC",
-      "notes": "",
       "textFile": "1998-02-19 - New York, NY - Tramps [AUD].txt"
     },
     {
@@ -76,10 +76,10 @@ const ARTIST_DATA = {
       "state": "WI",
       "location": "Green Bay, WI",
       "venue": "Leicht Memorial Park",
+      "notes": "Sennheiser Ambeo · unk",
       "version": "AUD",
       "format": "FLAC 24",
-      "notes": "Sennheiser Ambeo \u00b7 Unknown",
-      "textFile": "2025-04-23 - Green Bay, WI - Leicht Memorial Park (Sennheiser Ambeo) (unk) [AUD24].txt"
+      "textFile": "2025-04-23 - Green Bay, WI - Leicht Memorial Park (Zoom H2) (unk) [AUD24].txt"
     },
     {
       "year": 2025,
@@ -90,10 +90,10 @@ const ARTIST_DATA = {
       "state": "WI",
       "location": "Green Bay, WI",
       "venue": "Leicht Memorial Park",
+      "notes": "Shure MV88 · unk",
       "version": "AUD",
       "format": "FLAC 24",
-      "notes": "Shure MV88 \u00b7 Unknown",
-      "textFile": "2025-04-23 - Green Bay, WI - Leicht Memorial Park (Shure MV88) (unk) [AUD24].txt"
+      "textFile": "2025-04-23 - Green Bay, WI - Leicht Memorial Park (Zoom H2) (unk) [AUD24].txt"
     },
     {
       "year": 2025,
@@ -104,9 +104,9 @@ const ARTIST_DATA = {
       "state": "WI",
       "location": "Green Bay, WI",
       "venue": "Leicht Memorial Park",
+      "notes": "Zoom H2 · unk",
       "version": "AUD",
       "format": "FLAC 24",
-      "notes": "Zoom H2 \u00b7 Unknown",
       "textFile": "2025-04-23 - Green Bay, WI - Leicht Memorial Park (Zoom H2) (unk) [AUD24].txt"
     },
     {
@@ -117,11 +117,11 @@ const ARTIST_DATA = {
       "city": "Newport",
       "state": "RI",
       "location": "Newport, RI",
-      "venue": "Ft. Adams State Park - Newport jazz Festival",
+      "venue": "Ft. Adams State Park",
+      "notes": "Newport · Schoeps MK4 · funk it blog",
       "version": "AUD",
-      "format": "FLAC 24",
-      "notes": "Schoeps MK4 \u00b7 funk it blog",
-      "textFile": "2025-08-03 - Newport, RI - Ft. Adams State Park - Newport jazz Festival (Schoeps MK4) (funk it blog) [AUD24].txt"
+      "format": "FLAC 24"
     }
-  ]
+  ],
+  "misc": []
 };
