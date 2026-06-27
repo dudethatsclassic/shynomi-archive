@@ -23,7 +23,7 @@ const ARTIST_DATA = {
       "state": "UK",
       "location": "Glastonbury, UK",
       "venue": "Glastonbury Festival",
-      "notes": "BBC \u00b7 drumsboy",
+      "notes": "BBC · drumsboy",
       "version": "FM",
       "format": "FLAC",
       "textFile": "2000-06-24 - Glastonbury, UK - Glastonbury Festival - BBC Radio 1 (drumsboy) [FM].txt"
@@ -51,7 +51,7 @@ const ARTIST_DATA = {
       "state": "Ireland",
       "location": "Ratoath, Ireland",
       "venue": "Witnness Festival",
-      "notes": "Fairyhouse \u00b7 2FM Broadcast \u00b7 drumsboy",
+      "notes": "Fairyhouse · 2FM Broadcast · drumsboy",
       "version": "FM",
       "format": "FLAC",
       "textFile": "2001-08-05 - Ratoath, Ireland - Witnness Festival - Fairyhouse Racecourse (2FM Broadcast) (drumsboy) [FM].txt"
@@ -65,7 +65,7 @@ const ARTIST_DATA = {
       "state": "Ireland",
       "location": "Meath, Ireland",
       "venue": "Slane Castle",
-      "notes": "2FM Broadcast \u00b7 drumsboy",
+      "notes": "2FM Broadcast · drumsboy",
       "version": "FM",
       "format": "FLAC",
       "textFile": "2003-08-23 - Meath, Ireland - Slane Castle (2FM Broadcast) (drumsboy) [FM].txt"
@@ -79,7 +79,7 @@ const ARTIST_DATA = {
       "state": "Germany",
       "location": "Cologne, Germany",
       "venue": "Prime Club",
-      "notes": "OKM II Rock \u00b7 unk",
+      "notes": "OKM II Rock · unk",
       "version": "AUD",
       "format": "FLAC",
       "textFile": "2005-03-01 - Cologne, Germany - Prime Club (OKM II Rock) (unk) [AUD].txt"
@@ -93,7 +93,7 @@ const ARTIST_DATA = {
       "state": "Wales",
       "location": "Cardiff, Wales",
       "venue": "The Great Halll",
-      "notes": "Olympus LS-P1 \u00b7 welshylad",
+      "notes": "Olympus LS-P1 · welshylad",
       "version": "AUD",
       "format": "FLAC",
       "textFile": "2024-03-09 - Cardiff, Wales - The Great Halll (Olympus LS-P1) (welshylad) [AUD].txt"
@@ -107,7 +107,7 @@ const ARTIST_DATA = {
       "state": "Wales",
       "location": "Margam, Wales",
       "venue": "Old Park Farm",
-      "notes": "Edirol R-07 \u00b7 welshylad \u00b7 petrock remaster",
+      "notes": "Edirol R-07 · welshylad · petrock remaster",
       "version": "AUD",
       "format": "FLAC",
       "textFile": "2026-05-24 - Margam, Wales - Old Park Farm (Edirol R-07) (welshylad) (petrock remaster) [AUD].txt"
