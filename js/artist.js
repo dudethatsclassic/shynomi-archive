@@ -175,7 +175,13 @@ function openShowInfo(filename) {
       if (!r.ok) throw new Error('Not found');
       return r.text();
     })
-    .then(t => { content.textContent = t; })
+    .then(t => {
+        if (filename.toLowerCase().endsWith('.rtf')) {
+          // Strip RTF control words and braces, leaving plain text
+          t = t.replace(/\{\\[^}]*\}/g, '').replace(/\\[a-z]+\d*\s?/gi, '').replace(/[{}]/g, '').trim();
+        }
+        content.textContent = t;
+      })
     .catch(() => { content.textContent = 'Could not load show info.'; });
 }
 

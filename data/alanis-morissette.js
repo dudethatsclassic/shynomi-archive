@@ -67,7 +67,8 @@ const ARTIST_DATA = {
       "venue": "Fine Line Music Cafe",
       "notes": "",
       "version": "FM",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1995-07-24 - Minneapolis, MN - Fine Line Music Cafe [FM].rtf"
     },
     {
       "year": 1995,
@@ -219,7 +220,8 @@ const ARTIST_DATA = {
       "venue": "Alabamahalle",
       "notes": "",
       "version": "SBD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1996-04-01 - Munchen, Germany - Alabama Halle - Eyes Of A Child (Oxygen OXY 069) [Silver].txt"
     },
     {
       "year": 1996,
