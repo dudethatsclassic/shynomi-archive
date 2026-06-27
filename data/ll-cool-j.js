@@ -18,10 +18,11 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "Anaheim, CA",
       "venue": "Celebrity Theatre",
+      "notes": "Def Jam '87 Tour",
       "version": "AUD",
       "format": "FLAC",
-      "notes": "Def Jam '87 Tour",
       "textFile": "1987-10-01 - Anaheim, CA - Celebrity Theatre [AUD].txt"
     }
-  ]
+  ],
+  "misc": []
 };
