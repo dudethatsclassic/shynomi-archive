@@ -23,7 +23,7 @@ const ARTIST_DATA = {
       "state": "Germany",
       "location": "Netphen-Deuz, Germany",
       "venue": "Freak Valley Festival",
-      "notes": "Zoom H2 \u00b7 2024 remaster \u00b7 spaceandit",
+      "notes": "Zoom H2 · 2024 remaster · spaceandit",
       "version": "AUD",
       "format": "FLAC",
       "textFile": "2014-05-31 - Netphen-Deuz, Germany - Freak Valley Festival (Zoom H2) (2024 remaster) (spaceandit) [AUD].txt"
@@ -37,7 +37,7 @@ const ARTIST_DATA = {
       "state": "Germany",
       "location": "Dresden, Germany",
       "venue": "Chemiefabrik",
-      "notes": "Zoom \u00b7 stone",
+      "notes": "Zoom · stone",
       "version": "AUD",
       "format": "FLAC",
       "textFile": "2015-07-25 - Dresden, Germany - Chemiefabrik (Zoom) (stone) [AUD].txt"
@@ -51,7 +51,7 @@ const ARTIST_DATA = {
       "state": "Germany",
       "location": "Berlin, Germany",
       "venue": "Desertfest",
-      "notes": "Zoom \u00b7 stone",
+      "notes": "Zoom · stone",
       "version": "AUD",
       "format": "FLAC",
       "textFile": "2016-04-29 - Berlin, Germany - Desertfest (Zoom) (stone) [AUD].txt"
@@ -65,7 +65,7 @@ const ARTIST_DATA = {
       "state": "Germany",
       "location": "Berlin, Germany",
       "venue": "S.O 36",
-      "notes": "Zoom \u00b7 stone",
+      "notes": "Zoom · stone",
       "version": "AUD",
       "format": "FLAC",
       "textFile": "2018-10-16 - Berlin, Germany - S.O 36 (Zoom) (stone) [AUD].txt"
@@ -79,7 +79,7 @@ const ARTIST_DATA = {
       "state": "CO",
       "location": "Denver, CO",
       "venue": "Ball Arena",
-      "notes": "Olympus LS-P4 \u00b7 bluejane99",
+      "notes": "Olympus LS-P4 · bluejane99",
       "version": "AUD",
       "format": "FLAC",
       "textFile": "2024-02-05 - Denver, CO - Ball Arena (Olympus LS-P4) (bluejane99) [AUD].txt"
@@ -93,7 +93,7 @@ const ARTIST_DATA = {
       "state": "AZ",
       "location": "Phoenix, AZ",
       "venue": "Footprint Center",
-      "notes": "DPA SMK4061 \u00b7 j.mart",
+      "notes": "DPA SMK4061 · j.mart",
       "version": "AUD",
       "format": "FLAC 24",
       "textFile": "2024-02-09 - Phoenix, AZ - Footprint Center (DPA SMK4061) (j.mart) [AUD24].txt"
@@ -107,7 +107,7 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "Los Angeles, CA",
       "venue": "Crypto.com Arena",
-      "notes": "DPA 4081 \u00b7 faninor",
+      "notes": "DPA 4081 · faninor",
       "version": "AUD",
       "format": "FLAC 24",
       "textFile": "2024-02-15 - Los Angeles, CA - Crypto.com Arena (DPA 4081) (faninor) [AUD24].txt"
@@ -121,7 +121,7 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "Ontario, CA",
       "venue": "Toyota Arena",
-      "notes": "DPA 4081 \u00b7 faninor",
+      "notes": "DPA 4081 · faninor",
       "version": "AUD",
       "format": "FLAC 24",
       "textFile": "2024-02-17 - Ontario, CA - Toyota Arena (DPA 4081) (faninor) [AUD24].txt"
@@ -135,7 +135,7 @@ const ARTIST_DATA = {
       "state": "NV",
       "location": "Las Vegas, NV",
       "venue": "T-Mobile Arena",
-      "notes": "AT853s \u00b7 unk",
+      "notes": "AT853s · unk",
       "version": "AUD",
       "format": "FLAC 24",
       "textFile": "2024-02-18 - Las Vegas, NV - T-Mobile Arena (AT853s) (unk) [AUD24].txt"
@@ -149,7 +149,7 @@ const ARTIST_DATA = {
       "state": "UK",
       "location": "London, UK",
       "venue": "Desertfest",
-      "notes": "DPA 4061 \u00b7 dh",
+      "notes": "DPA 4061 · dh",
       "version": "AUD",
       "format": "FLAC 24",
       "textFile": "2025-05-16 - London, UK - Desertfest (DPA 4061) (dh) [AUD24].txt"
