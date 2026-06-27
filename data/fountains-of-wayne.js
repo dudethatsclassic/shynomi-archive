@@ -503,7 +503,8 @@ const ARTIST_DATA = {
       "venue": "Troubador",
       "notes": "Edirol R-09HR \u00b7 scooter123",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "2011-10-13 - Los Angeles, CA - Troubador [AUD].txt"
     },
     {
       "year": 2012,
