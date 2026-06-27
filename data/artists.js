@@ -2275,6 +2275,13 @@ const ARTISTS = [
     "lastYear": 2025
   },
   {
+    "id": "sade",
+    "name": "Sade",
+    "showCount": 1,
+    "firstYear": 1984,
+    "lastYear": 1984
+  },
+  {
     "id": "sam-and-dave",
     "name": "Sam and Dave",
     "showCount": 1,
@@ -2942,9 +2949,9 @@ const ARTISTS = [
   {
     "id": "the-temptations",
     "name": "The Temptations",
-    "showCount": 2,
+    "showCount": 1,
     "firstYear": 1982,
-    "lastYear": 1984
+    "lastYear": 1982
   },
   {
     "id": "the-urge",
