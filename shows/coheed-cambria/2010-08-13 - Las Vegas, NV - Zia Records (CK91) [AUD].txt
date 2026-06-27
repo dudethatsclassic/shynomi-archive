@@ -1,0 +1,19 @@
+COHEED AND CAMBRIA
+August 13, 2010
+Zia Records
+Las Vegas, NV
+
+Source: AKG CK91 (mod) > Naiant Littlebox > Edirol R-09HR
+Location: twenty-five feet back from center stage
+Taper: CPS
+Lineage: WAV(M) [24/44k.1] > WAV [16/44.1] > FLAC
+Edits/EQ: Q1 @ 50Hz -18dB, L3 @ -4dB
+Notes: acoustic in-store
+
+01 - intro
+02 - Here We Are Juggernaut
+03 - Pearl of the Stars
+04 - Welcome Home
+
+
+Compiled June 2020 by CPS

@@ -1,0 +1,33 @@
+Coheed & Cambria (opend for Primus)
+Friday July 19th, 2024
+McMenamins Historic Edgefield Manor
+2126 SW Halsey Street
+Troutdale, Oregon
+
+Taper:  LeifH [2024#20]
+Source:  CA-11 > A10 - front row on the rail, left side
+Transfer:  PC via USB > RX9 > Wavepad > flac (8) via TLH
+
+Setlist:  58:30
+01 The Dark Sentencer
+02 Ten Speed (Of God's Blood and Burial)
+03 The Willing Well I: Fuel for the Feeding End
+04 Key Entity Extraction V: Sentry the Defiant
+05 A Favor House Atlantic
+06 Blindside Sunny
+07 The Crowing
+08 Shoulders
+09 The Liars Club
+10 Welcome Home
+
+fingerprints:
+Coheed&Cambria2024-07-19t01.flac:2227bc22cd8a299712250cf4ab5e2973
+Coheed&Cambria2024-07-19t02.flac:2fefac5615726c9d71cb0ec4457f233a
+Coheed&Cambria2024-07-19t03.flac:908108680b442951e46cff04d47e7360
+Coheed&Cambria2024-07-19t04.flac:0a6e0bf6354a24bf74ed0efb3e2992c9
+Coheed&Cambria2024-07-19t05.flac:2ab0b94f1bb3d26186e0f0c99bde6501
+Coheed&Cambria2024-07-19t06.flac:cd97486ba1d0f5389077fd2b8b001b67
+Coheed&Cambria2024-07-19t07.flac:eefadc0b65def3d599ef6ca28656fae2
+Coheed&Cambria2024-07-19t08.flac:802c4a11905511786ffa447fb8bd9bd7
+Coheed&Cambria2024-07-19t09.flac:eed215561e404ebc3214e9fa8fdcd9df
+Coheed&Cambria2024-07-19t10.flac:76a7fc23fcb425edf7a97338b188e70d

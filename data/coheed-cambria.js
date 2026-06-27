@@ -25,9 +25,10 @@ const ARTIST_DATA = {
       "state": "NY",
       "location": "New York, NY",
       "venue": "Irving Plaza",
-      "notes": "CSB · travelinbeat",
+      "notes": "CSB \u00b7 travelinbeat",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "2005-07-22 - New York, NY - Irving Plaza (CSB) (travelinbeat) [AUD].txt"
     },
     {
       "year": 2005,
@@ -40,7 +41,8 @@ const ARTIST_DATA = {
       "venue": "Central Park",
       "notes": "",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "2005-08-06 - New York, NY - Central Park [AUD].txt"
     },
     {
       "year": 2006,
@@ -51,9 +53,10 @@ const ARTIST_DATA = {
       "state": "MN",
       "location": "Maplewood, MN",
       "venue": "Myth",
-      "notes": "DPA 4061s · steelcorner",
+      "notes": "DPA 4061s \u00b7 steelcorner",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "2006-05-08 - Maplewood, MN - Myth (DPA 4061s) (steelcorner) [AUD].txt"
     },
     {
       "year": 2008,
@@ -66,7 +69,8 @@ const ARTIST_DATA = {
       "venue": "Billboard the Venue",
       "notes": "",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "2008-04-01 - Melbourne, Australia - Billboard The Venue [AUD].txt"
     },
     {
       "year": 2008,
@@ -79,7 +83,8 @@ const ARTIST_DATA = {
       "venue": "Download Festival",
       "notes": "Main",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "2008-06-15 - Donington Park, England - Download Festival - Main Stage [AUD].txt"
     },
     {
       "year": 2009,
@@ -90,9 +95,10 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "Inglewood, CA",
       "venue": "The Forum",
-      "notes": "DSM6 · unk",
+      "notes": "DSM6 \u00b7 unk",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "2009-03-07 - Inglewood, CA - The Forum (DSM6) (unk) [AUD].txt"
     },
     {
       "year": 2009,
@@ -105,7 +111,8 @@ const ARTIST_DATA = {
       "venue": "Greek Theater",
       "notes": "",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "2009-08-11 - Los Angeles, CA - Greek Theatre [AUD].txt"
     },
     {
       "year": 2010,
@@ -118,7 +125,8 @@ const ARTIST_DATA = {
       "venue": "Zia Records",
       "notes": "",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "2010-08-13 - Las Vegas, NV - Zia Records (CK91) [AUD].txt"
     },
     {
       "year": 2012,
@@ -131,7 +139,8 @@ const ARTIST_DATA = {
       "venue": "FZW Halle",
       "notes": "",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "2012-11-01 - Dortmund, Germany - FZW Halle [AUD].txt"
     },
     {
       "year": 2023,
@@ -142,9 +151,10 @@ const ARTIST_DATA = {
       "state": "MO",
       "location": "Maryland Heights, MO",
       "venue": "Hollywood Casino Amphitheatre",
-      "notes": "CA-14 · cap'n crash",
+      "notes": "CA-14 \u00b7 cap'n crash",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "2023-05-27 - Maryland Heights, MO - Hollywood Casino Amphitheatre (CA-14) (cap'n crash) [AUD].txt"
     },
     {
       "year": 2024,
@@ -155,9 +165,10 @@ const ARTIST_DATA = {
       "state": "",
       "location": "Redmond WA",
       "venue": "Marymoor Park",
-      "notes": "CA-11 · lefih",
+      "notes": "CA-11 \u00b7 lefih",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "2024-07-18 - Redmond WA - Marymoor Park (CA-11) (lefih) [AUD].txt"
     },
     {
       "year": 2024,
@@ -168,9 +179,10 @@ const ARTIST_DATA = {
       "state": "OR",
       "location": "Troutdale, OR",
       "venue": "McMenamins Historic Edgefield Manor",
-      "notes": "CA-11 · leifh",
+      "notes": "CA-11 \u00b7 leifh",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "2024-07-19 - Troutdale, OR - McMenamins Historic Edgefield Manor (CA-11) (leifh) [AUD].txt"
     },
     {
       "year": 2024,
@@ -181,9 +193,10 @@ const ARTIST_DATA = {
       "state": "IN",
       "location": "Indianapolis, IN",
       "venue": "Everwise Amphitheater at White River State Park",
-      "notes": "SP-CMC-08s · ironchef",
+      "notes": "SP-CMC-08s \u00b7 ironchef",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "2024-08-01 - Indianapolis, IN - Everwise Amphitheater at White River State Park (SP-CMC-08s) (ironchef) [AUD].txt"
     },
     {
       "year": 2024,
@@ -194,9 +207,10 @@ const ARTIST_DATA = {
       "state": "NY",
       "location": "Buffalo, NY",
       "venue": "Terminal B at the Outer Harbor",
-      "notes": "Sennheiser MKE2 · beatkilla",
+      "notes": "Sennheiser MKE2 \u00b7 beatkilla",
       "version": "AUD",
-      "format": "FLAC 24"
+      "format": "FLAC 24",
+      "textFile": "2024-08-09 - Buffalo, NY - Terminal B at the Outer Harbor (Sennheiser MKE2) (beatkilla) [AUD24].txt"
     },
     {
       "year": 2024,
@@ -207,9 +221,10 @@ const ARTIST_DATA = {
       "state": "DC",
       "location": "Washington, DC",
       "venue": "The Anthem",
-      "notes": "DPA 4060 · alex leary",
+      "notes": "DPA 4060 \u00b7 alex leary",
       "version": "AUD",
-      "format": "FLAC 24"
+      "format": "FLAC 24",
+      "textFile": "2024-08-14 - Washington, DC - The Anthem (DPA 4060) (alex leary) [AUD24].txt"
     },
     {
       "year": 2024,
@@ -220,9 +235,10 @@ const ARTIST_DATA = {
       "state": "DC",
       "location": "Washington, DC",
       "venue": "The Anthem",
-      "notes": "Tascam DR-07Z · bucketpool",
+      "notes": "Tascam DR-07Z \u00b7 bucketpool",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "2024-08-19 - Washington, DC - The Anthem (Tascam DR-07Z) (bucketpool) [AUD].txt"
     }
   ],
   "misc": [

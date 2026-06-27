@@ -1,0 +1,60 @@
+Coheed And Cambria
+1st April, 2008
+Billboard The Venue
+Melbourne, Australia
+
+Taped by Blackstar
+Transferred by Blackstar
+
+Recorded from almost dead centre, 3 metres in front of the mixing desk.
+
+Lineage:
+Church Audio STC-11 Mics>Church Audio ST-9000 Preamp>Edirol R-09@24bit/48k>
+usb>wav>Cool Edit Pro 2.1(convert to 16bit/volume adjuctment/splitting/fade in/fade out)>Flac level 5
+
+Disc 1 (45:47)
+01. Intro (1:10)
+02. No World For Tomorrow (5:04)
+03. Gravemakers & Gunslingers (4:57)
+04. Delirium Trigger (5:24)
+05. A Favor House Atlantic (3:26)
+06. The Hound (Of Blood And Rank) (4:57)
+07. The Suffering (4:13)
+08. Feathers (5:08)
+09. Everything Evil/ (3:15)
+10. The Trooper (Iron Maiden)/ (2:24)
+11. Devil In Jersey City/ (3:35)
+12. Everything Evil (ending) (2:14)
+
+Disc 2 (51:09)
+01. Blood Red Summer (4:40)
+02. Running Free (5:11)
+03. In Keeping Secrets Of Silent Earth 3 (8:44)
+04. encore break (2:12)
+05. Welcome Home (6:23)
+06. The Final Cut (23:59)
+
+Notes:
+Altough it's not really noticable there is clipping during the first part of the recording. I checked the levels during the opening act's set and thought there was plenty of headroom but when I checked during The Hound (Of Blood And Rank) it was peaking. At that point (2:12 into The Hound), I lowered the gain and subsequent volume adjusments were done to even it out. The Billboard is a smallish venue and it was very loud. Thank god for my earplugs.
+
+Do not sell this recording. Do not convert to MP3 or other lossy formats unless it's for personal use.
+
+Fingerprints
+101 - Intro.flac:dcb1a029dcbd41567c18d4916edb5994
+102 - No World For Tomorrow.flac:3342d3127a98daf77af494c96afa2dfe
+103 - Gravemakers & Gunslingers.flac:7a260f2857870be9dd83580c57890082
+104 - Delirium Trigger.flac:0e53f1121153fe7b7830880cda86d1ac
+105 - A Favor House Atlantic.flac:d33370250942ce7b6ced7d0ac2c5c0e3
+106 - The Hound (Of Blood And Rank).flac:e73168a0c99e106da20eeb3996aa5228
+107 - The Suffering.flac:c1d9845fdff417f4f6c5a69633baca21
+108 - Feathers.flac:9bbe37ea1003e49b572459486d6a07bc
+109 - Everything Evil.flac:836de48925a72c5717ccf372a834e379
+110 - The Trooper (Iron Maiden).flac:cc7ccf445c481d24949649cdadf8b2a4
+111 - Devil In Jersey City.flac:2cb1cb8dbc95ce55b7febd3c7d8cde2e
+112 - Everything Evil (ending).flac:873f5a2270aa7ce8d78ccbb77447699f
+201 - Blood Red Summer.flac:685353dcccfe0018b6154cc6185728d5
+202 - Running Free.flac:458ad6f86f90bdc11a6ededaf4ba814a
+203 - In Keeping Secrets Of Silent Earth 3.flac:6cb03053888b7a02105adca13acbd0be
+204 - encore break.flac:a36e8a1fa5355a4cf5d78a742ca3b946
+205 - Welcome Home.flac:25aee3e421df15c8f7ebe96a854c2dda
+206 - The Final Cut.flac:5bf61b69f229d0a5c55c8a37e0530d0b

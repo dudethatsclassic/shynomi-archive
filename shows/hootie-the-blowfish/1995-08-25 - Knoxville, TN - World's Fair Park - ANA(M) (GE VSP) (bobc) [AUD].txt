@@ -1,0 +1,64 @@
+Hootie & the Blowfish
+August 25, 1995, World's Fair Park, Knoxville, TN, USA
+Title: Hootie & the Blowfish Play the Sunsphere"
+Master Cassettes to CD-R to FLAC
+
+I had typed the following note to the cardboard cassette Label: Recorded at the 
+World's Fair Park on a GE VSP recorder. Festival Seating. Doesn't include all 
+encores.*
+
+Source Info: In June 2020, the master cassettes were played through a Pyle Pro PT649D Dual Cassette Deck via a Monoprice 6ft Premium 2 RCA Plug M/M 22AWG Cable to a Sony RCD-W500C CD recorder. CD-Rs were copied to WAV using EAC. WAV files split with foobar and then converted to FLAC with TLH.
+
+I had typed the following note on the cardboard cassette case insert: Recorded at the World's Fair Park on a GE VSP recorder. Festival Seating. Doesn't include all encores.*
+
+Most of this recording doesn't sound half bad. It's low-fi, but listenable. The crowd was loud and rowdy, and I was in the midst of it all, not extremely close to the stage but not too far away either. There is a lot of audience chatter and singing along, but the music comes through surprisingly well considering the fact that I just held the recorder (with built-in mike) at around chest-level for the duration. I wrapped the recorder in a shirt to be less conspicuous, with the mike not covered.
+
+Setlist: (NOTE: C2BTr3 means cassette 2, side B, 3rd track) 
+C1ATr01 Intro - tuning
+C1ATr02 Hannah Jane
+C1ATr03 Sorry's Not Enough
+C1ATr04 Not Even the Trees
+C1ATr05 I Go Blind (54-40 cover)
+C1ATr06 Look Away
+C1ATr07 Tucker's Town
+C1ATr08 Motherless Child
+C1ATr09 I'm Goin' Home
+
+C1BTr01 crowd noise
+C1BTr02 Fine Line (Radney Foster cover) 
+C1BTr03 She Talks to Angels (The Black Crowes cover) 
+C1BTr04 Let Her Cry
+C1BTr05 Time
+C1BTr06 Use Me (Bill Withers cover)
+
+C2ATr01 Darius talks to the crowd
+C2ATr02 Running From an Angel
+C2ATr03 Old Man & Me (When I Get to Heaven)
+C2ATr04 Only Wanna Be With You (inc Closer To Fine - Indigo Girls cover)
+C2ATr05 Drowning
+C2ATr06 encore break
+C2ATr07 Keep Your Hands to Yourself (The Georgia Satellites cover)
+
+C2BTr01 Darius talks about beer
+C2BTr02 Hold My Hand
+C2BTr03 encore break 2 (Darius calls the crowd back)
+C2BTr04 Fool
+C2BTr05 Medley (Love the One You're With/Fight the Power/The Cactus/The Magic Number)
+C2BTr06 Goodbye
+
+Length: 1:58:19
+
+MEDLEY NOTES: Love the One You're With is a Stephen Stills cover. Fight the Power is a Public Enemy cover. The Cactus is a 3rd Bass cover. The Magic Number is a De La Soul cover.
+
+There were short "tape stop gaps" in the original wave files after Drowning, Hold My Hand, and the Medley. I removed these small gaps of silence to try to provide a more seamless recording. I probably only stopped due to encore breaks. For some reason, on side B of tape 2, the left channel volume is about half the volume of the right.  Maybe the batteries were getting low; I'm not sure.  I used the 3rd transfer of cassette 1, because the CD-R was bad on the first transfer and there was some excessive clipping on the second transfer, so you're probably listening to the 4th time that cassette 1 was ever played. For cassette 2, I used the second transfer (there was clipping on the first transfer), so you're likely listening to the third time cassette 2 was ever played. 
+This show seems to have been entirely forgotten. It wasn't even listed on setlist.fm at all, until I added it myself shortly before this release. I'm surprised and very pleased that these 2 tapes survived almost 25 years of storage.  In fact, they played just as well as they did the one time I played them before 2020, which was shortly after the show when I made one copy of each master cassette to listen to in the car. I then sealed the master tape cases with scotch tape, and they were stored away for 25 years. 
+The stage was positioned such that the band could see the Sunsphere, Knoxville's monument from the 1982 World's Fair. Darius asks about the Sunsphere at the beginning of C1ATr05 I Go Blind.
+
+The band was drinking beer throughout the evening (and so were most of the people in the crowd), but they put on a great show. 
+*Unfortunately, I took my girlfriend at the time, who was not into Hootie. We (and pretty much everyone else) thought the show was over when the band left the stage after Hold my Hand, so I stopped the recorder and we began walking away. Then, Darius came back out; I hit record and started walking back as soon as I heard him start talking. So, for "Fool" and the Medley, I was a lot closer to the stage. Just before they started playing "Goodbye," my soon-to-be ex-girlfriend finally nagged me into leaving. That's why "Goodbye" gets staticky and more distant as the song goes on, because we're walking away. I stopped the recording at the end of that song, and we left the park. According to my note on the cassette label, the band played at least one more song.
+
+This was the third show I ever recorded, and the last show I recorded until Foo Fighters at the Disc Exchange in 2000. Previously, I had taped Page/Plant Knoxville 95 and the Black Crowes Knoxville 95.  There is no need to digitize Page/Plant because superior DAT recordings exist, and I'm believe that someone else recorded the Black Crowes. I would like to get a copy of that Crowes show, because my master tape no longer works properly. Good thing Hootie survived so well, because I don't think anyone else captured that one.
+
+I did not alter the sound in any way. If anyone would like to remaster this one, feel free!
+Enjoy!
+A BobC recording

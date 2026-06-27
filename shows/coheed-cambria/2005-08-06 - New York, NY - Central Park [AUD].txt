@@ -1,0 +1,37 @@
+COHEED AND CAMBRIA
+2005/08/06 - Central Park; New York City, NY, US
+
+Taper:       Travelinbeat
+Location:    way in the back, on some bleachers, slightly left of the VIP area and Soundboard
+Source:      Dynamic Audio Card's w/ Battery Box > Sony MZ-R700 MD
+Conversion:  MZ-R700 > Soundforge 4.5 wav (via MD's headphone jack to PC's micjack*)> Xilisoft 2.0 flac
+Editing:     split into tracks with Soundforge 4.5, volume increase 
+Conversion: Initially with Xilisoft FLAC encoder, later decoded back into wav then flac'ed in Trader's Little Helper 2.7.0 (Build 172)
+
+**************************************************************************************************************
+Please feel free to convert this into whatever you want, I'll keep the original lossless forever, so don't worry about it disappearing!
+**************************************************************************************************************
+
+
+SET: 						LENGTH:
+
+01) Intro					00:42
+02) Welcome Home				06:15
+03) The Velorium Camper I: Faint of Hearts	05:23
+04) Devil In Jersey City			05:33
+05) A Favor House Atlantic			03:56
+06) The Velorium Camper II: Backend of Forever	06:19
+07) Good Apollo I: The Writing Writer		04:13
+08) In Keeping Secrets of Silent Earth: 3	08:39
+09) The Willing Well IV: The Final Cut		10:27
+
+				 Total Time - 51:27
+
+
+
+NOTES:
+* - Unfortunately I was young and dumb when I was creating / transferring this recording, and as a result of the process I used, and my sloppiness, there are some windows noises sprinkled throughout this entire recording.  To make matters worse, I erased the original Minidisk.  Needless to say, it's been a learning experience.  My rather novice experience level also is responsible for the clips and momentary pauses and skips which appear sporadically throughout the recording.
+
+I had my mics mounted on the rails of the Bleachers--  as you can (particularly later in the set) some mofo started drumming on the railing, completely intruding on the recording.  Sorry for it, there was nothing I could do!
+
+It was windy as hell at the show and I hadn't bought any windscreens, so I MacGuyver'ed some by slicing my socks up like crazy and wrapping up my mic's in sock pieces.  I'm glad with the result!

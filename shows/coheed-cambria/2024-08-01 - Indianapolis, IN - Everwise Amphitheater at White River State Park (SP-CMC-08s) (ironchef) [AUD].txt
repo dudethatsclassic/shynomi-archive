@@ -1,0 +1,28 @@
+Coheed and Cambria
+August 1, 2024
+Everwise Amphitheater at White River State Park
+Indianapolis, Indiana
+
+Source: Sound Professionals CMC-08s (AT943s)->SP-SB-20->Roland R05-> 
+Audacity (high-pass filter -12db @ 60Hz)->CDWave->TLH 
+Taper: ironchef 
+
+Total time:  59:45
+
+01.  Intro
+02.  In Keeping Secrets of Silent Earth: 3
+03.  Ten Speed (Of God's Blood and Burial)
+04.  The Willing Well I: Fuel for the Feeding End
+05.  Key Entity Extraction V: Sentry the Defiant
+06.  A Favor House Atlantic
+07.  Blindside Sunny
+08.  The Crowing
+09.  Shoulders
+10.  The Liars Club
+11.  Welcome Home
+
+Notes:  This is their set opening for Primus.  Recorded from the left side of the GA pit.  
+Like the Primus recording, there was a ton of low end to the sound but no crowd interference.
+I used the Audacity high pass filter to take some of the edge off of it.  Enjoy!
+
+	

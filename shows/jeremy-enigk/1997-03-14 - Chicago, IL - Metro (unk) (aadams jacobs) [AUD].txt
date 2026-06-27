@@ -1,0 +1,30 @@
+Jeremy Enigk
+March 14, 1997
+Metro
+Chicago, Illinois
+
+Recording generously loaned from the Aadam Jacobs Audio Archive.
+
+Transfer: Tascam DA30mkii > Tascam DR-100
+
+Mastering: .FLAC > FFmpeg > .WAV > Adobe Audition 2025 [normalize, compression, fades] > CDWave [tracking] > Metaflac.exe > .FLAC > Metaflac.exe [tagging].
+
+Recorded by: Aadam Jacobs
+Transfer by: Brian Emerick
+Mastered by: Popmarter
+
+Setlist: 
+01 Abegail Anne
+02 Lizard
+03 Lewis Hollow
+04 Return of the Frog Queen
+05 Carnival 
+06 Asleep Under Last Weeks News
+07 Explain
+08 Shade and the Black Hat
+09 Track 09
+10 Chewing Gum
+
+Recording 02415 from the Aadam Jacobs Collection Project 
+Coordinated by the Live Music Archive at the Internet Archive
+Contact info: aadam.jacobs.project AT gmail DOT com
