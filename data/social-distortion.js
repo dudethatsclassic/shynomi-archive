@@ -2,9 +2,9 @@ const ARTIST_DATA = {
   "id": "social-distortion",
   "name": "Social Distortion",
   "drive": "A",
-  "showCount": 88,
+  "showCount": 89,
   "firstYear": 1981,
-  "lastYear": 2025,
+  "lastYear": 2026,
   "years": [
     1981,
     1982,
@@ -34,7 +34,8 @@ const ARTIST_DATA = {
     2022,
     2023,
     2024,
-    2025
+    2025,
+    2026
   ],
   "shows": [
     {
@@ -1180,6 +1181,19 @@ const ARTIST_DATA = {
       "notes": "Miller · Shure MV-88 · unk",
       "version": "AUD",
       "format": "FLAC 24"
+    },
+    {
+      "year": 2026,
+      "month": 6,
+      "day": 7,
+      "dateStr": "6-7-2026",
+      "city": "Nürburg",
+      "state": "Germany",
+      "location": "Nürburg, Germany",
+      "venue": "Rock Am Ring",
+      "notes": "Mandora · magentamusik · Livestream",
+      "version": "Webcast",
+      "format": "MP4"
     }
   ],
   "misc": [
