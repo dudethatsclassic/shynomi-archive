@@ -20,8 +20,7 @@ const ARTIST_DATA = {
       "venue": "Music Village USA",
       "notes": "",
       "version": "preFM",
-      "format": "FLAC",
-      "textFile": "1986-07-16 - Hendersonville, TN - Music Village USA [preFM].txt"
+      "format": "FLAC"
     }
   ],
   "misc": []
