@@ -1,7 +1,7 @@
 const ARTIST_DATA = {
   "id": "fort-minor",
   "name": "Fort Minor",
-  "drive": "D",
+  "drive": "B",
   "showCount": 1,
   "firstYear": 2015,
   "lastYear": 2015,
