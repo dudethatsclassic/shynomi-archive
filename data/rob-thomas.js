@@ -82,7 +82,7 @@ const ARTIST_DATA = {
       "notes": "",
       "version": "AUD",
       "format": "FLAC 24",
-      "textFile": "2016-08-26 - Toronto, ON - Molson Amphitheatre (Rec 2) (SP-CMC08) (burnboy) [AUD24].txt"
+      "textFile": "2016-08-26 - Toronto, ON - Molson Amphitheatre (Rec 1) (CSB) (burnboy) [AUD24].txt"
     },
     {
       "year": 2016,
@@ -95,7 +95,8 @@ const ARTIST_DATA = {
       "venue": "Molson Amphitheatre (SP-CMC-8) (burnboy) Rec 2",
       "notes": "",
       "version": "AUD",
-      "format": "FLAC 24"
+      "format": "FLAC 24",
+      "textFile": "2016-08-26 - Toronto, ON - Molson Amphitheatre (Rec 2) (SP-CMC08) (burnboy) [AUD24].txt"
     },
     {
       "year": 2019,
