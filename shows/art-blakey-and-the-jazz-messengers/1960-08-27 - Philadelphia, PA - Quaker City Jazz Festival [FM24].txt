@@ -1,0 +1,18 @@
+Art Blakey & The Jazz Messengers
+August 27th, 1960
+Quaker City Jazz Festival
+Connie Mack Stadium
+Philadelphia, PA
+
+Source:
+FM > reel
+
+Transfer:
+TEAC A-3300SX > Line out > Focusrite Saffire Pro 40 > REAPER
+
+Generation:
+FM > Master reel > ? > WAV(24/48khz) > FLAC(24/48khz)
+
+This recording is from a box of reels obtained from a friend who purchased a large storage unit full of tapes with the intent to sell them as blanks. I was able to pull about 20 or so that appeared to be uncirculated for myself, mostly Duke Ellington recordings from the mid to late 60s.
+
+This was taken from an unedited FM broadcast and is of confusing origin. It's said in the first track that this is the second annual Quaker City Jazz Festival, yet some Googling shows that the second festival was held at The Spectrum and not Connie Mack Stadium. Art Blakey doesn't seem to appear on the bill for any of these festivals either. Finally, the reel is marked as "Philadelphia Jazz Festival - 3/26/60" which is not correct at all apparently. Because of the questionable nature of the tape, it was hard to tell if this was truly uncirculated or even if it had been officially released. Also on the tape are Lambert, Hendricks & Ross and Thelonious Monk, but the Monk set is available in much higher quality and will not be shared here.

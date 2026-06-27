@@ -35,7 +35,8 @@ const ARTIST_DATA = {
       "venue": "Atlantic Studios",
       "notes": "",
       "version": "SBD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1957-05-14 - New York, NY - Atlantic Studios [SBD].txt"
     },
     {
       "year": 1958,
@@ -48,7 +49,8 @@ const ARTIST_DATA = {
       "venue": "",
       "notes": "",
       "version": "SBD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1958-12-04 - Zurich, Switzerland - Live at Volkshaus [SBD].txt"
     },
     {
       "year": 1959,
@@ -61,7 +63,8 @@ const ARTIST_DATA = {
       "venue": "Freebody Park",
       "notes": "",
       "version": "SBD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1959-07-01 - Newport, RI - Freebody Park [SBD].txt"
     },
     {
       "year": 1959,
@@ -74,7 +77,8 @@ const ARTIST_DATA = {
       "venue": "Unknown Venue",
       "notes": "",
       "version": "SBD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1959-11-23 - Stockholm, Sweden - Unknown Venue [SBD].txt"
     },
     {
       "year": 1959,
@@ -87,7 +91,8 @@ const ARTIST_DATA = {
       "venue": "Deutsches Museum",
       "notes": "",
       "version": "FM",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1959-11-28 - Munich, Germany - Deutsches Museum [FM].txt"
     },
     {
       "year": 1959,
@@ -100,7 +105,8 @@ const ARTIST_DATA = {
       "venue": "Deutsches Museum",
       "notes": "",
       "version": "FM",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1959-11-29 - Munich, Germany - Deutsches Museum [FM].txt"
     },
     {
       "year": 1960,
@@ -113,7 +119,8 @@ const ARTIST_DATA = {
       "venue": "Quaker City Jazz Festival",
       "notes": "",
       "version": "FM",
-      "format": "FLAC 24"
+      "format": "FLAC 24",
+      "textFile": "1960-08-27 - Philadelphia, PA - Quaker City Jazz Festival [FM24].txt"
     },
     {
       "year": 1961,
@@ -126,7 +133,8 @@ const ARTIST_DATA = {
       "venue": "Free Trade Hall",
       "notes": "",
       "version": "FM",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1961-05-06 - Manchester, UK - Free Trade Hall [FM].txt"
     },
     {
       "year": 1962,
@@ -139,7 +147,8 @@ const ARTIST_DATA = {
       "venue": "Unknown Venue",
       "notes": "",
       "version": "FM",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1962-02-13 - Stockholm, Sweden - Unknown Venue [FM].txt"
     },
     {
       "year": 1965,
@@ -165,7 +174,8 @@ const ARTIST_DATA = {
       "venue": "Cine-Tele Sound Studio",
       "notes": "",
       "version": "SBD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1965-03-07 - London, UK - Cine-Tele Sound Studio [SBD].txt"
     },
     {
       "year": 1965,
@@ -178,7 +188,8 @@ const ARTIST_DATA = {
       "venue": "Half Note",
       "notes": "WABC",
       "version": "FM",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1965-06-11 - New York, NY - Half Note - WABC Broadcast [FM].txt"
     },
     {
       "year": 1968,
@@ -191,7 +202,8 @@ const ARTIST_DATA = {
       "venue": "Konzerthaus",
       "notes": "",
       "version": "FM",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1968-11-03 - Vienna, Austria - Konzerthaus [FM].txt"
     },
     {
       "year": 1969,
@@ -204,7 +216,8 @@ const ARTIST_DATA = {
       "venue": "Rutgers University",
       "notes": "",
       "version": "FM",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1969-04-15 - New Brunswick, NJ - Rutgers University [FM].txt"
     },
     {
       "year": 1972,
@@ -217,7 +230,8 @@ const ARTIST_DATA = {
       "venue": "Unknown Venue",
       "notes": "",
       "version": "SBD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1972-08-18 - Munich, Germany - Unknown Venue [SBD].txt"
     },
     {
       "year": 1977,
@@ -230,7 +244,8 @@ const ARTIST_DATA = {
       "venue": "Festival du Jazz",
       "notes": "jazzrita edit",
       "version": "SBD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1977-04-23 - La Rochelle, France - Festival du Jazz (jazzrita edit) [SBD].txt"
     },
     {
       "year": 1978,
@@ -243,7 +258,8 @@ const ARTIST_DATA = {
       "venue": "Bijou Cafe",
       "notes": "",
       "version": "SBD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1978-01-19 - Philadelphia, PA - Bijou Cafe [SBD].txt"
     },
     {
       "year": 1981,
@@ -256,7 +272,8 @@ const ARTIST_DATA = {
       "venue": "Blues Alley",
       "notes": "",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1981-07-11 - Washington, D.C. - Blues Alley [AUD].txt"
     },
     {
       "year": 1983,
@@ -267,9 +284,10 @@ const ARTIST_DATA = {
       "state": "NY",
       "location": "New York, NY",
       "venue": "Blue Note",
-      "notes": "1st Set · Nak 300s · tapetyrant",
+      "notes": "1st Set \u00b7 Nak 300s \u00b7 tapetyrant",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1983-02-25 - New York, NY - Blue Note (1st Set) (Nak 300s) (tapetyrant) [AUD].txt"
     },
     {
       "year": 1983,
@@ -282,7 +300,8 @@ const ARTIST_DATA = {
       "venue": "Panino Jazz Club",
       "notes": "",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1983-03-01 - Perugia, Italy - Panino Jazz Club [AUD].txt"
     },
     {
       "year": 1983,
@@ -295,7 +314,8 @@ const ARTIST_DATA = {
       "venue": "Schauburg",
       "notes": "",
       "version": "FM",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1983-07-26 - Bremen, Germany - Schauburg [FM].txt"
     },
     {
       "year": 1984,
@@ -308,7 +328,8 @@ const ARTIST_DATA = {
       "venue": "Internationale Jazzwoche 1984",
       "notes": "",
       "version": "TV",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1984-03-23 - Burghausen, Germany - Internationale Jazzwoche 1984 [TV].txt"
     },
     {
       "year": 1986,
@@ -321,7 +342,8 @@ const ARTIST_DATA = {
       "venue": "Chestnut Cabaret",
       "notes": "billydee",
       "version": "SBD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1986-10-02 - Philadelphia, PA - Chestnut Cabaret (billydee) [SBD].txt"
     }
   ],
   "misc": []

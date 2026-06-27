@@ -1,0 +1,60 @@
+ART BLAKEY & THE JAZZ MESSENGERS 
+
+
+Chestnut Cabaret 
+Philadelphia, PA 
+
+1986-10-02 (early and late shows) 
+
+
+Kenny Garrett : alto sax 
+Jean Toussaint : tenor sax 
+Wallace Roney : trumpet 
+Tim Williams : trombone 
+Donald Brown : piano 
+Peter Washington : bass 
+Art Blakey : drums 
+
+
+s1tr00. MC intro/tuning 
+s1tr01. Feeling Good 
+s1tr02.  
+s1tr03. ? > I Love You > St. Thomas > ?
+s1tr04.  
+s1tr05. The Theme/outro {fade out - very end missing} 
+s2tr00. tuning 
+s2tr01.  
+s2tr02.  
+s2tr03. 
+s2tr04. Caravan 
+s2tr05. The Theme/outro 
+
+TT : approx. 127:20 
+
+
+Recording Notes: 
+The "Feeling Good" album had just been recorded with this same band a month earlier. 
+
+
+Source Notes: 
+- a 'billydee' Soundboard Beta/PCM Master 
+The opening sets from The John Blake Quartet also recorded (and posted). 
+
+
+Recording lineage: 
+Soundboard (full stereo mix) > Sony PCM-F1 (@16bit) > Beta video recorder 
+Transfer: 
+Sony Beta video deck > Modified Sony 601EsD PCM digital out > Edirol R-44 (DC offset removed) 
+Editing: 
+WAV > 
+Audition 3 (edits, slight eq below 2 kHz, fades, level adjustments) > 
+Trader's Little Helper > FLAC (level 8, sectors aligned) 
+
+these are 16bit/44.1kHz flac files 
+
+
+from billydee: 
+"Special thanks to Nicky C & WR for doing the PCM transfers and related processing."  
+
+from bomb: 
+Thanks to billydee for recording and all involved in bringing this back for us. 

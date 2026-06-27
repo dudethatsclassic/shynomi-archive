@@ -1,0 +1,44 @@
+Art Blakey & The Jazz Messengers
+The Bijou Cafe
+Philadelphia, PA, USA
+January 19, 1978
+Mono SBD
+
+Early & Late Sets (both incomplete)
+
+Lineage:
+Master tapes, Recorded on an unknown deck in mono to two Maxell UD XL1 C60 cassettes using Dolby B > Played back on a Nakamichi DR-1, azimuth adjusted, Dolby B > Audition (Pitch Bender +53 cents; tracking) > TLH (FLAC Level 8; Align sector boundaries; .ffp) > foobar2000 (tags)
+
+
+Art Blakey - drums
+James Williams - piano (announced as 'Jimmy')
+Dennis Irwin - bass
+Bobby Watson - alto saxophone
+David Schnitter - tenor saxophone
+Valeri Ponomarev - trumpet
+
+
+Early Set (incomplete)
+01 Lift Every Voice And Sing (AKA The Black National Anthem)(John Rosamond Johnson; James Weldon Johnson) >  2:34
+02 Jodi (Walter Davis, Jr.)  12:39
+03 Along Came Betty (Benny Golson) >  9:28 
+04 The Song // > (tape flip)  5:46
+05 // Is You (Jerome Kern; Oscar Hammerstein II)  4:08
+06 AB introduces the band  4:28
+07 Medley (feat. James Williams): My Foolish Heart (Victor Young; Ned Washington) > unknown > unknown > That's All (Alan Brandt; Bob Haymes)  11:01
+08 Say Dr. "J" >  8:55
+09 The Theme / AB Band introductions, outro //  1:59
+TT: 61:01
+
+
+Late Set (incomplete)
+01 Free For All (Wayne Shorter)  12:18
+02 Mishima (David Schnitter)  19:09 *
+03 AB introduces the band  4:21
+04 My One And Only Love (feat. Valeri Ponomarev)(Guy Wood; Robert Mellin) >  10:14 
+05 Blues March (Benny Golson)  10:33
+06 Pamela // (Bobby Watson)(incomplete)  4:27
+TT: 61:05
+
+*(Please note: A 00:00:19:45 second segment has been pasted at 18:03:55, copied from a similar earlier instance of the missing phrase, to fill in the gap caused by a tape flip and make for a more pleasant listening experience.)
+

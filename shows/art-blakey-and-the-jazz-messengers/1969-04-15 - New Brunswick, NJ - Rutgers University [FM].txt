@@ -1,0 +1,28 @@
+ART BLAKEY and the JAZZ MESSENGERS
+April 15, 1969
+Rutgers University
+New Brunswick, NJ
+
+Disc One (55:3):
+
+01. The Moontrane - 17:26
+02. Round About Midnight - 11:21
+03. Unknown - 26:48
+
+Disc Two (38:52):
+
+04. Moanin' - 17:42
+05. A Night in Tunisia - 21:10
+
+Musicians:
+Woody Shaw - trumpet
+Carlos Garnett - tenor saxophone
+George Cables - piano
+Scotty Holt - bass
+Art Blakey - drums
+
+Source:
+FM broadcast
+
+Lineage:
+FM >reel >.wav >CDR >EAC (secure) >SoundForge 6.0 and Wavelab 5.0 >CD Wave >FLAC Frontend (level 8, SBE OK)

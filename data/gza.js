@@ -18,9 +18,10 @@ const ARTIST_DATA = {
       "state": "OH",
       "location": "Cincinnati, OH",
       "venue": "The Taft Theatre",
-      "notes": "Schoeps MK4 · funk it blog",
+      "notes": "Schoeps MK4 \u00b7 funk it blog",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "2025-05-14 - Cincinnati, OH - The Taft Theatre (Schoeps MK4) (funk it blog) [AUD24].txt"
     }
   ],
   "misc": []
