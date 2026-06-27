@@ -28,7 +28,7 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "San Francisco, CA",
       "venue": "Fillmore",
-      "notes": "unk \u00b7 neekrive",
+      "notes": "unk · neekrive",
       "version": "AUD",
       "format": "FLAC",
       "textFile": "1996-10-09 - San Francisco, CA - Fillmore (unk) (neekrive) [AUD].txt"
@@ -42,7 +42,7 @@ const ARTIST_DATA = {
       "state": "NC",
       "location": "Raleigh, NC",
       "venue": "Walnut Creek Amphitheatre",
-      "notes": "Ozzfest \u00b7 Realistic Minisette-20 \u00b7 shynomi",
+      "notes": "Ozzfest · Realistic Minisette-20 · shynomi",
       "version": "AUD",
       "format": "FLAC",
       "textFile": "1998-08-01 - Raleigh, NC - Walnut Creek Amphitheatre - Ozzfest (Shynomi Master) [AUD].txt"
@@ -70,7 +70,7 @@ const ARTIST_DATA = {
       "state": "AZ",
       "location": "Phoenix, AZ",
       "venue": "American West Arena",
-      "notes": "CSB \u00b7 spaceboy",
+      "notes": "CSB · spaceboy",
       "version": "AUD",
       "format": "FLAC",
       "textFile": "1999-10-22 - Phoenix, AZ - American West Arena [AUD].txt"
@@ -112,7 +112,7 @@ const ARTIST_DATA = {
       "state": "Hungary",
       "location": "Sopron, Hungary",
       "venue": "Liver Kemping",
-      "notes": "Volt \u00b7 SP-CMC-4 \u00b7 ufonight",
+      "notes": "Volt · SP-CMC-4 · ufonight",
       "version": "AUD",
       "format": "FLAC",
       "textFile": "2009-07-02 - Sopron, Hungary - Liver Kemping - Volt Festival (UFOnight) [AUD].txt"
@@ -126,7 +126,7 @@ const ARTIST_DATA = {
       "state": "MD",
       "location": "Baltimore, MD",
       "venue": "Rams Head Live",
-      "notes": "AKG CK61 + Shure IEM \u00b7 jlizard",
+      "notes": "AKG CK61 + Shure IEM · jlizard",
       "version": "MIX",
       "format": "FLAC",
       "textFile": "2013-05-03 - Baltimore, MD - Rams Head Live (AKG CK61 + Shure IEM) (jlizard) [MIX].txt"
@@ -154,7 +154,7 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "West Hollywood, CA",
       "venue": "The Troubadour",
-      "notes": "Roland R-05 \u00b7 unk",
+      "notes": "Roland R-05 · unk",
       "version": "AUD",
       "format": "FLAC",
       "textFile": "2019-03-05 - West Hollywood, CA - The Troubadour (Roland R-05) (unk) [AUD].txt"
@@ -168,7 +168,7 @@ const ARTIST_DATA = {
       "state": "OH",
       "location": "Youngstown, OH",
       "venue": "Covellie Centre",
-      "notes": "AT853U \u00b7 live2cd",
+      "notes": "AT853U · live2cd",
       "version": "AUD",
       "format": "FLAC",
       "textFile": "2022-05-18 - Youngstown, OH - Covellie Centre (AT853U) (live2cd) [AUD].txt"
@@ -182,7 +182,7 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "Ontario, CA",
       "venue": "Toyota Arena",
-      "notes": "SP-CMC-8 \u00b7 fried_morals",
+      "notes": "SP-CMC-8 · fried_morals",
       "version": "AUD",
       "format": "FLAC",
       "textFile": "2022-05-31 - Ontario, CA - Toyota Arena (SP-CMC-8) (fried_morals) [AUD].txt"
@@ -196,7 +196,7 @@ const ARTIST_DATA = {
       "state": "Germany",
       "location": "Nunberg, Germany",
       "venue": "Rock im Park",
-      "notes": "CA-14 \u00b7 rasensteine",
+      "notes": "CA-14 · rasensteine",
       "version": "AUD",
       "format": "FLAC",
       "textFile": "2023-06-04 - Nunberg, Germany - Rock im Park (CA-14) (rasensteine) [AUD].txt"
@@ -210,7 +210,7 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "Sacramento, CA",
       "venue": "Discovery Park",
-      "notes": "Aftershock \u00b7 Schoeps MK4s \u00b7 tj",
+      "notes": "Aftershock · Schoeps MK4s · tj",
       "version": "AUD",
       "format": "FLAC 24",
       "textFile": "2023-10-06 - Sacramento, CA - Discovery Park - Aftershock Festival (Schoeps MK4s) (tj) [AUD24].txt"
@@ -224,7 +224,7 @@ const ARTIST_DATA = {
       "state": "Chile",
       "location": "Santiago, Chile",
       "venue": "Banco de Chile Stage",
-      "notes": "Lollapalooza \u00b7 fstambuk",
+      "notes": "Lollapalooza · fstambuk",
       "version": "Webcast",
       "format": "MKV",
       "textFile": "2024-03-15 - Santiago, Chile - Banco de Chile Stage - Lollapalooza (fstambuk) [MKV].txt"
@@ -252,7 +252,7 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "Concord, CA",
       "venue": "Concord Pavilion",
-      "notes": "Schoeps MK4s \u00b7 tj",
+      "notes": "Schoeps MK4s · tj",
       "version": "AUD",
       "format": "FLAC 24",
       "textFile": "2024-08-23 - Concord, CA - Concord Pavilion (Schoeps MK4s) (tj) [AUD24].txt"
@@ -266,7 +266,7 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "San Bernardino, CA",
       "venue": "Glen Helen Amphitheater",
-      "notes": "Sony PCM-A10 \u00b7 miguelr",
+      "notes": "Sony PCM-A10 · miguelr",
       "version": "AUD",
       "format": "FLAC",
       "textFile": "2024-08-24 - San Bernardino, CA - Glen Helen Amphitheater (Sony PCM-A10) (miguelr) [AUD].txt"
