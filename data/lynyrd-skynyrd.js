@@ -253,7 +253,7 @@ const ARTIST_DATA = {
       "notes": "",
       "version": "SBD",
       "format": "FLAC",
-      "textFile": "1976-08-21 - Stevenage, England - Knebworth Park [SBD].txt"
+      "textFile": "1976-08-21 - Knebworth, UK - Teaching An Oakie To Fly [Silver].txt"
     },
     {
       "year": 1976,
@@ -266,7 +266,8 @@ const ARTIST_DATA = {
       "venue": "Knebworth Park *Teaching An Oakie To Fly",
       "notes": "",
       "version": "Silver CD",
-      "format": "SHN"
+      "format": "SHN",
+      "textFile": "1976-08-21 - Stevenage, England - Knebworth Park [SBD].txt"
     },
     {
       "year": 1976,
@@ -280,7 +281,7 @@ const ARTIST_DATA = {
       "notes": "",
       "version": "AUD",
       "format": "FLAC",
-      "textFile": "1976-08-27 - South Yarmouth, MA - Cape Cod Coliseum (Sony ECM-99) (dan lampinski) [AUD24].txt"
+      "textFile": "1976-08-27 - Cape Cod, MA - Cape Cod Coliseum [AUD].txt"
     },
     {
       "year": 1976,
@@ -293,7 +294,8 @@ const ARTIST_DATA = {
       "venue": "Cape Cod Coliseum",
       "notes": "Sony ECM-99 \u00b7 dan lampinski",
       "version": "AUD",
-      "format": "FLAC 24"
+      "format": "FLAC 24",
+      "textFile": "1976-08-27 - South Yarmouth, MA - Cape Cod Coliseum (Sony ECM-99) (dan lampinski) [AUD24].txt"
     },
     {
       "year": 1977,

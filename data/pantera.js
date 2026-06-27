@@ -248,7 +248,7 @@ const ARTIST_DATA = {
       "notes": "",
       "version": "AUD",
       "format": "FLAC",
-      "textFile": "1992-08-31 - Toronto, ON - Concert Hall - ANA(1) (motleykiwi) [AUD24].txt"
+      "textFile": "1992-08-31 - Toronto, Canada - Concert Hall [AUD].txt"
     },
     {
       "year": 1992,
@@ -261,7 +261,8 @@ const ARTIST_DATA = {
       "venue": "Concert Hall",
       "notes": "ANA(1) \u00b7 motleykiwi",
       "version": "AUD",
-      "format": "FLAC 24"
+      "format": "FLAC 24",
+      "textFile": "1992-08-31 - Toronto, ON - Concert Hall - ANA(1) (motleykiwi) [AUD24].txt"
     },
     {
       "year": 1992,
@@ -484,7 +485,7 @@ const ARTIST_DATA = {
       "notes": "dj master",
       "version": "AUD",
       "format": "FLAC",
-      "textFile": "1996-07-22 - San Francisco, CA - Cow Palace (exene & bluejane99) [MTX].txt"
+      "textFile": "1996-07-22 - Daly City, CA - Cow Palace (DJ Master) [AUD].txt"
     },
     {
       "year": 1996,
@@ -497,7 +498,8 @@ const ARTIST_DATA = {
       "venue": "Cow Palace",
       "notes": "exene/bluejane99",
       "version": "MTX",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1996-07-22 - San Francisco, CA - Cow Palace (exene & bluejane99) [MTX].txt"
     },
     {
       "year": 1996,

@@ -73,7 +73,7 @@ const ARTIST_DATA = {
       "notes": "",
       "version": "FM",
       "format": "FLAC",
-      "textFile": "2006-08-21 - XFM Xposure with John Kennedy [FM].flac.txt"
+      "textFile": "2006-08-21 - BBC 6music Steve Lamacq (Thom interview) [FM].txt"
     },
     {
       "year": 2006,
@@ -86,7 +86,8 @@ const ARTIST_DATA = {
       "venue": "",
       "notes": "",
       "version": "FM",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "2006-08-21 - XFM Xposure with John Kennedy [FM].flac.txt"
     },
     {
       "year": 2006,
@@ -169,7 +170,7 @@ const ARTIST_DATA = {
       "notes": "unk",
       "version": "AUD",
       "format": "FLAC",
-      "textFile": "2009-10-04 - Los Angeles, CA - Orpheum Theatre [AUD].txt"
+      "textFile": "2009-10-04 - Los Angeles, CA - Orpheum Theatre [AUD1].txt"
     },
     {
       "year": 2009,
@@ -182,7 +183,8 @@ const ARTIST_DATA = {
       "venue": "Orpheum Theatre",
       "notes": "AT831 \u00b7 edgar",
       "version": "AUD",
-      "format": "SHN"
+      "format": "SHN",
+      "textFile": "2009-10-04 - Los Angeles, CA - Orpheum Theatre [AUD2].txt"
     },
     {
       "year": 2009,
@@ -195,7 +197,8 @@ const ARTIST_DATA = {
       "venue": "Orpheum Theatre",
       "notes": "AT943c \u00b7 funkymunkey",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "2009-10-04 - Los Angeles, CA - Orpheum Theatre [AUD3].txt"
     },
     {
       "year": 2009,
@@ -208,7 +211,8 @@ const ARTIST_DATA = {
       "venue": "Orpheum Theatre",
       "notes": "Schoeps MK41 \u00b7 0drogs",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "2009-10-04 - Los Angeles, CA - Orpheum Theatre [AUD].txt"
     },
     {
       "year": 2009,
@@ -263,7 +267,7 @@ const ARTIST_DATA = {
       "notes": "DPA4061 \u00b7 stephen",
       "version": "AUD",
       "format": "FLAC",
-      "textFile": "2010-02-25 - Cambridge, UK - Corn Exchange [AUD].txt"
+      "textFile": "2010-02-25 - Cambridge, UK - Corn Exchange [AUD1].txt"
     },
     {
       "year": 2010,
@@ -276,7 +280,8 @@ const ARTIST_DATA = {
       "venue": "Corn Exchange",
       "notes": "Sony mic \u00b7 unk",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "2010-02-25 - Cambridge, UK - Corn Exchange [AUD24].txt"
     },
     {
       "year": 2010,
@@ -289,7 +294,8 @@ const ARTIST_DATA = {
       "venue": "Corn Exchange",
       "notes": "unk",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "2010-02-25 - Cambridge, UK - Corn Exchange [AUD].txt"
     },
     {
       "year": 2010,
@@ -428,7 +434,7 @@ const ARTIST_DATA = {
       "notes": "Neumann KM140s \u00b7 unk",
       "version": "AUD",
       "format": "FLAC",
-      "textFile": "2018-05-30 - Zurich, Switzerland - Halle 662 [AUD].txt"
+      "textFile": "2018-05-30 - Zurich, Switzerland - Halle 662 (Thom) [AUD].txt"
     },
     {
       "year": 2018,
@@ -441,7 +447,8 @@ const ARTIST_DATA = {
       "venue": "Halle 662",
       "notes": "Schoeps MK41V \u00b7 unk",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "2018-05-30 - Zurich, Switzerland - Halle 662 [AUD].txt"
     },
     {
       "year": 2018,
@@ -566,7 +573,7 @@ const ARTIST_DATA = {
       "notes": "",
       "version": "FM",
       "format": "FLAC",
-      "textFile": "2018-12-04 - Santa Monica, CA - KCRW Morning Becomes Eclectic [FM].txt"
+      "textFile": "2018-12-04 - Chicago, IL - Chicago Theatre [AUD24].txt"
     },
     {
       "year": 2018,
@@ -579,7 +586,8 @@ const ARTIST_DATA = {
       "venue": "Chicago Theatre",
       "notes": "Schoeps MK4s \u00b7 tapeworm48",
       "version": "AUD",
-      "format": "FLAC 24"
+      "format": "FLAC 24",
+      "textFile": "2018-12-04 - Santa Monica, CA - KCRW Morning Becomes Eclectic [FM].txt"
     },
     {
       "year": 2018,
@@ -663,7 +671,7 @@ const ARTIST_DATA = {
       "notes": "funkymunkey",
       "version": "IEM",
       "format": "FLAC",
-      "textFile": "2018-12-17 - San Diego, CA - Observatory North Park [AUD].txt"
+      "textFile": "2018-12-17 - San Diego CA - Observatory North Park [IEM].txt"
     },
     {
       "year": 2018,
@@ -676,7 +684,8 @@ const ARTIST_DATA = {
       "venue": "Observatory North Park",
       "notes": "Schoeps MK41s \u00b7 ed davis",
       "version": "IEM",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "2018-12-17 - San Diego, CA - Observatory North Park [AUD].txt"
     },
     {
       "year": 2018,
@@ -830,7 +839,7 @@ const ARTIST_DATA = {
       "notes": "MK4 \u00b7 daspyknows",
       "version": "AUD",
       "format": "FLAC",
-      "textFile": "2019-10-18 - Berkeley, CA - Greek Theater (MK4) (daspyknows) [AUD].wav.txt"
+      "textFile": "2019-10-18 - Berkeley, CA - Greek Theater (MK4) (daspyknows) (inez edit) [AUD24].flac.txt"
     },
     {
       "year": 2019,
@@ -843,7 +852,8 @@ const ARTIST_DATA = {
       "venue": "Greek Theater",
       "notes": "MK4 \u00b7 daspyknows \u00b7 inez edit",
       "version": "AUD",
-      "format": "FLAC 24"
+      "format": "FLAC 24",
+      "textFile": "2019-10-18 - Berkeley, CA - Greek Theater (MK4) (daspyknows) [AUD].wav.txt"
     },
     {
       "year": 2019,
@@ -954,7 +964,7 @@ const ARTIST_DATA = {
       "notes": "Nokia Lumia 930 \u00b7 freddie007",
       "version": "AUD",
       "format": "FLAC",
-      "textFile": "2024-10-29 - Melbourne, Australia - Sidney Myer Music Bowl (Zoom H1n) (choc_eclaire) [AUD24].txt"
+      "textFile": "2024-10-29 - Melbourne, AUS - Sidney Myer Music Bowl (Nokia Lumia 930) (freddie007) [AUD].txt"
     },
     {
       "year": 2024,
@@ -967,7 +977,8 @@ const ARTIST_DATA = {
       "venue": "Sidney Myer Music Bowl",
       "notes": "Zoom H1n \u00b7 choc_eclaire",
       "version": "AUD",
-      "format": "FLAC 24"
+      "format": "FLAC 24",
+      "textFile": "2024-10-29 - Melbourne, Australia - Sidney Myer Music Bowl (Zoom H1n) (choc_eclaire) [AUD24].txt"
     }
   ],
   "misc": [

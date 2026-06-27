@@ -38,7 +38,7 @@ const ARTIST_DATA = {
       "notes": "DPA 4061 \u00b7 relaxing",
       "version": "AUD",
       "format": "FLAC",
-      "textFile": "2010-04-05 - New York, NY - Roseland Ballroom [AUD2].txt"
+      "textFile": "2010-04-05 - New York, NY - Roseland Ballroom [AUD1].txt"
     },
     {
       "year": 2010,
@@ -51,7 +51,8 @@ const ARTIST_DATA = {
       "venue": "Roseland Ballroom",
       "notes": "Zoom H2 \u00b7 anonymous99",
       "version": "AUD",
-      "format": "SHN"
+      "format": "SHN",
+      "textFile": "2010-04-05 - New York, NY - Roseland Ballroom [AUD2].txt"
     },
     {
       "year": 2010,
@@ -65,7 +66,7 @@ const ARTIST_DATA = {
       "notes": "unk \u00b7 hoserama",
       "version": "AUD",
       "format": "FLAC",
-      "textFile": "2010-04-06 - New York, NY - Roseland Ballroom [AUD].txt"
+      "textFile": "2010-04-06 - New York, NY - Roseland Ballroom [AUD1].txt"
     },
     {
       "year": 2010,
@@ -78,7 +79,8 @@ const ARTIST_DATA = {
       "venue": "Roseland Ballroom",
       "notes": "unk \u00b7 hoserama",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "2010-04-06 - New York, NY - Roseland Ballroom [AUD2].txt"
     },
     {
       "year": 2010,
@@ -91,7 +93,8 @@ const ARTIST_DATA = {
       "venue": "Roseland Ballroom",
       "notes": "inc \u00b7 Panasonic Lumix DMC-ZS3 \u00b7 inez",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "2010-04-06 - New York, NY - Roseland Ballroom [AUD].txt"
     },
     {
       "year": 2010,
@@ -133,7 +136,7 @@ const ARTIST_DATA = {
       "notes": "Schoeps MK4s \u00b7 tapeworm48",
       "version": "AUD",
       "format": "FLAC",
-      "textFile": "2010-04-10 - Chicago, IL - Aragon Ballroom [AUD24].txt"
+      "textFile": "2010-04-10 - Chicago, IL - Aragon Ballroom [AUD1].txt"
     },
     {
       "year": 2010,
@@ -146,7 +149,8 @@ const ARTIST_DATA = {
       "venue": "Aragon Ballroom",
       "notes": "Zoom H2 \u00b7 drewmanchu",
       "version": "AUD",
-      "format": "FLAC 24"
+      "format": "FLAC 24",
+      "textFile": "2010-04-10 - Chicago, IL - Aragon Ballroom [AUD2-24].txt"
     },
     {
       "year": 2010,
@@ -159,7 +163,8 @@ const ARTIST_DATA = {
       "venue": "Aragon Ballroom",
       "notes": "Core Sound HEB 4060 \u00b7 jb",
       "version": "AUD",
-      "format": "FLAC 24"
+      "format": "FLAC 24",
+      "textFile": "2010-04-10 - Chicago, IL - Aragon Ballroom [AUD24].txt"
     },
     {
       "year": 2010,
@@ -173,7 +178,7 @@ const ARTIST_DATA = {
       "notes": "DPA 4061 \u00b7 unk",
       "version": "AUD",
       "format": "FLAC",
-      "textFile": "2010-04-14 - Oakland, CA - Fox Theatre [MTX].txt"
+      "textFile": "2010-04-14 - Oakland, CA - Fox Theatre [AUD].txt"
     },
     {
       "year": 2010,
@@ -186,7 +191,8 @@ const ARTIST_DATA = {
       "venue": "Fox Theatre",
       "notes": "DPA 4061 + Zoom H4n \u00b7 crazylegs + hoserama",
       "version": "MIX",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "2010-04-14 - Oakland, CA - Fox Theatre [MTX].txt"
     },
     {
       "year": 2010,
@@ -200,7 +206,7 @@ const ARTIST_DATA = {
       "notes": "Zoom H4n + KM140s + CCM4 \u00b7 hoserama + wilson66 + persistantsound",
       "version": "MIX",
       "format": "FLAC",
-      "textFile": "2010-04-15 - Oakland, CA - Fox Theatre [MTX].txt"
+      "textFile": "2010-04-15 - Oakland, CA - Fox Theatre [AUD24].txt"
     },
     {
       "year": 2010,
@@ -213,7 +219,8 @@ const ARTIST_DATA = {
       "venue": "Fox Theatre",
       "notes": "KM140s \u00b7 wilson66",
       "version": "AUD",
-      "format": "FLAC 24"
+      "format": "FLAC 24",
+      "textFile": "2010-04-15 - Oakland, CA - Fox Theatre [MTX].txt"
     },
     {
       "year": 2010,

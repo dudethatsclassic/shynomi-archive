@@ -52,7 +52,7 @@ const ARTIST_DATA = {
       "notes": "Broadcast \u00b7 g",
       "version": "TV",
       "format": "TS",
-      "textFile": "2022-01-30 - London, England - Magazine - Broadcast 3 (g) [TS].txt"
+      "textFile": "2022-01-30 - London, England - Magazine - Broadcast 2 (g) [TS].txt"
     },
     {
       "year": 2022,
@@ -65,7 +65,8 @@ const ARTIST_DATA = {
       "venue": "Magazine",
       "notes": "Broadcast \u00b7 g",
       "version": "TV",
-      "format": "TS"
+      "format": "TS",
+      "textFile": "2022-01-30 - London, England - Magazine - Broadcast 3 (g) [TS].txt"
     },
     {
       "year": 2022,
@@ -191,7 +192,7 @@ const ARTIST_DATA = {
       "notes": "Roland CS-10EM \u00b7 phideaux3",
       "version": "AUD",
       "format": "FLAC 24",
-      "textFile": "2022-11-20 - New York, NY - Hammerstein Ballroom (Schoeps MK4) (daspyknows) [AUD24].txt"
+      "textFile": "2022-11-20 - New York, NY - Hammerstein Ballroom (Roland CS-10EM) (phideaux3) [AUD24].txt"
     },
     {
       "year": 2022,
@@ -204,7 +205,8 @@ const ARTIST_DATA = {
       "venue": "Hammerstein Ballroom",
       "notes": "Schoeps MK4 \u00b7 daspyknows",
       "version": "AUD",
-      "format": "FLAC 24"
+      "format": "FLAC 24",
+      "textFile": "2022-11-20 - New York, NY - Hammerstein Ballroom (Schoeps MK4) (daspyknows) [AUD24].txt"
     },
     {
       "year": 2022,
@@ -330,7 +332,7 @@ const ARTIST_DATA = {
       "notes": "Shure MV88-Shure Motiv Audio App \u00b7 tremolo75",
       "version": "AUD",
       "format": "FLAC 24",
-      "textFile": "2023-06-29 - Miami, FL - Knight Center (Tascam DR-05X) (unk) [AUD24].txt"
+      "textFile": "2023-06-29 - Miami, FL - Knight Center (Shure MV88-Shure Motiv Audio App) (tremolo75) [AUD24].txt"
     },
     {
       "year": 2023,
@@ -343,7 +345,8 @@ const ARTIST_DATA = {
       "venue": "Knight Center",
       "notes": "Tascam DR-05X \u00b7 unk",
       "version": "AUD",
-      "format": "FLAC 24"
+      "format": "FLAC 24",
+      "textFile": "2023-06-29 - Miami, FL - Knight Center (Tascam DR-05X) (unk) [AUD24].txt"
     },
     {
       "year": 2023,

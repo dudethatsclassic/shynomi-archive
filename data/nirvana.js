@@ -1551,7 +1551,7 @@ const ARTIST_DATA = {
       "notes": "ANA(1) \u00b7 mz",
       "version": "SBD #1a",
       "format": "FLAC",
-      "textFile": "1989-11-01 - Rotterdam, The Netherlands - Nighttown.txt"
+      "textFile": "1989-11-01 - Hilversum, The Netherlands - Villa 65.txt"
     },
     {
       "year": 1989,
@@ -1564,7 +1564,8 @@ const ARTIST_DATA = {
       "venue": "Villa 65 (Nozems-a-GoGo) *Outcesticide III",
       "notes": "CD(M) \u00b7 md",
       "version": "SBD #1b",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1989-11-01 - Rotterdam, The Netherlands - Nighttown.txt"
     },
     {
       "year": 1989,
@@ -12163,7 +12164,7 @@ const ARTIST_DATA = {
       "notes": "",
       "version": "TV",
       "format": "DVD",
-      "textFile": "1993-12-10 - St. Paul, MN - Roy Wilkins Auditorium.txt"
+      "textFile": "1993-12-10 - MTV interview with Kurt Loder.txt"
     },
     {
       "year": 1993,
@@ -12176,7 +12177,8 @@ const ARTIST_DATA = {
       "venue": "Roy Wilkins Auditorium",
       "notes": "DAT(M) \u00b7 mz",
       "version": "AUD #1 (32k)",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1993-12-10 - St. Paul, MN - Roy Wilkins Auditorium.txt"
     },
     {
       "year": 1993,

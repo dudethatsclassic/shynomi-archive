@@ -257,7 +257,8 @@ const ARTIST_DATA = {
       "venue": "Nissan Pavilion",
       "notes": "unk",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1996-08-23 - Bristow, VA - Nissan Pavilion (AUD2).txt"
     },
     {
       "year": 1996,
@@ -2122,7 +2123,7 @@ const ARTIST_DATA = {
       "notes": "DAT(1) \u00b7 Sennheiser mic \u00b7 unk",
       "version": "AUD",
       "format": "FLAC",
-      "textFile": "2003-09-27 - Paris, France - Palais Omnisport Bercy (Sony ECM 717) (unk) [AUD].txt"
+      "textFile": "2003-09-27 - Paris, France - POPB [AUD].txt"
     },
     {
       "year": 2003,
@@ -2135,7 +2136,8 @@ const ARTIST_DATA = {
       "venue": "Palais Omnisport Bercy",
       "notes": "Sony ECM 717 \u00b7 unk",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "2003-09-27 - Paris, France - Palais Omnisport Bercy (Sony ECM 717) (unk) [AUD].txt"
     },
     {
       "year": 2003,
@@ -2848,7 +2850,7 @@ const ARTIST_DATA = {
       "notes": "CSB \u00b7 unk",
       "version": "AUD",
       "format": "FLAC",
-      "textFile": "2006-12-01 - Boston, MA - Avalon [AUD].txt"
+      "textFile": "2006-12-01 - Boston, MA - Avalon (CSB) [AUD].txt"
     },
     {
       "year": 2006,
@@ -2861,7 +2863,8 @@ const ARTIST_DATA = {
       "venue": "Avalon",
       "notes": "CSB \u00b7 bennyblanco",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "2006-12-01 - Boston, MA - Avalon [AUD].txt"
     },
     {
       "year": 2006,
@@ -3835,7 +3838,7 @@ const ARTIST_DATA = {
       "notes": "Daydream \u00b7 SP-CMC-8 \u00b7 unk",
       "version": "AUD",
       "format": "FLAC 24",
-      "textFile": "2019-08-31 - Pasadena, CA - The Oaks Stage - Daydream Festival [AUD24].txt"
+      "textFile": "2019-08-31 - Pasadena, CA - Brookside Park - Daydream Festival (Roland R-05) (unk) [AUD24].txt"
     },
     {
       "year": 2019,
@@ -3848,7 +3851,8 @@ const ARTIST_DATA = {
       "venue": "Brookside Park",
       "notes": "Daydream \u00b7 Roland R-05 \u00b7 unk",
       "version": "AUD",
-      "format": "FLAC 24"
+      "format": "FLAC 24",
+      "textFile": "2019-08-31 - Pasadena, CA - The Oaks Stage - Daydream Festival [AUD24].txt"
     },
     {
       "year": 2022,
