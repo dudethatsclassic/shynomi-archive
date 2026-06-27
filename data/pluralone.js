@@ -18,7 +18,7 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "San Diego, CA",
       "venue": "Viejas Arena",
-      "notes": "CA-11s \u00b7 tapeworm48",
+      "notes": "CA-11s · tapeworm48",
       "version": "AUD",
       "format": "FLAC 24",
       "textFile": "2022-05-03 - San Diego, CA - Viejas Arena (CA-11s) (tapeworm48) [AUD24].txt"
@@ -32,7 +32,7 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "Los Angeles, CA",
       "venue": "The Forum",
-      "notes": "CA-11s \u00b7 tapeworm48",
+      "notes": "CA-11s · tapeworm48",
       "version": "AUD",
       "format": "FLAC 24",
       "textFile": "2022-05-06 - Los Angeles, CA - The Forum (CA-11s) (tapeworm48) [AUD24].txt"
@@ -46,7 +46,7 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "Los Angeles, CA",
       "venue": "The Forum",
-      "notes": "CA-11s \u00b7 tapeworm48",
+      "notes": "CA-11s · tapeworm48",
       "version": "AUD",
       "format": "FLAC 24",
       "textFile": "2022-05-07 - Los Angeles, CA - The Forum (CA-11s) (tapeworm48) [AUD24].txt"
@@ -60,7 +60,7 @@ const ARTIST_DATA = {
       "state": "AZ",
       "location": "Glendale, AZ",
       "venue": "Gila River Arena",
-      "notes": "CA-11s \u00b7 tapeworm48",
+      "notes": "CA-11s · tapeworm48",
       "version": "AUD",
       "format": "FLAC 24",
       "textFile": "2022-05-09 - Glendale, AZ - Gila River Arena (CA-11s) (tapeworm48) [AUD24].txt"
@@ -74,7 +74,7 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "Oakland, CA",
       "venue": "Oakland Arena",
-      "notes": "CA-11s \u00b7 tapeworm48",
+      "notes": "CA-11s · tapeworm48",
       "version": "AUD",
       "format": "FLAC 24",
       "textFile": "2022-05-12 - Oakland, CA - Oakland Arena (CA-11s) (tapeworm48) [AUD24].txt"
@@ -88,7 +88,7 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "Oakland, CA",
       "venue": "Oakland Arena",
-      "notes": "CA-11s \u00b7 tapeworm48",
+      "notes": "CA-11s · tapeworm48",
       "version": "AUD",
       "format": "FLAC 24",
       "textFile": "2022-05-13 - Oakland, CA - Oakland Arena (CA-11s) (tapeworm48) [AUD24].txt"
@@ -102,7 +102,7 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "Fresno, CA",
       "venue": "Save Mart Center",
-      "notes": "CA-11s \u00b7 tapeworm48",
+      "notes": "CA-11s · tapeworm48",
       "version": "AUD",
       "format": "FLAC 24",
       "textFile": "2022-05-16 - Fresno, CA - Save Mart Center (CA-11s) (tapeworm48) [AUD24].txt"
