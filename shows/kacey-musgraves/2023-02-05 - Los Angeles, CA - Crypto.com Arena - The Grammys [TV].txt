@@ -1,0 +1,20 @@
+Kacey Musgraves at The Grammys
+Crypto.com Arena
+Los Angeles, CA
+February 5, 2023
+
+Lineage: HD cable > TiVo Premiere > PC via TiVo Desktop > VideoReDo > .ts file
+
+Video:
+MPEG-2
+9.5 Mbps
+1920x1080
+16:9
+
+Audio:
+AC-3
+384 Kbps
+48.0 KHz
+6 channels
+
+[2:29] Coal Miner's Daughter

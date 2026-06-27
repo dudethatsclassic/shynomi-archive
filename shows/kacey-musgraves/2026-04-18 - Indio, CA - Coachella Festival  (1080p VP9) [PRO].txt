@@ -1,0 +1,28 @@
+Kacey Musgraves
+2026-04-18
+Coachella Valley Music & Arts Festival, Mojave stage
+Empire Polo Club, Indio, CA
+
+Lineage: YouTube livestream > livestream_dl (yt-dlp) > ffmpeg (split, no reencode) > mkvpropedit
+Video: Matroska (VP9) 1920x1080 16:9 29.970 fps 1813 kb/s
+Audio: AAC 128 kb/s 44.1 kHz stereo
+
+Setlist:
+01. Middle of Nowhere
+02. Back on the Wagon
+03. justified
+04. High Horse
+05. tape: I didn't say f*cking 'yee!
+06. All My Ex's Live in Texas (George Strait cover)
+07. Uncertain, TX
+08. It Is What It Is
+09. Golden Hour
+10. Butterflies
+11. Space Cowboy
+12. Neon Moon (Brooks & Dunn cover)
+13. Slow Burn
+14. Dry Spell
+
+Setlist from: https://www.setlist.fm/setlist/kacey-musgraves/2026/empire-polo-club-mojave-indio-ca-1376590d.html
+
+Total runtime: 00:53:20

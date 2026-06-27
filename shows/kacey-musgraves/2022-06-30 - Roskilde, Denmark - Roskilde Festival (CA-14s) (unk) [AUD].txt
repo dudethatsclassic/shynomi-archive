@@ -1,0 +1,24 @@
+Kacey Musgraves
+Roskilde festival, DK
+2022-06-30
+
+Source: ca14->ca9100->sony pcm-m10 -> wav (48 khz/24 bit)
+Transfer: sony pcm-m10->hd->cep->cdwav (44,1 khz/16 bit)->flac 
+
+01. Intro - When Doves Cry
+02. Star-Crossed
+03. Good Wife
+04. Cherry Blossom
+05. Simple Times
+06. Breadwinner
+07. Golden Hour
+08. Butterflies
+09. Lonely Weekend
+10. Space Cowboy
+11. High Horse
+12. Can't Help Falling in Love(Elvis Presley cover)
+13. Dreams(Fleetwood Mac cover)
+14. Justified
+15. There is a Light
+16. Rainbow
+17. Slow Burn

@@ -1,0 +1,129 @@
+I'm searching for recordings of any artist and year of the Stagecoach festival! Please get in touch if you have any. :)
+All live streams that aired were recorded for Stagecoach 2026 except for Hootie & the Blowfish due to an error on my end, Ludacris due to an error with the stream, and Riley Green who didn't perform due to weather. Let me know if you have any requests! I also have recordings from 2024 and 2025 that I'm sorting through as I have time.
+
+Band name: Lainey Wilson
+Date: Saturday, April 25, 2026
+Venue/location: Empire Polo Club, Indio, California, USA
+Event: Stagecoach 2026 (day 2)
+Recording type: Webcast
+Captured by Chickenwing
+Lineage: Amazon Music Twitch stream (best quality) -> captured in Streamlink -> trimmed using ffmpeg
+Generation: Master
+
+Setlist
+Can't Sit Still
+Wildflowers and Wild Horses
+Dirty Looks
+Good Horses
+Road Runner
+Country's Cool Again
+I Think I'll Just Stay Here and Drink (Merle Haggard cover) (With Riley Green & Little Big Town)
+I Wish Grandpas Never Died (with Riley Green)
+Those Boots (Deddy’s Song) (With Band Intros)
+Things a Man Oughta Know (Featuring Cowgirl of the Night)
+Somewhere Over Laredo
+Watermelon Moonshine
+Bell Bottoms Up
+Hang Tight Honey
+Smell Like Smoke
+Dreamcatcher
+Ring Finger
+4x4xU
+Heart Like a Truck
+Interview (separate file)
+
+Media Info
+Video
+Input #0, matroska,webm, from '08 Lainey Wilson.mkv':                                                                   
+    ENCODER         : Lavf62.4.101                                                                                      
+  Duration: 01:39:52.05, start: 0.002000, bitrate: 6707 kb/s                                                            
+  Stream #0:0: Video: h264 (High), yuv420p(progressive), 1920x1080 [SAR 1:1 DAR 16:9], 29.97 fps, 29.97 tbr, 1k tbn, start 1.998000                                                                                                             
+Audio
+      DURATION        : 01:39:52.048000000                                                                              
+  Stream #0:1: Audio: aac (LC), 48000 Hz, stereo, fltp, start 0.002000                                                  
+
+Stagecoach Lineup
+Channel 1 Schedule
+(All times listed in Pacific Daylight Time)
+Friday, April 24, 2026
+3:05 PM - Noah Rinker
+3:25 PM - Adrien Nunez
+4:00 PM - Ole 60
+4:25 PM - Avery Anna (started mid-set)
+5:00 PM - Chase Rice
+5:55 PM - Nate Smith
+6:50 PM - Ella Langley
+7:50 PM - Bailey Zimmerman
+8:55 PM - The Red Clay Strays
+10:00 PM - Cody Johnson
+11:30 PM - Diplo
+Saturday, April 25, 2026
+3:10 PM - Kevin Smiley
+3:30 PM - Braxton Keith
+4:05 PM - Redferrin
+4:40 PM - Corey Kent
+5:35 PM - Teddy Swims
+6:20 PM - Treaty Oak Revival
+7:20 PM - Little Big Town
+8:20 PM - Riley Green
+9:30 PM - Lainey Wilson
+11:00 PM - Pitbull
+Sunday, April 26, 2026
+3:05 PM - Jake Worthington
+3:25 PM - Ink
+4:00 PM - Bayker Blankenship
+4:25 PM - Hudson Westbrook
+5:00 PM - Kameron Marlowe
+5:55 PM - Brett Young
+6:50 PM - Warren Zeiders
+7:50 PM - Brooks & Dunn
+8:50 PM - Hootie & the Blowfish
+10:00 PM - Post Malone
+11:30 PM - Ludacris
+Channel 2 Schedule
+(All times listed in Pacific Daylight Time)
+Friday, April 24, 2026
+3:05 PM - Neon Union
+3:25 PM - Larkin Poe
+4:00 PM - Marcus King Band
+4:50 PM - Lyle Lovett
+5:35 PM - BigXthaPlug
+6:30 PM - Noah Cyrus
+7:00 PM - Wynonna Judd (started mid-set)
+8:00 PM - Counting Crows
+8:50 PM - Sam Barber
+10:00 PM - Dan + Shay
+10:45 PM - Diplo ft. Juicy J
+11:05 PM - Rebecca Black
+11:45 PM - Dillstradamus
+Saturday, April 25, 2026
+3:10 PM - S.G. Goodman
+3:30 PM - Lane Pittman
+4:05 PM - Benjamin Tod
+4:40 PM - Michael Marcagi
+5:20 PM - Willow Avalon
+5:55 PM - Billy Bob Thornton & The Boxmasters
+6:40 PM - Chase Matthew
+7:20 PM - Charles Wesley Godwin
+8:10 PM - Bush
+9:10 PM - Gavin Adcock
+10:20 PM - Two Friends
+Sunday, April 26, 2026
+3:05 PM - Adam Sanders
+3:25 PM - Amos Lee
+4:00 PM - Cameron Whitcomb
+4:40 PM - Zach John King
+5:15 PM - Max McNown
+6:00 PM - The Wallflowers
+6:55 PM - Eli Young Band
+7:25 PM - Ty Myers
+8:25 PM - Third Eye Blind
+9:25 PM - Wyatt Flores
+10:30 PM - Loud Luxury
+11:20 PM - DJ Pauly D
+
+My masters: https://www.dropbox.com/s/rw7vl4egxozs9nt/Masters.txt?dl=1
+If you're interested in a trade, looking for a taper, or would like to contact me for any reason, I can be reached via the ID Chickenwing8 on most trading sites.
+I would like to include a heartfelt thank you to the people over at Setlist.FM for constantly doing their best to update and accurately post setlists from every show possible. They have helped me immensely in writing up track listings for shows like these, and they deserve so many thanks for all the help they have given me.
+Finally, the confusion regarding the legality of recording concerts is because of those who sell them. I do not condone selling freely-shared live music, and blame those who sell concerts for the lack of people recording and sharing content, as well as for the bad reputation society places upon those of us who do. Let it also be noted that any who sell this recording deserve nothing more than to have their own collection confiscated and shared freely with the masses. Please alsokeep this info file intact.
+Enjoy!

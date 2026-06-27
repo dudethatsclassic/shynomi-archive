@@ -1,0 +1,594 @@
+-------------------------------------------------------------------------------
+File name:                    01 Amarillo By Morning.flac
+Handled by:                   flac format module
+Length:                       2:53.03
+WAVE format:                  0x0001 (Microsoft PCM)
+Channels:                     2
+Bits/sample:                  16
+Samples/sec:                  44100
+Average bytes/sec:            176400
+Rate (calculated):            176400
+Block align:                  4
+Header size:                  44 bytes
+Data size:                    30524256 bytes
+Chunk size:                   30524292 bytes
+Total size (chunk size + 8):  30524300 bytes
+Actual file size:             17520510
+File is compressed:           yes
+Compression ratio:            0.5740
+CD-quality properties:
+  CD quality:                 yes
+  Cut on sector boundary:     yes
+  Sector misalignment:        0 bytes
+  Long enough to be burned:   yes
+WAVE properties:
+  Non-canonical header:       no
+  Extra RIFF chunks:          no
+Possible problems:
+  File contains ID3v2 tag:    no
+  Data chunk block-aligned:   yes
+  Inconsistent header:        no
+  File probably truncated:    unknown
+  Junk appended to file:      unknown
+  Odd data size has pad byte: n/a
+-------------------------------------------------------------------------------
+File name:                    02 Why Baby Why.flac
+Handled by:                   flac format module
+Length:                       2:14.46
+WAVE format:                  0x0001 (Microsoft PCM)
+Channels:                     2
+Bits/sample:                  16
+Samples/sec:                  44100
+Average bytes/sec:            176400
+Rate (calculated):            176400
+Block align:                  4
+Header size:                  44 bytes
+Data size:                    23745792 bytes
+Chunk size:                   23745828 bytes
+Total size (chunk size + 8):  23745836 bytes
+Actual file size:             14827247
+File is compressed:           yes
+Compression ratio:            0.6244
+CD-quality properties:
+  CD quality:                 yes
+  Cut on sector boundary:     yes
+  Sector misalignment:        0 bytes
+  Long enough to be burned:   yes
+WAVE properties:
+  Non-canonical header:       no
+  Extra RIFF chunks:          no
+Possible problems:
+  File contains ID3v2 tag:    no
+  Data chunk block-aligned:   yes
+  Inconsistent header:        no
+  File probably truncated:    unknown
+  Junk appended to file:      unknown
+  Odd data size has pad byte: n/a
+-------------------------------------------------------------------------------
+File name:                    03 If You're Thinkin' You Want A Stranger.flac
+Handled by:                   flac format module
+Length:                       1:14.63
+WAVE format:                  0x0001 (Microsoft PCM)
+Channels:                     2
+Bits/sample:                  16
+Samples/sec:                  44100
+Average bytes/sec:            176400
+Rate (calculated):            176400
+Block align:                  4
+Header size:                  44 bytes
+Data size:                    13201776 bytes
+Chunk size:                   13201812 bytes
+Total size (chunk size + 8):  13201820 bytes
+Actual file size:             7739577
+File is compressed:           yes
+Compression ratio:            0.5863
+CD-quality properties:
+  CD quality:                 yes
+  Cut on sector boundary:     yes
+  Sector misalignment:        0 bytes
+  Long enough to be burned:   yes
+WAVE properties:
+  Non-canonical header:       no
+  Extra RIFF chunks:          no
+Possible problems:
+  File contains ID3v2 tag:    no
+  Data chunk block-aligned:   yes
+  Inconsistent header:        no
+  File probably truncated:    unknown
+  Junk appended to file:      unknown
+  Odd data size has pad byte: n/a
+-------------------------------------------------------------------------------
+File name:                    04 Down and Out.flac
+Handled by:                   flac format module
+Length:                       2:13.50
+WAVE format:                  0x0001 (Microsoft PCM)
+Channels:                     2
+Bits/sample:                  16
+Samples/sec:                  44100
+Average bytes/sec:            176400
+Rate (calculated):            176400
+Block align:                  4
+Header size:                  44 bytes
+Data size:                    23578800 bytes
+Chunk size:                   23578836 bytes
+Total size (chunk size + 8):  23578844 bytes
+Actual file size:             13862716
+File is compressed:           yes
+Compression ratio:            0.5879
+CD-quality properties:
+  CD quality:                 yes
+  Cut on sector boundary:     yes
+  Sector misalignment:        0 bytes
+  Long enough to be burned:   yes
+WAVE properties:
+  Non-canonical header:       no
+  Extra RIFF chunks:          no
+Possible problems:
+  File contains ID3v2 tag:    no
+  Data chunk block-aligned:   yes
+  Inconsistent header:        no
+  File probably truncated:    unknown
+  Junk appended to file:      unknown
+  Odd data size has pad byte: n/a
+-------------------------------------------------------------------------------
+File name:                    05 Friday Night Fever.flac
+Handled by:                   flac format module
+Length:                       2:20.01
+WAVE format:                  0x0001 (Microsoft PCM)
+Channels:                     2
+Bits/sample:                  16
+Samples/sec:                  44100
+Average bytes/sec:            176400
+Rate (calculated):            176400
+Block align:                  4
+Header size:                  44 bytes
+Data size:                    24698352 bytes
+Chunk size:                   24698388 bytes
+Total size (chunk size + 8):  24698396 bytes
+Actual file size:             14836215
+File is compressed:           yes
+Compression ratio:            0.6007
+CD-quality properties:
+  CD quality:                 yes
+  Cut on sector boundary:     yes
+  Sector misalignment:        0 bytes
+  Long enough to be burned:   yes
+WAVE properties:
+  Non-canonical header:       no
+  Extra RIFF chunks:          no
+Possible problems:
+  File contains ID3v2 tag:    no
+  Data chunk block-aligned:   yes
+  Inconsistent header:        no
+  File probably truncated:    unknown
+  Junk appended to file:      unknown
+  Odd data size has pad byte: n/a
+-------------------------------------------------------------------------------
+File name:                    06 Take Me Back To Tulsa.flac
+Handled by:                   flac format module
+Length:                       2:31.43
+WAVE format:                  0x0001 (Microsoft PCM)
+Channels:                     2
+Bits/sample:                  16
+Samples/sec:                  44100
+Average bytes/sec:            176400
+Rate (calculated):            176400
+Block align:                  4
+Header size:                  44 bytes
+Data size:                    26737536 bytes
+Chunk size:                   26737572 bytes
+Total size (chunk size + 8):  26737580 bytes
+Actual file size:             15887132
+File is compressed:           yes
+Compression ratio:            0.5942
+CD-quality properties:
+  CD quality:                 yes
+  Cut on sector boundary:     yes
+  Sector misalignment:        0 bytes
+  Long enough to be burned:   yes
+WAVE properties:
+  Non-canonical header:       no
+  Extra RIFF chunks:          no
+Possible problems:
+  File contains ID3v2 tag:    no
+  Data chunk block-aligned:   yes
+  Inconsistent header:        no
+  File probably truncated:    unknown
+  Junk appended to file:      unknown
+  Odd data size has pad byte: n/a
+-------------------------------------------------------------------------------
+File name:                    07 Fire I Can't Put Out.flac
+Handled by:                   flac format module
+Length:                       2:55.10
+WAVE format:                  0x0001 (Microsoft PCM)
+Channels:                     2
+Bits/sample:                  16
+Samples/sec:                  44100
+Average bytes/sec:            176400
+Rate (calculated):            176400
+Block align:                  4
+Header size:                  44 bytes
+Data size:                    30893520 bytes
+Chunk size:                   30893556 bytes
+Total size (chunk size + 8):  30893564 bytes
+Actual file size:             16942464
+File is compressed:           yes
+Compression ratio:            0.5484
+CD-quality properties:
+  CD quality:                 yes
+  Cut on sector boundary:     yes
+  Sector misalignment:        0 bytes
+  Long enough to be burned:   yes
+WAVE properties:
+  Non-canonical header:       no
+  Extra RIFF chunks:          no
+Possible problems:
+  File contains ID3v2 tag:    no
+  Data chunk block-aligned:   yes
+  Inconsistent header:        no
+  File probably truncated:    unknown
+  Junk appended to file:      unknown
+  Odd data size has pad byte: n/a
+-------------------------------------------------------------------------------
+File name:                    08 Blame It On Mexico.flac
+Handled by:                   flac format module
+Length:                       2:39.04
+WAVE format:                  0x0001 (Microsoft PCM)
+Channels:                     2
+Bits/sample:                  16
+Samples/sec:                  44100
+Average bytes/sec:            176400
+Rate (calculated):            176400
+Block align:                  4
+Header size:                  44 bytes
+Data size:                    28057008 bytes
+Chunk size:                   28057044 bytes
+Total size (chunk size + 8):  28057052 bytes
+Actual file size:             15955660
+File is compressed:           yes
+Compression ratio:            0.5687
+CD-quality properties:
+  CD quality:                 yes
+  Cut on sector boundary:     yes
+  Sector misalignment:        0 bytes
+  Long enough to be burned:   yes
+WAVE properties:
+  Non-canonical header:       no
+  Extra RIFF chunks:          no
+Possible problems:
+  File contains ID3v2 tag:    no
+  Data chunk block-aligned:   yes
+  Inconsistent header:        no
+  File probably truncated:    unknown
+  Junk appended to file:      unknown
+  Odd data size has pad byte: n/a
+-------------------------------------------------------------------------------
+File name:                    09 Workin' Man Blues.flac
+Handled by:                   flac format module
+Length:                       2:55.11
+WAVE format:                  0x0001 (Microsoft PCM)
+Channels:                     2
+Bits/sample:                  16
+Samples/sec:                  44100
+Average bytes/sec:            176400
+Rate (calculated):            176400
+Block align:                  4
+Header size:                  44 bytes
+Data size:                    30895872 bytes
+Chunk size:                   30895908 bytes
+Total size (chunk size + 8):  30895916 bytes
+Actual file size:             18540623
+File is compressed:           yes
+Compression ratio:            0.6001
+CD-quality properties:
+  CD quality:                 yes
+  Cut on sector boundary:     yes
+  Sector misalignment:        0 bytes
+  Long enough to be burned:   yes
+WAVE properties:
+  Non-canonical header:       no
+  Extra RIFF chunks:          no
+Possible problems:
+  File contains ID3v2 tag:    no
+  Data chunk block-aligned:   yes
+  Inconsistent header:        no
+  File probably truncated:    unknown
+  Junk appended to file:      unknown
+  Odd data size has pad byte: n/a
+-------------------------------------------------------------------------------
+File name:                    10 Her Goodbye Hit Me In The Heart.flac
+Handled by:                   flac format module
+Length:                       2:52.58
+WAVE format:                  0x0001 (Microsoft PCM)
+Channels:                     2
+Bits/sample:                  16
+Samples/sec:                  44100
+Average bytes/sec:            176400
+Rate (calculated):            176400
+Block align:                  4
+Header size:                  44 bytes
+Data size:                    30477216 bytes
+Chunk size:                   30477252 bytes
+Total size (chunk size + 8):  30477260 bytes
+Actual file size:             16225237
+File is compressed:           yes
+Compression ratio:            0.5324
+CD-quality properties:
+  CD quality:                 yes
+  Cut on sector boundary:     yes
+  Sector misalignment:        0 bytes
+  Long enough to be burned:   yes
+WAVE properties:
+  Non-canonical header:       no
+  Extra RIFF chunks:          no
+Possible problems:
+  File contains ID3v2 tag:    no
+  Data chunk block-aligned:   yes
+  Inconsistent header:        no
+  File probably truncated:    unknown
+  Junk appended to file:      unknown
+  Odd data size has pad byte: n/a
+-------------------------------------------------------------------------------
+File name:                    11 Barmaid In The Honky Tonk Downstairs.flac
+Handled by:                   flac format module
+Length:                       2:43.71
+WAVE format:                  0x0001 (Microsoft PCM)
+Channels:                     2
+Bits/sample:                  16
+Samples/sec:                  44100
+Average bytes/sec:            176400
+Rate (calculated):            176400
+Block align:                  4
+Header size:                  44 bytes
+Data size:                    28920192 bytes
+Chunk size:                   28920228 bytes
+Total size (chunk size + 8):  28920236 bytes
+Actual file size:             16151533
+File is compressed:           yes
+Compression ratio:            0.5585
+CD-quality properties:
+  CD quality:                 yes
+  Cut on sector boundary:     yes
+  Sector misalignment:        0 bytes
+  Long enough to be burned:   yes
+WAVE properties:
+  Non-canonical header:       no
+  Extra RIFF chunks:          no
+Possible problems:
+  File contains ID3v2 tag:    no
+  Data chunk block-aligned:   yes
+  Inconsistent header:        no
+  File probably truncated:    unknown
+  Junk appended to file:      unknown
+  Odd data size has pad byte: n/a
+-------------------------------------------------------------------------------
+File name:                    12 Fool Hearted Memory.flac
+Handled by:                   flac format module
+Length:                       2:51.26
+WAVE format:                  0x0001 (Microsoft PCM)
+Channels:                     2
+Bits/sample:                  16
+Samples/sec:                  44100
+Average bytes/sec:            176400
+Rate (calculated):            176400
+Block align:                  4
+Header size:                  44 bytes
+Data size:                    30225552 bytes
+Chunk size:                   30225588 bytes
+Total size (chunk size + 8):  30225596 bytes
+Actual file size:             18276801
+File is compressed:           yes
+Compression ratio:            0.6047
+CD-quality properties:
+  CD quality:                 yes
+  Cut on sector boundary:     yes
+  Sector misalignment:        0 bytes
+  Long enough to be burned:   yes
+WAVE properties:
+  Non-canonical header:       no
+  Extra RIFF chunks:          no
+Possible problems:
+  File contains ID3v2 tag:    no
+  Data chunk block-aligned:   yes
+  Inconsistent header:        no
+  File probably truncated:    unknown
+  Junk appended to file:      unknown
+  Odd data size has pad byte: n/a
+-------------------------------------------------------------------------------
+File name:                    13 Miss Molly.flac
+Handled by:                   flac format module
+Length:                       2:34.38
+WAVE format:                  0x0001 (Microsoft PCM)
+Channels:                     2
+Bits/sample:                  16
+Samples/sec:                  44100
+Average bytes/sec:            176400
+Rate (calculated):            176400
+Block align:                  4
+Header size:                  44 bytes
+Data size:                    27254976 bytes
+Chunk size:                   27255012 bytes
+Total size (chunk size + 8):  27255020 bytes
+Actual file size:             15787816
+File is compressed:           yes
+Compression ratio:            0.5793
+CD-quality properties:
+  CD quality:                 yes
+  Cut on sector boundary:     yes
+  Sector misalignment:        0 bytes
+  Long enough to be burned:   yes
+WAVE properties:
+  Non-canonical header:       no
+  Extra RIFF chunks:          no
+Possible problems:
+  File contains ID3v2 tag:    no
+  Data chunk block-aligned:   yes
+  Inconsistent header:        no
+  File probably truncated:    unknown
+  Junk appended to file:      unknown
+  Odd data size has pad byte: n/a
+-------------------------------------------------------------------------------
+File name:                    14 Route 66.flac
+Handled by:                   flac format module
+Length:                       2:56.36
+WAVE format:                  0x0001 (Microsoft PCM)
+Channels:                     2
+Bits/sample:                  16
+Samples/sec:                  44100
+Average bytes/sec:            176400
+Rate (calculated):            176400
+Block align:                  4
+Header size:                  44 bytes
+Data size:                    31131072 bytes
+Chunk size:                   31131108 bytes
+Total size (chunk size + 8):  31131116 bytes
+Actual file size:             17498089
+File is compressed:           yes
+Compression ratio:            0.5621
+CD-quality properties:
+  CD quality:                 yes
+  Cut on sector boundary:     yes
+  Sector misalignment:        0 bytes
+  Long enough to be burned:   yes
+WAVE properties:
+  Non-canonical header:       no
+  Extra RIFF chunks:          no
+Possible problems:
+  File contains ID3v2 tag:    no
+  Data chunk block-aligned:   yes
+  Inconsistent header:        no
+  File probably truncated:    unknown
+  Junk appended to file:      unknown
+  Odd data size has pad byte: n/a
+-------------------------------------------------------------------------------
+File name:                    15 Milk Cow Blues.flac
+Handled by:                   flac format module
+Length:                       2:43.28
+WAVE format:                  0x0001 (Microsoft PCM)
+Channels:                     2
+Bits/sample:                  16
+Samples/sec:                  44100
+Average bytes/sec:            176400
+Rate (calculated):            176400
+Block align:                  4
+Header size:                  44 bytes
+Data size:                    28819056 bytes
+Chunk size:                   28819092 bytes
+Total size (chunk size + 8):  28819100 bytes
+Actual file size:             16159273
+File is compressed:           yes
+Compression ratio:            0.5607
+CD-quality properties:
+  CD quality:                 yes
+  Cut on sector boundary:     yes
+  Sector misalignment:        0 bytes
+  Long enough to be burned:   yes
+WAVE properties:
+  Non-canonical header:       no
+  Extra RIFF chunks:          no
+Possible problems:
+  File contains ID3v2 tag:    no
+  Data chunk block-aligned:   yes
+  Inconsistent header:        no
+  File probably truncated:    unknown
+  Junk appended to file:      unknown
+  Odd data size has pad byte: n/a
+-------------------------------------------------------------------------------
+File name:                    16 Hard Time Blues.flac
+Handled by:                   flac format module
+Length:                       2:57.56
+WAVE format:                  0x0001 (Microsoft PCM)
+Channels:                     2
+Bits/sample:                  16
+Samples/sec:                  44100
+Average bytes/sec:            176400
+Rate (calculated):            176400
+Block align:                  4
+Header size:                  44 bytes
+Data size:                    31354512 bytes
+Chunk size:                   31354548 bytes
+Total size (chunk size + 8):  31354556 bytes
+Actual file size:             17801342
+File is compressed:           yes
+Compression ratio:            0.5677
+CD-quality properties:
+  CD quality:                 yes
+  Cut on sector boundary:     yes
+  Sector misalignment:        0 bytes
+  Long enough to be burned:   yes
+WAVE properties:
+  Non-canonical header:       no
+  Extra RIFF chunks:          no
+Possible problems:
+  File contains ID3v2 tag:    no
+  Data chunk block-aligned:   yes
+  Inconsistent header:        no
+  File probably truncated:    unknown
+  Junk appended to file:      unknown
+  Odd data size has pad byte: n/a
+-------------------------------------------------------------------------------
+File name:                    17 Unwound.flac
+Handled by:                   flac format module
+Length:                       2:24.43
+WAVE format:                  0x0001 (Microsoft PCM)
+Channels:                     2
+Bits/sample:                  16
+Samples/sec:                  44100
+Average bytes/sec:            176400
+Rate (calculated):            176400
+Block align:                  4
+Header size:                  44 bytes
+Data size:                    25502736 bytes
+Chunk size:                   25502772 bytes
+Total size (chunk size + 8):  25502780 bytes
+Actual file size:             14326518
+File is compressed:           yes
+Compression ratio:            0.5618
+CD-quality properties:
+  CD quality:                 yes
+  Cut on sector boundary:     yes
+  Sector misalignment:        0 bytes
+  Long enough to be burned:   yes
+WAVE properties:
+  Non-canonical header:       no
+  Extra RIFF chunks:          no
+Possible problems:
+  File contains ID3v2 tag:    no
+  Data chunk block-aligned:   yes
+  Inconsistent header:        no
+  File probably truncated:    unknown
+  Junk appended to file:      unknown
+  Odd data size has pad byte: n/a
+-------------------------------------------------------------------------------
+File name:                    18 Home In San Antone.flac
+Handled by:                   flac format module
+Length:                       1:12.64
+WAVE format:                  0x0001 (Microsoft PCM)
+Channels:                     2
+Bits/sample:                  16
+Samples/sec:                  44100
+Average bytes/sec:            176400
+Rate (calculated):            176400
+Block align:                  4
+Header size:                  44 bytes
+Data size:                    12851328 bytes
+Chunk size:                   12851364 bytes
+Total size (chunk size + 8):  12851372 bytes
+Actual file size:             7041712
+File is compressed:           yes
+Compression ratio:            0.5479
+CD-quality properties:
+  CD quality:                 yes
+  Cut on sector boundary:     yes
+  Sector misalignment:        0 bytes
+  Long enough to be burned:   yes
+WAVE properties:
+  Non-canonical header:       no
+  Extra RIFF chunks:          no
+Possible problems:
+  File contains ID3v2 tag:    no
+  Data chunk block-aligned:   yes
+  Inconsistent header:        no
+  File probably truncated:    unknown
+  Junk appended to file:      unknown
+  Odd data size has pad byte: n/a

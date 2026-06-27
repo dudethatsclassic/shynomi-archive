@@ -1,0 +1,24 @@
+    length     expanded size    cdr  WAVE problems  fmt   ratio  filename
+     4:15.37       45069068 B   ---   --   -----    wav  1.0000  20020817 TOBY d1-01 intro.wav
+     3:17.66       34906076 B   ---   --   -----    wav  1.0000  20020817 TOBY d1-02 Pull My Chain.wav
+     3:53.00       41101244 B   ---   --   -----    wav  1.0000  20020817 TOBY d1-03 Country Comes To Town.wav
+     3:30.45       37149884 B   ---   --   -----    wav  1.0000  20020817 TOBY d1-04 Just Talkin Bout Tonight.wav
+     3:43.37       39424268 B   ---   --   -----    wav  1.0000  20020817 TOBY d1-05 Dream Walkin.wav
+     5:48.63       61535420 B   ---   --   -----    wav  1.0000  20020817 TOBY d1-06 Shouldve Been A Cowboy.wav
+     4:20.65       46016924 B   ---   --   -----    wav  1.0000  20020817 TOBY d1-07 Whos Your Daddy.wav
+     3:30.25       37102844 B   ---   --   -----    wav  1.0000  20020817 TOBY d1-08 Beer For My Horses.wav
+     3:10.66       33671276 B   ---   --   -----    wav  1.0000  20020817 TOBY d1-09 My List.wav
+     3:44.70       39678284 B   ---   --   -----    wav  1.0000  20020817 TOBY d1-10 Shouldnt Kiss Me.wav
+     5:03.22       53500988 B   ---   --   -----    wav  1.0000  20020817 TOBY d1-11 Does That Blue Moon.wav
+     2:24.26       25462796 B   ---   --   -----    wav  1.0000  20020817 TOBY d2-01 rap.wav
+     4:21.35       46122764 B   ---   --   -----    wav  1.0000  20020817 TOBY d2-02 Taliban Song.wav
+     4:37.69       49025132 B   ---   --   -----    wav  1.0000  20020817 TOBY d2-03 You Aint Much Fun.wav
+     4:38.68       49199180 B   ---   --   -----    wav  1.0000  20020817 TOBY d2-04 Getcha Some.wav
+     8:35.69       91008332 B   ---   --   -----    wav  1.0000  20020817 TOBY d2-05 A Little Less Talk.wav
+     4:00.36       42420716 B   ---   --   -----    wav  1.0000  20020817 TOBY d2-06 I Wanna Talk About Me.wav
+     2:27.45       26036684 B   ---   --   -----    wav  1.0000  20020817 TOBY d2-07 Hawaii 5 O.wav
+     3:12.64       34019372 B   ---   --   -----    wav  1.0000  20020817 TOBY d2-08 rap.wav
+     6:46.50       71736044 B   ---   --   -----    wav  1.0000  20020817 TOBY d2-09 Courtesy Of The Red White Blue.wav
+     0:59.39       10499372 B   ---   --   -----    wav  1.0000  20020817 TOBY d2-10 drum solo.wav
+     5:20.63       56596220 B   ---   --   -----    wav  1.0000  20020817 TOBY d2-11 How Do You Like Me Now.wav
+    91:46.10      971282888 B                            1.0000  (22 files)

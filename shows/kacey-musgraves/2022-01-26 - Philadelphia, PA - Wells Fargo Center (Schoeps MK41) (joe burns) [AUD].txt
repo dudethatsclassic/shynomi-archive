@@ -1,0 +1,82 @@
+Kacey Musgraves 
+Wells Fargo Center 
+Philadelphia, PA
+January 26, 2022
+
+** 16 BIT **
+
+Source:  Schoeps MK41's supercardioids > Actives > Nbox > Roland R-07 @ 24 bit/48 kHz
+Mastering:  .WAV > iZotope RX9 Advanced v9.0.0.1130 (De-click) > Sound Forge Pro 14.0 Build 140 [normalize, & fades, Boz Digital Labs T-Bone plug-in (slant EQ)] > CDWav (tracking) > 
+iZotope MBIT+ (dithered and downsampled to 16 bit/44.1 kHz) > Trader's Little Helper (level 5) > FLAC > TagScanner 6.0.35 (tagging)
+Location:  Front row right behind the soundboard, DFC  
+Recorded by:  Joe Burns
+Mastered by:  Dennis Orr
+
+Setlist: (1:26:38)
+01 star-crossed
+02 good wife
+03 cherry blossom
+04 Chat
+05 simple times
+06 breadwinner
+07 Golden Hour
+08 Butterflies
+09 Lonely Weekend >
+10 Space Cowboy
+11 High Horse
+12 Chat
+13 camera roll
+14 Chat
+15 hookup scene
+16 Chat
+17 Merry Go 'Round
+18 Chat
+19 9 To 5
+20 justified
+21 there is a light
+22 gracias a la vida
+23 Encore Break
+- Encore -
+24 Slow Burn
+25 Rainbow
+
+Kacey Musgraves - lead vocals
+Kyle Ryan - guitar, banjo, & backing vocals
+Kai Welch - guitar, keyboards, & backing vocals
+Smokin' Brett Resnick - pedal steel guitar
+Nathaniel Smith - cello, keyboards, & backing vocals
+Adam Keafer - bass
+Scott Quintana - drums, percussion, & spoons
+
+KaceyMusgraves2022-01-26t01.flac:80e274ad1979005505c599b2e22708ba
+KaceyMusgraves2022-01-26t02.flac:a95d0aeee49a130dd2844104afc91539
+KaceyMusgraves2022-01-26t03.flac:db6d3e441449d6a2088d09a1f47de8a3
+KaceyMusgraves2022-01-26t04.flac:6ebfeb2673e634b6f7f07ac94c2a1dad
+KaceyMusgraves2022-01-26t05.flac:6500255f4c48fa04e32a5b984bab756a
+KaceyMusgraves2022-01-26t06.flac:b6c205174cb1a48b888feabef1397eb7
+KaceyMusgraves2022-01-26t07.flac:4263df3067957ab654279bc095b480bf
+KaceyMusgraves2022-01-26t08.flac:bfd4c25d4c4317a5b9223b50b9580388
+KaceyMusgraves2022-01-26t09.flac:ac94dceed25a93fe9367e9897a1413f1
+KaceyMusgraves2022-01-26t10.flac:3f45843e950d1cb04f8bd455befd9520
+KaceyMusgraves2022-01-26t11.flac:24bb4540df4e76b9c775b6e7deb612d6
+KaceyMusgraves2022-01-26t12.flac:4985a89b7a19bc04ba15e263efb9e4e6
+KaceyMusgraves2022-01-26t13.flac:dcd111dd20f4b31855c15f93c536f72d
+KaceyMusgraves2022-01-26t14.flac:a956c76650e8f81799544e6db4059b09
+KaceyMusgraves2022-01-26t15.flac:992f8805ba2886790d5b6971900f71c7
+KaceyMusgraves2022-01-26t16.flac:c385ebf55622b629f2d5b0a9d3536a85
+KaceyMusgraves2022-01-26t17.flac:32c5fadaa00e9d8bdcdfbf7a5d9275eb
+KaceyMusgraves2022-01-26t18.flac:6db1f20078feff0af98adfb1b66fcb3d
+KaceyMusgraves2022-01-26t19.flac:b45323953dca2ff5a65c9c00cf66be4d
+KaceyMusgraves2022-01-26t20.flac:7f50a464445e9591621275a8939b0e49
+KaceyMusgraves2022-01-26t21.flac:4836d1f59ce9f51eb6009b81044ac629
+KaceyMusgraves2022-01-26t22.flac:e7b3531bfedbf4902d75316b35cb49b6
+KaceyMusgraves2022-01-26t23.flac:19088fa87a76e5a19a98a9a2e2a84102
+KaceyMusgraves2022-01-26t24.flac:249bef8612b9d1430101957a16bb3f66
+KaceyMusgraves2022-01-26t25.flac:81eea62b8e5801668233fdfc38988957
+
+
+
+
+
+
+

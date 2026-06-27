@@ -19,9 +19,10 @@ const ARTIST_DATA = {
       "state": "CO",
       "location": "Telluride, CO",
       "venue": "Telluride Bluegrass Festival",
-      "notes": "Band · Beyer M88s · bob miller",
+      "notes": "Band \u00b7 Beyer M88s \u00b7 bob miller",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1990-06-21 - Telluride, CO - Telluride Bluegrass Festival - Band Contest (Beyer M88s) (bob miller) [AUD].txt"
     },
     {
       "year": 2000,
@@ -32,9 +33,10 @@ const ARTIST_DATA = {
       "state": "IL",
       "location": "Chicago, IL",
       "venue": "United Center",
-      "notes": "Sony MZ-R30 · unk",
+      "notes": "Sony MZ-R30 \u00b7 unk",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "2000-11-12 - Chicago, IL - United Center (Sony MZ-R30) (unk) [AUD].txt"
     }
   ],
   "misc": []

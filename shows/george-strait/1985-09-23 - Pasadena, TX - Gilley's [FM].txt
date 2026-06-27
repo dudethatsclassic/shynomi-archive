@@ -1,0 +1,69 @@
+George Strait
+Live From Gilley's Rodeo Arena
+Pasadena, Texas
+Aired September 28-29, 1985
+
+01 - Let's Fall To Pieces Together
+02 - Six Pack To Go
+03 - Does Fort Worth Ever Cross Your Mind
+04 - Right Or Wrong
+05 - The Cowboy Rides Away
+06 - The Fireman
+07 - Something Special
+08 - 80 Proof Bottle Of Tear Stopper
+09 - You Look So Good In Love
+10 - Amarillo By Morning
+11 - Fool Hearted Memory
+12 - I Can't See Texas From Here
+13 - Any Old Time
+14 - Marina Del Ray
+15 - Fire I Can't Put Out
+16 - Unwound
+
+From vinyl to wav with Soundforge, declicked, wav to flac with Trader's Little Helper.
+
+auCDtect: CD records authenticity detector, version 0.8.2
+Copyright (c) 2004 Oleg Berngardt. All rights reserved.
+Copyright (c) 2004 Alexander Djourik. All rights reserved.
+
+Detect mode (0..40 with 0 = most accurate):  8 (default)
+
+
+01 - Let's Fall To Pieces Together.wav:  track looks like CDDA with probability 100%.
+02 - Six Pack To Go.wav:  track looks like CDDA with probability 100%.
+03 - Does Fort Worth Ever Cross Your Mind.wav:  track looks like CDDA with probability 100%.
+04 - Right Or Wrong.wav:  track looks like CDDA with probability 100%.
+05 - The Cowboy Rides Away.wav:  track looks like CDDA with probability 99%.
+06 - The Fireman.wav:  track looks like CDDA with probability 100%.
+07 - Something Special.wav:  track looks like CDDA with probability 100%.
+08 - 80 Proof Bottle Of Tear Stopper.wav:  track looks like CDDA with probability 100%.
+09 - You Look So Good In Love.wav:  track looks like CDDA with probability 99%.
+10 - Amarillo By Morning.wav:  track looks like CDDA with probability 100%.
+11 - Fool Hearted Memory.wav:  track looks like CDDA with probability 100%.
+12 - I Can't See Texas From Here.wav:  track looks like CDDA with probability 100%.
+13 - Any Old Time.wav:  track looks like CDDA with probability 100%.
+14 - Marina Del Ray.wav:  track looks like CDDA with probability 100%.
+15 - Fire I Can't Put Out.wav:  track looks like CDDA with probability 100%.
+16 - Unwound.wav:  track looks like CDDA with probability 100%.
+
+
+
+Line 01: file '01 - Let's Fall To Pieces Together.flac' verified ok (checksum does match).
+Line 02: file '02 - Six Pack To Go.flac' verified ok (checksum does match).
+Line 03: file '03 - Does Fort Worth Ever Cross Your Mind.flac' verified ok (checksum does match).
+Line 04: file '04 - Right Or Wrong.flac' verified ok (checksum does match).
+Line 05: file '05 - The Cowboy Rides Away.flac' verified ok (checksum does match).
+Line 06: file '06 - The Fireman.flac' verified ok (checksum does match).
+Line 07: file '07 - Something Special.flac' verified ok (checksum does match).
+Line 08: file '08 - 80 Proof Bottle Of Tear Stopper.flac' verified ok (checksum does match).
+Line 09: file '09 - You Look So Good In Love.flac' verified ok (checksum does match).
+Line 10: file '10 - Amarillo By Morning.flac' verified ok (checksum does match).
+Line 11: file '11 - Fool Hearted Memory.flac' verified ok (checksum does match).
+Line 12: file '12 - I Can't See Texas From Here.flac' verified ok (checksum does match).
+Line 13: file '13 - Any Old Time.flac' verified ok (checksum does match).
+Line 14: file '14 - Marina Del Ray.flac' verified ok (checksum does match).
+Line 15: file '15 - Fire I Can't Put Out.flac' verified ok (checksum does match).
+Line 16: file '16 - Unwound.flac' verified ok (checksum does match).
+
+No errors occured.
+

@@ -1,0 +1,55 @@
+Eric Church
+Warren Haynes Christmas Jam
+Asheville Civic Center
+Asheville, North Carolina
+12/8/2018 
+
+Source: Schoeps CCM4V's>Lunatec V2>Sound Devices 722 (24/44)
+FOB/DFC/KFC/ZFC/AARP 45' From Stage, 6' High
+DSP: Sound Devices 722>Sound Forge 10.0>CD Wave>flac(16)
+ID3 Tagged In Foobar 2000
+Recorded By: Z-Man
+Seeded By: Z-Man 
+
+Disc I 
+
+01 *Desperate Man
+02 *Record Year
+03 *Carolina
+04 *Smoke A Little Smoke
+05 #@^+$%Ain't Wastin' Time No More
+06 #@^+$%Atlantic City 
+07 #@^+$%Diddy Wah Diddy
+08 #@^+$%The Weight
+09 Warren Banter/Outro
+
+* Eric Solo Acostic
+# With Warren Haynes - Guitar And Vocals
+@ With Audley Freed - Guitar
+^ With Rocky Lindsley - Drums
++ With Robert Kearns - Bass
+$ With Jen Gunderman - Keyboards
+% With Jimmy Vivino - Guitar
+
+eric2018-12-08d01t01.flac:f480f7eae78ba60f7d9cdbba0638320e
+eric2018-12-08d01t02.flac:00f488e8933a8e941e8e1c2b741e7929
+eric2018-12-08d01t03.flac:df5de0cd3ad640e834ab832edb982e30
+eric2018-12-08d01t04.flac:a9ec03523339564a64ec61aa9894de3b
+eric2018-12-08d01t05.flac:649bbd16842df7acfaf5f5369ae1dfe5
+eric2018-12-08d01t06.flac:0501a13fa831bfe5d6ab6d39f84cb03b
+eric2018-12-08d01t07.flac:0b67bc4a9755cbb0294b86824832d91e
+eric2018-12-08d01t08.flac:9a2324b084c035efa98b127cbb40fa69
+eric2018-12-08d01t09.flac:52d6be59d526e535041a655f619cb89b
+
+ length     expanded size    cdr  WAVE problems  fmt   ratio  filename
+     3:52.17       40964828 B   ---   --   ---xx   flac  0.4774  eric2018-12-08d01t01.flac
+     3:34.00       37749644 B   ---   --   ---xx   flac  0.4379  eric2018-12-08d01t02.flac
+     5:10.64       54834572 B   ---   --   ---xx   flac  0.4301  eric2018-12-08d01t03.flac
+     3:31.30       37291004 B   ---   --   ---xx   flac  0.4557  eric2018-12-08d01t04.flac
+     4:50.11       51181916 B   ---   --   ---xx   flac  0.4786  eric2018-12-08d01t05.flac
+     6:11.70       65609084 B   ---   --   ---xx   flac  0.4610  eric2018-12-08d01t06.flac
+     4:35.62       48655868 B   ---   --   ---xx   flac  0.4894  eric2018-12-08d01t07.flac
+     5:57.25       63033644 B   ---   --   ---xx   flac  0.4875  eric2018-12-08d01t08.flac
+     1:20.57       14246108 B   ---   --   ---xx   flac  0.4085  eric2018-12-08d01t09.flac
+    39:04.36      413566668 B                            0.4637  (9 files)
+

@@ -34,9 +34,10 @@ const ARTIST_DATA = {
       "state": "WI",
       "location": "Milwaukee, WI",
       "venue": "Bradley Center",
-      "notes": "Sonic Studios · frankmhere",
+      "notes": "Sonic Studios \u00b7 frankmhere",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1996-04-11 - Milwaukee, WI - Bradley Center (Sonic Studios) (frankmhere) [AUD].txt"
     },
     {
       "year": 2022,
@@ -47,9 +48,10 @@ const ARTIST_DATA = {
       "state": "TN",
       "location": "Nashville, TN",
       "venue": "Nissan Stadium",
-      "notes": "SP-OMC-8 · unk",
+      "notes": "SP-OMC-8 \u00b7 unk",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "2022-04-15 - Nashville, TN - Nissan Stadium (SP-OMC-8) (unk) [AUD].txt"
     },
     {
       "year": 2022,
@@ -60,9 +62,10 @@ const ARTIST_DATA = {
       "state": "NY",
       "location": "Orchard Park, NY",
       "venue": "Highmark Stadium",
-      "notes": "CA-11s · heywood",
+      "notes": "CA-11s \u00b7 heywood",
       "version": "AUD",
-      "format": "FLAC 24"
+      "format": "FLAC 24",
+      "textFile": "2022-07-23 - Orchard Park, NY - Highmark Stadium (CA-11s) (heywood) [AUD24].txt"
     },
     {
       "year": 2023,
@@ -73,9 +76,10 @@ const ARTIST_DATA = {
       "state": "NV",
       "location": "Las Vegas, NV",
       "venue": "The Colosseum at Caesars Palace",
-      "notes": "SP-CMC-4U · ijwthstd",
+      "notes": "SP-CMC-4U \u00b7 ijwthstd",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "2023-07-23 - Las Vegas, NV - The Colosseum at Caesars Palace (SP-CMC-4U) (ijwthstd) [AUD].txt"
     }
   ],
   "misc": []

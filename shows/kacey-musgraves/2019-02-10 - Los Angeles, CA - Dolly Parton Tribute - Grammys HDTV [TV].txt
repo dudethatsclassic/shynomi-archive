@@ -1,0 +1,47 @@
+Dolly Parton Tribute
+The 61st Annual Grammy Awards
+Los Angeles, CA
+February 10, 2019
+Broadcast live on CBS-TV and E!-TV
+
+CBS Lineage: HD cable > TiVo Premiere > PC via kmttg > VideoReDo > .ts files
+E! Lineage: HD cable > TiVo Premiere > PC via elgato game capture HD > .ts file
+
+CBS Video:
+MPEG-2
+16 Mbps
+1920x1080
+16:9
+
+CBS Audio:
+AC-3
+384 Kbps
+48.0 KHz
+6 channels
+
+E! Video:
+AVC
+11 Mbps
+1920x1080
+16:9
+
+E! Audio:
+AAC
+220 Kbps
+48.0 KHz
+2 channels
+
+Single logo in the right lower screen
+
+Setlist:
+[1:57] red carpet interview*
+[11:54] Grammy performance:
+01 intro
+02 Here You Come Again (Katy Perry, Kacey Musgraves, Dolly Parton)
+03 Jolene (Miley Cyrus, Dolly Parton)
+04 After The Gold Rush (Miley Cyrus, Maren Morris, Dolly Parton)
+05 Red Shoes (Little Big Town, Dolly Parton)
+06 9 to 5 (All)
+
+
+*from the E! Red Carpet Live broadcast

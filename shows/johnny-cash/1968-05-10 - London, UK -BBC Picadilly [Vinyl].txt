@@ -1,0 +1,56 @@
+Radio Broadcast > Tape? > Acetate?/Vinyl? > Trade CDR > EAC > WAV > FLAC
+
+The Johnny Cash Show 
+recorded at BBC Picadilly, London, GB, May 10, 1968 
+(Broadcast Date: Jun 29, 1968 9:00 pm on Radio 2) 
+Info from Peter Lewry, I've Been Everywhere: A Johnny Cash Chronicle 
+(usually traded as May 20, 1968) 
+
+Johnny Cash 
+The Tennessee Three 
+(one of the last preserved shows feat. LUTHER PERKINS who died on Aug 5, 1968) 
+Carl Perkins 
+James Royal & The Royal Set 
+June Carter Cash 
+
+Johnny Cash
+01 Big River / I Still Miss Someone
+02 Ballad of Ira Hayes
+03 Another Song To Sing
+04 Orange Blossom Special
+05 Ballad Of Boot Hill
+
+Carl Perkins
+06 Lake County Cotton Country / Turn Around / Matchbox
+07 On The Outside Looking In / Country Boy's Dream
+
+Johnny Cash
+08 I Got Stripes
+09 Long Black Veil / Delia / Dark As A Dungeon / Folsom Prison Blues
+
+Johnny Cash & June Carter Cash
+10 Jackson
+
+June Carter Cash
+11 The Last Thing On My Mind / Bye Bye, Bye Bye
+
+Johnny Cash, June Carter Cash & Carl Perkins
+12 The Old Account
+
+Johnny Cash
+13 Ring Of Fire
+
+
+Another older recording that was archived years ago when CDR's first came out.
+There is some digi noise in this recording from the deteorating media.
+Sounds like this may have been a broadcast archived by the BBC on an acetate
+perhaps, as there is some record type static.. or maybe an early bootleg lp (Yes there were several Cash vinyl lp bootlegs) and this may have been taken from that...
+
+[Note, this set tracks the same as vinyl LP “The Boy From Arkansas”]
+
+ I have extracted it with EAC and there were no major errors, see appended log. Radio broadcast when Cash was on top. Not many live shows circulating with LUTHER PERKINS! He died not too long after this show.
+
+ Feel free to track correctly and remaster.
+
+Attempted artwork included!
+

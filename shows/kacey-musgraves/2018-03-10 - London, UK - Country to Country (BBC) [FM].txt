@@ -1,0 +1,41 @@
+Kacey Musgraves - broadcast live from C2C 2018 at the O2 London UK 2018-03-10 on BBC Radio 2 , BBC live 320kbps HLS stream, ts audio transfers 
+
+BBC 320/48 MPEG-TS/ffmpeg/Extract to 48k wav (by hjweis)/Audition CC - Convert to 44.1k,+4db,tracks,fades,FLAC
+
+SBE fix / Checksum file done in Traders Little Helper
+
+
+Bob broadcasts live from C2C in London and introduces special performances from Sugarland and Kacey Musgraves.
+
+Kacey Musgraves headlines tonight's concert, ahead of releasing her fourth album Golden Hour. Golden Hour follows the massive success of Kacey's critically-acclaimed albums Same Trailer Different Park, Pageant Material and A Very Kacey Christmas. Both Same Trailer Different Park and Pageant Material debuted at number one on Billboard's Top Country Albums chart, Kacey has won 2 Grammy Awards for Best Country Album and Best Country Song ("Merry Go 'Round"), 2 CMA Awards for "New Artist of the Year" and "Song of the Year" ("Follow Your Arrow"), and an ACM Award for Album of the Year.
+
+01 intro
+02 Slow Burn
+03 Stupid
+04 banter
+05 Butterflies
+06 Silver Lining
+07 Fine
+08 Mamma's Broken Heart
+09 banter
+10 Late To The Party
+11 banter
+12 Love Is A Wild Thing
+13 banter
+14 Family Is Family
+15 banter
+16 It Is What It Is
+17 Keep It To Yourself
+18 Velvet Elvis
+19 banter
+20 Rainbow 
+21 Western Jam
+22 banter
+23 Space Cowboy
+24 Arrow
+25 encore break
+26 Merry Go Round
+27 Neon Moon
+28 High Horse
+29 outro
+

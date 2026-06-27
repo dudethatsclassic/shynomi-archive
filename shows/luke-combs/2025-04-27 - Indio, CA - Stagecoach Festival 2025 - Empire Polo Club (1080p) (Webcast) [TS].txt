@@ -1,0 +1,40 @@
+Luke Combs
+Stagecoach Festival 2025
+Mane Stage
+Empire Polo Club  
+Indio  
+CA, USA  
+April 27th, 2025
+
+Lineage: Live Twitch webcast -> streamlink -> ffmpeg ->.ts  
+Video: MPEG4 Video (H264) 1920x1080 16:9 6000 Kbps 30 fps  
+Audio: AAC 256 Kbps 44.1 KHz stereo
+
+Setlist:   
+1, 2 Many  
+When It Rains It Pours  
+Cold as You  
+Doin' This  
+Houston, We Got a Problem  
+One Number Away  
+Better Together  
+Forever After All  
+Beautiful Crazy  
+Backup Plan  
+Someone You Loved  
+A Thousand Miles  
+Seven Nation Army  
+Sultans Of Swing  
+Gimme Three Steps  
+The Anthem  
+Where the Wild Things Are  
+Lovin' on You  
+She Got the Best of Me  
+Hurricane  
+The Kind of Love We Make  
+Beer Never Broke My Heart  
+Fast Car  
+Ain't No Love in Oklahoma  
+Friends in Low Places  
+
+trt = 1:36:30

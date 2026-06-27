@@ -1,0 +1,77 @@
+Courtesy of ijwthstd. 
+
+I received the set as a single raw WAV.  I tracked ijwthstd's raw WAV but I did not alter the audio in any way. The CD divisions are my idea but you are free to do as you please if you burn to CD blanks.  I made two slight edits but the tracks will play seamlessly.  I checked with a moderator to okay Nickel Creek playing with Musgraves on one tune midset.  Nickel Creek's opening set, however, cannot be uploaded.  But Father John Misty's set can and will be uploaded.  The setlist is courtesy of setlist.fm. 
+
+Kacey Musgraves 
+Kia Forum
+Inglewood, CA  (USA)
+October 3, 2024
+
+Deeper Well World Tour.
+
+Source:  Audience recording > SP-CMC-4U > Sony PCM-A10 > Soundforge > WAV. 
+
+I used CD Wave to track the single WAV file & TLH to convert the resulting WAV tracks to FLAC (level 6) & to create a .ffp file. 
+
+CD 1 (Main Stage):
+01. Cardinal (Kacey's monitor was not working during this song)
+02. Butterflies
+03. (Kacey talks)
+04. Sway
+05. Too Good to Be True
+06. Golden Hour
+07. Happy & Sad > 
+08. Lonely Weekend > 
+09. Lonely Millionaire
+
+B Stage:
+10. (Kacey talks)
+11. Follow Your Arrow
+12. Family Is Family
+13. (Kacey asked for five seconds of observance for victims of Hurricane Helene before the next song)
+14. The Architect 
+
+CD 2:
+01. Kill Bill [SZA cover](with Nickel Creek)
+
+(Main Stage):
+02. Jade Green
+03. Slow Burn
+04. Space Cowboy
+05. Anime Eyes
+06. Justified
+07. Pink Pony Club [Chappell Roan cover]
+08. High Horse
+09. (band introduction)
+10. Deeper Well
+11. Rainbow
+
+Total time = 97:27
+
+ijwthstd's comments: "Finally forced myself out to a real show.  Nickel Creek was excellent, Father John Misty was ho-hum and Kacey Musgraves was really good. Note I didn't move or touch the levels at all, those disparities in dynamic range are purely house sound. She had a really wide PA array, perhaps to compensate for the mellower sound. Recorded from Sec 210 row 10. Not my original seat but plenty of empties and I didn't haul myself all the way to the top. Paid $31 on the secondary, and last minute, had to make sure I would get there in time for Nickel Creek following an instore that ended at 5:35. I blew off so many cheap tickets the last month or two (hey I LOVE the secondary market and will defend it to the death) but the novelty of going to a concert for "only" $20 has kinda worn off especially when including the massive investment of time and energy.  Nickel Creek joins Kacey Musgraves on 1 song...that was the best part of the whole show and this show would not be anywhere near as enjoyable without it.  Anyway do what you want with this.
+
+KM2024-10-03 d01t01.flac:76e8c7b440addbb9b2df59017c7aef89
+KM2024-10-03 d01t02.flac:e9ae5fd232ec8c9eadf2b99f1181853b
+KM2024-10-03 d01t03.flac:9912a7d9ee8427231e22485af1dd3ed9
+KM2024-10-03 d01t04.flac:653c5c2923d6fe4a7eeca2d3fd8edcad
+KM2024-10-03 d01t05.flac:c0f368d964d68b2b1629dde1916ffa0d
+KM2024-10-03 d01t06.flac:278a5d0a3b6fa629803c6f130ee1e281
+KM2024-10-03 d01t07.flac:8e2b66eb4bc202cbda15372d061a3473
+KM2024-10-03 d01t08.flac:46368d89aa2eb7808bf84de7ccab7709
+KM2024-10-03 d01t09.flac:1f6a64d2d1a80a693eb924cb4aab0580
+KM2024-10-03 d01t10.flac:51f911e0195ce21f3896bef3915dfb74
+KM2024-10-03 d01t11.flac:f6c7157c98bb413b2c4322daa6ac4c55
+KM2024-10-03 d01t12.flac:33bb50a2b515433c7634b7dec277c957
+KM2024-10-03 d01t13.flac:b2226a04d40b625a34ff3524e878cd44
+KM2024-10-03 d01t14.flac:46bc49a68d8ad41c38b12c561a05e75e
+KM2024-10-03 d02t01.flac:113d9678a6250b448d0c04818acf1f6c
+KM2024-10-03 d02t02.flac:a6e7de7476739b0951c9d74ec207891d
+KM2024-10-03 d02t03.flac:2ae895d9e3203ab9c5da3d332ed258ca
+KM2024-10-03 d02t04.flac:45370cb0f703b6376c8e8b9b37a6b0d9
+KM2024-10-03 d02t05.flac:9056ea2f9b605acb12b7e44b3cb86043
+KM2024-10-03 d02t06.flac:27432a11b14003f8c07001da1abd4786
+KM2024-10-03 d02t07.flac:8e8be1d35d7973ffe57eeb16aae41fd0
+KM2024-10-03 d02t08.flac:3654b42a11512e33fec7d6c70c5733ad
+KM2024-10-03 d02t09.flac:c791cde8f03f191c99e7391ac70afe47
+KM2024-10-03 d02t10.flac:dfea74c643d0f687e9ffcee464ece83a
+KM2024-10-03 d02t11.flac:1ff60d34bd87e44fb41e9e8dd08685bd
