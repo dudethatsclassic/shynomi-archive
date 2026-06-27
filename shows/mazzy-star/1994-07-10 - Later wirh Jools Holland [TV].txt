@@ -1,0 +1,35 @@
+Mazzy Star
+Later ... with Jools Holland
+1994-07-09
+
+
+Sourced from a recent re-broadcast on German tv.
+
+Unfortunately i had to omit "Blue Flower" as it is officially released.
+
+
+DVB-C > Cinergy HTC USB XS HD > DVBViewer > MPEG-2 TS > ProjectX (demuxing) > Mpeg2Schnitt (cutting, audio/ video fades, muxing) > MPEG-2
+
+
+Specifications:
+---------------
+video: MPEG-2, 720x576, 4:3, 25fps
+Audio: MP2, stereo, 48000HZ, 256kbs
+
+
+Tracks performed:
+-----------------
+01 Blue Flower*
+02 Fade into You
+
+running time: 00:04:57 (hh:mm:ss)
+
+*: omitted. Officially released on "Later... Louder With Jools Holland" dvd in 2003.
+
+
+Dos & Don'ts:
+--------------
+Use common sense!
+
+
+gaghalfrunt

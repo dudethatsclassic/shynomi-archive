@@ -1,0 +1,62 @@
+Live
+Hard Rock Live at Etess Arena
+Hard Rock Hotel & Casino 
+Atlantic City, NJ
+June 7, 2019
+
+** 16 BIT **
+
+Source:  Schoeps MK41's supercardioids > Actives > Nbox > Roland R-07 @ 24 bit/48 kHz
+Mastering:  .WAV > iZotope RX9 Advanced v9.0.0.1130 (De-click) > Sound Forge Pro 14.0 Build 140 [normalize, & fades, Boz Digital Labs T-Bone plug-in (slant EQ)] > CDWav (tracking) > 
+iZotope MBIT+ (dithered and downsampled to 16 bit/44.1 kHz) > Trader's Little Helper (level 5) > FLAC > TagScanner 6.0.35 (tagging)
+Recorded by:  Joe Burns
+Mastered by:  Dennis Orr
+
+Setlist: (1:11:20)
+01 Intro 
+02 The Dam At Otter Creek >
+03 All Over You
+04 Selling The Drama
+05 Chat
+06 Losing My Religion
+07 Shit Towne
+08 Iris
+09 The Dolphin's Cry
+10 Paint It Black
+11 Lakini's Juice
+12 I Alone
+13 White, Discussion
+14 Chat
+15 Heaven (1)
+16 Turn My Head (2)
+17 Band Intros & Chat
+18 Lightning Crashes
+
+(1) Ed solo acoustic
+(2) Ed and Chad only, acoustic
+
+Ed Kowalczyk – lead vocals & rhythm guitar
+Chad Taylor – lead guitar & backing vocals
+Patrick Dahlheimer – bass
+Chad Gracey – drums
+Zak Loy – rhythm guitar, mandolin, & backing vocals
+Clint Simmons – percussion
+
+Live2019-06-07t01.flac:010d63b30e3eaeb8da50ed7e7996ed7a
+Live2019-06-07t02.flac:fdc8da6c6dbf462add94bcdf88f603b9
+Live2019-06-07t03.flac:d974a612bea455a79a277c3134ebcb67
+Live2019-06-07t04.flac:e18b53417493208a700fbf587bee2fc7
+Live2019-06-07t05.flac:d621baec2c7fe23805d1e6a8c8a26662
+Live2019-06-07t06.flac:9bc724fb71552f60643679f00f6e6bb7
+Live2019-06-07t07.flac:cc00dc74b7c7e25c59a261a3f91c60d1
+Live2019-06-07t08.flac:dbb5ab012c94f69a573243ea261e75f6
+Live2019-06-07t09.flac:c94325720a0a243093e7d5dd1e54efac
+Live2019-06-07t10.flac:a325118ee71057316131b2737e2a12a7
+Live2019-06-07t11.flac:90886060df0a3851ca76644a2f3f4b6e
+Live2019-06-07t12.flac:2fb212c757924446ba6bded677cfc524
+Live2019-06-07t13.flac:322668c78bca3e9f18e8150bc8a663da
+Live2019-06-07t14.flac:0dd81906703eae95d9e0ede67f8bd051
+Live2019-06-07t15.flac:37bfbe7eead99cbea6431be63f65c71e
+Live2019-06-07t16.flac:57feeece5bcba67fe9ca08076bc9e1a5
+Live2019-06-07t17.flac:bf5035e610e075e2e9657fdd5dff6428
+Live2019-06-07t18.flac:ba51ef16f5ede575e453e51faa74c56f

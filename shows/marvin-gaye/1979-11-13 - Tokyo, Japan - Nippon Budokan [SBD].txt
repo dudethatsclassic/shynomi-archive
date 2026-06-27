@@ -1,0 +1,165 @@
+EAC extraction logfile from 10. March 2004, 13:44 for CD
+Marvin Gaye / Budokan - November 13 1979
+
+Used drive  : TDK     CDRW161040   Adapter: 1  ID: 0
+Read mode   : Secure with NO C2, accurate stream, NO disable cache
+Combined read/write offset correction : 0
+Overread into Lead-In and Lead-Out : No
+
+Used output format : Internal WAV Routines
+                     44.100 Hz; 16 Bit; Stereo
+
+Other options      : 
+    Fill up missing offset samples with silence : Yes
+    Delete leading and trailing silent blocks : No
+    Native Win32 interface for Win NT & 2000
+
+
+Track  1
+     Filename C:\Documents and Settings\David Orbach\Desktop\marvin-11-13-79.shnf\01 - Got to Give It Up.wav
+
+     Peak level 97.9 %
+     Track quality 100.0 %
+     Copy CRC 664B9776
+     Copy OK
+
+Track  2
+     Filename C:\Documents and Settings\David Orbach\Desktop\marvin-11-13-79.shnf\02 - When I First Saw You.wav
+
+     Peak level 97.9 %
+     Track quality 100.0 %
+     Copy CRC 96831A6C
+     Copy OK
+
+Track  3
+     Filename C:\Documents and Settings\David Orbach\Desktop\marvin-11-13-79.shnf\03 - What's Going On.wav
+
+     Peak level 97.9 %
+     Track quality 99.9 %
+     Copy CRC E4A24B50
+     Copy OK
+
+Track  4
+     Filename C:\Documents and Settings\David Orbach\Desktop\marvin-11-13-79.shnf\04 - Who Is To Blame.wav
+
+     Peak level 97.9 %
+     Track quality 100.0 %
+     Copy CRC 34FB2008
+     Copy OK
+
+Track  5
+     Filename C:\Documents and Settings\David Orbach\Desktop\marvin-11-13-79.shnf\05 - Inner City Blues.wav
+
+     Peak level 87.4 %
+     Track quality 100.0 %
+     Copy CRC 64B0BD19
+     Copy OK
+
+Track  6
+     Filename C:\Documents and Settings\David Orbach\Desktop\marvin-11-13-79.shnf\06 - Funky Space Reincarnation.wav
+
+     Peak level 97.9 %
+     Track quality 100.0 %
+     Copy CRC E3346EDA
+     Copy OK
+
+Track  7
+     Filename C:\Documents and Settings\David Orbach\Desktop\marvin-11-13-79.shnf\07 - How Sweet It Is To Be Loved By You.wav
+
+     Peak level 97.9 %
+     Track quality 100.0 %
+     Copy CRC ED2E75A3
+     Copy OK
+
+Track  8
+     Filename C:\Documents and Settings\David Orbach\Desktop\marvin-11-13-79.shnf\08 - Band Intro,Trouble Man.wav
+
+     Peak level 97.9 %
+     Track quality 99.9 %
+     Copy CRC 5D1362F1
+     Copy OK
+
+Track  9
+     Filename C:\Documents and Settings\David Orbach\Desktop\marvin-11-13-79.shnf\09 - Ain't That Peculiar.wav
+
+     Peak level 97.9 %
+     Track quality 100.0 %
+     Copy CRC 40A1B0F4
+     Copy OK
+
+Track 10
+     Filename C:\Documents and Settings\David Orbach\Desktop\marvin-11-13-79.shnf\10 - Yeah Yeah Yeah,Pride and Joy.wav
+
+     Peak level 97.9 %
+     Track quality 100.0 %
+     Copy CRC 3FBC9E92
+     Copy OK
+
+Track 11
+     Filename C:\Documents and Settings\David Orbach\Desktop\marvin-11-13-79.shnf\11 - Pride and Joy.wav
+
+     Peak level 97.9 %
+     Track quality 100.0 %
+     Copy CRC FE6920C9
+     Copy OK
+
+Track 12
+     Filename C:\Documents and Settings\David Orbach\Desktop\marvin-11-13-79.shnf\12 - Darlin' I Love You.wav
+
+     Peak level 97.9 %
+     Track quality 100.0 %
+     Copy CRC 5137C4E2
+     Copy OK
+
+Track 13
+     Filename C:\Documents and Settings\David Orbach\Desktop\marvin-11-13-79.shnf\13 - Heard It Through the Grapvine.wav
+
+     Peak level 97.9 %
+     Track quality 100.0 %
+     Copy CRC B50CE04C
+     Copy OK
+
+Track 14
+     Filename C:\Documents and Settings\David Orbach\Desktop\marvin-11-13-79.shnf\14 - Goin' To Chicago.wav
+
+     Peak level 97.9 %
+     Track quality 99.8 %
+     Copy CRC E5682BD4
+     Copy OK
+
+Track 15
+     Filename C:\Documents and Settings\David Orbach\Desktop\marvin-11-13-79.shnf\15 - Need You Baby.wav
+
+     Peak level 97.9 %
+     Track quality 100.0 %
+     Copy CRC 31B7094A
+     Copy OK
+
+Track 16
+     Filename C:\Documents and Settings\David Orbach\Desktop\marvin-11-13-79.shnf\16 - Too Busy Thinking About My Baby.wav
+
+     Peak level 97.9 %
+     Track quality 100.0 %
+     Copy CRC D39E269F
+     Copy OK
+
+Track 17
+     Filename C:\Documents and Settings\David Orbach\Desktop\marvin-11-13-79.shnf\17 - Distant Lover.wav
+
+     Peak level 98.0 %
+     Track quality 100.0 %
+     Copy CRC BE162440
+     Copy OK
+
+Track 18
+     Filename C:\Documents and Settings\David Orbach\Desktop\marvin-11-13-79.shnf\18 - Thank You,Goodnight.wav
+
+     Peak level 98.0 %
+     Track quality 100.0 %
+     Copy CRC 3FE7912E
+     Copy OK
+
+No errors occured
+
+
+End of status report

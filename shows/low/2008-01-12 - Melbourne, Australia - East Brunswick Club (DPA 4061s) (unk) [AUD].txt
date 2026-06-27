@@ -1,0 +1,41 @@
+artist: Low
+venue: East Brunswick Club, Melbourne, Australia
+date: 12 January 2008
+
+Total (87:38)
+1. Sandinista (5:16)
+2. In Silence (3:08)
+3. Take Your Time (3:57)
+4. Dragonfly (5:16)
+5. Belarus (4:13)
+6. Little Argument With Myself (3:08)
+7. Canada (4:50)
+8. When You Walked Out On Me (6:15)
+9. Pissing (7:49)
+10. Violent Past (5:03)
+11. La La La Song (4:39)
+12. On The Edge Of (4:26)
+13. Murderer (3:35)
+14. Breaker (2:50)
+15. encore (1:42)
+16. (That's How You Sing) Amazing Grace (7:58)
+17. Waltzing Matilda [trad, noodling only] (1:41)
+18. Over The Ocean (5:35)
+19. The Lamb (6:09)
+
+Alan Sparhawk - vocals, guitar
+Mimi Parker - vocals, drums
+Matt Livingston - bass guitar, backup vocals
+
+lineage: Core Sound HEB (matched DPA4061) mics
+> Core Sound Mic2496 mic pre-amp/A-D converter
+> Core Sound PDAudio-CF digital audio interface
+> Dell Axim X51v PDA with Gidluck Mastering's Live2496 software
+> 4GB Ridata Pro 150x SD Card as 24-bit 96kHz .wav file
+> CoolEdit Pro 2.0 for converting to 16-bit 44.1kHz and tracking (sector aligned)
+> FLAC Frontend 1.7.1 (level 8)
+
+notes: recorded FOB 4m from stage dead centre standing on floor;
+mics at temples on glasses directed straight forward;
+no equalisation, no compression, no effects, no normalisation,
+fade in/out in CoolEdit;

@@ -1,0 +1,29 @@
+Matt Pond PA
+February 2, 2025
+The Hamilton
+Washington, DC
+
+Matt Pond PA: Matt Pond, John Courage, Hilary James, Ryan Walker & Dan Ford 
+
+Location:	Stage center table
+Taper: hemisphire
+
+Source: LG V60 > RecForge II Pro > WAV
+Lineage: WAV > ffmpeg (track split) > Trader's Little Helper > FLAC
+
+01. KC
+02. So Much Trouble
+03. Halloween
+04. Giving It All Away
+05. New Hampshire
+06. From Debris
+07. Risky Business
+08. Starting
+09. Several Arrows Later
+10. Snow Day
+11. The Ballad Of The Natural Lines (with Anya Marina)
+12. Are You Talking To Me (with Anya Marina)
+13. Specks (with Anya Marina)
+14. Love To Get Used (with Anya Marina)
+15. Fairlee (with Anya Marina)
+16. Measure 3

@@ -1,0 +1,30 @@
+Low - 2003 02 28 @ The Fahrenheit Gallery, Kansas City MO
+
+Notes:
+Another gem from the archive of SonicTooth. There was a small gap in Canada, which I removed.
+
+
+1 intro
+2 Candy Girl
+3 (That's How You Sing) Amazing Grace
+4 Tonight
+5 Little Argument With Myself
+6 John Prine
+7 Sunflower
+8 Fearless [Pink Floyd]
+9 La La La Song
+10 Violence
+11 Canada
+12 Missouri
+13 Point of Disgust
+14 Lordy
+>> encore
+15 Like a Forest 
+16 Two-Step
+
+Support:
+Haley Bonar
+
+Taper: SonicTooth
+Lineage: SPCMC8 > SPBB > MD
+Transfer: Sony MZ-R55 Line Out > Sony A10 Line In > WAV (44.1 / 24) > SoundForge (levels, fades) > Audacity (click removal) > CDWAVE (splits] > FLAC

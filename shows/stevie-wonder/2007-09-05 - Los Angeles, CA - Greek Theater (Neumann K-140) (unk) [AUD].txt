@@ -1,0 +1,67 @@
+Stevie Wonder @ Greek Theater 09/05/07  
+from the Collins Collection
+
+Details:
+Date:  09/05/07
+Location:  Greek Theater, Los Angeles, CA
+Seats:  13th Row, Center
+Quality:  A
+Tape:  Korg MR-1000 5.6 MHz 1-bit recorder.
+Mics:  Neumann KM-140
+Software:  CD - Sound Forge -> CD Architect; DVD-Audio - Sound Forge --> WaveLab 6 --> FLAC
+
+Song List:
+
+CD-1:
+Regions List: Stevie CD 1.wav
+
+Name                               Start           End        Length
+-------------------------- ------------- ------------- -------------
+Love's In Need Of Love Today  00:00:00.000  00:05:58.093  00:05:58.093
+Too High                    00:06:01.281  00:10:37.080  00:04:35.798
+Visions                     00:10:37.858  00:19:43.805  00:09:05.946
+Living For The City         00:19:43.805  00:24:06.751  00:04:22.946
+Master Blaster (Jammin')    00:24:08.405  00:27:57.567  00:03:49.162
+Higher Ground               00:28:03.455  00:33:33.275  00:05:29.819
+Golden Lady                 00:33:46.190  00:40:18.542  00:06:32.351
+Ribbons In The Sky          00:40:22.302  00:52:34.984  00:12:12.682
+Overjoyed                   00:52:34.984  00:56:20.709  00:03:45.724
+Can't Imagine Love Without You  00:56:25.208  00:57:53.230  00:01:28.021
+You And I                   00:57:53.230  01:00:34.040  00:02:40.810
+Blame It On The Sun         01:00:34.040  01:02:20.266  00:01:46.225
+Lately                      01:02:20.266  01:04:31.352  00:02:11.086
+
+
+CD-2:
+Regions List: Stevie CD 2.wav
+
+Name                               Start           End        Length
+
+-------------------------- ------------- ------------- -------------
+How Will I Know             00:00:00.000  00:04:10.094  00:04:10.094
+Percussion Solo             00:04:19.355  00:06:33.318  00:02:13.962
+Don't You Worry 'Bout A Thing  00:06:33.318  00:11:32.603  00:04:59.285
+Signed, Sealed, Delivered, I'm Yours  00:11:32.603  00:17:40.955  00:06:08.351
+Introduction to 'Memphis'   00:17:40.955  00:18:11.120  00:00:30.165
+Memphis                     00:18:11.120  00:20:34.054  00:02:22.933
+Boogie On Reggae Woman      00:20:54.320  00:23:03.750  00:02:09.429
+Introduction to 'My Cherie Amour'  00:23:03.750  00:25:35.494  00:02:31.743
+My Cherie Amour             00:25:35.494  00:28:30.904  00:02:55.409
+Introduction to 'When I Fall In Love'  00:28:30.904  00:29:51.584  00:01:20.680
+When I Fall In Love         00:29:51.584  00:34:12.273  00:04:20.688
+Sir Duke                    00:34:17.003  00:35:44.859  00:01:27.855
+I Wish                      00:35:44.859  00:37:52.554  00:02:07.694
+Isn't She Lovely            00:37:52.554  00:39:34.019  00:01:41.464
+Sunshine Of My Life         00:39:34.019  00:41:27.152  00:01:53.133
+Superstition                00:41:27.152  00:45:46.475  00:04:19.322
+Band Introductions          00:45:46.475  00:47:43.808  00:01:57.333
+I Just Called To Say I Love You  00:47:47.861  00:52:17.856  00:04:29.994
+Another Star                00:52:25.749  00:57:01.077  00:04:35.327
+
+Musicians:
+
+Stevie Wonder: Keyboards, Vocals; Nathan Watts: Bass; Morris O'Connor, Errol Cooney: Guitar; 
+Victoria Theodore: Keyboards, Vocals; Roman Jackson: Keyboards; Chris Johnson: Drums; Fausto Cuevas, 
+Munyongo Jackson: Percussion; Aisha Morris, Keith John, Kimberly Brewer: Background Vocals; 
+Guest Artist: Anita Johnson: Vocals
+

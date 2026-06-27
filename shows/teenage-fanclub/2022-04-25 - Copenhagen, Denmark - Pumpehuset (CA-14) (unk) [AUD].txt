@@ -1,0 +1,29 @@
+Teenage Fanclub
+Copenhagen Pumpehuset, DK
+2022-04-25
+
+Source: ca14->ca9100->sony pcm-m10 -> wav (48 khz/24 bit)
+Transfer: sony pcm-m10->hd->cep->cdwav (44,1 khz/16 bit)->flac 
+
+01. Intro
+02. Home
+03. Endless Arcade
+04. About You
+05. Start Again
+06. Alcoholiday
+07. It's a Bad World
+08. Did I Say
+09. Your Love Is the Place Where I Come From
+10. Back in the Day
+11. Everything Is Falling Apart
+12. What You Do to Me
+13. Only With You
+14. I Don't Want Control of You
+15. I'm in Love
+16. My Uptight Life
+17. The Concept
+---
+18. Middle of the Road
+19. I Left a Light On
+20. Can't Feel My Soul
+21. Everything Flows

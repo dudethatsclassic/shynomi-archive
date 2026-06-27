@@ -1,0 +1,81 @@
+Stevie Wonder
+Live @ Sportpaleis Ahoy, Rotterdam, Holland
+14th September 2008
+
+Source: Sony ECM-719 stereo microphone > M-Audio MicroTrack II @ 24b48k > CD Wave @ 16b44k > FLAC @ level 0
+Location: dead center @ 30 meters from stage
+Taper: M!les
+
+Setlist:
+
+01. Intro (All Blues) (by Miles Davis) 							05:46
+02. As If You Read My Mind								04:33
+03. Master Blaster (Jammin')								04:11
+04. Did I Hear You Say You Love Me							03:56
+05. All I Do										04:03
+06. Knocks Me Off My Feet								05:54
+07. People Make The World Go Round (by The Stylistics) (on the talkbox)			06:50
+08. Higher Ground									04:07
+09. Spain (by Return To Forever) (feat. introduction of band members)			11:51
+10. Don't You Worry 'Bout A Thing							04:45
+11. Stevie talks (United People Of The World)						05:16
+12. Visions										07:53
+13. Living For The City									03:37
+14. Golden Lady										06:54
+15. Ribbon In The Sky									05:15
+16. Overjoyed										03:48
+17. Lately										03:33
+18. I'm Gonna Laugh You Out Of My Life (by Nat King Cole) (sung by Aisha Morris)	03:49
+19. Signed, Sealed, Delivered I'm Yours							02:51
+20. Sir Duke										02:47
+21. I Wish										02:13
+22. Isn't She Lovely									01:34
+23. Do I Do										06:46
+24. I Just Called To Say I Love You							04:11
+25. My Cherie Amour									03:18
+26. You Are The Sunshine Of My Life							02:32
+27. Superstition (feat. So What The Fuss - Barack Obama - introduction of musicians)	11:53
+28. As											03:24
+29. Outro										02:27
+
+Total recording time: 2 hours 19 minutes 57 seconds
+
+Thanks to Stevie and the band, BLR, Skipper, 
+and Funky Holland: No audience in the world matches U!
+
+Let F.U.N.K rule!!
+
+BT
+
+Fingerprints:
+
+sw.20080914.rotterdam.nl.track01.flac:82e45596843195ef3f76899ccc18df3d
+sw.20080914.rotterdam.nl.track02.flac:f4d42a6ef6d6d7261d0fe02c334f735b
+sw.20080914.rotterdam.nl.track03.flac:c67240248fe021debdf2737255eaa31b
+sw.20080914.rotterdam.nl.track04.flac:adf5ae4ebba3485822db692d1bd4fb2d
+sw.20080914.rotterdam.nl.track05.flac:124de45fc328cadfd5fd813525ce70ce
+sw.20080914.rotterdam.nl.track06.flac:43dc009f73efc0e0c8aa2bd4d685143a
+sw.20080914.rotterdam.nl.track07.flac:2ac4597d40e0a236d0a8858b544170be
+sw.20080914.rotterdam.nl.track08.flac:e7977c1e436f4997481db1cf2809bf7a
+sw.20080914.rotterdam.nl.track09.flac:8e390676f3c59af292b97adb748324e3
+sw.20080914.rotterdam.nl.track10.flac:17b51707f228b390f7399f9339059629
+sw.20080914.rotterdam.nl.track11.flac:758793a6a5cde717b3f257abb4e7ae0e
+sw.20080914.rotterdam.nl.track12.flac:aca472a656dcfa79aec00797fa719d16
+sw.20080914.rotterdam.nl.track13.flac:bdb026f60457cc949310609cf1f41871
+sw.20080914.rotterdam.nl.track14.flac:811490459bfeb7e744c6f9cef2e6c044
+sw.20080914.rotterdam.nl.track15.flac:0ffb17d4afbb6a15ea01863b0009fb9b
+sw.20080914.rotterdam.nl.track16.flac:23b07c03e6f0b0028dd045ad77a2701a
+sw.20080914.rotterdam.nl.track17.flac:15e3371287fef6f14d1b56c6bb8a64e0
+sw.20080914.rotterdam.nl.track18.flac:caf068f99fbeb03569bdf4bf82a56f09
+sw.20080914.rotterdam.nl.track19.flac:776722bbce695d8d0dcd4c9bae6565a5
+sw.20080914.rotterdam.nl.track20.flac:db4eb10d2c67881abc088fadd59b493a
+sw.20080914.rotterdam.nl.track21.flac:580d388f11ab5a3fa3600e0ada003dd0
+sw.20080914.rotterdam.nl.track22.flac:9f6c04f18c137d51df671acae335bb8a
+sw.20080914.rotterdam.nl.track23.flac:ffeec33567565f1d39625255127ffea8
+sw.20080914.rotterdam.nl.track24.flac:1fb82a58abb24f8b6f63605dd8bcd990
+sw.20080914.rotterdam.nl.track25.flac:3822c2c8afd6916b1fffc251ce2f9f2f
+sw.20080914.rotterdam.nl.track26.flac:6d24f6ad50374b87c9f8c5c8cf0b4bac
+sw.20080914.rotterdam.nl.track27.flac:3baf386e6d90c4fbb4ba346af311d6c6
+sw.20080914.rotterdam.nl.track28.flac:457fd4df41aab1326992f01f750955f4
+sw.20080914.rotterdam.nl.track29.flac:2ab46dfd96e72bd032b515c1ebd2801e
+

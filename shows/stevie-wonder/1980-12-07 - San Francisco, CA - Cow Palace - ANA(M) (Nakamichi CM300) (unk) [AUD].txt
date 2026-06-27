@@ -1,0 +1,64 @@
+Stevie Wonder
+December 7, 1980
+The Cow Palace
+San Francisco, California, USA
+
+from cassette master except last song of show which is from a 1st gen. cassette. Recorded from the front row. The sound quality is very decent especially considering that the master deck was not especially high fidelity and the Cow Palace is a rather cavernous venue. Check the samples to get an idea of the sound quality for yourself.
+
+disc 1 - 64:42
+01 [00:30] intro
+02 [03:30] For Once In My Life
+03 [02:10] My Cherie Amour
+04 [02:30] Signed, Sealed, Delivered I'm Yours >
+05 [02:58] If You Really Love Me >
+06 [05:43] Superwoman (Where Were You When I Needed You?) >
+07 [10:32] You & I >
+08 [04:58] Rocket Love >
+09 [04:14] Lately
+10 [02:44] Don't You Worry 'Bout A Thing >
+11 [02:40] Higher Ground
+12 [04:01] All I Do >
+13 [04:20] Boogie On Reggae Woman >
+14 [04:47] Let's Get Serious >
+15 [02:05] Living For The City >
+16 [02:41] Sir Duke
+17 [04:19] I Wish
+
+disc 2 - 25:55
+01 [02:19] You Are The Sunshine of My Life
+02 [07:29] Superstition >
+03 [05:42] As
+04 [01:21] talk
+05 [09:04] Master Blaster [with guest Gil Scott Heron] [fades on last notes]
+
+lineage: Nakamichi cm300 microphones > unknown model Akai cassette recorder.
+transfer: Nakamichi Dragon > Pro Tools (minor "nip and tuck" edits, normalization & tracking) > Aiff files > xACT (Flac level 8 files with sector boundaries verified).
+
+Note: I've heard that this tour was originally scheduled to feature a co-bill with Bob Marley & The Wailers, but Gil Scott Heron was substituted as an opener because Bob Marley was too sick from the cancer which would kill him less than six months later. I was not able to record the opening set by Gil Scott Heron because of a traffic jam getting into the parking lot (as often happened at the Cow Palace).
+
+Enjoy and SHARE!
+
+Fingerprints:
+
+101StevieWonder1980-12-07SF_CowPalace.flac:6da0ae2ed6c2929a9f3e050753d5fa50
+102StevieWonder1980-12-07SF_CowPalace.flac:4d79fa0fde27bf08b66347d0d722daa6
+103StevieWonder1980-12-07SF_CowPalace.flac:fb9ef9daff6fce1c1881b7852a0f8f8d
+104StevieWonder1980-12-07SF_CowPalace.flac:58e4631b82e3b4c581e297e5d6172c9d
+105StevieWonder1980-12-07SF_CowPalace.flac:c75e64b6ba6ffc4896a744b00f93949c
+106StevieWonder1980-12-07SF_CowPalace.flac:23ab303b7ae3716f0468061ffa303721
+107StevieWonder1980-12-07SF_CowPalace.flac:0f6b89ea175c8807eafef86d7724cee4
+108StevieWonder1980-12-07SF_CowPalace.flac:2b656c133c6129dad9a24d00612429e2
+109StevieWonder1980-12-07SF_CowPalace.flac:3c19a924ac0634186e94ca220f6ddded
+110StevieWonder1980-12-07SF_CowPalace.flac:635739b512fd8bac6704469d6cc8349e
+111StevieWonder1980-12-07SF_CowPalace.flac:f6583c787f62af5d0acc3a2c8d6aab06
+112StevieWonder1980-12-07SF_CowPalace.flac:8b4005c30a15586a8417d51421cfd5ce
+113StevieWonder1980-12-07SF_CowPalace.flac:17f01812da5cf999e5d05c0a2b75e1f9
+114StevieWonder1980-12-07SF_CowPalace.flac:1c70d0c59602604a5bb9e19a33008c08
+115StevieWonder1980-12-07SF_CowPalace.flac:38cdbe3d9ac4a773861701a1c52cf112
+116StevieWonder1980-12-07SF_CowPalace.flac:0f48527bd2b667d55fc7a5c30b67ac87
+117StevieWonder1980-12-07SF_CowPalace.flac:d6368621b3241a26eb42157b9924a184
+201StevieWonder1980-12-07SF_CowPalace.flac:60e43dafe5fb99703b2f9499010c973f
+202StevieWonder1980-12-07SF_CowPalace.flac:cece95bae52e8846a1e842136d6f03b4
+203StevieWonder1980-12-07SF_CowPalace.flac:37146da9a11db18a2e975b006e61b325
+204StevieWonder1980-12-07SF_CowPalace.flac:45b180757315389cea39a2c1eae21f7d
+205StevieWonder1980-12-07SF_CowPalace.flac:6a7897d32bacc399b2707fdc1b58c989

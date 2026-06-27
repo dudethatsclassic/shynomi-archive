@@ -1,0 +1,97 @@
+Stevie Wonder 01/17/1981
+The New Haven Coliseum, New Haven, CT   
+
+Lineage: aud M: (2) TDK SA-C90 90 no dolby, recorded by Commander.
+Transfer: Dragon>USB DAD>Audacity>flac24-96>flac16   TLH sbe fix by taperchuck3 july 2012. 
+
+01 For Once In My Life   4:50
+02 My Cherie Amour       2:12
+03 Signed, Sealed, Delivered I'm Yours  2:31
+04 If You Really Love Me   3:33
+05 Superwoman (Where Were You When I Needed You)  2:13
+06 You And I           12:35
+   Too Shy to Say *
+07 Reflections Of You   3:25
+08 Ribbon In The Sky    6:43    
+09 Lately               4:34
+10 Rocket Love          5:11
+11 Don't You Worry 'Bout A Thing   2:59
+12 Higher Ground        9:30
+13 I Ain't Gonna Stand For It   6:05
+14 Boogie On Reggae Woman  2:40
+15 Let's Get Serious    8:15
+16 All I Do             9:33
+17 Living For The City  2:16
+18 You are the Sunshine of My Life  7:04
+19 Superstition         2:24
+20 Love is the Key ??   9:34
+21   jam               16:04
+22   jammin'   ??       8:45
+23 Happy Birthday      10:19
+  
+
+notes: B qual - varies,  
+ * missing or played during track 06
+flip after t08.
+t17 tape flip
+trk 21 tape flip
+comments 
+tapes have add'l songs not in db.
+thanks to Commander for lending me a big box o' master tapes.
+taperchuck3   enjoy! Dec 31 2012!!
+
+9f297d6ab8c67407acb9b0b9c5bd343b *StevieWonder1981-01-17 audM t01-fixed.flac
+47fc503e03f324e4983501b03492d80f *StevieWonder1981-01-17 audM t02-fixed.flac
+1e298b6ca5e58000f9c63af28d2908ba *StevieWonder1981-01-17 audM t03-fixed.flac
+0a474d7061b661e7ebd8b1eaeec10a8f *StevieWonder1981-01-17 audM t04-fixed.flac
+e725dc2f32a7ddb7f583b3db8c202bfa *StevieWonder1981-01-17 audM t05-fixed.flac
+95c90fcf936303d2434aab0eb245c43b *StevieWonder1981-01-17 audM t06-fixed.flac
+700751f1139e8d9492008f6e4090a22f *StevieWonder1981-01-17 audM t07-fixed.flac
+962f78308c35f74a2dfab3904c76e1a2 *StevieWonder1981-01-17 audM t08-fixed.flac
+40d3ab67cfd2f58e1dd54c7bc9741c91 *StevieWonder1981-01-17 audM t09-fixed.flac
+5badd49d1c1ca95670224c0e4f05c3bd *StevieWonder1981-01-17 audM t10-fixed.flac
+9a5504bd3b8f8a83fc055efe01d9c645 *StevieWonder1981-01-17 audM t11-fixed.flac
+eaefe6b3db1342e8ea56f6baace9d46e *StevieWonder1981-01-17 audM t12-fixed.flac
+dae93c951d36e71ca888315f9814a501 *StevieWonder1981-01-17 audM t13-fixed.flac
+8194d18d0fc7dd431a8f064128900c92 *StevieWonder1981-01-17 audM t14-fixed.flac
+e4eadaa48dd5a3448a13453b5983211f *StevieWonder1981-01-17 audM t15-fixed.flac
+4a26620a0847bbc4e9e6894f1daf2824 *StevieWonder1981-01-17 audM t16-fixed.flac
+b40a234c1c98c1113079cd601e6a9c7e *StevieWonder1981-01-17 audM t17-fixed.flac
+9429a400f1900cd8650b44613d650a2c *StevieWonder1981-01-17 audM t18-fixed.flac
+12aa2cdf1d1495c6f8ca3a949d0e5b19 *StevieWonder1981-01-17 audM t19-fixed.flac
+dceebbd92503f6735ee45bbfa2241858 *StevieWonder1981-01-17 audM t20-fixed.flac
+e3159946afce8e59dccf43d6c7686197 *StevieWonder1981-01-17 audM t21-fixed.flac
+4af14dd92cfecab00f3b9711e3c721a1 *StevieWonder1981-01-17 audM t22-fixed.flac
+3ea82392578328c89eb7945fdf32bb8b *StevieWonder1981-01-17 audM t23-fixed.flac
+21494a6a6da057cb3f3415592e351ebc *StevieWonder1981-01-17 aud-M.ffp
+284e3f1511ce4984393b4e2f2d4e72a6 *StevieWonder1981-01-17.aud.txt
+
+No errors occured.
+
+
+StevieWonder1981-01-17 audM t01-fixed.flac:962c755988851114bb6683839de90b60
+StevieWonder1981-01-17 audM t02-fixed.flac:1e7892ad2ca7cc3fd5a4ec3f2c5e97ab
+StevieWonder1981-01-17 audM t03-fixed.flac:aaa89d0f28e41c5088fb99cb7ca61e65
+StevieWonder1981-01-17 audM t04-fixed.flac:86a8aaaf8f5c005972ab8d723c6da88e
+StevieWonder1981-01-17 audM t05-fixed.flac:b37ef6e1718f31a635b917a6e977af51
+StevieWonder1981-01-17 audM t06-fixed.flac:45d0d921fa1c76dd88ba5f73e0695a51
+StevieWonder1981-01-17 audM t07-fixed.flac:732caf072ffb43b6dea657f5749444cd
+StevieWonder1981-01-17 audM t08-fixed.flac:ef39653678613cc9cea52cf598f39202
+StevieWonder1981-01-17 audM t09-fixed.flac:1c22f23d19d9ec20c07f4ca2644722cb
+StevieWonder1981-01-17 audM t10-fixed.flac:30eb025b3d4db2ece9e0c05a9c1d21ad
+StevieWonder1981-01-17 audM t11-fixed.flac:8ee20796953656720fb356bc17e4829b
+StevieWonder1981-01-17 audM t12-fixed.flac:63a2a560fb1afb2dfe349e05a1dda115
+StevieWonder1981-01-17 audM t13-fixed.flac:223b394e307cd218266033eec8670f30
+StevieWonder1981-01-17 audM t14-fixed.flac:69a9c9574b0790aae281392888944b30
+StevieWonder1981-01-17 audM t15-fixed.flac:17ec9da32512b18d510dc16be7b2cd90
+StevieWonder1981-01-17 audM t16-fixed.flac:afcd900387e4fc26e499d4f01f6395a1
+StevieWonder1981-01-17 audM t17-fixed.flac:b50145f1df08fa80965387848932f713
+StevieWonder1981-01-17 audM t18-fixed.flac:511f0884f889576a4808aa756974c952
+StevieWonder1981-01-17 audM t19-fixed.flac:dcd62dd0c592f66362ee2e838cd68b8a
+StevieWonder1981-01-17 audM t20-fixed.flac:7914211ebcf6412931cd23dbc63852c7
+StevieWonder1981-01-17 audM t21-fixed.flac:7dd943adec5cd5a493b0c6340bcf43a1
+StevieWonder1981-01-17 audM t22-fixed.flac:1538ba1952a5eb3d43d0b9ad0e312041
+StevieWonder1981-01-17 audM t23-fixed.flac:2a612ec8a3bed012194f40fd05cb4435
+
+No errors occured.
+

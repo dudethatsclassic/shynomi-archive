@@ -1,0 +1,36 @@
+AFI
+2007-03-07
+Medford Armory
+Medford, OR, USA
+
+Source: CSB > battery box (bass roll-off enabled) > MZ-R91
+By: faninor
+Transfer: MD (master) > MDS-JB940 optical out > Soundblaster Audigy 2 NX optical
+          in > WAV (recorded and edited in Adobe Audition, tracked in CD Wave)
+          > FLAC
+By: faninor
+
+Disc 1 ------------------------------------------------------------- [62:45.000]
+01 - Prelude 12/21                                                   [01:54.000]
+02 - Girl's Not Grey                                                 [03:22.000]
+03 - Kill Caustic                                                    [03:04.000]
+04 - The Leaving Song Pt. 2                                          [04:35.000]
+05 - Summer Shudder                                                  [03:11.000]
+06 - File 13                                                         [02:15.000]
+07 - Silver and Cold                                                 [05:17.000]
+08 - Dancing Through Sunday                                          [02:56.000]
+09 - The Missing Frame                                               [05:26.000]
+10 - The Boy Who Destroyed the World                                 [03:17.000]
+11 - This Time Imperfect                                             [04:30.000]
+12 - Death of Seasons                                                [04:25.000]
+13 - The Leaving Song                                                [03:39.000]
+14 - Song 2                                                          [02:17.000]
+15 - Love Like Winter                                                [03:18.000]
+16 - encore                                                          [00:59.000]
+17 - God Called In Sick Today                                        [04:48.000]
+18 - Miss Murder                                                     [03:32.000]
+
+Notes --------------------------------------------------------------------------
+Recorded approximately 20 feet from speakers on left side of stage.
+
+-- faninor -------- please don't convert to lossy formats -------- 2007-03-08 --

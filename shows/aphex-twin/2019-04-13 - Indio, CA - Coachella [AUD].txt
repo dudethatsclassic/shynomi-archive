@@ -1,0 +1,41 @@
+Aphex Twin
+2019-04-13
+Coachella Valley Music and Arts Festival (Weekend 1)
+Mojave Tent
+Indio, CA 
+
+SOURCE: 
+SP-CMC-8 (w/Mods) > SONY PCM-M10 > Sandisk mini-SD Card (32gb - Class 10) 
+
+TRANSFER: 
+.WAV (24 Bit) > Adobe Audition CC 2019 (normalize/amplify/resampling/dithering) > .WAV (16 Bit) > Trader's Little Helper > Flac (level 8)
+
+SETLIST: 
+
+01. Preshow Music
+02. Full Set (Untracked)
+
+NOTES: 
+
+It had been 11 years since I last got to see Aphex Twin play live (at Coachella 2008 in the Sahara tent). Say what you will about the lineup for Coachella 2019, but the fact that Aphex Twin was on it, was enough for me right there. When he was announced, I figured the Mojave Tent would be the best spot for him, but then I thought well maybe either the Outdoor or Main stage could work, given he's played large stages outside at other festivals, and even part of me thought his production could work inside the massive Sahara again (though that tent is just shit these days), but at the end of the day he was put in the Mojave Tent just as I had envisioned in the beginning.
+
+Second, he was booked to play right after Four Tet, which made for a great 1-2 punch for Saturday night, and that too was something I was especially hoping for, and which came true. Two for two!
+
+But it gets better as the ONE song I was hoping and imagining hearing out on the polo fields since he was first announced was "Libson Acid", and holy fuck, what does he drop about one hour into his set? "Libson Acid" of course!!! I lost my mind, I couldn't believe it. My dreams came true, literally.
+
+As for the performance, it was wonderful. The video production and lights and lasers were top notch and fucking weird. I had a great spot behind the VIP rail, about 30 feet from the stage. And for the whole show, Aphex was playing alongside some woman on stage with him, who at first I mistook as a stagehand for the first 2 minutes, until she didn't leave. Then I thought maybe it's Nina Kraviz (who played in the tent the previous night), but I heard somewhere that it was in fact his wife Anastasia, which is pretty cool too.
+
+As for the recording, I captured the pre-show music before he came on, because it was just too good not to (though there is a little talking by me and neighbor here and there during it, sorry). And during the actual set, when he finally came on stage, I missed about 10 seconds of audio about 30 seconds into the set (there's a brief cut) because I had to reset my recorder. Won't happen weekend 2, I'll do better!
+
+CHECKSUMS: 
+
+dc73943d51881c01cb24862edb7a5e64 *aphex-twin-2019-04-13-coachella-aud-16bit-t01-preshow.flac
+24d945e004408199482e1d6286543205 *aphex-twin-2019-04-13-coachella-aud-16bit-t02-fullset.flac
+
+Check out my site: 
+
+https://www.themojavetent.com 
+https://www.facebook.com/coachellarecordings 
+https://www.twitter.com/livecoachella 
+
+***DO WHATEVER YOU WANT WITH THIS RECORDING EXCEPT SELL IT (OR ELSE THE KARMA POLICE WILL GET YOU)***

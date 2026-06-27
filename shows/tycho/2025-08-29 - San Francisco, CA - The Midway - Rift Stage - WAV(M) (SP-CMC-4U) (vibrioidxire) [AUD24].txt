@@ -1,0 +1,67 @@
+TYCHO
+August 29, 2025
+The Midway (Rift Stage)
+San Francisco, CA, US
+
+SETLIST:
+-------------------
+00. intro/banter
+01. Phantom [w/ introductory sequence, aborted twice]
+02. Phantom
+03. Sceptre
+04. Hours
+05. Weather
+06. Consciousness Felt
+07. Awake
+08. A Walk
+09. Green
+10. PBS
+11. L
+12. Horizon
+13. Devices
+14. Time to Run
+15. Totem
+16. DX Odyssey
+17. Division
+
+
+SOURCE:
+-------------------
+AUD #1 - Quality: 9.5
+Sound Professionals SP-CMC-4U > Sony PCM-A10
+
+Recorded by: vibrioidxire
+
+TRANSFER:
+-------------------
+Sound Professionals SP-CMC-4U (Audio Technica AT-U853's, with UE-H hypercardioid caps mod) > Sound Professionals SP-SPSB-10 Power Module > Sony PCM-A10 High-Resolution Digital Audio Recorder > Apple MacBook Pro (16-inch, 2021) > Adobe Audition 25.3 [post-production/mastering] > xACT 2.57
+
+GENERATION:
+-------------------
+WAV(M) [48kHz/24-bit] > FLAC [Level 8]
+
+
+FLAC FINGERPRINTS:
+-------------------
+tycho2025-08-29_AUD1_t00.flac:3ece7d9bacdfabfbe9070f919a20d98c
+tycho2025-08-29_AUD1_t01.flac:23bb6e31e0c8c21c9cc86bdbfef5750a
+tycho2025-08-29_AUD1_t02.flac:5e727fa77f13cddab6ec3219458e8fa9
+tycho2025-08-29_AUD1_t03.flac:88463bc066cd2cb9a3781b70f74915fd
+tycho2025-08-29_AUD1_t04.flac:3114f92713df9d8840d5a6d081587eb2
+tycho2025-08-29_AUD1_t05.flac:4f118006ab233e74731819a9b7c6f587
+tycho2025-08-29_AUD1_t06.flac:fad9740397fdbfc9f279207ea7644b01
+tycho2025-08-29_AUD1_t07.flac:2c933d336665e05260e6930ab0b506ad
+tycho2025-08-29_AUD1_t08.flac:d003bf0ec74ea0987249cd7918d1df46
+tycho2025-08-29_AUD1_t09.flac:020c66fd2009b0372c5d177034c66672
+tycho2025-08-29_AUD1_t10.flac:e4de6deec3854f649621c812f6554719
+tycho2025-08-29_AUD1_t11.flac:22258d6142512a719a9db3cbed9a5406
+tycho2025-08-29_AUD1_t12.flac:96d33fb91cc77523ca0c98f6147e3d79
+tycho2025-08-29_AUD1_t13.flac:56c28c2621503737195207bc6d3c7064
+tycho2025-08-29_AUD1_t14.flac:5f24b4d0861fc5b5a07e352c1f356ff1
+tycho2025-08-29_AUD1_t15.flac:0fca0731ba38f67fa6d769aedb5ad4bf
+tycho2025-08-29_AUD1_t16.flac:590165d648ff2a1609521e1231fbe19f
+tycho2025-08-29_AUD1_t17.flac:b1a26627c71f8dee6b42bc776844472d
+
+
+Transferred and encoded by: vibrioidxire
+PLEASE DO NOT DISTRIBUTE IN LOSSY FORMATS OR SELL!

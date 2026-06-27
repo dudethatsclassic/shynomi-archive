@@ -1,0 +1,73 @@
+Aphex Twin
+Live at Coachella
+April 25, 2008
+
+Setlist (with many thanks to Donaldj, orbit, and others on the Coachella message board and dogsonacid.com for help identifying track titles.)
+
+01. Unknown
+02. Public Enemy - Welcome To The Terrordome
+03. Run DMC - Beats To The Rhyme
+04. Strafe - Set it off
+05. Unknown
+06. Unknown
+07. Unknown
+08. LFO - Track 4
+09. Unknown
+10. Gregor Tresher - A Thousand Nights
+11. Unknown
+12. Unknown - Drop Suey (System Of a Down Bootleg Remix)
+13. Noisia & Mayhem - Exodus
+14. Dub-One - Volcon - (Xtinction Agenda)
+15. Vertigo - The Drained
+16. Current Value - Machines
+17. Current Value - Fear
+18. Unknown
+
+Source:  RDJ > Pair of eyeglass mounted CSBs attached to me, 30 feet from the stage dead center > battery box with bass rolloff filter ON > Microtrack > Audacity > You
+
+I hope you enjoy this, my first original recording here on Dime.  Comments, criticism, and cliches are encouraged - I want to learn and to improve.
+
+
+
+; Using hkSFV on 04.30.2008 at 20:26:02
+; http://www.big-o-software.com
+;
+;/----
+;     13364181 20:02.15 2008-04-30 Aphx Track 01.flac
+;     12351960 20:06.18 2008-04-30 Aphx Track 02.flac
+;     20521308 20:06.39 2008-04-30 Aphx Track 03.flac
+;     15911615 20:06.56 2008-04-30 Aphx Track 04.flac
+;      8555620 20:07.07 2008-04-30 Aphx Track 05.flac
+;     16600691 20:07.25 2008-04-30 Aphx Track 06.flac
+;     26238525 20:07.54 2008-04-30 Aphx Track 07.flac
+;      8563200 20:08.04 2008-04-30 Aphx Track 08.flac
+;     22119306 20:08.29 2008-04-30 Aphx Track 09.flac
+;     16863450 20:02.33 2008-04-30 Aphx Track 10.flac
+;     27694896 20:03.01 2008-04-30 Aphx Track 11.flac
+;     70840032 20:04.09 2008-04-30 Aphx Track 12.flac
+;     33653251 20:04.42 2008-04-30 Aphx Track 13.flac
+;     18987575 20:05.02 2008-04-30 Aphx Track 14.flac
+;     23126118 20:05.23 2008-04-30 Aphx Track 15.flac
+;      6784506 20:05.30 2008-04-30 Aphx Track 16.flac
+;      5820864 20:05.35 2008-04-30 Aphx Track 17.flac
+;     33744021 20:06.06 2008-04-30 Aphx Track 18.flac
+;\----
+;
+3ce98de8e56a0bd63c4dda648f2d1f46 *Aphx Track 01.flac
+c034e2413935da339c1148f0bd33e6a6 *Aphx Track 02.flac
+ccd881a9e80f5c6c1787f840064638c3 *Aphx Track 03.flac
+a218e02ae941268d24bf7625f9ae35aa *Aphx Track 04.flac
+7050646976bf412aaacb3270e1c84a40 *Aphx Track 05.flac
+2b39afa250c544869c5cdd48f6f20e85 *Aphx Track 06.flac
+9dedf22fb02df7d6d3d773598a6e53d1 *Aphx Track 07.flac
+d6a8870cb3529927766e76c0c63a411c *Aphx Track 08.flac
+161ca9e0c0f2657d3b579abb2b1e7ef1 *Aphx Track 09.flac
+454a6e630516b7023d17c265dc0a691a *Aphx Track 10.flac
+d960326f3f8e0f2efe52bfb97e483681 *Aphx Track 11.flac
+99769e56a8e55b53a51ccfb4765b3782 *Aphx Track 12.flac
+5b7b1e8ee60075b438511e2dba2d9470 *Aphx Track 13.flac
+832e0e97db64c98dc669287410db9e12 *Aphx Track 14.flac
+ac08db7a47c1d78a76e259e826bcd806 *Aphx Track 15.flac
+f8a89a4d91f9214d75f1d0458660ecb9 *Aphx Track 16.flac
+74d6acaea64634c5f815508be5d85f5e *Aphx Track 17.flac
+ca56fecb8236ada9489212d23b99ae67 *Aphx Track 18.flac

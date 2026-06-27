@@ -1,0 +1,28 @@
++Live+
+November 10, 2001
+Promowest Pavillion
+Columbus, OH
+
+Taper: GCMK 
+Location: Floor right side
+Source: SS DSM6s/L > PA-6LC3 (hat mounted)(filter at 65hz) > PCM-M1 @48kHz 
+Conversion: Sony DTC700 > coax > Audiophile2496 > captured with Soundforge 5.0 
+ 
+update [12/3/17] endoded to .flac TLH 2.7.0 (Build 172) encoded to .flac (level 8)/align (fix)/test
+
+01. Simple Creed
+02. Like a Soldier
+03. The Distance
+04. All Over You
+05. Voodoo Lady
+06. They Stood Up For Love
+07. Call Me a Fool
+08. Lakini's Juice
+09. Deep Enough
+10. Lightning Crashes
+11. The Dolphin's Cry
+12. White, Discussion
+13. Run to the Water
+14. I Alone
+15. Overcome
+

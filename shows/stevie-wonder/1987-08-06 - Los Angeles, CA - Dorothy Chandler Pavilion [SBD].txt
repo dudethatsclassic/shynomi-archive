@@ -1,0 +1,48 @@
+Stevie Wonder - August 6, 1987
+Dorothy Chandler Pavilion - Los Angeles, CA
+
+Recording Info:
+SBD > Cassette Master (Memorex dBS)
+
+Transfer Info:
+Cassette Master (Nakamichi CR-7A) > Tascam DA-3000 (DSF 1-bit/5.6MHz) >
+dBpoweramp > Samplitude Pro X4 Suite > FLAC/24
+(1 DVD FLAC)
+
+All Transfers and Mastering By Charlie Miller
+charliemiller87@earthlink.net
+May 7, 2020
+
+Notes:
+-- This was a benefit to raise money for Retinitis Pigmentosa
+-- Stevie recorded all the instruments on a computer and played along to it
+-- This file set is 16 bit @ 44.1
+
+Setlist:
+01 - House Band Soundcheck
+02 - Love Light In Flight
+03 - Frontline
+04 - Bird of Beauty
+05 - Happier Than The Morning Sun
+06 - You Are the Sunshine of My Life
+07 - Suddenly
+08 - Overjoyed
+09 - My Cherie Amour
+10 - My Cherie Amour (cont)
+11 - Go Home  
+
+
+SHNTOOL OUTPUT:
+    length     expanded size    cdr  WAVE problems  fmt   ratio  filename
+    20:00.59      211818812 B   ---   --   ---xx   flac  0.5834  01 House Band Soundcheck.flac
+     2:04.60       22014764 B   ---   --   ---xx   flac  0.5606  02 Stevie Wonder1987-08-06.flac
+     5:17.70       56083484 B   ---   --   ---xx   flac  0.6387  03 Frontline.flac
+     5:13.24       55269692 B   ---   --   ---xx   flac  0.5930  04 Stevie Wonder1987-08-06.flac
+     4:11.31       44349356 B   ---   --   ---xx   flac  0.5761  05 Stevie Wonder1987-08-06.flac
+     9:20.66       98939276 B   ---   --   ---xx   flac  0.6056  06 Stevie Wonder1987-08-06.flac
+     3:54.04       41287052 B   ---   --   ---xx   flac  0.6177  07 Stevie Wonder1987-08-06.flac
+     4:04.20       43088684 B   ---   --   ---xx   flac  0.6305  08 Stevie Wonder1987-08-06.flac
+     1:25.25       15052844 B   ---   --   ---xx   flac  0.5699  09 Stevie Wonder1987-08-06.flac
+     5:23.69       57139532 B   ---   --   ---xx   flac  0.5848  10 Stevie Wonder1987-08-06.flac
+     5:21.72       56793788 B   ---   --   ---xx   flac  0.6474  11 Stevie Wonder1987-08-06.flac
+    66:18.50      701837284 B                            0.6004  (11 files)

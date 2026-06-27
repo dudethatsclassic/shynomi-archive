@@ -1,0 +1,34 @@
+01 - Good Pain.flac:  tested ok (file is decodable without error).
+02 - The Beauty Of Gray.flac:  tested ok (file is decodable without error).
+03 - Pain Lies On The Riverside.flac:  tested ok (file is decodable without error).
+04 - Waterboy.flac:  tested ok (file is decodable without error).
+05 - Mirror Song.flac:  tested ok (file is decodable without error).
+06 - Take My Anthem.flac:  tested ok (file is decodable without error).
+07 - Operation Spirit.flac:  tested ok (file is decodable without error).
+08 - 10,000 Years (Peace Is Now).flac:  tested ok (file is decodable without error).
+
+No errors occured.
+
+01 - Good Pain.flac:  successfully decoded to '01 - Good Pain.wav'.
+02 - The Beauty Of Gray.flac:  successfully decoded to '02 - The Beauty Of Gray.wav'.
+03 - Pain Lies On The Riverside.flac:  successfully decoded to '03 - Pain Lies On The Riverside.wav'.
+04 - Waterboy.flac:  successfully decoded to '04 - Waterboy.wav'.
+05 - Mirror Song.flac:  successfully decoded to '05 - Mirror Song.wav'.
+06 - Take My Anthem.flac:  successfully decoded to '06 - Take My Anthem.wav'.
+07 - Operation Spirit.flac:  successfully decoded to '07 - Operation Spirit.wav'.
+08 - 10,000 Years (Peace Is Now).flac:  successfully decoded to '08 - 10,000 Years (Peace Is Now).wav'.
+
+No errors occured.
+
+
+01 - Good Pain.wav:  track looks like CDDA with probability 100%.
+02 - The Beauty Of Gray.wav:  track looks like CDDA with probability 100%.
+03 - Pain Lies On The Riverside.wav:  track looks like CDDA with probability 99%.
+04 - Waterboy.wav:  track looks like CDDA with probability 100%.
+05 - Mirror Song.wav:  track looks like CDDA with probability 100%.
+06 - Take My Anthem.wav:  track looks like CDDA with probability 100%.
+07 - Operation Spirit.wav:  track looks like CDDA with probability 100%.
+08 - 10,000 Years (Peace Is Now).wav:  track looks like CDDA with probability 100%.
+
+No errors occured.
+

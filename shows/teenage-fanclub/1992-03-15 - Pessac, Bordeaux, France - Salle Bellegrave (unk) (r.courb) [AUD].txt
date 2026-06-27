@@ -1,0 +1,31 @@
+Teenage Fanclub
+Salle Bellegrave
+Pessac, Bordeaux, France
+15 March 1992
+
+Source/Lineage: Audience > unknown mic/equip > single flac file downloaded from archive.org > Adobe Audition (split/edit) > wav > TLH > flac
+Taper: r.courb (see notes below)
+
+Set List
+
+01.Intro
+02.Heavy Metal II
+03.Catholic Education
+04.The Concept
+05.Satan
+06.Pet Rock
+07.God Knows It's True
+08.I Don't Know
+09.Metal Baby
+10.So Far Gone
+11.What You Do To Me
+12.December
+13.Alcoholiday// [tape flip]
+14.//Star Sign
+15.Everything Flows
+
+TT: 57'40
+
+Notes
+-the files in this folder were uploaded to archive.org, under a user account by the name of r.courb, whether it is his/her recording or another person's recording, i have no idea, but it is presumably from the master or very low gen
+-apart from splitting the single file into individual tracks, i compiled the set list and info file and added metadata; in addition, since the right channel was compromised starting in track #10 to the end of the show, i fixed as best i can 204 drop-outs by copying the left channel onto the affected part in the right channel; fade-out last track, no other edits

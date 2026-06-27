@@ -1,0 +1,86 @@
+Teenage Fanclub
+Knitting Factory
+Los Angeles, CA
+August 7, 2005
+
+** 24 BIT **
+
+Source:  Unknown mic > Sony WM-D3 > Maxell XLII cassette
+Transfer:  Sony WM-D6 (line out) > Sony PCM-M10 (line in) > .WAV @ 24 bit/48 kHz
+Mastering:  .WAV > iZotope RX11 Advanced v11.0.1.3871 (De-click) > Sound Forge Pro 14.0 Build 140 [splicing, minor edits, normalize, & fades, Boz Digital Labs T-Bone2 plug-in (tilt EQ)] > 
+CDWav (tracking) > Trader's Little Helper (level 5) > FLAC > TagScanner 6.1.16 (tagging)
+Taped & transferred by:  ManOfStealth
+Mastered by:  Dennis Orr
+
+Setlist: (1:38:55)
+01 Crowd
+02 Hang On
+03 It's All In My Mind
+04 Fallen Leaves
+05 Chat & Tuning
+06 My Uptight Life
+07 Everything Flows
+08 Discolite
+09 About You
+10 Start Again
+11 Speed Of Light
+12 Only With You
+13 Time Stops
+14 Slow Fade
+15 Alcoholiday
+16 Feel 
+17 Don't Look Back
+18 Planets
+19 Your Love Is The Place Where I Come From
+20 Please Stay
+21 Neil Jung
+22 Encore Break #1
+- Encore #1 -
+23 Did I Say
+24 Verisimilitude
+25 He'd Be A Diamond
+26 The Concept
+27 Encore Break #2
+- Encore #2 -
+28 Sparky's Dream
+29 Crowd/Outro
+
+Norman Blake – co-lead vocals & guitar
+Raymond McGinley – co-lead vocals & guitar
+Gerard Love – co-lead vocals & bass
+Dave McGowan – keyboards, programming, & guitar
+Francis Macdonald – drums & backing vocals
+
+Mastering Notes:
+Tape flip during the applause after "Alcoholiday" - some talking was lost, but no music
+The recorder was paused and re-started during the "Encore Break #1" applause - no music was lost
+
+TeenageFanclub2005-08-07t01.flac:55cf1bbba3694df80d44cc656cf87c96
+TeenageFanclub2005-08-07t02.flac:b794860121568e5ee9e79b7d458b2d5b
+TeenageFanclub2005-08-07t03.flac:af6313867f5ae5ba34562e33293a826f
+TeenageFanclub2005-08-07t04.flac:511052d9c5c434e0f9ca8ae34559a147
+TeenageFanclub2005-08-07t05.flac:dbbcb0ab6e835b1fc758ab730c80aeb9
+TeenageFanclub2005-08-07t06.flac:176e85502bbfaa97d61591c0ae861f9b
+TeenageFanclub2005-08-07t07.flac:2bed817fd344e9e414b96fa04688b414
+TeenageFanclub2005-08-07t08.flac:629fecac314813d3e7ff7108668a26b9
+TeenageFanclub2005-08-07t09.flac:832563b011926d85fed335eeff326f56
+TeenageFanclub2005-08-07t10.flac:4dc3c1aab5e12632837219afd35c775e
+TeenageFanclub2005-08-07t11.flac:8323d8bd0796244f76f62b3a7e98d095
+TeenageFanclub2005-08-07t12.flac:041f00e7b60dc0a5536ebdf811b2866c
+TeenageFanclub2005-08-07t13.flac:6b24299fbc358325307046ba78fd8b46
+TeenageFanclub2005-08-07t14.flac:c2098a51ec6ee38f81a33c850db5e124
+TeenageFanclub2005-08-07t15.flac:3d585e4c5c6ab49c8de93ebf8fa5b89b
+TeenageFanclub2005-08-07t16.flac:3db8a58c14de91c37b4f703971616feb
+TeenageFanclub2005-08-07t17.flac:50cf10a4f62c2497ad15090f33ea1582
+TeenageFanclub2005-08-07t18.flac:77ab391d13ab8253d7635bf5ff49c1b6
+TeenageFanclub2005-08-07t19.flac:65b22999a88d5b9c561f3f00956d32ac
+TeenageFanclub2005-08-07t20.flac:aa429d36026616c0c8a5e4da064e58cd
+TeenageFanclub2005-08-07t21.flac:cae6e808a1e4646ab6ba4d65992b8ae1
+TeenageFanclub2005-08-07t22.flac:52019f9e2cc356c43db766f23d9589a9
+TeenageFanclub2005-08-07t23.flac:82d7776aa52dd1d061c49d9448c4ab86
+TeenageFanclub2005-08-07t24.flac:3e132be94ee8469cb8677420d4a3bd62
+TeenageFanclub2005-08-07t25.flac:6e8d97b912e4a28f3186983199872f7b
+TeenageFanclub2005-08-07t26.flac:19f21ecefcabaa2d9372f04e072e87a7
+TeenageFanclub2005-08-07t27.flac:6c86f29e0024c5a01b9b6ba88ceda7eb
+TeenageFanclub2005-08-07t28.flac:528450d3ce4fe5909b388dd8bbe29904
+TeenageFanclub2005-08-07t29.flac:f829998ef5f3e22b8e3dfb0b1d03ba0f

@@ -1,0 +1,94 @@
+Stevie Wonder
+Spetember 16, 2007
+Pier 6 Pavillion
+Baltimore, MD
+
+Schoeps MKV (ORTF) > vms02ib > edirol r09 (24/4) > Soundforge 8.0 (tracking, fades, resample, dither) > flac 1.2.0a > CD-R > dBpowerAMP Secure Ripper > Apple Lossless (convert & verify with dBpowerAMP) > iTunes (tag files) > Flac Level 5 (convert & verify with dBpowerAMP)
+
+Disc 1:
+01. Crowd Intro
+02. Stevie Intro
+03. Tuning
+04. Love's In Need of Love Today
+05. Too High
+06. Visions
+07. Living For The City
+08 Master Blaster (Jammin')
+09. Talkbox Jam >
+10. Higher Ground
+11. Golden Lady
+12. Ribbon In The Sky
+
+Disc 2:
+01. Overjoyed
+02. If It's Magic
+03. You And I/Lately
+04. How Will I Know feat. Aisha Morris
+05. Percussion >
+06. Don't You Worry 'Bout A Thing
+07. Signed, Sealed, Delivered
+08. Behind Closed Doors (Excerpt)
+09. My Cherie Amour Intro
+10. My Cherie Amour
+11. That Girl
+12. All I Do
+13. Do I Do
+
+Disc 3:
+01. Sir Duke
+02. I Wish
+03. Isn't She Lovely
+04. You Are The Sunshine Of My Life
+05. Superstition
+06. Percussion/Band Intros
+07. Fever
+08. Give Up The Funk (Tear The Roof Off The Sucker)
+09. So What The Fuss >
+10. From The Bottom Of My Heart
+11. Part-Time Lover
+12. Love Light in Flight
+13. I Just Called To Say I Love You
+14. "Stevie Wonder's Day"
+15. As
+
+Fingerprints:
+1-01 Crowd Intro.flac:64cebc8393127949782bb9e25f9c64df
+1-02 Stevie Intro.flac:79fa62ef69456772d9d94afd6fd53542
+1-03 Tuning.flac:db82aa86f75d19a559a251ec5bb307c6
+1-04 Love's In Need Of Love Today (L.flac:7f012d9795cfb394940037af2b782923
+1-05 Too High (Live).flac:2d5323a5d6f13245f10ffad30b916fa2
+1-06 Visions (Live).flac:f3f58c78f813fcb59259fc66f6fe47a9
+1-07 Living For The City (Live).flac:b55a02aa911d69d7d8efd4b8dd8a1b4f
+1-08 Master Blaster (Jammin') (Live).flac:ed0047d23084b6ffeb0282fd41d1349c
+1-09 Talkbox Jam (Live).flac:4425ec14b2ff21d2c8e562e4bfc109be
+1-10 Higher Ground (Live).flac:e21f8a78f0e291688c51b00195875819
+1-11 Golden Lady (Live).flac:e23901ee9062e93af6d515d6bddf7de8
+1-12 Ribbon In The Sky (Live).flac:904767fa3bb61dfbf426be8fed537ad0
+2-01 Overjoyed (Live).flac:170f77cfbb5b39200465ac47bed9f87f
+2-02 If It's Magic (Live).flac:3552f4012f083154f99b05e0ba8ae148
+2-03 You And I_Lately (Live).flac:b60d496518c483036190b21f01c97881
+2-04 How Will I Know feat. Aisha Mor.flac:846be83ed30b6124e5013b76c4f4987d
+2-05 Percussion Solo.flac:8973ec071f009a0837e3920193a862e0
+2-06 Don't You Worry 'Bout A Thing (.flac:30e7662b6dd0e16edf019d8c04a9a8f2
+2-07 Signed, Sealed, Delivered I'm Y.flac:176af69cd6ac3c630f13b624a3c9f6ad
+2-08 Behind Closed Doors (Live).flac:0dfe75c77af892d7ed2347aef8fcc598
+2-09 My Cherie Amour Intro.flac:09da7fc103242e76c2d224b78e4b1e33
+2-10 My Cherie Amour.flac:5e4fc06378a4d6729796940207ef6176
+2-11 That Girl (Live).flac:3ae7563d6a6763cdb65268e6b8efeb0c
+2-12 All I Do (Live).flac:b35638f7aef711e8a3b8bdcc66ad167c
+2-13 Do I Do (Live).flac:ae9a8d8b1594f4118e16b8da5aadcb4a
+3-01 Sir Duke (Live).flac:f0b0e4fea3d4379fa55ab706b9918c5c
+3-02 I Wish (Live).flac:2a07bbddecc13dba56b8bd2ef185d8d0
+3-03 Isn't She Lovely (Live).flac:4011f099bfb846456a224683ad3fdc0a
+3-04 You Are The Sunshine Of My Life.flac:49d1cf368b824127a7ca06106a396894
+3-05 Superstition (Live).flac:01f63e685e76cd727173636ec4970ee0
+3-06 Percussion Solo_Band Introducti.flac:c2ff48645e2f5c83b26478d65be947e7
+3-07 Fever (Live).flac:3a516bdfb40fe6e1d9a6e748e58f033a
+3-08 Give Up The Funk (Tear The Roof.flac:928ed6e916151b39fbc4b3b2a6585d82
+3-09 So What The Fuss (Live).flac:fbf530671822ce99242200d2c8f436fb
+3-10 From The Bottom Of My Heart (Li.flac:a94fdca4b20849ccf889cef02b6de90c
+3-11 Part-Time Lover (Live).flac:29dfca1a803e373299d71e7c78556d46
+3-12 Love Light In Flight (Live).flac:6983cf0b81ae283a7513723a57fce3c7
+3-13 I Just Called To Say I Love You.flac:b401600ddf2a2833f6929fea587975c4
+3-14 _Stevie Wonder's Day_.flac:570f71342eda3c60fae79b2442295f80
+3-15 As (Live).flac:334b5caef6aad645030cc4f933cea275

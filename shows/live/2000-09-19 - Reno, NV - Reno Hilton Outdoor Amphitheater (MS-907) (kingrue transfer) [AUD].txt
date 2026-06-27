@@ -1,0 +1,69 @@
+Live
+Reno Hilton Outdoor Amphitheater, Reno, NV
+September 19, 2000
+
+Source : Sony ECM MS-907 mic > Sony MZ R-55 Minidisc (in stereo)
+
+Transfer : Sony MZ R700 Minidisc > Tascam SD-20M (rack mount) wave recorder (16/44)
+
+Editing : Sound Forge (volume & tracking) > Wave > TLH (sbe aligned) Flac 8
+
+Traders Den - April 12, 2021
+
+Transferred & Tracked by kingrue upload #3083
+=================================
+
+Opened for the Counting Crows.
+
+
+Band line-up
+Ed Kowalczyk - lead vocals, guitar (1989–2009, 2016–present)
+Chad Taylor - lead guitar (1989–2009, 2012–present)
+Patrick Dahlheimer - bass (1989–2009, 2012–present)
+Chad Gracey - drums (1989–2009, 2012–present)
+Michael Railton – keyboards (1999–2002)
+Adam Kowalczyk – rhythm guitar, backing vocals (1999–2009)
+
+Total Time = 65:25
+
+Set list
+01 They Stood Up For Love
+02 All Over You
+03 The Beauty Of Gray
+04 The Distance
+05 Shit Towne
+06 Lightning Crashes
+07 Deep Enough
+08 The Dolphin's Cry
+09 Lakini's Juice
+10 Imagine (Lennon cover)
+11 Intro
+12 I Alone
+13 banter
+14 Face And Ghost
+
+Recorded by Big D Vol. 39
+
+======================
+
+
+No errors occured.
+
+01 They Stood Up For Love.flac:64ad6e1c6666276451cb6f543d42f823
+02 All Over You.flac:260977cce91218716ffcc3629e0aeec7
+03 The Beauty Of Gray.flac:77b19e19675e0c64ee0ea306237df84b
+04 The Distance.flac:16c5ee6e1256e07a8708fc06f3670629
+05 Shit Towne.flac:7a7242a3491d774a1bb7d1ccf9ef0d02
+06 Lightning Crashes.flac:33b288bddf8080773827cbc92288daca
+07 Deep Enough.flac:1a0949d3a2840d97f800d5d7c2db9206
+08 The Dolphin's Cry.flac:825175541fecfcb33ea983087e43ee44
+09 Lakini's Juice.flac:ee5395c846fcfcb2c3c079212bcbef73
+10 Imagine.flac:9939bfe9d4167737709771b9de9351d9
+11 Intro.flac:28e8d90a1a32715e5487b9dbc852002e
+12 I Alone.flac:5c2a1923116484dfaff623b5776b6047
+13 banter.flac:efb0573c6b6b91d2c913204d9c64b8ee
+14 Face And Ghost.flac:673e2353ab8342477ee08bf56253ecfa
+
+Checksum file saved to disk.
+
+No errors occured.

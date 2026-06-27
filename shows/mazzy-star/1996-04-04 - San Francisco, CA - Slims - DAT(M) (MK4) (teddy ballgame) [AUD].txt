@@ -1,0 +1,30 @@
+Mazzy Star
+April 4, 1996
+Slim’s 
+San Francisco, CA
+
+- a ‘teddy ballgame’ DAT Master - 
+
+Source: SBD > DAT
+Lineage: DAT Master 16/48 > FLAC
+Transfer (BLG): DA-20 > coax > Marantz PMD-670 > usb reader > Adobe Audition > iZotope Ozone 5 > WavePad > xACT > FLAC
+
+These are 16bit/48khz flac files 
+
+01 Roseblood
+02 Flowers in December
+03 Five String Serenade
+04 Halah
+05 Give You My Lovin’
+06 I’ve Been Let Down
+07 Disappear
+08 Take Everything
+09 Blue Flower
+10 Happy
+11 So Tonight That I Might See
+
+Encore:
+12 Hair and Skin
+13 Cry, Cry
+
+Total Time: 67:46

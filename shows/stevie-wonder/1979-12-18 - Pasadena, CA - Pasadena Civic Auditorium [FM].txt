@@ -1,0 +1,235 @@
+A Robert Collins Master Recording.
+Artist / Title:
+Stevie Wonder
+
+Date		December 18, 1979
+Location:       Pasadena Civic Auditorium, Pasadena, CA (USA)
+Seats:          See attached seating chart and ticket stub
+Deck:           Nakamichi 350
+Mics:           Nakamichi CM-300 (L, R), Sennheister MD-416 (Center)
+Source:         A:C Master Tape; 3-Mic Stereo
+Sample Rate     44.1Khz, 16-bit (CD) (FLAC)
+Rating:         A- to B+
+Length:         172 Minutes
+
+Also Available
+DVD-Audio, 96 Khz, 24-bit
+
+Extras
+* Ticket stub
+* Seating chart
+* Diagram showing microphone placements
+* Concert program
+
+Musicians:
+Stevie Wonder               Keyboard, Vocals, Harmonica
+Isaiah Saunders             Keyboards
+Dennis Davis                Drums
+Rick Zunigar                Guitar
+Ben Bridges                 Guitar
+Nathan Watts                Bass
+Earl Derouen                Percussion
+Hank Redd                   Sax
+Nolan Smith                 Trumpet
+Alexandria (Alex) Brown     Background Vocals
+Wendy Barnes                Background Vocals
+Afro American Orchestra
+James Frazier               Conductor
+
+-----
+
+The Concert
+Late 1979, Stevie Wonder embarked on a 6-city tour to perform his live rendition of
+Journey Through The Secret Life of Plants -- complete with Orchestra.  Only six concerts
+were ever performed of this entire material.  There are only two known recordings of any
+of these shows (both made from this same Pasadena Civic show).  The other known recording
+was made on better equipment than mine listed above.  Tragically the original taper of
+the "other recording" is now deceased and his family does not allow access to any of his
+recordings.  That makes this the only known recording that has ever been released to the
+public of any of these shows.
+
+During the first hour of the concert, Stevie plays the full "Secret Life of Plants" album,
+ sans one or two songs.  After a break, he comes out dressed like "Little Stevie Wonder"
+and plays 30 of his top-10 hits for the next two hours.  There's some very notable songs in
+this list.  Stevie plays a few unreleased songs like "Garden of Love" and "Never Let You
+Down."  He also does a great cover of "I Can See the Sun in Late December."  But the most
+intersting song is an unreleased version of "Rock Like You."  This is the same exact song,
+ albeit with different lyrics, as "Do Like You" that would appear on his next (Hotter
+Than July) album.  As you listen to the song, note the totally different lyrics.
+
+-----
+
+Notes:
+This is the story of the long and twisted road to getting this show released to the public.
+
+When this concert was originally released in 2007, it was done so in haste.  I had prepared a
+set of CD's for my own listening pleasure early in 2000 and used the best available mastering
+techniques at the time.  I always wanted to re-master the show in high definition, 96Khz, 24-bit
+resolution, but I couldn't (as I'll explain below).  That's why it's taken another four years
+since I first made this show available to the public.  But to explain that story, I have to go
+ back many years.
+
+In 1986, the master tape was stolen.  Until early 2000, I had no access to any copies of the show.
+A long-time friend of mine came through with a copy of the show that I had made for his friend
+before my master tape was stolen.  So in early 2000, I imported the show to my computer and used
+the best tools available at the time to master it.  The only hardware available at the time
+could sample the recording at 48Khz, or 44.1Khz. That is low resolution by today's standards.
+The only noise reduction software available had the nasty side-effect of cutting bands of high
+frequencies away from the recording as a means to reduce tape hiss.  The software essentially
+destroyed the recording in order to remove tape hiss.
+
+In 2007 when I originally released this concert, I no longer had access to the copy of my
+recording.  I had no way to contact the guy, and no way to borrow the recording a second time.
+However by 2010 things began to look up.  I was given the guy's phone number, but as a business
+owner he had no time to rummage through boxes of tapes for me.  So while that sounds like it
+was a dead end, I managed to track down another good friend who was missing in action for
+the past 25 years.  I hit the jackpot with him.  He had copies of 10 different concerts of
+mine, including this Stevie Wonder recording.  So late 2010, I began to work on it a second
+time.  However as fate would have it, 45 minutes of his version was in MONO.  This forced to
+call the other guy up and basically beg for him to look for the recording.  He came through,
+so I now have two different copies to work from.
+
+Today's [REMASTERED] version is different in every possible way than the original 2007 release.
+In 2007, it was only 44.1Khz, 16-bit.  Today's version is sampled at an ultra-high resolution
+5.6Mhz, 1-bit Double-DSD (near equivalent to 192Khz, 24-bit).  Noise reduction technology has
+progress to perfection with the advent of iZotope RX-Advanced (I'm using RX2-Advanced).  Time/speed
+correction is provided by Time Factory:  6 significant digits of precision for speeding up and
+slowing down recordings.  And new to my arsenal for the first time:  pitch correction.  Pitch
+detection is done by Melodyne Studio software by Celemony.
+
+-----
+
+Lineage:
+AUD> Nakamichi 350 (Master tape)
+---> Playback on Nakamichi 550 / Nakamichi Dragon
+---> Korg MR-1000 (capture at 96Khz, 24-bit)
+---> Sound Forge (adjust levels, tear it into mono L,R channels)
+---> iZotope RX spectrum editor to remove mic noise, squeeking chairs, etc.
+---> Har-Bal (Harmonic Balancing Equalizer)
+---> iZotope RX-Advanced (noise reduction, spectral editing)
+---> Sound Forge (put it back together, adjust levels)
+---> Adobe Audition 3.0 phase correction, spectral editing
+---> iZotope Ozone 3 (stereo imaging)
+---> iZotope RX-Advanced (downsample, dither)
+---> CD Architect (CD Audio)
+---> EAC
+---> FLAC
+
+-----
+
+Song list:
+Disc-1
+       Start           End        Length  Name
+------------  ------------  ------------  --------------------------
+00:00:00.000  00:04:21.968  00:04:21.968  Earth's Creation
+00:04:21.968  00:06:47.667  00:02:25.699  The First Garden
+00:06:47.667  00:09:18.975  00:02:31.308  Voyage To India
+00:09:18.975  00:13:46.164  00:04:27.189  Same Old Story
+00:13:46.164  00:16:18.275  00:02:32.111  Venus Fly Trap
+00:16:18.275  00:18:16.078  00:01:57.803  Seasons
+00:18:16.078  00:23:39.787  00:05:23.709  Power Flower
+00:23:39.788  00:26:30.731  00:02:50.944  Send One Your Love (Instrumental)
+00:26:30.731  00:34:51.096  00:08:20.365  Race Babbling
+00:34:51.096  00:39:00.669  00:04:09.573  Send One Your Love
+00:39:00.669  00:44:34.825  00:05:34.155  Outside My Window
+00:44:34.825  00:48:29.769  00:03:54.944  Black Orchid
+00:48:29.769  00:52:28.764  00:03:58.995  Ecclesiastes
+00:52:28.764  00:56:02.275  00:03:33.511  Come Back As A Flower
+00:56:02.275  01:01:25.022  00:05:22.747  A Seed's A Star, Tree Medley
+
+--- Intermission ---
+
+Disc-2:
+       Start           End        Length  Name
+------------  ------------  ------------  --------------------------
+00:00:00.000  00:06:42.219  00:06:42.219  Fingertips
+00:06:42.219  00:12:03.669  00:05:21.451  Don't Touch Me
+00:12:03.669  00:15:47.797  00:03:44.128  For Once In My Life
+00:15:47.797  00:18:37.291  00:02:49.494  Uptight (Everything Is Alright)
+00:18:37.291  00:19:45.493  00:01:08.203  I Was Made To Love Her
+00:19:45.493  00:23:06.752  00:03:21.259  Signed, Sealed Delivered (I'm Yours)
+00:23:06.752  00:26:40.427  00:03:33.675  My Cherie Amour
+00:26:40.427  00:29:51.232  00:03:10.805  If You Really Love Me
+00:29:51.232  00:36:42.283  00:06:51.051  Superwoman
+00:36:42.283  00:39:30.603  00:02:48.320  Never Dreamed You'd Leave In Summer
+00:39:30.603  00:42:39.403  00:03:08.800  You And I
+00:42:39.403  00:44:43.307  00:02:03.904  Garden Of Love
+00:44:43.307  00:45:47.765  00:01:04.458  I Can't Help It
+00:45:47.765  00:48:46.549  00:02:58.785  Never Let You Down
+00:48:46.549  00:50:17.173  00:01:30.624  I Can See The Sun In Late December
+00:50:17.173  00:54:35.744  00:04:18.571  All In Love Is Fair
+
+
+Disc-3:
+       Start           End        Length  Name
+------------  ------------  ------------  --------------------------
+00:00:00.000  00:02:59.936  00:02:59.936  Don't You Worry 'Bout A Thing
+00:02:59.936  00:05:41.088  00:02:41.152  Higher Ground
+00:05:41.088  00:09:43.136  00:04:02.048  Golden Lady
+00:09:43.136  00:13:01.109  00:03:17.973  Boogie On Reggae Woman
+00:13:01.109  00:15:32.747  00:02:31.638  Intro to Rock Like You'
+00:15:32.747  00:20:47.180  00:05:14.433  Rock Like You
+00:20:47.180  00:24:29.943  00:03:42.763  Living For The City
+00:24:29.943  00:27:10.144  00:02:40.201  Sir Duke
+00:27:10.144  00:31:45.088  00:04:34.944  I Wish
+00:31:45.088  00:35:06.053  00:03:20.965  Sunshine Of Your Life
+00:35:06.053  00:39:44.704  00:04:38.651  Superstition
+00:39:44.704  00:42:58.754  00:03:14.051  As
+00:42:58.754  00:47:54.691  00:04:55.936  Visions
+00:47:54.690  00:52:25.003  00:04:30.312  Secret Life Of Plants (Reprise)
+00:52:25.003  00:56:20.982  00:03:55.979  Epilogue
+
+------
+
+FFP Fingerprints:
+Disc-1:
+1.01 Earth's Creation.flac:b5ad15887efb74076e7dba06228825bb
+1.02 The First Garden.flac:140c929ec3ae1ddb1abc6005e3fa5b37
+1.03 Voyage To India.flac:1e27dd47518a9c33903586afbf7af913
+1.04 Same Old Story.flac:1535da6dd6677c6ea1d3bf4cc908868a
+1.05 Venus Fly Trap.flac:b088ca37e58d11d4955382ab7b49d522
+1.06 Seasons.flac:e071746e04ea1a64f251f07b45708181
+1.07 Power Flower.flac:0be72969030bc051d87eaa5c0de65746
+1.08 Send One Your Love (Instrumental).flac:0e32698c779cf735e71d184f762a744f
+1.09 Race Babbling.flac:fc65772f9e3e79c35382c416c50a131a
+1.10 Send One Your Love.flac:c6636be52573a4da596b1b1688d92348
+1.11 Outside My Window.flac:616531f33cde3dfb9f7958ad138c9a51
+1.12 Black Orchid.flac:420892c8bafd57cec04368914c29ede6
+1.13 Ecclesiastes.flac:361d7961c8577dc8f7d5ef9cc30e9033
+1.14 Come Back As A Flower.flac:1137a26a1f0f81059d6a8b8e79469d90
+1.15 A Seed's A Star, Tree Medley.flac:fb79d96400891d4e98e27c330c855305
+
+Disc-2:
+2.01 Fingertips.flac:ec93feb9358a454771284cc6785eb2d6
+2.02 Don't Touch Me.flac:e86d97f3a3374c7cc1db17b8c641e76f
+2.03 For Once In My Life.flac:a17f78db1a666a68657ea6d201885c83
+2.04 Uptight (Everything Is Alright).flac:de2f7fcbd8e9d3950b815b385896e211
+2.05 I Was Made To Love Her.flac:139060c8175e80444a9459823c0e6016
+2.06 Signed, Sealed Delivered (I'm Yours).flac:b4d89658094564a525787cb0779f4186
+2.07 My Cherie Amour.flac:5576eb402498da98e9e59a11a693ca7f
+2.08 If You Really Love Me.flac:eef1bd84d64525226b996854f9edab3e
+2.09 Superwoman.flac:cf8d5a0b20423ba27781b2331d931900
+2.10 Never Dreamed You'd Leave In Summer.flac:4bf1120709a393af1d7370a23ed5702d
+2.11 You And I.flac:bd5a66494224f3fcf729989ba1e859f5
+2.12 Garden Of Love.flac:a14e4b68aae2e6eb4cb0456933e006d5
+2.13 I Can't Help It.flac:f6cef2ed07205a87e721e2bd5af11f19
+2.14 Never Let You Down.flac:b087be11384c8336cab134a2be4241c9
+2.15 I Can See The Sun In Late December.flac:5b67cf7cd0caeb2e6e11794170f6c722
+2.16 All In Love Is Fair.flac:5b33937623c21a25a3452bb40a22b338
+
+Disc-3:
+3.01 Don't You Worry 'Bout A Thing.flac:1ae34bb9bfae555929ed5d3fb2f0577e
+3.02 Higher Ground.flac:f1aef3bec739b576831d5cd3b8ebfb50
+3.03 Golden Lady.flac:cda77843a5e3cdc2b382b43c0067237b
+3.04 Boogie On Reggae Woman.flac:66c22dbf68a3dee9f3ecbfdc5764a37c
+3.05 Intro to Rock Like You'.flac:ec57110215258a244edcbbb4dac308bf
+3.06 Rock Like You.flac:2ba07097e7357363ffa68d755713d2d3
+3.07 Living For The City.flac:6849b448fc90b1840e95ea568d45c92a
+3.08 Sir Duke.flac:93b5e575392f21912ee9098f1e7b5ce3
+3.09 I Wish.flac:5dd2bf021b8d304456cfc48ce92cdf2c
+3.10 Sunshine Of Your Life.flac:341d156e9f18985671322ee97b16ff90
+3.11 Superstition.flac:91cc18927d6712cd4479a74a0f206db1
+3.12 As.flac:59cd4cc0e4c7c0ea0c7c818835d5ba1c
+3.13 Visions.flac:32aa1c2fb8c254a61ab2e2461ab126e2
+3.14 Secret Life Of Plants (Reprise).flac:e31cbcc25ee53b248266a2b9f5081f39
+3.15 Epilogue.flac:ea1bdfc038a509cb007a8db410ee5bc0

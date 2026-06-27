@@ -1,0 +1,161 @@
+A Robert Collins Master Recording.
+
+Artist:  Stevie Wonder
+Date:  July 8, 2008
+Location:  Sleep Train Pavilion, Concord California (USA)
+Seats:  Section 2, Row HH, Seats 115, 116 (10th row, center)
+Deck:  Korg MR1000 (5.6 Mhz, 1-bit Recording)
+Mics:  Neumann KM-140
+Source:  A:D Master Tape; Stereo
+Sample Rate:  44.1Khz, 16-bit (FLAC)
+Rating:  A-
+Length:  122 Minutes
+
+Musicians:
+Stevie Wonder        Keyboard, Vocals, Harmonica
+Nathan Watts         Bass
+Kyle Bolden          Guitar
+Errol Cooney         Guitar
+Victoria Theodore    Keyboards, Vocals
+Roman Johnson        Keyboards
+Dwight Adams        Trumpet
+Ryan Kilgore        Saxophones
+Stanley Randolph     Drums
+Fausto Cuevas        Percussion
+Munyongo Jackson     Percussion
+Aisha Morris         Backup Vocals
+Keith John           Backup Vocals
+Dejah Gomez          Backup Vocals
+Kailand Morris       Drums on Superstition (6 years-old)
+
+
+Notes:
+The heat:
+The concert started an hour late.  While waiting, we sat in a sweltering heat.
+By show time, it was still 102 degrees, and by show's end, it was still 91
+degrees.  This made sitting, taping, and everything except listening very
+uncomfortable.  As a result of the heat, Stevie played shorter for us, than
+others on the tour.
+
+The sound:
+Sitting 10th row center might have been a little too close.  The bass was
+overwhelming, the highs were lacking, and the mix seemed bad to me.  What
+happened to the days when Stevie hired his own dedicated mixer -- such as Gary
+Olozabal?  I was able to fix the highs, but left the lows for the listener to
+adjust out -- if they so desired.  However, sitting so close had it's
+advantages too.  You'll notice from the recording that the trumpet sound is
+right off of the stage, and sounds REAL crisp.
+
+The mistakes:
+It was so hot, my microphones kept slipping away from their perch on my
+shoulders.  Therefore, you will hear some microphone muffling -- but mostly
+in between songs -- rarely during a song.  So my apologies for the mic
+muffling.
+
+
+Lineage:
+AUD> Korg MR1000 (5.6 Mhz, 1-bit master tape)
+---> Down sample to 96Khz, 24-bit using Korg Audiogate
+---> Sound Forge
+---> Har-Bal (Harmonic Balancing Equalizer)
+---> Down sample to 44.1 Khz, 16-bit
+---> CD Architect
+---> EAC
+---> FLAC
+
+
+Samples:
+Sample-1:  Higher Ground
+http://www.rcollins.org/concerts/mp3/Stevie%20Wonder,%202008-07-08,%20Sample-1.mp3
+
+Sample-2:  I Love You More Than You'll Ever Know
+http://www.rcollins.org/concerts/mp3/Stevie%20Wonder,%202008-07-08,%20Sample-2.mp3
+
+Sample-3:  Signed, Sealed, Delivered (I'm Yours)
+http://www.rcollins.org/concerts/mp3/Stevie%20Wonder,%202008-07-08,%20Sample-3.mp3
+
+
+Song list:
+Disc-1
+       Start           End        Length  Name
+------------  ------------  ------------  --------------------------
+00:00:00.000  00:02:29.205  00:02:29.205  Countdown to Stevie
+00:02:29.205  00:06:58.879  00:04:29.674  As if You Read My Mind
+00:06:58.879  00:10:43.712  00:03:44.832  Master Blaster Jamin
+00:11:31.039  00:15:39.466  00:04:08.426  Did I Hear You Say You Love Me
+00:15:39.466  00:20:50.773  00:05:11.306  All I Do
+00:21:52.682  00:26:22.719  00:04:30.037  Knocks Me Off My Feet
+00:26:22.719  00:28:49.791  00:02:27.072  I Love You More Than You'll Ever Know
+00:28:49.791  00:30:34.239  00:01:44.448  The Ghetto
+00:30:34.239  00:31:49.663  00:01:15.424  Prelude to 'If You Really Love Me'
+00:31:49.663  00:34:56.544  00:03:06.880  If You Really Love Me
+00:35:10.527  00:36:21.151  00:01:10.624  Prelude To 'People Make The World Go Round'
+00:36:21.151  00:38:25.695  00:02:04.544  People Make The World Go Round
+00:38:25.695  00:42:03.904  00:03:38.208  Higher Ground
+00:42:22.559  00:54:54.912  00:12:32.352  Spain
+00:54:55.999  00:59:47.882  00:04:51.882  Don't You Worry 'Bout A Thing
+
+
+Disc-2:
+        Start          End        Length  Name
+------------  ------------  ------------  --------------------------
+00:00:00.000  00:09:13.734  00:09:13.734  Visions
+00:09:13.734  00:12:25.670  00:03:11.935  Livin' For The City
+00:12:25.670  00:17:54.054  00:05:28.384  Golden Lady
+00:18:17.382  00:21:42.342  00:03:24.960  Introducing 'Keep Fooling Yourself Baby Girl'
+00:21:42.342  00:25:59.364  00:04:17.021  Keep Fooling Yourself Baby Girl
+00:26:43.334  00:29:49.574  00:03:06.240  I知 Gonna Laugh You Right Out of My Life
+00:29:59.004  00:31:10.897  00:01:11.893  Isn't She Lovely
+00:31:19.974  00:32:40.454  00:01:20.480  Introducing 'Ribbons In The Sky'
+00:32:40.454  00:38:09.201  00:05:28.746  Ribbon In The Sky
+00:38:09.201  00:41:55.334  00:03:46.133  Overjoyed
+00:42:00.518  00:43:09.318  00:01:08.800  Introducing 'My Cherie Amour'
+00:43:09.318  00:46:11.174  00:03:01.856  My Cherie Amour
+00:46:11.174  00:47:57.318  00:01:46.144  Signed, Sealed, Delivered (I知 Yours)
+00:47:57.318  00:50:00.518  00:02:03.200  Sir Duke
+00:50:00.518  00:52:32.710  00:02:32.192  I Wish
+00:52:44.614  00:57:00.134  00:04:15.520  Do I Do
+00:57:00.134  00:59:30.406  00:02:30.272  I Just Called To Say I Love You
+01:00:23.174  01:11:00.358  00:10:37.184  Superstition
+
+
+MD5 Fingerprints:
+Disc-1:
+32b27a596756aa0b2a2daeab5c3c94b4 *1.01 Countdown to Stevie.flac
+f7e8c3dfdb6c515bdb2795c967968e99 *1.02 As if You Read My Mind.flac
+e913ec4163465abdba8b0921333da230 *1.03 Master Blaster Jamin.flac
+b557408066f4c52990f5c556f523094b *1.04 Did I Hear You Say You Love Me.flac
+d20917531616a28e4284a6f5bf6f5fcd *1.05 All I Do.flac
+67e858c848d5c3fd4033376a79dbbd6d *1.06 Prelude to 'Knocks Me Off My Feet'.flac
+49f34bb2953c3c1a271ab8da78cea73d *1.07 Knocks Me Off My Feet.flac
+3fde89c63dbce2fd010c7ba600291c8d *1.08 I Love You More Than You'll Ever Know.flac
+6c0b1dbf4ad8857150420ce04bb306de *1.09 The Ghetto.flac
+41bdda65505da621ee013ec3c3a5fcdb *1.10 Prelude to 'If You Really Love Me'.flac
+d1062cdc4465589fe56e2fd3e8299475 *1.11 If You Really Love Me.flac
+cba8322f8d29b60f5dd5423d427c14cc *1.12 Prelude To 'People Make The World Go Round'.flac
+9d5b58e292717bf6b8462c7f725a4933 *1.13 People Make The World Go Round.flac
+6520cfaf9f3fc9a05236bb29d97e218c *1.14 Higher Ground.flac
+826fe321a0a5754d85b1e72063ff3d52 *1.15 Spain.flac
+8008a99dfb4fabddadcdc3c6fc55ca29 *1.16 Don't You Worry 'Bout A Thing.flac
+
+Disc-2:
+246bc731e24bbb704315c987f806e922 *2.01 Visions.flac
+771e70c41ab1a1fdac8616cc01f90132 *2.02 Livin' For The City.flac
+d3f63efa7eb86af770a93c1337f24e53 *2.03 Golden Lady.flac
+e98ecef70d01b13f0d7d080c66b53afc *2.04 Introducing 'Keep Fooling Yourself Baby Girl'.flac
+e9919a480a0c5b834709dcacd86588a0 *2.05 Keep Fooling Yourself Baby Girl.flac
+37941b0a619773fd377e5354ff993dd2 *2.06 I知 Gonna Laugh You Right Out of My Life.flac
+f60c067e3542196fcf88811e58503b8c *2.07 Isn't She Lovely.flac
+45b6e1d021a3cb6ea909f10b20dd6a51 *2.08 Introducing 'Ribbons In The Sky'.flac
+5bca44c22f9957ff71bb216a999dbca3 *2.09 Ribbon In The Sky.flac
+37763b5033f5d7f4d6c3f1f238218d5b *2.10 Overjoyed.flac
+d8b1f074fdb3737e47554900e4f01bc4 *2.11 Introducing 'My Cherie Amour'.flac
+46973ba6428aaa09254138f4cf0eacb9 *2.12 My Cherie Amour.flac
+602c17b361dde25d9046e0e4517bcd36 *2.13 Signed, Sealed, Delivered (I知 Yours).flac
+bbeb42a632523d2fbeb6d05a542d9c5f *2.14 Sir Duke.flac
+acd9e0f98037acf21a7f66984334e1de *2.15 I Wish.flac
+d90655c8cbfc944629794fee9de2157a *2.16 Do I Do.flac
+aa2b59cbb505e959e7c87e41d1324871 *2.17 I Just Called To Say I Love You.flac
+0fc7fe0b6883941761c774171790cda4 *2.18 Superstition.flac
+
+

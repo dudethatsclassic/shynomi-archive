@@ -1,0 +1,70 @@
+Live
+Hard Rock Live at Etess Arena
+Hard Rock Hotel & Casino
+Atlantic City, NJ
+August 23, 2018
+(Opened for Counting Crows)
+
+** 16 BIT **
+
+Source:  AT943 > SP-SPSB-10 > Sony PCM-M10 @ 24 bit/48 kHz
+Mastering:  .WAV > iZotope RX9 Advanced v9.0.0.1130 (De-click) > Sound Forge Pro 14.0 Build 140 [normalize, & fades, Boz Digital Labs T-Bone plug-in (slant EQ)] > CDWav (tracking) > 
+iZotope MBIT+ (dithered and downsampled to 16 bit/44.1 kHz) > Trader's Little Helper (level 5) > FLAC > TagScanner 6.0.35 (tagging)
+Location:  Recorded at soundboard, with mics hooked on top of a video camera, about 8 feet high
+Recorded by:  Joe Burns
+Mastered by:  Dennis Orr
+
+Setlist: (1:16:18)
+01 All Over You
+02 Love Lounge
+03 Pain Lies On The Riverside
+04 The Dolphin's Cry
+05 Band Intros & Chat
+06 Selling The Drama
+07 Chat
+08 The Beauty Of Gray
+09 Iris
+10 Chat
+11 Baby What You Want Me to Do?
+12 The Distance
+13 I Alone
+14 Lakini's Juice
+15 Encore Break
+- Encore -
+16 Chat
+17 Heaven (1)
+18 Chat
+19 Turn My Head (1)
+20 Chat
+21 Lightning Crashes
+
+(1) Ed - solo acoustic
+
+Ed Kowalczyk – lead vocals & rhythm guitar
+Chad Taylor – lead guitar & backing vocals
+Patrick Dahlheimer – bass
+Chad Gracey – drums
+Zak Loy – rhythm guitar, mandolin, & backing vocals
+Robin Diaz - drums & percussion
+
+Live2018-08-23t01.flac:2e3d0ecacd4a49f94bfdd4ee046be292
+Live2018-08-23t02.flac:b8b76040427cd68e75f85178994af20d
+Live2018-08-23t03.flac:323bcb52b4a0428f362fa79f5181f62c
+Live2018-08-23t04.flac:e0cd31fcf9e9d57037e01ad09f560cef
+Live2018-08-23t05.flac:c3e017b936b07d3faa735a2da0ca3c0e
+Live2018-08-23t06.flac:dbba9d22640b78edf46f193822da2837
+Live2018-08-23t07.flac:6f70a03684c1ae225ea424c7e7ca0777
+Live2018-08-23t08.flac:2c541308c6a8e3ab0d0ab41dc1a25e39
+Live2018-08-23t09.flac:8de1eddc06103d38b340e891395f966b
+Live2018-08-23t10.flac:58bd58c16c6392f847ff516dfc800520
+Live2018-08-23t11.flac:6f045f53ccc12d6379b10ceb9dcb8b4a
+Live2018-08-23t12.flac:e7e35e08fc9694350367ae66a2a92e66
+Live2018-08-23t13.flac:d0221ad618aea987ba08699ec6a8ad1c
+Live2018-08-23t14.flac:f2ca0c5a3a2db80753eaa8309a76f6d5
+Live2018-08-23t15.flac:a6afdc3b9c81fe9db0ff7e311be74de0
+Live2018-08-23t16.flac:e4b1c65a2d3feddccc03f200a43e3890
+Live2018-08-23t17.flac:1593d5ef1f9351fff0c49c47cebbbecf
+Live2018-08-23t18.flac:18dcf833de8e043bfabc98c59c38e749
+Live2018-08-23t19.flac:610ef184b4bc7557f553226fec0a433c
+Live2018-08-23t20.flac:fbc13a396e178085aa2ea4803812bb9a
+Live2018-08-23t21.flac:433a62f6cdda8acbaba2b5c737bafc5d

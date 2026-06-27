@@ -1,0 +1,86 @@
+Teenage Fanclub
+Teragram Ballroom
+Los Angeles, CA
+May 18, 2024
+
+** 24 BIT **
+
+Source:  CA-11 cardioids > SP-SPSB-10 battery box > Sony PCM-M10 @ 24 bit/48 kHz
+Mastering:  .WAV > iZotope RX11 Advanced v11.0.1.3871 (De-click) > Sound Forge Pro 14.0 Build 140 [minor edits, normalize, & fades, Boz Digital Labs T-Bone2 plug-in (tilt EQ)] > CDWav
+(tracking) > Trader's Little Helper (level 5) > FLAC > TagScanner 6.1.16 (tagging)
+Recorded by:  ManOfStealth
+Mastered by:  Dennis Orr
+
+Setlist: (1:31:54)
+01 Intro/Tuning
+02 Tired Of Being Alone
+03 Chat & Tuning
+04 About You
+05 Start Again (with false start)
+06 Back To The Light
+07 Chat & Tuning
+08 Endless Arcade
+09 It's All In My Mind
+10 Only With You
+11 Chat & Tuning
+12 Falling Into The Sun
+13 Chat & Tuning
+14 Verisimilitude
+15 I Left A Light On
+16 Chat & Tuning
+17 Everything Is Falling Apart
+18 What You Do To Me
+19 Chat & Tuning
+20 It's A Bad World
+21 I Don't Want Control Of You
+22 Chat & Tuning
+23 Can't Feel My Soul
+24 I'm In Love
+25 Chat & Tuning
+26 The Concept
+27 Encore Break
+- Encore -
+28 The Fall
+29 Middle Of My Mind
+30 The Cabbage
+31 Chat
+32 Everything Flows
+
+Norman Blake – vocals & guitar
+Raymond McGinley – vocals & guitar
+Dave McGowan – bass & backing vocals
+Euros Childs – keyboards, programming, & backing vocals
+Francis Macdonald – drums & backing vocals
+
+TeenageFanclub2024-05-18t01.flac:1d06b519b604d092f3b4ac47064455ac
+TeenageFanclub2024-05-18t02.flac:136ba1041dca6241cddd76d15ebe907b
+TeenageFanclub2024-05-18t03.flac:45205cbdcf5d4e9b75056c42242a06a9
+TeenageFanclub2024-05-18t04.flac:df9219c9f5251105859c251e867f4e2e
+TeenageFanclub2024-05-18t05.flac:3d164a12e26e14e8c1d04b3c41925f50
+TeenageFanclub2024-05-18t06.flac:6d7f01224f0a67b9cf8be660757b06b7
+TeenageFanclub2024-05-18t07.flac:c0de8bf1923850806fbe13e792f3aa18
+TeenageFanclub2024-05-18t08.flac:7bd3084650da61b617b030b6b16176a9
+TeenageFanclub2024-05-18t09.flac:4db8329ce820f07d3526142295e93a72
+TeenageFanclub2024-05-18t10.flac:f35faa28c1472ea35b573e5315142b9e
+TeenageFanclub2024-05-18t11.flac:3fa4b147cf50036812ff8afc1cc69c58
+TeenageFanclub2024-05-18t12.flac:213b9ddab6dc2db73aabefdf1756f85b
+TeenageFanclub2024-05-18t13.flac:2b2c95c55c8f681d63bfc8849ece5a00
+TeenageFanclub2024-05-18t14.flac:e641e8377e18065a74bcc50eb700f497
+TeenageFanclub2024-05-18t15.flac:726309085ece820ab067f828a72533e5
+TeenageFanclub2024-05-18t16.flac:36637621af3e1b4b8814c3f6387c0abb
+TeenageFanclub2024-05-18t17.flac:336edab044d0ead18ff1c96e45a443fd
+TeenageFanclub2024-05-18t18.flac:ddf4a69b65be5d92cc4c1fe04bf157bf
+TeenageFanclub2024-05-18t19.flac:e8e8616c963b40e8e02ef249eacfca39
+TeenageFanclub2024-05-18t20.flac:9f5899eb6e9c73ba564dbdcee7b610d2
+TeenageFanclub2024-05-18t21.flac:16dfa0bde306d7ca2969d5bd5b5a3d5a
+TeenageFanclub2024-05-18t22.flac:c62bfacce5fcad625486d11439d28524
+TeenageFanclub2024-05-18t23.flac:0670e386bb87bca2d1a0fb0d164de274
+TeenageFanclub2024-05-18t24.flac:f7f220c2d5308899eb20f7624d615f02
+TeenageFanclub2024-05-18t25.flac:cd3d7f52edd5e4ef2fe642d09bd67258
+TeenageFanclub2024-05-18t26.flac:4250969939f7bc6a46f1ca1823b36077
+TeenageFanclub2024-05-18t27.flac:a41412f334356e44112fddca9cc621c1
+TeenageFanclub2024-05-18t28.flac:b208af96c8b593c0f5448fa69e5cfa10
+TeenageFanclub2024-05-18t29.flac:a0ec169d5887c4a1958c0cb4dfcaad33
+TeenageFanclub2024-05-18t30.flac:340ddff8a493365c8f9661b2d573e5e2
+TeenageFanclub2024-05-18t31.flac:8d4ac1f4955b0da12d3b623aef72ddc1
+TeenageFanclub2024-05-18t32.flac:b943f93baed60959386b6b4c580e4f23

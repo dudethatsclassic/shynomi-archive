@@ -1,0 +1,48 @@
+Live
+
+Sunrise Musical Theater, Sunrise, FL, United States
+November 16th, 2001,
+
+Received in trade with no documentation,
+my trade notation: aud/sa_dvr,
+
+VLC media information
+
+Type Video
+Codec MPEG-1/2 Video (mpgv)
+Video resolution 704x480
+Buffer dimensions 704x480
+Frame rate 29.970030
+Decoded format Planar 4:2:0 YUV
+Orientation Top left
+Color primaries ITU-R BT.601 (525 lines, 60 Hz)
+Color transfer function ITU-R BT.709
+Color space ITU-R BT.601 Range
+Chroma location Left
+
+Type Audio
+Codec A52 Audio (aka AC3) (a52 )
+Channels Stereo
+Sample rate 48000 Hz
+Bits per sample 32
+
+Set list
+
+simple creed (missing),
+Like A Soldier (cut),
+The Distance (cut),
+All Over You,
+Voodoo Lady (cut),
+They Stood Up For Love (cut),
+Call Me A fool,
+Imagine,
+Lakini's Juice,
+Deep Enough,
+Lightning Crashes,
+The Dolfin's Cry (intro cut),
+White, Discussion,
+Encore break,
+Run To The Water (cut),
+I alone,
+Encore two (cut),
+Overcome,

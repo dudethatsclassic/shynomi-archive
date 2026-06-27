@@ -1,0 +1,5 @@
+December 9th 2007
+Jobing.com Arena
+Glendale, Arizona 
+source: AT831 > SP-SPSB-2 (rolloff @ 107 Hz) > Edirol R-09 @ 44.1 / 16-bit
+transfer: Edirol R-09 > Soundforge 7.0 > Cdwave > mkw > shn -> FLAC

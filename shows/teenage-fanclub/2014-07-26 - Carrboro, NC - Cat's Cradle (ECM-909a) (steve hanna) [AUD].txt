@@ -1,0 +1,57 @@
+Teenage Fanclub
+MERGE 25
+Cat's Cradle
+Carrboro, NC
+July 26, 2014
+
+** 16 BIT **
+
+Source: Sony ECM-909a stereo mic > Edirol R-09HR @ 16 bit/44.1 kHz
+Mastering:  .WAV > iZotope RX9 Advanced v9.0.0.1130 (De-click) > Sound Forge Pro 14.0 Build 140 [minor edits, normalize, & fades, Boz Digital Labs T-Bone plug-in (slant EQ)] > CDWav 
+(tracking) > Trader's Little Helper (level 5) > FLAC > TagScanner 6.0.35 (tagging)
+Recorded by: Steve Hanna
+Mastered by: Dennis Orr
+
+Setlist: (59:41)
+01 Intro
+02 It's All In My Mind
+03 Sometimes I Don't Need To Believe In Anything
+04 About You
+05 Chat & Tuning
+06 I Don't Want Control Of You
+07 Chat & Tuning
+08 Take The Long Way Round
+09 The Past
+10 Start Again
+11 Don't Look Back
+12 Baby Lee
+13 Please Stay
+14 The Concept
+15 Sparky's Dream
+16 Everything Flows
+
+Norman Blake – vocals & guitar
+Raymond McGinley – vocals & guitar
+Gerard Love – vocals & bass
+Dave McGowan – keyboards & guitar
+Francis Macdonald – drums & backing vocals
+
+Notes:
+Merge Records 25th Anniversary Music Festival
+
+TeenageFanclub2014-07-26t01.flac:cf25ebc948ba94c9f3e45765b6dc5b95
+TeenageFanclub2014-07-26t02.flac:1457fa5b87f1cf70983d1d1cc518394e
+TeenageFanclub2014-07-26t03.flac:1a4407f819beec0bbd607c5c8ca65c3e
+TeenageFanclub2014-07-26t04.flac:5655feb25a4a199cb4b8c046e7998f80
+TeenageFanclub2014-07-26t05.flac:9f155943dc55b842f4b14a86551b8234
+TeenageFanclub2014-07-26t06.flac:9fbdf79c91728b250c304347e145db74
+TeenageFanclub2014-07-26t07.flac:749830cf7a775f49d0064bdae4db2d1c
+TeenageFanclub2014-07-26t08.flac:db49c1c40993ca6c92ef75bd70c94549
+TeenageFanclub2014-07-26t09.flac:c1dc1be013df7129b59072c30c4258c5
+TeenageFanclub2014-07-26t10.flac:f1eb12259c9df3af527b8827393b0017
+TeenageFanclub2014-07-26t11.flac:3975db56411307ad87854410186545bf
+TeenageFanclub2014-07-26t12.flac:d8df8e87e2bbf96f27c1ef9537116cf2
+TeenageFanclub2014-07-26t13.flac:04adc5f022f280065f13f0fcb4fc6a1f
+TeenageFanclub2014-07-26t14.flac:b9f7c69c26b1b869c11565e01085b42e
+TeenageFanclub2014-07-26t15.flac:a10f0988a3ead11298ff04c64cdd25d6
+TeenageFanclub2014-07-26t16.flac:8ab45b014e0f29b098bdc30e4aaec5d4

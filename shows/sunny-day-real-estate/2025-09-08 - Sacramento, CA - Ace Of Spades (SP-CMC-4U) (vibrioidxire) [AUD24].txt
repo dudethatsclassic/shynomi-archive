@@ -1,0 +1,65 @@
+SUNNY DAY REAL ESTATE
+September 8, 2025
+Ace of Spades
+Sacramento, CA, US
+
+SETLIST:
+-------------------
+00. intro/banter
+01. Pillars
+02. One
+03. Seven
+04. Theo B
+05. Song About an Angel
+06. Disappear
+07. Roses in Water
+08. 48
+09. Bucket of Chicken
+10. The Blankets Were the Stairs
+11. Pheurton Skeurto
+12. J'Nuh
+13. The Rising Tide
+14. Novum Vetus
+15. In Circles
+16. Sometimes
+
+
+SOURCE:
+-------------------
+AUDIENCE AUDIO - Quality: 9.5
+Sound Professionals SP-CMC-4U > TASCAM DR-2d
+
+Recorded by: vibrioidxire
+
+TRANSFER:
+-------------------
+Sound Professionals SP-CMC-4U (Audio Technica AT-U853's, with UE-H hypercardioid caps mod) > Sound Professionals SP-SPSB-10 Power Module > TASCAM DR-2d Portable Solid State Recorder > SanDisk 32GB Extreme UHS-I SDHC Memory Card > Apple MacBook Pro (16-inch, 2021) > Adobe Audition 25.3 [post-production/mastering] > xACT 2.57
+
+GENERATION:
+-------------------
+WAV(M) [48kHz/24-bit] > FLAC [Level 8]
+
+
+FLAC FINGERPRINTS:
+-------------------
+sdre2025-09-08_AUD_t00.flac:81c1d65e7a4cf5e15c0617d2382cb973
+sdre2025-09-08_AUD_t01.flac:366d46185c3d0c01a830f70898f954eb
+sdre2025-09-08_AUD_t02.flac:193173f7080e6da989c6ac8e74a93894
+sdre2025-09-08_AUD_t03.flac:2ff5a7626f8dcf3f500b783f4f883584
+sdre2025-09-08_AUD_t04.flac:4fe9c865cde6ac0433b0e8757fbf64c4
+sdre2025-09-08_AUD_t05.flac:e6906e18d2b8695d1efa31450e5dcda6
+sdre2025-09-08_AUD_t06.flac:6efe2bed69fea60f14dbc287f5e7404b
+sdre2025-09-08_AUD_t07.flac:032a110dbe7701124d7f6385536d545d
+sdre2025-09-08_AUD_t08.flac:98197cda7b673b2202c5d8cde178df25
+sdre2025-09-08_AUD_t09.flac:7874932d4e9e5c484e42f8c9b1100ba0
+sdre2025-09-08_AUD_t10.flac:1cc72b6050a3e682496b9a52c4810369
+sdre2025-09-08_AUD_t11.flac:fa2cb8a95038cbf0bc7f1518a9877dad
+sdre2025-09-08_AUD_t12.flac:012c5848579dcf2b04bd53e7278e0b03
+sdre2025-09-08_AUD_t13.flac:eb3092e9230e2c48382d25bacd77e396
+sdre2025-09-08_AUD_t14.flac:5f43e5276b3ddf66762f3815fc41ce40
+sdre2025-09-08_AUD_t15.flac:28160d47c04589b603b655f582939a0f
+sdre2025-09-08_AUD_t16.flac:639c0f145f84c998efb5de2eb3b2f460
+
+
+Transferred and encoded by: vibrioidxire
+PLEASE DO NOT DISTRIBUTE IN LOSSY FORMATS OR SELL!

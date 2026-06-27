@@ -1,0 +1,70 @@
+matt pond PA
+Venue Nightclub
+Vancouver, BC
+May 1, 2015
+
+** 24 BIT **
+
+Source:  Advanced Audio CM-54's (super cardioids) > Naiant Bigbox v.1 (input & output transformers on) > Edirol R-09HR @ 24 bit/48 kHz
+Mastering:  .WAV > Sound Forge Pro 10.0a (minor edits, normalize, & fades) > iZotope RX3 Advanced v3.00.695 (declick) > CDWav (tracking) > Trader's Little Helper (level 5) > FLAC > TagScanner 5.1 (tagging)
+Location:  Mics on a stand at 6', FOB, 5' right of DFC, approximately 60' from the stage
+Recorded and mastered by:  Dennis Orr (project #572)
+
+Setlist: (1:21:55)
+01 Halloween
+02 So Much Trouble
+03 The Trees And The Wild
+04 Several Arrows Later
+05 Is It Safe?
+06 Emblems
+07 Chat
+08 City Song
+09 From Debris
+10 Chat
+11 Brooklyn Stars
+12 The Moviegoer
+13 Spring Provides
+14 Devil In The Water
+15 Wild Girl
+16 Chat
+17 There Were Times
+18 Take Me With You
+19 Starting
+20 Love To Get Used
+21 Encore Break
+- Encore -
+22 Champagne Supernova
+23 Measure 3
+
+Matt Pond - lead vocals & guitar
+Shawn Alpay - cello & keyboards
+Chris Hansen - guitar, keybaords, & backing vocals
+Tierney Tough - bass & backing vocals
+Kyle Kelly-Yahner - drums
+
+Notes:
+10 Year Anniversary Tour for the "Several Arrows Later" album
+
+mattpondPA2015-05-01t01.flac:c65b54f1334c19a75573e4f494562fa4
+mattpondPA2015-05-01t02.flac:6de972cbf619cc0c5c1a7feaf19faabc
+mattpondPA2015-05-01t03.flac:9e7595ac3eb224308a476ce77f8b9ade
+mattpondPA2015-05-01t04.flac:5f1472aeb08852267b128d7db46ec8c6
+mattpondPA2015-05-01t05.flac:131a3574c7db4518d51c36ea84dbec6f
+mattpondPA2015-05-01t06.flac:2b810e72554506200a5ca8ff3c71aa57
+mattpondPA2015-05-01t07.flac:09dcc57d63d7bb07a12261d6b9a06ad0
+mattpondPA2015-05-01t08.flac:70852b342bd815cf8ac3a11695a805ae
+mattpondPA2015-05-01t09.flac:91f477123fec9d7bb6332d0e5bdd3aef
+mattpondPA2015-05-01t10.flac:aa120ccd9da47235c6692c0a5085eb24
+mattpondPA2015-05-01t11.flac:b59e5f25b09fb6d69b2290106e596182
+mattpondPA2015-05-01t12.flac:49b9808e6cb0f8f65d00632ebbe84e33
+mattpondPA2015-05-01t13.flac:8f74a82dfa0ee5ce9fce09a3d772857d
+mattpondPA2015-05-01t14.flac:65cfa6f9818a00b320514bcee5c1e666
+mattpondPA2015-05-01t15.flac:ddf9c89b8ef015c96e824f05424874b5
+mattpondPA2015-05-01t16.flac:4a5bf4a56b3875586e0e0d1c48ae58c6
+mattpondPA2015-05-01t17.flac:2ab98c11aa80d4f3e7ee3e5e87f1070b
+mattpondPA2015-05-01t18.flac:4f431f7c4be30cae592c82fb0964531d
+mattpondPA2015-05-01t19.flac:56d6e3ffbc41c4c8178a1f7174b47115
+mattpondPA2015-05-01t20.flac:48907cb993d448e8700387435cd1e19d
+mattpondPA2015-05-01t21.flac:ad3a46282b949122e607b2fea21ce262
+mattpondPA2015-05-01t22.flac:8f6743400e40c3965eb58054922dc8ad
+mattpondPA2015-05-01t23.flac:e779c0ee847d81d8a758a2d4ddd157d8

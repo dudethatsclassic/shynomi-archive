@@ -1,0 +1,52 @@
+Live
+Silver Creek Event Center at The Four Winds Casino
+New Buffalo, MI
+July 21st, 2023.
+
+** 16 BIT **
+
+Taper:      Josh Lichtenfeld <j.m.lichtenfeld@gmail.com>
+Location:   15th row, LOC.
+Source:     Zoom iQ7 MS Stereo Microphone > iPhone 4 > @ 16 bit/48kHz > 
+            Adobe Audition 3.0 > Cd Wave > FLAC
+Equipment:  iPhone 4 > PC > WAVE
+Transfer:   Josh Lichtenfeld <j.m.lichtenfeld@gmail.com>
+
+Setlist: (1:25:19)
+
+01. Hold Me Up
+02. All Over You
+03. Freaks
+04. Selling the Drama
+05. The Dolphin's Cry
+06. Pain Lies on the Riverside
+07. Run to the Water
+08. Brothers Unaware
+09. Shit Towne
+10. Mother Earth Is a Vicious Crowd
+11. Turn My Head
+12. White, Discussion
+    Encore
+13. Overcome
+14. Lakini's Juice
+15. I Alone
+16. Lightning Crashes
+
+-----------------------------------------------------------------------------
+Notes:
+
+The taper has his own method when he records and tracks live during the 
+recording on the iPhone 4, so there are cuts in between almost every song. 
+This is why you will hear fast cuts after songs are finished and some missing
+crowd noise. He then distrubutes the recordings in mp3 format only. I asked 
+him to send me the master wave file and instead received 27 separate tracks 
+with tracked intros and talking tracks. I decided to merge all 27 and track 
+song by song as I normally would. I also cleaned up some loud "whoo's" and 
+screams in RX7 for him. They were spiking the wave files so much, it was hard 
+to listen to during playback while turning the volume up. I really do think this
+is a wonderful capture and wanted it to sound the best it possibly could in
+lossless. Thanks again to Josh for providing the capture!
+
+-- Charles Dewey Cole, IV <live2cd@hotmail.com>
+
+

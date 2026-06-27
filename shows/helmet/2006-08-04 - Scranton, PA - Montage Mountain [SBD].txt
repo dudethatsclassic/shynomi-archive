@@ -1,0 +1,23 @@
+HELMET
+August 4, 2006
+Toyota Pavilion at Montage Mountain
+Scranton, PA
+
+Source: Soundboard > Sony TCD-D8
+Taper: Jeff Sebastianelli 
+Lineage: DAT(M) > WAV [48] > WAV [44.1] > CDR(1) > FLAC 
+Transfer: Tascam DA-20mkII > M-Audio Audiophile 2496 > Sound Forge > EAC 
+Edits/EQ: none
+Notes: Warped Tour
+
+01 - Unsung
+02 - Swallowing Everything
+03 - See You Dead
+04 - Ironhead
+05 - Milktoast
+06 - Wilma's Rainbow
+07 - In the Meantime
+
+
+Compiled March 2019 by CPS
+Seeded March 2019 to dimeadozen.org by CPS

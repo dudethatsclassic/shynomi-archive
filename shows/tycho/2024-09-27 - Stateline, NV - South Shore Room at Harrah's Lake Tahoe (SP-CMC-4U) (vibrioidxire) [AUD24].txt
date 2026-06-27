@@ -1,0 +1,67 @@
+TYCHO
+September 27, 2024
+South Shore Room @ Harrah's Lake Tahoe
+Stateline, NV, US
+
+SETLIST:
+-------------------
+00. intro/banter
+01. introductory sequence
+02. Phantom
+03. Sceptre ->
+04. Hours
+05. Weather
+06. A Walk
+07. Easy
+08. Consciousness Felt
+09. Green
+10. PBS
+11. Devices [w/ false start]
+12. Time to Run
+13. Totem
+14. Epoch
+15. Awake
+16. Divison
+
+
+SOURCE:
+-------------------
+AUD #1 - Quality: 9.5
+Sound Professionals SP-CMC-4U > Sony PCM-A10
+
+Location: DFC/FOB, GA FLR (1ft in front of board)
+Position: approx. 30º ORTF, L/R in beanie.
+Recorded by: vibrioidxire
+
+TRANSFER:
+-------------------
+Sound Professionals SP-CMC-4U (Audio Technica AT-U853's [w/ low sensitivity SPL modified 3.5mm connector], with SP UE-H-PAIR hypercardioid caps mod) > Sound Professionals SP-SPSB-10 Power Module > Sony PCM-A10 High-Resolution Digital Audio Recorder > WAV [48kHz/24-bit] > USB connector > Insignia NS-PA3C3A USB-C to USB adapter > Apple MacBook Pro (16-inch, 2021) > Adobe Audition 23.2 [post-production/mastering] > xACT 2.55 > FLAC [Level 8]
+
+GENERATION:
+-------------------
+WAV(M) [48kHz/24-bit] > FLAC [Level 8]
+
+
+FLAC FINGERPRINTS:
+-------------------
+tycho2024-09-27_AUD1_t00.flac:7b1bcda2449cbec5255aa9565f1dabcb
+tycho2024-09-27_AUD1_t01.flac:d476da0fffc0b3764d7017fdeb39da23
+tycho2024-09-27_AUD1_t02.flac:d8c3208f04a6b304f4134be72726513f
+tycho2024-09-27_AUD1_t03.flac:cd0fcd99551074e2e6b3cb712a68c300
+tycho2024-09-27_AUD1_t04.flac:ac80a86d017f733b3ca540ded4d16b20
+tycho2024-09-27_AUD1_t05.flac:81b5d6ba60df9082e063db1724f71e34
+tycho2024-09-27_AUD1_t06.flac:b0eb242884e9a796c6b88ae4dc29c92c
+tycho2024-09-27_AUD1_t07.flac:61115946f6a70c6af44e1ee94adca822
+tycho2024-09-27_AUD1_t08.flac:9204c8c1b9016a6b43ab893f3626fff2
+tycho2024-09-27_AUD1_t09.flac:ad01ed0c223ca186a16191ff421d51cf
+tycho2024-09-27_AUD1_t10.flac:349d17d9fdb0c5059cac963cdbc69bc6
+tycho2024-09-27_AUD1_t11.flac:4cf48efeadc32f05bc987d8a0dd0ca08
+tycho2024-09-27_AUD1_t12.flac:305a96a10c780868abee13bf3c61cdaf
+tycho2024-09-27_AUD1_t13.flac:79ebdcf81fcff34fc6569c05de22df52
+tycho2024-09-27_AUD1_t14.flac:6a671a18bb22727e74146a9db6de70db
+tycho2024-09-27_AUD1_t15.flac:9d002968035f26c735018bb6625848fa
+tycho2024-09-27_AUD1_t16.flac:9e1095e01122735796112cfe4501ad46
+
+
+Transferred and encoded by: vibrioidxire
+PLEASE DO NOT DISTRIBUTE IN LOSSY FORMATS OR SELL!

@@ -1,0 +1,14 @@
+    length     expanded size    cdr  WAVE problems  fmt   ratio  filename
+     8:04.06       85391756 B   ---   --   ---xx   flac  0.6011  helmet-gov hindmarsh-2013-12-26-t01.flac
+     3:00.53       31876700 B   ---   --   ---xx   flac  0.6119  helmet-gov hindmarsh-2013-12-26-t02.flac
+     4:06.57       43528508 B   ---   --   ---xx   flac  0.6001  helmet-gov hindmarsh-2013-12-26-t03.flac
+     5:05.44       53905532 B   ---   --   ---xx   flac  0.6266  helmet-gov hindmarsh-2013-12-26-t04.flac
+     3:34.44       37853132 B   ---   --   ---xx   flac  0.6082  helmet-gov hindmarsh-2013-12-26-t05.flac
+     5:40.24       60032492 B   ---   --   ---xx   flac  0.5696  helmet-gov hindmarsh-2013-12-26-t06.flac
+     4:06.53       43519100 B   ---   --   ---xx   flac  0.6081  helmet-gov hindmarsh-2013-12-26-t07.flac
+     2:57.20       31269884 B   ---   --   ---xx   flac  0.6119  helmet-gov hindmarsh-2013-12-26-t08.flac
+     3:13.59       34184012 B   ---   --   ---xx   flac  0.5977  helmet-gov hindmarsh-2013-12-26-t09.flac
+    12:31.30      132547004 B   ---   --   ---xx   flac  0.5839  helmet-gov hindmarsh-2013-12-26-t10.flac
+     2:46.03       29289500 B   ---   --   ---xx   flac  0.4057  helmet-gov hindmarsh-2013-12-26-t11.flac
+     5:44.74       60855692 B   ---   --   ---xx   flac  0.5714  helmet-gov hindmarsh-2013-12-26-t12.flac
+    60:52.17      644253312 B                            0.5868  (12 files)

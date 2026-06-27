@@ -1,0 +1,13 @@
+6c3a1d4248ab0fa52daee5bb8b49281e *aa2006-08-19t01MemphisCityRain.flac
+e86ee0ee437e1c74e390ab8c9d812206 *aa2006-08-19t02ChildYou'reTheRevolution.flac
+108f0beab044ee2bb7b59e44a364fdcc *aa2006-08-19t03Swell.flac
+c34041a7b8bd852b4d1d4d36be181b36 *aa2006-08-19t04FreeMan.flac
+94788b3a061fd5c27a67bb32d002d82c *aa2006-08-19t05Seed.flac
+75e79100dc09de8da09a4c8cd8a4f608 *aa2006-08-19t06Hush.flac
+9701ed1e11b653eb27f7dfd9e325a28f *aa2006-08-19t07RocketMan(SpaceOddity).flac
+0a3043d8295f43ca22cf1de793b5f576 *aa2006-08-19t08MidnightRider.flac
+fd21e70680de6eb3c1864cd4d8e677b6 *aa2006-08-19t09Wreckage.flac
+d24f518c0f57b41a948be496abc30e61 *aa2006-08-19t10SpiderSong.flac
+423892768c1dfeca8f3017316c1bd494 *aa2006-08-19t11Cry.flac
+e8f8d3557994f3f9f3fa761509d206c2 *aa2006-08-19t12Spaceship.flac
+941176cfa870027fbf0a8dc885e41e63 *aa2006-08-19t13TheAmerican.flac

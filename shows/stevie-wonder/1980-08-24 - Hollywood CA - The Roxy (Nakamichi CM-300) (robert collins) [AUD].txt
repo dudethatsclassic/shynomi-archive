@@ -1,0 +1,139 @@
+A Robert Collins Master Recording
+
+Artist:         Stevie Wonder
+Date:           08/24/80
+Location:       The Roxy, Hollywood CA
+Seats:          Dead center.
+Deck:           Nakamichi 350
+Mics:           Nakamichi CM-300 
+Source:         A:C Master Tape, Stereo
+Rating:         A-
+Length:         180 Mins
+
+Musicians:      Stevie Wonder: Keyboards, Vocals; Ben Bridges, Rick Zunigar: Guitar; Nathan Watts: Bass; Isaiah Saunders: Keyboards; 
+                Dennis Davis: Drums; Earl Derouen: Percussion; Hank Redd, Bobby Malach: Saxes; Nolan Smith, Larry Gittens: Trumpets; 
+                Wendy Barnes, Alexandria (Alex) Brown, Melody McCulley: Vocals; 
+
+Guest Artists:  Teena Marie: Vocals, Piano; Betty Wright: Vocals, Piano; Jermaine Jackson: Vocals, Bass; Buddy Miles: Vocals 
+
+Notes:          A woman named Eula Love was shot and killed by the LA Police.  Stevie decided to hold a $100/seat benefit concert for 
+                her small children @ the Roxy.  The Roxy only seats 450 people -- it's a very famous small night club in Hollywood.  
+                I was sitting dead center in the Roxy.  There were stars all around.  Actor Tony Curtis announces Stevie Wonder at 
+                the beginning of the concert.  I saw Lavar Burton, Bette Middler, Mayor Tom Bradley; and of course the guest 
+                artists:  Teena Marie, Germaine Jackson, Betty Wright, and Buddy Miles.  There's probably a few people I'm 
+                forgetting...but you get the picture.
+
+                My master tape was stolen in 1987.  With help of some friends, I managed to track down a 1st Generation copy 
+                of my master.  I used this copy for CD Master of the show.  Unfortunately, the last side of the last tape had 
+                speed variation problems, which I believe I successfully fixed on the computer.  If the last 20-30 minutes sound 
+                a little weird, you'll know why.
+
+Lineage:        AUD> Nakamichi 350 Cassette (Master Tape) 
+                ---> RME Audio Digi96 PAD (import to computer)
+                ---> Sound Forge 
+                ---> CD Architect 
+                ---> EAC 
+                ---> FLAC
+
+Regions List: Stevie CD - Vol 1.wav
+Name                                        Start           End        Length
+--------------------------              ------------- ------------- -------------
+For Once In My Life                     00:00:00.000  00:03:50.783  00:03:50.783
+My Cherie Amour                         00:03:51.491  00:06:07.873  00:02:16.382
+Signed, Sealed, Delivered (I'm Yours)   00:06:07.873  00:10:46.623  00:04:38.749
+If You Really Love Me                   00:10:46.623  00:13:49.672  00:03:03.048
+Never Dreamed You'd Leave In Summer     00:13:49.672  00:20:45.927  00:06:56.255
+You Made My Dreams Come True            00:21:15.750  00:24:57.707  00:03:41.956
+You And I                               00:24:57.707  00:29:39.728  00:04:42.020
+All Is Fair In Love                     00:29:39.728  00:33:34.110  00:03:54.382
+Introduction to "Reflections of You"    00:33:34.110  00:38:14.874  00:04:40.764
+Reflections Of You                      00:38:14.874  00:40:29.190  00:02:14.315
+Ribbons In The Sky                      00:40:42.270  00:43:51.157  00:03:08.887
+Lately                                  00:44:21.186  00:49:06.855  00:04:45.669
+Don't You Worry 'Bout A Thing           00:50:19.418  00:53:15.895  00:02:56.477
+Higher Ground                           00:53:15.895  00:56:50.442  00:03:34.546
+Living For The City                     00:56:56.369  01:03:00.986  00:06:04.617
+
+
+Regions List: Stevie CD - Vol 2.wav
+Name                                        Start           End        Length
+--------------------------              ------------- ------------- -------------
+Sir Duke                                00:00:00.000  00:03:01.791  00:03:01.791
+I Wish                                  00:03:01.791  00:07:37.717  00:04:35.925
+Sunshine Of My Life                     00:07:37.717  00:11:01.034  00:03:23.316
+Superstition                            00:11:01.034  00:15:28.426  00:04:27.392
+As                                      00:15:28.426  00:19:52.562  00:04:24.135
+Lobby for Martin's Holiday / 
+Intro to "Vision In My Mind"            00:19:52.562  00:26:50.373  00:06:57.810
+Vision In My Mind                       00:26:50.373  00:30:27.050  00:03:36.676
+The World Is Deja Vious                 00:30:49.324  00:41:07.308  00:10:17.984
+Intro To Betty Wright                   00:41:07.308  00:47:37.836  00:06:30.527
+The Clean Up Woman                      00:47:37.836  00:54:53.065  00:07:15.229
+What Are You Going To Do With It, 
+When You Get It?                        00:55:47.186  00:59:44.777  00:03:57.590
+
+
+Regions List: Stevie CD - Vol 3.wav
+Name                                        Start           End        Length
+--------------------------              ------------- ------------- -------------
+Secret Life Of Plants                   00:00:00.000  00:04:29.243  00:04:29.243
+Introducing "Let's Get Serious"         00:04:29.243  00:10:01.441  00:05:32.198
+Let's Get Serious                       00:10:01.441  00:15:37.090  00:05:35.648
+Them Changes                            00:16:20.256  00:20:15.823  00:03:55.566
+I Got A Woman                           00:20:15.823  00:20:43.369  00:00:27.546
+Uptight (Everything Is Alright)         00:20:43.369  00:23:34.574  00:02:51.205
+Introducing 
+   "Did I Hear You Say You Love Me"     00:23:34.574  00:24:40.934  00:01:06.359
+Did I Hear You Say You Love Me          00:24:40.934  00:28:40.084  00:03:59.150
+All I Do                                00:28:40.084  00:32:43.697  00:04:03.612
+Master Blaster Jamin'                   00:32:46.416  00:37:48.287  00:05:01.871
+Introducing 
+   "Show Me How To Do Like You"         00:37:48.287  00:43:22.532  00:05:34.245
+Show Me How To Do Like You              00:43:22.532  00:52:40.756  00:09:18.223
+
+
+SHNTool Fingerprints:
+
+Disc-1:
+f9676f51f90788557f00ace0f31b4ba2  [shntool]  1.01 For Once In My Life.flac
+30a3d55927637abf0e2e8c2cb0331f29  [shntool]  1.02 My Cherie Amour.flac
+10f028e607b4a8cb5fc1c2b27180ffff  [shntool]  1.03 Signed, Sealed, Delivered (I'm Yours).flac
+114566afb5691139e9e70c18c43e6163  [shntool]  1.04 If You Really Love Me.flac
+ee0ecdd0681b80a35024358f785756a5  [shntool]  1.05 Never Dreamed You'd Leave In Summer.flac
+6edb4920e30a153db9bee44e6692f41e  [shntool]  1.06 You Made My Dreams Come True.flac
+86bcfe7d2d85d9617dd90d0f4c4dcdc1  [shntool]  1.07 You And I.flac
+a03ba42598da924e709cf4c0a5499451  [shntool]  1.08 All Is Fair In Love.flac
+2846c48dedda5d9fc99972850bd243d5  [shntool]  1.09 Introduction to 'Reflections of You'.flac
+c043ef996e192b09e40c6791090e39d0  [shntool]  1.10 Reflections Of You.flac
+c5e66d51603f0241272f33427781ba1d  [shntool]  1.11 Ribbons In The Sky.flac
+8a947ec10e30688f079a2f6b0e62cc3a  [shntool]  1.12 Lately.flac
+b165374307e70e997ef354f978e28d1e  [shntool]  1.13 Don't You Worry 'Bout A Thing.flac
+9b147cfada7b99e974378f4c35d83676  [shntool]  1.14 Higher Ground.flac
+508bd7e5df80f726b88f14fc7ef9f5df  [shntool]  1.15 Living For The City.flac
+
+Disc-2:
+7234604106cb25248923781e51e947e1  [shntool]  2.01 Sir Duke.flac
+9637663970c04689f8f1441fa2ff726f  [shntool]  2.02 I Wish.flac
+764dc86492c9f21be3c4c6e3392e38b0  [shntool]  2.03 Sunshine Of My Life.flac
+a85cf79f106dd5e0a2fc005c0ea51181  [shntool]  2.04 Superstition.flac
+dba949a67516dd1618d5675bb15070a5  [shntool]  2.05 As.flac
+7eb6756516069c30e96e6ffdff8013a8  [shntool]  2.06 Lobby for Martin's Holiday - Intro to 'Vision In My Mind'.flac
+c9d427184ad24a82efb8910daf03c2fe  [shntool]  2.07 Vision In My Mind.flac
+1ab65965e77deb6689770aee30d85bc9  [shntool]  2.08 The World Is Deja Vious.flac
+b619789a608764539052ccc2fbb96dab  [shntool]  2.09 Intro To Betty Wright.flac
+3b1ce3d60aededc5edaa65f831981e99  [shntool]  2.10 The Clean Up Woman.flac
+eafd8f387e8aa22eddd52206b7a015b8  [shntool]  2.11 What Are You Going To Do With It, When You Get It .flac
+
+Disc-3:
+e36d3ca89c3e3693e26568d4f7d5040c  [shntool]  3.01 Secret Life Of Plants.flac
+d6a57e98f515ef00190d0c2b0d80c99d  [shntool]  3.02 Introducing 'Let's Get Serious'.flac
+662451415463e48308039ad176d8d314  [shntool]  3.03 Let's Get Serious.flac
+f6658425a9af775f7f5c18890006bce6  [shntool]  3.04 Them Changes.flac
+295ab59b3bab5bb073861eed8cd5732e  [shntool]  3.05 I Got A Woman.flac
+2056fa55b2a6e54eff2e06ab575fcbd8  [shntool]  3.06 Uptight (Everything Is Alright).flac
+20b2879a454f63d18b28788285584763  [shntool]  3.07 Introducing 'Did I Hear You Say You Love Me'.flac
+1871ed829a0de09ac529dc270474add4  [shntool]  3.08 Did I Hear You Say You Love Me.flac
+de6dfb13122e4ff2ce9422d2675297fa  [shntool]  3.09 All I Do.flac
+da24f6d6d680786cf88c290ea71c48ae  [shntool]  3.10 Master Blaster Jamin'.flac
+5d553a20d8dbe96cceeaf47ec601daa6  [shntool]  3.11 Introducing 'Show Me How To Do Like You'.flac
+de037083c7c4831c3ccac854a93d1769  [shntool]  3.12 Show Me How To Do Like You.flac

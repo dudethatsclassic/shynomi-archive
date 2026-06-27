@@ -1,0 +1,28 @@
+Helmet
+
+8th October 1994
+Livid Festival
+Davies Park)
+Brisbane, Queensland, Australia
+
+Double J Live At The Wireless
+
+Unsung
+Rollo
+Street Crab
+Bad Mood
+Milquetoast
+Ironhead
+The Silver Hawaiian
+Give It
+Turned Out
+Biscuits For Smut
+Wilma's Rainbow
+In The Meantime
+Just Another Victim
+
+Running Time: 44:56
+
+Digital Terrestrial Broadcast on 2020-10-20 (MPEG1 Layer 2 48kHz @ 256kb/s) Double J Radio > DVB-T > AVerMedia H727 PCIe Hybrid DVBT > DVBviewer > .mp2 > Adobe Audition CS6 (Edit/Cut) > FLAC > TLH V2.8.3 [Build 182] (FLAC Lvl8 - Fix SBE's) > TagScanner 6.1.6 (Tagging)
+
+According to etreedb.org the previous FM broadcast/s were only 8 songs. Although this is 12 songs, according to setlist.fm, this is not the complete show with 5 songs missing. This has been edited and converted to FLAC in Audition to remove all station ID's.

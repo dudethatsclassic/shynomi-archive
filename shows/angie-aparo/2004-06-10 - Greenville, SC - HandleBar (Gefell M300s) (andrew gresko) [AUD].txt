@@ -1,0 +1,43 @@
+Angie Aparo
+HandleBar
+Greenville, SC
+June 10, 2004
+
+Taper:		Andrew Gresko <gresko@nc.rr.com>
+Source:  	Microtech Gefell m300s > Oade wmod UA-5 > M1
+Location:  	~15 ft. from stage, mics ~ 7ft high, XY
+dat>.shn: 	M1 > emagic A2|6 > SoundStudio 2.1.1 > 
+		Soundforge Waves c4/L2 > cdwave 1.73 > mkwACT 0.97     
+
+Disc One:			
+
+01:  Intro					01:10
+02:  Hard Woman					04:07
+03:  Caroline					04:44
+04:  She's Alright				03:56
+05:  Green Into Gold				06:42
+06:  No Time					07:30
+07:  Hush					05:10
+08:  Memphis City Rain				05:42
+
+Total:						39:05
+
+Disc Two:
+
+01:  Broken					05:08
+02:  RocketMan*					07:54
+03:  Child You're the Revolution		04:45
+04:  Sweet Loretta				06:55
+05:  Drum War					01:49
+06:  Third Time Around				05:18
+07:  Cry					08:41
+08:  Spaceship					04:59
+09:  Wonderland					05:35
+
+Total:						51:08
+
+Notes:
+-*w/ Willy Porter
+-slight hiss is from ventilation fan
+
+compiled by Andrew Gresko <gresko@nc.rr.com> on 6-12-04

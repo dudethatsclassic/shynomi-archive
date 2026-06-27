@@ -1,0 +1,15 @@
+    length     expanded size    cdr  WAVE problems  fmt   ratio  filename
+     3:28.413      60023084 B   cxx   --   ---xx   flac  0.6302  mattpondPA2002-02-23t01.flac
+     4:19.747      74807084 B   cxx   --   ---xx   flac  0.6577  mattpondPA2002-02-23t02.flac
+     2:43.253      47017004 B   cxx   --   ---xx   flac  0.6581  mattpondPA2002-02-23t03.flac
+     4:35.920      79465004 B   cxx   --   ---xx   flac  0.6217  mattpondPA2002-02-23t04.flac
+     2:51.387      49359404 B   cxx   --   ---xx   flac  0.6813  mattpondPA2002-02-23t05.flac
+     0:58.053      16719404 B   cxx   --   ---xx   flac  0.5553  mattpondPA2002-02-23t06.flac
+     3:33.640      61528364 B   cxx   --   ---xx   flac  0.6646  mattpondPA2002-02-23t07.flac
+     0:41.573      11973164 B   cxx   --   ---xx   flac  0.5496  mattpondPA2002-02-23t08.flac
+     3:35.333      62016044 B   cxx   --   ---xx   flac  0.6724  mattpondPA2002-02-23t09.flac
+     3:17.640      56920364 B   cxx   --   ---xx   flac  0.6820  mattpondPA2002-02-23t10.flac
+     0:37.573      10821164 B   cxx   --   ---xx   flac  0.5640  mattpondPA2002-02-23t11.flac
+     3:22.640      58360364 B   cxx   --   ---xx   flac  0.6611  mattpondPA2002-02-23t12.flac
+     3:03.051      52718636 B   cxx   --   ---xx   flac  0.6852  mattpondPA2002-02-23t13.flac
+    37:08.224     641729084 B                            0.6530  (13 files)

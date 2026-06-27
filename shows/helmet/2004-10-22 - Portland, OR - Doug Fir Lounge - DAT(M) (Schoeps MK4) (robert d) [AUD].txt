@@ -1,0 +1,36 @@
+Helmet
+2004-10-22
+Doug Fir Lounge, Portland, OR
+
+Generation:
+DAT(M) -> FLAC -> CDR(1) -> FLAC
+
+Source:
+Schoeps MK4 -> N-Box -> Sony SBM-1 -> Sony M1
+
+Note:
+RobertD source. 30ft from LH side of stage, standing just behind me (Jim Hirte) running the Sonic Studios DSMs (torrent: http://www.dimeadozen.org/torrents-details.php?id=718747).
+
+I don't recall Robert's gear for transferring DATs unfortunately, but I ripped the CD-R using EAC some time ago.
+
+Setlist:
+
+01. Pure
+02. Smart
+03. Crashing Foreign Cars
+04. Exactly What You Wanted
+05. See You Dead
+06. Ironhead
+07. Enemies
+08. Birth Defect
+09. Everybody Loves You
+10. Surgery
+11. Milquetoast
+12. Speak and Spell
+13. Wilma's Rainbow
+14. Bad Mood
+15. In the Meantime
+
+Encore:
+16. It's Easy to Get Bored
+17. Unsung

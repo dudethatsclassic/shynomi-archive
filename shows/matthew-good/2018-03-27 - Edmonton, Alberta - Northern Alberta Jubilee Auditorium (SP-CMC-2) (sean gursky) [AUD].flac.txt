@@ -1,0 +1,33 @@
+Matthew Good 
+Northern Alberta Jubilee Auditorium
+Edmonton, Alberta Canada 
+March 27, 2018
+"Our Lady Peace, Matthew Good, Live In Concert"
+
+Recorder: Sean Gursky (me@seangursky.com) 
+Location: First Balcony CTR-1, Row A 
+Gear: SP-CMC-2 (AT831) > CA9200 (pre-amp +10db, volume 100%) > Tascam iXJ2 (pre-amp level 0) > iPhone 4S > RODE Rec iOS app
+Transfer: iPhone (CAF @ 32 bit/44100 Hz/2 channel) > 30 pin USB connector > Computer
+Editing: Adobe Audition > Down sample WAV to 16/44.1 > Fade in and fade out > Balanced volume in channels (right had average RMS value that was 0.29 dB higher) > Audacity Amplify -2dB Bass +1dB Treble, +1dB Amplification > Adobe Audition Marker split > Export to WAV > FLAC encoding (level 8) using xACT 
+
+Setlist: 
+01. Advertising on Police Cars [07:55] 
+02. Strange Days [04:33]
+03. Bad Guys Win [04:42]
+04. Alert Status Red* [02:36] 
+
+Total concert length: 00:19:47
+
+Show Notes:
+Second show of two night stay at the Edmonton Jubilee.  
+
+* During "Alert Status Red" Matthew collapsed on stage.  He has been battling pneumonia and commented on it in previous performances that it was wearing him down.  He had lack of sleep (according to VIP experience earlier in the day) and generally not in the best shape to perform. 
+
+Raine Maida updated the audience about 10 minutes after the incident indicating what happened.  During the OLP set Raine gave the crowd a few more updates and Matt jokingly blamed his drummer for drumming too fast.  
+
+I share this performance hesitantly because it's (1) not complete, and (2) I feel like I am invading on a private moment.  Because Matt is doing better I feel more comfortable sharing the performance and the fact that it's incomplete is inconsequential to Matt's health.  
+
+Recording / Editing Notes:
+Excellent sounding recording from an excellent venue.  Slight adjustments needed on the audio (bass reduction, treble increase) but it's only minor as the acoustics in the Jubilee are wonderful.    
+
+My reference for calculating RMS in Adobe Audition (because I never remember) is here: http://bit.ly/2ooIg4e.

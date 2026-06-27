@@ -1,0 +1,27 @@
+Sunny Day Real Estate
+Best Friends Forever Festival 2024
+Downtown Las Vegas Events Center
+October 12, 2024
+
+Lineage: Zoom H1n onboard microphone (slightly off-center, to the right of soundboard) -> 16bit/48kHz WAV -> Audacity to label, split files, master limiter, and normalize to -1dB -> foobar2000 for tags and renaming.
+
+Missed recording 8. Edited some dead air. Really new to doing this, so any and all advice is appreciated.
+
+Audio: 16 bit 48kHz stereo FLAC
+
+Tracklist:
+Seven
+In Circles
+Song About an Angel
+Round
+47
+The Blankets Were the Stairs
+Pheurton Skeurto
+Shadows
+48
+Grendel
+Sometimes
+
+Pillars
+Faces in Disguise
+Novum Vetus

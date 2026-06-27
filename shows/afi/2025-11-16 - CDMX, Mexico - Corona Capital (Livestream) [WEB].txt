@@ -1,0 +1,26 @@
+AFI (A Fire Inside)
+Corona Capital festival
+Autódromo Hermanos Rodríguez, Mexico City, Mexico
+2025-11-16
+Tour: Silver Bleeds the Black Sun... 
+
+Lineage: livestream > yt-dlp > ffmpeg > .mp4
+Video: 1920x1080, VP9, 30 fps
+Audio: Stereo, AAC, 192 kb/s
+
+Setlist:
+
+Girl's Not Grey
+Love Like Winter
+Holy Visions
+Beautiful Thieves
+Dancing Through Sunday
+Behind the Clock
+17 Crimes
+I Hope You Suffer
+Marguerite
+The Boy Who Destroyed the World
+This Celluloid Dream
+The Days of the Phoenix
+Silver and Cold
+Miss Murder

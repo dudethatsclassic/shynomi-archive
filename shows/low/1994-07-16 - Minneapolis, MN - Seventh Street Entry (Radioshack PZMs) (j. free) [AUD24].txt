@@ -1,0 +1,100 @@
+Low
+Minneapolis, MN
+Seventh Street Entry
+Saturday 16 July 1994
+stereo audience recording
+24/48 analog > digital transfer from master cassette
+duration (01:05.:27)
+
+cassette side A (46:37.27):
+[01] start (00:14.07)
+[02] See-Through (04:49.22)
+[03] Cut (06:58.19)
+[04] interim / comments (00:49.17)
+[05] Words (07:11.06)
+[06] interim / comments (00:23.59)
+[07] Sea (02:13.36)
+[08] interim / comments (01:07.01)
+[09] Lazy (06:38.00)
+[10] interim (00:08.26)
+[11] Transmission [Joy Division] (06:11.59)
+[12] interim / comments (00:59.65)
+[13] Violence (05:05.68)
+[14] interim / comments (00:36.51)
+[15] Rope [truncated] (03:10.41)
+
+cassette side B (18:50.00):
+[16] Rope [continued] (04:54.28)
+[17] interim / comments (00:41.68)
+[18] Fear (02:47.06)
+[19] interim / encore applause / comments (02:06.23)
+[20] Drag (06:20.46)
+[21] applause (00:52.62)
+[22] end / ambience of the 7th St Entry (01:06.67)
+
+Bill:
+Low
+Balloon Guy
+Shapeshifter
+Lisa Raye [solo electric set]
+
+• • • •
+
+[September 2024]:
+A mutual friend had put Alan and I in touch with other for the first time in nearly thirty years, and he was curious what recordings I had of Low in my archives. Most of them he had already, but not this one.
+
+This is the first time I ever attempted to transfer this set. It was an uncomfortably packed room by the time Low took the stage, and I ended up setting up my gear in front of the sound booth, rather than in the booth. For a number of reasons - including the extreme crowdedness in the room - I was unable to secure the equipment as much as I would have liked to, and by the third song of the set, a couple of faders on my mixing console had been bumped by people in the audience, throwing the levels off for most of the set. I had always considered it unsalvageable, but revisiting it recently, I tried a few things which to my ears seemed to make it at least a bit more listenable.
+
+Around the 4:00 mark in Track 05 [Words], the left fader on my mixer was bumped, resulting in an over-modulated signal in that channel which went un-noticed until around 50 seconds into Track 15 [Rope]. In hindsight, it would have been useful if I had been able to flip the tape before Rope started, so it wouldn’t have been broken up into two segments, although oddly enough, they almost provide a natural segue.
+
+After the cassette was flipped, the same thing happened again on Side B, only this time it was the Right Channel which was bumped - not as drastically as before, but still resulting in a bit of saturation.
+
+In both instances, I employed a few techniques including overwriting some segments with the stable signal, incremental gain changes and smoothing, in the hopes of ending up with a more listenable result.
+
+This is a rare situation where I know that the band was not provided with a copy of their set at the time, due to my previous assessment of the sound quality. Thirty years later, Alan will have the opportunity to hear it for the first time, and hopefully the listening experience won’t be too dreadful.
+
+• • • •
+
+This is definitely an audience recording - there is no SBD feed in the mix.
+
+Recorded / transferred / tracked / edited / tagged by: J.Free / Sonic Archives [sonicarchives.com]
+
+This fileset is a raw 24 Bit Depth / 48kHz Sample Frequency analog > digital transfer from the original cassette master. Typically, no processing is applied to these analog > digital transfers, but an exception was made in this instance. Some minimal processing has been applied as noted below, in an effort to provide a continuous balanced (faux) stereo image.
+
+side A:
+L ch [over-modulated signal]:
+00:17:05.520 - 00:17:07.824
+00:17:07.824 - 00:44:33.408 [distorted]
+00:44:33.408 - 00:44:48.000
+
+side B:
+R ch [over-modulated signal]:
+00:10:12.698 - 00:17:22.197
+
+• • • •
+
+It has also been noted that some of the recordings I made in 1994 with the same equipment seemed to be running a bit fast - likely the result of a slowed-down motor in the deck(s) being used at that time.
+
+No pitch correction has been applied to this recording, although for other recordings made with the same equipment around this time, the pitch was digitally adjusted to approximately 440 Hz - the tuning standard for the musical note of A.
+
+This application *may* possibly improve this recording as well.
+Sound Forge Pro 11.0 [Build 299] (minor adjustments):
+Pitch decreased : -80.0cents >
+
+• • • •
+
+Source:
+2 Radio Shack / Tandy PZMs suspended from ceiling about 10 ft back from center stage facing stage L+R in X-Y configuration > small mixer [likely a TEAC 2A] > unidentified home stereo deck [most likely a Sony TC-W345 Double Cassette Deck] > master cassette
+
+Lineage:
+2-channel stereo cassette > Nakamichi LX-3 cassette deck [Azimuth adjustment applied to playback head] > Edirol R-04 [RCA/analog in; 24-bit/48kHz transfer (.wav)] > PC [via USB] > CD Wave Editor (sector boundary tracking) > Trader's Little Helper (Level 8 .wav > .flac conversion, .ffp) > flacs
+
+• • • •
+
+The cassette and the original un-processed analog > digital transfer still exist; the caveats being that it *may* run fast and a portion of the stereo image is imbalanced. Perhaps at some point in time it might be worth revisiting, but at present, there are still a lot of other recordings waiting to be transferred.
+
+• • • •
+
+On this date in 1994, the Shoemaker-Levy comet collided with Jupiter.
+
+• • • •

@@ -1,0 +1,52 @@
+Live
+Ed Kowalczyk: lead vocals, guitar (1989-2009, 2016-current)
+Adam Kowalczyk: rhythm guitar, backing vocals (1999-2009)
+Chad Taylor: lead guitar (1989-2009, 2012-current)
+Michael Railton: keyboards (1999-2002)
+Patrick Dalheimer: bass (1989-2009, 2012-current)
+Chad Gracey: drums (1989-2009, 2012-current)
+
+Hard Rock Festival
+Atlanta Motor speedway
+Atlanta, Ga. USA
+June 5, 1999
+runtime: 43:10 (minutes/ seconds)
+Collective Soul, the Offspring, Sugar Ray, 
+and many other bands also played at this show
+Levis Spot radio network FM broadcast (complete?)
+and Universal Ampitheater, 
+Universal City (Los Angeles), Ca. 
+December 6, 1997 
+Westwood One FM broadcast
+runtime: 24:38 
+total runtime: 67:51 (minutes/ seconds)
+
+      setlist:
+    (* = not broadcasted)
+
+1: operation spirit 6:09
+2: all over you 4:37
+3: selling the drama 3:39
+4: pain lies on the riverside 4:31
+5: turn my head 4:10
+6: Lakini's juice? 4:57
+7: I alone 8:24
+8: lightning crashes 5:36
+9: credits for Atlanta
+      Los Angeles 1997
+10: Lakini's juice 5:19
+11: selling the drama 3:32
+12: all over you 4:13
+    freaks *
+    operation spirit *
+    Iris *
+13: lightning crashes 5:58
+14: I alone 5:29
+
+lineage: 
+live (of course, delayed sattelite) FM broadcast >
+Yamaha RX-500U receiver >
+Naka. BX-125 cassette recorder (dolby off) >
+Maxell XLII 90 minute cassette (just one side of, unfortunately)
+Tascam 112 > soundforge (16 bit 44.1 khz wav) >
+flac 8 (sb's aligned)

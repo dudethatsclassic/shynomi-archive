@@ -1,0 +1,42 @@
+Helmet
+2004-10-22
+Doug Fir Lounge, Portland, OR
+
+Generation:
+DAT(M) -> FLAC -> Adobe Audition 2018CC (volume adjustments at beginning) -> CD WAVE (tracking) -> FLAC
+
+Source:
+Sonic Studios DSM-6 w/PA6lc3 @85hz -> Sony D8
+
+Transfer:
+Tascam DA-20MKII -> M-Audio Audiophile 24/96 -> Adobe Audition 3.0 (originaly transferred in 2004).
+
+Note: Mics in hat. ~25' from LH stacks. Some level problems the first few songs (also had to switch inputs).
+
+The Doug Fir was a new-ish venue at this time. Not taper friendly by any means as memory serves. This was attended by a few of the PDX crew - myself, Mike Devitt, and Robert D. I ended up running Mike's Sonics in his infamous Mickey Mouse hat as he wanted a night off. Getting gear in wasn't so much an issue at this show for Mike and I (although Robert had an issue); the real problem was the oppresive heat in the bathroom where we geared up, on top of the fact that there was a security guy in the restroom. Robert mentioned he was looking for the lava rocks to put some water on since it was like a sauna in there. 
+
+Mike was blocking for me, but you can hear a few loud drunks on occasion whooping and hollering. Levels were a mess at first.. I needed to change input on the first song, and then got bumped around adjusting stuff. I tweaked things as best I could via Audition during my lunch break for the first song - it was a bit all over level wise and things are fine track 3 on.
+
+Enjoy!
+
+Setlist:
+
+01. Pure
+02. Smart
+03. Crashing Foreign Cars
+04. Exactly What You Wanted
+05. See You Dead
+06. Ironhead
+07. Enemies
+08. Birth Defect
+09. Everybody Loves You
+10. Surgery
+11. Milquetoast
+12. Speak and Spell
+13. Wilma's Rainbow
+14. Bad Mood
+15. In the Meantime
+
+Encore:
+16. It's Easy to Get Bored
+17. Unsung

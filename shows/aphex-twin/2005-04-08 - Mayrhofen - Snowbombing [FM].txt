@@ -1,0 +1,125 @@
+EAC extraction logfile from 20. September 2005, 14:45 for CD
+aphex / 2005-04-08
+
+Used drive  : _NEC    DV-5800A   Adapter: 1  ID: 0
+Read mode   : Secure with C2, accurate stream, NO disable cache
+Combined read/write offset correction : 0
+Overread into Lead-In and Lead-Out : No
+
+Used output format : Internal WAV Routines
+                     44.100 Hz; 16 Bit; Stereo
+
+Other options      : 
+    Fill up missing offset samples with silence : Yes
+    Delete leading and trailing silent blocks : No
+    Native Win32 interface for Win NT & 2000
+
+
+Track  1
+     Filename D:\martin\music\easytree\aphex2005-04-08.flacf\aphex2005-04-08t01.wav
+
+     Peak level 48.6 %
+     Track quality 99.9 %
+     Copy CRC D1B1B83B
+     Copy OK
+
+Track  2
+     Filename D:\martin\music\easytree\aphex2005-04-08.flacf\aphex2005-04-08t02.wav
+
+     Peak level 41.0 %
+     Track quality 100.0 %
+     Copy CRC BFBCE5B7
+     Copy OK
+
+Track  3
+     Filename D:\martin\music\easytree\aphex2005-04-08.flacf\aphex2005-04-08t03.wav
+
+     Peak level 41.6 %
+     Track quality 100.0 %
+     Copy CRC DF51742F
+     Copy OK
+
+Track  4
+     Filename D:\martin\music\easytree\aphex2005-04-08.flacf\aphex2005-04-08t04.wav
+
+     Peak level 39.1 %
+     Track quality 100.0 %
+     Copy CRC 8966DDD6
+     Copy OK
+
+Track  5
+     Filename D:\martin\music\easytree\aphex2005-04-08.flacf\aphex2005-04-08t05.wav
+
+     Peak level 44.2 %
+     Track quality 99.9 %
+     Copy CRC 2F5FD920
+     Copy OK
+
+Track  6
+     Filename D:\martin\music\easytree\aphex2005-04-08.flacf\aphex2005-04-08t06.wav
+
+     Peak level 44.5 %
+     Track quality 100.0 %
+     Copy CRC D4A4B1A6
+     Copy OK
+
+Track  7
+     Filename D:\martin\music\easytree\aphex2005-04-08.flacf\aphex2005-04-08t07.wav
+
+     Peak level 40.6 %
+     Track quality 100.0 %
+     Copy CRC 10795B60
+     Copy OK
+
+Track  8
+     Filename D:\martin\music\easytree\aphex2005-04-08.flacf\aphex2005-04-08t08.wav
+
+     Peak level 41.4 %
+     Track quality 100.0 %
+     Copy CRC 87DC8DAB
+     Copy OK
+
+Track  9
+     Filename D:\martin\music\easytree\aphex2005-04-08.flacf\aphex2005-04-08t09.wav
+
+     Peak level 87.5 %
+     Track quality 100.0 %
+     Copy CRC 8B2DB416
+     Copy OK
+
+Track 10
+     Filename D:\martin\music\easytree\aphex2005-04-08.flacf\aphex2005-04-08t10.wav
+
+     Peak level 56.5 %
+     Track quality 100.0 %
+     Copy CRC A8A8F69E
+     Copy OK
+
+Track 11
+     Filename D:\martin\music\easytree\aphex2005-04-08.flacf\aphex2005-04-08t11.wav
+
+     Peak level 31.2 %
+     Track quality 100.0 %
+     Copy CRC 15A04958
+     Copy OK
+
+Track 12
+     Filename D:\martin\music\easytree\aphex2005-04-08.flacf\aphex2005-04-08t12.wav
+
+     Peak level 35.2 %
+     Track quality 99.9 %
+     Copy CRC 874E020E
+     Copy OK
+
+Track 13
+     Filename D:\martin\music\easytree\aphex2005-04-08.flacf\aphex2005-04-08t13.wav
+
+     Peak level 31.3 %
+     Track quality 100.0 %
+     Copy CRC DCA98A57
+     Copy OK
+
+No errors occured
+
+
+End of status report

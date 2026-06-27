@@ -1,0 +1,287 @@
+A Robert Collins Master Recording
+
+Artist:         Stevie Wonder  
+Date:           December 18, 1983 
+Location:       Circle Star Theater, San Carlos, CA (USA) 
+Seats:          In the round, exact location unknown 
+Deck:           Nakamichi 350 
+Mics:           Nakamichi CM-300 
+Source:         A:C Master Tape; Stereo 
+Sample Rate:    44.1Khz, 16-bit (FLAC) 
+Rating:         A- (first 90 minutes) / B+ (last 90 minutes) 
+Length:         187 Minutes 
+    
+Root directory: Place all files in: "C:\Stevie Wonder, Circle Star Theater, 1983-12-18 (CD, 44Khz, 16-bit)" 
+Artwork:        Included as "SureThing" compatible artwork, and PDF artwork. 
+CUE Sheets      Disc-1:  "Stevie Wonder, Circle Star Theater, 1983-12-18 (Disc 1,3).CUE"
+                Disc-2:  "Stevie Wonder, Circle Star Theater, 1983-12-18 (Disc 2,3).CUE"
+                Disc-3:  "Stevie Wonder, Circle Star Theater, 1983-12-18 (Disc 3,3).CUE"
+                Outtakes:
+                Disc-3 (Backfill Edition, see "Rowdy Audience" below):  "Stevie Wonder, Circle Star Theater, 1983-12-18 (Disc 3,3) (Backfill Edition).CUE"
+                Disc-3 (Original Edition, see "Rowdy Audience" below):  "Stevie Wonder, Circle Star Theater, 1983-12-18 (Disc 3,3) Original Edition).CUE"
+ 
+
+Musicians:      Stevie Wonder        Keyboard, Vocals, Harmonica
+                Nathan Watts         Bass
+                Ricky Lawson         Drums, Vocals ("The Human Mix")
+                Lenny Castro         Percussion
+                Michael O'Neal       Guitar
+                Ben Bridges          Guitar
+                Ronnie Foster        Keyboards, Sax
+                Bobby Malach         Sax
+                Larry Gittens        Trumpet
+                Susie Green          Vocals
+                Alexandria Brown     Vocals
+                Shirley Brewer       Vocals
+
+Guest Artist:   Jon Gibson           Vocals
+
+
+Notes: 
+Before anybody complains about the length of this description, I'll just say that I've waited 24 years before releasing an unbelievable concert 
+into the wild, and spent over 300 hours mastering it so you all could enjoy.  I figure that gives me the right to say as much as I want.
+
+----
+
+A friend called me up months before this concert and told me Stevie was playing up in San Francisco as a favor to Bill Graham. Stevie wasn't on tour, 
+but he was playing five or six nights, two shows a night. So I got tickets very late, and was sitting near the back of the auditorium. I was seeing 
+the late show on the last night -- the very last performance.
+
+After the first song, Stevie talks for about 10 minutes. He says the concert got bad reviews in the press. So Stevie wanted to do something different 
+this night. In addition to his normal songlist, Stevie sings Christmas songs, Jobim, James Brown, and other cover tunes of some of his favorite artists. 
+These aren't just cover tunes, these are insanely hot Stevie Wonder covers of these songs.  There are many surprises on this recording, including a 
+20-minute section of songs done in a Bossa-Nova style (including Silent Night, Girl From Ipanema, and his own Send One Your Love).
+
+When he's done having fun, he performs his own hits all the way from 1961 to present. But after listening to this show for a few years, there was 
+something that always really bugged me about it. Stevie wasn't on tour, yet, the band was the most over-rehearsed I had ever heard. Why would they 
+be this over-rehearsed I wondered? The answer came two years later, when Showtime aired a special concert: "Stevie Wonder -- Coming Home To Detroit." 
+This Detroit concert was recorded a few months after this concert, and it sounds like these shows were the rehearsals for the Showtime TV special.
+
+As you listen to this show, pay close attention to the "oldies." Stevie plays these songs nearly identically to his original Motown recordings. In 
+the many times I had seen Stevie before this show, he NEVER performed these songs in their original styles. This is why I concluded the band was so 
+over- rehearsed, and why they were practicing for the Detroit TV taping -- Stevie's hometown, where he hadn't played in 20 years. Surely his 
+hometown crowd would expect to hear these songs just as he had recorded them, so many years ago.
+ 
+There are too many great things about this concert to describe -- everything from the sound quality -- to the song list -- but there are also serious 
+problems.  So instead of describing why it's so good, I'll spend the remainder of the time describing the problems I faced during the re-mastering and 
+why it took 24 years to be released.
+
+----
+
+Levels & Equalization
+The recording levels were different on L/R channels.  This is relatively easy to fix if you know you shouldn't blindly boost the volume on the lower 
+channel on analog recordings -- as it would cause other problems.  Even worse, the equalization between L/R channels was different -- causing the c
+hannels to sound completely different than each other.  Making matters even worse, the equalization seemed to change for every song too. Thanks to 
+modern technology, software now exists to fix this type of problem.
+
+----
+
+Drop-outs
+I've stared at sonogram images of this concert for over 300 hours during this restoration project.  Due to it's age, there are probably hundreds 
+of drop-outs in this recording -- but you'll only be able to hear a small handful of them. 
+
+----
+
+Rowdy Audience
+During As, the audience around me began to unravel.  At the end of the concert, many people around me were trying so hard to get out of their 
+seats and rush down to the stage, that they were literally climbing over anybody in their way.  I was in their way and was knocked down twice.  
+The recording during this 2-minute 23-second section is not salvageable.  Therefore, I deleted this section, and created an alternate musical 
+transition -- one that most people won't even notice.  Enclosed in this release are two alternate versions of "As."  "As (Backfill Cut)" and 
+"As (Original Cut)" are the two alternate versions.  The backfill cut fills in the 2:23 minute section of my recording with an alternate, and 
+lesser quality recording of the same concert.  The original cut is my recording, as is, and you can hear me getting knocked around a few times.  
+When burning a CD, there are three separate CUE sheets that correspond to each of the versions of "As."  Use which ever version suits you best, 
+and burn with the CUE sheet provided.
+
+----
+
+Stolen Master
+The master tape of Volume-2 of this concert was stolen many years ago. The last 90 minutes of this show are taken from a 1st-Generation copy. 
+I did my best to make this 1st-Generation copy sound as good as the original, but it still doesn't sound as good as the first 90 minutes.  
+That's why the first 90 minutes is rated A- quality, and the last 90 minutes is rated B+ quality.  Some of the songs on this section range 
+from sounding 95% as good as the master, to only 75% as good.  The varying quality presented a huge problem for me during the mastering 
+process -- because my techniques literally had to change from song to song, and sometimes section to section within a song.
+
+----
+
+Tape Turns
+This was a long concert, and I didn't have the luxury of bringing more than two 90-minute tapes. I had to conserve tape space. As a result, 
+there are some bad tape turns -- where a song is cut off. Here are the tape turn locations, and how I fixed them (sort of).
+
+Tape-1, Side-1: Tape ended in the middle of Creepin.  By the time I turned the tape over, the song had changed styles. To fix this, I had 
+                to borrow a section of the song from an alternate recording of this same concert.
+Tape-1, Side-2: Turned the tape off as fast as I could after You Haven't Done Nothin' As a result, To fix this, I had to borrow a section 
+                of the song from an alternate recording of this same concert.
+
+----
+
+Audio quality
+The first 90 minutes is as near perfect as it can get.  However, the second 90 minutes (the "stolen master") is far less than perfect.  I had 
+to make many, MANY compromises while mastering the second half of the show.  Above all I favored music quality.  During quiet sections, sometimes 
+it wasn't possible to remove all of the hiss; so these sections may sound noisier than the rest of the tape.  During two "talking" sections, the 
+signal level was so low, and the noise was so high, that I had to revert to MONO just you could hear what was being said.  These sections are VERY 
+short; and as soon as the music begins, the noise goes away and the recording is back to full stereo.
+
+----
+
+I Finally ran out of tape
+This concert was 3+ hours long.  The concert started around 10PM, and lasted until 2:30 AM.  I didn't expect a 3+ hour concert, so I was 
+unprepared.  I ran out of tape during the very last song -- Happy Birthday -- about 30 second before the last note was played.
+
+----
+
+Special Thanks
+I owe the following people thanks for their support and/or help with this project.
+Dave Philips - Dave provided the alternate source material that allowed me to back-fill the missing pieces from my show (the pieces to fill 
+               the gaps during the tape turns).  Dave attended the same concert and also happened to record it.
+Musicians at this concert.  A few of the musicians at this show know about this recording and already have copies.  I've been friends with one 
+               of these musicians for many years now, and he's ecstatic about this re-mastering project.
+iZotope for support with their RX noise reduction product and giving pointers for noise-reducing the most difficult sections of this recording.  
+              Far better noise reduction software than any I've ever heard.
+My sister, and others at KVR Audio Forum for making suggestions for software techniques and purchases.
+My wife.  Anybody who can tolerate her husband spending 300+ hours spanning over three months of working in front of a computer and staring at 
+              sonograms of a single concert -- certainly deserves thanks.
+
+
+----
+
+Lineage:
+AUD> Nakamichi 350 (Master tape)
+---> Playback on Nakamichi 550 / Nakamichi Dragon
+---> Korg MR-1000 (capture at 96Khz, 24-bit)
+---> Sound Forge (adjust levels, tear it into mono L,R channels)
+---> iZotope RX spectrum editor to remove mic noise, squeeking chairs, etc.
+---> Har-Bal (Harmonic Balancing Equalizer)
+---> iZotope RX-Advanced (noise reduction, spectral editing)
+---> Sound Forge (put it back together, adjust levels)
+---> Adobe Audition 3.0 phase correction, spectral editing
+---> iZotope Ozone 3 (stereo imaging)
+---> iZotope RX-Advanced (downsample, dither)
+---> CD Architect (CD Audio)
+---> EAC
+---> FLAC
+
+----
+
+Song list:
+Disc-1
+       Start           End        Length  Name 
+------------  ------------  ------------  -------------------------- 
+00:00:00.000  00:05:09.477  00:05:09.477  See Love In Your Heart 
+00:05:52.682  00:15:29.759  00:09:37.077  Band Introductions 
+00:15:29.760  00:16:00.800  00:00:31.040  Tiger By The Tail 
+00:16:21.781  00:18:10.360  00:01:48.578  Jingle Bells 
+00:18:13.951  00:20:02.858  00:01:48.906  Merry Christmas Baby 
+00:20:02.858  00:23:34.229  00:03:31.370  Did I Hear You Say 'I Love You' 
+00:23:34.229  00:29:15.306  00:05:41.077  Superwoman 
+00:29:17.695  00:31:12.511  00:01:54.815  You And I 
+00:31:12.511  00:32:51.919  00:01:39.407  Too Shy To Say 
+00:32:51.920  00:37:28.015  00:04:36.095  Taboo To Love 
+00:37:28.015  00:40:00.594  00:02:32.578  Send One Your Love 
+00:40:00.594  00:43:01.695  00:03:01.101  Girl From Ipanema 
+00:43:01.695  00:44:09.775  00:01:08.079  Silent Night 
+00:44:09.775  00:45:21.263  00:01:11.487  I Can't Help It 
+00:45:21.263  00:49:27.919  00:04:06.655  Creepin 
+00:49:29.733  01:01:06.360  00:11:36.627  Ribbons In The Sky 
+01:01:26.349  01:05:10.533  00:03:44.184  Intro to 'Overjoyed' 
+01:05:10.533  01:09:22.650  00:04:12.117  Overjoyed 
+
+
+Disc-2:
+       Start           End        Length  Name 
+------------  ------------  ------------  -------------------------- 
+00:00:00.000  00:08:45.714  00:08:45.714  Fingertips / Motown Story 
+00:08:45.714  00:10:05.407  00:01:19.693  Uptight 
+00:10:05.407  00:12:55.031  00:02:49.623  For Once In My Life 
+00:12:55.031  00:16:42.612  00:03:47.581  I'm Black And I'm Proud 
+00:16:42.612  00:18:24.699  00:01:42.086  My Cherie Amour 
+00:18:24.699  00:20:03.207  00:01:38.507  Signed, Sealed, Delivered (I'm Yours) 
+00:20:03.207  00:22:16.239  00:02:13.031  Higher Ground 
+00:22:16.239  00:25:43.593  00:03:27.353  You Haven't Done Nothin' 
+00:25:43.593  00:26:54.617  00:01:11.023  Livin' For The City 
+00:26:54.617  00:35:46.370  00:08:51.753  We Can Get It Straight 
+00:36:00.783  00:45:04.181  00:09:03.397  Go Home 
+00:45:04.181  01:06:31.887  00:21:27.706  The Human Mix 
+01:06:31.887  01:07:26.433  00:00:54.545  Go Home (Reprise) 
+
+
+Disc-3:
+       Start           End        Length  Name 
+------------  ------------  ------------  -------------------------- 
+00:00:00.000  00:02:28.476  00:02:28.476  Sir Duke 
+00:02:28.476  00:05:39.316  00:03:10.839  I Wish 
+00:05:39.316  00:07:53.321  00:02:14.005  Isn't She Lovely 
+00:07:53.321  00:09:33.025  00:01:39.703  Sunshine Of My Life 
+00:09:33.025  00:13:54.590  00:04:21.565  Superstition 
+00:13:54.590  00:16:42.377  00:02:47.786  Campaign For Love 
+00:16:42.377  00:19:42.398  00:03:00.021  Introducing Jon Gibson 
+00:19:42.398  00:27:23.198  00:07:40.799  Ebony & Ivory 
+00:27:51.593  00:29:33.961  00:01:42.368  Audience Appreciation 
+00:29:33.961  00:35:08.159  00:05:34.197  As 
+00:35:08.159  00:37:04.895  00:01:56.735  Master Blaster Jamin' 
+00:37:28.447  00:47:48.911  00:10:20.464  Do I Do 
+00:48:10.669  00:50:44.639  00:02:33.969  Happy Birthday 
+
+
+MD5 Fingerprints:
+Disc-1:
+20743cc78bc5d0070c78af5fb9facb17 *        1.01 See Love In Your Heart.flac
+0fa00be37d563ff350e42e4938fbc20a *        1.02 Band Introductions.flac
+e5cc59c8b36c60ed03a9dc72b3bc4adb *        1.03 Tiger By The Tail.flac
+bafa5005409de6c44f5e026468066193 *        1.04 Jingle Bells.flac
+1f06182e4e1328b868a00c0593ab850d *        1.05 Merry Christmas Baby.flac
+25d79865b4be82354242c9c583ec6d30 *        1.06 Did I Hear You Say 'I Love You'.flac
+c848596c921d0726c663f3fed0dcd41d *        1.07 Superwoman.flac
+ad07f00b298867fd0e417443dd8379ab *        1.08 You And I.flac
+96d5c0415d5dcafadd41f80c63209535 *        1.09 Too Shy To Say.flac
+3783313f8745277a98d52545d2a8b207 *        1.10 Taboo To Love.flac
+d5d2d12124b271e6370a331d9fb8d122 *        1.11 Send One Your Love.flac
+e74960cc80aa92aac8da281ae6fea424 *        1.12 Girl From Ipanema.flac
+bbbc5736929bf09a6a3010998b01a9f7 *        1.13 Silent Night.flac
+e4329b5ae21c024f33cab1af5253113f *        1.14 I Can't Help It.flac
+184a36b73174d34e2a503eef846fa4bc *        1.15 Creepin.flac
+23c849a5074465966baa0bed066eea20 *        1.16 Ribbons In The Sky.flac
+5d5b2fc972ddc7c89ae139a6123d4bcb *        1.17 Intro to 'Overjoyed'.flac
+7ab0af62dbe483ad574ea2df09aea694 *        1.18 Overjoyed.flac
+
+Disc-2:
+6f0bf1f70e9238c0844f6393fb2760bc *        2.01 Fingertips - Motown Story.flac
+0ec7ac73c38d4f3b112d539f41234eb3 *        2.02 Uptight.flac
+71ef3bd29c5438a93577a63b0483cc82 *        2.03 For Once In My Life.flac
+a034d4ae05c5e375d0cf751f9254b882 *        2.04 I'm Black And I'm Proud.flac
+121c1a585fc54abda670d9c96249a9a7 *        2.05 My Cherie Amour.flac
+6af1e9283fac379ef3108dc55f34a82b *        2.06 Signed, Sealed, Delivered (I'm Yours).flac
+361cae60d90094a340d606bdab311fca *        2.07 Higher Ground.flac
+d6db5887f660e4aab81bb1734668958a *        2.08 You Haven't Done Nothin'.flac
+c1b8574b5c9f9f49c3a743a4971062dd *        2.09 Livin' For The City.flac
+d339617879291ebae99ca73b22f9ee06 *        2.10 We Can Get It Straight.flac
+797abff7a2e060f72999af26c187e92d *        2.11 Go Home.flac
+111606be0f8dfceb092edaabacf7024a *        2.12 The Human Mix.flac
+b59c5178b3e05d4bcaca016118070de6 *        2.13 Go Home (Reprise).flac
+
+Disc-3:
+0d2972600edba4c9fb96ba1688676324 *        3.01 Sir Duke.flac
+6a2b094523a0305c9cb852c2075c68ab *        3.02 I Wish.flac
+f15467f160231fb4491ca09ae1e0c64f *        3.03 Isn't She Lovely.flac
+865ec7673f20449debfd58f156be0e64 *        3.04 Sunshine Of My Life.flac
+770594fe69c622c71807f638f1ef4f27 *        3.05 Superstition.flac
+aa5af3c1341f46ea3f89d1c4419fa3e6 *        3.06 Campaign For Love.flac
+a5163fcb3ad70ff478d95603d29f39a4 *        3.07 Introducing Jon Gibson.flac
+d9247aeb3ad09eeed98d4c3db188a326 *        3.08 Ebony & Ivory.flac
+48ff94bf622febcf71388a1db1a74bd5 *        3.09 Audience Appreciation.flac
+59b0bea8992ee7fc353b37aae1f9444b *        3.10 As.flac
+d351c6e0b36f35e8b8746d970bc248a2 *        3.11 Master Blaster Jamin'.flac
+e1bede7dcce1990ecf912bd2d6bc4dea *        3.12 Do I Do.flac
+b878bbf367c212125ef2686f92fd0f3c *        3.13 Happy Birthday.flac
+
+Outtakes:
+5a2f41f44af390456b0d4b0136a8df3c *        As (Backfill Cut).flac
+f3426f2c6255e5006d48a0760968c533 *        As (Original Cut).flac
+
+
+
+
+
+
+
+
+

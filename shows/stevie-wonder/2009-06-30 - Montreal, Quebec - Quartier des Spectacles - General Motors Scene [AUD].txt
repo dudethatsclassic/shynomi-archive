@@ -1,0 +1,81 @@
+Stevie Wonder
+2009-06-30
+International Jazz Festival of Montreal
+30th Anniversary Grand opening
+Quartier des Spectacles General Motors Scene
+Montreal, Quebec
+Attendance between 150,000 to 200,000 people
+Recorded dead center at about 80 feet from the stage
+
+Core Sound Binaural mics
+Battery box (flat response) -> Edirol R-09HR -> 
+16 bit - 88.2 kHz > FLAC >
+Audacity > Roxio Easy Media Creator 9 > 
+CD Wave Editor > WAV 16 bit 48 kHz > FLAC
+
+What a day. Got to the location at noon. The gate opened up at 15h00. I recorded the sound check without and with
+Stevie Wonder. Will propably get them available in the near futur. Concert started 30 minutes late due to the rain.
+Concert was about 2 and a half hours long without intermission.
+A celebration of Michael Jackson carreer was on his schedule
+“I want for us to celebrate the life and the legacy of Michael Jackson,”
+Thanks to T for doing all the editing and mastering.
+
+Set List
+
+01. (applause greeting)
+02. I Can't Help It
+03. As If You Read My Mind
+04. Master Blaster
+            (Michael Jackson Official Release)*
+05. Did I Hear You Say You Love Me
+06. All I Do (Is Think About You)
+07. Michelle
+08. Knocks Me Off My Feet
+09. Check On Your Love
+10. The Way You Make Me Feel (Michael Jackson Official Release) (SW sings over}
+11. Higher Ground
+12. All Blues (Stevie Wonder on harmonica)
+13. Giant Steps
+14. Spain [Stevie playing Concerto de Aranjuez on harmonica, with each band member taking a chorus]
+15. Our Love is Here to Stay
+16. Don’t You Worry ‘Bout a Thing
+17. Overjoyed
+18. I'm Going to Laugh You Right Out of My Life (Aisha Morris singing)
+19. My Cherie Amour
+20. Signed, Sealed, Delivered (I'm Yours)
+21. Uptight (Everything's Alright)
+22. For Once In My Life
+23. Do I Do
+24. I Just Called To Say I Love You
+25. These Three Words
+26. Sir Duke / I Wish / Isn't She Lovely
+27. Superstition
+28. Jam - > Band Intro
+29. As
+            Montage (Michael Jackson Official release)*
+
+* Removed Official albums
+------------------------------------------------------------------------------------------------------
+T's notes
+
+This show was recorded by patpier.  He asked me if I would edit and master his recording.  His original WAV files were recorded at 16 bit 88.2 kHz.  He provided his recording to me in 2 FLAC files.
+
+I cleaned up the heads and tails of the recording.  I removed the official Michael Jackson recordings which were played through the PA except for "The Way You Make Me Feel" which I left in place because Stevie Wonder sang over the recording for almost half of the song.
+
+I used the equalizer in Roxio to boost the high frequencies.
+
+I reduced the volume of some of the loud clapping and increased the overall volume.  A couple of the songs and also when Stevie talks were at a very low volume.  I boosted those sections to acceptable levels.
+
+I resampled from 16 bit 88.2 kHz to 16 bit 48 kHz, spit into individual tracks, converted to FLAC and identified some of the song titles.
+
+July 3, 2009      T________
+
+
+
+
+
+
+
+
+
+

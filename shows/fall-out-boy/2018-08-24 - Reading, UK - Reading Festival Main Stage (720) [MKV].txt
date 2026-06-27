@@ -1,0 +1,163 @@
+Fall Out Boy
+Main Stage
+Reading Festival
+U.K.
+2018-08-24 (Friday)
+
+https://www.bbc.co.uk/events/e4c84f
+https://www.bbc.co.uk/events/e4c84f/acts/acj64f
+https://www.bbc.co.uk/events/e4c84f/play/acj64f/p06jg7v5
+
+https://ichef.bbci.co.uk/images/ic/416x234/p06jdhkb.jpg
+https://ichef.bbci.co.uk/images/ic/304x171/p06jdhp3.jpg
+
+also:
+http://ichef.bbci.co.uk/images/ic/128x72/p06jdhkb.jpg
+http://ichef.bbci.co.uk/images/ic/144x81/p06jdhkb.jpg
+http://ichef.bbci.co.uk/images/ic/192x108/p06jdhkb.jpg
+http://ichef.bbci.co.uk/images/ic/256x144/p06jdhkb.jpg
+http://ichef.bbci.co.uk/images/ic/384x216/p06jdhkb.jpg
+http://ichef.bbci.co.uk/images/ic/480x270/p06jdhkb.jpg
+http://ichef.bbci.co.uk/images/ic/624x351/p06jdhkb.jpg
+http://ichef.bbci.co.uk/images/ic/608x342/p06jdhkb.jpg
+http://ichef.bbci.co.uk/images/ic/640x360/p06jdhkb.jpg
+http://ichef.bbci.co.uk/images/ic/864x486/p06jdhkb.jpg
+http://ichef.bbci.co.uk/images/ic/944x531/p06jdhkb.jpg
+http://ichef.bbci.co.uk/images/ic/976x549/p06jdhkb.jpg
+http://ichef.bbci.co.uk/images/ic/1024x576/p06jdhkb.jpg
+http://ichef.bbci.co.uk/images/ic/1280x720/p06jdhkb.jpg
+http://ichef.bbci.co.uk/images/ic/1632x918/p06jdhkb.jpg
+http://ichef.bbci.co.uk/images/ic/1920x1080/p06jdhkb.jpg
+etc ...
+
+BBC Website Live Stream > AdobeHDS.php script > .flv > 
+VideoRedo TV Suite (version 5.3.83.763 (2018-02-21)) > mkv > mkvmergeGUI v86.0.0 (chapters) > .mkv file
+
+Video : 1280 x 720p / 50fps @ 4785kbps
+Video Codec : H.264/MPEG-4 AVC
+Aspect Ratio : 16:9
+BBC logo
+Audio track: AAC 48kHz @ 96kbps
+Length : 81:12
+
+md5:
+889637b7f168a11f962fad55616b160b *Fall Out Boy 2018-08-24 Reading Festival Main Stage 720p.mkv
+========================================================================
+
+Live Stream:
+  1. Introduction
+  2. Thriller
+  3. The Phoenix
+  4. Irresistible
+  5. Sugar, We're Goin Down
+  6. Immortals
+  7. Stay Frosty Royal Milk Tea
+  8. Disloyal Order Of Water Buffaloes
+  9. Uma Thurman
+ 10. The Last Of The Real Ones
+ 11. Save Rock And Roll
+ 12. Dance, Dance
+ 13. Wilson (Expensive Mistakes)
+ 14. Beat It
+ 15. Thnks fr th Mmrs
+ 16. I Don't Care
+ 17. This Ain't A Scene, It's An Arms Race
+ 18. Grand Theft Autumn/Where Is Your Boy
+ 19. Centuries
+Encore break
+ 20. My Songs Know What You Did In The Dark (Light Em Up)
+ 21. Saturday
+Total Time : [81:12]
+
+https://www.falloutboy.com/
+
+MediaInfo output:
+========================================================================
+General
+Unique ID                                : 322235422593962744910463850616504877321 (0xF26C48F29685D65D21CE5DD98A168109)
+Complete name                            : Fall Out Boy 2018-08-24 Reading Festival Main Stage 720p.mkv
+Format                                   : Matroska
+Format version                           : Version 4
+File size                                : 2.77 GiB
+Duration                                 : 1 h 21 min
+Overall bit rate                         : 4 883 kb/s
+Frame rate                               : 50.000 FPS
+Movie name                               : Fall Out Boy 2018-08-24 Reading Festival Main Stage
+Encoded date                             : 2024-08-18 13:31:24 UTC
+Writing application                      : mkvmerge v86.0 ('Winter') 64-bit
+Writing library                          : libebml v1.4.5 + libmatroska v1.7.1
+
+Video
+ID                                       : 1
+Format                                   : AVC
+Format/Info                              : Advanced Video Codec
+Format profile                           : High@L3.2
+Format settings                          : CABAC / 2 Ref Frames
+Format settings, CABAC                   : Yes
+Format settings, Reference frames        : 2 frames
+Format settings, Slice count             : 2 slices per frame
+Codec ID                                 : V_MPEG4/ISO/AVC
+Duration                                 : 1 h 21 min
+Bit rate                                 : 4 785 kb/s
+Width                                    : 1 280 pixels
+Height                                   : 720 pixels
+Display aspect ratio                     : 16:9
+Frame rate mode                          : Constant
+Frame rate                               : 50.000 FPS
+Color space                              : YUV
+Chroma subsampling                       : 4:2:0
+Bit depth                                : 8 bits
+Scan type                                : Progressive
+Bits/(Pixel*Frame)                       : 0.104
+Stream size                              : 2.71 GiB (98%)
+Language                                 : English
+Default                                  : No
+Forced                                   : No
+Color range                              : Limited
+Color primaries                          : BT.709
+Transfer characteristics                 : BT.709
+Matrix coefficients                      : BT.709
+
+Audio
+ID                                       : 2
+Format                                   : AAC LC SBR
+Format/Info                              : Advanced Audio Codec Low Complexity with Spectral Band Replication
+Commercial name                          : HE-AAC
+Format settings                          : Explicit
+Codec ID                                 : A_AAC-2
+Duration                                 : 1 h 21 min
+Bit rate                                 : 96.0 kb/s
+Channel(s)                               : 2 channels
+Channel layout                           : L R
+Sampling rate                            : 48.0 kHz
+Frame rate                               : 23.438 FPS (2048 SPF)
+Compression mode                         : Lossy
+Stream size                              : 55.0 MiB (2%)
+Language                                 : English
+Default                                  : Yes
+Forced                                   : No
+
+Menu
+00:00:00.000                             : en:Introduction
+00:01:07.000                             : en:Thriller
+00:04:35.000                             : en:The Phoenix
+00:08:54.000                             : en:Irresistible
+00:12:51.000                             : en:Sugar, We're Goin Down
+00:16:29.000                             : en:Immortals
+00:20:22.000                             : en:Stay Frosty Royal Milk Tea
+00:23:24.000                             : en:Disloyal Order Of Water Buffaloes
+00:27:29.000                             : en:Uma Thurman
+00:32:09.520                             : en:The Last Of The Real Ones
+00:36:08.000                             : en:Save Rock And Roll
+00:41:20.000                             : en:Dance, Dance
+00:44:33.000                             : en:Wilson (Expensive Mistakes)
+00:48:26.000                             : en:Beat It
+00:51:38.000                             : en:Thnks fr th Mmrs
+00:55:03.000                             : en:I Don't Care
+00:58:44.000                             : en:This Ain't A Scene, It's An Arms Race
+01:02:28.000                             : en:Grand Theft Autumn/Where Is Your Boy
+01:07:10.000                             : en:Centuries
+01:11:00.000                             : en:Encore break
+01:13:22.000                             : en:My Songs Know What You Did In The Dark (Light Em Up)
+01:16:35.000                             : en:Saturday
+========================================================================

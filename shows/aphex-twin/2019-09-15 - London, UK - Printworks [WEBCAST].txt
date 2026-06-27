@@ -1,0 +1,11 @@
+Aphex Twin
+Redbull Music Festival
+Printworks
+London, United Kingdom
+September 15, 2019
+
+Linage: LIVE Webcast (Redbull TV) -> Streamlink -> ffmpeg (edit) -> uncompressed .ts
+Video: MPEG4 Video (H264) 1920x1080 16:9 7056 Kbps 30.00 fps
+Audio: AAC 157 Kbps 48.0 KHz stereo
+
+TRT = 02:00:57

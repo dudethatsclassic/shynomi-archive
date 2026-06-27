@@ -1,0 +1,33 @@
+HELMET
+November 11, 2007
+Jaxx
+Springfield, VA
+
+Source: AKG CK91 (mod) > Church Audio ST-9100 > iRiver H120
+Location: mics on seven foot stand at SBD, left-of-center, X-Y
+Taper: CPS
+Lineage: WAV(M) [44.1] > FLAC
+Edits/EQ: 0:00:06, 0:00:42-0:00:50, 0:01:57 limiter @ -5dB, +1.5dB
+Notes: none
+
+01 - I Know
+02 - See You Dead
+03 - Crashing Foreign Cars
+04 - FBLA
+05 - Wilma's Rainbow
+06 - On Your Way Down
+07 - Birth Defect
+08 - Swallowing Everything
+09 - Street Carb
+10 - Milquetoast
+11 - Better
+12 - Bury Me
+13 - Unsung
+14 - Sinatra
+15 - Give It
+16 - Blacktop
+17 - Ironhead
+18 - In The Meantime
+
+
+Compiled September 2020 by CPS

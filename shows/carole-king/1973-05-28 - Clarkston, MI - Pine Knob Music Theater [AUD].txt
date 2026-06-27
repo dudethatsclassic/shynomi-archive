@@ -1,0 +1,106 @@
+Carole King
+Pine Knob Music Theater, Clarkston, MI
+May 28, 1973
+
+Source : Audience recording > 1st generation cassette (courtesy of M.R. archive)
+
+Transfer : Zoom H4n (16 bit/44.1 kHz)
+
+SHNtool (fixed SBEs; joined WAVs) > Cool Edit Pro 2.0 > CD Wave (track splits) > TLH (WAV > FLAC8).
+
+Tracking, set list & flac'd by elegymart
+
+Traders Den 1/4/19 - posted by kingrue 1754
+----------------------------------------------
+
+The tape was originally marked as (early 1974), but it was quickly verified as the May 28, 1973 show.
+
+In the past there were higher gen copies floating around.  This 1st generation cassette is clearly a major upgrade.
+
+She only played about a dozen dates on this tour, so it was not extensive by any means, and throughout the show she talks about playing new songs from the new album ("Fantasy") which was released in June 1973. Had it been early 1974, I don't think she would be referring to it as the recent or new album, because that would be a half year or more later. Her next album was released in September 1974.
+
+At this show, she starts off playing "Tapestry" songs and some older material, introduces the band, then plays tracks from the new album, then returns for encores (older songs). That pretty much sums it up. She doesn't mix up the setlist by alternating new material with the old. 
+
+David T. Walker and his group opened, then were the backing band for Carole. The band included Charles Larkey on electric bass, formerly of the Myddle Class, the Fugs, Jo Mama, the City with CK, and who was CK's husband at this time.
+
+I've included a newspaper review and advertisement inside the torrent folder.
+
+A big thanks to M.R. for obtaining this 1st gen, so many years ago and additional thanks goes to elegymart for assisiting with the tracking, set list and notes.
+
+Check samples for quality.
+
+
+Band line-up:
+Carole King - vocals, piano
+David T. Walker - guitar
+Clarence McDonald - electric piano
+Charles Larkey - bass guitar
+Harvey Mason, Sr. - drums
+Bobbye Hall - percussion
+Tom Scott - saxophone, flute
+Mike Atschul - saxophone, flute
+George Bohanon - trombone, euphonium
+Richard Hyde aka "Slyde" - trombone
+Gene Goe - trumpet, flugelhorn
+Oscar Brashear - trumpet
+
+
+Set list:
+01 Beautiful [2:18] 
+02 Been to Canaan [3:58]
+03 Way Over Yonder [4:20]
+04 Smackwater Jack [3:20]
+05 Home Again [2:51]
+06 Sweet Seasons [3:16] 
+07 It's Too Late [4:28]
+08 band introductions [1:22]
+09 Fantasy Beginning [1:01] > 
+10 You've Been Around Too Long [3:07] 
+11 Horn section introductions [1:00]
+12 Being at War with Each Other [3:55]
+13 That's How Things Go Down [3:53]
+14 Haywood [4:28] >
+15 A Quiet Place to Live [1:17]
+16 You Light Up My Life [3:21]
+17 Corazón [3:45] > 
+18 Believe In Humanity [3:05] > 
+19 Fantasy End [1:30]
+20 You've Got A Friend [5:44]
+21 So Far Away [3:20]
+22 (You Make Me Feel Like) A Natural Woman [4:46]
+
+Total Time = 70:16
+
+~~ ENJOY ~~
+
+---------------------------
+
+ffp:
+
+01 Beautiful.flac:47cfc4c9735e922b864a0ec3efabd2d2
+02 Been to Canaan.flac:a1650143ad16347613afa7c86b72d7c3
+03 Way Over Yonder.flac:248df044e2d88e8ef1ea7cc013372927
+04 Smackwater Jack.flac:e6207f58e6fd054802569f1f49bafd6d
+05 Home Again.flac:64154c51966ab2ddddf1cf2866c5fa38
+06 Sweet Seasons.flac:5314c0621bd58924c766deb513b38047
+07 It's Too Late.flac:25b8fbf9d9f6e91154e5ed62e0b3fa2a
+08 band introductions.flac:80dca8a8d5e986447dc5da385135e53b
+09 Fantasy Beginning.flac:1cd2bc93c5d08565ab52d036092dea31
+10 You've Been Around Too Long.flac:aff262905d42cad5e2a4a4479296e35a
+11 horn section introductions.flac:6c1050b219f3c15247a9eb6ba5e110c8
+12 Being at War with Each Other.flac:a2f740ba0eb58dbc14750e77aedfc225
+13 That's How Things Go Down.flac:e9da282a32150ee100bbb0ec205069d4
+14 Haywood.flac:856df643ebeb54fbeb988b45035e916b
+15 A Quiet Place to Live.flac:8867544c534e1cd8e49ecf10d0c7e4aa
+16 You Light Up My Life.flac:6c194d28dd427af5a8ea7fa9d37ac94a
+17 Corazon.flac:eca862da58be300e423bbef32e0b6854
+18 Believe In Humanity.flac:e5f3eaa5c5e6d25629a32a773c7cae88
+19 Fantasy End.flac:c9871667179684ed535afbfedb0274a4
+20 You've Got A Friend.flac:204c8443dd1a9327d28448b89b929179
+21 So Far Away.flac:07adbf549d53432e513eebebcf94dd39
+22 (You Make Me Feel Like) A Natural Woman.flac:e446b43d43ed4bbeea653cb600377e45
+
+No errors occured.
+
+Create checksum file log saved to file.
+

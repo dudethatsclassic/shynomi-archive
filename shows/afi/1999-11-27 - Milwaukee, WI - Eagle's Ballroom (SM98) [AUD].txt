@@ -1,0 +1,26 @@
+AFI
+November 27, 1999
+Eagles Ballroom
+Milwaukee, WI
+
+Source: Shure SM98 > Shure 94A1670 > Sony TCD-D8
+Location: fifteen feet from left PA
+Taper: CPS
+Lineage: DAT(M) > WAV [48] > WAV [44.1] > FLAC
+Transfer: Tascam DA-20mkII > M-Audio Audiophile 2496 > Sound Forge
+Edits/EQ: raised low levels first 90 seconds
+Notes: opening for Samhain
+
+01 - intro
+02 - Strength Through Wounding
+03 - I Wanna Mohawk
+04 - Malleus Maleficarum
+05 - File 13
+06 - Advances in Modern Technology
+07 - Hearts Frozen Solid
+08 - He Who Laughs Last
+09 - God Called In Sick Today
+10 - Fall Children
+
+
+Compiled April 2019 by CPS

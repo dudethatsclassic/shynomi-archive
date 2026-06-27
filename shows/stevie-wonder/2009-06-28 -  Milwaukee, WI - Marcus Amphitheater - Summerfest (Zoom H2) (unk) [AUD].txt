@@ -1,0 +1,162 @@
+Stevie Wonder with special guest John Legend
+Marcus Amphitheater
+Summerfest
+Milwaukee, Wisconsin
+Sunday June 28, 2009
+
+Location: Section 2, Row J, Center-Left
+
+Lineage: Zoom H2 rear internal 120 Degree pattern mics @ 16k/44.1, Low-gain setting and 100 record level > WAV file on SD Card > Transfer to PC (Card Reader) > Audacity (Normalize Volume, Fade-In, Fade-Out, Split tracks) > WAV Files > dBpowerAMP (Convert to Apple Lossless, verified option ticked to ensure integrity) > iTunes (tag & name files) > dBpowerAMP (FLAC Level 5, verified option tickeed to ensure integrity) > Your Ears
+
+-------------------------------------------------------------------------------------------
+
+An amazing, rare show for any R&B fan. The two have performed together at the BET 2005 Awards, and John Legend joined Stevie at one of Stevie's annual House Full Of Toys shows in Los Angeles, but this is their first time teaming up for a show as far as I know.
+
+I was a bit worried Stevie may not show up. Michael Jackson died three days earlier, and Stevie didn't issue a statement because, according to his publicist, he was distraught. John Legend was a big enough name to carry the show on his own as well, so with that crutch, I figured Stevie may have taken the day off. Plus, the BET awards were on the same night as this concert, and Stevie is a staple of the network. I figured he may ditch his gig for a tribute or something. He did perform a concert on Friday the 26 in Kansas as scheduled, so my fears eased up a bit. Luckily, the show went on as planned. And it was pretty damn good.
+
+The MJ tracks (other than I Can't Help It and We Are The World) are not performances, rather Stevie just celebrating and mourning MJ on stage. The ending medley or Jackson songs was the band dancing, singing and celebrating with the crowd. I figured I'd leave them in as Jackson's other boots are on here which are a good portion of playback.
+
+This is my first recording, recorded on the low-cost (but certainly capable and efficient) Samson Zoom H2. I was center-left about ten rows back from the stage. I was closer to the left speaker stack that hangs from the rafters. I thought there was no way in hell I'd get anything other than a distorted mess. I was wrong. I am amazed at the quality that this low-cost recorder gave me. The sound at the Marcus Amphitheater, quite frankly, sucks. I can enjoy the concert better with these files than I could live, at least as far as clairty goes. The volume is low, and normalizing didn't do a lot of help since there was very slight clipping (A single split-second of clipping over an entire recording will prevent effective normalizing). However, you can easily fix this on your own, I'd rather just let people adjust things on their own.
+
+But the show was amazing. John Legend had a  really good one-hour opening, and Stevie tore it up next. It was a long show... about four hours, over 3 hours after waiting and the intermission. And it was very emotional.
+
+Rest In Peace Michael Jackson, gone but never forgotten.
+
+-------------------------------------------------------------------------------------------
+
+Setlist:
+
+John Legend Set: Disc 1
+
+01. Opening
+02. Used To Love U
+03. Satisfaction
+04. It's Over
+05. Alright
+06. Interlude
+07. Quickly
+08. Let's Get Lifted
+09. Slow Dance
+10. No Other Love
+11. Save Room
+12. Good Morning
+13. I Can Change
+14. I Want You (She's So Heavy)
+15. Everybody Knows
+16. Ordinary People
+17. I Love, YOu Love
+18. So High
+19. Green Light
+
+Stevie Wonder Set: Disc 2 & 3 (Recommended Split after "Don't You Worry 'Bout A Thing")
+
+01. Stevie Wonder Speech
+02. Ordinary People with John Legend
+03. Love's In Need Of Love Today
+04. Shake Your Body (Down To The Ground) *
+05. Did I Hear You Say You Love Me
+06. All I Do
+07. Knocks Me Off My Feet
+08. Interlude
+09. I Can't Help It with John Legend **
+10. The Way You Make Me Feel
+11. Higher Ground
+12. Spain
+13. Don't You Worry 'Bout A Thing
+---------------------------------
+14. Interlude
+15. Untitled Song Dedicated To Michael Jackson with John Legend ***
+16. My Cherie Amour
+17. Yester-Me, Yester-You, Yesterday
+18. Uptight (Everything's Alright)
+19. For Once In My Life
+20. Signed, Sealed, Delivered I'm Yours
+21. Living For The City
+22. Interlude
+23. Overjoyed
+24. I'm Gonna Laugh You Right Out Of My Life (Performed By Aisha Morris)
+25. Isn't She Lovely
+26. I Just Called To Say I Love You
+27. Superstition with John Legend
+28. "We Love You Michael Jackson"
+29. We Are The World with John Legend
+30. Band Introductions
+31. ABC
+32. Got To Be There
+33. Never Can Say Goodbye
+34. Shake Your Body (Down To The Ground)
+35. Rock With You
+36. Billie Jean
+37. The Way You Make Me Feel
+38. Man In The Mirror (Outro)
+
+*Notes*
+ 
+* - Nathan Watts plays bays along with the playback. Nathan Watts, Stevie's longtim bass players, also played bass on the original recording by The Jacksons which appeared on their "Destiny" album.
+
+** - Stevie wrote this song for Michael Jackson and it appeared on Jackson's "Off The Wall" album. Stevie has performed it before, but it's usually a more jazzy version. Here, he performs it the way Quincy Jones produced it for Jackson.
+
+*** - This is an original composition that Stevie has felt inspired to debut in the wake of Jackson's death. He has not finished it yet, as you can tell by the way he just sort of hums some of the lyrics.
+
+-------------------------------------------------------------------------------------------
+
+; flac fingerprint file generated by Trader's Little Helper
+; generated on June 29, 2009, at 16:06:01
+
+1-01 Opening.flac:4a6930d75e6b0708ea6afd24d0499726
+1-02 Used To Love U (Live).flac:6db07971ce402239ad5df97dc23d7937
+1-03 Satisfaction (Live).flac:5b72d0d485e049680ebb9310b40a51e5
+1-04 It's Over (Live).flac:799cd5ac31d0c9020a9e1a77fb54b921
+1-05 Alright (Live).flac:6e0ea73e216b23d728e8e2f4c4751400
+1-06 Interlude.flac:79bce184dc794dc82f74b7a303181223
+1-07 Quickly (Live).flac:52211e78ff682ef3870bad24e7bcd413
+1-08 Let's Get Lifted (Live).flac:e227916f84247b4b4e9a1b0566a46738
+1-09 Slow Dance (Live).flac:636e4243f8a466a4bb62a3fe1ea3cdaa
+1-10 No Other Love (Live).flac:fef2c894117b1635c1ac7786ce42c5cf
+1-11 Save Room (Live).flac:2ed6aad2b66d6e74ee7cf32cccc72280
+1-12 Good Morning (Live).flac:7758960cbaa80bce5fe1ca1f3b044498
+1-13 I Can Change (Live).flac:bcaa27f7180b2c575872b632227a5786
+1-14 I Want You (She's So Heavy) (Li.flac:7907d74362832c375418dc9b7343420d
+1-15 Everybody Knows (Live).flac:5c99039c66a682e56706c8c5660a1813
+1-16 Ordinary People (Live).flac:502117996cf795cbbaf0ad82ba005dad
+1-17 I Love, You Love (Live).flac:38349d288eb0102772b8a2a6d3aa9876
+1-18 So High (Live).flac:bc218d2469b08bcf510ed222e0f5a6a6
+1-19 Green Light (Live).flac:cbeadf5c4500d5392c94416dffacfa97
+2-01 Stevie Wonder Speech.flac:99a965796ac623cc82613a901427f2e0
+2-02 Ordinary People feat. John Lege.flac:14b760942556089c827d091807372b0c
+2-03 Love's In Need Of Love Today (L.flac:9352138038f866edbdcd55e6a18ebf49
+2-04 Shake Your Body (Down To The Gr.flac:a96759d1cf89664c12d19fc5108cfcd4
+2-05 Did I Hear You Say You Love Me.flac:b3f86a1cca2d25994fed81bf0e3bd3a9
+2-06 All I Do (Live).flac:f373677275e562a412fb9cb1fca9036d
+2-07 Knocks Me Off My Feet (Live).flac:9e852788555ab52a69d91e7f6fb6e5aa
+2-08 Interlude.flac:0e5ed18323f54689874da38971de144c
+2-09 I Can't Help It feat. John Lege.flac:58750186ef0c787fab95e32668ebda36
+2-10 The Way You Make Me Feel.flac:f71ff076d08245c0bbdcac666b813172
+2-11 Higher Ground (Live).flac:25cc61a31f3464e951d49666dd66cd0e
+2-12 Spain (Chick Corea Cover) (Live.flac:f2410a6f139d143e9650e9c7a8985b08
+2-13 Don't You Worry 'Bout A Thing (.flac:b8dcdc039778a5ab5d261a587388bc0e
+3-01 Interlude.flac:f08db74c78aef1a1c1219bd1c28801d6
+3-02 Michael Jackson Dedication feat.flac:d07a64e7f06be3909afd7a582e1e12c0
+3-03 My Cherie Amour (Live).flac:70b13588d36b853ffed964fc6aa1a5bb
+3-04 Yester-Me, Yester-You, Yester-D.flac:4e32d83d26bdf67b0e53a8a14177e096
+3-05 Uptight (Everything's Alright).flac:3174aeef1ed19c6af56f9e24e42f2ac0
+3-06 For Once In My Life (Live).flac:d71131f8dd7bda60d465dfe815802696
+3-07 Signed, Sealed, Delivered I'm Y.flac:a8e0f2e26d768fd91c1aca78a2855f97
+3-08 Living For The City (Live).flac:28905277d69dcbd11f8469279f04a609
+3-09 Interlude.flac:26e66a8d29a32e4c53b8b4246439ea0f
+3-10 Overjoyed (Live).flac:9cc9059e8701c6168d5bc50567e37480
+3-11 I'm Gonna Laugh You Right Out O.flac:e5d79cb8ef67697e1a7c4b8fb4894b50
+3-12 Isn't She Lovely (Live).flac:693146bbcb486a17bca9ee724aaf0421
+3-13 I Just Called To Say I Love You.flac:b67d2f78d09ece186750ec421a2223f5
+3-14 Superstition feat. John Legend.flac:66cc79dc6be5164171a084849088fe59
+3-15 We Love You Michael Jackson.flac:12cdd74c35dae4a673f8eeee59ad86fa
+3-16 We Are The World feat. John Leg.flac:e9309b80f135a21071b8b46b43eccf84
+3-17 Band Introductions.flac:ef680d08ae89909a41f8063d7a5243df
+3-18 ABC.flac:e373e193487f2d9a1b2573788b9a2ffc
+3-19 Got To Be There.flac:e91e591941f3da735e0fc0b49f2910b4
+3-20 Never Can Say Goodbye.flac:74b07d88013beec095b8b3d7b2fced63
+3-21 Shake Your Body (Down To The Gr.flac:84b9c7526b044574304aea189ef91cd0
+3-22 Rock With You.flac:b6e5dc9992886dde822b37f11c67023b
+3-23 Billie Jean.flac:a95b48567bc72de3eb62daf87e32f13c
+3-24 The Way You Make Me Feel.flac:797df0f4657481e96806685c79f4f7cb
+3-25 Man In The Mirror (Outro).flac:48ee15f5acc87cd9e7e5c60047676945

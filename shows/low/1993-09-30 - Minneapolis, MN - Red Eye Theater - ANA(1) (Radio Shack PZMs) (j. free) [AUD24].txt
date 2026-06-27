@@ -1,0 +1,74 @@
+Low
+Minneapolis, MN
+Red Eye Theater
+Thursday 30 September 1993
+stereo audience recording
+24/48 analog > digital transfer from edited 1st-gen cassette
+duration (45:09.73)
+
+[01] Sea (02:08.57)
+[02] Cut (06:40.14)
+[03] Words (06:21.10)
+[04] Slide (04:22.05)
+[05] Fear (02:43.18)
+[06] Lazy (06:20.11)
+[07] Drag (05:38.72)
+[08] You Are My Sunshine [unknown] (03:15.16)
+[09] Down (07:40.18)
+
+Bill:
+Low
+Azalia Snail
+Lisa Raye
+
+Thanks to Alan for getting in touch with me in 2024, which reminded me about this and a few other related recordings I hadn’t gotten to yet. Some times it just takes a gentle nudge to get these things moving along.
+
+• • • •
+
+This is an alternate version of a fileset which was previously uploaded to LMA in 2007 - from the same source recording, and which can be found HERE ON LMA <https://archive.org/details/Low1993-09-30.flac16>. The previous 16-bit upload appeared to be at least one or more generations removed from the source, whereas this is a 24-bit Azimuth-optimized transfer from a 1st-gen copy I made for myself shortly after the performance, so the band could be provided with the original master cassette. So, this is the closest there is to a master, apart from the actual master cassette I gave to the band in 1993.
+
+The editing involved during the initial tape transfer simply refers to the removal of dead space between songs, minimizing the volume of the audience / applause following each song, as those levels were initially much louder than the music.
+
+There *may* have been some introductions or comments by members of the group which were possibly removed during the initial tape transfer, but if so, it would have been minimal, to preserve the continuity of the music in its austerity.
+
+Thankfully, the audience remained nearly silent during the music being performed.
+
+• • • •
+
+These comments are from 2013, when I first discovered the previous upload of this show, and had posted this addition al information. For some curious reason, they are no longer there.
+
+Reviewer: Ground-Hog - - June 30, 2013
+Subject: Hello from the taper of this show
+Hi. I only just discovered this posting of my Low recording (in June 2013), so I would like to add a few details.
+
+1) Red Eye Theater was not in St. Paul, MN, but was in Minneapolis, MN. It was located on 15th St between Nicollet Avenue and LaSalle Avenue. The venue was curated by Chris Strouth. The other artists on the bill, who were also recorded, were Lisa Raye (of the band Big Red Ball), and Azalia Snail. The fact that this performance was recorded is owed to Lisa Raye, who was a friend of mine. I had accompanied her to the venue to record her set, and she thought I should record Low, who were relatively unknown at the time. She introduced me to the band, and they gave me permission to record them.
+
+2) The recording of Low was made from the stage area where the band performed. They allowed me to set up my mics and equipment right in front of them, as they were interested in the possibility of a natural acoustic recording. That is why the audience sounds are minimal. I was using a pair of Radio Shack/Tandy PZM mics, connected to a home stereo cassette deck, via a small 4-channel potentiometer, which served as a mixer/pre-amp/conduit.
+
+3) This recording as it is posted on LMA, seems to have gone through a few hands in a very short time. Apparently I made a copy of the tape for someone who circulated it, and it eventually ended up on LMA, although I can't account for the difference in the sound quality which has transpired beyond the original recording. The sound quality of the version which has been posted here online is somewhat distorted, and it seems as though it has been edited by someone, although not by me [I’ve since realized that I had edited the 1st-generation copy]. I have the original cassette sitting in front of me as I write this, which I have never digitized, and the performance was recorded in its' entirety. As time allows, I will digitize the cassette in 24/96 on a NAK deck, with Azimuth optimization applied to the playback head, and upload it to LMA.
+
+Cheers,
+J. Free
+Sonic Archives
+
+• • • •
+
+This fileset is a raw 24 bit / 48kHz analog > digital transfer made in 2024, from a 1st-gen edited copy made in 1993.
+
+This is definitely an audience recording recorded on a portable recording deck with an external mic - there is no SBD feed in the mix.
+
+Recorded / transferred / tracked / edited / tagged by: J.Free / Sonic Archives [sonicarchives.com]
+
+This fileset is a raw 24 bit / 48kHz analog > digital transfer from a 1st-generation edited copy; no processing has been applied during this transfer.
+
+Source:
+2 Radio Shack / Tandy PZMs (placed on the stage floor directly in front of the group) > small mixer [likely a TEAC 2A] > unidentified home stereo deck [most likely a Sony TC-W345 Double Cassette Deck] > master cassette > 1st-generation edited copy
+
+Lineage:
+2-channel stereo cassette > Nakamichi LX-3 cassette deck [Azimuth adjustment applied to playback head] > Edirol R-04 [RCA/analog in; 24-bit/48kHz transfer (.wav)] > PC [via USB] > CD Wave Editor (sector boundary tracking) > Trader's Little Helper (Level 8 .wav > .flac conversion, .ffp)
+
+• • • •
+
+On this date in 1993, the #1 Song in the US was Dreamlover by Mariah Carey
+
+• • • •

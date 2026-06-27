@@ -1,0 +1,173 @@
+Live
+House of Blues
+Las Vegas
+24 October 1999
+
+This is a "In Concert" radio show directly from the original radio station CDs. It runs 55:13. 
+The first track is the announcer intro and the last track is a commercial for the broadcast, so you can omit those if you wish. 
+CD > EAC > FLAC 6. No artwork. 
+
+Track listing:
+
+Where the Fishes Go
+Operation Spirit
+All Over You
+Selling the Drama
+The Distance
+Heropsychodreamer
+The Dolphin's Cry
+Lakain's Juice
+Run to the Water
+Lightning Crashes
+I Alone
+Dance With You
+
+EAC extraction logfile from 17. December 2006, 15:35 for CD
+Unknown Artist / Unknown Title
+
+Used drive  : _NEC    DVD_RW ND-3520A   Adapter: 1  ID: 0  LUN: 0
+Read mode   : Secure with C2, accurate stream, NO disable cache
+Read offset correction : 0
+Overread into Lead-In and Lead-Out : No
+
+Used output format : C:\Documents and Settings\Owner\My Documents\flac112a.exe   (User Defined Encoder)
+                     128 kBit/s
+                     Additional command line options : -8 -V -T "artist=%a" -T "title=%t" -T "album=%g" -T "date=%y" -
+
+Other options      : 
+    Fill up missing offset samples with silence : Yes
+    Delete leading and trailing silent blocks : No
+    Installed external ASPI interface
+
+
+Track  1
+   Filename G:\Track01.wav
+
+   Peak level 99.9 %
+   Track quality 100.0 %
+   Copy CRC 1BC00325
+   Copy OK
+
+Track  2
+   Filename G:\Track02.wav
+
+   Peak level 66.5 %
+   Track quality 100.0 %
+   Copy CRC B02AF827
+   Copy OK
+
+Track  3
+   Filename G:\Track03.wav
+
+   Peak level 63.8 %
+   Track quality 100.0 %
+   Copy CRC ED0481DD
+   Copy OK
+
+Track  4
+   Filename G:\Track04.wav
+
+   Peak level 61.1 %
+   Track quality 99.9 %
+   Copy CRC 46F57EFC
+   Copy OK
+
+Track  5
+   Filename G:\Track05.wav
+
+   Peak level 76.7 %
+   Track quality 99.8 %
+   Copy CRC 8D535434
+   Copy OK
+
+Track  6
+   Filename G:\Track06.wav
+
+   Peak level 60.4 %
+   Track quality 100.0 %
+   Copy CRC A5AE229A
+   Copy OK
+
+Track  7
+   Filename G:\Track07.wav
+
+   Peak level 69.6 %
+   Track quality 99.8 %
+   Copy CRC 47102DEF
+   Copy OK
+
+Track  8
+   Filename G:\Track08.wav
+
+   Peak level 66.7 %
+   Track quality 100.0 %
+   Copy CRC D600118E
+   Copy OK
+
+Track  9
+   Filename G:\Track09.wav
+
+   Peak level 70.3 %
+   Track quality 99.9 %
+   Copy CRC 9FB1AC3B
+   Copy OK
+
+Track 10
+   Filename G:\Track10.wav
+
+   Peak level 58.3 %
+   Track quality 99.9 %
+   Copy CRC 09EF1FE7
+   Copy OK
+
+Track 11
+   Filename G:\Track11.wav
+
+   Peak level 60.7 %
+   Track quality 100.0 %
+   Copy CRC 0484E882
+   Copy OK
+
+Track 12
+   Filename G:\Track12.wav
+
+   Peak level 62.5 %
+   Track quality 100.0 %
+   Copy CRC 9D3B3C90
+   Copy OK
+
+Track 13
+   Filename G:\Track13.wav
+
+   Peak level 47.8 %
+   Track quality 100.0 %
+   Copy CRC 145505A0
+   Copy OK
+
+Track 14
+   Filename G:\Track14.wav
+
+   Peak level 80.1 %
+   Track quality 100.0 %
+   Copy CRC 83A3C54D
+   Copy OK
+
+No errors occured
+
+
+End of status report
+
+Track01.flac:cf6db8d7541e029d6060173f2ad384fa
+Track02.flac:e522efed04b867fdf6f12899de312c55
+Track03.flac:e8c209ad7aad90715db2238f54085628
+Track04.flac:5c3b155855f829e3298f47019d76f3be
+Track05.flac:5c1fe30bb0244ed2ee1eed20e8249cfc
+Track06.flac:2d6ae678c8a536b54a57b0a2e081449e
+Track07.flac:3f17b7ce3e7970024a083446e7c8cc69
+Track08.flac:f1faa6fa12e157035893da6ff318a39b
+Track09.flac:bb6dfec49236e14627ed12bfdddbc08d
+Track10.flac:749d6dec9e712c2e035b806fe9209ea9
+Track11.flac:787837c41cd229f9145832433d75fe13
+Track12.flac:92bfd8e9ff1f5724ab544d6e55c8a92b
+Track13.flac:e5aa9bf755369e86d193f33c8d3b8e6d
+Track14.flac:0ac94fa7fa12ab0d95780c3c0c6d1cb2

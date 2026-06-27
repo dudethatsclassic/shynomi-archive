@@ -1,0 +1,32 @@
+Angie Aparo
+November 14, 2003
+Ram's Head Onstage
+Annapolis MD
+
+*** THIS IS A 16-BIT FILESET NOT INTENDED FOR AUDIO CD ***
+
+SOURCE:  dpa 4061 > coresound batt box > sony tcd-d8 (16/44.1) [Scott Pendleton]
+PROCESSING:  soundforge 8.0 (tracking, fades, source patching) > flac 1.1.4
+
+01 Springtime *
+02 Hard Woman
+03 Spaceship
+04 Child You Are the Revolution
+05 She's Alright by Me
+06 Hush
+07 Cry
+08 Free Man
+
+* first 1:02 of this track is a patch from the other source here on archive.org, SP-SPSM-4b (2-AT831) -> MD-MT90 (chris webb)
+
+    length     expanded size   cdr  WAVE  probs   filename
+     5:09.58      54644060     ---   --    -xx    angieaparo2003-11-14_4061_d1t01.flac
+     3:27.22      36566588     ---   --    -xx    angieaparo2003-11-14_4061_d1t02.flac
+     4:45.49      50389292     ---   --    -xx    angieaparo2003-11-14_4061_d1t03.flac
+     5:41.68      60312380     ---   --    -xx    angieaparo2003-11-14_4061_d1t04.flac
+     5:28.50      57976844     ---   --    -xx    angieaparo2003-11-14_4061_d1t05.flac
+     5:45.36      60942716     ---   --    -xx    angieaparo2003-11-14_4061_d1t06.flac
+     6:07.74      64912892     ---   --    -xx    angieaparo2003-11-14_4061_d1t07.flac
+     5:06.36      54063116     ---   --    -xx    angieaparo2003-11-14_4061_d1t08.flac
+    41:33.18     439807888 B                      (totals for 8 files, 0.4232 overall compression ratio)
+

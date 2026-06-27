@@ -1,0 +1,52 @@
+03/04/1973
+Stevie Wonder
+Berkeley Comunity Theater
+Berkeley, Ca.
+
+
+
+Source: BGP SBD > Open reel Ampex videotape or to conventional RtR (unclear which equipment was used)
+Transfer #1: (c. 1988) re-anneal master tapes (if needed) > D (probably a Sonic Solutions ADC @ 24/48) > PCM tape 
+Remaster #1: (c. 1988) PCM > hiss & artifact removal > "sonic solutions process" > DAT (or other digital medium > DAT)
+Transfer #2: (1990) MDAT > Nakamichi deck> XLII-S/90 > MC
+Transfer #3: (1990) MC > Nakamichi deck (playback) > Nakamichi deck (record) > XLII-S/90 > C(1)
+Transfer #4: (2005) C(1) > Aiwa AD-F850 > THC Cables > Edirol U-A5 > USB > Wavelab 5.01a @ 24/96 > WAV
+Final Mastering: WAV > Wavelab 5.0a (X-noise to reduce hiss; 192 KhZ resampler > 44.1k; L3 Multimaximizer to increase gain and dither to 16 bits) > FLAC.
+
+Disc 1
+
+1. Bill Graham Intro >
+For Once In My life (splice at 40 seconds) (many channel adjustments)
+2. If You Really Love Me
+3. Me & Mrs. Jones 
+4. Superwoman (Where Were You When I Needed You?) > (discontinuity at about 15 min)
+5. Instrumental > Let Me Tell You Something, My Darling
+6. Think I'm On The Right Track (discontinuity at 33:01)
+7. I Was Made To Love Her
+8. Feel It
+
+Disc 2
+
+9. Killing Me Softly
+10. You Are The Sunshine of My Life >
+11. Big Brother >
+12. Blowing In The Wind >
+13. Medley: 
+What's Going On? >
+Betcha By Golly Wow! >
+Ma Cherie Amore >
+Summer Breeze >
+14. Love Having You Around >
+15. Signed, Sealed Delivered (I'm Yours) > 
+The way you do it last night, you do it like you should >
+harmonica song
+16. Superstition// (w/ Buddy Miles & Paul Keegan?)
+
+The recording runs just shy of 90 minutes. If splitting onto two discs, the suggested split is after track 8.
+
+There are a half-dozen small discontinuities in the recording, including abrupt transitions between songs and small gaps, some with brief silences and others without. There was a tape flip in Killing Me Softly at about 4:15.
+
+This has been circulated infrequently in this configuration... I had yet to seed so I borrowed the notes above from one of the limited sources on eTree. I have the master WAV files if someone wants to take a shot at re-mastering.....
+
+AEGERT
+

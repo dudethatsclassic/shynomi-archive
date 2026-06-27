@@ -1,0 +1,52 @@
+HELMET 
+January 1, 1991
+Unknown venue 
+Ann Arbor, MI
+
+
+SETLIST (42:34)
+-----------------
+01. Sinatra
+02. FBLA II 
+03. Rude
+04. Bad Mood
+05. He Feels Bad
+06. Blacktop
+07. Distracted
+08. Better
+09. Make Room
+10. Repetition 
+
+
+GENERATION
+-----------------
+ANA(X) -> WAV [24bit/96kHz] -> WAV [16bit/44.1kHz] -> FLAC [Level 8]
+
+
+SOURCE (AUD) (Complete)
+------------------------
+Unknown > unknown
+
+
+TRANSFER
+-----------------
+Nakamichi DR-3 -> 0.75 meter RCA Gold to RCA Gold Dubbel Shielded OFC cables -> Steinberg VSL 2020 analog-in -> Wavelab 5.0.1.240 -> r8brain 1.5 Pro -> Trader Little Helper 2.6.0.168
+
+
+MD5 FINGERPRINTS
+-----------------
+e2ff25e20b7d06dbfcea0dd1946bbdae *helmet010191aud01.flac
+be261730c656935cf731313df1734dbb *helmet010191aud02.flac
+f50521b4d968bf1aa5dd1785fd33b383 *helmet010191aud03.flac
+ed52e37c47da3083a366553e9bfa3da0 *helmet010191aud04.flac
+fa1435d33e5d67582e1cbebf15fab3eb *helmet010191aud05.flac
+292c44d10b085e3e035c11b5a12bfeff *helmet010191aud06.flac
+44f86935f751638d274758be85e30e6e *helmet010191aud07.flac
+2641453278f473c23ab452efcb5fe3fc *helmet010191aud08.flac
+ed3840d54bc5abbe9e264c507435b6c6 *helmet010191aud09.flac
+45e2c641c8dae0ebcb09630f6c199dfe *helmet010191aud10.flac
+
+
+Transferred by Desiderus [mudhoneytrader@gmail.com]
+PLEASE DO NOT ENCODE TO MP3 OR SELL!
+

@@ -1,0 +1,65 @@
+TYCHO
+April 25, 2024
+Channel 24
+Sacramento, CA, US
+
+SETLIST:
+-------------------
+00. Big Iron [Marty Robbins song, P.A. tape]
+01. Phantom [w/ extended introductory sequence]
+02. Sceptre
+03. Hours
+04. Weather
+05. Consciousness Felt
+06. A Walk
+07. Green
+08. PBS
+09. L
+10. Horizon
+11. Devices
+12. Time to Run
+13. Totem
+14. Awake
+15. Apogee
+16. Division
+
+
+SOURCE:
+-------------------
+AUD #1 - Quality: 9.0
+Sound Professionals SP-CMC-4U > Sony PCM-A10
+
+Recorded by: vibrioidxire
+
+TRANSFER:
+-------------------
+Sound Professionals SP-CMC-4U (Audio Technica AT-U853's, w/ SP UE-H-PAIR hypercardioid caps mod) > Sound Professionals SP-SPSB-10 Power Module > Sony PCM-A10 High-Resolution Digital Audio Recorder > WAV [48kHz/24-bit] > USB connector > Insignia NS-PA3C3A USB-C to USB adapter > Apple MacBook Pro (16-inch, 2021) > Adobe Audition 23.2 [post-production/mastering] > xACT 2.57 > FLAC [Level 8]
+
+GENERATION:
+-------------------
+WAV(M) [48kHz/24-bit] > FLAC [Level 8]
+
+
+FLAC FINGERPRINTS:
+-------------------
+tycho2025-04-25_AUD1_t00.flac:c35bbdca7e98f9559d43ee7d26075a02
+tycho2025-04-25_AUD1_t01.flac:e55c536cad78f36f77338623eb324516
+tycho2025-04-25_AUD1_t02.flac:9db1e41f8548ee1d43904fa52c86cb2b
+tycho2025-04-25_AUD1_t03.flac:59d17da4d3f2daf079f0a8bdf85bc975
+tycho2025-04-25_AUD1_t04.flac:965fe0a129b883dfaaf5b9ff5dc0ea8e
+tycho2025-04-25_AUD1_t05.flac:768b2747b4f508aeaa1a96627210d35a
+tycho2025-04-25_AUD1_t06.flac:f9136a0e14499b1e108dc1c991270d11
+tycho2025-04-25_AUD1_t07.flac:ce5d7864eaaad785d272bc95a584a6aa
+tycho2025-04-25_AUD1_t08.flac:c2fb152c92c592a00a96268466c90207
+tycho2025-04-25_AUD1_t09.flac:60aa1192cbb4b544545041126014c45f
+tycho2025-04-25_AUD1_t10.flac:f1fabac9eceeaccdf87410e846a41565
+tycho2025-04-25_AUD1_t11.flac:a292011b5bafd35d90ce9439ed9d57e7
+tycho2025-04-25_AUD1_t12.flac:ddb3b16968b51747816ad8926861a9b9
+tycho2025-04-25_AUD1_t13.flac:da4cd923c1a52a08c739f650af80cf03
+tycho2025-04-25_AUD1_t14.flac:18d879b79c26eda4ccfe68b96acf67fe
+tycho2025-04-25_AUD1_t15.flac:aa375ba45c53904ca8db49bf1ebfa849
+tycho2025-04-25_AUD1_t16.flac:d4fa605f90e4ffe9c89392b3044c4282
+
+
+Transferred and encoded by: vibrioidxire
+PLEASE DO NOT DISTRIBUTE IN LOSSY FORMATS OR SELL!

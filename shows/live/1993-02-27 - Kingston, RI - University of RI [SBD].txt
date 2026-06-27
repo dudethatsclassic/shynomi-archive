@@ -1,0 +1,64 @@
+Live
+1993-02-27
+University Of Rhode Island
+Kingston, RI
+
+source: sbd > dat > creative cutting * > cd-r > eac > wav
+editing: wav > cleanup, retracking ** > wav
+
+(for source and editing details see below)
+
+-=--=--=--=--=--=--=--=--=--=--=--=--=--=--=--=--=--=--=--=--=--=--=--=--=--=-
+
+tracklist: (73:56)
+
+setlist: (66:05)
+01. The Dam At Otter Creek
+02. All Over You
+03. Stage
+04. Tired Of Me
+05. Susquehanna
+06. Lightning Crashes #
+07. Waterboy
+08. Top
+09. The Beauty Of Gray
+10. Iris
+11. Operation Spirit
+12. White, Discussion
+13. Pain Lies On The Riverside
+14. Good Pain
+
+filler tracks: (07:51)
+15. Cheetah @
+16. I Alone %
+
+# this rendition is the one that's often referred to as "early heavy version"
+@ 1995-08-13 / Shoreline Amphitheater - Mountain View, CA; might be sbd
+% 1994-11-21 / The Jon Stewart Show - New York, NY; might be clean post-fm
+
+-=--=--=--=--=--=--=--=--=--=--=--=--=--=--=--=--=--=--=--=--=--=--=--=--=--=-
+                "We've never been to Rhode Island before.. 
+       yea we have, Providence. Club Babyhead. This place is better.
+          ...I'm just kissing your ass. It's not." ~ Ed Kowalczyk
+-=--=--=--=--=--=--=--=--=--=--=--=--=--=--=--=--=--=--=--=--=--=--=--=--=--=-
+
+Here's below, by the way.
+
+source:
+"Straight Outta York"
+
+editing:
+linear cutting to squeeze onto one cd
+crossfading
+mic distortion removal
+volume adjustment correction
+
+[00:09] ssamadhi97: I doubt that we're ever going to see an uncut version, unless someone sneaks into Live's archives and steals the master dat
+[00:10] Rynpointer: what is cut?
+[00:10] ssamadhi97: nothing relevant
+[00:10] ssamadhi97: crowd noise
+[00:11] ssamadhi97: maybe some banter between tracks
+[00:11] ssamadhi97: thing is that whoever did that was rather aggressive about it and used trivial means (linear editing, no fades, most likely something like just playing the dat tape and pressing record / pause on a second dat recorder) 
+[00:12] ssamadhi97: so some of the cuts are rather choppy
+[00:12] Rynpointer: ohhh i see
+[00:12] ssamadhi97: I did some fading and very little crossfading to conceal that

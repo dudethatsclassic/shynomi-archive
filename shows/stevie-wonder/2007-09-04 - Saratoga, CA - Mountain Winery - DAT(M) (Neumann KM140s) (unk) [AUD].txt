@@ -1,0 +1,62 @@
+Stevie Wonder
+Mountain Winery 
+Saratoga, CA 
+Sept 4, 2007 
+
+Neumann KM140s > Sound Devices MP-2 > Sony SBM-1 > Sony TDC-D8 > DAT 48k >>
+DAT Master > Tascam US-144mkII > PC > Audacity > CD Wave > Flac 16/48
+
+From the DAT collection of Bill Shaw. Fresh transfer, Feb 2017. 
+
+Note: 48kHz fileset! Not CD compatible. Downsample to 16/44.1 for CD compliance. 
+
+01. A Wonder Summer's Night intro
+02. Love's In Need of Love Today
+03. Too High
+04. Visions
+05. Living For The City
+06. Master Blaster (Jammin')
+07. Higher Ground
+08. Golden Lady
+09. Ribbon In The Sky
+10. Overjoyed
+11. Don't You Worry 'bout a Thing
+12. Signed Sealed Delivered
+13. Boogie On Reggae Woman
+14. Memphis Tennesse (Chuck Berry)
+15. introduction to...
+16. My Cherie Amour
+17. Sir Duke
+18. I Wish
+19. Isn't She Lovely
+20. You Are The Sunshine of My Life
+21. Superstition
+22. You Haven't Done Nothin' > band intros > jam > 
+23. I Just Called To Say I Love You
+24. Another Star
+
+Fingerprints:
+01. A Wonder Summer's Night intro.flac:b4091a0366f1c1fb40a5252415c3cf12
+02. Love's In Need of Love Today.flac:0ddb89c4473fb7d5d3943dcb8197b98a
+03. Too High.flac:7b07074905a088396ebc854ca9169fee
+04. Visions.flac:26bc65601801dab8dbe54c036481e55a
+05. Living For The City.flac:5a3b3551bbc3df800f6806c7e681e270
+06. Master Blaster (Jammin').flac:1e15186eb1a8cff08ed6f89c588be6ea
+07. Higher Ground.flac:fa9ef7596db431785159a889183f3c5b
+08. Golden Lady.flac:8fe24360a6dac3ab4a5da74e8e06532f
+09. Ribbon In The Sky.flac:e984995d2f49d1b4294f83db341dd55d
+10. Overjoyed.flac:2325beff71d059f2bff49299126a503a
+11. Don't You Worry 'bout a Thing.flac:dd23843e40f6256794a9a63da13bd607
+12. Signed Sealed Delivered.flac:972ddbe5a3db53d6393ac3dfc4c16a55
+13. Memphis Tennesse (Chuck Berry).flac:f41a8b1919c56d8ae6690d1fb5879a72
+14. Boogie On Reggae Woman.flac:0daf6b22a35a129da976a56f8f33881d
+15. Introduction to....flac:8a58dd6152617fc38f6a773402094462
+16. My Cherie Amour.flac:543a23dc2b71cbbba644c9911d9f0006
+17. Sir Duke.flac:b37c0d68d1f5ea45ed9c191729fda819
+18. I Wish.flac:119d2d070b8487507f1a6ecb5f2fef12
+19. Isn't She Lovely.flac:cb6794e40c020fec4a2dfe642c660ff2
+20. You Are The Sunshine of My Life.flac:94e0fb5d802464f108347fc588ece8aa
+21. Superstition.flac:3d311731e7237335596704cb7a1d5102
+22. You Haven't Done Nothin'.flac:3059b38b619b5bb4ad8049b63a3b5aac
+23. I Just Called To Say I Love You.flac:d5345730cca2ef96542bc325fe9800ae
+24. Another Star.flac:32434a3fcbc5c80fee20c6269a2527c0
