@@ -1,0 +1,53 @@
+HOLE
+The Shamrock, Los Angeles, California
+September 15, 1990
+
+DISC #1/#1 (41:50)
+--------------------
+01. Pretty on the Inside
+02. Clouds
+03. Starbelly
+04. Garbadge Man
+05. Berry
+06. Phonebill Song
+07. Retard Girl
+08. Burn Black
+09. Dicknail
+10. Gold Dust Woman
+11. Rhiannon
+12. Forming
+
+SOURCE (AMT#1a)
+--------------------
+unknown > unknown
+
+GENERATION
+--------------------
+VID(?) > CDR(2) > WAV [44.1kHz] > FLAC [Level 8]
+
+EXTRACTION
+--------------------
+MATSHITA DVD-RAM UJ-850S > Exact Audio Copy V1.0 beta 2 > FLAC frontend 1.7.1
+
+NOTES
+--------------------
+- possibly recorded on a Super8.
+- has minor dropouts throughout.
+- "Gold Dust Woman" and "Rhiannon" are on one track.
+
+MD5 FINGERPRINTS
+--------------------
+5e898fbfcd612386a9ea57c3c4f2e1f8 *01 Pretty on the Inside.flac
+63c28c37ef4d85eacbe96b58277fa964 *02 Clouds.flac
+e1d324dd54f4020592ff18da059eb42c *03 Starbelly.flac
+4993b73f44c639310f3c9b89c434f52d *04 Garbadge Man.flac
+bbc37d1c88c3a0a7a2a4891511b4f437 *05 Berry.flac
+671681d0ea736fd19d9eb85ed3b9bf5d *06 Phonebill Song.flac
+5cbd442ebf889bda55556273f597f20b *07 Retard Girl.flac
+d5e3d33b595bb94dbd62c3c1636c7869 *08 Burn Black.flac
+d389e85f0dbc70220dbfb2d7371e1515 *09 Dicknail.flac
+ef363817ca3714219f06745f1c7c6d22 *10 Gold Dust Woman - Rhiannon.flac
+edd9dfa346ed636c42f6c37e45aea53c *11 Forming.flac
+
+Extracted by Martin Donohoe.
+Please do not encode to lossy formats and/or sell!

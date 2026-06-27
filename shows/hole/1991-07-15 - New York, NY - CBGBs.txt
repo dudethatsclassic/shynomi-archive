@@ -1,0 +1,41 @@
+HOLE
+July 15, 1991
+CBGB
+New York, NY
+
+SETLIST (26:30)
+-----------------
+01) Pretty On The Inside
+02) Garbadge Man
+03) Berry
+04) Mrs. Jones
+05) Teenage Whore
+06) Babydoll
+07) Dicknail
+
+GENERATION
+-----------------
+VHS(1) > DVDR(4) > MKV
+
+SOURCE (AMATEUR VIDEO)
+-----------------
+built-in > unknown
+
+TRANSFER
+-----------------
+unknown > TSSTcorpCDDVDW SH-224DB > MakeMKV v1.16.7
+
+VIDEO
+-----------------
+MPEG2 Video 704x480 (4:3) 29.97fps, bitrate 4 247 kb/s
+
+AUDIO
+-----------------
+Dolby AC3 48000Hz stereo 256kbps
+
+MD5 CHECKSUM
+-----------------
+00479d663a378c32b1895d419afca87d *hole1991-07-15.mkv
+
+
+PLEASE DO NOT SELL!

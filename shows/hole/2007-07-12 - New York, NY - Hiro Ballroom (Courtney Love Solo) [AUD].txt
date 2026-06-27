@@ -1,25 +1,49 @@
-Date: July 12, 2007
+Courtney Love
+Hiro Ballroom, New York City, New York, USA
+July 12th, 2007
+- - - - - - - - - - -
 
-Location: Hiro Ballroom, New York, NY USA
+Setlist
 
-Setlist:
-1. (Intro)
-2. Stand Up Motherfucker
-3. Letter to God
-4. Loser Dust
-5. Celebrity Skin
-6. Doll Parts
-7. Sunset Marquis (Uncirculated)
-8. For Once In Your Life
-9. Samantha
-10. Malibu
-11. Miss World (Uncirculated)
-12. Northern Star (Uncirculated)
-13. Nobody's Daughter (Demo Version) (Uncirculated)
+o Intro
+o Stand Up, Motherfucker (missing)
+o Letter to God
+o Loser Dust
+o Celebrity Skin
+o Banter (Electric Guitars)
+o Doll Parts
+o Banter (Love Songs)
+o Sunset Marquis (missing)
+o For Once In Your Life
+o Samantha
+o Banter (Mikko's Cherry)
+o Malibu
+o Miss World (missing)
+o Northern Star (missing)
+o Nobody's Daughter (missing)
 
-Audio Sources:
-Rank	Title	Source	Audio Quality	Complete Show?
-1	Dear God	MASTER>FLV [48kHz]>WAV [44.1kHz]>FLAC [Level 8]>CD(1)	88	Yes
+Generation
+MASTER -> FLV [48kHz] -> WAV [44.1kHz] -> FLAC [Level 8]
 
-Notes on Audio Sources:
-1. This source does not contain the full set.
+Transfer
+unknown -> Download Helper v.3.0 -> Audacity v.1.2.6 -> FLAC Frontend v.1.2.1
+
+Notes
+o This is sourced from a single, pro-shot with open mic audio, recorded by IMEEM.
+o Some songs contain minor cuts.
+
+MD5 Fingerprints
+08559b7d54488fdb1d9e8bfcad4d565c *01 Intro.flac
+6fc4ceadfd5dbf0eeb2f5e9468812696 *02 Letter To God.flac
+82f04bfc9d8de0c932b689208594e583 *03 Loser Dust.flac
+c07a9489c6df4f4e4e5aeb80a5a3afc9 *04 Celebrity Skin.flac
+4cfa80feec897b5e831a10a366529e98 *05 Banter.flac
+5c610f06eb0baf240e19a63b02c31eb5 *06 Doll Parts.flac
+6c0631a4b186ee4d2dd557510e056e96 *07 Banter.flac
+17f3b4b0190f9a70c83e93b709af875c *08 For Once In Your Life.flac
+710004fe791d14a5410dc0aa12879b31 *09 Samantha.flac
+b18a69ce565ab44ac8de799879f553b6 *10 Banter.flac
+aab43c7622a59cdf60811da875f0083b *11 Dirty Girls.flac
+
+Extracted by Martin Donohoe.
+Please do not sell or trade in lossy formats!

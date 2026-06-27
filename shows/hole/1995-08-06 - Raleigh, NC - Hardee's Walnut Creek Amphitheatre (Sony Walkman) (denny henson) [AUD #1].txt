@@ -1,0 +1,44 @@
+HOLE
+August 6, 1995
+Hardee's Walnut Creek Amphitheatre (Lollapalooza 1995)
+Raleigh, NC, US
+
+SOURCE (AUD #1):
+built-in > unknown
+
+TRANSFER:
+unknown Sony Walkman > 3.5mm aux cable > PC > Audacity > Adobe Audition 23.2 > xACT 2.54
+
+GENERATION:
+ANA(M) > WAV [44.1khz/16-bit] > FLAC [Level 8]
+
+NOTES:
+- Only remastered copies widely circulate.
+
+LENGTH:
+33:43
+
+TRACKS:
+01. Credit In The Straight World [Young Marble Giants cover, cuts in on final note]
+02. Best Sunday Dress
+03. Pennyroyal Tea [NIRVANA cover]
+04. I Think That I Would Die
+05. Drown Soda
+06. Doll Parts
+07. Violet
+08. Olympia
+
+MD5 FINGERPRINTS:
+a03a1c951a52915606e412c501ceb0a3 *Hole 1995-08-06 AUD1 ANA(M)_01 Credit in the Straight World.flac
+b04abdb952bfb4052be629042ad8c608 *Hole 1995-08-06 AUD1 ANA(M)_02 Best Sunday Dress.flac
+a100eab3017db93e91d504a19b67bc4d *Hole 1995-08-06 AUD1 ANA(M)_03 Pennyroyal Tea.flac
+99543b6fae707256c21f68d3dff5d20b *Hole 1995-08-06 AUD1 ANA(M)_04 I Think That I Would Die.flac
+70b8344a2b58c62a6505983bd5c147b9 *Hole 1995-08-06 AUD1 ANA(M)_05 Drown Soda.flac
+906dc5df6a9c5c6c6a6f6319899b7bf4 *Hole 1995-08-06 AUD1 ANA(M)_06 Doll Parts.flac
+61c71640c9b10f138ac36a1aa79e839e *Hole 1995-08-06 AUD1 ANA(M)_07 Violet.flac
+ccfb369156fe98bb8e4d68496d3c5fea *Hole 1995-08-06 AUD1 ANA(M)_08 Olympia.flac
+
+RECORDED AND TRANSFERRED BY:
+Denny Henson
+
+**PLEASE DO NOT RE-ENCODE TO LOSSY FORMATS OR SELL!**

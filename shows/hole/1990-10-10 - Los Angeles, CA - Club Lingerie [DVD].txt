@@ -1,0 +1,44 @@
+HOLE
+October 10, 1990
+Club Lingerie
+Hollywood, CA
+
+SETLIST (32:14)
+-----------------
+01) Pretty On The Inside
+02) Clouds
+03) Starbelly
+04) Garbadge Man
+05) Berry
+06) Phonebill Song
+07) Retard Girl
+08) Every Man
+09) Dicknail
+10) Cars
+
+GENERATION
+-----------------
+VHS(4) > DVDR(2) > MKV
+
+SOURCE (PRO)
+-----------------
+unknown > unknown
+
+TRANSFER
+-----------------
+unknown > Micro DC 30 > Virtualdub > Cool Edit Pro 2 > unknown > TSSTcorpCDDVDW SH-224DB > MakeMKV v1.16.7
+
+VIDEO
+-----------------
+MPEG2 Video 720x576 (4:3) 25fps, bitrate 7 825 kb/s
+
+AUDIO
+-----------------
+PCM 48000Hz stereo 1536kbps
+
+MD5 CHECKSUM
+-----------------
+c5ffbeb58d780588cc19af4c2351b3ce *hole1990-10-10.mkv
+
+
+PLEASE DO NOT SELL!

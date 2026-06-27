@@ -45,7 +45,8 @@ const ARTIST_DATA = {
       "venue": "Raji's",
       "notes": "ANA(x) \u00b7 unk",
       "version": "AUD #1",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1990-07-27 - Hollywood, CA - Raji's [AUD #1].txt"
     },
     {
       "year": 1990,
@@ -58,7 +59,8 @@ const ARTIST_DATA = {
       "venue": "The Shamrock",
       "notes": "VID(?) \u00b7 unk",
       "version": "AMT #1a",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1990-09-15 - Los Angeles, CA - The Shamrock [AMT #1a].txt"
     },
     {
       "year": 1990,
@@ -71,7 +73,8 @@ const ARTIST_DATA = {
       "venue": "Club Lingerie",
       "notes": "",
       "version": "FM",
-      "format": "MP3"
+      "format": "MP3",
+      "textFile": "1990-10-10 - Los Angeles, CA - Club Lingerie [FM-LOSSY].txt"
     },
     {
       "year": 1990,
@@ -97,7 +100,8 @@ const ARTIST_DATA = {
       "venue": "Club with No Name",
       "notes": "VHS(x) \u00b7 unk",
       "version": "AUD",
-      "format": "MKV"
+      "format": "MKV",
+      "textFile": "1990-10-29 - Los Angeles, CA - Club with No Name [MKV].txt"
     },
     {
       "year": 1990,
@@ -110,7 +114,8 @@ const ARTIST_DATA = {
       "venue": "Club Lingerie",
       "notes": "",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1990-11-01 - Los Angeles, CA - Club Lingerie.txt"
     },
     {
       "year": 1990,
@@ -150,7 +155,8 @@ const ARTIST_DATA = {
       "venue": "Rat",
       "notes": "ANA(1) \u00b7 Radioshack \u00b7 peter c.",
       "version": "AUD #1",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1991-07-12 - Boston, MA - Rat [AUD #1].txt"
     },
     {
       "year": 1991,
@@ -163,7 +169,8 @@ const ARTIST_DATA = {
       "venue": "CBGBs",
       "notes": "VHS(1) \u00b7 unk",
       "version": "AMT",
-      "format": "MKV"
+      "format": "MKV",
+      "textFile": "1991-07-15 - New York, NY - CBGBs.txt"
     },
     {
       "year": 1991,
@@ -176,7 +183,8 @@ const ARTIST_DATA = {
       "venue": "Twisters",
       "notes": "Soundcheck \u00b7 ?",
       "version": "AUD #1",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1991-07-22 - Richmond, VA - Twisters - Soundcheck  [AUD #1].txt"
     },
     {
       "year": 1991,
@@ -189,7 +197,8 @@ const ARTIST_DATA = {
       "venue": "Bierkeller",
       "notes": "ANA(x)",
       "version": "AUD #1",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1991-08-19 - Bristol, England - Bierkeller [AUD #1].txt"
     },
     {
       "year": 1991,
@@ -286,7 +295,8 @@ const ARTIST_DATA = {
       "venue": "Rose Club",
       "notes": "ANA(x)",
       "version": "AUD #1",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1991-12-04 - Koln, Germany - Rose Club [AUD #1].txt"
     },
     {
       "year": 1991,
@@ -354,7 +364,8 @@ const ARTIST_DATA = {
       "venue": "",
       "notes": "",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1991-12-13 - Leeds, UK - Duchess of York Public House - In the Darkness I Destroy.txt"
     },
     {
       "year": 1991,
@@ -502,7 +513,8 @@ const ARTIST_DATA = {
       "venue": "Melkweg",
       "notes": "ANA(x)",
       "version": "AUD #1",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1993-07-11 - Amsterdam, The Netherlands - Melkweg - ANA(x) [AUD #1].txt"
     },
     {
       "year": 1993,
@@ -609,7 +621,8 @@ const ARTIST_DATA = {
       "venue": "Downing Stadium (Lollapalooza)",
       "notes": "DAT(M) \u00b7 CSB \u00b7 inc",
       "version": "AUD #1",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1994-08-05 - Randalls Island, NY - Downing Stadium (Lollapalooza).txt"
     },
     {
       "year": 1994,
@@ -771,7 +784,8 @@ const ARTIST_DATA = {
       "venue": "The Metro",
       "notes": "",
       "version": "SBD",
-      "format": "MP3"
+      "format": "MP3",
+      "textFile": "1994-10-21 - Chicago, IL - The Metro [AUD-LOSSY].txt"
     },
     {
       "year": 1994,
@@ -784,7 +798,8 @@ const ARTIST_DATA = {
       "venue": "First Avenue",
       "notes": "CD(M)",
       "version": "AUD #1a",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1994-10-23 - Minneapolis, MN - First Avenue.txt"
     },
     {
       "year": 1994,
@@ -823,7 +838,8 @@ const ARTIST_DATA = {
       "venue": "Rendon Inn *Doll Parts",
       "notes": "VR 50033",
       "version": "FM",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1994-10-29 - New Orleans, LA - Rendon Inn.txt"
     },
     {
       "year": 1994,
@@ -862,7 +878,8 @@ const ARTIST_DATA = {
       "venue": "Huntridge Theater",
       "notes": "ANA(M) \u00b7 Sony WM-D6 \u00b7 scott tillotson",
       "version": "AUD #1",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1994-11-06 - Las Vegas, NV - Huntridge Theater (Sony) [AUD #1].txt"
     },
     {
       "year": 1994,
@@ -875,7 +892,8 @@ const ARTIST_DATA = {
       "venue": "Palladium",
       "notes": "GSF002",
       "version": "SBD #1",
-      "format": "MP3"
+      "format": "MP3",
+      "textFile": "1994-11-09 - Hollywood, CA - Hollywood Palladium [SBD #1-LOSSY].txt"
     },
     {
       "year": 1994,
@@ -999,7 +1017,8 @@ const ARTIST_DATA = {
       "venue": "Brooklyn Academy Of Music",
       "notes": "MTV",
       "version": "SBD #1a",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1995-02-14 - New York, NY - Brooklyn Academy of Music (MTV Unplugged).txt"
     },
     {
       "year": 1995,
@@ -1026,7 +1045,8 @@ const ARTIST_DATA = {
       "venue": "Capri Music Hall",
       "notes": "ANA(M)",
       "version": "AUD #1",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1995-03-10 - Charlotte, NC  - Capri Music Hall [AUD #1] .txt"
     },
     {
       "year": 1995,
@@ -1095,7 +1115,8 @@ const ARTIST_DATA = {
       "venue": "Paradiso *The Girl With the Most Cake",
       "notes": "",
       "version": "SBD #1a",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1995-04-24 - Amsterdam, Holland - Paradiso, De Melkweg.txt"
     },
     {
       "year": 1995,
@@ -1148,7 +1169,8 @@ const ARTIST_DATA = {
       "venue": "Brixton Academy",
       "notes": "",
       "version": "SBD #1",
-      "format": "MP3"
+      "format": "MP3",
+      "textFile": "1995-05-04 - London, UK - Brixton Academy [SBD #1-LOSSY].txt"
     },
     {
       "year": 1995,
@@ -1202,7 +1224,8 @@ const ARTIST_DATA = {
       "venue": "Irvine Meadows Amphitheatre",
       "notes": "KROQ \u00b7 DA20",
       "version": "AUD #1",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1995-06-17 - Irvine Meadows, CA - Irvine Meadows Ampitheatre (KROQ Weenie Roast - What You Wanted [AUD #1].txt"
     },
     {
       "year": 1995,
@@ -1241,7 +1264,8 @@ const ARTIST_DATA = {
       "venue": "Hardee's Walnut Creek Amphitheatre",
       "notes": "Lollapalooza \u00b7 unk Sony Walkman \u00b7 denny henson",
       "version": "AUD #1",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1995-08-06 - Raleigh, NC - Hardee's Walnut Creek Amphitheatre (Sony Walkman) (denny henson) [AUD #1].txt"
     },
     {
       "year": 1995,
@@ -1296,7 +1320,8 @@ const ARTIST_DATA = {
       "venue": "Reading Festival",
       "notes": "WW1 #96-13",
       "version": "SBD #1a",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1995-08-25 - Reading, UK - Reading Festival.txt"
     },
     {
       "year": 1995,
@@ -1378,7 +1403,8 @@ const ARTIST_DATA = {
       "venue": "San Jose Event Center",
       "notes": "Live",
       "version": "FM",
-      "format": "MP3"
+      "format": "MP3",
+      "textFile": "1998-12-10 - San Jose, CA - San Jose Event Center (Live 105 Not So Silent Night) [FM-LOSSY].txt"
     },
     {
       "year": 1998,
@@ -1391,7 +1417,8 @@ const ARTIST_DATA = {
       "venue": "Shrine Auditorium",
       "notes": "KROQ Acoustic Christmas Party",
       "version": "SBD #1",
-      "format": "MP3"
+      "format": "MP3",
+      "textFile": "1998-12-11 - Los Angeles, CA - Shrine Auditorium (KROQ Acoustic Christmas Party) [SBD #1-LOSSY].txt"
     },
     {
       "year": 1999,
@@ -1417,7 +1444,8 @@ const ARTIST_DATA = {
       "venue": "Ericsson Stadium",
       "notes": "",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1999-01-15 - Auckland, NZ - Ericsson Stadium (Big Dday Out) [AUD].rtf"
     },
     {
       "year": 1999,

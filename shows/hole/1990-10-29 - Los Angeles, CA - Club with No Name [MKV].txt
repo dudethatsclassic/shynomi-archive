@@ -1,0 +1,35 @@
+HOLE
+October 29, 1990
+Club With No Name
+Los Angeles, CA
+
+SETLIST (28:25)
+-----------------
+unknown
+
+GENERATION
+-----------------
+VHS(x) > DVDR(1) > MKV
+
+SOURCE (AMATEUR VIDEO)
+-----------------
+built-in > unknown
+
+TRANSFER
+-----------------
+unknown > TSSTcorpCDDVDW SH-224DB > MakeMKV v1.16.7
+
+VIDEO
+-----------------
+MPEG2 Video 720x480 (4:3) 29.97fps, bitrate 9 204 kb/s
+
+AUDIO
+-----------------
+Dolby AC3 48000Hz stereo 256kbps
+
+MD5 CHECKSUM
+-----------------
+9f338a436de08ea22156e832115bc259 *hole1990-10-29.mkv
+
+
+PLEASE DO NOT SELL!
