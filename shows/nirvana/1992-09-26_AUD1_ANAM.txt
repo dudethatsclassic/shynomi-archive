@@ -7,10 +7,10 @@ SOURCE (AUD #1):
 Sony ECM-909 > Sony WM-D6
 
 TRANSFER:
-Nakamichi CR-7A > PreSonus FireStudio Project > Adobe Audition 3.0 > CD Wave 1.98 > Trader's Little Helper 2.7.0
+Nakamichi CR-7A > PreSonus FireStudio Project > Adobe Audition 3.0 > Trader's Little Helper 2.7.0
 
 GENERATION:
-ANA(M) > WAV [96kHz/24bit] > WAV [44.1kHz/16bit] > FLAC [Level 8]
+ANA(M) > WAV [96kHz/24bit] > FLAC [Level 8]
 
 LENGTH:
 6:04
@@ -20,8 +20,7 @@ TRACKS:
 02. The Money Will Roll Right In (Mudhoney with Kurt)
 
 MD5 FINGERPRINTS:
-2d07e1b1ac45c30ee8003aa88fd0addc *Nirvana-Related_1992-09-26_AUD1_t01.flac
-bc810e0d8085234fdae20bc8f71de9dc *Nirvana-Related_1992-09-26_AUD1_t02.flac
+ae0ef648003eaa4adb37d1988a02c4d0 *Nirvana-Related_1992-09-26_AUD1_96-24.flac
 
 TRANSFERRED BY:
 Mike Ziegler

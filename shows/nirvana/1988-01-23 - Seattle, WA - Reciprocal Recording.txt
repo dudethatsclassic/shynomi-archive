@@ -1,50 +1,49 @@
 NIRVANA
-January 23rd, 1988
-Reciprocal Recording, 
-Seattle, WA
+January 23, 1988
+Community World Theater
+Tacoma, WA
 
-DISC #1/#1 (31:37)
--------------
-01) If You Must
-02) Downer
-03) Floyd the Barber
-04) Paper Cuts
-05) Spank Thru
-06) Hairspray Queen
-07) Aero Zeppelin
-08) Beeswax
-09) Mexican Seafood
-10) Pen Cap Chew
+SOURCE (AMT #1):
+unknown > unknown
 
-SOURCE (SBD #2e)
---------------
-soundboard > unknown
+TRANSFER:
+JVC HR-S9911U > Canopus ADVC-300 > IEEE 1394 > Adobe Premiere Pro CS5 > Cinema Craft Encoder SP3 > Adobe Encore CS5
 
-GENERATION
---------------
-ANA(x) > DAT(1) > CDR(2) > WAV [44.1kHz] > FLAC [Level 8]
+GENERATION:
+VHS(1) [NTSC] > AVI [DV25] > M2V/WAV [8.0Mbps CBR/48kHz PCM] > DVDR(0)
 
-TRANSFER
---------------
-unknown
+LENGTH:
+50:00
 
-NOTES
---------------
-- The lowest quality, but most complete source for this session.
-- Includes between-song banter not found on other sources.
+TRACKS:
+01. If You Must
+02. Downer
+03. Floyd The Barber
+04. Paper Cuts
+05. Spank Thru
+06. Hairspray Queen (part of)
+07. Aero Zeppelin
+08. Beeswax
+09. Mexican Seafood
+10. Pen Cap Chew
+11. Annorexorcist
+12. Hairspray Queen
+13. Erectum
+14. Moby Dick (jam)
 
-MD5 FINGERPRINTS
---------------
-e016abc47a48a9bad77ad4cb77c68c42 *Nirvana_1988-01-23_SBD2e_t01.flac
-9c7ec1905125d1d9ed028a5851988607 *Nirvana_1988-01-23_SBD2e_t02.flac
-1fa593e2e491b53c59af0409b6e68a4d *Nirvana_1988-01-23_SBD2e_t03.flac
-a2f3de0ab5a577a927acf349e7b8ec6e *Nirvana_1988-01-23_SBD2e_t04.flac
-595d10880e03b2f982d0fd4f25267b7f *Nirvana_1988-01-23_SBD2e_t05.flac
-9dd274e073486f9bf00c25b203cded81 *Nirvana_1988-01-23_SBD2e_t06.flac
-8a499d3669888c8f3ee0ada608620c7f *Nirvana_1988-01-23_SBD2e_t07.flac
-6f2ba5985e8454948eed2ff5fca3f6f5 *Nirvana_1988-01-23_SBD2e_t08.flac
-72ea8a4dbf6ab228eb244204a281add2 *Nirvana_1988-01-23_SBD2e_t09.flac
-c955563950ceb6426f2d34e32640100c *Nirvana_1988-01-23_SBD2e_t10.flac
+MD5 FINGERPRINTS:
+04713f772a8c548d54fb20c08a207dca *VIDEO_TS\VIDEO_TS.BUP
+04713f772a8c548d54fb20c08a207dca *VIDEO_TS\VIDEO_TS.IFO
+0d5cec66f1cdb788f06a1e264f01b3ac *VIDEO_TS\VIDEO_TS.VOB
+5becd3dce59b1f1cde371d4f60732c56 *VIDEO_TS\VTS_01_0.BUP
+5becd3dce59b1f1cde371d4f60732c56 *VIDEO_TS\VTS_01_0.IFO
+1de4497696af0b1dce2990c1313fe676 *VIDEO_TS\VTS_01_0.VOB
+5b71e6ceb1763ca9887c0a121e1a5983 *VIDEO_TS\VTS_01_1.VOB
+a884f80c257c9ba80d762f38cb959a9f *VIDEO_TS\VTS_01_2.VOB
+6dad2dd7e4c75d70d7da6ee3fc9f0782 *VIDEO_TS\VTS_01_3.VOB
+cc48515aba12e00006521dc5bd503f79 *VIDEO_TS\VTS_01_4.VOB
 
-Transferred by unknown.
-Please do not encode to lossy formats and/or sell.
+TRANSFERRED BY:
+Mike Ziegler
+
+PLEASE DO NOT SELL OR ENCODE TO ANY LOSSY FORMATS

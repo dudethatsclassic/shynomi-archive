@@ -1,72 +1,41 @@
 NIRVANA
 October 14, 1991
-First Avenue
+Northern Lights
 Minneapolis, MN
 
-DISC #1/1 (76:30)
------------------
-01) L'Amour Est Un Oiseau Rebelle (jam) (cut)
-02) Jesus Wants Me For A Sunbeam
-03) Aneurysm
-04) Drain You
-05) School
-06) Floyd The Barber
-07) Smells Like Teen Spirit
-08) Polly
-09) About A Girl
-10) Lithium
-11) Come As You Are
-12) Breed
-13) Love Buzz
-14) Sliver
-15) Territorial Pissings
-16) Been A Son
-17) Negative Creep
-18) Blew
-19) On A Plain
-20) Endless, Nameless
-21) Something In The Way
-22) Rape Me
+SOURCE (AUD #1):
+unknown > unknown
 
-GENERATION
------------------
-ANA(1) -> DAT(1) -> WAV [48kHz] -> WAV [44.1kHz] -> FLAC [Level 8]
+TRANSFER:
+Tascam DA-20mkII > Apogee S/PDIF cable > PreSonus FireStudio Project > Adobe Audition 3.0 > CD Wave 1.98 > FLAC frontend 1.7.1
 
-(initally circulated as ANA(M) back in 2007, generation corrected in 2011)
+GENERATION:
+ANA(1) > DAT(1) [48kHz] > WAV [48kHz] > WAV [44.1kHz] > FLAC [Level 8]
 
-SOURCE (AUD#1)
------------------
-Sonic Studios -> Sony WM-D6
+LENGTH:
+25:14
 
-TRANSFER
------------------
-Tascam DA-20 MKII -> Apogee S/PDIF cable -> LynxONE digital-in -> Adobe Audition 2.0 -> CD Wave 1.95.1 -> FLAC Frontend 1.7.1
+TRACKS:
+01. Where Did You Sleep Last Night
+02. Dumb
+03. About A Girl
+04. I Feel Fine (jam)
+05. Jesus Wants Me For A Sunbeam
+06. Been A Son
+07. Something In The Way
+08. Negative Creep
 
-MD5 FINGERPRINTS
------------------
-2ccd3b16ba601de87f73036d4c59db09 *nirvana1991-10-14t01.flac
-8327fb4223a8de557bf2cd310f547a76 *nirvana1991-10-14t02.flac
-02866e795f00cff1e8c3ab41a05e48b9 *nirvana1991-10-14t03.flac
-2a40917bee7aeeb844ba468b8f5ca151 *nirvana1991-10-14t04.flac
-18ff8d054f170f94754b2515b4b856eb *nirvana1991-10-14t05.flac
-c1aa23e1f52e9fcdfcc7a55861a09333 *nirvana1991-10-14t06.flac
-6c6a9947dbcff2f512cf2137d04947b6 *nirvana1991-10-14t07.flac
-9bd39ed7bcaa99fad62b124809d3ba1d *nirvana1991-10-14t08.flac
-bbcbfb7d8f455f3b68c1c42867cc6b71 *nirvana1991-10-14t09.flac
-bc3642676cb5354547d5530371c01d65 *nirvana1991-10-14t10.flac
-21a00ce0c6bafc3cbdc1dbce89efdba9 *nirvana1991-10-14t11.flac
-4c4561af219b8af2312d087d9bca1ee5 *nirvana1991-10-14t12.flac
-bb3463bfb9abb6893ad5923b4d93a492 *nirvana1991-10-14t13.flac
-8fb4340ddcbbda79fcd797d2f74a60b7 *nirvana1991-10-14t14.flac
-67d67b099491a1449c1d007b508124e7 *nirvana1991-10-14t15.flac
-6802d2a3f17cc3aa07db913f15a5432e *nirvana1991-10-14t16.flac
-9a0062304d0f046a9a2ec09c9fc97d97 *nirvana1991-10-14t17.flac
-619d51b9ab4342e9cfedba1e164b8299 *nirvana1991-10-14t18.flac
-2c8fbd575499a72045fd3ac051e04bcc *nirvana1991-10-14t19.flac
-e0eba3fadf757ef4e36bf6209f6a261f *nirvana1991-10-14t20.flac
-043d524794f69ff8dce5517d1032b393 *nirvana1991-10-14t21.flac
-e785837a68ff08c8aa6b849828336fec *nirvana1991-10-14t22.flac
+MD5 FINGERPRINTS:
+a35203c3482d60f38014d4da743b265b *Nirvana_1991-10-14_early_AUD1_t01.flac
+648f33ea6fd473883fce92776327c27d *Nirvana_1991-10-14_early_AUD1_t02.flac
+42a05bb6daa8329e15e94682aa32133b *Nirvana_1991-10-14_early_AUD1_t03.flac
+83b98377f3df02749c21e69442801c24 *Nirvana_1991-10-14_early_AUD1_t04.flac
+ff46aa9c610afb6e4bb63eccc564eece *Nirvana_1991-10-14_early_AUD1_t05.flac
+277ce0d2c72f3274022ff6cc9fefc65d *Nirvana_1991-10-14_early_AUD1_t06.flac
+755af010a45acc5216ea7a03c8ea5588 *Nirvana_1991-10-14_early_AUD1_t07.flac
+550c1ceadb2195371745329a3dc0d81a *Nirvana_1991-10-14_early_AUD1_t08.flac
 
+TRANSFERRED BY:
+Mike Ziegler
 
-Transferred by Mike Ziegler.
-PLEASE DO NOT ENCODE TO MP3 OR SELL!
+PLEASE DO NOT SELL OR ENCODE TO MP3

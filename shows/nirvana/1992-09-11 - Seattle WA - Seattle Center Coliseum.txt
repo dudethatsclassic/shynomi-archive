@@ -1,107 +1,40 @@
-Nirvana
-Seattle Center Coliseum (WMIC Benefit)
+NIRVANA
+September 11th, 1992
+Seattle Center Coliseum (Washington Music Industry Coalition Benefit)
 Seattle, WA
-1992.09.11
 
-SOURCE: 
+SOURCE (PRO #1c):
+unknown > unknown
 
-Sonic Studio mics > Sony TCD-D7 > DAT(M) > DAT(3) > CDR(1) > Extracted using EAC > 
-Remastered using T-Racks24 (EQ and leveling) > Tracked and FLACed
+TRANSFER:
+Panasonic AG-1980 > Datavideo TBC6000 > ATI TV Wonder 600 USB > VirtualDub > AviSynth 2.6.0 > x264.exe 0.152.2851 ba24899 > MKVToolNix GUI v46.0.0
 
-LINEAGE: 
+GENERATION:
+VHS(X) > AVI [UTVideo/48khz/16-Bit/PCM] > MKV [480p/x264|AAC|FLAC]
 
-Please list this copy when burned on CDR as: DAT(3) > CDR(1) > remaster > CDR(2) 
-
-QUALITY: 
-
-A- (DAT audience audio)
-
-FILE SIZE: 
-
-531 mb
-
+DURATION:
+14:17
 
 SETLIST:
+01. Intro
+02. Breed
+03. Drain You
+04. Aneurysm
+05. Rape Me
 
-CD1:
+MD5 FINGERPRINTS:
+68416b92859c670c88ba52f3b15ff09c *Nirvana 1992-09-11 PRO1c t01 Intro.flac
+2a3d89cc48c7b4dc9cd7ed4a1923dd66 *Nirvana 1992-09-11 PRO1c t02 Breed.flac
+081c0a74fe9f98be58bd384464b65374 *Nirvana 1992-09-11 PRO1c t03 Drain You.flac
+543dcdd54577da91c2f366532e88ca37 *Nirvana 1992-09-11 PRO1c t04 Aneurysm.flac
+1f3216faaa44fba98fea1f36a2840a0a *Nirvana 1992-09-11 PRO1c t05 Rape Me.flac
 
-01. Breed
-02. Drain You
-03. Aneurysm
-04. School
-05. Sliver
-06. In Bloom
-07. Come As You Are
-08. Lithium
-09. About A Girl
-10. tourette's
-11. Polly
-12. Lounge Act
-13. Smells Like Teen Spirit (with a small "More Than A Feeling" intro)
+TRANSFER BY:
+Nicholas Serra
 
-RUNNING TIME: 46:06
+DISTRIBUTION:
+Members of LiveNIRVANA.com
+2021-12-21
 
-CD2:
 
-01. On A Plain
-02. Negative Creep
-03. All Apologies
-04. Been A Son
-05. Blew
-06. Dumb
-07. Rape Me
-08. Stay Away
-09. Love Buzz
-10. Territorial Pissings
-
-RUNNING TIME: 38:00
-
-TOTAL RUNNING TIME: 84:06
-
-NOTES: 
-
-* This copy is remastered by ra@livenirvana.com.
-* The very begining of "Breed" fades in as on all known DAT clones.
-* "Early" versions of the In Utero songs, "tourette's", "All Apologies", "Dumb", and "Rape Me".
-* This show is also available as the bootleg release "Banned For Life". 
-  This copy is from a DAT masterclone,
-  The master clone sounds better, AND is more complete. 
-  The bootleg is cut between most tracks to make it fit 1 CD.
-  This leaves out much of the live feeling. 
-  Apart from the fade-in on "Breed" I think this source is pretty much as good as it gets.
-
-!!!IF YOU ABSOLUTELY MUST CONVERT THIS ONE TO MP3, KEEP IT ON YOUR MP3-PLAYER!!!
-!!!DO NOT TRADE/SPREAD LOSSY VERSION OF THIS RECORDING, EVER!!!
-!!!FOR FREE TRADE ONLY!!!
-!!!DO NOT SELL THIS RECORDING!!!
-!!!DO NOT SPREAD WITHOUT THIS FILE!!!
-
-CREDITS:
-
-*Thanks to Nirvana for playing a very nice show!*
-
-FLAC fingerprints:
-
-nirvana.1992.09.11.D2T01.flac:5f1f5d648aab36d755153cb9b34617a8
-nirvana.1992.09.11.D1T02.flac:2ac8b1afd965dde0330f5137a48c2c71
-nirvana.1992.09.11.D1T03.flac:a42b343c49db1db2a91417bc2b4f0bcd
-nirvana.1992.09.11.D1T04.flac:aa283c2a97aadfb445738f09fd136ee2
-nirvana.1992.09.11.D1T05.flac:f43760d38dc4da42249abb0bd2ccb7ce
-nirvana.1992.09.11.D1T06.flac:3374ca17d815783243d1ca3d2cb7fb51
-nirvana.1992.09.11.D1T07.flac:b2c0693620130c33aae9b2c162e88e96
-nirvana.1992.09.11.D1T08.flac:f937fa13524825cbdda792c485e29e6b
-nirvana.1992.09.11.D1T09.flac:a551fe1987ed75cf19f628ad2dda3562
-nirvana.1992.09.11.D1T10.flac:4fd19238fbe2b7214368fc2a64e3caa7
-nirvana.1992.09.11.D1T11.flac:42c5a856b83300dabe2d893f934746f9
-nirvana.1992.09.11.D1T12.flac:dcbb90907ff9cf27a69f90992fe749df
-nirvana.1992.09.11.D1T13.flac:d6a1e5898a754ffde2b6f9438a67381e
-nirvana.1992.09.11.D1T01.flac:1e144dd83eabe161c000d0b02a0ed9e3
-nirvana.1992.09.11.D2T02.flac:3fd07096aed3a94d414bb8a06cadddfa
-nirvana.1992.09.11.D2T03.flac:f39a475b1195fe3be51df4dee1302b87
-nirvana.1992.09.11.D2T04.flac:04799b90d6471a1f63a2c3aabac19bdd
-nirvana.1992.09.11.D2T05.flac:4da4abc1d1d4582bfb19757f2520219c
-nirvana.1992.09.11.D2T06.flac:c32441d85be0cc3048df679e86655dc3
-nirvana.1992.09.11.D2T07.flac:d37083ec059cd90d9b82c68bf5883e93
-nirvana.1992.09.11.D2T08.flac:8c5b7d53378881ad0f94d962b05103f6
-nirvana.1992.09.11.D2T09.flac:9bd64f9b0633107f538f6e4ad7a72f13
-nirvana.1992.09.11.D2T10.flac:991addfa2af2502fb2de4e682a0efd78
+**PLEASE DO NOT ENCODE TO LOSSY FORMATS OR SELL!**

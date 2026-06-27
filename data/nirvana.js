@@ -218,7 +218,8 @@ const ARTIST_DATA = {
       "venue": "KAOS Olympia Community Radio",
       "notes": "",
       "version": "FM",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1987-05-06 - Olympia, WA - KAOS Olympia Community Radio.txt"
     },
     {
       "year": 1988,
@@ -398,7 +399,8 @@ const ARTIST_DATA = {
       "venue": "Reciprocal Recording",
       "notes": "ANA(2) \u00b7 mz",
       "version": "SBD #2h",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1988-01-23 - Seattle, WA - Reciprocal Recording.txt"
     },
     {
       "year": 1988,
@@ -425,7 +427,8 @@ const ARTIST_DATA = {
       "venue": "Reciprocal Recording",
       "notes": "ANA(2) \u00b7 bs",
       "version": "SBD #3a",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1988-01-23 - Seattle, WA - Reciprocal Recording.txt"
     },
     {
       "year": 1988,
@@ -465,7 +468,8 @@ const ARTIST_DATA = {
       "venue": "Radioshack",
       "notes": "VHS(1) \u00b7 mz",
       "version": "AMT #1",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1988-01-24 - Aberdeen, WA - Radio Shack.txt"
     },
     {
       "year": 1988,
@@ -478,7 +482,8 @@ const ARTIST_DATA = {
       "venue": "Radioshack",
       "notes": "VID(4)",
       "version": "TV",
-      "format": "DVD"
+      "format": "DVD",
+      "textFile": "1988-01-24 - Aberdeen, WA - Radio Shack.txt"
     },
     {
       "year": 1988,
@@ -520,7 +525,7 @@ const ARTIST_DATA = {
       "notes": "jwb remaster",
       "version": "SBD #1",
       "format": "FLAC",
-      "textFile": "1988-03-19 - SBD #2 - ANA(M)-FLAC - 44.1kHz.txt"
+      "textFile": "1988-03-19 - Tacoma, WA - Community World Theater.txt"
     },
     {
       "year": 1988,
@@ -533,7 +538,8 @@ const ARTIST_DATA = {
       "venue": "Community World Theater",
       "notes": "ANA(M) \u00b7 mz",
       "version": "SBD #2 (44k)",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1988-03-19 - SBD #2 - ANA(M)-FLAC - 44.1kHz.txt"
     },
     {
       "year": 1988,
@@ -546,7 +552,8 @@ const ARTIST_DATA = {
       "venue": "Community World Theater",
       "notes": "ANA(M) \u00b7 mz",
       "version": "SBD #2 (96k)",
-      "format": "FLAC 24"
+      "format": "FLAC 24",
+      "textFile": "1988-03-19 - SBD #2 - ANA(M)-FLAC - 44.1kHz.txt"
     },
     {
       "year": 1988,
@@ -599,7 +606,8 @@ const ARTIST_DATA = {
       "venue": "Eagles Hall",
       "notes": "ANA(x) \u00b7 mz",
       "version": "AUD #1",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1988-12-21 - Hoquiam, WA - Eagles Hall.txt"
     },
     {
       "year": 1988,
@@ -612,7 +620,8 @@ const ARTIST_DATA = {
       "venue": "Eagles Hall",
       "notes": "VHS(x) \u00b7 mz",
       "version": "AMT #1a",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1988-12-21 - Hoquiam, WA - Eagles Hall.txt"
     },
     {
       "year": 1988,
@@ -625,7 +634,8 @@ const ARTIST_DATA = {
       "venue": "Eagles Hall",
       "notes": "VHS(x) \u00b7 mz",
       "version": "AMT #1a",
-      "format": "DVD"
+      "format": "DVD",
+      "textFile": "1988-12-21 - Hoquiam, WA - Eagles Hall.txt"
     },
     {
       "year": 1988,
@@ -652,7 +662,8 @@ const ARTIST_DATA = {
       "venue": "Eagles Hall",
       "notes": "VHS(1) \u00b7 jh",
       "version": "AMT #1b",
-      "format": "DVD"
+      "format": "DVD",
+      "textFile": "1988-12-21 - Hoquiam, WA - Eagles Hall.txt"
     },
     {
       "year": 1988,
@@ -734,7 +745,8 @@ const ARTIST_DATA = {
       "venue": "Lindbloom Student Center, Green River Comm College",
       "notes": "VHS(1) \u00b7 mz",
       "version": "AMT #1",
-      "format": "DVD"
+      "format": "DVD",
+      "textFile": "1989-05-26 - Auburn, WA - Lindbloom Student Center.txt"
     },
     {
       "year": 1989,
@@ -747,7 +759,8 @@ const ARTIST_DATA = {
       "venue": "Lindbloom Student Center, Green River Comm College",
       "notes": "VHS(1) \u00b7 mz",
       "version": "AMT #1",
-      "format": "MKV"
+      "format": "MKV",
+      "textFile": "1989-05-26 - Auburn, WA - Lindbloom Student Center.txt"
     },
     {
       "year": 1989,
@@ -760,7 +773,8 @@ const ARTIST_DATA = {
       "venue": "Lindbloom Student Center, Green River Comm College",
       "notes": "VHS(1) \u00b7 mz",
       "version": "AMT #1 (44.1k)",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1989-05-26 - Auburn, WA - Lindbloom Student Center.txt"
     },
     {
       "year": 1989,
@@ -814,7 +828,8 @@ const ARTIST_DATA = {
       "venue": "Moore Theatre",
       "notes": "Lame Fest '89 \u00b7 members of LN",
       "version": "AMT #3",
-      "format": "MKV"
+      "format": "MKV",
+      "textFile": "1989-06-09 - Seattle, WA - Moore Theatre.txt"
     },
     {
       "year": 1989,
@@ -827,7 +842,8 @@ const ARTIST_DATA = {
       "venue": "Moore Theatre (Lame Fest '89)",
       "notes": "VHS(4) \u00b7 mz",
       "version": "AMT #4",
-      "format": "DVD"
+      "format": "DVD",
+      "textFile": "1989-06-09 - Seattle, WA - Moore Theatre.txt"
     },
     {
       "year": 1989,
@@ -882,7 +898,8 @@ const ARTIST_DATA = {
       "venue": "Westwood Rhino Records",
       "notes": "",
       "version": "UNK",
-      "format": "MP4"
+      "format": "MP4",
+      "textFile": "1989-06-23 - Los Angeles, CA - Westwood Rhino Records.txt"
     },
     {
       "year": 1989,
@@ -909,7 +926,8 @@ const ARTIST_DATA = {
       "venue": "Al's Bar",
       "notes": "VHS(1) \u00b7 mz",
       "version": "AMT #1",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1989-06-24 - Los Angeles, CA - Al's Bar.txt"
     },
     {
       "year": 1989,
@@ -936,7 +954,8 @@ const ARTIST_DATA = {
       "venue": "Rockin' T.P.",
       "notes": "VHS(M) \u00b7 mz",
       "version": "AMT #1 (48k)",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1989-06-27 - Santa Fe, NM - Rockin' T.P..txt"
     },
     {
       "year": 1989,
@@ -949,7 +968,8 @@ const ARTIST_DATA = {
       "venue": "Rockin' T.P.",
       "notes": "VHS(M) \u00b7 mz",
       "version": "AMT #1",
-      "format": "DVD"
+      "format": "DVD",
+      "textFile": "1989-06-27 - Santa Fe, NM - Rockin' T.P..txt"
     },
     {
       "year": 1989,
@@ -1004,7 +1024,8 @@ const ARTIST_DATA = {
       "venue": "JC Dobbs",
       "notes": "VHS(x) \u00b7 mz",
       "version": "AMT#1",
-      "format": "DVD"
+      "format": "DVD",
+      "textFile": "1989-07-12 - Philadelphia, PA - JC Dobbs.txt"
     },
     {
       "year": 1989,
@@ -1059,7 +1080,8 @@ const ARTIST_DATA = {
       "venue": "Maxwell's",
       "notes": "VID8(M) \u00b7 upgrade",
       "version": "AMT #1",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1989-07-13 - Hoboken, NJ - Maxwell's.txt"
     },
     {
       "year": 1989,
@@ -1072,7 +1094,8 @@ const ARTIST_DATA = {
       "venue": "Maxwell's",
       "notes": "VID8(M)",
       "version": "AMT #1 (44.1k)",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1989-07-13 - Hoboken, NJ - Maxwell's.txt"
     },
     {
       "year": 1989,
@@ -1085,7 +1108,8 @@ const ARTIST_DATA = {
       "venue": "Maxwell's",
       "notes": "VID8(M)",
       "version": "AMT #1 (48k)",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1989-07-13 - Hoboken, NJ - Maxwell's.txt"
     },
     {
       "year": 1989,
@@ -1139,7 +1163,8 @@ const ARTIST_DATA = {
       "venue": "Pyramid Club (New Music Seminar)",
       "notes": "VID8(M)",
       "version": "AMT #1 (48k)",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1989-07-18 - New York, NY - Pyramid Club.txt"
     },
     {
       "year": 1989,
@@ -1152,7 +1177,8 @@ const ARTIST_DATA = {
       "venue": "Pyramid Club (New Music Seminar)",
       "notes": "VID8(M)",
       "version": "AMT #1",
-      "format": "MKV"
+      "format": "MKV",
+      "textFile": "1989-07-18 - New York, NY - Pyramid Club.txt"
     },
     {
       "year": 1989,
@@ -1165,7 +1191,8 @@ const ARTIST_DATA = {
       "venue": "Pyramid Club (New Music Seminar)",
       "notes": "VHS(x) \u00b7 mz",
       "version": "AMT #1a",
-      "format": "DVD"
+      "format": "DVD",
+      "textFile": "1989-07-18 - New York, NY - Pyramid Club.txt"
     },
     {
       "year": 1989,
@@ -1220,7 +1247,7 @@ const ARTIST_DATA = {
       "notes": "jwb remaster",
       "version": "AUD #1",
       "format": "FLAC",
-      "textFile": "1989-09-30 - AUD1 - anaM_ CDR1.txt"
+      "textFile": "1989-09-30 - AMT1 x264 AAC FLAC.txt"
     },
     {
       "year": 1989,
@@ -1234,7 +1261,7 @@ const ARTIST_DATA = {
       "notes": "VHS(M) \u00b7 mz",
       "version": "AMT #1 (48k)",
       "format": "FLAC",
-      "textFile": "1989-09-30 - Cabaret Metro, Chicago, IL, US (AMT 1, Inferior Transfer 2).txt"
+      "textFile": "1989-09-30 - AMT #1 - 48kHz.txt"
     },
     {
       "year": 1989,
@@ -1248,7 +1275,7 @@ const ARTIST_DATA = {
       "notes": "VHS(M) \u00b7 aadam jacobs",
       "version": "AMT #1 (48k)",
       "format": "FLAC",
-      "textFile": "1989-09-30 - Cabaret Metro, Chicago, IL, US AMT_1.txt"
+      "textFile": "1989-09-30 - AUD1 - anaM_ CDR1.txt"
     },
     {
       "year": 1989,
@@ -1262,7 +1289,7 @@ const ARTIST_DATA = {
       "notes": "VHS(M) \u00b7 mz",
       "version": "AMT #1",
       "format": "DVD",
-      "textFile": "1989-09-30 - AMT #1 - 48kHz.txt"
+      "textFile": "1989-09-30 - Cabaret Metro, Chicago, IL, US (AMT 1, Inferior Transfer 2).txt"
     },
     {
       "year": 1989,
@@ -1276,7 +1303,7 @@ const ARTIST_DATA = {
       "notes": "VHS(2) \u00b7 remaster \u00b7 transfer 2",
       "version": "AMT #1",
       "format": "DVD",
-      "textFile": "1989-09-30 - Live At The Metro 1989 (JWB REMASTER) [FLAC].txt"
+      "textFile": "1989-09-30 - Cabaret Metro, Chicago, IL, US AMT_1.txt"
     },
     {
       "year": 1989,
@@ -1387,7 +1414,8 @@ const ARTIST_DATA = {
       "venue": "Students' Union, Manchester Polytechnic",
       "notes": "ANA(x) \u00b7 inc",
       "version": "SBD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1989-10-24 - Manchester, UK - Students' Union, Manchester Polytechnic.txt"
     },
     {
       "year": 1989,
@@ -1400,7 +1428,8 @@ const ARTIST_DATA = {
       "venue": "Students' Union, Manchester Polytechnic",
       "notes": "ANA(1) \u00b7 pl",
       "version": "AUD #1",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1989-10-24 - Manchester, UK - Students' Union, Manchester Polytechnic.txt"
     },
     {
       "year": 1989,
@@ -1427,7 +1456,8 @@ const ARTIST_DATA = {
       "venue": "Duchess of York Public House",
       "notes": "ANA(M) \u00b7 rhys davies \u00b7 mz",
       "version": "AUD #2",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1989-10-25 - Leeds, UK - Duchess of York Public House.txt"
     },
     {
       "year": 1989,
@@ -1440,7 +1470,8 @@ const ARTIST_DATA = {
       "venue": "Duchess of York Public House",
       "notes": "ANA(1) \u00b7 ks",
       "version": "AUD #3",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1989-10-25 - Leeds, UK - Duchess of York Public House.txt"
     },
     {
       "year": 1989,
@@ -1481,7 +1512,8 @@ const ARTIST_DATA = {
       "venue": "Students' Union, The School of Oriental and African Studies",
       "notes": "WEB \u00b7 jl",
       "version": "AUD #2",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1989-10-27 - London, England - Students' Union, The School of Oriental and African Studies.txt"
     },
     {
       "year": 1989,
@@ -1508,7 +1540,8 @@ const ARTIST_DATA = {
       "venue": "Ents Hall",
       "notes": "Portsmouth \u00b7 x \u00b7 mz",
       "version": "AUD #2",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1989-10-28 - Portsmouth, UK - Ents Hall - Portsmouth Polytechnic.txt"
     },
     {
       "year": 1989,
@@ -1535,7 +1568,8 @@ const ARTIST_DATA = {
       "venue": "Edward's No. 8",
       "notes": "ANA(M) \u00b7 mz",
       "version": "AUD #1 (48k)",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1989-10-29 - Birmingham, UK - Edward's Number 8.txt"
     },
     {
       "year": 1989,
@@ -1548,7 +1582,8 @@ const ARTIST_DATA = {
       "venue": "Edward's No. 8",
       "notes": "ANA(M) \u00b7 pl",
       "version": "AUD #2",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1989-10-29 - Birmingham, UK - Edward's Number 8.txt"
     },
     {
       "year": 1989,
@@ -1604,7 +1639,7 @@ const ARTIST_DATA = {
       "notes": "am",
       "version": "SBD #1c",
       "format": "FLAC",
-      "textFile": "1989-11-01 - Rotterdam, The Netherlands - Nighttown.txt"
+      "textFile": "1989-11-01 - Hilversum, The Netherlands - Villa 65.txt"
     },
     {
       "year": 1989,
@@ -1617,7 +1652,8 @@ const ARTIST_DATA = {
       "venue": "Nighttown",
       "notes": "ANA(2) \u00b7 mz",
       "version": "SBD #1",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1989-11-01 - Rotterdam, The Netherlands - Nighttown.txt"
     },
     {
       "year": 1989,
@@ -1644,7 +1680,8 @@ const ARTIST_DATA = {
       "venue": "Vera",
       "notes": "VHS(1)",
       "version": "AMT #1",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1989-11-02 - Groningen, The Netherlands - Vera.txt"
     },
     {
       "year": 1989,
@@ -1657,7 +1694,8 @@ const ARTIST_DATA = {
       "venue": "Vera",
       "notes": "VHS(1) \u00b7 am",
       "version": "AMT #1",
-      "format": "DVD"
+      "format": "DVD",
+      "textFile": "1989-11-02 - Groningen, The Netherlands - Vera.txt"
     },
     {
       "year": 1989,
@@ -1670,7 +1708,8 @@ const ARTIST_DATA = {
       "venue": "Vera",
       "notes": "VHS(1) \u00b7 am",
       "version": "AMT #1a",
-      "format": "DVD"
+      "format": "DVD",
+      "textFile": "1989-11-02 - Groningen, The Netherlands - Vera.txt"
     },
     {
       "year": 1989,
@@ -1739,7 +1778,8 @@ const ARTIST_DATA = {
       "venue": "Melkweg",
       "notes": "ANA(x) \u00b7 pl",
       "version": "AUD #2",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1989-11-05 - Amsterdam, The Netherlands - Melkweg.txt"
     },
     {
       "year": 1989,
@@ -1851,7 +1891,7 @@ const ARTIST_DATA = {
       "notes": "ANA(2) \u00b7 david wilhauk transfer",
       "version": "AUD #1a",
       "format": "FLAC",
-      "textFile": "1989-11-11_AUD2_ANAx.txt"
+      "textFile": "1989-11-11 - AUD #1a - ANA(2)-FLAC [DW].txt"
     },
     {
       "year": 1989,
@@ -1865,7 +1905,7 @@ const ARTIST_DATA = {
       "notes": "ANA(1) \u00b7 hb",
       "version": "AUD #1b",
       "format": "FLAC",
-      "textFile": "1989-11-11_AUD_1a.txt"
+      "textFile": "1989-11-11_AUD2_ANAx.txt"
     },
     {
       "year": 1989,
@@ -1878,7 +1918,8 @@ const ARTIST_DATA = {
       "venue": "Ecstasy",
       "notes": "ANA(x) \u00b7 db",
       "version": "AUD #2",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1989-11-11_AUD_1a.txt"
     },
     {
       "year": 1989,
@@ -1919,7 +1960,8 @@ const ARTIST_DATA = {
       "venue": "Schwimmbad Musik-Club",
       "notes": "VHS(1) \u00b7 jh",
       "version": "AMT #1",
-      "format": "DVD"
+      "format": "DVD",
+      "textFile": "1989-11-15 - Heidelberg, West Germany - Schwimmbad Musik-Club.txt"
     },
     {
       "year": 1989,
@@ -1974,7 +2016,8 @@ const ARTIST_DATA = {
       "venue": "Trust",
       "notes": "ANA(x) \u00b7 fb",
       "version": "AUD #3",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1989-11-16 - Nuremburg, West Germany - Trust.txt"
     },
     {
       "year": 1989,
@@ -2141,7 +2184,8 @@ const ARTIST_DATA = {
       "venue": "U4",
       "notes": "jwb remaster",
       "version": "MIX",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1989-11-22 - Wien, AT - U4 Club .txt"
     },
     {
       "year": 1989,
@@ -2196,7 +2240,8 @@ const ARTIST_DATA = {
       "venue": "Bloom (Tad & Nirvana) *In the Bloom",
       "notes": "jp",
       "version": "AUD #1",
-      "format": "DVD"
+      "format": "DVD",
+      "textFile": "1989-11-26 - Mezzago, Italy - Bloom (Tad & Nirvana).txt"
     },
     {
       "year": 1989,
@@ -2209,7 +2254,8 @@ const ARTIST_DATA = {
       "venue": "Bloom (Tad & Nirvana)",
       "notes": "ANA(M) \u00b7 db",
       "version": "AUD #2 (44.1k)",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1989-11-26 - Mezzago, Italy - Bloom (Tad & Nirvana).txt"
     },
     {
       "year": 1989,
@@ -2249,7 +2295,8 @@ const ARTIST_DATA = {
       "venue": "Piper Club",
       "notes": "ANA(1) \u00b7 guitar_boy",
       "version": "AUD #2 (44.1k)",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1989-11-27 - Rome, Italy - Piper Club.txt"
     },
     {
       "year": 1989,
@@ -2262,7 +2309,8 @@ const ARTIST_DATA = {
       "venue": "Piper Club",
       "notes": "ANA(x) \u00b7 db",
       "version": "AUD #3",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1989-11-27 - Rome, Italy - Piper Club.txt"
     },
     {
       "year": 1989,
@@ -2317,7 +2365,8 @@ const ARTIST_DATA = {
       "venue": "Le Fahrenheit",
       "notes": "ANA(M) \u00b7 ra",
       "version": "AUD #1b",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1989-12-01 - Issy-les-Moulineaux, France - Le Fahrenheit.txt"
     },
     {
       "year": 1989,
@@ -2330,7 +2379,8 @@ const ARTIST_DATA = {
       "venue": "Le Fahrenheit",
       "notes": "",
       "version": "AMT #1a",
-      "format": "AVI"
+      "format": "AVI",
+      "textFile": "1989-12-01 - Issy-les-Moulineaux, France - Le Fahrenheit.txt"
     },
     {
       "year": 1989,
@@ -2410,7 +2460,8 @@ const ARTIST_DATA = {
       "venue": "Democrazy",
       "notes": "ANA(M) \u00b7 upgrade \u00b7 mv",
       "version": "AUD #2 (44.1k)",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1989-12-02 - Ghent, Belgium - Democrazy.txt"
     },
     {
       "year": 1989,
@@ -2674,7 +2725,8 @@ const ARTIST_DATA = {
       "venue": "Pine Street Theatre",
       "notes": "ANA(3) \u00b7 mz",
       "version": "SBD #1b",
-      "format": "FLAC 24"
+      "format": "FLAC 24",
+      "textFile": "1990-02-09 SBD#1b ANA(3).txt"
     },
     {
       "year": 1990,
@@ -2743,7 +2795,8 @@ const ARTIST_DATA = {
       "venue": "Pine Street Theatre *Nevermind It's an Interview",
       "notes": "",
       "version": "SBDCLP #1",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1990-02-09 - Portland, OR - Pine Street Theatre.txt"
     },
     {
       "year": 1990,
@@ -2770,7 +2823,8 @@ const ARTIST_DATA = {
       "venue": "Cactus Club",
       "notes": "jwb remaster",
       "version": "SBD #1",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1990-02-11 - San Jose, CA - Cactus Club.txt"
     },
     {
       "year": 1990,
@@ -2951,7 +3005,8 @@ const ARTIST_DATA = {
       "venue": "Raji's",
       "notes": "ANA(M)",
       "version": "AUD #1",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1990-02-15 - Hollywood, CA - Raji's.txt"
     },
     {
       "year": 1990,
@@ -2964,7 +3019,8 @@ const ARTIST_DATA = {
       "venue": "Raji's",
       "notes": "ANA(M) \u00b7 mz",
       "version": "AUD #2",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1990-02-15 - Hollywood, CA - Raji's.txt"
     },
     {
       "year": 1990,
@@ -3061,7 +3117,8 @@ const ARTIST_DATA = {
       "venue": "Bogart's",
       "notes": "DAT(M) \u00b7 mz",
       "version": "AUD #3 (44.1k)",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1990-02-16 - Long Beach, CA - Bogarts.txt"
     },
     {
       "year": 1990,
@@ -3074,7 +3131,8 @@ const ARTIST_DATA = {
       "venue": "Bogart's",
       "notes": "DAT(M) \u00b7 mz",
       "version": "AUD #3 (48k)",
-      "format": "FLAC 24"
+      "format": "FLAC 24",
+      "textFile": "1990-02-16 - Long Beach, CA - Bogarts.txt"
     },
     {
       "year": 1990,
@@ -3087,7 +3145,8 @@ const ARTIST_DATA = {
       "venue": "Bogart's *7\" Penu Baby",
       "notes": "pv",
       "version": "SBD #1 (96k)",
-      "format": "FLAC 24"
+      "format": "FLAC 24",
+      "textFile": "1990-02-16 - Long Beach, CA - Bogarts.txt"
     },
     {
       "year": 1990,
@@ -3100,7 +3159,8 @@ const ARTIST_DATA = {
       "venue": "Bogart's",
       "notes": "VHS(1) \u00b7 jh",
       "version": "AMT #1a",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1990-02-16 - Long Beach, CA - Bogarts.txt"
     },
     {
       "year": 1990,
@@ -3113,7 +3173,8 @@ const ARTIST_DATA = {
       "venue": "Bogart's",
       "notes": "VHS(1) \u00b7 mz",
       "version": "AMT #1a",
-      "format": "DVD"
+      "format": "DVD",
+      "textFile": "1990-02-16 - Long Beach, CA - Bogarts.txt"
     },
     {
       "year": 1990,
@@ -3221,7 +3282,8 @@ const ARTIST_DATA = {
       "venue": "The Mason Jar",
       "notes": "VHS(2) \u00b7 bs",
       "version": "AMT #1",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1990-02-19 - Phoenix, AZ - The Mason Jar.txt"
     },
     {
       "year": 1990,
@@ -3234,7 +3296,8 @@ const ARTIST_DATA = {
       "venue": "The Mason Jar",
       "notes": "VHS(2) \u00b7 jh",
       "version": "AMT #1",
-      "format": "DVD"
+      "format": "DVD",
+      "textFile": "1990-02-19 - Phoenix, AZ - The Mason Jar.txt"
     },
     {
       "year": 1990,
@@ -3261,7 +3324,8 @@ const ARTIST_DATA = {
       "venue": "Town Pump",
       "notes": "ANA(1) \u00b7 mz",
       "version": "AUD #1a (44.1k)",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1990-03-12 - Vancouver, BC - Town Pump.txt"
     },
     {
       "year": 1990,
@@ -3274,7 +3338,8 @@ const ARTIST_DATA = {
       "venue": "Town Pump",
       "notes": "ANA(1) \u00b7 mz",
       "version": "AUD #1a (48k)",
-      "format": "FLAC 24"
+      "format": "FLAC 24",
+      "textFile": "1990-03-12 - Vancouver, BC - Town Pump.txt"
     },
     {
       "year": 1990,
@@ -3343,7 +3408,7 @@ const ARTIST_DATA = {
       "notes": "VHS(2) \u00b7 mz",
       "version": "AMT #2 (44.1k)",
       "format": "FLAC",
-      "textFile": "1990-04-10 - AUD #2a - VIN-FLAC [Live] - 44.1kHz [PV].txt"
+      "textFile": "1990-04-10 - AMT #2 - VHS(2)-FLAC - 44.1kHz.txt"
     },
     {
       "year": 1990,
@@ -3357,7 +3422,7 @@ const ARTIST_DATA = {
       "notes": "VHS(2) \u00b7 mz transfer",
       "version": "AMT #2",
       "format": "DVD",
-      "textFile": "1990-04-10 - AMT #2 - VHS(2)-FLAC - 44.1kHz.txt"
+      "textFile": "1990-04-10 - Blind Pig, Ann Arbor, MI.txt"
     },
     {
       "year": 1990,
@@ -3384,7 +3449,8 @@ const ARTIST_DATA = {
       "venue": "Blind Pig",
       "notes": "jwb remaster",
       "version": "AUD #1",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1990-04-10 - Blind Pig, Ann Arbor, MI.txt"
     },
     {
       "year": 1990,
@@ -3411,7 +3477,8 @@ const ARTIST_DATA = {
       "venue": "Blind Pig *Live",
       "notes": "pv",
       "version": "AUD #2a (44.1k)",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1990-04-10 - AUD #2a - VIN-FLAC [Live] - 44.1kHz [PV].txt"
     },
     {
       "year": 1990,
@@ -3466,7 +3533,8 @@ const ARTIST_DATA = {
       "venue": "Foufounes Electriques",
       "notes": "ANA(1) \u00b7 speed corrected",
       "version": "AUD #1",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1990-04-17 - Montreal, Quebec - Foufounes Electriques.txt"
     },
     {
       "year": 1990,
@@ -3479,7 +3547,8 @@ const ARTIST_DATA = {
       "venue": "Foufounes Electriques",
       "notes": "BETA(M) \u00b7 ch",
       "version": "PRO #1 (44.1k)",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1990-04-17 - Montreal, Quebec - Foufounes Electriques.txt"
     },
     {
       "year": 1990,
@@ -3520,7 +3589,8 @@ const ARTIST_DATA = {
       "venue": "Manray Nightclub",
       "notes": "ANA(2) \u00b7 mz",
       "version": "AUD #1",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1990-04-18 - Cambridge, MA - ManRay Nightclub.txt"
     },
     {
       "year": 1990,
@@ -3533,7 +3603,8 @@ const ARTIST_DATA = {
       "venue": "Manray Nightclub",
       "notes": "ANA(x) \u00b7 ks",
       "version": "AUD #2",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1990-04-18 - Cambridge, MA - ManRay Nightclub.txt"
     },
     {
       "year": 1990,
@@ -3616,7 +3687,8 @@ const ARTIST_DATA = {
       "venue": "Maxwell's",
       "notes": "Source 2 \u00b7 PC-62 \u00b7 stonecutter",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1990-04-28 - Hoboken, NJ - Maxwell's.txt"
     },
     {
       "year": 1990,
@@ -3629,7 +3701,8 @@ const ARTIST_DATA = {
       "venue": "Maxwell's",
       "notes": "ANA(M)",
       "version": "AUD #2",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1990-04-28 - Hoboken, NJ - Maxwell's.txt"
     },
     {
       "year": 1990,
@@ -3642,7 +3715,8 @@ const ARTIST_DATA = {
       "venue": "Maxwell's",
       "notes": "ANA(1) \u00b7 mz",
       "version": "AUD #3",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1990-04-28 - Hoboken, NJ - Maxwell's.txt"
     },
     {
       "year": 1990,
@@ -3698,7 +3772,7 @@ const ARTIST_DATA = {
       "notes": "ANA(1) \u00b7 ks",
       "version": "SBD #1",
       "format": "FLAC",
-      "textFile": "1990-05-02 - AUD #1 - ANA(1)-FLAC - 44.1kHz.txt"
+      "textFile": "1990-05-02 - Charlotte, NC - The Milestone.txt"
     },
     {
       "year": 1990,
@@ -3711,7 +3785,8 @@ const ARTIST_DATA = {
       "venue": "The Milestone",
       "notes": "ANA(1) \u00b7 ks",
       "version": "AUD #1 (44.1k)",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1990-05-02 - AUD #1 - ANA(1)-FLAC - 44.1kHz.txt"
     },
     {
       "year": 1990,
@@ -3724,7 +3799,8 @@ const ARTIST_DATA = {
       "venue": "The Milestone (SBD #1 + AUD #1)",
       "notes": "ANA(1)",
       "version": "MTX",
-      "format": "SHN"
+      "format": "SHN",
+      "textFile": "1990-05-02 - Charlotte, NC - The Milestone.txt"
     },
     {
       "year": 1990,
@@ -3751,7 +3827,8 @@ const ARTIST_DATA = {
       "venue": "The Masquerade",
       "notes": "ANA(M) \u00b7 master upgrade \u00b7 rl",
       "version": "AUD #1 (44.1k)",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1990-05-04 - Tampa, FL - The Masquerade.txt"
     },
     {
       "year": 1990,
@@ -3792,7 +3869,7 @@ const ARTIST_DATA = {
       "notes": "VHS(x) \u00b7 ks",
       "version": "AMT #1 (44.1k)",
       "format": "FLAC",
-      "textFile": "1990-05-06 - AMT #2 - VHS(1)-DVDR(0) [KS].txt"
+      "textFile": "1990-05-06 - AMT #1 - VHS(x)-FLAC - 44.1kHz.txt"
     },
     {
       "year": 1990,
@@ -3806,7 +3883,7 @@ const ARTIST_DATA = {
       "notes": "VHS(x) \u00b7 ks",
       "version": "AMT #1",
       "format": "DVD",
-      "textFile": "1990-05-06 - AMT #1 - VHS(x)-FLAC - 44.1kHz.txt"
+      "textFile": "1990-05-06 - AMT #2 - VHS(1)-DVDR(0) [KS].txt"
     },
     {
       "year": 1990,
@@ -3820,7 +3897,7 @@ const ARTIST_DATA = {
       "notes": "VHS(1) \u00b7 ks",
       "version": "AMT #2 (44.1k)",
       "format": "FLAC",
-      "textFile": "1990-05-06 - SBD #1 - ANA(1)-DAT(1)-FLAC - 44.1kHz.txt"
+      "textFile": "1990-05-06 - AMT #2 - VHS(1)-FLAC - 44.1kHz.txt"
     },
     {
       "year": 1990,
@@ -3834,7 +3911,7 @@ const ARTIST_DATA = {
       "notes": "VHS(1) \u00b7 ks",
       "version": "AMT #2",
       "format": "DVD",
-      "textFile": "1990-05-06 - AMT #2 - VHS(1)-FLAC - 44.1kHz.txt"
+      "textFile": "1990-05-06 - SBD #1 - ANA(1)-DAT(1)-FLAC - 44.1kHz.txt"
     },
     {
       "year": 1990,
@@ -3875,7 +3952,8 @@ const ARTIST_DATA = {
       "venue": "Duffy's Tavern",
       "notes": "ANA(1) \u00b7 mz",
       "version": "SBD #1a (44.1k)",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1990-05-13 - Lincoln, NE - Duffy's Tavern.txt"
     },
     {
       "year": 1990,
@@ -3888,7 +3966,8 @@ const ARTIST_DATA = {
       "venue": "Duffy's Tavern *Stiff Drinks",
       "notes": "",
       "version": "SBD #1b",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1990-05-13 - Lincoln, NE - Duffy's Tavern.txt"
     },
     {
       "year": 1990,
@@ -3901,7 +3980,8 @@ const ARTIST_DATA = {
       "venue": "Duffy's Tavern",
       "notes": "jwb remaster",
       "version": "SBD #1a+b",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1990-05-13 - Lincoln, NE - Duffy's Tavern.txt"
     },
     {
       "year": 1990,
@@ -3942,7 +4022,8 @@ const ARTIST_DATA = {
       "venue": "Palladium",
       "notes": "ANA(M) \u00b7 mz",
       "version": "SBD #1 (96k)",
-      "format": "FLAC 24"
+      "format": "FLAC 24",
+      "textFile": "1990-08-17 -  Hollywood, CA - Hollywood Palladium.txt"
     },
     {
       "year": 1990,
@@ -3955,7 +4036,8 @@ const ARTIST_DATA = {
       "venue": "Palladium",
       "notes": "jwb remaster",
       "version": "SBD #1 (44.1k)",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1990-08-17 -  Hollywood, CA - Hollywood Palladium.txt"
     },
     {
       "year": 1990,
@@ -4008,7 +4090,8 @@ const ARTIST_DATA = {
       "venue": "The Casbah",
       "notes": "ANA(2) \u00b7 bfm",
       "version": "AUD #1b",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1990-08-19 - San Diego, CA - The Casbah.txt"
     },
     {
       "year": 1990,
@@ -4021,7 +4104,8 @@ const ARTIST_DATA = {
       "venue": "The Casbah",
       "notes": "ANA(1) \u00b7 mz",
       "version": "AUD #2 (44.1k)",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1990-08-19 - San Diego, CA - The Casbah.txt"
     },
     {
       "year": 1990,
@@ -4144,7 +4228,8 @@ const ARTIST_DATA = {
       "venue": "Motor Sports International Garage",
       "notes": "ANA(x) \u00b7 jd",
       "version": "AUD #1b (44.1k)",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1990-09-22 -Seattle, WA - Motor Sports International Garage.txt"
     },
     {
       "year": 1990,
@@ -4171,7 +4256,8 @@ const ARTIST_DATA = {
       "venue": "Motor Sports International Garage",
       "notes": "VHS(1) \u00b7 mz",
       "version": "AMT #1b (44.1k)",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1990-09-22 -Seattle, WA - Motor Sports International Garage.txt"
     },
     {
       "year": 1990,
@@ -4184,7 +4270,8 @@ const ARTIST_DATA = {
       "venue": "Motor Sports International Garage",
       "notes": "VHS(1) \u00b7 mz",
       "version": "AMT #1b (48k)",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1990-09-22 -Seattle, WA - Motor Sports International Garage.txt"
     },
     {
       "year": 1990,
@@ -4210,7 +4297,8 @@ const ARTIST_DATA = {
       "venue": "The Evergreen State College",
       "notes": "FM-ANA(2) \u00b7 mz",
       "version": "SBD #1a (48k)",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1990-09-25 - Olympia, WA - KAOS Radio - The Evergreen State College .txt"
     },
     {
       "year": 1990,
@@ -4237,7 +4325,8 @@ const ARTIST_DATA = {
       "venue": "The Evergreen State College",
       "notes": "FM-ANA(x) \u00b7 mz",
       "version": "SBD #1c (44.1k)",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1990-09-25 - Olympia, WA - KAOS Radio - The Evergreen State College .txt"
     },
     {
       "year": 1990,
@@ -4292,7 +4381,7 @@ const ARTIST_DATA = {
       "notes": "pl",
       "version": "AMT #2 (44.1k)",
       "format": "FLAC",
-      "textFile": "1990-10-11 - AMT #2 - Off. DVD-MKV [WTLO].txt"
+      "textFile": "1990-10-11 - AMT #2 - DVD-FLAC [WTLO] - 44.1kHz.txt"
     },
     {
       "year": 1990,
@@ -4306,7 +4395,7 @@ const ARTIST_DATA = {
       "notes": "pl",
       "version": "AMT #2",
       "format": "MKV",
-      "textFile": "1990-10-11 - AMT #2 - DVD-FLAC [WTLO] - 44.1kHz.txt"
+      "textFile": "1990-10-11 - AMT #2 - Off. DVD-MKV [WTLO].txt"
     },
     {
       "year": 1990,
@@ -4457,7 +4546,8 @@ const ARTIST_DATA = {
       "venue": "Goldwyn's Suite",
       "notes": "ANA(M) \u00b7 mz",
       "version": "AUD #1 (48k)",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1990-10-23 - Birmingham, UK - Goldwyn's Suite.txt"
     },
     {
       "year": 1990,
@@ -4498,7 +4588,8 @@ const ARTIST_DATA = {
       "venue": "Astoria Theatre",
       "notes": "ANA(1) \u00b7 mz",
       "version": "AUD #2",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1990-10-24 - London, England - Astoria Theatre.txt"
     },
     {
       "year": 1990,
@@ -4539,7 +4630,8 @@ const ARTIST_DATA = {
       "venue": "Students' Union, Leeds Polytechnic",
       "notes": "VID8(M)",
       "version": "AMT #1",
-      "format": "MKV"
+      "format": "MKV",
+      "textFile": "1990-10-25 - Leeds, UK - Students' Union, Leeds Polytechnic.txt"
     },
     {
       "year": 1990,
@@ -4581,7 +4673,7 @@ const ARTIST_DATA = {
       "notes": "Trent \u00b7 2 \u00b7 mz",
       "version": "AUD #1 (44.1k)",
       "format": "FLAC",
-      "textFile": "1990-10-27 - AMTCLP #1 - VHS(x)-FLAC - 44.1kHz.txt"
+      "textFile": "1990-10-27 - AUD #1 - ANA(2)-FLAC - 44.1kHz.txt"
     },
     {
       "year": 1990,
@@ -4595,7 +4687,7 @@ const ARTIST_DATA = {
       "notes": "Trent \u00b7 x \u00b7 pl",
       "version": "AUD #2 (44.1k)",
       "format": "FLAC",
-      "textFile": "1990-10-27 - AUD #1 - ANA(2)-FLAC - 44.1kHz.txt"
+      "textFile": "1990-10-27 - Nottingham, United Kingdom - Byron Building - Trent Polytechnic.txt"
     },
     {
       "year": 1990,
@@ -4621,7 +4713,8 @@ const ARTIST_DATA = {
       "venue": "Byron Building",
       "notes": "Trent \u00b7 x \u00b7 mz",
       "version": "AMTCLP #1 (44.1k)",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1990-10-27 - AMTCLP #1 - VHS(x)-FLAC - 44.1kHz.txt"
     },
     {
       "year": 1990,
@@ -4649,7 +4742,7 @@ const ARTIST_DATA = {
       "notes": "ANA(x) \u00b7 Aiwa \u00b7 members of LN",
       "version": "AUD #2b (48k)",
       "format": "FLAC 24",
-      "textFile": "1990-11-25 - SBD #1 - ANA(1)-FLAC - 44.1kHz.txt"
+      "textFile": "1990-11-25 - SBD #1 - ANA(1)-FLAC - 44.1kHz [PB].txt"
     },
     {
       "year": 1990,
@@ -4663,7 +4756,7 @@ const ARTIST_DATA = {
       "notes": "ANA(1) \u00b7 mz",
       "version": "AUD #3 (44.1k)",
       "format": "FLAC",
-      "textFile": "1990-11-25 - SBD #1 - ANA(1)-FLAC - 44.1kHz - JWB remaster.txt"
+      "textFile": "1990-11-25 AUD#2b ANA(X).txt"
     },
     {
       "year": 1990,
@@ -4677,7 +4770,7 @@ const ARTIST_DATA = {
       "notes": "ANA(1) \u00b7 mz",
       "version": "AUD #3 (48k)",
       "format": "FLAC 24",
-      "textFile": "1990-11-25 - SBD #1 - ANA(1)-FLAC - 44.1kHz [MZ].txt"
+      "textFile": "1990-11-25 AUD#2b ANA(X).txt"
     },
     {
       "year": 1990,
@@ -4691,7 +4784,7 @@ const ARTIST_DATA = {
       "notes": "ANA(1) \u00b7 mz",
       "version": "SBD #1 (44.1k)",
       "format": "FLAC",
-      "textFile": "1990-11-25 - SBD #1 - ANA(1)-FLAC - 44.1kHz [PB].txt"
+      "textFile": "1990-11-25 - SBD #1 - ANA(1)-FLAC - 44.1kHz.txt"
     },
     {
       "year": 1990,
@@ -4718,7 +4811,8 @@ const ARTIST_DATA = {
       "venue": "The Off Ramp",
       "notes": "ANA(1) \u00b7 mz edit",
       "version": "SBD #1 (44.1k)",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1990-11-25 - SBD #1 - ANA(1)-FLAC - 44.1kHz - JWB remaster.txt"
     },
     {
       "year": 1990,
@@ -4731,7 +4825,8 @@ const ARTIST_DATA = {
       "venue": "The Off Ramp",
       "notes": "ANA(1) \u00b7 pete bullock remaster",
       "version": "SBD #1 (44.1k)",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1990-11-25 - SBD #1 - ANA(1)-FLAC - 44.1kHz [MZ].txt"
     },
     {
       "year": 1991,
@@ -4854,7 +4949,7 @@ const ARTIST_DATA = {
       "notes": "ANA(M) \u00b7 mz",
       "version": "AUD #1",
       "format": "FLAC",
-      "textFile": "1991-03-08 - AMT #1 - BR-MKV [Live At The Paramount].txt"
+      "textFile": "1991-03-08 - AUD #1 - ANA(M)-DAT(2)-FLAC - 44.1kHz.txt"
     },
     {
       "year": 1991,
@@ -4882,7 +4977,7 @@ const ARTIST_DATA = {
       "notes": "Live \u00b7 pl",
       "version": "AMT #1 (44.1k)",
       "format": "FLAC",
-      "textFile": "1991-03-08 - AUD #1 - ANA(M)-DAT(2)-FLAC - 44.1kHz.txt"
+      "textFile": "1991-03-08 - AMT #1 - BR-MKV [Live At The Paramount].txt"
     },
     {
       "year": 1991,
@@ -4950,7 +5045,8 @@ const ARTIST_DATA = {
       "venue": "O.K. Hotel",
       "notes": "VHS(M) \u00b7 mz",
       "version": "AMT #1b",
-      "format": "DVD"
+      "format": "DVD",
+      "textFile": "1991-04-17 - Seatlle, WA - O.K. Hotel.txt"
     },
     {
       "year": 1991,
@@ -4963,7 +5059,8 @@ const ARTIST_DATA = {
       "venue": "O.K. Hotel *Official DVD \"With The Lights Out\"",
       "notes": "pl",
       "version": "AMT #2 (44.1k)",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1991-04-17 - AMT #2 - DVD-FLAC [WTLO] - 44.1kHz.txt"
     },
     {
       "year": 1991,
@@ -4977,7 +5074,7 @@ const ARTIST_DATA = {
       "notes": "VHS(1) \u00b7 jh",
       "version": "AMT #2",
       "format": "DVD",
-      "textFile": "1991-04-17 - AMT #2 - DVD-FLAC [WTLO] - 44.1kHz.txt"
+      "textFile": "1991-04-17 - Seatlle, WA - O.K. Hotel.txt"
     },
     {
       "year": 1991,
@@ -5029,7 +5126,8 @@ const ARTIST_DATA = {
       "venue": "Jabberjaw",
       "notes": "ANA(M) \u00b7 jl",
       "version": "AUD #1a",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1991-05-29 - Los Angeles, CA - Jabberjaw.txt"
     },
     {
       "year": 1991,
@@ -5056,7 +5154,8 @@ const ARTIST_DATA = {
       "venue": "Jabberjaw",
       "notes": "ANA(2) \u00b7 mz",
       "version": "AUD #2",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1991-05-29 - Los Angeles, CA - Jabberjaw.txt"
     },
     {
       "year": 1991,
@@ -5069,7 +5168,8 @@ const ARTIST_DATA = {
       "venue": "Jabberjaw",
       "notes": "DAT(M) \u00b7 mz",
       "version": "AUD #2 (44.1k)",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1991-05-29 - Los Angeles, CA - Jabberjaw.txt"
     },
     {
       "year": 1991,
@@ -5193,7 +5293,8 @@ const ARTIST_DATA = {
       "venue": "Crest Theater",
       "notes": "ANA(M) \u00b7 vb",
       "version": "AUD #2",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1991-06-17 - Sacramento, CA - Crest Theatre.txt"
     },
     {
       "year": 1991,
@@ -5220,7 +5321,8 @@ const ARTIST_DATA = {
       "venue": "The Catalyst",
       "notes": "DAT(1) \u00b7 ks",
       "version": "AUD #2",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1991-06-18 - Santa Cruz, CA - The Catalyst.txt"
     },
     {
       "year": 1991,
@@ -5247,7 +5349,8 @@ const ARTIST_DATA = {
       "venue": "Melody Ballroom",
       "notes": "ANA(M) \u00b7 mz",
       "version": "AUD #2",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1991-06-20 - Portland, OR - Melody Ballroom.txt"
     },
     {
       "year": 1991,
@@ -5274,7 +5377,8 @@ const ARTIST_DATA = {
       "venue": "Sir Henry's Pub",
       "notes": "DAT(1) \u00b7 ks",
       "version": "AUD #1",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1991-08-20 - Cork, Ireland - Sir Henry's Pub.txt"
     },
     {
       "year": 1991,
@@ -5302,7 +5406,7 @@ const ARTIST_DATA = {
       "notes": "Video8(M) \u00b7 rw",
       "version": "AMT #1",
       "format": "MKV",
-      "textFile": "1991-08-23 - PRO #1a -TV-VHS(1)-FLAC - 44.1kHz.txt"
+      "textFile": "1991-08-23 - AMT #3b - VHS(x)-FLV-AAC-FLAC - 44.1kHz.txt"
     },
     {
       "year": 1991,
@@ -5316,7 +5420,7 @@ const ARTIST_DATA = {
       "notes": "VHS(2) \u00b7 mz",
       "version": "AMT #2 (44.1k)",
       "format": "FLAC",
-      "textFile": "1991-08-23 - PRO #1b - BETA(M)-ANA(1)-FLAC - 44.1kHz.txt"
+      "textFile": "1991-08-23 - AMT #2 - VHS(2)-FLAC - 44.1kHz.txt"
     },
     {
       "year": 1991,
@@ -5330,7 +5434,7 @@ const ARTIST_DATA = {
       "notes": "VHS(2) \u00b7 mz",
       "version": "AMT #2",
       "format": "DVD",
-      "textFile": "1991-08-23 - AMT #2 - VHS(2)-FLAC - 44.1kHz.txt"
+      "textFile": "1991-08-23 - PRO #1a -TV-VHS(1)-FLAC - 44.1kHz.txt"
     },
     {
       "year": 1991,
@@ -5442,7 +5546,7 @@ const ARTIST_DATA = {
       "notes": "VHS(1) \u00b7 hecquet gregory",
       "version": "PRO #1a (44.1k)",
       "format": "FLAC",
-      "textFile": "1991-08-23 - PRO #2 - DVD-FLAC [1991 The Year Punk Broke] - 44.1kHz.txt"
+      "textFile": "1991-08-23 - PRO #1b - BETA(M)-ANA(1)-FLAC - 44.1kHz.txt"
     },
     {
       "year": 1991,
@@ -5469,7 +5573,8 @@ const ARTIST_DATA = {
       "venue": "Richfield Avenue (Reading Festival)",
       "notes": "VHS(x) \u00b7 nicholas serra",
       "version": "PRO #1c",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1991-08-23 - Reading, United Kingdom - Richfield Avenue - Reading Festival .txt"
     },
     {
       "year": 1991,
@@ -5482,7 +5587,8 @@ const ARTIST_DATA = {
       "venue": "Richfield Avenue (Reading Festival) *1991 The Year Punk Broke",
       "notes": "pl",
       "version": "PRO #2 (44.1k)",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1991-08-23 - PRO #2 - DVD-FLAC [1991 The Year Punk Broke] - 44.1kHz.txt"
     },
     {
       "year": 1991,
@@ -5566,7 +5672,7 @@ const ARTIST_DATA = {
       "notes": "Hi8(M) \u00b7 kris sproul reauthor",
       "version": "AMT #1",
       "format": "DVD",
-      "textFile": "1991-08-24 - Monsters of Spex @ Tanzbrunnen ~ Cologne, Germany [DVD] AMT#1.txt"
+      "textFile": "1991-08-24 - AUD #3 - ANA(x)-FLAC [DW].txt"
     },
     {
       "year": 1991,
@@ -5593,7 +5699,8 @@ const ARTIST_DATA = {
       "venue": "Domein Kiewit (Pukkelpop)",
       "notes": "ANA(1) \u00b7 mz",
       "version": "AUD #2",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1991-08-25 - Hasselt, Belgium - Domein Kiewit (Pukkelpop).txt"
     },
     {
       "year": 1991,
@@ -5606,7 +5713,8 @@ const ARTIST_DATA = {
       "venue": "Domein Kiewit (Pukkelpop) *Outcesticide VI",
       "notes": "",
       "version": "AUD #3",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1991-08-25 - Hasselt, Belgium - Domein Kiewit (Pukkelpop).txt"
     },
     {
       "year": 1991,
@@ -5619,7 +5727,8 @@ const ARTIST_DATA = {
       "venue": "Domein Kiewit (Pukkelpop)",
       "notes": "ANA(x) \u00b7 mz",
       "version": "AUD #4",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1991-08-25 - Hasselt, Belgium - Domein Kiewit (Pukkelpop).txt"
     },
     {
       "year": 1991,
@@ -5646,7 +5755,8 @@ const ARTIST_DATA = {
       "venue": "Aladin Music Hall",
       "notes": "ANA(M) \u00b7 ks",
       "version": "AUD #1",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1991-08-27 - Bremen, Germany - Aladin Music Hall.txt"
     },
     {
       "year": 1991,
@@ -5659,7 +5769,8 @@ const ARTIST_DATA = {
       "venue": "Aladin Music Hall",
       "notes": "ANA(M) \u00b7 ks",
       "version": "AUD #2",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1991-08-27 - Bremen, Germany - Aladin Music Hall.txt"
     },
     {
       "year": 1991,
@@ -5728,7 +5839,8 @@ const ARTIST_DATA = {
       "venue": "De Doelen (Ein Abend In Wien)",
       "notes": "ANA(M) \u00b7 cm",
       "version": "AUD #3",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1991-09-01 - Rotterdam, Netherlands - Do Doelen.txt"
     },
     {
       "year": 1991,
@@ -5755,7 +5867,8 @@ const ARTIST_DATA = {
       "venue": "De Doelen (Ein Abend In Wien)",
       "notes": "VHS(1) \u00b7 mz",
       "version": "AMT #1",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1991-09-01 - Rotterdam, Netherlands - Do Doelen.txt"
     },
     {
       "year": 1991,
@@ -5782,7 +5895,8 @@ const ARTIST_DATA = {
       "venue": "De Doelen (Ein Abend In Wien)",
       "notes": "VHS(1) \u00b7 fo",
       "version": "AMT #2",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1991-09-01 - Rotterdam, Netherlands - Do Doelen.txt"
     },
     {
       "year": 1991,
@@ -5879,7 +5993,8 @@ const ARTIST_DATA = {
       "venue": "The Opera House",
       "notes": "ANA(M) \u00b7 better transfer \u00b7 andymon",
       "version": "AUD #2",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1991-09-20- Ontario, Canada - The Opera House.txt"
     },
     {
       "year": 1991,
@@ -5892,7 +6007,8 @@ const ARTIST_DATA = {
       "venue": "The Opera House",
       "notes": "VHS(2) \u00b7 mz",
       "version": "AMT #1",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1991-09-20- Ontario, Canada - The Opera House.txt"
     },
     {
       "year": 1991,
@@ -5905,7 +6021,8 @@ const ARTIST_DATA = {
       "venue": "The Opera House",
       "notes": "VHS(2) \u00b7 ad",
       "version": "AMT #1",
-      "format": "DVD"
+      "format": "DVD",
+      "textFile": "1991-09-20- Ontario, Canada - The Opera House.txt"
     },
     {
       "year": 1991,
@@ -5932,7 +6049,8 @@ const ARTIST_DATA = {
       "venue": "Foufounes Electriques",
       "notes": "ANA(1) \u00b7 speed corrected",
       "version": "AUD #1",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1991-09-21- Montreal, Quebec - Foufounes Electriques.txt"
     },
     {
       "year": 1991,
@@ -5945,7 +6063,8 @@ const ARTIST_DATA = {
       "venue": "Foufounes Electriques",
       "notes": "BETA(M) \u00b7 jh",
       "version": "PRO#1",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1991-09-21- Montreal, Quebec - Foufounes Electriques.txt"
     },
     {
       "year": 1991,
@@ -5958,7 +6077,8 @@ const ARTIST_DATA = {
       "venue": "Foufounes Electriques",
       "notes": "",
       "version": "AMT #1",
-      "format": "DVD"
+      "format": "DVD",
+      "textFile": "1991-09-21- Montreal, Quebec - Foufounes Electriques.txt"
     },
     {
       "year": 1991,
@@ -5985,7 +6105,8 @@ const ARTIST_DATA = {
       "venue": "Axis Nightclub (WFNX Birthday Bash)",
       "notes": "BETA(M) \u00b7 mz",
       "version": "PRO #1",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1991-09-23 - Boston, MA - Axis Nightclub.txt"
     },
     {
       "year": 1991,
@@ -6040,7 +6161,8 @@ const ARTIST_DATA = {
       "venue": "The Moon",
       "notes": "VHS(M) \u00b7 mz",
       "version": "AMT #1",
-      "format": "DVD"
+      "format": "DVD",
+      "textFile": "1991-09-26 - New Haven, CT - The Moon.txt"
     },
     {
       "year": 1991,
@@ -6109,7 +6231,8 @@ const ARTIST_DATA = {
       "venue": "Marquee Club (Late)",
       "notes": "ANA(x) \u00b7 ks",
       "version": "AUD #3",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1991-09-28b - New York, NY - Marquee Club (Late).txt"
     },
     {
       "year": 1991,
@@ -6220,7 +6343,8 @@ const ARTIST_DATA = {
       "venue": "Empire Concert Club",
       "notes": "ANA(2) \u00b7 mz",
       "version": "AUD #1a",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1991-10-10 - Cleveland, OH - Empire Concert Club.txt"
     },
     {
       "year": 1991,
@@ -6275,7 +6399,8 @@ const ARTIST_DATA = {
       "venue": "Saint Andrew's Hall",
       "notes": "VHS(2) \u00b7 mz",
       "version": "AMT #1",
-      "format": "DVD"
+      "format": "DVD",
+      "textFile": "1991-10-11 - Detroit, MI - Saint Andrew's Hall.txt"
     },
     {
       "year": 1991,
@@ -6302,7 +6427,8 @@ const ARTIST_DATA = {
       "venue": "Metro",
       "notes": "DAT(M) \u00b7 mz",
       "version": "SBD #1 (44.1k)",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1991-10-12 - Chicago, IL - Metro.txt"
     },
     {
       "year": 1991,
@@ -6315,7 +6441,8 @@ const ARTIST_DATA = {
       "venue": "Metro",
       "notes": "DAT(M) \u00b7 mz",
       "version": "SBD #1 (48k)",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1991-10-12 - Chicago, IL - Metro.txt"
     },
     {
       "year": 1991,
@@ -6397,7 +6524,8 @@ const ARTIST_DATA = {
       "venue": "Northern Lights (Late)",
       "notes": "DAT(1) \u00b7 mz",
       "version": "AUD #2",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1991-10-14a AUD#2 ANA(M).txt"
     },
     {
       "year": 1991,
@@ -6424,7 +6552,8 @@ const ARTIST_DATA = {
       "venue": "Kansas Union Ballroom",
       "notes": "Univ \u00b7 M \u00b7 mz",
       "version": "AUD #1 (44.1k)",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1991-10-17 - Lawrence, KS - Kansas Union Ballroom - Univ of Kansas.txt"
     },
     {
       "year": 1991,
@@ -6478,7 +6607,8 @@ const ARTIST_DATA = {
       "venue": "Trees",
       "notes": "SVHS(M) \u00b7 jh",
       "version": "AMT #1",
-      "format": "DVD"
+      "format": "DVD",
+      "textFile": "1991-10-19 - Dallas, TX - Trees Club.txt"
     },
     {
       "year": 1991,
@@ -6519,7 +6649,8 @@ const ARTIST_DATA = {
       "venue": "Waterloo Records (Late) *Live in Austin Texas",
       "notes": "mz",
       "version": "AUD #1",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1991-10-21 - Austin, TX - Waterloo Records.txt"
     },
     {
       "year": 1991,
@@ -6798,7 +6929,8 @@ const ARTIST_DATA = {
       "venue": "Paramount Theatre *Live at the Paramount",
       "notes": "pl",
       "version": "PRO #6 (48k)",
-      "format": "FLAC 24"
+      "format": "FLAC 24",
+      "textFile": "1991-10-31 - Seattle, WA - Paramount Theatre.txt"
     },
     {
       "year": 1991,
@@ -6992,7 +7124,8 @@ const ARTIST_DATA = {
       "venue": "Astoria Theatre",
       "notes": "VID8(M)",
       "version": "AMT #1 (48k)",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1991-11-05 - London, UK - Astoria Theatre .txt"
     },
     {
       "year": 1991,
@@ -7143,7 +7276,8 @@ const ARTIST_DATA = {
       "venue": "Markthalle",
       "notes": "DAT(M \u00b7 mz",
       "version": "AUD #1a",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1991-11-11 - Hamburg, Germany - Markthalle.txt"
     },
     {
       "year": 1991,
@@ -7451,7 +7585,7 @@ const ARTIST_DATA = {
       "notes": "8MM(M) \u00b7 mz",
       "version": "AMT #1 (44.1k)",
       "format": "FLAC",
-      "textFile": "1991-11-20 - Kryptonight ~ Baricella, Italy DVD (AMT#1).txt"
+      "textFile": "1991-11-20 - AMT #1 - 8MM(M)-FLAC - 44.1kHz.txt"
     },
     {
       "year": 1991,
@@ -7465,7 +7599,7 @@ const ARTIST_DATA = {
       "notes": "8MM(M) \u00b7 mz",
       "version": "AMT #1",
       "format": "DVD",
-      "textFile": "1991-11-20 - AMT #1 - 8MM(M)-FLAC - 44.1kHz.txt"
+      "textFile": "1991-11-20 - Kryptonight ~ Baricella, Italy DVD (AMT#1).txt"
     },
     {
       "year": 1991,
@@ -7478,7 +7612,8 @@ const ARTIST_DATA = {
       "venue": "Kryptonight",
       "notes": "8MM(M) \u00b7 paulo lusenti",
       "version": "AMT #1 (48k)",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1991-11-20 - Baricella, Italy - Kryptonight.txt"
     },
     {
       "year": 1991,
@@ -7546,7 +7681,8 @@ const ARTIST_DATA = {
       "venue": "Vooruit",
       "notes": "ANA(M) \u00b7 mz",
       "version": "AUD #2",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1991-11-23 - Ghent, BE - Vooruit.txt"
     },
     {
       "year": 1991,
@@ -7573,7 +7709,8 @@ const ARTIST_DATA = {
       "venue": "Vooruit",
       "notes": "serra & kilmore",
       "version": "PRO #1 CLIP",
-      "format": "MKV"
+      "format": "MKV",
+      "textFile": "1991-11-23 - Ghent, BE - Vooruit.txt"
     },
     {
       "year": 1991,
@@ -7670,7 +7807,8 @@ const ARTIST_DATA = {
       "venue": "Paradiso",
       "notes": "ANA(1) \u00b7 mz",
       "version": "AUD #1",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1991-11-25 - Amsterdam, The Netherlands - Paradiso.txt"
     },
     {
       "year": 1991,
@@ -7697,7 +7835,8 @@ const ARTIST_DATA = {
       "venue": "Paradiso",
       "notes": "pieter vermeulen",
       "version": "PRO #1a",
-      "format": "DVD"
+      "format": "DVD",
+      "textFile": "1991-11-25 - Amsterdam, The Netherlands - Paradiso.txt"
     },
     {
       "year": 1991,
@@ -8032,7 +8171,8 @@ const ARTIST_DATA = {
       "venue": "Rock City",
       "notes": "VHS(2) \u00b7 mz",
       "version": "PRO #1",
-      "format": "MOV"
+      "format": "MOV",
+      "textFile": "1991-12-03 - Nottingham, UK - Rock City.txt"
     },
     {
       "year": 1991,
@@ -8059,7 +8199,8 @@ const ARTIST_DATA = {
       "venue": "The Academy",
       "notes": "ANA(1) \u00b7 pl",
       "version": "AUD #2",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1991-12-04 - Manchester, UK - The Academy.txt"
     },
     {
       "year": 1991,
@@ -8156,7 +8297,8 @@ const ARTIST_DATA = {
       "venue": "Salle Omnisports (Trans Musicales)",
       "notes": "DAT(M) \u00b7 kissamos",
       "version": "AUD #5",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1991-12-07 - Rennes, France - Salle Omnisports (Trans Musicales).txt"
     },
     {
       "year": 1991,
@@ -8169,7 +8311,8 @@ const ARTIST_DATA = {
       "venue": "Salle Omnisports (Trans Musicales)",
       "notes": "DAT(M) \u00b7 kissamos remaster",
       "version": "AUD #5",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1991-12-07 - Rennes, France - Salle Omnisports (Trans Musicales).txt"
     },
     {
       "year": 1991,
@@ -8182,7 +8325,8 @@ const ARTIST_DATA = {
       "venue": "Salle Omnisports (Trans Musicales)",
       "notes": "DAT(M) \u00b7 kissamos",
       "version": "AUD #5 (44.1k)",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1991-12-07 - Rennes, France - Salle Omnisports (Trans Musicales).txt"
     },
     {
       "year": 1991,
@@ -8195,7 +8339,8 @@ const ARTIST_DATA = {
       "venue": "Salle Omnisports (Trans Musicales)",
       "notes": "DAT(M) \u00b7 kissamos",
       "version": "AUD #5 (48k)",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1991-12-07 - Rennes, France - Salle Omnisports (Trans Musicales).txt"
     },
     {
       "year": 1991,
@@ -8374,7 +8519,8 @@ const ARTIST_DATA = {
       "venue": "University Activity Center, Arizone State University",
       "notes": "MC(M) \u00b7 rl",
       "version": "AUD #2",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1991-12-29 - Tempe, AZ - University Activity Center - Arizona State University .txt"
     },
     {
       "year": 1991,
@@ -8429,7 +8575,8 @@ const ARTIST_DATA = {
       "venue": "Cow Palace",
       "notes": "VHS(2) \u00b7 tr",
       "version": "AMT #1",
-      "format": "MPG"
+      "format": "MPG",
+      "textFile": "1991-12-31 - San Francisco, CA - Cow Palace.txt"
     },
     {
       "year": 1992,
@@ -8523,7 +8670,8 @@ const ARTIST_DATA = {
       "venue": "MTV Studios",
       "notes": "Promo \u00b7 1",
       "version": "PRO #2",
-      "format": "MKV"
+      "format": "MKV",
+      "textFile": "1992-01-10 - New York, NY - MTV Studios.txt"
     },
     {
       "year": 1992,
@@ -8536,7 +8684,8 @@ const ARTIST_DATA = {
       "venue": "NBC Studios",
       "notes": "Saturday \u00b7 1 \u00b7 mz",
       "version": "PRO #1 (44.1k)",
-      "format": "DVD"
+      "format": "DVD",
+      "textFile": "1992-01-11 - New York, NY - NBC Studios - Saturday Night Live.txt"
     },
     {
       "year": 1992,
@@ -8549,7 +8698,8 @@ const ARTIST_DATA = {
       "venue": "NBC Studios",
       "notes": "Saturday \u00b7 1 \u00b7 mz",
       "version": "PRO #1 (48k)",
-      "format": "DVD"
+      "format": "DVD",
+      "textFile": "1992-01-11 - New York, NY - NBC Studios - Saturday Night Live.txt"
     },
     {
       "year": 1992,
@@ -8657,7 +8807,8 @@ const ARTIST_DATA = {
       "venue": "Phoenician Club",
       "notes": "VID8(M) \u00b7 dw",
       "version": "AMT #1",
-      "format": "MKV"
+      "format": "MKV",
+      "textFile": "1992-01-24 - Sydney, Australia - Phoenician Club.txt"
     },
     {
       "year": 1992,
@@ -8767,7 +8918,7 @@ const ARTIST_DATA = {
       "notes": "VHS(1) \u00b7 dm",
       "version": "AMT #1 (44.1k)",
       "format": "DVD",
-      "textFile": "1992-01-31 - The Palace - Melbourne, Australia (AMT1-DVD).txt"
+      "textFile": "1992-01-31 - AMT #1 - VHS(1)-DVDR(1)-FLAC - 44.1kHz.txt"
     },
     {
       "year": 1992,
@@ -8781,7 +8932,7 @@ const ARTIST_DATA = {
       "notes": "VHS(1) \u00b7 dm",
       "version": "AMT #1",
       "format": "FLAC",
-      "textFile": "1992-01-31 - AMT #1 - VHS(1)-DVDR(1)-FLAC - 44.1kHz.txt"
+      "textFile": "1992-01-31 - The Palace - Melbourne, Australia (AMT1-DVD).txt"
     },
     {
       "year": 1992,
@@ -8822,7 +8973,8 @@ const ARTIST_DATA = {
       "venue": "The Palace",
       "notes": "ANA(1) \u00b7 mz",
       "version": "SBD #2",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1992-02-01 - Melbourne, Australia - The Palace.txt"
     },
     {
       "year": 1992,
@@ -8878,7 +9030,7 @@ const ARTIST_DATA = {
       "notes": "The \u00b7 1 \u00b7 ks",
       "version": "AUD #1",
       "format": "FLAC",
-      "textFile": "1992-02-06 - AUD #1 - DAT(2)-FLAC - 48kHz.txt"
+      "textFile": "1992-02-06 - Sydney, Australia - Selina's The Coogee Bay Hotel.txt"
     },
     {
       "year": 1992,
@@ -8891,7 +9043,8 @@ const ARTIST_DATA = {
       "venue": "Selina's",
       "notes": "The \u00b7 2 \u00b7 ks",
       "version": "AUD #1 (48k)",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1992-02-06 - AUD #1 - DAT(2)-FLAC - 48kHz.txt"
     },
     {
       "year": 1992,
@@ -8918,7 +9071,8 @@ const ARTIST_DATA = {
       "venue": "Selina's",
       "notes": "The \u00b7 x \u00b7 kingbean",
       "version": "AMT #1 (44.1k)",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1992-02-06 - Sydney, Australia - Selina's The Coogee Bay Hotel.txt"
     },
     {
       "year": 1992,
@@ -8971,7 +9125,8 @@ const ARTIST_DATA = {
       "venue": "Selina's",
       "notes": "The \u00b7 2 \u00b7 ks",
       "version": "AUD #1",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1992-02-07 - Sydney, Australia - Selina's The Coogee Bay Hotel.txt"
     },
     {
       "year": 1992,
@@ -9012,7 +9167,8 @@ const ARTIST_DATA = {
       "venue": "Kokusai Koryu Center *Osaka 1992",
       "notes": "rl",
       "version": "AUD #1b",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1992-02-14 - Osaka, Japan - Kokusai Koryu Center.txt"
     },
     {
       "year": 1992,
@@ -9067,7 +9223,8 @@ const ARTIST_DATA = {
       "venue": "Nakano Sunplaza",
       "notes": "ANA(M) \u00b7 mz",
       "version": "AUD #1",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1992-02-19 - Tokyo, Japan - Nakano Sunplaza.txt"
     },
     {
       "year": 1992,
@@ -9080,7 +9237,8 @@ const ARTIST_DATA = {
       "venue": "Nakano Sunplaza *Fire Extinguisher",
       "notes": "Silver",
       "version": "AUD #2a",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1992-02-19 - Tokyo, Japan - Nakano Sunplaza.txt"
     },
     {
       "year": 1992,
@@ -9331,7 +9489,7 @@ const ARTIST_DATA = {
       "notes": "ANA(M) \u00b7 mz",
       "version": "SBD #2",
       "format": "FLAC",
-      "textFile": "1992-06-26 - AUD #4 - ANA(M)-FLAC - 48kHz.txt"
+      "textFile": "1992-06-26 - Dyrskuepladsen (Roskilde Festival) - Roskilde, Denmark (DVD).txt"
     },
     {
       "year": 1992,
@@ -9345,7 +9503,7 @@ const ARTIST_DATA = {
       "notes": "ANA(M) \u00b7 jwb remaster",
       "version": "SBD #2",
       "format": "FLAC",
-      "textFile": "1992-06-26 - Dyrskuepladsen (Roskilde Festival) - Roskilde, Denmark (DVD).txt"
+      "textFile": "1992-06-26 - Dyrskuepladsen (Roskilde Festival), Roskilde Festival (JWB REMASTER).txt"
     },
     {
       "year": 1992,
@@ -9387,7 +9545,7 @@ const ARTIST_DATA = {
       "notes": "Roskilde Festival \u00b7 ks",
       "version": "MTX",
       "format": "DVD",
-      "textFile": "1992-06-26 - Dyrskuepladsen (Roskilde Festival), Roskilde Festival (JWB REMASTER).txt"
+      "textFile": "1992-06-26_PRO1a.txt"
     },
     {
       "year": 1992,
@@ -9443,7 +9601,7 @@ const ARTIST_DATA = {
       "notes": "ANA(M) \u00b7 Sony T62 \u00b7 tw",
       "version": "AUD #4 (44.1k)",
       "format": "FLAC",
-      "textFile": "1992-06-26_PRO1a.txt"
+      "textFile": "1992-06-26 - AUD #4 - ANA(M)-FLAC - 48kHz.txt"
     },
     {
       "year": 1992,
@@ -9457,7 +9615,7 @@ const ARTIST_DATA = {
       "notes": "ANA(M) \u00b7 Sony T62 \u00b7 tw",
       "version": "AUD #4 (48k)",
       "format": "FLAC",
-      "textFile": "1992-06-26_PRO1f_fixed.txt"
+      "textFile": "1992-06-26 - AUD #4 - ANA(M)-FLAC - 48kHz.txt"
     },
     {
       "year": 1992,
@@ -9470,7 +9628,8 @@ const ARTIST_DATA = {
       "venue": "Dyrskuepladesen (Roskilde Festival)",
       "notes": "MD(1) \u00b7 pv",
       "version": "PRO #1a",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1992-06-26_PRO1f_fixed.txt"
     },
     {
       "year": 1992,
@@ -9511,7 +9670,8 @@ const ARTIST_DATA = {
       "venue": "Dyrskuepladesen",
       "notes": "Roskilde Festival",
       "version": "PRO #1f",
-      "format": "MKV"
+      "format": "MKV",
+      "textFile": "1992-06-26 - Roskilde, Denmark - Kyrskuepladsen - Roskilde Festival.txt"
     },
     {
       "year": 1992,
@@ -9594,7 +9754,8 @@ const ARTIST_DATA = {
       "venue": "Kansanpuisto (Ruisrock)",
       "notes": "VHS(1) \u00b7 rf",
       "version": "AMT #2",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1992-06-27 - Turku, Finland - Kansanpuisto (Ruisrock).txt"
     },
     {
       "year": 1992,
@@ -9607,7 +9768,8 @@ const ARTIST_DATA = {
       "venue": "Kansanpuisto (Ruisrock)",
       "notes": "ANA(M) \u00b7 mz",
       "version": "AUD #1",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1992-06-27 - Turku, Finland - Kansanpuisto (Ruisrock).txt"
     },
     {
       "year": 1992,
@@ -9732,7 +9894,7 @@ const ARTIST_DATA = {
       "notes": "VHS(2) \u00b7 mz",
       "version": "AMT #1 (44.1k)",
       "format": "FLAC",
-      "textFile": "1992-07-02 - Plaza de Toros de Valencia - Valencia, Spain (AMT1-DVD).txt"
+      "textFile": "1992-07-02 - AMT #1 - VHS(2)-FLAC - 44.1kHz.txt"
     },
     {
       "year": 1992,
@@ -9746,7 +9908,7 @@ const ARTIST_DATA = {
       "notes": "VHS(2) \u00b7 jh",
       "version": "AMT #1",
       "format": "DVD",
-      "textFile": "1992-07-02 - AMT #1 - VHS(2)-FLAC - 44.1kHz.txt"
+      "textFile": "1992-07-02 - Plaza de Toros de Valencia - Valencia, Spain (AMT1-DVD).txt"
     },
     {
       "year": 1992,
@@ -9773,7 +9935,8 @@ const ARTIST_DATA = {
       "venue": "Palacio de los Deportes de la Comunidad de Madrid",
       "notes": "ANA(M) \u00b7 mz",
       "version": "SBD #1",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1992-07-03 - Madrid, Espania - Palacio de los Deportes.txt"
     },
     {
       "year": 1992,
@@ -9786,7 +9949,8 @@ const ARTIST_DATA = {
       "venue": "Palacio de los Deportes de la Comunidad de Madrid",
       "notes": "ANA(M) \u00b7 cp remaster",
       "version": "AUD #1",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1992-07-03 - Madrid, Espania - Palacio de los Deportes.txt"
     },
     {
       "year": 1992,
@@ -9968,7 +10132,7 @@ const ARTIST_DATA = {
       "notes": "VHS(x) \u00b7 ns",
       "version": "PRO #1a (44.1k)",
       "format": "FLAC",
-      "textFile": "1992-08-30 - PRO #1bc - TV-VHS(2)-DVDR(1) [BL].txt"
+      "textFile": "1992-08-30 - PRO #1a.txt"
     },
     {
       "year": 1992,
@@ -9981,7 +10145,8 @@ const ARTIST_DATA = {
       "venue": "Reading Festival",
       "notes": "VHS(x) \u00b7 ns",
       "version": "PRO #1a (48k)",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1992-08-30 - PRO #1bc - TV-VHS(2)-DVDR(1) [BL].txt"
     },
     {
       "year": 1992,
@@ -9994,7 +10159,8 @@ const ARTIST_DATA = {
       "venue": "Reading Festival",
       "notes": "VHS(x) \u00b7 ns",
       "version": "PRO #1a",
-      "format": "MKV"
+      "format": "MKV",
+      "textFile": "1992-08-30 - Reading, England - Reading Festival.txt"
     },
     {
       "year": 1992,
@@ -10007,7 +10173,8 @@ const ARTIST_DATA = {
       "venue": "Reading Festival",
       "notes": "VHS(2) \u00b7 bl",
       "version": "PRO #1b+c",
-      "format": "DVD"
+      "format": "DVD",
+      "textFile": "1992-08-30 - Reading, England - Reading Festival.txt"
     },
     {
       "year": 1992,
@@ -10354,7 +10521,8 @@ const ARTIST_DATA = {
       "venue": "Seattle Center Coliseum (WMIC Benefit)",
       "notes": "VHS(x) \u00b7 nicholas serra",
       "version": "PRO #1c (44.1k)",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1992-09-11 - Seattle WA - Seattle Center Coliseum.txt"
     },
     {
       "year": 1992,
@@ -10367,7 +10535,8 @@ const ARTIST_DATA = {
       "venue": "Seattle Center Coliseum (WMIC Benefit)",
       "notes": "VHS(x) \u00b7 nicholas serra",
       "version": "PRO #1c (48k)",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1992-09-11 - Seattle WA - Seattle Center Coliseum.txt"
     },
     {
       "year": 1992,
@@ -10476,7 +10645,8 @@ const ARTIST_DATA = {
       "venue": "Castaic Lake Amphitheatre -HI8",
       "notes": "M \u00b7 mz",
       "version": "AMT #1",
-      "format": "DVD"
+      "format": "DVD",
+      "textFile": "1992-09-26_AUD1_ANAM.txt"
     },
     {
       "year": 1992,
@@ -10657,7 +10827,8 @@ const ARTIST_DATA = {
       "venue": "Estadio de Velez Sarsfield",
       "notes": "jwb remaster",
       "version": "MTX",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1992-10-30 - Buenos Aires, Argentina - Estadio de Velez Sarsfield.txt"
     },
     {
       "year": 1993,
@@ -10739,7 +10910,8 @@ const ARTIST_DATA = {
       "venue": "Estudio Cicero Pompeu de Toledo (Hollywood Rock Festival)",
       "notes": "VHS(1) \u00b7 mz",
       "version": "PRO #2 (44.1k)",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1993-01-16 - Sao Paulo, Brazil - Estudio Cicero Pompeu de Toledo.txt"
     },
     {
       "year": 1993,
@@ -10752,7 +10924,8 @@ const ARTIST_DATA = {
       "venue": "Estudio Cicero Pompeu de Toledo (Hollywood Rock Festival)",
       "notes": "VHS(x) \u00b7 ss",
       "version": "PRO #2",
-      "format": "MKV"
+      "format": "MKV",
+      "textFile": "1993-01-16 - Sao Paulo, Brazil - Estudio Cicero Pompeu de Toledo.txt"
     },
     {
       "year": 1993,
@@ -10765,7 +10938,8 @@ const ARTIST_DATA = {
       "venue": "Estudio Cicero Pompeu de Toledo (Hollywood Rock Festival)",
       "notes": "VHS(x)",
       "version": "PRO #2 (44.1k)",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1993-01-16 - Sao Paulo, Brazil - Estudio Cicero Pompeu de Toledo.txt"
     },
     {
       "year": 1993,
@@ -10778,7 +10952,8 @@ const ARTIST_DATA = {
       "venue": "Estudio Cicero Pompeu de Toledo (Hollywood Rock Festival)",
       "notes": "VHS(x)",
       "version": "PRO #2 (48k)",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1993-01-16 - Sao Paulo, Brazil - Estudio Cicero Pompeu de Toledo.txt"
     },
     {
       "year": 1993,
@@ -10833,7 +11008,7 @@ const ARTIST_DATA = {
       "notes": "VHS(x) \u00b7 pl",
       "version": "AMT #1 (48k)",
       "format": "FLAC",
-      "textFile": "1993-01-23 - PRO #1d - BETA(M)-VHS(1)-FLAC - 44.1kHz.txt"
+      "textFile": "1993-01-23 - AMT #1 - VHS(x)-WAV-FLAC.txt"
     },
     {
       "year": 1993,
@@ -10861,7 +11036,7 @@ const ARTIST_DATA = {
       "notes": "BETA(M) \u00b7 mz",
       "version": "PRO #1d",
       "format": "FLAC",
-      "textFile": "1993-01-23 - PRO #2a - BETA(M)-VHS(2)-DVDR(2) [BM].txt"
+      "textFile": "1993-01-23 - PRO #1d - BETA(M)-VHS(1)-FLAC - 44.1kHz.txt"
     },
     {
       "year": 1993,
@@ -10875,7 +11050,7 @@ const ARTIST_DATA = {
       "notes": "BETA(M) \u00b7 bm",
       "version": "PRO #2a",
       "format": "DVD",
-      "textFile": "1993-01-23 - PRO #2a - BETA(M)-VHS(2)-SHN-FLAC - 44.1kHz.txt"
+      "textFile": "1993-01-23 - PRO #2a - BETA(M)-VHS(2)-DVDR(2) [BM].txt"
     },
     {
       "year": 1993,
@@ -10889,7 +11064,7 @@ const ARTIST_DATA = {
       "notes": "BETA(M) \u00b7 bm",
       "version": "PRO #2a",
       "format": "FLAC",
-      "textFile": "1993-01-23 - PRO #2c - BETA(M)-VHS(2)-DVDR(1) [JH].txt"
+      "textFile": "1993-01-23 - PRO #2a - BETA(M)-VHS(2)-SHN-FLAC - 44.1kHz.txt"
     },
     {
       "year": 1993,
@@ -10917,7 +11092,7 @@ const ARTIST_DATA = {
       "notes": "BETA(M) \u00b7 jh",
       "version": "PRO #2c",
       "format": "DVD",
-      "textFile": "1993-01-23 - PRO #2c - BETA(M)-VHS(2)-FLAC - 44.1kHz.txt"
+      "textFile": "1993-01-23 - PRO #2c - BETA(M)-VHS(2)-DVDR(1) [JH].txt"
     },
     {
       "year": 1993,
@@ -10931,7 +11106,7 @@ const ARTIST_DATA = {
       "notes": "BETA(M) \u00b7 mz",
       "version": "PRO #2c",
       "format": "FLAC",
-      "textFile": "1993-01-23 - PRO #3 - TV-VHS(1)-DVDR(4) (reauthor) [BM].txt"
+      "textFile": "1993-01-23 - PRO #2c - BETA(M)-VHS(2)-FLAC - 44.1kHz.txt"
     },
     {
       "year": 1993,
@@ -10945,7 +11120,7 @@ const ARTIST_DATA = {
       "notes": "VHS(1)",
       "version": "PRO #3",
       "format": "DVD",
-      "textFile": "1993-01-23 - PRO #3b - TV-VHS(1)-FLAC - 44.1kHz.txt"
+      "textFile": "1993-01-23 - PRO #3 - TV-VHS(1)-DVDR(4) (reauthor) [BM].txt"
     },
     {
       "year": 1993,
@@ -10959,7 +11134,7 @@ const ARTIST_DATA = {
       "notes": "VHS(1) \u00b7 mz",
       "version": "PRO #3b (44.1k)",
       "format": "FLAC",
-      "textFile": "1993-01-23 - PRO #3b - TV-VHS(1)-FLAC - 48kHz.txt"
+      "textFile": "1993-01-23 - PRO #3b - TV-VHS(1)-FLAC - 44.1kHz.txt"
     },
     {
       "year": 1993,
@@ -10972,7 +11147,8 @@ const ARTIST_DATA = {
       "venue": "Praca da Apoteose (Hollywood Rock Festival)",
       "notes": "VHS(1) \u00b7 mz",
       "version": "PRO #3b (48k)",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1993-01-23 - PRO #3b - TV-VHS(1)-FLAC - 48kHz.txt"
     },
     {
       "year": 1993,
@@ -11013,7 +11189,8 @@ const ARTIST_DATA = {
       "venue": "Praca da Apoteose (Hollywood Rock Festival)",
       "notes": "ANA(x) \u00b7 anonymous",
       "version": "SBD #1a",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1993-01-23 - Rio de Janeiro, Brazil - Prac\u0327a da Apoteose (Hollywood Rock Festival).txt"
     },
     {
       "year": 1993,
@@ -11040,7 +11217,8 @@ const ARTIST_DATA = {
       "venue": "Praca da Apoteose (Hollywood Rock Festival)",
       "notes": "ANA(x) \u00b7 anonymous",
       "version": "SBD #1c",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1993-01-23 - Rio de Janeiro, Brazil - Prac\u0327a da Apoteose (Hollywood Rock Festival).txt"
     },
     {
       "year": 1993,
@@ -11289,7 +11467,8 @@ const ARTIST_DATA = {
       "venue": "Roseland Ballroom *Coma Red",
       "notes": "stagbeetle edit",
       "version": "MTX",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1993-07-23 - New York, NY - Roseland Ballroom.txt"
     },
     {
       "year": 1993,
@@ -11498,7 +11677,8 @@ const ARTIST_DATA = {
       "venue": "Veterans Memorial Coliseum (Arizona State Fair)",
       "notes": "ANA(M) \u00b7 mz",
       "version": "AUD #2",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1993-10-18 - Phoenix, AZ - Veterans Memorial Coliseum (AZ State Fair).txt"
     },
     {
       "year": 1993,
@@ -11511,7 +11691,8 @@ const ARTIST_DATA = {
       "venue": "Veterans Memorial Coliseum (Arizona State Fair)",
       "notes": "ANA(1) \u00b7 mz",
       "version": "AUD #3 (44.1k)",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1993-10-18 - Phoenix, AZ - Veterans Memorial Coliseum (AZ State Fair).txt"
     },
     {
       "year": 1993,
@@ -11579,7 +11760,8 @@ const ARTIST_DATA = {
       "venue": "Aragon Ballroom *The Sermon on the Mount",
       "notes": "DAT(1) \u00b7 remaster",
       "version": "AUD #1",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1993-10-23 - Chicago, IL - Aragon Ballroom (The Sermon On The Mount).txt"
     },
     {
       "year": 1993,
@@ -11592,7 +11774,8 @@ const ARTIST_DATA = {
       "venue": "Aragon Ballroom *The Sermon on the Mount",
       "notes": "ANA(x) \u00b7 cr",
       "version": "AUD #2",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1993-10-23 - Chicago, IL - Aragon Ballroom (The Sermon On The Mount).txt"
     },
     {
       "year": 1993,
@@ -11619,7 +11802,8 @@ const ARTIST_DATA = {
       "venue": "Mecca Auditorium",
       "notes": "DAT(M) \u00b7 mz",
       "version": "AUD #1b",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1993-10-26 - Milwaukee, WI - Mecca Auditorium.txt"
     },
     {
       "year": 1993,
@@ -11632,7 +11816,8 @@ const ARTIST_DATA = {
       "venue": "Mecca Auditorium",
       "notes": "DAT(x) \u00b7 ks",
       "version": "AUD #1c",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1993-10-26 - Milwaukee, WI - Mecca Auditorium.txt"
     },
     {
       "year": 1993,
@@ -11659,7 +11844,8 @@ const ARTIST_DATA = {
       "venue": "Michigan State Fairgrounds Coliseum",
       "notes": "ANA(M) \u00b7 cr",
       "version": "AUD #2",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1993-10-29 - Detroit, MI - Michigan State Fairgrounds Coliseum.txt"
     },
     {
       "year": 1993,
@@ -11715,7 +11901,7 @@ const ARTIST_DATA = {
       "notes": "8MM(M) \u00b7 hl",
       "version": "AMT #1 (44.1k)",
       "format": "FLAC",
-      "textFile": "1993-11-02 - Auditorium de Verdun - Verdun QC, Canada (AMT1-DVD).txt"
+      "textFile": "1993-11-02 - AMT #1 - 8MM(M)-FLAC - 44.1kHz.txt"
     },
     {
       "year": 1993,
@@ -11729,7 +11915,7 @@ const ARTIST_DATA = {
       "notes": "8MM(M) \u00b7 hl",
       "version": "AMT #1",
       "format": "DVD",
-      "textFile": "1993-11-02 - AMT #1 - 8MM(M)-FLAC - 44.1kHz.txt"
+      "textFile": "1993-11-02 - Auditorium de Verdun - Verdun QC, Canada (AMT1-DVD).txt"
     },
     {
       "year": 1993,
@@ -11799,7 +11985,7 @@ const ARTIST_DATA = {
       "notes": "VHS(1) \u00b7 mz",
       "version": "AMT #1 (44.1k)",
       "format": "FLAC",
-      "textFile": "1993-11-04 - Maple Leaf Gardens - Toronto Ontario, Canada (AMT1-DVD).txt"
+      "textFile": "1993-11-04 - AMT #1 - VHS(1)-FLAC - 44.1kHz.txt"
     },
     {
       "year": 1993,
@@ -11813,7 +11999,7 @@ const ARTIST_DATA = {
       "notes": "VHS(1) \u00b7 jh",
       "version": "AMT #1",
       "format": "DVD",
-      "textFile": "1993-11-04 - AMT #1 - VHS(1)-FLAC - 44.1kHz.txt"
+      "textFile": "1993-11-04 - Maple Leaf Gardens - Toronto Ontario, Canada (AMT1-DVD).txt"
     },
     {
       "year": 1993,
@@ -11882,7 +12068,8 @@ const ARTIST_DATA = {
       "venue": "The Armory, Drexel University",
       "notes": "ANA(1) \u00b7 sz",
       "version": "AUD #1",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1993-11-08 - Philadelphia, PA - The Armory.txt"
     },
     {
       "year": 1993,
@@ -11895,7 +12082,8 @@ const ARTIST_DATA = {
       "venue": "The Armory, Drexel University",
       "notes": "ANA(1)",
       "version": "AUD #1 (96k)",
-      "format": "FLAC HD"
+      "format": "FLAC HD",
+      "textFile": "1993-11-08 - Philadelphia, PA - The Armory.txt"
     },
     {
       "year": 1993,
@@ -11908,7 +12096,8 @@ const ARTIST_DATA = {
       "venue": "The Armory, Drexel University",
       "notes": "ANA(x) \u00b7 mz",
       "version": "AUD #2",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1993-11-08 - Philadelphia, PA - The Armory.txt"
     },
     {
       "year": 1993,
@@ -11921,7 +12110,8 @@ const ARTIST_DATA = {
       "venue": "The Armory, Drexel University",
       "notes": "ANA(M) \u00b7 mz",
       "version": "AUD #3",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1993-11-08 - Philadelphia, PA - The Armory.txt"
     },
     {
       "year": 1993,
@@ -11990,7 +12180,8 @@ const ARTIST_DATA = {
       "venue": "Stabler Arena, Lehigh University",
       "notes": "8MM(M) \u00b7 mz",
       "version": "AMT #3",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1993-11-09 - Bethlehem, PA - Stabler Arena, Lehigh University .txt"
     },
     {
       "year": 1993,
@@ -12003,7 +12194,8 @@ const ARTIST_DATA = {
       "venue": "Stabler Arena, Lehigh University",
       "notes": "VHS(x) \u00b7 mz",
       "version": "AMT #3",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1993-11-09 - Bethlehem, PA - Stabler Arena, Lehigh University .txt"
     },
     {
       "year": 1993,
@@ -12016,7 +12208,8 @@ const ARTIST_DATA = {
       "venue": "Stabler Arena, Lehigh University",
       "notes": "8MM(M) \u00b7 mz",
       "version": "AMT #3",
-      "format": "DVD"
+      "format": "DVD",
+      "textFile": "1993-11-09 - Bethlehem, PA - Stabler Arena, Lehigh University .txt"
     },
     {
       "year": 1993,
@@ -12029,7 +12222,8 @@ const ARTIST_DATA = {
       "venue": "Stabler Arena, Lehigh University",
       "notes": "DAT(1) \u00b7 mz",
       "version": "AUD #1",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1993-11-09 - Bethlehem, PA - Stabler Arena, Lehigh University .txt"
     },
     {
       "year": 1993,
@@ -12042,7 +12236,8 @@ const ARTIST_DATA = {
       "venue": "Stabler Arena, Lehigh University *Legacy of Noise",
       "notes": "speed corrected \u00b7 pl",
       "version": "AUD #2",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1993-11-09 - Bethlehem, PA - Stabler Arena, Lehigh University .txt"
     },
     {
       "year": 1993,
@@ -12069,7 +12264,8 @@ const ARTIST_DATA = {
       "venue": "Springfield Civic Center",
       "notes": "ANA(2) \u00b7 mz",
       "version": "AUD #2",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1993-11-10 - Springfield, MA - Springfield Civic Center.txt"
     },
     {
       "year": 1993,
@@ -12082,7 +12278,8 @@ const ARTIST_DATA = {
       "venue": "Springfield Civic Center *Official CD \"From The Muddy Banks Of The Wishkah\"",
       "notes": "pl",
       "version": "SBD #1a",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1993-11-10 - Springfield, MA - Springfield Civic Center.txt"
     },
     {
       "year": 1993,
@@ -12095,7 +12292,8 @@ const ARTIST_DATA = {
       "venue": "Springfield Civic Center Official CD \"From The Muddy Banks Of The Wishkah\"",
       "notes": "pbthal",
       "version": "SBD #1b",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1993-11-10 - Springfield, MA - Springfield Civic Center.txt"
     },
     {
       "year": 1993,
@@ -12150,7 +12348,8 @@ const ARTIST_DATA = {
       "venue": "Bender Arena",
       "notes": "American \u00b7 4",
       "version": "AUD #2a",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1993-11-13 - Washington, D.C. - Bender Arena - American University.txt"
     },
     {
       "year": 1993,
@@ -12247,7 +12446,8 @@ const ARTIST_DATA = {
       "venue": "Roseland Ballroom",
       "notes": "ANA(5)",
       "version": "AUD #1b",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1993-11-15_AUD_1b.txt"
     },
     {
       "year": 1993,
@@ -12260,7 +12460,8 @@ const ARTIST_DATA = {
       "venue": "Roseland Ballroom",
       "notes": "ANA(2)",
       "version": "AUD #1b (48k)",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1993-11-15 - New York, NY - Roseland Ballroom.txt"
     },
     {
       "year": 1993,
@@ -12273,7 +12474,8 @@ const ARTIST_DATA = {
       "venue": "Roseland Ballroom",
       "notes": "ANA(2)",
       "version": "AUD #1b (48k)",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1993-11-15 - New York, NY - Roseland Ballroom.txt"
     },
     {
       "year": 1993,
@@ -12425,7 +12627,8 @@ const ARTIST_DATA = {
       "venue": "AT&T Amphitheater at Bayfront Park",
       "notes": "VHS(x) \u00b7 nh",
       "version": "AMT #1b",
-      "format": "DVD"
+      "format": "DVD",
+      "textFile": "1993-11-27 - Miami, FL - AT&T Amphitheater at Bayfront Park.txt"
     },
     {
       "year": 1993,
@@ -12452,7 +12655,8 @@ const ARTIST_DATA = {
       "venue": "The Omni",
       "notes": "ANA(x)",
       "version": "AUD #1b",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1993-11-29 - Atlanta, GA - The Omni.txt"
     },
     {
       "year": 1993,
@@ -12577,7 +12781,8 @@ const ARTIST_DATA = {
       "venue": "Roy Wilkins Auditorium",
       "notes": "DAT(M) \u00b7 mz",
       "version": "AUD #2",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1993-12-10 - St. Paul, MN - Roy Wilkins Auditorium.txt"
     },
     {
       "year": 1993,
@@ -12604,7 +12809,8 @@ const ARTIST_DATA = {
       "venue": "Roy Wilkins Auditorium",
       "notes": "DAT(x) \u00b7 ks",
       "version": "AUD #4",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1993-12-10 - St. Paul, MN - Roy Wilkins Auditorium.txt"
     },
     {
       "year": 1993,
@@ -12617,7 +12823,8 @@ const ARTIST_DATA = {
       "venue": "Roy Wilkins Auditorium",
       "notes": "VHS(x) \u00b7 serra",
       "version": "PRO #1",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1993-12-10 - St. Paul, MN - Roy Wilkins Auditorium.txt"
     },
     {
       "year": 1993,
@@ -12811,7 +13018,8 @@ const ARTIST_DATA = {
       "venue": "Pier 48 (Dave and Krist Interview)",
       "notes": "VHS(1) \u00b7 mz",
       "version": "UNK",
-      "format": "DVD"
+      "format": "DVD",
+      "textFile": "1993-12-13 - Seattle, WA - Pier 48 - MTV Live and Loud.txt"
     },
     {
       "year": 1993,
@@ -12992,7 +13200,8 @@ const ARTIST_DATA = {
       "venue": "Great Western Forum",
       "notes": "VID(1) \u00b7 bl",
       "version": "AMT #2",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1993-12-30 - Inglewood, CA - Great Western Arena.txt"
     },
     {
       "year": 1993,
@@ -13061,7 +13270,8 @@ const ARTIST_DATA = {
       "venue": "Oakland Coliseum Arena",
       "notes": "DAT(M) \u00b7 Nakamichi CM-700s",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1993-12-31 - Oakland, CA - Oakland Coliseum Arena.txt"
     },
     {
       "year": 1994,
@@ -13644,7 +13854,7 @@ const ARTIST_DATA = {
       "notes": "8MM(M) \u00b7 mz",
       "version": "AMT #1 (44.1k)",
       "format": "FLAC",
-      "textFile": "1994-02-21 Palasport Modena.Italy (DVD).txt"
+      "textFile": "1994-02-21 - AMT #1 - 8MM(M)-FLAC - 44.1kHz.txt"
     },
     {
       "year": 1994,
@@ -13658,7 +13868,7 @@ const ARTIST_DATA = {
       "notes": "8MM(M) \u00b7 mz",
       "version": "AMT #1",
       "format": "DVD",
-      "textFile": "1994-02-21 - AMT #1 - 8MM(M)-FLAC - 44.1kHz.txt"
+      "textFile": "1994-02-21 Palasport Modena.Italy (DVD).txt"
     },
     {
       "year": 1994,
@@ -13727,7 +13937,8 @@ const ARTIST_DATA = {
       "venue": "Palaghiaccio",
       "notes": "ANA(M) \u00b7 mz",
       "version": "AUD #1",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1994-02-22 - Rome, Italy - Palaghiaccio.txt"
     },
     {
       "year": 1994,
@@ -13754,7 +13965,8 @@ const ARTIST_DATA = {
       "venue": "Palaghiaccio",
       "notes": "ldb master",
       "version": "FM",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1994-02-22 - Rome, Italy - Palaghiaccio.txt"
     },
     {
       "year": 1994,

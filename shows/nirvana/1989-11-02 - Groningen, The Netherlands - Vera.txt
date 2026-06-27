@@ -1,26 +1,28 @@
 NIRVANA
 November 2, 1989
-Vera,
+Vera
 Groningen, The Netherlands
 
-SOURCE (AMT #1c):
-soundboard > unknown
+SOURCE (AMT #1):
+unknown > unknown
 
-EXTRACTION:
-Adobe Audition CC > CD Wave 1.98 > Trader's Little Helper 2.7.0
+TRANSFER:
+Panasonic NV-GS120 > IEEE 1394 > Adobe Premiere Pro 7.0 > Adobe Encore DVD 1.5
 
 GENERATION:
-VHS(x) > MP4 [48kHz/32bit] > AAC (LC) [103 kbps] > WAV [44.1kHz/16bit] > FLAC [Level 8]
+VHS(1) > audience > MiniDV(1) > AVI [DV25] > M2V/WAV [7Mbps CBR/48kHz PCM] > DVDR(0)
 
 LENGTH:
-56:24
+55:57
 
 NOTES:
-- Posted on Vera Groningens Facebook page in April 2014. 
-- Missing most of "About A Girl". "Token Eastern Song" cuts out. 
-- Higher quality, but is missing more of "About A Girl", than AMT #1a.
+- Has errors during 'About A Girl' and is missing most of it.
+- Has a small cut right before 'Blew'.
+- Has a drop out in 'Blew'.
+- Has a drop out in 'Token Eastern Song'.
+- Missing about 1 min of what was taped of 'Token Eastern Song'.
 
-TRACKS:
+CHAPTERS:
 01. intro
 02. School
 03. Scoff
@@ -33,34 +35,29 @@ TRACKS:
 10. About A Girl (cut)
 11. Mr Moustache
 12. Breed
-13. jam
-14. Stain
-15. Been A Son
-16. Negative Creep
-17. Blew
-18. Token Eastern Song (cuts out)
+13. Stain
+14. Been A Son
+15. Negative Creep
+16. Blew
+17. Token Eastern Song (cut)
 
 MD5 FINGERPRINTS:
-7dfe2ba60e17f877f655699b62036e78 *Nirvana_1989-11-02_AMT1c_t01.flac
-3214ef6c8ea85d71138be73995bbd099 *Nirvana_1989-11-02_AMT1c_t02.flac
-3adc895be756d82303f546fb60d0317d *Nirvana_1989-11-02_AMT1c_t03.flac
-a9a9f6c354cd9a435fafdaeed8bf7170 *Nirvana_1989-11-02_AMT1c_t04.flac
-eae07fdabf49688e2f35f5ea7f91c5c8 *Nirvana_1989-11-02_AMT1c_t05.flac
-dc448b9dd5bb8d8e73a389630f453ce7 *Nirvana_1989-11-02_AMT1c_t06.flac
-9227c1edb05c1cc3468f7035ff81a1a9 *Nirvana_1989-11-02_AMT1c_t07.flac
-5d074ac59f72f0dd5691c97f985bb248 *Nirvana_1989-11-02_AMT1c_t08.flac
-a1d75cefd481bbb66a35bd6e9e085c76 *Nirvana_1989-11-02_AMT1c_t09.flac
-46c1bfa954cdc70b9b6642fa2cc98f39 *Nirvana_1989-11-02_AMT1c_t10.flac
-c4b4ac78911dcc5202ad19606c69f90a *Nirvana_1989-11-02_AMT1c_t11.flac
-bbab6080f24a752c5dcacecbec34d25d *Nirvana_1989-11-02_AMT1c_t12.flac
-d92b4fecd7334a868449835d46059600 *Nirvana_1989-11-02_AMT1c_t13.flac
-9a77160be43ef4a37474600c861ddd69 *Nirvana_1989-11-02_AMT1c_t14.flac
-8736055f81c7c78913e5d461558570f0 *Nirvana_1989-11-02_AMT1c_t15.flac
-ec3737fd9c6b107e1b893c6739bb4432 *Nirvana_1989-11-02_AMT1c_t16.flac
-689e093a17a8f4a3906359cfa0d4eaa8 *Nirvana_1989-11-02_AMT1c_t17.flac
-9f71504bc72762676fe9dc0aebf330a8 *Nirvana_1989-11-02_AMT1c_t18.flac
+12288 12:06.27 2007-03-04 VIDEO_TS.BUP
+12288 12:06.27 2007-03-04 VIDEO_TS.IFO
+10240 12:06.27 2007-03-04 VIDEO_TS.VOB
+36864 12:06.27 2007-03-04 VTS_01_0.BUP
+36864 12:06.27 2007-03-04 VTS_01_0.IFO
+178176 12:06.27 2007-03-04 VTS_01_0.VOB
+1073709056 12:06.27 2007-03-04 VTS_01_1.VOB
+1073709056 12:06.27 2007-03-04 VTS_01_2.VOB
+1073709056 12:06.27 2007-03-04 VTS_01_3.VOB
+418129920 12:06.27 2007-03-04 VTS_01_4.VOB
 
-EXTRACTED BY:
-Fabian Beyer
+TRANSFERRED BY:
+Andreas Magnusson
 
-PLEASE DO NOT SELL OR ENCODE TO MP3
+DO NOT SELL OR ENCODE TO ANY OTHER FORMAT!
+s Magnusson
+
+DO NOT SELL OR ENCODE TO ANY OTHER FORMAT!
+

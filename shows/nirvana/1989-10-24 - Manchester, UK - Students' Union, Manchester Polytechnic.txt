@@ -1,73 +1,51 @@
 NIRVANA
-October 24th, 1989
+October 24, 1989
 Students' Union, Manchester Polytechnic
-Manchester, England
-UNITED KINGDOM
+Manchester, United Kingdom
 
-DISC #1/1 (45:45)
------------------
-01) Intro
-02) School
-03) Scoff
-04) Love Buzz
-05) Floyd the Barber (cuts in)
-06) Dive
-07) Polly
-08) Big Cheese
-09) About A Girl
-10) Token Eastern Song
-11) Spank Thru
-12) Even In His Youth
-13) Stain
-14) Negative Creep
-15) Blew
+SOURCE (SBD #1):
+soundboard > unknown
 
-GENERATION
------------------
-ANA(1) > WAV [96kHz] > WAV [44.1kHz] > FLAC [Level 8]
+TRANSFER:
+Tascam DA-20 MKII > PreSonus FireStudio Project > Adobe Audition 3.0 > CD Wave 1.98 > Trader's Little Helper 2.7.0
 
-SOURCE (AUD #1)
------------------
-Unknown > Unknown
+GENERATION:
+ANA(M) > DAT(1) [48kHz/16bit] > WAV [48kHz/16bit] > WAV [44.1kHz/16bit] > FLAC [Level 8]
 
-TRANSFER
------------------
-Nakamichi DR-3 > Custom RCA to 1/4"TRS cables > Echo Mia Midi analog-in (PW) > Adobe Audition 1.5 > CD WAVE 1.94.1 > FLAC Frontend 1.7.1
+LENGTH:
+44:42
 
-NOTES
------------------
-- Cut after "Love Buzz", "Floyd the Barber" cuts in.
-- tape flip after "Big Cheese".
-- transferred at 96kHz & 32bit.
-- some crackles and sort of noises due to the tape.
+TRACKS:
+01. Scoff (cuts in)
+02. Love Buzz
+03. Floyd The Barber
+04. Dive
+05. Polly
+06. Big Cheese
+07. About A Girl
+08. Token Eastern Song
+09. Spank Thru
+10. Even In His Youth
+11. Stain
+12. Negative Creep
+13. Blew
 
-SPECIAL THANKS TO
------------------
-Steve D. for lending the tape, extremely appreciated.
-Douglas Baptie & LNCU-UK for their great work.
+MD5 FINGERPRINTS:
+a195553e55e2eaa1f51b2bfeabe70213 *Nirvana_1989-10-24_SBD1_t01.flac
+d8ee95fb86d3a2e4c24bae671c9b9e50 *Nirvana_1989-10-24_SBD1_t02.flac
+b0377624c0d1a5e9384507e1be6f4dc8 *Nirvana_1989-10-24_SBD1_t03.flac
+1c51e6fcb2f7eef84ac00f63f6eaabfe *Nirvana_1989-10-24_SBD1_t04.flac
+2d51ca2407a27b2f736b3837632c8f59 *Nirvana_1989-10-24_SBD1_t05.flac
+3e7e429097fa00dea4b35b9f4776f30f *Nirvana_1989-10-24_SBD1_t06.flac
+852682dcf8a301b80723328c43586abf *Nirvana_1989-10-24_SBD1_t07.flac
+05bf345a80bc98b162441cd31ad443b9 *Nirvana_1989-10-24_SBD1_t08.flac
+7a3e04197263b4c195c6f608b81d5f1e *Nirvana_1989-10-24_SBD1_t09.flac
+086413290542ac95e528e71dc54a8557 *Nirvana_1989-10-24_SBD1_t10.flac
+d26aaf57966c065921c62e856feb7c2e *Nirvana_1989-10-24_SBD1_t11.flac
+000ba2aff6bf0982bd628ba0a84c8c18 *Nirvana_1989-10-24_SBD1_t12.flac
+e538c8ed000d841b23c92960d7e9a6df *Nirvana_1989-10-24_SBD1_t13.flac
 
-MD5 FINGERPRINTS
-----------------
-6c084f5640d467606e5fe5a222be294a *nirvana1989-10-24d1t01.flac
-71bacd1402af5b675896a0eef24b2e69 *nirvana1989-10-24d1t02.flac
-e0bc9708ec4a35238ef90f42c4bb15ca *nirvana1989-10-24d1t03.flac
-98501b7cc7828866e2beaec5851b223a *nirvana1989-10-24d1t04.flac
-f84d4326565b934c7346a2b41a6a556a *nirvana1989-10-24d1t05.flac
-ed4b7df6010ccf7ea9cb8c68982c7f0c *nirvana1989-10-24d1t06.flac
-d4bedc6a098832089345414099a0ce10 *nirvana1989-10-24d1t07.flac
-68f05b22d6bcdd5d9457ca46a07aa537 *nirvana1989-10-24d1t08.flac
-246f4095d63d74c4e7c347d0bdff07a3 *nirvana1989-10-24d1t09.flac
-c4e56ef8687e721cf7f1a8174af645a2 *nirvana1989-10-24d1t10.flac
-e3b0d546b820cdf4728a3d29e2064ace *nirvana1989-10-24d1t11.flac
-4bad78722abcbaa5ba87a9df283e8442 *nirvana1989-10-24d1t12.flac
-3bb245183b91fa5ce4ecf258944d777a *nirvana1989-10-24d1t13.flac
-a09fe048ac2d479700ba326f33883bd4 *nirvana1989-10-24d1t14.flac
-dc63b65f9cde54824054159e0b2848cc *nirvana1989-10-24d1t15.flac
+TRANSFERRED BY:
+Mike Ziegler
 
-
-TRANSFERRED BY
-Pierre LEROY
-
-DO NOT EVEN TRY TO SELL THIS !
-DO NOT EVEN TRY TO TRADE THIS IN ANOTHER FILE FORMAT THAN FLAC or AUDIO CD-R
-THANK YOU
+PLEASE DO NOT SELL OR ENCODE TO MP3

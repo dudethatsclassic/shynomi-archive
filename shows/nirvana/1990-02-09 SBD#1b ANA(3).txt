@@ -10,7 +10,7 @@ TRANSFER:
 Nakamichi DR-1 > Canare cable > D.A.L. CardDeluxe > Adobe Audition CC > SoundForge 12.1 > Trader's Little Helper 2.8.4
 
 GENERATION:
-ANA(3)> WAV[24 bit/44.1kHz] > WAV[16 bit/44.1kHz] > FLAC [Level 8]
+ANA(3)> WAV[24 bit/44.1kHz] > FLAC [Level 8]
 
 DURATION:
 37:28
@@ -30,18 +30,7 @@ SETLIST:
 11. Blew
 
 MD5 FINGERPRINTS:
-358bc599c068642461f4caec3870f17e *NIRVANA 1990-02-09 SBD#1b ANA(3)_00 Jam.flac
-1390e278261e536d3232cbf57915d73e *NIRVANA 1990-02-09 SBD#1b ANA(3)_01 School.flac
-76d384fa1eece4f8b7e6faca2b1c94bc *NIRVANA 1990-02-09 SBD#1b ANA(3)_02 Floyd The Barber.flac
-a7db4cec7b77d3a08668e9683734b292 *NIRVANA 1990-02-09 SBD#1b ANA(3)_03 Dive.flac
-95a577b287d00ba5d896313657f8ddb0 *NIRVANA 1990-02-09 SBD#1b ANA(3)_04 Love Buzz.flac
-1259c1f936482efeb09da020ebf916c4 *NIRVANA 1990-02-09 SBD#1b ANA(3)_05 Spank Thru.flac
-76f13b0079315f8db19163897bf38062 *NIRVANA 1990-02-09 SBD#1b ANA(3)_06 Mollys Lips.flac
-e1397b12d697ae0d3013ccc9fcb81398 *NIRVANA 1990-02-09 SBD#1b ANA(3)_07 Sappy.flac
-fb4e942cab8560b361bc25018483ef06 *NIRVANA 1990-02-09 SBD#1b ANA(3)_08 Scoff.flac
-1406c7fd27cad24426f879a2e39d1397 *NIRVANA 1990-02-09 SBD#1b ANA(3)_09 About A Girl.flac
-8af16606bc1093ee0af18cc29b855a8c *NIRVANA 1990-02-09 SBD#1b ANA(3)_10 Been A Son.flac
-fa686464c1a811342593c83ad2444d39 *NIRVANA 1990-02-09 SBD#1b ANA(3)_11 Blew.flac
+f139615d7cc0970731dac60b1c570e2a *NIRVANA 1990-02-09 SBD#1b ANA(3) [24-44].flac
 
 TRANSFER: 
 Members of LiveNIRVANA.com
@@ -52,7 +41,7 @@ Members of LiveNIRVANA.com
 NOTES:
 • Lower quality but better dynamics than SBD#1.
 • Inludes a "bass jam" of the intro that is not present in SBD#3, but cuts out a few seconds later, so, missing all intro that is present on SBD#3.
-• Includes "School" and there is no cut in "Scoff" as we have in SBD#1
+• Includes "School" and there is no cut in "Scoff" as we have in SBD #1
 • "Molly's Lips" has a little cut.
 • There is a cut during the end of "About A Girl".
 • Missing the "jam" after "Been A Son" and missing all noise after "Blew", but in SBD#1 we have the "jam" and part of the "end noise" after "Blew".

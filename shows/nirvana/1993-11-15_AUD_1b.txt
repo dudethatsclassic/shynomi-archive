@@ -1,38 +1,1 @@
-NIRVANA 
-11/15/93 
-Roseland Ballroom 
-New York, NY 
-
-Set 
-Radio Friendly Unit Shifter • Drain You • Breed • Serve The Servants • About A Girl • Heart-Shaped Box • Sliver • Dumb • In Bloom • Come As You Are • Lithium • Pennyroyal Tea • School • Polly • Milk It • Rape Me • Territorial Pissings • Smells Like Teen Spirit • All Apologies • Jesus Wants Me For A Sunbeam • On A Plain • Living In Sin (jam) • Scentless Apprentice • Blew • I Wanna Be Your Dog (jam) 
-
-
-AUD #1b - audience audio 
-Equipment: Core Sound Binaural > Sony TCD-D7 (DAT) 
-Lowest Generation: DAT > ANA(5) 
-Length / Sound Quality: 100 min / B 
-Lower quality and higher generation, but does not have the digital errors that are present on AUD #1a. 
-The "I Wanna Be Your Dog" jam cuts out. 
-
-GENERATION 
-
-ANA(5) -> CD-R(4) -> FLAC[LEVEL8] 
-
-FLAC fingerprints 
-
-CD1: 
-1 Audio Track.flac:f6b6f996c907823c15c1720bbd7bcab1 
-10 Audio Track.flac:8ac94795b0093c4ccbe072fec98d6acf 
-11 Audio Track.flac:21156028f102382f5f1732b8d07e4cc5 
-12 Audio Track.flac:5645985591e68b051b314212da2cbe00 
-13 Audio Track.flac:809f2d0717dd7c228aefc765aab3dac5 
-14 Audio Track.flac:37402777ed1ecfb0e9dfb5481456623b 
-2 Audio Track.flac:0136f34c3c7e76f5517c3f4d791ebe2f 
-3 Audio Track.flac:28b0232819e4a16f1be64e122fbfadac 
-4 Audio Track.flac:94beeb6945c1211fb807bbec4fc5ff15 
-5 Audio Track.flac:f4debef9b87b3ee6f4630761f07a2a1f 
-6 Audio Track.flac:99e9c04d80779d19069efe7ff73ff784 
-7 Audio Track.flac:977dab24fe1eea8323f35b80b70cb53a 
-8 Audio Track.flac:a2a1571ce414856d7a0d4c65042aea75 
-9 Audio Track.flac:31f95c64e5bb7b0bda1ffcc3e2dfb89a 
-
+1 Piste 01.flac:35e2b1666e53f494aad10a144c8a3ef02 Piste 02.flac:09b40c1420092fc40a90bb3ff71963743 Piste 03.flac:3d3110f9b144ca72a63e123b5f72d2c14 Piste 04.flac:820e6f8ec520159b3172dbf4168507cd5 Piste 05.flac:d76be4739782502f0c2e37fe7c9ae18b6 Piste 06.flac:17efc185e2f8fede493ba0adcf040dc47 Piste 07.flac:6a0f1d81450b53c52ff41a2f65ec9f288 Piste 08.flac:1c698eba969e0d844247b9577ebb60af9 Piste 09.flac:8b97512bcbcee149ef409b086a2faec4

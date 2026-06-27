@@ -3,102 +3,68 @@ June 26, 1992
 Dyrskuepladsen (Roskilde Festival)
 Roskilde, Denmark
 
-SOURCE (AMT #1 and AMT #2):
-unknown > unknown
+DISC #1/1 (77:20)
+-----------------
+01) intro
+02) Aneurysm
+03) Drain You
+04) Stay Away
+05) Sliver
+06) School
+07) In Bloom
+08) Breed
+09) About A Girl
+10) Scoff
+11) Polly
+12) Lithium
+13) Blew
+14) Been A Son
+15) On A Plain (cut)
+16) Swap Meet
+17) Negative Creep
+18) Something In The Way
+19) Come As You Are
+20) Love Buzz
+21) Smells Like Teen Spirit
+22) Territorial Pissings
 
-SOURCE (PRO #1c):
-soundboard > unknown
+GENERATION
+-----------------
+ANA(M) -> DAT(1) -> WAV [48kHz] -> WAV [44.1kHz] -> FLAC [Level 8]
 
-TRANSFER (AMT #1, AMT #2, and PRO #1c):
-JVC HR-S9911U > Sony DCR-TRV730 > IEEE 1394 > Adobe Premiere Pro 2.0 > TMPGEnc Plus 2.5 > Adobe Encore DVD 2.0
+SOURCE (SBD#2)
+-----------------
+soundboard -> unknown
 
-GENERATION (AMT #1):
-VHS(1) > AVI [DV25] > M2V/WAV [8Mbps CBR/48kHz PCM] > DVDR(0) [dual layer]
+TRANSFER
+-----------------
+Tascam DA-20 MKII -> Apogee S/PDIF cable -> LynxONE digital-in -> Adobe Audition 2.0 -> CD Wave 1.95 -> FLAC Frontend 1.7.1
 
-GENERATION (AMT #2):
-VHS(2) > AVI [DV25] > M2V/WAV [8Mbps CBR/48kHz PCM] > DVDR(0) [dual layer]
+MD5 FINGERPRINTS
+-----------------
+c13fa29025c71811c17619a3185614a6 *nirvana1992-06-26t01.flac
+c9856df4379dbf9a080d47ee70794fb8 *nirvana1992-06-26t02.flac
+2591a1ce9b77f4a5a35870ff8f07bb3a *nirvana1992-06-26t03.flac
+f5ee0d9f92e20de32b770a57874acdf2 *nirvana1992-06-26t04.flac
+da1baaeb5a644aaf4051af9e3b47a6af *nirvana1992-06-26t05.flac
+bd020c70298e4b534d8c5ef9618ad96a *nirvana1992-06-26t06.flac
+274e561347f03bea13f459aedea16734 *nirvana1992-06-26t07.flac
+11be05b8256cc6ce134eaca3f491894b *nirvana1992-06-26t08.flac
+0b269a71a5da0b553a7015d0cb88758d *nirvana1992-06-26t09.flac
+e58803a6dcd24b0bec52f46cf9a3ce6b *nirvana1992-06-26t10.flac
+75d405fcac229756b810a482b082d18a *nirvana1992-06-26t11.flac
+12ceb3ab4f4e0f2bf7dc8697f3185155 *nirvana1992-06-26t12.flac
+15b9f930aa6099701c2bf282571d686b *nirvana1992-06-26t13.flac
+22827fe474aacd5c465727a686f394b0 *nirvana1992-06-26t14.flac
+7376fafea88b77326e79d9c5fae96add *nirvana1992-06-26t15.flac
+77827215dfbc3f5973c2915817e1b1d5 *nirvana1992-06-26t16.flac
+cc9baa0d505ad8d97f68c8e464831730 *nirvana1992-06-26t17.flac
+55dbd4350c665f847fd7bbdea1a2a0a4 *nirvana1992-06-26t18.flac
+9071794cef940696ba02b0f724fdf990 *nirvana1992-06-26t19.flac
+edd6c87c000a4b858528affe25054724 *nirvana1992-06-26t20.flac
+592265456ccb28cb3f19e50cfed71586 *nirvana1992-06-26t21.flac
+a65ac0fd08079594677ae6acd96ba6a6 *nirvana1992-06-26t22.flac
 
-GENERATION (PRO #1c):
-VHS(x) > AVI [DV25] > M2V/WAV [8Mbps CBR/48kHz PCM] > DVDR(0) [dual layer]
 
-LENGTH (AMT #1):
-74:08
-
-LENGTH (AMT #2):
-14:11
-
-LENGTH (PRO #1c):
-7:14
-
-NOTES:
-- AMT #1 is labeled "AMATEUR ANGLE 1" on the DVD.
-- AMT #1 has a dropout in "Aneurysm."
-- AMT #2 is labeled "AMATEUR ANGLE 2" on the DVD.
-- AMT #2 has a cut from the source tape during the intro, causing some blockiness for about 2 seconds.
-- PRO #1c is labeled "PRO SHOT & INTERVIEW" on the DVD.
-- On PRO #1c, "Swap Meet" is only a brief clip with no video.
-
-CHAPTERS (AMT #1):
-01. intro
-02. Aneurysm
-03. Drain You
-04. Stay Away
-05. Sliver
-06. School
-07. In Bloom
-08. Breed
-09. About A Girl
-10. Scoff
-11. Polly
-12. Lithium
-13. Blew
-14. Been A Son
-15. On A Plain
-16. Swap Meet
-17. Negative Creep
-18. Something In The Way
-19. Come As You Are
-20. Love Buzz
-21. Smells Like Teen Spirit
-22. Territorial Pissings
-
-CHAPTERS (AMT #2):
-01. intro
-02. Aneurysm
-03. Drain You
-04. Stay Away
-05. Sliver (cuts out)
-
-CHAPTERS (PRO #1c):
-01. On A Plain
-02. Swap Meet (cuts out)
-03. interview
-04. Lithium (cuts in, cuts out)
-05. interview
-
-MD5 FINGERPRINTS:
-b8c5d7598e9a0998e89923f9f6d9776d *VIDEO_TS/VIDEO_TS.BUP
-b8c5d7598e9a0998e89923f9f6d9776d *VIDEO_TS/VIDEO_TS.IFO
-2b9118b5c757edf9be11b7ceef0015e3 *VIDEO_TS/VIDEO_TS.VOB
-eec1a0089c4772302b7c9d325fa3925a *VIDEO_TS/VTS_01_0.BUP
-eec1a0089c4772302b7c9d325fa3925a *VIDEO_TS/VTS_01_0.IFO
-0c494aa7777342b50b297616e8c9f370 *VIDEO_TS/VTS_01_0.VOB
-e70cafaa6c406fdd25dcee4cf61bbf9c *VIDEO_TS/VTS_01_1.VOB
-80a41ed5b0f493d06b4fda8a382872fb *VIDEO_TS/VTS_01_2.VOB
-e0d98b15e8b24bd9e77410a87698cffe *VIDEO_TS/VTS_01_3.VOB
-5f0fe10c8a244430ecda6a64558ab5d4 *VIDEO_TS/VTS_01_4.VOB
-05b19dee841cebfa0abf87d5c8af79fe *VIDEO_TS/VTS_01_5.VOB
-dcb5652fb2313165581cfc2ce58d1c9e *VIDEO_TS/VTS_01_6.VOB
-040fea755e64138d32ce44e425fb2a5b *VIDEO_TS/VTS_02_0.BUP
-040fea755e64138d32ce44e425fb2a5b *VIDEO_TS/VTS_02_0.IFO
-2b9118b5c757edf9be11b7ceef0015e3 *VIDEO_TS/VTS_02_0.VOB
-e88c3bd4348584f408cfa9d6dc0a4d4d *VIDEO_TS/VTS_02_1.VOB
-6bd8d6a4055d61e2a62c912bf8c3703f *VIDEO_TS/VTS_03_0.BUP
-6bd8d6a4055d61e2a62c912bf8c3703f *VIDEO_TS/VTS_03_0.IFO
-2b9118b5c757edf9be11b7ceef0015e3 *VIDEO_TS/VTS_03_0.VOB
-4bf10d69a32310bbfee9f3cb2e6a8478 *VIDEO_TS/VTS_03_1.VOB
-
-TRANSFERRED BY:
-Kris Sproul
-
-PLEASE DO NOT SELL OR ENCODE TO ANY OTHER FORMAT
+Transferred by Mike Ziegler.
+PLEASE DO NOT ENCODE TO MP3 OR SELL!

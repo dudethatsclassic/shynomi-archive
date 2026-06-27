@@ -7,10 +7,10 @@ SOURCE (AMT#1):
 unknown > unknown
 
 GENERATION:
-Video8(M) > AVI [UTVideo/48khz/16-Bit/PCM] > FLAC
+Video8(M) > AVI [UTVideo/48khz/16-Bit/PCM] > MKV [576p/x264 | AAC | FLAC]
 
 TRANSFER:
-Sony DCR-TRV340 > Blackmagic Intensity Shuttle > VirtualDub > Adobe Audition > CD Wave Editor
+Sony DCR-TRV340 > Blackmagic Intensity Shuttle > VirtualDub > AviSynth 2.6.0 > x264 0.164.3198 da14df5 > MKVToolNix GUI v57.0.0
 
 LENGTH:
 63:27
@@ -45,27 +45,7 @@ TRANSFER:
 TravisBickle1963 (VHS Rewinds)
 
 MD5 FINGERPRINTS:
-c729c3eddcfbbc83123f60dd73b410b1 *Nirvana 1991-11-14 AMT1 t01 Intro.flac
-34afd07fa0184abc38a2d49705a14807 *Nirvana 1991-11-14 AMT1 t02 Drain You.flac
-9e9207e8c21667bafc016a01fe478655 *Nirvana 1991-11-14 AMT1 t03 Aneurysm.flac
-7849ed422dba037cbf432bc3f0702a2a *Nirvana 1991-11-14 AMT1 t04 School (abandoned).flac
-8a367cde97d3d91d916a2a004a1e862a *Nirvana 1991-11-14 AMT1 t05 School.flac
-da6ee1c8cde4a0e41cc1763588ca975f *Nirvana 1991-11-14 AMT1 t06 Floyd The Barber.flac
-ceed1b57d9b6f9c2362e3f5f816d6c30 *Nirvana 1991-11-14 AMT1 t07 Smells Like Teen Spirit.flac
-5391c5f1b8315838b4dc342f219b2ffc *Nirvana 1991-11-14 AMT1 t08 About A Girl.flac
-891ec77c433fa52336a8df3d18858ab4 *Nirvana 1991-11-14 AMT1 t09 Polly.flac
-717338ad3e66c4074905ded2a92e6803 *Nirvana 1991-11-14 AMT1 t10 Lithium.flac
-0f9d6535a10b4b2fe09f4ff072b121e7 *Nirvana 1991-11-14 AMT1 t11 Breed.flac
-a3529048be2923ca0a2fbd5891ecf1c0 *Nirvana 1991-11-14 AMT1 t12 Sliver.flac
-bc26227de424378e11877aa30bf5bcaf *Nirvana 1991-11-14 AMT1 t13 Come As You Are.flac
-7c7576cdcde5ce216b4dc4aa52e0379c *Nirvana 1991-11-14 AMT1 t14 Been A Son.flac
-23daf52cc6e9960e6f43f80f43ef1821 *Nirvana 1991-11-14 AMT1 t15 Negative Creep.flac
-9c629f5bdfd0d406ee6dd69b972bc1f7 *Nirvana 1991-11-14 AMT1 t16 On A Plain.flac
-8c29c2342c76e81adfd2d43578ad1335 *Nirvana 1991-11-14 AMT1 t17 Blew.flac
-9fb25da3991069c89090116388122f28 *Nirvana 1991-11-14 AMT1 t18 Rape Me.flac
-1b7c7b8595147909a7c50b0681e3d0a9 *Nirvana 1991-11-14 AMT1 t19 Spank Thru.flac
-5c7e3a59257478bdb1cf80afa9f979ae *Nirvana 1991-11-14 AMT1 t20 Molly's Lips.flac
-ccf6e89e706931626820f7b77b1eb13a *Nirvana 1991-11-14 AMT1 t21 Territorial Pissings.flac
+842050e20a99071a7bf25e065b55f197 *Nirvana 1991-11-14 AMT1 x264 AAC FLAC.mkv
 
 DISTRIBUTION:
 Nicholas Serra & Members of LiveNIRVANA.com

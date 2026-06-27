@@ -1,23 +1,28 @@
-﻿NIRVANA
+NIRVANA
 December 7, 1991
 Salle Omnisports (Trans Musicales)
 Rennes, France
 
-SOURCE (AUD #6):
-AIWA > AIWA
+SOURCE (AUD #5)
+-----------------
+Sony PC-62 -> Sony TCD-D3 (tape : JVC R90XD)
 
-TRANSFER:
-Teac W790R > sony pcm d100 > WAV [44.1kHz] > SoundForge Pro 10 > Logic Pro X > Adobe Audition CC 2017 > SoundForge 12.1 > Trader's Little Helper 2.8.4 > FLAC [Level 8]
+GENERATION
+-----------------
+DAT(M) [16bits/48Khz] -> WAV [48kHz] -> FLAC 
 
-GENERATION:
-ANA(M) > WAV > FLAC [Level 8]
+TRANSFER
+-----------------
+Pioneer D05 -> TosLink -> Creative Sound Blaster Recon3D Fatal1ty Professional PCIe SB1356 -> Magix Audio & Music Lab Premium 22.0.1.22 (2016) -> Goldwave 6.31
 
-DURATION:
-49:00
+LENGTH
+-----------------
+49:59
 
-SETLIST:
-01. Baba O'Riley
-02. Jesus Wants Me For A Sunbeam
+TRACKS 
+-----------------
+01. Baba O'Riley [The Who cover, with Grohl and Novoselic on vocals]
+02. Jesus Wants Me For A Sunbeam [traditional, cover]
 03. Drain You
 04. Aneurysm
 05. School
@@ -31,30 +36,24 @@ SETLIST:
 13. On A Plain
 14. Blew
 
-MD5 FINGERPRINTS:
-3c8a88e772e6c366e2d859a4e888a362 *NIRVANA 1991-12-07 AUD#6 ANA(M) 01 Baba O'Riley.flac
-62e588d9c5a3ed949f78d48062c6dac9 *NIRVANA 1991-12-07 AUD#6 ANA(M) 02 Jesus Wants Me For A Sunbeam.flac
-8c39ae393902ec2e37bc070fb0cf9224 *NIRVANA 1991-12-07 AUD#6 ANA(M) 03 Drain You.flac
-aace0f53a32f303b89248d6e2f8ccb63 *NIRVANA 1991-12-07 AUD#6 ANA(M) 04 Aneurysm.flac
-690722cbc974f5a3619d072b466fdbdb *NIRVANA 1991-12-07 AUD#6 ANA(M) 05 School.flac
-1d621fb6c8492701beb8dbc7f9fe6456 *NIRVANA 1991-12-07 AUD#6 ANA(M) 06 Smells Like Teen Spirit.flac
-6f4263a3b57e2a58a15439a342314626 *NIRVANA 1991-12-07 AUD#6 ANA(M) 07 About A Girl.flac
-4b32837ab6f7afd1f545ee94585868ef *NIRVANA 1991-12-07 AUD#6 ANA(M) 08 Polly.flac
-7688ecb4fbb150e66f2933486169bb28 *NIRVANA 1991-12-07 AUD#6 ANA(M) 09 Sliver.flac
-1186097db16d659ee9f0b368d1ac1ad3 *NIRVANA 1991-12-07 AUD#6 ANA(M) 10 Breed.flac
-1688e835d4bf8a6fdc9f6141f2536631 *NIRVANA 1991-12-07 AUD#6 ANA(M) 11 Been A Son.flac
-544a01363bc09d4c926c2c43076b9fc3 *NIRVANA 1991-12-07 AUD#6 ANA(M) 12 Negative Creep.flac
-ccc2c90e927de98ba4f162b2f921015a *NIRVANA 1991-12-07 AUD#6 ANA(M) 13 On A Plain.flac
-e9f5dc57399386ab847b6d56e261abcf *NIRVANA 1991-12-07 AUD#6 ANA(M) 14 Blew.flac
+MD5 FINGERPRINTS
+-----------------
+b42da769221d31d5ca03116d88e42acf *01. Baba O'Riley.flac
+fda1ff8634ba48530efc39e5fe8d816d *02. Jesus Wants Me For A Sunbeam.flac
+1d72b588c27a325a35b3b76094ef8d89 *03. Drain You.flac
+e06eacb1c52b7b60e0558eb6671d4499 *04. Aneurysm.flac
+7e978cc5d13f95de083d792cc2596be7 *05. School.flac
+a5e419305f530249e0c986f5390fb1a7 *06. Smells Like Teen Spirit.flac
+8cc4c085cad642195e1ef436ef6c8060 *07. About A Girl.flac
+749f1c35eeb037c15362abc9315924e9 *08. Polly.flac
+b09b356640a663ba5ce819bc03fd5362 *09. Sliver.flac
+03eced41086fdec4d575d35a3dea1676 *10. Breed.flac
+dc33c345031119a8e0ad8ee9660e0326 *11. Been A Son.flac
+8a3e6436cc56479b84fd00a9d1e01b0b *12. Negative Creep.flac
+24f223d2864e1382c17caf87fd948dc6 *13. On A Plain.flac
+b9c2286fc945ab7cf51b1710d6546db3 *14. Blew.flac
 
-TRANSFER:
-Marc Pautrel
-
-SPEED CORRECTION:
-Joshua MacKenzie
-
-DISTRIBUTION:
-Mike Wilkinson and members of LiveNIRVANA.com
-2020-12-07
+Recorded, Transferred & Remastered by Kissamos
+January 2019
 
 PLEASE DO NOT SELL OR ENCODE TO MP3

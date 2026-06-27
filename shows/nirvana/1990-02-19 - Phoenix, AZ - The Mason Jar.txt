@@ -1,55 +1,55 @@
 NIRVANA
 February 19, 1990
-The Mason Jar
+The Mason Jar,
 Phoenix, AZ
 
-SOURCE (AUD #1):
-Aiwa > unknown
-
-TRANSFER:
-Nakamichi DR-8 > Echo Layla24 > Adobe Audition 1.5 > CD Wave 1.94.5 > FLAC frontend 1.7.1
+SOURCE (AMT #1):
+unknown > unknown
 
 GENERATION:
-ANA(1) > WAV [48kHz] > WAV [44.1kHz] > FLAC [Level 8]
+VHS(2) > DVDR(0) [NTSC 8.0Mbps CBR, 448kbps AC3]
 
 LENGTH:
-50:24
+53:08
 
 TRACKS:
-01. intro
-02. School
-03. Floyd The Barber
-04. Scoff
-05. Dive
-06. Polly
-07. Spank Thru
-08. Breed
-09. About A Girl
-10. Been A Son
-11. Stain
-12. Negative Creep
-13. Blew
-14. Molly's Lips
-15. Love Buzz
+01. School
+02. Floyd The Barber
+03. Scoff
+04. Dive
+05. Polly
+06. Spank Thru
+07. Breed
+08. About A Girl
+09. Been A Son
+10. Stain
+11. Negative Creep
+12. Blew
+13. Molly's Lips
+14. Love Buzz
+
+TRANSFER:
+JVC HR-S5900U > Pinnacle DC-1000 > Adobe Premiere 6.01 + Cool Edit Pro 1.2a + SonicFoundry Softcode > Sonic Scenarist 2.7
+
+NOTES:
+- Remastered
+- Directly from Jim's hard drive !
 
 MD5 FINGERPRINTS:
-ccd9b94314f57685313f3d1c1249d831 *Nirvana_1990-02-19_AUD1_t01.flac
-819af1d594a3271e052806ba8fbd8cd1 *Nirvana_1990-02-19_AUD1_t02.flac
-6a40b87d4941ea8d5ca71351e98422b2 *Nirvana_1990-02-19_AUD1_t03.flac
-b34dd219bded83d59f1b28c4fa8db4cf *Nirvana_1990-02-19_AUD1_t04.flac
-df478048fa589a6388d89552b873827b *Nirvana_1990-02-19_AUD1_t05.flac
-1247c6e723d104ddc926e5a1cd9d89e8 *Nirvana_1990-02-19_AUD1_t06.flac
-6466d5e43cc528ece121b969e7e4d79d *Nirvana_1990-02-19_AUD1_t07.flac
-3b0f8008b5cd56367b1ba64205fa1f69 *Nirvana_1990-02-19_AUD1_t08.flac
-09611000e775416e5bd48a2e41b8b5a9 *Nirvana_1990-02-19_AUD1_t09.flac
-7c75d59eac1885c907cc9e1d8421a207 *Nirvana_1990-02-19_AUD1_t10.flac
-3aea5e882d735d683c12b1907e3faa83 *Nirvana_1990-02-19_AUD1_t11.flac
-11d9beea356b495c7f3ab87c11d3517d *Nirvana_1990-02-19_AUD1_t12.flac
-b7ef8866a816b043dfa406215413b7e3 *Nirvana_1990-02-19_AUD1_t13.flac
-d1628e27b4335eb713c8e3cfa2c2e0e9 *Nirvana_1990-02-19_AUD1_t14.flac
-a466f526904ac15bc1a1089f2170319a *Nirvana_1990-02-19_AUD1_t15.flac
+b415a0e9567a16407ac1eebf02a2388e *VIDEO_TS\VIDEO_TS.BUP
+b415a0e9567a16407ac1eebf02a2388e *VIDEO_TS\VIDEO_TS.IFO
+b99fd79fbca1c105fd453975719ae562 *VIDEO_TS\VIDEO_TS.VOB
+5f73d59a9a91a395891a0ca078af8316 *VIDEO_TS\VTS_01_0.BUP
+5f73d59a9a91a395891a0ca078af8316 *VIDEO_TS\VTS_01_0.IFO
+f0c7d14003458e8d95a2d2cb7e3d2b4a *VIDEO_TS\VTS_01_0.VOB
+7405ff397c01118823ff5337ba3a94ca *VIDEO_TS\VTS_01_1.VOB
+19191f436fd49e96ed5ea8f444ebd225 *VIDEO_TS\VTS_01_2.VOB
+caa6914b6e13f92b9f2b8c46c2795f9f *VIDEO_TS\VTS_01_3.VOB
+27abaa7c7a824403d98c3ffe69938cda *VIDEO_TS\VTS_01_4.VOB
+3cf5eee7dc3ad4e6439eb8d34e374fa7 *VIDEO_TS\VTS_02_0.BUP
+3cf5eee7dc3ad4e6439eb8d34e374fa7 *VIDEO_TS\VTS_02_0.IFO
+b99fd79fbca1c105fd453975719ae562 *VIDEO_TS\VTS_02_0.VOB
+7647a74bf6994a93ce92872413a481ca *VIDEO_TS\VTS_02_1.VOB
 
 TRANSFERRED BY:
-Kris Sproul
-
-PLEASE DO NOT SELL OR ENCODE TO MP3
+Jim Hirte

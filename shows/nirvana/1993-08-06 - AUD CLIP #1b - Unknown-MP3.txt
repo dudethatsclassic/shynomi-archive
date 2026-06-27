@@ -1,28 +1,14 @@
-NIRVANA
-August 6, 1993
-King Performance Center (Mia Zapata Benefit)
-Seattle, WA
+Nirvana
+08/06/93 - King Performance Center (Mia Zapata Benefit)
+Seattle, WA, US
 
-SETLIST (0:18)
------------------
-01) Seasons In The Sun (clip)
+Source: AUD CLIP #1a
+Format: Unknown
+Quality: 7.5
+Complete: No
+Equipment: Unknown
+Lowest Gen: UNKNOWN>MP3
 
-GENERATION
------------------
-UNKNOWN -> MP3 [48 Kbps] -> WAV [44.1kHz] -> FLAC
-
-SOURCE (AUD CLIP #1b)
------------------
-unknown -> unknown
-
-EXTRACTION
------------------
-Adobe Audition 1.5 -> FLAC Frontend 1.7.1
-
-MD5 FINGERPRINTS
------------------
-90429fb8cc2948c8de6e50123e63724a *nirvana1993-08-06t01.flac
-
-
-Extracted by Pieter Vermeulen.
-PLEASE DO NOT ENCODE TO ANY OTHER FORMAT OR SELL!
+Notes for AUD CLIP #1: A very brief clip of 'Seasons In The Sun'. 
+This clip mysteriously appeared on the internet in December 2002 in MP3 format 
+and is believed to be from this show.

@@ -4,16 +4,16 @@ Kansas Union Ballroom, The University of Kansas
 Lawrence, KS 
 
 SOURCE (AUD #1):
-unknown > unknown
+Sony > Sony
 
 TRANSFER:
-Nakamichi CR-7A > Hosa RCA cable > PreSonus FireStudio Project > Adobe Audition 3.0 > CD Wave 1.98 > FLAC frontend 1.7.1
+Nakamichi CR-7A > PreSonus FireStudio Project > Adobe Audition 3.0 > CD Wave 1.98 > Trader's Little Helper 2.7.0
 
 GENERATION:
-ANA(1) > WAV [48kHz] > WAV [44.1kHz] > FLAC [Level 8]
+ANA(M) > WAV [96kHz/24bit] > WAV [44.1kHz/16bit] > FLAC [Level 8]
 
 LENGTH:
-44:55
+45:01
 
 TRACKS:
 01. intro
@@ -32,20 +32,20 @@ TRACKS:
 14. Lithium
 
 MD5 FINGERPRINTS:
-72635aa37de8486b3227054644d47c86 *Nirvana_1991-10-17_AUD1_t01.flac
-26aa1af5a51c4cd1c98a4d2612261b0b *Nirvana_1991-10-17_AUD1_t02.flac
-8414a7a42c8a7d16d6cbc7dd80f9106a *Nirvana_1991-10-17_AUD1_t03.flac
-9d54cc322b47fd106475d229d2518d83 *Nirvana_1991-10-17_AUD1_t04.flac
-6466e64283056e78a9ab1690600d09b3 *Nirvana_1991-10-17_AUD1_t05.flac
-6c3ba1928d5c9164677e80813148ba64 *Nirvana_1991-10-17_AUD1_t06.flac
-1c7150b414b28b3dfb278391a888aba7 *Nirvana_1991-10-17_AUD1_t07.flac
-41461a14bbab34007f529edfa8269182 *Nirvana_1991-10-17_AUD1_t08.flac
-02f3b41d335c272058acf2c6f7b3912a *Nirvana_1991-10-17_AUD1_t09.flac
-ffae99f510a513302cf898a56090cfbf *Nirvana_1991-10-17_AUD1_t10.flac
-9a88de26a110b0e7faf3c426f587255f *Nirvana_1991-10-17_AUD1_t11.flac
-f63352fcbf8a7ef5420c4459501b688d *Nirvana_1991-10-17_AUD1_t12.flac
-f7cdfc4992725b4506d62b590400be57 *Nirvana_1991-10-17_AUD1_t13.flac
-bfe4018ad6240f13e927b85ac6026036 *Nirvana_1991-10-17_AUD1_t14.flac
+54c9a74c2da81c9aa535bcde8ea07d79 *Nirvana_1991-10-17_AUD1_t01.flac
+6bf9adf32447d5573a5dabe8ed581e4a *Nirvana_1991-10-17_AUD1_t02.flac
+3eb1b7d72d2a6f12c78be77f49f7ce4d *Nirvana_1991-10-17_AUD1_t03.flac
+90a828f89d7128832ba12a7cfd888dac *Nirvana_1991-10-17_AUD1_t04.flac
+ebe3ccaf0799bb2d50744c0031db0514 *Nirvana_1991-10-17_AUD1_t05.flac
+1988741c83431f0c1bac793c213c7320 *Nirvana_1991-10-17_AUD1_t06.flac
+8ac9c697f0a0087c9076714030852a51 *Nirvana_1991-10-17_AUD1_t07.flac
+01839cd0e3ffda33155c7db37ee2b68e *Nirvana_1991-10-17_AUD1_t08.flac
+806305fe02c9095d962464d2e52c3c44 *Nirvana_1991-10-17_AUD1_t09.flac
+37f2cd1f570ff0508ead8cebfd12d9c8 *Nirvana_1991-10-17_AUD1_t10.flac
+e6ea356adbe013765026814ceabaa261 *Nirvana_1991-10-17_AUD1_t11.flac
+d2561d739bb4b400e97abbbadd5ef90e *Nirvana_1991-10-17_AUD1_t12.flac
+9e3f92698bd6c7655bae4e3290965110 *Nirvana_1991-10-17_AUD1_t13.flac
+72d011b3a47918b2baf0014b5f0822d2 *Nirvana_1991-10-17_AUD1_t14.flac
 
 TRANSFERRED BY:
 Mike Ziegler

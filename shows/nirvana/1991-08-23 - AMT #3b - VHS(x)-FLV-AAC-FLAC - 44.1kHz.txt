@@ -3,14 +3,14 @@ August 23, 1991
 Richfield Avenue (Reading Festival)
 Reading, United Kingdom
 
-DISC #1/1 (06:29)
+SETLIST (06:29)
 -----------------
 01) Drain You (cuts in)
 02) Smells Like Teen Spirit (cuts in)
 
 GENERATION
 -----------------
-VHS(x) -> FLV [44.1kHz/VBR AAC] -> WAV [44.1kHz] -> FLAC [Level 8]
+VHS(x) > FLV [44.1kHz/128kbps VBR AAC]
 
 SOURCE (AMT #3b)
 -----------------
@@ -20,16 +20,9 @@ TRANSFER
 -----------------
 unknown
 
-EXTRACTION
------------------
-FLV Extract 1.6.2 -> SUPER(c) v2012.build.52 -> Adobe Audition 3.0 -> CD Wave 1.98 -> Flac Frontend 1.7.1
-
 MD5 FINGERPRINTS
 -----------------
-e0e8253031b64a8ab7ec7fbbf1428fd4 *Nirvana_1991-08-23_AMT3b_t01.flac
-32157142402a6798e184e78d4e51d02a *Nirvana_1991-08-23_AMT3b_t02.flac
-
+5aceac0217e107ce105388ca7a31e458 *Nirvana_1991-08-23_AMT3b.flv
 
 Transferred by Unknown.
-Extracted by Pierre Leroy.
 PLEASE DO NOT ENCODE TO MP3 OR SELL!

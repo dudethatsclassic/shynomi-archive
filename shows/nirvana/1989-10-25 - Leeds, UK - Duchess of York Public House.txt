@@ -1,69 +1,49 @@
 NIRVANA
 October 25, 1989
-Duchess of York Public House
-Leeds, UK  
+Duchess of York
+Leeds, United Kingdom
 
+SOURCE (AUD #3):
+unknown > unknown
 
-DISC #1/1 (63:20)
+TRANSFER:
+Nakamichi DR-8 > Echo Layla24 > Adobe Audition 1.5 > CD Wave 1.93 beta > FLAC frontend 1.7.1
 
+GENERATION:
+ANA(1) > WAV [48kHz] > WAV [44.1kHz] > FLAC [Level 8]
 
-01) 	School 				4:15
-02) 	Scoff 				4:10
-03) 	Love Buzz 			3:42
-04) 	Floyd The Barber 		2:22
-05) 	Dive 				3:42
-06) 	Polly 				3:10
-07) 	Big Cheese 			3:51
-08) 	Spank Thru 			3:22
-09) 	About A Girl 			2:48
-10) 	Token Eastern Song 		3:49
-11) 	Negative Creep 			4:18
-12) 	Blew 				3:25
-13) 	Drain You 			3:54
-14) 	Aneurysm 			4:29
-15) 	School 				2:31
-16) 	Been A Son 			2:05
-17) 	Negative Creep 			2:43
-18) 	Smells Like Teen Spirit 	4:36
+LENGTH:
+40:38
 
+TRACKS:
+01. School
+02. Scoff
+03. Love Buzz
+04. Floyd The Barber
+05. Dive
+06. Polly
+07. Big Cheese
+08. Spank Thru
+09. About A Girl
+10. Token Eastern Song (cuts in)
+11. Negative Creep
+12. Blew
 
-GENERATION
------------------
-Unofficial CD [ Where Were You In '89? ]-> WAV [44.1kHz] -> FLAC [Level 8]
+MD5 FINGERPRINTS:
+fa7648295b70a1573e3a22669dc41aa3 *Nirvana_1989-10-25_AUD3_t01.flac
+8daa7b4ebd678398e5ba361be543a30f *Nirvana_1989-10-25_AUD3_t02.flac
+e592c0d0532a51ddbdce89c12ee069ac *Nirvana_1989-10-25_AUD3_t03.flac
+cb5491fd679fa14feab2bd30dff495af *Nirvana_1989-10-25_AUD3_t04.flac
+4b2268f3257d5de3a35a313ee686b776 *Nirvana_1989-10-25_AUD3_t05.flac
+2225985d8439b8d0bb03e136f3fac321 *Nirvana_1989-10-25_AUD3_t06.flac
+cc11ecfca57e317a2f2c5812f8d98a18 *Nirvana_1989-10-25_AUD3_t07.flac
+f6848c076cb1f7dbc0eaecea4f4306d5 *Nirvana_1989-10-25_AUD3_t08.flac
+9ce57527c1a8c64435be1ca16cb73161 *Nirvana_1989-10-25_AUD3_t09.flac
+54225ee73ff64faa0eba2aac5b60778e *Nirvana_1989-10-25_AUD3_t10.flac
+e9ab3a5daa032bf7b7afb9743d080f90 *Nirvana_1989-10-25_AUD3_t11.flac
+90baa1b63b727239a9482246581da816 *Nirvana_1989-10-25_AUD3_t12.flac
 
+TRANSFERRED BY:
+Kris Sproul
 
-SOURCE (AUD#1)
------------------
-Unknown
-
-EXTRACTION
------------------
-
-PIONEER DVD-RW  DVR-110D -> Exact Audio Copy v0.99 prebeta3 -> FLAC Frontend 1.7.1
-
-
-0853af17e4d23c8c33153929052bb8ab *Where were you in '89.cue
-9a6ca1f775cec916bc5a6dcae77fe1f0 *Where were you in '89.log
-b6359b12b1641a916d540752c83d8810 *01 - School.flac
-d05c1c70d5862e94b5c8feed368f4758 *02 - Scoff.flac
-b142b63f72b2adf05a09cc01c0bc3cee *03 - Love Buzz.flac
-44d02c678b02b9661ffdca3b26df2b43 *04 - Floyd The Barber.flac
-f48032a208f8a7f27089b926d2c781d5 *05 - Dive.flac
-5dbccf8eb5d2cdbe19da7896dad255f8 *06 - Polly.flac
-31a18b0b9698a64d677fd40af55e4553 *07 - Big Cheese.flac
-75ffbab0162810888d2922508ee8af02 *08 - Spank Through.flac
-481ceb53cd0f125b572cd1d8002ad0bd *09 - About A Girl.flac
-04fddef57edc25fdfc6b5410ac318611 *10 - Unknown.flac
-00d3aa174ff2bf989bbd736e84f20cad *11 - Negative Creep.flac
-de7fdf957629fd808b37291e9baf0dd5 *12 - Blew.flac
-da255c2c21d397173ca75bc3d2b27aa9 *13 - Drain You.flac
-0ee491de2b8c381f0634e51bbf6bd6f8 *14 - Anaerysm.flac
-9ca99d7f01d5155c8371ade69a6847a2 *15 - School.flac
-f39b46c8bd59ac74a9424dab51f33f76 *16 - Been A Son.flac
-5858245497e1aef3bf032b242633e520 *17 - Negative Creed.flac
-6f1eb2176528cee3806e059f890bf872 *18 - Smells Like teen Spirit.flac
-a0c18b296d77ee5a1f301ff63bacb70c *Nirvana - Where were you in '89.m3u
-
-
-Extracted by Jérémy Plenecassagne.
-PLEASE DO NOT ENCODE TO MP3 OR SELL!
+PLEASE DO NOT SELL OR ENCODE TO MP3

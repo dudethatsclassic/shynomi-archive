@@ -1,48 +1,81 @@
-this topic is to discuss what is REALLY the best source for the sdb #1b of Wien U4 1989.
+11/22/89 - U4, Wien, AT
 
-For a dozen of years, the best source was listed to be "Out Of The Blue" by Octopus (ex Red Phantom, Backstage etc). The first release of Octopus was "XXII II MCMXCIV", and many of the first titles of the label were exclusive/amazing radio/TV/SDB sources ("Out Of The Blue" was the 36th release, two original variants and one counterfeit).
+SOURCE: SBD #1b
 
-But Chris was able to deny that : while checking Discogs, he discovered that one big specialist of bootlegs ("brianvy") identified the year of release as "1993"... at least a few months before OCTO 036 "Out Of The Blue".
-Then Chris discovered that the intro to "Scoff" is longer...
-making "Smells Like..." the BEST SOURCE for sdb #1b.
+GENERATION: Out of the blue -> unknown -> FLAC
 
-(Nota : the bootography and the gigography must be modified)
+Set:
 
-We don't know from which country "Smells Like..." originated.
-I think that i bought mine in Japan, and the design, paper and white jewel case strongly point Japan as the country of release.
+    * School
+    * Scoff
+    * Love Buzz [Shocking Blue cover]
+    * Floyd The Barber
+    * Dive
+    * About A Girl
+    * Spank Thru
+    * Big Cheese
+    * I'm A boy jam [The Who cover (just briefly)]
+    * Sappy
+    * Breed
+    * I'm A boy jam [The Who cover (just briefly)]
+    * Been A Son
+    * Negative Creep
+    * Blew
+    * Vendetagainst
 
-When "Out Of The Blue" was released (see below), the only info on the cover was "recorded live at the Seattle University 1989" which was bogus.
+Notes for SBD #1b: Pre-FM soundboard source. Missing Cobain's opening dialogue about his guitar, the screaming intro, the very first song ('School') and some announcer banter after 'Blew' about T-shirts being on sale. All other songs and between-song banter are present. This source is only available on commercial releases; see Live Nirvana's Bootography Guide To Nirvana Bootlegs for more information on commercial releases of this show.
 
-Then i noticed that no info at all was available on the "Smells Like..." inserts, even more no tracklisting.
+Exact Audio Copy V0.99 prebeta 3 from 28. July 2007
 
-But one info is given : the PO BOX to contact Nirvana "4739 University Way NE Suite 1606 Seattle, WA 98105".
+EAC extraction logfile from 26. November 2008, 17:38
 
-So i suggested that infact Octopus was able to get the "rare" "Smells Like..." pressing (from Japan ?), and then wrongly identified the gig as being from "Seattle University".
+Unknown Artist / Unknown Title
 
-When was "Out Of The Blue" released, knowing that for now we have no info on "Smells Like..." exact month/year of release * ?
-(* i'm very confident that local Japanese fans know that...)
+Used drive  : PHILIPS SPD3100L   Adapter: 4  ID: 0
 
-OCTO 001 Nirvana (show : February 22, 1994) : released in very late March 1994, at least available in the first days of April 1994 in Paris
+Read mode : Burst
 
-OCTO 017 James (show : Woodstock August 12, 1994) : at least released in August 1994
+Read offset correction                      : 0
+Overread into Lead-In and Lead-Out          : No
+Fill up missing offset samples with silence : Yes
+Delete leading and trailing silent blocks   : No
+Null samples used in CRC calculations       : No
+Used interface                              : Native Win32 interface for Win NT & 2000
 
-As most of the Woodstock gigs will be released starting from OCTO 038, it proves that the label released a LOT of titles during August-September 1994 (from at least OCTO 017 to OCTO 051 !)
+Used output format : Internal WAV Routines
+Sample format      : 44.100 Hz; 16 Bit; Stereo
 
-"Out Of The Blue" was OCTO 036, so it was released at the same period (August-September 1994).
 
-I will provide a full analysis of the two releases in the next posts.
+TOC of the extracted CD
 
-First point : the sound waves are different. "Smells Like..." looks more natural, when "Out Of The Blue" was obviously "remastered".
-The sound wave of "Out Of The Blue" is not a good transfer of "Smells Like..." (the sound is not starting from "zero" but under it).
+     Track |   Start  |  Length  | Start sector | End sector 
+    ---------------------------------------------------------
+        1  |  0:00.00 |  4:33.25 |         0    |    20499   
+        2  |  4:33.25 |  4:20.50 |     20500    |    40049   
+        3  |  8:54.00 |  2:33.50 |     40050    |    51574   
+        4  | 11:27.50 |  7:23.00 |     51575    |    84799   
+        5  | 18:50.50 |  2:43.50 |     84800    |    97074   
+        6  | 21:34.25 |  3:16.25 |     97075    |   111799   
+        7  | 24:50.50 |  4:11.25 |    111800    |   130649   
+        8  | 29:02.00 |  3:18.00 |    130650    |   145499   
+        9  | 32:20.00 |  5:02.62 |    145500    |   168211   
+       10  | 37:22.62 |  2:18.63 |    168212    |   178624   
+       11  | 39:41.50 |  3:34.25 |    178625    |   194699   
+       12  | 43:16.00 | 10:54.25 |    194700    |   243774   
+       13  | 54:10.25 |  3:29.50 |    243775    |   259499   
 
-Second point : i "found" an audible mark on both releases (marker 02), and from that one i was able to check that "Smells Like..." - like Chris discovered - is having 8 seconds before it (starting with an half second of fade in).
-"Out Of The Blue" is only having a bit more of 3 seconds, with a big fade in.
 
-Third point : the total duration (actual real sound only) of "Smells Like..." is 57.40.
-For "Out Of The Blue", it is 57.36.
-Nota : there is less than 0.5 second of difference between the two sources if we compare the rest of the content after marker 02. To me this is not relevant and important.
+Range status and errors
 
-Fourth point : "Love Buzz" sound peaks are already high (but not overloaded) on "Smells Like...", so i checked what was the situation on "Out Of The Blue".
-Without any surprises, the peaks of the sound wave on "Out Of The Blue" are CUTS, which means that a "bad" remaster was made (boosting the volume and damaging the sound wave).
+Selected range
 
-"Smells Like..." is then confirmed as being the BEST and longest (+ 5 seconds) source of the two, and the original exclusive source.
+     Filename C:\Documents and Settings\Nex\Mes documents\Nirvana - Out Of The Blue.wav
+
+     Peak level 100.0 %
+     Test CRC 8B980661
+     Copy CRC 8B980661
+     Copy OK
+
+No errors occurred
+
+End of status report

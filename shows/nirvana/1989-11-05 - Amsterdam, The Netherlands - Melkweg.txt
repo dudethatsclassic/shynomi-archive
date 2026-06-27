@@ -1,68 +1,62 @@
 NIRVANA
-November 5, 1989
+November 05, 1989
 Melkweg
 Amsterdam, The Netherlands
 
-DISC #1/2 (54:05)
+DISC #1/1
 -----------------
-01. Intro
-02. School
-03. Scoff
-04. Love Buzz
-05. Floyd The Barber
-06. Dive
-07. Polly
-08. Big Cheese
-09. Spank Thru
-10. About A Girl
-11. Mr. Moustache
-12. Even In His Youth
-13. Breed
-14. Been A Son
-15. Stain (jam)
-
-DISC #2/2 (29:12)
------------------
-01. Stain
-02. Negative Creep
-03. Blew
-04. Token Eastern Song
-05. Vendetagainst
+01) School
+02) Scoff
+03) Love Buzz
+04) Floyd The Barber
+05) Dive
+06) Polly
+07) Big Cheese
+08) Spank Thru
+09) About A Girl / Mr Moustache
+10) Even In His Youth
+11) Breed
+12) Been A Son
+13) Stain (Jam)
+14) Stain
+15) Negative Creep
+16) Blew
+17) Token Eastern Song
+18) Help Me I'm Hungry
 
 GENERATION
 -----------------
-ANA(x) -> WAV [48kHz] -> WAV [44.1kHz] -> FLAC [Level 8]
+CD(M) [Help Me, I'm Hungry bootleg] -> WAV [44.1kHz] -> FLAC [Level 8] -> your copy, which will be CDR(1)
 
-SOURCE (AUD #2)
+SOURCE (AUD#1b)
 -----------------
-unknown -> unknown
+unknown
 
 TRANSFER
 -----------------
-Nakamichi DR-3 -> RCA to 1/4" TS custom Klotz cables -> Echo Mia Midi analog-in -> Adobe Audition 2.0 -> CD Wave 1.95.1 -> FLAC Frontend 1.7.1
+Sony HL-DT-ST DVD-ROM GDR8162B -> Exact Audio Copy V0.95 -> FLAC Frontend 1.7.1 (level 8)
 
 MD5 FINGERPRINTS
 -----------------
-0d6f19c3b932e029fcb32620f9092b0a *nirvana_1989-11-05_aud2_ana_d1t01.flac
-d96cbc068cf7c71971232a06ea5acaf9 *nirvana_1989-11-05_aud2_ana_d1t02.flac
-7e22ee84004c5c7ba10db435a6229d19 *nirvana_1989-11-05_aud2_ana_d1t03.flac
-a74c447822eccd897e63ad8155259b9f *nirvana_1989-11-05_aud2_ana_d1t04.flac
-793b74e9cadfa5f11be725926841fc56 *nirvana_1989-11-05_aud2_ana_d1t05.flac
-4e122ad4bb8ca8bc38a5033b635aa1ed *nirvana_1989-11-05_aud2_ana_d1t06.flac
-730c396c98dfbd26d17aad128f4a6fa7 *nirvana_1989-11-05_aud2_ana_d1t07.flac
-a114612aa01fdd43b3c24518e29fcf73 *nirvana_1989-11-05_aud2_ana_d1t08.flac
-c0f271ec3a5fbf4fae9b04c97d6b96fa *nirvana_1989-11-05_aud2_ana_d1t09.flac
-96a3e65374a092584209fd45303ebf59 *nirvana_1989-11-05_aud2_ana_d1t10.flac
-4fc8d78ad298ab26c743cc998428ed2f *nirvana_1989-11-05_aud2_ana_d1t11.flac
-ce7ea40f5ce1be4ad211f0d1c77c789e *nirvana_1989-11-05_aud2_ana_d1t12.flac
-d8fa0df5b1075e77e6c21cf9da7b8a7d *nirvana_1989-11-05_aud2_ana_d1t13.flac
-cd83fd7f39ce5cd819f1754954a33778 *nirvana_1989-11-05_aud2_ana_d1t14.flac
-d037a599e0c8b09e73e0090746507ac4 *nirvana_1989-11-05_aud2_ana_d1t15.flac
-578510ed439296aa712401eecc8a01f4 *nirvana_1989-11-05_aud2_ana_d2t01.flac
-7840ff2114e43baf1710bebb20ec3c79 *nirvana_1989-11-05_aud2_ana_d2t02.flac
-fa3d05e11ed88c22077bfef7244301cc *nirvana_1989-11-05_aud2_ana_d2t03.flac
-8946420e5e3c311d7f42778fe36abbfc *nirvana_1989-11-05_aud2_ana_d2t04.flac
-b1eda12a866d4926f8fd069a4afd77ac *nirvana_1989-11-05_aud2_ana_d2t05.flac
+help me -01.flac:7cb45c920ff5711de26120f7ca097456
+help me -02.flac:bb17fe301b1a426f23926b1f0f656499
+help me -03.flac:ea9b1fdb4b8f9888ca7f37d81245a97e
+help me -04.flac:704077584938d56779a35a98cd1d2c59
+help me -05.flac:4fb9a4c60a451bb8bbba3c8555d10fe5
+help me -06.flac:4d5081f961d1fd9b7792b2d7f20f2464
+help me -07.flac:ee2dfc58554b5cc53d8ae41340fe6a2c
+help me -08.flac:29a053c0e98fe025e1ed429400baf610
+help me -09.flac:01b862faba89d1074b10260757691953
+help me -10.flac:2f23f27a8fe5a33e554c2b1eafae9735
+help me -11.flac:d3742f0f9f38a029d3d3699c239fb92d
+help me -12.flac:19db6577a33dfdd206d7aea886e11545
+help me -13.flac:e8c452fff03e4519efa1a263ce331a96
+help me -14.flac:12fa7e741ab4653601dbce59a88ae274
+help me -15.flac:e3e13055a95c6d6010a54155d3a12c41
+help me -16.flac:36e15d23619eef01be86cdb76e14b9f0
+help me -17.flac:c9d674f011e385dc3936f2909f308367
+help me -18.flac:9f3968174fd1e3382bd9b3616ba20ad6
 
-Transferred by Pierre Leroy
+
+Transferred by Pat Sexton.
 PLEASE DO NOT ENCODE TO MP3 OR SELL!

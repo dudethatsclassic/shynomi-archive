@@ -1,65 +1,49 @@
-NIRVANA
-February 14, 1992
-Kokusai Koryu Center
-Osaka, Japan
+NIRVANA 
+February 14, 1992 
+Kokusai Koryu Center, 
+Osaka, 
+JAPAN
 
-DISC #1/1 (62:35)
------------------
-01) intro
-02) Negative Creep
-03) Been A Son
-04) On A Plain
-05) Something In The Way
-06) Blew
-07) Come As You Are
-08) Lithium
-09) Breed
-10) Territorial Pissings
-11) Sliver
-12) About A Girl
-13) School
-14) Aneurysm
-15) Love Buzz
-16) Polly
-17) Lounge Act
-18) Drain You
-19) Smells Like Teen Spirit
-
-GENERATION
------------------
-DAT(M) -> DAT(2) -> WAV [48kHz] -> WAV [44.1kHz] -> FLAC [Level 8]
-
-SOURCE (AUD#1)
------------------
-Sony ECM-939 -> Sony TCD-D3
-
-TRANSFER
------------------
-Tascam DA-20 MKII -> Apogee S/PDIF cable -> LynxONE digital-in -> Adobe Audition 2.0 -> CD Wave 1.95.1 -> FLAC Frontend 1.7.1
+SOURCE: 
+[OSAKA 1992] BOOTLEG
 
 
-st5 FINGERPRINTS
-------------------
-54b24f2dc6444f88e8a73dea5d785151  [shntool]  01) intro.flac
-7b7e7e92b00771b4de46862980634bcc  [shntool]  02) Negative Creep.flac
-67bef526076279cb68bb830ea6442be8  [shntool]  03) Been A Son.flac
-a6098c6aafa00fc25333be29a7fb4e63  [shntool]  04) On A Plain.flac
-41432fac9978f8d9f3ea65aa8cb80d25  [shntool]  05) Something In The Way.flac
-7c551736a1b8fb50c64295ac11ed3584  [shntool]  06) Blew.flac
-bb2d80244f9f29d7bceb0d4206ab9cc8  [shntool]  07) Come As You Are.flac
-95e84caec66f1172a59264d73ccebbf5  [shntool]  08) Lithium.flac
-09c0467c6be4984da75c7bfed3a606ec  [shntool]  09) Breed.flac
-0431a1983726b2b2e4202c8984d06a89  [shntool]  10) Territorial Pissings.flac
-8e736a1aaafefb7762262065a432d7c8  [shntool]  11) Sliver.flac
-e6b9f0bff1e8c3a71c825ab4348f3567  [shntool]  12) About A Girl.flac
-465aee9009d042c31a059370b736861f  [shntool]  13) School.flac
-cf910bd191cc2d68a4d2d27826e950af  [shntool]  14) Aneurysm.flac
-829d05a0a9b8e76117f95986e5df1d49  [shntool]  15) Love Buzz.flac
-e7ccf48aff43a74a261f3cfb1cd6abdc  [shntool]  16) Polly.flac
-d8879c1d384b74dd81143a84c5879484  [shntool]  17) Lounge Act.flac
-1b539537eecaf8168a325b998620c405  [shntool]  18) Drain You.flac
-a018f73ac585479334da162f1c1512e2  [shntool]  19) Smells Like Teen Spirit.flac
+GENERATION:
+[OSAKA 1992] BOOTLEG > CD(M)>Exact Audio Copy> WAV [16 bit/44.1kHz]
+
+LENGTH:
+67:12
+
+TRACKS:
+01. Intro
+02. Negative Creep
+03. Been A Son
+04. On A Plain
+05. Something In The Way
+06. Blew
+07. Come As You Are
+08. Lithium
+09. Breed
+10. Territorial Pissings
+11. Sliver
+12. About A Girl
+13. School
+14. Aneurysm
+15. Love Buzz
+16. Polly
+17. Lounge Act
+18. Drain You
+19. Smells Like Teen Spirit
 
 
-Transferred by Mike Ziegler.
-PLEASE DO NOT ENCODE TO MP3 OR SELL!
+
+3cc75db33b88ce21cb39aa20d57d97ae *nirvana 1993-10-23 aud2 tr24.flac
+5ed5b1806388abe35f26971720f8a81d *nirvana 1993-10-23 aud2 tr25.flac
+
+
+TRANSFERRED BY:
+Rob Landis
+roblandisnow[at]gmail[dot]com
+
+DO NOT SELL
+PLEASE DO NOT ENCODE TO LOSSY OR STREAMING FORMATS WITHOUT PROVIDING A DOWNLOAD LINK FOR THE LOSSLESS FILES

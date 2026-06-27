@@ -3,14 +3,17 @@ November 27, 1989
 Piper Club
 Rome, Italy
 
-SOURCE (AMT #1):
-unknown > unknown
+SOURCE (AUD #3):
+unknown -> unknown
+
+TRANSFER:
+Nakamichi DR-3 > Schulz ADPS 1 > Fireface UC > Adobe Audition 3.0 > CD Wave 1.98
 
 GENERATION:
-VHS(1) > AUDIENCE > VHS(2) > DVDR(1) [NTSC 8.0Mbps CBR, LPCM]
+ANA(x) > WAV [32bit/96kHz] > WAV [16bit/44.1kHz] > FLAC [Level 8]
 
 LENGTH:
-39:25
+36:42
 
 TRACKS:
 01. intro
@@ -27,32 +30,20 @@ TRACKS:
 12. Spank Thru (aborted)
 
 MD5 FINGERPRINTS:
-963a6eefdbd727eab797e3bd64768d25 *VIDEO_TS.BUP
-963a6eefdbd727eab797e3bd64768d25 *VIDEO_TS.IFO
-07277e4de3a933ab0947503dab3553a0 *VIDEO_TS.VOB
-f3243e6398b1b800d517880e00177f75 *VTS_01_0.BUP
-f3243e6398b1b800d517880e00177f75 *VTS_01_0.IFO
-346eea9c31611eec4747da131c336998 *VTS_01_1.VOB
-52b17ae95f2a3af369d473a0ddea9c87 *VTS_01_2.VOB
-848c69395a893d0896da81552878bc5c *VTS_01_3.VOB
+1cdea6659ce14206f73c451b34e2193f *Nirvana_1989-11-27_AUD3_t01.flac
+dcb3ffa176eab5614e394c19f582574a *Nirvana_1989-11-27_AUD3_t02.flac
+2c2d433a4a6eba86d1d1381fcab3cf81 *Nirvana_1989-11-27_AUD3_t03.flac
+853553843aaee3962d452de37ec4affe *Nirvana_1989-11-27_AUD3_t04.flac
+05cc1f0076edae4f57560c4ce2e3f94f *Nirvana_1989-11-27_AUD3_t05.flac
+81b2bf2b67cf59cad1e88a9614665082 *Nirvana_1989-11-27_AUD3_t06.flac
+dac05eb6930322499aaadbbb9b50b38c *Nirvana_1989-11-27_AUD3_t07.flac
+51e6acfa941cfc1d1830dcadbe52839f *Nirvana_1989-11-27_AUD3_t08.flac
+c432ead887b4c7a63f54f9b73d6affbb *Nirvana_1989-11-27_AUD3_t09.flac
+244b914a0b937d341560deb205f20a72 *Nirvana_1989-11-27_AUD3_t10.flac
+b70433bf865d5a7121ab763c0c7baf95 *Nirvana_1989-11-27_AUD3_t11.flac
+ec7adf5433dff5a2b7f465d1363c60c7 *Nirvana_1989-11-27_AUD3_t12.flac
 
 TRANSFERRED BY:
-Allen Deane
+Daniel Bär
 
-Original text
-
-Nirvana - 11/27/89 Piper Club, Rome Italy DVD
-
-OK - I'm going to keep this info simple.
-Those of you who are getting this more than likely already know that this is a CAM of a projection of this show. That being said, this isnt really for the casual fan, as the quality suffers from "cam"ishness quite a bit, but for the die hard fan, you'll be able to put that aside, and as the cam steadies, you will see an amazing show here. This is the one where Kurt goes mental during "Spank Thru" cuz he's had it with his guitar and climbs the speaker racks...
-If only the taper would ever agree to have his master transferred.
-
-A lot of hard work went into obtaining this show even in the form its in.
-Big thanks to those involved in getting this out for us.
-I should have waited a bit to torrent it, but have it from the lowest possible DVD gen before someone else puts it up. Besides, I could use a little EZT credit - i'm currently at .75
-
-
-This comes from my original image from when I authored it, so YOUR gen when burned will be:
-VID(1)>AUD>VID(2)>DVD-R(1)
-
-enjoy it you leeching bastards 
+PLEASE DO NOT SELL OR ENCODE TO MP3

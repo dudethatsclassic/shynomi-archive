@@ -3,68 +3,61 @@ August 19, 1990
 The Casbah
 San Diego, CA
 
-DISC #1/1 (61:57)
------------------
-01) intro
-02) In Bloom
-03) Floyd The Barber
-04) Love Buzz
-05) Dive (cut)
-06) School
-07) jam
-08) Big Cheese
-09) About A Girl
-10) Stay Away
-11) Lithium
-12) Scoff
-13) Spank Thru
-14) Been A Son
-15) Stain
-16) Negative Creep
-17) Blew
-18) Eye Flys (jam)
-19) Verse Chorus Verse
+SOURCE (AUD #2):
+unknown > Marantz
 
-GENERATION
------------------
-ANA(1) -> WAV [48kHz] -> WAV [44.1kHz] -> FLAC [Level 8]
+TRANSFER:
+Nakamichi CR-7A > PreSonus FireStudio Project > Adobe Audition 3.0 > CD Wave 1.98 > Trader's Little Helper 2.7.0
 
-SOURCE (AUD#1a)
------------------
-unknown -> Sony WM-D6
+GENERATION:
+ANA(1) > WAV [48kHz/24bit] > WAV [44.1kHz/16bit] > FLAC [Level 8]
 
-TRANSFER
------------------
-Nakamichi DR-8 -> Hosa RCA cable -> LynxONE analog-in -> Adobe Audition 1.5 -> CD Wave 1.93 beta -> FLAC Frontend 1.7.1
+LENGTH:
+64:16
 
-NOTES
------------------
-- "Rock Whore" is played briefly by Kurt after "Blew"
-- Small cut during "Dive" 
-- Flutter is from original analog cassette, not digital errors.
+TRACKS:
+01. intro
+02. In Bloom
+03. Floyd The Barber
+04. Love Buzz
+05. Dive
+06. School
+07. TV Eye (jam)
+08. Big Cheese
+09. About A Girl
+10. Stay Away
+11. Lithium (part of)
+12. Scoff
+13. Spank Thru
+14. Been A Son
+15. Stain
+16. Negative Creep (cuts in)
+17. Blew
+18. Eye Flys (jam)
+19. Verse Chorus Verse
 
-MD5 FINGERPRINTS
------------------
-69f13e276e1019232fc8dc279a50b35b *nirvana1990-08-19t01.flac
-30ff8921127d76f1d01b41c74349efb4 *nirvana1990-08-19t02.flac
-5977c44308a82082bf2c5673da3df755 *nirvana1990-08-19t03.flac
-6d2ccfa70238f1302eedda1532afd629 *nirvana1990-08-19t04.flac
-c2c10c9c46936a81d7edb10a65c58faa *nirvana1990-08-19t05.flac
-1b609eb43cfed645d42b53b83bb81e47 *nirvana1990-08-19t06.flac
-15c371129c2b3aa1bf14b46c9650821a *nirvana1990-08-19t07.flac
-baa89f90df3e29728f4c3a4786843546 *nirvana1990-08-19t08.flac
-ec2b67de192ce4cf76f4f7e247141e91 *nirvana1990-08-19t09.flac
-b7a3ee9ec7444d77830ac11f241a9180 *nirvana1990-08-19t10.flac
-ff4ae57d063df635c30cea70224e7b07 *nirvana1990-08-19t11.flac
-d186542c85b8ee239577f098e46a4d0c *nirvana1990-08-19t12.flac
-a9354f9a0c753a4a6b3fe4625ffd7d33 *nirvana1990-08-19t13.flac
-763e08f20182e7baa05700965bb7b003 *nirvana1990-08-19t14.flac
-d28e67a073a62e0028aabc1a59ea041f *nirvana1990-08-19t15.flac
-1fab5e5ed3e23038cce266109d42954b *nirvana1990-08-19t16.flac
-e0d113e5dd291ac20e78155c54044e8e *nirvana1990-08-19t17.flac
-023dffe0dc0d5d8d6579b12ad7bcb68d *nirvana1990-08-19t18.flac
-01654463dfe7ff4ac38119c917f4f150 *nirvana1990-08-19t19.flac
+MD5 FINGERPRINTS:
+87808cb6ed82e26ba2afb7422ccb4fbe *Nirvana_1990-08-19_AUD2_t01.flac
+903ad59bf4a4a6a8a9b17531c8c43c09 *Nirvana_1990-08-19_AUD2_t02.flac
+200f3dd0a1acdc1d534c0eae151bbbfb *Nirvana_1990-08-19_AUD2_t03.flac
+4924a1ce22fad35be6371627118657a3 *Nirvana_1990-08-19_AUD2_t04.flac
+d0f010ef9de3349315ecd26a86aa892b *Nirvana_1990-08-19_AUD2_t05.flac
+9d78ee5a2b2747b70f6501d2c0b9e4ba *Nirvana_1990-08-19_AUD2_t06.flac
+be017a49350294cf2bdb6557dd37ff20 *Nirvana_1990-08-19_AUD2_t07.flac
+201dcea563eb4ff76fa754ec878b1109 *Nirvana_1990-08-19_AUD2_t08.flac
+23a2905f350cb69f8ad5cfc41f978cbf *Nirvana_1990-08-19_AUD2_t09.flac
+ca5d40c7f4b2262ee8cbe16a691cf317 *Nirvana_1990-08-19_AUD2_t10.flac
+dc31d70d9ccef443600d4d131abf2afb *Nirvana_1990-08-19_AUD2_t11.flac
+698d1319d370f48721c315d9e7acea8d *Nirvana_1990-08-19_AUD2_t12.flac
+ded3470dfc624c7b7f143cbbff86e811 *Nirvana_1990-08-19_AUD2_t13.flac
+172cdda0035c5d31cbcb354121b67503 *Nirvana_1990-08-19_AUD2_t14.flac
+1b94c590cebff829598102a5188acf7d *Nirvana_1990-08-19_AUD2_t15.flac
+ef82a1697a9a6e896a8c47fe92ddd7ce *Nirvana_1990-08-19_AUD2_t16.flac
+e68502d8766d9a0b4d2f0f193da8080c *Nirvana_1990-08-19_AUD2_t17.flac
+214d2cd987cf50573c1784a5e831654a *Nirvana_1990-08-19_AUD2_t18.flac
+4e9d0687862c6c19966cbd5fea4a1a04 *Nirvana_1990-08-19_AUD2_t19.flac
 
+TRANSFERRED BY:
+Mike Ziegler
 
-Transferred by Mike Ziegler.
-PLEASE DO NOT ENCODE TO MP3 OR SELL!
+PLEASE DO NOT SELL OR ENCODE TO MP3

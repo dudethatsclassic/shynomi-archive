@@ -1,51 +1,39 @@
-NIRVANA
+NIRVANA 
 February 11, 1990
 Cactus Club
 San Jose, CA
+(JWB REMASTER)
+------------------------
+01 School 
+02 Floyd The Barber 
+03 About A Girl 
+04 Breed 
+05 Spank Thru 
+06 Molly's Lips 
+07 Polly 
+08 Dive 
+09 Stain 
+10 Been A Son 
+11 Negative Creep 
+12 Love Buzz 
+13 Blew
 
-SOURCE (SBD #1):
-soundboard > unknown
+SOURCE: Mono Soundboard Cassette
+QUALITY: 9.5
+TOTAL TIME: 44:18
 
-TRANSFER:
-Nakamichi CR-7A > Hosa RCA cable > PreSonus FireStudio Project > Adobe Audition CS5.5 > CD Wave 1.97 > FLAC frontend 1.7.1
+Original Lineage:
+ANAM>DAT2>CDR (SBD #1)
 
-GENERATION:
-ANA(M) > WAV [48kHz] > WAV [44.1kHz] > FLAC [Level 8]
+Lineage For This Torrent:
+WAV>WAVMERGE>COOLEDIT>CDWAVE>FLAC (Level 8)
 
-LENGTH:
-44:24
+REMASTERING NOTES:
+Re-equalization
+Levels balanced
+Compression 
+Converted to true mono
+There wasn't any noise reduction done to this recording
 
-TRACKS:
-01. School
-02. Floyd The Barber
-03. About A Girl
-04. Breed
-05. Spank Thru
-06. Molly's Lips
-07. Polly
-08. Dive
-09. Stain
-10. Been A Son
-11. Negative Creep
-12. Love Buzz
-13. Blew
-
-MD5 FINGERPRINTS:
-f73a688f5ff3d340db0c12db288cca9d *Nirvana_1990-02-11_SBD1_t01.flac
-a398ce832eeef5db9d3e75b2f3a7d389 *Nirvana_1990-02-11_SBD1_t02.flac
-656bca50b286ea097d87d54601714a8f *Nirvana_1990-02-11_SBD1_t03.flac
-5253f6972b554626e918b6f337fe1ffe *Nirvana_1990-02-11_SBD1_t04.flac
-c338567f6fd0125f31b01074f343d0ae *Nirvana_1990-02-11_SBD1_t05.flac
-47e70ce5ac25177e85387c8993a66204 *Nirvana_1990-02-11_SBD1_t06.flac
-4e32ea15fc0385abd9351241e251c7ce *Nirvana_1990-02-11_SBD1_t07.flac
-c3f4bee062c85ba94300d54cd3169ee9 *Nirvana_1990-02-11_SBD1_t08.flac
-c2010e05dbd980616c96b58fb56afc39 *Nirvana_1990-02-11_SBD1_t09.flac
-d89c8bdfbd8a4fcf71004162db154a21 *Nirvana_1990-02-11_SBD1_t10.flac
-a42033b6103a09c632ec4b53ee071e96 *Nirvana_1990-02-11_SBD1_t11.flac
-7c7da0ef65e57b956c34a71569ed1d72 *Nirvana_1990-02-11_SBD1_t12.flac
-7a1854539871ac732e6a4c37fb19a6d2 *Nirvana_1990-02-11_SBD1_t13.flac
-
-TRANSFERRED BY:
-Mike Ziegler
-
-PLEASE DO NOT SELL OR ENCODE TO MP3
+Remastered by JWB.
+DO NOT SELL OR ENCODE TO MP3!

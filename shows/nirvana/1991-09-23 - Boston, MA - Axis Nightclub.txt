@@ -1,57 +1,34 @@
 NIRVANA
-Setpember 23, 1991
+September 23, 1991
 Axis Nightclub (WFNX Birthday Bash)
 Boston, MA
 
-SOURCE (AUD #1):
-unknown > unknown
+DISC #1/1 (11:16)
+-----------------
+01) Aneurysm (cut)
+02) Drain You (cut)
+03) School
+04) Smells Like Teen Spirit (cut)
 
-TRANSFER:
-Nakamichi CR-7A > Hosa RCA cable > PreSonus FireStudio Project > Adobe Audition 3.0 > CD Wave 1.98 > FLAC frontend 1.7.1
+GENERATION
+-----------------
+BETA(M) -> ANA(1) -> WAV [48kHz] -> WAV [44.1kHz] -> FLAC [Level 8]
 
-GENERATION:
-ANA(1) > WAV [48kHz] > WAV [44.1kHz] > FLAC [Level 8]
+SOURCE (PRO#1)
+-----------------
+unknown -> unknown
 
-LENGTH:
-48:53
+TRANSFER
+-----------------
+Nakamichi DR-8 -> Hosa RCA cable -> LynxONE analog-in -> Sound Forge 6.0 -> Adobe Audition 2.0 -> CD Wave 1.94.8 -> FLAC Frontend 1.7.1
 
-TRACKS:
-01. intro
-02. Aneurysm
-03. Drain You
-04. School
-05. Smells Like Teen Spirit
-06. Come As You Are
-07. Sliver
-08. Jesus Wants Me For A Sunbeam
-09. Floyd The Barber
-10. Polly
-11. About A Girl
-12. Breed
-13. Rape Me
-14. Blew
-15. Been A Son (cuts in)
-16. Negative Creep
+MD5 FINGERPRINTS
+-----------------
+18183f58d4814c89cf428bae60b39e3e *nirvana1991-09-23t01.flac
+1c4c318450305fd5c6ab8dfb5368bbed *nirvana1991-09-23t02.flac
+af8aef9c1d2dce7e254082fb9b6dee44 *nirvana1991-09-23t03.flac
+d365296240fc5caae3d7c9b4c44d1033 *nirvana1991-09-23t04.flac
 
-MD5 FINGERPRINTS:
-aeb7446e25dfce623dc5ee4ce958d300 *Nirvana_1991-09-23_AUD1_t01.flac
-8dd35313eb26289d4d6748f3f81e5da4 *Nirvana_1991-09-23_AUD1_t02.flac
-7028d920ef79c08193a08d3eaaca1544 *Nirvana_1991-09-23_AUD1_t03.flac
-c5b95f2aa2163b16c476e7de0b4a9812 *Nirvana_1991-09-23_AUD1_t04.flac
-fed0ef043a9a1321fb51da95cee51d4c *Nirvana_1991-09-23_AUD1_t05.flac
-281b41bce24e6f528b247f7b597fb15e *Nirvana_1991-09-23_AUD1_t06.flac
-aa090f3192113bf30ede5ee386ec1831 *Nirvana_1991-09-23_AUD1_t07.flac
-bb7e698f8f24e89219484335f3eee75f *Nirvana_1991-09-23_AUD1_t08.flac
-d5e3e72f98d0f6e25d3a22579d5b13b3 *Nirvana_1991-09-23_AUD1_t09.flac
-c5121014983c23b08cc1b1e6146d760d *Nirvana_1991-09-23_AUD1_t10.flac
-552870945c1767b19ad8c1a7432cc7ec *Nirvana_1991-09-23_AUD1_t11.flac
-1c18e419a4100d0b6ea8fbb243f26e2e *Nirvana_1991-09-23_AUD1_t12.flac
-a170ee9077389c4c8a43c5e9a503ff02 *Nirvana_1991-09-23_AUD1_t13.flac
-bce8a90328d2f7f0bd509e1c82a7f264 *Nirvana_1991-09-23_AUD1_t14.flac
-520f3f45f912ee50aaebe1b447e10f6d *Nirvana_1991-09-23_AUD1_t15.flac
-50950b2ca3d9ac212826ca91af79fb59 *Nirvana_1991-09-23_AUD1_t16.flac
 
-TRANSFERRED BY:
-Mike Ziegler
-
-PLEASE DO NOT SELL OR ENCODE TO MP3
+Transferred by Mike Ziegler.
+PLEASE DO NOT ENCODE TO MP3 OR SELL!

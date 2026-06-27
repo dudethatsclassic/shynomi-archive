@@ -1,29 +1,51 @@
-12/31/91 - Cow Palace, Daly City, CA, US
-Source: AMT #1 - amateur video "Side of stage shot"
-Length: 5 mins - incomplete
-Quality: B- (private shot) 
-Generation: VID(2)->DVDR(1) 
-Your DVDR -> DVDR(2)
-Format: NTSC
+NIRVANA
+December 31, 1991
+Cow Palace
+San Francisco, CA
 
-Transfer 1
-Generation: VHS(2)>JVC-STANDALONE>DVDR 
-Transferred by: Tobias Ritter, and ripped Directly off of DVD as .VOB file, then renamed .mpg (see notes).
-Video: MPEG2 5.10 mb/s 
-Audio: Dolby digital, 2 channels 192 kbit/s
+SOURCE (AUD #2):
+unknown > unknown
 
-Set: 
-1. Territorial Pissings (cuts in slightly)
-           
+TRANSFER:
+Nakamichi DR-8 > Echo Layla24 > Adobe Audition 1.5 > CD Wave 1.93 beta > FLAC frontend 1.7.1
 
-NOTES
+GENERATION:
+ANA(x) > WAV [48kHz] > WAV [44.1kHz] > FLAC [Level 8]
 
---------------------
+LENGTH:
+43:50
 
+TRACKS:
+01. Drain You
+02. Aneurysm
+03. School
+04. Floyd The Barber
+05. Smells Like Teen Spirit
+06. About A Girl
+07. Sliver
+08. Polly
+09. Breed
+10. Come As You Are
+11. Lithium
+12. Dumb
+13. Territorial Pissings
 
-There was a HARD, VHS tape ribbon error, that took place at 2:36 - 2:38 during playback. Finding the very best way to, as non destructively, yet as seamlessly as possible, rejoin the two fragments, also greatly contributed to how long it took me to finish the transfer and details ect.  EVERY VCR, (I tried it on at least TEN) would fail catastrophically when playback would reach the two min. thirty six sec. point, by stopping completely and ejecting the tape (at minimum), or by stoping, ejecting, and turning the whole machine off, every single time, on every single machine WITHOUT FAIL. This was the first error of this kind I'd encountered on any VHS tape ever. This would inevitably leave me with two files, which I have to admit that I somewhat slickly was able to re-join at precisely the spot where they were torn from each other by the fatal tape error. (Taking care not to lose even 100ths of a second)  while simultaneously smoothing out and over what was a gapping, chopped, mangled looking hole in the stream, into an almost un-noticable transition that is clean (comparatively) in the extremity of it's seamlessness.
+MD5 FINGERPRINTS:
+d42a7a7576be86a89193f135955598e7 *Nirvana_1991-12-31_AUD2_t01.flac
+15bc516c1034f9b8006d6637bc76fd03 *Nirvana_1991-12-31_AUD2_t02.flac
+f27fcea20d99c930e975c0fca90bd0a3 *Nirvana_1991-12-31_AUD2_t03.flac
+a34682715545c6937503a48023b9b919 *Nirvana_1991-12-31_AUD2_t04.flac
+9f9e16ef7b53349df149a87c111e2468 *Nirvana_1991-12-31_AUD2_t05.flac
+f152f7f3a50578ef6fb62b6a05e1f517 *Nirvana_1991-12-31_AUD2_t06.flac
+1355fb1415c8e5df1ae0d543cad1f936 *Nirvana_1991-12-31_AUD2_t07.flac
+98ab8aba0040fa9437f5291ea97855b8 *Nirvana_1991-12-31_AUD2_t08.flac
+28a41fa8cdc6fae79a6cfed0b972ae70 *Nirvana_1991-12-31_AUD2_t09.flac
+07bf9a14ea34fddfb1f305b1fe0f966d *Nirvana_1991-12-31_AUD2_t10.flac
+21d66034b768660f7df3d420e107eea0 *Nirvana_1991-12-31_AUD2_t11.flac
+8daae09fec5d73374046e9bd7087a658 *Nirvana_1991-12-31_AUD2_t12.flac
+4b8dc3f66659774197f22c4e0b738736 *Nirvana_1991-12-31_AUD2_t13.flac
 
-This miniscule clip is given gladly to the hard working folks at LiveNirvana.com, who have tirelessly, consistently, and selflessly, worked to contribute SO much incredible material to the Distribution Forum. This is, most certainly, the least I can do for this extraordinarily admirable community, whose professionalism has set the standard for fan communities around the world.           
+TRANSFERRED BY:
+Kris Sproul
 
-
-DO NOT ENCODE TO LOSSY FORMATS OR SELL!!
+PLEASE DO NOT SELL OR ENCODE TO MP3

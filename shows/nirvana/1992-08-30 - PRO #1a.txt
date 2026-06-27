@@ -24,9 +24,7 @@ TRACKS:
 03. In Bloom
 
 MD5 FINGERPRINTS:
-10b690e1c6ca959971048f0a1765e359 *Nirvana 1992-08-30 PRO1a t01 Come As You Are.flac
-15b28ee2913703462b6629e8d6d999ed *Nirvana 1992-08-30 PRO1a t02 Lithium.flac
-0e4d99dd334a0b64d9810541918fe32f *Nirvana 1992-08-30 PRO1a t03 In Bloom.flac
+04f8d4847eaecfcdaf44db0bb4d7103a *Nirvana 1992-08-30 PRO1a.flac
 
 TRANSFER:
 TravisBickle1963

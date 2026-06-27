@@ -1,61 +1,52 @@
 NIRVANA
 November 11, 1989
-Ecstasy
+Ecstasy, 
 Berlin, West Germany
 
-SOURCE: (AUD #1a):
-unknown > unknown
+DISC #1/1 (38:21)
+-----------------
+01) School
+02) Scoff 
+03) Love Buzz 
+04) Floyd The Barber 
+05) Dive 
+06) Polly 
+07) Big Cheese 
+08) About A Girl 
+09) Mr. Moustache 
+10) Spank Thru 
+11) Breed (part of)
 
-TRANSFER:
-Nakamichi DR-1 > Focusrite Scarlett 8i6 > Adobe Audition 3.0 > Trader's Little Helper 2.8.4
+GENERATION
+-----------------
+ANA(1) -> DAT(1) -> WAV [44.1kHz] -> FLAC [Level 8]
 
-GENERATION:
-ANA(2) [Type II] > WAV [24-bit/48KHz] > WAV [16-bit/44.1KHz] > FLAC [Level 8]
+SOURCE (AUD#1b)
+-----------------
+unknown -> unknown
 
-DURATION:
-38:58 MIN.
+NOTES
+-----
+- Small glitches throughout the whole show due to bad DAT transfer
 
-NOTES:
-- From Frenzman collection #295
-- Lower quality and higher generation, but does not have the digital glitches that are on AUD #1b.
-- There are many cuts, but the the tape is believed to be complete, with Cobain curtailing the show 
-  part-way through "Breed" due to equipment problems.
+TRANSFER
+-----------------
+Nakamichi CR-5E -> unknown DAT deck -> FLAC Frontend 1.7.1
 
-SETLIST:
-01. School
-02. Scoff
-03. Love Buzz [Shocking Blue cover]
-04. Floyd The Barber
-05. Dive
-06. Polly
-07. Big Cheese
-08. jam
-09. About A Girl
-10. Mr. Moustache
-11. Spank Thru
-12. Breed (part of)
+MD5 FINGERPRINTS
+-----------------
+ED123CCF43760FC071C6F11C09E1D197 *nirvana1989-11-11t01.flac
+D5F688F74A3E526E9382341EB965C315 *nirvana1989-11-11t02.flac
+5FC916F33B44D48C5B0C98A4AD2FD74D *nirvana1989-11-11t03.flac
+3FE6A6613AE97DA0177314D43D99B086 *nirvana1989-11-11t04.flac
+41F311B0D9C5F29FCB971A2675FB60E7 *nirvana1989-11-11t05.flac
+CBCEFC2E6BF5A945C04B0AF0411DA957 *nirvana1989-11-11t06.flac
+4EA6D54C2F71ED9FC376C34E6C7A37FF *nirvana1989-11-11t07.flac
+D3BB6F1F56E46B00E908E20E1F1AF89D *nirvana1989-11-11t08.flac
+823C1D2B866CC167C0582D5DE7D22CB8 *nirvana1989-11-11t09.flac
+35BCA7700300F35B0D7A25503DB9C4BD *nirvana1989-11-11t10.flac
+D16FCF35A30AF2055295BC0E80D3927D *nirvana1989-11-11t11.flac
 
-MD5 FINGERPRINTS:
-9964ee23ecba554dc906f0fb0ae277d3 *NIRVANA_1989-11-11_AUD1a_ANA2_t01_School.flac
-7a3d7ed3d8065105f75909c9d4e90b54 *NIRVANA_1989-11-11_AUD1a_ANA2_t02_Scoff.flac
-22ed2e3494acd28d276fca9e4ae1ade8 *NIRVANA_1989-11-11_AUD1a_ANA2_t03_Love Buzz [Shocking Blue cover].flac
-d5f5a9cedd56bb212eb8db36bac88176 *NIRVANA_1989-11-11_AUD1a_ANA2_t04_Floyd The Barber.flac
-ea7fe8b24ae082383d0ca24d2d783329 *NIRVANA_1989-11-11_AUD1a_ANA2_t05_Dive.flac
-42c0dbcd4696a8d868b54df7e3068702 *NIRVANA_1989-11-11_AUD1a_ANA2_t06_Polly.flac
-c766019fbc5f9d970be33c2ef2e96ca8 *NIRVANA_1989-11-11_AUD1a_ANA2_t07_Big Cheese (part of).flac
-13fd9400ef1a6837c9b4dce7c4105aa9 *NIRVANA_1989-11-11_AUD1a_ANA2_t08_jam.flac
-b226f082ca56ebc57b4b7628839ac9ec *NIRVANA_1989-11-11_AUD1a_ANA2_t09_About A Girl.flac
-b4bd7659ad6b422d7baa5185f0de70e7 *NIRVANA_1989-11-11_AUD1a_ANA2_t10_Mr. Moustache.flac
-84fb4bdc857a2a572a335ccf24de5473 *NIRVANA_1989-11-11_AUD1a_ANA2_t11_Spank Thru.flac
-0d32146d58d5593504d5fb4b0efae9f2 *NIRVANA_1989-11-11_AUD1a_ANA2_t12_Breed (part of).flac
 
-RECORDED BY:
-unknown
-
-TRANSFER:
-David Willhauk [2025-07-24]
-
-DISTRIBUTION:
-Fabian Beyer and Members of LiveNIRVANA.com
-
-PLEASE DO NOT SELL OR ENCODE TO LOSSY FORMATS!
+Transferred by HB
+PLEASE DO NOT ENCODE TO MP3 OR SELL!

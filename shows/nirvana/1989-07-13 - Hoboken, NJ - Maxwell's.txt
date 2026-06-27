@@ -1,50 +1,40 @@
 NIRVANA
 July 13, 1989
 Maxwell's
-Hoboken, NJ
+Hoboken, NJ, USA
 
-DISC #1/1 (39:57)
------------------
-01) intro
-02) School
-03) Floyd The Barber
-04) Love Buzz
-05) About A Girl
-06) Scoff
-07) Spank Thru
-08) Big Cheese
-09) Polly
-10) Paper Cuts
-11) Negative Creep
-12) Blew
+SOURCE (AMT #1):
+unknown > unknown
 
-GENERATION
------------------
-ANA(1) -> WAV [48kHz] -> WAV [44.1kHz] -> FLAC [Level 8]
+TRANSFER:
+Sony DCR-TRV730 > Datavideo TBC-6000 > ATI TV Wonder 600 USB > VirtualDub > Adobe Audition CC 2017 > CD Wave 1.98 > flac.exe
 
-SOURCE (AUD#1)
------------------
-Sony PC-62 -> Sony WM-D3
+GENERATION:
+Video8(M) > AVI [UtVideo/48khz/16-Bit/PCM] > FLAC
 
-TRANSFER
------------------
-Nakamichi DR-8 -> Hosa RCA cable -> LynxONE analog-in -> Adobe Audition 1.5 -> CD Wave 1.93 beta -> FLAC Frontend 1.7.1
+LENGTH:
+20:37
 
-MD5 FINGERPRINTS
------------------
-8431b1ebc84dbd82ae092ae34b9ea213 *nirvana1989-07-13t01.flac
-ca04ab7e8d2af138d72339239ce368d6 *nirvana1989-07-13t02.flac
-1e7a6f59b85ade527497ede557dd07dc *nirvana1989-07-13t03.flac
-56356b4d5b9d7ac91c019f7b067ffe30 *nirvana1989-07-13t04.flac
-2d6767d85d3816edf49d8530034a2559 *nirvana1989-07-13t05.flac
-f5e0a8c99aac7fbe0549b3ad8e28b7ec *nirvana1989-07-13t06.flac
-17544dd93197376991e9966597237ffd *nirvana1989-07-13t07.flac
-223e5c631a1e0fd2c8f318c354f11793 *nirvana1989-07-13t08.flac
-7b0422935a8e78aae7959cc20dbb75b7 *nirvana1989-07-13t09.flac
-4a952258bdca257c22355f0bf4893626 *nirvana1989-07-13t10.flac
-cdd5ad8e37238f5c4fc515e410bb8574 *nirvana1989-07-13t11.flac
-eb30437e108c823871850d951f6af0ba *nirvana1989-07-13t12.flac
+TRACKS:
+01. School
+02. Floyd The Barber
+03. Love Buzz
+04. About A Girl
+05. Scoff
+06. Spank Thru
+07. Blew
 
+MD5 FINGERPRINTS:
+205d585f6beea181f9b0783214ae437a *Nirvana 1989-07-13 AMT1 t01 School.flac
+7cabb56c0eec11ef3ccbd4037e0372e1 *Nirvana 1989-07-13 AMT1 t02 Floyd The Barber.flac
+de3724ffe3241b4f45782ee00ba04784 *Nirvana 1989-07-13 AMT1 t03 Love Buzz.flac
+2cca044329478b762e7a403c7fcb67cb *Nirvana 1989-07-13 AMT1 t04 About a Girl.flac
+3b3aa5b0645525bab862f7cee14ea365 *Nirvana 1989-07-13 AMT1 t05 Scoff.flac
+b2b0dd39a6e983ae562773a32cb9d3df *Nirvana 1989-07-13 AMT1 t06 Spank Thru.flac
+0e8d7eb6526568f8249c56c7795a1130 *Nirvana 1989-07-13 AMT1 t07 Blew.flac
 
-Transferred by Mike Ziegler.
-PLEASE DO NOT ENCODE TO MP3 OR SELL!
+TRANSFER & DISTRIBUTION:
+Nicholas Serra & Members of LiveNIRVANA.com
+2020-10-21
+
+**PLEASE DO NOT ENCODE TO LOSSY FORMATS OR SELL!**

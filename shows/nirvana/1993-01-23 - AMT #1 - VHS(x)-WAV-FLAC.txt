@@ -4,21 +4,20 @@ Praça da Apoteose (Hollywood Rock Festival)
 Rio De Janeiro, Brazil
 
 GENERATION:
-VHS(x) > WAV [48 kHz] > WAV [44.1 kHz] > FLAC [Level 8]
+VHS(x) > WAV [48 kHz] > FLAC [Level 8]
 
 LENGTH:
 10:58
 
 TRANSFER:
-JVC SR-V10U > Custom Klotz RCA-out cables > M-Audio Delta Audiophile 192 analog-in > VirtualDub 1.9.11 > Adobe Audition CC 2015 > CD Wave 1.98 > FLAC Frontend 1.7.1
+JVC SR-V10U > Custom Klotz RCA-out cables > M-Audio Delta Audiophile 192 analog-in > VirtualDub 1.9.11 > Adobe Audition CC 2015 > FLAC Frontend 1.7.1
 
 TRACKS:
 01. Scentless Apprentice (cuts in)
 02. Gallons Of Rubbing Alcohol Flow Through The Strip
 
 MD5 FINGERPRINTS:
-234bb7f839075cf432733f1d108b0ef7 *Nirvana_1993_01-23_AMT1_VHS(x)_t01.flac
-7df0f251bf040c9e892d4a5110121c9b *Nirvana_1993_01-23_AMT1_VHS(x)_t02.flac
+8c97d1a620ff5c9df529aae8e636f312 *Nirvana_1993_01-23_AMT1_VHS(x)_48.flac
 
 TRANSFERRED BY:
 Pierre Leroy

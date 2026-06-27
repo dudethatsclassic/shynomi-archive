@@ -1,25 +1,22 @@
 NIRVANA
 March 12, 1990
-Town Pump
+The Town Pump
 Vancouver, BC, Canada
 
-SOURCE (AUD #1b):
+SOURCE (AUD #1a):
 Aiwa > Aiwa
 
 TRANSFER:
-Kenwood KX-W6010 > VIA AC '97 > Audiograbber 1.81 (with LAME MP3 encoder) > Adobe Audition 2.0 > CD Wave 1.94.8 > FLAC frontend 1.7.1
+Nakamichi CR-7A > PreSonus FireStudio Project > Adobe Audition 3.0 > CD Wave 1.98 > Trader's Little Helper 2.7.0
 
 GENERATION:
-ANA(M) > MP3 [320kbps] > WAV [44.1kHz] > FLAC [Level 8]
+ANA(1) > WAV [48kHz/24bit] > WAV [44.1kHz/16bit] > FLAC [Level 8]
 
 LENGTH:
-42:44
-
-NOTES:
-- Has some digital errors during "Love Buzz," during "Floyd The Barber," and after "Scoff."
+43:13
 
 TRACKS:
-01. Love Buzz (cut)
+01. Love Buzz
 02. Floyd The Barber
 03. Scoff
 04. Dive
@@ -34,21 +31,21 @@ TRACKS:
 13. Blew
 
 MD5 FINGERPRINTS:
-81f02b6beb01b641ec65bd365a264689 *Nirvana_1990-03-12_AUD1b_t01.flac
-f615d21f88c7d4900f4bded61fb88224 *Nirvana_1990-03-12_AUD1b_t02.flac
-4e0e4c24488d95fb114df9d15467b563 *Nirvana_1990-03-12_AUD1b_t03.flac
-4c0f6074a4776920e6d6a19c07e6222c *Nirvana_1990-03-12_AUD1b_t04.flac
-c8bca9141ca58028475bc76b9ee50ce8 *Nirvana_1990-03-12_AUD1b_t05.flac
-070e070ce54229ce20095451fd96ae3e *Nirvana_1990-03-12_AUD1b_t06.flac
-4e519d7a2065be93e41daa44531cecfc *Nirvana_1990-03-12_AUD1b_t07.flac
-b0a4893598ca983af7c34315b1e9b506 *Nirvana_1990-03-12_AUD1b_t08.flac
-67f46d9d9f7f3d81c8e5bf1446d6b2c2 *Nirvana_1990-03-12_AUD1b_t09.flac
-4f6485b8329630c3188800068011c1ec *Nirvana_1990-03-12_AUD1b_t10.flac
-8932fcde95d9d380c1c0e4f48f225cfa *Nirvana_1990-03-12_AUD1b_t11.flac
-96fb685661f552eb02c58611d3253a37 *Nirvana_1990-03-12_AUD1b_t12.flac
-027ecdf394eb19dcc986ec937f8707ef *Nirvana_1990-03-12_AUD1b_t13.flac
+00e5e8b826f120473393e15186017619 *Nirvana_1990-03-12_AUD1a_t01.flac
+33b315e58253a3d62252f9d61281ef34 *Nirvana_1990-03-12_AUD1a_t02.flac
+658ee5fb24c298f03ff273d26d950acd *Nirvana_1990-03-12_AUD1a_t03.flac
+0624db9eb0d2e455f0555e8701b56d12 *Nirvana_1990-03-12_AUD1a_t04.flac
+9d67799648919bed74b276be0073cb33 *Nirvana_1990-03-12_AUD1a_t05.flac
+9bb8cda4660145e9aab26b4e2bc2e5e6 *Nirvana_1990-03-12_AUD1a_t06.flac
+db4c93ac8ebaeb549d3479b7ef050ddd *Nirvana_1990-03-12_AUD1a_t07.flac
+9a970e18259fbaadb532dc131e84067b *Nirvana_1990-03-12_AUD1a_t08.flac
+e6ef68d73873850767f7ff11838e8419 *Nirvana_1990-03-12_AUD1a_t09.flac
+b5f2ab16211e06db0e93b00e32efa4e1 *Nirvana_1990-03-12_AUD1a_t10.flac
+d7a7bd909b84eb7c1c26eff10967f0b0 *Nirvana_1990-03-12_AUD1a_t11.flac
+74fc18e108639bcfd6ec1e546c548a29 *Nirvana_1990-03-12_AUD1a_t12.flac
+96fe373b1e801eb53a5fa1ff80e67319 *Nirvana_1990-03-12_AUD1a_t13.flac
 
 TRANSFERRED BY:
-Mark Minkler
+Mike Ziegler
 
 PLEASE DO NOT SELL OR ENCODE TO MP3

@@ -1,41 +1,45 @@
 NIRVANA
-1987-05-06 KAOS Radio, Evergreen State COllege, Olympia WA
+May 6, 1987
+KAOS Olympia Community Radio
+Olympia, WA
 
-Elmo Leak + FM>ANA(3)
-MW Remaster / Source Patch
+SOURCE (SBD #1b):
+soundboard > unknown
 
+EXTRACTION:
+Sony Optiarc AD-7260S > Exact Audio Copy V1.0 > Adobe Audition 3.0 > CD Wave 1.98 > Trader's Little Helper 2.7.0
 
-REMASTERING NOTES:
+GENERATION:
+REEL(M) > CDR(1) > WAV [44.1kHz] > FLAC [Level 8]
 
-1) Speed of Elmo leak changed to match WTLO speed
-2) Speed of FM>ANA(3) changed to match corrected Elmo Leak
-3) FM>ANA(3) Eq'd to match Elmo Leak
-4) Phase drift of FM>ANA(3) re-aligned (previously done)
-5) Sound drop-outs in FM>ANA(3) patched (previously done)
-6) Sound drop-outs and digital clicks in Elmo leak repaired
-7) Sources stitched together to provide complete source and fill in content missing from Elmo Leak
-8) Between-song segments derived from FM>ANA(3) NR'd and Eq'd to match hiss levels and hiss sound on Elmo Leak
-9) Entire recording *gently* normalized to standardize volume levels song-to-song, and to balance L&R channels. No dynamic range was lost.
+LENGTH:
+31:20
 
+TRACKS:
+01. Love Buzz (cuts in)
+02. Floyd The Barber
+03. Downer
+04. Mexican Seafood
+05. White Lace And Strange
+06. Spank Thru (cuts in)
+07. Annorexorcist
+08. Hairspray Queen
+09. Pen Cap Chew
+10. Vendetagainst (cuts in)
 
-* The beginning ~50 seconds of Love Buzz (missing from Elmo leak) are derived from the FM>ANA(3), after it was Speed Corrected and Eq'd to match Elmo leak.
+MD5 FINGERPRINTS:
+664374a9016c98a514f219bcc2263786 *Nirvana_1987-05-06_SBD1b_t01.flac
+c083e6ca8c457d67119fd60534299e92 *Nirvana_1987-05-06_SBD1b_t02.flac
+55018a93c059423e80abd5f502f5c440 *Nirvana_1987-05-06_SBD1b_t03.flac
+e99f855f0626329592bb8cb8fcb472b5 *Nirvana_1987-05-06_SBD1b_t04.flac
+a5532d5575dd0479b0eb641ba8067a10 *Nirvana_1987-05-06_SBD1b_t05.flac
+b4aef780f7f05e3402eafd4851823ccb *Nirvana_1987-05-06_SBD1b_t06.flac
+3e62f85b5126f40e7a30d2448e45cb81 *Nirvana_1987-05-06_SBD1b_t07.flac
+edf7d98ca6178508fbc666cdcb2c3f68 *Nirvana_1987-05-06_SBD1b_t08.flac
+21b78387a075c128a8a9bca7e77edb0a *Nirvana_1987-05-06_SBD1b_t09.flac
+a75974fab68888b0d797db990368c61d *Nirvana_1987-05-06_SBD1b_t10.flac
 
-* The first few seconds of Spank Thru (missing from Elmo leak) are derived from the FM>ANA(3), after it was Speed Corrected and Eq'd to match Elmo leak, and additionally these first few seconds were also NR'd to avoid a distracting change in hiss levels between sources. The beginning of Love Buzz is not NR'd, because the high volume of the music at the patch point hides the difference in hiss levels well enough not to be distracting. 
+EXTRACTED BY:
+Mike Ziegler
 
-* All between-song banter not present on Elmo leak has been NR'd and then Eq'd to match the hiss levels and hiss sound on the Elmo leak, AFTER these segments were properly remastered along with the rest of the FM>ANA(3) source to match the musical content of the two sources. The FM>ANA(3) source has drastically higher hiss levels than the Elmo leak, which is why between-song segments were NR'd and re-Eq'd, after the primary remastering process. 
-
-* Radio host Donna Dresh's comments "Youre still on!" etc, are derived from the FM>ANA(3) and were pasted overtop the Elmo source since these comments are not present on the Elmo source. Otherise it seems like Kurt is talking to himself. The Radio station ID announcement with the children exclaiming KAOS!!! was lowered in volume since it was way too loud in comparison to the rest of the recording.
-
-
-***
-ALL HAIL THE MIGHTY ELMO, and in the spirit of generosity if you have any uncirculated NIRVANA recordings please follow Elmo's example and likewise share freely.
-***
-
-Mike Wilkinson
-August 2016
-
-
-
-
-
-
+PLEASE DO NOT SELL OR ENCODE TO MP3

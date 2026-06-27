@@ -3,19 +3,14 @@ June 27, 1989
 Rockin' T.P.
 Santa Fe, NM
 
-DISC #1/1 (14:59)
+SETLIST (14:59)
 -----------------
-01) School (cut)
-02) Floyd The Barber (cut)
-03) Big Cheese (cut)
-04) Spank Thru
-05) Dive (cut)
-06) About A Girl (cut)
-07) Paper Cuts (cut)
+School (cut) / Floyd The Barber (cut) / Big Cheese (cut) / Spank 
+Thru / Dive (cut) / About A Girl (cut) / Paper Cuts (cut)
 
 GENERATION
 -----------------
-VHS(M) -> DVDR(1) [256kbps AC3] -> AC3 [256kbps] -> WAV [48kHz] -> WAV [44.1kHz] -> FLAC [Level 8]
+VHS(M) -> DVDR(1) [256kbps AC3] -> AC3 [256kbps] -> WAV [48kHz] -> FLAC [Level 8]
 
 SOURCE (AMT#1)
 -----------------
@@ -23,17 +18,11 @@ built-in -> unknown
 
 TRANSFER
 -----------------
-NEC ND-3500AG -> DVD Decrypter 3.5.4.0 -> BeSweet v1.4 -> Adobe Audition 2.0 -> CD Wave 1.95.1 -> FLAC Frontend 1.7.1
+NEC ND-3500AG -> DVD Decrypter 3.5.4.0 -> BeSweet v1.4 -> Adobe Audition 2.0 -> FLAC Frontend 1.7.1
 
 MD5 FINGERPRINTS
 -----------------
-6eb473938480f6cc7a8ac66b4122467e *nirvana1989-06-27t01.flac
-6940dd8bef1c1aa52e90ba5deb567afd *nirvana1989-06-27t02.flac
-9c2c0509b12d1122027e93dcace43a05 *nirvana1989-06-27t03.flac
-7932a7e507dab7f40af9ea9d7c2948f5 *nirvana1989-06-27t04.flac
-5f9f1128680f3ce1adc1ea293a6993e1 *nirvana1989-06-27t05.flac
-2b9fb2d6122856aab6d8466afd2f335b *nirvana1989-06-27t06.flac
-daf5e524836fffcd9b7fd083162d514b *nirvana1989-06-27t07.flac
+10a3763a950458f00f4d6c339b040105 *nirvana1989-06-27_48.flac
 
 
 Extracted by Mike Ziegler.

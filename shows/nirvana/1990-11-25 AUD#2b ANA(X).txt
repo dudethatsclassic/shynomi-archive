@@ -1,6 +1,6 @@
 NIRVANA
 November 25, 1990
-Off Ramp
+The Off Ramp
 Seattle, WA
 
 SOURCE (AUD#2b)
@@ -10,48 +10,14 @@ TRANSFER:
 Nakamichi DR-1 > Canare cable > D.A.L. CardDeluxe > Adobe Audition CC > SoundForge 12.1 > Trader's Little Helper 2.8.4
 
 GENERATION:
-ANA(X)> WAV[24 bit/48kHz] > WAV[16 bit/44.1kHz] > FLAC [Level 8]
+ANA(X)> WAV[24 bit/48kHz] > FLAC [Level 8]
 
 DURATION:
-47:08
-
-SETLIST:
-00. Intro
-01. Aneurysm
-02. Oh, The Guilt
-03. Mr. Moustache
-04. Pay To Play [Stay Away]
-05. Breed (cut)
-06. (intermission)
-07. Dumb
-08. Polly
-09. Something In The Way
-10. Negative Creep
-11. Love Buzz
-12. Where Did You Sleep Last Night (jam)
-13. Spank Thru
-14. Molly's Lips
-15. Son Of A Gun
-16. Sifting (cut)
+64:15
 
 MD5 FINGERPRINTS:
-a311668bd866572dd9781fc84cce2f70 *NIRVANA 1990-11-25 AUD#2b ANA(X)_00 Intro.flac
-6a3101c3aeb5a89d66d65401771d988c *NIRVANA 1990-11-25 AUD#2b ANA(X)_01 Aneurysm.flac
-5c5854026d0997321a6b7f42430b39c0 *NIRVANA 1990-11-25 AUD#2b ANA(X)_02 Oh, The Guilt.flac
-79b8cbae6f43e7fbf443fb729460bd2b *NIRVANA 1990-11-25 AUD#2b ANA(X)_03 Mr. Moustache.flac
-bfc84cdea162b40f39893ae14eef8004 *NIRVANA 1990-11-25 AUD#2b ANA(X)_04 Pay To Play.flac
-3d20f72da5d8bec80824cede77ca2f00 *NIRVANA 1990-11-25 AUD#2b ANA(X)_05 Breed (cut).flac
-a33fb156a2ae9258da3f06d225553b96 *NIRVANA 1990-11-25 AUD#2b ANA(X)_06 (intermission).flac
-8710342e13f1c56570378c0293561832 *NIRVANA 1990-11-25 AUD#2b ANA(X)_07 Dumb.flac
-5b813d1baac2ed238aedbca1ef2416a2 *NIRVANA 1990-11-25 AUD#2b ANA(X)_08 Polly.flac
-cd612201742502feb51d49ac56c67c90 *NIRVANA 1990-11-25 AUD#2b ANA(X)_09 Something In The Way.flac
-27ffe88a92bebdaa2b175d396a368787 *NIRVANA 1990-11-25 AUD#2b ANA(X)_10 Negative Creep.flac
-b97515a4f576a3a8e323810445c536ad *NIRVANA 1990-11-25 AUD#2b ANA(X)_11 Love Buzz.flac
-6a5cf00eebeb53a7570ef015d66d98ad *NIRVANA 1990-11-25 AUD#2b ANA(X)_12 Where Did You Sleep Last Night (jam).flac
-5f48b8f5b436a15ff1082a8eeb5195f4 *NIRVANA 1990-11-25 AUD#2b ANA(X)_13 Spank Thru.flac
-11f7a35c3d07c0d8de79ffefbee67758 *NIRVANA 1990-11-25 AUD#2b ANA(X)_14 Molly's Lips.flac
-d1af90dc4a30a25f6719c5349c89aa2a *NIRVANA 1990-11-25 AUD#2b ANA(X)_15 Son Of A Gun.flac
-a6b3dfd33b5913a86dd785ecaddb8abd *NIRVANA 1990-11-25 AUD#2b ANA(X)_16 Sifting.flac
+5e8a980d4bb47f04122feb0931e8cf73 *NIRVANA 1990-11-25 AUD#2b ANA(X) [24-48] (RAW SIDE B).flac
+08baf23e718aacaf9cac655f97c6a3ab *NIRVANA 1990-11-25 AUD#2b ANA(X) [24-48] (RAW SIDE A).flac
 
 TRANSFER: 
 Members of LiveNIRVANA.com

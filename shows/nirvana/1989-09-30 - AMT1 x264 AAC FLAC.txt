@@ -7,10 +7,10 @@ SOURCE: (AMT#1):
 internal > unknown
 
 TRANSFER:
-Panasonic AG1980 > Datavideo TBC7000 > ATI TV Wonder 600 USB > VirtualDub > Adobe Audition > CD Wave Editor
+Panasonic AG1980 > Datavideo TBC7000 > ATI TV Wonder 600 USB > VirtualDub > AviSynth 2.6.0 > x264.exe 0.164.3198 da14df5 > MKVToolNix GUI v57.0.0
 
 GENERATION:
-VHS(M) > AVI [UTVideo/48khz/16-Bit/PCM] > FLAC
+VHS(M) > AVI [UTVideo/48khz/16-Bit/PCM] > MKV [480p/x264|AAC|FLAC]
 
 DURATION:
 30:47
@@ -28,16 +28,10 @@ SETLIST:
 10. About A Girl
 
 CHECKSUM:
-604e3939f8015b0080f5bbc2698cbb7f *Nirvana 1989-09-30 AMT1 t01 Intro.flac
-2eef49360c52b24ac1cdc8b06d0bced1 *Nirvana 1989-09-30 AMT1 t02 School.flac
-942c069242cb0d9f34d1ba6f26ad85df *Nirvana 1989-09-30 AMT1 t03 Scoff.flac
-15b5c258d7fff9358a0173b3b3a16440 *Nirvana 1989-09-30 AMT1 t04 Love Buzz.flac
-7a229347fb28cb81c7723fc011ea90ad *Nirvana 1989-09-30 AMT1 t05 Floyd The Barber.flac
-b02682ea4371786838867a93bca87ea0 *Nirvana 1989-09-30 AMT1 t06 Dive.flac
-46b2c1c09f993bf86be19e9d0292ce35 *Nirvana 1989-09-30 AMT1 t07 Polly.flac
-a4fddc378170ac0f24a604a9a8910f21 *Nirvana 1989-09-30 AMT1 t08 Big Cheese.flac
-24eb1ff262e8274947706cb2d79ae81e *Nirvana 1989-09-30 AMT1 t09 Spank Thru.flac
-648e883680163d7cb980489e045a061b *Nirvana 1989-09-30 AMT1 t10 About A Girl.flac
+7b74aa2412ac296e11a3464d15c4124d *Nirvana 1989-09-30 AMT1 x264 AAC FLAC.mkv
+
+NOTES:
+Audio track 3 is a sync of the AUD1 ANA(M) source via Mike Wilkinson.
 
 RECORDED BY:
 Aadam Jacobs

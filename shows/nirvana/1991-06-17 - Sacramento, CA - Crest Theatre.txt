@@ -1,50 +1,48 @@
 NIRVANA
-June 17, 1991 (date corrected - was June 19)
-Crest Theatre
+June 17, 1991
+Crest Theater
 Sacramento, CA
 
-DISC #1/1 (40:19)
+DISC #1/1 (36:05)
 -----------------
-01) Polly
-02) Drain You
-03) School
-04) Smells Like Teen Spirit
-05) Floyd The Barber
-06) Love Buzz
-07) Lithium
-08) Been A Son
-09) Negative Creep
-10) About A Girl
-11) Sliver
-12) Blew
+01) Drain You (cut)
+02) School 
+03) Smells Like Teen Spirit 
+04) Floyd The Barber 
+05) Love Buzz 
+06) Lithium 
+07) Been A Son 
+08) Negative Creep 
+09) About A Girl (cut)
+10) Sliver 
+11) Blew 
 
 GENERATION
 -----------------
-ANA(M) -> WAV [48kHz] -> WAV [44.1kHz] -> FLAC [Level 8]
+ANA(M) -> CDR(2) -> EAC -> WAV [44.1kHz] -> FLAC [Level 8]
 
-SOURCE (AUD#1)
+SOURCE (AUD#2)
 -----------------
-Nakamichi CM-300 + CP-4 -> Marantz PMD430
+Unknown (tie clip) mic -> Aiwa recorder
 
 TRANSFER
 -----------------
-Nakamichi DR-8 -> Hosa RCA cable -> LynxONE analog-in -> Adobe Audition 1.5 -> CD Wave 1.94.5 -> FLAC Frontend 1.7.1
+Unknown -> FLAC
 
 MD5 FINGERPRINTS
 -----------------
-cb78bcadec7ff0a211ea785d0ca6f93c *nirvana1991-06-19t01.flac
-0ae9a27c41c9db11c992cd50d9ffd738 *nirvana1991-06-19t02.flac
-eb428b6a63bb69eba0a68c3900fd4097 *nirvana1991-06-19t03.flac
-dea76252a776cfa9c08b76a5d74f9577 *nirvana1991-06-19t04.flac
-d0cca8b66a63dc87d532d59cb58f4abd *nirvana1991-06-19t05.flac
-70d2cbb93be0c433aee9d722b4d68fc9 *nirvana1991-06-19t06.flac
-dfbe921fbed13d07033c0ebeb2603c0a *nirvana1991-06-19t07.flac
-45e84240fc20babd50dcf08346264293 *nirvana1991-06-19t08.flac
-5ec46719bd200f8c2f095f49d39332e0 *nirvana1991-06-19t09.flac
-7e26aa21e39bf2505fa3608e3a9f1b1a *nirvana1991-06-19t10.flac
-3d9895a8bcbae4630f5ebd67ee2ca500 *nirvana1991-06-19t11.flac
-8012d1d1a3587ce28e494351478df731 *nirvana1991-06-19t12.flac
+74df09009a8ebaa2c5ccfd67aa32f585 *nirvana1991-06-17t01.flac
+8cf996a82615b56b7dc3f0af895bf3d1 *nirvana1991-06-17t02.flac
+ddae1115493de34f7ad341ebf63dc5fb *nirvana1991-06-17t03.flac
+248f9b449d972c13ede4e87e873147b7 *nirvana1991-06-17t04.flac
+7cd1d5428a156e7b4202fa6eab39d735 *nirvana1991-06-17t05.flac
+bc116906add4c489126d738820e07ab0 *nirvana1991-06-17t06.flac
+d181875890656be88fd1ac71930ed706 *nirvana1991-06-17t07.flac
+80389b622333df3d247339cc2932586a *nirvana1991-06-17t08.flac
+bf5ab623441a5aeab4f2c1c0897e4510 *nirvana1991-06-17t09.flac
+69d50e49cc1056957cd26461c7fb6bce *nirvana1991-06-17t10.flac
+a93ef879cfab9ba0ae5e3141f853b53a *nirvana1991-06-17t11.flac
 
 
-Transferred by Mike Ziegler.
+Originally torrented by Vikas Bhatia.
 PLEASE DO NOT ENCODE TO MP3 OR SELL!

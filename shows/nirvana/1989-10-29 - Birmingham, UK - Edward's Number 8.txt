@@ -3,56 +3,48 @@ October 29, 1989
 Edward's No. 8
 Birmingham, United Kingdom
 
-DISC #1/1 (56:19)
+DISC #1/1 (30:06)
 -----------------
-01) intro
-02) School
-03) Scoff
-04) Love Buzz
-05) Floyd The Barber
-06) Dive
-07) Polly
-08) Big Cheese
-09) Spank Thru
-10) About A Girl
-11) Token Eastern Song
-12) Mr. Moustache
-13) jam
-14) Stain (jam)
-15) Negative Creep
-16) Blew
+01) School
+02) Scoff
+03) Floyd The Barber
+04) Dive
+05) Big Cheese
+06) Spank Thru
+07) Token Eastern Song
+08) Mr. Moustache
+09) Negative Creep
+10) Blew
 
 GENERATION
 -----------------
 ANA(M) -> WAV [48kHz] -> WAV [44.1kHz] -> FLAC [Level 8]
 
-SOURCE (AUD#1)
+SOURCE (AUD#2)
 -----------------
-A+F MC385D -> Fostex X-15
+unknown -> unknown
 
 TRANSFER
 -----------------
-Nakamichi CR-7A -> Hosa RCA cable -> LynxONE analog-in -> Adobe Audition 2.0 -> CD Wave 1.96.1 -> FLAC Frontend 1.7.1
+Nakamichi DR-3 -> RCA to 1/4" TS custom Klotz cables -> Echo Mia Midi analog-in -> Adobe Audition 2.0 -> CD Wave 1.95.1 -> FLAC Frontend 1.7.1
+
+NOTES
+-----------------
+- Missing "Love Buzz", "Polly", "About A Girl" and "Stain"
 
 MD5 FINGERPRINTS
 -----------------
-d2c80be34d5621bef203c26ba0036060 *nirvana1989-10-29t01.flac
-e0497ed6a7a7afddc5fbe6dab3f89fcf *nirvana1989-10-29t02.flac
-b315b68b9a5d84d22931790082a509f4 *nirvana1989-10-29t03.flac
-6022fe29426bb678f245e33739a8755a *nirvana1989-10-29t04.flac
-381dbf0326e89aa788350b9ad65ae7a7 *nirvana1989-10-29t05.flac
-f5c2397c0c543bd34e53d906904dc693 *nirvana1989-10-29t06.flac
-320036beb424f8c3052c465b16e7aea6 *nirvana1989-10-29t07.flac
-4c2cb14a2d24ef23f25ba998a8f99219 *nirvana1989-10-29t08.flac
-234bd1085468437f7cfc688cb30dc76e *nirvana1989-10-29t09.flac
-20f782e4d4c525c9e17b3814835fa175 *nirvana1989-10-29t10.flac
-9dfd2d36b62e74336202f4882ec0136e *nirvana1989-10-29t11.flac
-06d05e8a330f7c67827710db5ed606d6 *nirvana1989-10-29t12.flac
-1562caf8c6eea4c1e50d52f162eb5a0b *nirvana1989-10-29t13.flac
-ab09757fbaac58f630c093e51fcbfe1a *nirvana1989-10-29t14.flac
-4f718eb52d40d468d2b1ba97af9499ca *nirvana1989-10-29t15.flac
-9cfcc897ca3756853396be1f24d4781b *nirvana1989-10-29t16.flac
+24ec823111cba0f96cb54646c5e9302f *nirvana_1989-10-29_aud2_anam_d1t01.flac
+667dbeec6217f68637460ef6d2c65c75 *nirvana_1989-10-29_aud2_anam_d1t02.flac
+0b7f097c188638a89c0487f79addfc78 *nirvana_1989-10-29_aud2_anam_d1t03.flac
+53d681caee1440fc2912924aac460ddd *nirvana_1989-10-29_aud2_anam_d1t04.flac
+63c1dd0478e21d04ca1b4e4a38af1afe *nirvana_1989-10-29_aud2_anam_d1t05.flac
+ec65136efdedd3ef9c766dc0ee8a8b37 *nirvana_1989-10-29_aud2_anam_d1t06.flac
+b6b2f71a283f7888cbe22c30d7b8c7b9 *nirvana_1989-10-29_aud2_anam_d1t07.flac
+cf6d305ee4e93b5b648450f73b963563 *nirvana_1989-10-29_aud2_anam_d1t08.flac
+0f86cf01c1d4cb49017801ee8e2f7682 *nirvana_1989-10-29_aud2_anam_d1t09.flac
+e8ff799737f7820ce4e28a4f578d59dc *nirvana_1989-10-29_aud2_anam_d1t10.flac
 
 
-Transferred by Mike Ziegler.
+Transferred by Pierre Leroy.
 PLEASE DO NOT ENCODE TO MP3 OR SELL!

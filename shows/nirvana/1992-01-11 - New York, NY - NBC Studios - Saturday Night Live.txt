@@ -1,41 +1,29 @@
 NIRVANA
-January 11th, 1992
-NBC Studios (Saturday Night Live),
+January 11, 1992
+NBC Studios (Saturday Night Live)
 New York, NY
 
-SOURCE (PRO #1 + PRO #2):
-Soundboard > Unknown
+SOURCE (PRO #1):
+soundboard > unknown
+
+TRANSFER:
+Panasonic SV-3700 > PreSonus FireStudio Project > Adobe Audition 3.0 > CD Wave 1.98 > Trader's Little Helper 2.7.0
 
 GENERATION:
-TV > VHS(1) > DVDR(1) [NTSC, 8.0Mbps CBR, LPCM]
+TV > DAT(1) [48kHz/16bit] > WAV [48kHz/16bit] > WAV [44.1kHz/16bit] > FLAC [Level 8]
 
 LENGTH:
-18:58 (PRO #1: 14:02, PRO #2: 04:56)
+7:47
 
-NOTES:
-- PRO #2 is missing the rebroadcast of Smells Like Teen Spirit
-
-PRO #1 TRACKS:
-01. SNL Intro
-02. Smells Like Teen Spirit
-03. Territorial Pissings
-04. End Credits (1st take)
-
-PRO #2 TRACKS:
-01. Territorial Pissings (different angles and mix)
-02. End Credits (alternate take)
+TRACKS:
+01. Smells Like Teen Spirit
+02. Territorial Pissings
 
 MD5 FINGERPRINTS:
-fbdd9d42ccd556c31162476ec080d87a *VIDEO_TS\VIDEO_TS.BUP
-fbdd9d42ccd556c31162476ec080d87a *VIDEO_TS\VIDEO_TS.IFO
-0631ada87cac5968ff576b0f30dc71d7 *VIDEO_TS\VIDEO_TS.VOB
-aacee1fd9e29ec9c4c557f55dcd4c656 *VIDEO_TS\VTS_01_0.BUP
-aacee1fd9e29ec9c4c557f55dcd4c656 *VIDEO_TS\VTS_01_0.IFO
-1fdebde1ec6798bb885a6ae5f33991c4 *VIDEO_TS\VTS_01_0.VOB
-ff79cc3755e1c6ae6df46790cfa3c0bb *VIDEO_TS\VTS_01_1.VOB
-f4a7a3cad7d4c2342d58775177a1c65c *VIDEO_TS\VTS_01_2.VOB
+96db5b347d43e30ef8a1fcf2f00d917a *Nirvana_1992-01-11_late_PRO1_t01.flac
+e62e3ff87a84ee757328a99c05eb5aef *Nirvana_1992-01-11_late_PRO1_t02.flac
 
 TRANSFERRED BY:
-Barry Lajnwand
+Mike Ziegler
 
-**PLEASE DO NOT ENCODE TO LOSSY FORMATS OR SELL!**
+PLEASE DO NOT SELL OR ENCODE TO MP3

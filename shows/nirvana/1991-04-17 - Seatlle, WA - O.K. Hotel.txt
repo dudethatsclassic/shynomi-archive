@@ -3,62 +3,58 @@ April 17, 1991
 O.K. Hotel
 Seattle, WA
 
-DISC #1/1 (64:09)
------------------
-01) Polly (cut)
-02) Big Cheese
-03) Turnaround
-04) Love Buzz
-05) D-7
-06) Blew
-07) Been A Son
-08) Stain
-09) Negative Creep
-10) Wild Thing (jam)
-11) About A Girl
-12) Breed
-13) Floyd The Barber
-14) Verse Chorus Verse
-15) Smells Like Teen Spirit
-16) School
-17) Dive
-18) Territorial Pissings
-19) Sliver
+SOURCE (AMT #1):
+unknown > unknown
 
-GENERATION
------------------
-VHS(1) -> WAV [48kHz] -> WAV [44.1kHz] -> FLAC [Level 8]
+EXTRACTION/REAUTHOR:
+Sony Optiarc AD-7260S > DVD Decrypter 3.5.4.0 > Adobe Encore CS5
 
-SOURCE (AMT#1a)
------------------
-unknown -> unknown
+GENERATION:
+VHS(M) [NTSC] > DVDR(1) [3.5Mbps CBR/48kHz PCM] > reauthor
 
-TRANSFER
------------------
-Sony SLV-N55 -> Hosa RCA cable -> LynxONE analog-in -> Sound Forge 6.0 -> Adobe Audition 2.0 -> CD Wave 1.94.8 -> FLAC Frontend 1.7.1
+LENGTH:
+64:21
 
-MD5 FINGERPRINTS
------------------
-f9850f0fd8827cebfdca3176463ac3cb *nirvana1991-04-17t01.flac
-ba6765a3cb1277e48916575e57822a3d *nirvana1991-04-17t02.flac
-58b1dc49cf765e8597f98c0f44aa42c8 *nirvana1991-04-17t03.flac
-76cca2bb9ba7b436007e24bf1c0d33b0 *nirvana1991-04-17t04.flac
-696b4380c2b38b102b6fb552e294ac2f *nirvana1991-04-17t05.flac
-96918d261b3f136a1615226be8f590e1 *nirvana1991-04-17t06.flac
-a07da736d7d6e03ff3846f0e5a063e31 *nirvana1991-04-17t07.flac
-f6da1e36908cfdd874b25c5ee6ffa7cf *nirvana1991-04-17t08.flac
-fd21f3ca0e98a2daf01e1dc5b59adffd *nirvana1991-04-17t09.flac
-b5d8946e5df90a69256df1a25b8587a7 *nirvana1991-04-17t10.flac
-d0b1bab33b494094f06021333bc3a5d1 *nirvana1991-04-17t11.flac
-fa7652b45f3abc5ddbfb1e9c6eda4226 *nirvana1991-04-17t12.flac
-6e8bfcd0829b85106db51f6c587bc47d *nirvana1991-04-17t13.flac
-e30b120741064f28e101683eaa261004 *nirvana1991-04-17t14.flac
-d3e570a3fbe110875a3e97957d7a5142 *nirvana1991-04-17t15.flac
-130cc2396731bc2265151a4700c6865a *nirvana1991-04-17t16.flac
-88cd7da0252d20cd46d5422a45cd46a8 *nirvana1991-04-17t17.flac
-e3a2a115a04be4cf410cb83607170541 *nirvana1991-04-17t18.flac
-7b4f5737d5bce907eb24880ecedfefe7 *nirvana1991-04-17t19.flac
+TRACKS:
+01. Pennyroyal Tea (cuts in, cuts out)
+02. Polly (cuts in)
+03. Big Cheese
+04. Turnaround
+05. Love Buzz
+06. D-7
+07. Blew
+08. Been A Son
+09. Stain
+10. Negative Creep
+11. Wild Thing (jam)
+12. About A Girl
+13. Breed
+14. Floyd The Barber
+15. Verse Chorus Verse
+16. Smells Like Teen Spirit
+17. School
+18. Dive
+19. Territorial Pissings
+20. Sliver
 
+MD5 FINGERPRINTS:
+b8d2ad5c3dfc5e241e78cac11bebd03d *VIDEO_TS\VIDEO_TS.BUP
+b8d2ad5c3dfc5e241e78cac11bebd03d *VIDEO_TS\VIDEO_TS.IFO
+ebf137909fb841b9a08fee50d55532e7 *VIDEO_TS\VIDEO_TS.VOB
+028bd7f1e8e04c97e8ffb312cf20c7bc *VIDEO_TS\VTS_01_0.BUP
+028bd7f1e8e04c97e8ffb312cf20c7bc *VIDEO_TS\VTS_01_0.IFO
+5f4851644c060a8dfd85dc6e39cc6635 *VIDEO_TS\VTS_01_0.VOB
+6152240f4188e48744ce509b5d6537f6 *VIDEO_TS\VTS_01_1.VOB
+0f8ec495b75bb4e2d467a3d809ce08b3 *VIDEO_TS\VTS_01_2.VOB
+b8df41960125a6940d46df02a4e8c4bf *VIDEO_TS\VTS_01_3.VOB
+1e8251066958090d2b129ad597de39a8 *VIDEO_TS\VTS_02_0.BUP
+1e8251066958090d2b129ad597de39a8 *VIDEO_TS\VTS_02_0.IFO
+ebf137909fb841b9a08fee50d55532e7 *VIDEO_TS\VTS_02_0.VOB
+090dcb6737105f0978dcb280e9b461f6 *VIDEO_TS\VTS_02_1.VOB
+282ada74ed24be74a2f051e0c6855deb *VIDEO_TS\VTS_02_2.VOB
+be87e007b31c8e9e27a8475f60b66e60 *VIDEO_TS\VTS_02_3.VOB
 
-Transferred by Mike Ziegler.
-PLEASE DO NOT ENCODE TO MP3 OR SELL!
+EXTRACTION/REAUTHOR BY:
+Mike Ziegler
+
+PLEASE DO NOT SELL OR ENCODE TO ANY LOSSY FORMATS

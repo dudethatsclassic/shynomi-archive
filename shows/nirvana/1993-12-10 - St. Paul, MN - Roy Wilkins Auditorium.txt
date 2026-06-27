@@ -1,84 +1,32 @@
 NIRVANA
-December 10, 1993
+December 10th, 1993
 Roy Wilkins Auditorium
 Saint Paul, MN
 
-SOURCE (AUD #4):
+SOURCE (PRO #1):
 unknown > unknown
 
 TRANSFER:
-Nakamichi DR-8 > Echo Layla24 > Adobe Audition 2.0 > CD Wave 1.96.1 > FLAC frontend 1.7.1
+Panasonic AG-1980 > Datavideo TBC6000 > ATI TV Wonder 600 USB > VirtualDub > AviSynth 2.6.0 > x264.exe 0.152.2851 ba24899 > MKVToolNix GUI v46.0.0
 
 GENERATION:
-DAT(x) > ANA(2) > WAV [48kHz] > WAV [44.1kHz] > FLAC [Level 8]
+VHS(X) > AVI [UTVideo/48khz/16-Bit/PCM] > MKV [480p/x264|AAC|FLAC]
 
-LENGTH:
-108:03
+DURATION:
+2:51
 
-NOTES:
-- Has some unidentified noises/music bleeding through during "School," "Polly," and "Frances Farmer Will Have Her Revenge On Seattle," mostly on the right side.
-
-TRACKS (DISC 1):
-01. intro
-02. Radio Friendly Unit Shifter
-03. Drain You
-04. Breed
-05. Serve The Servants
-06. Come As You Are
-07. Smells Like Teen Spirit
-08. Sliver
-09. Dumb
-10. In Bloom
-11. About A Girl
-12. Lithium
-13. Pennyroyal Tea
-14. School
-15. Polly
-16. Frances Farmer Will Have Her Revenge On Seattle
-
-TRACKS (DISC 2):
-01. Milk It
-02. Rape Me
-03. Territorial Pissings
-04. Jesus Wants Me For A Sunbeam
-05. The Man Who Sold The World
-06. All Apologies
-07. On A Plain
-08. Scentless Apprentice
-09. Heart-Shaped Box
-10. Blew
-11. Endless, Nameless
+SETLIST:
+01. Breed
 
 MD5 FINGERPRINTS:
-cab7e6f3d106f55c0d9239e1ecf06ff0 *Nirvana_1993-12-10_AUD4_d1t01.flac
-17e4e28778128bc1503684025c9f7b3b *Nirvana_1993-12-10_AUD4_d1t02.flac
-477c5caea90297bb0826739e0000b53d *Nirvana_1993-12-10_AUD4_d1t03.flac
-c71bc7af4355e0126c3c5d049ee618f3 *Nirvana_1993-12-10_AUD4_d1t04.flac
-8ed820eea25730b3a8350b2f1fa62a19 *Nirvana_1993-12-10_AUD4_d1t05.flac
-32c6b06f7a5dac3e44bec97cba1f29a4 *Nirvana_1993-12-10_AUD4_d1t06.flac
-84e4f32c761c86cc949c177bd427bd0a *Nirvana_1993-12-10_AUD4_d1t07.flac
-b7a1e7ced7be818ce8bf5b75717bab7a *Nirvana_1993-12-10_AUD4_d1t08.flac
-9d949658ac023bf1605f9ec3b6c662ff *Nirvana_1993-12-10_AUD4_d1t09.flac
-654812ea78302ea1fd774e263a2e2fac *Nirvana_1993-12-10_AUD4_d1t10.flac
-b97db203760fcd28f9b803dbacb301b2 *Nirvana_1993-12-10_AUD4_d1t11.flac
-0c6304529e41486d401ad96b8fc3b604 *Nirvana_1993-12-10_AUD4_d1t12.flac
-63b08450ce6434f46ae8898275efa3aa *Nirvana_1993-12-10_AUD4_d1t13.flac
-4541f4771618693e7a845fe4e549052e *Nirvana_1993-12-10_AUD4_d1t14.flac
-05e3099db31be8cba6334a58f16246f5 *Nirvana_1993-12-10_AUD4_d1t15.flac
-92a5644d4805a3eca2c58b2497bec01c *Nirvana_1993-12-10_AUD4_d1t16.flac
-3d11e38a41e7a8c89d062546a066b6f7 *Nirvana_1993-12-10_AUD4_d2t01.flac
-08811d41025077cdafc4628bb7067cd8 *Nirvana_1993-12-10_AUD4_d2t02.flac
-3ca86b85d8882c23918cf509bf1acb60 *Nirvana_1993-12-10_AUD4_d2t03.flac
-44e923bed527cb513734dacd5efde92c *Nirvana_1993-12-10_AUD4_d2t04.flac
-fdf74a555c2a7ebaf0faa8ffe60c22fd *Nirvana_1993-12-10_AUD4_d2t05.flac
-854d2f8aa35aaafbdc6d47324a768510 *Nirvana_1993-12-10_AUD4_d2t06.flac
-867f2e4e6dc4f2dd8062c3e633f29df4 *Nirvana_1993-12-10_AUD4_d2t07.flac
-c1a241fd024dddcbc14676ec1311480e *Nirvana_1993-12-10_AUD4_d2t08.flac
-62a4c578e5a65c1fe3ebefc670a1066b *Nirvana_1993-12-10_AUD4_d2t09.flac
-aa4bef3af7b5a6168bb071ac8bb28a55 *Nirvana_1993-12-10_AUD4_d2t10.flac
-f415c4d9548b5ab38b238a956693ed8b *Nirvana_1993-12-10_AUD4_d2t11.flac
+85278f43b8f6d18c0aece5f1ed90e26b *Nirvana 1993-12-10 PRO1 x264 AAC FLAC.mkv
 
-TRANSFERRED BY:
-Kris Sproul
+TRANSFER BY:
+Nicholas Serra
 
-PLEASE DO NOT SELL OR ENCODE TO MP3
+DISTRIBUTION:
+Members of LiveNIRVANA.com
+2021-11-30
+
+
+**PLEASE DO NOT ENCODE TO LOSSY FORMATS OR SELL!**

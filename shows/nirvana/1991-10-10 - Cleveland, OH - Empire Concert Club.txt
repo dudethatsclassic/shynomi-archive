@@ -3,66 +3,64 @@ October 10, 1991
 Empire Concert Club
 Cleveland, OH
 
-SOURCE (AUD #1b):
-unknown > unknown
+DISC #1/1 (71:19)
+-----------------
+01) Another One Bites The Dust (jam)
+02) Jesus Wants Me For A Sunbeam
+03) Aneurysm
+04) Drain You
+05) School
+06) Floyd The Barber
+07) Smells Like Teen Spirit
+08) About A Girl
+09) Breed
+10) Polly
+11) Sliver
+12) Love Buzz
+13) Come As You Are
+14) Pennyroyal Tea (cut)
+15) Negative Creep
+16) Been A Son
+17) Blew
+18) Rape Me
+19) Lithium
+20) Territorial Pissings
 
-TRANSFER:
-Nakamichi DR-8 > Echo Layla24 > Adobe Audition 2.0 > CD Wave 1.95.1 > FLAC frontend 1.7.1
+GENERATION
+-----------------
+ANA(2) -> WAV [48kHz] -> WAV [44.1kHz] -> FLAC [Level 8]
 
-GENERATION:
-ANA(2) > WAV [48kHz] > WAV [44.1kHz] > FLAC [Level 8]
+SOURCE (AUD#1)
+-----------------
+unknown -> unknown
 
-LENGTH:
-70:47
+TRANSFER
+-----------------
+Nakamichi CR-7A -> Hosa RCA cable -> LynxONE analog-in -> Adobe Audition 2.0 -> CD Wave 1.95.1 -> FLAC Frontend 1.7.1
 
-NOTES:
-- Has a dropout on the right side in "Come As You Are."
+MD5 FINGERPRINTS
+-----------------
+431ffc4632c1219a7d3a28986258881b *nirvana1991-10-10t01.flac
+72e572ba72e7bff2050abba892376b59 *nirvana1991-10-10t02.flac
+91ebc35aaf0da0d6310acbfccd66fe15 *nirvana1991-10-10t03.flac
+2e2d9ff27457cb79c1cb2e3fafc7c2a7 *nirvana1991-10-10t04.flac
+6aae2395ffe18e0df34b51a4d4868d8f *nirvana1991-10-10t05.flac
+3d62a3c119b32c1a184da9fd56d1e472 *nirvana1991-10-10t06.flac
+38c7979f3c2c8c315842f2479b553601 *nirvana1991-10-10t07.flac
+ccee9f1e7a34ce582a3701f7c0f9e542 *nirvana1991-10-10t08.flac
+70c944b88861b8e2083c83a7847128b2 *nirvana1991-10-10t09.flac
+28617d50d0b168af10dc1b2843c354be *nirvana1991-10-10t10.flac
+6829e68b1cb8e40aa30af12b36ebab27 *nirvana1991-10-10t11.flac
+f51e65ef616363ed264764043bdfb383 *nirvana1991-10-10t12.flac
+4f2ff2369a80e1499e1bb99c2a1262fc *nirvana1991-10-10t13.flac
+9f7114e9158729cb1fc2fcb93cc264c8 *nirvana1991-10-10t14.flac
+d465de7749a8fd38401aaf1760aa7f8d *nirvana1991-10-10t15.flac
+fe99e8495b32786633b19840ad901851 *nirvana1991-10-10t16.flac
+26dda04234b91c1898a329060bfb2d55 *nirvana1991-10-10t17.flac
+53fd0d56d5a3527f0af867d9779b7ef8 *nirvana1991-10-10t18.flac
+a7fe0dc5f61733ec3b27241a621f22b6 *nirvana1991-10-10t19.flac
+c99ad6e62b13effd42a052adaa8e62cb *nirvana1991-10-10t20.flac
 
-TRACKS:
-01. Another One Bites The Dust (jam)
-02. Jesus Wants Me For A Sunbeam
-03. Aneurysm
-04. Drain You
-05. School
-06. Floyd The Barber
-07. Smells Like Teen Spirit
-08. About A Girl
-09. Breed
-10. Polly
-11. Sliver
-12. Love Buzz
-13. Come As You Are
-14. Pennyroyal Tea (cuts in)
-15. Negative Creep
-16. Been A Son
-17. Blew
-18. Rape Me
-19. Lithium
-20. Territorial Pissings
 
-MD5 FINGERPRINTS:
-dcd526b5cca70fa34c401a25d92fb55e *Nirvana_1991-10-10_AUD1b_t01.flac
-3787eda941f7b8579954c48418e5ff26 *Nirvana_1991-10-10_AUD1b_t02.flac
-b063fd557f2a5891f233f43ee7345234 *Nirvana_1991-10-10_AUD1b_t03.flac
-3e81576cfb4b52e893bfa843c510fdef *Nirvana_1991-10-10_AUD1b_t04.flac
-799e9a20ce102b3d5da1214fc5e68a70 *Nirvana_1991-10-10_AUD1b_t05.flac
-07f07335472c621272ce83149465cc1b *Nirvana_1991-10-10_AUD1b_t06.flac
-c42d3beb728eb0cf9d1849c68edd93bc *Nirvana_1991-10-10_AUD1b_t07.flac
-3aeb36a4c9149f37242c79030f4abb23 *Nirvana_1991-10-10_AUD1b_t08.flac
-3ff29d121341fd408af6699847043207 *Nirvana_1991-10-10_AUD1b_t09.flac
-4c7378ad444f5c77b7ed97cf69adf306 *Nirvana_1991-10-10_AUD1b_t10.flac
-4c220379fcdadb9690ed36e60ea7fd53 *Nirvana_1991-10-10_AUD1b_t11.flac
-edacd59043aafecc3acac6d7cf29605d *Nirvana_1991-10-10_AUD1b_t12.flac
-97d91bebdb37fec49124214c908a49ec *Nirvana_1991-10-10_AUD1b_t13.flac
-fbcb10d0db7da43f3671189c5797931c *Nirvana_1991-10-10_AUD1b_t14.flac
-ce2b99c359a9e651798e513923771734 *Nirvana_1991-10-10_AUD1b_t15.flac
-a7641c5f8ebe19d85ae6a912633a1cc9 *Nirvana_1991-10-10_AUD1b_t16.flac
-057a09669f5c1723e9322faacd56e309 *Nirvana_1991-10-10_AUD1b_t17.flac
-c68f07ab641abcb33aa362bd7bb6678e *Nirvana_1991-10-10_AUD1b_t18.flac
-128f717b10d2668fe8283e1fbbc0b094 *Nirvana_1991-10-10_AUD1b_t19.flac
-6d782b044b32b65e3b17f4365ee03627 *Nirvana_1991-10-10_AUD1b_t20.flac
-
-TRANSFERRED BY:
-Kris Sproul
-
-PLEASE DO NOT SELL OR ENCODE TO MP3
+Transferred by Mike Ziegler.
+PLEASE DO NOT ENCODE TO MP3 OR SELL!

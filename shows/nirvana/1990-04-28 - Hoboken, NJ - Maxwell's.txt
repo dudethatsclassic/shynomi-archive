@@ -1,93 +1,57 @@
+NIRVANA
+April 28, 1990 
+Maxwell's, Hoboken, NJ, US
 
-Nirvana
-Maxwell's
-Hoboken, NJ 
+SOURCE (AUD#2):
+unknown
 
-April 28, 1990
+TRANSFER:
+Nakamichi DR-1 > Canare cable > D.A.L. CardDeluxe > Adobe Audition CC > SoundForge 12.1 > Trader's Little Helper 2.8.4
 
-Source #1
+GENERATION:
+ANA(M)> WAV[24 bit/48kHz] > WAV[16 bit/44.1kHz] > FLAC [Level 8]
 
-The Stonecutter Collection Vol 55
+DURATION:
+52:03
 
-Source: Nakamichi DM-500 mic (Cardioid Mono) > Sony TC-D5M > 1st Generation Cassette (Maxell XL-II)
+SETLIST:
+00. Intro
+01. School
+02. Floyd The Barber
+03. Love Buzz
+04. Dive
+05. Spank Thru
+06. Breed
+07. About A Girl
+08. Big Cheese
+09. In Bloom
+10. Scoff
+11. Stain
+12. Been A Son
+13. Negative Creep
+14. Blew
 
-Transfer: Sony Deck TC-WE 475 > gold tipped rca cables > JVC XL-R2010 CD-RW
+MD5 FINGERPRINTS:
+fca2419034cd1369701eeb9874d18fc4 *NIRVANA 1990-04-28 AUD#2 ANA(M)_00 Intro.flac
+3746bb2d03dc8ba6eee8cb03155d3cf8 *NIRVANA 1990-04-28 AUD#2 ANA(M)_01 School.flac
+5ffdd4d9bf335391b9735fb378b0cc0b *NIRVANA 1990-04-28 AUD#2 ANA(M)_02 Floyd The Barber.flac
+901c909a4804880033539b4400603b33 *NIRVANA 1990-04-28 AUD#2 ANA(M)_03 Love Buzz.flac
+f0beda7aade9caf87e65bf0ff51792d8 *NIRVANA 1990-04-28 AUD#2 ANA(M)_04 Dive.flac
+691a7a01f08f5ce9da9c09e0f73d22a5 *NIRVANA 1990-04-28 AUD#2 ANA(M)_05 Spank Thru.flac
+e6340e3939c46671e5efb038d0988c80 *NIRVANA 1990-04-28 AUD#2 ANA(M)_06 Breed.flac
+6f6384c7e10cd0847db9a0e0eca8148a *NIRVANA 1990-04-28 AUD#2 ANA(M)_07 About A Girl.flac
+d5048a0a27afcbbed820bfbded6f3417 *NIRVANA 1990-04-28 AUD#2 ANA(M)_08 Big Cheese.flac
+90c6661dd1c4d6b76e6de69c61f851ea *NIRVANA 1990-04-28 AUD#2 ANA(M)_09 In Bloom.flac
+faeee909efc21b7d3b55f86d47b2fb8e *NIRVANA 1990-04-28 AUD#2 ANA(M)_10 Scoff.flac
+756b9d240f89960105aef1ab4db70abf *NIRVANA 1990-04-28 AUD#2 ANA(M)_11 Stain.flac
+8ac1c91787745bbcfc01c17503e3cb81 *NIRVANA 1990-04-28 AUD#2 ANA(M)_12 Been A Son.flac
+b3635784cfcdadbce60cb722ce073e98 *NIRVANA 1990-04-28 AUD#2 ANA(M)_13 Negative Creep.flac
+cd057db1c610137648666eb028777c5a *NIRVANA 1990-04-28 AUD#2 ANA(M)_14 Blew.flac
 
-Editing: Soundforge 9.0 > Wav > TLH [SB's aligned] Flac Level 6
+TRANSFER:
+Members of LiveNIRVANA.com
 
-Traders Den 6/29/15
+DISTRIBUTION:
+Members of LiveNIRVANA.com
 
-Transferred, channels balanced and tracked by kingrue Upload 526
-
-==================================================================
-
-I'm by no means an expert on Nirvana, but I don't let that stand in the way when it comes to 
-
-transferring and sharing tapes that come my way.  I did some research on this recording.
-
-This particular date has never been on the TTD tracker until now.
-
-There are 3 known audience sources.  Source 2 and 3 both have the last song cut.
-
-I do have source 2 and will be uploading it tomorrow.  I have not heard source 3.
-
-What I'm offering here is the first and most complete source.
-
-The original tape flip on the master tape is after 'Stain', so there is a tiny bit missing at that point.
-
-The tape flip on this 1st gen copy was after 'Been a Son'.  I've pieced that back together seamlessly.
-
-The only adjustments I made to this was amplify the volume an additional 4 decibels and balance channels.
-
-I've included a scan of the j-card and cassette in the torrent.
-
-Samples Provided
-
-01 Intro
-02 School
-03 Floyd The Barber
-04 Love Buzz
-05 Dive
-06 Spank Thru
-07 Breed
-08 About A Girl
-09 Big Cheese
-10 In Bloom
-11 Scoff
-12 Stain
-13 Been A Son
-14 Negative Creep
-15 Blew
-
-Total Time = 53:23 min
-
-Enjoy
-
-George
-
-===============================
-
-Fingerprints:
-
-01 Intro.flac:2289d643f4e868bfaa8b4c1fb5d74609
-02 School.flac:5e1b37314e4fdc9c37f4138d22ae410c
-03 Floyd The Barber.flac:1dc6f17b6098b66933efec36f8e197e5
-04 Love Buzz.flac:50ad702869dbfcf03898ce39f3bf1b06
-05 Dive.flac:4100268f8bc8648a4c42aed1624a48af
-06 Spank Thru.flac:73627194c6b48433396217bb43373d11
-07 Breed.flac:a3673775239d8f73a9c5453b283893e1
-08 About A Girl.flac:933f3be693ca7d5e403f445ebffcd57c
-09 Big Cheese.flac:f327508be2f8d33b690f971940f48fc5
-10 In Bloom.flac:6a6475dce5dbe2ffe05f2ac684b6b51c
-11 Scoff.flac:cd60ffc548aa8300fb19a66eb33140f3
-12 Stain.flac:ec0573a5864bfb604185c694dbdd1571
-13 Been A Son.flac:39d904fa7cfc03b2f701f2a0e1698c46
-14 Negative Creep.flac:c035a87cef11d8767d1659f6bde120b1
-15 Blew.flac:5282b84a3728295c1202bd96c0e4b3f1
-
-Checksum file saved to disk.
-
-No errors occured.
-
-
-
+2020-12-20

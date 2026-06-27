@@ -1,52 +1,37 @@
 NIRVANA
 September 1, 1991
 De Doelen (Ein Abend in Wien)
-Rotterdam
-The Netherlands
+Rotterdam, The Netherlands
 
-DISC #1/1 (44:18)
------------------
+SOURCE (AUD #3):
+unknown > unknown
+
+TRANSFER:
+unknown > Adobe Audition 3.0 > CD Wave 1.98 > Trader's Little Helper 2.7.0
+
+GENERATION:
+ANA(M) > WAV [44.1kHz/16bit] > FLAC [Level 8]
+
+LENGTH:
+19:12
+
+TRACKS:
 01. intro
-02. Polly (cuts in)
-03. Drain You 
-04. School
-05. Floyd The Barber
-06. Smells Like Teen Spirit
-07. Come As You Are
-08. About A Girl
-09. Breed
-10. Sliver
-11. In Bloom (cut)
-12. Been A Son
-13. Negative Creep (part of)
+02. Polly
+03. Drain You
+04. School (cuts out)
+05. Smells Like Teen Spirit (cuts in)
+06. Come As You Are
 
-GENERATION
------------------
-VHS(1) -> AVI [HuffYUV] -> WAV [48kHz] -> WAV [44.1kHz] -> FLAC [Level 8]
+MD5 FINGERPRINTS:
+f6fa41922c235f62589f8b8e8f0b764b *Nirvana_1991-09-01_AUD3_t01.flac
+ec545fe7c33c1f7d1e6a2430226c742a *Nirvana_1991-09-01_AUD3_t02.flac
+560e986072d5279a64adea963521b592 *Nirvana_1991-09-01_AUD3_t03.flac
+36001990ef3b8592939a5cc6fa301b83 *Nirvana_1991-09-01_AUD3_t04.flac
+a0e5b6381db3d43ab7c87c8511a4304e *Nirvana_1991-09-01_AUD3_t05.flac
+5542f692f6c904dba97f3a061e168d17 *Nirvana_1991-09-01_AUD3_t06.flac
 
-SOURCE (AMT #2)
------------------
-unknown -> unknown
+TRANSFERRED BY:
+Chris Metzler
 
-TRANSFER
------------------
-JVC HR-S7700 -> Datavideo TBC-1000 -> Sound Blaster Live! 5.1 -> Adobe Premiere Pro 1.5 -> Adobe Audition 2.0 -> CD Wave 1.94.8 -> FLAC Frontend 1.7.1
-
-MD5 FINGERPRINTS
------------------
-e737196516597833d37873b4ca7f7a81 *nirvana_1991-09-01_amt2_vhs1_d1t01.flac
-9fed6794d18682529cfe8ff63c11f9cd *nirvana_1991-09-01_amt2_vhs1_d1t02.flac
-7e2598959e81fc8aaca0a6d9d7f3ec54 *nirvana_1991-09-01_amt2_vhs1_d1t03.flac
-c72f00be0b60ad1c1b82e3fa0afd1fdf *nirvana_1991-09-01_amt2_vhs1_d1t04.flac
-b30d8a999735866bd633eca88a2d4662 *nirvana_1991-09-01_amt2_vhs1_d1t05.flac
-b593e8002f4268381ca4f79bbe467cfa *nirvana_1991-09-01_amt2_vhs1_d1t06.flac
-c3889bddf73582b5b29fab232858745d *nirvana_1991-09-01_amt2_vhs1_d1t07.flac
-f1b706388d79f885e6c2c4ee3d6000d9 *nirvana_1991-09-01_amt2_vhs1_d1t08.flac
-a56534e407e77c1e0beb3c5cc78cbafe *nirvana_1991-09-01_amt2_vhs1_d1t09.flac
-79f15e1efb7b4201301b2707dc11716c *nirvana_1991-09-01_amt2_vhs1_d1t10.flac
-14dca5c374d92c4ef77ddabacd518d39 *nirvana_1991-09-01_amt2_vhs1_d1t11.flac
-f3d56db35434a57e778e16d14a83baea *nirvana_1991-09-01_amt2_vhs1_d1t12.flac
-de98561e562fedee604de19387cb709f *nirvana_1991-09-01_amt2_vhs1_d1t13.flac
-
-Transferred by Francisco Ortiz, edited by Pierre Leroy
-PLEASE DO NOT ENCODE THIS TO MP3
+PLEASE DO NOT SELL OR ENCODE TO MP3

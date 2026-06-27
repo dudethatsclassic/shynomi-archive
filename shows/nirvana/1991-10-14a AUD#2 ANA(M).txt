@@ -10,7 +10,7 @@ TRANSFER:
 Nakamichi DR-1 > Focusrite Scarlett 8i6 > Adobe Audition > SoundForge 12.1 > Izotope RX10 > Trader's Little Helper 2.8.4
 
 GENERATION:
-ANA(M) > WAV [24-bit/88.2KHz] > WAV [16-bit/44.1KHz] > FLAC [Level 8]
+ANA(M) > WAV [24-bit/88.2KHz] > WAV [24-bit/48KHz] > FLAC [Level 8]
 
 DURATION:
 27:53
@@ -26,14 +26,7 @@ SETLIST:
 07. Negative Creep
 
 CHECKSUM:
-f643f2f55932ecc1afa7471ed187ad4b *NIRVANA 1991-10-14a AUD#2 ANA(M)_00 Intro.flac
-6baae2f80ddd127bab003f586d38210d *NIRVANA 1991-10-14a AUD#2 ANA(M)_01 Where Did You Sleep Last Night.flac
-8079ff1cb08064074a02b781838a9be2 *NIRVANA 1991-10-14a AUD#2 ANA(M)_02 Dumb.flac
-3738779bb68f2593bfd0bf6180a60533 *NIRVANA 1991-10-14a AUD#2 ANA(M)_03 About A Girl.flac
-36b34f4216794a2fd7a74935db555265 *NIRVANA 1991-10-14a AUD#2 ANA(M)_04 Jesus Wants Me For A Sunbeam.flac
-146b9f957516cfe70fe3f9ff7bec11dd *NIRVANA 1991-10-14a AUD#2 ANA(M)_05 Been A Son.flac
-1c6365f02a306c86716d9347f3a77528 *NIRVANA 1991-10-14a AUD#2 ANA(M)_06 Something In The Way.flac
-e6fd04daa7dacf0346cb2bbb9cb8bb3e *NIRVANA 1991-10-14a AUD#2 ANA(M)_07 Negative Creep.flac
+1049be26c865a27b17c709b58fe5de22 *NIRVANA 1991-10-14a AUD#2 ANA(M) [24-48].flac
 
 RECORDED BY:
 Victor Stuhr

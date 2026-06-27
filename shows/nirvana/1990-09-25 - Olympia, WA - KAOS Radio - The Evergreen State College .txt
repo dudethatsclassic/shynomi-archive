@@ -1,32 +1,32 @@
-KURT COBAIN
+NIRVANA
 September 25, 1990
-KAOS Olympia Community Radio (Boy Meets Girl)
+KAOS Olympia Community Radio (The Boy Meets Girl Show)
 Olympia, WA
 
-DISC #1/1 (04:36)
+DISC #1/1 (4:42)
 -----------------
-01) Opinion
-02) Lithium (cuts out)
-03) Been A Son
-
-SOURCE (SBD #1b)
------------------
-Soundboard -> Unknown
+01) intro
+02) Opinion
+03) Lithium (cut)
 
 GENERATION
 -----------------
-Official CD "With The Lights Out, Disc #2" -> WAV [44.1kHz] -> FLAC [Level 8]
+FM -> ANA(x) -> DAT(1) -> WAV [48kHz] -> WAV [44.1kHz] -> FLAC [Level 8]
 
-EXTRACTION
+SOURCE (SBD#1c)
 -----------------
-Lite-On iHBS-112 -> Exact Audio Copy v1.00 beta 3 -> FLAC Frontend 1.7.1
+soundboard -> unknown
+
+TRANSFER
+-----------------
+Tascam DA-20 MKII -> Apogee S/PDIF cable -> LynxONE digital-in -> Adobe Audition 2.0 -> CD Wave 1.95.1 -> FLAC Frontend 1.7.1
 
 MD5 FINGERPRINTS
 -----------------
-1993925b8afa524f2857f358b85f46f9 *Nirvana-Related_1990-09-25_sbd1b_t01.flac
-33a75156999d4b42254eaa227caa2369 *Nirvana-Related_1990-09-25_sbd1b_t02.flac
-4090a780bc2b9fb1087d1572f5de79b1 *Nirvana-Related_1990-09-25_sbd1b_t03.flac
+ce9d23bb5f515e5d061137c3c164dfd3 *nirvana1990-09-25t01.flac
+81a698dd2170a4710ffdc0fe2ac0aa7f *nirvana1990-09-25t02.flac
+9d5b6561e420d64fb5adbd5f67763dc7 *nirvana1990-09-25t03.flac
 
-Extracted by PL.
+
+Transferred by Mike Ziegler.
 PLEASE DO NOT ENCODE TO MP3 OR SELL!
-NO TRADE

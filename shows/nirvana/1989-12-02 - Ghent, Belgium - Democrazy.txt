@@ -7,23 +7,22 @@ SOURCE (AUD #2):
 unknown > unknown
 
 TRANSFER:
-Nakamichi DR-8 > Echo Layla24 > Adobe Audition 2.0 > CD Wave 1.95.1 > FLAC frontend 1.7.1
+Nakamichi DR-3 > Midas Venice F32 console > Pro Tools 11HD > xACT 2.39
 
 GENERATION:
-ANA(x) > WAV [48kHz] > WAV [44.1kHz] > FLAC [Level 8]
+ANA(M) > WAV [24bit/48kHz] > WAV [16bit/44.1kHz] > FLAC [Level 8]
 
 LENGTH:
-56:35
+57:30
 
 NOTES:
-- Has some speed fluctuations throughout the recording.
-- Has dropouts in "About A Girl" and "Big Cheese."
+- Everything after the cut in 'Blew' was recorded on a second tape which sounds slightly worse.
 
 01. intro
 02. School
 03. Scoff
 04. I'm Gonna Booglarize You Baby (jam)
-05. jam
+05. Twilight Zone (jam)
 06. Love Buzz
 07. Floyd The Barber
 08. Dive
@@ -39,26 +38,35 @@ NOTES:
 18. Stain
 
 MD5 FINGERPRINTS:
-ad5c78c33ba8a457651cdbbd6b07ef28 *Nirvana_1989-12-02_AUD2_t01.flac
-09c3c74268ea57cb87e68bf8d11f3609 *Nirvana_1989-12-02_AUD2_t02.flac
-faef18f8b58e1d9ecc71cb19518bdccf *Nirvana_1989-12-02_AUD2_t03.flac
-32a74d7b1ef4ad5df043b251b07c26c0 *Nirvana_1989-12-02_AUD2_t04.flac
-d367f18da706636c3636cef17abcbe1a *Nirvana_1989-12-02_AUD2_t05.flac
-da66a9fa6e3217251d921e0fcea23062 *Nirvana_1989-12-02_AUD2_t06.flac
-452c189b11f02f2414ae548ce37e7e2b *Nirvana_1989-12-02_AUD2_t07.flac
-db0d2457b774e8b8efaecfb1658f0433 *Nirvana_1989-12-02_AUD2_t08.flac
-12fe445d3782edb1b793114199cbd264 *Nirvana_1989-12-02_AUD2_t09.flac
-a524d73be24103cc63cd4359872ba170 *Nirvana_1989-12-02_AUD2_t10.flac
-4297ed4c35a1dff5118919247b06ced1 *Nirvana_1989-12-02_AUD2_t11.flac
-6a5fa287d53b0ed25d7afc0c956d8a61 *Nirvana_1989-12-02_AUD2_t12.flac
-46eb09144302e60b5c71d235050ce01e *Nirvana_1989-12-02_AUD2_t13.flac
-e50f41e32f4f4290fee07e0708d3517c *Nirvana_1989-12-02_AUD2_t14.flac
-d964126649f3d74cea279632d79d5f3a *Nirvana_1989-12-02_AUD2_t15.flac
-fd4e7fa3df1a595e7a10a0116176f8b5 *Nirvana_1989-12-02_AUD2_t16.flac
-86c0f3e2668e0046487fa41d9eb330b9 *Nirvana_1989-12-02_AUD2_t17.flac
-a62bfb7f87f66c5a2fe2e999d33b6a08 *Nirvana_1989-12-02_AUD2_t18.flac
+d0ad5478557454135141120e5fc194df *01 Intro.flac
+29747a6abd5da5b828c7e897c8a80a91 *02 School.flac
+f9ce4bc5da269978c745aa8987d6742d *03 Scoff.flac
+a525f4bdd3fdbe5362ddec5df2ed39cd *04 I'm Gonna Booglarize You Baby.flac
+e990dbd77ed118d29013b681b8ecc8cf *05 Twilight Zone jam.flac
+8651edbc65023c6642b4baa260be6d5e *06 Love Buzz.flac
+0a2012f47598194c4d30966da844344d *07 Floyd The Barber.flac
+7b4c522f110c94f05dd0fd1f2e0b0bf9 *08 Dive.flac
+412de9743c95c32c14de2f609f0d9a8f *09 Sappy.flac
+c35629e559dfaaff496a334067e4ac25 *10 Spank Thru.flac
+b6cbf775205b49e28feb6bb6b4b7f8e8 *11 About A Girl.flac
+46291efdde1943453d52d4377a44ef8a *12 Breed.flac
+687fd262a5edf359ee78134723bbba92 *13 Big Cheese.flac
+0c79fb14eed7f673ed699684fbed4374 *14 Molly's Lips.flac
+0f3cfa149ce1e7783a936e4ff43407d8 *15 Been A Son.flac
+40fb903c0cf9421cc0d066c005bf3458 *16 Negative Creep.flac
+a39ff2a7c860a4f125b73dd9a3a48844 *17 Blew.flac
+3e14c7bcce3bfc497815e7d94aa4d022 *18 Stain.flac
 
 TRANSFERRED BY:
-Kris Sproul
+Nick Habermehl
+
+
+
+TAPE PROVIDED BY:
+
+Martin Vantomme
+
+Speed Correction, L/R Channel Volume Standardization [and EQ matching on end segment on bonus tracks]:
+Mike Wilkinson
 
 PLEASE DO NOT SELL OR ENCODE TO MP3

@@ -1,91 +1,16 @@
-NIRVANA
-June 23, 1989
-Rhino Records
-Westwood, CA
-
-SOURCES (AMT #1, AMT #2a, 06/24/89 live clips, spring 89 studio clips):
-unknown > unknown
-
-TRANSFER (AMT #1, AMT #2a, 06/24/89 live clips, spring 89 studio clips):
-JVC HR-S9911U > Sony DCR-TRV730 > IEEE 1394 > Adobe Premiere Pro 2.0 > TMPGEnc Plus 2.5 > Adobe Encore DVD 2.0
-
-GENERATION (AMT #1):
-VHS(1) > AVI [DV25] > M2V/WAV [8Mbps CBR/48kHz PCM] > DVDR(0)
-
-GENERATION (AMT #2a, 06/24/89 live clips, spring 89 studio clips):
-VHS(x) > AVI [DV25] > M2V/WAV [8Mbps CBR/48kHz PCM] > DVDR(0)
-
-LENGTH (AMT #1):
-34:46
-
-LENGTH (AMT #2):
-17:53
-
-LENGTH (06/24/89 live clips):
-0:35
-
-LENGTH (spring 89 studio clips):
-3:15
-
-NOTES:
-- AMT #1 is labeled "ANGLE 1" on the DVD.
-- AMT #2a is labeled "ANGLE 2" on the DVD.
-- The 06/24/89 live clips are from Al's Bar, Los Angeles, CA.
-- The spring 89 studio clips are from The Evergreen State College, Olympia, WA.
-- The spring 89 studio clips have many glitches from the source tape, some of which became very blocky when digitized.
-
-CHAPTERS (AMT #1):
-01. School (cuts in)
-02. Floyd The Barber (cuts in)
-03. Love Buzz
-04. Big Cheese
-05. About A Girl (cuts in)
-06. Sifting (cuts in)
-07. Spank Thru
-08. Dive
-09. Polly
-10. Negative Creep
-11. Blew
-
-CHAPTERS (AMT #2a):
-01. Love Buzz (cuts in, cut)
-02. Big Cheese (cuts in, cut)
-03. About A Girl (cuts in, cut)
-04. Sifting (cuts in, cut)
-05. Spank Thru (cuts in)
-06. Dive (cuts in)
-
-CHAPTERS (06/24/89 live clips):
-01. School (clips)
-
-CHAPTERS (spring 89 studio clips):
-01. Dive (clips)
-
-MD5 FINGERPRINTS:
-9f7225c950c795107f709a3774fd5634 *VIDEO_TS/VIDEO_TS.BUP
-9f7225c950c795107f709a3774fd5634 *VIDEO_TS/VIDEO_TS.IFO
-ebf137909fb841b9a08fee50d55532e7 *VIDEO_TS/VIDEO_TS.VOB
-7c93a870692ed067764831d85c6580bb *VIDEO_TS/VTS_01_0.BUP
-7c93a870692ed067764831d85c6580bb *VIDEO_TS/VTS_01_0.IFO
-76563b4f5c55ee04a9581d2c7046646d *VIDEO_TS/VTS_01_0.VOB
-145116c396b962fd62fe45142ee0ae07 *VIDEO_TS/VTS_01_1.VOB
-110b70d99e2c01cec873834a4369efaa *VIDEO_TS/VTS_01_2.VOB
-946c891712fb3f101146f8b246b1c167 *VIDEO_TS/VTS_01_3.VOB
-8a6dfd22b45ee52a6617c3cd8d1ccc2b *VIDEO_TS/VTS_02_0.BUP
-8a6dfd22b45ee52a6617c3cd8d1ccc2b *VIDEO_TS/VTS_02_0.IFO
-ebf137909fb841b9a08fee50d55532e7 *VIDEO_TS/VTS_02_0.VOB
-1b2ce0556a0b8cf4fe472bbe097351a9 *VIDEO_TS/VTS_02_1.VOB
-b3f36945c41c04c8d3a4f39f189e59f2 *VIDEO_TS/VTS_02_2.VOB
-5db010e7b523cf95b608bf9b06dc5540 *VIDEO_TS/VTS_03_0.BUP
-5db010e7b523cf95b608bf9b06dc5540 *VIDEO_TS/VTS_03_0.IFO
-ebf137909fb841b9a08fee50d55532e7 *VIDEO_TS/VTS_03_0.VOB
-179084f8a0875d7e638e632e5dcfdc96 *VIDEO_TS/VTS_03_1.VOB
-be48141fc5313976f89e421846356ac8 *VIDEO_TS/VTS_04_0.BUP
-be48141fc5313976f89e421846356ac8 *VIDEO_TS/VTS_04_0.IFO
-ebf137909fb841b9a08fee50d55532e7 *VIDEO_TS/VTS_04_0.VOB
-c10ec02dc2823ed13c031d86021c2eb2 *VIDEO_TS/VTS_04_1.VOB
-
-TRANSFERRED BY:
-Kris Sproul
-
-PLEASE DO NOT SELL OR ENCODE TO ANY OTHER FORMAT
+Nirvana
+06/23/89
+Rhino Records Westwood, Los Angeles, CA
+
+
+0:24 School
+3:00 Floyd The Barber
+5:12 Love Buzz
+8:22 Big Cheese
+12:01 About A Girl
+14:30 Sifting
+19:34 Spank Thru
+22:32 Dive
+26:14 Polly
+28:57 Negative Creep
+31:35 Blew 

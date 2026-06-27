@@ -1,31 +1,27 @@
-NIRVANA
-November 1, 1989
-Villa 65 (Nozems-a-GoGo)
-Hilversum, The Netherlands
+Nirvana
+Villa 65, Hilversum, Netherlands
+November 1st, 1989
+--------------------------------
 
-SOURCE (SBD #1a):
-soundboard > unknown
+Tracklisting
+o Dive
+o About a Girl
 
-TRANSFER:
-Nakamichi CR-7A > Hosa RCA cable > PreSonus FireStudio Project > Adobe Audition 3.0 > CD Wave 1.98 > Trader's Little Helper 2.6.0
+Source (SBD#1b)
+Unofficial CD, "Outcesticide III"
 
-GENERATION:
-FM > ANA(1) > WAV [48kHz] > WAV [44.1kHz] > FLAC [Level 8]
+Generation
+CD(M) > WAV [44.1kHz] > FLAC [Level 8]
 
-LENGTH:
-10:21
+Transfer
+HP Pavilion a6230.uk > Exact Audio Copy v.0.99 prebeta 4 > Mediacoder v.0.6.1
 
-TRACKS:
-01. Love Buzz
-02. Dive
-03. About A Girl
+Notes
+o This source is less complete, and lower sound quality than SBD#1a, but features some between song-banter not found on any other source.
 
-MD5 FINGERPRINTS:
-a9ed62f61b55cf8557fba06254c22f54 *Nirvana_1989-11-01_early_SBD1a_t01.flac
-a98e271a4a4f3968552379607378a455 *Nirvana_1989-11-01_early_SBD1a_t02.flac
-68e83fc80427d4eebfc988003bd8af68 *Nirvana_1989-11-01_early_SBD1a_t03.flac
+MD5 Fingerprints
+6e46f047f395163c823702a03ff5376a *16. Dive.flac
+4c8b10aa3eb31fa432a272fa5735c433 *17. About A Girl.flac
 
-TRANSFERRED BY:
-Mike Ziegler
-
-PLEASE DO NOT SELL OR ENCODE TO MP3
+Extracted by Martin Donohoe.
+Please do not encode to lossy formats and/or sell.

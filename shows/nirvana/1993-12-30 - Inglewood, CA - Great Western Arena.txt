@@ -1,79 +1,34 @@
-NIRVANA
-December 30, 1993
-Great Western Forum
-Inglewood, CA
+Generation: VID(1)>DVDR - 2 discs
+Source: AMT #2 - amateur video "semi-pro"
+Length: 70 mins - incomplete
 
-SOURCE (AUD #2):
-Sony PC-62 > Sony WM-D3
+Transferred by: Barry Lajnwand
+Video: 8 mb/s MPEG2 CBR
+Audio: 48Khz PCM WAV
 
-TRANSFER:
-Nakamichi CR-7A > Sound Devices USBPre2 > BIAS Peak 6.0 > Adobe Audition 3.0 > CD Wave 1.98 > Trader's Little Helper 2.7.0
+http://www.livenirvana.com/dvd/1993/dvd_12-30-93b.php
 
-GENERATION:
-ANA(M) > WAV [48kHz] > WAV [44.1kHz] > FLAC [Level 8]
+Set: 
+Radio Friendly Unit Shifter 
+Drain You 
+Breed 
+Serve The Servants 
+Come As You Are 
+Smells Like Teen Spirit 
+Sliver 
+Dumb (cuts in) 
+In Bloom 
+About A Girl 
+Lithium 
+Pennyroyal Tea 
+School 
+Frances Farmer Will Have Her Revenge On Seattle (cuts in) 
+Rape Me 
+Territorial Pissings 
+Jesus Wants Me For A Sunbeam (has a cut in) 
+The Man Who Sold The World 
+All Apologies 
+On A Plain (cuts out) 
 
-LENGTH:
-99:14
-
-NOTES:
-- "Pennyroyal Tea" cuts in due to a tape flip.
-- "Blew" is cut due to a tape swap.
-
-TRACKS (DISC 1):
-01. intro
-02. Radio Friendly Unit Shifter
-03. Drain You
-04. Breed
-05. Serve The Servants
-06. Come As You Are
-07. Smells Like Teen Spirit
-08. Sliver
-09. Dumb
-10. In Bloom
-11. About A Girl
-12. Lithium
-
-TRACKS (DISC 2):
-01. Pennyroyal Tea (cuts in)
-02. School
-03. Polly
-04. Frances Farmer Will Have Her Revenge On Seattle
-05. Rape Me
-06. Territorial Pissings
-07. Jesus Wants Me For A Sunbeam
-08. The Man Who Sold The World
-09. All Apologies
-10. On A Plain
-11. Heart-Shaped Box
-12. Blew (cut)
-
-MD5 FINGERPRINTS:
-5758714bb8268f3cadacac9c6d4bd09f *Nirvana_1993-12-30_AUD2_d1t01.flac
-972a3af732f3b339afbd37acfae2e558 *Nirvana_1993-12-30_AUD2_d1t02.flac
-43406906b6dcef22786f2371063521d7 *Nirvana_1993-12-30_AUD2_d1t03.flac
-550602c2d8c583bd846de12b72fbaa7c *Nirvana_1993-12-30_AUD2_d1t04.flac
-9286042134a9c49dd5d26430583e6b0c *Nirvana_1993-12-30_AUD2_d1t05.flac
-c67026e3f3c1623534b85a09a1df01d1 *Nirvana_1993-12-30_AUD2_d1t06.flac
-70ee689b60b6e0e5b5e12700095f24dc *Nirvana_1993-12-30_AUD2_d1t07.flac
-d2aa5a660c58de9291173695ce5bdaa7 *Nirvana_1993-12-30_AUD2_d1t08.flac
-3874fb8d59fbeb859f5d803a3ebc1558 *Nirvana_1993-12-30_AUD2_d1t09.flac
-e03fa67a385a94ca060e7c065c4a5d58 *Nirvana_1993-12-30_AUD2_d1t10.flac
-5713e1d0e41be2162270ef7281f2dd94 *Nirvana_1993-12-30_AUD2_d1t11.flac
-da448dde9f6e98f868dbdfc820b0c2ff *Nirvana_1993-12-30_AUD2_d1t12.flac
-ed90f51747bb296d860c81b668ad60fc *Nirvana_1993-12-30_AUD2_d2t01.flac
-409d36e8f2f037b5ca96c8e61435c6b9 *Nirvana_1993-12-30_AUD2_d2t02.flac
-2d054ba1a70243ef7cf6833722dfff93 *Nirvana_1993-12-30_AUD2_d2t03.flac
-2035a916abc2481e9345614577033bdd *Nirvana_1993-12-30_AUD2_d2t04.flac
-68b1529be194cab0a8803004ef2139ef *Nirvana_1993-12-30_AUD2_d2t05.flac
-7d86d5d574e605123a668115b7498497 *Nirvana_1993-12-30_AUD2_d2t06.flac
-16e8650022ad6725a00fab84a19e86e8 *Nirvana_1993-12-30_AUD2_d2t07.flac
-9f7a57d60d20f6bd07cec7bd28b3503b *Nirvana_1993-12-30_AUD2_d2t08.flac
-8e86e5d2f0ea9e4bf698b163ef0a0a82 *Nirvana_1993-12-30_AUD2_d2t09.flac
-b3ef5eaad114f8d0423cc3736467300e *Nirvana_1993-12-30_AUD2_d2t10.flac
-ad1668d41cc0bacbcaf3942e7fa613a8 *Nirvana_1993-12-30_AUD2_d2t11.flac
-6e67253295eff36ba8dbb798e60bf44d *Nirvana_1993-12-30_AUD2_d2t12.flac
-
-TRANSFERRED BY:
-JEMS
-
-PLEASE DO NOT SELL OR ENCODE TO MP3
+Generation:
+VID(1) > DVDR(X) > HDD [not known how many copies of this DVD have been made]

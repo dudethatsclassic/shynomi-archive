@@ -1,82 +1,80 @@
 NIRVANA
 November 9, 1993
-Stabler Arena, Lehigh University,
+Stabler Arena, Lehigh University
 Bethlehem, PA
 
-SOURCE (AMT #2):
-unknown > unknown (Video8)
+DISC #1/2 (46:55)
+-----------------
+01) Radio Friendly Unit Shifter
+02) Drain You
+03) Breed
+04) Serve The Servants
+05) About A Girl
+06) Heart-Shaped Box
+07) Sliver
+08) Dumb
+09) Come As You Are
+10) Lithium
+11) Pennyroyal Tea
+12) School
+13) Polly
 
-TRANSFER:
-JVC HM-DH30000u > Pinnacle 700 USB > Virtual Dub > Cinema Craft Encoder
+DISC #2/2 (41:37)
+-----------------
+01) Milk It
+02) Rape Me
+03) Territorial Pissings
+04) Smells Like Teen Spirit
+05) All Apologies
+06) Jesus Wants Me For A Sunbeam
+07) In Bloom
+08) On A Plain
+09) Scentless Apprentice
+10) Blew
 
-EXTRACTION:
-Pioneer DVR-109 > DVD Decrypter 3.5.4.0 > HeadAC3he v0.23a > Adobe Audition 3.0 > CD Wave 1.98 > Flac Frontend 1.7.1
+GENERATION
+-----------------
+DAT(M) -> DAT(1) -> WAV [48kHz] -> WAV [44.1kHz] -> FLAC [Level 8]
 
-GENERATION:
-8MM(M) > MDV(2) > DVD9-R(1) > AC3 [384  kbps @ 48kHz] > WAV [48 kHz] > WAV [44.1 kHz] > FLAC [Level 8]
+SOURCE (AUD#1)
+-----------------
+Sonic Studios DSM-6 -> Sony TCD-D7
 
-LENGTH:
-84:11
+TRANSFER
+-----------------
+Tascam DA-20 MKII -> Apogee S/PDIF cable -> LynxONE digital-in -> Adobe Audition 2.0 -> CD Wave 1.95.1 -> FLAC Frontend 1.7.1
 
-NOTES:
-- This was not torrented back in 2005, so DVD9-R(1) is the lowest generation possible
-- Manually attenuated a few digital glitches during "Radio Friendly Unit Shifter", "About A Girl", "Milk It" and "Territorial Pissings"
-- Normalized
+NOTES
+-----------------
+- Has sound fluctuations due to the taper moving around during the first two songs.
+- Has various taper-related noises throughout the show.
 
-TRACKS:
-01. Radio Friendly Unit Shifter (cuts in)
-02. Drain You
-03. Breed
-04. Serve The Servants
-05. About A Girl
-06. Heart-Shaped Box
-07. Sliver
-08. Dumb
-09. Come As You Are
-10. Lithium
-11. Pennyroyal Tea
-12. School
-13. Polly
-14. Milk It
-15. Rape Me
-16. Territorial Pissings
-17. Smells Like Teen Spirit
-18. All Apologies
-19. Jesus Wants Me For A Sunbeam
-20. In Bloom
-21. On A Plain
-22. Scentless Apprentice
-23. Blew
+MD5 FINGERPRINTS
+-----------------
+608a7be465162047d1e639a008cc7615 *nirvana1993-11-09d1t01.flac
+ace3d4e0bca28dffba641251f08f882f *nirvana1993-11-09d1t02.flac
+ebfc8295c7c303e925a51975ee7311de *nirvana1993-11-09d1t03.flac
+61f89dde1161e8bdfd5e191f03709eb9 *nirvana1993-11-09d1t04.flac
+213830932347ff9785fd718fd57e0077 *nirvana1993-11-09d1t05.flac
+34b4078efcbcc861ff2126f4277c8cc8 *nirvana1993-11-09d1t06.flac
+b8165d33d21067fe34effa5404b81cd0 *nirvana1993-11-09d1t07.flac
+1dda6be3855c6c991288f91068b4f4da *nirvana1993-11-09d1t08.flac
+31f4e7beedff3dff9026ed636e2113d9 *nirvana1993-11-09d1t09.flac
+6705399798a7c4c30373f1c2a8c29ae9 *nirvana1993-11-09d1t10.flac
+2ceebd1bad4462ca555038c51a56a2d5 *nirvana1993-11-09d1t11.flac
+165ebb268b7d68d6519a6fc982dae0dc *nirvana1993-11-09d1t12.flac
+82c63da4d50ae81eddfe2c9b581cadda *nirvana1993-11-09d1t13.flac
+5cdbc7d5c2f67cb932b7c5712f084cd0 *nirvana1993-11-09d2t01.flac
+daab41d9fc1f23809a841a02e745c341 *nirvana1993-11-09d2t02.flac
+3a129ff3ab6197cd4a192e52fac8cbf3 *nirvana1993-11-09d2t03.flac
+f0be5d38dbfce8d7b448565ef7c35fe7 *nirvana1993-11-09d2t04.flac
+b018eb9a2e2d64f1eae71845ec454a27 *nirvana1993-11-09d2t05.flac
+706d21a6d3bfc560b778daa7e6965282 *nirvana1993-11-09d2t06.flac
+b32eec939d2f82b16ea2de09d1e76105 *nirvana1993-11-09d2t07.flac
+d659351efc80bda1e53360a0fbfeefef *nirvana1993-11-09d2t08.flac
+1600fbaa2bb7222d9cce026ab3318195 *nirvana1993-11-09d2t09.flac
+19d18ae8ceba3bb01f4b3cef87ec591a *nirvana1993-11-09d2t10.flac
 
-MD5 FINGERPRINTS:
-e5cb00fee30de1107f504fe7309d3d56 *nirvana_1993-11-09_amt2_8mm-mdv2-dvdr1-ac3_t01.flac
-49866d6798d960bb3c3726ef50834ddf *nirvana_1993-11-09_amt2_8mm-mdv2-dvdr1-ac3_t02.flac
-7129619b67f9ed1db34db7c765931f59 *nirvana_1993-11-09_amt2_8mm-mdv2-dvdr1-ac3_t03.flac
-b402b7cd60a54d00b9f15794d7ae7d4a *nirvana_1993-11-09_amt2_8mm-mdv2-dvdr1-ac3_t04.flac
-fcc0543d392065cf61b816abf9aee353 *nirvana_1993-11-09_amt2_8mm-mdv2-dvdr1-ac3_t05.flac
-f628ca2bd646568b214f95eeec13a245 *nirvana_1993-11-09_amt2_8mm-mdv2-dvdr1-ac3_t06.flac
-22d898dbeb5e360b283a7bac6b506475 *nirvana_1993-11-09_amt2_8mm-mdv2-dvdr1-ac3_t07.flac
-5b7af9582721277f36f3f7d1de0df81e *nirvana_1993-11-09_amt2_8mm-mdv2-dvdr1-ac3_t08.flac
-dc520a73464ed30ad2b8ece6dbca7833 *nirvana_1993-11-09_amt2_8mm-mdv2-dvdr1-ac3_t09.flac
-e86e767307976e185e021a63c3aca3fa *nirvana_1993-11-09_amt2_8mm-mdv2-dvdr1-ac3_t10.flac
-98f4e8e5b86fa7701fe64c3837e572f2 *nirvana_1993-11-09_amt2_8mm-mdv2-dvdr1-ac3_t11.flac
-045b2d74ee2a2d57e511530fd923e904 *nirvana_1993-11-09_amt2_8mm-mdv2-dvdr1-ac3_t12.flac
-6fb146f7c2b19e8de46f64de2aac3ca0 *nirvana_1993-11-09_amt2_8mm-mdv2-dvdr1-ac3_t13.flac
-f5d4529999d33b0428a920454047b91d *nirvana_1993-11-09_amt2_8mm-mdv2-dvdr1-ac3_t14.flac
-91254a4644391b4cdc2e5ba6d4f769b7 *nirvana_1993-11-09_amt2_8mm-mdv2-dvdr1-ac3_t15.flac
-b5e3306ac144608f14a69170441c559c *nirvana_1993-11-09_amt2_8mm-mdv2-dvdr1-ac3_t16.flac
-478f452b028cee83eb5de16f678bf815 *nirvana_1993-11-09_amt2_8mm-mdv2-dvdr1-ac3_t17.flac
-e9039cb2675d2c7e9efaa787467e0ecd *nirvana_1993-11-09_amt2_8mm-mdv2-dvdr1-ac3_t18.flac
-cde1e7958bb023012240c2450b39fa4e *nirvana_1993-11-09_amt2_8mm-mdv2-dvdr1-ac3_t19.flac
-2c2fed9741b7216d9fa2b219fdf587ab *nirvana_1993-11-09_amt2_8mm-mdv2-dvdr1-ac3_t20.flac
-7ee7bf89c331ce64c1e4fe5d36f15bad *nirvana_1993-11-09_amt2_8mm-mdv2-dvdr1-ac3_t21.flac
-495cd27df4db3ea20b55152df58428b2 *nirvana_1993-11-09_amt2_8mm-mdv2-dvdr1-ac3_t22.flac
-d8f3123a82109cab52fd81b2f9f60680 *nirvana_1993-11-09_amt2_8mm-mdv2-dvdr1-ac3_t23.flac
 
-TRANSFERRED BY:
-Bill Mayer
-
-EXTRACTED BY:
-Pierre Leroy
-
-PLEASE DO NOT SELL OR ENCODE TO MP3
+Transferred by Mike Ziegler.
+PLEASE DO NOT ENCODE TO MP3 OR SELL!

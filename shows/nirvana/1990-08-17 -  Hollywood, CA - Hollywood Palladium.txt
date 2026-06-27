@@ -3,63 +3,49 @@ August 17, 1990
 Hollywood Palladium
 Hollywood, CA
 
-DISC #1/1 (51:35)
------------------
-SOUNDCHECK
-01) In Bloom
-02) Floyd The Barber
-03) Verse Chorus Verse
+SOURCE (SBD #2):
+soundboard > unknown
 
-SET
-04) intro
-05) Love Buzz
-06) Floyd The Barber
-07) Scoff
-08) Dive
-09) About A Girl
-10) Spank Thru
-11) Breed
-12) In Bloom
-13) School
-14) Been A Son
-15) Negative Creep
-16) Blew
+TRANSFER:
+Nakamichi CR-7A > PreSonus FireStudio Project > Adobe Audition 3.0 > CD Wave 1.98 > Trader's Little Helper 2.7.0
 
-GENERATION
------------------
-ANA(M) -> DAT(2) -> WAV [48kHz] -> WAV [44.1kHz] -> FLAC [Level 8]
+GENERATION:
+ANA(M) > WAV [96kHz/24bit] > WAV [44.1kHz/16bit] > FLAC [Level 8]
 
-SOURCE (AUD#1)
------------------
-soundboard -> Sony WM-D6
+LENGTH:
+40:46
 
-TRANSFER
------------------
-Tascam DA-20 MKII -> Apogee S/PDIF cable -> LynxONE digital-in -> Adobe Audition 2.0 -> CD Wave 1.95.1 -> FLAC Frontend 1.7.1
+TRACKS:
+01. intro
+02. Love Buzz
+03. Floyd The Barber
+04. Scoff
+05. Dive
+06. About A Girl
+07. Spank Thru
+08. Breed
+09. In Bloom
+10. School
+11. Been A Son
+12. Negative Creep
+13. Blew
 
-NOTES
------------------
-There is some minor digital noise during the intro track.
+MD5 FINGERPRINTS:
+858c1e5bc9ffb49009a4457ff94ca5fc *Nirvana_1990-08-17_SBD2_t01.flac
+a55aab47b73ede09515aac4f9ed5bd06 *Nirvana_1990-08-17_SBD2_t02.flac
+b09bbb4916cb5d1c872cfaa9b4072125 *Nirvana_1990-08-17_SBD2_t03.flac
+8e9313ade50f7e639e18b2f929654032 *Nirvana_1990-08-17_SBD2_t04.flac
+0e9750d2b9a6677542fa0d53f9f69f63 *Nirvana_1990-08-17_SBD2_t05.flac
+6b8d5dc626dc8e0aca910c87d41eac25 *Nirvana_1990-08-17_SBD2_t06.flac
+b3ac0ce2e2a7317a34f82a3937fdda36 *Nirvana_1990-08-17_SBD2_t07.flac
+a5e9f24e6ff0a4e53d3a4574eab305ea *Nirvana_1990-08-17_SBD2_t08.flac
+dd0fea73e6c4057e10a0bfdbcf5d5b49 *Nirvana_1990-08-17_SBD2_t09.flac
+d79400b586a94114bae6d708a765b86d *Nirvana_1990-08-17_SBD2_t10.flac
+7199c92d50a335028ebf084c804c7a1f *Nirvana_1990-08-17_SBD2_t11.flac
+f77d7498d0aec991f3536c52e11a22e3 *Nirvana_1990-08-17_SBD2_t12.flac
+40cebc5d51e74cf55f7751e32bf1acee *Nirvana_1990-08-17_SBD2_t13.flac
 
-MD5 FINGERPRINTS
------------------
-1a36283678899e01b2a1aba450d17157 *nirvana1990-08-17t01.flac
-5b802ef164c0c5830d7f8823623596f9 *nirvana1990-08-17t02.flac
-55212c1adc1384f3ca8952a7a0847252 *nirvana1990-08-17t03.flac
-175d564108f38aaee09ed2f1ee1a3691 *nirvana1990-08-17t04.flac
-fe4b496ec8c6fbd041a0248f43765824 *nirvana1990-08-17t05.flac
-85eec09b0134e11f67d12e2c548a766f *nirvana1990-08-17t06.flac
-bfa300692e3a7600866fa5ea643d7e4a *nirvana1990-08-17t07.flac
-3ebdecd6ed6e4bebc742ba06f2153b4c *nirvana1990-08-17t08.flac
-c7de8ebee7ef708bd75db0895d7e7ded *nirvana1990-08-17t09.flac
-cc100688dc5408b4292d8bf03aec3d14 *nirvana1990-08-17t10.flac
-373c69a98242347fcb0d1081cc505246 *nirvana1990-08-17t11.flac
-f73aca0f0fa3488e8c04f2e85eca861f *nirvana1990-08-17t12.flac
-15db9ea200096a1f545c2f6fca5e1459 *nirvana1990-08-17t13.flac
-9b0743893e20ba370dbf5e5865f5a0e3 *nirvana1990-08-17t14.flac
-f9fb5b649c6a83a017bab390b9a79c00 *nirvana1990-08-17t15.flac
-d462d479192436be1c238671e2d2784b *nirvana1990-08-17t16.flac
+TRANSFERRED BY:
+Mike Ziegler
 
-
-Transferred by Mike Ziegler.
-PLEASE DO NOT ENCODE TO MP3 OR SELL!
+PLEASE DO NOT SELL OR ENCODE TO MP3

@@ -1,26 +1,35 @@
-NIRVANA / Ted Ed Fred
+NIRVANA
 January 24, 1988
+RadioShack
 Aberdeen, WA
-Radio Shack
 
+SOURCE (AMT #1):
+unknown > unknown
 
-TV>VID(4)>miniDV(1)>DVD(3)-> HDD  
-When burnt, your copy will be DVD(4)
+TRANSFER:
+JVC HR-S9911U > Canopus ADVC-300 > IEEE 1394 > Adobe Premiere Pro CS6 > Adobe Audition 3.0 > CD Wave 1.98 > Trader's Little Helper 2.7.0
 
-Paper Cuts (clips)
-If You Must (clips)
+GENERATION:
+VHS(1) > AVI [PCM] > WAV [48kHz] > WAV [44.1kHz] > FLAC [Level 8]
 
-This was originally broadcast on "American Journal" in 1994. American Journal is a TV program that has aired exclusive NIRVANA content several times, stemming from favorable and close ties to Courtney Love. In this segment, Eric Harder, a producer of this early NIRVANA video shoot, is filmed giving his tape to a grieving Courtney, accompanied by Kat Bjelland. 
+LENGTH:
+17:21
 
-It is unknown whether this tape in a more complete form will ever see the light of day.  If so, it would likely be on a future NIRVANA release and not through unauthorized fan distribution.
+TRACKS:
+01. If You Must (part of)
+02. If You Must
+03. If You Must
+04. Paper Cuts
+05. Paper Cuts
 
-In the segments here, Kurt and Krist mime along with their guitars to the 1.23.88 demo recording.  Dave Crover plays live drums and those can be heard in several segments.  
+MD5 FINGERPRINTS:
+42a6fac397a695af274ab6c09d3018e9 *Nirvana_1988-01-24_AMT1_t01.flac
+298bfba9966d4a78e26d0d484c28a84d *Nirvana_1988-01-24_AMT1_t02.flac
+3a76e112ab6b364d1eff1ddcc933e248 *Nirvana_1988-01-24_AMT1_t03.flac
+f7889586bc60c7d62112ef149fb501f3 *Nirvana_1988-01-24_AMT1_t04.flac
+fd5f112e0664e029e0eb67d13f4ac312 *Nirvana_1988-01-24_AMT1_t05.flac
 
+TRANSFERRED BY:
+Mike Ziegler
 
-a3d0e2e57eac809b2a9cd3891177e089 *VIDEO_TS.BUP
-a3d0e2e57eac809b2a9cd3891177e089 *VIDEO_TS.IFO
-6d7e66ba33c2a0c3e1d61cc43aaceffd *VIDEO_TS.VOB
-ccab2e6ca8cdf5dc8a586ef95ef45e46 *VTS_01_0.BUP
-ccab2e6ca8cdf5dc8a586ef95ef45e46 *VTS_01_0.IFO
-287a0d1166dbe53bf15db63a440b8bdd *VTS_01_0.VOB
-54b03b84cdb1960c2a6f8409a34a971e *VTS_
+PLEASE DO NOT SELL OR ENCODE TO MP3

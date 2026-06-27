@@ -7,10 +7,10 @@ SOURCE (SBD #1):
 soundboard > unknown
 
 TRANSFER:
-Nakamichi CR-7A > DBX Model 224 > PreSonus FireStudio Project > Adobe Audition 3.0 > CD Wave 1.98 > Trader's Little Helper 2.7.0
+Nakamichi CR-7A > DBX Model 224 > PreSonus FireStudio Project > Adobe Audition 3.0 > Trader's Little Helper 2.7.0
 
 GENERATION:
-ANA(M) > WAV [96kHz/24bit] > WAV [44.1kHz/16bit] > FLAC [Level 8]
+ANA(M) > WAV [96kHz/24bit] > FLAC [Level 8]
 
 LENGTH:
 58:29
@@ -36,24 +36,7 @@ TRACKS:
 18. Bad Moon Rising
 
 MD5 FINGERPRINTS:
-6ef94b71228afb062e07854d9f9ea976 *Nirvana_1988-03-19_SBD1_t01.flac
-add494dc2a28c05e8f6a4bbd9a746359 *Nirvana_1988-03-19_SBD1_t02.flac
-9b22fd3700c61cec5209b38e03d10b60 *Nirvana_1988-03-19_SBD1_t03.flac
-bb9d42720aab7a096b74e7c9a78793ac *Nirvana_1988-03-19_SBD1_t04.flac
-c41557b5ddacf6d1a31713db8bd00fab *Nirvana_1988-03-19_SBD1_t05.flac
-e90446c954510adc78e22903d0e213f9 *Nirvana_1988-03-19_SBD1_t06.flac
-947b4df873c8efa1dd0a068c8d5f827f *Nirvana_1988-03-19_SBD1_t07.flac
-14cdb66dec7d02dca15feb23cd8250fc *Nirvana_1988-03-19_SBD1_t08.flac
-98ed7c9ca08d1d1d22e01f28533db28b *Nirvana_1988-03-19_SBD1_t09.flac
-4d28c879060191873affaea8a0d3b295 *Nirvana_1988-03-19_SBD1_t10.flac
-e9f4f89ebe53ba569a28f5cd782d9bbf *Nirvana_1988-03-19_SBD1_t11.flac
-8ec7a45216d6d575e6c96735cf45faff *Nirvana_1988-03-19_SBD1_t12.flac
-1d2f5bfe90d53807b8968a9251367c55 *Nirvana_1988-03-19_SBD1_t13.flac
-c8a5f58902611f13fdd5c40cf7ea6517 *Nirvana_1988-03-19_SBD1_t14.flac
-f744d852c4b1ded70ee9110a622f2229 *Nirvana_1988-03-19_SBD1_t15.flac
-8d11d71fde26c46fd8e95aef90f2b16a *Nirvana_1988-03-19_SBD1_t16.flac
-28c9b594d78a1b544f766477a5216045 *Nirvana_1988-03-19_SBD1_t17.flac
-d5517695eeea5922213f367424873569 *Nirvana_1988-03-19_SBD1_t18.flac
+50fd5ebcc6ca940bed93a2cb9d24e3dd *Nirvana_1988-03-19_SBD1_96-24.flac
 
 TRANSFERRED BY:
 Mike Ziegler

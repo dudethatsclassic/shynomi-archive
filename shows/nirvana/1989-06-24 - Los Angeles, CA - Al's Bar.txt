@@ -3,47 +3,47 @@ June 24, 1989
 Al's Bar
 Los Angeles, CA
 
-SOURCE (AMT #1):
-unknown > unknown
+SOURCE (AUD #1):
+built-in > Toshiba KT-R2
 
 TRANSFER:
-JVC HR-S9911U > Canopus ADVC-300 > IEEE 1394 > Adobe Premiere Pro CS5 > Adobe Audition 3.0 > CD Wave 1.98 > Trader's Little Helper 2.6.0
+Tascam CD-A580 > Tascam DR-100mkIII > Adobe Audition 3.0 > CD Wave 1.98 > Trader's Little Helper 2.7.0
 
 GENERATION:
-VHS(1) > AVI [PCM] > WAV [48kHz] > WAV [44.1kHz] > FLAC [Level 8]
+ANA(M) > WAV [44.1kHz/16bit] > FLAC [Level 8]
 
 LENGTH:
-14:54
+42:11
 
 TRACKS:
-01. School (cuts in, cut)
-02. Floyd The Barber (cuts in, cut, cuts out)
-03. Love Buzz (cuts in, cut, cuts out)
-04. Scoff (cuts in, cut, cuts out)
-05. Paper Cuts (cuts in, cut, cuts out)
-06. Spank Thru (cuts in, cut, cuts out)
-07. Dive (cuts in, cut, cuts out)
-08. About A Girl (cuts in, cut)
-09. Polly (cuts in, cut, cuts out)
-10. Big Cheese (cuts in, cut)
-11. Negative Creep (cuts in, cut)
-12. Blew (cuts in, cut, cuts out)
+01. School (cuts in)
+02. Floyd The Barber
+03. Love Buzz
+04. Scoff
+05. Paper Cuts
+06. Spank Thru
+07. Dive
+08. About A Girl
+09. Polly
+10. Big Cheese
+11. Negative Creep
+12. Blew
 
 MD5 FINGERPRINTS:
-4ef37f2d18438aafce7f76942d725b7a *Nirvana_1989-06-24_AMT1_t01.flac
-36e6f2cef4013969c9cd55047185bf15 *Nirvana_1989-06-24_AMT1_t02.flac
-4008b2de3c8233190576b01a6da377fc *Nirvana_1989-06-24_AMT1_t03.flac
-a2f79c71ccd49eee5e76b8af8b1947e6 *Nirvana_1989-06-24_AMT1_t04.flac
-ad511d8cd634b1a6a95f2fea2a0107e4 *Nirvana_1989-06-24_AMT1_t05.flac
-fa300905a352d81af3b5ce272eb33df4 *Nirvana_1989-06-24_AMT1_t06.flac
-e923e4476d2920f2ff47aec2367f5d0a *Nirvana_1989-06-24_AMT1_t07.flac
-1d1c1b07bf0aa3202d184c4196b62a89 *Nirvana_1989-06-24_AMT1_t08.flac
-ef500fdd967ac13e67b4994c202260f6 *Nirvana_1989-06-24_AMT1_t09.flac
-b3e29f4191c6b9e1a638548fd42821c0 *Nirvana_1989-06-24_AMT1_t10.flac
-2603813641b61e7dadf6ffe457b05200 *Nirvana_1989-06-24_AMT1_t11.flac
-9624288983ae00a47edb05e3938f9a54 *Nirvana_1989-06-24_AMT1_t12.flac
+239f2588317583ef7e3157d3da72932a *Nirvana_1989-06-24_AUD1_t01.flac
+e735680a36d5c1453a89c89c30288917 *Nirvana_1989-06-24_AUD1_t02.flac
+6435fd929e4412bccf78897ed75d432a *Nirvana_1989-06-24_AUD1_t03.flac
+abbddf7201ef9186ee35c8d141150464 *Nirvana_1989-06-24_AUD1_t04.flac
+2e70c36bcaaca18ee1501c67ffdbbafd *Nirvana_1989-06-24_AUD1_t05.flac
+d17ceb7ef0a849238fdf2b5990b8e2b9 *Nirvana_1989-06-24_AUD1_t06.flac
+af723b13928cc0ca849b191f14ce2086 *Nirvana_1989-06-24_AUD1_t07.flac
+0a6219731599f785d0d7e2836c568f62 *Nirvana_1989-06-24_AUD1_t08.flac
+e48ada2fb9dbc38611a5ae9b4e14f258 *Nirvana_1989-06-24_AUD1_t09.flac
+f4032cb38f045fb5f5411fe9b2658706 *Nirvana_1989-06-24_AUD1_t10.flac
+0f6d0504354f9dbacfcf4e914a841ec4 *Nirvana_1989-06-24_AUD1_t11.flac
+7e81b32f9918dcd34dcb56fb3cb14d2b *Nirvana_1989-06-24_AUD1_t12.flac
 
 TRANSFERRED BY:
-Mike Ziegler
+Bob Durkee & Mike Ziegler
 
 PLEASE DO NOT SELL OR ENCODE TO MP3

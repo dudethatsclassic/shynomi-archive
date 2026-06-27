@@ -1,64 +1,56 @@
 NIRVANA
-December 1st, 1989
-Fahrenheit, Espace Icare
+December 1, 1989
+Fahrenheit, MJC Espace Icare
 Issy-les-Moulineaux, France
 
-SOURCE (AMT #1):
+SOURCE (AUD #1b):
 unknown > unknown
 
 TRANSFER:
-unknown > VirtualDub 1.10.4 > SoundForge 12.1 > "ZakSync™" > Audition CC > Trader's Little Helper 2.8.4
+unknown > Switch v1.50 > Adobe Audition 3.0 > CD Wave 1.97 > FLAC frontend 1.7.1
 
 GENERATION:
-VHS(X) > WAV [16-bit/48KHz] > WAV [16-bit/44.1KHz] > FLAC
+ANA(M) > RA [32kHz/80kbps] > WAV [32kHz] > WAV [44.1kHz] > FLAC [Level 8]
 
-DURATION:
-44:35
-
-SETLIST:
-00. Intro
-01. School (cut)
-02. Scoff (cut)
-03. Love Buzz
-04. Floyd The Barber
-05. Dive
-06. Polly
-07. Big Cheese
-08. Spank Thru (cut)
-09. About A Girl
-10. Breed
-11. Been A Son
-12. Stain
-13. Negative Creep
-14. Blew (cut)
-
-MD5 FINGERPRINTS:
-c6a7bbe6cc1eb88dd18fe46e214c37f1 *NIRVANA 1989-12-01 AMT#1 VHS(X)_00 Intro.flac
-71b5f68ec5fe1f1694815b16f75bab63 *NIRVANA 1989-12-01 AMT#1 VHS(X)_01 School.flac
-b897542a8063dcd07a50ada994f853ab *NIRVANA 1989-12-01 AMT#1 VHS(X)_02 Scoff.flac
-1bc0ebae476bb4fb9cb7e87df38d3ba0 *NIRVANA 1989-12-01 AMT#1 VHS(X)_03 Love Buzz.flac
-c3459b87e08f1a8ffe3ca8137254d7f7 *NIRVANA 1989-12-01 AMT#1 VHS(X)_04 Floyd The Barber.flac
-e84b5eac3ccd05cf4c0fbf457de28b2c *NIRVANA 1989-12-01 AMT#1 VHS(X)_05 Dive.flac
-d2915d001c1b78b36a10c89556f7df08 *NIRVANA 1989-12-01 AMT#1 VHS(X)_06 Polly.flac
-a58aba00e881018c4bc1f0e28d9c87d5 *NIRVANA 1989-12-01 AMT#1 VHS(X)_07 Big Cheese.flac
-2797f091684abd0b70773aabdc1b6f43 *NIRVANA 1989-12-01 AMT#1 VHS(X)_08 Spank Thru.flac
-d733f2725815f839d28da2bc6b97ab75 *NIRVANA 1989-12-01 AMT#1 VHS(X)_09 About A Girl.flac
-da2164b17718ae3de995913e5f640f4e *NIRVANA 1989-12-01 AMT#1 VHS(X)_10 Breed.flac
-ece1404c373c90f465a79e6c447ab3f4 *NIRVANA 1989-12-01 AMT#1 VHS(X)_11 Been A Son.flac
-6ab6e5ea20eb30fefdc3174be79da18c *NIRVANA 1989-12-01 AMT#1 VHS(X)_12 Stain.flac
-063a994a7b0732fcb95050a112110630 *NIRVANA 1989-12-01 AMT#1 VHS(X)_13 Negative Creep.flac
-ef674d173bca4d6f3c4d467c9a4407f5 *NIRVANA 1989-12-01 AMT#1 VHS(X)_14 Blew.flac
-
-DISTRIBUTION:
-Members of LiveNIRVANA.com
+LENGTH:
+38:09
 
 NOTES:
-Generation is either VHS(M) or VHS(1); not currently known which.
-Transfer secured by Nicolas Ferry. Camcorder and tape digitizing equipment lineage unknown.
-Video encode by Nicholas Serra.
-Audio sourced from alternate transfer with worse video quality, but better audio quality; 
-Better audio synced by Mike Wilkinson utilizing Zak Andree's "ZakSync™" software.
+- Has two dropouts on the left channel during "Blew."
 
-2022-12-01
+TRACKS:
+01. intro
+02. School (cut)
+03. Scoff (cut)
+04. Love Buzz
+05. Floyd The Barber
+06. Dive (cuts in)
+07. Polly (cut)
+08. Big Cheese
+09. Spank Thru (cut)
+10. Breed (cut)
+11. Been A Son (cuts in)
+12. Stain
+13. Negative Creep (cut)
+14. Blew (cuts in, cut)
 
-**PLEASE DO NOT ENCODE TO LOSSY FORMATS OR SELL!**
+MD5 FINGERPRINTS:
+dbadfc12091e03d1c23c7a0e94aebcbd *Nirvana_1989-12-01_AUD1b_t01.flac
+9922a163939144cfa4c67808bf37ecb1 *Nirvana_1989-12-01_AUD1b_t02.flac
+d6d36e0bc88e95fed5656ea5a1e9c6d4 *Nirvana_1989-12-01_AUD1b_t03.flac
+433a3ca31561a2eecb13d68ea8e6a7da *Nirvana_1989-12-01_AUD1b_t04.flac
+488f8d9b3bea37c3d10659d14246e003 *Nirvana_1989-12-01_AUD1b_t05.flac
+278cc10b658b68b9b2d2af23494d9e2e *Nirvana_1989-12-01_AUD1b_t06.flac
+a272d22e02b6bbbf582ad468cd214fde *Nirvana_1989-12-01_AUD1b_t07.flac
+bffd13c5fb641a27f7bfbe890780b6f3 *Nirvana_1989-12-01_AUD1b_t08.flac
+7fb06994e99740be19b2975f4c25f386 *Nirvana_1989-12-01_AUD1b_t09.flac
+53bb3e0b8d3a7732d56341891bfee3a8 *Nirvana_1989-12-01_AUD1b_t10.flac
+87054b9eef608858313f1e283e1ab78a *Nirvana_1989-12-01_AUD1b_t11.flac
+84ae3a81707f83395ddb2846f3473780 *Nirvana_1989-12-01_AUD1b_t12.flac
+293ef0934b8345740d2f7f958148f27b *Nirvana_1989-12-01_AUD1b_t13.flac
+f0fe8986e56449288f3b3e333c7e9f84 *Nirvana_1989-12-01_AUD1b_t14.flac
+
+TRANSFERRED BY:
+unknown
+
+PLEASE DO NOT SELL OR ENCODE TO MP3
