@@ -18,9 +18,10 @@ const ARTIST_DATA = {
       "state": "Germany",
       "location": "Cologne, Germany",
       "venue": "Prime Club",
-      "notes": "unk · kevdogg transfer",
+      "notes": "unk \u00b7 kevdogg transfer",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "2004-10-26 - Cologne, Germany - Prime Club (unk) (kevdogg transfer) [AUD].txt"
     }
   ],
   "misc": []
