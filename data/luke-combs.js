@@ -18,10 +18,9 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "Indio, CA",
       "venue": "Stagecoach Festival 2025",
-      "notes": "Empire \u00b7 1080p \u00b7 Webcast",
+      "notes": "Empire · 1080p · Webcast",
       "version": "WEB",
-      "format": "TS",
-      "textFile": "2025-04-27 - Indio, CA - Stagecoach Festival 2025 - Empire Polo Club (1080p) (Webcast) [TS].txt"
+      "format": "TS"
     }
   ],
   "misc": []
