@@ -79,11 +79,14 @@ function render() {
   // Show rows by year
   const yearBlocks = d.years.map(year => {
     const rows = byYear[year].map((s, idx) => {
-      const showId   = 'show-' + year + '-' + idx;
+      const showId    = 'show-' + year + '-' + idx;
       const notesHtml = s.notes ? '<div class="show-notes">' + esc(s.notes) + '</div>' : '';
-      return '<tr class="show-row" id="' + showId + '">'
+      const hasInfo   = !!s.textFile;
+      const clickAttr = hasInfo ? ' onclick="openShowInfo(\'' + esc(s.textFile) + '\')"' : '';
+      const infoIcon  = hasInfo ? '<span class="show-info-icon" title="View show info">&#9432;</span>' : '';
+      return '<tr class="show-row' + (hasInfo ? ' has-info' : '') + '" id="' + showId + '"' + clickAttr + '>'
         + '<td class="col-date">' + fmtDate(s) + '</td>'
-        + '<td class="col-venue"><div>' + esc(s.venue) + '</div>' + notesHtml + '</td>'
+        + '<td class="col-venue"><div>' + esc(s.venue) + infoIcon + '</div>' + notesHtml + '</td>'
         + '<td class="col-location">' + esc(s.location) + '</td>'
         + '<td class="col-badges"><div class="badge-group">'
           + versionBadge(s.version) + formatBadge(s.format)
@@ -146,8 +149,44 @@ function render() {
       <div class="container">${yearBlocks}${miscHtml}</div>
     </section>`;
 
+  // Inject modal
+  const modal = document.createElement('div');
+  modal.id = 'show-info-modal';
+  modal.className = 'show-modal';
+  modal.innerHTML = `
+    <div class="show-modal-backdrop" onclick="closeShowInfo()"></div>
+    <div class="show-modal-box">
+      <button class="show-modal-close" onclick="closeShowInfo()">✕</button>
+      <pre class="show-modal-content" id="show-modal-content">Loading…</pre>
+    </div>`;
+  document.body.appendChild(modal);
+
   setupNav();
 }
+
+function openShowInfo(filename) {
+  const modal = document.getElementById('show-info-modal');
+  const content = document.getElementById('show-modal-content');
+  modal.classList.add('open');
+  document.body.style.overflow = 'hidden';
+  content.textContent = 'Loading…';
+  fetch('../../shows/' + ARTIST_DATA.id + '/' + filename)
+    .then(r => {
+      if (!r.ok) throw new Error('Not found');
+      return r.text();
+    })
+    .then(t => { content.textContent = t; })
+    .catch(() => { content.textContent = 'Could not load show info.'; });
+}
+
+function closeShowInfo() {
+  document.getElementById('show-info-modal').classList.remove('open');
+  document.body.style.overflow = '';
+}
+
+document.addEventListener('keydown', e => {
+  if (e.key === 'Escape') closeShowInfo();
+});
 
 function setupNav() {
   document.querySelectorAll('.year-pill').forEach(pill => {
