@@ -18,7 +18,7 @@ const ARTIST_DATA = {
       "state": "NY",
       "location": "New York, NY",
       "venue": "Bottom Line *A Christmas Gift For You",
-      "notes": "Two \u00b7 2020 Transfer",
+      "notes": "Two · 2020 Transfer",
       "version": "AUD",
       "format": "FLAC"
     },
@@ -31,7 +31,7 @@ const ARTIST_DATA = {
       "state": "NY",
       "location": "New York, NY",
       "venue": "Bottom Line *A Christmas Gift For You",
-      "notes": "Two \u00b7 2020 Transfer",
+      "notes": "Two · 2020 Transfer",
       "version": "AUD",
       "format": "FLAC"
     }
