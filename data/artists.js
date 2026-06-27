@@ -154,6 +154,13 @@ const ARTISTS = [
     "lastYear": 1999
   },
   {
+    "id": "atoms-for-peace",
+    "name": "Atoms For Peace",
+    "showCount": 30,
+    "firstYear": 2009,
+    "lastYear": 2013
+  },
+  {
     "id": "audioslave",
     "name": "Audioslave",
     "showCount": 80,
@@ -691,6 +698,13 @@ const ARTISTS = [
     "showCount": 1,
     "firstYear": 2024,
     "lastYear": 2024
+  },
+  {
+    "id": "ed-o-brien",
+    "name": "Ed O'Brien",
+    "showCount": 3,
+    "firstYear": 2020,
+    "lastYear": 2020
   },
   {
     "id": "eddie-vedder-solo",
@@ -1279,6 +1293,13 @@ const ARTISTS = [
     "showCount": 5,
     "firstYear": 1954,
     "lastYear": 1975
+  },
+  {
+    "id": "jonny-greenwood",
+    "name": "Jonny Greenwood",
+    "showCount": 2,
+    "firstYear": 2014,
+    "lastYear": 2014
   },
   {
     "id": "jonsi",
@@ -2007,6 +2028,13 @@ const ARTISTS = [
     "showCount": 1,
     "firstYear": 2014,
     "lastYear": 2014
+  },
+  {
+    "id": "phil-selway",
+    "name": "Phil Selway",
+    "showCount": 3,
+    "firstYear": 2010,
+    "lastYear": 2015
   },
   {
     "id": "pigface",
@@ -2877,6 +2905,13 @@ const ARTISTS = [
     "lastYear": 2017
   },
   {
+    "id": "the-smile",
+    "name": "The Smile",
+    "showCount": 33,
+    "firstYear": 2021,
+    "lastYear": 2024
+  },
+  {
     "id": "the-temptations",
     "name": "The Temptations",
     "showCount": 2,
@@ -2938,6 +2973,13 @@ const ARTISTS = [
     "showCount": 14,
     "firstYear": 1998,
     "lastYear": 2025
+  },
+  {
+    "id": "thom-yorke",
+    "name": "Thom Yorke",
+    "showCount": 69,
+    "firstYear": 2002,
+    "lastYear": 2024
   },
   {
     "id": "thrice",
