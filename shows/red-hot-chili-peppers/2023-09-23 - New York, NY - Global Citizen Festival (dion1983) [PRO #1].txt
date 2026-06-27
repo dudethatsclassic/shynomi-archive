@@ -1,0 +1,33 @@
+RED HOT CHILI PEPPERS
+September 23, 2023
+Great Lawn in Central Park
+New York, NY, USA (Global Citizen 2023 festival)
+
+TRACKS:
+Intro Jam
+Can't Stop
+Scar Tissue
+Dani California
+Snow ((Hey Oh))
+Eddie
+Right on Time (with London Calling intro)
+Dreamboy/Dreamgirl (Cynthia & Johnny O cover) (Frusciante solo)
+Californication
+By the Way
+
+
+LENGTH:
+00:48:10
+
+
+TRANSFER:
+Global Citizen YouTube livestream > youtube-dl (capture only) > ffmpeg (lossless trim) > .ts file > PC > Dime
+
+Video: 1920x1080 - H264 - 2700Kbps - 30fps
+Audio: AAC 128Kbps - 44.1 KHz - Stereo
+
+RECORDED BY:
+dION1983
+
+
+--- PLEASE DO NOT CONVERT TO LOSSY FORMATS, DISTRIBUTE THIS RECORDING WITHOUT THIS INFO FILE AND NEVER SELL! ---

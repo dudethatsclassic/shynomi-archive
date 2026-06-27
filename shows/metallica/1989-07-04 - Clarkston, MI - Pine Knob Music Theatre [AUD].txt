@@ -1,0 +1,23 @@
+D1Track1 Intro,Blackened.flac:1a9463fa2e68160afc498be7bfbbbe47
+D1Track2 For Whom The Bell Tolls.flac:008c57dd6b5c88848206796c7f4fce0b
+D1Track3 Welcome Home,Sanitarium.flac:4ba80039e719f02b06223f7adcbfda9c
+D1Track4 Harvester Of Sorrow.flac:f4384212f734b87ddb6c31f43e19a354
+D1Track5 Eye Of The Beholder.flac:ffabc2848556ea68d0caad2b8ec30d8e
+D1Track6 4 Horsemen.flac:b117b1f040eea7170b409635a9c14828
+D1Track7 Bass Solo Pt 1,Cut.flac:18bc700dd972632ce3ea18b8049bedcd
+D1Track8 Bass Solo Pt 2.flac:9b3aa76f9148be4a4e96df83e0b1ceeb
+D1Track9 Master Of Puppets.flac:192efc72cec25d3849b6db123eee73ac
+D1Track10 One.flac:87dae68649436c0170a374d1f957437b
+D1Track11 Seek And Destroy.flac:6e4bf9402248581ce64c097bb5a0176f
+D2Track1 And Justice For All Pt1,cut.flac:a470327061dd70909104afc1d3b590ce
+D2Track2 And Justice For All Pt2.flac:453473cca74f13469616400086289bf9
+D2Track3 Creeping Death.flac:c9b01634848a0be4bbc76fe3009a1e75
+D2Track4 Fade To Black.flac:0bcdac0e8dce209fac22fc0be98d4360
+D2Track5 Guitar Solo.flac:55b7e3f200ea598502e491c224dee93e
+D2Track6 Battery.flac:541fb52daec9225ccce7653aa960babc
+D2Track7 Cut,The Wait.flac:5345e81616aa5aa3195d1885ad77b49c
+D2Track8 Iron Maiden Cover.flac:5dfd11069535c0a095859f4a9e61c2af
+D2Track9 Last Caress.flac:943e2a6e318d2abcaac0f11235dcbb1c
+D2Track10 Am I Evil.flac:3a34e7f75f800888e98b5e4fc68be194
+D2Track11 Damage INC,cut.flac:9a679eb44cc757a6640fa355fc6aaa8f
+D2Track12 Breadfan.flac:2274ddf21ad4a0a7fac25f93408c2cd2

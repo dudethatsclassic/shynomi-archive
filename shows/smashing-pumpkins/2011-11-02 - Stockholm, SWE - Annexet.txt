@@ -1,0 +1,31 @@
+Smashing Pumpkins
+November 2, 2011
+Annexet
+Stockholm, Sweden
+
+
+Taper: IJ
+Source: Sennheiser MKE2 > CA9100 > R05 (24/48)
+Conversion: R05 > USB > Reaper 7.30 (Equalizer, Normalize, Fades) > CD Wave 1.98 (Tracking) > TLH (FLAC 24/48)
+
+=============================================
+
+01:     Quasar
+02:	Panopticon
+03:	Starla
+04:	Geek U.S.A.
+05:	Muzzle
+06:	Window Paine
+07:	Lightning Strikes
+08:	Soma
+09:	Siva
+10:	Oceania
+11:	Frail and Bedazzled
+12:	Silverfuck
+13:	Pale Horse
+14:	Pinwheels
+15:	Thru the Eyes of Ruby > I Am One (tease)
+16: 	Cherub Rock
+17:	Owata
+18:	My Love is Winter
+19: 	For Martha

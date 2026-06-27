@@ -1,0 +1,11 @@
+A Perfect Circle May 24, 2004 Mississippi Coliseum Jackson, MS
+
+Source: Core Sound Binaurals > Sound Pros SPSB-3 BB > line-in > Sony MZ-R910 minidisc
+
+Location: front of stacks, stage right
+
+Transfer: MZ-R910 > line-out > WAV (soundcard via Totalrecorder)
+
+Mastering: Wavlab 3.04a (EQ, dynamic compression, track splits)
+
+Burned to master CDRs, then ripped. Lowest gen possible.

@@ -1,0 +1,111 @@
+The Smashing Pumpkins
+2008-11-21
+Auditorium Theatre, Chicago, IL, US
+
+Source: Sony HDR-SR11 > .m2ts > MKVToolNix > .mkv
+Taper: Ryan Fisher
+
+Set:
+Roctopus
+Everybody Come Clap Your Hands [The Searchers]
+Tarantula
+G.L.O.W.
+Kill Your Parents
+Siva
+Eye
+Mayonaise (false start)
+Mayonaise
+Tonight, Tonight
+Speed Kills
+Transformer
+Superchrist
+United States
+> Star Spangled Banner [Key] (tease)
+> Heat of the Moment [Asia] (tease)
+Once Upon a Time
+Again, Again, Again (The Crux)
+The Rose March
+Today
+Bullet with Butterfly Wings
+The Beginning Is the End Is the Beginning
+Heavy Metal Machine (10:49)
+> White Rabbit [Jefferson Airplane] (tease)
+> White Horse [Laid Back] (tease)
+Glass' Theme
+Set the Controls for the Heart of the Sun [Pink Floyd]
+
+Show Notes:
+Once Upon a Time, Again, Again, Again (The Crux), and The Rose March performed acoustic
+Superchrist with Matt Walker on gong
+Once Upon a Time, Again, Again, Again (The Crux), The Rose March, and Set the Controls With the Heart of the Sun with Matt Walker on drums
+Encore skipped due to Billy having trouble with his voice due to being sick. There was meant to be a second show at the Auditorium Theatre the next evening (2008-11-22) but this was cancelled and rescheduled to a new date (2008-12-08)
+
+Source Notes:
+Show acquired from original taper in 2021
+~35 second video missing during United States, and ~1 minute of video missing during two parts of Set the Controls for the Heart of the Sun due to taper having battery issues
+
+- Spaldz
+
+General
+Unique ID                                : 61418135889505645263125447938027680420 (0x2E34B3E465825F772B20CC4709CDF2A4)
+Complete name                            : tsp2008-11-21 - Auditorium Theatre, Chicago, IL, US.mkv
+Format                                   : Matroska
+Format version                           : Version 4
+File size                                : 16.1 GiB
+Duration                                 : 2 h 19 min
+Overall bit rate mode                    : Variable
+Overall bit rate                         : 16.4 Mb/s
+Encoded date                             : UTC 2021-04-25 10:52:50
+Writing application                      : mkvmerge v56.1.0 ('My Friend') 64-bit
+Writing library                          : libebml v1.4.2 + libmatroska v1.6.4
+
+Video
+ID                                       : 1
+Format                                   : AVC
+Format/Info                              : Advanced Video Codec
+Format profile                           : High@L4
+Format settings                          : CABAC / 2 Ref Frames
+Format settings, CABAC                   : Yes
+Format settings, Reference frames        : 2 frames
+Format settings, GOP                     : M=2, N=15
+Codec ID                                 : V_MPEG4/ISO/AVC
+Duration                                 : 2 h 19 min
+Bit rate mode                            : Variable
+Bit rate                                 : 16.0 Mb/s
+Width                                    : 1 920 pixels
+Height                                   : 1 080 pixels
+Display aspect ratio                     : 16:9
+Frame rate mode                          : Variable
+Frame rate                               : 59.940 (60000/1001) FPS
+Original frame rate                      : 29.970 (30000/1001) FPS
+Color space                              : YUV
+Chroma subsampling                       : 4:2:0
+Bit depth                                : 8 bits
+Scan type                                : Interlaced
+Scan type, store method                  : Separated fields
+Scan order                               : Top Field First
+Bits/(Pixel*Frame)                       : 0.129
+Stream size                              : 15.6 GiB (97%)
+Default                                  : Yes
+Forced                                   : No
+IrisFNumber                              : 2.000000
+
+Audio
+ID                                       : 2
+Format                                   : AC-3
+Format/Info                              : Audio Coding 3
+Commercial name                          : Dolby Digital
+Codec ID                                 : A_AC3
+Duration                                 : 2 h 19 min
+Bit rate mode                            : Constant
+Bit rate                                 : 448 kb/s
+Channel(s)                               : 6 channels
+Channel layout                           : L R C LFE Ls Rs
+Sampling rate                            : 48.0 kHz
+Frame rate                               : 31.250 FPS (1536 SPF)
+Compression mode                         : Lossy
+Stream size                              : 448 MiB (3%)
+Service kind                             : Complete Main
+Default                                  : Yes
+Forced                                   : No
+

@@ -1,0 +1,57 @@
+PAVEMENT
+
+
+HFStival
+RFK Stadium
+Washington, DC
+May 14, 1994
+
+
+Source:  FM > ??? > CDR
+Transfer:  CDR > EAC > SHN > FLAC
+Transfer by Terry Watts
+
+
+Disc 1
+Set I:
+1. Grounded
+2. Silence Kit
+3. Summer Babe
+4. Gold Soundz
+5. Black Out
+6. Brink of the Clouds > 
+7. Unfair,,
+8. Brinx Job
+9. Range Life
+10. Two States
+11. Debris Slide
+12. Fight This Generation
+
+
+Notes:
+
+This one was originally listed as June 4, 1994.  The actual date of
+this show is May 14, 1994.
+
+Original EAC > SHN performed on Jan. 4, 2004 for my own archives.
+
+Files converted to FLAC; new WAV MD5 and FLAC FFP created on Oct. 24, 2012.
+The Original SHN MD5 is listed below.
+
+Terry Watts
+
+
+The Original SHN MD5:
+034d64e13eff4d23d2ac313845f425be *pavement1994-06-04d1t01.shn
+1725a9a26414d7f3785cc6bc56eb1744 *pavement1994-06-04d1t02.shn
+ca8607923d5e21cbf505f95576a757d0 *pavement1994-06-04d1t03.shn
+425d9f4d5c6df7374a70e60b24fc3b50 *pavement1994-06-04d1t04.shn
+6a8d23d8149f39bdcbf06a78393a422e *pavement1994-06-04d1t05.shn
+7162fae059f1e6449afec537cbcd5df9 *pavement1994-06-04d1t06.shn
+4133122d871c122b8950c44196be5af1 *pavement1994-06-04d1t07.shn
+a4ca24496aa7c4579a1cc84c11302f1c *pavement1994-06-04d1t08.shn
+7c595c599dddc90d0ad878f6c5b6af7a *pavement1994-06-04d1t09.shn
+2ad4884b4ba9231add8d72a43797a1f8 *pavement1994-06-04d1t10.shn
+633dddfac332f44e5c79404226746dbf *pavement1994-06-04d1t11.shn
+07063337b1237b072778fa088e944583 *pavement1994-06-04d1t12.shn
+

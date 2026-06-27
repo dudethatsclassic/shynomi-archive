@@ -1,0 +1,40 @@
+bush
+Gavin Rossdale: lead vocals and guitar
+Nigel Pulsford: guitar
+Dave Parsons: bass
+Robin Goodridge: drums
+
+Glastonbury Festival
+Worthy Farm
+Pilton, U.K. 
+June 25, 1999
+promoting their 3rd album "the science of things"
+FM broadcast
+runtime: 48:12 (minutes/ seconds)
+
+setlist:
+1: introduction > machine head  4:43
+2: the chemicals between us  4:23
+3: greedy fly  4:57
+4: radio announcer  :08
+5: everything zen  5:13  
+6: insect kin  6:31
+7: radio announcer  :13
+8: glycerine  4:11
+9: warm machine  4:17
+10: radio announcer  :14
+11: swallowed  4:23
+12: little things  8:05
+13: radio announcer closing credits  :25
+ 
+lineage:
+WBCN (Boston) 104.1 FM broadcast > 
+Yamaha 500 reciever with digital FM antenna >
+Nak. BX 100 cassette deck (dolby off) >
+Maxell XLII 110 min. master cassette >
+Tascam 112 > soundforge (16 bit/ 44.1 khz wav) > 
+flac 8 (sb's aligned)
+a this and that production.
+Do not sell this recording.
+(that's really bush league, and not theirs)
+Share freely, losslessly and gaplessly.

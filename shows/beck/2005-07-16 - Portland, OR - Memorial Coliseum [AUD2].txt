@@ -1,0 +1,83 @@
+Beck
+2005.07.16
+July 16th, 2005
+Portland, OR, USA
+Portland Memorial Coliseum
+
+Taper:		Joe Cooper (jdcooper@bucknell.edu) (db.etree.org/thierryhenry/)
+Location:		30-35' From Stacks, DFC, FOB. Mics In Beanie. AB.
+Source:		SP-CMC-8 (AT933's) > SP-SPSB-6 (Bass Roll Off @ 160Hz) > Creative Nomad Jukebox 3 (+3db Gain) (48.0 kHz, 16 Bit)
+Transfer:		Creative Nomad Jukebox 3 > USB Cable > PC (USB IN) > Creative Media Center > Soundforge 6.0 (Volume Increase, Converted To 44.1 kHz) > CD Wave (44.1 Khz, 16 Bit, Stereo) (Track Splits) > WAV > FLAC Frontend 8 > FLAC (Level 8) > Md5Summer
+Filesize:		987 MB WAV, 564 MB FLAC
+
+<><><><><><><><><><><><><><><><>
+--------------------------------------------
+If You Plan To Convert This Tape To Mp3,
+Please Don't Distribute The Inferior Copy.
+Please.
+Never Sell Live Recordings.
+Also If You Plan To Come To Shows And
+Talk The Entire Time, Please Do Everyone
+A Favor And Stay Home.
+--------------------------------------------
+<><><><><><><><><><><><><><><><>
+
+Set One:
+
+01:	Clap Hands >			-		02.34.29
+02:	Black Tambourine			-		04.27.07
+03:	Devil's Haircut			-		03.31.13
+04:	Girl				-		03.23.01
+05:	Que Onda Guero			-		02.34.36
+06:	The New Pollution			-		03.49.17
+07:	Emergency Exit			-		04.42.47
+08:	Hotwax				-		03.27.49
+09:	Send A Message To Her		-		05.16.54
+10:	Hot In Herre/Crazy In Love %		-		02.30.15
+11:	The Golden Age $			-		03.49.34
+12:	Loser				-		04.04.45
+13:	Touch Dolphins			-		01.35.26
+14:	Sexx Laws			-		03.00.05
+15:	Broken Drum			-		06.27.49
+16:	Do You Realize?? > Lazy Flies > 
+	Cold Brains > Little One > Debra > 
+	Lost Cause > Truck Drivin' Neighbors 
+	Downstairs > Asshole > Portland Rain > 
+	Guess I'm Doing Fine > Clap Hands # 	-		15.35.25
+17:	Where It's At			-		04.52.48
+18:	E-Pro				-		03.00.64
+19:	Encore				-		01.52.70
+20:	Get Real Paid * > 			-		04.41.20
+21:	Mixed Bizness			-		06.31.26
+
+Total:					-		91.48.15
+
+Recording Notes:
+
+Volume Increased By 4.5db In Soundforge 6.0
+This Show Is 48.0 kHz WAV, Feel Free To Convert It To
+44.1 kHz WAV For CD-R Burning Purposes, BUT NEVER
+TO MP3!
+
+Show Notes:
+
+> = Denotes Into Next Song
+% = Nelly/Destiny's Child Cover
+$ = Beck On Harmomium
+# = Beck's Acoustic Medley, Ending With Band Members Provide Percussion With
+      Various Instruments From A Dinner Table
+* = 10-20 Members Of The Audience On Stage
+
+(C)
+ThierryHenry
+Joe Cooper
+2005.07.24
+
+-----------------------
+
+Additional Notes:
+
+I Added Tags to the FLAC and regenerated FFP and MD5 files.
+
+breathmint (breathmint@hotmail.com)
+2006.01.05

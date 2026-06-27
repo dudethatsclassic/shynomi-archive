@@ -1,0 +1,92 @@
+ \ \ ___                                                     / /
+  \ \\  \                                                   / /
+   \ \\  \                                                 / /
+    \ \\  \                 __   __   __        _________ / /
+     \ \>  \               /__) /__) /__)      /____    // /
+      \    /_________ ________ _______   _________ /   // /
+      /   //____    //___    //   _   ` /   _    //   // /
+     /   /_____/   /    /   //   //   //   //___//   // /
+    /             /    /   //   //   //   /     /    ~  ~\
+   /____________.´    /   / `_______´/___/     /_______   \
+            _________/   /                             \   \
+           /            /                               \   \
+          /____________/                                 \___\
+
+
+"Hyper"                                    AR10195
+
+
+
+Björk live at "The Ahoy", Rotterdam, Oct 10 1995                                      
+
+Silver CD>EAC>wav>MKWact>shn
+
+Scans by Tony
+
+http://gudmundsdottirbjork.blogspot.com/
+
+
+01 Headphones
+02 Army Of Me
+03 The Modern Things
+04 Human Behaviour
+05 Isobel
+06 Venus As A Boy
+07 Possibly Maybe
+08 Play Dead*
+09 The Anchor Song
+10 Hyper-ballad
+11 Enjoy
+12 I Miss You
+13 Crying
+14 Violently Happy
+15 I Dare You*
+16 It's Oh So Quiet
+17 Big Time Sensuality
+
+
+*Track 8 is actually "I Go Humble" 
+*Track 15 is actually "5 Years"
+
+
+
+C:\Media\BjorkHyper>shntool len *shn
+    length     expanded size   cdr  WAVE  probs   filename
+     3:28.25      36750044     ---   --    -xx    01 Headphones.shn
+     4:09.20      43970684     ---   --    -xx    02 Army Of Me.shn
+     4:01.00      42512444     ---   --    -xx    03 The Modern Things.shn
+     3:22.50      35750444     ---   --    -xx    04 Human Behaviour.shn
+     5:37.65      59599724     ---   --    -xx    05 Isobel.shn
+     2:41.65      28553324     ---   --    -xx    06 Venus As A Boy.shn
+     5:40.70      60140684     ---   --    -xx    07 Possibly Maybe.shn
+     4:27.35      47181164     ---   --    -xx    08 Play Dead(I Go Humble).shn
+     2:44.40      29023724     ---   --    -xx    09 The Anchor Song.shn
+     5:11.65      55013324     ---   --    -xx    10 Hyper-Ballad.shn
+     5:24.45      57259484     ---   --    -xx    11 Enjoy.shn
+     3:58.70      42147884     ---   --    -xx    12 I Miss You.shn
+     4:37.50      48980444     ---   --    -xx    13 Crying.shn
+     6:13.40      65891324     ---   --    -xx    14 Violently Happy.shn
+     4:19.45      45793484     ---   --    -xx    15 I Dare You(5 Years).shn
+     4:23.00      46393244     ---   --    -xx    16 It's Oh So Quiet.shn
+     4:56.65      52367324     ---   --    -xx    17 Big Time Sensuality.shn
+    75:20.00     797328748 B                                                             (totals for 17 files,0.5837 overall compression ratio)
+
+
+
+
+Enjoy!
+
+
+
+
+
+
+
+
+Tony
+
+ 
+
+
+
+

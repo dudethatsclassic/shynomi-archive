@@ -1,0 +1,59 @@
+Eels
+Royal Festival Hall
+London, England
+28th September 1998
+
+
+SETLIST (82.57)
+---------------
+
+01. Cancer For The Cure
+02. Fingertips pt. 3
+03. Going To Your Funeral pt. 1
+04. Living Life (*)
+05. Electro-Shock Blues
+06. Efils' God
+07. Climbing To The Moon
+08. Flower
+09. Dead Of Winter
+10. My Beloved Monster
+11. Souljacker Part I
+12. Novocaine For The Soul
+13. The Medication Is Wearing Off
+14. Not Ready Yet
+15. Last Stop: This Town
+16. P.S. You Rock My World > Beautiful Freak
+17. encore break 1
+18. Hospital Food
+19. encore break 2
+20. 3 Speed
+21. Open The Door (^)
+22. encore break 3
+23. My Descent Into Madness
+
+
+SOURCE
+------
+CSB>batt.box>WM-D6C>ANA(M)
+
+
+TRANSFER
+--------
+ANA(M)>Yamaha KX-393>Yamaha A-S500>Audiophile 2496>WAV @ 96/32
+
+
+EDITING
+-------
+WAV>Adobe Audition CC 2017>light EQ>crossfade tape flip>peak fix>normalize>downsample @ 44/16>TLH>FLAC
+
+
+NOTES
+-----
+(*) = Daniel Johnston cover
+(^) = Magnapop cover
+
+The EQ was just to boost the mid/high end a little.
+Think I hit the Dolby switch at the beginning of Fingertips pt.3, sorry.  
+There is approx 30 secs cut at approx 32 seconds into the beginning of the last encore song, basically the first verse (I edited out the dead space.)
+I also think I accidentally pulled the mics out of the deck (I can't remember, I'd already started packing up to go home, 
+the house lights were on, it was a real fucking mess of a taping situation, hence all the mic scraping noises, sorry!!)

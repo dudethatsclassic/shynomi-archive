@@ -1,0 +1,39 @@
+The Shins
+November 3, 2006
+Gigantic Studios
+KEXP Live Webcast
+New York, NY
+
+SOURCE:
+KEXP Uncompressed 44.1kHz PCM Stream [1,411kB/sec] > Total Recorder v6.0
+
+LINEAGE:
+WAV [44.1kHz] > CD Wave Editor v1.94.4 > Flac Level 8 > You (Your copy will be CDR(1) if burnt)
+
+GENERATION:
+WAV [44.1kHz] > FLAC
+
+LENGTH: 
+29:57
+
+SETLIST:
+01 Kissing The Lipless
+02 Pressed In A Book
+03 Phantom Limb
+04 Interview
+05 Girl Inform Me
+06 Turn A Square
+07 Outro
+
+NOTES:
+-Recorded live via KEXP's uncompressed 1.411kB/s stream.
+
+BAND INFO:
+-http://www.theshins.com
+-http://myspace.com/theshins
+
+RECORDED BY:
+Dave Caley / dcaley(AT)torontotapers.org (2006.11.03)
+
+PLEASE DO NOT SELL THIS RECORDING OR CIRCULATE THIS IN MP3
+CONVERT IT ONLY FOR YOUR PERSONAL PLAYERS

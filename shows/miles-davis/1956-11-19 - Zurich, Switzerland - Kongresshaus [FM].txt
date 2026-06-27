@@ -1,0 +1,58 @@
+Birdland All-Stars (W/ Miles Davis)
+11-19-1956
+Kongresshaus
+Zürich, Switzerland
+
+Project ID - LL3
+
+Source: FM Broadcast
+Lineage: Radio Broadcast>unknown transfer(s) > ? > wav > ? >flac
+
+Miles Davis (tpt); Lester Young (ts); René Urtreger (p); Pierre Michelot (b); 
+Christian Garros (d)
+
+disc 1
+
+d1t01. Four
+d1t02. Walkin'
+d1t03. Lady Be Good
+ 
+-------------------------------------------------------
+
+Notes:
+
+- Another great performance by Miles, this one sourced from a radio broadcast. Good 
+sound except for several to several tens of clipped digital samples per track 
+that create audible clicks or ticks, mostly in the first two tracks.
+ 
+- This is the last of three known circulating fragments from the Birdland 
+All-Stars 1956 European tour.  One can only hope that more will surface!
+
+- QC done by Guygee
+
+md5
+349720c8800e25f276e6d63ec0ba752d *md1956-11-19.LL3.d1t01.flac
+3cda0a06c8256f6f146e0f03e88c7fdc *md1956-11-19.LL3.d1t02.flac
+6a77b964b11fe7ac28c934b73c837feb *md1956-11-19.LL3.d1t03.flac
+
+ffp
+md1956-11-19.LL3.d1t01.flac:1ad3ae250095e9c36bf504f9ea5c4710
+md1956-11-19.LL3.d1t02.flac:649097fb03ede7a6227de11dc148a312
+md1956-11-19.LL3.d1t03.flac:278224ec4c8738e75b535c9fb90d3d45
+
+st5 
+1ad3ae250095e9c36bf504f9ea5c4710  [shntool]  md1956-11-19.LL3.d1t01.flac
+649097fb03ede7a6227de11dc148a312  [shntool]  md1956-11-19.LL3.d1t02.flac
+278224ec4c8738e75b535c9fb90d3d45  [shntool]  md1956-11-19.LL3.d1t03.flac
+
+shntool
+  length     expanded size   cdr  WAVE problems filename
+     2:45.35       29188364    ---   --   ---xx   md1956-11-19.LL3.d1t01.flac
+     2:30.54       26587052    ---   --   ---xx   md1956-11-19.LL3.d1t02.flac
+     5:31.22       58440188    ---   --   ---xx   md1956-11-19.LL3.d1t03.flac
+    10:47.36      114215604 B                     (totals for 3 files, 0.5732 overall compression ratio)
+
+spectral analysis from TLH
+md1956-11-19.LL3.d1t01.wav:  track looks like CDDA with probability 100%
+md1956-11-19.LL3.d1t02.wav:  track looks like CDDA with probability 100%
+md1956-11-19.LL3.d1t03.wav:  track looks like CDDA with probability 99%

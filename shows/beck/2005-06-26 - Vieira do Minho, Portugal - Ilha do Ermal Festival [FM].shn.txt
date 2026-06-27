@@ -1,0 +1,61 @@
+
+Artist: Beck
+Tour: Guero Tour (1st Leg in Europe) (Last show of the European tour)
+City: Vieira do Minho, Portugal
+Venue: N/A (a field in the country side)
+Event: Ilha do Ermal Festival" [Outdoors]
+Date: 26/06/05 (Sunday)
+Openers: The Gift, Da Weasel, Dizzee Rascal, Plaza
+Recorded by: onemanclapping
+Mastering/Editing by: Stutter
+Type: Complete FM Broadcast
+
+Source: FM Broadcast (Antena 3) > Pioneer SX-R9 > Audigy 2 ZS (Line-In) > Creative WaveStudio 5.00 > WAV @ 48Hz > Sony Sound Forge 7.0* to WAV 44Hz > CDWav > mkw Audio Compression Tool > SHN > You
+
+* normalizing, fades, cut DJ talk to fit on 1CD, etc..
+
+
+Disc One:
+
+01- Clap Hands
+02- Black Tambourine
+03- Girl
+04- Mixed Bizness
+05- Hell Yes*
+06- Beercan
+07- Paper Tiger
+08- Rental Car
+09- Que Onda Guero
+10- Missing
+11- Loser
+12- Sexx Laws
+13- Devil's Haircut
+14- Broken Drum
+15- Lost Cause
+16- Everybody's Gotta Learn Sometimes
+17- Golden Age
+18- Clap Hands
+19- Where It's At/ High 5 (Rock The Catskills)
+20- One Foot In The Grave
+21- Nobody's Fault But Mine (Harmonium Version)
+22- e-Pro
+
+Bonus:
+Pre-Show Interview (missing first questions). It does not fit on a 80min CD, unless you want to risk a Nero Overburn (1min extra) or go buy one of those expensive 90min CDs.
+
+*half the track was cut due to broadcast problems... All the people i've talked with had the same problem (even in the webcast).
+
+Thanks to www.whiskeyclone.net for setlist confirmation and for being the best source for Beck on the Web.
+
+
+Comments:
+This show was surprise since Beck.com didn't list this show at all, and it seems that very few people knew about it. The portuguese radio, Antena 3, had been broadcasting part of the performances of the bands playing at the 3 day festival, and Beck's performance was the ONLY complete broadcast, which is a bit strange since Beck was the festival headline. I only knew that the radio station was broadcasting the festival a few hours before the Beck performance (missed most of the pre-interview), which complicated things, since I didn't have my Hi-Fi radio receiver at home that day, and only had a mini stereo system and a walkman to record the show. Therefore, I contacted a friend (onemanclapping) to record the show for me, which sent me a better version than mine on snail mail. I've edited the files with Sound Forge, splited the .WAV file and shared the show resampled to 44Hz. The performance was great, the set was great, the broadcast was decent (not the best instrument mixing IMO) but it was complete. Please note that due to broadcast problems the end of Hell Yes was cut by a minute and a half nearly. You can also hear some feedback in the final part of the show, most noticebly during OFITG. There's some static in the right channel, which I considered to remove and replace by the left channel. I've decided to keep it. Most of the problems are not the recorder's fault, blame the radio station! Beck told all the band to give their best since he considers Portugal the perfect country to play. Unfortunately, and because of the poor mixing done by the radio, the audience is not very present, but maybe some of you will like it that way. Enjoy this great performance and for those at the who listened/recorded the webcast at the Beck Tabs HUB enjoy the upgrade!
+
+Overall: [ A ]
+
+Share it freely, by any mean, and in lossless format!
+
+!!!!!!DO NOT SELL THIS RECORDING!!!!!!
+!!!!!!PLEASE DO NOT DISTRIBUTE ON MP3 OR ANY LOSSY FORMAT!!!!!!
+
+-stutter

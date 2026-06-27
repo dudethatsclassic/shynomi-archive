@@ -1,0 +1,41 @@
+Matthew Sweet
+moe.down X
+Snow Ridge Ski Area
+Turin, NY
+2009-09-06
+
+Source: Microtech Gefell M200's(DIN)>Audio Magic Hyper-Conductors>Edirol R-4(Oade T mod) @ 24/48
+	
+Mic Placement: OTS
+
+Transfer: R-4>USB>pc>Adobe Audition 3(track, dither and resample to 16/44.1)> Flac Frontend 1.7.1
+
+Taped and Transferred by Jason Adler Jason at Galactic-Trading dotcom
+
+
+
+01. Divine Intervention (stopped due to monitors not working)
+02. fixing the monitors
+03. Divine Intervention
+04. Room to Rock *
+05. We're The Same
+06. Time Machine
+07. band intros
+08. Someone to Pull the Trigger
+09. Byrdgirl
+10. Time Capsule
+11. Girlfriend
+12. You Don't Love Me
+13. I've Been Waiting
+14. Cinnamon Girl
+15. banter/tuning
+16. The Ugly Truth
+17. Sick of Myself
+18. encore break/guitar distortion
+19. Superdeformed
+20. All the Young Dudes 
+
+
+
+* the lead guitarist's amp dies during this song so the rest of the band keeps the rhythm up while they scramble to get him turned back on.
+

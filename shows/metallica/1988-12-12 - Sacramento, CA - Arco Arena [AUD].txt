@@ -1,0 +1,43 @@
+Metallica
+Arco Arena
+Sacramento, CA
+December 12, 1988
+
+From the collection of koondog a/k/a Rush-Fan
+
+16 bit version
+
+Taper: Karl Lundmark
+Gear: Aiwa CM-30a > Sony D3
+Transferred & mastered by }{eywood
+Lineage: Sony UX60 cassettes (1) > Optimus SCT-57 playback deck > Adobe Audition 1.5 (recording to .wav @ 24/96, speed correction, EQ, stereo simulation of patches for dropped channel, patching tapeflips, peak limiting, splits & fades) > Xrecode II (conversion to 16/44.1) > TLH sector alignment, flac 8)
+
+Apparently Karl was having trouble with the mic at this show.  Some little bursts of static plagued the right channel, and a few dropouts take place.  The worst dropout is one about 3 minutes long in Seek & Destroy.  I patched the missing right channel with the left, then spatialized this mono portion into stereo, trying to match as best I could the soundstage of the rest of the recording.  This  stereoization process was applied to the next 18 minutes of the show as well, because Karl made the mono folddown himself on the copy.
+
+There were also three missing portions in the show.  The first was just after James' solo in Master of Puppets.  This was patched with two different shows synchronized, the first (Paris 5/21/90) to get the music, the other (Indianapolis 5/6/88), which sounded like it was recorded from the men's room, to get the reverb.  The second patch is in the 2nd choruse of Seek & Destroy, which was patched with the 1st chorus.  The final break in the show is in the guitar solo.  This one I left as is because it was impossible to match the sonic characteristics of this show with another show, and because it's also impossible to sync up a guitar solo with another similar guitar solo.
+
+Please don't send any inquiries to the address stated by the taper during the encore break.  I seriously doubt he lives there anymore.
+
+01 Intro: The Ecstacy of Gold
+02 Blackened
+03 For Whom the Bell Tolls
+04 Welcome Home (Sanitarium)
+05 Leper Messiah
+06 Harvester of Sorrow
+07 Eye of the Beholder
+08 bass solo
+09 Master of Puppets
+10 One 
+11 Seek & Destroy
+12 ..and Justice for All
+
+13 Shortest Straw tease
+14 Creeping Death
+15 Fade to Black
+16 guitar solo incl. Little Wing
+17 Battery
+
+18 Metallinoodles
+19 Last Caress
+20 Am I Evil?
+21 Whiplash

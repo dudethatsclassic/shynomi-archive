@@ -1,0 +1,31 @@
+The Lemonheads
+Debaser,
+Stockholm, Sweden
+2025-08-29
+
+Source: 2 x Line Audio CM4 -> Tascam FR-AV2 at 32/48
+Transfer: USB -> Soundforge (fades, dither, resample to 16/44.1)/iZotope Ozone 11 (EQ) -> cdwave -> flac (TLH)
+
+01. Intro
+02. The Great Big No
+03. Into Your Arms
+04. It's About Time
+05. Down About It
+06. Paid To Smile
+07. Big Gay Heart
+08. Rick James Style
+09. Rest Assured
+10. Dawn Can't Decide
+11. Being Around
+12. Favorite T
+13. You Can Take It With You
+14. I'd Love to Change The World (solo electric)
+15. $1000 Wedding (solo keyboard)
+16. Snow Don't Fall (solo acoustic)
+17. Hard Drive (solo acoustic)
+18. How Much I've Lied (solo acoustic)
+19. Man Out Of Time (solo acoustic)
+20. Frank Mills (a capella)
+    
+   
+pata63 - 2025-09-02

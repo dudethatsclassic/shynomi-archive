@@ -1,0 +1,6 @@
+12/10/03 Peoria, IL
+Peoria Civic Center
+Setup: Core Sound Binaural (with low pass filter on) > TDC-D8 (mic-in, blew dat preamp)
+Transfer: TCD-D8 > 7-Pin -> Coax (SPDIF) > Audigy 2 Platinum > WAV
+Editing: Wav > Wavelab (clip restoration, dither, downsample) > CDr & FLAC
+Taper: Karl Schneider karl.p.schneider@rose-hulman.edu

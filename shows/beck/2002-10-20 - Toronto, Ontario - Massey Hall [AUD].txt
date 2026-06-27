@@ -1,0 +1,47 @@
+Beck
+2002.10.20  Massey Hall; Toronto, ON 
+
+Taper:              Lauren Yakiwchuk
+Source:             ECM-717>D8
+Location:           Balcony
+Conversion:         TCD-D8>Coresound 7pin to coax>Zoltrix Nightingale Pro 6 
+Resampling:         None
+Editor:             Brandon Triance-Haldane and Lauren Yakiwchuk
+Editing:            Fades with Sound Forge.  Track splits with CDWave
+SHN:                master DAT > Sound Forge 4.5 > CDWave > MKW Audio Compression Tool
+Special Thanks:     Mike Cranston
+
+Known flaws:        i)  Tape change after Lonesome Tears
+                    ii) Dropout during Little One.
+
+******************************************************************************************************************
+	                    PLEASE DO NOT MAKE MP3S, OR SELL THIS RECORDING
+******************************************************************************************************************
+
+Disc 1- (Tracks 6 - 13 w/ Flaming Lips)
+
+1.  intro
+2.  Cold Brains
+3.  Lazy Flies
+4.  Guess I'm Doing Fine
+5.  Rowboat
+6.  Golden Age
+7.  Tropicalia
+8.  Lord Only Knows
+9.  Jack-ass/burro
+10. Lost Cause
+11. It's All in Your Mind
+12. Sunday Sun
+13. Lonesome Tears
+
+Disc 2- (All tracks w/ Flaming Lips)
+
+1.  Get Real Paid
+2.  Loser
+3.  Nobody's Fault but Mine
+4.  Little One 
+5.  Round the Bend
+6.  New Pollution
+7.  Pay no Mind
+8.  Where it's at
+9.  Devils Haircut

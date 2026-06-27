@@ -1,0 +1,82 @@
+Smashing Pumpkins
+1996-01-06
+9:30 Club
+Washington, DC
+
+
+Shout outs to haylo (AKA the C-man of rockin' OKC!) 
+
+When I got the package, I had totally forgot what he was sending me, I just remembered saying I was willing to do some DVD mastering for some vids he had. So when I saw this date, I got excited. I knew there was video of this but I've never seen it. I saw the camera that night, it was the sound guy's camera and it sat right in front of his setup. We were just to the left of the camera. I always check out the gear and generally hang near the board, the best sound in the house. I usually know and chat with the sound guys too, but at this point we had just returned to the area a few months earlier, and after a ten year absence it takes a little time to get back to the who's who in town.
+
+Now seeing the footage over ten years beyond the performance I felt validated. Of all the stories I've told of that crazy night, it all starts with how great the show was. And it's no bull, as I now have video evidence, proof to any non-believers that it was indeed a magical night.
+
+After five years of dedicated fandom, this would be my first live Pumpkins experience, as I never found myself in the same town as them until this moment. Even at this point, I had spent a considerable amount of time watching talented musicians do they're thing right in front of me, and often times it's quite the spectacle. Being a drummer myself, getting a chance to witness Jimmy was gonna be a total treat. But what I didn't realize was how mesmerized I would be by watching Billy play the guitar. I was transfixed. It's an incredible sound-vision combo, his right arm slamming maniacally against the guitar as his left hand seemlessly floats around the fretboard. I'd never witnessed anything like this before.
+
+So it turns out that this is what you spend most of the time watching here as well, the camera (stable shot, it was sitting on top of a gear rack) is 90% focused on Billy, and with lights you get shots of Jimmy behind him. During "Take Me Down" the camerman shifts the focus to James and during "We Only Come Out At Night" we get a cute duet shot (sort of) of Billy and D'arcy. But mostly it's a Billstravaganza.
+
+During this brief tour they were performing an acoustic set, then a break, then an extended electric set. So I split the discs in two, creating one for each set, making disc one a very short disc and disc two more than twice as long. But it worked out pretty good.
+
+Just before XYU you'll hear Billy mention the snow and that we might all be stuck there. When the second set started, it began snowing with blizzard like force, and by the time they reached the XYU encore, there was about 5 inches on the ground. Debate went on about whether they should continue, but the crowd didn't budge and the show carried on into the lengthy guitar feedback duel at the end of "Silverfuck". Absolutely mesmerizing. 
+
+When we finally reached the car, there was about 8 inches down en route to a total of 38 inches over the next 30 hours. I'm pretty sure they were stuck in town for a few days.
+
+Though I had an elaborate menu plan for these, in the end I just made a title screen for it and then the show starts. Sorry you menu freaks, maybe next time. It is chaptered though, so feel free to advance through the show if necessary (but shame on you if you do!).
+
+
+Part I - The Vibratones
+
+
+Tonight, Tonight 
+In the Arms of Sleep 
+Cupid de Locke 
+Thirty-three 
+Today 
+Lily 
+Take Me Down 
+Beautiful 
+Rocket 
+Disarm 
+
+
+
+Part II - White As Snow
+
+
+Mellon Collie And The Infinite Sadness 
+Where Boys Fear to Tread 
+Zero 
+Fuck You 
+To Forgive 
+Jellybelly 
+Porcelina of the Vast Oceans 
+Bullet with Butterfly Wings 
+Thru the Eyes of Ruby 
+1979 
+Geek U.S.A. 
+Cherub Rock 
+We Only Come Out at Night 
+X.Y.U. 
+By Starlight 
+Silverfuck 
+
+
+
+
+SOURCE INFO
+
+VHS tape in very good condition, some video tracking farts in the first 30 seconds, then fine. Video tracking noise on bottom of screen was cropped.
+
+Audio on the VHS was good, clear highs but quite distorted on the right side during the electric set. I dug up the circulated AUD source in which the info claims it's not likely to be from this video source. Actually, it most definitely is from the video (whenever the camera moves, the exact same knocking noises are present on both sources), but oddly I found it to be much faster and higher pitched and with a lot less high-end. As I slowed it down to match the more obvious proper speeds of the VHS, I still had to pitch it down, and then I noticed it had probably gone through considerable noise reduction as that was less obvious at the faster speed. All of this left me with two average and somewhat flawed versions of the same source. 
+
+So, I took both versions and created a decent 5.1 mix of the whole thing. It doesn't sound too bad at all for what it is. If you listen on a straight stereo system it'll sound ok but there may be, at times, slight phasing of the two identical sources. My tests of 2-track downmixes sounded nice, but it definitely will sound best on a 5.1 system.
+
+
+
+*Video
+
+VHS>SONY HVR-Z1U>Sony Vegas>MainConcept MPG2>DVD
+
+*Audio
+
+VHS>MOTU TRAVELER (16-48)>Sony Vegas>Dolby Digital 5.1
+

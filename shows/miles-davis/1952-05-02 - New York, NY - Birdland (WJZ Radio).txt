@@ -1,0 +1,62 @@
+Miles Davis Sextet
+05-02-52
+Birdland
+Ney York, New York
+
+Project ID - LL93
+
+Source: FM Broadcast
+Lineage: WJZ Radio Broadcast> ?? > cd (Peter Losin's Archive) > 
+cd duplicated (burner to burner) > eac > wav > flac (lvl 8 )
+
+Miles Davis (tpt); Jackie McLean (as); Don Elliot (vb, mellophone); 
+Gil Coggins (p); Connie Henry (b); Connie Kay (d)
+ 
+disc 1
+
+d1t01. Confirmation
+d1t02. Out of the Blue
+ 
+-------------------------------------------------------
+
+Notes:
+
+- This source is much crisper than the previously seeded LL26. A definite upgrade by my 
+ears
+
+- This is a stellar performance. Very short, but very, very sweet. Track two is absolutely 
+phenomenal. Jackie McLean and Miles really complement each other very, very well here.
+
+- D1t02 There is a burst of static at 3:50 that lasts for a little less than 2 seconds.
+
+- Thanks to Peter Losin for source!!
+
+- Peter Losin notes: "Davis's first live date as a leader since the 
+October Birdland broadcast. His All-Star group was booked at 
+Birdland for one week, May 1-7. Two nights were broadcast on WJZ. 
+Presumably there was more from this night, but so far this is all 
+that has surfaced.-Credit to Peter Losin http://www.plosin.com/
+
+- QC done by Bgreen
+
+md5
+d19f4de07a57453f6db44a3aae4fd324 *md1952-05-02.fm.LL93.d1t01.flac
+e19857ed6d62c4043bcf143c03c5bc49 *md1952-05-02.fm.LL93.d1t02.flac
+
+ffp
+md1952-05-02.fm.LL93.d1t01.flac:b7f34d27016d3657881d197d9163ae01
+md1952-05-02.fm.LL93.d1t02.flac:f4787bdfd067e0a765b4ef8b5e86108d
+
+shntool
+    length     expanded size   cdr  WAVE problems filename
+     5:49.53       61688300    ---   --   ---xx   md1952-05-02.fm.LL93.d1t01.flac
+     5:46.36       61119116    ---   --   ---xx   md1952-05-02.fm.LL93.d1t02.flac
+    11:36.14      122807416 B                     (totals for 2 files, 0.5023 overall compression ratio)
+
+spectral analysis from TLH
+md1952-05-02.fm.LL93.d1t01.wav:  track looks like CDDA with probability 100%
+md1952-05-02.fm.LL93.d1t02.wav:  track looks like CDDA with probability 100%
+
+old ffp 
+16 - Track16.flac:b7f34d27016d3657881d197d9163ae01
+17 - Track17.flac:f4787bdfd067e0a765b4ef8b5e86108d

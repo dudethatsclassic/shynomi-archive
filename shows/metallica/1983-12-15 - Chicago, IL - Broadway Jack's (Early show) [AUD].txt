@@ -1,0 +1,28 @@
+Metallica
+12/15/83 Broadway Jack's: Chicago, IL [EARLY SHOW]
+
+  source: unknown microphones > unknown recorder
+ lineage: ????? > unknown generation cassette > CDR > .flac
+transfer: EAC > Soundforge > CD Wave > FLAC frontend > .flac
+encoding: cps 05/29/07
+   edits: yes (see below)
+      eq: none
+
+comments: * tape-flips @ 34:12 and 43:22
+          * normalized to 99.08% (+2.3 dB)
+          * cross-faded tape-flip before 'No Remorse' (43:22)
+          * last two songs cut???  ('Creeping Death' & 'Metal Militia')
+
+setlist:
+
+ 1. Hit the Lights
+ 2. Four Horsemen
+ 3. Jump in the Fire
+ 4. Fight Fire With Fire
+ 5. Ride the Lightning
+ 6. Phantom Lord
+ 7. Call of Ktulu
+ 8. No Remorse
+10. Seek & Destroy
+10. - bass solo -
+11. Whiplash

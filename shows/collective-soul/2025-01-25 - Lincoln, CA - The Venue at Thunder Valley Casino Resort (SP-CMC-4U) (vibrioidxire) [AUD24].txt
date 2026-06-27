@@ -1,0 +1,57 @@
+COLLECTIVE SOUL
+January 25, 2025
+The Venue at Thunder Valley Casino Resort
+Lincoln, CA, US
+
+SETLIST:
+-------------------
+00. intro/banter
+01. Mother's Love [w/ extended intro]
+02. Bluer Than So Blue
+03. Heavy
+04. Shine
+05. Livin' on the Edge [Aerosmith cover, part of] ->
+06. Shine [reprise]
+07. Keep It on Track
+08. The World I Know
+09. Dirty Deeds Done Dirt Cheap [AC/DC cover]
+10. Where the River Flows [w/ extended intro]
+11. December [w/ Greg Fischer on guitar]
+12. Run
+
+
+SOURCE:
+-------------------
+AUD #1 - Quality: 9.0
+Sound Professionals SP-CMC-4U > Sony PCM-A10
+
+Recorded by: vibrioidxire
+
+TRANSFER:
+-------------------
+Sound Professionals SP-CMC-4U (AT-U853's, with SP UE-H-PAIR hypercardioid caps mod) > Sound Professionals SP-SPSB-10 Power Module > Sony PCM-A10 High-Resolution Digital Audio Recorder > WAV [48kHz/24-bit] > USB connector > Insignia NS-PA3C3A USB-C to USB adapter > Apple MacBook Pro (16-inch, 2021) > Adobe Audition 23.2 [post-production/mastering] > xACT 2.57 > FLAC [Level 8]
+
+GENERATION:
+-------------------
+WAV(M) [48kHz/24-bit] > FLAC [Level 8]
+
+
+FLAC FINGERPRINTS:
+-------------------
+collectivesoul2025-01-25_AUD1_t00.flac:ce372e4f6de3a8ea97e9ad440f34a174
+collectivesoul2025-01-25_AUD1_t01.flac:fe9a2c5d360a474457f8f5bccb9d1bcd
+collectivesoul2025-01-25_AUD1_t02.flac:b80a82278e61ed2ff5a8af4fd12b2a07
+collectivesoul2025-01-25_AUD1_t03.flac:6a208e1bb9f8de79652f79a097fe5eb4
+collectivesoul2025-01-25_AUD1_t04.flac:b5312d28272316442c186d1575c5a392
+collectivesoul2025-01-25_AUD1_t05.flac:a976b5b1a05f8f26f30360379247a8ca
+collectivesoul2025-01-25_AUD1_t06.flac:45249d19ab10fff5d9524453e7c0b87c
+collectivesoul2025-01-25_AUD1_t07.flac:a11273b564d39fd0148d3f45b8a8b589
+collectivesoul2025-01-25_AUD1_t08.flac:ed16736159d180a9b17aea7eee0551f2
+collectivesoul2025-01-25_AUD1_t09.flac:a7f3d0d12220a7f479e02e0d5fa19ff2
+collectivesoul2025-01-25_AUD1_t10.flac:0853767dd7a5a6bcf14eb54e78dae55f
+collectivesoul2025-01-25_AUD1_t11.flac:d46764a6735c559fb0ed1dcc87aebc5a
+collectivesoul2025-01-25_AUD1_t12.flac:a7629d021206cc51076773132ed7e5fe
+
+
+Transferred and encoded by: vibrioidxire
+PLEASE DO NOT DISTRIBUTE IN LOSSY FORMATS OR SELL!

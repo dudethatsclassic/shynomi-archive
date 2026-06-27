@@ -1,0 +1,64 @@
+Our Lady Peace
+2006-04-27
+Centre in Vancouver for Performing Arts
+Vancouver, BC, Canada
+
+Source 1: CSB > battery box (bass roll-off enabled) > MZ-RH10 (Hi-SP mode)
+By: xjsb125
+Transfer: MZ-RH10 > SonicStage > WAV
+By: xjsb125
+
+Source 2: CSB > battery box (bass roll-off enabled) > MZ-R37
+By: nikki4982
+Transfer: MD (master) > MDS-JB940 optical out > Soundblaster Audigy 2 NX optical
+          in > WAV (recorded and edited in Adobe Audition)
+By: faninor
+
+Source 3: CSC > battery box > MZ-R91
+By: faninor
+Transfer: MD (master) > MDS-JB940 optical out > Soundblaster Audigy 2 NX optical
+          in > WAV (recorded and edited in Adobe Audition)
+By: faninor
+
+Source 4: Sony ECM-S930C > Sony DCR-HC20
+By: xjsb125
+Transfer: Sony DCR-HC20 > firewire > Sony Vegas 6.0 > Adobe Audition 1.5 > WAV
+By: xjsb125
+
+Transfer: mixed in Adobe Audition, tracked in CD Wave > FLAC
+By: faninor
+
+Disc 1 ------------------------------------------------------------- [73:39.000]
+01 - One Man Army                                                    [05:20.000]
+02 - Innocent                                                        [04:21.000]
+03 - Angels/Losing/Sleep                                             [06:22.000]
+04 - Is Anybody Home?                                                [03:29.000]
+05 - Car Crash                                                       [05:46.000]
+06 - Love and Trust                                                  [04:16.000]
+07 - Picture                                                         [06:12.000]
+08 - Where Are You?                                                  [05:30.000]
+09 - In Repair                                                       [06:59.000]
+10 - Clumsy                                                          [07:47.000]
+11 - Kiss on the Mouth                                               [03:40.000]
+12 - Boy                                                             [05:53.000]
+13 - Will the Future Blame Us?                                       [07:59.000]
+14 - fade                                                            [00:05.000]
+
+Disc 2 ------------------------------------------------------------- [37:59.000]
+01 - fade                                                            [00:05.000]
+02 - improvisation                                                   [01:38.000]
+03 - Superman's Dead                                                 [06:49.000]
+04 - 4am                                                             [05:58.000]
+05 - Wipe That Smile Off Your Face                                   [08:02.000]
+06 - Starseed                                                        [04:02.000]
+07 - Somewhere Out There                                             [04:01.000]
+08 - Naveed                                                          [07:24.000]
+
+Notes --------------------------------------------------------------------------
+Source 1 recorded from dress circle row 1, left section.
+Source 2 recorded from floor row 6, middle section.
+Source 3 recorded from dress circle row 1, left section. Disc switch between
+Will the Future Blame Us and Superman's Dead.
+Source 4 recorded from dress circle row 1, left section.
+
+-- faninor -------- please don't convert to lossy formats -------- 2006-05-04 --

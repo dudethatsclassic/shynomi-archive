@@ -1,0 +1,92 @@
+Miles Davis Quintet
+10-26-1969L
+Teatro Lirico
+Milan, Italy
+
+Project ID - LL174
+
+Source: Audience recording
+Lineage: Audience recording > ?? > wave > Peter Losin's Archive > 
+CD Duplicated (burner to burner) > eac > flac lvl 8
+
+Miles Davis (tpt); Wayne Shorter (ss, ts); Chick Corea (el-p); Dave Holland (b, el-b); 
+Jack DeJohnette (d)
+
+disc 1
+
+d1t01. Bitches Brew
+d1t02. It's About That Time 
+d1t03. Nefertiti
+d1t04. Round Midnight
+d1t05. I Fall in Love Too Easily
+d1t06. Masqualero 
+d1t07. Sanctuary 
+d1t08. Spanish Key
+d1t09. The Theme
+
+-------------------------------------------------------
+
+Notes:
+
+- The mid and low end of the recordings is a bit garbled and distant. Overall,
+it's not a wonderful recording, but it's not a terrible recording. It's definetly 
+listenable.  
+ 
+- Thanks to Peter Losin for the source
+
+- QC done by Bgreen
+
+md5
+b1473c0766dc7171f2e207d7f19c26ac *md1969-10-26L.LL174.d1t01.flac
+beeb16995b880c48e81d17200c6ab5ca *md1969-10-26L.LL174.d1t02.flac
+1ea9f5ea29a1c2ae72068d2d0cad64ce *md1969-10-26L.LL174.d1t03.flac
+3cbaea14fec7bc1630ed75a8b1786d55 *md1969-10-26L.LL174.d1t04.flac
+5927c0ab5662aad2c3673b233af0c5f0 *md1969-10-26L.LL174.d1t05.flac
+ef85e8951f71c7a4eabd7e24209dcea1 *md1969-10-26L.LL174.d1t06.flac
+b879b81162388aec0a53f9d37f2e2572 *md1969-10-26L.LL174.d1t07.flac
+893ebd24f723e0eea13c616b0dbb2c0c *md1969-10-26L.LL174.d1t08.flac
+a375449e5a66a6f25f059cc724b60444 *md1969-10-26L.LL174.d1t09.flac
+
+ffp
+md1969-10-26L.LL174.d1t01.flac:dcc6a8a3c2d35574a4bf20de7313d541
+md1969-10-26L.LL174.d1t02.flac:16aea63549af890f41f16981cc8b3988
+md1969-10-26L.LL174.d1t03.flac:2464ec926b0eea51f245e4900726aa95
+md1969-10-26L.LL174.d1t04.flac:feb497ba9d31e28a6ae44b7516070659
+md1969-10-26L.LL174.d1t05.flac:46b76b15f8760cf67305ad3de49611c4
+md1969-10-26L.LL174.d1t06.flac:bffe6c5a9cd6b33fc03d8af3f40528b3
+md1969-10-26L.LL174.d1t07.flac:f0a11167ac2ea8b59581093d86a00d46
+md1969-10-26L.LL174.d1t08.flac:f3fa83df14f368a052f8d6ca49831863
+md1969-10-26L.LL174.d1t09.flac:7a7ff265dbf61a165f2224db5c8dfaa9 shntool
+    length     expanded size    cdr  WAVE problems  fmt   ratio  filename
+    13:24.06      141839756 B   ---   --   ---xx  md1969-10-26L.LL174.d1t01.flac
+    13:17.58      140727260 B   ---   --   ---xx  md1969-10-26L.LL174.d1t02.flac
+     9:36.72      101775788 B   ---   --   ---xx  md1969-10-26L.LL174.d1t03.flac
+     9:35.02      101434748 B   ---   --   ---xx  md1969-10-26L.LL174.d1t04.flac
+     1:10.58       12484460 B   ---   --   ---xx  md1969-10-26L.LL174.d1t05.flac
+    10:01.58      106152860 B   ---   --   ---xx  md1969-10-26L.LL174.d1t06.flac
+     0:08.71        1578236 B   ---   --   ---xx  md1969-10-26L.LL174.d1t07.flac
+     9:03.24       95841692 B   ---   --   ---xx  md1969-10-26L.LL174.d1t08.flac
+     0:18.50        3292844 B   ---   --   ---xx  md1969-10-26L.LL174.d1t09.flac
+    66:37.24      705127644 B                            0.4869  (9 files)
+
+spectral analysis from TLH
+md1969-10-26L.LL174.d1t01.wav:  track looks like CDDA with probability 54%
+md1969-10-26L.LL174.d1t02.wav:  track looks like CDDA with probability 43%
+md1969-10-26L.LL174.d1t03.wav:  track looks like CDDA with probability 49%
+md1969-10-26L.LL174.d1t04.wav:  track looks like CDDA with probability 42%
+md1969-10-26L.LL174.d1t05.wav:  track looks like CDDA with probability 86%
+md1969-10-26L.LL174.d1t06.wav:  track looks like MPEG with probability 91%
+md1969-10-26L.LL174.d1t07.wav:  track looks like CDDA with probability 100%
+md1969-10-26L.LL174.d1t08.wav:  track looks like CDDA with probability 92%
+md1969-10-26L.LL174.d1t09.wav:  track looks like CDDA with probability 94%
+
+old md5 or ffp (incude both if available)
+b1473c0766dc7171f2e207d7f19c26ac *01 - Track01.flac
+beeb16995b880c48e81d17200c6ab5ca *02 - Track02.flac
+1ea9f5ea29a1c2ae72068d2d0cad64ce *03 - Track03.flac
+3cbaea14fec7bc1630ed75a8b1786d55 *04 - Track04.flac
+5927c0ab5662aad2c3673b233af0c5f0 *05 - Track05.flac
+ef85e8951f71c7a4eabd7e24209dcea1 *06 - Track06.flac
+b879b81162388aec0a53f9d37f2e2572 *07 - Track07.flac
+893ebd24f723e0eea13c616b0dbb2c0c *08 - Track08.flac
+a375449e5a66a6f25f059cc724b60444 *09 - Track09.flac

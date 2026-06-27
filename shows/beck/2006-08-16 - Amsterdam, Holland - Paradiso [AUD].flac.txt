@@ -1,0 +1,58 @@
+Beck, 2006-08-16, Paradiso, Amsterdam, 82:31
+
+1. Loser
+2. Black Tambourine
+3. Summer Girl
+4. Que Onda Guero
+5. Hell Yes
+6. No Complaints
+7. ?
+8. Nausea
+9. ?
+10. ?
+11. Tropicalia
+12. Lost Cause
+13. Golden Age
+14. Everybody's Gotta Learn Sometime
+15. ?
+16. ?
+17. Paper Tiger
+18. Whiskeyclone, Hotel City 1997
+19. ?
+20. Hotwax
+21. Devil's Haircut
+22. encore break: puppets in Amsterdam movie
+23. Where It's At
+24. E-Pro
+25. crowd noise
+
+Recording by Martin van Rappard (rappard@dds.nl), transfer by livemusic@chello.nl: hung over left upper level balcony (5 metres from stage) > Marantz EM-8 > Sharp IM-DR420H > MiniDisc (master) > Sony MDS-JE500 > Furukawa optical cable > Creative Sound Blaster Platinum 5.1 > hard drive > Cool Edit Pro 2.0 (edits where needed) > CD Wave 1.94.4 (track splits) > FLAC Frontend 1.7.1 (level 8)
+
+Missing the first few seconds of 1 (but it's the studio version segueing (at 1:19) into the band performing anyway), brief static in 11 (2:20-2:30) was the soundman fucking up, missing the first few seconds of 22 (MiniDisc switch)
+
+
+beck2006-08-16t01.flac:1a8cb8e09714c064ad4f51a1a5828bc1
+beck2006-08-16t02.flac:b99ec8eee79541c17ce48308e72ef113
+beck2006-08-16t03.flac:0e8d3617c6bf41af3e89d3990f3c3abf
+beck2006-08-16t04.flac:708793d36584f2b3d3f4457346749b0a
+beck2006-08-16t05.flac:1a570e65af9fe7b75bea355960e1f406
+beck2006-08-16t06.flac:5fe40379ffac4d057bc15b8c7bf9556e
+beck2006-08-16t07.flac:af9e538678b3153f49539a4e1251954e
+beck2006-08-16t08.flac:8edf2bfe62ca65b4130b52ab4ab58dcd
+beck2006-08-16t09.flac:ca562aa0a0afd06c41953069a08effe5
+beck2006-08-16t10.flac:8adb752a4c45a2f03d12f8a2cc84677e
+beck2006-08-16t11.flac:5f0225b42c4fe74197ac841af377658f
+beck2006-08-16t12.flac:c3ca115c5ffb3e2508c774838fa729f9
+beck2006-08-16t13.flac:244fede47cdf392413ddd716c8a9349e
+beck2006-08-16t14.flac:b2d362273b31c51ba4905ad529226808
+beck2006-08-16t15.flac:905f37fb8232f93116cf06e4435917a6
+beck2006-08-16t16.flac:65f3c6939e03ff01527adec0907feaed
+beck2006-08-16t17.flac:150bf7c54b907ed8b25656a6d6b7ddb8
+beck2006-08-16t18.flac:6cde1247383522bcab9e444dc903f1de
+beck2006-08-16t19.flac:3d47fc5620eae3c5084ae9c1bbb8880d
+beck2006-08-16t20.flac:c18ea5464679b2821f7453948cea4b2b
+beck2006-08-16t21.flac:0f6c37677b49963889242875c9c95bfa
+beck2006-08-16t22.flac:0d894e6c29a0bcd2c0cab586de086463
+beck2006-08-16t23.flac:99c718164df9d392bf8f98618a1cc25f
+beck2006-08-16t24.flac:1972d5998910de21236db3150e12bb60
+beck2006-08-16t25.flac:506a06fb437b12325f2d1966db70dc2b

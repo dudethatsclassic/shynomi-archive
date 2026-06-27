@@ -1,0 +1,55 @@
+The Shins 2007-10-5
+Greek Theatre, Berkeley, CA
+~50 Feet, Right Center
+Schoeps CMC34 -> Aeta PSP3 -> R-09 @ 24bit 48khz
+
+-> cool edit pro (fades, downsample dither at highest settings) -> cdwav 
+-> flac frontend (level 8)
+-> you
+
+
+01. Turn On Me
+02. Sea Legs
+03. Kissing the Lipless
+04. Mine's Not a High Horse
+05. When I Goose Step (from the Wicker Park Soundtrack)
+06. Turn a Square
+07. Girl Sailor (aborted)
+08. Girl Sailor
+09. New Slang
+10. Saint Simon
+11. Girl Inform Me
+12. Gone for Good
+13. A Comet Appears
+14. Sleeping Lessons
+15. Australia
+16. Phantom Limb
+17. Know Your Onion!
+18. (encore break)
+19. Caring is Creepy
+20. The Past & Pending
+21. So Says I
+
+shins_20071005_cmc34_16441_01.flac:08bb6f42e5f7dd52db7774cda08148de
+shins_20071005_cmc34_16441_02.flac:7e9eedd408f0f330668e1b4107d6b7d1
+shins_20071005_cmc34_16441_03.flac:807d4ae7a0dbe1b9dab8a13156614d6d
+shins_20071005_cmc34_16441_04.flac:9d9c8997a0efcfc9b2e419b6f6256fbe
+shins_20071005_cmc34_16441_05.flac:8d75b15b02b78990243aa5d0e77a16e4
+shins_20071005_cmc34_16441_06.flac:b3e0b9cbd50bed6e81ad328781a29c77
+shins_20071005_cmc34_16441_07.flac:108847bdb483af3e7f0e2101855969cd
+shins_20071005_cmc34_16441_08.flac:b43ca141dc54cde3dd27abfec57d2ef0
+shins_20071005_cmc34_16441_09.flac:429bff4c338cc4327c18e607479af519
+shins_20071005_cmc34_16441_10.flac:aff06fe2d2582178caa4d354a16985ea
+shins_20071005_cmc34_16441_11.flac:8e159a073effa563c106ef6abc4a862a
+shins_20071005_cmc34_16441_12.flac:43a0f47096420354a2126a4a22da8e0d
+shins_20071005_cmc34_16441_13.flac:c65798e3a13d006f20d69566d76e6255
+shins_20071005_cmc34_16441_14.flac:95d0cfc3cf68c89578aafbba3780dbd5
+shins_20071005_cmc34_16441_15.flac:85d49414ed9573c5376096c93f8a332e
+shins_20071005_cmc34_16441_16.flac:e06cd509d74d25576d4aba438b5353e1
+shins_20071005_cmc34_16441_17.flac:dd9aa422cda27eede8283229357ee868
+shins_20071005_cmc34_16441_18.flac:366c2a086862b8800729e936555725ed
+shins_20071005_cmc34_16441_19.flac:68fe3c63b88ab720b5e5393777d0f784
+shins_20071005_cmc34_16441_20.flac:8fb91c8fcbe38a374f4a000dfac41c8c
+shins_20071005_cmc34_16441_21.flac:e1dd06ecb2b6d58a9226e749f92ea16f
+
+ 

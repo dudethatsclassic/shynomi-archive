@@ -1,0 +1,84 @@
+***************
+* Beck
+* Dallas, TX
+* Nokia Theatre
+* 21 June 2006
+
+*********************************************************
+* Taping Location:
+* Sec 102, Row R, Seat 17 (FOB, 5' stage right of center)
+
+************************************************************
+* Recording Info:
+* Sonic Studios[DSM-6S/L] > Sonic Studios[PA-6LC3(-45)] > D7
+
+**********************************************************************************************************************************************
+* Transfer Info:
+* Master DAT(48) > Sony 59ES > HHB CDR-850 (via Monster Digital Coax) > CDR > EAC[secure] > FLAC [level 8, verify, align on sector boundaries]
+
+
+CMM-037 (Chris Milazzo Master)
+
+Disc 1 [53:56]
+[01] [03:39] Devil's Haircut
+[02] [04:15] Black Tambourine
+[03] [02:33] Mixed Bizness
+[04] [02:40] Girl
+[05] [13:31] Guero > Nicotine & Gravy > Hollywood Freaks > Hell Yes >
+             Novacane > Scarecrow > We Dance Alone > Where It's At
+[06] [02:54] The New Pollution
+[07] [03:43] Landslide
+[08] [04:39] Paper Tiger
+[09] [03:08] Tropicalia
+[10] [02:23] Lost Cause
+[11] [04:32] Broken Drum
+
+Disc 2 [50:14]
+[12] [01:58] Introductions
+[13] [03:05] Guess I'm Doing Fine
+[14] [02:06] Lovesick Blues
+[15] [01:38] Do You Realize
+[16] [03:52] Debra
+[17] [03:22] The Golden Age
+[18] [05:03] Clap Hands > One Foot In The Grave
+[19] [03:08] "Puppet Movie" *
+[20] [02:28] Loser **
+[21] [02:19] 1000 BPM
+[22] [04:42] Rental Car
+[23] [04:16] Where It's At
+[24] [04:31] E-Pro
+
+Track ID's made during DAT > CD transfer so they may not be perfect.
+
+* Not included because it includes "Theme From Dallas", an officially released track.
+** Not included because it is the officially released studio vesion of "Loser".
+
+Video clip of "Lovesick Blues" included as well as some pictures - both taken by my brother in the seat next to me.
+
+Chris
+
+Fingerprints:
+D1:
+Track01.flac:ae64c2af345e207618a8c05e7c393446
+Track02.flac:3cfa023159524a374fc3f258203a9387
+Track03.flac:aa791c87a4076a21620804f1b19a592e
+Track04.flac:c34ccb91e094c427200348c6cedcc80c
+Track05.flac:b2171a8d1ff3f870d558a4d2fcfd7bd8
+Track06.flac:b053098aec92955d61c0273e7b98ef06
+Track07.flac:b9cf556fdb9ae3dd32f93ca9d022cde6
+Track08.flac:25875428a597f41c756fecc00c33660d
+Track09.flac:ee45b5a3eae13510ee0089dbef612d91
+Track10.flac:ddf61971b51fc45805ce11c3043174ca
+Track11.flac:ca54d39d26c8146dfb31b1405ad88c55
+D2:
+Track01.flac:15cb0a3c6eae9dd0bafec35ca6fda2a7
+Track02.flac:488e291be99cc1a8aabc20c38776c547
+Track03.flac:0790ddf0c9f39eb25c326bb503ebc385
+Track04.flac:509ea7affa4693d431874cb659659f76
+Track05.flac:99410c8eb8865d94ce33dc539eeeba29
+Track06.flac:35f5d86fc8149d3910d0f58fc4986152
+Track07.flac:c4b9174bc752b7a454b5c20ed5df73ed
+Track10.flac:4a914238ae85e200c6191e28ca1c7cd1
+Track11.flac:eb991f0ea99c823b30ef1f8f08c8395d
+Track12.flac:8f36835571d910dd496ce5d6348e75fe
+Track13.flac:3b16b1b3f2f32e3894ea63501dc3ba7a

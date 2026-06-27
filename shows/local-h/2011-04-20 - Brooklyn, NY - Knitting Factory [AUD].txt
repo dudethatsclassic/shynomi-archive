@@ -1,0 +1,70 @@
+Local H
+April 20, 2011
+Knitting Factory
+Brooklyn, NY
+
+Source:   Blue Mikey 2 > iPhone 3GS [Blue FiRe app, .wav @ 16-bit/44.1kHz]    
+Lineage:  iPhone 3GS > WiFi > Amadeus Pro v1.5.4 > .flac [level 8] 
+Location: FOB, 3' ROC, elevated 7' on stand, pointed @ stage 
+
+Taped & Transferred by James Bonaiuto (cd2go@hotmail.com)
+-------------------------------------------------------------------------------------
+Total:                                                       [93:38.23]
+-------------------------------------------------------------------------------------
+01. intro                                                    [01:10]
+02. Fritz's Corner                                           [03:24]
+03. All The Kids Are Right                                   [03:36]
+04. Cynic                                                    [05:37]
+05. Half-Life                                                [04:10]
+06. Tag-Along                                                [03:04]
+07. 24 Hour Break-Up Session                                 [04:10]
+08. All-Right (Oh, Yeah)                                     [03:43]
+09. High-Fiving MF                                           [08:39]
+10. Paddy Considine                                          [03:02]
+11. Everyone Alive                                           [03:55]
+12. Michelle (Again)                                         [02:57]
+13. Eddie Vedder                                             [03:19]
+14. Mayonnaise and Malaise                                   [04:33]
+15. Hands On The Bible                                       [04:40]
+16. California Songs                                         [08:45]
+17. Bloodstains *                                            [02:10]
+18. Smothered In Hugs #                                      [03:36]
+19. Time %                                                   [05:59]
+20. Bound For The Floor                                      [05:02]
+21. Wolf Like Me ^                                           [07:57]
+-------------------------------------------------------------------------------------
+Notes:
+
+* = by Agent Orange
+# = by Guided By Voices
+% = by Pink Floyd
+^ = by TV on the Radio
+-------------------------------------------------------------------------------------
+Amadeus Pro v1.5.4 Notes:
+
+- Normalized peak level to -.1 dB
+- Fades at beginning/end of show
+-------------------------------------------------------------------------------------
+xACT v2.10 FLAC Fingerprint:
+
+localh2011-04-20t01.mikey2.iphone3GS.flac:93ffea5bd94b62be4bceb362043aa7d4
+localh2011-04-20t02.mikey2.iphone3GS.flac:563327dbac11f8d1d7d810b8fa8aa9f7
+localh2011-04-20t03.mikey2.iphone3GS.flac:2a0bd4fd52e6f144d159231a396e3303
+localh2011-04-20t04.mikey2.iphone3GS.flac:421284ae4ef87957e107ba04e7c52575
+localh2011-04-20t05.mikey2.iphone3GS.flac:a45538864e479cbe147fe6b94c331760
+localh2011-04-20t06.mikey2.iphone3GS.flac:867541af57bd2e7a7350f2e6560f9d7d
+localh2011-04-20t07.mikey2.iphone3GS.flac:7e048002a1b9a4465be020ae5baac939
+localh2011-04-20t08.mikey2.iphone3GS.flac:c84ef34a119764966431b3b1c123bdb7
+localh2011-04-20t09.mikey2.iphone3GS.flac:2c672873bce35c9eac1bbd1798dfd7db
+localh2011-04-20t10.mikey2.iphone3GS.flac:ef10c0e597ece3f85177311e81a7036a
+localh2011-04-20t11.mikey2.iphone3GS.flac:604a3335c0424c4393c931ac6d6f88c2
+localh2011-04-20t12.mikey2.iphone3GS.flac:58a565822e6f6e85772e8bf469272d46
+localh2011-04-20t13.mikey2.iphone3GS.flac:63e216f5741fceb539224158dd6cc6f9
+localh2011-04-20t14.mikey2.iphone3GS.flac:b67f2c62808ed618d71dfe4259ad0cfd
+localh2011-04-20t15.mikey2.iphone3GS.flac:f8ca24a551f2086e230bbc4e4adcb717
+localh2011-04-20t16.mikey2.iphone3GS.flac:da1dac77024753e460e959a7c6d2cb35
+localh2011-04-20t17.mikey2.iphone3GS.flac:8c9deffb78cb4265ca0c9ac4cdce4d5c
+localh2011-04-20t18.mikey2.iphone3GS.flac:790c31957136ddad044af951ef62549f
+localh2011-04-20t19.mikey2.iphone3GS.flac:0341481aa443e5f04fb27d2503dfdee2
+localh2011-04-20t20.mikey2.iphone3GS.flac:8f1066cae4b25849fd744857f6719313
+localh2011-04-20t21.mikey2.iphone3GS.flac:d2c3b426edf07163787f2cc2343bc9b6

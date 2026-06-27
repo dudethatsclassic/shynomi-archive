@@ -1,0 +1,53 @@
+Local H
+Metro: Chicago, IL
+October 21, 2022
+
+Source: AT831s > SP-SPSB-11 (@69Hz) > Sony PCM-M10 @ 24-bit / 44.1kHz
+Location: FOS left
+Transfer: M10 > USB > Audacity > xACT 2.50
+Edits/EQ: +1.5dB (second set only)
+Taper: tapeworm(48) 
+
+Setlist:
+
+01. Intro
+02. Buffalo Trace
+03. Smothered in Hugs [Guided by Voices]
+04. When Doves Cry [Prince]
+05. Eddie Vedder
+06. Simple Pleas
+07. All the Kids Are Right
+08. Hey, Rita
+09. Big Log [Robert Plant]
+10. High Wide and Stupid
+11. "Cha!", Said the Kitty
+12. Fritz's Corner
+13. -set break-
+14. Hands on the Bible
+15. Half-Life
+16. Son of "Cha!"
+17. 5th Ave. Crazy
+18. (Baby Wants To) Tame Me
+19. Keep Your Girlfriend
+20. Rock & Roll Professionals
+21. Creature Comforted
+22. Bryn Mawr Stomp
+23. What Would You Have Me Do?
+24. -encore break-
+25. California Songs
+26. Back in the Day
+27. Bound for the Floor / (25 or 6 to 4 [Chicago])
+28. Static Age [Misfits]
+29. HFMF
+
+Notes: An evening with Local H. 20th anniversary show for 'Here Comes the Zoo'. 
+David Lugo on bass guitar. 25 minute set break was removed. Levels started at 5 
+on the M10, but reduced to 4 during the 1st set. 
+
+Archive: Master WAV was archived @ 24-bit/44.1kHz and FLAC'd with cue sheet. 
+
+Taped and transferred by tapeworm(48) 
+Txt file compiled on 10/22/2022
+
+*** DO NOT REMASTER WITHOUT PERMISSION. DO NOT DISTRIBUTE IN LOSSY FORMATS. DO 
+NOT SELL THIS RECORDING, TRADE IT FREELY *** 

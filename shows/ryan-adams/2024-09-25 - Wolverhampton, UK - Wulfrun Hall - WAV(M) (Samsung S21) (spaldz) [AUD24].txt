@@ -1,0 +1,82 @@
+Ryan Adams
+September 25th 2024
+Wulfrun Hall
+Wolverhampton, UK
+
+SOURCE:
+Internal Mic > Field Recorder App > Samsung S21
+
+GENERATION:
+WAV(M) > FLAC
+
+LENGTH:
+154:22
+
+SETLIST:
+01. Intro
+02. Oh My Sweet Carolina
+03. Ashes & Fire
+04. Prisoner
+05. Gimme Something Good
+06. Save Me
+07. New York, New York
+08. Somethings Missing
+09. Carolina Rain
+10. Dear Chicago
+11. The Changeling [The Doors]
+12. Everybody Knows
+13. Two
+14. Do I Wait
+15. Firecracker
+16. (talking)
+17. Pale Blue Eyes [The Velvet Underground]
+18. Dreaming You Backwards
+19. Star Sign
+20. Candy Says [The Velvet Underground]
+21. I See Monsters
+22. My Winding Wheel
+23. The Man in Me [Bob Dylan]
+24. Nobody Girl
+25. English Girls Approximately
+26. Wednesdays
+27. Answering Bell
+28. Nebraska [Bruce Springsteen]
+29. DRA Mash Up: To Be Young (is to Be Sad, is to Be High) > When The Stars Go Blue > Come Pick Me Up > (improv)
+
+NOTES:
+Row C
+
+MD5 FINGERPRINTS:
+72c62932ccac1f3e2daea1a102c6d4a0 *Ryan Adams 2024-09-25 t01 Intro.flac
+f4e25b7be0cc8726aad16ca9c010bf98 *Ryan Adams 2024-09-25 t02 Oh My Sweet Carolina.flac
+b945af12a5a5cb7feface53645af515b *Ryan Adams 2024-09-25 t03 Ashes & Fire.flac
+d0e5e95d9d9dc545b4d1e4bbc7066f71 *Ryan Adams 2024-09-25 t04 Prisoner.flac
+e9c9a0e67c5aaaa114c6fe600d8d654a *Ryan Adams 2024-09-25 t05 Gimme Something Good.flac
+c64ef27a350991a9204dd7889eb7bd00 *Ryan Adams 2024-09-25 t06 Save Me.flac
+ebbea9527887e9e8798e564f7a7c6de7 *Ryan Adams 2024-09-25 t07 New York, New York.flac
+a6115dd0372af2460c9278b52301a89c *Ryan Adams 2024-09-25 t08 Somethings Missing.flac
+a39298e36d0dad8de5f301aab53f39cd *Ryan Adams 2024-09-25 t09 Carolina Rain.flac
+565b72a010d650639454f5c03a6949cc *Ryan Adams 2024-09-25 t10 Dear Chicago.flac
+583887b22ed115c9e082294b3e2e113d *Ryan Adams 2024-09-25 t11 The Changeling [The Doors].flac
+e6db492e9b5fa172a6f9585cd6ec435c *Ryan Adams 2024-09-25 t12 Everybody Knows.flac
+5dbe53bb8b846d834a87b3bdc823c349 *Ryan Adams 2024-09-25 t13 Two.flac
+6fea4a822f48efeba2d2939806cebeeb *Ryan Adams 2024-09-25 t14 Do I Wait.flac
+a45f873354a4da24567358fc6c2d5249 *Ryan Adams 2024-09-25 t15 Firecracker.flac
+4d55008b815a2286e4a9fb326aac69ee *Ryan Adams 2024-09-25 t16 (talking).flac
+3b7cf305eed830f5f09c8ad3298eaa0e *Ryan Adams 2024-09-25 t17 Pale Blue Eyes [The Velvet Underground].flac
+026c800485e36d67c33bb0cf24edde67 *Ryan Adams 2024-09-25 t18 Dreaming You Backwards.flac
+fcb692fd2cf48412a1a3d94f61ca5853 *Ryan Adams 2024-09-25 t19 Star Sign.flac
+15342fb6b3e2eb438bdf69d7e2e693c5 *Ryan Adams 2024-09-25 t20 Candy Says [The Velvet Underground].flac
+7cd538242c7987692c153ee902931489 *Ryan Adams 2024-09-25 t21 I See Monsters.flac
+0e5c19e940473b8f969d8d61dff27e22 *Ryan Adams 2024-09-25 t22 My Winding Wheel.flac
+7eaac905de2d8fd7aa050dab8aab2feb *Ryan Adams 2024-09-25 t23 The Man in Me [Bob Dylan].flac
+ce5ca8bacd2cc66d973ffcc4e1f17fdb *Ryan Adams 2024-09-25 t24 Nobody Girl.flac
+4ad0e8340abd2857736888f21da7db32 *Ryan Adams 2024-09-25 t25 English Girls Approximately.flac
+db7202ecbddd2b8bcdfe434d829a73ed *Ryan Adams 2024-09-25 t26 Wednesdays.flac
+8fa290822a6337384b0fb8e0ab526917 *Ryan Adams 2024-09-25 t27 Answering Bell.flac
+e9d6a6d36bc85fbb09e8f90fff2a44e9 *Ryan Adams 2024-09-25 t28 Nebraska [Bruce Springsteen].flac
+0d9239af9a33dc1d75f0c043920c776c *Ryan Adams 2024-09-25 t29 DRA Mash Up.flac
+
+RECORDED BY:
+Spaldz
+

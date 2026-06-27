@@ -1,0 +1,59 @@
+Metallica
+July 3, 2011
+Ullevi
+Gothenburg, SWE
+
+Source 3: Tosse2
+FLAC/AUD
+16-Bit/44.1kHz
+
+Lineage:
+Taper (Tosse2) -> CDR -> EAC (secure) -> FLAC8 (traders little helper)
+
+Setlist:
+The Ecstasy Of Gold
+Hit the Lights
+Master Of Puppets
+The Shortest Straw
+Seek & Destroy
+Welcome Home (Sanitarium)
+Ride The Lightning
+The Memory Remains
+All Nightmare Long
+Sad But True
+The Call Of Ktulu
+One
+For Whom The Bell Tolls
+Blackened
+Fade To Black
+Enter Sandman
+Am I Evil?(w/ Megadeth & Anthrax)
+Damage, Inc.
+Creeping Death
+
+-----------------------------
+
+*Additional Notes, Added October 8, 2016 by JITF
+
+This recording had an older version of FLAC (libFLAC 1.2.1 20070917), so I decoded the audio files back to their original WAV format using Trader's Little Helper v2.7.0 (Build 172) and then encoded them again to the latest FLAC version, level 8 (libFLAC 1.3.1. 20141125) with Poikosoft's EZ CD Audio Converter v5.0.0 [64-Bit] - Ultimate. The files went from 605.7 MB to 605.2 MB.
+
+Notes provided via LiveMetallica.com
+------------------------------------
+
+This was the second show of the 2011 Summer Big 4 European Tour.
+
+This was the sixth time that Metallica had performed in Gothenburg.
+
+Metallica first played in Gothenburg on February 13, 1987. It was the last date on the Master of Puppets tour. You can download a free recording of that show here.
+
+Metallica was last in Gothenburg on May 30, 2004. You can download a recording of that show here.
+
+This was the first time that Hit the Lights was performed in Gothenburg.
+
+This was the first time that The Shortest Straw was performed in all of Sweden.
+
+This was the first time in almost 27 years that The Call of Ktulu was played in Sweden. It was last played in the country on December 12, 1984 in Stockholm.
+
+This was the first time in over 24 years that Damage, Inc. was played in Gothenburg. It was last played in the city on February 13, 1987.
+
+For a cover of Diamond Head's Am I Evil?, Metallica was joined on stage by Dave Mustaine, David Ellefson, Shawn Drover, and Chris Broderick of Megadeth, Charlie Benante, Rob Caggiano, Frank Bello, and Joey Belladonna of Anthrax and Andreas Kisser of Sepultura who is currently filling in for Anthrax's Scott Ian.

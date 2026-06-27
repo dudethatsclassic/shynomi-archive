@@ -1,0 +1,61 @@
+Miles Davis Quintet
+03-24-1960
+Tivoli Konsertsal
+Copenhagen, Denmark
+
+Project ID - LL57
+
+Source: FM broadcast
+Lineage: Danish Radio broadcast > ?? > wave > Disk 1 of Miles LX Tree from Miles-Trees > 
+ripped with unknown software > wave > flac
+
+Miles Davis (tp); John Coltrane (ts); Wynton Kelly (p); Paul Chambers (b); Jimmy Cobb (d)
+
+disc 1
+
+d1t01. So What
+d1t02. On Green Dolphin Street
+d1t03. All Blues > The Theme/
+
+
+-------------------------------------------------------
+
+Notes:
+
+- There is a very small amount of static/hiss present, very minimal.
+
+- The recording ends with a few seconds of the theme that is cut. 
+
+- Wonderful sounding recording and performance.  
+
+- QC done by Bgreen
+
+
+md5
+ f8215cf67d4afb8889a77b53a04334a8 *md1960-03-24.LL57.d1t01.shn
+ b92e44c63fb06bd01806b9bec753b254 *md1960-03-24.LL57.d1t02.shn
+ 3d260bdafab09cd6258a9c41fb7ea731 *md1960-03-24.LL57.d1t03.shn
+
+
+st5
+ c3d653762f48dc8c846da2deb6acb315  [shntool]  md1960-03-24.LL57.d1t01.shn
+ ee662a508e3ec8c185e56492de311767  [shntool]  md1960-03-24.LL57.d1t02.shn
+ 00f763bbe7c9ecbf7cbdac3a5ae37290  [shntool]  md1960-03-24.LL57.d1t03.shn
+
+shntool
+ length     expanded size    cdr  WAVE problems  fmt   ratio  filename
+ 14:22.60      152197964 B   ---   --   ---xx    shn  0.6071  md1960-03-24.LL57.d1t01.shn
+ 14:21.72      152049788 B   ---   --   ---xx    shn  0.5827  md1960-03-24.LL57.d1t02.shn
+ 15:29.17      163915628 B   ---   --   ---xx    shn  0.6263  md1960-03-24.LL57.d1t03.shn
+ 44:13.74      468163380 B                            0.6059  (3 files)
+
+Spectral Analysis
+md1960-03-24.LL57.d1t01.wav:  track looks like CDDA with probability 99%
+md1960-03-24.LL57.d1t02.wav:  track looks like CDDA with probability 100%
+md1960-03-24.LL57.d1t03.wav:  track looks like CDDA with probability 100%
+
+
+Old md5
+f8215cf67d4afb8889a77b53a04334a8 *mdq1960-03-24d1t01.shn
+b92e44c63fb06bd01806b9bec753b254 *mdq1960-03-24d1t02.shn
+3d260bdafab09cd6258a9c41fb7ea731 *mdq1960-03-24d1t03.shn

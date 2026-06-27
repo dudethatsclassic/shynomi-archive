@@ -1,0 +1,61 @@
+Faith No More
+Wednesday April 15th, 2015
+PNE Forum
+2901 E Hastings Street
+Vancouver, BC, Canada
+
+Taper:  LeifH
+Source:  CSB (filter) > Sony WM D6C (Dolby B) > Maxell XL II-S 90
+Transfer:  Master cassette > Sony TC-WE475 (Dolby off; azimuth adjusted) > Sony PCM M10 @ 24/48 > Wavepad Master's Edition > flac (8) via Frontend
+
+Setlist:  1:29:12
+00 intro
+01 Motherfucker
+02 Land of Sunshine
+03 Caffiene
+04 Ricochet
+05 Evidence
+06 Epic
+07 Sunny Side Up
+08 Get Out
+09 Midlife Crisis
+10 Last Cup of Sorrow
+11 The Gentle Are of Making Enemies
+12 Easy
+13 Cuckoo for Caca
+14 King For a Day
+15 Ashes to Ashes
+16 Superhero
+
+17 Sol Invictus
+18 We Care A Lot
+19 Digging the Grave
+
+20 From the Dead
+
+The PNE Forum was pretty much sold out.  One of the worst acts I've ever seen opened the show (Christine).  It was so awful that it was almost funny.  Almost.  I saved my tape for Faith No More, who would end up playing 3 new songs live for the first time.  Mike mentioned the Canucks several times as there was a hockey game that night.  He had some funny banter throughout the night.  Someone threw a Bic lighter on stage and he said, "if you're gonna throw a lighter, you better throw a cigarette," and someone threw a smoke up which he lit and smoked for a bit.
+
+Some of Faith No More turned out really good, but during side 1 my mics got covered by my jacket a few times without me realizing it.  I was pretty wrecked that night.  The show barely fit on one cassette.  After the second encore, which was completely unexpected, the tape ran out just after the last song finshed.  
+
+fingerprints:
+00 - intro.flac:4e5e693f584f3a394e588063e4319def
+01 - Motherfucker.flac:4ccbf50352b08a4ad3446560672459f5
+02 - Land of Sunshine.flac:9454eb1351567e1774080bcab51f28bc
+03 - Caffiene.flac:dd14c0af69b07d467546e74e6b9824f8
+04 - Ricochet.flac:8a781fdaec90b5c4c240bd12b7f129fa
+05 - Evidence.flac:2d9e0e7d20db971bc364971c7288f759
+06 - Epic.flac:8393e570feba8c63c83a350b92998242
+07 - Sunny Side Up.flac:ac016c8fc09feb689c235baaa6b443b6
+08 - Get Out.flac:f81df012ec091c001743b8635d16ec6f
+09 - Midlife Crisis.flac:edcd47b08aea3ff70c41ef389599195e
+10 - Last Cup of Sorrow.flac:c31b911da1eca6a7d3dec14e78f8b573
+11 - Gentle Art of Making Enemies.flac:8be70d5c9484f2fd7c226e7f1042a7c7
+12 - Easy.flac:e7b3e5e6e09c737cc781458a42ae65b0
+13 - Cuckoo for Caca.flac:ab2cb6da66e3c720f71235abc4e5c75f
+14 - King For a Day.flac:39930f3626ce888861a4b41e0d6e706b
+15 - Ashes to Ashes.flac:454117640f0b84bec055b3737893595e
+16 - Superhero.flac:245897045923a57502086413ef97e137
+17 - Sol Invictus.flac:a3e99c5e160382f6d6b18ccc3469aa32
+18 - We Care A Lot.flac:c607746f2fc4d960b37705209aa7fcaf
+19 - Digging The Grave.flac:5254894d509beccc47f90d2ae839f13e
+20 - From the Dead.flac:67234044d3a500dae2ccbc456c52418d

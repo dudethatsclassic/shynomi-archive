@@ -1,0 +1,272 @@
+Metallica 
+
+1989-02-01
+Convention Center 
+San Antonio, TX
+
+Source: Unknown AUD (1st Gen. Cass)
+
+Transfer: 1st Gen. Cass > Sony TCW-305 > Roxio 6.0 > WAV > CDR(M) > EAC(secure) > WAV > FLAC(lvl8) 
+
+
+
+Disc 1:
+01. The Ecstasy Of Gold
+02. Blackened
+03. For Whom The Bell Tolls
+04. Welcome Home (Sanitarium)
+05. Leper Messiah
+06. Harvester Of Sorrow
+07. Eye Of The Beholder
+08. Bass Solo -> To Live Is To Die Jam
+09. Master Of Puppets
+10. One
+11. Seek And Destroy
+12. ...And Justice for All
+
+Disc 2:
+01. Black Knight Tease -> Creeping Death
+02. Fade To Black
+03. Kirks Guitar Solo
+04. Battery
+05. Last Caress
+06. Am I Evil?
+07. Whiplash 
+
+
+Notes:
+Very rare Show! I got this show in a trade directly from the guy that transfered his 1st gen aud cass to cdr for me. This recording sounds great!
+
+
+
+FLAC Fingerprint:
+Disc 1:
+Track01.flac:e6cdb130eb29d6cf82c6c00485361fe8
+Track02.flac:8985d50bef63bd76bab2f9d4b37674f8
+Track03.flac:3f8d689468e805a46f13764a2ffd8c8c
+Track04.flac:b6d6664ad43c56bb2a535e98835940e6
+Track05.flac:4ed315e37ad00907b8a1348cfb5c2434
+Track06.flac:d607170eaab982b6c42ef0d8c539512e
+Track07.flac:8bf6c3459ee13e2003a48d6d27f420dc
+Track08.flac:6293c06a95523eaa73354e105b551532
+Track09.flac:b29d0df283b8ebd16930b370c3b57fc6
+Track10.flac:5929d44ca51005162feaa2eb0de85eb5
+Track11.flac:9f0a78148777e97e5df72ccd996620c8
+Track12.flac:11601f02be1fc1a2237a6e8f913e1f74
+
+Disc 2:
+Track01.flac:709258350f52fe011036baa0fb181df2
+Track02.flac:79ad0da3b40cee9df3b6a9af1b57deee
+Track03.flac:2beec9a17766bfd3580e7eb1dbab93ec
+Track04.flac:e6dd76c771c49a0f815282ef61773063
+Track05.flac:1402f870d4e663d2bc98c7b98f4b28ad
+Track06.flac:912c2ef939c09b6f7ee9a7656ab11a97
+Track07.flac:6995540be577e6b7a757ccb494aedf5d
+
+
+
+
+
+
+
+EAC LOG:
+
+
+EAC extraction logfile from 26. December 2006, 1:50 for CD
+Unknown Artist / Unknown Title
+
+Used drive  : LG      CD-RW CED-8120B   Adapter: 0  ID: 0
+Read mode   : Secure with NO C2, accurate stream, NO disable cache
+Combined read/write offset correction : 0
+Overread into Lead-In and Lead-Out : No
+
+Used output format : Internal WAV Routines
+                     44.100 Hz; 16 Bit; Stereo
+
+Other options      : 
+    Fill up missing offset samples with silence : Yes
+    Delete leading and trailing silent blocks : No
+    Normalize to 98
+    Installed external ASPI interface
+
+
+Track  1
+     Filename C:\My Documents\Metallica 1989-02-01 San Antonio, TX\Disc 1\Track01.wav
+
+     Peak level 60.0 %
+     Track quality 99.9 %
+     Copy CRC 9B94F447
+     Copy OK
+
+Track  2
+     Filename C:\My Documents\Metallica 1989-02-01 San Antonio, TX\Disc 1\Track02.wav
+
+     Peak level 67.7 %
+     Track quality 99.9 %
+     Copy CRC EF8D8142
+     Copy OK
+
+Track  3
+     Filename C:\My Documents\Metallica 1989-02-01 San Antonio, TX\Disc 1\Track03.wav
+
+     Peak level 65.3 %
+     Track quality 99.9 %
+     Copy CRC 0DEFFB8C
+     Copy OK
+
+Track  4
+     Filename C:\My Documents\Metallica 1989-02-01 San Antonio, TX\Disc 1\Track04.wav
+
+     Peak level 68.4 %
+     Track quality 99.9 %
+     Copy CRC 5620F939
+     Copy OK
+
+Track  5
+     Filename C:\My Documents\Metallica 1989-02-01 San Antonio, TX\Disc 1\Track05.wav
+
+     Peak level 70.9 %
+     Track quality 100.0 %
+     Copy CRC F89E8A64
+     Copy OK
+
+Track  6
+     Filename C:\My Documents\Metallica 1989-02-01 San Antonio, TX\Disc 1\Track06.wav
+
+     Peak level 70.2 %
+     Track quality 100.0 %
+     Copy CRC CFBE66D9
+     Copy OK
+
+Track  7
+     Filename C:\My Documents\Metallica 1989-02-01 San Antonio, TX\Disc 1\Track07.wav
+
+     Peak level 73.6 %
+     Track quality 99.9 %
+     Copy CRC A87D54F8
+     Copy OK
+
+Track  8
+     Filename C:\My Documents\Metallica 1989-02-01 San Antonio, TX\Disc 1\Track08.wav
+
+     Peak level 67.0 %
+     Track quality 99.9 %
+     Copy CRC FC2BD3F8
+     Copy OK
+
+Track  9
+     Filename C:\My Documents\Metallica 1989-02-01 San Antonio, TX\Disc 1\Track09.wav
+
+     Peak level 71.5 %
+     Track quality 100.0 %
+     Copy CRC F8509B21
+     Copy OK
+
+Track 10
+     Filename C:\My Documents\Metallica 1989-02-01 San Antonio, TX\Disc 1\Track10.wav
+
+     Peak level 77.3 %
+     Track quality 100.0 %
+     Copy CRC 6CE1B2B7
+     Copy OK
+
+Track 11
+     Filename C:\My Documents\Metallica 1989-02-01 San Antonio, TX\Disc 1\Track11.wav
+
+     Peak level 71.5 %
+     Track quality 100.0 %
+     Copy CRC E76BA7F0
+     Copy OK
+
+Track 12
+     Filename C:\My Documents\Metallica 1989-02-01 San Antonio, TX\Disc 1\Track12.wav
+
+     Peak level 83.0 %
+     Track quality 100.0 %
+     Copy CRC E2FDAE08
+     Copy OK
+
+No errors occured
+
+
+End of status report
+
+
+EAC extraction logfile from 26. December 2006, 2:25 for CD
+Unknown Artist / Unknown Title
+
+Used drive  : LG      CD-RW CED-8120B   Adapter: 0  ID: 0
+Read mode   : Secure with NO C2, accurate stream, NO disable cache
+Combined read/write offset correction : 0
+Overread into Lead-In and Lead-Out : No
+
+Used output format : Internal WAV Routines
+                     44.100 Hz; 16 Bit; Stereo
+
+Other options      : 
+    Fill up missing offset samples with silence : Yes
+    Delete leading and trailing silent blocks : No
+    Normalize to 98
+    Installed external ASPI interface
+
+
+Track  1
+     Filename C:\My Documents\Metallica 1989-02-01 San Antonio, TX\Disc 2\Track01.wav
+
+     Peak level 75.8 %
+     Track quality 100.0 %
+     Copy CRC 737322AD
+     Copy OK
+
+Track  2
+     Filename C:\My Documents\Metallica 1989-02-01 San Antonio, TX\Disc 2\Track02.wav
+
+     Peak level 79.9 %
+     Track quality 100.0 %
+     Copy CRC FB5E8685
+     Copy OK
+
+Track  3
+     Filename C:\My Documents\Metallica 1989-02-01 San Antonio, TX\Disc 2\Track03.wav
+
+     Peak level 73.8 %
+     Track quality 99.9 %
+     Copy CRC 5269F5EC
+     Copy OK
+
+Track  4
+     Filename C:\My Documents\Metallica 1989-02-01 San Antonio, TX\Disc 2\Track04.wav
+
+     Peak level 80.0 %
+     Track quality 100.0 %
+     Copy CRC EF87594F
+     Copy OK
+
+Track  5
+     Filename C:\My Documents\Metallica 1989-02-01 San Antonio, TX\Disc 2\Track05.wav
+
+     Peak level 74.5 %
+     Track quality 100.0 %
+     Copy CRC 2C9B5FE1
+     Copy OK
+
+Track  6
+     Filename C:\My Documents\Metallica 1989-02-01 San Antonio, TX\Disc 2\Track06.wav
+
+     Peak level 82.2 %
+     Track quality 100.0 %
+     Copy CRC 137914E1
+     Copy OK
+
+Track  7
+     Filename C:\My Documents\Metallica 1989-02-01 San Antonio, TX\Disc 2\Track07.wav
+
+     Peak level 84.2 %
+     Track quality 100.0 %
+     Copy CRC 5E46866D
+     Copy OK
+
+No errors occured
+
+
+End of status report

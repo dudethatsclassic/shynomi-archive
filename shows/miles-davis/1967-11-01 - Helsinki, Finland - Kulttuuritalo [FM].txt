@@ -1,0 +1,65 @@
+Miles Davis Quintet
+11-01-1967
+Kulttuuritalo
+Helsinki, Finland
+
+Project ID - LL124
+
+Source: FM Broadcast
+Lineage: Yleisradio (YLE) broadcast > ?? > wave > flac
+
+Miles Davis (tpt); Wayne Shorter (ts); Herbie Hancock (p); Ron Carter (b); Tony Williams (d)
+
+disc 1
+
+d1t01. Announcments > Footprints
+d1t02. 'Round Midnight/ 
+ 
+-------------------------------------------------------
+
+Notes:
+
+- d1t01: The announcements are cut at both the beginning and end of the track during applause.
+There is a bad skip at 9:27 through 9:37. I've reviewed four different sources of this show
+and this skip exists in all of them. I would love to find a source that doesn't have this. 
+
+- d1t02: There is a four second gap between d1t01 and d1t02. Levels fade to a
+almost nothing at 2:14 through 2:20. The end of the track fades out during the 
+announcers voiceover with the music still playing. 
+
+- A very nice, short recording. The quality is very good, and the playing leaves you wanting more. 
+
+- QC done by Bgreen
+
+md5
+291ce209b570672a7fcfdc4b450d2b27 *md1967-11-01.LL124.d1t01.flac
+012c38c7f5992f1b47a4993e32b842f3 *md1967-11-01.LL124.d1t02.flac
+
+ffp
+md1967-11-01.LL124.d1t01.flac:60c5e724bad944cd9b379258055f52c3
+md1967-11-01.LL124.d1t02.flac:9c09889f4e99d71995b5fe352af01236
+
+shntool
+    length     expanded size   cdr  WAVE problems filename
+    10:33.23      111715340    ---   --   ---xx   md1967-11-01.LL124.d1t01.flac
+     5:37.47       59557388    ---   --   ---xx   md1967-11-01.LL124.d1t02.flac
+    16:10.70      171272728 B                     (totals for 2 files, 0.5313 overall compression ratio)
+
+spectral analysis from TLH
+md1967-11-01.LL124.d1t01.wav:  track looks like CDDA with probability 100%
+md1967-11-01.LL124.d1t02.wav:  track looks like CDDA with probability 100%
+
+old md5 and ffp
+Track01.flac:60c5e724bad944cd9b379258055f52c3
+Track02.flac:9c09889f4e99d71995b5fe352af01236
+
+291ce209b570672a7fcfdc4b450d2b27 *Track01.flac
+012c38c7f5992f1b47a4993e32b842f3 *Track02.flac
+
+
+
+
+
+
+
+

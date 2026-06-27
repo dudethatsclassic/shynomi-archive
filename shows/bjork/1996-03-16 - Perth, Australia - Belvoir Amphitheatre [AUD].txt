@@ -1,0 +1,59 @@
+Björk
+1996-03-16
+Belvoir Amphitheatre
+Perth Australia
+
+
+Low Gen Audience Cassette > CDRx1 > EAC > 
+wav > flac frontend (level 7, align sb) > flac
+
+Thanks Anonymous!
+
+Bjork Hub:
+bjorkhub.no-ip.info
+http://bjorklossless.goudwater.nl
+
+
+
+Setlist:
+01 Le Petit Chevalier/Headphones
+02 Army of Me
+03 One Day
+04 The Modern Things
+05 Isobel
+06 Venus as a Boy
+07 Possibly Maybe
+08 Charlene
+09 I Go Humble*
+10 Human Behavior
+11 Hyperballad
+12 Enjoy
+13 I Miss You
+14 Crying
+15 Violently Happy
+16 Anchor Song
+17 It's Oh So Quiet
+
+*"Wanna Be Startin' Somethin'" (from Thriller)
+is sung for a few lines.
+
+
+
+Flac Fingerprints:
+bjork1996-03-16_t01.flac:e9543e3fa08f2f80f20bc89b88b4ccbc
+bjork1996-03-16_t02.flac:49e92a50b8832bb109597bc40b7a30ef
+bjork1996-03-16_t03.flac:c9bfe199d6b8c77197f827b7dd3bea8b
+bjork1996-03-16_t04.flac:b6262324ac13286b0b1720141c2dd4a2
+bjork1996-03-16_t05.flac:92f19eab499b10334b9361cd99e8a9d8
+bjork1996-03-16_t06.flac:289115397f01627d7e9c515b4f33432f
+bjork1996-03-16_t07.flac:af1a614a1bf8fa8389eec201cc86b317
+bjork1996-03-16_t08.flac:2fd4abebbee2cd59d53a74a190a078f2
+bjork1996-03-16_t09.flac:4390887f12e3e422c0f52086dd05cbad
+bjork1996-03-16_t10.flac:cdaad76441ee9fecbffcf1898e10104e
+bjork1996-03-16_t11.flac:03a2398f29dfab8f241e1274a210474a
+bjork1996-03-16_t12.flac:7e66fede726f40b5fae113e30bb8e627
+bjork1996-03-16_t13.flac:edb2f1abef43e1cdfcb41dc1bd45db16
+bjork1996-03-16_t14.flac:fb9afdd6b775f6aa362174d28f5a3cb9
+bjork1996-03-16_t15.flac:2a0145465708348ab11696f4c0434d8d
+bjork1996-03-16_t16.flac:43c04dba14c606395869c0158d8d5660
+bjork1996-03-16_t17.flac:cdca6d5bee4fc6829f6832ac75290de8

@@ -1,0 +1,64 @@
+Cake
+July 18th, 2009
+Main Stage
+Artscape!
+Baltimore, MD
+
+Taper: TDB
+Source: AKG C460Bs/CK63s (FOB, PAS, ~6'LOC, ~5' on stand)->PS2->Edirol R-09HR (24 bit/96 kHz)
+Transfer: SDHC -> PC
+Processing: Fade in, fade out and tracking using SoundForge 9.0.
+Conversion: FLAC frontend 1.7.1 for Flac24 Conversion @ level 8
+Tagging: Band name, Venue and Song Title in Foobar2000
+
+*****************************************************************
+********* PLEASE SPREAD, BUT PLEASE INCLUDE SOURCE INFO *********
+********THIS IS A 24 BIT FILE SET NOT INTENDED FOR CDR***********
+***************A 16 BIT FILE SET FOR CDR EXISTS******************
+****** DO NOT SELL OR DISTRIBUTE FOR A PROFIT BY ANY MEANS ******
+*****************************************************************
+
+01. Intro
+02. Stick Shifts & Safety Belts
+03. War Pigs ~
+04. Ruby Sees All
+05. Love You Madly
+06. Frank Sinatra
+07. Wheels
+08. Rock 'N' Roll
+09. Sheep Go to Heaven
+10. Daria
+11. Short Skirt, Long Jacket
+12. Building A Religion
+13. It's Been A Long Time 
+14. Mexico
+15. Never There
+
+Notes:
+~ Black Sabbath cover
+Thanks to Peter for rolling down with me!
+Thanks to Brian for securing the spot!
+
+*****************************************
+****Please support artists and venues**** 
+************that allow taping************
+*****************************************
+
+cakemusic.com
+artscape.org
+
+cake2009-07-18t01.flac:2ae436e8f0b3c582f9f903312c29607b
+cake2009-07-18t02.flac:cfee3b350f8f62a146bf509ba9e99173
+cake2009-07-18t03.flac:3ec6bb2562b28501eec87858bcfd55df
+cake2009-07-18t04.flac:a0219de1972bb23f7d6e50fb0f2cf34c
+cake2009-07-18t05.flac:76590ab2d12df8571defd39300023f75
+cake2009-07-18t06.flac:ddb2cab18b15466410bdee30f3d431f2
+cake2009-07-18t07.flac:0c32e1c2581c8e599b10ecf7603c7844
+cake2009-07-18t08.flac:2750e519b77d1c41373701d914be0f4c
+cake2009-07-18t09.flac:6b9ed69e5e15193cffa4fb456616441c
+cake2009-07-18t10.flac:8c92b5d1d43d31610c27a32167a880f1
+cake2009-07-18t11.flac:2c1086bbad11a0f2ab7f6e7652c0578c
+cake2009-07-18t12.flac:d764ed03a95843352c9c4f3ed3f30914
+cake2009-07-18t13.flac:47b807198d8d44178c05f7cf46903761
+cake2009-07-18t14.flac:cecae3c9017199e28122c2be0b52cc6e
+cake2009-07-18t15.flac:275ac2764f761b50fc697f53bdedd26b

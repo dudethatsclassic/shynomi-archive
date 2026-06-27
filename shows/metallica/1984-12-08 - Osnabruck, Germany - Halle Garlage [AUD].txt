@@ -1,0 +1,227 @@
+Metallica
+
+1984-12-08
+Halle Gartlage 
+Osnabruck, Germany 
+
+Source: Unknown AUD (Unknown gen cass)
+
+Transfer: CASS(unknown gen) > Kenwood KX-W4080  > Polderbits > WAV > Nero > CDR(M) > EAC(secure) > WAV > FLAC(lvl8)
+
+Disc 1:
+01. The Ecstacy Of Gold -> Fight Fire With Fire
+02. Ride the Lightning
+03. Phantom Lord
+04. The Four Horsemen
+05. Bass Solo
+06. For Whom the Bell Tolls
+07. No Remorse
+
+Disc 2:
+01. The Call of Ktulu (cuts @ 5:42)
+02. Seek & Destroy
+03. Whiplash
+04. Creeping Death
+05. Guitar Solo
+06. Metal Militia
+07. Motorbreath 
+
+
+Notes:
+Rare show! I got this show directly from the guy that transfered his unknown gen aud cass to cdr for me. This isnt a very good sounding show but it may be the only recording that exists of it. The Call Of Ktulu cuts after 5:42 due to cass flip.
+
+
+
+                               ~ bubba420 ~
+
+
+
+
+
+
+
+FLAC FIngerprint:
+
+Disc 1:
+Track01.flac:1992ebbd52bded8b224c9f753a36b609
+Track02.flac:768da54eda5c865fd25ac94d1c604d3e
+Track03.flac:bf29aa190a930421c8222f0b01ad8f5e
+Track04.flac:2fc687d9bf7ed873808de7fbb2e3d00e
+Track05.flac:e8dc998458d60dafa37c31e95e5863f9
+Track06.flac:0ae471ab4f0e32a746784ada22f13b8b
+Track07.flac:a67ae6cf0103e2aa7e0e3fa0daaa36cc
+
+Disc 2:
+Track01.flac:2ca5bb765e7e260282994de3993aeadb
+Track02.flac:89f0a11969eb9945f4623f90eef41c8e
+Track03.flac:62b26688d570590ddf794be30b1a9707
+Track04.flac:84347d242ecff058988b896a9b7f4e23
+Track05.flac:0f658033f4e78dbdfdfa20d9144b3dc7
+Track06.flac:8f70d039cf3925ce831773b4ea49d131
+Track07.flac:793b78e7a8725f60e1be111f22f540ab
+
+
+
+
+
+EAC LOG:
+
+EAC extraction logfile from 19. May 2006, 4:22 for CD
+Unknown Artist / Unknown Title
+
+Used drive  : LG      CD-RW CED-8120B   Adapter: 0  ID: 0
+Read mode   : Secure with NO C2, accurate stream, NO disable cache
+Combined read/write offset correction : 0
+Overread into Lead-In and Lead-Out : No
+
+Used output format : Internal WAV Routines
+                     44.100 Hz; 16 Bit; Stereo
+
+Other options      : 
+    Fill up missing offset samples with silence : Yes
+    Delete leading and trailing silent blocks : No
+    Normalize to 98
+    Installed external ASPI interface
+
+
+Track  1
+     Filename C:\My Documents\Metallica 1984-12-08 Osnaburck, Germany\Disc 1\Track01.wav
+
+     Peak level 81.2 %
+     Track quality 99.9 %
+     Copy CRC 471B32A4
+     Copy OK
+
+Track  2
+     Filename C:\My Documents\Metallica 1984-12-08 Osnaburck, Germany\Disc 1\Track02.wav
+
+     Peak level 80.6 %
+     Track quality 99.9 %
+     Copy CRC 09A95060
+     Copy OK
+
+Track  3
+     Filename C:\My Documents\Metallica 1984-12-08 Osnaburck, Germany\Disc 1\Track03.wav
+
+     Peak level 78.4 %
+     Track quality 99.8 %
+     Copy CRC 3EF0CB39
+     Copy OK
+
+Track  4
+     Filename C:\My Documents\Metallica 1984-12-08 Osnaburck, Germany\Disc 1\Track04.wav
+
+     Peak level 73.4 %
+     Track quality 99.9 %
+     Copy CRC DF08AC9A
+     Copy OK
+
+Track  5
+     Filename C:\My Documents\Metallica 1984-12-08 Osnaburck, Germany\Disc 1\Track05.wav
+
+     Peak level 77.1 %
+     Track quality 99.9 %
+     Copy CRC 31BE2F11
+     Copy OK
+
+Track  6
+     Filename C:\My Documents\Metallica 1984-12-08 Osnaburck, Germany\Disc 1\Track06.wav
+
+     Peak level 72.0 %
+     Track quality 99.7 %
+     Copy CRC 17740A12
+     Copy OK
+
+Track  7
+     Filename C:\My Documents\Metallica 1984-12-08 Osnaburck, Germany\Disc 1\Track07.wav
+
+     Peak level 71.3 %
+     Track quality 99.8 %
+     Copy CRC E279241A
+     Copy OK
+
+No errors occured
+
+
+End of status report
+
+
+EAC extraction logfile from 19. May 2006, 4:41 for CD
+Unknown Artist / Unknown Title
+
+Used drive  : LG      CD-RW CED-8120B   Adapter: 0  ID: 0
+Read mode   : Secure with NO C2, accurate stream, NO disable cache
+Combined read/write offset correction : 0
+Overread into Lead-In and Lead-Out : No
+
+Used output format : Internal WAV Routines
+                     44.100 Hz; 16 Bit; Stereo
+
+Other options      : 
+    Fill up missing offset samples with silence : Yes
+    Delete leading and trailing silent blocks : No
+    Normalize to 98
+    Installed external ASPI interface
+
+
+Track  1
+     Filename C:\My Documents\Metallica 1984-12-08 Osnaburck, Germany\Disc 2\Track01.wav
+
+     Peak level 79.8 %
+     Track quality 100.0 %
+     Copy CRC 8BD1E285
+     Copy OK
+
+Track  2
+     Filename C:\My Documents\Metallica 1984-12-08 Osnaburck, Germany\Disc 2\Track02.wav
+
+     Peak level 81.7 %
+     Track quality 99.9 %
+     Copy CRC 1792387E
+     Copy OK
+
+Track  3
+     Filename C:\My Documents\Metallica 1984-12-08 Osnaburck, Germany\Disc 2\Track03.wav
+
+     Peak level 83.2 %
+     Track quality 99.8 %
+     Copy CRC 8D204DCF
+     Copy OK
+
+Track  4
+     Filename C:\My Documents\Metallica 1984-12-08 Osnaburck, Germany\Disc 2\Track04.wav
+
+     Peak level 84.6 %
+     Track quality 99.8 %
+     Copy CRC 03B667A0
+     Copy OK
+
+Track  5
+     Filename C:\My Documents\Metallica 1984-12-08 Osnaburck, Germany\Disc 2\Track05.wav
+
+     Peak level 87.5 %
+     Track quality 99.9 %
+     Copy CRC 813ACD1D
+     Copy OK
+
+Track  6
+     Filename C:\My Documents\Metallica 1984-12-08 Osnaburck, Germany\Disc 2\Track06.wav
+
+     Peak level 80.2 %
+     Track quality 99.6 %
+     Copy CRC 874652C2
+     Copy OK
+
+Track  7
+     Filename C:\My Documents\Metallica 1984-12-08 Osnaburck, Germany\Disc 2\Track07.wav
+
+     Peak level 82.7 %
+     Track quality 99.7 %
+     Copy CRC E969685F
+     Copy OK
+
+No errors occured
+
+
+End of status report
+

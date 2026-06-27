@@ -1,0 +1,97 @@
+Miles Davis Quintet
+(05-06)-XX-1963
+Jazz Villa
+St. Louis, Missouri
+
+Project ID - LL111
+
+Source: Audience Recording
+Lineage: Audience Recording > Jazzview CD > EAC(secure) > wav > shn
+
+
+Miles Davis (tpt); George Coleman (ts); Herbie Hancock (p); Ron Carter (b); 
+Tony Williams (d)
+disc 1
+
+d1t01. /Seven Steps to Heaven
+d1t02. I Thought About You
+d1t03. All Blues > The Theme
+d1t04. Like Someone In Love
+ 
+-------------------------------------------------------
+
+Notes:
+
+- d1t01: This track starts with crowd appluase, then jumps right into "seven steps of heaven" 
+mid song. Slight drop out at 1:08. There are multiple occurances of slight static throughout 
+this track.
+
+- d1t02: This track also has multiple occurances of static throughout the track. Slight drop out 
+at :24.
+
+- d1t03: There is a level change at 3:13. There is another major level change preceeded by a 
+slight drop out at 7:36. 
+
+- d1t04: this track is not listed on Peter Losins site, possibly because Miles didn't play on it.
+It sounds to me as though this was certainly part of the performance that night so I opted to leave it.
+
+- A decent sounding recording. Some very slight distortion and static, with a few level changes, but 
+overall, a very pleasant listen.  This version is a little more distant than LL112, but overall a better 
+quality recording. I would choose to archive this version over LL112.
+
+- "The Davis Quintet was booked for nine days at the Jazz Villa, May 27-June 4 (Monday-Tuesday). 
+The contract called for three sets per night, plus weekend matinees. Beyond that, I don't know 
+when this music was recorded. During this period the Quintet also played the Sutherland Lounge, 
+Chicago (June 5-16) and the Jazz Temple, Cleveland (June 20-23 -- listed as the Miles Davis Sextet).
+- Credit to Peter Losin, http://www.plosin.com/
+
+- "A review of the June 6 show (Davis was booked alongside Redd Foxx) was effusive:
+
+There is a giant in our midst. More specifically, Miles Davis is at the Sutherland Lounge. He has 
+a completely new group to play with on this trip (Tony Williams, drums; George Coleman, tenor; 
+Herbie Hancock, piano; Ronald Jarrett, bass) but Miles' artistry remains at the same high level.
+
+Caught during two sets Thursday, he romped through "Straight, No Chaser," "Autumn Leaves," 
+"So What," "If I Were a Bell," and "Milestones" with more bubbling energy than we've heard 
+in a long time. If, in the last few years, Miles has played with an economy of sound, building 
+inner tensions with tone coloration, then the vault was opened Thursday and all those saved up 
+notes, searing runs and pulsating rhythmic figures came flooding out. The tempos were more torrid 
+than remembered...
+
+"Ronald Jarrett" is probably a mangled reference to Ron Carter, though of course Donald Garrett 
+was a well-known Chicago bassist. But Carter appears to have been with the group throughout this 
+period."- Credit to Peter Losin, http://www.plosin.com/
+
+- QC done by Bgreen
+
+md5
+9c6a97d9fb6db816e04a69978970d787 *md1963-(05-06)-XX.LL111.d1t01.shn
+d5a12a386e04da59e5cd7c0dc399fe53 *md1963-(05-06)-XX.LL111.d1t02.shn
+2ed929feeb733f8fadd2d1343e54d1f6 *md1963-(05-06)-XX.LL111.d1t03.shn
+334a43120be5d9c89e2cf17d20c70162 *md1963-(05-06)-XX.LL111.d1t04.shn
+
+st5 
+8f21f7f206f70d63cd3e98572beb7605  [shntool]  md1963-(05-06)-XX.LL111.d1t01.shn
+2d6cf3e60cb89057e71e0b2d4a36277f  [shntool]  md1963-(05-06)-XX.LL111.d1t02.shn
+ef1ef8cd77a5b955d65c722b9760cb08  [shntool]  md1963-(05-06)-XX.LL111.d1t03.shn
+3f6e00f917e72d345a13b546c2bed9c7  [shntool]  md1963-(05-06)-XX.LL111.d1t04.shn
+
+shntool
+    length     expanded size   cdr  WAVE problems filename
+    10:42.70      113413484    ---   --   ---xx   md1963-(05-06)-XX.LL111.d1t01.shn
+     8:05.63       85702220    ---   --   ---xx   md1963-(05-06)-XX.LL111.d1t02.shn
+    12:49.67      135809228    ---   --   ---xx   md1963-(05-06)-XX.LL111.d1t03.shn
+    11:03.63      117101420    ---   --   ---xx   md1963-(05-06)-XX.LL111.d1t04.shn
+    42:42.38      452026352 B                     (totals for 4 files, 0.4370 overall compression ratio)
+
+spectral analysis from TLH
+md1963-(05-06)-XX.LL111.d1t01.wav:  track looks like CDDA with probability 99%
+md1963-(05-06)-XX.LL111.d1t02.wav:  track looks like CDDA with probability 100%
+md1963-(05-06)-XX.LL111.d1t03.wav:  track looks like CDDA with probability 100%
+md1963-(05-06)-XX.LL111.d1t04.wav:  track looks like CDDA with probability 100%
+
+old md5 
+2ed929feeb733f8fadd2d1343e54d1f6 *md63-06-01t03.shn
+9c6a97d9fb6db816e04a69978970d787 *md63-06-01t01.shn
+334a43120be5d9c89e2cf17d20c70162 *md63-06-01t04.shn
+d5a12a386e04da59e5cd7c0dc399fe53 *md63-06-01t02.shn

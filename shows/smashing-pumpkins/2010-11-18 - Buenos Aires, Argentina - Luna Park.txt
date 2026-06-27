@@ -1,0 +1,97 @@
+****************************
+     Smashing Pumpkins
+         Luna Park
+     Buenos Aires, AR
+November 18, 2010 - Thursday
+****************************
+
+Taper: Miguel Villarelo (villarelo@gmail.com)
+Location: 65 Feets From Stage, Frontal.
+Source: Church Audio ST-11 > ST-9100 > iRiver H-120 (RockBoxed + REP + AGC Slow)
+Transfer: H-120 (PCM 16bit @ 44.1Khz) > USB 2.0 > PC
+Editing: Adobe Audition 3.0 > Some EQing > Hard Limit -0.1dB (Cut Clap Clipping)
+         > CD Wave v1.98 (track split) > Flac v1.2.1 (Level 8)
+
+*********************************************************
+ DO NOT SELL THIS SHOW, KEEP THE TRADING COMMUNITY CLEAN
+ DO NOT SELL THIS SHOW, KEEP THE TRADING COMMUNITY CLEAN
+ DO NOT SELL THIS SHOW, KEEP THE TRADING COMMUNITY CLEAN
+
+         ... Do I have to write it again???
+*********************************************************
+
+---------
+ SETLIST
+---------
+
+01. -intro-                     [00:30]
+02. The Fellowship              [03:45]
+03. Lonely is the Name          [04:05]
+04. Today                       [03:02]
+05. Astral Planes               [03:50]
+06. Ava Adore                   [06:35]
+07. A Song for a Son            [06:20]
+08. Eye                         [06:37]
+09. Bullet With Butterfly Wings [04:15]
+10. United States /             [16:27]
+    Star Spangled Banner /
+    Moby Dick
+11. -introduce the band-        [02:22]
+12. Spangled                    [02:41]
+13. To Sheila                   [06:18]
+14. Cherub Rock                 [05:10]
+15. Zero                        [03:17]
+16. Shame                       [05:59]
+17. Freak                       [03:53]
+18. Tonight, Tonight            [04:59]
+19. Stand Inside Your Love      [03:48]
+20. Tarantula / Love Gun        [05:42]
+21. -interlude-                 [03:02]
+22. -thank you-                 [01:09]
+23. A Stitch In Time            [03:23]
+24. Disarm                      [03:27]
+25. By Starlight                [05:39]
+26. Heavy Metal Machine         [11:24]
+
+                  Total Time [02:07:39]
+                  Size         [685.MB]
+
+NOTES: The Fellowship is saturated, the gain used was too high 
+and my gain control take some time to adjust because I set it 
+to slow (my bad). Anyway after that the sound is pretty clear.
+A big laugh when BC talks about Maradona, that guy is some kind 
+of god over there, I thought that it was the end of the show. 
+There is a fragment of Rhinoceros at the beginning of Cherub Rock
+ 
+Enjoy!
+Villarelo.-
+
+**************************************************************
+Flac Finger Prints
+**************************************************************
+tsp2010-11-18.st11.d1t01.flac:2a1f397c8546c9241b5ab9f2de27f4fa
+tsp2010-11-18.st11.d1t02.flac:fccbb8f1a1b016f9688ad7cdf28f2cfd
+tsp2010-11-18.st11.d1t03.flac:cadb3e1dca903b72b203abbcd98e139f
+tsp2010-11-18.st11.d1t04.flac:cf8c23b4578cae7f9fbb74fa408483a6
+tsp2010-11-18.st11.d1t05.flac:b2cdc2d3488b75a1dcc5fa21641d31e3
+tsp2010-11-18.st11.d1t06.flac:568f8682355b154fb2e91fa5e596e540
+tsp2010-11-18.st11.d1t07.flac:c089ab8f1fc70e5ecb153875d95238e3
+tsp2010-11-18.st11.d1t08.flac:f250eb1a0a86fd2392c7a88261775b55
+tsp2010-11-18.st11.d1t09.flac:3417c76d4ed2d0b06e934fa18f2a3c26
+tsp2010-11-18.st11.d1t10.flac:44845c56d974e8c488fbf74c0b3483a2
+tsp2010-11-18.st11.d1t11.flac:c029b4e31ac5b793f5eb5dcf49e2f8aa
+tsp2010-11-18.st11.d1t12.flac:14cb01d6a6ef3bad08b973fac5eae0d5
+tsp2010-11-18.st11.d1t13.flac:bd5a61556b3f140f2b8ebb0297707102
+tsp2010-11-18.st11.d1t14.flac:fef0bd8d593eaa0c3095c128813b27fa
+tsp2010-11-18.st11.d1t15.flac:d22a81d4df8d92efee04360f1c26670e
+tsp2010-11-18.st11.d1t16.flac:8f1ee63df05d4715ebbaa30dbda603f5
+tsp2010-11-18.st11.d1t17.flac:e5a49d725ddaf94dd5698532bcd1f5c1
+tsp2010-11-18.st11.d1t18.flac:132f62cb7e55b980f78db996f140f69d
+tsp2010-11-18.st11.d1t19.flac:317d9e782e54af7cff30432f7908d837
+tsp2010-11-18.st11.d1t20.flac:0094ccb2e65202aff2e48e794fab33c8
+tsp2010-11-18.st11.d1t21.flac:f3aa5fc093eb2b367047f78ec5050587
+tsp2010-11-18.st11.d1t22.flac:56d1049e931959c0576be8d46de34d26
+tsp2010-11-18.st11.d1t23.flac:51a3b785763e786a238dbfa2f903aaf5
+tsp2010-11-18.st11.d1t24.flac:9c57d62c03bb9ee490f24ec0ca9911d9
+tsp2010-11-18.st11.d1t25.flac:31628e6e575b31a670354482533774e7
+tsp2010-11-18.st11.d1t26.flac:4061bf861954344ad3231ad231316722

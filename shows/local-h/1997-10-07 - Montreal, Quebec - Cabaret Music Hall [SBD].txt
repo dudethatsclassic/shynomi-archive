@@ -1,0 +1,58 @@
+Local H
+October 7th, 1997.
+Cabaret Music Hall - 
+Montréal, Québec, Canada.
+
+Taper:      FOH
+Location:   n/a
+Source:     Soundboard > Sony PDP-64 DAT
+Conversion: n/a
+Equipment:  DAT > (dithered to 16 bit @44.1kHz) > WAVE > FLAC
+
+---------------------------------------------------------------------------------------------------------
+Total Time: (1:29:20)
+
+01. All-Right (Oh, Yeah)			4:04
+02. Nothing Special				4:17
+03. Feed					2:57
+04. Grrrlfriend					1:26
+05. User					3:50
+06. Lovey Dovey					3:28
+07. Bag Of Hammers				2:59
+08. Freeze Dried (F)lies			5:14
+09. Manifest Density Pt. 1			0:46
+10. Back In The Day				4:33
+11. Eddie Vedder				4:03
+12. Manipulator					4:27
+13. No Problem					4:14
+14. Pop Life *					4:30
+15. Stoney					1:10
+16. Bound For The Floor				5:19
+17. Time +					4:36
+18. I Saw What You Did And I			3:25
+    Know Who You Are
+19. Fritz's Corner				3:20
+20. ~ Encore ~					1:40
+21. High-Fiving MF				7:05
+
+22. Unknown Song/Jam				4:59
+23. Creep ^					4:49
+24. Bearer Of Bad News #			2:07
+
+----------------------------------------------------------------------------------------------------------
+Notes:
+
+*  Originally Recorded By Prince.
++  Originally Recorded By Pink Floyd.
+^  Originally Recorded By Radiohead. (soundcheck)
+#  Originally Recorded By Triple Fast Action. (soundcheck)
+
+Huge thanks to Joe Daniels for providing the DAT transfer. This comes from his 
+personal collection. I provided normalization to the wave file before splitting.
+The specific lineage of the DAT transfer is unknown.
+-Charles Dewey Cole, IV <live2cd@hotmail.com>, January 11th, 2025.
+
+---------------------------------------------------------------------------------------------------------
+For more information on Local H, please visit:
+
+http://www.LocalH.com/

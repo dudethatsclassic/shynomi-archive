@@ -1,0 +1,67 @@
+Metallica
+
+1987-01-21
+Palatrussardi
+Milan, Italy
+
+
+Source: Unknown AUD (Unknown Gen Cass)
+
+Transfer: Unknown Gen Cass -> Akai GXC-704D(w/azimuth adjustment) -> Audacity -> WAV -> HAT(Track/Align) -> WAV(tracked) -> FLAC(lvl8)
+
+
+Disc 1:
+
+01. Ecstacy Of Gold
+02. Battery
+03. Master of Puppets
+04. For Whom the Bell Tolls
+05. Welcome Home (Sanitarium)
+06. Ride the Lightning
+07. Bass Solo
+08. Whiplash
+09. The Thing That Should Not Be
+
+Disc 2:
+
+01. Fade to Black
+02. Seek & Destroy
+03. Creeping Death
+04. The Four Horsemen
+05. Guitar Solo
+06. Am I Evil?
+07. Damage Inc.
+08. Fight Fire With Fire
+09. Blitzkrieg (cuts @ 1:55)
+
+
+Notes:
+This is 100% the correct the right show, james mentions milan a couple times during the show. Blitzkrieg cuts at around 1:55 into the song. This copy sounds slightly differnt then the other version i have of this show...i wouldnt really call this version a upgrade, it lacks the bass the other copy has and has a bit more treble then the other has.
+
+
+
+FLAC Fingerprint:
+
+Disc 1:
+
+track01.flac:8b4924880988608bc236b3e8f556bb38
+track02.flac:a1dc2565a215ae11c8abdde271917895
+track03.flac:6f7f08c22bbf18ccd5e8469f7daa87ed
+track04.flac:55871ac82f1577f13172bdf5841937f1
+track05.flac:75c7124a3957aa007169b5dc46b41b0c
+track06.flac:e1bc893213372d771707777c530bc5d1
+track07.flac:c436e0079c604e67f44388f0649148ad
+track08.flac:66447879a2ed6e255474c0208e83a9ad
+track09.flac:c79d5a42f85985efe74796840489b28b
+
+Disc 2:
+
+track01.flac:9b9734543f8f256a4e2e05b184ebbe12
+track02.flac:f6da3ca2fc89b16defac3f5af50c86d9
+track03.flac:822c925c70826d87f71b35252f5a4f79
+track04.flac:2e5d32bb10e66169190685fba1ef5554
+track05.flac:533fdfb912098e4a051ff25da1541290
+track06.flac:02f236ec420b138e0df73a1db011f84b
+track07.flac:806d5a1382ab5ebdbd91bc88a0dd7c41
+track08.flac:f9fac2841dbc1cf814d3aa7f16ab2823
+track09.flac:f5f5bdc7fed04764f1deba1197b59443

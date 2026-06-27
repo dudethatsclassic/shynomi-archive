@@ -1,0 +1,28 @@
+Beck
+Corona Capital
+Autódromo Hermanos Rodríguez, Mexico City, Mexico
+17th November 2024
+
+Lineage: yt-dlp > ffmpeg (trim)
+Video: AVC 1920x1080 2777 Kbps 30 fps
+Audio: AAC 128 Kbps 44.1 kHz stereo 
+
+
+Setlist:
+1. Devils Haircut
+2. The New Pollution
+3. Mixed Bizness
+4. Girl
+5. Qué Onda Guero
+6. Nicotine & Gravy
+7. Wow
+8. Debra
+9. Gamma Ray
+10. Soul of a Man
+11. Lost Cause
+12. Dreams
+13. Sexx Laws
+14. Loser
+15. E-Pro
+16. One Foot in the Grave
+17. Where It's At

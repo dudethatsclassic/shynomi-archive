@@ -1,0 +1,26 @@
+EELS
+August 31, 1996
+Trocadero
+Philadelphia, PA
+
+Source: Sonic Studios (DSM6S) > PA-6LC3 > Sony TCD-D8
+Location: two feet from right PA
+Taper: jlizard
+Lineage: DAT(M) > WAV [48] > FLAC
+Transfer: Sony PCM-R500 > Behringer Ultramatch SRC 2000 > Behringer Ultra-Curve DSP 8000 > Nuendo Audiolink 96 Multiset > Sound Forge
+Edits/EQ: "Sonic Studios stack curve", normalized
+Notes: opening for Lush
+
+01 - If I Was Your Girlfriend
+02 - Fingertips, Part III
+03 - Susan's House
+04 - My Beloved Monster
+05 - Mental
+06 - Beautiful Freak
+07 - Novocaine For the Soul
+08 - Rags to Riches
+09 - Damn, I Wish I Was Your Lover {Sophie B. Hawkins}
+10 - Not Ready Yet
+
+
+Compiled August 2021 by CPS

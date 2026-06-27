@@ -1,0 +1,81 @@
+Miles Davis Quintet
+11-07-1969
+Philharmonie
+Berlin, Germany
+
+Project ID - LL162
+
+Source: TV Broadcast
+Lineage: Sender Freies Berlin TV broadcast > ?? > wave > flac
+
+Miles Davis (tpt); Wayne Shorter (ss, ts); Chick Corea (el-p); Dave Holland (b, el-b); Jack DeJohnette (d); 
+Joachim-Ernst Berendt (ann)
+
+disc 1
+
+d1t01. Intro > Directions
+d1t02. Bitches Brew
+d1t03. It's About That Time
+d1t04. I Fall in Love Too Easily
+d1t05. Sanctuary
+d1t06. The Theme 
+ 
+-------------------------------------------------------
+
+Notes:
+
+- A very nice recording. Well mixed and balanced, crisp and clear. The playing is tight.
+ No flaws to note. I would put this one down as a must have if you picking and choosing. 
+Very nice recording. 
+
+- QC done by Bgreen
+
+md5
+641d2d19f1970804b08a475a860412fb *md1969-11-07.LL162.d1t01.flac
+f91377d7255c2010fcfa57e2a1adbc02 *md1969-11-07.LL162.d1t02.flac
+5f2709a9129533845af82b222c770c6c *md1969-11-07.LL162.d1t03.flac
+36a57709ac9be427c0d1fc3941114dff *md1969-11-07.LL162.d1t04.flac
+fcfb6c7e3fa5563e9d7e3e495ebbdca7 *md1969-11-07.LL162.d1t05.flac
+382541dc8827d0f9f02c44ce7129fe90 *md1969-11-07.LL162.d1t06.flac
+
+ffp
+md1969-11-07.LL162.d1t01.flac:22d772e9b6156fe4660c1bb899840ce3
+md1969-11-07.LL162.d1t02.flac:87e1fbcd66afa388d2d24e7b605a0931
+md1969-11-07.LL162.d1t03.flac:22f7573a4b213f02a13cec486cd87002
+md1969-11-07.LL162.d1t04.flac:0b9c0b9cb65485f3e0c6e7a43827301e
+md1969-11-07.LL162.d1t05.flac:0fe941b0c1115c7d4abe130b35b62dbb
+md1969-11-07.LL162.d1t06.flac:a0ae025c11d228737282f1a1aecca842
+
+shntool
+    length     expanded size   cdr  WAVE problems filename
+     2:14.20       23684684    ---   --   ---xx   md1969-11-07.LL162.d1t01.flac
+     6:58.54       73862252    ---   --   ---xx   md1969-11-07.LL162.d1t02.flac
+    13:28.27      142594748    ---   --   ---xx   md1969-11-07.LL162.d1t03.flac
+    14:09.21      149813036    ---   --   ---xx   md1969-11-07.LL162.d1t04.flac
+     3:42.13       39191420    ---   --   ---xx   md1969-11-07.LL162.d1t05.flac
+     5:11.28       54926300    ---   --   ---xx   md1969-11-07.LL162.d1t06.flac
+    45:44.13      484072440 B                     (totals for 6 files, 0.5698 overall compression ratio)
+
+spectral analysis from TLH
+md1969-11-07.LL162.d1t01.wav:  track looks like CDDA with probability 100%
+md1969-11-07.LL162.d1t02.wav:  track looks like CDDA with probability 100%
+md1969-11-07.LL162.d1t03.wav:  track looks like CDDA with probability 100%
+md1969-11-07.LL162.d1t04.wav:  track looks like CDDA with probability 100%
+md1969-11-07.LL162.d1t05.wav:  track looks like CDDA with probability 100%
+md1969-11-07.LL162.d1t06.wav:  track looks like CDDA with probability 100%
+
+old md5 and  ffp (incude both if available)
+Track01.flac:22d772e9b6156fe4660c1bb899840ce3
+Track02.flac:87e1fbcd66afa388d2d24e7b605a0931
+Track03.flac:22f7573a4b213f02a13cec486cd87002
+Track04.flac:0b9c0b9cb65485f3e0c6e7a43827301e
+Track05.flac:0fe941b0c1115c7d4abe130b35b62dbb
+Track06.flac:a0ae025c11d228737282f1a1aecca842
+
+641d2d19f1970804b08a475a860412fb *Track01.flac
+f91377d7255c2010fcfa57e2a1adbc02 *Track02.flac
+5f2709a9129533845af82b222c770c6c *Track03.flac
+36a57709ac9be427c0d1fc3941114dff *Track04.flac
+fcfb6c7e3fa5563e9d7e3e495ebbdca7 *Track05.flac
+382541dc8827d0f9f02c44ce7129fe90 *Track06.flac
+

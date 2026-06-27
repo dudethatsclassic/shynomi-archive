@@ -1,0 +1,60 @@
+Smashing Pumpkins
+August 1st 2024
+Rogers Centre
+Toronto, Ontario, CA
+
+SOURCE (AUD#1)
+Internal Mics > Unknown iPhone
+
+TRANSFER:
+Unknown iPhone (M4A) > WAV > CD Wave Editor > Trader's Little Helper 2.8.4
+
+GENERATION:
+M4A(M) > WAV > FLAC
+
+LENGTH:
+59:55
+
+SETLIST:
+01. Atum
+02. The Everlasting Gaze
+03. Doomsday Clock
+04. Zoo Station [U2]
+05. Today
+06. That Which Animates the Spirit
+07. Tonight, Tonight
+08. Ava Adore
+09. Disarm
+10. Bullet With Butterfly Wings
+11. Beguiled
+12. 1979
+13. Jellybelly
+14. Cherub Rock
+
+NOTES:
+Thank you to the taper for sending this for release
+
+*******************
+This is a lossy source
+The SPLRA team have converted the M4A to a WAV file to indicate there is no upgrade to the original master which was recorded in M4A format
+*******************
+
+MD5 FINGERPRINTS:
+d9fbb1704aeab00993a964f501a8c543 *Smashing Pumpkins 2024-08-01 AUD1 t01 Atum.flac
+4f5f65d7dde2a97fc79f37a2dc2dab3e *Smashing Pumpkins 2024-08-01 AUD1 t02 The Everlasting Gaze.flac
+6d75976a527b9c97c3bf91d028a00f3f *Smashing Pumpkins 2024-08-01 AUD1 t03 Doomsday Clock.flac
+670f8ac059b367829f9ca4a1412425d8 *Smashing Pumpkins 2024-08-01 AUD1 t04 Zoo Station [U2].flac
+528f5c5d9f7cd3295423dfb714d319ff *Smashing Pumpkins 2024-08-01 AUD1 t05 Today.flac
+e066fb7e5dbe346cc215872443ac17cf *Smashing Pumpkins 2024-08-01 AUD1 t06 That Which Animates the Spirit.flac
+9749531153daf1d5739c35f2c5a3cfbc *Smashing Pumpkins 2024-08-01 AUD1 t07 Tonight, Tonight.flac
+e8a0de42cb6065566cf536c171a53f6d *Smashing Pumpkins 2024-08-01 AUD1 t08 Ava Adore.flac
+a557b144482ff4b0c9b85d3451d008cd *Smashing Pumpkins 2024-08-01 AUD1 t09 Disarm.flac
+2e9a5fe834caa7249d595e4d6755336e *Smashing Pumpkins 2024-08-01 AUD1 t10 Bullet With Butterfly Wings.flac
+856e4ed8bb451bb2bf37dd903f4c3af1 *Smashing Pumpkins 2024-08-01 AUD1 t11 Beguiled.flac
+6d268dd8a82045fb4dd7ad755c8656d2 *Smashing Pumpkins 2024-08-01 AUD1 t12 1979.flac
+1398bf5dc420b27870aa04ccd8c1db59 *Smashing Pumpkins 2024-08-01 AUD1 t13 Jellybelly.flac
+e1b1092a509920999ef3e6f22a81f89e *Smashing Pumpkins 2024-08-01 AUD1 t14 Cherub Rock.flac
+
+DISTRIBUTION:
+Spaldz, Nicholas Serra & Members of SPLRA
+2024-08-24

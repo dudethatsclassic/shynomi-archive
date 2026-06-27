@@ -1,0 +1,43 @@
+
+A Perfect Circle
+Comerica Theatre: Phoenix, AZ
+April 10, 2017
+
+Source: Schoeps MK4s > Tinybox > Sony PCM-M10 @ 24-bit / 44.1kHz
+Location: FOB, ~7 rows back, right stack
+Transfer: SD Card > USB > Audacity (amplify/dither) > CDWave > TLH
+Taper: tapeworm(48) 
+
+Setlist:
+
+01 Intro
+02 The Package
+03 The Hollow
+04 The Noose
+05 Weak and Powerless
+06 Rose
+07 Imagine [John Lennon]
+08 Thinking of You
+09 By and Down
+10 Thomas
+11 People are People [Depeche Mode]
+12 Magdalena
+13 Vanishing
+14 Counting Bodies Like Sheep to the Rhythm of the War Drums
+15 Orestes
+16 A Stranger
+17 Blue
+18 -band introductions-
+19 The Outsider
+20 Gravity
+21 Feathers
+22 Outro
+
+Notes: Opening band was Prayers (recorded). Amplified entire file by +12db prior to dithering. M10 set at 5; Tinybox set to Low gain. Raw transfer with no fades or EQ.
+
+Archive: Master WAV was archived @ 24-bit/44.1kHz and FLAC'd with cue sheet. 
+
+Taped and transferred by tapeworm(48) 
+Txt file compiled on 4/12/2017
+
+*** DO NOT DISTRIBUTE IN LOSSY FORMATS. DO NOT SELL THIS RECORDING, TRADE IT FREELY *** 

@@ -1,0 +1,70 @@
+Zwan
+April 19th 2003
+The Wiltern Theatre
+Los Angeles, CA, US
+
+SOURCE (AUD#3)
+Oktava MC012 > Denecke PS-2 > Denecke AD-20 > Sony M1 (Soundboard, 15' on stand.)
+
+TRANSFER:
+Sony M1 > vxpocket2 > Laptop > WAV > FLAC
+
+GENERATION:
+DAT(M) > WAV > FLAC
+
+LENGTH:
+100:11
+
+SETLIST:
+01. Intro
+02. Lyric
+03. Endless Summer
+04. For Your Love
+05. Settle Down
+06. Honestly
+07. Desire
+08. Yeah
+09. Mary Star of the Sea
+10. Heartsong
+11. Of a Broken Heart
+12. Ride a Black Swan
+13. Jesus, I [Lyte] > God's Gonna Set This World on Fire
+14. (encore break)
+
+ENCORE ONE:
+15. Declarations of Faith
+16. A New Poetry
+17. (encore break)
+
+ENCORE TWO:
+18. Spilled Milk
+
+NOTES:
+Thanks to traveller03 for sending over
+
+MD5 FINGERPRINTS:
+75794cff79e08561f4af436bf2e16e1d *Zwan 2003-04-19 AUD3 t01 Intro.flac
+df7b9f5f2648687c005b0386d10f090b *Zwan 2003-04-19 AUD3 t02 Lyric.flac
+007b0f3f8684b5c8e0647fe43677d37b *Zwan 2003-04-19 AUD3 t03 Endless Summer.flac
+56f7f02e2304c4f069771fea3d2cb56c *Zwan 2003-04-19 AUD3 t04 For Your Love.flac
+ff2848cd94e07da2e1804487a80526f7 *Zwan 2003-04-19 AUD3 t05 Settle Down.flac
+7e8dfe6f9ed50e89c54202e152742d9b *Zwan 2003-04-19 AUD3 t06 Honestly.flac
+d5a7328b5bacf8ae34a242ea62cb2a5f *Zwan 2003-04-19 AUD3 t07 Desire.flac
+dd42b969441e64e120794e52f61189f8 *Zwan 2003-04-19 AUD3 t08 Yeah.flac
+ee713e5607c3c1eb679bd1b8366cb7c0 *Zwan 2003-04-19 AUD3 t09 Mary Star of the Sea.flac
+b8bb91eb99b3d11b5774bf608d3418fc *Zwan 2003-04-19 AUD3 t10 Heartsong.flac
+040fceee80833eb407ce8941385cc30a *Zwan 2003-04-19 AUD3 t11 Of a Broken Heart.flac
+45a00a8f4a0b71014c8a3f9387ed50eb *Zwan 2003-04-19 AUD3 t12 Ride a Black Swan.flac
+4edc7ef6ed66000d6581d54e167244ae *Zwan 2003-04-19 AUD3 t13 Jesus, I [Lyte] - God's Gonna Set This World on Fire.flac
+71106a87bcd9262b9f778cacd721f03e *Zwan 2003-04-19 AUD3 t14 (encore break).flac
+f6c40163f9819fe7acdb8b886f644a99 *Zwan 2003-04-19 AUD3 t15 Declarations of Faith.flac
+0be757df8b416e156180695a70222776 *Zwan 2003-04-19 AUD3 t16 A New Poetry.flac
+e1430952e1d87300d8cdde1fd3ca1e18 *Zwan 2003-04-19 AUD3 t17 (encore break).flac
+52367dfbe7bfca3534e237ca9f3c3efb *Zwan 2003-04-19 AUD3 t18 Spilled Milk.flac
+
+RECORDED BY:
+Frank Quinto
+
+DISTRIBUTION:
+Spaldz, Nicholas Serra & Members of SPLRA
+2026-03-11

@@ -1,0 +1,81 @@
+Smashing Pumpkins
+July 28th 2023
+Cosmopolitan of Las Vegas
+Las Vegas, NV, US
+
+SOURCE (AUD#1):
+Unknown Binaural Stereo Mics > Battery Box with bass roll-off > Edirol R-09 
+
+TRANSFER:
+Edirol R-09 > PC
+
+GENERATION:
+WAV(M) > FLAC
+
+LENGTH:
+103:42
+
+SET:
+01. The Everlasting Gaze
+02. Doomsday Clock
+03. Once in a Lifetime [Talking Heads]
+04. Today
+05. Perfect
+06. Disarm
+07. The Celestials
+08. Purple Blood
+09. Ava Adore
+10. (banter)
+11. Tonight, Tonight
+12. Bullet With Butterfly Wings
+13. This Time
+14. Spellbinding
+15. Hubble Bubble (Toil and Trouble) [Manfred Mann]
+16. Jellybelly
+17. (banter)
+18. Empires
+19. Hummer
+20. Beguiled
+21. 1979
+22. (Band Introductions) > Deuce [Kiss] (tease)
+23. Cherub Rock
+24. Zero
+
+NOTES:
+Missing start of The Everlasting Gaze. Taper experienced major microphone connection issues during first 3 songs 
+
+MD5 FINGERPRINTS:
+f55630c5557ca1cf3a7892c0aa71efba *Smashing Pumpkins 2023-07-28 AUD1 t01 The Everlasting Gaze.flac
+1dfc766065c620683730ae59d9218a3b *Smashing Pumpkins 2023-07-28 AUD1 t02 Doomsday Clock.flac
+ba069d55d04f320e1097abda02069814 *Smashing Pumpkins 2023-07-28 AUD1 t03 Once in a Lifetime [Talking Heads].flac
+2b4540fbd492d30c843a4d0cc2721e3f *Smashing Pumpkins 2023-07-28 AUD1 t04 Today.flac
+78b8a3bb9bad2f5b1e48c20e6959c91c *Smashing Pumpkins 2023-07-28 AUD1 t05 Perfect.flac
+46a83df94c95481c7074cb34bd8953b3 *Smashing Pumpkins 2023-07-28 AUD1 t06 Disarm.flac
+deec5a47488903aa67a6a0690ff6b715 *Smashing Pumpkins 2023-07-28 AUD1 t07 The Celestials.flac
+6436e7f2eafa14b10dcf2485e6adf6c9 *Smashing Pumpkins 2023-07-28 AUD1 t08 Purple Blood.flac
+561dd675b6147ed082c93c8a6602792a *Smashing Pumpkins 2023-07-28 AUD1 t09 Ava Adore.flac
+ed20446f9a5dce85515bc98d7d7753dc *Smashing Pumpkins 2023-07-28 AUD1 t10 (banter).flac
+4eab10cc1e0977fbbb340c03525a890e *Smashing Pumpkins 2023-07-28 AUD1 t11 Tonight, Tonight.flac
+0766897b558e1b43d43a57296ec92686 *Smashing Pumpkins 2023-07-28 AUD1 t12 Bullet With Butterfly Wings.flac
+3e1b077eba85718ab058215294fe3f2b *Smashing Pumpkins 2023-07-28 AUD1 t13 This Time.flac
+687e8b7db1b952edba23580f55110fa3 *Smashing Pumpkins 2023-07-28 AUD1 t14 Spellbinding.flac
+cd517077a53c14b688c97615e1403118 *Smashing Pumpkins 2023-07-28 AUD1 t15 Hubble Bubble (Toil and Trouble) [Manfred Mann].flac
+1f848f35cd6eadb194396ed9ab2ba80f *Smashing Pumpkins 2023-07-28 AUD1 t16 Jellybelly.flac
+6cc854db6fdf1ee07622bc02e63024ff *Smashing Pumpkins 2023-07-28 AUD1 t17 (banter).flac
+3c6e4601d9709a4d82b9005faf5acd98 *Smashing Pumpkins 2023-07-28 AUD1 t18 Empires.flac
+c567e3dec83a0c06ca60d47a693867f8 *Smashing Pumpkins 2023-07-28 AUD1 t19 Hummer.flac
+ca150e3f31b9409dbe122601f148c017 *Smashing Pumpkins 2023-07-28 AUD1 t20 Beguiled.flac
+eecd0847a1cbec78923e3a7d094e1c50 *Smashing Pumpkins 2023-07-28 AUD1 t21 1979.flac
+37950e9eb5155f99fddfdba98abf4b1b *Smashing Pumpkins 2023-07-28 AUD1 t22 (Band Introductions).flac
+c608e8835f998d711e88b0dca0cab27c *Smashing Pumpkins 2023-07-28 AUD1 t23 Cherub Rock.flac
+3b4627a71bb056c4aa3f429c3fa55362 *Smashing Pumpkins 2023-07-28 AUD1 t24 Zero.flac
+
+RECORDED BY:
+bobbintb
+
+TRANSFER BY:
+bobbintb
+
+DISTRIBUTION:
+Spaldz, Nicholas Serra & Members of SPLRA
+2023-09-27

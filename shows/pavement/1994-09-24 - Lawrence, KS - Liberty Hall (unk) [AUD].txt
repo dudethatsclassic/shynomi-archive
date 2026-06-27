@@ -1,0 +1,95 @@
+Pavement
+
+
+Liberty Hall
+Lawrence, Kansas
+September 24, 1994
+
+
+Source:  Unknown AUD > ??? > CDR(x)
+Transfer:  CDR(x) > EAC > WAV > FLAC
+Source provided by Shawn Connelly
+Transfer by Terry Watts
+
+
+Disc 1:
+1. intro
+2. She Believes
+3. Grounded
+4. Gold Soundz
+5. Silent Kid
+6. AT&T
+7. Black Out
+8. Conduit For Sale!
+9. Heaven Is A Truck
+10. Brink Of The Clouds
+11. Unfair
+12. Best Friends Arm
+13. Brinx Job
+14. Range Life
+15. Elevate Me Later
+16. Haunt You Down (Instrumental) > Cut Your Hair
+17. Debris Slide
+18. In the Mouth A Desert
+19. Stop Breathin' > Sebadoh/Helen Stones
+20. Summer Babe
+21. Box Elder
+22. Half A Canyon
+
+
+Notes:
+
+EACed Sept. 2012.  Warts and all...  
+
+Terry Watts
+
+
+FLAC FFP:
+pavement1994-09-24d1t01.flac:379c9d3d12ff6163d077c61545820dc6
+pavement1994-09-24d1t02.flac:54a0ec596532fc3384a7d75ba0865f22
+pavement1994-09-24d1t03.flac:1777a7de75c69bd1aa6143571bc3253f
+pavement1994-09-24d1t04.flac:554a38a0395894956a63acc5ed04c3a0
+pavement1994-09-24d1t05.flac:4e0ef7358616672d437e4e5c06148dbf
+pavement1994-09-24d1t06.flac:3a13ffd1a2d57019903c02ffacfe07e7
+pavement1994-09-24d1t07.flac:199a38764bb9f109f06f3e4356a705cb
+pavement1994-09-24d1t08.flac:143db8a8627f787d7d3f68e477852de8
+pavement1994-09-24d1t09.flac:f7dd0b4b8f700d22d73bf50e15ec4113
+pavement1994-09-24d1t10.flac:4d8528030d446859924cf8fe85f205ae
+pavement1994-09-24d1t11.flac:0a0292609919d13c4a14c4df729d7bed
+pavement1994-09-24d1t12.flac:84e6e9afa51d14baf65b9ec51d080e9c
+pavement1994-09-24d1t13.flac:75a1096377e37687edc19782ce0879c4
+pavement1994-09-24d1t14.flac:263d96be1c4a744a4516e1c66c07d034
+pavement1994-09-24d1t15.flac:bc525b3549c11b624c7bc200ece9e3b5
+pavement1994-09-24d1t16.flac:ebadc1f3a8acc764475271a51663a2bb
+pavement1994-09-24d1t17.flac:0c4d7e6e8879bea822d6cc789bc8489e
+pavement1994-09-24d1t18.flac:9883310da43723086c2249fa2be7df64
+pavement1994-09-24d1t19.flac:33108761dafec2bf7af92a063b0304b1
+pavement1994-09-24d1t20.flac:79477443312559063f065bad9e5225cc
+pavement1994-09-24d1t21.flac:34e7b67179c542b794d465189c51b5db
+pavement1994-09-24d1t22.flac:f6819f035f355bcdc523a29353e0c637
+
+
+WAV MD5:
+b4064975cc5e489f4fd48535040dee7d *pavement1994-09-24d1t01.wav
+5d76ec3a89d9e098fa3b84fc38cb5d33 *pavement1994-09-24d1t02.wav
+6bda9caeecdf8caad7e58312d626b279 *pavement1994-09-24d1t03.wav
+07646155a7acea499670b95274c185ac *pavement1994-09-24d1t04.wav
+d67ccdd5b35e90f23e4d61f95fcf5a02 *pavement1994-09-24d1t05.wav
+a15677a52a079ff2c0dd0fc9983760b4 *pavement1994-09-24d1t06.wav
+5032630a0abdc2f4f1c097e29d4bfe24 *pavement1994-09-24d1t07.wav
+eb0914a71cf98953739d06cf75b9cd12 *pavement1994-09-24d1t08.wav
+82b0bc041fcac27daba6537f1eaefe3a *pavement1994-09-24d1t09.wav
+9b8acb55e46f6432e3cd2ae0c15cb6ac *pavement1994-09-24d1t10.wav
+6031a307f42e7ea7295d83c316d80eba *pavement1994-09-24d1t11.wav
+4c6161d8ffee027350abce4d94472ecc *pavement1994-09-24d1t12.wav
+e91605a8feb827a0b75f1bce5ef7fd65 *pavement1994-09-24d1t13.wav
+f7152fdc084d52465f417acf1f483787 *pavement1994-09-24d1t14.wav
+26225157f63541554f6fd2038e99651d *pavement1994-09-24d1t15.wav
+399bd14eaf691a5c5a50aafb55f48faf *pavement1994-09-24d1t16.wav
+0103abf9afe9ce3aaff5938e2e88d17f *pavement1994-09-24d1t17.wav
+1c6fa03ab6a59556c3c02805e76d3d57 *pavement1994-09-24d1t18.wav
+aeabce39423af9a900eb5f4acf976b38 *pavement1994-09-24d1t19.wav
+b18c4b64fc517d02d234ea652a7285e6 *pavement1994-09-24d1t20.wav
+9288f30225235f66bc301a0e391e553a *pavement1994-09-24d1t21.wav
+2571b0a9ba1d474661a2ff957d484e06 *pavement1994-09-24d1t22.wav
+

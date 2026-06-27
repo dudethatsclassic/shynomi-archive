@@ -1,0 +1,123 @@
+The Smashing Pumpkins
+2016-04-29
+Goodyear Theater
+Akron, OH
+
+Source: Tascam DR-05 onboard mics
+		Tracks split with Audacity
+		Flacs encoded with xACT
+Location: Front row center balcony
+Taper: Nikres
+
+** 24 bit **
+
+Set One 8:58-11:10 [2:11:53]
+01. Cardinal Rule		02:44
+02. Stumbeline			03:25
+03. Tonight Tonight		04:05
+04. (applause)			01:58
+05. (banter)			01:19
+06. World’s Fair		06:54
+07. Space Oddity		06:36
+08. 33				03:49
+09. Jesus, I >			04:16
+10. Mary Star Of The Sea	05:04
+11. Mayonaise			06:27
+12. Soma			06:17
+13. Rocket			04:14
+14. Spaceboy			03:44
+15. Today			03:12
+16. Whir			04:38
+17. Disarm			03:55
+18. Sorrows (In Blue)		03:38
+19. Eye				05:09
+20. Saturnine			05:05
+21. Identify			04:52
+22. 1979			05:12
+23. Stand Inside Your Love	04:19
+24. Pinwheels			05:02
+25. Lily (My One And Only)	03:21
+26. Knockin’ On Heaven’s Door	04:11
+27. (band intros and Led Zeppelin teases)	02:16
+28. Malibu			03:54
+29. The Spaniards		05:33
+30. (encore)			02:31
+31. Angie			04:26
+
+Total time: 2:11:53
+
+
+Band:
+Billy Corgan
+Jeff Schroeder
+Jimmy Chamberlin
+Katie Cole
+Sierra Swan
+
+Special Guest and opener:
+Liz Phair
+
+Setlist / Arrangement Notes:
+Tracks 1-3;6 - Billy solo acoustic
+Track  7     - Billy and Jeff acoustic [cover, David Bowie]
+Track  8     - Billy and Jeff acoustic, Liz vocals
+Tracks 9-10  - Billy and Jeff acoustic [originally Zwan]
+Track  11    - Billy and Jeff acoustic
+Tracks 12-13 - Billy & Sierra keys, Jeff electric, Jimmy drums, Katie bass
+Tracks 14-16 - Billy acoustic, Jeff electric, Jimmy drums, Katie bass, Sierra keys
+Track  17    - Billy solo keys
+Track  18    - Billy, Katie & Sierra vocals, Jeff electric, backing track [originally Billy Corgan]
+Track  19    - Billy, Katie & Sierra vocals, Jeff electric, backing track
+Track  20    - Billy, Katie & Sierra vocals, Jeff electric, Jimmy drums, backing track
+Track  21    - Billy vocals, Jeff electric, Jimmy drums, Katie bass, Sierra keys [originally Natalie Imbruglia, co-written by Billy Corgan]
+Track  22    - Billy acoustic, Jeff electric, Jimmy drums, Katie bass, Sierra keys
+Tracks 23-24 - Billy and Jeff acoustic, Katie & Sierra vocals
+Track  25    - Billy acoustic, Jeff electric, Jimmy drums, Katie & Sierra vocals
+Track  26    - Billy acoustic, Jeff electric, Jimmy drums, Katie vocals, Sierra bass [cover, Bob Dylan]
+Track  28    - Billy & Jeff electric, Jimmy drums, Katie acoustic & vocals, Sierra bass [originally Hole, co-written by Billy Corgan]
+Track  29    - Billy & Jeff electric, Jimmy drums, Katie bass, Sierra keys
+Track  31    - Billy & Katie acoustic, Jeff electric, Jimmy drums, Sierra bass [cover, Rolling Stones]
+
+Recording Notes:
+- Security was a little tight and kept hovering right next to me, so I had to 
+record “extra stealth” (I was unable to check and adjust levels at all). This
+unfortunately resulted in a bit more bass during the full band sections and 
+some extra crowd noise. Overall not too bad, and if you use equalizer to drop 
+the bass a little, it’s actually pretty decent I think.
+- There is a glitch in track 2. One of the few times I was able to (thankfully) 
+check the levels the recording had paused, so I had to restart. I believe only 
+about 30 seconds or so of audio was lost due to this.
+
+
+
+sp2016-04-29.bin.flac24t01.flac:0fdb87004031151a6f9828e2596041a3
+sp2016-04-29.bin.flac24t02.flac:6666d9ddd62a4730285c7306acae57aa
+sp2016-04-29.bin.flac24t03.flac:7f5eda4e490b2efa10b3ea64048b792f
+sp2016-04-29.bin.flac24t04.flac:3ef18d5e437fe5c9aa891764d28ba854
+sp2016-04-29.bin.flac24t05.flac:05a9410d6764ac0fb931f8a2a4056e0b
+sp2016-04-29.bin.flac24t06.flac:eb044513143b90955b223a6d2bff3cda
+sp2016-04-29.bin.flac24t07.flac:5710793707700b3453063ccd6aca1c57
+sp2016-04-29.bin.flac24t08.flac:9ff4e53df025c54f15a853f740ef91b8
+sp2016-04-29.bin.flac24t09.flac:12d5adcb25be6ea7b535bdf7d7bdb14b
+sp2016-04-29.bin.flac24t10.flac:500196bcbc342865c5b218df0cad6246
+sp2016-04-29.bin.flac24t11.flac:fc2e47e91b9885ae9f0dab0b90acdd65
+sp2016-04-29.bin.flac24t12.flac:b214532cf10a2437324cd7ea53a0ebb3
+sp2016-04-29.bin.flac24t13.flac:6ed7ab630923bc1673e14cca087b529f
+sp2016-04-29.bin.flac24t14.flac:e65096b626cea41b0fe6091e153c1d8a
+sp2016-04-29.bin.flac24t15.flac:d0ecc1605dd739c3a396e59495d8f2ff
+sp2016-04-29.bin.flac24t16.flac:a64f46377827758734951241cf5e9dde
+sp2016-04-29.bin.flac24t17.flac:dbb7930da644e6916741a31fd6e87c3a
+sp2016-04-29.bin.flac24t18.flac:7f2600d0fd5387bfd21b3feb38570c72
+sp2016-04-29.bin.flac24t19.flac:fdef2d879e54c741ff54ad349ab0b7a7
+sp2016-04-29.bin.flac24t20.flac:30ed809844af28b25d46686b8c288834
+sp2016-04-29.bin.flac24t21.flac:cfc1e3e8a883a21afbed25f4117c536f
+sp2016-04-29.bin.flac24t22.flac:4ffb78ea77771f31c674d7f94cb97377
+sp2016-04-29.bin.flac24t23.flac:1bc56abc731223b050f99194184d9db6
+sp2016-04-29.bin.flac24t24.flac:a42e1531624ce7cfab8174d972c93545
+sp2016-04-29.bin.flac24t25.flac:bc8e6fddcfc9faf8a85a1bebfe6862b1
+sp2016-04-29.bin.flac24t26.flac:4d0c0e1eeaeab86c0db21eb1f946c7c2
+sp2016-04-29.bin.flac24t27.flac:223fb772c50e935104cdd069f60d92dc
+sp2016-04-29.bin.flac24t28.flac:a04ecbe2486fdca3a0764997b38c0c34
+sp2016-04-29.bin.flac24t29.flac:dc137b57215a0f8e9aa81b4321ef29d3
+sp2016-04-29.bin.flac24t30.flac:104a661aa7368d13cda1a1affebd624c
+sp2016-04-29.bin.flac24t31.flac:e98e05ff1976bd6a58cda6ebb30dd073

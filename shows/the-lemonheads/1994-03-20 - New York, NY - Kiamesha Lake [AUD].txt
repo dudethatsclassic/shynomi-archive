@@ -1,0 +1,76 @@
+The Lemonheads
+20th March 1994
+Kiamesha Lake
+New York, NY
+
+SETLIST (60:56)
+---------------
+
+01. intro jam
+02. Confetti
+03. Favorite T
+04. Stove
+05. Mallo Cup
+06. Paid To Smile
+07. Alison's Starting To Happen
+08. The Great Big No
+09. Into Your Arms
+10. Kitchen
+11. Ride With Me
+12. Big Gay Heart
+13. Hannah And Gabi
+14. It's A Shame About Ray
+15. Rockin' Stroll
+16. Down About It
+17. Rest Assured
+18. Bit Part
+19. You Can Take It With You
+20. Being Around
+21. It's About Time
+22. Rudderless
+
+GENERATION
+---------------
+DAT(Cx) -> FLAC
+
+SOURCE (SBD #1)
+---------------
+SBD -> ? ("DAT(M)") -> DAT(Cx)
+
+TRANSFER
+--------
+DAT(Cx) -> Tascam DA-20 mkII -> Hosa optical/coax converter -> Zoltrix Nightingale -> CEP 2.1 (capture) -> WAV -> CD Wave 1.95.1 -> FLAC(8)
+
+NOTES
+-----
+Between Ride With Me and Big Gay Heart, there is a fade.  This is how it was on the DAT tape that I received.  I have no idea if any songs are missing.
+
+MD5 CHECKSUMS
+---------------
+b747c03650ddf7605cc9f51fb0fb1e19 *lemonheads-1994-03-20-t01.flac
+daf6de546a2d6b90750e4eeff568bbb8 *lemonheads-1994-03-20-t02.flac
+7e01d767d386c384a8ac0e7c35955ddd *lemonheads-1994-03-20-t03.flac
+c7a889d0b6c5b7a32c3632994f7fc5e2 *lemonheads-1994-03-20-t04.flac
+017199f16451d93d19f63e68b409fb5e *lemonheads-1994-03-20-t05.flac
+76ac53f53144dfcccb27c72d99ae8171 *lemonheads-1994-03-20-t06.flac
+f9895a58d5ac9f676c18f409db2c55b7 *lemonheads-1994-03-20-t07.flac
+bd5cba5c863207999ff9ada2fcaed582 *lemonheads-1994-03-20-t08.flac
+76916bd098f0db2759d7d51e5504d2e6 *lemonheads-1994-03-20-t09.flac
+a12734c98285490f0d44793ebe8b87b9 *lemonheads-1994-03-20-t10.flac
+6f3612a3bf2f1ef7a78238af97c5a189 *lemonheads-1994-03-20-t11.flac
+2427220e57b593ac478290721754b8a4 *lemonheads-1994-03-20-t12.flac
+256888d08e0e1aff05c1c7003dbf1782 *lemonheads-1994-03-20-t13.flac
+b6acc42e134430e31446b9d2b28fca36 *lemonheads-1994-03-20-t14.flac
+9fdfc573b7b65c5c0acf15334784c302 *lemonheads-1994-03-20-t15.flac
+8ea392b6353928215702ad3d9259a189 *lemonheads-1994-03-20-t16.flac
+3972db844723875f1aabe658981532c0 *lemonheads-1994-03-20-t17.flac
+569635810ea2647c59f2238e55c99776 *lemonheads-1994-03-20-t18.flac
+5b5ddd18c3ae891c6d5a9889a5cae1d7 *lemonheads-1994-03-20-t19.flac
+16e40340c7b63fefc29afe671cff142a *lemonheads-1994-03-20-t20.flac
+a7991c1aa4a184253d047e1044a2167e *lemonheads-1994-03-20-t21.flac
+d3a5c794362e894bcefc897f68332f72 *lemonheads-1994-03-20-t22.flac
+
+
+Transferred & mastered by: Gary Watson (packetboatlane@yahoo.co.uk)
+
+DO NOT SELL, OR DISTRIBUTE IN LOSSY FORMATS!

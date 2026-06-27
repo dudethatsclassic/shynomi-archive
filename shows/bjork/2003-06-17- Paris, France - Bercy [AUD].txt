@@ -1,0 +1,82 @@
+PLEASE DO NOT ENCODE TO MP3!!
+
+ \ \ ___                                                     / /
+  \ \\  \                                                   / /
+   \ \\  \                                                 / /
+    \ \\  \                 __   __   __        _________ / /
+     \ \>  \               /__) /__) /__)      /____    // /
+      \    /_________ ________ _______   _________ /   // /
+      /   //____    //___    //   _   ` /   _    //   // /
+     /   /_____/   /    /   //   //   //   //___//   // /
+    /             /    /   //   //   //   /     /    ~  ~\
+   /____________.´    /   / `_______´/___/     /_______   \
+            _________/   /                             \   \
+           /            /                               \   \
+          /____________/                                 \___\
+
+
+
+
+PARIS BERCY 17 June 2003
+MD source
+Taper: P & C777 Records
+
+
+CD 1
+bjork2003-06-17d01t01 Pagan Poetry
+bjork2003-06-17d01t02 5 years
+bjork2003-06-17d01t03 Hunter
+bjork2003-06-17d01t04 Desired Constellation
+bjork2003-06-17d01t05 Cocoon
+bjork2003-06-17d01t06 Unravel
+bjork2003-06-17d01t07 All Is Full Of Love
+bjork2003-06-17d01t08 Jóga
+bjork2003-06-17d01t09 Nameless
+bjork2003-06-17d01t10 An Echo, A Stain
+
+CD 2
+bjork2003-06-17d02t01 Where Is The Line
+bjork2003-06-17d02t02 Hyperballad
+bjork2003-06-17d02t03 It's In Our Hands (SPT mix)
+bjork2003-06-17d02t04 Bachelorette
+bjork2003-06-17d02t05 Army of me
+bjork2003-06-17d02t06 Pluto
+bjork2003-06-17d02t07 Encore
+bjork2003-06-17d02t08 Generous palmstroke
+bjork2003-06-17d02t09 Encore 2
+bjork2003-06-17d02t10 You've Been Flirting Again (Icelandic)
+bjork2003-06-17d02t11 Isobel
+
+
+
+
+
+
+
+Tony
+
+
+C:\Media\BjorkParisBercy17june2003>shntool len *shn
+    length     expanded size   cdr  WAVE  probs   filename
+     5:41.07      60168908     ---   --    -xx    bjork2003-06-17d01t01.shn
+     4:19.48      45800540     ---   --    -xx    bjork2003-06-17d01t02.shn
+     4:26.61      47065916     ---   --    -xx    bjork2003-06-17d01t03.shn
+     4:47.54      50753852     ---   --    -xx    bjork2003-06-17d01t04.shn
+     4:43.03      49928300     ---   --    -xx    bjork2003-06-17d01t05.shn
+     3:54.27      41341148     ---   --    -xx    bjork2003-06-17d01t06.shn
+     4:07.35      43653164     ---   --    -xx    bjork2003-06-17d01t07.shn
+     4:43.27      49984748     ---   --    -xx    bjork2003-06-17d01t08.shn
+     5:08.01      54333596     ---   --    -xx    bjork2003-06-17d01t09.shn
+     4:32.42      48079628     ---   --    -xx    bjork2003-06-17d01t10.shn
+     4:42.72      49914188     ---   --    -xx    bjork2003-06-17d02t01.shn
+     4:39.61      49359116     ---   --    -xx    bjork2003-06-17d02t02.shn
+     4:14.44      44909132     ---   --    -xx    bjork2003-06-17d02t03.shn
+     5:20.73      56619740     ---   --    -xx    bjork2003-06-17d02t04.shn
+     3:33.32      37648508     ---   --    -xx    bjork2003-06-17d02t05.shn
+     3:32.25      37455644     ---   --    -xx    bjork2003-06-17d02t06.shn
+     3:40.01      38810396     ---   --    -xx    bjork2003-06-17d02t07.shn
+     3:53.55      41230604     ---   --    -xx    bjork2003-06-17d02t08.shn
+     1:45.03      18529100     ---   --    -xx    bjork2003-06-17d02t09.shn
+     2:31.38      26725820     ---   --    -xx    bjork2003-06-17d02t10.shn
+     6:55.42      73304828     ---   --    -xx    bjork2003-06-17d02t11.shn
+    91:14.01     965616876 B                      (totals for 21 files, 0.6633 overall compression ratio)

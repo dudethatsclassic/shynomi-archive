@@ -1,0 +1,276 @@
+Metallica
+
+1989-02-07
+Barton Coliseum
+Little Rock, AK
+
+
+Disc 1:
+
+01. Intro
+02. Blackened
+03. For Whom The Bell Tolls
+04. Welcome Home (Sanitarium)
+05. Harvester Of Sorrow
+06. Eye Of The Beholder
+07. Jason's Solo
+08. Master Of Puppets
+09. One 
+10. Seek And Destroy 
+
+
+Disc 2:
+
+01. ...And Justice for All > Black Night Jam
+02. Creeping Death
+03. Fade To Black
+04. Kirk's Solo
+05. Battery
+06. Symptom Of The Universe > Run To The Hills > Helpless Tease
+07. Last Caress
+08. Am I Evil
+09. Whiplash
+
+
+QUALITY: The quality fluctuates from time to time on this recording. It goes from kind of muddy to pretty clear. I would have to assume that's due to the tape being used or a bad tape to tape copy at some point. Overall it's very thin on low end, much like all audience recordings from this era. 
+
+SOURCE: unknown mics > unknown recorder
+TRANSFER: unknown gen cassette > Adobe Audigy Platinum > Goldwave > CDWAVE > WAV > CDR (transferred from cassette to cdr by Jeff S.) 
+
+
+CDR(M) > EAC(secure) > WAV > FLAC(lvl8) (by bubba420)
+
+
+TIME: 110 minutes
+
+CORRECT SHOW: Yes, scanning the scene in Little Rock tonight.
+
+BAND PERFORMANCE: Nice performance overall, nothing too out of the ordinary about this show. Pretty much down to formula by this time in the tour. The joke about the One video, the joking around during Seek and Destroy, the call and response before Justice etc. Still enjoyable to listen to especially if you haven't heard a justice show in awhile.
+
+
+
+
+FLAC Fingerpint:
+
+Disc 1:
+
+Track01.flac:56e07880a6b8e7588d3be9e8db613c50
+Track02.flac:3fe76cb86a0800c3f154645b20e41ed4
+Track03.flac:65c1b508a6dc902df786d9aad6bcb495
+Track04.flac:2b6d75a219ccb978455fcecd0a80c3d1
+Track05.flac:d0a740c99f91b5fadd79671d7208c81a
+Track06.flac:7de0bf625dbc1d19b31480f6c3790efc
+Track07.flac:dab1d732abab6ab0a8692cb0459852a9
+Track08.flac:3d38af24a9fb19728119a492998cc142
+Track09.flac:b5f7970f44f1674750fa9bb8fb5f7ee4
+Track10.flac:ed3efed7cd9d9df9cb9ab8eb057e90c1
+
+Disc 2:
+
+Track01.flac:b66058500399e73d832a72f9f33fe24d
+Track02.flac:8965fd7d3eec28f77d0d9ad8e612c5da
+Track03.flac:86846d35a903279111a5037af664b06c
+Track04.flac:1ecf61b9fc6ed3c3ce31f70fa10d805c
+
+
+
+
+EAC LOG:
+
+EAC extraction logfile from 5. March 2007, 0:40 for CD
+Unknown Artist / Unknown Title
+
+Used drive  : LG      CD-RW CED-8120B   Adapter: 0  ID: 0
+Read mode   : Secure with NO C2, accurate stream, NO disable cache
+Combined read/write offset correction : 0
+Overread into Lead-In and Lead-Out : No
+
+Used output format : Internal WAV Routines
+                     44.100 Hz; 16 Bit; Stereo
+
+Other options      : 
+    Fill up missing offset samples with silence : Yes
+    Delete leading and trailing silent blocks : No
+    Installed external ASPI interface
+
+
+Track  1
+     Filename C:\My Documents\Metallica 1989-02-07 Little Rock, AK\Disc 1\Track01.wav
+
+     Peak level 52.0 %
+     Track quality 100.0 %
+     Copy CRC A339F812
+     Copy OK
+
+Track  2
+     Filename C:\My Documents\Metallica 1989-02-07 Little Rock, AK\Disc 1\Track02.wav
+
+     Peak level 48.5 %
+     Track quality 100.0 %
+     Copy CRC 8F801EAC
+     Copy OK
+
+Track  3
+     Filename C:\My Documents\Metallica 1989-02-07 Little Rock, AK\Disc 1\Track03.wav
+
+     Peak level 48.7 %
+     Track quality 100.0 %
+     Copy CRC 90CB84C1
+     Copy OK
+
+Track  4
+     Filename C:\My Documents\Metallica 1989-02-07 Little Rock, AK\Disc 1\Track04.wav
+
+     Peak level 65.0 %
+     Track quality 99.9 %
+     Copy CRC D302A3BA
+     Copy OK
+
+Track  5
+     Filename C:\My Documents\Metallica 1989-02-07 Little Rock, AK\Disc 1\Track05.wav
+
+     Peak level 61.9 %
+     Track quality 100.0 %
+     Copy CRC B77A661F
+     Copy OK
+
+Track  6
+     Filename C:\My Documents\Metallica 1989-02-07 Little Rock, AK\Disc 1\Track06.wav
+
+     Peak level 63.3 %
+     Track quality 100.0 %
+     Copy CRC D72B6273
+     Copy OK
+
+Track  7
+     Filename C:\My Documents\Metallica 1989-02-07 Little Rock, AK\Disc 1\Track07.wav
+
+     Peak level 61.2 %
+     Track quality 100.0 %
+     Copy CRC C36DEF27
+     Copy OK
+
+Track  8
+     Filename C:\My Documents\Metallica 1989-02-07 Little Rock, AK\Disc 1\Track08.wav
+
+     Peak level 58.2 %
+     Track quality 100.0 %
+     Copy CRC 8EA4D6E2
+     Copy OK
+
+Track  9
+     Filename C:\My Documents\Metallica 1989-02-07 Little Rock, AK\Disc 1\Track09.wav
+
+     Peak level 44.5 %
+     Track quality 100.0 %
+     Copy CRC 204A7A77
+     Copy OK
+
+Track 10
+     Filename C:\My Documents\Metallica 1989-02-07 Little Rock, AK\Disc 1\Track10.wav
+
+     Peak level 43.7 %
+     Track quality 100.0 %
+     Copy CRC 9F67F947
+     Copy OK
+
+No errors occured
+
+
+End of status report
+
+
+EAC extraction logfile from 5. March 2007, 0:51 for CD
+Unknown Artist / Unknown Title
+
+Used drive  : LG      CD-RW CED-8120B   Adapter: 0  ID: 0
+Read mode   : Secure with NO C2, accurate stream, NO disable cache
+Combined read/write offset correction : 0
+Overread into Lead-In and Lead-Out : No
+
+Used output format : Internal WAV Routines
+                     44.100 Hz; 16 Bit; Stereo
+
+Other options      : 
+    Fill up missing offset samples with silence : Yes
+    Delete leading and trailing silent blocks : No
+    Installed external ASPI interface
+
+
+Track  1
+     Filename C:\My Documents\Metallica 1989-02-07 Little Rock, AK\Disc 2\Track01.wav
+
+     Peak level 54.2 %
+     Track quality 99.9 %
+     Copy CRC BACA6ED6
+     Copy OK
+
+Track  2
+     Filename C:\My Documents\Metallica 1989-02-07 Little Rock, AK\Disc 2\Track02.wav
+
+     Peak level 61.0 %
+     Track quality 99.9 %
+     Copy CRC 64293D59
+     Copy OK
+
+Track  3
+     Filename C:\My Documents\Metallica 1989-02-07 Little Rock, AK\Disc 2\Track03.wav
+
+     Peak level 54.4 %
+     Track quality 100.0 %
+     Copy CRC 613CF593
+     Copy OK
+
+Track  4
+     Filename C:\My Documents\Metallica 1989-02-07 Little Rock, AK\Disc 2\Track04.wav
+
+     Peak level 46.9 %
+     Track quality 100.0 %
+     Copy CRC 5F5C6268
+     Copy OK
+
+Track  5
+     Filename C:\My Documents\Metallica 1989-02-07 Little Rock, AK\Disc 2\Track05.wav
+
+     Peak level 20.0 %
+     Track quality 100.0 %
+     Copy CRC EF53AD1A
+     Copy OK
+
+Track  6
+     Filename C:\My Documents\Metallica 1989-02-07 Little Rock, AK\Disc 2\Track06.wav
+
+     Peak level 20.8 %
+     Track quality 100.0 %
+     Copy CRC 47744396
+     Copy OK
+
+Track  7
+     Filename C:\My Documents\Metallica 1989-02-07 Little Rock, AK\Disc 2\Track07.wav
+
+     Peak level 18.4 %
+     Track quality 100.0 %
+     Copy CRC 2CA6F4E4
+     Copy OK
+
+Track  8
+     Filename C:\My Documents\Metallica 1989-02-07 Little Rock, AK\Disc 2\Track08.wav
+
+     Peak level 28.6 %
+     Track quality 100.0 %
+     Copy CRC AFEE675E
+     Copy OK
+
+Track  9
+     Filename C:\My Documents\Metallica 1989-02-07 Little Rock, AK\Disc 2\Track09.wav
+
+     Peak level 27.7 %
+     Track quality 100.0 %
+     Copy CRC 276F1958
+     Copy OK
+
+No errors occured
+
+
+End of status report
+

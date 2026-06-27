@@ -1,0 +1,63 @@
+COLLECTIVE SOUL
+August 20, 2022
+Vina Robles Amphitheatre
+Paso Robles, CA, US
+
+SETLIST:
+-------------------
+00. intro/banter
+01. Cut the Cord
+02. Heavy
+03. All Our Pieces
+04. Shine
+05. Undone
+06. Better Now
+07. Bob Dylan, Where Are You Today?
+08. The World I Know
+09. Right as Rain
+10. December
+11. Gel [w/ segued jam] ->
+12. Where the River Flows
+13. Run
+
+
+SOURCE:
+-------------------
+AUD #1 - Quality: 9.0
+Sound Professionals SP-CMC-4U > Sony PCM-A10
+
+Recorded by: vibrioidxire
+
+TRANSFER:
+-------------------
+Sound Professionals SP-CMC-4U (AT-U853's, with SP UE-H-PAIR hypercardioid caps mod) > Sound Professionals SP-SPSB-10 Power Module > Sony PCM-A10 High-Resolution Digital Audio Recorder > WAV [96kHz/24-bit] > USB connector > Sony PC-U004 USB 2.0 cable > WD USB-to-USB-C adapter > Apple MacBook Pro (16-inch, 2021) > Adobe Audition 22.5 [post-production/mastering] > WAV [48kHz/24-bit] > xACT 2.50 > FLAC [Level 8]
+
+GENERATION:
+-------------------
+WAV(M) [96kHz/24-bit] > WAV [48kHz/24-bit] > FLAC [Level 8]
+
+NOTES:
+-------------------
+- The set was cut short due to a curfew of 11pm.
+
+
+FLAC FINGERPRINTS:
+-------------------
+collectivesoul2022-08-20-aud1-t00.flac:f54e01a8babe89b7235303fd8df81891
+collectivesoul2022-08-20-aud1-t01.flac:9e8de2cb104e91df2dd4822551e0ab25
+collectivesoul2022-08-20-aud1-t02.flac:837a14def61b8cae9bf54c139581707d
+collectivesoul2022-08-20-aud1-t03.flac:e17561c59e18f21774aeb2645c3ba237
+collectivesoul2022-08-20-aud1-t04.flac:c2fbdac4b433be2ad3bafa7353a22fe6
+collectivesoul2022-08-20-aud1-t05.flac:7af54f727ae9014ebab57b0a2a9d71ec
+collectivesoul2022-08-20-aud1-t06.flac:33eed5eb4ae016ca22e2a3e30888e76c
+collectivesoul2022-08-20-aud1-t07.flac:d1187a1635c968dadeaf9af1ffef0492
+collectivesoul2022-08-20-aud1-t08.flac:20c2ae50131844fb3ef26b35cb87b264
+collectivesoul2022-08-20-aud1-t09.flac:14bf1052568f3d5524a9c59323074dc2
+collectivesoul2022-08-20-aud1-t10.flac:7ef8d4e642f7dd870d3a648a26c14792
+collectivesoul2022-08-20-aud1-t11.flac:b90387fbc7e995ce41935b298bf8ac5e
+collectivesoul2022-08-20-aud1-t12.flac:9e06aeb0afc54ff2c6486c5c2bf7746b
+collectivesoul2022-08-20-aud1-t13.flac:e71646b9908efe54293726c19431e120
+
+
+Transferred and encoded by: vibrioidxire
+PLEASE DO NOT DISTRIBUTE IN LOSSY FORMATS OR SELL!

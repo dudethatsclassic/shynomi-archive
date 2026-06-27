@@ -1,0 +1,35 @@
+bush
+Gavin Rossdale: lead vocals and guitar
+Nigel Pulsford: guitar
+Dave Parsons: bass
+Robin Goodridge: drums
+Glastonbury Festival
+Glastonbury, U.K. 
+June 25, 1999
+FM broadcast
+runtime: 48:48
+setlist:
+1: introduction > machine head  4:51
+2: the chemicals between us  4:25
+3: greedy fly  5:06
+4: radio announcer  :08
+5: everything zen  5:22  
+6: insect kin  6:36
+7: radio announcer  :13
+8: glycerine  4:16
+9: warm machine  4:23
+10: radio announcer  :14
+11: swallowed  4:28
+12: little things  8:15
+13: radio announcer closing credits  :25
+ 
+lineage:
+ WBCN 104.1 FM broadcast > 
+ Yamaha 500 reciever with digital FM antenna >
+ Nak. BX 100 cassette deck (dolby off) >
+ Maxell XLII 110 min. master cassette >
+ playe on Nak. 300 into soundforge (wav) > 
+ flac (sb's aligned) > torrentially yours.
+ a this and that production.
+ Do not sell this recording.
+ Share freely, losslessly and gaplessly.

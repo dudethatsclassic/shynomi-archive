@@ -1,0 +1,87 @@
+Miles Davis Septet
+October 18, 1970
+Fillmore West
+San Francisco, California
+
+Project ID - LMPP225
+
+Source: Soundboard (commonly called an audience)
+Lineage: Unknown
+
+Miles Davis (tpt); Gary Bartz (ss, as); Keith Jarrett (el-p, org); Michael Henderson (el-b); Jack De Johnette (d); Airto Moreira (perc); Jumma Santos [Jim Riley] (perc)
+
+disc 1
+
+d1t01. Directions
+d1t02. Honky Tonk
+d1t03. What I Say
+d1t04. Sanctuary
+d1t05. Yesternow// 1:17
+
+-----------
+
+- this is a degraded soundboard recording, not an audience recording
+
+- Plosin's site also says that an audience tape of this concert was broadcast on KPFA in the spring of 1971
+
+- there is some clipping
+
+- the instruments are well separated into left or right for the most part
+
+- there is no sense of a common mic location - each instrument appears balanced in the recording
+
+- unlike the prior night, the hiss is more prominant and the audio signal rolls off around 8 khz
+
+- d1t01: fades in. Plosin's site references a Bill Graham intro of ~ 0:04 which is not on this recording
+
+- d1t02: 8:36 thru 9:09 many little pops and crackle
+
+- d1t03 is a nice version of "What I Say" which highlights the ensemble support of the various lead instruments 
+
+- d1t05: abruptly cuts off
+
+- Opened for Leon Russell. 
+
+- there is another version of this source and at some point both had a common ancestor. That source had additional padding at the start of track 1 and small gaps betwen tracks indicating a poor extraction, most likely. 
+
+- QC by mfv
+
+md5
+3b34d50ea93ed2de77ee6a11c1a31f4b *md70-10-18.sbd.lmpp225.d1t01.shn
+e832a56d59b20cd032440f962db2910c *md70-10-18.sbd.lmpp225.d1t02.shn
+d510d0ca968af56f6dce087f43103cfb *md70-10-18.sbd.lmpp225.d1t03.shn
+3c721eeaec73e03c9f3bf631391c8c8c *md70-10-18.sbd.lmpp225.d1t04.shn
+c1d2fadb8a7a5e02ee94dbc25f91d65a *md70-10-18.sbd.lmpp225.d1t05.shn
+
+ffp
+< >
+
+st5 
+b28eb0f2e0695bf4ec95a11e0d737664  [shntool]  md70-10-18.sbd.lmpp225.d1t01.shn
+876ec8a38c8eb4b5f009336d3f2a0d5d  [shntool]  md70-10-18.sbd.lmpp225.d1t02.shn
+536def7ba69acfdd1aadcc1af20f5043  [shntool]  md70-10-18.sbd.lmpp225.d1t03.shn
+4e0a1e05aee12c69b97cc6a16912e2dc  [shntool]  md70-10-18.sbd.lmpp225.d1t04.shn
+3e22d29b79c16161f375ea088aa58cfa  [shntool]  md70-10-18.sbd.lmpp225.d1t05.shn
+
+shntool
+    length     expanded size    cdr  WAVE problems  fmt   ratio  filename
+     9:58.74      105661292 B   ---   --   ---xx  md70-10-18.sbd.lmpp225.d1t01.shn
+    15:14.07      161246108 B   ---   --   ---xx  md70-10-18.sbd.lmpp225.d1t02.shn
+    11:02.49      116892092 B   ---   --   ---xx  md70-10-18.sbd.lmpp225.d1t03.shn
+     2:44.57       29063708 B   ---   --   ---xx  md70-10-18.sbd.lmpp225.d1t04.shn
+     1:17.19       13627532 B   ---   --   ---xx  md70-10-18.sbd.lmpp225.d1t05.shn
+    40:17.56      426490732 B                            0.6809  (5 files)
+
+spectral analysis from TLH
+md70-10-18.sbd.lmpp225.d1t01.wav:  track looks like CDDA with probability 100%.
+md70-10-18.sbd.lmpp225.d1t02.wav:  track looks like CDDA with probability 100%.
+md70-10-18.sbd.lmpp225.d1t03.wav:  track looks like CDDA with probability 100%.
+md70-10-18.sbd.lmpp225.d1t04.wav:  track looks like CDDA with probability 100%.
+md70-10-18.sbd.lmpp225.d1t05.wav:  track looks like CDDA with probability 100%.
+
+old md5 or ffp
+3b34d50ea93ed2de77ee6a11c1a31f4b md70-10-18d1t01.shn
+e832a56d59b20cd032440f962db2910c md70-10-18d1t02.shn
+d510d0ca968af56f6dce087f43103cfb md70-10-18d1t03.shn
+3c721eeaec73e03c9f3bf631391c8c8c md70-10-18d1t04.shn
+c1d2fadb8a7a5e02ee94dbc25f91d65a md70-10-18d1t05.shn

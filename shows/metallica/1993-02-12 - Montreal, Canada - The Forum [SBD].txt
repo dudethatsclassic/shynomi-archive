@@ -1,0 +1,13 @@
+101 - The Ecstacy of Gold.shn:  successfully fixed/rewritten to '101 - The Ecstacy of Gold-fixed.shn'.
+102 - Enter Sandman.shn:  successfully fixed/rewritten to '102 - Enter Sandman-fixed.shn'.
+103 - Creeping Death.shn:  successfully fixed/rewritten to '103 - Creeping Death-fixed.shn'.
+104 - Harvester of Sorrow.shn:  successfully fixed/rewritten to '104 - Harvester of Sorrow-fixed.shn'.
+105 - Welcome Home (Sanitarium).shn:  successfully fixed/rewritten to '105 - Welcome Home (Sanitarium)-fixed.shn'.
+106 - Sad but True.shn:  successfully fixed/rewritten to '106 - Sad but True-fixed.shn'.
+107 - Of Wolf and Man.shn:  successfully fixed/rewritten to '107 - Of Wolf and Man-fixed.shn'.
+108 - The Unforgiven.shn:  successfully fixed/rewritten to '108 - The Unforgiven-fixed.shn'.
+109 - Justice Medley.shn:  successfully fixed/rewritten to '109 - Justice Medley-fixed.shn'.
+110 - Bass & Guitar Solo.shn:  successfully fixed/rewritten to '110 - Bass & Guitar Solo-fixed.shn'.
+111 - Through the Never.shn:  successfully fixed/rewritten to '111 - Through the Never-fixed.shn'.
+
+Last file didn't need any padding with zero-bytes.

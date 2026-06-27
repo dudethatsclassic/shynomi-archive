@@ -1,0 +1,40 @@
+Metallica
+Solnahallen, Stockholm, Sweden
+1986-09-26
+
+Source: Audience recording
+Generation: 1st
+Tape: Maxell XLII 100 (Type II High)
+Taper: Per-Erik
+
+From the collection of Mats L.
+
+Tape transferred by TheMetalist 2020-07-19.
+Edited and Mastered by Mats L. (mats666) 2021-09-12
+
+Lineage: Maxell XLII 100 > Nakamichi DR-1 > Sony PCM-M10 > 2 x WAV (24 bit/48 kHz) > SanDisk 32GB SDHC card > USB > PC
+PC Lineage: Audacity/ Adobe Audition (edits/EQ) > dBpoweramp music cenverter 
+wav 16/44 > TLH (fixing SBE`s) > CD wave editor (cue sheet) > dBpoweramp music converter > FLAC (level 8)
+
+Setlist:
+
+1. Intro: The Ecstasy of Gold
+2. Battery
+3. Master of Puppets
+4. For Whom the Bell Tolls
+5. Welcome Home (Sanitarium)
+6. Ride the Lightning
+7. Bass Solo(Anesthesia) 
+8. Whiplash
+9. The Thing That Should Not Be
+10. Fade to Black
+11. Seek & Destroy
+12. Creeping Death
+13. The Four Horsemen
+14. Guitar Solo
+15. Am I Evil? 
+16. Damage, Inc.
+17. Blitzkrieg
+18. Fight Fire With Fire 
+ 
+Duration: 96:30 min

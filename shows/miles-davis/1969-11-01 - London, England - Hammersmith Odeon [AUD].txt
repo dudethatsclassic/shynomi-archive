@@ -1,0 +1,120 @@
+Miles Davis Quintet
+11-01-1969
+Hammersmith Odeon
+London, United Kingdom
+
+Project ID - LL175
+
+Source: Audience Recording
+Lineage: Monaural audience recording > analog reel(s)/cassette(s) (unknown gen.) 
+> DAT @32 kHz > wav via S/PDIF and M-Audio Audiophile digital soundcard > 
+Wavelab 5.0 and SoundForge 6.0 >CD Wave >FLAC (level 8)
+
+Miles Davis (tpt); Wayne Shorter (ss, ts); Chick Corea (el-p); 
+Dave Holland (b, el-b); Jack DeJohnette (d)
+
+disc 1
+
+d1t01. Introduction/
+d1t02. Directions
+d1t03. Bitches Brew
+d1t04. It's About That Time
+d1t05. I Fall in Love Too Easily
+d1t06. Sanctuary
+d1t07. No Blues
+d1t08. Paraphernalia
+d1t09. Masqualero/
+ 
+-------------------------------------------------------
+
+Notes:
+
+- d1t01: the announcement sounds to be cut short
+
+- d1t02: The sound is very distant and muffled up to about :24, then it seems to improve.
+there is another drop in levels at 2:30 taking the quality back down a bit with more of a
+muffled sound. There seem to be a splice or a cut at 7:22
+
+- d1t03: Digipop at 1:39, 4:35, 7:49, 12:11, 12:14, and 12:35. Drop out at 5:51 - 5:53. Mic 
+adjustment at 12:23, 14:07.
+
+- d1t04: Static at 11:02, 11:08. Mic adjustment at 15:40, 16:40
+
+- d1t05: at 1:46 there is a loud thump. I believe this was a mic bump. There are small
+mic bumps and adjustments throughout thistrack. 
+
+- d1t06: This track also has the small mic bumps and adjustements for the first quarter 
+of the track. dropout at 1:56.
+
+- d1t07: the levels seem to bump up at :37. Mic bumps, adjustments throughout this track
+as well. 
+
+- d1t09: There are a few level changes in this track, very minor. At 8:52 through 
+8:58 there is a very odd artifact. I don't believe it should be there, but I may be wrong.
+Drop out at 9:41. Track is cut at the end, music lost.
+
+-  The sound is overall a bit distant and muffled sounding.  Being a Miles audience 
+recording from the late 60's the overall sound is pretty good and par for the course 
+when compared to other examples I've heard. I wouldn't pass it by myself.  
+
+- "The Davis Quintet played two concerts at the Hammersmith Odeon on this date. 
+This is the second concert. The Quintet toured Europe in October-November 1969 as 
+part of the Newport Jazz Festival in Europe produced by George Wein."
+- Credit to Peter Losin, http://www.plosin.com/
+
+- QC done by Bgreen
+
+md5
+a30601003db9e7596c818c99e498a82f *md1969-11-01.LL175.d1t01.flac
+1effdc40dfb541bcd0c4a654d9976a96 *md1969-11-01.LL175.d1t02.flac
+25f8b8806c18b509d2a0028395c94b88 *md1969-11-01.LL175.d1t03.flac
+25081d448e63b8c2908e32195ffc0db9 *md1969-11-01.LL175.d1t04.flac
+5bf1d988752ee4a885d2ee5d988ddb6d *md1969-11-01.LL175.d1t05.flac
+10629a247c69f5b0c5164c3c9e3276e8 *md1969-11-01.LL175.d1t06.flac
+d5a858c9c5df7aca364e5c9b9beb6749 *md1969-11-01.LL175.d1t07.flac
+48276a04976c0f7279680814c4b22017 *md1969-11-01.LL175.d1t08.flac
+f128a502ea4fb73002a294e3d89cb5cc *md1969-11-01.LL175.d1t09.flac
+
+ffp
+md1969-11-01.LL175.d1t01.flac:8461fcbc39cdd301dca4cdca6b91ec0f
+md1969-11-01.LL175.d1t02.flac:aa4f6e3131a0e366ee1474ab3e3f910b
+md1969-11-01.LL175.d1t03.flac:58be17e55696b43dd25a5033401a638d
+md1969-11-01.LL175.d1t04.flac:61863d160933f955ebff6a4af7320083
+md1969-11-01.LL175.d1t05.flac:70a73c89c3dac4e6cfb428dce0a69033
+md1969-11-01.LL175.d1t06.flac:f41d4f99a5375fb0ebd210c75ea5a6d1
+md1969-11-01.LL175.d1t07.flac:cdc50446149d76c943a7094ccd375082
+md1969-11-01.LL175.d1t08.flac:0e11522ea5b208530ddd4aeb0c249f04
+md1969-11-01.LL175.d1t09.flac:99bd24a09613a82323af0727cc033ffd shntool
+    length     expanded size    cdr  WAVE problems  fmt   ratio  filename
+     0:11.05        1952204 B   ---   --   ---xx  md1969-11-01.LL175.d1t01.flac
+     7:38.46       80899436 B   ---   --   ---xx  md1969-11-01.LL175.d1t02.flac
+    15:16.03      161589500 B   ---   --   ---xx  md1969-11-01.LL175.d1t03.flac
+    18:14.26      193042796 B   ---   --   ---xx  md1969-11-01.LL175.d1t04.flac
+     3:20.51       35399996 B   ---   --   ---xx  md1969-11-01.LL175.d1t05.flac
+     3:15.62       34543868 B   ---   --   ---xx  md1969-11-01.LL175.d1t06.flac
+     5:14.35       55471964 B   ---   --   ---xx  md1969-11-01.LL175.d1t07.flac
+     0:28.09        4960412 B   ---   --   ---xx  md1969-11-01.LL175.d1t08.flac
+    11:19.31      119848300 B   -b-   --   ---xx  md1969-11-01.LL175.d1t09.flac
+    64:58.43      687708476 B                            0.2286  (9 files)
+
+spectral analysis from TLH
+md1969-11-01.LL175.d1t01.wav:  track looks like MPEG with probability 99%
+md1969-11-01.LL175.d1t02.wav:  track looks like MPEG with probability 100%
+md1969-11-01.LL175.d1t03.wav:  track looks like MPEG with probability 100%
+md1969-11-01.LL175.d1t04.wav:  track looks like MPEG with probability 89%
+md1969-11-01.LL175.d1t05.wav:  track looks like MPEG with probability 90%
+md1969-11-01.LL175.d1t06.wav:  track looks like MPEG with probability 100%
+md1969-11-01.LL175.d1t07.wav:  track looks like CDDA with probability 100%
+md1969-11-01.LL175.d1t08.wav:  track looks like MPEG with probability 100%
+md1969-11-01.LL175.d1t09.wav:  track looks like MPEG with probability 92%
+
+old md5 or ffp (incude both if available)
+miles_1969-11-01t01.flac:8461fcbc39cdd301dca4cdca6b91ec0f
+miles_1969-11-01t02.flac:aa4f6e3131a0e366ee1474ab3e3f910b
+miles_1969-11-01t03.flac:58be17e55696b43dd25a5033401a638d
+miles_1969-11-01t04.flac:61863d160933f955ebff6a4af7320083
+miles_1969-11-01t05.flac:70a73c89c3dac4e6cfb428dce0a69033
+miles_1969-11-01t06.flac:f41d4f99a5375fb0ebd210c75ea5a6d1
+miles_1969-11-01t07.flac:cdc50446149d76c943a7094ccd375082
+miles_1969-11-01t08.flac:0e11522ea5b208530ddd4aeb0c249f04
+miles_1969-11-01t09.flac:99bd24a09613a82323af0727cc033ffd

@@ -1,0 +1,92 @@
+Local H
+June 26th, 2020.
+Harvest Moon Twin Drive In Movie Theatre - 
+Gibson City, IL.
+
+Taper:      Charles Dewey Cole, IV <live2cd@hotmail.com>
+Location:   30ft back; directly in front of left stack on 8ft. stand.
+Source 1:   CA-14 Omni > CA-9200 > Sony PCM-M10 (24 bit @48kHz)  
+Source 2:   FM > Sony ZS-RS60BT > Sony PCM-A10 (24 bit @48kHz) >  
+            Adobe Audition 3.0 (matrix, mixed and dithered) > 
+            (16 bit @44.1kHz) > Cd Wave > FLAC
+Conversion: Charles Dewey Cole, IV <live2cd@hotmail.com>
+Equipment:  SanDisk 32GB MicroSD Card > (USB) @ 48kHz > 44.1kHz > Cd Wave
+
+*** "Bound For The Drive In!" *** Night 2 ***
+---------------------------------------------------------------------------------------------------------
+Total Time: (2:47:33)
+
+01. Sunday Best					7:18
+02. All-Right (Oh, Yeah)			3:19
+03. All The Kids Are Right			3:46
+04. Gig Bag Road				4:05
+05. Beyond The Valley Of Snakes			9:01
+06. Winter Western				3:00
+07. Scott-Rock					3:21
+08. The Misanthrope				3:44
+09. Isn't It A Pity *				5:26
+10. Hold That Thought				3:29
+11. California Songs				6:34
+12. When Doves Cry + ^ @			3:42
+13. What Would You Have Me Do? ^		7:28
+14. Eddie Vedder ^				3:39
+15. Lucky Time ^				6:07
+16. Hey, Rita ^ @				4:37
+17. (Baby Wants To) Tame Me			11:10
+18. Hands On The Bible				4:58
+19. Bound For The Floor				5:19
+20. P.J. Soles					4:05
+21. How's The Weather Down There?		3:38
+22. Cooler Heads				4:46
+23. Turn The Bow				4:35
+24. Fritz's Corner				4:05
+25. ~ Encore ~					3:06
+26. Patrick Bateman				3:57
+27. President Forever				5:22
+28. 8:46					8:46
+29. Defy And Surrender				10:01
+30. High-Fiving MF #				15:11
+
+----------------------------------------------------------------------------------------------------------
+Notes:
+
+* = Originally Recorded By George Harrison.
++ = Originally Recorded By Prince & The Revolution.
+^ = denotes acoustic set.
+@ = denotes Scott solo.
+# = Features a segue into "Helter Skelter", Originally Recorded By The Beatles.
+
+Since COVID19 hit, Local H have been off the road and streaming as much content
+online as possible. They released a brand new record in April ("LIFERS") and have
+yet to play an actual show in front of fans to promote it. The idea of playing a
+"drive in" concert was brought up and they went with it. The show sold out so
+fast they added a 2nd night and that sold out as well! Everyone had their own
+space with their vehicle to sit (or stand) and social distancing was in place
+throughout the entire venue. Everyone wore masks to the concessions, merch or
+bathrooms. It went incredibly well! The band projected their own film clips
+on the giant screen above and ran a separate feed of a stage shot to screen #2
+on the other side of the lot. The band took the stage at 830pm sharp. There were
+no openers. There was bad weather in the area (that by the stroke of luck went
+a few miles north), so the start time was moved up. This was a 29 song set that
+lasted nearly 3 hours. From what I heard, the rain started in Gibson City 30
+seconds after the last truck was loaded around 1245am. Grateful. "8:46" made
+its live debut. An instrumental, the band pounded away at the extended jam
+as the time ran on the large screen above paying tribute to George Floyd.
+
+On the recording, I ran 2 separate rigs simultaneously capturing the audience
+as well as the FM feed. While they both sounded "decent" separately, together
+they sounded fantastic. It was a bit of work to matrix both together, but
+in the end, it was the right thing to do. During night 2, with the bad weather
+in the area - we did experience some wind. It did die down considerably by
+showtime, but you will hear some phasing during some songs. Because of this,
+I did mix the FM feed slightly higher than I did for night 1. The shows do sound
+pretty identical, but thats the reason why there is a slight difference. Had the
+wind stayed at 25mph (as it was when we arrived), there would be no audience 
+tape at all! It was THAT bad! Please enjoy and share with as many fans as you can.
+
+Live music will return and will persevere. This is just the beginning.
+
+---------------------------------------------------------------------------------------------------------
+For more information on Local H, please visit:
+
+http://www.LocalH.com/

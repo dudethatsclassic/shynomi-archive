@@ -1,0 +1,22 @@
+    length     expanded size    cdr  WAVE problems  fmt   ratio  filename
+     0:56.733      16339244 B   cxx   --   ---xx   flac  0.5998  fnm2015-08-01t01.flac
+     4:26.400      76723244 B   cxx   --   ---xx   flac  0.6801  fnm2015-08-01t02.flac
+     3:35.520      62069804 B   cxx   --   ---xx   flac  0.7269  fnm2015-08-01t03.flac
+     4:35.747      79415084 B   cxx   --   ---xx   flac  0.7284  fnm2015-08-01t04.flac
+     4:45.613      82256684 B   cxx   --   ---xx   flac  0.7058  fnm2015-08-01t05.flac
+     4:50.923      83785772 B   cxx   --   ---xx   flac  0.7145  fnm2015-08-01t06.flac
+     3:18.067      57043244 B   cxx   --   ---xx   flac  0.7165  fnm2015-08-01t07.flac
+     3:10.427      54842924 B   cxx   --   ---xx   flac  0.7055  fnm2015-08-01t08.flac
+     5:11.880      89821484 B   cxx   --   ---xx   flac  0.7104  fnm2015-08-01t09.flac
+     4:25.973      76600364 B   cxx   --   ---xx   flac  0.7300  fnm2015-08-01t10.flac
+     3:36.667      62400044 B   cxx   --   ---xx   flac  0.7355  fnm2015-08-01t11.flac
+     4:11.200      72345644 B   cxx   --   ---xx   flac  0.6766  fnm2015-08-01t12.flac
+     3:21.667      58080044 B   cxx   --   ---xx   flac  0.7071  fnm2015-08-01t13.flac
+     7:50.920     135625004 B   cxx   --   ---xx   flac  0.6813  fnm2015-08-01t14.flac
+     3:30.307      60568364 B   cxx   --   ---xx   flac  0.7206  fnm2015-08-01t15.flac
+     4:37.520      79925804 B   cxx   --   ---xx   flac  0.7276  fnm2015-08-01t16.flac
+     3:30.960      60756524 B   cxx   --   ---xx   flac  0.6196  fnm2015-08-01t17.flac
+     2:38.107      45534764 B   cxx   --   ---xx   flac  0.6667  fnm2015-08-01t18.flac
+     3:05.373      53387564 B   cxx   --   ---xx   flac  0.7455  fnm2015-08-01t19.flac
+     4:58.747      86039084 B   cxx   --   ---xx   flac  0.6559  fnm2015-08-01t20.flac
+    80:38.749    1393560688 B                            0.7007  (20 files)

@@ -1,0 +1,42 @@
+Bush
+2011-11-13
+Komplex 457, Zürich
+Switzerland
+
+
+Source : MM-HLSC-1 (4.7k mod done by Church Audio) (on hat) > CA-9100 > Edirol R09-HR @ 24/48 (line-in).
+Conversion : SanDisk SDHC 16GB Memory Card > USB > Adobe Audition 3 * > tracked w/CD Wave > encoded w/dBpoweramp.
+Generation : .WAV [16-bit/44.1kHz] master > .FLAC Compression level 8.
+Location : left balcony (see joined .jpg for a picture taken from the taping spot).
+
+* Normalisation (100%) > Downsampling (24-bit > 16-bit).
+
+
+01. _intro_
+02. Machinehead
+03. The Chemicals Between Us
+04. All My Life
+05. Greedy Fly
+06. The Sound Of Winter
+07. Everything Zen
+08. The Heart Of The Matter
+09. The Mirror Of The Signs
+10. The People That We Love
+11. All Night Doctors
+12. Swallowed
+13. I Believe In You
+14. Afterlife
+15. Little Things
+xx. _encore_
+16. Come Together ^
+17. Glycerine
+18. Comedown
+
+
+^ Beatles cover
+
+
+************************************************
+*** PLEASE DON'T REDISTRIBUTE AS LOSSY FILES ***
+************************************************
+Get the FLAC codec here : http://flac.sourceforge.net/download.html

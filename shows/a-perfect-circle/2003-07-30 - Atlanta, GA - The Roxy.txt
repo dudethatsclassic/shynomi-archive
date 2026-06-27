@@ -1,0 +1,31 @@
+A Perfect Circle
+The Roxy
+Atlanta, GA
+Wednesday July 30, 2003
+
+Taper:		JS
+Source:		DPA4022 > MP-2 > SBM-1 (Oade Mod)
+Location:	balcony, 40 ft. left stage stack
+DAT > SHN:	D100 > Emagic Audiowerk2 > Dell Dimension 8200 >
+		Soundforge v4.5 > mkwACT 0.97 Beta 1
+
+Disc One:
+
+01:	Intro			-	01:06.000
+02:	Lullaby			-	04:39.000
+03:	The Hollow		-	02:58.533
+04:	Magdalena		-	05:27.000
+05:	Weak and Powerless	-	03:13.000
+06:	Orestes			-	04:57.200
+07:	Rose			-	04:35.533
+08:	Thinking of You		-	05:03.733
+09:	The Package		-	07:51.866
+10:	3 Libras		-	03:51.533
+11:	Thomas			-	04:16.333
+12:	The Outsider		-	05:10.400
+13:	The Nurse Who Loved Me	-	04:34.866
+14:	Judith			-	04:53.000
+
+Total:				-	62:38.000
+
+compiled on 10-29-2003

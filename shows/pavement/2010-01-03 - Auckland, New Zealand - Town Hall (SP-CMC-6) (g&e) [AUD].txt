@@ -1,0 +1,40 @@
+Pavement
+Town Hall, Auckland, New Zealand
+March 1st, 2010
+
+G&E Recording
+
+SP-CMC-6 (Hypercard caps) > SP-HPM-1 (bass roll off) > Roland Edirol R-09HR (Line in at 24bit/88k 1gb split wave files) > 
+Adata Class 6 8gb SDHC card > USB2 > HDD > Steinburg WaveLab 6.1 (Join, Leveler, ME Loudness Maximizer, Fades) > 
+Adobe Soundbooth (sample rate conversion to 16bit/44.1k) > CDWAVE track spliting > TLH (Flac/Checksums) 
+
+*** Feel free to convert into other formats for personal use but please do not redistribute in lossy formats *** 
+
+30fb432d1a19784528251ed0ef1f875d *01 In The Mouth A Desert
+32871a72a51fae3745bfd5dbab759ee7 *02 Trigger Cut
+56c027164d8acb09ae829c771dfbbc0b *03 Elevate Me Later
+7d079f6d7a216e56e8c1cccdaccf985c *04 Shady Lane
+71ed37b4cc25e2118990d104f73d5b6a *05 Father To A Sister Of Thought
+b3dd38a2566f8b568e21838b09316754 *06 Rattled By The Rush
+3915e389a7dc009dc274bfb0a70ad849 *07 Perfume-V
+a42e855173b59f6768edbd0f57c6f3ca *08 Summer Babe
+58282a432e2b5dc76caf029a45da6a0d *09 Kennel District
+84a6cf81d7340bfce402fc9f7a3f4ea0 *10 Silence Kit
+ff4b4c901fcb47ddc4695009766fe7fe *11 Range Life
+434000e6f991962f97f1564b33cde919 *12 Unfair
+ee0c32ab0783f91ce1ae5aedbb656aef *13 Stop Breathin
+d0041cb380b339e11cc2ef88f4d99ee5 *14 No Life Singed Her
+57c76720d78d009d1e00509c619aa1c8 *15 Fight This Generation
+3af9edc4d4bf45d1fb1633d331ff5b40 *16 Date W IKEA
+c8b8cc39e8fb77be41ae417828f42282 *17 Box Elder
+608794968912a90fcd8306de1489e1be *18 Grounded
+8f8df484551d8c7d9edeb1368845f74f *19 Gold Soundz
+77e083426969cb07f82cb140772fcd81 *20 Here
+80cd516f4866bcbba552a3c7c8284da2 *21 Give It A Day
+e35b2220248a7904c68deb28970d796e *22 Cut Your Hair
+eae53423e8a5c7b19d9cbbef90e07876 *23 Stereo
+c7c92c38b044425acd13b9233c867fd7 *24 Split On A Stranger
+6f01ef1e24fff1aff924ad8b8cadeebe *25 Conduit For Sale
+
+Heres a clip of In The Mouth A Desert I recorded http://www.youtube.com/watch?v=ajiu5b_YcDk
+

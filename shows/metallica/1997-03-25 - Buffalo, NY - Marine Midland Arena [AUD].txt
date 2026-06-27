@@ -1,0 +1,51 @@
+Metallica
+Marine Midland Arena
+Buffalo, NY 
+March 25, 1997
+
+16 bit version
+
+Taper: }{eywood
+Gear:  Realistic and Shure stage mics > Tascam Prrtastudio 488 used for mixer > DAT
+Transfer and mastering by }{eywood
+Lineage: DAT (M) > Maxell XLII 90 Cassettes (1) JVC TD-W354 playback deck > Adobe Audition 1.5 (Recording to .wav @ 24/96, EQ, WNS, normalization, splits & fades) > Xrecode II (flac 8)
+
+
+This is a new transfer from my master made on May 18, 2017.  I just found these master cassettes by accident after not having seen them for at least a decade, and I decided it was time to do a high resolution transfer of it (and a better EQ job as well). 
+
+This was the first Time I was ALLOWED to record a concert.  Metallica decided to allow bootlegging that year, and I had taper tickets.  There was me and 3 guys with video cameras.  The difference is that they brought the same gear they would use during a stealth recording situation, and I brought a whole bunch of shit...well, because I could.  I recorded this with 4 mics on stands through a mixing board into a DAT I rented from Unistage.  I set up behind the seats along the back of the walkway, put up my mic stands, plugged the mixer into a convenient outlet, threw on some headphones and let it rip.  I balanced the mics in the headphones during COC's set and basically left it alone for Metallica.  These were not tiny little stealth mics.  They were stage mics my band used.  2 were Radio Shack vocal mics.  They were based on Shure SM58 design, but had a much better low end response.  That's why I brought them.  The other 2 were condensers we used for overheads on the drums.  These got all the high end and ambience.  Restrospectively not the best choice for taping a concert, but it's what I had around and I wasn't going to pass up the opportunity.
+
+Strangely there were 2 security guys assigned to protect the tapers, but no one else that worked there seemed to have any idea what I was up to.  I was asked if I worked for MTV, the band and a bunch of other things.  My stock reply was "National Hearing Institute.  Sound pressure level testing".  Hehe
+
+  The reason this is from a cassette is that my DAT went missing many years ago.  Damn tiny things they are, easy to lose.  Luckily I made a cassette copy to listen to, so this transfer is made from the only remaining available source.  I've listed it as first generation in the lineage because I've never been sure how you categorize a cassette made from a DAT. Technically it would be the same as a master cassette, but since there's signal loss compared to the DAT I call it 1st gen.
+
+I used a different kind of hiss reduction on this than the primitive type I used on the original transfer, and I reconstituted the high end with HF synthesis because the tapwe was dull to begin with, a hazard of trying to mix in headphones with a concert going on around me.
+
+
+01 Intro Jam / Bad Seed jam
+02 So What?
+03 Creeping Death
+04 Sad But True
+05 Ain't My Bitch
+06 Hero Of The Day
+07 King Nothing
+08 One
+09 Wasting My Hate
+10 bass solo incl. My Friend Of Misery
+11 Sanitarium tease
+12 Nothing Else Matters
+13 Until It Sleeps
+14 For Whom the Bell Tolls
+15 Wherever I May Roam
+16 Fade To Black
+17 Seek And Destroy
+18 Fight Fire With Fire
+
+19 Metallinoodles: Mission Impossible, Fuel
+20 Last Caress
+21 Master Of Puppets
+22 Enter Sandman
+
+23 Metallinoodles: Stargazer
+24 Am I Evil?
+25 Motorbreath

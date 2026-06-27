@@ -1,0 +1,515 @@
+General
+Complete name                            : C:\Users\ben\Videos\Royal Trux - 1999.11.05 Spanish Moon, Baton Rouge, LA, USA\VIDEO_TS\VIDEO_TS.BUP
+Format                                   : DVD Video
+Format profile                           : Menu
+File size                                : 12.0 KiB
+Overall bit rate mode                    : Variable
+FileExtension_Invalid                    : ifo
+
+Video
+ID                                       : 224 (0xE0)
+Format                                   : MPEG Video
+Format version                           : Version 2
+Bit rate mode                            : Variable
+Width                                    : 720 pixels
+Height                                   : 480 pixels
+Display aspect ratio                     : 4:3
+Frame rate                               : 29.970 (29970/1000) FPS
+Standard                                 : NTSC
+Compression mode                         : Lossy
+
+Audio
+Format                                   : AC-3
+Format/Info                              : Audio Coding 3
+Channel(s)                               : 2 channels
+Sampling rate                            : 48.0 kHz
+Compression mode                         : Lossy
+Language                                 : English
+
+Text
+Format                                   : RLE
+Format/Info                              : Run-length encoding
+Bit depth                                : 2 bits
+Language                                 : English
+
+General
+Complete name                            : C:\Users\ben\Videos\Royal Trux - 1999.11.05 Spanish Moon, Baton Rouge, LA, USA\VIDEO_TS\VIDEO_TS.IFO
+Format                                   : DVD Video
+Format profile                           : Menu
+File size                                : 12.0 KiB
+Overall bit rate mode                    : Variable
+
+Video
+ID                                       : 224 (0xE0)
+Format                                   : MPEG Video
+Format version                           : Version 2
+Bit rate mode                            : Variable
+Width                                    : 720 pixels
+Height                                   : 480 pixels
+Display aspect ratio                     : 4:3
+Frame rate                               : 29.970 (29970/1000) FPS
+Standard                                 : NTSC
+Compression mode                         : Lossy
+
+Audio
+Format                                   : AC-3
+Format/Info                              : Audio Coding 3
+Channel(s)                               : 2 channels
+Sampling rate                            : 48.0 kHz
+Compression mode                         : Lossy
+Language                                 : English
+
+Text
+Format                                   : RLE
+Format/Info                              : Run-length encoding
+Bit depth                                : 2 bits
+Language                                 : English
+
+General
+Complete name                            : C:\Users\ben\Videos\Royal Trux - 1999.11.05 Spanish Moon, Baton Rouge, LA, USA\VIDEO_TS\VIDEO_TS.VOB
+Format                                   : MPEG-PS
+File size                                : 104 KiB
+Duration                                 : 467 ms
+Overall bit rate mode                    : Variable
+Overall bit rate                         : 1 824 kb/s
+
+Video
+ID                                       : 224 (0xE0)
+Format                                   : MPEG Video
+Format version                           : Version 2
+Format profile                           : Main@Main
+Format settings, BVOP                    : No
+Format settings, Matrix                  : Default
+Duration                                 : 467 ms
+Bit rate mode                            : Variable
+Maximum bit rate                         : 9 000 kb/s
+Width                                    : 720 pixels
+Height                                   : 480 pixels
+Display aspect ratio                     : 4:3
+Frame rate                               : 29.970 (30000/1001) FPS
+Standard                                 : NTSC
+Color space                              : YUV
+Chroma subsampling                       : 4:2:0
+Bit depth                                : 8 bits
+Scan type                                : Progressive
+Compression mode                         : Lossy
+
+Audio
+ID                                       : 189 (0xBD)-128 (0x80)
+Format                                   : AC-3
+Format/Info                              : Audio Coding 3
+Commercial name                          : Dolby Digital
+Muxing mode                              : DVD-Video
+Duration                                 : 393 ms
+Bit rate mode                            : Constant
+Bit rate                                 : 64.0 kb/s
+Channel(s)                               : 2 channels
+Channel layout                           : L R
+Sampling rate                            : 48.0 kHz
+Frame rate                               : 31.250 FPS (1536 SPF)
+Bit depth                                : 16 bits
+Compression mode                         : Lossy
+Delay relative to video                  : -2 ms
+Stream size                              : 3.07 KiB (3%)
+Service kind                             : Complete Main
+
+Text
+ID                                       : 189 (0xBD)-32 (0x20)
+Format                                   : RLE
+Format/Info                              : Run-length encoding
+Muxing mode                              : DVD-Video
+
+Menu
+
+General
+Complete name                            : C:\Users\ben\Videos\Royal Trux - 1999.11.05 Spanish Moon, Baton Rouge, LA, USA\VIDEO_TS\VTS_01_0.BUP
+Format                                   : DVD Video
+Format profile                           : Program
+File size                                : 54.0 KiB
+Duration                                 : 1 h 10 min
+Overall bit rate mode                    : Variable
+Overall bit rate                         : 105 b/s
+FileExtension_Invalid                    : ifo
+
+Video
+ID                                       : 224 (0xE0)
+Format                                   : MPEG Video
+Format version                           : Version 2
+Duration                                 : 1 h 10 min
+Bit rate mode                            : Variable
+Width                                    : 720 pixels
+Height                                   : 480 pixels
+Display aspect ratio                     : 4:3
+Frame rate                               : 29.970 (29970/1000) FPS
+Standard                                 : NTSC
+Compression mode                         : Lossy
+
+Audio
+ID                                       : 128 (0x80)
+Format                                   : AC-3
+Format/Info                              : Audio Coding 3
+Duration                                 : 1 h 10 min
+Channel(s)                               : 2 channels
+Sampling rate                            : 48.0 kHz
+Compression mode                         : Lossy
+Language                                 : English
+
+Menu
+Duration                                 : 1 h 10 min
+00:00:00.000                             : Chapter 1
+00:09:59.433                             : Chapter 2
+00:19:58.633                             : Chapter 3
+00:29:58.433                             : Chapter 4
+00:39:57.666                             : Chapter 5
+00:49:57.066                             : Chapter 6
+00:59:56.566                             : Chapter 7
+List (Audio)                             : 0
+
+General
+Complete name                            : C:\Users\ben\Videos\Royal Trux - 1999.11.05 Spanish Moon, Baton Rouge, LA, USA\VIDEO_TS\VTS_01_0.IFO
+Format                                   : DVD Video
+Format profile                           : Program
+File size                                : 54.0 KiB
+Duration                                 : 1 h 10 min
+Overall bit rate mode                    : Variable
+Overall bit rate                         : 105 b/s
+
+Video
+ID                                       : 224 (0xE0)
+Format                                   : MPEG Video
+Format version                           : Version 2
+Duration                                 : 1 h 10 min
+Bit rate mode                            : Variable
+Width                                    : 720 pixels
+Height                                   : 480 pixels
+Display aspect ratio                     : 4:3
+Frame rate                               : 29.970 (29970/1000) FPS
+Standard                                 : NTSC
+Compression mode                         : Lossy
+
+Audio
+ID                                       : 128 (0x80)
+Format                                   : AC-3
+Format/Info                              : Audio Coding 3
+Duration                                 : 1 h 10 min
+Channel(s)                               : 2 channels
+Sampling rate                            : 48.0 kHz
+Compression mode                         : Lossy
+Language                                 : English
+
+Menu
+Duration                                 : 1 h 10 min
+00:00:00.000                             : Chapter 1
+00:09:59.433                             : Chapter 2
+00:19:58.633                             : Chapter 3
+00:29:58.433                             : Chapter 4
+00:39:57.666                             : Chapter 5
+00:49:57.066                             : Chapter 6
+00:59:56.566                             : Chapter 7
+List (Audio)                             : 0
+
+General
+Complete name                            : C:\Users\ben\Videos\Royal Trux - 1999.11.05 Spanish Moon, Baton Rouge, LA, USA\VIDEO_TS\VTS_01_0.VOB
+Format                                   : MPEG-PS
+File size                                : 246 KiB
+Duration                                 : 6 s 240 ms
+Overall bit rate mode                    : Variable
+Overall bit rate                         : 323 kb/s
+
+Video
+ID                                       : 224 (0xE0)
+Format                                   : MPEG Video
+Format version                           : Version 2
+Format profile                           : Main@Main
+Format settings, BVOP                    : No
+Format settings, Matrix                  : Default
+Format settings, GOP                     : N=18
+Format settings, picture structure       : Frame
+Duration                                 : 6 s 240 ms
+Bit rate mode                            : Variable
+Bit rate                                 : 221 kb/s
+Maximum bit rate                         : 7 500 kb/s
+Width                                    : 720 pixels
+Height                                   : 480 pixels
+Display aspect ratio                     : 4:3
+Frame rate                               : 29.970 (30000/1001) FPS
+Standard                                 : NTSC
+Color space                              : YUV
+Chroma subsampling                       : 4:2:0
+Bit depth                                : 8 bits
+Scan type                                : Interlaced
+Scan order                               : Bottom Field First
+Compression mode                         : Lossy
+Bits/(Pixel*Frame)                       : 0.021
+Time code of first frame                 : 00:00:00:00
+Time code source                         : Group of pictures header
+GOP, Open/Closed                         : Open
+GOP, Open/Closed of first frame          : Closed
+Stream size                              : 168 KiB (68%)
+Color primaries                          : BT.601 NTSC
+Transfer characteristics                 : BT.601
+Matrix coefficients                      : BT.601
+
+Audio
+ID                                       : 189 (0xBD)-128 (0x80)
+Format                                   : AC-3
+Format/Info                              : Audio Coding 3
+Commercial name                          : Dolby Digital
+Muxing mode                              : DVD-Video
+Duration                                 : 6 s 16 ms
+Bit rate mode                            : Constant
+Bit rate                                 : 96.0 kb/s
+Channel(s)                               : 2 channels
+Channel layout                           : L R
+Sampling rate                            : 48.0 kHz
+Frame rate                               : 31.250 FPS (1536 SPF)
+Bit depth                                : 16 bits
+Compression mode                         : Lossy
+Stream size                              : 70.5 KiB (29%)
+Service kind                             : Complete Main
+
+Menu
+
+General
+Complete name                            : C:\Users\ben\Videos\Royal Trux - 1999.11.05 Spanish Moon, Baton Rouge, LA, USA\VIDEO_TS\VTS_01_1.VOB
+Format                                   : MPEG-PS
+File size                                : 1 024 MiB
+Duration                                 : 22 min 41 s
+Overall bit rate mode                    : Variable
+Overall bit rate                         : 6 308 kb/s
+
+Video
+ID                                       : 224 (0xE0)
+Format                                   : MPEG Video
+Format version                           : Version 2
+Format profile                           : Main@Main
+Format settings                          : BVOP
+Format settings, BVOP                    : Yes
+Format settings, Matrix                  : Default
+Format settings, GOP                     : Variable
+Format settings, picture structure       : Frame
+Duration                                 : 22 min 41 s
+Bit rate mode                            : Variable
+Bit rate                                 : 5 990 kb/s
+Maximum bit rate                         : 9 500 kb/s
+Width                                    : 720 pixels
+Height                                   : 480 pixels
+Display aspect ratio                     : 4:3
+Frame rate                               : 29.970 (30000/1001) FPS
+Standard                                 : NTSC
+Color space                              : YUV
+Chroma subsampling                       : 4:2:0
+Bit depth                                : 8 bits
+Scan type                                : Interlaced
+Scan order                               : Top Field First
+Compression mode                         : Lossy
+Bits/(Pixel*Frame)                       : 0.578
+Time code of first frame                 : 00:00:00:00
+Time code source                         : Group of pictures header
+Stream size                              : 972 MiB (95%)
+
+Audio
+ID                                       : 189 (0xBD)-128 (0x80)
+Format                                   : AC-3
+Format/Info                              : Audio Coding 3
+Commercial name                          : Dolby Digital
+Muxing mode                              : DVD-Video
+Duration                                 : 22 min 41 s
+Bit rate mode                            : Constant
+Bit rate                                 : 192 kb/s
+Channel(s)                               : 2 channels
+Channel layout                           : L R
+Sampling rate                            : 48.0 kHz
+Frame rate                               : 31.250 FPS (1536 SPF)
+Bit depth                                : 16 bits
+Compression mode                         : Lossy
+Delay relative to video                  : -5 ms
+Stream size                              : 31.2 MiB (3%)
+Service kind                             : Complete Main
+
+Menu
+
+General
+Complete name                            : C:\Users\ben\Videos\Royal Trux - 1999.11.05 Spanish Moon, Baton Rouge, LA, USA\VIDEO_TS\VTS_01_2.VOB
+Format                                   : MPEG-PS
+File size                                : 1 024 MiB
+Duration                                 : 22 min 40 s
+Overall bit rate mode                    : Variable
+Overall bit rate                         : 6 315 kb/s
+
+Video
+ID                                       : 224 (0xE0)
+Format                                   : MPEG Video
+Format version                           : Version 2
+Format profile                           : Main@Main
+Format settings                          : BVOP
+Format settings, BVOP                    : Yes
+Format settings, Matrix                  : Default
+Format settings, GOP                     : M=3, N=15
+Format settings, picture structure       : Frame
+Duration                                 : 22 min 39 s
+Bit rate mode                            : Variable
+Bit rate                                 : 5 997 kb/s
+Maximum bit rate                         : 9 500 kb/s
+Width                                    : 720 pixels
+Height                                   : 480 pixels
+Display aspect ratio                     : 4:3
+Frame rate                               : 29.970 (30000/1001) FPS
+Standard                                 : NTSC
+Color space                              : YUV
+Chroma subsampling                       : 4:2:0
+Bit depth                                : 8 bits
+Scan type                                : Interlaced
+Scan order                               : Top Field First
+Compression mode                         : Lossy
+Bits/(Pixel*Frame)                       : 0.579
+Time code of first frame                 : 00:22:40:19
+Time code source                         : Group of pictures header
+GOP, Open/Closed                         : Open
+Stream size                              : 972 MiB (95%)
+
+Audio
+ID                                       : 189 (0xBD)-128 (0x80)
+Format                                   : AC-3
+Format/Info                              : Audio Coding 3
+Commercial name                          : Dolby Digital
+Muxing mode                              : DVD-Video
+Duration                                 : 22 min 40 s
+Bit rate mode                            : Constant
+Bit rate                                 : 192 kb/s
+Channel(s)                               : 2 channels
+Channel layout                           : L R
+Sampling rate                            : 48.0 kHz
+Frame rate                               : 31.250 FPS (1536 SPF)
+Bit depth                                : 16 bits
+Compression mode                         : Lossy
+Delay relative to video                  : -164 ms
+Stream size                              : 31.1 MiB (3%)
+Service kind                             : Complete Main
+
+Menu
+
+General
+Complete name                            : C:\Users\ben\Videos\Royal Trux - 1999.11.05 Spanish Moon, Baton Rouge, LA, USA\VIDEO_TS\VTS_01_3.VOB
+Format                                   : MPEG-PS
+File size                                : 1 024 MiB
+Duration                                 : 22 min 40 s
+Overall bit rate mode                    : Variable
+Overall bit rate                         : 6 314 kb/s
+
+Video
+ID                                       : 224 (0xE0)
+Format                                   : MPEG Video
+Format version                           : Version 2
+Format profile                           : Main@Main
+Format settings                          : BVOP
+Format settings, BVOP                    : Yes
+Format settings, Matrix                  : Default
+Format settings, GOP                     : M=3, N=15
+Format settings, picture structure       : Frame
+Duration                                 : 22 min 40 s
+Bit rate mode                            : Variable
+Bit rate                                 : 5 996 kb/s
+Maximum bit rate                         : 9 500 kb/s
+Width                                    : 720 pixels
+Height                                   : 480 pixels
+Display aspect ratio                     : 4:3
+Frame rate                               : 29.970 (30000/1001) FPS
+Standard                                 : NTSC
+Color space                              : YUV
+Chroma subsampling                       : 4:2:0
+Bit depth                                : 8 bits
+Scan type                                : Interlaced
+Scan order                               : Top Field First
+Compression mode                         : Lossy
+Bits/(Pixel*Frame)                       : 0.579
+Time code of first frame                 : 00:45:19:20
+Time code source                         : Group of pictures header
+GOP, Open/Closed                         : Open
+Stream size                              : 972 MiB (95%)
+
+Audio
+ID                                       : 189 (0xBD)-128 (0x80)
+Format                                   : AC-3
+Format/Info                              : Audio Coding 3
+Commercial name                          : Dolby Digital
+Muxing mode                              : DVD-Video
+Duration                                 : 22 min 40 s
+Bit rate mode                            : Constant
+Bit rate                                 : 192 kb/s
+Channel(s)                               : 2 channels
+Channel layout                           : L R
+Sampling rate                            : 48.0 kHz
+Frame rate                               : 31.250 FPS (1536 SPF)
+Bit depth                                : 16 bits
+Compression mode                         : Lossy
+Delay relative to video                  : -266 ms
+Stream size                              : 31.1 MiB (3%)
+Service kind                             : Complete Main
+
+Menu
+
+General
+Complete name                            : C:\Users\ben\Videos\Royal Trux - 1999.11.05 Spanish Moon, Baton Rouge, LA, USA\VIDEO_TS\VTS_01_4.VOB
+Format                                   : MPEG-PS
+File size                                : 107 MiB
+Duration                                 : 2 min 22 s
+Overall bit rate mode                    : Variable
+Overall bit rate                         : 6 308 kb/s
+
+Video
+ID                                       : 224 (0xE0)
+Format                                   : MPEG Video
+Format version                           : Version 2
+Format profile                           : Main@Main
+Format settings                          : BVOP
+Format settings, BVOP                    : Yes
+Format settings, Matrix                  : Default
+Format settings, GOP                     : M=3, N=15
+Format settings, picture structure       : Frame
+Duration                                 : 2 min 22 s
+Bit rate mode                            : Variable
+Bit rate                                 : 5 990 kb/s
+Maximum bit rate                         : 9 500 kb/s
+Width                                    : 720 pixels
+Height                                   : 480 pixels
+Display aspect ratio                     : 4:3
+Frame rate                               : 29.970 (30000/1001) FPS
+Standard                                 : NTSC
+Color space                              : YUV
+Chroma subsampling                       : 4:2:0
+Bit depth                                : 8 bits
+Scan type                                : Interlaced
+Scan order                               : Top Field First
+Compression mode                         : Lossy
+Bits/(Pixel*Frame)                       : 0.578
+Time code of first frame                 : 01:07:58:14
+Time code source                         : Group of pictures header
+GOP, Open/Closed                         : Open
+Stream size                              : 101 MiB (95%)
+
+Audio
+ID                                       : 189 (0xBD)-128 (0x80)
+Format                                   : AC-3
+Format/Info                              : Audio Coding 3
+Commercial name                          : Dolby Digital
+Muxing mode                              : DVD-Video
+Duration                                 : 2 min 22 s
+Bit rate mode                            : Constant
+Bit rate                                 : 192 kb/s
+Channel(s)                               : 2 channels
+Channel layout                           : L R
+Sampling rate                            : 48.0 kHz
+Frame rate                               : 31.250 FPS (1536 SPF)
+Bit depth                                : 16 bits
+Compression mode                         : Lossy
+Delay relative to video                  : -281 ms
+Stream size                              : 3.26 MiB (3%)
+Service kind                             : Complete Main
+
+Menu
+
+General
+Complete name                            : C:\Users\ben\Videos\Royal Trux - 1999.11.05 Spanish Moon, Baton Rouge, LA, USA\info.txt
+File size                                : 725 Bytes
+

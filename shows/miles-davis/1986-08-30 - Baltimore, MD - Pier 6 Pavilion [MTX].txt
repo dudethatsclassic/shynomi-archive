@@ -1,0 +1,38 @@
+Miles Davis
+1986-08-30
+Pier 6 Pavilion
+Baltimore, Maryland, USA
+Runtime: 73:32
+
+Source: matrix (soundboard + 2 Beyer dynamic mics mixed in at 20%)
+Lineage: Mcas > dat > cdr
+Live mix, recording and transfers by Ron Lorman.
+
+01 One Phone Call / Street Scenes / Speak (9:42) [inc, start cut]
+02 New Blues (Star People) (5:47)
+03 Perfect Way (4:22)
+04 Human Nature (7:46)
+05 Wrinkle (5:49)
+06 Tutu (8:30)
+07 Splatch (10:35) [inc, tape flip @ 5:24]
+08 Time After Time (8:22)
+09 Tomaas (6:55)
+10 Carnival Time (5:39)
+
+Miles Davis (tpt, org); Bob Berg (ss, ts); Robben Ford (el-g); Robert Irving III, Adam Holzman (synth); Felton Crews (el-b); Vincent Wilburn, Jr. (d); Steve Thornton (perc).
+
+Notes:
+This matrix version is incomplete; missing are the first 2 minutes and the final two tracks, Burn, and the encore, Maze. The first few bars of Burn are at the end of track 10.
+
+This is the second last Miles Davis concert with Robben Ford on guitar; Ford played his final gig with Miles the following night in Detroit.
+
+---
+Additional editing by plaz (March-April 2013)
+- eliminated DC offsets
+- balanced channels
+- restored clipped peaks (dynamic range expanded by more than 14 dB)
+- low pass filter at 22 kHz
+- repaired clicks, pops, crackles and a tiny gap at the tape flip
+- tracked and packed to flac
+
+Seeded on Dime, April 4, 2013.

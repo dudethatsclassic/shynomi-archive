@@ -1,0 +1,34 @@
+RED HOT CHILI PEPPERS
+January 22, 1993
+Praça da Apoteose (Hollywood Rock Festival)
+Rio de Janeiro, Brazil
+
+SOURCE:
+soundboard > unknown
+
+TRANSFER:
+Nakamichi DR-8 > Echo Layla24 > Adobe Audition 3.0 > CD Wave 1.97 > FLAC frontend 1.7.1
+
+GENERATION:
+FM > ANA(1) > WAV [48kHz] > WAV [44.1kHz] > FLAC [Level 8]
+
+LENGTH:
+16:37
+
+NOTES:
+- Has some minor dropouts and choppiness from the source tape.
+
+TRACKS:
+01. Give It Away (cuts in)
+02. Suck My Kiss
+03. Higher Ground
+04. Under The Bridge (cuts out)
+
+MD5 FINGERPRINTS:
+685047ac4d58844e1c4995c51779a0cb *RedHotChiliPeppers_1993-01-22_SBD_t01.flac
+aa53e08076c84ab6d86a1fccaa387ca1 *RedHotChiliPeppers_1993-01-22_SBD_t02.flac
+2580d922a7c4805345546a766082cabd *RedHotChiliPeppers_1993-01-22_SBD_t03.flac
+4fed5e1679c20fe508b6f67caef8b1be *RedHotChiliPeppers_1993-01-22_SBD_t04.flac
+
+TRANSFERRED BY:
+Kris Sproul

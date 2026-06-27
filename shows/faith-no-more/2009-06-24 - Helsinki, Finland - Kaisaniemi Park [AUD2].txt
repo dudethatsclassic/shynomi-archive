@@ -1,0 +1,91 @@
+Faith No More
+Date: 2009-06-24
+Location: Helsinki, FI
+Venue: Kaisaniemi Park
+Source: Audience
+Lineage: Audio Technica ES943/O x 2 (SP-CMC-8 omnis) >  SP-SPSB-8 (no bass roll-off) > Edirol R-09 (48/24) > USB > HD > Amadeus Pro (Mac OS X; editing, downsampling and dithering to 44.1/16) > FLAC (Encoded to FLAC and SBEs fixed with xACT)
+Taper: s(olitude) a.k.a. jb
+
+
+****************************READ ME*******************************************
+do not sell
+do not convert to mp3 (or other lossy format) unless for personal use
+do not remaster/matrix without my permission
+please include this .txt file (unedited) with this recording, should you make a trade copy etc.
+
+**********************************************************************************
+
+set list:
+
+reunited     6:00
+from out of nowhere      3:25
+land of sunshine     3:48
+caffeine     4:36
+evidence (sung in spanish)     4:50
+poker face / chinese arithmetic     5:02
+surprise! you're dead!     2:37
+last cup of sorrow      3:25
+cuckoo for caca      3:37
+easy      3:06
+ashes to ashes      3:44
+midlife crisis     4:09
+introduce yourself      1:45
+king for a day      7:16
+the gentle art of making enemies     3:34
+be aggressive      3:30
+epic      5:14
+just a man (+crowd)      8:27
+
+chariots of fire / stripsearch      6:11
+digging the grave  (+crowd/speech)     5:24
+
+i started a joke     3:00
+we care a lot      5:11
+
+
+
+Total time:  1:38:02
+Size:  581 MB (flac)
+
+
+
+
+
+Notes:
+
+taped in front of the left speakers, from approximately 5th-6th row behind the railing. as we knew the sound was going to be a bit more quiet (due to the 75 db limit at the venue/park), i decided FOS would be the way to go. besides, i tend to like FOS recordings: what they might sometimes miss in the width of the stereo image, they give back in having more detailed clarity. 
+anyway. it surely wasn't anywhere near too quiet there in the front. the crowd was great so there's some singing here and there (but luckily most of those singing near me were mostly singing in tune - or close enough ;)). really couldn't be avoided, considering the atmosphere in the show. i don't think it's all so bad as i feared - and at least you get the feeling on being there. 
+i think the recording turned out pretty good indeed, considering everything and considering it was outdoors anyway.  
+
+enjoy. 
+
+-s
+
+
+
+
+fingerprints:
+
+fnm2009-06-24_t01.flac:280d3b1ff44521d126afd3ffb74864d4
+fnm2009-06-24_t02.flac:99cdc66f8d5f9170b40d59e1cc57cf64
+fnm2009-06-24_t03.flac:937aa2b55ba8810f61491cb86202fef4
+fnm2009-06-24_t04.flac:1f5c296c52abd8898fc2865aaf794aa0
+fnm2009-06-24_t05.flac:0d4842d298302482193e1b5d3b32365c
+fnm2009-06-24_t06.flac:dadd5d062620de7eb7336247d1a8b2e6
+fnm2009-06-24_t07.flac:679cba67e10e6c111eaa7c2672c2656e
+fnm2009-06-24_t08.flac:f196d994bd5da9179cc0456359db99f9
+fnm2009-06-24_t09.flac:3268ef2bff8bbb1eb88eef371a91b787
+fnm2009-06-24_t10.flac:c8ed2d5aba1446ec0e7b53d7f410cc1b
+fnm2009-06-24_t11.flac:cb5db3dd8e83aae0478a2a78244e0998
+fnm2009-06-24_t12.flac:c50e02626b782178125766f1b0edf72e
+fnm2009-06-24_t13.flac:9f09a05b94420a315f8657e1130298d9
+fnm2009-06-24_t14.flac:4d46e9498791bb09b6acbe78d4e52ebc
+fnm2009-06-24_t15.flac:b11b3d3ddd8d34553fa112837c7ce80f
+fnm2009-06-24_t16.flac:89e4893dcee8b7e1efb0e7d52c1f648b
+fnm2009-06-24_t17.flac:ba80da9fd696a1597b95a871bab19fc7
+fnm2009-06-24_t18.flac:a1030ce5f93c1d6653eca2fca5767d4a
+fnm2009-06-24_t19.flac:bb01aeced526bc84c31617f325e90802
+fnm2009-06-24_t20.flac:db51061edc7809969158b87948128c07
+fnm2009-06-24_t21.flac:ec8ca61380d79fad366f05cc8fd42de0
+fnm2009-06-24_t22.flac:90a1913ef7c08359901316a9e629cd43
+ 

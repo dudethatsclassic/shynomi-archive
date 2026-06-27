@@ -1,0 +1,41 @@
+Zwan
+2003-02-14
+BBC Radio 1 Rock Show
+Maida Vale Studios - London, U.K.
+
+Broadcast date: 2003-02-19
+
+
+Taper:          Dave Chapman
+Source:         Digital FM > Hard Disk
+Radio Station:  BBC Radio 1, www.bbc.co.uk/radio1
+Resampling:     48.0 kHz > 44.1 kHz in Cool Edit Pro V2.0 (setting 999)
+Editor:         Sebastian Boschert
+Editing:        Fades/Normalization in Steinberg WaveLab V4.0f
+                Track Splits in CD Wave Editor V1.71
+SHN:            FM broadcast > HD > Editing > mkw Audio Compression Toolkit V0.97 Beta 1
+
+
+************************************************************************
+* DO NOT RENAME THE FiLES! THERE ARE ALREADY FOUR DiFFERENT SOURCES OF *
+*  THiS RECORDiNG, SO RENAMiNG THE FiLES OR THE FOLDER WiLL JUST MESS  *
+* THiNGS UP. BY ANY MEANS, ENJOY THE RECORDiNG! THiS ONE iSN'T FLAWED. *
+************************************************************************
+
+
+Setlist
+-------
+01 Radio 1 Rock Show Intro         0:29
+02 Session Intro #1                1:11
+03 Riverview                       6:16
+04 Settle Down                     4:50
+05 Session Outro #1                1:20
+06 Session Intro #2                0:57
+07 Honestly                        3:35
+08 I'm Eighteen [Alice Cooper]     3:35
+09 Spilled Milk                    7:04
+10 Session Outro #2                0:42
+                                  -----
+                                  29:59
+
+EOF

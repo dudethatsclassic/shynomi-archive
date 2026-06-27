@@ -1,0 +1,65 @@
+Bjork
+2001-09-28
+Muziektheatre (aka Stopera)
+Amsterdam
+ 
+Audience Minidisc > PC > wav > flac
+raw flac files downloaded via bjorkhub.no-ip.info
+recorded and transferred to PC by Andre Nieuwlaat
+
+flac > wav > Soundforge (normalize and fades) > 
+CD Wave (tracking) > Flac Frontend > flac
+flac file by danlynch 2004-06-09
+
+
+Part 1
+01. Musicbox - Frosti 
+02. Overture
+03. All Is Full Of Love
+04. Unravel
+05. Harm Of Will
+06. It's Not Up To You
+07. I've Seen It All
+08. Cocoon
+09. Pagan Poetry
+10. Unison
+
+Part 2
+11. Hidden Place
+12. Generous Palmstroke 
+13. You've Been Flirting Again
+14. Isobel
+15. Play Dead
+16. Army of Me
+17. Hyperballad
+18. Bachelorette
+Encore 1
+19. The Anchor Song
+20. Human Behaviour
+Encore 2
+21. Introductions
+22. Our Hands 
+
+Flac Fingerprint: 
+bjork2001-09-28d1t01.flac:920b5470c0d8de8239808ba0367acf84
+bjork2001-09-28d1t02.flac:34ba74dd3427253aaab36ec77cb74390
+bjork2001-09-28d1t03.flac:0c03308d895efb5454ff2dc334855225
+bjork2001-09-28d1t04.flac:551abe48cd0321119928f4a7916e32fc
+bjork2001-09-28d1t05.flac:4d1d91cdbdddd967781c1aef93009632
+bjork2001-09-28d1t06.flac:95cffc5e69e46636e02d9b45901247a7
+bjork2001-09-28d1t07.flac:2700206ad3fbd47fbbbb3b57e036841d
+bjork2001-09-28d1t08.flac:1df6c2a8261b629e39d9bbfe509ca45e
+bjork2001-09-28d1t09.flac:f846f6e014a03502e75b767cffa61737
+bjork2001-09-28d1t10.flac:deec08f4275f9784ae8191fcda0a8d82
+bjork2001-09-28d2t01.flac:46ff2086aa05301e694cb1df1cfee70b
+bjork2001-09-28d2t02.flac:71d46f29d0aaf15de6a8b1cdeb8eaef1
+bjork2001-09-28d2t03.flac:b7abe8da34542d6704a3987c3883f867
+bjork2001-09-28d2t04.flac:856bb4e38c1463efae39aa1e7650e638
+bjork2001-09-28d2t05.flac:38c71222e403146f528fbb6d8691bb1e
+bjork2001-09-28d2t06.flac:8f282a30f703d718b6f8752ccc274c7c
+bjork2001-09-28d2t07.flac:e5d1fd052c01337cf9956b05f2582768
+bjork2001-09-28d2t08.flac:29868d17a22a5db288b490b7e30883ce
+bjork2001-09-28d2t09.flac:f0a6233c48b7fd13dead51727b844c63
+bjork2001-09-28d2t10.flac:41c43923390b5bb21cce8b49edbec7f1
+bjork2001-09-28d2t11.flac:fc0adb3f716dc17f691fcad1c50ea189
+bjork2001-09-28d2t12.flac:a9bebeb4e066748371c151a51d2c1d00

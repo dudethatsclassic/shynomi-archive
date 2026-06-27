@@ -1,0 +1,28 @@
+Artist: Pavement
+Venue: BBK Live, Bilbao, Spain
+Date: July 7, 2023
+
+Taper: unaesfingelunar
+
+Lineage: iPhone SE > m4a > Cubase (EQ, Compression...) > wav > TLH > flac (level 8)
+
+01 Grounded
+02 Heckler Spray
+03 In the Mouth a Desert
+04 Trigger Cut
+05 Two States
+06 Stop Breathin
+07 Silence Kid
+08 Harness Your Hopes
+09 Kennel District
+10 Shady Lane
+11 Cut Your Hair
+12 Father to a Sister of Thought
+13 Unfair
+14 Gold Soundz
+15 The Hexx
+16 Stereo
+17 Spit on a Stranger
+18 Spizzle Trunk
+19 Type Slowly
+20 Range Life

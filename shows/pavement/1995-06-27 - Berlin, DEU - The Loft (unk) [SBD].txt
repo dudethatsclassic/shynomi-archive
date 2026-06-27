@@ -1,0 +1,62 @@
+PAVEMENT
+
+
+The Loft
+Berlin, Germany
+June 27, 1995
+
+
+Source:  SBD > ??? > CDR
+Transfer:  CDR > EAC > SHN > FLAC
+Tranfer by Terry Watts
+
+
+1. AT&T
+2. Kennel District
+3. Silence Kit
+4. Rattled by la Rush
+5. Blackout
+6. Maybe
+7. Motion Suggests
+8. Stop Breathing
+9. Brinx Job
+10. Unfair
+11. Extradition
+12. Range Life
+13. Serpentine Pad
+14. Best Friend's Arm
+15. Father to a Sister to a Thought
+16. Grave Architecture
+17. Two States
+18. Grounded
+
+
+Notes:
+
+Original EAC > SHN performed on March 7, 2004 for my own archives.
+
+Files converted to FLAC; FLAC FFP created on Feb. 20, 2013.
+The Original SHN MD5 is listed below.
+
+Terry Watts
+
+
+The Original SHN MD5:
+699569d431e601f52c8f7ee5442f6655 *pavement1995-06-27d1t01.shn
+8fa00f1006adcd179c3f73912efd2ced *pavement1995-06-27d1t02.shn
+86d7bd4e20de517ae7e885fe90cf6e7b *pavement1995-06-27d1t03.shn
+09538b7222f6071ae2673d0be930485b *pavement1995-06-27d1t04.shn
+ae5d8a40cf03f67c360b47328bfaca07 *pavement1995-06-27d1t05.shn
+15cb3f2b0db68682c2ccc265ec82432d *pavement1995-06-27d1t06.shn
+054442643128bd0609f89d73c32deba8 *pavement1995-06-27d1t07.shn
+db1660711838753ed89d781f0ccf6151 *pavement1995-06-27d1t08.shn
+60d031e07639a0486957afd2a7ddca4d *pavement1995-06-27d1t09.shn
+12d253007ae70d0eb3398458272db4d9 *pavement1995-06-27d1t10.shn
+642736ef412931fad78127c159ace26b *pavement1995-06-27d1t11.shn
+ff716a3ca6aaa39e710eb4a31020c36f *pavement1995-06-27d1t12.shn
+e0e2dc2327fb70432aae4ce1287fb6bf *pavement1995-06-27d1t13.shn
+ce244a3d306bd9369a82477ddbb1d1b6 *pavement1995-06-27d1t14.shn
+ef46f62a0ed46cba32f4c5c72783e785 *pavement1995-06-27d1t15.shn
+8c7fb9c10d48b40202fa84f2f67359c6 *pavement1995-06-27d1t16.shn
+87d1f4326ed021ef7962575015f44555 *pavement1995-06-27d1t17.shn
+a4273e04b662acf8c784c1cef71c72eb *pavement1995-06-27d1t18.shn

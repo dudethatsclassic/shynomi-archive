@@ -1,0 +1,136 @@
+Charlie Parker Quintet
+01-19-1951
+Hotel Diplomat Ballroom
+New York, New York
+
+Project ID - LL85
+
+Source: Audience recording
+Lineage: Audience recording > ?? > cd (Peter Losins Archive) > 
+cd duplicated (burner to burner) > eac > wave > flac (lvl 8 )
+
+Miles Davis (tpt); Charlie Parker (as); Al Haig (p); Tommy Potter (b); Roy Haynes (d)
+
+disc 1
+
+d1t01. /Billie's Bounce/  
+d1t02. /Billie's Bounce
+d1t03. /Cool Blues/
+d1t04. /cool Blues
+d1t05. /April in Paris/
+d1t06. /April In Paris
+d1t07. /Ornithology/
+d1t08. /52nd Street Theme/
+d1t09. /Caravan/
+d1t10. /Caravan/ 
+d1t11. /Caravan
+d1t12. /Big Foot
+ 
+-------------------------------------------------------
+
+Notes:
+
+- All songs are fragmeted. 
+
+- The sound isn't th greatest on this one, but it's listenable. It is interesting to hear 
+the crowd interaction on these. 
+
+- Thanks to Peter Losin for supplying the source. 
+
+- "These tunes are usually dated (as on Philology) sometime in 1950, but according to 
+Norman Saks the correct date is January 19, 1951. From the two tunes with trumpet solos
+it seems likely that the trumpet player is Davis, but it may be Red Rodney. Davis and
+Parker did get together for a studio session on January 17 (the "Au Privave" session for
+Mercury), so maybe they shared the stage at the Diplomat."- Credit to Peter Losin, 
+http://www.plosin.com/
+
+- QC done by Bgreen
+
+md5
+43be9e0815a1c9bed720fbb2ed13bd83 *md1951-01-19.aud.LL85.d1t01.flac
+ab2d6693399fadf7e92d3fb5fc6d6740 *md1951-01-19.aud.LL85.d1t02.flac
+765067c3edaec18e13c456fada96a02d *md1951-01-19.aud.LL85.d1t03.flac
+2e267efae116eec50100309a7d6f37bd *md1951-01-19.aud.LL85.d1t04.flac
+6e6f4d4d6e1673cb4207d1c4c6973b69 *md1951-01-19.aud.LL85.d1t05.flac
+18483166da81429aa573024f1419cb50 *md1951-01-19.aud.LL85.d1t06.flac
+22293f1c5b221c186cc1e305d02083f7 *md1951-01-19.aud.LL85.d1t07.flac
+f08c0547f51b5e6f868b60777230215b *md1951-01-19.aud.LL85.d1t08.flac
+a0c42dd2d762c4502b9ec0fce7cbb89a *md1951-01-19.aud.LL85.d1t09.flac
+91955445bac7986f1a491432505d7a7b *md1951-01-19.aud.LL85.d1t10.flac
+dc1d8afe00817698363f0f141995c47f *md1951-01-19.aud.LL85.d1t11.flac
+f478f9731a38f3753c1c00721a031558 *md1951-01-19.aud.LL85.d1t12.flac
+
+ffp
+md1951-01-19.aud.LL85.d1t01.flac:f46e14254d7d1353bdbb244d809d7f30
+md1951-01-19.aud.LL85.d1t02.flac:93a92c623103fca1fcaeea99a2fa21c6
+md1951-01-19.aud.LL85.d1t03.flac:177146bc6f78e3f2bf5fa719b10b114c
+md1951-01-19.aud.LL85.d1t04.flac:3984150e2bd1b8c3d34332b2994b127c
+md1951-01-19.aud.LL85.d1t05.flac:ee6e4aa583efd4759234718d31f3c80a
+md1951-01-19.aud.LL85.d1t06.flac:b39e4ddf3b20c703e3acee792b1909bc
+md1951-01-19.aud.LL85.d1t07.flac:caa8661ae65c37f67a5cccbfeb70b117
+md1951-01-19.aud.LL85.d1t08.flac:7b9501281c28ad706557ff65ad499cc4
+md1951-01-19.aud.LL85.d1t09.flac:0e8eb39d07d47ce160ca306096058461
+md1951-01-19.aud.LL85.d1t10.flac:1b3d6ad11deea4278b62d3ea91ac970d
+md1951-01-19.aud.LL85.d1t11.flac:7009412a5e87a6ea9ac6271e78c27588
+md1951-01-19.aud.LL85.d1t12.flac:35004f8e8959d8f8b6590d6e47c27bcc
+
+st5 
+f46e14254d7d1353bdbb244d809d7f30  [shntool]  md1951-01-19.aud.LL85.d1t01.flac
+93a92c623103fca1fcaeea99a2fa21c6  [shntool]  md1951-01-19.aud.LL85.d1t02.flac
+177146bc6f78e3f2bf5fa719b10b114c  [shntool]  md1951-01-19.aud.LL85.d1t03.flac
+3984150e2bd1b8c3d34332b2994b127c  [shntool]  md1951-01-19.aud.LL85.d1t04.flac
+ee6e4aa583efd4759234718d31f3c80a  [shntool]  md1951-01-19.aud.LL85.d1t05.flac
+b39e4ddf3b20c703e3acee792b1909bc  [shntool]  md1951-01-19.aud.LL85.d1t06.flac
+caa8661ae65c37f67a5cccbfeb70b117  [shntool]  md1951-01-19.aud.LL85.d1t07.flac
+7b9501281c28ad706557ff65ad499cc4  [shntool]  md1951-01-19.aud.LL85.d1t08.flac
+0e8eb39d07d47ce160ca306096058461  [shntool]  md1951-01-19.aud.LL85.d1t09.flac
+1b3d6ad11deea4278b62d3ea91ac970d  [shntool]  md1951-01-19.aud.LL85.d1t10.flac
+7009412a5e87a6ea9ac6271e78c27588  [shntool]  md1951-01-19.aud.LL85.d1t11.flac
+35004f8e8959d8f8b6590d6e47c27bcc  [shntool]  md1951-01-19.aud.LL85.d1t12.flac
+
+shntool
+  length     expanded size   cdr  WAVE problems filename
+     1:50.17       19444028    ---   --   ---xx   md1951-01-19.aud.LL85.d1t01.flac
+     0:48.26        8528396    ---   --   ---xx   md1951-01-19.aud.LL85.d1t02.flac
+     1:56.18       20504780    ---   --   ---xx   md1951-01-19.aud.LL85.d1t03.flac
+     0:58.63       10379420    ---   --   ---xx   md1951-01-19.aud.LL85.d1t04.flac
+     1:55.45       20391884    ---   --   ---xx   md1951-01-19.aud.LL85.d1t05.flac
+     0:04.01         707996    ---   --   ---xx   md1951-01-19.aud.LL85.d1t06.flac
+     2:01.16       21382076    ---   --   ---xx   md1951-01-19.aud.LL85.d1t07.flac
+     0:07.52        1357148    ---   --   ---xx   md1951-01-19.aud.LL85.d1t08.flac
+     0:47.40        8384924    ---   --   ---xx   md1951-01-19.aud.LL85.d1t09.flac
+     1:06.22       11694188    ---   --   ---xx   md1951-01-19.aud.LL85.d1t10.flac
+     0:22.02        3885548    ---   --   ---xx   md1951-01-19.aud.LL85.d1t11.flac
+     4:43.03       49928300    ---   --   ---xx   md1951-01-19.aud.LL85.d1t12.flac
+    16:41.05      176588688 B                     (totals for 12 files, 0.4550 overall compression ratio)
+
+spectral analysis from TLH
+md1951-01-19.aud.LL85.d1t01.wav:  track looks like CDDA with probability 100%
+md1951-01-19.aud.LL85.d1t02.wav:  track looks like CDDA with probability 100%
+md1951-01-19.aud.LL85.d1t03.wav:  track looks like CDDA with probability 100%
+md1951-01-19.aud.LL85.d1t04.wav:  track looks like CDDA with probability 100%
+md1951-01-19.aud.LL85.d1t05.wav:  track looks like CDDA with probability 100%
+md1951-01-19.aud.LL85.d1t06.wav:  track looks like CDDA with probability 100%
+md1951-01-19.aud.LL85.d1t07.wav:  track looks like CDDA with probability 100%
+md1951-01-19.aud.LL85.d1t08.wav:  track looks like CDDA with probability 100%
+md1951-01-19.aud.LL85.d1t09.wav:  track looks like CDDA with probability 100%
+md1951-01-19.aud.LL85.d1t10.wav:  track looks like CDDA with probability 100%
+md1951-01-19.aud.LL85.d1t11.wav:  track looks like CDDA with probability 100%
+md1951-01-19.aud.LL85.d1t12.wav:  track looks like CDDA with probability 100%
+
+old ffp
+19 - Track19.flac:f46e14254d7d1353bdbb244d809d7f30
+20 - Track20.flac:93a92c623103fca1fcaeea99a2fa21c6
+21 - Track21.flac:177146bc6f78e3f2bf5fa719b10b114c
+22 - Track22.flac:3984150e2bd1b8c3d34332b2994b127c
+23 - Track23.flac:ee6e4aa583efd4759234718d31f3c80a
+24 - Track24.flac:b39e4ddf3b20c703e3acee792b1909bc
+25 - Track25.flac:caa8661ae65c37f67a5cccbfeb70b117
+26 - Track26.flac:7b9501281c28ad706557ff65ad499cc4
+27 - Track27.flac:0e8eb39d07d47ce160ca306096058461
+28 - Track28.flac:1b3d6ad11deea4278b62d3ea91ac970d
+29 - Track29.flac:7009412a5e87a6ea9ac6271e78c27588
+30 - Track30.flac:35004f8e8959d8f8b6590d6e47c27bcc
+
+
+

@@ -1,0 +1,81 @@
+Miles Davis Quintet
+10-31-1967
+Konserthuset
+Stockholm, Sweden
+
+Project ID - LL177
+
+Source: FM Broadcast
+Lineage: Sveriges Radio TV broadcast > ?? > Gambit Records (69255) > 
+eac > .ape > wave > cd wave (split tracks) > flac lvl 8
+
+Miles Davis (tpt); Wayne Shorter (ts); Herbie Hancock (p); Ron Carter (b); 
+Tony Williams (d); George Wein (ann)
+
+disc 1
+
+d1t01. Introduction
+d1t02. Agitation
+d1t03. Footprints
+d1t04. 'Round Midnight
+d1t05. Gingerbread Boy
+d1t06. The Theme
+ 
+-------------------------------------------------------
+
+Notes:
+ 
+- The source is nice, a very pleasant listen. I wish I could find a version of this 
+that didn't look to have a lossy lineage. 
+
+- This show looks to be a high probabilty for lossy sourcing. This seems to be
+all too common with Gambit releases. 
+
+- The Gambit bootleg also contained 11-07-1967 when I received it. I used CD wave to 
+split the single wave file and I have excluded the 11-7-1967 portion that will be 
+offered as it's own LLID. There is an alternate version of this show offered on LL176
+. This version is more complete. 
+ 
+- QC done by Bgreen
+
+md5
+dc9e000c8ed053f045e61380fdd442a0 *md1967-10-31.LL177.d1t01.flac
+a9cb2dc6d40fe0031bd6af55419d4234 *md1967-10-31.LL177.d1t02.flac
+45a75c059908ddfd039ca3b9e7122483 *md1967-10-31.LL177.d1t03.flac
+a57b95fb11b1ee7f3776eb10e2d7bb67 *md1967-10-31.LL177.d1t04.flac
+926e8a446d02b96643d3c5b18ad9ee64 *md1967-10-31.LL177.d1t05.flac
+68a78f327aaef29b07a93b5e6391b2de *md1967-10-31.LL177.d1t06.flac
+
+ffp
+md1967-10-31.LL177.d1t01.flac:6baef7f3b109b9137b0936753bf1af8e
+md1967-10-31.LL177.d1t02.flac:e7cd89fc821850734260a8c421e0d2f0
+md1967-10-31.LL177.d1t03.flac:d0234eadebb2f67e2161db0fdfc26c3d
+md1967-10-31.LL177.d1t04.flac:447b87f70f49b3d86052c05ca1f5665b
+md1967-10-31.LL177.d1t05.flac:2f0f30f2d74367031b2202ae6ee6ea57
+md1967-10-31.LL177.d1t06.flac:c0180ddd6b3820a2eebee3090dd3fc8e
+ 
+shntool
+length     expanded size   cdr  WAVE problems filename
+     0:31.57        5602508    ---   --   ---xx   md1967-10-31.LL177.d1t01.flac
+     6:57.08       73577660    ---   --   ---xx   md1967-10-31.LL177.d1t02.flac
+     9:06.69       96476732    ---   --   ---xx   md1967-10-31.LL177.d1t03.flac
+     8:30.06       89978156    ---   --   ---xx   md1967-10-31.LL177.d1t04.flac
+     7:36.07       80454908    ---   --   ---xx   md1967-10-31.LL177.d1t05.flac
+     0:37.18        6569180    ---   --   ---xx   md1967-10-31.LL177.d1t06.flac
+    33:19.15      352659144 B                     (totals for 6 files, 0.6050 overall compression ratio)
+
+spectral analysis from TLH
+md1967-10-31.LL177.d1t01.wav:  track looks like MPEG with probability 100%
+md1967-10-31.LL177.d1t02.wav:  track looks like MPEG with probability 100%
+md1967-10-31.LL177.d1t03.wav:  track looks like MPEG with probability 92%
+md1967-10-31.LL177.d1t04.wav:  track looks like MPEG with probability 89%
+md1967-10-31.LL177.d1t05.wav:  track looks like MPEG with probability 100%
+md1967-10-31.LL177.d1t06.wav:  track looks like MPEG with probability 100%
+
+old md5 or ffp (incude both if available)
+dc9e000c8ed053f045e61380fdd442a0 *Miles Davis - Winter in Europe 196701.flac
+a9cb2dc6d40fe0031bd6af55419d4234 *Miles Davis - Winter in Europe 196702.flac
+45a75c059908ddfd039ca3b9e7122483 *Miles Davis - Winter in Europe 196703.flac
+a57b95fb11b1ee7f3776eb10e2d7bb67 *Miles Davis - Winter in Europe 196704.flac
+926e8a446d02b96643d3c5b18ad9ee64 *Miles Davis - Winter in Europe 196705.flac
+68a78f327aaef29b07a93b5e6391b2de *Miles Davis - Winter in Europe 196706.flac

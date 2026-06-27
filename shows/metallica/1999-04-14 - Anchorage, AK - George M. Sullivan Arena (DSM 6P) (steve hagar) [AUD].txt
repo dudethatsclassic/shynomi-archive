@@ -1,0 +1,70 @@
+Metallica
+
+1999-04-14
+Sullivan Arena
+Anchorage, AK
+
+
+Recording Equipment:  Sonic Studios DSM-6P w/ 3-way lo-cut filter, position unknown (most likely @ 80hz, middle setting) -> Sony WM-D6
+
+Lineage: Denon 790R -> Kenwood A-522 amplifier -> Kenwood GE-622 Equalizer -> DAT line out -> line in on Tascam DR-2D -> WAV -> Audacity -> WAV(mastered) -> Wav Pad Editor(track splitting) -> TLH (align,Encode,ffp) -> FLAC
+
+
+Taper: Steve "ballsdeep" Hagar
+
+
+01. The Ecstasy Of Gold
+02. Breadfan 
+03. Master Of Puppets 
+04. Of Wolf And Man 
+05. The Thing That Should Not Be 
+06. Kirk's Solo
+07. Fuel 
+08. The Memory Remains 
+09. Bleeding Me 
+10. Bass Solo - My Friend Of Misery Jam
+11. Sanitarium Tease
+12. Turn The Page 
+13. For Whom The Bell Tolls 
+14. King Nothing 
+15. Wherever I May Roam 
+16. One 
+17. Fight Fire With Fire
+18. The Wait Tease
+19. The Outlaw Torn 
+20. Sad But True 
+21. Creeping Death 
+22. Nothing Else Matters 
+23. Enter Sandman 
+24. Battery 
+
+
+show notes: this show is the third point of the "Alaska/Hawaii tour" triangle (the 'base' of the triangle was 2 front row recordings in Hawaii, then this one is the third of the triumvirate). there was so much drama involved with this show (on my end), it's amazing it even exists!!!! these 3 shows were the 'warm up' shows for the "S&M" recording sessions later in the month.
+
+
+fresh off recording 2 Metallica shows in Honolulu, as mentioned above, from the front row, we (the at-the-time gf and I and a couple of friends) headed back home to Alaska. 
+
+we had nice hotel rooms close to the venue
+
+we had a paid-for limo ride to the show
+
+NOTHING could go wrong.....................right?
+
+WRONG!!!
+
+
+first mistake was getting thoroughly shitfaced. I was back home, had a ride to the show, and a posse of friends to go to the show with (I'd stood in line at midnight 2 months prior, to get 10 seats in the best taping location, on the drinking side, near the bathrooms). time to get lubed up and rock out!!!
+
+so, we headed to the Sully (Sullivan Arena) in time for Monster Magnet. got there right when they were hitting the stage. the recorder was running. we got to our seats. ***they (our seats) were NOT THERE***. apparently, the band needed the space where our seats were for equipment, so the 70 year old usher-lady was yelling at me that "we can upgrade you to floor seats"....."NO OLD LADY, I bought SEATS because I want to SIT, not because I want to stand and get thrashed around" (the crowd was insane, people were flying over the barricade during "Nothing Else Matters", no bullshit!). a 15 minute argument (it seemed) ensued (all recorded, of course, though never torrented, I was drunk, and pretty pissed off), to where finally she told me that there was a section next to the one I'd bought with "overflow seats" for those who "didn't want to be upgraded to the floor"...WOW, could you have not told me that in the FIRST PLACE? like, when I told you I did NOT want floor seats? that was only offered after I asked to talk to her boss (Ken A., I think when I spit his full name at her, her old dried uterus dropped a couple feet) to find out what the problem was. and I only knew her bosses name because a security guard choked me out during Van Halen 6 months earlier (also taped, and torrented years ago), and I tracked down Ken and got the guy fired (another crazy story involving security not doing their jobs) so now we're seated (all 10 of us), and Metallica comes on, great show, numerous highlights, all here for you to listen to. the sad part about this recording is that, for the seventy minutes (up thru 1 minute before the end of "Wherever I May Roam"), I was recording with type IV (metal) tape, but had the switch on the D6 set to 'normal' (type I). this causes a very brittle/washy sound on the high-end. I noticed this in the middle of "Wherever I May Roam", as for some reason I checked the switches (being the paranoid taper I was, haha), and was able to get it back to the 'metal' position for the 2nd part of the show, making the recording have much more depth and clarity, much more like the previously torrented Hawaii recordings (but still a bit boomier, the Sully is not really made for musical fidelity). I have no idea how it happened, other than possibly the switch got bumped during the debate over the seats during Monster Magnets set. in addition, this show *was* recorded with Dolby when taping (for the master), so that in conjunction with the 'normal setting' was probably the culprit. Dolby was not used during the playback of the first portion, but the deck was fooled into thinking it was a 'normal' bias tape with a bit of tape and a drill....when played back with that trick and Dolby: unusable sound. same with if I taped over the new hole (telling the deck it was metal tape) and Dolby. but with Dolby off, and the deck thinking the tape was normal (it wasn't), that resulted in what is here. the switchover was during an extended sang "rooooooam" almost exactly a minute before the end of the song. it's not dramatic, but it's noticeable. that last minute of WIMR thru the end was transferred with the type IV setting and Dolby on....just listen to the crescendos during the middle/end portion  of "Fight Fire With Fire", or the depth of the low end on "Bleeding Me" to hear what could have been if I wasn't drunk and stoned and if my seats were available when I arrived. maybe someday I'll torrent the Monster Magnet portion...unedited...we shall see. 
+spent many hours on this show, both EQing the 2 parts ("normal bias setting", "metal bias setting"), then splicing them together (you'll notice the sound quality change, again, near the end of WIMR) hard limits on all the explosions and hand claps (but most of the screams left in, as they weren't too bad). 
+so now, it sounds pretty damn solid. listen to the entirety of "The Outlaw Torn" to hear what I mean. in closing, this show was torrented many years ago I believe on dime (before they banned Metallica)by lzndr/iglood (who has since been demoted to 'download only' status on dime, and he hasn't checked in here in years), and I must confess, I was never very happy with his mastering techniques. with him, no visual aids were used when mastering (I always look at a spectral hardware analyzer when EQing, not a cpu screen-based one, which he never bothered using either). *always* too bassy. (again, a common result when using an "ears only" based approach) usually mastered too close to the 0dB noise ceiling, resulting in a 'loudness wars' finished product. I have a much different approach to mastering shows...or, I'd wholeheartedly say that *this* version is the definitive version of this show. as always, from the master. from the taper. ginormous thanks to the bulletproof bubba420 for this upload, and yes, there are ***always*** more treats in store from the vault in Alaska....stay tuned!!!!
+
+
+
+---ballsdeep OUT!!!
+
+-----------------------------
+
+*Additional Notes, Added April 7, 2017 by JITF
+
+The tracks were encoded in an older FLAC version (1.2.1 20070917). Decoded back to WAV using Trader's Little Helper, then converted to current FLAC format (1.3.2 20170101) at Level 8 with EZ CD Audio Converter. The files went from 998.1 MB to 997.7 MB.

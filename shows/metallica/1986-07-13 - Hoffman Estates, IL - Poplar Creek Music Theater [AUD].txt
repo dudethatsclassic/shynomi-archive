@@ -1,0 +1,35 @@
+Metallica 
+
+1986-07-13
+Poplar Creek Music Theater 
+Hoffman Estates, IL
+
+Source: Unknown AUD (Unknown gen cass)
+
+Transfer: CASS(unknown gen) > Kenwood KX-W4080  > Polderbits > WAV > Nero > CDR(M) > EAC(secure) > WAV > FLAC(lvl8)
+
+
+01. Radio Ad for Concert at Poplar Creek
+02. The Ecstasy Of Gold / Battery
+03. Master of Puppets
+04. For Whom the Bell Tolls
+05. Welcome Home (Sanitarium)
+06. The Thing That Should Not Be
+07. Seek And Destroy
+08. Creeping Death
+Encore:
+09. Fade To Black ->
+10. Damage Inc.
+
+
+Notes:
+Rare show! I got this show directly from the guy that transfered his unknown gen aud cass to cdr for me. Im certain this is the correct date because of the radio ad that was also on the cass. James never mentions the city name but the radio ad pretty much verifys to me that the date is correct since its for poplar creek.
+
+
+                          ~ bubba420 ~
+
+-----------------------------
+
+*Additional Notes, Added October 28, 2016 by JITF
+
+The tracks were encoded in an older FLAC version (1.1.2 20050205). Decoded back to WAV using Trader's Little Helper, then converted to current FLAC format (1.3.1 20141125) at Level 8 with EZ CD Audio Converter. The file size went from 367.8 MB to 364.5 MB.

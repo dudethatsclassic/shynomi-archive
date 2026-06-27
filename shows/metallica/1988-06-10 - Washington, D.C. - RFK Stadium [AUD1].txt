@@ -1,0 +1,28 @@
+Metallica
+ Venue:	@RFK Stadium : Washington, DC, USA
+ Date:	June 10, 1988
+ Time:	63:25
+ Size:	1 CD
+ Sound:	AUD            Audio tape rip
+ Notes:	It's the real show, James (or Jason, can't hear it) sings during Seek and Destroy: "Scanning   the scene in DC tonight"
+  Also, DC is mentioned after Master of Puppets. The recording sounds distant, it's a collector-type   bootleg.
+
+Disc 1:	
+01. Soundcheck
+02. Ecstacy of Gold
+03. Creeping Death 
+04. For Whom the Bell Tolls 
+05. Sanitarium 
+06. Whiplash 
+07. Fade To Black 
+08. Seek & Destroy 
+09. Master Of Puppets 
+10. Last Caress 
+11. Am I Evil? 
+12. Battery
+
+-----------------------------
+
+*Additional Notes, Added June 1, 2017 by JITF
+
+The tracks were encoded in an older FLAC version (1.1.0 20030126). Decoded back to WAV using Trader's Little Helper, then converted to current FLAC format (1.3.2 20170101) at Level 8 with EZ CD Audio Converter. The files went from 314.4 MB to 306.7 MB.

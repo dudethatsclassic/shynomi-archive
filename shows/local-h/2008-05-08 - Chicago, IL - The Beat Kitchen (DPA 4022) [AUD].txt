@@ -1,0 +1,81 @@
+Local H
+May 8, 2008
+The Beat Kitchen
+Chicago, IL
+
+****************************** 16-bit/44.1kHz version ******************************
+************************** 24-bit/48kHz version available **************************
+
+Source: 	DPA 4022 > Oade Warm Mod Fostex FR-2LE (@ 24-bit/48kHz) 
+Lineage: 	Oade Warm Mod Fostex FR-2LE > USB 2.0 > Sound Forge v8.0 > 
+         	CD Wave v1.93.3 > FLAC Frontend v1.7.1 > .flac (Level 8) 
+Location: 	DFC, 20' back from stage, elevated 8' on stand  
+         	Mic configuration: ORTF with shockmount & windscreens
+
+Taped & Transferred by James Bonaiuto <cd2go@hotmail.com>
+LMA Upload by Charles Dewey Cole, IV <live2cd@hotmail.com>
+
+------------------------------------------------------------------------------------
+Disc 1 of 1:                                                 (79:52.63)
+------------------------------------------------------------------------------------
+
+01. Intro                                                    (00:14.00)
+02. Manifest Density Pt. 1                                   (00:49.72)
+03. Bound For The Floor                                      (03:39.11)
+04. Lovey Dovey                                              (02:43.04)
+05. I Saw What You Did And I Know Who You Are                (04:04.21)
+06. No Problem                                               (04:02.17)
+07. Nothing Special                                          (04:37.31)
+08. Eddie Vedder                                             (03:02.17)
+09. Back In The Day                                          (03:45.03)
+10. Freeze-Dried (F)lies                                     (03:45.53)
+11. High-Fiving MF                                           (06:04.46)
+12. Fritz's Corner                                           (03:45.57)
+13. O.K.                                                     (07:41.37)
+14. Manifest Density Pt. 2                                   (07:15.12)
+15. ~Encore~                                                 (03:22.27)
+16. Tag Along                                                (02:42.35)
+17. President Forever                                        (03:42.66)
+18. 24 Hour Break-Up Session                                 (04:35.12)
+19. Buffalo Trace                                            (08:36.58)
+20. Goodnight *                                              (01:23.09)
+
+------------------------------------------------------------------------------------
+Notes:
+
+* = Originally Recorded by Cheap Trick
+
+------------------------------------------------------------------------------------
+Sound Forge v8.0 Notes:
+
+- Faded I/O at beginning/end of show
+- Normalized peak level to -1dB
+- Resample: Interpolation accuracy @ 4 with anti-alias filter
+- Dither: Triangular   Noise shaping: Equal loudness contour
+
+------------------------------------------------------------------------------------
+FLAC Fingerprint:
+
+localh2008-05-08t01.dpa4022.fr2le.flac:41a35020b7a241ecb12516e9cdc8d978
+localh2008-05-08t02.dpa4022.fr2le.flac:3b82309e81a9cde97f1142c4b554a508
+localh2008-05-08t03.dpa4022.fr2le.flac:9f581310e55ee3ce966a0053cced886f
+localh2008-05-08t04.dpa4022.fr2le.flac:dbaaf36d468428187eca7a16c8102a65
+localh2008-05-08t05.dpa4022.fr2le.flac:9926295ca55d42f761b8bfc3150dad30
+localh2008-05-08t06.dpa4022.fr2le.flac:734cbf4ece20cb65e0fb40e4cec8b72a
+localh2008-05-08t07.dpa4022.fr2le.flac:5742a782606a30911d6ebada34e2e8cc
+localh2008-05-08t08.dpa4022.fr2le.flac:079f9f98167c577f6c8463cd801b71ea
+localh2008-05-08t09.dpa4022.fr2le.flac:c813c8bf43e70cd134972e58ca1348c4
+localh2008-05-08t10.dpa4022.fr2le.flac:8abf1e84569aae494363472cea554729
+localh2008-05-08t11.dpa4022.fr2le.flac:3591ef52a000bb8fc58bc292840fd0bc
+localh2008-05-08t12.dpa4022.fr2le.flac:56df0e5d56a963f18a3b664c725d9aa1
+localh2008-05-08t13.dpa4022.fr2le.flac:bf57158f3057fb90f75357e1fb00a518
+localh2008-05-08t14.dpa4022.fr2le.flac:f15e8c1b73440d5289809e72ce404781
+localh2008-05-08t15.dpa4022.fr2le.flac:4466140129c0ff848be124b177ed7baa
+localh2008-05-08t16.dpa4022.fr2le.flac:391a5fdd9fdb00743e05b46c93e96dae
+localh2008-05-08t17.dpa4022.fr2le.flac:e719501f71144c00b0c157ac25bdb4d9
+localh2008-05-08t18.dpa4022.fr2le.flac:b5e72115a5152c97066bebd67e2155f3
+localh2008-05-08t19.dpa4022.fr2le.flac:5b27f4815f123d1602e860334997c709
+localh2008-05-08t20.dpa4022.fr2le.flac:ae267b5a6b2c149a02769d558fdc774d
+
+------------------------------------------------------------------------------------
+For more info on Local H, please visit: www.localh.com

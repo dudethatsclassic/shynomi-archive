@@ -1,0 +1,120 @@
+Metallica
+February 7, 2018
+Barcelona, Spain
+Palau Sant Jordi
+Lineage: SP-CMC-8(AT8538 Mod)>CA-9100>Edirol R-05>PC>Adobe Audition>CDWAVE>FLAC
+Taped by: Porcelmc 
+
+
+_____________________________________________________________
+
+Setlist - Metallica
+
+01. AC/DC Tape
+02. The Ecstasy of Gold Tape
+03. Hardwired
+04. Atlas, Rise!
+05. James Speaks #1
+06. Seek and Destroy
+07. Through the Never
+08. Welcome Home (Sanitarium)
+09. Now That We're Dead
+10. James Speaks #2
+11. Confusion
+12. For Whom the Bell Tolls Intro
+13. For Whom the Bell Tolls
+14. Halo on Fire
+15. James Speaks #3
+16. Rob and Kirk Guitar and Bass Solo
+17. Bass Solo
+18. Breadfan
+19. The Memory Remains
+20. Moth Into Flame
+21. James Speaks #4
+22. Sad But True
+23. One
+24. Master of Puppets
+25. Encore Break
+26. Spit Out the Bone
+27. Nothing Else Matters
+28. Enter Sandman
+
+_____________________________________________________________
+
+Notes:
+
+This show was a blast to record, and came out great. The boys kicked maximum ass!! Enjoy it!!!!
+
+Cheers!
+
+
+Sample: https://youtu.be/WXf5clPU0Zw
+
+
+ST5 Hash File:
+
+79bb393adce0d220bffe036aa2460ea8  [shntool]  01_ACDC Tape.flac
+0517779ea539fddda4df41c4b8cf0008  [shntool]  02_The Ecstasy of Gold Tape.flac
+afe90074ceb73f6dfbaec1b9e017d657  [shntool]  03_Hardwired.flac
+36ed775b2ddeb2251c90252e9e65fb0f  [shntool]  04_Atlas Rise.flac
+f15cd84a2e178e595f59cd7e8db12f33  [shntool]  05_James Speaks #1.flac
+82f391503a35d3d81c34727917417020  [shntool]  06_Seek and Destroy.flac
+7959276b225aadbaea280975a5666010  [shntool]  07_Through the Never.flac
+6e6767ac7d624c68d967ebb29ce3c809  [shntool]  08_Welcome Home (Sanitarium).flac
+5acc6e73ef1f84beb9df4466354f2013  [shntool]  09_Now That We're Dead.flac
+3f687a4abd5b9b756d0188d5a2e64f00  [shntool]  10_James Speaks #2.flac
+63f742bdee9c98af53f01a167c974259  [shntool]  11_Confusion.flac
+a2112bbabf988099094e8a8d4d4a9c56  [shntool]  12_For Whom the Bell Tolls Intro.flac
+c1f29365cab585bec024e098b0c75c6f  [shntool]  13_For Whom the Bell Tolls.flac
+fec93e0ef6da493f983ab47a59dba810  [shntool]  14_Halo on Fire.flac
+027d7ef5a52a86a807e021c7aac9768b  [shntool]  15_James Speaks #3.flac
+02f5228fef176ce1c9be41d41ec9427e  [shntool]  16_Rob and Kirk Guitar and Bass Solo.flac
+7f7f090214e8306d73f8300dea9537d8  [shntool]  17_Bass Solo.flac
+9433a37205f9685d408aae32ef02cf11  [shntool]  18_Breadfan.flac
+f45d9b08efd9028d9afc2e16aa1f20ba  [shntool]  19_The Memory Remains.flac
+78afffd603cc9c82ba009765955e4c15  [shntool]  20_Moth Into Flame.flac
+d41de37cefda4a66ae38a1afb00a8368  [shntool]  21_James Speaks #4.flac
+3d060d8fb96ed533494c98491917b578  [shntool]  22_Sad But True.flac
+b8856a09f6daa195ebb116db23a5a084  [shntool]  23_One.flac
+d587e35fa639111cabbec1925152ace7  [shntool]  24_Master of Puppets.flac
+eb6ea3c71e07451d913fbaa673bd8bb5  [shntool]  25_Encore Break.flac
+b529cba4671b190d93b4fc50da6943bc  [shntool]  26_Spit Out the Bone.flac
+874b2b897b1e073d951971a17d842011  [shntool]  27_Nothing Else Matters.flac
+1f2e5d62ccbf40e02913c574817592de  [shntool]  28_Enter Sandman.flac
+
+No errors occured.
+
+
+Flac Fingerprint File:
+
+01_ACDC Tape.flac:79bb393adce0d220bffe036aa2460ea8
+02_The Ecstasy of Gold Tape.flac:0517779ea539fddda4df41c4b8cf0008
+03_Hardwired.flac:afe90074ceb73f6dfbaec1b9e017d657
+04_Atlas Rise.flac:36ed775b2ddeb2251c90252e9e65fb0f
+05_James Speaks #1.flac:f15cd84a2e178e595f59cd7e8db12f33
+06_Seek and Destroy.flac:82f391503a35d3d81c34727917417020
+07_Through the Never.flac:7959276b225aadbaea280975a5666010
+08_Welcome Home (Sanitarium).flac:6e6767ac7d624c68d967ebb29ce3c809
+09_Now That We're Dead.flac:5acc6e73ef1f84beb9df4466354f2013
+10_James Speaks #2.flac:3f687a4abd5b9b756d0188d5a2e64f00
+11_Confusion.flac:63f742bdee9c98af53f01a167c974259
+12_For Whom the Bell Tolls Intro.flac:a2112bbabf988099094e8a8d4d4a9c56
+13_For Whom the Bell Tolls.flac:c1f29365cab585bec024e098b0c75c6f
+14_Halo on Fire.flac:fec93e0ef6da493f983ab47a59dba810
+15_James Speaks #3.flac:027d7ef5a52a86a807e021c7aac9768b
+16_Rob and Kirk Guitar and Bass Solo.flac:02f5228fef176ce1c9be41d41ec9427e
+17_Bass Solo.flac:7f7f090214e8306d73f8300dea9537d8
+18_Breadfan.flac:9433a37205f9685d408aae32ef02cf11
+19_The Memory Remains.flac:f45d9b08efd9028d9afc2e16aa1f20ba
+20_Moth Into Flame.flac:78afffd603cc9c82ba009765955e4c15
+21_James Speaks #4.flac:d41de37cefda4a66ae38a1afb00a8368
+22_Sad But True.flac:3d060d8fb96ed533494c98491917b578
+23_One.flac:b8856a09f6daa195ebb116db23a5a084
+24_Master of Puppets.flac:d587e35fa639111cabbec1925152ace7
+25_Encore Break.flac:eb6ea3c71e07451d913fbaa673bd8bb5
+26_Spit Out the Bone.flac:b529cba4671b190d93b4fc50da6943bc
+27_Nothing Else Matters.flac:874b2b897b1e073d951971a17d842011
+28_Enter Sandman.flac:1f2e5d62ccbf40e02913c574817592de
+
+No errors occured.
+

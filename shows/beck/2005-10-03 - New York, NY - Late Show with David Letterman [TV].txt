@@ -1,0 +1,17 @@
+Beck
+October 3 2005
+New York City, NY
+Late Show with David Letterman
+
+Source: CBS Broadcast > Sci Atl Explorer 8300 DVR > 
+Gen:    Sci Atl 8300 DVR Audio Out 1 > SB Aud Plat EX Line In > Sony SF 7.0a > FLAC Frontend 1.7.1
+
+01) Intro
+02) Black Tambourine
+03) Outro
+
+
+Recorded, FLACed, and Seeded by:
+
+breathmint (breathmint@hotmail.com)
+becktabs hub (dc://becktabs.homeunix.org)

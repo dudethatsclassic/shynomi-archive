@@ -1,0 +1,34 @@
+Beck
+July 30, 2005
+Green Stage - Fuji Rock Festival
+Naeba, Niigata
+Japan
+
+Taper: dwonk (chucky's rig)
+Field: MBHO 648A/KA200N > Apogee Mini-Me > SONY PCM-M1
+Location: DIN DFC 40m back, 1.8m high 
+Transfer: PCM-M1 > VXPocket 440 > SONY SR27K > Wavelab 4c > CDWave 1.94 > FLAC (8)
+
+File Size: 311 MB
+
+(65:11)
+
+01. Black Tambourine
+02. Girl
+03. Beercan
+04. Hotwax > Nicotine and Gravy > Hell Yes
+05. Devil's Haircut 
+06. Nobody's Fault
+07. Earthquake Weather	
+08. New Pollution
+09. Loser
+10. Sexx Laws
+11. Broken Drum
+12. Everybody's Gotta Learn Sometime  > Clap Hands
+13. E-Pro
+
+
+Technical notes:
+
+MBHO KA200N active caps were run on DIN Kwon bar with a Schoeps A20S suspension and covered with AKG 480 stock WS.  The actives on the Kwon bar was rasied to a little higher than shoulder height on a Manfrotto 3372 stand about 10m behind the mixer.  I was located in a traffic zone and there is some phasing from people walking by the mics, oh well..thank gawd the Japanese are generally short!  The PA was really dialed in; despite the distance, the sound is full and rockin'.  No DSP was performed and Wavelab was used only for capturing the PCM WAV stream from the M1 (Core Sound 7pin out cable).
+

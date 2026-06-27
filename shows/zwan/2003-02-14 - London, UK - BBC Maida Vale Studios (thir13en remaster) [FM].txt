@@ -1,0 +1,45 @@
+**Remastered** by thir13en
+
+
+
+Zwan
+2003-02-14
+BBC Maida Vale Studios
+London, UK
+
+
+**Reseed, but different version than last summers seed. It needed a little more attention, and it was worth it.**
+
+This set combined with the Cafe de la Danse show and I start to miss this band. Having the Pumpkins back is better for sure, but these two shows are reminders of the talent assembled and their ability to perform softly dramatic as well as intensly bombastic material with precision and ease. Here's the bombastic set complete with the dark and edgy "Riverview" opener, the best alternate version of Cooper's classic "Eighteen" I've ever heard, and the hair standing scorcher Spilled Milk.
+
+DJ is gone, heads and tails of each song is cleaned up. Strange cut-off beginnings of "Settle Down" and *clinky* start-noise of "Honestly" were fixed.
+Source was a little crunchy from the heavy FM compression, but I still consider it a high-quality listening experience.
+
+
+
+
+01 - Riverview
+02 - Settle Down 
+03 - Honestly 
+04 - I'm Eighteen
+05 - Spilled Milk
+
+
+
+
+PRE-13 SOURCE INFO
+=======================
+
+Broadcast on BBC Radio 1: 2003-02-19
+Taper: David Smith (DBS)
+Editors: David Smith and Sean Bowen
+Source: External Large FM aerial > Radio Card > Gold audio Dubbing Cable > Audigy Line in > Cool Edit Pro
+Editing: Track splits using Wave Repair 4.2a
+FLAC: FM broadcast > HD > Wave Repair 4.2a > FLAC encoder/decoder version 1.0.3
+
+Notes
+This is a rerelease of the recording first distributed.  The original was found to be not split properly.
+Sean discovered this problem and fixed it. I would like to thank Sean for the detection and the fix.
+
+
+EOF

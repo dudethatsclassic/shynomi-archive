@@ -1,0 +1,166 @@
+Miles Davis
+November 6, 1986
+Teatro Campoamor de Oviedo
+Oviedo, Asturias, Spain
+
+Combined from 2 sources; pitch, phase, balance and gain corrected
+
+Tracks 01-08: soundboard-2mic matrix stereo mix > Master cas > dat > cdr
+Tracks 09-13): soundboard stereo mix > Master cas > hi-speed dub cas > cdr 
+
+CD1 [66:42]
+01 One Phone Call / Street Scenes (1:44)
+02 Speak / That's What Happened (10:51)
+03 New Blues (Star People) (6:57)
+04 Perfect Way (4:21)
+05 Human Nature (9:48)
+06 Wrinkle (7:43)
+07 Tutu (12:24)
+08 Splatch (12:50) [nc, end cut]
+
+CD2 [35:56]
+09 Time After Time (9:56)
+10 Full Nelson (4:26)
+11 Carnival Time (10:20) [//]
+12 Burn (4:29)
+13 Maze (6:43)
+
+
+Total time after speed correction: 102:38 minutes
+
+Miles Davis (trumpet, keyboards)
+Bob Berg (tenor and soprano saxophones)
+Garth Webber (electric guitar)
+Robert Irving III (synthesizers)
+Adam Holzman (synthesizers)
+Darryl Jones (electric bass)
+Vincent Wilburn, Jr. (kit drums)
+Steve Thornton (percussion)
+
+Recordings and live mixes by Ron Lorman
+
+ 
+Miles Davis - 1986 European Fall Tour
+
+In 1986, Miles toured extensively in support of Tutu with Bob Berg playing saxes, Robert Irving III and Adam Holzman on synthesizers, Darryl Jones, electric bass guitar, and Miles' nephew, Vincent Wilburn, Jr., on kit drums, and percussionists Steve Thornton and Marilyn Mazur. The departure of percussionist Marilyn Mazur in April made the band an Octet. Mike Stern began the year in the guitar seat but played only the first four concerts. Robben Ford played guitar from April until the end of August. Garth Webber, a student of Ford’s at that time, took over on guitar in September, starting in Rio, and continued with Miles to the end of the European Fall tour. Fresh from a stint with Sting, Darryl Jones re-joined the band for this 1986 European Fall Tour.
+
+For the European fall tour, the band followed a standard set list with a few tunes omitted here and there. For this mid-tour concert held at the historic Teatro Campoamor in the northern Spanish city of Oviedo on November 6th, the set list is the standard one with two possible omissions. "Tomaas", was usually played before the encore, and may have been missed after the fade out of "Carnival Time". "Portia", the usual encore closer was played at the end, but unfortunately went unrecorded.
+
+The Miles Davis performance documented here was part of the "International Jazz Festival de Oviedo", a series of jazz concerts organized by the Municipal Foundation of Culture of the City of Oviedo. At 20:30 hours, on the eve of November 6th, 1986, the stage at Teatro Campoamor is set for Miles Davis.
+
+Miles Davis Soundboard Journal Tapes
+
+The first half of the concert is sourced from soundboard matrix recording, the second half is a soundboard stereo mix transferred from a first generation copy of Miles' journal tapes.
+
+Miles listened to the preceding concerts with a portable Sony cassette player with headphones, and sometimes gave these tapes to his band members. However, according to Ron Lorman, Miles' live sound engineer, most of the soundboard cassettes were recycled -- recorded over on a subsequent night of the tour. These ‘journals’ were recorded on low-noise compact cassettes such as TDK-D and Sony HF and C-60 cassettes were most often used. Ron Lorman normally used 2 cassette decks, so often these chopped up journal tapes and subsequent copies have overlaps, parts missing, or the sides are copied out of order. The tapes were recycled without being erased, so sometimes there are parts of a recorded-over concert at the end of a side (as the editors found at the end of the first part of the soundboard cassette source of Oviedo). In many cases the surviving journal tapes have been copied onto 90-minute (45-minute/side) tapes for one or more generations, and were dubbed by band members at high-speed before the masters were returned for recycling.
+
+Ron Lorman's Matrix Recording Experiments
+
+In 1986, live sound engineer Ron Lorman began experimenting with a pair of Beyer Dynamic microphones with the intention of making some matrix recordings of at least some of Miles' concerts. He typically placed the microphones on two separate poles, one on each side of the mixing desk, and recorded onto cassettes in A/B stereo mixing mode. At the first concerts of 1986 in Boston he recorded the two stereo streams, the 2 Beyer microphones and the soundboard stereo mix, on two separate cassette decks. In June, Lorman added a four-channel mixer, and began making soundboard-microphone matrix recordings, mixing in the microphones at low rates, typically 15 to 20%, with an appropriate time-delay (to compensate for the distance between the microphones and the PA stacks). In addition to these experiments, Lorman always made Miles a set of soundboard stereo mix cassettes of each concert using two modest cassette decks.
+
+Teatro Campoamor
+
+Construction of Teatro Campoamor de Oviedo began in 1876 on land previously occupied by the convent of Santa Clara. The theatre was to help Oviedo attract elite operatic, theatrical and musical performers, teachers and students. After many delays and design changes, the theatre finally opened in 1892. Throughout history, the theatre has undergone many renovations and redesigns: In 1916 restructuring the interior provided a greater capacity for the ever-popular theatre. In the revolution of 1934 and the subsequent Spanish Civil War, the theatre was reduced to rubble, with only part of the facade left standing. After WWII, the residents of Oviedo began rebuilding their beloved theatre, using as many original stones as could be found, and the doors were re-opened to expectant and jubilant audiences in September of 1948. More on Teatro Campoamor can be found at the Teatro's official website:
+ http://www.teatrocampoamor.es/teatro.php?v=teatro&vv=imagenes&idioma=es
+
+Acknowledgements
+
+Thanks to all involved in this audio restoration project. A debt of gratitude is owed George Cole and Jan Lohmann for contributions of sources and information. Research, source preparation and production were handled by plaz, pitch correction and patching were expertly performed by flambay, the variably shifting phase offset was corrected by TomP, and Eric Thiessen created the artwork. Thanks also to reviewers Professor Goody and flambay.
+
+ 
+Recording Source and Editing Information
+
+Source A: soundboard + 2 microphone matrix > cassette
+Lineage: sbd/2-mic matrix > Master cassette > cassette > dat > cdr
+
+1 One Phone Call / Street Scenes 1:51
+2 Speak / That's What Happened 11:05
+3 New Blues (Star People) 7:06
+4 Perfect Way 4:27
+5 Human Nature 10:02 [// tape stop/start during applause]
+6 Wrinkle 7:48
+7 Tutu 12:41 [// tape stop/start during applause]
+8 Splatch 13:09
+
+add. editing (plaz):
+- fixed SBEs
+- repaired clicks and pops
+- normalized gain and retracked
+
+---------------------------------
+Source B: soundboard journal cassette recording 
+Lineage: sbd > Master cassette > high-speed dub cassette > cdr > flac
+
+01 One Phone Call / Street Scenes 1:47
+02 Speak / That's What Happened 11:05
+03 New Blues (Star People) 7:06
+04 Perfect Way 4:27
+05 Human Nature 10:03
+06 Wrinkle 7:45 [// tf during applause]
+07 Tutu 12:40
+08 Splatch 13:08
+09 Time After Time^ 4:46 [nc, end cut] [// tf]
+10 Time After Time 9:58 [with repeated segment from end of Splatch]
+11 Full Nelson 4:26
+12 Carnival Time 10:20 [fade out and cut] [// tf]
+13 Burn 4:27
+14 Maze 6:41
+
+add. editing (plaz):
+- fixed SBEs
+- repaired clicks, pops and drops out
+- edited tape flips [// tf]
+- gain normalized and retracked
+
+^ There are only 13 tracks: Tracks 9+10 are the same tune, but track 9 is a recorded over segment from another, unidentified Miles concert probably an earlier date on the same tour. The gain of t09 (1st TAT) is 9 dB below the rest of the recording on the source cassette. The unknown version of TAT is not included in the 1st working version.
+
+---------------------------------
+Source A+B combo:
+
+Speed-corrected and patched by flambay
+- speed corrections: Tracks 1-8 +40cts; track 9 +30cts; tracks 10-12 no change; tracks 11-14 -10cts
+- patched end of track 08 (source A) with source B material
+
+CD1 Source A (matrix)
+01 One Phone Call / Street Scenes 1:44
+02 Speak / That's What Happened 10:50
+03 New Blues (Star People) 6:57
+04 Perfect Way 4:21
+05 Human Nature 9:48
+06 Wrinkle 7:37
+07 Tutu 12:23
+08 Splatch 12:51 °°° switch to B source at 12:50
+
+CD2 Source B (sbd)
+09 Time After Time 9:56
+10 Full Nelson 4:26
+11 Carnival Time 10:20 [fades out]
+12 Burn 4:29
+13 Maze 6:43
+
+---------
+Additional Pre-Master Editing:
+
+Part 1, Tracks 1 – 8
+
+add. editing (TomP)
+- phase corrections for first 2 tracks (refer to “Oviedo 1986 Phase Issues” on the following 2 pages); there is still some phase wandering here and there in traxks 3-8
+- reduced broadband noise very slightly
+- very slight EQ to enhance faded top end
+
+add. editing (plaz):
+- inverted right-channel phase orientation (correction)
+- cleaned up a few transition points
+- gain-corrected the opening 6.3 seconds to compensate for source level change
+- enhanced a small band of frequencies around the Nyquist threshold by 1 dB (for clarity; to eliminate the haziness caused by the digitization and dithering errors of the original A/D conversion)
+- lightly declicked and decrackled
+- minor gain and balance corrections for opening 58s
+- eliminated DC offsets in all files
+
+Additional Editing: Part 2, Tracks 9 – 13
+
+TomP
+- gain and phase corrections (hi-speed dub wobble correction)
+
+plaz - source B, part 2
+- eliminated DC offsets in all files

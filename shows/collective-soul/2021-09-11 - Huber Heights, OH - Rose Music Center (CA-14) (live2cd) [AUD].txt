@@ -1,0 +1,47 @@
+Collective Soul
+September 11th, 2021.
+Rose Music Center - Huber Heights, OH.
+
+Taper:      Charles Dewey Cole, IV <live2cd@hotmail.com>
+Location:   section 101, row D, seat 3; mics mounted on baseball hat brim.
+            (see chart here: http://www.ticketmaster.com/seatingchart/181010/61483) 
+Source:     CA-14 Cardioids > CA-9200 > Sony PCM-A10 (24 bit @48kHz) >  
+            Adobe Audition 3.0 (dithered to 16 bit @44.1kHz) > Cd Wave > FLAC
+Conversion: Charles Dewey Cole, IV <live2cd@hotmail.com>
+Equipment:  Sony PCM-A10 > (USB) @ 48kHz > 44.1kHz > Cd Wave
+
+---------------------------------------------------------------------------------------------------------
+Total Time: (1:24:37)
+
+01. Who Loves					4:16
+02. Precious Declaration			3:56
+03. December 					8:14
+04. Heavy					3:16
+05. Why Pt. 2					4:07
+06. Shine 					10:57
+07. Better Now 					10:27
+08. The World I Know 				5:07
+09. Right As Rain				5:06
+10. The One I Love *				3:41
+11. Over Me					4:11
+12. Gel						3:39
+13. Where The River Flows			8:33
+14. Run						9:06
+
+----------------------------------------------------------------------------------------------------------
+Notes:
+
+* =  Originally Recorded By R.E.M.
+
+Collective Soul headlined the "Just Looking Around 2021" tour. Opening
+were Better Than Ezra and Tonic. The set is pretty standard, but it did
+feature a brand new song, "Who Loves" - which opened the set. The sound
+was better than the previous couple times the band has played the Rose.
+I did reduce the bass a touch in post and removed some claps and screams
+when needed in iZotope RX7. Hopefully these guys release some more new
+stuff in 2022 and beyond!
+
+---------------------------------------------------------------------------------------------------------
+For more information on Collective Soul, please visit:
+
+http://www.collectivesoul.com/

@@ -1,0 +1,54 @@
+FAITH NO MORE
+August 31, 1990
+Festival
+Libourne, France
+
+DISC #1/1 (62:26)
+-----------------
+01) From Out Of Nowhere
+02) Introduce Yourself 
+03) The Real Thing / Underwater Love 
+04) Zombie Eaters 
+05) Edge Of The World
+06) Chinese Arithmetic
+07) We Care A Lot 
+08) Sweet Dreams / Surprise Youre dead
+09) Epic
+10) Woodpecker From Mars 
+11) Easy
+
+GENERATION
+-----------------
+PreFM -> DAT(M) -> ANA(1) -> WAV [44.1kHz] -> FLAC [Level 8]
+
+SOURCE (SBD#1)
+-----------------
+soundboard -> unknown
+
+TRANSFER
+-----------------
+SB live -> Adobe audition -> FLAC frontend 1.7.1
+
+NOTES
+-----------------
+- Acquisition and Denoising Editing done with Adobe Audition.
+- The show was a complete independant mix recording with the mobile studio of RFBG.
+
+MD5 FINGERPRINTS
+-----------------
+9499ec060db69a87acd0f47072002096 *FNM_1990-08-31_SBD1_01.flac
+fcce77caa40a80d698990a9781d218a5 *FNM_1990-08-31_SBD1_02.flac
+ffbe84f7eb5e1158c5642b1e8209d5e9 *FNM_1990-08-31_SBD1_03.flac
+441c9cbec0cde91686315b93cbfc4461 *FNM_1990-08-31_SBD1_04.flac
+917ec67bc0efd38670f58d2e3235f4a7 *FNM_1990-08-31_SBD1_05.flac
+7dde3afbf281aad077c301c1b6f31261 *FNM_1990-08-31_SBD1_06.flac
+9419dafa7e773664578594a86ca1ed16 *FNM_1990-08-31_SBD1_07.flac
+94c0faf297ed462050b9dc3dd553db35 *FNM_1990-08-31_SBD1_08.flac
+c8d5ffa5cc151a3b09fcc5f39d943ca6 *FNM_1990-08-31_SBD1_09.flac
+c82de91154ae95b7e3bbb18dd5ce3470 *FNM_1990-08-31_SBD1_10.flac
+f24b1b1999549846447aeaf249bb1da6 *FNM_1990-08-31_SBD1_11.flac
+
+
+Original Torrented by Lolive.
+Transferred by 'Unknown'.
+PLEASE DO NOT ENCODE TO MP3 OR SELL!

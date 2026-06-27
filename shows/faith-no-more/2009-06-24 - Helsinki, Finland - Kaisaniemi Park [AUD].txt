@@ -1,0 +1,49 @@
+Band: Faith No More
+Title: Hellstinky
+Date: June 24th 2009
+City: Helsinki, Finland
+Venue: Kaisaniemi Park
+
+Taper: Borlag
+Lineage: Church Audio STC-11 > ST-9100 > Edirol R-09 (24Bit/48KHz) > USB 2.0 > WAV > mastering > R8Brain (dithering & downsampling to 16/44.1) > CDwave (tracking) > TLH > FLAC lvl6
+
+Disc 1:
+01 - Reunited
+02 - From Out Of Nowhere 
+03 - Land Of Sunshine 
+04 - Caffeine 
+05 - Evidence (Spanish version)
+06 - Poker Face / Chinese Arithmetic
+07 - Surprise! You're Dead! 
+08 - Last Cup Of Sorrow 
+09 - Cuckoo For Caca 
+10 - Easy
+11 - Ashes To Ashes 
+12 - Midlife Crisis
+
+Disc 2:
+01 - Introduce Yourself
+02 - King For A Day 
+03 - The Gentle Art Of Making Enemies 
+04 - Be Aggressive 
+05 - Epic 
+06 - Just A Man 
+07 – crowd
+08 - Chariots Of Fire
+09 - Stripsearch 
+10 - Digging The Grave 
+11 – crowd & Patton's Hellstinky speech
+12 - I Started A Joke 
+13 - We Care A Lot 
+
+
+	Show notes:
+A sold out show of the FNM Reunion tour of 2009. Supporting acts were Waltari and CMX, neither of which I taped this time. The venue had a curfew at 10PM and apparently FNM had some sort of delay which pushed the starting time of the show to 8:30PM. Needless to say, the show was cut slightly short.
+
+	Recording notes:
+Taped about 30-40 meters from the stage, between the board and left side PA's. Tried to get more towards the center, especially after noticing that I was surrounded by 3 insanely loud clappers. Due to the insanely large crowd the place was so packed that moving was extremely difficult so I had to stay put. Apparently the lil old ladies living in the surrounding area caused the venue to have a hard rule of 75dB, so the gig was extremely quiet as well, giving even more emphasis to the loud clappers. Luckily (in terms of the recording that is), there were very few fans singing along.
+
+	Mastering details:
+Rather drastic means were taken in the form of hard limiting to dampen the clapping to more tolerable levels. Without lying, when looking at the original waveform and having the music at around -20dB at best and the clapping at -6dB at best, I seriously thought that I had a equipment malfunction and that it's full of crackling and pops, luckily it wasn't so. Despite the clappers, it's still a very enjoyable recording and I'm quite happy with the outcome myself. Other than the abovementioned hard limit and lifting the overall volume levels up, there's no equalization applied. 
+
+- Borlag on June 25th 2009

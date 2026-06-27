@@ -1,0 +1,41 @@
+Bon Iver
+Glastonbury
+Shepton Mallet, UK
+June 27, 2009
+
+Taper: stephen
+Lineage: DPA4060 > MPS6030 > JB3 > WAV (16/44.1)
+Location: DFC, 20m from stage, mics clipped to collar
+Transfer: USB > WAV > Audition 1.5 (dynamics processing) > WAV > flac
+1.2.1 (cygwin: "flac -V -8 *.wav")
+
+----------------------------------------------------------------------
+
+Please do not distribute via bittorrent or usenet.
+
+Please do not convert into mp3 or other lossy formats.
+
+Please do not sell this recording.
+
+Please do pass along the source info (this file) if you trade this
+show.
+
+----------------------------------------------------------------------
+
+Bon Iver headlined the park stage today.
+
+
+01  intro                        0:47
+02  Flume                        4:58
+03  Lump sum                     4:31
+04  Creature fear                6:55
+05  Beach baby                   3:11
+06  Skinny love                  5:23
+07  (wisconsin)                  3:55
+08  Blood bank                   7:07
+09  Re: stacks                   7:38
+10  Babies                       6:15
+11  wolves intro                 1:29
+12  The wolves (act I and II)    6:59
+13  For Emma                     5:12
+                        [Total: 64:20]

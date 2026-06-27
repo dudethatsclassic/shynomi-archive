@@ -1,0 +1,63 @@
+Zwan
+February 17th 2003
+Docks
+Hamburg, DE
+
+SOURCE (AUD#2)
+DAB > attenuator(-20) > DA-120F > Sony MZ-R900
+
+TRANSFER:
+Sony MDS-JE640 > Terratec Sixpack > Soundforge 6.0 (volume boost, freefilter, fade-ins/outs; track-splitting in waverepair) > FLAC
+
+GENERATION:
+MD(M) > FLAC
+
+LENGTH:
+92:39
+
+SETLIST:
+01. Lyric
+02. Declarations of Faith
+03. El Sol
+04. Jesus, I [Lyte] > God's Gonna Set This World on Fire
+05. Desire
+06. Endless Summer
+07. Love Lies in Ruin
+08. Settle Down
+09. Honestly
+10. Of a Broken Heart
+11. Friends as Lovers, Loves as Friends
+12. Mary Star of the Sea
+
+ENCORE:
+13. Riverview > Danke Schoen [Schwabach/Gabler/Kaempfert] (tease)
+14. Spilled Milk
+
+NOTES:
+Thanks to traveller03 for sending over
+Recorded 8m from right stack
+14:45-14:50 - static from mic connection problems during Mary Star of the Sea
+
+MD5 FINGERPRINTS:
+b3bde15e66e01d6d8983b19173418efb *Zwan 2003-02-17 AUD2 t01 Lyric.flac
+ef2b64c81c81b8c37823f25d4d7f3a79 *Zwan 2003-02-17 AUD2 t02 Declarations of Faith.flac
+fcb4b14c24564e86f888c62fe60b832d *Zwan 2003-02-17 AUD2 t03 El Sol.flac
+5542740bb240a32dc9a61e9ef5b0fd03 *Zwan 2003-02-17 AUD2 t04 Jesus, I [Lyte] - God's Gonna Set This World on Fire.flac
+24ee5b920bf66f4daa66aa528cd2f2e7 *Zwan 2003-02-17 AUD2 t05 Desire.flac
+f2337f371931431ac47939517a25edbe *Zwan 2003-02-17 AUD2 t06 Endless Summer.flac
+c16f64bbdafd8a0fcf8780b857ccea7d *Zwan 2003-02-17 AUD2 t07 Love Lies in Ruin.flac
+00e8a39682842b1d9a2a8f8a6cdacab1 *Zwan 2003-02-17 AUD2 t08 Settle Down.flac
+c0d00f9f01c94159923d7f16b63bb3a8 *Zwan 2003-02-17 AUD2 t09 Honestly.flac
+43503f81545ba996481c05f18c76599f *Zwan 2003-02-17 AUD2 t10 (band introductions).flac
+827504bc01aa791b1aca3875fbb8bee9 *Zwan 2003-02-17 AUD2 t11 Of a Broken Heart.flac
+7380c3bf4d9a2646022487087ccf6dd0 *Zwan 2003-02-17 AUD2 t12 Friends as Lovers, Lovers as Friends.flac
+8cad59acda0853171dc002816f20272b *Zwan 2003-02-17 AUD2 t13 Mary Star of the Sea.flac
+ebc29c70c6844c4168858db1ec79340c *Zwan 2003-02-17 AUD2 t14 Riverview.flac
+a010170daa0cd24519f878179422c087 *Zwan 2003-02-17 AUD2 t15 Spilled Milk.flac
+
+RECORDED BY:
+Severin Luftensteiner
+
+DISTRIBUTION:
+Spaldz, Nicholas Serra & Members of SPLRA
+2026-03-03

@@ -1,0 +1,39 @@
+Metallica
+ Venue:	@New York State Fair Grandstand : Syracuse, NY
+ Date:	June 5, 1994
+ Time:	130:17
+ Size:	2 CDs
+ Sound:	AUD
+ Notes:	 
+
+Disc 1:
+The Ecstasy Of Gold
+Breadfan
+Master Of Puppets
+Wherever I May Roam
+Harvester Of Sorrow
+Welcome Home (Sanitarium)
+The God That Failed
+Kill / Ride Medley
+For Whom The Bell Tolls
+Disposable Heroes
+Seek & Destroy
+Kirk Solo
+Nothing Else Matters
+
+Disc 2:	
+Creeping Death
+Fade To Black
+Whiplash
+Jam
+Sad But True
+One Intro
+One
+Enter Sandman
+So What!
+
+-----------------------------
+
+*Additional Notes, Added January 9, 2017 by JITF
+
+The tracks were encoded in Monkey's Audio (APE 3.99). Decoded back to WAV using Trader's Little Helper, then converted to current FLAC format (1.3.2 20170101) at Level 8 with EZ CD Audio Converter. The files went from 604.4 MB to 645.6 MB.

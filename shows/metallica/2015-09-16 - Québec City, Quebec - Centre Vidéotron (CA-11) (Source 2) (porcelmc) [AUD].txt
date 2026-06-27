@@ -1,0 +1,79 @@
+Metallica
+September 16, 2015
+Quebec City, Canada
+Centre Videotron
+
+Lineage: CA-11>CA-9100>Edirol R-09>PC>Adobe Audition>CDWAVE>FLAC
+Taped by: Porcelmc 
+
+
+_____________________________________________________________
+
+Setlist - Metallica
+
+01. AC/DC Tape
+02. Ecstacy of Gold
+03. Creeping Death
+04. Master of Puppets
+05. Battery
+06. James Speaks #1
+07. Harvester of Sorrow
+08. Ride the Lightning
+09. Kirk Solo #1
+10. The Unforgiven II
+11. James Speaks #2
+12. St Anger
+13. Wherever I may Roam
+14. James Speaks #3
+15. Sad But True
+16. Bass Solo
+17. Welcome Home (Sanatarium)
+18. The Frayed Ends of Sanity
+19. One
+20. For Whom the Bell Tolls
+21. Kirk Solo #2
+22. Fade to Black
+23. James Speaks #4
+24. Seek and Destroy
+25. Encore Break
+26. Turn the Page
+27. Nothing Else Matters
+28. Enter Sandman
+
+_____________________________________________________________
+
+Notes:
+
+I recorded both Quebec City shows and my rig suffered from various hardware problems forcing me to retire the rig after this gig. The main problem was the connections that would not hold resulting in only my left side mic being active during this recording. After trying to get things right during the AC/DC intro, I just gave up. I knew then that the best route would be to convert this show to MONO in order to normalize it. In the end, I'm happy with this recording. I think it came out really well under the conditions. I taped in the corner of the lower bowl arena.
+
+I think you guys are going to like it!!!! The setlist was fun and the crowd was amazing at this gig.
+
+Cheers!
+
+
+Sample: https://www.youtube.com/watch?v=s7bIYgcr34s
+
+
+Notes provided via LiveMetallica.com
+------------------------------------
+This was the first time that any band has performed at the Centre Videotron in Quebec City.
+
+This was the first time that “Creeping Death” opened a show since the June 28, 2014 show at Glastonbury.
+
+This was the first time that “Harvester of Sorrow” was performed in 2015. It was also the first time that Harvie was played in Quebec since 2004.
+
+This was the first time that “The Unforgiven II” was performed at a full gig in North America.
+
+This was the first time in over a year that “St. Anger” was played. It was also the first time that it was played in North America since 2004.
+
+This was the first time in over 10 years that “Wherever I May Roam” was played in Quebec. It was last played here on October 14, 2004.
+
+This was the first North American performance of “The Frayed Ends of Sanity.”
+
+The band performed 18 songs off of eight albums: Kill 'Em All (1), Ride the Lightning (4), Master of Puppets (3), ...And Justice for All (3), Metallica (4), Reload (1), Garage Inc. (1) and St. Anger (1)
+
+-----------------------------
+
+*Additional Notes, Added May 5, 2017 by JITF
+
+I fixed the Sector Boundary Errors (SBEs). The tracks were encoded in an older FLAC version (1.2.1 20070917). Decoded back to WAV using Trader's Little Helper, then converted to current FLAC format (1.3.2 20170101) at Level 8 with EZ CD Audio Converter. The files went from 846.6 MB to 837.2 MB.

@@ -1,0 +1,79 @@
+A PERFECT CIRCLE
+Wednesday June 29, 2011
+Arlene Schnitzer Concert Hall
+Portland, Oregon, USA
+
+SOURCE:  (SHAMIL11)
+Tascam DR-100 (w/internal mics) -> PNY 8GB SD Card @ 24bit/48kHz
+
+TRANSFER:
+PNY 8GB SD Card -> Adobe Audition 3.0 -> CD Wave 1.95.1 -> Trader's Little Helper 2.0.1
+
+GENERATION:
+WAV(M) [24bit/48kHz] -> FLAC [Level 8]
+
+SETLIST:  [01:30:45]
+Intro -> Annihilation
+Imagine
+Weak and Powerless
+The Hollow
+What's Going On
+People Are People
+The Outsider
+Apologia del Santo Selfabusius
+Peace, Love and Understanding
+When the Levee Breaks
+The Noose
+3 Libras (remix version)
+Gravity
+Gimmie, Gimmie, Gimmie
+Orestes
+Passive
+Counting Bodies Like Sheep
+encore break & band intros
+Fiddle and the Drum
+By and Down
+
+BAND MEMBERS:
+Maynard James Keenan - lead vocals
+Billy Howerdel - vocals, electric guitar, acoustic guitar, keyboards
+James Iha - vocals, lead guitar, keyboards
+Matt McJunkins - bass guitar, keyboards
+Jeff Friedl - percussion, computer effects
+
+NOTES:
+Difficult taping conditions; invasive security at every possible stage of the experience. Few
+cameras made it in, people with cell phones were politely treated as nothing less than potential
+assassins carrying a contagious disease. The Schnitzer hall rarely has a rock show; the staff are
+more used to receiving fans of Al Gore, Steely Dan, or Seinfeld. Aggressively invasive, on APC's
+orders, yet polite. Surreal. Seattle had all of that, minus any notion of politeness.
+
+Strange opening act (not taped); Japanese screamo called Red Bacteria Vacuum. Your humble narrator
+might've preferred Ashes Divide to open the set, most of the band was there for the show already..
+
+'Apologia' is not a new song:--Billy's guitar cut out at the start of The Outsider, this threw
+him & Maynard off and they missed the first verse. Jeff, Matt, and the crafty zygote didn't miss
+a beat, and Maynard/Howerdel recovered by the next verse; Maynard just mocked himself before
+anybody else got a chance to.
+
+FLAC FINGERPRINTS:
+apc2011-06-29_t01.flac:362780feae105a9ddb5e2016e3589239
+apc2011-06-29_t02.flac:09b25fe95cb6ef08d7feb5b9ee768974
+apc2011-06-29_t03.flac:a844c2e49e9f687e5c00a2ded8947d64
+apc2011-06-29_t04.flac:bb6e9a3e6488a6729e603b2bdfedcef0
+apc2011-06-29_t05.flac:f2e55f384b13afe18d07926525b6a0b8
+apc2011-06-29_t06.flac:746f8a07868dbf7f192a4d325ded3be3
+apc2011-06-29_t07.flac:a9db4860e434c76f0b9ab822721c3d17
+apc2011-06-29_t08.flac:c7b058f314c4e764e0e7d7d482be43cb
+apc2011-06-29_t09.flac:88cbb1d5faec131d08fe2fd67edc4e64
+apc2011-06-29_t10.flac:dd7c6320266b47b51c81892c9d4a0307
+apc2011-06-29_t11.flac:a68d57ef08bd70341d90d0853914ebb1
+apc2011-06-29_t12.flac:b0c58b46510b513e1bab46ea04720d49
+apc2011-06-29_t13.flac:8c446760c5d7fb071525d47079745fa1
+apc2011-06-29_t14.flac:07b78314c2c0dda4ab1f627848295027
+apc2011-06-29_t15.flac:f6a8e90a4202fb99d3985339af639877
+apc2011-06-29_t16.flac:2480fa174b048283889a4eaa220366a1
+apc2011-06-29_t17.flac:37f4a3bd5bcc4bc6bf3be91103ddf95e
+apc2011-06-29_t18.flac:834dee2dafa5d937700eabc021b1f1ff
+apc2011-06-29_t19.flac:e5dc144eb3613fdf120aba38e5d26ee7
+apc2011-06-29_t20.flac:5508924b8c189ed6b58de54df88a705b

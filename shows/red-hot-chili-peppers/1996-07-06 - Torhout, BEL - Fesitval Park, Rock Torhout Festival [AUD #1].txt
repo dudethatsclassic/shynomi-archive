@@ -1,0 +1,61 @@
+Red Hot Chili Peppers
+
+July 6, 1996 - Rock Torhout Festival, Torhout, Belgium
+
+
+01. Give It Away
+02. Suck My Kiss
+03. Waiting Room
+04. Walkabout
+05. Blood Sugar Sex Magik
+06. Pea
+07. Coffee Shop
+08. Heroin
+09. Unknown song > One Big Mob
+10. Aeroplane
+11. Under The Bridge
+12. Higher Ground
+13. crowd noise
+14. Police Helicopter
+
+LEN : 57:26
+GEN : DAT > CD-R > FLAC
+
+rhcp1996-07-06t01.wav:  successfully encoded to 'rhcp1996-07-06t01.flac'
+rhcp1996-07-06t02.wav:  successfully encoded to 'rhcp1996-07-06t02.flac'
+rhcp1996-07-06t03.wav:  successfully encoded to 'rhcp1996-07-06t03.flac'
+rhcp1996-07-06t04.wav:  successfully encoded to 'rhcp1996-07-06t04.flac'
+rhcp1996-07-06t05.wav:  successfully encoded to 'rhcp1996-07-06t05.flac'
+rhcp1996-07-06t06.wav:  successfully encoded to 'rhcp1996-07-06t06.flac'
+rhcp1996-07-06t07.wav:  successfully encoded to 'rhcp1996-07-06t07.flac'
+rhcp1996-07-06t08.wav:  successfully encoded to 'rhcp1996-07-06t08.flac'
+rhcp1996-07-06t09.wav:  successfully encoded to 'rhcp1996-07-06t09.flac'
+rhcp1996-07-06t10.wav:  successfully encoded to 'rhcp1996-07-06t10.flac'
+rhcp1996-07-06t11.wav:  successfully encoded to 'rhcp1996-07-06t11.flac'
+rhcp1996-07-06t12.wav:  successfully encoded to 'rhcp1996-07-06t12.flac'
+rhcp1996-07-06t13.wav:  successfully encoded to 'rhcp1996-07-06t13.flac'
+rhcp1996-07-06t14.wav:  successfully encoded to 'rhcp1996-07-06t14.flac'
+rhcp1996-07-06t15.wav:  successfully encoded to 'rhcp1996-07-06t15.flac'
+
+No errors occured.
+
+
+rhcp1996-07-06t01.flac:d212c10df2a2b1a2de21660ba0f9a478
+rhcp1996-07-06t02.flac:059f0642126eefaee274731c49011069
+rhcp1996-07-06t03.flac:a0f5f4d55d9b9f015249d41e5c745852
+rhcp1996-07-06t04.flac:63699dd52817c818e4589fde9407981c
+rhcp1996-07-06t05.flac:508ee875964bcf10ef2fed2b5e139c77
+rhcp1996-07-06t06.flac:454f506a1e4bd18d53b064ebb289e765
+rhcp1996-07-06t07.flac:408be0ec3c10441a314fd7d5cc8aefde
+rhcp1996-07-06t08.flac:35a8a1cc882ca8e97771df9150bd92b9
+rhcp1996-07-06t09.flac:f312423c4062332396066bf6142346e8
+rhcp1996-07-06t10.flac:7baf954b98e70ca43a47178ebe5e58f8
+rhcp1996-07-06t11.flac:4e670e980230778a9221590c1e678b5a
+rhcp1996-07-06t12.flac:e3fade00352b792c8bfd8068e3bd861b
+rhcp1996-07-06t13.flac:cfd637abf7ae6e69fcc154d4e9b28e10
+rhcp1996-07-06t14.flac:475d6ba43c1fc8f2e8a53b010d39a3ed
+rhcp1996-07-06t15.flac:fe038c0eb4844c5b8dcf869eeb82760f
+
+No errors occured.
+
+Checksum file saved to disk.

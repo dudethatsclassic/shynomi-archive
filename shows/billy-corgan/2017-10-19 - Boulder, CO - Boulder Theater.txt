@@ -1,0 +1,114 @@
+Billy Corgan
+October 29th 2017
+Boulder Theater
+Boulder, CO, US
+
+SOURCE (AUD#1):
+Set 1: CA-14 Cards > Zoom H1 
+Set 2: Internal Mics > Zoom H1
+
+TRANSFER:
+Zoom H1 > WAV > FLAC
+
+GENERATION:
+WAV(M) > FLAC
+
+LENGTH:
+116:13
+
+SET ONE: 
+01. Zowie
+02. Processional
+03. The Spaniards
+04. Aeronaut
+05. The Long Goodbye
+06. Half-Life of an Autodidact
+07. Amarinthe
+08. Antietam
+09. Mandarynne
+10. Shiloh
+11. Archer
+12. If I Were a Carpenter [Tim Hardin]
+
+SET TWO:
+13. Starla
+14. Pale Horse
+15. Muzzle
+16. Of a Broken Heart [Zwan]
+17. Landslide [Fleetwood Mac]
+18. Annie-Dog
+19. You Were Mine
+20. Soma
+21. Wish You Were Here [Pink Floyd]
+22. Drum + Fife
+23. Winterlong
+24. Gossamer
+25. Stand Inside Your Love
+26. Tonight, Tonight
+27. (encore break)
+
+ENCORE: 
+28. Spaceboy
+29. Age of Innocence
+30. Farewell and Goodnight
+
+TAPER NOTES:
+This show brought me out of my nearly 20 year "retirement" from taping shows, so I had bought some new equipment to doing so.
+
+In my rookie state of mind, I forgot to bring along my battery pack for my Church Audio 14's until I was nearly at the venue, and living a few hours away made it impossible to go back and retrieve it. I was stuck to two options, 1, use the built in mics, typically never a good option, or 2, increase the recording levels astronomically within the recorder. (also, not ideal)
+
+I tried option 2 for the 1st set of the show, but being paranoid, that setting the levels so high, would've brought out a lot of hiss in the recording, so on the 2nd set, I just used the built in mics. 
+
+Surprisingly enough, both sets came out better than expected.
+(sorry for the recorder fidgeting for the 1st :35 of Starla!)
+
+I used Cool edit for fade in/out, as well applied a 4-6db volume cut in between songs to bring down the ridiculous loud clapping and cheering. 
+
+SHOW NOTES:
+Tear was played during the 75 minutes + (!) soundcheck/rehearsal, but not played in show.
+
+After Muzzle, there are loud cheers and then sounds of disappointment, and back to cheers. This is from William taking off the hat he'd been wearing all show long, and putting it back on, and taking it off again.
+
+Shortly afterwards you hear, "What flavor do you have tonight?" from the audience. This is in reference to Billy using a throat spray between nearly every song, as it was pretty evident that he wasnt feeling well. His response was pretty humorous.
+
+Huge thanks to 2ndtheory for recording and releasing this show
+
+MD5 FINGERPRINTS:
+24edbae5414a3f9bb1752ecec033ebda *Billy Corgan 2017-10-29 AUD1 t01 Zowie.flac
+345037ff7a1f0a402d55906059dcc189 *Billy Corgan 2017-10-29 AUD1 t02 Processional.flac
+22f3dc88dbdfec8b53ed82a62ca98140 *Billy Corgan 2017-10-29 AUD1 t03 The Spaniards.flac
+779d8f42547f0731f54542b6e0eaa287 *Billy Corgan 2017-10-29 AUD1 t04 Aeronaut.flac
+c30cc496367857c60899565e95949f1a *Billy Corgan 2017-10-29 AUD1 t05 The Long Goodbye.flac
+92044bb468ff003b81abe4cc4d61878e *Billy Corgan 2017-10-29 AUD1 t06 Half-Life of an Autodidact.flac
+b6cce641fef912e1ba875e439ce5b02f *Billy Corgan 2017-10-29 AUD1 t07 Amarinthe.flac
+a674847de1f63166f1d061755492b340 *Billy Corgan 2017-10-29 AUD1 t08 Antietam.flac
+b99cda04aa5a2c614ec153ee527cd048 *Billy Corgan 2017-10-29 AUD1 t09 Mandarynne.flac
+c1a87051a9760ac9ebdf856a8d6f3896 *Billy Corgan 2017-10-29 AUD1 t10 Shiloh.flac
+45b58482c1865637defd8778909817fc *Billy Corgan 2017-10-29 AUD1 t11 Archer.flac
+3e4bd5a60026cd2fc8410cce74d57424 *Billy Corgan 2017-10-29 AUD1 t12 If I Were a Carpenter [Tim Hardin].flac
+3671e549d35f1bd428f0e2caa630d5c8 *Billy Corgan 2017-10-29 AUD1 t13 Starla.flac
+4dc29f60100bbf042dbcbda8c9c0ef00 *Billy Corgan 2017-10-29 AUD1 t14 Pale Horse.flac
+9b870a5d763d9cd86928a2510f493e93 *Billy Corgan 2017-10-29 AUD1 t15 Muzzle.flac
+e0dcc76471d7398d8c71b454b66406ac *Billy Corgan 2017-10-29 AUD1 t16 Of a Broken Heart [Zwan].flac
+6294307eeaa0428e9a2a868c6b0efd44 *Billy Corgan 2017-10-29 AUD1 t17 Landslide [Fleetwood Mac].flac
+3d598e301021f66d65c06654a4580059 *Billy Corgan 2017-10-29 AUD1 t18 Annie-Dog.flac
+d2d9a73c8d256bf1773c42332f774b5d *Billy Corgan 2017-10-29 AUD1 t19 You Were Mine.flac
+1465ea9bab1101c549e08f988b01e392 *Billy Corgan 2017-10-29 AUD1 t20 Soma.flac
+458eebc39b1395aaabc56956d7c43f52 *Billy Corgan 2017-10-29 AUD1 t21 Wish You Were Here [Pink Floyd].flac
+3a75836fa3e26c81dbf2fbca9c5394da *Billy Corgan 2017-10-29 AUD1 t22 Drum + Fife.flac
+a20571330826c2e558872dc702e7d04f *Billy Corgan 2017-10-29 AUD1 t23 Winterlong.flac
+38cd69be049936845847af760b71d28c *Billy Corgan 2017-10-29 AUD1 t24 Gossamer.flac
+0f9c8962e43083565746cf0d993b8b90 *Billy Corgan 2017-10-29 AUD1 t25 Stand Inside Your Love.flac
+cc269b4c2619fad99ca958fe54e2c3fe *Billy Corgan 2017-10-29 AUD1 t26 Tonight, Tonight.flac
+e7bd9f4d7345ab79d5d3b78660b069bf *Billy Corgan 2017-10-29 AUD1 t27 (encore break).flac
+d2bf31b329f60b7691a08fba33eff05f *Billy Corgan 2017-10-29 AUD1 t28 Spaceboy.flac
+7a76fba94fe7e2201826d7c4c202b9f8 *Billy Corgan 2017-10-29 AUD1 t29 Age of Innocence.flac
+1c2639b705b716a9fcb50276a3861581 *Billy Corgan 2017-10-29 AUD1 t30 Farewell and Goodnight.flac
+
+RECORDED BY:
+2ndtheory
+
+DISTRIBUTION:
+Spaldz, Nicholas Serra & Members of SPLRA
+2024-12-31
+

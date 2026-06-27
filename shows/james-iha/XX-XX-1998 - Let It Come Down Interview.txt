@@ -1,0 +1,102 @@
+James Iha
+Let It Come Down interview
+1998-xx-xx
+Interview originally conducted by Paul Sexton.
+
+Source: promo only interview cd IVCDHUT 47
+
+Lineage: original cd > EAC (V0.95 beta 4) > wav
+> Flac frontend (1.7.1 Etree edition, level 8, verify) > flac
+
+
+Questions:
+
+01. Intro: "Hello this is James Iha, and we're going to take a minute or two of your time to talk about my new record 'Let It Come Down'".
+
+02. Many people will find this a surprising album.
+
+03. How did you approach making the record?
+
+04. You made the album in your home studio in Chicago.
+
+05. How would you describe the feel of the album?
+
+06. It feels quite romantic.
+
+07. What was the thinking behind the title 'Let It Come Down'?
+
+08. There's a focus on melody on the record.
+
+09. Are you fan of particular singer-songwriters?
+
+10. Do you think songs are making a comeback?
+
+11. Whiskytown's producer, Jim Scott, was your producer on 'Let It Come Down'.
+
+12. Was it very different being the one calling the shots?
+
+13. What's your home studio set-up like?
+
+14. Let's talk about two songs specifically: first 'Jealousy'.
+
+15. How about 'Lover Lover'?
+
+16. The view of love on the record is not only romantic but quite idealistic.
+
+17. What was the first music you got into growing up?
+
+18. Who does the harmony vocals on your album?
+
+19. You had some other friends on there too.
+
+20. What are your live plans?
+
+21. Do you think the album will appeal mainly to Pumpkins fans or a different crowd?
+
+
+Shntool output:
+    length     expanded size   cdr  WAVE problems filename
+     0:14.70        2634284    ---   --   ---xx   ivcdhut47t01.flac
+     1:17.65       13735724    ---   --   ---xx   ivcdhut47t02.flac
+     1:10.05       12359804    ---   --   ---xx   ivcdhut47t03.flac
+     1:53.50       20050844    ---   --   ---xx   ivcdhut47t04.flac
+     0:42.50        7526444    ---   --   ---xx   ivcdhut47t05.flac
+     0:37.72        6696188    ---   --   ---xx   ivcdhut47t06.flac
+     0:46.33        8192060    ---   --   ---xx   ivcdhut47t07.flac
+     0:44.00        7761644    ---   --   ---xx   ivcdhut47t08.flac
+     1:27.22       15398588    ---   --   ---xx   ivcdhut47t09.flac
+     0:30.43        5393180    ---   --   ---xx   ivcdhut47t10.flac
+     0:58.55       10360604    ---   --   ---xx   ivcdhut47t11.flac
+     1:10.02       12352748    ---   --   ---xx   ivcdhut47t12.flac
+     1:31.08       16071260    ---   --   ---xx   ivcdhut47t13.flac
+     1:29.37       15786668    ---   --   ---xx   ivcdhut47t14.flac
+     0:40.30        7126604    ---   --   ---xx   ivcdhut47t15.flac
+     1:18.25       13818044    ---   --   ---xx   ivcdhut47t16.flac
+     1:52.35       19839164    ---   --   ---xx   ivcdhut47t17.flac
+     0:36.45        6456284    ---   --   ---xx   ivcdhut47t18.flac
+     0:59.15       10442924    ---   --   ---xx   ivcdhut47t19.flac
+     0:48.03        8474300    ---   --   ---xx   ivcdhut47t20.flac
+     1:57.25       20697644    ---   --   ---xx   ivcdhut47t21.flac
+    22:47.15      241175004 B                     (totals for 21 files, 0.4012 overall compression ratio)
+
+37cafabd6733b21e9cb4fdbf1d45c5ca  [shntool]  ivcdhut47t01.flac
+5c280c4d87ebc757c9cadc6bf4664eac  [shntool]  ivcdhut47t02.flac
+f9f2328e3c6528ecf1e0938ab55b5e6e  [shntool]  ivcdhut47t03.flac
+c75d43a7a135cac0b232188c0da08572  [shntool]  ivcdhut47t04.flac
+88d512c9f971f08d6f5305f6ce1112a9  [shntool]  ivcdhut47t05.flac
+ae7f9830d1310aa3782006a768a6f7e1  [shntool]  ivcdhut47t06.flac
+baccf5ca65504d177a81307f7caa2659  [shntool]  ivcdhut47t07.flac
+3ba159b4422135b35d8cd23d79fe582c  [shntool]  ivcdhut47t08.flac
+942a089a41a4964d3b9fd57ded47357e  [shntool]  ivcdhut47t09.flac
+350ae1aaff8628180aedf51ea877ae92  [shntool]  ivcdhut47t10.flac
+b2e67fa4752deae39219b65ee2f0d394  [shntool]  ivcdhut47t11.flac
+4602bf1b722ac47db7dee7f834c49c05  [shntool]  ivcdhut47t12.flac
+d110320a6ba609c4896377557e45a837  [shntool]  ivcdhut47t13.flac
+a84825f9500a62f8c96ee72200231465  [shntool]  ivcdhut47t14.flac
+36838af49adea698787153dbc2ba04a6  [shntool]  ivcdhut47t15.flac
+917cf7780386ff9e64bbe36089858fa4  [shntool]  ivcdhut47t16.flac
+29dac29bee105eb56c6880aa56fccc9d  [shntool]  ivcdhut47t17.flac
+7e4d10af9eb61a00205527d8869f4ab2  [shntool]  ivcdhut47t18.flac
+5b4ae7b75a0b611e1baafe82a2959e94  [shntool]  ivcdhut47t19.flac
+2cf806333126c11831f1e1aca8259bdf  [shntool]  ivcdhut47t20.flac
+d05fcb6b1cafa47cfa1de6274ab0880f  [shntool]  ivcdhut47t21.flac

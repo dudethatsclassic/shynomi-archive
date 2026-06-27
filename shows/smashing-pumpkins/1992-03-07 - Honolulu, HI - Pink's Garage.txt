@@ -1,0 +1,55 @@
+Smashing Pumpkins
+March 7th 1992
+Pink's Garage
+Honolulu, HI, US
+
+SOURCE (AUD#1):
+Sony ECM-909 > Sony WM-D6C
+
+TRANSFER:
+Sony MZ-RH1 > web.minidisc.wiki
+
+GENERATION:
+ANA(M) > MD(1) > WAV [16-bit/44.1KHz] > FLAC
+
+LENGTH:
+54:18
+
+SETLIST:
+01. Slunk
+02. Rocket
+03. Tristessa
+04. Window Paine
+05. Bury Me
+06. Snail
+07. Starla
+08. Siva
+09. Luna
+10. Godzilla [Blue Öyster Cult]
+11. I Am One
+
+NOTES:
+Recording starts part way through Slunk. Taper appears to stop recorder between Rocket, Tristessa and Bury Me
+
+MD5 FINGERPRINTS:
+860e142ab6e5b872e09b90b62b7ff54d *Smashing Pumpkins 1992-03-07 AUD1 t01 Slunk.flac
+a00fb4f4652f6284cccf06bb9b891f0e *Smashing Pumpkins 1992-03-07 AUD1 t02 Rocket.flac
+38bc48b9edb6df684593b9f70bd8c505 *Smashing Pumpkins 1992-03-07 AUD1 t03 Tristessa.flac
+afb189ea122f05e0f8e15ad71b5b6a9a *Smashing Pumpkins 1992-03-07 AUD1 t04 Window Paine.flac
+f8cb3370f39ef69c72569c46a9903b55 *Smashing Pumpkins 1992-03-07 AUD1 t05 Bury Me.flac
+da9a46b0f73dc7525f787efb0d11d256 *Smashing Pumpkins 1992-03-07 AUD1 t06 Snail.flac
+cbe69aaad72aeb477cc4657ca098e0a5 *Smashing Pumpkins 1992-03-07 AUD1 t07 Starla.flac
+739195a9700eaaec4a661871d2e3c4bf *Smashing Pumpkins 1992-03-07 AUD1 t08 Siva.flac
+feae6494343ac75dada73c73f05d9bd3 *Smashing Pumpkins 1992-03-07 AUD1 t09 Luna.flac
+22bc9e90e4f1275e96f0cd0dbf18a206 *Smashing Pumpkins 1992-03-07 AUD1 t10 Godzilla [Blue Öyster Cult].flac
+df9f113f37c62698be7a0844187e189c *Smashing Pumpkins 1992-03-07 AUD1 t11 I Am One.flac
+
+RECORDED BY:
+Ron Whitfield
+
+TRANSFER BY:
+Nicholas Serra
+
+DISTRIBUTION:
+Nicholas Serra, Spaldz & Members of SPLRA
+2026-01-05

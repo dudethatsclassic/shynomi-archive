@@ -1,0 +1,69 @@
+Zwan
+January 22nd 2003
+Metro
+Chicago, IL, US
+
+SOURCE (AUD#3a)
+Neumann KM-140 (ORTF) > Apogee Minime @ 16bit/48kHz > TCD-D100 On Stand FOB
+
+TRANSFER:
+TCD-D100 > Sony 7-pin Cable > Waveterminal 24/96 @ 44.1kHz > Cool Edit Pro
+Resampling: Hardware resampled; 48kHz > 44.1kHz
+Editing: CEP 2.0 for Fades; CD Wave for tracking
+FLAC: Master Waves > Traders Little Helper 2.8.4
+
+GENERATION:
+DAT(M) > WAV > FLAC
+
+LENGTH:
+99:30
+
+SETLIST:
+01. Jesus, I [Lyte]
+02. God's Gonna Set This World on Fire
+03. Declarations of Faith
+04. El Sol
+05. Never My Love [The Association]
+06. Settle Down
+07. Honestly
+08. A New Poetry
+09. Friends as Lovers, Lovers as Friends
+10. Ride a Black Swan
+11. Endless Summer
+12. Mary Star of the Sea
+
+ENCORE ONE:
+13. Riverview
+14. Spilled Milk
+
+ENCORE TWO:
+15. Of a Broken Heart
+16. A Certain Kind of Change
+
+NOTES:
+Thanks to traveller03 for sending over
+
+MD5 FINGERPRINTS:
+98c57107ac47d9a9530d663c5ae0821a *Zwan 2003-01-22 AUD3a t01 Jesus, I [Lyte].flac
+f14c9fa7970f6062d824a5450b7853d3 *Zwan 2003-01-22 AUD3a t02 God's Gonna Set This World on Fire.flac
+830d877c7a3a455dc0cfbb2038a5909c *Zwan 2003-01-22 AUD3a t03 Declarations of Faith.flac
+a6d05dcc34980dc524cd10a1b6f3c648 *Zwan 2003-01-22 AUD3a t04 El Sol.flac
+8bce2a5006f783da4fec0d34c4c9ab96 *Zwan 2003-01-22 AUD3a t05 Never My Love [The Association].flac
+dbd37c358a865e6741a2a530430e705f *Zwan 2003-01-22 AUD3a t06 Settle Down.flac
+33ec45735a2614d69ccbd0105007dba9 *Zwan 2003-01-22 AUD3a t07 Honestly.flac
+0c595c46576276979649d5fc4cfde7de *Zwan 2003-01-22 AUD3a t08 A New Poetry.flac
+90076bd1464ba1208f1165b270e0cfbe *Zwan 2003-01-22 AUD3a t09 Friends as Lovers, Lovers as Friends.flac
+040fdd563a896b029b831ca5c8162729 *Zwan 2003-01-22 AUD3a t10 Ride a Black Swan.flac
+0dc14cb19e1bddc9676d20b5959fe268 *Zwan 2003-01-22 AUD3a t11 Endless Summer.flac
+94187b92de73a811a5734ce175ccabd2 *Zwan 2003-01-22 AUD3a t12 Mary Star of the Sea.flac
+30d1848c7ae2ad80e5bb5dabfb10496d *Zwan 2003-01-22 AUD3a t13 Riverview.flac
+c33f49721142d334364864dfbec08058 *Zwan 2003-01-22 AUD3a t14 Spilled Milk.flac
+5b19b54980bcb135f36624fe71784781 *Zwan 2003-01-22 AUD3a t15 Of a Broken Heart.flac
+4f4c6a9a4e688b4b6962759d597ba60b *Zwan 2003-01-22 AUD3a t16 A Certain Kind of Change.flac
+
+RECORDED BY:
+Zach Payne
+
+DISTRIBUTION:
+Spaldz, Nicholas Serra & Members of SPLRA
+2026-03-11

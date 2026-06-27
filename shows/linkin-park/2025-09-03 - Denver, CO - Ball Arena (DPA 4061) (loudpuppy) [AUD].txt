@@ -1,0 +1,88 @@
+Linkin Park
+Ball Arena
+Denver, Colorado, United States
+September 3, 2025
+
+Lineage: iPhone 16 Pro voice memos application > DPA 4061 (mics) > VLC Media Player (conversion from M4A to wav) > CDwav (for tracking) > Traders Little Helpher FLAC level 8
+
+Setlist (1:59:34)
+
+01 Inception intro
+02 Somewhere I Belong
+03 Points Of Authority
+04 Crawling
+05 New Divide
+06 The Emptiness Machine
+07 Creation Intro C
+08 The Catalyst
+09 Burn It Down
+10 Up From The Bottom
+11 Where'd You Go
+12 Waiting For The End
+13 Castle Of Glass
+14 Two Faced
+15 Joh Hahn solo
+16 Empty Spaces
+17 When They Come For Me
+18 Lift Off / Remember The Name
+19 IGYEIH
+20 One Step Closer
+21 Break / Collapse
+22 Lost
+23 Stained
+24 What I've Done
+25 Kintsugi
+26 Overflow
+27 Numb
+28 Let You Fade
+29 In The End
+30 Faint
+31 Resolution Intro C
+32 Papercut
+33 Heavy Is The Crown
+34 Bleed It Out
+
+Notes: For those of you that follow this space, you might be aware that I've partnered with my good friend Loudpuppy on numerous video projects going back to 2003. We both have long since stopped shooting concert videos (I've been exclusively taping audio since 2014, Loudpuppy stopped several years before me), but I've been encouraging my friend to audiotape shows, since he loves listening to live music. He did a bit of minidisc recording circa 2002 - taping some hair metal bands like Whitesnake and Dokken and, notably, The Doors Of The 21st Century - but, hasn't really done much taping since he stopped videotaping shows, around 2011. 
+
+As it turns out, he bought a set of DPA mics about 15 years ago, but never bothered to use them. He brought them to me, but I didn't end up using them and, in fact, forgot I had them. But, when this Linkin Park show came up on the schedule, Loudpuppy mentioned the mics to me, I went digging through a junk drawer and found them - this motivated him to give them a try and see if he could tape this show using his iPhone. What you hear here is the result.
+
+A couple of provisos: he was on the third level, section 319. While the audience is pretty chill, the venue is pretty boomy, regardless of where you sit, and that's reflected in the tape. Additionally, he had the mics clipped to the top part of his shirt, but didn't make any particular effort to aim his mics. That said, this is an entirely listenable show, especially if you're a fan or were at the show itself.
+
+01 Inception intro.flac:62ef7e2cd09e052067d93c3bcefbc490
+02 Somewhere I Belong.flac:631bd6b0461ea6d2ecaf744d6dce1513
+03 Points Of Authority.flac:caf3d4a1bcfb2283c6854090d8c00bf5
+04 Crawling.flac:bbe0179cf60315da20901fd70fc441b9
+05 New Divide.flac:d4c670cace960ccd1ba52b3f854d026f
+06 The Emptiness Machine.flac:f12fa4bf7829080b45841e4c26c1be00
+07 Creation intro C.flac:c3786b2d30b30b059f48743812b15f48
+08 The Catalyst.flac:fa5a0327c0b33a3703fbb2e13ed8b746
+09 Burn It Down.flac:d5460eea5d325386880dcc64a0569e04
+10 Up From The Bottom.flac:643b80aaff728188a3330e37623df162
+11 Where'd You Go.flac:6670754d3b113ad501b9e665c8ede1da
+12 Waiting For The End.flac:adbec7192b319fab447d9cde540ea0bf
+13 Castle Of Glass.flac:c13eb0bede419abd5742d3e92eac097c
+14 Two-Faced.flac:c2e157c899d2d7cc3585e6c6697fadcf
+15 Joh Hahn solo.flac:dc28d20688b703c48e7af32bddb7ec95
+16 Empty Spaces.flac:aebd96b840a0e707d45602e065e3cb74
+17 When They Come For Me.flac:a9f58ab8bde8005f45238f7379c395db
+18 Lift Off Remember The Name.flac:86989e894c42c6e5f327bb67f079e022
+19 IGYEIH.flac:13d9f87ad9e1077f9002c32354e78456
+20 One Step  Closer.flac:522d956ec2bb0cf17f0eea6a4294567f
+21 Break Collapse.flac:aeec4477d1988160327354a1c5b57d10
+22 Lost.flac:5b3de29082267c4824ae421281f91bad
+23 Stained.flac:5ab67c9b6d65988c969d54c17c8a4930
+24 What I've Done.flac:64c8971c3fb296dac610ab982dcf3ac4
+25 Kintsugi.flac:852f66531ba8792d40ad27b264fbd03d
+26 Overflow.flac:f3654df7b160ac434acdc1b6cd36514f
+27 Numb.flac:d24fcea3203c5954584af37279bc17ec
+28 Let You Fade.flac:8ca3d770d28a5d28ff27a2851445aed3
+29 In The End.flac:90100a0552b58f87d2b2a598da45bc0f
+30 Faint.flac:a10c7974f29de373cb0c0b1f87dd0428
+31 Resolution intro C.flac:48417271a867fde72e6b658c22678d23
+32 Paper Cut.flac:3b70ae4eaa41957aca44d6fa9fdf620f
+33 Heavy Is The Crown.flac:4d897a56378847ef61ffdf0b226a2b27
+34 Bleed It Out.flac:78bff9cd673fb28b035cfdcc58a99b58
+
+Checksum file saved to disk.
+
+No errors occured.

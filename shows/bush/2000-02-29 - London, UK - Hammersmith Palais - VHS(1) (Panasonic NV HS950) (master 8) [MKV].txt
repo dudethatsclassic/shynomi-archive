@@ -1,0 +1,45 @@
+Bush - Hammersmith Palais 2000.02.29 #AMT 1st Gen MKV
+
+Source:
+1st Gen SVHS Tape Filmed By Master 8.
+Transfer:
+2022 By TravisBickle1963
+
+Tech:
+Panasonic NV HS950 > Datavideo TBC3000 > BlackMagic Intensity Pro > VirtualDub > AVI [UtVideo/48khz/16-Bit/PCM]
+> x264.exe 0.152.2851 ba24899 > Audacity 2.3.3 > MKVToolNix GUI v72.0.0 > MKV
+
+Format:
+PAL 720x576 (4:3) Interleaved, Video Bitrate 9214 kb/s (Variable)
+Audio: Flac Stereo 843kb /48khz
+Size: 6.67GB
+Running Time: 94 mins (Aprox)
+
+ Tracklist:
+
+01 - Machinehead
+02 - The Disease of the Dancing Cats
+03 - Warm Machine
+04 - Greedy Fly
+05 - English Fly
+06 - Insect Kin
+07 - Mouth
+08 - Dead Meat
+09 - Letting the Cables Sleep
+10 - Everything Zen
+11 - The Chemicals Between Us
+12 - Comedown
+13 - Glycerine
+14 - Prizefighter
+15 - Swallowed
+16 - Little Things
+
+
+
+**Uploaded To Dime 24th December 2022**
+
+
+**I Transfer Master Video Tapes Any Format Any Region**
+
+
+**PLEASE DO NOT ENCODE TO LOSSY FORMATS OR SELL! SUPPORT THE ARTISTS AND BUY OFFICIAL PRODUCT**

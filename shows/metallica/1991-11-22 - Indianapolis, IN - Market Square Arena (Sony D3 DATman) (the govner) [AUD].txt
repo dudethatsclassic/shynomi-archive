@@ -1,0 +1,29 @@
+    length     expanded size   cdr  WAVE problems filename
+     1:59.45       21097484    ---   --   ---xx   D1Track01 Ecstacy Of Gold.flac
+     5:33.35       58823564    ---   --   ---xx   D1Track02 Enter Sandman.flac
+     7:24.39       78413372    ---   --   ---xx   D1Track03 Creeping Death.flac
+     7:04.06       74807756    ---   --   ---xx   D1Track04 Harvester Of Sorrow.flac
+     6:48.38       72060620    ---   --   ---xx   D1Track05 Welcome Home (Sanitarium).flac
+     5:51.68       62076380    ---   --   ---xx   D1Track06 Sad But True.flac
+     9:46.57      103504508    ---   --   ---xx   D1Track07 Jason Newsted Bass Solo.flac
+     3:47.47       40153388    ---   --   ---xx   D1Track08 Through The Never.flac
+     7:23.67       78302828    ---   --   ---xx   D1Track09 The Unforgiven.flac
+     9:13.18       97591580    ---   --   ---xx   D1Track10 And Justice For All Melody.flac
+     7:02.38       74530220    ---   --   ---xx   D1Track11 Lars Ulrich Drum Solo.flac
+     8:23.34       88809212    ---   --   ---xx   D2Track01 Kirk Hammet Guitar Solo.flac
+     5:19.64       56422172    ---   --   ---xx   D2Track02 For Whom The Bell Tolls.flac
+     7:22.06       77982956    ---   --   ---xx   D2Track03 Fade To Black.flac
+     5:15.38       55655420    ---   --   ---xx   D2Track04 Whiplash.flac
+     1:01.39       10852172    ---   --   ---xx   D2Track05 Audience.flac
+     1:21.19       14333132    ---   --   ---xx   D2Track06 Symptom Of The Universe.flac
+     4:02.56       42820556    ---   --   ---xx   D2Track07 Master Of Puppets.flac
+    11:43.18      124051580    ---   --   ---xx   D2Track08 Seek And Destroy.flac
+     1:52.10       19780364    ---   --   ---xx   D2Track09 Audience.flac
+     9:58.50      105604844    ---   --   ---xx   D2Track10 One.flac
+     1:23.44       14744732    ---   --   ---xx   D2Track11 Last Caress.flac
+     5:17.41       56015276    ---   --   ---xx   D2Track12 Am I Evil.flac
+     5:14.35       55471964    ---   --   ---xx   D2Track13 Battery.flac
+     1:58.20       20862284    ---   --   ---xx   D2Track14 Audience.flac
+     3:55.59       41592812    ---   --   ---xx   D2Track15 Stone Cold Crazy.flac
+     2:30.64       26610572    ---   --   ---xx   D2Track16 Final Comments From Lars.flac
+   148:37.05     1572971748 B                     (totals for 27 files, 0.5752 overall compression ratio)

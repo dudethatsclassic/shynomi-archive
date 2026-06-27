@@ -1,0 +1,64 @@
+Faith No More
+The Warfield
+San Francisco, CA
+October 6, 1997
+
+source: 	SBD > Lunatec V2 > SonyD8
+transfer:	SonyD8 > SGI Indy (digi-in) > SoundForge4.5 [CDarchitect] > FLAC Frontend [8] > .flac
+notes: 		The first 1:56 of d1t1 is a splice from a separate akgCK93 > Sonyd8 rig running from the right-front edge of the soundboard (front/middle of the balcony)
+		
+
+disc I:
+
+01 Midnight Cowboy
+02 Collision
+03 Mid-Life Crisis
+04 Last Cup Of Sorrow
+05 The Gentle Art Of Making Enemies
+06 Evidence
+07 Easy
+08 Introduce Yourself
+09 Ugly In The Morning
+10 Home Sick Home
+11 Ashes To Ashes
+12 King For A Day
+13 Pristina
+14 Epic
+15 Naked In Front Of The Computer
+16 Highway Star
+17 Just A Man
+18 [intermission]
+19 This Guy's In Love With You
+20 Land Of Sunshine
+
+
+disc II:
+
+01 Caffeine 
+02 [intermission]
+03 Stripsearch
+
+
+fnm1997-10-06d1t18.flac:dc06c146f124e3ef4b52b814d973fb7f
+fnm1997-10-06d1t19.flac:cd00d23c32ec237ebf7eeda1bb1984f2
+fnm1997-10-06d1t20.flac:b5829a8b12d6150bef590e60fb2e344f
+fnm1997-10-06d2t01.flac:1a7c06476f8f89bf04bd64439d654eaa
+fnm1997-10-06d2t02.flac:c3e236b968b7bfc95cd0190b7574e317
+fnm1997-10-06d2t03.flac:dfde0b356befd6ee2a36314a756b3ac9
+fnm1997-10-06d1t01.flac:3a389f59f4319a5934ead13ffc4f1c37
+fnm1997-10-06d1t02.flac:e9879f241762b0485795dd0401d21d02
+fnm1997-10-06d1t03.flac:2e713fb714a9449d90d072d13f57ce54
+fnm1997-10-06d1t04.flac:bb009355851533c87fb1a281ed3605d6
+fnm1997-10-06d1t05.flac:8cc00110a3ec567dd8c6bce6de522055
+fnm1997-10-06d1t06.flac:d54a694df9d9eec6b6d109649faa29a1
+fnm1997-10-06d1t07.flac:8f27c95feff4ef06a4a4322091258287
+fnm1997-10-06d1t08.flac:fc78ed92829628c5fa0f0732ce7e0bdc
+fnm1997-10-06d1t09.flac:2b66ea451f29084c161f442e95e1528f
+fnm1997-10-06d1t10.flac:50601ff2225fd28ef67d3e4cd74fb473
+fnm1997-10-06d1t11.flac:20eb82762eeaace46e21d8e9b4a142c1
+fnm1997-10-06d1t12.flac:9283102218d00411d0955950b8ae55b8
+fnm1997-10-06d1t13.flac:29d56ced4ef38b655f1aa924204271ca
+fnm1997-10-06d1t14.flac:105ad6a9a21a3a35489559f634a01b8c
+fnm1997-10-06d1t15.flac:cfc4f5e54fb9dd8c81f55b508241012b
+fnm1997-10-06d1t16.flac:7218fdba49fcc2f66221c8bfe0135605
+fnm1997-10-06d1t17.flac:f1496541b8416589750fca4d2394024d

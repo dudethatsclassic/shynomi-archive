@@ -1,0 +1,29 @@
+Zwan
+23rd January 2003
+Ed Sullivan Theater
+New York, NY, US
+
+SOURCE (TV#2)
+TV > Digital Cable > PCM-M1
+
+TRANSFER:
+Sony PCM-M1 DAT (48kHz) > Midiman Audiophile 2496 > Cool Edit Pro > WAV
+
+GENERATION:
+DAT(M) > FLAC
+
+LENGTH:
+4:08
+
+SETLIST:
+01. Honestly
+
+NOTES:
+Brought to you by Ryan Nims (Video), Fares Halteh (Audio rec), and Jonathan G. Weston (edit + remux)
+
+Special thanks to Sean Bowen for moral support
+
+Another fine re-release from the perfectionist elitist assholes of The Smashing Pumpkins/Zwan Hub
+
+MD5 FINGERPRINTS:
+7705b8a384209bb0aa26e591474db64d *Zwan 2003-01-23A TV2 t01 Honestly.flac

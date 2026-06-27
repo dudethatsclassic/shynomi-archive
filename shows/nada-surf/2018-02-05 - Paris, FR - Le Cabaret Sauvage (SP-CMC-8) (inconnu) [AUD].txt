@@ -1,0 +1,130 @@
+Nada Surf 
+2018-02-05 
+Paris, France
+Le Cabaret Sauvage
+
+
+I'm only looking for a recording in Lille, Le Splendid
+in 2022.
+
+
+FLAC tagged 2025-03-15.
+Shared on Dime same day.
+
+
+------------------------------------
+SP-CMC-8 	     		    
+Olympus LS 12(44/16) 		    
+CD WAV(split) 			    
+Trader's Little Helper(Flac 8 & md5)
+------------------------------------
+
+Setlist : 
+
+Set I. 62'03
+
+01 - [2:20]	Blizzard of '77
+02 - [4:56]	The Way You Wear Your Head
+03 - [5:25]	Fruit Fly
+04 - [5:14]	Blonde on Blonde
+05 - [5:27]	Inside of Love
+06 - [4:54]	Hi-Speed Soul
+07 - [3:38]	No Quick Fix
+08 - [6:32]	Killian's Red
+09 - [4:46]	Là pour ça
+10 - [4:53]	Happy Kid
+11 - [6:14]	Treading Water
+12 - [7:37]	Paper Boats
+
+Set II. 91'55
+
+13 - [4:44]	Imaginary Friends
+14 - [3:47]	Teenage Dreams
+15 - [3:15]	What Is Your Secret
+16 - [6:33]	Cold To See Clear
+17 - [3:50]	No Snow on the Mountain
+18 - [3:40]	Out of the Dark
+19 - [3:52]	Your Legs Grow
+20 - [3:58]	Dispossession
+21 - [4:06]	Do It Again
+22 - [6:14]	Neither Heaven Nor Space
+23 - [5:08]	Firecracker
+24 - [4:01]	Robot
+25 - [5:13]	Stalemate/Love Will Tear Us Apart
+26 - [7:07]	The Fox
+27 - [6:27]	Amateur
+28 - [5:30]	See These Bones
+29 - [2:52]	---------------------------------
+30 - [3:22]	Popular
+31 - [3:04]	Always Love
+32 - [5:04]	Blankest Year
+
+md5
+---
+e0426f077b9473b4ff1fa7e17d8330d2 *01 - Blizzard of '77.flac
+e39349fd44ce759f047a21526f74b0ae *02 - The Way You Wear Your Head.flac
+06c08ca00d1933e19f51be5a89a89cfa *03 - Fruit Fly.flac
+27fee441ad912d45b6715bbe85292c09 *04 - Blonde on Blonde.flac
+350e2750a59d4c43ebd81d8cede16727 *05 - Inside of Love.flac
+593fb88c94eb92840275d2cece8874a4 *06 - Hi-Speed Soul.flac
+9193249aff156d34b736b76e4d2df64e *07 - No Quick Fix.flac
+6f010008b7a99c752518a1c12a8d3633 *08 - Killian's Red.flac
+e937115fffb6c3837a754fe0e12b02d9 *09 - La pour ca.flac
+29238bdf01e52af8f5ecdfea8ec7d7b7 *10 - Happy Kid.flac
+87db71d4f17c744615bb34626e8a7be8 *11 - Treading Water.flac
+7138c2995a3a499baf1e26877318399e *12 - Paper Boats.flac
+c54254e14dcaa4f3f238a09c196b4af7 *13 - Imaginary Friends.flac
+021ff0bd143128d9832312a203158f60 *14 - Teenage Dreams.flac
+ac10577b6b6b151bb724ee0e1c500ffa *15 - What Is Your Secret.flac
+cba36473a0d1cb1fc3ded97f431afbce *16 - Cold To See Clear.flac
+754bb52d607450238999622da1156994 *17 - No Snow on the Mountain.flac
+3b7521d3290e0d84d41f3c8a7757de1c *18 - Out of the Dark.flac
+b3d8f1a5b11f6355c92f0564fdefaf04 *19 - Your Legs Grow.flac
+220d524941a68da6c443f9848be2c0bb *20 - Dispossession.flac
+685753ff23ee9cd77f17950807674028 *21 - Do It Again.flac
+f1ddcfc39ea294e8659657e88a120b70 *22 - Neither Heaven Nor Space.flac
+d0d33060e381f4e57908ec1cfdcffb22 *23 - Firecracker.flac
+9b8a2d778fb2eb674d7a01fbc06932a6 *24 - Robot.flac
+b94c533e49c715425d5e6972d5ab7b04 *25 - Stalemate-Love Will Tear Us Apart.flac
+f891fd5821c6f3f643b6790f16604471 *26 - The Fox.flac
+426c819f114055ce5546ab3cc8c559bf *27 - Amateur.flac
+4742e85022180e43d1693c830eb16a5c *28 - See These Bones.flac
+8cd8de24eed1c77e3dc6f1a5c7668059 *29 - ######.flac
+f0444752f20a0fdf63df4b1719b59e18 *30 - Popular.flac
+e4598d5b3e965133a20072194b9dd92e *31 - Always Love.flac
+51ab298a45deabd4d3a067a169ed7225 *32 - Blankest Year.flac
+
+ffp
+---
+01 - Blizzard of '77.flac:c2f48e98c0676c4649a773357e93fdd0
+02 - The Way You Wear Your Head.flac:602e4dba8e2853b00a3067a141e9d7a1
+03 - Fruit Fly.flac:8c4cc59e9bd98ce3907a42185a144733
+04 - Blonde on Blonde.flac:39ae3fd4f3f23d44e90ef0db00115e1e
+05 - Inside of Love.flac:a1dfb5fecbfafdd621c464a6228aade9
+06 - Hi-Speed Soul.flac:30bec7b9715fc63e223cc90d4ce4ccb1
+07 - No Quick Fix.flac:4ebfdcd6c2e349f20fbb75d1634d2872
+08 - Killian's Red.flac:8f9ff264a18f8735c6e63fc433705d0b
+09 - La pour ca.flac:6bd4ab1e88e2ded4e569870246ace88d
+10 - Happy Kid.flac:495439e7ba424b52b2cc8bd096c2acc8
+11 - Treading Water.flac:56b812fff85a61dfceb1bb4b5017adc1
+12 - Paper Boats.flac:5e6390637680a01024ccc86d15c024d7
+13 - Imaginary Friends.flac:64130128d579b6adce9274d374fe5571
+14 - Teenage Dreams.flac:f6ec1e080b21bb21d0c1784193faadf5
+15 - What Is Your Secret.flac:848ca395435fddc32eb93d9498f7a0ba
+16 - Cold To See Clear.flac:99ff03c1899563c8411ee1ec37e83aaf
+17 - No Snow on the Mountain.flac:c84b9c641fe1f8f76419fb62846426b4
+18 - Out of the Dark.flac:8cef338819cfb75b13552da60a644059
+19 - Your Legs Grow.flac:cb2ef3c83ea0d5b46c722c37de2fe0b0
+20 - Dispossession.flac:0227a520fc578755add88eccb380e62a
+21 - Do It Again.flac:f5b330557083890f7e773bf23e3e9f37
+22 - Neither Heaven Nor Space.flac:9e3e6e64c7da0df38c7035635c33800d
+23 - Firecracker.flac:a0c9c0ddacd655ee7aa25d28fd85f6c6
+24 - Robot.flac:d7d9eecd9cc2f0909fda79cd0f566bb8
+25 - Stalemate-Love Will Tear Us Apart.flac:1219f6db86fb7605da380e952c26713b
+26 - The Fox.flac:d426d4a86c4872c69376823accecbc94
+27 - Amateur.flac:7d4bce4735d1b74d707e7fbf3e2bde8d
+28 - See These Bones.flac:0c74603f39eedc5be187ed2149b27e9d
+29 - ######.flac:dc3739ab9e24af3909c3961dd9dea621
+30 - Popular.flac:05071ffed0ddd2e9c11f9b0e61d09dcd
+31 - Always Love.flac:1e4e6c213e661d10aa0e1d6486a391fd
+32 - Blankest Year.flac:caf0d7d1ee4fbd14e8206f81f4487201

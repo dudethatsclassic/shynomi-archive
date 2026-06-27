@@ -1,0 +1,258 @@
+Metallica 
+
+1988-11-17
+Pavilion
+Chicago, IL 
+ 
+Source: AUD>??>CDR>EAC(secure)>WAV>FLAC(lvl8)
+
+Disc 1:
+01. Ecstacy of Gold
+02. Blackened 
+03. For Whom the Bell Tolls 
+04. Sanitarium 
+05. Leper Messiah 
+06. Harvester of Sorrow 
+07. Eye of the Beholder 
+08. Jason's solo / To Live Is To Die jam
+09. Master of Puppets 
+10. One 
+11. Seek & Destroy 
+
+Disc 2:
+01. ...And Justice For All 
+02. Creeping Death 
+03. Fade to Black 
+04. Kirk's solo (Little Wing) 
+05. Battery 
+06. Last Caress/Am I Evil? 
+07. Whiplash
+
+
+Notes:
+This recording isnt very good at all....seems like the mic couldnt handle how loud is was or something.
+
+
+
+
+                           Enjoy!
+
+                              ~ bubba420 ~
+
+
+FLAC Fingerprint:
+Disc 1:
+Track01.flac:0ebb7296204e9d4caf0080a25bd17895
+Track02.flac:b005cef3d13afc6ccd07c4994a702f1e
+Track03.flac:6ff73f58870b05c8f9e162708d7ba1c7
+Track04.flac:b4c979b2232e9d4fabbb24be49dd1abf
+Track05.flac:a4782047d69aab55f8710837aa05d9cb
+Track06.flac:fb922d8ba66703686a338f8f87a13138
+Track07.flac:3a01d34be2b6dd29ef3ab89132dfb665
+Track08.flac:f0db9f8c9405f0e79bc2485d346f5a92
+Track09.flac:37847475fa963e508fe73121ce01515d
+Track10.flac:c9b10f7d2c368b2cf6c951cda65a5afd
+Track11.flac:feeb3cbfcb92aedf9375b16bb5689166
+
+Disc 2:
+Track01.flac:0bb25786302ce925df5c27b9f6d2a8ec
+Track02.flac:9a8a5128311b42d3aebb2e0369a2af43
+Track03.flac:3edfe083fc38cf8a47fb37404515f3f7
+Track04.flac:fad7655966d82a51916f50b571852454
+Track05.flac:19ca5caf21cafa8bbcd4d49aafb1f99f
+Track06.flac:f804df9ddb4ccb41153cdac9f3aefa07
+Track07.flac:a35ba8110dc710714ac9e9a0fadebcea
+
+
+
+EAC LOG:
+
+EAC extraction logfile from 18. October 2005, 22:29 for CD
+Unknown Artist / Unknown Title
+
+Used drive  : LG      CD-RW CED-8120B   Adapter: 0  ID: 0
+Read mode   : Secure with NO C2, accurate stream, NO disable cache
+Combined read/write offset correction : 0
+Overread into Lead-In and Lead-Out : No
+
+Used output format : Internal WAV Routines
+                     44.100 Hz; 16 Bit; Stereo
+
+Other options      : 
+    Fill up missing offset samples with silence : Yes
+    Delete leading and trailing silent blocks : No
+    Installed external ASPI interface
+
+
+Track  1
+     Filename C:\My Documents\Metallica 1988-11-17 Chicago, IL\Disc 1\Track01.wav
+
+     Peak level 68.4 %
+     Track quality 100.0 %
+     Copy CRC 37A284DF
+     Copy OK
+
+Track  2
+     Filename C:\My Documents\Metallica 1988-11-17 Chicago, IL\Disc 1\Track02.wav
+
+     Peak level 79.6 %
+     Track quality 99.9 %
+     Copy CRC BFCA8D93
+     Copy OK
+
+Track  3
+     Filename C:\My Documents\Metallica 1988-11-17 Chicago, IL\Disc 1\Track03.wav
+
+     Peak level 77.7 %
+     Track quality 99.9 %
+     Copy CRC 136A6C1B
+     Copy OK
+
+Track  4
+     Filename C:\My Documents\Metallica 1988-11-17 Chicago, IL\Disc 1\Track04.wav
+
+     Peak level 79.5 %
+     Track quality 99.9 %
+     Copy CRC 38787C78
+     Copy OK
+
+Track  5
+     Filename C:\My Documents\Metallica 1988-11-17 Chicago, IL\Disc 1\Track05.wav
+
+     Peak level 80.8 %
+     Track quality 99.9 %
+     Copy CRC B6AB5F72
+     Copy OK
+
+Track  6
+     Filename C:\My Documents\Metallica 1988-11-17 Chicago, IL\Disc 1\Track06.wav
+
+     Peak level 82.1 %
+     Track quality 99.9 %
+     Copy CRC 1168FD8C
+     Copy OK
+
+Track  7
+     Filename C:\My Documents\Metallica 1988-11-17 Chicago, IL\Disc 1\Track07.wav
+
+     Peak level 80.6 %
+     Track quality 100.0 %
+     Copy CRC 744C6E87
+     Copy OK
+
+Track  8
+     Filename C:\My Documents\Metallica 1988-11-17 Chicago, IL\Disc 1\Track08.wav
+
+     Peak level 82.5 %
+     Track quality 100.0 %
+     Copy CRC AE8D0718
+     Copy OK
+
+Track  9
+     Filename C:\My Documents\Metallica 1988-11-17 Chicago, IL\Disc 1\Track09.wav
+
+     Peak level 82.7 %
+     Track quality 100.0 %
+     Copy CRC CCA8387E
+     Copy OK
+
+Track 10
+     Filename C:\My Documents\Metallica 1988-11-17 Chicago, IL\Disc 1\Track10.wav
+
+     Peak level 83.6 %
+     Track quality 100.0 %
+     Copy CRC E6861A74
+     Copy OK
+
+Track 11
+     Filename C:\My Documents\Metallica 1988-11-17 Chicago, IL\Disc 1\Track11.wav
+
+     Peak level 74.1 %
+     Track quality 100.0 %
+     Copy CRC CF9CF926
+     Copy OK
+
+No errors occured
+
+
+End of status report
+
+
+EAC extraction logfile from 18. October 2005, 22:39 for CD
+Unknown Artist / Unknown Title
+
+Used drive  : LG      CD-RW CED-8120B   Adapter: 0  ID: 0
+Read mode   : Secure with NO C2, accurate stream, NO disable cache
+Combined read/write offset correction : 0
+Overread into Lead-In and Lead-Out : No
+
+Used output format : Internal WAV Routines
+                     44.100 Hz; 16 Bit; Stereo
+
+Other options      : 
+    Fill up missing offset samples with silence : Yes
+    Delete leading and trailing silent blocks : No
+    Installed external ASPI interface
+
+
+Track  1
+     Filename C:\My Documents\Metallica 1988-11-17 Chicago, IL\Disc 2\Track01.wav
+
+     Peak level 79.3 %
+     Track quality 100.0 %
+     Copy CRC 23F8EC42
+     Copy OK
+
+Track  2
+     Filename C:\My Documents\Metallica 1988-11-17 Chicago, IL\Disc 2\Track02.wav
+
+     Peak level 69.7 %
+     Track quality 99.9 %
+     Copy CRC 27F5E633
+     Copy OK
+
+Track  3
+     Filename C:\My Documents\Metallica 1988-11-17 Chicago, IL\Disc 2\Track03.wav
+
+     Peak level 84.4 %
+     Track quality 100.0 %
+     Copy CRC 0E1E87FF
+     Copy OK
+
+Track  4
+     Filename C:\My Documents\Metallica 1988-11-17 Chicago, IL\Disc 2\Track04.wav
+
+     Peak level 70.2 %
+     Track quality 100.0 %
+     Copy CRC 20BEC0B7
+     Copy OK
+
+Track  5
+     Filename C:\My Documents\Metallica 1988-11-17 Chicago, IL\Disc 2\Track05.wav
+
+     Peak level 82.4 %
+     Track quality 100.0 %
+     Copy CRC F7245D7E
+     Copy OK
+
+Track  6
+     Filename C:\My Documents\Metallica 1988-11-17 Chicago, IL\Disc 2\Track06.wav
+
+     Peak level 86.4 %
+     Track quality 100.0 %
+     Copy CRC 2F9281C9
+     Copy OK
+
+Track  7
+     Filename C:\My Documents\Metallica 1988-11-17 Chicago, IL\Disc 2\Track07.wav
+
+     Peak level 82.3 %
+     Track quality 100.0 %
+     Copy CRC B14C1083
+     Copy OK
+
+No errors occured
+
+
+End of status report
+

@@ -1,0 +1,48 @@
+Collective Soul
+2008-07-30
+Hammerstein Ballroom
+New York, NY
+
+Source: Edirol R-09 > Data CDRs (.wav) 
+Transfer: Audacity (8dB boost) > CD Wave (splitting) > Trader's Little Helper v.2.6.0 > .flac, .ffp, .torrent
+Location: About 25 yards left center of ballroom, located directly in front of Ed Roland
+
+Recorded by cleo2007
+Tracked & Seeded by brianblank
+"It's only a memory if you don't record it"
+
+Disc 1
+01. Heavy
+02. Listen
+03. December
+04. All That I Know
+05. Needs
+06. Shine
+07. The World I Know
+08. Why (Part 2) 
+09. Gel
+10. Better Now
+11. Hollywood
+
+Disc 2
+01. Encore
+02. Where The River Flows
+03. Run
+
+Length - 74:26 minutes
+
+-----------------------------------------------------------------------------------------------------------------------
+END ORIGINAL INFO FILE
+-----------------------------------------------------------------------------------------------------------------------
+
+Lineage for this torrent:
+Edirol R-09 > Data CDRs (.wav) > Audacity (8dB boost) > CD Wave (splitting)
+> Trader's Little Helper v.2.6.0 > .flac, .ffp, .torrent > cd-r > EAC > wave
+> TLH > FLAC(level 8).
+
+I found this on dime in September 2010. At 74:26 in length, you can easily fit the whole
+show on one disc. Many thanks to cleo2007 for taping and brianblank for getting the
+finished product shared to the world.
+-kevdogg
+
+

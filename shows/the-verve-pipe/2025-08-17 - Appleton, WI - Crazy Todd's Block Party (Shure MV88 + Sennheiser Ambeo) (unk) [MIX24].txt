@@ -1,0 +1,50 @@
+The Verve Pipe - 2025-08-17, Appleton, WI
+
+The Verve Pipe
+Crazy Todd's Block Party
+Appleton, WI
+2025-08-17
+
+TRACK LISTING
+01 - Photograph
+02 - Cup Of Tea
+03 - Villains
+04 - No One's Gonna Break This Heart (Again)
+05 - Spoonful Of Sugar
+06 - Hollow Bones
+07 - Colorful
+08 - Myself
+09 - Hero
+10 - Tattoo
+11 - Bridges Are Burning
+12 - The Freshman
+13 - Medicate Myself
+14 - Happiness Is
+15 - Dust
+16 - The Chain
+
+FLAC FINGERPRINTS or MD5 checksum for the musical content only (*)
+01 - Photograph.flac:cc3c8f94a74315516a9be2f15354cf5b
+02 - Cup Of Tea.flac:7742b0b917bc85691928fcf31ec832d3
+03 - Villains.flac:279502d8c0827240548c9d82aa9960be
+04 - No One's Gonna Break This Heart (Again).flac:bb291ecbce49e9c94eb9fa37b54082da
+05 - Spoonful Of Sugar.flac:44d49b71479dec1f89035b7df303a508
+06 - Hollow Bones.flac:f9b1d65161c389c018f7fa261c86a816
+07 - Colorful.flac:de0a728b216ab3695b76043854b0dc2d
+08 - Myself.flac:4f338fe405ab0bab1dc55f2c74d40e96
+09 - Hero.flac:504ef1eaa49c3992d34179733b33ea56
+10 - Tattoo.flac:6f11bc8527f1e40372c71536533adfea
+11 - Bridges Are Burning.flac:6a4b5f83dd41d808436328114dedebd4
+12 - The Freshmen.flac:cd23a9bf1c6701465e19ddd695e13c40
+13 - Medicate Myself.flac:495b3fc0e5d79ecf24ab06046557fbd4
+14 - Happiness Is.flac:a2f8dd93392a97057cdc6098871db2a3
+15 - Dust.flac:ba76b7ede635538d2722b5b34411adef
+16 - The Chain.flac:6bff67ad0cbf515a330c0ab5177408d5
+
+AUD SOURCE 1
+Shure mv88 -> iPhone Motiv app .wav -> amplified & split in Audacity -> flac
+AUD SOURCE 2
+Sennheiser Ambeo Smart heaset -> iPhone Apogee Metarecorder app .wav -> amplified & split in Audacity -> flac
+
+Go see them live
+Go buy their albums

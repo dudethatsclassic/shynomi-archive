@@ -1,0 +1,23 @@
+A Perfect Circle
+2000-09-04
+Seattle, WA
+Paramount Theater
+
+Taper: CatalystX
+Source: Core Sound Binaurals > CS Battery Box/120 > Sony PCM-M1(Oade)/48
+Transfer: DAT-M > Tascam DA-30 (SPDIF Out) > Audiophile 24/96 (SPDIF In) > Sound Forge 7.0 > WAV > FLAC (Level 8)
+Notes: Digitally transferred by Distortion on 9-2-2006. This is the raw master.
+
+Setlist:
+Magdalena
+The Hollow
+Sleeping Beauty
+Orestes
+Thomas
+Thinking of You
+Rose
+Renholdër
+3 Libras
+Ozzy's Cure
+Over
+Judith

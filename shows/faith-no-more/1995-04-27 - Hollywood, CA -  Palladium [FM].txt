@@ -1,0 +1,58 @@
+Faith No More
+1995-04-27
+Palladium, Hollywood, CA
+
+
+Source: FM > Japanese Radio Broadcast & US SBD merged
+Quality: A+
+Notes: 	Compiled from the 13-track Japanese broadcast and the 7-track US SBD fragment of this show.
+
+Remastered and edited by Birthdaypony, March 2009.
+
+(59:32)
+
+1. Digging The Grave 
+2. Midlife Crisis 
+3. The Real Thing 
+4. The Gentle Art Of Making Enemies
+5. Evidence 
+6. What A Day 
+7. We Care A Lot 
+8. Easy 
+9. Introduce Yourself 
+10. Get Out 
+11. Glory Box* 
+12. King For A Day 
+13. Epic 
+14. From Out Of Nowhere 
+15. Zombie/Creeping Death
+
+
+US lineage: (Tracks 1, 2, 7, 8, 14, 15)
+FM Broadcast? -> CD?
+
+
+Japan lineage: (Tracks  3, 4, 5, 6, 9, 10, 11, 12, 13)
+FM Broadcast -> DAT MASTER -> CD
+
+
+-Birthdaypony 2009-003
+
+
+ee6dca35f868c798a4493635e2ee052e *01 - Track 1.flac
+e13e106b5fcf80c3fe4193e315f78cce *02 - Track 2.flac
+5a9d012c03819e38830c1ec1f896a069 *03 - Track 3.flac
+6f63f4b078ad3fce2b973e1bad4fc3d8 *04 - Track 4.flac
+2a782575ac379ef437c39f62c23c04a9 *05 - Track 5.flac
+1438ff2cebd08731e8e55de969daad54 *06 - Track 6.flac
+d3b6d5403498a2d2a2e571f927a7b7e5 *07 - Track 7.flac
+bce5298480912852102bddbfce76f29a *08 - Track 8.flac
+45f39496ab91ea0e58c6d7079aa82731 *09 - Track 9.flac
+bb0e5ef28099f8031c072fbbc96c0503 *10 - Track 10.flac
+24c2c55bb8b07b69d7dd32d0a278caab *11 - Track 11.flac
+2f166ac02df4b0eca3961a57fd79d025 *12 - Track 12.flac
+fde8fcfa396c5381780524ff90af588c *13 - Track 13.flac
+804db9acecbd8f546e128022602e37d5 *14 - Track 14.flac
+6609ea019141dfad9ff4f97bdeb3fad5 *15 - Track 15.flac
+
+No errors occured.

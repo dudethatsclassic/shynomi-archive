@@ -1,0 +1,121 @@
+Ryan Adams
+Shubert Theatre
+Boston, MA
+May 20, 2022
+
+** 16 BIT **
+
+Source:  Sony ECM-MS907 Stereo mic (under a t-shirt on my shoulder) > Roland R-05 @ 24 bit/48 kHz
+Mastering:  .WAV > iZotope RX9 Advanced v9.0.0.1130 (De-click) > Sound Forge Pro 14.0 Build 140 [minor edits, normalize, & fades; coreFX cFX Limiter plug-in (limit loud crowd noise)Boz Digital Labs
+T-Bone plug-in (slant EQ) > CDWav (tracking) > iZotope MBIT+ (dithered and downsampled to 16 bit/44.1 kHz) > Trader's Little Helper (level 5) > FLAC > TagScanner 6.0.35 (tagging)
+Location:  Second row balcony for first 45 minutes or so, then took open seat in front row balcony for the remainder of the show
+Recorded by:  Jim Kelly (musicjaime)
+Mastered by:  Dennis Orr
+
+Setlist: (2:41:43)
+01 Crowd
+02 Oh My Sweet Carolina
+03 Chat
+04 Where Everybody Knows Your Name
+05 16 Days
+06 Everybody Knows
+07 Chat & Tuning
+08 Invisible Riverside
+09 Chat
+10 Gimme Something Good
+11 Kim
+12 Trouble
+13 Am I Safe?
+14 Chat & Tuning
+15 My Wrecking Ball
+16 Stay With Me
+17 Shadows
+18 Feels Like Fire
+19 Japanese Priest (1)
+20 I Just Might
+21 Tired Of Giving Up
+22 Let Go
+23 Chat & Tuning
+24 When The Stars Go Blue
+25 Chat & Tuning
+26 Answering Bell
+27 What Sin Replaces Love?
+28 Do You Still Love Me?
+29 Prisoner
+30 Chat & Tuning
+31 Doomsday
+32 Chat & Tuning
+33 Haunted House
+34 Shiver And Shake
+35 To Be Without You
+36 Anything I Say To You Now (with false start)
+37 Breakdown
+38 Outbound Train
+39 Broken Anyway
+40 Tightrope
+41 We Disappear
+42 Chat
+43 Romeo & Juliet
+44 Do I Wait?
+45 Stove
+46 Chat & Tuning
+47 Come Pick Me Up
+
+(1) Improvised song
+
+Ryan Adams - vocals, guitar, & harp
+
+Taper Notes:
+There was one long set, with 2 brief pee breaks for Ryan. The breaks are at 1:15:26 (during track 23) and 2:21:11 (during track 42). The files are faded out and back in at hese points, no music or 
+comments were lost.
+
+Mastering Notes:
+Some minor rustle in a couple of places as the mics rubbed on the t-shirt
+
+RyanAdams2022-05-20t01.flac:934cad3669ac78b0eee43b5fd440e10b
+RyanAdams2022-05-20t02.flac:fcedccdfcd5e6fe795983b93b807812d
+RyanAdams2022-05-20t03.flac:6469361bcab966d36468092101a374d3
+RyanAdams2022-05-20t04.flac:36a0a5a84d402d82c519d8fc5e4ee762
+RyanAdams2022-05-20t05.flac:ff1626d108d1d586e6760f4c55cfd01d
+RyanAdams2022-05-20t06.flac:663426f9005a51340d223fbc58ad3b4e
+RyanAdams2022-05-20t07.flac:0b8e5335f15e80ba3dba7ff780369581
+RyanAdams2022-05-20t08.flac:08a9d4e3b957cc0a1e38a70dcd385475
+RyanAdams2022-05-20t09.flac:ae4748a643bf64ba80e05c21cff8e7f4
+RyanAdams2022-05-20t10.flac:4af74136c0df2ac670cfa5c4220b57d1
+RyanAdams2022-05-20t11.flac:c4f4d39d9bc679af07d5f719f7ed24af
+RyanAdams2022-05-20t12.flac:88235486413b6cc80d98b3298399382a
+RyanAdams2022-05-20t13.flac:e0c463ef334d6f12e665720527f75492
+RyanAdams2022-05-20t14.flac:975589bdc7410fe78346185ef176eeb5
+RyanAdams2022-05-20t15.flac:f95d004c6d6c84969af3ac1dab177900
+RyanAdams2022-05-20t16.flac:ecfd7c1afa78befa4a2ff15bef71a9fc
+RyanAdams2022-05-20t17.flac:8426b01222b19f9e752f923153eac9ec
+RyanAdams2022-05-20t18.flac:fb2be373198db68b4b126bcc53e4c40d
+RyanAdams2022-05-20t19.flac:5eb046fb86ac909bce835e32598856a6
+RyanAdams2022-05-20t20.flac:496dbb4798cb989117f98430ac211ce4
+RyanAdams2022-05-20t21.flac:80543185e804697a819b6262b062a992
+RyanAdams2022-05-20t22.flac:edefb75f7022754477c2e6b6620c9116
+RyanAdams2022-05-20t23.flac:ec8115aaf4da975b8c1585745d7ffbd2
+RyanAdams2022-05-20t24.flac:f7e2f86f082cab3a23010d9a34fa900e
+RyanAdams2022-05-20t25.flac:f0e8788d9e7b3ed321e95d279a2906bc
+RyanAdams2022-05-20t26.flac:cc14fe4cffdd9b9911fbffe2768a2692
+RyanAdams2022-05-20t27.flac:826602f722baca1a121787319ba12bca
+RyanAdams2022-05-20t28.flac:5d1142702255a2d10773f96848e2fb22
+RyanAdams2022-05-20t29.flac:a2dc51d3fd9c17ede59ccc2d8f0fd03f
+RyanAdams2022-05-20t30.flac:4e0c50d92049a8a3c61e4088aa9f4fd3
+RyanAdams2022-05-20t31.flac:bb817f20922905e6550390001e58bc4e
+RyanAdams2022-05-20t32.flac:492dfcabec22117cab6fc31aa869b0af
+RyanAdams2022-05-20t33.flac:7553492cff7e38541a77b994a564648f
+RyanAdams2022-05-20t34.flac:0008a731898b2087cfbf09fbb11df576
+RyanAdams2022-05-20t35.flac:9f97769040e662edad5a76c9dd0fb238
+RyanAdams2022-05-20t36.flac:120afd2e2f78967214e455ba76d66f01
+RyanAdams2022-05-20t37.flac:7aada403cfbdff98101e489d89702b5f
+RyanAdams2022-05-20t38.flac:0fe82759763fdeadf0c4aa82e04e93c3
+RyanAdams2022-05-20t39.flac:98be545e73d4d283fccbdd5a789c06a6
+RyanAdams2022-05-20t40.flac:d2e8b754ef9f362a6c611765baec067f
+RyanAdams2022-05-20t41.flac:17323e0a4e3a52ec174275cb2416d3bd
+RyanAdams2022-05-20t42.flac:3154e517d837a587956053665042a5c8
+RyanAdams2022-05-20t43.flac:7d31bf32d907dbdba5703c0f96abf24b
+RyanAdams2022-05-20t44.flac:c01dbad81a16a3e778fdcdb13fcd238a
+RyanAdams2022-05-20t45.flac:22b7fc456b3d60f109578e9a128c81e4
+RyanAdams2022-05-20t46.flac:c4e4850ab918e83256341077b485b4b1
+RyanAdams2022-05-20t47.flac:9ae855d9713ee645c4aa876f7bd26e08

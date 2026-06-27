@@ -1,0 +1,63 @@
+Björk                                                                     BEST BOOT ONE
+OLÉ                                                                       
+
+
+Björk live at the 4th International Festival of Indie Music in Benicassim, Spain August 9th, 1998.
+
+
+Original silver CD>EAC>MKWact>SHN
+Scans by: Tony
+
+
+
+01 Hunter
+02 Come To Me
+03 Venus As A Boy
+04 Possible Mayby (Possibly Maybe)
+05 Improvisation (I Go Humble)
+06 Human Behavour (Human Behaviour)
+07 Bachelorette
+08 5 Years
+(09) Hyper Ballade (HyperBallad)
+09 (10) Violently Happy
+10 (11) Pluto
+11 (12) Joga
+12 (13) I Play Dead (Play Dead)
+13 (14) So Broken
+
+
+
+C:\Media\BjorkOLE>shntool len *shn
+    length     expanded size   cdr  WAVE  probs   filename
+     4:48.29      50871452     ---   --    -xx    01 Hunter.shn
+     4:25.40      46840124     ---   --    -xx    02 Come To Me.shn
+     4:49.23      51033740     ---   --    -xx    03 Venus As A Boy.shn
+     5:51.23      61970540     ---   --    -xx    04 Possibly Maybe.shn
+     4:32.01      47983196     ---   --    -xx    05 I Go Humble.shn
+     3:58.06      41997356     ---   --    -xx    06 Human Behaviour.sh
+     5:28.21      57908636     ---   --    -xx    07 Bachelorette.shn
+     4:15.09      45003212     ---   --    -xx    08 5 Years.shn
+     5:07.36      54239516     ---   --    -xx    09 Hyperballad.shn
+     5:38.57      59757308     ---   --    -xx    10 Violently Happy.sh
+     3:44.34      39593612     ---   --    -xx    11 Pluto.shn
+     5:25.56      57461756     ---   --    -xx    12 Joga.shn
+     5:12.61      55180316     ---   --    -xx    13 Play Dead.shn
+    10:09.13     107458220     ---   --    -xx    14 So Broken.shn
+    73:26.34     777298984 B                      (totals for 14 files)
+
+
+Section reposts to the main group ONLY.
+
+
+
+Enjoy!
+
+
+
+Tony
+
+
+
+
+
+  

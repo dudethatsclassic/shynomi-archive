@@ -1,0 +1,155 @@
+Metallica
+
+1983-08-30
+Country Club
+Reseda, CA
+
+Source: AUD>CASS>CDR>EAC(secure)>WAV>FLAC(lvl8)
+
+01. Ectsacy Of Gold/Hit the Lights
+02. Four Horsemen
+03. Fight Fire with Fire
+04. Call Of Ktulu Jam
+05. Phantom Lord
+06. No Remorse
+07. Seek & Destroy
+08. (Anesthesia) Pulling Teeth
+09. Whiplash
+10. Kirk Solo
+11. Metal militha
+
+Notes:
+I got this show directy from the guy who transfered it from his cass. The Freq analysis looks kinda like mp3 but this isnt possible because the guy i got it from transfered it from a OLD cass of his. Considering the age and rarity of this show i am quite happy with the sound. I love these old shows!
+
+                      Enjoy!
+                          
+                         ~ Bubba420 ~
+
+FLAC Fingerprint:
+
+Track01.flac:dbd8a6e4f8fcbcb973d6ef4eee62f81b
+Track02.flac:9b42d6317eb9569e4ccb3200a83d7550
+Track03.flac:5a075d9f6f1d94877e61d4e9e94e387c
+Track04.flac:45173e4be0711d059d58af9bccbbc002
+Track05.flac:d1b36fa3accfe12154cc46635a1a2896
+Track06.flac:25286a0407f3e817c91efb90f2088f90
+Track07.flac:3c3d00e04ea0d88486fd90c86e5e1cbe
+Track08.flac:8198597a6e4df8a74e62ca42dfba1be6
+Track09.flac:de6658604665d910f75fd394fd5e82ac
+Track10.flac:9ddabb3dce1c7265e5e7bcaedbd1fea8
+Track11.flac:42a6b1f9e43950f51b686e8d2d1fcbd3
+
+
+EAC LOG:
+
+EAC extraction logfile from 19. August 2005, 3:17 for CD
+Unknown Artist / Unknown Title
+
+Used drive  : LG      CD-RW CED-8120B   Adapter: 0  ID: 0
+Read mode   : Secure with NO C2, accurate stream, NO disable cache
+Combined read/write offset correction : 0
+Overread into Lead-In and Lead-Out : No
+
+Used output format : Internal WAV Routines
+                     44.100 Hz; 16 Bit; Stereo
+
+Other options      : 
+    Fill up missing offset samples with silence : Yes
+    Delete leading and trailing silent blocks : No
+    Installed external ASPI interface
+
+
+Track  1
+     Filename C:\My Documents\Metallica 1983-11-04 Reseda, CA\Track01.wav
+
+     Peak level 66.9 %
+     Track quality 99.9 %
+     Copy CRC 98941E3E
+     Copy OK
+
+Track  2
+     Filename C:\My Documents\Metallica 1983-11-04 Reseda, CA\Track02.wav
+
+     Peak level 62.6 %
+     Track quality 100.0 %
+     Copy CRC EA59357F
+     Copy OK
+
+Track  3
+     Filename C:\My Documents\Metallica 1983-11-04 Reseda, CA\Track03.wav
+
+     Peak level 64.7 %
+     Track quality 99.8 %
+     Copy CRC 4033A02A
+     Copy OK
+
+Track  4
+     Filename C:\My Documents\Metallica 1983-11-04 Reseda, CA\Track04.wav
+
+     Peak level 78.2 %
+     Track quality 99.8 %
+     Copy CRC 96597279
+     Copy OK
+
+Track  5
+     Filename C:\My Documents\Metallica 1983-11-04 Reseda, CA\Track05.wav
+
+     Peak level 82.4 %
+     Track quality 99.9 %
+     Copy CRC A456FEE5
+     Copy OK
+
+Track  6
+     Filename C:\My Documents\Metallica 1983-11-04 Reseda, CA\Track06.wav
+
+     Peak level 90.3 %
+     Track quality 100.0 %
+     Copy CRC 03EBA255
+     Copy OK
+
+Track  7
+     Filename C:\My Documents\Metallica 1983-11-04 Reseda, CA\Track07.wav
+
+     Peak level 69.1 %
+     Track quality 99.8 %
+     Copy CRC 8906454D
+     Copy OK
+
+Track  8
+     Filename C:\My Documents\Metallica 1983-11-04 Reseda, CA\Track08.wav
+
+     Peak level 76.0 %
+     Track quality 99.9 %
+     Copy CRC 8551BC7C
+     Copy OK
+
+Track  9
+     Filename C:\My Documents\Metallica 1983-11-04 Reseda, CA\Track09.wav
+
+     Peak level 81.5 %
+     Track quality 99.9 %
+     Copy CRC 835A7510
+     Copy OK
+
+Track 10
+     Filename C:\My Documents\Metallica 1983-11-04 Reseda, CA\Track10.wav
+
+     Peak level 74.4 %
+     Track quality 99.9 %
+     Copy CRC A8E1392A
+     Copy OK
+
+Track 11
+     Filename C:\My Documents\Metallica 1983-11-04 Reseda, CA\Track11.wav
+
+     Peak level 93.8 %
+     Track quality 99.8 %
+     Copy CRC 74ABC292
+     Copy OK
+
+No errors occured
+
+
+End of status report
+
+

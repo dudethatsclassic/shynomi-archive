@@ -1,0 +1,37 @@
+Local H
+Ponte Vedra Concert Hall
+Ponte Vedra, FL 
+October 12, 2025
+
+Lineage: 
+Panasonic MM-BSM-7's >Tascam DR-05X >44.1khz, 16bit wave
+>SanDisk microSD card >Audition 1.5 >wave >TLH >FLAC(level 8). 
+
+Location: 
+GA floor center. Midway between stage and soundboard.
+
+Taper: 
+kevdogg 
+
+Set/Track List: 
+1. High-Fiving MF
+2. Cynic
+3. Fritz's Corner
+4. Everyone Alive
+5. Hands on the Bible
+6. California Songs
+7. Bound for the Floor (w/TV Eye)
+8. That's What They All Say
+9. Wolf Like Me
+
+Notes: 
+Opening for Everclear on the Sparkle & Fade 30th anniversary tour. Sponge opened for Local H.
+All were recorded. It's cool how they changed up the setlist so often on this tour and they did a great
+job keeping the staples interesting for every show. I also made it to Orlando and now I want to see
+a headline gig. This was my first visit to this venue since the major remodeling and I think it turned
+out well. The new p.a. is small but it sounds great; a pair of L-Acoustics L2D's and various center
+and side fills along the walls and ceiling. I'm looking forward to catching some more good bands
+at this place. In Audition I gave a subtle increase in the 2-6.3khz range with the EQ and a hard limit
+to -.1db with a 8db boost. I am quite pleased with the results. Cover art is included in the torrent.
+Enjoy the show.
+-kevdogg

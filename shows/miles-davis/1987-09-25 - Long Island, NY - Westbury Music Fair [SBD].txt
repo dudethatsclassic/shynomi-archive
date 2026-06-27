@@ -1,0 +1,36 @@
+Miles Davis Octet
+09-25-1987
+Westbury Music Fair
+Long Island, New York
+
+Project ID - LL189
+
+Source:
+Lineage: DR-1 > Lunatec v2 > Kork MR-1000 > DSD-DFF 1bit 5.64MHz > Audio Gate > 24/44.1 > wavelab 5 > plugins > 16/44.1 > cd wave > flac lvl 8
+
+Miles Davis (tp);
+Kenny Garrett (as, fl);
+Robert Irving III, Adam Holzman (synth);
+Joe "Foley" McCreary (lead-b);
+Darryl Jones (el-b);
+Ricky Wellman (d);
+Mino Cinelu (perc)
+
+disc 1
+01. Speak
+02. Star People [New Blues]
+03. Perfect Way
+04. The Senate / Me & U
+05. Human Nature
+
+disc 2
+01. Wrinkle
+02. Tutu
+03. Splatch
+04. Time After Time
+
+Notes:
+- 04: There is a slight anomaly at 6:04 folowed by a static burst at 6:14.
+- d2t3: There was ear-piercing feedback at 5:15, I wrestled with the idea of deleting it and cross fading but decided to lower the levels to a point that allows it to pass without knocking you out of your chair in the spirit or preservation. There are some digital errors at 5:39, 5:40 this flaw also.
+- A good show, great source. Klaus from Kind Of Blue also has "Carnival Time" and "Tomaas"
+listed after "Time After Time" for this set. These tracks are missing from this source. 

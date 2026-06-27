@@ -1,0 +1,52 @@
+Herbie Hancock Quartet
+Sunpalace Hall
+Fukuoka, Japan
+September 9, 1987
+
+Soundboard recording (unknown gen)
+CDs received by agalli in trade
+Lineage: ? > CDR > EAC > WAV > Audacity > MATLAB > TLH > FLAC (L8)
+
+SET LIST:
+01. Herbie Hancock Intro
+02. Limehouse Blues
+03. Dolphin Dance > 
+04. Ron Carter Solo > Opus 1.5   
+05. Just One Of Those Things 
+06. Herbie Hancock speaks
+07. Sister Cheryl
+08. Loose Change
+09. Autumn Leaves
+10. Citadel
+11. Maiden Voyage
+12. Herbie Hancock Outro
+
+Running time: 125:27
+
+BAND:
+Herbie Hancock: Piano
+Michael Brecker: Tenor Sax
+Ron Carter: Bass
+Tony Williams: Drums
+
+
+Notes:
+-definitely a soundboard recording. The music plays clearly, but very little audience in the mix.
+-last concert on this Japanese tour
+
+-automatically corrected channel phase alignment (a lot of slow variation, off by as much as 19 samples)
+-automatically balanced levels
+-pitch/speed corrected because it was generally transferred slow, but it had a lot of gradual variation
+-started 2.0% slow, 8 minutes into track 2 it started getting slower and ended 2.4% slow, stayed there
+ until 11 minutes into track 3, then started getting faster and ended 1.75% slow, then stayed there 
+ until the cut at 03:10 of track 5
+-after the cut in the middle of track 5, it started 2.6% slow but it got progressively faster, reaching 
+ 2.1% slow 8 minutes into track 5, then there's a cut
+-track 6/7 were 1.3% slow, then cut
+-track 8 was 0.7% slow, then cut
+-track 9 started 1.0% slow, then got progressively slower, reaching 2.4% slow by 7 minutes in, then cut
+-track 10 started 1.4% slow, then got progressively faster reaching 1.1% by 4 minutes in, and by the 
+ start of track 11 it was 1.0% slow, stayed there until 3:30 into track 11 and transitioned to 1.3% slow,
+ then stayed at 1.3% slow until the end
+-I kept a fair amount of superfluous tape silence
+Ross (ledwhofloyd), Sept. 2025

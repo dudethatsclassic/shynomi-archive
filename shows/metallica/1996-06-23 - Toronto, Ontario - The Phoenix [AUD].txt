@@ -1,0 +1,23 @@
+2CD
+title : Load of...
+country : Japan    release : 1997
+company : 8-Ball    code : 018/019
+sound : Audience(Vg+),Audience(Vg+)
+
+06/23/96  Disc-1,Disc-2 1-6:The Phoenix,Toronto,Ontario,CANADA
+06/04/96  Disc-2 7-12:Tower Records Flatbed Show,San Jose,Carifornia,US
+
+   Disc-1                         Disc-2
+ 1:So What!                     1:Nothing else Matters
+ 2:Creeping Death               2:Enter Sandman
+ 3:Sad but True                 3:Last Caress
+ 4:Ain't My Bitch               4:Master of Puppets
+ 5:Whiplash                     5:Overkill
+ 6:Fade to Black                6:Motorbreath
+ 7:King Nothing                 7:So What!
+ 8:Until it Sleeps              8:Creeping Death
+ 9:For whom the Bell Tolls      9:Ain't My Bitch
+10:Wherever I May Roam         10:Until it Sleeps
+                                  Sad but True
+                               11:Sad but True(retry)
+                               12:Whiplash

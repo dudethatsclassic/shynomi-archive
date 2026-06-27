@@ -1,0 +1,77 @@
+The Shins
+April 17, 2005
+The Kool Haus
+Toronto, Ontario
+Canada
+
+Taper:       Fares Halteh
+Source:      Schoeps ccm41 > Sound Devices 722
+Location:    front right side of soundboard, mic stand ~40 ft back
+Conversion:  722 > firewire > HD
+Resampling:  192k/24bit software downsampled in Sound Forge 8.0 44.1k/16bit
+Editor:      Fares Halteh
+Editing:     cd wave editor
+FLAC:        master WAVs > Sound Forge 8.0 > cd wave editor
+Note:        This is an incomplete recording. The first song and a half is missing              
+             and there is a drop out in "When I Goose-Step"
+
+**********************************************************************
+	                      share the music!
+**********************************************************************
+
+
+Disc 1                                                        Length
+----------------------------------------------------------   --------
+
+01 - The Celibate Life                                         02:12
+02 - Mine's Not a High Horse                                   03:36
+03 - Girl Inform Me                                            02:49
+04 - When I Goose-Step                                         03:00
+05 - Pink Bullets                                              04:54
+06 - Turn a Square                                             02:58
+07 - Strange Powers [The Magnetic Fields]                      02:49
+08 - One by One All Day                                        07:48
+09 - Saint Simon                                               04:23
+10 - Won One too Many Fights                                   03:30
+11 - Pressed in a Book                                         05:03
+12 - New Slang                                                 04:26
+13 - Young Pilgrims                                            03:44
+14 - We Built a Raft and we Floated                            02:44
+15 - Know Your Onion!                                          02:41
+16 - So Says I                                                 02:51
+---encore---
+17 - Kissing The Lipless                                       04:26
+18 - Girl on the Wing                                          02:46
+19 - Gone for Good                                             03:18
+
+69:58
+
+
+Fares Halteh <Halteh3 AT Rogers DOT com>
+
+- Compiled by Fares Halteh, 2005.04.21
+
+special thanks to the soundman and tour manager for going through all the trouble so I can tape this show. 
+
+
+
+f554833ace03d58f8e1104e5b13fac88 *TheShins2005-04-17d1t01.flac
+da679bdba50f69fc42d4d5c8ea5fb55b *TheShins2005-04-17d1t02.flac
+bfca2f4ccec4619d6334a89a6558ebe7 *TheShins2005-04-17d1t03.flac
+cfc9723c6e26e80b9f5fd4b1ecf7d87f *TheShins2005-04-17d1t04.flac
+f15f03590013dfce423f200204b68949 *TheShins2005-04-17d1t05.flac
+d477f584bd7426c620700f66830d8d50 *TheShins2005-04-17d1t06.flac
+4f154dfc2fd426920c9b049ea91f0d85 *TheShins2005-04-17d1t07.flac
+8df94ce95f9f2fa3f78903962d716540 *TheShins2005-04-17d1t08.flac
+2a896c5428e77267a9175530b295f510 *TheShins2005-04-17d1t09.flac
+17450aeecb0259a3400d22d383131169 *TheShins2005-04-17d1t10.flac
+8316b392007f1d5045c82e201c1bbbd6 *TheShins2005-04-17d1t11.flac
+078c19152ac83bd65b7db2002c9e6b9f *TheShins2005-04-17d1t12.flac
+61f065bfddef3033d98b66d5887404f5 *TheShins2005-04-17d1t13.flac
+f42ea3ddbe596d2ee7491404ddcdaa78 *TheShins2005-04-17d1t14.flac
+cf46a6d0ca683d408e3273efd2357098 *TheShins2005-04-17d1t15.flac
+4cf0cdb971ead9a44ad802cde83e731b *TheShins2005-04-17d1t16.flac
+06ffcb29d2a19c5c87f502527649957e *TheShins2005-04-17d1t17.flac
+5223a28b510618c90448974a52031b7d *TheShins2005-04-17d1t18.flac
+156a04d298102d0aaf6448617729864d *TheShins2005-04-17d1t19.flac
+

@@ -1,0 +1,85 @@
+Miles Davis Quintet
+10-01-1964 (Early)
+Salle Pleyel 
+Paris, France
+
+Project ID - LL138
+
+Source: FM Broadcast
+Lineage: ORTF radio broadcast > ?? > disk 1 of the fall 64 Miles Tree > 
+?? > wave > flac
+
+Miles Davis (tpt); Wayne Shorter (ts); Herbie Hancock (p); Ron Carter (b); 
+Tony Williams (d)
+
+disc 1
+
+d1t01. Autumn Leaves
+d1t02. So What/
+d1t03. Stella by Starlight
+d1t04. Walkin'> The Theme
+ 
+-------------------------------------------------------
+
+Notes:
+
+- d1t01: There are instances of light static throughout this track
+
+- d1t02: There are some light static bursts at :07, :09, :14, 8:41, 8:43. There 
+is a signifigant drop in levels at 4:44 - 4:46, and 4:58. The track fades as the music 
+is still playing
+
+- d1t03: There is a tapping sound starting at about 4:40 and ending when the tempo drops 
+back at 6:44. It sounds as though it's under the music, so I'm not sure exactly what the 
+source is. It doesn't sound like a natural occurance in the music but I have my doubts it 
+digi noise, or static as it is usually right on the beat. 
+
+- d1t04: This track also has the tapping sound from the start to about the one minute mark. 
+It alsmost seems as though it's may be the high hat cymbal causing the noise somehow. Slight
+drop out at 2:33, 5:21, 7:10- 7:12, 8:43 . 
+
+- Not a bad source. A little hollow sounding and heavy on the high end, but very 
+listenable. All tracks have a 2 second gap between play. 
+
+- According to Peter Losin's site, this date should also have "All of you" and "The 
+Theme" but they are missing from this source. 
+
+-  "So What" was apparently only broadcast in this incomplete form. Tapes in general 
+circulation include incomplete versions of "All of You" (10:52) and "Joshua" (9:18). 
+The "Miles Impro" included on Moon MCD 021 is an excerpt of "Joshua" from Stockholm, 
+October 3 -- not from this concert."- Credit to Peter Losin, http://www.plosin.com/
+
+- QC done by Bgreen
+
+md5
+914697cc34ecec918dbc2edc4013675d *md1964-10-01E.LL138.d1t01.flac
+e1136bed50a3963927b0540c22951a28 *md1964-10-01E.LL138.d1t02.flac
+f758a61e0627cb5d98dca63d7adc70be *md1964-10-01E.LL138.d1t03.flac
+f05297412f060134f5b0f4c73bcd7462 *md1964-10-01E.LL138.d1t04.flac
+
+ffp
+md1964-10-01E.LL138.d1t01.flac:3902d3f107e8486d1baa6cad7ee77ef1
+md1964-10-01E.LL138.d1t02.flac:fc6fcef29c4fca40973f9c18f4b12a5f
+md1964-10-01E.LL138.d1t03.flac:016ce65f24a3d8d67aad903a39cff801
+md1964-10-01E.LL138.d1t04.flac:c863a0350379538c02dd41eda1bfabe2
+
+shntool
+length     expanded size   cdr  WAVE problems filename
+    12:29.25      132182444    ---   --   ---xx   md1964-10-01E.LL138.d1t01.flac
+     8:53.62       94167068    ---   --   ---xx   md1964-10-01E.LL138.d1t02.flac
+    11:13.62      118863068    ---   --   ---xx   md1964-10-01E.LL138.d1t03.flac
+     9:48.63      103871420    ---   --   ---xx   md1964-10-01E.LL138.d1t04.flac
+    42:25.62      449084000 B                     (totals for 4 files, 0.3799 overall compression ratio)
+
+
+spectral analysis from TLH
+md1964-10-01E.LL138.d1t01.wav:  track looks like MPEG with probability 93%
+md1964-10-01E.LL138.d1t02.wav:  track looks like MPEG with probability 100%
+md1964-10-01E.LL138.d1t03.wav:  track looks like CDDA with probability 85%
+md1964-10-01E.LL138.d1t04.wav:  track looks like CDDA with probability 43%
+
+old md5 
+d01t01.flac:3902d3f107e8486d1baa6cad7ee77ef1
+d01t02.flac:016ce65f24a3d8d67aad903a39cff801
+d01t03.flac:fc6fcef29c4fca40973f9c18f4b12a5f
+d01t04.flac:c863a0350379538c02dd41eda1bfabe2

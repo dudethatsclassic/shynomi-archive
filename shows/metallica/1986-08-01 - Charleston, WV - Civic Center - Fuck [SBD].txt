@@ -1,0 +1,29 @@
+ARTIST.....: Metallica
+ALBUM......: FUCK
+VENUE......: Civic Center
+CITY.......: Charleston, WV
+DATE.......: August 01, 1986
+LABEL......: None - Bootleg
+SOURCE.....: Soundboard
+FORMAT.....: 12" Blue Vinyl
+
+RIPPER.....: LiQuiDz
+RIP.DATE...: 2016 - January
+TURNTABLE..: Rega RP1
+CARTRIDGE..: Rega Carbon (MM)
+PHONOSTAGE.: Cambridge Audio 651P
+ADC........: Focusrite Scarlett 2i2 USB Interface
+FORMAT.....: FLAC 24bit-48KHz
+
+Tracklist..:
+
+A1. Battery
+A2. Master of Puppets
+A3. For Whom the Bell Tolls
+B1. Welcome Home (Sanitarium)
+B2. Seek and Destroy
+B3. Creeping Death
+B4. Damage inc
+
+
+This show features John Marshall on rhythm guitar.

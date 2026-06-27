@@ -1,0 +1,39 @@
+BECK
+August,27, 1995
+Lowlands Festival
+Biddinghuizen, The Netherlands
+
+
+DISC #1/1 (15:29)
+-----------------
+01) Asshole 
+02) Beercan
+03) Jimmy Carter
+04) Pay No Mind
+
+
+GENERATION
+-----------------
+FM -> ANA(1) -> WAV [44.1kHz] -> FLAC [Level 8]
+
+
+SOURCE 
+-----------------
+soundboard -> Unknown
+
+
+TRANSFER
+-----------------
+Nakamichi DR-3 -> Audacity 1.2.6 -> CD Wave 1.95.1 -> FLAC Frontend 1.7.1
+
+
+NOTE
+-----------------
+Recorded from FM radio in 1995, this is all that was aired.
+
+
+INFO
+-----------------
+Taped & Transferred by Laurens van der Weijden.
+PLEASE DO NOT ENCODE TO MP3 OR SELL!
+

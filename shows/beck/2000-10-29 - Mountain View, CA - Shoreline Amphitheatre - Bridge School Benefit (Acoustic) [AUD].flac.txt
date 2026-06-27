@@ -1,0 +1,45 @@
+Beck
+10-29-00
+Shoreline Amphitheatre
+Mountain View, CA
+Bridge School Benefit - Nite 2 (Acoustic Show)
+
+Source: Schoeps mk5 (omni) > Bill Rutelhuber Box > M1  (FOB)
+
+Conversion: Conversion: Sony D8 -> MIT Terminator S/PDIF -> M-Audio DiO24/96 ->
+	    Cool Edit 2000 (44.1 kHz, same as DAT Master) -> CD Wav 1.71 -> mkwACT v0.97 Beta1
+
+Taped by: Chris Howell and crew
+Transferred by: Jered Haddad (funktopu@midsouth.rr.com)
+
+
+Setlist
+
+1. Tropicalia
+2. Bottled Blues
+3. Sing It Again
+4. Nobody's Fault
+5. Go Easy (John Martyn cover)
+6. O Maria
+7. Static
+8. Burro
+
+*Filler:  Red Hot Chili Peppers 
+	  Acoustic set after Beck's performance, 10.29.00, Bridge School Benefit (same source)
+          This filler was originally included in the mkwACT checksum with the Beck show
+          Both Beck and RHCP may or may not all fit onto one CD
+----------------------------------------------------------------------------------------------
+December 6, 2004:
+
+This show was transferred from DAT to Cool Edit at an incorrect sample rate of 44.1 kHz by the seeder. I have reset the sample rate to 48 kHz (the actual DAT sample rate) and resampled at 44.1 kHz to correct the speed. I have reencoded to FLAC using FLAC frontend 1.7.1 using quality level 8. So, the new source/conversion/lineage is:
+
+Schoeps mk5 (omni) > Bill Rutelhuber Box > M1  (FOB) > Sony D8 -> MIT Terminator S/PDIF -> 		M-Audio DiO24/96 -> Cool Edit 2000 (44.1 kHz, same as DAT Master) -> CD Wav 1.71 ->            mkwACT v0.97 Beta1 > mkwACT v0.97 --> WAV --> Sony Soundforge 7.0a --> resampled -->
+	FLAC frontend 1.7.1
+
+I also made some changes to the tracklisting. O MAria was listed as Ovarie (laugh) and the John Martyn cover was left out.
+
+Now, enjoy this recording as it was meant to be heard.
+
+breathmint
+breathmint@hotmail.com
+becktabs.homeunix.org

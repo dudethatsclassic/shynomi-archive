@@ -1,0 +1,90 @@
+Billy Corgan (William Patrick Corgan)
+June 25th 2019
+TivoliVredenburg Hertz
+Utrecht, NL
+
+SOURCE (AUD#1):
+Internal Mics > iPhone SE
+
+TRANSFER:
+iPhone SE > Adobe Audition > CD Wave Editor > Trader's Little Helper 2.8.4 > FLAC
+
+GENERATION:
+M4A(M) > WAV > FLAC
+
+LENGTH:
+125:29
+
+SET ONE:
+01. Gotta Get Yours
+02. Hard Times
+03. To Scatter One's Own
+04. Faithless Darlin'
+05. Apologia
+06. Cri de Coeur
+07. Buffalo Boys
+08. Dancehall
+09. Aeronaut
+10. Processional
+11. Half-Life of an Autodidact
+12. The Long Goodbye
+13. Mandarynne
+14. Along the Santa Fe Trail [Ray Noble and His Orchestra]
+
+SET TWO:
+15. Wound
+16. Thirty-Three
+17. Spaceboy
+18. Violet Rays
+19. Endless Summer 
+20. Tonight, Tonight
+21. 1979
+22. Shame
+23. Travels
+24. Disarm
+25. (encore break)
+
+ENCORE:
+26. Today
+
+NOTES:
+A massive thank you to the taper for sending this through to us for release  
+
+*******************
+The SPLRA team have converted the M4A to a WAV file to indicate there is no upgrade to the original master which was recorded in M4A format
+*******************
+
+MD5 FINGERPRINTS:
+20cc23b725beeab682d592a25a4164db *Billy Corgan 2019-06-25 AUD1 t01 Gotta Get Yours.flac
+3272e87a9ce8b4a92c5dfb7c562dac79 *Billy Corgan 2019-06-25 AUD1 t02 Hard Times.flac
+cf14ee9a4e9568df546289b082004ae2 *Billy Corgan 2019-06-25 AUD1 t03 To Scatter One's Own.flac
+03ac504d7656b7226065629f41bc85fa *Billy Corgan 2019-06-25 AUD1 t04 Faithless Darlin'.flac
+51f53b647e9dccc5e22a8dc6ef7c61c4 *Billy Corgan 2019-06-25 AUD1 t05 Apologia.flac
+22df7a9def1f3ff6d89de136d1aa4e87 *Billy Corgan 2019-06-25 AUD1 t06 Cri de Coeur.flac
+315fd1df3b06d5b0dabd28d05dd3e47a *Billy Corgan 2019-06-25 AUD1 t07 Buffalo Boys.flac
+d24ee06f893f6ec1c2f25be75104ecdd *Billy Corgan 2019-06-25 AUD1 t08 Dancehall.flac
+830ecbc8d38fee98e8e248f90eb22e72 *Billy Corgan 2019-06-25 AUD1 t09 Aeronaut.flac
+fd8dfd3b30cb713dab234c46b16e4a14 *Billy Corgan 2019-06-25 AUD1 t10 Processional.flac
+112ea2ddffd0a785a0d422e2a7592d05 *Billy Corgan 2019-06-25 AUD1 t11 Half-Life of an Autodidact.flac
+c26a4310ebc68015e241e288610ad2c3 *Billy Corgan 2019-06-25 AUD1 t12 The Long Goodbye.flac
+8a65d57c43b63a992b50f3cd532b7692 *Billy Corgan 2019-06-25 AUD1 t13 Mandarynne.flac
+a73ec45f7e1df9f21d0c7ffe20bec1ba *Billy Corgan 2019-06-25 AUD1 t14 Along the Santa Fe Trail [Ray Noble and His Orchestra].flac
+b9114c4e886a22558b9b779b9339c1c2 *Billy Corgan 2019-06-25 AUD1 t15 Wound.flac
+63dbeacb191156358876b71ad1a16187 *Billy Corgan 2019-06-25 AUD1 t16 Thirty-Three.flac
+721b2fb0d041996060c5137112346a74 *Billy Corgan 2019-06-25 AUD1 t17 Spaceboy.flac
+79566a26518ceaa5456ffb7cb9290d38 *Billy Corgan 2019-06-25 AUD1 t18 Violet Rays.flac
+e8dd3b8b814f28c5d7d2cc0168c23313 *Billy Corgan 2019-06-25 AUD1 t19 Endless Summer.flac
+4c025d4cab7e34e790d563f0aeb860fb *Billy Corgan 2019-06-25 AUD1 t20 Tonight, Tonight.flac
+fa8063cdac3a38757d49a30cf8cdffc5 *Billy Corgan 2019-06-25 AUD1 t21 1979.flac
+f96dfc0d6eaeda419d1230e311e83a8a *Billy Corgan 2019-06-25 AUD1 t22 Shame.flac
+0712b40d0c015dbff6e51b18173caa06 *Billy Corgan 2019-06-25 AUD1 t23 Travels.flac
+322d3f9e1e07b1c1eb9fcce3b1ec0901 *Billy Corgan 2019-06-25 AUD1 t24 Disarm.flac
+ef404097853b4057585f195cfa7eb4dd *Billy Corgan 2019-06-25 AUD1 t25 (encore break).flac
+cfccd3a7b388a84a587c0c56e6c1efa3 *Billy Corgan 2019-06-25 AUD1 t26 Today.flac
+
+RECORDED BY:
+Lukas Jötten
+
+DISTRIBUTION:
+Spaldz, Nicholas Serra & Members of SPLRA
+2025-11-19

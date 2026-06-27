@@ -1,0 +1,35 @@
+auCDtect: CD records authenticity detector, version 0.8.2
+Copyright (c) 2004 Oleg Berngardt. All rights reserved.
+Copyright (c) 2004 Alexander Djourik. All rights reserved.
+
+Detect mode (0..40 with 0 = most accurate):  8 (default)
+
+
+01. Reunited.wav:  track looks like CDDA with probability 100%.
+02. The Real Thing.wav:  track looks like CDDA with probability 100%.
+03. From Out Of Nowhere.wav:  track looks like CDDA with probability 100%.
+04. Land of Sunshine.wav:  track looks like CDDA with probability 100%.
+05. Caffeine.wav:  track looks like CDDA with probability 100%.
+06. Evidence.wav:  track looks like CDDA with probability 100%.
+07. Chinese Arithmetic.wav:  track looks like CDDA with probability 99%.
+08. Surprise! You´re Dead!.wav:  track looks like CDDA with probability 100%.
+09. Easy.wav:  track looks like CDDA with probability 100%.
+10. Last Cup Of Sorrow.wav:  track looks like CDDA with probability 100%.
+11. Midlife Crisis.wav:  track looks like CDDA with probability 100%.
+12. Introduce Yourself.wav:  track looks like CDDA with probability 100%.
+13. The Gentle Art of Making Enemies.wav:  track looks like CDDA with probability 100%.
+14. Take This Bottle.wav:  track looks like CDDA with probability 100%.
+15. Ashes To Ashes.wav:  track looks like CDDA with probability 100%.
+16. Malpractice.wav:  track looks like CDDA with probability 100%.
+17. Cuckoo For Caca.wav:  track looks like CDDA with probability 100%.
+18. Be Aggressive.wav:  track looks like CDDA with probability 100%.
+19. Epic.wav:  track looks like CDDA with probability 99%.
+20. Mark Bowen.wav:  track looks like CDDA with probability 100%.
+21. Encore Break.wav:  track looks like CDDA with probability 100%.
+22. Chariots Of Fire.wav:  track looks like CDDA with probability 100%.
+23. Stripsearch.wav:  track looks like CDDA with probability 100%.
+24. We Care A Lot.wav:  track looks like CDDA with probability 100%.
+
+No errors occured.
+
+Test for MPEG log saved to file.

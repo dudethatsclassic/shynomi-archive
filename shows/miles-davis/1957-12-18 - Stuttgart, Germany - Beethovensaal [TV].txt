@@ -1,0 +1,73 @@
+Erwin Lehn Orchestra
+12-18-1957
+Beethovensaal
+Stuttgart, Germany
+
+Project ID - LL33
+
+Source: TV Broadcast
+Lineage: Süddeutsher Rundfunk broadcast
+
+Miles Davis (tpt); Horst Jankowski (p); Peter Witte (b); Hermann Mutschler (d)
+
+disc 1
+
+d1t01. Yesterdays
+d1t02. 'Round Midnight
+d1t03. Walkin'
+ 
+-------------------------------------------------------
+
+Notes:
+
+- A good TV broadcast recording with minor audible hiss. Tracks are 
+discontinuous and d1t03 is incomplete. There is a small splice in d1t01
+at 0:051.575 that can be heard as a minor “blip” in the Miles solo. No 
+other notable flaws. Tracks d1t02 and d1t03 feature Miles playing some 
+inspired solos interspersed with the big band sound of the Erwin Lehn 
+Orchestra. 
+
+- According to Peter Losin, this show is known to circulate in various 
+versions with 4 different fragments of the incomplete d1t03 "Walkin'".  
+Apparently what is in this seed is the most complete version
+with no voiceovers, listed as 4, below (all timings approximate):
+
+1. Walkin' (R. Carpenter) (rehearsal)	0:55
+With voiceover: Unknown announcer (0:06-0:21), René Urtreger's wife 
+talking about Davis's 1957 visit to Europe (0:21-0:55).
+
+2. Walkin' (R. Carpenter) (fragment)	1:56
+With voiceover: Mrs. Urtreger continues (1:35-1:56).
+
+3. Walkin' (R. Carpenter) (fragment)	0:58
+With voiceover: Unknown announcer (0:53-0:58).
+
+4. Walkin' (R. Carpenter) (incomplete)	2:17
+ - Credit to Peter Losin, http://www.plosin.com/
+
+md5
+c636717d352404a1c12907f3e995beac *md1957-12-18.LL33.d1t01.flac
+c4cd237d6b491e0c3e507288d6365a07 *md1957-12-18.LL33.d1t02.flac
+23ecc259689e45dff7d8e55518018a43 *md1957-12-18.LL33.d1t03.flac
+
+ffp
+md1957-12-18.LL33.d1t01.flac:048bfdb91bd6336de2c78649e0a1ac8f
+md1957-12-18.LL33.d1t02.flac:c5a884d540dd6a6f5e7959a056fe7877
+md1957-12-18.LL33.d1t03.flac:34b584acda7e63d0b34c477179112098
+
+st5 
+048bfdb91bd6336de2c78649e0a1ac8f  [shntool]  md1957-12-18.LL33.d1t01.flac
+c5a884d540dd6a6f5e7959a056fe7877  [shntool]  md1957-12-18.LL33.d1t02.flac
+34b584acda7e63d0b34c477179112098  [shntool]  md1957-12-18.LL33.d1t03.flac
+
+shntool
+ length     expanded size   cdr  WAVE problems filename
+     2:38.60       28012364    ---   --   ---xx   md1957-12-18.LL33.d1t01.flac
+     4:49.55       51109004    ---   --   ---xx   md1957-12-18.LL33.d1t02.flac
+     2:14.28       23703500    ---   --   ---xx   md1957-12-18.LL33.d1t03.flac
+     9:42.68      102824868 B                     (totals for 3 files, 0.3818 overall compression ratio)
+
+spectral analysis from TLH
+md1957-12-18.LL33.d1t01.wav:  track looks like CDDA with probability 76%
+md1957-12-18.LL33.d1t02.wav:  track looks like CDDA with probability 85%
+md1957-12-18.LL33.d1t03.wav:  track looks like CDDA with probability 94%

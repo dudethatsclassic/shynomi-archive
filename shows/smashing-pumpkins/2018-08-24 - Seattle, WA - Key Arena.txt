@@ -1,0 +1,123 @@
+The Smashing Pumpkins
+Key Arena
+Seattle, Washington
+August 24, 2018
+
+Lineage: LIVE Webcast -> downloaded .ts segments (batch script) -> TSSplitter (join) ->  FFmpeg (decrypt & edit) -> uncompressed .ts 
+Video: MPEG4 Video (H264) 1280x720 16:9 3650 Kbps 29.97 fps
+Audio: AAC 128 Kbps 48.0 KHz stereo
+
+"We're alternative rock" - Billy (Seatlle 8/24/18)
+
+The mother of all setlists...
+
+Setlist:
+Mellon Collie and the Infinite Sadness
+Disarm
+Rocket
+Siva
+Rhinoceros
+Space Oddity (David Bowie cover)
+Drown
+Zero Speech Interlude 
+Zero
+The Everlasting Gaze
+Stand Inside Your Love
+Thirty-Three
+Eye
+Soma
+Mark McGrath Vaudeville Interlude #1 
+Blew Away
+For Martha
+To Sheila
+Mayonaise
+Porcelina of the Vast Oceans
+-two minute sixteen second outage from arena-
+Landslide (Fleetwood Mac cover)
+Tonight, Tonight
+Stairway to Heaven (Led Zeppelin cover)
+Cherub Rock
+Mark McGrath Vaudeville Interlude #2 
+Radio Intro 
+1979
+Ava Adore
+Try, Try, Try
+The Beginning Is the End Is the Beginning
+Hummer
+Today
+Bullet With Butterfly Wings
+Muzzle
+
+Encore:
+Solara (featuring Jimmy Chamberlin on drums)
+Baby Mine (Betty Noyes cover)
+
+TRT = 03:15:01
+
+Note: This is a perfect capture of the webcast. Tragically a signal outage from the Arena occurred at the end of "Porcelina" and lasted for two minutes and sixteen seconds. During this time you hear nothing and briefly see odd camera shots from the arena and then the screen simply goes black until the signal is restored. Since the outage originated from the Arena, there is no broadcast source that will contain missing footage.
+Everything up to and after the outage is absolutely perfect.
+
+Captured and uploaded to DIME by indykid.
+
+MediaInfo:
+General
+ID                                       : 1 (0x1)
+Complete name                            : The Smashing Pumpkins - 2018-08-24 Key Arena, Seattle, WA [720p].ts
+Format                                   : MPEG-TS
+File size                                : 5.16 GiB
+Duration                                 : 3 h 15 min
+Overall bit rate mode                    : Variable
+Overall bit rate                         : 3 784 kb/s
+
+Video
+ID                                       : 256 (0x100)
+Menu ID                                  : 1 (0x1)
+Format                                   : AVC
+Format/Info                              : Advanced Video Codec
+Format profile                           : High@L4
+Format settings                          : CABAC / 4 Ref Frames
+Format settings, CABAC                   : Yes
+Format settings, RefFrames               : 4 frames
+Format settings, GOP                     : M=1, N=75
+Codec ID                                 : 27
+Duration                                 : 3 h 15 min
+Bit rate mode                            : Constant
+Nominal bit rate                         : 3 372 kb/s
+Width                                    : 1 280 pixels
+Height                                   : 720 pixels
+Display aspect ratio                     : 16:9
+Frame rate                               : 29.970 (30000/1001) FPS
+Color space                              : YUV
+Chroma subsampling                       : 4:2:0
+Bit depth                                : 8 bits
+Scan type                                : Progressive
+Bits/(Pixel*Frame)                       : 0.122
+
+Audio
+ID                                       : 257 (0x101)
+Menu ID                                  : 1 (0x1)
+Format                                   : AAC
+Format/Info                              : Advanced Audio Codec
+Format version                           : Version 4
+Format profile                           : LC
+Muxing mode                              : ADTS
+Codec ID                                 : 15
+Duration                                 : 3 h 15 min
+Bit rate mode                            : Variable
+Channel(s)                               : 2 channels
+Channel positions                        : Front: L R
+Sampling rate                            : 48.0 kHz
+Frame rate                               : 46.875 FPS (1024 SPF)
+Compression mode                         : Lossy
+Delay relative to video                  : -882 ms
+
+Menu
+ID                                       : 4096 (0x1000)
+Menu ID                                  : 1 (0x1)
+Duration                                 : 3 h 15 min
+List                                     : 256 (0x100) (AVC) / 257 (0x101) (AAC)
+Service name                             : Service01
+Service provider                         : FFmpeg
+Service type                             : digital television
+
+Captured and uploaded to DIME by indykid.

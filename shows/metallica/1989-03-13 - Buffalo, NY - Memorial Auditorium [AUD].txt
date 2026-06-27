@@ -1,0 +1,272 @@
+Metallica
+
+1989-03-13
+Memorial Auditorium 
+Buffalo, NY
+
+
+Source: Unknown AUD
+
+Transfer: CASS(unknown gen) > Kenwood KX-W4080  > Polderbits > WAV > Nero > CDR(M) > EAC(secure) > WAV > FLAC(lvl8) 
+
+
+Disc 1:
+01. Ecstacy Of Gold/Blackened 
+02. For Whom The Bell Tolls
+03. Sanitarium 
+04. Harvester Of Sorrow 
+05. Eye Of The Beholder
+06. Jason Solo/Too Live Is To Die 
+07. Master Of Puppets 
+08. One 
+09. Seek & Destroy
+
+Disc 2:
+01. And Justice For All
+02. Creeping Death 
+03. Fade To Black 
+04. Kirk Solo/Little Wing 
+05. Battery 
+06. Symptom Of The Universe/Run To The Hills/Helpless Jam 
+07. Last caress 
+08. Am I Evil?? 
+09. whiplash
+10. Breadfan  (cuts off near end)
+
+
+Notes:
+Another rare show i got in a trade from the guy that transfered his cass to cdr for me. This is the real buffalo show. At :45 sec on track 9 disc 1 james says: "cheers..heres to you buffalo". Overall considering how hard this show is to find and that its from a unknown gen cass its a pretty nice aud recording.. man id love to hear a copy from the master.
+
+                         Enjoy!
+
+                            ~ bubba420 ~
+
+
+
+
+
+FLAC Fingerprint:
+Disc 1:
+Track01.flac:17e476d29fe1ebddccd4510783d1fca9
+Track02.flac:78c5fc418c8aca11f90abbc2edd7bfed
+Track03.flac:1981780e2f8411d811e96fb98b375617
+Track04.flac:2f638d46dcdeefd5ceacfaddb9ac4ce7
+Track05.flac:4c7f117fc5b310b090b4084ae04bb4fb
+Track06.flac:4339bf41d3821b039c4807585ba4513c
+Track07.flac:51e3b6b8d76a35983db85b08e1a060dc
+Track08.flac:4c79f19c091e44a0924e4fccc2993c1a
+Track09.flac:58f3903b9bdd3474f7b473f7b02163d5
+Disc 2:
+Track01.flac:34c4d7ec1a60f25e76e1aaa0d524b7a8
+Track02.flac:b163c7634bcd6eca5fc8c15299467a3a
+Track03.flac:f4429fad1852f2d69d3ecabd5cbd11bf
+Track04.flac:ce8b418b643b008606ad8ed702c5aefc
+Track05.flac:836c1759e25ff5467861bff733c113e3
+Track06.flac:2c046163008aaae6acabf2207f4b988c
+Track07.flac:e942d3caffad03c2471a7130f85e3c19
+Track08.flac:2a6151649a7ae1b47d906b7f88553817
+Track09.flac:5841fe15f1e9d3f6c33d0e2ba484833e
+Track10.flac:204d603d70473e794a1722a4508728b4
+
+
+
+
+EAC LOG:
+
+EAC extraction logfile from 24. January 2006, 3:10 for CD
+Unknown Artist / Unknown Title
+
+Used drive  : LG      CD-RW CED-8120B   Adapter: 0  ID: 0
+Read mode   : Secure with NO C2, accurate stream, NO disable cache
+Combined read/write offset correction : 0
+Overread into Lead-In and Lead-Out : No
+
+Used output format : Internal WAV Routines
+                     44.100 Hz; 16 Bit; Stereo
+
+Other options      : 
+    Fill up missing offset samples with silence : Yes
+    Delete leading and trailing silent blocks : No
+    Installed external ASPI interface
+
+
+Track  1
+     Filename C:\My Documents\Metallica 1989-03-13 Buffalo, NY\Disc 1\Track01.wav
+
+     Peak level 79.3 %
+     Track quality 99.9 %
+     Copy CRC C4869726
+     Copy OK
+
+Track  2
+     Filename C:\My Documents\Metallica 1989-03-13 Buffalo, NY\Disc 1\Track02.wav
+
+     Peak level 85.9 %
+     Track quality 99.9 %
+     Copy CRC 06A3FFB0
+     Copy OK
+
+Track  3
+     Filename C:\My Documents\Metallica 1989-03-13 Buffalo, NY\Disc 1\Track03.wav
+
+     Peak level 83.6 %
+     Track quality 99.8 %
+     Copy CRC 4467B2C5
+     Copy OK
+
+Track  4
+     Filename C:\My Documents\Metallica 1989-03-13 Buffalo, NY\Disc 1\Track04.wav
+
+     Peak level 85.4 %
+     Track quality 99.9 %
+     Copy CRC D3CC2891
+     Copy OK
+
+Track  5
+     Filename C:\My Documents\Metallica 1989-03-13 Buffalo, NY\Disc 1\Track05.wav
+
+     Peak level 86.1 %
+     Track quality 99.9 %
+     Copy CRC F8790D7F
+     Copy OK
+
+Track  6
+     Filename C:\My Documents\Metallica 1989-03-13 Buffalo, NY\Disc 1\Track06.wav
+
+     Peak level 80.3 %
+     Track quality 100.0 %
+     Copy CRC C0AB575C
+     Copy OK
+
+Track  7
+     Filename C:\My Documents\Metallica 1989-03-13 Buffalo, NY\Disc 1\Track07.wav
+
+     Peak level 80.8 %
+     Track quality 100.0 %
+     Copy CRC 8F1C7950
+     Copy OK
+
+Track  8
+     Filename C:\My Documents\Metallica 1989-03-13 Buffalo, NY\Disc 1\Track08.wav
+
+     Peak level 76.8 %
+     Track quality 99.9 %
+     Copy CRC E715D2C2
+     Copy OK
+
+Track  9
+     Filename C:\My Documents\Metallica 1989-03-13 Buffalo, NY\Disc 1\Track09.wav
+
+     Peak level 78.8 %
+     Track quality 99.9 %
+     Copy CRC D388E446
+     Copy OK
+
+No errors occured
+
+
+End of status report
+
+
+EAC extraction logfile from 24. January 2006, 3:25 for CD
+Unknown Artist / Unknown Title
+
+Used drive  : LG      CD-RW CED-8120B   Adapter: 0  ID: 0
+Read mode   : Secure with NO C2, accurate stream, NO disable cache
+Combined read/write offset correction : 0
+Overread into Lead-In and Lead-Out : No
+
+Used output format : Internal WAV Routines
+                     44.100 Hz; 16 Bit; Stereo
+
+Other options      : 
+    Fill up missing offset samples with silence : Yes
+    Delete leading and trailing silent blocks : No
+    Installed external ASPI interface
+
+
+Track  1
+     Filename C:\My Documents\Metallica 1989-03-13 Buffalo, NY\Disc 2\Track01.wav
+
+     Peak level 82.7 %
+     Track quality 99.9 %
+     Copy CRC C91C1673
+     Copy OK
+
+Track  2
+     Filename C:\My Documents\Metallica 1989-03-13 Buffalo, NY\Disc 2\Track02.wav
+
+     Peak level 79.7 %
+     Track quality 99.8 %
+     Copy CRC 9A2CF626
+     Copy OK
+
+Track  3
+     Filename C:\My Documents\Metallica 1989-03-13 Buffalo, NY\Disc 2\Track03.wav
+
+     Peak level 80.0 %
+     Track quality 99.8 %
+     Copy CRC 54B91382
+     Copy OK
+
+Track  4
+     Filename C:\My Documents\Metallica 1989-03-13 Buffalo, NY\Disc 2\Track04.wav
+
+     Peak level 74.1 %
+     Track quality 99.8 %
+     Copy CRC 626B30A6
+     Copy OK
+
+Track  5
+     Filename C:\My Documents\Metallica 1989-03-13 Buffalo, NY\Disc 2\Track05.wav
+
+     Peak level 77.3 %
+     Track quality 99.8 %
+     Copy CRC 28F105B4
+     Copy OK
+
+Track  6
+     Filename C:\My Documents\Metallica 1989-03-13 Buffalo, NY\Disc 2\Track06.wav
+
+     Peak level 74.8 %
+     Track quality 99.9 %
+     Copy CRC 908EEE6E
+     Copy OK
+
+Track  7
+     Filename C:\My Documents\Metallica 1989-03-13 Buffalo, NY\Disc 2\Track07.wav
+
+     Peak level 74.8 %
+     Track quality 100.0 %
+     Copy CRC 9EA0DC0D
+     Copy OK
+
+Track  8
+     Filename C:\My Documents\Metallica 1989-03-13 Buffalo, NY\Disc 2\Track08.wav
+
+     Peak level 82.7 %
+     Track quality 100.0 %
+     Copy CRC C097E29F
+     Copy OK
+
+Track  9
+     Filename C:\My Documents\Metallica 1989-03-13 Buffalo, NY\Disc 2\Track09.wav
+
+     Peak level 79.8 %
+     Track quality 99.9 %
+     Copy CRC A68095A4
+     Copy OK
+
+Track 10
+     Filename C:\My Documents\Metallica 1989-03-13 Buffalo, NY\Disc 2\Track10.wav
+
+     Peak level 80.3 %
+     Track quality 99.9 %
+     Copy CRC 15DE3C5B
+     Copy OK
+
+No errors occured
+
+
+End of status report
+

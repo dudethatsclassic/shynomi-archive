@@ -1,0 +1,36 @@
+Beck
+2003-08-20
+Brixton Academy
+London, England
+
+Taper:
+Generation: MD(Master)->CDR(1)->.FLAC
+Equipment: LSB Microphones->Sharp MD MT99H
+Extraction: CDR(1)->Apple iTunes extraction @ 44.1 khz->.WAV->xAct->.FLAC
+
+Setlist:
+
+01.  Novacane
+     The New Pollution
+     Get Real Paid
+     Nicotine & Gravy
+     Cold Brains
+     Guess I'm Doing Fine
+     Lonesome Tears
+     Tropicalia
+     Sissyneck
+     Mixed Bizness
+     Paper Tiger (cuts out)
+02.  Devil's Haircut (cuts in)
+
+INCOMPLETE AUD RECORDING
+
+Fingerprints:
+
+01\ Track\ 01.flac: 25ae8ae4beedad70f926a9b6ef8073c6
+02\ Track\ 02.flac: 9d707682d9283873b59bea1c85721f56
+
+Encoded by Bill Schofield
+Do NOT decode to mp3!
+Do NOT sell this recording
+DO rock out

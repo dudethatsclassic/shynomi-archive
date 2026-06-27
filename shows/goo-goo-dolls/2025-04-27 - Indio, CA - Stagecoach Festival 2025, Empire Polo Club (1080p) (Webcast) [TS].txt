@@ -1,0 +1,26 @@
+Goo Goo Dolls
+Stagecoach Festival 2025
+Palomino Stage
+Empire Polo Club  
+Indio
+CA, USA  
+April 27th, 2025
+
+Lineage: Live Twitch webcast -> streamlink -> ffmpeg ->.ts  
+Video: MPEG4 Video (H264) 1920x1080 16:9 6000 Kbps 30 fps  
+Audio: AAC 256 Kbps 44.1 KHz stereo
+
+Setlist:   
+Stay With You  
+Slide  
+Here is Gone  
+Miracle Pill  
+Name  
+Broadway  
+Come to Me  
+Black Balloon  
+Run All Night  
+Better Days  
+Iris  
+
+trt = 50:36

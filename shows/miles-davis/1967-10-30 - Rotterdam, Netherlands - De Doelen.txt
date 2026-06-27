@@ -1,0 +1,89 @@
+Miles Davis Quintet
+10-30-1967
+De Doelen
+Rotterdam, The Netherlands
+
+
+Project ID - LL123
+
+Source: FM Broadcast
+Lineage: VARA radio broadcast(1967) > ?? > De Doelen 47.34 FM rebroadcast (2005) > ?? > wave 
+> flac
+
+Miles Davis (tpt); Wayne Shorter (ts); Herbie Hancock (p); Ron Carter (b); Tony Williams (d); 
+Michiel De Ruyter (ann)
+
+disc 1
+
+d1t01. /Footprints
+d1t02. 'Round Midnight
+d1t03. No Blues
+d1t04. On Green Dolphin Street
+d1t05. Riot 
+d1t06. Masqualero
+ 
+-------------------------------------------------------
+
+Notes:
+
+- d1t01: This track starts mid song.
+
+- A very nice recording. The sound is very beautiful, well mixed and the playing is superb.
+I would tag this one to be another must have. My only gripe is that I don't have the full recording
+. It also seems as though there is a circulating copy that included some announcements.  
+
+- "Presumably the Quintet opened with "Agitation"; "Footprints" begins with Shorter's solo. 
+The music listed here is from a May 2005 re-broadcast of the original 1967 VARA radio broadcast."
+- Credit to Peter Losin, http://www.plosin.com/
+
+- QC done by Bgreen
+
+md5
+72a29f1dd5063ed289a52283e89b663f *md1967-10-30.LL123.d1t01.flac
+534289a6a51694751353dc98d40b98b5 *md1967-10-30.LL123.d1t02.flac
+572025ceced1142f9362e61252096ba0 *md1967-10-30.LL123.d1t03.flac
+8ab343b1aa55874788f989f8e682cacf *md1967-10-30.LL123.d1t04.flac
+c90deee2af7136f0333bb0c4ddfe35a7 *md1967-10-30.LL123.d1t05.flac
+b1ca4a5ae3f03ed931e2367a6e897e74 *md1967-10-30.LL123.d1t06.flac
+
+ffp
+md1967-10-30.LL123.d1t01.flac:d8a5316c68f6c2785a575f74aa68c77a
+md1967-10-30.LL123.d1t02.flac:25e43d8010d04e034c4dac2589e6eecf
+md1967-10-30.LL123.d1t03.flac:6d168d1411008d421f3486a465ddd641
+md1967-10-30.LL123.d1t04.flac:8d51a51c18367b8e004cc9feb5dd6861
+md1967-10-30.LL123.d1t05.flac:5aea3d46471077505103445dcc6f63f9
+md1967-10-30.LL123.d1t06.flac:8ebe8aeae3a7a5b135c15c4777aae489
+
+shntool
+    length     expanded size   cdr  WAVE problems filename
+     5:42.06       60342956    ---   --   ---xx   md1967-10-30.LL123.d1t01.flac
+     7:27.29       78919052    ---   --   ---xx   md1967-10-30.LL123.d1t02.flac
+    13:09.30      139250204    ---   --   ---xx   md1967-10-30.LL123.d1t03.flac
+     9:23.67       99470828    ---   --   ---xx   md1967-10-30.LL123.d1t04.flac
+     4:24.40       46663724    ---   --   ---xx   md1967-10-30.LL123.d1t05.flac
+     7:27.08       78869660    ---   --   ---xx   md1967-10-30.LL123.d1t06.flac
+    47:34.30      503516424 B                     (totals for 6 files, 0.5609 overall compression ratio)
+
+spectral analysis from TLH
+md1967-10-30.LL123.d1t01.wav:  track looks like CDDA with probability 100%
+md1967-10-30.LL123.d1t02.wav:  track looks like CDDA with probability 100%
+md1967-10-30.LL123.d1t03.wav:  track looks like CDDA with probability 100%
+md1967-10-30.LL123.d1t04.wav:  track looks like CDDA with probability 100%
+md1967-10-30.LL123.d1t05.wav:  track looks like CDDA with probability 100%
+md1967-10-30.LL123.d1t06.wav:  track looks like CDDA with probability 100%
+
+old md5 or ffp (incude both if available)
+72a29f1dd5063ed289a52283e89b663f *Track01.flac
+534289a6a51694751353dc98d40b98b5 *Track02.flac
+572025ceced1142f9362e61252096ba0 *Track03.flac
+8ab343b1aa55874788f989f8e682cacf *Track04.flac
+c90deee2af7136f0333bb0c4ddfe35a7 *Track05.flac
+b1ca4a5ae3f03ed931e2367a6e897e74 *Track06.flac
+
+old ffp
+Track01.flac:d8a5316c68f6c2785a575f74aa68c77a
+Track02.flac:25e43d8010d04e034c4dac2589e6eecf
+Track03.flac:6d168d1411008d421f3486a465ddd641
+Track04.flac:8d51a51c18367b8e004cc9feb5dd6861
+Track05.flac:5aea3d46471077505103445dcc6f63f9
+Track06.flac:8ebe8aeae3a7a5b135c15c4777aae489

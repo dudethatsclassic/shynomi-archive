@@ -1,0 +1,62 @@
+Goo Goo Dolls
+October 6th, 2018.
+Palace Theatre - Columbus, OH.
+
+Taper:      Charles Dewey Cole, IV <live2cd@hotmail.com>
+Location:   Section MFLR 3, Row G - Seat 121
+            (see chart here: http://www.ticketmaster.com/seatingchart/41030/14595) 
+Source:     AT853U Cardioids (4.7k mod) > SP-SPSB-11 (@69Hz) > Sony PCM-A10 (24 bit @48kHz) >
+            Adobe Audition 3.0 (dithered to 16 bit @44.1kHz) > Cd Wave > FLAC
+Conversion: Charles Dewey Cole, IV <live2cd@hotmail.com>
+Equipment:  Sony PCM-A10 > (USB) @ 48kHz > 44.1kHz > Cd Wave
+
+-------------------------------------------------------------------------------------------------------
+Total Time: (1:31:47)
+
+01. Indestructible				5:05
+02. Home					4:32
+03. Slide					4:14
+04. Miracle Pill				3:31
+05. Black Balloon				4:00
+06. Here Is Gone				3:59
+07. Life's A Message				2:53
+08. Second Time Around				4:21
+09. Souls In The Machine			4:06
+10. So Alive					6:37
+11. Sympathy					5:11
+12. Name					3:45
+13. Fearless					3:47
+14. Stay With You				4:00
+15. Bring On The Light				3:13
+16. Tattered Edge / You Should Be Happy		5:06
+17. Let Love In					5:04
+18. Broadway					7:08
+19. Autumn Leaves				5:21
+20. Iris					5:54
+
+-------------------------------------------------------------------------------------------------------
+Notes:
+
+The Goos returned to Columbus supporting their brand new LP, "Miracle Pill". The set
+featured 5 songs from the LP and they also brought back a few gems they havent played
+in awhile like "Let Love In" & "Home". One of the highlights was the new track,
+"Autumn Leaves" -- thoroughly impressed with that one, dare I say better than the 
+album version? You'll want to check that out if you're a fan. I bought my seat directly
+in front of the left stack (maybe a row or two too close), but it turned out good. 
+I did raise some volume on some songs (ie: "Sympathy"), and EQ'ed slightly to bring
+down the bass. During "Black Balloon", I got hit with about 15 black balloons, but
+was able to take out those small spikes in Adobe Audition. There was also so much 
+confetti at this show I was finding it in my shirt the next day. You will actually
+hear the fans release the confetti twice during the show. Insane! One final note,
+right before Johnny started "Name", a fan yelled from the crowd that he wanted to
+play it. Johnny jokingly replied "No!" but then invited him onstage anyway. The
+fan (who's name was Dan) ended up performing the first 1:30 of the song and Johnny 
+took over the rest with the band. It was pretty cool to see and Im sure thats a memory
+Dan will never forget. He didnt do that bad of a job, either. As always, a great 
+performance and had a blast seeing the Goos live. Still great and I've been seeing 
+them since 1996.
+
+---------------------------------------------------------------------------------------------------------
+For more information on Goo Goo Dolls, please visit:
+
+http://googoodolls.com/

@@ -1,0 +1,70 @@
+Red Hot Chili Peppers
+Maimarktgelände
+Mannheim, Germany
+June 26, 2023
+
+** 24 BIT **
+
+Source:  SP-CMC-8 (cardioids) > SP-SPSB-10 > Roland R-07 @ 24 bit/48 kHz
+Mastering:  .WAV > iZotope RX10 Advanced v10.0.0.1705 (De-click) > Sound Forge Pro 14.0 Build 140 [minor edits, normalize, & fades, Boz Digital Labs T-Bone plug-in (slant EQ)] > CDWav (tracking) > iZotope MBIT+ 
+(dithered and downsampled to 16 bit/44.1 kHz) > Trader's Little Helper (level 5) > FLAC > TagScanner 6.0.35 (tagging)
+Location:  On the rail, 2 meters right of center
+Recorded by:  toshi
+Mastered by:  Dennis Orr
+
+Setlist: (1:40:35)
+01 Crowd/Intro Music
+02 Intro Jam
+03 Around The World
+04 Scar Tissue
+05 Chat
+06 Snow (Hey Oh)
+07 Here Ever After
+08 Suck My Kiss
+09 Eddie
+10 Soul To Squeeze
+11 Me & My Friends
+12 These Are The Ways
+13 Throw Away Your Television
+14 Tell Me Baby
+15 Whatchu Thinkin'
+16 Californication
+17 Black Summer
+18 By The Way
+19 Encore Break
+- Encore -
+20 I Could Have Lied
+21 Give It Away
+22 Crowd
+
+Anthony Kiedis – lead vocals
+John Frusciante – guitars, backing vocals, & keyboards
+Flea (Michael Balzary) – bass, backing vocals, trumpet, & piano
+Chad Smith – drums & percussion
+
+Mastering Notes:
+Some wind noise
+Loud, sometimes obnoxious crowd, with many sing-alongs
+
+RHCP2023-06-26t01.flac:c84e5bc795c9c8c6de8b7121a0d6a286
+RHCP2023-06-26t02.flac:400091bb96293da6fb8ed42e1b350e0e
+RHCP2023-06-26t03.flac:54ab427cf73ab0cbde47b657d5ccc1de
+RHCP2023-06-26t04.flac:90ece5f16104ca11e261f4356365865b
+RHCP2023-06-26t05.flac:908c80fc39e3b982ec74891667ced9d1
+RHCP2023-06-26t06.flac:870ba8eead401a83b268e8d51c8cb93e
+RHCP2023-06-26t07.flac:8bf314f7b648659f58a2096acedaa071
+RHCP2023-06-26t08.flac:7aad60acb6f337dfc8cebd84368f2831
+RHCP2023-06-26t09.flac:e30046c34046e12d9e2f98c5fc151f81
+RHCP2023-06-26t10.flac:01740ee1687e9788d7e8a4adf00d8c62
+RHCP2023-06-26t11.flac:cf3eecc1c7cac8f0c14e89da66984b43
+RHCP2023-06-26t12.flac:33462099f8dec43845cf1dfeafd3ca98
+RHCP2023-06-26t13.flac:e28c938643240d253859a6982b2e5940
+RHCP2023-06-26t14.flac:c1075d4110241558541523ade7f73526
+RHCP2023-06-26t15.flac:62a00d904a124d40852e44c8109dd67f
+RHCP2023-06-26t16.flac:cdd0295b6ea82c2511bcdf318167aed0
+RHCP2023-06-26t17.flac:f244a875ed574454122d3e15b4b26a40
+RHCP2023-06-26t18.flac:1083774385ea4d4f985c4fe478d3c107
+RHCP2023-06-26t19.flac:b68bf8902a2c838c14809108dc15d792
+RHCP2023-06-26t20.flac:b50e4cd4a5f8d82748746c3f518a9d4d
+RHCP2023-06-26t21.flac:72defb0a3f30af5c5c0ccb83bc0a59ac
+RHCP2023-06-26t22.flac:986b71ad80408fdb94ebe20d5aa93353

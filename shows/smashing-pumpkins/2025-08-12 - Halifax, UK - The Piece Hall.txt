@@ -1,0 +1,79 @@
+Smashing Pumpkins
+August 12th 2025
+The Piece Hall
+Halifax, UK
+
+SOURCE (AUD#1):
+SP-CMC-4U > SP-SPSB-1 > Sony PCM-A10
+
+GENERATION:
+WAV(M) > FLAC
+
+LENGTH:
+122:05
+
+SETLIST:
+01. Intro
+02. Glass' Theme
+03. Heavy Metal Machine
+04. Where Boys Fear to Tread
+05. Pentagrams
+06. Today
+07. Bullet With Butterfly Wings
+08. Muzzle
+09. 1979
+10. Edin
+11. Porcelina of the Vast Oceans
+12. Sighommi
+13. Mayonaise
+14. Take My Breath Away [Berlin]
+15. 999
+16. Disarm
+17. Tonight, Tonight > Come As You Are [Nirvana] (tease)
+18. Cherub Rock
+19. Jellybelly
+20. Bodies
+21. Ava Adore
+22. Stand Inside Your Love
+23. Zero
+24. N.I.B. [Black Sabbath] (tease)
+25. The Everlasting Gaze
+26. Outro
+
+NOTES:
+Some wind noise, especially during first half of set
+
+MD5 FINGERPRINTS:
+1b5250d2ef5587739b437cb65ad3d82e *Smashing Pumpkins 2025-08-12 AUD1 t01 Intro.flac
+b535d6d7952280f6570039ef3ff796da *Smashing Pumpkins 2025-08-12 AUD1 t02 Glass' Theme.flac
+820129cefedbcbc8da0bc6145a35c1b1 *Smashing Pumpkins 2025-08-12 AUD1 t03 Heavy Metal Machine.flac
+23c6baa4fe7f7b0b5ed8d35d406dda3c *Smashing Pumpkins 2025-08-12 AUD1 t04 Where Boys Fear to Tread.flac
+bd2470a2f8557173afbc15ce38937f1e *Smashing Pumpkins 2025-08-12 AUD1 t05 Pentagrams.flac
+9303039025c327f1219943d2ba8e45d4 *Smashing Pumpkins 2025-08-12 AUD1 t06 Today.flac
+aaaa7f5319131e0e36f7723e43ed1330 *Smashing Pumpkins 2025-08-12 AUD1 t07 Bullet With Butterfly Wings.flac
+4eb6f350e8f883310daa7dbfc9c588f0 *Smashing Pumpkins 2025-08-12 AUD1 t08 Muzzle.flac
+5eb438d9bcbe0a3f6a7da16b07a41a68 *Smashing Pumpkins 2025-08-12 AUD1 t09 1979.flac
+cc0471714fa3381ea1121165b1611224 *Smashing Pumpkins 2025-08-12 AUD1 t10 Edin.flac
+e3ea3df00c84d3fdbbd1c0e1719a9154 *Smashing Pumpkins 2025-08-12 AUD1 t11 Porcelina of the Vast Oceans.flac
+3a690dc3e4ca64669171bdbc09d6d4c9 *Smashing Pumpkins 2025-08-12 AUD1 t12 Sighommi.flac
+883b36649a10e2c96390c47e2c04879e *Smashing Pumpkins 2025-08-12 AUD1 t13 Mayonaise.flac
+1b2e469a6eefffce6223dcf009ad85c3 *Smashing Pumpkins 2025-08-12 AUD1 t14 Take My Breath Away [Berlin].flac
+9591f2b470bb3c0fc5e0f4e01590e453 *Smashing Pumpkins 2025-08-12 AUD1 t15 999.flac
+85b438a30f927d24c3ba6dbcb793d275 *Smashing Pumpkins 2025-08-12 AUD1 t16 Disarm.flac
+e7feb158a63648b88858df235efd0a82 *Smashing Pumpkins 2025-08-12 AUD1 t17 Tonight, Tonight.flac
+e56d91ddb349c0120d935fc1c4ffe79d *Smashing Pumpkins 2025-08-12 AUD1 t18 Cherub Rock.flac
+26537cc58ded36adb9a5d407c84f7de9 *Smashing Pumpkins 2025-08-12 AUD1 t19 Jellybelly.flac
+c83cde431c15bacfba419005db11fac8 *Smashing Pumpkins 2025-08-12 AUD1 t20 Bodies.flac
+dfd4a2997349e4281214871aff67c4e9 *Smashing Pumpkins 2025-08-12 AUD1 t21 Ava Adore.flac
+fa55d4a98b16bf33dbf39ab4053f8b36 *Smashing Pumpkins 2025-08-12 AUD1 t22 Stand Inside Your Love.flac
+bee53bdf3f723c083e03750551190a68 *Smashing Pumpkins 2025-08-12 AUD1 t23 Zero.flac
+2590cf25ae831fc0c46b7866737fab68 *Smashing Pumpkins 2025-08-12 AUD1 t24 N.I.B. [Black Sabbath] (tease).flac
+6c47502814b1217fd965ec180e96d33e *Smashing Pumpkins 2025-08-12 AUD1 t25 The Everlasting Gaze.flac
+dcc78295ff514e0a485eab346f6b973e *Smashing Pumpkins 2025-08-12 AUD1 t26 Outro.flac
+
+RECORDED BY:
+Spaldz
+
+DISTRIBUTION:
+Spaldz, Nicholas Serra & Members of SPLRA
+2025-09-16

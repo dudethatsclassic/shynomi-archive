@@ -1,0 +1,95 @@
+Ryan Adams
+Parx Casino
+Bensalem, PA
+March 30, 2023
+
+** 24 BIT **
+
+Source:  Schoeps MK41's > BabyNbox > Roland R07 @ 24 bit/48 kHz
+Mastering:  .WAV > iZotope RX10 Advanced v10.0.0.1705 (De-click) > Sound Forge Pro 14.0 Build 140 [minor edits, normalize, & fades, Boz Digital Labs T-Bone plug-in (slant EQ)] > CDWav (tracking) > Trader's Little 
+Helper (level 5) > FLAC > TagScanner 6.0.35 (tagging)
+Location:  6th Row, DFC
+Recorded by:  Joe Burns
+Mastered by:  Dennis Orr
+
+Setlist: (1:56:39)
+01 Intro
+02 Oh My Sweet Carolina
+03 Chat & Tuning
+04 Ashes & Fire
+05 Everybody Knows
+06 Chat & Tuning
+07 Doylestown Girl
+08 Chat & Tuning
+09 The Tracks Of My Tears (1)
+10 Sin City 
+11 Chat & Tuning
+12 Carolina Rain
+13 Chat & Tuning
+14 Queen Of Hearts 
+15 Dirty Rain
+16 Chat (2)
+17 Answering Bell
+18 Chat & Tuning
+19 New York, New York (1)
+20 Chat & Tuning
+21 Gimme Something Good
+22 Chat & Tuning
+23 The Gambler
+24 Winding Wheel
+25 Tumbling Dice
+26 Let It Ride
+27 Deuce
+28 Chat & Tuning
+29 Wednesdays
+30 Ace Of Spades
+31 Chat & Tuning
+32 Lily, Rosemary And The Jack Of Hearts
+33 Chat & Tuning
+34 Lovesick Blues
+35 Chat & Tuning
+36 To Be Young (Is To Be Sad, Is To Be High)
+37 Come Pick Me Up
+
+(1) On piano
+(2) Ryan takes a bathroom break (3:24 deleted, no music or talk lost)
+
+Ryan Adams - vocals, guitar, harp, & piano
+
+RyanAdams2023-03-30t01.flac:fd5ebe092909e629ff369ce31ccfd827
+RyanAdams2023-03-30t02.flac:51f5ebca3bfef68eef1ae5cabefbeaed
+RyanAdams2023-03-30t03.flac:b250ab950a480951c1a977abfac03219
+RyanAdams2023-03-30t04.flac:8f7710aaf3b9615c3f4de7cb1f1b9015
+RyanAdams2023-03-30t05.flac:57ef8be81ba91464909c5484790afc3f
+RyanAdams2023-03-30t06.flac:efcc57a72d1a401748865b9fbcb86784
+RyanAdams2023-03-30t07.flac:62e39e362434254de356af384fe88791
+RyanAdams2023-03-30t08.flac:fc274e3b575246d8071a0c8033e9383f
+RyanAdams2023-03-30t09.flac:b6378814c86d84a896ed4da9d786f673
+RyanAdams2023-03-30t10.flac:f5ed50e0d2978b5514ed5a8797f38a74
+RyanAdams2023-03-30t11.flac:3fce784a95fb4ec8b63374a808ec636a
+RyanAdams2023-03-30t12.flac:9c970b7c1abd7fb6b0988548706874c0
+RyanAdams2023-03-30t13.flac:5a9f4def3ab305fe27f517fcd4e25f23
+RyanAdams2023-03-30t14.flac:35d9a3efd477fb147c9c577cb7ecf569
+RyanAdams2023-03-30t15.flac:a08cd704df2b704c58c035f031fcb1ba
+RyanAdams2023-03-30t16.flac:0d3e2ac4dc261aafd1db5f5a8c2fb39c
+RyanAdams2023-03-30t17.flac:c6a1b1490f92fcc0afee359fe96b9316
+RyanAdams2023-03-30t18.flac:5a1950f92bc7fe3e2007080234c85cab
+RyanAdams2023-03-30t19.flac:02e03c0334dc6c086e72e2aca799c38c
+RyanAdams2023-03-30t20.flac:28be187f25d2f182d3550831850900f3
+RyanAdams2023-03-30t21.flac:2a8d5bd15387aee49ad2210a2f0391d2
+RyanAdams2023-03-30t22.flac:2e35bf3c336eb6fba602868703ced3c3
+RyanAdams2023-03-30t23.flac:4921772c035d7d62f3fd59f1efd84d60
+RyanAdams2023-03-30t24.flac:7cbfd1d6c92ada849feb540528828874
+RyanAdams2023-03-30t25.flac:874bb34e4c1f901306e8d4560208f4ea
+RyanAdams2023-03-30t26.flac:5519bb33f463f58534bd399a52794a11
+RyanAdams2023-03-30t27.flac:4f90c7996a6d940d93e64d983ea8f4e0
+RyanAdams2023-03-30t28.flac:b77dde3210f868a731ac7abfaa2f4739
+RyanAdams2023-03-30t29.flac:6585186d824926682fde4802325e68cb
+RyanAdams2023-03-30t30.flac:99c8aa0f9a8b7ce45cff7e090d7e4eb4
+RyanAdams2023-03-30t31.flac:099d4cb7b895c43d238cf09364d8d096
+RyanAdams2023-03-30t32.flac:9d3be9bdbe4027bf5bb4603c37675c5d
+RyanAdams2023-03-30t33.flac:9e45981de5067189cc04cca34ad2bbf5
+RyanAdams2023-03-30t34.flac:fe50d36fd55692492896d3e783aebcd6
+RyanAdams2023-03-30t35.flac:1869c6d332c8d72589984c77e0597846
+RyanAdams2023-03-30t36.flac:97182800f664c3f9472dfe604ab58fb1
+RyanAdams2023-03-30t37.flac:ae651866aeea1b8f7b89f585f12bbdb1

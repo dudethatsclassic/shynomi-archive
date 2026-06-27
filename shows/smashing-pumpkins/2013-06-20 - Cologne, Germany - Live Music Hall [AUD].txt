@@ -1,0 +1,97 @@
+****************************
+     Smashing Pumpkins
+      Live Music Hall
+        Cologne, GE
+  June 20, 2013 - Thursday
+****************************
+
+Taper: Miguel Villarelo (villarelo@gmail.com)
+Location: 50 Feets From Stage, Left.
+Source: Church Audio ST-11 > ST-9100 > iRiver H-120 (RockBoxed + REP + AGC Slow)
+Transfer: H-120 (PCM 16bit @ 44.1Khz) > USB 2.0 > PC
+Editing: Adobe Audition CS6 > Right Mic Click Remove > Some EQing > Hard Limit -0.1dB
+Tracking & Conversion: CD Wave v1.98 (Flac v1.2.1 Level 8)
+
+*********************************************************
+ DO NOT SELL THIS SHOW, KEEP THE TRADING COMMUNITY CLEAN
+ DO NOT SELL THIS SHOW, KEEP THE TRADING COMMUNITY CLEAN
+ DO NOT SELL THIS SHOW, KEEP THE TRADING COMMUNITY CLEAN
+
+         ... Do I have to write it again???
+*********************************************************
+
+---------
+ SETLIST
+---------
+
+01. -intro-                      [00:17]
+02. Quasar                       [05:05]
+03. Panopticon                   [03:48]
+04. Starz                        [05:34]
+05. Rocket                       [03:49]
+06. Space Oddity (David Bowie)   [06:55]
+07. X.Y.U.                       [08:53]
+08. Disarm                       [03:36]
+09. Tonite Reprise               [01:23]
+10. Tonight, Tonight             [04:15]
+11. Pinwheels                    [06:20]
+12. Oceania                      [09:26]
+13. Pale Horse                   [04:50]
+14. Bullet with Buterfly Wings   [04:19]
+15. Ava Adore                    [04:14]
+16. One Diamond, One Heart       [04:59]
+17. Blank Page                   [06:09]
+18. The Imploding Voice          [04:19]
+19. Zero                         [04:06]
+20. Stand Inside Your Love       [03:59]
+21. United States                [11:23]
+22. -interlude-                  [03:19]
+23. Immigrant Song (L.Zeppelin)  [02:22]
+24. Today                        [03:11]
+25. -interlude-                  [03:54]
+26. Porcelina of the Vast Oceans [09:52]
+27. -outro-                      [00:13]
+
+                   Total Time [02:10:30]
+                   Size         [780.MB]
+
+NOTES: The right mic wire is semi-cut, so some songs got a really
+annoying click in that channel. I tried to clean it with a special 
+click removal tool. It worked fine in some cases but when the clicking 
+was intense I had to go mono, you can hear as the sound goes to center 
+sometimes. Anyway after that the sound is pretty good.
+ 
+Enjoy!
+Villarelo.-
+
+**************************************************************
+Flac Finger Prints
+**************************************************************
+tsp2013-06-20.st11.d1t01.flac:286cac4ed3f81e755cb77047418f30c9
+tsp2013-06-20.st11.d1t02.flac:8629400f970b1a0d9f5f2e1707c055b8
+tsp2013-06-20.st11.d1t03.flac:8d6fde2557722762d5e43a9eb25701a3
+tsp2013-06-20.st11.d1t04.flac:1fdf4febef8e9bfbf8576c530b9abf28
+tsp2013-06-20.st11.d1t05.flac:0adfd6f161ed57c5117031fe3f3ba262
+tsp2013-06-20.st11.d1t06.flac:59ce00852627aa1106a2164fda720669
+tsp2013-06-20.st11.d1t07.flac:a6a66e7dd335e3b2fd5cae3ce656c007
+tsp2013-06-20.st11.d1t08.flac:08676b9aa8ce1139ea9094d6886cebd1
+tsp2013-06-20.st11.d1t09.flac:e41737e4c4066a9d0f3c71b70b0ba392
+tsp2013-06-20.st11.d1t10.flac:30d265f3ca72954cda36e58c57a0a25d
+tsp2013-06-20.st11.d1t11.flac:38cde07f9eb7af4f72546fb650c5004b
+tsp2013-06-20.st11.d1t12.flac:660e1796ae1704fa274184288c562bfb
+tsp2013-06-20.st11.d1t13.flac:e49dfef59592fb00b2f3eb68d9065034
+tsp2013-06-20.st11.d1t14.flac:4a35c49a10d28aef6101e7744d883609
+tsp2013-06-20.st11.d1t15.flac:724652e17f733d9913e31eff28f23234
+tsp2013-06-20.st11.d1t16.flac:8b73fb216ae283b878771467f9cb7c15
+tsp2013-06-20.st11.d1t17.flac:71db7c168e205eb2f0a19021e149d18d
+tsp2013-06-20.st11.d1t18.flac:744aef568f34d7f1b549c43d04e3017a
+tsp2013-06-20.st11.d1t19.flac:b639f479bf699dde579501d0ed1b3860
+tsp2013-06-20.st11.d1t20.flac:936ae4880bf1509c60f8c98a7f3ec23e
+tsp2013-06-20.st11.d1t21.flac:157748d16018a525dadfa781df2b29e5
+tsp2013-06-20.st11.d1t22.flac:d99a9ccfb4d55958771ced1e684074a6
+tsp2013-06-20.st11.d1t23.flac:963a4ffa71cb352f2c3415c06abcff0f
+tsp2013-06-20.st11.d1t24.flac:57dedd1d4d4a01780a8eb446e4a0c33c
+tsp2013-06-20.st11.d1t25.flac:7a25d15be96548ead911ec18b49da9c0
+tsp2013-06-20.st11.d1t26.flac:2cfbade04107285014812d7346627b86
+tsp2013-06-20.st11.d1t27.flac:0a49086983ef35733a72b6bc0e6fab11
+

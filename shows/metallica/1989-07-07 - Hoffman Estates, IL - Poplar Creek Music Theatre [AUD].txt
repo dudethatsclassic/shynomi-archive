@@ -1,0 +1,294 @@
+Metallica
+
+
+1989-07-07
+Poplar Creek Music Theater
+Hoffman Estates, IL
+
+Source: Unknown AUD (Unknown Gen. Cass)
+
+Transfer: Unknown Gen. Cass > Sony TCW-305 > Roxio 6.0 > WAV > CDR(M) > EAC(secure) > WAV > FLAC(lvl8)
+
+
+Disc 1:
+01. The Ecstasy For Gold
+02. Blackened
+03. For Whom the Bell Tolls
+04. Welcome Home (Sanitarium)
+05. Harvester of Sorrow
+06. Four Horsemen
+07. The Thing That Should Not Be
+08. Bass Solo / To Live is to Die jam
+09. Master of Puppets
+10. Fade to Black
+11. Seek And Destroy
+12. ... And Justice For All
+
+Disc 2:
+01. Creeping Death
+02. One
+03. Guitar Solo
+04. Battery
+05. Frayed Ends of Sanity jam
+06. Last Caress
+07. Am I Evil?
+08. Whiplash
+09. Breadfan
+
+
+Notes:
+Rare Trades. I got this show in a trade directly from the guy that transfered his Unknown gen aud cass to cdr for me. Overall this isnt the best aud recording, but its not to bad at all considering this show really doesnt circulate to much at all in lossless.
+
+
+                         
+                           ~ bubba420 ~
+
+
+
+
+
+
+
+FLAC Fingerprint:
+
+Disc 1:
+Track01.flac:6b59425f6dd4d5682ff77733c7013674
+Track02.flac:0ee074ecdd7c1b76fdda3224b2b3d52c
+Track03.flac:f06dfa6cbb0f5acc8c2f45df3b834ef6
+Track04.flac:9ef55ad1cc8b1b1e73af4f2155d002c4
+Track05.flac:e20e245079a0cb5496b3dad3857b33da
+Track06.flac:cd8f2a9ac26cde2e4c6127fae2d1f6bc
+Track07.flac:71f72b3faf1856a260ae9bc7d99c4fc4
+Track08.flac:2c436b59cf9b107c59c60feeb8fad8cb
+Track09.flac:e435f5e33f187f28359d11732e11d40d
+Track10.flac:340634ef41cf1353c1ac3ba677581fae
+Track11.flac:0de8d26c40e1c021f9a14d35c849ae84
+Track12.flac:90a2157c6fe3baa960924b5ba9200e9d
+Disc 2:
+Track01.flac:a89b20f6f7756a4431f66654577648c5
+Track02.flac:d4b081decc1b2fdacee9e862e96146f4
+Track03.flac:494e70500f90cd5174b7d142e1c98e69
+Track04.flac:5e6d4f521bcf6056b2ae4f41663bd2e8
+Track05.flac:3618c2172a2b5dac350e4baecb3e08a2
+Track06.flac:87118754ae47be937d13512238bfcff0
+Track07.flac:3d6f2f067843f4e083455d8e3f7bff8b
+Track08.flac:0d2c02ecb1d1f916a441c48b89880408
+Track09.flac:ff45faaca5fa07de9995965e87ddb8e8
+
+
+
+EAC LOG:
+
+
+EAC extraction logfile from 25. April 2006, 3:37 for CD
+Unknown Artist / Unknown Title
+
+Used drive  : LG      CD-RW CED-8120B   Adapter: 0  ID: 0
+Read mode   : Secure with NO C2, accurate stream, NO disable cache
+Combined read/write offset correction : 0
+Overread into Lead-In and Lead-Out : No
+
+Used output format : Internal WAV Routines
+                     44.100 Hz; 16 Bit; Stereo
+
+Other options      : 
+    Fill up missing offset samples with silence : Yes
+    Delete leading and trailing silent blocks : No
+    Installed external ASPI interface
+
+
+Track  1
+     Filename C:\My Documents\Metallica 1989-07-07 Hoffman Estates, IL\Disc 1\Track01.wav
+
+     Peak level 56.6 %
+     Track quality 100.0 %
+     Copy CRC 7D595234
+     Copy OK
+
+Track  2
+     Filename C:\My Documents\Metallica 1989-07-07 Hoffman Estates, IL\Disc 1\Track02.wav
+
+     Peak level 63.7 %
+     Track quality 100.0 %
+     Copy CRC 41445BBC
+     Copy OK
+
+Track  3
+     Filename C:\My Documents\Metallica 1989-07-07 Hoffman Estates, IL\Disc 1\Track03.wav
+
+     Peak level 58.0 %
+     Track quality 100.0 %
+     Copy CRC E7A38C08
+     Copy OK
+
+Track  4
+     Filename C:\My Documents\Metallica 1989-07-07 Hoffman Estates, IL\Disc 1\Track04.wav
+
+     Peak level 60.3 %
+     Track quality 100.0 %
+     Copy CRC 476A5DAB
+     Copy OK
+
+Track  5
+     Filename C:\My Documents\Metallica 1989-07-07 Hoffman Estates, IL\Disc 1\Track05.wav
+
+     Peak level 64.3 %
+     Track quality 100.0 %
+     Copy CRC 70AE47CF
+     Copy OK
+
+Track  6
+     Filename C:\My Documents\Metallica 1989-07-07 Hoffman Estates, IL\Disc 1\Track06.wav
+
+     Peak level 58.1 %
+     Track quality 100.0 %
+     Copy CRC 33F9022D
+     Copy OK
+
+Track  7
+     Filename C:\My Documents\Metallica 1989-07-07 Hoffman Estates, IL\Disc 1\Track07.wav
+
+     Peak level 60.5 %
+     Track quality 99.9 %
+     Copy CRC 5FA561B9
+     Copy OK
+
+Track  8
+     Filename C:\My Documents\Metallica 1989-07-07 Hoffman Estates, IL\Disc 1\Track08.wav
+
+     Peak level 58.1 %
+     Track quality 100.0 %
+     Copy CRC 3F445490
+     Copy OK
+
+Track  9
+     Filename C:\My Documents\Metallica 1989-07-07 Hoffman Estates, IL\Disc 1\Track09.wav
+
+     Peak level 47.2 %
+     Track quality 100.0 %
+     Copy CRC 0A471A4B
+     Copy OK
+
+Track 10
+     Filename C:\My Documents\Metallica 1989-07-07 Hoffman Estates, IL\Disc 1\Track10.wav
+
+     Peak level 46.3 %
+     Track quality 100.0 %
+     Copy CRC D8AF7B10
+     Copy OK
+
+Track 11
+     Filename C:\My Documents\Metallica 1989-07-07 Hoffman Estates, IL\Disc 1\Track11.wav
+
+     Peak level 47.1 %
+     Track quality 100.0 %
+     Copy CRC 009702C0
+     Copy OK
+
+Track 12
+     Filename C:\My Documents\Metallica 1989-07-07 Hoffman Estates, IL\Disc 1\Track12.wav
+
+     Peak level 49.5 %
+     Track quality 99.9 %
+     Copy CRC 08279D35
+     Copy OK
+
+No errors occured
+
+
+End of status report
+
+
+EAC extraction logfile from 25. April 2006, 3:23 for CD
+Unknown Artist / Unknown Title
+
+Used drive  : LG      CD-RW CED-8120B   Adapter: 0  ID: 0
+Read mode   : Secure with NO C2, accurate stream, NO disable cache
+Combined read/write offset correction : 0
+Overread into Lead-In and Lead-Out : No
+
+Used output format : Internal WAV Routines
+                     44.100 Hz; 16 Bit; Stereo
+
+Other options      : 
+    Fill up missing offset samples with silence : Yes
+    Delete leading and trailing silent blocks : No
+    Installed external ASPI interface
+
+
+Track  1
+     Filename C:\My Documents\Metallica 1989-07-07 Hoffman Estates, IL\Disc 2\Track01.wav
+
+     Peak level 57.6 %
+     Track quality 99.9 %
+     Copy CRC 596CBA0B
+     Copy OK
+
+Track  2
+     Filename C:\My Documents\Metallica 1989-07-07 Hoffman Estates, IL\Disc 2\Track02.wav
+
+     Peak level 55.0 %
+     Track quality 99.9 %
+     Copy CRC 3B040234
+     Copy OK
+
+Track  3
+     Filename C:\My Documents\Metallica 1989-07-07 Hoffman Estates, IL\Disc 2\Track03.wav
+
+     Peak level 55.1 %
+     Track quality 100.0 %
+     Copy CRC 55B93608
+     Copy OK
+
+Track  4
+     Filename C:\My Documents\Metallica 1989-07-07 Hoffman Estates, IL\Disc 2\Track04.wav
+
+     Peak level 53.1 %
+     Track quality 100.0 %
+     Copy CRC 351F0E36
+     Copy OK
+
+Track  5
+     Filename C:\My Documents\Metallica 1989-07-07 Hoffman Estates, IL\Disc 2\Track05.wav
+
+     Peak level 53.9 %
+     Track quality 100.0 %
+     Copy CRC 1B6BF867
+     Copy OK
+
+Track  6
+     Filename C:\My Documents\Metallica 1989-07-07 Hoffman Estates, IL\Disc 2\Track06.wav
+
+     Peak level 50.6 %
+     Track quality 100.0 %
+     Copy CRC DF956E48
+     Copy OK
+
+Track  7
+     Filename C:\My Documents\Metallica 1989-07-07 Hoffman Estates, IL\Disc 2\Track07.wav
+
+     Peak level 52.7 %
+     Track quality 99.9 %
+     Copy CRC 55638F68
+     Copy OK
+
+Track  8
+     Filename C:\My Documents\Metallica 1989-07-07 Hoffman Estates, IL\Disc 2\Track08.wav
+
+     Peak level 51.3 %
+     Track quality 99.9 %
+     Copy CRC 63EA6934
+     Copy OK
+
+Track  9
+     Filename C:\My Documents\Metallica 1989-07-07 Hoffman Estates, IL\Disc 2\Track09.wav
+
+     Peak level 52.6 %
+     Track quality 100.0 %
+     Copy CRC 37D93ABE
+     Copy OK
+
+No errors occured
+
+
+End of status report

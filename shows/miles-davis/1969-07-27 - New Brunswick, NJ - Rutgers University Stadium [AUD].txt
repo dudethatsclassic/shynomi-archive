@@ -1,0 +1,65 @@
+Miles Davis Quintet
+07-27-1969
+Rutgers University Stadium
+New Brunswick, New Jersey
+
+Project ID - LL149
+
+Source: Audience Recording
+Lineage: Audience Recording > ?? > reel-to-reel tape > ?? > flac (previous seed) >
+> wav > Soundforge 5 (Speed correction & tracking) > flac Frontend lvl7 w/SBA
+
+Miles Davis (tpt); Wayne Shorter (ss, ts); Chick Corea (p); Dave Holland (b, el-b); 
+Jack DeJohnette (d)
+
+disc 1
+
+d1t01. Miles Runs the Voodoo Down
+d1t02. Masqualero
+d1t03. The Theme
+ 
+-------------------------------------------------------
+
+Notes:
+
+- MIssing No Blues
+
+- The sound is distant and a little muffled, but not bad. I've heard worse and I've 
+heard much better. Definetly listenable. 
+
+- Speed corrected (-130cts to -110cts)
+
+- "Despite the poor audience recording, this is a fascinating show, with Corea on 
+acoustic piano and Davis playing with panache. Presumably the Quintet played a full 
+50-60 minute set, but this is all that has surfaced. Many tapes of this show are 
+quite fast; the times listed here are from a speed-corrected version."
+- Credit to Peter Losin, http://www.plosin.com/
+
+- QC done by Bgreen
+
+md5
+02cbdb29feadbb0ac969723ea55f147d *md1969-07-27.LL149.d1t01.flac
+22e63413272eddd3fd0bf5ef3e249116 *md1969-07-27.LL149.d1t02.flac
+d96b66b183c8f5c6352b2308e7fbee1f *md1969-07-27.LL149.d1t03.flac
+
+ffp
+md1969-07-27.LL149.d1t01.flac:06ebd97fb43aef504c4af4274e48700d
+md1969-07-27.LL149.d1t02.flac:dec5f7837a49f618104bcf263cfe4e30
+md1969-07-27.LL149.d1t03.flac:254fb2f94678a03cbf3e502f04aeced7
+
+shntool
+length     expanded size   cdr  WAVE problems filename
+     9:26.04       99851852    ---   --   ---xx   md1969-07-27.LL149.d1t01.flac
+     9:49.33      103977260    ---   --   ---xx   md1969-07-27.LL149.d1t02.flac
+     0:14.56        2601356    ---   --   ---xx   md1969-07-27.LL149.d1t03.flac
+    19:30.18      206430468 B                     (totals for 3 files, 0.5418 overall compression ratio)
+
+spectral analysis from TLH
+md1969-07-27.LL149.d1t01.wav:  source of track can not be qualified
+md1969-07-27.LL149.d1t02.wav:  source of track can not be qualified
+md1969-07-27.LL149.d1t03.wav:  track looks like MPEG with probability 80%
+
+Old FFP
+MD_072769_New_Brunswick - 01 It's About That Time.flac:06ebd97fb43aef504c4af4274e48700d
+MD_072769_New_Brunswick - 02 Masqualero.flac:dec5f7837a49f618104bcf263cfe4e30
+MD_072769_New_Brunswick - 03 The Theme.flac:254fb2f94678a03cbf3e502f04aeced7

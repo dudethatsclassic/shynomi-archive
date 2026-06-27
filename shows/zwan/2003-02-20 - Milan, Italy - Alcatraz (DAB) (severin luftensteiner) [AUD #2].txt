@@ -1,0 +1,86 @@
+Zwan
+February 20th 2003
+Alcatraz
+Milan, IT
+
+SOURCE (AUD#2)
+DAB > attenuator(-20) > DA-120F > Sony MZ-R900
+
+TRANSFER:
+Sony MDS-JE640 > Terratec Sixpack > Soundforge 6.0 (volume boost, a little eq'ing, fade-ins/outs; track-splitting in waverepair) / Wavelab (patching Mary Star of the Sea cut with AUD #1) > FLAC
+
+GENERATION:
+MD(M) > FLAC
+
+LENGTH:
+105:25
+
+SETLIST:
+01. Ride a Black Swan
+02. Endless Summer
+03. El Sol
+04. For Your Love
+05. Jesus, I [Lyte]
+06. God's Gonna Set This World on Fire
+07. Declarations of Faith
+08. Riverview
+09. Honestly
+10. Lyric
+11. (Band Introductions)
+12. Of a Broken Heart
+13. Friends as Lovers, Lovers as Friends
+14. Mary Star of the Sea
+
+ENCORE ONE:
+15. Settle Down
+16. I'm Eighteen [Cooper]
+
+ENCORE TWO:
+17. Desire (abandoned)
+18. Desire
+19. Spilled Milk
+
+NOTES:
+Thanks to the taper for sending this through for release
+Recorded 15m from right stack. Taper had to borrow a Swiss guy's glasses to mount the mics as he had forgotten his own
+In the original recording Mary Star of the Sea was cut approx. 50 seconds short. The missing part was patched in from Marco Meloni's source (AUD #1 DAB > battery box(120) > MT-99). 
+
+Mary Star of the Sea
+14:45-14:50 - static from mic connection problem
+Settle Down
+      00:03 - static from mic connection problem
+      00:14 - static from mic connection problem
+      00:44 - 01:03  - static from mic connection problem
+I'm Eighteen [Cooper]
+      00:28 - static from mic connection problem
+      00:33 - static from mic connection problem
+Desire
+      03:40 - static from mic connection problem
+
+MD5 FINGERPRINTS:
+e529093ca5a594e7d468154c36a3a63d *Zwan 2003-02-20b AUD2 t01 Ride a Black Swan.flac
+6eab953f1156954c694d032fbe5a7d8d *Zwan 2003-02-20b AUD2 t02 Endless Summer.flac
+1e0a4765acb82d7112a55d137d2d36ee *Zwan 2003-02-20b AUD2 t03 El Sol.flac
+58319a64982c9eb51ea7c3cc761789a6 *Zwan 2003-02-20b AUD2 t04 For Your Love.flac
+47e4068a2c7b8004d8aa0f2d76294652 *Zwan 2003-02-20b AUD2 t05 Jesus, I [Lyte].flac
+a297b7cff3ca9af2709a665e1a7b6725 *Zwan 2003-02-20b AUD2 t06 God's Gonna Set This World on Fire.flac
+b377043a0314d54c96599e7a35f6d3cd *Zwan 2003-02-20b AUD2 t07 Declarations of Faith.flac
+2f41b920d1788942cf1edc5d8b62e803 *Zwan 2003-02-20b AUD2 t08 Riverview.flac
+4d38f9e6d5b1b73c522483c005041b78 *Zwan 2003-02-20b AUD2 t09 Honestly.flac
+c0add73a819bd31268eee82e4312efca *Zwan 2003-02-20b AUD2 t10 Lyric.flac
+31009b2d63d60f41c4b8419ef3271f54 *Zwan 2003-02-20b AUD2 t11 (Band Introductions).flac
+6a8a3d6d57b430f8abdfc9407a79fe24 *Zwan 2003-02-20b AUD2 t12 Of a Broken Heart.flac
+d520273f2a07a49081d92045a68d7f30 *Zwan 2003-02-20b AUD2 t13 Friends as Lovers, Lovers as Friends.flac
+c1fcdec1a026507e22186d9b4f4af821 *Zwan 2003-02-20b AUD2 t14 Mary Star of the Sea.flac
+65d55f5b618e2dc82785852cb1de2940 *Zwan 2003-02-20b AUD2 t15 Settle Down.flac
+d40e8953e806cb01220c25b6ff95b873 *Zwan 2003-02-20b AUD2 t16 I'm Eighteen [Cooper].flac
+cbdf9df9de452291f58ef9a2d979ef5d *Zwan 2003-02-20b AUD2 t17 Desire (abandoned).flac
+0c107359a2562074bb361a358a4702b7 *Zwan 2003-02-20b AUD2 t18 Desire.flac
+2a5f9b7650b23fdf0eb99fb1c996f166 *Zwan 2003-02-20b AUD2 t19 Spilled Milk.flac
+
+RECORDED BY:
+Severin Luftensteiner
+
+DISTRIBUTION:
+Spaldz, Nicholas Serra & Members of SPLRA
+2026-03-24

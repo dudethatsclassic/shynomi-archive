@@ -1,0 +1,33 @@
+Scott Lucas (Local H)
+Cobra Lounge: Chicago, IL
+March 25, 2023
+
+Source: Schoeps MK4s > Tinybox > Sony PCM-M10 @ 24-bit / 44.1kHz
+Location: FOS right
+Transfer: M10 > USB > Audacity > xACT 2.50
+Edits/EQ: +2dB
+Taper: tapeworm(48) 
+
+Setlist:
+
+01. Intro
+02. Eddie Vedder
+03. Halcyon Days
+04. Farrah
+05. All the Kids Are Right
+06. Lovey Dovey
+07. Joey [Concrete Blonde]
+08. Fine & Good
+09. P.J. Soles
+10. Wolf Like Me [TV on the Radio]
+
+Notes: Solo acoustic set opening for Jimmy Flemion (not recorded). 
+Tinybox set to mid gain; M10 set to 8. Raw transfer with no fades or EQ.
+
+Archive: Master WAV was archived @ 24-bit/44.1kHz and FLAC'd with cue sheet. 
+
+Taped and transferred by tapeworm(48) 
+Txt file compiled on 3/25/2023
+
+*** DO NOT REMASTER WITHOUT PERMISSION. DO NOT DISTRIBUTE IN LOSSY FORMATS. 
+DO NOT SELL THIS RECORDING, TRADE IT FREELY *** 

@@ -1,0 +1,48 @@
+Matchbox Twenty
+A Brief History of Everything Tour 2017 (with Counting Crows, opening act Rivers and Rust)
+Lakewood Amphitheater, Atlanta, GA
+August 13, 2017
+
+Recorded by Corrsfan, just left-of-center, uncovered section 205, front row (last seated section before the grass seating area 205)
+
+CA-14 omnis > CA9200 battery box > Tascam DR100-MKII > 16/44 WAV > SD card > Audacity (amplify/leveling) > CD Wave Editor (tracking) > Medieval CUE Splitter (track split) > dbpoweramp (wav to 16 bit flac)
+
+I had not used my new CA-14 omni mics yet, so I decided to give them a run, knowing they would pick up more of the audience than the cards, but, hell, there are never any MB20 shows posted here, so I decided to give everyone the full concert/party experience. This was our first MB20 show, but won't be our last. Rob Thomas sounds as good today as he did 20 years ago when they got started. This was by far the biggest party-like concert we had ever been to. Even being in the last seated section and not on the floor, there was still a lot of activity in the crowd, with lots of dancing and singing (you will definitely hear it). Rob's voice is definitely the strong part of the mix, which to me is just fine, especially given the quality of his vocals and the level of audience participation. I was seated the entire show (that's why I picked the front row of the section, as my wife can't stand for long periods), with the mics clipped to the bill of my cap. Getting the gear past the bag checks and metal detector was easy, as we just put it in the bottom of my wife's purse, with all her other "purse stuff" piled on top of it (the Tascam is not small).
+
+I took a different approach to amplification this time. Instead of just amplifying the entire show at whatever non-clipping setting audacity would sustain, I broke it down into individual songs and amplified them on their own, sometimes removing aberant peaks to allow for higher non-clipping amplification. For a few songs that had a wide variation in volume levels, I did allow for some minor clipping. I did not amplify the in-between sections at all, so some of Rob's talking is a bit low. Rob has an excellent audience rapport and does a an excellent job of expressing the band's appreciation for the support they have gotten over the years.
+
+I recorded Counting Crows because I was sitting in my seat. I am not necessarily a fan, and this show definitely did NOTHING to improve that casusal "yes-I've-heard-a-few-songs-on-the-radio" attitude. The Crows fans were definitely into it, though, and some of them knew every word to every song, and given the number of songs they played that I had never-ever heard, I was amazed. I do not plan on going to the trouble to edit and post the CC show unless I get a lot of requests for it. In fact, if someone wants to take the raw file and edit it up to share, just PM me. They didn't even play Mr. Jones..WTF? The only songs I was familiar with were Round Here and A Long December. On about the 3rd song, the guy sitting next to me turned to me and asked, "Who is this band"? 'Nuff said about that...
+
+I did not record Kyle's new band, Rivers and Rust. They were OK, sort of an alt-country sound to me.
+
+Setlist:
+1  - Real World
+2  - Girl Like That
+3  - She's So Mean
+4  - Bent
+5  - Downfall (Knocking on Heaven's Door * - Kyle Cook)
+6  - If You're Gone
+7  - Hand Me Down
+8  - How Far We've Come
+9  - Disease
+10 - Mad Season
+11 - Radio
+12 - So Sad So Lonely
+13 - English Town
+14 - Hang
+15 - Unwell
+16 - Back 2 Good
+17 - Push + brief encore break
+18 - 3 AM
+19 - Long Day (with band intros)
+20 - Bright Lights
+
+* Bob Dylan cover
+
+Band Members 
+ Rob Thomas – lead vocals, rhythm guitar, piano
+ Kyle Cook – lead guitar, backing vocals
+ Brian Yale – bass
+ Paul Doucette – rhythm guitar, drums, backing vocals
+ Matt Beck – rhythm guitar, keyboards (tour member)
+ Stacy "Hot Potato" Jones – drums (tour membmer)

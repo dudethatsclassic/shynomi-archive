@@ -1,0 +1,36 @@
+Gavin Rossdale
+Sundown In The City
+Market Square
+Knoxville, TN, USA
+2009-05-14
+
+Source: {[CSB's> Battery Box (bass roll-off enabled)] + [CSC's> Battery Box]}> Y-splitter> M-Audio Microtrack 24/96 (24 bits/48 khz)
+Location: Approx. 60ft from stage left speaker stack
+Taper: xjsb125 (matt@xjsb125.com)
+
+Transfer: Microtrack> USB> WAV> Adobe Audition 1.5> WAV> CD Wave> FLAC (Level 8)
+By: xjsb125
+
+Setlist:
+
+01 - Intro/Frontline
+02 - Machine Head
+03 - Boombox
+04 - The Chemicals Between Us
+05 - Can't Stop The World
+06 - When Animals Attack
+07 - The Trouble I'm In
+08 - Banter
+09 - Forever May You Run
+10 - Banter
+11 - Landslide [Fleetwood Mac cover]
+12 - Everything Zen
+13 - Banter: They're going to shut us down/1 more song
+14 - Comedown 
+
+Notes:
+Headlining along with opener Vertigo. This concert was outdoors and halfway through the rain began to fall, followed by lightning. The band was stopped an hour into their set due to the weather. Lots of random conversation picked up throughout. Fades added in Adobe Audition 1.5, light compression, and amplification applied.
+
+*********************************
+*Do Not Convert To Lossy Formats*
+*********************************

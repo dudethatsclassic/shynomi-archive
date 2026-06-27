@@ -1,0 +1,119 @@
+Ryan Adams & the Cardinals
+February 22, 2009
+Wellmont Theater, Montclair, NJ
+
+Taper: settins0n
+Mastering: settins0n
+
+Source: SBD Matrix (w/ 2 onstage mics) > Korg MR-1000 @ 2.8mhz/1bit
+Conversion: Korg AudioGate Software (Convert to 48khz/24bit) > Logic Pro > Adobe Audition 3.0 (Convert to 44.1khz/16bit) > CD Wave > FLAC(8)
+
+
+---FEEL FREE TO ENCODE TO MP3 FOR PERSONAL USE, BUT PLEASE ONLY TRADE LOSSLESS (FLAC) VERSION---
+
+Disc I
+1. Intro
+2. I See Monsters
+3. Everybody Knows
+4. Fix It
+5. Let It Ride
+6. Two
+7. Wonderwall^
+8. Band Intros
+9. Come Pick Me Up
+10. Grand Island*
+11. Why Do They Leave
+12. Freeway To The Canyon*
+
+Disc II
+13. Peaceful Valley >
+14. Beautiful Sorta >
+15. Mockingbird >
+16. Dear Chicago
+17. Rescue Blues
+18. Oh My God, Whatever Etc.
+19. Sun Also Sets
+20. Evening Joke With Jon G.flac
+21. Goodnight Rose (fuck me... best night rose yet)
+22. Bartering Lines (one of the heaviest b lines I've heard)
+
+Disc III
+23. Born Into A Light
+24. Stars Go Blue
+25. Oh My Sweet Carolina
+26. A Kiss Before I Go >
+27. Shakedown on 9th St.
+Encore
+28. Easy Plateau
+29. Dear John
+30. Cold Roses
+31. improv
+32. Magick
+
+
+* Neal Casal on lead vox
+^ Oasis cover
+
+
+
+Notes:
+
+Ryan Adams (Vocals / Guitar / Piano)
+Neal Casal (Guitar / Piano / Vocals)
+Chris Feinstein (Bass / Background Vocals)
+Jon Graboff (Pedal Steel / Guitar / Background Vocals)
+Brad Pemberton (Drums / Background Vocals)
+
+FOH: Paul Massaro
+Taped/Mastered: settins0n
+Source: SBD Matrix (w/ 2 onstage mics)
+Lineage: Korg MR-1000 @ 2.8mhz/1bit > Korg AudioGate Software (Convert to 48khz/24bit) > Logic Pro > Adobe Audition 3.0 (Convert to 44.1khz/16bit) > CD Wave > FLAC(8)
+
+Thanks to Ryan Adams, Cardinals, crew, and anyone else who made this recording possible. 
+
+Please give support by purchasing official merchandise. 
+
+THIS RECORDING IS NOT FOR SALE - DO NOT ALLOW THIS TO HAPPEN!
+DO NOT REDISTRIBUTE IN A LOSSY FORMAT - KEEP THE RECORDING PURE! 
+
+This file must accompany this package to preserve lineage info!
+
+Brought to you by www.ryanadamsarchive.com
+
+--NEVER PAY FOR LIVE AUDIENCE RECORDINGS--
+
+
+FLAC FINGERPRINTS:
+============================================================
+ryanadams2009-02-22.korg.sbd.t01.flac:8d2a765a390ac2e25e10920f7d058232
+ryanadams2009-02-22.korg.sbd.t02.flac:b749becb7caf9cf2679350974090d31a
+ryanadams2009-02-22.korg.sbd.t03.flac:4ec5cf2b00103c0bb6a6a732aa43e2b7
+ryanadams2009-02-22.korg.sbd.t04.flac:4cba1def1c532d4a3e15aed192250c76
+ryanadams2009-02-22.korg.sbd.t05.flac:d13030621c5d5f7e0dc4bf19248b85ec
+ryanadams2009-02-22.korg.sbd.t06.flac:9c73f5f72464a582892e14f49a231a46
+ryanadams2009-02-22.korg.sbd.t07.flac:1f05e0a2412d5810b59df637f67188f9
+ryanadams2009-02-22.korg.sbd.t08.flac:cdd6243803f63c0de3271889a591d8eb
+ryanadams2009-02-22.korg.sbd.t09.flac:4da1308977e9d9a446c5dbce1c1a70cc
+ryanadams2009-02-22.korg.sbd.t10.flac:00cb7422c0906b18cde89c6d566fde2d
+ryanadams2009-02-22.korg.sbd.t11.flac:192a962bf3f42750ae991098879f7e77
+ryanadams2009-02-22.korg.sbd.t12.flac:f3a851a08594350f2d7beaa5e5cb76a2
+ryanadams2009-02-22.korg.sbd.t13.flac:01711a0d9b12d9b1349b11d286d5dcb2
+ryanadams2009-02-22.korg.sbd.t14.flac:a1a2b541deb9330e009b6c8f9a892b68
+ryanadams2009-02-22.korg.sbd.t15.flac:7c00f33e69884b8190c0b39711437f75
+ryanadams2009-02-22.korg.sbd.t16.flac:08a6ab05238bca8ebe782db592f35609
+ryanadams2009-02-22.korg.sbd.t17.flac:b1c225f288c5b4703111f1a9a422eb35
+ryanadams2009-02-22.korg.sbd.t18.flac:d6cc16e2d8624e926bba399b0e3e2ad8
+ryanadams2009-02-22.korg.sbd.t19.flac:d75659dafd9ba4a9f9c8b39fcac6d337
+ryanadams2009-02-22.korg.sbd.t20.flac:78c2a7811086a496926770fc9a560a0b
+ryanadams2009-02-22.korg.sbd.t21.flac:78c7bd6b52ef1c41e32279063979b351
+ryanadams2009-02-22.korg.sbd.t22.flac:59577639ee1237f745c969d88b2c3384
+ryanadams2009-02-22.korg.sbd.t23.flac:05eb91d3c74597ad83cf78f1e4b46d5c
+ryanadams2009-02-22.korg.sbd.t24.flac:b9614dd2153a66b32fb7ff6829949372
+ryanadams2009-02-22.korg.sbd.t25.flac:0cfd29c6758d848cec5bfcf99fb56e85
+ryanadams2009-02-22.korg.sbd.t26.flac:d33c54eb5eb5f7428dadc59a80b59883
+ryanadams2009-02-22.korg.sbd.t27.flac:56df66ccba5cf9e078885e59fc07eb6e
+ryanadams2009-02-22.korg.sbd.t28.flac:7d3bfe6165fdef75bea7023259d2997c
+ryanadams2009-02-22.korg.sbd.t29.flac:41d08b09685edd16f62b737debd2d47b
+ryanadams2009-02-22.korg.sbd.t30.flac:4a39c9b6ab3c6b0a838619b690a170cd
+ryanadams2009-02-22.korg.sbd.t31.flac:c53636204e6b3849d88288f751407d65
+ryanadams2009-02-22.korg.sbd.t32.flac:96089b94c6fff19e1c757497c5decf59

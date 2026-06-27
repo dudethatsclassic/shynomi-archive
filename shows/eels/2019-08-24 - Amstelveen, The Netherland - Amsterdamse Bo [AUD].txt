@@ -1,0 +1,79 @@
+Eels
+Once In A Blue Moon Festival (2nd Annual)
+Blue Moon Stage
+Amsterdamse Bos
+Amstelveen, Netherlands
+August 24, 2019
+
+** 24 BIT **
+
+Source:  SP-CMC-8 (cardioids) > SP-SPSB-11 > Sony PCM-M10 @ 24 bit/48 kHz
+Mastering:  .WAV > Sound Forge Pro 11.0 Build 299 [iZotope Mastering Suite (declick); minor edits, normalize, & fades] > CDWav (tracking) > iZotope 
+MBIT+ (dithered and downsampled to 16 bit/44.1 kHz) > Trader's Little Helper (level 5) > FLAC > TagScanner 6.0.35 (tagging)
+Location:  About 15-20 meters from the stage, left side of the tent on a small platform
+Recorded by:  A Dutchbird production 
+Mastered by:  Dennis Orr
+
+Setlist: (1:16:37)
+01 Intro (Rocky Theme)
+02 Out In The Street
+03 Raspberry Beret
+04 Bone Dry
+05 Flyswatter
+06 Dog Faced Boy
+07 Chat
+08 I Need Some Sleep
+09 Prizefighter
+10 Tremendous Dynamite
+11 You Are the Shining Light
+12 Chat
+13 My Beloved Monster
+14 I'm Going To Stop Pretending That I Didn't Break Your Heart
+15 I Like The Way This Is Going
+16 Band Intros
+17 Little Joe!
+18 Today Is The Day
+19 Novocaine For The Soul
+20 Souljacker, Part I
+21 I Like Birds
+22 Mr. E's Beautiful Blues
+23 Chat
+24 Love And Mercy
+25 The End
+26 Outro
+
+E (Mark Oliver Everett) - lead vocals, guitar, & percussion
+The Chet (Jeff Lyster) - guitar, bongos, & backing vocals
+Big Al (Allen Hunter) - bass & backing vocals
+Little Joe - drums & backing vocals
+
+Mastering Notes:
+Someone bumped the bag with the recorder in it, and the volume wheel was turned up.  As a result there was extreme clipping over the last 13:45 of the show.  I used MAGIX's
+"Clipped Peak Restoration" plugin to repair this section as best as possible.  The sound isn't quite as good as the rest of the show, though.
+
+Eels2019-08-24t01.flac:ee34f7595a9e9b5406a2f4babf9ff2e1
+Eels2019-08-24t02.flac:b8247d8c3a5dec73860a604c942067ac
+Eels2019-08-24t03.flac:8f8c99525efc742c5a6d9fd541e89944
+Eels2019-08-24t04.flac:3ec1c988d0a79231fa773c3fc4c3dff1
+Eels2019-08-24t05.flac:f8597922c50d1d0beb6b6513afffd132
+Eels2019-08-24t06.flac:9b65e975b3a4364151c3cc0b6fb72155
+Eels2019-08-24t07.flac:01322cb38bc3742712ca68b69a870d88
+Eels2019-08-24t08.flac:19b13178a1586384ec63c9002f0e7544
+Eels2019-08-24t09.flac:c33e9e19c50f57b3e29ad0eac3b513ec
+Eels2019-08-24t10.flac:dcb95e43f7cdbf9e72be58690e93864e
+Eels2019-08-24t11.flac:9373b976060cd6e1808ed169b5cc5f88
+Eels2019-08-24t12.flac:81b74b3aeed40075fdbdcd2f9a9fa1b8
+Eels2019-08-24t13.flac:ed64d261d3ff625005b66327a3960650
+Eels2019-08-24t14.flac:197fa4dd1280b790401e3d28cdaf2d6b
+Eels2019-08-24t15.flac:01dcf427b9869c1f933412e475fab46c
+Eels2019-08-24t16.flac:d3895025ee274012de031fd33b48485d
+Eels2019-08-24t17.flac:306b8e72a6bdc39511bd507a504079ac
+Eels2019-08-24t18.flac:6f04fd4ee01d174ecbc383a24a5a709b
+Eels2019-08-24t19.flac:ebac15d0ed17ba9a53af4488c8f57ac0
+Eels2019-08-24t20.flac:bc911db5ca0cfe24664a07e02ad527af
+Eels2019-08-24t21.flac:24bb310e8675abe16726904705e00009
+Eels2019-08-24t22.flac:6f1d0e9884fd503e1789956e5b53e8ce
+Eels2019-08-24t23.flac:e410e7c8b2c750a9f39972deef3b96c4
+Eels2019-08-24t24.flac:67d876034252d522ea9e8b232a582e23
+Eels2019-08-24t25.flac:c9a182a856e1ecacdcbe9583772b1e16
+Eels2019-08-24t26.flac:837cbb91bf817e8f9f62fba53a53c185

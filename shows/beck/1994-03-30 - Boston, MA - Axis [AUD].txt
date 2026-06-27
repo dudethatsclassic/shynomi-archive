@@ -1,0 +1,27 @@
+Beck
+March 30, 1994
+Axis
+Boston, MA
+
+Source: AUD cassette (2nd gen?)
+
+Conversion: Technics RS-TR313 > Griffin iMic (20 bit sampling) > WAV (SoundStudio on G4 450 Mhz) > CDWav 1.75 (for track splits) > SHN (Shorten for OS X 1.1a4)
+
+Tracks:
+
+01. Introduction
+02. Mexico
+03. Special People
+04. One Foot in the Grave
+05. Colour Coordinated
+06. Pay No Mind (Snoozer)
+07. Fuckin With My Head (Mountain Dew Rock)
+08. Fume
+09. Soul Suckin Jerk
+10. Blackhole
+11. Loser
+12. Burnt Orange Peel
+13. Sleeping Bag
+14. Truckdrivin Neighbors Downstairs (Yellow Sweat)
+
+Notes: I chose not to apply any noise reduction to this reduction, to preserve the frequency range from the original recording as best as possible. The dropout in Pay No Mind, the pause button scratching in Loser, and the cut at the end of Sleeping Bag are all present on the original recordings. The only processing done was to add short fades at the beginning and end.

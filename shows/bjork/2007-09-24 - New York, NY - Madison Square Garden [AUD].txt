@@ -1,0 +1,87 @@
+Björk
+2007-09-24
+Madison Square Garden
+New York, NY  USA
+
+Digital Master Recording
+Recorded from Front of Board
+Section 5, Row E
+
+DPA 4021's > Marantz PMD-660 (Oade BCM) > 16bit 44.1 .wav >
+Soundforge (level boosts and balance, softening and some removal 
+of audience noise, EQ, set fades) > CDWave 1.95 (tracking) > Flac 
+Frontend (level 7, align sector boundaries) > flac
+
+Björk's powerful performance is captured in a recording of depth,
+balance and clarity.  I am extremely proud of this recording.
+Enjoy!
+
+Recorded and Produced by
+danlynch
+2007-09-25
+
+Premiere Download offered at 
+http://www.nyctaper.com
+nyctaper@nyctaper.com
+
+Much assistance provided by
+Bjork Hub:
+bjorkhub.no-ip.info
+http://bjorklossless.goudwater.nl
+
+
+Setlist:
+[total time 1:27:22]
+01  Brennið Þið Vitar
+02  Earth Intruders
+03  Hunter
+04  Pagan Poetry
+05  I See Who You Are*
+06  Unravel
+07  The Pleasure is All Mine
+08  Dull Flame of Desire**
+09  Jóga
+10  Desired Constellation
+11  Army of Me
+12  Innocence
+13  I Miss You
+14  Cover Me
+15  Wanderlust
+16  Hyperballad
+17  Pluto
+Encores:
+18  [encore break]
+19  [band introductions]
+20  Oceania
+21  Declare Independence
+
+*With Min Xiao-Fen
+**With Antony Hegarty
+
+
+Please support this wonderful and unique artist at
+http://www.bjork.com
+
+
+Flac Fingerprints:
+Bjork2007-09-24_FOB_DPA4021_t01.flac:904ddba6a38baaeeb4e72eed4ef09985
+Bjork2007-09-24_FOB_DPA4021_t02.flac:8c338b3b8885f76d74311cd0d01f164d
+Bjork2007-09-24_FOB_DPA4021_t03.flac:750a760db47723b63775c336e030941e
+Bjork2007-09-24_FOB_DPA4021_t04.flac:1f0d8c04a9cddce7827c09dc7f75d948
+Bjork2007-09-24_FOB_DPA4021_t05.flac:db3e63225e8b0722a50ec2344fa29edf
+Bjork2007-09-24_FOB_DPA4021_t06.flac:633189bc57de5e85193ee2cfe5ae339e
+Bjork2007-09-24_FOB_DPA4021_t07.flac:24e2c97d0424ea5adc2740688c593ca6
+Bjork2007-09-24_FOB_DPA4021_t08.flac:78eb327e4b123663940bbc0fce1d7012
+Bjork2007-09-24_FOB_DPA4021_t09.flac:2abf3e9da5fe4a02370b0ebfdd4db1cf
+Bjork2007-09-24_FOB_DPA4021_t10.flac:8f2a00550f7710449929fe2b21c45a3c
+Bjork2007-09-24_FOB_DPA4021_t11.flac:ac05687156d27bd68429ea05d84033e3
+Bjork2007-09-24_FOB_DPA4021_t12.flac:4461157c9d7a310a5e0b6cc86147a6ab
+Bjork2007-09-24_FOB_DPA4021_t13.flac:aef6f1a449e22079c9b5806e189f9104
+Bjork2007-09-24_FOB_DPA4021_t14.flac:135c7a277b25cc100a00cc871e37f1bf
+Bjork2007-09-24_FOB_DPA4021_t15.flac:3f7d69a8a4f2b4754da7e8895bc4036b
+Bjork2007-09-24_FOB_DPA4021_t16.flac:0694ae60e89027b00d218c1b234c7469
+Bjork2007-09-24_FOB_DPA4021_t17.flac:e55ff7961166e56bca75b6135a2ba110
+Bjork2007-09-24_FOB_DPA4021_t18.flac:86fbe2e0c359a760edab7a5ffccc76d4
+Bjork2007-09-24_FOB_DPA4021_t19.flac:eca3fcbf6e475a6fe59bbdb871a762c2
+Bjork2007-09-24_FOB_DPA4021_t20.flac:605e8d556a28c85b54ec22749db54615
+Bjork2007-09-24_FOB_DPA4021_t21.flac:c10745c09d236dec49e68a41fb343f01

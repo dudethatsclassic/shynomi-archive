@@ -1,0 +1,41 @@
+Metallica
+
+1986-03-27
+Kansas Coliseum 
+Wichita, KS 
+
+
+Source: Unknown AUD (Unknown Gen Cass)
+
+Transfer: Unknown Gen Cass -> Akai GXC-704D(w/azimuth adjustment) -> Audacity -> WAV -> HAT(Track/Align) -> WAV(tracked) -> FLAC(lvl8)
+
+
+01. Ecstasy Of Gold
+02. Battery
+03. Master of Puppets
+04. Seek & Destroy
+05. Welcome Home (Sanitarium)
+06. For Whom the Bell Tolls
+07. Ride the Lightning
+08. Creeping Death
+09. Am I Evil?
+10. Damage Inc 
+
+
+Notes:
+This is 100% the correct the right show, james mentions Wichita a couple times during the show, once before master of puppets also again before creeping death. It seems like Welcome Home (Sanitarium) is from a different source or a different show altogether and was added to this source...maybe the taper missed it so a different version was added??? 
+
+
+
+FLAC Fingerprint:
+
+track01.flac:32b75eee3d46eb3819c3494bf6501b3a
+track02.flac:7ffaff2fbbd4e7406382e4f5bb73fbee
+track03.flac:194a02b48068306010fa621caed9fb90
+track04.flac:849a131f88ab616f04ad483207f7780d
+track05.flac:2711662138a0e2b93c05aff0c25aa95b
+track06.flac:9bf24e8a43c3310f4a89264767fff503
+track07.flac:d67170e9546406af21d6bb4042eae355
+track08.flac:02ab598dbc43d2fd1914d2fc3bf948e9
+track09.flac:6f0b9bb580e516c09265a37d8c6331d9
+track10.flac:6791e3c2fd8f8ea22c4e9ac4d713581b

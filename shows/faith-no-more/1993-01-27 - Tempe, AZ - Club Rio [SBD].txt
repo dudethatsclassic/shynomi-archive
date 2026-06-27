@@ -1,0 +1,47 @@
+Faith No More  
+Date: 1993-01-27 
+Venue: (Chuck Rebish) @Club Rio, Scottsdale, AZ 
+Sets: 91min+ 
+Media: CDR 
+Number: 2 
+Source: SBD. DAT(M) > DAT(1) > CDR(2) > FLAC > Traders Little Helper > WAV > Soundforge 9 (tracking) > WAV > Traders Little Helper > FLAC (Level 8) 
+Quality: A+ 
+Notes: 
+
+01 Intro
+02 Caffeine
+03 Death March 
+04 Land Of Sunshine
+05 The Crab Song
+06 Midlife Crisis > My Name Is Prince
+07 Chinese Arithmetic
+08 RV
+09 Surprise! You're Dead!
+10 Be Aggressive
+11 Introduce Yourself
+12 Easy
+13 Crack Hitler
+14 We Care A Lot
+15 Woodpecker From Mars
+16 Jizzlobber
+17 Epic > Free Your Mind
+18 Kindergarten
+19 Sweet Dreams
+20 Edge Of The World
+21 Let's Lynch The Landlord
+22 A Small Victory (incl.infamous Hangin with MTV version end bit)
+
+----------------------------------------
+
+Alcool_hol notes:
+
+FLAC > WAV > FLAC6
+
+91:24
+
+Audacity:
+
+Silence cleanup
+High Pass Filter
+Normalized
+Amplified

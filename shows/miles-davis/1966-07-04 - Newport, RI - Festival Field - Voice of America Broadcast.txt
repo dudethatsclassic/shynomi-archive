@@ -1,0 +1,72 @@
+Miles Davis Quintet
+07-04-1966
+Festival Field
+Newport Rhode Island
+
+Project ID - LL140
+
+Source: FM Broadcast
+Lineage: Voice of America (VOA) broadcast >? >DAT at 48 kHz > 
+HDD via coax and Midiman Dio 2448 digital soundcard >
+Resampled to 44.1 kHz, DC offset corrected, and wav edits with SoundForge 6.0 > 
+split with CD Wave > FLAC Frontend (level 8 with sector alignment) > ?? > 
+speed corrected by 123 cents > ?? > flac
+
+Miles Davis (tpt); Wayne Shorter (ts); Herbie Hancock (p); Ron Carter (b); 
+Tony Williams (d); Willis Conover (ann)
+
+disc 1
+
+d1t01. Introduction > Gingerbread Boy 
+d1t02. All Blues
+d1t03. Stella by Starlight/
+ 
+-------------------------------------------------------
+
+Notes:
+
+- d1t01: The track starts at the very end of the announcers intro. 
+
+- d1t02: there is a little distortion from 9:52 to 10:00
+
+- D1t03: cut at the end and is incomplete
+
+- The sound is a little muffled, a little heavy on the low end, and a slight hiss is 
+audible but very nice regardless. The speed has been increased considerably on this 
+source from LL132 as noted above with unknown processes and software. A fine specimen
+
+- "There has been some confusion about the date of this performance, but July 4 
+seems to be the correct date. The date is listed in a pre-festival advertisement 
+in the New York Amsterdam News (June 25), and the review of the festival in Down 
+Beat (August 11) confirms that the Quintet played on July 4."- Credit to Peter Losin, 
+http://www.plosin.com/
+
+- QC done by Bgreen
+
+md5
+5392076828ef30958583d1c75393b881 *md1966-07-04.LL140.d1t01.flac
+9fd435805fd83c7e017752b852a249f8 *md1966-07-04.LL140.d1t02.flac
+a5eac1f1c7b4ca5e5c58977eab932fb7 *md1966-07-04.LL140.d1t03.flac
+
+ffp
+md1966-07-04.LL140.d1t01.flac:8850861024e7b85d12673c573126ad22
+md1966-07-04.LL140.d1t02.flac:0d15bf3bff99b8362cb5876836a5374b
+md1966-07-04.LL140.d1t03.flac:fbe6c4f819e03624c48b5acb2a723bc2
+
+shntool
+length     expanded size   cdr  WAVE problems filename
+     8:33.46       90601436    ---   --   ---xx   md1966-07-04.LL140.d1t01.flac
+    10:30.63      111280220    ---   --   ---xx   md1966-07-04.LL140.d1t02.flac
+     7:00.45       74193884    ---   --   ---xx   md1966-07-04.LL140.d1t03.flac
+    26:05.04      276075540 B                     (totals for 3 files, 0.4860 overall compression ratio)
+ 
+spectral analysis from TLH
+md1966-07-04.LL140.d1t01.wav:  track looks like CDDA with probability 100%
+md1966-07-04.LL140.d1t02.wav:  track looks like CDDA with probability 99%
+md1966-07-04.LL140.d1t03.wav:  track looks like CDDA with probability 100%
+
+old md5 
+5392076828ef30958583d1c75393b881 *miles_1966-07-04_fixed_T1.flac
+9fd435805fd83c7e017752b852a249f8 *miles_1966-07-04_fixed_T2.flac
+a5eac1f1c7b4ca5e5c58977eab932fb7 *miles_1966-07-04_fixed_T3.flac
+

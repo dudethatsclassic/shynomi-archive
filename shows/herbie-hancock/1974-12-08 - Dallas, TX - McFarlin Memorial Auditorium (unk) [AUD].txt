@@ -1,0 +1,33 @@
+Herbie Hancock Headhunters
+McFarlin Memorial Auditorium
+Dallas, Texas
+December 8, 1974
+
+Audience, unknown cassette recording
+Files received by agalli in trade
+Lineage: ? > WAV > MATLAB > TLH > FLAC (L8)
+
+SET LIST:
+1. Palm Grease
+2. Sly
+3. Butterfly > Spank-A-Lee(Intro) > Band Introduction
+4. Spank-A-Lee
+5. Improvisation > Shekere
+6. Chameleon
+
+Running time: 85:32
+
+Band:
+Herbie Hancock - Piano, Keyboards
+Paul Jackson - Bass guitar
+Bennie Maupin - Soprano & Tenor Saxophone, Bass Clarinet
+Mike Clark - Drums
+Bill Summers - Percussion
+
+Notes:
+-cuts after track 3, 4 and 5
+-automatically balanced levels
+-automatically phase corrected channel alignment
+-original audio was running fast so speed corrected
+-tracks 1-3 were 2.6% fast, tracks 4-5 were 2.3% fast and track 6 was 3.0% fast
+Ross (ledwhofloyd), Sept. 2025

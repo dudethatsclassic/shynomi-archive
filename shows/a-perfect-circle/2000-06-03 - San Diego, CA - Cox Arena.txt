@@ -1,0 +1,25 @@
+A Perfect Circle
+June 03, 2000
+Cox Arena
+San Diego, CA
+
+Source: DPA 4061’s > CSBox > Sony PCM-M1
+Lineage: DAT Master 16/48 > FLAC
+Transfer (BLG): DA-20 > coax > Marantz PMD-670 > usb reader > Adobe Audition (edits) > iZotope Ozone 5 (EQ,Exciter,Imaging,Dynamics) > WavePad (tracking) > xACT (tags) > FLAC
+Taper: Ed Davis
+
+01 Renholder
+02 The Hollow
+03 Magdalena
+04 Sleeping Beauty
+05 Brena
+06 Orestes
+07 Three Libras
+08 Thinking of You
+09 Thomas
+10 Rose
+11 Judith
+
+Total Time: 46:10
+
+Notes: Opening for Nine Inch Nails.

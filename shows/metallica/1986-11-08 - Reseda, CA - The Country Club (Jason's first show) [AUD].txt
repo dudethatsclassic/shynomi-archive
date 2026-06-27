@@ -1,0 +1,53 @@
+Metallica
+
+1986-11-08
+The Country Club
+Reseda, Ca
+
+Source: Unknown AUD (Unknown Gen. Cass)
+
+Transfer: Unknown Gen. Cass > Sony TCW-305 > Roxio 6.0 > WAV > CDR(M) > EAC(secure) > WAV > FLAC(lvl8) 
+
+
+01. The Ecstasy of Gold -> Battery
+02. Master Of Puppets
+03. For Whom The Bell Tolls
+04. Welcome Home (Sanitarium)
+05. Ride The Lightning
+06. Guitar Solo
+07. Whiplash
+08. Seek And Destroy
+09. Creeping Death (cuts in)
+10. The Four Horsemen
+11. Fade To Black
+12. Am I Evil?
+13. Damage Inc.
+14. Fight Fire With Fire 
+
+
+Notes:
+Secret gig! This was also Jason's first show. I got this show directly from the guy that transfered his Unknown gen aud cass to cdr for me. The sound on this starts out pretty rough but shortly improves in the middle of battery. Track 9 Creeping Death cuts in on Die Die Die part, my guess is this is due to a cass flip. I was VERY sick of always getting mp3 sourced copies of this show, so im glad i dont have to worry about it anymore. :)
+
+
+
+                            ~ bubba420 ~
+
+
+
+
+FLAC Fingerprint:
+
+Track01.flac:d81f0c5bc092c90d28f1949d4a5692d3
+Track02.flac:20bd78d958e875b7d26f9ad2493398f5
+Track03.flac:39e11c18cfa6c485ab46847d4d28c3ac
+Track04.flac:44c5e6a7b0f478e08edb7a058328b0c4
+Track05.flac:2472b04cfd75debfdd3cc9f33492b0f4
+Track06.flac:720da931edf20ee1c03002ed485f6e0c
+Track07.flac:783e507eae3f350d61eef0e557a3cba0
+Track08.flac:81caf2de33c4916d327620b78ca23b5a
+Track09.flac:14612047dacca267a9ff3e75c6b783be
+Track10.flac:81a0b5ed3b055793f2c05e4cad8f2521
+Track11.flac:c34b5949b7f8033c99ef4b57dba9688f
+Track12.flac:828adf5ff9e6e9566f20d6468df414c2
+Track13.flac:ca5b03d03689149d07c48971e7d7fbac
+Track14.flac:e65d0d1b3a4e97f1dc7b56fcdfe5617c

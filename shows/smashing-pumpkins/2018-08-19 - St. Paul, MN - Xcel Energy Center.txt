@@ -1,0 +1,126 @@
+sp2018-08-19t01.wav:  successfully encoded to 'sp2018-08-19t01.flac' (ratio = 0.618).
+sp2018-08-19t02.wav:  successfully encoded to 'sp2018-08-19t02.flac' (ratio = 0.687).
+sp2018-08-19t03.wav:  successfully encoded to 'sp2018-08-19t03.flac' (ratio = 0.753).
+sp2018-08-19t04.wav:  successfully encoded to 'sp2018-08-19t04.flac' (ratio = 0.757).
+sp2018-08-19t05.wav:  successfully encoded to 'sp2018-08-19t05.flac' (ratio = 0.740).
+sp2018-08-19t06.wav:  successfully encoded to 'sp2018-08-19t06.flac' (ratio = 0.723).
+sp2018-08-19t07.wav:  successfully encoded to 'sp2018-08-19t07.flac' (ratio = 0.720).
+sp2018-08-19t08.wav:  successfully encoded to 'sp2018-08-19t08.flac' (ratio = 0.666).
+sp2018-08-19t09.wav:  successfully encoded to 'sp2018-08-19t09.flac' (ratio = 0.770).
+sp2018-08-19t10.wav:  successfully encoded to 'sp2018-08-19t10.flac' (ratio = 0.745).
+sp2018-08-19t11.wav:  successfully encoded to 'sp2018-08-19t11.flac' (ratio = 0.743).
+sp2018-08-19t12.wav:  successfully encoded to 'sp2018-08-19t12.flac' (ratio = 0.718).
+sp2018-08-19t13.wav:  successfully encoded to 'sp2018-08-19t13.flac' (ratio = 0.734).
+sp2018-08-19t14.wav:  successfully encoded to 'sp2018-08-19t14.flac' (ratio = 0.708).
+sp2018-08-19t15.wav:  successfully encoded to 'sp2018-08-19t15.flac' (ratio = 0.663).
+sp2018-08-19t16.wav:  successfully encoded to 'sp2018-08-19t16.flac' (ratio = 0.700).
+sp2018-08-19t17.wav:  successfully encoded to 'sp2018-08-19t17.flac' (ratio = 0.670).
+sp2018-08-19t18.wav:  successfully encoded to 'sp2018-08-19t18.flac' (ratio = 0.658).
+sp2018-08-19t19.wav:  successfully encoded to 'sp2018-08-19t19.flac' (ratio = 0.701).
+sp2018-08-19t20.wav:  successfully encoded to 'sp2018-08-19t20.flac' (ratio = 0.719).
+sp2018-08-19t21.wav:  successfully encoded to 'sp2018-08-19t21.flac' (ratio = 0.662).
+sp2018-08-19t22.wav:  successfully encoded to 'sp2018-08-19t22.flac' (ratio = 0.715).
+sp2018-08-19t23.wav:  successfully encoded to 'sp2018-08-19t23.flac' (ratio = 0.698).
+sp2018-08-19t24.wav:  successfully encoded to 'sp2018-08-19t24.flac' (ratio = 0.682).
+sp2018-08-19t25.wav:  successfully encoded to 'sp2018-08-19t25.flac' (ratio = 0.761).
+sp2018-08-19t26.wav:  successfully encoded to 'sp2018-08-19t26.flac' (ratio = 0.661).
+sp2018-08-19t27.wav:  successfully encoded to 'sp2018-08-19t27.flac' (ratio = 0.732).
+sp2018-08-19t28.wav:  successfully encoded to 'sp2018-08-19t28.flac' (ratio = 0.751).
+sp2018-08-19t29.wav:  successfully encoded to 'sp2018-08-19t29.flac' (ratio = 0.725).
+sp2018-08-19t30.wav:  successfully encoded to 'sp2018-08-19t30.flac' (ratio = 0.718).
+sp2018-08-19t31.wav:  successfully encoded to 'sp2018-08-19t31.flac' (ratio = 0.730).
+sp2018-08-19t32.wav:  successfully encoded to 'sp2018-08-19t32.flac' (ratio = 0.722).
+sp2018-08-19t33.wav:  successfully encoded to 'sp2018-08-19t33.flac' (ratio = 0.752).
+sp2018-08-19t34.wav:  successfully encoded to 'sp2018-08-19t34.flac' (ratio = 0.678).
+sp2018-08-19t35.wav:  successfully encoded to 'sp2018-08-19t35.flac' (ratio = 0.752).
+sp2018-08-19t36.wav:  successfully encoded to 'sp2018-08-19t36.flac' (ratio = 0.680).
+sp2018-08-19t37.wav:  successfully encoded to 'sp2018-08-19t37.flac' (ratio = 0.744).
+sp2018-08-19t38.wav:  successfully encoded to 'sp2018-08-19t38.flac' (ratio = 0.643).
+
+No errors occured.
+
+
+sp2018-08-19t01.flac:  tested ok (file is decodable without error).
+sp2018-08-19t02.flac:  tested ok (file is decodable without error).
+sp2018-08-19t03.flac:  tested ok (file is decodable without error).
+sp2018-08-19t04.flac:  tested ok (file is decodable without error).
+sp2018-08-19t05.flac:  tested ok (file is decodable without error).
+sp2018-08-19t06.flac:  tested ok (file is decodable without error).
+sp2018-08-19t07.flac:  tested ok (file is decodable without error).
+sp2018-08-19t08.flac:  tested ok (file is decodable without error).
+sp2018-08-19t09.flac:  tested ok (file is decodable without error).
+sp2018-08-19t10.flac:  tested ok (file is decodable without error).
+sp2018-08-19t11.flac:  tested ok (file is decodable without error).
+sp2018-08-19t12.flac:  tested ok (file is decodable without error).
+sp2018-08-19t13.flac:  tested ok (file is decodable without error).
+sp2018-08-19t14.flac:  tested ok (file is decodable without error).
+sp2018-08-19t15.flac:  tested ok (file is decodable without error).
+sp2018-08-19t16.flac:  tested ok (file is decodable without error).
+sp2018-08-19t17.flac:  tested ok (file is decodable without error).
+sp2018-08-19t18.flac:  tested ok (file is decodable without error).
+sp2018-08-19t19.flac:  tested ok (file is decodable without error).
+sp2018-08-19t20.flac:  tested ok (file is decodable without error).
+sp2018-08-19t21.flac:  tested ok (file is decodable without error).
+sp2018-08-19t22.flac:  tested ok (file is decodable without error).
+sp2018-08-19t23.flac:  tested ok (file is decodable without error).
+sp2018-08-19t24.flac:  tested ok (file is decodable without error).
+sp2018-08-19t25.flac:  tested ok (file is decodable without error).
+sp2018-08-19t26.flac:  tested ok (file is decodable without error).
+sp2018-08-19t27.flac:  tested ok (file is decodable without error).
+sp2018-08-19t28.flac:  tested ok (file is decodable without error).
+sp2018-08-19t29.flac:  tested ok (file is decodable without error).
+sp2018-08-19t30.flac:  tested ok (file is decodable without error).
+sp2018-08-19t31.flac:  tested ok (file is decodable without error).
+sp2018-08-19t32.flac:  tested ok (file is decodable without error).
+sp2018-08-19t33.flac:  tested ok (file is decodable without error).
+sp2018-08-19t34.flac:  tested ok (file is decodable without error).
+sp2018-08-19t35.flac:  tested ok (file is decodable without error).
+sp2018-08-19t36.flac:  tested ok (file is decodable without error).
+sp2018-08-19t37.flac:  tested ok (file is decodable without error).
+sp2018-08-19t38.flac:  tested ok (file is decodable without error).
+
+No errors occured.
+
+
+sp2018-08-19t01.flac:5a10d8303b48f149247ec792eb947c4f
+sp2018-08-19t02.flac:2160dae1f9dd09c2a9f4344aee45a2cf
+sp2018-08-19t03.flac:860805429ef731f9eb59cf8fcffd2b3f
+sp2018-08-19t04.flac:2eafd0797a39582be0f7862ad6f83ce5
+sp2018-08-19t05.flac:113d59c09ed66c245a33224a627bd386
+sp2018-08-19t06.flac:edd5d0c2c897e6e6cd5617e172830f03
+sp2018-08-19t07.flac:8ce0df01ceb4bc8447679e0e8827c975
+sp2018-08-19t08.flac:6cc93225b5548bca3a91a3ecf3eadf88
+sp2018-08-19t09.flac:f9e4f04507b200c354c7abd47ce8119f
+sp2018-08-19t10.flac:9aac864d9a91bd9a11ab0bd7d729be97
+sp2018-08-19t11.flac:676dd6d060378885f901ecb7b75c1d00
+sp2018-08-19t12.flac:3f19322d4bc0b069c9c8fb3dbc6a412f
+sp2018-08-19t13.flac:d7bef7121240d7726e1a107b0c1304b4
+sp2018-08-19t14.flac:ef57b7ebda97409f03cd319adde832ae
+sp2018-08-19t15.flac:84cb34414769f46bd79d3d7b7af9e9ce
+sp2018-08-19t16.flac:03c1f2e35c7b443e907c871cddca6bc3
+sp2018-08-19t17.flac:c3ce5d6c217b244771a05ed25d4d6024
+sp2018-08-19t18.flac:51d6355f59f6085627094b00ed286b96
+sp2018-08-19t19.flac:fe298d5cc4d35de67cf0025b3b9ec057
+sp2018-08-19t20.flac:7f6bcdd87f5048909e871067e74568b9
+sp2018-08-19t21.flac:92053fc5aa6c58541c2547385a14250c
+sp2018-08-19t22.flac:6d324f1e705111b44616e794ce0f7c4d
+sp2018-08-19t23.flac:3d3a4c193133486c3bdb034333e31589
+sp2018-08-19t24.flac:dcf3bc76de55abfb9819ef64b08678d4
+sp2018-08-19t25.flac:fb61edf71152700a86676dfe4ab95cca
+sp2018-08-19t26.flac:a95951906cd7d044961cc2e18f5d93e8
+sp2018-08-19t27.flac:b7eaa90dc8581ef4eecc03dd19bcd411
+sp2018-08-19t28.flac:dd54329669d66ed97f384e8a630d930d
+sp2018-08-19t29.flac:44a854b23d980f8b4c88b50fac02710d
+sp2018-08-19t30.flac:f6be8b6dbb7baec3ada7ecba4d845eec
+sp2018-08-19t31.flac:a505e5ad7d2d4fe6925374fede4b4ecd
+sp2018-08-19t32.flac:b1ac703d12c80079a29655e957d17c18
+sp2018-08-19t33.flac:dead254b0401b4ccc13b1fb2510e2f53
+sp2018-08-19t34.flac:98e8bbc95fb5692ce11fb43e581809d5
+sp2018-08-19t35.flac:e01f34515f88c336c59f24b970d2f9fb
+sp2018-08-19t36.flac:055b2f0d67cf4f57505af1bbb8c71f8b
+sp2018-08-19t37.flac:939c3bc93418391394b460a64071dbc8
+sp2018-08-19t38.flac:38c5f2254f8acb5dd20b4f671b3a4b2d
+
+Checksum file saved to disk.
+
+No errors occured.

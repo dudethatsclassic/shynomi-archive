@@ -1,0 +1,56 @@
+Metallica
+
+
+1983-11-26
+The Stone 
+San francisco
+
+Source: AUD -> ?? -> CDR -> EAC(secure) -> WAV -> FLAC(lvl8)
+
+
+01. The Ecstasy of Gold
+02. Hit the Lights
+03. Four Horsemen
+04. Jump in the Fire
+05. Fight Fire with Fire
+06. Ride the Lightning
+07. Phantom Lord
+08. Call of Ktulu
+09. No Remorse
+10. No Remorse (cont)
+11. Seek And Destroy
+
+Disc 2:
+01. Anesthesia-Pulling Teeth
+02. Whiplash
+03. Creeping Death
+04. Kirk's solo
+05. Metal Militia 
+
+
+Notes:
+Supported by Armored Saint. Before JITF james says: "Are we ready to thrash the stone tonight?" The sound starts out low but improves by the middle of hit the lights. No remorse is cut due to a cassette flip.
+
+
+
+FLAC Fingerprint:
+
+Disc 1:
+Track01.flac:7b0e873a5e0df56f58de0d01c2525a0d
+Track02.flac:8360a3ce05e763ffbb605b427b21b1b2
+Track03.flac:45eafb29e0d696a94051447d6c6b67c6
+Track04.flac:7da8b75275dfab0760d267db151f1296
+Track05.flac:899ff95d657637cf767bb284680f0c0a
+Track06.flac:18955477f00bfda37c5037e6c43fa3a1
+Track07.flac:5c308b118d1f84c1231f45a63e441847
+Track08.flac:8cd106c896e52fe91dd64fb92afea6bf
+Track09.flac:c3c7659b767c720b478d08c029455f6e
+Track10.flac:fd728c237fc27a9dabd944b72f0d5a0c
+Track11.flac:7de6657e3d39048c415e89b5f83acda0
+
+Disc 2:
+Track01.flac:51577bf77fefe8dd19c7ca91148bb5c5
+Track02.flac:bae39b04ae3b80d90d61ed8398ff0066
+Track03.flac:2f5aef76f8f12891c8befbcbb8a0138f
+Track04.flac:8fd244e5f03298862de74f1e97cc29b2
+Track05.flac:f8bce47f440032e96433e51d1a37626e

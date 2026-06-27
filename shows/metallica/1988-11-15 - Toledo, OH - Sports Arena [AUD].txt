@@ -1,0 +1,27 @@
+    length     expanded size   cdr  WAVE problems filename
+     2:36.59       27657212    ---   --   ---xx   D1Track01 Ecstacy Of Gold.flac
+     6:37.54       70157852    ---   --   ---xx   D1Track02 Blackened.flac
+     4:25.58       46882460    ---   --   ---xx   D1Track03 For Whom The Bell Tolls.flac
+     6:16.51       66446396    ---   --   ---xx   D1Track04 Welcome Home (Sanitarium).flac
+     5:38.37       59710268    ---   --   ---xx   D1Track05 Leper Messiah.flac
+     5:19.27       56335148    ---   --   ---xx   D1Track06 Harvester Of Sorrow.flac
+     6:02.04       63866252    ---   --   ---xx   D1Track07 Eye Of The Beholder.flac
+     5:25.22       57381788    ---   --   ---xx   D1Track08 Jason Newsted Bass Solo (flip).flac
+     7:41.47       81430988    ---   --   ---xx   D1Track09 Master Of Puppets.flac
+     8:00.47       84782588    ---   --   ---xx   D1Track10 One.flac
+     7:24.44       78425132    ---   --   ---xx   D1Track11 Seek And Destroy.flac
+    10:17.67      108996428    ---   --   ---xx   D1Track12 And Justice For All (flip).flac
+     0:43.64        7735772    ---   --   ---xx   D2Track01 Audience.flac
+     8:04.05       85389404    ---   --   ---xx   D2Track02 Creeping Death.flac
+     6:35.73       69849740    ---   --   ---xx   D2Track03 Fade To Black.flac
+     5:33.63       58889420    ---   --   ---xx   D2Track04 Kirk Hammet Solo.flac
+     4:58.44       52670732    ---   --   ---xx   D2Track05 Battery.flac
+     0:57.19       10099532    ---   --   ---xx   D2Track06 Audience.flac
+     0:36.14        6383372    ---   --   ---xx   D2Track07 Symptom Of The Universe Tease.flac
+     0:19.13        3382220    ---   --   ---xx   D2Track08 Run To The Hills Tease.flac
+     0:43.73        7756940    ---   --   ---xx   D2Track09 Helpless Tease.flac
+     1:19.46       14043836    ---   --   ---xx   D2Track10 Last Caress.flac
+     3:49.30       40466204    ---   --   ---xx   D2Track11 Am I Evil.flac
+     4:04.70       43206284    ---   --   ---xx   D2Track12 Whiplash.flac
+     4:22.30       46287404    ---   --   ---xx   D2Track13 Audience.flac
+   117:56.11     1248233372 B                     (totals for 25 files, 0.6018 overall compression ratio)

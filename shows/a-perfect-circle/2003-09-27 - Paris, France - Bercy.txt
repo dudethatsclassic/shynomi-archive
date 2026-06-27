@@ -1,0 +1,45 @@
+
+--------------------------------------------------------------
+
+A Perfect Circle Bercy - Paris - 27 septembre 2003
+
+--------------------------------------------------------------
+
+
+enregistrement : MD Sharp MD-MT190 (LP2) + micro Sony ECM-717
+
+
+
+software = Adobe Audition 1.5
+
+- transfert MD -> PC 
+- conversion en 32-bit
+- DC offset (L 0.22 - R 1.01)
+- amplification L +8dB - R +9dB
+- conversion en 16 bit (dithering)
+- liste des repères : Ajustement des cues, conversion en markers de type Audio CD track compatible, introduction des titres des morceaux
+- piste 1 fondu d'entrée
+
+
+software = Flac frontend
+
+- encodage flac (v.1.1.2, Compression Level=8 --> 16bits stéréo, 44.1kHz)
+
+
+42:29 
+
+
+
+
+---------------------------------------------------
+!!!!                                          !!!!!
+!!!! ni à vendre ni à échanger juste à donner !!!!!
+!!!!                                          !!!!!
+---------------------------------------------------
+
+
+
+enregistrement, édit audio et cover : petit nounours
+cover : http://covers.bootleg.free.fr
+
+

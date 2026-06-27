@@ -1,0 +1,29 @@
+Smashing Pumpkins
+August 17th, 1998
+SBT Studios
+Sao Paulo, BR
+
+source: TV broadcast > VHS-1 > PCM-M1 > DAT (48k)
+transfer: DDC-1 > PCM-R300 > Coaxial SPDIF > Tascam DR-680 > WAV > FLAC
+editing: Audacity (cleaned up commercial breaks), CDWave (split), TLH (flac8)
+
+XX. Perfect
+01. -interview-
+02. Ava Adore
+03. -interview-
+04. 1979 (tease)
+05. -interview-
+06. Crestfallen
+07. -tv hosts-
+08. Pug
+
+trt 28:03
+
+* tape from the collection of Andrew Fogelsong
+* transferred by pzane (pzane@hipstersunited.com)
+* Perfect and a bit of the interview are missing from the start of the broadcast; Pug ends abruptly but appears to be complete
+* these are 16 bit / 48 khz flac files, you will need to resample to 44.1 khz if burning to CD
+* this has previously circulated on CDR, this is a fresh transfer with no resampling or DAE in the lineage
+
+don't sell, etc
+-rhinowing

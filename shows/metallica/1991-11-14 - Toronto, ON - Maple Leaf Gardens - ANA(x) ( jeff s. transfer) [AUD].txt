@@ -1,0 +1,45 @@
+ Metallica
+ Venue:	@Maple Leaf Gardens : Toronto, ON, Canada
+ Date:	November 14, 1991
+ Time:	160:03
+ Size:	2 CDs
+ Sound:	AUD
+ Notes:	Source:  unknown gen cassette > Adobe Audigy Platnium > Goldwave > CDWAVE > WAV > FLAC
+ Transferred by Jeff S.
+
+ 2nd source : decent enough recording, not a lot of crowd noise around the taper so that's nice. A  lot of high end on this one however, so it's not really a nice balance. Still very listenable.
+
+Disc 1:
+
+The Ecstasy Of Gold [cut]
+Enter Sandman
+Creeping Death
+Harvester Of Sorrow
+Welcome Home (Sanitarium)
+Sad But True
+Wherever I May Roam 
+Bass Solo 
+Through The Never
+The Unforgiven 
+Justice Medley
+Drum Solo
+Guitar Solo 
+The Four Horsemen
+For Whom The Bell Tolls
+Fade To Black
+Whiplash
+Jam
+Master Of Puppets
+Seek & Destroy
+One
+Last Caress
+Am I Evil?
+Battery 
+Stone Cold Crazy
+Toronto's Rock Q107 FM Radio Announcements
+
+-----------------------------
+
+*Additional Notes, Added May 8, 2017 by JITF
+
+This recording was received in 1 large untracked file. Fixed the Sector Boundary Errors (SBEs). Decoded back to WAV using Trader's Little Helper, then split the files into 27 individual tracks and then converted to current FLAC format (1.3.2 20170101) at Level 8 with EZ CD Audio Converter. During this process 2.6 seconds of trailing silence was removed after the last track (Stone Cold Crazy) before the start of the Q107 FM radio announcements. 10.3 seconds of trailing silence was also removed from the end of the large file. The file size went from 890.3 MB to 888.5 MB.

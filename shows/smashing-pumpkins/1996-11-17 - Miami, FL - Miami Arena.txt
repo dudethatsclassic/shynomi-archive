@@ -1,0 +1,82 @@
+Smashing Pumpkins
+November 17th 1996
+Miami Arena
+Miami, FL, US
+
+SOURCE (AMT#1):
+unknown > Sony CCD-TR101
+
+VIDEO TRANSFER:
+Sony CCD-TRV85 & Sony CCD-TRV87 > Datavideo TBC7000 > ATI TV Wonder 600 USB > VirtualDub > AviSynth 2.6.0 > x264.exe 0.155.2901 7d0ff22 > MKVToolNix GUI v57.0.0
+
+GENERATION:
+HI8(M) > AVI [UTVideo/48khz/16-Bit/PCM] > MKV [480p/x264 | AAC | FLAC]
+
+LENGTH:
+157:28
+
+SETLIST:
+01. Mellon Collie and the Infinite Sadness
+02. Where Boys Fear to Tread
+03. Zero
+04. Fuck You
+05. Tonight, Tonight
+06. By Starlight
+07. Today
+08. Thru the Eyes of Ruby
+09. Muzzle
+10. Galapogos
+11. We Only Come Out at Night
+12. Disarm
+13. Bullet With Butterfly Wings
+14. Cherub Rock
+15. Porcelina of the Vast Oceans
+16. encore break
+17. Siva
+18. Drown
+19. encore break
+20. 1979
+21. X.Y.U.
+22. Bodies
+23. jam
+24. Silverfuck 
+25. jam
+
+NOTES:
+Huge thank you to our taper Willy Salas and to Joe Burns for hooking us up as always. 
+
+Probably 12 passes between various cams to get a clean transfer from these degraded tapes. Then a 40 hour frame by frame resync to match clean audio and video passes into a single lossless file. Tape two still has some distortion in the audio. Audio track was converted to mono to remove some level issues during Fuck You, which may either be a mic issue or degraded tape.
+
+MD5 FINGERPRINTS:
+4eb1e595754d83714fdedae964b44f06 *Smashing Pumpkins 1996-11-17 AMT1 t01 Mellon Collie and the Infinite Sadness.flac
+255b67f9ad1735477be0e951ecfa1a6b *Smashing Pumpkins 1996-11-17 AMT1 t02 Where Boys Fear to Tread.flac
+690baa1252120d88018dedca9fb07477 *Smashing Pumpkins 1996-11-17 AMT1 t03 Zero.flac
+456385bdee5dd9e8e534a279aaf49945 *Smashing Pumpkins 1996-11-17 AMT1 t04 Fuck You.flac
+9f73ada9620f78bc7627ed795c24106e *Smashing Pumpkins 1996-11-17 AMT1 t05 Tonight, Tonight.flac
+87e898bbea608921580861637631c7e6 *Smashing Pumpkins 1996-11-17 AMT1 t06 By Starlight.flac
+29677b0ec880053f02c2a13d50e8dd80 *Smashing Pumpkins 1996-11-17 AMT1 t07 Today.flac
+415db271e018bc2d1d38d969dfe5ce8c *Smashing Pumpkins 1996-11-17 AMT1 t08 Thru the Eyes of Ruby.flac
+7c32b26e84ed41fa1e9a2246676adb4a *Smashing Pumpkins 1996-11-17 AMT1 t09 Muzzle.flac
+f29ad2458d81139cb0dbed3328742164 *Smashing Pumpkins 1996-11-17 AMT1 t10 Galapogos.flac
+16cff53088a5cb50e679529e8d608c0f *Smashing Pumpkins 1996-11-17 AMT1 t11 We Only Come Out at Night.flac
+76996e298de98f24dc7dca3c1b86d1b8 *Smashing Pumpkins 1996-11-17 AMT1 t12 Disarm.flac
+99a94e3b32f33bdbf6adf243291e1d8a *Smashing Pumpkins 1996-11-17 AMT1 t13 Bullet With Butterfly Wings.flac
+1fb11ec6ec6a8e1edc84633eb3c56f43 *Smashing Pumpkins 1996-11-17 AMT1 t14 Cherub Rock.flac
+0a74cc7f1ccd7ba556d90808d5f5d9ac *Smashing Pumpkins 1996-11-17 AMT1 t15 Porcelina of the Vast Oceans.flac
+5de95dd9cb359ebb8faeee3c74c1bcd9 *Smashing Pumpkins 1996-11-17 AMT1 t16 encore break.flac
+bc8288e3f0d7a7e19efe8de2a9eae15b *Smashing Pumpkins 1996-11-17 AMT1 t17 Siva.flac
+6a94481bb3a75bba05995bca120a915c *Smashing Pumpkins 1996-11-17 AMT1 t18 Drown.flac
+7914151d2927a864cad5b1601ff50d44 *Smashing Pumpkins 1996-11-17 AMT1 t19 encore break.flac
+7f5f4ceeefb399a343c2f0ecf74ba351 *Smashing Pumpkins 1996-11-17 AMT1 t20 1979.flac
+25511322420ea86b71356c5120f2b652 *Smashing Pumpkins 1996-11-17 AMT1 t21 X.Y.U..flac
+20770af158da4eaed92693e8d27ef70b *Smashing Pumpkins 1996-11-17 AMT1 t22 Bodies.flac
+2077445e703a1c102a260f5fa3876194 *Smashing Pumpkins 1996-11-17 AMT1 t23 jam.flac
+26d3933356b65ffa3639a550ea3949d4 *Smashing Pumpkins 1996-11-17 AMT1 t24 Silverfuck.flac
+101ce56f70e1f8e7c1175d1b18f96253 *Smashing Pumpkins 1996-11-17 AMT1 t25 jam.flac
+
+RECORDING:
+Willy Salas
+
+TRANSFER & DISTRIBUTION:
+Nicholas Serra, Spaldz & Members of SPLRA
+2023-12-02

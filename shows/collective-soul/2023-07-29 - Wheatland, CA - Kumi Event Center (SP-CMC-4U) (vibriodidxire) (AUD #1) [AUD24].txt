@@ -1,0 +1,71 @@
+COLLECTIVE SOUL
+July 29, 2023
+Kumi Event Center @ Hard Rock Hotel & Casino Sacramento at Fire Mountain
+Wheatland, CA, US
+
+SETLIST:
+-------------------
+00. intro/banter
+01. I Feel You [Depeche Mode song, P.A. tape]
+02. Cut the Cord
+03. Heavy
+04. Right As Rain
+05. Compliment ->
+06. Shine
+07. Mother's Love
+08. Not The Same
+09. Precious Declaration
+10. Better Now [incl. extended jams]
+11. The World I Know
+12. December
+13. The One I Love [R.E.M. cover]
+14. Why, Pt. 2
+15. Gel ->
+16. Where The River Flows [w/ extended intro]
+17. Run
+
+
+SOURCE:
+-------------------
+AUD #1 - Quality: 9.5
+Sound Professionals SP-CMC-4U > Sony PCM-A10
+
+Recorded by: vibrioidxire
+
+TRANSFER:
+-------------------
+Sound Professionals SP-CMC-4U (AT-U853's, with SP UE-H-PAIR hypercardioid caps mod) > Sound Professionals SP-SPSB-20 Power Supply > supplied SP-SPSC-7-13026 12” 3.5mm shielded patch cable > Sony PCM-A10 High-Resolution Digital Audio Recorder > WAV [48kHz/24-bit] > USB connector > Insignia NS-PA3C3A USB-C to USB adapter > Apple MacBook Pro (16-inch, 2021) > Adobe Audition 23.5 [post-production/mastering] > xACT 2.52 > FLAC [Level 8]
+
+GENERATION:
+-------------------
+WAV(M) [48kHz/24-bit] > FLAC [Level 8]
+
+NOTES:
+-------------------
+- Ed walked through the crowd to Depeche Mode's "I Feel You" before "Cut the Cord".
+
+
+FLAC FINGERPRINTS:
+-------------------
+collectivesoul2023-07-29-aud1-t00.flac:2191e066f2824dd704021eb28f68858f
+collectivesoul2023-07-29-aud1-t01.flac:cb0804957881a49f1d7500c31ac2428e
+collectivesoul2023-07-29-aud1-t02.flac:b165ddcb1b3add985a462bcdf823ff90
+collectivesoul2023-07-29-aud1-t03.flac:6edbb0fd8990ad1a0935a4559ca037a9
+collectivesoul2023-07-29-aud1-t04.flac:2723e0ab465d2c7d01155ca9e23fd173
+collectivesoul2023-07-29-aud1-t05.flac:f7847690d5135ac548c3a11c0f5f80e0
+collectivesoul2023-07-29-aud1-t06.flac:1c892d61ee1e4224ceb60a0879dbe68e
+collectivesoul2023-07-29-aud1-t07.flac:44ecaea928534a581c43daa6e288fc5e
+collectivesoul2023-07-29-aud1-t08.flac:c5bff1b828303ecf37ee3ab1cca09f60
+collectivesoul2023-07-29-aud1-t09.flac:c8efa046eeb946fc1951d7a4a661c494
+collectivesoul2023-07-29-aud1-t10.flac:9c590ca4334b65048bdc2f979708f231
+collectivesoul2023-07-29-aud1-t11.flac:7751f7f16086404fa9350ca3ec76a219
+collectivesoul2023-07-29-aud1-t12.flac:ddd4862832977134b8ca78a2e643a720
+collectivesoul2023-07-29-aud1-t13.flac:9a09bd21d1e97c48631da0274cd062bc
+collectivesoul2023-07-29-aud1-t14.flac:22592e1faa53a78fc777be3484d05a19
+collectivesoul2023-07-29-aud1-t15.flac:d6ea31a29c66d29e880aaa37a4836d34
+collectivesoul2023-07-29-aud1-t16.flac:0d8e346d14a5cbd6987be1bf8f4a86db
+collectivesoul2023-07-29-aud1-t17.flac:ed381841b63111d8431ee088a98929fe
+
+
+Transferred and encoded by: vibrioidxire
+PLEASE DO NOT DISTRIBUTE IN LOSSY FORMATS OR SELL!

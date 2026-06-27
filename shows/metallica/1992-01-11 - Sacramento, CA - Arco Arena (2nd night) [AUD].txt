@@ -1,0 +1,24 @@
+Band name: Metallica
+Bootleg Name: "Live In Concert"
+Date: January 11, 1992
+Venue: Arco Arena
+Location: Sacramento, CA, USA
+Tour name: Wherever We May Roam
+Media: 1 CD
+Recording type: Soundboard
+Audio format: FLAC
+
+
+Setlist:
+
+Enter Sandman
+Creeping Death
+Harvester Of Sorrow
+Wherever I May Roam
+The Four Horsemen
+Jason's Solo
+Through The Never
+The Unforgiven
+Justice Medley
+Kirk's Solo
+For Whom The Bell Tolls

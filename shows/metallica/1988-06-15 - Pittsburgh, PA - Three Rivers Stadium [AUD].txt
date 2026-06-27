@@ -1,0 +1,47 @@
+Artist: Metallica
+Venue: Three Rivers Stadium
+City/State: Pittsburgh, Pennsylvania
+Date: June 15, 1988
+Format: FLAC
+1 CD - 64:18
+Source: Audience Master Cassette Tape
+Transfer: AIWA Portable > Master Cassette > Line In > WAV > (Nero for track edits) - FLAC
+Note: ******A MAGNETIC_MEDIA RECORDING******
+
+Van Halen's 1988 Monsters Of Rock Tour
+
+
+01 - Intro (Ecstasy Of Gold)
+02 - Creeping Death
+03 - For Whom the Bell Tolls
+04 - Welcome Home (Sanitarium)
+05 - Harvester of Sorrow
+06 - Whiplash
+07 - Fade To Black
+08 - Seek and Destroy
+09 - Master of Puppets
+10 - Helpless Jam
+11 - Last Caress
+12 - Am I Evil
+
+13 - Battery
+
+
+Fingerprints:
+
+01 Artist..Metallica 6-15-88.flac:da0dcd6073bc053a7a604e40d456f54b
+02 Artist..Metallica 6-15-88.flac:710e4c4886b35f6986983ef6c6cd5c84
+03 Artist..Metallica 6-15-88.flac:1227ab05b099e379e0548802ef9b5722
+04 Artist..Metallica 6-15-88.flac:f123d246c682fa6b1463609786c0a88d
+05 Artist..Metallica 6-15-88.flac:c7fffc03cc66cabe9bc85ec9e1f3bef6
+06 Artist..Metallica 6-15-88.flac:a960dc92ebf8b29ca06f5f0dd426a21c
+07 Artist..Metallica 6-15-88.flac:2410bd2e4f4e00477e4d7c7b00d23f33
+08 Artist..Metallica 6-15-88.flac:af4148e2baaee7cbf6fea8d9172c2a27
+09 Artist..Metallica 6-15-88.flac:9b97f33d8533e5b2dd5d9441658f60b5
+10 Artist..Metallica 6-15-88.flac:b6ae6be54ecda01d5cc692c6c1ea15bb
+11 Artist..Metallica 6-15-88.flac:ef2fe5b521caf3e7133c874d3c26e091
+12 Artist..Metallica 6-15-88.flac:731a65aae3831be887216b0b8393614f
+13 Artist..Metallica 6-15-88.flac:0f9227f0d26991f936f4be1db7066a25
+
+No errors occured.
+

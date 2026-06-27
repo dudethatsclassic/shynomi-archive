@@ -1,0 +1,103 @@
+Smashing Pumpkins
+November 29th 2000
+United Center
+Chicago, IL, US
+
+SOURCE (AUD#9):
+Generic Lapel Mic (mono) > Sharp MD MT-15
+
+TRANSFER:
+Sony MDS-PC3 > iRiver H120 (Rockbox 3.10) (optical) > CD Wave Editor
+
+GENERATION:
+MD(M) > FLAC
+
+LENGTH:
+168:06
+
+SET ONE:
+01. Intro
+02. Glass and the Ghost Children > Le Deux Machina (tease)
+03. Today
+04. Stand Inside Your Love
+05. Thirty-three
+06. To Sheila
+07. Drown 
+
+SET TWO:
+08. Glass' Theme
+09. The Everlasting Gaze
+10. Bullet with Butterfly Wings
+11. Rhinoceros
+12. Thru the Eyes of Ruby
+13. Mayonaise
+14. If There Is a God
+15. Cash Car Star
+16. Zero
+17. Rock On [Essex] > Heavy Metal Machine
+18. (banter)
+19. Muzzle
+20. Disarm
+21. Tonight, Tonight
+22. Siva
+23. Porcelina of the Vast Oceans
+
+ENCORE ONE:
+24. (encore)
+25. Cherub Rock > Purple Haze [Hendrix] (tease)
+26. Ava Adore
+
+ENCORE TWO:
+27. For Martha (with William Corgan Sr.)
+
+ENCORE THREE:
+28. Starla
+29. 1979
+
+NOTES:
+A massive thank you to spaceyraygun for sharing their recording. Notes from the taper as follows:
+
+"Live recording of Smashing Pumpkins on 2000-11-29 at United Center in Chicago, IL, US. This was Smashing Pumpkins penultimate show before their breakup. They would play two final "goodbye" shows; this arena show and an epic 4+ hour finale at the significantly smaller Metro on 2000-12-02. I did attend both shows, but I did not record the Metro show. I did not want to risk getting kicked out because Jimmy was gracious enough to put us on the guest list the previous evening for the dress rehearsal. You can even catch some pixels of me in the officially released performance of Fuck You (An Ode To No One) for that one!
+
+Back to this show: This recording is by far the longest show I've ever done and I was still fairly new to the craft. My gear was suboptimal and you can certainly find a better quality source for this show on the Internet Archive. Nevertheless, this was my attempt. Glass' Theme was cut during a sloppy disc change. I remember going to the fan-coordinated afterparty at "The Lab" and being overwhelmed by meeting so many renowned members of the community at the time. It was an epic and bittersweet week, but it was the perfect way to end my gap year and transition from a traveling über-fan to a college student." 
+
+MD5 FINGERPRINTS:
+de8f746f6d561bd814aa48326d2f546c *Smashing Pumpkins 2000-11-29 AUD9 t01 Intro.flac
+7d6c61c709df59a47bcfcded9e8dcf58 *Smashing Pumpkins 2000-11-29 AUD9 t02 Glass And The Ghost Children.flac
+83dbba2470a6995cff26f47bb559e35b *Smashing Pumpkins 2000-11-29 AUD9 t03 Today.flac
+b158125f812530ed7ac48062d3013b79 *Smashing Pumpkins 2000-11-29 AUD9 t04 Stand Inside Your Love.flac
+2876683c01f4aad62755a1a800d7f530 *Smashing Pumpkins 2000-11-29 AUD9 t05 Thirty-three.flac
+447371ae84e6e051dcff5078e5b60f9d *Smashing Pumpkins 2000-11-29 AUD9 t06 To Sheila.flac
+3d0b396cc8a301458572ac487644dba1 *Smashing Pumpkins 2000-11-29 AUD9 t07 Drown.flac
+62e06121efe626141bf58a61b0e2044f *Smashing Pumpkins 2000-11-29 AUD9 t08 Glass' Theme.flac
+49ea25d588653d783c8b65764a07c5ab *Smashing Pumpkins 2000-11-29 AUD9 t09 The Everlasting Gaze.flac
+9a417915645aef4d2e034f4e0cdf64a3 *Smashing Pumpkins 2000-11-29 AUD9 t10 Bullet With Butterfly Wings.flac
+c6563913fe7795a2096f9296daabac17 *Smashing Pumpkins 2000-11-29 AUD9 t11 Rhinoceros.flac
+07b077465c086b273210c7fff5e6cc3c *Smashing Pumpkins 2000-11-29 AUD9 t12 Thru The Eyes Of Ruby.flac
+6e0eec824ff6200f39bd50279342b2e6 *Smashing Pumpkins 2000-11-29 AUD9 t13 Mayonaise.flac
+d45e4fb76986c7021f4aa75b2551ca21 *Smashing Pumpkins 2000-11-29 AUD9 t14 If There Is A God.flac
+03e1f587c5f82b674badfdaf298fcc65 *Smashing Pumpkins 2000-11-29 AUD9 t15 Cash Car Star.flac
+e309ae9fcb7946439edabc38e8ecf500 *Smashing Pumpkins 2000-11-29 AUD9 t16 Zero.flac
+0b63297fd65ca3bc1c697df762a616b3 *Smashing Pumpkins 2000-11-29 AUD9 t17 Rock On [Essex] - Heavy Metal Machine.flac
+04931c5ec3d8b6f3a10c4a8e72545c44 *Smashing Pumpkins 2000-11-29 AUD9 t18 Banter.flac
+35cda372bd73d31aeb94eb55ae1ed1a2 *Smashing Pumpkins 2000-11-29 AUD9 t19 Muzzle.flac
+0e78aa745010d321592e982c628f44ee *Smashing Pumpkins 2000-11-29 AUD9 t20 Disarm.flac
+b31e4fd8e52a24d205b96cccd8fd168d *Smashing Pumpkins 2000-11-29 AUD9 t21 Tonight, Tonight.flac
+1334363c6c7872331abe23dbb06ccedf *Smashing Pumpkins 2000-11-29 AUD9 t22 Siva.flac
+c79b22a48988928530b5ee1ac132f32f *Smashing Pumpkins 2000-11-29 AUD9 t23 Porcelina Of The Vast Oceans.flac
+1702b7bbddf560b207aa7d72157687ff *Smashing Pumpkins 2000-11-29 AUD9 t24 Encore.flac
+be7f90256209b45b0f6ce39427e418e9 *Smashing Pumpkins 2000-11-29 AUD9 t25 Cherub Rock.flac
+604818f34948044414a3a0c3810bf76f *Smashing Pumpkins 2000-11-29 AUD9 t26 Ava Adore.flac
+7be19b8193574fea82eed5d21f2e71ed *Smashing Pumpkins 2000-11-29 AUD9 t27 For Martha.flac
+4d3718c93dc7e28cebd730129774ced2 *Smashing Pumpkins 2000-11-29 AUD9 t28 Starla.flac
+4caa2533347252996255587b494bd1f6 *Smashing Pumpkins 2000-11-29 AUD9 t29 1979.flac
+
+RECORDED BY:
+spaceyraygun
+
+TRANSFER BY:
+@deadhoarse
+
+DISTRIBUTION:
+Spaldz, Nicholas Serra & Members of SPLRA
+2022-10-24

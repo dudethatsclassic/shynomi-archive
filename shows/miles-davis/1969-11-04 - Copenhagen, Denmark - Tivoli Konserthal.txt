@@ -1,0 +1,97 @@
+Miles Davis Quintet
+11-04-1969
+Tivoli Konsertsal
+Copenhagen, Denmark
+
+Project ID - LL155
+
+Source: FM Broadcast
+Lineage: Danish Radio broadcast > ?? > Miles-Trees Lost Quintet Tree Disk 9 > 
+Unknown ripping software > wave > shn
+
+Miles Davis (tpt); Wayne Shorter (ss, ts); Chick Corea (el-p); Dave Holland (b, el-b); 
+Jack DeJohnette (d)
+
+disc 1
+
+d1t01. Directions 
+d1t02. Miles Runs the Voodoo Down
+d1t03. Bitches Brew
+d1t04. Agitation
+d1t05. I Fall in Love Too Easily
+d1t06. Sanctuary
+d1t07. It's About That Time
+d1t08. The Theme > Announcement
+ 
+-------------------------------------------------------
+
+Notes:
+
+- D1t07: Digipop at 5:26. Some odd noise at 7:19 through 7:24 and 7:45. 
+
+- Peter Losin lists a starting Into that is not on this source. 
+
+- A nice sounding recording.  A fine example of the playing for this period
+with minimal flaws. A great source for any collection.  
+
+- QC done by Bgreen
+
+md5
+e1d6a8daf746336022e9eb7f658f07c5 *md1969-11-04.LL155.d1t01.shn
+1d18330a94ccc233133db86e01921087 *md1969-11-04.LL155.d1t02.shn
+296b83da4c6c946bac092c7f1fbd156e *md1969-11-04.LL155.d1t03.shn
+2363f2b80c53a242d479f210cb6ca2f7 *md1969-11-04.LL155.d1t04.shn
+29f5aa99d6ca07e135a67fbe4880a7f4 *md1969-11-04.LL155.d1t05.shn
+092815fcf3a7656170139621d48fdc78 *md1969-11-04.LL155.d1t06.shn
+c8b673f79bff16437e4dcdd10a2d58be *md1969-11-04.LL155.d1t07.shn
+d7c22cdd59895b3a131bec11c56551f8 *md1969-11-04.LL155.d1t08.shn
+
+st5 
+db9f036662c474defbd7caa8e809d355  [shntool]  md1969-11-04.LL155.d1t01.shn
+cb5b41877721388db4e07a85dd75d5e2  [shntool]  md1969-11-04.LL155.d1t02.shn
+a92db2c7f6a67aba997bcfed0d6b6107  [shntool]  md1969-11-04.LL155.d1t03.shn
+58145d1570ba277232df3971aa596d38  [shntool]  md1969-11-04.LL155.d1t04.shn
+f4352695ef0680050668f50a62fc040c  [shntool]  md1969-11-04.LL155.d1t05.shn
+92444b51f4240a24b33e65504b6a3caa  [shntool]  md1969-11-04.LL155.d1t06.shn
+3383f7df5404c1fdf8ca79cd4191e823  [shntool]  md1969-11-04.LL155.d1t07.shn
+dafcc70a78e9202aa1d07f0ca10ae22f  [shntool]  md1969-11-04.LL155.d1t08.shn
+
+shntool
+length     expanded size   cdr  WAVE problems filename
+     7:07.34       75402812    ---   --   ---xx   md1969-11-04.LL155.d1t01.shn
+     9:23.53       99437900    ---   --   ---xx   md1969-11-04.LL155.d1t02.shn
+    15:02.41      159209276    ---   --   ---xx   md1969-11-04.LL155.d1t03.shn
+    10:01.69      106178732    ---   --   ---xx   md1969-11-04.LL155.d1t04.shn
+     3:30.23       37098140    ---   --   ---xx   md1969-11-04.LL155.d1t05.shn
+     3:26.65       36491324    ---   --   ---xx   md1969-11-04.LL155.d1t06.shn
+    18:20.37      194127068    ---   --   ---xx   md1969-11-04.LL155.d1t07.shn
+     1:14.09       13074812    ---   --   ---xx   md1969-11-04.LL155.d1t08.shn
+    68:07.31      721020064 B                     (totals for 8 files, 0.5199 overall compression ratio)
+
+spectral analysis from TLH
+md1969-11-04.LL155.d1t01.wav:  track looks like CDDA with probability 100%
+md1969-11-04.LL155.d1t02.wav:  track looks like CDDA with probability 100%
+md1969-11-04.LL155.d1t03.wav:  track looks like CDDA with probability 100%
+md1969-11-04.LL155.d1t04.wav:  track looks like CDDA with probability 100%
+md1969-11-04.LL155.d1t05.wav:  track looks like CDDA with probability 99%
+md1969-11-04.LL155.d1t06.wav:  track looks like CDDA with probability 100%
+md1969-11-04.LL155.d1t07.wav:  track looks like CDDA with probability 100%
+md1969-11-04.LL155.d1t08.wav:  track looks like CDDA with probability 100%
+
+Old md5
+e1d6a8daf746336022e9eb7f658f07c5 *Track01.shn
+4721904ad516cc559fd9338d33f5b30c *Track01.skt
+1d18330a94ccc233133db86e01921087 *Track02.shn
+2b6c4aebd850f1a46a11d126c7f06384 *Track02.skt
+296b83da4c6c946bac092c7f1fbd156e *Track03.shn
+fcf9b205da61473d75b7b5565f7500ca *Track03.skt
+2363f2b80c53a242d479f210cb6ca2f7 *Track04.shn
+f2a575615a225a210ddcb95748ee5b30 *Track04.skt
+29f5aa99d6ca07e135a67fbe4880a7f4 *Track05.shn
+9a2f66f9bfb78f51ea025d187d114027 *Track05.skt
+092815fcf3a7656170139621d48fdc78 *Track06.shn
+1cd67347d8b33fee0d162bcbb587fcb1 *Track06.skt
+c8b673f79bff16437e4dcdd10a2d58be *Track07.shn
+72d0f9ec33780a241f4505b84a13dcb3 *Track07.skt
+d7c22cdd59895b3a131bec11c56551f8 *Track08.shn
+bd0b62fa46ac51dd07ebb5d1435791f6 *Track08.skt

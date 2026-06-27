@@ -1,0 +1,87 @@
+Smashing Pumpkins
+September 9th 2023
+Ruoff Music Center
+Noblesville, IN, US
+
+SOURCE (AUD#1):
+Internal Mic > Samsung Phone
+
+TRANSFER:
+Samsung Phone (M4A) > Adobe Audition (WAV) > CD Wave Editor
+
+GENERATION:
+M4A(M) > WAV > FLAC
+
+LENGTH:
+111:16
+
+SET:
+01. Atum (Intro)
+02. The Everlasting Gaze
+03. Doomsday Clock
+04. Once in a Lifetime [Talking Heads]
+05. Today
+06. Perfect
+07. Disarm
+08. The Celestials
+09. Purple Blood
+10. Ava Adore
+11. (Banter)
+12. Tonight, Tonight
+13. Bullet With Butterfly Wings
+14. This Time
+15. Spellbinding
+16. Hubble Bubble (Toil and Trouble) [Manfred Mann]
+17. Jellybelly
+18. Empires
+19. Hummer
+20. Beguiled
+21. (Crowd)
+22. 1979 
+23. (Band Introductions) > Symphony of Destruction [Megadeth] (tease) > Photograph [Def Leppard] (tease)
+24. Cherub Rock
+25. Zero (abandoned)
+26. Zero
+
+NOTES:
+Thank you to the taper for sending this for release
+
+*******************
+This is a lossy source
+The SPLRA team have converted the M4A to a WAV file to indicate there is no upgrade to the original master which was recorded in M4A format
+*******************
+
+MD5 FINGERPRINTS:
+73bdf617fac393e3345bcec6187da136 *Smashing Pumpkins 2023-09-09 t01 Atum (Intro).flac
+e341123e1695ed4a7a0757047ae83c2e *Smashing Pumpkins 2023-09-09 t02 The Everlasting Gaze.flac
+e32694499f5f3d7c1c7354657a136c41 *Smashing Pumpkins 2023-09-09 t03 Doomsday Clock.flac
+033dbe98c44e847c8afa26fd0815339f *Smashing Pumpkins 2023-09-09 t04 Once in a Lifetime [Talking Heads].flac
+85de1de45b2a0cd7292cf8d6d4f6b57d *Smashing Pumpkins 2023-09-09 t05 Today.flac
+b55de569a3a94ce635a0e5e04b89d925 *Smashing Pumpkins 2023-09-09 t06 Perfect.flac
+11be422fae97ec8f9e6643ffc6a92644 *Smashing Pumpkins 2023-09-09 t07 Disarm.flac
+7f3e8d189b8ea0e58a4380a782e318ad *Smashing Pumpkins 2023-09-09 t08 The Celestials.flac
+988e9e2e2e562d724c388dc004d4e927 *Smashing Pumpkins 2023-09-09 t09 Purple Blood.flac
+a7da1532e5c144e6b8cba3f0d39f0954 *Smashing Pumpkins 2023-09-09 t10 Ava Adore.flac
+ae6ff3648f15c503af627355ee512a3d *Smashing Pumpkins 2023-09-09 t11 (Banter).flac
+afa67ba3c349bba5432fda50c860212a *Smashing Pumpkins 2023-09-09 t12 Tonight, Tonight.flac
+8d7c301f631c6e2a925aedb0b9e1b276 *Smashing Pumpkins 2023-09-09 t13 Bullet With Butterfly Wings.flac
+498dcc2709859e8fb6b303337af2bc72 *Smashing Pumpkins 2023-09-09 t14 This Time.flac
+fb059b1e5ec409021e1c15576356d8a4 *Smashing Pumpkins 2023-09-09 t15 Spellbinding.flac
+09f2d3fc50868ecb4c33e57655c9a3c6 *Smashing Pumpkins 2023-09-09 t16 Hubble Bubble [Manfred Mann].flac
+ca4f8a61cb77f0000d33bcc17a2002c4 *Smashing Pumpkins 2023-09-09 t17 Jellybelly.flac
+6f3df6a7218e843e6093161a9fbca8d0 *Smashing Pumpkins 2023-09-09 t18 Empires.flac
+4534111928fefc5e82e88e6a4c5ad9e0 *Smashing Pumpkins 2023-09-09 t19 Hummer.flac
+35467fbf0e2d2c7e477d0cdf23a0cda9 *Smashing Pumpkins 2023-09-09 t20 Beguiled.flac
+76359d4f01848392efc2fbac39173bc0 *Smashing Pumpkins 2023-09-09 t21 (Crowd).flac
+c0a97bf9c9ed7196031a8b0e419d3ba3 *Smashing Pumpkins 2023-09-09 t22 1979.flac
+179548ddb5a6c96fc7ab2468e2c3dfcd *Smashing Pumpkins 2023-09-09 t23 (Band Introductions).flac
+99f6cb136593ce34c890002f60c445d4 *Smashing Pumpkins 2023-09-09 t24 Cherub Rock.flac
+51b752ba4613b836d84524115ee0aa0c *Smashing Pumpkins 2023-09-09 t25 Zero (abandoned).flac
+08afb060e1f036aa048f819eae520edd *Smashing Pumpkins 2023-09-09 t26 Zero.flac
+
+RECORDED BY:
+ChesterJT
+
+DISTRIBUTION:
+Spaldz, Nicholas Serra & Members of SPLRA
+2023-09-11

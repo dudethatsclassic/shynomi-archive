@@ -1,0 +1,22 @@
+Beck
+April 16 2005
+Saturday Night Live
+New York City, NY
+
+Source:
+NBC Live Broadcast > Scientific Atlanta Explorer 8300 DVR > Creative Audigy Platinum EX Line In > 
+                   > Sony Soundforge 7.0a > FLAC Frontend 1.7.1
+
+
+01) E-Pro
+02) Girl 
+
+Notes:
+This version has slightly more noise than the other rip (Skabio), but I have left it in because removing it actually seems to cut out some of the high freq spectral content. Only 2 songs, so no big deal in having 2 versions. :]
+
+
+Ripped & Seeded by:
+
+breathmint (breathmint@hotmail.com)
+
+--beck hub becktabs.homeunix.org--

@@ -1,0 +1,110 @@
+Started at: четверг, 28. 06. 2012. - 1:06.31
+21 files found
+
+01 -===- H:\Orion Music + More\Metallica - 2012.06.23 - Orion Music + More - Night I (Ride the Lightning)\01. Hit The Lights.flac
+  Extracted successfully
+  Conclusion: this track is CDDA with probability 100%
+  Tempfile successfully deleted.
+
+02 -===- H:\Orion Music + More\Metallica - 2012.06.23 - Orion Music + More - Night I (Ride the Lightning)\02. Master Of Puppets.flac
+  Extracted successfully
+  Conclusion: this track is CDDA with probability 99%
+  Tempfile successfully deleted.
+
+03 -===- H:\Orion Music + More\Metallica - 2012.06.23 - Orion Music + More - Night I (Ride the Lightning)\03. The Four Horsemen.flac
+  Extracted successfully
+  Conclusion: this track is CDDA with probability 100%
+  Tempfile successfully deleted.
+
+04 -===- H:\Orion Music + More\Metallica - 2012.06.23 - Orion Music + More - Night I (Ride the Lightning)\04. Sad But True.flac
+  Extracted successfully
+  Conclusion: this track is CDDA with probability 100%
+  Tempfile successfully deleted.
+
+05 -===- H:\Orion Music + More\Metallica - 2012.06.23 - Orion Music + More - Night I (Ride the Lightning)\05. Bass Solo.flac
+  Extracted successfully
+  Conclusion: this track is CDDA with probability 100%
+  Tempfile successfully deleted.
+
+06 -===- H:\Orion Music + More\Metallica - 2012.06.23 - Orion Music + More - Night I (Ride the Lightning)\06. Hell And Back.flac
+  Extracted successfully
+  Conclusion: this track is CDDA with probability 100%
+  Tempfile successfully deleted.
+
+07 -===- H:\Orion Music + More\Metallica - 2012.06.23 - Orion Music + More - Night I (Ride the Lightning)\07. Ride The Lightning Album Intro.flac
+  Extracted successfully
+  Conclusion: this track is CDDA with probability 100%
+  Tempfile successfully deleted.
+
+08 -===- H:\Orion Music + More\Metallica - 2012.06.23 - Orion Music + More - Night I (Ride the Lightning)\08. The Call Of Ktulu.flac
+  Extracted successfully
+  Conclusion: this track is CDDA with probability 100%
+  Tempfile successfully deleted.
+
+09 -===- H:\Orion Music + More\Metallica - 2012.06.23 - Orion Music + More - Night I (Ride the Lightning)\09. Creeping Death.flac
+  Extracted successfully
+  Conclusion: this track is CDDA with probability 99%
+  Tempfile successfully deleted.
+
+10 -===- H:\Orion Music + More\Metallica - 2012.06.23 - Orion Music + More - Night I (Ride the Lightning)\10. Escape.flac
+  Extracted successfully
+  Conclusion: this track is CDDA with probability 100%
+  Tempfile successfully deleted.
+
+11 -===- H:\Orion Music + More\Metallica - 2012.06.23 - Orion Music + More - Night I (Ride the Lightning)\11. Trapped Under Ice.flac
+  Extracted successfully
+  Conclusion: this track is CDDA with probability 99%
+  Tempfile successfully deleted.
+
+12 -===- H:\Orion Music + More\Metallica - 2012.06.23 - Orion Music + More - Night I (Ride the Lightning)\12. Kirk Solo.flac
+  Extracted successfully
+  Conclusion: this track is CDDA with probability 100%
+  Tempfile successfully deleted.
+
+13 -===- H:\Orion Music + More\Metallica - 2012.06.23 - Orion Music + More - Night I (Ride the Lightning)\13. Fade To Black.flac
+  Extracted successfully
+  Conclusion: this track is CDDA with probability 100%
+  Tempfile successfully deleted.
+
+14 -===- H:\Orion Music + More\Metallica - 2012.06.23 - Orion Music + More - Night I (Ride the Lightning)\14. For Whom The Bell Tolls.flac
+  Extracted successfully
+  Conclusion: this track is CDDA with probability 100%
+  Tempfile successfully deleted.
+
+15 -===- H:\Orion Music + More\Metallica - 2012.06.23 - Orion Music + More - Night I (Ride the Lightning)\15. Ride The Lightning.flac
+  Extracted successfully
+  Conclusion: this track is CDDA with probability 100%
+  Tempfile successfully deleted.
+
+16 -===- H:\Orion Music + More\Metallica - 2012.06.23 - Orion Music + More - Night I (Ride the Lightning)\16. Fight Fire With Fire.flac
+  Extracted successfully
+  Conclusion: this track is CDDA with probability 99%
+  Tempfile successfully deleted.
+
+17 -===- H:\Orion Music + More\Metallica - 2012.06.23 - Orion Music + More - Night I (Ride the Lightning)\17. Nothing Else Matters.flac
+  Extracted successfully
+  Conclusion: this track is CDDA with probability 100%
+  Tempfile successfully deleted.
+
+18 -===- H:\Orion Music + More\Metallica - 2012.06.23 - Orion Music + More - Night I (Ride the Lightning)\18. Enter Sandman.flac
+  Extracted successfully
+  Conclusion: this track is CDDA with probability 100%
+  Tempfile successfully deleted.
+
+19 -===- H:\Orion Music + More\Metallica - 2012.06.23 - Orion Music + More - Night I (Ride the Lightning)\19. Battery.flac
+  Extracted successfully
+  Conclusion: this track is CDDA with probability 100%
+  Tempfile successfully deleted.
+
+20 -===- H:\Orion Music + More\Metallica - 2012.06.23 - Orion Music + More - Night I (Ride the Lightning)\20. One.flac
+  Extracted successfully
+  Conclusion: this track is CDDA with probability 100%
+  Tempfile successfully deleted.
+
+21 -===- H:\Orion Music + More\Metallica - 2012.06.23 - Orion Music + More - Night I (Ride the Lightning)\21. Seek And Destroy.flac
+  Extracted successfully
+  Conclusion: this track is CDDA with probability 100%
+  Tempfile successfully deleted.
+
+
+Finished at: четверг, 28. 06. 2012. - 1:18.55 (operation time: 0:12.24)

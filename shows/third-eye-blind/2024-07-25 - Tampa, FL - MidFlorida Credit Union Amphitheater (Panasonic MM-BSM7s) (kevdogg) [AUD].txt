@@ -1,0 +1,48 @@
+Third Eye Blind
+MidFlorida Credit Union Amphitheater
+Tampa, FL
+July 25, 2024
+
+Lineage:
+Panasonic MM-BSM7's >Tascam DR-05X >44.1khz, 16bit wave 
+>SanDisk microSD card >Audition 1.5(e.q., amplify, fades, tracks) 
+>wave >TLH >FLAC(level 8). 
+
+Location: 
+Section 7, Row F, Seat 10.
+
+Taper: 
+kevdogg 
+
+Set/Track List:
+Disc 1
+1. intro
+2. Motorcycle Drive By
+3. Dust Storm / Just Like Heaven
+4. Never Let You Go / An Ode To Maybe
+5. Narcolepsy
+6. The Kids Are Coming (To Take You Down)
+7. Wolf Like Me / Company of Strangers
+8. Graduate
+9. Wounded
+10. Weightless / Faster / Water Landing
+11. Losing a Whole Year
+
+Disc 2
+12. Slow Motion
+13. The Background
+14. Bonfire
+15. To the Sea
+16. Blinded (When I See You)
+17. Jumper
+18. Brad's drum solo
+19. Semi-Charmed Life
+20. How's It Going to Be
+
+
+Notes:
+The Summer Gods Tour 2024 with Yellowcard and Arizona as openers. (Neither were recorded)
+After running a test with Yellowcard's set, I found the bass was overwhelming so I set the rolloff at 120hz
+before 3eb took the stage. In Audition, I used graphic EQ to slightly increase lows and highs.
+Fades were placed only at the start and the end of the show. Cover art is included in the torrent.
+As always please share this freely, keep going to live shows and keep taping. Enjoy.

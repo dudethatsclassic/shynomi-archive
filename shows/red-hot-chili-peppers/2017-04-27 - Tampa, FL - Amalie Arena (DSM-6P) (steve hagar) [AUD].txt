@@ -1,0 +1,93 @@
+Red Hot Chili Peppers
+Amalie Arena
+Tampa, FL
+April 27, 2017
+
+** 16 BIT **
+
+Source:  Sonic Studios DSM-6P w/3-way lo-cut filter (@ 80hz, middle setting) > Tascam DR-2d @ 16 bit/44.1 kHz
+Mastering:  .WAV > Sound Forge Pro 11.0 (Build 299) [iZotope Mastering Suite (declick); WAVES GEQ CLASSIC Stereo equalizer plugin (see                     settings below); minor edits, normalize, & fades] > CDWav (tracking) > Trader's Little Helper (level 5) > FLAC > TagScanner 6.0.18             (tagging)
+Location:  Section 312 row S seat 10 
+Recorded by:  Steve "ballsdeep" Hagar
+Mastered by:  Dennis Orr (with EQ settings by Steve Hagar)
+
+Setlist:
+01 Intro Music
+02 Instrumental
+03 Around The World
+04 Dani California
+05 The Zephyr Song
+06 Dark Necessities
+07 Hard To Concentrate
+08 Me & My Friends
+09 Chat
+10 Sick Love
+11 Don't Forget Me
+12 Instrumental
+13 Go Robot
+14 Californication
+15 Detroit
+16 Suck My Kiss
+17 Soul To Squeeze
+18 Instrumental
+19 By The Way
+20 Encore Break
+- Encore -
+21 I'll Be Back
+22 Goodbye Angels
+23 Give It Away
+24 Outro
+
+Anthony Kiedis – lead vocals
+Josh Klinghoffer – lead guitar & backing vocals
+Flea – bass & backing vocals
+Chad Smith – drums & percussion
+
+Mastering Notes:
+EQ settings:
+40 Hz - -6 dB
+63 Hz - -4 dB
+160 Hz - +4 dB
+400 Hz - +2 dB
+630 Hz - -4 dB
+1 kHz - +2 dB
+1.6 kHz - -2 dB
+2.5 kHz - +4 dB
+6.3 kHz - +4 dB
+10 kHz - +2 dB
+16 kHz - +4 dB
+
+Show Notes:
+This was a weird experience. Jack Irons opening-opening set was like an afterthought (but was taped, all 21 minutes of it). Babymetal was a grating experience in patience. Then we got to the headliner. Having seen great 110 minute sets in Anchorage 3 years prior for $65 a ticket, my ceiling on tickets for this show and Orlando the night before was $50 a show.  Orlando prices never dropped, so I skipped that night for a 'day off'. But there were wide swaths of seats in the 300 level for $49 per (pre fees) and I took my chances, to mostly solid results. Main focus was filming (full show is on youtube), but I was able to take advantage of the mostly empty section to get a very solid audio recording as well, save for a early-on verbal skirmish (some guy told me to not talk to his wife that way, but he then backed off and disappeared...dumb bitch walked in front of me 3 times, when there was a staircase right in front of where she was seated to my left...WTF?). Anyhow, another high-energy RHCP set this is, and yes, even though the shows are sold, it's always nice to have a few non-board sources floating around out there, so here ya go!!!!
+
+The video can be found here:
+https://www.youtube.com/watch?v=H3weVO-TaZE
+
+He should be living under a bridge right now, as he pretty much gives it away. His name is Dennis, and he deserves your thanks, as without him, this stuff would not see the light of day. I just push the proverbial buttons until they break. Less vault...more new stuff!
+
+---ballsdeep OUT!!!!
+
+RHCP2017-04-27t01.flac:f5d39d2b17268480b2c44144a589ab6c
+RHCP2017-04-27t02.flac:1f4b9796c25b6643271cabe5050ad181
+RHCP2017-04-27t03.flac:92c2aa59627198786e630db795da4750
+RHCP2017-04-27t04.flac:89f32a8adec1ae9f1696e0e7a2375758
+RHCP2017-04-27t05.flac:08625b2fa842fee70d214c2056c4b162
+RHCP2017-04-27t06.flac:02bc4fd13bc4f55f9556e70734e68b29
+RHCP2017-04-27t07.flac:386a81241738fdd3304456d3e8db6f55
+RHCP2017-04-27t08.flac:9f69e05ac42d8388128c8f4299fd10b9
+RHCP2017-04-27t09.flac:aec2f9f30c29e0d73af5dbc71df77fa8
+RHCP2017-04-27t10.flac:6216c2dc094b185cb465f260b6d14226
+RHCP2017-04-27t11.flac:ab491d3d083c34019c626fc00115db1c
+RHCP2017-04-27t12.flac:7a1c7b73b56e3c4da94c343ba7d30e56
+RHCP2017-04-27t13.flac:9a2da5fd81508580cbcd7a96af33fa47
+RHCP2017-04-27t14.flac:774e169480288db104abceebe95e9090
+RHCP2017-04-27t15.flac:0b3897d195da2d8b5dc8ec0510b2f731
+RHCP2017-04-27t16.flac:552574b98988a5761741052c3f797809
+RHCP2017-04-27t17.flac:fd78ef9f7c838e6bee71fa11b1095897
+RHCP2017-04-27t18.flac:c53f769548e003cdf50d2f359b38f757
+RHCP2017-04-27t19.flac:4bfa9b1b0a213f8370180f8a5bb48d7c
+RHCP2017-04-27t20.flac:f3333a0e41789902ebaef5ad83326adf
+RHCP2017-04-27t21.flac:022a8a04f9fccb3dd4383167fb3c2368
+RHCP2017-04-27t22.flac:f75605b41262db797af40911cd672f73
+RHCP2017-04-27t23.flac:8f6cb4735bf62639623eee0c4a26819c
+RHCP2017-04-27t24.flac:5af74af99b8b2499cb837341e468b75c

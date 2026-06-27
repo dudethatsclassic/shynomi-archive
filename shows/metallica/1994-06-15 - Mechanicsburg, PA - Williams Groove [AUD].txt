@@ -1,0 +1,263 @@
+Metallica
+ 
+
+1994-06-15
+Williams Groove 
+Mechanicsburg, PA
+
+Source: Unknown AUD (1st Gen. Cass)
+
+Transfer: 1st Gen. Cass > Sony TCW-305 > Roxio 6.0 > WAV > CDR(M) > EAC(secure) > WAV > FLAC(lvl8) 
+
+Disc 1:
+
+01. Breadfan
+02. Master of Puppets
+03. Wherever I May Roam
+04. Harvester of Sorrow
+05. Welcome Home (Sanitarium)
+06. The God That Failed
+07. Kill/Ride Medley
+08. For Whom the Bell Tolls
+09. Disposable Heroes
+10. Seek And Destroy
+11. Guitar Solo -> Nothing Else Matters
+
+Disc 2:
+01. Creeping Death
+02. Fade to Black
+03. Whiplash
+04. Sad But True
+05. One
+06. Enter Sandman
+07. So What! 
+
+
+Notes:
+I got this show in a trade directly from the guy that transfered his 1st gen aud cass to cdr for me. The sound starts but kinda rough but improves shortly after, it sounds like the taper was moving around at first. Overall this is a decent aud recording, there are spots were it doesnt sound the best like the taper was hiding the mic or something.
+ 
+                          
+                            ~ bubba420 ~
+
+
+
+
+
+
+FLAC Fingerprint:
+
+Disc 1:
+Track01.flac:4738cb5e257dc8dd6216b274a15edc4c
+Track02.flac:ed65f5fdfa2cfeb905bfe8609b4fd784
+Track03.flac:69ea0c3d9d6866771b1ade2ec4dd64b8
+Track04.flac:06a3655a0c62c6d475a9de720519d54b
+Track05.flac:02b2856089093bc00f580f9a698c12e8
+Track06.flac:3c0806ddf8a828a8fafc861f7feb0b02
+Track07.flac:64d257d585e762534ed856f41a3ed4d6
+Track08.flac:df40208c0637b05d59b4876c719f5a9f
+Track09.flac:f0487cbfc6fa493d814fbaf6f8fca3da
+Track10.flac:c52cecefacd5ec7f0b2b20cfa2613927
+Track11.flac:8439f01ac3f99cd6a2a5f032a3919d81
+Disc 2:
+Track01.flac:63003881528fa084cf49df2db97dda0b
+Track02.flac:3f90bb4f5210a73d7c531d3cae314a82
+Track03.flac:f3a1ebcfe107e02d4516e4122a19233c
+Track04.flac:c2efaeec6977aa575571e2367e1852fc
+Track05.flac:93469ce1a38c452dbf34045611362808
+Track06.flac:8849d8a2061406206176b726a586d03d
+Track07.flac:5264fc43c0aacdebd05f81dad55ec86c
+
+
+
+EAC LOG:
+
+EAC extraction logfile from 11. May 2006, 4:32 for CD
+Unknown Artist / Unknown Title
+
+Used drive  : LG      CD-RW CED-8120B   Adapter: 0  ID: 0
+Read mode   : Secure with NO C2, accurate stream, NO disable cache
+Combined read/write offset correction : 0
+Overread into Lead-In and Lead-Out : No
+
+Used output format : Internal WAV Routines
+                     44.100 Hz; 16 Bit; Stereo
+
+Other options      : 
+    Fill up missing offset samples with silence : Yes
+    Delete leading and trailing silent blocks : No
+    Normalize to 98
+    Installed external ASPI interface
+
+
+Track  1
+     Filename C:\My Documents\Metallica 1994-06-15 Mechanicsburg, PA\Disc 1\Track01.wav
+
+     Peak level 78.8 %
+     Track quality 99.8 %
+     Copy CRC B1D6BC44
+     Copy OK
+
+Track  2
+     Filename C:\My Documents\Metallica 1994-06-15 Mechanicsburg, PA\Disc 1\Track02.wav
+
+     Peak level 83.5 %
+     Track quality 99.9 %
+     Copy CRC 94A64A8E
+     Copy OK
+
+Track  3
+     Filename C:\My Documents\Metallica 1994-06-15 Mechanicsburg, PA\Disc 1\Track03.wav
+
+     Peak level 74.8 %
+     Track quality 99.8 %
+     Copy CRC 8013BBFC
+     Copy OK
+
+Track  4
+     Filename C:\My Documents\Metallica 1994-06-15 Mechanicsburg, PA\Disc 1\Track04.wav
+
+     Peak level 79.0 %
+     Track quality 99.8 %
+     Copy CRC 83C2C59B
+     Copy OK
+
+Track  5
+     Filename C:\My Documents\Metallica 1994-06-15 Mechanicsburg, PA\Disc 1\Track05.wav
+
+     Peak level 82.0 %
+     Track quality 99.9 %
+     Copy CRC A2666FA2
+     Copy OK
+
+Track  6
+     Filename C:\My Documents\Metallica 1994-06-15 Mechanicsburg, PA\Disc 1\Track06.wav
+
+     Peak level 93.9 %
+     Track quality 99.8 %
+     Copy CRC 8F701AA8
+     Copy OK
+
+Track  7
+     Filename C:\My Documents\Metallica 1994-06-15 Mechanicsburg, PA\Disc 1\Track07.wav
+
+     Peak level 75.4 %
+     Track quality 99.8 %
+     Copy CRC 56E003EF
+     Copy OK
+
+Track  8
+     Filename C:\My Documents\Metallica 1994-06-15 Mechanicsburg, PA\Disc 1\Track08.wav
+
+     Peak level 88.9 %
+     Track quality 99.9 %
+     Copy CRC 4E1D4A63
+     Copy OK
+
+Track  9
+     Filename C:\My Documents\Metallica 1994-06-15 Mechanicsburg, PA\Disc 1\Track09.wav
+
+     Peak level 85.0 %
+     Track quality 99.9 %
+     Copy CRC E21E3670
+     Copy OK
+
+Track 10
+     Filename C:\My Documents\Metallica 1994-06-15 Mechanicsburg, PA\Disc 1\Track10.wav
+
+     Peak level 87.3 %
+     Track quality 99.9 %
+     Copy CRC 7250753E
+     Copy OK
+
+Track 11
+     Filename C:\My Documents\Metallica 1994-06-15 Mechanicsburg, PA\Disc 1\Track11.wav
+
+     Peak level 88.6 %
+     Track quality 99.9 %
+     Copy CRC DB03D712
+     Copy OK
+
+No errors occured
+
+
+End of status report
+
+
+EAC extraction logfile from 11. May 2006, 4:16 for CD
+Unknown Artist / Unknown Title
+
+Used drive  : LG      CD-RW CED-8120B   Adapter: 0  ID: 0
+Read mode   : Secure with NO C2, accurate stream, NO disable cache
+Combined read/write offset correction : 0
+Overread into Lead-In and Lead-Out : No
+
+Used output format : Internal WAV Routines
+                     44.100 Hz; 16 Bit; Stereo
+
+Other options      : 
+    Fill up missing offset samples with silence : Yes
+    Delete leading and trailing silent blocks : No
+    Normalize to 98
+    Installed external ASPI interface
+
+
+Track  1
+     Filename C:\My Documents\Metallica 1994-06-15 Mechanicsburg, PA\Disc 2\Track01.wav
+
+     Peak level 93.7 %
+     Track quality 99.9 %
+     Copy CRC CDABC127
+     Copy OK
+
+Track  2
+     Filename C:\My Documents\Metallica 1994-06-15 Mechanicsburg, PA\Disc 2\Track02.wav
+
+     Peak level 83.3 %
+     Track quality 99.8 %
+     Copy CRC 4976022D
+     Copy OK
+
+Track  3
+     Filename C:\My Documents\Metallica 1994-06-15 Mechanicsburg, PA\Disc 2\Track03.wav
+
+     Peak level 100.0 %
+     Track quality 99.9 %
+     Copy CRC A59CE0F8
+     Copy OK
+
+Track  4
+     Filename C:\My Documents\Metallica 1994-06-15 Mechanicsburg, PA\Disc 2\Track04.wav
+
+     Peak level 100.0 %
+     Track quality 99.9 %
+     Copy CRC 36902E85
+     Copy OK
+
+Track  5
+     Filename C:\My Documents\Metallica 1994-06-15 Mechanicsburg, PA\Disc 2\Track05.wav
+
+     Peak level 100.0 %
+     Track quality 99.9 %
+     Copy CRC 24B1B571
+     Copy OK
+
+Track  6
+     Filename C:\My Documents\Metallica 1994-06-15 Mechanicsburg, PA\Disc 2\Track06.wav
+
+     Peak level 100.0 %
+     Track quality 100.0 %
+     Copy CRC E0DD00BB
+     Copy OK
+
+Track  7
+     Filename C:\My Documents\Metallica 1994-06-15 Mechanicsburg, PA\Disc 2\Track07.wav
+
+     Peak level 97.9 %
+     Track quality 99.9 %
+     Copy CRC DA7B07ED
+     Copy OK
+
+No errors occured
+
+
+End of status report

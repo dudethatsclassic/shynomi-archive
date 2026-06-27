@@ -1,0 +1,19 @@
+Miles Davis
+February 19, 1949 (13:44)
+Royal Roost, New York
+WMCA radio broadcast
+Tadd Dameron's Big Ten
+
+Source: Liberated bootlegs? Radio broadcasts? > ?? > CD-R
+Conversion: CD-R > WAV (extracted with EAC) > mkwACT 0.97 b1 > SHN
+Digital Audio Extraction and SHN encoding performed by Mike Vescovo (db.etree.org/shackaholic).
+
+01. Good Bait (T. Dameron-C. Basie) 3:19 
+02. Focus (T. Dameron) 3:53 
+03. April in Paris (E.Y. Harburg-V. Duke) 2:53 
+04. Webb's Delight (T. Dameron) 3:36 
+
+Miles Davis (tpt); Kai Winding (tb); Sahib Shihab [Edmund Gregory] 
+(as); Benjamin Lundy (ts); Cecil Payne (bs); Tadd Dameron (p); John 
+Collins (g); Dillon "Curly" Russell (b); Kenny Clarke (d); Carlos 
+Vidal (bgo)

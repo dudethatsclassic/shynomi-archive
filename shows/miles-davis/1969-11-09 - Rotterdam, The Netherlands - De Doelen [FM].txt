@@ -1,0 +1,117 @@
+Miles Davis Quintet
+11-09-1969
+De Doelen
+Rotterdam, The Netherlands
+
+Project ID - LL163
+
+Source: FM Broadcast
+Lineage: VARA radio broadcast > ?? > Disk 12 of the Lost Quintet Miles Tree > ??
+unknown ripping software > shn
+
+Miles Davis (tpt); Wayne Shorter (ss, ts); Chick Corea (el-p); 
+Dave Holland (b, el-b); Jack DeJohnette (d); Michiel De Ruyter (ann)
+
+disc 1
+
+d1t01. Introduction
+d1t02. Directions
+d1t03. Bitches Brew/
+d1t04. I Fall in Love Too Easily
+d1t05. Sanctuary 
+d1t06. It's About That Time
+d1t07. Masqualero
+ 
+-------------------------------------------------------
+
+Notes:
+
+- d1t01: There is a small glitch at 1:17.
+
+- d1t02: digi pop/ static burst at 6:47, 7:25
+
+- d1t03: digi pop/ static burst at :25
+
+- d1t04: digi pop/ static burst at :35, 1:14, 1:56, 2:27
+
+- d1t05: digi pop/ static burst at :41, 1:08, 1:49, 2:15, 3:05
+
+- d1t06: digi pop/ static burst at 2:19, 3:26, 15:51. Drop out at 3:44
+
+- d1t07: digi pop/ static burst at :39, 1:58, 2:19, 3:46, 4:24, 4:41, 5:24
+7:07, 8:46 . Drop outs at 3:14, 5:57
+
+- There is a signifigant hiss in the recording. The volume level is very low 
+until about :51 in d1t01 when it increases. At about 7:56, there is a noticable
+tapping noise in the left channelthat fades out at about 9:18. 
+
+- According to Peter Losin, there are a few other versions of this out there. 
+There is the original VARA 1969 broadcast, a BBC Radio rebroadcast, and a
+digital XM broadcast. Both the BBC and the XM are supposed to be better in 
+quality than this one which I believe is the longer version described below.
+The track timing are all I have to compare and none match any of the timings
+provided by Peter at Miles Ahead.   
+
+- There are at least two older VARA broadcasts of this material. The longer one (A) 
+begins with a short studio introduction (titles are announced as "Directions," "
+Listen to This," "About That Time," and "Masqualero"), and contains an incomplete 
+version of "Bitches Brew" (a splice at 8:27 excises 8:29-11:19 of complete version). 
+The shorter broadcast (B) is sonically better and includes a Michiel de Ruyter studio 
+introduction (0:51 -- titles announced as "Listen to This" and "About That Time"); 
+Bitches Brew (12:36); I Fall in Love Too Easily (2:33); Sanctuary (3:55); It's About 
+That Time (3:59); closing announcement (0:16).- Credit to Peter Losin, 
+http://www.plosin.com/
+
+A So What CDR is mastered from the first broadcast (A), but the tracks are wrongly 
+indexed: 1. Introduction (0:12); 2. Directions (9:51); 3. Bitches Brew (9:44); 4. 
+I Fall in Love Too Easily (2:36); 5. Sanctuary (4:02); 6. It's About That Time (16:58); 
+7. Masqualero (14:49)."- Credit to Peter Losin, http://www.plosin.com/
+
+- QC done by Bgreen
+
+md5
+35c8f17a72d55abb96e32fa110444f29 *md1969-11-09.fm.LL163.d1t01.shn
+cf75a5532af866bbc6f0e67434efcfcc *md1969-11-09.fm.LL163.d1t02.shn
+13fd098f4f9f15988180fafa0f84dc08 *md1969-11-09.fm.LL163.d1t03.shn
+cc5642f63260284f04682d282e86a879 *md1969-11-09.fm.LL163.d1t04.shn
+e25634a3db0fc3cef86d75073e56a806 *md1969-11-09.fm.LL163.d1t05.shn
+0717a3c2255d6ef02ab0975279696420 *md1969-11-09.fm.LL163.d1t06.shn
+605ce54a0e3a99f9401a46737fb92d4f *md1969-11-09.fm.LL163.d1t07.shn
+
+st5 
+b401223efc643f0c6bc69858e1a0b473  [shntool]  md1969-11-09.fm.LL163.d1t01.shn
+e5e3f37817fb1af329ee9326116f0476  [shntool]  md1969-11-09.fm.LL163.d1t02.shn
+1242b06b5f8db918db8414c124fa4934  [shntool]  md1969-11-09.fm.LL163.d1t03.shn
+999f22a3923706546b2b6987ee5093bc  [shntool]  md1969-11-09.fm.LL163.d1t04.shn
+e4c342092b953c74edd1000904f4d9d6  [shntool]  md1969-11-09.fm.LL163.d1t05.shn
+bef443b6be0e2a0ae586f4491a2789e3  [shntool]  md1969-11-09.fm.LL163.d1t06.shn
+b3b6e46f6d919ab85c2940a1094fdab5  [shntool]  md1969-11-09.fm.LL163.d1t07.shn
+
+shntool
+  length     expanded size   cdr  WAVE problems filename
+     0:17.71        3165836    ---   --   ---xx   md1969-11-09.fm.LL163.d1t01.shn
+     9:51.68      104412380    ---   --   ---xx   md1969-11-09.fm.LL163.d1t02.shn
+     9:45.05      103205804    ---   --   ---xx   md1969-11-09.fm.LL163.d1t03.shn
+     2:37.35       27777164    ---   --   ---xx   md1969-11-09.fm.LL163.d1t04.shn
+     3:54.59       41416412    ---   --   ---xx   md1969-11-09.fm.LL163.d1t05.shn
+    17:04.58      180770060    ---   --   ---xx   md1969-11-09.fm.LL163.d1t06.shn
+    14:50.18      157038380    ---   --   ---xx   md1969-11-09.fm.LL163.d1t07.shn
+    58:22.14      617786036 B                     (totals for 7 files, 0.5784 overall compression ratio)
+
+spectral analysis from TLH
+md1969-11-09.fm.LL163.d1t01.wav:  track looks like CDDA with probability 100%
+md1969-11-09.fm.LL163.d1t02.wav:  track looks like CDDA with probability 100%
+md1969-11-09.fm.LL163.d1t03.wav:  track looks like CDDA with probability 100%
+md1969-11-09.fm.LL163.d1t04.wav:  track looks like CDDA with probability 100%
+md1969-11-09.fm.LL163.d1t05.wav:  track looks like CDDA with probability 100%
+md1969-11-09.fm.LL163.d1t06.wav:  track looks like CDDA with probability 100%
+md1969-11-09.fm.LL163.d1t07.wav:  track looks like CDDA with probability 100%
+
+Old md5
+35c8f17a72d55abb96e32fa110444f29 *Track01.shn
+cf75a5532af866bbc6f0e67434efcfcc *Track02.shn
+13fd098f4f9f15988180fafa0f84dc08 *Track03.shn
+cc5642f63260284f04682d282e86a879 *Track04.shn
+e25634a3db0fc3cef86d75073e56a806 *Track05.shn
+0717a3c2255d6ef02ab0975279696420 *Track06.shn
+605ce54a0e3a99f9401a46737fb92d4f *Track07.shn

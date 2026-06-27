@@ -1,0 +1,93 @@
+Ryan Adams & The Cardinals
+The Music Hall
+Portsmouth, NH
+August 8, 2023
+
+** 24 BIT **
+
+Source:  Schoeps MK4V radial cardioids (in a Kangol hat) > Nbob actives > Nbox Platinum > Roland R-05 @ 24 bit/48 kHz
+Mastering:  .WAV > iZotope RX10 Advanced v10.0.0.1705 (De-click) > Sound Forge Pro 14.0 Build 140 [minor edits, normalize, & fades, Boz Digital Labs T-Bone2 plug-in (tilt EQ)] > 
+CDWav (tracking) > Trader's Little Helper (level 5) > FLAC > TagScanner 6.1.16 (tagging)
+Location:  Front row of the balcony to the right of center
+Recorded by:  Jim Kelly (musicjaime)
+Mastered by:  Dennis Orr
+
+Setlist: (2:54:23)
+01 Intro
+02 Iron Man
+03 Mockingbird
+04 Chat & Tuning
+05 Cold Roses
+06 Chat
+07 Happy Birthday To You (for Brad Pemberton)
+08 Pee Break Vamp & Chat
+09 Powerslave
+10 Chat
+11 Peaceful Valley >
+12 The Changeling >
+13 Peaceful Valley
+14 Chat
+15 Band Intros
+16 Paranoid
+17 Chat & Tuning
+18 Beautiful Sorta
+19 Magick
+20 Magnolia Mountain >
+21 Shout It Out Loud >
+22 Magnolia Mountain
+23 Chat & Tuning
+24 Candy Says
+25 Chat & Tuning
+26 The End >
+27 Easy Plateau > 
+28 The End
+29 Crowd
+
+Ryan Adams - lead vocals & guitar
+Chris Stills - guitar & backing vocals
+Don Was - bass
+Daniel Clarke - keyboards
+Aaron Ficca - percussion
+Brad Pemberton - drums
+
+Taper Notes:
+Ryan's M.O. with this version of The Cardinals is long songs, long shows. A lot of the long songs tend to meander with jamming but not a lot of soloing and quite a few transitions 
+from one song to another, then back again. Good stoner music. Also, you won't experience it, but they essentially play in the dark so you can't see them and the plan had been to 
+use a fog/smoke machine, which they used for Cold Roses...it essentially filled the entire theater with fog, but set off a fire or some other alarm so they would not let them use 
+it after that. I think that you can likely hear the alarm going in the background in Cold Roses. At the time I was wondering if it was something being done by the keyboard player, 
+so it is not totally intrusive, if present at all in the recording. Then there was the crowd and Ryan's reaction. So someone yells a request. Fine. Ryan goes into a rant and 
+eventually says there is a plan and a set list. So...shut up. Do you think people could do that? No! Some jerk near me yells for Free Bird...another rant ensues, and many others 
+over the course of the evening as more people can't just shut up and listen and Ryan can't help but be a jerk back at them. We probably lost at least 20 minutes of music due to 
+this nonsense. STFU and listen! So that's my rant. 🙂
+
+One long show starting at about 8:15 and going to about 11:10. 
+
+RyanAdams2023-08-08t01.flac:9fc585381fed1e9df88e283b0e187cfd
+RyanAdams2023-08-08t02.flac:2c02ec400375ce1aa4819c28c3ba5b91
+RyanAdams2023-08-08t03.flac:c6eb594b2d60240faa502a03d7b98e72
+RyanAdams2023-08-08t04.flac:b779c186475cf178e8af658078635d4b
+RyanAdams2023-08-08t05.flac:f2a4a68acacc3a83ab3e051326fae06d
+RyanAdams2023-08-08t06.flac:c90897ff399da8c9f781b4d40f560ef1
+RyanAdams2023-08-08t07.flac:3794f64961a7164b0a1fab4b720c5fa0
+RyanAdams2023-08-08t08.flac:3efacf5469a81d4e15498d6904ee8122
+RyanAdams2023-08-08t09.flac:5a938c4e35aa588ab81dc86aba8984d0
+RyanAdams2023-08-08t10.flac:8f137da4e658be88f97a038599d3ef23
+RyanAdams2023-08-08t11.flac:50578aab002721ea08ebd3520a4b0e89
+RyanAdams2023-08-08t12.flac:8b666fff7e0c4d74a79fcce982ae192f
+RyanAdams2023-08-08t13.flac:8137a6254bfcc443f88453f4e070a457
+RyanAdams2023-08-08t14.flac:6260bf59f916f8192dcbbbdac5b87085
+RyanAdams2023-08-08t15.flac:d159139466238f030e1aafb834129dd3
+RyanAdams2023-08-08t16.flac:dfc63c8bb76b5c3a4e87e2dff56bc659
+RyanAdams2023-08-08t17.flac:b4836bf294d7816be424a7bfccae1c4e
+RyanAdams2023-08-08t18.flac:758afc1fd44069e34fcfff62c2d716e4
+RyanAdams2023-08-08t19.flac:3f6e8d9a51a96d6dbedb0ee286c9a947
+RyanAdams2023-08-08t20.flac:9569944065d0edc1df5cf29bc5b1f54a
+RyanAdams2023-08-08t21.flac:7e39ce102040d45bad0ee5c54b823994
+RyanAdams2023-08-08t22.flac:1b8b3328036d9d0eb44f0ebb13c94bab
+RyanAdams2023-08-08t23.flac:eca887e0af20482ca593098b742b8666
+RyanAdams2023-08-08t24.flac:735ba877725df54fe8ee80ce1d1eb5b1
+RyanAdams2023-08-08t25.flac:85a0a752f7c6b6d1d02e32b5ff08bc3f
+RyanAdams2023-08-08t26.flac:cb9c90991e70da2c074095ed32237419
+RyanAdams2023-08-08t27.flac:1b23cc9792183cf4b43f8fee8455ff91
+RyanAdams2023-08-08t28.flac:9612f075b5c5f8cd508d34316681133b
+RyanAdams2023-08-08t29.flac:a94700a6dc96c564d54a521253f0b1d2

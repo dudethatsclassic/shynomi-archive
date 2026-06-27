@@ -1,0 +1,76 @@
+Beck
+Way Out West 
+Slottsskogen
+Gothenburg, Västra Götaland County, Sweden 
+August 13, 2015
+
+Lineage: Live Webcast -> FFmpeg (capture & edit) -> .ts 
+Video: MPEG4 Video (H264) 1280x720 16:9 2750 Kbps 30.00 fps
+Audio: AAC 256 Kbps 48.0 KHz stereo
+
+Setlist: 
+The New Pollution
+Hell Yes
+Sexx Laws
+E-Pro
+
+TRT = 16 mins 29 secs
+(complete broadcast - highlights only)
+
+MediaInfo:
+General
+ID                                       : 1 (0x1)
+Complete name                            : Beck - 2015-08-13 Way Out West Festival [720p].ts
+Format                                   : MPEG-TS
+File size                                : 356 MiB
+Duration                                 : 16mn 29s
+Overall bit rate mode                    : Variable
+Overall bit rate                         : 3 014 Kbps
+
+Video
+ID                                       : 256 (0x100)
+Menu ID                                  : 1 (0x1)
+Format                                   : AVC
+Format/Info                              : Advanced Video Codec
+Format profile                           : Main@L3.2
+Format settings, CABAC                   : Yes
+Format settings, ReFrames                : 1 frame
+Codec ID                                 : 27
+Duration                                 : 16mn 29s
+Bit rate mode                            : Constant
+Nominal bit rate                         : 2 500 Kbps
+Width                                    : 1 280 pixels
+Height                                   : 720 pixels
+Display aspect ratio                     : 16:9
+Frame rate                               : 30.000 fps
+Color space                              : YUV
+Chroma subsampling                       : 4:2:0
+Bit depth                                : 8 bits
+Scan type                                : Progressive
+Bits/(Pixel*Frame)                       : 0.090
+
+Audio
+ID                                       : 257 (0x101)
+Menu ID                                  : 1 (0x1)
+Format                                   : AAC
+Format/Info                              : Advanced Audio Codec
+Format version                           : Version 4
+Format profile                           : LC
+Muxing mode                              : ADTS
+Codec ID                                 : 15
+Duration                                 : 16mn 29s
+Bit rate mode                            : Variable
+Channel(s)                               : 2 channels
+Channel positions                        : Front: L R
+Sampling rate                            : 48.0 KHz
+Compression mode                         : Lossy
+Delay relative to video                  : -101ms
+
+Menu
+ID                                       : 4096 (0x1000)
+Menu ID                                  : 1 (0x1)
+Duration                                 : 16mn 29s
+List                                     : 256 (0x100) (AVC) / 257 (0x101) (AAC)
+Service name                             : Service01
+Service provider                         : FFmpeg
+Service type                             : digital television

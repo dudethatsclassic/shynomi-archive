@@ -1,0 +1,37 @@
+Cake
+2024-07-09
+Pacific Amphitheatre
+Costa Mesa, CA, USA
+
+-- Source --
+DPA 4081 > MMA-A > 24bit/48kHz
+
+-- Processing --
+iZotope RX (editing/mastering) > CD Wave (tracking) > Trader's Little Helper (encoding)
+
+-- Setlist --
+01 - intro (War)
+02 - Frank Sinatra
+03 - Sad Songs and Waltzes
+04 - Opera Singer
+05 - Long Time
+06 - Meanwhile, Rick James...
+07 - Perhaps, Perhaps, Perhaps [false start]
+08 - Perhaps, Perhaps, Perhaps
+09 - interlude (tree contest)
+10 - Love You Madly
+11 - Sheep Go to Heaven
+12 - Stickshifts and Safetybelts
+13 - Sick of You
+14 - Never There
+15 - I Will Survive
+16 - encore
+17 - Short Skirt/Long Jacket
+18 - The Distance
+
+-- Notes --
+DakhaBrakha opened.
+
+Length: 1h33m20s
+
+-- faninor -- 2024-07-30 --

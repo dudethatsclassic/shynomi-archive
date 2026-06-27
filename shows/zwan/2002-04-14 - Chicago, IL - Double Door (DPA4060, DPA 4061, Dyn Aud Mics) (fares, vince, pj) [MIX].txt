@@ -1,0 +1,62 @@
+Zwan
+04.14.02  Double Door; Chicago, IL 
+
+Taper:              Fares Halteh
+Source:             DPA-4060>Custom Battery Box>M1 (45%)  
+Location:           fob, mic stand, 30 feet back, 14 feet up
+Conversion:         PCM-M1>Coax Cable>Midiman Audiophile 2496 
+Resampling:         None
+Editor:             Fares Halteh and Jill Harrison	
+Editing:            cd wave editor track split, T-Racks Equalizing
+SHN:                master DAT > Cool Edit Pro > MKW Audio Compression Tool
+
+Taper:              Vince Horst
+Source:             DPA-4061>M1 (40%)
+Location:           left side, pillar, 2 ft from stack
+Conversion:         Fostex D5 > Optical cable > Zoltrix Nightingale
+Resampling:         None
+Editor:             Vince Horst	
+Editing:            cd wave editor track split
+SHN:                master DAT > Cool Edit Pro > MKW Audio Compression Tool
+
+Taper:              PJ Pearson
+Source:             Dynamic Audio Mics (pzane) > D.A. battery box/rolloff > M1 (55%)
+Location:           fob, mic stand, 30 feet back, 14 feet up 
+Conversion:         PCM-M1>Coax Cable>Zoltrix Nightingale
+Resampling:         None
+Editor:             David Reid	
+Editing:            cd wave editor track split, T-Racks Equalizing
+SHN:                master DAT > Cool Edit Pro > MKW Audio Compression Tool
+
+Mix:                Cool Edit Pro 4 track recorder
+Editor:             Fares Halteh
+
+
+******************************************************************************************************************
+	                    THIS SHOW IS NOT TO BE MP3-ENCODED	
+******************************************************************************************************************
+
+Disc 1- 73:07
+01. A New Poetry (09:17)
+02. To Wonder (06:17)
+03. The World Goes 'Round (05:56)
+04. Cast a Stone (04:22)
+05. All Day and All of the Night [The Kinks] (03:32)
+06. Love Lies in Ruin (05:30)
+07. Jesus [Lyte] > God's Gonna Set This World (tease) (19:00)
+08. Yeah (02:55)
+09. Lyric (05:13)
+10. Endless Summer (04:17)
+11. For Your Love (06:42)
+
+Disc 2- 33:49
+01. Rivers We Can't Cross (06:09)
+02. Settle Down (05:52)
+--- 
+03. Banter (01:58)
+04. Baby Let's Rock (03:26)
+05. Spilled Milk (16:22)
+
+Total Run Time: 106:56
+
+Notes: Brought to you by Jill Harrison, PJ Pearson, Frank Quinto, Fares Halteh, Zach Payne, Vince Horst & David Reid

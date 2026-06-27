@@ -1,0 +1,62 @@
+Metallica
+March 11, 2019
+Bankers Life Fieldhouse
+Indianapolis, Indiana
+
+Source: Sound Professionals CMC-08s (AT943s)->Rode SC6-L-> 
+Sound Professionals RD-SC6-L adapter->iPhone X->Rode Reporter app (48kHz/24-bit wave)->
+Audacity->CD Wave->TLH 
+Taper: ironchef 
+
+Total time: 139:54
+
+01.  Intro
+02.  Hardwired
+03.  Atlas, Rise!
+04.  Seek & Destroy
+05.  Ride the Lightning
+06.  The Unforgiven
+07.  Now That We're Dead
+08.  Creeping Death
+09.  For Whom the Bell Tolls
+10.  Here Comes Revenge
+11.  Kirk & Rob Zero Boys/Mellencamp jam->Anasthesia
+12.  Hit the Lights
+13.  Fuel
+14.  Moth Into Flame
+15.  Jaymz banter
+16.  Sad But True
+17.  One
+18.  Master of Puppets
+19.  encore break
+20.  Fight Fire With Fire
+21.  Nothing Else Matters
+22.  Enter Sandman
+23.  Stage banter
+
+Notes:  Recorded from lower level section 13 several rows
+up from the floor.  I decided to do an experiment and try recording 
+with a new setup using my trusty AudioTechnica/Sound Professionals
+mics into the iPhone.  I'm not sure about this, so I thought I'd put it 
+out there and see what others think.  I've seen more recordings showing up 
+that have been done on phones, so I thought I'd try it out on this show
+since I had a friend taping from a section in the middle level as 
+a backup and also since I could get the soundboard as well.  The 
+Rode Reporter app is set to record at 48 kHz/24-bit.  My ears 
+can't hear the difference between 16 and 24-bit, but that's just me.
+In hindsight, I wish I had used both setups myself so I could get
+an accurate side-by-side comparison.  This is one of those shows
+that to me sounded better with the earplugs because the few times
+I popped them out it sounded so bright and thin.
+
+As for the show itself, I really thought the setlist was a nice balance
+between old and new material, and the production was excellent.
+The last time they played Indy, at the end of the show Lars asked the
+crowd if we wanted Metallica to come back more often than every
+five f*n' years.  That was almost ten years ago.  Hopefully, they'll be 
+back around in less than a decade the next time.  I haven't finished
+working on the other source, but if some folks want it as well I'll get
+it posted too.  Enjoy!
+
+
+

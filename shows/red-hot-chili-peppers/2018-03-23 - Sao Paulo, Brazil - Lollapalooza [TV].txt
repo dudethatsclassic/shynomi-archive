@@ -1,0 +1,30 @@
+Red Hot Chili Peppers
+Lollapalooza Brazil
+São Paulo, Brazil
+March 23, 2018
+
+Source: Downloaded Multishow VOD -> FFmpeg (edit) -> .ts
+Video: MPEG4 Video (H264) 1280x720 2200kbps
+Audio: AAC 44100Hz stereo 175 kbps
+Length: 01:36:44
+
+Setlist:
+01 - Can't Stop
+02 - Snow ((Hey Oh))
+03 - Otherside
+04 - Dark Necessities
+05 - Menina Mulher da Pele Preta (Jorge Ben Jor cover)
+06 - Sick Love
+07 - Nevermind
+08 - Californication
+09 - Aeroplane
+10 - Blood Sugar Sex Magik
+11 - Hump De Bump
+12 - The Adventures of Rain Dance Maggie
+13 - Higher Ground
+14 - Under the Bridge
+15 - By the Way
+
+Encore:
+16 - Goodbye Angels
+17 - Give It Away

@@ -1,0 +1,47 @@
+RYAN ADAMS & THE CARDINALS
+2006-10-17
+Das Haus
+Ludwigshafen, Germany
+
+Taper:      Sebastian Boschert <sebastian@2007.org>
+Source:     Soundboard > Edirol R-09
+Transfer:   Master WAV > Digital Editing > CD Wave Editor V1.94.7
+              > FLAC V1.1.2
+Editing:    Slight EQ and volume boost in Adobe Audition V2.0
+            Fades in Steinberg WaveLab V5.0a
+Dithering:  UV22 HR dithering in Steinberg WaveLab V5.0a
+Resampling: 48.0 kHz > 44.1 kHz resampling in Steinberg WaveLab V5.0a
+
+Disc 1:
+01 Intro
+02 Magnolia Mountain
+03 > Hallelujah
+04 Blue Hotel
+05 To Be Young (Is to Be Sad, Is to Be High)
+06 New York, New York
+07 She Wants to Play Hearts
+08 Chin Up, Cheer Up
+09 Freeway to the Canyon
+10 Harder Now That It's Over
+11 [Fade Out]
+
+Disc 2:
+01 [Fade In]
+02 Damn Sam (I Love a Woman That Rains)
+03 Easy Plateau
+04 Peaceful Valley
+05 Trouble On Wheels
+06 Firecracker
+07 Why Do They Leave?
+08 A Kiss Before I Go
+09 Dear John
+10 Cold Roses
+11 Bird Song [Jerry Garcia]
+12 > Wild Flowers
+13 Let It Ride
+
+Notes:
+The occasional dropouts between songs are from the original soundboard feed
+and are present on all soundboard recordings from this show.
+This is the 16-bit version of this recording.
+To seamlessly join the two discs, simply remove D1T11 and D2T01.

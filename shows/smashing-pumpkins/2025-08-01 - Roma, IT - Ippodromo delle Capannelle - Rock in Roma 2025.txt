@@ -1,0 +1,82 @@
+SMASHING PUMPKINS
+Tour: "The Aghori Tour"
+Place: Roma [IT]
+Venue: "Rock in Roma 2025", Ippodromo delle Capannelle
+Date: 2025-08-01
+
+2xIEM/AUD Matrix by Alessio
+
+Sources:
+#1/#2 IEM: Receivers > Tascam DR-2D - Taper: Awanagana / Location: Stage side
+#3 AUDIENCE: AT-943 Hyper-caps > SP-SPSB-1 > Yamaha Pocketrak C24 - Taper: Alberto / Location: PIT
+
+Mix Lineage:
+2 pre-edited Sources > AUDACITY v2.3.2 (Volume Boost & Interactions / LoudMax Plug-in / Tracks splitting) > flac16
+
+Sources Lineage:
+#1 2xIEM Raw Wav files > Demucs GUI (STEMS) > ADOBE AUDITION 12.0.241 (EQ + Multiband Compressor) > AUDACITY v2.3.2 (5 STEMS Remix / 3 songs De-clicked) > Source #1 Wav 
+#2 AUD Raw Wav file > AUDACITY v2.3.2 (File Alignment + EQ) > Source #2 Wav
+
+
+Setlist
+
+01. Pre-show Music
+02. Glass' Theme
+03. Heavy Metal Machine
+04. Where Boys Fear to Tread
+05. Pentagrams
+06. Today
+07. Bullet With Butterfly Wings
+08. Muzzle
+09. 1979
+10. Edin
+11. Porcelina of the Vast Oceans
+12. Sighommi
+13. Mayonaise
+14. Take My Breath Away (Berlin cover)
+15. 999
+16. Disarm
+17. Tonight, Tonight
+18. Cherub Rock
+19. Jellybelly
+20. If There Is a God
+21. Bodies
+22. Ava Adore
+23. Stand Inside Your Love
+24. Zero
+25. The Everlasting Gaze (preceded by a tease of Black Sabbath’s “N.I.B.”)
+26. Outro Music
+
+
+Total Running Time: 02h08m30sec
+Size: FLAC 864 MB
+
+
+https://smashingpumpkins.com/
+https://www.facebook.com/smashingpumpkins/
+https://www.instagram.com/smashingpumpkins
+https://www.youtube.com/@smashingpumpkins
+https://x.com/SmashingPumpkin
+
+Billy Corgan – lead vocals, guitar, keyboards, bass
+Jimmy Chamberlin – drums
+James Iha – guitar, bass, backing and occasional lead vocals
+Jack Bates – bass
+Katie Cole – keyboards, guitar, backing vocals
+Kiki Wong – guitar
+
+
+NOTES:
+
+- Support the artists. Buy all the official releases, concert tickets and only official merchandise
+
+- MP3 CONVERSION ONLY FOR PERSONAL USE / DO NOT SELL IT / DO NOT SHARE ON YT, OTHER SITES OR FORUMS WITHOUT ASKING PERMISSION.
+
+- MADE IN ITALY BY ITALIAN FANS / TOP SOUND !!! / PLAY IT VERY LOUD !!!
+
+
+Enjoy the show!
+Alberto, Alessio, Awanagana
+
+Happy Halloween!
+Shared on dime: October 31th 2025

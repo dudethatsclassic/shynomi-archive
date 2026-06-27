@@ -1,0 +1,225 @@
+Dizzy Gillespie Big Band (W/ Miles Davis)
+XX-XX-1948
+Pershing Ballroom
+Chicago, Illinois
+
+Project ID - LL99
+
+Source: Aud
+Lineage: Audience recording > ?? > Philology Volume 13 (W 843), Volume 41 (W 872) > 
+ripped with soundforge > ?? > cd (Peter Losin's Archive) > 
+cd duplicated (burner to burner) > eac > flac ( lvl 8 )
+ 
+
+J.B. "Dizzy" Gillespie (tpt, leader); Miles Davis (tpt); Dave Burns (tpt); 
+Willie Cook (tpt); Elmon Wright (tpt); Jesse Tarrant (tb); Andy Duryea (tb); 
+Charlie Parker (as); John Brown (as); Ernie Henry (as); Joe Gayles (ts); 
+James Moody (ts); Cecil Payne (bs); James Foreman, Jr. (p); Nelson Boyd (b); 
+Teddy Stewart (d); Chano Pozo (cga)
+
+disc 1
+
+d1t01. Yesterdays
+d1t02. 'Round Midnight
+d1t03. Algo Bueno
+d1t04. Manteca
+d1t05. Ool Ya Koo
+d1t06. Lover Man
+d1t07. Good Bait
+d1t08. Good Bait
+d1t09. Unknown Title
+d1t10. All the Things You Are
+d1t11. Ornithology
+d1t12. Groovin' High
+d1t13. Ool Ya Koo
+d1t14. I Can't Get Started
+d1t15. Don't Blame Me
+d1t16. Cool Breeze
+d1t17. Things to Come
+d1t18. Oo Bop Sh'Bam
+d1t19. A Night in Tunisia
+d1t20. What is This Thing Called Love?
+d1t21. Half Nelson
+ 
+-------------------------------------------------------
+
+Notes:
+
+- * ALL tracks are fragmented.
+
+- This recording is very lacking in sound quality. The sound, when audible over 
+the flaws, is very muffled and distorted. If you take the time to concentrate through
+the flaws, this sounds as though it was a fantastic show. I would have to mark this for 
+very enthusiastic completists only. 
+
+- Thanks to Peter Losin for the source!
+
+- "In the notes to Philology W 843 Robert Bregman claims that "Miles was on the bill 
+[this] night but our tapes do not have him and Bird together." Philology W 843 gives 
+"possibly August or Fall, 1948" as the date for this session. This raises difficulties, 
+however, since Davis (as a member of the Parker Quintet) was booked in various New York 
+venues throughout July, spent the month of August rehearsing his Nonet, and spent most 
+of September in the Royal Roost with both groups. All of this is well documented on 
+recordings. And by December Parker was back at the Roost for a four month gig that 
+extended through March 1949. Despite these difficulties, Ken Vail (Bird's Diary) 
+places the Pershing Hotel Gillespie Big Band show on September 26. He makes no mention 
+of Davis."- Credit to Peter Losin,http://www.plosin.com/
+
+- "A Davis-like trumpet is certainly present on the three titles indicated; it's hard 
+to tell whether he plays on the rest of the titles. And given the schedule alluded to 
+above, I'm very skeptical that Davis is present at all." - Credit to Peter Losin,
+//www.plosin.com/
+
+- "There is also a Parker quintet item ("Groovin' High," 1:21) usually placed at 
+the Pershing on or around this date. There's no trumpet solo on this fragment, 
+so it's impossible to tell if Davis is present. My guess is that he's not."
+- Credit to Peter Losin,http://www.plosin.com/
+
+- QC done by Bgreen
+
+md5
+0682d54ba8c9b6259b7df46d6fb7f212 *md1948-XX-XX.LL99.d1t01.flac
+9f95ab6e68c3ecdf8b79499013bef0ba *md1948-XX-XX.LL99.d1t02.flac
+06a45c48558d538a4b321d2c9428d2a5 *md1948-XX-XX.LL99.d1t03.flac
+5cb5485e937b121f1167e188f73d96a8 *md1948-XX-XX.LL99.d1t04.flac
+10e89dd4ed0f3ff3e1de4e4c21569734 *md1948-XX-XX.LL99.d1t05.flac
+8e506dfe67310a6a99c44a7258d426f7 *md1948-XX-XX.LL99.d1t06.flac
+7e35927e43c55bcff807e00cf6929d1e *md1948-XX-XX.LL99.d1t07.flac
+54701068b613ce655719471ed69012b9 *md1948-XX-XX.LL99.d1t08.flac
+74632f771fa6d8b55a4dbc2b246b7b92 *md1948-XX-XX.LL99.d1t09.flac
+26ca75ac79b873fdf6dbd2b896c5e98f *md1948-XX-XX.LL99.d1t10.flac
+00d410129030374a99792c642c688554 *md1948-XX-XX.LL99.d1t11.flac
+1ed3f81bfc8de2e08e229bb3d8bb4920 *md1948-XX-XX.LL99.d1t12.flac
+eaadd0fcbe406210a4db57c3e8d2f77b *md1948-XX-XX.LL99.d1t13.flac
+c17698bfac3b185f0d924dec66363133 *md1948-XX-XX.LL99.d1t14.flac
+be86cb8a29a76ae39a6ddd4b262fb143 *md1948-XX-XX.LL99.d1t15.flac
+f407e16a6e42732bdb18e64442ff5065 *md1948-XX-XX.LL99.d1t16.flac
+af92d949fad2fa01dae31b2457e6780a *md1948-XX-XX.LL99.d1t17.flac
+9e98bf0ec57b3d5b36dc1d96c602bc48 *md1948-XX-XX.LL99.d1t18.flac
+6d3683548ca49c6caae2952c7fc9d3d4 *md1948-XX-XX.LL99.d1t19.flac
+66abfa1358617d82a692b15b0b1d84d7 *md1948-XX-XX.LL99.d1t20.flac
+1b3523f5600f5326744161c43178b4bd *md1948-XX-XX.LL99.d1t21.flac
+
+ffp
+md1948-XX-XX.LL99.d1t01.flac:48f77a45c7ae6889eecfea5f9f154d17
+md1948-XX-XX.LL99.d1t02.flac:1deedc3886fcd2ac48a5288acb08905e
+md1948-XX-XX.LL99.d1t03.flac:2170d0d9de215174487fa8298493b2f2
+md1948-XX-XX.LL99.d1t04.flac:8888cc8a965a5cdbb9aaed19683b994c
+md1948-XX-XX.LL99.d1t05.flac:8da3489165571d01bf1ad133500d2364
+md1948-XX-XX.LL99.d1t06.flac:3219081c7197d6b88e8d74dfb6ce91c2
+md1948-XX-XX.LL99.d1t07.flac:d2cb7ee1628a0943d9b9032d7ae70388
+md1948-XX-XX.LL99.d1t08.flac:a08b779a651785ed6db93b77030cc07a
+md1948-XX-XX.LL99.d1t09.flac:9c2b473569bab73b5a929e5d6c68932d
+md1948-XX-XX.LL99.d1t10.flac:5b8a7af2c6cc36f961acacf1e0bd2929
+md1948-XX-XX.LL99.d1t11.flac:2cf5b7ec55dec943e0da5649c727e19d
+md1948-XX-XX.LL99.d1t12.flac:998944033e9e1738d2d71858ff11c0a9
+md1948-XX-XX.LL99.d1t13.flac:d590e932bf33035cd0910d87883fa998
+md1948-XX-XX.LL99.d1t14.flac:3d9cb599712bf311640370de50447292
+md1948-XX-XX.LL99.d1t15.flac:f35c35a9c47037b5f60ed7165b0ecb3e
+md1948-XX-XX.LL99.d1t16.flac:83b82443a0a613a334228bfa241b861f
+md1948-XX-XX.LL99.d1t17.flac:3f2337c83013dc43fb73d5a0d56e71cb
+md1948-XX-XX.LL99.d1t18.flac:08e0e6cf185fd861090c7ebdb0317a03
+md1948-XX-XX.LL99.d1t19.flac:20d874a4d05ca88954478b980552b0ed
+md1948-XX-XX.LL99.d1t20.flac:8356bf2b69c86199dca0b2cc0507b53a
+md1948-XX-XX.LL99.d1t21.flac:d82af1e00effb327259c94b3c3cf0027
+
+st5 
+48f77a45c7ae6889eecfea5f9f154d17  [shntool]  md1948-XX-XX.LL99.d1t01.flac
+1deedc3886fcd2ac48a5288acb08905e  [shntool]  md1948-XX-XX.LL99.d1t02.flac
+2170d0d9de215174487fa8298493b2f2  [shntool]  md1948-XX-XX.LL99.d1t03.flac
+8888cc8a965a5cdbb9aaed19683b994c  [shntool]  md1948-XX-XX.LL99.d1t04.flac
+8da3489165571d01bf1ad133500d2364  [shntool]  md1948-XX-XX.LL99.d1t05.flac
+3219081c7197d6b88e8d74dfb6ce91c2  [shntool]  md1948-XX-XX.LL99.d1t06.flac
+d2cb7ee1628a0943d9b9032d7ae70388  [shntool]  md1948-XX-XX.LL99.d1t07.flac
+a08b779a651785ed6db93b77030cc07a  [shntool]  md1948-XX-XX.LL99.d1t08.flac
+9c2b473569bab73b5a929e5d6c68932d  [shntool]  md1948-XX-XX.LL99.d1t09.flac
+5b8a7af2c6cc36f961acacf1e0bd2929  [shntool]  md1948-XX-XX.LL99.d1t10.flac
+2cf5b7ec55dec943e0da5649c727e19d  [shntool]  md1948-XX-XX.LL99.d1t11.flac
+998944033e9e1738d2d71858ff11c0a9  [shntool]  md1948-XX-XX.LL99.d1t12.flac
+d590e932bf33035cd0910d87883fa998  [shntool]  md1948-XX-XX.LL99.d1t13.flac
+3d9cb599712bf311640370de50447292  [shntool]  md1948-XX-XX.LL99.d1t14.flac
+f35c35a9c47037b5f60ed7165b0ecb3e  [shntool]  md1948-XX-XX.LL99.d1t15.flac
+83b82443a0a613a334228bfa241b861f  [shntool]  md1948-XX-XX.LL99.d1t16.flac
+3f2337c83013dc43fb73d5a0d56e71cb  [shntool]  md1948-XX-XX.LL99.d1t17.flac
+08e0e6cf185fd861090c7ebdb0317a03  [shntool]  md1948-XX-XX.LL99.d1t18.flac
+20d874a4d05ca88954478b980552b0ed  [shntool]  md1948-XX-XX.LL99.d1t19.flac
+8356bf2b69c86199dca0b2cc0507b53a  [shntool]  md1948-XX-XX.LL99.d1t20.flac
+d82af1e00effb327259c94b3c3cf0027  [shntool]  md1948-XX-XX.LL99.d1t21.flac
+
+shntool
+ length     expanded size   cdr  WAVE problems filename
+     3:43.67       39494828    ---   --   ---xx   md1948-XX-XX.LL99.d1t01.flac
+     3:17.63       34899020    ---   --   ---xx   md1948-XX-XX.LL99.d1t02.flac
+     1:39.50       17581244    ---   --   ---xx   md1948-XX-XX.LL99.d1t03.flac
+     2:13.17       23501228    ---   --   ---xx   md1948-XX-XX.LL99.d1t04.flac
+     0:48.65        8620124    ---   --   ---xx   md1948-XX-XX.LL99.d1t05.flac
+     2:03.20       21744284    ---   --   ---xx   md1948-XX-XX.LL99.d1t06.flac
+     1:45.39       18613772    ---   --   ---xx   md1948-XX-XX.LL99.d1t07.flac
+     2:23.63       25373420    ---   --   ---xx   md1948-XX-XX.LL99.d1t08.flac
+     0:33.46        5929436    ---   --   ---xx   md1948-XX-XX.LL99.d1t09.flac
+     0:51.06        9010556    ---   --   ---xx   md1948-XX-XX.LL99.d1t10.flac
+     0:46.37        8201468    ---   --   ---xx   md1948-XX-XX.LL99.d1t11.flac
+     1:45.50       18639644    ---   --   ---xx   md1948-XX-XX.LL99.d1t12.flac
+     1:53.69       20095532    ---   --   ---xx   md1948-XX-XX.LL99.d1t13.flac
+     3:37.49       38394092    ---   --   ---xx   md1948-XX-XX.LL99.d1t14.flac
+     1:55.32       20361308    ---   --   ---xx   md1948-XX-XX.LL99.d1t15.flac
+     0:49.00        8643644    ---   --   ---xx   md1948-XX-XX.LL99.d1t16.flac
+     2:25.54       25705052    ---   --   ---xx   md1948-XX-XX.LL99.d1t17.flac
+     1:35.01       16760396    ---   --   ---xx   md1948-XX-XX.LL99.d1t18.flac
+     3:13.35       34127564    ---   --   ---xx   md1948-XX-XX.LL99.d1t19.flac
+     0:54.59        9664412    ---   --   ---xx   md1948-XX-XX.LL99.d1t20.flac
+     2:44.64       29080172    ---   --   ---xx   md1948-XX-XX.LL99.d1t21.flac
+    41:02.61      434441196 B                     (totals for 21 files, 0.3840 overall compression ratio)
+
+spectral analysis from TLH
+md1948-XX-XX.LL99.d1t01.wav:  track looks like MPEG with probability 99%
+md1948-XX-XX.LL99.d1t02.wav:  track looks like MPEG with probability 89%
+md1948-XX-XX.LL99.d1t03.wav:  track looks like MPEG with probability 80%
+md1948-XX-XX.LL99.d1t04.wav:  track looks like MPEG with probability 100%
+md1948-XX-XX.LL99.d1t05.wav:  track looks like MPEG with probability 99%
+md1948-XX-XX.LL99.d1t06.wav:  track looks like MPEG with probability 100%
+md1948-XX-XX.LL99.d1t07.wav:  track looks like MPEG with probability 100%
+md1948-XX-XX.LL99.d1t08.wav:  track looks like MPEG with probability 93%
+md1948-XX-XX.LL99.d1t09.wav:  track looks like CDDA with probability 62%
+md1948-XX-XX.LL99.d1t10.wav:  track looks like MPEG with probability 100%
+md1948-XX-XX.LL99.d1t11.wav:  track looks like MPEG with probability 100%
+md1948-XX-XX.LL99.d1t12.wav:  track looks like MPEG with probability 100%
+md1948-XX-XX.LL99.d1t13.wav:  track looks like MPEG with probability 89%
+md1948-XX-XX.LL99.d1t14.wav:  track looks like MPEG with probability 100%
+md1948-XX-XX.LL99.d1t15.wav:  track looks like MPEG with probability 100%
+md1948-XX-XX.LL99.d1t16.wav:  track looks like MPEG with probability 100%
+md1948-XX-XX.LL99.d1t17.wav:  track looks like CDDA with probability 43%
+md1948-XX-XX.LL99.d1t18.wav:  track looks like MPEG with probability 100%
+md1948-XX-XX.LL99.d1t19.wav:  track looks like MPEG with probability 90%
+md1948-XX-XX.LL99.d1t20.wav:  track looks like MPEG with probability 100%
+md1948-XX-XX.LL99.d1t21.wav:  track looks like CDDA with probability 99%
+
+old ffp
+18 - Track18.flac:48f77a45c7ae6889eecfea5f9f154d17
+19 - Track19.flac:1deedc3886fcd2ac48a5288acb08905e
+20 - Track20.flac:2170d0d9de215174487fa8298493b2f2
+21 - Track21.flac:8888cc8a965a5cdbb9aaed19683b994c
+22 - Track22.flac:83b82443a0a613a334228bfa241b861f
+23 - Track23.flac:3219081c7197d6b88e8d74dfb6ce91c2
+24 - Track24.flac:d2cb7ee1628a0943d9b9032d7ae70388
+25 - Track25.flac:a08b779a651785ed6db93b77030cc07a
+26 - Track26.flac:08e0e6cf185fd861090c7ebdb0317a03
+27 - Track27.flac:20d874a4d05ca88954478b980552b0ed
+28 - Track28.flac:8356bf2b69c86199dca0b2cc0507b53a
+29 - Track29.flac:998944033e9e1738d2d71858ff11c0a9
+30 - Track30.flac:d590e932bf33035cd0910d87883fa998
+31 - Track31.flac:3d9cb599712bf311640370de50447292
+32 - Track32.flac:5b8a7af2c6cc36f961acacf1e0bd2929
+33 - Track33.flac:2cf5b7ec55dec943e0da5649c727e19d
+34 - Track34.flac:f35c35a9c47037b5f60ed7165b0ecb3e
+35 - Track35.flac:8da3489165571d01bf1ad133500d2364
+36 - Track36.flac:3f2337c83013dc43fb73d5a0d56e71cb
+37 - Track37.flac:9c2b473569bab73b5a929e5d6c68932d
+38 - Track38.flac:d82af1e00effb327259c94b3c3cf0027
+
+
+
+
+
+
+

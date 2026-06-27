@@ -1,0 +1,44 @@
+Beck
+
+BBC Radio 6, Titantic Belfast, Belfast, Ireland - Date 25th May 2018
+
+Tracks
+
+
+Devils Haircut
+Up All Night
+Wow
+Mixed Bizness
+Colors
+Debra (solo acoustic)
+Raspberry Beret (Prince cover) (solo acoustic)
+Dreams
+Girl
+Loser
+E-Pro
+
+Encore:
+Where It's At
+One Foot in the Grave
+
+Lineage - BBC iPlayer > JDownloader > You
+
+Stream 0
+Codec: H264 - MPEG-4 AVC (part 10) (avc1)
+Video resolution: 1280x720
+Buffer dimensions: 1280x720
+Frame rate: 50
+Decoded format:
+Orientation: Top left
+Color primaries: ITU-R BT.709
+Color transfer function: ITU-R BT.709
+Color space: ITU-R BT.709 Range
+Chroma location: Left
+Video Bitrate - 5078kbps
+
+Stream 1
+Codec: MPEG AAC Audio (mp4a)
+Type: Audio
+Channels: Stereo
+Sample rate: 48000 Hz
+Audio Bitrate - 128 kb/s

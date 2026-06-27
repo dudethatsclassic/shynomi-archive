@@ -1,0 +1,89 @@
+Billy Corgan and Lyric Opera of Chicago Orchestra and Chorus
+November 22nd 2025
+Civic Opera House
+Chicago, IL, US
+
+SOURCE (AUD#1):
+Internal Mics > iPhone 15
+
+TRANSFER:
+iPhone 15 (M4A) > WAV > CD Wave Editor > Trader's Little Helper 2.8.4
+
+GENERATION:
+M4A(M) > WAV > FLAC
+
+LENGTH:
+96:07
+
+SET ONE:
+01. Set 1 Intro
+02. Mellon Collie and the Infinite Sadness *
+03. Tonight, Tonight > ~, &
+04. Jellybelly !
+05. Galapogos @, #
+06. Thirty-Three $
+07. Tonight, Tonight Reprise &
+08. Beautiful %, #
+09. Muzzle !, @
+10. Lily (My One and Only) !, @
+11. Stumbleine &
+12. Thru the Eyes of Ruby @, %, !, #
+
+SET TWO:
+13. Set 2 Intro
+14. In the Arms of Sleep #
+15. 1979 $
+16. By Starlight %
+17. X.Y.U. *
+18. Bullet with Butterfly Wings !, %, @, #
+19. To Forgive $
+20. Cupid de Locke %
+21. Porcelina of the Vast Oceans > #, %, !, @
+22. Tonight, Tonight ^, $, @, %, #, !
+
+NOTES:
+There is a small cut at the start of Tonight, Tonight after Porcelina of the Vast Oceans which misses the start of the song
+
+Tunes in which multiple singers appear are listed in order of first appearance-
+
+* Lyric Orchestra only
+~ first verse and chorus only
+& Lyric Chorus and Orchestra only
+! Dominick Valdés Chenes sings
+@ Sydney Mancasola sings
+# Zoie Reams sings
+$ Billy Corgan sings
+% Edward Parks sings
+^ whole song
+
+*******************
+The SPLRA team have converted the M4A to a WAV file to indicate there is no upgrade to the original master which was recorded in M4A format
+*******************
+
+MD5 FINGERPRINTS:
+a0548d9d6e79ac95e258993a88d1090d *Billy Corgan 2025-11-22 AUD1 t01 Set 1 Intro.flac
+f99ae3649a99ccd2a2b1e9dab65c2806 *Billy Corgan 2025-11-22 AUD1 t02 Mellon Collie and the Infinite Sadness.flac
+777bff4e3836455fe130d59ec9c49399 *Billy Corgan 2025-11-22 AUD1 t03 Tonight, Tonight.flac
+070abd9502dfe0cd82a6877106748fc3 *Billy Corgan 2025-11-22 AUD1 t04 Jellybelly.flac
+07bc6868447b754ac82c889af111c4b0 *Billy Corgan 2025-11-22 AUD1 t05 Galapogos.flac
+9dd594d8bbb220386a38058406de0739 *Billy Corgan 2025-11-22 AUD1 t06 Thirty-Three.flac
+07beb0c5be6732afae4207fca4eb8e6a *Billy Corgan 2025-11-22 AUD1 t07 Tonight, Tonight Reprise.flac
+00779982c9868513b6ffd50bbdb71225 *Billy Corgan 2025-11-22 AUD1 t08 Beautiful.flac
+72312e20c7c164bcd31d53598a99f161 *Billy Corgan 2025-11-22 AUD1 t09 Muzzle.flac
+a30d7229f8efd914152fafa59fe3f96f *Billy Corgan 2025-11-22 AUD1 t10 Lily (My One and Only).flac
+a647a826a8c5be4241e9f45ed206490e *Billy Corgan 2025-11-22 AUD1 t11 Stumbleine.flac
+4bb1e3c8bc69e0f50740c257a9f26a2b *Billy Corgan 2025-11-22 AUD1 t12 Thru the Eyes of Ruby.flac
+5976d6958815512339ab1f6e59346191 *Billy Corgan 2025-11-22 AUD1 t13 Set 2 Intro.flac
+ffad1df96c42c07b5aa22f8614e78958 *Billy Corgan 2025-11-22 AUD1 t14 In the Arms of Sleep.flac
+45b58244d611318b8a139734357bfa20 *Billy Corgan 2025-11-22 AUD1 t15 1979.flac
+6774ee2a2aa64373a4e0999430fd7099 *Billy Corgan 2025-11-22 AUD1 t16 By Starlight.flac
+68f8bc79179e18fa9be7f8bcf5e66f87 *Billy Corgan 2025-11-22 AUD1 t17 X.Y.U..flac
+09b3713a50020863e858e4f8a37a19af *Billy Corgan 2025-11-22 AUD1 t18 Bullet With Butterfly Wings.flac
+750ef6cbfe174f607dc70b0fe0874733 *Billy Corgan 2025-11-22 AUD1 t19 To Forgive.flac
+f89c352914fe94ab4df16bc068638621 *Billy Corgan 2025-11-22 AUD1 t20 Cupid de Locke.flac
+66992338cab21f5ec455eccef5507221 *Billy Corgan 2025-11-22 AUD1 t21 Porcelina of the Vast Oceans.flac
+7671493310a933585abf0a83db477eef *Billy Corgan 2025-11-22 AUD1 t22 Tonight, Tonight.flac
+
+DISTRIBUTION:
+Spaldz, Nicholas Serra & Members of SPLRA
+2026-02-24

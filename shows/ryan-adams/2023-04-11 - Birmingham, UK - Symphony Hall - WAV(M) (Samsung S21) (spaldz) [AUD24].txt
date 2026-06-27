@@ -1,0 +1,99 @@
+Ryan Adams
+April 11th 2023
+Symphony Hall
+Birmingham, UK
+
+SOURCE:
+Internal Mic > Field Recorder App > Samsung S21
+
+GENERATION:
+WAV(M) > FLAC
+
+LENGTH:
+148:47
+
+SETLIST:
+01. Intro
+02. Oh My Sweet Carolina
+03. Ashes & Fire
+04. Everybody Knows
+05. 16 Days [Whiskeytown]
+06. The Rescue Blues
+07. My Winding Wheel
+08. Gimme Somthing Good
+09. Dirty Rain (abandoned)
+10. The Hyena Song (Improv)
+11. Dirty Rain
+12. Two
+13. New York, New York (abandoned)
+14. New York, New York
+15. Answering Bell (abandoned)
+16. Answering Bell
+17. War Pigs [Black Sabbath]
+18. Why Do They Leave?
+19. La Cienega Just Smiled
+20. Black Sabbath [Black Sabbath]
+21. Paranoid [Black Sabbath]
+22. Changes [Black Sabbath]
+23. (intermission)
+24. To Be Young (Is to Be Sad, Is to Be High)
+25. When The Stars Go Blue
+26. To Be Without You
+27. Wonderwall [Oasis] (Improv)
+28. Am I Safe?
+29. Carolina Rain
+30. Firecracker
+31. Romeo & Juliet
+32. Chris
+33. Nobody Girl
+34. English Girls Approximately
+35. This House Is Not for Sale
+36. Wonderwall [Oasis]
+37. Outbound Train
+38. Come Pick Me Up
+
+NOTES:
+Really great acoustic show with a number of Black Sabbath covers thrown in. Recording equipment was actually placed up on the stage based on front row seat position so the recording doesn't suffer from any crowd noise
+
+- Spaldz
+
+MD5 FINGERPRINTS:
+f1592f5db92d4b21262749f0d79ef4a4 *Ryan Adams 2023-04-11 t01 Intro.flac
+fa0bc7faf3f3d5b12fe3207b35c0bc09 *Ryan Adams 2023-04-11 t02 Oh My Sweet Carolina.flac
+ef91d53cf8457dc323da279e119e15d3 *Ryan Adams 2023-04-11 t03 Ashes & Fire.flac
+a6d9110fbbcb622053bf71c5d1313f1e *Ryan Adams 2023-04-11 t04 Everybody Knows.flac
+69983a2c50f334f419fc6568a6361bcb *Ryan Adams 2023-04-11 t05 16 Days [Whiskeytown].flac
+967f2bff84f389a58cbfbdac800a64b7 *Ryan Adams 2023-04-11 t06 The Rescue Blues.flac
+2bf8e4df1acb3affdb2ca799b29ca7dd *Ryan Adams 2023-04-11 t07 My Winding Wheel.flac
+663b760e12129673a9396c2401f8f762 *Ryan Adams 2023-04-11 t08 Gimme Something Good.flac
+3c8a631f3983e19589d348e97d5aa751 *Ryan Adams 2023-04-11 t09 Dirty Rain (abandoned).flac
+bfad42659720f98ace3b8195fba46b73 *Ryan Adams 2023-04-11 t10 The Hyena Song (Improv).flac
+62a11873ab048e693398289eb1486d73 *Ryan Adams 2023-04-11 t11 Dirty Rain.flac
+058c30904efa72ecdd05b7703cf5dc17 *Ryan Adams 2023-04-11 t12 Two.flac
+9d28d447cc8f501d47c1a33df5ad9be8 *Ryan Adams 2023-04-11 t13 New York. New York (abandoned).flac
+1ee0eb27df27caba2d0bdadabf5c4e08 *Ryan Adams 2023-04-11 t14 New York, New York.flac
+10ed35d212ffdbe55a523c354e73455a *Ryan Adams 2023-04-11 t15 Answering Bell (abandoned).flac
+e8abd051e8070f3fdd84609f5b58e868 *Ryan Adams 2023-04-11 t16 Answering Bell.flac
+3a1efb7260aef1c018f753eb8ac7d096 *Ryan Adams 2023-04-11 t17 War Pigs [Black Sabbath].flac
+d4b4a2959e279ee77f5b2f3e07f2a4e8 *Ryan Adams 2023-04-11 t18 Why Do They Leave.flac
+9dd21e7f3afe025f7565f24173e74a49 *Ryan Adams 2023-04-11 t19 La Cienega Just Smiled.flac
+f81aee628cf217baf0ed8fa9dffdb204 *Ryan Adams 2023-04-11 t20 Black Sabbath [Black Sabbath].flac
+dac15039c959afabaa2ff00b3e3742c7 *Ryan Adams 2023-04-11 t21 Paranoid [Black Sabbath].flac
+cfcd93a55291eef7c1c32d1305163e1b *Ryan Adams 2023-04-11 t22 Changes [Black Sabbath].flac
+ac3d6a360c92099dc8802d3d43f69140 *Ryan Adams 2023-04-11 t23 (intermission).flac
+32fb98eb74367505628d425f27a1857b *Ryan Adams 2023-04-11 t24 To Be Young {Is to Be Sad, Is to Be High).flac
+1514fa8f4a178ef4edbbbfbc9eb1f101 *Ryan Adams 2023-04-11 t25 When The Stars Go Blue.flac
+fc1d5abaff8f5cf8ba9f2a564e05a232 *Ryan Adams 2023-04-11 t26 To Be Without You.flac
+b68453d585147dbb0a154aedf4fb5a0c *Ryan Adams 2023-04-11 t27 Wonderwall [Oasis] (Improv).flac
+c4a5e25046bbc9432497e1fa99213bc1 *Ryan Adams 2023-04-11 t28 Am I Safe.flac
+aabe06ed0f60c9a12066b7bba3676d98 *Ryan Adams 2023-04-11 t29 Carolina Rain.flac
+4a46b5bdf75097b328f2f65ff981180e *Ryan Adams 2023-04-11 t30 Firecracker.flac
+75323d3ee870776eb713c6bf52959ab0 *Ryan Adams 2023-04-11 t31 Romeo & Juliet.flac
+bde08c5f9a50dc6c7f8aa6b3f379e176 *Ryan Adams 2023-04-11 t32 Chris.flac
+8e5ca3ad434003f58b924fb502d834ca *Ryan Adams 2023-04-11 t33 Nobody Girl.flac
+72410ed393fdcac34edc1d8a51a127f3 *Ryan Adams 2023-04-11 t34 English Girls Approximately.flac
+d7ae1e363791af8819ca7dbbb1cad276 *Ryan Adams 2023-04-11 t35 This House Is Not for Sale.flac
+f7ccf173d48b24f9bbcf1eb7e6f94040 *Ryan Adams 2023-04-11 t36 Wonderwall [Oasis].flac
+c3ad857bf955d54f303e6c3fd3b8e03d *Ryan Adams 2023-04-11 t37 Outbound Train.flac
+0e1aedebf2cbece603b39b444dc45cd1 *Ryan Adams 2023-04-11 t38 Come Pick Me Up.flac
+

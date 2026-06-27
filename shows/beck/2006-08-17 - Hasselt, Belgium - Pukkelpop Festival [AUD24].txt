@@ -1,0 +1,33 @@
+BECK
+2006-08-17
+Pukkelpop Festival
+Hasselt, Belgium
+
+Source:     MBHO MBP 603 A / KA 200 N > Sound Devices MP-2 > Edirol R-09
+Mic Config: in hat, DINA (17cm, 90°)
+Location:   20m from the stage, center
+Transfer:   Master WAV > Digital Editing > CD Wave Editor V1.94 > FLAC V1.1.2
+Editing:    EQ, volume boost and fades in Steinberg WaveLab V5.0a
+
+Setlist:
+01 Loser
+02 Devils Haircut
+03 Black Tambourine
+04 Qué Onda Guero
+05 Cell Phones Dead
+06 Nausea
+07 Minus
+08 The New Pollution
+09 Motorcade
+10 Paper Tiger
+11 The Golden Age
+12 > Clap Hands > One Foot in the Grave > Clap Hands
+13 (Encore Break #1)
+14 (Puppet Video)
+15 1000 BPM
+16 (Encore Break #2)
+17 Where It's At
+18 > E-Pro
+
+Notes:
+This is the 24-bit version of this recording.

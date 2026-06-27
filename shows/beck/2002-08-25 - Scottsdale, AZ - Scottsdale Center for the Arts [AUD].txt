@@ -1,0 +1,49 @@
+Beck
+August 25, 2002
+Scottsdale Center for the Arts
+Scottsdale, Arizona
+
+
+Source:  	Sonic Studios DSM-6 > Sony D8
+DAT > SHN:  	D8 > Sek'd Prodif 96 > Soundforge 4.01 > CD Wave > mkw Audio Compression Tool
+
+
+Disc One:	65:01
+
+01.	intro
+02.	Cold Brains
+03.	Lazy Flies
+04.	Bottle of Blues
+05.	Dead Melodies
+06.	Guess I'm Doing Fine
+07.	Tropicalia
+08.	It's All In Your Mind
+09.	Cancelled Check
+10.	Raspberry Beret
+11.	Scottsdale Revolution
+12.	Pay No Mind
+13.	We Live Again
+
+Disc Two:	45:07
+
+01.	Nobody's Fault
+02.	Devil Got My Woman
+03.	Beechwood Park
+04.	Round the Bend
+05.	Sunday Sun	
+06.	Steve Threw Up (fragment)
+07.	Fume
+08.	Putting It Down
+09.	One Foot In the Grave
+10.	One Man Jam
+11.	Sleepless Nights
+
+
+
+Notes:	A light amount of compression was used to balance the low level of
+	the performance with the crowd noise.  Otherwise, no additional 
+	processing was done to the soundfile.
+
+
+
+Recording and conversion by:  Steve LeFevre <hmblmunkey@aol.com>

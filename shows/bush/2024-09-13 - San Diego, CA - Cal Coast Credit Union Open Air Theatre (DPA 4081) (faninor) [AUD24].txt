@@ -1,0 +1,38 @@
+Bush
+2024-09-13
+Cal Coast Credit Union Open Air Theatre
+San Diego, CA, USA
+
+-- Source --
+DPA 4081 > MMA-A > 24bit/48kHz
+
+-- Processing --
+iZotope RX (editing/mastering) > CD Wave (tracking) > Trader's Little Helper (encoding)
+
+-- Setlist --
+01 - intro
+02 - Everything Zen
+03 - Machinehead
+04 - Bullet Holes
+05 - The Chemicals Between Us
+06 - Greedy Fly
+07 - The Sound of Winter
+08 - The Kingdom
+09 - All Things Must Change
+10 - Swallowed
+11 - Heavy Is the Ocean
+12 - Flowers on a Grave
+13 - Little Things
+14 - encore
+15 - More Than Machines
+16 - Come Together
+17 - Glycerine
+18 - Comedown
+19 - outro (Machinehead)
+
+-- Notes --
+Bones UK, Candlebox, and Jerry Cantrell opened.
+
+Length: 1h29m20s
+
+-- faninor -- 2024-09-20 --

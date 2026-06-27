@@ -1,0 +1,70 @@
+Red Hot Chili Peppers
+Estádio Couto Pereira
+Curitiba, Brazil
+November 13, 2023
+
+** 24 BIT **
+
+Source:  SP-CMC-8 (cardioids) > SP-SPSB-10 > Roland R-07 @ 24 bit/48 kHz
+Mastering:  .WAV > iZotope RX10 Advanced v10.0.0.1705 (De-click) > Sound Forge Pro 14.0 Build 140 [minor edits, normalize, & fades, Boz Digital Labs T-Bone2 plug-in (tilt EQ)] > CDWav 
+(tracking) > Trader's Little Helper (level 5) > FLAC > TagScanner 6.1.17 (tagging)
+Location:  2 people away from the rail, 5 meters right of DFC
+Recorded by:  toshi
+Mastered by:  Dennis Orr
+
+Setlist: (1:40:17)
+01 Intro Music (Amériques)
+02 Intro Jam >
+03 Around The World
+04 Scar Tissue
+05 Dani California
+06 Universally Speaking
+07 Aquatic Mouth Dance
+08 Soul To Squeeze
+09 I Like Dirt
+10 Terrapin (1) >
+11 Wet Sand
+12 Throw Away Your Television
+13 Reach Out
+14 Danny's Song (1)
+15 Suck My Kiss
+16 The Heavy Wing
+17 Californication
+18 Black Summer
+19 By The Way
+20 Encore Break
+- Encore -
+21 I Could Have Lied
+22 Give It Away
+23 Crowd
+
+(1) John solo
+
+Anthony Kiedis – lead vocals
+John Frusciante – guitars, backing vocals, & keyboards
+Flea (Michael Balzary) – bass, backing vocals, trumpet, & piano
+Chad Smith – drums & percussion
+
+RHCP2023-11-13t01.flac:90cac06fa065ea44566ad8d38db2956f
+RHCP2023-11-13t02.flac:77b0d848dd886c9923d7aeacee04ea88
+RHCP2023-11-13t03.flac:684ad02fe8f57d460ab53a1a1ba77f18
+RHCP2023-11-13t04.flac:96b0111e31cdf01ff31f6646123eb7ec
+RHCP2023-11-13t05.flac:6f2b4e06a9b1a52c7f35114281eac736
+RHCP2023-11-13t06.flac:9d86a98409bfad63fb20fa2cbd711533
+RHCP2023-11-13t07.flac:a41b2518daca3f1d56d95dd73a09e347
+RHCP2023-11-13t08.flac:23a15894c01f9bb9f8edb24873928212
+RHCP2023-11-13t09.flac:c2d65eb155da35396445703a03561965
+RHCP2023-11-13t10.flac:76cd910299995c07d473de2c47891b50
+RHCP2023-11-13t11.flac:b53ad2a70ef1f0fd332d93366cf7e72c
+RHCP2023-11-13t12.flac:04b7e8e9e5b7753a198f3b0e7dde309a
+RHCP2023-11-13t13.flac:5553f7ac274a1a0c995c1d3eb5dc358f
+RHCP2023-11-13t14.flac:4f654fff5c7931837885a54b17fd31e2
+RHCP2023-11-13t15.flac:905ffa7c45568549336ffa9493e34f33
+RHCP2023-11-13t16.flac:b27401f7e1830405bd0782d7cd158301
+RHCP2023-11-13t17.flac:23562de38daf36bb3f67cadaee9bae37
+RHCP2023-11-13t18.flac:4b0a33e6899d56e50119ea3781ad1fbc
+RHCP2023-11-13t19.flac:a3fcbbb02e162313c58b968e8a531a36
+RHCP2023-11-13t20.flac:1b677a14e2e82522eb95ec41359ffd66
+RHCP2023-11-13t21.flac:325b4e1d30906bc63b365dcdf9c277ff
+RHCP2023-11-13t22.flac:908b7d13220cc7dcb3015642a8706f32
+RHCP2023-11-13t23.flac:72b522a94d01bf82ac901829f9932290

@@ -1,0 +1,30 @@
+Linkin Park
+Wiltern
+Los Angeles, CA
+24th March 2003
+World Premiere of Meteora
+
+Source:	Pre-FM/Radio CD
+Transfer: Radio CD > EAC > wav > FLAC Frontend (Level 8) > foobar2000 (tags)
+
+Setlist:
+==============================================
+Somewhere I Belong [4:02]
+Faint [2:43]
+From the Inside [3:21]
+In The End > One Step Closer [9:21]
+==============================================
+Total Runtime: [19:27]
+
+Notes:
+Radio CDs obtained earlier this year.  The above setlist represents tracks 4 through
+7 of CD #2 in this set.  If there is any interest in the interview portions of the show
+as hosted by Stryker from KROQ, I can extract the audio, please let me know.
+
+The above setlist appears to be the full set performed that night (at least it sounds that way to me).
+
+************************************************************************
+*************************!!!!!DO NOT SELL!!!!!**************************
+********************DO NOT CONVERT TO LOSSY FORMATS*********************
+************************EXCEPT FOR PERSONAL USE*************************
+************************************************************************

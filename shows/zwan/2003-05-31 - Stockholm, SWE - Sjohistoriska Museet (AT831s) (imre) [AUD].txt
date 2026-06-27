@@ -1,0 +1,41 @@
+Zwan
+Stockholm, Sweden
+Stockholm Calling Festival at Sjohistoriska Museet
+May 31st, 2003
+
+Taper:       Imre (with mrk's gear)
+Editor:      mrk
+Source:      AT831's > Sound Pro Battery Box (95hz rolloff) > Sharp MDSR70H
+Location:    
+Editing:     Fades, +2db level boost on left channel, Hard Limiting, BBE Sonic Maximizer
+Transfer:    Sony MDS-JE640 > Hoontech Digital XG/DB > Cool Edit Pro
+SHN:         Master wav's > Track Splits in CDWave > MKW Audio Compression Tool
+
+**********************************************************************
+         PLEASE DO NOT SELL COPIES OR DISTRIBUTE IN MP3
+**********************************************************************
+
+DISC 1
+01. Endless Summer
+02. Lyric
+03. Don't Let Me Down [Beatles]
+04. Honestly
+05. Declarations of Faith
+06. Jesus, I > God's Gonna Set this World on Fire
+07. band introductions
+08. Of a Broken Heart
+09. Settle Down
+10. Riverview
+11. Baby Let's Rock
+12. Desire
+13. Mary Star of the Sea
+
+DISC 2 (Encore)
+01. crowd
+02. Spilled Milk > Break On Through [Doors] (tease)
+
+Notes:
+- Seek Tables Appended.
+- Small dropouts at : d1t035 0:41, d1t06 11:20 and d1t10 3:42
+- Uploaded to Archive.org 2025-02-16 by mrk. 
+- There is also another source recorded by mrk using OKMIIR mics and Sony TCD-D8 DAT but it was inferior to this recording. Also attempted a matrix but deemed it not worth keeping back in the day.

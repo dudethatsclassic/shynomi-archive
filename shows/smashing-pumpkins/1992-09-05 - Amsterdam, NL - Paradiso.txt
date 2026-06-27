@@ -1,0 +1,73 @@
+Smashing Pumpkins
+September 5th 1992
+Paradiso
+Amsterdam, NL
+
+SOURCE (AUD#1):
+unknown > unknown
+
+TRANSFER:
+unknown > yt-dlp > Adobe Audition > CD Wave Editor
+
+GENERATION:
+ANA(M) > MP3 (128kbps) > YouTube > M4A (44.1 AAC) > FLAC
+
+LENGTH:
+78:52
+
+SET:
+01. Intro
+02. Disarm
+03. Rocket
+04. Bury Me
+05. Today
+06. Hello Kitty Kat
+07. Window Paine
+08. Snail
+09. Tristessa
+10. The Joker [Miller]
+11. Kill Your Parents
+12. Siva
+13. Luna
+14. Geek U.S.A.
+15. Hummer
+16. I Am One
+17. Crush
+18. Silverfuck
+
+NOTES:
+Special thank you to the taper for uploading to YouTube and giving us permission to rip, track, and distribute. Unfortunately the master tape and the original transfer files were discarded. This YouTube rip is the best possible quality we will receive from this source.
+
+Tape flip during Snail. Silverfuck cuts out.
+
+*******************
+This is a lossy source
+The SPLRA team have converted the M4A to a WAV file to indicate there is no possible upgrade to this distribution.
+*******************
+
+MD5 FINGERPRINTS:
+4076816ea2300ecdf9ba621b1c13645c *Smashing Pumpkins 1992-09-05 AUD1 t01 Intro.flac
+37536ba7ba2a4e523b9ca8e0aa0b5b63 *Smashing Pumpkins 1992-09-05 AUD1 t02 Disarm.flac
+906deb3e0157fff99c999698c9485770 *Smashing Pumpkins 1992-09-05 AUD1 t03 Rocket.flac
+efb64a4f4e6c8f6e4e45fc6caa0ff00c *Smashing Pumpkins 1992-09-05 AUD1 t04 Bury Me.flac
+04fe2d98a0b16972f20042882d1456d1 *Smashing Pumpkins 1992-09-05 AUD1 t05 Today.flac
+c804011a938a831347f3eda42f924fb2 *Smashing Pumpkins 1992-09-05 AUD1 t06 Hello Kitty Kat.flac
+aabaef543e3fab9e93a930785a3bb405 *Smashing Pumpkins 1992-09-05 AUD1 t07 Window Paine.flac
+313318f01111dee328b80019613d2895 *Smashing Pumpkins 1992-09-05 AUD1 t08 Snail.flac
+fe9f30468854fec67d2b28ec06f752cc *Smashing Pumpkins 1992-09-05 AUD1 t09 Tristessa.flac
+3c6676b8a4a18e69c6f6b8196af5865b *Smashing Pumpkins 1992-09-05 AUD1 t10 The Joker [Miller].flac
+ed96e9f2d3d54e629dd99e0878b75930 *Smashing Pumpkins 1992-09-05 AUD1 t11 Kill Your Parents.flac
+e590e2b02a1921a4aaed623482af3327 *Smashing Pumpkins 1992-09-05 AUD1 t12 Siva.flac
+abdf1be0d3c6aa83e9fb580cdb9fe665 *Smashing Pumpkins 1992-09-05 AUD1 t13 Luna.flac
+93ef063ad5993f338f1bdf7341749734 *Smashing Pumpkins 1992-09-05 AUD1 t14 Geek USA.flac
+0ef0f2283690c487306fa304e4464b08 *Smashing Pumpkins 1992-09-05 AUD1 t15 Hummer.flac
+a991e0c0ba976eedc97bb547371e66d2 *Smashing Pumpkins 1992-09-05 AUD1 t16 I Am One.flac
+ddb036b99361336e85be720199c9000b *Smashing Pumpkins 1992-09-05 AUD1 t17 Crush.flac
+e0afdf61f5375149bb016c34b3d1fd1c *Smashing Pumpkins 1992-09-05 AUD1 t18 Silverfuck.flac
+
+RECORDING & TRANSFER:
+Lutek Dabrowski (lutek1 on YouTube)
+
+DISTRIBUTION:
+Nicholas Serra, Spaldz & Members of SPLRA
+2022-11-15

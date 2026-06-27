@@ -1,0 +1,81 @@
+The Beatles
+"Recorded Live at Sam Houston Coliseum
+Houston (Texas)
+Aug 19, 1965"
+(COMPLETE -- AFTERNOON/EVENING SHOW)
+liberated bootleg Bulldog BGCD-034, 1987
+
+Lineage: "Silver" CD->EAC (no errors)->FlacFrontend (Level 8, verify/align on sector boundaries)
+
+
+Houston Chronicle coverage, Aug 20, 1965 
+at http://www.chron.com/content/chronicle/special/beatles/houston/departure.html
+
+According to Mark Lewisohn, The Complete Beatles Chronicles:
+"Two shows at this 12,000-capacity arena, netting the Beatles $85,000.
+The crowd had arrived in Houston at 2.00 am to find Beatlemania at possibly its
+most acute level yet witnessed. (It is likely that both performances here were 
+broadcast by a local radio station but further details cannot be traced)."
+
+Houston Chronicle coverage, Aug 20, 1965 
+at http://www.chron.com/content/chronicle/special/beatles/houston/departure.html
+
+Artwork can be downloaded from http://bootlegzone.com/album.php?name=bgcd-034&section=1
+
+Sam Houston Coliseum, Bagby Street, Houston, TX
+
+AFTERNOON CONCERT
+01 Twist And Shout
+02 She's A Woman 
+03 I Feel Fine
+04 Dizzy Miss Lizzy
+05 Ticket To Ride
+06 Everybody's Trying To Be My Baby
+07 Can't Buy Me Love
+08 Baby's In Black
+09 I Wanna Be Your Man
+10 A Hard Day's Night
+11 Help!
+12 I'm Down
+
+EVENING CONCERT
+13 Twist And Shout
+14 She's A Woman 
+15 I Feel Fine
+16 Dizzy Miss Lizzy
+17 Ticket To Ride
+18 Everybody's Trying To Be My Baby
+19 Can't Buy Me Love
+20 Baby's In Black
+21 I Wanna Be Your Man
+22 A Hard Day's Night
+23 Help!
+24 I'm Down
+
+Flac Fingerprints:
+Track01.flac:48ccb4938cf58a3190726637cc9cf612
+Track02.flac:3c01f2b0b262a94b8f34e5bcc61c24b1
+Track03.flac:7c69b9ac8637fdd98e6183fe71b48bf1
+Track04.flac:477a956128955016762d11a4af798630
+Track05.flac:2897fed2d9e773a9acdce438fff0aac6
+Track06.flac:548d27e7d5cc571fce6d47ced5921a86
+Track07.flac:5056ec8cf9004ff0d0c9752609b26273
+Track08.flac:f7894c4a383e5b78546dfc214de1e677
+Track09.flac:3ed2d4f83b398ccb55518c600bc3265a
+Track10.flac:68fa2228a847eb945775dd0a3c740a99
+Track11.flac:c4b500f93f535e65a4d97ed0df7256ef
+Track12.flac:3d3fd62031fe7ab7192c4a47c34cac06
+Track13.flac:23f4bb9e7c33c605adfb9b7b14b70fe1
+Track14.flac:51b3fea95aefb48e5b8d64a0a78f96cd
+Track15.flac:b1980e433adf23d87d6d66fa457ca386
+Track16.flac:a4c3d862bf5daf799839e763d0531e53
+Track17.flac:ba22cafad93d251ba304fe9f057e5428
+Track18.flac:148e60471a5e4f3256ff7166419eb82e
+Track19.flac:813296c6f4cd8bd30d695f673b77f290
+Track20.flac:b41223057d210cc39c54949eb2ab8ef0
+Track21.flac:31f4fb6ca1ea7f19dc64e9be22d7878d
+Track22.flac:1fbfb56546174546b3bc65ff39794428
+Track23.flac:8f059c894a77cec76e2c40ba85876ae9
+Track24.flac:16bba52023f06b223ea0215defe24d00
+
+

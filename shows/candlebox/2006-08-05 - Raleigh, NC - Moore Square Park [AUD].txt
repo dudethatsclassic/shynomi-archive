@@ -1,0 +1,85 @@
+Band: Candlebox
+Date: August 05, 2006
+Title: Downtown Live
+Matrix: GSJ-055 (Genuine Space Jewel Recording)
+
+Venue: Moore Square Park
+Location: Raleigh, North Carolina
+
+Equipment: ECM909 -(mic)-> Sony CCD-trv65 -(rec)-> Kenwood KX-W6060 -(xfer)->
+           Adobe Audition -(capture/edit)-> FLAC Frontend -(FLAC)-> DONE!
+
+Setlist:
+ 00. Introduction
+ 01. Arrow
+ 02. Simple Lessons
+ 03. Don't You
+ 04. Change
+ 05. Blossom
+ 06. No Sense
+ 07. 10000 Horses
+ 08. You
+ 09. Happy Pills
+ 10. Sometimes
+ 11. Blackbird
+ 12. Cover Me
+ 13. Far Behind
+ 14. encore break
+ 15. Out Here All Night
+ 16. Rain
+
+
+Comments: 
+This was a FREE concert in downtown Raleigh. 
+Information and pictures are available at:
+   http://budlightdowntownlive.com
+
+
+MD5 checksum values:
+ff2ae8b8c8efd9df0c9653fe0a17e465 *00. Introduction.flac
+c45a576228665ad70eae5ce0cfd00f5e *01. Arrow.flac
+cb137432fbfb9902d332d5eaf9222a0a *02. Simple Lessons.flac
+11d6a994d5d0c837d700924fcb5ba86b *03. Don't You.flac
+175345005deb13575849107c8f2ff101 *04. Change.flac
+b6d2226cf17a6cab554949f7f95e077c *05. Blossom.flac
+9d7b284c99f1c42d745c555a0e129ce0 *06. No Sense.flac
+8e16079c12fefdc7336e52d4ac56cbad *07. 10000 Horses.flac
+2da9e6e76e3ad95b22b11b3a737f16e5 *08. You.flac
+0cf085224489d2a22829cd1c5f0274c5 *09. Happy Pills.flac
+72abee6ce4012b5a3a2f7fb7bba022e4 *10. Sometimes.flac
+f7ff38926bd204772544dc59394b9a4c *11. Blackbird.flac
+94840b1e964ec46628eed31b6cc02e39 *12. Cover Me.flac
+be420b7ed331a9822a78cd8fe8f0b711 *13. Far Behind.flac
+8006da2fd271269b10ba40f8369115a8 *14. encore break.flac
+7d50a8bf3b9f38d9ce1bddcb700a04fe *15. Out Here All Night.flac
+c9e292b65b64304e84742018638fe27e *16. Rain.flac
+
+
+FLAC Fingerprints:
+00. Introduction.flac:dfb332f653b65979d4022b794bf62ed5
+01. Arrow.flac:0a595ce1e300a73296f2f15fd33820ef
+02. Simple Lessons.flac:080a6306b28dbe6a92aa6e030e5635c8
+03. Don't You.flac:4de4071be5cd529a67ae7914243a6025
+04. Change.flac:b8348b743d362e4a343512dc930e7fca
+05. Blossom.flac:de42c904c5a40487ec2e420850b08040
+06. No Sense.flac:81f0a069b1c671852eb09268a1e0c5ca
+07. 10000 Horses.flac:e167e2315409dc1e9baf112fa38b79be
+08. You.flac:63b56690024f29fe5f7eaef24a16f1ba
+09. Happy Pills.flac:c2e0874c1d933bccb89c800fb0164b02
+10. Sometimes.flac:98257068ca2d1f4f61b313c3bf023b34
+11. Blackbird.flac:9d70f426e9af904f918ab3336848018b
+12. Cover Me.flac:1381cd92de02dfcfa42e1a0dcbca1e75
+13. Far Behind.flac:dadce60624aa78b1b2a389028c652e87
+14. encore break.flac:2af0f240d479b95ef1bf9c1208577838
+15. Out Here All Night.flac:9193da068bc770fbd4d3b05c90e1f58d
+16. Rain.flac:d7062b44d2e99aa671179e6e68ecb724
+
+
+Recorded by: donkyFliP
+Artwork by: donkyFliP
+Brought to you by: donkyFliP
+
+**************************************************
+             KEEP THE MUSIC PURE 
+            DO NOT CONVERT TO MP3 
+**************************************************

@@ -1,0 +1,32 @@
+
+Local H
+Double Door: Chicago, IL
+October 31, 2004
+
+Source: DPA 4061s > CSBox > Sony TCD-D100 @ 48kHz
+Location: FOB 10' right stack, elevated
+Transfer: DAT Master > Tascam DA-20 > M-Audio MicroTrack II > Audacity > CDWave > TLH
+Edits/EQ: +2dB
+Taper: tapeworm(48) 
+
+Setlist:
+
+01 Intro (Fuckin' in the Bushes)
+02 Supersonic
+03 Acquiesce
+04 Wonderwall
+05 Cigarettes & Alcohol
+06 Some Might Say
+07 Live Forever
+08 Morning Glory
+09 Champagne Supernova
+10 Cum On Feel the Noise
+
+Notes: 8th annual "Halloween Bash", performed as Oasis. Raw transfer with no fades or EQ.
+
+Archive: Master DAT was transferred @ 48kHz and FLAC'd with cue sheet. 
+
+Taped and transferred by tapeworm(48) 
+Txt file compiled on 10/19/2020
+
+*** DO NOT DISTRIBUTE IN LOSSY FORMATS. DO NOT SELL THIS RECORDING, TRADE IT FREELY *** 

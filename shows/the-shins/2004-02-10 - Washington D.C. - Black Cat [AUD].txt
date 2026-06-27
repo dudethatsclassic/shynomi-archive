@@ -1,0 +1,33 @@
+theshins_040210_mbho 
+The Shins
+February 10, 2004
+Black Cat
+Washington DC
+
+props to scott, and to the shins for being pro-taping!
+ 
+source:  mbho 603a/ka200n (on stand, 11' DIN) > sound devices mp2 > sony sbm-1 (oade preamp mod) > sony d8
+audio transfer:  Conner CTD8000R-S (R.I.P., my faithful friend) - dat2wav 1.2 - sf4.5 (fades, tracking, downsample) - shntool - shn2k 
+
+Setlist:
+01.Intro
+02.Pressed In A Book
+03.Kissing The Lipless
+04.When I Goose-Step
+05.Mine's Not a High Horse
+06.? cover Jam
+07.Girl Inform Me
+08.One By One All Day
+09.Pink Bullets
+10.Turn a Square
+11.Eating Styes From Elephants Eyes
+12.Girl On The Wing
+13.New Slang
+14.Gone For Good
+15.Young Pilgrams
+16.Saint Simon
+17.So Says I
+18.Crowd
+19.Your Algebra
+20.The Celibate Life
+21.Know Your Onion!

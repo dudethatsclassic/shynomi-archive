@@ -1,0 +1,44 @@
+Beck
+2025-07-30
+Pacific Amphitheatre
+Costa Mesa, CA, USA
+
+-- Source --
+DPA 4081 > MMA-A > 24bit/48kHz
+
+-- Processing --
+iZotope RX (editing/mastering) > CD Wave (tracking) > Trader's Little Helper (encoding)
+
+-- Setlist --
+01 - intro
+02 - Cycle
+03 - The Golden Age
+04 - Everybody's Got to Learn Sometime
+05 - Lonesome Tears
+06 - Wave
+07 - Tropicalia
+08 - Blue Moon
+09 - Lost Cause
+10 - The New Pollution
+11 - Missing
+12 - Tarantula
+13 - It's Raining Today
+14 - Round the Bend
+15 - Paper Tiger
+16 - Montague Terrace (in Blue)
+17 - Phase
+18 - Morning
+19 - Waking Light
+20 - Where It's At
+21 - Debra
+22 - Devils Haircut
+23 - Mixed Bizness
+24 - One Foot in the Grave
+25 - Loser
+
+-- Notes --
+Performing with the Pacific Symphony. Molly Lewis opened.
+
+Length: 1h44m20s
+
+-- faninor -- 2025-08-16 --

@@ -1,0 +1,57 @@
+Miles Davis Nonet
+1985-11-01
+Jazz Fest Berlin '85
+Philharmonie
+West Berlin, Germany
+Astra satellite digital radio broadcast, 143:57
+
+A Valleybird Dynamic Reconstruction Remaster
+
+Sound Quality: A++ - Definitive edition of the concert!
+
+CD1 [79:48]
+A01 Opening Medley (11:38): One Phone Call/Right Off > Street Scenes > Speak/That's What Happened
+A02 Star People (7:01)
+A03 Maze (12:13)
+A04 Human Nature (11:12)
+A05 Medley: MD I / Something's On Your Mind / MD II (10:30)
+A06 Time After Time (8:30)
+A07 Ms Morrinsine (9:31)
+A08 Code M.D. (9:07)
+
+CD2 [64:09]
+B09 Pacific Express (14:37)
+B10 Burn (7:53)
+B11 Stronger Than Before (10:07)
+B12 Hopscotch (14:37)
+B13 Rubberband (8:58)
+B14 Miles / Crowd / Entering Stage (2:22)
+B15 Broken Wings (5:32)
+
+Personnel:
+Miles Davis: trumpet, keyboards
+Bob Berg: tenor & soprano sax, keyboard on Broken Wings
+Mike Stern: guitar
+Bobby Irving: keyboards, musical director
+Adam Holzman: keyboards
+Angus Thomas: bass guitar
+Marilyn Mazur: percussion
+Steve Thornton: percussion
+Vince Wilburn: drums, Simmons drums
+
+Lineage:
+Source 1: SAT-DFM(Astra MPEG-I Layer II @ 192 kbps joint stereo) > MARIAN MARC 2 (@16/48) > HDD > dynamic restoration remaster (up to 6.5 db) with WAVELAB 5.0, using 32-, 48- & 64-bit solution plugins
+
+Source 2: ANALOG CABLE-FM > MDAT(@32khz) > R-880(@16/48) > DAT > CDR > EAC > HDD > dynamic restoration remaster (up to 6.5 db) with WAVELAB 5.0, using 32-, 48- & 64-bit solution plugins
+
+File assembly: source 2: first 40 seconds, and from Hopscotch until end. In between source 1 > Normalization to -0.01 dB > CD WAVE tracking > TLH > flac(lvl8) > DIME
+--------
+
+add.lineage:
+TRADE DVD > HDD > edits > TLH > DIME
+
+add.edits.plaz: 
+- minor balance and gain corrections/adjustments
+- repaired clicks and pops and removed null packets
+- repaired transient peaks
+- normalized gain to 0 dB for both parts and retracked

@@ -1,0 +1,82 @@
+Miles Davis Quintet
+04-08-1960
+Kongresshaus
+Zürich, Switzerland
+
+Project ID - LL164
+
+Source: FM Broadcast
+Lineage: Unknown radio broadcast > ?? > cassette > ?? >  wave > 
+Peter Losin's Archive > cd duplicated (burner to burner) > eac > wave > 
+flac (lvl 8 )
+
+Miles Davis (tpt); John Coltrane (ts); Wynton Kelly (p); Paul Chambers (b); 
+Jimmy Cobb (d)
+
+disc 1
+
+d1t01. If I Were a Bell
+d1t02. Fran Dance
+d1t03. So What
+d1t04. All Blues
+d1t05. The Theme
+ 
+-------------------------------------------------------
+
+Notes:
+
+- d1t01: Digi pop/static burst at 3:15, 13:26 and 13:44
+
+- d1t02: Very slight digi pops/static bursts audible throughout the bass solo starting
+at 4:35. 
+
+- d1t04: slight drop out at 2:57. There are some slight flucuation in levels at 
+3:30 that continue through to 4:00, and 15:00 to 15:15. Very minor. 
+
+- This is a very nice sounding recording. A fine example. If this isn't already 
+in your collection, I would mark this as a must have. This is also QC'ed as LL137, 
+that source and all the others that were checked were sourced from a lossy lineage. 
+Peter Losin was gracious enough to provide a copy that he transfered directly from 
+cassette so we were able to circumvent the lossy lineage. Thanks Peter!
+
+- Many thanks to Peter Losin for the source.-http://www.plosin.com/
+
+- QC done by Bgreen
+
+md5
+1ce205ae52852172d905d987a22da35a *md1960-04-08.LL164.d1t01.flac
+2f8247dcb9833156bf370fbf9fac9387 *md1960-04-08.LL164.d1t02.flac
+955c4b5e9e8ebca3ba11f44f3be6d643 *md1960-04-08.LL164.d1t03.flac
+c801c10348201a74169811ec2edba1ce *md1960-04-08.LL164.d1t04.flac
+2fc2fbc0d9803c83a5bef7300f774f1b *md1960-04-08.LL164.d1t05.flac
+
+ffp
+md1960-04-08.LL164.d1t01.flac:cac335c69cb8b6061f3d2593f9256590
+md1960-04-08.LL164.d1t02.flac:51b139075cbfe8c987467c4e2e4740d7
+md1960-04-08.LL164.d1t03.flac:603169f39e7a368a42da7e0c481d64b6
+md1960-04-08.LL164.d1t04.flac:c98cc319aa7ebbceee192a19dde92823
+md1960-04-08.LL164.d1t05.flac:669532964d7d3f163ead345703b233f3
+
+shntool
+length     expanded size   cdr  WAVE problems filename
+    16:40.27      176463548    ---   --   ---xx   md1960-04-08.LL164.d1t01.flac
+     7:36.01       80440796    ---   --   ---xx   md1960-04-08.LL164.d1t02.flac
+    15:20.74      162462092    ---   --   ---xx   md1960-04-08.LL164.d1t03.flac
+    17:02.13      180311420    ---   --   ---xx   md1960-04-08.LL164.d1t04.flac
+     0:51.16        9034076    ---   --   ---xx   md1960-04-08.LL164.d1t05.flac
+    57:30.56      608711932 B                     (totals for 5 files, 0.4472 overall compression ratio)
+
+spectral analysis from TLH
+01 - Track01.wav:  track looks like CDDA with probability 100%
+02 - Track02.wav:  track looks like CDDA with probability 100%
+03 - Track03.wav:  track looks like CDDA with probability 100%
+04 - Track04.wav:  track looks like CDDA with probability 100%
+05 - Track05.wav:  track looks like CDDA with probability 100%
+
+
+old md5 or ffp (incude both if available)
+01 - Track01.flac:cac335c69cb8b6061f3d2593f9256590
+02 - Track02.flac:51b139075cbfe8c987467c4e2e4740d7
+03 - Track03.flac:603169f39e7a368a42da7e0c481d64b6
+04 - Track04.flac:c98cc319aa7ebbceee192a19dde92823
+05 - Track05.flac:669532964d7d3f163ead345703b233f3

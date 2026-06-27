@@ -1,0 +1,37 @@
+Smashing Pumpkins
+September 6th, 2010
+94.7 KKDO-FM Studios
+Sacremento, CA
+FREE DVD
+
+
+Tapers: Pro-Shot
+Sources: Master FLV Rips (1024x576)  
+Audio: LPCM of above (Untouched)
+Author:  Copperpot - TMPGEnc Authoring Works 4 - Menus, Chapters, etc
+
+720x480 NTSC (16:9), 2-pass VBR 8000kbps max, LPCM
+
+
+A Stich In Tim
+That's The Way
+1979
+Drown
+Freak
+
+
+
+Notes:
+
+Billy played acoustic guitar.
+
+This 5 song in studio set was hosted for period of time on the KKDO website.  They have since been removed.  The show was split into five 1024x576 FLV files each containing a song with an intro and outro header (Raido station ad/announcer saying the song title).  1979 featured a small segment with the band arriving in the studio and meeting a few fans.
+
+Cut all radio headers, voice overs (song names), and the mini-segment.  Filtered FLVs for compression artifacts with Neat Video 3 and MSU Deblocker.  Used LPCM audio to avoid extra compression.  Crossfades applied between songs.  Menus (4:3), Chapters, etc.
+
+Thanks to mickyshambles for the original FLV rips.
+
+Burn tested.
+
+-Copperpot
+Compiled on 12/18/11

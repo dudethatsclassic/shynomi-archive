@@ -1,0 +1,55 @@
+Herbie Hancock & The Headhunters
+Ultrasonic Studios
+Hempstead, New York, USA
+1973-10-01
+
+Goody's Speed/Pitch-Adjusted Remaster, v.2 via mr_mags
+
+mr_mags original lineage:
+FM > ? > UNK GEN CASS TDK SA 90>NAK DR 10 > Sony Stand Alone > CDR > EAC > WAV > FLAC 
+
+Goody's additional lineage:
+dBpoweramp (WAV) > Cool Edit Pro (Pitch Bender, various amounts; EQ; Some click and pop repair; Levels restored; Fades) > Trader's Little Helper (FLAC Level 8, Align sector boundaries, .ffp) >
+
+September 2025:
+Audition (Pitch Bender - Tracks 3-5: Small speed/pitch tweaks to account for newly discovered small drift) >
+iZotope RX10 Advanced (Wow & Flutter reduced where possible) >
+TLH (FLAC Level 8; Align sector boundaries; ffp) > foobar2000 (tags).
+
+
+Herbie Hancock - Keyboards
+Paul Jackson - Electric Bass
+Benny Maupin - Flute, Reeds
+Harvey Mason - Drums
+
+01 DJ INTRO :13
+02 The Spook Who Sat By The Door (Actual Proof) 9:32
+03 Butterfly 12:45
+04 Sly 17:25
+05 Chameleon 15:23
+----------------------------------------------------------
+Runtime: 55:17
+
+This seems to be the earliest HH & Headhunters recording around (just days before the Boston FM)
+Big Thanks to my partner, AG, for digging ANOTHER Ol' cassette out, digitizing it & sending it out to me.
+
+AND a...
+
+HUGE thanks to prof goody for his work on this. I had hoped for less mud and more Clark & yes, there is a noticeable step in that direction. Until a lower gen or PRE-FM comes around, I'm comfortable that this is the cleanest this serving of funk will taste.
+
+enjoy,
+
+mr_mags
+
+Goody's notes:
+Pitch of tracks 1-4 was approx. 34 cents sharp.  Track 5 was approx. 14 cents sharp.
+EQ applied to restore muddy midrange.  
+Restored levels in several spots in the R-Channel where they dropped down suddenly for various lengths of time.  
+Many clicks and pops repaired.
+Retracked. Fades added to smooth transitions.
+
+September 2025:
+Audition (Pitch Bender - Tracks 3-5: Small speed/pitch tweaks to account for newly discovered small drift) >
+iZotope RX10 Advanced (Wow & Flutter reduced where possible)
+ 
+Text updated for this edition - 3/24/11; 9/13/25.

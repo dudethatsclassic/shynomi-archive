@@ -1,0 +1,89 @@
+Local H
+May 11, 2008
+The Beat Kitchen
+Chicago, IL
+
+****************************** 16-bit/44.1kHz version ******************************
+************************** 24-bit/48kHz version available **************************
+
+Source:         DPA 4022 > Oade Warm Mod Fostex FR-2LE (@ 24-bit/48kHz) 
+Lineage:        Oade Warm Mod Fostex FR-2LE > USB 2.0 > Sound Forge v8.0 > 
+                CD Wave v1.93.3 > FLAC Frontend v1.7.1 > .flac (Level 8) 
+Location:       20' from right stack, elevated 8' on stand  
+                Mic configuration: ORTF with shockmount & windscreens
+
+Taped & Transferred by James Bonaiuto <cd2go@hotmail.com>
+LMA Upload by Charles Dewey Cole, IV <live2cd@hotmail.com>
+
+------------------------------------------------------------------------------------
+Disc 1 of 2:                                                 (67:42.70)
+------------------------------------------------------------------------------------
+01. Intro                                                    (00:54.31)
+02. Where Are They Now?                                      (01:16.71)
+03. Everyone Alive                                           (03:55.58)
+04. California Songs                                         (05:01.61)
+05. Dick Jones                                               (05:35.19)
+06. Money On The Dresser                                     (02:23.21)
+07. How's The Weather Down There?                            (03:47.29)
+08. P.J. Soles                                               (04:19.09)
+09. Buffalo Trace                                            (10:54.57)
+10. Heaven On The Way Down                                   (03:27.70)
+11. Hey, Rita *                                              (05:55.68)
+12. Heavy Metal Bakesale                                     (03:36.18)
+13. Mellowed                                                 (05:27.16)
+14. That's What They All Say                                 (08:30.12)
+15. Halcyon Days (Where Were You Then?)                      (02:36.55)
+------------------------------------------------------------------------------------
+Disc 2 of 2:                                                 (18:11.54)
+------------------------------------------------------------------------------------
+01. ~Encore~                                                 (02:10.10)
+02. For Lovers ^                                             (04:16.37)
+03. Bloodstains #                                            (02:19.70)
+04. Bad Moon Rising %                                        (02:06.29)
+05. Time $                                                   (05:25.04)
+06. Goodnight @                                              (01:53.54)
+------------------------------------------------------------------------------------
+Notes:
+
+* = segues into All My Friends, Originally Recorded by LCD Soundsystem 
+^ = Originally Recorded by Peter Wolfe (Wolfman) & Pete Doherty
+# = Originally Recorded by Agent Orange
+% = Originally Recorded by Creedence Clearwater Revival
+$ = Originally Recorded by Pink Floyd
+@ = Originally Recorded by Cheap Trick
+
+------------------------------------------------------------------------------------
+Sound Forge v8.0 Notes:
+
+- Normalized peak level to -1dB (left & right independently)
+- Faded I/O at beginning/end of show
+- Resample: Interpolation accuracy @ 4 with anti-alias filter
+- Dither: Triangular   Noise shaping: Equal loudness contour
+
+------------------------------------------------------------------------------------
+FLAC Fingerprint:
+
+localh2008-05-11d1t01.dpa4022.fr2le.flac:6719d5afc7cbb33a9ad549cc5c0c35e5
+localh2008-05-11d1t02.dpa4022.fr2le.flac:e105e5b16dd9354444d5420a9bf5eac4
+localh2008-05-11d1t03.dpa4022.fr2le.flac:a5ce6826120c93b6a3ee98e63bc0571a
+localh2008-05-11d1t04.dpa4022.fr2le.flac:46e6d1117ce38cf7e70834c46ada25de
+localh2008-05-11d1t05.dpa4022.fr2le.flac:cd593e9329adf92756dcac3d8c31de6f
+localh2008-05-11d1t06.dpa4022.fr2le.flac:bf728091cb615d22a3c40665d8de682d
+localh2008-05-11d1t07.dpa4022.fr2le.flac:cf84cd0a795817b6adfb83a18be4ef1c
+localh2008-05-11d1t08.dpa4022.fr2le.flac:29af8005e34819e7463636a64c0b0653
+localh2008-05-11d1t09.dpa4022.fr2le.flac:388c0047fb58d4140f08aad1232d5491
+localh2008-05-11d1t10.dpa4022.fr2le.flac:f5c2efdb3dda6eeb1dbb04a38e50199f
+localh2008-05-11d1t11.dpa4022.fr2le.flac:ec9cdb4e806f0793ed1211a41c66bfa2
+localh2008-05-11d1t12.dpa4022.fr2le.flac:f58c6a39268ae4d298d499a39fe52770
+localh2008-05-11d1t13.dpa4022.fr2le.flac:8c0afe4408d063db5a2cc46834bb2aab
+localh2008-05-11d1t14.dpa4022.fr2le.flac:126be4e2bc35befb1935bf56798e1843
+localh2008-05-11d1t15.dpa4022.fr2le.flac:5ae1b533397dd0d3f71010247490bb9a
+localh2008-05-11d2t01.dpa4022.fr2le.flac:b0231c620b94ad8c6f49e9a79da05ec1
+localh2008-05-11d2t02.dpa4022.fr2le.flac:150ff5b12aeaf83206a097125323d0b1
+localh2008-05-11d2t03.dpa4022.fr2le.flac:b9dd219c861faa6b65b47e6594579c7f
+localh2008-05-11d2t04.dpa4022.fr2le.flac:e4a2b180e5e8f46fa7098b98edadeb55
+localh2008-05-11d2t05.dpa4022.fr2le.flac:1d03d62e05213ccfcd78a253326cd1bc
+localh2008-05-11d2t06.dpa4022.fr2le.flac:b9235678000d03b8147a0145d2a23447
+
+------------------------------------------------------------------------------------
+For more info on Local H, please visit: www.localh.com

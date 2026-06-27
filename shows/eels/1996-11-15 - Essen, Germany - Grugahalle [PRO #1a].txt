@@ -1,0 +1,67 @@
+Uploaded by Axel(a.k.a. RoryGallagher), Friesland, Germany.
+
+recording, trading and sharing for the Blues-Rock-&-Jazz community,
+what are you sharing with all of us
+
+
+EELS:
+
+Video Source: WDR Rockpalast German TV Broadcast(on 16th November 1998)
+Taper: Axel himself
+Video Bitrate: 9079 to 9203 kb/s
+Frame rate: VBR 25.000 Frames
+Pictures: 4:3 (all this and more was said by GSpot)
+DVD Author: AODPPSS
+DVD format: PAL
+Region: 0, playable worldwide, if not it's up to your equipment
+
+Audio Source: WDR Rockpalast German TV Broadcast(see above)
+Lineage: see below
+Taper: Axel himself
+Audio Codec: AC3
+Audio Bitrate: 0xbd[0x80]:48000Hz  256 kb/s tot , stereo (2/0)
+
+Lineage: WDR Rockpalast German TV(see above) > Nokia satellite bowl > Pace satellite TV receiver > via Scart cable > Akai VCR(SP mode) > BASF 240min master VHS > playback on LG VCR > via Scart cable > Panasonic stand alone DVD recorder(XP mode) > Sony DVD- on HD (> YOU)
+DVD with menue and scattered chapters
+File Size: 2.20GB
+Length: 33:02min
+No artwork...
+Information: http://db.etree.org/lookup_show.php?shows_key=149667
+
+
+Grugahalle, Essen, Germany, 15th November 1996
+00) Intro speech and announcement by Alan Bangs
+01) If I Was Your Girlfriend
+02) Fingertips
+03) Susan's House
+04) Novocaine For The Soul
+05) Rags To Rags
+06) Not Ready Yet
+07) Interview with EELS by Alan Bangs ~ a very funny one
+Length: 33:02min
+Personal:
+E(a.k.a. Mark Oliver Everett): Vocals, Guitar, Keyboards, Percussion
+Tommy Walter: Bass, Vocals
+Butch(a.k.a. Jonathan Norton): Drums, Vocals
+
+
+This show is for free trading only ~ if you sell you'll go to hell
+
+This EELS sharing is dedicated to my bro' SpaceBandit, endlich eine lustige Susan ;-)
+P&L
+
+(Source: German Rockpalast TV ~ Rockpalast simply the best)
+
+
+MD5 is your girlfriend ;-)
+
+499acf57b5eba60d255a6c8a3adbf80c *VIDEO_TS\VIDEO_TS.BUP
+499acf57b5eba60d255a6c8a3adbf80c *VIDEO_TS\VIDEO_TS.IFO
+aa679ee525fcc233f92615d8c12122cf *VIDEO_TS\VIDEO_TS.VOB
+1deba12c291c7ab381de681e92bb13ad *VIDEO_TS\VTS_01_0.BUP
+1deba12c291c7ab381de681e92bb13ad *VIDEO_TS\VTS_01_0.IFO
+2b2b4e242b9a283cdefdd1f02c9c3b5f *VIDEO_TS\VTS_01_1.VOB
+3c4c515b4762720ba206c390fd3d8066 *VIDEO_TS\VTS_01_2.VOB
+523c0f3575320f0361ece6efd7467538 *VIDEO_TS\VTS_01_3.VOB
+
+No errors occured. (Trader's Little Helper said that and created MD5.)

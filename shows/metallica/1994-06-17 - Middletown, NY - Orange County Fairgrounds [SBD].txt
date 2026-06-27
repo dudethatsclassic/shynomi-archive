@@ -1,0 +1,21 @@
+101 - Ecstacy of Gold.shn:  successfully fixed/rewritten to '101 - Ecstacy of Gold-fixed.shn'.
+102 - Breadfan.shn:  successfully fixed/rewritten to '102 - Breadfan-fixed.shn'.
+103 - Master of Puppets.shn:  successfully fixed/rewritten to '103 - Master of Puppets-fixed.shn'.
+104 - Wherever I May Roam.shn:  successfully fixed/rewritten to '104 - Wherever I May Roam-fixed.shn'.
+105 - Harvester of Sorrow.shn:  successfully fixed/rewritten to '105 - Harvester of Sorrow-fixed.shn'.
+106 - Welcome Home (Sanitarium).shn:  successfully fixed/rewritten to '106 - Welcome Home (Sanitarium)-fixed.shn'.
+107 - The God that Failed.shn:  successfully fixed/rewritten to '107 - The God that Failed-fixed.shn'.
+108 - Kill & Ride Medley.shn:  successfully fixed/rewritten to '108 - Kill & Ride Medley-fixed.shn'.
+109 - For Whom the Bell Tolls.shn:  successfully fixed/rewritten to '109 - For Whom the Bell Tolls-fixed.shn'.
+110 - Disposable Heroes.shn:  successfully fixed/rewritten to '110 - Disposable Heroes-fixed.shn'.
+201 - Seek & Destroy.shn:  successfully fixed/rewritten to '201 - Seek & Destroy-fixed.shn'.
+202 - Nothing Else Matters.shn:  successfully fixed/rewritten to '202 - Nothing Else Matters-fixed.shn'.
+203 - Creeping Death.shn:  successfully fixed/rewritten to '203 - Creeping Death-fixed.shn'.
+204 - Fade to Black.shn:  successfully fixed/rewritten to '204 - Fade to Black-fixed.shn'.
+205 - Whiplash.shn:  successfully fixed/rewritten to '205 - Whiplash-fixed.shn'.
+206 - Sad but True.shn:  successfully fixed/rewritten to '206 - Sad but True-fixed.shn'.
+207 - One.shn:  successfully fixed/rewritten to '207 - One-fixed.shn'.
+208 - Enter Sandman.shn:  successfully fixed/rewritten to '208 - Enter Sandman-fixed.shn'.
+209 - So What.shn:  successfully fixed/rewritten to '209 - So What-fixed.shn'.
+
+Padded last file with 1352 zero-bytes.

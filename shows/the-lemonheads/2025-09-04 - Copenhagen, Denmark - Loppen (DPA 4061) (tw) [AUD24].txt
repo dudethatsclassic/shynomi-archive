@@ -1,0 +1,32 @@
+Lemonheads
+Copenhagen Loppen, DK
+2025-09-04
+
+Source: dpa4061->ca9100->sony pcm-a10->wav (96 khz/24 bit)
+Transfer: Sony pcm-a10->hd->cep->cdwav (44,1 khz/16 bit)->flac
+Taper: Tw
+
+01. Intro.
+02. The Great Big No
+03. Into Your Arms
+04. It's About Time
+05. Down About It
+06. Paid to Smile
+07. Big Gay Heart
+08. Style *
+09. Rest Assured
+10. Dawn Can't Decide
+11. Being Around
+12. Favorite T
+13. You Can Take it With You
+14. Snow Don't Fall (Townes van Zandt) **
+15. Landslide (Fleetwood Mac)
+16. The Outdoor Type
+17. Withered & Died (Richard & Linda Thompson)
+18. Dimming of the Day (Alison Krauss & Union Station)
+19. Hard Drive
+20. Confetti
+21. It's a Shame about Ray
+
+* Evan on bass
+** Evan on keys

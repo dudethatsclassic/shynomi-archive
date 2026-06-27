@@ -1,0 +1,19 @@
+Miles Davis
+February 18, 1950 (21:56)
+WNYC Studio, New York
+WNYC radio broadcast
+Miles Davis Sextet
+
+Source: Liberated bootlegs? Radio broadcasts? > ?? > CD-R
+Conversion: CD-R > WAV (extracted with EAC) > mkwACT 0.97 b1 > SHN
+Digital Audio Extraction and SHN encoding performed by Mike Vescovo 
+(db.etree.org/shackaholic).
+
+01. Conception (G. Shearing) 4:07 
+02. Ray's Idea (R. Brown-W.G. Fuller) 5:54 
+03. That Old Black Magic (J. Mercer-H. Arlen) 2:16 
+04. Max is Making Wax (O. Pettiford) 3:59 
+05. Woody 'n' You (D. Gillespie) 5:40 
+
+Miles Davis (tpt); J.J. Johnson (tb); Stan Getz (ts); Tadd Dameron 
+(p); Gene Ramey (b); Art Blakey (d)

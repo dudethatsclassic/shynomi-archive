@@ -1,0 +1,49 @@
+Metallica
+Cal Expo Center
+Sacramento, CA
+September 16, 1989
+
+From the collection of koondog a/k/a Rush-Fan
+
+24 bit version
+
+Taper: Karl Lundmark
+Gear: Aiwa CM 30a mic > Sony WMD6c
+Lineage: TDK SA90 cassettes (1) > Optimus SCT-57 playback deck > Adobe Audition 1.5 (recording to .wav @ 24/96, speed correction, EQ, normalization, splits & fades) > Xrecode II (flac 8)
+
+Mastering notes: Karl obviously had a difficult time at this general admission show.  These were his first shows with the D6, having purchased it for this run of Metallica concerts.  He was being jostled by the crowd frequently, and there were a ton of mic bumps throughout the show.  The soundstage moved around constantly from heads passing in front of the mics and Karl's movements, and there were occasional dropouts in the channels.  The recording was quiet, so there's a degree of hiss.  The third tape side was particularly damaged, including blank spots where the mic was loosened from its plug and cut out many times.  Also, this tape had very little low end.  By EQing the lows back in I made the mic bumps and errors far more noticeable, so all the flaws were either attenuated, EQd or cut out completely.  Patches were taken either from another place in the song or, in cases of larger damage, the show Karl recorded with the same gear two days earlier in Sacramento.
+
+Most of the show was not too bad.  I clipped out or attenuated a bunch of mic bumps, fixed dropouts, evened out the levels where they jumped and fixed some of the wild panning.  It went fairly smoothly until we got to Fade to Black.  The crowd must have gone berzerk during the final guitar solo, because it sounds like Karl got sucked into the mosh pit for a minute.  Most of the latter half of the solo was lost to mic jostling and has been patched from Sacramento.  Also patched was a tapeflip that occurred just as Jason started playing Orion after his solo.  
+
+The second tapeflip happened a split second after the last note of One, and this is where the problems really began.  The encore break and the beginning of Creeping Death were missed, the levels went all crazy, and it sounds like the mic was hidden.  This issue lasted until the end of the second verse of Creeping Death.  I've chosen only to patch the missing start of the song and leave as much of this performance as existed, bad sound or not.
+
+Around the 2nd encore a speed slippage issue that I had noticed appearing occasionally throughout the show really became prominent.  There are little slips in the speed that are so small I can't chase them out which then become a constant wobble by the start of Am I Evil.  It's not that noticeable, but it's there.  There is discussion between Karl and his friend during the last encore break about tapes snapping, so Karl wasn't the only one with deck issues.
+
+
+
+
+01 Intro: The Ecstacy of Gold
+02 Blackened
+03 For Whom the Bell Tolls
+04 Welcome Home (Sanitarium)
+05 Harvester of Sorrow
+06 The Four Horsemen
+07 The Thing that Should Not Be
+08 bass solo
+09 Master of Puppets
+10 Fade to Black
+11 Seek and Destroy
+12 ...and Justice for All
+
+13 One
+14 Creeping Death
+15 guitar solo incl. Little Wing
+16 Battery
+
+17 The Frayed Ends of Sanity excerpt / Metallinoodles
+18 Last Caress
+19 Am I Evil?
+20 Damage Inc.
+
+21 Blitzkrieg
+22 Breadfan

@@ -1,0 +1,40 @@
+
+A Perfect Circle
+The Pearl Theater @ Palms Casino: Las Vegas, NV
+November 21, 2010
+
+Source: AT831s > SP-SPSB-11 (rolloff @ 107 Hz) > Edirol R-09 @ 24-bit / 44.1kHz
+Location: FOB ROC
+Transfer: SD Card > USB > Audacity (limiter/amplify/dither) > CDWave > TLH
+Taper: tapeworm(48) 
+
+Setlist:
+
+01 -crowd-
+02 Intro
+03 The Package
+04 Weak and Powerless
+05 The Noose
+06 Blue
+07 Vanishing
+08 A Stranger
+09 The Outsider
+10 Crimes
+11 The Nurse Who Loved Me
+12 Pet
+13 Lullaby
+14 Gravity
+15 -band introductions-
+16 -James Iha-
+17 Diary of a Lovesong
+18 Imagine [John Lennon]
+19 -Outro-
+
+Notes: 'Thirteenth Step' performed in its entirety in order.  Last night of 2010 tour.  Some hard limiting performed during louder crowd noise sections. 4.4dB amplification applied in Audacity prior to dithering to 16-bit. Otherwise, this is a raw transfer with no fades or EQ.
+
+Archive: Master WAV was archived @ 24-bit/44.1kHz and FLAC'd with cue sheet. 
+
+Taped and transferred by tapeworm(48) 
+Txt file compiled on 11/25/2010
+
+*** DO NOT DISTRIBUTE IN LOSSY FORMATS. DO NOT SELL THIS RECORDING, TRADE IT FREELY *** 

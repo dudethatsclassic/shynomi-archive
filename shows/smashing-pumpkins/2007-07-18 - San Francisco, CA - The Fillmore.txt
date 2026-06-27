@@ -1,0 +1,115 @@
+Smashing Pumpkins
+July 18th, 2007
+The Fillmore
+San Francisco, CA, US
+
+multi-source mix by rhinowing
+complete show (almost-missing four seconds)
+
+-----------
+Source One: Sony ECM-959DT -> Sony MZ-R3
+Transfer: MD(M) -> Sony MDS-JE520 -> Optical Cable -> Harmon Kardon CDR2 -> CDR(1) -> EAC -> Data Disc (-> dEdit -> FLAC)
+Recorded and Transfered by The Manwich Brothers (another Drop A Deuce production)
+-----------
+
+-----------
+Source Two: Unknown camera
+Transfer: Video Master (probably MiniDV) -> DVD -> 48khz .mp3 files -> .WAV (downsampled to 44.1khz with r8brain on "very high" quality setting)
+(the fragmentary front-row video from Ginger's side that appeared on The Pirate's Bay in late 2007)
+-----------
+
+-----------
+Source Three: Sony Cybershot DSC-T30 
+Transfer: .AVI files -> Authored -> DVDr(1) -> .VOB -> TMPGEnc (demux) -> 48khz/192kpbs .AC3 file -> .WAV (downsampled to 44.1khz with r8brain on "very high" quality setting)
+(shot by Manwich Bros from about halfway back on the floor, Jeff's side--they sent DVDs of this to me)
+-----------
+
+-----------
+Source Four: Sony HDR-SR5
+Transfer: AVCHD Video Master -> 48khz WAV files -> me -> .WAV (downsampled to 44.1khz with r8brain on "very high" quality setting)
+(MonteLDS's HD video, shot from the balcony, thanks to Monte for getting this to me)
+-----------
+
+Editing performed:
+Audacity (fades and source mixes), CDWave (splits), FLAC Frontend (level 8, align on sector boundaries)
+
+***PLEASE NOTE THAT THIS FILESET CONTAINS AUDIO FROM LOSSY SOURCES, INCLUDING MPEG AND AC3. THIS WAS DONE IN INTEREST OF ASSEMBLING A COMPLETE SHOW***
+
+01. Intro (Surprisia theme) - 2:22
+02. Gossamer - 26:43
+03. Today - 3:32
+04. Stand Inside Your Love - 3:53
+05. Zero - 2:16
+06. United States -> Star Spangled Banner [Key] (tease) - 11:26
+07. Neverlost - 5:04
+08. Drown - 5:00
+09. Hummer - 6:43
+10. Bullet with Butterfly Wings - 5:45
+11. Blue Skies Bring Tears - 7:52
+12. With Every Light - 5:17
+13. If All Goes Wrong - 4:13
+14. (banter - the keyboard is broken) - 1:53
+15. Thirty-three - 3:46
+16. To Sheila - 4:14
+17. Blister in the Sun [Violent Femmes] (tease) - 1:23
+18. Tonight, Tonight - 4:59
+19. Tarantula - 4:09
+20. Starz - 4:53
+21. Starla - 7:57
+Encore One:
+22. That's the Way (My Love Is) - 4:52
+23. Heavy Metal Machine -> White Rabbit [Jefferson Airplane] (tease) - 8:55
+Encore Two:
+24. Death from Above - 4:58
+25. Shame - 5:35
+26. (guitar improv/banter - newspaper reviewers) - 4:47
+27. Silverfuck -> The End [The Doors] (tease) - 11:33
+
+Source breakdown:
+Tracks 1-10 are source 1
+Tracks 11 starts with source 2, then switches to source 1
+Tracks 12-21 are source 1
+Track 22 starts with source 1, then switches to source 3
+Track 23 starts with source 3, then switches to 2, then back to 3
+Tracks 24 is source 4
+Tracks 25-26 are source 1
+Track 27 starts with source 1, then ends with source 4
+
+Flaws:
+Shame is brickwalled
+Silverfuck is really rough quality
+One small cut (roughly four seconds, around 4:55 in the song) remains in Heavy Metal Machine, which I was unable to patch without a really jarring transition. It sounded better left alone.
+The portion of Blue Skies Bring Tears from source 2, That's the Way, Heavy Metal Machine, and the portion of Silverfuck from source 4 are all in dual-mono
+
+www.smashingpumpkins.com
+www.myspace.com/smashingpumpkins
+
+Don't sell this. If you sell this, a pidgeon will get you.
+
+tsp2007-07-18t01.flac:7a7e6d6f7ebfe66aa85f473c5211ced5
+tsp2007-07-18t02.flac:c99932451d828e6e116239a18bf1e256
+tsp2007-07-18t03.flac:206c4ff1987a4fddf641b99b6339941f
+tsp2007-07-18t04.flac:30e47da039002d557a228b78be307762
+tsp2007-07-18t05.flac:de2b439df7fd475719d62508094f3697
+tsp2007-07-18t06.flac:c4ce1b59babc4abc503f9a7d7d184bf0
+tsp2007-07-18t07.flac:96f489f375572b3e92822c1f80ef243b
+tsp2007-07-18t08.flac:4ff6cdbe70c3a4ee3cfeee1c1de16128
+tsp2007-07-18t09.flac:f600c812936bbf1e86597584c05a0536
+tsp2007-07-18t10.flac:945192a1192641ef25bb99bb50172027
+tsp2007-07-18t11.flac:d54e79d55a80166452ab130d91bcfd0e
+tsp2007-07-18t12.flac:768b206664849dc4b96ea1460a47d4ec
+tsp2007-07-18t13.flac:06bf1a4538d8a33ae0f74fc13933326f
+tsp2007-07-18t14.flac:91de043cebec17e8a2b66e82396f338c
+tsp2007-07-18t15.flac:575c64e31e6f0777067ef635e5537629
+tsp2007-07-18t16.flac:be762d9e1e8c14c5fc7b99cc97dd1c4d
+tsp2007-07-18t17.flac:bfd40897737035b09284c5f53ff83074
+tsp2007-07-18t18.flac:fed91df4f3e3045f80f7bdb92fe2938c
+tsp2007-07-18t19.flac:751382089fcfc09898dcd24b97ef21a5
+tsp2007-07-18t20.flac:1ff27c2e130643ea1d7f34aa83163cf6
+tsp2007-07-18t21.flac:cae6e1f12fa4d2d0a0f58af3e7b7bc69
+tsp2007-07-18t22.flac:6d39bbdca84425fe5d8b664bba5f4bb0
+tsp2007-07-18t23.flac:96e24e1c38302e22e981995d91e3ca33
+tsp2007-07-18t24.flac:c4a44a6605a7d00bf72a59284dbd440e
+tsp2007-07-18t25.flac:bb0185bce8f276d5e2166cdbfc0007d5
+tsp2007-07-18t26.flac:166552fc25520011708549e0dbfdab03
+tsp2007-07-18t27.flac:8fe20058d9edfb3431a82baba1e2449f

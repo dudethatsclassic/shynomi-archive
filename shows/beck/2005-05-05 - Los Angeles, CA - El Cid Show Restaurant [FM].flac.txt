@@ -1,0 +1,38 @@
+Beck
+El Cid Show Restaurant
+Los Angeles, CA, USA
+May 5, 2005
+
+SOURCE: radio broadcast (106.7 KROQ FM Pasadena/Los Angeles)
+LINEAGE: Recoton FM100 antenna > Gemini TV-Matching Transformer Model CV 70 > Carver FM Stereo Tuner Model TX-11 > shielded RCA to miniplug cable > Sound Blaster Audigy MP3+ (analog in) > CD Wave 1.94.4 beta (recording and tracking) > WAV [16/44.1] > Cool Edit Pro 2.0 (fades) > FLAC Frontend 1.7.1 (FLAC 1.1.2)(Verify) > FLAC (lvl 5)
+TAPED BY: Gizby
+
+FORMAT: FLAC
+FILESIZE: 314 MB
+
+SETLIST:
+01) station promo/speed metal/interview
+02) station promo/intro
+03) E-Pro
+04) Qué Onda Guero
+05) "How about another one, Beck?"
+06) Where It's At
+07) going to break
+08) station promo/Q&A session #1
+09) Lost Cause
+10) going to break
+11) station promo/Q&A session #2/piñata
+12) Girl
+13) going to break
+14) station promo/Q&A session #3
+15) Devil's Haircut
+16) outro
+
+
+NOTES: Welcome to Cinco de Becko (as this is what it was called by the radio station). It was a secret morning show where the only way you could attend was if you called in during the week leading up to it and won the right. The location remained a secret until Beck announced it during one of the Q&A sessions. This was a tough show to edit, just because of how intertwined the DJ chatter and the station promos were with the content. I tried to leave in as much as possible just for the sake of completeness.
+
+
+Do not convert this show to any lossy format.
+Do not sell this recording. Only give it away or trade.
+Keep the CD lineage down. Always keep the original FLACs around.
+Rock on.

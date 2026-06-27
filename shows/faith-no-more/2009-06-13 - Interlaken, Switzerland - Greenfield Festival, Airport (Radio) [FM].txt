@@ -1,0 +1,106 @@
+
+Started at: воскресенье, 07. 03. 2010. - 11:19.05
+20 files found
+
+01 -===- J:\Mike Patton\Lossless music\2009.06.13 - Faith No More - Greenfield Festival, Airport, Interlaken, Switzerland (Radio)\01. Reunited.flac
+  Extracted successfully
+  Conclusion: this track is CDDA with probability 100%
+  Tempfile successfully deleted.
+
+02 -===- J:\Mike Patton\Lossless music\2009.06.13 - Faith No More - Greenfield Festival, Airport, Interlaken, Switzerland (Radio)\02. The Real Thing.flac
+  Extracted successfully
+  Conclusion: this track is CDDA with probability 100%
+  Tempfile successfully deleted.
+
+03 -===- J:\Mike Patton\Lossless music\2009.06.13 - Faith No More - Greenfield Festival, Airport, Interlaken, Switzerland (Radio)\03. From Out Of Nowhere.flac
+  Extracted successfully
+  Conclusion: this track is CDDA with probability 100%
+  Tempfile successfully deleted.
+
+04 -===- J:\Mike Patton\Lossless music\2009.06.13 - Faith No More - Greenfield Festival, Airport, Interlaken, Switzerland (Radio)\04. Land Of Sunshine.flac
+  Extracted successfully
+  Conclusion: this track is CDDA with probability 100%
+  Tempfile successfully deleted.
+
+05 -===- J:\Mike Patton\Lossless music\2009.06.13 - Faith No More - Greenfield Festival, Airport, Interlaken, Switzerland (Radio)\05. Caffeine.flac
+  Extracted successfully
+  Conclusion: this track is CDDA with probability 100%
+  Tempfile successfully deleted.
+
+06 -===- J:\Mike Patton\Lossless music\2009.06.13 - Faith No More - Greenfield Festival, Airport, Interlaken, Switzerland (Radio)\06. Evidence.flac
+  Extracted successfully
+  Conclusion: this track is CDDA with probability 100%
+  Tempfile successfully deleted.
+
+07 -===- J:\Mike Patton\Lossless music\2009.06.13 - Faith No More - Greenfield Festival, Airport, Interlaken, Switzerland (Radio)\07. Chinese Arithmetic.flac
+  Extracted successfully
+  Conclusion: this track is CDDA with probability 100%
+  Tempfile successfully deleted.
+
+08 -===- J:\Mike Patton\Lossless music\2009.06.13 - Faith No More - Greenfield Festival, Airport, Interlaken, Switzerland (Radio)\08. Surprise! You're Dead!.flac
+  Extracted successfully
+  Conclusion: this track is CDDA with probability 100%
+  Tempfile successfully deleted.
+
+09 -===- J:\Mike Patton\Lossless music\2009.06.13 - Faith No More - Greenfield Festival, Airport, Interlaken, Switzerland (Radio)\09. Easy.flac
+  Extracted successfully
+  Conclusion: this track is CDDA with probability 100%
+  Tempfile successfully deleted.
+
+10 -===- J:\Mike Patton\Lossless music\2009.06.13 - Faith No More - Greenfield Festival, Airport, Interlaken, Switzerland (Radio)\10. Last Cup Of Sorrow.flac
+  Extracted successfully
+  Conclusion: this track is CDDA with probability 100%
+  Tempfile successfully deleted.
+
+11 -===- J:\Mike Patton\Lossless music\2009.06.13 - Faith No More - Greenfield Festival, Airport, Interlaken, Switzerland (Radio)\11. MidLife Crisis.flac
+  Extracted successfully
+  Conclusion: this track is CDDA with probability 100%
+  Tempfile successfully deleted.
+
+12 -===- J:\Mike Patton\Lossless music\2009.06.13 - Faith No More - Greenfield Festival, Airport, Interlaken, Switzerland (Radio)\12. Introduce Yourself.flac
+  Extracted successfully
+  Conclusion: this track is CDDA with probability 100%
+  Tempfile successfully deleted.
+
+13 -===- J:\Mike Patton\Lossless music\2009.06.13 - Faith No More - Greenfield Festival, Airport, Interlaken, Switzerland (Radio)\13. The Gentle Art Of Making Enemies.flac
+  Extracted successfully
+  Conclusion: this track is CDDA with probability 100%
+  Tempfile successfully deleted.
+
+14 -===- J:\Mike Patton\Lossless music\2009.06.13 - Faith No More - Greenfield Festival, Airport, Interlaken, Switzerland (Radio)\14. RV.flac
+  Extracted successfully
+  Conclusion: this track is CDDA with probability 100%
+  Tempfile successfully deleted.
+
+15 -===- J:\Mike Patton\Lossless music\2009.06.13 - Faith No More - Greenfield Festival, Airport, Interlaken, Switzerland (Radio)\15. Ashes To Ashes.flac
+  Extracted successfully
+  Conclusion: this track is CDDA with probability 100%
+  Tempfile successfully deleted.
+
+16 -===- J:\Mike Patton\Lossless music\2009.06.13 - Faith No More - Greenfield Festival, Airport, Interlaken, Switzerland (Radio)\16. We Care A Lot.flac
+  Extracted successfully
+  Conclusion: this track is CDDA with probability 100%
+  Tempfile successfully deleted.
+
+17 -===- J:\Mike Patton\Lossless music\2009.06.13 - Faith No More - Greenfield Festival, Airport, Interlaken, Switzerland (Radio)\17. Be Aggressive.flac
+  Extracted successfully
+  Conclusion: this track is CDDA with probability 100%
+  Tempfile successfully deleted.
+
+18 -===- J:\Mike Patton\Lossless music\2009.06.13 - Faith No More - Greenfield Festival, Airport, Interlaken, Switzerland (Radio)\18. Epic.flac
+  Extracted successfully
+  Conclusion: this track is CDDA with probability 100%
+  Tempfile successfully deleted.
+
+19 -===- J:\Mike Patton\Lossless music\2009.06.13 - Faith No More - Greenfield Festival, Airport, Interlaken, Switzerland (Radio)\19. Stripsearch.flac
+  Extracted successfully
+  Conclusion: this track is CDDA with probability 100%
+  Tempfile successfully deleted.
+
+20 -===- J:\Mike Patton\Lossless music\2009.06.13 - Faith No More - Greenfield Festival, Airport, Interlaken, Switzerland (Radio)\20. Cuckoo For Caca.flac
+  Extracted successfully
+  Conclusion: this track is CDDA with probability 100%
+  Tempfile successfully deleted.
+
+
+Finished at: воскресенье, 07. 03. 2010. - 11:32.14 (operation time: 0:13.09)

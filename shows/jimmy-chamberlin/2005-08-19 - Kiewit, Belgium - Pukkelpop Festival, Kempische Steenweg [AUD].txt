@@ -1,0 +1,47 @@
+JIMMY CHAMBERLIN COMPLEX
+2005-08-19
+Pukkelpop Festival
+Hasselt, Belgium
+
+- SOURCE -
+DAT Audience [Soundman OKM-IIr > Sony SBM-1 > Sony PCM-M1]
+
+- LOCATION -
+5 meters from right stacks, first row.
+
+- TRANSFER -
+DAT master > Sony DTC-ZE700 DAT > Terratec EWX 24/96 > WaveLab V5.0a
+  > Digital Editing > FLAC V1.1.2
+
+- EDITING -
+EQ in Sony Sound Forge V7.0 via Steinberg FreeFilter V1.1
+Volume boost and slight compression in T-RackS V2.0
+Fades in Steinberg WaveLab V5.0a
+Track splits in CD Wave Editor V1.71
+Resampling: 48.0 kHz > 44.1 kHz in Adobe Audition V1.5 (setting 999)
+
+- SETLIST -
+01 Intro
+02 Streetcrawler
+03 Life Begins Again
+04 P.S.A.
+05 ?
+06 Newerwaves
+07 Time Shift
+08 Cranes of Prey
+09 Fred [Tony Williams Lifetime]
+10 Loki Cat
+11 Owed to Darryl
+
+- FINGERPRINTS -
+jcc2005-08-19t01.flac:7fdb7aa2feabc136d3c9e5f0cb067739
+jcc2005-08-19t02.flac:d24ce28892e8d581b6a85e586d289260
+jcc2005-08-19t03.flac:c7c88f3e8fedfc8a06dabfbdb906f105
+jcc2005-08-19t04.flac:3ce949e098145b22c3309da460ef15b4
+jcc2005-08-19t05.flac:d8e35a23a41ab9e463e48ee3f139c5f7
+jcc2005-08-19t06.flac:871c710db2f817f87112b00e4beb0db6
+jcc2005-08-19t07.flac:a98b139077bb2282f79f11bb4b9aa6a8
+jcc2005-08-19t08.flac:4eb6dd8f7a1fb470acb7c1108348ad9d
+jcc2005-08-19t09.flac:e8af80f6a139dd36913fce93ca5bad0b
+jcc2005-08-19t10.flac:57a5b462eedb8fd5e4fa516990b57902
+jcc2005-08-19t11.flac:cad27ebaf34cd397183a5776f6e865f1

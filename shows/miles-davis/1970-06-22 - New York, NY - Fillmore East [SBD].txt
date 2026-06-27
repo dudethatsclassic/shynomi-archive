@@ -1,0 +1,38 @@
+Miles Davis
+06/20/70
+Fillmore East, NYC
+
+Soundboard > Master Reel > DAT > CD 
+Source CD > EAC > .wav > Flac Frontend > FLAC
+
+One CD total time 57:27
+
+This is one continuous piece of music.
+Whomever tracked the source CD randomly placed track markers every 5
+minutes, so that tracks 1 - 11 are all 5:00 or 4:59 and the last track is
+2:27.  The source information is accurate, though.  One listen will confirm
+it for the listener.
+
+Setlist from etree:
+1. The Mask
+2. It's About That Time
+3. I Fall in Love Too Easily 
+4. Sanctuary
+5. Bitches Brew
+6. Willie Nelson 
+7. The Theme
+http://db.etree.org/lookup_show.php3?shows_key=70984
+
+FLAC Fingerprint:
+Track01.flac:ab09c0f40443927fcd8e609792d08031
+Track02.flac:cba8558775c0c7917e7c4c050ba0b99f
+Track03.flac:4054fbae40efbba8324482aec38a87b4
+Track04.flac:ad4e0ebd9ce55096652aed60bab21c7f
+Track05.flac:5e4fee826e77cd2ba24505860b47402d
+Track06.flac:66cd200a8d52da7557cd562dbbd2e3d0
+Track07.flac:de171e480dddddd1afec61e24c1b9e54
+Track08.flac:96673bdff13a18435d711e0af23934a1
+Track09.flac:137feb0083e3a195b1475c59239cf7b7
+Track10.flac:aff2cf4281e253d8fec9861a6d4036b4
+Track11.flac:e523ee6e7b919f737077862a95b3e8c0
+Track12.flac:a5d04441612e03c3fe1c92f7c6762f94

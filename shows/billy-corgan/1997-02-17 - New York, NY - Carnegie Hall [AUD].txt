@@ -1,0 +1,18 @@
+Billy Corgan
+2/17/1997
+Carnegie Hall
+New York, NY
+
+Taper:            unknown
+Source:           DAT? > ANA-1(Asselin) > DDC-0
+Conversion:       DDC-0 > Sony PCM-M1 > 7-pin to coax > Delta Dio 2496 > Adobe Audition 2.0
+Editor:           Andrew Fogelsong
+FLAC:             master wav's > CD Wave Editor 1.95.1 > FLAC (level 8)
+Notes:
+
+********************************************************************************
+	                    SPREAD THE MUSIC
+********************************************************************************
+
+1. Blissed and Gone (Billy Solo)
+2. Death Don't Have No Mercy [Davis] (Billy Solo)

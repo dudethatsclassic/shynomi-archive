@@ -1,0 +1,53 @@
+METALLICA
+
+Venue: City Hall
+City: Sheffield
+Country: England
+Date: 18.09.1986
+Source: Audience
+
+Comments: A remaster done by the taper, "Gig addiction".
+
+Covers included.
+
+CD1
+01. Ecstasy Of Gold / Battery
+02. Master Of Puppets
+03. For Whom The Bell Tolls
+04. Welcome Home (Sanitarium)
+05. Ride the Lightning
+06. Bass Solo
+07. Whiplash
+08. The Thing That Should Not Be
+09. Fade to Black
+
+CD2
+01. Seek & Destroy
+02. Creeping Death
+03. The Four Horsemen
+04. Kirk Solo
+05. Am I Evil?
+06. Damage Inc
+07. Fight Fire With Fire
+
+FLAC Fingerprint:
+Disc 1:
+Track01.flac:927d83eedf8c968eaf918c83ccfedfbe
+Track02.flac:50c566460f5e76f0781eb5aaff36f4bc
+Track03.flac:771624218088ea35a5039a2824a76198
+Track04.flac:65c1fb8a9594207729f682cbdc7efd40
+Track05.flac:f141fd649fd38a281817501dbf41ce68
+Track06.flac:2b8ae693b658b99f6cebd5b646c15d28
+Track07.flac:abc47df650e382e603d844a410ecc8d7
+Track08.flac:7f663a7822f76a2be9115c3a7c186f11
+Track09.flac:6d621aa18030b28d1135886808106fad
+
+Disc 2:
+Track01.flac:bea8264fba6c06c8b96e742492276fcb
+Track02.flac:94d29336d9a215ab9cf9e78cc23aba5a
+Track03.flac:a94b7af92f237fbcd445634e0090cb76
+Track04.flac:72133dd943243ebbf9fc1d6597158481
+Track05.flac:287170ae3d5c15da8e095dc88ef9714d
+Track06.flac:3e9a833029118e235d7b92d1902f798f
+Track07.flac:141216a74c25feb83e53ececb634fdad
+

@@ -1,0 +1,86 @@
+Local H
+May 9, 2008
+The Beat Kitchen
+Chicago, IL
+
+****************************** 16-bit/44.1kHz version ******************************
+************************** 24-bit/48kHz version available **************************
+
+Source: 	DPA 4022 > Oade Warm Mod Fostex FR-2LE (@ 24-bit/48kHz) 
+Lineage: 	Oade Warm Mod Fostex FR-2LE > USB 2.0 > Sound Forge v8.0 > 
+         	CD Wave v1.93.3 > FLAC Frontend v1.7.1 > .flac (Level 8) 
+Location: 	DFC, 20' back from stage, elevated 8' on stand  
+         	Mic configuration: ORTF with shockmount & windscreens
+
+Taped & Transferred by James Bonaiuto <cd2go@hotmail.com>
+LMA Upload by Charles Dewey Cole, IV <live2cd@hotmail.com>
+
+------------------------------------------------------------------------------------
+Disc 1 of 1:                                                              (74:37.44)
+------------------------------------------------------------------------------------
+
+01. Intro                                                                 (00:13.37)
+02. All-Right (Oh, Yeah)                                                  (03:59.39)
+03. "Cha!" Said The Kitty                                                 (02:35.11)
+04. Lucky                                                                 (01:06.06)
+05. Hit The Skids Or: How I Learned To Stop Worrying And Love The Rock    (04:12.41)
+06. 500,000 Scovilles                                                     (01:56.00)
+07. What Can I Tell You?                                                  (05:19.17)
+08. Fine And Good                                                         (04:10.42)
+09. Lead Pipe Cinch                                                       (01:12.56)
+10. She Hates My Job                                                      (03:30.67)
+11. Stoney                                                                (02:12.62)
+12. Laminate Man                                                          (03:00.01)
+13. Cool Magnet                                                           (05:37.05)
+14. All The Kids Are Right                                                (03:33.49)
+15. Deep Cut                                                              (02:48.30)
+16. Lucky Time                                                            (05:02.53)
+17. ~Encore~                                                              (03:24.57)
+18. Hey, Rita *                                                           (06:21.13)
+19. Smothered In Hugs ^                                                   (07:09.25)
+20. 25 Or 6 To 4 %                                                        (04:04.56)
+21. Goodnight #                                                           (03:06.52)
+------------------------------------------------------------------------------------
+Notes:
+
+* = segues into I've Got A Feeling, Originally Recorded by The Beatles 
+^ = Originally Recorded by Guided By Voices
+% = Originally Recorded by Chicago
+# = Originally Recorded by Cheap Trick
+
+------------------------------------------------------------------------------------
+Sound Forge v8.0 Notes:
+
+- Normalized audience claps to peak of music
+- Normalized peak level to -1dB
+- Faded I/O at beginning/end of show
+- Resample: Interpolation accuracy @ 4 with anti-alias filter
+- Dither: Triangular   Noise shaping: Equal loudness contour
+
+------------------------------------------------------------------------------------
+FLAC Fingerprint:
+
+localh2008-05-09t01.dpa4022.fr2le.flac:d124f0da01d82b9769d824ca40c065c3
+localh2008-05-09t02.dpa4022.fr2le.flac:03b74a23da93e468d3af8df884e2faad
+localh2008-05-09t03.dpa4022.fr2le.flac:858f77fb456a0876381c9647d10066cb
+localh2008-05-09t04.dpa4022.fr2le.flac:6da7580980384c8d10db2269c5a3737a
+localh2008-05-09t05.dpa4022.fr2le.flac:2d5cb631d70cf21d7ca257e66d55797e
+localh2008-05-09t06.dpa4022.fr2le.flac:a8d153d3a20c6bac643846c79e0cccca
+localh2008-05-09t07.dpa4022.fr2le.flac:e21e506ad03dba4439fc4f1106fd304a
+localh2008-05-09t08.dpa4022.fr2le.flac:fbe16e22af298c2ad8c12b55cd5f245f
+localh2008-05-09t09.dpa4022.fr2le.flac:8daa9d403ef7a8bbaff326ca12ca0cb4
+localh2008-05-09t10.dpa4022.fr2le.flac:7c7628f6dcad44fe515523432ed582e5
+localh2008-05-09t11.dpa4022.fr2le.flac:ff194beda30741b87eda53852b28a535
+localh2008-05-09t12.dpa4022.fr2le.flac:8f8dc4c34f1b47facbb6a72108eb3e7d
+localh2008-05-09t13.dpa4022.fr2le.flac:96377d768e200696aa2271584227c851
+localh2008-05-09t14.dpa4022.fr2le.flac:d309875c36e6d51d69edad0566798ded
+localh2008-05-09t15.dpa4022.fr2le.flac:4569f47d50a174fd0ca69409e3504608
+localh2008-05-09t16.dpa4022.fr2le.flac:a0caae3396758a8dabfe713e1aa1f2bf
+localh2008-05-09t17.dpa4022.fr2le.flac:5ab531b9c46a3f59fee76f4f15ac92aa
+localh2008-05-09t18.dpa4022.fr2le.flac:819c2959b7ab8cb16c0ef4e7a5f656c0
+localh2008-05-09t19.dpa4022.fr2le.flac:b16efeca423d654545a4992089546c2e
+localh2008-05-09t20.dpa4022.fr2le.flac:f6305e34bcaf95baa2fde70a1bf45768
+localh2008-05-09t21.dpa4022.fr2le.flac:fd62973144e8db2ec25e53be86f02e31
+
+------------------------------------------------------------------------------------
+For more info on Local H, please visit: www.localh.com

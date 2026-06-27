@@ -1,0 +1,83 @@
+Red Hot Chili Peppers
+2022-06-10
+Goffertpark
+Nijmegen, The Netherlands
+
+Equipment: CAFS (omnidirectional) > PCM-M10 (LPCM / 44.1 kHz / 16 bit)
+Lineage: PCM recorder > WAV > Audacity (adjust volume, EQ, fade in/out) > AIFF > xACT > FLAC (level 8)
+Format: CDR/FLAC
+Location: very far away from stage
+Recorded, edited & uploaded by a_doubt
+
+Track list:
+01 Intro Jam                            02:52
+02 Can't Stop (followed by drum solo)   05:49
+03 Dani California                      05:44
+04 I Like Dirt                          03:16
+05 Black Summer *                       02:09
+06 Scar Tissue *                        03:16
+07 One Way Traffic (Live debut)         05:19
+08 Snow (Hey Oh)                        05:59
+09 Suck My Kiss                         05:17
+10 Hard to Concentrate                  04:40
+11 Tell Me Baby **                      06:13
+12 Here Ever After                      03:32
+13 Californication Intro                02:22
+14 Californication (followed by jam)    07:48
+15 These Are the Ways                   05:34
+16 Soul to Squeeze                      05:16
+17 Give It Away                         05:07
+18 Encore Break                         03:26
+19 I Could Have Lied                    05:00
+20 By The Way                           04:10
+
+* fades out resp. in (not recorded completely)
+** followed by a tease of "The Guns of Brixton" by The Clash
+
+Duration: 01:32:57 
+For burning this to CD, tracks 01 - 14 and 15 - 20 fit to one CD each.
+
+
+Notes:
+Almost 10 years after I had seen the Red Hot Chili Peppers with Josh Klinghoffer, they returned to the Goffertpark with John Frusciante in 2022 and spent a lot of good vibes. The place is huge and it was filled with about 60,000 people. As I wasn't willing to stand too close to other people, I took a place very far away from stage on the right side. People around me were dancing and having a good time, but they were way to chatty in my opinion. I changed places twice, but it did not get much better, folks had too much beer and talked too much, you can hear them particularly at quiet parts, please excuse. The sound of stepping on plastic cups is also annoying.
+
+The setlist was really good, you don't get "Soul To Squeeze" and "I Could Have Lied" in one show often, I guess. In return they skipped "Under The Bridge" which was on the setlist, I think Anthony saying "we owe you another song" at the end of the show refers to this. The Red Hot Chili Peppers played 4 songs off their new album "Unlimited Love", and pleased longtime fans with "Suck My Kiss" or "I Like Dirt". One highlight for me was "Hard To Concentrate" (from the album "Stadium Arcadium"), which had its live debut played by John Frusciante. During "Black Summer" something went wrong with my recorder, so part of this song and the following "Scar Tissue" got lost. The stage show with lights, videos and effects was amazing, it would have been even better at night, but we got a lovely sunset. If you get the chance to see the band live, go ahead :) 
+
+Please do not convert the recording to mp3 or other lossy formats unless for personal use. And please do not sell.
+Enjoy!
+
+Performing for you:
+Anthony Kiedis ¥ vocals
+Flea ¥ bass, backing vocals
+Chad Smith ¥ drums
+John Frusciante ¥ guitar, backing vocals
+Chris Warren ¥ keyboard, percussion
+
+Links:
+https://redhotchilipeppers.com/tour/
+https://twitter.com/ChiliPeppers
+https://www.facebook.com/ChiliPeppers
+https://www.youtube.com/RedHotChiliPeppers
+https://twitter.com/a_doubt
+
+Fingerprints:
+rhcp20220610_01_intro.flac:a32d29d939f439101efd72cfd9dfc1f3
+rhcp20220610_02_cant_stop.flac:a121c457b9e0ffb73e3b6e2ecd324192
+rhcp20220610_03_dani.flac:21c571ed28b101a4c530435043dfb6ee
+rhcp20220610_04_i_like_dirt.flac:3b7c88dbe873b7ee3ba1d62c895d9737
+rhcp20220610_05_black_summer_fade.flac:a4c8b6969317de5238b69371b1f4ce2d
+rhcp20220610_06_scar_tissue_fade.flac:7cac9a89758b91be9c4efd0b525c7ef2
+rhcp20220610_07_one_way_traffic.flac:8ddf8c9ce9e80b455bff10b689990ab1
+rhcp20220610_08_snow.flac:764f2463c585b008c4e23bd1e9532ed6
+rhcp20220610_09_suck_my_kiss.flac:44952edb8fcdfd597b46c83af0e8d536
+rhcp20220610_10_hard_to_concentrate.flac:d7c0d8693bb40512c422d3945ebfcc0d
+rhcp20220610_11_tell_me_baby.flac:3a6102723860ed437ea00db7816470db
+rhcp20220610_12_here_ever_after.flac:6f85b302786c352dadadb781dc5d232d
+rhcp20220610_13_cali_intro.flac:6a7ddf2d0d47c0553e357174d49c4a7f
+rhcp20220610_14_californication.flac:4b655542d734e0af018e69ea1ab1f5bb
+rhcp20220610_15_these_are_the_ways.flac:775193b060fd634e1cde3e04cd15b555
+rhcp20220610_16_soul_to_squeeze.flac:3808a63c6c247d4ea223e84b6806203e
+rhcp20220610_17_GIA.flac:06c76e137b748b364a4ad78bccdccb4f
+rhcp20220610_18_encore_break.flac:f5dccfb7074b4fbba4f28e2862991b78
+rhcp20220610_19_ICHL.flac:3b8cca1a00fecb4e28f6c4ffe4822171
+rhcp20220610_20_BTW.flac:a7e485d4cca981219096ca4147a5977b

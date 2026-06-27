@@ -1,0 +1,49 @@
+PUSCIFER
+February 15, 2009
+Pearl
+Las Vegas, NV
+
+Maynard James Keenan - vocals
+Tim Alexander - drums
+Johnny Polonsky - guitar/keyboards
+Gil Sharone - drums
+Juliette Commagere - vocals/keyboards
+Jeff Friedl - drums
+Rani Sharone - bass
+Laura Milligan - vocals
+
+Source 1: AKG CK91 (mod) > Audio Technica 8531 (mod) > Edirol R-09HR
+Location: Sec. 203 Row J (10th row center mezzanine)
+Taper: CPS
+Lineage: WAV(M) [24/44.1] > FLAC
+
+Source 2: SBD > ? > Sennheiser IEM > iRiver H120
+Location: Sec. 203 Row J (1oth row center mezzanine)
+Taper: CPS
+Lineage: WAV(M) [44.1] > FLAC
+
+Mix: WAV(M) + WAV(M) => Cool Edit Pro > WAV [16/44.1] > FLAC
+Notes: none
+
+01 - intro
+02 - video (What is Puscifer?)
+03 - Momma Sed
+04 - Revelation 22:20
+05 - Drunk With Power
+06 - video (Puscifer Chronicles)
+07 - video (What is Puscifer?)
+08 - Indigo Children
+09 - Dozo
+10 - The Undertaker
+11 - Vagina Mine
+12 - video (Puscifer Chronicles)
+13 - Rev. Maynard
+14 - video (What is Puscifer?)
+15 - Polar Bear
+16 - The Mission
+17 - Trekka
+18 - Sour Grapes
+19 - Queen B
+
+
+Compiled January 2020 by CPS

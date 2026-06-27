@@ -1,0 +1,78 @@
+Miles Davis Sextet
+Fillmore West Auditorium
+San Francisco, CA
+April 9, 1970
+
+Miles Davis, trumpet
+Chick Corea, electric and acoustic piano
+Steve Grossman, soprano saxophone
+Dave Holland, electric and acoustic bass
+Jack DeJohnette, drums
+Airto Moreira, percussion
+
+Source:
+FM broadcast > Master reel-to-reel > TDK SA-C90 cassette tape on Nakamichi Dragon
+
+CDR/ SHN Transfer:
+- Cassette > hard drive using Sony R-500 DAT machine with Super Bit Mapping as A/D converter at 44.1 kHz-Front/back ends trimmed and audio enhanced using SoundForge 6.0 audio tools
+- Cuesheet prepared and tracks split with CD Wave
+- MKW Audio Compression Tool 0.97 Beta 1 >SHN with seek files appended > 
+
+Goody's additional lineage:
+dBpoweramp (WAV) > Cool Edit Pro (Pitch Bender +47 cents) > Trader's Little Helper (FLAC)
+
+1. Directions (J. Zawinul) - 6:58
+2. Miles Runs the Voodoo Down (M. Davis) - 10:07
+3. This (C. Corea) - 4:31
+4. It's About That Time (M. Davis) - 11:58
+5. I Fall in Love Too Easily (S. Cahn-J. Styne) - 1:59
+6. Sanctuary (W. Shorter-M. Davis) - 3:19   	
+7. Spanish Key (M. Davis) - 13:01
+8. Bitches Brew / The Theme (M. Davis) - 13:48
+
+Total time = 1 hour 5 minutes 49 seconds
+
+-------------------------------------------------------------------------
+md5
+393fad84add981761d4a65de47d6eaa8 *01 Directions.flac
+e62d26f21035910e2f0a9cf06c71ddf0 *02 Miles Runs The Voodoo Down.flac
+dcedc6eed1e4e9cf63199d247e906078 *03 This.flac
+920688de0154b01efb98eb208f2f5888 *04 It's About That Time.flac
+5d8fefb14e5cb722fc08a4ab66ac5d3f *05 I Fall In Love Too Easily.flac
+3f22808dcc039f4e697b3fe7f7bc5b7f *06 Sanctuary.flac
+78fcf63d0a0f725a9a7f054a7253bf8d *07 Spanish Key.flac
+5169b38300fccefa051b64b40e156c2a *08 Bitches Brew - The Theme.flac
+
+ffp
+01 Directions.flac:0defe7c2afde875a454562be5fbdab38
+02 Miles Runs The Voodoo Down.flac:a5619f3b623b3bea58858ee106c7d61a
+03 This.flac:6abf3eae2f218360dbb5fbf34660cc10
+04 It's About That Time.flac:c02c9195cb0968a29794803e1b6b90c2
+05 I Fall In Love Too Easily.flac:e4e2e69858b791831dda7e244455f54b
+06 Sanctuary.flac:b2e991e801ea3af7cd63fe60d4d53980
+07 Spanish Key.flac:3e8b6db25ae142f628873032ab5ac57b
+08 Bitches Brew - The Theme.flac:ef66d521560ff5a9e0171e46fbddc43a
+
+st5
+0defe7c2afde875a454562be5fbdab38  [shntool]  01 Directions.flac
+a5619f3b623b3bea58858ee106c7d61a  [shntool]  02 Miles Runs The Voodoo Down.flac
+6abf3eae2f218360dbb5fbf34660cc10  [shntool]  03 This.flac
+c02c9195cb0968a29794803e1b6b90c2  [shntool]  04 It's About That Time.flac
+e4e2e69858b791831dda7e244455f54b  [shntool]  05 I Fall In Love Too Easily.flac
+b2e991e801ea3af7cd63fe60d4d53980  [shntool]  06 Sanctuary.flac
+3e8b6db25ae142f628873032ab5ac57b  [shntool]  07 Spanish Key.flac
+ef66d521560ff5a9e0171e46fbddc43a  [shntool]  08 Bitches Brew - The Theme.flac
+
+shntool
+    length     expanded size   cdr  WAVE problems filename
+     6:58.61       73878716    ---   --   ---xx   01 Directions.flac
+    10:07.47      107185388    ---   --   ---xx   02 Miles Runs The Voodoo Down.flac
+     4:31.52       47926748    ---   --   ---xx   03 This.flac
+    11:58.44      126758732    ---   --   ---xx   04 It's About That Time.flac
+     1:59.39       21083372    ---   --   ---xx   05 I Fall In Love Too Easily.flac
+     3:19.37       35190668    ---   --   ---xx   06 Sanctuary.flac
+    13:01.56      137900156    ---   --   ---xx   07 Spanish Key.flac
+    13:48.13      146089820    ---   --   ---xx   08 Bitches Brew - The Theme.flac
+    65:45.49      696013600 B                     (totals for 8 files, 0.4354 overall compression ratio)
+
+There were no sector boundary errors.

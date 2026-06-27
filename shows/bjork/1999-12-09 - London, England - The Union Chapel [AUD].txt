@@ -1,0 +1,64 @@
+Björk and the Brodsky Quartet
+1999-12-09
+The Union Chapel
+London/Islington, England
+
+Audience MD > ? > CDR > 
+EAC (Secure mode) > wav > Flac Frontend 
+(level 7, align sector boundaries) > flac
+
+
+Setlist
+
+CD1
+1.  Unravel
+2.  All Neon Like
+3.  Cover Me
+4.  I've Seen It All
+5.  Gotham Lullaby
+6.  Come To Me
+7.  Who Do You Think You Are?
+8.  The Modern Things
+9.  Hyperballad
+10. Like Someone In Love
+11. Sod Off
+12. 5 Years
+
+CD2
+1.  Why?
+2.  Possibly Maybe
+3.  The Anchor Song
+4.  Jóga
+5.  Bachelorette
+6.  You've Been Flirting Again
+7.  Play Dead
+8.  Hunter
+9.  Anyone Who Had A Heart
+10. Downtown
+11. It's Oh So Quiet
+
+
+Flac Fingerprints:
+bjork1999-12-09d1t01.flac:42709d95c98d55dd674ca0b21fa217dc
+bjork1999-12-09d1t02.flac:bd2ae3549456760adaade1987e1cc6cb
+bjork1999-12-09d1t03.flac:bcf7c20b5320d8c117e524f9560898e8
+bjork1999-12-09d1t04.flac:5a0915399deca0c86f542e290568fec1
+bjork1999-12-09d1t05.flac:e0b351d28487dec3e212f897d7548079
+bjork1999-12-09d1t06.flac:df2b67d8774af1177c12d418fd5db2a3
+bjork1999-12-09d1t07.flac:9f899e36e2604a117b630b95a8a3c656
+bjork1999-12-09d1t08.flac:eb5ee6d08226a57934dde46798b4b19f
+bjork1999-12-09d1t09.flac:07656992a16a3a9bfc5bbb5982c751b7
+bjork1999-12-09d1t10.flac:429025c2c9638d2ea3a19593ab6b6c72
+bjork1999-12-09d1t11.flac:a1e10dda878bfbdbf8d7f8d6bed657d7
+bjork1999-12-09d1t12.flac:e7f0c0d74f1bd8bb87caca61f954c663
+bjork1999-12-09d2t01.flac:25a5e8ed8d2d698bebb0a418beb8043f
+bjork1999-12-09d2t02.flac:f6ee615661bd18d7b8d3e936cbb4f47a
+bjork1999-12-09d2t03.flac:bdb6f7c428fbf0dd02ec43ce020ab47a
+bjork1999-12-09d2t04.flac:732927c6cfc938190600fd9f1bb9b1fe
+bjork1999-12-09d2t05.flac:e44674e22e3a4a38d817affe790dd3a2
+bjork1999-12-09d2t06.flac:cc48581df0c8b2cb5d0e29a4f1f2233f
+bjork1999-12-09d2t07.flac:b89c6da48dbc80f5c44752067acbaa56
+bjork1999-12-09d2t08.flac:84e9f77373e9386193cf7ecc88bd91bb
+bjork1999-12-09d2t09.flac:3aa2d521b5c2fe0d4a4121f5bfefa052
+bjork1999-12-09d2t10.flac:6ce109fc7c7d6cbc8537567b7bb2303e
+bjork1999-12-09d2t11.flac:ec1d88e36d662f75bacf0620ebba8e99

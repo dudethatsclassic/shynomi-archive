@@ -1,0 +1,99 @@
+Miles Davis Quintet
+11-03-1969 (Early)
+Salle Pleyel
+Paris, France
+
+Project ID - LL153
+
+Source: FM Broadcast
+Lineage: ORTF radio broadcast > ?? > Disk 7 of the Miles-trees Lost Quintet Tree > 
+ripped with unknown software > wave > shn
+
+Miles Davis (tpt); Wayne Shorter (ss, ts); Chick Corea (el-p); 
+Dave Holland (b, el-b); Jack DeJohnette (d)
+
+disc 1
+
+d1t01. Directions
+d1t02. Bitches Brew
+d1t03. Paraphernalia
+d1t04. Riot
+d1t05. I Fall in Love Too Easily
+d1t06. Sanctuary
+d1t07. Miles Runs the Voodoo Down 
+d1t08. The Theme 
+ 
+-------------------------------------------------------
+
+Notes:
+
+- The sound quality is pretty much identical on this from ll152. This version is shn
+files and it's tracked slightly different with I Fall in Love Too Easily and Sanctuary
+tracked as seperate tracks. Tough call as to which you prefer. 
+
+- "The tunes from the first concert are wrongly indexed on JMY: 1. Directions 
+(7:54); 2. Bitches Brew (14:08); 3. Paraphernalia (13:18); 4. Riot (2:06); 5. 
+Sanctuary (6:10); 6. Miles Runs the Voodoo Down (19:06); 7. The Theme (0:53)."
+- Credit to Peter Losin, http://www.plosin.com/"
+
+- QC done by Bgreen
+
+md5
+c6f52ecd054914ce3bbae4e0e79be4f7 *md1969-11-03E.LL153.d1t01.shn
+16a7af9279d27f47d60fa45a5b00d88b *md1969-11-03E.LL153.d1t02.shn
+8cdac27e6900dd2f8a6cf009adc2117f *md1969-11-03E.LL153.d1t03.shn
+07b6062961c98d1eb25a833d86ed6910 *md1969-11-03E.LL153.d1t04.shn
+7042c4a96357bd568fa776ae8af4867d *md1969-11-03E.LL153.d1t05.shn
+0771d5e5b13ae9d03f4d4d80cf1fac4f *md1969-11-03E.LL153.d1t06.shn
+8773d1ce5f19fb3ca2564fe23d5e65cb *md1969-11-03E.LL153.d1t07.shn
+ac351cc6118601689bc09fa125aa9f87 *md1969-11-03E.LL153.d1t08.shn
+
+st5 
+be5f9f71e9ed37c581be335deb48bf98  [shntool]  md1969-11-03E.LL153.d1t01.shn
+91a0d866c1bee43ca9d28f47a98406db  [shntool]  md1969-11-03E.LL153.d1t02.shn
+ebbda3b4ba5d24d2819c4770dbdc8ae0  [shntool]  md1969-11-03E.LL153.d1t03.shn
+a66251e59b03d85f973b0188aa7b4afa  [shntool]  md1969-11-03E.LL153.d1t04.shn
+d48e964a3d410e8a58fed87eedf6d533  [shntool]  md1969-11-03E.LL153.d1t05.shn
+1d4ee305026828564546545f30311589  [shntool]  md1969-11-03E.LL153.d1t06.shn
+e020ef9596f82d337a34e5c9525c810e  [shntool]  md1969-11-03E.LL153.d1t07.shn
+883ee82fe33349f96a65c620deb29034  [shntool]  md1969-11-03E.LL153.d1t08.shn
+
+shntool
+length     expanded size   cdr  WAVE problems filename
+     8:00.71       84839036    ---   --   ---xx   md1969-11-03E.LL153.d1t01.shn
+    14:15.35      150904364    ---   --   ---xx   md1969-11-03E.LL153.d1t02.shn
+    12:56.32      136961708    ---   --   ---xx   md1969-11-03E.LL153.d1t03.shn
+     2:50.71       30155036    ---   --   ---xx   md1969-11-03E.LL153.d1t04.shn
+     2:06.57       22360508    ---   --   ---xx   md1969-11-03E.LL153.d1t05.shn
+     4:11.74       44450492    ---   --   ---xx   md1969-11-03E.LL153.d1t06.shn
+    19:17.11      204120716    ---   --   ---xx   md1969-11-03E.LL153.d1t07.shn
+     0:47.01        8293196    ---   --   ---xx   md1969-11-03E.LL153.d1t08.shn
+    64:26.52      682085056 B                     (totals for 8 files, 0.5646 overall compression ratio)
+
+spectral analysis from TLH
+md1969-11-03E.LL153.d1t01.wav:  track looks like CDDA with probability 99%
+md1969-11-03E.LL153.d1t02.wav:  track looks like CDDA with probability 99%
+md1969-11-03E.LL153.d1t03.wav:  track looks like CDDA with probability 100%
+md1969-11-03E.LL153.d1t04.wav:  track looks like CDDA with probability 100%
+md1969-11-03E.LL153.d1t05.wav:  track looks like CDDA with probability 100%
+md1969-11-03E.LL153.d1t06.wav:  track looks like CDDA with probability 100%
+md1969-11-03E.LL153.d1t07.wav:  track looks like CDDA with probability 100%
+md1969-11-03E.LL153.d1t08.wav:  track looks like CDDA with probability 100%
+
+old md5 
+c6f52ecd054914ce3bbae4e0e79be4f7 *Track01.shn
+6a4d3e95bd3fef5ee2221bbbaab3c472 *Track01.skt
+16a7af9279d27f47d60fa45a5b00d88b *Track02.shn
+4b2fd283d320ee0d3186f8d9f0ff74f8 *Track02.skt
+8cdac27e6900dd2f8a6cf009adc2117f *Track03.shn
+1382d909b25a548be679fbafa3187f4a *Track03.skt
+07b6062961c98d1eb25a833d86ed6910 *Track04.shn
+0009b3539796e58f23d80c7be6a5b61e *Track04.skt
+7042c4a96357bd568fa776ae8af4867d *Track05.shn
+2016968cc317d0a8822417c7d4328eef *Track05.skt
+0771d5e5b13ae9d03f4d4d80cf1fac4f *Track06.shn
+83b4c043c75489f5425e4caf4299f40f *Track06.skt
+8773d1ce5f19fb3ca2564fe23d5e65cb *Track07.shn
+43399dd8e68edd86944cac96016a6b02 *Track07.skt
+ac351cc6118601689bc09fa125aa9f87 *Track08.shn
+edad711604cf6e98e0ed3c084e056590 *Track08.skt

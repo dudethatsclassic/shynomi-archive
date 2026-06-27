@@ -1,0 +1,44 @@
+Charles Mingus and the Jazz Workshop
+Jesse Hall
+Columbia, MO
+May 10, 1975
+
+Charles Mingus b
+George Adams ts,voc
+Jack Walrath tpt
+Don Pullen p
+Dannie Richmond d
+
+Source: Radio broadcast > reel-to-reel tape > CD > EAC v. 1.0 beta 2 (extraction and FLAC encoding) > FLAC compression level 8
+Extraction and encoding: Jack Warner (jackmw@gmail.com), August 10, 2011
+
+Disc one
+d1t01 intro [0:00:21.50]
+d1t02 Peggy's Blue Skylight [0:18:17.23]
+d1t03 Remember Rockefeller At Attica [0:11:55.27]
+d1t04 Duke Ellington's Sound Of Love [0:22:47.53]
+d1t05 accouncement [0:00:08.10]
+Total time: 0:53:30.13
+
+Disc two
+d2t01 announcement [0:00:13.14]
+d2t02 Foe Harry Carney [0:13:39.40]
+d2t03 Opus 3 [0:27:11.65]
+d2t04 Goodbye Porkpie Hat [0:06:41.21]
+d2t05 Devil Blues [0:10:32.07]
+d2t06 Skyliner [0:01:06.53]
+d2t06 announcement [0:00:50.71]
+Total time: 1:00:15.46
+
+cmingus1975-05-10d1t01.flac:c1b6d4b87aad434d6314a9033a8fbee3
+cmingus1975-05-10d1t02.flac:b6901de584b18a7c477547589c123119
+cmingus1975-05-10d1t03.flac:fbfd9b96caa2e4e5097f2994e0f66eef
+cmingus1975-05-10d1t04.flac:e10bd2bff246fd13effa599adfad441f
+cmingus1975-05-10d1t05.flac:6b210b70402c896a745287dc468124da
+cmingus1975-05-10d2t01.flac:785bc67e3d6a3fd4747c65ee9582b0c0
+cmingus1975-05-10d2t02.flac:12b48b197c5822615b81d854ef777ac5
+cmingus1975-05-10d2t03.flac:9637c68788f45a21aa589373de0a85c4
+cmingus1975-05-10d2t04.flac:fb26463c3a6dc619a855d473ec31b8bc
+cmingus1975-05-10d2t05.flac:78a8b40b6f3b8598a7fdd885b3260a94
+cmingus1975-05-10d2t06.flac:ee707c1173e5f5a7d5e1ba6787bcb584
+cmingus1975-05-10d2t07.flac:7d9c00c4efc52b6592152af85a95a811

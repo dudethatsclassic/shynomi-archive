@@ -1,0 +1,119 @@
+Ray Charles
+Ventura Theatre
+Ventura, California
+September 1, 1991 (late show)
+
+Ray Charles - vocals, piano
+Al Jackson & the Ray Charles Orchestra
+The Raelettes - vocals
+
+01. Opening Instrumental (Ray Charles Orchestra)
+02. Then We'll Be Home
+03. Georgia
+04. Mississippi Mud
+05. Come Rain Or Come Shine
+06. Teardrops From My Eyes
+07. If You Wouldn't Be My Lady >
+08. She Know
+09. Chain of Fools
+10. Crying Time
+11. Smack Dab In The Middle
+12. Then I'll Be Over You  >
+13. I Can't Stop Loving You
+14. Lay Around And Love On You >
+15. What'd I Say
+16. Closing Instrumental (Ray Charles Orchestra)
+[61:55]
+
+Recorded by "Flex" Hamilton 30 feet from stage, left-center 
+2 Sennheiser MKH406-tu > Sony D5M with Dolby using a single TDK MA90 cassette
+
+Transfer:
+Nakamichi CR7A (azimuth adjusted, bias @ 70usec and Dolby B) > Korg MR2000-S @ 1 bit 5.6 MHz DSDIFF
+AudioGate (24-96) > Har-Bal 3.7 & iZotope RX6 advanced > CD Wave > AudioGate Aqua (16-44) > TLH
+
+Ticket stub notes this as the 10:30 show and without an opening act it's a good bet there was an 8:00 show also.
+Introduces The Raelettes before "Chain of Fools" and they stay for the rest of the show.
+Tape flip after "Crying Time" had some applause added to smooth out the abrupt break.
+Applause was also added to smooth out the abrupt stop at the end of the show.
+One damaged spot on the tape and it's only a blip but heard twice.
+
+For historical reference only and not intended for resale or any commercial use
+
+Enjoy…
+-M- (March 2020)
+
+FLYING M PRODUCTIONS
+
+
+Logfiles
+
+flac conversion
+
+Ray Charles-1991-09-01(late show)-tr01.wav:  successfully encoded to 'Ray Charles-1991-09-01(late show)-tr01.flac' (ratio = 0.608; foreign metadata 'LIST' removed; no need for sector alignment).
+Ray Charles-1991-09-01(late show)-tr02.wav:  successfully encoded to 'Ray Charles-1991-09-01(late show)-tr02.flac' (ratio = 0.588; foreign metadata 'LIST' removed; no need for sector alignment).
+Ray Charles-1991-09-01(late show)-tr03.wav:  successfully encoded to 'Ray Charles-1991-09-01(late show)-tr03.flac' (ratio = 0.531; foreign metadata 'LIST' removed; no need for sector alignment).
+Ray Charles-1991-09-01(late show)-tr04.wav:  successfully encoded to 'Ray Charles-1991-09-01(late show)-tr04.flac' (ratio = 0.599; foreign metadata 'LIST' removed; no need for sector alignment).
+Ray Charles-1991-09-01(late show)-tr05.wav:  successfully encoded to 'Ray Charles-1991-09-01(late show)-tr05.flac' (ratio = 0.549; foreign metadata 'LIST' removed; no need for sector alignment).
+Ray Charles-1991-09-01(late show)-tr06.wav:  successfully encoded to 'Ray Charles-1991-09-01(late show)-tr06.flac' (ratio = 0.596; foreign metadata 'LIST' removed; no need for sector alignment).
+Ray Charles-1991-09-01(late show)-tr07.wav:  successfully encoded to 'Ray Charles-1991-09-01(late show)-tr07.flac' (ratio = 0.480; foreign metadata 'LIST' removed; no need for sector alignment).
+Ray Charles-1991-09-01(late show)-tr08.wav:  successfully encoded to 'Ray Charles-1991-09-01(late show)-tr08.flac' (ratio = 0.510; foreign metadata 'LIST' removed; no need for sector alignment).
+Ray Charles-1991-09-01(late show)-tr09.wav:  successfully encoded to 'Ray Charles-1991-09-01(late show)-tr09.flac' (ratio = 0.590; foreign metadata 'LIST' removed; no need for sector alignment).
+Ray Charles-1991-09-01(late show)-tr10.wav:  successfully encoded to 'Ray Charles-1991-09-01(late show)-tr10.flac' (ratio = 0.528; foreign metadata 'LIST' removed; no need for sector alignment).
+Ray Charles-1991-09-01(late show)-tr11.wav:  successfully encoded to 'Ray Charles-1991-09-01(late show)-tr11.flac' (ratio = 0.598; foreign metadata 'LIST' removed; no need for sector alignment).
+Ray Charles-1991-09-01(late show)-tr12.wav:  successfully encoded to 'Ray Charles-1991-09-01(late show)-tr12.flac' (ratio = 0.492; foreign metadata 'LIST' removed; no need for sector alignment).
+Ray Charles-1991-09-01(late show)-tr13.wav:  successfully encoded to 'Ray Charles-1991-09-01(late show)-tr13.flac' (ratio = 0.548; foreign metadata 'LIST' removed; no need for sector alignment).
+Ray Charles-1991-09-01(late show)-tr14.wav:  successfully encoded to 'Ray Charles-1991-09-01(late show)-tr14.flac' (ratio = 0.538; foreign metadata 'LIST' removed; no need for sector alignment).
+Ray Charles-1991-09-01(late show)-tr15.wav:  successfully encoded to 'Ray Charles-1991-09-01(late show)-tr15.flac' (ratio = 0.601; foreign metadata 'LIST' removed; no need for sector alignment).
+Ray Charles-1991-09-01(late show)-tr16.wav:  successfully encoded to 'Ray Charles-1991-09-01(late show)-tr16.flac' (ratio = 0.614; foreign metadata 'LIST' removed; 1924 zero-bytes appended for sector alignment).
+
+No errors occured.
+
+
+verification
+
+Ray Charles-1991-09-01(late show)-tr01.flac:  tested ok (file is decodable without error).
+Ray Charles-1991-09-01(late show)-tr02.flac:  tested ok (file is decodable without error).
+Ray Charles-1991-09-01(late show)-tr03.flac:  tested ok (file is decodable without error).
+Ray Charles-1991-09-01(late show)-tr04.flac:  tested ok (file is decodable without error).
+Ray Charles-1991-09-01(late show)-tr05.flac:  tested ok (file is decodable without error).
+Ray Charles-1991-09-01(late show)-tr06.flac:  tested ok (file is decodable without error).
+Ray Charles-1991-09-01(late show)-tr07.flac:  tested ok (file is decodable without error).
+Ray Charles-1991-09-01(late show)-tr08.flac:  tested ok (file is decodable without error).
+Ray Charles-1991-09-01(late show)-tr09.flac:  tested ok (file is decodable without error).
+Ray Charles-1991-09-01(late show)-tr10.flac:  tested ok (file is decodable without error).
+Ray Charles-1991-09-01(late show)-tr11.flac:  tested ok (file is decodable without error).
+Ray Charles-1991-09-01(late show)-tr12.flac:  tested ok (file is decodable without error).
+Ray Charles-1991-09-01(late show)-tr13.flac:  tested ok (file is decodable without error).
+Ray Charles-1991-09-01(late show)-tr14.flac:  tested ok (file is decodable without error).
+Ray Charles-1991-09-01(late show)-tr15.flac:  tested ok (file is decodable without error).
+Ray Charles-1991-09-01(late show)-tr16.flac:  tested ok (file is decodable without error).
+
+No errors occured.
+
+
+ffp
+
+Ray Charles-1991-09-01(late show)-tr01.flac:99ce99aff6274bf0cdee9891ef59732b
+Ray Charles-1991-09-01(late show)-tr02.flac:30d4a40959d85a938c6cb3c73ab20e6d
+Ray Charles-1991-09-01(late show)-tr03.flac:ec1f5dc1eff055348fe81dbf53a8afb0
+Ray Charles-1991-09-01(late show)-tr04.flac:472172efdaebb130c8d16506c8d05c61
+Ray Charles-1991-09-01(late show)-tr05.flac:a92604b051f3b6845399f260e9e1be28
+Ray Charles-1991-09-01(late show)-tr06.flac:7177081803ecaffa2c3bd769ab11df3b
+Ray Charles-1991-09-01(late show)-tr07.flac:8d48afdfee0a9dd90efa08ac297b3993
+Ray Charles-1991-09-01(late show)-tr08.flac:b7f7c668bcfbc5926e7f32554ea36f00
+Ray Charles-1991-09-01(late show)-tr09.flac:cf928e452dcbb552b13cd16eedfc01dc
+Ray Charles-1991-09-01(late show)-tr10.flac:904611de792c6a4c54ef46cea4ae7d69
+Ray Charles-1991-09-01(late show)-tr11.flac:3e8fe820d3a0513671f3e27d6ee99562
+Ray Charles-1991-09-01(late show)-tr12.flac:380b28a7d6e1b65e437fd672d96c39ab
+Ray Charles-1991-09-01(late show)-tr13.flac:aed039f0cf8a600c44b344633a4980e9
+Ray Charles-1991-09-01(late show)-tr14.flac:f1a4c768946a40f5a61ffd61896720a8
+Ray Charles-1991-09-01(late show)-tr15.flac:3a089541e89b7e18d90f425ee22f81a7
+Ray Charles-1991-09-01(late show)-tr16.flac:f0c86f3531fc2ea9626b56d473c74126
+
+No errors occured.
+
+
+
+
+

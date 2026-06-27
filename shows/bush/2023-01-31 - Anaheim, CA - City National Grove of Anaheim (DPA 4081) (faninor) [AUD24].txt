@@ -1,0 +1,37 @@
+Bush
+2023-01-31
+City National Grove of Anaheim
+Anaheim, CA, USA
+
+-- Source --
+DPA 4081 > MMA-A > 24bit/48kHz
+
+-- Processing --
+iZotope RX (editing/mastering) > CD Wave (tracking) > Trader's Little Helper (encoding)
+
+-- Setlist --
+01 - intro
+02 - Identity
+03 - Machinehead
+04 - Blood River
+05 - The Chemicals Between Us
+06 - Bullet Holes
+07 - The Sound of Winter
+08 - Flowers on a Grave
+09 - Everything Zen
+10 - 1000 Years
+11 - Quicksand
+12 - Heavy Is the Ocean
+13 - More than Machines
+14 - Little Things
+15 - encore
+16 - The Kingdom
+17 - Glycerine
+18 - Comedown
+
+-- Notes --
+Starcrawler opened.
+
+Length: 1h27m30s
+
+-- faninor -- 2023-02-04 --

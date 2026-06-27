@@ -1,0 +1,110 @@
+The Smashing Pumpkins
+30/09/2007, Red Rocks Amphitheater, Morrison, CO, US
+
+243 / 5 000
+I lost the original *.txt file. But I used it to create the covers of my burned CDs. I scanned the cover. You have all the information contained in the original file.
+Lineage : original FLAC files > CDr > Wav > FLAC
+Unfortunately, the new FLAC files are in 16/44.
+If anyone still has the original files, share them with the SPLRA team or put them directly on archives.org
+
+log CDParanoia :
+D1 
+cdparanoia -vBl 
+cdparanoia III release 10.2 (September 11, 2008)
+
+Using cdda library version: 10.2
+Using paranoia library version: 10.2
+outputting to track01.cdda.wav
+ (== PROGRESS == [                              | 059999 00 ] == :^D * ==)   
+
+outputting to track02.cdda.wav
+ (== PROGRESS == [                              | 081674 00 ] == :^D * ==)   
+
+outputting to track03.cdda.wav
+ (== PROGRESS == [                              | 112124 00 ] == :^D * ==)   
+
+outputting to track04.cdda.wav
+ (== PROGRESS == [                              | 136649 00 ] == :^D * ==)   
+
+outputting to track05.cdda.wav
+ (== PROGRESS == [                              | 165149 00 ] == :^D * ==)   
+
+outputting to track06.cdda.wav
+ (== PROGRESS == [                              | 182324 00 ] == :^D * ==)   
+
+outputting to track07.cdda.wav
+ (== PROGRESS == [                              | 203624 00 ] == :^D * ==)   
+
+outputting to track08.cdda.wav
+ (== PROGRESS == [                              | 229949 00 ] == :^D * ==)   
+
+outputting to track09.cdda.wav
+ (== PROGRESS == [                              | 245624 00 ] == :^D * ==)   
+
+outputting to track10.cdda.wav
+ (== PROGRESS == [                              | 308249 00 ] == :^D * ==)
+ 
+ D2
+ cdparanoia -vBl 
+cdparanoia III release 10.2 (September 11, 2008)
+
+Using cdda library version: 10.2
+Using paranoia library version: 10.2
+outputting to track01.cdda.wav
+ (== PROGRESS == [                              | 022349 00 ] == :^D * ==)   
+
+outputting to track02.cdda.wav
+ (== PROGRESS == [                              | 042299 00 ] == :^D * ==)   
+
+outputting to track03.cdda.wav
+ (== PROGRESS == [                              | 058049 00 ] == :^D * ==)   
+
+outputting to track04.cdda.wav
+ (== PROGRESS == [                              | 076799 00 ] == :^D * ==)   
+
+outputting to track05.cdda.wav
+ (== PROGRESS == [                              | 092549 00 ] == :^D * ==)   
+
+outputting to track06.cdda.wav
+ (== PROGRESS == [                              | 103049 00 ] == :^D * ==)   
+
+outputting to track07.cdda.wav
+ (== PROGRESS == [                              | 168524 00 ] == :^D * ==)   
+
+outputting to track08.cdda.wav
+ (== PROGRESS == [                              | 180974 00 ] == :^D * ==)   
+
+outputting to track09.cdda.wav
+ (== PROGRESS == [                              | 201524 00 ] == :^D * ==)   
+
+outputting to track10.cdda.wav
+ (== PROGRESS == [                              | 217424 00 ] == :^D * ==)  
+ 
+ FLAC :
+ $flac -8 *.wav
+
+flac 1.5.0
+Copyright (C) 2000-2009  Josh Coalson, 2011-2025  Xiph.Org Foundation
+flac comes with ABSOLUTELY NO WARRANTY.  This is free software, and you are
+welcome to redistribute it under certain conditions.  Type `flac' for details.
+
+tsp2007-09-30_amaro_t01.wav: wrote 82981416 bytes, ratio=0,588
+tsp2007-09-30_amaro_t02.wav: wrote 29781983 bytes, ratio=0,584
+tsp2007-09-30_amaro_t03.wav: wrote 42700574 bytes, ratio=0,596
+tsp2007-09-30_amaro_t04.wav: wrote 33108498 bytes, ratio=0,574
+tsp2007-09-30_amaro_t05.wav: wrote 38026493 bytes, ratio=0,567
+tsp2007-09-30_amaro_t06.wav: wrote 23806036 bytes, ratio=0,589
+tsp2007-09-30_amaro_t07.wav: wrote 28160143 bytes, ratio=0,562
+tsp2007-09-30_amaro_t08.wav: wrote 36503885 bytes, ratio=0,590
+tsp2007-09-30_amaro_t09.wav: wrote 23712119 bytes, ratio=0,643
+tsp2007-09-30_amaro_t10.wav: wrote 78719416 bytes, ratio=0,534
+tsp2007-09-30_amaro_t11.wav: wrote 26687580 bytes, ratio=0,508
+tsp2007-09-30_amaro_t12.wav: wrote 23917187 bytes, ratio=0,510
+tsp2007-09-30_amaro_t13.wav: wrote 21911636 bytes, ratio=0,592
+tsp2007-09-30_amaro_t14.wav: wrote 27256111 bytes, ratio=0,618
+tsp2007-09-30_amaro_t15.wav: wrote 22500391 bytes, ratio=0,607
+tsp2007-09-30_amaro_t16.wav: wrote 15285283 bytes, ratio=0,619
+tsp2007-09-30_amaro_t17.wav: wrote 91153490 bytes, ratio=0,592
+tsp2007-09-30_amaro_t18.wav: wrote 15392093 bytes, ratio=0,526
+tsp2007-09-30_amaro_t19.wav: wrote 30197702 bytes, ratio=0,625
+tsp2007-09-30_amaro_t20.wav: wrote 19498772 bytes, ratio=0,521

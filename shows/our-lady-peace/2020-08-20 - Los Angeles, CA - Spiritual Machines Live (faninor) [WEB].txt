@@ -1,0 +1,35 @@
+Our Lady Peace
+2020-08-20
+Spiritual Machines Live
+Los Angeles, CA, USA
+
+-- Source --
+Vimeo (1920x1080, 29.97fps, 5195kb/s h264 video / 48kHz, stereo, 253kb/s aac audio)
+
+-- Processing --
+ffmpeg (added chapter markers)
+
+-- Setlist --
+01 - Good Die Young [demo clip]
+02 - intro
+03 - Right Behind You (Mafia)
+04 - In Repair
+05 - Life
+06 - Holes [demo clip]
+07 - interlude
+08 - Middle of Yesterday
+09 - Are You Sad? [cut]
+10 - Future Disease [demo clip]
+11 - interlude
+12 - Made to Heal
+
+-- Notes --
+Spiritual Machines Side A acoustic performance. Originally planned as a livestream with chat / Q&A. However, due to rolling blackouts the performance was recorded later in the evening than planned, and then uploaded the following morning.
+
+Raine Maida - vocals, guitar, + keys
+Steve Mazur - guitar + vocals
+Randy Cooke - percussion
+
+Length: 37m31s
+
+-- faninor -- 2021-12-17 --

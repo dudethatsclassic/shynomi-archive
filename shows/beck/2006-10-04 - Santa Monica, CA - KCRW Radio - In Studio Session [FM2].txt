@@ -1,0 +1,41 @@
+Beck Live In-Studio, 
+Broadcast October 31, 2006, KCRW FM  Santa Monica, CA 
+Recorded October 4, 2006, The Village, Los Angeles, CA
+
+ I have spliced the beginning of Nibbler's mono capture onto my incomplete stereo recording. The broadcast started early, and I missed the beginning. The crossfade was performed by a professional using Logic Pro 7. Thanks to Nibbler for his recording and permission. The lineage is a little complex, but here it is:
+
+Lineage for intro and first 70 secs of track 02 (Mono Nibbler version):
+ FM> Harman Kardon AVR30> Analog Out> Harman Kardon CDR2 Recorder> 
+Audio CDR.WAV> Pioneer DVR-RW DVD-108> EAC> CD WAVE-(Tracking)-> Flac.level-8 > aiff via xACT 1.58
+
+Lineage for remainder of track 02 onwards (STEREO):FM > rooftop antenna > Onkyo Tuner > m-audio 2496 card > 16 bit aiff via Audio Hijack Pro 2.6.3 > 
+
+The two versions were crossfaded together using Logic Pro 7 at the word "skydancer" in track 02. > tracked with Sound Studio 3.0.1 > 
+SBE's repaired, md5,  and FLAC (8) via xACT 1.58 > you  
+
+01. intro
+02. motorcade
+03. cell phone's dead
+04. no complaints
+05. movie theme
+06. interview (19min)
+07. we dance alone
+08. nausea
+09. dark star
+10. strange apparition
+11. think i'm in love
+12. outro
+
+The Band:
+Beck - Vocals, Guitar
+Justin Meldal-Johnsen - Guitar, Percussion
+Matt Sherrod - Drum/Percussion/Vocals
+Brian Lebarton - Keyboards, Percussion, Harmonica, Vocals
+Ryan Falkner - Percussion
+Matt Mahaffey - Cutlery, Cans, Bongos, Vocals
+
+Track 07 has a skip/glitch at 2:33, which is as broadcast. 
+Runs about 56 minutes.
+don't trade this in a lossy format, don't sell it, and compost your vegetable scraps
+
+-peewee

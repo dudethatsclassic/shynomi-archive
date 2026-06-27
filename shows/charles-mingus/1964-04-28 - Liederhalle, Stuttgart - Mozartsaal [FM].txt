@@ -1,0 +1,30 @@
+Charles Mingus
+Mozartsaal, Liederhalle, Stuttgart 1964-04-28
+
+Disc 1: 
+1. These Foolish Things  7:37
+2. Orange Was the Color Of Her Dress, Then Blue Silk  17:30
+3. So Long Eric  30:28
+4. Peggy´s Blue Skylight  20:56
+
+Disc 2: 
+1. Fables Of Faubus  43:51
+2. Sophisticated Lady  4:15
+3. Meditations  30:50
+
+Mingus: bass
+Eric Dolphy: alto sax, bass clarinet, flute
+Clifford Jordan: tenor sax
+Jaki Byard: piano
+Dannie Richmond: drums
+
+FM > cass > CDR > EAC > FLAC
+
+Mingus Fingus:
+mingus_1964-04-28_d1_t01.flac:b6118c64086a50328dfcdf80de1d1496
+mingus_1964-04-28_d1_t02.flac:a1758577166b7f0c64afba10c6e06681
+mingus_1964-04-28_d1_t03.flac:176bd028234d1fa3fd4c000158852c1c
+mingus_1964-04-28_d1_t04.flac:39e3070b938681db20f0a86113fc653e
+mingus_1964-04-28_d2_t01.flac:179935819e005cf390e2b8d4c3939094
+mingus_1964-04-28_d2_t02.flac:60899c49a4a9226234ee2b65fd480dae
+mingus_1964-04-28_d2_t03.flac:ced4cdceb860d4fe59af34113515adb3

@@ -1,0 +1,79 @@
+Red Hot Chili Peppers
+
+March 11, 1996 - Market Square Arena, Indianapolis, IN
+
+CD#1
+01. Freaky Styley Jam
+02. Suck My Kiss
+03. Give It Away
+04. Aeroplane
+05. Warped
+06. Walkabout
+07. Backwoods
+08. Anarchy In The U.K.
+09. My Friends
+10. Venus In Furs
+11. Higher Ground
+12. Pea
+13. Coffee Shop
+14. Sound And Vision
+15. One Big Mob
+16. Under The Bridge
+17. Red Hot Mama
+18. Me And My Friends
+CD#2
+19. Deep Kick
+20. Nevermind
+
+LEN: 85:11
+
+They covered "Anarchy In The U.K." and "Red Hot Mama" for the first time since the BSSM tour. Dave covered "Venus In Furs" by The Velvet Underground which later also became one of his "Trust No One"(2001) album songs.
+
+rhcp1996-03-11d1t01.wav:  successfully encoded to 'rhcp1996-03-11d1t01.flac'
+rhcp1996-03-11d1t02.wav:  successfully encoded to 'rhcp1996-03-11d1t02.flac'
+rhcp1996-03-11d1t03.wav:  successfully encoded to 'rhcp1996-03-11d1t03.flac'
+rhcp1996-03-11d1t04.wav:  successfully encoded to 'rhcp1996-03-11d1t04.flac'
+rhcp1996-03-11d1t05.wav:  successfully encoded to 'rhcp1996-03-11d1t05.flac'
+rhcp1996-03-11d1t06.wav:  successfully encoded to 'rhcp1996-03-11d1t06.flac'
+rhcp1996-03-11d1t07.wav:  successfully encoded to 'rhcp1996-03-11d1t07.flac'
+rhcp1996-03-11d1t08.wav:  successfully encoded to 'rhcp1996-03-11d1t08.flac'
+rhcp1996-03-11d1t09.wav:  successfully encoded to 'rhcp1996-03-11d1t09.flac'
+rhcp1996-03-11d1t10.wav:  successfully encoded to 'rhcp1996-03-11d1t10.flac'
+rhcp1996-03-11d1t11.wav:  successfully encoded to 'rhcp1996-03-11d1t11.flac'
+rhcp1996-03-11d1t12.wav:  successfully encoded to 'rhcp1996-03-11d1t12.flac'
+rhcp1996-03-11d1t13.wav:  successfully encoded to 'rhcp1996-03-11d1t13.flac'
+rhcp1996-03-11d1t14.wav:  successfully encoded to 'rhcp1996-03-11d1t14.flac'
+rhcp1996-03-11d1t15.wav:  successfully encoded to 'rhcp1996-03-11d1t15.flac'
+rhcp1996-03-11d1t16.wav:  successfully encoded to 'rhcp1996-03-11d1t16.flac'
+rhcp1996-03-11d1t17.wav:  successfully encoded to 'rhcp1996-03-11d1t17.flac'
+rhcp1996-03-11d1t18.wav:  successfully encoded to 'rhcp1996-03-11d1t18.flac'
+rhcp1996-03-11d2t01.wav:  successfully encoded to 'rhcp1996-03-11d2t01.flac'
+rhcp1996-03-11d2t02.wav:  successfully encoded to 'rhcp1996-03-11d2t02.flac'
+
+No errors occured.
+
+
+rhcp1996-03-11d1t01.flac:32dd191bd5d90030d89423016da249f5
+rhcp1996-03-11d1t02.flac:b72f05f55b3f2db8a71c7e2c6aa9b8fb
+rhcp1996-03-11d1t03.flac:8b9a91a759cc7db6c5a9dafbad6f6759
+rhcp1996-03-11d1t04.flac:3a1250d889f41f73c12b381b7c182931
+rhcp1996-03-11d1t05.flac:0e93b2d773ca60aeafaaed1993dedd03
+rhcp1996-03-11d1t06.flac:3d868a94c1c85d76fd11e130750398b1
+rhcp1996-03-11d1t07.flac:073a3817d5cda3e65361f98f38e34174
+rhcp1996-03-11d1t08.flac:6a35b2fa840824438dba2de603a66fea
+rhcp1996-03-11d1t09.flac:a9d36fdd05732a62fef8cb98d4f99597
+rhcp1996-03-11d1t10.flac:da45c5326d8d6812cba460ee4556ace7
+rhcp1996-03-11d1t11.flac:1d75181b17715438c6eedba64450b8fc
+rhcp1996-03-11d1t12.flac:a324450f7e1bd95e4052c5ff19db2e44
+rhcp1996-03-11d1t13.flac:032512861c30b4b3de1efed107fdd7bb
+rhcp1996-03-11d1t14.flac:a7b7abfe9e092aeff2570586e79c14f1
+rhcp1996-03-11d1t15.flac:56eda328acc007670c6c6e280dff0cf7
+rhcp1996-03-11d1t16.flac:9ecf4959f63aa0c605873901cdf499f9
+rhcp1996-03-11d1t17.flac:b0c59da56d4e1fc59ba6e20ca6dc8d89
+rhcp1996-03-11d1t18.flac:9912eabbcd143e44b3fc12ed18d458cd
+rhcp1996-03-11d2t01.flac:5fdbf69dd3092cc00cff13d91eef58c9
+rhcp1996-03-11d2t02.flac:33b707b374cd22b880252158b13a2d44
+
+No errors occured.
+
+Checksum file saved to disk.

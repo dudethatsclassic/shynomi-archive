@@ -1,0 +1,71 @@
+THE SMASHING PUMPKINS
+2000.08.24 New York, NY @ Hammerstein Ballroom
+VH-1 Storytellers UNCUT: Flaming Sack Of Monkey Penis Edition {Fresko/Agnew/StArSeEd}
+
+2xDATm[SHN0+SHN1]+SHNm > dEDIT > flac [> CDR0]
+
+Mix Sources: Fresko [AUD > DSM-6S > PA-6LC3 > M1 > DATm > CDR0 > SHN1]
+             Agnew [AUD > SPPB > M1 > DATm > SHN0]
+             Agnew/StArSeEd [Agnew > dEDIT > SHNm]
+
+dEDIT: ... > Wave > SF Vegas [Sync+Mixdown] > Steinberg FreeFilter [75%->pVHS, -6dB@150Hz] > ...
+       SF Reverb ["Bright Hall" -32dB/-20dB] > SF Smooth/Enhance [Enh+1] > SF Wave Hammer ...
+       [Comp Inf:1 @ -9dB RMS 10ms/1s, VolMax -6dB 150ms] > Sound Forge [Cut+Fade] > Wave > ...
+
+Mixdown: Fresko: -0dB, 25%->Right, TimeStretch 2nd+3rd Discs to Agnew, NR -32dB
+         Agnew: -0dB, 33%->Right, TimeStretch SIYL 2 to Fresko
+         Agnew/StArSeEd: -7.5dB, 10%->Right, TimeStretch SIYL 2 to Fresko
+
+Final render time: 1 hour, 6 mins, 34 seconds.  Render attempts: 4½.
+
+Disc 1                                                       Start      Length
+----------------------------------------------------------   --------   --------
+01 - "Not A Song"                                            00:00.00   01:42.13
+02 - Story: Glass And The Ghost Children                     01:42.13   01:35.08
+03 - Glass And The Ghost Children                            03:17.21   10:18.30
+04 - Story: Today                                            13:35.51   03:25.20
+05 - Today                                                   17:00.71   04:46.14
+06 - Band Intro / Story: Snail                               21:47.10   02:15.64
+07 - Snail                                                   24:02.74   03:35.64
+08 - Story: Stand Inside Your Love                           27:38.63   03:58.46
+09 - Stand Inside Your Love; break                           31:37.34   04:55.33
+10 - "Take Your Seats" / "Play Spiteface!"                   36:32.67   01:16.70
+11 - Story: To Sheila                                        37:49.62   03:02.21
+12 - To Sheila                                               40:52.08   03:21.64
+13 - Story: Thirty-Three                                     44:13.72   03:32.28
+14 - Thirty-Three                                            47:46.25   04:22.45
+15 - Story: Blue Skies Bring Tears                           52:08.70   02:19.12
+16 - Blue Skies Bring Tears                                  54:28.07   07:44.26
+17 - Story: Try, Try, Try                                    62:12.33   04:17.56
+18 - Try, Try, Try                                           66:30.14   04:52.74
+
+Disc 2                                                       Start      Length
+----------------------------------------------------------   --------   --------
+01 - Drum Solo / "How I Shave My Head"                       00:00.00   02:58.24
+02 - Story: The Tale Of Dusty And Pistol Pete                02:58.24   01:22.22
+03 - The Tale Of Dusty And Pistol Pete                       04:20.46   05:32.63
+04 - Story: 1979                                             09:53.34   03:06.31
+05 - 1979; break                                             12:59.65   04:15.15
+06 - Story: Raindrops + Sunshowers                           17:15.05   02:13.46
+07 - Raindrops + Sunshowers (Abandoned)                      19:28.51   00:55.25
+08 - Raindrops + Sunshowers                                  20:24.01   05:01.49
+09 - Story: With Every Light                                 25:25.50   03:16.19
+10 - With Every Light (Abandoned)                            28:41.69   02:32.17
+11 - With Every Light (Abandoned)                            31:14.11   02:12.51
+12 - With Every Light                                        33:26.62   04:45.68
+13 - Story: Let Me Give The World To You                     38:12.55   02:30.58
+14 - Let Me Give The World To You                            40:43.38   03:55.33
+15 - "This Concludes..." / "Do A Few Again?"                 44:38.71   00:46.20
+16 - Unknown (Tease)                                         45:25.16   00:31.64
+17 - Unknown (Tease)                                         45:57.05   00:19.10
+18 - Don't You Want Me Baby (Tease) / Story Recap: LMGTWTY   46:16.15   00:34.04
+19 - Let Me Give The World To You (Take 2)                   46:50.19   05:07.42
+20 - Glass And The Ghost Children (Take 2)                   51:57.61   10:24.18
+21 - Zero (Tease) / Lounge Improv                            62:22.04   02:43.07
+22 - Stand Inside Your Love (Take 2) / "Thank You"           65:05.11   04:57.14
+
+Special thanks go out to the following people in no particular order:
+Eric Agnew, David Fresko, Jason Guzman, Fares Halteh, and Dead (Sean Bowen).
+Without the help of these people, this project could not have been completed.
+
+-StArSeEd/Jonathan G. Weston, 2002.08.17

@@ -1,0 +1,24 @@
+The Smashing Pumpkins
+Saturday July 7th, 2007
+Live Earth; Giants Stadium
+East Rutherford, NJ USA
+
+Source:
+XM Satellite Radio Broadcast
+Samsung Helix YX-M1 > My XM > Line Out > WAV > FLAC 8
+
+Editing (with Audacity):
+Fade In, Fade Out, Normalize, and Amplify to -0.5dB
+Tracks were cut with CD Wave
+
+XX. United States
+02. Bullet with Butterfly Wings
+03. Tarantula
+04. Today
+05. (DJ Talk)
+
+This is the complete, uncut broadcast.  Includes some DJ talk at the end.  Apparently a Pictures of Matchstick Men [Status Quo] tease was played during United States, but that may just be the DJs misinterpreting the song.
+
+Seeded by Skradgee 2007-07-16
+
+Spaldz notes: Removed commercially released United States for upload to archive.org

@@ -1,0 +1,62 @@
+PAVEMENT
+
+
+Great American Music Hall
+San Francisco, California
+April 23, 1994
+Early Show
+
+
+Source:  SBD > ??? > CDR
+Transfer:  CDR > EAC > SHN > FLAC
+Transfer by Terry Watts
+
+
+1. Box Elder
+2. Brink of the Clouds
+3. Brinx Job
+4. Fork Lift
+5. Heaven is a Truck
+6. Unfair
+7. Cut Your Hair
+8. Angel Carver Blues
+9. Debris Slide
+10. Fight This Generation
+11. Grounded
+12. Black Out
+13. Silent Kid
+14. 5-4=Unity
+15. Summer Babe
+16. Conduit For Sale!
+17. Two States > Gold Soundz > Maybe Maybe
+
+
+Notes:
+
+Original EAC > SHN performed on Jan. 12, 2003 for my own archives.
+
+Files converted to FLAC; new WAV MD5 and FLAC FFP created on Oct. 24, 2012.
+The Original SHN MD5 is listed below.
+
+Terry Watts
+
+
+The Original SHN MD5:
+a4a7f4b6c03c681209769e01bc151e96 *pavement94-04-23e-t01.shn
+84b227f92d524e6b9b33bdcd2ae2e297 *pavement94-04-23e-t02.shn
+1b29bd2815f6b98165096bf61e715b37 *pavement94-04-23e-t03.shn
+2c72d043b0a15f1c99ff0b488a575d24 *pavement94-04-23e-t04.shn
+dd92051f08b197b3e4c580fc3f39a8d4 *pavement94-04-23e-t05.shn
+b975ebfb77ba8bf0a3ffc9066cfbf9d8 *pavement94-04-23e-t06.shn
+5ae20bd19fa783627893ac4e67081385 *pavement94-04-23e-t07.shn
+6d3ba7d1b53642506cb1b4bbf4a504ab *pavement94-04-23e-t08.shn
+1cb5491f3a0c9c0d61f9f981cac355c2 *pavement94-04-23e-t09.shn
+7a55126a11529a7b70cb90e95ecbfde9 *pavement94-04-23e-t10.shn
+b20f4459c0c06ec1ae6ecf69fedf5d14 *pavement94-04-23e-t11.shn
+ab60823d0d834005bcf2f7db4724eec8 *pavement94-04-23e-t12.shn
+8e0b07cf79cf647df4a458ca1154b070 *pavement94-04-23e-t13.shn
+7903cb4c13242fe7453bc503f929a0a5 *pavement94-04-23e-t14.shn
+99540116264ef6644d18ddf0dfb0d4b0 *pavement94-04-23e-t15.shn
+bb31f7048bedd994bdc9fe7dd77bdce9 *pavement94-04-23e-t16.shn
+b3df66b5614c917a7ebbbf73b0768311 *pavement94-04-23e-t17.shn
+

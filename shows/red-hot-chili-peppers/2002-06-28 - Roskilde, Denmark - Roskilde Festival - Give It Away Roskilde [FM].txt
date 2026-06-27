@@ -1,0 +1,42 @@
+Band: Red Hot Cilipeppers
+Roskilde Festival , Roskilde, Denmark
+Date: 28-06-2002 
+Soundquality: A (FM-Broadcast)
+Lineage: CD-R >>>  DB Poweramp >>> Level 8 F.l.a.c >>> You
+
+SETLIST : (** PLEASE HELP OUT WITH THE REST OF THE SONGS, THANKS!)
+
+1) By The Way
+2) Scar Tissue
+3) All Around The World
+4) Otherside
+5) Give It Away
+6) ?
+7) ?
+8) I Could have Lied
+9) Can´t Stop
+10) ?
+11) Under The Bridge
+12) Power
+
+Enjoy!
+
+______________________________________________________________________
+
+CHECKSUMS:
+
+32b9db5dfec1578569571d54e75b8f04 *01 By The Way.flac
+d538f61fdeeaf2572770007416fe343d *02 Scar Tissue.flac
+ff4ddb2c7319b366c466a67214d31938 *03 All Around The World.flac
+5defaf1f507f0ff040e5acb6e9c4a580 *04 Otherside.flac
+9d541f205d26182acc54b9df95690a74 *05 Give It Away.flac
+c1cee47900ed02b37c4cb5978bdc5b3e *06.flac
+316c41997971738bd747c03031fed17a *07.flac
+7db0430a82b30706569b1564b43f8c10 *08 I Could Have Lied.flac
+c3cbc8621b3a69a876f31ba0d88a41ef *09 Cant Stop.flac
+885e3112971afa977b85f37a7d57290e *10.flac
+4ee7ab9030cb7abc9b313b7ba406b1ee *11 Under The Bridge.flac
+eba9deda6bab6da8dcf399f90d66ca8d *12 Power.flac
+ebd137918fa632cbd64c9818c0357805 *Red Hot Chilipeppers - Roskilde Festival , Roskilde, Denmark, 28-06-2002 - FM-Broadcast - Level 8 F.l.a.c ---.txt
+
+No errors occured.

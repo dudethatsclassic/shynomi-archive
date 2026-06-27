@@ -1,0 +1,58 @@
+**Produced** by thir13en Productions
+
+
+Pavement
+1999-11-16
+Tilburg, Netherlands
+-SBD-
+
+
+This is a remastered version of the SBD source only. When I pulled up this source and started to give it some life, the incredible mix struck me right away. But as I pulled more from it, I could also hear a wonderfully captured tone to the instrumentation. This was no ordinary setup, they had their own guy now, and they trusted him for good reason. His mic choices, his control over their stage volumes and what was probably a very nice board combined to make a recording that a lot of studios would envy.
+
+Add to that the CAM source was quite buzzy from the oversaturated bass. THe matrix is nice, and adds elements of the room and the crowd, but I also had to hammer it with a lot of EQ and NR to make it work.
+
+And even though Malkmus seems a bit on edge about the sound of his voice and his new guitar, I still find this a magic mix and sound. With the RM, it's an absolute joy to the ears.
+
+----
+As for the technical aspects of it, the EQ'ing was very light, even the bottom end was naturally warm, and the spectrum of the source was near perfect as-is. It did have a low imprint and a rather wide dynamic range that I reigned in with some light compression, and I used a touch of room simulator to take an edge off the dryness. Lastly as usual, it was digitally maximized with the Waves L3MM.
+
+
+This is what all SBD's should be.
+
+
+
+
+01- -intro-
+02- Shady Lane
+03- Spit On A Stranger
+04- Billie
+05- Rattled By The Rush
+06- Major Leagues
+07- Stereo
+08- Cream Of Gold
+09- Ann Don't Cry
+10- In The Mouth A Desert
+11- Gold Soundz
+12- You Are A Light
+13- The Hexx
+14- Give It A Day
+15- Folk Jam
+16- Stop Breathin
+17- -break-
+18- Range Life
+19- Date With IKEA
+20- Whip It
+21- Debris Slide
+22- Fight This Generation
+
+
+================
+=13 SOURCE INFO=
+================
+
+#1 - SBD>DAT>CDR
+
+Mastered in Sony's Vegas7>Flac'd
+
+
+Pavemalks artwork is included as well. Thank him for all of this, right now!

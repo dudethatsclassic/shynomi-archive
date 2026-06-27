@@ -1,0 +1,77 @@
+Miles Davis Quintet
+07-13-1957
+Café Bohemia 
+New York, New York
+
+Project ID - LL22
+
+Source: FM Radio Broadcast
+Lineage: Chakra CH 100 M (LP) > Minidisc > analogue to HD > FLAC (8)(asb)
+
+Miles Davis (tpt); Sonny Rollins (ts); William "Red" Garland (p); Paul Chambers (b); 
+Arthur Taylor (d); Guy Wallace (ann); Jean Shepherd (guest)
+
+disc 1
+
+d1t01. Four
+d1t02. Bye Bye Blackbird/
+d1t03. It Never Entered My Mind
+d1t04. Walkin'/
+ 
+-------------------------------------------------------
+
+Notes:
+
+- There is a very small number of snaps and pops, all minor. This is to be expaected from 
+a show sourced from vinyl. Still very, very listenable.
+
+- d1t02 is cut at the end. 
+
+- d1t04 is also incomplete and cut towards the end.
+
+- All of the announcement have been removed from this source. 
+
+- A very fine recording. I'm not sure if this was recorded pre-Broadcast of if the feed 
+was just this clear. For a broadcast that is sourced from vinyl, this is a great 
+recording. The feeling behind the playing is very smooth and subdued on this show.
+
+- QC done by Bgreen
+
+md5
+e2c232461b321906212582d1c8cb1d0c *md1957-07-13.LL22.d01t01.flac
+7edff768738d9b7d5ab68ad49b96eb69 *md1957-07-13.LL22.d01t02.flac
+ac67145f5b87bf9dbbe5a15771b76041 *md1957-07-13.LL22.d01t03.flac
+109d6f5f23b482c3936ca7e64aab42cd *md1957-07-13.LL22.d01t04.flac
+
+ffp
+md1957-07-13.LL22.d01t01.flac:f9adb65e5faafa9b395f824f842d76a6
+md1957-07-13.LL22.d01t02.flac:5cbee963ff5797f0451507f37a2bdf56
+md1957-07-13.LL22.d01t03.flac:ef2acf95bb68788d665aecd614b6e196
+md1957-07-13.LL22.d01t04.flac:0c298e13696bae5ee39a9c72134c5458
+
+st5 
+f9adb65e5faafa9b395f824f842d76a6  [shntool]  md1957-07-13.LL22.d01t01.flac
+5cbee963ff5797f0451507f37a2bdf56  [shntool]  md1957-07-13.LL22.d01t02.flac
+ef2acf95bb68788d665aecd614b6e196  [shntool]  md1957-07-13.LL22.d01t03.flac
+0c298e13696bae5ee39a9c72134c5458  [shntool]  md1957-07-13.LL22.d01t04.flac
+
+shntool
+    length     expanded size   cdr  WAVE problems filename
+     5:59.21       63377036    ---   --   ---xx   md1957-07-13.LL22.d01t01.flac
+     3:48.46       40327436    ---   --   ---xx   md1957-07-13.LL22.d01t02.flac
+     3:43.65       39490124    ---   --   ---xx   md1957-07-13.LL22.d01t03.flac
+     1:16.05       13418204    ---   --   ---xx   md1957-07-13.LL22.d01t04.flac
+    14:47.62      156612800 B                     (totals for 4 files, 0.3969 overall compression ratio)
+
+spectral analysis from TLH
+md1957-07-13.LL22.d01t01.wav:  track looks like CDDA with probability 100%
+md1957-07-13.LL22.d01t02.wav:  track looks like CDDA with probability 100%
+md1957-07-13.LL22.d01t03.wav:  track looks like CDDA with probability 100%
+md1957-07-13.LL22.d01t04.wav:  track looks like CDDA with probability 100%
+
+old md5 or ffp (incude both if available)
+e2c232461b321906212582d1c8cb1d0c *570713-01-Four.flac
+7edff768738d9b7d5ab68ad49b96eb69 *570713-02-ByeByeBlackbird-INC.flac
+ac67145f5b87bf9dbbe5a15771b76041 *570713-03-ItNeverEnteredMyMind.flac
+109d6f5f23b482c3936ca7e64aab42cd *570713-04-Walkin-INC.flac
+81bfdeb4b96120cc0cee10b40f7359d3 *MilesDavis 1957-07-13 NYC.txt

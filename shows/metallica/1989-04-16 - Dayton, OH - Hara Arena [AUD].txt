@@ -1,0 +1,30 @@
+Metallica 1989-04-16 Hara Arena Dayton OH
+Sony D-3 Pro Walkman > Realistic 33-1065 Stereo Electric Microphone >
+Maxell XL-S 100 > Sony PCM-R300 > Maxell HS-4/60s > Philips CDR-200 >
+CDR > EAC > Flac
+
+Taped By Jerry B. aka "The Govner"
+
+DO NOT CONVERT TO LOSSY FORMAT!!!!!
+
+D1Track01 Ecstacy Of Gold.flac:852a014e83c477196aed59a79c84c3a5
+D1Track02 Blackened.flac:e0fcc513b238d28f4eb0244a4dcc2e68
+D1Track03 For Whom The Bell Tolls.flac:d5464ec3d3af9f1ae51f53945f89c155
+D1Track04 Welcome Home (Sanitarium).flac:d70531edc5859dc17001dd40d048ee13
+D1Track05 Harvester Of Sorrow.flac:19523e3bcee43f1baf99cb2f4a5d166c
+D1Track06  Eye Of The Beholder.flac:45efa63a3d3870935b15bdae78e61169
+D1Track07 Jason Newsted Bass Solo.flac:245bb0718c7268752346a975c8b67593
+D1Track08 To Live Is To Die.flac:e613ec40c8d342a715a630bb822dd18e
+D1Track09 Master Of Puppets (flip).flac:fb6ebf4e0eb6d637fc64881e89cdb5f9
+D1Track10 One.flac:51ec09171221050fbd2cdf94d4d8a46b
+D1Track11 Seek And Destroy.flac:70ca85ff2da1959f1c6ae3de96b9a571
+D1Track12 And Justice For All (flip).flac:c98f1adad3ec494a15d6199856fbc014
+D2Track01 Creeping Death.flac:bd02bab240a558cfe0edcab9701adada
+D2Track02 Fade To Black.flac:92b47e3d4557917505e236a5a278bbfb
+D2Track03 Kirk Hammet Solo (with 'Little Wing').flac:b102dd1bf9738e2c4d70d50343f64547
+D2Track04 Battery.flac:446aa4934f31fa03064f2010aa2dddeb
+D2Track05 La Bamba~ Run To The Hills~ Helpless.flac:49fe62eeec716200cc26d2c321f5b100
+D2Track06 Last Caress.flac:90c771ca9e4e75923e6fb93e2e7336f6
+D2Track07 Am I Evil.flac:fa0f0a8b2cb258344fdeef475265981d
+D2Track08 Whiplash.flac:349ab75b6c4b1d5c1bbcb1a33603d79a
+D2Track09 Breadfan.flac:69e151d2bc41a635d9ed0493106ce2b0

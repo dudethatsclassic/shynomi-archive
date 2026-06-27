@@ -1,0 +1,93 @@
+Miles Davis
+1984-07-27 (a)
+Idrettens Hus
+Molde, Norway
+
+~~ from FM source, speed corrected & patched ~~
+
+This copy: 114.30 min, FM, A-
+
+Lineage: Mcas > cas > dat > cdr
+
+Line-up:
+
+Miles Davis (tp, synth); Bob Berg (ss, ts); John Scofield (g); Robert Irving III (synth); 
+Darryl Jones (el-b); Al Foster (d); Steve Thornton (perc)
+
+00 Warm Up 0:07 °°° from alternate FM source
+01 Speak / That's What Happened 11:55 °°° fades in, main source starts here
+02 New Blues (Star People) 10:20
+03 What It Is 11:02
+04 It Gets Better 13:43 °°° skip/cut at 13:10
+05 Something on Your Mind 10:08 °°° tape flip, cuts at end
+06 Time After Time 10:43 °°° tape flip, cuts in; FM signal interference during track
+07 Hopscotch 9:01
+08 Freaky Deaky 2:05
+09 Jean Pierre  10:15 °°° tape flip, cut at 10:10
+10 drum solo 1:22
+11 Code M.D. 11:49 °°° skip/cut at 6:02
+Encore
+12 Something On Your Mind 7:22
+13 Lake Geneva 4:31
+
+Total time 57:18 (Tr.00-05) & 57:12 (Tr.06-13)
+
+Editing (PLaz):
+- removed clicks and pops
+- repaired drop outs
+- retracked
+
+Editing (flambay):
+- speed correction (between -15cts and -30cts, Patches: +50cts)
+- patch source: removing 50 Hz hum
+- inserting patches (00 Warm up and applause at start 06 Time After Time)
+
+Historical Note:
+In the Molde history this is known as the Miles' Midnight Mass; the concert was scheduled for 6 PM on the 27th, but didn't start until Miles arrived from Paris in a chartered plane, around 1 AM, the morning of he 28th.--johan
+
+Credits:
+Thanks to the tapers of this recording
+
+Brought to you by plaz & flambay
+
+Enjoy !!
+
+dimeadozen.org - April 2010
+
+
+
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+ffp:
+00 Warm Up (from alt.source).flac:ae3646ab392ecb62d972b1c16876f3dc
+01 Speak.flac:69e10d8d2f73bd2fb1620618de3d744c
+02 New Blues.flac:cd6d9c80053f72e28fe668e7a7e7fc86
+03 What It Is.flac:731f84f93284954865bea1d5d19b904b
+04 It Gets Better.flac:3529d2fbbb636f3cf6c148fb734a9f54
+05 Something On Your Mind.flac:b9c721371b2e21f4c84ee07b81c39e03
+06 Time After Time.flac:ac92b8a09f64eb55b431241d8ee621cf
+07 Hopscotch.flac:b8bcfd8a7708224b91123ceec9734830
+08 Freaky Deaky.flac:ca85bedc3376333e1d953bb7e23c74f7
+09 Jean Pierre.flac:b46dbc0e7da189e1269a48a7f2395f77
+10 Drum Solo.flac:de30b1cf1b547573f86f291d846fe8c4
+11 Code M.D..flac:15af226aaed3d6cbc81f1e7a55119fa5
+12 Something On Your Mind.flac:8424f7b14d5eb30aac58213b6caf8d21
+13 Lake Geneva.flac:03879b7065884d66e026c01975bafe02
+
+md5:
+a9406bd501b0692de60358d1793d2815 *00 Warm Up (from alt.source).flac
+4aecf7770c49849c19a4e535eb924321 *01 Speak.flac
+ba71658c32e72483d5dd231c7aad83dd *02 New Blues.flac
+35958d3b44ca096d559945a8df7753a1 *03 What It Is.flac
+6559c73836c54fc8dddaf2ac91b50f67 *04 It Gets Better.flac
+281a42950d90922f394ee90ccff5df0e *05 Something On Your Mind.flac
+45263206e3365f93302f16970e7a4a66 *06 Time After Time.flac
+24e26ff6ceb3270de4bafae8ef6c66a4 *07 Hopscotch.flac
+da03ff57418298691af773470173ccbd *08 Freaky Deaky.flac
+e373b750e3e54cb60875d39fb1a02624 *09 Jean Pierre.flac
+2bda045344650252aa420283a3a31fde *10 Drum Solo.flac
+521d877a8790ba18774389dc0eb5d5e3 *11 Code M.D..flac
+825fb929ce9224534dbfe6a3ba34e4d1 *12 Something On Your Mind.flac
+a0f00cc466e349abac29e7dbc2f735a2 *13 Lake Geneva.flac
+

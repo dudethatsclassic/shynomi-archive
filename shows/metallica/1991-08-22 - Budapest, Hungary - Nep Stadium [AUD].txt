@@ -1,0 +1,25 @@
+Metallica - Hungarian Rock
+ Venue:	@Nep Stadium : Budapest, Hungary
+ Date:	August 22, 1991
+ Time:	44:37
+ Size:	1 CD
+ Sound:	AUD A/A-
+ Notes:	Incomplete version : last 3 tracks are missing.
+
+Disc 1:
+
+1. Enter Sandman 
+2. Creeping Death
+3. Harvester Of Sorrow 
+4. Fade To Black 
+5. Sad But True 
+6. Master Of Puppets
+7. Whiplash 
+8. Last Caress 
+9. Am I Evil
+
+-----------------------------
+
+*Additional Notes, Added April 19, 2017 by JITF
+
+The tracks were encoded in an older FLAC version (1.2.1 20070917). Decoded back to WAV using Trader's Little Helper, then converted to current FLAC format (1.3.2 20170101) at Level 8 with EZ CD Audio Converter. The files went from 296.8 MB to 296.5 MB.

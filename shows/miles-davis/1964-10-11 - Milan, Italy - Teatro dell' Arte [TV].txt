@@ -1,0 +1,67 @@
+Miles Davis Quintet
+10-11-1964
+Teatro dell' Arte
+Milan, Italy
+
+Project ID - LL70
+
+Source: TV Broadcast
+Lineage: RAI TV Broadcast > ?? >  Disc #7 of the fall 1964 miles-trees vine > 
+unknown ripping software > wave > flac
+
+Miles Davis (tpt); Wayne Shorter (ts); Herbie Hancock (p); Ron Carter (b); 
+Tony Williams (d)
+
+disc 1
+
+d1t01. Autumn Leaves
+d1t02. My Funny Valentine
+d1t03. All Blues
+d1t04. All of You
+d1t05. Joshua
+d1t06. Theme
+
+-------------------------------------------------------
+
+Notes:
+
+- There is a fair amount of hiss present in this source. 
+
+- This recording is a A great piece of history.
+
+- QC done by bgreen
+
+
+md5
+ 4ed6f2255081dbad88215edc49756e4a *md1964-10-11.LL70.d1t01.flac
+ 48720db73318b032477bdfa83b956a51 *md1964-10-11.LL70.d1t02.flac
+ f92f26af12d1620f5333b5e3879407fa *md1964-10-11.LL70.d1t03.flac
+ e8c5c934a6e0b4a5fac581ab1a6297c9 *md1964-10-11.LL70.d1t04.flac
+ 41bc8dd88ba1b328b7a943586a3c43b1 *md1964-10-11.LL70.d1t05.flac
+
+
+ffp
+md1964-10-11.LL70.d1t01.flac:16c12807190e35e8d1d46e4b45c72e68
+md1964-10-11.LL70.d1t02.flac:957ac26b0c562c17bbf3d1e18f25095d
+md1964-10-11.LL70.d1t03.flac:a07189d0bc3dbf0226bb34bf98c9bf8a
+md1964-10-11.LL70.d1t04.flac:1e2504dea900ef6a1ce2ad46c95c1d65
+md1964-10-11.LL70.d1t05.flac:9913f56b9fbe17a432535f1838782cd9
+
+
+shntool
+ length     expanded size    cdr  WAVE problems  fmt   ratio  filename
+ 13:54.31      147190556 B   ---   --   ---xx   flac  0.4488  md1964-10-11.LL70.d1t01.flac
+ 11:48.07      124907708 B   ---   --   ---xx   flac  0.5018  md1964-10-11.LL70.d1t02.flac
+ 13:40.14      144680972 B   ---   --   ---xx   flac  0.5129  md1964-10-11.LL70.d1t03.flac
+ 10:37.39      112458572 B   ---   --   ---xx   flac  0.5024  md1964-10-11.LL70.d1t04.flac
+  9:12.08       97391660 B   ---   --   ---xx   flac  0.5132  md1964-10-11.LL70.d1t05.flac
+ 59:12.24      626629468 B                            0.4938  (5 files)
+
+old md5
+4ed6f2255081dbad88215edc49756e4a *1 Audio Track.flac
+48720db73318b032477bdfa83b956a51 *2 Audio Track.flac
+f92f26af12d1620f5333b5e3879407fa *3 Audio Track.flac
+e8c5c934a6e0b4a5fac581ab1a6297c9 *4 Audio Track.flac
+41bc8dd88ba1b328b7a943586a3c43b1 *5 Audio Track.flac
+916442237c71868e31c24f7f3779ee9e *MD European Tour 1964 info.txt
+

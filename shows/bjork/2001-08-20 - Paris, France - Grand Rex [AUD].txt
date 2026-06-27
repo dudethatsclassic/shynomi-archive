@@ -1,0 +1,73 @@
+Björk
+2001-08-20
+Grand Rex
+Paris France
+
+EX Audience > MD > CDR(x1) > 
+EAC > wav > Flac Frontend (level 7,
+align sector boundaries) > flac
+
+Thanks miles for the source!
+
+Bjork Hub:
+bjorkhub.no-ip.info
+http://bjorklossless.goudwater.nl
+
+
+Setlist:
+CD1:
+Part 1
+01. Harm Of Will
+02. All Is Full Of  Love
+03. Unravel
+04. Generous Palmstroke
+05. It's Not Up To You
+06. Undo
+07. I've Seen It All
+08. Cocoon
+09. Hidden Place
+
+
+CD2:
+Part 2
+01. You've Been Flirting Again
+02. Isobel
+03. Pagan Poetry
+04. Venus As A Boy
+05. Possibly Maybe
+06. Anchor Song
+07. Hyperballad
+08. Bachelorette
+encores
+09. Jóga
+10. Its In Our Hands
+11. Human Behaviour
+
+from Matmos Set:
+12. sun on 5 at 152
+13. for felix (and all the rats)
+ 
+
+Flac Fingerprints:
+bjork2001-08-20d1t01.flac:81ed993f6a4628aa6cfe9cbdbb285585
+bjork2001-08-20d1t02.flac:949c4d52896d8b5c4f87bd169b76e4e9
+bjork2001-08-20d1t03.flac:ff7c7537b9e626ec570891b4f8fae818
+bjork2001-08-20d1t04.flac:5d06665c0d4646b3300c24b882472269
+bjork2001-08-20d1t05.flac:4e5728ecb019d11aacad106dfd44121b
+bjork2001-08-20d1t06.flac:b55242dc4d1dd0bab08bd00d16fe4e2c
+bjork2001-08-20d1t07.flac:bceef4b61b98053320dcf2a46ace0850
+bjork2001-08-20d1t08.flac:e141c3d4cb4073ef97cd9f98d9d1143c
+bjork2001-08-20d1t09.flac:5e1f00e3dc6e0598e4b178abadd6cc2d
+bjork2001-08-20d2t01.flac:154b92177b1ec5f71c5b3e7e9c1f5477
+bjork2001-08-20d2t02.flac:2b206db88e32eb627700906e24827823
+bjork2001-08-20d2t03.flac:e53dba47be3829da1f9dfe50ac039ece
+bjork2001-08-20d2t04.flac:cd4cd9ff605ffec258438d5415a4c223
+bjork2001-08-20d2t05.flac:1890a3e6a3afa44f1ba417b1ebe2f1ee
+bjork2001-08-20d2t06.flac:dd72b21c490dd7455db297d431228bc6
+bjork2001-08-20d2t07.flac:0e6d1921cbf070852ccd793a7e62ff25
+bjork2001-08-20d2t08.flac:c223acebac86804654ed35cdbba4c7ed
+bjork2001-08-20d2t09.flac:e7e9cc2024e7789664e48c4010cfd2b2
+bjork2001-08-20d2t10.flac:57e3d97ebb3c5da3521a4fc2e20ff13e
+bjork2001-08-20d2t11.flac:91d966fcfe0679b903d4bcb20eed86c3
+bjork2001-08-20d2t12.flac:6e8c936172b6db1cb3f87b354fead74a
+bjork2001-08-20d2t13.flac:0a355810931897e2b88ba459e3b8f0b1

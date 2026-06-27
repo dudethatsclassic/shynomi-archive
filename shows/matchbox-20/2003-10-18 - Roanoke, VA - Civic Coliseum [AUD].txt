@@ -1,0 +1,93 @@
+Matchbox 20
+Civic Coliseum, Roanoke, VA
+October 18, 2003
+
+Source : DPA 4060 mics > Sony PCM M1 (DAT Master) Recorded by Sean Stevens
+
+Transfer : Sony DTC-ZE700 > Optical Cable > JVC XL-R2010 CD-RW (16/44) (transfer 4/11/15)
+
+Editing : Sound Forge (volume & tracking) > Wave > TLH (sbe aligned) Flac 8
+
+Traders Den - May 6, 2020
+
+Transferred & Tracked by kingrue upload #2507
+-----------------------------------------------------------
+
+This was recorded by a personal friend of mine, which i had transferred over 5 years.
+
+I just got a request for it, so this goes out by request for philabong41.
+
+Recording Location : Section: Riser 4, Row A, Seat 12
+
+Seating Capacity : 10,622
+
+Opening act: Fountians of Wayne
+
+The first 8:42 min are slightly over-driven.
+
+Band line-up
+Rob Thomas – lead vocals, guitar, keyboards, piano
+Brian Yale – bass, backing vocals
+Paul Doucette – drums, percussion, backing vocals
+Kyle Cook – lead guitar, vocals, mandolin, banjo 
+
+
+Total Time = 01:52:17
+
+Set list
+01 Feel
+02 Real World
+03 All I Need
+04 Soul
+05 Disease
+06 Could I Be You
+07 3am
+08 Hand Me Down
+09 If You're Gone
+10 Bright Lights
+11 Kashmir (Led Zeppelin)
+12 Time After Time (Cyndi Lauper)
+13 Bent
+14 Don't You Forget About Me (Simple Minds)
+15 Unwell
+16 Mad Season
+17 Back 2 Good
+18 Downfall
+19 You're So Real
+20 So Sad So Lonely
+21 Push
+22 Long Day
+
+-------------------------
+
+
+
+No errors occured.
+
+01 Feel.flac:5915669954c5326334542d1086364528
+02 Real World.flac:6ff77eccd1c667104fb010f639523d28
+03 All I Need.flac:5c15efeeb3a0b3d769ceb9506146552f
+04 Soul.flac:1d17a8aa56158445f5fa3bb29be55510
+05 Disease.flac:62551dde62c317293819f4abb907233c
+06 Could I Be You.flac:284e7ac9e0a827380c944d1fa254d1d1
+07 3am.flac:cba2484102bd95bd959660b6fdd06db4
+08 Hand Me Down.flac:a64b161f1cd98452718bd95eee83aaf9
+09 If You're Gone.flac:485eca5a7c9c864ef2b94856a04c348d
+10 Bright Lights.flac:8b19d4f618fe2eb783803269ecb947f3
+11 Kashmir (Led Zeppelin).flac:38c8e0a906d2fa38285eaefc807f7e52
+12 Time After Time (Cyndi Lauper).flac:c365763b8c5eda5cc105622a9047daa8
+13 Bent.flac:f2a389535815b7c5401b46da241a8d65
+14 Don't You Forget About Me (Simple Minds).flac:914f7498305489bec6d4b0baff33ea67
+15 Unwell.flac:3950d3620f427d389bb114a8717bd8f9
+16 Mad Season.flac:fc384cc45feeff1c4ff4c00c35cc6dfb
+17 Back 2 Good.flac:29a0d02ded34b7c9a2b14de076c3da1a
+18 Downfall.flac:cc0c9388c518c28f99ecc464d7cd4ab2
+19 You're So Real.flac:528ba254de1770566293771c323a9b12
+20 So Sad So Lonely.flac:2e788421d63c355d465f50edc846741a
+21 Push.flac:b7ef802ee0fa09ed47d170b32bc49714
+22 Long Day.flac:0324164f25dcbc4b53f5381519f1cbcc
+
+Checksum file saved to disk.
+
+No errors occured.
+

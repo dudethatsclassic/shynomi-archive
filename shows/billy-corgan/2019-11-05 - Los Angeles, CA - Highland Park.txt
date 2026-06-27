@@ -1,0 +1,90 @@
+William Patrick Corgan
+2019-11-05
+Lodge Room, Highland Park, Los Angeles, CA, US
+
+Source: DPA 4063 > M10 (mic-in) @ 24 bit / 48 kHz
+Mic Config: HRTF
+Edit: EQ, compression, limiter, gain, fades
+Final format: 16 bit, 44.1 kHz
+
+Set 1:
+
+101. Buffalo Boy
+102. Cri De Couer
+103. To Scatter One's Own
+104. Rider (Sunset Symphony)
+105. (banter)
+106. Hard Times
+107. Dancehall
+108. (banter)
+109. Anon
+110. Cotillions
+111. Zowie
+112. (banter)
+113. Half-Life of an Autodidact
+114. Aeronaut
+115. Oh My Darling, Clementine [traditional]
+116. (banter)
+117. Mandarynne
+
+Set 2:
+
+201. Blew Away
+202. 1979
+203. Blue Skies Bring Tears
+204. (applause)
+205. The Empty Sea
+206. Violet Rays
+207. (banter)
+208. Hangin' On [Waylon Jennings]
+209. Another Bridge to Burn ['Little' Jimmy Dickens]
+210. (tuning)
+211. Nights in White Satin [The Moody Blues]
+212. (banter)
+213. Spaceboy
+214. (banter)
+215. Knights of Malta
+216. Perfect
+217. Ugly
+218. Cast a Stone
+219. (banter)
+220. Silvery Sometimes (Ghosts)
+
+Personnel:
+
+William Patrick Corgan (formerly Billy)
+Meena Ysanne (formerly Ysanne Spevack)
+Linda Strawberry
+James Iha ("Blew Away", "1979", "Blue Skies Bring Tears")
+
+* https://wpcstore.warnermusic.com/
+* https://ffm.to/cotillions
+* https://archive.org/details/BillyCorgan
+* https://web.archive.org/web/20201217054833/https://www.wpccodex.com/
+  (wpccodex.com has expired as of this writing)
+
+Notes:
+
+Published Jan 21 2022, over two years after-the-fact; wpccodex.com has even
+expired since.  There was at least one other experienced taper in attendance
+(with Schoeps mics), so I wasn't really trying.  Unfortunately, they had some
+mic problems and their recording never made it to archive.org.  The section of
+my crowd for this show was louder and more enthusiastic than Nov 4th and 6th
+shows, so I applied some heavy fades and even cut most applause sections
+in-between tracks during the editing process.
+
+Minimal dialogue in-between songs is cut, just a "thank you" somewhere.  A few
+dynamic compression artifacts appear during music when the crowd goes wild, most
+notably towards the end of "Blew Away" and the start of "1979", but I decided to
+compromise on those for more enjoyable recording overall.  The applause after
+"Blue Skies Bring Tears" is thundering and most of it is tracked separately as
+James exits the stage while Billy thanks him.
+
+I also ran an experimental rig which would've had a lower noise floor, but lost
+one channel; so this is the same rig I used for the Nov 4th and 6th shows.
+
+I've started publishing more of my recordings on a Tor hidden service at:
+http://s35tjjsibx24bjtgbbhfyf2d3hx2b7hxxfpalrdd5wbweorqkqfyh4yd.onion/
+You'll need Tor <https://www.torproject.org/> to access .onion URLs.
+Expect a Night Dreamer set (Jeff Schroeder's solo project) to show up there
+at some point...

@@ -1,0 +1,35 @@
+Band:Cake
+Venue:The Moore Theater
+Location:Seattle WA
+Date:11-24-2004
+
+Source: Audio Technica 853's > SP Battery Box (16hz-no rolloff) >
+Sony M1 DAT (44.1khz) {Mics in hat-XY FOB 15 feet from stage, right of center}
+
+Recorded & Seeded By Basshead basshead02@yahoo.com
+
+Transfer: Sony M1-> Delta Dio 24/96 via Core Sound 7Pin Coax Cable-> Soundforge 5.0 Pro (No Resampling)-> CDWave for track splits->
+FLAC Frontend.
+
+Disc 1
+1. Frank Sinatra
+2. You Part The Waters
+3. Sheep Go to Heaven
+4. Instrumental (name?)
+5. Building A Religion
+6. Love You Madly
+7. Wheels
+
+Disc 2
+1. Stickshifts and Saftybelts
+2. Carbon Monoxide
+3. Nuggets
+4. Guitar
+5. Rock and Roll Lifestyle
+6. Never There
+7. No Phone 
+8. Sad Songs and Waltzes
+9. Jolene
+
+
+

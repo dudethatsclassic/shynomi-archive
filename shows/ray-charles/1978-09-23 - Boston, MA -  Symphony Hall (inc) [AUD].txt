@@ -1,0 +1,36 @@
+Ray Charles and band
+Symphony Hall
+Boston, Mass. U.S.A.
+September 23, 1978
+incomplete master audience recording
+runtime: 74:18 (minutes/ seconds)
+
+    setlist: (thanks to jj1400 for this)
+1: Georgia (on my mind) 5:09
+(Hoagy Carmichael and his Orchestra cover)
+2: oh, what a beautiful mornin' 11:56
+(Rodgers & Hammerstein cover) 
+3: feel so bad 7:32
+(Chuck Willis cover)
+4: a little more love 6:13
+5: all I need 5:46
+6: don't change on me 3:10
+7: I can't stop loving you 10:43 (cuts, spliced at 7:11, tape flip)
+(Don Gibson cover)
+8. I can see clearly now 4:37
+(Johnny Nash cover)
+9. jealous kind 6:37
+(Bobby Charles cover)
+10. big leg woman (with a short short mini skirt) 8:34
+(Israel Tolbert cover)
+11. what'd I say 3:59
+
+lineage:
+Sony TC-48 auto levelling mono cassette recorder >
+Maxell UD 90 minute cassette >
+Nak. BX-125 > soundforge (16 bit/ 44.1 khz wav) >
+flac 
+1st posted in 2009 with no sb aligning and no lineage or setlist  info at all.
+reseeded in 2020 with setlist, runtime and track times
+and a flac > wav > flac (sb's aligned) reconversion to remove the sbe's.
+unfortunately the 1st tape with about 45 minutes more of this concert has gone lost, but this is the remaining part after that, and sounds like it ends with the conclusion of the show.

@@ -1,0 +1,82 @@
+Smashing Pumpkins
+October 10th 2022
+Bridgestone Arena
+Nashville, TN, US
+
+SOURCE (AUD#1)
+Internal Mics > iPhone 13
+
+TRANSFER:
+iPhone 13 (M4A) > WAV > CD Wave Editor > Trader's Little Helper 2.8.4
+
+GENERATION:
+M4A(M) > WAV > FLAC
+
+LENGTH:
+109:05
+
+SETLIST:
+01. Atum
+02. Empires
+03. Bullet With Butterfly Wings
+04. Today
+05. We Only Come Out at Night
+06. Cyr
+07. Once in a Lifetime [Talking Heads]
+08. Solara
+09. Eye
+10. Ava Adore
+11. (banter)
+12. Tonight, Tonight
+13. Stand Inside Your Love
+14. I of the Mourning
+15. Cherub Rock
+16. Zero > Love Gun [Kiss] (tease)
+17. 1979
+18. Beguiled
+19. Silverfuck
+20. Neophyte
+21. Disarm
+22. Harmageddon
+
+NOTES:
+Thank you to the taper Liquidsun for sending this for release
+
+*******************
+This is a lossy source
+The SPLRA team have converted the M4A to a WAV file to indicate there is no upgrade to the original master which was recorded in M4A format
+*******************
+
+MD5 FINGERPRINTS:
+5dbb30e8d0999d81ef47c68c4b34cfa1 *Smashing Pumpkins 2022-10-10 AUD1 t01 Atum.flac
+10a8591adb0e9c851436f5ed0f35fcb9 *Smashing Pumpkins 2022-10-10 AUD1 t02 Empires.flac
+2328991d85fa188e4be3ce9112608dc8 *Smashing Pumpkins 2022-10-10 AUD1 t03 Bullet With Butterfly Wings.flac
+d985abcd4291cecbaad5bc3a37d9249a *Smashing Pumpkins 2022-10-10 AUD1 t04 Today.flac
+a3154f66e7fbe178936f72cf7cefb7e5 *Smashing Pumpkins 2022-10-10 AUD1 t05 We Only Come Out at Night.flac
+d176c9b6615a4d50da6e9bbcacf74baa *Smashing Pumpkins 2022-10-10 AUD1 t06 Cyr.flac
+0097e36d0173c36ab2e1fd81084cb998 *Smashing Pumpkins 2022-10-10 AUD1 t07 Once in a Lifetime [Talking Heads].flac
+0d76e673f8b2107ec84d2b55c8f39244 *Smashing Pumpkins 2022-10-10 AUD1 t08 Solara.flac
+e2fac55ef15d6d33cd112678d40a1eaa *Smashing Pumpkins 2022-10-10 AUD1 t09 Eye.flac
+db7363e82f859cdb361bdb0ba2bfeb31 *Smashing Pumpkins 2022-10-10 AUD1 t10 Ava Adore.flac
+feefd27c85d128cadf94b5765faab6ff *Smashing Pumpkins 2022-10-10 AUD1 t11 (banter).flac
+ae6c26789fc297812b5459285d0c9cd7 *Smashing Pumpkins 2022-10-10 AUD1 t12 Tonight, Tonight.flac
+9d0348981e227992b8c05d788941080e *Smashing Pumpkins 2022-10-10 AUD1 t13 Stand Inside Your Love.flac
+a23f057dbaa960e383c679a402a1b450 *Smashing Pumpkins 2022-10-10 AUD1 t14 I of the Mourning.flac
+d0c56076aace90a84a8b2c1e13f73da1 *Smashing Pumpkins 2022-10-10 AUD1 t15 Cherub Rock.flac
+be21633a7f0a9717513690fa4bd76a3a *Smashing Pumpkins 2022-10-10 AUD1 t16 Zero.flac
+3203144fa88e31b6785a154785930ecf *Smashing Pumpkins 2022-10-10 AUD1 t17 1979.flac
+a87ba011e593b8f1365ead333f0863a3 *Smashing Pumpkins 2022-10-10 AUD1 t18 Beguiled.flac
+c38ccc0ab3ea9d948cf09aac8f6591da *Smashing Pumpkins 2022-10-10 AUD1 t19 Silverfuck.flac
+2c0c99eacf72c4d3914f5d227fc9e970 *Smashing Pumpkins 2022-10-10 AUD1 t20 Neophyte.flac
+32b815189105dc442ca3fc67b7cea1c7 *Smashing Pumpkins 2022-10-10 AUD1 t21 Disarm.flac
+ec904a1a9c239601dcf777feac373c89 *Smashing Pumpkins 2022-10-10 AUD1 t22 Harmageddon.flac
+
+RECORDED BY:
+Liquidsun
+
+TRANSFER BY:
+Liquidsun
+
+DISTRIBUTION:
+Spaldz, Nicholas Serra & Members of SPLRA
+2024-12-19

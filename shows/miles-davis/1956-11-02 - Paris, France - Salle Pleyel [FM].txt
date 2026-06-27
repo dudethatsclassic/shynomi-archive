@@ -1,0 +1,52 @@
+Birdland All-Stars (W/ Miles Davis)
+11-02-1956
+Salle Pleyel
+Paris, France 
+
+Project ID - LL29
+
+Source: FM Broadcast
+Lineage: ORTF radio broadcast > ?? > unknown transfer(s)>wav>??>shn
+
+Miles Davis (tpt); Lester Young (ts);René Urtreger (p); Pierre Michelot (b); 
+Christian Garros (d) 
+
+disc 1
+
+d1t01. Lady Be Good 
+ 
+-------------------------------------------------------
+
+Notes:
+
+- One of the few surviving fragments of the Birdland All-Stars
+23 show tour of Europe in November 1956. This recording suffers from 
+Significant line hum and hiss, but is still a worthy recording featuring 
+a lively performance by Miles Davis. The line hum exists both of 
+two different sources obtained for this show.
+
+- The Birdland All-Stars also featured the great Lester Young, who was
+enjoying a brief comeback after a hospital stay in November 1955. 
+However, his health was still poor, reportedly due to liver disease and
+malnutrition, which would contribute to his passing away less than three 
+years from the date of this show.   
+
+- QC done by guygee
+
+md5
+a4224314f4c1f71080f2108284d0e40e *md1956-11-02.LL29.d1t01.flac
+
+ffp
+md1956-11-02.LL29.d1t01.flac:5cdd25ed8154d19d374606599e24c986
+
+st5 
+5cdd25ed8154d19d374606599e24c986  [shntool]  md1956-11-02.LL29.d1t01.flac
+
+shntool
+length     expanded size   cdr  WAVE problems filename
+     7:10.36       75936716    ---   --   ---xx   md1956-11-02.LL29.d1t01.flac
+     7:10.36       75936716 B                     (total for 1 file, 0.5826 overall compression ratio)
+
+spectral analysis from TLH
+md1956-11-02.LL29.d1t01.wav:  track looks like CDDA with probability 100%
+

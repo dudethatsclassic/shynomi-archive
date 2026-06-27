@@ -1,0 +1,211 @@
+Bon Iver
+
+Heineken Music Hall
+Amsterdam
+The Netherlands
+
+6th November 2012 (2012-11-06)
+
+
+RECORDING:
+
+Type: Audience master, recorded 8 - 10 metres in front of the left, suspended
+      PA stack.
+
+Source: Factory-matched pair of Schoeps CCM 41V microphones (DINa mounted) ->
+	Marantz PMD661 recorder with Oade Concert Mod
+	(-18 dB gain/44.1 kHz/24 bit WAV)
+
+Lineage: Audacity 2.0.2
+	   * applied variable amplification for consistency across recording
+	   * some minor attenuation of applause
+	   * added fades
+	   * split tracks
+	   * converted to 16 bit
+	 -> FLAC (compression level 8) [libFLAC 1.2.1 20070917]
+
+Taper: Ian Macdonald (ianmacd)
+
+
+SET LIST:
+
+01. [00:56] [intro]
+02. [04:28] Perth
+03. [04:25] Minnesota, WI
+04. [03:05] Towers
+05. [03:59] Creature Fear
+06. [02:37] Team
+07. [04:47] Hinnom, TX
+08. [05:07] Wash.
+09. [07:44] Holocene
+10. [06:30] Blood Bank
+11. [03:24] Woods
+12. [03:31] Brackett, WI
+13. [00:48] [banter]
+14. [04:29] Skinny Love
+15. [02:14] [banter]
+16. [04:14] Calgary
+17. [01:25] Lisbon, OH
+18. [07:37] Beth/Rest
+19. [02:14] [encore break]
+20. [04:32] Flume
+21. [01:06] [banter]
+22. [06:41] The Wolves (Act I and II)
+23. [04:38] For Emma
+
+Total running time: 90:30
+
+
+MD5 CHECKSUMS:
+
+188254679fdd826c17cb098de1f00f7b  flac/01_intro.flac
+2ea7aa39db65081947d820eedf6d73b3  flac/02_perth.flac
+a0343bf1584044b1e7529c7e09090b08  flac/03_minnesota_wi.flac
+f963dec28a56f284f33c9a510ec61d87  flac/04_towers.flac
+a111ab0a4c58eeaf9a35e0a08837ab7d  flac/05_creature_fear.flac
+e2afd822872b7c28a7cbfccfab6b9785  flac/06_team.flac
+ab17ffa71f2c53e42e93ce6862bccbe1  flac/07_hinnom_tx.flac
+7fa0075b494a9a5e39fa2721f2efc8b9  flac/08_wash.flac
+a0d8a56be55935bbfa2cdba05ec6140e  flac/09_holocene.flac
+6d9bb46f293c88fe021df276341dffff  flac/10_blood_bank.flac
+004f8de9c8e65966147a727542930070  flac/11_woods.flac
+a6cb25e7a692d9a02e7276e4115fa339  flac/12_brackett_wi.flac
+1e92bcb6111e244a3ca4df91c96438bc  flac/13_banter.flac
+964dceb95c6143f673c4647e69a32d10  flac/14_skinny_love.flac
+24b50af6a0c473ad5c9abe8a3b5f172a  flac/15_banter.flac
+0be2a5fee02011c28293ff164d36669a  flac/16_calgary.flac
+d3bb06b4144ee6c85614cc021173bcee  flac/17_lisbon_oh.flac
+69fff9b1402fdab6c87706775bf84346  flac/18_bethrest.flac
+452a9ac173f4afe74693081ed5ea0659  flac/19_encore_break.flac
+941ae9276666ff567e708be0bd9be9cc  flac/20_flume.flac
+e763212a93247cc45ef0985eb1b1640c  flac/21_banter.flac
+824f92539f95f0baf3c4b58bfa8ed00c  flac/22_the_wolves_act_i_and_ii.flac
+53829b97362fc9f0c74b073b76ebfa6b  flac/23_for_emma.flac
+e7d4b5243826c81acdaf1c60ea5e48d2  flac/checksums.ffp
+6e8c2289561fa0704306e1704bc911f2  photos/1642.jpg
+6ba5e033224eafe6507af6f5f534f892  photos/1643.jpg
+8dcc50e390c515d757b3f054bbbb2fd7  photos/1644.jpg
+5f9716fbb38c60a8d78b0e1c8a0a75ff  photos/1645.jpg
+10c968d3063e5b481a5b8a10c76d1458  photos/1646.jpg
+6a476fe5f10cfe72d23a07a76db2d78b  photos/1647.jpg
+63052e3ff719555a82c2a696720bfa84  photos/1648.jpg
+ce840c825d1c1fc976169429df5e8abc  photos/1649.jpg
+d5b5b98f49842ca350f2c0dd3d423cb0  photos/1650.jpg
+6a50952156084324c1b85b750792c0dd  photos/1651.jpg
+
+
+NOTES:
+
+Earlier in the day, I had made a half-hearted attempt at flogging my ticket
+for this, but soon discovered a glut of the market. The cause? The dregs of
+capitalist society, namely shady ticket agencies (oh, I'm sorry; I meant to
+say secondary ticket sellers), dumping speculatively purchased tickets en
+masse for face value or less.
+
+This was a sold-out gig, but who's to say whether it would still have sold out
+if only fans had purchased tickets? First these so-called agencies (which, in
+reality, are little more than some cynical opportunist with a mobile phone and
+an awkward web site knocked up in five minutes by his brother-in-law) deprive
+real fans of tickets by creating artificial scarcity; then they deprive
+genuine sellers of the ability to part with their ticket without incurring a
+loss.
+
+All you talentless leeches who prowl the Dutch hunting grounds of Marktplaats
+-- yes, that means you, Giggotickets, Tickets4u, TicketTribune, Easy Tickets,
+GoGo Tickets, Ticket Studio and all of the other scavenging parasites -- I
+wouldn't give you the steam from my piss, much less my hard-earned cash.
+
+I'd rather stay in and wash my hair than see you profit by a single cent. Even
+if I were desperate to see the artist in question, the knowledge that my
+ticket purchase had caused you to prosper would preoccupy me and spoil the
+gig. I'd rather spend my money on Gary Glitter CDs; almost.
+
+'Secondary ticket sellers' you euphemistically call yourselves. Let's not
+cloud the issue here. You are touts, pure and simple; but you're more
+objectionable than the old-fashioned barrow boy street tout, about whom I feel
+almost sentimental and warm-hearted in comparison with you. A street tout
+sells his wares for over the odds, yes, but his prices are transparent. The
+asking price is what the customer eventually pays, and there it ends. There's
+no deception involved.
+
+You, on the other hand, charge way over the odds for tickets to 'sold-out'
+concerts that often turn out to be anything but, and then hit the customer
+with an additional exorbitant 'processing fee'. Not satisfied with that, you
+cap it off with an even more absurd postage charge, whose magnitude suggests
+that one's purchase will surely be hand-delivered within a couple of hours by
+a naked Hollywood starlet bearing a ticket encased in a bar of gold bullion
+and offering sex in return for a signature.
+
+Rather than suffer the loss of selling for under face value, I decide to
+attend the gig. After all, there must be a reason I bought the ticket in the
+first place, right?
+
+And I actually haven't even lost sight of that reason: I wanted to know what
+all the fuss was about.
+
+Ever since Justin Vernon disappeared into a shack in Wisconsin to lick his
+wounds after his relationship and band fell apart, emerging on the far side of
+winter as Bon Iver with 'For Emma, Forever Ago' under his arm, people have
+been hailing the man as the best thing since sliced bread. That debut album
+rode high on many a critic's best of 2008 chart and the reviews were enticing.
+
+I bought the record, played it and was bored to tears by it. THIS was what all
+the fuss was about? How could so many people be so enamoured with a bunch of
+dreary falsetto folk tunes? Blasphemy to some readers, I'm sure, but the
+record was a huge disappointment to me.
+
+Perhaps I invested too heavily in the background story. The circumstances of
+how the album came to be resonated with me. There's nothing like a bit of
+heartache and suffering to get the creative juices flowing. Lovelorn and
+bedridden with illness, isolated in the harsh winter of middle America, no way
+forward but to play the guitar and write lyrics, romantic justice dictates
+that it should have been the record that reasserted the artist's uncrushable
+spirit and demonstrated the kind of brilliance possible only when one has hit
+rock bottom.
+
+It didn't, which is to say that, for many people, it absolutely did, but not
+for me. Unlucky.
+
+By all accounts, the Bon Iver live experience is something truly magical, so
+in the spirit of not writing things off without a fair trial (or multiple fair
+trials, even), this opportunity seemed as good a time as any to check out
+Vernon and his band in a live setting.
+
+Only, when the time came, I was tired and reluctant. The weather was dismal
+and I didn't feel like going out, particularly not to the Heineken Music Hall,
+one of my least favourite venues in Amsterdam, and then to see a band that I
+just don't seem able to appreciate.
+
+I resign myself to attending, however, and perk up. My reluctance diminishes.
+I'll make the best of it. And who knows? Maybe I'll be really impressed.
+
+It's still pouring with rain as I bike to the car to drive to the venue, which
+is situated in a particularly soulless part of Amsterdam.
+
+Bon Iver have expanded to a nine-piece live. They turn out to be a far more
+interesting proposition in the flesh than on record, but still fall short of
+truly capturing my imagination.
+
+It's not that the songs aren't played to perfection. They are. I really can't
+fault the performance (unless I may produce in evidence the use of autotune
+for aesthetic purposes). The band put their heart and soul into every number
+and the audience lap it up, right down to the last note.
+
+It's the songs themselves that simply don't grab me, with the exception of the
+Hinnom, TX/Wash. segue, which does gently tug at my heartstrings.
+
+Don't let my obvious lack of rapture mislead you, however. I treat the
+recording of this concert no differently than I would any other and, on this
+occasion, with superb results.
+
+The recording is sublime. As distasteful as some of the peripheral aspects of
+the Heineken Music Hall are to me, the sound inside the auditorium is usually
+excellent and tonight is no exception. If anything, the occasion is exemplary
+of just how good the venue can sound in the right hands.
+
+The separation of instruments in the recording is as good as I have heard from
+an audience recording. The band were mixed to perfection and someone somewhere
+deserves a medal for his work on the night.
+
+As always, samples are provided to help you decide whether this is worth the
+share ratio depletion for you.

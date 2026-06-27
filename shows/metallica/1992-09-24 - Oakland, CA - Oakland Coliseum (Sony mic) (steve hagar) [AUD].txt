@@ -1,0 +1,106 @@
+Metallica
+
+1992-09-24
+oakland Coliseum
+oakland, CA
+
+
+Recording Equipment: Sony Subpar Mic -> Sony WM-D3 
+
+
+Lineage: Denon 790R -> Kenwood A-522 amplifier -> Kenwood GE-622 Equalizer -> DAT line out -> line in on Tascam DR-2D -> WAV -> Wav Pad Editor(track splitting) -> TLH (align,Encode,ffp) -> FLAC
+
+
+Taper: Steve "ballsdeep" Hagar
+
+
+
+01. Ecstacy of Gold
+02. Creeping Death
+03. Harvester of Sorrow
+04. Welcome Home (Sanitarium)
+05. Sad But True
+06. Wherever I May Roam
+07. Of Wolf and Man
+08. For Whom the Bell Tolls
+09. Kirk's Solo
+10. The Unforgiven
+11. The Shortest Straw
+12. Bass Solo
+13. Dazed And Confused Jam
+14. Blues Jam
+15. Kirk's Solo 2
+16. Fade To Black
+17. Master of Puppets
+18. Seek and Destroy
+19. Whiplash
+20. Nothing Else Matters
+21. Am I Evil?
+22. Last Caress
+23. One
+24. Enter Sandman 
+
+
+
+
+show notes: a 2nd Day On The Green. and Body Count (late minute add) > Metallica > Guns N Roses, I mean, nothing could go wrong, right? the fans would behave, right? everything would go smoothly, right?
+
+
+
+pretty sure you heard the reports on this show, the $100K damage the fans caused to the field, etc..... I can confirm, being in front of the soundboard, that I moved an easy 20 yards..........more than once, *without my feet touching the ground*. I can also confirm that I caught clumps of sod to the earhole, also more than once. a dozen+ times that dirt bounced off the mics, those have been turned into "dropouts" vs. 'static', in order to master the overall soundfile.
+
+
+
+and speaking of mics, this show was recorded with a subpar Sony mic. I'd used the stock mic that came with the D-3 before (the Sony PA-62), and the Phoenix show in August show came out fine (possibly torrented, possibly not?). so, in my infinite non-wisdom, I believed that "bigger mics were better", and plopped down $50 on some sort of a Sony mic with a squarish head (spent an hour image searching on google but couldn't find it...I *may* have the instructions for it kicking somewhere, but am not motivated enough to look. if they pop up someday, cool. if not, oh well). anyhow, this resulted in more of an "Aiwa condenser-mic" sound to the tape, but it still surpisingly has a pretty nice dynamic range. a 'pluck' to the bass and clear guitars. when everyone is making noise at the same time, it gets a bit 'mushy' sounding; I did spend about 3 hours working on all the screams and when the dirt hit the mic. methinks most folks would be happy. there are 4 splices, and all are pretty easy to notice (except the one before Sandman), I'd say no more than 10 seconds of music was lost (which is amazing in and of itself, based on the swirling pit on the floor that I was on the backside of)
+
+
+
+it runs right on the verge of "too hot" for how I like to master shows up. and I'm sure you'll hear some up/down fluctuations where I used the limiter incorrectly. but overall I'm happy with how it came out, a little bumpy sounding, just like being there....
+
+
+
+
+
+
+speaking of "Enter Sandman", James did play guitar on that song, but no others.
+
+as for the music, I'll just let it speak for itself. DOTG #2, Metallica, in their home base. 'nuff said.
+
+maybe someday I'll spend the time on the GNR to do it right. then again, maybe not....(haha)
+
+a big ball of thanks to the dominating bubba420 for this upload. there are still a few more Metallica masters to get to (I have a partial Metallica from the Rose Bowl, partial due to getting there late, and a couple of '94 shows), and who knows what else might get sent his way from the frozen confines of Alaska?
+
+stay tuned!!!
+
+---ballsdeep  OUT!!!
+
+
+
+
+
+ffp:
+
+01. Ecstacy Of Gold.flac:2006ac541ee99e4f9fd3e7e3fa21cf3b
+02. Creeping Death.flac:77b646f991cffaade68b81d068bfa19c
+03. Harvester of Sorrow.flac:b48f85371d48fa86847253630e850c6b
+04. Welcome Home (Sanitarium).flac:67f6ab1490d597cc32851453f2ee6f7a
+05. Sad But True.flac:3ed899ec71c5dce1f2fdf7c0c21341de
+06. Wherever I May Roam.flac:f74b8e1b82266e21385d250519564c7d
+07. Of Wolf and Man.flac:fcc4673ac046efc3e0aabce8cf0836f1
+08. For Whom The Bell Tolls.flac:243310721ec5f05dee75fbc949de1ebb
+09. Kirk's Solo.flac:87a88bbfd6d61f1361a43dd726774615
+10. The Unforgiven.flac:ac07ba470161fc01aadd98101fb87604
+11. The Shortest Straw.flac:545fb9a1fa17331df42fe1600e617a44
+12. Bass Solo.flac:d172064a6ded474b3e52b839e3a9f751
+13. Dazed And Confused Jam.flac:1ecc3897e4b02e58ddfc856dc058f0c7
+14. Blues Jam.flac:e323a34433550cd8f63348d5d2cde453
+15. Kirk's Solo 2.flac:e4ad7c7c1b88fd60dbfaddfe1828d24c
+16. Fade To Black.flac:2e7da431f110f84546467743ea8748f7
+17. Master Of Puppets.flac:39ac642eec824fc64521eabfcea51b55
+18. Seek and Destroy.flac:4f44183c09e152919a58a420db2cb852
+19. Whiplash.flac:a3e52317884a8cd7a217f544dc0099c2
+20. Nothing Else Matters.flac:76ac84a8fd3ce523ddb5296f49ed02e8
+21. Am I Evil.flac:5dccc4e9a0bf433f412cc0c51bf343a5
+22. Last Caress.flac:25994b4faa1f8e57573719040745edbe
+23. One.flac:9f6dd797b88e3402e347587ba5f19bfb
+24. Enter Sandman.flac:05958e6447141e5026a749986902889d

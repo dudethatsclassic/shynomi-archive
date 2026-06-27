@@ -1,0 +1,106 @@
+Ryan Adams
+September 7, 2008
+Bank of America Pavilion	
+Boston, MA
+
+Source: {16 bit} Schoeps MK41 > KC5 > CMC6 > Lunatec V3 > Microtrack @ 24/48
+Lineage: Compact Flash > Sound Studio 3.0 (fades, normalize, resample, dither) > xAct (sector boundary alignment, FLAC encoding (level 8) fingerprints)
+Location: FOH directly in front of sbd- DINa @ 8'
+Taped by: Jesse Hurlburt (jcue81@hotmail.com)
+
+Set 1-Disc 1
+
+01 Crowd
+02 Off Broadway
+03 Bartering Lines 
+04 Goodnight Rose 
+05 Cobwebs
+06 Everybody Knows
+07 Why Do They Leave
+08 Magick
+09 Two
+10 Please Do Not Let Me Go
+11 Come Pick Me Up
+12 When The Stars Go Blue
+13 Wonderwall
+14 Fix It
+15 Easy Plateau
+
+Set 2-Disc 2
+01 Crowd
+02 Let It Ride
+03 Games
+04 A Kiss Before I Go
+05 Peaceful Valley
+06 Cold Roses
+07 Dear John
+08 Shakedown
+09 Sinking Ship (1)
+10 The Color of Pain (1)
+11 Magnolia Mountain
+12 Beautiful Sorta
+13 I See Monsters
+
+(1) First time played
+
+FLAC Fingerprints:
+ryanadams2008-09-07.mk4.d1t01.flac:ccdd768b680af854c87bad7992be295c
+ryanadams2008-09-07.mk4.d1t02.flac:f1ad5eb0529301d97110bf459bf87ad7
+ryanadams2008-09-07.mk4.d1t03.flac:68f64ab669ed459568f696d3090fb752
+ryanadams2008-09-07.mk4.d1t04.flac:df3336c2915987f8d59b383112adafae
+ryanadams2008-09-07.mk4.d1t05.flac:1ee29a501ac7341915dfd8783166054a
+ryanadams2008-09-07.mk4.d1t06.flac:78aea284d9734a696a5427ec8a29d446
+ryanadams2008-09-07.mk4.d1t07.flac:5cbeb0e8c5b14f4d725b06adad3febc3
+ryanadams2008-09-07.mk4.d1t08.flac:833f6580e9f7b243ba92d5d0235f3e29
+ryanadams2008-09-07.mk4.d1t09.flac:8ad4722cdb07b7acdd95aa9386778cf9
+ryanadams2008-09-07.mk4.d1t10.flac:d67b186467b09da9320755c93e161569
+ryanadams2008-09-07.mk4.d1t11.flac:8fb37c3a6067d0c481dfe71e37f0be1e
+ryanadams2008-09-07.mk4.d1t12.flac:04d99ad0ed110da6ab9cd90a1af638ce
+ryanadams2008-09-07.mk4.d1t13.flac:984d9547dcc1e9ba7375afc11450d029
+ryanadams2008-09-07.mk4.d1t14.flac:e8d3156fbd9236d5dcb9a9de68f632f3
+ryanadams2008-09-07.mk4.d1t15.flac:8dc4e05501c21fbfadf5c5c6a2e349ad
+ryanadams2008-09-07.mk4.d2t01.flac:0c512274f007e0f1c3ba00328942f9bc
+ryanadams2008-09-07.mk4.d2t02.flac:fcf9dba2c70b1646dc6bf156bcbca176
+ryanadams2008-09-07.mk4.d2t03.flac:cf9e8960b55b10742607053016bfc70e
+ryanadams2008-09-07.mk4.d2t04.flac:f3c6c0c4a1ac3d71fbff01f2e5af2107
+ryanadams2008-09-07.mk4.d2t05.flac:35265722e1d5b4be5ab4fbad60cd6272
+ryanadams2008-09-07.mk4.d2t06.flac:9773009f869bae5a639a8331bbed6939
+ryanadams2008-09-07.mk4.d2t07.flac:d344f970dd62c4005fbfc13188016970
+ryanadams2008-09-07.mk4.d2t08.flac:d8c87c370c818b168ba5f42ef43d2086
+ryanadams2008-09-07.mk4.d2t09.flac:3d135641b197979449faa070b133e7b5
+ryanadams2008-09-07.mk4.d2t10.flac:cb2bc94f9af47663b2393d7813b49aae
+ryanadams2008-09-07.mk4.d2t11.flac:4c202b65bcedeac9474d4fbd93a79fd3
+ryanadams2008-09-07.mk4.d2t12.flac:c6e5110a486ffd9c2bc1ce6bf350a883
+ryanadams2008-09-07.mk4.d2t13.flac:9c877e460ab8ebfa9e350a2564e9f8c2
+
+shntool output:
+    length     expanded size    cdr  WAVE problems  fmt   ratio  filename
+     0:30.51        5411996 B   ---   --   ---xx  ryanadams2008-09-07.mk4.d1t01.flac
+     6:44.15       71300924 B   ---   --   ---xx  ryanadams2008-09-07.mk4.d1t02.flac
+     4:04.29       43109852 B   ---   --   ---xx  ryanadams2008-09-07.mk4.d1t03.flac
+     6:31.46       69080636 B   ---   --   ---xx  ryanadams2008-09-07.mk4.d1t04.flac
+     4:17.65       45487724 B   ---   --   ---xx  ryanadams2008-09-07.mk4.d1t05.flac
+     3:38.27       38518748 B   ---   --   ---xx  ryanadams2008-09-07.mk4.d1t06.flac
+     5:39.54       59926652 B   ---   --   ---xx  ryanadams2008-09-07.mk4.d1t07.flac
+     2:49.35       29893964 B   ---   --   ---xx  ryanadams2008-09-07.mk4.d1t08.flac
+     2:56.40       31140524 B   ---   --   ---xx  ryanadams2008-09-07.mk4.d1t09.flac
+     5:04.69       53787932 B   ---   --   ---xx  ryanadams2008-09-07.mk4.d1t10.flac
+     5:04.45       53731484 B   ---   --   ---xx  ryanadams2008-09-07.mk4.d1t11.flac
+     6:09.54       65218652 B   ---   --   ---xx  ryanadams2008-09-07.mk4.d1t12.flac
+     6:53.39       72944972 B   ---   --   ---xx  ryanadams2008-09-07.mk4.d1t13.flac
+     6:32.02       69153548 B   ---   --   ---xx  ryanadams2008-09-07.mk4.d1t14.flac
+    11:03.39      117044972 B   ---   --   ---xx  ryanadams2008-09-07.mk4.d1t15.flac
+     0:22.05        3892604 B   ---   --   ---xx  ryanadams2008-09-07.mk4.d2t01.flac
+     4:56.30       52285004 B   ---   --   ---xx  ryanadams2008-09-07.mk4.d2t02.flac
+     4:37.39       48954572 B   ---   --   ---xx  ryanadams2008-09-07.mk4.d2t03.flac
+     4:17.42       45433628 B   ---   --   ---xx  ryanadams2008-09-07.mk4.d2t04.flac
+     7:10.02       75856748 B   ---   --   ---xx  ryanadams2008-09-07.mk4.d2t05.flac
+     5:32.46       58673036 B   ---   --   ---xx  ryanadams2008-09-07.mk4.d2t06.flac
+     6:53.61       72996716 B   ---   --   ---xx  ryanadams2008-09-07.mk4.d2t07.flac
+     5:15.67       55723628 B   ---   --   ---xx  ryanadams2008-09-07.mk4.d2t08.flac
+     5:03.56       53580956 B   ---   --   ---xx  ryanadams2008-09-07.mk4.d2t09.flac
+     7:16.03       76917500 B   ---   --   ---xx  ryanadams2008-09-07.mk4.d2t10.flac
+     9:25.61       99809516 B   ---   --   ---xx  ryanadams2008-09-07.mk4.d2t11.flac
+     3:24.55       36115004 B   ---   --   ---xx  ryanadams2008-09-07.mk4.d2t12.flac
+     9:06.19       96359132 B   ---   --   ---xx  ryanadams2008-09-07.mk4.d2t13.flac
+   151:23.46     1602350624 B                            0.5132  (28 files)

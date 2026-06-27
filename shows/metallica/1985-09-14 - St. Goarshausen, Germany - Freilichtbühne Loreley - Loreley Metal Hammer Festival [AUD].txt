@@ -1,0 +1,250 @@
+Metallica
+
+"Loreley Metal Hammer Festival"
+
+1985-09-14 
+Freilichtbühne
+St. Goarshausen, Germany
+
+Source: Unknown AUD
+
+Transfer: CASS(unknown gen) > Sony TCW-305 > Roxio 6.0 > WAV > CDR(M) > EAC(secure) > WAV > FLAC(lvl8) 
+
+Disc 1:
+01. Ecstacy Of Gold
+02. Creeping Death
+03. Ride the Lightning
+04. Disposable Heroes
+05. No Remorse
+06. Anesthesia
+07. For Whom the Bell Tolls
+08. Four Horsemen
+09. Fade to Black (cuts @ 4:14 due to tape flip)
+
+Disc 2:
+01. Seek & Destroy
+02. Whiplash
+03. Fight Fire With Fire
+04. Kirk solo/Am I Evil?
+05. Motorbreath
+06. Private Interview w/ Kirk (1985-09-14 taper interview)
+07. WVVX Chicago Radio 1986-04-05 (whole band is there and DJ and take calls)  
+
+Notes:
+Another RARE show i got from the person that transfered his unknown gen cass to cdr for me. This is the COMPLETE aud recording of this show besides the cut on fade to black @ 4:14 due to cass flip. This also come with two kickass interviews, the first one is a private interview with kirk after the show (1985-09-14) by the taper. The second interview is a awesome 32:00 min long WVVX Chicago Radio Speical w/Metallica, after they played in chicago that night on 1986-04-05. A truly cool interview imo, it made me laugh more then once.
+ 
+
+                           Enjoy!
+
+                                ~ bubba420 ~
+
+
+
+
+
+
+
+
+
+FLAC Fingerprint:
+
+Disc 1:
+Track01.flac:1b164f97a4c532c69ae6d8bcbedd80fd
+Track02.flac:657d2a9aa417acfd532f328c49aee6a0
+Track03.flac:c2dd530de46f94a6bddd87f4b9c96416
+Track04.flac:2cd52b7f5f75f1cf0ddd8d2563f96a11
+Track05.flac:f2cda5570dc553a485de7396c2c479ab
+Track06.flac:ea9b15f86f2c57187d2392c31c9bbc27
+Track07.flac:c069af31a525150b4eb8d2c4ce84edfd
+Track08.flac:72c32fe01da542183c8220773d375f64
+Track09.flac:8d15c3aea892a642725a170cc262ddae
+Disc 2:
+Track01.flac:359b6707aae09f72132bd78ab1520d9d
+Track02.flac:16b938d2492c1bfd7d5310d1aafe683e
+Track03.flac:6bfd8af91aca2e301e7daba0c9f30a94
+Track04.flac:a2267c0425d83548ecaffd5ed7e8a63a
+Track05.flac:157c15f926a295452a97cf7dc16df0cc
+Track06.flac:0459b7db601546df745708b319ad4b44
+Track07.flac:2404840d4287711ee2847d3f09870c70
+
+
+
+
+
+EAC LOG:
+
+
+EAC extraction logfile from 2. February 2006, 2:44 for CD
+Unknown Artist / Unknown Title
+
+Used drive  : LG      CD-RW CED-8120B   Adapter: 0  ID: 0
+Read mode   : Secure with NO C2, accurate stream, NO disable cache
+Combined read/write offset correction : 0
+Overread into Lead-In and Lead-Out : No
+
+Used output format : Internal WAV Routines
+                     44.100 Hz; 16 Bit; Stereo
+
+Other options      : 
+    Fill up missing offset samples with silence : Yes
+    Delete leading and trailing silent blocks : No
+    Installed external ASPI interface
+
+
+Track  1
+     Filename C:\My Documents\Metallica 1985-09-14 St. Goarshausen, Germany\Track01.wav
+
+     Peak level 94.4 %
+     Track quality 99.8 %
+     Copy CRC FC43FDE3
+     Copy OK
+
+Track  2
+     Filename C:\My Documents\Metallica 1985-09-14 St. Goarshausen, Germany\Track02.wav
+
+     Peak level 77.7 %
+     Track quality 99.9 %
+     Copy CRC 5D97BC62
+     Copy OK
+
+Track  3
+     Filename C:\My Documents\Metallica 1985-09-14 St. Goarshausen, Germany\Track03.wav
+
+     Peak level 75.4 %
+     Track quality 99.9 %
+     Copy CRC B665EEED
+     Copy OK
+
+Track  4
+     Filename C:\My Documents\Metallica 1985-09-14 St. Goarshausen, Germany\Track04.wav
+
+     Peak level 73.0 %
+     Track quality 99.9 %
+     Copy CRC 5F3B3F48
+     Copy OK
+
+Track  5
+     Filename C:\My Documents\Metallica 1985-09-14 St. Goarshausen, Germany\Track05.wav
+
+     Peak level 76.9 %
+     Track quality 99.9 %
+     Copy CRC 4E77A6B4
+     Copy OK
+
+Track  6
+     Filename C:\My Documents\Metallica 1985-09-14 St. Goarshausen, Germany\Track06.wav
+
+     Peak level 65.5 %
+     Track quality 99.9 %
+     Copy CRC 9518D1CE
+     Copy OK
+
+Track  7
+     Filename C:\My Documents\Metallica 1985-09-14 St. Goarshausen, Germany\Track07.wav
+
+     Peak level 70.5 %
+     Track quality 99.9 %
+     Copy CRC 15B5AF9D
+     Copy OK
+
+Track  8
+     Filename C:\My Documents\Metallica 1985-09-14 St. Goarshausen, Germany\Track08.wav
+
+     Peak level 71.3 %
+     Track quality 99.9 %
+     Copy CRC FF84317E
+     Copy OK
+
+Track  9
+     Filename C:\My Documents\Metallica 1985-09-14 St. Goarshausen, Germany\Track09.wav
+
+     Peak level 74.0 %
+     Track quality 100.0 %
+     Copy CRC 1DF75A28
+     Copy OK
+
+No errors occured
+
+
+End of status report
+
+
+EAC extraction logfile from 2. February 2006, 3:07 for CD
+Unknown Artist / Unknown Title
+
+Used drive  : LG      CD-RW CED-8120B   Adapter: 0  ID: 0
+Read mode   : Secure with NO C2, accurate stream, NO disable cache
+Combined read/write offset correction : 0
+Overread into Lead-In and Lead-Out : No
+
+Used output format : Internal WAV Routines
+                     44.100 Hz; 16 Bit; Stereo
+
+Other options      : 
+    Fill up missing offset samples with silence : Yes
+    Delete leading and trailing silent blocks : No
+    Installed external ASPI interface
+
+
+
+Track  1
+     Filename C:\My Documents\Metallica 1985-09-14 St. Goarshausen, Germany\Track01.wav
+
+     Peak level 80.4 %
+     Track quality 99.9 %
+     Copy CRC FBB02DE0
+     Copy OK
+
+Track  2
+     Filename C:\My Documents\Metallica 1985-09-14 St. Goarshausen, Germany\Track02.wav
+
+     Peak level 78.8 %
+     Track quality 99.9 %
+     Copy CRC 89B9B52E
+     Copy OK
+
+Track  3
+     Filename C:\My Documents\Metallica 1985-09-14 St. Goarshausen, Germany\Track03.wav
+
+     Peak level 77.8 %
+     Track quality 100.0 %
+     Copy CRC 35F67355
+     Copy OK
+
+Track  4
+     Filename C:\My Documents\Metallica 1985-09-14 St. Goarshausen, Germany\Track04.wav
+
+     Peak level 81.6 %
+     Track quality 100.0 %
+     Copy CRC 14E1EB6E
+     Copy OK
+
+Track  5
+     Filename C:\My Documents\Metallica 1985-09-14 St. Goarshausen, Germany\Track05.wav
+
+     Peak level 74.2 %
+     Track quality 99.9 %
+     Copy CRC A036BD9B
+     Copy OK
+
+Track  6
+     Filename C:\My Documents\Metallica 1985-09-14 St. Goarshausen, Germany\Disc 2\Track06.wav
+
+     Peak level 69.1 %
+     Track quality 99.9 %
+     Copy CRC 6005CFBE
+     Copy OK
+
+Track  7
+     Filename C:\My Documents\Metallica 1985-09-14 St. Goarshausen, Germany\Disc 2\Track07.wav
+
+     Peak level 100.0 %
+     Track quality 99.9 %
+     Copy CRC A30CCC77
+     Copy OK
+
+
+No errors occured
+
+
+End of status report

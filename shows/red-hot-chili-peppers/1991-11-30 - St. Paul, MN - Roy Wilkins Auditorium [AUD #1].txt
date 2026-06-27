@@ -1,0 +1,88 @@
+Red Hot Chili Peppers
+
+November 30, 1991 - Roy Wilkins Auditorium, St. Paul, MN
+
+
+01. Love Trilogy
+02. Organic Anti-Beat Box Band
+03. Bullet Proof
+04. Suck My Kiss
+05. Funky Crime
+06. Backwoods
+07. Give It Away
+08. Nobody Weird Like Me
+09. If You Have To Ask
+10. Stone Cold Bush
+11. New Age
+12. Blood Sugar Sex Magik
+13. Magic Johnson
+14. Me And My Friends
+15. I Could Have Lied
+16. Fopp
+17. Party On Your Pussy
+18. Red Hot Mama
+19. Higher Ground
+20. Yertle The Turtle
+21. Freaky Styley
+22. Cosmic Slop
+23. Crosstown Traffic
+
+LEN : 75:11
+GEN : DAT? > CD-R > FLAC
+
+John coverd "New Age" by The Velvet Underground.
+
+rhcp1991-11-30t01.wav:  successfully encoded to 'rhcp1991-11-30t01.flac'
+rhcp1991-11-30t02.wav:  successfully encoded to 'rhcp1991-11-30t02.flac'
+rhcp1991-11-30t03.wav:  successfully encoded to 'rhcp1991-11-30t03.flac'
+rhcp1991-11-30t04.wav:  successfully encoded to 'rhcp1991-11-30t04.flac'
+rhcp1991-11-30t05.wav:  successfully encoded to 'rhcp1991-11-30t05.flac'
+rhcp1991-11-30t06.wav:  successfully encoded to 'rhcp1991-11-30t06.flac'
+rhcp1991-11-30t07.wav:  successfully encoded to 'rhcp1991-11-30t07.flac'
+rhcp1991-11-30t08.wav:  successfully encoded to 'rhcp1991-11-30t08.flac'
+rhcp1991-11-30t09.wav:  successfully encoded to 'rhcp1991-11-30t09.flac'
+rhcp1991-11-30t10.wav:  successfully encoded to 'rhcp1991-11-30t10.flac'
+rhcp1991-11-30t11.wav:  successfully encoded to 'rhcp1991-11-30t11.flac'
+rhcp1991-11-30t12.wav:  successfully encoded to 'rhcp1991-11-30t12.flac'
+rhcp1991-11-30t13.wav:  successfully encoded to 'rhcp1991-11-30t13.flac'
+rhcp1991-11-30t14.wav:  successfully encoded to 'rhcp1991-11-30t14.flac'
+rhcp1991-11-30t15.wav:  successfully encoded to 'rhcp1991-11-30t15.flac'
+rhcp1991-11-30t16.wav:  successfully encoded to 'rhcp1991-11-30t16.flac'
+rhcp1991-11-30t17.wav:  successfully encoded to 'rhcp1991-11-30t17.flac'
+rhcp1991-11-30t18.wav:  successfully encoded to 'rhcp1991-11-30t18.flac'
+rhcp1991-11-30t19.wav:  successfully encoded to 'rhcp1991-11-30t19.flac'
+rhcp1991-11-30t20.wav:  successfully encoded to 'rhcp1991-11-30t20.flac'
+rhcp1991-11-30t21.wav:  successfully encoded to 'rhcp1991-11-30t21.flac'
+rhcp1991-11-30t22.wav:  successfully encoded to 'rhcp1991-11-30t22.flac'
+rhcp1991-11-30t23.wav:  successfully encoded to 'rhcp1991-11-30t23.flac'
+
+No errors occured.
+
+
+rhcp1991-11-30t01.flac:f58604e091a04c4a1a6888f65cc0782b
+rhcp1991-11-30t02.flac:15eb6607bc07e88f312824c0315a7436
+rhcp1991-11-30t03.flac:0bef52647d3a2fa96552c796aed86159
+rhcp1991-11-30t04.flac:b8ba9e39b7faf67309dbb87f07d34723
+rhcp1991-11-30t05.flac:496483774da852a548a9bd860944cace
+rhcp1991-11-30t06.flac:16060e01a4929c840ff6738cd8cc8332
+rhcp1991-11-30t07.flac:ae3ad03b44dd3c722705a6091c1645ba
+rhcp1991-11-30t08.flac:5ad0fb38f05e5babb71c31056d0302dc
+rhcp1991-11-30t09.flac:0cb0c5f1ed0caea4b6a9ceecf55faac3
+rhcp1991-11-30t10.flac:3b2cbb3536acf1be60520ddf6f518136
+rhcp1991-11-30t11.flac:8f765c4dfd713d1f1267abe0b5e2f603
+rhcp1991-11-30t12.flac:007ce4661b0c716139b6206080c0f989
+rhcp1991-11-30t13.flac:3ed94b7911389a91f94bc0e6e631ef5f
+rhcp1991-11-30t14.flac:650dc280d7d3747b94a0d32a599100de
+rhcp1991-11-30t15.flac:26e3c0a10d5f510bfa7c18d7364342cd
+rhcp1991-11-30t16.flac:2953db9d557ad5788dc0b5e808669cba
+rhcp1991-11-30t17.flac:e40cc11a67868411c2e8b69ff4d509db
+rhcp1991-11-30t18.flac:42cdcd87588abecc8efa762ebdb13069
+rhcp1991-11-30t19.flac:ad630da21de55036b53bd56061101d3a
+rhcp1991-11-30t20.flac:99b4f708dfc58825d976d33127fc4c0d
+rhcp1991-11-30t21.flac:c60d38d5a2dfe72c92cc07fbf1009889
+rhcp1991-11-30t22.flac:01b3e8e06be42a087945fac4e6ab4e6d
+rhcp1991-11-30t23.flac:12e8b2483a9d3755938b9dde96057591
+
+No errors occured.
+
+Checksum file saved to disk.

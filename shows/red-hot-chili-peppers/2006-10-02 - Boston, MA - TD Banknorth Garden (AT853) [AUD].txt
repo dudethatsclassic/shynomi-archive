@@ -1,0 +1,65 @@
+Red Hot Chili Peppers
+2006-10-02
+TD Banknorth Garden
+Boston, MA
+
+Taper:     davepeck <mkdevo@gmail.com>
+Source:    Audio-Technica 853(h) > SP-SPSB-3 > iRiver H120 (16-bit/44.1k).
+Location:  Loge 21; Row 11; in front of side right stack.
+Transfer:  iRiver H120 > Sony Sound Forge 8.0 (Waves L2 Plugin & fades) > CDWave > FLAC.
+Notes:     Starting with Charlie, they *cranked* the levels at the venue. Sound was really 
+           overloaded for the rest of the show, IMO. The recording sounds good considering,
+	   but you can definitely notice this in some of the louder tuned. A couple level 
+	   adjustments were made in between songs. Also, you may want to bump up the bass a
+	   tad on playback. I didn't think it was enough to warrant messing with the EQ on
+	   the file.
+
+***** DO NOT ENCODE TO AND TRADE AS MP3!! *****
+** DO NOT SELL OR PURCHASE THIS RECORDING!!! **
+
+-----------------------------------------------------
+DISC ONE:                                     [76:45]
+-----------------------------------------------------
+01. intro                                     [00:39]
+02. jam >                                     [03:10]
+03. Can't Stop                                [05:29]
+04. Dani California                           [05:06]
+05. Scar Tissue                               [03:59]
+06. jam*                                      [00:58]
+07. Charlie*                                  [05:03]
+08. Fortune Faded                             [03:51]
+09. Readymade                                 [04:13]
+10. Blood Sugar Sex Magik >                   [04:57]
+11. jam                                       [01:25]
+12. Bass Solo >                               [00:54]
+13. Throw Away Your Television >              [03:24]
+14. Don't You Ever Leave**                    [04:17]
+15. Your Pussy's Glued To A Building On Fire^ [01:33]
+16. Snow ((Hey Oh))                           [05:13]
+17. Me And My Friends                         [03:14]
+18. Strip My Mind                             [04:02]
+19. London Calling >                          [01:07]
+20. Right On Time                             [01:51]
+21. Bass Solo >                               [01:06]
+22. Don't Forget Me                           [07:06]
+23. Tell Me Baby                              [04:08]
+-----------------------------------------------------
+DISC TWO:                                     [36:31]
+-----------------------------------------------------
+01. John/Flea jam >                           [03:19]
+02. Californication                           [06:49]
+03. By The Way                                [03:40]
+04. encore break                              [03:57]
+    ENCORE: 
+05. Drum Solo                                 [02:42]
+06. I Could Have Lied                         [05:01]
+07. You're Gonna Get Yours >                  [01:07]
+08. Give It Away >                            [04:38]
+09. jam                                       [05:18]
+-----------------------------------------------------
+
+ * with Marcel Rodriguez-Lopez (The Mars Volta) on congas.
+** no lyrics.
+ ^ John solo.
+
+Enjoy!

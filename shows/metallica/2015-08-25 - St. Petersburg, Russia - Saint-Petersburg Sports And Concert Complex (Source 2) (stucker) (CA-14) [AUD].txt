@@ -1,0 +1,50 @@
+Band name: Metallica
+Date: 25 August 2015
+Venue: SKK
+Location: St.Petersburg, Russia
+
+The Ecstasy of Gold
+Fuel 
+For Whom the Bell Tolls 
+Battery 
+King Nothing 
+Disposable Heroes & Kirk Solo #1
+The Day That Never Comes 
+The Memory Remains 
+The Unforgiven 
+Sad But True 
+Bass Solo
+Turn the Page 
+The Frayed Ends of Sanity 
+One 
+Master of Puppets & Kirk Solo #2
+Fade to Black 
+Seek & Destroy 
+Encore jam
+Whiskey in the Jar 
+Nothing Else Matters 
+Enter Sandman
+
+Total time: 02:10:01
+
+44100 Hz; 16 Bit, Stereo
+
+Source: audience, seats, right tribune
+
+Lineage: CA-14 Cardioid mics -> battery box -> iRiver h340 (rockbox firmware) -> Adobe Audition (splitting, boosting volume) 
+
+Recorded by Stucker
+http://www.dvd-bootlegs.ru/modules/recordings/public/audio.php?details=243
+
+Please do not edit / convert to lossy. Do not forget to include info file while trading/sharing this show.
+
+Note: very good audio recording
+
+Notes provided via LiveMetallica.com
+------------------------------------
+
+This was only the second time that we had played in Saint Petersburg, Russia. We first performed here on July 18, 2008.
+
+Half of the songs on the 18-song setlist were performed in Saint Petersburg for the first time: "Fuel," "Blackened," "King Nothing," "Disposable Heroes," "The Day That Never Comes," "The Memory Remains," "Turn the Page," "The Frayed Ends of Sanity" and "Whiskey in the Jar."
+
+We played 18 songs off of nine albums: Kill 'Em All (1), Ride the Lightning (2), Master of Puppets (2), ...And Justice for All (3), Metallica (4), Load (1), Reload (2), Garage Inc. (2) and Death Magnetic (1)

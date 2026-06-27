@@ -1,0 +1,124 @@
+Miles Davis Quintet
+11-07-1967
+Stadthalle
+Karlsruhe, Germany
+
+Project ID - LL133
+
+Source: TV Broadcast
+Lineage: Südwestfunk TV broadcast > ?? > wave > flac
+
+Miles Davis (tpt); Wayne Shorter (ts); Herbie Hancock (p); Ron Carter (b); 
+Tony Williams (d);Joachim-Ernst Berendt (ann)
+
+disc 1
+
+d1t01. Agitation
+d1t02. Footprints
+d1t03. Round Midnight
+d1t04. No Blues
+d1t05. Masqualero/ 
+
+disc 2
+
+d2t01. /I Fall in Love Too Easily/
+d2t02. /Riot/
+d2t03. Walkin'/
+d2t04. On Green Dolphin Street/
+d2t05. /Gingerbread Boy > The Theme
+
+-------------------------------------------------------
+
+Notes:
+
+- d1t01: This track is not complete according to the timings on Peter Losins site. 
+
+- d1t02: This track is not complete according to the timings on Peter Losins site.
+
+- d1t04: Drop out at :09 through :14. 
+
+- d1t05: It sounds like the last few notes are cut on this track
+
+- d2t01: The first few bars may be cut from this track at the beginning and end.
+
+- d2t02: It sounds like the first few bars are possibly cut from the beginning of 
+this track and the end of the track.
+
+- d2t04: The sound changes drastically from d2t03 to d2t04. This may be a different 
+source or at least heavily worked on. The end of the track is cut also.
+
+- d2t05: The beginning of this track is cut. 
+
+- This source is most likely derived from Tempo di Jazz CDTJ 703. 
+
+- There is a steady Hum thats pretty noticeable in the quiet sections of the recording
+,a slight hiss, and some low end distortion. The recording is still very listenable.
+The other source for this date is LL170 which has a nicer sound, but looks to be 
+from an inferior, possibly even lossy lineage. It is also less complete than this version. 
+If your picking and choosing, this would be my pick of the two.  
+
+- According to Peter Losin, there is an intro that is not included on this source. 
+
+- QC done by Bgreen
+
+md5
+a03f7f98bd2916faf7c35833937d7417 *md1967-11-07.LL133.d1t01.flac
+8f1fc0f29307579130d870a33aa83d79 *md1967-11-07.LL133.d1t02.flac
+2185a6b37b4097c89abc76585b87ac33 *md1967-11-07.LL133.d1t03.flac
+cc46d114b544ac24ef9d1bfc9b3d2c47 *md1967-11-07.LL133.d1t04.flac
+eb34764a13f0bd6d3856c54dbd06feee *md1967-11-07.LL133.d1t05.flac
+5a0f901f99c19dcd11a72e93af0a642f *md1967-11-07.LL133.d2t01.flac
+1f1fd6cfc833d483ea4ca27339225cdc *md1967-11-07.LL133.d2t02.flac
+8f9e3e0742caf9286b061492332929dd *md1967-11-07.LL133.d2t03.flac
+b5c3b2651718de21bbe2352b4f3746e1 *md1967-11-07.LL133.d2t04.flac
+27b165503b6760eb15602dbf544853fb *md1967-11-07.LL133.d2t05.flac
+
+ffp
+md1967-11-07.LL133.d1t01.flac:24a5029f88d4cf1d1275f755efb1c40c
+md1967-11-07.LL133.d1t02.flac:97ccb028d3fd025f43f4d23f83286962
+md1967-11-07.LL133.d1t03.flac:a33474d21d6e507ea7dd3b53432b37f9
+md1967-11-07.LL133.d1t04.flac:0cc81468c610298aab355ed51cbe1c28
+md1967-11-07.LL133.d1t05.flac:1d91051c44e80d3be17f407900ad5b08
+md1967-11-07.LL133.d2t01.flac:b945c354fdbabdce3229372ad8f79dd7
+md1967-11-07.LL133.d2t02.flac:7c794b21c7b8a1a5c52b55e89bbb4581
+md1967-11-07.LL133.d2t03.flac:3198e0451db5c2bd6f7b5268a0919900
+md1967-11-07.LL133.d2t04.flac:30cf5cfd649264c2a4486d531794d751
+md1967-11-07.LL133.d2t05.flac:97e337f234a0e0cd4af0660d6667bb61
+
+shntool
+    length     expanded size   cdr  WAVE problems filename
+     6:31.16       69010076    ---   --   ---xx   md1967-11-07.LL133.d1t01.flac
+     5:52.34       62172812    ---   --   ---xx   md1967-11-07.LL133.d1t02.flac
+     7:44.15       81884924    ---   --   ---xx   md1967-11-07.LL133.d1t03.flac
+    14:55.33      157955660    ---   --   ---xx   md1967-11-07.LL133.d1t04.flac
+    10:26.44      110529932    ---   --   ---xx   md1967-11-07.LL133.d1t05.flac
+    11:12.27      118604348    ---   --   ---xx   md1967-11-07.LL133.d2t01.flac
+     3:52.71       41091836    ---   --   ---xx   md1967-11-07.LL133.d2t02.flac
+     8:53.70       94185884    ---   --   ---xx   md1967-11-07.LL133.d2t03.flac
+     9:19.05       98619404    ---   --   ---xx   md1967-11-07.LL133.d2t04.flac
+     6:17.63       66651020    ---   --   ---xx   md1967-11-07.LL133.d2t05.flac
+    85:06.03      900705896 B                     (totals for 10 files, 0.5744 overall compression ratio)
+
+spectral analysis from TLH
+md1967-11-07.LL133.d1t01.wav:  track looks like CDDA with probability 100%
+md1967-11-07.LL133.d1t02.wav:  track looks like CDDA with probability 100%
+md1967-11-07.LL133.d1t03.wav:  track looks like CDDA with probability 100%
+md1967-11-07.LL133.d1t04.wav:  track looks like CDDA with probability 100%
+md1967-11-07.LL133.d1t05.wav:  track looks like CDDA with probability 100%
+md1967-11-07.LL133.d2t01.wav:  track looks like CDDA with probability 100%
+md1967-11-07.LL133.d2t02.wav:  track looks like CDDA with probability 100%
+md1967-11-07.LL133.d2t03.wav:  track looks like CDDA with probability 100%
+md1967-11-07.LL133.d2t04.wav:  track looks like CDDA with probability 100%
+md1967-11-07.LL133.d2t05.wav:  track looks like CDDA with probability 100%
+
+old md5
+a03f7f98bd2916faf7c35833937d7417 *CD1\Track01.flac
+8f1fc0f29307579130d870a33aa83d79 *CD1\Track02.flac
+2185a6b37b4097c89abc76585b87ac33 *CD1\Track03.flac
+cc46d114b544ac24ef9d1bfc9b3d2c47 *CD1\Track04.flac
+eb34764a13f0bd6d3856c54dbd06feee *CD1\Track05.flac
+5a0f901f99c19dcd11a72e93af0a642f *CD2\Track01.flac
+1f1fd6cfc833d483ea4ca27339225cdc *CD2\Track02.flac
+8f9e3e0742caf9286b061492332929dd *CD2\Track03.flac
+b5c3b2651718de21bbe2352b4f3746e1 *CD2\Track04.flac
+27b165503b6760eb15602dbf544853fb *CD2\Track05.flac

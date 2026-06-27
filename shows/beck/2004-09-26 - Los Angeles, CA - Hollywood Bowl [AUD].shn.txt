@@ -1,0 +1,19 @@
+Beck
+September 26, 2004
+Hollywood Bowl
+Los Angeles, CA
+
+Source: CSB > MDSR60 MD > Toslink > Soundforge 6.0 >
+        CD Wave v1.71 > mkw .97b1 > SHN 
+
+1) Don't Be Light (Air cover) (with Air, Jason Falkner)
+
+
+NOTES (from beck.com):
+Beck, along with Jason Falkner, joined Air onstage during their encore and performed Don't Be Light, from 10,000hz Legend.
+
+Technical Notes:
+I grabbed the entire Air show as a torrent, and pulled this track keeping the existing md5 signature (no reencoding) to maintain integrity.
+
+breathmint
+beck hub (becktabs.homeunix.org)

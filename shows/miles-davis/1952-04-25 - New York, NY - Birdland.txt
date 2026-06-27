@@ -1,0 +1,101 @@
+Beryl Booker Quintet (w/ Miles Davis)
+04-25-1952
+Birdland
+New York, New York
+
+Project ID - LL92
+
+Source: FM Broadcast
+Lineage: WJZ Radio Broadcast > ?? > CD (Peter Losin's Archive ) > 
+CD Duplicated (burner to burner) > EAC > flac (lvl 8)
+
+Miles Davis (tpt); Don Elliot (vb, mellophone); Chuck Wayne (g); 
+Beryl Booker (p); Clyde Lombardi (b); Connie Kay (d)
+ 
+disc 1
+
+d1t01. Introduction
+d1t02. Unknown Title (theme?)
+d1t03. Rifftide
+d1t04. Introduction
+d1t05. All the Things You Are
+d1t06. Introduction
+d1t07. The Squirrel
+d1t08. Announcement
+ 
+-------------------------------------------------------
+
+Notes:
+
+- slight static/digi pop at :29 on d1t03
+
+- slight static/digi pop at 1:49 on d1t07
+
+- there is still a slight hiss present, but much less pronounced from LL25
+
+- slight static burst at 1:54 d1t05
+
+- This recording has less static, level fluctuations, and just has an overall
+more pleasant sound. This is a definite upgrade from LL25.
+
+- Thanks to Peter Losin for the source!
+ 
+- "Davis had been away from New York for several months, in the Midwest trying to cure 
+his heroin habit. He returned in April and joined the Beryl Booker group for two nights 
+broadcast on WJZ. Perhaps on the strengths of this gig, Davis was offered a one-week 
+engagement at Birdland, May 1-7."- Credit to Peter Losin, http://www.plosin.com/
+
+- QC done by Bgreen
+
+md5
+c56ff83347161f117b89bc7ae968502a *md1952-04-25.LL92.d1t01.flac
+5d932adbd86a57d56ad88f291ee0cbcb *md1952-04-25.LL92.d1t02.flac
+5a1467ecaa8f3fc00a021d5bf4e639a9 *md1952-04-25.LL92.d1t03.flac
+c8192ffa2251b62bf10cf300692a11c0 *md1952-04-25.LL92.d1t04.flac
+e155f771085514bdb6639a31141ff1ed *md1952-04-25.LL92.d1t05.flac
+2427e513d4ec610cda9a6e15105fdbce *md1952-04-25.LL92.d1t06.flac
+b34631e65479074ce702d9d3b57f1c9a *md1952-04-25.LL92.d1t07.flac
+0c49e9d770d593786bbea812c459a918 *md1952-04-25.LL92.d1t08.flac
+
+ffp
+md1952-04-25.LL92.d1t01.flac:95fa80853deefa002ccd6079b2645bb4
+md1952-04-25.LL92.d1t02.flac:ec787904a349d4f847e4b0746e8db265
+md1952-04-25.LL92.d1t03.flac:c0ca4949a5939dbfc6e323d7f9e38fa3
+md1952-04-25.LL92.d1t04.flac:2e9c64ab172678438648fb52cda76323
+md1952-04-25.LL92.d1t05.flac:567a5d67f6b48aac570f835fb755bbd1
+md1952-04-25.LL92.d1t06.flac:165d219f5e44ecea2b8c6fdb14b73f72
+md1952-04-25.LL92.d1t07.flac:156f084420d6f457bfdf93e3fbda0116
+md1952-04-25.LL92.d1t08.flac:4e2644d71227523fddad3ca6d83d833e
+ 
+st5 
+95fa80853deefa002ccd6079b2645bb4  [shntool]  md1952-04-25.LL92.d1t01.flac
+ec787904a349d4f847e4b0746e8db265  [shntool]  md1952-04-25.LL92.d1t02.flac
+c0ca4949a5939dbfc6e323d7f9e38fa3  [shntool]  md1952-04-25.LL92.d1t03.flac
+2e9c64ab172678438648fb52cda76323  [shntool]  md1952-04-25.LL92.d1t04.flac
+567a5d67f6b48aac570f835fb755bbd1  [shntool]  md1952-04-25.LL92.d1t05.flac
+165d219f5e44ecea2b8c6fdb14b73f72  [shntool]  md1952-04-25.LL92.d1t06.flac
+156f084420d6f457bfdf93e3fbda0116  [shntool]  md1952-04-25.LL92.d1t07.flac
+4e2644d71227523fddad3ca6d83d833e  [shntool]  md1952-04-25.LL92.d1t08.flac
+
+shntool
+length     expanded size   cdr  WAVE problems filename
+     0:10.38        1853420    ---   --   ---xx   md1952-04-25.LL92.d1t01.flac
+     0:20.10        3551564    ---   --   ---xx   md1952-04-25.LL92.d1t02.flac
+     3:40.68       38967980    ---   --   ---xx   md1952-04-25.LL92.d1t03.flac
+     0:11.43        2041580    ---   --   ---xx   md1952-04-25.LL92.d1t04.flac
+     4:44.49       50212892    ---   --   ---xx   md1952-04-25.LL92.d1t05.flac
+     0:09.21        1637036    ---   --   ---xx   md1952-04-25.LL92.d1t06.flac
+     3:31.32       37295708    ---   --   ---xx   md1952-04-25.LL92.d1t07.flac
+     0:18.27        3238748    ---   --   ---xx   md1952-04-25.LL92.d1t08.flac
+    13:06.63      138798928 B                     (totals for 8 files, 0.5045 
+overall compression ratio)
+
+spectral analysis from TLH
+md1952-04-25.LL92.d1t01.wav:  track looks like CDDA with probability 100%
+md1952-04-25.LL92.d1t02.wav:  track looks like CDDA with probability 100%
+md1952-04-25.LL92.d1t03.wav:  track looks like CDDA with probability 100%
+md1952-04-25.LL92.d1t04.wav:  track looks like CDDA with probability 100%
+md1952-04-25.LL92.d1t05.wav:  track looks like CDDA with probability 100%
+md1952-04-25.LL92.d1t06.wav:  track looks like CDDA with probability 58%
+md1952-04-25.LL92.d1t07.wav:  track looks like CDDA with probability 100%
+md1952-04-25.LL92.d1t08.wav:  track looks like CDDA with probability 100%

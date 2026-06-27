@@ -1,0 +1,84 @@
+Local H
+May 13, 2008
+The Beat Kitchen
+Chicago, IL
+
+****************************** 16-bit/44.1kHz version ******************************
+************************** 24-bit/48kHz version available **************************
+
+Source:         DPA 4022 > Oade Warm Mod Fostex FR-2LE (@ 24-bit/48kHz) 
+Lineage:        Oade Warm Mod Fostex FR-2LE > USB 2.0 > Sound Forge v8.0 > 
+                CD Wave v1.93.3 > FLAC Frontend v1.7.1 > .flac (Level 8) 
+Location:       FOB, 20' from left stack, elevated 8' on stand  
+                Mic configuration: Pointed at left stack, separated 9 cm 
+                                   with shockmount & windscreens
+
+Taped & Transferred by James Bonaiuto <cd2go@hotmail.com>
+LMA Upload by Charles Dewey Cole, IV <live2cd@hotmail.com>
+
+------------------------------------------------------------------------------------
+Disc 1 of 2:                                                    (57:46.17)
+------------------------------------------------------------------------------------
+01. Intro                                                       (00:35.30)
+02. The One With 'Kid'                                          (04:41.02)
+03. Michelle (Again)                                            (02:55.44)
+04. BMW Man                                                     (03:14.51)
+05. White Belt Boys                                             (04:54.23)
+06. The Summer Of Boats                                         (05:14.42)
+07. Taxi-Cabs                                                   (03:53.01)
+08. 24 Hour Break-Up Session                                    (04:38.55)
+09. Machine Shed Wrestling                                      (05:58.16)
+10. Simple Pleas                                                (04:39.21)
+11. Jesus Christ! Did You See The SIZE Of That Sperm Whale?     (02:39.48)
+12. Blur                                                        (03:11.54)
+13. Hand To Mouth                                               (11:10.05)
+------------------------------------------------------------------------------------
+Disc 2 of 2:                                                    (27:17.22)
+------------------------------------------------------------------------------------
+01. ~ Encore ~                                                  (02:50.50)
+02. Half-Life                                                   (04:03.48)
+03. Cynic                                                       (04:03.20) 
+04. Fritz's Corner                                              (02:55.18)
+05. Heavy Metal Bakesale                                        (02:38.29)
+06. Wolf Like Me *                                              (05:19.52)
+07. All The Kids Are Right                                      (05:26.30)
+------------------------------------------------------------------------------------
+Notes:
+
+* = Originally Recorded by TV On The Radio 
+
+------------------------------------------------------------------------------------
+Sound Forge v8.0 Notes:
+
+- Rolled-off frequencies below 120Hz with 20-band Graphic EQ
+- Normalized peak level to -1dB
+- Faded I/O at beginning/end of show
+- Resample: Interpolation accuracy @ 4 with anti-alias filter
+- Dither: Triangular   Noise shaping: Equal loudness contour
+
+------------------------------------------------------------------------------------
+FLAC Fingerprint:
+
+localh2008-05-13d1t01.dpa4022.fr2le.flac:1eb68f25090f47499169e3e49e4b0924
+localh2008-05-13d1t02.dpa4022.fr2le.flac:9aba53be77734e60536f3ccdf37c27fc
+localh2008-05-13d1t03.dpa4022.fr2le.flac:653e71244159b986a4040387045a949c
+localh2008-05-13d1t04.dpa4022.fr2le.flac:405df1335e338e9ee44130420614971e
+localh2008-05-13d1t05.dpa4022.fr2le.flac:bfac980835266ae00d92792abd90bb98
+localh2008-05-13d1t06.dpa4022.fr2le.flac:40ba9d23ef0911c360ca22b3fd67a4b1
+localh2008-05-13d1t07.dpa4022.fr2le.flac:c32a400e4566f223bb1ce5896b4779bf
+localh2008-05-13d1t08.dpa4022.fr2le.flac:893b580331a6020fd1a4631794fcfe6d
+localh2008-05-13d1t09.dpa4022.fr2le.flac:3e827157e8c3982bbaec06be0ce8b186
+localh2008-05-13d1t10.dpa4022.fr2le.flac:2eb199ebd22b7d78d4a79acd11f6a5c1
+localh2008-05-13d1t11.dpa4022.fr2le.flac:c72678feb97d9ead8b8b283393751f8e
+localh2008-05-13d1t12.dpa4022.fr2le.flac:55984e0d1875e806ca3384a39def1fd7
+localh2008-05-13d1t13.dpa4022.fr2le.flac:8774aad98f3652fcc7170e713486069c
+localh2008-05-13d2t01.dpa4022.fr2le.flac:fe4c7d5050845365810b306fe2a6b7a9
+localh2008-05-13d2t02.dpa4022.fr2le.flac:f19eda9ecabdc3b2033bac376d36c0f3
+localh2008-05-13d2t03.dpa4022.fr2le.flac:cba736692ba3278aba460287795067d6
+localh2008-05-13d2t04.dpa4022.fr2le.flac:193fff7711fc1166a8acb02a2e5a0e13
+localh2008-05-13d2t05.dpa4022.fr2le.flac:95f0b9308560c17d6895e23a0fed55c5
+localh2008-05-13d2t06.dpa4022.fr2le.flac:fc82a1ae882bf37df2b7cd1a1f9fcebe
+localh2008-05-13d2t07.dpa4022.fr2le.flac:40d9450550db128f770c0b148b37c90e
+
+------------------------------------------------------------------------------------
+For more info on Local H, please visit: www.localh.com

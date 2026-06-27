@@ -1,0 +1,30 @@
+Post Malone and Red Hot Chili Peppers
+The 61st Annual Grammy Awards
+Los Angeles, CA
+February 10, 2019
+Broadcast live on CBS-TV and E!-TV
+
+Lineage: HD cable > TiVo Premiere > PC via kmttg > VideoReDo > .ts files
+
+Video:
+MPEG-2
+16 Mbps
+1920x1080
+16:9
+
+Audio:
+AC-3
+384 Kbps
+48.0 KHz
+6 channels
+
+Single logo in the right lower screen
+
+Setlist:
+[1:15] Red Hot Chili Peppers red carpet interview
+[7:16] Grammy performance:
+01 intro (Alicia Keys)
+02 Stay/Rockstar (Post Malone solo)
+03 Dark Necessities (Post Malone and RHCP)
+
+

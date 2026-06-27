@@ -1,0 +1,87 @@
+Stars of Modern Jazz (w/ Miles Davis)
+12-24-1949
+Carnegie Hall
+New York, New York
+
+Project ID - LL80
+
+Source: FM Broadcast
+Lineage: Voice of America broadcast > ?? > cd (Peter Losin's Archive) 
+cd duplicated (burner to burner) > eac > flac (lvl 8)
+
+Miles Davis (tpt); Bennie Green (tb); Sonny Stitt (as); Serge Chaloff (bs); 
+Earl "Bud" Powell (p); Dillon "Curly" Russell (b); Max Roach (d); 
+Symphony Sid Torin (ann)
+
+disc 1
+
+d1t01. Introduction
+d1t02. All God's Children Got Rhythm
+d1t03. Introduction
+d1t04. Move
+d1t05. Hot House
+d1t06. Ornithology/
+ 
+-------------------------------------------------------
+
+Notes:
+
+- d1t06 fades out at the end of the track with the music still playing. 
+
+- Decent sound. There is a Slight hiss and crackle, but very enjoyable. A great early 
+performance by some big hitting players.
+
+- "Davis, Green, Stitt, and Chaloff (billed as "The Stars of Modern Jazz") joined the 
+Bud Powell Trio, Sarah Vaughan, the Lennie Tristano Sextet, the Stan Getz-Kai Winding 
+group, and the Charlie Parker Quintet for a Christmas Eve late-night concert. 
+(The bulk of the concert is on the Jass CD.)" - Credit to Peter Losin, 
+http://www.plosin.com/
+
+- "From mid-November through December 10 Davis was booked along with Anita O'Day 
+at the Hi-Note Club on the north side of Chicago; he was backed by Eddie Baker (p), 
+Bob Peterson (b), and Hal Russell (d, vb)." - Credit to Peter Losin, http://www.plosin.com/
+
+- QC done by Bgreen
+
+md5
+1001e62abb8c03c998022b4917ce0f5f *md1949-12-24.LL80.d1t01.flac
+8100e06040620afc3d9ff17d940a87ff *md1949-12-24.LL80.d1t02.flac
+646ba9150f97dffd6860bbcefd491cca *md1949-12-24.LL80.d1t03.flac
+0e3d8ec4904d98b0b1e552c420c94fbc *md1949-12-24.LL80.d1t04.flac
+1999b5f8b80614c3bd903edbcec6d793 *md1949-12-24.LL80.d1t05.flac
+7ee20c18e9419b3e61e2951d5345f7a1 *md1949-12-24.LL80.d1t06.flac
+
+ffp
+md1949-12-24.LL80.d1t01.flac:5dc5fc4711f14ca0c84f83c5028dfcb7
+md1949-12-24.LL80.d1t02.flac:83e7637060069254dd5074cf72711a4b
+md1949-12-24.LL80.d1t03.flac:1a5efb49da4e07dab22b0f31780fe85d
+md1949-12-24.LL80.d1t04.flac:b30cddb168c26d8d1ea77bad31de4eea
+md1949-12-24.LL80.d1t05.flac:95594d93f3f70a15dddd1a6918abe377
+md1949-12-24.LL80.d1t06.flac:824f0cdeb34af8ff769a0c37e7789c2c
+
+shntool
+ length     expanded size   cdr  WAVE problems filename
+     0:39.06        6893756    ---   --   ---xx   md1949-12-24.LL80.d1t01.flac
+     2:54.33       30771260    ---   --   ---xx   md1949-12-24.LL80.d1t02.flac
+     0:38.26        6764396    ---   --   ---xx   md1949-12-24.LL80.d1t03.flac
+     5:34.02       58922348    ---   --   ---xx   md1949-12-24.LL80.d1t04.flac
+     7:54.47       83724188    ---   --   ---xx   md1949-12-24.LL80.d1t05.flac
+     3:33.01       37575596    ---   --   ---xx   md1949-12-24.LL80.d1t06.flac
+    21:13.40      224651544 B                     (totals for 6 files, 0.3557 overall 
+compression ratio)
+
+spectral analysis from TLH
+md1949-12-24.LL80.d1t01.wav:  track looks like CDDA with probability 100%
+md1949-12-24.LL80.d1t02.wav:  track looks like CDDA with probability 100%
+md1949-12-24.LL80.d1t03.wav:  track looks like CDDA with probability 100%
+md1949-12-24.LL80.d1t04.wav:  track looks like CDDA with probability 100%
+md1949-12-24.LL80.d1t05.wav:  track looks like CDDA with probability 62%
+md1949-12-24.LL80.d1t06.wav:  source of track can not be qualified
+
+old ffp 
+md1949-12-24.fm.LL80.flac16\21 - Track21.flac:5dc5fc4711f14ca0c84f83c5028dfcb7
+md1949-12-24.fm.LL80.flac16\22 - Track22.flac:83e7637060069254dd5074cf72711a4b
+md1949-12-24.fm.LL80.flac16\23 - Track23.flac:1a5efb49da4e07dab22b0f31780fe85d
+md1949-12-24.fm.LL80.flac16\24 - Track24.flac:b30cddb168c26d8d1ea77bad31de4eea
+md1949-12-24.fm.LL80.flac16\25 - Track25.flac:95594d93f3f70a15dddd1a6918abe377
+md1949-12-24.fm.LL80.flac16\26 - Track26.flac:824f0cdeb34af8ff769a0c37e7789c2c

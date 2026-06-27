@@ -1,0 +1,77 @@
+Red Hot Chili Peppers
+"Unlimited Love Tour"
+Budweiser Stage
+Toronto, ON
+July 15, 2024
+
+** 24 BIT **
+
+Source:  SP-CMC-8 (cardioids) > SP-SPSB-10 > Roland R-07 @ 24 bit/48 kHz
+Mastering:  .WAV > iZotope RX11 Advanced v11.0.1.3871 (De-click) > Sound Forge Pro 14.0 Build 140 [minor edits, normalize, & fades, Boz Digital Labs T-Bone2 plug-in (tilt EQ)] > CDWav 
+(tracking) > Trader's Little Helper (level 5) > FLAC > TagScanner 6.1.17 (tagging)
+Location:  On the rail on the floor, 2 meters right of DFC
+Recorded by:  toshi
+Mastered by:  Dennis Orr
+
+Setlist: (1:44:08)
+01 Intro Music (Amériques)
+02 Intro Jam >
+03 Can't Stop
+04 Scar Tissue
+05 Chat
+06 Here Ever After
+07 Chat
+08 Snow (Hey Oh)
+09 Parallel Universe
+10 Eddie
+11 I Like Dirt
+12 Soul To Squeeze (with "Venice Queen" tease)
+13 Chat
+14 Me & My Friends
+15 Flea Riffing
+16 Havana Affair
+17 Soul Love (1) >
+18 Tell Me Baby
+19 The Heavy Wing
+20 Californication
+21 Black Summer
+22 By The Way
+23 Encore Break
+- Encore -
+24 I Could Have Lied
+25 Give It Away
+26 Outro/Crowd
+
+(1) John solo
+
+Anthony Kiedis – lead vocals
+John Frusciante – guitars, backing vocals, & keyboards
+Flea (Michael Balzary) – bass, backing vocals, trumpet, & piano
+Chad Smith – drums & percussion
+
+RHCP2024-07-15t01.flac:bfead695f13f5642ef83cb5478d581f0
+RHCP2024-07-15t02.flac:ed6f7b9481d0866b8a6ad8a93bf15376
+RHCP2024-07-15t03.flac:2c61e2e0e8648e495bea0473232960d6
+RHCP2024-07-15t04.flac:6a9653a4bafa84d739d5023f1462df4c
+RHCP2024-07-15t05.flac:f8b7640505929ed31579d8b3994dcaeb
+RHCP2024-07-15t06.flac:6b29346bcddbbb6ac67b2a6f2813ddcd
+RHCP2024-07-15t07.flac:3345d1aeb8b17ccd2fd2a408f949ad88
+RHCP2024-07-15t08.flac:af49cb02b4b70469c160e914bd242908
+RHCP2024-07-15t09.flac:061f98fec726d1b393463ae9e3c2fe71
+RHCP2024-07-15t10.flac:370db1abf7c92a4c7f5d3c133fe454e1
+RHCP2024-07-15t11.flac:1a5ed8d7743baf13132e1ddb9c8b6031
+RHCP2024-07-15t12.flac:8695c82ddb11db1c787fab8f7ad21251
+RHCP2024-07-15t13.flac:6cabc692c22a0a9e91c9cb750a790641
+RHCP2024-07-15t14.flac:2bbb5801b41620acb3dfba76a81b41c4
+RHCP2024-07-15t15.flac:f3c43d6adec85484afbc17fc111e3bf6
+RHCP2024-07-15t16.flac:e529ecaa9a3ab05c844aa0da54254111
+RHCP2024-07-15t17.flac:370b09d82bccb7bee7e0edd05b39ce8a
+RHCP2024-07-15t18.flac:1530c430d7e1277a990d1545ef8db9b6
+RHCP2024-07-15t19.flac:cda83511340d04ada5fbb38f24937f94
+RHCP2024-07-15t20.flac:1952107fb9eeb6fba8e280a18a30f2ff
+RHCP2024-07-15t21.flac:f923d100afaa37c1491f6e2ffb338571
+RHCP2024-07-15t22.flac:b8b80329d8263f7d9168138ad31c4c0e
+RHCP2024-07-15t23.flac:ed2e39c24c62de29154c5c7c9eded92b
+RHCP2024-07-15t24.flac:580555d92d349bd0999c54cacb87a568
+RHCP2024-07-15t25.flac:f8b41d75562e00894b73929c852a594d
+RHCP2024-07-15t26.flac:56dee6e166edf5d19d695d680e89aaae

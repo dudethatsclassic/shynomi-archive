@@ -1,0 +1,68 @@
+ \ \ ___                                                     / /
+  \ \\  \                                                   / /
+   \ \\  \                                                 / /
+    \ \\  \                 __   __   __        _________ / /
+     \ \>  \               /__) /__) /__)      /____    // /
+      \    /_________ ________ _______   _________ /   // /
+      /   //____    //___    //   _   ` /   _    //   // /
+     /   /_____/   /    /   //   //   //   //___//   // /
+    /             /    /   //   //   //   /     /    ~  ~\
+   /____________.´    /   / `_______´/___/     /_______   \
+            _________/   /                             \   \
+           /            /                               \   \
+          /____________/                                 \___\
+
+Björk                                            
+
+01. Army Of Me
+02. The Modern Things
+03. Human Behaviour
+04. Isobel
+05. Venus As A Boy
+06. Possibly Maybe
+07. I Go Humble
+08. Hyper-ballad
+09. Enjoy
+10. I Miss You
+11. Crying
+12. It's Oh So Quiet
+13. Big Time Sensuality
+14. Aeroplane
+15. It's Oh So Quiet
+
+
+Tracks 1-13: "Warehouse", Toronto Aug 7 1995
+Track 14: "Later show", London, 1995
+Track 15: "Top Of The Pops", London, Nov 1995
+
+*skip at 2:34 on track 2 seems to have occured during recording
+or mastering, and is not due to any external issues with the disk.
+
+
+
+
+
+Enjoy ! - http://gudmundsdottirbjork.blogspot.com/
+
+C:\Media\Missworld>shntool len *shn
+    length     expanded size   cdr  WAVE  probs   filename
+     4:07.47      43681388     ---   --    -xx    01 Army Of Me.shn
+     3:54.38      41367020     ---   --    -xx    02 The Modern Things.shn
+     3:27.22      36566588     ---   --    -xx    03 Human Behavior.shn
+     5:20.68      56607980     ---   --    -xx    04 Isobel.shn
+     2:39.27      28111148     ---   --    -xx    05 Venus As A Boy.shn
+     5:41.08      60171260     ---   --    -xx    06 Possibly Maybe.shn
+     3:59.32      42234908     ---   --    -xx    07 I Go Humble.shn
+     5:06.33      54056060     ---   --    -xx    08 Hyper-ballad.shn
+     6:16.20      66373484     ---   --    -xx    09 Enjoy.shn
+     3:58.30      42053804     ---   --    -xx    10 I Miss You.shn
+     5:02.22      53324588     ---   --    -xx    11 Crying.shn
+     3:50.20      40619084     ---   --    -xx    12 It's Oh So Quiet.shn
+     4:19.55      45817004     ---   --    -xx    13 Big Time Sensuality.shn
+     4:36.03      48693500     ---   --    -xx    14 Aeroplane.shn
+     3:31.47      37330988     ---   --    -xx    15 It's Oh So Quiet.shn
+    65:51.22     697008804 B                      (totals for 15 files)
+
+
+
+

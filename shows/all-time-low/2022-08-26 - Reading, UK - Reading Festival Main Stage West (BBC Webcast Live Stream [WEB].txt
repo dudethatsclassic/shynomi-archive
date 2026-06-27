@@ -1,0 +1,148 @@
+All Time Low
+Main Stage West
+Reading Festival
+U.K.
+2022-08-26 (Friday)
+
+https://www.bbc.co.uk/events/e5h3v2
+https://www.bbc.co.uk/events/e5h3v2/acts/afbgmb
+
+https://ichef.bbci.co.uk/images/ic/416x234/p0cwpl8w.jpg
+
+also:
+http://ichef.bbci.co.uk/images/ic/128x72/p0cwpl8w.jpg
+http://ichef.bbci.co.uk/images/ic/144x81/p0cwpl8w.jpg
+http://ichef.bbci.co.uk/images/ic/192x108/p0cwpl8w.jpg
+http://ichef.bbci.co.uk/images/ic/256x144/p0cwpl8w.jpg
+http://ichef.bbci.co.uk/images/ic/384x216/p0cwpl8w.jpg
+http://ichef.bbci.co.uk/images/ic/480x270/p0cwpl8w.jpg
+http://ichef.bbci.co.uk/images/ic/624x351/p0cwpl8w.jpg
+http://ichef.bbci.co.uk/images/ic/608x342/p0cwpl8w.jpg
+http://ichef.bbci.co.uk/images/ic/640x360/p0cwpl8w.jpg
+http://ichef.bbci.co.uk/images/ic/864x486/p0cwpl8w.jpg
+http://ichef.bbci.co.uk/images/ic/944x531/p0cwpl8w.jpg
+http://ichef.bbci.co.uk/images/ic/976x549/p0cwpl8w.jpg
+http://ichef.bbci.co.uk/images/ic/1024x576/p0cwpl8w.jpg
+http://ichef.bbci.co.uk/images/ic/1280x720/p0cwpl8w.jpg
+http://ichef.bbci.co.uk/images/ic/1632x918/p0cwpl8w.jpg
+http://ichef.bbci.co.uk/images/ic/1920x1080/p0cwpl8w.jpg
+etc ...
+
+BBC Website Live Stream > download script > joined as .ts file >
+VideoRedo TV Suite (version 5.4.84.771 (2018-09-24)) > mkv > mkvmergeGUI v72.0.0 (chapters) > .mkv file
+
+Video : 1280 x 720p / 50fps @ 5070kbps
+Video Codec : H.264/MPEG-4 AVC
+Aspect Ratio : 16:9
+BBC logo
+Audio track : AAC 48kHz @ 128kbps
+Length : 44:49
+
+md5:
+4630bcc138b79d7dd5b9b2b13e2551e1 *All Time Low 2022-08-26 Reading Festival Main Stage West 720p.mkv
+========================================================================
+
+There are two repairs to glitches in the source file.
+A brief freeze and audio dropout at 10:54 was removed;
+a video jump that occurs at 11:01 (and is probably linked
+to the audio glitch) remains.
+
+A 2-second freeze and audio dropout at 38:54 was removed;
+despite this there remains a couple of seconds of silence
+and a momentary audio glitch, and what looks like a video
+skip afterwards. This occurs between the final two songs.
+
+  1. Dear Maria, Count Me In (fragment)
+  2. Lost In Stereo
+  3. Dark Side Of Your Room
+  4. Sleeping In
+  5. Some Kind Of Disaster
+  6. PMA
+  7. Weightless
+  8. Something's Gotta Give
+  9. Damned If I Do Ya (Damned If I Don't)
+ 10. Blinding Lights
+ 11. Monsters
+ 12. Dear Maria, Count Me In
+Total Time : [44:49]
+
+https://www.alltimelow.com/
+
+MediaInfo output:
+========================================================================
+General
+Unique ID                                : 186383818741595817040185508618179641139 (0x8C3837BF8965B52C5E55A857D89EFF33)
+Complete name                            : All Time Low 2022-08-26 Reading Festival Main Stage West 720p.mkv
+Format                                   : Matroska
+Format version                           : Version 4
+File size                                : 1.63 GiB
+Duration                                 : 44 min 49 s
+Overall bit rate                         : 5 190 kb/s
+Movie name                               : All Time Low 2022-08-26 Reading Festival Main Stage West
+Encoded date                             : UTC 2023-01-01 15:53:07
+Writing application                      : mkvmerge v72.0.0 ('Minuano (Six-eight)') 64-bit
+Writing library                          : libebml v1.4.4 + libmatroska v1.7.1
+
+Video
+ID                                       : 1
+Format                                   : AVC
+Format/Info                              : Advanced Video Codec
+Format profile                           : High@L3.2
+Format settings                          : CABAC / 5 Ref Frames
+Format settings, CABAC                   : Yes
+Format settings, Reference frames        : 5 frames
+Codec ID                                 : V_MPEG4/ISO/AVC
+Duration                                 : 44 min 49 s
+Bit rate mode                            : Constant
+Bit rate                                 : 5 070 kb/s
+Width                                    : 1 280 pixels
+Height                                   : 720 pixels
+Display aspect ratio                     : 16:9
+Frame rate mode                          : Constant
+Frame rate                               : 50.000 FPS
+Standard                                 : Component
+Color space                              : YUV
+Chroma subsampling                       : 4:2:0
+Bit depth                                : 8 bits
+Scan type                                : Progressive
+Bits/(Pixel*Frame)                       : 0.110
+Stream size                              : 1.58 GiB (98%)
+Language                                 : English
+Default                                  : No
+Forced                                   : No
+Color range                              : Limited
+Color primaries                          : BT.709
+Transfer characteristics                 : BT.709
+Matrix coefficients                      : BT.709
+
+Audio
+ID                                       : 2
+Format                                   : AAC LC
+Format/Info                              : Advanced Audio Codec Low Complexity
+Codec ID                                 : A_AAC-2
+Duration                                 : 44 min 49 s
+Bit rate                                 : 125 kb/s
+Channel(s)                               : 2 channels
+Channel layout                           : L R
+Sampling rate                            : 48.0 kHz
+Frame rate                               : 46.875 FPS (1024 SPF)
+Compression mode                         : Lossy
+Stream size                              : 40.2 MiB (2%)
+Language                                 : English
+Default                                  : Yes
+Forced                                   : No
+
+Menu
+00:00:00.000                             : en:Dear Maria, Count Me In
+00:00:35.000                             : en:Lost In Stereo
+00:04:11.200                             : en:Dark Side Of Your Room
+00:08:04.000                             : en:Sleeping In
+00:12:32.000                             : en:Some Kind Of Disaster
+00:16:04.000                             : en:PMA
+00:20:06.000                             : en:Weightless
+00:25:14.000                             : en:Something's Gotta Give
+00:29:01.000                             : en:Damned If I Do Ya (Damned If I Don't)
+00:32:17.000                             : en:Blinding Lights
+00:35:31.000                             : en:Monsters
+00:39:45.000                             : en:Dear Maria, Count Me In
+========================================================================

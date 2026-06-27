@@ -1,0 +1,60 @@
+Miles Davis Quintet
+07-25-1963
+héâtre du Champs-Élysées
+Paris, France
+
+Project ID - LL69
+
+Source: FM Broadcast
+Lineage: Europe I Radio Broadcast > ?? > wave > flac
+
+Miles Davis (tpt); George Coleman (ts); Herbie Hancock (p); Ron Carter (b); 
+Tony Williams (d)
+
+disc 1
+
+d1t01. Stella by Starlight
+d1t02. So What
+ 
+-------------------------------------------------------
+
+Notes:
+
+- d1t01: There is a two second gap at he end of this track leading into the next.
+
+- It looks as though this date also has joshua on record as being played. This track is 
+missing from this source. 
+
+- The sound is muffled and distant on this recording. The playing is very intmate and 
+subtle. A great specimen if you can forgive the mediocre sound of the recording. 
+
+- On their way to the Antibes Festival, the Davis played one night at the Théâtre du 
+Champs-Élysées. The fragment of "Joshua" is from a different source (and the tape is 
+slightly faster) than the other two titles. The Quintet must have played a 
+50-60 minute set, but this is all that has surfaced so far. - Credit to Peter Losin, 
+http://www.plosin.com/
+
+- QC done by bgreen
+
+md5
+ ab6a32c9e35d54e2db853fe27a628743 *md1963-07-25.LL69.d1t01.flac
+ c30a9a29e7bc44f96ebd2e666914adcc *md1963-07-25.LL69.d1t02.flac
+
+ffp
+md1963-07-25.LL69.d1t01.flac:b772093dd93c45c424cfb10eca430833
+md1963-07-25.LL69.d1t02.flac:6524b69341a95287df253d57011b3604
+
+Spectral Analysis fro TLH
+md1967-11-02.LL71.d1t01.wav:  track looks like CDDA with probability 100%
+md1967-11-02.LL71.d1t02.wav:  track looks like CDDA with probability 100%
+md1967-11-02.LL71.d1t03.wav:  track looks like CDDA with probability 99%
+md1967-11-02.LL71.d1t04.wav:  track looks like CDDA with probability 100%
+md1967-11-02.LL71.d1t05.wav:  track looks like CDDA with probability 100%
+
+
+shntool
+ length     expanded size    cdr  WAVE problems  fmt   ratio  filename
+ 14:38.51      154999196 B   ---   --   ---xx   flac  0.4982  md1963-07-25.LL69.d1t01.flac
+  9:38.18      102001580 B   ---   --   ---xx   flac  0.5008  md1963-07-25.LL69.d1t02.flac
+ 24:16.69      257000776 B                            0.4992  (2 files)
+

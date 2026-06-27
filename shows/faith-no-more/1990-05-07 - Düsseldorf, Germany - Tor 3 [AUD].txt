@@ -1,0 +1,22 @@
+auCDtect: CD records authenticity detector, version 0.8.2
+Copyright (c) 2004 Oleg Berngardt. All rights reserved.
+Copyright (c) 2004 Alexander Djourik. All rights reserved.
+
+Detect mode (0..40 with 0 = most accurate):  8 (default)
+
+
+FNM19900507 T01 From Out Of Nowhere.wav:  track looks like CDDA with probability 100%.
+FNM19900507 T02 Falling To Pieces.wav:  track looks like CDDA with probability 100%.
+FNM19900507 T03 Introduce Yourself.wav:  track looks like CDDA with probability 100%.
+FNM19900507 T04 The Real Thing - Underwater Love.wav:  track looks like CDDA with probability 100%.
+FNM19900507 T05 As The Worm Turns.wav:  track looks like CDDA with probability 100%.
+FNM19900507 T06 The Crab Song.wav:  track looks like CDDA with probability 100%.
+FNM19900507 T07 Edge Of The World - The Morning After.wav:  track looks like CDDA with probability 100%.
+FNM19900507 T08 Pump Up The Jam - Chinese Arithmetic.wav:  track looks like CDDA with probability 99%.
+FNM19900507 T09 We Care A Lot.wav:  track looks like CDDA with probability 99%.
+FNM19900507 T10 Sweet Dreams - Surprise! You're Dead!.wav:  track looks like CDDA with probability 100%.
+FNM19900507 T11 Epic.wav:  track looks like CDDA with probability 99%.
+FNM19900507 T12 Woodpecker From Mars.wav:  track looks like CDDA with probability 100%.
+FNM19900507 T13 Zombie Eaters.wav:  track looks like CDDA with probability 99%.
+FNM19900507 T14 Why Do You Bother.wav:  track looks like CDDA with probability 100%.
+FNM19900507 T15 War Pigs.wav:  track looks like CDDA with probability 100%.

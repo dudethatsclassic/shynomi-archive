@@ -1,0 +1,32 @@
+auCDtect: CD records authenticity detector, version 0.8.2
+Copyright (c) 2004 Oleg Berngardt. All rights reserved.
+Copyright (c) 2004 Alexander Djourik. All rights reserved.
+
+Detect mode (0..40 with 0 = most accurate):  8 (default)
+
+
+01. Woodpecker from Mars-Delilah.wav:  track looks like CDDA with probability 100%.
+02. Land of Sunshine.wav:  track looks like CDDA with probability 99%.
+03. Be Aggressive.wav:  track looks like CDDA with probability 100%.
+04. Midlife Crisis.wav:  track looks like CDDA with probability 100%.
+05. Caffeine.wav:  track looks like CDDA with probability 100%.
+06. Evidence (Spanish Version).wav:  track looks like CDDA with probability 100%.
+07. Last Cup of Sorrow.wav:  track looks like CDDA with probability 100%.
+08. Cuckoo for Caca.wav:  track looks like CDDA with probability 100%.
+09. Easy.wav:  track looks like CDDA with probability 100%.
+10. Digging the Grave.wav:  track looks like CDDA with probability 100%.
+11. Ashes to Ashes.wav:  track looks like CDDA with probability 100%.
+12. Everything’s Ruined.wav:  track looks like CDDA with probability 100%.
+13. The Gentle Art of Making Enemies.wav:  track looks like CDDA with probability 100%.
+14. King for A Day.wav:  track looks like CDDA with probability 100%.
+15. Epic.wav:  track looks like CDDA with probability 100%.
+16. Just A Man.wav:  track looks like CDDA with probability 100%.
+17. Matador (New Song).wav:  track looks like CDDA with probability 100%.
+18. We Care A Lot.wav:  track looks like CDDA with probability 100%.
+19. Encore.wav:  track looks like CDDA with probability 100%.
+20. This Guy’s In Love with You.wav:  track looks like CDDA with probability 100%.
+
+No errors occured.
+
+Test for MPEG log saved to file.
+

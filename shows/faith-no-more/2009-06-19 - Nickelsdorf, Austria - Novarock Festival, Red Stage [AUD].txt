@@ -1,0 +1,52 @@
+Faith No More
+19th June 2009 
+Nickelsdorf, Austria
+Novarock Festival, Red Stage
+
+taper: 		DaGobert
+ICQ:		165-726-126
+
+source:		MBHO MBP 603 A / KA 200 N > Sony XLR-1 > Sony PCM-D50 (LineIn, LCF@75Hz) @ 24/48
+mic config: 	in hat, DINa (17cm, 90°)
+location:	last row inside the first wavebreaker standing in the middle between the PA on the protection of the cables
+transfer:	Sony PCM-D50 > USB2.0 > PC > Adobe Audition3 > Izotope RX Advanced > Flac Frontend 1.7.1 Etree Edition (Level8)
+editing:	Audition3 (edited as 32/48):	
+
+		• tracking
+		• Izotope Ozone4 (for more information take a look at the "audition screenshots" folder)
+		• fadeIn/Out
+
+
+		Izotope RX Advanced:
+
+		•dithering/downsampling to 16/44
+
+Setlist:
+
+01 - Reunited (Peaches & Herb Cover)
+02 - The Real Thing
+03 - Land Of Sunshine
+04 - Caffeine
+05 - Evidence
+06 - Chinese Arithmetic
+07 - Cuckoo For Caca
+08 - Easy (Commodores Cover)
+09 - Ashes To Ashes
+10 - Midlife Crisis
+11 - Introduce Yourself
+12 - The Gentle Art Of Making Enemies
+13 - Be Aggressive
+14 - Epic
+15 - Just A Man
+16 - Chariots Of fire / Stripsearch
+17 - As The Worm Turns
+
+*****************************************************************************************************
+*****************************************************************************************************
+*****************************************************************************************************
+**********Please do NOT encode to MP3 or any other lossy format except for personal use**************
+**************************please do NOT upload this show without my permission***********************
+**************************************DON'T SELL THIS SHOW*******************************************
+*****************************************************************************************************
+*****************************************************************************************************
+*****************************************************************************************************

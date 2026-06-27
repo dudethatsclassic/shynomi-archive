@@ -1,0 +1,21 @@
+ZWAN
+June 6, 2003
+Rock am Ring Festival @ Nuerburgring - Nuerburg, Germany
+Taper:          Frank Pawlik
+Source:         TV > Soundcard > WAV > CD-R
+Transfer/SHN:   CD1 > EAC > mkw Audio Compression Tool > SHN
+
+--------------------------------------------------------------
+01 Endless Summer                                     
+02 Declarations of Faith                              
+03 For Your Love                                      
+04 Honestly                                           
+05 Settle Down                                        
+06 Jesus, I [Lyte]
+     > God's Gonna Set This World on Fire             
+07 Of a Broken Heart                                 
+08 Riverview                                           
+09 Baby, Let's Rock                                   
+10 Don't Let Me Down [Beatles]                        
+11 Lyric                                              
+12 Mary Star of the Sea                                                                                   

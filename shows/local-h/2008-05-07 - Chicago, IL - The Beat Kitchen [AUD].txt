@@ -1,0 +1,89 @@
+Local H
+May 7, 2008
+The Beat Kitchen
+Chicago, IL
+
+****************************** 16-bit/44.1kHz version ******************************
+************************** 24-bit/48kHz version available **************************
+
+Source: 	DPA 4022 > Oade Warm Mod Fostex FR-2LE (@ 24-bit/48kHz) 
+Lineage: 	Oade Warm Mod Fostex FR-2LE > USB 2.0 > Sound Forge v8.0 > 
+         	CD Wave v1.93.3 > FLAC Frontend v1.7.1 > .flac (Level 8) 
+Location: 	20' from right stack, elevated 8' on stand  
+         	Mic configuration: ORTF with shockmount & windscreens
+
+Taped & Transferred by James Bonaiuto <cd2go@hotmail.com>
+LMA Upload by Charles Dewey Cole, IV <live2cd@hotmail.com>
+
+------------------------------------------------------------------------------------
+Disc 1 of 1:                                                 (76:14.22)
+------------------------------------------------------------------------------------
+
+01. Intro                                                    (00:46.07)
+02. Feed                                                     (02:54.23)
+03. Cynic                                                    (05:30.39)
+04. User                                                     (03:15.15)
+05. Mayonnaise And Malaise                                   (04:35.28)
+06. Manipulator                                              (04:03.71)
+07. Bag Of Hammers                                           (02:39.50)
+08. Scott-Rock                                               (03:21.15)
+09. Sports Bar                                               (07:23.62)
+10. Chicago Fanphair '93                                     (03:38.11)
+11. Strict-9                                                 (06:16.07)
+12. Skid Marks                                               (05:41.14)
+13. Grrrlfriend                                              (01:32.05)
+14. ~ Encore ~                                               (02:46.70)
+15. Purple Rain *                                            (02:57.04)
+16. (Don't Fear) The Reaper ^                                (00:51.66)
+17. Pop Life *                                               (04:10.36)
+18. Talking Smack                                            (02:23.40)
+19. BMW Man                                                  (03:13.49)
+20. Skulls #                                                 (02:18.12)
+21. Toxic $                                                  (03:06.57)
+22. Goodnight %                                              (02:48.16)
+
+------------------------------------------------------------------------------------
+Notes:
+
+* = partial Purple Rain; Originally Recorded by Prince and The Revolution 
+^ = tease, Originally Recorded by Blue Oyster Cult
+# = Originally Recorded by The Misfits
+$ = Originally Recorded by Britney Spears
+% = Originally Recorded by Cheap Trick
+
+------------------------------------------------------------------------------------
+Sound Forge v8.0 Notes:
+
+- Faded I/O at beginning/end of show
+- Normalized peak level to -1dB (left & right independently)
+- Resample: Interpolation accuracy @ 4 with anti-alias filter
+- Dither: Triangular   Noise shaping: Equal loudness contour
+
+------------------------------------------------------------------------------------
+FLAC Fingerprint:
+
+localh2008-05-07t01.dpa4022.fr2le.flac:02a6c9b2d82018af4902987e558a503b
+localh2008-05-07t02.dpa4022.fr2le.flac:d2c5ce27ac154697ab9ad7f56246ac5c
+localh2008-05-07t03.dpa4022.fr2le.flac:258e4ac6fcc69d42345e394b6037c26f
+localh2008-05-07t04.dpa4022.fr2le.flac:cb1a27328b2f4a39bf453d1c32d76b67
+localh2008-05-07t05.dpa4022.fr2le.flac:789b9dcc1d71a36f17ac754d611562f1
+localh2008-05-07t06.dpa4022.fr2le.flac:bc4bab8104b64163b16e107ab5e21dde
+localh2008-05-07t07.dpa4022.fr2le.flac:e8f75600cf131cb7b7611606ef28c8e5
+localh2008-05-07t08.dpa4022.fr2le.flac:0f8761f6d0975abcb2b468c56dc742b9
+localh2008-05-07t09.dpa4022.fr2le.flac:8bffa404e24c2322c38376cf6dde1c1e
+localh2008-05-07t10.dpa4022.fr2le.flac:685bda1aa47b8df0f59420e3b47cb3a6
+localh2008-05-07t11.dpa4022.fr2le.flac:54a24e9c82d2a312f7342ddaa69fed8c
+localh2008-05-07t12.dpa4022.fr2le.flac:22eae4d9a1fbe41a3fcbece84daf893d
+localh2008-05-07t13.dpa4022.fr2le.flac:1d4e3817e440f46ca08c95cc6d8b8892
+localh2008-05-07t14.dpa4022.fr2le.flac:e68c0f3011de90aabe5446c5a3267ef7
+localh2008-05-07t15.dpa4022.fr2le.flac:d493fc65e5ff03c632afc23064f00423
+localh2008-05-07t16.dpa4022.fr2le.flac:3a91a5a3c018f4ccfe8e562e4baf8456
+localh2008-05-07t17.dpa4022.fr2le.flac:ae70c437fe8d90cb2dcd79f60af708e0
+localh2008-05-07t18.dpa4022.fr2le.flac:45235487c0c283f966b9ca35376f41de
+localh2008-05-07t19.dpa4022.fr2le.flac:5c4b2b5e9663dfffd8aa98515bd73c97
+localh2008-05-07t20.dpa4022.fr2le.flac:7e3c78a1a619d17834156474b485cf62
+localh2008-05-07t21.dpa4022.fr2le.flac:92e9b6f7a2db016a6216f6d3835529c1
+localh2008-05-07t22.dpa4022.fr2le.flac:db7d22696786352c54039d52f664b775
+
+------------------------------------------------------------------------------------
+For more info on Local H, please visit: www.localh.com

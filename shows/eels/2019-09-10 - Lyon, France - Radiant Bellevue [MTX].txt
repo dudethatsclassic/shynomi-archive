@@ -1,0 +1,69 @@
+EELS
+10 Septembre 2019
+Radiant-Bellevue,
+Caluire-et-Cuire (Lyon), France 
+
+
+SETLIST (110:52) 
+----------------
+01. Intro
+02. Out in the Street (Cover: The Who)
+03. Mississippi Delta (Cover: Bobbie Gentry)
+04. Raspberry Beret (Cover: Prince)
+05. Bone Dry
+06. Flyswatter
+07. Dog Faced Boy
+08. ** Band introduction
+09. I Need Some Sleep
+10. Dirty Girl
+11. That Look You Give That Guy
+12. Prizefighter
+13. She Said Yeah (Cover: The Rolling Stones)
+14. Tremendous Dynamite
+15. Open My Present
+16. You Are the Shining Light
+17. My Beloved Monster
+18. In the Yard, Behind the Church
+19. I Like the Way This Is Going
+20. ** Band introduction
+21. Little Joe!
+22. Today Is the Day
+23. Novocaine for the Soul
+24. Souljacker, Part I
+25. I Like Birds
+26. P.S. You Rock My World
+27. ** Encore
+28. Fresh Feeling
+29. ** Encore
+30. Mr. E's Beautiful Blues
+31. Fresh Blood
+32. Love and Mercy (Cover: Brian Wilson)
+    > Blinking Lights (For Me)
+    > Wonderful, Glorious
+33. The End (Cover: The Beatles)
+
+SOURCE 
+------ 
+AUD1 : 2x DPA 4061 > CA-9100 > Edirol R-09
+AUD2 : Internal Mics > Tascam DR-2D
+IEM  : Stereo Receiver > Tascam DR-2D
+
+GENERATION 
+---------- 
+AUD1 : .WAV[24bit/48kHz] > .FLAC [16bit/44.1kHz] 
+AUD2 : .WAV[16bit/44.1kHz] > .FLAC [16bit/44.1kHz] 
+IEM  : .WAV[16bit/44.1kHz] > .FLAC [16bit/44.1kHz] 
+
+TRANSFER 
+-------- 
+USB > Adobe Audition CC 2019 > CDWave Audio Editor 1.98 > Trader's Little Helper 
+
+NOTES 
+----- 
+Enregistré depuis les gradins. Petit mix rapide au lendemain du concert.
+Le guitariste était le seul à avoir des IEM, avec un feed moyennement équilibré.
+
+
+Recorded by A&J&H
+PLEASE DO NOT ENCODE TO A LOSSY FORMAT. 
+IF I WANT TO UPLOAD THIS SOMEWHERE I'LL DO IT MYSELF.

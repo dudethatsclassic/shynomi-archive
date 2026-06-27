@@ -1,0 +1,47 @@
+Bon Iver
+2008-02-23
+Glasslands Gallery
+Brooklyn, NY  USA
+
+Digital Master Recording
+Soundboard/Audience Matrix 
+
+Soundboard + Front of Board Neumann KM-150s > Edirol UA-5 (Oade Digimod) > 
+digital coaxial > M-Audio Microtrack 24/96 > 24bit 48kHz wav file > Soundforge 
+(set fades, downsample) > CD Wave 1.95 > Flac Frontend (level 7, align sector 
+boundaries) > flac
+
+Many thanks to Mike and Bon Iver management for permission to record this
+concert, and their generous offer of a guest list spot.  
+
+Please support this amazing artist:
+http://www.myspace.com/boniver
+
+Recorded and Produced by 
+nyctaper
+2008-02-24
+
+Premiere Download offered at 
+http://www.nyctaper.com
+nyctaper@nyctaper.com
+
+
+Setlist:
+[total time 37:33]
+01  [introduction]
+02  Flume
+03  Lump Sum
+04  [banter]
+05  The Wolves (Act I and II)
+06  Blindsided
+07  For Emma
+
+
+Flac Fingerprints:
+BonIver2008-02-23_Matrix_t01.flac:0d3caca15393c2bf08a60f4ddba278b7
+BonIver2008-02-23_Matrix_t02.flac:421b58dcf7503f394d8719a7696a0398
+BonIver2008-02-23_Matrix_t03.flac:9215a35a4a8f49f0de7847dbb65d5966
+BonIver2008-02-23_Matrix_t04.flac:72e939610b1d4a52fb6c5c959ef01f9b
+BonIver2008-02-23_Matrix_t05.flac:697e1256ebac5b4d1d5670ea708405ea
+BonIver2008-02-23_Matrix_t06.flac:35abee516a47f730931ff1393ee984c5
+BonIver2008-02-23_Matrix_t07.flac:3024e4d90cc2a6b166c22c900860d537

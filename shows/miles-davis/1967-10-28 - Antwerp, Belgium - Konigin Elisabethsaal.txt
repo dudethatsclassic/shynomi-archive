@@ -1,0 +1,99 @@
+Miles Davis Quintet
+10-28-67
+Konigin Elizabethzaal
+Antwerp, Belgium
+
+Project ID - LL142
+
+Source: FM Broadcast
+Lineage: Belgian Radio and Television (BRT) radio broadcast > ?? > wave > .ape >
+wav > cd wave > flac (tlh lvl 8 )
+
+Miles Davis (tpt); Wayne Shorter (ts); Herbie Hancock (p); Ron Carter (b); 
+Tony Williams (d)
+
+disc 1
+
+d1t01. Agitation 
+d1t02. Footprints 
+d1t03. Round Midnight 
+d1t04. No Blues 
+d1t05. Riot 
+d1t06. On Green Dolphin Street 
+d1t07. Masqualero 
+d1t08. Gingerbread Boy 
+d1t09. The Theme / 
+ 
+-------------------------------------------------------
+
+Notes:
+
+- d1t01: The first 5 seconds are pretty rough. Drop outs at 2:34, 2:40, and 3:13.
+
+- d1t02: Digi pop at 8:04
+
+- d1t06: Digi pop at :27, 2:59. Drop out at  2:38 - 2:44 and 5:45 - 5:52
+
+- d1t07: This track starts with a Ghost into of sorts. Between  2:40 - 2:43
+the sound gets a bit rough.
+
+- d1t08: There is a rough spot at 1:58 - 2:03. Digi pop at 2:24 and 3:46. 
+
+- d1t09: is cut at the end of the track. 
+
+- Overall, a very nice sounding source. No hiss and minimal flaws. The playing is 
+very tight. In some of the quite parts of the recording and the longer drop outs, 
+can hear an echo of sorts that is actually the proceeding measures of the show. The
+only differences between LL141 and LL142 are that I retracked and flaced. A few small 
+occurances of dead air and the 10 or so minutes of nothing at then end of LL141 are 
+deleted on this version. Since  there really is no difference aside from tracking the 
+original .ape files, we won't be seeding LL142. 
+
+
+- QC done by Bgreen
+
+md5
+1d58b1c0e27bc8688b19e48fa313591f *md1967-10-28.LL142.d1t01.flac
+4730fbf2573a3fe0d69de673b86265c8 *md1967-10-28.LL142.d1t02.flac
+004b5ba765c201a5f380655f08b9c272 *md1967-10-28.LL142.d1t03.flac
+3d6e7a102fd177553286437de8a11959 *md1967-10-28.LL142.d1t04.flac
+6c07a4702b473d0c4dfe722e4a65016c *md1967-10-28.LL142.d1t05.flac
+d7b211dbf89bb3776138e109b19c39e0 *md1967-10-28.LL142.d1t06.flac
+c6e4213d1c9ceb03161be535f6e8a716 *md1967-10-28.LL142.d1t07.flac
+cdcd6623a2e2801ae7253e038db74aaf *md1967-10-28.LL142.d1t08.flac
+deda50f5b6756003c6e9691a688f701d *md1967-10-28.LL142.d1t09.flac
+
+ffp
+md1967-10-28.LL142.d1t01.flac:fd177a07a103b5db6af9ef1944b42cc8
+md1967-10-28.LL142.d1t02.flac:9163896178f0e1822f1878f5925612ea
+md1967-10-28.LL142.d1t03.flac:0e513a7fe6c68add5c53d5145b54d93a
+md1967-10-28.LL142.d1t04.flac:4c007bc4bb071a03500aadf3cd7f7a06
+md1967-10-28.LL142.d1t05.flac:96cc00a6b00c6a20acf580b06f8ae92c
+md1967-10-28.LL142.d1t06.flac:27489080b55e0e8e9b45b1bc0ba20ba6
+md1967-10-28.LL142.d1t07.flac:b99e3733a236a0f523321a832da5695e
+md1967-10-28.LL142.d1t08.flac:dc73e6e831314804d27bf1012f02c345
+md1967-10-28.LL142.d1t09.flac:a6820ea2eaff2a9dcb546e25e78e15b0
+ 
+shntool
+length     expanded size   cdr  WAVE problems filename
+     5:44.65       60834524    ---   --   ---xx   md1967-10-28.LL142.d1t01.flac
+    10:08.21      107300636    ---   --   ---xx   md1967-10-28.LL142.d1t02.flac
+     8:05.63       85702220    ---   --   ---xx   md1967-10-28.LL142.d1t03.flac
+    11:57.67      126636428    ---   --   ---xx   md1967-10-28.LL142.d1t04.flac
+     3:48.31       40292156    ---   --   ---xx   md1967-10-28.LL142.d1t05.flac
+     8:47.61       93106316    ---   --   ---xx   md1967-10-28.LL142.d1t06.flac
+     9:13.61       97692716    ---   --   ---xx   md1967-10-28.LL142.d1t07.flac
+     6:29.17       68659628    ---   --   ---xx   md1967-10-28.LL142.d1t08.flac
+     0:27.48        4875740    ---   --   ---xx   md1967-10-28.LL142.d1t09.flac
+    64:43.59      685100364 B                     (totals for 9 files, 0.4339 overall compression ratio)
+
+spectral analysis from TLH
+md1967-10-28.LL142.d1t01.wav:  track looks like CDDA with probability 100%
+md1967-10-28.LL142.d1t02.wav:  track looks like CDDA with probability 100%
+md1967-10-28.LL142.d1t03.wav:  track looks like CDDA with probability 100%
+md1967-10-28.LL142.d1t04.wav:  track looks like CDDA with probability 100%
+md1967-10-28.LL142.d1t05.wav:  track looks like CDDA with probability 100%
+md1967-10-28.LL142.d1t06.wav:  track looks like CDDA with probability 100%
+md1967-10-28.LL142.d1t07.wav:  track looks like CDDA with probability 100%
+md1967-10-28.LL142.d1t08.wav:  track looks like CDDA with probability 100%
+md1967-10-28.LL142.d1t09.wav:  track looks like CDDA with probability 100%

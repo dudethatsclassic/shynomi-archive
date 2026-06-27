@@ -1,0 +1,118 @@
+Billy Corgan
+2005-07-28
+The Marquee; Sydney, Australia
+
+  Acoustic show
+
+Source: AUD #1 (unknown)
+  Posted on Netphoria on February 20th 2007
+  Fixed sector boundary errors with shntool
+
+Tracklist:
+Disc 1
+  01 (audience)
+  02 (BC intro)
+  03 To Love Somebody
+  04 DIA
+  05 ("Courtney's reject" tease)
+  06 Now (And Then)
+  07 The Camera Eye
+  08 I'm A King Bee
+  09 A100
+  10 Walking Shade
+  11 Pretty, Pretty Star (take 1)
+  12 Pretty, Pretty Star (take 2)
+  13 Pretty, Pretty Star (take 3)
+  14 Dig [Linda Strawberry]
+  15 Bit 5
+  16 Mina Loy (M.O.H.)
+  17 I'm Ready (take 1)
+  18 I'm Ready (take 2)
+
+Disc 2
+  01 (intro second set)
+  02 Prairie Song
+  03 White Lights
+  04 Friends As Lovers, Lovers As Friends
+  05 For Your Love
+  06 Riverview
+  07 I Got You
+  08 Sittin' On Top Of The World
+  09 Johanna (take 1)
+  10 Johanna (take 2)
+  11 It's A Long Way To The Top (If You Wanna Rock 'n Roll)
+  12 (encore break)
+  13 (banter / intro Of A Broken Heart)
+  14 Of A Broken Heart
+  15 You Were Mine
+
+Shntool output:
+    length     expanded size   cdr  WAVE problems filename
+     0:20.35        3610364    ---   --   ---xx   bc2005-07-28d1t01.flac
+     1:37.59       17249612    ---   --   ---xx   bc2005-07-28d1t02.flac
+     3:42.19       39205532    ---   --   ---xx   bc2005-07-28d1t03.flac
+     5:17.24       55975292    ---   --   ---xx   bc2005-07-28d1t04.flac
+     0:47.24        8347292    ---   --   ---xx   bc2005-07-28d1t05.flac
+     6:18.60       66820364    ---   --   ---xx   bc2005-07-28d1t06.flac
+     5:25.19       57374732    ---   --   ---xx   bc2005-07-28d1t07.flac
+     3:26.21       36387836    ---   --   ---xx   bc2005-07-28d1t08.flac
+     8:28.14       89644172    ---   --   ---xx   bc2005-07-28d1t09.flac
+     4:31.22       47856188    ---   --   ---xx   bc2005-07-28d1t10.flac
+     1:35.73       16929740    ---   --   ---xx   bc2005-07-28d1t11.flac
+     3:56.07       41646908    ---   --   ---xx   bc2005-07-28d1t12.flac
+     4:33.15       48192524    ---   --   ---xx   bc2005-07-28d1t13.flac
+     5:04.06       53639756    ---   --   ---xx   bc2005-07-28d1t14.flac
+     5:36.30       59341004    ---   --   ---xx   bc2005-07-28d1t15.flac
+     5:04.66       53780876    ---   --   ---xx   bc2005-07-28d1t16.flac
+     2:37.52       27817148    ---   --   ---xx   bc2005-07-28d1t17.flac
+     4:27.62       47244668    ---   --   ---xx   bc2005-07-28d1t18.flac
+     3:21.16       35494076    ---   --   ---xx   bc2005-07-28d2t01.flac
+     5:37.63       59595020    ---   --   ---xx   bc2005-07-28d2t02.flac
+     3:29.60       37008764    ---   --   ---xx   bc2005-07-28d2t03.flac
+     6:43.21       71138636    ---   --   ---xx   bc2005-07-28d2t04.flac
+     4:36.16       48724076    ---   --   ---xx   bc2005-07-28d2t05.flac
+     4:45.56       50405756    ---   --   ---xx   bc2005-07-28d2t06.flac
+     1:12.53       12825500    ---   --   ---xx   bc2005-07-28d2t07.flac
+     3:21.51       35576396    ---   --   ---xx   bc2005-07-28d2t08.flac
+     1:31.61       16195916    ---   --   ---xx   bc2005-07-28d2t09.flac
+     5:43.34       60585212    ---   --   ---xx   bc2005-07-28d2t10.flac
+     4:12.05       44464604    ---   --   ---xx   bc2005-07-28d2t11.flac
+     0:23.58        4193660    ---   --   ---xx   bc2005-07-28d2t12.flac
+     2:32.06       26826956    ---   --   ---xx   bc2005-07-28d2t13.flac
+     7:30.17       79420028    ---   --   ---xx   bc2005-07-28d2t14.flac
+     3:57.55       41936204    ---   --   ---xx   bc2005-07-28d2t15.flac
+   131:50.55     1395454812 B                     (totals for 33 files, 0.4040 overall compression ratio)
+
+ac42d615bf7ecaca0c97c814f0f41a6d  [shntool]  bc2005-07-28d1t01.flac
+c32d056945d265ba4e46bc365f752ec5  [shntool]  bc2005-07-28d1t02.flac
+d8e1257e31c926f72ca0c5c522413be9  [shntool]  bc2005-07-28d1t03.flac
+b3f6e77856de1fd4621f3b24b006e870  [shntool]  bc2005-07-28d1t04.flac
+706cff5d599060e59554d73d2169419d  [shntool]  bc2005-07-28d1t05.flac
+19805b118b44478d72f9dd7d2ef6adda  [shntool]  bc2005-07-28d1t06.flac
+87d7d72d8129a2559f58e7918f122e82  [shntool]  bc2005-07-28d1t07.flac
+ebb078ecd638d3c1cbfc2a8b28114627  [shntool]  bc2005-07-28d1t08.flac
+0215eaeebe2de418d0f3da0e67424436  [shntool]  bc2005-07-28d1t09.flac
+5b55246a1dbdfebb5da83281276e9372  [shntool]  bc2005-07-28d1t10.flac
+bece4017a95150e28e1a23db8870c513  [shntool]  bc2005-07-28d1t11.flac
+675b8b636fbc220b0a372643c3eb807e  [shntool]  bc2005-07-28d1t12.flac
+28f4b75918155a28a18604e8009f6eeb  [shntool]  bc2005-07-28d1t13.flac
+fd6b9f498ff8f8a75091e3a869e2b89e  [shntool]  bc2005-07-28d1t14.flac
+a728c0f424216a51551cd4a7d4da8e1b  [shntool]  bc2005-07-28d1t15.flac
+be6374fc81b6741422800abe4a836dec  [shntool]  bc2005-07-28d1t16.flac
+dfd79f9e920c766c3509b700f79609ab  [shntool]  bc2005-07-28d1t17.flac
+e42b885cf52f3eca78922b0ce9a5645b  [shntool]  bc2005-07-28d1t18.flac
+84b28d05c89c58d6460553daf50be2b5  [shntool]  bc2005-07-28d2t01.flac
+82e83de7b34035a8462bf23e79e55bda  [shntool]  bc2005-07-28d2t02.flac
+a040a863d3069de884fb9b204f11a676  [shntool]  bc2005-07-28d2t03.flac
+b006a5c4b7d9473f5a911b7ac617b408  [shntool]  bc2005-07-28d2t04.flac
+4c2ee075163d84316a2e680c763b3baf  [shntool]  bc2005-07-28d2t05.flac
+b21ed6307cdc4b9fe630ae259b72e7bf  [shntool]  bc2005-07-28d2t06.flac
+e0f3cc97e6b69f0d8dd1db72fb99d849  [shntool]  bc2005-07-28d2t07.flac
+9fe26b2897f377cd58bc4a1f7cffdb17  [shntool]  bc2005-07-28d2t08.flac
+2ac79b5667a345203d5445eda4ded735  [shntool]  bc2005-07-28d2t09.flac
+b2f8c0740bfac3ac2e4fc1d2e2b9e320  [shntool]  bc2005-07-28d2t10.flac
+08cffc8af209859c8d35a0206cb8630b  [shntool]  bc2005-07-28d2t11.flac
+0e132d3352d220662beca6a638d2b2de  [shntool]  bc2005-07-28d2t12.flac
+cf2498244d09698a4743252c50a25948  [shntool]  bc2005-07-28d2t13.flac
+49ffe90ecb38f7b62f60cb64e0c9f6da  [shntool]  bc2005-07-28d2t14.flac
+d1bd29a4116b2afecf24b6f8eb560b6d  [shntool]  bc2005-07-28d2t15.flac

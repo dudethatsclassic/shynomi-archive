@@ -1,0 +1,12 @@
+Track01.flac:  successfully fixed/rewritten to 'Track01-fixed.flac'.
+Track02.flac:  successfully fixed/rewritten to 'Track02-fixed.flac'.
+Track03.flac:  successfully fixed/rewritten to 'Track03-fixed.flac'.
+Track04.flac:  successfully fixed/rewritten to 'Track04-fixed.flac'.
+Track05.flac:  successfully fixed/rewritten to 'Track05-fixed.flac'.
+Track06.flac:  successfully fixed/rewritten to 'Track06-fixed.flac'.
+Track07.flac:  successfully fixed/rewritten to 'Track07-fixed.flac'.
+Track08.flac:  successfully fixed/rewritten to 'Track08-fixed.flac'.
+Track09.flac:  successfully fixed/rewritten to 'Track09-fixed.flac'.
+Track10.flac:  successfully fixed/rewritten to 'Track10-fixed.flac'.
+
+Padded last file with 1748 zero-bytes.

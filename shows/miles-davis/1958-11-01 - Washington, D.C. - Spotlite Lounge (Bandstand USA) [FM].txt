@@ -1,0 +1,62 @@
+Miles Davis All-Stars
+11-01-1958
+Spotlite Lounge
+Washington, DC
+
+Project ID - LL17
+
+Source: FM Broadcast
+Lineage: FM Broadcast > ?? > Liberated Bootleg (Jazz Band EBCD2101-2 "Miles Davis 
+All-Stars") > cd Paranoia > wave > ?? > flac
+
+Miles Davis (tpt); Julian "Cannonball" Adderley (as); John Coltrane (ts); 
+William "Red" Garland (p); Paul Chambers (b); Jimmy Cobb (d)
+
+disc 1
+
+d1t01. Introduction > Sid's Ahead
+d1t02. Introduction > Bye Bye Blackbird
+d1t03. Introduction > Straight No Chaser/
+ 
+-------------------------------------------------------
+
+Notes:
+
+- The announcer outro is cut at the end of d1t03
+
+- A decent sounding recording. Pretty clean when compared with other releases from this 
+period. A very nice specimen of a nice performance.
+
+- QC done by Bgreen
+
+md5
+84802c275e8b1756f2cda86ecad6131d *md1958-11-01.LL17.d1t01.flac
+95e549d309f9a9e790720f56da23ac3a *md1958-11-01.LL17.d1t02.flac
+325b9b89eaf33cd4d0f6b968fa2ebbc4 *md1958-11-01.LL17.d1t03.flac
+
+ffp
+md1958-11-01.LL17.d1t01.flac:ad1cd13e7e1994cc522a904803d55c6f
+md1958-11-01.LL17.d1t02.flac:e36e5d6e8be3cacdaaf1e53453b91e1c
+md1958-11-01.LL17.d1t03.flac:b4e6a13e7c31996073bdf84d455da19e
+
+st5 
+ad1cd13e7e1994cc522a904803d55c6f  [shntool]  md1958-11-01.LL17.d1t01.flac
+e36e5d6e8be3cacdaaf1e53453b91e1c  [shntool]  md1958-11-01.LL17.d1t02.flac
+b4e6a13e7c31996073bdf84d455da19e  [shntool]  md1958-11-01.LL17.d1t03.flac
+
+shntool
+length     expanded size   cdr  WAVE problems filename
+     9:02.40       95702924    ---   --   ---xx   md1958-11-01.LL17.d1t01.flac
+     6:41.02       70741148    ---   --   ---xx   md1958-11-01.LL17.d1t02.flac
+     3:44.20       39560684    ---   --   ---xx   md1958-11-01.LL17.d1t03.flac
+    19:27.62      206004756 B                     (totals for 3 files, 0.3917 overall compression ratio)
+
+spectral analysis from TLH
+md1958-11-01.LL17.d1t01.wav:  track looks like CDDA with probability 100%
+md1958-11-01.LL17.d1t02.wav:  track looks like CDDA with probability 100%
+md1958-11-01.LL17.d1t03.wav:  track looks like CDDA with probability 100%
+
+old md5 or ffp (incude both if available)
+m_davis1958-11-01t1.flac:ad1cd13e7e1994cc522a904803d55c6f
+m_davis1958-11-01t2.flac:e36e5d6e8be3cacdaaf1e53453b91e1c
+m_davis1958-11-01t3.flac:b4e6a13e7c31996073bdf84d455da19e

@@ -1,0 +1,50 @@
+Smashing Pumpkins
+May 2nd 2023
+iHeartRadio Theater (ATUM Release Party)
+Burbank, CA, US
+
+SOURCE (WWW#1):
+iHeartRadio Webstream - ALT Radio (https://www.iheart.com/live/alt-radio-4447/) > Audacity 3.3.1 Windows WASAPI loopback recording > 16/44.1 WAV file
+
+TRANSFER:
+WAV > Audacity 3.3.1 (splitting tracks) > FLAC 1.4.2x64 Compression Level 8
+
+GENERATION:
+WAV(M) > FLAC
+
+LENGTH:
+29:55
+
+SET:
+01. Intro
+02. Empires
+03. Bullet with Butterfly Wings
+04. Q&A 1
+05. Today
+06. Spellbinding
+07. Q&A 2
+08. 1979
+09. Outro
+
+NOTES:
+Huge thank you to the taper! 
+
+Digital skip at 2:47 in Empires, 3:12 in Bullet with Butterfly Wings
+
+The remaining songs on the setlist were not broadcast on iHeartRadio. 
+https://www.splra.org/wiki/index.php?title=Tsp2023-05-02
+
+MD5 FINGERPRINTS:
+e572bed75575a6d4831b1e3d4998d69d *Smashing Pumpkins 2023-05-02 WWW1 t01 Intro.flac
+325506f2191d12d2756206fecf012a5a *Smashing Pumpkins 2023-05-02 WWW1 t02 Empires.flac
+e6aa0c2e21121f300c4483d80daa6f17 *Smashing Pumpkins 2023-05-02 WWW1 t03 Bullet With Butterfly Wings.flac
+9b4d2639ee205815273f7ed5b47cf4d5 *Smashing Pumpkins 2023-05-02 WWW1 t04 Q&A 1.flac
+a8ebda21782e04162aa091a52f659f52 *Smashing Pumpkins 2023-05-02 WWW1 t05 Today.flac
+cb8f615eb5b58c6e5b12fd8dcc96d615 *Smashing Pumpkins 2023-05-02 WWW1 t06 Spellbinding.flac
+36d1a09c90d9e253ad478779a7087f8a *Smashing Pumpkins 2023-05-02 WWW1 t07 Q&A 2.flac
+5b190d1056b66eff0d61eb1bf9b3f445 *Smashing Pumpkins 2023-05-02 WWW1 t08 1979.flac
+d299e351ceb3a012aecbc256225fcea4 *Smashing Pumpkins 2023-05-02 WWW1 t09 Outro.flac
+
+DISTRIBUTION:
+Spaldz, Nicholas Serra, & Members of SPLRA
+2023-05-17

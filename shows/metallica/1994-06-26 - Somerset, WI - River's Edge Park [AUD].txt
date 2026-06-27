@@ -1,0 +1,293 @@
+Metallica
+
+1994-06-26
+River's Edge Park
+Somerset, WI
+
+
+Source: Unknown AUD (1st Gen. Cass)
+
+Transfer: 1st Gen. Cass > Sony TCW-305 > Roxio 6.0 > WAV > CDR(M) > EAC(secure) > WAV > FLAC(lvl8)  
+
+
+Disc 1:
+01. The Ecstasy of Gold
+02. Breadfan
+03. Master of Puppets
+04. Wherever I May Roam
+05. Harvester of Sorrow
+06. Welcome Home (Sanitarium)
+07. Lars Drum Solo
+08. God that Failed
+09. Kill / Ride Medley
+10. For Whom the Bell Tolls
+11. Disposable Heroes
+12. Seek And Destroy
+13. Kirk solo -> Unforgiven Jam
+
+
+Disc 2:
+01. Nothing Else Matters
+02. Creeping Death
+03. Fade to Black
+04. Whiplash
+05. National Acrobat Jam -> Sad But True
+06. One
+07. Enter Sandman
+08. So What! 
+
+Notes:
+I got this show directly from the guy that transfered his 1st gen aud cass to cdr for me. This isnt the best recording but its surely a rare show to have....ive never really seen it around before in cdr form before and this is directly transfered from 1st gen cass. 
+
+                                       ~ bubba420 ~
+
+
+
+
+
+
+FLAC Fingerprint:
+
+Disc 1:
+Track01.flac:efe6848f61f9958ed61ef919f7a42897
+Track02.flac:eb8269145af0187fc979462d1b631b46
+Track03.flac:8fe871064b287de59ac483f1297ecd8c
+Track04.flac:0e2b8227b384e5a6effe311c0cef468c
+Track05.flac:76468c5906da9a7598e9eeecf2d3892f
+Track06.flac:5b7463e6cacbcc6530bab18eedf79b3c
+Track07.flac:affb5d1deb298f3a2e3fc8e6c1d13672
+Track08.flac:95e8370ef20e99dd5671d9bfff635210
+Track09.flac:539c893caac96d6633d4287a17ff2821
+Track10.flac:c11ff1b1d13b400db2335e57b6608a64
+Track11.flac:9640441c567b1a52d616f78bc4d2f212
+Track12.flac:aebcbe9d5896325d320e227f73afe7cc
+Track13.flac:cd2acdb79aaa518563817b6c4a7f3439
+
+Disc 2:
+Track01.flac:0b161bd9d7c8bf9a303fa2347c3740fa
+Track02.flac:02fa5dbc4f3c312b66fc711b0f3f2fa1
+Track03.flac:00ee3dc0c8633b69c035e190dee93491
+Track04.flac:2e7af034f43aa58e51fa7a45b002c30d
+Track05.flac:a90516c8b13512e6ae8b938a6f2708a5
+Track06.flac:f22201b29045edf485c53c2d30f777dd
+Track07.flac:6c9ac3e46628d797e89c3a18af811ef6
+Track08.flac:8a237327ef3c1fdb5577644178b29d73
+
+
+
+
+EAC LOG:
+
+EAC extraction logfile from 1. July 2006, 3:09 for CD
+Unknown Artist / Unknown Title
+
+Used drive  : LG      CD-RW CED-8120B   Adapter: 0  ID: 0
+Read mode   : Secure with NO C2, accurate stream, NO disable cache
+Combined read/write offset correction : 0
+Overread into Lead-In and Lead-Out : No
+
+Used output format : Internal WAV Routines
+                     44.100 Hz; 16 Bit; Stereo
+
+Other options      : 
+    Fill up missing offset samples with silence : Yes
+    Delete leading and trailing silent blocks : No
+    Installed external ASPI interface
+
+
+Track  1
+     Filename C:\My Documents\Metallica 1994-06-26 Somerset, WI\Disc 1\Track01.wav
+
+     Peak level 71.8 %
+     Track quality 100.0 %
+     Copy CRC B1C8AC67
+     Copy OK
+
+Track  2
+     Filename C:\My Documents\Metallica 1994-06-26 Somerset, WI\Disc 1\Track02.wav
+
+     Peak level 67.8 %
+     Track quality 100.0 %
+     Copy CRC BBD6F642
+     Copy OK
+
+Track  3
+     Filename C:\My Documents\Metallica 1994-06-26 Somerset, WI\Disc 1\Track03.wav
+
+     Peak level 68.2 %
+     Track quality 100.0 %
+     Copy CRC CC9396C8
+     Copy OK
+
+Track  4
+     Filename C:\My Documents\Metallica 1994-06-26 Somerset, WI\Disc 1\Track04.wav
+
+     Peak level 70.7 %
+     Track quality 99.8 %
+     Copy CRC 4E8589F6
+     Copy OK
+
+Track  5
+     Filename C:\My Documents\Metallica 1994-06-26 Somerset, WI\Disc 1\Track05.wav
+
+     Peak level 71.6 %
+     Track quality 100.0 %
+     Copy CRC 0AFB104B
+     Copy OK
+
+Track  6
+     Filename C:\My Documents\Metallica 1994-06-26 Somerset, WI\Disc 1\Track06.wav
+
+     Peak level 71.0 %
+     Track quality 100.0 %
+     Copy CRC DA9D39F6
+     Copy OK
+
+Track  7
+     Filename C:\My Documents\Metallica 1994-06-26 Somerset, WI\Disc 1\Track07.wav
+
+     Peak level 79.0 %
+     Track quality 100.0 %
+     Copy CRC 1A79D903
+     Copy OK
+
+Track  8
+     Filename C:\My Documents\Metallica 1994-06-26 Somerset, WI\Disc 1\Track08.wav
+
+     Peak level 73.9 %
+     Track quality 100.0 %
+     Copy CRC 21395EF5
+     Copy OK
+
+Track  9
+     Filename C:\My Documents\Metallica 1994-06-26 Somerset, WI\Disc 1\Track09.wav
+
+     Peak level 70.5 %
+     Track quality 100.0 %
+     Copy CRC 720999A9
+     Copy OK
+
+Track 10
+     Filename C:\My Documents\Metallica 1994-06-26 Somerset, WI\Disc 1\Track10.wav
+
+     Peak level 74.8 %
+     Track quality 100.0 %
+     Copy CRC 87C0F3A3
+     Copy OK
+
+Track 11
+     Filename C:\My Documents\Metallica 1994-06-26 Somerset, WI\Disc 1\Track11.wav
+
+     Peak level 69.1 %
+     Track quality 100.0 %
+     Copy CRC D0AF86AB
+     Copy OK
+
+Track 12
+     Filename C:\My Documents\Metallica 1994-06-26 Somerset, WI\Disc 1\Track12.wav
+
+     Peak level 75.7 %
+     Track quality 100.0 %
+     Copy CRC 6EA05D82
+     Copy OK
+
+Track 13
+     Filename C:\My Documents\Metallica 1994-06-26 Somerset, WI\Disc 1\Track13.wav
+
+     Peak level 58.0 %
+     Track quality 100.0 %
+     Copy CRC 70A61F13
+     Copy OK
+
+No errors occured
+
+
+End of status report
+
+
+EAC extraction logfile from 1. July 2006, 3:21 for CD
+Unknown Artist / Unknown Title
+
+Used drive  : LG      CD-RW CED-8120B   Adapter: 0  ID: 0
+Read mode   : Secure with NO C2, accurate stream, NO disable cache
+Combined read/write offset correction : 0
+Overread into Lead-In and Lead-Out : No
+
+Used output format : Internal WAV Routines
+                     44.100 Hz; 16 Bit; Stereo
+
+Other options      : 
+    Fill up missing offset samples with silence : Yes
+    Delete leading and trailing silent blocks : No
+    Installed external ASPI interface
+
+
+Track  1
+     Filename C:\My Documents\Metallica 1994-06-26 Somerset, WI\Disc 2\Track01.wav
+
+     Peak level 74.6 %
+     Track quality 99.9 %
+     Copy CRC 6AD427CF
+     Copy OK
+
+Track  2
+     Filename C:\My Documents\Metallica 1994-06-26 Somerset, WI\Disc 2\Track02.wav
+
+     Peak level 79.3 %
+     Track quality 99.9 %
+     Copy CRC D24CFCB7
+     Copy OK
+
+Track  3
+     Filename C:\My Documents\Metallica 1994-06-26 Somerset, WI\Disc 2\Track03.wav
+
+     Peak level 71.9 %
+     Track quality 100.0 %
+     Copy CRC FCAFC47E
+     Copy OK
+
+Track  4
+     Filename C:\My Documents\Metallica 1994-06-26 Somerset, WI\Disc 2\Track04.wav
+
+     Peak level 66.7 %
+     Track quality 99.9 %
+     Copy CRC 4756315E
+     Copy OK
+
+Track  5
+     Filename C:\My Documents\Metallica 1994-06-26 Somerset, WI\Disc 2\Track05.wav
+
+     Peak level 63.7 %
+     Track quality 99.9 %
+     Copy CRC EA8E32D1
+     Copy OK
+
+Track  6
+     Filename C:\My Documents\Metallica 1994-06-26 Somerset, WI\Disc 2\Track06.wav
+
+     Peak level 64.1 %
+     Track quality 99.9 %
+     Copy CRC AEFF9593
+     Copy OK
+
+Track  7
+     Filename C:\My Documents\Metallica 1994-06-26 Somerset, WI\Disc 2\Track07.wav
+
+     Peak level 66.1 %
+     Track quality 99.9 %
+     Copy CRC 33A0B0F0
+     Copy OK
+
+Track  8
+     Filename C:\My Documents\Metallica 1994-06-26 Somerset, WI\Disc 2\Track08.wav
+
+     Peak level 64.2 %
+     Track quality 100.0 %
+     Copy CRC 75A7F14E
+     Copy OK
+
+No errors occured
+
+
+End of status report
+

@@ -1,0 +1,69 @@
+Red Hot Cili Peppers
+December 9th 2006 Forum / Copenhagen / Denmark
+
+Disc 1
+01. Intro 
+02. Can't Stop 
+03. Dani California 
+04. Other Side 
+05. Charlie 
+06. Havana Affair (Ramones) 
+07. Desecrations Smile 
+08. Throw Away Your Television 
+09. Blood Sugar Sex Magic
+10. Jam
+11. Jam
+12. Snow (Hey Oh) 
+13. Your Pussy's Glued To A Building On Fire (John Frusciante) 
+14. Tell Me Baby
+
+Disc 2
+01. Stadium Arcadium 
+02. Around The World 
+03. C'mon Girl
+04. Jam
+05. Californication
+06. Jam
+07. Fleas speech
+08. By The Way
+09. Drum solo
+10. I Could've Lied 
+11. Give It Away
+12. End Jam
+
+Taper:
+ JTL
+
+Gear:
+ Core Sound Cardioid Mics > Batterybox (Flat response) > Iriver H120 (Rockbox) level +25 db
+
+Edit:
+ USB 2.0 Transfer to Pc > Sound Forge 8.0 (Eq, Normalize, Fades) > CDWave (Splitting tracks) > Flac lvl. 8 > You
+
+RHCP_2006-12-09-d1-01.flac:b8db2b1b09399b0efcc98c4b6300925e
+RHCP_2006-12-09-d1-02.flac:1f7b674cde525af0f33d83e48b98f07d
+RHCP_2006-12-09-d1-03.flac:7964b058670619ac9880d277e05578e3
+RHCP_2006-12-09-d1-04.flac:afa6631102f4398e0dcf0989ed84b70e
+RHCP_2006-12-09-d1-05.flac:2b32836a6e55535c8935fe1b8c74a5c1
+RHCP_2006-12-09-d1-06.flac:bcb9a4a4c5f006747efa8711fc15a6e8
+RHCP_2006-12-09-d1-07.flac:c01c05cdacbb73412bbbad1f0a1186e0
+RHCP_2006-12-09-d1-08.flac:bddce151b111a6c142832bf2ecda89e8
+RHCP_2006-12-09-d1-09.flac:3b0acff24ee2d1846ec15be94fd17906
+RHCP_2006-12-09-d1-10.flac:dd892e21543e5c80eab314a830f38729
+RHCP_2006-12-09-d1-11.flac:cc1acbe051ef3d6e64801b583166344e
+RHCP_2006-12-09-d1-12.flac:b340258903fac89c527b9571e8d11949
+RHCP_2006-12-09-d1-13.flac:6bdfc1ede96bf047eb39922d671c9917
+RHCP_2006-12-09-d1-14.flac:28014edddcc9056c62584b1942ffcce9
+RHCP_2006-12-09-d2-01.flac:8e64a4911352521901e9c4396400c10f
+RHCP_2006-12-09-d2-02.flac:8f3f7bc1db014de0643b3897b2e7335d
+RHCP_2006-12-09-d2-03.flac:6bf0825789ada614293f67c0bc5b6cb3
+RHCP_2006-12-09-d2-04.flac:e4325c78d979353bdf33fccafd1c8720
+RHCP_2006-12-09-d2-05.flac:da342809ae8a89c3bd5e69ac2c4bca28
+RHCP_2006-12-09-d2-06.flac:953a80a9759c1f92b5fa012964d5d0b6
+RHCP_2006-12-09-d2-07.flac:6b3105267b775cb8a4c9ccb4720e1bdd
+RHCP_2006-12-09-d2-08.flac:bfa23b8e424362ccbdb2f3ef058637f0
+RHCP_2006-12-09-d2-09.flac:1f1909f16933b6ef09c6030834231167
+RHCP_2006-12-09-d2-10.flac:ba577830bd37816c38e43b1457b7a0a2
+RHCP_2006-12-09-d2-11.flac:5e4674cae17380830c8849d11a5df3e7
+RHCP_2006-12-09-d2-12.flac:95fd179b2c6d3a23d3b707e7eba6de03
+

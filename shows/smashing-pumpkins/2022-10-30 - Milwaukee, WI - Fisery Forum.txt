@@ -1,0 +1,41 @@
+Smashing Pumpkins
+October 30th 2022
+Fiserv Forum
+Milwaukee, WI, US
+
+SOURCE (WWW#1):
+SiriusXM Radio App > Audacity > MP3
+
+GENERATION:
+MP3(M) > MP3
+
+LENGTH:
+27:28
+
+SET:
+01. Intro
+02. Empires
+03. We Only Come Out at Night
+04. Once in a Lifetime [Talking Heads]
+05. Ava Adore
+06. Tonight, Tonight
+07. Zero
+08. Outro
+
+NOTES:
+A huge thank you to the individual who sent this over to us. The SiriusXM Radio App only broadcasts in mp3 so this is the highest quality available from this source
+
+MD5 FINGERPRINTS:
+18870a988247a9f49f8b7f6ecca8648a *Smashing Pumpkins 2022-10-30 WWW1 t01 Intro.mp3
+918e9a58f95375747d317173af321b07 *Smashing Pumpkins 2022-10-30 WWW1 t02 Empires.mp3
+6c558c97602b5c26ed208d637f9dc417 *Smashing Pumpkins 2022-10-30 WWW1 t03 We Only Come Out at Night.mp3
+945cef83dd0359aa9cadbdc0a4bab47b *Smashing Pumpkins 2022-10-30 WWW1 t04 Once in a Lifetime [Talking Heads].mp3
+42e88bf29a50d3e855e06fa1d78261c9 *Smashing Pumpkins 2022-10-30 WWW1 t05 Ava Adore.mp3
+d67edf953b5ce469ea21a125d9affcc8 *Smashing Pumpkins 2022-10-30 WWW1 t06 Tonight, Tonight.mp3
+4654d87a0cc303e51fa180fdab330469 *Smashing Pumpkins 2022-10-30 WWW1 t07 Zero.mp3
+2e88f81e19fdfac5492d9598dd45ee46 *Smashing Pumpkins 2022-10-30 WWW1 t08 Outro.mp3
+
+
+DISTRIBUTION:
+Spaldz, Nicholas Serra & Members of SPLRA
+2023-08-15

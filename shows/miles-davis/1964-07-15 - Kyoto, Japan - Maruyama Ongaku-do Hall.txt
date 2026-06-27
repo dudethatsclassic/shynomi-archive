@@ -1,0 +1,96 @@
+Miles Davis Quintet
+07-15-1964
+Maruyama Ongaku-do Hall
+Kyoto, Japan
+
+Project ID - LL115
+
+Source: Audience Recording
+Lineage: Audience Recording > ?? > CDR > EAC > FLAC (level 8 - align on sector boundaries)
+> WAV > Soundforge 5: speed correction, removing glitches, volume level adjustments > FLAC 
+FFE lvl7 w/SBA
+
+Miles Davis (tpt); Sam Rivers (ts); Herbie Hancock (p); Ron Carter (b); 
+Tony Williams (d)
+
+disc 1
+
+d1t01. If I Were a Bell
+d1t02. Oleo
+d1t03. Stella by Starlight
+d1t04. Walkin'
+d1t05. All of You
+d1t06. Seven Steps to Heaven/
+ 
+-------------------------------------------------------
+
+Notes:
+
+- d1t01: the tracking is a little off on this and d1t01 flows over into d1t02
+
+- d1t03: at 1:27, if you listen close, you can hear miles give a good rasberry after
+missing a note :-p
+
+- d1t05: there are some minor static bursts/digi pops through this track
+
+- d1t06 is cut mid song. 
+
+- Notes from original text:
+speed correction:
+side 1 (tracks 1.-3.) needed to be sped up gradually 130 to 160 cts,
+side 2 between 70 and 100 cts, with lots of local fluctuations to be worked away, I may have overlooked 
+some ...
+
+that much discussed diginoise glitch in track 2 at around 5.47 is removed, you'll be hearing a mere plop ...
+
+overall volume adjustment, to make it all sound more even in both channels.
+
+- A very nice sounding aud with a very minor hiss! Herbie Hancock is very low in the mix in the beginning of the recording 
+but this gets better as the recording moves on. This source has a little brighter level that either LL113, 
+or LL114. The diginoise in d1t02 has been smoothed, the pitch has been adjusted, and some level adjustments 
+made. The sound quality on all three versions of this source are very close. The sound, for a Miles aud 
+for this period is very nice. 
+
+- QC done by Bgreen
+
+md5
+b46ba361de750407b4a6b974010632ae *md1964-07-15.LL115.d1t01.flac
+5cdf2b4a0a4594229a4c9a7b331595fd *md1964-07-15.LL115.d1t02.flac
+9ca026c796751787d26a0218521d53d5 *md1964-07-15.LL115.d1t03.flac
+90ab0f54329a7b0239ded516c739c7a9 *md1964-07-15.LL115.d1t04.flac
+c9e48f4c2c5fb3a719905dfe8f61d167 *md1964-07-15.LL115.d1t05.flac
+46f2826e254b8921bf24615796440f3a *md1964-07-15.LL115.d1t06.flac
+
+ffp
+md1964-07-15.LL115.d1t01.flac:2899b04cb50d5901913836091bf8980c
+md1964-07-15.LL115.d1t02.flac:f9fb115e1dfb17b265cb53d1d2efca3a
+md1964-07-15.LL115.d1t03.flac:31149021ba6b2fc084a8f146648530f7
+md1964-07-15.LL115.d1t04.flac:a34ab790f8ed0918c94930311b220a2d
+md1964-07-15.LL115.d1t05.flac:9bbfde63a271454c7668161d89d7fb02
+md1964-07-15.LL115.d1t06.flac:14b45bab0cff0753968c06dd203a733d
+
+shntool
+    length     expanded size   cdr  WAVE problems filename
+    10:41.03      113079500    ---   --   ---xx   md1964-07-15.LL115.d1t01.flac
+     5:23.72       57146588    ---   --   ---xx   md1964-07-15.LL115.d1t02.flac
+     8:58.64       95053772    ---   --   ---xx   md1964-07-15.LL115.d1t03.flac
+     7:21.59       77931212    ---   --   ---xx   md1964-07-15.LL115.d1t04.flac
+    10:01.16      106054076    ---   --   ---xx   md1964-07-15.LL115.d1t05.flac
+     2:38.00       27871244    ---   --   ---xx   md1964-07-15.LL115.d1t06.flac
+    45:04.64      477136392 B                     (totals for 6 files, 0.5615 overall compression ratio)
+
+spectral analysis from TLH
+md1964-07-15.LL115.d1t01.wav:  track looks like CDDA with probability 100%
+md1964-07-15.LL115.d1t02.wav:  track looks like CDDA with probability 100%
+md1964-07-15.LL115.d1t03.wav:  track looks like CDDA with probability 100%
+md1964-07-15.LL115.d1t04.wav:  track looks like CDDA with probability 100%
+md1964-07-15.LL115.d1t05.wav:  track looks like MPEG with probability 79%
+md1964-07-15.LL115.d1t06.wav:  track looks like CDDA with probability 100%
+
+old md5 
+6fd04398e2432753bcefd76078c57b8b *miles1964-07-15t01.flac
+bd6828d11ee875a3f85cae52a895c5c0 *miles1964-07-15t02.flac
+3527ca4808c7a923c8e6001f03887a59 *miles1964-07-15t03.flac
+0fee5dc5218fb733570dee7c309d5033 *miles1964-07-15t04.flac
+6cb604265da04f1f31886b679e275883 *miles1964-07-15t05.flac
+2e49b2da0d89a7a55f60d7b08b78eb65 *miles1964-07-15t06.flac

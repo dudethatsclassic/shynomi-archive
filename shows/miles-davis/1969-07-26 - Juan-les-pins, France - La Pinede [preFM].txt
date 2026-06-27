@@ -1,0 +1,104 @@
+Miles Davis Quintet
+07-26-1969
+La Pinède, 
+Juan-les-Pins, France
+
+Project ID - LL73
+
+Source: Pre-FM
+Lineage: pre-FM >? > CDR > EAC (secure) > FLAC Frontend (level 6, SBE OK)
+
+Miles Davis (tpt); Wayne Shorter (ss, ts); Chick Corea (el-p); Dave Holland (b, el-b);
+Jack DeJohnette (d)
+
+disc 1
+
+d1t01. Directions
+d1t02. Spanish Key
+d1t03. I Fall In Love Too Easily
+d1t04. Masqualero
+d1t05. Miles Runs The Voodoo Down
+d1t06. No Blues
+d1t07. Nefertiti
+d1t08. Sanctuary 
+ 
+-------------------------------------------------------
+
+Notes:
+
+- There are some static burst in d1t07 and d108. Very Minor
+
+- There is a more complete version of this show that circulates. The announcement material
+is not on this source. 
+
+- This version is also missing the closing theme.
+
+- Very crisp and clean sound. Great recording.
+
+- Peter Losin comments that the widely circulating version of this show is a 1/2 a step 
+sharp. His timing are based on a speed corrected version. The timings of this version 
+closely match what he has provided, but not exactly. I'm not sure if this is the corrected version of not. 
+
+- QC done by bgreen
+
+md5
+d6f7e0b453a6a6874effc8df5cbc5758 *md1969-07-26.LL73.d1t01.flac
+a188d3536d55d7e7029aa2aea7b874ce *md1969-07-26.LL73.d1t02.flac
+bc7666fcdd9c92aa294f3b3c8d7999e7 *md1969-07-26.LL73.d1t03.flac
+8ef4fceabab2efdf9dc757feb1e034b9 *md1969-07-26.LL73.d1t04.flac
+dfdd402fcd563becb84d50ec3b3b5ab9 *md1969-07-26.LL73.d1t05.flac
+9671b4f0c3ef9298747fdd3e90cf7c92 *md1969-07-26.LL73.d1t06.flac
+4b0492ebfbec1f3ff76125da14caaedc *md1969-07-26.LL73.d1t07.flac
+a69bae87f21b69dba85b68ef6e349c8a *md1969-07-26.LL73.d1t08.flac
+
+ffp
+md1969-07-26.LL73.d1t01.flac:9fa65f459a341bdec48734f574f2fe7e
+md1969-07-26.LL73.d1t02.flac:cc60123860a5e21390e6530cf6446c25
+md1969-07-26.LL73.d1t03.flac:38ea358a292f2ff2b576fe128d6b076c
+md1969-07-26.LL73.d1t04.flac:a24482c47aaf8ec0213e011006ffa754
+md1969-07-26.LL73.d1t05.flac:88b8889493ee88d244eedf7c06edfd47
+md1969-07-26.LL73.d1t06.flac:bbe720447f1cf7f1c53e0963a35c90b3
+md1969-07-26.LL73.d1t07.flac:1e428184a2eb5cb1888bb6d027f04b87
+md1969-07-26.LL73.d1t08.flac:9a16623ddba8be650d48627388e0d411
+
+shntool
+length     expanded size    cdr  WAVE problems  fmt   ratio  filename
+     6:22.71       67551836 B   ---   --   ---xx   flac  0.5523  md1969-07-26.LL73.d1t01.flac
+    10:37.54      112493852 B   ---   --   ---xx   flac  0.5363  md1969-07-26.LL73.d1t02.flac
+     2:54.70       30858284 B   ---   --   ---xx   flac  0.4326  md1969-07-26.LL73.d1t03.flac
+     8:34.07       90686108 B   ---   --   ---xx   flac  0.5476  md1969-07-26.LL73.d1t04.flac
+     8:41.44       92007932 B   ---   --   ---xx   flac  0.5436  md1969-07-26.LL73.d1t05.flac
+    13:34.66      143744876 B   ---   --   ---xx   flac  0.5114  md1969-07-26.LL73.d1t06.flac
+     8:50.28       93557900 B   ---   --   ---xx   flac  0.5056  md1969-07-26.LL73.d1t07.flac
+     3:50.23       40626140 B   ---   --   ---xx   flac  0.5179  md1969-07-26.LL73.d1t08.flac
+    63:26.63      671526928 B                            0.5249  (8 files)
+
+spectral analysis from TLH
+md1969-07-26.LL73.d1t01.wav:  track looks like CDDA with probability 100%
+md1969-07-26.LL73.d1t02.wav:  track looks like CDDA with probability 100%
+md1969-07-26.LL73.d1t03.wav:  track looks like CDDA with probability 100%
+md1969-07-26.LL73.d1t04.wav:  track looks like CDDA with probability 100%
+md1969-07-26.LL73.d1t05.wav:  track looks like CDDA with probability 100%
+md1969-07-26.LL73.d1t06.wav:  track looks like CDDA with probability 100%
+md1969-07-26.LL73.d1t07.wav:  track looks like CDDA with probability 100%
+md1969-07-26.LL73.d1t08.wav:  track looks like CDDA with probability 99%
+
+old md5 and/or ffp 
+d6f7e0b453a6a6874effc8df5cbc5758 *md1969-07-26t01.flac
+a188d3536d55d7e7029aa2aea7b874ce *md1969-07-26t02.flac
+bc7666fcdd9c92aa294f3b3c8d7999e7 *md1969-07-26t03.flac
+8ef4fceabab2efdf9dc757feb1e034b9 *md1969-07-26t04.flac
+dfdd402fcd563becb84d50ec3b3b5ab9 *md1969-07-26t05.flac
+9671b4f0c3ef9298747fdd3e90cf7c92 *md1969-07-26t06.flac
+4b0492ebfbec1f3ff76125da14caaedc *md1969-07-26t07.flac
+a69bae87f21b69dba85b68ef6e349c8a *md1969-07-26t08.flac
+
+md1969-07-26t01.flac:9fa65f459a341bdec48734f574f2fe7e
+md1969-07-26t02.flac:cc60123860a5e21390e6530cf6446c25
+md1969-07-26t03.flac:38ea358a292f2ff2b576fe128d6b076c
+md1969-07-26t04.flac:a24482c47aaf8ec0213e011006ffa754
+md1969-07-26t05.flac:88b8889493ee88d244eedf7c06edfd47
+md1969-07-26t06.flac:bbe720447f1cf7f1c53e0963a35c90b3
+md1969-07-26t07.flac:1e428184a2eb5cb1888bb6d027f04b87
+md1969-07-26t08.flac:9a16623ddba8be650d48627388e0d411
+

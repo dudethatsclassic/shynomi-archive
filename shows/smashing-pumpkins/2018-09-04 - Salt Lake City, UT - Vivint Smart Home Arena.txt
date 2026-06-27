@@ -1,0 +1,111 @@
+Smashing Pumpkins
+September 4th 2018
+Vivint Smart Home Arena
+Salt Lake City, UT, US
+
+SOURCE (AUD#1):
+Unknown Binaural Stereo Mics > Battery Box with bass roll-off > Edirol R-09 
+
+TRANSFER:
+Edirol R-09 > PC
+
+GENERATION:
+WAV(M) > FLAC
+
+LENGTH:
+189:52
+
+SET:
+01. Mellon Collie and the Infinite Sadness
+02. Disarm
+03. Rocket
+04. Siva
+05. Rhinoceros
+06. Space Oddity [David Bowie]
+07. Drown
+08. (Zero Speech Interlude)
+09. Zero
+10. The Everlasting Gaze
+11. Stand Inside Your Love
+12. Thirty-Three
+13. Eye
+14. Soma
+15. (Mark McGrath Vaudeville Interlude 1)
+16. Blew Away
+17. For Martha
+18. To Sheila
+19. Mayonaise
+20. Porcelina of the Vast Oceans
+21. Landslide [Fleetwood Mac]
+22. Tonight, Tonight
+23. (Interlude)
+24. Stairway to Heaven [Led Zeppelin]
+25. (Band Introductions) > Iron Man [Black Sabbath] (tease) > Panama [Van Halen] (tease)
+26. Cherub Rock
+27. (Mark McGrath Vaudeville Interlude 2)
+28. 1979
+29. Ava Adore
+30. (talking)
+31. Try, Try, Try
+32. The Beginning Is the End Is the Beginning
+33. Hummer
+34. Today
+35. Bullet With Butterfly Wings
+36. (encore break)
+
+Encore:
+37. Solara
+38. Baby Mine [Betty Noyes]
+
+NOTES:
+Some microphone issues before Stand Inside Your Love and during Interlude + start of Stairway to Heaven
+
+MD5 FINGERPRINTS:
+4768c9e42911067fa5646a1ff6e5cb19 *Smashing Pumpkins 2018-09-04 AUD1 t01 Mellon Collie and the Infinite Sadness.flac
+29a4238cb49d781a5e34ad2dbee8b7ab *Smashing Pumpkins 2018-09-04 AUD1 t02 Disarm.flac
+a326e29064ed21fadf394b5549136836 *Smashing Pumpkins 2018-09-04 AUD1 t03 Rocket.flac
+6b9879e90ff445f021f92240def1c3d0 *Smashing Pumpkins 2018-09-04 AUD1 t04 Siva.flac
+5d6918d9c4ddd5d03155d6830b976d1c *Smashing Pumpkins 2018-09-04 AUD1 t05 Rhinoceros.flac
+56ae709174addc2d89918f22705cd6ce *Smashing Pumpkins 2018-09-04 AUD1 t06 Space Oddity [David Bowie].flac
+f0fbcd140ad6b311219abfc5b2a03493 *Smashing Pumpkins 2018-09-04 AUD1 t07 Drown.flac
+f5c79d7dff86ff94d79df1ed93acf217 *Smashing Pumpkins 2018-09-04 AUD1 t08 (Zero Speech Interlude).flac
+ccdd2d06133b8acdd3532592ccbae8f1 *Smashing Pumpkins 2018-09-04 AUD1 t09 Zero.flac
+da9be265e473f017d2f844dde253a9e4 *Smashing Pumpkins 2018-09-04 AUD1 t10 The Everlasting Gaze.flac
+ccb1f2548390ea238b743d9dedd28550 *Smashing Pumpkins 2018-09-04 AUD1 t11 Stand Inside Your Love.flac
+0be6fa1811a07c6d0c94cf3f39bcc1f1 *Smashing Pumpkins 2018-09-04 AUD1 t12 Thirty-Three.flac
+8abf2d9caac02a66995c899139c55dc7 *Smashing Pumpkins 2018-09-04 AUD1 t13 Eye.flac
+97c666abf2462df09c434164253fa5e2 *Smashing Pumpkins 2018-09-04 AUD1 t14 Soma.flac
+207c4f4119711f228b31248f542b3d6a *Smashing Pumpkins 2018-09-04 AUD1 t15 (Mark McGrath Vaudeville Interlude 1).flac
+2e8782da8f3e9144069e8179e04edaab *Smashing Pumpkins 2018-09-04 AUD1 t16 Blew Away.flac
+01a319eec40712b7428ac51c11364429 *Smashing Pumpkins 2018-09-04 AUD1 t17 For Martha.flac
+1cb5c7d8c284056832d9d294d6bf912e *Smashing Pumpkins 2018-09-04 AUD1 t18 To Sheila.flac
+31e8e1710dfee9a38cc70e235aa44981 *Smashing Pumpkins 2018-09-04 AUD1 t19 Mayonaise.flac
+d729b637a1144315e3bfec1792a01814 *Smashing Pumpkins 2018-09-04 AUD1 t20 Porcelina of the Vast Oceans.flac
+9ef004d0589b50d0940c0325fe869875 *Smashing Pumpkins 2018-09-04 AUD1 t21 Landslide [Fleetwood Mac].flac
+a2b8e909cba98624f8fdd11828cdf31d *Smashing Pumpkins 2018-09-04 AUD1 t22 Tonight, Tonight.flac
+a4973e3d673d18977df9fe9071fe9d1a *Smashing Pumpkins 2018-09-04 AUD1 t23 (Interlude).flac
+6970b9e47aa35e0671efc4156198cf55 *Smashing Pumpkins 2018-09-04 AUD1 t24 Stairway to Heaven [Led Zeppelin].flac
+22eabf451c3104d2bc6f3051735a1f61 *Smashing Pumpkins 2018-09-04 AUD1 t25 (Band Introductions).flac
+41cc0a15e5fef487931250ec24b5a26f *Smashing Pumpkins 2018-09-04 AUD1 t26 Cherub Rock.flac
+71e4a28f51ec26038cea6d672d29e4f0 *Smashing Pumpkins 2018-09-04 AUD1 t27 (Mark McGrath Vaudeville Interlude 2).flac
+be3d4c12affc9e5285779d6add5522b5 *Smashing Pumpkins 2018-09-04 AUD1 t28 1979.flac
+29a77077315e0ed7d445de4e500753d9 *Smashing Pumpkins 2018-09-04 AUD1 t29 Ava Adore.flac
+afbced745aae9689a21644aa64da2227 *Smashing Pumpkins 2018-09-04 AUD1 t30 (talking).flac
+b74920c2b1b71511718478b4e5725092 *Smashing Pumpkins 2018-09-04 AUD1 t31 Try, Try, Try.flac
+43f95ee7cbbd3aacc22aae31e9aff6cd *Smashing Pumpkins 2018-09-04 AUD1 t32 The Beginning Is the End Is the Beginning.flac
+125b65d7d34d72610921e5f81b5dc35a *Smashing Pumpkins 2018-09-04 AUD1 t33 Hummer.flac
+2813d2e567a548396f698ceba872fbf4 *Smashing Pumpkins 2018-09-04 AUD1 t34 Today.flac
+37bd2ad7975c3417adaecff0261bef67 *Smashing Pumpkins 2018-09-04 AUD1 t35 Bullet With Butterfly Wings.flac
+bee3f5f52f3fe5ad8b1768762c256ff8 *Smashing Pumpkins 2018-09-04 AUD1 t36 (encore break).flac
+dd0068e6e2c43c7009e483c45222111b *Smashing Pumpkins 2018-09-04 AUD1 t37 Solara.flac
+c583db22b3133d75d230901f6601011e *Smashing Pumpkins 2018-09-04 AUD1 t38 Baby Mine [Betty Noyes].flac
+
+RECORDED BY:
+bobbintb
+
+TRANSFER BY:
+bobbintb
+
+DISTRIBUTION:
+Spaldz, Nicholas Serra & Members of SPLRA
+2023-09-28

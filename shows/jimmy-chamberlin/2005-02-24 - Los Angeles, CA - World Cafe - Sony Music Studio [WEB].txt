@@ -1,0 +1,21 @@
+The Jimmy Chamberlin Complex
+February 24, 2005 
+World Cafe 
+Source: realplayer audio stream>wav>flac level 8
+
+Interview
+"Life Begins Again"
+Interview
+"Street Crawler"
+Interview
+"PSA"
+
+length 20 minutes 14 seconds
+
+The full broadcast contained commercially available songs not related to the Jimmy Chamberlin Complex so I edited them out.
+
+errors:
+Could benefit from some equalization but I left it unequalized.  Sound quality sucks but I have not found better yet.
+
+flac fingerprint 
+D1T01.flac:907f93d1edeb45c447f466cd0a00265d

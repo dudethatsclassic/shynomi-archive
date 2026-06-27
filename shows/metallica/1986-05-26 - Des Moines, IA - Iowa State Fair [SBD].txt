@@ -1,0 +1,128 @@
+Metallica
+
+1986-05-26
+Iowa State Fair
+Des Moines, Iowa 
+
+Source: SBD>CASS>CDR>EAC(secure)>WAV>FLAC(lvl8)
+
+01. Battery
+02. Master of Puppets
+03. For Whom the Bell Tolls
+04. Fade to Black
+05. Seek and Destroy
+06. Creeping Death
+07. Am I Evil?
+08. Damage Inc.
+
+
+NOTES:
+I got this show directy from the guy who transfered it from his cass. Considering the age and rarity of this show i am REALLY happy with the sound on this one. I love these old shows!
+
+                         Enjoy!
+ 
+                              ~ bubba420 ~
+
+
+
+
+FLAC FIngerprint:
+
+Track01.flac:8e7eb7d13b96b6e195a9cffecd2cf564
+Track02.flac:29a4657001d6d813e3499995fb57d840
+Track03.flac:e566e50c761f00dea48ec86f55e1118e
+Track04.flac:37b7419ccb70f111509e1cba6e152978
+Track05.flac:dd0aee029d3a698a31cae608f7ddf9f4
+Track06.flac:907e29b3e513d28815a502d3768bb06c
+Track07.flac:ea0528e12e7af564193df8ce5eb702d0
+Track08.flac:ad560b472e639040f27415bb66775d02
+
+
+
+EAC LOG:
+
+EAC extraction logfile from 14. October 2005, 4:23 for CD
+Unknown Artist / Unknown Title
+
+Used drive  : LG      CD-RW CED-8120B   Adapter: 0  ID: 0
+Read mode   : Secure with NO C2, accurate stream, NO disable cache
+Combined read/write offset correction : 0
+Overread into Lead-In and Lead-Out : No
+
+Used output format : Internal WAV Routines
+                     44.100 Hz; 16 Bit; Stereo
+
+Other options      : 
+    Fill up missing offset samples with silence : Yes
+    Delete leading and trailing silent blocks : No
+    Installed external ASPI interface
+
+
+Track  1
+     Filename C:\My Documents\Metallica 1986-05-26 Des Moines, IA\Track01.wav
+
+     Peak level 65.1 %
+     Track quality 99.9 %
+     Copy CRC 47B75F6D
+     Copy OK
+
+Track  2
+     Filename C:\My Documents\Metallica 1986-05-26 Des Moines, IA\Track02.wav
+
+     Peak level 55.8 %
+     Track quality 99.9 %
+     Copy CRC 0BFFB5F5
+     Copy OK
+
+Track  3
+     Filename C:\My Documents\Metallica 1986-05-26 Des Moines, IA\Track03.wav
+
+     Peak level 58.0 %
+     Track quality 99.9 %
+     Copy CRC BA92DC88
+     Copy OK
+
+Track  4
+     Filename C:\My Documents\Metallica 1986-05-26 Des Moines, IA\Track04.wav
+
+     Peak level 61.8 %
+     Track quality 99.9 %
+     Copy CRC 34C40F29
+     Copy OK
+
+Track  5
+     Filename C:\My Documents\Metallica 1986-05-26 Des Moines, IA\Track05.wav
+
+     Peak level 58.0 %
+     Track quality 99.9 %
+     Copy CRC 22E624FF
+     Copy OK
+
+Track  6
+     Filename C:\My Documents\Metallica 1986-05-26 Des Moines, IA\Track06.wav
+
+     Peak level 53.3 %
+     Track quality 97.3 %
+     Copy CRC FA6C2986
+     Copy OK
+
+Track  7
+     Filename C:\My Documents\Metallica 1986-05-26 Des Moines, IA\Track07.wav
+
+     Peak level 62.8 %
+     Track quality 99.9 %
+     Copy CRC 493DB1BE
+     Copy OK
+
+Track  8
+     Filename C:\My Documents\Metallica 1986-05-26 Des Moines, IA\Track08.wav
+
+     Peak level 55.1 %
+     Track quality 99.9 %
+     Copy CRC 27E22B9C
+     Copy OK
+
+No errors occured
+
+
+End of status report

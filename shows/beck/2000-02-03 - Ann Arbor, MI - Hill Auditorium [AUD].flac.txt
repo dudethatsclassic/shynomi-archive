@@ -1,0 +1,35 @@
+Beck
+Hill Auditorium, Ann Arbor MI
+February 3, 2000
+
+Opening Act: Hank WIlliams III
+
+Row 12, left side.
+
+DPA 4061>BBox/Rolloff (on)>Sony D8 (line in)
+
+DAT M>CDR : Tascam DA20>Monster Coax>HHB CDR 830
+CDRW>Flac : CDRW>EAC>WAV>Adobe Audition (fades)>CDWAV>Flac Frontend (level 8, sector align)
+
+
+Mixed Bizness 
+Milk and Honey 
+Beautiful Way 
+The New Pollution 
+Tropicalia 
+Pressure Zone 
+Broken Train 
+Peaches and Cream 
+Jack-Ass 
+Hollow Log 
+Sing It Again (with Smokey) 
+Cold Brains 
+Where It's At 
+Debra 
+Nicotine and Gravy 
+Sexx Laws 
+
+
+DJ Swamp solo 
+Novacane 
+Devil's Haircut 

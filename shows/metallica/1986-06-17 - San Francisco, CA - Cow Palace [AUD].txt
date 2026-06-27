@@ -1,0 +1,143 @@
+Metallica
+
+1986-06-17
+Cow Palace 
+San Francisco, CA 
+ 
+Source: Unknown AUD (Unknown Gen. Cass)
+
+Transfer: Unknown Gen. Cass > Sony TCW-305 > Roxio 6.0 > WAV > CDR(M) > EAC(secure) > WAV > FLAC(lvl8) 
+
+01. The Ecstasy of Gold -> Battery
+02. Master of Puppets
+03. For Whom the Bell Tolls
+04. Welcome Home (Sanitarium)
+05. The Thing That Should Not Be
+06. Seek And Destroy
+07. Creeping Death
+08. Am I Evil?
+09. Damage Inc. (cuts)
+
+Notes:
+Rare show!I got this show directly from the guy that transfered his unknown gen aud cass to cdr for me. This is a average sounding aud recording from 86..nothing special but also not horrible either. The last track Damage Inc. cuts @ 1:10. This is the san francisco show for sure..james says before track 3: "ah fuckin finally back home ya all made it....good to see you crazy freaks again" and he also sings during Seek and Destroy "scanin the scene at Home tonight". 
+
+                      
+                       
+                        ~ bubba420 ~
+
+
+
+
+
+
+FLAC Fingerprint:
+
+Track01.flac:4d3c4d755d9cc660470d2200a57e8954
+Track02.flac:be471694e20a1cad2290c2c8c03e0cec
+Track03.flac:f98924b4b6c75cb8dd226620e51c88e3
+Track06.flac:2856e4dfb72c4cbe218cb59c52690d11
+Track05.flac:52fdb3f182d6feb5b906b4abd71a0e09
+Track07.flac:3be2de1efaf48862686afb6874fd908d
+Track08.flac:c01c8cde4d56c02d3d762afbd46513c0
+Track09.flac:e5fc48af92c7c2aebe4476b5c55f787d
+Track04.flac:7324d343c4a5da68457f39e00ee734a4
+
+
+
+EAC LOG:
+
+EAC extraction logfile from 16. May 2006, 3:04 for CD
+Unknown Artist / Unknown Title
+
+Used drive  : LG      CD-RW CED-8120B   Adapter: 0  ID: 0
+Read mode   : Secure with NO C2, accurate stream, NO disable cache
+Combined read/write offset correction : 0
+Overread into Lead-In and Lead-Out : No
+
+Used output format : Internal WAV Routines
+                     44.100 Hz; 16 Bit; Stereo
+
+Other options      : 
+    Fill up missing offset samples with silence : Yes
+    Delete leading and trailing silent blocks : No
+    Normalize to 98
+    Installed external ASPI interface
+
+
+Track  1
+     Filename C:\My Documents\Metallica 1986-06-17 San Francisco, CA\Track01.wav
+
+     Peak level 60.2 %
+     Track quality 100.0 %
+     Copy CRC C13D0B9C
+     Copy OK
+
+Track  2
+     Filename C:\My Documents\Metallica 1986-06-17 San Francisco, CA\Track02.wav
+
+     Peak level 56.4 %
+     Track quality 99.8 %
+     Copy CRC 91823186
+     Copy OK
+
+Track  3
+     Filename C:\My Documents\Metallica 1986-06-17 San Francisco, CA\Track03.wav
+
+     Peak level 54.4 %
+     Track quality 99.8 %
+     Copy CRC E9FA7C2B
+     Copy OK
+
+Track  4
+     Filename C:\My Documents\Metallica 1986-06-17 San Francisco, CA\Track04.wav
+
+     Peak level 58.2 %
+     Track quality 99.8 %
+     Copy CRC 252FA077
+     Copy OK
+
+
+Track  5
+     Filename C:\My Documents\Metallica 1986-06-17 San Francisco, CA\Track05.wav
+
+     Peak level 55.6 %
+     Track quality 99.8 %
+     Copy CRC 785BF83B
+     Copy OK
+
+Track  6
+     Filename C:\My Documents\Metallica 1986-06-17 San Francisco, CA\Track06.wav
+
+     Peak level 58.1 %
+     Track quality 99.9 %
+     Copy CRC E2C1F94D
+     Copy OK
+
+Track  7
+     Filename C:\My Documents\Metallica 1986-06-17 San Francisco, CA\Track07.wav
+
+     Peak level 62.5 %
+     Track quality 99.9 %
+     Copy CRC EAD7EBCD
+     Copy OK
+
+Track  8
+     Filename C:\My Documents\Metallica 1986-06-17 San Francisco, CA\Track08.wav
+
+     Peak level 63.6 %
+     Track quality 99.9 %
+     Copy CRC 884DCD80
+     Copy OK
+
+Track  9
+     Filename C:\My Documents\Metallica 1986-06-17 San Francisco, CA\Track09.wav
+
+     Peak level 59.9 %
+     Track quality 100.0 %
+     Copy CRC D88F6E27
+     Copy OK
+
+No errors occured
+
+
+End of status report

@@ -1,0 +1,34 @@
+BON IVER
+19 February 2008
+Rock and Roll Hotel
+Washington, D.C.
+
+SOURCE (SBD#1):
+WXPN Radio FM Broadcast > Digital Recorder
+
+EXTRACTION:
+Nero 7 > Wave Editor > CD Wave Tracking > Flac Frontend
+
+GENERATION:
+FM > WAV(M) > FLAC
+
+LENGTH:
+42:00
+
+NOTES
+-Justin Vernon, Sean Carey & Mike Noyce.  
+-Supporting Black Mountain.
+
+TRACKS:
+01. Intro
+02. Flume
+03. Lump Sum
+04. Skinny Love
+05. The Wolves (Acts I and II)
+06. Blindsided
+07. Creature Fear
+08. For Emma
+
+
+Taped, Tracked, and Uploaded by Fee71/Yemphishhead
+codysteelemusic@yahoo.com

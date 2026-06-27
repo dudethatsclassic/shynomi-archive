@@ -1,0 +1,78 @@
+Smashing Pumpkins
+March 30th 1990
+O'Cayz Corral
+Madison, WI, US
+
+SOURCE (AUD#1):
+lavalier mic > Sony Walkman
+
+GENERATION:
+ANA(M) > WAV > FLAC
+
+TRANSFER:
+Nakamichi Dragon > Focusrite Scarlett 6i6 > MacBook Pro > ProTools Studio 2022.9.0 > Adobe Audition 2021 > CD Wave Editor
+
+LENGTH:
+58:29
+
+SETLIST:
+01. Blue Light
+02. Opal
+03. Worship
+04. Over You
+05. I'll Never Change
+06. Rhinoceros
+07. Bury Me
+08. I Am One
+09. Window Paine (abandoned)
+10. Window Paine
+11. Razor
+12. Snail*
+13. 365*
+14. C'mon*
+15. (Encore Break)
+16. Sookie, Sookie [Covay]
+
+*cut/incomplete
+
+NOTES:
+Snail, 365 and C'mon are cut/incomplete as the taper was enjoying the show so much they went to jump around.
+
+From the SPLRA team:
+
+"Before the Rubano Tapes Vol. 1 was announced this show was not known about. This new information led the SPLRA team to make a post about the show in a O'Cayz forum, and it just so happened that someone commented saying they had attended with their friend who had actually recorded it. Through this lead we managed to get ahold of the taper who agreed to allow us to transfer the show.
+
+A massive thank you to our taper Matthew Rogers for recording this and allowing us to do a fresh transfer of his tape. Thank you to Captain Fireball for his transfer and to Ted Mattes for helping coordinate and deliver."
+
+From Matthew Rogers:
+
+"While having a fun gig booking bands at the student union of UW-Madison, I popped in a demo tape by a band called the 'Smashing Pumpkins.' It was a visceral experience, the equivalent of a meteor exploding overhead that lighted the way home. I had to book them there and see them as often as I could. Not long afterward, they were playing down the street at the O'Cayz Corral bar. I fired my roommates up for the show and we got there early and drank 5 pitchers of Blatz beer in our excitement. I had decided to tape this show and somehow managed to record it on my Sony Walkman with an external lavalier microphone on the lapel of my jacket. Against all odds, it came out quite well I think and reflects a golden age in the history of the Smashing Pumpkins. I hope you enjoy it."
+
+
+MD5 FINGERPRINTS:
+e1605ed442c5d8a9edde7290805859ee *Smashing Pumpkins 1990-03-30 AUD1 t01 Blue Light.flac
+7a0fa1e81050cbedd63f0122e77cea73 *Smashing Pumpkins 1990-03-30 AUD1 t02 Opal.flac
+da944b01b8a18de3a40370383064cfb0 *Smashing Pumpkins 1990-03-30 AUD1 t03 Worship.flac
+070443e1ee3932c2b8115908a34fe9f1 *Smashing Pumpkins 1990-03-30 AUD1 t04 Over You.flac
+40a4127545d6888b53a91fbaa888143c *Smashing Pumpkins 1990-03-30 AUD1 t05 I'll Never Change.flac
+19bcc42166b7c40f30a4562e7ae2f1b9 *Smashing Pumpkins 1990-03-30 AUD1 t06 Rhinoceros.flac
+77e00aac409952ca7318b788913d58b0 *Smashing Pumpkins 1990-03-30 AUD1 t07 Bury Me.flac
+c1164b37b992dec017933cef4c169eea *Smashing Pumpkins 1990-03-30 AUD1 t08 I Am One.flac
+b19c91c5df1d8a7484a4a2ea8aea7781 *Smashing Pumpkins 1990-03-30 AUD1 t09 Window Paine (abandoned).flac
+93977bc477603c0e142257ce307ebf62 *Smashing Pumpkins 1990-03-30 AUD1 t10 Window Paine.flac
+5e51a86201079bb192807214ff5e7217 *Smashing Pumpkins 1990-03-30 AUD1 t11 Razor.flac
+206c4db0baffa60e5c3c9762a90bcf12 *Smashing Pumpkins 1990-03-30 AUD1 t12 Snail.flac
+69a10a00dbf65146721ecf26158b6aba *Smashing Pumpkins 1990-03-30 AUD1 t13 365.flac
+0d2df84cd872a805ad53c0373d44952a *Smashing Pumpkins 1990-03-30 AUD1 t14 C'mon.flac
+e7f1e941f6d5c7ef42510f2469217297 *Smashing Pumpkins 1990-03-30 AUD1 t15 (Encore Break).flac
+69b92c888912be4649b3e17a971de5ce *Smashing Pumpkins 1990-03-30 AUD1 t16 Sookie, Sookie [Covay].flac
+
+RECORDED BY:
+Matthew Rogers
+
+TRANSFER BY:
+Captain Fireball
+
+DISTRIBUTION:
+Nicholas Serra, Spaldz & Members of SPLRA
+2022-12-20

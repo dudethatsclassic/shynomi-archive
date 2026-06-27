@@ -1,0 +1,29 @@
+BEN FOLDS FIVE
+June 25, 1997
+Central Park SummerStage
+New York, NY
+
+Source: Core Sound Cardioid > Sony TCD-D7
+Taper: DL
+Lineage: DAT(M) > DAT(1) > FLAC
+Transfer: Tascam DA20mkII > M-Audio Audiophile 2496 > Sound Forge
+Edits/EQ: -5.8dB limiter 0:05:00-00:09:08, +5.8dB
+Notes: with string quartet, ~10 second cut in "Song For the Dumped" @ 1:45, occasional wind noise
+
+01 - announcer intro
+02 - string intro
+03 - One Angry Dwarf and 200 Solemn Faces
+04 - Fair
+05 - Selfless, Cold, and Composed
+06 - Kate
+07 - Steven's Last Night in Town
+08 - Underground
+09 - Smoke
+10 - Theme From Dr. Pyser
+11 - Alice Childress
+12 - Song For the Dumped
+13 - Philosophy
+14 - outtro
+
+
+Compiled May 2020 by CPS

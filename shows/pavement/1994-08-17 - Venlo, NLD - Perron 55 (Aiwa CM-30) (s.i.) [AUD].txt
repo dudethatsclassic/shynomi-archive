@@ -1,0 +1,94 @@
+PAVEMENT
+
+
+Perron 55
+Venlo, Netherlands
+August 17, 1994
+
+
+Source:  Aiwa CM-30 > Sony WM-D6C
+Transfer:  Nakamichi DR-1 > Sony DTC-60ES (16/44) > Philips CDR600 > EAC > WavePurity Professional 5.80 > FLAC
+Transfer by S.I.
+
+
+1. Easily Fooled
+2. Brink of The Clouds
+3. Box Elder
+4. Unfair
+5. Brinx Job (Instrumental)
+6. Half A Canyon
+7. Range Life
+8. Forklift
+9. Gold Soundz
+10. 5-4 = Unity
+11. Silence Kid
+12. Grounded
+13. Conduit For Sale!
+14. Cut Your Hair
+15. Fight This Generation
+16. e: Two States
+17. e: Elevate Me Later
+18. e: Difficult Fourth Title (Contact)
+
+
+Notes:
+
+Recording-Type: Audience
+Analog-Generation: Master
+Notes: Complete Show (*)
+Taper: S.I.
+
+(*) tape flip after song 15 during the encore break in track 15
+
+Recording-Equipment: Aiwa CM-30 > Sony WM-D6C @ Mic-In Gain 0dB/CrO2/Dolby C NR
+Recording-Mastertape(s): BASF Chrome Extra II 120
+
+Analog-Transfer: Nakamichi DR-1 @ Type I/Dolby B NR/Head azimuth corrections > Sony DTC-60ES @ 44.1kHz/16bit
+Digital-Transfer: Sony DTC-60ES > Philips CDR 600 > LG GSA H44N > Exact Audio Copy 0.99 PreBeta 3 (Secure Mode)
+
+Editing: WavePurity Professional 5.80 > Tape flip merged/Limiting/Normalizing/Fade in & out/Tracksplitting
+Mastering: Trader's Little Helper 1.1.1 (Build 90) > FLAC Encoding Level 8/MD5-Checksums
+
+Title: Generate Me Later - Live In Venlo 1994
+Media: 1 Audio-CD
+Cover-Artwork: Included
+MP3-Sample: See comments
+Catalog-No.: FireflyDIME-014
+First seed: 2008-01-19 @ www.dimeadozen.org by MarqueInt
+
+Line-Up:
+Stephen Malkmus - guitar, vocals
+Scott Kannberg - guitar, vocals
+Mark Ibold - bass
+Bob Nastanovich - percussions
+Steve West - drums
+
+S.I.
+
+---------------------------------------------------------
+
+New Text File, and new WAV MD5 and FLAC FFP created on Nov. 14, 2012.
+The Original FLAC MD5 is listed below.
+
+Terry Watts
+
+
+The Original FLAC MD5:
+8143ccb107e49cab7d1041fac2b1358a *01 - Easily Fooled.flac
+f9ed542ffb3263cebf64f43403430db9 *02 - Brink Of The Clouds.flac
+917da7812bf90603a4c23ad0d4988989 *03 - Box Elder.flac
+f708577df8649cd1ecae66f5c8d001f5 *04 - Unfair.flac
+9f5ad892ae9ae81391f9cc0796fe6e14 *05 - Brinx Job (Instrumental).flac
+677fcaf4bcbc0608e951ca9fda2c687a *06 - Half A Canyon.flac
+cadfc7f72ad01e3a485881ab96e4455e *07 - Range Life.flac
+11ac0a5a4f6b2f29570205af4db6d5c1 *08 - Forklift.flac
+b90868bb01946a2e91d6bd1790bc1761 *09 - Gold Soundz.flac
+23b80e0489d55965a4ced8691a905bf0 *10 - 5-4 = Unity.flac
+66413ddabe61b4dcdf52c4a9ebe4b8b1 *11 - Silence Kid.flac
+5f86f50d5d51b283624bd18a6a9b51b0 *12 - Grounded.flac
+972d0f7655e5c8b611cf8342ef738429 *13 - Conduit For Sale!.flac
+8bcabd95a3bd8e7c5e2480b7d9943cc3 *14 - Cut Your Hair.flac
+a50dc42f32df12e59daa93731b1d9287 *15 - Fight This Generation.flac
+3058bddf1680e552d6dc281794fdf55c *16 - Two States.flac
+d8a6fed8c94a61c63f52e0ebe3057b8d *17 - Elevate Me Later.flac
+f54de8bb592a3856d1fb879f4064094e *18 - Difficult Fourth Title (Contact).flac

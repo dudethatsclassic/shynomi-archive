@@ -1,0 +1,35 @@
+Pavement
+
+BBC Maida Vale studios
+Maida Vale
+London
+UK
+
+Wednesday 26th October 2022
+
+https://www.bbc.co.uk/programmes/m0016989
+
+Track 04 broadcast Thursday 27th October 2022:
+https://www.bbc.co.uk/programmes/m001d5wc
+
+BBC iPlayer archive stream > get_iplayer > .ts (aac, 320kbps/48k) > ffmpeg (trimming, rewrap as .m4a)
+
+01 - interview
+02 - interview
+03 - Gold Soundz / Frontwards / Transport Is Arranged / Here / Stereo / Harness Your Hopes / Spit On A Stranger / Kennel District
+04 - DJ talk / Two States
+
+Running time [38:09]
+
+Occasional brief DJ talk between songs in track 03
+
+===================================================
+
+Huw has a brand new session from Pavement recorded at the BBC's Maida Vale studios, along with an interview with the band.
+
+The Californian band are back playing live in the UK this month for the first time since 2010. In the ups and downs of the thirty years since they first formed, the band have never recorded a session for BBC Radio 6 Music, and indeed their last BBC session of any kind was for John Peel's 60th birthday in 1999.
+
+The group of one of independent rock's biggest success stories, which frontman Stephen Malkmus once told Melody Maker was originally "a pathetic effort by us to do something to escape the terminal boredom we were experiencing in Stockton". They signed to Matador records in the early 90s and recorded their acclaimed debut album 'Slanted and Enchanted' for just $10,000. This was followed by 1994's 'Crooked Rain, Crooked Rain', with their mainstream hit 'Cut Your Hair'. More success followed until band members began working on solo projects, and Malkmus announced to fans that he was calling it quits in 1999 and continued making music as Stephen Malkmus and the Jicks. Pavement reunited for a series of live shows in 2010 before another long break, then announcing a reunion for a second time for 2020. With Covid-influenced delays, they've finally come back to the UK this month with shows in Manchester, Leeds, London, Edinburgh and Glasgow.
+
+auto_pilot
+October 2022

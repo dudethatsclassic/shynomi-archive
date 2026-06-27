@@ -1,0 +1,110 @@
+Charlie Parker Quintet (w/ Miles Davis)
+12-xx-47
+Unknown venue
+Waukegan , Illinois
+
+Project ID - LL90
+
+Source: Audience Recording
+Lineage: Audience recording > ?? > cd (Peter Losin's Archive) > 
+cd duplicated (burner to burner) > eac > flac (lvl8)
+
+Miles Davis (tpt); Charlie Parker (as); Irving "Duke" Jordan (p); Tommy Potter (b); 
+Max Roach (d)
+
+disc 1
+
+d1t01. Dexterity
+d1t02. The Way You Look Tonight
+d1t03. All the Things You Are 
+d1t04. 52nd Street Theme 
+d1t05. Diggin' Diz/ 
+d1t06. Embraceable You 
+ 
+-------------------------------------------------------
+
+Notes:
+
+- *** all tracks are fragmented
+
+- d1t01 is a different version all together than what was released on LL44. 
+
+- d1t03 is a different version all together than what was released on LL44.
+
+- d1t04 is a different version all together than what was released on LL44.
+
+- d1t06 is a different version all together than what was released on LL44.
+
+- I was hoping to get some clarification upon receiving Peters masters of this
+date. I would most certainly believe that this is the correct version. It is 
+very hard to tell what is what and where it belongs on this date. I would 
+consider this the source to have based on Peter Losin's take on what belongs here.
+ 
+- The sound is a little brighter on this version. 
+
+- Thanks to Peter Losin for the source!!
+
+- "Very fragmentary; edited to Parker solos for the most part. These may be dubs of 
+wire recordings -- the fidelity is very poor throughout." - Credit to Peter Losin, 
+http://www.plosin.com
+
+- Although these tunes are usually dated (as on Philology) in December 1947, this is 
+doubtful. The Parker Quintet was booked for two weeks at Chicago's Argyle Show Lounge 
+(November 11-23, 1947), then for four nights at the Pershing Hotel Ballroom (January 3-6, 
+1948). The group played a Saturday night dance at the New Savoy Ballroom on January 3, 
+and two items from this date appear on Philology Volume 14."- Credit to Peter Losin, 
+http://www.plosin.com
+
+- Three other tunes -- "Barbados," a longer version of "Embraceable You," 
+and "How High the Moon" -- are usually listed with these tunes 
+(as e.g. on Philology Volumes 1/4), but they are probably from 
+the Pershing Hotel Ballroom, March 28-April 10, 1949, with Kenny Dorham on trumpet. 
+Two of these items are issued on Philology Volume 14, although the speed is different 
+and "Embraceable You" is incomplete. But the music is the same.- Credit to Peter Losin, 
+http://www.plosin.com
+
+- QC done by bgreen
+
+md5
+3a192c4b7e88ae8d30e72d734f0a1f91 *md1947-12-XX.LL90.d1t01.flac
+d0c59eab11841fbfad244c36a006fcf8 *md1947-12-XX.LL90.d1t02.flac
+5dc43ea00c312b34baeb2ab784a81f6a *md1947-12-XX.LL90.d1t03.flac
+ceb2b8e991a932757448aab79efd51e1 *md1947-12-XX.LL90.d1t04.flac
+6680ac6bbbc76aa8d070e44069bfa1e5 *md1947-12-XX.LL90.d1t05.flac
+37e43c383212e97987e32c110c00c077 *md1947-12-XX.LL90.d1t06.flac
+
+ffp
+md1947-12-XX.LL90.d1t01.flac:0931f977e663df11d3515789f8a6260e
+md1947-12-XX.LL90.d1t02.flac:c92641a7d8b3cb11d6925765549e2542
+md1947-12-XX.LL90.d1t03.flac:a7e5e28c2844653d430d3e58825fddc5
+md1947-12-XX.LL90.d1t04.flac:942f3cec9c4f3f04ea6fa788fc9d8d65
+md1947-12-XX.LL90.d1t05.flac:6a4d99d0cfbda6b02950d499bd904661
+md1947-12-XX.LL90.d1t06.flac:8f527b5d5187afe3b91e40a74b45d96c
+
+shntool
+length     expanded size   cdr  WAVE problems filename
+     3:29.39       36959372    ---   --   ---xx   md1947-12-XX.LL90.d1t01.flac
+     3:06.52       32932748    ---   --   ---xx   md1947-12-XX.LL90.d1t02.flac
+     1:57.39       20730572    ---   --   ---xx   md1947-12-XX.LL90.d1t03.flac
+     1:56.27       20525948    ---   --   ---xx   md1947-12-XX.LL90.d1t04.flac
+     3:02.02       32109548    ---   --   ---xx   md1947-12-XX.LL90.d1t05.flac
+     0:51.43        9097580    ---   --   ---xx   md1947-12-XX.LL90.d1t06.flac
+    14:23.52      152355768 B                     (totals for 6 files, 0.5466 overall compression ratio)
+
+spectral analysis from TLH
+md1947-12-XX.LL90.d1t01.wav:  track looks like CDDA with probability 100%
+md1947-12-XX.LL90.d1t02.wav:  track looks like CDDA with probability 58%
+md1947-12-XX.LL90.d1t03.wav:  track looks like CDDA with probability 100%
+md1947-12-XX.LL90.d1t04.wav:  track looks like CDDA with probability 100%
+md1947-12-XX.LL90.d1t05.wav:  track looks like CDDA with probability 100%
+md1947-12-XX.LL90.d1t06.wav:  source of track can not be qualified
+
+Old ffp
+10 - Track10.flac:0931f977e663df11d3515789f8a6260e
+11 - Track11.flac:c92641a7d8b3cb11d6925765549e2542
+12 - Track12.flac:a7e5e28c2844653d430d3e58825fddc5
+13 - Track13.flac:942f3cec9c4f3f04ea6fa788fc9d8d65
+14 - Track14.flac:6a4d99d0cfbda6b02950d499bd904661
+15 - Track15.flac:8f527b5d5187afe3b91e40a74b45d96c
+
+

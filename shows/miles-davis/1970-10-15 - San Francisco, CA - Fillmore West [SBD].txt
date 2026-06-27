@@ -1,0 +1,33 @@
+October 15, 1970 
+Fillmore West Auditorium, San Francisco CA
+KPFA-FM radio broadcast
+Miles Davis Septet
+
+Miles Davis (tpt)
+Gary Bartz (ss, as)
+Keith Jarrett (el-p, org)
+Michael Henderson (el-b)
+Jack DeJohnette (d)
+Airto Moreira (perc)
+Jumma Santos [Jim Riley] (perc)
+
+
+
+01-honky tonk
+02-what i say (incl. radio broadcast voiceover announcement)
+03-sanctuary
+04-yesternow
+05-bitches brew
+06-funky tonk-the theme
+
+total time: 63:49 mns
+
+
+Notes:
+- This is not taken from the Fillmore Tree. The Fillmore Tree version is about 25 mns. This here is almost the complete show, only "Directions", the set-opener is missing: total time is about 64 mns. This FM source sounds great.
+
+- According to P.Losin: "The Davis Septet opened for Leon Russell and Sea Train for four nights at the Fillmore West, October 15-18 (Thursday-Sunday). Columbia probably recorded these shows, and the Fillmore certainly did. None of the recordings of this show that I have heard includes "Directions," the standard set-opener..."
+
+
+Lineage:
+soundboard > KPFA-FM radio broadcast > ? > CD > EAC (secure mode) > Cubase SX2 (minor re-tracking, no sound processing applied) > flac 1.1.2 [-8, -V, sector aligned]

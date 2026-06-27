@@ -1,0 +1,74 @@
+Bush
+KROQ Almost Acoustic Christmas 2014
+The Forum, Inglewood, CA, USA
+December 13, 2014
+
+
+Setlist:
+
+01. Everything Zen
+02. The Chemicals Between Us
+03. The Sound of Winter
+04. We Found Love (Rihanna cover)
+05. The Only Way Out
+06. Machinehead
+07. Comedown 
+
+
+Lineage: kroq.cbslocal.com webstream (720p) -> Adobe HDS script -> videoredo (cut)
+
+
+Mediainfo:
+
+General
+ID                                       : 1 (0x1)
+Complete name                            : Bush 2014-12-13 KROQ Almost Acoustic Christmas [720p].ts
+Format                                   : MPEG-TS
+File size                                : 864 MiB
+Duration                                 : 37mn 22s
+Overall bit rate                         : 3 234 Kbps
+
+Video
+ID                                       : 513 (0x201)
+Menu ID                                  : 1 (0x1)
+Format                                   : AVC
+Format/Info                              : Advanced Video Codec
+Format profile                           : High@L4.1
+Format settings, CABAC                   : Yes
+Format settings, ReFrames                : 3 frames
+Format settings, GOP                     : M=3, N=60
+Codec ID                                 : 27
+Duration                                 : 37mn 22s
+Bit rate mode                            : Constant
+Nominal bit rate                         : 2 950 Kbps
+Width                                    : 1 280 pixels
+Height                                   : 720 pixels
+Display aspect ratio                     : 16:9
+Frame rate                               : 29.970 fps
+Standard                                 : Component
+Color space                              : YUV
+Chroma subsampling                       : 4:2:0
+Bit depth                                : 8 bits
+Scan type                                : Progressive
+Bits/(Pixel*Frame)                       : 0.107
+Color primaries                          : BT.709-5, BT.1361, IEC 61966-2-4, SMPTE RP177
+Transfer characteristics                 : BT.709-5, BT.1361
+Matrix coefficients                      : BT.709-5, BT.1361, IEC 61966-2-4 709, SMPTE RP177
+
+Audio
+ID                                       : 514 (0x202)
+Menu ID                                  : 1 (0x1)
+Format                                   : AAC
+Format/Info                              : Advanced Audio Codec
+Format version                           : Version 4
+Format profile                           : LC
+Muxing mode                              : ADTS
+Codec ID                                 : 15
+Duration                                 : 37mn 22s
+Bit rate mode                            : Variable / Variable / Variable
+Minimum bit rate                         : 115 Kbps / 115 Kbps
+Maximum bit rate                         : 146 Kbps / 146 Kbps
+Channel(s)                               : 2 channels
+Channel positions                        : Front: L R
+Sampling rate                            : 48.0 KHz
+Compression mode                         : Lossy

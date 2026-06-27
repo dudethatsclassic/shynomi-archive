@@ -1,0 +1,78 @@
+Miles Davis Quintet
+(04-05)-XX-1969
+Village Gate Club 
+New York, New York
+
+Project ID - LL166
+
+Source: Audience Recording
+Lineage: Audience Recording > ?? > wave > Peter Losin's Archive > 
+cd duplicated (burner to burner) > eac > wave > flac (lvl 8 )
+
+Miles Davis (tpt); Wayne Shorter (ss, ts); Chick Corea (el-p); Dave Holland (b); 
+Jack DeJohnette (d)
+
+disc 1
+
+d1t01. Introduction
+d1t02. This
+d1t03. Footprints
+d1t04. Miles Runs the Voodoo Down
+d1t05. 'Round Midnight/
+ 
+-------------------------------------------------------
+
+Notes:
+
+- d1t01: there is a steady tapping throughout this track. Not sure what 
+the source of this sound is. When the band goes into silent parts, the 
+tapping seems to stop. I'm not so sure that it isn't the taper tapping 
+along to the beat. The tapping stops at the end of the first track. 
+
+- d1t05: this track is cut short mid song. 
+
+- A very nice recording. The mix is fairly good. A very nice aud for 
+the period. This one is going to be a compliment to anyones collection. 
+This was also QC'ed as LL165 which was sourced from a lossy lineage. Many 
+thanks to Peter Losin for supplying a source that predates the lossy factor
+of the lineage in the circualting sources. 
+ 
+
+- "I'm not sure of the date of this music. Corea, Holland, and DeJohnette were in 
+Bell Sound Studios on May 11-13 to record the music released on Corea's Is (Solid 
+State SS 18055) and Sundance (Groove Merchant GM 2202)."- Credit to Peter Losin, 
+http://www.plosin.com/
+
+- Many thanks to Peter Losin for the source. 
+
+- QC done by bgreen
+
+md5
+c4b4bf89c1ce7490a16c4523385b30a3 *md1969-(04-05)-XX.LL166.d01t01.flac
+0d34fc0fd5c8db3476b0536eba38f3b6 *md1969-(04-05)-XX.LL166.d01t02.flac
+ae82b60a2bb77f72064767a85bdc4f94 *md1969-(04-05)-XX.LL166.d01t03.flac
+8ae007c66d9df6761a5c471c023862a3 *md1969-(04-05)-XX.LL166.d01t04.flac
+f9de47c7239dff1397d2fd9d42bd5e3a *md1969-(04-05)-XX.LL166.d01t05.flac
+
+ffp
+md1969-(04-05)-XX.LL166.d01t01.flac:c4574bebbdae76ce67c4e17e4ae91fe6
+md1969-(04-05)-XX.LL166.d01t02.flac:5e758a5843a782bdf3a1b9e818646e71
+md1969-(04-05)-XX.LL166.d01t03.flac:7290e7501c272f91ddc044ee4b5c2fdd
+md1969-(04-05)-XX.LL166.d01t04.flac:862bb6b9bc46ba00cd0765d264909778
+md1969-(04-05)-XX.LL166.d01t05.flac:5877066b332ad294342f169588bc466e
+
+shntool
+length     expanded size   cdr  WAVE problems filename
+     0:07.59        1373612    ---   --   ---xx   md1969-(04-05)-XX.LL166.d01t01.flac
+     8:17.31       87743756    ---   --   ---xx   md1969-(04-05)-XX.LL166.d01t02.flac
+    15:32.65      164557724    ---   --   ---xx   md1969-(04-05)-XX.LL166.d01t03.flac
+    15:32.50      164522444    ---   --   ---xx   md1969-(04-05)-XX.LL166.d01t04.flac
+     4:20.41       45960476    ---   --   ---xx   md1969-(04-05)-XX.LL166.d01t05.flac
+    43:51.21      464158012 B                     (totals for 5 files, 0.5086 overall compression ratio)
+
+spectral analysis from TLH
+md1969-(04-05)-XX.LL166.d01t01.wav:  track looks like CDDA with probability 100%
+md1969-(04-05)-XX.LL166.d01t02.wav:  track looks like CDDA with probability 58%
+md1969-(04-05)-XX.LL166.d01t03.wav:  track looks like MPEG with probability 93%
+md1969-(04-05)-XX.LL166.d01t04.wav:  track looks like CDDA with probability 85%
+md1969-(04-05)-XX.LL166.d01t05.wav:  track looks like CDDA with probability 42%

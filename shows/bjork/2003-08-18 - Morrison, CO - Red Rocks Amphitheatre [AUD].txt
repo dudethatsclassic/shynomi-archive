@@ -1,0 +1,68 @@
+Bjork with Matmos, Zeena Perkins and the Icelandic String Octet
+August 18, 2003
+Red Rocks Ampitheatre
+Morrison, CO
+
+
+Sony MiniDisc (8th row just left of center) > CDR > EAC 
+  > wav (via Cool Edit) > CDWave (track splits) > shn (via mkwACT)
+
+
+taped by Phil,  EAC > shn by Ctopher (cdwetree *at* yahoo *dot* com)
+
+
+One Disc:
+
+01	Unravel
+02	I've Seen It All
+03	Scatterheart
+04	Joga
+05	Hunter
+06	Desired Constellation
+07	Mouth's Cradle (Bjork on sampler)
+08	Heirloom
+09	All Is Full Of Love //
+10	// Sidasta Eg
+11	Pagan Poetry
+12	Bachlorette
+13	Hyperballad
+14	// It's in Our Hands (SPT Mix)
+15 	Pluto
+Encore:
+16	  - Bjork introduces the musicians	
+17	Generous Palmstroke 
+18	Human Behaviour
+
+
+==================================================================
+
+Flaw Notes:
+
+t03	static sounds are part of performance, not a flaw
+	digi-hum @ 2:14 - 2:34
+	slight digi-hum @ 4:28 - 4:29
+
+t04	mic noise @ 0:25 - 0:39
+	mic noise @ 3:40 - 3:42
+
+t08	d/o @ 1:40
+	slight cut at end
+
+t09	slight cut at beginning
+	digi-hum @ 3:09 - 3:11
+	digi-hum @ 3:15 - 3:18
+
+t14	slight cut at beginning
+
+t16	mic noise @ 0:08 - 0:11
+
+t17	mic noise @ 0:08 - 0:18
+	mic noise @ 0:22 - 0:34
+	mic noise @ 1:20 - 1:24
+	mic noise @ 1:33 - 1:28
+	mic noise @ 2:53 - 3:00
+
+==================================================================
+
+
+

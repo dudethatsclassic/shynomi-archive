@@ -1,0 +1,80 @@
+Local H
+May 10, 2008
+The Beat Kitchen
+Chicago, IL
+
+****************************** 16-bit/44.1kHz version ******************************
+************************** 24-bit/48kHz version available **************************
+
+Source:         DPA 4022 > Oade Warm Mod Fostex FR-2LE (@ 24-bit/48kHz) 
+Lineage:        Oade Warm Mod Fostex FR-2LE > USB 2.0 > Sound Forge v8.0 > 
+                CD Wave v1.93.3 > FLAC Frontend v1.7.1 > .flac (Level 8) 
+Location:       20' from right stack, elevated 8' on stand  
+                Mic configuration: ORTF with shockmount & windscreens
+
+Taped & Transferred by James Bonaiuto <cd2go@hotmail.com>
+LMA Upload by Charles Dewey Cole, IV <live2cd@hotmail.com>
+
+------------------------------------------------------------------------------------
+Disc 1 of 2:                                                 (56:13.72)
+------------------------------------------------------------------------------------
+01. Intro                                                    (01:09.33)
+02. Hands On The Bible                                       (04:22.40)
+03. Half-Life                                                (03:25.01)
+04. Son Of "Cha!"                                            (03:10.07)
+05. 5th Ave. Crazy                                           (04:00.19)
+06. (Baby Wants To) Tame Me                                  (09:10.23)
+07. Keep Your Girlfriend                                     (03:58.11)
+08. Rock And Roll Professionals                              (04:19.37)
+09. Creature Comforted                                       (04:06.53)
+10. Bryn-Mawr Stomp                                          (03:04.08)
+11. What Would You Have Me Do?                               (15:27.65)
+------------------------------------------------------------------------------------
+Disc 2 of 2:                                                 (25:46.04)
+------------------------------------------------------------------------------------
+01. ~ Encore ~                                               (04:28.72)
+02. Joey *                                                   (04:09.36)
+03. Tame ^                                                   (02:07.35)
+04. Static Age #                                             (02:33.69)
+05. No Problem                                               (10:15.49)
+06. Soul And Fire $                                          (02:10.43)
+------------------------------------------------------------------------------------
+Notes:
+
+* = Originally Recorded by Concrete Blonde 
+^ = Originally Recorded by The Pixies
+# = Originally Recorded by The Misfits
+$ = partial, Originally Recorded by Sebadoh
+
+------------------------------------------------------------------------------------
+Sound Forge v8.0 Notes:
+
+- Normalized audience claps to peak of music
+- Normalized peak level to -1dB (left & right independently)
+- Faded I/O at beginning/end of show
+- Resample: Interpolation accuracy @ 4 with anti-alias filter
+- Dither: Triangular   Noise shaping: Equal loudness contour
+
+------------------------------------------------------------------------------------
+FLAC Fingerprint:
+
+localh2008-05-10d1t01.dpa4022.fr2le.flac:a0284defb4c529a12d8e4c4c96edf4be
+localh2008-05-10d1t02.dpa4022.fr2le.flac:9ae4d19ab261d7358e6d50ed32e390a9
+localh2008-05-10d1t03.dpa4022.fr2le.flac:65da97aa81c99c3fe3f149edca1a6a93
+localh2008-05-10d1t04.dpa4022.fr2le.flac:ab5dc17f2962256a2d122ca9df7cbc53
+localh2008-05-10d1t05.dpa4022.fr2le.flac:a979c39fdb485ab30c04af541c426b17
+localh2008-05-10d1t06.dpa4022.fr2le.flac:aed4370748db97db7e83810bc3b9e04d
+localh2008-05-10d1t07.dpa4022.fr2le.flac:36c4c03df145e5215eac726f6c2e2ecb
+localh2008-05-10d1t08.dpa4022.fr2le.flac:9991fd9db8d47ac399d2e5f67c3d5973
+localh2008-05-10d1t09.dpa4022.fr2le.flac:b78f8ab2f58203eff668b9c8e3105c72
+localh2008-05-10d1t10.dpa4022.fr2le.flac:37c616a4a5ff1b08118db37901973a28
+localh2008-05-10d1t11.dpa4022.fr2le.flac:e16b8c5eb356a06d2b8887f45e3be610
+localh2008-05-10d2t01.dpa4022.fr2le.flac:222105179f4e4ec7bd7e0437701a33bd
+localh2008-05-10d2t02.dpa4022.fr2le.flac:d7a3405570ddb6eec45b9d2b22bc652e
+localh2008-05-10d2t03.dpa4022.fr2le.flac:30d0a7f32445f530a23ba5d2c0fff3ca
+localh2008-05-10d2t04.dpa4022.fr2le.flac:3c703681c25e70cfb002e828ac6fe935
+localh2008-05-10d2t05.dpa4022.fr2le.flac:5b479af3cf43f0fdc798b88ea9e1b0aa
+localh2008-05-10d2t06.dpa4022.fr2le.flac:13e45e25cd477a3b8f77d1da694a5798
+
+------------------------------------------------------------------------------------
+For more info on Local H, please visit: www.localh.com

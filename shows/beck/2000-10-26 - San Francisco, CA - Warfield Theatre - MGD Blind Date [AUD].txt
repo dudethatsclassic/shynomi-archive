@@ -1,0 +1,34 @@
+Beck
+10-26-00
+MGD Blind Date
+Warfield Theatre
+San Francisco, CA
+
+
+Source: Schoeps mk4 -> BR Box -> SBM-1 -> M1
+        FOB at the drinkrail 
+        Clone Master
+
+Conversion: Sony D8 -> MIT Terminator S/PDIF -> M-Audio DiO24/96 ->
+	    Cool Edit 2000 (44.1 kHz, same as DAT Master) -> CD Wav 1.71 -> mkwACT v0.97 Beta1
+
+Taped by: Chris Howell and crew
+Transferred by: Jered Haddad (funktopu@midsouth.rr.com)
+
+
+Setlist (will fit on one 74 minute disc)
+
+1. Loser
+2. New Pollution
+3. Novacane / One Foot In The Grave Medley
+4. Nicotine & Gravy / Unwind Yourself Medley
+5. Debra
+6. Band Intros
+7. Mixed Bizzness / Let's Dance Medley
+8. Milk & Honey
+9. Hot Wax
+10. Jackass
+11. Devil's Haircut
+12. Sex Laws
+13. Where It's At 
+              

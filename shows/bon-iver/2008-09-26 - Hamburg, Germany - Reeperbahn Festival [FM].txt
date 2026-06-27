@@ -1,0 +1,38 @@
+Bon Iver
+
+Hamburg Germany
+2008-09-26
+Theater
+Reeperbahn Festival
+
+Norwegian NRK P3 "Lydverket" radio broadcast 2009-01-07
+
+Complete broadcast*
+
+Lineage: FM->ZOOM H4(wav 44.1kHz 16 bit)->PC->NHC WavePad¤->FLAC(8)
+
+
+01 Flume
+02 Blood Bank
+03 Skinny Love
+04 For Emma
+05 Lump Sum
+06 Creature Fear
+07 re:stacks
+08 The Wolves (Prelude Act)
+09 The Wolves (Act I and II)
+10 encore
+11 Lovin's For Fools
+12 I Believe In You
+
+
+* Removed 5 long & short jingles->crossfaded
+¤ DC offset correction, Fade in & out
+
+Approx running time: 64:03(WinAmp)
+
+Sadly there is a buzz going through the whole set that interupts the listening experience in the more quiet parts of the set
+--------------------------------------------------------------------------------------
+
+
+Captured and shared on dime by Alcool_hol

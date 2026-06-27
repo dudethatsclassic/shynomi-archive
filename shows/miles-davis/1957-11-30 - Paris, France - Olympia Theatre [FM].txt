@@ -1,0 +1,81 @@
+René Urtreger Quartet (W/ Miles Davis)
+11-30-1957
+Olympia Theatre
+Paris France
+
+Project ID - LL31
+
+Source: FM Broadcast
+Lineage: ORTF radio broadcast > ?? > wave > ?? > flac
+
+Miles Davis (tpt); Barney Wilen (ts); René Urtreger (p); Pierre Michelot (b); 
+Kenny Clarke (d)
+
+
+disc 1
+
+d1t01. Bags' Groove
+d1t02. Tune Up
+d1t03. Four
+d1t04. Walkin' > 
+d1t05. Walkin'
+d1t06. No Moe
+d1t07  'Round Midnight
+ 
+-------------------------------------------------------
+
+Notes:
+
+- A good performance marred by frequent static bursts, crackles, hiss and some 
+line hum. Some of the noise may be from the recording of the original broadcast, 
+and there seems to be some phonographic crackles and pops in the lineage of this 
+source as well.
+
+- The tune "Walkin'" as tracked is split between d1t04 and d1t05.
+
+md5
+b9b776bd574646a21d75ee616789cc8c *md1957-11-30.LL31.d1t01.flac
+8859fd5cef5c6f8d58bf6642984c6b3a *md1957-11-30.LL31.d1t02.flac
+93bab080b426caac8e21dd16d1df0863 *md1957-11-30.LL31.d1t03.flac
+20d97319a9912364f0ee6a7f25d7251e *md1957-11-30.LL31.d1t04.flac
+a4dbf3dca8b917f2bb82994aa2212a84 *md1957-11-30.LL31.d1t05.flac
+fd1d21da5c3fe421c54bcaa520c3b0e5 *md1957-11-30.LL31.d1t06.flac
+6e126a9c76d7b4d08059732cc2ebd66c *md1957-11-30.LL31.d1t07.flac
+
+ffp
+md1957-11-30.LL31.d1t01.flac:e41efea2b9e6e891156b5cae2b590c85
+md1957-11-30.LL31.d1t02.flac:e974d041fe0c8eaf460246f118aa3921
+md1957-11-30.LL31.d1t03.flac:a760f5a53a14c9d0c0a3431ab0e5eb0d
+md1957-11-30.LL31.d1t04.flac:69c7a7d223cf96e2527737d704a08de1
+md1957-11-30.LL31.d1t05.flac:0f90d8f69aa5349c1037aabeb870c376
+md1957-11-30.LL31.d1t06.flac:790b4ace4039501e89ccb9e4a2bf7447
+md1957-11-30.LL31.d1t07.flac:3f3da5a828a37c2c4620d656adde0d5e
+
+st5 
+e41efea2b9e6e891156b5cae2b590c85  [shntool]  md1957-11-30.LL31.d1t01.flac
+e974d041fe0c8eaf460246f118aa3921  [shntool]  md1957-11-30.LL31.d1t02.flac
+a760f5a53a14c9d0c0a3431ab0e5eb0d  [shntool]  md1957-11-30.LL31.d1t03.flac
+69c7a7d223cf96e2527737d704a08de1  [shntool]  md1957-11-30.LL31.d1t04.flac
+0f90d8f69aa5349c1037aabeb870c376  [shntool]  md1957-11-30.LL31.d1t05.flac
+790b4ace4039501e89ccb9e4a2bf7447  [shntool]  md1957-11-30.LL31.d1t06.flac
+3f3da5a828a37c2c4620d656adde0d5e  [shntool]  md1957-11-30.LL31.d1t07.flac
+
+shntool
+ length     expanded size   cdr  WAVE problems filename
+     6:53.32       72928532    -b-   --   ---xx   md1957-11-30.LL31.d1t01.flac
+     4:16.52       45280748    ---   --   ---xx   md1957-11-30.LL31.d1t02.flac
+     5:57.19       63019532    ---   --   ---xx   md1957-11-30.LL31.d1t03.flac
+     6:17.60       66643964    ---   --   ---xx   md1957-11-30.LL31.d1t04.flac
+     1:08.30       12065804    ---   --   ---xx   md1957-11-30.LL31.d1t05.flac
+     7:19.50       77557244    ---   --   ---xx   md1957-11-30.LL31.d1t06.flac
+     5:11.49       54975692    ---   --   ---xx   md1957-11-30.LL31.d1t07.flac
+    37:04.67      392471516 B                     (totals for 7 files, 0.6149 overall compression ratio)
+
+spectral analysis from TLH
+md1957-11-30.LL31.d1t01.wav:  track looks like CDDA with probability 100%
+md1957-11-30.LL31.d1t02.wav:  track looks like CDDA with probability 100%
+md1957-11-30.LL31.d1t03.wav:  track looks like CDDA with probability 100%
+md1957-11-30.LL31.d1t04.wav:  track looks like CDDA with probability 100%
+md1957-11-30.LL31.d1t05.wav:  track looks like CDDA with probability 100%
+md1957-11-30.LL31.d1t06.wav:  track looks like CDDA with probability 99%
+md1957-11-30.LL31.d1t07.wav:  track looks like CDDA with probability 100%

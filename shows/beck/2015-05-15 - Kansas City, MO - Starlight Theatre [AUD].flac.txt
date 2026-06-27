@@ -1,0 +1,47 @@
+
+Beck
+05/15/2015
+Starlight Theatre
+Kansas City, MO
+
+
+Source: SP CMC-4 (AT853 cards) > CA 9100 preamp > R-09HR @ (24/48)
+Location: Left of Center, Front of Board, Plaza 5, Row H, Seat 7 / HRTF
+Lineage: Edirol R-09HR > Steinberg Wavelab 6.0 > .Wav > .Flac16
+Taped, transferred and mastered by: KCMoeJoe (jhutchison@kc.rr.com)
+
+
+
+
+01. The Golden Age 
+02. Blue Moon 
+03. Jack-Ass 
+04. I Heard That Lonesome Whistle Blow (Hank Williams cover)
+05. Waitin' for a Train (With Willie Nelson) (Jimmie Rodgers cover)
+06. Loser 
+07. Devil's Haircut 
+08. Black Tambourine 
+09. Sissyneck
+10. Think I'm in Love 
+11. Qué Onda Güero 
+12. The New Pollution 
+13. Soul of a Man 
+14. Lost Cause 
+15. Heart Is a Drum 
+16. Blackbird Chain 
+17. Waking Light 
+18. Girl 
+19. Sexx Laws 
+20. Debra 
+Encore:
+21. Where It's At / One Foot in the Grave 
+22. E-Pro
+
+
+
+notes:
+Willie Nelson opened
+
+Some audible clipping results running levels a bit too high into preamp.
+compensated by using iZotope Rx DeClip, then iZotope Ozone 1 Super wide EQ
+some wind rumble in a few spots can be heard as wind gusted up at times.

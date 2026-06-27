@@ -1,0 +1,137 @@
+Metallica
+
+1983-04-08
+Paramount Theater 
+Staten Island, NY 
+
+Source: Unknown AUD
+
+Transfer: Trade CDR -> EAC(secure) -> WAV -> FLAC
+
+
+01. Ecstacy Of Gold
+02. Hit the Lights
+03. The Mechanix
+04. Phantom Lord
+05. Jump in the Fire
+06. Motorbreath
+07. Bass Solo
+08. Whiplash
+09. Seek & Destroy 
+
+
+Notes:
+This 100% the real show, James says "Alright we are Metallica, this is called the Mechanix" It is verified at http://fakes.metpage.org/ that james does indeed say this on the real 1983-04-08. The recording is rough but its pretty rare so im more then happy to have this early gig!
+
+
+
+
+FLAC Fingerprint:
+
+Track01.flac:fdc75bbf3a93042e5608e96ff0e6a757
+Track02.flac:87eabf7393a407d79c76d2dd2b8adab1
+Track03.flac:4df30661d86b54acc802598d7123d35c
+Track04.flac:82c899df82796f2d1036457e83b5e99b
+Track05.flac:e7b66dbc1cb7da595de9f5a37b2c6bca
+Track06.flac:fc83b2e1126006a12ebc97e81f99b0d4
+Track07.flac:ef90a9f66e52d09700365e64e3ec98ce
+Track08.flac:5575d9da687bee8ab9164b4ea2c96df5
+Track09.flac:5c94c3d0888ada2cf9853204f5c4561f
+
+
+
+EAC LOG:
+
+EAC extraction logfile from 24. September 2007, 0:39 for CD
+Unknown Artist / Unknown Title
+
+Used drive  : TSSTcorpCD/DVDW SH-S183L   Adapter: 1  ID: 0
+Read mode   : Secure with NO C2, accurate stream, NO disable cache
+Combined read/write offset correction : 0
+Overread into Lead-In and Lead-Out : No
+
+Used output format : Internal WAV Routines
+                     44.100 Hz; 16 Bit; Stereo
+
+Other options      : 
+    Fill up missing offset samples with silence : Yes
+    Delete leading and trailing silent blocks : No
+    Native Win32 interface for Win NT & 2000
+
+
+Track  1
+     Filename D:\1983-04-08\Track01.wav
+
+     Peak level 33.3 %
+     Track quality 99.4 %
+     Copy CRC 4695698A
+     Copy OK
+
+Track  2
+     Filename D:\1983-04-08\Track02.wav
+
+     Peak level 54.1 %
+     Track quality 100.0 %
+     Copy CRC 80CD9A3C
+     Copy OK
+
+Track  3
+     Filename D:\1983-04-08\Track03.wav
+
+     Peak level 50.5 %
+     Track quality 100.0 %
+     Copy CRC 4D45139A
+     Copy OK
+
+Track  4
+     Filename D:\1983-04-08\Track04.wav
+
+     Peak level 48.7 %
+     Track quality 100.0 %
+     Copy CRC 4924949F
+     Copy OK
+
+Track  5
+     Filename D:\1983-04-08\Track05.wav
+
+     Peak level 50.1 %
+     Track quality 100.0 %
+     Copy CRC 7502C3BA
+     Copy OK
+
+Track  6
+     Filename D:\1983-04-08\Track06.wav
+
+     Peak level 50.4 %
+     Track quality 100.0 %
+     Copy CRC C28126D2
+     Copy OK
+
+Track  7
+     Filename D:\1983-04-08\Track07.wav
+
+     Peak level 50.7 %
+     Track quality 100.0 %
+     Copy CRC 772B6640
+     Copy OK
+
+Track  8
+     Filename D:\1983-04-08\Track08.wav
+
+     Peak level 52.4 %
+     Track quality 100.0 %
+     Copy CRC 690B0D6C
+     Copy OK
+
+Track  9
+     Filename D:\1983-04-08\Track09.wav
+
+     Peak level 55.4 %
+     Track quality 100.0 %
+     Copy CRC C1F6872E
+     Copy OK
+
+No errors occured
+
+
+End of status report

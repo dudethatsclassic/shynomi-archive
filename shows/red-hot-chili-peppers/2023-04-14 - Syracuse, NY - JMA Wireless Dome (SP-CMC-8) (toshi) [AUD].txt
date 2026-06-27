@@ -1,0 +1,71 @@
+Red Hot Chili Peppers
+JMA Wireless Dome
+Syracuse, NY
+April 14, 2023
+
+** 16 BIT **
+
+Source:  SP-CMC-8 (cardioids) > SP-SPSB-10 > Roland R-07 @ 24 bit/48 kHz
+Mastering:  .WAV > iZotope RX10 Advanced v10.0.0.1705 (De-click) > Sound Forge Pro 14.0 Build 140 [minor edits, normalize, & fades, Boz Digital Labs T-Bone plug-in (slant EQ)] > CDWav (tracking) > iZotope MBIT+ 
+(dithered and downsampled to 16 bit/44.1 kHz) > Trader's Little Helper (level 5) > FLAC > TagScanner 6.0.35 (tagging)
+Location:  GA/Floor, on the rail, one meter right of dead center
+Recorded by:  toshi
+Mastered by:  Dennis Orr
+
+Setlist: (1:44:44)
+01 Crowd/Intro
+02 Intrumental Jam
+03 Can't Stop
+04 Scar Tissue
+05 Snow (Hey Oh)
+06 Here Ever After
+07 Chat & Tuning
+08 Suck My Kiss
+09 Tippa My Tongue
+10 Soul To Squeeze
+11 Chat
+12 Nobody Weird Like Me
+13 Eddie
+14 Don't Forget Me
+15 Carry Me Home
+16 Californication >
+17 What Is Soul?
+18 Reach Out
+19 Black Summer
+20 By The Way
+21 Encore Break
+- Encore -
+22 I Could Have Lied
+23 Give It Away
+
+Anthony Kiedis – lead vocals
+John Frusciante – guitars, backing vocals, & keyboards
+Flea (Michael Balzary) – bass, backing vocals, trumpet, & piano
+Chad Smith – drums & percussion
+
+Note: 
+"Under the Bridge" was listed on the setlist, but "I Could Have Lied" was played instead.
+
+RHCP2023-04-14t01.flac:44d8a2b8ee2591fee7437b840cb4b39d
+RHCP2023-04-14t02.flac:45692815d2ec9853d35780c9379d5651
+RHCP2023-04-14t03.flac:861e85001345b3db3d89f1eec54f9712
+RHCP2023-04-14t04.flac:0caac545a9c96d8b426e7f289a33be9e
+RHCP2023-04-14t05.flac:9c0c95d44c21e6064ab87b79c763928a
+RHCP2023-04-14t06.flac:a5a51608f8d525369bab1794e692fd7c
+RHCP2023-04-14t07.flac:9bf99740dee96946301ab8f7884107ef
+RHCP2023-04-14t08.flac:cf93d7a6fd92ffd8566fbbda9646e608
+RHCP2023-04-14t09.flac:900b8f649ad18d1cf8ed232d3c928d6e
+RHCP2023-04-14t10.flac:46ca7212013a4d5962d2a2b5bf684018
+RHCP2023-04-14t11.flac:7d24dcc8b515a7dc1e37146580fae36d
+RHCP2023-04-14t12.flac:d3a52ca41da5115a044f6f4cd378c0a1
+RHCP2023-04-14t13.flac:81cd46eb60302ca907512b7c1537a144
+RHCP2023-04-14t14.flac:012cf74bef6521b0ebfbd3db066b89c2
+RHCP2023-04-14t15.flac:100b4a016b7bfeaa9e1c9c012e8f52d3
+RHCP2023-04-14t16.flac:c168d7e13e1a1ca695ea186fdd7c6e3a
+RHCP2023-04-14t17.flac:8f649bc6a8c64d5358d651b034d809e5
+RHCP2023-04-14t18.flac:3332d68dbfe90bd188e00b0a4eacd3ba
+RHCP2023-04-14t19.flac:a6e55268c798f5658ca425809eee8873
+RHCP2023-04-14t20.flac:6d1ee7e753b935f50801d6bad5764aed
+RHCP2023-04-14t21.flac:7d6eef712f3ea03da80a3b1466d180e1
+RHCP2023-04-14t22.flac:a79fd4cb20e4c9d771b5f54db7ff8f89
+RHCP2023-04-14t23.flac:fe8255e6d3b9f3b1d3eea6f2a3a3c116 

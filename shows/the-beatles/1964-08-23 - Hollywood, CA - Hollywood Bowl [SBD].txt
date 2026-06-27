@@ -1,0 +1,15 @@
+01 - Introduction (stereo).flac:  successfully fixed/rewritten to '01 - Introduction (stereo)-fixed.flac'.
+02 - Twist and Shout (stereo).flac:  successfully fixed/rewritten to '02 - Twist and Shout (stereo)-fixed.flac'.
+03 - You Can't Do That (stereo).flac:  successfully fixed/rewritten to '03 - You Can't Do That (stereo)-fixed.flac'.
+04 - All My Loving (stereo).flac:  successfully fixed/rewritten to '04 - All My Loving (stereo)-fixed.flac'.
+05 - She Loves You (stereo).flac:  successfully fixed/rewritten to '05 - She Loves You (stereo)-fixed.flac'.
+06 - Things We Said Today (stereo).flac:  successfully fixed/rewritten to '06 - Things We Said Today (stereo)-fixed.flac'.
+07 - Roll Over Beethoven (stereo).flac:  successfully fixed/rewritten to '07 - Roll Over Beethoven (stereo)-fixed.flac'.
+08 - Can't Buy Me Love (stereo).flac:  successfully fixed/rewritten to '08 - Can't Buy Me Love (stereo)-fixed.flac'.
+09 - If I Fell (stereo).flac:  successfully fixed/rewritten to '09 - If I Fell (stereo)-fixed.flac'.
+10 - I Want To Hold Your Hand (stereo).flac:  successfully fixed/rewritten to '10 - I Want To Hold Your Hand (stereo)-fixed.flac'.
+11 - Boys (stereo).flac:  successfully fixed/rewritten to '11 - Boys (stereo)-fixed.flac'.
+12 - A Hard Days Night (stereo).flac:  successfully fixed/rewritten to '12 - A Hard Days Night (stereo)-fixed.flac'.
+13 - Long Tall Sally (stereo).flac:  successfully fixed/rewritten to '13 - Long Tall Sally (stereo)-fixed.flac'.
+
+Padded last file with 1120 zero-bytes.

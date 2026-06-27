@@ -1,0 +1,37 @@
+EELS
+A Campingflight To Lowlands Paradise (GOLF stage)
+Walibi Flevo evenemententerrein, Biddinghuizen
+The Netherlands
+24 August 1997
+
+01 If I Was Your Girlfriend [Prince cover]
+02 Not Ready Yet
+03 Living Life [Daniel Johnston cover]
+04 Fingertips Pt.III
+05 Susan's House
+06 Mental
+07 Thirteen
+08 Looking Out The Window With A Blue Hat On
+09 My Beloved Monster
+10 Flower
+11 Novocaine For The Soul
+12 Rags To Rags
+13 Your Lucky Day In Hell
+14 Everything's Gonna Be Cool This Christmas
+
+As a fun little project I wanted to try something different. I merged the audience recording of EELS at the Lowlands 1997 festival with the FM broadcast as posted here on Dime ages ago by user 'frankvink'. The results of this matrix recording are quite good. This is now the complete show. 
+
+I used as much of the available FM-source as possible. Sometimes the transition between AUD and FM is hardly noticeable (Not Ready Yet, Mental) and in other cases (especially Looking Out The Window With A Blue Hat On) you can hear quite clearly where the AUD recording ends and the FM version takes over, as the song was cut in on live radio back in the day after a news broadcast. But all in all I'm quite happy with the results. 
+
+The audience recordings were made at the center of the GOLF tent of the festival, in front of the sound booth. The other songs were broadcast by 3FM radio in The Netherlands. 
+
+Lineage AUD source: Sony MZ-R30 Minidisc Recorder with Sony ECM-MS907 microphone >> MD >> Audacity (FLAC level 8) >> you
+Lineage FM source: FM (master) > Audacity (wav, normalize, track splitting) > xACT (flac) > you 
+
+track 1, 7, 13, 14: AUD
+track 3, 4, 5, 9, 10, 11: FM
+
+track 2: first 1m15 AUD, onwards FM
+track 6: first 4m20 FM, onwards AUD
+track 8: first 34s AUD, onwards FM 
+track 12: first 58s FM, onwards AUD 

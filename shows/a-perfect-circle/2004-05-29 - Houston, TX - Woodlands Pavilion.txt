@@ -1,0 +1,35 @@
+A PERFECT CIRCLE
+Woodlands PAvilion
+Houston, Tx.
+May 29, 2004
+
+MICS: http://www.soundprofessionals.com/cgi-bin/gold/category.cgi?category=search&item=SP-CMC-4&type=store
+
+BATTERY BOX: http://www.soundprofessionals.com/cgi-bin/gold/category.cgi?category=310&item=SP-SPSB-1&type=store
+
+Source:		CMC-4>SP-SPSB-1 @ 107Hz>Nomad Jukebox 3 @ 44.1 khz
+Taper:		ROIO420		(roio420@hotmail.com)
+Mic Location:	Left, Row VV, Seat 53
+
+Conversion:	Nomad JB3>1394 FireWire>CDWave (WAV splitter)>MKW Audio Compression Tool
+
+*************************************************************************************
+******DO NOT ALTER THESE FILES IN ANY WAY!!!  ie - NO MP3! NO SALE!***********
+*************************************************************************************
+PARTIAL SHOW, great sound - mics crapped out for first half.
+
+01)	The Package
+02)	3 Libras
+03)	The Nurse Who Loved Me
+04)	Gravity
+05)	The Outsider
+06)	The Noose
+07)	Judith
+
+11b68fab6e8a5db9054166164ab1c34f *apc2004-05-2901.shn
+100d944b039bb980e7fdaf982a9551cd *apc2004-05-2902.shn
+a858e983170d5d941dcbc272cfabf8ff *apc2004-05-2903.shn
+b01fc1c1179d3726fe45a33d89fa2c18 *apc2004-05-2904.shn
+f1cc9d85b356fb21baab6d7512a47703 *apc2004-05-2905.shn
+325012af069c73abc9acc781156919ea *apc2004-05-2906.shn
+791c315d531ee0ae45eee411dee8a2dc *apc2004-05-2907.shn

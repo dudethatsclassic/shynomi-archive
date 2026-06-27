@@ -1,0 +1,221 @@
+Miles Davis Studio Group
+08-(20-21)-1969
+Columbia Studio B
+New York, New York
+
+Project ID - LL151
+
+Source: Soundboard
+Lineage: Soundboard > ?? > Mega disc > wave > flac
+
+Miles Davis (tpt); Wayne Shorter (ss); Bennie Maupin (bcl); John McLaughlin (g); 
+Chick Corea (el-p); Josef Zawinul (el-p); Dave Holland (b); Harvey Brooks (el-b); 
+Jack DeJohnette (d); Lenny White (d); Charles Don Alias (d, perc); 
+Jumma Santos [Jim Riley] (perc)
+
+disc 1
+
+d1t01. Miles Runs The Voodoo Down (take 8)
+d1t02. Miles Runs The Voodoo Down (take 9 inc) 
+d1t03. Spanish Key (Co103750 take 1) 
+d1t04. Spanish Key (Co103750 take 2)  
+d1t05. Spanish Key (Co103750 take 3)  
+d1t06. Spanish Key (Co103750 take 4)  
+d1t07. Spanish Key (Co103750 take 4 inc)  
+d1t08. Pharoah's Dance (Co103313 part 1, take 1)
+d1t09. Pharoah's Dance (take 1 inc) 
+d1t10. Pharoah's Dance (part 1, take 2)  
+d1t11. Pharoah's Dance (part 1, take 2 inc)  
+d1t12. Pharoah's Dance (part 2, take 1)   
+d1t13. Pharoah's Dance (part 2, take 2)
+d1t14. Pharoah's Dance (part 2, take 1 fs) 
+d1t15. Pharoah's Dance (part 2, take 2 fs) 
+d1t16. Pharaoh's Dance(Part 2, Take 2 Fs3) 
+d1t17. Pharaoh's Dance(Part 2, Take 2 Fs4) 
+d1t18. Pharaoh's Dance(Part 2, Take 2 Fs5) 
+d1t19. Pharaoh's Dance(Part 2, Take 2 Fs6) 
+d1t20. Pharaoh's Dance(Insert Take 1)  
+d1t21. Pharaoh's Dance(Insert Take 2)  
+d1t22. Pharaoh's Dance(Insert Take 2 Fs)  
+d1t23. Pharaoh's Dance(Insert Take 3) 
+d1t24. Pharaoh's Dance(Insert Take 3 Fs1) 
+d1t25. Pharaoh's Dance(Insert Take3 Rehearsal) 
+d1t26. Pharaoh's Dance(Insert Take 3 Fs2)
+d1t27. Pharaoh's Dance(Insert Take 3 Fs3) 
+d1t28. Pharaoh's Dance(Insert Take 3 Fs4) 
+d1t29. Pharaoh's Dance(Insert Take 3-2) 
+ 
+-------------------------------------------------------
+
+Notes:
+
+- This circulates as Deep Brew Volume 2. From my listening, I can't find any 
+material that is released officially. As stated below by Peter Losin these are
+the outakles that didn't make the cut for the official release. 
+
+- Great quality, as to be expected. It's very interesting to get a peak at the 
+behind the scenes action. 
+
+- "The music that does not appear on Bitches Brew has now been issued on Deep Brew, 
+Volume 1 and Deep Brew, Volume 2 (Mega Disc), and on Unreleased Bitches Brew Session 
+(So What (CDR) SW-146/47), though it is indexed differently."
+- Credit to Peter Losin, http://www.plosin.com/
+
+- QC done by Bgreen
+
+md5
+f166821c2db663544bbc2405919eebaa *md1969-08-(21-21).LL151.d1t01.flac
+7de63cf7d4649c10c3ba6784b6176f45 *md1969-08-(21-21).LL151.d1t02.flac
+af1898fe0f07c684fc5d9878424080cf *md1969-08-(21-21).LL151.d1t03.flac
+618e33be5183b30673ee90c42230cf75 *md1969-08-(21-21).LL151.d1t04.flac
+c252d3d2446337d330b890f1db50c0cb *md1969-08-(21-21).LL151.d1t05.flac
+ff45d45b7699ddba6e743ad5eff22ed1 *md1969-08-(21-21).LL151.d1t06.flac
+6517a2efde2c9b95f7a832ba6ebadd80 *md1969-08-(21-21).LL151.d1t07.flac
+fd9d7995146aea302e7f55526b001838 *md1969-08-(21-21).LL151.d1t08.flac
+715f9f90869b9056dc73ec89c050ac5a *md1969-08-(21-21).LL151.d1t09.flac
+31d8ec182c00372d329b8761e01de36b *md1969-08-(21-21).LL151.d1t10.flac
+8c3b3755668f07604f36b6f2e62c7dcd *md1969-08-(21-21).LL151.d1t11.flac
+75757f93ff6b2f7aa1b29a9264af5ac6 *md1969-08-(21-21).LL151.d1t12.flac
+3c59f9ce5308330ea7e98c356179c053 *md1969-08-(21-21).LL151.d1t13.flac
+af658a5bf6d6e073147f15fd992eb47c *md1969-08-(21-21).LL151.d1t14.flac
+c880fd22164b830ebf1d8c97bb97f79c *md1969-08-(21-21).LL151.d1t15.flac
+2f1a34f6d1b58a3d96ab1b88f91b8d47 *md1969-08-(21-21).LL151.d1t16.flac
+5303e148025d5bc3378cb5814aeaa87b *md1969-08-(21-21).LL151.d1t17.flac
+6e3422e8cda37ed10c85a721c61eb34a *md1969-08-(21-21).LL151.d1t18.flac
+b7b80d2c696fc62fdd3222b03ff09606 *md1969-08-(21-21).LL151.d1t19.flac
+5c84024a1c5c5b413f95efb4f6b7035d *md1969-08-(21-21).LL151.d1t20.flac
+9f63e02ecb53f5f03d6bce624a1741e8 *md1969-08-(21-21).LL151.d1t21.flac
+0854e47b9a786d5248ee5ae02f0e5928 *md1969-08-(21-21).LL151.d1t22.flac
+0f365a6e0b5130a651d3f1c71d7c7c57 *md1969-08-(21-21).LL151.d1t23.flac
+fd3f7704ef3153d49ae00965f81b21c4 *md1969-08-(21-21).LL151.d1t24.flac
+c90ef96f4f626d7fa648d96b4a264406 *md1969-08-(21-21).LL151.d1t25.flac
+edd9f1b4ac3b8572ab08f6a52e6f7349 *md1969-08-(21-21).LL151.d1t26.flac
+108cca0e3c68f72678724af44d3897c0 *md1969-08-(21-21).LL151.d1t27.flac
+f1a1da24b89711ba90d3973a1105468d *md1969-08-(21-21).LL151.d1t28.flac
+458ab301391cf1cabf200793fd69de67 *md1969-08-(21-21).LL151.d1t29.flac
+
+ffp
+md1969-08-(21-21).LL151.d1t01.flac:842524e17758c7745f5c6f4630c00354
+md1969-08-(21-21).LL151.d1t02.flac:e110a74e1e7675d5e0b098e3094df8f4
+md1969-08-(21-21).LL151.d1t03.flac:6000a2bb2db4a2af80f97f819cf36327
+md1969-08-(21-21).LL151.d1t04.flac:f129e14bd0ba98f56b92612519f257cf
+md1969-08-(21-21).LL151.d1t05.flac:9a481a454fb9da12a125e757db5d23fe
+md1969-08-(21-21).LL151.d1t06.flac:58cc0576945cc491f31a89485b2ef1c8
+md1969-08-(21-21).LL151.d1t07.flac:18f3b0f19bf6c78cdb85120237b5cc9f
+md1969-08-(21-21).LL151.d1t08.flac:7c4749d9e9eb769213551a0ee0fff29c
+md1969-08-(21-21).LL151.d1t09.flac:1bf27e3c8f909c6440af887065cf1fb0
+md1969-08-(21-21).LL151.d1t10.flac:82f0188056ea8a5a40a338586e32601b
+md1969-08-(21-21).LL151.d1t11.flac:cb972c8a39df0e729ff98dd643d419a4
+md1969-08-(21-21).LL151.d1t12.flac:81f4b5dccb91b05432f3cc76d327f59e
+md1969-08-(21-21).LL151.d1t13.flac:9cd566f0f7c20a3eb1fe9e3b2e4c57c2
+md1969-08-(21-21).LL151.d1t14.flac:f3c4c59f0a3f46a54887ff674eb27e8d
+md1969-08-(21-21).LL151.d1t15.flac:a71f5c36ccdf90841e26b7810244ce4d
+md1969-08-(21-21).LL151.d1t16.flac:93735ef3f15dcf23e9bdcda743450774
+md1969-08-(21-21).LL151.d1t17.flac:2d181c6785864ff80354612f964f8377
+md1969-08-(21-21).LL151.d1t18.flac:12222963ff6bf28333c1131f11c4dc7a
+md1969-08-(21-21).LL151.d1t19.flac:5b1fe73ec5b65f987ec5952516a36af9
+md1969-08-(21-21).LL151.d1t20.flac:f72649fa2736b73b0c4da1479d7aad2b
+md1969-08-(21-21).LL151.d1t21.flac:c52e8e4e9ea0a6f138ae46d1442d1f2f
+md1969-08-(21-21).LL151.d1t22.flac:3e1711255c4101fe63f7ce9d801c46d6
+md1969-08-(21-21).LL151.d1t23.flac:6c5d708e17dea0affe768e4fb8861adc
+md1969-08-(21-21).LL151.d1t24.flac:3c95dfa1ff2a4a7ce219450e8f7ce3b4
+md1969-08-(21-21).LL151.d1t25.flac:0914904a280918db670bcdf520e82430
+md1969-08-(21-21).LL151.d1t26.flac:c1efb2f6bb3be6075ebe4cc12dfba92d
+md1969-08-(21-21).LL151.d1t27.flac:016b25fdd9c6a39aa4425c55fbd3a9db
+md1969-08-(21-21).LL151.d1t28.flac:625eb1589c7a8ffaac9d041169b1a8a1
+md1969-08-(21-21).LL151.d1t29.flac:1943d1c061ad5743e5b937b2c250db77
+
+shntool
+length     expanded size   cdr  WAVE problems filename
+     3:09.69       33501932    ---   --   3--xx   md1969-08-(21-21).LL151.d1t01.flac
+     4:00.46       42444236    ---   --   3--xx   md1969-08-(21-21).LL151.d1t02.flac
+     4:17.35       45417164    ---   --   3--xx   md1969-08-(21-21).LL151.d1t03.flac
+    10:50.20      114707084    ---   --   3--xx   md1969-08-(21-21).LL151.d1t04.flac
+     7:49.44       82835132    ---   --   3--xx   md1969-08-(21-21).LL151.d1t05.flac
+     0:15.32        2721308    ---   --   3--xx   md1969-08-(21-21).LL151.d1t06.flac
+     0:39.35        6961964    ---   --   3--xx   md1969-08-(21-21).LL151.d1t07.flac
+     0:46.30        8185004    ---   --   3--xx   md1969-08-(21-21).LL151.d1t08.flac
+     0:40.19        7100732    ---   --   3--xx   md1969-08-(21-21).LL151.d1t09.flac
+     0:15.69        2808332    ---   --   3--xx   md1969-08-(21-21).LL151.d1t10.flac
+     1:05.48       11578940    ---   --   3--xx   md1969-08-(21-21).LL151.d1t11.flac
+     0:41.33        7310060    ---   --   3--xx   md1969-08-(21-21).LL151.d1t12.flac
+     3:56.70       41795084    ---   --   3--xx   md1969-08-(21-21).LL151.d1t13.flac
+     0:10.32        1839308    ---   --   3--xx   md1969-08-(21-21).LL151.d1t14.flac
+     0:32.25        5703644    ---   --   3--xx   md1969-08-(21-21).LL151.d1t15.flac
+     0:08.29        1479452    ---   --   3--xx   md1969-08-(21-21).LL151.d1t16.flac
+     0:21.41        3800876    ---   --   3--xx   md1969-08-(21-21).LL151.d1t17.flac
+     0:09.30        1658204    ---   --   3--xx   md1969-08-(21-21).LL151.d1t18.flac
+     0:27.62        4908668    ---   --   3--xx   md1969-08-(21-21).LL151.d1t19.flac
+     0:17.00        2998844    ---   --   3--xx   md1969-08-(21-21).LL151.d1t20.flac
+     0:21.30        3775004    ---   --   3--xx   md1969-08-(21-21).LL151.d1t21.flac
+     0:40.33        7133660    ---   --   3--xx   md1969-08-(21-21).LL151.d1t22.flac
+     0:23.32        4132508    ---   --   3--xx   md1969-08-(21-21).LL151.d1t23.flac
+     0:16.73        2994140    ---   --   3--xx   md1969-08-(21-21).LL151.d1t24.flac
+     0:44.27        7825148    ---   --   3--xx   md1969-08-(21-21).LL151.d1t25.flac
+     0:30.27        5355548    ---   --   3--xx   md1969-08-(21-21).LL151.d1t26.flac
+     0:24.45        4339484    ---   --   3--xx   md1969-08-(21-21).LL151.d1t27.flac
+     0:33.53        5945900    ---   --   3--xx   md1969-08-(21-21).LL151.d1t28.flac
+     1:05.23       11520140    ---   --   3--xx   md1969-08-(21-21).LL151.d1t29.flac
+    45:36.62      482777500 B                     (totals for 29 files, 0.5216 overall compression ratio)
+
+spectral analysis from TLH
+md1969-08-(21-21).LL151.d1t01.wav:  track looks like CDDA with probability 100%
+md1969-08-(21-21).LL151.d1t02.wav:  track looks like CDDA with probability 100%
+md1969-08-(21-21).LL151.d1t03.wav:  track looks like CDDA with probability 100%
+md1969-08-(21-21).LL151.d1t04.wav:  track looks like CDDA with probability 100%
+md1969-08-(21-21).LL151.d1t05.wav:  track looks like CDDA with probability 100%
+md1969-08-(21-21).LL151.d1t06.wav:  track looks like CDDA with probability 100%
+md1969-08-(21-21).LL151.d1t07.wav:  track looks like CDDA with probability 100%
+md1969-08-(21-21).LL151.d1t08.wav:  track looks like CDDA with probability 100%
+md1969-08-(21-21).LL151.d1t09.wav:  track looks like CDDA with probability 100%
+md1969-08-(21-21).LL151.d1t10.wav:  track looks like CDDA with probability 100%
+md1969-08-(21-21).LL151.d1t11.wav:  track looks like CDDA with probability 100%
+md1969-08-(21-21).LL151.d1t12.wav:  track looks like CDDA with probability 100%
+md1969-08-(21-21).LL151.d1t13.wav:  track looks like CDDA with probability 99%
+md1969-08-(21-21).LL151.d1t14.wav:  track looks like CDDA with probability 100%
+md1969-08-(21-21).LL151.d1t15.wav:  track looks like CDDA with probability 100%
+md1969-08-(21-21).LL151.d1t16.wav:  track looks like CDDA with probability 100%
+md1969-08-(21-21).LL151.d1t17.wav:  track looks like CDDA with probability 100%
+md1969-08-(21-21).LL151.d1t18.wav:  track looks like CDDA with probability 100%
+md1969-08-(21-21).LL151.d1t19.wav:  track looks like CDDA with probability 100%
+md1969-08-(21-21).LL151.d1t20.wav:  track looks like CDDA with probability 100%
+md1969-08-(21-21).LL151.d1t21.wav:  track looks like CDDA with probability 100%
+md1969-08-(21-21).LL151.d1t22.wav:  track looks like CDDA with probability 100%
+md1969-08-(21-21).LL151.d1t23.wav:  track looks like CDDA with probability 100%
+md1969-08-(21-21).LL151.d1t24.wav:  track looks like CDDA with probability 100%
+md1969-08-(21-21).LL151.d1t25.wav:  track looks like CDDA with probability 100%
+md1969-08-(21-21).LL151.d1t26.wav:  track looks like CDDA with probability 100%
+md1969-08-(21-21).LL151.d1t27.wav:  track looks like CDDA with probability 100%
+md1969-08-(21-21).LL151.d1t28.wav:  track looks like CDDA with probability 100%
+md1969-08-(21-21).LL151.d1t29.wav:  track looks like CDDA with probability 99%
+
+old ffp
+01 - Miles Runs The Voodoo Down(Take 8).flac:842524e17758c7745f5c6f4630c00354
+02 - Miles Runs The Voodoo Down(Take 9).flac:e110a74e1e7675d5e0b098e3094df8f4
+03 - Spanish Key(Take 1).flac:6000a2bb2db4a2af80f97f819cf36327
+04 - Spanish Key(Take 2).flac:f129e14bd0ba98f56b92612519f257cf
+05 - Spanish Key(Take 3).flac:9a481a454fb9da12a125e757db5d23fe
+06 - Spanish Key(Take 4).flac:58cc0576945cc491f31a89485b2ef1c8
+07 - Spanosh Key(Take 4 Inc).flac:18f3b0f19bf6c78cdb85120237b5cc9f
+08 - Pharaoh's Dance(Take 1).flac:7c4749d9e9eb769213551a0ee0fff29c
+09 - Pharaoh's Dance(Take 1 Inc).flac:1bf27e3c8f909c6440af887065cf1fb0
+10 - Pharaoh's Dance(Part 1, Take 2).flac:82f0188056ea8a5a40a338586e32601b
+11 - Pharaoh's Dance(Part 1, Take 2 Inc).flac:cb972c8a39df0e729ff98dd643d419a4
+12 - Pharaoh's Dance(Part 2, Take 1).flac:81f4b5dccb91b05432f3cc76d327f59e
+13 - Pharaoh's Dance(Part 2, Take 2).flac:9cd566f0f7c20a3eb1fe9e3b2e4c57c2
+14 - Pharaoh's Dance(Part 2, Take 2 Fs1).flac:f3c4c59f0a3f46a54887ff674eb27e8d
+15 - Pharaoh's Dance(Part 2, Take 2 Fs2).flac:a71f5c36ccdf90841e26b7810244ce4d
+16 - Pharaoh's Dance(Part 2, Take 2 Fs3).flac:93735ef3f15dcf23e9bdcda743450774
+17 - Pharaoh's Dance(Part 2, Take 2 Fs4).flac:2d181c6785864ff80354612f964f8377
+18 - Pharaoh's Dance(Part 2, Take 2 Fs5).flac:12222963ff6bf28333c1131f11c4dc7a
+19 - Pharaoh's Dance(Part 2, Take 2 Fs6).flac:5b1fe73ec5b65f987ec5952516a36af9
+20 - Pharaoh's Dance(Insert Take 1).flac:f72649fa2736b73b0c4da1479d7aad2b
+21 - Pharaoh's Dance(Insert Take 2).flac:c52e8e4e9ea0a6f138ae46d1442d1f2f
+22 - Pharaoh's Dance(Insert Take 2 Fs).flac:3e1711255c4101fe63f7ce9d801c46d6
+23 - Pharaoh's Dance(Insert Take 3).flac:6c5d708e17dea0affe768e4fb8861adc
+24 - Pharaoh's Dance(Insert Take 3 Fs1).flac:3c95dfa1ff2a4a7ce219450e8f7ce3b4
+25 - Pharaoh's Dance(Insert Take3 Rehearsal).flac:0914904a280918db670bcdf520e82430
+26 - Pharaoh's Dance(Insert Take 3 Fs2).flac:c1efb2f6bb3be6075ebe4cc12dfba92d
+27 - Pharaoh's Dance(Insert Take 3 Fs3).flac:016b25fdd9c6a39aa4425c55fbd3a9db
+28 - Pharaoh's Dance(Insert Take 3 Fs4).flac:625eb1589c7a8ffaac9d041169b1a8a1
+29 - Pharaoh's Dance(Insert Take 3-2).flac:1943d1c061ad5743e5b937b2c250db77

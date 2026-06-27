@@ -1,0 +1,72 @@
+Dizzy Gillespie All-Stars
+05-23-1953
+Birdland
+New York, New York
+
+Project ID - LL88
+
+Source: Audience Recording
+Lineage: Audience Recording > ?? > cd (Peter Losin's Archive) > 
+cd duplicated (burner to burner) > eac > wave > flac ( lvl 8 )
+
+Miles Davis (tpt); J.B. "Dizzy" Gillespie (tpt, voc); Charlie Parker (as); 
+Sahib Shihab [Edmund Gregory] (bs); Wade Legge (p); Lou Hackney (b); Al Jones (d); 
+Joe Carroll (voc)
+
+disc 1
+
+d1t01. The Bluest Blues
+d1t02. On the Sunny Side of the Street
+ 
+-------------------------------------------------------
+
+Notes:
+
+- An interesting recording. This date came to me with two file sets. One set is a 
+half step higher in pitch than the other. This set is the set that 
+is the lower in pitch of the two. 
+
+- This version, LL88 most closely matches the track timings supplied by Peter Losin.
+The sound is cleaner also so I would assume some editing has been performed on 
+this version which has made it easier on the ears as some of the distortion has been cleaned
+up and the levels adjusted. 
+
+- What a night to be at birdland. The sound is good on these, and the playing is 
+very nice. This is a true piece of history. Hit play, take yourself back and enjoy.
+The biggest flaw on this for me was that it was too short. 
+
+- Thanks to Peter Losin for the source.  
+
+- "Some discographies place this broadcast in June, but the available evidence 
+suggests May. The Charlie Parker Quartet, the Dizzy Gillespie Group, and the Bud 
+Powell Trio were all booked at Birdland May 21-26; Parker remained (opposite Ella 
+Fitzgerald) through June 3. Davis replaced Gillespie on one night (May 16), and 
+joined him as a second trumpet here."- Credit to Peter Losin, http://www.plosin.com/" 
+
+- QC done by Bgreen
+
+md5
+53e3904b27fcbbf49fc0d810214a4dcf *md1953-05-23.LL88.d1t01.flac
+f07dd3d2fcee58ba1729fa60b423fd89 *md1953-05-23.LL88.d1t02.flac
+
+ffp
+md1953-05-23.LL88.d1t01.flac:ce0b1bdafb2cf13e1fe97e245fcbcc2f
+md1953-05-23.LL88.d1t02.flac:fcea2fa97c9ce5b36cf857eac0ba7950
+
+st5 
+ce0b1bdafb2cf13e1fe97e245fcbcc2f  [shntool]  md1953-05-23.LL88.d1t01.flac
+fcea2fa97c9ce5b36cf857eac0ba7950  [shntool]  md1953-05-23.LL88.d1t02.flac
+
+shntool
+  length     expanded size   cdr  WAVE problems filename
+     6:27.54       68393852    ---   --   ---xx   md1953-05-23.LL88.d1t01.flac
+     2:47.35       29541164    ---   --   ---xx   md1953-05-23.LL88.d1t02.flac
+     9:15.14       97935016 B                     (totals for 2 files, 0.3251 overall compression ratio)
+
+spectral analysis from TLH
+md1953-05-23.LL88.d1t01.wav:  track looks like CDDA with probability 100%
+md1953-05-23.LL88.d1t02.wav:  track looks like CDDA with probability 100%
+
+old ffp
+12 - Track12.flac:ce0b1bdafb2cf13e1fe97e245fcbcc2f
+13 - Track13.flac:fcea2fa97c9ce5b36cf857eac0ba7950

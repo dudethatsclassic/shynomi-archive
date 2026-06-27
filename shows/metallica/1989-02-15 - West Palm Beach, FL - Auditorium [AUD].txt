@@ -1,0 +1,36 @@
+Metallica
+
+
+1989-02-15
+Auditorium
+West Palm Beach, FL 
+
+Source: Unknown AUD
+
+Transfer: ?? -> Trade CDR -> EAC(secure) -> WAV -> FLAC
+
+01. Ecstasy Of Gold
+02. Blackened
+03. For Whom The Bell Tolls
+04. Welcome Home (Sanitarium)
+05. Leper Messiah
+06. Harvester Of Sorrow
+07. Eye Of The Beholder
+08. Bass Solo
+09. Master Of Puppets
+
+Notes:
+A pretty rough sounding show that at times sounds like it could of been the audio from a vhs, sometimes it sounds like the tracking was messed up. Im not sure if this is all that exists of this show or if a full recording also exists.
+
+
+FLAC Fingerprint:
+
+Track01.flac:6222b25ab7a37a860592bc0f2f5375ee
+Track02.flac:ba85b8bde44b75f561ae5da9c793cdef
+Track03.flac:ce832149f396ba0c84b3cbd864063920
+Track04.flac:0cf498ade71d4a5c44e32153265af262
+Track05.flac:154c15947f23e6bc735b713a06f1104d
+Track06.flac:cc0fdba5f89c847726a9979c0ceb84a0
+Track07.flac:22712f501d5ae496e95b137c29b2b468
+Track08.flac:9e28cdb5fec7815885141334881ccf14
+Track09.flac:6b2f1f6be3a34fc4fd52eab1504680c9

@@ -1,0 +1,101 @@
+Miles Davis Quintet
+09-27-1960 (late)
+Free Trade Hall
+Manchester, United Kingdom
+
+Project ID - LL61
+
+Source: Audience Recording
+Lineage: Audience Recording > ?? > wave > ?? > Disk 5 & 6 of miles-trees LX vine >
+unknown ripping software > wave > flac
+
+Miles Davis (tpt); Sonny Stitt (as, ts); Wynton Kelly (p); Paul Chambers (b); 
+Jimmy Cobb (d) 
+
+disc 1
+
+d1t01. Four 
+d1t02. All Blues
+d1t03. Well You Needn't
+d1t04. Autumn Leaves
+d1t05. So What
+d1t06. Stardust
+d1t07. The Theme
+ 
+-------------------------------------------------------
+
+Notes:
+
+- d1t03: There is a 2 second gap at the beginning of the track
+
+- There are small pockets of static and level fluctuations present throughout this 
+recording. 
+
+- Peter Losin and miles-trees both list this as an audience recording. The sound and a 
+spectral analysis both lean me toward a soundboard recording. 
+
+- This was released on a bootleg record as a soundboard. 
+
+- This is a fantastic recording of a very tight performance. A must have for any collection
+
+- QC done by Bgreen
+
+md5
+4ee6966ae6c4f246bf6fa9088b124164 *md1960-09-27L.LL61.d1t01.flac
+4123b382bcf9fef7efe85849e729bd01 *md1960-09-27L.LL61.d1t02.flac
+366f9d4fbe3b95a87df9ff5d6f5e5206 *md1960-09-27L.LL61.d1t03.flac
+1ad08fd4edd85d6ec72cb9381673cb18 *md1960-09-27L.LL61.d1t04.flac
+5bc22e1927c77a3e4cc3689038e5bc3a *md1960-09-27L.LL61.d1t05.flac
+543eddf165baed8e9faf75c5a3ab7cb5 *md1960-09-27L.LL61.d1t06.flac
+d7af5c0661644294faf363a4acbf099d *md1960-09-27L.LL61.d1t07.flac
+
+ffp
+md1960-09-27L.LL61.d1t01.flac:677530e7860019e13780a3275b9d3987
+md1960-09-27L.LL61.d1t02.flac:7044052a6bfa93c61bf0e5dd60a9ffdc
+md1960-09-27L.LL61.d1t03.flac:86f1b756604e919f77486101ca93fe61
+md1960-09-27L.LL61.d1t04.flac:9b2384ca99671cafa14c614125290401
+md1960-09-27L.LL61.d1t05.flac:16f979fe79fbd00c3f161d88edb6ad9d
+md1960-09-27L.LL61.d1t06.flac:95315c870d7c0b9eec15eca97d4dd6fe
+md1960-09-27L.LL61.d1t07.flac:4037d17d413ecf182144a5cb4fcec364
+
+shntool
+    length     expanded size   cdr  WAVE problems filename
+     8:09.73       86431340    ---   --   ---xx   md1960-09-27L.LL61.d1t01.flac
+    14:44.52      156059948    ---   --   ---xx   md1960-09-27L.LL61.d1t02.flac
+    13:12.21      139758236    ---   --   ---xx   md1960-09-27L.LL61.d1t03.flac
+    17:23.22      184036988    ---   --   ---xx   md1960-09-27L.LL61.d1t04.flac
+    10:32.59      111623612    ---   --   ---xx   md1960-09-27L.LL61.d1t05.flac
+     4:15.42       45080828    ---   --   ---xx   md1960-09-27L.LL61.d1t06.flac
+     0:41.03        7239500    ---   --   ---xx   md1960-09-27L.LL61.d1t07.flac
+    68:59.47      730230452 B                     (totals for 7 files, 0.5650 overall compression ratio)
+
+spectral analysis from TLH
+md1960-09-27L.LL61.d1t01.wav:  track looks like CDDA with probability 100%
+md1960-09-27L.LL61.d1t02.wav:  track looks like CDDA with probability 99%
+md1960-09-27L.LL61.d1t03.wav:  track looks like CDDA with probability 100%
+md1960-09-27L.LL61.d1t04.wav:  track looks like CDDA with probability 100%
+md1960-09-27L.LL61.d1t05.wav:  track looks like CDDA with probability 100%
+md1960-09-27L.LL61.d1t06.wav:  track looks like CDDA with probability 99%
+md1960-09-27L.LL61.d1t07.wav:  track looks like CDDA with probability 100%
+
+
+Old md5 and ffp
+4ee6966ae6c4f246bf6fa9088b124164 *d05t04.flac
+4123b382bcf9fef7efe85849e729bd01 *d05t05.flac
+366f9d4fbe3b95a87df9ff5d6f5e5206 *d06t01.flac
+1ad08fd4edd85d6ec72cb9381673cb18 *d06t02.flac
+5bc22e1927c77a3e4cc3689038e5bc3a *d06t03.flac
+543eddf165baed8e9faf75c5a3ab7cb5 *d06t04.flac
+d7af5c0661644294faf363a4acbf099d *d06t05.flac
+
+d06t05.flac:4037d17d413ecf182144a5cb4fcec364
+d05t04.flac:677530e7860019e13780a3275b9d3987
+d05t05.flac:7044052a6bfa93c61bf0e5dd60a9ffdc
+d06t01.flac:86f1b756604e919f77486101ca93fe61
+d06t02.flac:9b2384ca99671cafa14c614125290401
+d06t03.flac:16f979fe79fbd00c3f161d88edb6ad9d
+d06t04.flac:95315c870d7c0b9eec15eca97d4dd6fe
+
+
+
+

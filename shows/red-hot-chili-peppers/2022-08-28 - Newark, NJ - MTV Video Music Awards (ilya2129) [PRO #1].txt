@@ -1,0 +1,17 @@
+Red Hot Chili Peppers
+Date: 		2022-08-28
+Venue: 		Prudential Center (MTV Video Music Awards) NEWARK, NJ, UNITED STATES
+Length: 	15m01s + 2m19s Interview
+Taper:		ilya2129
+Lineage: 	HDTV > ? > Cut with FFworks (ffmpeg)
+Source		PRO#1
+Media:		.ts
+Video info: 	h264 1920x1080 19Mb/s(VBR) 25FPS
+Audio info: 	mp2 192kb/s 48kHz
+Comment:	
+More info:	https://rhcplivearchive.com/show/aug-28-2022-newark-nj-2149
+
+Setlist:
+Interview
+Black Summer
+Can't Stop

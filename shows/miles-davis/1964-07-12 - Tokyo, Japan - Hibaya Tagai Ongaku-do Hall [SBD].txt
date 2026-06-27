@@ -1,0 +1,66 @@
+Miles Davis Quintet
+07-12-1964
+Hibaya Yagai Ongaku-do Hall
+Tokyo, Japan
+
+Project ID - LL68
+
+Source: Soundboard
+Lineage: SBD > ?? > wave >  CDR > ?? > FLAC (LVL 8 )
+
+Miles Davis (tpt); Sam Rivers (ts); Herbie Hancock (p); Ron Carter (b);
+Tony Williams (d)
+
+disc 1
+
+d1t01. Autumn Leaves
+d1t02. So What
+d1t03. Stella By Starlight
+d1t04. Walkin' > The Theme
+d1t05. Closing Announcement
+
+-------------------------------------------------------
+
+Notes:
+
+- Absolutely stupendous recording. A very slight hiss.  A must have for everyone with an 
+interest in Miles. 
+
+- QC done by Bgreen
+
+md5
+ fb5d2c4349c8ec5138ae53b359b1142c *md1964-07-12.LL68.d1t01.flac
+ 4502799c69f6bcc06c193c97f85553bc *md1964-07-12.LL68.d1t02.flac
+ 0e04962eac981e9b3d771c807425de7f *md1964-07-12.LL68.d1t03.flac
+ e93c34701de359c53f6b3957eb10b936 *md1964-07-12.LL68.d1t04.flac
+ 1009b705fe1422c2ef2a57964024ef9a *md1964-07-12.LL68.d1t05.flac
+
+ffp
+md1964-07-12.LL68.d1t01.flac:33a6c902e550471fd98d0bfb611bac76
+md1964-07-12.LL68.d1t02.flac:b6f6cb05b5a3c89fb94787ae2247a408
+md1964-07-12.LL68.d1t03.flac:e2f1d2176c2c86dbd938aaa101730a01
+md1964-07-12.LL68.d1t04.flac:af5eda85f05cf777ff7edc1322756d0b
+md1964-07-12.LL68.d1t05.flac:958df47775cf3bfb299d6f3e3648458e
+
+shntool
+ length     expanded size    cdr  WAVE problems  fmt   ratio  filename
+ 11:03.02      116957948 B   ---   --   ---xx   flac  0.5140  md1964-07-12.LL68.d1t01.flac
+  8:41.01       91906796 B   ---   --   ---xx   flac  0.5119  md1964-07-12.LL68.d1t02.flac
+ 10:54.01      115367996 B   ---   --   ---xx   flac  0.4812  md1964-07-12.LL68.d1t03.flac
+  9:34.00      101253644 B   ---   --   ---xx   flac  0.5082  md1964-07-12.LL68.d1t04.flac
+  0:12.01        2119196 B   ---   --   ---xx   flac  0.3463  md1964-07-12.LL68.d1t05.flac
+ 40:24.05      427605580 B                            0.5025  (5 files)
+
+spectral analysis from TLH
+md1964-07-12.LL68.d1t01.wav:  track looks like CDDA with probability 99%
+md1964-07-12.LL68.d1t02.wav:  track looks like CDDA with probability 100%
+md1964-07-12.LL68.d1t03.wav:  track looks like CDDA with probability 100%
+md1964-07-12.LL68.d1t04.wav:  track looks like CDDA with probability 100%
+md1964-07-12.LL68.d1t05.wav:  track looks like CDDA with probability 100%
+
+old md5
+fb5d2c4349c8ec5138ae53b359b1142c *miles1964-07-12t01.flac
+4502799c69f6bcc06c193c97f85553bc *miles1964-07-12t02.flac
+0e04962eac981e9b3d771c807425de7f *miles1964-07-12t03.flac
+e93c34701de359c53f6b3957eb10b936 *miles1964-07-12t04.flac
+1009b705fe1422c2ef2a57964024ef9a *miles1964-07-12t05.flac

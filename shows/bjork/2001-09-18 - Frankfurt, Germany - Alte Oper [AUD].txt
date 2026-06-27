@@ -1,0 +1,59 @@
+Björk
+2001-09-18
+Alte Oper
+Frankfurt, Germany
+
+Source:
+Audience Recording
+Sony Microphones* > Sony Minidisc > CDR
+CDR > EAC/Musicmatch** > wav > flac (unedited, untracked)
+Recorded by "HH"
+Audio Extraction by Andre
+
+Downloaded via bjorkhub.no-ip.info (direct connect) > flac > wav > Soundforge (edits, fades) > CD Wave (tracking) > Flac Frontend (level 7, align on sector boundaries) > flac
+
+Tracklist:
+Set 1 / Disc 1
+01. Frosti
+02. Overture
+03. All Is Full Of Love
+04. Unravel
+05. Harm Of Will
+06. Generous Palmstroke
+07. It's Not Up To You
+08. An Echo, A Stain 
+09. I've Seen It All
+10. Cocoon
+11. Unison 
+
+Set 2 / Disc 2
+12. Hidden Place
+13. Venus As A Boy
+14. Pagan Poetry
+15. You've Been Flirting Again
+16. Isobel
+17. Play Dead
+18. Joga
+19. Hyperballad
+20. Bachelorette 
+Encore 1
+21. Anchor Song
+22. Human Behavior
+Encore 2
+23. It's In Our Hands
+
+Notes:
+front artwork by danlynch
+back artwork by "hyperboy" with flac file information added
+
+*this recording was received via 2 CDR's directly from the person who recorded the show. The limited recording equipment information is all that the recorder could provide.
+**The first CDR was extracted using EAC with no errors. The second disc would not extract using EAC, so Musicmatch was used. It became apparent when editing why the disc would not extract--there were 3 gaps in the second set, fortunately all during crowd noise. I used Soundforge7 to edit these gaps, and create a seemless recording. Soundforge pencil tool was used to smooth two bumps by the recorder into the mics during quiet moments. Fades were added to the beginning and end of each set. No normalization was necessary.
+--danlynch 2004-06-16 
+
+http://gudmundsdottirbjork.blogspot.com/
+
+
+
+
+
+

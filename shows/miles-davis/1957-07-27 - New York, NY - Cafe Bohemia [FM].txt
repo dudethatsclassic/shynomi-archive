@@ -1,0 +1,64 @@
+Miles Davis Quintet
+07-27-1957
+Café Bohemia
+New York, New York
+
+Project ID - LL6
+
+Source: FM Broadcast
+Lineage: Mutual Network radio broadcast > Unknown Transfer(s) > ??> wav> flac
+
+Miles Davis (tpt); Sonny Rollins (ts); William "Red" Garland (p); Paul Chambers (b); 
+Arthur Taylor (d); Guy Wallace (ann); Bill Coss (guest)
+
+disc 1
+
+d1t01. Introduction > Bye Bye Blackbird > Tune Up/
+d1t02. / Tune Up
+ 
+-------------------------------------------------------
+
+Notes:
+
+- A fine performance, unfortunately with a voice-over guest interview, this recording 
+exhibits some low-level line hum as well as minor crackling and popping with a periodicity 
+that indicates vinyl in the lineage. Spectral analysis shows some type of hiss reduction 
+was applied at some point in the lineage, but some hiss remains throughout the audio spectrum.
+
+- d1t01. Analysis shows 3 clipped digital samples in this track
+
+- d1t01. Interview voiceover with Bill Coss begins at 8:33.500 with music continuing 
+in background. Track ends in the background complete very close to 9:16.000 while 
+interview continues. 
+
+- "Tune Up" fades in at around 9:34, still in the background of the 
+voiceover interview, missing the first few bars.
+
+- This source is missing Foggy Day. Peter Losin has this listed at the end of the set. 
+
+-d1t02. The voiceover ends at about 0:08 and "Tune Up" is amplified back 
+into the foreground.
+
+- QC done by guygee
+
+md5
+dca965d4b76f90e04d350af7421685c4 *md1957-07-27.LL6.d1t01.flac
+0d81608d4915aac5952bec8834740d92 *md1957-07-27.LL6.d1t02.flac
+
+ffp
+md1957-07-27.LL6.d1t01.flac:63eb5eb25eb969fd99c0f388b1481b6a
+md1957-07-27.LL6.d1t02.flac:89c7af52f9ae942d322ebc58ce21c56e
+
+st5 
+63eb5eb25eb969fd99c0f388b1481b6a  [shntool]  md1957-07-27.LL6.d1t01.flac
+89c7af52f9ae942d322ebc58ce21c56e  [shntool]  md1957-07-27.LL6.d1t02.flac
+
+shntool
+    length     expanded size   cdr  WAVE problems filename
+    10:00.25      105898844    ---   --   ---xx   md1957-07-27.LL6.d1t01.flac
+     2:41.21       28449836    ---   --   ---xx   md1957-07-27.LL6.d1t02.flac
+    12:41.46      134348680 B                     (totals for 2 files, 0.5658 overall compression ratio)
+
+spectral analysis from TLH
+md1957-07-27.LL6.d1t01.wav:  track looks like CDDA with probability 100%
+md1957-07-27.LL6.d1t02.wav:  track looks like CDDA with probability 100%

@@ -1,0 +1,29 @@
+auCDtect: CD records authenticity detector, version 0.8.2
+Copyright (c) 2004 Oleg Berngardt. All rights reserved.
+Copyright (c) 2004 Alexander Djourik. All rights reserved.
+
+Detect mode (0..40 with 0 = most accurate):  8 (default)
+
+
+01. Intro.wav:  track looks like CDDA with probability 100%.
+02. Be Agrressive.wav:  track looks like MPEG with probability 99%.
+03. Midlife Crisis.wav:  track looks like MPEG with probability 95%.
+04. Ashes To Ashes.wav:  track looks like MPEG with probability 85%.
+05. Naked In Front Of The Computer.wav:  track looks like MPEG with probability 95%.
+06. We Care A Lot.wav:  track looks like MPEG with probability 95%.
+07. The Gentle Art Of Making Enemies.wav:  track looks like MPEG with probability 95%.
+08. Easy.wav:  track looks like MPEG with probability 95%.
+09. Evidence.wav:  track looks like MPEG with probability 95%.
+10. Home Sick Home.wav:  track looks like MPEG with probability 73%.
+11. Land Of Sunshine.wav:  track looks like MPEG with probability 95%.
+12. Introduce Yourself.wav:  track looks like MPEG with probability 98%.
+13. Last Cup Of Sorrow.wav:  track looks like MPEG with probability 95%.
+14. King For A Day.wav:  track looks like MPEG with probability 95%.
+15. Epic.wav:  track looks like MPEG with probability 95%.
+16. Just A Man.wav:  track looks like MPEG with probability 95%.
+17. Collision.wav:  track looks like MPEG with probability 95%.
+18. Digging The Grave.wav:  track looks like MPEG with probability 95%.
+
+No errors occured.
+
+Test for MPEG log saved to file.

@@ -1,0 +1,25 @@
+Beck
+Friday 10th June 2005
+Later with Jools Holland
+BBC2 Show 5
+
+Source: joefish mpeg (48 khz 256 kbps audio) > Aurora Media Workshop (Audio Rip) > Sony Soundforge 7.0a >
+        > FLAC Frontend 1.7.1
+
+01) E-Pro
+02) Interview
+03) Clap Hands *
+04) Black Tambourine
+
+* Beck on acoustic guitar while his bandmates "play the table."
+
+Orig Info:
+
+joefish post to alt.binaries.mpeg.video.music
+No info file was included, but another excellent quality UK DVB capture by joefish.
+
+
+Ripped and Seeded by:
+
+breathmint (breathmint@hotmail.com)
+becktabs hub (dc://becktabs.homeunix.org)

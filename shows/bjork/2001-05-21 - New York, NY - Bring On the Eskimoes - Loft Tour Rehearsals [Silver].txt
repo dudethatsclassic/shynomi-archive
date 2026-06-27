@@ -1,0 +1,55 @@
+Bjork
+Bring On The Eskimoes - Loft Tour Rehearsals, NYC, May 2001
+2001-05-21
+[Venue Unknown]
+New York, USA
+
+Ripped from bootleg falsely labeled as an elektra release (Elektra Records 201134546)
+EAC > wav > Flac Frontend (setting on 7) > flac
+flac files by goudwater 2004-10-25
+
+01. Pagan Poetry
+02. Unison
+03. All Is Full Of Love
+04. Unravel
+05. Aurora
+06. Generous Palmstroke
+07. It's Not Up To You
+08. Hidden Place (at Top Of The Pops, broadcasted 2001-08-18)
+09. Pagan Poetry (at Late Night Show with David Letterman 2001-09-04)
+10. Knifin Around ("Space Ghost" Theme)
+11. Avignon (demo)
+12. Hidden Place (Hearts & Bones Mix)*
+13. An Echo, A Stain (Crave Mix)*
+14. Undo (Odd Duck Mix)*
+15. Generous Palmstroke*
+16. Verandi*
+17. Mother Heroic*
+18. Foot Soldier*
+19. I've Seen It All (at MTV Live, broadcasted february 2001)
+
+Tracks followed by an * are not included for being official:
+Tracks 12, 13 & 14 are still available at: http://unit.bjork.com/specials/albums/vespertine/
+or at least easy to find elsewhere
+Tracks 15, 16, 17 & 18 are available on the Hidden Place Audio Singles (see
+http://unit.bjork.com/77island/77island/hiddenplace.htm#Hidden Place UK CD1 for details)
+
+for more information about the Loft Tour Rehearsals (track 1-8) see
+http://www.bjork.com/grapewire/?id=103;year=2001#news
+
+for more information about the appearance at the Letterman Show (track 9) see
+http://www.bjork.com/facts/gigography/details/01-09-04/index.htm
+
+Flac Fingerprint
+bjork2001-09-04t09.flac:b8c46f1992eeda7afa89b8ddb287a3b4
+bjork2001-00-00t10.flac:e38e183ab6bee60f357446985d0d1e86
+bjork2001-00-00t11.flac:558c1f68710eca19c48c84e2ecc85d1e
+bjork2001-02-00t19.flac:1349fb27df724a259cfd48acbd90a698
+bjork2001-05-21t01.flac:32f169c1670ea0922ae73878d9b8fb31
+bjork2001-05-21t02.flac:7235a729e302e17d8a3249fe8f9c5f14
+bjork2001-05-21t03.flac:a8d78ac27e240e907bc2464a0f44b6ce
+bjork2001-05-21t04.flac:1baea7eed80d18af8d653e0cc229bc68
+bjork2001-05-21t05.flac:575e85c9691824c2fa21a8e7b497872f
+bjork2001-05-21t06.flac:15e19dcfe15fffc6d990b5c3e5dd5f72
+bjork2001-05-21t07.flac:91cc02ca45ed4e21974ff03ad2a693b9
+bjork2001-08-18t08.flac:7cbc898bc29d161daf3f8554de953f73

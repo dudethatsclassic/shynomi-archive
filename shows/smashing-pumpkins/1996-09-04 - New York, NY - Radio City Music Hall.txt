@@ -1,0 +1,18 @@
+Smashing Pumpkins
+September 4th, 1996
+Radio City Music Hall [MTV Video Music Awards]
+New York, NY, US
+
+tracks 1 & 2: "Brixton" silver cd > EAC > WAV > FLAC
+
+track 3: VHS (mono) > Panasonic NV-SJ220 > Dazzle DVC100 > Instant DVD Creator > VOB (LPCM)
+	> DVD2AVI [demux] > r8brain (downsample) > TLH (flac level 8)
+	[transferred by Gazebofrost]
+
+01. pre-show interview - 10:09
+02. Tonight, Tonight (with orchestra)  - 4:27
+03. best video award acceptance speech - 1:46
+
+TRT: 16:21
+
+the interview is truly excellent and covers Jimmy's drug addiction and overdose in surprisingly candid fashion

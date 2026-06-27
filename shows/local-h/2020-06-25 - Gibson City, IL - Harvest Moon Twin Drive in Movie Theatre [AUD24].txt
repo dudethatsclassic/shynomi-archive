@@ -1,0 +1,85 @@
+Local H
+June 25th, 2020.
+Harvest Moon Twin Drive In Movie Theatre - 
+Gibson City, IL.
+
+Taper:      Charles Dewey Cole, IV <live2cd@hotmail.com>
+Location:   30ft back; directly in front of left stack on 8ft. stand.
+Source 1:   CA-14 Omni > CA-9200 > Sony PCM-M10 (24 bit @48kHz)  
+Source 2:   FM > Sony ZS-RS60BT > Sony PCM-A10 (24 bit @48kHz) >  
+            Adobe Audition 3.0 (matrix, mixed and dithered) > 
+            (16 bit @44.1kHz) > Cd Wave > FLAC
+Conversion: Charles Dewey Cole, IV <live2cd@hotmail.com>
+Equipment:  SanDisk 32GB MicroSD Card > (USB) @ 48kHz > 44.1kHz > Cd Wave
+
+*** "Bound For The Drive In!" *** Night 1 ***
+---------------------------------------------------------------------------------------------------------
+Total Time: (2:44:19)
+
+01. The Last Picture Show In Zion		7:46
+02. Patrick Bateman				2:50
+03. Nothing Special				3:57
+04. High Wide And Stupid			3:51
+05. Turn The Bow				4:25
+06. High-Fiving MF 				7:41
+07. Hold That Thought				3:16
+08. Everyone Alive				3:43
+09. The One With 'Kid'				5:21
+10. Mellowed					4:30
+11. Heaven On The Way Down >			2:04
+12. Eddie Vedder				6:52
+13. Sunday Best	^				6:30
+14. Summer Movies ^				4:45
+15. Fine And Good ^				5:44
+16. All The Kids Are Right ^			4:21
+17. Waves Again	^ @				5:10
+18. When Doves Cry *				3:51
+19. City Of Knives				2:57
+20. Demon Dreams				3:58
+21. Farrah					4:08
+22. California Songs				4:16
+23. Hands On The Bible				6:43
+24. Buffalo Trace				11:31
+25. ~ Encore ~					2:08
+26. Touch Me I'm Sick +				2:20
+27. Smothered In Hugs #				6:48
+28. Bound For The Floor				8:49
+29. Fritz's Corner				3:59
+30. Defy And Surrender				11:23
+31. Innocents					8:44
+
+----------------------------------------------------------------------------------------------------------
+Notes:
+
+^ = denotes acoustic set.
+@ = denotes Scott solo.
+* = Originally Recorded By Prince & The Revolution.
++ = Originally Recorded By Mudhoney.
+# = Originally Recorded By Guided By Voices.
+
+Since COVID19 hit, Local H have been off the road and streaming as much content
+online as possible. They released a brand new record in April ("LIFERS") and have
+yet to play an actual show in front of fans to promote it. The idea of playing a
+"drive in" concert was brought up and they went with it. The show sold out so
+fast they added a 2nd night and that sold out as well! Everyone had their own
+space with their vehicle to sit (or stand) and social distancing was in place
+throughout the entire venue. Everyone wore masks to the consessions, merch or
+bathrooms. It went incredibly well! The band projected their own film clips
+on the giant screen above and ran a seperate feed of a stage shot to screen #2
+on the other side of the lot. The band took the stage at 9pm sharp. There were
+no openers. This was a 30 song set that lasted nearly 3 hours.
+
+On the recording, I ran 2 separate rigs simultaneously capturing the audience
+as well as the FM feed. While they both sounded "decent" separately, together
+they sounded fantastic. It was a bit of work to matrix both together, but
+in the end, it was the right thing to do. I did lower the audience a bit
+during the acoustic portion to phase out some nearby talkers. This was at its
+worst during "Sunday Best" (one of the highlights of the show). Now, you can
+barely tell. Please enjoy and share with as many fans as you can.
+
+Live music will return and will persevere. This is just the beginning.
+
+---------------------------------------------------------------------------------------------------------
+For more information on Local H, please visit:
+
+http://www.LocalH.com/

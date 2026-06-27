@@ -1,0 +1,112 @@
+Miles Davis With René Urtreger Quartet
+December 8, 1957
+Concertgebouw, Amsterdam 
+
+
+Source: VARA radio broadcast 
+Lineage: VARA radio broadcast > ? > wave > ? > flac
+ 
+Miles Davis (tpt); Barney Wilen (ts); René Urtreger (p); Pierre Michelot (b); Kenny Clarke (d) 
+
+ 
+First set 
+ 
+d1t01. Woody 'n' You 
+d1t02. Bags' Groove 
+d1t03. What's New? 
+d1t04. But Not for Me 
+d1t05. A Night in Tunisia 
+d1t06. Four -> The Theme
+  
+Second set 
+ 
+d1t07. Walkin' 
+d1t08. Well, You Needn't 
+d1t09. 'Round Midnight 
+d1t10. Lady Bird -> The Theme
+ 
+
+-------------------------------------------------------------------------------------------------
+Notes
+- Sound quality is decent. There are an assortment of very small 
+digipops/fm static throughout the show and some minor ambient noise. Most is very Minor. 
+
+
+- d1T4 Slight dropout at :14. There is a repeating clicking noise starting at :58 that cycles 
+ every two seconds up to 1:12. Digipops/static rather prominent throughout this track.
+
+- d1t5 Around the :30 mark, there is some distortion. At :57 there are some anomalies with the
+ channels that pass within a few seconds. At 3:15 to 3:18 there are some level issues and 
+ drop outs.5:43 to 5:47 has drop outs 
+
+- d1t7 Slight fluctuations in levels in the first 20 seconds. 
+
+- This is the complete broadcast known to circulate.
+
+md5
+1ef550ef3756072816a3cda43ec199da *md1957-12-08.LL7.d1t01.flac
+a36253608f2aa0a256e61dd8441bfcf8 *md1957-12-08.LL7.d1t02.flac
+c5986af1cde2584342badfcfd9669def *md1957-12-08.LL7.d1t03.flac
+8283e30ad389093f18f0d32c4b0e7b9e *md1957-12-08.LL7.d1t04.flac
+b5bc78d2e84f360506e8577b694ec8f6 *md1957-12-08.LL7.d1t05.flac
+297283aeba38b53e6f2fe84f0d86fced *md1957-12-08.LL7.d1t06.flac
+d2b41c82d2f06f26636ec9c57c10cd57 *md1957-12-08.LL7.d1t07.flac
+fde7ba3a65f53af30532734664d9a90b *md1957-12-08.LL7.d1t08.flac
+047b725a16dd24e16fb719c666d56e7b *md1957-12-08.LL7.d1t09.flac
+ac99a164ff5b02073bbc131a23323034 *md1957-12-08.LL7.d1t10.flac
+
+ffp
+md1957-12-08.LL7.d1t01.flac:befa713dc042cc606cbc80efbb8b4c18
+md1957-12-08.LL7.d1t02.flac:728c5d1f4eaf47fb9c365293812818c3
+md1957-12-08.LL7.d1t03.flac:8b295ed2c22401f21a31b59aca805c51
+md1957-12-08.LL7.d1t04.flac:9fce24045700c36d3d0916f6468baf83
+md1957-12-08.LL7.d1t05.flac:59f0035869aea08e07feac106e058fb2
+md1957-12-08.LL7.d1t06.flac:1d059e788ecb3162a4e420bd72c2f323
+md1957-12-08.LL7.d1t07.flac:f1b9088e2c6d00fbe16511ea901947cd
+md1957-12-08.LL7.d1t08.flac:f807e0261005303b9b49f75a99b4e349
+md1957-12-08.LL7.d1t09.flac:5e9f3a9023f59aef1ee9f7113778a27a
+md1957-12-08.LL7.d1t10.flac:8874bdd105cfcbcd416f1f5392897839
+
+st5
+befa713dc042cc606cbc80efbb8b4c18  [shntool]  md1957-12-08.LL7.d1t01.flac
+728c5d1f4eaf47fb9c365293812818c3  [shntool]  md1957-12-08.LL7.d1t02.flac
+8b295ed2c22401f21a31b59aca805c51  [shntool]  md1957-12-08.LL7.d1t03.flac
+9fce24045700c36d3d0916f6468baf83  [shntool]  md1957-12-08.LL7.d1t04.flac
+59f0035869aea08e07feac106e058fb2  [shntool]  md1957-12-08.LL7.d1t05.flac
+1d059e788ecb3162a4e420bd72c2f323  [shntool]  md1957-12-08.LL7.d1t06.flac
+f1b9088e2c6d00fbe16511ea901947cd  [shntool]  md1957-12-08.LL7.d1t07.flac
+f807e0261005303b9b49f75a99b4e349  [shntool]  md1957-12-08.LL7.d1t08.flac
+5e9f3a9023f59aef1ee9f7113778a27a  [shntool]  md1957-12-08.LL7.d1t09.flac
+8874bdd105cfcbcd416f1f5392897839  [shntool]  md1957-12-08.LL7.d1t10.flac
+
+shntool
+length     expanded size   cdr  WAVE problems filename
+     4:58.35       52649564    ---   --   ---xx   md1957-12-08.LL7.d1t01.flac
+     6:56.68       73542380    ---   --   ---xx   md1957-12-08.LL7.d1t02.flac
+     3:34.55       37879004    ---   --   ---xx   md1957-12-08.LL7.d1t03.flac
+     6:44.42       71364428    ---   --   ---xx   md1957-12-08.LL7.d1t04.flac
+     7:05.09       74991212    ---   --   ---xx   md1957-12-08.LL7.d1t05.flac
+     4:29.20       47498684    ---   --   ---xx   md1957-12-08.LL7.d1t06.flac
+     6:25.65       68066924    ---   --   ---xx   md1957-12-08.LL7.d1t07.flac
+     5:20.60       56589164    ---   --   ---xx   md1957-12-08.LL7.d1t08.flac
+     5:30.27       58275548    ---   --   ---xx   md1957-12-08.LL7.d1t09.flac
+     5:22.00       56800844    ---   --   ---xx   md1957-12-08.LL7.d1t10.flac
+    56:28.06      597657752 B                     (totals for 10 files, 0.4973 overall compression ratio)
+
+There were no sector boundary errors.
+
+analysis from TLH
+md1957-12-08.LL7.d1t01.wav:  track looks like CDDA with probability 100%
+md1957-12-08.LL7.d1t02.wav:  track looks like CDDA with probability 100%
+md1957-12-08.LL7.d1t03.wav:  track looks like CDDA with probability 99%
+md1957-12-08.LL7.d1t04.wav:  track looks like CDDA with probability 100%
+md1957-12-08.LL7.d1t05.wav:  track looks like CDDA with probability 100%
+md1957-12-08.LL7.d1t06.wav:  track looks like CDDA with probability 100%
+md1957-12-08.LL7.d1t07.wav:  track looks like CDDA with probability 100%
+md1957-12-08.LL7.d1t08.wav:  track looks like CDDA with probability 100%
+md1957-12-08.LL7.d1t09.wav:  track looks like CDDA with probability 100%
+md1957-12-08.LL7.d1t10.wav:  track looks like CDDA with probability 99%
+
+
+ 
+

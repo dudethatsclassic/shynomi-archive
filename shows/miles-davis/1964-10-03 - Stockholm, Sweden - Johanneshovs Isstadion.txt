@@ -1,0 +1,83 @@
+Miles Davis Quintet
+11-03-1964
+Johanneshovs Isstadion
+Stockholm, Sweden
+
+Project ID - LL130
+
+Source: FM Broadcast
+Lineage: Sveriges Radio broadcast > ?? > DAT > HDD via coax and Midiman Dio 2448 digital 
+soundcard > Resampled to 44.1 kHz at highest accuracy with anti-alias filter and digital 
+splicing with SoundForge 6.0 > Tracks split and saved with CD Wave > FLAC Frontend 
+(level 8, aligned on sector boundaries)
+
+Miles Davis (tpt); Wayne Shorter (ts); Herbie Hancock (p); Ron Carter (b); 
+Tony Williams (d)
+
+disc 1
+
+d1t01. Autumn Leaves
+d1t02. So What
+d1t03. Stella by Starlight/ 
+d1t04. Joshua
+d1t05. The Theme/
+ 
+-------------------------------------------------------
+
+Notes:
+
+- d1t01: the beginning appluase is cut out.Static burst at :09, :11, :28, 1:01, 
+1:06 through 1:30, 2:20.
+
+- d1t02:  Drop out at 10:23. The last few bars are cut at the end.
+
+- d1t03: track starts with the first few bars missing. There is some light static 
+present at the beginning of the track.Staic bursts from 9:50 through 9:59
+
+- d1t04: digipop at 3:49. There is a drop out at 5:19. Slight drop out at 7:13
+
+- d1t05: this is cut mid song, music lost.
+
+- This source is missing the hiss that was present in LL129, but the sound seems unbalanced
+with most of the volume going to the left channel.The bass is still distorted and this 
+version actually seems a bit muddier and distant to me than LL129. This source  
+runs almost a whole step lower in pitch from LL129 and a half step lower than LL128. 
+ 
+- QC done by Bgreen
+
+md5
+8f3c071a855c1b820b3d8e88b3922989 *md1964-10-03.LL130.d1t01.flac
+719711185c379a8b612221e1a1ddd3fc *md1964-10-03.LL130.d1t02.flac
+07584326c3ae9af3cbf28e99038fbf5e *md1964-10-03.LL130.d1t03.flac
+2dc7d80b57a1d8100789c90b45e15d15 *md1964-10-03.LL130.d1t04.flac
+0ff518684f4e087382ef0500c88ab548 *md1964-10-03.LL130.d1t05.flac
+
+ffp
+md1964-10-03.LL130.d1t01.flac:ece7f9e09aa48ea19e6bdd973be95a3c
+md1964-10-03.LL130.d1t02.flac:1f2927afd38c965ccfa7840e228ed2ae
+md1964-10-03.LL130.d1t03.flac:f547f2bc94a2a39ac6d8c036e9c0830c
+md1964-10-03.LL130.d1t04.flac:e77c41a20480cdd3ff1d7655dd12f85f
+md1964-10-03.LL130.d1t05.flac:70eda9dff5798eaeab8622210761c7d1
+
+shntool
+    length     expanded size   cdr  WAVE problems filename
+    12:35.43      133283180    ---   --   ---xx   md1964-10-03.LL130.d1t01.flac
+    12:14.50      129595244    ---   --   ---xx   md1964-10-03.LL130.d1t02.flac
+    10:35.20      112061084    ---   --   ---xx   md1964-10-03.LL130.d1t03.flac
+    10:51.68      114996380    ---   --   ---xx   md1964-10-03.LL130.d1t04.flac
+     0:07.40        1328924    ---   --   ---xx   md1964-10-03.LL130.d1t05.flac
+    46:24.71      491264812 B                     (totals for 5 files, 0.4898 overall compression ratio)
+
+spectral analysis from TLH
+md1964-10-03.LL130.d1t01.wav:  track looks like CDDA with probability 100%
+md1964-10-03.LL130.d1t02.wav:  track looks like CDDA with probability 100%
+md1964-10-03.LL130.d1t03.wav:  track looks like CDDA with probability 99%
+md1964-10-03.LL130.d1t04.wav:  track looks like CDDA with probability 99%
+md1964-10-03.LL130.d1t05.wav:  track looks like CDDA with probability 99%
+
+old md5 
+8f3c071a855c1b820b3d8e88b3922989 *miles_1964-10-03t01.flac
+719711185c379a8b612221e1a1ddd3fc *miles_1964-10-03t02.flac
+07584326c3ae9af3cbf28e99038fbf5e *miles_1964-10-03t03.flac
+2dc7d80b57a1d8100789c90b45e15d15 *miles_1964-10-03t04.flac
+0ff518684f4e087382ef0500c88ab548 *miles_1964-10-03t05.flac

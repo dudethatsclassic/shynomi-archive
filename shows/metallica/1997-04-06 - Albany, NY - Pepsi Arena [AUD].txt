@@ -1,0 +1,25 @@
+Metallica 1997-04-06 Pepsi Arena, Albany, NY01.flac:  successfully fixed/rewritten to 'Metallica 1997-04-06 Pepsi Arena, Albany, NY01-fixed.flac'.
+Metallica 1997-04-06 Pepsi Arena, Albany, NY02.flac:  successfully fixed/rewritten to 'Metallica 1997-04-06 Pepsi Arena, Albany, NY02-fixed.flac'.
+Metallica 1997-04-06 Pepsi Arena, Albany, NY03.flac:  successfully fixed/rewritten to 'Metallica 1997-04-06 Pepsi Arena, Albany, NY03-fixed.flac'.
+Metallica 1997-04-06 Pepsi Arena, Albany, NY04.flac:  successfully fixed/rewritten to 'Metallica 1997-04-06 Pepsi Arena, Albany, NY04-fixed.flac'.
+Metallica 1997-04-06 Pepsi Arena, Albany, NY05.flac:  successfully fixed/rewritten to 'Metallica 1997-04-06 Pepsi Arena, Albany, NY05-fixed.flac'.
+Metallica 1997-04-06 Pepsi Arena, Albany, NY06.flac:  successfully fixed/rewritten to 'Metallica 1997-04-06 Pepsi Arena, Albany, NY06-fixed.flac'.
+Metallica 1997-04-06 Pepsi Arena, Albany, NY07.flac:  successfully fixed/rewritten to 'Metallica 1997-04-06 Pepsi Arena, Albany, NY07-fixed.flac'.
+Metallica 1997-04-06 Pepsi Arena, Albany, NY08.flac:  successfully fixed/rewritten to 'Metallica 1997-04-06 Pepsi Arena, Albany, NY08-fixed.flac'.
+Metallica 1997-04-06 Pepsi Arena, Albany, NY09.flac:  successfully fixed/rewritten to 'Metallica 1997-04-06 Pepsi Arena, Albany, NY09-fixed.flac'.
+Metallica 1997-04-06 Pepsi Arena, Albany, NY10.flac:  successfully fixed/rewritten to 'Metallica 1997-04-06 Pepsi Arena, Albany, NY10-fixed.flac'.
+Metallica 1997-04-06 Pepsi Arena, Albany, NY11.flac:  successfully fixed/rewritten to 'Metallica 1997-04-06 Pepsi Arena, Albany, NY11-fixed.flac'.
+Metallica 1997-04-06 Pepsi Arena, Albany, NY12.flac:  successfully fixed/rewritten to 'Metallica 1997-04-06 Pepsi Arena, Albany, NY12-fixed.flac'.
+Metallica 1997-04-06 Pepsi Arena, Albany, NY13.flac:  successfully fixed/rewritten to 'Metallica 1997-04-06 Pepsi Arena, Albany, NY13-fixed.flac'.
+Metallica 1997-04-06 Pepsi Arena, Albany, NY14.flac:  successfully fixed/rewritten to 'Metallica 1997-04-06 Pepsi Arena, Albany, NY14-fixed.flac'.
+Metallica 1997-04-06 Pepsi Arena, Albany, NY15.flac:  successfully fixed/rewritten to 'Metallica 1997-04-06 Pepsi Arena, Albany, NY15-fixed.flac'.
+Metallica 1997-04-06 Pepsi Arena, Albany, NY16.flac:  successfully fixed/rewritten to 'Metallica 1997-04-06 Pepsi Arena, Albany, NY16-fixed.flac'.
+Metallica 1997-04-06 Pepsi Arena, Albany, NY17.flac:  successfully fixed/rewritten to 'Metallica 1997-04-06 Pepsi Arena, Albany, NY17-fixed.flac'.
+Metallica 1997-04-06 Pepsi Arena, Albany, NY18.flac:  successfully fixed/rewritten to 'Metallica 1997-04-06 Pepsi Arena, Albany, NY18-fixed.flac'.
+Metallica 1997-04-06 Pepsi Arena, Albany, NY19.flac:  successfully fixed/rewritten to 'Metallica 1997-04-06 Pepsi Arena, Albany, NY19-fixed.flac'.
+Metallica 1997-04-06 Pepsi Arena, Albany, NY20.flac:  successfully fixed/rewritten to 'Metallica 1997-04-06 Pepsi Arena, Albany, NY20-fixed.flac'.
+Metallica 1997-04-06 Pepsi Arena, Albany, NY21.flac:  successfully fixed/rewritten to 'Metallica 1997-04-06 Pepsi Arena, Albany, NY21-fixed.flac'.
+Metallica 1997-04-06 Pepsi Arena, Albany, NY22.flac:  successfully fixed/rewritten to 'Metallica 1997-04-06 Pepsi Arena, Albany, NY22-fixed.flac'.
+Metallica 1997-04-06 Pepsi Arena, Albany, NY23.flac:  successfully fixed/rewritten to 'Metallica 1997-04-06 Pepsi Arena, Albany, NY23-fixed.flac'.
+
+Padded last file with 1104 zero-bytes.

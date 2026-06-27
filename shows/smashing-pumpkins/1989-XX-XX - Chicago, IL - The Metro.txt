@@ -1,0 +1,34 @@
+THE SMASHING PUMPKINS
+Metro, Chicago, Illinois, US
+1989
+
+DISC #1/#1 (15:03)
+-----------------------
+01) The Crystal Ship
+02) Sun
+03) Spiteface
+
+SOURCE (AMT#x)
+-----------------------
+unknown > unknown
+
+GENERATION
+-----------------------
+VHS(1/2) > DVDR(0) [48kHz PCM] > WAV [48kHz] > WAV [44.1kHz] > FLAC [Level 8]
+
+EXTRACTION
+-----------------------
+MediaCoder 0.7.2 > Adobe Audition 3.0 > Trader's Little Helper 2.4.1
+
+NOTES
+-----------------------
+- Taken from the Psycho Tape upgrade.
+
+MD5 FINGERPRINTS
+-----------------------
+346fd12364be3f1a8ac91b77e90d2134 *tsp1989_d01_t01.flac
+e325b6a00aabba5d53488d0beedfa06d *tsp1989_d01_t02.flac
+092e632fa4f31c3c208666dad024f964 *tsp1989_d01_t03.flac
+
+Extracted by Martin Donohoe.
+Please do not encode to lossy formats and/or sell.

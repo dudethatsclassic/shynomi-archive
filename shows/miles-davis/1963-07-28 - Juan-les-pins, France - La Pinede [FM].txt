@@ -1,0 +1,46 @@
+Miles Davis Quintet
+07-28-1963
+La Pinède
+Juan-les-Pins, France
+
+Project ID - LL67
+
+Source: FM Broadcast
+Lineage: OTRF Radio Broadcast > ?? > Côte Blues bootleg  > eac (secure) > wave > flac
+
+Miles Davis (tpt); George Coleman (ts); Herbie Hancock (p); Ron Carter (b); 
+Tony Williams (d)
+
+disc 1
+
+d1t01. If I Were a Bell 
+d1t02. So What
+ 
+-------------------------------------------------------
+
+Notes:
+
+- A very nice, but all too short, recording. The sound is good, and the playing is tight. 
+
+- QC done by Bgreen
+
+md5
+ f7a6323445071fbd1c34c92d45602169 *md1963-07-28.LL67.d1t01.shn
+ e11af609cbf1bf05dcba3feec258f7c9 *md1963-07-28.LL67.d1t02.shn
+
+st5 
+ 1df8d951b4dc90380124ea080a3f7b4a  [shntool]  md1963-07-28.LL67.d1t01.shn
+ e00a578f0e50a3327f713bd857374267  [shntool]  md1963-07-28.LL67.d1t02.shn
+
+shntool
+ length     expanded size    cdr  WAVE problems  fmt   ratio  filename
+ 12:45.00      134946044 B   ---   --   ---xx    shn  0.5813  md1963-07-28.LL67.d1t01.shn
+ 12:37.72      133704188 B   ---   --   ---xx    shn  0.5425  md1963-07-28.LL67.d1t02.shn
+ 25:22.72      268650232 B                            0.5620  (2 files)
+
+old md5
+91273e827376c712dcb8bad44080bbe0 *miles63-07-26t3.shn
+f7a6323445071fbd1c34c92d45602169 *miles63-07-26t4.shn
+e11af609cbf1bf05dcba3feec258f7c9 *miles63-07-26t5.shn
+ae5a74ed7978dd5c270f25ae499e2c34 *miles63-07-26t1.shn
+b6f3912306a6d3eb180685ce8e53fb59 *miles63-07-26t2.shn

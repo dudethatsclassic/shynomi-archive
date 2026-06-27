@@ -1,0 +1,91 @@
+The Smashing Pumpkins
+2022-09-20
+Chicago, IL, US
+Metro
+
+
+
+TV SOURCED TRACKS:
+Source: Marquee Sports Network (https://www.marqueesportsnetwork.com/) > Unknown Transfer Method > metro pure show.mp4 Audio/Video
+
+Transfer: 
+mp4 File (AAC LC 2.0 128 kb/s, 48.0 kHz) > MKA via MKVToolNIX GUI v63.0.0 > FLAC Level 8 via Foobar2000 1.6.12 > Audacity 3.2.1 (splitting tracks, amplification as needed to match the Q101 tracks, adding Q101 Stream Content, 48 kHz to a 44.1 kHz resampling)
+
+Video Rip:
+Netphoria User: Ram27, comment: i will be taping this [to the best of my internet connection's ability]. hate that it's on TV TV instead of streaming somewhere
+
+https://forums.netphoria.org/showthread.php?t=189168&page=2
+https://forums.netphoria.org/showpost.php?p=4605312&postcount=38
+https://drive.google.com/file/d/1pj_G8YN-RtqMl1lau_qA78f9HlagxT3c/view?usp=sharing
+
+
+
+
+Q101 WEBSTREAM SOURCED TRACKS: 
+Q101 Webstream (https://www.q101.com/listen-live/) > Audacity 3.1.3 Windows WASAPI loopback recording > 16/44.1 WAV file
+Transfer: WAV > Audacity 3.1.3 (splitting tracks, cut out commercials, added 3 second fades in and out) > FLAC 1.4.1x64 Compression Level 8
+
+
+
+
+The following content was not shown on the Marquee sports broadcast. The files were matrixed from Q101 Stream:
+10 Once in a Lifetime [Talking Heads]
+14 Crowd
+16 Can't Find My Way Back Home [Blind Faith]
+17 banter - LSD comment (8 seconds)
+29 First 1:39 of crowd track before encore banter
+
+
+Setlist:
+
+01 Intro [Sarabande - George Frideric Handel, From Tape]
+02 Quiet
+03 Empires
+04 Drown
+05 Ugly
+06 Bullet With Butterfly Wings
+07 banter
+08 Today
+09 CYR
+10 Once in a Lifetime [Talking Heads] (stream)
+11 Solara
+12 Eye
+13 Ava Adore
+14 crowd (stream)
+15 banter - James
+16 Can’t Find My Way Home [Blind Faith] (stream)
+17 banter - Billy (partial stream)
+18 Tonight, Tonight (acoustic)
+19 Snail
+20 Starla
+21 Stand Inside Your Love
+22 1979
+23 Beguiled
+24 Silverfuck
+25 banter
+26 Cherub Rock
+27 "Love Gun" intro tease
+28 Zero
+29 crowd (partial stream)
+30 banter
+31 Rocket
+32 If There Is a God
+33 X.Y.U.
+
+
+Concert Airing:
+Marquee Sports Network, Sunday, October 9 at 9:30 PM CT.
+
+https://www.marqueesportsnetwork.com/smashing-pumpkins-concert-to-air-on-marquee/
+
+Longtime Cubs fan Billy Corgan and the Smashing Pumpkins are coming to Marquee Sports Network.
+
+Last month, the Smashing Pumpkins performed in front of a sold-out crowd at Metro in Wrigleyville, and the full live concert will air on television for the first time on Marquee Sports Network, Sunday, October 9 at 9:30 PM CT.
+
+The concert took place as part of Metro’s 40th anniversary celebration in partnership with Chicago alternative radio station, Q101.
+
+During the two-hour set, the band performs tracks from across its extensive catalog, while premiering new songs from its upcoming studio album, ATUM.
+
+On the Marquee: The Smashing Pumpkins Live presented by DSV will air on Sunday at 9:30 PM CT, only on Marquee Sports Network
+
+ABOUT ON THE MARQUEE: Marquee Sports Network’s music series, On the Marquee spotlights the biggest local bands and artists, as well as acts performing at iconic Wrigley Field. Past episodes of On The Marquee have featured Umphrey’s McGee, Chris Stapleton, Zac Brown Band and the Dead.

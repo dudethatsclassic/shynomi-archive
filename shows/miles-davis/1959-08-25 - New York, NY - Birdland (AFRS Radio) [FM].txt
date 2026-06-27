@@ -1,0 +1,81 @@
+Miles Davis Sextet
+08-25-1959
+Birdland
+New York, New York
+
+Project ID - LL23
+
+Source: FM Broadcast
+Lineage: AFRS radio broadcast > ?? > wave > ?? > flac
+
+Miles Davis (tpt); Julian "Cannonball" Adderley (as); John Coltrane (ts); 
+Wynton Kelly (p); Paul Chambers (b); Jimmy Cobb (d); Ray Barrett (ann)
+
+disc 1
+
+d1t01. The Theme
+d1t02. Announcement
+d1t03. So What
+d1t04. The Theme
+d1t05. Lullaby of Birdland
+ 
+-------------------------------------------------------
+
+Notes:
+
+- There is some minor pops and crackles that lead me to believe this is sourced from Vinyl.
+Very listenable.
+
+- Overall, a nice sounding recording. This recording was made from the date that Miles 
+was beaten and arrested by police outside of the club. This rsulted in Miles Suing the 
+city and a long legal battle through autumn.
+
+- QC done by Bgreen
+
+md5
+b228eafa2fb634b7a4a52f30b9313b86 *md1959-08-25.LL23.d01t01.flac
+9ff0c96432edf5c6f7ed5ca208834fd5 *md1959-08-25.LL23.d01t02.flac
+1d6c78aedd39751d94e42b1bd2e9ad5e *md1959-08-25.LL23.d01t03.flac
+e9a669dd15469774ac3214892a04bf73 *md1959-08-25.LL23.d01t04.flac
+9f77ab2074c55a318ac7409df17de925 *md1959-08-25.LL23.d01t05.flac
+
+ffp
+md1959-08-25.LL23.d01t01.flac:c2fa1369d281a681cefb3d6efd20e3de
+md1959-08-25.LL23.d01t02.flac:9594e79f167de6ac10270839be997bd7
+md1959-08-25.LL23.d01t03.flac:7a04ed0e9c6fdecc34ad2f1592491930
+md1959-08-25.LL23.d01t04.flac:b49e742d66c54bf38fea0fe3a7cb5dd6
+md1959-08-25.LL23.d01t05.flac:57857f83ad62ae9109e6b480fff86ed9
+
+st5 
+c2fa1369d281a681cefb3d6efd20e3de  [shntool]  md1959-08-25.LL23.d01t01.flac
+9594e79f167de6ac10270839be997bd7  [shntool]  md1959-08-25.LL23.d01t02.flac
+7a04ed0e9c6fdecc34ad2f1592491930  [shntool]  md1959-08-25.LL23.d01t03.flac
+b49e742d66c54bf38fea0fe3a7cb5dd6  [shntool]  md1959-08-25.LL23.d01t04.flac
+57857f83ad62ae9109e6b480fff86ed9  [shntool]  md1959-08-25.LL23.d01t05.flac
+
+shntool
+ length     expanded size   cdr  WAVE problems filename
+     0:48.00        8467244    ---   --   ---xx   md1959-08-25.LL23.d01t01.flac
+     0:53.32        9424508    ---   --   ---xx   md1959-08-25.LL23.d01t02.flac
+    13:04.64      138448172    ---   --   ---xx   md1959-08-25.LL23.d01t03.flac
+     8:15.44       87421532    ---   --   ---xx   md1959-08-25.LL23.d01t04.flac
+     1:24.03       14825436    -b-   --   ---xx   md1959-08-25.LL23.d01t05.flac
+    24:25.68      258586892 B                     (totals for 5 files, 0.5433 overall compression ratio)
+
+spectral analysis from TLH
+md1959-08-25.LL23.d01t01.wav:  track looks like CDDA with probability 100%
+md1959-08-25.LL23.d01t02.wav:  track looks like CDDA with probability 100%
+md1959-08-25.LL23.d01t03.wav:  track looks like CDDA with probability 100%
+md1959-08-25.LL23.d01t04.wav:  track looks like CDDA with probability 100%
+md1959-08-25.LL23.d01t05.wav:  track looks like CDDA with probability 99%
+
+old md5 or ffp
+381f7e1e972dce6c6bc3b940bf63cce1 *1.flac
+395cdfe5322ea41f8fe8af87b2d34656 *1959-08-25.txt
+e24ac6c3dcea3738a9ac5598f83bae95 *2.flac
+78bdcedab26701739b280e633c83bdbb *3.flac
+9d89ce2311281e4bacf24e3eeb3ba139 *4.flac
+f21d0fc871d47ec80f4458f6b370bee2 *5.flac
+
+
+

@@ -1,0 +1,70 @@
+The Shins
+Canes Ballroom
+Mission Beach, CA
+February 08, 2004
+
+Taper: Tyler Huff (thuff@ucsd.edu)
+Source: AT831 > SP-SPSC-1 batt. box (w/ bass rolloff set @ 107 Hz) > (line-in) Sharp MD-MT15 
+
+Transfer: Sony MDS-JE510 (optical OUT) > M-Audio DiO 2448 (optical IN) > Sound Forge 6.0 > WAV > mkw 0.97 > SHN (no DAE, seek tables appended)
+
+Tracklist:
+
+Disk 1
+========
+01 - Intro [00:49.14]
+02 - Pressed In a book [06:04.69]
+03 - Kissing the lipless [04:20.00]
+04 - Girl Inform me [03:21.68]
+05 - Mine's not a High Horse [03:57.00]
+06 - When I Goose Step [02:29.49]
+07 - One by One all day [05:26.48]
+08 - random synth beats [01:40.16]
+09 - Pink Bullets [04:15.65]
+10 - Turn a square [04:43.57]
+11 - Girl on the wing [03:02.56]
+12 - Eating Styes from Elephants Eyes [03:02.38]
+13 - New Slang [04:24.45]
+14 - Gone for Good [03:20.07]
+15 - Young Pilgrims [04:03.17]
+16 - Know your onion! [03:31.70]
+17 - saint simon [04:39.29]
+18 - So Says I [02:52.65
+-------
+19 - E: Your algebra [03:12.67] >
+20 - E: The Celibate Life [02:16.57]
+21 - E: Those Bold City Girls  [01:56.02]
+22 - E: Caring is Crepy [03:21.20]
+
+Notes:
+
+Since I didn't know the titles of all the songs, please e-mail me the song titles when you 
+hear this show. my e-mail is: thuff@ucsd.edu.
+
+Because what i'm putting out there to the world isn't the most up-to-date setlist, I'll be
+updating this .txt file as people write to me with song titles. 
+The most current version of this .txt file is located at:
+
+http://www.huffphotography.com/shins2004-02-08.txt
+
+I'm also trying to find the shins mgt. e-mail contact or Sub Pop's e-mail contact. If you have this 
+info, please pass it onto me so I can contact them to get a copy of the show to the band.
+
+Visit The Shins official site:
+
+http://www.darkcoupon.com/
+
+-----
+Support local music and local musicians
+Never pay for "bootlegs" or live recordings
+This show should be traded for free from fan to fan
+
+let me know if you have setlist information or corrections
+
+MP3 versions of these files are allowed to be made for personal use only. 
+If you make .mp3 versions of these, please do not trade them. For highest quality, use LAME to convert to mp3.
+I would recommend the ALF LAME front-end. get it free here: http://www.sulaco.com/mp3
+A loss-less master .shn version of this show can always be had by e-mailing me: thuff@ucsd.edu
+
+Conversion and Compilation done by: thuff@ucsd.edu (02/15/04)
+Edits / track cuts with Soundforge 6.0 and CD Wave 1.71

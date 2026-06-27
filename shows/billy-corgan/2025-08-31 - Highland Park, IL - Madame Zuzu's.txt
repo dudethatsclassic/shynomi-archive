@@ -1,0 +1,63 @@
+Billy Corgan
+August 31st 2025 (late show)
+Madame Zuzu's
+Highland Park, IL, US
+
+SOURCE (AUD#1)
+Internal Mics > iPhone 15 Pro Max
+
+TRANSFER:
+iPhone 15 Pro Max (M4A) > Adobe Audition > WAV > CD Wave Editor > Trader's Little Helper 2.8.4
+
+GENERATION:
+M4A(M) > WAV > FLAC
+
+LENGTH:
+95:58
+
+SETLIST:
+01. Intro
+02. (Billy talking)
+03. The Sacred and Profane (abandoned)
+04. The Sacred and Profane
+05. Stand Inside Your Love
+06. Wound (performed by Sierra Sikora)
+07. With Every Light (performed by Sierra Sikora and Billy Corgan)
+08. The Crying Tree of Mercury (performed by Linda Strawberry)
+09. Speed Kills (performed by Linda Strawberry and Billy Corgan)
+10. Real Love (performed by Kid Tigrrr (Jenna Fournier))
+11. Age of Innocence (performed by Kid Tigrrr (Jenna Fournier))
+12. In My Body (performed by Sierra Swan)
+13. Blue Skies Bring Tears (performed by Sierra Swan and Linda Strawberry)
+14. Here's to the Atom Bomb (performed by Billy Corgan and Kid Tigrrr (Jenna Fournier))
+15. Glass and the Ghost Children (performed by Billy Corgan and Kid Tigrrr (Jenna Fournier))
+16. Outro
+
+NOTES:
+Shattering Glass Machina 25th anniversary show with Billy Corgan and guests
+
+*******************
+The SPLRA team have converted the M4A to a WAV file to indicate there is no upgrade to the original master which was recorded in M4A format
+*******************
+
+MD5 FINGERPRINTS:
+79a1be7dd1e98824f198a2e139392e15 *Billy Corgan 2025-08-31b AUD1 t01 Intro.flac
+b922d83130c2e0cb354636d7096a5c7a *Billy Corgan 2025-08-31b AUD1 t02 (Billy talking).flac
+af977a1e51480e112786971741bc25df *Billy Corgan 2025-08-31b AUD1 t03 The Sacred and Profane (abandoned).flac
+2e245a267cedeef6d0c9110ccb08797c *Billy Corgan 2025-08-31b AUD1 t04 The Sacred and Profane.flac
+207b8551ff83eb12f22c2b41fae553c8 *Billy Corgan 2025-08-31b AUD1 t05 Stand Inside Your Love.flac
+4bd82a442f1051701cdcfb11ca17fcec *Billy Corgan 2025-08-31b AUD1 t06 Wound.flac
+0a955629f9d43541583956d2d593800c *Billy Corgan 2025-08-31b AUD1 t07 With Every Light.flac
+b9bcaa3e36254a3e9ab9568dc3dfaa00 *Billy Corgan 2025-08-31b AUD1 t08 The Crying Tree of Mercury.flac
+52b8077f7ea1507a893fce714e6dcbb4 *Billy Corgan 2025-08-31b AUD1 t09 Speed Kills.flac
+23afdbbd04be095ffda25300d4ca2ae9 *Billy Corgan 2025-08-31b AUD1 t10 Real Love.flac
+a3605964771f1da1b496a8d1250c2609 *Billy Corgan 2025-08-31b AUD1 t11 Age of Innocence.flac
+4988ae8c4c7c2298a586789a2aa3c4fc *Billy Corgan 2025-08-31b AUD1 t12 In My Body.flac
+d3e21aabbe1a68c7af414475c5802293 *Billy Corgan 2025-08-31b AUD1 t13 Blue Skies Bring Tears.flac
+a6d6e22bb192a445e0918ddafe69caf2 *Billy Corgan 2025-08-31b AUD1 t14 Here's to the Atom Bomb.flac
+e27c7bf5ab0a5ba176b846813915f4ab *Billy Corgan 2025-08-31b AUD1 t15 Glass and the Ghost Children.flac
+564b83c66ffeb26b8bf496b46348b954 *Billy Corgan 2025-08-31b AUD1 t16 Outro.flac
+
+DISTRIBUTION:
+Spaldz, Nicholas Serra & Members of SPLRA
+2025-09-09

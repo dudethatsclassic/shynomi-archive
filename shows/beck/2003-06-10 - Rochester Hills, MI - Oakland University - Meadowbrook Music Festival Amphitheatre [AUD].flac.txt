@@ -1,0 +1,56 @@
+Beck June 10 2003
+Meadowbrook Music Festival Ampitheater
+Oakland University campus
+Rochester Hills, Michigan (USA)
+
+Disc 1:
+
+1. Intro
+2. Loser 
+3. Novacane 
+4. Mixed Bizness 
+5. Lord Only Knows 
+6. The New Pollution 
+7. Get Real Paid 
+8. Nicotine & Gravy 
+9. Lazy Flies 
+10. Guess I'm Doing Fine 
+11. Do You Realize?? (Written by The Flaming Lips)
+12. Lost Cause 
+13. Lonesome Tears 
+14. Cold Brains 
+15. Paper Tiger 
+16. Hotwax 
+17. Sissyneck 
+18. Milk & Honey 
+19. Where It's At / Hot In Herre (Written by Nelly)
+
+
+Disc 2:
+
+1. The Golden Age (Encore # 1)
+2. It's All in Your Mind (Encore # 1)
+3. Sunday Sun (Encore # 2)
+4. Devils Haircut (Encore # 3)
+
+
+Source: Sony Minidisc Recorder (MDR-37) "Mono" (16 bit / 44.1 digital audio "ATRAC Compression")
+w/ battery box (set at 45%) & bass roll off (not used) and binaural microphones (line-in) >
+Sound Blaster Audigy 2 Platinum Ex (external) soundcard (line-out of MD to line-in on SNDCRD)
+Sonic Foundary's Sound Froge 4.5e (.Wav creation and Normalization of) > CD-R > Exact Audio Copy > MKW's Audio Compression Tool (SHN file).
+
+
+
+Notes (Original):
+
+There are pops on certains songs.  Perhaps 3 songs or so, with one pop.  I beleive this is due to using an old mindisc and not due to microphones or transfer problems.
+
+Notes (Additional):
+
+The original folder had Golden Leftovers attached to end. Removed these and used (presumably extracted from original .shn) .wav files to create the .flac files. The fingerprint file uses these new .flac files.
+
+
+
+Recorded (and originally seeded??) by Ryan Mulberger (recruitingcommunists@hotmail.com)
+
+reencoded and seeded by breathmint

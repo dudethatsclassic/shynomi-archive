@@ -1,0 +1,93 @@
+Pavement
+Brooklyn Steel
+Brooklyn, NY
+September 13, 2023
+
+** 24 BIT **
+
+Source:  CA-11 cardioids > CA Battery Box > Sony PCM-M10 @ 24 bit/48 kHz
+Mastering:  .WAV > iZotope RX10 Advanced v10.0.0.1705 (De-click) > Sound Forge Pro 14.0 Build 140 [minor edits, normalize, & fades, Boz Digital Labs T-Bone2 plug-in (tilt EQ)] > 
+CDWav (tracking) > Trader's Little Helper (level 5) > FLAC > TagScanner 6.1.16 (tagging)
+Recorded by: ManOfStealth
+Mastered by: Dennis Orr
+
+Setlist: (1:51:46)
+01 Intro Music/Crowd/Intro
+02 Grounded
+03 Spit On A Stranger
+04 Shady Lane
+05 Chat
+06 The Hexx
+07 Elevate Me Later
+08 Harness Your Hopes
+09 Chat
+10 Unfair
+11 My First Mine
+12 Two States
+13 Summer Babe
+14 Fame Throwa
+15 Gold Soundz
+16 Chat & Tuning
+17 Stereo
+18 Kennel District
+19 Type Slowly
+20 Home
+21 We Dance
+22 Blue Hawaiian
+23 Serpentine Pad
+24 Motion Suggests
+25 Chat
+26 Embassy Row
+27 Stop Breathin
+28 Encore Break
+- Encore -
+29 Chat
+30 Loretta's Scars
+31 Chat & Tuning (with Cut Your Hair tease)
+32 Cut Your Hair
+33 Chat & Tuning
+34 Range Life
+35 Outro/Crowd
+
+Stephen Malkmus – vocals & guitar 
+Scott Kannberg – vocals & guitar
+Mark Ibold – bass & backing vocals
+Bob Nastanovich – percussion, synthesizers, & backing vocals
+Steve West – drums & percussion
+Rebecca Cole – keyboards, percussion, & backing vocals
+
+Pavement2023-09-13t01.flac:e80640d7c9e8b789aaac626a44f43e05
+Pavement2023-09-13t02.flac:e9ccc3e7e58866a1565418a75952ba7c
+Pavement2023-09-13t03.flac:21272452beb49592fb89258ffbe1ebed
+Pavement2023-09-13t04.flac:07b23c3a5580a4724857e31b24631ee5
+Pavement2023-09-13t05.flac:4862364a5333472d334b2f2c4cfa627f
+Pavement2023-09-13t06.flac:81f26dfa2deb21cf0d5683d5fe99495c
+Pavement2023-09-13t07.flac:31694c753c59ecd913065f4b91b9cde2
+Pavement2023-09-13t08.flac:4dd385c067e2e3cafc34941a8ddd0e50
+Pavement2023-09-13t09.flac:fb2500144046ce16face34318ee30f52
+Pavement2023-09-13t10.flac:b4063b90e760fb74c7162644ffcc2d26
+Pavement2023-09-13t11.flac:be0fcc5f50ec4922644248f87ce4796e
+Pavement2023-09-13t12.flac:dfec701c4f9d72826bebf2f9c90ecccc
+Pavement2023-09-13t13.flac:6a1acf1e418da4c19a33457ee4349071
+Pavement2023-09-13t14.flac:accb68a4e65c739a6aaa4cc5dffda6a0
+Pavement2023-09-13t15.flac:dc7ecabf4ff3449b843283c1e1a003bc
+Pavement2023-09-13t16.flac:76bb18fb6af6d9c7a860c863e3dc60a9
+Pavement2023-09-13t17.flac:f1fd40781bb9cb25b865d32c9ccc00d9
+Pavement2023-09-13t18.flac:5ccfef6d4daccf926f1e313d2cc13eaa
+Pavement2023-09-13t19.flac:6f7ceaa601c960c3d468839acf916128
+Pavement2023-09-13t20.flac:2d060bee5ed6e9e9917b3d62fbd30962
+Pavement2023-09-13t21.flac:3e202c03268c7b1151cd5eb710feb239
+Pavement2023-09-13t22.flac:e5d2e911ca49bd680fac13540b45cc6f
+Pavement2023-09-13t23.flac:a14bfa0386e6cb7fe73bed2eb9bd8c99
+Pavement2023-09-13t24.flac:93a59e6a77dd4c109e5df064b0140ca7
+Pavement2023-09-13t25.flac:5e6ffc5a945a549e654fcbcad1a7530e
+Pavement2023-09-13t26.flac:10912c267c56e9f0ef021e777865c224
+Pavement2023-09-13t27.flac:dce1e14e75e8a4d4a642918896333928
+Pavement2023-09-13t28.flac:3695c7f41b75fe8f060042179f411b53
+Pavement2023-09-13t29.flac:76fd169d623c919d7250ad0cb0440b4c
+Pavement2023-09-13t30.flac:aee5e768d82c1f7f0b2ea6a0eafb0bd3
+Pavement2023-09-13t31.flac:21359145e67720e323bf1164c0b01e6c
+Pavement2023-09-13t32.flac:939feb340ce1f5fd0b8fb8d5c3526fb5
+Pavement2023-09-13t33.flac:0fe66a40f6a2af9297cc42aab7031c67
+Pavement2023-09-13t34.flac:f8506dcdc651263dea0548544bc0c86e
+Pavement2023-09-13t35.flac:79377b2d508a355f82efb180653ea2ff

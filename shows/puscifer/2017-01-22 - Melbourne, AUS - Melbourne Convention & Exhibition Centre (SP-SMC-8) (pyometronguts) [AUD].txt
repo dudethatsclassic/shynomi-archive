@@ -1,0 +1,63 @@
+PUSCIFER
+Date: 2017-1-22
+Location: AUSTRALIA
+Venue:  Melbourne Convention and Exhibition Centre, Melbourne, Australia
+Source: AUD
+Quality: 8/10
+
+
+Recorded By: pyometronguts (petersell)
+
+Recorded with: SP-SMC-8 SOUND PROFESSIONALS PREMIUM AUDIO TECHNICA SLIMLINE STEREO MICROPHONES Cardiod (with low sensitivity modification) plus SP-SPSB-11 and bass roll-off at 69Hz) -> Sony M10 -> wav (24BIT/48hz) -> Audition CC (sound boost/eq)-> CD Wave (track splitting) and to .FLAC(level 8) -> You
+
+Venue: large hall
+
+Set List
+
+Ol. Simultaneous.flac
+02, Galileo,flac
+03. Agostina.flac
+04, Vagina Mineflac
+05. Maynard Speaks-flac
+06, Horizons.flac
+07. The Arsonist.flac
+08, The Remedy.flac
+09. Life of Brian.flac
+10, Rev 22,20.flac
+11. Grand Canyon.flac
+12, The Rapture.flac
+13. Breathe.flac
+14, Maynard Talk 2.flac
+15. Toma.flac
+16, Telling Ghosts,flac
+17. Flippantflac
+18, Conditions of My Parole.flac
+19. Money Shot.flac
+20, Man Overboard.flac
+21. Maynard and Band Intros.flac
+22, The Humbling River.flac
+23. Autumn.flac
+
+b35955f75cce524b7aae1cbcf64ea939 *01. Simultaneous.flac
+5545daee0a378a618dbdd838e223fa19 *02. Galileo.flac
+4990bf0de0239034304b3caa4da2436b *03. Agostina.flac
+59e06beeaaac0416f431672890a6685b *04. Vagina Mine.flac
+be1852986fc21482817e7e6a089f3a47 *05. Maynard Speaks.flac
+5c5d276e426ca32c69f96d7734d84a08 *06. Horizons.flac
+7f45fd237706639a1a44f2d8a499a04f *07. The Arsonist.flac
+28388798feff2f41963444ba51fc408a *08. The Remedy.flac
+dfa3fee4016f13288a6392fe04c8deb8 *09. Life of Brian.flac
+ea58183917fd95df70b033d5a2a0ade3 *10. Rev 22.20.flac
+2ade364ad6548555f0035af407df05ff *11. Grand Canyon.flac
+012553fa803c99ab229f7a2bfe212c97 *12. The Rapture.flac
+d5dcbcb18afa48a265eb607661376eb7 *13. Breathe.flac
+91490e0df9af0f522edfac711d5dbcb9 *14. Maynard Talk 2.flac
+e1ddcf807ec8fe48b1f9b6a8ec77a4f9 *15. Toma.flac
+e6a221466504814506319498b5eac06a *16. Telling Ghosts.flac
+3c5eecd43657ed353d6d8f1ce718551f *17. Flippant.flac
+0a4ac734942cf1745e601b77fc2a0905 *18. Conditions of My Parole.flac
+2973d91c61407cf74ee729f4fdf2faf9 *19. Money Shot.flac
+f3b3987c96f6cd183e44cbfa52e88a30 *20. Man Overboard.flac
+5727905e9f06f40c417b728da9874e65 *21. Maynard and Band Intros.flac
+89d57e78b9c94622cf8ea7ae46bb0160 *22. The Humbling River.flac
+acbe864d251ea081492ad3c385a02596 *23. Autumn.flac

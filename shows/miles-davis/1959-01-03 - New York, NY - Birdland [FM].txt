@@ -1,0 +1,56 @@
+Miles Davis All-Stars
+01-03-1959
+Birdland
+New York, New York
+
+Project ID - LL9
+
+Source: FM Broadcast
+Lineage: Mutual Network's "Mutual Bandstand USA" radio broadcast > ?? > wave > ?? > flac
+
+Miles Davis (tpt); Julian "Cannonball" Adderley (as); John Coltrane (ts); 
+Wynton Kelly (p); Paul Chambers (b); Jimmy Cobb (d); Guy Wallace (ann)
+
+disc 1
+
+d1t01. Intro > Bags' Groove 
+d1t02. All of You /
+
+-------------------------------------------------------
+
+Notes:
+
+- d1t02 is incomplete. THe music fades out at the end
+
+- This version is from the same initial source as LL8 (that I am not seeding for the project), but with the tracking being 
+different, I assume that this version is from a differnt bootleg label. This version is a few seconds longer that LL8.  
+
+- A very nice sounding recording with some minor hiss.
+
+md5
+5ea514b2f7f55133cbcde59901659325 *md1959-01-03.LL9.d1t01.flac
+090cb48ff1f4725a2dad4fe045d291c4 *md1959-01-03.LL9.d1t02.flac
+
+ffp
+md1959-01-03.LL9.d1t01.flac:00bbd7eaff76c06f269c3ced6240bb5a
+md1959-01-03.LL9.d1t02.flac:b2d5117dcd78e170e1d5d5c3ff295854
+
+st5 
+00bbd7eaff76c06f269c3ced6240bb5a  [shntool]  md1959-01-03.LL9.d1t01.flac
+b2d5117dcd78e170e1d5d5c3ff295854  [shntool]  md1959-01-03.LL9.d1t02.flac
+
+shntool
+   length     expanded size   cdr  WAVE problems filename
+    14:27.07      152955308    ---   --   ---xx   md1959-01-03.LL9.d1t01.flac
+     5:20.15       56483324    ---   --   ---xx   md1959-01-03.LL9.d1t02.flac
+    19:47.22      209438632 B                     (totals for 2 files, 0.4281 overall 
+compression ratio)
+
+spectral analysis from TLH
+md1959-01-03.LL9.d1t01.wav:  track looks like CDDA with probability 100%
+md1959-01-03.LL9.d1t02.wav:  track looks like CDDA with probability 100%
+
+
+
+
+

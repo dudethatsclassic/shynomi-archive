@@ -1,0 +1,73 @@
+Björk
+2001-12-19
+Laugardagshöll
+Reykjavík, Iceland
+
+Audience Minidisc > PC > wav > flac (by Andre)
+download raw flac files (set1 and set2) via bjorkhub.no-ip.info
+direct connect hub
+
+flac > wav > Soundforge (see below)  > cdwave (tracking) > 
+Flac Frontend (setting on 7, align sector boundaries)> flac 
+
+recorded by Jochen Hermann
+
+flac file and sound editing by danlynch 2004-05-25:
+This was a very difficult wav file to edit via Soundforge.  The recording 
+levels were at first quite low, so I normalized before any editing was done.  
+Additionally, the crowd noise (loud clapping next to the recorder) in between 
+songs was quite loud compared with the most of the music, so I manually 
+lowered the volume of the crowd as best as possible.  Some minor artifacts 
+remain from this process.  After the completion of the crowd noise volume 
+edit, I normalized again.   Fades were done at the beginning and end of 
+each set.
+
+
+Set 1:
+01. Frosti
+02. Overture
+03. All Is Full Of Love (Icelandic)
+04. Unravel (Icelandic)
+05. It's Not Up To You (Icelandic)
+06. Generous Palmstroke
+07. An Echo A Stain (Icelandic)
+08. Hidden Place (Icelandic)
+09. Unison (Icelandic)
+
+Set 2:
+01. You've Been Flirting Again (Icelandic)
+02. Isobel
+03. Pagan Poetry
+04. Possibly Maybe
+05. Army Of Me
+06. Hyperballad (Icelandic)
+07. Bachelorette
+Encore 1
+08. Anchor Song (Icelandic)
+09. Human Behaviour
+Encore 2
+10. It's in Our Hands  
+
+for more information about this historic Björk concert see
+http://www.bjork.com/facts/gigography/details/01-12-19/index.htm
+
+Flac Fingerprint
+bjork2001-12-19set1t01.flac:af1f1cecf510c28f210db21011bf74e2
+bjork2001-12-19set1t02.flac:464e91459dfee0f2c0e4c0d78abec0eb
+bjork2001-12-19set1t03.flac:53023b462d53e423f3ea7de013152ac7
+bjork2001-12-19set1t04.flac:2d3331172942ebf475cf9e49817ecd91
+bjork2001-12-19set1t05.flac:8c8bb6bd4a1bead848e1b3a01c3bcb4c
+bjork2001-12-19set1t06.flac:605c2d762ae67580da6a5545ed813ef0
+bjork2001-12-19set1t07.flac:53ef750efd05a978892ca471f9ae20e5
+bjork2001-12-19set1t08.flac:c4c2ba58da77758535d65fc9b7d93cd4
+bjork2001-12-19set1t09.flac:5f539ad4b850ef3ee9ca5563f35c6588
+bjork2001-12-19set2t01.flac:2e82aef7e491918564aba9ef096abbeb
+bjork2001-12-19set2t02.flac:bbff29b026850946e445ef39a6686e8d
+bjork2001-12-19set2t03.flac:17c9b45c3ed498f682841eaaabc38cf9
+bjork2001-12-19set2t04.flac:4420ff25bc6c852fcb128071a0282415
+bjork2001-12-19set2t05.flac:ac9841349ed6f6dda1f3d7a6171cf9ea
+bjork2001-12-19set2t06.flac:19be2ec84dcc80fdbd0e9b5020032601
+bjork2001-12-19set2t07.flac:b012886c68748f6a5f484aa3dcaf3873
+bjork2001-12-19set2t08.flac:7383eca581598a7f0c6ecfe90c562d36
+bjork2001-12-19set2t09.flac:2bd3181df1bd832620b2597b5402f091
+bjork2001-12-19set2t10.flac:d93fd6eb76f39cd4bed728cc84e9b5e5

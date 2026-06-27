@@ -1,0 +1,38 @@
+Local H
+The Plaza Theatre
+Orlando, FL 
+October 7, 2025
+
+Lineage: 
+Tascam DR-05X(internal mics) >44.1khz, 16bit wave >SanDisk microSD card
+>Audition 1.5 >wave >TLH >FLAC(level 8). 
+
+Location: 
+Section 1, Row M, Seat 3. 
+
+Taper: 
+kevdogg 
+
+Set/Track List: 
+1. Fritz's Corner
+2. Cynic
+3. All-Right (Oh, Yeah)
+4. Hands on the Bible
+5. California Songs
+6. President Forever
+7. Bound for the Floor (w/TV Eye)
+8. That's What They All Say
+9. High-Fiving MF
+
+
+Notes: 
+Opening for Everclear on the Sparkle & Fade 30th anniversary tour. Sponge opened for Local H.
+All were recorded. After encountering some mic connection static during Sponge's intro music
+I decided to switch to the internals for Local H set. The deck was placed on the rail/shelf thing
+that runs along the length of row M and it's about waist level while standing. In Audition I gave a
+subtle increase in the 2khz range with the EQ and a hard limit to -.1db with a 9db boost. I am quite
+pleased with the results. This was sadly my first Local H show and I was impressed. Better late
+than never though. The guys were hanging with the crowd right after their set and were signing
+and doing photos at the merch table after the show. Good peoples for sure. Don't miss a chance
+to see them, it's a great performance. Cover art is included in the torrent. Enjoy the show.
+-kevdogg

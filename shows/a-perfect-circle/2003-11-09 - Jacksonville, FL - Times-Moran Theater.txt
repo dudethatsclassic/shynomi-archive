@@ -1,0 +1,39 @@
+
+A Perfect Circle
+November 9th, 2003
+Times-Moran Theater: Jacksonville, FL
+
+Source:   DPA 4061 > Sonosax SX-M2 > M1 (44.1 kHz)
+          (taped 30' from right stack)
+
+Transfer: Master DAT > Sony M1 > Sony Optical/7 pin cable >
+          AOpen Soundcard > Cool Edit Pro > dEQ > CDWave > MKWAct
+
+Notes:    The EQ applied a slight bass reduction curve to get rid 
+          of the boom.  There is a *very* small dropout in track 12
+          at 1:27.
+
+Setlist:
+1.  intro 
+2.  Vanishing 
+3.  Pet
+4.  The Hollow
+5.  Magdalena
+6.  Weak and Powerless 
+7.  Rose 
+8.  Blue 
+9.  Thomas
+10. The Package 
+11. 3 Libras
+12. The Nurse Who Loved Me
+13. Gravity 
+14. The Outsider
+15. The Noose
+16. Judith
+
+Total Length  [77:09]
+
+Taping, transfer, EQ/edits, & SHN compilation - pjdavep@comcast.net
+
+Released 11/18/2003.
+

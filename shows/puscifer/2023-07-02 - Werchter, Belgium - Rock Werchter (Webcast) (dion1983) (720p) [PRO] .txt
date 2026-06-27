@@ -1,0 +1,25 @@
+PUSCIFER
+July 2, 2023
+Festivalpark
+Werchter, Belgium (Rock Werchter 2023 festival)
+
+TRACKS:
+Fake Affront
+Postulous
+
+
+LENGTH:
+09:08
+
+
+TRANSFER:
+Pickx rockwerchter.be livestream > ffmpeg (capture only) > untouched .ts file > PC > Dime
+
+Video: 1280x720 - H264 - 1500Kbps - 25fps
+Audio: AAC 96Kbps - 48.0 KHz - Stereo
+
+RECORDED BY:
+dION1983
+
+
+--- PLEASE DO NOT CONVERT TO LOSSY FORMATS, DISTRIBUTE THIS RECORDING WITHOUT THIS INFO FILE AND NEVER SELL! ---

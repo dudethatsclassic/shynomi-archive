@@ -1,0 +1,89 @@
+Red Hot Chili Peppers
+2022-07-12
+Volksparkstadion
+Hamburg, Germany
+
+Equipment: CAFS (omnidirectional) > PCM-M10 (LPCM / 44.1 kHz / 16 bit)
+Lineage: PCM recorder > WAV > Audacity (adjust volume, EQ, fade in/out) > AIFF > xACT > FLAC (level 8)
+Format: CDR/FLAC
+Location: eastern (right) grandstand, about 40 m from stage
+Recorded, edited & uploaded by a_doubt
+
+Track list:
+xx Intro Jam *
+01 Around The World (followed by drum solo) 05:16
+02 Dani California                          05:39
+03 The Zephyr Song                          03:55
+04 Aquatic Mouth Dance                      05:59
+05 Snow (Hey Oh) **                         07:48
+06 These Are the Ways                       04:03
+07 Throw Away Your Television ***           04:30
+08 Flea Improvisation on Hamburg            01:20
+09 Otherside                                05:28
+10 Nobody Weird Like Me                     05:20
+11 Watchu Thinkin'                          04:49
+12 Black Summer                             05:10
+13 Soul To Squeeze                          05:41
+14 The Heavy Wing                           05:32
+15 Californication Intro                    04:38
+16 Californication                          06:42
+17 Give It Away                             05:19
+18 Encore Break                             03:01
+19 Sir Psycho Sexy                          06:52
+20 They're Red Hot (Robert Johnson cover)   01:22
+21 By The Way                               05:00
+
+* unfortunately this track is missing on the recording, the next track may sound a bit weird, as I was moving, it gets better soon 
+** followed by "I Feel Love" by Donna Summer jam
+*** Tour debut, this time no 'Don't You Ever Leave' outro
+
+Duration: 01:43:24 
+For burning this to CD, tracks 01 - 12 and 13 - 21 fit to one CD each (59:17 + 44:07).
+
+
+Notes:
+This show is the 15th of the "Unlimited Love Tour" of the Red Hot Chili Peppers and the last of the current tour leg through Europe. 15 years ago I had seen the band at the same place, the stadium was called AOL Arena back in 2007. I'm glad I had the chance to relive the line-up with John Frusciante and I'm not the only one, as the crowd FOS was chanting his name a couple of times. Also they showed some dancing in circles at the appropriate songs. Just like at the other 2022 shows I attended, the Chili Peppers spent a lot of good vibes, each of their shows has something unique. This time I got the idea that they switched the order of the songs more than before, and after "Aquatic Mouth Dance" I was even afraid they might have skipped "Snow". But then I decided to just embrace what the band had to offer. The switched order might have even confused John at one time, when he (after "Black Summer") went to Flea in order to start "The Heavy Wing", who assumingly told him it was "Soul To Squeeze" to be played next.
+
+People around me on the grandstand were having a good time, but only a few stood up to dance or cheer. The sound at my place was good, so here comes a decent recording, nevertheless with some cheering of the people next to me or even talking. But hey, it's an audience recording, it's nice to hear the audience once in a while, their singing during "Otherside" gives me a shiver at least. One weird thing happening during shows in Germany is the clapping of the audience, even at parts of songs where it does not fit at all, unnecessary in my opinion - we have Chad to keep beat.
+ 
+The Red Hot Chili Peppers played 5 songs off their new album "Unlimited Love", and pleased longtime fans with "Nobody Weird Like Me" or "Sir Psycho Sexy". The latter was for the encore, a nice surprise regardless of the fact, that I was sure they would play "Under The Bridge", because it was the last show of the tour leg and this summer they did not play it very often. Anthony, you owe us another song. One highlight for me was "The Heavy Wing" (from the recent album "Unlimited Love") and songs I haven't seen live for a while (or ever), like "Throw Away Your Television" or "The Zephyr Song". Again the stage show with lights, videos and effects was amazing. If you get the chance to see the Red Hot Chili Peppers live, go ahead :) And if you like their music, buy the official albums.
+
+Please do not convert the recording to mp3 or other lossy formats unless for personal use. And please do not sell.
+Enjoy!
+
+Performing for you:
+Anthony Kiedis ¥ vocals
+Flea ¥ bass, backing vocals
+Chad Smith ¥ drums
+John Frusciante ¥ guitar, backing vocals
+Chris Warren ¥ keyboard, percussion
+
+Links:
+https://redhotchilipeppers.com/tour/
+https://twitter.com/ChiliPeppers
+https://www.facebook.com/ChiliPeppers
+https://www.youtube.com/RedHotChiliPeppers
+https://twitter.com/a_doubt
+
+Fingerprints:
+rhcp20220712_02_ATW.flac:11ef9c9ab0eb3433e41a31d3f621d9a1
+rhcp20220712_03_dani.flac:c65c41640c4d0fa29453a92abefa269a
+rhcp20220712_04_zephyr.flac:3ea43c20dd6e2f6f2e92c2007a95382d
+rhcp20220712_05_aquatic_mouth.flac:c9bfade0f951ea84ea703b5462195a46
+rhcp20220712_06_snow.flac:6ae2e09818c456477470545a7bdd4924
+rhcp20220712_07_these_are_the_ways.flac:8df7ba7e349568dddbbf6811690c2e57
+rhcp20220712_08_throw_away.flac:3ebacfeb38d714cf1b31f009fd2afbea
+rhcp20220712_09_flea.flac:9924ee19d7203a08f81f3216fd2c6d56
+rhcp20220712_10_otherside.flac:cf99be0186b12440235bfbd9f1acfe69
+rhcp20220712_11_nobody_weird.flac:aa156188624f91b490a518f2687c824d
+rhcp20220712_12_whatchu_thinkin.flac:94dbf67e242d2f3d956e1413d9f30400
+rhcp20220712_13_black_summer.flac:f3d974b65e4b6459e399f4b422cbc6fa
+rhcp20220712_14_soul_to_squeeze.flac:86b878f823b1d82143a801ad52682d5a
+rhcp20220712_15_heavy_wing.flac:b84d0f30769151cc89218c13e50dea7d
+rhcp20220712_16_cali_intro.flac:3712f78d3361628ab9cd6ee7124b7616
+rhcp20220712_17_californication.flac:0dcb2347d723524c57c809900185ac67
+rhcp20220712_18_GIA.flac:f8711842ea7b25063c0f92bab783e71b
+rhcp20220712_19_encore_break.flac:5cf84c120d94233260e83ecaad9894af
+rhcp20220712_20_sir_psycho.flac:1abbe5aa7bb58b34537a99c84323e8c0
+rhcp20220712_21_red_hot.flac:335338406c090f68ee869f46afd63ebd
+rhcp20220712_22_BTW.flac:38e455db6e7f5cee171bfc710dcaee3f

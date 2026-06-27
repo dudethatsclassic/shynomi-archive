@@ -1,0 +1,52 @@
+Pavement
+
+
+Tremont Music Hall
+Charlotte, NC
+May 12, 1995
+
+
+Source:  Sony Mic > Sony WM-D6
+Transfer:  Cass(1) > Tascam PortaStudio 424 > Total Recorder > WaveLab > CDWave > Easy CD Creator > CDR(m) > EAC > FLAC  (Rappard)
+
+
+1. intro
+2. In The Mouth A Desert
+3. Kennel District
+4. Shoot The Singer
+5. Grave Architecture
+6. Fight This Generation
+7. Gold Soundz
+8. Motion Suggests
+9. Silence Kit
+10. Grounded
+11. AT&T
+12. Serpentine Pad
+13. Unfair
+14. Father To A Sister Of Thought
+15. Two States
+16. Best Friend's Arm
+17. Pueblo Domain
+18. Western Homes
+
+
+
+Original FFP:
+pavement1995-05-12t01.flac:e19d2d348d98d98a60c93e44e734cae3
+pavement1995-05-12t02.flac:9c414a811c1e4d4ec2caee6f6a3bfab9
+pavement1995-05-12t03.flac:7abaf888c7a130145f214e4b5d742e5b
+pavement1995-05-12t04.flac:c190d0795c6e08bf85d0b0f26380fa69
+pavement1995-05-12t05.flac:34c48762da7366b00775364b124f4879
+pavement1995-05-12t06.flac:56f0d5f734c19f84469ee70db9007169
+pavement1995-05-12t07.flac:8f1ccb72eb73c8610a5787fdc82695fb
+pavement1995-05-12t08.flac:af55bdb25b4d683e0c5f008f24a74d20
+pavement1995-05-12t09.flac:5f517136b7788180b0e6b65ed4b29231
+pavement1995-05-12t10.flac:81266940cc2441dc3bf1eae55408861a
+pavement1995-05-12t11.flac:0f930f696acf3a7888159de229ace88e
+pavement1995-05-12t12.flac:0692230a576be363f75df3831bcd7ec7
+pavement1995-05-12t13.flac:5eb77adf74fbbf6913a9343fc67d1845
+pavement1995-05-12t14.flac:95a955f3449a92c5da4c480726643ad5
+pavement1995-05-12t15.flac:3c14891fa680ab4d0ae979000bc2912f
+pavement1995-05-12t16.flac:8eb6231a753ebe51e068505ffc9c083e
+pavement1995-05-12t17.flac:c0d27b8eea210eb3333d55748081b1b0
+pavement1995-05-12t18.flac:cdbcd0db3988a129e0d7205a88dfe7ee

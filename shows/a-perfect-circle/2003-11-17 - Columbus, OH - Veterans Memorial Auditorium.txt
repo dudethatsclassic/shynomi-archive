@@ -1,0 +1,50 @@
+A Perfect Circle
+2003-11-17
+Veterans Memorial Auditorium
+Columbus, Ohio
+Source: CSB > Sony PCM-M1 (Oade mod)
+Location: 14th row right side
+
+Taper: Genghis Cougar Mellen Khan
+Transfer: Tascam DA-302 digi coax > Audiophile 2496 > Soundforge 5.0 (resampled/normalized) > CD Wave (tracking) 
+
+TLH 2.7.0 (Build 172) encoded to .flac (level 8)/align (fix)/test 
+
+Setlist:
+
+01) Vanishing 			 6:22
+02) Pet 			 4:52
+03) The Hollow   		 3:03
+04) Magdalena			 5:35		
+05) Weak and Powerless 	 	 3:29
+06) Orestes 			 5:22
+07) Blue			 4:33
+08) Thinking of You		 4:58
+09) The Package			 7:36
+10) 3 Libras			 4:06
+11) -James Iha-			 2:02
+12) The Nurse Who Loved Me	 5:57
+13) Gravity			 6:12
+14) The Outsider		 5:03
+15) The Noose			 5:48
+16) Judith			 4:09
+
+
+Total Time: 			79:12
+
+01 - Vanishing.flac:8c15de1a8c900d333f060a66fc78a285
+02 - Pet.flac:6e4b9715733e17ff9e0c8811e16e1040
+03 - The Hollow.flac:51cc2c5e8889e51f816a42ba7a3defc5
+04 - Magdalena.flac:aef06cf2cfe651d28b14632b181b964a
+05 - Weak And Powerless.flac:4144d98d647034cfab0bf29090356d04
+06 - Orestes.flac:496c0095712ae22c575d4cf71586c8a3
+07 - Blue.flac:dd5ca9a438dd46d4c66f56bbe9f9e5a1
+08 - Thinking Of You.flac:80660492b0afaf220294071cf9bebc3a
+09 - The Package.flac:0c38bdd34657899a85cec799d9a4d7da
+10 - 3 Libras.flac:7709986e359d5c457cf6a9eed12709ba
+11 - Iha.flac:e1f1b555b0ce14abeb345c658469442d
+12 - The Nurse Who Loved Me.flac:2996d412626e8879ed9478260f98fc1d
+13 - Gravity.flac:c3ec8b6a41272dd543adcc3709895761
+14 - The Outsider.flac:df73071dcdbc35346d805bef0dab0b54
+15 - The Noose.flac:8cecba3ec3207e77527b2ebb175d2e97
+16 - Judith.flac:d9cdb01fcd2f5611658a67b59756c9a2

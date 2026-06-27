@@ -1,0 +1,74 @@
+MIles Davis Quintet
+10-06-1964
+Messuhalli
+Helsinki, Finland
+
+Project ID: LL56
+
+Source: FM Broadcast
+Lineage: HNK Radio Broadcast > ?? > wave > disc 2 of 1964 tree @ milestrees > 
+ripped with unknown software > wave > flac 
+
+Miles Davis (tp); Wayne Shorter (ts); Herbie Hancock (p); Ron Carter (b); 
+Tony Williams (dr)
+
+disc 1
+
+d1t01. Autum Leaves
+d1t02. So What
+
+------------------------------------------------------------------------------------
+ 
+Notes:
+
+- There is a slight amount of hiss and a very minor amount distortion present, but 
+overall this is a nice specimen. 
+
+- d1t02: The recording ends with a few seconds of announcer comments that are cut.
+
+- Original source and seed by Jan Keisers 
+
+- QC done by Bgreen
+
+md5
+39aa5a573d8dafdb2e88fe31c3f4395a *md1964-10-06.LL56.d1t01.flac
+fa0e99b6e22be3a1f7e28f5d03591155 *md1964-10-06.LL56.d1t02.flac
+
+ffp
+md1964-10-06.LL56.d1t01.flac:6dac62ae4fdb4b6e8eaf4823d6199027
+md1964-10-06.LL56.d1t02.flac:ea66f2bede77c685b079bb609982c992
+
+ST5
+6dac62ae4fdb4b6e8eaf4823d6199027  [shntool]  md1964-10-06.fm.LL56.d1t01.flac
+ea66f2bede77c685b079bb609982c992  [shntool]  md1964-10-06.fm.LL56.d1t02.flac
+
+shntool
+Length     expanded size   cdr  WAVE problems filename
+11:23.12      120509468    ---   --   ---xx   md1964-10-06.fm.LL56.d1t01.flac
+ 8:03.52       85323548    ---   --   ---xx   md1964-10-06.fm.LL56.d1t02.flac
+19:26.64      205833016 B                     (totals for 2 files, 0.5430 overall compression ratio)
+
+spectral analysis from TLH
+
+md1964-10-06.fm.LL56.d1t01.wav:  track looks like CDDA with probability 99%
+md1964-10-06.fm.LL56.d1t02.wav:  track looks like CDDA with probability 99%
+
+old md5
+39aa5a573d8dafdb2e88fe31c3f4395a *2 Audio Track.flac
+fa0e99b6e22be3a1f7e28f5d03591155 *3 Audio Track.flac
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

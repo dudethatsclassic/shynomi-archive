@@ -1,0 +1,44 @@
+Linkin Park
+Hamburg, Germany, Barclays Arena
+September 22, 2024
+
+Equipment: Sennheiser XS Lav USB-C > Cellphone (Field Recorder App) [24/48]
+Lineage: WAV > Audition (High Pass Filter, EQ) > CD WAVE > foobar2000 > FLAC
+Taper: Chesterchaz
+Location: Block U20
+Time: 2:02:49
+
+01. Act 1 - Inception Intro A (2:41)
+02. Somewhere I Belong (3:31)
+03. Crawling (3:27)
+04. Lying From You (3:30)
+05. Points Of Authority (3:32)
+06. New Divide (6:22)
+07. The Emptiness Machine (3:20)
+08. Act 2 - Creation Intro A (1:19)
+09. The Catalyst (5:17)
+10. Burn It Down (3:59)
+11. Waiting For The End (4:50)
+12. Castle Of Glass (3:22)
+13. Joe Solo (1:44)
+14. When They Come For Me/Remember The Name (5:14)
+15. Lost In The Echo (3:34)
+16. Given Up (3:23)
+17. One Step Closer (4:02)
+18. Act 3 - Collapse Transition (4:42)
+19. Lost (2:03)
+20. Breaking The Habit (3:24)
+21. What I've Done (3:29)
+22. Act 4 - Kintsugi Transition (0:50)
+23. Leave Out All The Rest (5:18)
+24. My December (5:45)
+25. Friendly Fire (3:02)
+26. Numb (3:58)
+27. In The End (3:42)
+28. Faint (6:03)
+29. Act 5 - Resolution Intro A (1:36)
+30. Papercut (4:22)
+31. Heavy Is The Crown (3:59)
+32. Bleed It Out (7:29)
+
+Notes: 3 weeks ago I would never have imagined to see Linkin Park live again, but here we are! I was lucky enough to get a ticket, and thought I could as well try to tape it for old times' sake. Got a fairly cheap mic to plug directly into my phone and unsurprisingly, results came out mediocre. A lot of distortion on the low end on the heavier songs. You're probably better off with one of the videos on YouTube. Sharing this one nevertheless for all the collectors out there! Small file size as it's basically Dual Mono. RIP Chester.

@@ -1,0 +1,41 @@
+Bush, Live Pinkpop Festival Landgraaf, The Netherlands may 19th, 1997 [TV][PRO]
+Broadcasted 1997 by NPS / VPRO / VARA
+
+Short introduction by J.D. (Jan Douwe Kroeske)
+
+Set on "Noordpodium":
+- Swallowed
+- Glycerine
+- Little Things
+
+Duration: 19M:30S
+Sound is awesome, Image is clean, crisp, clear, flawless!
+
+Source:
+Taped 1997 on VHS, SP Hifi Stero PAL
+Dubbing:
+Playback of the mentioned tape on JVC VHS Recorder HIFI Stereo=> Recorded on harddisc of LG dvd recorder XP mode, PAL=> Burned on DVD5 XP Mode, PAL=>
+ripped to PC with DVD decrypter=>Checksum file created with Uploader's little helper=> to Dime=> You lunatics
+
+
+Gspot Analysis:
+sound: AC3
+0xbd[0x80]:48000Hz  384 kb/s tot , stereo (2/0) 
+Image:
+Aspect Ratio: 720 x 576
+MPEG-2 Codec
+Bitrate: 10080 kb/s VBR
+Framerate: 25fps (PAL)
+
+Menu untouched, no chapters added (Damn, I need a crash course for TMPGenc DVD Author)
+
+Sorry, no screens, no samples
+
+Don't be an ass, so don't sell, feel free to share!
+Support the artists by buying their CD's, DVD's and going to their concerts!
+
+Created and upped by Wodzjar
+
+Cheers,
+
+Wodz

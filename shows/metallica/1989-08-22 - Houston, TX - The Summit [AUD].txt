@@ -1,0 +1,298 @@
+Metallica 
+
+1989-08-22
+The Summit
+Houston, TX
+
+
+Source: Unknown AUD (1st gen. cass)
+
+Transfer: 1st gen. cass > Sony TCW-305 > Roxio 6.0 > WAV > CDR(M) > EAC(secure) > WAV > FLAC(lvl8) > Wavepad(corrected pitch issues) 
+
+
+
+Disc 1:
+01. The Ecstasy of Gold
+02. Blackened
+03. For Whom the Bell Tolls
+04. Welcome Home (Sanitarium)
+05. Harvester of Sorrow
+06. The Four Horsemen
+07. Jason's solo -> To Live Is To Die Jam
+08. Master of Puppets  
+09. Fade to Black
+10. Seek And Destroy -> Twist Of Cain Tease -> Seek And Destroy
+11. ...And Justice For All
+12. One
+
+Disc 2:
+01. Creeping Death
+02. Kirk Guitar Solo -> Litle Wing Jam -> Third Stone From Sun Jam 
+03. Battery
+Encore:
+04. Frayed Ends Of Sanity Jam -> James Bond Theme Song Tease ->
+05. Last Caress
+06. Am I Evil?
+07. Damage Inc
+Encore II:
+08. Breadfan (cuts @ 3:33)
+
+
+Notes:
+Another rare show i got in a trade from the guy that transfered his 1st gen cass to cdr for me. I have noticed this recording has some speed issues at times......maybe due to cass going bad??? Overall this is a nice recording considering this show doesnt really circulate hardly at all.
+
+                             Enjoy!
+
+                                 ~ bubba420 ~
+
+
+
+                    Cleaned up by praiseofdeath
+                  
+
+
+FLAC Fingerprint:
+
+Disc 1:
+Track01.flac:d8c83ed9ef53faa9b165e1fbfcccb9cb
+Track02.flac:49a47eb991dbe6de88118c2ae8945e3f
+Track03.flac:f607eabf50205cfd3c81b10a34c2447f
+Track04.flac:97519618ed730591e9879482ec708aa4
+Track05.flac:0835523044c4dc74813db35ff5768b3f
+Track06.flac:07222e27e529a7b05aca447c7360e3e7
+Track07.flac:e519ba6adcdd11b2a7e2f0159f38ac77
+Track08.flac:fa293dba49c1362500a5d535a1aad5b7
+Track09.flac:28eb76c1623c93d81e2b89beb15e2c47
+Track10.flac:16a0dece6f0a1e89d33908f84cb3712a
+Track11.flac:c0950673df04118e127d9aa8655f84d5
+Track12.flac:5b9dcfd0e5f4b1c78078008880069f38
+Disc 2:
+Track01.flac:eaedd6b7142578549b1e99d317cf4758
+Track02.flac:293b78f8069143b8969b38cc59cbb2a7
+Track03.flac:7ce9bce42c9e317cf47bfc47361fbce9
+Track04.flac:ba33ab44aa23b98b5e046d15a1109584
+Track05.flac:31d141a90df37c44bb0de3191918d181
+Track06.flac:45ca1bb9a83aef4650293117218629c0
+Track07.flac:79cea8ab88e85999bb7d2802f1544bce
+Track08.flac:049285e08ee956d7557d66ec3de9596b
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+EAC LOG:
+
+EAC extraction logfile from 20. March 2006, 0:31 for CD
+Unknown Artist / Unknown Title
+
+Used drive  : LG      CD-RW CED-8120B   Adapter: 0  ID: 0
+Read mode   : Secure with NO C2, accurate stream, NO disable cache
+Combined read/write offset correction : 0
+Overread into Lead-In and Lead-Out : No
+
+Used output format : Internal WAV Routines
+                     44.100 Hz; 16 Bit; Stereo
+
+Other options      : 
+    Fill up missing offset samples with silence : Yes
+    Delete leading and trailing silent blocks : No
+    Installed external ASPI interface
+
+
+Track  1
+     Filename C:\My Documents\Metallica 1989-08-22 Houston, TX\Disc 1\Track01.wav
+
+     Peak level 62.3 %
+     Track quality 99.9 %
+     Copy CRC A81C0F2E
+     Copy OK
+
+Track  2
+     Filename C:\My Documents\Metallica 1989-08-22 Houston, TX\Disc 1\Track02.wav
+
+     Peak level 99.7 %
+     Track quality 99.9 %
+     Copy CRC 081E12DD
+     Copy OK
+
+Track  3
+     Filename C:\My Documents\Metallica 1989-08-22 Houston, TX\Disc 1\Track03.wav
+
+     Peak level 91.5 %
+     Track quality 99.9 %
+     Copy CRC DE27B0BB
+     Copy OK
+
+Track  4
+     Filename C:\My Documents\Metallica 1989-08-22 Houston, TX\Disc 1\Track04.wav
+
+     Peak level 88.2 %
+     Track quality 99.8 %
+     Copy CRC 77759461
+     Copy OK
+
+Track  5
+     Filename C:\My Documents\Metallica 1989-08-22 Houston, TX\Disc 1\Track05.wav
+
+     Peak level 99.5 %
+     Track quality 99.9 %
+     Copy CRC 50AC3C42
+     Copy OK
+
+Track  6
+     Filename C:\My Documents\Metallica 1989-08-22 Houston, TX\Disc 1\Track06.wav
+
+     Peak level 92.9 %
+     Track quality 99.9 %
+     Copy CRC B3F1A4DC
+     Copy OK
+
+Track  7
+     Filename C:\My Documents\Metallica 1989-08-22 Houston, TX\Disc 1\Track07.wav
+
+     Peak level 88.4 %
+     Track quality 99.9 %
+     Copy CRC 2D3BBD25
+     Copy OK
+
+Track  8
+     Filename C:\My Documents\Metallica 1989-08-22 Houston, TX\Disc 1\Track08.wav
+
+     Peak level 97.1 %
+     Track quality 99.9 %
+     Copy CRC B4E5ABC6
+     Copy OK
+
+Track  9
+     Filename C:\My Documents\Metallica 1989-08-22 Houston, TX\Disc 1\Track09.wav
+
+     Peak level 100.0 %
+     Track quality 100.0 %
+     Copy CRC 073C4A16
+     Copy OK
+
+Track 10
+     Filename C:\My Documents\Metallica 1989-08-22 Houston, TX\Disc 1\Track10.wav
+
+     Peak level 99.2 %
+     Track quality 99.9 %
+     Copy CRC 9400064B
+     Copy OK
+
+Track 11
+     Filename C:\My Documents\Metallica 1989-08-22 Houston, TX\Disc 1\Track11.wav
+
+     Peak level 100.0 %
+     Track quality 100.0 %
+     Copy CRC AB6FF3B9
+     Copy OK
+
+Track 12
+     Filename C:\My Documents\Metallica 1989-08-22 Houston, TX\Disc 1\Track12.wav
+
+     Peak level 87.3 %
+     Track quality 99.9 %
+     Copy CRC 5A4CE4CB
+     Copy OK
+
+No errors occured
+
+
+End of status report
+
+
+EAC extraction logfile from 20. March 2006, 0:57 for CD
+Unknown Artist / Unknown Title
+
+Used drive  : LG      CD-RW CED-8120B   Adapter: 0  ID: 0
+Read mode   : Secure with NO C2, accurate stream, NO disable cache
+Combined read/write offset correction : 0
+Overread into Lead-In and Lead-Out : No
+
+Used output format : Internal WAV Routines
+                     44.100 Hz; 16 Bit; Stereo
+
+Other options      : 
+    Fill up missing offset samples with silence : Yes
+    Delete leading and trailing silent blocks : No
+    Installed external ASPI interface
+
+
+Track  1
+     Filename C:\My Documents\Metallica 1989-08-22 Houston, TX\Disc 2\Track01.wav
+
+     Peak level 99.8 %
+     Track quality 99.9 %
+     Copy CRC CF039BDB
+     Copy OK
+
+Track  2
+     Filename C:\My Documents\Metallica 1989-08-22 Houston, TX\Disc 2\Track02.wav
+
+     Peak level 75.4 %
+     Track quality 99.8 %
+     Copy CRC E2C38CBE
+     Copy OK
+
+Track  3
+     Filename C:\My Documents\Metallica 1989-08-22 Houston, TX\Disc 2\Track03.wav
+
+     Peak level 81.8 %
+     Track quality 99.9 %
+     Copy CRC 473C71D4
+     Copy OK
+
+Track  4
+     Filename C:\My Documents\Metallica 1989-08-22 Houston, TX\Disc 2\Track04.wav
+
+     Peak level 100.0 %
+     Track quality 99.9 %
+     Copy CRC A096D44A
+     Copy OK
+
+Track  5
+     Filename C:\My Documents\Metallica 1989-08-22 Houston, TX\Disc 2\Track05.wav
+
+     Peak level 79.2 %
+     Track quality 100.0 %
+     Copy CRC 45534D56
+     Copy OK
+
+Track  6
+     Filename C:\My Documents\Metallica 1989-08-22 Houston, TX\Disc 2\Track06.wav
+
+     Peak level 73.5 %
+     Track quality 100.0 %
+     Copy CRC 6DF2356A
+     Copy OK
+
+Track  7
+     Filename C:\My Documents\Metallica 1989-08-22 Houston, TX\Disc 2\Track07.wav
+
+     Peak level 80.1 %
+     Track quality 100.0 %
+     Copy CRC 9CAFD502
+     Copy OK
+
+Track  8
+     Filename C:\My Documents\Metallica 1989-08-22 Houston, TX\Disc 2\Track08.wav
+
+     Peak level 83.7 %
+     Track quality 99.9 %
+     Copy CRC 77BCD3D6
+     Copy OK
+
+No errors occured
+
+
+End of status report

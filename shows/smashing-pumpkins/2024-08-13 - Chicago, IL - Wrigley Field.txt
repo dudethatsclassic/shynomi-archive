@@ -1,0 +1,67 @@
+Smashing Pumpkins
+August 13th 2024
+Wrigley Field
+Chicago, IL, US
+
+SOURCE (AUD#1)
+Internal Mics > Galaxy S22+
+
+TRANSFER:
+Samsung S22+ (M4A) > MP3 > WAV > CD Wave Editor > Trader's Little Helper 2.8.4
+
+GENERATION:
+M4A(M) > MP3 > WAV > FLAC
+
+LENGTH:
+62:22
+
+SETLIST:
+01. The Everlasting Gaze
+02. Doomsday Clock
+03. Zoo Station [U2]
+04. Today
+05. (banter)
+06. That Which Animates the Spirit
+07. Tonight, Tonight
+08. Ava Adore
+09. Disarm
+10. Bullet With Butterfly Wings
+11. Beguiled
+12. 1979
+13. Jellybelly
+14. (banter)
+15. Cherub Rock
+16. Zero > Love Gun [Kiss] (tease)
+
+NOTES:
+Thank you to the taper for sending this for release
+
+*******************
+This is a lossy source
+The taper converted the M4A to MP3 as part of editing. The SPLRA team have converted this to a WAV file to indicate there is no upgrade to the original master which was recorded in M4A format
+*******************
+
+MD5 FINGERPRINTS:
+38aabe51695e30bac33c8e1b2a5dc091 *Smashing Pumpkins 2024-08-13 AUD1 t01 The Everlasting Gaze.flac
+2bc244fa92cf78bdeb7973821d3fdef3 *Smashing Pumpkins 2024-08-13 AUD1 t02 Doomsday Clock.flac
+a7cf9b4a8b441aebdcff64ecedd6d9ce *Smashing Pumpkins 2024-08-13 AUD1 t03 Zoo Station [U2].flac
+548cecf5b1a7896814d458018b69f400 *Smashing Pumpkins 2024-08-13 AUD1 t04 Today.flac
+7e1f3ca679864f0fdfc773dbd7a6cf79 *Smashing Pumpkins 2024-08-13 AUD1 t05 (banter).flac
+ada19ed5618af1fb3652a9af84be99a4 *Smashing Pumpkins 2024-08-13 AUD1 t06 That Which Animates the Spirit.flac
+c2719c21d2e6128b4cc164c18bde0600 *Smashing Pumpkins 2024-08-13 AUD1 t07 Tonight, Tonight.flac
+e3d49f522e5022e2a44a947784f1db21 *Smashing Pumpkins 2024-08-13 AUD1 t08 Ava Adore.flac
+575fb2da184578f321f0bc8271749a4e *Smashing Pumpkins 2024-08-13 AUD1 t09 Disarm.flac
+d35f6586fe9329a6d9164d4325561548 *Smashing Pumpkins 2024-08-13 AUD1 t10 Bullet With Butterfly Wings.flac
+47256fc31e5067c61473a7550e20d09a *Smashing Pumpkins 2024-08-13 AUD1 t11 Beguiled.flac
+64454de1038bc4feb84872fb2b031783 *Smashing Pumpkins 2024-08-13 AUD1 t12 1979.flac
+594090c367a8fb84b37da621e910e014 *Smashing Pumpkins 2024-08-13 AUD1 t13 Jellybelly.flac
+f036f309f87d4311f3253c761c1caf56 *Smashing Pumpkins 2024-08-13 AUD1 t14 (banter).flac
+0cbac901139adac1939cff9583284974 *Smashing Pumpkins 2024-08-13 AUD1 t15 Cherub Rock.flac
+b7e5b6a498c1ba766ca536e0b4955442 *Smashing Pumpkins 2024-08-13 AUD1 t16 Zero.flac
+
+RECORDED BY:
+ChesterJT
+
+DISTRIBUTION:
+Spaldz, Nicholas Serra & Members of SPLRA
+2024-08-24

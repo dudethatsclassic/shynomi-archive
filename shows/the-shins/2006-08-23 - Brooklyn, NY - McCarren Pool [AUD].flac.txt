@@ -1,0 +1,82 @@
+The Shins  8/23/06 - McCarren Pool, Brooklyn, NY
+          ****a vanillag/bel mast/remaster****
+
+1. tuning/intro
+2. Kissing the Lipless
+3. Know Your Onion
+4. Girl Inform Me
+5. Mine's Not a High Horse
+6. The Celibate Life
+7. Turn On Me #
+8. When I Goosestep>
+9. Pressed In a Book
+10. Those Bold City Girls
+11. Phantom Limb #
+12. 'New Slang' fuckups
+13. Saint Simon
+14. Turn a Square
+15. Young Pilgrims
+16. Austrailia #
+17. Gone For Good
+18. Girl On the Wing
+19. One By One All Day
+20. So Says I
+21.E: New Slang
+22.   Caring Is Creepy
+
+#=new song
+
+James Mercer - guitar, vox
+Jesse Sandoval - drums
+Marty Crandall - keys
+Dave Hernandez - bass
+
+schoeps mk64(fob, sweet spot, w/ wind screens, ortf bar 
+on makeshift wooden 'mic stand'--hand held)>sonosax>M1>
+microtrack24/96>WAV>Soundforge 7.0(Sec.Balance, EQ, 
+LCR, CB, VC, CW)>FLAC level 7
+recorded & mast/remastered by VG/BEL
+
+Notes:
+This recording represents a true "MacGyver" effort--anyone who appreciates
+'old-school' taping ingenuity will totally enjoy this.  We arrived at the show 
+without a mic stand(don't ask) & couldn't score one from the sound crew.  
+I held the ortf bar for the J. Mascis set & that was hell trying to keep everything 
+in position so between sets I found two bits of wood 'floating' in the pool & 
+fastened them together with some white gaff that the crew was willing to 
+kick down.  The result was a perfectly suitable 'mic stand' that titled upward
+toward the PA.  Taping was a breeze after that...and speaking of breezes, 
+this show took place on a beautiful summer night in Brooklyn with a strong 
+summer breeze that would blow through on occassion.  We had wind screens 
+on the capsules but some of the stronger winds would still push through--
+nothing too terrible, mind you but I just figured I'd give you a heads up.
+Also, at a couple points during the show there is a bit of distortion/crackling
+coming off one of the instruments--this is not from the recording as I remember 
+it happening at the show.  This show was EQ'd to negate some of the inherent
+bad acoustics of the pool setting & some 'loud clap removal' was performed to 
+erase the loudest nearby clappers.  All things considered I think it came out 
+pretty damn tasty & we hope you all enjoy it to the fullest!!!!
+
+FLAC Fingerprints:
+shins_2006-08-23_t01.flac:b351fe05b31ccf6f05e8bac59e58549d
+shins_2006-08-23_t02.flac:74f5665b1b77731e9705daf9b703abb2
+shins_2006-08-23_t03.flac:80f7cc098b11f50bce1deec1f08ed00e
+shins_2006-08-23_t04.flac:8c86610efd09f418115a6c1b16f3a2c4
+shins_2006-08-23_t05.flac:77ed419beb53916a749e4e67770a0192
+shins_2006-08-23_t06.flac:944b1099a6b2411ef677bfd0a65af6ee
+shins_2006-08-23_t07.flac:41d440cd8dd28831e28310ad976b9359
+shins_2006-08-23_t08.flac:562d6a19e56bbc5c94b74209fcb8cfc7
+shins_2006-08-23_t09.flac:a16cefad55bb2b164e8091c032003799
+shins_2006-08-23_t10.flac:84b75dd9e46716727ae7dbab25a6bb3c
+shins_2006-08-23_t11.flac:043e94200939884d0471773c024b133d
+shins_2006-08-23_t12.flac:d5e0fb4ea480c62fc648cdc2ee31828d
+shins_2006-08-23_t13.flac:1f44171046916013a427c4ee2c73571e
+shins_2006-08-23_t14.flac:dafb62248bdd31ad81c17b78c2b63472
+shins_2006-08-23_t15.flac:16e0be91ca0fa02e4b828171d9621d30
+shins_2006-08-23_t16.flac:ed5488e7e3bda9a852a997f9dd09af86
+shins_2006-08-23_t17.flac:e3e197a4c95286a53b341f7b38978d70
+shins_2006-08-23_t18.flac:ce01a0bf60364051987982b2a001eb97
+shins_2006-08-23_t19.flac:f167cf43b419ad8739a5dbf48240c990
+shins_2006-08-23_t20.flac:037e30650a2e24b740b0b39b408d2992
+shins_2006-08-23_t21.flac:0721ee8ca35f29b613b4cb9ac602f5a5
+shins_2006-08-23_t22.flac:78751411ceba4266b2347080128d418f

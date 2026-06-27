@@ -1,0 +1,30 @@
+SMASHING PUMPKINS
+Radio City Music Hall (MTV Video Music Awards), New York City, New York, US
+September 8th, 1994
+
+DISC #1/#1 (00:00)
+----------------
+01) Disarm
+
+SOURCE (SBD)
+----------------
+soundboard > unknown
+
+GENERATION
+----------------
+TV > VHS(x) > DVD-R > RE-AUTHOR > DVD-R(0) [48kHz PCM] > WAV [48kHz] > WAV [44.1kHz] > FLAC [Level 8]
+
+TRANSFER
+----------------
+SUPER v.2007.bld.23 > Audacity 1.2.6 > Trader's Little Helper 2.4.1
+
+NOTES
+----------------
+* I'm not sure of the generation of the original VHS, but I would guess it's a VHS(1) or VHS(2)
+
+MD5 FINGERPRINTS
+----------------
+..
+
+Transferred by Martin Donohoe.
+Please do not encode to lossy formats and/or sell.

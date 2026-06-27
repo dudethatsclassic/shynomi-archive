@@ -1,0 +1,35 @@
+MILES DAVIS ALL-STARS
+July 17, 1955
+Festival Field
+Newport, RI
+
+Track Listing (23:51):
+1. Introduction by Duke Ellington - 1:19
+2. Hackensack - 7:54
+3. Round About Midnight - 6:06
+4. Now's the Time - 8:32
+
+Musicians:
+Miles Davis - trumpet
+Zoot Sims - tenor saxophone
+Gerry Mulligan - baritone saxophone, announcements
+Thelonious Monk - piano
+Percy Heath - bass
+Connie Kay - drums
+Duke Ellington - announcer
+
+Source:
+Voice of America (VOA) broadcast >? >DAT at 48 kHz
+
+Lineage:
+-DAT >HDD via coax and Midiman Dio 2448 digital soundcard
+-Resampled to 44.1 kHz at highest accuracy, DC offset corrected, and wav edits with SoundForge 6.0
+-Tracks split with CD Wave
+-FLAC Frontend (level 8)
+-No digital treatment such as noise reduction or EQ was applied
+
+Notes:
+This performance has been given a lot of hype as helping launch Miles's post-heroin "comeback."
+
+Milesian
+January 2005

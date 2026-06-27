@@ -1,0 +1,66 @@
+Billy Corgan
+October 23rd 2024 (late show)
+Madame Zuzu's
+Highland Park, IL, US
+
+SOURCE (AUD#2)
+DPA 4061's > CA-UGLY battery box > Sony PCM-M10
+
+TRANSFER:
+Sony PCM-M10 > WAV > Adobe Audition > CD Wave Editor > Trader's Little Helper 2.8.4
+
+GENERATION:
+WAV(M) > FLAC
+
+LENGTH:
+87:45
+
+SETLIST:
+01. Intro
+02. Dancehall
+03. Stumbleine
+04. Zowie
+05. Don't Change [INXS]
+06. Shine On, Harvest Moon [Ruth Etting]
+07. Landslide [Fleetwood Mac]
+08. Wrath
+09. A Satisfied Mind [Joe Hayes]
+10. The Spaniards
+11. Pony Express [Zwan]
+12. 1979
+13. To Love Somebody [Bee Gees]
+14. Age of Innocence
+15. Travels
+16. To Scatter One's Own
+17. Cri de Coeur
+18. The Long Goodbye
+
+NOTES:
+Second show of the Storybook series. Thank you to the taper for sending this for release. A hard limit and normalize was done in post to bring audience clapping and noises in line with the performance.
+
+MD5 FINGERPRINTS:
+a4e3aa4a5d60c1338c61f1d7b3b6baf3 *Billy Corgan 2024-10-23b AUD2 t01 Intro.flac
+f2f7070eb8f3b43089e64885c240bb08 *Billy Corgan 2024-10-23b AUD2 t02 Dancehall.flac
+0c043f76902ed58fb361796531b100ec *Billy Corgan 2024-10-23b AUD2 t03 Stumbleine.flac
+9e1783b04f30ab447cf8685b144750c3 *Billy Corgan 2024-10-23b AUD2 t04 Zowie.flac
+fe6facbf5331346898aba7ccb11f491a *Billy Corgan 2024-10-23b AUD2 t05 Don't Change [INXS].flac
+d1649d5eacd9c422945ddadce30ca81c *Billy Corgan 2024-10-23b AUD2 t06 Shine On, Harvest Moon [Ruth Etting].flac
+d35a8717179d252f0e36403eedf88c13 *Billy Corgan 2024-10-23b AUD2 t07 Landslide [Fleetwood Mac].flac
+0b9c6415eb0d60509716af3e69cb61c2 *Billy Corgan 2024-10-23b AUD2 t08 Wrath.flac
+1214b34164e4c7217df2f637d0ca8bf2 *Billy Corgan 2024-10-23b AUD2 t09 A Satisfied Mind [Joe Hayes].flac
+273e0dff70498dc8cf5e7e49c51cd826 *Billy Corgan 2024-10-23b AUD2 t10 The Spaniards.flac
+38129db211e2a02cdc882f4ee748abe9 *Billy Corgan 2024-10-23b AUD2 t11 Pony Express [Zwan].flac
+c06199bd8b8ab83236a95b3a31be9dfc *Billy Corgan 2024-10-23b AUD2 t12 1979.flac
+9414ff3fef658a1740c98a949b214b2b *Billy Corgan 2024-10-23b AUD2 t13 To Love Somebody [Bee Gees].flac
+bf96b46244c68e02c4e24986612b151d *Billy Corgan 2024-10-23b AUD2 t14 Age of Innocence.flac
+70068fe257f03fb6eec6c0e838bc4331 *Billy Corgan 2024-10-23b AUD2 t15 Travels.flac
+6686411ec18edaf3814e2218e2e510a2 *Billy Corgan 2024-10-23b AUD2 t16 To Scatter One's Own.flac
+42a823a8b1a1300ebf7db1645f4873f2 *Billy Corgan 2024-10-23b AUD2 t17 Cri de Coeur.flac
+8bb8af12f20175137ae87e9245bd43d0 *Billy Corgan 2024-10-23b AUD2 t18 The Long Goodbye.flac
+
+RECORDED BY:
+Bullet1979
+
+DISTRIBUTION:
+Spaldz, Nicholas Serra & Members of SPLRA
+2024-11-24

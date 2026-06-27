@@ -1,0 +1,38 @@
+Smashing Pumpkins
+January 31st 1992
+Nachtwerk
+Munich, DE
+
+SOURCE (FM#1):
+unknown > unknown
+
+TRANSFER:
+Sony PCM-R500 > Komplete Audio 6
+
+GENERATION:
+DAT(1)
+
+LENGTH:
+23:24
+
+SET:
+01. Window Paine
+02. Kill Your Parents > Siva
+03. Slunk
+04. Suffer
+
+NOTES:
+Thanks to TravisBickle1963 for the transfer!
+
+MD5 FINGERPRINTS:
+afa405892fd65af31583c397cda81702 *Smashing Pumpkins 1992-01-31 FM1 t01 Window Paine.flac
+94c2710c58b8cc7eb7adbe82fd4aca75 *Smashing Pumpkins 1992-01-31 FM1 t02 Siva.flac
+eb194ca98a48a91ada0312e28eea09af *Smashing Pumpkins 1992-01-31 FM1 t03 Slunk.flac
+28121d833471a4b638b9575483c1c341 *Smashing Pumpkins 1992-01-31 FM1 t04 Suffer.flac
+
+TRANSFER BY:
+TravisBickle1963
+
+DISTRIBUTION:
+Nicholas Serra, Spaldz & Members of SPLRA
+2024-04-21

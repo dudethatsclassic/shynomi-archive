@@ -1,0 +1,33 @@
+Artist: Herbie Hancock & The Headhunters
+Date: 1975-11-17
+Location: Omaha, NE 
+Venue: Omaha Civic Auditorium Music Hall
+Source: FM 
+Lineage: Off Air Master Cassette C-120(unknown brand)>Dat(0)>wav(16/48)>wav(16/44)>flac
+Transfer Master Cassettes>Dat(0): details unknown done by taper in 2006
+Transfer Dat(0)>wav(16/48): R-184MD>Tascam DA-20(S/PDIF out)>audiophile 192(S/PDIF in)>audacity>wav(16/48) done in Oct 2009
+Taped By: Jeff J.
+Dat(0) Transferred By: weedwacker
+
+Band Members:
+Herbie Hancock - keys
+The Headhunters
+Paul Jackson - bass
+Bill Summers - percussion
+Michael Clarke - drums
+Dewayne Blackbyrd McKnight - guitar
+Bennie Maupin - reeds
+
+Setlist:
+01. Watermelon Man ->
+02. Hang Up Your Hang Ups
+03. Steppin' In It
+04. Bubbles ->
+05. Shekere ->
+06. Heartbeat*
+* unsure if this is correct
+
+Length: 60:04
+
+Notes:
+Digital transfer(2009) of Charley C.'s dat(0) given to him by the taper in 2006. This is a digital clone made of the off the air master cassette by the taper himself for Charley. This is the complete 60 minute FM broadcast of this show and was taped from the FM broadcast on KQ98 on March 14th, 1976. This show captures Herbie Hancock and The Headhunters touring in support of their album Man-Child. This would be the final tour, final show of the tour and album done with The Headhunters. This album and tour marked his most funkiest period of his jazz fusion music he did in the 70s. 

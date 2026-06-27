@@ -1,0 +1,50 @@
+Pavement
+May 15, 2024
+C Complejo Art Media
+Buenos Aires, Argentina
+
+Stephen Malkmus: vocals / guitar
+Bob Nastanovich: percussion / vocals
+Scott Kannberg: guitar / vocals
+Mark Ibold: bass
+Steve West: drums
+Rebecca Cole: keyboards / backing vocals
+
+01. [intro]
+02. Kennel District
+03. Silence Kid
+04. Stereo
+05. Starlings of the Slipstream
+06. Summer Babe
+07. Perfume-V
+08. Transport Is Arranged
+09. Gold Soundz
+10. Frontwards
+11. "Another one bites the dust" and "Seven nation army" [snippet]
+12. The Hexx
+13. Here
+14. Zurich Is Stained
+15. Unfair
+16. Shady Lane
+17. [Stephen  introduces the band]
+18. Harness Your Hopes
+19. Range Life
+20. Type Slowly [extended outro, snippet of "All apologies" riff]
+21. Date w/ IKEA
+22. In the Mouth a Desert
+23. Trigger Cut
+24. Two States
+25. Debris Slide
+26. Fight This Generation
+27. [encore break]
+28. Grounded
+29. Cut Your Hair
+30. Box Elder
+
+Note: "Spit on a Stranger" was on the printed setlist after "Fight This Generation" but was not played. 
+
+Source: AUD - audience audio
+Equipment: built-in / Zoom H4n
+Lineage: USB / WAV (16/44.1) / iZotope RX [normalize & spectral repair] / FL Studio [post-production/mastering] / CD Wave Editor 1.98 [tracking] / FLAC [level 8]
+Length: 1:48:16
+Taper: Santiago Herrera

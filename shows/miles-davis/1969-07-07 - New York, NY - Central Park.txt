@@ -1,0 +1,89 @@
+Miles Davis Quintet
+07-07-1969
+Central Park, 
+New York, New York
+
+Project ID - LL147
+
+Source: Audience Recording
+Lineage: Audience Recording > ?? > wave > disk three of the lost quintet tree from Miles-trees >
+ripped with unknown software > wave  > ?? > shn
+
+Miles Davis (tpt); Wayne Shorter (ss, ts); Chick Corea (el-p); Dave Holland (b, el-b); 
+Jack DeJohnette (d)
+
+disc 1
+
+d1t01. /No Blues
+d1t02. Miles Runs the Voodoo Down
+d1t03. Masqualero
+d1t04. Spanish Key
+d1t05. Sanctuary
+d1t06. The Theme
+ 
+-------------------------------------------------------
+
+Notes:
+
+- d1t01: This track starts mid song with the beginning being cut. 
+
+- d1t03: A slight level fluctuation at :23. There is a drop out at 
+:31. There is some heavy distortion at 11:10 through 11:30.
+
+- d1t04: The distortions seems to get a bit worse in this track. Slight 
+drop out at 4:05.
+
+- Very heavy hum in this source.  It is annoying, but the music is pretty clear through 
+it keeping the source listenable. There is also some distortion but nothing real 
+overpowering. This fits into that "I've heard better, but I've heard worse" catagory.
+The playing is very tight.
+
+- QC done by Bgreen
+
+md5
+886135872e7d089c958945698ec3476d *md1969-07-07.LL147.d1t01.shn
+59943a3499bade0b9cc80ac5193107f5 *md1969-07-07.LL147.d1t02.shn
+80822d11a1094acebceda8a74da18782 *md1969-07-07.LL147.d1t03.shn
+9174b8db5dea566e58a004215e921cfb *md1969-07-07.LL147.d1t04.shn
+84a8d5c0551b18d926073951322fafb4 *md1969-07-07.LL147.d1t05.shn
+907276df32d2cef41d233dc11e8bba3a *md1969-07-07.LL147.d1t06.shn
+
+st5 
+e78241cd011c95b2ab07b2cbf2d09ac3  [shntool]  md1969-07-07.LL147.d1t01.shn
+0aa3105a75908bb4c80250abfe521cc5  [shntool]  md1969-07-07.LL147.d1t02.shn
+508e8e955f0522118bbab5abb70efe5e  [shntool]  md1969-07-07.LL147.d1t03.shn
+bbd6189656c9a5fa20c1b0ab6ea560be  [shntool]  md1969-07-07.LL147.d1t04.shn
+dcb291522bbc7b341ddffcfa99891ac3  [shntool]  md1969-07-07.LL147.d1t05.shn
+a1babce5ed47e4dbd4292e30d52092da  [shntool]  md1969-07-07.LL147.d1t06.shn
+
+shntool
+length     expanded size   cdr  WAVE problems filename
+     0:55.28        9767900    ---   --   ---xx   md1969-07-07.LL147.d1t01.shn
+    11:27.29      121255052    ---   --   ---xx   md1969-07-07.LL147.d1t02.shn
+    12:16.17      129870428    ---   --   ---xx   md1969-07-07.LL147.d1t03.shn
+    11:46.63      124686620    ---   --   ---xx   md1969-07-07.LL147.d1t04.shn
+     3:21.10       35479964    ---   --   ---xx   md1969-07-07.LL147.d1t05.shn
+     0:24.41        4330076    ---   --   ---xx   md1969-07-07.LL147.d1t06.shn
+    40:11.38      425390040 B                     (totals for 6 files, 0.6897 overall compression ratio)
+
+spectral analysis from TLH
+md1969-07-07.LL147.d1t01.wav:  track looks like CDDA with probability 100%
+md1969-07-07.LL147.d1t02.wav:  track looks like CDDA with probability 100%
+md1969-07-07.LL147.d1t03.wav:  track looks like CDDA with probability 100%
+md1969-07-07.LL147.d1t04.wav:  track looks like CDDA with probability 100%
+md1969-07-07.LL147.d1t05.wav:  track looks like CDDA with probability 99%
+md1969-07-07.LL147.d1t06.wav:  track looks like CDDA with probability 99%
+
+old md5 or ffp (incude both if available)
+886135872e7d089c958945698ec3476d *Track01.shn
+300c9abd2168d4b7215c70644d681cb5 *Track01.skt
+59943a3499bade0b9cc80ac5193107f5 *Track02.shn
+d8a1b3699cf218559fb975d220d64df0 *Track02.skt
+80822d11a1094acebceda8a74da18782 *Track03.shn
+1a10b0340d251e15ccba8d080057b1f1 *Track03.skt
+84a8d5c0551b18d926073951322fafb4 *Track05.shn
+af118d200b257399af2bbcf136d6edd0 *Track05.skt
+9174b8db5dea566e58a004215e921cfb *Track04.shn
+60a77c606d8b2e5abca687974bc89be1 *Track04.skt
+907276df32d2cef41d233dc11e8bba3a *Track06.shn
+fb8a6bdce8666ee90d03583142c671be *Track06.skt

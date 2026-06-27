@@ -1,0 +1,65 @@
+Beck 
+2008-09-22
+Dodge Theatre
+Phoenix, AZ
+
+record  :  MM-HLSC-1(mounted on hat, 75 feet from stage loc, in line with right stack) > MM-MBM (roll off @ 96hz) > R09 @ 24/48
+transfer:  R09 > USB > wavelab (editing and dither to 16bit) > Cdwav (tracking) > Foobar2000 (liveshowtagger) > Trader's Little Helper (flac)
+taper:  sin213
+website:  http://members.cox.net/sin213/sin213.html
+
+
+This was a great show from Beck.  Everything turned out pretty good with the recording, except for the occasional yell from the girl in front of me.  :P  Anywho, Beck brought out a local during Black Tambourine.  About halfway thru the song you can hear the crowd start cheering and hooting as he proceeded to do The Worm across the stage...partially distracting Beck during the song, as he looked back to see what everyone was responding too.  lol!  Good stuff.
+
+
+Beck - 76:34 *16bit version*
+01 Loser
+02 Girl
+03 Nausea
+04 Novacane
+05 Que Onda Guero
+06 Nicotine & Gravy
+07 Mixed Bizness
+08 Timebomb
+09 Devil's Haircut
+10 Soul of a Man
+11 Gamma Ray
+12 Ghettochip Malfunction (Hell Yes)
+13 Clap Hands
+14 Black Tambourine
+15 Modern Guilt
+16 Think I'm In Love
+17 Orphans
+18 Volcano
+19 Lost Cause
+20 Chemtrails
+21 encore break
+22 Where It's At
+23 E-Pro
+
+**DO NOT ENCODE TO MP3, EXCEPT FOR PERSONAL MP3 PLAYER USE**
+**PLEASE DO NOT ALTER OR SELL THIS RECORDING AND INCLUDE THE INFO FILE IN TRADES**
+
+Beck 2008-09-22 - t01.flac:5ef16a5f95c9ec70c6cbedc57d83d311
+Beck 2008-09-22 - t02.flac:fd411e6ae409a273236f81cb05f2851c
+Beck 2008-09-22 - t03.flac:09b3063e3546ee5f9f7d49a749985cf3
+Beck 2008-09-22 - t04.flac:de87f10dab8ffa8927d9b7becc779c56
+Beck 2008-09-22 - t05.flac:91da39620c646635406b370a75c26968
+Beck 2008-09-22 - t06.flac:a338d12d953dcabc73fe4ff643f88b5d
+Beck 2008-09-22 - t07.flac:d2c4f8d27eb9aab4472d5592357aedea
+Beck 2008-09-22 - t08.flac:3de31e458c8a7e4351cc4d361a7a42b3
+Beck 2008-09-22 - t09.flac:afeae207a5ecb65a5a9f8c2ddabd2145
+Beck 2008-09-22 - t10.flac:427d8057c6a85137dd593c6f1149fb99
+Beck 2008-09-22 - t11.flac:803fdddab069f5c26355af8a9743e839
+Beck 2008-09-22 - t12.flac:6e223675d32c91cb29cf4a09449905f0
+Beck 2008-09-22 - t13.flac:a3c9d610f9a9cb5042bd9d50d086b97b
+Beck 2008-09-22 - t14.flac:0f74ce2856ad79667828e9a60b2ef66d
+Beck 2008-09-22 - t15.flac:f23050d5f49194e98ad84e43e3ce4823
+Beck 2008-09-22 - t16.flac:3bb63725fc1c4149aa15575a77c617bf
+Beck 2008-09-22 - t17.flac:f36e220c788599c36f51619ff26e316b
+Beck 2008-09-22 - t18.flac:c7f27fcf38eecd0cd463a8d721cffeb8
+Beck 2008-09-22 - t19.flac:66cc01b3dcaa6a3b9b1266865d6608e7
+Beck 2008-09-22 - t20.flac:e1fa51b1d7241460141f9f9ff1b657b0
+Beck 2008-09-22 - t21.flac:0809612beef1625d089e05ba79ddafdc
+Beck 2008-09-22 - t22.flac:1e7f810c6c175fd66bc0c0152d1684e5
+Beck 2008-09-22 - t23.flac:d2d2be851e8848c627a095963de40f12

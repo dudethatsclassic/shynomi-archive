@@ -1,0 +1,44 @@
+Metallica
+Shoreline Amphitheater
+Mountain View, CA
+September 15, 1989
+
+From the collection of koondog a/k/a Rush-Fan
+
+16 bit version
+
+Taper: Karl Lundmark
+Gear: Aiwa CM 30a mic > Sony WMD6
+Transferred & mastered by }{eywood
+Lineage: Maxell XLII 90 and TDK SA60 cassettes (1) > Optimus SCT-57 playback deck > Adobe Audition 1.5 (recording to .wav @ 24/96, Speed correction, EQ, multitrack patch repair of flawed spots, peak limiting, splits & fades) > Xrecode II (conversion to 16/44.1) > TLH (sector alignment, flac 8)
+
+
+One of a series of California shows Karl bought a new deck to record.  This one suffers from crackly distortion in the right channel and a large amount of mic bumps from the rowdy crowd.  The mic seems to have been hidden below the crowd for most of the show, and the soundstage moves around a lot.  In one way or another every song was flawed in this recording.
+
+I've painstakingly removed all the mic bumps either by EQing out the low end on them or by deleting them altogether.  All deleted data was patched in from             .  The changes in the soundfield have been corrected as much as I could, but the constant changing was impossible to correct completely.   
+
+
+01 Intro: The Ecstacy of Gold
+02 Blackened
+03 For Whom the Bell Tolls
+04 Welcome Home (Sanitarium)
+05 Harvester of Sorrow
+06 The Four Horsemen
+07 bass solo
+08 Master of Puppets
+09 Fade to Black
+10 Seek & Destroy
+11 ...and Justice for All
+12 One
+13 Creeping Death
+14 guitar solo
+15 Battery
+
+16 The Frayed Ends of Sanity excerpt
+17 Last Caress
+18 Am I Evil?
+19 Damage Inc.
+
+20 Metallinoodles
+21 Whiplash
+27 Breadfan

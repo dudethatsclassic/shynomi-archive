@@ -1,0 +1,40 @@
+BON IVER
+2012-07-31
+Freilichtbühne Killesberg
+Stuttgart, Germany
+
+Source:     MBHO KA 200 N > Naiant Tinybox > Sony PCM-M10
+Mic Config: A-B
+Location:   ~5m from the stage, left side
+Transfer:   Master WAVs > dEdit > FLAC V1.2.1
+Editing:    EQ, dynamics processing and volume boost in iZotope Ozone V5
+            Parallel compression in Cockos Reaper V4.10
+            Fades in Audiofile Engineering Wave Editor V1.5.4
+Resampling: 96.0 kHz > 44.1 kHz resampling using iZotope 64-bit SRC
+Dithering:  MBIT+
+Format:     16 bit / 44.1 kHz
+
+Disc 1:
+01 (Intro)
+02 Perth
+03 > Minnesota, WI
+04 Towers
+05 Creature Fear
+06 Beach Baby
+07 > Hinnom, TX
+08 > Wash.
+09 Holocene
+10 > Blood Bank
+11 Woods
+12 Brackett, WI
+13 Skinny Love
+14 Calgary
+15 > Lisbon, OH
+16 > Beth/Rest
+17 (Encore Break)
+
+Disc 2:
+18 Who Is It (Carry My Joy on the Left, Carry My Pain on the Right) [Björk]
+19 (Band Introduction)
+20 The Wolves (Act I and II)
+21 For Emma

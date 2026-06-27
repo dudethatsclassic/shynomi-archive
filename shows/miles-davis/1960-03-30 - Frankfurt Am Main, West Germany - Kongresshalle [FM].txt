@@ -1,0 +1,58 @@
+Miles Davis Quintet
+03-30-1960
+Kongresshalle
+Frankfurt Am Main, West Germany
+
+Project ID - LL59
+
+Source: FM Broadcast
+Lineage: Hessischer Rundfunk radio broadcast > ?? > wave > ?? > Disk 2 of Miles LX tree 
+from Miles-Trees > Unknown ripping software > wave > shn
+
+band Members Miles Davis (tp); John Coltrane (ts); Wynton Kelly (p); Paul Chambers (b);
+Jimmy Cobb (d)
+ 
+disc 1
+
+d1t01. Announcement
+d1t02. /So What
+d1t03. All of You/
+
+-------------------------------------------------------
+
+Notes:
+
+- d1t02: A few seconds are missing from the beginning
+
+- d1t03: The end of this track is cut
+
+- This recording has a lot of hiss and the sound is distant. Occasional burst of static
+throughout. 
+
+- QC done by bgreen
+
+md5
+d1739eedbe2737c28d3655c879f31a24 *md1960-03-30.LL59.d1t01.shn
+9db3839a9f096da4f30f6d1e5580311a *md1960-03-30.LL59.d1t02.shn
+c51c7793791615ed1cbbac586defad6d *md1960-03-30.LL59.d1t03.shn
+
+st5 
+2a9fedca3bd7a42ccf072b4b3c1d8780  [shntool]  md1960-03-30.LL59.d1t01.shn
+60176d782566eea334dce2b5737f271d  [shntool]  md1960-03-30.LL59.d1t02.shn
+16cd919a807a6ae250281c32ceb94f2c  [shntool]  md1960-03-30.LL59.d1t03.shn
+
+shntool
+    length     expanded size   cdr  WAVE problems filename
+     0:15.70        2810684    ---   --   ---xx   md1960-03-30.LL59.d1t01.shn
+    12:57.38      137152220    ---   --   ---xx   md1960-03-30.LL59.d1t02.shn
+     9:48.38      103812620    ---   --   ---xx   md1960-03-30.LL59.d1t03.shn
+    23:01.71      243775524 B                     (totals for 3 files, 0.5185 overall compression ratio)
+
+spectral analysis from TLH
+CDDA  with probability 100%
+
+
+old md5 
+d1739eedbe2737c28d3655c879f31a24 *mdq1960-xx-xxd1t05.shn
+9db3839a9f096da4f30f6d1e5580311a *mdq1960-xx-xxd1t06.shn
+c51c7793791615ed1cbbac586defad6d *mdq1960-xx-xxd1t07.shn

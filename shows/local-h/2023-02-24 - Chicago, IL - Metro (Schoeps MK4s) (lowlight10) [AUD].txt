@@ -1,0 +1,45 @@
+Local H
+February 24, 2023
+Metro; Chicago, IL
+
+Source: Schoeps MK4s > babynbox > Sony PCM-M10 @ 24-bit / 44.1kHz
+Location: rail, left stack
+Transfer: M10 > USB > Audacity (dither, tracking)
+Edits/EQ: Spot Hard Limiter -4.0dB, Amplify +2.6dB
+Taper: lowlight10
+
+Setlist:
+
+01. -intro-
+02. Defy and Surrender
+03. All-Right (Oh, Yeah)
+04. Cooler Heads
+05. Winter Western
+06. Scott-Rock
+07. Leon and the Game of Skin
+08. Mansplainer
+09. Cynic*
+10. Turn the Bow*
+11. Another February*
+12. Hands on the Bible
+13. California Songs
+14. Strict-9
+15. -encore-
+16. No Fun
+17. Fritz's Corner
+18. All The Kids Are Right
+19. Heavy Metal Bakesale
+20. High-Fiving MF
+
+
+Notes: 
+
+*Ronnie DiCola on drums. Heet Deth and Shiner opened (not recorded). 
+M10 set at 6. Raw transfer with no fades.
+
+Archive: Master WAV archived @ 24-bit/44.1kHz
+
+Taped and transferred by lowlight10
+Txt file compiled on 2/25/2023
+
+*** DO NOT SELL THIS RECORDING, SHARE IT FREELY ***  

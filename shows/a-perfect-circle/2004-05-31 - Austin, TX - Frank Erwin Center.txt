@@ -1,0 +1,35 @@
+A PERFECT CIRCLE
+Frank Erwin Center
+Austin, Tx.
+May 31, 2004
+
+MICS: http://www.soundprofessionals.com/cgi-bin/gold/category.cgi?category=search&item=SP-CMC-4&type=store
+
+BATTERY BOX: http://www.soundprofessionals.com/cgi-bin/gold/category.cgi?category=310&item=SP-SPSB-1&type=store
+
+Source:		CMC-4>SP-SPSB-1 @ 107Hz>Nomad Jukebox 3 @ 44.1 khz
+Taper:		ROIO420		(roio420@hotmail.com)
+Mic Location:	Section 48, Row 18, Seat 1 (one section left of center, middle of arena)
+
+Conversion:	Nomad JB3>1394 FireWire>CDWave (WAV splitter)>MKW Audio Compression Tool
+
+*************************************************************************************
+******DO NOT ALTER THESE FILES IN ANY WAY!!!  ie - NO MP3! NO SALE!***********
+*************************************************************************************
+
+d1t01:	Vanishing 
+d1t02:	Pet 
+d1t03:	The Hollow 
+d1t04:	Magdelena 
+d1t05:	Weak and Powerless 
+d1t06:	Orestes
+d1t07:	Blue 
+d1t08:	Thinking Of You 
+d1t09:	Brena
+d1t10:	The Package 
+d1t11:	3 Libras 
+d1t12:	The Nurse Who Loved Me (alt.) 
+d2t01:	Gravity
+d2t02:	The Outsider 
+d2t03:	The Noose 
+d2t04:	Judith

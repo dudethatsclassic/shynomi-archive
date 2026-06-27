@@ -1,0 +1,69 @@
+Miles Davis Quintet
+09-27-1960 (early)
+Free Trade Hall
+Manchester, United Kingdom
+
+Project ID - LL60
+
+Source: Audience Recording
+Lineage: Audience Recording > ?? > wave > ?? > Disk 5 of miles-trees LX vine > 
+unknown ripping software > wave > flac
+
+Miles Davis (tpt); Sonny Stitt (as, ts); Wynton Kelly (p); Paul Chambers (b); 
+Jimmy Cobb (d) 
+
+disc 1
+
+d1t01. Four 
+d1t02. All of You
+d1t03. Walkin'
+ 
+-------------------------------------------------------
+
+Notes:
+
+- There are small pockets of static and level fluctuations present throughout this 
+recording. 
+
+- Peter Losin and miles-trees both list this as an audience recording. The sound and a 
+spectral analysis both lean me toward a soundboard recording. 
+
+- This was released on a bootleg record as a soundboard. 
+
+- d1t03: The track fades at the end with stitt still wailing away. I would have to say 
+there was more played than what was recorded.
+
+- This is a fantastic recording of a very tight performance. A must have for any collection
+
+- QC done by Bgreen
+
+md5
+55a70aa806092123d5c686043566e536 *md1960-09-27E.LL60.d1t01.flac
+28d4e675e73b29985f35e2f0875ea75c *md1960-09-27E.LL60.d1t02.flac
+f6cc0fe879a964244af9093931b425d5 *md1960-09-27E.LL60.d1t03.flac
+
+ffp
+md1960-09-27E.LL60.d1t01.flac:c3f1ac08dfef7cb9cece3801cea41d3d
+md1960-09-27E.LL60.d1t02.flac:e1645199807fdfdd27c2ce3ac072ebba
+md1960-09-27E.LL60.d1t03.flac:be5bfe709d4bd9306dd1b5cad3b99165
+
+shntool
+    length     expanded size   cdr  WAVE problems filename
+    10:54.70      115530284    ---   --   ---xx   md1960-09-27E.LL60.d1t01.flac
+    14:14.37      150732668    ---   --   ---xx   md1960-09-27E.LL60.d1t02.flac
+     4:23.15       46428524    ---   --   ---xx   md1960-09-27E.LL60.d1t03.flac
+    29:32.47      312691476 B                     (totals for 3 files, 0.5801 overall compression ratio)
+
+spectral analysis from TLH
+md1960-09-27E.LL60.d1t01.wav:  track looks like CDDA with probability 100%
+md1960-09-27E.LL60.d1t02.wav:  track looks like CDDA with probability 100%
+md1960-09-27E.LL60.d1t03.wav:  track looks like CDDA with probability 100%
+
+old md5 and ffp 
+55a70aa806092123d5c686043566e536 *d05t01.flac
+28d4e675e73b29985f35e2f0875ea75c *d05t02.flac
+f6cc0fe879a964244af9093931b425d5 *d05t03.flac
+
+d05t01.flac:c3f1ac08dfef7cb9cece3801cea41d3d
+d05t02.flac:e1645199807fdfdd27c2ce3ac072ebba
+d05t03.flac:be5bfe709d4bd9306dd1b5cad3b99165

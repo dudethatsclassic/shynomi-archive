@@ -1,0 +1,95 @@
+Billy Corgan
+Church of the Redeemer
+Toronto, CA
+2004-10-19
+
+Taper:       Tobin Stewart
+Source:      DPA 4061 > Sony PCM-M1 @48kHz
+Conversion:  Sony PCM-M1 > Coresounds Cable (7-pin > Coaxial) > 
+	     Midiman Audiophile 2496 
+Resampling:  48kHz downsampled in Cool Edit Pro 2.0 to 44.1kHz
+Editor:      Tobin Stewart
+Editing:     Added fade in's and out's in Cool Edit Pro 2.0 and 
+	     split the tracks in CD Wave Editor
+FLAC:        DAT Master > Cool Edit Pro 2.0 > CD Wave Editor> 
+	     FLAC Frontend (level 8)
+
+Disc One:
+
+1. Intro
+2. Half-Light, Half-Life
+3. Lost Gray
+4. The Sun of Flowers
+5. A Twixt the Twine
+6. See Saw Swam
+7. [unknown] &
+8. The Poetry of My Heart
+9. [unknown] & 
+10. Unknown (Happiness?) !&
+11. Siam Mais
+12. Prairie Song !
+13. (talking)
+14. [unknown] #&
+15. (talking)
+16. Li-lo, Li-lo ^
+	> The Box ^
+	> In the Wake of Poseiden ^
+	> A Rose I Suppose ^
+	> Cherry Blossoms ^
+	> On the Maypole ^
+	> The Passions ^
+	> Blinking with Fists (and Other Caterpillar Tales) ^
+17. Unknown (Everything I Need?) !&
+18. Say Goodbye !
+19. Disciples
+20. [unknown] &
+21. (talking)
+22. Unknown (Come Back Home?) !
+23. Dares for Dreamtime
+24. (talking)
+25. A Bunch of Words
+
+Disc Two:
+
+1. (talking)
+2. (improv) !&*
+	> Amazing Grace  (John Newton) [tease]
+
+  - Billy reading poetry
+! - Billy on guitar and vocals
+& - Yungchen Llamo on vocals
+# - Billy on guitar
+^ - Members of the audience reading poetry
+* - Audience on vocals
+
+Total Running Length - 1:29:36
+
+Fingerprint:
+
+bc2004-10-19d1t01.flac:1c9d862358500ac5c512c23ba926a729
+bc2004-10-19d1t02.flac:d622383e39d78db2d4a7424ec522de6e
+bc2004-10-19d1t03.flac:6142aaf1463316e704743cb0ee9f7041
+bc2004-10-19d1t04.flac:1a082796ef3f95e797f4bdf60117954d
+bc2004-10-19d1t05.flac:4bdcee3fac513c4d6b47e82653af634a
+bc2004-10-19d1t06.flac:9610492925a6b337afe94e5a3f3936e7
+bc2004-10-19d1t07.flac:6dd4cd990ed90a0a6196bdcbaf7e6f4e
+bc2004-10-19d1t08.flac:5dfca031c8f8c853f542ee287bf8a07f
+bc2004-10-19d1t09.flac:828b6a4c32093dba8f4611042fca7edb
+bc2004-10-19d1t10.flac:0bc15ca080ee26422f84e5b4161b95d0
+bc2004-10-19d1t11.flac:9378bdb64936df5248cb835d0176c412
+bc2004-10-19d1t12.flac:414c3ce863138995d2db28a15ab095f2
+bc2004-10-19d1t13.flac:180585137c38337ef29f9cc2d1cdb620
+bc2004-10-19d1t14.flac:fb323ec45c845b93190f6ee2c54c0d34
+bc2004-10-19d1t15.flac:34236c7afac5243e5e650fae3d8d4e81
+bc2004-10-19d1t16.flac:8cca11fbf727c99fc3f7d9c45dc6f39e
+bc2004-10-19d1t17.flac:a1eda7889273b5c4c241a3c0f03d6b71
+bc2004-10-19d1t18.flac:52615579e7110125461aa95389856e59
+bc2004-10-19d1t19.flac:816dd7521d2eeae62ff347ae3c7a8417
+bc2004-10-19d1t20.flac:2aea2b94a5804efb0df9ba3214b9d25d
+bc2004-10-19d1t21.flac:9c81b042d412a84cd16b1da09841196a
+bc2004-10-19d1t22.flac:65063178344794dc082da916f0075793
+bc2004-10-19d1t23.flac:93e2efc98f17bf876b7214254bff0287
+bc2004-10-19d1t24.flac:c7a450335269c3c19bd41c1a4f9073bb
+bc2004-10-19d1t25.flac:7d9f8858ebd48d06f602536394097537
+bc2004-10-19d2t01.flac:3f22322ec81fe5541c497299d5a20038
+bc2004-10-19d2t02.flac:e957f3cc8577d73a0006e427fdd13f01

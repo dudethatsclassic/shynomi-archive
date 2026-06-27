@@ -1,0 +1,44 @@
+Local H
+March 29th, 2026.
+The KING of CLUBS - Columbus, OH.
+
+Taper:      Charles Dewey Cole, IV <live2cd@hotmail.com>
+Location:   20ft back from right stack; mics mounted on baseball hat brim.
+Source:     SP-CMC-8 Cardioids (4.7k mod) > SP-SPSB-11 (@16Hz) > SP-ATEN-1 >
+            SP-SAPM-1-USB-C > Samsung Galaxy S21 (Field Recorder App - 24 bit @48kHz) >
+            Adobe Audition 3.0 > Cd Wave > FLAC
+Conversion: Charles Dewey Cole, IV <live2cd@hotmail.com>
+Equipment:  Samsung Galaxy S21 > (USB) @ 48kHz > Cd Wave
+
+---------------------------------------------------------------------------------------------------------
+Total Time: (31:55)
+
+01. High-Fiving MF				5:42
+02. All The Kids Are Right			3:48
+03. Fritz's Corner				5:46
+04. Eddie Vedder ^				3:42
+05. Bound For The Floor +			4:44
+06. That's What They All Say			8:13
+
+----------------------------------------------------------------------------------------------------------
+Notes:
+
+^  = Steven (kid from the crowd) pulled on stage to play guitar.
++  = Features a "T.V. Eye" tag (The Stooges).
+
+Local H out on tour with Finger Eleven and Filter in the opening slot.
+They only have 30 minutes on this tour, but they sure made it count. I love
+seeing HFMF open (it doesn't happen all that often) and closing with TWTAS
+was intense. First time using the Field Recorder App on my Samsung S21 with
+the SP-SAPM-1-USB-C connector and everything appeared to work great.
+The bass was a little low, so I did EQ and balance the channels in post.
+TKOC is known for horrendous acoustics, so I did not bother recording F11
+or Filter, since the recording I got in Indy on this tour was more than
+sufficient to document the tour.
+
+First on the bill preceding Finger Eleven & headliner, Filter. [not recorded].
+
+---------------------------------------------------------------------------------------------------------
+For more information on Local H, please visit:
+
+http://www.LocalH.com/

@@ -1,0 +1,54 @@
+Charles Mingus
+“Inner Voices” CBC TV
+Toronto, Canada October 31, 1964
+
+upgrade to previous DIME torrent #333820 (uploaded by agriffith):
+
+- speed correction (-170cts; -110cts after tape flip cut in Track 04)
+- volume level & phase offset adjustments
+- overlap around tape flip cut in Track 04 removed
+
+Lineage (original upload): cdr to wav to flac files and checksum 
+
+Add.Lineage: flac > Soundforge 9: speed correction a.o.edits > flac TLH lvl8 w/SBA (231 MB)
+
+Personnel:
+Lonnie Hillyer, Al Stanwick, Freddie Stone (tp), Ron Collier (tb), Howard Johnson (tu), Charles McPherson (as), Don Thompson (ts), Joe Farrell (ts,fl), Bernie Piltch, Morty Ross (bs), Jim O'Discoll (oboe), Jaki Byard (p), Charles Mingus (b,p,narration), Dannie Richmond (dr)
+Last track is from a rehearsal the same day
+Original TV broadcast date: December 8, 1964
+(source of information: CODA magazine) 
+
+Tracklist:
+
+1) Conversation - Solo Bass [2:26]  (previously 2:14)
+2) So Long Eric [3:17] (2:58)
+3) Part Of Meditations [1:26] (1:19)
+4) Meditations (longer version & conversation) [20:05] (18:25)
+5) Conversation [3:41] (3:27)
+6) Meditations (shorter version, incomplete) [17:07] (16:26)
+
+Total time (speed corrected version) 48:05 
+(previously 44:49)
+
+
+Credits:
+Thanks to the unknown taper of this recording,
+to agriffith for the original seed,
+to rillenheini for the Personnel information,
+and to Prof.Goody for his expert advices leading to this speed corrected version.
+
+Enjoy !!
+
+-- flambay
+
+seeded at dimeadozen.org in May 2011
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+ffp:
+01 Conversation-Solo Bass.flac:74a1134cb8db7138b16c8c0353bc42ea
+02 So Long Eric.flac:051666c5c9060ecd65f2643bf3994aae
+03 Part Of Meditations.flac:47e8e59f2aa7ced6b1d6343774f2ea2b
+04 Meditations (longer version & conversation).flac:9fe71d50183a4d60cdbfc9c96cba40f2
+05 Conversation.flac:33469756b252ed00e86d2eb25fa4d211
+06 Meditations (shorter version, incomplete).flac:74cf725fa98353cadcc83933df42575e

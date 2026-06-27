@@ -1,0 +1,68 @@
+Squarepusher
+170 Russell
+Melbourne, Australia
+June 6, 2023
+
+Support: Matt Radovich (DJ set) (taped)
+
+Taped by Claire Laura Fredriksson (CLF, choc e_Claire, fuzzbluerain, etc.)
+Specs: Zoom H1n internal mics, bass rolloff @ 80hz, tucked into shirt collar
+Position: centre, two metres back from steps onto dancefloor, about 20m from barrier
+Lineage: 24/48 .wav > DarkAudacity (fades, tracking) > TLH (level 8 FLAC) > foobar2000 (tagging)
+
+Track "listing":
+ 1. [intro]     1:03
+ 2.             5:24
+ 3.             7:44
+ 4.             5:39
+ 5.             6:08
+ 6.             5:44
+ 7.             7:11
+ 8.            26:42
+ 9.             7:42
+10.             8:26
+    [encore]
+11.             9:53
+--------------------
+    total    1:31:35
+
+Review:
+Tom "Squarepusher" Jenkinson, the jazz virtuoso of the 90s Warp Records set, making a rare return
+to Australia? Absolutely on my list of things to go to, but out of my budget - thank you, thank
+you, *thank you* to my friend Jacob for passing on his friend's unusable ticket to me, I'm truly
+forever grateful.
+
+The show came between arts festival dates at Vivid in Sydney and Dark Mofo in Hobart, with
+Melbourne being positioned in the middle both geographically and chronologically. 170 Russell is
+not a venue I've been to before, but is a little black box in the middle of the CBD - you can
+probably guess where exactly. Made it in, set myself up, prepared to be blown away.
+
+For posterity - the first half hour on this tape is less than ideal, there are a surprising number
+of talkers around me. In particular, a middle-aged couple who reeked of the smell of marijuana and
+spent a lot of time talking about god-knows-what and kissing each other, about a foot in front of
+me. And let's not get to the dance moves that kept pushing in on my space (I think you can hear the
+girl talk at me at one point early on; if you can figure out what she said good luck, I had
+earplugs in). At the start of about track 6, I ended up getting (softly) hit in the face by weed
+dude's back, when Jacob thankfully stepped in and swapped around with me. The tape is better from
+there, and honestly pretty great.
+
+Which is a good thing, because this is about the most mental show I've ever seen. Those familiar
+with Squarepusher's work will know that the bass part of his drum 'n' bass music is often literal
+and physical. He spent two-thirds of the show wielding a six-string electric bass hooked up to a
+giddying array of effects pedals, synchronising it with meticulously programmed drums that he was
+triggering live; the effect is some of the craziest music on the planet and with sensory overload
+lighting to match (that I don't have any record of; during the opening act's DJ set a security
+guard told me 'no recording' when I tried to take a brief phone video...didn't want to risk them
+finding the real prize). There were definitely specific songs going on, but I don't have a clue at
+what they actually were; I've tracked this bootleg by sections where there was a pause in the music
+for applause. Track 8 is the only one where the show is purely electronic; the beats got too dense
+for Squarepusher to keep track of while holding an instrument and he has to get purely in the zone
+(although it's still, to the best of my knowledge, being done live with original music). A
+sensational performance and one of my proudest pulls, despite everything. And I did it effectively
+for free!
+
+Requests:
+Please don't sell this - nobody, tapers or artists, will like you if you do.
+Please keep this info file around if you post it anywhere else (which you're welcome to do!)
+If you give this recording a remaster/matrix treatment, please message me before you do so.
+I can be reached on Twitter (fuzzybluerain) or Dimeadozen (fuzzbluerain) most easily.

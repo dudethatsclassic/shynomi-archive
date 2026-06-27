@@ -1,0 +1,32 @@
+Metallica 
+ Venue:	@Real Madrid Pabellon : Madrid, Spain
+ Date:	January 18, 1987
+ Time:	78:28
+ Size:	1 CD
+ Sound:	AUD
+ Notes:	 
+
+The Ecstasy Of Gold
+Battery
+Master Of Puppets
+For Whom The Bell Tolls
+Welcome Home (Sanitarium)
+Ride The Lightning
+Jason's Solo
+Whiplash
+Thing That Should Not Be
+Fade To Black
+Seek & Destroy
+Creeping Death
+Jam
+The Four Horsemen
+Kirk's Solo
+Am I Evil?
+Damage, Inc.
+Fight Fire With Fire
+
+-----------------------------
+
+*Additional Notes, Added October 21, 2016 by JITF
+
+Received this show with the tracks encoded in an old FLAC format (1.1.4 20070213). Decoded back to WAV using Trader's Little Helper, then converted to current FLAC format (1.3.1 20141125) at Level 8 with EZ CD Audio Converter. The file size went from 398.9 MB to 398.4 MB.

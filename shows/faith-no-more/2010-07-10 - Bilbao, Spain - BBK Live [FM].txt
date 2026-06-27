@@ -1,0 +1,38 @@
+FAITH NO MORE
+2010 07 10
+
+Festival: "BBK Live"
+Bilbao, Spain
+
+NOTES
+—————–
+- Broadcasted on the french radio "OuiFM"
+- Taper: Nono
+- Do not distribute to a lossy format, do not sell, thanks !!
+
+
+AUDIO 1/1 (43mn)
+—————–
+01 Evidence (Spanish Version)
+02 Easy
+03 Ashes to ashes
+04 Ben
+05 Midlife crisis
+06 The gentle art of making enemies
+07 King for a day
+08 Epic
+09 Just a man
+10 Digging the grave 
+
+
+GENERATION
+—————–
+FM[OuiFM] > .WAV[16bits/44kHz] > .FLAC Lvl.8[16bits/44kHz]
+
+SOURCE
+—————–
+Soundboard > Unknown 
+
+TRANSFER
+—————–
+FM(Aiwa XR MN-75) > Edirol r-09hr > SD > USB > decoupage (Magix audio cleanic 2004) > Db poweramp music converter

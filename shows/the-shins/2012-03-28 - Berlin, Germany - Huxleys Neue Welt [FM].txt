@@ -1,0 +1,34 @@
+The Shins
+Berlin Huxleys Neue Welt, Germany
+2012-03-28
+
+source: Nokia dBox2->SC->audiograbber/LineIN->WAV
+transfer: Audacity->Traders Little Helper->flac
+   
+01. Kissing The Lipless
+02. Mine’s Not A High Horse
+03. Simple Song
+04. Bait And Switch
+05. Australia
+06. Marisa
+07. Pam Berry
+08. Phantom Limb
+09. The Rifle’s Spiral
+10. Saint Simon
+11. September
+12. So Says I
+13. It’s Only Life
+14. Caring Is Creepy
+15. 40 Mark Strasse
+16. New Slang
+17. Sleeping Lessons
+18. Port Of Morrow
+19. Young Pilgrims
+20. Sphagnum Esplanade
+21. One by One All Day
+
+broadcast 2012-12-05 from german radio station radioeins
+http://www.radioeins.de/
+http://www.radioeins.de/programm/sendungen/sondersendungen/winternachtskonzerte/the_shins.html
+
+by ElAljoscha @ Dimeadozen

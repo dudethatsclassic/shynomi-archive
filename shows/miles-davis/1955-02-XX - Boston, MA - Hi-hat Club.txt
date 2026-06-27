@@ -1,0 +1,126 @@
+Hi-Hat All-Stars ( W/ Miles Davis)
+02-XX-1955
+Hi-Hat Club
+Boston , Massachusets
+
+Project ID - LL50
+
+Source: Audience Recording
+Lineage: Audience Recording > ?? > wav > silver CD > unknown ripping software > 
+wave > cd > EAC > wav > flac
+
+Miles Davis (tpt); Jay Migliori (ts); Al Walcott (p); Bob Freeman (p); Jimmy Woode (b); 
+Jimmy Zitano (d)
+
+disc 1
+
+d1t01. A Night in Tunisia 
+d1t02. Dig
+d1t03. Darn That Dream 
+d1t04. Jumpin' with Symphony Sid
+d1t05. Ray's Idea 
+d1t06. Nice Work if You Can Get It 
+d1t07. Wee Dot 
+d1t08. Tune Up 
+d1t09. Alone Together 
+d1t10. Well, You Needn't 
+d1t11. Jumpin' with Symphony Sid 
+ 
+-------------------------------------------------------
+
+Notes:
+
+- d1t01 is incomplete. 
+
+- A superb audience recording for the time. There is, as expected, some amount of hiss, 
+however the music really shines through and as a result is a very pleasant listen.
+ 
+- "Although the tunes performed (especially "Jumpin' with Symphony Sid," "Ray's Idea," 
+and "Wee Dot") would suggest an earlier date, the customary date for this set is pretty 
+close to correct. Davis was booked as a single at the Hi-Hat Club for two consecutive 
+weeks in February 1955, joined by Boston locals Migliori, Walcott, Woode, and Zitano. 
+According to Down Beat, a Davis engagement advertised in Detroit for February 11-13 had 
+to be canceled "because of a prior commitment in Boston... Davis was held over at the 
+Hi-Hat for an extra week to share the stand with an R & B group called The Chords" 
+(DB March 23, 1955). My guess is that the Hi-Hat engagement began in early February". 
+- Credit to Peter Losin,http://www.plosin.com/
+
+-"Jumpin' with Symphony Sid," performed here at a very slow tempo, is clearly a set-closer,
+and the music may be from more than one night.
+
+- QC done by ratmice
+
+md5
+c2f83696fc7def8977015a94ba5ab519 *md1955-02-xx.LL50.d1t01.flac
+49763b5d943564530b68c07b0193cd02 *md1955-02-xx.LL50.d1t02.flac
+e0f9c7703a04cfa60e659e12214587b1 *md1955-02-xx.LL50.d1t03.flac
+9d437693d3555a736c198436e3db6774 *md1955-02-xx.LL50.d1t04.flac
+32cf6cd7171130267390098bbd8dc4bc *md1955-02-xx.LL50.d1t05.flac
+c53ae83e16472064b2c3667f122dcb38 *md1955-02-xx.LL50.d1t06.flac
+702fe1ee9fc0c0c9f42827a1d66066b5 *md1955-02-xx.LL50.d1t07.flac
+370b3710c62aa71fe4e9303867f39553 *md1955-02-xx.LL50.d1t08.flac
+8c26aebb162cc616627c5f7bb1de0683 *md1955-02-xx.LL50.d1t09.flac
+cc363f9bad0246cf7fe34d57d1dfbb99 *md1955-02-xx.LL50.d1t10.flac
+fe71aab79c457e9e3ede9555ee752860 *md1955-02-xx.LL50.d1t11.flac
+
+ffp
+md1955-02-xx.LL50.d1t01.flac:ce8b56f771e86cac64f475df8cf93b0c
+md1955-02-xx.LL50.d1t02.flac:ece898338b02df9ef5ff8c0cbcee8419
+md1955-02-xx.LL50.d1t03.flac:1a3162e26e31807a6812468f1602940f
+md1955-02-xx.LL50.d1t04.flac:ac2fa74e571f16ab6a5fbfc1cbeb3adb
+md1955-02-xx.LL50.d1t05.flac:7285f39d885469469ff74ae1ec1653cf
+md1955-02-xx.LL50.d1t06.flac:6c06d9515ae04db4d74c56df21d9578c
+md1955-02-xx.LL50.d1t07.flac:7165b287f046f8a2f54ad85dd04cbff4
+md1955-02-xx.LL50.d1t08.flac:07fa3cdb7dffd1313f28a0f9a3a7031f
+md1955-02-xx.LL50.d1t09.flac:6bdcb9996ba0918544b00e26a154fb63
+md1955-02-xx.LL50.d1t10.flac:5d3c13737299d7ba84b3c8ce09772bfb
+md1955-02-xx.LL50.d1t11.flac:409319ad67f08423997c5b02a38cb80d
+
+st5 
+ce8b56f771e86cac64f475df8cf93b0c  [shntool]  md1955-02-xx.LL50.d1t01.flac
+ece898338b02df9ef5ff8c0cbcee8419  [shntool]  md1955-02-xx.LL50.d1t02.flac
+1a3162e26e31807a6812468f1602940f  [shntool]  md1955-02-xx.LL50.d1t03.flac
+ac2fa74e571f16ab6a5fbfc1cbeb3adb  [shntool]  md1955-02-xx.LL50.d1t04.flac
+7285f39d885469469ff74ae1ec1653cf  [shntool]  md1955-02-xx.LL50.d1t05.flac
+6c06d9515ae04db4d74c56df21d9578c  [shntool]  md1955-02-xx.LL50.d1t06.flac
+7165b287f046f8a2f54ad85dd04cbff4  [shntool]  md1955-02-xx.LL50.d1t07.flac
+07fa3cdb7dffd1313f28a0f9a3a7031f  [shntool]  md1955-02-xx.LL50.d1t08.flac
+6bdcb9996ba0918544b00e26a154fb63  [shntool]  md1955-02-xx.LL50.d1t09.flac
+5d3c13737299d7ba84b3c8ce09772bfb  [shntool]  md1955-02-xx.LL50.d1t10.flac
+409319ad67f08423997c5b02a38cb80d  [shntool]  md1955-02-xx.LL50.d1t11.flac
+
+shntool
+ length     expanded size   cdr  WAVE problems filename
+     7:20.13       77646620    ---   --   ---xx   md1955-02-xx.LL50.d1t01.flac
+     7:39.67       81125228    ---   --   ---xx   md1955-02-xx.LL50.d1t02.flac
+     4:15.13       45012620    ---   --   ---xx   md1955-02-xx.LL50.d1t03.flac
+     1:46.10       18721964    ---   --   ---xx   md1955-02-xx.LL50.d1t04.flac
+     6:45.40       71536124    ---   --   ---xx   md1955-02-xx.LL50.d1t05.flac
+     5:14.50       55507244    ---   --   ---xx   md1955-02-xx.LL50.d1t06.flac
+     5:36.22       59322188    ---   --   ---xx   md1955-02-xx.LL50.d1t07.flac
+     7:05.25       75028844    ---   --   ---xx   md1955-02-xx.LL50.d1t08.flac
+     5:08.28       54397100    ---   --   ---xx   md1955-02-xx.LL50.d1t09.flac
+     9:17.02       98259548    ---   --   ---xx   md1955-02-xx.LL50.d1t10.flac
+     2:04.00       21873644    ---   --   ---xx   md1955-02-xx.LL50.d1t11.flac
+    62:12.45      658431124 B                     (totals for 11 files, 0.4624 overall compression ratio)
+
+spectral analysis from TLH
+md1955-02-xx.LL50.d1t01.wav:  track looks like CDDA with probability 100%
+md1955-02-xx.LL50.d1t02.wav:  track looks like CDDA with probability 100%
+md1955-02-xx.LL50.d1t03.wav:  track looks like CDDA with probability 100%
+md1955-02-xx.LL50.d1t04.wav:  track looks like CDDA with probability 100%
+md1955-02-xx.LL50.d1t05.wav:  track looks like CDDA with probability 100%
+md1955-02-xx.LL50.d1t06.wav:  track looks like CDDA with probability 100%
+md1955-02-xx.LL50.d1t07.wav:  track looks like CDDA with probability 99%
+md1955-02-xx.LL50.d1t08.wav:  track looks like CDDA with probability 100%
+md1955-02-xx.LL50.d1t09.wav:  track looks like CDDA with probability 99%
+md1955-02-xx.LL50.d1t10.wav:  track looks like CDDA with probability 100%
+md1955-02-xx.LL50.d1t11.wav:  track looks like CDDA with probability 100%
+
+
+
+
+
+
+
+

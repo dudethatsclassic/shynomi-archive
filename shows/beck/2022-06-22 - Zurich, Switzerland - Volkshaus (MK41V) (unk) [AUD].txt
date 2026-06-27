@@ -1,0 +1,62 @@
+BECK
+2022-06-22
+Volkshaus
+Zürich, Switzerland
+
+Source:     Schoeps MK41V > Schoeps KC actives > Naiant tinybox > Sony PCM-A10
+Mic Config: DIN-A (90°, 17cm)
+Location:   7m from the stage, right side
+Transfer:   Master WAVs > dEdit > FLAC V1.3.3
+Editing:    Digital editing in Cockos Reaper V6.64
+            EQ, compression and volume boost using iZotope Ozone 9
+            Fades in iZotope RX 8
+Dithering:  MBIT+
+Format:     16 bit / 44.1 kHz
+
+Disc 1:
+01 (Intro: Cycle) *
+02 The Golden Age
+03 Everybody's Got to Learn Sometime [The Korgis]
+04 Blue Moon
+05 Lovesick Blues [Hank Williams, Jr.] (tease)
+06 Tropicalia
+07 Guess I'm Doing Fine
+08 I Am the Cosmos
+09 Hyperlife (snippet) *
+10 Mixed Bizness
+11 Devils Haircut
+12 Dreams
+13 Colors (snippet) *
+14 The New Pollution
+15 The Valley of the Pagans [Gorillaz]
+16 Hotwax (snippet) *
+17 Wow
+18 > Hollywood Freaks
+19 Qué Onda Guero
+20 Nicotine & Gravy
+21 Girl
+22 Debra
+
+Disc 2:
+01 Hotwax
+02 > Dear Life
+03 Loser
+04 Morning
+05 Stratosphere
+06 Chemtrails
+07 Chemical
+08 Turn Away
+09 Lost Cause
+10 Missing
+11 Earthquake Weather
+12 Night Running [Cage the Elephant]
+13 Go It Alone
+14 Black Tambourine
+15 > Up All Night
+16 (Encore Break)
+17 E-Pro
+18 Where It's At
+19 One Foot in the Grave
+
+Notes:
+* from tape

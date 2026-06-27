@@ -1,0 +1,72 @@
+Red Hot Chili Peppers
+"Unlimited Love Tour"
+Minnesota Yacht Club Festival Day 2
+Harriet Island Regional Park
+Saint Paul, MN
+July 20, 2024
+
+** 24 BIT **
+
+Source:  SP-CMC-8 (cardioids) > SP-SPSB-10 > Roland R-07 @ 24 bit/48 kHz
+Mastering:  .WAV's > iZotope RX11 Advanced v11.0.1.3871 (De-Click) > Sound Forge Pro 14.0 Build 140 [minor edits, normalize, & fades, Boz Digital Labs T-Bone2 plug-in (tilt EQ)] > CDWav 
+(tracking) > Trader's Little Helper (level 5) > FLAC > TagScanner 6.1.17 (tagging)
+Location:  On the rail on the floor, 7 meters right of DFC
+Recorded by:  toshi
+Mastered by:  Dennis Orr
+
+Setlist: (1:33:10)
+01 Intro Music (Amériques)
+02 Intro Jam >
+03 Can't Stop
+04 Scar Tissue
+05 Chat & Bass Noodling
+06 Here Ever After
+07 Pea
+08 Snow (Hey Oh)
+09 I Like Dirt
+10 Chat
+11 Wet Sand
+12 Eddie
+13 Chat
+14 Soul To Squeeze
+15 Chat
+16 Tell Me Baby
+17 Whatchu Thinkin'
+18 Californication
+19 Black Summer
+20 By The Way
+21 Encore Break
+- Encore -
+22 I Could Have Lied
+23 Give It Away
+24 Outro/Crowd
+
+Anthony Kiedis – lead vocals
+John Frusciante – guitars, backing vocals, & keyboards
+Flea (Michael Balzary) – bass, backing vocals, trumpet, & piano
+Chad Smith – drums & percussion
+
+RHCP2024-07-20t01.flac:540109570d56257afef838eced598b3a
+RHCP2024-07-20t02.flac:5dfe62572e75e78303b0d08b5bf87ba9
+RHCP2024-07-20t03.flac:b5c3525eeb4d53f7c156f0760c64ef01
+RHCP2024-07-20t04.flac:eb150219ba91fb5d368599803d65381c
+RHCP2024-07-20t05.flac:fc5f0de4171361ea6f5d33aef4cbcff1
+RHCP2024-07-20t06.flac:75e06204ae3c3180a54d845097f6b76d
+RHCP2024-07-20t07.flac:f9c67718e49e667af831b446fb67f02c
+RHCP2024-07-20t08.flac:d8d0a287f503396d765203df1c51c5fc
+RHCP2024-07-20t09.flac:f409f5ae099c376f129bd5e9a70a6a01
+RHCP2024-07-20t10.flac:0515d7c844371b4d4bfa1e96b34be6f0
+RHCP2024-07-20t11.flac:1424c672048ff68ea4e847b3d51b266b
+RHCP2024-07-20t12.flac:9342f67f20e459945e5a15f79f584e2f
+RHCP2024-07-20t13.flac:ef455414df0329ff1eea846385fc8def
+RHCP2024-07-20t14.flac:9382bcc3886f9f2e3a859f180fd8da1b
+RHCP2024-07-20t15.flac:b166e7081edc5b18e50d936bdc92da3d
+RHCP2024-07-20t16.flac:24802cd1da8f99d920514ea700b7a348
+RHCP2024-07-20t17.flac:c4e0b969515751b3a2f34d73de626453
+RHCP2024-07-20t18.flac:0e561653d289ba109a1c673151e1f11c
+RHCP2024-07-20t19.flac:608485799a178ad67ce11a9a2b04c3bc
+RHCP2024-07-20t20.flac:0c5c2741e4108afffccae33c17fcd55d
+RHCP2024-07-20t21.flac:2f9cb1425b1a309bfa8fb8554bf2b13d
+RHCP2024-07-20t22.flac:167b5544b04987afa8d418d4f866f512
+RHCP2024-07-20t23.flac:a1a38d17e42e2cb19ad9c9111723ed0c
+RHCP2024-07-20t24.flac:85ee64f2cb8374dd49e92d91d5d7ba30

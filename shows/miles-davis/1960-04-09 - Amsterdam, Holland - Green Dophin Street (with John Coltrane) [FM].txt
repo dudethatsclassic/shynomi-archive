@@ -1,0 +1,89 @@
+Miles Davis Quintet
+04-09-1960
+Kurhaus
+Scheveningen, The Netherlands
+
+Project ID - LL107
+
+Source: FM Recording
+Lineage: VARA radio broadcast > ?? > NPS Radio 4 on November 10, 2005 > ?? > wave > edited w/ unknown 
+programs (see below) > flac
+
+Miles Davis (tpt); John Coltrane (ts); Wynton Kelly (p); Paul Chambers (b); 
+Jimmy Cobb (d)
+
+disc 1
+
+d1t01. /Introduction
+d1t02. So What
+d1t03. On Green Dolphin Street
+d1t04. 'Round Midnight
+d1t05. Walkin'
+d1t06. The Theme
+d1t07. Closing announcement
+ 
+-------------------------------------------------------
+
+Notes:
+
+- d1t01 : Into is cut at the beginning. 
+
+- Editing performed according to original notes. de-crackled entire recording,
+removed/repaired several mimor dropouts, balanced channels (left +0.6 dB) to centre 
+stereo image, reduced gain of announcer (tracks 1 and 7) by 4dB, oosted gain of 
+track 5 bass solo by 2dB, boosted gain of track 5 bass solo by 2dB, added digital 
+silence lead-in (4s) and lead-out, quantized track markers for CD audio, no noise 
+reduction, nor frequency equalization
+
+- Very nice sound. The mix is nice. This version seems to run a little faster than the other sources.
+ This seems to be the overall best source for this show that I have found. This is however a rebroadcast of 
+the source that make up LL108, LL109, and LL110.
+
+- QC done by Bgreen
+
+md5
+15a1b5b62c26ced64240d9ede59c4efa *md1960-04-09.LL107.d1t01.flac
+4ba309d653ecb151560900f9d18ab19d *md1960-04-09.LL107.d1t02.flac
+448fd172641b126a74a348c394735c1b *md1960-04-09.LL107.d1t03.flac
+e93630456c524bd9aeeb4e66a7186bc0 *md1960-04-09.LL107.d1t04.flac
+a0f7cc1db87c4cd1b29043538f379d65 *md1960-04-09.LL107.d1t05.flac
+f18996a3b929ba76bfba0964588c45f9 *md1960-04-09.LL107.d1t06.flac
+432afd3479bfb240d0d9c21f1b7670ac *md1960-04-09.LL107.d1t07.flac
+
+ffp
+md1960-04-09.LL107.d1t01.flac:52947c49def9daa03224f652a5a7a0d1
+md1960-04-09.LL107.d1t02.flac:f4106a7e8f5531b0830b494ee91f8e77
+md1960-04-09.LL107.d1t03.flac:00f100289f4f31f9ac949ad5f7ddce34
+md1960-04-09.LL107.d1t04.flac:d491d3de7292fe35177e9ecd983704e9
+md1960-04-09.LL107.d1t05.flac:8429f816c3ac21da86cfb7d74e09d077
+md1960-04-09.LL107.d1t06.flac:cc4e10fd05f8197cecd738f7a5cf4666
+md1960-04-09.LL107.d1t07.flac:3d3b96593c780cdb439390373da39687
+
+shntool
+    length     expanded size   cdr  WAVE problems filename
+     0:31.28        5534300    ---   --   ---xx   md1960-04-09.LL107.d1t01.flac
+    17:18.18      183145580    ---   --   ---xx   md1960-04-09.LL107.d1t02.flac
+    12:36.72      133527788    ---   --   ---xx   md1960-04-09.LL107.d1t03.flac
+     5:56.65       62951324    ---   --   ---xx   md1960-04-09.LL107.d1t04.flac
+     9:26.54       99969452    ---   --   ---xx   md1960-04-09.LL107.d1t05.flac
+     0:46.36        8199116    ---   --   ---xx   md1960-04-09.LL107.d1t06.flac
+     0:21.27        3767948    ---   --   ---xx   md1960-04-09.LL107.d1t07.flac
+    46:58.00      497095508 B                     (totals for 7 files, 0.5110 overall compression ratio)
+
+spectral analysis from TLH
+md1960-04-09.LL107.d1t01.wav:  track looks like CDDA with probability 100%
+md1960-04-09.LL107.d1t02.wav:  track looks like CDDA with probability 99%
+md1960-04-09.LL107.d1t03.wav:  track looks like CDDA with probability 100%
+md1960-04-09.LL107.d1t04.wav:  track looks like CDDA with probability 99%
+md1960-04-09.LL107.d1t05.wav:  track looks like CDDA with probability 100%
+md1960-04-09.LL107.d1t06.wav:  track looks like CDDA with probability 99%
+md1960-04-09.LL107.d1t07.wav:  track looks like CDDA with probability 100%
+
+old ffp 
+Track 1 introduction.flac:52947c49def9daa03224f652a5a7a0d1
+Track 2 So What.flac:f4106a7e8f5531b0830b494ee91f8e77
+Track 3 On Green Dolphin Street.flac:00f100289f4f31f9ac949ad5f7ddce34
+Track 4 Round Midnight.flac:d491d3de7292fe35177e9ecd983704e9
+Track 5 Wlakin.flac:8429f816c3ac21da86cfb7d74e09d077
+Track 6 The Theme.flac:cc4e10fd05f8197cecd738f7a5cf4666
+Track 7 epilog.flac:3d3b96593c780cdb439390373da39687

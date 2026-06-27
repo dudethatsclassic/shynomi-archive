@@ -1,0 +1,38 @@
+Local H
+2025-10-16
+Charlotte, NC
+Neighborhood Theatre
+
+Tour: Sparkle and Fade 30th Anniversary
+Opening for Everclear (also taped)
+
+Taper: shynomi
+Lineage: Shure MV88 > Motiv Audio App > iPhone 13 Pro
+Transfer: .WAV (24/48) > Logic Pro 11.01 > Splits and Fades > xACT 2.57 > FLAC (Level 8)
+Edits: Beginning and End Fades, Waves L2 Limiter, Light EQ
+
+Location: Back of the room directly beside the left of the sound booth. Slightly elevated above crowd.
+
+Tracklist:
+
+1. High-Fivin MF
+2. Cynic
+3. Fritz's Corner
+4. Bag of Hammers
+5. Eddie Vedder
+6. Hands on the Bible (different drummer)
+7. California Songs
+8. President Forever
+9. Bound for the Floor (with TV Eye interlude)
+10. That's What They All Say
+
+01 High-Fivin' MF.flac:f923c0d2e2c10353724b288b5eb17ef7
+02 Cynic.flac:c705238c52574dd084cc733e9bf36f0e
+03 Fritz's Corner.flac:91b9f8fedb3f6fefe7edfdbd9ab694d8
+04 Bag of Hammers.flac:92050b23b3040e5ad07a4e6995e597bd
+05 Eddie Vedder.flac:bb92da9914074a6f43a4e8b7a28cbd61
+06 Hands On the Bible.flac:97116f4e1a77b83ad123b52f9de9e3cc
+07 California Songs.flac:8f6c8d182b84a6ac03ade7b7ee7ab340
+08 President Forever.flac:53a300bcfedddba40f3086eed6c05171
+09 Bound for the Floor.flac:b291ab95c9c7a62e0a058de269a553cf
+10 That's What They All Say.flac:0e2144aedef5b90f302296979ee7da28

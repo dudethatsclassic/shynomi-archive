@@ -1,0 +1,88 @@
+Benny Carter Orchestra (w/ Miles Davis)
+XX-XX-1946
+Unknown venue
+Los Angeles, California
+
+Project ID - LL77
+
+Source: FM Broadcast
+Lineage: Unknown radio broadcast > ?? > cd (Peter Losin's Archive) > 
+cd duplicated (burner to burner) > eac > flac (lvl 8)
+
+Miles Davis (tpt); Fred Trainer (tpt); Calvin Strickland (tpt); Walter Williams (tpt); 
+Ira Pettiford (tpt); Candy Ross (tb); Johnny Morris (tb); Al Grey (tb); 
+Charley Johnson (tb); Benny Carter (as, tpt); Bob Graettinger (ts); Joe Epps (ts); 
+Harold Clark (ts); Hubert "Bumps" Myers (ts); Willard Brown (ts); James Cannady (g); 
+Sonny White (p); Thomas Moultrie (b); Percy Brice (d); Ernie "Bubbles" Whitman (ann)
+
+disc 1
+
+d1t01. Introduction
+d1t02. Jump Call
+d1t03. Introduction
+d1t04. Just You, Just Me
+d1t05. Polishin' Brass
+ 
+-------------------------------------------------------
+
+Notes:
+
+- Exquisite recording. A real fine specimen. The sound is good, and the playing is better. 
+
+- "New Sound Planet/Jazz Up JU 327 also lists "I Can't Get Started" 
+(3:03) and "I Cover the Waterfront" (4:21) as including Davis, but I 
+don't hear him. On Jazz Door "Polishin' Brass" is listed as "Untitled 
+Original.""- Credit to Peter Losin, http://www.plosin.com
+
+- Thanks to Peter Losin for supplying this source. http://www.plosin.com
+
+- QC done by Bgreen
+
+md5
+32e6b49ba408d61571b59ac0879deda9 *md1946-XX-XX.fm.LL77.d1t01.flac
+9726268acd19ae43a1e815fef24e6d8f *md1946-XX-XX.fm.LL77.d1t02.flac
+efecad5338c7495df46e70c185f1e6f6 *md1946-XX-XX.fm.LL77.d1t03.flac
+9a37fa5b811e304188151dd9d7ad1f54 *md1946-XX-XX.fm.LL77.d1t04.flac
+5c669fe7c69b116e42789af2997c0a37 *md1946-XX-XX.fm.LL77.d1t05.flac
+
+ffp
+md1946-XX-XX.fm.LL77.d1t01.flac:81b1cee954d3f9d78816fcfb8ad06ab2
+md1946-XX-XX.fm.LL77.d1t02.flac:1e7c2c2f0d29a7683e5d0177ef0035e9
+md1946-XX-XX.fm.LL77.d1t03.flac:af5c58a7477749942feab04b9aee7d4d
+md1946-XX-XX.fm.LL77.d1t04.flac:886d38da2a56608f6506197015828b9f
+md1946-XX-XX.fm.LL77.d1t05.flac:22a8855b8ee88f543ea6e23e68aa4a2e
+
+st5 
+81b1cee954d3f9d78816fcfb8ad06ab2  [shntool]  md1946-XX-XX.fm.LL77.d1t01.flac
+1e7c2c2f0d29a7683e5d0177ef0035e9  [shntool]  md1946-XX-XX.fm.LL77.d1t02.flac
+af5c58a7477749942feab04b9aee7d4d  [shntool]  md1946-XX-XX.fm.LL77.d1t03.flac
+886d38da2a56608f6506197015828b9f  [shntool]  md1946-XX-XX.fm.LL77.d1t04.flac
+22a8855b8ee88f543ea6e23e68aa4a2e  [shntool]  md1946-XX-XX.fm.LL77.d1t05.flac
+
+shntool
+ length     expanded size   cdr  WAVE problems filename
+     0:04.01         707996    ---   --   ---xx   md1946-XX-XX.fm.LL77.d1t01.flac
+     3:35.74       38100092    ---   --   ---xx   md1946-XX-XX.fm.LL77.d1t02.flac
+     0:09.13        1618220    ---   --   ---xx   md1946-XX-XX.fm.LL77.d1t03.flac
+     4:22.00       46216844    ---   --   ---xx   md1946-XX-XX.fm.LL77.d1t04.flac
+     4:14.21       44855036    ---   --   ---xx   md1946-XX-XX.fm.LL77.d1t05.flac
+    12:25.34      131498188 B                     (totals for 5 files, 0.2604 overall compression ratio)
+
+spectral analysis from TLH
+md1946-XX-XX.fm.LL77.d1t01.wav:  track looks like MPEG with probability 100%
+md1946-XX-XX.fm.LL77.d1t02.wav:  track looks like CDDA with probability 100%
+md1946-XX-XX.fm.LL77.d1t03.wav:  track looks like CDDA with probability 100%
+md1946-XX-XX.fm.LL77.d1t04.wav:  track looks like CDDA with probability 87%
+md1946-XX-XX.fm.LL77.d1t05.wav:  track looks like CDDA with probability 100%
+
+old ffp 
+11 - Track11.flac:81b1cee954d3f9d78816fcfb8ad06ab2
+12 - Track12.flac:1e7c2c2f0d29a7683e5d0177ef0035e9
+13 - Track13.flac:af5c58a7477749942feab04b9aee7d4d
+14 - Track14.flac:886d38da2a56608f6506197015828b9f
+15 - Track15.flac:22a8855b8ee88f543ea6e23e68aa4a2e
+
+
+
+
+

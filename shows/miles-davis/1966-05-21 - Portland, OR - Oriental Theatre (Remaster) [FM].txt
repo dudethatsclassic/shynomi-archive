@@ -1,0 +1,59 @@
+Miles Davis        
+Oriental Theatre, Portland
+21 May 1966     
+
+Miles Davis (tp); Wayne Shorter (ts); Herbie Hancock (p); Richard Davis (b); Tony Williams (dr)	
+                   
+1. Introduction		  	 0:41
+2. Autumn Leaves 		10:12
+3. Agitation 		  	 9:43
+4. Stella by Starlight 		11:03
+5. Gingerbread Boy 		12:10
+6. No Blues	  		 9:54
+7. My funny Valentine		12:08
+8. All Blues 	  		 9:58
+9. Who Can I Turn To? 	  	 9:16
+10. So What 	  		 9:15
+11. The Theme 	  		 0:21
+
+Lineage: ??? > CD-R > EAC > FLAC > remastering > FLAC
+
+This is a significant recording since it is one of the very few concerts we have from 1966.
+Richard Davis is replacing Ron Carter. The show has been seeded already on Dime a number 
+of times, one version in remarkably good sound. The present version comes from a possibly
+earlier-generation tape, and after remastering, the sound is as good as it gets. Enjoy.
+
+
+Notes on the remastering
+========================
+
+I had three sources to choose from:
+1. The version seeded several times on Dime, first upped by jazzcdburner in 2005 (#31895) and
+   pitch-corrected by flambay (#326580). Remarkably good sound (A/A-)
+2. A version seeded also on Dime (#605497), ripped from the Bootleg CD Sunburn 9339880. 
+   Much poorer sound (B)
+3. A version I received on CD-R in a trade in the early 2000s. Soundwise indistinguishable
+   from the first version to my ears, but it seemed to have a bit more dynamic range. Clearly
+   a different equalization when viewed with an audio editor (small differences, though).
+   Plus, it had "My funny Valentine" in the right place, as conjectured on Peter Losin's site,
+   with a seamless transition to "All Blues". So possibly a bit earlier in the chain than the 
+   first version. 
+
+I chose this last version for the remastering. One goal was to retain the remarkable clarity 
+with which Tony Williams' cymbals were recorded.
+
+- Adjusted the pitch trackwise to the version seeded by flambay, so this should be hopefully correct.
+- Removed a lot of clicks and glitches.
+- With Har-Bal, I changed the overall equalization so that it resembles the Plugged Nickel recordings
+  from a year earlier. Slightly diminished the bass drum, which was too dominant. 
+- Used Izotope Ozone 11 Advanced and Neutron 10 and let them do their magic with respect to clarity, impact, stabilization.
+- Made a stem separation with Acoustica to rebalance the instruments. Piano and bass were too soft, drums too loud.
+- Used the stem separation to pan the instruments, moved the piano a bit to the left, drums a bit 
+  to the right, generating a stereo effect that sounds natural to my ears.
+- Diminished the noise floor by 3 dB.
+- Repaired Miles' frequent overblowing of the microphone with RX 10's De-plosive module.
+
+"So what" is a thing in itself. Tony Williams hits his drums so hard you can barely hear the other instruments.
+I had to attenuate the drums by a full 6 dB to create a listenable version. I have included the unattenuated
+version (So what.alternative) but "commented it out". If you want to listen to it, rename the file 
+extension from flac_ to flac.

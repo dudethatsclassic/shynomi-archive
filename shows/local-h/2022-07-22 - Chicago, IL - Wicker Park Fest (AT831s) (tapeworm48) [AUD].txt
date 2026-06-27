@@ -1,0 +1,40 @@
+Local H
+Wicker Park Fest: Chicago, IL
+July 22, 2022
+
+Source: AT831s > SP-SPSB-11 (@69Hz) > Sony PCM-M10 @ 24-bit / 44.1kHz
+Location: FOS Left
+Transfer: SD Card > Audacity > xACT 2.50
+Edits/EQ: +2dB
+Taper: tapeworm(48) 
+
+Setlist:
+
+01. Intro
+02. Hold That Thought
+03. City of Knives
+04. Bound For The Floor / (TV Eye [The Stooges])
+05. Buffalo Trace
+06. Hands on the Bible
+07. California Songs
+08. Sunday Best
+09. Defy and Surrender
+10. All-Right (Oh, Yeah)
+11. All The Kids Are Right
+12. Fritz's Corner
+13. Heavy Metal Bakesale
+14. -encore break-
+15. Static Age [The Misfits]
+16. HFMF / (Helter Skelter [The Beatles])
+17. Wolf Like Me [TV on the Radio]
+
+Notes: Headlining on the 1st of 3 nights at the Wicker Park Fest at 8:30pm. M10 set at 3. 
+Raw transfer with no fades or EQ.
+
+Archive: Master WAV was archived @ 24-bit/44.1kHz and FLAC'd with cue sheet. 
+
+Taped and transferred by tapeworm(48) 
+Txt file compiled on 7/23/2022 
+
+*** DO NOT REMASTER WITHOUT PERMISSION. DO NOT DISTRIBUTE IN LOSSY FORMATS. DO NOT SELL THIS 
+RECORDING, TRADE IT FREELY *** 

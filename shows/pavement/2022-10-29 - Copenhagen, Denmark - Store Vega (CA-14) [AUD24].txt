@@ -1,0 +1,37 @@
+Pavement
+Copenhagen Store Vega, DK
+2022-10-29
+
+Source: ca14->ca9100->sony pcm-m10 -> wav (48 khz/24 bit)
+Transfer: sony pcm-m10->hd->cep->cdwav (44,1 khz/16 bit)->flac
+
+01. Intro
+02. Date w/ IKEA
+03. Shady Lane
+04. The Hexx
+05. Cut Your Hair
+06. Starlings of the Slipstream
+07. Gold Soundz
+08. Silence Kit
+09. Black Out
+10. Summer Babe
+11. Here
+12. Kennel District
+13. Grounded
+14. Embassy Row
+15. Shoot the Singer (1 Sick Verse)
+16. Two States
+17. Type Slowly
+18. Angel Carver Blues / Mellow Jazz Docent
+19. Fight This Generation
+20. Zurich Is Stained
+21. Feed 'em to the (Linden) Lions
+22. Father to a Sister of Thought
+23. Stereo
+---
+24. - Band presentation - 
+25. Fin
+26. Harness Your Hopes
+27. Unfair
+28. Folk Jam
+29. Range Life

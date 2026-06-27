@@ -1,0 +1,66 @@
+Billy Corgan
+May 13th 2016
+Madame Zuzu's
+Highland Park, IL, US
+
+SOURCE (AUD#1):
+Internal Mics > SLR Camera
+
+GENERATION:
+WAV(M) > FLAC
+
+TRANSFER:
+SLR Camera > PC (WAV)
+
+LENGTH:
+64:03
+
+SETLIST:
+01. Red Dirt
+02. Knockin' on Heaven's Door [Bob Dylan]
+03. Spaceboy
+04. Who Loves the Sun [Velvet Underground]*
+05. Snail
+06. Space Oddity [David Bowie]
+07. Stumbleine
+08. A Song for a Son
+09. Tom Tom
+10. Angie [Rolling Stones]
+11. Anti-Hero
+12. The Spaniards
+13. Being Beige
+14. Jesus, I [Lyte] > Mary Star of the Sea
+15. Double R
+
+*Not recorded
+
+NOTES:
+Billy Corgan and Jeff Schroeder 'In Plainsong' acoustic show at Madame Zuzu's
+
+A massive thank you to our taper Kyle Spaceboye for sending over the files for release
+
+MD5 FINGERPRINTS:
+1a5520da0e589533efc195fcd3388222 *Billy Corgan 2016-05-13 AUD1 t01 Red Dirt.flac
+659eedee6f0f5d875bb3b895b5d1a7ed *Billy Corgan 2016-05-13 AUD1 t02 Knockin' On Heaven's Door [Dylan].flac
+5f596a25f8a934bb6778f4d372611cb5 *Billy Corgan 2016-05-13 AUD1 t03 Spaceboy.flac
+7f4aa18a2e2883e94f240bfa5be6c9c1 *Billy Corgan 2016-05-13 AUD1 t04 Snail.flac
+dfb194c0be3209de91f66683c25bb172 *Billy Corgan 2016-05-13 AUD1 t05 Space Oddity [Bowie].flac
+52089a6f1411c40906112f7fe0d8cdb2 *Billy Corgan 2016-05-13 AUD1 t06 Stumbleine.flac
+8f1be1a384f057adb43d27da76b8a348 *Billy Corgan 2016-05-13 AUD1 t07 A Song for a Son.flac
+ba50120f126b91e321c33f818f24f841 *Billy Corgan 2016-05-13 AUD1 t08 Tom Tom.flac
+9cb54de98510447dca8f98fdb9a2ed00 *Billy Corgan 2016-05-13 AUD1 t09 Angie [Rolling Stones].flac
+e62beeeaab492f17bc5a84e7d5f6fdd3 *Billy Corgan 2016-05-13 AUD1 t10 Anti-Hero.flac
+725c9136ab80c03445cea92c0b43d225 *Billy Corgan 2016-05-13 AUD1 t11 The Spaniards.flac
+9efe0679ec0f55061cc73d42b1068ca5 *Billy Corgan 2016-05-13 AUD1 t12 Being Beige.flac
+9c7b07e4cd0716b1ccec7e055cd1c3e5 *Billy Corgan 2016-05-13 AUD1 t13 Jesus I [Lyte] Mary Star of the Sea.flac
+3e399088c491560a93b82590c975c623 *Billy Corgan 2016-05-13 AUD1 t14 Double R.flac
+
+RECORDED BY:
+Kyle Spaceboye
+
+TRANSFER BY:
+Kyle Spaceboye
+
+DISTRIBUTION:
+Spaldz, Nicholas Serra, & Members of SPLRA
+2023-01-25

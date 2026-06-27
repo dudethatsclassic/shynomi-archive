@@ -1,0 +1,318 @@
+William Patrick Corgan  
+2017-10-01 - 
+Schwuz, Berlin, Germany  
+VGRM396  
+
+1. Zowie **#
+2. Processional #
+3. The Spaniards
+4. Aeronaut **
+--The Long Goodbye #--not broadcast!!
+5. Half-Life Of An Autodidact #
+6. Mandarynne **#
+7. Antietam #
+--If I Were a Carpenter--not broadcast!!
+8. To Sheila
+9. Disarm
+10. Muzzle
+11. Drum + Fife **
+12. Try, Try, Try **
+--Wish You Were Here--not broadcast!!
+13. Tonight, Tonight
+14.E: Today
+15.    Cherry
+
+#=live debut
+
+   cover tunes & their corresponding artists (all tunes by Billy Corgan or the Smashing Pumpkins except those below):  
+"if i were a carpenter" - Tim Hardin
+"wish you were here" - Pink Floyd
+
+William Patrick Corgan - acoustic guitar, harmonica, vox, **=piano
+
+Source_     TV-Arte
+Device_     SPL Crimson (SPDIF)  
+Taper_      karstenausNDH 
+Rec-Mode_   WAV 16bit-44.1kHZ 
+EQ_ 400Hz (-1) 500Hz (-2,5) 630Hz (-1)
+SPL_ Vitalizer_bass (7h) comp (0) mid (14) proc (8) // lc-eq (16) int (8) // st-ex (10) out (-2)
+Mastering_ hall (0) exc (4) br (0) beg (0) out (-1) // spEQ 16kHz_15db_0,5Q (+2,5)
+normalization to -0,1db 
+track formation and conversion to FLAC with Audition CS6
+--plus--dc offset, Balance, PD&Norm, channels properly flipped (so 'piano lo' is 
+in left & 'piano hi' is in right), fades, RT, info research by vanillag--3/2018.  
+
+note:  only 3 songs missing from this broadcast (not bad!!)
+
+Special thanks to karstenausNDH for the upload of this show & the quality work put into it to begin with.  Great job!!  
+
+ffp:  
+williampatrickcorgan_2017-10-01.sbd.eurotv.vgrm396_d1t01.flac:b44bff83a0222a82c2733eedb06ba907
+williampatrickcorgan_2017-10-01.sbd.eurotv.vgrm396_d1t02.flac:9e39cf18f4f344ced1ef375e4de6558a
+williampatrickcorgan_2017-10-01.sbd.eurotv.vgrm396_d1t03.flac:c5a9d9fd70658f8292c52c8554a65067
+williampatrickcorgan_2017-10-01.sbd.eurotv.vgrm396_d1t04.flac:d777ac2a98dcca272e2ba8a5208fa4a7
+williampatrickcorgan_2017-10-01.sbd.eurotv.vgrm396_d1t05.flac:fbf4ef80e864912165c162536d24deda
+williampatrickcorgan_2017-10-01.sbd.eurotv.vgrm396_d1t06.flac:bfbcd487e9cf3c863c72581205b0193f
+williampatrickcorgan_2017-10-01.sbd.eurotv.vgrm396_d1t07.flac:269fe66105cb51a91edc9e3853ddc19d
+williampatrickcorgan_2017-10-01.sbd.eurotv.vgrm396_d1t08.flac:83caa56ba21e4f00cd50f9fc3e47dd38
+williampatrickcorgan_2017-10-01.sbd.eurotv.vgrm396_d1t09.flac:7001bfafa557bd6d56be34427f1931e4
+williampatrickcorgan_2017-10-01.sbd.eurotv.vgrm396_d1t10.flac:5023851719dd9b74e7df9f2d9947b746
+williampatrickcorgan_2017-10-01.sbd.eurotv.vgrm396_d1t11.flac:c5426f579da3a578183b3d4686cadd6a
+williampatrickcorgan_2017-10-01.sbd.eurotv.vgrm396_d1t12.flac:5390ba69b440d54a617ae7ff32e2b6b7
+williampatrickcorgan_2017-10-01.sbd.eurotv.vgrm396_d1t13.flac:6ad055823c61a6b0f34a13305a42ea24
+williampatrickcorgan_2017-10-01.sbd.eurotv.vgrm396_d1t14.flac:891cc09a644eb2ea6853ad902ac0b1ee
+williampatrickcorgan_2017-10-01.sbd.eurotv.vgrm396_d1t15.flac:93a165f630a70e5c4d2df446b05b5820
+
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+ORIGINAL NOTES:  
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+x>>>>>>>>>>>>>>>>>> 2017-10-01 William Patrick Corgan Berlin SchwuZ <<<<<<<<<<<<<<<<<<<<<<<<<<x 
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+
+Artist_     William Patrick Corgan 
+City_       Berlin (Germany) 
+Stage_      SchwuZ
+Date_       2017-10-01
+Source_     TV-Arte
+Device_     SPL Crimson (SPDIF)  
+Taper_      karstenausNDH 
+Rec-Mode_   WAV 16bit-44.1kHZ 
+________________________________________________________________________________________________
+
+EQ_ 400Hz (-1) 500Hz (-2,5) 630Hz (-1)
+SPL_ Vitalizer_bass (7h) comp (0) mid (14) proc (8) // lc-eq (16) int (8) // st-ex (10) out (-2)
+Mastering_ hall (0) exc (4) br (0) beg (0) out (-1) // spEQ 16kHz_15db_0,5Q (+2,5)
+normalization to -0,1db 
+track formation and conversion to FLAC 
+with Audition CS6,  
+
+________________________________________________________________________________________________
+
+01 Zowie 
+02 Processional 
+03 The Spaniards 
+04 Aeronaut 
+05 Half-Life Of An Autodidact 
+06 Mandarynne 
+07 Antietam 
+08 To Sheila (The Smashing Pumpkins song) 
+09 Disarm (The Smashing Pumpkins song) 
+10 Muzzle (The Smashing Pumpkins song) 
+11 Drum + Fife (The Smashing Pumpkins song) 
+12 Try, Try, Try (The Smashing Pumpkins song) 
+13 Tonight, Tonight 
+14 Today (The Smashing Pumpkins song) 
+15 Cherry (The Smashing Pumpkins song)  
+_________________________________________________________________________________________________
+
+Bitte unterstützt die Künstler! Kauft ihre CD/LP und geht zu ihren Konzerten!
+PLEASE - support the artists! Buy their CDs and go to their shows! 
+Please support the artists! Buy her CD / LP and go to her concerts! 
+PLEASE - support the artists! Buy their CDs and go to their shows!   
+_________________________________________________________________________________________________
+Achtung! Dies ist eine private Aufnahme,Erinnerung an einen
+Abend der mit Worten nicht zu beschreiben ist,
+nicht bestimmt für den kommerziellen Weitervertrieb.
+Bitte aus Respekt für die Mühe der Künstler und Eurer
+Ohren nicht in das Format MP3 umwandeln.  
+
+Attention! This is a private recording, a reminder of an 
+evening that can not be described in words, 
+not intended for commercial redistribution. 
+Please do not convert to MP3 format out of respect for the effort of the artists and your ears. 
+_______________________________________________________________________________________________ 
+This is a private recording, 
+souvenir of an evening which can not be described with words, 
+not meant for any commercial re-distribution. 
+Please, out of respect for the artist 
+and your ears do not convert to .mp3.
+_________________________________________________________________________________________________
+Info Veranstalter
+Info organizer
+http://www.schwuz.de/
+_________________________________________________________________________________________________
+Info Künstler 
+http://ogilala.com/
+https://de.wikipedia.org/wiki/Billy_Corgan
+https://www.musikexpress.de/william-patrick-corgan-heisst-jetzt-wieder-billy-corgan-969359/
+_________________________________________________________________________________________________ 
+Info. 
+Mitschnitt vom Konzert 2011-10-04.Glen Hansard.Berlin_Festsaal_Kreuzberg 
+ http://www.dimeadozen.org/torrents-details.php?id=387071 
+        Mitschnitt vom Konzert 2011-10-04.Mark Geary.Berlin_Festsaal_Kreuzberg 
+        http://www.dimeadozen.org/torrents-details.php?id=386972 
+Mitschnitt vom Konzert 2011-10-25.Kat Frankie_Erfurt_Museumskeller 
+ http://www.dimeadozen.org/torrents-details.php?id=386978 
+        Mitschnitt vom Konzert 2012-01-23.Walkabouts_Berlin-Germany_Lido 
+        http://www.dimeadozen.org/torrents-details.php?id=391880 
+Mitschnitt vom Konzert 2012-03-12.Kat Frankie Francesco Wilking_Leipzig_Werk 2 
+ http://www.dimeadozen.org/torrents-details.php?returnto=%2Faccount-cp.php&id=398008 
+        Mitschnitt vom Konzert 2012-03-23.Stefan Krawczyk_Nordhausen_Tabakspeicher 
+        http://www.dimeadozen.org/torrents-details.php?returnto=%2Faccount-cp.php&id=398653 
+Mitschnitt vom Konzert 2012-04-28.Tobias Preisig_Nordhausen_Cyriaci-Kapelle 
+ http://www.dimeadozen.org/torrents-details.php?id=404420 
+        Mitschnitt vom Konzert 2012-05-03.Lisa Hannigan.Berlin-Germany_BiNuu 
+        http://www.dimeadozen.org/torrents-details.php?id=404531 
+Mitschnitt vom Konzert 2012-08-20.Alphaville Nordhausen-Germany_Petersberg 
+ http://www.dimeadozen.org/torrents-details.php?id=417354 
+        Mitschnitt vom Konzert 2012-08-19.Roger Chapman Nordhausen-Germany_Petersberg 
+        http://www.dimeadozen.org/torrents-details.php?id=418053 
+Mitschnitt vom Konzert 2012-08-31.Ralf Weihrauch.Nordhausen_DaCapo 
+ http://www.dimeadozen.org/torrents-details.php?id=418768 
+        Mitschnitt vom Konzert 2012-09-07.Cobario Nordhausen-Germany_Meyenburgcafe 
+        http://www.dimeadozen.org/torrents-details.php?id=419678 
+Mitschnitt vom Konzert 2012-09-08.Keimzeit Akustik Quartett Nordhausen-St.Blasii Kirche 
+ http://www.dimeadozen.org/torrents-details.php?id=420033 
+        Mitschnitt vom Konzert 2012-10-13 DZIUKs KÜCHE Friedrichsrode Kunsthof 
+        http://www.dimeadozen.org/torrents-details.php?id=424552 
+Mitschnitt vom Konzert 2012-11-10 Kat Frankie Magdeburg Kulturzentrum Moritzhof 
+ http://www.dimeadozen.org/torrents-details.php?id=427931 
+        Mitschnitt vom Konzert 2012-12-08 Bet Williams Sondershausen Carl-Schroeder-Saal 
+        http://www.dimeadozen.org/torrents-details.php?id=434217 
+Mitschnitt vom Konzert 2012-12-13 Glen Hansard/Nina Hynes Berlin Apostel Paulus Kirche 
+ http://www.dimeadozen.org/torrents-details.php?id=432969 
+        Mitschnitt vom Konzert 2013-01-12 Falk Zenker Nordhausen altes Wasserwerk 
+        http://www.dimeadozen.org/torrents-details.php?id=436252 
+Mitschnitt vom Konzert 2013-03-26 Glen Hansard-Frames/Lisa Hannigan Sydney Opera House 
+ http://www.dimeadozen.org/torrents-details.php?id=446306 
+        Mitschnitt vom Konzert Glen Hansard 2013-08-14 Jena (Germany) Kulturarena 
+        http://www.dimeadozen.org/torrents-details.php?id=462345 
+Mitschnitt vom Konzert 2013-10-20 Rusconi Nordhausen (Germany) Cyriaci-Kapelle_Matrix 
+ http://www.dimeadozen.org/torrents-details.php?id=470210 
+        Mitschnitt vom Konzert 2013-11-27 Klaus Lage Nordhausen Theater 
+        http://www.dimeadozen.org/torrents-details.php?id=474195 
+Mitschnitt vom Konzert 2013-12-19 Kat Frankie Leipzig Schauspiel 
+ http://www.dimeadozen.org/torrents-details.php?id=476716 
+        Mitschnitt vom Konzert 2014-01-11 Euphoryon Nordhausen Altes Wasserwerk 
+        http://www.dimeadozen.org/torrents-details.php?id=479976 
+Mitschnitt vom Konzert 2014-05-17 AGUAS Nordhausen Kulturhaus Meyenburg 
+ http://www.dimeadozen.org/torrents-details.php?id=492652 
+        Mitschnitt vom Konzert 2014-05-22 Chris Eckman Leipzig Werk2 
+        http://www.dimeadozen.org/torrents-details.php?id=493852 
+Mitschnitt vom Konzert 2014-10-10 Tim O´Shea Nordhausen Tabakspeicher 
+ http://www.dimeadozen.org/torrents-details.php?id=507258 
+        Mitschnitt vom Konzert 2014-10-31 Damien Rice Berlin Admiralspalast 
+        http://www.dimeadozen.org/torrents-details.php?id=510467 
+Mitschnitt vom Konzert 2014-11-12 Marketa Irglova Berlin Frannz Club 
+ http://www.dimeadozen.org/torrents-details.php?id=511433 
+        Mitschnitt vom Konzert 2015-01-10 City Unplugged Nordhausen Theater 
+        http://www.dimeadozen.org/torrents-details.php?id=518542 
+Mitschnitt vom Konzert 2015-03-21 Rusconi und Egopusher Nordhausen Cyriaci-Kapelle 
+ http://www.dimeadozen.org/torrents-details.php?id=523161 
+        Mitschnitt vom Konzert 2015-07-10 Udo Lindenberg Hannover HDI Arena 
+        http://www.dimeadozen.org/torrents-details.php?id=533866 
+Mitschnitt vom Konzert 2016-04-02 Glen Hansard Imagining Home National Concert Hall Dublin 
+ http://www.dimeadozen.org/torrents-details.php?id=557828
+        Mitschnitt vom Konzert 2016-07-10 Glen Hansard Rudolstadt TFF Audiorecording from ArteConcert
+        http://www.dimeadozen.org/torrents-details.php?returnto=%2Faccount-cp.php&id=566272
+Mitschnitt vom Konzert 2017-03-19 David Munyon Lochwitz Weidengrund
+ http://www.dimeadozen.org/torrents-details.php?id=587760 
+        Mitschnitt vom Konzert 2017-05-19 Joseph Parsons Doghouse Roses Bad Frankenhausen Panorama-Museum
+        http://www.dimeadozen.org/torrents-details.php?id=593841
+Mitschnitt vom Konzert 2017-05-28 The Fugitives Lochwitz Weidengrund
+ http://www.dimeadozen.org/torrents-details.php?id=594535
+        Mitschnitt vom Konzert 2017-07-30 Lüül & Band Lochwitz Weidengrund
+        http://www.dimeadozen.org/torrents-details.php?id=599434
+Mitschnitt vom Konzert 2017-09-17 The Sisters of Mercy/MEMbRANES Dresden Alter Schlachthof 
+ http://www.dimeadozen.org/torrents-details.php?id=601563 
+        Mitschnitt vom Konzert 2017-09-30 Doghouse Roses Friedrichsrode Kunststall 
+        http://www.dimeadozen.org/torrents-details.php?id=607279 
+Mitschnitt vom Konzert The 4 Of Us 2017-10-29 Lochwitz Weidengrund 
+ http://www.dimeadozen.org/torrents-details.php?id=608785 
+        Mitschnitt vom Konzert Madioson Violet (Support THE 4 OF US) 2017-10-29 Lochwitz Weidengrund
+        http://www.dimeadozen.org/torrents-details.php?id=610808
+Mitschnitt vom Konzert The National 2017-09-16 Cork (Republic of Ireland) Opera House
+ http://www.dimeadozen.org/torrents-details.php?id=612607
+        Mitschnitt vom Konzert Lisa Hannigan 2017-09-17 Cork (Republic of Ireland) Opera House
+        http://www.dimeadozen.org/torrents-details.php?id=612683  
+
+Info. 
+Recording of the concert 2011-10-04.Glen Hansard.Berlin_Festsaal_Kreuzberg 
+http://www.dimeadozen.org/torrents-details.php?id=387071 
+recording of the concert 2011-10-04.Mark Geary.Berlin_Festsaal_Kreuzberg 
+http: // www .dimeadozen.org / torrents-details.php? id = 386972 
+Recording from the concert 2011-10-25.Kat Frankie_Erfurt_Museumskeller 
+http://www.dimeadozen.org/torrents-details.php?id=386978 
+Recording of the concert 2012-01-23.Walkabouts_Berlin-Germany_Lido 
+http://www.dimeadozen.org/torrents-details.php?id=391880 
+Recording from the concert 2012-03-12.Kat Frankie Francesco Wilking_Leipzig_Werk 2 
+http: // www .dimeadozen.org / torrents-details.php? returnto =% 2Faccount-cp.php & id = 398008 
+Recording from the concert 2012-03-23.Stefan Krawczyk_Nordhausen_Tabakspeicher 
+http://www.dimeadozen.org/torrents-details.php?returnto= % 2Faccount-cp.php & id = 398653 
+Recording from the concert 2012-04-28.Tobias Preisig_Nordhausen_Cyriaci-Kapelle 
+http://www.dimeadozen.org/torrents-details.php?id=404420 
+Recording from the concert 2012-05-03.Lisa Hannigan.Berlin-Germany_BiNuu 
+http://www.dimeadozen.org/torrents-details.php?id=404531 
+Recording from the concert 2012-08-20.Alphaville Nordhausen-Germany_Petersberg 
+http://www.dimeadozen.org/torrents-details.php?id= 417354 
+recording of the concert 2012-08-19.Roger Chapman Nordhausen Germany_Petersberg 
+http://www.dimeadozen.org/torrents-details.php?id=418053 
+recording of the concert 2012-08-31.Ralf Weihrauch.Nordhausen_DaCapo 
+http: / /www.dimeadozen.org/torrents-details.php?id=418768 
+Recording from the concert 2012-09-07.Cobario Nordhausen-Germany_Meyenburgcafe 
+http://www.dimeadozen.org/torrents-details.php?id=419678 
+Recording from the Concert 2012-09-08.Keimzeit Acoustic quartet Nordhausen-St.Blasii church 
+http://www.dimeadozen.org/torrents-details.php?id=420033 
+Recording from the concert 2012-10-13 DZIUKs KÜCHE Friedrichsrode Kunsthof 
+http://www.dimeadozen.org/torrents-details.php?id=424552 
+Recording of the concert 2012-11-10 Kat Frankie Magdeburg Cultural Center Moritzhof 
+http://www.dimeadozen.org/torrents-details.php?id=427931 
+Recording from the concert 2012-12-08 Bet Williams Sondershausen Carl-Schroeder-Saal 
+http: //www.dimeadozen.org/torrents-details.php?id=427931 //www.dimeadozen.org/torrents-details.php?id=434217 
+Recording from the concert 2012-12-13 Glen Hansard / Nina Hynes Berlin Apostle Paulus Church 
+http://www.dimeadozen.org/torrents-details.php? id = 432969 
+Recording from the concert 2013-01-12 Falk Zenker Nordhausen old waterworks 
+http://www.dimeadozen.org/torrents-details.php?id=436252 
+Recording from the concert 2013-03-26 Glen Hansard-Frames / Lisa Hannigan Sydney Opera House 
+http://www.dimeadozen.org/torrents-details.php?id=446306 
+Recording of the concert Glen Hansard 2013-08-14 Jena (Germany) Kulturarena 
+http://www.dimeadozen.org/torrents-details.php? id = 462345 
+Recording from the concert 2013-10-20 Rusconi Nordhausen (Germany) Cyriaci-Kapelle_Matrix 
+http://www.dimeadozen.org/torrents-details.php?id=470210 
+Recording from the concert 2013-11-27 Klaus Lage Nordhausen Theater 
+http://www.dimeadozen.org/torrents-details.php?id=474195 
+Recording from the concert 2013-12-19 Kat Frankie Leipzig Acting 
+http://www.dimeadozen.org/torrents-details.php?id=476716 
+Recording from the concert 2014-01-11 Euphoryon Nordhausen Altes Wasserwerk 
+http: //www.dimeadozen .org / torrents-details.php? id = 479976 
+Recording from the concert 2014-05-17 AGUAS Nordhausen Kulturhaus Meyenburg 
+http://www.dimeadozen.org/torrents-details.php?id=492652 
+Recording from the concert 2014-05- 22 Chris Eckman Leipzig Werk2 
+http://www.dimeadozen.org/torrents-details.php?id=493852 
+Recording from the concert 2014-10-10 Tim O'Shea Nordhausen Tabakspeicher 
+http://www.dimeadozen.org/torrents- details.php? id = 507258 
+Recording of the concert 2014-10-31 Damien Rice Berlin Admiralspalast 
+http://www.dimeadozen.org/torrents-details.php?id=510467 
+Recording of the concert 2014-11-12 Marketa Irglova Berlin Frannz Club 
+http: // www. dimeadozen.org/torrents-details.php?id=511433 
+Recording from the concert 2015-01-10 City Unplugged Nordhausen Theater 
+http://www.dimeadozen.org/torrents-details.php?id=518542 
+Recording from the concert 2015-03 -21 Rusconi and Egopusher Nordhausen Cyriaci Chapel 
+http://www.dimeadozen.org/torrents-details.php?id=523161 
+Recording from the concert 2015-07-10 Udo Lindenberg Hannover HDI Arena 
+http://www.dimeadozen.org /torrents-details.php?id=533866 
+Recording from the concert 2016-04-02 Glen Hansard Imagining Home National Concert Hall Dublin 
+http://www.dimeadozen.org/torrents-details.php?id=557828 
+Recording from the concert 2016-07-10 Glen Hansard Rudolstadt TFF Audiorecording from ArteConcert 
+http://www.dimeadozen.org/torrents-details.php?returnto=%2Faccount-cp.php&id=566272 
+Recording from the concert 2017-03-19 David Munyon Lochwitz Weidengrund 
+http://www.dimeadozen.org/torrents- details.php? id = 587760 
+Recording from the concert 2017-05-19 Joseph Parsons Doghouse Roses Bad Frankenhausen Panorama Museum 
+http://www.dimeadozen.org/torrents-details.php?id=593841 
+Recording from the concert 2017-05- 28 The Fugitives Lochwitz Weidengrund 
+http://www.dimeadozen.org/torrents-details.php?id=594535 
+Recording from the concert 2017-07-30 Lüül & Band Lochwitz Weidengrund 
+http://www.dimeadozen.org/torrents-details.php?id= 599434 
+recording of the concert 2017-09-17 the Sisters of Mercy / Membranes Dresden Alter Schlachthof 
+http://www.dimeadozen.org/torrents-details.php?id=601563 
+recording of the concert 2017-09-30 Doghouse Roses Friedrichsrode Art stall 
+http : //www.dimeadozen.org/torrents-details.php? id = 607279 
+Recording from the concert The 4 Of Us 2017-10-29 Lochwitz Weidengrund 
+http://www.dimeadozen.org/torrents-details.php?id= 608785 
+Recording from the concert Madioson Violet (Support THE 4 OF US) 2017-10-29 Lochwitz Weidengrund 
+http://www.dimeadozen.org/torrents-details.php?id=610808 
+Recording from the concert The National 2017-09-16 Cork (Republic of Ireland) Opera House 
+http://www.dimeadozen.org/torrents-details .php? id = 612607 
+Recording from the concert Lisa Hannigan 2017-09-17 Cork (Republic of Ireland) Opera House 
+http://www.dimeadozen.org/torrents-details.php?id=612683   

@@ -1,0 +1,36 @@
+A Perfect Circle
+July 25th, 2011
+Comerica Theatre
+Phoenix, AZ, USA
+
+source: dpa4061s > MMA6000 > Microtracker 24/96 (@24/48)
+transfer: MT > USB > PC > CEP2000 (>16/44.1) > CD Wave Editor > TLC > FLAC
+taper: geordy
+location: left of center, maybe 20 rows back from stage
+
+--. Intro
+--. Annihilation
+--. Imagine
+--. Weak & Powerless
+01. The Hollow (incomplete and 'distant')
+02. What's Goin On
+03. People are People
+04. The Outsider
+05. Rose
+06. (What's so Funny 'bout) Peace, Love and Understanding
+07. When the Levee Breaks
+08. The Noose
+09. 3 Libras (All Main Courses Mix)
+10. The Package
+11. Gimmie, Gimmie, Gimmie
+12. Magdalena
+13. Passive
+14. Counting Bodies Like Sheep to the Rhythm of the War Drum
+15. Fiddle and Drum
+16. By & Down
+
+notes:  I joked with someone that I would be happy if I could skip the first 3 songs at these shows.  Everyone I talked to said the opener went on stage at the time shown on their tickets with APC going on an hour after that.  Tickets said 8, we get to the venue at 8:30 and APC was just starting their set.  Can't be too mad, I got what I asked for ;)  Pretty sure APC went on at 9 each night after that.  So the recording starts with the end of the Hollow which has a distant sound to it, then gradually gets to 'normal' as I walk to my seat during the beginning of What's Goin On.
+
+A group of females in the row behind us talked throughout the entire set.  The highlight was one yelling "Play A Perfect Circle song, douchebag", the band starts playing The Noose, and she says to her friend "This one?" and the friend says "No."  You can hear them between songs but they get drowned out while the band is playing.  
+
+I forgot to bring my 1/8" > 1/4" adapter so I used the 1/8" input on my MT.  Unfortunately, this meant that with my levels turned all the way down, I still got some clipping during the loudest parts of this run of shows I taped.  I didn't realize this until after the LA show, which is probably the worst of the 3 dpa>MT recordings I did.  The last night I ran dpa>m1 but it has issues all of it's own.  Phoenix sounds ok on crappy speakers but gets a little annoying listening on headphones.  I debate releasing all of these, but until other sources from these shows pop up, I'm sure there are a few people out there that will enjoy listening to these.

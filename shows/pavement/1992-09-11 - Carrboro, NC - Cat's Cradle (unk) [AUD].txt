@@ -1,0 +1,65 @@
+Pavement
+
+
+Cat's Cradle
+Carrboro, NC
+September 11, 1992
+
+
+Source:  Unknown AUD > ??? > CDR(x)
+Transfer:  CDR(x) > EAC > SHN > FLAC
+Transfer by Terry Watts
+
+
+1. Kentucky Cocktail
+2. Perfume-V
+3. Fame Throwa
+4. Range Life
+5. Home
+6. Spizzle Trunk
+7. Summer Babe
+8. Zurich is Stained
+9. Angel Carver/Mellow Jazz Docent
+10. Two States
+11. Trigger Cut
+12. Feed 'em to the Lions (Linden)
+13. Sound
+14. Secret Knowledge of Backroads
+15. In the Mouth a Desert
+16. Jackals, False Grails:  The Lonesome Era
+17. Conduit for Sale!
+18. Our Singer
+
+
+Notes:
+
+Original EAC > SHN performed on Dec. 13, 2003 for my own archives.
+
+Files renamed, converted to FLAC, WAV MD5 edited, new FFP created
+on Feb. 22, 2009.  The Original SHN MD5 is listed below.
+
+Terry Watts
+
+
+
+The Original SHN MD5:
+fb4a36de234cad12c9bfa1cafe89cf6e *pavement1992-09-11eac-shn01.shn
+fb5c85b3b080c21dfe5fa95b275aec05 *pavement1992-09-11eac-shn02.shn
+88151000e388ef5e42ec9edcce4f7c9b *pavement1992-09-11eac-shn03.shn
+ebba2ae114ccf3b26ac99e23d26bbf28 *pavement1992-09-11eac-shn04.shn
+62035883cb19bc5934ff8b5a0833f3aa *pavement1992-09-11eac-shn05.shn
+33f153afcb7302f3cb225eb1d73d57a5 *pavement1992-09-11eac-shn06.shn
+2fdf28d15f44caae213472a4c154aea5 *pavement1992-09-11eac-shn07.shn
+9b3abe689ec4d3be5095fc6c3bbbac97 *pavement1992-09-11eac-shn08.shn
+900b822b7c89c6db576c9a021caf0a03 *pavement1992-09-11eac-shn09.shn
+b6f866efbb79e47b5fd2fa3d0585d1fd *pavement1992-09-11eac-shn10.shn
+874346777fe07c28a120b5c44cd59f53 *pavement1992-09-11eac-shn11.shn
+1e21b34255927d724f200f4b25ef5912 *pavement1992-09-11eac-shn12.shn
+3914fd473a9239d0b88c1d7460788f4a *pavement1992-09-11eac-shn13.shn
+7d760a5a0a2dd32764318491a7bf76d1 *pavement1992-09-11eac-shn14.shn
+b71a2ef67f96bc20dc814bbad7c0d53a *pavement1992-09-11eac-shn15.shn
+557cc9156dbe5194b62f349cf7d21e0f *pavement1992-09-11eac-shn16.shn
+65299650dae6087b1472156b626f7bc9 *pavement1992-09-11eac-shn17.shn
+f8f8bca49720bfcf6a47b39114fdc68f *pavement1992-09-11eac-shn18.shn
+
+

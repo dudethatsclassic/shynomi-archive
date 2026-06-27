@@ -1,0 +1,128 @@
+Ryan Adams 
+Carling Academy
+Glasgow, UK
+15th February 2006
+
+With thanks to Thomas Bauer for the original s/d recording and mastering to cd.
+Remastering, tracking, conversion and seeding by Wirralgirl
+
+Tracklisting based on the setlist posted in RAA; thanks to the original poster.
+Any help/corrections welcome.
+
+Set 1 Cd 1 69:50
+1 Intro chat
+2 Don't Get Sentimental On Me 
+3 Chat: Mom's learned to text !
+4 Elizabeth
+5 Chat: the gig-plan
+6 Everything Dies
+7 Chat (change from piano to acoustic guitar)
+8 Please Do Not Let Me Go
+9 Chat: smelly socks
+10 Easy Plateau
+11 Chat: sitting on a capo
+12 Wish You Were Here + 
+13 re-start on electric
+14 Chat: accents
+15 Who We Were  
+16 Chat
+17 A Kiss Before I Go  
+18 Chat 
+19 Why Do They Leave? 
+20 Chat: Mom's text again
+21 La Cienega Just Smiled
+22 Chat: gross stuff/Rosebud false start   
+23 Rosebud 
+24 Chat: Ryan announces the break.  
+
+  Set 2 Cd 2 73:42
+1 Ryan introduces Brad Pemberton
+2 To Be Young (Is To Be Sad, Is To Be High) * 
+3 Chat
+4 What Sin Replaces Love *   
+5 Chat: forming a band/Rock'n'Roll lyrics
+6 Beautiful Sorta * (break 2/3 thru)
+7 Chat: Ossy Osborne, Ryan takes his time deciding the next song
+8 The End
+9 Rescue Blues **
+10 Chat: making records in 3 weeks/Scotland
+11 Winding Wheel ***
+12 Chat/tuning
+13 Dear Chicago ***
+14 Sylvia Plath (piano)
+15 Chat: fish in Spain
+16 Nightbirds   
+---------------
+17 Shakedown On 9th Street
+18 Wharf Rat *   
+19 New York, New York (punk thrash version) *   
+ 
++Ryan on electric 
+*Ryan on electric; Brad Pemberton on drum with brushes 
+**Ryan on piano & electric / Brad on drum with brushes 
+***Ryan on acoustic / Brad on drum with brushes 
+
+Received in a trade.
+S/D -> HiMD -> cds by Thomas Bauer (more info when available)
+
+CDs ->EAC ->wav(tracks)->Wavelab Lite[paste & volume boost]<->Nero Wave Editor (compressionX2)->CD Wave(trackmarking)->Flac Frontend (level 8, verified & 
+alligned on sector boundaries)
+
+Sound notes: 
+1 Brad's drum sound is too loud at the start of the second set: 
+this is soon corrected from the desk.
+2 There's a strange echo which is most noticeable on the vocals in the second set.
+
+No selling; please report any Ebay violations.
+Share freely in lossless formats, and only convert to MP3s for your own use.
+
+Flac fingerprints in full info.txt
+
+RyanAdams2006-02-15d1t01.flac:a1f39736a3d989ee26d6b77e30c265b6
+RyanAdams2006-02-15d1t02.flac:8db4a084ce2ff5a3a004658124d869ef
+RyanAdams2006-02-15d1t03.flac:d762d46b43bc6418577586bc9f52be25
+RyanAdams2006-02-15d1t04.flac:91d6b5207505b322cada964fd44c4742
+RyanAdams2006-02-15d1t05.flac:e371ad68f5bdb55a3f192494e4abf426
+RyanAdams2006-02-15d1t06.flac:fc5c8f4ea9973972cfb751467b800063
+RyanAdams2006-02-15d1t07.flac:be5ccb795d88f98397f985dfb3ca28af
+RyanAdams2006-02-15d1t08.flac:556b4db7276b98ca47293b9a04c906d6
+RyanAdams2006-02-15d1t09.flac:e40cfbf863ea133ff1294a326b73a9e1
+RyanAdams2006-02-15d1t10.flac:4384a86abf41e5d6c26517b9fa819f2b
+RyanAdams2006-02-15d1t11.flac:b429d553cfc13c8251deeee1f3e3bf5b
+RyanAdams2006-02-15d1t12.flac:dbc38518100fec736e164e0f75327613
+RyanAdams2006-02-15d1t13.flac:d1e0751ee0ea4245403684b3f73847d0
+RyanAdams2006-02-15d1t14.flac:ea76eadac0982ddcc9702b386f3fe799
+RyanAdams2006-02-15d1t15.flac:907dee18bfd96c42910fd2b096f74a08
+RyanAdams2006-02-15d1t16.flac:4dea3fe3a465174320dc1bd1322ce8c5
+RyanAdams2006-02-15d1t17.flac:a3587552a1cd4b9551dd306012ef0f6d
+RyanAdams2006-02-15d1t18.flac:0e23a16e47e6ac42b37defa78441b9cd
+RyanAdams2006-02-15d1t19.flac:c0c81023766c9cacb357040dc69428ee
+RyanAdams2006-02-15d1t20.flac:e847e5e8aae7acaeeaf82f93a1debec8
+RyanAdams2006-02-15d1t21.flac:f3d701127ba5a56a0810439999c933c0
+RyanAdams2006-02-15d1t22.flac:c96f190685da6d1c6ed57ae2a57a176b
+RyanAdams2006-02-15d1t23.flac:8bb4be2613eb0814e8174968d9f28d5c
+RyanAdams2006-02-15d1t24.flac:9d79c887e41b2a80a5871fb2f7f6b09e
+
+RyanAdams2006-02-15d2t01.flac:4bfcfaf30f9b6e650c8d7afe2c7d1429
+RyanAdams2006-02-15d2t02.flac:d31d8f8bc58d88332d49827e42726f05
+RyanAdams2006-02-15d2t03.flac:12a32b29ec3c2cf1cb466dfb75ac3a6d
+RyanAdams2006-02-15d2t04.flac:4596b21e7e6f65c94c5e34debc5735ed
+RyanAdams2006-02-15d2t05.flac:600620d2638804fb87688caf119a8ff4
+RyanAdams2006-02-15d2t06.flac:b80fbd80acc1b2e5621d4e7acc72b9b7
+RyanAdams2006-02-15d2t07.flac:f7b2019565cd1c7ab670f6dee33bcce6
+RyanAdams2006-02-15d2t08.flac:5bdc82e2482fa92b4bcdb74ec168ced6
+RyanAdams2006-02-15d2t09.flac:bbd2d895c402ad2cbd5dc76bf37f6e89
+RyanAdams2006-02-15d2t10.flac:f01fe2b49d635d2ae04c065cd219fa51
+RyanAdams2006-02-15d2t11.flac:85c84bafcc3d183efa43e106a2e7fa97
+RyanAdams2006-02-15d2t12.flac:99afcffe3b2d63dbd514d6e5b587e7ad
+RyanAdams2006-02-15d2t13.flac:b0408451ff0fd09a033070acefad3ce4
+RyanAdams2006-02-15d2t14.flac:c01891a7addb867d7b54e66345257328
+RyanAdams2006-02-15d2t15.flac:0578cfacd8579229da07da93c93b0e81
+RyanAdams2006-02-15d2t16.flac:f02baa9da4125950ec908a7f3dc3c599
+RyanAdams2006-02-15d2t17.flac:c05b03f88c6cb1ff3512ee2f4f520d53
+RyanAdams2006-02-15d2t18.flac:517a30f3aad01ab17afbe524970d1d65
+RyanAdams2006-02-15d2t19.flac:745bafc02fbc3e6255f2e5ae7e9109e0
+
+
+
+ 

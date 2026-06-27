@@ -1,0 +1,86 @@
+Smashing Pumpkins
+May 21st 2022
+Avondale Brewing Company
+Birmingham, AL, US
+
+SOURCE (AUD#1)
+Lapel Mic > iPhone 13
+
+TRANSFER:
+iPhone 13 (M4A) > WAV > CD Wave Editor > Trader's Little Helper 2.8.4
+
+GENERATION:
+M4A(M) > WAV > FLAC
+
+LENGTH:
+115:37
+
+SETLIST:
+01. Sarabande [George Frideric Handel]
+02. The Colour of Love
+03. Bullet With Butterfly Wings
+04. Today
+05. Ugly
+06. Drown
+07. Quiet
+08. Cyr
+09. Once in a Lifetime [Talking Heads]
+10. Solara
+11. Eye
+12. Ava Adore
+13. (banter)
+14. Tonight, Tonight
+15. Stand Inside Your Love
+16. Set the Controls for the Heart of the Sun [Pink Floyd] (tease) > Cherub Rock
+17. Zero > Love Gun [Kiss] (tease)
+18. Black Forest, Black Hills
+19. FOL > Are You Gonna Go My Way [Lenny Kravitz] (tease) > (unknown) (tease) > Who Knows [Jimi Hendrix] (tease)
+20. 1979
+21. (encore break)
+
+Encore
+22. Silverfuck
+
+NOTES:
+Some microphone interference throughout
+
+Thank you to the taper Liquidsun for sending this for release
+
+*******************
+This is a lossy source
+The SPLRA team have converted the M4A to a WAV file to indicate there is no upgrade to the original master which was recorded in M4A format
+*******************
+
+MD5 FINGERPRINTS:
+188c15b4c48638061360764fdfc88129 *Smashing Pumpkins 2022-05-21 AUD1 t01 Sarabande [George Frideric Handel].flac
+87eca4132b0d74ec608549d93e84e121 *Smashing Pumpkins 2022-05-21 AUD1 t02 The Colour of Love.flac
+fb6025ef5b0d5ae3aa222c2892e3ec58 *Smashing Pumpkins 2022-05-21 AUD1 t03 Bullet With Butterfly Wings.flac
+14c5a4e7b65d4d0dfe156497b66e4ea9 *Smashing Pumpkins 2022-05-21 AUD1 t04 Today.flac
+83ad8311fda38df29c8436f6f41aad57 *Smashing Pumpkins 2022-05-21 AUD1 t05 Ugly.flac
+ab3351442bc82efa1a7558646044061f *Smashing Pumpkins 2022-05-21 AUD1 t06 Drown.flac
+802eb1183408d1fed88095e27b9b83ae *Smashing Pumpkins 2022-05-21 AUD1 t07 Quiet.flac
+62908132908e20c4964e207eda8c700d *Smashing Pumpkins 2022-05-21 AUD1 t08 Cyr.flac
+d312d70d18de9e6f5e85fa4b0dd01a33 *Smashing Pumpkins 2022-05-21 AUD1 t09 Once in a Lifetime [Talking Heads].flac
+3018846ba12abfff6d652af66e15e8c7 *Smashing Pumpkins 2022-05-21 AUD1 t10 Solara.flac
+9839dd34c08e31726d042d1213243ed7 *Smashing Pumpkins 2022-05-21 AUD1 t11 Eye.flac
+74a5b63a5a32d99800d905c16ec8ba87 *Smashing Pumpkins 2022-05-21 AUD1 t12 Ava Adore.flac
+5a283940283d932e4c8b5c916244606a *Smashing Pumpkins 2022-05-21 AUD1 t13 (banter).flac
+ac7137aaa73edc174ba2e6af4f007a51 *Smashing Pumpkins 2022-05-21 AUD1 t14 Tonight, Tonight.flac
+f95ef5b568ac618358122162c6917f4d *Smashing Pumpkins 2022-05-21 AUD1 t15 Stand Inside Your Love.flac
+d2ecd5420267229b39ec643de0ed56f6 *Smashing Pumpkins 2022-05-21 AUD1 t16 Cherub Rock.flac
+63d9d946c310d01451569e1d8159b014 *Smashing Pumpkins 2022-05-21 AUD1 t17 Zero.flac
+ee192806c342ef5158cc0ceb497f4ef5 *Smashing Pumpkins 2022-05-21 AUD1 t18 Black Forest, Black Hills.flac
+361d5a57e754368119397eb6ef275507 *Smashing Pumpkins 2022-05-21 AUD1 t19 FOL.flac
+fefc4b6d7ed231061acfde4271c23bcb *Smashing Pumpkins 2022-05-21 AUD1 t20 1979.flac
+0d987f4869c589d86d2639f998dc5c05 *Smashing Pumpkins 2022-05-21 AUD1 t21 (encore break).flac
+78075adfa019f2ee69d0c88da58dfa0b *Smashing Pumpkins 2022-05-21 AUD1 t22 Silverfuck.flac
+
+RECORDED BY:
+Liquidsun
+
+TRANSFER BY:
+Liquidsun
+
+DISTRIBUTION:
+Spaldz, Nicholas Serra & Members of SPLRA
+2025-01-08

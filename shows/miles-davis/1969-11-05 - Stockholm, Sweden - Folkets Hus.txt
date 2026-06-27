@@ -1,0 +1,99 @@
+Miles Davis Quintet
+11-05-1969 (Late)
+Folkets Hus
+Stockholm, Sweden
+
+Project ID - LL160
+
+Source: FM Broadcast
+Lineage: Sveriges Radio broadcast > ?? > Rebroadcast > wave > ?? > flac
+
+Miles Davis (tpt); Wayne Shorter (ss, ts); Chick Corea (p, el-p); Dave Holland (b, el-b); 
+Jack DeJohnette (d); George Wein (ann)Lars-Göran Ulander and Lars Westin (ann)
+
+disc 1
+
+d1t01. Introduction 
+d1t02. Directions
+d1t03. Bitches Brew
+d1t04. This
+d1t05. It's About That Time
+d1t06. No Blues
+d1t07. The Theme
+d1t08. Announcement
+ 
+-------------------------------------------------------
+
+Notes:
+ 
+- This version has brighter levels than LL159. The announcements are intact for this 
+version. This version is more pallatable to the ears in my opinon but is the only 
+version of this source that is not seekable. Excellent specimen. This is most likely from 
+Mega Disc recording of the rebroadcast of this show. 
+
+- "The titles are listed in the Sveriges Radio files as "Listen to This," "Nefertiti," 
+"About That Time," "'Round Midnight," and "Directions." There are two recent 
+re-broadcasts of these concerts, both with introductions and announcements by 
+Lars-Göran Ulander and Lars Westin -- the version issued on Mega Disc has 
+introductions (5:03, 4:09) and closing announcements (0:57, 1:07) with Davis's 
+"Milestones" and "All Blues" in the background. There is no background music on 
+the version listed here.- Credit to Peter Losin, http://www.plosin.com/
+
+- "Corea begins the first concert on a malfunctioning electric piano but he gives up 
+on it; after a short interval, he plays acoustic piano for the remainder of the concert. 
+Davis's choice of tunes ("Paraphernalia," "Nefertiti," and "Masqualero") was probably 
+influenced by the lack of an electric piano."- Credit to Peter Losin, http://www.plosin.com/
+
+- QC done by Bgreen
+
+md5
+7bba43062ddbfa5b59c02e40e88ee939 *md1969-11-05L.LL160.d1t01.shn
+fa32524ef34e4fc8a8e024fa45a06231 *md1969-11-05L.LL160.d1t02.shn
+18bc877825bf841a763a01ba724ebc8c *md1969-11-05L.LL160.d1t03.shn
+b8ee442f5f88b643cf782aaceb8ac45d *md1969-11-05L.LL160.d1t04.shn
+0e5c8ae056d25b6386e0478cbb313f97 *md1969-11-05L.LL160.d1t05.shn
+bd0fcc8c6785548d7ea3056c3d262263 *md1969-11-05L.LL160.d1t06.shn
+46c80eec4e4421708abd0cb35d8012b3 *md1969-11-05L.LL160.d1t07.shn
+08c5051abfbda50f4dc91a2fcff02c2e *md1969-11-05L.LL160.d1t08.shn
+
+st5 
+deb3d763a072a8a0441308a3313bd1ae  [shntool]  md1969-11-05L.LL160.d1t01.shn
+8af473aa7fb23ccf9813b2da6a4a1adb  [shntool]  md1969-11-05L.LL160.d1t02.shn
+08244c8c9b97d26977321245f71e1d92  [shntool]  md1969-11-05L.LL160.d1t03.shn
+c95c14396ee65ddb1a5d10dc1def9528  [shntool]  md1969-11-05L.LL160.d1t04.shn
+c47accaa17572484dedfe83c928df85d  [shntool]  md1969-11-05L.LL160.d1t05.shn
+0bdc9f59d3376a94573c89d1ae654543  [shntool]  md1969-11-05L.LL160.d1t06.shn
+cee105726c92df79fa66bcef4d4fd76b  [shntool]  md1969-11-05L.LL160.d1t07.shn
+8837f294bc84039dee337bf23d25fb64  [shntool]  md1969-11-05L.LL160.d1t08.shn
+
+shntool
+    length     expanded size   cdr  WAVE problems filename
+     4:10.11       44125916    ---   --   ---xx   md1969-11-05L.LL160.d1t01.shn
+     8:46.26       92847596    ---   --   ---xx   md1969-11-05L.LL160.d1t02.shn
+    15:47.37      167137868    ---   --   ---xx   md1969-11-05L.LL160.d1t03.shn
+     6:32.40       69242924    ---   --   ---xx   md1969-11-05L.LL160.d1t04.shn
+    12:30.08      132318860    ---   --   ---xx   md1969-11-05L.LL160.d1t05.shn
+     4:48.57       50937308    ---   --   ---xx   md1969-11-05L.LL160.d1t06.shn
+     0:29.19        5160332    ---   --   ---xx   md1969-11-05L.LL160.d1t07.shn
+     1:14.05       13065404    ---   --   ---xx   md1969-11-05L.LL160.d1t08.shn
+    54:18.53      574836208 B                     (totals for 8 files, 0.6722 overall compression ratio)
+
+spectral analysis from TLH
+md1969-11-05L.LL160.d1t01.wav:  track looks like CDDA with probability 100%
+md1969-11-05L.LL160.d1t02.wav:  track looks like CDDA with probability 100%
+md1969-11-05L.LL160.d1t03.wav:  track looks like CDDA with probability 100%
+md1969-11-05L.LL160.d1t04.wav:  track looks like CDDA with probability 100%
+md1969-11-05L.LL160.d1t05.wav:  track looks like CDDA with probability 100%
+md1969-11-05L.LL160.d1t06.wav:  track looks like CDDA with probability 100%
+md1969-11-05L.LL160.d1t07.wav:  track looks like CDDA with probability 100%
+md1969-11-05L.LL160.d1t08.wav:  track looks like CDDA with probability 100%
+
+old md5 or ffp (incude both if available)
+08c5051abfbda50f4dc91a2fcff02c2e *Disc2-8 Announcement.shn
+7bba43062ddbfa5b59c02e40e88ee939 *Disc2-1 Introduction.shn
+fa32524ef34e4fc8a8e024fa45a06231 *Disc2-2 Directions.shn
+18bc877825bf841a763a01ba724ebc8c *Disc2-3 Bitches Brew.shn
+b8ee442f5f88b643cf782aaceb8ac45d *Disc2-4 This.shn
+0e5c8ae056d25b6386e0478cbb313f97 *Disc2-5 It's About That Time.shn
+bd0fcc8c6785548d7ea3056c3d262263 *Disc2-6 No Blues.shn
+46c80eec4e4421708abd0cb35d8012b3 *Disc2-7 The Theme.shn

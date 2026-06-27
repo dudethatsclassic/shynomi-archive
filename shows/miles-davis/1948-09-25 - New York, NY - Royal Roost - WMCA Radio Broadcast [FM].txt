@@ -1,0 +1,72 @@
+Miles Davis Quintet
+09-25-1948
+Royal Roost
+New York, New York
+
+Project ID - LL78
+
+Source: Fm Broadcast
+Lineage: WMCA radio broadcast > ?? > cd (Peter Losin's Archive) > 
+cd duplicated (burner to burner) > eac > flac (lvl8)
+
+Miles Davis (tpt); Lee Konitz (as); John Lewis (p); Dillon "Curly" Russell (b); 
+Max Roach (d); Kenny "Pancho" Hagood (voc)
+
+disc 1
+
+d1t01. You Go to my Head  
+d1t02. Half Nelson 
+d1t03. Chasin' the Bird 
+d1t04. 52nd Street Theme 
+ 
+-------------------------------------------------------
+
+Notes:
+
+- This was also released as LL47. The sources are the same, but this version is a 
+lttle brighter. Other than this, the sources are pretty identical. 
+
+- Very nice recording. Not many flaws to speak of.
+
+- "This all-star quintet -- a subset of the Davis Nonet, which had just concluded a 
+two-week stay at the Royal Roost -- was booked for a week at the Roost. Although many 
+of the Roost broadcasts in circulation include Symphony Sid Torin's between-numbers 
+patter and introductions, none of the recordings of this material I've heard has Sid on 
+it." - Credit to Peter Losin, http://www.plosin.com/
+
+- Thanks to Peter Losin for supplying this source. http://www.plosin.com
+
+- QC done by Bgreen
+
+md5
+27d0676e8fea7d3a73ca25b8c5861a4b *md1948-09-25.LL78.d1t01.flac
+0dc99f8e4a58deaf90039f8709a92f47 *md1948-09-25.LL78.d1t02.flac
+c9c8847db19c6d9c65bec39a56011e86 *md1948-09-25.LL78.d1t03.flac
+8f2dbac3ccb92d6d69f2d97e9eedf666 *md1948-09-25.LL78.d1t04.flac
+
+ffp
+md1948-09-25.LL78.d1t01.flac:2f804c9cdcbe76f6e5e069c1363aa8d2
+md1948-09-25.LL78.d1t02.flac:bab35199acb362597c7a7f0a764befa6
+md1948-09-25.LL78.d1t03.flac:0a8f4070e44b40df00cd6e32dbf57fac
+md1948-09-25.LL78.d1t04.flac:ee7618c07a38e435f80bc4488949b4e0
+
+shntool
+length     expanded size   cdr  WAVE problems filename
+     5:38.08       59642060    ---   --   ---xx   md1948-09-25.L78.d1t01.flac
+     5:41.32       60227708    ---   --   ---xx   md1948-09-25.L78.d1t02.flac
+     5:45.70       61022684    ---   --   ---xx   md1948-09-25.L78.d1t03.flac
+     3:55.48       41566940    ---   --   ---xx   md1948-09-25.L78.d1t04.flac
+    21:01.08      222459392 B                     (totals for 4 files, 0.4256 overall compression ratio)
+
+spectral analysis from TLH
+md1948-09-25.L78.d1t01.wav:  track looks like MPEG with probability 90%
+md1948-09-25.L78.d1t02.wav:  track looks like CDDA with probability 100%
+md1948-09-25.L78.d1t03.wav:  track looks like CDDA with probability 42%
+md1948-09-25.L78.d1t04.wav:  track looks like CDDA with probability 42%
+
+old ffp
+01 - Track01.flac:ee7618c07a38e435f80bc4488949b4e0
+02 - Track02.flac:bab35199acb362597c7a7f0a764befa6
+03 - Track03.flac:2f804c9cdcbe76f6e5e069c1363aa8d2
+04 - Track04.flac:0a8f4070e44b40df00cd6e32dbf57fac
+

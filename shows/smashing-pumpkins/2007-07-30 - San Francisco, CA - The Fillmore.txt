@@ -1,0 +1,115 @@
+************************
+   Smashing Pumpkins
+      The Fillmore
+ San Francisco, CA, US
+July 30, 2007 - Monday
+************************
+
+Taper: Miguel Villarelo (villarelo@gmail.com)
+Location: 16 Feets From Stage, between Billy and Jeff.
+Source: Church Audio ST-11 > ST-9100 > iRiver H-120 (RockBoxed + REP + AGC Safety)
+Transfer: H-120 (PCM 16bit @ 44.1Khz) > USB 2.0 > PC
+Editing: Adobe Audition 3.0 > Some EQing > Normalize 99% > 
+CD Wave v1.95.1 (track split) > Flac v1.2.1b (Level 8)
+
+*********************************************************
+ DO NOT SELL THIS SHOW, KEEP THE TRADING COMMUNITY CLEAN
+ DO NOT SELL THIS SHOW, KEEP THE TRADING COMMUNITY CLEAN
+ DO NOT SELL THIS SHOW, KEEP THE TRADING COMMUNITY CLEAN
+
+         ... Do I have to write it again???
+*********************************************************
+
+---------
+ SETLIST
+---------
+
+CD1:
+
+01. -intro-				[02:41]
+02. Blue Skies Bring Tears		[08:07]
+03. Starla				[07:43]
+04. United States			[11:00]
+05. Bleeding the Orchid			[04:33]
+06. Lucky 13				[03:21]
+07. Hummer				[08:04]
+08. Drown				[05:23]
+09. Bullet with Butterfly Wings		[04:21]
+10. Today				[04:11]
+11. Untitled				[05:05]
+					-------
+					[64:29]
+
+CD2:
+
+01. If All Goes Wrong			[04:36]
+02. Thirty Three			[05:21]
+03. The Rose March (abandoned)		[00:38]
+04. -this is a new band-		[06:39]
+05. The Rose March			[04:38]
+06. 99 Floors				[07:36]
+07. Glass and the Ghost Children	[09:00]
+08. Tarantula		 		[04:14]
+09. Starz				[03:55]
+10. Cherub Rock				[04:35]
+11. Disarm				[03:46]
+12. -otra otra otra-			[01:54]
+13. That's the Way (My Love is)		[03:45]
+					-------
+					[60:37]
+
+CD3:
+
+01. Superchrist				[05:54]
+02. Heavy Metal Machine			[10:21]
+03. Tonight, Tonight			[04:58]
+04. -encore break 1-			[04:32]
+05. Doomsday Clock			[04:04]
+06. Death from Above			[04:12]
+07. -encore break 2-			[02:47]
+08. Gossamer				[36:04]
+					-------
+					[72:52]
+
+
+		Total Time	     [03:17:58]
+		Size		       [1003MB]
+
+Enjoy!
+Villarelo.-
+
+**************************************************************
+Flac Finger Prints
+**************************************************************
+tsp2007-07-30.st11.d1t01.flac:da98677e52737fe9912cc7b81ee23820
+tsp2007-07-30.st11.d1t02.flac:e9c6af01f237bce8b556fbefa256a739
+tsp2007-07-30.st11.d1t03.flac:0db01631cb4105efafc84fcccd4549ec
+tsp2007-07-30.st11.d1t04.flac:12b78eeb964db2347005bb2012a33536
+tsp2007-07-30.st11.d1t05.flac:9b9f1a7b69ded3717a5babd82eeea3d0
+tsp2007-07-30.st11.d1t06.flac:3aa7d36e3f2d40b5c0ae617695f9d8ac
+tsp2007-07-30.st11.d1t07.flac:6aec5de23902c4ba0428e9b812e471a4
+tsp2007-07-30.st11.d1t08.flac:646420973b062c05abedeb501b1d4352
+tsp2007-07-30.st11.d1t09.flac:5e6b7265115716df0588d8b1d198d4b8
+tsp2007-07-30.st11.d1t10.flac:e80e956583d270ac84371387e4984957
+tsp2007-07-30.st11.d1t11.flac:668d778093887f1b146b574f513f94e7
+tsp2007-07-30.st11.d2t01.flac:e7ac3561776a0741602ebdb21d9d3bc5
+tsp2007-07-30.st11.d2t02.flac:995d8a0839b23ffda47a08b6ba7942c8
+tsp2007-07-30.st11.d2t03.flac:c0f611be8d474f5df6f32a0573641a56
+tsp2007-07-30.st11.d2t04.flac:5c959cc1967206e0631916675f16aa0a
+tsp2007-07-30.st11.d2t05.flac:1bfb76964457ccdfa77d11017a1a5e0d
+tsp2007-07-30.st11.d2t06.flac:6aef1c64e55f53ef49f72e91c8159a46
+tsp2007-07-30.st11.d2t07.flac:737f66239a1ce42c435f01c12d859d08
+tsp2007-07-30.st11.d2t08.flac:c87172ebb0f15ec1657f3307236c3aec
+tsp2007-07-30.st11.d2t09.flac:9e8682b02573ef7ef5ae1ee4bedcc144
+tsp2007-07-30.st11.d2t10.flac:a6b9cf6afe79770e873e5a523cdb70bf
+tsp2007-07-30.st11.d2t11.flac:3e86c26a0cc6ca8941281c4212e2795c
+tsp2007-07-30.st11.d2t12.flac:92dec6f43cce09c0b80ced69dfb1e27d
+tsp2007-07-30.st11.d2t13.flac:5f31b4cea81ae4ea31328a9490ef549e
+tsp2007-07-30.st11.d3t01.flac:980f108ab8851989e26f5669fe82e7fc
+tsp2007-07-30.st11.d3t02.flac:03265ed177ff366a6cee4b53137698c2
+tsp2007-07-30.st11.d3t03.flac:9d361924e2d055732bbf14cc46c0fbb1
+tsp2007-07-30.st11.d3t04.flac:196e677f4ba053a11398b4306a2d8c9d
+tsp2007-07-30.st11.d3t05.flac:1dd7d1f18f0a3ab3b08ddb32a443fbe1
+tsp2007-07-30.st11.d3t06.flac:ea4e3eed019563734b595bfeab26e316
+tsp2007-07-30.st11.d3t07.flac:f823637e7f621ab814db795366534554
+tsp2007-07-30.st11.d3t08.flac:ebec9fc975e51a0df01252cc2f3cae41

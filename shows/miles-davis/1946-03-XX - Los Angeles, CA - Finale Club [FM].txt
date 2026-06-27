@@ -1,0 +1,100 @@
+Charlie Parker Quintet
+03-XX-1946
+Finale Club
+Los Angeles, California
+
+Project ID - LL75
+
+Source: FM Broadcast
+Lineage: Unknown radio broadcast > ?? > cd (Peter Losin's Archive) > 
+cd duplicated (burner to burner) > eac > flac (lvl8)
+
+Miles Davis (tpt); Charlie Parker (as); Joe Albany (p); Addison Farmer (b); 
+Chuck Thompson (d)
+
+disc 1
+
+d1t01. Billie's Bounce
+d1t02. Ornithology/
+d1t03. All the Things You Are
+d1t04. Blue 'n' Boogie
+d1t05. Anthropology
+d1t06. Announcement/
+ 
+-------------------------------------------------------
+
+Notes:
+
+- This version is more complete than the previously released LL43. This is the most 
+complete version known to circulate. 
+
+- d1t02 is cut at the end of the track
+
+- d1t06 is cut at the end of the trackmid announcement. 
+
+- There is the standard flaws with this recording as is to be expected from a
+61 year old recording, but it is still listenable. A fine early specimen
+
+- "A local rhythm section backing Parker and Davis. Davis was in Los Angeles with the 
+Benny Carter Orchestra and apparently played with Parker after hours at the Finale Club. 
+Eventually he was fined by the musicians' union and chose to leave the Carter group and 
+stay with the Parker Quintet. Davis's playing is steadily more assured, but there are 
+some rough spots, e.g. the "Anthropology" theme and the opening chorus of "Ornithology.
+" Parker covers nicely for him, however. Davis really shines on "All the Things You Are.""
+- Credit to Peter Losin, http://www.plosin.com/
+
+- Thanks to Peter Losin the source. http://www.plosin.com
+
+- QC done by Bgreen
+
+md5
+037e6a5fba5976ef9b47575c941d12df *md1946-03-XX.LL75.d1t01.flac
+2239fab2b5e238c2c0f849baae608306 *md1946-03-XX.LL75.d1t02.flac
+3120acb596aaf9804b558116aeec32a4 *md1946-03-XX.LL75.d1t03.flac
+cb37384099bf62ce5c7b46bbcbb8ec7a *md1946-03-XX.LL75.d1t04.flac
+caabee7f9fe076dc88f62afd66658d69 *md1946-03-XX.LL75.d1t05.flac
+edef8413d3a5e34546602bfe986d5b84 *md1946-03-XX.LL75.d1t06.flac
+
+ffp
+md1946-03-XX.LL75.d1t01.flac:dd03a605d84d6f31b340972d4d0dc35d
+md1946-03-XX.LL75.d1t02.flac:9435f27e7244793f2f9950f321d9442f
+md1946-03-XX.LL75.d1t03.flac:778fa87cbfb7ed73498f2380295f0a6d
+md1946-03-XX.LL75.d1t04.flac:1e23f7481a2c98aabda2ac9c960a4460
+md1946-03-XX.LL75.d1t05.flac:06d9831574e1efcae5cda220a05103e9
+md1946-03-XX.LL75.d1t06.flac:2c439c1e1a22d5676aeb85e8f248c5fd
+
+st5 
+dd03a605d84d6f31b340972d4d0dc35d  [shntool]  md1946-03-XX.LL75.d1t01.flac
+9435f27e7244793f2f9950f321d9442f  [shntool]  md1946-03-XX.LL75.d1t02.flac
+778fa87cbfb7ed73498f2380295f0a6d  [shntool]  md1946-03-XX.LL75.d1t03.flac
+1e23f7481a2c98aabda2ac9c960a4460  [shntool]  md1946-03-XX.LL75.d1t04.flac
+06d9831574e1efcae5cda220a05103e9  [shntool]  md1946-03-XX.LL75.d1t05.flac
+2c439c1e1a22d5676aeb85e8f248c5fd  [shntool]  md1946-03-XX.LL75.d1t06.flac
+
+shntool
+  length     expanded size   cdr  WAVE problems filename
+     3:41.48       39097340    ---   --   ---xx   md1946-03-XX.LL75.d1t01.flac
+     5:03.67       53606828    ---   --   ---xx   md1946-03-XX.LL75.d1t02.flac
+     5:10.70       54848684    ---   --   ---xx   md1946-03-XX.LL75.d1t03.flac
+     5:11.11       54886316    ---   --   ---xx   md1946-03-XX.LL75.d1t04.flac
+     2:44.50       29047244    ---   --   ---xx   md1946-03-XX.LL75.d1t05.flac
+     0:07.72        1404188    ---   --   ---xx   md1946-03-XX.LL75.d1t06.flac
+    22:00.18      232890600 B                     (totals for 6 files, 0.2941 overall compression ratio)
+
+ 
+spectral analysis from TLH
+01 - Track01.wav:  track looks like CDDA with probability 100%
+02 - Track02.wav:  track looks like CDDA with probability 100%
+03 - Track03.wav:  track looks like CDDA with probability 100%
+04 - Track04.wav:  track looks like CDDA with probability 100%
+05 - Track05.wav:  track looks like CDDA with probability 100%
+06 - Track06.wav:  track looks like CDDA with probability 100%
+
+
+old md5 or ffp (incude both if available)
+01 - Track01.flac:dd03a605d84d6f31b340972d4d0dc35d
+02 - Track02.flac:9435f27e7244793f2f9950f321d9442f
+03 - Track03.flac:778fa87cbfb7ed73498f2380295f0a6d
+04 - Track04.flac:1e23f7481a2c98aabda2ac9c960a4460
+05 - Track05.flac:06d9831574e1efcae5cda220a05103e9
+06 - Track06.flac:2c439c1e1a22d5676aeb85e8f248c5fd

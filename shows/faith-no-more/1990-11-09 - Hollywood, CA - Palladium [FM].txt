@@ -1,0 +1,18 @@
+01 -intro-.flac:d22e773eafefdaee824dfb03c7234189
+02 From Out Of Nowhere.flac:af80e33d63abe81dad5231c07dde5aa8
+03 Falling To Pieces.flac:127c3a1a224bc0a1cabc7ff5eb05b682
+04 Introduce Yourself.flac:1df34bb8583581cec0f0a1387f7452d3
+05 The Real Thing.flac:ce78d1b59b107e4b670fbcf52123cb18
+06 Underwater Love.flac:3fcd17f52a117ab36e9d778291dc4cb5
+07 As The Worm Turns.flac:6c93639e6b639001ebdd1b0980f23453
+08 The Crab Song.flac:63caea67cd2336043f40baa0afbfcce5
+09 Edge Of The World.flac:b3269ba0200a24dc19a453369ea056fb
+10 Chinese Arithmetic.flac:ed4d59e72632c1f255d4b29c2a1c2378
+11 We Care A Lot.flac:47617ab1d7cc38e6d14db77dab71b36c
+12 Nestle.flac:527bd83876aa95cc81ab4fb2e751f93e
+13 Surprise You're Dead.flac:3ecf01c473e7b89de9000033088cb613
+14 Epic.flac:13608358f2040c8e2907a92c506aa620
+15 Woodpecker From Mars.flac:4f37ea097e65bfad9ec690a1f7d952c3
+16 Easy.flac:0a2db083e168f8da4b885beeade9c222
+17 War Pigs.flac:55d90e97425f2c88cc159d0f0aa6c670
+18 -closing comments-.flac:a6994797ddac319e4e6f61929864d156

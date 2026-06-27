@@ -1,0 +1,95 @@
+All-Star jam session (W/ Miles Davis)
+01-17-1949
+WPIX Studio
+New York, New York
+
+Project ID - LL81
+
+Source: FM Broadcast
+Lineage: WPIX radio broadcast > ?? > cd (Peter Losin's Archive > 
+cd duplicated (burner to burner) > eac > flac (lvl 8)
+
+
+Miles Davis (tpt); Kai Winding (tb); Buddy DeFranco (cl); Eli "Lucky" Thompson (ts); 
+Charlie Ventura (ts, bs); Al Haig (p); Oscar Pettiford (b); Shelly Manne (d)
+
+
+disc 1
+
+d1t01. The Squirrel
+d1t02. Introduction
+d1t03. Fine and Dandy
+d1t04. Introduction
+d1t05. Anthropology
+d1t06. Body and Soul 
+d1t07. Introduction
+d1t08. How High the Moon/
+ 
+-------------------------------------------------------
+
+Notes:
+
+-  This was also released as LL24. The levels are a bit brighter on Peter's version 
+and the last trac "How High The Moon" was totally missing on LL24. This is a clear cut
+upgrade in my opinion. 
+
+- d1t08 fades out mid song. 
+
+-  The sound is good, there is a slight amount of hiss present. 
+
+- "This is a subset of an Oscar Pettiford-led All-Star group booked for three weeks 
+(January 5-24) at the Clique Club on Broadway." - Credit to Peter Losin,
+http://www.plosin.com/
+
+md5
+1fc1d26e80fa0d9abd05b9897d17368d *md1949-01-17.LL81.d1t01.flac
+455c3dc4cc4fcc3d5d7d11674e3a7569 *md1949-01-17.LL81.d1t02.flac
+670a8c65aa06de5ac59bb4064324b2ab *md1949-01-17.LL81.d1t03.flac
+3ba50b3fc979b8091fac695863019430 *md1949-01-17.LL81.d1t04.flac
+fd3cc5e5d3254d168382a5ceb5b899b6 *md1949-01-17.LL81.d1t05.flac
+7c55806267d3400755ad0d18adfa3a6f *md1949-01-17.LL81.d1t06.flac
+369e53f25fcf3005dacda22fae5833a0 *md1949-01-17.LL81.d1t07.flac
+7f03d35a59e79866cdcdb150b166579d *md1949-01-17.LL81.d1t08.flac
+
+ffp
+md1949-01-17.LL81.d1t01.flac:abdcdf4b0fea1d01df31a5c99fff4b85
+md1949-01-17.LL81.d1t02.flac:942e988e3b70f56d686b80ebd97666a9
+md1949-01-17.LL81.d1t03.flac:8b6c300b48eba8d19cd8fae7f2acaadd
+md1949-01-17.LL81.d1t04.flac:e566f98e89e9fc0eab0f7d87af8e5fe9
+md1949-01-17.LL81.d1t05.flac:b147dddb48f2f32c78df1fd4fbecf3a3
+md1949-01-17.LL81.d1t06.flac:419dc931c73971345cb97096a4010f85
+md1949-01-17.LL81.d1t07.flac:cbd4ce1388a36806b2c1b62438bb7aa0
+md1949-01-17.LL81.d1t08.flac:14f94cc46ffb151940c721cfad96950d
+
+shntool
+ length     expanded size   cdr  WAVE problems filename
+     4:20.39       45955772    ---   --   ---xx   md1949-01-17.LL81.d1t01.flac
+     0:04.01         707996    ---   --   ---xx   md1949-01-17.LL81.d1t02.flac
+     2:16.67       24148028    ---   --   ---xx   md1949-01-17.LL81.d1t03.flac
+     0:09.59        1726412    ---   --   ---xx   md1949-01-17.LL81.d1t04.flac
+     3:35.35       38008364    ---   --   ---xx   md1949-01-17.LL81.d1t05.flac
+     4:54.48       51974540    ---   --   ---xx   md1949-01-17.LL81.d1t06.flac
+     0:04.01         707996    ---   --   ---xx   md1949-01-17.LL81.d1t07.flac
+     3:44.23       39567740    ---   --   ---xx   md1949-01-17.LL81.d1t08.flac
+    19:09.48      202796848 B                     (totals for 8 files, 0.4425 overall compression ratio)
+
+ 
+spectral analysis from TLH
+md1949-01-17.LL81.d1t01.wav:  track looks like CDDA with probability 100%
+md1949-01-17.LL81.d1t02.wav:  track looks like CDDA with probability 100%
+md1949-01-17.LL81.d1t03.wav:  track looks like CDDA with probability 100%
+md1949-01-17.LL81.d1t04.wav:  track looks like CDDA with probability 100%
+md1949-01-17.LL81.d1t05.wav:  track looks like CDDA with probability 100%
+md1949-01-17.LL81.d1t06.wav:  track looks like CDDA with probability 100%
+md1949-01-17.LL81.d1t07.wav:  track looks like CDDA with probability 100%
+md1949-01-17.LL81.d1t08.wav:  track looks like CDDA with probability 100%
+ 
+old ffp
+md1949-01-17.fm.LL81.shnf\05 - Track05.flac:abdcdf4b0fea1d01df31a5c99fff4b85
+md1949-01-17.fm.LL81.shnf\06 - Track06.flac:942e988e3b70f56d686b80ebd97666a9
+md1949-01-17.fm.LL81.shnf\07 - Track07.flac:8b6c300b48eba8d19cd8fae7f2acaadd
+md1949-01-17.fm.LL81.shnf\08 - Track08.flac:e566f98e89e9fc0eab0f7d87af8e5fe9
+md1949-01-17.fm.LL81.shnf\09 - Track09.flac:b147dddb48f2f32c78df1fd4fbecf3a3
+md1949-01-17.fm.LL81.shnf\10 - Track10.flac:419dc931c73971345cb97096a4010f85
+md1949-01-17.fm.LL81.shnf\11 - Track11.flac:cbd4ce1388a36806b2c1b62438bb7aa0
+md1949-01-17.fm.LL81.shnf\12 - Track12.flac:14f94cc46ffb151940c721cfad96950d

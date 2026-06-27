@@ -1,0 +1,69 @@
+BAND......: Metallica
+VENUE.....: Colisee Pepsi 
+CITY......: Quebec City, Qc (CANADA)
+DATE......: 2015-09-14
+SOURCE....: ROCK 100.9 MHz FM
+BROADCAST.: 2015-10-09
+FORMAT....: FLAC 16bit 44.1KHz
+
+Lineage:  
+
+HARMAN KARDON AVR 125 w/built-in FM (line out) > Monster Cable RCA >
+CREATIVE SOUNDBLASTER X-Fi HD (Model: SB1240) (line in) > PC (USB) >
+Audacity - Record, Track split
+xrecodeII - WAV > FLAC
+foobar2k - Tagging
+
+SETLiST:
+
+01. Fuel
+02. For Whom The Bell Tolls
+03. Blackened
+04. King Nothing
+05. Disposable Heroes - Kirk Solo
+06. The Day That Never Comes
+07. The Memory Remains
+08. Lords Of Summer
+09. Sad But True
+10. Bass Solo
+11. The Unforgiven
+12. All Nightmare Long
+13. One
+14. Master Of Puppets +Kirk Solo #2
+15. Fade to Black
+16. Seek and Destroy
+17. Whiskey in the Jar
+18. Nothing Else Matters
+19. Enter Sandman
+
+iNFO:
+
+Some Static/Noise During the first 20mins (mostly the first 2 songs)
+
+Notes provided via LiveMetallica.com
+------------------------------------
+This was the 12th time that Metallica performed in Quebec City.
+
+We first performed in Quebec City on January 17, 1985.
+
+The last time we played in Quebec City was on July 16, 2011.
+
+This is the eighth time that we have performed at the Colisée Pepsi (also known as the Colisée de Québec) and this is the last time that anyone performs at the venue.
+
+This is the first time that "The Memory Remains," "Lords of Summer" and "Whiskey in the Jar" were played at the Colisée Pepsi.
+
+This was the second time that "Disposable Heroes," "The Day That Never Comes" and "All Nightmare Long" were peformed at the Colisée Pepsi.
+
+This was the third time that "Fuel," "King Nothing" and "The Unforgiven" were played at the Colisée Pepsi.
+
+This was the fourth time that "Blackened" was played at the Colisée Pepsi.
+
+This was the fifth time that "For Whom the Bell Tolls" and "Fade to Black" were performed at the Colisée Pepsi.
+
+This was the sixth time that "Nothing Else Matters" was performed at the Colisée Pepsi.
+
+This was the seventh time that "Sad But True" and "Enter Sandman" were played at the Colisée Pepsi.
+
+"One," "Master of Puppets" and "Seek and Destroy" have been performed at all eight shows at the Colisée Pepsi.
+
+The band performed 18 songs off of eight albums: Kill 'Em All (1), Ride the Lightning (2), Master of Puppets (2), ...And Justice for All (2), Metallica (4), Load (1), Reload (2), Garage Inc. (1), Death Magnetic (2) and one non-album track.

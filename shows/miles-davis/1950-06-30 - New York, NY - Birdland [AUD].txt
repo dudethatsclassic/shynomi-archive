@@ -1,0 +1,210 @@
+Birdland All-Stars
+06-30-1950
+Birdland
+New York, New York
+
+Project ID - 84
+
+Source: Audience Recording
+Lineage: Audience Recording > ?? > cd (Peter Losin's Archive) > 
+cd duplicated (burner to burner) > eac > wave > flac (lvl 8 )
+
+Miles Davis (tpt); Theodore "Fats" Navarro (tpt); J.J. Johnson (tb); 
+Charlie Parker (as); Milton "Brew" Moore (ts); Tadd Dameron (p); 
+Walter Bishop, Jr. (p); Dillon "Curly" Russell (b); Art Blakey (d); 
+Roy Haynes (d); Chubby Newsome (voc); Pee Wee Marquette (ann)
+
+disc 1
+
+d1t01. Band warming up
+d1t02. Wee
+d1t03. Ow/
+d1t04. Band warming up
+d1t05. September in the Rain
+d1t06. Embraceable You
+d1t07. Introduction
+d1t08. Chubby's Blues
+d1t09. For You My Love
+
+disc 2
+
+d2t01. Band warming up
+d2t02. Max is Making Wax
+d2t03. /Hot House
+d2t04. 52nd Street Theme 
+d2t05. Conception/Deception
+d2t06. Eronel
+d2t07. 52nd Street Theme/
+ 
+-------------------------------------------------------
+
+Notes:
+
+- d1t03 is cut at the beginning of the track
+
+- d2t04 is a short teaser of 52nd street theme
+
+- d2t07 is cut at he end of the track. 
+
+- The quality is what you would expect from an audience recording from 1950. It is plauged 
+with static and distortion is definetly present, especially up to d1t03. It 
+improves on/after d1t03.There is another step up in quality on/after d1t06. The sound 
+on/after d1t06 is very pleasing. 
+ 
+
+- "Parker plays only on the closing chorus of "Conception."- Credit to Peter Losin, 
+http://www.plosin.com/
+
+- "There is a lot of uncertainty about the dating of this music. The Miles Davis-Stan 
+Getz Sextet was booked at Birdland for a week in February (Feb 9-16), and some 
+broadcast recordings have been issued." - Credit to Peter Losin, http://www.plosin.com/
+
+- "Davis's own sextet, with Brew Moore replacing Getz and occasionally joined by 
+vocalist "Little" Jimmy Scott, remained at Birdland (opposite Ella Fitzgerald and the 
+Bud Powell Trio) through July 6th." - Credit to Peter Losin, http://www.plosin.com/
+
+- "In the notes to the JMY CD, Enrico Merlin argues that these tunes are all from a 
+single night, June 30. Ken Vail (Miles' Diary) claims that broadcast recordings were 
+made over several nights during this period:
+
+    * May 17 (Wed): Max is Making Wax; Chubby's Blues; Conception/Deception
+    * May 18 (Thu): Hot House; 52nd Street Theme (Davis was in Columbia's 30th Street 
+                    Studios with Sarah Vaughan and the Jimmy Jones Octet for sessions on May 18 and 19.)
+    * May 20 (Sat): 'Round Midnight; Embraceable You; Wee
+    * May 21 (Sun): Ow; For Now My Love [sic]; September in the Rain; Eronel; 52nd 
+                    Street Theme
+    * May 29 (Mon): 52nd Street Theme
+    * May 30 (Tue): Wee; Chubby's Blues
+    * June 30 (Fri): Hot House; Embraceable You; Eronel; 52nd Street Theme 
+                     (Walter Bishop, Jr. replaces Tadd Dameron)
+
+Vail's source is probably Boris Rose's "log," which lists many of these tunes with the 
+titles under which they were first issued -- "Poobah," "Moo," "Mile's Midnight Breakaway,"" "Overturia," "Rambunctious Rambling," etc.
+- Credit to Peter Losin, http://www.plosin.com/
+
+- "A second trumpet is audible on several tunes -- "Hot House," "Conception/Deception," 
+"Eronel," and the long "52nd Street Theme" -- and this is usually identified as Fats 
+Navarro, who died of tuberculosis on July 7. He's in sad shape here, and seems especially 
+lost on "Conception/Deception."" - Credit to Peter Losin, http://www.plosin.com/
+
+- ""In favor of the June 30 date, however unlikely it may seem given Navarro's death on 
+July 7, Dan Morgenstern writes in the Columbia liner notes that "Ira Gitler, who saw 
+Fats at Birdland in 1950, recalls him as a shrunken, pitiful figure, racked by coughing 
+and playing feebly. But available clues have been checked and rechecked, and June 30 is 
+the date that comes up." On the other hand, writing about some other recordings of Navarro,
+Gitler remarked, "I question the May 1950 dating of records made of his broadcasts from 
+Café Society... His playing seems... too alive for the man who would be dead of 
+tuberculosis on July 7" (Jazz Masters of the Forties, p. 101." - Credit to Peter Losin, 
+http://www.plosin.com/
+
+- QC done by Bgreen
+
+md5
+69a471c1d1a445f620f96fe53c8e6c36 *md1950-06-30.aud.LL84.d1t01.flac
+def17767ac9584de2c8cd883da46cc7f *md1950-06-30.aud.LL84.d1t02.flac
+b3640eccf9cb07e1ad3391f427ab1442 *md1950-06-30.aud.LL84.d1t03.flac
+3b152782be4695e3d934c785c3e31fca *md1950-06-30.aud.LL84.d1t04.flac
+392e0836de49da99531a675468b2be04 *md1950-06-30.aud.LL84.d1t05.flac
+a75dbcbe7ddb6a98f5636c1335a8b606 *md1950-06-30.aud.LL84.d1t06.flac
+d782e7dee2dcacb2eed571a9e554ef20 *md1950-06-30.aud.LL84.d1t07.flac
+19bfba0544942064a5b7ec7273292246 *md1950-06-30.aud.LL84.d1t08.flac
+6c36cfb1e1d26483c068dac875ead7fa *md1950-06-30.aud.LL84.d1t09.flac
+ba7c3e8d65b1954560f580b9717a20c9 *md1950-06-30.aud.LL84.d2t01.flac
+ebc6757dc7537ef0c170dc91b37257ad *md1950-06-30.aud.LL84.d2t02.flac
+de0ce501a3f3d29b5835a38f3962873d *md1950-06-30.aud.LL84.d2t03.flac
+e5207be6b392f4236c7d9b5d6e6d1dd8 *md1950-06-30.aud.LL84.d2t04.flac
+2abedea430aca7c62455bbeac2827320 *md1950-06-30.aud.LL84.d2t05.flac
+2df4338b22b0dd124ddb0282fbb3fa52 *md1950-06-30.aud.LL84.d2t06.flac
+25c3e99278a24c123f357bbfdd1fa21e *md1950-06-30.aud.LL84.d2t07.flac
+
+ffp
+md1950-06-30.aud.LL84.d1t01.flac:4ea53e6f6db4cdc7a72bf26d467ee769
+md1950-06-30.aud.LL84.d1t02.flac:7b498ac06a38b063459aca6d9f2ad216
+md1950-06-30.aud.LL84.d1t03.flac:a9ef5637001b51debb6e8e4120b2f4e1
+md1950-06-30.aud.LL84.d1t04.flac:90006d7c7d1206e9994a129cacb990fe
+md1950-06-30.aud.LL84.d1t05.flac:09201c6988c40858de8a586973677e00
+md1950-06-30.aud.LL84.d1t06.flac:8d9f5121e19203577b321fbcabfdbf65
+md1950-06-30.aud.LL84.d1t07.flac:f1d8d22a8582a094137b05631a80df16
+md1950-06-30.aud.LL84.d1t08.flac:030491c5b50e432979dfb0e6d18eaec1
+md1950-06-30.aud.LL84.d1t09.flac:f2522fe8ea0f4f1fdd95158abb7983d4
+md1950-06-30.aud.LL84.d2t01.flac:cbeb2e385c00c1c0820fbc94b8948f38
+md1950-06-30.aud.LL84.d2t02.flac:db243d8dda3928155b950119a525eacf
+md1950-06-30.aud.LL84.d2t03.flac:c80026195a1ac627905a6c68f6d85702
+md1950-06-30.aud.LL84.d2t04.flac:7a70e2db8457a47ec0fd9c2935281ffd
+md1950-06-30.aud.LL84.d2t05.flac:d44f4d8f10d41b7e73ee95f364559e83
+md1950-06-30.aud.LL84.d2t06.flac:621c86849054b6c5fd97c92de14996c3
+md1950-06-30.aud.LL84.d2t07.flac:f2d9703d799172e6cc52f56eb2ee0470
+
+st5 
+4ea53e6f6db4cdc7a72bf26d467ee769  [shntool]  md1950-06-30.aud.LL84.d1t01.flac
+7b498ac06a38b063459aca6d9f2ad216  [shntool]  md1950-06-30.aud.LL84.d1t02.flac
+a9ef5637001b51debb6e8e4120b2f4e1  [shntool]  md1950-06-30.aud.LL84.d1t03.flac
+90006d7c7d1206e9994a129cacb990fe  [shntool]  md1950-06-30.aud.LL84.d1t04.flac
+09201c6988c40858de8a586973677e00  [shntool]  md1950-06-30.aud.LL84.d1t05.flac
+8d9f5121e19203577b321fbcabfdbf65  [shntool]  md1950-06-30.aud.LL84.d1t06.flac
+f1d8d22a8582a094137b05631a80df16  [shntool]  md1950-06-30.aud.LL84.d1t07.flac
+030491c5b50e432979dfb0e6d18eaec1  [shntool]  md1950-06-30.aud.LL84.d1t08.flac
+f2522fe8ea0f4f1fdd95158abb7983d4  [shntool]  md1950-06-30.aud.LL84.d1t09.flac
+cbeb2e385c00c1c0820fbc94b8948f38  [shntool]  md1950-06-30.aud.LL84.d2t01.flac
+db243d8dda3928155b950119a525eacf  [shntool]  md1950-06-30.aud.LL84.d2t02.flac
+c80026195a1ac627905a6c68f6d85702  [shntool]  md1950-06-30.aud.LL84.d2t03.flac
+7a70e2db8457a47ec0fd9c2935281ffd  [shntool]  md1950-06-30.aud.LL84.d2t04.flac
+d44f4d8f10d41b7e73ee95f364559e83  [shntool]  md1950-06-30.aud.LL84.d2t05.flac
+621c86849054b6c5fd97c92de14996c3  [shntool]  md1950-06-30.aud.LL84.d2t06.flac
+f2d9703d799172e6cc52f56eb2ee0470  [shntool]  md1950-06-30.aud.LL84.d2t07.flac
+
+shntool
+  length     expanded size   cdr  WAVE problems filename
+     2:39.60       28188764    ---   --   ---xx   md1950-06-30.aud.LL84.d1t01.flac
+    11:12.19      118585532    ---   --   ---xx   md1950-06-30.aud.LL84.d1t02.flac
+    11:09.67      118169228    ---   --   ---xx   md1950-06-30.aud.LL84.d1t03.flac
+     0:36.69        6512732    ---   --   ---xx   md1950-06-30.aud.LL84.d1t04.flac
+     3:36.48       38215340    ---   --   ---xx   md1950-06-30.aud.LL84.d1t05.flac
+     4:12.49       44568092    ---   --   ---xx   md1950-06-30.aud.LL84.d1t06.flac
+     0:17.74        3172892    ---   --   ---xx   md1950-06-30.aud.LL84.d1t07.flac
+     2:30.01       26462396    ---   --   ---xx   md1950-06-30.aud.LL84.d1t08.flac
+     2:20.21       24745436    ---   --   ---xx   md1950-06-30.aud.LL84.d1t09.flac
+     2:04.43       21974780    ---   --   ---xx   md1950-06-30.aud.LL84.d2t01.flac
+     6:27.48       68379740    ---   --   ---xx   md1950-06-30.aud.LL84.d2t02.flac
+    10:03.44      106472732    ---   --   ---xx   md1950-06-30.aud.LL84.d2t03.flac
+     0:07.01        1237196    ---   --   ---xx   md1950-06-30.aud.LL84.d2t04.flac
+    11:06.46      117590636    ---   --   ---xx   md1950-06-30.aud.LL84.d2t05.flac
+    13:03.54      138248252    ---   --   ---xx   md1950-06-30.aud.LL84.d2t06.flac
+     5:38.57       59757308    ---   --   ---xx   md1950-06-30.aud.LL84.d2t07.flac
+    87:08.26      922281056 B                     (totals for 16 files, 0.5064 overall compression ratio)
+
+spectral analysis from TLH
+md1950-06-30.aud.LL84.d1t01.wav:  track looks like CDDA with probability 100%
+md1950-06-30.aud.LL84.d1t02.wav:  track looks like CDDA with probability 100%
+md1950-06-30.aud.LL84.d1t03.wav:  track looks like CDDA with probability 100%
+md1950-06-30.aud.LL84.d1t04.wav:  track looks like CDDA with probability 100%
+md1950-06-30.aud.LL84.d1t05.wav:  track looks like CDDA with probability 100%
+md1950-06-30.aud.LL84.d1t06.wav:  track looks like CDDA with probability 100%
+md1950-06-30.aud.LL84.d1t07.wav:  track looks like CDDA with probability 100%
+md1950-06-30.aud.LL84.d1t08.wav:  track looks like CDDA with probability 100%
+md1950-06-30.aud.LL84.d1t09.wav:  track looks like CDDA with probability 100%
+md1950-06-30.aud.LL84.d2t01.wav:  track looks like CDDA with probability 100%
+md1950-06-30.aud.LL84.d2t02.wav:  track looks like CDDA with probability 100%
+md1950-06-30.aud.LL84.d2t03.wav:  track looks like CDDA with probability 99%
+md1950-06-30.aud.LL84.d2t04.wav:  track looks like CDDA with probability 100%
+md1950-06-30.aud.LL84.d2t05.wav:  track looks like CDDA with probability 100%
+md1950-06-30.aud.LL84.d2t06.wav:  track looks like CDDA with probability 100%
+md1950-06-30.aud.LL84.d2t07.wav:  track looks like CDDA with probability 92%
+
+old ffp 
+01 - Track01.flac:4ea53e6f6db4cdc7a72bf26d467ee769
+02 - Track02.flac:7b498ac06a38b063459aca6d9f2ad216
+03 - Track03.flac:a9ef5637001b51debb6e8e4120b2f4e1
+04 - Track04.flac:90006d7c7d1206e9994a129cacb990fe
+05 - Track05.flac:09201c6988c40858de8a586973677e00
+06 - Track06.flac:8d9f5121e19203577b321fbcabfdbf65
+07 - Track07.flac:f1d8d22a8582a094137b05631a80df16
+08 - Track08.flac:030491c5b50e432979dfb0e6d18eaec1
+09 - Track09.flac:f2522fe8ea0f4f1fdd95158abb7983d4
+01 - Track01.flac:cbeb2e385c00c1c0820fbc94b8948f38
+02 - Track02.flac:db243d8dda3928155b950119a525eacf
+03 - Track03.flac:c80026195a1ac627905a6c68f6d85702
+04 - Track04.flac:7a70e2db8457a47ec0fd9c2935281ffd
+05 - Track05.flac:d44f4d8f10d41b7e73ee95f364559e83
+06 - Track06.flac:621c86849054b6c5fd97c92de14996c3
+07 - Track07.flac:f2d9703d799172e6cc52f56eb2ee0470

@@ -1,0 +1,53 @@
+CAKE
+2009/05/31 - The 930 Club, Washington DC, USA
+
+Taper: travelinbeat
+Location:  *STEALTH*
+Source:  CA-14's >  CA-9100 Pre (+20dB) > R-09HR 24/96 Line-In, input level 45
+Editing:  Stereo file split into 2 mono's, channels EQ'ed seperately, original file re-introduced, mashed back into 1 single, 2 channel stereo file, repeated (Reaper v 2.58).  Normalize audio to -0.10dB, tracking, fades, final EQ (Sony Soundforge 8.0)
+Convertion: Trader's Little Helper v.2.2.1 (Build 151), (the 16bit/44.1 version of this recording was converted using Sony Soundforge 8.0)
+
+
+
+TRACKLIST:					TIME:
+
+SET I
+01- Intro					01:54
+02- Sad Songs and Waltzes			03:06
+03- Short Skirt / Long Jacket			07:01
+04- Comfort Eagle				05:09
+05- Mexico					04:09
+06- Ruby Sees All				03:10
+07- Frank Sinatra				06:23
+08- I Want to Love You Madly			04:19
+09- Wheels					04:31
+10- It's Been a Long Time *			06:08
+11- Satan is My Motor				07:09
+
+				     SET TOTAL- 52:59
+
+
+SET II
+12- Return & Pentegram Intro			01:59
+13- Pentegram					03:55
+14- Jolene					11:51
+15- Daria					06:16
+16- Sheep Go to Heaven				06:02
+17- Sick of Me *				06:56
+18- Away *					03:33
+19- (Tree)					09:31
+20- Guitar					07:45
+21- Never There	(encore break)			05:13
+22- War Pigs #					05:58
+23- The Distance				03:06
+
+				     SET TOTAL- 72:05
+				   GRAND TOTAL- 125:04
+
+*- Unsure of title; new song?
+#- Black Sabbath cover
+
+
+
+MISC NOTES:
+Great show.  This was the first show I saw after graduating and returning to the DC area.  This was the second consecutive night that they played the 930 Club, booked as "An Evening with Cake" and featured only Cake (no openers) playing two "full" sets per night.  I did not attend the show the night prior (May 30th).  The band and the club were giving out free CAKE posters and cupcakes. =)

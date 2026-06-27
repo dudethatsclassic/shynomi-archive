@@ -1,0 +1,78 @@
+The following is a summary of the mastering / EQ of this show for anyone interested.
+
+
+-------------------Initial Mastering & EQ-----------------------------
+
+General:
+
+opened data as raw pcm 16 bit mono @ 44,100 Hz
+cut first 2 seconds and last 30 seconds
+save as 16 bit stereo WAV @ 44,100 Hz
+normalize
+DC Offset
+normalize
+Dehiss (high freq cutoff above 6 KHz -40 dB, 
+
+
+
+Black Tambourine:
+
+part 1:
+detect clipping
+remove prefix postfix
+normalize
+dc offset
+20,050 Hz high pass
+-40 dB notch @ 8KHz, transition bw = 0.1 oct, -3 dB gain
+-60 dB notch @ 12.125 KHz, tran bw = 0.1 oct,  0 dB gain
+normalize
+part 2:
+interpolate to remove peaking
+normalize (peak)
+DC Offset
+20,050 Hz high pass
+-40 dB notch @ 8KHz, transition bw = 0.1 oct, -3 dB gain
+-60 dB notch @ 12.125 KHz, tran bw = 0.1 oct,  0 dB gain
+levels adjustments to eliminate peak levels due to mic adjustment
+normalize (rms)
+
+
+Emergency Exit:
+
+part 1:
+interpolate to remove peaking
+normalize (peak)
+DC Offset
+20,050 Hz high pass
+-40 dB notch @ 8KHz, transition bw = 0.1 oct, -3 dB gain
+-60 dB notch @ 12.125 KHz, tran bw = 0.1 oct,  0 dB gain
+levels adjustments to eliminate peak levels due to mic adjustment
+normalize (rms)
+interpolate to remove peaking
+part 2:
+DC Offset
+normalize (peak)
+20,050 Hz high pass
+-40 dB notch @ 8KHz, transition bw = 0.1 oct, -3 dB gain
+-60 dB notch @ 12.125 KHz, tran bw = 0.1 oct,  0 dB gain
+levels adjustments to eliminate peak levels due to mic adjustment
+normalize (rms)
+---------------------------------------------------------------------
+
+-----------------Additional Normalization----------------------------
+
+After these pieces were cleaned up, the tracks were seperated. Each track was normalized seperately using RMS normalization in order to allow maximum levels (i.e. peak normalization would leave levels relatively low).
+---------------------------------------------------------------------
+
+
+Recorded by:
+
+cofuture
+
+
+Mastered/Seeded by:
+
+breathmint (breathmint@hotmail.com)
+becktabs hub (dc://becktabs.homeunix.org)
+
+Please Enjoy...

@@ -1,0 +1,82 @@
+General
+Format                         : MPEG-PS
+File size                      : 4.30 GiB
+Duration                       : 1h 5mn
+Overall bit rate               : 9 411 Kbps
+
+Video
+ID                             : 224 (0xE0)
+Format                         : MPEG Video
+Format version                 : Version 2
+Format profile                 : Main@Main
+Format settings, BVOP          : Yes
+Format settings, Matrix        : Default
+Format settings, GOP           : M=3, N=15
+Format settings, picture struc : Frame
+Duration                       : 1h 5mn
+Bit rate                       : 8 840 Kbps
+Maximum bit rate               : 9 000 Kbps
+Width                          : 720 pixels
+Height                         : 480 pixels
+Display aspect ratio           : 4:3
+Frame rate                     : 29.970 fps
+Standard                       : NTSC
+Color space                    : YUV
+Chroma subsampling             : 4:2:0
+Bit depth                      : 8 bits
+Scan type                      : Interlaced
+Scan order                     : Bottom Field First
+Compression mode               : Lossy
+Bits/(Pixel*Frame)             : 0.853
+Time code of first frame       : 00:00:00:00
+Time code source               : Group of pictures header
+GOP, Open/Closed               : Open
+GOP, Open/Closed of first fram : Closed
+Stream size                    : 4.04 GiB (94%)
+
+Audio #1
+ID                             : 189 (0xBD)-128 (0x80)
+Format                         : AC-3
+Format/Info                    : Audio Coding 3
+Mode extension                 : CM (complete main)
+Format settings, Endianness    : Big
+Muxing mode                    : DVD-Video
+Duration                       : 1h 5mn
+Bit rate mode                  : Constant
+Bit rate                       : 192 Kbps
+Channel(s)                     : 2 channels
+Channel positions              : Front: L R
+Sampling rate                  : 48.0 KHz
+Compression mode               : Lossy
+Stream size                    : 89.9 MiB (2%)
+
+Audio #2
+ID                             : 189 (0xBD)-129 (0x81)
+Format                         : AC-3
+Format/Info                    : Audio Coding 3
+Mode extension                 : CM (complete main)
+Format settings, Endianness    : Big
+Muxing mode                    : DVD-Video
+Duration                       : 1h 5mn
+Bit rate mode                  : Constant
+Bit rate                       : 192 Kbps
+Channel(s)                     : 2 channels
+Channel positions              : Front: L R
+Sampling rate                  : 48.0 KHz
+Compression mode               : Lossy
+Stream size                    : 89.9 MiB (2%)
+
+Setlist:
+00. The Ecstasy Of Gold (Ennio Morricone Song)
+01. Creeping Death
+02. For Whom The Bell Tolls
+03. Welcome Home (Sanitarium)
+04. Harvester Of Sorrow
+05. Whiplash
+06. Fade To Black
+07. Seek & Destroy
+08. Master Of Puppets
+Encore:
+09. Last Caress (Misfits Cover)
+10. Am I Evil? (Diamond Head Cover)
+11. Battery (With "Damage Inc." Intro)

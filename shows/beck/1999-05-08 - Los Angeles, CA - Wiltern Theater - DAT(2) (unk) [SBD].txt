@@ -1,0 +1,37 @@
+BECK
+May 8, 1999
+Wiltern Theater
+Los Angeles, CA
+
+Source: Soundboard
+Taper: unknown
+Lineage: DAT(2) [48] > WAV [48] > WAV [44.1] > FLAC [44.1]
+Transfer: Tascam DA-20mkII > M-Audio Audiophile 2496 > Sound Forge > CD Wave
+Edits/EQ: +4dB, fixed dropouts @ 0:20-24 in "encore cheers"
+Noes: two songs cut, cut during encore cheers
+
+01 - intro
+02 - Cold Brains
+03 - Lazy Flies
+04 - We Live Again
+05 - Rowboat
+06 - Sing It Again
+07 - Bottle of Blues
+08 - One of These Days
+09 - Tropicalia
+10 - Sissyneck
+11 - O Maria
+12 - Dead Melodies
+13 - Girl Dreams
+14 - talk
+15 - Lampshade
+[cut] Nobody's Fault But My Own
+[cut] Jack-Ass
+16 - encore cheers
+17 - Deadweight
+18 - I Wanna Get With You
+19 - Devil's Haircut
+
+
+Compiled October 2018 by CPS
+Seeded October 2018 to dimeadozen.org by CPS

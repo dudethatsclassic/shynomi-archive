@@ -1,0 +1,279 @@
+Metallica 
+
+1989-02-19
+Coliseum
+Greensboro, NC
+
+Source: Unknown AUD (1st Gen. Cass)
+
+Transfer: 1st Gen. Cass > Sony TCW-305 > Roxio 6.0 > WAV > CDR(M) > EAC(secure) > WAV > FLAC(lvl8) 
+
+Disc 1:
+01. The Ecstasy of Gold
+02. Blackened
+03. For Whom the Bell Tolls
+04. Welcome Home (Sanitarium)
+05. Harvester of Sorrow
+06. Eye of the Beholder
+07. Bass Solo
+08. Master of Puppets
+09. One
+10. Seek And Destroy
+11. ...And Justice for All
+
+Disc 2:
+01. Creeping Death
+02. Fade to Black
+03. Kirk Guitar Solo -> Little Wing Jam -> Third Stone From Sun Jam ->
+04. Battery
+05. Sabbra Cadabra tease -> Run To The Hills tease -> Helpless Jam -> Last Caress
+06. Am I Evil?
+07. Whiplash
+08. Breadfan 
+
+
+Notes:
+A show i got in a trade from the guy that transfered his 1st gen cass to cdr for me. Since this is a first gen copy this is as good as it gets for this show until the master surfaces. The sound on this is pretty nice overall for a 1st gen cass. aud recording from 88.
+
+
+                      Enjoy!
+
+                         ~ bubba420 ~
+
+
+
+
+
+
+
+
+FLAC Fingerprint:
+
+Disc 1:
+Track01.flac:00b9eee44834515259794f7baf3c18b4
+Track02.flac:a1d1dd874db4e5e8a0bc421e1c9b2b7a
+Track03.flac:0e41ad988925e517bcf1891f6dbb2ab0
+Track04.flac:4e38e90576982b3f157b546469f2643b
+Track05.flac:a297ab9e1b7386789fdb31f0350d1dad
+Track06.flac:c08fe8b88503afcac2e84b9330dac15a
+Track07.flac:db88c8fbb9b52d16c0785fd3808c72ad
+Track08.flac:e7fe6d53ffd71962c9879c60dd70018a
+Track09.flac:5195e0d9c693b07bf1be846f33fa9881
+Track10.flac:aa908713b3b8724707e1f011d8ab28ef
+Track11.flac:6c4a769ab2c114e0a2eabe778333f7c9
+Disc 2:
+Track01.flac:7d02fc112fe584bf49eb3646e2717d7e
+Track02.flac:347d958f692e29ea3d5829620fbbcb94
+Track03.flac:a4ce608b58305accf67d66187a686e23
+Track04.flac:ce903cab60015fb19865ccfc5a2bed8e
+Track05.flac:63ab1e77fa8005381d62c8596e80cc38
+Track06.flac:1d116e416f00ef47c1da9eebee7269aa
+Track07.flac:ac86eb446e28a213316902a8678fa755
+Track08.flac:88088f455c1f705ef80908e59a660977
+
+
+
+
+
+EAC LOG:
+
+EAC extraction logfile from 23. February 2006, 1:51 for CD
+Unknown Artist / Unknown Title
+
+Used drive  : LG      CD-RW CED-8120B   Adapter: 0  ID: 0
+Read mode   : Secure with NO C2, accurate stream, NO disable cache
+Combined read/write offset correction : 0
+Overread into Lead-In and Lead-Out : No
+
+Used output format : Internal WAV Routines
+                     44.100 Hz; 16 Bit; Stereo
+
+Other options      : 
+    Fill up missing offset samples with silence : Yes
+    Delete leading and trailing silent blocks : No
+    Installed external ASPI interface
+
+
+Track  1
+     Filename C:\My Documents\Metallica 1989-02-19 Greensboro, NC\Disc 1\Track01.wav
+
+     Peak level 77.8 %
+     Track quality 99.9 %
+     Copy CRC 2C6B94EC
+     Copy OK
+
+Track  2
+     Filename C:\My Documents\Metallica 1989-02-19 Greensboro, NC\Disc 1\Track02.wav
+
+     Peak level 87.3 %
+     Track quality 99.9 %
+     Copy CRC 5FB06E8F
+     Copy OK
+
+Track  3
+     Filename C:\My Documents\Metallica 1989-02-19 Greensboro, NC\Disc 1\Track03.wav
+
+     Peak level 86.1 %
+     Track quality 99.9 %
+     Copy CRC 67F57F42
+     Copy OK
+
+Track  4
+     Filename C:\My Documents\Metallica 1989-02-19 Greensboro, NC\Disc 1\Track04.wav
+
+     Peak level 90.7 %
+     Track quality 99.9 %
+     Copy CRC 6C0A6A1A
+     Copy OK
+
+Track  5
+     Filename C:\My Documents\Metallica 1989-02-19 Greensboro, NC\Disc 1\Track05.wav
+
+     Peak level 84.4 %
+     Track quality 99.9 %
+     Copy CRC AE8C00C0
+     Copy OK
+
+Track  6
+     Filename C:\My Documents\Metallica 1989-02-19 Greensboro, NC\Disc 1\Track06.wav
+
+     Peak level 87.1 %
+     Track quality 100.0 %
+     Copy CRC 1B40F5CA
+     Copy OK
+
+Track  7
+     Filename C:\My Documents\Metallica 1989-02-19 Greensboro, NC\Disc 1\Track07.wav
+
+     Peak level 100.0 %
+     Track quality 99.9 %
+     Copy CRC 51B4A5A9
+     Copy OK
+
+Track  8
+     Filename C:\My Documents\Metallica 1989-02-19 Greensboro, NC\Disc 1\Track08.wav
+
+     Peak level 86.5 %
+     Track quality 99.9 %
+     Copy CRC F9877911
+     Copy OK
+
+Track  9
+     Filename C:\My Documents\Metallica 1989-02-19 Greensboro, NC\Disc 1\Track09.wav
+
+     Peak level 85.5 %
+     Track quality 100.0 %
+     Copy CRC 389D8B1F
+     Copy OK
+
+Track 10
+     Filename C:\My Documents\Metallica 1989-02-19 Greensboro, NC\Disc 1\Track10.wav
+
+     Peak level 93.7 %
+     Track quality 100.0 %
+     Copy CRC 2F7FE7DF
+     Copy OK
+
+Track 11
+     Filename C:\My Documents\Metallica 1989-02-19 Greensboro, NC\Disc 1\Track11.wav
+
+     Peak level 90.6 %
+     Track quality 100.0 %
+     Copy CRC 12D67CEE
+     Copy OK
+
+No errors occured
+
+
+End of status report
+
+
+EAC extraction logfile from 23. February 2006, 1:39 for CD
+Unknown Artist / Unknown Title
+
+Used drive  : LG      CD-RW CED-8120B   Adapter: 0  ID: 0
+Read mode   : Secure with NO C2, accurate stream, NO disable cache
+Combined read/write offset correction : 0
+Overread into Lead-In and Lead-Out : No
+
+Used output format : Internal WAV Routines
+                     44.100 Hz; 16 Bit; Stereo
+
+Other options      : 
+    Fill up missing offset samples with silence : Yes
+    Delete leading and trailing silent blocks : No
+    Installed external ASPI interface
+
+
+Track  1
+     Filename C:\My Documents\Metallica 1989-02-19 Greensboro, NC\Disc 2\Track01.wav
+
+     Peak level 88.2 %
+     Track quality 99.9 %
+     Copy CRC 21C65DE0
+     Copy OK
+
+Track  2
+     Filename C:\My Documents\Metallica 1989-02-19 Greensboro, NC\Disc 2\Track02.wav
+
+     Peak level 82.7 %
+     Track quality 99.9 %
+     Copy CRC BE2ABC40
+     Copy OK
+
+Track  3
+     Filename C:\My Documents\Metallica 1989-02-19 Greensboro, NC\Disc 2\Track03.wav
+
+     Peak level 84.3 %
+     Track quality 99.9 %
+     Copy CRC 89C1B0B4
+     Copy OK
+
+Track  4
+     Filename C:\My Documents\Metallica 1989-02-19 Greensboro, NC\Disc 2\Track04.wav
+
+     Peak level 88.3 %
+     Track quality 99.9 %
+     Copy CRC 131FAF28
+     Copy OK
+
+Track  5
+     Filename C:\My Documents\Metallica 1989-02-19 Greensboro, NC\Disc 2\Track05.wav
+
+     Peak level 94.3 %
+     Track quality 99.9 %
+     Copy CRC 27E59CF1
+     Copy OK
+
+Track  6
+     Filename C:\My Documents\Metallica 1989-02-19 Greensboro, NC\Disc 2\Track06.wav
+
+     Peak level 91.7 %
+     Track quality 100.0 %
+     Copy CRC 6A3E3B3F
+     Copy OK
+
+Track  7
+     Filename C:\My Documents\Metallica 1989-02-19 Greensboro, NC\Disc 2\Track07.wav
+
+     Peak level 82.2 %
+     Track quality 99.9 %
+     Copy CRC E92E4B9C
+     Copy OK
+
+Track  8
+     Filename C:\My Documents\Metallica 1989-02-19 Greensboro, NC\Disc 2\Track08.wav
+
+     Peak level 86.9 %
+     Track quality 99.9 %
+     Copy CRC 07F82690
+     Copy OK
+
+No errors occured
+
+
+End of status report
+
+ 
+
+ 

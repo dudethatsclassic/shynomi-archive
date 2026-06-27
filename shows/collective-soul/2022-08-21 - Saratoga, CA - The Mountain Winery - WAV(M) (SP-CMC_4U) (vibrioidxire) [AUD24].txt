@@ -1,0 +1,61 @@
+COLLECTIVE SOUL
+August 21, 2022
+The Mountain Winery
+Saratoga, CA, US
+
+SETLIST:
+-------------------
+01. Cut the Cord
+02. Heavy
+03. All Our Pieces
+04. Shine
+05. Better Now
+06. Bob Dylan, Where Are You Today?
+07. The World I Know
+08. Right as Rain
+09. December
+10. The One I Love [R.E.M. cover, feat. Jon Foreman]
+11. Gel [w/ segued jam] ->
+12. Where the River Flows
+13. Run
+
+
+SOURCE:
+-------------------
+AUD #1 - Quality: 9.0
+Sound Professionals SP-CMC-4U > Sony PCM-A10
+
+Recorded by: vibrioidxire
+
+TRANSFER:
+-------------------
+Sound Professionals SP-CMC-4U (AT-U853's, with SP UE-H-PAIR hypercardioid caps mod) > Sound Professionals SP-SPSB-10 Power Module > Sony PCM-A10 High-Resolution Digital Audio Recorder > WAV [48kHz/24-bit] > USB connector > Sony PC-U004 USB 2.0 cable > WD USB-to-USB-C adapter > Apple MacBook Pro (16-inch, 2021) > Adobe Audition 22.5 [post-production/mastering] > xACT 2.50 > FLAC [Level 8]
+
+GENERATION:
+-------------------
+WAV(M) [48kHz/24-bit] > FLAC [Level 8]
+
+NOTES:
+-------------------
+- The set was cut short, as curfew was at 10pm.
+
+
+FLAC FINGERPRINTS:
+-------------------
+collectivesoul2022-08-21-aud1-t01.flac:16e7ba5d1944f23b0bed1d3b7f5f027f
+collectivesoul2022-08-21-aud1-t02.flac:4cd951b6cfb7b4a94aa556bc8d912c70
+collectivesoul2022-08-21-aud1-t03.flac:affc60c27aaac56e78646cd01eb6a388
+collectivesoul2022-08-21-aud1-t04.flac:57647b3276abace0c329ededf1f2d2a5
+collectivesoul2022-08-21-aud1-t05.flac:6f927bd6c3ad0abba70bede2dac831e7
+collectivesoul2022-08-21-aud1-t06.flac:313b2ad6eb91ae8378b76b2f7e446236
+collectivesoul2022-08-21-aud1-t07.flac:413d065484b37ee5077de01cf1e10df6
+collectivesoul2022-08-21-aud1-t08.flac:9bdc60f00befb40706bb1775d49c04f0
+collectivesoul2022-08-21-aud1-t09.flac:fe8b962d479a7ea572a9ed9813aebffd
+collectivesoul2022-08-21-aud1-t10.flac:17b18a554034b9230e7e41d826018804
+collectivesoul2022-08-21-aud1-t11.flac:b0e23b58355794b03b3991c8b72d3c3e
+collectivesoul2022-08-21-aud1-t12.flac:66fc9aa668d610fd4c427e3ad4ff3e51
+collectivesoul2022-08-21-aud1-t13.flac:69798718c5df051a14194cd26815366f
+
+
+Transferred and encoded by: vibrioidxire
+PLEASE DO NOT DISTRIBUTE IN LOSSY FORMATS OR SELL!

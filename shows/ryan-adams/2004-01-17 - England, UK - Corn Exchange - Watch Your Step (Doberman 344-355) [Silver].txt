@@ -1,0 +1,122 @@
+the Ryan Adams Killers  
+17th January 2004 - 
+Corn Exchange, 
+2 Wheeler Street, 
+Cambridge, Cambridgeshire, 
+England, UK  
+"Rock N Roll Tour 04"  
+
+Disc 1:  
+01. One By One @#
+02. I See Monsters @
+03. Jacksonville Skyline @
+04. Why Do They Leave? @**
+05. Amy @**
+06. Thank You Louise @**
+07. Wonderwall @
+08. So Alive
+09. 1974
+10. Luminol
+11. Wish You Were Here
+12. Anybody Wanna Take Me Home
+13. Already Going & Gone > @#++
+14. To Be Young (Is To Be Sad, Is To Be High)
+15.E1: Sylvia Plath @
+16.      Goodnight, Hollywood Blvd. @**
+17.      New York, New York
+18.      This Is It @
+
+Disc 2:  
+01.      Nobody Girl
+02.      My Love For You Is Real @**
+03.      My Winding Wheel @
+04.E2: Burning Photographs >
+05.      The Drugs Not Working >
+06.      Do Miss America  
+--------------------------------------------------BONUS---------------------------------------------------------
+   2004-01-22 - 
+   Royal Court Theatre, 
+   1 Roe Street, Liverpool, 
+   Merseyside, England, UK
+   "Rock N Roll Tour 04"-  
+07. Note To Self: Don't Die
+08. Love Is Hell
+09. Shallow
+10. Please Do Not Let Me Go @
+11. La Cienega Just Smiled @
+12. Bus Back To Memphis @**
+13. Last Nite @$$
+14. Come Pick Me Up
+15. My Blue Manhattan @
+16. The Shadowlands [][]  
+
+@=solo acoustic
+#=1st time played
+**=tour debut
+++=this tune was formerly known as "Little Baby Fingers"
+$$=w/ "a modern age" rap
+[][]=Ryan infamously falls off the stage during the song, breaking his wrist & ending the gig  
+
+Ryan Adams (David Ryan Adams) - guitar, acoustic guitar, harmonica, piano, vox
+Jonathan Flaugher - bass
+Johnny McNabb (John Martin McNabb) - guitar
+Brad "Buck Wild" Rice (aka "Buck Wild", aka "Sweet B Brad Rice") - guitar, b.vox
+Johnny T (Johnny T.Yerington, aka "Rick O'Shea") - drums, percussion  
+Christine Smith - keys  
+
+Liberated Bootleg:  "Watch Your Step" - Doberman 344/345
+Lineage: CD Set > CDr > EAC > Traders Little Helper > Flac8 sector aligned
+
+soledriver NOTES:  
+--Feel free to do whatever you like with this recording as long as you don't charge money for it!
+--MP3, Who Cares? Just remember to support the artists, and live music!!  
+
+vg NOTES (2024-01-09):  
+--Thanks so much to whomever originally recorded this Ryan Adams 2004 show & to soledriver for the transfer of his copy & the sharing of it far & wide for us all to enjoy.  Absolutely Appreciated & it sounds fairly fantastic & in your face...definitely a HUGE upgrade to other circulating copies!!  
+--Jesse Malin opened
+--I added the band members info
+--corrected some of the song titles toward how they appear on the original albums
+--added more detail to the setlist info
+--added more detail to the venue info
+--https://en.wikipedia.org/wiki/Cambridge_Corn_Exchange
+--https://en.wikipedia.org/wiki/Royal_Court_Theatre,_Liverpool
+--created an ffp checksum file
+--added the ffp fingerprints to the text file
+--added some nice pics of the venue & a poster of the tour
+--I left the original text file in here, renamed as 'originalinfo'  
+
+ffp:  
+01 One By One.flac:616f93a86bccc6baebb0331c1ee0e49d
+02 I See Monsters.flac:b083bff607953b337ebbb8365ded01e5
+03 Jacksonville Skyline.flac:7ce41cfb11b18a7441a88e5355f1e594
+04 Why Do They Leave.flac:f956382eb6c3607ed26c29fd9e1c6999
+05 Amy.flac:f423b2632101ff575c7ad1f8065e219a
+06 Thank You Louise.flac:f05926739685dc8aa2aa033c632c1969
+07 Wonderwall.flac:50116fcec6c1081da6f0f62359d9b4dc
+08 So Alive.flac:654e2b4ddf8af7a6dc2aa45727177051
+09 1974.flac:c3f2d85be851d7050c6ef3ae6becaf2a
+10 Luminol.flac:3be2b37f49c921b5abe2494c2eb5a72a
+11 Wish You Were Here.flac:f6230bdded442a6743a02a99cdbb1a16
+12 Anybody Wanna Take Me Home.flac:e1af1ed8e36972014798476dc1288116
+13 Little Baby Fingers.flac:3b434640a817bf214c791ea1ed24185b
+14 To Be Young (Is To Be Sad, Is To Be High).flac:f6dd5ec40cf7c0f7ae816584ab793f48
+15 Sylvia Plath.flac:58f8e98188b1d08aa03e5b3cfdb974b6
+16 Goodnight Hollywood Blvd..flac:6b777c6be53a731727b070c036cdfd8f
+17 New York, New York.flac:0466addd809f7f4168d414e5ce9f8d20
+18 This Is It.flac:4bf2d5aedb976277de4c762825d24591
+19 Nobody Girl.flac:2200cd0df72df15642edbf80e463db06
+20 My Love For You Is Real.flac:5e82d95b6a5449e80274350bb6c64956
+21 My Winding Wheel.flac:dbc45a78d7fefca04497c2e63e0d50b1
+22 Burning Photographs.flac:2be85ac38828a7b387ff0917b36d2eaa
+23 The Drug's Not Working.flac:969c2a22185a843e841246bbc27f5486
+24 Do Miss America.flac:b242b8d492f2aed4d8b1810031da8b02
+25 Note To Self- Don't Die.flac:63a86b43fb8cf9f4f774cb8f0c7382fa
+26 Love Is Hell.flac:e0c2bfa16ba2ac04e7f47c9cea030da9
+27 Shallow.flac:1d1d7a427d88a4e5aa841939330b5449
+28 Please Do Not Let Me Go.flac:8e741edbd5d3f0061808f51ce7ba52a7
+29 La Cienega Just Smiled.flac:35de669152b7f665cd6b859069093267
+30 Bus Back To Memphis.flac:df90ba00496e1c7d4639462ec691eaa0
+31 Last Nite.flac:2f60caf542016c2728797b9c914b8aa4
+32 Come Pick Me Up.flac:d5e9e112afb542b9cbceae70180b7db7
+33 My Blue Manhattan.flac:7ffddd57d19f8b18eeaf1e7f8ac9a794
+34 Shadowlands.flac:cd6ff3e58f6087a293bd87e61ef8f30a  

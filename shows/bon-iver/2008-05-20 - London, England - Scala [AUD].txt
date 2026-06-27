@@ -1,0 +1,54 @@
+Bon Iver
+20th May 2008
+Scala
+London, England
+
+SETLIST (41:06)
+---------------
+01. Flume
+02. Lump Sum
+03. Skinny Love
+04. Blindsided
+05. Creature Fear
+06. For Emma
+07. Wolves
+
+GENERATION
+---------------
+DAT(M) -> FLAC
+
+SOURCE (AUD #1)
+---------------
+Marantz EM-8 -> TCD-D8 > DAT(M)
+
+TRANSFER
+---------------
+DAT(M) -> Tascam DA-20 mkII -> M-Audio Audiophile 2496 -> CEP 2.1 (capture/fades) -> WAV -> CD Wave 1.95.1 -> FLAC(8)
+
+NOTES
+-----
+Supporting Jens Lekman.
+
+FLAC FINGERPRINTS
+-----------------
+boniver-20080520-t01.flac:1c40011efcfd8d4775ac1ada62b13f6b
+boniver-20080520-t02.flac:daebab52b6bc05592c2912877bcdc564
+boniver-20080520-t03.flac:5706dc2363a8676d3b87162b08f25d38
+boniver-20080520-t04.flac:03f4b8097a92eea50461e56024cf46da
+boniver-20080520-t05.flac:7abef7cc8d0159d5544bd39b6210d1b2
+boniver-20080520-t06.flac:2f05a71910cc571c66e33bfa9b63df69
+boniver-20080520-t07.flac:a57338cba442ebf522dd93cca52917ed
+
+MD5 CHECKSUMS
+---------------
+1d22e7d05462dfd9a5374e05d8bbae36 *boniver-20080520-t01.flac
+bb7cb63ac5c8a287b69fe3d7ccc2c5d8 *boniver-20080520-t02.flac
+61b63ba143ecc27f30d71885f32ea683 *boniver-20080520-t03.flac
+dc0f97581efb7423d5fa36849e710325 *boniver-20080520-t04.flac
+ec78036b14ab1d33da1e06704f468191 *boniver-20080520-t05.flac
+92a44dc950f7d28f05921444465ad2ce *boniver-20080520-t06.flac
+ea545a3a96547832d3deca0f535816b7 *boniver-20080520-t07.flac
+
+Taped, transferred & mastered by: Gary Watson (packetboatlane@yahoo.co.uk)
+
+DO NOT SELL OR DISTRIBUTE IN LOSSY FORMATS!

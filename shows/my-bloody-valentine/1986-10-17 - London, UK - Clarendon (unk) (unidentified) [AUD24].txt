@@ -1,0 +1,68 @@
+My Bloody Valentine
+London UK
+Clarendon
+17 October 1986
+stereo audience recording
+24/48 analog > digital transfer from ?-gen cassette
+duration (21:35.09)
+
+Contrast Clause:
+This is an alternate version of what seems to be from a different source recording from the version currently running here:
+
+http://www.dimeadozen.org/torrents-details.php?id=699397
+
+***This torrent is incompatible with the CD-Audio standard. The sound is in 24-bit stereo sampled at 48kHz.***
+
+[01] start (00:48.69)
+[02] We're So Beautiful (02:29.52)
+[03] interim (00:14.31)
+[04] I Don't Need You (02:25.14)
+[05] Lovelee Sweet Darlene (02:27.16)
+[06] interim (00:59.13)
+[07] Another Rainy Saturday (02:37.60)
+[08] interim (00:48.26)
+[09] By The Danger In Your Eyes (02:38.49)
+[10] interim (00:30.21)
+[11] Sunny Sundae Smile (02:29.70)
+[12] interim (00:43.17)
+[13] She Loves You No Less (02:22.21)
+
+• • • •
+
+digitizing notes:
+
+This appears to be *slightly* longer than another version of the same recording reported to be an upgrade, which was reviewed in 2026 at the time of this transfer. Notably, the start of this version includes a brief verbal exchange between the band and the audience, which is missing from the other version. Also, Sunny Sundae Smile is complete here, whereas the other version was noticeably patched together from two diferent sources at the 1:30 mark. Additionally, the other source shows a lineage indicating the audio output was from a headphone jack [???], whereas this version went straight from the line outputs on the cassette deck to the line inputs on the digital recorder.
+
+Having listened to both versions side-by side, although I can't claim to have actually been there, this one now seems to fare much better as a fair representation of the performance, in my opinion.
+
+• • • •
+
+This is strictly an audience recording - there is no soundboard feed in the mix.
+
+This fileset is a raw 24-Bit Depth / 48kHz Sample Frequency analog > digital transfer from a 1st-generation cassette, provided by a fellow audio archivist. I did not record this, and wanted to keep all the information intact as it was provided, the only caveat being that I generally re-arrange a few things here and there to fit in my own collection at home.
+
+No further processing has been applied in the analog > digital transfer.
+
+I don’t really have the time to try and “re-master” all of the recordings I’ve been digitizing - if I actually get through them all at some point, I might like re-visit some of them and see what can be done. As I’m sure to have mentioned elsewhere, I’m not generally a fan of using digital automated processing when restoring archival recordings - it’s a last-ditch effort at best, and I try to avoid it if I can, because it is more likely to introduce more artifacts into the resulting file.
+
+As always, my approach to digitization is to preserve recordings in a non-invasive manner, and in a format that should allow ample headroom for potential editing as may or may not be desired, going forward. This is why I choose to encode in 24-bit .flac, and with 48kHz sampling for increased dynamic range (replacing my previous choice for 96kHz sampling rate, which I have come to decide is generally overkill for the average 2-channel stereo recording). There is no reason that anyone should not be able to perform further surgery on anything I share freely, but it would be pointless if the files I share have already been tampered with. Hopefully this won’t be a problem for anyone, basically, to just enjoy the music!
+
+This recording is an unknown-gen copy from the master cassette, which was provided to me by a tape-trading pen pal back in 1991. I haven’t been able to re-connect with the trader, so I don’t know if they would like to be identified or not, which is why I listed “unidentified”. If you are out there and see this, please get in touch!
+
+Special thanks to all involved for making this available, for the rest of us to enjoy!
+
+Recorded By: unidentified
+Digitized / edited / tagged / technical notes in 2026 by J.Free [sonicarchives.com]
+Uploaded to DIME in 2026; any additional notes: 01001010
+
+No processes applied. No noise reduction. No EQ. No fades. No normalization. No.
+
+• • • •
+
+Source:
+unidentified portable recording deck / mic > ?-gen > master cassette
+
+Lineage:
+2-channel stereo cassette > Nakamichi LX-3 cassette deck [Azimuth adjustment applied to playback head] > Edirol R-04 [RCA/analog in; 24-bit/48kHz transfer (.wav)] > PC [via USB] > CD Wave Editor [Version 1.98; Windows Build Number: 0000.23F0] (sector boundary tracking) > Trader's Little Helper [Version 2.7.0; Build 172] (Level 8 .wav > .flac conversion, .ffp) > flacs
+
+• • • •

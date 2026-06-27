@@ -1,0 +1,70 @@
+The Verve Pipe
+August 11th, 2022.
+Donnell Theater @ The Marathon Center For The Performing Arts - 
+Findlay, OH.
+
+Taper:      Charles Dewey Cole, IV <live2cd@hotmail.com>
+Location:   4 rows back; directly in front of right stack on 10ft. stand.
+Source:     CA-14 Omni > CA-9200 > Sony PCM-M10 (24 bit @48kHz) > 
+            Adobe Audition 3.0 > Cd Wave > FLAC
+Conversion: Charles Dewey Cole, IV <live2cd@hotmail.com>
+Equipment:  SanDisk 32GB MicroSD Card > (USB) @ 48kHz > Cd Wave
+
+---------------------------------------------------------------------------------------------------------
+Total Time: (1:51:31)
+
+** Set #1 **
+01. Intro					1:10
+02. No One's Gonna Break This Heart (Again)	5:07
+03. I Want All Of You				6:17
+04. Photograph					4:55
+05. Cup Of Tea					4:26
+06. Veneer					6:45
+07. (Don't Fear) The Reaper *			7:55
+08. Wonderful Waste				4:21
+09. The Witching Hour				3:50
+10. Happiness Is				8:04
+11. Found ^					3:27
+
+** Set #2 **
+12. What Might Have Been			3:56
+13. Hero					4:45
+14. Colorful					4:44
+15. Myself					5:00
+16. Never Let You Down				6:25
+17. Medicate Myself				7:38
+18. The Freshmen				4:54
+19. Villains 					6:16
+20. ~ Encore ~					0:40
+21. The Chain +					10:55
+
+----------------------------------------------------------------------------------------------------------
+Notes:
+
+* = Originally Recorded By Blue Öyster Cult.
+^ = Brian & Channing only, no PA.
++ = Originally Recorded By Fleetwood Mac.
+
+The MCPA booked The Verve Pipe to play Findlay on one of their off nights
+while on tour w/ Five For Fighting. This is the only show on their current
+run where they would get to headline and play 2 sets. I was very happy
+it was a short 90 minute drive from Columbus. The show was originally 
+planned to be outside, but due to logistics, it was moved inside to the
+Donnell Theater. The weather outside was gorgeous, so that definitely was
+not the issue. The theater was very nice and the sound was pretty good,
+as well. It was GA seating when the theater doors opened, so I immediately
+went for the right stack (Lou's side) and hoisted my stand a few rows 
+back from the front on the aisle. Please note, the performance of "Found"
+was not done from the stage but from the crowd. Brian & Channing came 
+down and played it to the left side of the room and eventually made their
+way down my aisle and finished it there. I had to boost this by 20db+
+or so to even pick it up and then reduced the hiss in Audition the best
+I could. I almost omitted it, but then we wouldn't have the complete 
+show. Thankfully, it only lasts 3 minutes.
+
+There is no break in between the sets. I cross faded the crowd noise
+for a seamless listen. The actual break was around 20 minutes.
+
+---------------------------------------------------------------------------------------------------------
+For more information on The Verve Pipe, please visit:
+http://www.thevervepipe.com

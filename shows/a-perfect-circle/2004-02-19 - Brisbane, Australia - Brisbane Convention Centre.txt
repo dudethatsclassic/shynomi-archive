@@ -1,0 +1,54 @@
+A Perfect Circle
+2004/02/19
+Brisbane Convention Centre
+Brisbane, Australia
+
+
+Source: Core Sound Binaurals>Bass Roll-Off Filter>Panasonic SJ-MR220 
+Lineage: Panasonic SJ-MR220>Soundcard>Cool Edit Pro>WAV>CD(1)>EAC>FLAC
+Taper: audiowhore
+
+
+Set One
+1.Vanishing
+2.Pet
+3.The Hollow
+4.Magdalena
+5.Weak and Powerless
+6.Orestes
+7.Blue
+8.Thinking of You
+9.Brena
+
+Set Two
+1.The Package 
+2.3 Libras 
+3.The Nurse Who Loved Me 
+4.Thomas 
+5.The Outsider 
+6.The Noose 
+7.Judith 
+
+
+
+
+Fingerprint Disc One:
+Track01.flac:5f7eacb405c22170e4575fe7832e63d3
+Track02.flac:0dd6570b0ef9bb9bb196b0fea857c593
+Track03.flac:457372b5cb14a0719704bf793caf7c6d
+Track04.flac:78ae4390db2fcf2f50709eec84d805e4
+Track05.flac:7e603ec3b18712bea2cf171fcb4de50c
+Track06.flac:b521ab3df13ef0f034621e418caa2c12
+Track07.flac:27803fd4ef7dc63c291b741a7a2a1007
+Track08.flac:6b53452f892e14d966f41ad6193bdb68
+Track09.flac:f6a232732bea3356a170e328bb519412
+
+Fingerprint Disc Two:
+Track01.flac:5a68b04035a406e6f912363f3b5b470b
+Track02.flac:ba64d220cecf856924d0c06a6cae2ca2
+Track03.flac:f096492592648caee01c40568fe06bb8
+Track04.flac:7910a764bc14190bb3afa845bd3171a7
+Track05.flac:74ebcd977c9ed0e734389f14fa43a2a5
+Track06.flac:9a6196bc23546f066c12672228a8a69f
+Track07.flac:d5f145785d8a38cc90b7e7ee9d8afcf9
+

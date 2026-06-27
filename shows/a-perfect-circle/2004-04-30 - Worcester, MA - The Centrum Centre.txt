@@ -1,0 +1,47 @@
+A Perfect Circle 4/30/04
+
+The Centrum Centre
+Worcester MA
+
+Taper: PG
+
+Source: SP-CMC-8>SP-SB-3(@107hz)>PCM-M1(@44.1khz)
+Location: Floor center, 1/3rd of the way from soundboard towards the
+stage. Mics 5'7" up (In hat). 
+Transfer: PCM-M1> M-Audio Audiophile USB > CDWave> FLAC Frontend
+
+Cooledit Pro 2.1 used to remove a few claps during "A Stranger"
+
+***Incomplete Source***
+
+
+1.  Blue
+2.  Thinking of You
+3.  A Stranger
+4.  The Package
+5.  Three Libras
+6.  The Nurse who Loved Me
+7.  Thomas@
+8.  Judy is a Punk#
+9.  The Outsider
+10. The Noose
+11. Judith
+
+@ w/Dimitri from Burning Brides
+# James Iha solo, Ramones cover
+
+FLAC Fingerprints
+
+apc2004-04-30t6.flac:3351d5690a5a7dbc5888e73de958d5fe
+apc2004-04-30t7.flac:d808448ef2a567759ac7c3fef30bcbf6
+apc2004-04-30t8.flac:1b584d696a5fde1b296c46063ee44de7
+apc2004-04-30t9.flac:b09244735ba50079c6dccc28d1ca9319
+apc2004-04-30t10.flac:aa7f11bbe93a67eaab62fa4f1c48905b
+apc2004-04-30t11.flac:c7c6cc3a9ea7ba5ad5709da699f29afd
+apc2004-04-30t1.flac:3ede86fe899008eee160a54fdb687cdb
+apc2004-04-30t2.flac:00fb3e37a8773fe4e8e3630823d8644b
+apc2004-04-30t3.flac:a9c720f4b3fd7e445cfcef5569a4e165
+apc2004-04-30t4.flac:58fa110b5179a2c1d62833fa81f2e570
+apc2004-04-30t5.flac:e5b49d92bcaa5b60a6e729360bf16227
+
+

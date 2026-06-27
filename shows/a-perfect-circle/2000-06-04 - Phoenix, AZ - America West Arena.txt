@@ -1,0 +1,36 @@
+A Perfect Circle 
+2000-06-04 
+Phoenix, AZ 
+America West Arena (Remastered) 
+
+2.91 GB
+
+[Video_Source]
+
+Proshot MTV2 Broadcast > Master VHS > Toshiba VCR > SVideo Out > Canopus ADVC100 > Premiere > Canopus Procoder 2 (2pass 5800avg, 3500min, 6250max)
+
+[Audio_Source]
+
+SBD Silver CD > Upsample 48000 > Sync'd in Premiere & Cool Edit Pro 2
+1st: PCM
+2nd: 6ch DD
+3rd: 5.1 DTS
+
+[Notes]
+
+remasterd
+pro shot, w/menu and chapters. logo's removed with VirtualDub. 44min.
+
+[Setlist]
+
+Intro (Renholder)
+The Hollow
+Magdalena
+3 Libras
+Sleeping Beauty
+Breña
+Orestes
+Thinking Of You
+Thomas
+Rose
+Judith

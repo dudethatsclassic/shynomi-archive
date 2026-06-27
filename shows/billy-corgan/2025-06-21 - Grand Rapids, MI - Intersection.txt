@@ -1,0 +1,84 @@
+Billy Corgan and the Machines of God
+June 21st 2025
+Intersection
+Grand Rapids, MI, US
+
+SOURCE (AUD#1)
+DPA 4061's > CA-UGLY battery box > Sony PCM-A10
+
+TRANSFER:
+Sony PCM-A10 > WAV > CD Wave Editor > Trader's Little Helper 2.8.4 > FLAC
+
+GENERATION:
+WAV(M) > FLAC
+
+LENGTH:
+133:45
+
+SETLIST:
+01. Le Deux Machina (pre-recorded)
+02. Glass' Theme
+03. Heavy Metal Machine
+04. Where Boys Fear to Tread
+05. Pentagrams
+06. The Crying Tree of Mercury
+07. Real Love
+08. Porcelina of the Vast Oceans
+09. Sighommi
+10. Glass and the Ghost Children
+11. You Only Live Twice [Leslie Bricusse / John Barry]
+12. 999
+13. Bullet With Butterfly Wings
+14. Muzzle
+15. 1979
+16. Here's to the Atom Bomb
+17. Edin
+18. White Spyder
+19. Wish You Were Here [Pink Floyd]
+20. Tonight, Tonight
+21. If There Is a God
+22. Bodies
+23. The Aeroplane Flies High (Turns Left, Looks Right)
+24. (encore break)
+
+ENCORE
+25. Zero
+26. The Everlasting Gaze
+
+NOTES:
+Thank you to the taper for sending this for release
+
+MD5 FINGERPRINTS:
+2f7269f80894c56aa2e4a1d5f183f50b *Billy Corgan 2025-06-21 AUD1 t01 Le Deux Machina.flac
+2d45587653bc33720e5abff972ba3544 *Billy Corgan 2025-06-21 AUD1 t02 Glass' Theme.flac
+1943bc487c0251f4eb3285171a5bcca1 *Billy Corgan 2025-06-21 AUD1 t03 Heavy Metal Machine.flac
+3fc5e35f56f10cb3b805cd67ed7870a6 *Billy Corgan 2025-06-21 AUD1 t04 Where Boys Fear to Tread.flac
+d0fa6d96f6bfe32586df2e63abf1050e *Billy Corgan 2025-06-21 AUD1 t05 Pentagrams.flac
+a309d2c6cda99e8cb2c8fe5690313756 *Billy Corgan 2025-06-21 AUD1 t06 The Crying Tree of Mercury.flac
+f85cf4ea21791f5fa127a5d9dc630323 *Billy Corgan 2025-06-21 AUD1 t07 Real Love.flac
+00ff1f07c9f48b7bf4f7f04f737f1742 *Billy Corgan 2025-06-21 AUD1 t08 Porcelina of the Vast Oceans.flac
+080aa3f1d401730a1e523075da805e4a *Billy Corgan 2025-06-21 AUD1 t09 Sighommi.flac
+5032fe5fdc1735af27a8c4b257c9bfe8 *Billy Corgan 2025-06-21 AUD1 t10 Glass and the Ghost Children.flac
+bf786a396bb7542119bd30410e26f2e2 *Billy Corgan 2025-06-21 AUD1 t11 You Only Live Twice [Bricusse - Barry].flac
+9dbd3fd8c88dad2078bdf96d3e305af2 *Billy Corgan 2025-06-21 AUD1 t12 999.flac
+ad79caf5c6584e9a62058b6451223301 *Billy Corgan 2025-06-21 AUD1 t13 Bullet With Butterfly Wings.flac
+58b2511caabf56b202fe5c0acd77737a *Billy Corgan 2025-06-21 AUD1 t14 Muzzle.flac
+31e8b2522076d0c3b7a470572a57cbe4 *Billy Corgan 2025-06-21 AUD1 t15 1979.flac
+102adc2f9fb2355aed27b31f22aa85ae *Billy Corgan 2025-06-21 AUD1 t16 Here's to the Atom Bomb.flac
+626fb3a9e55dfe3a654e82fccfd993ba *Billy Corgan 2025-06-21 AUD1 t17 Edin.flac
+a9e46e2b4282728b426f0ac8ee4c13b1 *Billy Corgan 2025-06-21 AUD1 t18 White Spyder.flac
+8eb2b863624b9c69a1336f8a260a70be *Billy Corgan 2025-06-21 AUD1 t19 Wish You Were Here [Pink Floyd].flac
+59ccacc9468b16d7055ee3024f321970 *Billy Corgan 2025-06-21 AUD1 t20 Tonight, Tonight.flac
+5bbb94368c5bef00127201652e616d17 *Billy Corgan 2025-06-21 AUD1 t21 If There Is a God.flac
+5cea46783aa826bf2960a5274f2f5745 *Billy Corgan 2025-06-21 AUD1 t22 Bodies.flac
+bc225aa07f3ef72cbe10911d9bedc4bf *Billy Corgan 2025-06-21 AUD1 t23 The Aeroplane Flies High {Turns Left, Looks Right).flac
+a7a81cb3883cfedb436bbdc0e4233d32 *Billy Corgan 2025-06-21 AUD1 t24 (encore break).flac
+9f9b29a45319092b45b09ad841de6ccf *Billy Corgan 2025-06-21 AUD1 t25 Zero.flac
+27ed19b90a58ab00be6aa51517541ee2 *Billy Corgan 2025-06-21 AUD1 t26 The Everlasting Gaze.flac
+
+RECORDED BY:
+Bullet1979
+
+DISTRIBUTION:
+Spaldz, Nicholas Serra, & Members of SPLRA
+2025-07-04

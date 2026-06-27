@@ -1,0 +1,97 @@
+Metallica
+May 1, 2019
+Lisbon, Portugal
+Estádio do Restelo
+Lineage: SP-CMC-8(AT8538 Mod)>CA-UGLY II>Edirol R-05>PC>Adobe Audition>CDWAVE>FLAC
+Taped by: Porcelmc 
+
+
+_____________________________________________________________
+
+Setlist - Metallica
+
+01. AC/DC Tape
+02. The Ecstasy of Gold Tape
+03. Hardwired
+04. Disposable Heroes
+05. James Speaks #1
+06. Ride the Lightning
+07. The God That Failed
+08. The Unforgiven
+09. James Speaks #2
+10. Here Comes Revenge
+11. James Speaks #3
+12. Moth Into Flame
+13. Guitar Tech Accident Break
+14. James Jams and False Starts Sad But True
+15. Sad But True
+16. Welcome Home (Sanitarium)
+17. Rob and Kirk Guitar and Bass Solo Intro
+18. Rob and Kirk Guitar and Bass Solo
+19. Bass Solo
+20. Frantic
+21. One
+22. Master of Puppets
+23. Transition to Snake Pit
+24. Rob and James Speak
+25. For Whom the Bell Tolls
+26. Creeping Death
+27. James Speaks #4
+28. Seek and Destroy
+29. Encore Break
+30. Lords of Summer
+31. Nothing Else Matters
+32. Enter Sandman
+
+_____________________________________________________________
+
+Notes:
+
+This was the first show of the 2019 European WorldWired Stadium Tour. The day was extremely windy, however the wind died down during Metallica's set. The wind can be heard during Master of Puppets and Lords of Summer. But other than that, the sound was pretty clear. During the Snake Pit performance crowd got really rowdy around me so I moved. No other recording notes to report.
+
+It was really cool to see the setlist change in comparison to the North American run. James' Guitar tech injured himself and that led to a break in the set. James did a bunch of random jamming during this part which made this show unique for sure. 
+
+I also recorded Ghost's set but the wind was brutal, so I don't think that will ever surface. I recorded Metallica and Ghost in Madrid as well, but the venue was in an open field, open air venue and the wind wasn't cooperating either. Maybe one day I will pack wind screens again!
+
+Anyways this show was really fun. Cheers!
+
+
+Sample: https://www.youtube.com/watch?v=MJLXIIzoljc
+
+
+ST5 Hash File:
+
+8d012cbf40a3f2419819bf63747553b6  [shntool]  01_ACDC_TAPE.flac
+c5d3c28bddb2b6774cfd88aeca900155  [shntool]  02_The Ecstasy of Gold Tape.flac
+7286b73a888ad2d13e24346587743ff9  [shntool]  03_Hardwired.flac
+2d9fc99ce47255fe070ad1449591f19a  [shntool]  04_Disposable Heroes.flac
+cbefc3d970246b46b2bd2c90aeac8bbc  [shntool]  05_James Speaks #1.flac
+b666fcdb353f5efdc190584fd965428f  [shntool]  06_Ride the Lightning.flac
+d40bda1d2e3762f94affc62e4cf6b937  [shntool]  07_The God That Failed.flac
+a49eda0827194227ed3ee927b07d8e14  [shntool]  08_The Unforgiven.flac
+d12403232d4019ca8a0856f1418508cd  [shntool]  09_James Speaks #2.flac
+ccd8cea7dfd283d61e582d59b8144d18  [shntool]  10_Here Comes Revenge.flac
+e4ff3d0e47819bc033db0d9cbe8d54c5  [shntool]  11_James Speaks #3.flac
+3fc3f95f3a082fde02882d3e7c9a6bad  [shntool]  12_Moth Into Flame.flac
+12fc6b162eb233500070ff28ea09ca15  [shntool]  13_Guitar Tech Accident Break.flac
+5a8c1b12c01f4988e74c1ab2066054dd  [shntool]  14_James Jams and False Starts Sad But True.flac
+cb0e0c34281ee83ab8b114c7c9ce855a  [shntool]  15_Sad But True.flac
+be45d05bd7136d41a6f656d890d051d3  [shntool]  16_Welcome Home (Sanitarium).flac
+e80ba84179c7225849008e42e1f5a00b  [shntool]  17_Rob and Kirk Guitar and Bass Solo Intro.flac
+96859bfcd77de27e3c6b310fa5844b75  [shntool]  18_Rob and Kirk Guitar and Bass Solo.flac
+ccc72143c434045798e42e2037b00077  [shntool]  19_Bass Solo.flac
+7856d07abf5352265a1245915226dcf9  [shntool]  20_Frantic.flac
+eb1d4e907289f88412aa09fb6ba8d294  [shntool]  21_One.flac
+9cc166d304eee647378c89c5148d7fcb  [shntool]  22_Master of Puppets.flac
+fd4524898deea0dabbc6e505ef965b5e  [shntool]  23_Transition to Snake Pit.flac
+17667b6756b24bbe9aa8a1aa80ecce6a  [shntool]  24_Rob and James Speak.flac
+83f1b99795c45332de503cb2501ef0e1  [shntool]  25_For Whom the Bell Tolls.flac
+3c490e492075f886171461ca9ea5fe3b  [shntool]  26_Creeping Death.flac
+e4812535ddb6b80bccb2b7e5b7b15127  [shntool]  27_James Speaks #4.flac
+82f23dc5ff49aca5a65dec09895d9fed  [shntool]  28_Seek and Destroy.flac
+525e3135ac17d1e1b965e7121a246be4  [shntool]  29_Encore Break.flac
+3fc39da762b2e82601c17380cfa3ee9a  [shntool]  30_Lords of Summer.flac
+8735efdea380fb97b24772cc25ced13d  [shntool]  31_Nothing Else Matters.flac
+3f882739751a4d228af0d3589bd5b38a  [shntool]  32_Enter Sandman.flac
+
+No errors occured.

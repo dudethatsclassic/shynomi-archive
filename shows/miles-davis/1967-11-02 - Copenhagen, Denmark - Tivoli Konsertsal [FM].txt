@@ -1,0 +1,75 @@
+Miles Davis Quintet
+11-02-1967
+Tivoli Konsertsal
+Copenhagen Denmark
+
+Project ID - LL71
+
+Source: FM Radio Braodcast
+Lineage: Danish Radio broadcast > ?? > wave> ?? > flac
+
+Miles Davis (tpt); Wayne Shorter (ts); Herbie Hancock (p); Ron Carter (b); 
+Tony Williams (d)
+
+disc 1
+
+d1t01. Agitation
+d1t02. Footprints
+d1t03. Round Midnight
+d1t04. No Blues
+d1t05. Masqualero
+ 
+-------------------------------------------------------
+
+Notes:
+
+- There are gaps between all the tracks on this source
+
+- The beginning of d1t05 is riddled with static that lasts until 2:57. 
+
+- at 6:19 on d1t05 there is a splice and some material is lost.The static gets noticably
+worse after the splice and the sound gets a slight warble to it. 
+
+- The sound is distant/muffled, and the low end is distorted some. After track 2 it 
+seems there is a more prominent hiss present. This source is listenable, but plauged with 
+many flaws. The performance is good
+
+- QC done by Bgreen
+
+md5
+2bfe69c4024457bd35a89b6e99867349 *md1967-11-02.LL71.d1t01.flac
+2b6c38e243e7ee9ea3e2fdcde15edba9 *md1967-11-02.LL71.d1t02.flac
+09266997eb834ac4e43cbae39fd7b996 *md1967-11-02.LL71.d1t03.flac
+1593a16bf84d7742f48db9490fe9eac6 *md1967-11-02.LL71.d1t04.flac
+02a81f12800d9bc5a1decad37bc357da *md1967-11-02.LL71.d1t05.flac
+
+ffp
+md1967-11-02.LL71.d1t01.flac:d19e485dee6994d3275680d9f8f75b86
+md1967-11-02.LL71.d1t02.flac:91a11f7408f05de71da9fac35ce225be
+md1967-11-02.LL71.d1t03.flac:cd7e88acd3b41f333707cae09166730b
+md1967-11-02.LL71.d1t04.flac:849310e7af181dfb144cbbf70b8aebaa
+md1967-11-02.LL71.d1t05.flac:8ab040ec8b7f276cde332fae77fd57f4
+ 
+shntool
+length     expanded size    cdr  WAVE problems  fmt   ratio  filename
+     6:27.24       68323292 B   ---   --   ---xx   flac  0.5051  md1967-11-02.LL71.d1t01.flac
+     9:15.74       98076092 B   ---   --   ---xx   flac  0.4956  md1967-11-02.LL71.d1t02.flac
+     7:11.15       76063724 B   ---   --   ---xx   flac  0.5344  md1967-11-02.LL71.d1t03.flac
+    14:50.35      157078364 B   ---   --   ---xx   flac  0.5791  md1967-11-02.LL71.d1t04.flac
+     9:40.17      102352028 B   ---   --   ---xx   flac  0.4898  md1967-11-02.LL71.d1t05.flac
+    47:25.15      501893500 B                            0.5277  (5 files)
+
+spectral analysis from TLH
+md1967-11-02.LL71.d1t01.wav:  track looks like CDDA with probability 100%
+md1967-11-02.LL71.d1t02.wav:  track looks like CDDA with probability 100%
+md1967-11-02.LL71.d1t03.wav:  track looks like CDDA with probability 99%
+md1967-11-02.LL71.d1t04.wav:  track looks like CDDA with probability 100%
+md1967-11-02.LL71.d1t05.wav:  track looks like CDDA with probability 100%
+
+old ffp
+Track01.flac:d19e485dee6994d3275680d9f8f75b86
+Track02.flac:91a11f7408f05de71da9fac35ce225be
+Track03.flac:cd7e88acd3b41f333707cae09166730b
+Track04.flac:849310e7af181dfb144cbbf70b8aebaa
+Track05.flac:8ab040ec8b7f276cde332fae77fd57f4
+ 

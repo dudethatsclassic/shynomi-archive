@@ -1,0 +1,70 @@
+Zwan
+November 21st 2001
+Roxy
+West Hollywood, CA, US
+
+SOURCE (AUD#6)
+Optimus Omnidirectional Tie-Clip Mic > Sharp MD MT-15
+
+TRANSFER:
+Sony MDS-PC3 > iRiver H120 (Rockbox 3.10) (optical) > Adobe Audition > CD Wave Editor > Trader's Little Helper 2.8.4
+
+GENERATION:
+MD(M) > FLAC
+
+LENGTH:
+86:34
+
+SETLIST:
+01. Intro
+02. Chrysanthenum
+03. Never Give Up
+04. El Sol
+05. The Empty Sea
+06. Glorious
+07. How Things Are Supposed To Be > Cast a Stone
+08. Don't Let Me Down [The Beatles]
+09. Jesus, I [Lyte] > I'm Waiting for the Man [The Velvet Underground] (tease)
+10. The Shining Path
+11. What Have They Done To Me
+12. Sorrow
+13. Who We Be [DMX] (tease)
+14. My Life and Times
+15. (encore break)
+
+ENCORE:
+16. Of a Broken Heart
+
+NOTES:
+A massive thank you to spaceyraygun for sharing their recording
+
+Original recording was left channel only. This has been converted to stereo with identical L and R channels.
+
+MD5 FINGERPRINTS:
+3613e4d35d226bda8a863ce7f9ea8762 *Zwan 2001-11-21 AUD6 t01 Intro.flac
+2387358e6ac6be2ba80276d107edca4f *Zwan 2001-11-21 AUD6 t02 Chrysanthenum.flac
+af7380f895ab6ea29a583bef80744abb *Zwan 2001-11-21 AUD6 t03 Never Give Up.flac
+3623414fadbb13a94b11143375c3dfe4 *Zwan 2001-11-21 AUD6 t04 El Sol.flac
+65b10b548a24a2029987c420c6f89b26 *Zwan 2001-11-21 AUD6 t05 The Empty Sea.flac
+2100c7d4fa96de65b9577d9f1907511f *Zwan 2001-11-21 AUD6 t06 Glorious.flac
+399402c1e8fe3be72eb651fc52003f8a *Zwan 2001-11-21 AUD6 t07 Cast a Stone.flac
+8895c56edcbe105a0e56470fbcfc1094 *Zwan 2001-11-21 AUD6 t08 Don't Let Me Down [The Beatles].flac
+ee0c9b5b1141918b3b7598c9ae281185 *Zwan 2001-11-21 AUD6 t09 Jesus, I [Lyte].flac
+f2d30be48ce8cdd8cd5a67c85dadff9b *Zwan 2001-11-21 AUD6 t10 The Shining Path.flac
+ce79dcc0f724732afd7ed48e7d08e5b0 *Zwan 2001-11-21 AUD6 t11 What Have They Done To Me.flac
+0c128ea3f18cd1c279a0b1cef17ad39e *Zwan 2001-11-21 AUD6 t12 Sorrow.flac
+9aeb7bab4b79bb69808bc7b6a1e6d688 *Zwan 2001-11-21 AUD6 t13 Who We Be [DMX] (tease).flac
+c28133db1fe792e492de34833e409f7e *Zwan 2001-11-21 AUD6 t14 My Life and Times.flac
+86eedaa119e2370a45882ba0dd2cb7b1 *Zwan 2001-11-21 AUD6 t15 (encore break).flac
+e78f266e978e1221fcf72c36df85e45f *Zwan 2001-11-21 AUD6 t16 Of a Broken Heart.flac
+9626094b224ef088841185a189d19490 *Zwan 2001-11-21 AUD6 t17 Outro.flac
+
+RECORDED BY:
+spaceyraygun
+
+TRANSFER BY:
+@deadhoarse
+
+DISTRIBUTION:
+Spaldz, Nicholas Serra & Members of SPLRA
+2025-03-10

@@ -1,0 +1,104 @@
+Pavement
+2010-09-23
+Rumsey Playfield
+Central Park Summerstage
+New York, NY  USA
+
+Four-Track Digital Master Recording
+Recorded from Front of Soundboard Booth
+
+Neumann KM-150s + DPA 4021's > Edirol R-44 (Oade Concert Mod) > 
+2x 24bit 48kHz wav files > Soundforge (level adjustments, mixdown,
+set fades) > CDWave 1.95 (tracking) > Flac Frontend (level 7, align sector 
+boundaries) > flac
+
+Please support this outstanding band:
+http://www.crookedrain.com/
+
+Premiere Download offered at
+http://www.nyctaper.com
+nyctaper@nyctaper.com
+
+Recorded and Produced
+by nyctaper
+2010-09-25
+
+Setlist:
+[Total Time 1:54:36]
+01  [introduction]
+02  Grounded
+03  Gold Soundz
+04  Silent Kid
+05  Date With IKEA
+06  Unfair
+07  [banter/birthday]
+08  Spit On A Stranger
+09  Rattled By The Rush
+10  Stereo
+11  Loretta's Scars
+12  [crowd/banter]
+13  Frontwards 
+14  Stop Breathin' [false start]
+15  Stop Breathin'
+16  Shoot The Singer
+17  [banter]
+18  Trigger Cut/Wounded-Kite at :17
+19  [banter]
+20  Cut Your Hair
+21  Fight This Generation
+22  Two States
+23  Fin
+24  Summer Babe
+25  She Believes
+26  Range Life
+27  [encore break]   
+28  Kennel District
+29  Shady Lane
+30  Starlings of the Slipstream
+31  Our Singer
+32  [banter/Steve West praise]
+33  Heckler Spray
+34  Angel Carver Blues (intro)
+35  In The Mouth A Desert 
+36  We Dance 
+37  Box Elder
+
+
+Flac Fingerprints:
+Pavement2010-09-23_nyctaper_t01.flac:0c55986179d34e66e59a9602cfde9f26
+Pavement2010-09-23_nyctaper_t02.flac:cdc251c37c919a017eda9e8980dfa514
+Pavement2010-09-23_nyctaper_t03.flac:fe332937e7320ebe7100782f523f0bf6
+Pavement2010-09-23_nyctaper_t04.flac:0e4003be3834f89ca141a4deabf1e8b8
+Pavement2010-09-23_nyctaper_t05.flac:8bacddf2809ee574fdf62381929d490d
+Pavement2010-09-23_nyctaper_t06.flac:eeda1d476eae20c9bd5f23fa011ccf84
+Pavement2010-09-23_nyctaper_t07.flac:8649d14762257675eb686ffb13a6e3a4
+Pavement2010-09-23_nyctaper_t08.flac:1efadcf91cafce13339c34891d8a6896
+Pavement2010-09-23_nyctaper_t09.flac:f545f38457732ed4697564f5e03fba00
+Pavement2010-09-23_nyctaper_t10.flac:3a081bf29326a475b01c194258034e07
+Pavement2010-09-23_nyctaper_t11.flac:c7069459276ae4ce30a8ca4942d2997a
+Pavement2010-09-23_nyctaper_t12.flac:af2527111a600958a3c0096403fef308
+Pavement2010-09-23_nyctaper_t13.flac:2db415a6ad237a981967c5ce48e27be3
+Pavement2010-09-23_nyctaper_t14.flac:85c8efbf6cad15765da953c8f145c7dc
+Pavement2010-09-23_nyctaper_t15.flac:63135d1186ab9d042901d44a7543a301
+Pavement2010-09-23_nyctaper_t16.flac:9ffb70b1b7439678b968a466ae1ce33c
+Pavement2010-09-23_nyctaper_t17.flac:20672635d04718c3ecdd6a1c5174a775
+Pavement2010-09-23_nyctaper_t18.flac:2c9b3a06325dcc624df0262505ee664f
+Pavement2010-09-23_nyctaper_t19.flac:8b3d84472942f454e0194a6ff605e429
+Pavement2010-09-23_nyctaper_t20.flac:96f1a940e0a073ad2f13ae1d2f420e70
+Pavement2010-09-23_nyctaper_t21.flac:e9e724c04c596dcce86e232da6608a58
+Pavement2010-09-23_nyctaper_t22.flac:a58c87e8c236859ce03123c27ac71d27
+Pavement2010-09-23_nyctaper_t23.flac:65684e936ea54d04c153b9c6829407d0
+Pavement2010-09-23_nyctaper_t24.flac:98f942c9ec5fda159a8aaacd8e19730f
+Pavement2010-09-23_nyctaper_t25.flac:0427fec31917ab4fa38c08e56af5abcd
+Pavement2010-09-23_nyctaper_t26.flac:f99b7f0aac0e01572aa9888c85016e71
+Pavement2010-09-23_nyctaper_t27.flac:93493a01359ca49033f2b6be7c4f481a
+Pavement2010-09-23_nyctaper_t28.flac:862f65206389aa83b1f92031c6157451
+Pavement2010-09-23_nyctaper_t29.flac:79fc1528354c1d21a7a18d538e66fa21
+Pavement2010-09-23_nyctaper_t30.flac:e106edaaa2aa983777274834ff4ac38e
+Pavement2010-09-23_nyctaper_t31.flac:7b2ba2940e23c3c92aee6641515cf331
+Pavement2010-09-23_nyctaper_t32.flac:d5f62d426d3e146015be981b4383f59e
+Pavement2010-09-23_nyctaper_t33.flac:93ac0b4e4ee8a6501539e9dc0146b343
+Pavement2010-09-23_nyctaper_t34.flac:9db2570c96eee2c3c56aafd230155021
+Pavement2010-09-23_nyctaper_t35.flac:b1cd3541b85f1ffa411619a7c7f4192a
+Pavement2010-09-23_nyctaper_t36.flac:e6ed0db628813ccd27b462fca66939ad
+Pavement2010-09-23_nyctaper_t37.flac:181eb8fa4e6fea781e942f865d225b78

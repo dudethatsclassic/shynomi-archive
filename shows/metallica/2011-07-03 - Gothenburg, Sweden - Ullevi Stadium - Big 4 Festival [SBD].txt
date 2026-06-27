@@ -1,0 +1,853 @@
+Metallica - Gothenburg, Sweden - July 3, 2011
+
+Here is another NFT/RT show which has probably never been circulated. This is the SBD recording from the live broadcast, not LiveMetallica. I have only seen mp3 of this, here is the loseless version. Be patient and I'll release the 96k/24 bit version.
+Lineage: Digital Satellite > Blu Ray DVD Recorder > Blu Ray Disc > Playstation 3 > Dazzle > Pinnacle Studio > DVD 9 > DVD Audio Ripper > Wav 96k/24 bit > Audacity (slight EQ & dithering) > Wav 44k/16 bit > TLH > FLAC (Level 5)
+Recording: SBD
+Length: 135:33.66
+
+Disc 1
+01 - Preshow
+02 - Intro
+03 - Hit The Lights
+04 - Master Of Puppets
+05 - The Shortest Straw
+06 - Seek And Destroy
+07 - Guitar Solo #1
+08 - Welcome Home (Sanitarium)
+09 - Ride The Lightning
+10 - The Memory Remains
+11 - All Nightmare Long
+12 - Sad But True
+
+Disc 2
+13 - Bass Solo
+14 - The Call Of Ktulu
+15 - One
+16 - For Whom The Bell Tolls
+17 - Blackened
+18 - Guitar Solo #2
+19 - Fade To Black
+20 - Enter Sandman
+21 - Am I Evil
+22 - Damage, Inc.
+23 - Creeping Death
+
+Gothenburg, Sweden [SBD][FLAC].shntool_len.txt
+    length     expanded size    cdr  WAVE problems  fmt   ratio  filename
+     4:20.73       46035740 B   ---   --   ---xx   flac  0.6002  01 - Preshow.flac
+     1:58.18       20857580 B   ---   --   ---xx   flac  0.5767  02 - Intro.flac
+     3:40.61       38951516 B   ---   --   ---xx   flac  0.7103  03 - Hit The Lights.flac
+     8:06.29       85798652 B   ---   --   ---xx   flac  0.7300  04 - Master Of Puppets.flac
+     6:31.13       69003020 B   ---   --   ---xx   flac  0.7199  05 - The Shortest Straw.flac
+     6:36.22       69906188 B   ---   --   ---xx   flac  0.7264  06 - Seek And Destroy.flac
+     1:01.06       10774556 B   ---   --   ---xx   flac  0.5925  07 - Guitar Solo #1.flac
+     6:48.24       72027692 B   ---   --   ---xx   flac  0.7080  08 - Welcome Home (Sanitarium).flac
+     6:52.24       72733292 B   ---   --   ---xx   flac  0.7128  09 - Ride The Lightning.flac
+     5:29.43       58136780 B   ---   --   ---xx   flac  0.7085  10 - The Memory Remains.flac
+     8:52.35       93927164 B   ---   --   ---xx   flac  0.6968  11 - All Nightmare Long.flac
+     5:13.09       55234412 B   ---   --   ---xx   flac  0.7303  12 - Sad But True.flac
+     1:21.09       14309612 B   ---   --   ---xx   flac  0.5777  13 - Bass Solo.flac
+     9:15.26       97963196 B   ---   --   ---xx   flac  0.6813  14 - The Call Of Ktulu.flac
+     8:20.52       88322348 B   ---   --   ---xx   flac  0.6975  15 - One.flac
+     4:31.40       47898524 B   ---   --   ---xx   flac  0.7026  16 - For Whom The Bell Tolls.flac
+     6:44.38       71355020 B   ---   --   ---xx   flac  0.6914  17 - Blackened.flac
+     1:37.28       17176700 B   ---   --   ---xx   flac  0.5296  18 - Guitar Solo #2.flac
+     7:35.01       80264396 B   ---   --   ---xx   flac  0.6882  19 - Fade To Black.flac
+    11:04.57      117263708 B   ---   --   ---xx   flac  0.6422  20 - Enter Sandman.flac
+     5:46.28       61100300 B   ---   --   ---xx   flac  0.6707  21 - Am I Evil.flac
+     7:07.72       75492188 B   ---   --   ---xx   flac  0.6713  22 - Damage, Inc..flac
+     6:38.33       70284860 B   ---   --   ---xx   flac  0.7124  23 - Creeping Death.flac
+   135:33.66     1434817444 B                            0.6883  (23 files)
+
+
+Gothenburg, Sweden [SBD][FLAC].shntool_info.txt
+-------------------------------------------------------------------------------
+File name:                    01 - Preshow.flac
+Handled by:                   flac format module
+Length:                       4:20.73
+WAVE format:                  0x0001 (Microsoft PCM)
+Channels:                     2
+Bits/sample:                  16
+Samples/sec:                  44100
+Average bytes/sec:            176400
+Rate (calculated):            176400
+Block align:                  4
+Header size:                  44 bytes
+Data size:                    46035696 bytes
+Chunk size:                   46035732 bytes
+Total size (chunk size + 8):  46035740 bytes
+Actual file size:             27628887
+File is compressed:           yes
+Compression ratio:            0.6002
+CD-quality properties:
+  CD quality:                 yes
+  Cut on sector boundary:     yes
+  Sector misalignment:        0 bytes
+  Long enough to be burned:   yes
+WAVE properties:
+  Non-canonical header:       no
+  Extra RIFF chunks:          no
+Possible problems:
+  File contains ID3v2 tag:    no
+  Data chunk block-aligned:   yes
+  Inconsistent header:        no
+  File probably truncated:    unknown
+  Junk appended to file:      unknown
+  Odd data size has pad byte: n/a
+-------------------------------------------------------------------------------
+File name:                    02 - Intro.flac
+Handled by:                   flac format module
+Length:                       1:58.18
+WAVE format:                  0x0001 (Microsoft PCM)
+Channels:                     2
+Bits/sample:                  16
+Samples/sec:                  44100
+Average bytes/sec:            176400
+Rate (calculated):            176400
+Block align:                  4
+Header size:                  44 bytes
+Data size:                    20857536 bytes
+Chunk size:                   20857572 bytes
+Total size (chunk size + 8):  20857580 bytes
+Actual file size:             12028339
+File is compressed:           yes
+Compression ratio:            0.5767
+CD-quality properties:
+  CD quality:                 yes
+  Cut on sector boundary:     yes
+  Sector misalignment:        0 bytes
+  Long enough to be burned:   yes
+WAVE properties:
+  Non-canonical header:       no
+  Extra RIFF chunks:          no
+Possible problems:
+  File contains ID3v2 tag:    no
+  Data chunk block-aligned:   yes
+  Inconsistent header:        no
+  File probably truncated:    unknown
+  Junk appended to file:      unknown
+  Odd data size has pad byte: n/a
+-------------------------------------------------------------------------------
+File name:                    03 - Hit The Lights.flac
+Handled by:                   flac format module
+Length:                       3:40.61
+WAVE format:                  0x0001 (Microsoft PCM)
+Channels:                     2
+Bits/sample:                  16
+Samples/sec:                  44100
+Average bytes/sec:            176400
+Rate (calculated):            176400
+Block align:                  4
+Header size:                  44 bytes
+Data size:                    38951472 bytes
+Chunk size:                   38951508 bytes
+Total size (chunk size + 8):  38951516 bytes
+Actual file size:             27666744
+File is compressed:           yes
+Compression ratio:            0.7103
+CD-quality properties:
+  CD quality:                 yes
+  Cut on sector boundary:     yes
+  Sector misalignment:        0 bytes
+  Long enough to be burned:   yes
+WAVE properties:
+  Non-canonical header:       no
+  Extra RIFF chunks:          no
+Possible problems:
+  File contains ID3v2 tag:    no
+  Data chunk block-aligned:   yes
+  Inconsistent header:        no
+  File probably truncated:    unknown
+  Junk appended to file:      unknown
+  Odd data size has pad byte: n/a
+-------------------------------------------------------------------------------
+File name:                    04 - Master Of Puppets.flac
+Handled by:                   flac format module
+Length:                       8:06.29
+WAVE format:                  0x0001 (Microsoft PCM)
+Channels:                     2
+Bits/sample:                  16
+Samples/sec:                  44100
+Average bytes/sec:            176400
+Rate (calculated):            176400
+Block align:                  4
+Header size:                  44 bytes
+Data size:                    85798608 bytes
+Chunk size:                   85798644 bytes
+Total size (chunk size + 8):  85798652 bytes
+Actual file size:             62630165
+File is compressed:           yes
+Compression ratio:            0.7300
+CD-quality properties:
+  CD quality:                 yes
+  Cut on sector boundary:     yes
+  Sector misalignment:        0 bytes
+  Long enough to be burned:   yes
+WAVE properties:
+  Non-canonical header:       no
+  Extra RIFF chunks:          no
+Possible problems:
+  File contains ID3v2 tag:    no
+  Data chunk block-aligned:   yes
+  Inconsistent header:        no
+  File probably truncated:    unknown
+  Junk appended to file:      unknown
+  Odd data size has pad byte: n/a
+-------------------------------------------------------------------------------
+File name:                    05 - The Shortest Straw.flac
+Handled by:                   flac format module
+Length:                       6:31.13
+WAVE format:                  0x0001 (Microsoft PCM)
+Channels:                     2
+Bits/sample:                  16
+Samples/sec:                  44100
+Average bytes/sec:            176400
+Rate (calculated):            176400
+Block align:                  4
+Header size:                  44 bytes
+Data size:                    69002976 bytes
+Chunk size:                   69003012 bytes
+Total size (chunk size + 8):  69003020 bytes
+Actual file size:             49676224
+File is compressed:           yes
+Compression ratio:            0.7199
+CD-quality properties:
+  CD quality:                 yes
+  Cut on sector boundary:     yes
+  Sector misalignment:        0 bytes
+  Long enough to be burned:   yes
+WAVE properties:
+  Non-canonical header:       no
+  Extra RIFF chunks:          no
+Possible problems:
+  File contains ID3v2 tag:    no
+  Data chunk block-aligned:   yes
+  Inconsistent header:        no
+  File probably truncated:    unknown
+  Junk appended to file:      unknown
+  Odd data size has pad byte: n/a
+-------------------------------------------------------------------------------
+File name:                    06 - Seek And Destroy.flac
+Handled by:                   flac format module
+Length:                       6:36.22
+WAVE format:                  0x0001 (Microsoft PCM)
+Channels:                     2
+Bits/sample:                  16
+Samples/sec:                  44100
+Average bytes/sec:            176400
+Rate (calculated):            176400
+Block align:                  4
+Header size:                  44 bytes
+Data size:                    69906144 bytes
+Chunk size:                   69906180 bytes
+Total size (chunk size + 8):  69906188 bytes
+Actual file size:             50779879
+File is compressed:           yes
+Compression ratio:            0.7264
+CD-quality properties:
+  CD quality:                 yes
+  Cut on sector boundary:     yes
+  Sector misalignment:        0 bytes
+  Long enough to be burned:   yes
+WAVE properties:
+  Non-canonical header:       no
+  Extra RIFF chunks:          no
+Possible problems:
+  File contains ID3v2 tag:    no
+  Data chunk block-aligned:   yes
+  Inconsistent header:        no
+  File probably truncated:    unknown
+  Junk appended to file:      unknown
+  Odd data size has pad byte: n/a
+-------------------------------------------------------------------------------
+File name:                    07 - Guitar Solo #1.flac
+Handled by:                   flac format module
+Length:                       1:01.06
+WAVE format:                  0x0001 (Microsoft PCM)
+Channels:                     2
+Bits/sample:                  16
+Samples/sec:                  44100
+Average bytes/sec:            176400
+Rate (calculated):            176400
+Block align:                  4
+Header size:                  44 bytes
+Data size:                    10774512 bytes
+Chunk size:                   10774548 bytes
+Total size (chunk size + 8):  10774556 bytes
+Actual file size:             6383753
+File is compressed:           yes
+Compression ratio:            0.5925
+CD-quality properties:
+  CD quality:                 yes
+  Cut on sector boundary:     yes
+  Sector misalignment:        0 bytes
+  Long enough to be burned:   yes
+WAVE properties:
+  Non-canonical header:       no
+  Extra RIFF chunks:          no
+Possible problems:
+  File contains ID3v2 tag:    no
+  Data chunk block-aligned:   yes
+  Inconsistent header:        no
+  File probably truncated:    unknown
+  Junk appended to file:      unknown
+  Odd data size has pad byte: n/a
+-------------------------------------------------------------------------------
+File name:                    08 - Welcome Home (Sanitarium).flac
+Handled by:                   flac format module
+Length:                       6:48.24
+WAVE format:                  0x0001 (Microsoft PCM)
+Channels:                     2
+Bits/sample:                  16
+Samples/sec:                  44100
+Average bytes/sec:            176400
+Rate (calculated):            176400
+Block align:                  4
+Header size:                  44 bytes
+Data size:                    72027648 bytes
+Chunk size:                   72027684 bytes
+Total size (chunk size + 8):  72027692 bytes
+Actual file size:             50995345
+File is compressed:           yes
+Compression ratio:            0.7080
+CD-quality properties:
+  CD quality:                 yes
+  Cut on sector boundary:     yes
+  Sector misalignment:        0 bytes
+  Long enough to be burned:   yes
+WAVE properties:
+  Non-canonical header:       no
+  Extra RIFF chunks:          no
+Possible problems:
+  File contains ID3v2 tag:    no
+  Data chunk block-aligned:   yes
+  Inconsistent header:        no
+  File probably truncated:    unknown
+  Junk appended to file:      unknown
+  Odd data size has pad byte: n/a
+-------------------------------------------------------------------------------
+File name:                    09 - Ride The Lightning.flac
+Handled by:                   flac format module
+Length:                       6:52.24
+WAVE format:                  0x0001 (Microsoft PCM)
+Channels:                     2
+Bits/sample:                  16
+Samples/sec:                  44100
+Average bytes/sec:            176400
+Rate (calculated):            176400
+Block align:                  4
+Header size:                  44 bytes
+Data size:                    72733248 bytes
+Chunk size:                   72733284 bytes
+Total size (chunk size + 8):  72733292 bytes
+Actual file size:             51845917
+File is compressed:           yes
+Compression ratio:            0.7128
+CD-quality properties:
+  CD quality:                 yes
+  Cut on sector boundary:     yes
+  Sector misalignment:        0 bytes
+  Long enough to be burned:   yes
+WAVE properties:
+  Non-canonical header:       no
+  Extra RIFF chunks:          no
+Possible problems:
+  File contains ID3v2 tag:    no
+  Data chunk block-aligned:   yes
+  Inconsistent header:        no
+  File probably truncated:    unknown
+  Junk appended to file:      unknown
+  Odd data size has pad byte: n/a
+-------------------------------------------------------------------------------
+File name:                    10 - The Memory Remains.flac
+Handled by:                   flac format module
+Length:                       5:29.43
+WAVE format:                  0x0001 (Microsoft PCM)
+Channels:                     2
+Bits/sample:                  16
+Samples/sec:                  44100
+Average bytes/sec:            176400
+Rate (calculated):            176400
+Block align:                  4
+Header size:                  44 bytes
+Data size:                    58136736 bytes
+Chunk size:                   58136772 bytes
+Total size (chunk size + 8):  58136780 bytes
+Actual file size:             41189210
+File is compressed:           yes
+Compression ratio:            0.7085
+CD-quality properties:
+  CD quality:                 yes
+  Cut on sector boundary:     yes
+  Sector misalignment:        0 bytes
+  Long enough to be burned:   yes
+WAVE properties:
+  Non-canonical header:       no
+  Extra RIFF chunks:          no
+Possible problems:
+  File contains ID3v2 tag:    no
+  Data chunk block-aligned:   yes
+  Inconsistent header:        no
+  File probably truncated:    unknown
+  Junk appended to file:      unknown
+  Odd data size has pad byte: n/a
+-------------------------------------------------------------------------------
+File name:                    11 - All Nightmare Long.flac
+Handled by:                   flac format module
+Length:                       8:52.35
+WAVE format:                  0x0001 (Microsoft PCM)
+Channels:                     2
+Bits/sample:                  16
+Samples/sec:                  44100
+Average bytes/sec:            176400
+Rate (calculated):            176400
+Block align:                  4
+Header size:                  44 bytes
+Data size:                    93927120 bytes
+Chunk size:                   93927156 bytes
+Total size (chunk size + 8):  93927164 bytes
+Actual file size:             65452070
+File is compressed:           yes
+Compression ratio:            0.6968
+CD-quality properties:
+  CD quality:                 yes
+  Cut on sector boundary:     yes
+  Sector misalignment:        0 bytes
+  Long enough to be burned:   yes
+WAVE properties:
+  Non-canonical header:       no
+  Extra RIFF chunks:          no
+Possible problems:
+  File contains ID3v2 tag:    no
+  Data chunk block-aligned:   yes
+  Inconsistent header:        no
+  File probably truncated:    unknown
+  Junk appended to file:      unknown
+  Odd data size has pad byte: n/a
+-------------------------------------------------------------------------------
+File name:                    12 - Sad But True.flac
+Handled by:                   flac format module
+Length:                       5:13.09
+WAVE format:                  0x0001 (Microsoft PCM)
+Channels:                     2
+Bits/sample:                  16
+Samples/sec:                  44100
+Average bytes/sec:            176400
+Rate (calculated):            176400
+Block align:                  4
+Header size:                  44 bytes
+Data size:                    55234368 bytes
+Chunk size:                   55234404 bytes
+Total size (chunk size + 8):  55234412 bytes
+Actual file size:             40337736
+File is compressed:           yes
+Compression ratio:            0.7303
+CD-quality properties:
+  CD quality:                 yes
+  Cut on sector boundary:     yes
+  Sector misalignment:        0 bytes
+  Long enough to be burned:   yes
+WAVE properties:
+  Non-canonical header:       no
+  Extra RIFF chunks:          no
+Possible problems:
+  File contains ID3v2 tag:    no
+  Data chunk block-aligned:   yes
+  Inconsistent header:        no
+  File probably truncated:    unknown
+  Junk appended to file:      unknown
+  Odd data size has pad byte: n/a
+-------------------------------------------------------------------------------
+File name:                    13 - Bass Solo.flac
+Handled by:                   flac format module
+Length:                       1:21.09
+WAVE format:                  0x0001 (Microsoft PCM)
+Channels:                     2
+Bits/sample:                  16
+Samples/sec:                  44100
+Average bytes/sec:            176400
+Rate (calculated):            176400
+Block align:                  4
+Header size:                  44 bytes
+Data size:                    14309568 bytes
+Chunk size:                   14309604 bytes
+Total size (chunk size + 8):  14309612 bytes
+Actual file size:             8266594
+File is compressed:           yes
+Compression ratio:            0.5777
+CD-quality properties:
+  CD quality:                 yes
+  Cut on sector boundary:     yes
+  Sector misalignment:        0 bytes
+  Long enough to be burned:   yes
+WAVE properties:
+  Non-canonical header:       no
+  Extra RIFF chunks:          no
+Possible problems:
+  File contains ID3v2 tag:    no
+  Data chunk block-aligned:   yes
+  Inconsistent header:        no
+  File probably truncated:    unknown
+  Junk appended to file:      unknown
+  Odd data size has pad byte: n/a
+-------------------------------------------------------------------------------
+File name:                    14 - The Call Of Ktulu.flac
+Handled by:                   flac format module
+Length:                       9:15.26
+WAVE format:                  0x0001 (Microsoft PCM)
+Channels:                     2
+Bits/sample:                  16
+Samples/sec:                  44100
+Average bytes/sec:            176400
+Rate (calculated):            176400
+Block align:                  4
+Header size:                  44 bytes
+Data size:                    97963152 bytes
+Chunk size:                   97963188 bytes
+Total size (chunk size + 8):  97963196 bytes
+Actual file size:             66738482
+File is compressed:           yes
+Compression ratio:            0.6813
+CD-quality properties:
+  CD quality:                 yes
+  Cut on sector boundary:     yes
+  Sector misalignment:        0 bytes
+  Long enough to be burned:   yes
+WAVE properties:
+  Non-canonical header:       no
+  Extra RIFF chunks:          no
+Possible problems:
+  File contains ID3v2 tag:    no
+  Data chunk block-aligned:   yes
+  Inconsistent header:        no
+  File probably truncated:    unknown
+  Junk appended to file:      unknown
+  Odd data size has pad byte: n/a
+-------------------------------------------------------------------------------
+File name:                    15 - One.flac
+Handled by:                   flac format module
+Length:                       8:20.52
+WAVE format:                  0x0001 (Microsoft PCM)
+Channels:                     2
+Bits/sample:                  16
+Samples/sec:                  44100
+Average bytes/sec:            176400
+Rate (calculated):            176400
+Block align:                  4
+Header size:                  44 bytes
+Data size:                    88322304 bytes
+Chunk size:                   88322340 bytes
+Total size (chunk size + 8):  88322348 bytes
+Actual file size:             61602614
+File is compressed:           yes
+Compression ratio:            0.6975
+CD-quality properties:
+  CD quality:                 yes
+  Cut on sector boundary:     yes
+  Sector misalignment:        0 bytes
+  Long enough to be burned:   yes
+WAVE properties:
+  Non-canonical header:       no
+  Extra RIFF chunks:          no
+Possible problems:
+  File contains ID3v2 tag:    no
+  Data chunk block-aligned:   yes
+  Inconsistent header:        no
+  File probably truncated:    unknown
+  Junk appended to file:      unknown
+  Odd data size has pad byte: n/a
+-------------------------------------------------------------------------------
+File name:                    16 - For Whom The Bell Tolls.flac
+Handled by:                   flac format module
+Length:                       4:31.40
+WAVE format:                  0x0001 (Microsoft PCM)
+Channels:                     2
+Bits/sample:                  16
+Samples/sec:                  44100
+Average bytes/sec:            176400
+Rate (calculated):            176400
+Block align:                  4
+Header size:                  44 bytes
+Data size:                    47898480 bytes
+Chunk size:                   47898516 bytes
+Total size (chunk size + 8):  47898524 bytes
+Actual file size:             33655429
+File is compressed:           yes
+Compression ratio:            0.7026
+CD-quality properties:
+  CD quality:                 yes
+  Cut on sector boundary:     yes
+  Sector misalignment:        0 bytes
+  Long enough to be burned:   yes
+WAVE properties:
+  Non-canonical header:       no
+  Extra RIFF chunks:          no
+Possible problems:
+  File contains ID3v2 tag:    no
+  Data chunk block-aligned:   yes
+  Inconsistent header:        no
+  File probably truncated:    unknown
+  Junk appended to file:      unknown
+  Odd data size has pad byte: n/a
+-------------------------------------------------------------------------------
+File name:                    17 - Blackened.flac
+Handled by:                   flac format module
+Length:                       6:44.38
+WAVE format:                  0x0001 (Microsoft PCM)
+Channels:                     2
+Bits/sample:                  16
+Samples/sec:                  44100
+Average bytes/sec:            176400
+Rate (calculated):            176400
+Block align:                  4
+Header size:                  44 bytes
+Data size:                    71354976 bytes
+Chunk size:                   71355012 bytes
+Total size (chunk size + 8):  71355020 bytes
+Actual file size:             49336228
+File is compressed:           yes
+Compression ratio:            0.6914
+CD-quality properties:
+  CD quality:                 yes
+  Cut on sector boundary:     yes
+  Sector misalignment:        0 bytes
+  Long enough to be burned:   yes
+WAVE properties:
+  Non-canonical header:       no
+  Extra RIFF chunks:          no
+Possible problems:
+  File contains ID3v2 tag:    no
+  Data chunk block-aligned:   yes
+  Inconsistent header:        no
+  File probably truncated:    unknown
+  Junk appended to file:      unknown
+  Odd data size has pad byte: n/a
+-------------------------------------------------------------------------------
+File name:                    18 - Guitar Solo #2.flac
+Handled by:                   flac format module
+Length:                       1:37.28
+WAVE format:                  0x0001 (Microsoft PCM)
+Channels:                     2
+Bits/sample:                  16
+Samples/sec:                  44100
+Average bytes/sec:            176400
+Rate (calculated):            176400
+Block align:                  4
+Header size:                  44 bytes
+Data size:                    17176656 bytes
+Chunk size:                   17176692 bytes
+Total size (chunk size + 8):  17176700 bytes
+Actual file size:             9097470
+File is compressed:           yes
+Compression ratio:            0.5296
+CD-quality properties:
+  CD quality:                 yes
+  Cut on sector boundary:     yes
+  Sector misalignment:        0 bytes
+  Long enough to be burned:   yes
+WAVE properties:
+  Non-canonical header:       no
+  Extra RIFF chunks:          no
+Possible problems:
+  File contains ID3v2 tag:    no
+  Data chunk block-aligned:   yes
+  Inconsistent header:        no
+  File probably truncated:    unknown
+  Junk appended to file:      unknown
+  Odd data size has pad byte: n/a
+-------------------------------------------------------------------------------
+File name:                    19 - Fade To Black.flac
+Handled by:                   flac format module
+Length:                       7:35.01
+WAVE format:                  0x0001 (Microsoft PCM)
+Channels:                     2
+Bits/sample:                  16
+Samples/sec:                  44100
+Average bytes/sec:            176400
+Rate (calculated):            176400
+Block align:                  4
+Header size:                  44 bytes
+Data size:                    80264352 bytes
+Chunk size:                   80264388 bytes
+Total size (chunk size + 8):  80264396 bytes
+Actual file size:             55236381
+File is compressed:           yes
+Compression ratio:            0.6882
+CD-quality properties:
+  CD quality:                 yes
+  Cut on sector boundary:     yes
+  Sector misalignment:        0 bytes
+  Long enough to be burned:   yes
+WAVE properties:
+  Non-canonical header:       no
+  Extra RIFF chunks:          no
+Possible problems:
+  File contains ID3v2 tag:    no
+  Data chunk block-aligned:   yes
+  Inconsistent header:        no
+  File probably truncated:    unknown
+  Junk appended to file:      unknown
+  Odd data size has pad byte: n/a
+-------------------------------------------------------------------------------
+File name:                    20 - Enter Sandman.flac
+Handled by:                   flac format module
+Length:                       11:04.57
+WAVE format:                  0x0001 (Microsoft PCM)
+Channels:                     2
+Bits/sample:                  16
+Samples/sec:                  44100
+Average bytes/sec:            176400
+Rate (calculated):            176400
+Block align:                  4
+Header size:                  44 bytes
+Data size:                    117263664 bytes
+Chunk size:                   117263700 bytes
+Total size (chunk size + 8):  117263708 bytes
+Actual file size:             75305588
+File is compressed:           yes
+Compression ratio:            0.6422
+CD-quality properties:
+  CD quality:                 yes
+  Cut on sector boundary:     yes
+  Sector misalignment:        0 bytes
+  Long enough to be burned:   yes
+WAVE properties:
+  Non-canonical header:       no
+  Extra RIFF chunks:          no
+Possible problems:
+  File contains ID3v2 tag:    no
+  Data chunk block-aligned:   yes
+  Inconsistent header:        no
+  File probably truncated:    unknown
+  Junk appended to file:      unknown
+  Odd data size has pad byte: n/a
+-------------------------------------------------------------------------------
+File name:                    21 - Am I Evil.flac
+Handled by:                   flac format module
+Length:                       5:46.28
+WAVE format:                  0x0001 (Microsoft PCM)
+Channels:                     2
+Bits/sample:                  16
+Samples/sec:                  44100
+Average bytes/sec:            176400
+Rate (calculated):            176400
+Block align:                  4
+Header size:                  44 bytes
+Data size:                    61100256 bytes
+Chunk size:                   61100292 bytes
+Total size (chunk size + 8):  61100300 bytes
+Actual file size:             40981802
+File is compressed:           yes
+Compression ratio:            0.6707
+CD-quality properties:
+  CD quality:                 yes
+  Cut on sector boundary:     yes
+  Sector misalignment:        0 bytes
+  Long enough to be burned:   yes
+WAVE properties:
+  Non-canonical header:       no
+  Extra RIFF chunks:          no
+Possible problems:
+  File contains ID3v2 tag:    no
+  Data chunk block-aligned:   yes
+  Inconsistent header:        no
+  File probably truncated:    unknown
+  Junk appended to file:      unknown
+  Odd data size has pad byte: n/a
+-------------------------------------------------------------------------------
+File name:                    22 - Damage, Inc..flac
+Handled by:                   flac format module
+Length:                       7:07.72
+WAVE format:                  0x0001 (Microsoft PCM)
+Channels:                     2
+Bits/sample:                  16
+Samples/sec:                  44100
+Average bytes/sec:            176400
+Rate (calculated):            176400
+Block align:                  4
+Header size:                  44 bytes
+Data size:                    75492144 bytes
+Chunk size:                   75492180 bytes
+Total size (chunk size + 8):  75492188 bytes
+Actual file size:             50676885
+File is compressed:           yes
+Compression ratio:            0.6713
+CD-quality properties:
+  CD quality:                 yes
+  Cut on sector boundary:     yes
+  Sector misalignment:        0 bytes
+  Long enough to be burned:   yes
+WAVE properties:
+  Non-canonical header:       no
+  Extra RIFF chunks:          no
+Possible problems:
+  File contains ID3v2 tag:    no
+  Data chunk block-aligned:   yes
+  Inconsistent header:        no
+  File probably truncated:    unknown
+  Junk appended to file:      unknown
+  Odd data size has pad byte: n/a
+-------------------------------------------------------------------------------
+File name:                    23 - Creeping Death.flac
+Handled by:                   flac format module
+Length:                       6:38.33
+WAVE format:                  0x0001 (Microsoft PCM)
+Channels:                     2
+Bits/sample:                  16
+Samples/sec:                  44100
+Average bytes/sec:            176400
+Rate (calculated):            176400
+Block align:                  4
+Header size:                  44 bytes
+Data size:                    70284816 bytes
+Chunk size:                   70284852 bytes
+Total size (chunk size + 8):  70284860 bytes
+Actual file size:             50071227
+File is compressed:           yes
+Compression ratio:            0.7124
+CD-quality properties:
+  CD quality:                 yes
+  Cut on sector boundary:     yes
+  Sector misalignment:        0 bytes
+  Long enough to be burned:   yes
+WAVE properties:
+  Non-canonical header:       no
+  Extra RIFF chunks:          no
+Possible problems:
+  File contains ID3v2 tag:    no
+  Data chunk block-aligned:   yes
+  Inconsistent header:        no
+  File probably truncated:    unknown
+  Junk appended to file:      unknown
+  Odd data size has pad byte: n/a
+
+
+Traders Little Helper
+all files tested ok (files decodable without error). No errors occured.
+
+01 - Preshow.flac:a7e78911bded827665f239d1aa3259be
+02 - Intro.flac:4002684b31e18f5634f51a6d6a8d1b08
+03 - Hit The Lights.flac:a8ded1a496f39d682edd321e9e217d37
+04 - Master Of Puppets.flac:3918c49d7b496d5aa763d3c7e49b9c9c
+05 - The Shortest Straw.flac:b5f8c0b8c3b54131d692d5691c231bfb
+06 - Seek And Destroy.flac:38da7b7d27d473c163d1adb306dca0c8
+07 - Guitar Solo #1.flac:ffc92bdfb3b5c1077d693635915168ef
+08 - Welcome Home (Sanitarium).flac:d4bab4da15a731118682484b6dba138a
+09 - Ride The Lightning.flac:38c2d268bf67c6b1a9aba920d6be1917
+10 - The Memory Remains.flac:17a5a5370344ebf7d04bd749a168b6cf
+11 - All Nightmare Long.flac:f21b477129ab9a4f8677fbceb28c6d0b
+12 - Sad But True.flac:2fdd6cd71b97d5176a8d799889409a93
+13 - Bass Solo.flac:4632616213ffcdfa455cd8b148f88d7f
+14 - The Call Of Ktulu.flac:29d1b50de6aed38dce1ac1c1fb576c94
+15 - One.flac:bc295ff9109520921820cd6f1cf778e0
+16 - For Whom The Bell Tolls.flac:502ec8c2389a8b2ee39de73b71f62796
+17 - Blackened.flac:df94b179d1126da13781427c4bca4340
+18 - Guitar Solo #2.flac:76069a14354bde138ec69f248c461184
+19 - Fade To Black.flac:cd7f9839cd72eafbdee8d58f91c7fc34
+20 - Enter Sandman.flac:306c10b3038351c760c96a97d68023bf
+21 - Am I Evil.flac:99dc2cff9a7705b02509d44856e7f229
+22 - Damage, Inc..flac:3a350b1e0b2a79bbeba3322db5b50006
+23 - Creeping Death.flac:494881d1906e23d4795468a3a835ed82
+No errors occured.
+
+-dave@qb August 2011

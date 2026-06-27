@@ -1,0 +1,51 @@
+Eels
+
+2018-06-02
+Showbox
+Seattle, WA
+
+Shure MV88 mic -> iPhone (16/44.1) -> WavePad normalize and split tracks -> TLH convert to FLAC
+
+
+00 intro
+01 Out In The Street (The Who)
+02 Raspberry Beret (Prince)
+03 Bone Dry
+04 Flyswatter
+05 Dog Faced Boy
+06 chat
+07 A Magic World
+08 chat
+09 Dirty Girl
+10 Daisies Of The Galaxy
+11 Prizefighter
+12 chat
+13 Rusty Pipes
+14 Open My Present
+15 You Are The Shining Light
+16 chat
+17 My Beloved Monster
+18 That Look You Give That Guy
+19 chat
+20 Climbing To The Moon
+21 chat
+22 I Like The Way This Is Going
+23 band intros
+24 Little Joe!
+25 Today Is The Day
+26 Novocaine For The Soul
+27 Souljacker, Part I
+28 I Like Birds
+29 chat
+30 P.S. You Rock My World
+31 encore
+32 When You Were Mine (Prince)
+33 encore
+34 Mr. E's Beautiful Blues
+35 Fresh Blood
+36 Love And Mercy (Brian Wilson) 
+   -> Blinking Lights (For Me)
+   -> Wonderful, Glorious
+
+
+set time: 1:44:14

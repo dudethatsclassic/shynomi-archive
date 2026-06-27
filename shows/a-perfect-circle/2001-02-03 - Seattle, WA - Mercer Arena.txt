@@ -1,0 +1,26 @@
+A Perfect Circle
+2001-02-03
+Seattle, WA
+Mercer Arena
+
+Taper: CatalystX
+Source: Core Sound Binaurals/120 > Sony PCM-M1(Oade)/48 [Recorded FOB]
+Transfer: DAT-M > Sony PCM-M1 > coaxial 7pin > MOTU 2408mkII > BIAS Peak > Sound Forge 7.0 (fades, resampling to 44.1) > CDWave (tracking) > .WAV > .FLAC
+Generation: 0 - Direct Digital Transfer
+Notes: Quite a few talkers during the show near the taper.
+
+Setlist:
+Renholdër
+Thinking Of You
+Magdalena
+3 Libras remix
+3 Libras
+Breña
+Orestes
+Vacant (Passive)
+Rose
+Over
+Thomas
+Judith
+Ashes To Ashes
+The Hollow

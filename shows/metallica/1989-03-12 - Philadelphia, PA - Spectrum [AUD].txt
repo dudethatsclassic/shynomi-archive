@@ -1,0 +1,53 @@
+Metallica- Spectrum, Philadelphia, PA 1989 March 1
+
+Panasonic mono cassette recorder (Master) > wav (using Onkyo deck, audacity, and soundforge XP > flac (using multi frontend)
+
+2 hrs, 9 min
+
+tr01 Intro- The Good The Bad And The Ugly
+tr02 Blackened
+tr03 For Whom The Bell Tolls
+tr04 Sanatarium
+tr05 Leper Messiah
+tr06 Harvester Of Sorrow
+tr07 Eye Of The Beholder
+tr08 Bass Solo.
+tr09 Master Of Puppets
+tr10 One
+tr11 Seek And Destroy
+tr12 And Justice For All
+tr13 Creeping Death
+tr14 Fade To Black
+tr15 Kirk's solo
+tr16 Jam
+tr17 Battery
+tr18 Last Carress
+tr19 Am I Evil
+tr20 Whiplash
+tr21 Breadfan
+
+This is a decent mono recording even though the PA and Metallica’s monster sound overloaded my poor little Panasonic recorder, but the energy of this band back in the day makes up for a perfect sounding recording.
+
+
+
+tr01 Intro- The Good The Bad And The Ugly.flac:0704c170da21c6c40acc7554195875d9
+tr02 Blackened.flac:ba9e616515af3f750e1b86d0bae63369
+tr03 For Whom The Bell Tolls.flac:28dc21c2f2a235d4e4ddf48759ba0d78
+tr04 Sanatarium.flac:700fda336926a4fd58483f682ca68547
+tr05 Leper Messiah.flac:895edcd3743d74c8ef3fb692304c0b11
+tr06 Harvester Of Sorrow.flac:de5fc951e7f03a672d3c64d0b00d8362
+tr07 Eye Of The Beholder.flac:47f2b3adef0c90243d044367be1fe14e
+tr08 Bass Solo.flac:48bb95a057616fa26934478444f5dfa2
+tr09 Master Of Puppets.flac:d9bd980c6e52dda004647a7b3951e82d
+tr10 One.flac:dee8653e22155212751607c0838b10d9
+tr11 Seek And Destroy.flac:80b59a9efeb3e215679a58d0a108dfb5
+tr12 And Justice For All.flac:c2d2c37ce5c8c6dc1048c8fb42456369
+tr13 Creeping Death.flac:c80b54a97a32317cabdfe5315bdeb1dd
+tr14 Fade To Black.flac:884a3cda5e207500533e3e78c83412e6
+tr15 Kirk's solo.flac:cdfc888fc8e1f7c10ad572a7861231bd
+tr16 Jam.flac:7d419463886d3e3fe2359ad01b0b91bb
+tr17 Battery.flac:fb9ad0d40803551a74c8989d2a2c6129
+tr18 Last Carress.flac:1f0785a558eb7144616a9793c7409e33
+tr19 Am I Evil.flac:de730a46b93993231a30fb94402432af
+tr20 Whiplash.flac:b6c2c4e61e3ee67ffef9edd49e81e272
+tr21 Breadfan.flac:e97182d0760f1c95ef6610a57c01a6eb

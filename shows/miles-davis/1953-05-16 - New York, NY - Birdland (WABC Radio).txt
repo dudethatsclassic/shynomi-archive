@@ -1,0 +1,103 @@
+Miles Davis All-Stars
+05-16-1953
+Birdland
+New York, New York
+
+Project ID - LL95
+
+Source: FM Broadcast
+Lineage: WABC Radio Broadcast > ?? > cd (Peter Losin's Archive) > 
+cd duplicated (burner to burner) > eac > wav > flac (lvl 8 )
+
+Miles Davis (tpt); Sahib Shihab [Edmund Gregory] (bs); Wade Legge 
+(p); Lou Hackney (b); Al Jones (d); Candido Camero (cga); Joe 
+Carroll (voc); Bob Garrity (ann)
+
+d1t01. Introduction
+d1t02. Move
+d1t03. Introduction
+d1t04. Tenderly
+d1t05. Introduction
+d1t06. A Night in Tunisia
+d1t07. Introduction
+d1t08. Dig
+d1t09. I Got Rhythm
+
+-------------------------------------------
+Notes: 
+
+- D1t04 ends with the Bob Garrity announcement being cut short
+
+- This source has amost all the Bob Garrity announcements that were cut
+from the previously seeded LL62. The bass doesn't sound to be quite so muddy, and 
+the hiss seems a little less prominent. Another fine upgrade.
+
+-"The Charlie Parker Quartet, the Dizzy Gillespie Group, and the Bud Powell Trio were 
+all booked at Birdland May 16-26; Parker remained (opposite Ella Fitzgerald) through 
+June 3. Davis replaced Gillespie on this night (Gillespie was probably still in Toronto 
+where he'd taken part in the Massey Hall concert with Charlie Parker, Bud Powell, 
+Charles Mingus, and Max Roach). Davis joined Gillespie as a second trumpet one week 
+later (May 23)." -Credit to Peter Losin http://www.plosin.com/
+
+- Thanks to Peter Losin for source!!
+
+- QC done by Bgreen
+
+md5
+5f6016c943379c64f5d4d8a19bda87dc *md1953-05-16.fm.LL95.d1t01.flac
+f303268340dc6da96d2fa0fc2909d8fb *md1953-05-16.fm.LL95.d1t02.flac
+ae115543503f631a87ac481a9fcb5b24 *md1953-05-16.fm.LL95.d1t03.flac
+bec9b5cefed46e9e888bf430669ca991 *md1953-05-16.fm.LL95.d1t04.flac
+08b710a1ba8fb6f400d1e19a0447156b *md1953-05-16.fm.LL95.d1t05.flac
+a88b94965ac7452eff1a7979f3933b43 *md1953-05-16.fm.LL95.d1t06.flac
+3715e142896044866cb6b2ed7b4d8dbe *md1953-05-16.fm.LL95.d1t07.flac
+ee6a2559d33440fa1ff12a63121a961e *md1953-05-16.fm.LL95.d1t08.flac
+978487d6a54227fc565986b3253fd0b3 *md1953-05-16.fm.LL95.d1t09.flac
+ 
+ffp
+md1953-05-16.fm.LL95.d1t01.flac:0644daa0339ff1762593d9ab1970ead0
+md1953-05-16.fm.LL95.d1t02.flac:5f25233e81bf0739fe0adcc97a6df391
+md1953-05-16.fm.LL95.d1t03.flac:8cb856cae67b14fb9783fc42aba084f9
+md1953-05-16.fm.LL95.d1t04.flac:d3a4108028cb85c9f29ac3a1f6888e08
+md1953-05-16.fm.LL95.d1t05.flac:05771f5355bd923858d30521e665b2fb
+md1953-05-16.fm.LL95.d1t06.flac:da88308719deba7604d70e6bce22921c
+md1953-05-16.fm.LL95.d1t07.flac:ce7e6fdf304f8e0ade981e0d924f5f09
+md1953-05-16.fm.LL95.d1t08.flac:e5641432219eebe871e44037144c5b16
+md1953-05-16.fm.LL95.d1t09.flac:2cf0692e105e10e97cbd9637996e1576
+ 
+shntool
+    length     expanded size   cdr  WAVE problems filename
+     0:28.39        5030972    ---   --   ---xx   md1953-05-16.fm.LL95.d1t01.flac
+     5:35.49       59209292    ---   --   ---xx   md1953-05-16.fm.LL95.d1t02.flac
+     0:34.04        6007052    ---   --   ---xx   md1953-05-16.fm.LL95.d1t03.flac
+     4:40.55       49521404    ---   --   ---xx   md1953-05-16.fm.LL95.d1t04.flac
+     0:17.73        3170540    ---   --   ---xx   md1953-05-16.fm.LL95.d1t05.flac
+     6:08.40       65009324    ---   --   ---xx   md1953-05-16.fm.LL95.d1t06.flac
+     0:23.70        4221884    ---   --   ---xx   md1953-05-16.fm.LL95.d1t07.flac
+     3:47.41       40139276    ---   --   ---xx   md1953-05-16.fm.LL95.d1t08.flac
+     4:54.31       51934556    ---   --   ---xx   md1953-05-16.fm.LL95.d1t09.flac
+    26:51.27      284244300 B                     (totals for 9 files, 0.2694 overall compression ratio)  
+
+spectral analysis from TLH
+md1953-05-16.fm.LL95.d1t01.wav:  track looks like CDDA with probability 100%
+md1953-05-16.fm.LL95.d1t02.wav:  track looks like CDDA with probability 100%
+md1953-05-16.fm.LL95.d1t03.wav:  track looks like CDDA with probability 100%
+md1953-05-16.fm.LL95.d1t04.wav:  track looks like CDDA with probability 100%
+md1953-05-16.fm.LL95.d1t05.wav:  track looks like CDDA with probability 100%
+md1953-05-16.fm.LL95.d1t06.wav:  track looks like CDDA with probability 100%
+md1953-05-16.fm.LL95.d1t07.wav:  track looks like CDDA with probability 100%
+md1953-05-16.fm.LL95.d1t08.wav:  track looks like CDDA with probability 100%
+md1953-05-16.fm.LL95.d1t09.wav:  track looks like CDDA with probability 100%
+ 
+old ffp
+01 - Track01.flac:0644daa0339ff1762593d9ab1970ead0
+02 - Track02.flac:5f25233e81bf0739fe0adcc97a6df391
+03 - Track03.flac:8cb856cae67b14fb9783fc42aba084f9
+04 - Track04.flac:d3a4108028cb85c9f29ac3a1f6888e08
+05 - Track05.flac:05771f5355bd923858d30521e665b2fb
+06 - Track06.flac:da88308719deba7604d70e6bce22921c
+07 - Track07.flac:ce7e6fdf304f8e0ade981e0d924f5f09
+08 - Track08.flac:e5641432219eebe871e44037144c5b16
+09 - Track09.flac:2cf0692e105e10e97cbd9637996e1576
+ 
+

@@ -1,0 +1,30 @@
+Ryan Adams
+The Roxy
+West Hollywood, CA
+December 11, 2012
+(Opened for Lindsey Buckingham and Graham Parker & The Rumour)
+
+** 16 BIT **
+
+Source:  Sony ECM-909a stereo mic > Edirol R-09 @ 16 bit/44.1 kHz
+Mastering:  .WAV > iZotope RX10 Advanced v10.0.0.1705 (De-click) > Sound Forge Pro 14.0 Build 140 [minor edits, normalize, & fades, Boz Digital Labs T-Bone2 plug-in (slant 
+EQ)] > CDWav (tracking) > Trader's Little Helper (level 5) > FLAC > TagScanner 6.1.16 (tagging)
+Recorded by:  ManOfStealth
+Mastered by:  Dennis Orr
+
+Setlist: (13:45)
+01 Intro
+02 Shining Through The Dark
+03 Chat & Tuning
+04 Lucky Now
+05 Chat & Tuning
+06 Everybody Knows
+
+Ryan Adams - vocals & guitar
+
+RyanAdams2012-12-11t01.flac:1c2b11a8a737b572d75980fdad264248
+RyanAdams2012-12-11t02.flac:60f02c43a590042142571caa6eb0807b
+RyanAdams2012-12-11t03.flac:d413c079211243b3200e635b5f0972b4
+RyanAdams2012-12-11t04.flac:8fcbc3b70ab091eadef9f0df1ed241e1
+RyanAdams2012-12-11t05.flac:049c8aff0972c07df704de6511cb6055
+RyanAdams2012-12-11t06.flac:81587ecc73a62cda043a397f56c8afb1

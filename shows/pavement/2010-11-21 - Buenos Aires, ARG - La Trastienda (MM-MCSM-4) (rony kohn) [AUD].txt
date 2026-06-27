@@ -1,0 +1,35 @@
+Pavement
+La Trastienda,
+Buenos Aires, Argentina
+November.21st.2010
+(Second to last show of the reunion tour)
+
+Taper: Rony Kohn (rony_kohn"at"yahoo.co.uk)
+Source: MM-MCSM-4 > MM-MBM with bass roll off @ 107 Hz > Edirol R-09HR @ 24 bits /44 KHZ
+Transfer: SD Reader > CEP (Graphic EQ) > WAV @ 16 bits > FLAC (Level 8)
+
+00 Intro
+01 Silence Kit
+02 Shady Lane
+03 Fight This Generation
+04 Trigger Cut
+05 Unfair
+06 Grounded
+07 Frontwards
+08 Father to a Sister of Thought
+09 Cut Your Hair
+10 No Life Singed Her
+11 Spit on a Stranger
+12 Date With IKEA
+13 Gold Soundz
+14 AT&T
+15 Zurich Is Stained
+16 Stereo
+17 Debris Slide
+18 We Dance
+19 She Believes
+20 Range Life
+21 Encore Break
+22 Kennel District
+23 Lions (Linden)
+24 Fin 

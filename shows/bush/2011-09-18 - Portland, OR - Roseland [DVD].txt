@@ -1,0 +1,91 @@
+BUSH
+2011-09-18
+Roseland
+Portland Oregon
+
+Bush members:
+Gavin Rossdale (vocals, guitar, original member)
+Robin Goodridge (drums, original member)
+Chris Traynor (guitar)
+Corey Britz (bass)
+
+Source Info:
+Video Camera: Zoom Q3HD
+Video Settings: 1080p full HD widescreen (1920 x 1080, 30 fps, progressive scan)
+Audio Settings: 24-bit, 48 kHz PCM lossless, lo-cut on
+Storage Media: Kingston 32 GB ultimateX 100X SDHC
+Filmed By: Meddle Earth
+
+Notes: During the song Afterlife, Gavin Rossdale climbed into the balcony stage-left, 
+then proceeded to work his way around the balcony's entire front-row to stage-right.
+As you can see in a screenshot below, this was my filming location. In a word: awkward!
+Of all my years seeing shows at the Roseland, I had never seen anyone do this before.
+Was really quite dangerous; there's barely enough space for one person, let alone two.
+
+Transfer: SDHC (.mov files) > HDD
+Authoring: Vegas Movie Studio HD Platinum 10, Audacity > DVD Architect Studio 5 > DVD-NTSC
+
+Archive Folder: Bush 2011-09-18 Portland Oregon (NTSC) (DVD)
+Archive Size: 4.34 GB
+Duration: 1 hr 33 min 13 sec
+
+DVD running video includes embedded chapters:
+01 The Mirror Of The Signs 
+02 Little Things
+03 I Believe In You
+04 Greedy Fly
+05 The Sound Of Winter
+06 Everything Zen
+07 The Chemicals Between Us
+08 All My Life
+09 The People That We Love
+10 All Night Doctors
+11 Swallowed
+12 Afterlife
+13 Machinehead
+14 encore break
+15 Alien
+16 Come Together (John Lennon / Beatles)
+17 Glycerine
+18 Comedown 
+
+MediaInfo Specs (full details included in specs.txt file):
+Video
+Width                            : 720 pixels
+Height                           : 480 pixels
+Display aspect ratio             : 16:9
+Frame rate                       : 29.970 fps
+Standard                         : NTSC
+Bit rate                         : 5 001 Kbps (variable)
+Audio
+Format                           : PCM
+Channel(s)                       : 2 channels
+Sampling rate                    : 48.0 KHz
+Bit depth                        : 16 bits
+Bit rate                         : 1 536 Kbps (constant)
+
+TLH checksums (verified before upload, md5 file included):
+22c053f06ff7d93ae9669c76b3836e96 *..\VIDEO_TS\VIDEO_TS.BUP
+22c053f06ff7d93ae9669c76b3836e96 *..\VIDEO_TS\VIDEO_TS.IFO
+cfc4aa4be99d5a301aa5cf31c8de9f10 *..\VIDEO_TS\VIDEO_TS.VOB
+dd62ffe7ef18f94c7692ec9bf9791bbe *..\VIDEO_TS\VTS_01_0.BUP
+dd62ffe7ef18f94c7692ec9bf9791bbe *..\VIDEO_TS\VTS_01_0.IFO
+fd41c89c2edf512eef4a15ea66fd8e48 *..\VIDEO_TS\VTS_01_0.VOB
+f6fb1568a2653bd06471700b42e102c2 *..\VIDEO_TS\VTS_01_1.VOB
+1887a029bb35b907c1c9a184c6698675 *..\VIDEO_TS\VTS_01_2.VOB
+419dddb39ae6d467ccbdc29fa4092374 *..\VIDEO_TS\VTS_01_3.VOB
+f7f4bdda273ee2269de7fb769289e520 *..\VIDEO_TS\VTS_01_4.VOB
+
+Screenshots (compressed to lo-res .jpg):
+http://www.meddleearth.com/Artists/Bush/Bush_2011-09-18_Portland_DVD/ssMenu.jpg
+http://www.meddleearth.com/Artists/Bush/Bush_2011-09-18_Portland_DVD/ss01_med.jpg
+http://www.meddleearth.com/Artists/Bush/Bush_2011-09-18_Portland_DVD/ss02_med.jpg
+http://www.meddleearth.com/Artists/Bush/Bush_2011-09-18_Portland_DVD/ss03_med.jpg
+http://www.meddleearth.com/Artists/Bush/Bush_2011-09-18_Portland_DVD/ss04_med.jpg
+http://www.meddleearth.com/Artists/Bush/Bush_2011-09-18_Portland_DVD/ss05_med.jpg
+http://www.meddleearth.com/Artists/Bush/Bush_2011-09-18_Portland_DVD/ss06_med.jpg
+http://www.meddleearth.com/Artists/Bush/Bush_2011-09-18_Portland_DVD/ss07_med.jpg
+
+AUDIO SAMPLE (24/48 sample down-converted to .mp3 file):
+http://www.meddleearth.com/Artists/Bush/Bush_2011-09-18_Portland_audio/24bit_48kHz-to-mp3_sample.mp3
+

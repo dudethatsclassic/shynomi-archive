@@ -1,0 +1,33 @@
+Artist: Pavement
+Venue: Edgefield, Portland OR
+Date: 2022-09-16
+
+01 Our Singer.flac
+02 Frontwards.flac
+03 Summer Babe.flac
+04 Black Out.flac
+05 Stereo.flac
+06 Type Slowly.flac
+07 Embassy Row.flac
+08 Home.flac
+09 Transport Is Arranged.flac
+10 Starlings of the Slipstream.flac
+11 Gold Soundz.flac
+12 Kennel District.flac
+13 Fin.flac
+14 Spit on a Stranger.flac
+15 The Hexx.flac
+16 Harness Your Hopes.flac
+17 Range Life.flac
+18 Blue Hawaiian.flac
+19 Cut Your Hair.flac
+20 Fillmore Jive.flac
+21 Grounded.flac
+22 Trigger Cut.flac
+23 Here.flac
+24 Two States.flac
+25 Stop Breathin.flac
+
+lineage: Audience master by mrsimontibbs > Roland R-05 > USB transfer > Logic EQ > WAV > FLAC 24-bit/48khz
+
+Edgefield is an outdoor venue just outside Portland, Oregon. Pavement also played here on previous reunion tour. I was standing left front. Sound is decent but mic was picking up a lot of talkers nearby. Malkmus's daughter(s) and her high school friends joined a few times on tambourine. Both Malkmus and the touring keyboardist Rebecca Clay Cole (The Minders, Wild Flag) live in Portland, where the band had been rehearsing. 

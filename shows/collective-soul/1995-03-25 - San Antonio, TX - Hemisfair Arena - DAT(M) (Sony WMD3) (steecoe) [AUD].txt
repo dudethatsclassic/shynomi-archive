@@ -1,0 +1,41 @@
+Collective Soul 3/25/95
+Hemisfair Arena
+San Antonio, TX
+Section: AA, Row: 4, Seat: 2 
+----------
+Recorded by Steecoe with
+Sony WMD3 stock mic>Sony TCDD7 DAT
+
+DAT Master>CDR
+
+Mastered to CD via optical digital transfer 
+using Sony DTC-690 DAT>Pioneer PDR-05 CD Recorder
+
+Extracted to wav with EAC
+Converted to FLAC with FLAC Frontend
+--------------------------------------------------------------------
+
+01 Simple
+02 Untitled
+03 Breathe
+04 Where The River Flows
+05 Shine
+06 Smashing Young Man
+07 December
+08 She Gathers Rain
+09 Gel
+-------------------------------------------------------------------------------------
+END ORIGINAL INFO FILE
+-------------------------------------------------------------------------------------
+I found this on dime back in 2006.
+Opening for Van Halen on the Balance Tour.
+Take note of the mic used upon spectrum analysis.
+Yes, it's DAT sourced but many Sony consumer
+mics don't reach too far past 16khz.
+It's lossless, just limited frequency range.
+Many thanks to Steecoe for sharing the gold!
+-kevdogg
+
+
+
+

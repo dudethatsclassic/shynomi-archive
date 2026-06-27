@@ -1,0 +1,41 @@
+A Perfect Circle 2004-06-06
+State Events Center - San Jose, CA
+
+source: DAB > DA-120F > Sony MZ-R70 (mic-in)
+location: stage left FOS    ( 5ft from barrier, 7ft to the right and 
+			      10ft back from the stack )
+transfer: MZ-R70 line-out > SB Live line-in > GoldWave
+encode: GoldWave[ eq: 60hz: 0.0db | 150hz: 0.0db | 400hz: 3.7db | 1khz: 5.0db |
+		[ 2.4khz: 6.6db | 6khz: 7.0db | 15khz: 7.9db |]
+		[ normalized ]	
+	> 44.1Khz Wav > Soundforge 6.0 (splitting) > FLAC frontend
+taper: badur ( badur@myrealbox.com )
+
+~setlist:
+01. intro
+02. vanishing
+03. pet
+04. hollow
+05. magdalena
+06. weak and powerless
+07. brena
+08. blue
+09. thinking of you
+10. a stranger
+11. the package
+12. three libras
+13. the nurse who loved me
+14. thomas
+15. the outsider
+16. the noose
+17. judith
+
+
+requests:
+please, only share this recording in lossless audio formats.
+do not sell this recording, trade it freely.
+
+Notes:
+the mics i used are dynamic audio binaurals, ( http://dynamicaudio.cjb.net/ ), mounted in a leather collar on the sides of my neck. there is some distortion at the loudest points in the recording, either due to my levels being set too high, being located too close to the subwoofer, or perhaps a combination of those.there are also a few dropouts during the hollow, the nurse who loved me, and the outsider (possibly more), due to my MD recorder being smashed around by the violent mosh pit that located itself very near me.
+
+this is my second concert recording; this inexperience resulted in me smegging up the disc-transfer before thomas. just after it started recording on the new disc, a short angry person rammed into me from behind, and (since the battery cover on my MZ-R70 will not stay closed on it's own), the rubber band that holds the player together popped off. another 30sec of thomas lost. i apologize, people. i also apologize for all the drunken assholes in the croud. hopefully you still enjoy the recording.

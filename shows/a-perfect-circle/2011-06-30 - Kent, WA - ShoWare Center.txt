@@ -1,0 +1,79 @@
+A PERFECT CIRCLE
+Thursday June 30, 2011
+ShoWare Center
+Seattle, Washington, USA
+
+SOURCE:  (SHAMIL11)
+Tascam DR-100 (w/internal mics) -> PNY 4GB SD Card @ 24bit/48kHz
+
+TRANSFER:
+PNY 4GB SD Card -> Adobe Audition 3.0 -> CD Wave 1.95.1 -> Trader's Little Helper 2.0.1
+
+GENERATION:
+WAV(M) [24bit/48kHz] -> FLAC [Level 8]
+
+SETLIST:  [01:26:31]
+Intro -> Annihilation
+Imagine
+Weak and Powerless
+The Hollow
+What's Going On
+People Are People
+The Outsider
+Peace, Love and Understanding
+When the Levee Breaks
+The Noose
+3 Libras (remix version)
+Gravity
+Gimmie, Gimmie, Gimmie
+Magdalena
+Passive
+encore break & band intros
+Counting Bodies Like Sheep
+Fiddle and the Drum
+By and Down
+
+BAND MEMBERS:
+Maynard James Keenan - lead vocals
+Billy Howerdel - vocals, electric guitar, acoustic guitar, keyboards
+James Iha - vocals, lead guitar, keyboards
+Matt McJunkins - bass guitar, keyboards
+Jeff Friedl - percussion, computer effects
+
+NOTES:
+Another difficult taping night; very invasive security at every possible stage of the experience.
+A few cameras made it in and anybody with a cell phone was ganged up on and treated like the scum of
+the earth by the guards, who were given a thorough lecture before the gig to be hardline all the way.
+Your humble narrator had no direct attention from the goons, but being as I was in the 2nd row next
+to the floor, I had a flashlight lit up in my direction on average of once every 2-3 minutes due to
+some dufus nearby having the raw, unbelievable nerve of...wanting to take a smartphone picture.
+
+Nonetheless, some brave soul was able to film about 90% of the night from the floor; it's on youtube.
+
+That's a lot of whining above, I know, but I did really enjoy the show once I learned to tune out all
+of the lights and screaming (oh yeah, the screamers--wanted to bag and gag many of the people around me).
+Many people don't like the eMotive-heavy covers setlist, but most of the songs are re-arranged so much
+as to almost barely be a cover song, and I felt they came off very powerfully live overall both nights.
+
+Maynardism of the night could take the form of some unfortunate last-minute lyrics revision to Gravity.
+
+FLAC FINGERPRINTS:
+apc2011-06-30_t01.flac:7072d20ab909d65f3d81090519072d5d
+apc2011-06-30_t02.flac:a7ed4f5422e13ef2ef02fa9dce092a69
+apc2011-06-30_t03.flac:2349e97d35511e63492f2af5bca71298
+apc2011-06-30_t04.flac:609e400dc0c7d18c5bec535a77e8f28c
+apc2011-06-30_t05.flac:f0c0c45a2c9aa96c338398df9411c2d1
+apc2011-06-30_t06.flac:2928003b133915f0c1528f0d6885c3e0
+apc2011-06-30_t07.flac:8c819ad0d9987b81129bd2280ab62e66
+apc2011-06-30_t08.flac:b7319f77e660c87d6f66199091cf1b87
+apc2011-06-30_t09.flac:94cf0b5a42dcd70f46b6fe0133468004
+apc2011-06-30_t10.flac:d576c81511da2127a59e176849c3846f
+apc2011-06-30_t11.flac:7e1272c5cf0ee28f28afbf6dc1e2d9d4
+apc2011-06-30_t12.flac:b079b2096f7cce8bb7ab467c43f92f8a
+apc2011-06-30_t13.flac:c9714d3aa3b45358cc64b630cee3d7f3
+apc2011-06-30_t14.flac:e9c9153347021d28675b0cb398263314
+apc2011-06-30_t15.flac:0cc6671374111bb3d7dd86b1e2a03dc1
+apc2011-06-30_t16.flac:17277ff8f35acf75b981f61b8b3f3124
+apc2011-06-30_t17.flac:bf69de1207f2cd758321e5109cba6183
+apc2011-06-30_t18.flac:fff95d989507ebdcb3fca498ce7af840
+apc2011-06-30_t19.flac:302cf31f153b4075bff6566103f658cf

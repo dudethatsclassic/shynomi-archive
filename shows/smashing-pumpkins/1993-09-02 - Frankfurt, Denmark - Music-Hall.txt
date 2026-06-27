@@ -1,0 +1,48 @@
+Smashing Pumpkins
+September 2nd 1993
+Music-Hall
+Frankfurt, DE
+
+SOURCE (AMT#1):
+unknown > unknown
+
+VIDEO TRANSFER:
+JVC SR-S388E > Datavideo TBC3000 > Blackmagic Intensity Pro > VirtualDub > CD Wave Editor
+
+GENERATION:
+VHS(1) > AVI [UTVideo/48khz/16-Bit/PCM] > MKV [576p/x264 | AAC | FLAC]
+
+LENGTH:
+91:52
+
+TRACKS:
+01. Intro
+02. Geek USA
+03. Rocket
+04. Today
+05. Rhinoceros
+06. I Am One
+07. Quiet
+08. Disarm
+09. Hummer
+10. Siva
+11. Soma
+12. Cherub Rock
+13. Drown
+14. Silverfuck
+15. Sweet Sweet
+16. Mayonaise
+17. Bury Me
+
+NOTES:
+Special thank you to TravisBickle1963 for this transfer (and many many others) and to Bobfather for sending over his VHS tapes.
+
+MD5 FINGERPRINTS:
+43cccaa2a6bc294d5530302cbb1e4b27 *Smashing Pumpkins 1993-09-02 AMT1 x264 AAC FLAC.mkv
+
+TRANSFER:
+TravisBickle1963 (VHS Rewinds)
+
+DISTRIBUTION:
+Nicholas Serra, Spaldz, & Members of SPLRA
+2025-02-08

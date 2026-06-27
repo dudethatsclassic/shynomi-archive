@@ -1,0 +1,103 @@
+
+A Perfect Circle 
+Rock am Ring 
+Crater Stage 
+Nürburgring 
+Nürburg, Germany 
+June 1, 2018 
+
+Lineage: LIVE Webcast -> Streamlink -> FFmpeg (edit) -> uncompressed .ts 
+Video: MPEG4 Video (H264) 1920x1080 16:9 7800 Kbps 30.00 fps 
+Audio: AAC 128 Kbps 48.0 KHz stereo 
+
+Setlist: 
+Counting Bodies Like Sheep to the Rhythm of the War Drums 
+Hourglass 
+The Hollow 
+Weak and Powerless 
+Rose 
+Disillusioned 
+The Contrarian 
+Thomas 
+The Package 
+3 Libras (All Main Courses Mix) 
+So Long, and Thanks for All the Fish 
+TalkTalk 
+The Doomed 
+The Outsider 
+
+TRT = 01:10:28 
+
+Note: This is a perfect capture of the webcast. Any imperfections, if present, were inherent in the broadcast. 
+
+Captured and uploaded to DIME by indykid. 
+
+MediaInfo: 
+General 
+ID : 1 (0x1) 
+Complete name : A Perfect Circle - 2018-06-01 Rock am Ring, Nurburg, Germany [1080p].ts 
+Format : MPEG-TS 
+File size : 3.90 GiB 
+Duration : 1 h 10 min 
+Overall bit rate mode : Variable 
+Overall bit rate : 7 929 kb/s 
+
+Video 
+ID : 256 (0x100) 
+Menu ID : 1 (0x1) 
+Format : AVC 
+Format/Info : Advanced Video Codec 
+Format profile : High@L4.2 
+Format settings : CABAC / 4 Ref Frames 
+Format settings, CABAC : Yes 
+Format settings, RefFrames : 4 frames 
+Format settings, GOP : M=4, N=50 
+Codec ID : 27 
+Duration : 1 h 10 min 
+Bit rate mode : Constant 
+Nominal bit rate : 7 200 kb/s 
+Width : 1 920 pixels 
+Height : 1 080 pixels 
+Display aspect ratio : 16:9 
+Frame rate : 25.000 FPS 
+Standard : Component 
+Color space : YUV 
+Chroma subsampling : 4:2:0 
+Bit depth : 8 bits 
+Scan type : Progressive 
+Bits/(Pixel*Frame) : 0.139 
+Color range : Limited 
+Color primaries : BT.709 
+Transfer characteristics : BT.709 
+Matrix coefficients : BT.709 
+
+Audio 
+ID : 257 (0x101) 
+Menu ID : 1 (0x1) 
+Format : AAC 
+Format/Info : Advanced Audio Codec 
+Format version : Version 4 
+Format profile : LC 
+Muxing mode : ADTS 
+Codec ID : 15 
+Duration : 1 h 10 min 
+Bit rate mode : Variable 
+Channel(s) : 2 channels 
+Channel positions : Front: L R 
+Sampling rate : 48.0 kHz 
+Frame rate : 46.875 FPS (1024 SPF) 
+Compression mode : Lossy 
+Delay relative to video : -1 s 245 ms 
+Language : German 
+
+Menu 
+ID : 4096 (0x1000) 
+Menu ID : 1 (0x1) 
+Duration : 1 h 10 min 
+List : 256 (0x100) (AVC) / 257 (0x101) (AAC, German) 
+Language : / German 
+Service name : Service01 
+Service provider : FFmpeg 
+Service type : digital television 
+
+Captured and uploaded to DIME by indykid.

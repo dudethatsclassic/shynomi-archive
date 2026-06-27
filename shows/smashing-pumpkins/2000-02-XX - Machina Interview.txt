@@ -1,0 +1,87 @@
+The Smashing Pumpkins
+Billy Corgan interview
+Machina/the machines of God
+February 2000
+Interviewed by Jim Nelson of the Album Network
+
+Source: promo only interview cd CDHUTIV 59
+
+Lineage: original cd > EAC (V0.95 beta 4) > wav
+         > Flac frontend (1.7.1 Etree edition, level 8, verify) > flac
+
+
+Questions:
+
+01. Let's go back to the end of Adore. How soon after promoting that album did you begin writing songs for Machina?
+
+02. D'arcy played on the album and then she left once the album was finished?
+
+03. What does Jimmy's return and presence mean to the sound and outcome of Machina?
+
+04. Specifically then, how does Jimmy's approach change the songs in ways you couldn't expect?
+
+05. What about Auf der Maur attracted you to her as a bass player? Did you go through rehearsals? Did you have a short list or was it always her?
+
+06. You were quite clear that Mellon Collie and the Infinite Sadness really felt like the end of the rock and roll period for The Smashing Pumpkins. Adore clearly was a chance for you to go and explore where The Smashing Pumpkins might go next. What we would all like to know is what would Machina be in relation to both of those albums?
+
+07. You have been at one point or another labeled as "one of the saviors of alternative rock and roll". How do you cross the line and know when you are trusting your intuition and that it's the right thing to do?
+
+08. You said that "Adore was as close as The Smashing Pumpkins ever came to a complete we don't care what anyone thinks about artistic integrity". Where does Machina fit into that context?
+
+09. I would like to talk to you about 3 songs off the Machina album. First, The Everlasting Gaze?
+
+10. Stand Inside Your Love?
+
+11. I of the Mourning?
+
+12. How do you know when a song is finished?
+
+13. Which record, if any, feels unfinished? And if you could take another run at them, would you?
+
+14. As a songwriter, does it feel like the stakes for having an impact are being raised?
+
+15. Can you isolate a song that is one of your purest songs? By "pure" I mean the point at which all of your influences, art and literature, and life and family came into perfect confluence.
+
+16. Can you give me an example of one song from Machina that seemed to take a pound of flesh off of you, a song that was just the killer?
+
+17. Is there anyone you see as a contemporary songwriter that you would view as a kindred spirit?
+
+
+Shntool output:
+    length     expanded size   cdr  WAVE problems filename
+     0:43.60        7726364    ---   --   ---xx   cdhutiv59t01.flac
+     0:30.00        5292044    ---   --   ---xx   cdhutiv59t02.flac
+     1:07.42       11917628    ---   --   ---xx   cdhutiv59t03.flac
+     1:13.20       12924284    ---   --   ---xx   cdhutiv59t04.flac
+     1:00.13       10614620    ---   --   ---xx   cdhutiv59t05.flac
+     2:07.67       22560428    ---   --   ---xx   cdhutiv59t06.flac
+     3:02.58       32241260    ---   --   ---xx   cdhutiv59t07.flac
+     1:49.60       19368764    ---   --   ---xx   cdhutiv59t08.flac
+     0:42.65        7561724    ---   --   ---xx   cdhutiv59t09.flac
+     0:26.12        4614668    ---   --   ---xx   cdhutiv59t10.flac
+     1:03.10       11136764    ---   --   ---xx   cdhutiv59t11.flac
+     0:57.53       10179500    ---   --   ---xx   cdhutiv59t12.flac
+     0:57.10       10078364    ---   --   ---xx   cdhutiv59t13.flac
+     0:34.70        6162284    ---   --   ---xx   cdhutiv59t14.flac
+     0:39.20        6926684    ---   --   ---xx   cdhutiv59t15.flac
+     1:08.40       12089324    ---   --   ---xx   cdhutiv59t16.flac
+     1:06.15       11677724    ---   --   ---xx   cdhutiv59t17.flac
+    19:11.15      203072428 B                     (totals for 17 files, 0.4436 overall compression ratio)
+
+688c670b0f622b2c40f68a200fcd6326  [shntool]  cdhutiv59t01.flac
+d04585a04581dbc92e181f4efd14e4a1  [shntool]  cdhutiv59t02.flac
+d1be286b8e511eaf61f77a4cda70498e  [shntool]  cdhutiv59t03.flac
+72b8c9f5396b0322b81bdff000e9298c  [shntool]  cdhutiv59t04.flac
+c9706d8a59617ac0419f690d26c33260  [shntool]  cdhutiv59t05.flac
+aab0126dcd47c768c48b33e1ee4de8da  [shntool]  cdhutiv59t06.flac
+23aa90861db4e1941fe55dcd0f19bff5  [shntool]  cdhutiv59t07.flac
+7fa0372f8a43bcb505601cc61c295d3b  [shntool]  cdhutiv59t08.flac
+59ecae6d4e7c3c8b29be350396d4f31a  [shntool]  cdhutiv59t09.flac
+f5095b9eefa8bf925123e0a1b1b0f732  [shntool]  cdhutiv59t10.flac
+2351bbc633c64a312e3403e1d8f93a1d  [shntool]  cdhutiv59t11.flac
+191e5f35911d6574a633fc013a85d384  [shntool]  cdhutiv59t12.flac
+453042188fd199b9c6aadb01d0490de9  [shntool]  cdhutiv59t13.flac
+9e8ef66cc6afd501b7ebe733d783f68f  [shntool]  cdhutiv59t14.flac
+3ef668d4eaec56ceabd4797fa4b703b5  [shntool]  cdhutiv59t15.flac
+b85c65d8737c2e955c36b05e64e36540  [shntool]  cdhutiv59t16.flac
+a51143bec4421ab48c70c1cdc5a148e5  [shntool]  cdhutiv59t17.flac

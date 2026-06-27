@@ -1,0 +1,70 @@
+Ryan Adams
+20 September 2025 (Saturday)
+The Hamilton
+Washington, D.C.
+
+Source: Church Audio 14 > Sony PCM-A10 (24/48). Recorded from first row, underneath left speaker.
+
+Transfer: A10 > PC. Tracked and FLAC via CDWav
+
+Set One (partial)
+
+01. To Be Young (Is To Be Sad, Is To Be High)
+02. My Winding Wheel
+03. Don't Ask For The Water
+04. Why Do They Leave?
+05. anti-whisper rant
+06. In My Time Of Need
+07. Oh My Sweet Carolina (fast version)
+08. Oh My Sweet Carolina
+09. Amy
+10. Call Me On Your Way Back Home
+
+not recorded due to technical problem - 
+
+Shakedown On 9th Street
+To Be The One
+Sweet Lil’ Gal (23rd / 1st)
+Damn, Sam (I Love A Woman That Rains)
+Bartering Lines 
+
+Set Two
+
+01. // Every Rose Has Its Thorn ^
+02. Gimme Something Good
+03. Moon River
+04. The Changeling
+05. The Rescue Blues
+06. Firecracker
+07. Walk In The Dark
+08. When The Stars Go Blue
+09. Come Pick Me Up
+
+Notes: 
+
+- Second of two-night stand at The Hamilton; sold out. Heartbreaker '25 tour.
+- ^ Audience member performed song, thanked Ryan for "opening up for me."
+
+    length     expanded size    cdr  WAVE problems  fmt   ratio  filename
+     5:22.733      92947244 B   cxx   --   ---xx   flac  0.6392  DRA2025-09-20s1partial01.flac
+     5:34.013      96195884 B   cxx   --   ---xx   flac  0.6334  DRA2025-09-20s1partial02.flac
+     3:26.347      59427884 B   cxx   --   ---xx   flac  0.6471  DRA2025-09-20s1partial03.flac
+     4:06.307      70936364 B   cxx   --   ---xx   flac  0.6398  DRA2025-09-20s1partial04.flac
+     5:13.187      90197804 B   cxx   --   ---xx   flac  0.6162  DRA2025-09-20s1partial05.flac
+     3:41.053      63663404 B   cxx   --   ---xx   flac  0.6073  DRA2025-09-20s1partial06.flac
+     1:03.813      18378284 B   cxx   --   ---xx   flac  0.6508  DRA2025-09-20s1partial07.flac
+     7:48.160     134830124 B   cxx   --   ---xx   flac  0.6164  DRA2025-09-20s1partial08.flac
+     6:51.747     118583084 B   cxx   --   ---xx   flac  0.6212  DRA2025-09-20s1partial09.flac
+     5:24.413      93431084 B   cxx   --   ---xx   flac  0.6100  DRA2025-09-20s1partial10.flac
+     2:35.653      44828204 B   cxx   --   ---xx   flac  0.6286  DRA2025-09-20s201.flac
+     8:05.640     139864364 B   cxx   --   ---xx   flac  0.6214  DRA2025-09-20s202.flac
+     4:48.880      83197484 B   cxx   --   ---xx   flac  0.6044  DRA2025-09-20s203.flac
+     5:25.240      93669164 B   cxx   --   ---xx   flac  0.6284  DRA2025-09-20s204.flac
+     7:10.013     123843884 B   cxx   --   ---xx   flac  0.6345  DRA2025-09-20s205.flac
+     7:43.000     133344044 B   cxx   --   ---xx   flac  0.6089  DRA2025-09-20s206.flac
+     4:35.040      79211564 B   cxx   --   ---xx   flac  0.6207  DRA2025-09-20s207.flac
+     6:02.400     104371244 B   cxx   --   ---xx   flac  0.6182  DRA2025-09-20s208.flac
+     5:01.827      86926124 B   cxx   --   ---xx   flac  0.6505  DRA2025-09-20s209.flac
+    99:59.467    1727847236 B                            0.6241  (19 files)
+
+No errors occured.

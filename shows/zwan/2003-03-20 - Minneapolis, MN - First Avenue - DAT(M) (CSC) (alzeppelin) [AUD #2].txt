@@ -1,0 +1,68 @@
+Zwan
+March 20th 2003
+First Avenue
+Minneapolis, MN, US
+
+SOURCE (AUD#2)
+Coresound CSC mics > Bass Roll-off > Sony D100 DAT 48khz (DFC FOB mics @ 6' 2")
+
+TRANSFER:
+Master DAT > Sony DTC-A7 > Monster Coax Digital Cable > SPDIF Input >  M-Audio Microtrack II > USB > Cooledit Pro (downsample, track splits, normalizing) > Traders Little Helper FLAC Level 8
+
+GENERATION:
+DAT(M) > WAV > FLAC
+
+LENGTH:
+111:36
+
+SETLIST:
+01. Intro
+02. Mary Star of the Sea
+03. Declarations of Faith
+04. Lyric
+05. Don't Let Me Down [The Beatles]
+06. Endless Summer
+07. Jesus, I [Lyte] > God's Gonna Set This World on Fire
+08. El Sol
+09. Yeah
+10. Riverview
+11. Of a Broken Heart
+12. Friends as Lovers, Lovers as Friends
+13. Ride a Black Swan
+14. Settle Down
+
+ENCORE ONE:
+15. A New Poetry
+
+ENCORE TWO:
+16. Honestly
+17. Spilled Milk
+
+NOTES:
+Thanks to the taper alzeppelin for sending this over for release
+
+MD5 FINGERPRINTS:
+d4ec6ff456165bd0cf47388588df1a6e *Zwan 2003-03-20 AUD2 t01 Intro.flac
+a16317a9a9cd5479a6ac0b831dc19848 *Zwan 2003-03-20 AUD2 t02 Mary Star of the Sea.flac
+0e1ae1e705be04cc3c75478a7d7a4fff *Zwan 2003-03-20 AUD2 t03 Declarations of Faith.flac
+0a8275d3d16ad8289a806061e1ac50d6 *Zwan 2003-03-20 AUD2 t04 Lyric.flac
+039c19d32eb560941ddf78c98c43cdd4 *Zwan 2003-03-20 AUD2 t05 Don't Let Me Down [The Beatles].flac
+99c96552568d35dbffdde4544187064f *Zwan 2003-03-20 AUD2 t06 Endless Summer.flac
+b4d02f977188576e5d7ccf92efd93fc7 *Zwan 2003-03-20 AUD2 t07 Jesus, I [Lyte] - God's Gonna Set This World on Fire.flac
+608e0f35e19b2fe4b6ca681085311162 *Zwan 2003-03-20 AUD2 t08 El Sol.flac
+59878034febdd7251eb00cb2c7104370 *Zwan 2003-03-20 AUD2 t09 Yeah.flac
+34997b7777e782c05d0c75645981cb16 *Zwan 2003-03-20 AUD2 t10 Riverview.flac
+3d8f91edd5e713cbb7e7251e4ea64a9d *Zwan 2003-03-20 AUD2 t11 Of a Broken Heart.flac
+43a104a0d70d3dd7dd3e32070d9d250d *Zwan 2003-03-20 AUD2 t12 Friends as Lovers, Lovers as Friends.flac
+46db4d2553decf98405eba5300f6b60e *Zwan 2003-03-20 AUD2 t13 Ride a Black Swan.flac
+6aafb3a6f8c13faa458056afd07160e7 *Zwan 2003-03-20 AUD2 t14 Settle Down.flac
+eb778478f3c45545005faa6d3f99d506 *Zwan 2003-03-20 AUD2 t15 A New Poetry.flac
+cc2e4dbf157af1d796b62578025c4204 *Zwan 2003-03-20 AUD2 t16 Honestly.flac
+8ec3683a5eb41cf135d486e652dc3f00 *Zwan 2003-03-20 AUD2 t17 Spilled Milk.flac
+
+RECORDED BY:
+alzeppelin
+
+DISTRIBUTION:
+Spaldz, Nicholas Serra & Members of SPLRA
+2026-03-10

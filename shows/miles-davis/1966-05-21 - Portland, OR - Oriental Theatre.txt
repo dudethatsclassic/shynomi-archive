@@ -1,0 +1,107 @@
+Miles Davis Quintet
+05-21-1966
+Oriental Theatre
+Portland Oregon
+
+Project ID - LL64
+
+Source: Audience Recording
+Lineage: Cassette ?gen > Nak DR-1 > Audiophile2496 > Soundforge > wav > flac
+
+Miles Davis (tpt); Wayne Shorter (ts); Herbie Hancock (p); Richard Davis (b); 
+Tony Williams (d)
+
+disc 1
+
+d1t01. Introduction
+d1t02. Autumn Leaves
+d1t03. Agitation
+d1t04. Stella by Starlight
+d1t05. Gingerbread Boy
+d1t06. No Blues/
+
+disc 2
+
+d2t01. All Blues
+d2t02. Who Can I Turn To?
+d2t03. So What
+d2t04. My Funny Valentine
+
+-------------------------------------------------------
+
+Notes:
+
+- d1t02: A few level issues and slight drop offs at 6:07 to 6:13 
+
+- d1t06: Some distortion at :33 to :35. The track is cut at the end. 
+
+- A very nice audience recording. There is some very slight hiss, Not 
+enough to take the pleasure out of listening. A fine audience recording for sure
+
+- QC done by Bgreen
+
+md5
+ e709ae182692e157bf3a7f49ea6e599b *md1966-05-21.LL64.d1t01.flac
+ f9d258b9954d00d6a8e5ce244ac01dc6 *md1966-05-21.LL64.d1t02.flac
+ 7056e4a225c962834af03b2ce10ecf2a *md1966-05-21.LL64.d1t03.flac
+ 55549b293de5904413160a2b8fa77ad4 *md1966-05-21.LL64.d1t04.flac
+ 31c3474777f369d6785d9ac68c8a5563 *md1966-05-21.LL64.d1t05.flac
+ 94c56ad98b8dce03e2902d799d601d03 *md1966-05-21.LL64.d1t06.flac
+ 98fed3c44897196ca88ad3a826a1a9aa *md1966-05-21.LL64.d2t01.flac
+ fe3b0f09325367cba9288c73b2795b5f *md1966-05-21.LL64.d2t02.flac
+ 09212fd443074b609eaf93feaa2f035c *md1966-05-21.LL64.d2t03.flac
+ 78398367d7662fee8fe89e9c18ad9e58 *md1966-05-21.LL64.d2t04.flac
+
+
+ffp
+md1966-05-21.LL64.d1t01.flac:1533dc442daf433fc5d55f44512e8c54
+md1966-05-21.LL64.d1t02.flac:571ed49db09f4163068916d1dc7dc375
+md1966-05-21.LL64.d1t03.flac:2b9421c6050dff0c99437432c0d4e2cb
+md1966-05-21.LL64.d1t04.flac:9b28230b91f7845ff4d7a0d2d72c0a03
+md1966-05-21.LL64.d1t05.flac:9b945d633fff13314319645e9b95bedc
+md1966-05-21.LL64.d1t06.flac:fa858630b85c356d793ff073ddf6c951
+md1966-05-21.LL64.d2t01.flac:8328ec24ceb337e8138a5db916fb4875
+md1966-05-21.LL64.d2t02.flac:934be861c637ccea27ef5f15460bacaa
+md1966-05-21.LL64.d2t03.flac:e62e151da990aa7520f37edad141f481
+md1966-05-21.LL64.d2t04.flac:57e2f71b11abdd465d9801e9b533aaff
+
+
+shntool
+ length     expanded size    cdr  WAVE problems  fmt   ratio  filename
+  0:39.63        7027820 B   ---   --   ---xx   flac  0.5470  md1966-05-21.LL64.d1t01.flac
+  9:46.38      103459820 B   ---   --   ---xx   flac  0.6200  md1966-05-21.LL64.d1t02.flac
+  9:20.15       98819324 B   ---   --   ---xx   flac  0.6255  md1966-05-21.LL64.d1t03.flac
+ 10:35.25      112072844 B   ---   --   ---xx   flac  0.6170  md1966-05-21.LL64.d1t04.flac
+ 11:40.48      123592940 B   ---   --   ---xx   flac  0.6254  md1966-05-21.LL64.d1t05.flac
+  9:28.57      100329308 B   ---   --   ---xx   flac  0.6089  md1966-05-21.LL64.d1t06.flac
+  9:41.01      102490796 B   ---   --   ---xx   flac  0.6274  md1966-05-21.LL64.d2t01.flac
+  8:51.54       93795452 B   ---   --   ---xx   flac  0.6017  md1966-05-21.LL64.d2t02.flac
+  9:06.73       96486140 B   ---   --   ---xx   flac  0.6442  md1966-05-21.LL64.d2t03.flac
+ 11:40.22      123531788 B   ---   --   ---xx   flac  0.6001  md1966-05-21.LL64.d2t04.flac
+ 90:51.21      961606232 B                            0.6181  (10 files)
+
+
+spectral analysis from TLH
+ md1966-05-21.LL64.d1t01.wav:  track looks like CDDA with probability 100%
+ md1966-05-21.LL64.d1t02.wav:  track looks like CDDA with probability 99%
+ md1966-05-21.LL64.d1t03.wav:  track looks like CDDA with probability 100%
+ md1966-05-21.LL64.d1t04.wav:  track looks like CDDA with probability 99%
+ md1966-05-21.LL64.d1t05.wav:  track looks like CDDA with probability 100%
+ md1966-05-21.LL64.d1t06.wav:  track looks like CDDA with probability 100%
+ md1966-05-21.LL64.d2t01.wav:  track looks like CDDA with probability 100%
+ md1966-05-21.LL64.d2t02.wav:  track looks like CDDA with probability 100%
+ md1966-05-21.LL64.d2t03.wav:  track looks like CDDA with probability 100%
+ md1966-05-21.LL64.d2t04.wav:  track looks like CDDA with probability 100%
+
+old ffp
+Miles5_Portland_1966-05-21_D1T1.flac:1533dc442daf433fc5d55f44512e8c54
+Miles5_Portland_1966-05-21_D1T2.flac:571ed49db09f4163068916d1dc7dc375
+Miles5_Portland_1966-05-21_D1T3.flac:2b9421c6050dff0c99437432c0d4e2cb
+Miles5_Portland_1966-05-21_D1T4.flac:9b28230b91f7845ff4d7a0d2d72c0a03
+Miles5_Portland_1966-05-21_D1T5.flac:9b945d633fff13314319645e9b95bedc
+Miles5_Portland_1966-05-21_D1T6.flac:fa858630b85c356d793ff073ddf6c951
+Miles5_Portland_1966-05-21_D2T1.flac:8328ec24ceb337e8138a5db916fb4875
+Miles5_Portland_1966-05-21_D2T2.flac:934be861c637ccea27ef5f15460bacaa
+Miles5_Portland_1966-05-21_D2T3.flac:e62e151da990aa7520f37edad141f481
+Miles5_Portland_1966-05-21_D2T4.flac:57e2f71b11abdd465d9801e9b533aaff
+

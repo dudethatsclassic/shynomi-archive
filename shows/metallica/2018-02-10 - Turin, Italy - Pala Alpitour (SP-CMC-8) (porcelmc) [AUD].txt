@@ -1,0 +1,125 @@
+Metallica
+February 10, 2018
+Turin, Italy
+Pala Alpitour
+Lineage: SP-CMC-8(AT8538 Mod)>CA-9100>Edirol R-05>PC>Adobe Audition>CDWAVE>FLAC
+Taped by: Porcelmc 
+
+HAPPY CLIFF BURTON DAY
+
+____________________________________________________________
+
+Setlist - Metallica
+
+XX. (CUT) AC/DC Tape
+XX. (CUT) The Ecstasy of Gold Tape
+01. (CUTS IN) Hardwired
+02. Atlas, Rise!
+03. James Speaks #1
+04. Seek and Destroy
+05. Leper Messiah
+06. Welcome Home (Sanitarium)
+07. James Speaks #2
+08. Now That We're Dead
+09. Spit Out the Bone
+10. For Whom the Bell Tolls Intro
+11. For Whom the Bell Tolls
+12. Halo on Fire
+13. James Speaks #3
+14. Rob and Kirk Guitar and Bass Solo
+15. Bass Solo
+16. Blitzkrieg
+17. The Memory Remains
+18. Moth Into Flame
+19. James Speaks #4
+20. Sad But True
+21. One
+22. Master of Puppets
+23. Encore Break
+24. Orion
+25. Nothing Else Matters
+26. Enter Sandman
+
+_____________________________________________________________
+
+Notes:
+
+The queue to get into the venue was an absolute nightmare. Because of this, I did not get inside in time to capture Kevelertak's set, as was my initial intention. I missed the first few songs and decided not to tape the rest. In retrospect I wish I would've. I could've used their set to reconfigure my rig. My recording location was eye level with one of the corner stacks and the sound was absolutely punishing! So I went hot for a few songs but got sorted during Seek and Destroy, the 3rd song. Aces from there. 
+
+Also mic and initial gear adjustments forced me to leave the intro tapes and the first half of Hardwired on the cutting room floor. They did get taped, but quality is poor. Lastly, I had developed a severe cough in Barcelona that was forcing me ill during this capture. I was however a good boy and didn't drink any beers before or during the gig, only water and cough drops to soothe. So you might hear an a cough or 2 during the show. Obviously I couldn't control that and tried to only cough in between songs. 
+
+Show is great overall and setlist kicks ass so enjoy!!!
+ 
+
+It's cool if listen to Orion first in honor of Cliff. Cheers!
+
+
+Sample: https://youtu.be/NgNb9wTocFQ
+
+
+ST5 Hash File:
+
+e0a2f5ba071d45c57ab578b1842cba05  [shntool]  01_Hardwired_cuts_in.flac
+c6fb0fbed78f9444fc49aacdbb281077  [shntool]  02_Atlas Rise.flac
+26f270c034383b02a751533e6c2149d2  [shntool]  03_James Speaks #1.flac
+9f47fc3717e884caf53f278158cff0b1  [shntool]  04_Seek and Destroy.flac
+db52956ac25fc74df438bba02c50faf2  [shntool]  05_Leper Messiah.flac
+2bb992447fdf35decf64c2cbd5f8b614  [shntool]  06_Welcome Home (Sanitarium).flac
+90db41e1fbef8b469d4f99d181136370  [shntool]  07_James Speaks #2.flac
+58589c1216ad90b82abd999d946e8abf  [shntool]  08_Now That We're Dead.flac
+08bb95b7ac115c39ef4dbce0b3c8df79  [shntool]  09_Spit Out the Bone.flac
+cacc2c4f7e5264be6a0183c7b69f7114  [shntool]  10_For Whom the Bell Tolls Intro.flac
+8184157372a893b92b3a2f25d6acf449  [shntool]  11_For Whom the Bell Tolls.flac
+ce0a3d2eeb6f62e450b40fe8b9dc3954  [shntool]  12_Halo On Fire.flac
+47048e142f93961fade272b257db9ef2  [shntool]  13_James Speaks #3.flac
+bf1a2f92c3c4a8abea437784b10ba1b6  [shntool]  14_Rob and Kirk Guitar and Bass Solo.flac
+9c94117d8e003bd670c94e015b480cb4  [shntool]  15_Bass Solo.flac
+eaac4dafaed098efa6f4f6ea9f0db8a6  [shntool]  16_Blitzkrieg.flac
+b9e784f6a59f347cdf5d06fca5ca7819  [shntool]  17_The Memory Remains.flac
+84f1a8fb760dafed387e73f6ebf9a398  [shntool]  18_Moth Into Flame.flac
+9b1349b8f76b8b8388aed0d649dc5327  [shntool]  19_James Speaks #4.flac
+eb5cd14b6e0db598a4bd8285cd36ab18  [shntool]  20_Sad But True.flac
+8389cfb85c17225a499b01fa1119f4be  [shntool]  21_One.flac
+b05eb66041f70061152d543d3de3872a  [shntool]  22_Master of Puppets.flac
+1aa62f06ad35259bd67c2d5612b152bc  [shntool]  23_Encore Break.flac
+c1971b83544b7b457c347f8bf1d8038d  [shntool]  24_Orion.flac
+b859b28ca75644971cb4e2b824e9caa0  [shntool]  25_Nothing Else Matters.flac
+c2749fe54555bfa81a20a8e2b4883c38  [shntool]  26_Enter Sandman.flac
+
+No errors occured.
+
+
+Flac Fingerprint File:
+
+
+01_Hardwired_cuts_in.flac:e0a2f5ba071d45c57ab578b1842cba05
+02_Atlas Rise.flac:c6fb0fbed78f9444fc49aacdbb281077
+03_James Speaks #1.flac:26f270c034383b02a751533e6c2149d2
+04_Seek and Destroy.flac:9f47fc3717e884caf53f278158cff0b1
+05_Leper Messiah.flac:db52956ac25fc74df438bba02c50faf2
+06_Welcome Home (Sanitarium).flac:2bb992447fdf35decf64c2cbd5f8b614
+07_James Speaks #2.flac:90db41e1fbef8b469d4f99d181136370
+08_Now That We're Dead.flac:58589c1216ad90b82abd999d946e8abf
+09_Spit Out the Bone.flac:08bb95b7ac115c39ef4dbce0b3c8df79
+10_For Whom the Bell Tolls Intro.flac:cacc2c4f7e5264be6a0183c7b69f7114
+11_For Whom the Bell Tolls.flac:8184157372a893b92b3a2f25d6acf449
+12_Halo On Fire.flac:ce0a3d2eeb6f62e450b40fe8b9dc3954
+13_James Speaks #3.flac:47048e142f93961fade272b257db9ef2
+14_Rob and Kirk Guitar and Bass Solo.flac:bf1a2f92c3c4a8abea437784b10ba1b6
+15_Bass Solo.flac:9c94117d8e003bd670c94e015b480cb4
+16_Blitzkrieg.flac:eaac4dafaed098efa6f4f6ea9f0db8a6
+17_The Memory Remains.flac:b9e784f6a59f347cdf5d06fca5ca7819
+18_Moth Into Flame.flac:84f1a8fb760dafed387e73f6ebf9a398
+19_James Speaks #4.flac:9b1349b8f76b8b8388aed0d649dc5327
+20_Sad But True.flac:eb5cd14b6e0db598a4bd8285cd36ab18
+21_One.flac:8389cfb85c17225a499b01fa1119f4be
+22_Master of Puppets.flac:b05eb66041f70061152d543d3de3872a
+23_Encore Break.flac:1aa62f06ad35259bd67c2d5612b152bc
+24_Orion.flac:c1971b83544b7b457c347f8bf1d8038d
+25_Nothing Else Matters.flac:b859b28ca75644971cb4e2b824e9caa0
+26_Enter Sandman.flac:c2749fe54555bfa81a20a8e2b4883c38
+
+No errors occured.
+
+
+

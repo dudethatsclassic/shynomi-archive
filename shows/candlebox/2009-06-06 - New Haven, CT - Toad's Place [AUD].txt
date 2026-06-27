@@ -1,0 +1,75 @@
+
+
+
+
+Candlebox
+June 20, 2009
+Toad's Place
+New Haven, CT
+
+Source:   DPA 4022 > Oade WMOD Fostex FR-2LE [.wav @ 24-bit/48kHz] 
+Lineage:  Fostex FR-2LE > USB 2.0 > Amadeus Pro v2.0.7 > .flac [level 8] 
+Location: DFC/FOB, elevated 8' on stand
+Mics:     PAS, spaced 11 cm 
+
+Taped & Transferred by James Bonaiuto (cd2go@hotmail.com)
+--------------------------------------------------------------------------
+Total: [83:01.39]
+--------------------------------------------------------------------------
+01. intro                                   
+02. How Does It Feel                                                  
+03. Happy Pills                                     
+04. Change                                        
+05. Underneath It All                                         
+06. Bitches Brewin'                             
+07. Simple Lessons                                   
+08. Breathe Me In                              
+09. Arrow *                                            
+10. Stand                                          
+11. Lucy #                                        
+12. Sometimes                                              
+13. Miss You                                
+14. Far Behind                                         
+15. encore                                                 
+16. Cover Me
+17. You  
+--------------------------------------------------------------------------
+Notes:
+
+* = with medley of:
+
+- Immigrant Song [Led Zeppelin]
+- Crazy Train [Ozzy Osbourne]
+- Highway To Hell [AC/DC]  
+
+# = with Rooster [Alice In Chains] intro                                      
+--------------------------------------------------------------------------
+Amadeus Pro Notes:
+
+- Normalized peak level to -0.1 dB
+- Faded beginning/end of show
+--------------------------------------------------------------------------
+xACT v2.18 FLAC Fingerprint:
+
+candlebox2009-06-20t01.dpa4022.fr2le.flac:d5a7f7ca01d8188f2131fe176845f65e
+candlebox2009-06-20t02.dpa4022.fr2le.flac:17c6599bda95f337e5907a4985d529e5
+candlebox2009-06-20t03.dpa4022.fr2le.flac:063b77982833f27a917aa6a6263611ab
+candlebox2009-06-20t04.dpa4022.fr2le.flac:22405d9911db042bd2eac987f34737e1
+candlebox2009-06-20t05.dpa4022.fr2le.flac:b0c3ffd9f3f9b98a673975fb16aa7d96
+candlebox2009-06-20t06.dpa4022.fr2le.flac:4c4522b0b36cde8c3a26ad0061be28c1
+candlebox2009-06-20t07.dpa4022.fr2le.flac:ed869d84fe5557226bde41456612b150
+candlebox2009-06-20t08.dpa4022.fr2le.flac:9d96fb7e69843dd1c6c505be8740978b
+candlebox2009-06-20t09.dpa4022.fr2le.flac:f3bc279d34acf624ba2e42f21ce6c511
+candlebox2009-06-20t10.dpa4022.fr2le.flac:4e8d25602b90a86ae1e0c4f37596302e
+candlebox2009-06-20t11.dpa4022.fr2le.flac:bffd7e528d28cd31905edeadbabee112
+candlebox2009-06-20t12.dpa4022.fr2le.flac:97a1680a8561f15de4cdc7bd5fd6ca54
+candlebox2009-06-20t13.dpa4022.fr2le.flac:70696f50dbd7828e48078b38984c052d
+candlebox2009-06-20t14.dpa4022.fr2le.flac:bbaba86594e1d9be48a82d0683cf353f
+candlebox2009-06-20t15.dpa4022.fr2le.flac:887172025a98a5a960b795dbc0e529d8
+candlebox2009-06-20t16.dpa4022.fr2le.flac:cd56b14e15e7cd04cc871f3804023743
+candlebox2009-06-20t17.dpa4022.fr2le.flac:1bf11277f0ab93616f619d4c6c737f9e
+
+
+ 
+
+

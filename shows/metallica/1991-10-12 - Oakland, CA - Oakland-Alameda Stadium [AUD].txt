@@ -1,0 +1,46 @@
+Metallica 
+Day on the Green
+Oakland-Alameda Stadium
+Oakland, CA 
+Oct. 12, 1991 
+Other bands: Soundgarden (not recorded), Faith No More (posted at Dime), Queensryche (not recorded)
+
+AUD recording from cassette master (Incomplete)
+Lineage: Sony ECM-990 stereo mic -> Panasonic RQ-L335 cassette recorder/TDK MA-X 90 tape -> Audacity -> Flac (level 8)
+Taper: hail_ozzy 
+
+Tracks:
+01 - Enter Sandman
+02 - Creeping Death
+03 - Harvester of Sorrow
+04 - Welcome Home (Sanitarium)
+05 - Sad But True
+07 - Wherever I May Roam
+08 - bass solo
+09 - Through The Never
+10 - The Unforgiven
+11 - Master of Puppets
+12 - Seek & Destroy
+13 - For Whom the Bell Tolls
+14 - Fade to Black
+15 - Whiplash
+(cut)
+
+Length: 1 hr 32 mins
+
+Info: Great stadium festival run by Bill Graham (RIP).  First US show of Black tour to home crowd. Not a great recording, ~60,000 fans, I was in center field
+so pretty far from stage with lots of crowd noise, but still a very energetic show.  My subjective rating: C-.   
+04 - Welcome Home (Sanitarium).flac:69339f504c393b2745d27b4e9c20418a
+05 - Sad But True.flac:b74ab3b7e97301456289b95b587f535d
+07 - Wherever I May Roam.flac:3e7557d020ce2159a1bf62c877c645f2
+08 - bass solo.flac:803886e1c7bd1a7a0348039f63ea27d7
+09 - Through The Never.flac:dfb1b9e3578ab52f30b3a97a5e1c6caa
+10 - The Unforgiven.flac:4641698387f57e92bf3c6a2536c315c4
+11 - Master of Puppets.flac:4f8470bf66519608abd592b896fa7c12
+12 - Seek & Destroy.flac:c609fbdf6525fa4b58c6eedd9d657b45
+13 - For Whom the Bell Tolls.flac:dd2b274444615b85e3fcb4bd07b58743
+14 - Fade to Black.flac:83da008b54261d8c1366690f584fce49
+15 - Whiplash.flac:6d08a4bcb69bd0ec08dfc21a84a555ab
+01 - Enter Sandman.flac:7a287d8d0552e435046f3e53cfb74ba4
+02 - Creeping Death.flac:c9b0eed043cc6d64e6a3323cda3967ad
+03 - Harvester of Sorrow.flac:61066b848bc00f361ca43108e49a3816

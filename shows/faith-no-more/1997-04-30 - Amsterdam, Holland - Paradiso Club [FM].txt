@@ -1,0 +1,36 @@
+FAITH NO MORE
+April 30, 1997
+Paradiso
+Amsterdam. The Netherlands
+
+DISC #1/1 (35:20)
+-----------------
+01) We Care A Lot 
+02) Gentle Art Of Making Enemies
+03) Evidence
+04) Last Cup Of Sorrow
+05) Epic
+06) Collision
+07) Paths Of Glory
+08) Caffiene
+
+GENERATION
+-----------------
+FM -> ANA(1) -> WAV [44.1kHz] -> FLAC [Level 8]
+
+SOURCE (SBD#1)
+-----------------
+soundboard -> Unknown
+
+TRANSFER
+-----------------
+Nakamichi DR-3 -> Adobe Audition 1.0 -> CD Wave 1.7.1 -> FLAC Frontend 1.7.1
+
+NOTE
+-----------------
+This is a retransfer.
+
+
+
+Transferred by Laurens van der Weijden.
+PLEASE DO NOT ENCODE TO MP3 OR SELL!

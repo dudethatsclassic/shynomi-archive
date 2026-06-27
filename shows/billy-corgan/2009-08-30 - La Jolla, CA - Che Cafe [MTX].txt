@@ -1,0 +1,44 @@
+Billy Corgan and the Spirits In the Sky
+Che Cafe, UCSD
+La Jolla, CA
+August 30, 2009
+
+
+Source 1: DPA 4021 (DIN) > Lunatec V3 (analog out) > Korg MR-1
+Source 2: DPA 4021 (DIN) > Lunatec V3 (SPDIF out) > M-Audio Microtrack II
+Location: ~5' LOC / ~ 15' from Stage / ~7' high
+Transfer: MR-1 > USB > Korg Audiogate > Sony Vegas > Korg Audiogate > Sony Soundforge
+Lineage: 1-bit/2.8 MHz > 24-bit/96 kHz > 24-bit/48 kHz > 16bit/44.1kHz > FLAC (Level 8)
+Editing: Korg Audiogate: Convert 1-bit/2.8 MHz to 24-bit/96 kHz
+Sony Soundforge: Adjusted gain on Source 2 during first 30 s of Track 1
+Sony Vegas: Merge and replace the first 30 s of Track 1 of Source 1 with Source 2. Fades added. Resampled to 24-bit/48 kHz
+Korg Audiogate: Dither to 16-bit/44.1 kHz
+Sony Soundforge: Tracking
+Trader's Little Helper: Align Sector Boundaries, Convert to FLAC level 8
+Foobar2000: Live Show Tagger: Tagging
+
+
+Taped and Edited by Ted Yun
+
+
+1. Can't Seem To Make You Mine [The Seeds]
+2. Circular Change
+3. Emerald Green Is The Colour
+4. Widow Wake My Mind
+5. West Coast
+6. Freak
+7. Morning Dew [The Grateful Dead]
+8. The Fellowship
+9. The Time Has Come [Anne Briggs]
+10. A Stitch In Time
+11. A Song For A Son
+12. The Trip
+13. Astral Planes
+14. Femme Fatale [Velvet Underground]
+15. Lucifer Sam [Pink Floyd]
+
+
+Notes:
+This was the maiden voyage of the DPA 4021's and Lunatec V3. I didn't know where to adjust the gain, so I set it pretty high because it was supposed to be an acoustic set. Boy was I wrong!!! The first 35 seconds of Track 1 you can hear me frantically adjusting the gain. On Source 1, the levels were all clipped during first 20 seconds. Fortunately, there is a discrepancy between the signal sent from the V3's analog-out (very hot) and digital out, so I used my backup source to fix Source 1. I tried my best to adjust the gain in the post processing, but you can hear the gain change. It settles at about 35 seconds in, so I hope it isn't too distracting.
+
+Very cool show. It was great to see such a big name playing in such a tiny club. Good to met you Rich, Steffan, Nick and Vincent!

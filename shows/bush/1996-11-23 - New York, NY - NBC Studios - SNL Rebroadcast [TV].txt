@@ -1,0 +1,26 @@
+Bush
+Saturday Night Live
+NBC Studios
+New York, NY
+November 23, 1996
+Rebroadcast on November 28, 2020
+
+Lineage: HD cable > TiVo Premiere > PC via kmttg > VideoReDo > .mpg files
+
+Video:
+MPEG-2
+12.5 Mbps
+1920x1080
+16:9
+
+Audio:
+AC-3
+384 Kbps
+48.0 KHz
+6 channels
+
+Single logo in the left lower screen
+
+Setlist:
+[4:41] Swallowed
+[0:43] closing segment

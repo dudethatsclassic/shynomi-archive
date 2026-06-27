@@ -1,0 +1,106 @@
+Miles Davis Quintet
+10-08-1964 (Early)
+Stadthalle
+Sindelfingen, Germany
+
+Project ID - LL117
+
+Source: Pre-FM 
+Lineage: Süddeutscher Rundfunk (SDR) radio broadcast Station reel > ? > DAT > 
+.wav via S/PDIF and Midiman Dio 2448 digital soundcard at 48 kHz > CoolEdit Pro 2.0 > 
+CD Wave > MKW >SHN > .wav (checksums verified before decoding) > 
+CoolEdit Pro 2.0 (tracks re-sequenced) > CD Wave > Trader's Little Helper > 
+FLAC (Level 6, ASB)
+
+Miles Davis (tpt); Wayne Shorter (ts); Herbie Hancock (p); Ron Carter (b); 
+Tony Williams (d)
+
+disc 1
+
+d1t01. Autumn Leaves
+d1t02. So What
+d1t03. All Blues
+d1t04. Oleo
+d1t05. Walkin' 
+d1t06. The Theme
+ 
+-------------------------------------------------------
+
+Notes:
+
+- d1t02: staic/digi pop at 5:35
+
+- d1t03: staic/digi pop at 3:04, 4:11, 11:04. Drop out at 10:56 
+
+- d1t04: staic/digi pop at :49, 
+
+-  Pete Losin also lists "Stella By Starlight" as being played  between "Oleo" 
+and "Walkin".
+
+- There is a slight bit of distortion and hiss in this source. During the quieter 
+parts of the recording, particularly between bass solos, you can hear the oversaturation in 
+the form of a whooshing noise as noted below. Still very nice! The sound on LL116 is 
+cleaner, but is not complete and uses tracks from both the early and late show to make 
+the source. 
+
+- Original notes from Milesians set list
+"The source DAT was received with tracks in a slightly different order, in an unknown 
+generation but with a very full frequency spectrum showing little or no high-end 
+generational loss. Frequency analysis is also free from the distinct spike at around 
+16,000 Hz characteristic of FM broadcasts. Consequently, it is my view that this 
+particular recording comes directly from the station and not from a capture of a 
+broadcast over the air.Lohmann lists "Stella By Starlight" after "Oleo"; a nicely 
+done crossfade hides a possible splice. The set was likely edited for broadcast to 
+remove the ballad and bass solo, keeping the tempo up and fitting running time under 
+90 minutes. Peter Losin conjectures that one additional tune, perhaps "If I Were a Bell,
+" was performed at the beginning of the second concert.Recording quality is not flawless,
+the main issue being fluctuation of the cymbals between clarity and saturation at 
+irregular intervals. Either mixing or mic feed moves around a bit as well, which 
+calls into question whether this was actually ever aired or kept archived until getting 
+leaked out.
+
+No fades were applied between sets so as to preserve everything on the source tape and allow continuous play. FLAC encoding was done with sectors aligned as one complete set, not two separate discs.
+
+- QC done by Bgreen
+
+md5
+a44521bf4645ca28ac7f9600bbc7407a *md1964-10-08E.LL117.d1t01.flac
+9ed9c1668d70874d5ddc7e5222ac9759 *md1964-10-08E.LL117.d1t02.flac
+0f2141f4f11616940a0ce602f8adab84 *md1964-10-08E.LL117.d1t03.flac
+55cc84463467a7f912641cfb06d7ef61 *md1964-10-08E.LL117.d1t04.flac
+7ed1ed88d786f58cc442f328399a14a8 *md1964-10-08E.LL117.d1t05.flac
+eda7052802ee8d47c00dedadaedeba73 *md1964-10-08E.LL117.d1t06.flac
+
+ffp
+md1964-10-08E.LL117.d1t01.flac:6e9f237c9f7ccf8803862c79b91866e2
+md1964-10-08E.LL117.d1t02.flac:68120d726b75e27f36e100bc1ca1e50c
+md1964-10-08E.LL117.d1t03.flac:0492fe4abc220dca80ed9c6c0e274764
+md1964-10-08E.LL117.d1t04.flac:43cb3405b9f56d35ba6068f9a7a10303
+md1964-10-08E.LL117.d1t05.flac:2596402c279ba847af18dbc4a7b6ded1
+md1964-10-08E.LL117.d1t06.flac:77928154400814dc7dc4a9510002f34e
+
+shntool
+    length     expanded size   cdr  WAVE problems filename
+    10:37.23      112420940    ---   --   ---xx   md1964-10-08E.LL117.d1t01.flac
+     9:00.21       95305436    ---   --   ---xx   md1964-10-08E.LL117.d1t02.flac
+    12:28.71      132114236    ---   --   ---xx   md1964-10-08E.LL117.d1t03.flac
+     6:01.02       63685148    ---   --   ---xx   md1964-10-08E.LL117.d1t04.flac
+     7:06.61       75289916    ---   --   ---xx   md1964-10-08E.LL117.d1t05.flac
+     1:08.24       12051692    ---   --   ---xx   md1964-10-08E.LL117.d1t06.flac
+    46:22.52      490867368 B                     (totals for 6 files, 0.5901 overall compression ratio)
+
+spectral analysis from TLH
+md1964-10-08E.LL117.d1t01.wav:  track looks like CDDA with probability 99%
+md1964-10-08E.LL117.d1t02.wav:  track looks like CDDA with probability 100%
+md1964-10-08E.LL117.d1t03.wav:  track looks like CDDA with probability 100%
+md1964-10-08E.LL117.d1t04.wav:  track looks like CDDA with probability 100%
+md1964-10-08E.LL117.d1t05.wav:  track looks like CDDA with probability 100%
+md1964-10-08E.LL117.d1t06.wav:  track looks like CDDA with probability 100%
+
+old md5
+a44521bf4645ca28ac7f9600bbc7407a *miles1964-10-08t01.flac
+9ed9c1668d70874d5ddc7e5222ac9759 *miles1964-10-08t02.flac
+0f2141f4f11616940a0ce602f8adab84 *miles1964-10-08t03.flac
+55cc84463467a7f912641cfb06d7ef61 *miles1964-10-08t04.flac
+7ed1ed88d786f58cc442f328399a14a8 *miles1964-10-08t05.flac
+eda7052802ee8d47c00dedadaedeba73 *miles1964-10-08t06.flac

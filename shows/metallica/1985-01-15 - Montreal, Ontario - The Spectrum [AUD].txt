@@ -1,0 +1,161 @@
+Metallica
+
+1985-01-15
+The Spectrum
+Montreal, Ontario, Canada
+
+Source: Unknown AUD (1st gen Cass)
+
+Transfer: 1st gen Cass > Sony TCW-305 > Roxio 6.0 > WAV > CDR(M) > EAC(secure) > WAV > FLAC(lvl8)
+
+01. Ecstasy Of Gold
+02. Fight Fire With Fire
+03. Ride The Lightning
+04. Phantom Lord
+05. Anesthesia (Pulling Teeth)
+06. For Whom The Bell Tolls
+07. No Remorse
+08. Call Of Ktulu
+09. Seek And Destroy
+10. Whiplash
+11. Creeping Death
+
+
+Notes:
+I got this directly from the person that transfered his 1st gen cass. This is a NICE upgrade! This 1st gen sounds better then the current version that is circulating. This is simply a AMAZING aud recording that has held up nicely on this 1st gen cass. 
+
+                        Enjoy!
+                       
+                           ~ bubba420 ~
+
+
+
+FLAC Fingerprint:
+
+Track01.flac:c04e8e4e4f5a21b9458bc422dd0bf64f
+Track02.flac:94c026344bae121a06b6f3182de12bde
+Track03.flac:214450b217162997f219c496599eebca
+Track04.flac:e8a809f0c20caffd620c57f60ca55cde
+Track05.flac:65d3af62a6a0813fd01a4d7f2b8550d1
+Track06.flac:dc0a19865225fc24240433cc28594be3
+Track07.flac:248d5547e076440e5b02bda1b929ef03
+Track08.flac:71efaba69eb66aba19922684556b4088
+Track09.flac:f0ba820449d2d64280743dba70c78cae
+Track10.flac:120b0fd15966d20b5ee7a73d948c3600
+Track11.flac:9d5c3768f19beca0944dc8d4a60141db
+
+
+
+
+EAC LOG:
+
+EAC extraction logfile from 17. July 2006, 3:41 for CD
+Unknown Artist / Unknown Title
+
+Used drive  : LG      CD-RW CED-8120B   Adapter: 0  ID: 0
+Read mode   : Secure with NO C2, accurate stream, NO disable cache
+Combined read/write offset correction : 0
+Overread into Lead-In and Lead-Out : No
+
+Used output format : Internal WAV Routines
+                     44.100 Hz; 16 Bit; Stereo
+
+Other options      : 
+    Fill up missing offset samples with silence : Yes
+    Delete leading and trailing silent blocks : No
+    Normalize to 98
+    Installed external ASPI interface
+
+
+Track  1
+     Filename C:\My Documents\Metallica 1985-01-15 Montreal, Canada\Track01.wav
+
+     Peak level 54.8 %
+     Track quality 99.8 %
+     Copy CRC 62B501DD
+     Copy OK
+
+Track  2
+     Filename C:\My Documents\Metallica 1985-01-15 Montreal, Canada\Track02.wav
+
+     Peak level 74.2 %
+     Track quality 99.9 %
+     Copy CRC 0A441AEF
+     Copy OK
+
+Track  3
+     Filename C:\My Documents\Metallica 1985-01-15 Montreal, Canada\Track03.wav
+
+     Peak level 71.7 %
+     Track quality 99.9 %
+     Copy CRC BC001FD4
+     Copy OK
+
+Track  4
+     Filename C:\My Documents\Metallica 1985-01-15 Montreal, Canada\Track04.wav
+
+     Peak level 72.0 %
+     Track quality 99.9 %
+     Copy CRC 41857303
+     Copy OK
+
+Track  5
+     Filename C:\My Documents\Metallica 1985-01-15 Montreal, Canada\Track05.wav
+
+     Peak level 67.4 %
+     Track quality 100.0 %
+     Copy CRC 2FC9C0D8
+     Copy OK
+
+Track  6
+     Filename C:\My Documents\Metallica 1985-01-15 Montreal, Canada\Track06.wav
+
+     Peak level 74.6 %
+     Track quality 99.9 %
+     Copy CRC F7EB79AB
+     Copy OK
+
+Track  7
+     Filename C:\My Documents\Metallica 1985-01-15 Montreal, Canada\Track07.wav
+
+     Peak level 75.3 %
+     Track quality 99.9 %
+     Copy CRC 1C4C94EC
+     Copy OK
+
+Track  8
+     Filename C:\My Documents\Metallica 1985-01-15 Montreal, Canada\Track08.wav
+
+     Peak level 77.2 %
+     Track quality 99.9 %
+     Copy CRC 6ED41DD6
+     Copy OK
+
+Track  9
+     Filename C:\My Documents\Metallica 1985-01-15 Montreal, Canada\Track09.wav
+
+     Peak level 75.3 %
+     Track quality 100.0 %
+     Copy CRC 4D424502
+     Copy OK
+
+Track 10
+     Filename C:\My Documents\Metallica 1985-01-15 Montreal, Canada\Track10.wav
+
+     Peak level 75.6 %
+     Track quality 100.0 %
+     Copy CRC 65D9B122
+     Copy OK
+
+Track 11
+     Filename C:\My Documents\Metallica 1985-01-15 Montreal, Canada\Track11.wav
+
+     Peak level 73.5 %
+     Track quality 99.9 %
+     Copy CRC B9ED48F6
+     Copy OK
+
+No errors occured
+
+
+End of status report

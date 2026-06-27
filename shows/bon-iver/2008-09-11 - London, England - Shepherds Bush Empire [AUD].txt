@@ -1,0 +1,78 @@
+Bon Iver
+11th September 2008
+Shepherd's Bush Empire
+London, England
+
+SETLIST (75:26)
+---------------
+01. intro
+02. Flume
+03. Lump Sum
+04. Creature Fear
+05. Blindsided
+06. Blood Bank
+07. Re: Stacks
+08. Simple Man
+09. I Believe In You
+10. Skinny Love
+11. talking about audience singing The Wolves Act II
+12. The Wolves (Act I & II)
+13. encore break
+14. For Emma
+15. Lovin's For Fools
+
+GENERATION
+---------------
+DAT(M) -> FLAC
+
+SOURCE (AUD #2)
+---------------
+Marantz EM-8 -> Edirol R-09 @ 48/24 > WAV(M)
+
+TRANSFER
+---------------
+WAV(M) -> PC -> CEP 2.1 (capture/paste/fades) -> WAV -> CD Wave 1.95.1 -> FLAC(8)
+
+NOTES
+-----
+Just before Blood Bank, the left channel had to be pasted over the right due to cabling issues.
+
+FLAC FINGERPRINTS
+-----------------
+boniver-20080911-t01.flac:44efd8b67cfd745b184c4ab6eee97e04
+boniver-20080911-t02.flac:6720fdd411793602b5d440228cbb5bc2
+boniver-20080911-t03.flac:02a22a13151b8203d1a46a95152b6533
+boniver-20080911-t04.flac:cb353c1bed73ba5b93396d51ebae14d5
+boniver-20080911-t05.flac:d99d155a56d67bb2f5c3abeea6fb53ed
+boniver-20080911-t06.flac:6969d12740a179df296026fdd174b943
+boniver-20080911-t07.flac:dac5546b5f7d038cf754a676b735fe94
+boniver-20080911-t08.flac:b62bbed741c27d70421b220cc6f086e8
+boniver-20080911-t09.flac:f3a7a9144b2b2e733f0d3fd45a3ef0fe
+boniver-20080911-t10.flac:4682eff3b29c12d25d4a9c0d8d690ddc
+boniver-20080911-t11.flac:420ac0ef43794758d4fbbd1b3b0126fe
+boniver-20080911-t12.flac:3890dc9462dce2f6a39b23b4ef6cd7f9
+boniver-20080911-t13.flac:787e9c53242707a0c5fb3d4d88a29a59
+boniver-20080911-t14.flac:5ed30aab9d0f987777d379eb10d65036
+boniver-20080911-t15.flac:0b6a33724ba1fbbb293866d97df978bd
+
+MD5 CHECKSUMS
+---------------
+9944444db5879cd5f2c5f0d9393a51d9 *boniver-20080911-t01.flac
+f85133efd8222fd8c3b0dd5b61e6ace0 *boniver-20080911-t02.flac
+b83c7f743054126645e4bc707a789327 *boniver-20080911-t03.flac
+78c900e5624f7d01d7287287d3c4d0f1 *boniver-20080911-t04.flac
+4fc2a785e7b4f9847b85e119b13740af *boniver-20080911-t05.flac
+bbef0e9c71fbf41820ee7c06172b89bc *boniver-20080911-t06.flac
+9b1d5eda693d2c52af157f52c530860d *boniver-20080911-t07.flac
+abab0ada096d0aaa9351ab8dc6bbb898 *boniver-20080911-t08.flac
+33ff002c767b9263ffac835ec115d263 *boniver-20080911-t09.flac
+9068961208133e38d4e7fa02e2c456bd *boniver-20080911-t10.flac
+e7a122612b3876b80b9e21f4eb44b7fd *boniver-20080911-t11.flac
+199ce39225a65c2842763d1ecbd1b554 *boniver-20080911-t12.flac
+67c87e9246076b9c54589ba44b8ef2a4 *boniver-20080911-t13.flac
+2af1df22407d61e2f05301bb83b584af *boniver-20080911-t14.flac
+54c853f7c8e0dea8e87a4290a85ef7d1 *boniver-20080911-t15.flac
+
+Taped, transferred & mastered by: Gary Watson (packetboatlane@yahoo.co.uk)
+
+DO NOT SELL, OR DISTRIBUTE IN LOSSY FORMATS!

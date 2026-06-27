@@ -1,0 +1,44 @@
+BUSH
+April 3, 2018
+Neuehouse
+Los Angeles, CA
+
+SETLIST:
+-------------------
+00. intro/banter [w/ "Glycerine" tease]
+01. Machinehead
+02. The Sounds of Winter
+03. Comedonwn
+
+
+SOURCE:
+-------------------
+AUD #1 - Quality: 9.0
+built-in > ZOOM H2n[?]
+
+Recorded by: anonymous
+
+TRANSFER:
+-------------------
+built-in mics > ZOOM H2n (approx./likely) > SD card > PC > Sound Forge > FLAC > Adobe Audition 23.5 [post-production/mastering] > xACT 2.52 > FLAC [Level 8]
+
+GENERATION:
+-------------------
+WAV(M) [44.1kHz/16-bit] > FLAC [Level 8]
+
+NOTES:
+-------------------
+- Recorder is approximate, though it was recorded with built-in mics. The frequency response sounds similar to the omnidirectional sound of a ZOOM H2n set at 2ch mode.
+- This was a private event to announce the Revolution 3 Tour, with three songs performed by each band.
+
+
+FLAC FINGERPRINTS:
+-------------------
+bush2018-04-03-aud1-t00.flac:c97a55b7d68ab687fac558eb3536867e
+bush2018-04-03-aud1-t01.flac:a1e9d0c6d5c979741af5c118cc4ac174
+bush2018-04-03-aud1-t02.flac:aa7ecb124406a0119273f54c2fe82c2e
+bush2018-04-03-aud1-t03.flac:188a7cd0a66af379cdf07db2d86daab1
+
+
+Transferred and encoded by: ijwthstd & vibrioidxire
+PLEASE DO NOT DISTRIBUTE IN LOSSY FORMATS OR SELL!

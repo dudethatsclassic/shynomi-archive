@@ -1,0 +1,67 @@
+This was recently offered up (mid 2019) as a CD rip, information below. The sound left a lot to be desired. As well as a huge amount of EQ tweaking, I have lessened two instances of feedback, removed six pops/clicks and slightly smoothed a couple of odd mixing anomalies (in the original, it seems).
+
+All credit to RatedX, the original uploader. I had this in a very bad transfer (from the same tape, it would appear). No amount of EQ could save it, but this one had lots of play with. The full lineage is now:
+
+Audience Recording > ? > Le Prince Noir: Hannibal 011 (CD-R) > EAC Wave > TLH Flac Level 8 > Cuetools [combined to one track] > iZotopeRX6 [Gain, declip, hum removal, EQ, manual click removal, spectral noise reduction, further EQ] > foobar [cut into tracks as per original torrent]
+
+I am unsure as to whether this really IS an audience recording. The separation of instruments and the lack of apparent audience noise might suggest otherwise...
+
+Enjoy!
+
+subtr83
+=========
+
+***Contrast clause*** - this is already on the tracker in raw form from the Hannibal CD here: http://www.dimeadozen.org/torrents-details.php?id=653705
+
+I have extensively tweaked and, I hope, improved the sound.
+
+=========
+
+
+Below, from the earlier torrent '1973-11-21 Bordeaux.aud.flac.333MB. 58'32 - RatedX'
+
+Miles Davis Septet
+Unknown Venue, Bordeaux (France)
+Audience Recording
+November 21, 1973
+
+Lineage: Audience Recording > ? > Le Prince Noir: Hannibal 011 (CD-R) > EAC Wave > TLH Flac Level 8
+
+Miles Davis (tpt, org); Dave Liebman (ss, ts, fl); Pete Cosey (g, perc); Reggie Lucas (g); Michael Henderson (el-b); Al Foster (d); James Mtume Forman (cga, perc)
+
+01.Band Warming Up 0:10
+02.Turnaroundphrase 8:26
+03.Tune In 5 4:16
+04.Turnaroundphrase 5:12
+05.Tune In 5 6:28
+06.Ife 12:44
+07.For Dave (Mr. Foster) 10:04
+08.Calypso Frelimo 10:16
+09.Right Off (Incomplete) 0:52
+
+Total Time: 58'32
+----------------------------------------------------------------------------------
+
+length     expanded size    cdr  WAVE problems  fmt   ratio  filename
+ 0:10.09        1785212 B   ---   --   ---xx   flac  0.4448  01.1973-11-21.Band Warming Up.flac
+ 8:26.70       89423084 B   ---   --   ---xx   flac  0.5925  02.1973-11-21.Turnaroundphrase.flac
+ 4:16.74       45332492 B   ---   --   ---xx   flac  0.5662  03.1973-11-21.Tune In 5.flac
+ 5:12.01       55039196 B   ---   --   ---xx   flac  0.5993  04.1973-11-21.Turnaroundphrase.flac
+ 6:28.45       68549084 B   ---   --   ---xx   flac  0.5455  05.1973-11-21.Tune In 5.flac
+12:44.07      134786108 B   ---   --   ---xx   flac  0.5515  06.1973-11-21.Ife.flac
+10:04.62      106691468 B   ---   --   ---xx   flac  0.5497  07.1973-11-21.For Dave (Mr. Foster).flac
+10:16.29      108730652 B   ---   --   ---xx   flac  0.5681  08.1973-11-21.Calypso Frelimo.flac
+ 0:52.73        9344540 B   ---   --   ---xx   flac  0.5587  09.1973-11-21.Right Off (Incomplete).flac
+58:32.70      619681836 B                            0.5645  (9 files)
+
+----------------------------------------------------------------------------------
+
+01.1973-11-21.Band Warming Up.wav:  track looks like CDDA with probability 99%.
+02.1973-11-21.Turnaroundphrase.wav:  track looks like CDDA with probability 100%.
+03.1973-11-21.Tune In 5.wav:  track looks like CDDA with probability 100%.
+04.1973-11-21.Turnaroundphrase.wav:  track looks like CDDA with probability 100%.
+05.1973-11-21.Tune In 5.wav:  track looks like CDDA with probability 100%.
+06.1973-11-21.Ife.wav:  track looks like CDDA with probability 100%.
+07.1973-11-21.For Dave (Mr. Foster).wav:  track looks like CDDA with probability 100%.
+08.1973-11-21.Calypso Frelimo.wav:  track looks like CDDA with probability 100%.
+09.1973-11-21.Right Off (Incomplete).wav:  track looks like CDDA with probability 100%.

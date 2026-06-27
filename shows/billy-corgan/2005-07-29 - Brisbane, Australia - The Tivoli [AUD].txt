@@ -1,0 +1,42 @@
+Billy Corgan
+2005-07-29
+The Tivoli; Brisbane, Australia
+
+Tracklist:
+  01. Bit 4
+  02. Johanna [Pop/Williamson]
+  03. The CameraEye
+  04. A100
+  05. ToLoveSomebody [The Bee Gees]
+  06. Sorrows (in blue)
+  07. DIA
+  08. Now (and Then) [cut]
+
+This recording is incomplete. Now (and Then) is cut and the rest of the concert is missing.
+
+---
+PLEASE DO NOT UPLOAD OR SHARE LOSSY FORMATS (mp3 etc.) OF THESE FILES.
+
+If lossless files are too big, deal with it. Wait a bit longer for the download, use a friends computer to do it, convert it to mp3 or anything else -FOR YOURSELF ONLY- once you get the lossless versions.
+---
+
+Shntool output:
+    length     expanded size   cdr  WAVE problems filename
+     2:08.36       22663916    ---   --   ---xx   bc2005-07-29t01.flac
+     5:41.69       60314732    ---   --   ---xx   bc2005-07-29t02.flac
+     3:14.19       34266332    ---   --   ---xx   bc2005-07-29t03.flac
+     4:53.72       51854588    ---   --   ---xx   bc2005-07-29t04.flac
+     6:23.23       67615340    ---   --   ---xx   bc2005-07-29t05.flac
+     2:55.05       30881804    ---   --   ---xx   bc2005-07-29t06.flac
+     5:13.14       55246172    ---   --   ---xx   bc2005-07-29t07.flac
+     1:58.29       20883452    ---   --   ---xx   bc2005-07-29t08.flac
+    32:28.42      343726336 B                     (totals for 8 files, 0.5433 overall compression ratio)
+
+c3f3369c4bb31e4ae47baa48071c419f  [shntool]  bc2005-07-29t01.flac
+87bfcb8ac039df43f58ad3737a340f25  [shntool]  bc2005-07-29t02.flac
+10bad6ceeb06319e1f61415860de680c  [shntool]  bc2005-07-29t03.flac
+8bd71503a86f5f01b6f560934fa0ee67  [shntool]  bc2005-07-29t04.flac
+a5d3f41c72e68be709ea4ccba4ca6e97  [shntool]  bc2005-07-29t05.flac
+5f5b42a1d63a3ce472cda70ef48a4b38  [shntool]  bc2005-07-29t06.flac
+b150183648b0d65207086ce6b6944efa  [shntool]  bc2005-07-29t07.flac
+b1d962ce5f79152cd3402413c71e5870  [shntool]  bc2005-07-29t08.flac

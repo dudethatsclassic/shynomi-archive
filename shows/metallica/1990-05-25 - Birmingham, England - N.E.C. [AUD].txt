@@ -1,0 +1,85 @@
+Metallica
+
+1990-05-25
+N.E.C. 
+Birmingham, England
+
+
+Source: Unknown AUD (Unknown Gen cass)
+
+Transfer: Unknown Gen Cass -> Akai GXC-704D(w/azimuth adjustment) -> Audacity -> WAV -> HAT(Track/Align) -> WAV(tracked) -> FLAC(lvl8)
+
+
+Disc 1:
+
+01. The Ecstasy Of Gold
+02. Creeping Death
+03. For Whom The Bell Tolls
+04. Welcome Home (Sanitarium)
+05. Harvester Of Sorrow
+06. No Remorse 
+07. The Four Horsemen
+08. The Shortest Straw
+09. Jason's Bass Solo ->
+10. To Live Is To Die Jam
+11. Whiplash
+12. Fade To Black
+13. Seek & Destroy
+
+
+Disc 2:
+
+01. Blackened
+02. One
+03. Master Of Puppets
+04. Kirk's Guitar Solo ->
+05. Kirk's Jam ->
+06. Third Stone From Sun Jam
+07. Battery
+08. Symptom Of The Universe Jam
+09. Last Caress
+10. Am I Evil? 
+11. Helpless
+12. Breadfan
+13. Motorbreath 
+
+
+Notes: 
+This was tracked with Hub Audio Tools, there are a few cass flpis the first one was in the middle of jasons bass solo so i merged the two pieces together making them one track as they should be...i didnt do a perfect job but its alot better then what it was imo. The last flip is after one, no music is missing just a sec or so of james talking to crowd. there was also a few secs of silence after master of puppets which i removed, it seems like a bit a kirk's solo was missing but nothing can be done about that its how it was on the tape. 
+
+
+
+
+FLAC Fingerprint:
+
+Disc 1:
+
+track01.flac:5d790ed1259e81f1f70e791a7bee6361
+track02.flac:74ce8606718fcf54ed5eadfb82decea7
+track03.flac:a07d3530bae0e5d46ffa64468a423359
+track04.flac:4d54cb4d0fd96c7b0399b8425a35b3ca
+track05.flac:ba0f25ccf02c32c5d94d97dca44de90e
+track06.flac:d12736c5251886ed43dbca05329343c8
+track07.flac:e9fa7737590651781e151f009a739b3f
+track08.flac:9d82fb5fbd85e23d3b710e0209014566
+track09.flac:9e2d315fe4aadeab4d6a6416772662bd
+track10.flac:17688371fb446e3ecd11a66e9d09cf6e
+track11.flac:d4fdf2974a3e01da3bb3e5e8009bf7c9
+track12.flac:dbca9e5b54195af40ee90b5df9392f98
+track13.flac:7fb884c634db31f0e4d7ba1d1bee4b1f
+
+Disc 2:
+
+track01.flac:8351ec06f77ee5519a47bcc524c1de50
+track02.flac:f9323b36f454278d249640b08b4a2c20
+track03.flac:7767ffd68cd6d98fd35df2757d8dbe10
+track04.flac:9a2623144d378de0f49f003fc82a89f6
+track05.flac:5b9bd05a5f5a7e2cc2b18113a4efb5e6
+track06.flac:8a7a81bbae5cbfb9eedf4bc266641b6c
+track07.flac:a3fe853086505536e284585ba8649abd
+track08.flac:952ff7b98c32344c1972cec5ddde0e15
+track09.flac:3fc22dc229f888f112e075b4c1c7c0cc
+track10.flac:0317e2c1df81ff0bf598517844f0c4c1
+track11.flac:6984e6cc4b21109529e2d975c8ab4685
+track12.flac:75531389742067b309124ffb45f28e0a
+track13.flac:57d778fd3cd863ec93e2adc9224b6be1

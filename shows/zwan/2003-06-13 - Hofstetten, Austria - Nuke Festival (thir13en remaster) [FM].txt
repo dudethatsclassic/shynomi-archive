@@ -1,0 +1,46 @@
+ZWAN
+June 13, 2003
+Nuke Festival @ Pielachtal Festivalgelaende - Hofstetten, Austria
+
+Broadcast date: 2003-06-20
+
+
+Taper:          Sebastian Boschert
+Source:         Digital FM > Hard Disk
+Radio Station:  FM4, http://fm4.orf.at
+Resampling:     48.0 kHz > 44.1 kHz in Cool Edit Pro V2.0 (setting 999)
+Editor:         Sebastian Boschert
+Editing:        Fades/Normalization in Steinberg WaveLab V4.0f
+                Track Splits in CD Wave Editor V1.71
+Transfer/FLAC:  Digital FM > Nokia Mediamaster 9500 (d-box) with DVB2000 firmware > SCSI >
+                  Hard Disk > Digital Editing > Flac V1.1.0
+
+Notes: No bass during the first 40 seconds and the right channel is louder than the left
+       channel as per broadcast.
+
+
+thir13en Notes:
+
+Yes, lower left channel was corrected...but sorry, can't really do anything about the first verse of Lyric sounding kinda "AM", adds an interesting cinematic affect to the whole thing though..
+
+This one needed a little more EQ than I normally like to do, but I think the incredibly thin source coupled with typical radio compression warranted a bit of heavy make-up.
+
+Tech notes: BBE SM Lo Contour around 33% - Process at 5% and output at -2, Waves Q3 Paragraphic + 3.3 @ 49 with a 7Q -  +4.5 159 @7Q and +2.5 @1943 7Q, Waves L3 MM thresh -4.9, ceiling 0.0, lo mids +0.7, Mids +1.1, high mids -0.3, highs -0.3 with Xovers at 80-400-1278-5113.
+ 
+
+I edited the intros and the 9 second "version" of Yesterday, which was really nothing, certainly not worth it's own track. It sounds nice, much better than I expected when I started it. Enjoy!
+
+Setlist                                              
+--------------------------------------------------------------
+01 Lyric
+02 Declarations of Faith
+03 For Your Love
+04 Honestly
+05 El Sol
+06 Jesus, I
+07 Desire
+08 Don't Let Me Down
+09 Settle Down
+10 Endless Summer
+11 Of a Broken Heart        
+12 Mary Star of the Sea

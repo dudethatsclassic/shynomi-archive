@@ -1,0 +1,98 @@
+Miles Davis Quintet
+11-06-1967
+Salle Pleyel
+Paris, France
+
+Project ID - LL125
+
+Source: FM Broadcast
+Lineage: ORTF radio broadcast > ?? > Jazz Music Yesterday JMY 1003 > eac (secure) 
+> flac (level 6)
+ 
+
+Miles Davis (tpt); Wayne Shorter (ts); Herbie Hancock (p); Ron Carter (b); 
+Tony Williams (d)
+
+disc 1
+
+d1t01. 'Round Midnight
+d1t02. No Blues 
+d1t03. Masqualero
+d1t04. I Fall in Love Too Easily
+d1t05. Riot
+d1t06. Walkin'
+d1t07. On Green Dolphin Street
+d1t08. The Theme
+ 
+-------------------------------------------------------
+
+Notes:
+
+- This source is nearly flawless. This is a must have for anyone with the slightest interest 
+in Miles. There are two other sources I found that circulatate, LL126, and LL127. Both are 
+basically identical in sound. LL126 is shn (not seekable) and LL127 has SBE's. For these reasons
+alone, this is the superior source. 
+
+- As Peter explains below, Agitiation and Footprints were played on this date, but are
+missing from this source. 
+
+- "Agitation" and "Footprints" were not broadcast and do not appear on any issued recordings 
+of this date. The opening ascending run and set-up for the theme to "'Round Midnight" is 
+missing on JMY and Golden Age of Jazz. In addition, the tunes are wrongly indexed on JMY: 
+1. 'Round Midnight (8:05); 2. No Blues (13:05); 3. Mascalero [sic] (8:40); 4. I Fall in 
+Love Too Easily (9:00); 5. Riot (5:30); 6. Walkin' (9:40); 7. On Green Dolphin Street (16:50); 
+8. The Theme (0:40)."- Credit to Peter Losin, http://www.plosin.com/
+
+- QC done by Bgreen
+
+md5
+6c7fb8f228f7e71a9f2b7f6ad3ff0b0b *md1967-11-06.LL125.d1t01.flac
+cf3f55ecf0378b9ac0c30e8d242ae3b9 *md1967-11-06.LL125.d1t02.flac
+45de24dd80f80a3a62a999b48466aa12 *md1967-11-06.LL125.d1t03.flac
+d5b4f2626a56b92206048700ed9d3843 *md1967-11-06.LL125.d1t04.flac
+cfe3c8413f8a1184b1260adb4882d155 *md1967-11-06.LL125.d1t05.flac
+5a072e0aab2da5d8530e856c04bf254d *md1967-11-06.LL125.d1t06.flac
+9869f7707bf23ae800f4c8b9aa32d774 *md1967-11-06.LL125.d1t07.flac
+249a361ce6ba774f826ffa9f34461f08 *md1967-11-06.LL125.d1t08.flac
+
+ffp
+md1967-11-06.LL125.d1t01.flac:c244ac445d73b69d61a69ee31eb71510
+md1967-11-06.LL125.d1t02.flac:b33ddf94e65f376ac762ab1860d28045
+md1967-11-06.LL125.d1t03.flac:7cbcf4b5f738f6a5e772ed48e882a2b4
+md1967-11-06.LL125.d1t04.flac:dfa8bb8dd8a9d1246cdefc4f6ab4758a
+md1967-11-06.LL125.d1t05.flac:f3e9e3bb7333c9f7b2c06f303e744037
+md1967-11-06.LL125.d1t06.flac:dc26a66da45da2fb26f2881d16592805
+md1967-11-06.LL125.d1t07.flac:8191239a79f35580579061aae471aec5
+md1967-11-06.LL125.d1t08.flac:140a6ec2ff74138891bbed2082541355
+
+shntool
+    length     expanded size   cdr  WAVE problems filename
+     8:07.00       85906844    ---   --   ---xx   md1967-11-06.LL125.d1t01.flac
+    13:01.37      137855468    ---   --   ---xx   md1967-11-06.LL125.d1t02.flac
+    10:41.38      113161820    ---   --   ---xx   md1967-11-06.LL125.d1t03.flac
+     7:54.00       83613644    ---   --   ---xx   md1967-11-06.LL125.d1t04.flac
+     6:07.00       64738844    ---   --   ---xx   md1967-11-06.LL125.d1t05.flac
+     9:10.35       97102364    ---   --   ---xx   md1967-11-06.LL125.d1t06.flac
+    16:40.30      176470604    ---   --   ---xx   md1967-11-06.LL125.d1t07.flac
+     0:46.10        8137964    ---   --   ---xx   md1967-11-06.LL125.d1t08.flac
+    72:28.00      766987552 B                     (totals for 8 files, 0.5190 overall compression ratio)
+
+spectral analysis from TLH
+md1967-11-06.LL125.d1t01.wav:  track looks like CDDA with probability 100%
+md1967-11-06.LL125.d1t02.wav:  track looks like CDDA with probability 100%
+md1967-11-06.LL125.d1t03.wav:  track looks like CDDA with probability 100%
+md1967-11-06.LL125.d1t04.wav:  track looks like CDDA with probability 100%
+md1967-11-06.LL125.d1t05.wav:  track looks like CDDA with probability 100%
+md1967-11-06.LL125.d1t06.wav:  track looks like CDDA with probability 100%
+md1967-11-06.LL125.d1t07.wav:  track looks like CDDA with probability 100%
+md1967-11-06.LL125.d1t08.wav:  track looks like CDDA with probability 100%
+
+old md5 
+6c7fb8f228f7e71a9f2b7f6ad3ff0b0b *davis-1967-11-06-t01.flac
+cf3f55ecf0378b9ac0c30e8d242ae3b9 *davis-1967-11-06-t02.flac
+45de24dd80f80a3a62a999b48466aa12 *davis-1967-11-06-t03.flac
+d5b4f2626a56b92206048700ed9d3843 *davis-1967-11-06-t04.flac
+cfe3c8413f8a1184b1260adb4882d155 *davis-1967-11-06-t05.flac
+5a072e0aab2da5d8530e856c04bf254d *davis-1967-11-06-t06.flac
+9869f7707bf23ae800f4c8b9aa32d774 *davis-1967-11-06-t07.flac
+249a361ce6ba774f826ffa9f34461f08 *davis-1967-11-06-t08.flac

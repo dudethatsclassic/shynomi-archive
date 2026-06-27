@@ -1,0 +1,89 @@
+Bush
+Hartman Arena
+Park City, Kansas
+August 2, 2019
+
+Lineage: LIVE Webcast -> FFmpeg (capture & edit) -> uncompressed .ts
+Video: MPEG4 Video (H264) 1280x720 16:9 1400 Kbps 30.00 fps
+Audio: AAC 128 Kbps 48.0 KHz stereo
+
+Setlist: 
+Machinehead
+This Is War
+Everything Zen
+Swallowed
+The Sound of Winter
+Warm Machine
+Bullet Holes
+Little Things
+Glycerine
+Comedown
+
+TRT = 01:05:26
+
+Note: This is a perfect capture of the webcast.
+No imperfections were inherent in the broadcast.
+
+Captured and uploaded to DIME by indykid.
+
+MediaInfo:
+General
+ID                                       : 1 (0x1)
+Complete name                            : Bush - 2019-08-02 Hartman Arena, Park City, Kansas [720p].ts
+Format                                   : MPEG-TS
+File size                                : 714 MiB
+Duration                                 : 1 h 5 min
+Overall bit rate mode                    : Variable
+Overall bit rate                         : 1 525 kb/s
+
+Video
+ID                                       : 256 (0x100)
+Menu ID                                  : 1 (0x1)
+Format                                   : AVC
+Format/Info                              : Advanced Video Codec
+Format profile                           : Main@L3.1
+Format settings                          : CABAC / 1 Ref Frames
+Format settings, CABAC                   : Yes
+Format settings, RefFrames               : 1 frame
+Codec ID                                 : 27
+Duration                                 : 1 h 5 min
+Width                                    : 1 280 pixels
+Height                                   : 720 pixels
+Display aspect ratio                     : 16:9
+Frame rate mode                          : Variable
+Color space                              : YUV
+Chroma subsampling                       : 4:2:0
+Bit depth                                : 8 bits
+Scan type                                : Progressive
+Color range                              : Limited
+Color primaries                          : BT.709
+Transfer characteristics                 : BT.709
+Matrix coefficients                      : BT.709
+
+Audio
+ID                                       : 257 (0x101)
+Menu ID                                  : 1 (0x1)
+Format                                   : AAC LC
+Format/Info                              : Advanced Audio Codec Low Complexity
+Format version                           : Version 4
+Muxing mode                              : ADTS
+Codec ID                                 : 15-2
+Duration                                 : 1 h 5 min
+Bit rate mode                            : Variable
+Channel(s)                               : 2 channels
+Channel layout                           : L R
+Sampling rate                            : 48.0 kHz
+Frame rate                               : 46.875 FPS (1024 SPF)
+Compression mode                         : Lossy
+Delay relative to video                  : -1 s 92 ms
+
+Menu
+ID                                       : 4096 (0x1000)
+Menu ID                                  : 1 (0x1)
+Duration                                 : 1 h 5 min
+List                                     : 256 (0x100) (AVC) / 257 (0x101) (AAC)
+Service name                             : Service01
+Service provider                         : FFmpeg
+Service type                             : digital television
+
+Captured and uploaded to DIME by indykid.

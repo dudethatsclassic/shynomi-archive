@@ -1,0 +1,57 @@
+Zwan
+April 26th 2003
+Paramount Ballroom
+Seattle, WA, US
+
+SOURCE (AUD#1)
+CSC > Att.(-20db) > M1
+
+TRANSFER:
+CDR > X Lossless Decoder (XLD) > WAV > FLAC
+
+GENERATION:
+DAT(M) > CDR > WAV > FLAC
+
+LENGTH:
+84:38
+
+SETLIST:
+01. Mary Star of the Sea
+02. Declarations of Faith
+03. For Your Love
+04. Honestly
+05. Lyric
+06. Desire
+07. Jesus, I [Lyte] > God's Gonna Set This World on Fire
+08. Heartsong
+09. Riverview
+10. Baby Let's Rock
+11. Endless Summer
+12. Settle Down
+13. (encore break)
+
+ENCORE:
+14. Of a Broken Heart
+
+NOTES:
+Thanks to lambert who had this in their collection having purchased it from ebay shortly after the show
+
+MD5 FINGERPRINTS:
+cbf099d7c50fde79c3834f1d7168f14d *Zwan 2003-04-26 AUD1 t01 Mary Star of the Sea.flac
+84df255bfcf3f0f6bec4bc9ae2a69534 *Zwan 2003-04-26 AUD1 t02 Declarations of Faith.flac
+2e315fa580b1ea2f63e0947a9f3ddf9d *Zwan 2003-04-26 AUD1 t03 For Your Love.flac
+be9fe485b49f3ead6551917a49c32b6e *Zwan 2003-04-26 AUD1 t04 Honestly.flac
+4d5bcaf94a87cbc1a2b84df744ab6153 *Zwan 2003-04-26 AUD1 t05 Lyric.flac
+6ecf7743516a062129a1ae9d029e369b *Zwan 2003-04-26 AUD1 t06 Desire.flac
+eb8afcc12efcf921fa9e04583bed6e92 *Zwan 2003-04-26 AUD1 t07 Jesus, I [Lyte] - God's Gonna Set This World on Fire.flac
+e6c4c062b3ddffc7c3bcb88c8eb6f17a *Zwan 2003-04-26 AUD1 t08 Heartsong.flac
+dc1964c0c8a161eac22126dfb4ccb960 *Zwan 2003-04-26 AUD1 t09 Riverview.flac
+b808f6c1a9b8976f7309f5c5bc4183fd *Zwan 2003-04-26 AUD1 t10 Baby Let's Rock.flac
+5e99e4092ac78c7993703a9a585715f5 *Zwan 2003-04-26 AUD1 t11 Endless Summer.flac
+78d42500fbff0e4c1dbd894656d0d3cc *Zwan 2003-04-26 AUD1 t12 Settle Down.flac
+e5fab7356e9a63d1973a859d3350371c *Zwan 2003-04-26 AUD1 t13 (encore break).flac
+cfc17ec08d0a16017bb2933e21bbb7de *Zwan 2003-04-26 AUD1 t14 Of a Broken Heart.flac
+
+DISTRIBUTION:
+Spaldz, Nicholas Serra & Members of SPLRA
+2026-05-28

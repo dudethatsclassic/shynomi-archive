@@ -1,0 +1,83 @@
+Miles Davis Quintet
+10-31-1969
+Unknown
+Stadthalle, Vienna
+
+Project ID - LL74
+
+Source: TV Broadcast
+Lineage: Unknown TV roadcast > reel-to-reel tape (unknown equipment) > ?? > CD > flac 8
+
+Miles Davis (tpt); Wayne Shorter (ss, ts); Chick Corea (el-p); Dave Holland (b, el-b); 
+Jack DeJohnette (d)
+
+disc 1
+
+d1t01. Announcer Into
+d1t02. Bitches Brew
+d1t03. Agitation
+d1t04. Miles Runs The Voodoo Down
+d1t05. I Fall In Love Too Easily
+d1t06. Sanctuary
+d1t07. The Theme
+ 
+-------------------------------------------------------
+
+Notes:
+
+- Not bad sound at all for a source extracted from a tv broadcast.There is some hiss
+present throughout the recording. Minimal for the most part. It is more prominant 
+in the beginning of d1t06.
+
+- Titles announced as: "Listen to This," "About That Time," "Nefertiti," and "'Round
+About Midnight." At least one version of this show in general c4irculation is pretty 
+badly off-speed, more than a half step sharp. Timings above are from a speed-corrected 
+recording. - Credit to Peter Losin, http://www.plosin.com/
+
+- The timing for this show do not match that listed by Peter so I assume this is not 
+the speed corrected version
+
+- QC done by bgreen
+
+md5
+ cedff7a5bb50e83290221933e53c9793 *md1969-10-31.LL74.d1t01.flac
+ 7c343a596108e8abfa2f384f82f5abfd *md1969-10-31.LL74.d1t02.flac
+ 4443f5d7f542a48db478eb310732c966 *md1969-10-31.LL74.d1t03.flac
+ 383899d3634d6cb49e949f61e2490afa *md1969-10-31.LL74.d1t04.flac
+ 8eacaad4e2c410e415919d81a4bcc35d *md1969-10-31.LL74.d1t05.flac
+ 55ac8228656427106be0b7fcfaa8ab5b *md1969-10-31.LL74.d1t06.flac
+
+
+ffp
+md1969-10-31.LL74.d1t01.flac:5607e80b00c1c19f898345659eaaf8f4
+md1969-10-31.LL74.d1t02.flac:410a8adfacf603880f6429f31307f53f
+md1969-10-31.LL74.d1t03.flac:cd1a1e214d633dd5b0e020cfd5caf24f
+md1969-10-31.LL74.d1t04.flac:8105702c1dbd6b240ad46f58b9c8af58
+md1969-10-31.LL74.d1t05.flac:83df4427352b8a59911d7539dbc76de0
+md1969-10-31.LL74.d1t06.flac:b5c651c1b272b9d95df2f3230f77df52
+
+shntool
+ length     expanded size    cdr  WAVE problems  fmt   ratio  filename
+  0:54.48        9638540 B   ---   --   ---xx   flac  0.3839  md1969-10-31.LL74.d1t01.flac
+ 14:31.52      153766748 B   ---   --   ---xx   flac  0.4439  md1969-10-31.LL74.d1t02.flac
+ 10:30.20      111179084 B   ---   --   ---xx   flac  0.4578  md1969-10-31.LL74.d1t03.flac
+ 15:22.13      162671420 B   ---   --   ---xx   flac  0.4494  md1969-10-31.LL74.d1t04.flac
+  2:40.55       28353404 B   ---   --   ---xx   flac  0.3982  md1969-10-31.LL74.d1t05.flac
+  4:43.62       50067068 B   ---   --   ---xx   flac  0.4462  md1969-10-31.LL74.d1t06.flac
+ 48:43.25      515676264 B                            0.4452  (6 files)
+
+Specral Analysis from TLH
+md1969-10-31.LL74.d1t01.wav:  track looks like CDDA with probability 100%
+md1969-10-31.LL74.d1t02.wav:  track looks like CDDA with probability 100%
+md1969-10-31.LL74.d1t03.wav:  track looks like CDDA with probability 99%
+md1969-10-31.LL74.d1t04.wav:  track looks like CDDA with probability 100%
+md1969-10-31.LL74.d1t05.wav:  track looks like CDDA with probability 100%
+md1969-10-31.LL74.d1t06.wav:  track looks like CDDA with probability 100%
+
+Old md5
+cedff7a5bb50e83290221933e53c9793 *01.flac
+7c343a596108e8abfa2f384f82f5abfd *02.flac
+4443f5d7f542a48db478eb310732c966 *03.flac
+383899d3634d6cb49e949f61e2490afa *04.flac
+8eacaad4e2c410e415919d81a4bcc35d *05.flac
+55ac8228656427106be0b7fcfaa8ab5b *06.flac

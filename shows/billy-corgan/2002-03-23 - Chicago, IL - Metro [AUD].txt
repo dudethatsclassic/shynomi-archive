@@ -1,0 +1,31 @@
+The Fourth Waltz
+Metro	
+Chicago, IL
+March 23rd, 2002
+
+Taper:          Jayson Kaap
+Source:         CSBmod>M1
+Location:       where Jayson stood
+Conversion:     DDC1>PCM-R300>CEP
+SHN conversion: CDWave>MKWact   (no DAE)
+Editor:         Fares Halteh
+Editing:        first two songs taped in 32k, second two in 44.1k. Upsample via CEP
+
+
+*********************************************************************
+Please do not encode to MP3.  Unless, of course, it's a life or death
+matter, in which case, by all means, do what you need to do.
+*********************************************************************
+
+01. Blitzkreig Bop/I Don't Care/Labotomy (Langford/Chamberlin)
+02. Moby Dick (Chamberlin)
+03. Isle of New York (Corgan/Chamberlin)
+04. Going Down (Corgan)
+
+
+*********************************************************************
+Please do not encode to MP3.  Unless, of course, it's a life or death
+matter, in which case, by all means, do what you need to do.
+*********************************************************************
+
+Compiled by Fares Halteh <Halteh3@Rogers.com> on July 12, 2002.

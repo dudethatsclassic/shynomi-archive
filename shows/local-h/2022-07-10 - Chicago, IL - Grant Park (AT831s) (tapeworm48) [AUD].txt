@@ -1,0 +1,35 @@
+Local H
+Grant Park: Chicago, IL
+July 10, 2022
+
+Source: AT831s > SP-SPSB-11 (@69Hz) > Sony PCM-M10 @ 24-bit / 44.1kHz
+Location: FOS left 15'
+Transfer: SD Card > Audacity > xACT 2.50
+Edits/EQ: +5dB
+Taper: tapeworm(48) 
+
+Setlist:
+
+01. Intro
+02. Winter Western
+03. The Misanthrope
+04. Eddie Vedder
+05. Hands On The Bible
+06. California Songs
+07. Bound For The Floor / (25 or 6 to 4 [Chicago])
+08. All The Kids Are Right
+09. All Right (Oh, Yeah)
+10. Fritz's Corner
+11. Defy And Surrender
+
+Notes: Performing on the main stage at "Taste of Chicago" in the 6pm time slot, 
+prior to headliners Drive-By Truckers (not recorded). M10 set at 5. Raw transfer 
+with no fades or EQ.
+
+Archive: Master WAV was archived @ 24-bit/44.1kHz and FLAC'd with cue sheet. 
+
+Taped and transferred by tapeworm(48) 
+Txt file compiled on 7/10/2022 
+
+*** DO NOT REMASTER WITHOUT PERMISSION. DO NOT DISTRIBUTE IN LOSSY FORMATS. DO NOT 
+SELL THIS RECORDING, TRADE IT FREELY *** 

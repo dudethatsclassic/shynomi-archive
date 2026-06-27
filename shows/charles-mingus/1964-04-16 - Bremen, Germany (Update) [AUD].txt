@@ -1,0 +1,83 @@
+Charles Mingus 1964 TOUR NEW EDITION PART 4 OF 4
+cHARLES MINGUS Sextet  
+4-16-1964 
+BREMEN, GERMANY
+SOUND IMPROVED fLAMBAY PITCH FIXED !!!
+
+First set : Dime  > Audacity (Phase inversion,fix) > Soundforge (pitch correction) > TLH (flac 8 , SBE,Checksums) > Dime
+
+Second set : Other tracker  > Audacity (fix) >  TLH (flac 8 , SBE,Checksums) > Dime
+
+Radio. Sound is A/A-.
+
+
+____________________________________________________________________________________________
+Notes on original torrent :
+
+I spent many hours going through this amazing show to repair literally
+hundreds of pops present on the original LP. I also removed the fade out/in between tracks
+they flow together seamlessly.
+
+Cary Wolfson
+_________________________________________________________________________________________________
+
+
+Charles Mingus: bass
+Eric Dolphy: alto sax, flute, bass clarinet
+Clifford Jordan: tenor sax
+Johnny Coles: trumpet
+Jaki Byard: piano 
+Dannie Richmond: drums
+
+Disc 1 	
+1. So Long Eric part I 			18.31        		18:10
+2. So Long Eric part II 		08.21 7:28		08:04
+3. AT FW USA 				4.48 4:33		04:43
+4. Sophisticated Lady >		 	03.58 (Ellington)	03:50
+5. Parkeriana (Ow) 			22.04 21:57		21:44
+
+
+Disc 2 
+1. Meditations 							25:28
+2. Fables Of Faubus 						34:02
+
+source : INGO italian bootleg (3 lp)
+2010 Jazz Lips Music JL 774 for second set
+
+I don't know if this is the correct sequence of the tracks
+This way Sophisticated Lady seems used as intro to Ow !!
+
+Enjoy  Maurizio
+
+********  Notes to tracks  ********
+For the first set I used The tracks from a Torrent present on Dime the Previous years
+(above his notes)
+
+For the second set I have decided to use Tracks coming from another Tracker (CD source this time)
+
+The quality of the sound is pretty much the same - 
+The second set I have chosen was already cleaner than the other one
+plus it was already Pitch correct !!!
+
+Disc one
+This recording is a bit Boomy so I managed to reduce the Booms 
+01 So Long Eric part I  some boom and some click
+02 So Long Eric part II  some boom 
+04 Sophisticated lady some click
+05 ow -  3 hours of work to un-boom this track !!!
+
+Disc two
+Both meditations and Fables had some boom here and there (just 3-4 - no more)
+	
+
+ 		FLAMBAY NOTES 
+
+Speed correction on the original 3 LP version:
+
+all Set 1 tracks: +30cts
+
+ 
+All tracks from this version also needed to be phase inversion corrected.
+
+ 
+ 

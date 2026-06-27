@@ -1,0 +1,16 @@
+Local H
+HFStival
+RFK Stadium
+Washington, DC
+
+Source: YouTube > MP4
+Lineage: MP4 > ffmpeg (track split) > MP3
+
+Setlist:
+01. Fritz's Corner
+02. Bound For The Floor
+03. Back In The Day
+04. High-Fiving MF
+
+https://www.youtube.com/watch?v=amlQP-4TFXQ
+https://www.youtube.com/watch?v=4vM1TK2ymH8

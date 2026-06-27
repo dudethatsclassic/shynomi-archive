@@ -1,0 +1,116 @@
+Miles Davis Quintet
+04-07-1967
+Harmon Gymnasium University of California
+Berkely, California
+
+Project ID - LL119
+
+Source: FM Broadcast
+Lineage: KALX Cabinet Tapes Broadcast > ?? > wave > flac
+
+Miles Davis (tpt); Wayne Shorter (ts); Herbie Hancock (p); Albert Stinson (b); 
+Tony Williams (d)
+
+disc 1
+
+d1t01. Radio Intro
+d1t02. Gingerbread Boy
+d1t03. Stella by Starlight
+d1t04. Dolores
+d1t05. 'Round Midnight
+d1t06. So What
+d1t07. Walkin'
+d1t08. The Theme 
+d1t09. Announcement
+ 
+-------------------------------------------------------
+
+Notes:
+
+- d1t02: At 7:11 and 7:54 there are some level fluctuations between the left and right 
+channels.  
+
+- d1t03: At :08, 2:53, 3:23, 6:25, 6:32, 6:40, 7:06, 9:53,and 9:54 there are 
+anomalies between the left and right channel. There are Static/Digi pops at :34, 
+2:03, 3:31, 3:14, 3:21, 7:39, 9:31 . There is a different level anomoly at 9:43 to 9:46 
+
+- d1t04: The anomalies as listed above are so prevelent that I'm not going to list them. 
+
+- d1t05: The same anomalies also plauge this track. 
+
+- d1t06: The level anomilies continue. Drop outs at 4:49 and 6:35
+
+- d1t07: The level anomilies continue. digi pop at 5:36, 7:10
+
+- Heavy on the bass with a very light hiss, and some slight distortion. This version is missing the stage intro and agitation which is available
+on the audience recording that circulates. The constant swapping of channels really makes 
+this hard for me to listen too. The playing is fantastic, but this source really lacks in
+quality to do it justice. 
+
+- QC done by Bgreen
+
+md5
+d27662db08d1f503e5099a8b87ab64d9 *md1967-04-07.LL119.d1t01.flac
+0871e36db85cb5f122c39db52388fe32 *md1967-04-07.LL119.d1t02.flac
+ff412a90bb4b2c1c28018a37b40ab9b3 *md1967-04-07.LL119.d1t03.flac
+3bf8165a300eaede9a3cf2d3248bdd90 *md1967-04-07.LL119.d1t04.flac
+2666f42223959c63521fa1393c4336e9 *md1967-04-07.LL119.d1t05.flac
+4fbfb95f20fb195ed93378e5f4ead798 *md1967-04-07.LL119.d1t06.flac
+f159c2aa59fc94cf6f07dc8fb9d7b768 *md1967-04-07.LL119.d1t07.flac
+4615589f7a914e12d1241688888964bc *md1967-04-07.LL119.d1t08.flac
+1b4efad502f88732af97cb05233a6ca6 *md1967-04-07.LL119.d1t09.flac
+
+ffp
+md1967-04-07.LL119.d1t01.flac:d0bb2d54f4ce4127b9eca9059e6eea65
+md1967-04-07.LL119.d1t02.flac:b463ce67ea5c5124cdfb84a8cb619355
+md1967-04-07.LL119.d1t03.flac:bf85ec51edf3dfe8055028735e0399c1
+md1967-04-07.LL119.d1t04.flac:bb72e87dd246714e21f8fe0e0b6cbd1c
+md1967-04-07.LL119.d1t05.flac:85bbf0a8345e779cae8d46ca6040e4f0
+md1967-04-07.LL119.d1t06.flac:453a7a62d94dd949a74e665d030c53c3
+md1967-04-07.LL119.d1t07.flac:b71ae727f3eeb17453792fcb956a84a1
+md1967-04-07.LL119.d1t08.flac:f796bc3e8113b1b218e620a804b8d9e6
+md1967-04-07.LL119.d1t09.flac:1f6e0ad5c3f915c787c47b063b5026c6
+
+shntool
+    length     expanded size   cdr  WAVE problems filename
+     0:18.21        3224636    ---   --   ---xx   md1967-04-07.LL119.d1t01.flac
+     9:08.19       96711932    ---   --   ---xx   md1967-04-07.LL119.d1t02.flac
+    10:17.39      108930572    ---   --   ---xx   md1967-04-07.LL119.d1t03.flac
+     7:08.32       75574508    ---   --   ---xx   md1967-04-07.LL119.d1t04.flac
+     9:44.34      103097612    ---   --   ---xx   md1967-04-07.LL119.d1t05.flac
+     8:47.62       93108668    ---   --   ---xx   md1967-04-07.LL119.d1t06.flac
+     8:56.36       94635116    ---   --   ---xx   md1967-04-07.LL119.d1t07.flac
+     0:31.60        5609564    ---   --   ---xx   md1967-04-07.LL119.d1t08.flac
+     0:31.18        5510780    ---   --   ---xx   md1967-04-07.LL119.d1t09.flac
+    55:24.21      586403388 B                     (totals for 9 files, 0.5679 overall compression ratio)
+
+spectral analysis from TLH
+md1967-04-07.LL119.d1t01.wav:  track looks like CDDA with probability 100%
+md1967-04-07.LL119.d1t02.wav:  track looks like CDDA with probability 100%
+md1967-04-07.LL119.d1t03.wav:  track looks like CDDA with probability 100%
+md1967-04-07.LL119.d1t04.wav:  track looks like CDDA with probability 100%
+md1967-04-07.LL119.d1t05.wav:  track looks like CDDA with probability 100%
+md1967-04-07.LL119.d1t06.wav:  track looks like CDDA with probability 100%
+md1967-04-07.LL119.d1t07.wav:  track looks like CDDA with probability 99%
+md1967-04-07.LL119.d1t08.wav:  track looks like CDDA with probability 100%
+md1967-04-07.LL119.d1t09.wav:  track looks like CDDA with probability 100%
+
+old md5 
+d27662db08d1f503e5099a8b87ab64d9 *Titel 01.flac
+0871e36db85cb5f122c39db52388fe32 *Titel 02.flac
+ff412a90bb4b2c1c28018a37b40ab9b3 *Titel 03.flac
+3bf8165a300eaede9a3cf2d3248bdd90 *Titel 04.flac
+2666f42223959c63521fa1393c4336e9 *Titel 05.flac
+4fbfb95f20fb195ed93378e5f4ead798 *Titel 06.flac
+f159c2aa59fc94cf6f07dc8fb9d7b768 *Titel 07.flac
+4615589f7a914e12d1241688888964bc *Titel 08.flac
+1b4efad502f88732af97cb05233a6ca6 *Titel 09.flac
+
+
+
+
+
+
+
+
+

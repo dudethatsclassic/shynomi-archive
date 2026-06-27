@@ -1,0 +1,56 @@
+Puscifer
+Red Rocks Amphitheater
+Morrison, Colorado, United States
+May 3, 2026
+
+Loudpuppy master recording
+
+lineage: lineage: iPhone 16 > Awesome Voice Recorder PRO > DPA 4061 (mics) > CDwav (for tracking) > Audacity (fade in added to tracks 01 and 14, fade out added to tracks 13 and 20) > Traders Little Helpher FLAC level 8 
+
+01 Intro
+02 Thrust
+03 Self Evident
+04 Bad Wolf
+05 Normal Isn't
+06 The Algorithm
+07 The Quiet Parts
+08 Pendulum
+09 video interlude
+10 The Arsonist
+11 Mantastic
+12 Bullet Train To Iowa
+13 The Remedy
+14 The Humbling River
+15 ImpetuoUs
+16 Momma Sed
+17 Seven One
+18 Grand Canyon
+19 Conditions Of My Parole
+20 A Public Stoning 
+
+Notes: Another in Loudpuppy's ongoing attempts to record using his iPhone. Not a great recording - lots of annoying people starting chants of "Dave - Dave - Dave" over and over again between songs near the taper. Plus, sounds like he had the mics in his pocket. Actual music sounds ok, but definitely not the best of tour recording. Probably best for those that attended the show or the completist downloading everything from this tour.
+
+01 Intro.flac:e93b123ee615d535f97dff7ff8b0b55b
+02 Thrust.flac:d1415fec9efbca784539f46a3fd86e5a
+03 Self Evident.flac:d4f7da1041a13546464b0d98c0c2d69f
+04 Bad Wolf.flac:e0de9e0017d67a338283102bc13d5fa0
+05 Normal Isn't.flac:e538f58d6bd41844605a1c137b2d5086
+06 The Algorithm.flac:ae31e5a59738ae7fbb176bd5806612d0
+07 The Quiet Parts.flac:b1d1a1dd8ae5cba676f851d072482a6b
+08 Pendulum.flac:934b35f2917701c5078c71c052c4aca6
+09 video interlude.flac:3d0d4cc89038eb438bed075fc674db1d
+10 The Arsonist.flac:9c8df064e36158e0190986e504f631ff
+11 Mantastic.flac:c976a7ac298108db36a825e0a3ead2aa
+12 Bullet Train To Iowa.flac:22ebaa60e908403eb74d2e972231cdaa
+13 The Remedy.flac:6ec4b774f95d9c91ce624d246db10c9f
+14 The Humbling River.flac:8e6a68ec49901d66cd8ee5d543b5f77d
+15 ImpetuoUs.flac:637421791e47eb40e256ff37310de4b8
+16 Momma Sed.flac:9d70308afd1ef7eadadff5485c5ed390
+17 Seven One.flac:462398dedf8b95bb5369dc16ef5cbbd3
+18 Grand Canyon.flac:5579b908c045a276a1c76b406616c315
+19 Conditions Of My Parole.flac:2228dc3d18c24e200d0dc8c53572ed34
+20 A Public Stoning.flac:8ffa70a94eaa2d115199d5ff87e95530
+
+Checksum file saved to disk.
+
+No errors occured.

@@ -1,0 +1,37 @@
+FAITH NO MORE
+June 22, 1992
+Paradiso
+Amsterdam, The Netherlands
+
+
+DISC #1/1 (23:34)
+-----------------
+01) Land Of Sunshine 
+02) Midlife Crisis 
+03) As The Worm Turns 
+04) RV 
+05) We Care A Lot 
+06) Epic 
+ 
+
+GENERATION
+-----------------
+FM -> (?) -> Silver CD "EASY" -> EAC -> WAV[44.1 Khz] -> FLAC[Level 8]
+
+
+SOURCE 
+-----------------
+Soundboard -> Unknown
+
+
+TRANSFER
+-----------------
+NEC-DVD RW ND3550A -> Exact Audio Copy V0.99 Prebeta 5 -> FLAC Frontend 1.7.1
+
+
+NOTE
+-----------------
+This is a fresh EAC rip from my bootleg "EASY". Bought somewhere in 1994.
+
+Transferred by Laurens van der Weijden.
+PLEASE DO NOT ENCODE TO MP3 OR SELL!

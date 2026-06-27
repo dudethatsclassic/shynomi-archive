@@ -1,0 +1,46 @@
+Miles Davis
+08-04-1969
+Miles Davis's House
+New York,New York
+
+Project ID - LL172
+
+Source: Audience Recording
+Lineage: Audience Recording > ?? > Peter Losin's Archive > duplicated
+(burner to burner) > eac > wave > flac lvl 8
+
+Miles Davis (Voc)
+
+disc 1
+
+d1t01. Interview
+ 
+-------------------------------------------------------
+
+Notes:
+
+- There is a steady hiss and plenty of static present. There's no music on this 
+recording, just a short 24 minute glimpse into the person that is Miles Davis.
+The questions are fairly comical. Well worth a listen.  
+
+- "Davis, interviewed by Japanese journalists for Swing Journal, talks about Teo Macero, 
+In a Silent Way, Stravinsky and Rachmaninoff, and black musicians and audiences. 
+Interview conducted at Davis's home, 312 West 77th Street, New York."- Credit to Peter Losin, 
+http://www.plosin.com/
+
+- QC done by Bgreen
+
+md5
+8c642bad2aa915ea0203f4608401fa82 *md1969-08-04.LL172.d1t01.flac
+
+ffp
+md1969-08-04.LL172.d1t01.flac:dd5e6e71f5f8ba8ad79dbdf85c16855b shntool
+    length     expanded size    cdr  WAVE problems  fmt   ratio  filename
+    24:06.30      255145004 B   ---   --   ---xx  md1969-08-04.LL172.d1t01.flac
+    24:06.30      255145004 B                            0.4414  (1 file)
+
+spectral analysis from TLH
+md1969-08-04.LL172.d1t01.wav:  track looks like CDDA with probability 100%
+
+old md5 or ffp (incude both if available)
+8c642bad2aa915ea0203f4608401fa82 *01 - Track01.flac

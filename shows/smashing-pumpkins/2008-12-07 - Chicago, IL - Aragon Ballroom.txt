@@ -1,0 +1,110 @@
+The Smashing Pumpkins
+2008-12-07
+Aragon Ballroom, Chicago, IL, US
+
+Source: Sony HDR-SR11 > .m2ts > MKVToolNix > .mkv
+Taper: Ryan Fisher
+
+Set:
+Tonight, Tonight
+Tarantula
+Stand Inside Your Love
+Mayonaise
+Today
+Gossamer
+99 Floors
+Owata
+Soma
+Cherub Rock
+Zero
+Bodies
+United States
+Star Spangled Banner [Key] (tease)
+A Song for a Son
+Medellia of the Grey Skies
+Communion
+Bullet with Butterfly Wings
+Superchrist
+Set the Controls for the Heart of the Sun [Pink Floyd] 
+
+Encore:
+Ava Adore
+1979
+Disarm
+
+Show Notes:
+99 Floors, Owata, Medellia of the Grey Skies, Communion, and Disarm performed acoustic
+Last performance of Mayonaise until 2012-09-22
+Last performance of Superchrist until 2019-05-30
+Final performances of Medellia of the Grey Skies, Communion and Set the Controls For the Heart of the Sun
+Set the Controls For the Heart of the Sun with Jesse Corgan on percussion and recorder
+Ava Adore, 1979, and Disarm with Jesse Corgan on tambourine
+
+Source Notes:
+Show acquired from original taper in 2021
+
+- Spaldz
+
+General
+Unique ID                                : 218731817377997549194554700526557083143 (0xA48E373751B0FF18259F7395D6103607)
+Complete name                            : tsp2008-12-07 - Aragon Ballroom, Chicago, IL, US.mkv
+Format                                   : Matroska
+Format version                           : Version 4
+File size                                : 16.8 GiB
+Duration                                 : 2 h 26 min
+Overall bit rate mode                    : Variable
+Overall bit rate                         : 16.4 Mb/s
+Encoded date                             : UTC 2021-04-25 10:16:43
+Writing application                      : mkvmerge v56.1.0 ('My Friend') 64-bit
+Writing library                          : libebml v1.4.2 + libmatroska v1.6.4
+
+Video
+ID                                       : 1
+Format                                   : AVC
+Format/Info                              : Advanced Video Codec
+Format profile                           : High@L4
+Format settings                          : CABAC / 2 Ref Frames
+Format settings, CABAC                   : Yes
+Format settings, Reference frames        : 2 frames
+Format settings, GOP                     : M=2, N=15
+Codec ID                                 : V_MPEG4/ISO/AVC
+Duration                                 : 2 h 26 min
+Bit rate mode                            : Variable
+Bit rate                                 : 16.0 Mb/s
+Width                                    : 1 920 pixels
+Height                                   : 1 080 pixels
+Display aspect ratio                     : 16:9
+Frame rate mode                          : Variable
+Frame rate                               : 59.940 FPS
+Original frame rate                      : 29.970 (30000/1001) FPS
+Color space                              : YUV
+Chroma subsampling                       : 4:2:0
+Bit depth                                : 8 bits
+Scan type                                : Interlaced
+Scan type, store method                  : Separated fields
+Scan order                               : Top Field First
+Bits/(Pixel*Frame)                       : 0.129
+Stream size                              : 16.3 GiB (97%)
+Default                                  : Yes
+Forced                                   : No
+IrisFNumber                              : 2.000000
+
+Audio
+ID                                       : 2
+Format                                   : AC-3
+Format/Info                              : Audio Coding 3
+Commercial name                          : Dolby Digital
+Codec ID                                 : A_AC3
+Duration                                 : 2 h 26 min
+Bit rate mode                            : Constant
+Bit rate                                 : 448 kb/s
+Channel(s)                               : 6 channels
+Channel layout                           : L R C LFE Ls Rs
+Sampling rate                            : 48.0 kHz
+Frame rate                               : 31.250 FPS (1536 SPF)
+Compression mode                         : Lossy
+Stream size                              : 468 MiB (3%)
+Service kind                             : Complete Main
+Default                                  : Yes
+Forced                                   : No
+

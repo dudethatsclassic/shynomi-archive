@@ -1,0 +1,21 @@
+Miles Davis
+May 15, 1949 (3:47)
+Salle Pleyel, Paris
+ORTF radio broadcast
+All-Star jam session
+
+Source: Liberated bootlegs? Radio broadcasts? > ?? > CD-R
+Conversion: CD-R > WAV (extracted with EAC) > mkwACT 0.97 b1 > SHN
+Digital Audio Extraction and SHN encoding performed by Mike Vescovo (db.etree.org/shackaholic).
+
+01. Farewell Blues (Traditional) (incomplete) 3:47 
+
+Begins toward the end of Byas's solo, followed by Page (0:32-1:38), 
+then Bechet (1:40-2:30), then Davis (2:32-3:06), then Parker (3:06-
+3:52). Cut off.
+
+Miles Davis (tpt); Aime Barelli (tpt); Oran "Hot Lips" Page (tpt); 
+Kenny Dorham (tpt); Bill Coleman (tpt); Russell "Big Chief" Moore 
+(tb); Hubert Rostaing (cl); Sidney Bechet (ss); Charlie Parker (as); 
+Don Byas (ts); James Moody (ts); Hazy Osterwald (vb); Jean "Toots" 
+Thielemans (g); Al Haig (p); Tommy Potter (b); Max Roach (d)

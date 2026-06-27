@@ -1,0 +1,72 @@
+The Smashing Pumpkins
+2021-09-17
+Riot Fest
+Riot Stage
+Chicago, IL
+
+Taper: TJ (http://ratm.live)
+Taping Location: Stage Right, 40-50 meters back center along the rail
+Lineage: AT853's > SP-SPBP-10 > Sony PCM-A10
+Transfer: WAV (16 Bit) > Adobe Audition 2021 CC (normalize/amplify/tracking) > Trader's Little Helper > FLAC (Level 8)
+Length: 1:46:14
+
+SETLIST:
+
+01. Intro
+02. The Colour of Love
+03. Bullet With Butterfly Wings
+04. Today
+05. Crush
+06. Drown
+07. Quiet
+08. Cyr
+09. Wyttch
+10. Solara
+11. Eye *
+12. Ava Adore
+13. Tonight, Tonight
+14. Stand Inside Your Love
+15. Cherub Rock
+16. Zero
+17. Ramona
+18. 1979
+19. Disarm
+20. Shame
+21. United States ^
+
+* featuring Meg Myers
+^ featuring Mciahel Angelo Batio on guitar
+
+First of all, a huge, huge, HUGE thanks to fried_morals for tracking, editing, and checksumming this recording. I sent the raw WAV to him the night that I recorded it and woke up the next morning with a nicely tracked recording which was a very pleasant suprise. Fried_morals runs an incredible Coachella recordings website at themojavetent.com and if you have any Coachella recordings please get in touch with him. Hoping to have some 2022 Coachella recordings to contribute to his archive! Fried_morals has also taped and shared a ton of awesome sounding recordings - huge thanks to everything that you've done for this community throughout the years!
+
+This show was crazy. During the Circle Jerks set right before this one it started to POUR and there was lightning directly over the event. It was insane seeing big bolts of lightning behind the stage for the Circle Jerks set, I thought for sure that someone was going to get hit. I left their set a bit early to head over to the Smashing Pumpkins with my friend because we were not sure how crowded the main stage was going to get for the headliner. I set up shop along the rail right in front of the soundboard which was probably 40 or 50 meters back. The rain died off right before they came on but they started a few minutes early, presumably to get as much music in as they could in the event that they had to stop the festival early due to the weather. I had never seen SP before despite listening to their music for years and was blown away. They sounded tight, played an incredible mix of songs, and it was surreal seeing them with the stormy sky behind them. I thought their music fit the setting really well. Some of the songs that they played it seems have not been played in a long time, so definitely a unique set. "United States" in particular was mind blowing, 10 straight minutes of getting my face melted off. It did rain on and off throughout their set and I had to cover my hat with a bandana to prevent the rain from shorting the mics but from listening back you can't really tell.
+
+Share freely, enjoy, be nice to each other, and get the damn shot so we can all see live music once again!
+
+I run a Rage Against the Machine live archive at http://ratm.live . Please get in touch if you have any recordings of Rage Against the Machine!
+
+CHECKSUMS: 
+
+ee8bbcd90afc83425b474db129bc0bbe *smashing-pumpkins-2021-09-17-riot-fest-aud-16bit-t01-intro.flac
+dde7e452a68aea39556a75e4a1589d93 *smashing-pumpkins-2021-09-17-riot-fest-aud-16bit-t02-the-colour-of-love.flac
+91376a06b89a2da5bbcc131304d4630c *smashing-pumpkins-2021-09-17-riot-fest-aud-16bit-t03-bullet.flac
+f2b5481e12d6796ea94ae189ec08ad36 *smashing-pumpkins-2021-09-17-riot-fest-aud-16bit-t04-today.flac
+f8968f2afdfda78313015c03bdaa15f3 *smashing-pumpkins-2021-09-17-riot-fest-aud-16bit-t05-crush.flac
+935eb44670c07ee7584997876c7aab15 *smashing-pumpkins-2021-09-17-riot-fest-aud-16bit-t06-drown.flac
+7b5b03bbd15c6e25499d0395183e7645 *smashing-pumpkins-2021-09-17-riot-fest-aud-16bit-t07-quiet.flac
+6e9a8027c0eb9682d6e9082d793ba613 *smashing-pumpkins-2021-09-17-riot-fest-aud-16bit-t08-cyr.flac
+fceaf0925322cfe3fde0f229f6131c66 *smashing-pumpkins-2021-09-17-riot-fest-aud-16bit-t09-wyttch.flac
+a56ce6ffbc87173113a0ddec736fb8ee *smashing-pumpkins-2021-09-17-riot-fest-aud-16bit-t10-solara.flac
+5e0b252d7352cc1245622b64ba87d90c *smashing-pumpkins-2021-09-17-riot-fest-aud-16bit-t11-eye.flac
+e523a93bd49ccc7d726c64865877e233 *smashing-pumpkins-2021-09-17-riot-fest-aud-16bit-t12-ava-adore.flac
+27dcacc139855120dda08ab050f5f2af *smashing-pumpkins-2021-09-17-riot-fest-aud-16bit-t13-tonight-tonight.flac
+bd608344e2cc25482e17af1627d70f07 *smashing-pumpkins-2021-09-17-riot-fest-aud-16bit-t14-stand-inside-your-love.flac
+fc90c782032a2c6fe97a7aac045ee032 *smashing-pumpkins-2021-09-17-riot-fest-aud-16bit-t15-cherub-rock.flac
+2aadfc41726b00b8b51aed52daa70954 *smashing-pumpkins-2021-09-17-riot-fest-aud-16bit-t16-zero.flac
+43d464da0f4a36029bd429a500c56ad3 *smashing-pumpkins-2021-09-17-riot-fest-aud-16bit-t17-ramona.flac
+311607e2eff9bcf3d0e3e511ec4fe253 *smashing-pumpkins-2021-09-17-riot-fest-aud-16bit-t18-1979.flac
+79866b46e55fc61520e1d5105750cb83 *smashing-pumpkins-2021-09-17-riot-fest-aud-16bit-t19-disarm.flac
+5b518aa930841f89b1f081dcaea8200c *smashing-pumpkins-2021-09-17-riot-fest-aud-16bit-t20-shame.flac
+991dfb1d6ac7c5497be03112cfeb694a *smashing-pumpkins-2021-09-17-riot-fest-aud-16bit-t21-united-states.flac
+
+***DO WHATEVER YOU WANT WITH THIS RECORDING EXCEPT SELL IT, OR ELSE THE KARMA POLICE WILL GET YOU***

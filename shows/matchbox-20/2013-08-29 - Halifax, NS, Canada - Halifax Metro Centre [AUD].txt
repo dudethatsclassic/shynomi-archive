@@ -1,0 +1,60 @@
+Matchbox20_20130829_Halifax
+----------------------------------------------------------------------------------------------
+Matchbox 20
+Matchbox 20 August 29 2013 Halifax NS CAN
+Halifax Metro Centre, Halifax, NS, CAN, 20130829
+----------------------------------------------------------------------------------------------
+Track Listing
+01 - Intro
+02 - Parade
+03 - Bent
+04 - Disease
+05 - She's So Mean
+06 - How Far We've Come
+07 - 3am
+08 - Real World
+09 - If You're Gone
+10 - Long Day
+11 - I Will
+12 - Unwell
+13 - Radio
+14 - So Sad So Lonely
+15 - Englishtown
+16 - Bright Lights
+17 - Encore Break
+18 - Happy Birthday Kyle
+19 - Jumpin Jack Flash
+20 - Not Tonight Joesphine
+21 - Back 2 Good
+22 - Push
+23 - Outro
+----------------------------------------------------------------------------------------------
+MD5 Checksum
+6e7fad2b63b8b35d7d49413a8990e6d5 *01.flac
+ddb5ec027f67b6782edc475fa9adcfb5 *02.flac
+35827cf0d5393f00786be0fb3c44d293 *03.flac
+16f87e4f02bcd68f21808c35741e8f43 *04.flac
+e6f1b027fcd02b02d8d812ca3e7d1e16 *05.flac
+b6633f35cab031ff3eff3d4ceba50af2 *06.flac
+423a49cb5e75b66106e6536add514b12 *07.flac
+463ffba47af55e58a278d9a6fe446e36 *08.flac
+fc18c5f92cd29120ed93ef6189daf057 *09.flac
+8a8c7cbe5de5c45f2b3d6e4b54771367 *10.flac
+bea7273171216187e97be95fa728bb0f *11.flac
+14ccf5ff922161358650c096e56e3b8e *12.flac
+eb63e6b0917b7f901509326044c35696 *13.flac
+325625853bdc17d9975a27468eb35491 *14.flac
+105fea753e78a9466b2b562e0daf85fe *15.flac
+d7f80355e0ac817ed5692db28e1cea8e *16.flac
+1830c0a54611b4c8439a853e6726e30e *17.flac
+167c17a7efd27d7f11d0861bc0156661 *18.flac
+72d44b399ab53e5822adedaa1c140d0d *19.flac
+7c922febdef678bf151b0dcc8645abf3 *20.flac
+459a7e60c4f076c63b2ed2554cc3e6b7 *21.flac
+7527da8dde5632a1990c486bc12c7a14 *22.flac
+e19f04bcffb7201ab18b6b2958dcf6a7 *23.flac
+----------------------------------------------------------------------------------------------
+Source
+John Ramsey Signature Mics -> Battery Box with 150Hz Roll-off -> Tascam DR-05 -> 24 bit wav ->
+Audacity for click/pop removal, normalization and tracking -> 16 bit FLAC (highest quality)
+Seated in Lower Bowl, Section 23

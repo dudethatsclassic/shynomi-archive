@@ -1,0 +1,280 @@
+Metallica 
+
+
+1993-03-27
+Entertainment Centre
+Sydney, Australia
+
+
+Source: Unknown Aud (Unknown Gen. Cass)
+
+Transfer: Unknown Gen. Cass -> Denon Precision Audio Cassette Deck DRW-580 -> Cool Edit Pro 2.0 -> WAV -> Easy Cd Creator 5 Platium -> CDR(M) -> EAC(secure) -> WAV -> FLAC(lvl8)
+
+
+Disc 1:
+
+01. Ecstacy Of Gold -> Creeping Death
+02. Harvester of Sorrow
+03. Welcome Home (Sanitarium)
+04. Sad But True
+05. Wherever I May Roam
+06. Of Wolf & Man
+07. The Unforgiven
+08. Justice Medley
+09. Bass Solo -> Guitar Solo -> Through the Never
+10. For Whom the Bell Tolls
+
+
+Disc 2:
+
+01. Fade to Black
+02. Master of Puppets
+03. Seek & Destroy
+04. Whiplash
+05. Nothing Else Matters
+06. Am I Evil?
+07. Last Caress
+08. One
+09. Enter Sandman
+
+
+Notes:
+I got this directly from the person in australia that transfered his cassette. The setlist matches the first night in sydney perfectly, James also sings during Seek & destroy "scanin the scene in Sydney tonight" so this is 100% the correct show.
+
+                            
+                              ~ bubba420 ~
+
+
+
+
+FLAC Fingerprint:
+
+Disc 1:
+
+Track01.flac:d4f4088d114f51c35d71d5f36015fdeb
+Track02.flac:99f341a0e83db6e6f0dd11df600aedb8
+Track03.flac:669b9e9d9e497bbfde39eb27f8f52767
+Track04.flac:b0d2bc62c138d6eba1aa18538c3f8cf8
+Track05.flac:92f2792f575621bd4739dab011d5c590
+Track06.flac:64b42b6510103ec036ff3434464698d2
+Track07.flac:24a7b45ddf748d432fba242855995d68
+Track08.flac:b67f3e1ad457dfe7d0ff6a692b46514a
+Track09.flac:0ad105c9283ba5c897efe240e9f7103f
+Track10.flac:5c3f71a3de758e19b11049435d9622e4
+
+Disc 2:
+
+Track01.flac:81edd3d80b692f7b44c157f463a8e6a0
+Track02.flac:e5c95580c1dbf6585cde4034a4a69f58
+Track03.flac:4c61eecf1222131eb81a0fed3ee5f991
+Track04.flac:4f997bf97cfccd93addb919d6cccef63
+Track05.flac:7db30844633aacbb80d58ce9f27f3318
+Track06.flac:9b52e499e84ea9abb9889a05c2c3eee9
+Track07.flac:32e2c39a8aca3fc2b48421d9938b8d79
+Track08.flac:7d5b4925bb26f1c0aa6b618f03a20c7e
+Track09.flac:9e8c5757d37ac62daae444ba755a547c
+
+
+
+
+
+EAC LOG:
+
+EAC extraction logfile from 5. July 2007, 2:38 for CD
+Unknown Artist / Unknown Title
+
+Used drive  : LG      CD-RW CED-8120B   Adapter: 0  ID: 0
+Read mode   : Secure with NO C2, accurate stream, NO disable cache
+Combined read/write offset correction : 0
+Overread into Lead-In and Lead-Out : No
+
+Used output format : Internal WAV Routines
+                     44.100 Hz; 16 Bit; Stereo
+
+Other options      : 
+    Fill up missing offset samples with silence : Yes
+    Delete leading and trailing silent blocks : No
+    Normalize to 98
+    Installed external ASPI interface
+
+
+Track  1
+     Filename C:\My Documents\Metallica 1993-03-27 Sydney, Australia\Disc 1\Track01.wav
+
+     Peak level 88.2 %
+     Track quality 99.9 %
+     Copy CRC 36FDDFBE
+     Copy OK
+
+Track  2
+     Filename C:\My Documents\Metallica 1993-03-27 Sydney, Australia\Disc 1\Track02.wav
+
+     Peak level 54.1 %
+     Track quality 99.9 %
+     Copy CRC 63AFB942
+     Copy OK
+
+Track  3
+     Filename C:\My Documents\Metallica 1993-03-27 Sydney, Australia\Disc 1\Track03.wav
+
+     Peak level 60.7 %
+     Track quality 99.8 %
+     Copy CRC 0C7C0E47
+     Copy OK
+
+Track  4
+     Filename C:\My Documents\Metallica 1993-03-27 Sydney, Australia\Disc 1\Track04.wav
+
+     Peak level 56.8 %
+     Track quality 100.0 %
+     Copy CRC 60B686CF
+     Copy OK
+
+Track  5
+     Filename C:\My Documents\Metallica 1993-03-27 Sydney, Australia\Disc 1\Track05.wav
+
+     Peak level 59.7 %
+     Track quality 100.0 %
+     Copy CRC 2540707F
+     Copy OK
+
+Track  6
+     Filename C:\My Documents\Metallica 1993-03-27 Sydney, Australia\Disc 1\Track06.wav
+
+     Peak level 54.8 %
+     Track quality 100.0 %
+     Copy CRC 415C57E9
+     Copy OK
+
+Track  7
+     Filename C:\My Documents\Metallica 1993-03-27 Sydney, Australia\Disc 1\Track07.wav
+
+     Peak level 60.7 %
+     Track quality 99.9 %
+     Copy CRC CC5376FE
+     Copy OK
+
+Track  8
+     Filename C:\My Documents\Metallica 1993-03-27 Sydney, Australia\Disc 1\Track08.wav
+
+     Peak level 59.4 %
+     Track quality 100.0 %
+     Copy CRC D87DE410
+     Copy OK
+
+Track  9
+     Filename C:\My Documents\Metallica 1993-03-27 Sydney, Australia\Disc 1\Track09.wav
+
+     Peak level 52.3 %
+     Track quality 100.0 %
+     Copy CRC 5E451AEC
+     Copy OK
+
+Track 10
+     Filename C:\My Documents\Metallica 1993-03-27 Sydney, Australia\Disc 1\Track10.wav
+
+     Peak level 53.2 %
+     Track quality 100.0 %
+     Copy CRC 459615FA
+     Copy OK
+
+No errors occured
+
+
+End of status report
+
+
+EAC extraction logfile from 5. July 2007, 3:38 for CD
+Unknown Artist / Unknown Title
+
+Used drive  : LG      CD-RW CED-8120B   Adapter: 0  ID: 0
+Read mode   : Secure with NO C2, accurate stream, NO disable cache
+Combined read/write offset correction : 0
+Overread into Lead-In and Lead-Out : No
+
+Used output format : Internal WAV Routines
+                     44.100 Hz; 16 Bit; Stereo
+
+Other options      : 
+    Fill up missing offset samples with silence : Yes
+    Delete leading and trailing silent blocks : No
+    Normalize to 98
+    Installed external ASPI interface
+
+
+Track  1
+     Filename C:\My Documents\Metallica 1993-03-27 Sydney, Australia\Disc 2\Track01.wav
+
+     Peak level 59.8 %
+     Track quality 100.0 %
+     Copy CRC 1064EFEC
+     Copy OK
+
+Track  2
+     Filename C:\My Documents\Metallica 1993-03-27 Sydney, Australia\Disc 2\Track02.wav
+
+     Peak level 55.3 %
+     Track quality 100.0 %
+     Copy CRC BBECCEFC
+     Copy OK
+
+Track  3
+     Filename C:\My Documents\Metallica 1993-03-27 Sydney, Australia\Disc 2\Track03.wav
+
+     Peak level 65.0 %
+     Track quality 99.9 %
+     Copy CRC 7AA92293
+     Copy OK
+
+Track  4
+     Filename C:\My Documents\Metallica 1993-03-27 Sydney, Australia\Disc 2\Track04.wav
+
+     Peak level 77.8 %
+     Track quality 99.9 %
+     Copy CRC 9E0266AA
+     Copy OK
+
+Track  5
+     Filename C:\My Documents\Metallica 1993-03-27 Sydney, Australia\Disc 2\Track05.wav
+
+     Peak level 56.2 %
+     Track quality 99.9 %
+     Copy CRC 73CA4CF0
+     Copy OK
+
+Track  6
+     Filename C:\My Documents\Metallica 1993-03-27 Sydney, Australia\Disc 2\Track06.wav
+
+     Peak level 52.6 %
+     Track quality 99.9 %
+     Copy CRC 7BD30FBA
+     Copy OK
+
+Track  7
+     Filename C:\My Documents\Metallica 1993-03-27 Sydney, Australia\Disc 2\Track07.wav
+
+     Peak level 50.7 %
+     Track quality 99.8 %
+     Copy CRC 4B5943AC
+     Copy OK
+
+Track  8
+     Filename C:\My Documents\Metallica 1993-03-27 Sydney, Australia\Disc 2\Track08.wav
+
+     Peak level 84.3 %
+     Track quality 100.0 %
+     Copy CRC FEFA46FF
+     Copy OK
+
+Track  9
+     Filename C:\My Documents\Metallica 1993-03-27 Sydney, Australia\Disc 2\Track09.wav
+
+     Peak level 85.9 %
+     Track quality 99.9 %
+     Copy CRC 8E7A284F
+     Copy OK
+
+No errors occured
+
+
+End of status report

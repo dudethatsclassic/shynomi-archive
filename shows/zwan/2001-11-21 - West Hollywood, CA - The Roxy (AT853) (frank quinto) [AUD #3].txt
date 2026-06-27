@@ -1,0 +1,96 @@
+Index of /Bronfman
+
+		ZWAN
+
+		November 21
+		Roxy
+		9009 Sunset Blvd
+		Los Angeles, CA 90069
+		310-278-9457
+		On-sale: Nov. 2
+
+
+	01 - Intro
+	02 - Chrysanthenum
+	03 - Never Give Up
+	04 - El Sol
+	05 - The Empty Sea
+	06 - Glorious
+	07 - Cast A Stone
+	08 - Don't Let Me Down
+	09 - Jesus I
+	10 - The Shining Path
+	11 - What Have They Done To Me
+	12 - Sorrow
+	13 - My Life + Times
+	14 - And So I Died of a Broken Heart
+	approx. time: 78 minutes
+
+	Source info: Check back later...
+
+	Thanks to the Quintman for oh so gracefully submitting his recording to the 
+	eager public!
+
+	Please heed his request, and don't put mp3s up on the net!
+
+	Be blissed
+	Jeroen
+
+	Note to early downloaders: title to track 13 has been changed.
+
+ Name                                                   Last modified       Size  Description
+
+ Parent Directory                                       27-Nov-2001 01:23      -  
+ 011121-Zwan-Q2K-01-Intro.shn                           26-Nov-2001 11:30   5.1M  
+ 011121-Zwan-Q2K-02-Chrysanthenum.shn                   26-Nov-2001 10:12  26.8M  
+ 011121-Zwan-Q2K-03-Never Give Up.shn                   26-Nov-2001 10:14  23.8M  
+ 011121-Zwan-Q2K-04-El Sol.shn                          26-Nov-2001 10:15  22.9M  
+ 011121-Zwan-Q2K-05-The Empty Sea.shn                   26-Nov-2001 10:17  27.2M  
+ 011121-Zwan-Q2K-06-Glorious.shn                        26-Nov-2001 10:19  34.0M  
+ 011121-Zwan-Q2K-07-Cast A Stone.shn                    26-Nov-2001 10:21  44.6M  
+ 011121-Zwan-Q2K-08-Don't Let Me Down.shn               26-Nov-2001 10:23  26.3M  
+ 011121-Zwan-Q2K-09-Jesus I.shn                         26-Nov-2001 10:28  76.1M  
+ 011121-Zwan-Q2K-10-The Shining Path.shn                26-Nov-2001 10:30  32.5M  
+ 011121-Zwan-Q2K-11-What Have They Done To Me.shn       26-Nov-2001 11:27  25.0M  
+ 011121-Zwan-Q2K-12-Sorrow.shn                          26-Nov-2001 10:43  26.6M  
+ 011121-Zwan-Q2K-13-My Life + Times.shn                 26-Nov-2001 11:25  25.4M  
+ 011121-Zwan-Q2K-14-And So I Died of a Broken Heart.shn 26-Nov-2001 11:29  17.4M  
+ 011121-Zwan-Q2K-Checksum.md5                           27-Nov-2001 00:52     1k  
+ 011121-Zwan-Q2K-Info.txt                               27-Nov-2001 00:51     1k  K00L +3x+ f1l3 4 K00L P30pl3
+
+
+
+
+Apache/1.3.20 Server at nspaa.student.utwente.nl Port 80
+
+ Zwan 
+11/21/01 
+The Roxy Theatre
+Taper: Frank Quinto
+
+Source: AT853-->SP Battery Box/Bass rolloff-->Sharp MD-MS722/Sharp MD-SR60
+
+Conversion: Sony MDS-JB920 -> Optical Cable -> Phillips Dual Deck CD-RW
+
+SHN Conversion: Frank Quinto, CD->EAC->SHN
+
+
+1. Intro
+2. Chrysanthenum
+3. Never Give Up
+4. El Sol
+5. The Empty Sea
+6. Glorious
+7. Cast A Stone
+8. Don't Let Me Down [The Beatles]
+9. Jesus, I
+10. The Shining Path
+11. What Have They Done To Me
+12. Sorrow
+13. My Live And Times
+14. And So I Died of a Broken Heart
+
+
+Enjoy.
+Frank 
+

@@ -1,0 +1,147 @@
+Charlie Parker Quintet
+11-XX-1947
+Argyle Show Lounge
+Chicago, Illinois
+
+Project ID - 83
+
+Source: Audience Recording
+Lineage: AUdience Recording > ?? > Philology Volume 14/62 > ripped with soundforge > 
+wave > Unknown editing (possible re-indexing, noise reduction, EQ, normalization, 
+speed-correction by Peter Losin as needed) > cd (Peter Losin's Archive) > cd duplicated 
+(burner to burner) > eac > wave > flac (lvl 8 )
+
+
+Miles Davis (tpt); Charlie Parker (as); Irving "Duke" Jordan (p); 
+Tommy Potter (b); Max Roach (d)
+
+disc 1
+
+d1t01. I Got Rhythm/
+d1t02. /Cool Blues/
+d1t03. /Ornithology/
+d1t04. Dizzy Atmosphere/
+d1t05. /Wahoo/ > 
+d1t06. /Wahoo/
+d1t07. Groovin' High/
+d1t08. /I Can't Get Started/ 
+d1t09. /I Can't Get Started/   
+ 
+-------------------------------------------------------
+
+Notes:
+
+- d1t01 is cut at the end
+
+- d1t02 is a fragment missing both the start and end
+
+- d1t03 is cut at the beginning and the end. 
+
+- d1t04 is cut at the end
+
+- d1t05 is a fragment missing the start and finish
+
+- d1t06 is an additional fragment for "Wahoo" missing the start and finish
+
+- d1t07 is cut at the end
+
+- d1t08 is a fragment missing both the start and finish
+
+- d1t09 is an additional fragment of "I can't get started" missing the start and finish
+
+- This recording not for the casual listener. This is one of those that is definetely 
+for completists only. There are more flaws to this than I can list, but it is a 
+piece of history and is worth preserving none the less. 
+
+- Thanks to Peter Losin for contributing this source source. http://www.plosin.com/ 
+
+- "Very fragmentary -- edited to Parker solos for the most part. These may be dubs of 
+wire recordings; fidelity is very poor throughout."- Credit to Peter Losin, 
+http://www.plosin.com/
+
+- "Philology W 844 contains 22 titles purporting to be from this date, but I'm skeptical. 
+First, the trumpet player sounds like Kenny Dorham, not Davis. Second, Frank Loesser's 
+tune "On a Slow Boat to China" was not copyrighted until 1948, and Parker's "Barbados" 
+was not recorded in the studio until the Savoy date on September 18, 1948. It's very 
+unusual for a Parker original to appear in the live repertoire before it has been 
+recorded. Third, Parker's quotations and his playing (especially during his solo on the 
+second "Slow Boat to China") sound like 1949, not 1947. The Parker Quintet (with Dorham, 
+Haig, Potter, and Roach, and guest vocalist Arthur Daniels) were booked for two weeks 
+at Chicago's Pershing Hotel Ballroom (March 28-April 10, 1949), and my guess is that 
+those 22 tunes were recorded during this gig. If so, Davis was half a country away in 
+New York at the Royal Roost and Capitol Recording Studios." - Credit to Peter Losin, 
+http://www.plosin.com/
+
+- QC done by Bgreen
+
+md5
+d070fba6172c82fe2af6f5455d7057d6 *md1947-11-XX.aud.LL83.d1t01.flac
+200c567f92c3e36790edbb099c0c5071 *md1947-11-XX.aud.LL83.d1t02.flac
+63d03067e7d09400b04aa1a0c4547094 *md1947-11-XX.aud.LL83.d1t03.flac
+7be99353cbbfa9e6fc4353c9c74d80ca *md1947-11-XX.aud.LL83.d1t04.flac
+e2468174d7e68e6e19db773badd9c98b *md1947-11-XX.aud.LL83.d1t05.flac
+4fc88c8de386c9d5aa292b98a02de4e8 *md1947-11-XX.aud.LL83.d1t06.flac
+46e8ccebf9d3eff820b816254db745eb *md1947-11-XX.aud.LL83.d1t07.flac
+6ae0b434d82630f89991d7b496feb934 *md1947-11-XX.aud.LL83.d1t08.flac
+58d8fc245bb608cfb6172b7549a0fe3e *md1947-11-XX.aud.LL83.d1t09.flac
+
+ffp
+md1947-11-XX.aud.LL83.d1t01.flac:32c6bbf667a1f6c564fbbc1fe3a1e34c
+md1947-11-XX.aud.LL83.d1t02.flac:84e3f48631fe5154b4c072ea8295ca08
+md1947-11-XX.aud.LL83.d1t03.flac:0f52cdbb8e7c61b9ed2894beb81ac97b
+md1947-11-XX.aud.LL83.d1t04.flac:bc66d6e253b44e5afdf933302e4acb29
+md1947-11-XX.aud.LL83.d1t05.flac:05d3fade449e14b474684b952f0fe122
+md1947-11-XX.aud.LL83.d1t06.flac:933e937104a2d4671d89d9047732b8c4
+md1947-11-XX.aud.LL83.d1t07.flac:e12a6f4f21b90616bf2585a0505d208a
+md1947-11-XX.aud.LL83.d1t08.flac:674b76c63024fdc829eb687d45d6f168
+md1947-11-XX.aud.LL83.d1t09.flac:e3e7c7d279432e1fac9eb9c545099ce0
+
+st5 
+32c6bbf667a1f6c564fbbc1fe3a1e34c  [shntool]  md1947-11-XX.aud.LL83.d1t01.flac
+84e3f48631fe5154b4c072ea8295ca08  [shntool]  md1947-11-XX.aud.LL83.d1t02.flac
+0f52cdbb8e7c61b9ed2894beb81ac97b  [shntool]  md1947-11-XX.aud.LL83.d1t03.flac
+bc66d6e253b44e5afdf933302e4acb29  [shntool]  md1947-11-XX.aud.LL83.d1t04.flac
+05d3fade449e14b474684b952f0fe122  [shntool]  md1947-11-XX.aud.LL83.d1t05.flac
+933e937104a2d4671d89d9047732b8c4  [shntool]  md1947-11-XX.aud.LL83.d1t06.flac
+e12a6f4f21b90616bf2585a0505d208a  [shntool]  md1947-11-XX.aud.LL83.d1t07.flac
+674b76c63024fdc829eb687d45d6f168  [shntool]  md1947-11-XX.aud.LL83.d1t08.flac
+e3e7c7d279432e1fac9eb9c545099ce0  [shntool]  md1947-11-XX.aud.LL83.d1t09.flac
+
+shntool
+length     expanded size   cdr  WAVE problems filename
+     2:21.16       24910076    ---   --   ---xx   md1947-11-XX.aud.LL83.d1t01.flac
+     0:27.62        4908668    ---   --   ---xx   md1947-11-XX.aud.LL83.d1t02.flac
+     2:17.50       24284444    ---   --   ---xx   md1947-11-XX.aud.LL83.d1t03.flac
+     2:55.02       30874748    ---   --   ---xx   md1947-11-XX.aud.LL83.d1t04.flac
+     1:25.52       15116348    ---   --   ---xx   md1947-11-XX.aud.LL83.d1t05.flac
+     0:59.07       10424108    ---   --   ---xx   md1947-11-XX.aud.LL83.d1t06.flac
+     1:37.11       17136716    ---   --   ---xx   md1947-11-XX.aud.LL83.d1t07.flac
+     0:47.48        8403740    ---   --   ---xx   md1947-11-XX.aud.LL83.d1t08.flac
+     0:39.11        6905516    ---   --   ---xx   md1947-11-XX.aud.LL83.d1t09.flac
+    13:30.34      142964364 B                     (totals for 9 files, 0.5395 overall 
+compression ratio)
+
+spectral analysis from TLH
+md1947-11-XX.aud.LL83.d1t01.wav:  track looks like CDDA with probability 100%
+md1947-11-XX.aud.LL83.d1t02.wav:  track looks like CDDA with probability 100%
+md1947-11-XX.aud.LL83.d1t03.wav:  track looks like CDDA with probability 100%
+md1947-11-XX.aud.LL83.d1t04.wav:  track looks like CDDA with probability 99%
+md1947-11-XX.aud.LL83.d1t05.wav:  track looks like CDDA with probability 99%
+md1947-11-XX.aud.LL83.d1t06.wav:  track looks like CDDA with probability 100%
+md1947-11-XX.aud.LL83.d1t07.wav:  track looks like CDDA with probability 100%
+md1947-11-XX.aud.LL83.d1t08.wav:  track looks like CDDA with probability 100%
+md1947-11-XX.aud.LL83.d1t09.wav:  track looks like CDDA with probability 100%
+
+old ffp  
+01 - Track01.flac:32c6bbf667a1f6c564fbbc1fe3a1e34c
+02 - Track02.flac:84e3f48631fe5154b4c072ea8295ca08
+03 - Track03.flac:0f52cdbb8e7c61b9ed2894beb81ac97b
+04 - Track04.flac:bc66d6e253b44e5afdf933302e4acb29
+05 - Track05.flac:05d3fade449e14b474684b952f0fe122
+06 - Track06.flac:933e937104a2d4671d89d9047732b8c4
+07 - Track07.flac:e12a6f4f21b90616bf2585a0505d208a
+08 - Track08.flac:674b76c63024fdc829eb687d45d6f168
+09 - Track09.flac:e3e7c7d279432e1fac9eb9c545099ce0
+
+
+ 

@@ -1,0 +1,90 @@
+Local H
+May 12, 2008
+The Beat Kitchen
+Chicago, IL
+
+****************************** 16-bit/44.1kHz version ******************************
+************************** 24-bit/48kHz version available **************************
+
+Source:         DPA 4022 > Oade Warm Mod Fostex FR-2LE (@ 24-bit/48kHz) 
+Lineage:        Oade Warm Mod Fostex FR-2LE > USB 2.0 > Sound Forge v8.0 > 
+                CD Wave v1.93.3 > FLAC Frontend v1.7.1 > .flac (Level 8) 
+Location:       20' from right stack, elevated 8' on stand  
+                Mic configuration: ORTF with shockmount & windscreens
+
+Taped & Transferred by James Bonaiuto <cd2go@hotmail.com>
+LMA Upload by Charles Dewey Cole, IV <live2cd@hotmail.com>
+
+------------------------------------------------------------------------------------
+Disc 1 of 2:                                                 (54:02.09)
+------------------------------------------------------------------------------------
+01. Intro                                                    (01:07.71)
+02. Creature Instrumental                                    (01:28.74)
+03. Hello, Everyone                                          (05:51.64)
+04. Payback Is A Mother                                      (04:37.17)
+05. Money Shot                                               (03:34.27)
+06. Lead Pipe Cinch *                                        (03:56.74)
+07. Summer Movies                                            (03:48.61)
+08. Bigger                                                   (03:56.05)
+09. Stoner                                                   (03:47.24)
+10. Stick To What You Know                                   (03:20.05)
+11. Tag Along                                                (03:15.40)
+12. Lazy Crazy                                               (03:57.62)
+13. Talking Smack                                            (03:12.08)
+14. Halcion Daze                                             (03:03.53)
+15. Congressman                                              (05:03.24)
+------------------------------------------------------------------------------------
+Disc 2 of 2:                                                 (35:10.47)
+------------------------------------------------------------------------------------
+01. ~Encore~                                                 (03:45.65)
+02. No Fun                                                   (04:18.25)
+03. President Forever                                        (03:22.45)
+04. Cooler Heads                                             (05:06.58)
+05. I Just Want Something To Do ^                            (02:42.44)
+06. Birth, School, Work, Death #                             (04:23.21)
+07. Fuck Yeah, That Wide %                                   (11:31.14)
+------------------------------------------------------------------------------------
+Notes:
+
+* = Original version of All The Kids Are Right with alternate lyrics 
+^ = Originally Recorded by The Ramones
+# = Originally Recorded by The Godfathers
+% = Based on lyrics of Kill All Hippies, Originally Recorded by Primal Scream; 
+    segues into Goodnight, Originally Recorded by Cheap Trick 
+
+------------------------------------------------------------------------------------
+Sound Forge v8.0 Notes:
+
+- Normalized peak level to -1dB (left & right independently)
+- Faded I/O at beginning/end of show
+- Resample: Interpolation accuracy @ 4 with anti-alias filter
+- Dither: Triangular   Noise shaping: Equal loudness contour
+
+------------------------------------------------------------------------------------
+FLAC Fingerprint:
+
+localh2008-05-12d1t01.dpa4022.fr2le.flac:f125d621ba67dcf6e58b2bb2d7cbfb0a
+localh2008-05-12d1t02.dpa4022.fr2le.flac:d770008ade78a9decc6eab949d8da83e
+localh2008-05-12d1t03.dpa4022.fr2le.flac:3cae22dec587fb7ab0cdfaffafb6e08a
+localh2008-05-12d1t04.dpa4022.fr2le.flac:ac10e431d41b08a6cfabac7dbb85b897
+localh2008-05-12d1t05.dpa4022.fr2le.flac:feea4d3725fe66c05e6c534e67491820
+localh2008-05-12d1t06.dpa4022.fr2le.flac:621d555024a729bb4155afe0f52f9f8c
+localh2008-05-12d1t07.dpa4022.fr2le.flac:96c0605f13228bb9acc5dc88d9261c1e
+localh2008-05-12d1t08.dpa4022.fr2le.flac:6001838c5e594e9c8126ad2c7aa0aa20
+localh2008-05-12d1t09.dpa4022.fr2le.flac:d90e84dbb8d84ea5352d0a43f37e8e59
+localh2008-05-12d1t10.dpa4022.fr2le.flac:087fa326cab9498e16aafa065c7a3f29
+localh2008-05-12d1t11.dpa4022.fr2le.flac:1cda7cf48a63836ca39cbaed1fd573e8
+localh2008-05-12d1t12.dpa4022.fr2le.flac:b37540b4f20ddc297e9aeeacc09b7bf5
+localh2008-05-12d1t13.dpa4022.fr2le.flac:aae57f2267937dbe90c003be96889a1a
+localh2008-05-12d1t14.dpa4022.fr2le.flac:d3c3fbbbbfc48072b9d6f032f0e112e6
+localh2008-05-12d1t15.dpa4022.fr2le.flac:dafb5e124bc7516c727db4690197d04b
+localh2008-05-12d2t01.dpa4022.fr2le.flac:5a865c9ed88f65dea2b81e7ae6643e26
+localh2008-05-12d2t02.dpa4022.fr2le.flac:6e7c90913b2e99d908250e1f751b0b93
+localh2008-05-12d2t03.dpa4022.fr2le.flac:4972b5169c68a51d95e08c0f474e18d1
+localh2008-05-12d2t04.dpa4022.fr2le.flac:43e3012731cd433ac37910b8136b4bf9
+localh2008-05-12d2t05.dpa4022.fr2le.flac:25c397b51ed3933ac49864a59c0e3f90
+localh2008-05-12d2t06.dpa4022.fr2le.flac:44388c051bec540f8238cb7d4475ead3
+localh2008-05-12d2t07.dpa4022.fr2le.flac:f377bd231e484f7c8c1bacd03be75cf4
+
+------------------------------------------------------------------------------------
+For more info on Local H, please visit: www.localh.com

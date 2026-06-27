@@ -1,0 +1,114 @@
+Metallica
+Nassau Coliseum, Uniondale, NY
+March 8, 1989
+
+Source : Liberated Sanitarium Double LP (After Hours Records)
+
+Transfer : Turnable > rca cables > JVC XL-R2010 CD-RW (16/44) (transferred Feb 2006)
+
+Editing : Sound Forge (CD extract, tracking & volume) > Wave > TLH (sbe aligned) Flac 8
+
+Traders Den - Oct. 12, 2021
+
+Transferred & Tracked by kingrue upload #3274
+=====================================================
+
+Here's a Metallica source I didn't see on the TTD tracker.
+
+I own the vinyl for this and transferred this many years ago.
+
+I can't remember what brand of turntable i used in 2006,  (i don't have it anymore).
+
+I had to pitch this up +1% and manually scrub down some of the needle pops.
+
+The album was very clean with almost No surface noise.  I would consider this an average audience recording.
+
+I haven't heard the other sources, but considering where the tape breaks are, this vinyl source seems to be different.
+
+Does anybody have the video sources they can share here ?
+
+I've included scans of the album artwork in the folder.
+
+This version is missing the into music The Ecstasy of Gold and the final song Breadfan.
+
+
+Band line-up
+James Hetfield - vocals, guitar
+Kirk Hammett - guitar
+Jason Newsted - bass
+Lars Ulrich - drums
+
+Total Time = 01:56:13
+
+Side A & B
+xx The Ecstasy of Gold
+01 Blackened
+02 For Whom the Bell Tolls
+03 Welcome Home (Sanitarium)
+04 Four Horsemen
+05 Harvester of Sorrow (fade out)
+-- tape break --
+06 Eye of the Beholder (fade in)
+07 Jason's Bass Solo
+08 Master of Puppets -- (tape flip @ 1:21)
+09 One
+
+Side C & D
+10 Seek And Destroy
+11 ...And Justice For All
+12 How Many More Times > Black Night
+13 Creeping Death
+14 Fade to Black -- (tape change @ 4:31)
+15 Kirk's solo (incl. Little Wing)
+16 Battery
+-- tape break --
+17 Jammin', Run to the Hills, Helpless
+18 Last Caress
+19 Am I Evil?
+20 Whiplash
+xx Breadfan
+
+=============================
+
+contrast clause : Different Versions/Sources
+http://www.thetradersden.org/forums/showthread.php?t=134617
+
+http://www.thetradersden.org/forums/showthread.php?t=134537
+
+Also 2 Audience Videos (no torrents)
+Aud (3rd gen) > DVD 1st Source, WVMonster
+Aud (Low/Mid) > DVD 2nd Source
+
+===============================
+
+
+
+No errors occured.
+
+
+01 Blackened.flac:dd3dc69cf0d12c9b26d47b3dc29c006c
+02 For Whom the Bell Tolls.flac:72aeea30a8a3c540af0ccf0f71343745
+03 Welcome Home (Sanitarium).flac:50a451b41883073d29a5fa527adc68ab
+04 Four Horsemen.flac:1360f0737eaefb0345cd2ed8d60a7ee4
+05 Harvester of Sorrow.flac:33ff7958f75d1ef8c11b94918c3a3d2d
+06 Eye of the Beholder.flac:0cb5616fe670aef280e27f10bd4d4dc8
+07 Jason's Bass Solo.flac:b9e67d4b4cf4c709bf0bfaa5b2c3f988
+08 Master of Puppets.flac:99fde82de9d4dd11297c30b4d7acd5bf
+09 One.flac:72f518bd6de649a285aa7c9746af1fa4
+10 Seek And Destroy.flac:b1df9ca757b5f84c8edf9f1687a606e5
+11 ...And Justice For All.flac:b61c2f34cd48174695e36aafe5660145
+12 How Many More Times-Black Night.flac:93bf9926f43abdc3ef7187e72ae8f15e
+13 Creeping Death.flac:6eba64df3900b22ddf34de1eeb3128ab
+14 Fade to Black.flac:efae3ed3fec8734173bd3e5bb0eaaa3a
+15 Kirk's Solo.flac:3fb4a5f8708be22ee122fd2989a33a9c
+16 Battery.flac:3b03ebc7a7e24ce508c83bf24fc2b2de
+17 Jammin'.flac:5e4246a0ee2fa46e5effae98a44086dd
+18 Last Caress.flac:8f287d968d00d728e3a5fb06737b3815
+19 Am I Evil.flac:dffed72c83ce340dc457b0475b5a23e1
+20 Whiplash.flac:c6d31222cbe17b9785c97278a7a7212c
+
+Checksum file saved to disk.
+
+No errors occured.
+
+

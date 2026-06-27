@@ -1,0 +1,27 @@
+Faith No More
+Alternative Nation
+Olympic Park, Melbourne, Australia
+16th April 1995
+
+Source: Unknown microphone > DAT > Unknown transfer > Tape
+Transfer: Tape > Pioneer CT-W205R > Gold RCA > Behringer Eurorack UB1002 > Gold RCA
+          > MAudio 2496 Audiophile > Audacity > CDWave > CDr > EAC (secure) > WAV > FLAC
+
+* I suspect the transfer from DAT causes most of the wavy sound in parts of this recording.
+
+01: Digging The Grave
+02: Be Aggressive
+03: Midlife Crisis
+04: The Real Thing
+05: Land Of Sunshine
+06: Evidence
+07: What A Day
+08: We Care A Lot
+09: Easy
+10: Introduce Yourself (start cut by taper? or transfer?)
+11: Get Out
+12: King For A Day
+13: Epic
+14: Ricochet
+15: The Gentle Art Of Making Enemies
+16: Take This Bottle

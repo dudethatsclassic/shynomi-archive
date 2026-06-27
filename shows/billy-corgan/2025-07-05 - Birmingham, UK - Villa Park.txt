@@ -1,0 +1,52 @@
+Billy Corgan
+5th July 2025
+Villa Park
+Birmingham, UK
+
+SOURCE (AUD#1)
+Internal Mics > H2 Zoom Recorder
+
+TRANSFER:
+H2 Zoom Recorder > Audacity, some clapping reduction, fading in/out, tracking -> WAV -> Traders little helper -> FLAC Level 8
+
+GENERATION:
+WAV(M) > FLAC
+
+LENGTH:
+10:41
+
+SETLIST:
+01. Breaking the Law
+02. Snowblind
+
+NOTES:
+Billy's performance as part of Supergroup B
+What: Back to the Beginning, a celebration of Black Sabbath and Ozzy Osbourne music. Audience Recording (AUD)
+When: July 5th, 2025 (2025-07-05)
+Where: Villa Park soccer stadium, Birmingham UK  (Oak Roam seat section, left side of stadium, about half-way down)
+
+I am still (over a week later) struggling with the reality that I was there!
+It was expensive.  But zero regrets! Wouldn't have missed it for the world!
+
+One of the reasons I wanted to be there was to witness the dedication to Randy Rhoads.
+IMO the fact that so much music was performed that Randy was the original guitar player on, was already quite the dedication.
+To my surprise there was a separate dedication done by Tom Morello, followed by a video segment by Kathy Rhoads.
+To my complete surprise and this is something that leaves a lot of question marks in my brain: This wasn't included in the stream!!!
+(01 under Ozzy Osbourne)
+The Osbournes have been claiming for decades that there is no more video footage with Randy Rhoads.  
+Kathy showed a short clip of evidence to the contrary. Maybe this is why it wasn't included.
+
+IMO others that have played an instrumental part in Ozzy's and Black Sabbath's success should have been mentioned as well.  (I know the list is longer)
+Like: Bob Daisley, Lee Kerslake, Tommy Aldridge, Brad Gillis, Dio, Vinnie Appice
+
+There were multiple schedules out there.  One said start at 1:00, another 1:30.  Result: I missed the first Mastodon song.
+There are 3 things I don't like about the Zoom H2 recorder: #1: It's super slow with file discovery on larger SD cards.  
+I used a 32GB card this day and it would take several minutes to power up.
+I ended up just leaving it on the whole time (I had 4 sets of batteries with me, so figured that should do the trick.  
+And it did) so I could just press record. Which brings me to #2: to start recording, you need to press record, and then press record again.  
+But you can't press it too soon or it won't start recording.  Which is what happened for Halestorm.
+And it's indirectry caused by #3: recorded is attached to the mics.  So, to check to see if it's recording, or to check the levels, 
+I need to take it out of its hiding place, which causes rubbing on the mesh covering the mics, which you would hear on the recording.
+
+RECORDED BY:
+enchantgy (enchantgy@hotmail.com) 

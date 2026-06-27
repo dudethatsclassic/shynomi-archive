@@ -1,0 +1,26 @@
+Linkin Park
+Knebworth Park, Knebworth, England
+2009-08-01
+
+FORMAT
+----------
+BDAV: 2.22 GiB, 21 min 50 s
+13.6 Mb/s, 1920*1080 (16:9), at 29.970 (30000/1001) FPS, AVC (Main@L4) (CABAC / 4 Ref Frames)
+384 kb/s, 48.0 kHz, 6 channels, AC-3 (Dolby Digital)
+
+TRACK LISTING
+----------
+01 New Divide
+02 Somewhere I Belong
+03 In the End
+04 Hands Held High
+05 Crawling
+06 One Step Closer
+
+LINEAGE
+----------
+DirecTV (DVB-S2)-->DirecTV HD DVR HR24-100 Satellite Receiver-->Hauppauge 1212 HD PVR-->YPbPr + S/PDIF-->ArcSoft TotalMedia Extreme [13.5mbps CBR/384kbps AC3]-->H.264 .TS-->BD Remux
+
+NOTES
+----------
+There has been no re-encoding of the original capture file, it is simply in a BluRay Disc container and ready to be burned if so desired.

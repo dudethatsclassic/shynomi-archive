@@ -1,0 +1,40 @@
+SMASHING PUMPKINS
+May 18, 1998
+Nulle Part Ailleurs, Cannes Festival
+Cannes, France
+
+DISC #1/1 (12:47)
+-----------------
+01) Interview (sort of)
+02) Ava Adore
+03) Perfect
+
+NOTES
+-----------------
+Has many cuts : interview, cut, some talking, cut (ads), introduction before the live show (few seconds cut), live show. Was edited (fades in and out) so that the cuts are smoother. Though, there is no cut during the songs nor between songs.
+The audio was not remastered, left as it was. Some crackle noise due to the age of the video and probably the way it was recorded.
+Note about the generation : as it is a live recording, some people may label this TV -> VHS(M). I prefer TV -> VHS(1).
+
+GENERATION
+-----------------
+TV -> VHS(1) -> WAV [96kHz @32bit] > WAV [44.1kHz @16bit] -> FLAC [Level 8]
+
+SOURCE (PRO)
+-----------------
+Professional TV broadcast (live).
+
+TRANSFER
+-----------------
+Samsung SV-640F VCR -> RCA to 1/4" TRS cables -> Echo Mia Midi analog-in -> Adobe Audition 1.5 -> CD Wave 1.93 beta -> FLAC Frontend 1.7.1
+
+MD5 FINGERPRINTS
+-----------------
+68e8dca2149e091965a8186d46504315 *smashingpumpkins1998-05-18d1t01.flac
+75820a45e7e381b603150daaa7382e47 *smashingpumpkins1998-05-18d1t02.flac
+8a79f5ad5f5397f6291b7a5030a6033c *smashingpumpkins1998-05-18d1t03.flac
+
+
+Transferred by Pierre Leroy.
+Many thanks to Mister Moutache !
+DO NOT ENCODE TO MP3. DO NOT SELL. DO NOT SMOKE.
+

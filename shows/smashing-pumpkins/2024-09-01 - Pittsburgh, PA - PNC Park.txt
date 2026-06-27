@@ -1,0 +1,58 @@
+Smashing Pumpkins
+September 1st 2025
+PNC Park
+Pittsburgh, PA, US
+
+SOURCE (AUD#1)
+Internal Mics > Google Pixel 3
+
+TRANSFER:
+Google Pixel 3 > PC > CD Wave Editor > Trader's Little Helper 2.8.4
+
+GENERATION:
+WAV(M) > FLAC
+
+LENGTH:
+62:00
+
+SETLIST:
+01. The Everlasting Gaze
+02. Doomsday Clock
+03. Zoo Station [U2]
+04. Today
+05. That Which Animates the Spirit
+06. Tonight, Tonight
+07. Ava Adore
+08. Disarm
+09. Bullet With Butterfly Wings
+10. Sighommi
+11. 1979
+12. Jellybelly
+13. Cherub Rock > Are You Gonna Go My Way [Lenny Kravitz] (tease)
+14. Zero > Love Gun [Kiss] (tease)
+
+NOTES:
+A massive thank you to the taper for sending this through to us for release  
+
+MD5 FINGERPRINTS:
+b29b0b61b63477eddb46be9f3632c55e *Smashing Pumpkins 2024-09-01 AUD1 t01 The Everlasting Gaze.flac
+3d5dce7317ea2211e1d29deff8b176de *Smashing Pumpkins 2024-09-01 AUD1 t02 Doomsday Clock.flac
+cb0d1910a2b23211bb6281a2c33cc9f9 *Smashing Pumpkins 2024-09-01 AUD1 t03 Zoo Station [U2].flac
+9121e89d1a717b8a9de36cebf24a6839 *Smashing Pumpkins 2024-09-01 AUD1 t04 Today.flac
+fd1d4f4c459604635065bd2cf4855bae *Smashing Pumpkins 2024-09-01 AUD1 t05 That Which Animates the Spirit.flac
+392d647fefa0275b8d7ae7d62f7032cf *Smashing Pumpkins 2024-09-01 AUD1 t06 Tonight, Tonight.flac
+296637aacdeba6a1ce49cbb3eac26aae *Smashing Pumpkins 2024-09-01 AUD1 t07 Ava Adore.flac
+6d6155dbbc3a6df463c3ecb9053322f4 *Smashing Pumpkins 2024-09-01 AUD1 t08 Disarm.flac
+6eedf76dfa58561014d66f80d48ceefd *Smashing Pumpkins 2024-09-01 AUD1 t09 Bullet With Butterfly Wings.flac
+703543ca6c2754d15a17070207712357 *Smashing Pumpkins 2024-09-01 AUD1 t10 Sighommi.flac
+d61428ad439b894aaa660f7088b8f436 *Smashing Pumpkins 2024-09-01 AUD1 t11 1979.flac
+d4fb809cafaa51fee742549c49c7769a *Smashing Pumpkins 2024-09-01 AUD1 t12 Jellybelly.flac
+0c5d25723298f2dacc1a5a3b81e5a29c *Smashing Pumpkins 2024-09-01 AUD1 t13 Cherub Rock.flac
+1c95551aa49f3987752ab3678f5e56d2 *Smashing Pumpkins 2024-09-01 AUD1 t14 Zero.flac
+
+RECORDED BY:
+Plankfan
+
+DISTRIBUTION:
+Spaldz, Nicholas Serra & Members of SPLRA
+2025-11-26

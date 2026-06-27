@@ -1,0 +1,44 @@
+Metallica
+January 22nd, 1993
+Wings Stadium, Kalamazoo, MI
+
+Master:
+B&K 4011's > Neumann BS48i-2 P.S. > Modified Sony TCD-D10 Pro
+Mics at 110^ ORTF
+by Mark Lamke
+
+Conversion:
+Tascam DA-20>Microtrack 24/96>WAV>Sound Studio 2.2.4>xACT 2.05>FLAC
+by Dave Mallick
+
+Disc 1 [75:33.49]
+01. Enter Sandman                [06:33.02]
+02. Creeping Death               [07:36.08]
+03. Harvester Of Sorrow          [06:47.41]
+04. Welcome Home (Sanitarium)    [07:11.21]
+05. Sad But True                 [06:08.25]
+06. Of Wolf And Man              [06:10.42]
+07. The Unforgiven               [06:59.59]
+08. Riff Mix/Solos/Jams          [24:18.59]
+09. Through The Never            [03:48.17]
+
+Disc 2 [75:58.51]
+01. For Whom The Bell Tolls      [05:29.05]
+02. Fade To Black                [08:13.32]
+03. Master Of Puppets            [03:42.21]
+04. Seek And Destroy             [16:28.05]
+05. Whiplash                     [05:00.73]
+06. E1: Nothing Else Matters     [06:04.52]
+07.     Wherever I May Roam      [09:13.47]
+08.     Am I Evil                [03:00.08]
+09.     Last Caress              [02:39.27]
+10.     One                      [08:33.05]
+11. E2: Fight Fire With Fire     [02:08.65]
+12.     Battery                  [05:25.11]
+
+Notes: 
+- d1t08 consists of an "...And Justice For All" riff mix, some James
+  speak, Jason's bass solo, a jam between Jason & Kirk, and Kirk's 
+  guitar solo.
+- DAT change between the main set and encore; tape also stopped between
+  E1 and E2. I faded out and back in in both cases.

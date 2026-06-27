@@ -1,0 +1,93 @@
+Miles Davis Quintet
+06-(21-29)-1969
+Blue Coronet Club
+New York, New York
+
+Project ID - LL144
+
+Source: Audience Recording
+Lineage: Audience Recording > ?? > Audio cassette (unknown gen) > Nakamichi DR-1 > 
+Audiophile 2496 > Soundforge > CD > EAC > MKW > SHN > WAV > Cool Edit Pro 
+(speed correction: +86 cents) > FLAC(8)
+
+Miles Davis (tpt); Wayne Shorter (ss, ts); Chick Corea (el-p); Dave Holland (b, el-b); 
+Jack DeJohnette (d)
+
+disc 1
+
+d1t01. /This
+d1t02. Agitation
+d1t03. No Blues 
+d1t04. Paraphernalia 
+ 
+-------------------------------------------------------
+
+Notes:
+
+- d1t01: The track starts cut and has some level issues and small dropouts throughout. 
+
+- The levels are much hotter in this source from LL145, Almost to the point of oversaturation at times causing 
+small dropouts and distorion. While the added clarity compared to LL145 is nice, I'm more partial to adding a 
+little volume to LL144 and not hearing the boomy bass and overpowering cymbals. I don't hear much of a speed 
+correction between this source and LL145 either so I'm guessing there is another source out there yet that 
+runs slow according to Peter's notes.  
+
+- "I'm not sure of the date of this music. It circulates with the date "April 1969," but 
+this date is pretty clearly wrong. There are two alternatives. The Quintet was booked 
+at the Coronet June 21-29, and again in October (probably October 6-12)." 
+- Credit to Peter Losin, http://www.plosin.com/
+
+- "The later engagement ended early when Davis was shot after the October 8 performance. 
+According to one report, "Miles Davis had appeared at the Blue Coronet Club October 8, 
+finishing his last set on the morning of October 9. He drove back to New York with the 
+lovely Marguerite Eskridge, 24, as a passenger. He pulled up in front of her house on 
+141 E. 13th St. at 4:30, when a cab drove up alongside the car and someone inside 
+fired. One of the bullets grazed Davis' side. The young woman was not injured." 
+After being treated at the hospital, Davis was booked for possession of marijuana. 
+As a result, remaining shows at the Blue Coronet were canceled. The Quintet was also 
+booked at Boston's Jazz Workshop (October 13-16), but these shows may have been canceled 
+as well." - Credit to Peter Losin, http://www.plosin.com/
+
+"My guess, based on the titles performed and the playing, is that these tunes are 
+from the early summer 1969, a very busy time for the Davis Quintet: Village Gate, 
+New York (April 25-26, May 23-24, and July 29-August 10); Plugged Nickel Club, Chicago 
+(June 4-14); Blue Coronet Club, Brooklyn (June 21-29); Morgan State Jazz Festival, Baltimore 
+(June 22); Newport Festival (July 4); Central Park, New York (July 7); Juan-les-Pins Festival, 
+Antibes (July 25-26); Rutgers University Stadium, New Brunswick (July 27); Sheraton Park Hotel, 
+French Lick (French Lick Jazz Festival) (July 31); The Spectrum, Philadelphia (August 15); 
+Grant Park Theater, Chicago (August 22); Crosley Field, Cincinnati (Ohio Jazz Festival) 
+(August 23)."- Credit to Peter Losin, http://www.plosin.com/
+
+- QC done by Bgreen
+
+md5
+629701a6f0ef7e117aa4d41372e15cd1 *md1969-06-(21-29)E.LL144.d1t01.flac
+c9ed11cec3f028f1440cef2c62b0c450 *md1969-06-(21-29)E.LL144.d1t02.flac
+b16de5b3b3c3902e4275780f6daa41b6 *md1969-06-(21-29)E.LL144.d1t03.flac
+45e4ff9c4e464b73dd548168d96504d1 *md1969-06-(21-29)E.LL144.d1t04.flac
+
+ffp
+md1969-06-(21-29)E.LL144.d1t01.flac:b712ea8ba354bf172e77beac7725a99e
+md1969-06-(21-29)E.LL144.d1t02.flac:fe072ddc8c76b717ef6e5ee2c39d736a
+md1969-06-(21-29)E.LL144.d1t03.flac:739f07b22677805b7b8c0e8861c765eb
+md1969-06-(21-29)E.LL144.d1t04.flac:aff2c0fa29657f082657a0bc9ead4578
+
+shntool
+length     expanded size   cdr  WAVE problems filename
+    10:46.64      114104972    ---   --   ---xx   md1969-06-(21-29)E.LL144.d1t01.flac
+    16:53.21      178742636    ---   --   ---xx   md1969-06-(21-29)E.LL144.d1t02.flac
+    15:49.16      167441276    ---   --   ---xx   md1969-06-(21-29)E.LL144.d1t03.flac
+     0:16.31        2895356    ---   --   ---xx   md1969-06-(21-29)E.LL144.d1t04.flac
+    43:45.57      463184240 B                     (totals for 4 files, 0.6350 overall compression ratio)
+
+spectral analysis from TLH
+md1969-06-(21-29)E.LL144.d1t01.wav:  track looks like CDDA with probability 99%
+md1969-06-(21-29)E.LL144.d1t02.wav:  track looks like CDDA with probability 87%
+md1969-06-(21-29)E.LL144.d1t03.wav:  track looks like CDDA with probability 42%
+md1969-06-(21-29)E.LL144.d1t04.wav:  track looks like CDDA with probability 87%
+
+old md5 
+629701a6f0ef7e117aa4d41372e15cd1 *miles1969-06-xx_show1_sc_t01.flac
+c9ed11cec3f028f1440cef2c62b0c450 *miles1969-06-xx_show1_sc_t02.flac
+b16de5b3b3c3902e4275780f6daa41b6 *miles1969-06-xx_show1_sc_t03.flac
+45e4ff9c4e464b73dd548168d96504d1 *miles1969-06-xx_show1_sc_t04.flac

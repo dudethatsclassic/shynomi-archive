@@ -1,0 +1,41 @@
+Local H - 2025-06-27, Milwaukee, WI
+
+Local H
+Miller Lite Oasis Stage
+Summerfest
+Milwaukee, WI
+2024-06-27
+
+TRACK LISTING 
+01 - All-Right (Oh, Yeah)
+02 - "Cha!" Said the Kitty
+03 - All the Kids Are Right
+04 - Turn the Bow
+05 - Fritz's Corner
+06 - Everyone Alive
+07 - California Songs
+08 - Eddie Vedder
+09 - The Misanthrope
+10 - Hands On the Bible
+11 - Buffalo Trace
+12 - Bound For the Floor
+
+FLAC FINGERPRINTS or MD5 checksum for the musical content only (*)
+01 - All-Right (Oh, Yeah).flac:fed69c83e30b3d1a88e6c78ed7958863
+02 - _Cha!_ Said the Kitty.flac:b674c35f205fa241032e2f4b5a5ea6ac
+03 - All the Kids Are Right.flac:385c4f7856a829fcdebd516c6ca041ce
+04 - Turn the Bow.flac:08d67089f50f3d605ca3dbcca163bdc1
+05 - Fritz's Corner.flac:4e74d5a0d518bf0c01e66db8daebf0a1
+06 - Everyone Alive.flac:040e3365c6e9b2db7edd9fba626b447e
+07 - California Songs.flac:511f96c97fff39d073de0b9a62b61d61
+08 - Eddie Vedder.flac:293fab8feea0dd5732770b901f03f2be
+09 - The Misanthrope.flac:ac6d161e59704b24cfc0c1e979e631ed
+10 - Hands On the Bible.flac:ecbb7400d0e101c70a8c4657b16eae26
+11 - Buffalo Trace.flac:ff1705368ade9d1735983911926c9aee
+12 - Bound For the Floor.flac:b75bd10b892bbf364004a212e9b5b7e3
+
+AUD SOURCE 
+Shure mv88 -> iPhone Motive app wav -> split & amplified in Audacity -> flac
+
+Go see them live
+Go buy their albums

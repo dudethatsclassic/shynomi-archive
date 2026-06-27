@@ -1,0 +1,74 @@
+Beck
+San Jose Civic Auditorium
+San Jose, CA
+July 12th, 2005
+
+
+Source: Core-Sound Binaurals (w/bass roll-off)  > Sony MZ-RH10 (mic in/PCM) 
+Lineage: MZ-RH10 > WaveLab (slight EQ) > SoundForge (Tracking) > FLAC Frontend (level 5 w/verify) > FLAC
+Taped, Transfered, Seeded by: freeVia3@yahoo.com
+
+
+File Size: 498 MB (FLAC)  
+Total running time: 1:20:57
+
+
+Setlist:
+
+01. Black Tambourine
+02. Devil's Haircut
+03. Girl	
+04. Mixed Bizness
+05. Hell Yes
+06. Hotwax
+07. New Pollution
+08. Que Onda Guero
+09. Earthquake Weather
+10. Jackass
+11. Nobody's Fault But My Own
+12. Rental Car
+13. Loser
+14. Sexx Laws
+15. Emergency Exit
+16. Flaming Lips Cover
+17. San Jose Rain
+18. It's Getting Hot in Here
+19. Debra
+20. Golden Age
+21. Clap Hands
+22. Where It's At
+23. Encore Break
+24. E-Pro
+
+
+FLAC fingerprints:
+
+beck2005-07-12 (01) Black Tambourine.flac:8898eb1cf7635b6c34e34dded90833fd
+beck2005-07-12 (02) Devil's Haircut.flac:e517b14dde83603aaa28c8b1c3684bfb
+beck2005-07-12 (03) Girl.flac:18af4f4749553b098c112845ae65ff43
+beck2005-07-12 (04) Mixed Bizness.flac:754ca71d1415e51199cc13c5882ada54
+beck2005-07-12 (05) Hell Yes.flac:c2e56b75d732ae87b2482aba697ef940
+beck2005-07-12 (06) Hotwax.flac:1a056cf024ea7695059ec0584e5c0438
+beck2005-07-12 (07) New Pollution.flac:6e0bbae524b9d4257bc07632890e03f6
+beck2005-07-12 (08) Que Onda Guero.flac:15d012dee0494e76741c2bf65c175696
+beck2005-07-12 (09) Earthquake Weather.flac:013c95756fa52449d436275773eb8663
+beck2005-07-12 (10) Jackass.flac:c8341e8118adab8be526bbf89e97e3ab
+beck2005-07-12 (11) Nobody's Fault But My Own.flac:41e37f530623416a9cd2128b7d54bbaf
+beck2005-07-12 (12) Rental Car.flac:4122e769d09d1e691df79ae5e12e79dd
+beck2005-07-12 (13) Loser.flac:065abaa24ce12c7124861f39c878bf39
+beck2005-07-12 (14) Sexx Laws.flac:efe0102361d957c44d692fb86d67e35a
+beck2005-07-12 (15) Emergency Exit.flac:7b5b3f59ca23a76e860909935eabaf95
+beck2005-07-12 (16) Flaming Lips Cover.flac:392d595e82a8367c01f8a44d67551238
+beck2005-07-12 (17) San Jose Rain.flac:200e02bcb787ca1ed955a0ea080253a0
+beck2005-07-12 (18) It's Getting Hot in Here.flac:08bbe9b62d3b87e9a047fdef7bbab343
+beck2005-07-12 (19) Debra.flac:fc98e1c62b7dcfa538c4d2949386ebe9
+beck2005-07-12 (20) Golden Age.flac:5f1e9ad9b71cdf13cac3e8ec5194c2ad
+beck2005-07-12 (21) Clap Hands.flac:383b8096946a3d71a374936f2da6dd8a
+beck2005-07-12 (22) Where It's At.flac:65984c56b4ff59313bf745a50088a058
+beck2005-07-12 (23) Encore Break.flac:232a0944208b1c5aedeb1760016fc6f5
+beck2005-07-12 (24) E-Pro.flac:f636ea04b8385c950fcde2f5a7334e75
+
+Notes:
+
+Please do not convert to lossy.
+

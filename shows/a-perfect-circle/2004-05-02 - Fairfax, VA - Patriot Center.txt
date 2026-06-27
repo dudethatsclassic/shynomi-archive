@@ -1,0 +1,35 @@
+A Perfect Circle
+May 2, 2004
+Patriot Center
+Fairfax, VA
+
+Source: DPA 4021s (in hat) > Sound Devices MP2 > 1/8"-1/8" > Sony PCM-M1 @ 48 kHz, line in
+Location: Section 117, row AA
+Conversion: M1 > Oade Passive 7-pin > coaxial S/PDIF > Sek'd Prodif Plus > Wavelab 4.01, resampled from 48 kHz to 44.1 kHz in Sound Forge 6, tracks split in CD Wave, FLAC (level 8)
+
+Disc 1
+01 Vanishing                6:39.29
+02 Pet                      4:50.01
+03 The Hollow               3:09.42
+04 Magdelena                7:03.42
+05 Weak and Powerless       3:27.04
+06 Rose                     3:33.23
+07 Blue                     6:52.44
+08 Thinking Of You          5:03.35
+
+Disc 2
+01 A Stranger               3:23.52
+02 The Package              8:06.08
+03 3 Libras                 3:59.39
+04 The Nurse Who Loved Me   6:42.13
+05 Thomas*                  6:55.23
+06 The Outsider             4:39.31
+07 Halo                     6:09.20
+08 Judith                   4:59.32
+
+* with Dimitri from Burning Brides
+
+notes:
+Thanks for the loaned gear!
+
+compiled on 05/04/04

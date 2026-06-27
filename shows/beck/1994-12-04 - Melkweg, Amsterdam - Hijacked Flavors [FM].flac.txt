@@ -1,0 +1,167 @@
+Beck - 1994-12-04, Melkweg, Amsterdam, A, BRC TAP1, 53
+
+1. radio intro / Corvette Bummer
+2. Fume
+3. Fuckin' With My Head (Mountain Dew Rock)
+4. Thunderpeel
+5. Soul Suckin' Jerk
+6. Minus
+7. Casio (Good Stuff)
+8. Asshole
+9. It's All In Your Mind (solo acoustic)
+10. Loser
+11. Mutherfuker
+12. Nitemare Hippy Girl
+13. Blackhole
+14. Beercan / radio outro
+
+VPRO broadcast > tape > Maxell XL-II (first generation) > Sony TC-K679ES > NAD 7020i > A/V out > Sound Blaster Audigy Platinum > Cool Edit 2000 > CD Wave > CD-R > EAC v0.95pb5 (secure mode) > FLAC frontend v1.7.1.Etree edition (level 8) > FLAC
+================================================================================
+EAC extraction logfile from 2. January 2005, 12:36 for CD
+Beck / 1994-12-04
+
+Used drive  : HL-DT-STDVDRAM GSA-5120D   Adapter: 2  ID: 0
+Read mode   : Secure with C2, accurate stream, NO disable cache
+Combined read/write offset correction : 0
+Overread into Lead-In and Lead-Out : No
+
+Used output format : Internal WAV Routines
+                     44.100 Hz; 16 Bit; Stereo
+
+Other options      : 
+    Fill up missing offset samples with silence : Yes
+    Delete leading and trailing silent blocks : No
+    Native Win32 interface for Win NT & 2000
+
+
+Track  1
+     Filename C:\temp\Beck 1994-12-04 01.wav
+
+     Peak level 94.5 %
+     Track quality 100.0 %
+     Copy CRC D499054A
+     Copy OK
+
+Track  2
+     Filename C:\temp\Beck 1994-12-04 02.wav
+
+     Peak level 77.9 %
+     Track quality 100.0 %
+     Copy CRC 56ABB0BD
+     Copy OK
+
+Track  3
+     Filename C:\temp\Beck 1994-12-04 03.wav
+
+     Peak level 91.1 %
+     Track quality 100.0 %
+     Copy CRC 602084AE
+     Copy OK
+
+Track  4
+     Filename C:\temp\Beck 1994-12-04 04.wav
+
+     Peak level 72.4 %
+     Track quality 100.0 %
+     Copy CRC 2601607B
+     Copy OK
+
+Track  5
+     Filename C:\temp\Beck 1994-12-04 05.wav
+
+     Peak level 69.4 %
+     Track quality 100.0 %
+     Copy CRC 73361ACC
+     Copy OK
+
+Track  6
+     Filename C:\temp\Beck 1994-12-04 06.wav
+
+     Peak level 85.8 %
+     Track quality 99.8 %
+     Copy CRC 77935166
+     Copy OK
+
+Track  7
+     Filename C:\temp\Beck 1994-12-04 07.wav
+
+     Peak level 82.3 %
+     Track quality 100.0 %
+     Copy CRC 0C1CDEBD
+     Copy OK
+
+Track  8
+     Filename C:\temp\Beck 1994-12-04 08.wav
+
+     Peak level 53.0 %
+     Track quality 100.0 %
+     Copy CRC 57966F64
+     Copy OK
+
+Track  9
+     Filename C:\temp\Beck 1994-12-04 09.wav
+
+     Peak level 80.7 %
+     Track quality 100.0 %
+     Copy CRC 678E2BCE
+     Copy OK
+
+Track 10
+     Filename C:\temp\Beck 1994-12-04 10.wav
+
+     Peak level 95.2 %
+     Track quality 100.0 %
+     Copy CRC B2839C8F
+     Copy OK
+
+Track 11
+     Filename C:\temp\Beck 1994-12-04 11.wav
+
+     Peak level 87.3 %
+     Track quality 100.0 %
+     Copy CRC 70E44F0C
+     Copy OK
+
+Track 12
+     Filename C:\temp\Beck 1994-12-04 12.wav
+
+     Peak level 67.4 %
+     Track quality 100.0 %
+     Copy CRC 8A2D7E64
+     Copy OK
+
+Track 13
+     Filename C:\temp\Beck 1994-12-04 13.wav
+
+     Peak level 85.2 %
+     Track quality 100.0 %
+     Copy CRC 6CC003C0
+     Copy OK
+
+Track 14
+     Filename C:\temp\Beck 1994-12-04 14.wav
+
+     Peak level 95.3 %
+     Track quality 99.9 %
+     Copy CRC 7B5586A3
+     Copy OK
+
+No errors occured
+
+
+End of status report
+================================================================================
+Beck 1994-12-04 01.flac:b1b23d202d4135ee05954b8d60e03168
+Beck 1994-12-04 02.flac:73e313a3e3bbdcfadfc9991b2d61deb8
+Beck 1994-12-04 03.flac:b67c68b32ba98726544a9eb2990ed17f
+Beck 1994-12-04 04.flac:d47ae21af6bcf81a8f97a476c12e78a3
+Beck 1994-12-04 05.flac:a5c7cf93bad911c9e78ac5fb4ad3596c
+Beck 1994-12-04 06.flac:b4e9dc24231d1574639be64d7ec5d251
+Beck 1994-12-04 07.flac:3fd15beb03075154d194338413ade8fd
+Beck 1994-12-04 08.flac:3322e7bba2caaf5d9b98b68abe462b08
+Beck 1994-12-04 09.flac:732670beceeda44d29ea8681ea38335a
+Beck 1994-12-04 10.flac:10c19b7b42e9a8a19baeebe913393da3
+Beck 1994-12-04 11.flac:ed584fb1339c11bbb68b9bff4480b344
+Beck 1994-12-04 12.flac:a2b5ab5d2759340cf792986e524cfb7d
+Beck 1994-12-04 13.flac:d78c1951eda8155013380db1e27d51e0
+Beck 1994-12-04 14.flac:b31d16df8ed694e0245529c4fe6a7492

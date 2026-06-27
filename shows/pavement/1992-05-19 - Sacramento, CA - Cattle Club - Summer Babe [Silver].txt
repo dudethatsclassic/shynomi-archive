@@ -1,0 +1,56 @@
+Pavement
+
+
+Cattle Club
+Sacramento, CA
+May 19, 1992
+
+
+S:  Liberated SBD Bootleg (Summer Babe) > CDR(x)
+T:  CDR(x) > EAC > SHN > FLAC
+Terry Watts - http://db.etree.org/twatts
+
+
+1.  Loretta's Scars
+2.  No Life Singed Her
+3.  Trigger Cut
+4.  Baptist Blacktick
+5.  Debris Slide (slow version)
+6.  Zurich is Stained
+7.  Forklift
+8.  Feed 'em to the Lions (Linden)
+9.  Box Elder
+10.  Home
+11.  Perfume-V
+12.  Two States
+13.  Summer Babe
+
+
+Notes:
+
+Original EAC > SHN performed on Dec. 13, 2003 for my own archives.
+
+Files renamed, converted to FLAC, WAV MD5 edited, new FFP created
+on Feb. 22, 2009.  The Original SHN MD5 is listed below.
+
+Terry Watts
+
+
+
+
+The original SHN MD5:
+b9cbe6c0ff0fa145d6f6a0db72f5fcf2 *pavement1992-05-19eac-shn01.shn
+1e4ac243fe7b899a1eae182fc7399e47 *pavement1992-05-19eac-shn02.shn
+50bbde7b49e6fc172e42b1f2313e9ebe *pavement1992-05-19eac-shn03.shn
+6d614acf9694a9d94a17a039d0473a95 *pavement1992-05-19eac-shn04.shn
+d0c5e22a1aa98345d469c74c53e2473b *pavement1992-05-19eac-shn05.shn
+f9d01a94914a73fe01f3f92ad7b56700 *pavement1992-05-19eac-shn06.shn
+207ea99ba7f11115151f3ab579b242d5 *pavement1992-05-19eac-shn07.shn
+a147b70a4d89fd70d4d47aeca17c4bd0 *pavement1992-05-19eac-shn08.shn
+5675f68771475cf6dafbeeb1f5e499e2 *pavement1992-05-19eac-shn09.shn
+8bc62de1ffbf31510ffd55bbea3aeb41 *pavement1992-05-19eac-shn10.shn
+d2e95aa37aaa9613c5ea5e72c736a195 *pavement1992-05-19eac-shn11.shn
+8084a036f4451b9a734c28867075fcd4 *pavement1992-05-19eac-shn12.shn
+89d08bf2010750cdd180a871f8a48c13 *pavement1992-05-19eac-shn13.shn
+
+

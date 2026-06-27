@@ -1,0 +1,92 @@
+Miles Davis Quintet
+10-04-1964
+KB Hallen
+Copenhagen, Denmark
+
+Project ID - LL176
+
+Source: FM Broadcast
+Lineage: Danish Radio broadcast > ?? > disk 4 of The Fall 64 Miles tree > 
+Ripped with unknown software > wave > CDR > CDR > Flac
+
+Miles Davis (tpt); Wayne Shorter (ts); Herbie Hancock (p); Ron Carter (b); 
+Tony Williams (d)
+
+disc 1
+
+d1t01. All Of You > Autumn Leaves/
+d1t02. So What
+d1t03. Stella by Starlight/ 
+d1t04. Walkin' 
+d1t06. Joshua > The Theme
+ 
+-------------------------------------------------------
+
+Notes:
+
+-  d1t01: There are many occurances of static and digipops throughout this track. 
+Too many to list. The applause at the end of this track sounds very unnatural, 
+almost like it was spliced and faded in. It also sounds as though the track should 
+continue so I'm guessing autumn leaves is incomplete.
+
+- d1t02: There is some distortion present throughout this track. I'm assuming this 
+due to the fact it is sourced from a radio broadcast. Slight drop out at 2:16, 5:36
+6:14. Digi pop/ static at 8:30, 10:06, and 10:15 
+
+- d1t03: This track also has a lot of the same type of distortion and static heard 
+on the first two tracks.digi pop/static at :21,:46, 1:56,9:20, 11:29. Sounds as though 
+the last bars are missing from this track.
+
+- d1t04: This track also has a lot of the same type of distortion and static heard 
+on the first three tracks. Digi pop/static at 4:30, 5:22, 6:36, 6:45
+
+- d1t05: This track also has a lot of the same type of distortion and static heard 
+on the first four tracks.
+
+- There is a decent hiss on these. Lots of static/digipops and distortion. But it's 
+still a a bearable source. One point of interest, most of the appluase on this source
+really sound unatural. My guess is that most is editied in. 
+
+- Peter Losin has these tracked differently. I've left them as is. Peter has 
+(1) Autumn Leaves (2) So What (3) Stella by Starlight (4) Walkin' (5) All Of You
+(6) Joshua (7) The Theme. 
+
+
+- QC done by Bgreen
+
+md5
+214390f82b2fa5dcb403c391238675c8 *md1964-10-04.LL176.d1t01.flac
+03b2e0b8213fefef33d8f6a1256b55a1 *md1964-10-04.LL176.d1t02.flac
+87b2ad22b0d07ce51305693e6ea1a2a1 *md1964-10-04.LL176.d1t03.flac
+48a9c9a8c2afbd3d5bb70629bf8d690a *md1964-10-04.LL176.d1t04.flac
+a05cc390b0ad475425908c6c38951113 *md1964-10-04.LL176.d1t05.flac
+
+ffp
+md1964-10-04.LL176.d1t01.flac:212a069ce90b59c6ccaae5b2f67a6898
+md1964-10-04.LL176.d1t02.flac:ade02b9d2b0878cc8825c63066f1086b
+md1964-10-04.LL176.d1t03.flac:fcbed3502c7ad0f5d57a743a461a799e
+md1964-10-04.LL176.d1t04.flac:dee61a2f98d67fcf4f45b68206f3cad7
+md1964-10-04.LL176.d1t05.flac:639114b4d62cd6a18467cdc4c8f21b9d
+
+shntool
+length     expanded size   cdr  WAVE problems filename
+    23:48.38      251988620    ---   --   ---xx   md1964-10-04.LL176.d1t01.flac
+    11:32.55      122198204    ---   --   ---xx   md1964-10-04.LL176.d1t02.flac
+    13:40.00      144648044    ---   --   ---xx   md1964-10-04.LL176.d1t03.flac
+     9:13.62       97695068    ---   --   ---xx   md1964-10-04.LL176.d1t04.flac
+     8:15.07       87334508    ---   --   ---xx   md1964-10-04.LL176.d1t05.flac
+    66:30.12      703864444 B                     (totals for 5 files, 0.5014 overall compression ratio)
+
+spectral analysis from TLH
+md1964-10-04.LL176.d1t01.wav:  track looks like CDDA with probability 100%
+md1964-10-04.LL176.d1t02.wav:  track looks like CDDA with probability 100%
+md1964-10-04.LL176.d1t03.wav:  track looks like CDDA with probability 100%
+md1964-10-04.LL176.d1t04.wav:  track looks like CDDA with probability 99%
+md1964-10-04.LL176.d1t05.wav:  track looks like CDDA with probability 99%
+
+old md5 
+d04t01.flac:212a069ce90b59c6ccaae5b2f67a6898
+d04t02.flac:ade02b9d2b0878cc8825c63066f1086b
+d04t03.flac:fcbed3502c7ad0f5d57a743a461a799e
+d04t04.flac:dee61a2f98d67fcf4f45b68206f3cad7
+d04t05.flac:639114b4d62cd6a18467cdc4c8f21b9d

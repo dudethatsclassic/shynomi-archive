@@ -1,0 +1,133 @@
+Metallica
+
+1983-03-19
+The Stone
+San Francisco, CA
+
+Source: AUD>Bootleg Video>CASS>CDR>EAC(secure)>WAV>FLAC(lvl8)
+
+01. The Mechanix
+02. Phantom Lord
+03. Jump In The Fire
+04. Motorbreath
+05. No Remorse
+06. Seek & Destroy
+07. Anesthesia 
+08. Whiplash
+09. Am I Evil?
+
+Notes:
+I got this show directy from the guy who transfered it from his cass. I was told that this audio was put on cass from a bootleg video. The first song "Hit The Lights" is missing. 
+                      
+                      Enjoy!
+                          
+                         ~ Bubba420 ~
+
+FLAC Fingerprint:
+Track01.flac:53fed967daaf13e9bb5730c0ff85eb93
+Track02.flac:48ad3c918bf76dca551b03fce1d0a01e
+Track03.flac:95ec0b53f92dd7927c86938b66bc8ef7
+Track04.flac:c963d6b404ec9f8a1b96fcb2f6137fba
+Track05.flac:e93c2609cedb14ae1cc63a3a9a42dc33
+Track06.flac:c673eee0eb48329d38fe65748a9bb236
+Track07.flac:c871badac5c635eea70ec5d42f9220c7
+Track08.flac:921605cfa54f9043a7be4b7365d9cde6
+Track09.flac:ed67d1182a79c3433c5af69ddd687c59
+
+
+EAC LOG:
+EAC extraction logfile from 2. September 2005, 3:48 for CD
+Unknown Artist / Unknown Title
+
+Used drive  : LG      CD-RW CED-8120B   Adapter: 0  ID: 0
+Read mode   : Secure with NO C2, accurate stream, NO disable cache
+Combined read/write offset correction : 0
+Overread into Lead-In and Lead-Out : No
+
+Used output format : Internal WAV Routines
+                     44.100 Hz; 16 Bit; Stereo
+
+Other options      : 
+    Fill up missing offset samples with silence : Yes
+    Delete leading and trailing silent blocks : No
+    Installed external ASPI interface
+
+
+Track  1
+     Filename C:\My Documents\Metallica 1983-03-19 San Francisco, CA\Track01.wav
+
+     Peak level 67.2 %
+     Track quality 99.9 %
+     Copy CRC 6813F1A8
+     Copy OK
+
+Track  2
+     Filename C:\My Documents\Metallica 1983-03-19 San Francisco, CA\Track02.wav
+
+     Peak level 68.7 %
+     Track quality 99.9 %
+     Copy CRC EE138B6E
+     Copy OK
+
+Track  3
+     Filename C:\My Documents\Metallica 1983-03-19 San Francisco, CA\Track03.wav
+
+     Peak level 68.6 %
+     Track quality 99.7 %
+     Copy CRC 08CE5D80
+     Copy OK
+
+Track  4
+     Filename C:\My Documents\Metallica 1983-03-19 San Francisco, CA\Track04.wav
+
+     Peak level 67.8 %
+     Track quality 100.0 %
+     Copy CRC E355C201
+     Copy OK
+
+Track  5
+     Filename C:\My Documents\Metallica 1983-03-19 San Francisco, CA\Track05.wav
+
+     Peak level 68.2 %
+     Track quality 99.9 %
+     Copy CRC 8EBD76F9
+     Copy OK
+
+Track  6
+     Filename C:\My Documents\Metallica 1983-03-19 San Francisco, CA\Track06.wav
+
+     Peak level 67.3 %
+     Track quality 100.0 %
+     Copy CRC 1693C1B5
+     Copy OK
+
+Track  7
+     Filename C:\My Documents\Metallica 1983-03-19 San Francisco, CA\Track07.wav
+
+     Peak level 73.2 %
+     Track quality 100.0 %
+     Copy CRC 12E20F3E
+     Copy OK
+
+Track  8
+     Filename C:\My Documents\Metallica 1983-03-19 San Francisco, CA\Track08.wav
+
+     Peak level 68.3 %
+     Track quality 99.9 %
+     Copy CRC D3A3ACE4
+     Copy OK
+
+Track  9
+     Filename C:\My Documents\Metallica 1983-03-19 San Francisco, CA\Track09.wav
+
+     Peak level 71.8 %
+     Track quality 100.0 %
+     Copy CRC 40D94A73
+     Copy OK
+
+No errors occured
+
+
+End of status report
+
+

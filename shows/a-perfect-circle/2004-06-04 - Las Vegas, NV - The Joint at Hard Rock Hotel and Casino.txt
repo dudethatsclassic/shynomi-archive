@@ -1,0 +1,29 @@
+A Perfect Circle
+2004-06-04
+Las Vegas, NV
+The Joint at Hard Rock Hotel and Casino
+Played with Burning Brides
+
+Taper: Distortion
+Source: Core Sound Binaurals > Switchable Battery Box > Sharp IM-DR420 (Line-In, 25’ Left Stack)
+Transfer: DIGITAL - Sony MDS-E10 (SPDIF Out) > M-Audio Delta Audiophile 2496 (SPDIF In) > Sound Forge 7.0 > Waves Masters Tools (Levels and EQ) > CDWave (tracking) > .WAV > .FLAC
+Generation: 0 - Direct Digital Transfer
+Notes: 
+
+Setlist:
+01 - Vanishing - 6:24
+02 - Pet - 5:18
+03 - The Hollow - 3:08
+04 - Magdalena - 6:07
+05 - Weak and Powerless - 3:26
+06 - Orestes - 5:55
+07 - Blue - 6:45
+08 - Thinking of You - 4:47
+09 - Breña - 4:31
+10 - The Package - 8:18
+11 - 3 Libras - 3:57
+12 - The Nurse Who Loved Me - 5:45
+13 - Gravity - 7:15
+14 - The Outsider - 5:01
+15 - The Noose - 5:45
+16 - Judith - 4:41

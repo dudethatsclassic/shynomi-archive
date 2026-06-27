@@ -1,0 +1,66 @@
+Miles Davis Quintet
+11-04-1967
+Philharmonie
+Berlin, Germany
+
+Project ID - LL72
+
+Source: FM Broadcast
+Lineage: FM> ?> Live in Europe', New Sound Planet/ Jazz Up JU 320 > Soundforge 
+(rebanding of tracks) > dbPowerAMP > FLAC (level 6)
+
+Miles Davis (tpt); Wayne Shorter (ts); Herbie Hancock (p); Ron Carter (b); 
+Tony Williams (d) 
+
+disc 1
+
+d1t01. Agitation
+d1t02. Footprints
+d1t03. 'Round Midnight
+d1t04. No Blues
+d1t05. Masqualero
+ 
+-------------------------------------------------------
+
+Notes:
+
+- d1t01: There are some level issues from 1:13 to 1:15. Nothing major
+
+- d1t03 is plagued with small dropouts. There are at least 20 of them. All are 
+minimal at a fraction of a second each. At 6:35 their are a few more serious drop outs 
+present.
+
+- A decent recording, A very enjoyable listen with a few minor level issues. 
+ 
+- QC done by bgreen
+
+
+md5
+2d5e2145a486078f8b626e5ed96ba51e *md1967-11-04.LL72.d1t01.flac
+b81e14852a7426e32ae8fcdee808113c *md1967-11-04.LL72.d1t02.flac
+83cb43789285f964309b3f5d44fa6815 *md1967-11-04.LL72.d1t03.flac
+a39d90bf53a1d5f3e3e56530a1712869 *md1967-11-04.LL72.d1t04.flac
+2665cfda13593b1fe816d1256ff31235 *md1967-11-04.LL72.d1t05.flac
+
+ffp
+md1967-11-04.LL72.d1t01.flac:2c7bc705d52abf74a25df7224c798748
+md1967-11-04.LL72.d1t02.flac:69182e5c36cee0a0ed083a6ff8281d9e
+md1967-11-04.LL72.d1t03.flac:40b4c14113cab15aa658d245723705ec
+md1967-11-04.LL72.d1t04.flac:e3cbca7ddf010d0f38b0b39c3380f4b3
+md1967-11-04.LL72.d1t05.flac:639aa9877a239f86dff3e7a78cbe152f
+
+shntool
+ length     expanded size    cdr  WAVE problems  fmt   ratio  filename
+  5:24.72       57323568 B   -b-   --   ---xx   flac  0.5502  md1967-11-04.LL72.d1t01.flac
+  8:53.46       94130224 B   -b-   --   ---xx   flac  0.5757  md1967-11-04.LL72.d1t02.flac
+  7:51.13       83114032 B   -b-   --   ---xx   flac  0.5655  md1967-11-04.LL72.d1t03.flac
+ 10:51.24      114892848 B   -b-   --   ---xx   flac  0.5562  md1967-11-04.LL72.d1t04.flac
+  9:50.70      104240348 B   -b-   --   ---xx   flac  0.5319  md1967-11-04.LL72.d1t05.flac
+ 42:52.00      453701020 B                            0.5556  (5 files)
+
+Old md5
+2d5e2145a486078f8b626e5ed96ba51e *1. Agitation.flac
+b81e14852a7426e32ae8fcdee808113c *2. Footprints.flac
+83cb43789285f964309b3f5d44fa6815 *3. Round Midnight.flac
+a39d90bf53a1d5f3e3e56530a1712869 *4. No Blues.flac
+2665cfda13593b1fe816d1256ff31235 *5. Masqualero.flac

@@ -1,0 +1,60 @@
+Ryan Adams & The Cardinals
+October 14, 2006
+KB
+Malmö, Sweden
+
+
+Taper:       IJ
+Source:      SBD>Edirol-R09(16/48)
+Conversion:  Edirol-R09>USB>Cool Edit Pro 2.0>CD Wave>xACT 0.5.9
+Editing:     Fades (CEP) Track Splits (CDwave) 
+Resampling:  48k/16bit software downsampled in Wavelab 5.01b 44.1k/16bit
+FLAC:        Master wav's > xACT 0.5.9
+
+
+Disc 1:
+=============================================
+01:     New York New York > 
+02:     I See Monsters
+03:     Blue Hotel 
+04:     To Be Young 
+05:     Games >
+06:     Dear Chicago
+07:     Mockingbird Song
+08:     Peaceful Valley
+09:     Dear John
+10:     Freeway To The Canyon
+11:     New Song - [One Of Us Is The Sucker (And The Other One Gets To Play)]
+12:     Please Do Not Let Me Go
+13:     Elizabeth You Were Born To That Part
+14:     Magnolia Mountain
+15:     Beautiful Sorta
+
+
+Disc 2:
+=============================================
+01:     Cold Roses
+02:     One Kiss Before I Go
+03:     The End
+04:     Shakedown On 9th Street >
+05:     Bartering Lines >
+06:     Harder Now It's Over
+07:     September
+08:     Willow Jane
+09:     Goodnight Rose
+10:     Arkham Asylum
+11:     Party Clown
+12:     Tears Of Gold
+13:     Easy Plateau
+
+Total Time:                            123:17
+=============================================
+
+
+
+Thanks to Ryan Adams & the band, Nicke and everyone else who made this recording possible!
+
+
+THIS RECORDING IS NOT FOR SALE - DO NOT ALLOW THIS TO HAPPEN!
+DO NOT REDISTRIBUTE IN A LOSSY FORMAT - KEEP THE RECORDING PURE!
+

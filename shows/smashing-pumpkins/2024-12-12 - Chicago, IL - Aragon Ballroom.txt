@@ -1,0 +1,70 @@
+Smashing Pumpkins
+December 12th 2024
+Aragon Ballroom
+Chicago, IL, US
+
+SOURCE (AUD#1)
+Shure MV88 > iPhone 14 Pro
+
+TRANSFER:
+iPhone 14 Pro > WAV > CD Wave Editor > Trader's Little Helper 2.8.4 > FLAC
+
+GENERATION:
+WAV(M) > FLAC
+
+LENGTH:
+86:46
+
+SETLIST:
+01. Intro
+02. Tonight, Tonight
+03. Where Boys Fear to Tread
+04. Today
+05. Beguiled
+06. 1979
+07. Jellybelly
+08. Perfect
+09. Bullet With Butterfly Wings
+10. Sighommi
+11. Landslide [Fleetwood Mac]
+12. Mayonaise
+13. The Everlasting Gaze
+14. Doomsday Clock
+15. Zoo Station [U2]
+16. Ava Adore
+17. Ziggy Stardust [David Bowie]
+18. (band introductions)
+19. Cherub Rock
+20. Zero > Love Gun [Kiss] (tease)
+
+NOTES:
+A massive thank you to Derrick (Virex_Gaze6) for recording the show
+
+MD5 FINGERPRINTS:
+3d9caedaedbaaa094c91bd2ba9b2d5ff *Smashing Pumpkins 2024-12-12 AUD1 t01 Intro.flac
+449f1bb474b1a34375e75b5668d9b39e *Smashing Pumpkins 2024-12-12 AUD1 t02 Tonight, Tonight.flac
+cfc88f48c8b24a27819d5c2f33a8b78a *Smashing Pumpkins 2024-12-12 AUD1 t03 Where Boys Fear to Tread.flac
+5283f5be6122062f62493cdd67777418 *Smashing Pumpkins 2024-12-12 AUD1 t04 Today.flac
+6983fd7e9c348b50738d56f1ae005647 *Smashing Pumpkins 2024-12-12 AUD1 t05 Beguiled.flac
+cc8bfc6192622d880eeaa9def999080f *Smashing Pumpkins 2024-12-12 AUD1 t06 1979.flac
+829d5c3c8a9864baf3806433b6c0a78f *Smashing Pumpkins 2024-12-12 AUD1 t07 Jellybelly.flac
+ff27ef8f08f91015099304f66f5732c7 *Smashing Pumpkins 2024-12-12 AUD1 t08 Perfect.flac
+a745b96de42ef6c927135c06bb7af38c *Smashing Pumpkins 2024-12-12 AUD1 t09 Bullet With Butterfly Wings.flac
+64bc115b238d6c0af9508459394b79fc *Smashing Pumpkins 2024-12-12 AUD1 t10 Sighommi.flac
+22fbb75882b075ea68655baf9b129762 *Smashing Pumpkins 2024-12-12 AUD1 t11 Landslide [Fleetwood Mac].flac
+a29203f90d9a40dfc86f080eca5b9f5e *Smashing Pumpkins 2024-12-12 AUD1 t12 Mayonaise.flac
+d21326c87189f2017068bc3cc1b4a706 *Smashing Pumpkins 2024-12-12 AUD1 t13 The Everlasting Gaze.flac
+747d62a06c471999e302ec2d475c5378 *Smashing Pumpkins 2024-12-12 AUD1 t14 Doomsday Clock.flac
+e720bf85adf48fffae5f0f76fa504fc8 *Smashing Pumpkins 2024-12-12 AUD1 t15 Zoo Station [U2].flac
+c317fa1c7ca0795d5156100c60973208 *Smashing Pumpkins 2024-12-12 AUD1 t16 Ava Adore.flac
+a789ba94eec53a67d45e57ef2b100742 *Smashing Pumpkins 2024-12-12 AUD1 t17 Ziggy Stardust [David Bowie].flac
+39cedf1ce645a0013fb6332161faf8e6 *Smashing Pumpkins 2024-12-12 AUD1 t18 (band introductions).flac
+9dae69af819da7b6469a098ccd188607 *Smashing Pumpkins 2024-12-12 AUD1 t19 Cherub Rock.flac
+6cbfabfa53bd81ed9eed677162483ccd *Smashing Pumpkins 2024-12-12 AUD1 t20 Zero.flac
+
+RECORDED BY:
+Derrick (Virex_Gaze6)
+
+DISTRIBUTION:
+Spaldz, Nicholas Serra & Members of SPLRA
+2025-07-12

@@ -1,0 +1,94 @@
+Björk
+2007-05-02
+Radio City Music Hall
+New York, NY  USA
+
+REMASTERED VERSION
+
+Digital Master Recording
+Recorded from Front of Board Center
+Orchestra Row PP, Seat 509
+
+DPA 4021's > Marantz PMD-660 (Oade BCM) > 16bit 44.1 .wav >
+Soundforge (level boosts and balance, softening and some removal 
+of audience noise, EQ, set fades) > CDWave 1.95 (tracking) > Flac 
+Frontend (level 7, align sector boundaries) > flac
+
+The original flac files of this concert were uploaded to dimeadozen within 
+3 hours of the end of the concert.  In the rush to uplaod, no post-production 
+work was done on the original wav file, which was a mistake.
+
+For the remaster, I extracted the original master wav file from its archive disc 
+(no errors).  In Soundforge 8.0, I boosted and balanced the levels, which were 
+simply too low on the master.  I smoothed, softened, or removed dozens of 
+instances of crowd noise--close clapping, shouts, screams, and the like.  
+Additionally, I equalized by boosting the highs, which were muffled either in 
+the PA system, or because of the mesh hat where the DPA mics were mounted.  
+The results of this remaster job have created a drastic improvement of the 
+quality of this recording.
+
+Recorded and Produced by
+nyctaper
+2007-09-04
+
+Premiere Download offered at 
+http://www.nyctaper.com
+nyctaper@nyctaper.com
+
+Much assistance provided by
+Bjork Hub:
+bjorkhub.no-ip.info
+http://bjorklossless.goudwater.nl
+
+
+Setlist:
+01  Earth Intruders*
+02  Venus as a Boy
+03  Aurora
+04  I See Who You Are**
+05  Oceania
+06  Dull Flame of Desire***
+07  All is Full of Love
+08  The Pleasure is All Mine
+09  Pagan Poetry
+10  Jóga
+11  Where is the Line
+12  Army of Me
+13  Innocence
+14  Wanderlust
+15  Pluto
+Encores:
+16  [encore break]
+17  [band introductions]
+18  Anchor Song
+19  Declare Independence
+
+*With Konono N°1 
+**With Min Xiao-Fen
+***With Antony Hegarty
+
+
+Please support this wonderful and unique artist at
+http://www.bjork.com
+
+
+Flac Fingerprints:
+bjork2007-05-02_DPAs_Remaster_t01.flac:c87c43c3a4e8d7a2273a0eecf76a37c7
+bjork2007-05-02_DPAs_Remaster_t02.flac:c498874a04ef7ab2c7e1a16711004e86
+bjork2007-05-02_DPAs_Remaster_t03.flac:6e6df298f4f693ba64d6f0714b1c2fef
+bjork2007-05-02_DPAs_Remaster_t04.flac:9cfce32a72263ea354f93e1f8070eaed
+bjork2007-05-02_DPAs_Remaster_t05.flac:0cc114d5cf2a7c06c340eb090c443326
+bjork2007-05-02_DPAs_Remaster_t06.flac:3f7de885361868542860bb0f15bcd50c
+bjork2007-05-02_DPAs_Remaster_t07.flac:d31f62a6466194b93c95224011809e37
+bjork2007-05-02_DPAs_Remaster_t08.flac:711c19b07a726f04f34ddcf883a3fa05
+bjork2007-05-02_DPAs_Remaster_t09.flac:ac2103a1fa7f5dfb95f29860f506e720
+bjork2007-05-02_DPAs_Remaster_t10.flac:71d4a1f3818235fc15ea21599ce3edd2
+bjork2007-05-02_DPAs_Remaster_t11.flac:0e600c4ce47eed2fb5d746bf639dfb53
+bjork2007-05-02_DPAs_Remaster_t12.flac:3525c6f22d6f119e5e6c9b00e98197d2
+bjork2007-05-02_DPAs_Remaster_t13.flac:777fba00db8215f4e8cab48897275a4a
+bjork2007-05-02_DPAs_Remaster_t14.flac:1518c41ac756224a6ee3ec58a67d60e2
+bjork2007-05-02_DPAs_Remaster_t15.flac:e4f3d9e7b1067c09748063c4e8bae488
+bjork2007-05-02_DPAs_Remaster_t16.flac:f86b032daaffb95c25839ff35c2a9b71
+bjork2007-05-02_DPAs_Remaster_t17.flac:f7545e28dc774bbd71c369607617457a
+bjork2007-05-02_DPAs_Remaster_t18.flac:3e77284e369ad9b674106d7372025fce
+bjork2007-05-02_DPAs_Remaster_t19.flac:357b6cad7dfa7f716306959ae1aab8b8

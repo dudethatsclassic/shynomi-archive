@@ -1,0 +1,163 @@
+The Moonshine Festival
+Festival of the Arts Grounds
+Laguna Beach, CA
+October 10, 2004 - Day 2
+
+Taper: LJsurfer2002@yahoo.com
+Source: AT831 > SP-SPSC-1 batt. box (w/ bass rolloff set @ 107 Hz) > Nomad Jukebox 3 (wav @ 44.1k)
+
+Transfer: NJ3 > USB > Sound Forge 6.0 > WAV > mkw 0.97 > SHN (seek tables appended)
+
+
+Disk 1:
+
+01 - Matt Costa - 01 - Intro [00:31.34]
+02 - Matt Costa - 02 - these are the melodies [03:22.28]
+03 - Matt Costa - 03 - so much left to do [03:00.16]
+04 - Matt Costa - 04 - Whisky and wine [03:33.31]
+05 - Matt Costa - 05 - acting like a fool [03:52.19]
+06 - Matt Costa - 06 - Astell [02:58.67]
+07 - Matt Costa - 07 - [03:55.60]
+08 - Matt Costa - 08 - [03:49.32]
+09 - Matt Costa - 09 - [04:11.37]
+10 - Matt Costa - 10 - Sunshine [02:23.15]
+[Matt Costa total: 32:10.58]
+11 - James Mercer - 01 - Intro [01:06.12]
+12 - James Mercer - 02 - Caring is creepy [03:34.36]
+13 - James Mercer - 03 - when I goosestep [02:35.40]
+14 - James Mercer - 04 - young pilgrims [02:57.50]
+15 - James Mercer - 05 - girl inform me [03:00.72]
+16 - James Mercer - 06 - won one too many fights [03:41.25]
+17 - James Mercer - 07 - Havest (Neil Young cover) [03:45.37]
+18 - James Mercer - 08 - Pink Bullets [04:18.06]
+19 - James Mercer - 09 - Gone for good [04:41.28]
+20 - James Mercer - 10 - Sphagnum Esplanade [03:42.36]
+21 - James Mercer - 11 - The Past and Pending [04:16.14]
+22 - James Mercer - 12 - New Slang [04:55.54]
+23 - James Mercer - 13 - Saint Simon [03:56.51]
+[James Mercer total: 46:32.05]
+
+Disk 1 total: [78:42.63]
+
+Disk 2:
+
+01 - Sprout (audio of the film only) - 01 - Chris Malloy intro [02:54.46]
+02 - Sprout (audio of the film only) - 02 - Will Chambers intro [
+03 - Sprout (audio of the film only) - 03 - [04:26.44]
+04 - Sprout (audio of the film only) - 04 - [02:10.39]
+05 - Sprout (audio of the film only) - 05 - [07:46.46]
+06 - Sprout (audio of the film only) - 06 - [03:49.70]
+07 - Sprout (audio of the film only) - 07 - The Shins - 'When I goosestep' [03:43.42]
+08 - Sprout (audio of the film only) - 08 - [04:03.08]
+09 - Sprout (audio of the film only) - 09 - [00:59.22]
+10 - Sprout (audio of the film only) - 10 - [04:22.49]
+11 - Sprout (audio of the film only) - 11 - Shaka PSA [02:28.48]
+12 - Sprout (audio of the film only) - 12 - [05:11.18]
+13 - Sprout (audio of the film only) - 13 - [02:56.30]
+14 - Sprout (audio of the film only) - 14 - [04:51.63]
+15 - Sprout (audio of the film only) - 15 - [02:01.52]
+16 - Sprout (audio of the film only) - 16 - [03:00.47]
+17 - Sprout (audio of the film only) - 17 - [05:28.15]
+18 - Sprout (audio of the film only) - 18 - [01:05.67]
+19 - Sprout (audio of the film only) - 19 - [02:53.48]
+[Sprout (audio of the film only) total: 65:53.11]
+
+Disk 2 total: [65:53.11]
+
+Disk 3:
+
+01 - Tristan Prettyman - 01 - Guestcheck [04:51.69]
+02 - Tristan Prettyman - 02 - Mike [03:02.17]
+03 - Tristan Prettyman - 03 - Anything at all [05:25.17]
+04 - Tristan Prettyman - 04 - Evaporated [03:59.47]
+05 - Tristan Prettyman - 05 - Always feel this way [03:05.02]
+06 - Tristan Prettyman - 06 - Void [04:30.14]
+07 - Tristan Prettyman - 07 - New Song 1 (first time played) [03:51.38]
+08 - Tristan Prettyman - 08 - Love, love, love [03:34.05]
+[Tristan Prettyman total: 32:19.59]
+09 - The Mojave Three - 01 - [06:07.22]
+10 - The Mojave Three - 02 - Two stones in my pocket [03:50.12]
+11 - The Mojave Three - 03 - [06:45.36]
+12 - The Mojave Three - 04 - [02:27.46]
+13 - The Mojave Three - 05 - Who do you love? [03:28.06]
+14 - The Mojave Three - 06 - [04:17.74]
+[Mojave Three total: 27:10.72]
+
+Disk 3 total: [59:30.13]
+
+Disk 4:
+
+01 - G Love set 1 - 01 - Riverstyle blues [03:47.35]
+02 - G Love set 1 - 02 - [04:46.43]
+03 - G Love set 1 - 03 - Seventh Son (Willie Mabon cover) [03:35.43]
+04 - G Love set 1 - 04 - Crawlin' Kingsnake (John Lee Hooker cover) [03:38.52]
+05 - G Love set 1 - 05 - Ladies n' fellas [04:08.21]
+06 - G Love set 1 - 06 - Pick up the phone and call me [04:48.51]
+07 - G Love set 1 - 07 - 32-20 Blues (Robert Johnson cover) [03:27.70]
+08 - G Love set 1 - 08 - Sugar Sweet Mama (?) [03:18.26]
+09 - G Love set 1 - 09 - Rhyme for the summertime (?) [02:23.17]
+10 - G Love set 1 - 10 - Lay down the law [06:10.48]
+11 - G Love set 1 - 11 - Get yo' shit together [05:38.14]
+12 - G Love set 1 - 12 - Gimme some lovin [02:47.72]
+13 - G Love set 1 - 13 - The Wedding song intro [02:21.24]
+14 - G Love set 1 - 14 - The Wedding Song [04:04.05]
+[G Love set 1 total: 54.56.71]
+(note there is no track 01 of set 2 as that is the 'random bar patron singing' at the bottom of the .txt file)
+15 - G Love set 2 - 02 - Coming Home [04:37.44]
+16 - G Love set 2 - 03 - [04:12.48]
+17 - G Love set 2 - 04 - Don't drop it [03:03.41]
+18 - G Love set 2 - 05 - Booty call [03:23.07]
+19 - G Love set 2 - 06 - Beautiful, Beautiful intro [01:02.37]
+20 - G Love set 2 - 07 - Beautiful, Beautiful (with Tristan Prettyman) [05:01.29]
+21 - G Love set 2 - 08 - Baby got sauce (fast version) (cut off) [02:04.09]
+[G Love set 2 total: 26:39.12]
+
+Disk 4 total: [78:12.34]
+
+Disk 5:
+
+01 - Superwolf - 01 - [01:27.48]
+02 - Superwolf - 02 - [04:00.39]
+03 - Superwolf - 03 - [02:20.34]
+04 - Superwolf - 04 - [05:01.35]
+05 - Superwolf - 05 - [02:33.17]
+06- Superwolf - 06 - [03:09.15]
+07 - Superwolf - 07 - [03:12.44]
+08 - Superwolf - 08 - [02:58.49]
+09 - Superwolf - 09 - [05:45.52]
+10 - Superwolf - 10 - [05:03.65]
+11 - Superwolf - 11 - (with Dan Malloy) [04:24.47]
+12 - Superwolf - 12 - [02:40.67]
+[Superwolf total: 42:38.62]
+13 - G Love Set (Random Bar Patron) - 01 - Rattlesnake Mountain (New Deal String Band Cover) [03:14.22]
+
+Disk 5 total: [45:52.53]
+
+
+Notes:
+Because this text file is very incomplete (I don't know the song names of a lot of these artist's work), please e-mail me with setlist updates / fixes and i'll constantly update the master .txt file of this show. 
+The most up-to-date version of this text file can be had here: 
+
+http://www.huffphotography.com/moonshinefestival2004-10-10day2.txt
+
+In order to get the full capacity of each burned audio CD, the order of performances was shuffled up. The above listing is just so there is little wasted space on the CD.
+The linear performance times of The Moonshine Festival was:
+Saturday: Ray Barbee > Culver City Dub Collective > A Brokedown Melody (film) > Tommy Guerrero > Donovan F > Jack Johnson
+Sunday: Tristan Prettyman > Matt Costa > Sprout (film) > The Mojave Three > James Mercer > Superwolf > G Love
+
+James Mercer is the lead singer of The Shins. This is just a James Mercer (solo) performance.
+Superwolf is Will Oldham and Matt Sweeny
+
+websites:
+http://users.bart.nl/~ljmeijer/oldham/
+http://www.palacerecords.com/
+http://www.trimyourlifeaway.com/index2.html
+http://www.tristanprettyman.com
+http://www.philadelphonic.com
+http://www.djangomusic.com/artist_music.asp?pid=P+++169753
+http://www.mattcosta.com
+http://www.nellmedia.com/mercer/
+http://www.darkcoupon.com/
+
+-------
+Support local music. Trade this show for free. Compiled (10/17/04)

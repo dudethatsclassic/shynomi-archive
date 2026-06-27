@@ -1,0 +1,67 @@
+Bon Iver
+4th June 2008
+St. Giles Church
+London, England
+
+SETLIST (58:45)
+---------------
+01. intro
+02. Flume
+03. Lump Sum
+04. Skinny Love
+05. Justin speaking
+06. The Wolves (Act I and II)
+07. Blindsided
+08. re: Stacks
+09. Justin talking
+10. Creature Fear
+11. For Emma
+
+GENERATION
+---------------
+DAT(M) -> FLAC
+
+SOURCE (AUD #1)
+---------------
+Marantz EM-8 -> TCD-D8 > DAT(M)
+
+TRANSFER
+---------------
+DAT(M) -> TCD-D8 -> M-Audio Audiophile 2496 -> CEP 2.1 (capture/fades/amplify/hiss reduction) -> WAV -> CD Wave 1.95.1 -> FLAC(8)
+
+NOTES
+-----
+Recorded from the upper level, stage left near one of the PA stacks.  Last song performed without use of PA, in the middle of the church amongst the pews.  Therefore, it was INCREDIBLY quiet, so I had to boost the levels, thereby raising the hiss levels.  This has been filtered, and I believe it sounds a lot better than being left un-amplified.  Once the song actually starts, and the audience noise drops, the "noise" caused by the hiss reduction is almost un-noticeable.  There are a few slight scuffles and mic knocks, but nothing too extreme, luckily the crowd was very respectful and quiet (apart from some sniffing and talking!)
+
+FLAC FINGERPRINTS
+-----------------
+boniver-20080604-t01.flac:627fb6241c6e2a3082319b4ccbba6ba3
+boniver-20080604-t02.flac:8dfb6288d81695bb5328e58ddc08e24b
+boniver-20080604-t03.flac:c7c30b6aa95a0f07c50aac668c69cd9c
+boniver-20080604-t04.flac:cd513240feb2f78c4d6ef6bd1f140273
+boniver-20080604-t05.flac:fcc2e7345a9dbc0ad15858ea23e8fc5c
+boniver-20080604-t06.flac:e33ca7193b0ee535bd1be0944890d658
+boniver-20080604-t07.flac:d5d5c9c760ebb7113fa393019b50629c
+boniver-20080604-t08.flac:09f785578fc2fd8441c629ea9b7f441c
+boniver-20080604-t09.flac:7b9d127c8ebed52c3c52a844ac13f56a
+boniver-20080604-t10.flac:1722ab1ea5b12d8240cec91a9ac955df
+boniver-20080604-t11.flac:a57c43b9e9343fca2473874665c845df
+
+MD5 CHECKSUMS
+---------------
+b9f9396e0c1b30a0ea9a1e22e6f803a1 *boniver-20080604-t01.flac
+664d982f0864fc590a1b9a5cc36fb6aa *boniver-20080604-t02.flac
+5e7525c585c773979569305c759983c0 *boniver-20080604-t03.flac
+989817d4d0f955cb4932e55b2e24a330 *boniver-20080604-t04.flac
+4e368989b742f5fa8f01d8139e03dc95 *boniver-20080604-t05.flac
+b83386b7a3645447f3a4e7f75634cc8a *boniver-20080604-t06.flac
+80de2169f332b15a29993c3a854c8612 *boniver-20080604-t07.flac
+b59529d4e6ac92a16139dcdfd772d88c *boniver-20080604-t08.flac
+6dee2d026dae2de397d2a3a3a240123d *boniver-20080604-t09.flac
+c1066f3e49c89910c38ce43f747a6d69 *boniver-20080604-t10.flac
+09bc33103b896dbc33aad0535d914954 *boniver-20080604-t11.flac
+
+
+Taped, transferred & mastered by: Gary Watson (packetboatlane@yahoo.co.uk)
+
+DO NOT SELL OR DISTRIBUTE IN LOSSY FORMATS!

@@ -1,0 +1,35 @@
+band: A Perfect Circle
+date: August 06, 2003
+city: Philadelphia, PA
+venue:TLA
+
+Source: working on
+Transfer: working on
+
+1)lullaby/pet
+2)hollow
+3)magdalena
+4)weak and powerless
+5)orestes
+6)rose
+7)thinking of you
+8)the package
+9)three libras
+10)thomas
+11)the outsider
+12)the nurse who loved me
+13)judith
+
+not to be encoded to any lossy format.apc2003-08-06t01.flac:f20ee6d27ee56da625b8cdfde804470e
+apc2003-08-06t02.flac:d4e18c8274ecfbf277232768243ef335
+apc2003-08-06t03.flac:90ad385d67e34e37b97509cd1d9f69b7
+apc2003-08-06t04.flac:ac5d2b1ebf45a58d3dca07ccb4974f15
+apc2003-08-06t05.flac:10dc0fc1263951553f7811ad696af3dd
+apc2003-08-06t06.flac:4a039518074fad7244867eef0af4245c
+apc2003-08-06t07.flac:ee1f14288d45ba692d75b093156eed84
+apc2003-08-06t08.flac:fbf8da107423734c7f8d6b792de21523
+apc2003-08-06t09.flac:5a0be964091a4938257f0568abc03c70
+apc2003-08-06t10.flac:7938a96e72dea5931d830ff6a74ba744
+apc2003-08-06t11.flac:30034054f4fb65ff891dbbc74eaf8fe1
+apc2003-08-06t12.flac:e0fa8c9b7f08878b2aa34e588eed989d
+apc2003-08-06t13.flac:f89c025586a2da1e88e83e25e50cee69

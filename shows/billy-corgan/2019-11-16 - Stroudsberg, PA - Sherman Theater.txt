@@ -1,0 +1,90 @@
+Billy Corgan (William Patrick Corgan)
+November 16th 2019
+Sherman Theater
+Stroudsburg, PA, US
+
+SOURCE (AUD#1):
+Internal Mic > Samsung S9
+
+TRANSFER:
+Samsung S9 (MP3) > Adobe Audition (WAV)
+
+GENERATION:
+MP3(M) > WAV > FLAC
+
+LENGTH:
+121:29
+
+SET ONE:
+01. Hard Times
+02. To Scatter One's Own
+03. Fragile, the Spark
+04. Apologia
+05. Cri de Coeur
+06. Buffalo Boys
+07. Dancehall
+08. Anon
+09. The Spaniards
+10. Archer
+11. Half-Life of an Autodidact
+12. Aeronaut
+13. Oh My Darling, Clementine [traditional]
+
+SET TWO:
+14. Tonight, Tonight
+15. 1979
+16. Spaceboy
+17. Purr Snickety
+18. Violet Rays
+19. Travels
+20. Another Bridge to Burn [‘Little’ Jimmy Dickens]
+21. Hangin' On [Waylon Jennings]
+22. Peace + Love
+23. Cherry
+24. Disarm
+
+ENCORE:
+25. Black Lung
+26. Perfect
+27. Silvery Sometimes (Ghosts)
+
+NOTES:
+A massive thank you to the taper for sending this through to us to release  
+
+*******************
+This is a lossy source
+The SPLRA team have converted the MP3 to a WAV file to indicate there is no upgrade to the original master which was recorded in MP3 format
+*******************
+
+MD5 FINGERPRINTS:
+bfaf17fc8f3f5f3c191df4bf7ffb2a90 *Billy Corgan 2019-11-16 AUD1 t01 Hard Times.flac
+7cd5e3c77d69b88139005a8d9feffce4 *Billy Corgan 2019-11-16 AUD1 t02 To Scatter One's Own.flac
+77b139d4dc9e26e38923a4710301a3dc *Billy Corgan 2019-11-16 AUD1 t03 Fragile, the Spark.flac
+6cd6655e7448318da3b83b3e302d6d2f *Billy Corgan 2019-11-16 AUD1 t04 Apologia.flac
+e95775ec15a9140e7c2793bd3dfb82e3 *Billy Corgan 2019-11-16 AUD1 t05 Cri de Coeur.flac
+cdfe760d868ca36c09db04bb326df3bb *Billy Corgan 2019-11-16 AUD1 t06 Buffalo Boys.flac
+ee131f2f2d73e16a3ec9a9b98b417908 *Billy Corgan 2019-11-16 AUD1 t07 Dancehall.flac
+fb0e581f3c7ea8b671feb9e0db6a3e4c *Billy Corgan 2019-11-16 AUD1 t08 Anon.flac
+45ce96a14a171a06eab2f11449efc63e *Billy Corgan 2019-11-16 AUD1 t09 The Spaniards.flac
+8cb0ea2ed1aaa28321c6c6f49af893e8 *Billy Corgan 2019-11-16 AUD1 t10 Archer.flac
+a91f01ef3f66a9eaf2297a1614191c94 *Billy Corgan 2019-11-16 AUD1 t11 Half-Life of an Autodidact.flac
+b6e0926d9551154009ced26a4afd3e41 *Billy Corgan 2019-11-16 AUD1 t12 Aeronaut.flac
+d9d75bef522fb45c552f0d1b80b80a13 *Billy Corgan 2019-11-16 AUD1 t13 Oh My Darling, Clementine.flac
+ac5f9f356093cb69f40e918c61a644cf *Billy Corgan 2019-11-16 AUD1 t14 Tonight, Tonight.flac
+ea0a7e37d19be3079adacff3804de5a8 *Billy Corgan 2019-11-16 AUD1 t15 1979.flac
+6603e1c51a4882d05e3b169ddc5fb96a *Billy Corgan 2019-11-16 AUD1 t16 Spaceboy.flac
+cdea3f239d7dbfcc5d336d245ddf7aaa *Billy Corgan 2019-11-16 AUD1 t17 Purr Snickety.flac
+39ce7c014112da21512f526d2ff64de0 *Billy Corgan 2019-11-16 AUD1 t18 Violet Rays.flac
+443533e802be743fae20ed14afc82ed6 *Billy Corgan 2019-11-16 AUD1 t19 Travels.flac
+deaf66a12695bc7a51d6498853e87da0 *Billy Corgan 2019-11-16 AUD1 t20 Another Bridge to Burn.flac
+bcf79c3222e1cc6535b996234280fac0 *Billy Corgan 2019-11-16 AUD1 t21 Hangin' On.flac
+2e2ecf29eff76b736dafaefa2efabdbc *Billy Corgan 2019-11-16 AUD1 t22 Peace + Love.flac
+8cdef6b9af321655836caebf0e29a199 *Billy Corgan 2019-11-16 AUD1 t23 Cherry.flac
+030e0553de62a7e6cc56587552479a9f *Billy Corgan 2019-11-16 AUD1 t24 Disarm.flac
+0d800e208abd4a13bf7c498d5dab157c *Billy Corgan 2019-11-16 AUD1 t25 Black Lung.flac
+d806b6dc8729bd00657a85bf4b3d4cb7 *Billy Corgan 2019-11-16 AUD1 t26 Perfect.flac
+a5fa8cdf46aacdd54339a61f4c07eb86 *Billy Corgan 2019-11-16 AUD1 t27 Silvery Sometimes (Ghosts).flac
+
+DISTRIBUTION:
+Spaldz, Nicholas Serra & Members of SPLRA
+2022-08-22

@@ -1,0 +1,53 @@
+Metallica
+11/28/86
+Mid-Hudson Civic Center
+Poughkeepsie, New York 
+
+596 MB FLAC
+Boot Title: The Freak's Not Here
+cassette (taper within 1st ten rows in center)->vinyl->WAV->Sound Forge 6.0 (volume adjust, pitch corrections, fades)->WAV->FLAC
+
+disc one (1:06:03)
+01 Ecstasy of Gold (1:56)
+02 Battery (4:43)
+03 Master of Puppets (8:16)
+04 For Whom the Bell Tolls (4:14)
+05 Sanitarium (6:08)
+06 Ride the Lightning (6:33)
+07 Jason's solo-> (2:58)
+08 Whiplash (3:56)
+09 The Thing That Should Not Be (6:10)
+10 Fade to Black (7:29)
+11 Seek and Destroy (6:38)
+12 Creeping Death (7:02)
+
+disc two (26:23)
+encore 1:
+01 Four Horsemen-> (5:10)
+02 Kirk solo-> (3:17)
+03 Am I Evil?-> (3:54)
+04 Damage Inc. (4:51)
+encore 2:
+05 Fight Fire With Fire (4:58)
+encore 3:
+06 Blitzkrieg (4:13)
+
+
+metallica1986-11-28d1t01.flac:8bdb293142bf88543e0f16fd04dce0c8
+metallica1986-11-28d1t02.flac:46ddc43c47c2a4c46847f81d7678a1f3
+metallica1986-11-28d1t03.flac:869b1d3a5fdef2b4b31866d192a2a9c9
+metallica1986-11-28d1t04.flac:7b6241ce477e864ee32c54e5f41dc7ea
+metallica1986-11-28d1t05.flac:b82e721acf05132b557e4149702ddc47
+metallica1986-11-28d1t06.flac:791cfdaf21968f2bfa7ab95489fa316b
+metallica1986-11-28d1t07.flac:068071a925a326dc2a8ff0e3a10a9a79
+metallica1986-11-28d1t08.flac:a9322f77d8ab31b2d8eb675e9a15bb6a
+metallica1986-11-28d1t09.flac:bfbd7deeeaf36dcfa9f06f38e6570fe8
+metallica1986-11-28d1t10.flac:5bac818211aa1b970f2e05d238e4a2dc
+metallica1986-11-28d1t11.flac:0d29ce1581762700c50f69ecf873ec05
+metallica1986-11-28d1t12.flac:bf12d6304deb2e1ea32b096869870a21
+metallica1986-11-28d2t01.flac:4f40904b7b67ae94a888612168f66006
+metallica1986-11-28d2t02.flac:9e1107f0d74f7b7535699440dff2fa70
+metallica1986-11-28d2t03.flac:0f5e988707a004b6a1338ce68fd93e17
+metallica1986-11-28d2t04.flac:61ef70df1d7eb786cf840052898c2706
+metallica1986-11-28d2t05.flac:5b64f28a898a8d68715ef8dbf43ca176
+metallica1986-11-28d2t06.flac:053a4c10a2a590c4ca7c4227cd56063e

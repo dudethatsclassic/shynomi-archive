@@ -1,0 +1,112 @@
+Metallica - Wherever We May Roam Tour
+May 25th, 1992 (Monday) - 1992-05-25
+Vancouver, B.C.
+Pacific Coliseum
+High Resolution Analog Master 24bit / 96kHz "Raw" Version
+
+Source: Audioarchivist in Section I Row 12 Seat 11 beside stage to the left > Sony ECM PC-62 Stereo Mic in hat > borrowed AIWA cassette-corder with auto-gain (possibly HS-J10, HS-J505, or an HS-J800 with a broken auto-reverse mechanism) > 2x Sony Metal-SR 90 plus 1 side of Sony UX90 cassette masters
+
+Transfer: Master tapes > Harmon Kardon TD212 (Dolby off, azimuth adjusted) > Edirol R-09HR @ 24 bit 96 khz
+
+Mastering: iZotope RX Advanced 6 [Azimuth utility, adaptive phase alignment and adaptive level matching] > WavePad Masters Edition 6.05 [speed fix 1.8%, amplify, tracking] > FLAC 8 via Trader's Little Helper 
+
+Tracklist:
+00 intro film						22:53
+01 Ecstasy of Gold					01:56
+02 Enter Sandman					05:36
+03 Creeping Death					08:21
+04 Harvester of Sorrow					06:58
+05 Welcome Home (Sanitarium) Part 1 [cut]		02:04
+-tape flip-
+06 Welcome Home (Sanitarium) Part 2 [cont'd]		05:18
+07 Sad But True						05:56
+08 Of Wolf and Man					04:15
+09 The Four Horsemen					08:51
+10 Bass Solo (incl. My Friend of Misery + Orion)	08:30
+11 Through the Never					04:47
+12 The Unforgiven					07:07
+-tape flip-
+13 ...And Justice For All Medley			11:00
+14 Drum Solo (and teases)				15:45
+15 Guitar Solo						09:20
+16 Nothing Else Matters					06:07
+17 For Whom the Bell Tolls				05:26
+18 Fade to Black Part 1 [cut]				00:12
+-tape flip-
+19 Fade to Black Part 2 [cont'd]			07:28
+20 Whiplash						05:25
+21 encore break						03:26
+22 Prowler [Iron Maiden]				02:14
+23 Master of Puppets					03:49
+24 Seek and Destroy					17:45
+-tape flip-
+25 encore break						02:43
+26 One							10:07
+27 Last Caress [Misfits]				02:50
+28 Am I Evil? [Diamond Head]				03:25
+29 Battery						05:05
+30 encore break						03:02
+31 Breadfan						04:16
+32 exit							03:29
+
+Total Time:	    			             03:35:26
+
+
+https://www.setlist.fm/setlist/metallica/1992/pacific-coliseum-vancouver-bc-canada-3bd6d830.html
+https://earofnewt.com/2014/04/21/metallics-delivers-on-lars-ulrichs-promise-to-kick-fin-ass-while-touring-behind-the-black-album/
+
+
+Audioarchivist taping and transfer notes:
+Not my best recording, by far (haha) but since no other tapes have seemed to surface from this show in almost 3 decades now, it's probably time to dust it off and get it out... Second show of a big weekend for Metallica in Vancouver! The first show is on video on youtube, so it's widely available, but this second show 2 days later seems to have only been covered by me, so here it is for the sake of completeness.
+
+My regular recording walkman had been dropped at another show prior to this one. Concrete arena floors don't really play nice with delicate metal and plastic audio gear for some reason when gravity is involved! It was in the repair shop with HyTekFred and his gang of fixers, gluing and welding and sewing it all back together. Intensive care. "We can rebuild him. We have the technology..." haha! So when this show rolled around, and I still didn't have my six million dollar recorder, I borrowed another recorder from...? I can't remember if Fred had this other one, or if it was "from his shop" or if someone else like Wade maybe had one that I used? I really don't remember what model number it was. I did use the ECM-PC62 Sony mic that came with my WM D3 in this other unknown stereo recorder. Man what a rotten recorder! LOL
+
+Knowing that my awesome walkman wasn't going to be there and that I had to use the consolation prize low quality recorder to tape with, I wasn't very enthused by being at the show, but at least I tried to be respectful, unlike a former "friend" that I went to the show with. He was just a piece of crap. He grabbed my mic and started "singing along" for parts of the call and response section of "Seek And Destroy", which did kinda go on a bit too long. I did some spectral editing with iZotope RX Advanced 6 to try and minimize my dumbass ex-friend's impact. Manually attenuating the selected formants of his voice alone, I basically turned him down in the mix when he appeared. I usually just sort of fast forward over that section anyway when I playback the show.... Drags on too long! LOL But at least now he's in the mic a lot less. Still there, but manageable.
+
+There's low end rumble noise whooshing in and out from the recorder. Not a high end piece of gear! Haha! So there's not a lot of bass. But, Metallica fans should be used to that by now, right? Hehe. If you drink enough, it sounds fine... ;) Really bright and tinny sound from my mic that didn't do nice things to the auto-gain on the recorder. My tape deck that I did the transfer on might be running a tad fast intermittently, like some tapes I've played seem fast, but others don't. I'm thinking this could be recorder issues from shows from long ago. So, speed and pitch might be slightly off, but I don't think it sounds obviously Chipmonk-ish or anything. Still better than not hearing the show for 29 years, right? Happy anniversary!
+
+So, yeah, I still can't believe that I was the only one there recording. If there's a better source for this show, what are you waiting for - bring it! But, I get why maybe you haven't got your unreleased un-found upgrade out yet, Mr. 2nd imaginary taper! I still have lots of shows from decades ago that still need to find their way out... This one makes that list one show shorter! More to come...
+
+audioarchivist@hotmail.com
+
+
+
+LeifH mastering notes:
+Kinda brittle master tape sound with an embedded pulse from the record unit.  Added some low end and rolled back the highs with equalization.  Not perfect, but adding additional bass brings out the worst of the cassette deck and boomy room sound of the arena.  
+
+
+
+fingerprints:
+00 - intro film.flac:6a9a85f417ae81269607d7f47e8050c8
+01 - Ecstasy of Gold.flac:fe798778d37f82173f6e328cbd6bf5f9
+02 - Enter Sandman.flac:5c7376a306863af6aa62423326441f62
+03 - Creeping Death.flac:f261de4fa0ea00527ecf7fd5ac801c46
+04 - Harvester of Sorrow.flac:4baa9ee1f5540ddd254713e9d463ace7
+05 - Welcome Home Pt1.flac:5515429b3fe956c9678c1dde84877076
+06 - Welcome Home Pt2.flac:df2e1c655e9c7325b7c1ee27ad6a4873
+07 - Sad But True.flac:054e24f4a30379cb77fbac28b17669f1
+08 - Of Wolf and Man.flac:b60424f8671fbe70ca64a85aa7137fbe
+09 - Four Horsemen.flac:1f8d4ca43ab8cc533e20338c4afb3c82
+10 - Bass Solo.flac:f3731b6ed33c2ad432cb9c5f6d4eed7a
+11 - Through the Never.flac:e825030b81d571ec5601d1ae844b7822
+12 - The Unforgiven.flac:595c5e388d19c9581e875b50a40efa5a
+13 - And Justice Medley.flac:a87e49f04aa13cafee63873cf64feaf5
+14 - Drum Solo.flac:5aac801510f3586332296d945eab151d
+15 - Guitar Solo.flac:76706666b82c1c53839948945608c0eb
+16 - Nothing Else Matters.flac:e92e315281f1e56b1ee3bd3ed4d9a1d7
+17 - For Whom the Bell Tolls.flac:765fa09eed4d2350aa887ddd62e6d818
+18 - Fade to Black Pt1.flac:3a49f684c23d680ee93cb35ded928eb7
+19 - Fade to Black Pt2.flac:2c358e0743ca0013c6d347e92984e497
+20 - Whiplash.flac:6dc5ee04a35a15fe99126f42e1eef66b
+21 - encore.flac:f2f272fd719d872a240d796ccd522516
+22 - Prowler (Iron Maiden).flac:72876b653148f3dd7da3777bdf31f0a4
+23 - Master of Puppets.flac:23e7fd9b28520a2ada1d11e7ac933ba3
+24 - Seek and Destroy.flac:4d6ea9bea109fa24ed7c00a41af97cc0
+25 - encore.flac:9eea1183c6ebcf0ed74eea89f4a057d0
+26 - One.flac:f702f41e4fb04339b8957b712ef568a0
+27 - Last Caress (Misfits).flac:e2b618cf5620de768d9427e1cff87768
+28 - Am I Evil (Diamond Head).flac:07ab1d0cfe2d7296214a8836ee88d0e6
+29 - Battery.flac:1045ac543e881a287a9d04175324bc44
+30 - encore.flac:e14d67501d527ce07b9b4a91a95d5b7f
+31 - Breadfan.flac:d79f0c79100e31985720c3f1e9c6aa4d
+32 - exit.flac:75e09fa158e043383278ef9a4ead79ce

@@ -1,0 +1,54 @@
+Metallica
+The Palace - Auburn Hills, MI
+2/23/97
+
+Recording Info: Core Sound Binaurals->Sony TCD-D7@48kHz
+Transfer Info: Sony TCD-D7-> Audiophile 2496 via Cool Edit 2000
+Cool Edit 2000:
+	* Normalize
+	* Apply bass filter
+	* Convert to 44.1kHz at 350 quality
+Tracks inserted via CD Wave Editor
+Verified via Shntool
+Transferred to FLAC via FLAC frontend 1.7.1 @ Level 6 encoding
+
+Disc One [
+1. Intro
+2. Last Caress
+3. Creeping Death
+4. Sad But True
+5. Ain't My Bitch
+6. Hero Of The Day
+7. King Nothing
+8. Intro->
+9. One
+10. Devil's Dance
+11. My Friend Of Misery->
+12. Sanitarium (Instr.)->
+13. Nothing Else Matters
+14. Until It Sleeps
+15. For Whom The Bell Tolls
+16. Wherever I May Roam
+
+Disc Two [
+1. Fade To Black
+Kill/Ride Medley:
+2. Ride The Lightning
+3. No Remorse
+4. Hit The Lights
+5. Four Horsemen
+6. Seek And Destroy
+7. Fight Fire With Fire
+8. Crowd
+9. God Of Thunder Snippet
+10. So What
+11. Master Of Puppets
+12. Enter Sandman
+13. Crowd
+14. Breadfan*
+15. Overkill
+
+* Mics cut out for about 20 seconds at beginning of Breadfan
+
+Recorded by Notorious T.I.M.
+DAT->CD Transfer by Notorious T.I.M. June 2005

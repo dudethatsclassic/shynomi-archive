@@ -1,0 +1,94 @@
+Pavement
+
+
+Batschkapp
+Frankfurt, Germany
+June 25, 1995
+
+
+Source:  Unknown SBD > ??? > CDR(x)
+Transfer:  CDR(x) > EAC > WAV > FLAC
+Source provided by Shawn Connelly
+Transfer by Terry Watts
+
+
+Disc 1:
+1. Tune Up
+2. Range Life
+3. Brinx Job
+4. Unfair
+5. We Dance
+6. Kennel District
+7. Best Friends Arm
+8. Zurich Is Stained
+9. Rattled By La Rush
+10. Gold Soundz
+11. Grounded
+12. Flux = Rad
+13. Motion Suggests
+14. Two States
+15. She Believes
+16. Cut Your Hair
+17. Father To A Sister Of Thought
+18. Grave Architecture
+19. Fight This Generation
+20. Stop Breathin'
+21. Half A Canyon > Box Elder > Half A Canyon
+
+
+Notes:
+
+EACed Sept. 2012.  Warts and all...  
+
+Terry Watts
+
+
+FLAC FFP:
+pavement1995-06-25d1t01.flac:8c28acaac137762f08af336766d5a427
+pavement1995-06-25d1t02.flac:ed6ccacd6ecce06e2cb59d87ee802130
+pavement1995-06-25d1t03.flac:1be968831d5639bb71a0ee678cf95bd2
+pavement1995-06-25d1t04.flac:c8c6a214ba79bb6fe431198aa8cbc472
+pavement1995-06-25d1t05.flac:8c31243d1b9a4739a35e22c1132195b5
+pavement1995-06-25d1t06.flac:a3ef72e59a875c52fc6e9dea981fc0b1
+pavement1995-06-25d1t07.flac:70f5899ec87e555693c2d86aa9135d40
+pavement1995-06-25d1t08.flac:eb3d88da467235f498b2533a2eb10613
+pavement1995-06-25d1t09.flac:b2200aa61e1114f00d096b617fd4a6ad
+pavement1995-06-25d1t10.flac:75436b147d207f55b615dd71cc00b105
+pavement1995-06-25d1t11.flac:e2338e9b28be3ceacbfa719f15b40bda
+pavement1995-06-25d1t12.flac:50b0d296eeb248312b95430d0f0ab1ec
+pavement1995-06-25d1t13.flac:975a15383fe78a6bb564903a8d1339c8
+pavement1995-06-25d1t14.flac:ccb10e1d98bc504b6f3a1d7a73257306
+pavement1995-06-25d1t15.flac:77c0122dab037096c1a1af4f13fb35cf
+pavement1995-06-25d1t16.flac:fdb5328f57bc1d4421fd0b66909e99c1
+pavement1995-06-25d1t17.flac:e0ad075e5d803baac71c67ce991052ef
+pavement1995-06-25d1t18.flac:54f9afc29b4f106fa5b67274f01d4c55
+pavement1995-06-25d1t19.flac:86447fa6479e3e4f589b56788d48d694
+pavement1995-06-25d1t20.flac:1973026aa230b38fe28b0fe5693a8a84
+pavement1995-06-25d1t21.flac:bf60368589146d35030c7cbd76eb9cca
+
+
+WAV MD5:
+7e7fba2977cda7a865e45937c7f7a30d *pavement1995-06-25d1t01.wav
+aa842338ab479b6cded5c5e04fc0f095 *pavement1995-06-25d1t02.wav
+2ba963d55af94d141b4839420e524c4b *pavement1995-06-25d1t03.wav
+306bbcf66f53cb18ad9bdbcdd319237f *pavement1995-06-25d1t04.wav
+a8720311d75c0861e60ca53c61a97a54 *pavement1995-06-25d1t05.wav
+d80cd3236e4cd72d41eeb994b3108624 *pavement1995-06-25d1t06.wav
+1402f037615bd35bc65e131e477ad613 *pavement1995-06-25d1t07.wav
+3cedb2a81fb94cb5259b769a246d5b95 *pavement1995-06-25d1t08.wav
+ca5b6d41017e8be878813e8bb551c94e *pavement1995-06-25d1t09.wav
+118b5af0bfc7a9bd0a01a3778944f12e *pavement1995-06-25d1t10.wav
+34563ab70dee030a6f03b1ce6fe1c748 *pavement1995-06-25d1t11.wav
+720d78da5f3e46ca71f6ec5803c3acf7 *pavement1995-06-25d1t12.wav
+6608bb6baff35f338479eb39de7cb08d *pavement1995-06-25d1t13.wav
+f3b24c5c67e890575f590195410644dc *pavement1995-06-25d1t14.wav
+a5d76e4a75c51181194af47e5ba41be5 *pavement1995-06-25d1t15.wav
+267e27f8293a006ef098b34c42744135 *pavement1995-06-25d1t16.wav
+3b00ba6259714764868772ee8ccb6aa4 *pavement1995-06-25d1t17.wav
+fed0a809b4c6f25d9c9bf6e925b267d2 *pavement1995-06-25d1t18.wav
+4e59609726cdb923caf1bbe5e42e6df4 *pavement1995-06-25d1t19.wav
+572d41799265ef0851b1f5eaf82a3393 *pavement1995-06-25d1t20.wav
+5fb602859d74876ae156c627a432e8a5 *pavement1995-06-25d1t21.wav
+
+
+

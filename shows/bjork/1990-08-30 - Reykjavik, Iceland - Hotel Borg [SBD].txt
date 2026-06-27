@@ -1,0 +1,72 @@
+Björk/Gling Glo
+1990-08-30
+Hotel Borg
+Reykjavik, Iceland
+
+
+Soundboard Cassette Master > CDRx1 > EAC > wav > 
+flac frontend (level 7, align sector boundaries) > flac
+Fix gap in t16; adjust track boundaries t16->19 > Flac(8)
+
+Wow.  This is perhaps the best live recording of Björk pre-solo career.  
+This recording is taken directly from the soundboard master, and although 
+the volume is hot in the first 6 tracks, its a stunning quality recording.  
+
+Additionally, this recording contains the complete performance, which includes 
+an uncut "My Funny Valentine" as well as two songs that were not part of the 
+FM broadcast, and have never been circulated before ("Kata" and "Tondeleyo").
+Finally, this recording is in the proper sequence, as apparently the fm recording 
+had switched the order of songs.
+
+Thanks Anonymous!
+
+A Bjork Hub Production:
+bjorkhub.no-ip.info
+http://bjorklossless.goudwater.nl
+danlynch
+2006-11-09
+
+
+Setlist:
+01  Introduction
+02  Pabbi Minn
+03  Gling Gló
+04  Misty
+05  Í Dansi Með þér
+06  My Funny Valentine
+07  Bella Símamaer
+08  Litli Tónlistarmaðurinn
+09  Ástatröfrar
+10  I Fall in Love Too Easily
+11  Luktar-Gvendur
+12  You Don't Know What Love Is
+13  Cry Me a River 
+14  Can't Help Loving That Man
+15  Brestir Og Brak
+16  Ruby Baby
+17  Kata Rokkar
+Encores:
+18  <unknown>
+19  Tondeleyo
+
+
+Flac Fingerprints:
+GlingGlo1990-08-30_Soundboard_Master_t01.flac:33d186c5945c2f2ba16a8c5d9d3d414c
+GlingGlo1990-08-30_Soundboard_Master_t02.flac:46085168d9f1e43737925fb1269dbe7e
+GlingGlo1990-08-30_Soundboard_Master_t03.flac:fbba05c5be3129a7631efa51faf62313
+GlingGlo1990-08-30_Soundboard_Master_t04.flac:974d55aecd2ca3cc177358d34d38e165
+GlingGlo1990-08-30_Soundboard_Master_t05.flac:43317c440acef97a9decca5b60673f71
+GlingGlo1990-08-30_Soundboard_Master_t06.flac:07f828a7d51b9368c6da06eeca72b8c1
+GlingGlo1990-08-30_Soundboard_Master_t07.flac:9dffedcd160cd1943d26ebefca2c3ba1
+GlingGlo1990-08-30_Soundboard_Master_t08.flac:e58beb98c7330a594f7d4fca103c2aec
+GlingGlo1990-08-30_Soundboard_Master_t09.flac:efef034955c3eb6cc3b5e03735e04cbb
+GlingGlo1990-08-30_Soundboard_Master_t10.flac:1becaba5c0105fdc36696e9eac46da7f
+GlingGlo1990-08-30_Soundboard_Master_t11.flac:3b6e15fbf763e9ca3435de34d58a65df
+GlingGlo1990-08-30_Soundboard_Master_t12.flac:cfbad0914b5072ad7f8fc0b556a79866
+GlingGlo1990-08-30_Soundboard_Master_t13.flac:b3b2dda5bacdf250fa6cb2198fdba115
+GlingGlo1990-08-30_Soundboard_Master_t14.flac:0ff61d8a132bf39cc1ea2d96cdce9d6d
+GlingGlo1990-08-30_Soundboard_Master_t15.flac:84b10c17412a99b8ee4fd92c75788e07
+GlingGlo1990-08-30_Soundboard_Master_t16.flac:8e66d5843c032819904bafab03a2fd0d
+GlingGlo1990-08-30_Soundboard_Master_t17.flac:3965528cf0ce7843c9fb5531ee98117a
+GlingGlo1990-08-30_Soundboard_Master_t18.flac:1df807f1e790ff351864c8defea5d63e
+GlingGlo1990-08-30_Soundboard_Master_t19.flac:d2ed5730915c4b5b025fff9515eca1f3

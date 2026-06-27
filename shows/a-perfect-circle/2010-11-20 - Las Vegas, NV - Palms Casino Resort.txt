@@ -1,0 +1,40 @@
+
+A Perfect Circle
+The Pearl Theater @ Palms Casino: Las Vegas, NV
+November 20, 2010
+
+Source: AT831s > SP-SPSB-11 (rolloff @ 107 Hz) > Edirol R-09 @ 24-bit / 44.1kHz
+Location: FOB ROC
+Transfer: SD Card > USB > Audacity (amplify/dither) > CDWave > TLH
+Taper: tapeworm(48) 
+
+Setlist:
+
+01 -crowd-
+02 Intro
+03 The Hollow
+04 Magdalena
+05 Rose
+06 Judith
+07 Orestes 
+08 3 Libras (Remix)
+09 Sleeping Beauty
+10 Thomas
+11 Renholder
+12 Thinking of You
+13 Brena
+14 Over
+15 -band introductions-
+16 -James Iha-
+17 Ashes to Ashes [David Bowie]
+18 Imagine [John Lennon]
+19 -outro-
+
+Notes: 'Mer de Noms' performed in its entirety in order.  0.8dB amplification applied in Audacity prior to dithering to 16-bit. Otherwise, this is a raw transfer with no fades or EQ.
+
+Archive: Master WAV was archived @ 24-bit/44.1kHz and FLAC'd with cue sheet. 
+
+Taped and transferred by tapeworm(48) 
+Txt file compiled on 11/24/2010
+
+*** DO NOT DISTRIBUTE IN LOSSY FORMATS. DO NOT SELL THIS RECORDING, TRADE IT FREELY *** 

@@ -1,0 +1,106 @@
+All-Star jam session
+03-04-1949
+CBS-TV Studios
+New York, New York
+
+Project ID - 79
+
+Source: TV Broadcast
+Lineage: WCBS-TV recording (Adventures in Jazz) > ?? > cd (Peter Losin's Archive ) > 
+cd duplicated (burner to burner) > eac > flac (lvl8)
+
+Miles Davis (tpt); Max Kaminsky (tpt); Kai Winding (tb); Will Bradley (tb); 
+Charlie Parker (as); Joe Marsalla (cl); Unknown (b); Max Roach (d); 
+Gordon "Specs" Powell (d); Ann Hathaway [Ann Baker] (voc); William Williams (ann)
+
+disc 1
+
+d1t01. Introduction
+d1t02. Anthropology
+d1t03. Introduction
+d1t04. Bop City
+d1t05. Introduction
+d1t06. I Get a Kick Out of You
+d1t07. Introduction
+d1t08. Big Foot/
+ 
+-------------------------------------------------------
+
+Notes:
+
+- d1t08 is incomplete. 
+
+- The sound is a little muffled and distant, with some light static. Still listenable. 
+Pretty good considering the origin was a TV broadcast from 58 years ago. d1t08 was 
+definetely the cake taker in this performance. 
+
+- This is a very interesting recording, a real good example of the period, splitting 
+at the seams with short cameo's from some real legends. 
+
+- I believe the TLH reading below shows lossy due to the fact that this was an early 
+television broadcast and the wave lengths are severly limited. I don't believe that MP3's
+were a factor. 
+
+- "Recorded for the WCBS-TV show Adventures in Jazz. Davis plays only on the "Big Foot" 
+jam, a bop-vs.-Dixieland duel with Kaminsky. His range is impressive here, just as it 
+is on the recordings a couple months later from the Paris Festival International de Jazz. 
+" - Credit to Peter Losin, http://www.plosin.com/
+
+- "At this time Davis was a member of the Tadd Dameron Tentet, in the midst of a 
+month-long engagement (February 12-March 16) at the Royal Roost on Broadway." - Credit to 
+Peter Losin, http://www.plosin.com/
+
+- QC done by Bgreen
+
+md5
+439ff494ba3a108d242f794b5229be32 *md1949-03-04.LL79.d1t01.flac
+b9dc708a319152c2d17400127ee78556 *md1949-03-04.LL79.d1t02.flac
+c171455deecda9cf21cf200addb66a86 *md1949-03-04.LL79.d1t03.flac
+e273039516d657ca1cf559147768d465 *md1949-03-04.LL79.d1t04.flac
+099245049055e90e0ed184c623e2dbd5 *md1949-03-04.LL79.d1t05.flac
+073c016a36aa6d8ad363eff22a021564 *md1949-03-04.LL79.d1t06.flac
+edbf85c4626b14d08b7694d275798563 *md1949-03-04.LL79.d1t07.flac
+6c076e410b0d36a7b5b67035960ba999 *md1949-03-04.LL79.d1t08.flac
+
+ffp
+md1949-03-04.LL79.d1t01.flac:e066bd7662f0dd169d9b9a52d59f59db
+md1949-03-04.LL79.d1t02.flac:9bcd6132fe66a242f279bc505230996b
+md1949-03-04.LL79.d1t03.flac:15de9ebab3a189227677f8de9a6acbf9
+md1949-03-04.LL79.d1t04.flac:4cda88e4e8ee96e571146f1dcdad576c
+md1949-03-04.LL79.d1t05.flac:ec477bff49d9e9ffaf2cf99be97768a0
+md1949-03-04.LL79.d1t06.flac:a292ce39a81ce621d8d8978d7ed28c88
+md1949-03-04.LL79.d1t07.flac:1ca42d25f57254e6bec7fb33992087fc
+md1949-03-04.LL79.d1t08.flac:961f947a012fb912cd0942b5eebf49d7
+
+shntool
+ length     expanded size   cdr  WAVE problems filename
+     1:17.29       13651052    ---   --   ---xx   md1949-03-04.LL79.d1t01.flac
+     1:21.56       14420156    ---   --   ---xx   md1949-03-04.LL79.d1t02.flac
+     0:34.02        6002348    ---   --   ---xx   md1949-03-04.LL79.d1t03.flac
+     0:56.29        9946652    ---   --   ---xx   md1949-03-04.LL79.d1t04.flac
+     0:29.37        5202668    ---   --   ---xx   md1949-03-04.LL79.d1t05.flac
+     2:34.21       27215036    ---   --   ---xx   md1949-03-04.LL79.d1t06.flac
+     1:29.56       15831356    ---   --   ---xx   md1949-03-04.LL79.d1t07.flac
+     4:30.35       47710364    ---   --   ---xx   md1949-03-04.LL79.d1t08.flac
+    13:13.40      139979632 B                     (totals for 8 files, 0.2784 overall compression ratio)
+
+
+spectral analysis from TLH
+md1949-03-04.LL79.d1t01.wav:  track looks like CDDA with probability 100%
+md1949-03-04.LL79.d1t02.wav:  track looks like MPEG with probability 99%
+md1949-03-04.LL79.d1t03.wav:  track looks like MPEG with probability 100%
+md1949-03-04.LL79.d1t04.wav:  track looks like MPEG with probability 99%
+md1949-03-04.LL79.d1t05.wav:  track looks like MPEG with probability 91%
+md1949-03-04.LL79.d1t06.wav:  track looks like MPEG with probability 91%
+md1949-03-04.LL79.d1t07.wav:  track looks like MPEG with probability 90%
+md1949-03-04.LL79.d1t08.wav:  track looks like MPEG with probability 100%
+
+old md5 or ffp (incude both if available)
+md1949-03-04.tv.LL79.flac16\13 - Track13.flac:e066bd7662f0dd169d9b9a52d59f59db
+md1949-03-04.tv.LL79.flac16\14 - Track14.flac:9bcd6132fe66a242f279bc505230996b
+md1949-03-04.tv.LL79.flac16\15 - Track15.flac:15de9ebab3a189227677f8de9a6acbf9
+md1949-03-04.tv.LL79.flac16\16 - Track16.flac:4cda88e4e8ee96e571146f1dcdad576c
+md1949-03-04.tv.LL79.flac16\17 - Track17.flac:ec477bff49d9e9ffaf2cf99be97768a0
+md1949-03-04.tv.LL79.flac16\18 - Track18.flac:a292ce39a81ce621d8d8978d7ed28c88
+md1949-03-04.tv.LL79.flac16\19 - Track19.flac:1ca42d25f57254e6bec7fb33992087fc
+md1949-03-04.tv.LL79.flac16\20 - Track20.flac:961f947a012fb912cd0942b5eebf49d7

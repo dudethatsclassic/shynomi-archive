@@ -1,0 +1,71 @@
+Miles Davis Quintet
+07-02-1967
+Festival Field
+Newport, Rhode Island
+
+Project ID - LL121
+
+Source: FM Broadcast
+Lineage: Voice of America (VOA) broadcast > ? > DAT at 48 kHz > HDD via coax and Midiman 
+Dio 2448 digital soundcard > Resampled to 44.1 kHz, DC offset corrected, and wav edits with 
+SoundForge 6.0 > Tracks split with CD Wave > FLAC Frontend (level 8 with sector alignment) > ?? 
+> speed corrected via undocumented process by 55 cents
+
+Miles Davis (tpt); Wayne Shorter (ts); Herbie Hancock (p); Ron Carter (b); Tony Williams (d); 
+Willis Conover (ann)
+
+disc 1
+
+d1t01. Gingerbread Boy
+d1t02. Footprints
+d1t03. 'Round Midnight/
+
+-------------------------------------------------------
+
+Notes:
+
+- d1t01: This track has multiple instances of small jitters, distortion, and level fluctuation
+ too many to list. The same flaws are present on LL122
+
+- d1t02: This track is also subject to the same types of flaws as listed above. At 7:41, there
+is a sever drop in levels. The same flaws are present on LL122
+
+- d1t03: The level drop from d1t02 carry's over to this track until 1:10. Then the levels return
+to normal. At 3:34, a warble becomes very noticable and carry's through to the end of the track.
+at about 4:00 the sound recording gets nearly inaudible through the flaws until the song is cut. 
+
+- Not a bad sounding source. There are some level fluctuations, slight distortion and very small jitters, 
+but overall, a listenable source. This source s the speed corrected as listed in the lineage. I will leave 
+it up to the individual as to which is the best source. 
+
+- "Presumably the Quintet played a 45-60 minute set on this date, but so far this fragment is all that has 
+surfaced. Shorter plays especially well on "Footprints." "- Credit to Peter Losin,http://www.plosin.com/
+
+- QC done by Bgreen
+
+md5
+19f1c5de8439a100af2327a140858598 *md1967-07-02.LL121.d1t01.flac
+b242cc071886f6cb653c3f9e98fc1d8d *md1967-07-02.LL121.d1t02.flac
+8130e8468bb90a66af26da09b0efb7f8 *md1967-07-02.LL121.d1t03.flac
+
+ffp
+md1967-07-02.LL121.d1t01.flac:bb68b2d6fbd8dce251f6bd1a96c6ce72
+md1967-07-02.LL121.d1t02.flac:4da0fad2570962f786c9f01bb6658689
+md1967-07-02.LL121.d1t03.flac:296f273eafde4b66cc187470c5c36a5e
+
+shntool
+    length     expanded size   cdr  WAVE problems filename
+     8:43.07       92273708    ---   --   ---xx   md1967-07-02.LL121.d1t01.flac
+     7:55.41       83886476    ---   --   ---xx   md1967-07-02.LL121.d1t02.flac
+     4:08.30       43817804    ---   --   ---xx   md1967-07-02.LL121.d1t03.flac
+    20:47.03      219977988 B                     (totals for 3 files, 0.5140 overall compression ratio)
+
+spectral analysis from TLH
+md1967-07-02.LL121.d1t01.wav:  track looks like CDDA with probability 100%
+md1967-07-02.LL121.d1t02.wav:  track looks like CDDA with probability 100%
+md1967-07-02.LL121.d1t03.wav:  track looks like CDDA with probability 99%
+
+old md5 
+19f1c5de8439a100af2327a140858598 *miles_1967-07-02_fixed_T1.flac
+b242cc071886f6cb653c3f9e98fc1d8d *miles_1967-07-02_fixed_T2.flac
+8130e8468bb90a66af26da09b0efb7f8 *miles_1967-07-02_fixed_T3.flac

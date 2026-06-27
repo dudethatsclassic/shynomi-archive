@@ -1,0 +1,74 @@
+Beck
+2003-08-25
+The Point
+Dublin, Ireland
+
+Taper: John Keaveney
+Generation: MD(Master)->CDR(1)->.FLAC
+Equipment: Audio Technica AT-831B->Sony MZ-G755
+Extraction: CDR(1)->Apple iTunes extraction @ 44.1 khz->.WAV->xAct->.FLAC
+
+Setlist:
+
+DISC 1
+01.  Novacane
+02.  The New Pollution
+     Get Real Paid
+03.  Nicotine & Gravy
+04.  Cold Brains
+05.  Guess I'm Doing Fine
+06.  Lonesome Tears
+07.  Tropicalia
+08.  Sissyneck
+09.  Mixed Bizness
+     Milk & Honey
+10.  Paper Tiger
+11.  Nobody's Fault But My Own (solo)
+12.  Lost Cause
+13.  It's All in Your Mind
+
+DISC 2
+01.  The Golden Age
+02.  Do You Realize?? (The Flaming Lips cover) (solo)
+03.  Loser
+     Hotwax
+04.  Beercan
+05.  Sexx Laws
+06.  Hot In Herre (Nelly cover) (megajam)
+     Crazy in Love (Beyonce cover) (megajam)
+     Rock Your Body (Justin Timberlake cover) (megajam)
+     Another One Bites the Dust (Queen cover) (megajam)
+     Under Pressure (Queen cover) (megajam)
+     Erotic City (Prince cover) (megajam)
+07.  Where It's At 
+08.  Devil's Haircut
+
+Fingerprints:
+
+01\ Track\ 01.flac: abd8bbb205ff60fdf2a6936929f1673e
+02\ Track\ 02.flac: 993f7d715928fe029fde2e0efff43ca7
+03\ Track\ 03.flac: 03733e616742ea4cd31dd944aa67bfd8
+04\ Track\ 04.flac: 8e54cb5771a7b9c4f87418bcaeaca21a
+05\ Track\ 05.flac: 252887fb864a883f24226365002006ed
+06\ Track\ 06.flac: 6e6982c098c1f0200fad65af9e7c3219
+07\ Track\ 07.flac: 3ec77ecb633869925b5d7f1ddf253c06
+08\ Track\ 08.flac: 6da3f37f256051d2aade00235acfc6c9
+09\ Track\ 09.flac: a22fac565e821e02a1088106e38cbfac
+10\ Track\ 10.flac: 4d050de4bb3ac00fc6800c5a4e66c1e5
+11\ Track\ 11.flac: 1e6e93ef382d43a4b24996778232b2ae
+12\ Track\ 12.flac: fbdcca7c0557cffaafa6c01af46e6ea6
+13\ Track\ 13.flac: 8c2fdcb8c47607931f6529dfae79abe0
+01\ Track\ 01.flac: 5f8fafdc92648eaafebf7a68adaa089f
+02\ Track\ 02.flac: a1f8f6b4749b9500562c952af1016da2
+03\ Track\ 03.flac: e871aa389058fe94a4bbcd28022ad267
+04\ Track\ 04.flac: da52c082e28d7bf6f6fd731fca6f02b4
+05\ Track\ 05.flac: 1ce8d79acfa928d180685c602277f08e
+06\ Track\ 06.flac: 1aebabcc9ba0405ef0f6f3d1e089566c
+07\ Track\ 07.flac: 3aa4448fa608216e4f5c94aa22d37d75
+08\ Track\ 08.flac: a660657eed612e6119da709516c3f8ea
+
+Encoded by Bill Schofield
+
+Do NOT decode to mp3!
+Do NOT sell this recording!
+DO enjoy this and rock the shizzle!

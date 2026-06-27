@@ -1,0 +1,62 @@
+Miles Davis Quintet
+07-20-1957
+Café Bohemia
+New York, New York
+
+Project ID - LL5
+
+Source: FM Broadcast
+Lineage: Radio Broadcast>Unknown transfer(s) > ? >"Rare Miles" bootleg Disc 4 of 6 > ? > 
+wav > ? > flac
+
+Miles Davis (tpt); Sonny Rollins (ts); William "Red" Garland (p); Paul Chambers (b); 
+Arthur Taylor (d); Guy Wallace (ann); Maynard Ferguson (guest)
+
+disc 1
+
+d1t01. Announcer Intro -> Dear Old Stockholm
+d1t02. Bags' Groove/ >  /How Am I to Know/
+
+-------------------------------------------------------
+
+Notes:
+
+- A good performance with some recording flaws and an announcer voiceover
+interview on Track 2. There is some minor static crackle and minor hiss. The 
+left channel has very little frequency content above 16 KHz, while the signal 
+in the right channel is about 18 dB lower and contains some hiss in the full 
+audio spectrum. A couple of flaws are listed below.
+
+- d1t02. Dropout from 1:16.311 - 1:17.659
+
+- d1t02. At 2:36.600 music fades into background during voiceover 
+interview with Maynard Ferguson until end of track.
+- "Bag's Groove" cuts out near the beginning of the interview voiceover
+during Sonny Rollin's solo 
+
+- "How Am I to Know" begins in the background, voiced over completely by the interview 
+and fading out before the announcer sign-off.
+
+- QC done by guygee
+
+md5
+149e0c60be9fbe349449dd0cdd69546f *md1957-07-20.LL5.d1t01.flac
+f7f8faf8a9f482e78102d415812856ba *md1957-07-20.LL5.d1t02.flac
+
+ffp
+md1957-07-20.LL5.d1t01.flac:47441731a69266e622a979223bdd6cc9
+md1957-07-20.LL5.d1t02.flac:140f5213e5e931764df88cc4d8ca8c9e
+
+st5 
+47441731a69266e622a979223bdd6cc9  [shntool]  md1957-07-20.LL5.d1t01.flac
+140f5213e5e931764df88cc4d8ca8c9e  [shntool]  md1957-07-20.LL5.d1t02.flac
+
+shntool
+ length     expanded size   cdr  WAVE problems filename
+     6:47.63       71943020    ---   --   ---xx   md1957-07-20.LL5.d1t01.flac
+     5:12.08       55055660    ---   --   ---xx   md1957-07-20.LL5.d1t02.flac
+    11:59.71      126998680 B                     (totals for 2 files, 0.5260 overall compression ratio)
+
+spectral analysis from TLH
+md1957-07-20.LL5.d1t01.wav:  track looks like CDDA with probability 100%
+md1957-07-20.LL5.d1t02.wav:  track looks like CDDA with probability 100%

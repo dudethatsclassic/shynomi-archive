@@ -1,0 +1,24 @@
+Beck, 1994-12-04, Melkweg, Amsterdam, 52:49
+
+Here's a description of this show from Hijacked Flavors:
+
+"While the setlist doesn't contain anything terribly unique, this is one of the best shows of 1994.; "Fume" is much mellower than usual, until the end where it goes a little crazy.; Beck makes up some completely new lyrics for the first verse of "Soul Suckin Jerk."; Beck tells everyone "It's All In Your Mind" is only on a single, but will be on his next record. Eight years later on Sea Change, it was true!; Beck sings "Loser" in a goofy voice, and ad-libs all sorts of stuff.; Don't hear too many full band "Nitemare Hippy Girl"s, but this one is."
+
+
+1. radio intro / Corvette Bummer
+2. Fume
+3. Fuckin' With My Head (Mountain Dew Rock)
+4. Thunder Peel
+5. Soul Suckin' Jerk
+6. Minus
+7. Casio (Good Stuff)
+8. Asshole
+9. It's All In Your Mind (solo acoustic)
+10. Loser
+11. Mutherfuker
+12. Nitemare Hippy Girl
+13. Blackhole
+14. Beercan / radio outro
+
+Recording by ? / transfer by GB / notes (based on beck.com, db.etree.org, google.com and phishhhook.com), extraction and (re)seed by rappard [at] gmail [dot] com:
+VPRO broadcast > cassette (?) > Maxell XL-II 90 cassette (first generation) > Sony TC-K679ES > NAD 7020i > A/V out > Sound Blaster Audigy Platinum > Cool Edit 2000 > CD Wave > CD-R (master) > CD-R (first generation) > EAC v0.95b3 (secure) > FLAC Frontend 1.7.1 > .flac 1.1.2a (level 8) > Mp3tag v2.39 (tagged) > Trader's Little Helper 1.1.1.90 (generated checksum files)

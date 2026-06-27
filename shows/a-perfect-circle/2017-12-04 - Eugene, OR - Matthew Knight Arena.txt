@@ -1,0 +1,144 @@
+A PERFECT CIRCLE
+Monday, December 4, 2017
+Matthew Knight Arena
+Eugene, OR, US
+
+
+BILLY HOWERDEL - lead guitars, vocals, band leader
+MAYNARD JAMES KEENAN - lead vocals, shepherd
+JAMES IHA - guitars, keyboards, comedy stylings
+MATT McJUNKINS - bass, backing vocals
+JEFF FRIEDL - percussion
+
+
+SOURCE:  (shamil11)
+Tascam DR-100 (w/internal mics) -> SanDisk Ultra 32GB SD Card @ 24bit/48kHz
+
+TRANSFER:
+SanDisk Ultra 32GB SD Card -> Adobe Audition 3.0 -> CD Wave 1.95.1 -> ffmpeg 2.7.1 -> mp3tag v2.66
+
+GENERATION:
+WAV(M) [24bit/48kHz] -> WAV(1) [24bit/48kHz] -> FLAC [Lavf57.72.101] | md5/ffp/st5 checksums with TLH 2.7.0
+
+SETLIST:
+[02:36.16] pictures? das ist verboten! + intro
+[08:08.21] THE PACKAGE
+[03:15.25] THE HOLLOW
+[05:08.05] THE NOOSE
+[00:55.18] Maynard speaks (#1)
+[03:24.64] WEAK AND POWERLESS
+[03:31.46] ROSE
+[01:38.04] Maynard speaks (#2)
+[04:55.20] IMAGINE [Lennon]
+[05:45.42] BY AND DOWN
+[03:56.28] THOMAS
+[04:48.01] (What's So Funny 'Bout) PEACE LOVE & UNDERSTANDING [Brinsley Schwarz]
+[04:19.31] MAGDALENA
+[05:02.19] VANISHING
+[05:31.58] BLUE
+[05:16.04] GRAVITY
+[06:15.60] 3 LIBRAS (All Main Courses Mix)
+[01:03.26] Maynard speaks (#3)
+[05:36.14] HOURGLASS
+[05:55.32] COUNTING BODIES LIKE SHEEP TO THE RHYTHM OF THE WAR DRUMS
+[04:53.48] THE DOOMED
+[04:33.24] Maynard speaks (#4) & Iha speaks
+[04:39.46] THE OUTSIDER
+[05:38.59] FEATHERS
+[00:51.44] Maynard speaks (#5)
+[04:34.01] DOG EAT DOG [AC/DC]
+[112:14.06] TOTAL
+
+
+NOTES:
+A brief word about security. Much has been spoken about the thugs-in-uniforms at these shows, and it was
+actually enough to scare me away from attempting to record Portland--which infuriated me all that night
+in hindsight. An experienced taper can get their shit through any door, and this was really no serious
+challenge. Not being noticed by the attack dogs while drunken fools wave their cell phones around like
+a homing beacon is another matter... but I digress. It was quite refreshing to see a show without half
+the crowd holding up those goddamn cell phones all night, and it's disturbing that it takes shock tactics
+to make such a thing happen. Security was actually a lot worse the last time I taped APC in 2011...
+
+Positioned on the back wall of the second level of seating, almost dead-center (slightly stage-right).
+The distance worried me--I foresaw a boomy, treble-free capture--but it turned out ok. Sound was good in
+the arena. My seat was fantastic, perfect view of the distant stage and at the top of the stairs. Nobody
+in front of me because it was at the top of the stairs. Security kept a distant perimeter, only a few
+times entered the area to hassle a cellular offender.
+
+A loud drunk girl is next to me. Quite a few moments I came close to re-enacting a scene from Bill Hicks'
+"I'm Sorry Folks" performance, but cooler head prevailed. She was actually very friendly and shared her
+popcorn, but never once stopped talking. Wherever you are drunkzilla, stay thirsty my friend. Mercifully
+this is mostly absent on the recording as I kept some real estate between this cacophony and the mics.
+
+A word about the actual performance now... Fan and collector of the guys since 2001, and I dare say that
+APC are at the height of their (disjointed) career right now. Quite a performance from everybody in every
+aspect of the show--from the stage lights, instrument balance, to setlist. McJunkins & Friedl are really
+a great rhythm section, Iha & Howerdel shred the guitars, and Maynard is actually acting like he gives
+a shit from his shadowy podium in the back. Only downside: it was the last show of the tour, and I wanted
+to hear Gravity AND Passive. Meh.
+
+If Feathers, Hourglass, Doomed, etc and their general attitude right now is any indication, actually quite
+excited to see what kind of album and tour they're coming up with for next year, and I never thought I'd
+say that about them again after 2011. Thanks, Donald.
+
+The Beta Machine were very good as well, featuring McJunkins & Friedl to open, but were not recorded.
+
+MJK was sick for the last few shows of the tour, but was sounding pretty good actually. Fucking those
+ducks on his day off after Portland apparently did him some good.
+
+
+FLAC FINGERPRINTS:
+apc2017-12-04_t01_[FE6A6476].flac:22c62efcce09db7e3899f34ec8bca15b
+apc2017-12-04_t02_[4F5464A0].flac:d3dc4a438b76e14c38e602f7c0bd0211
+apc2017-12-04_t03_[90D5677E].flac:9f3fa6e2a168b76396f116d9b097d6ee
+apc2017-12-04_t04_[78FBE681].flac:9f41ef551cf1887746312a5780b0a7b2
+apc2017-12-04_t05_[1816E740].flac:e3df32ef9d0418fdf9993541000c7bdf
+apc2017-12-04_t06_[9062787D].flac:3a68b55be120e750676ab1d6ffc61ccc
+apc2017-12-04_t07_[4EC3E4A6].flac:7cfb3512dc905f0cd829ae211b000a3d
+apc2017-12-04_t08_[85F302D2].flac:4d8b4f785bd5445dd9149995b77c25ac
+apc2017-12-04_t09_[CB8C4408].flac:aff8842f821923e235c42aef85e673d3
+apc2017-12-04_t10_[3D38C114].flac:cbe9075dc7d13dedb88e77fc92d3773a
+apc2017-12-04_t11_[E06E0501].flac:c3d0d485c76d371e433a6710a04aa7a3
+apc2017-12-04_t12_[719221F8].flac:a1e1bf61ec22d2d45ad1575233e09965
+apc2017-12-04_t13_[B791E64F].flac:49a26bd183acfde663e2334cd60645ba
+apc2017-12-04_t14_[E20EB1E3].flac:6d4c1c47deaae513c7889b0ead074f8e
+apc2017-12-04_t15_[6508CE26].flac:b7a8fc7a35817d006fde15252c0ef1ee
+apc2017-12-04_t16_[AF6C1A13].flac:aed5af82fbdbcb5c261fd0e1d1f93ff6
+apc2017-12-04_t17_[35CE0B8A].flac:b728bed9fd34607bc4c1d365a09fcd8e
+apc2017-12-04_t18_[7D0175F2].flac:391c9e0593e3923f91f89d8d8637ea73
+apc2017-12-04_t19_[FCBAC73C].flac:2ec49f8feaee11e8076689cbdc33331a
+apc2017-12-04_t20_[3340E3B9].flac:016a5898459107ea3cd7ff860e91583e
+apc2017-12-04_t21_[EF4A8EF3].flac:2c1acf6fcb4d69517f0138c59c4fffa7
+apc2017-12-04_t22_[05CE4ED1].flac:d3a35186817f6873f189a8dde907b8de
+apc2017-12-04_t23_[0E66724F].flac:0f9a985764302ac00e0156a116eb520a
+apc2017-12-04_t24_[102A4D21].flac:f0ac8592adccc1628f74d882650b6ca6
+apc2017-12-04_t25_[93310CB9].flac:055fa2dd18fed00be586ea480d3e07c2
+apc2017-12-04_t26_[67F27C1E].flac:7f821fb8225818cf8bfe2e30ac12c1d8
+
+ST5 CHECKSUMS:
+22c62efcce09db7e3899f34ec8bca15b  [shntool]  apc2017-12-04_t01_[FE6A6476].flac
+d3dc4a438b76e14c38e602f7c0bd0211  [shntool]  apc2017-12-04_t02_[4F5464A0].flac
+9f3fa6e2a168b76396f116d9b097d6ee  [shntool]  apc2017-12-04_t03_[90D5677E].flac
+9f41ef551cf1887746312a5780b0a7b2  [shntool]  apc2017-12-04_t04_[78FBE681].flac
+e3df32ef9d0418fdf9993541000c7bdf  [shntool]  apc2017-12-04_t05_[1816E740].flac
+3a68b55be120e750676ab1d6ffc61ccc  [shntool]  apc2017-12-04_t06_[9062787D].flac
+7cfb3512dc905f0cd829ae211b000a3d  [shntool]  apc2017-12-04_t07_[4EC3E4A6].flac
+4d8b4f785bd5445dd9149995b77c25ac  [shntool]  apc2017-12-04_t08_[85F302D2].flac
+aff8842f821923e235c42aef85e673d3  [shntool]  apc2017-12-04_t09_[CB8C4408].flac
+cbe9075dc7d13dedb88e77fc92d3773a  [shntool]  apc2017-12-04_t10_[3D38C114].flac
+c3d0d485c76d371e433a6710a04aa7a3  [shntool]  apc2017-12-04_t11_[E06E0501].flac
+a1e1bf61ec22d2d45ad1575233e09965  [shntool]  apc2017-12-04_t12_[719221F8].flac
+49a26bd183acfde663e2334cd60645ba  [shntool]  apc2017-12-04_t13_[B791E64F].flac
+6d4c1c47deaae513c7889b0ead074f8e  [shntool]  apc2017-12-04_t14_[E20EB1E3].flac
+b7a8fc7a35817d006fde15252c0ef1ee  [shntool]  apc2017-12-04_t15_[6508CE26].flac
+aed5af82fbdbcb5c261fd0e1d1f93ff6  [shntool]  apc2017-12-04_t16_[AF6C1A13].flac
+b728bed9fd34607bc4c1d365a09fcd8e  [shntool]  apc2017-12-04_t17_[35CE0B8A].flac
+391c9e0593e3923f91f89d8d8637ea73  [shntool]  apc2017-12-04_t18_[7D0175F2].flac
+2ec49f8feaee11e8076689cbdc33331a  [shntool]  apc2017-12-04_t19_[FCBAC73C].flac
+016a5898459107ea3cd7ff860e91583e  [shntool]  apc2017-12-04_t20_[3340E3B9].flac
+2c1acf6fcb4d69517f0138c59c4fffa7  [shntool]  apc2017-12-04_t21_[EF4A8EF3].flac
+d3a35186817f6873f189a8dde907b8de  [shntool]  apc2017-12-04_t22_[05CE4ED1].flac
+0f9a985764302ac00e0156a116eb520a  [shntool]  apc2017-12-04_t23_[0E66724F].flac
+f0ac8592adccc1628f74d882650b6ca6  [shntool]  apc2017-12-04_t24_[102A4D21].flac
+055fa2dd18fed00be586ea480d3e07c2  [shntool]  apc2017-12-04_t25_[93310CB9].flac
+7f821fb8225818cf8bfe2e30ac12c1d8  [shntool]  apc2017-12-04_t26_[67F27C1E].flac

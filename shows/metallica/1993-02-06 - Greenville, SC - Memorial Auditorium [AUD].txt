@@ -1,0 +1,31 @@
+shntool 3.0.4
+Copyright (C) 2000-2007 Jason Jordan <shnutils@freeshell.org>
+
+    length     expanded size    cdr  WAVE problems  fmt   ratio  filename
+     5:26.51       57626396 B   ---   --   ---xx   flac  0.3806  00 Backstage With Lars.flac
+     1:55.25       20344844 B   ---   --   ---xx   flac  0.3638  01 Ecstasy Of Gold.flac
+     5:47.35       61293164 B   ---   --   ---xx   flac  0.4699  02 Enter Sandman.flac
+     7:37.61       80758316 B   ---   --   ---xx   flac  0.4717  03 Creeping Death.flac
+     7:28.25       79086044 B   ---   --   ---xx   flac  0.4545  04 Harvester Of Sorrow.flac
+     6:57.51       73678796 B   ---   --   ---xx   flac  0.4678  05 Sanitarium (Welcome Home).flac
+     7:58.44       84422732 B   ---   --   ---xx   flac  0.4633  06 Sad But True.flac
+     6:44.19       71310332 B   ---   --   ---xx   flac  0.4603  07 The Unforgiven.flac
+    10:00.27      105903548 B   ---   --   ---xx   flac  0.4739  08 Justice For All Riff Mix.flac
+     2:11.40       23202524 B   ---   --   ---xx   flac  0.3944  09 James Speaks.flac
+     6:42.63       71061020 B   ---   --   ---xx   flac  0.3790  10 Jason Newsted Bass Solo.flac
+     3:32.45       37502684 B   ---   --   ---xx   flac  0.4121  11 Jason And Kirk Jam.flac
+     4:39.46       49323836 B   ---   --   ---xx   flac  0.4105  12 Kirk Hammet Guitar Solo.flac
+     3:48.02       40223948 B   ---   --   ---xx   flac  0.4694  13 Through The Never.flac
+     5:32.28       58630700 B   ---   --   ---xx   flac  0.4603  14 For Whom The Bell Tolls.flac
+     7:32.02       79737548 B   ---   --   ---xx   flac  0.4595  15 Fade To Black.flac
+     5:14.41       55486076 B   ---   --   ---xx   flac  0.4560  16 Master Of Puppets.flac
+    17:28.40      184961324 B   ---   --   ---xx   flac  0.4608  17 Seek And Destroy.flac
+     4:35.40       48604124 B   ---   --   ---xx   flac  0.4719  18 Whiplash (cut).flac
+     1:56.35       20544764 B   ---   --   ---xx   flac  0.4017  19 Audience.flac
+     6:02.56       63988556 B   ---   --   ---xx   flac  0.4442  20 Nothing Else Matters.flac
+     8:13.38       87054620 B   ---   --   ---xx   flac  0.4800  21 Wherever I May Roam.flac
+     4:10.48       44212940 B   ---   --   ---xx   flac  0.4631  22 Am I Evil.flac
+     1:22.51       14584796 B   ---   --   ---xx   flac  0.4959  23 Last Caress.flac
+     9:19.72       98776988 B   ---   --   ---xx   flac  0.4688  24 One.flac
+     3:47.33       40120460 B   ---   --   ---xx   flac  0.3838  25 Lars Closing Comments.flac
+   156:07.43     1652441080 B                            0.4505  (26 files)

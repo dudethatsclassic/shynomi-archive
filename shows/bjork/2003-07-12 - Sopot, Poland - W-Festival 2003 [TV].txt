@@ -1,0 +1,39 @@
+Björk
+2003-07-11
+W-Festiwal 2003
+Sopot, Poland
+
+Source: TV BROADCAST
+Lineage: Trade CDR (x?) > EAC (secure) > FLAC (level 8)
+Tape by: ??
+Transfered by: ??
+
+File Size: 247 MB (FLAC)
+
+MTV Polnad broadcasting only 9 track from original 18 tracks gig.
+
+tracklist:
+
+1. All is full of love
+2. Desired constellation
+3. Heirloom
+4. An Echo, A Stain
+5. Bachelorette
+6. Hyper-ballad
+7. It's In Our Hands (SPT mix)
+8. Pluto
+9. Generous palmstroke
+
+total time : 39:13
+
+FLAC Fingerprints:
+
+01 - all is full of love.flac:dccffdff07760b89611cd23b2897da31
+02 - desired constellation.flac:1eb76d338b5f7ba6cc1d97086fc5e639
+03 - heirloom.flac:4b166cfd27a7dc659420ddf0dd623d23
+04 - an echo, a stain.flac:c0ad0f09ae0d9898ffebf8ec9d2e3ca4
+05 - bachelorette.flac:ee90dde78f2b44629a69a3e3319dcb25
+06 - hyper-ballad.flac:dbefa3305020c12d54c63b5a9d92de00
+07 - it's in our hands (soft pink truth mix).flac:4c9ce2e7bc0403b983703882505936fc
+08 - pluto.flac:c5949546b84132b06273a2e36677b4cd
+09 - generous palmstroke.flac:8b143392ff2f67d5c0355da04e7dfbd4

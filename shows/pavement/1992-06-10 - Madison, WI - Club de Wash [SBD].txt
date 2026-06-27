@@ -1,0 +1,62 @@
+PAVEMENT
+
+
+Club de Wash
+Madison, Wisconsin
+June 10, 1992
+
+
+S:  SBD > ??? > CDR(x)
+T:  CDR(x) > EAC > SHN > FLAC
+Terry Watts - http://db.etree.org/twatts
+
+
+1. intro
+2. Here
+3. Perfume V
+4. Frontwards
+5. Conduit for Sale!
+6. Texas Never Whispers
+7. Summer Babe
+8. Home
+9. Feed 'Em to the Lions (Linden)
+10. Loretta's Scar
+11. Trigger Cut
+12. No Life Singed Her
+13. In The Mouth A Desert
+14. Two States
+15. Zurich is Stained
+16. Debris Slide
+17. Greenlander
+18. She Believes
+
+
+Notes:
+
+Original EAC > SHN performed on March 7, 2004 for my own archives.
+
+Files renamed, converted to FLAC, WAV MD5 edited, new FFP created
+on Feb. 22, 2009.  The Original SHN MD5 is listed below.
+
+Terry Watts
+
+
+The Original SHN MD5:
+d41b6be7b778946357aa9494dabf1282 *pavement1992-06-10d1t01.shn
+fd88386188bd787309689b7d2f285b84 *pavement1992-06-10d1t02.shn
+7f49541c0190576ff029351b950ec35c *pavement1992-06-10d1t03.shn
+6fcb71b5c245272a7ebbc41647206123 *pavement1992-06-10d1t04.shn
+33cc8cdeef83ba14b3ec33288d8179a3 *pavement1992-06-10d1t05.shn
+cb07c2f35aac6aa0de11e01672d21c2c *pavement1992-06-10d1t06.shn
+6a0ad53b65b6c741f0e5036cfe58500f *pavement1992-06-10d1t07.shn
+e0dcfa16bb954974e165e076df8997f5 *pavement1992-06-10d1t08.shn
+afb198311d478d18da94395a18570456 *pavement1992-06-10d1t09.shn
+a77838116cecb2e2abbeac069600a52d *pavement1992-06-10d1t10.shn
+d08d349f4b4afa2017a714f89e9c1d9e *pavement1992-06-10d1t11.shn
+a88d15152b03528e63b09c017da9f841 *pavement1992-06-10d1t12.shn
+620199a3e200d71220c3547418905935 *pavement1992-06-10d1t13.shn
+e5b256de1c991fa84943ea4b751f0038 *pavement1992-06-10d1t14.shn
+76def088996918216ef9f2d5f2651277 *pavement1992-06-10d1t15.shn
+da8cdf193abcec1815190bc28d29bcc2 *pavement1992-06-10d1t16.shn
+754ea0ba1b947899077fdfdb39612e79 *pavement1992-06-10d1t17.shn
+8fcc3c9b3b55fc56a455db13048e1b28 *pavement1992-06-10d1t18.shn

@@ -1,0 +1,65 @@
+Smashing Pumpkins
+September 1st 1994
+Gorge Amphitheater
+George, WA, US
+
+SOURCE (AUD#1)
+Sony ECM-909 > Sony WM-D3
+
+TRANSFER:
+Nakamichi DR-1 > Focusrite Scarlett 8i6 > Adobe Audition
+
+GENERATION:
+ANA(M) > FLAC
+
+LENGTH:
+82:08
+
+SETLIST:
+01. Intro
+02. Rocket
+03. Cherub Rock
+04. Disarm
+05. Today
+06. Quiet
+07. I Am One (with rant)
+08. Soma
+09. Geek U.S.A.
+10. Mayonaise
+11. Snail
+12. Siva
+13. Daydream
+14. Frail and Bedazzled
+15. Plume
+16. (encore break)
+17. Silverfuck > Over the Rainbow [Harburg/Arlen] (tease)
+
+MD5 FINGERPRINTS:
+c74839c9f0e77023ce56929b03e0ef58 *Smashing Pumpkins 1994-09-01 AUD1 t01 Intro.flac
+2e5dcd439d166060cde00c79a4514d21 *Smashing Pumpkins 1994-09-01 AUD1 t02 Rocket.flac
+c99712a3564659684ba8406e466a9cf3 *Smashing Pumpkins 1994-09-01 AUD1 t03 Cherub Rock.flac
+1ce4911e3590b343b4c24b86d3f881ea *Smashing Pumpkins 1994-09-01 AUD1 t04 Disarm.flac
+9834cce6873d25660d5f72ba927db1e6 *Smashing Pumpkins 1994-09-01 AUD1 t05 Today.flac
+358494210ae49e053ff0f903531b30db *Smashing Pumpkins 1994-09-01 AUD1 t06 Quiet.flac
+4ac76dee5ec3b3bc9012e7719e2c1381 *Smashing Pumpkins 1994-09-01 AUD1 t07 I Am One (with rant).flac
+c58a0e22c659d7d6ac68d9704e02b133 *Smashing Pumpkins 1994-09-01 AUD1 t08 Soma.flac
+c82935ab55521a5856d99b2fc3323b25 *Smashing Pumpkins 1994-09-01 AUD1 t09 Geek U.S.A..flac
+b17ffa7600d3220f8f89d0fb3ccc8e45 *Smashing Pumpkins 1994-09-01 AUD1 t10 Mayonaise.flac
+73119f8a7f95cad24b567d35b4d3eec2 *Smashing Pumpkins 1994-09-01 AUD1 t11 Snail.flac
+7e8674022a3ad45b678a257854564fdd *Smashing Pumpkins 1994-09-01 AUD1 t12 Siva.flac
+183bc638965e8731387060c471a463c8 *Smashing Pumpkins 1994-09-01 AUD1 t13 Daydream.flac
+abe9bcb2c31cb562a1629e5b5a04ae5e *Smashing Pumpkins 1994-09-01 AUD1 t14 Frail and Bedazzled.flac
+f8f31847acbc8c043dad0cb786aa214b *Smashing Pumpkins 1994-09-01 AUD1 t15 Plume.flac
+41d48f5beae3917a484d87885aae0e1d *Smashing Pumpkins 1994-09-01 AUD1 t16 (encore break).flac
+31cf48ca2bb47ba688a6eee2de349fda *Smashing Pumpkins 1994-09-01 AUD1 t17 Silverfuck.flac
+
+RECORDED BY:
+Travis Stanley
+https://www.youtube.com/@seattleliverecordings
+
+TRANSFER BY:
+Nicholas Serra
+
+DISTRIBUTION:
+Nicholas Serra, Spaldz & Members of SPLRA
+2025-11-03

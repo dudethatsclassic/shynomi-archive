@@ -1,0 +1,36 @@
+A Perfect Circle
+2000-06-23
+Glastonbury Festival, England (Other Stage)
+
+Taper: unknown
+Source: SBD > FM > ANA(0)
+Transfer: ANA(1) > either Sony TC-KE300 or Sharp CD-X99H > Philips CDR775 > CDR(2) > Nero Express > CDR(3)
+Editing: CDR(3) > EAC > wav > fades to remove voice overs (GoldWave) > track indexes (CD Wave) > Level 8 FLAC Compressions (FLAC Frontend)
+
+Broadcast on BBC Radio 1's Rock Show a few weeks after the festival
+Transfer by Christophe D.
+Editing by Rob (http://db.etree.org/robkismet)
+
+
+************************************
+Do Not Sell Copies Of This Recording
+************************************
+
+**********************************************************
+Do Not Encode This Recording To MP3 Or Other Lossy Formats
+**********************************************************
+
+
+--. The Hollow
+01. Magdalena
+--. 3 Libras
+--. Breña
+02. Orestes
+--. Thinking Of You
+03. Thomas
+04. Ozzy's Cure
+--. Rose
+--. Judith
+
+
+This broadcast should doubtless exist in a better format somewhere, but after years of looking this is the only source I've found.  I am pretty sure that there is an FM>DAT source recorded by the CSB>D100 taper of the London show on 2000-07-13, but this does not seem to have circulated.  If anyone's able to track down a better tape then I'm sure it'd be greatly appreciated by many.

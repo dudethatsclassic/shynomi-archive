@@ -1,0 +1,76 @@
+Billy Corgan and the Machines of God
+June 20th 2025
+Joliet Memorial Stadium
+Joliet, IL, US
+
+SOURCE (AUD#1)
+SP-BMC-12 > iPhone 16 Pro > Apogee MetaRecorder app
+
+TRANSFER:
+iPhone 16 Pro > WAV > CD Wave Editor > Trader's Little Helper 2.8.4
+
+GENERATION:
+WAV(M) > FLAC
+
+LENGTH:
+122:35
+
+SETLIST:
+01. Le Deux Machina (pre-recorded)
+02. Glass' Theme
+03. Heavy Metal Machine
+04. Where Boys Fear to Tread
+05. Pentagrams
+06. The Crying Tree of Mercury
+07. Stand Inside Your Love
+08. Zero
+09. Porcelina of the Vast Oceans
+10. Sighommi
+11. Glass and the Ghost Children
+12. 999
+13. Bullet With Butterfly Wings
+14. Muzzle
+15. 1979
+16. Here's to the Atom Bomb
+17. Edin
+18. The Everlasting Gaze
+19. White Spyder
+20. Tonight, Tonight
+21. If There Is a God
+22. Bodies
+23. The Aeroplane Flies High (Turns Left, Looks Right)
+
+NOTES:
+A massive thank you to Eric Gregoire for recording the show
+
+MD5 FINGERPRINTS:
+a21082f53dcae4ae94535b73ff34e0fa *Billy Corgan 2025-06-20 AUD1 t01 Le Deux Machina.flac
+c6f579ac310df540390f3c29b5890e0c *Billy Corgan 2025-06-20 AUD1 t02 Glass' Theme.flac
+0ede2b05d2803a1acd7df5bb775a1f96 *Billy Corgan 2025-06-20 AUD1 t03 Heavy Metal Machine.flac
+b6cdf6e08a96692062cb7a04f0ad7c0c *Billy Corgan 2025-06-20 AUD1 t04 Where Boys Fear to Tread.flac
+e24324927228a0ef831a1003d3363fff *Billy Corgan 2025-06-20 AUD1 t05 Pentagrams.flac
+7213cd9c9980f24de4c70aa280082fde *Billy Corgan 2025-06-20 AUD1 t06 The Crying Tree of Mercury.flac
+e632c5159b5b98b2578de9ce664f12b0 *Billy Corgan 2025-06-20 AUD1 t07 Stand Inside Your Love.flac
+d5004da1a93a80a586c7d962a1952f92 *Billy Corgan 2025-06-20 AUD1 t08 Zero.flac
+df9140019d92fd659b4b64cc0f28042b *Billy Corgan 2025-06-20 AUD1 t09 Porcelina of the Vast Oceans.flac
+41e5813af3e1bf58f836ec802549ad95 *Billy Corgan 2025-06-20 AUD1 t10 Sighommi.flac
+f3b1fb0694518f896cbc44e6cb3ad0ad *Billy Corgan 2025-06-20 AUD1 t11 Glass and the Ghost Children.flac
+faa4564b5cc4bef6cabffc6b463ccdcc *Billy Corgan 2025-06-20 AUD1 t12 999.flac
+d580ef1726ee1c627b588c3a670a214b *Billy Corgan 2025-06-20 AUD1 t13 Bullet With Butterfly Wings.flac
+905f27057635fbaad6403ea50f2f5903 *Billy Corgan 2025-06-20 AUD1 t14 Muzzle.flac
+01fae5bb917e678fc659915cf011d782 *Billy Corgan 2025-06-20 AUD1 t15 1979.flac
+c327e52bcf19dd0d85a4b7babbf0eb4b *Billy Corgan 2025-06-20 AUD1 t16 Here's to the Atom Bomb.flac
+1bf88f8f8d464f2509204c753ac83142 *Billy Corgan 2025-06-20 AUD1 t17 Edin.flac
+58cc36de37d3c561ff7a2b9beac5db06 *Billy Corgan 2025-06-20 AUD1 t18 The Everlasting Gaze.flac
+97033a68858fce08691c69755ca09450 *Billy Corgan 2025-06-20 AUD1 t19 White Spyder.flac
+7ed179d8a1a763c42331c076a2fed1ed *Billy Corgan 2025-06-20 AUD1 t20 Tonight, Tonight.flac
+d3d5ffa3b4e47ebafde7eb53169e870f *Billy Corgan 2025-06-20 AUD1 t21 If There Is a God.flac
+e9f0a3cd9113ed976974b193684dafb5 *Billy Corgan 2025-06-20 AUD1 t22 Bodies.flac
+5c8f1e61eb4b807cd2c03698ec1adf66 *Billy Corgan 2025-06-20 AUD1 t23 The Aeroplane Flies High (Turns Left, Looks Right).flac
+
+RECORDED BY:
+Eric Gregoire
+
+DISTRIBUTION:
+Nicholas Serra, Spaldz, & Members of SPLRA
+2025-07-06

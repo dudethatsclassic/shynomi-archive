@@ -1,0 +1,48 @@
+Metallica
+Alameda Stadium
+Oakland, CA
+September 24, 1992
+
+16 bit version
+
+From the collection of koondog a/k/a Rush-Fan
+
+Taper: Karl Lundmark
+Gear : Aiwa CM-30a mic > Sony D7 DAT
+Transferred & mastered by }{eywood
+Lineage: DAT > TDK SA90 cassettes (1) > JVC TD-W354 playback deck > Adobe Audition 1.5 (recording to .wav @ 24/96, EQ, peak limiting, splits & fades) > Xrecode II (conversion to 16/44.1) > TLH (sector alignment, flac 8)
+
+
+Karl must have been in the thick of it on the floor for this one, because the balance level between the channels is constantly changing, most likely from heads getting in front of the mics.  A lot of Karl's recordings suffer from this, a byproduct of general admission shows and crowded floor sections.  There's a degree where this is fixable, and I've spent many hours trying to balance the channels on other recordings, but on this one, after spending half an hour on Creeping Death just to find myself less than three minutes into the song, I just gave up.  It is what it is.  I did fix the big overall level changes, tho, and the most annoying of the balance problems, but the soundstage on this one is in constant motion.  The worst of it is over by the time Sad But True starts, but the first several songs are particularly peripatetic.
+
+Since the mics were moving constantly the EQ is also not constant. Sometimes it's big and boomy, others sharp and tinny. I went for an average here that makes most of the show sound decent, but spots deviate.
+
+There was a tape change during Seek & Destroy that lost a portion of the song. I patched this in from Karl's tape made in Pasadena on October 3rd.
+
+John Marshall plays rhythm guitar here because James was still recovering from burns sustained in a pyro accident earlier in the tour.
+
+
+01 Intro: The Ecstacy of Gold
+02 Creeping Death
+03 Harvester of Sorrow
+04 Welcome Home (Sanitarium)
+05 Sad But True
+06 Wherever I May Roam
+07 Of Wolf and Man
+08 For Whom the Bell Tolls feat. Third Stone from the Sun
+09 The Unforgiven
+10 Shortest Straw
+11 banter
+12 bass solo
+13 guitar solo feat. Dazed & Confused, Killing Floor & Dance of the Marionettes
+14 Fade to Black
+15 Master of Puppets
+16 Seek & Destroy
+17 Whiplash
+
+18 Nothing Else Matters
+19 Am I Evil?
+20 Last Caress
+21 One
+
+22 Enter Sandman

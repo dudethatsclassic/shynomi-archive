@@ -1,0 +1,103 @@
+Ryan Adams - 9/28/01
+Variety Playhouse - Atlanta, GA
+
+Disc One:
+
+01) Candy Doll
+02) Firecracker
+03) Answering Bell
+04) Somehow, Someday
+05) Nobody Girl
+06) Lovesick Blues
+07) Touch, Feel & Lose
+08) To Be Young (Is To Be Sad, Is To Be High)
+09) La Cienega Just Smiled
+10) The Rescue Blues
+11) Oh My Sweet Carolina
+ 
+Disc Two:
+
+01) Tina Toledo's Street Walkin' Blues
+02) Nervous Breakdown 
+03) New York, New York
+04) Friendly Fire
+05) My Winding Wheel
+06) Don't Ask For The Water
+07) Damn, Sam (I Love A Woman That Rains)
+08) Call Me On Your Way Back Home
+09) Come Pick Me Up
+10) E:) Mega-Superior Gold
+11) I Don't Wanna Work
+12) Gimme A Sign
+13) Tennessee Sucks
+14) Desire
+
+www.ryan-adams.com
+
+The LAX
+
+Ryan Adams - guitar, vocal
+Brad Rice - guitar
+Bucky Baxter - guitar, pedal steel, vocal
+Dan Eisenberg - keyboard
+Billy Mercer - bass
+Brad Pemberton - drums
+
+Source: AKG C-3000> Lunatec V2> Graham-Patten ADC-20
+Transfer: Tascam DA-P1> S/PDIF> Montego II+> Cool Edit Pro(DSP)> CDWave
+
+Taped and transferred by Sloan Simpson
+
+ryanadams2001-09-28d1t01.flac:ee09b5ac51e00fd93fc3405d49cee6e5
+ryanadams2001-09-28d1t02.flac:a6ffc43a0cfbe8e1885f61fff9415bae
+ryanadams2001-09-28d1t03.flac:1a13150c55512fe8d54f3a2a7c59bca7
+ryanadams2001-09-28d1t04.flac:cb02598a450cb48798a9f4e6ecddf3da
+ryanadams2001-09-28d1t05.flac:7d7983e9b2f2625a97bf0c2dbe7fd57a
+ryanadams2001-09-28d1t06.flac:b389070834e27e252f4a6971e3b47465
+ryanadams2001-09-28d1t07.flac:e76870fb27ebd083346057fa53de928b
+ryanadams2001-09-28d1t08.flac:96ff27a02a00d3cf75e5c2dc7e5d253f
+ryanadams2001-09-28d1t09.flac:f9ca12b4c3be9bcbc4d56e07e8b1132a
+ryanadams2001-09-28d1t10.flac:05c241741eee33ed6bbfbc72e802f6a2
+ryanadams2001-09-28d1t11.flac:15c425010c42c823548280b4b66c35dd
+ryanadams2001-09-28d2t01.flac:00211ee2a4ab68a600ff417f2992beb1
+ryanadams2001-09-28d2t02.flac:6106f3fd850eca178c70206fbd8ae9cf
+ryanadams2001-09-28d2t03.flac:439efb284945a9e51553d5e01a549bf1
+ryanadams2001-09-28d2t04.flac:d6e99d7b7fe0504937e002d59480176d
+ryanadams2001-09-28d2t05.flac:38e5aac3b92b127a062a2daf63be02ab
+ryanadams2001-09-28d2t06.flac:e332c83472748056e0c2a4a29349b9e6
+ryanadams2001-09-28d2t07.flac:3186e2d866ba971400da7bcd6dad92d7
+ryanadams2001-09-28d2t08.flac:4e11bed993ebaaea7d43ab7303884bbd
+ryanadams2001-09-28d2t09.flac:bd5625c8c83c1ee805919d3c44edc3db
+ryanadams2001-09-28d2t10.flac:16fa50964efd2baa4ac2ba36b25e7f82
+ryanadams2001-09-28d2t11.flac:6ee6c3886e55779bafa7d589e2632c0a
+ryanadams2001-09-28d2t12.flac:c03ba7b24b2d0b38398e61547f0921ed
+ryanadams2001-09-28d2t13.flac:37bc5b3246fb0634a710b3ca08e7b011
+ryanadams2001-09-28d2t14.flac:70af46fb1797f25f7d334d014901b4e9
+
+    length     expanded size    cdr  WAVE problems  fmt   ratio  filename
+     6:22.00       67384844 B   ---   --   ---xx   flac  0.5417  ryanadams2001-09-28d1t01.flac
+     3:22.00       35632844 B   ---   --   ---xx   flac  0.5659  ryanadams2001-09-28d1t02.flac
+     3:52.00       40924844 B   ---   --   ---xx   flac  0.4911  ryanadams2001-09-28d1t03.flac
+     4:50.00       51156044 B   ---   --   ---xx   flac  0.5560  ryanadams2001-09-28d1t04.flac
+     8:56.00       94550444 B   ---   --   ---xx   flac  0.4787  ryanadams2001-09-28d1t05.flac
+     4:00.00       42336044 B   ---   --   ---xx   flac  0.4229  ryanadams2001-09-28d1t06.flac
+     5:21.00       56624444 B   ---   --   ---xx   flac  0.5043  ryanadams2001-09-28d1t07.flac
+     8:08.00       86083244 B   ---   --   ---xx   flac  0.4323  ryanadams2001-09-28d1t08.flac
+     6:34.00       69501644 B   ---   --   ---xx   flac  0.4591  ryanadams2001-09-28d1t09.flac
+     3:35.00       37926044 B   ---   --   ---xx   flac  0.5906  ryanadams2001-09-28d1t10.flac
+     5:26.38       57595820 B   ---   --   ---xx   flac  0.4521  ryanadams2001-09-28d1t11.flac
+     7:56.00       83966444 B   ---   --   ---xx   flac  0.5281  ryanadams2001-09-28d2t01.flac
+     1:40.00       17640044 B   ---   --   ---xx   flac  0.3884  ryanadams2001-09-28d2t02.flac
+     5:36.00       59270444 B   ---   --   ---xx   flac  0.5400  ryanadams2001-09-28d2t03.flac
+     4:25.00       46746044 B   ---   --   ---xx   flac  0.3314  ryanadams2001-09-28d2t04.flac
+     3:41.00       38984444 B   ---   --   ---xx   flac  0.3720  ryanadams2001-09-28d2t05.flac
+     4:56.00       52214444 B   ---   --   ---xx   flac  0.3237  ryanadams2001-09-28d2t06.flac
+     4:12.00       44452844 B   ---   --   ---xx   flac  0.3363  ryanadams2001-09-28d2t07.flac
+     4:58.00       52567244 B   ---   --   ---xx   flac  0.3376  ryanadams2001-09-28d2t08.flac
+     6:50.00       72324044 B   ---   --   ---xx   flac  0.5159  ryanadams2001-09-28d2t09.flac
+     4:01.00       42512444 B   ---   --   ---xx   flac  0.6008  ryanadams2001-09-28d2t10.flac
+     1:38.00       17287244 B   ---   --   ---xx   flac  0.5220  ryanadams2001-09-28d2t11.flac
+     3:12.00       33868844 B   ---   --   ---xx   flac  0.6114  ryanadams2001-09-28d2t12.flac
+     4:37.00       48862844 B   ---   --   ---xx   flac  0.3999  ryanadams2001-09-28d2t13.flac
+     3:57.72       41976188 B   ---   --   ---xx   flac  0.4042  ryanadams2001-09-28d2t14.flac
+   122:06.35     1292389820 B                            0.4692  (25 files)

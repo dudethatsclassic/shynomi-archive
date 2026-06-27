@@ -1,0 +1,87 @@
+Björk live @ PetÎfi Csarnok (Petofi Music Hall)
+28th September 1995
+(Post Tour)
+
+Recorded with a lame Panasonic dictaphone in the indoor concert hall of Petofi Csarnok. 
+(It has an outdoor venue as well.)
+
+I know this lossless sharing community thing is all about restoring audio relics without modifying them,
+ but this one was so unlistenable that I had to raise middle and high frequencies to somewhat recognize what song is playing. The tape had too much distorted bass and had no middle and high frequency band at all.
+
+Unfortunately, I dubbed the original master to another tape for some unknown reason, giving this bad quality
+ recording some more hiss (and to cut the show in half between Hyper-Ballad and Enjoy + leaving a 10-second overlapping).
+
+ Some noise reduction was made with Waves X-Noise in Sound Forge, then the audio processing was done with Steinberg WaveLab 5 
+(to make a balance of loudness between bassy and high-freq parts) and was compressed/sliced with Sonic Foundry Sound Forge v6.0.
+
+Lineage: Panasonic RQ-L340 > unknown (type-I) master tape > SONY EF-90 (type-I) compact cassette > RCA line cables > SONY RCD-W100 > Verbatim MusicLifePlus CD-RW 80 > EAC > WaveLab 5 > Sound Forge 6 > FLAC level 8 > you
+
+Track list:
+
+01 Headphones
+02 Army Of Me
+03 The Modern Things
+04 Human Behaviour
+05 Isobel
+06 Venus As A Boy
+07 Possibly Maybe
+08 I Go Humble (missing the first few bars - tape check?)
+09 The Anchor Song
+10 Hyper-Ballad (tape flip on 1st gen cassette, overlapping cut continuously)
+11 Enjoy
+12 I Miss You
+13 Crying
+14 Violently Happy (missing a few seconds from the beginning - possible tape flip on master tape)
+
+15 It's Oh So Quiet
+
+16 Big Time Sensuality
+
+Sorry for the excessive dialog and off-note singalong, I was in ecstasy. :) 
+Enjoy if you can! :D
+
+bias.
+
+FLAC fingerprints:
+
+bjork-aud950928-d1t01.flac:1cbf6cdac8a1a8722de0da0636b28c94
+bjork-aud950928-d1t01-fadein.flac:327750ab8d694eb2f744a6faf62f21b6
+bjork-aud950928-d1t02.flac:0087c6e8cc46e2c5ee4e730d034f51eb
+bjork-aud950928-d1t03.flac:fbdb7db4639180dda192062eec322e43
+bjork-aud950928-d1t04.flac:cce1f275c634ed7d0d8f499f405bc968
+bjork-aud950928-d1t05.flac:9657b289ac396f053ece14b91f1f558a
+bjork-aud950928-d1t06.flac:ce946d63cd2037eba7a6dab021ebc3ff
+bjork-aud950928-d1t07.flac:e542cef26b0220d1489bd1ac63ef3386
+bjork-aud950928-d1t08.flac:15e0dd1ed2fcf8b329e0da8ce8bba6c5
+bjork-aud950928-d1t09.flac:a923a73405cec61954acbbd759cd0f17
+bjork-aud950928-d1t10.flac:5400a1e581622e05e24049015d5eeff5
+bjork-aud950928-d2t01.flac:36e0fa3d69442d07a7e37d412ae699c4
+bjork-aud950928-d2t02.flac:d5036108f22d23c54e9655539f05f5ce
+bjork-aud950928-d2t03.flac:1bc1518b8f7c8b528e5ea4df46c5008a
+bjork-aud950928-d2t04.flac:f5bee858a150c67e389d805b419ea71f
+bjork-aud950928-d2t05.flac:40d2d976ed4ed54919389bb6771b32b7
+bjork-aud950928-d2t06.flac:1c6321ef2d6fdb9607759ec3fd6e9649
+bjork-aud950928-d2t06-fadeout.flac:a6b82cf5b853a44c39c9513e04906ecc
+
+MD5 checksums:
+
+ba2e12303301671ce8df4267adc6e7e6 *Bjork - 1995-09-28 - Petofi Music Hall, Budapest, Hungary.ffp
+3ee4d35fee9d4b16e4a4aaf4a0e20f32 *bjork-aud950928-d1t01.flac
+511c1f2ba4e5e65b2733fc17461e0313 *bjork-aud950928-d1t01-fadein.flac
+2b9a0309f7a3eb6ce3612dae92753a4b *bjork-aud950928-d1t02.flac
+c801602c00ee2ece9aa4e9d3d8ec5ae5 *bjork-aud950928-d1t03.flac
+449efee44ba40a91e180b3d5dbe64e00 *bjork-aud950928-d1t04.flac
+f45350d0bf69619aa7f0c0d3d28610c9 *bjork-aud950928-d1t05.flac
+3477125e5cff152b14f72924e492ec1e *bjork-aud950928-d1t06.flac
+9a230fd2f9ac8e59a3b5741621dda844 *bjork-aud950928-d1t07.flac
+38c68e1fd267610c90d4aa2e86590356 *bjork-aud950928-d1t08.flac
+0e992df32e682fd5f0a9ace3c10ab34e *bjork-aud950928-d1t09.flac
+e019a831768e6a0cd8c5b4b0d0a69a9e *bjork-aud950928-d1t10.flac
+13f61a1b00d8d9318493a3e374e55cea *bjork-aud950928-d2t01.flac
+bb6b97b88c333d8ade0c044dd2b3ac65 *bjork-aud950928-d2t02.flac
+b6a4783e1240ba4bb8b347f85581db10 *bjork-aud950928-d2t03.flac
+97c37016098e9a9d2611e016c299674d *bjork-aud950928-d2t04.flac
+06f106f5e59546bb0aef76e4f51b9e27 *bjork-aud950928-d2t05.flac
+181ea1e09012368ca7a3da483e30024d *bjork-aud950928-d2t06.flac
+ac768a33cb076534ccb404b8325c909a *bjork-aud950928-d2t06-fadeout.flac
+873457bca30afeb7aa424a7f5f7f2edc *tour_poster.jpg

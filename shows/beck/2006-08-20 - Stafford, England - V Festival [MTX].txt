@@ -1,0 +1,39 @@
+Beck
+V Festival, Weston Park, Stafford, England 
+20 August 2006
+
+Source 1: DPA4061 (CS-HEB) > CS-BB > H120 (rockbox)
+Transfer: H120 > USB > HD > Soundforge 8 (L2 & Q3 roll-off) > CDWAV > FLAC
+Taper: Nudesp00k
+
+Source 2: Icom IC-R5 > Sharp MT877MD
+Transfer: Sony MZ-RH1 > USB > Open MG ATRAC file > SonicStage 4.3 > 44.1kHz PCM wav
+Taper: petrock2000 
+
+Mastered in Adobe Audition CC2018, Izotope Ozone 8 and Har Bal 2.3 
+
+The Information
+Loser
+Girl
+Nausea
+Devils Haircut
+The Horrible Fanfare / Landslide / Exoskeleton
+Novacane
+One Foot in the Grave
+Hell Yes
+Black Tambourine
+Motorcade
+Broken Drum
+Lost Cause
+Creep (Radiohead cover)
+Do You Realize?? (The Flaming Lips cover)
+Debra
+The Golden Age
+Clap Hands
+PuppeTron
+Where It's At
+E-Pro
+
+Notes:
+A lot of interference on Source 2.  I did my best to clean it up using Sound Remover.
+

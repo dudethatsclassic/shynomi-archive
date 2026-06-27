@@ -1,0 +1,26 @@
+Candlebox
+2024-09-28
+South Star Music Festival
+John Hunt Park on the Camellia Stage
+Huntsville, AL
+
+Source: Schoeps MK4(ortf) > NBOB > BABYNBOX > Sony PCM-A10(24/48)
+Location: fob/sroc/35' from stage
+Transfer: Sony PCM-A10 > ThinkPad > Sound Forge Pro 16(Graphic EQ; Fade) > CD Wave > TLH(Level 8)
+Taped, transferred and tracked by Jesse Mc
+
+***24bit, not for CD***
+
+[0]
+
+01. Arrow
+02. Happy Pills
+03. Elegante
+04. Don't You
+05. Change
+06. Blossom
+07. Cover Me
+08. Far Behind
+09. You
+
+[Recording went down during 'Change' and back up at the beginning of 'Blossom' due to techical difficulties]

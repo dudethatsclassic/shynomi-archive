@@ -1,0 +1,70 @@
+Miles Davis Sextet
+05-03-1952
+Birdland
+New York, New York
+
+Project ID - LL94
+
+Source: FM Broadcast
+Lineage: WJZ Radio Broadcast> ?? > cd (Peter Losin's Archive) > 
+cd duplicated (burner to burner) > eac > wav > flac (lvl 8 )
+
+Miles Davis (tpt); Jackie McLean (as); Don Elliot (vb, mellophone); Gil Coggins (p); 
+Connie Henry (b); Connie Kay (d)
+
+disc 1
+
+d1t01. Wee Dot 
+d1t02. The Chase 
+d1t03. It Could Happen to You 
+d1t04. Out of the Blue 
+
+-------------------------------------------------------
+
+Notes:
+
+-This source has less distorion, static, and has an all around better sound than 
+the previously seeded LL49. A definite upgrade.
+
+- "Davis's first live date as a leader since the October Birdland broadcast. 
+His All-Star group was booked at Birdland for one week, May 1-7. Two nights were 
+broadcast on WJZ. Aside from the between-tune announcements, this is probably the 
+entire set performed on this night. After the Birdland engagement, Davis took a 
+group into Blue Note studios for the first of three studio dates." -Credit to Peter 
+Losin http://www.plosin.com/
+
+- Thanks to Peter Losin for source!!
+
+- QC done by Bgreen
+
+md5
+b1224883f58ec285c2b90d8ea8976747 *md1952-05-03.fm.LL94.d1t01.flac
+4c059d0332ed70ea6463329caf20ced2 *md1952-05-03.fm.LL94.d1t02.flac
+c4881a4053d8a21d7636bf2a68394d73 *md1952-05-03.fm.LL94.d1t03.flac
+e9e97951a19f2a1b458e896c3aaaaddc *md1952-05-03.fm.LL94.d1t04.flac
+
+ffp
+md1952-05-03.fm.LL94.d1t01.flac:630ab041b28b45d788de24effbaabfd8
+md1952-05-03.fm.LL94.d1t02.flac:9e114c3a7a56f327a1f0ce95c59b5b75
+md1952-05-03.fm.LL94.d1t03.flac:b242508768f948d17c70fbf2da599484
+md1952-05-03.fm.LL94.d1t04.flac:65c05526d729706379f35ee4df5806e7
+
+shntool
+     length     expanded size   cdr  WAVE problems filename
+     6:21.73       67380140    ---   --   ---xx   md1952-05-03.fm.LL94.d1t01.flac
+     6:19.59       66994412    ---   --   ---xx   md1952-05-03.fm.LL94.d1t02.flac
+     4:42.38       49834220    ---   --   ---xx   md1952-05-03.fm.LL94.d1t03.flac
+     5:47.57       61344908    ---   --   ---xx   md1952-05-03.fm.LL94.d1t04.flac
+    23:12.02      245553680 B                     (totals for 4 files, 0.3999 overall compression ratio)
+
+spectral analysis from TLH
+md1952-05-03.fm.LL94.d1t01.wav:  track looks like CDDA with probability 49%
+md1952-05-03.fm.LL94.d1t02.wav:  track looks like CDDA with probability 49%
+md1952-05-03.fm.LL94.d1t03.wav:  track looks like MPEG with probability 80%
+md1952-05-03.fm.LL94.d1t04.wav:  track looks like CDDA with probability 43%
+ 
+old ffp
+18 - Track18.flac:630ab041b28b45d788de24effbaabfd8
+19 - Track19.flac:9e114c3a7a56f327a1f0ce95c59b5b75
+20 - Track20.flac:b242508768f948d17c70fbf2da599484
+21 - Track21.flac:65c05526d729706379f35ee4df5806e7

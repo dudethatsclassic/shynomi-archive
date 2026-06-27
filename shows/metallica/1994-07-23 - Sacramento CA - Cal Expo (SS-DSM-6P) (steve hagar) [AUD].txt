@@ -1,0 +1,106 @@
+Metallica
+
+1994-07-23
+Cal Expo
+Sacramento, CA 
+
+
+Recording Equipment: Sonic Studios DSM-6P mic w/ 3 way lo-cut module, Unknown position -> Sony WM-D6 
+
+
+Lineage: Denon 790R -> Kenwood A-522 amplifier -> Kenwood GE-622 Equalizer -> DAT line out -> line in on Tascam DR-2D -> WAV -> Wav Pad Editor(track splitting) -> TLH (align,Encode,ffp) -> FLAC
+
+
+Taper: Steve "ballsdeep" Hagar
+
+
+01. The Ecstacy Of Gold
+02. Breadfan
+03. Master Of Puppets (Short Version) 
+04. Wherever I May Roam 
+05. Harvester Of Sorrow
+06. Welcome Home (Sanitarium) 
+07. The God That Failed
+08. Kill/Ride Medley 
+09. For Whom The Bell Tolls
+10. Disposable Heroes
+11. Seek And Destroy
+12. Kirk's Guitar Solo 
+13. Nothing Else Matters 
+14. Creeping Death
+15  Jason's Orion Bass Tease
+16. Fade To Black
+17. Whiplash
+Encore:
+18. Sad But True
+19. One
+Encore #2
+20. Enter Sandman
+21. So What!
+
+
+
+
+show notes: first and foremost, to get this out of the way, this *is* the source tape for the "Live In The USA" 2cd bootleg in the "snakeskin" packaging (Banzai label).
+
+
+way back in the infancy of my taping, I gave a few of my masters to a lady who had contacts in Italy. I never received any money, but I did receive 5 copies of each cd to give to friends, etc. it was a very short-lived endeavor, resulting in 3 titles (Megadeth '95 Phoenix and Tori Amos '94 SF the others, also on Banzai).
+
+that all said, when they received the master, I believe they just rand it straight to cd.
+
+
+for this release, I did a full "click removal" on both channels with the widest 'spike' selected (40), and sensitivity set at 100.
+
+
+
+that still left a LOT of screams, and some claps as well. 
+
+
+
+I then spent about 6 hours going thru, zooming in on each scream and hard-limiting just the screams (not the music), and then reducing the claps by anywhere from 1 to 10db, depending on volume. THEN the entire file was boosted to -0.2db, for what you have here today.
+
+
+
+imo, it's now a *much* more 'even' listening experience. 
+
+back then I thought this was the best overall sounding of the 4 CA shows I taped, listening to this "remaster" right now, I'm tempted to agree with that assessment (Devore was really nice as I stood on the chair the entire show, Mountain View was solid, and Carson I didn't take seriously). overall, this now is pretty sweet to listen to.
+
+
+
+these setlists were so stale, as was the between-song banter, I really have no comments about the show. except it was hot outside. 
+
+
+
+he's all four horsemen wrapped up into one, he goes by bubba420, and you should thank him for uploading this gem. I'll keep pushing buttons, and digging in the vault. you never know what may be next.....(though I'm out for the stadium tour...give me arenas...it's been almost 18 years since I've seen 'em)
+
+
+
+---ballsdeep OUT!!!!
+
+
+
+
+ffp:
+
+
+01. The Ecstacy Of Gold.flac:33af9df96fa3551af735443cf0c86073
+02. Breadfan.flac:372adf198759ab1bcbf2b76354dd47ab
+03. Master Of Puppets.flac:bb088e57a70548b603b17c75c620e2b9
+04. Wherever I May Roam.flac:6a392afe3a864ded2469efbc12d9cf2a
+05. Harvester Of Sorrow.flac:bfa7ad1b1d2d82751086dfe91b09f1c4
+06. Welcome Home (Sanitarium).flac:fa07d2913b6cbd87c71dc2649a820d5f
+07. The God That Failed.flac:265ccf47cba703f1f0e30e79c032f7b2
+08. Kill-Ride Medley.flac:383cc873d44802859e222ca102049c2d
+09. For Whom The Bell Tolls.flac:cbba18b762e12791c5d0816b557719e5
+10. Disposable Heroes.flac:d6b991034636055e118eb1b52bf6bc37
+11. Seek And Destroy.flac:219b65734bfa2aacc9c29df635d45a8f
+12. Kirk's Guitar Solo.flac:d10e70c0cca5738b1770c6b755e8d37c
+13. Nothing Else Matters.flac:b0183a689b1526377ce864c5324ef54e
+14. Creeping Death.flac:2b1dc2ff840d0eb4d49ac466068aa5b5
+15. Jason's Orion Bass Tease.flac:4207c93e8317c67110402e4d5b9c764c
+16. Fade To Black.flac:13a703a3d9bcd916ee16896b2d8920ea
+17. Whiplash.flac:3f736180bf4097639b501ac5929dfe5e
+18. Sad But True.flac:31b0ff76fa7a24b05ec2326547f1618b
+19. One.flac:18dbdb339e3db4830155930beb521f64
+20. Enter Sandman.flac:b09ec2c5ad6c51acfb3af22df5b40e81
+21. So What.flac:630b155341b621d00c6777dd3d8bc3f7

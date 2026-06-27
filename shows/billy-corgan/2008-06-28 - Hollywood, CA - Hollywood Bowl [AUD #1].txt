@@ -1,0 +1,33 @@
+Billy Corgan
+28th June 2008
+Hollywood Bowl
+Hollywood, CA, US
+
+SOURCE (AUD#1)
+SS-DSM-6 > PA-6LC3 > TCD-D7
+
+TRANSFER:
+TCD-D7 > 7pin Coaxial -> CDRW700 > EAC > Soundforge > FLAC Frontend Level 8 
+
+GENERATION:
+DAT(M) > CDR(M) > FLAC
+
+LENGTH:
+8:28
+
+SETLIST:
+01. Julia [The Beatles]
+02. Good Morning, Good Morning [The Beatles]
+
+NOTES:
+Sgt. Peppers Lonely Hearts Club Band anniversary show
+
+This upload only includes the specific songs performed only by Billy Corgan
+
+Billy also performs on All You Need is Love (all star jam) and was on guitar for World's Greatest Lover alongside Cheap Trick
+
+There is a complete version of this recording including all performances and an Assisted Listening Device recording of the first set only
+
+MD5 FINGERPRINTS:
+01b47f5f77021122a8b008fc4e8ab431 *Billy Corgan 2008-06-28 AUD1 t01 Julia [The Beatles].flac
+fb64c9d5b7685de8f7f76f19097e82d9 *Billy Corgan 2008-06-28 AUD1 t02 Good Morning, Good Morning [The Beatles].flac

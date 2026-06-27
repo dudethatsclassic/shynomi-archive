@@ -1,0 +1,41 @@
+
+A Perfect Circle
+UIC Pavilion: Chicago, IL
+November 24, 2017
+
+Source: AT831s > SP-SPSB-11 (@69Hz) > Sony PCM-M10 @ 24-bit / 44.1kHz
+Location: FOB, Sec 103, right risers
+Transfer: SD Card > Audacity (amplify/dither) > CDWave > TLH
+Taper: tapeworm(48) 
+
+Setlist:
+
+01 Intro
+02 The Package
+03 The Hollow
+04 The Noose
+05 Weak and Powerless
+06 Rose
+07 Imagine [John Lennon]
+08 By and Down
+09 Thomas
+10 People Are People [Depeche Mode]
+11 Orestes
+12 Thinking of You
+13 A Stranger
+14 Vanishing
+15 3 Libras (All Main Courses Mix)
+16 Hourglass
+17 Counting Bodies Like Sheep to the Rhythm of the War Drums
+18 The Doomed
+19 The Outsider
+20 Feathers
+
+Notes: Beta Machine opened the show (not recorded). M10 set at 6. Entire file amplified by +1dB prior to dithering. Raw transfer with no fades or EQ.
+
+Archive: Master WAV was archived @ 24-bit/44.1kHz and FLAC'd with cue sheet. 
+
+Taped and transferred by tapeworm(48) 
+Txt file compiled on 11/25/2017
+
+*** DO NOT DISTRIBUTE IN LOSSY FORMATS. DO NOT SELL THIS RECORDING, TRADE IT FREELY *** 

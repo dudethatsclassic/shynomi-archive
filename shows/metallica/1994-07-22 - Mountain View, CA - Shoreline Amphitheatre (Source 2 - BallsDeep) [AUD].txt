@@ -1,0 +1,51 @@
+Metallica
+
+1994-07-22
+Shoreline Ampitheater
+Mountain view, CA
+
+
+Recording Equipment: Sonic Studios DSM-6P mic w/ 3 way lo-cut module, Unknown position -> Sony WM-D6 
+
+
+Lineage: Denon 790R -> Kenwood A-522 amplifier -> Kenwood GE-622 Equalizer -> DAT line out -> line in on Tascam DR-2D -> WAV -> Wav Pad Editor(track splitting) -> TLH (align,Encode,ffp) -> FLAC
+
+
+Taper: Steve "ballsdeep" Hagar
+
+
+01. The Ecstacy Of Gold
+02. Breadfan
+03. Master Of Puppets (Short Version) 
+04. Wherever I May Roam 
+05. Harvester Of Sorrow
+06. Welcome Home (Sanitarium) 
+07. The God That Failed
+08. Kill/Ride Medley 
+09. For Whom The Bell Tolls
+10. Disposable Heroes
+11. Seek And Destroy
+12. Kirk's Guitar Solo 
+13. Nothing Else Matters 
+14. Creeping Death
+15  Jason's Orion Bass Tease
+16. Fade To Black
+17. Whiplash
+Encore:
+18. Sad But True
+19. One
+Encore #2
+20. Enter Sandman
+21. So What
+
+
+show notes: well here you have the almighty Metallica on the Summer S*** tour. I had high expectations of varied setlists and Alice In Chains when buying tix to 4 of the shows. instead, I got "the same songs played in the same order with the same between-song banter said between the same songs played in the same order" each night....and CANDLECROTCH (nee: Candlebox). needless to say, I was pretty disappointed in this tour, both with the setlists and with the playing, as even "Disposable Heroes" sounded more like a Sabbath sludgefest ("The Writ"? "Children Of The Sea"?) than fiery Metallica. but I *do* realize you collectors 'want it all', so here you go, directly from the master. enormous thanks to the buzzsaw known as bubba420 for the upload, and who knows what I'll be fired up to dig out next???
+
+
+---ballsdeep OUT!!!
+
+-----------------------------
+
+*Additional Notes, Added April 7, 2017 by JITF
+
+The tracks were encoded in an older FLAC version (1.2.1 20070917). Decoded back to WAV using Trader's Little Helper, then converted to current FLAC format (1.3.2 20170101) at Level 8 with EZ CD Audio Converter. The files went from 894.7 MB to 894.3 MB.

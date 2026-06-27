@@ -1,0 +1,132 @@
+Band: Metallica
+Venue: Ziggo Dome
+City - Country: Amsterdam, Netherlands
+Date: September 6th, 2017
+
+Lineage: Church Audio cardioid mic's CA-14s > Sony M10 @ 24/96 (Line In) -> Adobe Audition CC 2017 (normalizing / downsampling to 24/48) -> CDwave -> TLH (FLAC Level 8)
+Recorded and mastered by Thierry
+
+Main set: 
+01. The Ecstacy Of Gold
+02. Hardwired
+03. Atlas, Rise! 
+04. Seek & Destroy
+05. Leper Messiah
+06. Fade To Black
+07. Now That We're Dead 
+08. Confusion 
+09. Rob Bass Doodle  
+10. For Whom The Bell Tolls
+11. Halo On Fire
+12. Kirk and Rob solos (Radar Love and Eye Of The Beholder)
+13. Anesthesia (Pulling Teeth)
+14. Blitzkrieg
+15. Fuel
+16. Moth Into Flame
+17. Sad But True
+18. One
+19. Master Of Puppets
+20. Encore Break
+ 
+Encore: 
+21. Damage Inc.
+22. Nothing Else Matters
+23. Enter Sandman
+
+Epic show, absolutely loved the setlist. Beats night one by a mile for me. Sound was a tad louder than night one, my mics had a hard time handling the loudness especially during the encore.
+Recorded from the 2nd Tier.
+Enjoy, please do not convert to mp3!
+
+------------------------------------------------------------
+addy info:
+
+16bit transfer by Axel(a.k.a. RoryGallagher)
+
+lineage: 24bit flac files > foobar2000 > 16bit wav files > tlh(level 8) > 16bit flac files
+
+
+ffp:
+
+Metallica - 2017-09-06, Amsterdam_01.flac:1c48d61547cac7bca0487319a4ca001f
+Metallica - 2017-09-06, Amsterdam_02.flac:b2ab8e5b5f16c100611585f14f1e424e
+Metallica - 2017-09-06, Amsterdam_03.flac:a8582cd38b2c0e65f37a79dc0d71023c
+Metallica - 2017-09-06, Amsterdam_04.flac:254d53fee62b33c687b4598a858ce572
+Metallica - 2017-09-06, Amsterdam_05.flac:ab9d129058b77c9b12a7baa69042ad47
+Metallica - 2017-09-06, Amsterdam_06.flac:740b1eaaf107492de4cdf44cbdc645e8
+Metallica - 2017-09-06, Amsterdam_07.flac:67e5ce599610ed931e335d86439894bc
+Metallica - 2017-09-06, Amsterdam_08.flac:9c04f529d9606aacf92d730fb59c7661
+Metallica - 2017-09-06, Amsterdam_09.flac:b907d672977bccb891e7d503cabd1a17
+Metallica - 2017-09-06, Amsterdam_10.flac:843678b7df3605d86a1da8fe430d89fe
+Metallica - 2017-09-06, Amsterdam_11.flac:6d42c2b3794e5a555e0e082c54c30622
+Metallica - 2017-09-06, Amsterdam_12.flac:44e6cbf9576bdbb3ce276126235c6583
+Metallica - 2017-09-06, Amsterdam_13.flac:f2060c45e543551a8f883a2f1bddd49f
+Metallica - 2017-09-06, Amsterdam_14.flac:c086dd5310087a368052cad1590381db
+Metallica - 2017-09-06, Amsterdam_15.flac:34dd7863373159a1b1162c7cd448e3df
+Metallica - 2017-09-06, Amsterdam_16.flac:c6dd3755bfc6bd861c890591b58cceb3
+Metallica - 2017-09-06, Amsterdam_17.flac:9332ae472a70f94d19ccbc41c062ba6f
+Metallica - 2017-09-06, Amsterdam_18.flac:8158dd5eec766f7fb6624cc3da3a3ac5
+Metallica - 2017-09-06, Amsterdam_19.flac:049cec1e90708138d2ea944aa6bbd21c
+Metallica - 2017-09-06, Amsterdam_20.flac:5878ae89c27ac831b0baf296c6a6818c
+Metallica - 2017-09-06, Amsterdam_21.flac:22142e7f24c8c79d4878fea42fc16f45
+Metallica - 2017-09-06, Amsterdam_22.flac:56d94db8299146ffbfabc1923232daad
+Metallica - 2017-09-06, Amsterdam_23.flac:f342d56759bfd7f2675fa77f412d4c13
+
+No errors occured. (TLH said that.)
+
+
+MD5:
+
+8158dba652f7aaf9bc722c337a669227 *Metallica - 2017-09-06, Amsterdam_01.flac
+1756c372501c105ce050553938b68c10 *Metallica - 2017-09-06, Amsterdam_02.flac
+8fdba6a7042647f53ca7e6c375a3ccf0 *Metallica - 2017-09-06, Amsterdam_03.flac
+d83fc87d06f68dede43b5beefde481c9 *Metallica - 2017-09-06, Amsterdam_04.flac
+26c67f8a9a9f418468c6313474b86ebf *Metallica - 2017-09-06, Amsterdam_05.flac
+f45dbd737017974ade1642fb74981b7a *Metallica - 2017-09-06, Amsterdam_06.flac
+e1cf5c273ea8b6a914458127ad365ce1 *Metallica - 2017-09-06, Amsterdam_07.flac
+50350c86238a0df9ac19be4dc15f180d *Metallica - 2017-09-06, Amsterdam_08.flac
+65ae958ccaafc5ce6119b7b7dadd1cf6 *Metallica - 2017-09-06, Amsterdam_09.flac
+0ee168a6ae862ff0d7d25145f883ed99 *Metallica - 2017-09-06, Amsterdam_10.flac
+8917c939c01fcf2de61cbbea7bb1e5a5 *Metallica - 2017-09-06, Amsterdam_11.flac
+f5f7c681ac6550ad9fe2fba565c9d2a5 *Metallica - 2017-09-06, Amsterdam_12.flac
+1a4f2e4b6145e406e2610a6be0699b18 *Metallica - 2017-09-06, Amsterdam_13.flac
+3d2a1a7f992bc8b822462b50ff56e812 *Metallica - 2017-09-06, Amsterdam_14.flac
+2fcad7a9905aea6081f5fe64ead5f04a *Metallica - 2017-09-06, Amsterdam_15.flac
+827df0d77397411ce23caba7558c783f *Metallica - 2017-09-06, Amsterdam_16.flac
+d28b47ad180ec6f499080a3751b15d7f *Metallica - 2017-09-06, Amsterdam_17.flac
+013f36a79f6def0f42b40641ec5e103c *Metallica - 2017-09-06, Amsterdam_18.flac
+ea2b8a1239f780ca6372da4e407d7a05 *Metallica - 2017-09-06, Amsterdam_19.flac
+fdd0143f5b5f163276d1c7ecb9639ddc *Metallica - 2017-09-06, Amsterdam_20.flac
+bcf2f225425c99c9267f9a69a92c5a69 *Metallica - 2017-09-06, Amsterdam_21.flac
+13da5703dc6f5e0022f3e3bb7414855e *Metallica - 2017-09-06, Amsterdam_22.flac
+3a685e4b66f984aadfada41e83469d37 *Metallica - 2017-09-06, Amsterdam_23.flac
+
+No errors occured. (TLH said that.)
+
+
+st5:
+
+1c48d61547cac7bca0487319a4ca001f  [shntool]  Metallica - 2017-09-06, Amsterdam_01.flac
+b2ab8e5b5f16c100611585f14f1e424e  [shntool]  Metallica - 2017-09-06, Amsterdam_02.flac
+a8582cd38b2c0e65f37a79dc0d71023c  [shntool]  Metallica - 2017-09-06, Amsterdam_03.flac
+254d53fee62b33c687b4598a858ce572  [shntool]  Metallica - 2017-09-06, Amsterdam_04.flac
+ab9d129058b77c9b12a7baa69042ad47  [shntool]  Metallica - 2017-09-06, Amsterdam_05.flac
+740b1eaaf107492de4cdf44cbdc645e8  [shntool]  Metallica - 2017-09-06, Amsterdam_06.flac
+67e5ce599610ed931e335d86439894bc  [shntool]  Metallica - 2017-09-06, Amsterdam_07.flac
+9c04f529d9606aacf92d730fb59c7661  [shntool]  Metallica - 2017-09-06, Amsterdam_08.flac
+b907d672977bccb891e7d503cabd1a17  [shntool]  Metallica - 2017-09-06, Amsterdam_09.flac
+843678b7df3605d86a1da8fe430d89fe  [shntool]  Metallica - 2017-09-06, Amsterdam_10.flac
+6d42c2b3794e5a555e0e082c54c30622  [shntool]  Metallica - 2017-09-06, Amsterdam_11.flac
+44e6cbf9576bdbb3ce276126235c6583  [shntool]  Metallica - 2017-09-06, Amsterdam_12.flac
+f2060c45e543551a8f883a2f1bddd49f  [shntool]  Metallica - 2017-09-06, Amsterdam_13.flac
+c086dd5310087a368052cad1590381db  [shntool]  Metallica - 2017-09-06, Amsterdam_14.flac
+34dd7863373159a1b1162c7cd448e3df  [shntool]  Metallica - 2017-09-06, Amsterdam_15.flac
+c6dd3755bfc6bd861c890591b58cceb3  [shntool]  Metallica - 2017-09-06, Amsterdam_16.flac
+9332ae472a70f94d19ccbc41c062ba6f  [shntool]  Metallica - 2017-09-06, Amsterdam_17.flac
+8158dd5eec766f7fb6624cc3da3a3ac5  [shntool]  Metallica - 2017-09-06, Amsterdam_18.flac
+049cec1e90708138d2ea944aa6bbd21c  [shntool]  Metallica - 2017-09-06, Amsterdam_19.flac
+5878ae89c27ac831b0baf296c6a6818c  [shntool]  Metallica - 2017-09-06, Amsterdam_20.flac
+22142e7f24c8c79d4878fea42fc16f45  [shntool]  Metallica - 2017-09-06, Amsterdam_21.flac
+56d94db8299146ffbfabc1923232daad  [shntool]  Metallica - 2017-09-06, Amsterdam_22.flac
+f342d56759bfd7f2675fa77f412d4c13  [shntool]  Metallica - 2017-09-06, Amsterdam_23.flac
+
+No errors occured. (TLH said that.)

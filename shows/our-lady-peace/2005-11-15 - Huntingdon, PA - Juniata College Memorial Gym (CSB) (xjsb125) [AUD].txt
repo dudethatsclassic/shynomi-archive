@@ -1,0 +1,46 @@
+Our Lady Peace
+2005-11-15
+Juniata College Memorial Gym
+Huntingdon, PA, USA
+
+Source: CSB > battery box (fixed flat response) > MZ-RH10
+By: xjsb125
+Transfer: master hi-md > MZ-RH10 > SonicStage (wav) > Adobe audition 1.5 (8db
+          increase) > wav > CD Wave > FLAC
+By: xjsb125
+Transfer: FLAC > WAV (remastered in Adobe Audition, retracked in CD Wave) > FLAC
+By: faninor
+
+Disc 1 ------------------------------------------------------------- [67:35.000]
+01 - intro                                                           [00:44.000]
+02 - Picture                                                         [06:14.000]
+03 - Starseed                                                        [04:10.600]
+04 - Innocent                                                        [04:20.000]
+05 - Angels/Losing/Sleep                                             [05:25.400]
+06 - Clumsy                                                          [07:31.800]
+07 - Wipe That Smile Off Your Face                                   [05:32.200]
+08 - In Repair                                                       [04:19.000]
+09 - Where Are You?                                                  [04:47.000]
+10 - Is Anybody Home?                                                [03:37.000]
+11 - Waited                                                          [03:19.000]
+12 - Boy                                                             [05:19.000]
+13 - Will the Future Blame Us?                                       [06:46.000]
+14 - Superman's Dead                                                 [05:25.000]
+15 - fade                                                            [00:05.000]
+
+Disc 2 ------------------------------------------------------------- [20:55.000]
+01 - fade                                                            [00:05.000]
+02 - encore                                                          [03:16.000]
+03 - Apology                                                         [04:32.000]
+04 - 4am                                                             [04:27.000]
+05 - Walking in Circles                                              [04:19.000]
+06 - Somewhere Out There                                             [04:16.000]
+
+Notes --------------------------------------------------------------------------
+Location: Front row, 5 feet from center
+Opening band: The Shackeltons; Minor clipping occurs on a few tracks; crowd
+surfers during the final songs of the main set and throughout the encore became
+distracting to the band.
+Remastered by faninor with xjsb125's permission.
+
+-- faninor -------- please don't convert to lossy formats -------- 2005-11-22 --

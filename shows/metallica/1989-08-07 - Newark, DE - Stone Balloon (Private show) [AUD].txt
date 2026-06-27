@@ -1,0 +1,70 @@
+Metallica
+
+1989-08-07
+Stone Balloon
+Newark, DE
+
+Source: mono cassette -> 2nd(?) gen cass -> Sound Forge 6.0 -> WAV -> FLAC
+
+01 Ecstasy Of Gold
+02 Creeping Death
+03 For Whom The Bell Tolls
+04 (Welcome Home) Sanitarium
+05 The Four Horsemen
+06 Harvester Of Sorrow
+07 Phantom Lord
+08 Jason's Bass Solo ->
+09 To Live Is To Die Jam ->
+10 Master Of Puppets
+11 Fade To Black
+12 Jump In The Fire Tease
+13 Trapped Under Ice Tease
+14 No Remorse *
+15 Metal Militia Jam
+16 Twist Of Cain Tease
+17 Seek And Destroy -> Escape Tease
+18 London Dungeon Jam -> Iron Man Jam -> Running Free Jam
+19 Last Caress ->
+20 Am I Evil? ^
+21 Motorbreath
+22 Hit The Lights
+23 Blitzkrieg
+24 Damage Inc.
+25 Breadfan (false starts)
+26 Breadfan
+
+
+* w/audience vocals
+
+^Lars on vocals
+
+
+
+Flac Fingerprint:
+
+metallica1989-08-07t01.flac:3a5259c253d5cba961c78d091db2c3fb
+metallica1989-08-07t02.flac:b8d6a23379bec8940470af64fce4439d
+metallica1989-08-07t03.flac:a88a163b851474803186d8e46c817c00
+metallica1989-08-07t04.flac:d9df4a541d67823b2db0c981943a32d7
+metallica1989-08-07t05.flac:45bcde87d97929a31f00554cd799482a
+metallica1989-08-07t06.flac:1c020e34bfdc9a828dee4c60298e7e58
+metallica1989-08-07t07.flac:169f906c5bd2a2f90df4381f8f87a044
+metallica1989-08-07t08.flac:3eae81073703051eaa7a00b642774808
+metallica1989-08-07t09.flac:c5db6838cf81aeaa34a68a62a6a39266
+metallica1989-08-07t10.flac:446a44513467d62b4f44525fd2e759c4
+metallica1989-08-07t11.flac:ffb5d6ded25b546aaf4b3817c7acb5a9
+metallica1989-08-07t12.flac:0e64ecd76d3876d068f1344c11aa639a
+metallica1989-08-07t13.flac:400f80fcdb1f786526330e8d38f71909
+metallica1989-08-07t14.flac:a095acf5d2b6cd0be39c2289e58ee507
+metallica1989-08-07t15.flac:6f47149672913ea02d38a7a11ca60ab6
+metallica1989-08-07t16.flac:d5be00541d0fd932af9005efa2c37ef5
+metallica1989-08-07t17.flac:3288844d4872827c452a44389b571ab9
+metallica1989-08-07t18.flac:392993cc59ab396dbf677c455b480e22
+metallica1989-08-07t19.flac:268d0c5f3738ab409fe276eda36b53e6
+metallica1989-08-07t20.flac:9d53b6de8da0190ead8024ec17bc40a8
+metallica1989-08-07t21.flac:dff53b8c2ebdecb023036ae88545b7b8
+metallica1989-08-07t22.flac:49e56f87ac38b14aea23af6cca193be2
+metallica1989-08-07t23.flac:133c56780fad43d2e5439b6ceeeae3b2
+metallica1989-08-07t24.flac:4e287b5bc211ec9a85f50781c68add71
+metallica1989-08-07t25.flac:1cd8ad5fe9954a194a0b406f5711c7c3
+metallica1989-08-07t26.flac:0d3cbcdd1193d4a02fcaad34b080f645

@@ -1,0 +1,41 @@
+Metallica
+
+Date: 01/25/85
+Venue: L'Amour
+Location: New York, NY (Brooklyn)
+**Source: Aud > ?? > Vinyl?? > ?? > WAV > FLAC 
+
+ 
+Setlist:
+
+1. Fight Fire with Fire 
+2. Ride the Lightning 
+3. Phantom Lord 
+4. Four Horsemen 
+5. Cliff solo 
+6. For Whom the Bell Tolls 
+7. No Remorse 
+8. Call of Ktulu 
+9. Seek & Destroy 
+10.Whiplash 
+11.Creeping Death 
+12.Guitar Solo (kirk)
+13.Metal Militia 
+
+Comments:
+**Thats my best (GUESS) on the source info, there was no info with this show when i got these FLAC files.The only info that came with this show was the FLAC fingerprints and the show being named 01-25-1985 Elmhurst,ny NOTHING else.I did some lookin on the web and found the Venue to be L'Amour East at "MOST" sites. I also took a look at it with EAC and it doesnt look its mp3 sourced to me. If someone knows ANY more info about this show please let me know.  ~ bubba420 ~
+
+Flac Fingerprint: 
+Track01.flac:66826f7fccb168e12424b51c17a193d6
+Track02.flac:31df069ec2aaaf67da56d8f3b3b1309a
+Track03.flac:cd24cd46914b4a5db8c88fdd9596d992
+Track04.flac:765b26a75d2e858d7926819cede8f34f
+Track05.flac:8f0b60ce252c0c924dc04517f6cf776b
+Track06.flac:cb253e220dc4a8d2984214286cf13c40
+Track07.flac:54129107f109d1ad1e0cf47fc0f7b8e0
+Track08.flac:4cdb6320ac6309d78e467bfaa6ab52d4
+Track09.flac:09dcf4e3bff3a150081fe770a429ffea
+Track10.flac:a62172a385ef5a9ae8821b4fb78646ac
+Track11.flac:6968f0e05a24f258a8d3cc9884aa15ec
+Track12.flac:550421e2bc12b87691fe6a99cadffa72
+Track13.flac:572b9f8049936dcff7ff64b563d44a3b

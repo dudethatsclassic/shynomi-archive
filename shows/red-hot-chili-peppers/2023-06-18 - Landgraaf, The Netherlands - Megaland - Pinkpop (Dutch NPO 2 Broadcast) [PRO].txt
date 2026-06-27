@@ -1,0 +1,33 @@
+Red Hot Chilli Peppers
+Pinkpop
+Megaland, Landgraaf, The Netherlands
+June 18, 2023
+Southstage (Headliner), 22:10 - 0:00
+
+
+Taken from the Dutch NPO 2 Extra TV broadcast, June 18, 2023
+
+Lineage : NPO2 Extra DVB-C - Humax iHDR-5200C - AVIdemux
+
+
+Technical details:
+File Name : Red Hot Chilli Peppers - 2023-06-18 - Pinkpop.ts
+Size : 2.95 GB
+Duration : 01:29:38
+Mux type : TS Stream
+
+Video Encoding : H264
+Frame rate : 25.00 fps
+Encoding size : 1920x1080
+Aspect ratio : 16:9
+
+Audio Stream: 1 (Primary)
+Codec : MPEG
+MPEGLayer : Layer 2
+Channels : 2.0
+Bit rate : 256 Kbps
+Sampling rate : 48000
+Sample size : 32 bits
+
+
+Uploaded by Thunderwing.

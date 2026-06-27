@@ -1,0 +1,57 @@
+The Lemonheads
+The Black Sheep
+Colorado Springs, CO 
+February 1, 2012
+
+  One Set:
+
+01 Being Around *
+02 Outdoor Type *
+03 My Idea *
+04 All My Life *
+05 Rockin' Stroll
+06 Confetti
+07 It's A Shame About Ray
+08 Rudderless
+09 My Drug Buddy
+10 The Turnpike Down
+11 Bit Part
+12 Alison's Starting To Happen
+13 Hannah & Gabi
+14 Kitchen
+15 Ceiling Fan In My Spoon
+16 Frank Mills **
+17 Hospital
+18 Down About It
+19 The Great Big No
+20 Tenderfoot
+21 If I Could Talk I'd Tell You
+22 Die Right Now
+23 Big Gay Heart 
+24 Pittsburgh
+
+  Encore:
+
+25 house music & crowd
+26 Free Bird (unfinished)
+27 No Backbone
+28 Style
+
+*  Evan Dando acoustic solo
+** Evan Dando electric solo
+
+Source 1 (AUD): Microtech Gefell M300 (NOS, FOB, ceiling mount) > Tascam DR-680
+Source 2 (SBD): SBD (stereo mains mix) > Tascam DR-680
+Master format: 44.1 kHz, 16 bit, stereo (.WAV)
+Digital transfer: SDHC card (USB reader) > PC
+Digital editing: CuBase SX 2.0.1 (Combine sources, pre and post set fades, WAVES L1-Ultramaximizer)
+Tracking & processing for CD: CD Wave Editor 1.95.1 > FLAC Frontend 1.7.1/ FLAC 1.1.2 > AudioShell 1.3.5 (Tags)
+Distribution format: 44.1 kHz, 16 bit, stereo (.FLAC)
+
+Recorded, processed and distributed by Chuck Miller (chuck@taperssection.com)
+
+Event notes: Fred Mascherino (acoustic solo) & Meredith Sheldon opened for The Lemonheads
+             Tracks 5-16 are the album "It's A Shame About Ray" in it's entirety
+
+
+

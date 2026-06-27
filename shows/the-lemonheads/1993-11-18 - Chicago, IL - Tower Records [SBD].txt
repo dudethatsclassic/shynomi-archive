@@ -1,0 +1,16 @@
+    length     expanded size   cdr  WAVE problems filename
+     3:28.74       36865292    ---   --   -----   lheads1993-11-18t01 - Confetti.wav
+     2:39.26       28108796    ---   --   -----   lheads1993-11-18t02 - Favorite T.wav
+     2:48.28       29701100    ---   --   -----   lheads1993-11-18t03 - Great Big No.wav
+     2:56.13       31077020    ---   --   -----   lheads1993-11-18t04 - Kitchen.wav
+     2:28.64       26257772    ---   --   -----   lheads1993-11-18t05 - Down About It.wav
+     4:22.64       46367372    ---   --   -----   lheads1993-11-18t06 - Big Gay Heart.wav
+     3:11.17       33732428    ---   --   -----   lheads1993-11-18t07 - Drug Buddy.wav
+     2:35.72       27511388    ---   --   -----   lheads1993-11-18t08 - It's About Time.wav
+     2:34.29       27233852    ---   --   -----   lheads1993-11-18t09 - Style.wav
+     3:26.10       36361964    ---   --   -----   lheads1993-11-18t10 - Rudderless.wav
+     3:21.47       35566988    ---   --   -----   lheads1993-11-18t11 - It's A Shame About Ray.wav
+     3:23.34       35889212    ---   --   -----   lheads1993-11-18t12 - Stove.wav
+     1:34.60       16722764    ---   --   -----   lheads1993-11-18t13 - Being Around.wav
+     2:38.37       27958012    -b-   --   -----   lheads1993-11-18t14 - It's A Shame About Ray.wav
+    41:30.50      439353960 B                     (totals for 14 files, 1.0000 overall compression ratio)

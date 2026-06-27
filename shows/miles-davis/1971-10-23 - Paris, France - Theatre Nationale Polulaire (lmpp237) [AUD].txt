@@ -1,0 +1,29 @@
+Miles Davis
+23 October 1971 (1971-10-23)
+Théâtre Nationale Populaire
+Palais de Chaillot
+Paris
+France
+
+Miles Davis trumpet
+Gary Bartz soprano & alto sax
+Keith Jarrett e-piano, organ
+Michael Henderson bass
+Leon Chancler drums
+Don Alias percussion
+James Mtume (James Forman) percussion
+
+1. Directions
+2. What I Say
+3. Sanctuary
+4. It's About That Time
+5. Yesternow
+6. Bitches Brew
+7. Honky Tonk
+8. Funky Tonk
+9. Sanctuary (Closing Theme)
+
+The source of this show is lmpp237.
+Stated to be an audience recording?
+Previous lineage: > reel > cdr > EAC > Cubase SX2 (minor editing, indexing, no sound processing applied) > flac
+Additional lineage: Audition 13 (DC balancing, normalizing, tracking) > xACT 2.51 (splitting, flac, checksums)

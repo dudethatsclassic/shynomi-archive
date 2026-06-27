@@ -1,0 +1,81 @@
+Metallica
+Deer Creek
+Noblesville IN
+July 25, 1998
+
+ Taper: Greg Holtz
+
+ Source: Sonic Studios-> D7 @ 16/48kHz
+
+ Transfer: (By JAZ) DAT Master 16b/48kHz-> PCM-R300-> Coax-> M-Audio Delta 1010Lt-> Wave Lab 5.0, Ozone3, Fades, L2 Dither 16b/44.1kHz-> Traders Little Helper flac8
+
+   ***A GEMS PRODUCTION NOVEMBER 23, 2007***
+             ***SHNFLAC.NET***
+
+ Set I
+1.Breadfan
+2.Master of Puppets
+3.Of Wolf and Man
+4.The Thing That Should Not Be
+5.Fuel
+6.The Memory Remains
+7.Bleeding Me
+8.Nothing Else Matters
+9.Until It Sleeps
+10.King Nothing
+11.Wherever I May Roam
+12.One
+13.Fight Fire With Fire
+
+ Set II (acoustic) 
+14.Low Man's Lyric
+15.The Four Horsemen
+16.Motorbreath
+
+ Encore:
+17.Sad But True
+18.Enter Sandman
+19.Creeping Death
+
+ FLAC FINGERPRINT:
+Metallica1998-07-25trk01.flac:e1ce4cd09c49eb3e8a1fe542fbfa0db2
+Metallica1998-07-25trk02.flac:186d3886d7aaaba36e397a8ab79de2cd
+Metallica1998-07-25trk03.flac:22d0094938501e52b88c83b6ae06396d
+Metallica1998-07-25trk04.flac:159fc8086f460090b7fec54177fd7c16
+Metallica1998-07-25trk05.flac:a501c491266148975d5954ef7242e98a
+Metallica1998-07-25trk06.flac:12d833f908ca11f3d38f905b279a5409
+Metallica1998-07-25trk07.flac:9ff79188ea608390f32795e93f462056
+Metallica1998-07-25trk08.flac:3806e34ea995b181fbaf715b05541af7
+Metallica1998-07-25trk09.flac:b157658938466dedc4e42f4b516a677d
+Metallica1998-07-25trk10.flac:3795f63d5ad468aed70ee7fbfcf1e2fa
+Metallica1998-07-25trk11.flac:e47928d17e7047a53d202d98744e0b49
+Metallica1998-07-25trk12.flac:e6bb6007c9a83e1d7dd98b1174841550
+Metallica1998-07-25trk13.flac:9eaaf45e853ca25cc1dcf9fde007f360
+Metallica1998-07-25trk14.flac:fcd090f889efb6f7ecaffa90c129b11f
+Metallica1998-07-25trk15.flac:600490d236b578ebba6cdaf191ce733b
+Metallica1998-07-25trk16.flac:4c25e1c321e3354fcf66cdf8b95cc690
+Metallica1998-07-25trk17.flac:b7e015f8b5e7a0d30a270d28627a338b
+Metallica1998-07-25trk18.flac:11eeed4b8dc74a4b358502dd1010846b
+Metallica1998-07-25trk19.flac:b928e63a3616ea5b6ba44da393a36a6e
+ 
+ SHNTOOL:
+     5:56.09       62819612    ---   --   ---xx   Metallica1998-07-25trk01.flac
+     3:37.46       38387036    ---   --   ---xx   Metallica1998-07-25trk02.flac
+     5:22.63       56949020    ---   --   ---xx   Metallica1998-07-25trk03.flac
+     5:13.25       55272044    ---   --   ---xx   Metallica1998-07-25trk04.flac
+    17:06.74      181160492    ---   --   ---xx   Metallica1998-07-25trk05.flac
+     8:56.11       94576316    ---   --   ---xx   Metallica1998-07-25trk06.flac
+     5:46.41       61130876    ---   --   ---xx   Metallica1998-07-25trk07.flac
+     6:12.44       65724332    ---   --   ---xx   Metallica1998-07-25trk08.flac
+     4:07.52       43693148    ---   --   ---xx   Metallica1998-07-25trk09.flac
+     7:22.72       78138188    ---   --   ---xx   Metallica1998-07-25trk10.flac
+     6:43.21       71138636    ---   --   ---xx   Metallica1998-07-25trk11.flac
+     8:18.62       87993068    ---   --   ---xx   Metallica1998-07-25trk12.flac
+     8:44.14       92466572    ---   --   ---xx   Metallica1998-07-25trk13.flac
+     6:57.71       73725836    ---   --   ---xx   Metallica1998-07-25trk14.flac
+     4:02.04       42698252    ---   --   ---xx   Metallica1998-07-25trk15.flac
+     4:13.30       44699804    ---   --   ---xx   Metallica1998-07-25trk16.flac
+     7:07.34       75402812    ---   --   ---xx   Metallica1998-07-25trk17.flac
+     9:29.61      100515116    ---   --   ---xx   Metallica1998-07-25trk18.flac
+     8:52.74       94018892    ---   --   ---xx   Metallica1998-07-25trk19.flac
+   134:12.58     1420510052 B                     (totals for 19 files, 0.5676 overall compression ratio)

@@ -1,0 +1,81 @@
+The Smashing Pumpkins
+July 10, 2007
+930 Club
+Washington DC
+
+*** THIS IS A 24-BIT FILESET NOT INTENDED FOR AUDIO CD ***
+
+SOURCE:  schoeps mk4v (ORTF) > vms02ib > edirol r09 (24/48)
+PROCESSING:  soundforge 8.0 (+ 1.5 dB left channel, tracking, fades) > flac 1.2.0a
+
+01  Ragtime Band introduction
+02  United States
+03  Bleeding the Orchid
+04  Today
+05  Bullet with Butterfly Wings
+06  Starla
+07  Shame
+08  The Aeroplane Flies High
+09  Hummer
+10  That's the Way (My Love Is)
+11  Doomsday Clock
+12  Blue Skies Bring Tears
+13  For God and Country
+14  The Crying Tree of Mercury
+15  Thirty-three
+16  Rocket
+17  Something Means Something, But Nothing Means Nothing
+18  Tonight, Tonight
+19  Tarantula
+20  Starz
+21  Zero
+22  Neverlost  
+23  (Come On) Let's Go!
+24  Heavy Metal Machine
+25  Disarm
+26  1979
+27  Untitled
+28  pre-encore crowd
+29  Cherub Rock
+30  pre-encore crowd
+31  Gossamer
+32  pre-encore crowd
+33  Fuck You (An Ode To No One)
+
+Big thanks go out to Tom Roach for wearing the schoeps!
+
+    length     expanded size    cdr  WAVE problems  fmt   ratio  filename
+     2:39.400      45907244 B   cxx   --   ---xx   flac  0.5471  smashingpumpkins2007-07-10_mk4v_t01.flac
+    11:45.700     203241644 B   cxx   --   ---xx   flac  0.6239  smashingpumpkins2007-07-10_mk4v_t02.flac
+     4:48.300      83030444 B   cxx   --   ---xx   flac  0.6388  smashingpumpkins2007-07-10_mk4v_t03.flac
+     3:29.032      60201260 B   cxx   --   ---xx   flac  0.6513  smashingpumpkins2007-07-10_mk4v_t04.flac
+     4:44.768      82013228 B   cxx   --   ---xx   flac  0.6376  smashingpumpkins2007-07-10_mk4v_t05.flac
+     9:14.800     159782444 B   cxx   --   ---xx   flac  0.6007  smashingpumpkins2007-07-10_mk4v_t06.flac
+     5:20.453      92290604 B   cxx   --   ---xx   flac  0.6206  smashingpumpkins2007-07-10_mk4v_t07.flac
+     6:32.747     113111084 B   cxx   --   ---xx   flac  0.6317  smashingpumpkins2007-07-10_mk4v_t08.flac
+     9:39.500     166896044 B   cxx   --   ---xx   flac  0.6070  smashingpumpkins2007-07-10_mk4v_t09.flac
+     3:41.097      63676076 B   cxx   --   ---xx   flac  0.6699  smashingpumpkins2007-07-10_mk4v_t10.flac
+     4:17.003      74016812 B   cxx   --   ---xx   flac  0.6697  smashingpumpkins2007-07-10_mk4v_t11.flac
+     9:39.400     166867244 B   cxx   --   ---xx   flac  0.6129  smashingpumpkins2007-07-10_mk4v_t12.flac
+     3:40.835      63600428 B   cxx   --   ---xx   flac  0.5741  smashingpumpkins2007-07-10_mk4v_t13.flac
+     2:42.465      46790060 B   cxx   --   ---xx   flac  0.5375  smashingpumpkins2007-07-10_mk4v_t14.flac
+     3:54.292      67476140 B   cxx   --   ---xx   flac  0.5602  smashingpumpkins2007-07-10_mk4v_t15.flac
+     4:24.608      76207148 B   cxx   --   ---xx   flac  0.5517  smashingpumpkins2007-07-10_mk4v_t16.flac
+     4:39.500      80496044 B   cxx   --   ---xx   flac  0.5235  smashingpumpkins2007-07-10_mk4v_t17.flac
+     4:08.400      71539244 B   cxx   --   ---xx   flac  0.6336  smashingpumpkins2007-07-10_mk4v_t18.flac
+     3:57.800      68486444 B   cxx   --   ---xx   flac  0.6590  smashingpumpkins2007-07-10_mk4v_t19.flac
+     3:57.105      68286380 B   cxx   --   ---xx   flac  0.6458  smashingpumpkins2007-07-10_mk4v_t20.flac
+     3:56.995      68254508 B   cxx   --   ---xx   flac  0.6152  smashingpumpkins2007-07-10_mk4v_t21.flac
+     4:24.900      76291244 B   cxx   --   ---xx   flac  0.5990  smashingpumpkins2007-07-10_mk4v_t22.flac
+     3:13.600      55756844 B   cxx   --   ---xx   flac  0.6537  smashingpumpkins2007-07-10_mk4v_t23.flac
+     9:17.500     160560044 B   cxx   --   ---xx   flac  0.6605  smashingpumpkins2007-07-10_mk4v_t24.flac
+     3:20.900      57859244 B   cxx   --   ---xx   flac  0.5692  smashingpumpkins2007-07-10_mk4v_t25.flac
+     4:15.400      73555244 B   cxx   --   ---xx   flac  0.6420  smashingpumpkins2007-07-10_mk4v_t26.flac
+     5:00.500      86544044 B   cxx   --   ---xx   flac  0.6536  smashingpumpkins2007-07-10_mk4v_t27.flac
+     4:13.100      72892844 B   cxx   --   ---xx   flac  0.5773  smashingpumpkins2007-07-10_mk4v_t28.flac
+     4:32.000      78336044 B   cxx   --   ---xx   flac  0.6675  smashingpumpkins2007-07-10_mk4v_t29.flac
+     3:25.500      59184044 B   cxx   --   ---xx   flac  0.5949  smashingpumpkins2007-07-10_mk4v_t30.flac
+    25:32.251     441288320 B   cxx   --   ---xx   flac  0.6065  smashingpumpkins2007-07-10_mk4v_t31.flac
+     2:43.949      47217368 B   cxx   --   ---xx   flac  0.5773  smashingpumpkins2007-07-10_mk4v_t32.flac
+     5:48.493     100366124 B   cxx   --   ---xx   flac  0.6492  smashingpumpkins2007-07-10_mk4v_t33.flac
+   187:02.293    3232021932 B                            0.6162  (33 files)

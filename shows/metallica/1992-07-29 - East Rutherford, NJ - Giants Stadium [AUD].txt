@@ -1,0 +1,49 @@
+Metallica
+Giants Stadium
+East Rutherford, NJ
+July 29, 1992
+
+16 bit version
+
+Taper: koondog
+Gear: Sony D3 w/ stock mic
+Transferred & mastered ny }{eywood
+Lineage: TDK SA90 and SA60 cassettes (M) > Optimus SCT-57 playback deck > Adobe Audition 1.5 (recording to .wav @ 24/96, speed correction, EQ, peak limiting, splits & fades) > Xrecode II (conversion to 156/44.1) > TLH (sector alignment, flac 8)
+
+
+This recording sounded pretty small, mostly mids and highs, so I EQd them down and the low end up, greatly improving the sound.  This helped a lot except for one thing:
+
+A windy night in Jersey, and a taper that had never dealt with windy conditions (no windscreens on the mics).  Not a lot can be done to deal with wind noise by the mastering stage, but I've done what I can.  For the worst rumbles I've EQd the low end (125 hz and below) out of the recording.  This leaves the music sounding a bit puny, but I prefer that to the room shaking rumble. I've tried to make these EQ changes as unobtrusive as possible by sculpting the EQ curve to the charistics of the particular rumble, but it was really up to when the rumbles came along, and many will be noticeable.  
+
+Speaking of techincal problems, It seems Kirk Hammett was having some himself.  A loud buzz during the intro to Sanitarium leads up to him not playing on Roam at all until the end.  No solo. But this didn't make Metallica play badly or anything.  A good show with lots of energy and a crowd that they fed off.
+
+Also, a fight goes on very close to the taper near the end of Whiplash.  It  spilled into the encore break, so I cut what wasn't over the music and the taper's comments to his companion about the fight and moving to a better location.  This removed the entire first encore break.
+
+Tapeflip in Seek & Destroy is edited but not patched.  Tepeflips in the solo at the end of Bells and the last note of Am I Evil are patched with Las Vegas 1/4/92.
+
+
+01 Intro: The Ecstacy of Gold
+02 Creeping Death
+03 Harvester of Sorrow
+04 Welcome Home (Sanitarium)
+05 Sad But True
+06 Wherever I May Roam
+07 Of Wolf and Man
+08 For Whom the Bell Tolls 
+09 The Unforgiven
+10 Shortest Straw
+11 banter
+12 bass solo
+13 Dazed & Confused > guitar solo
+14 Fade to Black
+15 Master of Puppets
+16 Seek & Destroy
+17 banter
+18 Whiplash
+
+19 Nothing Else Matters
+20 Am I Evil?
+21 Last Caress
+22 One
+
+23 Enter Sandman

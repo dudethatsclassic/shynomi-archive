@@ -1,0 +1,82 @@
+Smashing Pumpkins
+February 4th 1996
+Palace
+Hollywood, CA, US
+
+SOURCE (AUD#1)
+unknown
+
+TRANSFER:
+Nakamichi DR-1 > Focusrite Scarlett 8i6 > Adobe Audition
+
+GENERATION:
+DAT(X) > ANA(3) > FLAC
+
+LENGTH:
+101:57
+
+SETLIST:
+01. Mellon Collie and the Infinite Sadness
+02. Where Boys Fear to Tread
+03. Zero
+04. Fuck You (An Ode to No One)
+05. Here Is No Why
+06. To Forgive
+07. Bullet With Butterfly Wings
+08. Thru the Eyes of Ruby
+09. Galapogos
+10. Geek U.S.A.
+11. Cherub Rock
+12. Porcelina of the Vast Oceans
+
+ENCORE ONE:
+13. (banter)
+14. 1979
+15. X.Y.U.
+
+ENCORE TWO:
+16. Frail and Bedazzled
+17. Silverfuck > Drown (tease)
+18. Farewell and Goodnight
+
+NOTES:
+This is the first show we are sharing from Dave Asselin’s collection
+
+Dave sold his tape collection back in the day, and part of it eventually ended up in a seaside town in the northeast of England. We managed to secure the tapes last year and have spent time going through them to identify what’s what
+
+Whilst much of Dave's DAT collection has been transferred before, this particular tape was never located as it was actually a DAT to ANA transfer
+
+Some notes about the show:
+
+We've had an apparent setlist for almost 30 years but the second encore has actually been noted incorrectly as it kicks off with Frail and Bedazzled, an undocumented performance. We had no record of the band playing the song after 1995, so this 1996 show now makes it the last known performance by the original lineup
+
+The recording also includes a really great version of Silverfuck and Billy comments during the show that this was the best show of the 3 performances at the Palace
+
+The recording is incomplete as it only contains the electric set. The taper also appears to pause the tape between encores unless there has been some editing between the tape generations
+
+MD5 FINGERPRINTS:
+438b67f845747e04d409612bcf5bf317 *Smashing Pumpkins 1996-02-04 AUD1 t01 Mellon Collie and the Infinite Sadness.flac
+62a598bc402f986fd72e1f58d64dd517 *Smashing Pumpkins 1996-02-04 AUD1 t02 Where Boys Fear to Tread.flac
+229febacba77dba78441070c4fe07189 *Smashing Pumpkins 1996-02-04 AUD1 t03 Zero.flac
+2225e86391690cccc8f851bbb3327cb0 *Smashing Pumpkins 1996-02-04 AUD1 t04 Fuck You (An Ode to No One).flac
+f7a7a029b62c2bf80742e07daab597a9 *Smashing Pumpkins 1996-02-04 AUD1 t05 Here Is No Why.flac
+3709e96ca14522482af8077388c91cf3 *Smashing Pumpkins 1996-02-04 AUD1 t06 To Forgive.flac
+51e0e3e559905d91f8e9c5a2341270cb *Smashing Pumpkins 1996-02-04 AUD1 t07 Bullet With Butterfly Wings.flac
+3613534fe85247537540c0d25ae79656 *Smashing Pumpkins 1996-02-04 AUD1 t08 Thru the Eyes of Ruby.flac
+d55bc0eedc0d185dc29516830d2912a0 *Smashing Pumpkins 1996-02-04 AUD1 t09 Galapogos.flac
+ce2e01e28a1458dafbcb34e76805bd13 *Smashing Pumpkins 1996-02-04 AUD1 t10 Geek U.S.A..flac
+18266a51f4a4c0e4874e54fe8c551c57 *Smashing Pumpkins 1996-02-04 AUD1 t11 Cherub Rock.flac
+714156be5f0a9a3715aacfcac9144f00 *Smashing Pumpkins 1996-02-04 AUD1 t12 Porcelina of the Vast Oceans.flac
+f54c3f04eeec5bcb7e38937748e1db5d *Smashing Pumpkins 1996-02-04 AUD1 t13 (banter).flac
+694b198ff464fb0dcdf4d5470adb2487 *Smashing Pumpkins 1996-02-04 AUD1 t14 1979.flac
+90b3c8b84bf240b52eb4f329c3a3bb67 *Smashing Pumpkins 1996-02-04 AUD1 t15 X.Y.U..flac
+f901b3e60720ba33c86be914f832082d *Smashing Pumpkins 1996-02-04 AUD1 t16 Frail and Bedazzled.flac
+6087dc7afd8f65b1018d4d4f1c3cf28a *Smashing Pumpkins 1996-02-04 AUD1 t17 Silverfuck.flac
+371815b0032049be5befc8e713b5ba74 *Smashing Pumpkins 1996-02-04 AUD1 t18 Farewell and Goodnight.flac
+
+TRANSFER BY:
+Nicholas Serra
+
+DISTRIBUTION:
+Spaldz, Nicholas Serra & Members of SPLRA
+2026-05-02

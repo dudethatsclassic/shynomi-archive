@@ -1,0 +1,85 @@
+Smashing Pumpkins
+June 8th 2024
+The O2 Arena
+London, UK
+
+SOURCE (AUD#1)
+Internal Mics > Samsung Galaxy S21
+
+TRANSFER:
+Samsung Galaxy S21 > PC > CD Wave Editor > Trader's Little Helper 2.8.4
+
+GENERATION:
+WAV(M) > FLAC
+
+LENGTH:
+122:27
+
+SETLIST:
+01. Atum
+02. The Everlasting Gaze
+03. Doomsday Clock
+04. Zoo Station [U2]
+05. Today
+06. Thru the Eyes of Ruby
+07. Spellbinding
+08. Tonight, Tonight
+09. That Which Animates the Spirit
+10. Ava Adore
+11. Disarm
+12. Springtimes
+13. (banter)
+14. Mayonaise
+15. Bullet With Butterfly Wings
+16. Empires
+17. Beguiled
+18. 1979
+19. Birch Grove
+20. Panopticon
+21. Shame (tease) > Jellybelly
+22. Rhinoceros
+23. Gossamer > The Spaniards (tease)
+24. (band introductions) > Cherub Rock (abandoned) > Cherub Rock (tease)
+25. Cherub Rock
+26. Zero > Love Gun [Kiss] (tease)
+
+NOTES:
+Frustratingly I bought some new CSBs prior to these concerts and couldn't get my setup to work so thought I'd capture something rather than nothing. Sound is better during second half of the recording after moving positions within venue
+
+MD5 FINGERPRINTS:
+dcc016526879374e07f870a6f6d306e8 *Smashing Pumpkins 2024-06-08 AUD1 t01 Atum.flac
+3cc81b6b7db03c35d668f7f8df84256d *Smashing Pumpkins 2024-06-08 AUD1 t02 The Everlasting Gaze.flac
+0fd08c080bf2a39e544bbf7c12afbd2a *Smashing Pumpkins 2024-06-08 AUD1 t03 Doomsday Clock.flac
+607ac61456893436fe9256dd26025836 *Smashing Pumpkins 2024-06-08 AUD1 t04 Zoo Station [U2].flac
+88b54339b1f6dee5d709b5c38cc83785 *Smashing Pumpkins 2024-06-08 AUD1 t05 Today.flac
+83c3c5d736419df9c761e4921a5a1c6c *Smashing Pumpkins 2024-06-08 AUD1 t06 Thru the Eyes of Ruby.flac
+4b1ff974f5bc4ebacd36b74f1a94fb40 *Smashing Pumpkins 2024-06-08 AUD1 t07 Spellbinding.flac
+3b15968d67ed9eda78b5e282e4ad95cf *Smashing Pumpkins 2024-06-08 AUD1 t08 Tonight, Tonight.flac
+9358376bf8959f43a874255deb11412f *Smashing Pumpkins 2024-06-08 AUD1 t09 That Which Animates the Spirit.flac
+893d9af38ffe5687873986c06a2308c2 *Smashing Pumpkins 2024-06-08 AUD1 t10 Ava Adore.flac
+b4badd936071ef298d94ba864fddb463 *Smashing Pumpkins 2024-06-08 AUD1 t11 Disarm.flac
+b2e74fb5f5fab1bb122c064a8c82a658 *Smashing Pumpkins 2024-06-08 AUD1 t12 Springtimes.flac
+697aa90695c13470bb32b9857c0b7ab1 *Smashing Pumpkins 2024-06-08 AUD1 t13 (banter).flac
+dc36d298b7e6284da61e0df801ce7e63 *Smashing Pumpkins 2024-06-08 AUD1 t14 Mayonaise.flac
+6bf629157450752a27d06e8f88fdbe7b *Smashing Pumpkins 2024-06-08 AUD1 t15 Bullet With Butterfly Wings.flac
+a7ad20ff4aa87920cef9fbf2ada412b8 *Smashing Pumpkins 2024-06-08 AUD1 t16 Empires.flac
+021eba93a5a0ebc2e97f4fc41d26b117 *Smashing Pumpkins 2024-06-08 AUD1 t17 Beguiled.flac
+052788b67d59c9ed7a7af0b5a58c1f68 *Smashing Pumpkins 2024-06-08 AUD1 t18 1979.flac
+bf6e021b3566a72a8549490dbbc7665c *Smashing Pumpkins 2024-06-08 AUD1 t19 Birch Grove.flac
+507debcb512fcee3d0659ad9709fbb2c *Smashing Pumpkins 2024-06-08 AUD1 t20 Panopticon.flac
+c53272af1b4c9bd44bed05e5969efbed *Smashing Pumpkins 2024-06-08 AUD1 t21 Shame (tease) - Jellybelly.flac
+99bc2f52290398d6dfbc790286f70150 *Smashing Pumpkins 2024-06-08 AUD1 t22 Rhinoceros.flac
+cd4ec174b9129b8897061998dbc37252 *Smashing Pumpkins 2024-06-08 AUD1 t23 Gossamer - The Spaniards (tease).flac
+a33051bfeaf5761508db5dada8b04a45 *Smashing Pumpkins 2024-06-08 AUD1 t24 (band introductions).flac
+9661164fff2e2c64025b72bff31885f4 *Smashing Pumpkins 2024-06-08 AUD1 t25 Cherub Rock.flac
+cd0bdbb01512a89c9693d5d5ea14448a *Smashing Pumpkins 2024-06-08 AUD1 t26 Zero.flac
+
+RECORDED BY:
+Spaldz
+
+TRANSFER BY:
+Spaldz
+
+DISTRIBUTION:
+Spaldz, Nicholas Serra & Members of SPLRA
+2024-07-22

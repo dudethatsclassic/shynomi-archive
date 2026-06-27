@@ -1,0 +1,82 @@
+Smashing Pumpkins
+May 27th 2022
+PromoWest Pavilion
+Newport, KY, US
+
+SOURCE (AUD#1):
+Internal Mic > iPhone 12 
+
+TRANSFER:
+iPhone 12 > Adobe Audition 
+
+GENERATION:
+M4A(M) > MP3 > WAV > FLAC
+
+LENGTH:
+118:33
+
+SET:
+01. Intro
+02. The Colour of Love
+03. Bullet With Butterfly Wings
+04. Today
+05. Drown
+06. Quiet
+07. Cyr
+08. Once in a Lifetime [Talking Heads]
+09. Solara
+10. Eye
+11. Ava Adore
+12. Tonight, Tonight
+13. Starla
+14. Stand Inside Your Love
+15. Cherub Rock
+16. Zero > Love Gun [Kiss] (tease)
+17. FOL
+18. 1979
+
+Encore:
+19. Encore
+20. Silverfuck (Intro)
+21. Silverfuck
+
+NOTES:
+Taper recorded using a mixture of the iPhone Voice Memos app for audio recording and the iPhone Camera app for video recording. The audio was then stripped from the video and edited in with the Voice Memos recordings using Adobe Audition. This has resulted in minor cuts between certain songs. 
+
+*******************
+This is a lossy source
+The SPLRA team have converted the audio to WAV files to indicate there is no upgrade to the original master 
+*******************
+
+MD5 FINGERPRINTS:
+82a483d60512608ba17ee10d370aceda *Smashing Pumpkins 2022-05-27 AUD1 t01 Intro.flac
+b58e145f82cb1368f0f35b5d60207df3 *Smashing Pumpkins 2022-05-27 AUD1 t02 The Colour of Love.flac
+ca2166a0abfc45008099215da3c65e87 *Smashing Pumpkins 2022-05-27 AUD1 t03 Bullet With Butterfly Wings.flac
+3fe738ecb704a757045a71e1a314605f *Smashing Pumpkins 2022-05-27 AUD1 t04 Today.flac
+4f6850e936f7d5285587b03f23048a6f *Smashing Pumpkins 2022-05-27 AUD1 t05 Drown.flac
+72542ee3126b98f972139db3821c4c33 *Smashing Pumpkins 2022-05-27 AUD1 t06 Quiet.flac
+840f27ce0b0da7b5f6ef9e0f33ed55a5 *Smashing Pumpkins 2022-05-27 AUD1 t07 Cyr.flac
+939eeab58bea68c3de774287319ae2a5 *Smashing Pumpkins 2022-05-27 AUD1 t08 Once in a Lifetime.flac
+db1f30b1423cc16b8a6e7b029a09899c *Smashing Pumpkins 2022-05-27 AUD1 t09 Solara.flac
+c861bff330a848cf69386b8e33d5d789 *Smashing Pumpkins 2022-05-27 AUD1 t10 Eye.flac
+1abbcac6988b120a1227028259cbbf8a *Smashing Pumpkins 2022-05-27 AUD1 t11 Ava Adore.flac
+390fe3bb06e4fd1435a7cd3d78b6dc95 *Smashing Pumpkins 2022-05-27 AUD1 t12 Tonight, Tonight.flac
+b31f2e5ec34921ae7fdd2c5f27d09648 *Smashing Pumpkins 2022-05-27 AUD1 t13 Starla.flac
+b9e403fc1fb04e8699de403135e8c521 *Smashing Pumpkins 2022-05-27 AUD1 t14 Stand Inside Your Love.flac
+510c64a6bb914068868e16c69dd40a8a *Smashing Pumpkins 2022-05-27 AUD1 t15 Cherub Rock.flac
+5a774409e1d270bd0f26279e9381027f *Smashing Pumpkins 2022-05-27 AUD1 t16 Zero.flac
+04007777e36b1d14d06ccd8cde7624aa *Smashing Pumpkins 2022-05-27 AUD1 t17 FOL.flac
+8aa1c73e4700b204d07dc804a7cd8bdc *Smashing Pumpkins 2022-05-27 AUD1 t18 1979.flac
+7b91595971d882aa2618dccb0997d0fc *Smashing Pumpkins 2022-05-27 AUD1 t19 (encore).flac
+407a3017e0b615861a4d27076cc7341c *Smashing Pumpkins 2022-05-27 AUD1 t20 Silverfuck (Intro).flac
+c9d82c70ee4cdb9acdf16b82cdf8cecc *Smashing Pumpkins 2022-05-27 AUD1 t21 Silverfuck.flac
+
+RECORDED BY:
+Ram27
+
+TRANSFER BY:
+Ram27
+
+DISTRIBUTION:
+Spaldz, Nicholas Serra & Members of SPLRA
+2022-10-03

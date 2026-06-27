@@ -1,0 +1,51 @@
+Miles Davis
+November 2, 1985
+Zurich, Switzerland
+
+Set List:
+01 Opening Medley: One Phone Call/Right Off/Street Scenes/Speak/That's What Happened - 12:14
+02 Star People - 6:51
+03 Maze - 11:17
+04 Human Nature - 9:35
+05 MD One/Something On Your Mind/MD Two  (inc.) - 11:47
+06 Time After Time - 7:47
+07 Ms. Morrisine - 8:57
+08 Code MD - 9:50
+09 Pacific Express - 13:50
+10 Burn - 6:27 [inc, cut at 1:34]
+11 Stronger Than Before - 10:38
+12 Hopscotch - 15:33
+13 Rubberband - 6:57
+14 Encore Break - 2:24
+15 Broken Wings* - 5:56
+
+Runtime: 140:08 
+
+Musicians:
+Miles Davis - trumpet, keyboards
+Mike Stern - guitar
+Robert Irving III, Adam Holzman - keyboards
+Bob Berg - tenor & soprano saxophones, *keyboard
+Angus Thomas - bass
+Marilyn Mazur, Steve Thornton - percussion
+Vincent Wilburn Jr. - drums, Simmons drums
+
+Source: Analog soundboard
+
+Lineage:
+SBD >MCA (low noise) >CAS >CAS >Marian Marc 2 (24-bit/64 kHz) >.wav >Wavelab 4.0 Remaster (using Sonic Foundry Pitch Shift, Paragraphic EQ, Noise Reduction, Steinberg Stereo Expander and Q eq plug ins) >16 bit/44.1 kHz resampling >99.9 % normalization >CD WAVE (tracking) >FLAC
+
+Notes from source:
+As usual, this soundboard tape was mastered with standard normal bias material like TDK D, or Sony HF, without noise reduction.
+
+The 2nd gen copy was too fast, it got a pitch down of 65% of a semitone.
+
+Audio as received from source. FLAC files renamed according to Milesian protocol;-).
+
+-----------
+Additional editing (plaz):
+- cleaned and reworked several  track transitions
+- removed fade out/in at disc change boundary (re-edited for continuous play)
+- lightly declicked and decrackled
+- repaired audible clicks, pops, crackle and gain fluctuations
+- retracked and renamed files

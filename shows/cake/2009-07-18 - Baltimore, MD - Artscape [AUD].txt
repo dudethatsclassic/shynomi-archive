@@ -1,0 +1,38 @@
+CAKE
+2009/07/18 - Artscape, Baltimore MD, USA
+
+Taper: travelinbeat  (on AIM as "travelinbeat")
+Location: About 50 feet from stage, mics approx 8' high on hill
+Source 1: Church Audio CAFS > ST-9100 > R-09HR 24/96 Line-In, input level 44
+Source 2: Church Audio CA-14's > CA-UGLY Pre > Line-In iRiver H120 RockBox v.060803-2007
+Editing:  Source 1 converted to 16/44.1 sing r8brain 1.9.  Two sources sync'ed in Sony Vegas Pro 9.0, Source 1 lowered by 3.3dB.  Eq, normalization to -0.1, tracking, and fades all performed in Sony Soundforge 8.0.
+Convertion: Trader's Little Helper v.2.2.1 (Build 151)
+
+
+
+TRACKLIST:					TIME:
+
+01- Intro					02:21
+02- Stickshifts and Safetybelts			02:18
+03- War Pigs #					04:40
+04- Ruby Sees All				03:42
+05- Love You Madly				03:45
+06- Frank Sinatra				07:06
+07- Wheels					04:15
+08- Rock 'n' Roll Lifestyle			03:54
+09- Sheep Go To Heaven				06:44
+10- Daria					04:06
+11- Short Skirt, Long Jacket			07:05
+12- Comfort Eagle				04:31
+13- Its Been a Long Time *			06:46
+14- Mexico					04:03
+15- Never There					02:51
+
+				   GRAND TOTAL- 68:07
+
+*- Unsure of title; new song?
+#- Black Sabbath cover
+
+
+
+MISC NOTES:

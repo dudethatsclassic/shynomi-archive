@@ -1,0 +1,65 @@
+Beck
+June 17 2006
+5:30-6:46 PM CDT
+Bonnaroo - What Stage
+Manchester, TN
+
+Source:   Core Sound Binaurals > Batt Box >  Creative Nomad Jukebox 3 >
+Transfer: Creative JB3 > Creative SB1394 > Creative Audigy Platinum EX > 
+Editing:  Sony Soundforge 7.0a > FLAC Frontend > Tag & Rename >
+
+01) Devils Haircut *
+02) Black Tambourine
+03) Qué Onda Guero
+04) Hell Yes
+05) The New Pollution
+06) Information
+07) Minus
+08) No Expectations (Rolling Stones Cover)
+09) Hotwax
+10) Whiskeyclone, Hotel City 1997
+11) Paper Tiger
+12) Broken Drum
+
+---------Solo, Acoustic... Band Eats---------
+
+13) Lost Cause
+14) Do You Realize (Flaming Lips Cover)
+15) Creep (Radiohead Cover)
+16) Debra
+--------------------------------------------
+
+-----Acoustic, Band Plays Glass, Silver Percusison------
+
+17) The Golden Age
+18) Emergency Exit, One Foot in the Grave
+19) Clap Hands
+--------------------------------------------
+
+20) Girl
+21) Mixed Bizness
+22) I Want to Take You Higher (Sly And The Family Stone Cover)
+23) Puppet Movie
+24) Loser (Puppets)
+25) 1000 BPM
+26) Where It's At & High 5 (Rock the Catskills) (Medley)
+27) E-Pro
+
+
+|--------------------------------------------|
+|     Recorded, Mastered, & Seeded by:       |
+|                                            |
+|    breathmint (breathmint@hotmail.com)     |
+|  becktabs hub (dc://becktabs.homeunix.org) |
+|                  :]                        |
+|--------------------------------------------|
+
+DO NOT CONVERT THIS RECORDING TO ANY LOSSY FORMATS !!!!
+DO NOT SELL THIS RECORDING !!!
+PLEASE ENJOY !!!
+
+* Missed first 47 seconds. Replaced with Patrick Moore (pat@taperssection.com) recording for completeness.
+    --> His Source/Transfer INfo:
+    Source: Nakamichi Cm300(active p48 mod)/cp1 (ORTF, FOB, LoC ~4', 50' from stage, 7' high)> Edirol UA-5> Jb3             (wav @ 44.1 khz)
+    Transfer: JB3> usb> xNJB> Audacity 1.2.4> xACT (fixed SBE's and converted to .flac)
+

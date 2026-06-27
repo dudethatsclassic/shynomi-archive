@@ -1,0 +1,30 @@
+Ray Charles
+September 28, 1976
+Liederhalle, Stuttgart, Germany
+
+This show apparently was first uploaded by ubu and then reseeded several times by theocrite (my sincere thanks to both of them!). I got it as Torrent 204820 and found this version to suffer from a lot of DC offset which moreover varies between tracks, causing nasty clicks at the start and end of files during playback and unnecessarily reducing headroom. I corrected this (using Sound Studio) and made a few very short crossfades during the applause to compensate for the remaining unevennesses. 
+
+Ray Charles - vocals, piano
+with unknown orchestra (most probably the Ray Charles Orchestra) including:
+Johnny Coles - flugelhorn, solos
+Clifford Solomon - tenor sax
+Ernie Vantrease - piano & keyboard, musical conductor
+The Rae-lettes - backing vocals
+
+01 How Long Has This Been Going On 6:48
+02 Feel So Bad 9:20
+03 Am I Blue 6:55
+04 I Can't Stop Loving You 6:35
+05 Country Road 4:18
+06 How Much I Can 4:39
+07 What'd I Say 7:47
+
+TT 46:22
+
+SWR 2 FM broadcast (SWR Jazz Session: Aus dem Archiv, 2005/06/16)
+
+Original note: I missed the first 20 minutes of the broadcast due to a technical problem (not mine - no radio signal).
+
+Lineage: FM > Minidisc > analogue to HD > GoldWave > FLAC (8)(asb)
+Additional: FLAC > AIFF > corrected DC offset and retracked (Sound Studio 3.5.5) > FLAC (8) (xACT)
+

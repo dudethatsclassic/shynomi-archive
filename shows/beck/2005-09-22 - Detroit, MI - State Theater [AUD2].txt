@@ -1,0 +1,59 @@
+Beck 
+September 22nd, 2005 
+State Theatre 
+Detroit, MI 
+
+Taper:    Richard Simms (sullen) 
+Source:   SP-CMC-2 (AT831) > SP-SPSB-2 (Roll Off 95hz) > 
+          AD20 > JB3 (Optical Line-In) > 44.1k WAV 
+Transfer: JB3 > Computer via Firewire > Adobe Audition 1.5 > 
+          CD Wave Editor 1.94.5 > FLAC FrontEnd (Level 8, Align SB) 
+
+Disc 1
+Main Set
+01. Black Tambourine* 
+02. Girl
+03. Novacane
+04. Devils Haircut
+05. Que Onda Guero
+06. Loser
+07. Rental Car
+08. Emergency Exit
+09. Lost Cause
+10. Go It Alone
+11. He's A Mighty Good Leader > Hotwax > Nicotine & Gravy > 
+    Knock Out > Hell Yes
+12. Where It's At
+13. Broken Drum
+14. Lonesome Tears
+15. (I Heard That) Lonesome Whistle [Hank Williams]
+16. Tropicalia
+17. Do You Realize [The Flaming Lips]
+18. Debra
+19. The Golden Age > Clap Hands
+20. Sexx Laws
+21. Mixed Bizness
+* First 15 seconds cut, first 20 seconds taped muffled.
+
+Disc 2
+Encore
+01. E-Pro
+02. Get Real Paid
+
+Notes: 
+1. First track was cut just a bit, Beck and his crew caught me by
+   surprise!
+2. DO NOT distribute this recording in MP3 or any other lossy format. 
+   DO NOT sell on eBay or anywhere else. 
+   Keep live music free for all to enjoy! 
+
+
+Notes by breathmint:
+
+I grabbed this from a torrent and added FLAC tags, moved all files to 1 directory and created new FFP file plus an md5 of everything.
+
+
+Seeded by:
+
+breathmint (breathmint@hotmail.com)
+becktabs hub (becktabs.homeunix.org)

@@ -1,0 +1,112 @@
+The Smashing Pumpkins
+July 27, 2018
+Baltimore, Maryland
+Royal Farms Arena
+Lineage: SP-CMC-8(AT8538 Mod)>CA-Ugly II>Edirol R-05>PC>Adobe Audition>CDWAVE>FLAC
+Taped by: Porcelmc 
+
+****HAPPY 25th BIRTHDAY SIAMESE DREAM****
+_____________________________________________________________
+
+Setlist - The Smashing Pumpkins
+
+01. Disarm (Billy solo acoustic)
+02. Rocket
+03. Siva
+04. Rhinoceros
+05. Space Oddity
+06. Drown
+07. Zero Intro Video
+08. Zero
+09. The Everlasting Gaze
+10. Stand Inside Your Love
+11. James Speaks #1
+12. Thirty-Three
+13. Eye
+14. Soma
+15. Mark McGrath Video #1
+16. Blow Away
+17. For Martha
+18. TO Sheila
+19. Mayonaise
+20. Porcelina of the Vast Oceans
+21. Landslide
+22. Tonight, Tonight
+23. Stairway to Heaven
+24. James Speaks #2 Band Intros
+25. Cherub Rock
+26. Mark McGgrath Video #2
+27. 1979
+28. Ava Adore
+29. Billy and James Banter #1
+30. Try, Try, Try
+31. The Beginning is the End is the Beginning
+32. Hummer
+33. Today
+34. Bullet with Butterfly Wings
+35. Billy and James Banter #2
+36. Muzzle
+37. Encore Break
+38. Solara
+39. Baby Mine
+
+
+_____________________________________________________________
+
+Notes: First time seeing Billy since the Oceania tour in 2012, which was an amazing tour but this was the reunion! Bummer no Darcy but name a rock band without drama? Overall, this was a killer performance. Billy screws up the lyrics during Muzzle and laughs it off. That's what a professional does. 
+
+I don't enjoy transiting to this venue but the amenities were top notch. Vendors walked around selling beer all night. During Zero you can hear a guy say "13." I used sign language to pay $13 for it. Other than that the only other recording note was during Bullet with Butterfly Wings I switched seats with some seat poachers that roamed up next to me and proceeded to sing and talk. I didn’t want to be annoyed anymore by them so I moved. Overall the recording kicks ass!
+
+
+Sample: 
+
+https://youtu.be/ysxemwf2uDE 
+
+
+ST5 Hash File:
+
+6fc3aa5546b917e952478e94181a78a7  [shntool]  01_Disarrm.flac
+f6f6e017340462e61b6f8589e0566028  [shntool]  02_Rocket.flac
+320c6e9fcbc5e1b6fa8a9f3535229119  [shntool]  03_Siva.flac
+885bf424691aa07622de925cd3a3e803  [shntool]  04_Rhinoceros.flac
+91404a548ef903a6c0215ac9bc0e8b2a  [shntool]  05_Space Oddity.flac
+f19389b83e8c000307ddd3183845f36a  [shntool]  06_Drown.flac
+6071674e933f1e1fc3b6e4a0cea0d0f6  [shntool]  07_Zero Intro Video.flac
+fd8871f7f59113a8a4a2f37c4c121846  [shntool]  08_Zero.flac
+f71e2e154881f870b5f4d16189f6f377  [shntool]  09_The Everlasting Gaze.flac
+e46ce8b78dc099e40485fe130925b5e0  [shntool]  10_Stand Inside Your Love.flac
+92ae3ab30453e1c51c2fb6793cc57aab  [shntool]  11_James Speaks #1.flac
+574e9ae3b3aca384ef71423263e39c5e  [shntool]  12_Thirty-Three.flac
+8b69f88673c40bf3abd4e94cc6830bcf  [shntool]  13_Eye.flac
+b01f82867f2aaa045a7c0276cf3457e5  [shntool]  14_Soma.flac
+ac7baf4b1a3d47932def9a57bfd422af  [shntool]  15_Mark McGrath Video #1.flac
+bbf56099f2c943851e8c97ec9185a5d5  [shntool]  16_Blew Away.flac
+c4b8977051bdbfcc37e60412d6ebd108  [shntool]  17_For Martha.flac
+a53a81b1a45d4f534a4c9bd882e2b588  [shntool]  18_To Sheila.flac
+e2907d6a77f8ab975064af89cca25b30  [shntool]  19_Mayonaise.flac
+ba3289e68e100b2cdacbf6d9d731e96f  [shntool]  20_Porcelina of the Vast Oceans.flac
+08550bddc9104c5c7c0c799ba3d9dd66  [shntool]  21_Landslide.flac
+8033c324c53893bc80f70870e2527f06  [shntool]  22_Tonight, Tonight.flac
+824c33dbd1ed4960359359fb65b1917d  [shntool]  23_Stariway to Heaven.flac
+2dd5b78af8ebd320b87a171fd47722f1  [shntool]  24_James Speaks #2.flac
+e95721f2c9e6478bdf6a2597e1cb6ea8  [shntool]  25_Cherub Rock.flac
+1ff5df2c072526e41fbbad2004a0538f  [shntool]  26_Mark McGrath Video #2.flac
+cc5cf11d4706337d64319c72e101f9f3  [shntool]  27_1979.flac
+aff636eab4cb4365183caef5267963d8  [shntool]  28_Ava Adore.flac
+5f5220785de031adc928230cda613974  [shntool]  29_Billy and James Banter #1.flac
+8812b875cde9a923e7373b9f3531dcca  [shntool]  30_Try, Try, Try.flac
+b30d40d63d5dbdbec479f2aacda1260c  [shntool]  31_The Beginning is the End is the Beginning.flac
+c00e5cea11f313cbb986960eba715a58  [shntool]  32_Hummer.flac
+abf32c7d080e9aba3549ad6fffdf16f3  [shntool]  33_Today.flac
+58adbc23098f98332989ef1b6039c112  [shntool]  34_Bullet with Butterfly Wings.flac
+f19cb7b46f8afdeaaf2d6cca528f79e3  [shntool]  35_Billy and James Banter #2.flac
+1259900a486e015036df393f74579ee2  [shntool]  36_Muzzle.flac
+3a5ff146bd89a1c17810e06e15b8d12b  [shntool]  37_Encore Break.flac
+25873dab1a1e17b2fb8b548d41244ffc  [shntool]  38_Solara.flac
+12a7a34b3f7a5eb030ae94519fea3f54  [shntool]  39_Baby Mine.flac
+
+No errors occured.
+
+
+
+

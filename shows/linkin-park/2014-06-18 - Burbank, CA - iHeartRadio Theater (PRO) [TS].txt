@@ -1,0 +1,24 @@
+Linkin Park
+2014-06-18
+iHeartRadio Theater, Burbank, CA
+
+FORMAT
+----------
+MPEG-TS
+1280*720 (16:9), at 59.940 (60000/1001) FPS, AVC (Main@L4) (CABAC / 4 Ref Frames)
+384 kb/s, 48.0 kHz, 6 channels, AC-3 (Dolby Digital)
+
+TRACK LISTING
+----------
+01 Pre-Segment
+02 Main Segment - Until It's Gone/Wastelands (cut)
+
+LINEAGE
+----------
+DirecTV (DVB-S2)-->DirecTV HD DVR HR24-100 Satellite Receiver-->Hauppauge 1212 HD PVR-->YPbPr + S/PDIF-->ArcSoft TotalMedia Extreme [13.5mbps CBR/384kbps AC3]-->H.264 .TS
+
+NOTES
+----------
+Raw capture file, no cuts.
+
+Taped after album release show, to be aired on Jimmy Kimmel Live.

@@ -1,0 +1,68 @@
+﻿Red Hot Chili Peppers
+Rock Werchter 2023
+Main Stage
+Festivalpark
+Werchter, Belgium
+June 30, 2023
+
+** 16 BIT **
+
+Source:  SP-CMC-8 (cardioids) > SP-SPSB-10 > Roland R-07 @ 24 bit/48 kHz
+Mastering:  .WAV > iZotope RX10 Advanced v10.0.0.1705 (De-click) > Sound Forge Pro 14.0 Build 140 [minor edits, normalize, & fades, Boz Digital Labs T-Bone plug-in (slant EQ)] > CDWav (tracking) > iZotope MBIT+ 
+(dithered and downsampled to 16 bit/44.1 kHz) > Trader's Little Helper (level 5) > FLAC > TagScanner 6.0.35 (tagging)
+Location:  On the rail, 5 meters right of center
+Recorded by:  toshi
+Mastered by:  Dennis Orr
+  
+Setlist: (1:27:41)
+01 Amériques
+02 Intro Jam
+03 Can't Stop
+04 The Zephyr Song
+05 Dani California
+06 Chat
+07 Aquatic Mouth Dance
+08 Chat
+09 Tiny Dancer (1)
+10 Parallel Universe
+11 The Drummer
+12 Soul To Squeeze
+13 London Calling (tease) > Right On Time
+14 Tippa My Tongue >
+15 Tell Me Baby >
+16 Californication
+17 Black Summer
+18 By The Way
+19 Encore Break
+- Encore -
+20 Under The Bridge
+21 Give It Away
+
+(1) John - lead vocals
+
+Anthony Kiedis – lead vocals
+John Frusciante – guitars, backing vocals, & keyboards
+Flea (Michael Balzary) – bass, backing vocals, trumpet, & piano
+Chad Smith – drums & percussion
+
+RHCP2023-06-30t01.flac:5cbcaafc60a85cc21a0992a681cdb970
+RHCP2023-06-30t02.flac:4ee77f5a005fa0adb7ecc2c3afa0d968
+RHCP2023-06-30t03.flac:ea7aab2ea6cd17cc372ec3cf06ae1528
+RHCP2023-06-30t04.flac:ca53289145e583c9aaa54ae661fb2317
+RHCP2023-06-30t05.flac:4284ecc43a30fe3faecfcead67cafbbc
+RHCP2023-06-30t06.flac:1357b83b5b247b11123d60add814b38a
+RHCP2023-06-30t07.flac:e5197aab46d0d27ba7c5a314a181a752
+RHCP2023-06-30t08.flac:23788b6713e7f06c9b19fa5ae8952875
+RHCP2023-06-30t09.flac:4426922f0b91ec9c2a9a954e8d58010f
+RHCP2023-06-30t10.flac:e5ec034eafdf58274f514299afdd3369
+RHCP2023-06-30t11.flac:f79a42ed83a9d9d1b97cd6721ca0584b
+RHCP2023-06-30t12.flac:a97d5914b58953c75fc0d700b55f37e9
+RHCP2023-06-30t13.flac:13642131afd94f24b16b91c1c12741b8
+RHCP2023-06-30t14.flac:980863608d56ac7cdfec8558c4fb0dc0
+RHCP2023-06-30t15.flac:0d9a244c7ccca3d398aebb2fb7f0a1a1
+RHCP2023-06-30t16.flac:d28a1286f7777069e05c8b31d0c78ef8
+RHCP2023-06-30t17.flac:5e6482f3354309865a0bff09d83f3f7c
+RHCP2023-06-30t18.flac:37c5a610f4ded6df3554e6ff5ddb2361
+RHCP2023-06-30t19.flac:6889ada3617d3675c55172293b2009da
+RHCP2023-06-30t20.flac:aa08e71c058f5372ab8d0788d5610a98
+RHCP2023-06-30t21.flac:f47d627a1ee879c07a34dca89259d619

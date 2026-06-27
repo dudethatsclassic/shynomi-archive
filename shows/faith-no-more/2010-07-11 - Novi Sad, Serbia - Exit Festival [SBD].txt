@@ -1,0 +1,26 @@
+01. Intro.wav:  successfully fixed/rewritten to '01. Intro-fixed.wav'.
+02 Reunited.wav:  successfully fixed/rewritten to '02 Reunited-fixed.wav'.
+03. From Out Of Nowhere.wav:  successfully fixed/rewritten to '03. From Out Of Nowhere-fixed.wav'.
+04. Land Of Sunshine.wav:  successfully fixed/rewritten to '04. Land Of Sunshine-fixed.wav'.
+05. Caffeine.wav:  successfully fixed/rewritten to '05. Caffeine-fixed.wav'.
+06. Evidence.wav:  successfully fixed/rewritten to '06. Evidence-fixed.wav'.
+07. Surprise! You're Dead!.wav:  successfully fixed/rewritten to '07. Surprise! You're Dead!-fixed.wav'.
+08. Be Aggressive.wav:  successfully fixed/rewritten to '08. Be Aggressive-fixed.wav'.
+09. Last Cup Of Sorrow.wav:  successfully fixed/rewritten to '09. Last Cup Of Sorrow-fixed.wav'.
+10. Cuckoo For Caca.wav:  successfully fixed/rewritten to '10. Cuckoo For Caca-fixed.wav'.
+11. Easy.wav:  successfully fixed/rewritten to '11. Easy-fixed.wav'.
+12. Ashes To Ashes.wav:  successfully fixed/rewritten to '12. Ashes To Ashes-fixed.wav'.
+13. Midlife Crisis.wav:  successfully fixed/rewritten to '13. Midlife Crisis-fixed.wav'.
+14. The Gentle Art Of Making Enemies.wav:  successfully fixed/rewritten to '14. The Gentle Art Of Making Enemies-fixed.wav'.
+15. Ben.wav:  successfully fixed/rewritten to '15. Ben-fixed.wav'.
+16. King For A Day.wav:  successfully fixed/rewritten to '16. King For A Day-fixed.wav'.
+17. Ajde Jano.wav:  successfully fixed/rewritten to '17. Ajde Jano-fixed.wav'.
+18. Epic.wav:  successfully fixed/rewritten to '18. Epic-fixed.wav'.
+19. Just A Man.wav:  successfully fixed/rewritten to '19. Just A Man-fixed.wav'.
+20. Encore Break.wav:  successfully fixed/rewritten to '20. Encore Break-fixed.wav'.
+21. Ajde Jano.wav:  successfully fixed/rewritten to '21. Ajde Jano-fixed.wav'.
+22. Chariots Of Fire.wav:  successfully fixed/rewritten to '22. Chariots Of Fire-fixed.wav'.
+23. Stripsearch.wav:  successfully fixed/rewritten to '23. Stripsearch-fixed.wav'.
+24. We Care A Lot.wav:  successfully fixed/rewritten to '24. We Care A Lot-fixed.wav'.
+
+Padded last file with 348 zero-bytes.

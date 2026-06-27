@@ -1,0 +1,17 @@
+2011-02-04-candlebox-dssound-1644-tr01.flac:81f806542bf4ebad4f710ff701d36f7e
+2011-02-04-candlebox-dssound-1644-tr02.flac:715b05d66829746f714f98e920ed5e51
+2011-02-04-candlebox-dssound-1644-tr03.flac:f014de4f19aecb2901f738d27ec94198
+2011-02-04-candlebox-dssound-1644-tr04.flac:dc2e14a081b3f7d8e21059c6a98f1587
+2011-02-04-candlebox-dssound-1644-tr05.flac:ebc0d43d923379306a353796f06dfa95
+2011-02-04-candlebox-dssound-1644-tr06.flac:607a5af3821ef5388000729c125cea53
+2011-02-04-candlebox-dssound-1644-tr07.flac:b5537effb2cbab8b7888574fac1b2e7e
+2011-02-04-candlebox-dssound-1644-tr08.flac:bcd77f61263e873c58f3e9b5ce50756e
+2011-02-04-candlebox-dssound-1644-tr09.flac:ad07a47297b880758e9068ca2e3d05e1
+2011-02-04-candlebox-dssound-1644-tr10.flac:0b9ad3d3317977fb8f921325569e522b
+2011-02-04-candlebox-dssound-1644-tr11.flac:12328080ceaba3163ed161a89768b21e
+2011-02-04-candlebox-dssound-1644-tr12.flac:4958818e3bff8e33552552107b7f142e
+2011-02-04-candlebox-dssound-1644-tr13.flac:868e36d45573b8c7ac4ff4542487ed00
+
+Checksum file saved to disk.
+
+No errors occured.

@@ -1,0 +1,43 @@
+Hi there.
+
+I posted these around 10 years ago.
+
+Over the years there were several requests for reposting. 
+I didn't have the original files anymore on the HDD, but 
+I got all the DVD's again ripped and will post the whole 
+Woodstock 99, minus Jamiroquai, James Brown and several 
+of the early shows. As I said last time: My first wife deleted 
+the first 4 hour VHS for something else, so all those early shows are gone.
+
+Anyways, here is all the rest of it in order as they were on my tapes. 
+
+The shows were recorded by me from PPV on highquality tapes in PAL, means 720x576.
+No PC should have a problem with that nowadays. 
+
+Lineage > VHS Master > VHS-DVD recorder > DVD Shrink > PC > Vegas 10 > Download > You
+
+Enjoy the ride.
+
+DVD 20 of 21 brings you Red Hot Chili Peppers-East Stage
+
+25th July 1999
+
+Video Length 78.01 mins
+Video Codec MPEG2
+Video bitrate 6008
+Audio Codec LPCM
+Audio Bitrate 48kHz 16bit
+TV System PAL 25.00 fps
+
+9f9927ccc9b39b34c475cd51ddf44901 *VIDEO_TS.BUP
+9f9927ccc9b39b34c475cd51ddf44901 *VIDEO_TS.IFO
+78d005e9eb2f0574efdd0e63c6aafcee *VIDEO_TS.VOB
+fa28786fcaaf38c88fc3b76d263b08a9 *VTS_01_0.BUP
+fa28786fcaaf38c88fc3b76d263b08a9 *VTS_01_0.IFO
+4806cc54765e0e254a1beaa9dbf015bf *VTS_01_1.VOB
+6b4884975f7a7664d0af0955914170ae *VTS_01_2.VOB
+592dd7809eb3688c8b57177d07d44a8b *VTS_01_3.VOB
+f0803ad8cf03796add9de678ab9c8de5 *VTS_01_4.VOB
+d51c99947e5021d79a154cd8a728555b *VTS_01_5.VOB
+
+No errors occurred.

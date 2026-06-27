@@ -1,0 +1,25 @@
+auCDtect: CD records authenticity detector, version 0.8.2
+Copyright (c) 2004 Oleg Berngardt. All rights reserved.
+Copyright (c) 2004 Alexander Djourik. All rights reserved.
+
+Detect mode (0..40 with 0 = most accurate):  8 (default)
+
+
+FNM 1990-07-15 T01 intro.wav:  track looks like CDDA with probability 100%.
+FNM 1990-07-15 T02 From Out Of Nowhere.wav:  track looks like CDDA with probability 100%.
+FNM 1990-07-15 T03 Falling To Pieces.wav:  track looks like CDDA with probability 100%.
+FNM 1990-07-15 T04 Introduce Yourself.wav:  track looks like CDDA with probability 100%.
+FNM 1990-07-15 T05 The Real Thing - 911 Is A Joke.wav:  track looks like CDDA with probability 100%.
+FNM 1990-07-15 T06 Underwater Love.wav:  track looks like CDDA with probability 100%.
+FNM 1990-07-15 T07 As The Worm Turns.wav:  track looks like CDDA with probability 100%.
+FNM 1990-07-15 T08 The Crab Song.wav:  track looks like CDDA with probability 100%.
+FNM 1990-07-15 T09 Edge Of The World.wav:  track looks like CDDA with probability 100%.
+FNM 1990-07-15 T10 The Morning After.wav:  track looks like CDDA with probability 100%.
+FNM 1990-07-15 T11 Vogue - Chinese Arithmetic.wav:  track looks like CDDA with probability 100%.
+FNM 1990-07-15 T12 We Care A Lot.wav:  track looks like CDDA with probability 100%.
+FNM 1990-07-15 T13 Sweet Dreams.wav:  track looks like CDDA with probability 100%.
+FNM 1990-07-15 T14 Surprise! You're Dead!.wav:  track looks like CDDA with probability 100%.
+FNM 1990-07-15 T15 Epic.wav:  track looks like CDDA with probability 100%.
+FNM 1990-07-15 T16 Woodpecker From Mars.wav:  track looks like CDDA with probability 100%.
+FNM 1990-07-15 T17 Macho Man - Zombie Eaters.wav:  track looks like CDDA with probability 100%.
+FNM 1990-07-15 T18 Why Do You Bother.wav:  track looks like CDDA with probability 100%.

@@ -1,0 +1,133 @@
+Miles Davis Quintet
+02-16-1957
+Peacock Alley Lounge
+St. Louis, Missouri
+
+Project ID - 20
+
+Source: FM Broadcast
+Lineage: KSTL-AM radio broadcast > Unknown Transfer(s) > ? > wav? > flac
+
+Miles Davis (tpt); John Coltrane (ts); William "Red" Garland (p); Paul Chambers (b); 
+Philly Joe Jones (d); Spider Burks (ann)
+
+disc 1
+
+d1t01. Introduction
+d1t02. Ah-Leu-Cha
+d1t03. A Foggy Day 
+d1t04. All of You
+d1t05. Woody 'n' You
+d1t06. Walkin'
+d1t07. The Theme/
+
+-------------------------------------------------------
+
+Notes:
+
+- A very good performance from the earliest incarnation of the 
+"Classic Quintet", this show is often found on bootlegs paired with
+the Peacock Alley performance from the following week.  Recorded
+from AM radio, the sound is very "thin" and band-limited, with most
+of the frequency content restricted from about 250 Hz-3 KHz.
+
+- The original incorrect flac tags for this show were corrected.
+
+- The Peacock Alley KSTL-AM recordings, md1957-02-16.fm.LL20 
+contains occasional to sometimes numerous clustered low-frequency "pops". The first of 
+these can be heard in md1957-02-16.LL20.d1t01 at 0:01.060-0:01.080 amidst the nearby 
+virtual silence. The source of these brief muffled "thumps" could be 
+in the original broadcast recording, or perhaps more likely are the 
+remnants of vinyl-sourced popping and clicking in the lineage after 
+crude de-clicking or simple low-pass filtering was applied.
+
+-d1t03. Is played by the "Rhythm Section" of the quartet, minus Miles 
+Davis and John Coltrane.
+
+- d1t07. Contains the announcer sign-off followed by "The Theme", which fades 
+out at the end. Otherwise all music is complete, although there are cuts
+between tracks where some of the announcer comments are missing.
+
+- Track d1t07 most often circulates mistakenly with the 1957-02-23 show.
+Peter Losin notes:
+
+"For some reason most of the concluding announcement (0:42) and the concluding 
+fragment of "The Theme" (0:37) appear at the end of the Soulard CD, after the 
+February 23 material; but they clearly belong here." - Peter Losin
+
+- "It is also clear that this version of "The Theme" belongs with this show
+since the 1957-02-23 show already has its own version of "The Theme".
+Our versions followed this error and what is presented here is the corrected
+show tracks in the correct order and date that they were originally 
+broadcast." - Peter Losin 
+
+- "The Soulard CD lists the date for this performance as July 14, 1956, 
+but this seems to be wrong. Spider Burks was fired by KXLW-AM on July 11, 1956, 
+two days before the Davis Quintet opened a nine-day gig at 
+Peacock Alley (July 13-21, Friday-Saturday). He was hired by KSTL-AM in 
+August 1956 and quickly began live Saturday matinee broadcasts from Peacock 
+Alley. The Davis Quintet returned to Peacock Alley in February 1957 for a 
+nine-day gig (February 15-23, Friday-Saturday). In all likelihood, then, 
+the Soulard material comes from broadcasts on February 16 and 23, and the 
+correct station is KSTL-AM. Many thanks to Chris DeVito for careful 
+research here." - Peter Losin
+
+- Thank you to Peter Losin for his original contributions and research on this show, 
+please see: http://www.plosin.com/ 
+
+- QC done by Guygee
+
+md5
+557a7660e7564b74692d00ad7a1c9a9d *md1957-02-16.LL20.d1t01.flac
+bc2e3284fd08b02b8e0bc908d89b7f9d *md1957-02-16.LL20.d1t02.flac
+37f49211da60220ccd5a182f1cf86daa *md1957-02-16.LL20.d1t03.flac
+1dda8e4ce2c1ea6f45339b6d80f3e768 *md1957-02-16.LL20.d1t04.flac
+1be6c1932964fd654dbf1d4d32e8d582 *md1957-02-16.LL20.d1t05.flac
+3a5a8e02152a245af3d5907bc8d8fcae *md1957-02-16.LL20.d1t06.flac
+b45e4adffbf8484ee132425f6e827893 *md1957-02-16.LL20.d1t07.flac
+
+ffp
+md1957-02-16.LL20.d1t01.flac:9fca65ea8c83531bfae137de2b60849b
+md1957-02-16.LL20.d1t02.flac:1aa113de2f194acebb5bb49670f621c1
+md1957-02-16.LL20.d1t03.flac:46ad095fa8b97c7ef5d9e252854160ea
+md1957-02-16.LL20.d1t04.flac:17196a3dafea215ac8ebee696b0dbd7e
+md1957-02-16.LL20.d1t05.flac:ca3185fbdd673b86a28dc463f7ea3efd
+md1957-02-16.LL20.d1t06.flac:126212c8fa78b6052de6b57d2453fffa
+md1957-02-16.LL20.d1t07.flac:e1996170f5417cb7ff2672bbf8b760c9
+
+st5 
+9fca65ea8c83531bfae137de2b60849b  [shntool]  md1957-02-16.LL20.d1t01.flac
+1aa113de2f194acebb5bb49670f621c1  [shntool]  md1957-02-16.LL20.d1t02.flac
+46ad095fa8b97c7ef5d9e252854160ea  [shntool]  md1957-02-16.LL20.d1t03.flac
+17196a3dafea215ac8ebee696b0dbd7e  [shntool]  md1957-02-16.LL20.d1t04.flac
+ca3185fbdd673b86a28dc463f7ea3efd  [shntool]  md1957-02-16.LL20.d1t05.flac
+126212c8fa78b6052de6b57d2453fffa  [shntool]  md1957-02-16.LL20.d1t06.flac
+e1996170f5417cb7ff2672bbf8b760c9  [shntool]  md1957-02-16.LL20.d1t07.flac
+
+shntool
+length     expanded size   cdr  WAVE problems filename
+     0:43.26        7646396    ---   --   ---xx   md1957-02-16.LL20.d1t01.flac
+     5:55.44       62725532    ---   --   ---xx   md1957-02-16.LL20.d1t02.flac
+     5:21.02       56629148    ---   --   ---xx   md1957-02-16.LL20.d1t03.flac
+     6:37.39       70122572    ---   --   ---xx   md1957-02-16.LL20.d1t04.flac
+     5:15.49       55681292    ---   --   ---xx   md1957-02-16.LL20.d1t05.flac
+     7:29.31       79276556    ---   --   ---xx   md1957-02-16.LL20.d1t06.flac
+     1:16.07       13422908    ---   --   ---xx   md1957-02-16.LL20.d1t07.flac
+    32:38.48      345504404 B                     (totals for 7 files, 0.3455 overall compression ratio)
+
+
+spectral analysis from TLH
+md1957-02-16.LL20.d1t01.wav:  track looks like CDDA with probability 100%
+md1957-02-16.LL20.d1t02.wav:  track looks like CDDA with probability 100%
+md1957-02-16.LL20.d1t03.wav:  track looks like CDDA with probability 99%
+md1957-02-16.LL20.d1t04.wav:  track looks like CDDA with probability 100%
+md1957-02-16.LL20.d1t05.wav:  track looks like CDDA with probability 100%
+md1957-02-16.LL20.d1t06.wav:  track looks like CDDA with probability 100%
+md1957-02-16.LL20.d1t07.wav:  track looks like CDDA with probability 100%
+
+
+
+
+
+
+

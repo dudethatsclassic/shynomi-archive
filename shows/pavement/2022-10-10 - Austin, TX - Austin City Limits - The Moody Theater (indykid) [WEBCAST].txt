@@ -1,0 +1,99 @@
+Pavement
+Austin City Limits
+ACL Live at The Moody Theater
+Austin, Texas
+October 10, 2022
+
+Lineage: ACL TV LIVE webcast -> Livestreamer -> FFmpeg (edit) -> uncompressed .ts
+Video: MPEG4 Video (H264) 1920x1080 16:9 2180 Kbps 30.00 fps
+Audio: AAC 128 Kbps 44.1 KHz stereo
+
+Pavement are Mark Ibold, Scott “Spiral Stairs” Kannberg, Stephen Malkmus, Bob Nastanovich and Steve West. Among the most beloved acts to come out of the American underground in the 1990’s, the band released five era-defining albums – 'Slanted and Enchanted' (1992), 'Crooked Rain, Crooked Rain' (1994), 'Wowee Zowee' (1995), 'Brighten the Corners' (1997) and 'Terror Twilight' (1999) – before disbanding in 1999. The band reunited this year for its first shows in more than a decade, including a headline set at Primavera Sound. This fall they will tour throughout the US, EU, UK, and Japan. Pavement’s 2010 reunion saw them play four sold out shows in Central Park and top the bills of festivals worldwide including Coachella, Primavera Sound, and Pitchfork.
+
+Setlist:
+Grounded
+Summer Babe
+Stereo
+Black Out
+Embassy Row
+Zurich Is Stained
+Trigger Cut
+Two States
+Type Slowly
+Harness Your Hopes
+Spit on a Stranger
+Unfair
+We Dance
+Painted Soldiers
+Fin
+Range Life
+Cut Your Hair
+
+TRT = 01:03:54
+
+Note: This is a perfect capture of the webcast.
+No imperfections were inherent in the broadcast.
+
+Captured and uploaded to DIME by indykid.
+
+MediaInfo:
+General
+ID                                       : 1 (0x1)
+Complete name                            : Pavement - 2022-10-10 Austin City Limits, ACL Live at The Moody Theater, Austin, TX [1080p].ts
+Format                                   : MPEG-TS
+File size                                : 1.03 GiB
+Duration                                 : 1 h 3 min
+Overall bit rate mode                    : Variable
+Overall bit rate                         : 2 308 kb/s
+
+Video
+ID                                       : 256 (0x100)
+Menu ID                                  : 1 (0x1)
+Format                                   : AVC
+Format/Info                              : Advanced Video Codec
+Format profile                           : High@L4
+Format settings                          : CABAC / 1 Ref Frames
+Format settings, CABAC                   : Yes
+Format settings, RefFrames               : 1 frame
+Codec ID                                 : 27
+Duration                                 : 1 h 3 min
+Width                                    : 1 920 pixels
+Height                                   : 1 080 pixels
+Display aspect ratio                     : 16:9
+Frame rate mode                          : Variable
+Color space                              : YUV
+Chroma subsampling                       : 4:2:0
+Bit depth                                : 8 bits
+Scan type                                : Progressive
+Color range                              : Limited
+Color primaries                          : BT.709
+Transfer characteristics                 : BT.709
+Matrix coefficients                      : BT.709
+
+Audio
+ID                                       : 257 (0x101)
+Menu ID                                  : 1 (0x1)
+Format                                   : AAC LC
+Format/Info                              : Advanced Audio Codec Low Complexity
+Format version                           : Version 4
+Muxing mode                              : ADTS
+Codec ID                                 : 15-2
+Duration                                 : 1 h 3 min
+Bit rate mode                            : Variable
+Channel(s)                               : 2 channels
+Channel layout                           : L R
+Sampling rate                            : 44.1 kHz
+Frame rate                               : 43.066 FPS (1024 SPF)
+Compression mode                         : Lossy
+Delay relative to video                  : -2 s 186 ms
+
+Menu
+ID                                       : 4096 (0x1000)
+Menu ID                                  : 1 (0x1)
+Duration                                 : 1 h 3 min
+List                                     : 256 (0x100) (AVC) / 257 (0x101) (AAC)
+Service name                             : Service01
+Service provider                         : FFmpeg
+Service type                             : digital television
+
+Captured and uploaded to DIME by indykid.

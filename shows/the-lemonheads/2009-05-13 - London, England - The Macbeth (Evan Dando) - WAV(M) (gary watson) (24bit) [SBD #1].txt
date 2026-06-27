@@ -1,0 +1,163 @@
+Evan Dando
+13th May 2009
+The Macbeth
+London, England
+
+SETLIST (82:03)
+---------------
+01. (intro/tuning)
+02. The Outdoor Type
+03. Pittsburgh
+04. My Drug Buddy
+05. All My Life
+06. Rudderless
+07. Layin' Up With Linda [$] 
+08. A Circle Of One
+09. Confetti
+10. Tenderfoot
+11. (Evan mumbling)
+12. I Just Can't Take It Anymore [&]
+13. Hospital
+14. Down About It
+15. It's About Time
+16. My Idea
+17. Why Do You Do This To Yourself?
+18. The Turnpike Down
+19. Style
+20. Skulls [#]
+21. Big Gay Heart
+22. Homos [@]
+23. Ride With Me
+24. The Great Big No
+25. Frying Pan (aborted) [*]
+26. It's A Shame About Ray (w/ "Sleeping Village" tag) [^]
+27. Mallo Cup
+28. Don't Tell Yourself
+29. If I Could Talk I'd Tell You
+30. Into Your Arms
+31. Kitchen
+32. (mic bump / crowd noise)
+33. Favorite T
+34. Shots Is Fired
+35. Bit Part
+36. Ba De Da [%]
+37. (Evan talking)
+38. Luka [~]
+39. Different Drum [?]
+
+GENERATION
+---------------
+WAV(M) -> FLAC
+
+SOURCE (SBD #1)
+---------------
+Soundboard -> Edirol R-09 @ 24/48 -> WAV(M)
+
+TRANSFER
+---------------
+WAV(M) -> PC -> Adobe Audition 2021 (fades) -> CD Wave 1.95.1 (track splits) -> foobar2000 -> FLAC(8)
+
+NOTES
+-----
+Evan turned up pretty late!
+During Kitchen, a woman gets up on stage, Evan tries to get her to sing.  At the end, the crowd are booing her off, and the mic gets bumped.
+
+Key for original artists:
+$ = G.G. Allin
+& = Gram Parsons
+# = Glenn Danzig
+@ = The Frogs
+* = Victoria Williams
+^ = Black Sabbath tag
+% = Fred Neil
+~ = Suzanne Vega
+? = Mike Nesmith / Greenbriar Boys / The Stone Poneys
+
+FLAC FINGERPRINTS
+-----------------
+evandando-2009-may-13-t01.flac:231e52e014c14353f44bcebd47bc1e66
+evandando-2009-may-13-t02.flac:cd7adea4c01c4a3c54472963a16f2708
+evandando-2009-may-13-t03.flac:22a7fe2337745866b59ea6f11a26134b
+evandando-2009-may-13-t04.flac:1b39129e212a4449f12b09dead45775f
+evandando-2009-may-13-t05.flac:d809d05c197611d8117b389e842e1369
+evandando-2009-may-13-t06.flac:6bc9b6df5bd8e5717025f9c21f90b344
+evandando-2009-may-13-t07.flac:a2173bab479225b4352775c5436faf2a
+evandando-2009-may-13-t08.flac:8ed2e9ce8ae5b4edbe75994790c6a695
+evandando-2009-may-13-t09.flac:5410f0410456f575e40bb3e7675bf6ee
+evandando-2009-may-13-t10.flac:c82b4da20d46d1d06567f3ab3fd9ed47
+evandando-2009-may-13-t11.flac:4b3507939f6546bf27e29e9125235e2c
+evandando-2009-may-13-t12.flac:154d9f3008e3df6e29a3caa4f6a51f64
+evandando-2009-may-13-t13.flac:462a58d6d6cc9cb38f2665c90a48b63f
+evandando-2009-may-13-t14.flac:a622ab2fd98c70feecef68eff835c29f
+evandando-2009-may-13-t15.flac:e96162b8a632e097f90b9b7e59f2c192
+evandando-2009-may-13-t16.flac:659857fec0c26208261302ec4499be88
+evandando-2009-may-13-t17.flac:a70399c840a588680114a2685c1cee51
+evandando-2009-may-13-t18.flac:c4161dfdc5dd4b94b3cccd663c34190e
+evandando-2009-may-13-t19.flac:c3744df9963c0b2917fe7836e127b7ba
+evandando-2009-may-13-t20.flac:e5bd6d4ec0d045528e0f27d90b75fda5
+evandando-2009-may-13-t21.flac:cf6b25352bc302d4df97edb9f369bbff
+evandando-2009-may-13-t22.flac:9561c6ca9a2cb177c27cbce1a119d9af
+evandando-2009-may-13-t23.flac:0c4b7ad896356c6b06cf118620c3abb4
+evandando-2009-may-13-t24.flac:b18bd76604c4abb0a4de620638a52a6f
+evandando-2009-may-13-t25.flac:72b204be326dcd4e1afa78b233a7cb78
+evandando-2009-may-13-t26.flac:ada584f2416fd265735f68f6fdd9fe55
+evandando-2009-may-13-t27.flac:898b4edfc1b299dfe7c14f6525e24182
+evandando-2009-may-13-t28.flac:337c66345219a7af8c37d36524ed1451
+evandando-2009-may-13-t29.flac:b160dff635c6aa3b81763677e2536219
+evandando-2009-may-13-t30.flac:7ab7962498cbc27a99e8350d2fccc396
+evandando-2009-may-13-t31.flac:dc794cb672a611233861e5601b7b0bc1
+evandando-2009-may-13-t32.flac:2829440a990d6274124d2bce5316fbd0
+evandando-2009-may-13-t33.flac:b27fceb43ce5e51e5784aed1e1f88131
+evandando-2009-may-13-t34.flac:c00ee390b2ff2c44ba96b1ed8c53c68c
+evandando-2009-may-13-t35.flac:f39ffccaf3b7e599f55ed53d0deab4da
+evandando-2009-may-13-t36.flac:d5d12dc3a7aa2d2ad487d4738be41e69
+evandando-2009-may-13-t37.flac:7aaf52e591ad7ead6edfa5ef53c9654a
+evandando-2009-may-13-t38.flac:9809d7bbec3028ce9e38102c25b0bdee
+evandando-2009-may-13-t39.flac:0c4c4e0ae38c779931dcbf832da936cb
+
+MD5 CHECKSUMS
+---------------
+b2db86f15a786a39c1e6c6df597d2e37 *evandando-2009-may-13-t01.flac
+3092312a22f87f0740a999c8010754f2 *evandando-2009-may-13-t02.flac
+172eba23c66c8ddf8c83f8b7a971e21d *evandando-2009-may-13-t03.flac
+7d2dc41b49ecf49cbafb419a7640cd19 *evandando-2009-may-13-t04.flac
+ee77373177e5b2497c6a0cf37375073b *evandando-2009-may-13-t05.flac
+cdffe76c1becb0dc8edfefd9ae4d4d83 *evandando-2009-may-13-t06.flac
+9b88967ccf4ce06e8284fd557532c3bf *evandando-2009-may-13-t07.flac
+f83e0245bd27a18f225b4f7bc9fd82d1 *evandando-2009-may-13-t08.flac
+6c1150c1b6f9e99f53f88d742174f422 *evandando-2009-may-13-t09.flac
+2847b175a127b249ed31d70e337f5be6 *evandando-2009-may-13-t10.flac
+05e70dd5ab64ac707d8c3accb56683fa *evandando-2009-may-13-t11.flac
+5029959c6846504bb60e13e15440491a *evandando-2009-may-13-t12.flac
+ac976097b867c2e596385bb0307fcda6 *evandando-2009-may-13-t13.flac
+05c3d39bd786a539065de1a850eecb65 *evandando-2009-may-13-t14.flac
+e64cd8aee2809f7d42ab6b56d35b9cfb *evandando-2009-may-13-t15.flac
+7e70c11cfb8b56953dd2ce1b1165d1d6 *evandando-2009-may-13-t16.flac
+1174d891bebe9786aef2c7060edbdcdf *evandando-2009-may-13-t17.flac
+0e513f80e8bfe002f402baa283e2754e *evandando-2009-may-13-t18.flac
+fce60c378ee5af7fd8240474be96fb05 *evandando-2009-may-13-t19.flac
+61fb7cfa9c6e4b6e14f861f285c76bc2 *evandando-2009-may-13-t20.flac
+a387ecc4a8eab5a71f62731202cbfc65 *evandando-2009-may-13-t21.flac
+98392fe175d7ef8f6b317e7587d3b48f *evandando-2009-may-13-t22.flac
+997651889bb5d8d3fe3076d1bd08cd9a *evandando-2009-may-13-t23.flac
+92dd77bf834076e5cca057deee7f5ec7 *evandando-2009-may-13-t24.flac
+e94a7544bb8d13c0ae657fbe11893a69 *evandando-2009-may-13-t25.flac
+198e8b0575ad55daf2c78535b76b88fb *evandando-2009-may-13-t26.flac
+019b38c307777ba48388aff840944e83 *evandando-2009-may-13-t27.flac
+9c3c173e5f3ea9bd98ac19269d13bae2 *evandando-2009-may-13-t28.flac
+7ee12ebdad30ffb63ba965a1ebf38ad8 *evandando-2009-may-13-t29.flac
+556784033b663c8e6d36203d3ea6b3d9 *evandando-2009-may-13-t30.flac
+a0b5da894f9354bda7b7133828ad8b24 *evandando-2009-may-13-t31.flac
+b9f8db6487aa832c4f4c5e6a8671af61 *evandando-2009-may-13-t32.flac
+224461e27f118eba27c12373df340c43 *evandando-2009-may-13-t33.flac
+5c3c2a3cc086acdbb44c831f2fa09ef5 *evandando-2009-may-13-t34.flac
+144cb2f249ddf3ae6bf3a7ea743cc308 *evandando-2009-may-13-t35.flac
+fc6d48d960a7b10dcffeccf28549a8b4 *evandando-2009-may-13-t36.flac
+329542442de0179be63408006a788d46 *evandando-2009-may-13-t37.flac
+a87250bf772e8703ceae4597e64e3ff4 *evandando-2009-may-13-t38.flac
+0f18d8c55d06212920a2b0fd3b5e7309 *evandando-2009-may-13-t39.flac
+
+Taped, transferred & mastered by: Gary Watson (packetboatlane@yahoo.co.uk)
+
+DO NOT SELL, OR DISTRIBUTE IN LOSSY FORMATS!
+

@@ -1,0 +1,79 @@
+Metallica
+September 24, 2021
+Louisville, Kentucky USA
+Louder Than Life Festival on the Highland Festival Grounds at Kentucky Expo Center
+Lineage: SP-CMC-8(AT8538 Mod)>CA-UGLY II>Edirol R-05>PC>Adobe Audition>CDWAVE>FLAC
+Taped by: Porcelmc 
+
+_____________________________________________________________
+
+Setlist - Metallica
+
+01. AC/DC TAPE
+02. The Ecstasy of Gold TAPE
+03. Whiplash 
+04. Ride the Lightning
+05. Harvester of Sorrow
+06. James Speaks #1
+07. Cyanide
+08. The Memory Remains
+09. One
+10. James Speaks #2
+11. Now That We're Dead
+12. James Speaks #3
+13. Moth Into Flame
+14. No Leaf Clover
+15. For Whom the Bell Tolls
+16. Whiskey in the Jar
+17. Fade to Black Intro Tape
+18. Fade to Black
+19. Master of Puppets
+20. Encore Break
+21. Battery
+22. Fuel
+23. James Speaks #4
+24. Seek and Destroy
+
+____________________________________________________________
+
+Notes:
+
+The sound desk was having issues dutring Whiplash causing varying levels coming from the PA. I thought it was my gear and had to adjust on the fly. Instead of cutting it out I left the compelte screw-up intact. So there are a few quiet seconds during the song. Other than that no issues to report.
+
+Hope you enjoy the show!
+_____________________________________________________________
+
+Sample: https://www.youtube.com/watch?v=vXXd0SVE5Bw
+
+
+ST5 Hash File:
+
+88422a610657d3e864f9cd992373207a  [shntool]  01_AC_DC TAPE.flac
+54c157b1e597a803f165633276c468c4  [shntool]  02_The Ecstasy of Gold TAPE.flac
+44a9ed4b26c6949c508b2111f35eac46  [shntool]  03_Whiplash.flac
+2829c0d94e2bdf921f92b337a1dda05b  [shntool]  04_Ride the Lightning.flac
+43dc1b94379b8b22f7044ab212f96074  [shntool]  05_Harvester of Sorrow.flac
+686577988ddfe5604525a03adf638403  [shntool]  06_James Speaks.flac
+0760942498dae7fb9e013b95305633eb  [shntool]  07_Cyanide.flac
+85ab920715c3e4e60f85c23b7c391a4f  [shntool]  08_The Memory Remains.flac
+e74430306789293850fcc067363fcd7a  [shntool]  09_One.flac
+36fc7c9fb16a21ae4117a0a653ea9681  [shntool]  10_James Speaks #2.flac
+cf4f65e3109635af6b30e0b0f897566a  [shntool]  11_Now That We're Dead.flac
+c19d19b5ea7fa20cc3d14dff3ce6694d  [shntool]  12_James Speaks #3.flac
+6cdd585f4286d441c2bbc82a2c31277c  [shntool]  13_Moth Into Flame.flac
+6ca46b983c3e4c672992d3a98f10770f  [shntool]  14_No Leaf Clover.flac
+c40c56e793cde8555bd3b016d107a0b7  [shntool]  15_For Whom the Bell Tolls.flac
+d638d5ae4b2489ffdad6a20bf59899a1  [shntool]  16_Whiskey in the Jar.flac
+09f11b00b30a9e9b37f7ec2cfb723746  [shntool]  17_Fade to Black Intro Tape.flac
+92c481be66f20b8e2017fc12f01fe221  [shntool]  18_Fade to Black.flac
+3376da7a73bc01af9485b3265fc8b071  [shntool]  19_Master of Puppets.flac
+4068341d2fa000582dd34dca25fa8c5e  [shntool]  20_Encore Break.flac
+b99b70ddeea4b1fcef155fb9f5f5daed  [shntool]  21_Battery.flac
+1671aeef6f504f8a441653625dd3b8ef  [shntool]  22_Fuel.flac
+f660adef1eb355e3b83f34ef5a26fa16  [shntool]  23_James Speaks #4.flac
+98ba8ee99f8bbd94063fede3e348c5df  [shntool]  24_Seek and Destroy.flac
+
+No errors occured.
+
+
+

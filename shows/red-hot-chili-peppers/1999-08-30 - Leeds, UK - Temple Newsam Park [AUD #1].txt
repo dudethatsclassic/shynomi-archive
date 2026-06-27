@@ -1,0 +1,71 @@
+Red Hot Chili Peppers
+
+- Leeds Festival -
+
+August 30, 1999 - Temple Newsam Park, Leeds, England
+
+
+01. Around The World
+02. Give It Away
+03. Scar Tissue
+04. My Lovely Man
+05. Emit Remmus
+06. Soul To Squeeze
+07. If You Have To Ask
+08. Organic Anti-Beat Box Band
+09. I Like Dirt
+10. Easily
+11. Your Pussy's Glued To A Building On Fire
+12. Jam
+13. Right On Time
+14. Under The Bridge
+15. Me And My Friends
+16. Sir Psycho Sexy
+17. The Power Of Equality
+
+LEN: 71
+
+Before "Sir Psycho Sexy" John played the first notes of "Voodoo Child" by Jimi Hendrix.
+
+rhcp1999-08-30t01.wav:  successfully encoded to 'rhcp1999-08-30t01.flac'
+rhcp1999-08-30t02.wav:  successfully encoded to 'rhcp1999-08-30t02.flac'
+rhcp1999-08-30t03.wav:  successfully encoded to 'rhcp1999-08-30t03.flac'
+rhcp1999-08-30t04.wav:  successfully encoded to 'rhcp1999-08-30t04.flac'
+rhcp1999-08-30t05.wav:  successfully encoded to 'rhcp1999-08-30t05.flac'
+rhcp1999-08-30t06.wav:  successfully encoded to 'rhcp1999-08-30t06.flac'
+rhcp1999-08-30t07.wav:  successfully encoded to 'rhcp1999-08-30t07.flac'
+rhcp1999-08-30t08.wav:  successfully encoded to 'rhcp1999-08-30t08.flac'
+rhcp1999-08-30t09.wav:  successfully encoded to 'rhcp1999-08-30t09.flac'
+rhcp1999-08-30t10.wav:  successfully encoded to 'rhcp1999-08-30t10.flac'
+rhcp1999-08-30t11.wav:  successfully encoded to 'rhcp1999-08-30t11.flac'
+rhcp1999-08-30t12.wav:  successfully encoded to 'rhcp1999-08-30t12.flac'
+rhcp1999-08-30t13.wav:  successfully encoded to 'rhcp1999-08-30t13.flac'
+rhcp1999-08-30t14.wav:  successfully encoded to 'rhcp1999-08-30t14.flac'
+rhcp1999-08-30t15.wav:  successfully encoded to 'rhcp1999-08-30t15.flac'
+rhcp1999-08-30t16.wav:  successfully encoded to 'rhcp1999-08-30t16.flac'
+rhcp1999-08-30t17.wav:  successfully encoded to 'rhcp1999-08-30t17.flac'
+
+No errors occured.
+
+
+rhcp1999-08-30t01.flac:6199072decf44b7a2c29c0a4f400032f
+rhcp1999-08-30t02.flac:01ff5213adc7a0cbc80f2806d0ee26ab
+rhcp1999-08-30t03.flac:0a47f44810b8e51079c10d74cf7f27ea
+rhcp1999-08-30t04.flac:33d35978d6806a1e11a2259b0c6a9b98
+rhcp1999-08-30t05.flac:69dc99ce53d96d4de810c57da3836e64
+rhcp1999-08-30t06.flac:6fe4cf1a1cb6f4693c28991832d5a9f3
+rhcp1999-08-30t07.flac:19846ddf2455d6a4a1915bfdcaf6ce6a
+rhcp1999-08-30t08.flac:03273ff878e50cac3cb9bc459118747a
+rhcp1999-08-30t09.flac:15603cf86eb4562287ea90eb944bfc9e
+rhcp1999-08-30t10.flac:6ec7f678f4468c7967836a0033e14274
+rhcp1999-08-30t11.flac:ff4721fbea4780dfaf59be0d344ac49c
+rhcp1999-08-30t12.flac:eb460742d1550318f3fc576a722428ed
+rhcp1999-08-30t13.flac:65c75a7c5b77eaa4fe168835b40de1eb
+rhcp1999-08-30t14.flac:c2308b78f55c9fdad33de1c65c4aa607
+rhcp1999-08-30t15.flac:6892e3eec4c224df766b9cea96009777
+rhcp1999-08-30t16.flac:e260eba61877965c25f9fcc101cc399b
+rhcp1999-08-30t17.flac:5a535634b8f98028a930700cce163aea
+
+No errors occured.
+
+Checksum file saved to disk.

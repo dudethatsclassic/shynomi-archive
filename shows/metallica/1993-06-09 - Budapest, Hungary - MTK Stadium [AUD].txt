@@ -1,0 +1,73 @@
+Metallica
+
+1993-06-09
+MTK Stadium
+Budapest, Hungary
+
+
+Source: AUD -> ?? -> CDR -> EAC(secure) -> WAV -> FLAC
+
+
+Disc 1:
+01. Ecstasy of Gold
+02. Creeping Death
+03. Harvester of Sorrow
+04. Welcome Home (Sanitarium)
+05. Of Wolf And Man
+06. Wherever I May Roam
+07. The Thing That Should Not Be
+08. The Unforgiven
+09. Disposable Heroes
+10. Jason's Bass Solo
+11. Orion Jam -> Dyers Eve Jam -> Call Of the Ktula Jam
+
+Disc 2:
+01. Call Of the Ktula Jam (cont) -> Kirk's Guitar Solo
+02. The Four Horsemen
+03. For Whom the Bell Tolls
+04. Fade to Black
+05. Master of Puppets
+06. Seek and Destroy
+07. Battery
+08. Nothing Else Matters
+09. Sad But True
+10. Last Caress
+11. One
+
+
+Notes:
+Not the best sounding audience recording for 1993...alot of hiss.....maybe from high gen cassette source? This is the only version that circulates as of April 2006. Until a better version comes around this is all that we have.
+
+
+
+
+
+
+
+FLAC Fingerprint:
+
+Disc 1:
+track 01.flac:230b6e538a575b8076be7503e5655026
+track 02.flac:5618f169bf13d8e3c8024ac8fbd3d153
+track 03.flac:fbd0c377b9b889c2c3ab41ecc60b2839
+track 04.flac:2eca4f6cb2cc7d50e12a7447d6d81d15
+track 05.flac:17e80e44130b427309c21f0ed69536bf
+track 06.flac:07d2fa36801dcd8e7d940b7b560c5201
+track 07.flac:b2899c982a7577fbc1831ca1345f8d66
+track 08.flac:c0caf68461c321a7bd6d090a41bc66c6
+track 09.flac:6f3da7ae5c05eb51af20c7f9339173db
+track 10.flac:865a54a3abc5f750d4e7dab84fa1d347
+track 11.flac:2f2b6280f8d594b5c545d7973b4ac1aa
+
+Disc 2:
+track 01.flac:d9e1edf9477b2d8bbbb7b0f0efade30f
+track 02.flac:b0bfd5ac9e9e6cedfe79e343d9616a31
+track 03.flac:852d25bd56d7eb499fe2e459b1844409
+track 04.flac:3b4959b56c5c288347f55855976b64ff
+track 05.flac:c1c4ba5c0a0cd02c83558ef37c6979d2
+track 06.flac:622970447711f298077df697bf320bd0
+track 07.flac:2dfa659121b45c8789bc5ba3ba973bcd
+track 08.flac:fe23a67a7c6287002d46802a81e9a951
+track 09.flac:f7c132ec29d1ad14d928e39ffbc54972
+track 10.flac:cfc9a3e346c60f46151ffe6acc1a4acf
+track 11.flac:9e7db9bd4fc672f87c4b9fea21f09de9

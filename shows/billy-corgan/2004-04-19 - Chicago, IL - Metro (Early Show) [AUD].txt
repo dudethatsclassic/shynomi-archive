@@ -1,0 +1,51 @@
+Billy Corgan
+Live at Metro
+Chicago, IL, US
+2004-04-19
+
+
+
+Source:		Dynamic Audio Binaurals > Dynamic Audio Custom Battery 
+	     	Box (120hz Bass Rolloff/-11db Attenuation) [Fixed] > 
+	     	Sony PCM-M1 @48kHz
+Location:	Two feet from left stack
+Conversion:  	Sony PCM-M1 > Coresounds Cable (7-pin > Coaxial) > 
+	     	Midiman Audiophile 2496 
+Resampling:  	48kHz downsampled in Sound Forge 6.0 to 44.1kHz
+Editing:	Added fade in's and out's in Sound Forge 6.0 and split 
+		the tracks in CD Wave Editor
+FLAC:        	DAT Master > Sound Forge 6.0 > CD Wave Editor> FLAC 
+		Frontend (level 8)
+
+
+
+**********************************************************************
+                   DO NOT ENCODE TO A LOSSY FORMAT                             	
+**********************************************************************
+
+
+
+01 - Intro                                                    01:42
+02 - The World's Fair  		                              06:43 
+03 - Black Irish	                                      07:08
+04 - Black Sox                                                04:39
+05 - Friends as Lovers                                        06:07
+06 - Say Goodbye                                              04:07
+07 - Prairie Song                                             07:04
+08 - Bobby Franks                                             10:00
+09 - White Lights                                             07:57
+10 - Riverview                                                04:05
+11 - White City                                               04:10
+12 - El-A-Noy                                                 08:11
+13 - Columbus [cut]                                           06:16
+
+
+
+NOTE:  There is a small cut before Praire Song due to a battery switch.
+       Columbus is cut as well as the encores due to battery loss...
+       THANKS RADIOSHACK!
+
+THIS RECORDING IS DEDICATED TO FRANK QUINTO.  WITHOUT THE HELP OF 
+THIS BRAVE SOUL, NOT ONLY WOULD THIS RECORDING HAVE MOST LIKELY 
+BEEN COMPLETE, BUT BETTER MICS WOULD HAVE BEEN USED AS WELL.  WE ALL 
+LOVE YOU, QUINTANO!

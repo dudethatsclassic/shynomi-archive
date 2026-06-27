@@ -1,0 +1,36 @@
+shntool 3.0.4
+Copyright (C) 2000-2007 Jason Jordan <shnutils@freeshell.org>
+
+    length     expanded size    cdr  WAVE problems  fmt   ratio  filename
+     5:07.48       54267740 B   ---   --   ---xx   flac  0.4043  00 Backstage With Lars.flac
+     1:55.44       20389532 B   ---   --   ---xx   flac  0.3670  01 Ecstasy Of Gold.flac
+     5:44.48       60794540 B   ---   --   ---xx   flac  0.4776  02 Enter Sandman.flac
+     7:39.10       80991164 B   ---   --   ---xx   flac  0.4793  03 Creeping Death.flac
+     7:21.59       77931212 B   ---   --   ---xx   flac  0.4616  04 Harvester Of Sorrow.flac
+     6:51.12       72528668 B   ---   --   ---xx   flac  0.4762  05 Welcome Home (Sanitarium).flac
+     6:20.71       67199036 B   ---   --   ---xx   flac  0.4746  06 Sad But True.flac
+     6:36.02       69859148 B   ---   --   ---xx   flac  0.4687  07 Of Wolf And Man.flac
+     6:49.24       72204092 B   ---   --   ---xx   flac  0.4698  08 The Unforgiven.flac
+     9:44.63      103165820 B   ---   --   ---xx   flac  0.4812  09 And Justice For All Riff Mix.flac
+     2:17.08       24185660 B   ---   --   ---xx   flac  0.4009  10 James Speaks.flac
+     7:14.50       76675244 B   ---   --   ---xx   flac  0.3948  11 Jason Newsted Bass Solo.flac
+     2:58.55       31528604 B   ---   --   ---xx   flac  0.4369  12 Jason & Kirk Jam.flac
+     5:07.18       54197180 B   ---   --   ---xx   flac  0.4322  13 Kirk Hammet Guitar Solo.flac
+     3:43.42       39436028 B   ---   --   ---xx   flac  0.4872  14 Through The Never.flac
+     5:43.32       60580508 B   ---   --   ---xx   flac  0.4766  15 For Whom The Bell Tolls.flac
+     7:23.63       78293420 B   ---   --   ---xx   flac  0.4778  16 Fade To Black.flac
+     4:52.03       51515900 B   ---   --   ---xx   flac  0.4666  17 Master Of Puppets.flac
+    17:36.47      186388988 B   ---   --   ---xx   flac  0.4719  18 Seek And Destroy.flac
+     5:08.05       54343004 B   ---   --   ---xx   flac  0.4778  19 Whiplash.flac
+     1:13.06       12891356 B   ---   --   ---xx   flac  0.3958  20 Audience.flac
+     6:07.03       64745900 B   ---   --   ---xx   flac  0.4516  21 Nothing Else Matters.flac
+     6:37.13       70061420 B   ---   --   ---xx   flac  0.4867  22 Wherever I May Roam.flac
+     5:25.13       57360620 B   ---   --   ---xx   flac  0.4632  23 Am I Evil.flac
+     1:22.13       14495420 B   ---   --   ---xx   flac  0.4941  24 Last Caress.flac
+     9:06.57       96448508 B   ---   --   ---xx   flac  0.4708  25 One.flac
+     2:09.68       22915580 B   ---   --   ---xx   flac  0.3836  26 Audience.flac
+     2:14.40       23731724 B   ---   --   ---xx   flac  0.4296  27 Leper Messiah.flac
+     1:28.33       15600860 B   ---   --   ---xx   flac  0.4928  28 So What.flac
+     5:16.37       55829468 B   ---   --   ---xx   flac  0.4970  29 Battery.flac
+     3:37.56       38410556 B   ---   --   ---xx   flac  0.3706  30 Lars Closing Comments.flac
+   170:54.68     1808966900 B                            0.4604  (31 files)

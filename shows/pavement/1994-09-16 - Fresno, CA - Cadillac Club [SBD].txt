@@ -1,0 +1,70 @@
+Pavement
+
+
+Cadillac Club
+Fresno, California
+September 16, 1994
+
+
+Source:  Unknown SBD > Cass(m) > Cass(1) > ??? > CDR(x)
+Transfer:  CDR(x) > EAC > WAV > FLAC
+Source provided by Shawn Connelly
+Transfer by Terry Watts
+
+
+Disc 1:
+1. ,,Cut Your Hair
+2. Two States
+3. In The Mouth A Desert
+4. Newark Wilder
+5. Brink of the Clouds
+6. Candylad/Unfair
+7. Federal Dust
+8. Yellow Submarine > Something >  Best Friends Arm
+9. Easily Fooled > Box Elder
+10. Silent Kid
+11. Gold Soundz
+12. Conduit for Sale!
+13. Half A Canyon
+14. Summer Babe
+
+
+Notes:
+
+EACed Sept. 2012.  Warts and all...  
+
+Terry Watts
+
+
+FLAC FFP:
+pavement1994-09-16d1t01.flac:e0d8100ca47e96de506d0dda815ba0ed
+pavement1994-09-16d1t02.flac:af561404044147dd5a530c7b85c9bc1c
+pavement1994-09-16d1t03.flac:5008cb23252c2ca028911f4be8448063
+pavement1994-09-16d1t04.flac:d9849083e8f2c488b4680e9afeb85631
+pavement1994-09-16d1t05.flac:99c930fbd0e7c3e6ac243756b9f2403f
+pavement1994-09-16d1t06.flac:f8a01ef82ec44746881efa9aefa9d219
+pavement1994-09-16d1t07.flac:e92662bbc4f5a11246dc39000b2ee582
+pavement1994-09-16d1t08.flac:a7661b7fa8f5450f082284f5ef558295
+pavement1994-09-16d1t09.flac:e02c6ac0daa8174950b575fd1eb1fb3f
+pavement1994-09-16d1t10.flac:013e18963babdd1c5843f56685ca142f
+pavement1994-09-16d1t11.flac:6b352b5aa6406e36d0cae9b9e231311a
+pavement1994-09-16d1t12.flac:e89a894c9389f7a833dc1e67c3b902be
+pavement1994-09-16d1t13.flac:badeb83b0b1fcf4731c6097462e6ca82
+pavement1994-09-16d1t14.flac:65ce25bf29dd69911e2b61301554002e
+
+
+WAV MD5:
+66a2e62c1c5cd2ff6fdd332ed3b34fd4 *pavement1994-09-16d1t01.wav
+256443432f21794d4683956b94c71499 *pavement1994-09-16d1t02.wav
+274c99abaeefa51fab8de5000b48a610 *pavement1994-09-16d1t03.wav
+586ae4b957ddc9d267e94954e9d7ee33 *pavement1994-09-16d1t04.wav
+2c95725393d1016c4b720278a857fd8b *pavement1994-09-16d1t05.wav
+d36dd1a28435392e8824288894156eb1 *pavement1994-09-16d1t06.wav
+da965516427db55b6125f3d2fed566d3 *pavement1994-09-16d1t07.wav
+319538b44f24dab875b5d5018dcfeb5a *pavement1994-09-16d1t08.wav
+dd5736b9fa4ed0ec2f625485c525c31f *pavement1994-09-16d1t09.wav
+09f3400ad098345aa13a3df6fc3f533b *pavement1994-09-16d1t10.wav
+6a0f2d4112de4cdcf2a8413580a565c1 *pavement1994-09-16d1t11.wav
+9efdc7125f353c4a2810c9cd9a6cbada *pavement1994-09-16d1t12.wav
+7063cc0df0a8056a0e4ba979a9fa2db1 *pavement1994-09-16d1t13.wav
+b634744002a4700fbee17a0639cc37bb *pavement1994-09-16d1t14.wav

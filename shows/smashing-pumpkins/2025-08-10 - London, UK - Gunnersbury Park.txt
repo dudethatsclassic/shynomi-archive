@@ -1,0 +1,45 @@
+Smashing Pumpkins
+August 10th 2025
+Gunnersbury Park
+London, UK
+
+SOURCE (AUD#1):
+CSBs > Battery Box > Sony PCM-A10
+
+GENERATION:
+WAV(M) > FLAC
+
+LENGTH:
+51:20
+
+SETLIST:
+01. Pentagrams
+02. Today
+03. Bullet With Butterfly Wings
+04. Muzzle
+05. 1979
+06. Porcelina of the Vast Oceans
+07. Mayonaise
+08. Take My Breath Away [Berlin]
+09. Edin
+
+MD5 FINGERPRINTS:
+0630c7a5dcfaa0b628ab7fe054b80ca2 *Smashing Pumpkins 2025-08-10 AUD1 t01 Pentagrams.flac
+bad25ca44ad5b9e26624082c9148c278 *Smashing Pumpkins 2025-08-10 AUD1 t02 Today.flac
+409fb2071d1ec2937c709b4593f44ea2 *Smashing Pumpkins 2025-08-10 AUD1 t03 Bullet With Butterfly Wings.flac
+1f4b83b68491006496c6b8aa66a7984a *Smashing Pumpkins 2025-08-10 AUD1 t04 Muzzle.flac
+21d5eefbe9cd8fb5d43994edbbe14c83 *Smashing Pumpkins 2025-08-10 AUD1 t05 1979.flac
+1fc24b755941c27929e3a10b937fec50 *Smashing Pumpkins 2025-08-10 AUD1 t06 Porcelina of the Vast Oceans.flac
+ef0888b343c8e2a8d6c3ef689b4de5b6 *Smashing Pumpkins 2025-08-10 AUD1 t07 Mayonaise.flac
+52c6a8ba14673f294ae71fdec9169716 *Smashing Pumpkins 2025-08-10 AUD1 t08 Take My Breath Away [Berlin].flac
+a8b2a0b0f2919a4ac073906a869ff446 *Smashing Pumpkins 2025-08-10 AUD1 t09 Edin.flac
+
+NOTES:
+I started the European tour using my SP-CMC-4U mics and switched to CSBs for the Bonn/Berlin shows. What i hadn't noticed is that I started to experience dropouts and mic interference during the Berlin recording so went into this show thinking everything was fine. During Heavy Metal Machine I looked down at the recorder and found that there was no sound and managed to fiddle around and get the mics working for Pentagrams. Unfortunately dropouts continued (including missing the entirety of Sighommi) until I eventually got knocked into by the girl infront and I just couldn't get any further connectivity between the mics and recorder so the recording was abandoned 
+
+RECORDED BY:
+Spaldz
+
+DISTRIBUTION:
+Spaldz, Nicholas Serra & Members of SPLRA
+2025-11-24

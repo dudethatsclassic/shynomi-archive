@@ -1,0 +1,38 @@
+Charles Mingus Quintet
+La Spezia, Italy
+July 15, 1975
+SBD
+
+Goody's Speed/Pitch-adjusted Edition via BroeselJoe & Maurizio (u014945)
+
+Charles Mingus (bass)
+Jack Walrath (trumpet)
+George Adams (tenor saxophone)
+Don Pullen (piano)  
+Dannie Richmond (drums)
+
+Soundboard - Stereo
+
+
+01.   For Harry Carney                                 13:51
+02.   Devil Blues                                        12:03
+03.   Remember Rockefeller At Attica            11:56
+04.   Fables of Faubus                                14:22
+05.   Sue's Changes                                   35:24
+
+If burning to 2 audio discs a recommended layout would be to burn all but Track 5 on the first disc.
+
+
+Dime > CD-r > EAC > Audacity (normalization) > Audition (Pitch Bender, various amounts) > 
+TLH (FLAC Level 8; Align sector boundaries; .ffp) > foobar2000 (tags)
+
+This is a new speed/pitch adjusted edition of this great concert by one of Mingus' better line-up of the seventies !!!
+
+plus a small improvement in the flow from Rockfeller to Faubus !!
+
+
+Enjoy
+
+Maurizio & Goody
+
+This edition updated May 9, 2026

@@ -1,0 +1,100 @@
+Beryl Booker Quintet (w/ Miles Davis)
+04-26-1952
+Birdland
+New York, New York
+
+Project ID - LL86
+
+Source: FM Broadcast
+Lineage: WJZ radio broadcast > ?? > cd (Peter Losin's Archive) > 
+cd duplicated (burner to burner) > eac > wav > flac (lvl 8 )
+
+Miles Davis (tpt); Don Elliot (vb, mellophone); Chuck Wayne (g); Beryl Booker (p); 
+Clyde Lombardi (b); Connie Kay (d)
+
+disc 1
+
+d1t01. Introduction
+d1t02. Lady Be Good
+d1t03. Introduction
+d1t04. It Could Happen to You
+d1t05. Introduction
+d1t06. Wee Dot 
+d1t07. Unknown Title (closing theme)
+ 
+-------------------------------------------------------
+
+Notes:
+
+- d1t07 has some very heavy low end distortion present.
+
+- Decent sound. some hiss/crackle present intermittently, heavy at timers, and the low end
+suffers from a little distortion, but it's still very listenable. This is a nice piece 
+that showcases Miles's playing for the period very well. The "It Could Happen To you" 
+is one of the highlights for this show. 
+
+- Thanks to Peter Losin for the source!
+
+- "Davis had been away from New York for several months, in the Midwest trying to cure 
+his heroin habit. He returned in April and joined the Beryl Booker group for two nights 
+broadcast on WJZ. Perhaps on the strengths of this gig, Davis was offered a one-week 
+engagement at Birdland, May 1-7."- Credit to Peter Losin, http://www.plosin.com/
+
+- QC done by Bgreen
+
+md5
+1d55c798659acf25b7a5867825522e8d *md1952-04-26.LL86.d1t01.flac
+3e5ee437330f9eac87c6cc0ad69b42ac *md1952-04-26.LL86.d1t02.flac
+bc4b3b9bda3845e501583548b9dffcaa *md1952-04-26.LL86.d1t03.flac
+659305a0eb9bac1762b6bb18ea127139 *md1952-04-26.LL86.d1t04.flac
+7389cdde9b605e49ed74fbd1ceb6307e *md1952-04-26.LL86.d1t05.flac
+7a05bb74be8581a75339c04f4068b72a *md1952-04-26.LL86.d1t06.flac
+57e28867c57379ae69d12f5d4b337995 *md1952-04-26.LL86.d1t07.flac
+
+ffp
+md1952-04-26.LL86.d1t01.flac:75240852cd8dc75f79452b3d3898c7cd
+md1952-04-26.LL86.d1t02.flac:fb412896bf94b2199d746126774c0645
+md1952-04-26.LL86.d1t03.flac:08c510e1bd475e734b495de39cfea57a
+md1952-04-26.LL86.d1t04.flac:15020ab46e97f00759468338de3ccbaa
+md1952-04-26.LL86.d1t05.flac:3bf42df8b123468a770f18ae46e39ed0
+md1952-04-26.LL86.d1t06.flac:2137b8cd0b0fe7b538edfe53da8b30d2
+md1952-04-26.LL86.d1t07.flac:12cc293eb421248a63dc3b22ce78e63b
+
+st5 
+75240852cd8dc75f79452b3d3898c7cd  [shntool]  md1952-04-26.LL86.d1t01.flac
+fb412896bf94b2199d746126774c0645  [shntool]  md1952-04-26.LL86.d1t02.flac
+08c510e1bd475e734b495de39cfea57a  [shntool]  md1952-04-26.LL86.d1t03.flac
+15020ab46e97f00759468338de3ccbaa  [shntool]  md1952-04-26.LL86.d1t04.flac
+3bf42df8b123468a770f18ae46e39ed0  [shntool]  md1952-04-26.LL86.d1t05.flac
+2137b8cd0b0fe7b538edfe53da8b30d2  [shntool]  md1952-04-26.LL86.d1t06.flac
+12cc293eb421248a63dc3b22ce78e63b  [shntool]  md1952-04-26.LL86.d1t07.flac
+
+shntool
+   length     expanded size   cdr  WAVE problems filename
+     0:16.74        2996492    ---   --   ---xx   md1952-04-26.LL86.d1t01.flac
+     4:10.61       44243516    ---   --   ---xx   md1952-04-26.LL86.d1t02.flac
+     0:24.12        4261868    ---   --   ---xx   md1952-04-26.LL86.d1t03.flac
+     4:32.37       48067868    ---   --   ---xx   md1952-04-26.LL86.d1t04.flac
+     0:13.27        2356748    ---   --   ---xx   md1952-04-26.LL86.d1t05.flac
+     2:12.60       23425964    ---   --   ---xx   md1952-04-26.LL86.d1t06.flac
+     0:39.29        6947852    ---   --   ---xx   md1952-04-26.LL86.d1t07.flac
+    12:30.00      132300308 B                     (totals for 7 files, 0.4869 
+overall compression ratio)
+
+spectral analysis from TLH
+md1952-04-26.LL86.d1t01.wav:  track looks like CDDA with probability 100%
+md1952-04-26.LL86.d1t02.wav:  track looks like CDDA with probability 100%
+md1952-04-26.LL86.d1t03.wav:  track looks like CDDA with probability 100%
+md1952-04-26.LL86.d1t04.wav:  track looks like CDDA with probability 94%
+md1952-04-26.LL86.d1t05.wav:  track looks like CDDA with probability 100%
+md1952-04-26.LL86.d1t06.wav:  track looks like CDDA with probability 100%
+md1952-04-26.LL86.d1t07.wav:  track looks like CDDA with probability 43%
+
+old md5 or ffp (incude both if available)
+09 - Track09.flac:75240852cd8dc75f79452b3d3898c7cd
+10 - Track10.flac:fb412896bf94b2199d746126774c0645
+11 - Track11.flac:08c510e1bd475e734b495de39cfea57a
+12 - Track12.flac:15020ab46e97f00759468338de3ccbaa
+13 - Track13.flac:3bf42df8b123468a770f18ae46e39ed0
+14 - Track14.flac:2137b8cd0b0fe7b538edfe53da8b30d2
+15 - Track15.flac:12cc293eb421248a63dc3b22ce78e63b

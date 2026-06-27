@@ -1,0 +1,40 @@
+A Perfect Circle
+June 26, 2018
+Olympia, Paris, France
+
+01) Eat the Elephant
+02) Disillusioned
+03) The Hollow
+04) Weak and Powerless
+05) So Long, and Thanks for All the Fish
+06) Rose
+07) Thomas
+08) People Are People (Depeche Mode cover)
+09) Vanishing
+10) The Noose
+11) 3 Libras (All Main Courses Mix)
+12) The Contrarian
+13) TalkTalk
+14) Hourglass
+15) The Doomed
+16) Counting Bodies Like Sheep to the Rhythm of the War Drums
+17) The Outsider
+18) The Package
+19) Feathers
+
+GENERATION
+-----------------
+Hi-MD(M) > WAV [44.1kHz] > FLAC [level 8]
+
+SOURCE (AUD #1)
+-----------------
+Sony ECM-717 > Sony MZ-NH700
+
+TRANSFER
+-----------------
+Sony MZ-NH700 > USB 2.0 > Wav > CD Wave Editor > WAV > Foobar2000 v1.3.18 > FLAC (Level 8)
+
+Notes : I had to change Minidisc during the band introduction (between tracks 17 & 18). No music missing.
+
+Recorded & Transferred by SonicDeath
+PLEASE DO NOT ENCODE TO MP3 OR SELL!

@@ -1,0 +1,46 @@
+Ray Charles 
+Palais des Sport, Paris, France 
+10/22/66
+
+source: sbd > ??? > cdr > eac > wav > flac
+
+
+01   Let The Good Times Roll
+02   Come Rain or Come Shine
+03   Halleluah I Love Her So
+04   I'm Gonna Move To The Outskirts Of Town
+05   Margie
+06   Georgia On My Mind
+07   Alexander's Ragtime Band
+08   I Wonder
+09   Hit The Road Jack
+10   I Believe
+11   What'd I Say
+
+notes:
+
+- the first 2 seconds of t01 was mostly static, which I have now removed
+- the vocals were a little low so I have boosted them in the mix
+- most tracks faded in and out.  I have crossfaed to smooth the transitions
+
+Thanks to my good friend The Whiz for passing the show to me.
+
+SIRMick
+January 2005
+
+fingerprints:
+
+  
+
+
+raycharles66-10-22t01.flac:f0b7c9fc147899c91340d4dd792a5935
+raycharles66-10-22t02.flac:ad2417a0e3e578fdf3ee138a7ae1fe90
+raycharles66-10-22t03.flac:c92382e31c15f4d53c545f2046ae0b3b
+raycharles66-10-22t04.flac:51db9ef1aac4426177661bfb0b2e497b
+raycharles66-10-22t05.flac:faf9e0c7ad9938155301276f6223e4b4
+raycharles66-10-22t06.flac:ee7120c366229a9a35fdb9bd695e105d
+raycharles66-10-22t07.flac:2dff0f450081ca2bf92eb4398caf0437
+raycharles66-10-22t08.flac:28cdb69f8a3aa10ac4557aa6c2f663fa
+raycharles66-10-22t09.flac:3b24f5dc81391e267f49fbbce48173e4
+raycharles66-10-22t10.flac:e7d146d2985227fe5b48fcd2f0c8e860
+raycharles66-10-22t11.flac:614d9b0612a33b1ca92fa3e7759174cc

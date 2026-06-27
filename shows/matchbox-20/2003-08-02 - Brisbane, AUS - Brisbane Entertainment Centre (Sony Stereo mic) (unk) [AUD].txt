@@ -1,0 +1,85 @@
+Matchbox 20
+Date: 2003-08-02
+Location: Brisbane, AUS, Brisbane Entertainment Centre
+Source: Audience
+Format: MD> 2 CDs (originally) > FLAC
+Lineage: Sony Stereo Mic>Sony MZ-R55>Cool Edit Pro>WAV>SHN
+Taper: Unknown
+Sound Quality: EX-
+
+Total Time - 1:41:40
+  
+01. Cold - 4:05
+02. Real World - 4:02
+03. All I Need - 4:12
+04. Soul - 5:17
+05. Disease - 3:54
+06. Could I Be You - 5:16
+07. 3am - 4:08
+08. Mad Season - 5:06
+09. Feel - 3:42
+10. Hand Me Down - 6:20
+11. If You're Gone - 7:05
+12. Bright Lights - 5:19
+13. Bent - 4:51
+14. Jet - 5:30
+15. Unwell - 3:49
+16. Back 2 Good - 6:04
+17. Downfall - 5:10
+18. Encore Break - 2:47
+19. Time After Time - 6:00
+20. Long Day - 4:08
+21. Push - 4:55
+
+Comments:
+This is a pretty decent audience recording from the 2003 tour. It's somewhat muffled so I can't give it a higher rating. I'm sure a little bit of EQ could help this tremendously but I am leaving it as is.
+Im not sure how it translated in the lineage but I had original FLAC files that I used for this. The above lineage does not match anything else in my list so I believe that I may had found the taper from the original SHN source and he sent me the FLAC files from his original CD set. Not certain on that but I recall something like that happened. Either way, this is a good one to have.
+
+
+IMPORTANT:
+
+Please do not sell or use for profit. Trade freely and enjoy. Please do not alter or change any of the files. Leave it in its current format.
+DO NOT ENCODE to any lossy format unless for personal use or you may bring the worst voodoo curse upon yourself that will leave you crying and shitting in your pants for years until you die!
+
+Any original SHN files where checked for SBE errors and encoded to FLAC via TLH then tagged as needed. Other issues like micro gaps, level issues, fade outs, etc. were corrected in order to make each recording as seamless and enjoyable as possible while still trying to preserve the original integrity of the recording itself. Nothing was EQ'd unless absolutely necessary and would be noted where applicable.
+
+This was done as part of the MB20 live database preservation project. It has been the goal to preserve and archive any unofficial live recordings of the band primarily from 1996-2003 in lossless format from the best known sources. Please help keep it that way. You may find more info at my site csprod.net (formally csprodinc.com)
+
+Saltshaker @ C.S. Productions - 4/2023
+
+
+Original text info given to me:
+
+Matchbox Twenty
+Live In Brisbane 
+August 2nd 2003
+-----------------
+The Last Australian show of the 2003 Tour.
+
+CD -> Wav (EAC) -> Flac (Frontend)
+
+Set List:
+
+Cold
+Real World
+All I Need
+Soul
+Disease
+Could I Be You
+3AM
+Mad Season
+Feel
+Hand Me Down
+If You're GOne
+Bright Lights
+Bent
+Jet (Cover)
+Unwell
+Back 2 Good
+Downfall
+Encore Break
+----------------
+
+Time After Time (Cover)
+Long Day
+Push

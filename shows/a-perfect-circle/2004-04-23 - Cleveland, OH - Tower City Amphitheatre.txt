@@ -1,0 +1,44 @@
+A Perfect Circle
+2004-04-23
+Cleveland, OH - Tower City Amphitheater
+
+Taper:      ThirdofThree
+Location:   DFC, 1/2 way between SBD and stage, 6' up (hat mount)
+Config:     DIN (17cm, 90º)
+Source:     Schoeps MK41 > KCY 250/2I > Sonosax SX-M2/LS > Sony D100 (44.1kHz)
+Conversion: Sony D7 > Waveterminal 2496 > Cool Edit Pro 2.0
+Editing:    Cool Edit Pro 2.0 (level changes, fades), CD-Wave (tracking)
+
+DISC ONE
+
+01. Vanishing
+02. Thirteenth Step
+03. The Hollow
+04. Magdalena
+05. [ experiment ]
+06. Weak And Powerless
+07. Brena
+08. Blue
+09. [ band intro ]
+10. Thinking Of You
+11. A Stranger
+12. The Package
+13. 3 Libras
+14. The Nurse Who Loved Me
+15. Thomas
+16. [ experiment reprise ]
+17. I Can't Explain
+18. [ fade out ]
+
+DISC TWO
+
+01. [ fade in ]
+02. The Outsider
+03. The Noose
+04. Judith
+
+NOTES:
+
+To seamlessly join the two discs, simply remove D1T18 and D2T01.
+
+I flubbed a bit adjusting my levels in a couple different spots during the first few songs, so I smoothed the transitions out as best I could in CEP 2.0.  Aside from that, I think this recording sounds great - enjoy.  :)

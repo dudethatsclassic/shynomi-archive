@@ -1,0 +1,46 @@
+
+Beck
+Mud Island Amphitheatre
+Memphis, Tennessee
+May 16, 2015
+
+
+Source: Sony PCM-M10
+Location: Left of Center, Left of Board, Row 20
+Conversion: Sony PCM-M10 > USB > Audacity (Editing) > Traders Little Helper > FLAC
+Editing: Normalized to remove DC offset, 5.1 db of amplification
+Taper : jc_noseworth
+
+http://www.beck.com/index.php/homepage
+
+
+Tracklist
+
+01. Devils Haircut
+02. Black Tambourine
+03. Loser
+04. The New Pollution
+05. Qué Onda Güero
+06. Gamma Ray
+07. Ghettochip Malfunction (Hell Yes)
+08. Timebomb
+09. Think I'm in Love
+10. Soul of a Man
+11. Modern Guilt
+12. Lost Cause
+13. I Heard That Lonesome Whistle Blow (Hank Williams cover) (abbreviated)
+14. Blue Moon
+15. Heart Is a Drum 
+16. Girl
+17. Sexx Laws
+18. E-Pro
+19. Encore Break
+20. Debra
+22. Where It's At / One Foot in the Grave
+
+
+
+notes:
+Ghost of a Saber Tooth Tiger opened
+
+If you listen closely you can hear a passing train blow it's whistle right before Beck launches into I Heard That Lonesome Whistle Blow. 

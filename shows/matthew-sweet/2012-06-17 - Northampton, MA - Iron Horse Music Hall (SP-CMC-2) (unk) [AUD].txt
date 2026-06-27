@@ -1,0 +1,24 @@
+matthewsweet2012-06-17-t101.wav:  successfully fixed/rewritten to 'C:\Users\Brian\Desktop\Music Torrents\matthewsweet2012-06-17.wavs\matthewsweet2012-06-17-t101-fixed.wav'.
+matthewsweet2012-06-17-t102.wav:  successfully fixed/rewritten to 'C:\Users\Brian\Desktop\Music Torrents\matthewsweet2012-06-17.wavs\matthewsweet2012-06-17-t102-fixed.wav'.
+matthewsweet2012-06-17-t103.wav:  successfully fixed/rewritten to 'C:\Users\Brian\Desktop\Music Torrents\matthewsweet2012-06-17.wavs\matthewsweet2012-06-17-t103-fixed.wav'.
+matthewsweet2012-06-17-t104.wav:  successfully fixed/rewritten to 'C:\Users\Brian\Desktop\Music Torrents\matthewsweet2012-06-17.wavs\matthewsweet2012-06-17-t104-fixed.wav'.
+matthewsweet2012-06-17-t105.wav:  successfully fixed/rewritten to 'C:\Users\Brian\Desktop\Music Torrents\matthewsweet2012-06-17.wavs\matthewsweet2012-06-17-t105-fixed.wav'.
+matthewsweet2012-06-17-t106.wav:  successfully fixed/rewritten to 'C:\Users\Brian\Desktop\Music Torrents\matthewsweet2012-06-17.wavs\matthewsweet2012-06-17-t106-fixed.wav'.
+matthewsweet2012-06-17-t107.wav:  successfully fixed/rewritten to 'C:\Users\Brian\Desktop\Music Torrents\matthewsweet2012-06-17.wavs\matthewsweet2012-06-17-t107-fixed.wav'.
+matthewsweet2012-06-17-t108.wav:  successfully fixed/rewritten to 'C:\Users\Brian\Desktop\Music Torrents\matthewsweet2012-06-17.wavs\matthewsweet2012-06-17-t108-fixed.wav'.
+matthewsweet2012-06-17-t109.wav:  successfully fixed/rewritten to 'C:\Users\Brian\Desktop\Music Torrents\matthewsweet2012-06-17.wavs\matthewsweet2012-06-17-t109-fixed.wav'.
+matthewsweet2012-06-17-t110.wav:  successfully fixed/rewritten to 'C:\Users\Brian\Desktop\Music Torrents\matthewsweet2012-06-17.wavs\matthewsweet2012-06-17-t110-fixed.wav'.
+matthewsweet2012-06-17-t111.wav:  successfully fixed/rewritten to 'C:\Users\Brian\Desktop\Music Torrents\matthewsweet2012-06-17.wavs\matthewsweet2012-06-17-t111-fixed.wav'.
+matthewsweet2012-06-17-t201.wav:  successfully fixed/rewritten to 'C:\Users\Brian\Desktop\Music Torrents\matthewsweet2012-06-17.wavs\matthewsweet2012-06-17-t201-fixed.wav'.
+matthewsweet2012-06-17-t202.wav:  successfully fixed/rewritten to 'C:\Users\Brian\Desktop\Music Torrents\matthewsweet2012-06-17.wavs\matthewsweet2012-06-17-t202-fixed.wav'.
+matthewsweet2012-06-17-t203.wav:  successfully fixed/rewritten to 'C:\Users\Brian\Desktop\Music Torrents\matthewsweet2012-06-17.wavs\matthewsweet2012-06-17-t203-fixed.wav'.
+matthewsweet2012-06-17-t204.wav:  successfully fixed/rewritten to 'C:\Users\Brian\Desktop\Music Torrents\matthewsweet2012-06-17.wavs\matthewsweet2012-06-17-t204-fixed.wav'.
+matthewsweet2012-06-17-t205.wav:  successfully fixed/rewritten to 'C:\Users\Brian\Desktop\Music Torrents\matthewsweet2012-06-17.wavs\matthewsweet2012-06-17-t205-fixed.wav'.
+matthewsweet2012-06-17-t206.wav:  successfully fixed/rewritten to 'C:\Users\Brian\Desktop\Music Torrents\matthewsweet2012-06-17.wavs\matthewsweet2012-06-17-t206-fixed.wav'.
+matthewsweet2012-06-17-t207.wav:  successfully fixed/rewritten to 'C:\Users\Brian\Desktop\Music Torrents\matthewsweet2012-06-17.wavs\matthewsweet2012-06-17-t207-fixed.wav'.
+matthewsweet2012-06-17-t208.wav:  successfully fixed/rewritten to 'C:\Users\Brian\Desktop\Music Torrents\matthewsweet2012-06-17.wavs\matthewsweet2012-06-17-t208-fixed.wav'.
+matthewsweet2012-06-17-t209.wav:  successfully fixed/rewritten to 'C:\Users\Brian\Desktop\Music Torrents\matthewsweet2012-06-17.wavs\matthewsweet2012-06-17-t209-fixed.wav'.
+matthewsweet2012-06-17-t210.wav:  successfully fixed/rewritten to 'C:\Users\Brian\Desktop\Music Torrents\matthewsweet2012-06-17.wavs\matthewsweet2012-06-17-t210-fixed.wav'.
+matthewsweet2012-06-17-t211.wav:  successfully fixed/rewritten to 'C:\Users\Brian\Desktop\Music Torrents\matthewsweet2012-06-17.wavs\matthewsweet2012-06-17-t211-fixed.wav'.
+
+Padded last file with 2332 zero-bytes.

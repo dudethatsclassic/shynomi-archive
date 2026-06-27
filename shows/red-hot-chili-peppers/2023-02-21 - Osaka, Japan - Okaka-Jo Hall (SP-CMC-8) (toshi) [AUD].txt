@@ -1,0 +1,68 @@
+Red Hot Chili Peppers
+Osaka-Jo Hall
+Osaka, Japan
+February 21, 2023
+
+** 16 BIT **
+
+Source:  SP-CMC-8 (cardioids) > SP-SPSB-10 > Roland R-07 @ 24 bit/48 kHz
+Mastering:  .WAV > iZotope RX10 Advanced v10.0.0.1705 (De-click) > Sound Forge Pro 14.0 Build 140 [minor edits, normalize, & fades, Boz Digital Labs T-Bone plug-in (slant EQ)] > CDWav (tracking) > iZotope MBIT+ 
+(dithered and downsampled to 16 bit/44.1 kHz) > Trader's Little Helper (level 5) > FLAC > TagScanner 6.0.35 (tagging)
+Location:  Floor (seated) - one of the front rows, slightly house left of center
+Recorded by:  toshi
+Mastered by:  Dennis Orr
+
+Setlist: (1:46:03)
+01 Crowd/Intro Music
+02 Intro Jam >
+03 Around The World
+04 Dani California
+04 Scar Tissue
+06 Aquatic Mouth Dance
+07 Chat
+08 Wet Sand
+09 Eddie
+10 Chat
+11 Reach Out
+12 Soul To Squeeze
+13 The Heavy Wing
+14 London Calling (tease) > Right On Time
+15 Tippa My Tongue
+16 Californication
+17 What Is Soul?
+18 Carry Me Home
+19 Black Summer
+20 By The Way
+21 Encore Break
+- Encore -
+22 Under The Bridge >
+23 Give It Away
+
+Anthony Kiedis – lead vocals
+John Frusciante – guitars, backing vocals, & keyboards
+Flea (Michael Balzary) – bass, backing vocals, trumpet, & piano
+Chad Smith – drums & percussion
+
+RHCP2023-02-21t01.flac:ff0c35d39854a5ff5d4b6065cb94d2fb
+RHCP2023-02-21t02.flac:17cc79d778818221d42d130dcd5e5fe9
+RHCP2023-02-21t03.flac:800c49d46cf75921fda3b5c11943a3e3
+RHCP2023-02-21t04.flac:01c5abcb98bcbe08284c8c49c3ebca3b
+RHCP2023-02-21t05.flac:7fe8b954cccf54f9abb7d02466298add
+RHCP2023-02-21t06.flac:2beea613570632b1d80215d98dd0778c
+RHCP2023-02-21t07.flac:00fb01e882aa09c6823463ea3f17d066
+RHCP2023-02-21t08.flac:1e70e1d9fc89f0da3e5dc6587b26d741
+RHCP2023-02-21t09.flac:bc8074643c6abb81c66737307182dc42
+RHCP2023-02-21t10.flac:f7b475b0c6cd183aba55d6818d3c853d
+RHCP2023-02-21t11.flac:7bf253fa964cf686adf42421bc724821
+RHCP2023-02-21t12.flac:cc34d9a4280dd9eb90eecdd13bd4c8d0
+RHCP2023-02-21t13.flac:3fe4d39e88a5a6a0a9a6c04ee954c8ac
+RHCP2023-02-21t14.flac:ec24bca116277adc35287397d7965c47
+RHCP2023-02-21t15.flac:7319531f63dd9015a5515df80ccce9cb
+RHCP2023-02-21t16.flac:66923dbd93b37b0004dc4ed75de5e9bb
+RHCP2023-02-21t17.flac:31dfdc2c8e4204fd1c006f172feb19f7
+RHCP2023-02-21t18.flac:ca32c92e22db561c15057d3690679b18
+RHCP2023-02-21t19.flac:d856e651326fbb67fb854dc0c9e391f0
+RHCP2023-02-21t20.flac:dda0d0c1c331f12be6b0e9a63d8cc674
+RHCP2023-02-21t21.flac:00e1d4199d84a1bb2e04d47267e58c26
+RHCP2023-02-21t22.flac:8798f9b0ea5098b91086b4e20e7446f5
+RHCP2023-02-21t23.flac:fc704f2dbfa1d922cee3c8e08075ff6f

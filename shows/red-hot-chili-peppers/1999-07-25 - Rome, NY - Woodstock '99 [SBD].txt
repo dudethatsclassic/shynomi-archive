@@ -1,0 +1,122 @@
+Artist: Red Hot Chili Peppers
+
+Event: Woodstock '99
+
+Date: July 25, 1999
+
+Venue: East Stage, Griffiss Air Force Base, Rome, New York
+	    
+Source: Soundboard Recording from VHS(M)
+
+Lineage: DVB-S > VHS(M) > VIDEO_TS > VobEdit > WAV > FLAC [level  8]
+
+Size: 524 MB
+
+Quality: Excellent
+
+
+setlist:
+
+001 Around the World
+002 Give it Away
+003 Scar Tissue
+004 Emit Remmus
+005 Soul to Squeeze
+006 If You Have to Ask
+007 Suck My Kiss
+008 Tiny Dancer
+009 Right on Time
+010 Californication
+011 My Lovely Man
+012 Easily
+013 Under the Bridge
+014 Me and My Friends
+015 encore break
+016 Sir Psycho Sexy
+017 Fire
+
+
+Source:	DVB-S [Live Germany] > VHS(M)
+
+Transfer:	VHS(M) > LG DVD Burner > DVDr(0) > VOB > VobEdit > Linear PCM [16bit; 48kHz] > SHNtool [join] > 
+	CD Wave [index tracks; downsample] > WAV [16bit; 44.1kHz]
+
+Convert:	WAV [16bit; 44.1kHz] > Trader's Little Helper > FLAC [level 8]
+
+Captured by Boguspomp
+
+Ripped and Converted by Squareofnone
+
+Notes: Flea plays the entire show naked.
+
+    length     expanded size    cdr  WAVE problems  fmt   ratio  filename
+    18:37.253     214512676 B   cxx   --   -----    wav  1.0000  VTS_01_1.a0.wav
+    18:38.132     214681348 B   cxx   --   -----    wav  1.0000  VTS_01_2.a0.wav
+    18:36.207     214311876 B   cxx   --   -----    wav  1.0000  VTS_01_3.a0.wav
+    18:38.644     214779740 B   cxx   --   -----    wav  1.0000  VTS_01_4.a0.wav
+      3:30.923       40497348 B   cxx   --   -----    wav  1.0000  VTS_01_5.a0.wav
+    78:01.160     898782988 B			 1.0000  (5 files)
+
+Joining [VTS_01_1.a0.wav] (18:37.253) --> [joined.wav] (78:01.160) : 100% OK
+Joining [VTS_01_2.a0.wav] (18:38.132) --> [joined.wav] (78:01.160) : 100% OK
+Joining [VTS_01_3.a0.wav] (18:36.207) --> [joined.wav] (78:01.160) : 100% OK
+Joining [VTS_01_4.a0.wav] (18:38.644) --> [joined.wav] (78:01.160) : 100% OK
+Joining [VTS_01_5.a0.wav] (03:30.923) --> [joined.wav] (78:01.160) : 100% OK
+
+checksums:
+301b00da8292477c5cecc1f042e62bcd *rhcp1999-07-25t01.flac
+71071f3ea89ebf84f1a3846204f42f32 *rhcp1999-07-25t02.flac
+415ff51576ce082d47e839d9d804fd3c *rhcp1999-07-25t03.flac
+f745c7c4ef79cb45383a2ff83c7a67fd *rhcp1999-07-25t04.flac
+458237ea7a052c2c8fed6eda8c10ea7d *rhcp1999-07-25t05.flac
+0025e3e5bc21def61c83d81c31bacbbb *rhcp1999-07-25t06.flac
+62d98cc24a0971f6ee77a2ae4f5c64d4 *rhcp1999-07-25t07.flac
+b40dfef5dea42b4259358f7db74d0d41 *rhcp1999-07-25t08.flac
+c2bd4ddf73d06343e5b9d57fb362dc8d *rhcp1999-07-25t09.flac
+766adf30a323c52456784abc5b485420 *rhcp1999-07-25t10.flac
+067af2fd9b296618dd3f508463e44e04 *rhcp1999-07-25t11.flac
+1980e08ede6659296b082e8cff42f599 *rhcp1999-07-25t12.flac
+67060e6c66272da8c8e437db9ee527b4 *rhcp1999-07-25t13.flac
+6e85e5e49d39c62b936d01fdae65688c *rhcp1999-07-25t14.flac
+a5aa8fd59b25722bb6301c58c94d6da8 *rhcp1999-07-25t15.flac
+62a400d8b7c0c6af41206acd8b0c461a *rhcp1999-07-25t16.flac
+89541bdd3ab9317b26fe958eb6495a35 *rhcp1999-07-25t17.flac
+
+ffp:
+rhcp1999-07-25t01.flac:1e1458aaf9aea7d5c01869f0cc627310
+rhcp1999-07-25t02.flac:8ce656ab521130d0bcbcdd480fc374e4
+rhcp1999-07-25t03.flac:e1b4bd23f5fcdcf947994654d1cffd93
+rhcp1999-07-25t04.flac:b55bd15dde7bedc34fd531ca7def6225
+rhcp1999-07-25t05.flac:10cc5a78f67ba35f0a73e338afeab9e4
+rhcp1999-07-25t06.flac:e009c2dfce43177625a0ff7e43a7aee2
+rhcp1999-07-25t07.flac:24c853bd0731da69df4c097ccf25058c
+rhcp1999-07-25t08.flac:668c32473f502ba62c7636b93825ea42
+rhcp1999-07-25t09.flac:c33d6214ac3d2a1a18070e19f4684360
+rhcp1999-07-25t10.flac:b0d57e074c30673b9f4e820d3a84e5aa
+rhcp1999-07-25t11.flac:bb0808250253f57c046ef5d12c566d6b
+rhcp1999-07-25t12.flac:17146f572ff5cc768deefaf1b9f4c497
+rhcp1999-07-25t13.flac:df9b6f6c2762e1852acf7f5f81cc4cc1
+rhcp1999-07-25t14.flac:b2490f9c8071f7f68c8ca28e399a14a0
+rhcp1999-07-25t15.flac:e08afc75edc296afafa7d8cebb533ee3
+rhcp1999-07-25t16.flac:1da906652420cd6f0f794a1ad2986f7b
+rhcp1999-07-25t17.flac:fe7f6a9416abd12ec95bc2896180ed68
+
+    length     expanded size    cdr  WAVE problems  fmt   ratio  filename
+      5:31.10        58411964 B   ---   --   ---xx   flac  0.6679  rhcp1999-07-25t01.flac
+      5:57.39        63066572 B   ---   --   ---xx   flac  0.6768  rhcp1999-07-25t02.flac
+      3:58.29        42051452 B   ---   --   ---xx   flac  0.6424  rhcp1999-07-25t03.flac
+      4:11.33        44354060 B   ---   --   ---xx   flac  0.6518  rhcp1999-07-25t04.flac
+      4:56.02        52219148 B   ---   --   ---xx   flac  0.6326  rhcp1999-07-25t05.flac
+      6:47.24        71851292 B   ---   --   ---xx   flac  0.6497  rhcp1999-07-25t06.flac
+      3:46.44        39969932 B   ---   --   ---xx   flac  0.7120  rhcp1999-07-25t07.flac
+      1:05.13        11496620 B   ---   --   ---xx   flac  0.6521  rhcp1999-07-25t08.flac
+      3:03.61        32424716 B   ---   --   ---xx   flac  0.6556  rhcp1999-07-25t09.flac
+      5:38.03        59630300 B   ---   --   ---xx   flac  0.6491  rhcp1999-07-25t10.flac
+      5:19.43        56372780 B   ---   --   ---xx   flac  0.6737  rhcp1999-07-25t11.flac
+      4:05.53        43342700 B   ---   --   ---xx   flac  0.7043  rhcp1999-07-25t12.flac
+      4:46.57        50584508 B   ---   --   ---xx   flac  0.6521  rhcp1999-07-25t13.flac
+      2:48.29        29703452 B   ---   --   ---xx   flac  0.7275  rhcp1999-07-25t14.flac
+      5:47.11        61236716 B   ---   --   ---xx   flac  0.6004  rhcp1999-07-25t15.flac
+      6:57.12        73587068 B   ---   --   ---xx   flac  0.7021  rhcp1999-07-25t16.flac
+      3:20.74        35454136 B  -b-   --   ---xx   flac  0.6981  rhcp1999-07-25t17.flac
+    78:01.12      825757416 B                                0.6655  (17 files)

@@ -1,0 +1,93 @@
+My Bloody Valentine
+London, UK
+Golders Green Hippodrome
+BBC Radio 1 / John Peel Session
+Recording Date: 25 September 1988
+Transmission Date: 5 October 1988
+stereo FM recording
+24/48 analog > digital transfer from an unknown-generation cassette
+duration (13:30.26)
+
+Contrast Clause:
+This is an alternate version of what seems to be from a different source recording from the version currently running here:
+
+http://www.dimeadozen.org/torrents-details.php?id=716178
+
+***This torrent is incompatible with the CD-Audio standard. The sound is in 24-bit stereo sampled at 48kHz.*** 
+
+[01] I Can See It (But Can't Feel It) (03:05.46)
+[02] Lose My Breath (03:12.03)
+[03] Feed Me With Your Kiss (03:31.36)
+[04] (You Made Me Realize) (03:14.52)
+
+• • • •
+
+These tracks were appended to a cassette which featured MBV 19861017 Clarendon, and were listed on the tape as: John Peel 5 Oct 88. After a bit of research, I chose to modify the date as well as the studio, based on the following information: 
+
+According to:
+https://peel.fandom.com/wiki/My_Bloody_Valentine
+
+1. Recorded: 1988-09-25. First Broadcast: 05 October 1988. Repeated: 08 November 1988, two tracks also on 26 December 1988:
+I Can Feel It But I Can't See It / Lose My Breath / Colm's Song / Feed Me With Your Kiss
+
+Additionally:
+
+https://www.bbc.co.uk/radio1/johnpeel/sessions/1980s/1988/Sep25mybloodyvalentin/
+
+25/09/1988 - My Bloody Valentine
+TX - 05/10/1988
+Producer - Dale Griffin
+Engineer - Mike Engles
+Studio - The Hippodrome, Golders Green, London
+I Can Feel It But I Can't See It / Lose My Breath / Colm's Song / Feed Me With Your Kiss
+
+According to this link, this collection of tracks circulates as a non-official release (i.e., a "bootleg":
+https://www.discogs.com/master/612802-My-Bloody-Valentine-Peel-Session-And-Rare-Tracks
+
+This collection of tracks appears here as well, but it doesn't appear to be an official release, rather, one of the items listed on discogs, simply being sold at the Rough Trade shop:
+
+https://www.roughtrade.com/en-us/product/my-bloody-valentine/peel-session-and-rare-tracks#56005443715403
+
+Based on this information, it does not appear that these tracks were released in any official capacity - remarkable as though that seems to be.
+
+• • • •
+
+digitizing notes:
+
+This appears to be a different source recording version of the same session shared previously by loughney, which was reported to be from a 1st-gen > CDR source, and was reviewed in 2026 at the time of this transfer.
+
+The most notable differences between the two sources seem to be that the previous version had some radio static, and also included the voice of John Peel at the start and end of the tracks; neither of those are present in this fileset.
+
+Additionally, the previous source shows a lineage which included a 1st-gen tape > CDR, whereas this version went straight from the line outputs on the cassette deck to the line inputs on the digital recorder. The caveat in this instance is that the generation of this version is unclear, although I am fairly certain that the tape traders I was interacting with at that time were not using CDRs.
+
+Having listened to both versions side-by side, this one seems to have much clearer high-end and mid-range frequencies, in my opinion.
+
+• • • •
+
+This fileset is a raw 24-Bit Depth / 48kHz Sample Frequency analog > digital transfer from a ?-generation cassette, provided by a fellow audio archivist. I did not record this, and wanted to keep all the information intact as it was provided, the only caveat being that I generally re-arrange a few things here and there to fit in my own collection at home.
+
+No further processing has been applied in the analog > digital transfer.
+
+I don’t really have the time to try and “re-master” all of the recordings I’ve been digitizing - if I actually get through them all at some point, I might like re-visit some of them and see what can be done. As I’m sure to have mentioned elsewhere, I’m not generally a fan of using digital automated processing when restoring archival recordings - it’s a last-ditch effort at best, and I try to avoid it if I can, because it is more likely to introduce more artifacts into the resulting file.
+
+As always, my approach to digitization is to preserve recordings in a non-invasive manner, and in a format that should allow ample headroom for potential editing as may or may not be desired, going forward. This is why I choose to encode in 24-bit .flac, and with 48kHz sampling for increased dynamic range (replacing my previous choice for 96kHz sampling rate, which I have come to decide is generally overkill for the average 2-channel stereo recording). There is no reason that anyone should not be able to perform further surgery on anything I share freely, but it would be pointless if the files I share have already been tampered with. Hopefully this won’t be a problem for anyone, basically, to just enjoy the music!
+
+This recording is an unknown-gen copy from the master cassette, which was provided to me by a tape-trading pen pal back in 1991. I haven’t been able to re-connect with the trader, so I don’t know if they would like to be identified or not, which is why I listed “unidentified”. If you are out there and see this, please get in touch!
+
+Special thanks to all involved for making this available, for the rest of us to enjoy!
+
+Recorded By: unidentified
+Digitized / edited / tagged / technical notes in 2026 by J.Free [sonicarchives.com]
+Uploaded to DIME in 2026; any additional notes: 01001010
+
+No processes applied. No noise reduction. No EQ. No fades. No normalization. No.
+
+• • • •
+
+Source:
+FM radio broadcast > unidentified cassette deck > master cassette > ?-gen cassette
+
+Lineage:
+2-channel stereo cassette > Nakamichi LX-3 cassette deck [Azimuth adjustment applied to playback head] > Edirol R-04 [RCA/analog in; 24-bit/48kHz transfer (.wav)] > PC [via USB] > CD Wave Editor [Version 1.98; Windows Build Number: 0000.23F0] (sector boundary tracking) > Trader's Little Helper [Version 2.7.0; Build 172] (Level 8 .wav > .flac conversion, .ffp) > flacs 
+
+• • • •

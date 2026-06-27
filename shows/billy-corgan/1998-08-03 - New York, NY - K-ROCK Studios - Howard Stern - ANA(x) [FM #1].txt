@@ -1,0 +1,19 @@
+Billy Corgan
+August 3rd, 1998
+K-ROCK Studios (Howard Stern)
+New York, NY, US
+
+Source: FM>ANA
+Transfer: ANA-?>Sony TC-K630ES>R-09(24/48, unity gain)
+Editing: Audacity (fades), r8brain (downsampled/dithered on "very high" quality setting), CDWave (splits), TLH (FLAC level 8)
+
+01. Interview - 48:39
+02. Perfect - 3:26
+03. Interview continued - 9:48
+
+Notes:
+My favorite performance of "Perfect" ever. A short snippet of Celebrity Skin is played during the interview, but its less than 30 seconds long. Hopefully this scares the ANA-1 transfer out of hiding...
+
+Thanks to Evan (blazinator) for the tape
+Don't sell, etc
+-rhinowing

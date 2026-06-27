@@ -1,0 +1,62 @@
+Miles Davis sextet
+1958-08-09
+Spotlite Lounge
+Washington DC
+
+Project ID - LL35
+
+Source: Mutual Network radio broadcast (Bandstand USA)
+Lineage: FM-> ?-> FLAC
+
+Miles Davis (tp); Julian "Cannonball" Adderley (as); John Coltrane (ts); Bill Evans (p); Paul Chambers (b); Jimmy Cobb (d)
+
+disc 1
+
+d1t01. Walkin' (R. Carpenter)
+d1t02. All of You (C. Porter)
+d1t03. 'Round Midnight/ (B. Hanighen, C. Williams, T. Monk)
+
+-------------------------------------------------------
+
+Notes:
+
+- d1t03 has a few seconds cut at the end.
+
+- some static/hiss present, minimal. May be vinyl artifacts.
+
+- d1t02. Adderley out.
+
+- Broadcast on Mutual's Bandstand USA, which aired live on Saturday nights beginning in 1956.
+
+- In the notes to JMY (Jazz Music Yesterday) 6402, Enrico Merlin places this session at an unknown venue on June 30, 1958 (a Monday). The Sextet was booked at Washington's Spotlite Lounge on June 10-15 (Tuesday-Sunday) and August 5-10 (Tuesday-Sunday); a broadcast is known to have been made on Saturday, August 9, and this is probably it.
+
+- Credit to Peter Losin, http://www.plosin.com/
+
+- QC done by RatMice
+
+md5
+md1958-08-09.LL35.d1t01.flac:f12883940ef2492bbc00b41c4a8c9b68
+md1958-08-09.LL35.d1t02.flac:e3bbf091b5d7594270a8032be3294508
+md1958-08-09.LL35.d1t03.flac:a19380ceb9381da6f0c8ba922389d093
+
+ffp
+md1958-08-09.LL35.d1t01.flac:f12883940ef2492bbc00b41c4a8c9b68
+md1958-08-09.LL35.d1t02.flac:e3bbf091b5d7594270a8032be3294508
+md1958-08-09.LL35.d1t03.flac:a19380ceb9381da6f0c8ba922389d093
+
+shntool
+    length     expanded size   cdr  WAVE problems filename
+     6:40.73       70731740    ---   --   ---xx   md1958-08-09.LL35.d1t01.flac
+     6:48.00       71971244    ---   --   ---xx   md1958-08-09.LL35.d1t02.flac
+     5:15.73       55737740    ---   --   ---xx   md1958-08-09.LL35.d1t03.flac
+    18:44.71      198440724 B                     (totals for 3 files, 0.4305 overall compression ratio)
+
+spectral analysis from TLH
+md1958-08-09.LL35.d1t01.wav:  track looks like CDDA with probability 43%
+md1958-08-09.LL35.d1t02.wav:  track looks like CDDA with probability 99%
+md1958-08-09.LL35.d1t03.wav:  track looks like MPEG with probability 95%
+
+old ffp
+I-1.flac:f12883940ef2492bbc00b41c4a8c9b68
+I-2.flac:e3bbf091b5d7594270a8032be3294508
+I-3.flac:a19380ceb9381da6f0c8ba922389d093
