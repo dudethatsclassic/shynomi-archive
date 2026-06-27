@@ -50,7 +50,8 @@ const ARTIST_DATA = {
       "venue": "Maxwell's",
       "notes": "smores",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1990-10-26 - Hoboken, NJ - Maxwell's (smores) [AUD24].txt"
     },
     {
       "year": 1993,
@@ -76,7 +77,8 @@ const ARTIST_DATA = {
       "venue": "",
       "notes": "",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1995-07-14 - Denver, CO - The Mercury Cafe (unk) [AUD].txt"
     },
     {
       "year": 1996,
@@ -89,7 +91,8 @@ const ARTIST_DATA = {
       "venue": "Banff Center",
       "notes": "Snow",
       "version": "",
-      "format": "DVD"
+      "format": "DVD",
+      "textFile": "1996-03-16 - Banff, Alberta - Banff Center, Banff - Snow Job [DVD].txt"
     },
     {
       "year": 1996,
@@ -102,7 +105,8 @@ const ARTIST_DATA = {
       "venue": "Marine Midland Arena",
       "notes": "unk",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1996-09-28 - Buffalo, NY - Marine Midland Arena (unk) [AUD].txt"
     },
     {
       "year": 1998,
@@ -115,7 +119,8 @@ const ARTIST_DATA = {
       "venue": "Electric Factory",
       "notes": "unk",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1998-11-06 - Philadelphia, PA - Electric Factory (unk) [AUD].txt"
     },
     {
       "year": 1998,
@@ -128,7 +133,8 @@ const ARTIST_DATA = {
       "venue": "Plant Studios",
       "notes": "",
       "version": "FM",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1998-11-30 - Sausalito, CA - Plant Studios [FM].txt"
     },
     {
       "year": 1999,
@@ -141,7 +147,8 @@ const ARTIST_DATA = {
       "venue": "Late Night with Conan O'Brien",
       "notes": "VHS(2)",
       "version": "TV",
-      "format": "MKV"
+      "format": "MKV",
+      "textFile": "1999-01-14 - New York, NY - Late Night with Conan O'Brien - VHS(2) [TV].txt"
     },
     {
       "year": 1999,
@@ -180,7 +187,8 @@ const ARTIST_DATA = {
       "venue": "Warner Theatre",
       "notes": "unk",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "2002-06-09 - Washington, DC - Warner Theatre (unk) [AUD].txt"
     },
     {
       "year": 2002,
@@ -206,7 +214,8 @@ const ARTIST_DATA = {
       "venue": "Tweeter Center",
       "notes": "unk",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "2003-07-11 - Tinley Park, IL - Tweeter Center (unk) [AUD].txt"
     },
     {
       "year": 2006,
@@ -219,7 +228,8 @@ const ARTIST_DATA = {
       "venue": "Town Ballroom",
       "notes": "",
       "version": "MTX",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "2006-04-29 - Buffalo, NY - Town Ballroom [MTX].txt"
     },
     {
       "year": 2006,
@@ -232,7 +242,8 @@ const ARTIST_DATA = {
       "venue": "Ford Amphitheatre",
       "notes": "",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "2006-09-01 - Tampa, FL - Ford Amphitheater [AUD].txt"
     },
     {
       "year": 2007,
@@ -245,7 +256,8 @@ const ARTIST_DATA = {
       "venue": "Red Rocks Amphitheatre",
       "notes": "",
       "version": "SBD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "2007-06-27 - Morrison, CO - Red Rocks Ampitheater [SBD].txt"
     },
     {
       "year": 2011,
@@ -256,9 +268,10 @@ const ARTIST_DATA = {
       "state": "MS",
       "location": "University of Mississippi, MS",
       "venue": "The Grove",
-      "notes": "Schoeps MK4 · jesse mcalister",
+      "notes": "Schoeps MK4 \u00b7 jesse mcalister",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "2011-04-03 - University of Mississippi, MS - The Grove (Schoeps MK4) (jesse mcalister) [AUD].txt"
     },
     {
       "year": 2018,
@@ -271,7 +284,8 @@ const ARTIST_DATA = {
       "venue": "Pol'and'Rock Festival",
       "notes": "",
       "version": "Webcast",
-      "format": "TS"
+      "format": "TS",
+      "textFile": "2018-08-02 - Kostrzyn nad Odra, Poland - Pol'and'Rock Festival [WEBCAST].txt"
     },
     {
       "year": 2018,
@@ -284,7 +298,8 @@ const ARTIST_DATA = {
       "venue": "Sziget Festival",
       "notes": "",
       "version": "Webcast",
-      "format": "TS"
+      "format": "TS",
+      "textFile": "2018-08-13 - Budapest, Hungary - Sziget Festival [WEBCAST].txt"
     },
     {
       "year": 2018,
@@ -295,9 +310,10 @@ const ARTIST_DATA = {
       "state": "NY",
       "location": "Buffalo, NY",
       "venue": "Shea's Theater",
-      "notes": "AT831s · binko",
+      "notes": "AT831s \u00b7 binko",
       "version": "AUD",
-      "format": "FLAC 24"
+      "format": "FLAC 24",
+      "textFile": "2018-10-19 - Buffalo, NY - Shea's Theater  (AT831s) (binko) [AUD24].txt"
     },
     {
       "year": 2019,
@@ -310,7 +326,8 @@ const ARTIST_DATA = {
       "venue": "Corona Capital Guadalajara",
       "notes": "",
       "version": "Webcast",
-      "format": "TS"
+      "format": "TS",
+      "textFile": "2019-05-11 - Zapopan, Mexico - Corona Capital Guadalajara [WEBCAST].txt"
     },
     {
       "year": 2019,
@@ -323,7 +340,8 @@ const ARTIST_DATA = {
       "venue": "Looney Tunes",
       "notes": "",
       "version": "",
-      "format": "MP4"
+      "format": "MP4",
+      "textFile": "2019-09-10 - West Babylon, NY - Looney Tunes [MP4].txt"
     },
     {
       "year": 2019,
@@ -336,7 +354,8 @@ const ARTIST_DATA = {
       "venue": "Palace Theatre",
       "notes": "",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "2019-11-20 - Columbus, OH - Palace Theatre [AUD].txt"
     },
     {
       "year": 2022,
@@ -347,9 +366,10 @@ const ARTIST_DATA = {
       "state": "OH",
       "location": "Huber Heights, OH",
       "venue": "Rose Music Center",
-      "notes": "CA-14 · charles dewey cole",
+      "notes": "CA-14 \u00b7 charles dewey cole",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "2022-08-03 - Huber Heights, OH - Rose Music Center (CA-14) (charles dewey cole) [AUD].txt"
     },
     {
       "year": 2022,
@@ -360,9 +380,10 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "Stanford, CA",
       "venue": "Frost Amphitheatre",
-      "notes": "SP-CMC-4U · loughney",
+      "notes": "SP-CMC-4U \u00b7 loughney",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "2022-09-04 - Stanford, CA - Frost Amphitheatre (SP-CMC-4U) (loughney) [AUD].txt"
     },
     {
       "year": 2024,
@@ -373,9 +394,10 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "Lincoln, CA",
       "venue": "Thunder Valley",
-      "notes": "IEM+Tascam DR-2D · hoserama",
+      "notes": "IEM+Tascam DR-2D \u00b7 hoserama",
       "version": "MIX",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "2024-04-06 - Lincoln, CA - Thunder Valley (IEM+Tascam DR-2D) (hoserama) [MIX].txt"
     },
     {
       "year": 2024,
@@ -388,7 +410,8 @@ const ARTIST_DATA = {
       "venue": "",
       "notes": "",
       "version": "AUD",
-      "format": "FLAC 24"
+      "format": "FLAC 24",
+      "textFile": "2024-08-09 - Washington, MO - Washington Town & Country Fair (Sony PCM-A10) (shane e. calhoon) [AUD24].txt"
     },
     {
       "year": 2025,
@@ -399,9 +422,10 @@ const ARTIST_DATA = {
       "state": "WI",
       "location": "Milwaukee, WI",
       "venue": "Pabst Theater",
-      "notes": "CA-14 · unk",
+      "notes": "CA-14 \u00b7 unk",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "2025-04-17 - Milwaukee, WI - Pabst Theater (CA-14) (unk) [AUD].txt"
     },
     {
       "year": 2025,
@@ -414,7 +438,8 @@ const ARTIST_DATA = {
       "venue": "Stagecoach Festival 2025, Empire Polo Club",
       "notes": "1080p",
       "version": "Webcast",
-      "format": "TS"
+      "format": "TS",
+      "textFile": "2025-04-27 - Indio, CA - Stagecoach Festival 2025, Empire Polo Club (1080p) (Webcast) [TS].txt"
     },
     {
       "year": 2025,
@@ -425,9 +450,10 @@ const ARTIST_DATA = {
       "state": "ON",
       "location": "Toronto, ON",
       "venue": "Budweiser Stage",
-      "notes": "M · Zoom H1n · bowlingron",
+      "notes": "M \u00b7 Zoom H1n \u00b7 bowlingron",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "2025-08-10 - Toronto, ON - Budweiser Stage (M) (Zoom H1n) (bowlingron) [AUD].txt"
     },
     {
       "year": 2026,
@@ -438,9 +464,10 @@ const ARTIST_DATA = {
       "state": "ON",
       "location": "London, ON",
       "venue": "Canada Life Place",
-      "notes": "Zoom H1n · bowlingron",
+      "notes": "Zoom H1n \u00b7 bowlingron",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "2026-04-04 - London, ON - Canada Life Place (Zoom H1n) (bowlingron) [AUD].txt"
     }
   ],
   "misc": [

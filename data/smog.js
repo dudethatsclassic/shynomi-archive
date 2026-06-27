@@ -24,9 +24,10 @@ const ARTIST_DATA = {
       "state": "MA",
       "location": "Cambridge, MA",
       "venue": "The Middle East",
-      "notes": "Downstairs · gkay44",
+      "notes": "Downstairs \u00b7 gkay44",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1995-10-24 - Cambridge, MA - The Middle East (Sony WM-D3) (gkay44) [AUD].txt"
     },
     {
       "year": 1995,
@@ -37,7 +38,7 @@ const ARTIST_DATA = {
       "state": "MA",
       "location": "Cambridge, MA",
       "venue": "The Middle East",
-      "notes": "Sony WM-D3 · gkay44",
+      "notes": "Sony WM-D3 \u00b7 gkay44",
       "version": "AUD",
       "format": "FLAC"
     },
@@ -50,9 +51,10 @@ const ARTIST_DATA = {
       "state": "UK",
       "location": "London, UK",
       "venue": "Camden Town",
-      "notes": "Dingwall's · gkay44",
+      "notes": "Dingwall's \u00b7 gkay44",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1996-04-28 - London, UK - Camden Town - Dingwall's (gkay44) [AUD].txt"
     },
     {
       "year": 1996,
@@ -63,9 +65,10 @@ const ARTIST_DATA = {
       "state": "D.C.",
       "location": "Washington, D.C.",
       "venue": "930 Club",
-      "notes": "SS-DSM6S · cdipietro",
+      "notes": "SS-DSM6S \u00b7 cdipietro",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1996-05-20 - Washington, D.C. - 930 Club (SS-DSM6S) (cdipietro) [AUD].txt"
     },
     {
       "year": 2000,
@@ -76,9 +79,10 @@ const ARTIST_DATA = {
       "state": "",
       "location": "Roskilde. Denmark",
       "venue": "Roskilde Festival",
-      "notes": "Core Cardiod Mics · unk",
+      "notes": "Core Cardiod Mics \u00b7 unk",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "2000-06-29 - Roskilde. Denmark - Roskilde Festival (Core Cardiod Mics) (unk) [AUD].txt"
     },
     {
       "year": 2001,
@@ -89,9 +93,10 @@ const ARTIST_DATA = {
       "state": "UK",
       "location": "Manchester, UK",
       "venue": "Academy 3",
-      "notes": "Hop · ECM-717 · yousef",
+      "notes": "Hop \u00b7 ECM-717 \u00b7 yousef",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "2001-11-15 - Manchester, UK - Academy 3 - Hop & Grape (ECM-717) (yousef) [AUD].txt"
     },
     {
       "year": 2001,
@@ -104,7 +109,8 @@ const ARTIST_DATA = {
       "venue": "BBC Broaodcasting House",
       "notes": "John",
       "version": "FM",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "2001-12-10 - London, UK - BBC Broaodcasting House - John Peel Sessions [FM].txt"
     },
     {
       "year": 2002,
@@ -115,9 +121,10 @@ const ARTIST_DATA = {
       "state": "GA",
       "location": "Atlanta, GA",
       "venue": "Echo Lounge",
-      "notes": "Sharp MD-MT90 · brandon",
+      "notes": "Sharp MD-MT90 \u00b7 brandon",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "2002-11-13 - Atlanta, GA - Echo Lounge (Sharp MD-MT90) (brandon) [AUD].txt"
     },
     {
       "year": 2003,
@@ -128,9 +135,10 @@ const ARTIST_DATA = {
       "state": "UK",
       "location": "Manchester, UK",
       "venue": "Manchester University",
-      "notes": "ECM-717 · yousef",
+      "notes": "ECM-717 \u00b7 yousef",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "2003-05-10 - Manchester, UK - Manchester University (ECM-717) (yousef) [AUD].txt"
     },
     {
       "year": 2005,
@@ -141,9 +149,10 @@ const ARTIST_DATA = {
       "state": "GA",
       "location": "Atlanta, GA",
       "venue": "The Earl",
-      "notes": "Binaural Cardiod Mics · brandon",
+      "notes": "Binaural Cardiod Mics \u00b7 brandon",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "2005-08-18 - Atlanta, GA - The Earl (Binaural Cardiod Mics) (brandon) [AUD].txt"
     },
     {
       "year": 2005,
@@ -154,9 +163,10 @@ const ARTIST_DATA = {
       "state": "Japan",
       "location": "Tokyo, Japan",
       "venue": "O-West",
-      "notes": "Roland R-1 · unk",
+      "notes": "Roland R-1 \u00b7 unk",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "2005-10-27 - Tokyo, Japan - O-West (Roland R-1) (unk) [AUD].txt"
     }
   ],
   "misc": []

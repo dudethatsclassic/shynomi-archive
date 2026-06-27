@@ -20,7 +20,8 @@ const ARTIST_DATA = {
       "venue": "Pumpehuset",
       "notes": "nowfacethetruth",
       "version": "AUD",
-      "format": "FLAC 24"
+      "format": "FLAC 24",
+      "textFile": "2015-08-26 - Copenhagen, Denmark - Pumpehuset (AT853) [AUD24].txt"
     }
   ],
   "misc": []

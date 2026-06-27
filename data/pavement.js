@@ -32,7 +32,8 @@ const ARTIST_DATA = {
       "venue": "KDVS",
       "version": "FM",
       "format": "FLAC",
-      "notes": ""
+      "notes": "",
+      "textFile": "1989-12-14 - Davis, CA - KDVS - ANA(6) [FM].txt"
     },
     {
       "year": 1992,
@@ -45,7 +46,8 @@ const ARTIST_DATA = {
       "venue": "Cattle Club *Summer Babe",
       "version": "Silver CD",
       "format": "FLAC",
-      "notes": ""
+      "notes": "",
+      "textFile": "1992-05-19 - Sacramento, CA - Cattle Club - Summer Babe [Silver].txt"
     },
     {
       "year": 1992,
@@ -58,7 +60,8 @@ const ARTIST_DATA = {
       "venue": "English Acid",
       "version": "AUD",
       "format": "FLAC",
-      "notes": ""
+      "notes": "",
+      "textFile": "1992-05-27 - Los Angeles, CA - English Acid - ANA(x) [AUD].txt"
     },
     {
       "year": 1992,
@@ -71,7 +74,8 @@ const ARTIST_DATA = {
       "venue": "Sun Club",
       "version": "AUD",
       "format": "FLAC",
-      "notes": "Unknown \u00b7 Speed Corrected"
+      "notes": "Unknown \u00b7 Speed Corrected",
+      "textFile": "1992-05-30 - Tempe, AZ - Sun Club - ANA(x) (unk) (speed corrected) [AUD].txt"
     },
     {
       "year": 1992,
@@ -84,7 +88,8 @@ const ARTIST_DATA = {
       "venue": "Cruel Elephant",
       "version": "AUD",
       "format": "FLAC",
-      "notes": "Unknown"
+      "notes": "Unknown",
+      "textFile": "1992-06-07 - Vancouver, BC - Cruel Elephant - ANA(2) (unk) [AUD].txt"
     },
     {
       "year": 1992,
@@ -97,7 +102,8 @@ const ARTIST_DATA = {
       "venue": "Club de Wash",
       "version": "SBD",
       "format": "FLAC",
-      "notes": ""
+      "notes": "",
+      "textFile": "1992-06-10 - Madison, WI - Club de Wash [SBD].txt"
     },
     {
       "year": 1992,
@@ -123,7 +129,8 @@ const ARTIST_DATA = {
       "venue": "Uptown Bar",
       "version": "SBD",
       "format": "FLAC",
-      "notes": ""
+      "notes": "",
+      "textFile": "1992-06-11 - Minneapolis, MN - Uptown Bar [SBD].txt"
     },
     {
       "year": 1992,
@@ -136,7 +143,8 @@ const ARTIST_DATA = {
       "venue": "Lounge Ax",
       "version": "SBD",
       "format": "FLAC",
-      "notes": "Aadam Jacobs"
+      "notes": "Aadam Jacobs",
+      "textFile": "1992-06-12 - Chicago, IL - Lounge Ax (unk) (aadam jacobs) [SBD].txt"
     },
     {
       "year": 1992,
@@ -149,7 +157,8 @@ const ARTIST_DATA = {
       "venue": "Melkweg",
       "version": "FM",
       "format": "",
-      "notes": ""
+      "notes": "",
+      "textFile": "1992-06-20 - Amsterdam, The Netherlands - Melkweg [FM].txt"
     },
     {
       "year": 1992,
@@ -162,7 +171,8 @@ const ARTIST_DATA = {
       "venue": "Manchester Boardwalk",
       "version": "AUD",
       "format": "FLAC",
-      "notes": "Big Bopper"
+      "notes": "Big Bopper",
+      "textFile": "1992-07-12 - Manchester, UK - Manchester Boardwalk - ANA(M) (big bopper) [AUD].txt"
     },
     {
       "year": 1992,
@@ -175,7 +185,8 @@ const ARTIST_DATA = {
       "venue": "Boardwalk",
       "version": "AUD",
       "format": "FLAC",
-      "notes": "Sony D3 \u00b7 Unknown"
+      "notes": "Sony D3 \u00b7 Unknown",
+      "textFile": "1992-07-12 - Manchester, UK - Boardwalk - ANA(4) (Sony D3) (unk) [AUD].txt"
     },
     {
       "year": 1992,
@@ -188,7 +199,8 @@ const ARTIST_DATA = {
       "venue": "Maxwell's",
       "version": "AUD",
       "format": "FLAC",
-      "notes": "Beyer M260 \u00b7 Lazarchives"
+      "notes": "Beyer M260 \u00b7 Lazarchives",
+      "textFile": "1992-07-28 - Hoboken, NJ - Maxwell's (Beyer M260) (lazarchives) [AUD].txt"
     },
     {
       "year": 1992,
@@ -201,7 +213,8 @@ const ARTIST_DATA = {
       "venue": "Kyber Pass",
       "version": "AUD",
       "format": "MP4",
-      "notes": "VHS"
+      "notes": "VHS",
+      "textFile": "1992-07-30 - Philadelphia, PA - Kyber Pass (VHS) [AUD] .txt"
     },
     {
       "year": 1992,
@@ -214,7 +227,8 @@ const ARTIST_DATA = {
       "venue": "The Square",
       "version": "AUD",
       "format": "FLAC",
-      "notes": "Sony TCS 300 \u00b7 Josef"
+      "notes": "Sony TCS 300 \u00b7 Josef",
+      "textFile": "1992-08-25 - Harlow, England - The Square (Sony TCS 300) (josef) [AUD].txt"
     },
     {
       "year": 1992,
@@ -227,7 +241,8 @@ const ARTIST_DATA = {
       "venue": "Marquee Club",
       "version": "AUD",
       "format": "FLAC",
-      "notes": "Unknown"
+      "notes": "Unknown",
+      "textFile": "1992-08-26 - London, UK - Marquee Club - ANA(4) (unk) [AUD].txt"
     },
     {
       "year": 1992,
@@ -240,7 +255,8 @@ const ARTIST_DATA = {
       "venue": "Little John's Farm",
       "version": "AUD",
       "format": "FLAC",
-      "notes": ""
+      "notes": "",
+      "textFile": "1992-08-30 - Reading, England - Little John's Farm - ANA(x) [AUD].txt"
     },
     {
       "year": 1992,
@@ -253,7 +269,8 @@ const ARTIST_DATA = {
       "venue": "Reading Festival",
       "version": "AUD",
       "format": "DVD",
-      "notes": "Unknown \u00b7 Jb"
+      "notes": "Unknown \u00b7 Jb",
+      "textFile": "1992-08-30 - Reading, England - Reading Festival - VHS(1) (unk) (jb) [DVD].txt"
     },
     {
       "year": 1992,
@@ -266,7 +283,8 @@ const ARTIST_DATA = {
       "venue": "Cat's Cradle",
       "version": "AUD",
       "format": "FLAC",
-      "notes": "Unknown"
+      "notes": "Unknown",
+      "textFile": "1992-09-11 - Carrboro, NC - Cat's Cradle (unk) [AUD].txt"
     },
     {
       "year": 1992,
@@ -279,7 +297,8 @@ const ARTIST_DATA = {
       "venue": "Liberty Lunch",
       "version": "AUD",
       "format": "FLAC",
-      "notes": ""
+      "notes": "",
+      "textFile": "1992-09-16 - Austin, TX - Liberty Lunch - ANA(x) [AUD].txt"
     },
     {
       "year": 1992,
@@ -292,7 +311,8 @@ const ARTIST_DATA = {
       "venue": "Huxley's Neue Welt",
       "version": "AUD",
       "format": "FLAC",
-      "notes": "Unknown"
+      "notes": "Unknown",
+      "textFile": "1992-11-08 - Berlin, Germany - Huxley's Neue Welt - ANA(3) (unk) [AUD].txt"
     },
     {
       "year": 1992,
@@ -305,7 +325,8 @@ const ARTIST_DATA = {
       "venue": "Den Gra? Hal",
       "version": "AUD",
       "format": "FLAC",
-      "notes": "Sony ECM 155 \u00b7 The Mailman"
+      "notes": "Sony ECM 155 \u00b7 The Mailman",
+      "textFile": "1992-11-17 - Copenhagen, Denmark - Den Gra\u030a Hal (Sony ECM 155) (the mailman) [AUD].txt"
     },
     {
       "year": 1992,
@@ -318,7 +339,8 @@ const ARTIST_DATA = {
       "venue": "E-Werk",
       "version": "AUD",
       "format": "FLAC",
-      "notes": "Aiwa CM-30 \u00b7 S.i."
+      "notes": "Aiwa CM-30 \u00b7 S.i.",
+      "textFile": "1992-11-21 - Cologne, Germany - E-Werk - ANA(M) (Aiwa CM-30) (s.i.) [AUD].txt"
     },
     {
       "year": 1992,
@@ -331,7 +353,8 @@ const ARTIST_DATA = {
       "venue": "Rolling Stone",
       "version": "AUD",
       "format": "FLAC",
-      "notes": "Unknown \u00b7 Gravenb Transfer"
+      "notes": "Unknown \u00b7 Gravenb Transfer",
+      "textFile": "1992-11-23 - Milan, Italy - Rolling Stone (unk) (gravenb transfer) [AUD].txt"
     },
     {
       "year": 1992,
@@ -344,7 +367,8 @@ const ARTIST_DATA = {
       "venue": "Salle Omnisports",
       "version": "FM",
       "format": "FLAC",
-      "notes": "Les Transmusicales De Rennes"
+      "notes": "Les Transmusicales De Rennes",
+      "textFile": "1992-12-04 - Rennes, France - Omnisport - ANA(M) [FM].txt"
     },
     {
       "year": 1992,
@@ -370,7 +394,8 @@ const ARTIST_DATA = {
       "venue": "Trade Union Club",
       "version": "AUD",
       "format": "FLAC",
-      "notes": "Unknown"
+      "notes": "Unknown",
+      "textFile": "1992-12-06 - Reading, ENG - Trade Union Club - ANA(2) (unk) [AUD].txt"
     },
     {
       "year": 1993,
@@ -383,7 +408,8 @@ const ARTIST_DATA = {
       "venue": "Old Ironsides Tavern",
       "version": "AUD",
       "format": "FLAC",
-      "notes": "Unknown"
+      "notes": "Unknown",
+      "textFile": "1993-05-10 - Sacramento, CA - Old Ironsides Tavern (unk) [AUD].txt"
     },
     {
       "year": 1993,
@@ -409,7 +435,8 @@ const ARTIST_DATA = {
       "venue": "ANA(4)",
       "version": "AUD",
       "format": "FLAC",
-      "notes": "Loughney Transfer"
+      "notes": "Loughney Transfer",
+      "textFile": "1993-06-05 - Melbourne, AUS - The Prince of Wales Hotel - ANA(4) (loughney transfer) [AUD].txt"
     },
     {
       "year": 1993,
@@ -422,7 +449,8 @@ const ARTIST_DATA = {
       "venue": "Prince Of Wales Theatre",
       "version": "AUD",
       "format": "FLAC",
-      "notes": "Wm-d6"
+      "notes": "Wm-d6",
+      "textFile": "1993-06-05 - Melbourne, AUS - Prince Of Wales Theatre - CASS(x) (WM-D6) [AUD].txt"
     },
     {
       "year": 1993,
@@ -435,7 +463,8 @@ const ARTIST_DATA = {
       "venue": "Loppen(M)",
       "version": "AUD",
       "format": "FLAC",
-      "notes": "Loughney Transfer"
+      "notes": "Loughney Transfer",
+      "textFile": "1993-06-20 - Copenhagen, Denmark - Loppen - DAT(M)-ANA(1) (loughney transfer) [AUD].txt"
     },
     {
       "year": 1994,
@@ -448,7 +477,8 @@ const ARTIST_DATA = {
       "venue": "VPRO",
       "version": "FM",
       "format": "FLAC",
-      "notes": ""
+      "notes": "",
+      "textFile": "1994-03-02 - Hilversum, NL - VPRO - ANA(2) [FM].txt"
     },
     {
       "year": 1994,
@@ -474,7 +504,8 @@ const ARTIST_DATA = {
       "venue": "Luxor",
       "version": "MIX",
       "format": "FLAC",
-      "notes": "Thir13en Production"
+      "notes": "Thir13en Production",
+      "textFile": "1994-03-04 - Cologne, Germany - Luxor (thir13en productions) [MIX].txt"
     },
     {
       "year": 1994,
@@ -487,7 +518,8 @@ const ARTIST_DATA = {
       "venue": "Batschkapp",
       "version": "MIX",
       "format": "FLAC",
-      "notes": "Tri-source \u00b7 Thir13en Production"
+      "notes": "Tri-source \u00b7 Thir13en Production",
+      "textFile": "1994-03-06 - Frankfurt, Germany - Batschkapp (tri-source) (thir13en production) [MIX].txt"
     },
     {
       "year": 1994,
@@ -500,7 +532,8 @@ const ARTIST_DATA = {
       "venue": "Great American Music Hall",
       "version": "SBD",
       "format": "FLAC",
-      "notes": "Early Show"
+      "notes": "Early Show",
+      "textFile": "1994-04-23 - San Francisco, CA - Great American Music Hall (Early show) [SBD].txt"
     },
     {
       "year": 1994,
@@ -513,7 +546,8 @@ const ARTIST_DATA = {
       "venue": "Great American Music Hall",
       "version": "SBD",
       "format": "FLAC",
-      "notes": "Late show"
+      "notes": "Late show",
+      "textFile": "1994-04-23 - San Francisco, CA - Great American Music Hall (Late show) [SBD].txt"
     },
     {
       "year": 1994,
@@ -526,7 +560,8 @@ const ARTIST_DATA = {
       "venue": "Barrymore Theatre(M)",
       "version": "AUD",
       "format": "FLAC",
-      "notes": "Unknown"
+      "notes": "Unknown",
+      "textFile": "1994-05-03 - Madison, WI - Barrymore Theatre - DAT(M)-ANA(2) (unk) [AUD].txt"
     },
     {
       "year": 1994,
@@ -539,7 +574,8 @@ const ARTIST_DATA = {
       "venue": "RFK Stadium",
       "version": "FM",
       "format": "FLAC",
-      "notes": "Hfstival"
+      "notes": "Hfstival",
+      "textFile": "1994-05-14 - Washington, DC - RFK Stadium (HFStival) [FM].txt"
     },
     {
       "year": 1994,
@@ -552,7 +588,8 @@ const ARTIST_DATA = {
       "venue": "Perron 55",
       "version": "AUD",
       "format": "FLAC",
-      "notes": "Aiwa CM-30 \u00b7 S.i."
+      "notes": "Aiwa CM-30 \u00b7 S.i.",
+      "textFile": "1994-08-17 - Venlo, NLD - Perron 55 (Aiwa CM-30) (s.i.) [AUD].txt"
     },
     {
       "year": 1994,
@@ -565,7 +602,8 @@ const ARTIST_DATA = {
       "venue": "Reading Festival",
       "version": "FM",
       "format": "FLAC",
-      "notes": "Ao"
+      "notes": "Ao",
+      "textFile": "1994-08-26 - Reading, ENG - Reading Festival - DAT(M) (ao) [FM].txt"
     },
     {
       "year": 1994,
@@ -578,7 +616,8 @@ const ARTIST_DATA = {
       "venue": "Cadillac Club",
       "version": "SBD",
       "format": "FLAC",
-      "notes": ""
+      "notes": "",
+      "textFile": "1994-09-16 - Fresno, CA - Cadillac Club [SBD].txt"
     },
     {
       "year": 1994,
@@ -591,7 +630,8 @@ const ARTIST_DATA = {
       "venue": "Liberty Hall",
       "version": "AUD",
       "format": "FLAC",
-      "notes": "Unknown"
+      "notes": "Unknown",
+      "textFile": "1994-09-24 - Lawrence, KS - Liberty Hall (unk) [AUD].txt"
     },
     {
       "year": 1994,
@@ -604,7 +644,8 @@ const ARTIST_DATA = {
       "venue": "Avalon",
       "version": "AUD",
       "format": "FLAC",
-      "notes": "Unknown \u00b7 Thrifstorekid Transfer"
+      "notes": "Unknown \u00b7 Thrifstorekid Transfer",
+      "textFile": "1994-10-17 - Boston, MA - Avalon (unk) (thrifstorekid transfer) [AUD].txt"
     },
     {
       "year": 1995,
@@ -617,7 +658,8 @@ const ARTIST_DATA = {
       "venue": "Tremont Music Hall",
       "version": "AUD",
       "format": "FLAC",
-      "notes": "Sony mic \u00b7 Unknown"
+      "notes": "Sony mic \u00b7 Unknown",
+      "textFile": "1995-05-12 - Charlotte, NC - Tremont Music Hall - ANA(1) (Sony mic) (unk) [AUD].txt"
     },
     {
       "year": 1995,
@@ -630,7 +672,8 @@ const ARTIST_DATA = {
       "venue": "Vic Theater",
       "version": "AUD",
       "format": "FLAC",
-      "notes": "Unknown \u00b7 Mike"
+      "notes": "Unknown \u00b7 Mike",
+      "textFile": "1995-05-23 - Chicago, IL - Vic Theater - ANA(1) (unk) (mike) [AUD].txt"
     },
     {
       "year": 1995,
@@ -643,7 +686,8 @@ const ARTIST_DATA = {
       "venue": "Batschkapp",
       "version": "SBD",
       "format": "FLAC",
-      "notes": "Unknown"
+      "notes": "Unknown",
+      "textFile": "1995-06-25 - Frankfurt, DEU - Batschkapp (unk) [SBD].txt"
     },
     {
       "year": 1995,
@@ -656,7 +700,8 @@ const ARTIST_DATA = {
       "venue": "The Loft",
       "version": "SBD",
       "format": "FLAC",
-      "notes": "Unknown"
+      "notes": "Unknown",
+      "textFile": "1995-06-27 - Berlin, DEU - The Loft (unk) [SBD].txt"
     },
     {
       "year": 1995,
@@ -669,7 +714,8 @@ const ARTIST_DATA = {
       "venue": "Cal Expo Amphitheatre - Lollapalooza",
       "version": "AUD",
       "format": "FLAC",
-      "notes": "Unknown \u00b7 Neekrive"
+      "notes": "Unknown \u00b7 Neekrive",
+      "textFile": "1995-08-17 - Sacramento, CA - Cal Expo Amphitheatre - Lollapalooza (unk) (neekrive) [AUD].txt"
     },
     {
       "year": 1995,
@@ -682,7 +728,8 @@ const ARTIST_DATA = {
       "venue": "Shoreline Amphitheatre - Lollapalooza",
       "version": "AUD",
       "format": "FLAC",
-      "notes": ""
+      "notes": "",
+      "textFile": "1995-08-18 - Mountain View, CA - Shoreline Amphitheatre - Lollapalooza - ANA(x) [AUD].txt"
     },
     {
       "year": 1995,
@@ -695,7 +742,8 @@ const ARTIST_DATA = {
       "venue": "Cheney Stadium - Brewstock Festival",
       "version": "AUD",
       "format": "FLAC",
-      "notes": "Aiwa CMT7 \u00b7 Unknown"
+      "notes": "Aiwa CMT7 \u00b7 Unknown",
+      "textFile": "1995-08-20 - Tacoma, WA - Cheney Stadium - Brewstock Festival - ANA(M) (Aiwa CMT7) (unk) [AUD].txt"
     },
     {
       "year": 1995,
@@ -708,7 +756,8 @@ const ARTIST_DATA = {
       "venue": "Little John's Farm",
       "version": "AUD",
       "format": "FLAC",
-      "notes": ""
+      "notes": "",
+      "textFile": "1995-08-27 - Reading, England - Little John's Farm - ANA(x) [AUD].txt"
     },
     {
       "year": 1995,
@@ -721,7 +770,8 @@ const ARTIST_DATA = {
       "venue": "Royal Showgrounds",
       "version": "AUD",
       "format": "FLAC",
-      "notes": "Loughney Transfer"
+      "notes": "Loughney Transfer",
+      "textFile": "1995-12-29 - Melbourne, Australia - Royal Showgrounds - DAT(M) (loughney transfer) [AUD].txt"
     },
     {
       "year": 1995,
@@ -734,7 +784,8 @@ const ARTIST_DATA = {
       "venue": "Macquarie University",
       "version": "AUD",
       "format": "FLAC",
-      "notes": ""
+      "notes": "",
+      "textFile": "1995-12-31 - Sydney, Australia - Macquarie University - ANA(x) [AUD].txt"
     },
     {
       "year": 1996,
@@ -747,7 +798,8 @@ const ARTIST_DATA = {
       "venue": "Adelaide Entertainment Centre - Summersault",
       "version": "AUD",
       "format": "FLAC",
-      "notes": "Unknown \u00b7 Buenaventura"
+      "notes": "Unknown \u00b7 Buenaventura",
+      "textFile": "1996-01-06 - Adelaide, AUS - Adelaide Entertainment Centre - Summersault (unk) (buenaventura) [AUD].txt"
     },
     {
       "year": 1996,
@@ -760,7 +812,8 @@ const ARTIST_DATA = {
       "venue": "Formula",
       "version": "AUD",
       "format": "FLAC",
-      "notes": "Schoeps MK4s \u00b7 Teddy Ballgame"
+      "notes": "Schoeps MK4s \u00b7 Teddy Ballgame",
+      "textFile": "1996-06-14 - Emeryville, CA - Formula - DAT(M) (Schoeps MK4s) (teddy ballgame) [AUD].txt"
     },
     {
       "year": 1996,
@@ -786,7 +839,8 @@ const ARTIST_DATA = {
       "venue": "Astoria",
       "version": "AUD",
       "format": "FLAC",
-      "notes": "Sony WM-D3 \u00b7 Unknown"
+      "notes": "Sony WM-D3 \u00b7 Unknown",
+      "textFile": "1997-01-23 - London, ENG - Astoria (Sony WM-D3) (unk) [AUD].txt"
     },
     {
       "year": 1997,
@@ -799,7 +853,8 @@ const ARTIST_DATA = {
       "venue": "",
       "version": "FM",
       "format": "FLAC",
-      "notes": ""
+      "notes": "",
+      "textFile": "1997-02-24 - San Francisco, CA - KITS - ANA(x) [FM].txt"
     },
     {
       "year": 1997,
@@ -812,7 +867,8 @@ const ARTIST_DATA = {
       "venue": "Greater London Radio",
       "version": "FM",
       "format": "FLAC",
-      "notes": ""
+      "notes": "",
+      "textFile": "1997-03-12 - London, UK - Greater London Radio - ANA(3) [FM].txt"
     },
     {
       "year": 1997,
@@ -825,7 +881,8 @@ const ARTIST_DATA = {
       "venue": "Bu?rgerhaus Stollwerck",
       "version": "SBD",
       "format": "FLAC",
-      "notes": "Unknown"
+      "notes": "Unknown",
+      "textFile": "1997-04-03 - Cologne, DEU - Bu\u0308rgerhaus Stollwerck (unk) [SBD].txt"
     },
     {
       "year": 1997,
@@ -838,7 +895,8 @@ const ARTIST_DATA = {
       "venue": "Paradiso",
       "version": "FM",
       "format": "FLAC",
-      "notes": ""
+      "notes": "",
+      "textFile": "1997-04-04 - Amsterdam, The Netherlands - Paradiso - CASS(M) [FM] .txt"
     },
     {
       "year": 1997,
@@ -864,7 +922,8 @@ const ARTIST_DATA = {
       "venue": "Shepherd's Bush Empire",
       "version": "FM",
       "format": "FLAC",
-      "notes": ""
+      "notes": "",
+      "textFile": "1997-04-11 - London, UK - Shepherd's Bush Empire [FM].txt"
     },
     {
       "year": 1997,
@@ -877,7 +936,8 @@ const ARTIST_DATA = {
       "venue": "Glastonbury Festival",
       "version": "FM",
       "format": "FLAC",
-      "notes": ""
+      "notes": "",
+      "textFile": "1997-06-29 - Glastonbury, UK - Glastonbury Festival - ANA(2) [FM].txt"
     },
     {
       "year": 1997,
@@ -890,7 +950,8 @@ const ARTIST_DATA = {
       "venue": "Roskilde Festival",
       "version": "FM",
       "format": "FLAC",
-      "notes": ""
+      "notes": "",
+      "textFile": "1997-07-28 - Roskilde, DK - Roskilde Festival - ANA(x) [FM].txt"
     },
     {
       "year": 1999,
@@ -903,7 +964,8 @@ const ARTIST_DATA = {
       "venue": "La Boule Noire - Black Session",
       "version": "FM",
       "format": "FLAC",
-      "notes": "Dimitroy Transfer 2021"
+      "notes": "Dimitroy Transfer 2021",
+      "textFile": "1999-05-10 - Paris, France - La Boule Noire - Black Session (dimitroy transfer 2021) [FM].txt"
     },
     {
       "year": 1999,
@@ -916,7 +978,8 @@ const ARTIST_DATA = {
       "venue": "Maida Vale Studios - Lamacq Live",
       "version": "FM",
       "format": "FLAC",
-      "notes": ""
+      "notes": "",
+      "textFile": "1999-05-15 - London, England - Maida Vale Studios - Lamacq Live - ANA(1) [FM].txt"
     },
     {
       "year": 1999,
@@ -929,7 +992,8 @@ const ARTIST_DATA = {
       "venue": "Cotton Club",
       "version": "AUD",
       "format": "FLAC",
-      "notes": "Akg 414-tlii \u00b7 Acidjack"
+      "notes": "Akg 414-tlii \u00b7 Acidjack",
+      "textFile": "1999-06-22 - Atlanta, GA - Cotton Club (AKG 414-TLII) (acidjack) [AUD].txt"
     },
     {
       "year": 1999,
@@ -942,7 +1006,8 @@ const ARTIST_DATA = {
       "venue": "Echo Lounge",
       "version": "AUD",
       "format": "FLAC",
-      "notes": "Akg 414tl-ii \u00b7 Acidjack"
+      "notes": "Akg 414tl-ii \u00b7 Acidjack",
+      "textFile": "1999-06-23 - Atlanta, GA - Echo Lounge (AKG 414TL-II) (acidjack) [AUD] .txt"
     },
     {
       "year": 1999,
@@ -955,7 +1020,8 @@ const ARTIST_DATA = {
       "venue": "Velvet Club",
       "version": "TV",
       "format": "FLAC",
-      "notes": ""
+      "notes": "",
+      "textFile": "1999-06-30 - Rimini, Italy - Velvet Club - VHS(2) [TV].txt"
     },
     {
       "year": 1999,
@@ -968,7 +1034,8 @@ const ARTIST_DATA = {
       "venue": "Maida Vale Studios",
       "version": "FM",
       "format": "FLAC",
-      "notes": "John Peel's 60th Birthday Party"
+      "notes": "John Peel's 60th Birthday Party",
+      "textFile": "1999-08-31 - London, UK - Maida Vale Studios (John Peel's 60th Birthday Party) [FM].txt"
     },
     {
       "year": 1999,
@@ -981,7 +1048,8 @@ const ARTIST_DATA = {
       "venue": "Mississippi Nights",
       "version": "SBD",
       "format": "FLAC",
-      "notes": ""
+      "notes": "",
+      "textFile": "1999-10-14 - St. Louis, MO - Mississippi Nights [SBD].txt"
     },
     {
       "year": 1999,
@@ -994,7 +1062,8 @@ const ARTIST_DATA = {
       "venue": "Royal Court Theatre - Sound City Festival",
       "version": "AUD",
       "format": "FLAC",
-      "notes": "Unknown"
+      "notes": "Unknown",
+      "textFile": "1999-10-28 - Liverpool, ENG - Royal Court Theatre - Sound City Festival (unk) [AUD].txt"
     },
     {
       "year": 1999,
@@ -1007,7 +1076,8 @@ const ARTIST_DATA = {
       "venue": "Poppodium 013",
       "version": "SBD",
       "format": "FLAC",
-      "notes": "Thir13en Remaster"
+      "notes": "Thir13en Remaster",
+      "textFile": "1999-11-16 - Tilburg, Netherlands - Poppodium 013 (thir13en remaster) [SBD].txt"
     },
     {
       "year": 2001,
@@ -1020,7 +1090,8 @@ const ARTIST_DATA = {
       "venue": "The Bottleneck",
       "version": "AUD",
       "format": "FLAC",
-      "notes": "Steven Malkmus \u00b7 Sp831s \u00b7 Justin H"
+      "notes": "Steven Malkmus \u00b7 Sp831s \u00b7 Justin H",
+      "textFile": "2001-10-26 - Lawrence, KS - The Bottleneck (Stephen Malkmus) (SP831s) (justin h) [AUD].txt"
     },
     {
       "year": 2010,
@@ -1033,7 +1104,8 @@ const ARTIST_DATA = {
       "venue": "Town Hall",
       "version": "AUD",
       "format": "FLAC",
-      "notes": "SP-CMC-6 \u00b7 G&e"
+      "notes": "SP-CMC-6 \u00b7 G&e",
+      "textFile": "2010-01-03 - Auckland, New Zealand - Town Hall (SP-CMC-6) (g&e) [AUD].txt"
     },
     {
       "year": 2010,
@@ -1046,7 +1118,8 @@ const ARTIST_DATA = {
       "venue": "The Tivoli",
       "version": "AUD",
       "format": "FLAC",
-      "notes": "SP-CMC-8 \u00b7 Unknown"
+      "notes": "SP-CMC-8 \u00b7 Unknown",
+      "textFile": "2010-03-10 - Brisbane, Australia - The Tivoli (SP-CMC-8) (unk) [AUD].txt"
     },
     {
       "year": 2010,
@@ -1059,7 +1132,8 @@ const ARTIST_DATA = {
       "venue": "Brixton Academy",
       "version": "AUD",
       "format": "FLAC",
-      "notes": "SP-CMC-1 \u00b7 Chalkfarmer"
+      "notes": "SP-CMC-1 \u00b7 Chalkfarmer",
+      "textFile": "2010-05-11 - London, UK - Brixton Academy (SP-CMC-1) (chalkfarmer) [AUD].txt"
     },
     {
       "year": 2010,
@@ -1072,7 +1146,8 @@ const ARTIST_DATA = {
       "venue": "Brixton Academy",
       "version": "AUD",
       "format": "FLAC",
-      "notes": "AT898 \u00b7 Unknown"
+      "notes": "AT898 \u00b7 Unknown",
+      "textFile": "2010-05-12 - London, UK - Brixton Academy (AT898) (unk) [AUD].txt"
     },
     {
       "year": 2010,
@@ -1085,7 +1160,8 @@ const ARTIST_DATA = {
       "venue": "Bob Hope Theatre",
       "version": "AUD",
       "format": "FLAC 24",
-      "notes": "Schoeps CCM4 \u00b7 Unknown"
+      "notes": "Schoeps CCM4 \u00b7 Unknown",
+      "textFile": "2010-06-24 - Stockton, CA - Bob Hope Theatre (Schoeps CCM4) (unk) [AUD24].txt"
     },
     {
       "year": 2010,
@@ -1098,7 +1174,8 @@ const ARTIST_DATA = {
       "venue": "Greek Theatre",
       "version": "AUD",
       "format": "FLAC 24",
-      "notes": "Schoeps CCM4 \u00b7 Unknown"
+      "notes": "Schoeps CCM4 \u00b7 Unknown",
+      "textFile": "2010-06-25 - Berkeley, CA - Greek Theatre (Schoeps CCM4) (unk) [AUD24].txt"
     },
     {
       "year": 2010,
@@ -1111,7 +1188,8 @@ const ARTIST_DATA = {
       "venue": "Union Park - Pitchfork Music Festival",
       "version": "AUD",
       "format": "FLAC",
-      "notes": "Ca-11 \u00b7 Rhinowing"
+      "notes": "Ca-11 \u00b7 Rhinowing",
+      "textFile": "2010-07-18 - Chicago, IL - Union Park - Pitchfork Music Festival (CA-11) (rhinowing) [AUD].txt"
     },
     {
       "year": 2010,
@@ -1124,7 +1202,8 @@ const ARTIST_DATA = {
       "venue": "Agganis Arena",
       "version": "AUD",
       "format": "FLAC",
-      "notes": "Adk Sc-ts \u00b7 Seth Baker"
+      "notes": "Adk Sc-ts \u00b7 Seth Baker",
+      "textFile": "2010-09-18 - Boston, MA - Agganis Arena (ADK SC-Ts) (seth baker) [AUD].txt"
     },
     {
       "year": 2010,
@@ -1137,7 +1216,8 @@ const ARTIST_DATA = {
       "venue": "Williamsburg Waterfront",
       "version": "AUD",
       "format": "FLAC",
-      "notes": "Audix 1280c \u00b7 Acidjack"
+      "notes": "Audix 1280c \u00b7 Acidjack",
+      "textFile": "2010-09-19 - Brooklyn, NY - Williamsburg Waterfront (Audix 1280c) (acidjack) [AUD].txt"
     },
     {
       "year": 2010,
@@ -1150,7 +1230,8 @@ const ARTIST_DATA = {
       "venue": "Summerstage",
       "version": "AUD",
       "format": "FLAC",
-      "notes": "DPA 4021 \u00b7 Acidjack"
+      "notes": "DPA 4021 \u00b7 Acidjack",
+      "textFile": "2010-09-21 - Brooklyn, NY - Summerstage (DPA 4021) (acidjack) [AUD].txt"
     },
     {
       "year": 2010,
@@ -1163,7 +1244,8 @@ const ARTIST_DATA = {
       "venue": "Summerstage",
       "version": "AUD",
       "format": "FLAC",
-      "notes": "Audix 1280c \u00b7 Acidjack"
+      "notes": "Audix 1280c \u00b7 Acidjack",
+      "textFile": "2010-09-22 - Central Park, NY - Summerstage (Audix 1280c) (acidjack) [AUD].txt"
     },
     {
       "year": 2010,
@@ -1176,7 +1258,8 @@ const ARTIST_DATA = {
       "venue": "Summerstage",
       "version": "AUD",
       "format": "FLAC",
-      "notes": "KM-150s + DPA 4021s \u00b7 Nyctaper"
+      "notes": "KM-150s + DPA 4021s \u00b7 Nyctaper",
+      "textFile": "2010-09-23 - Central Park, NY - Summerstage (KM-150s + DPA 4021s) (nyctaper) [AUD].txt"
     },
     {
       "year": 2010,
@@ -1189,7 +1272,8 @@ const ARTIST_DATA = {
       "venue": "Summerstage",
       "version": "AUD",
       "format": "FLAC",
-      "notes": "Audix 1280c \u00b7 Acidjack"
+      "notes": "Audix 1280c \u00b7 Acidjack",
+      "textFile": "2010-09-24 - Central Park, NY - Summerstage (Audix 1280c) (acidjack) [AUD].txt"
     },
     {
       "year": 2010,
@@ -1202,7 +1286,8 @@ const ARTIST_DATA = {
       "venue": "The Tabernacle",
       "version": "AUD",
       "format": "FLAC",
-      "notes": "SP-CMC-8 \u00b7 Terryfunku"
+      "notes": "SP-CMC-8 \u00b7 Terryfunku",
+      "textFile": "2010-09-26 - Atlanta, GA - The Tabernacle (SP-CMC-8) (terryfunku) [AUD].txt"
     },
     {
       "year": 2010,
@@ -1215,7 +1300,8 @@ const ARTIST_DATA = {
       "venue": "Playcenter",
       "version": "AUD",
       "format": "FLAC",
-      "notes": "Mm-mcsm-4 \u00b7 Rony Kohn"
+      "notes": "Mm-mcsm-4 \u00b7 Rony Kohn",
+      "textFile": "2010-11-20 - Sao Paulo, BRA - Playcenter (MM-MCSM-4) (rony kohn) [AUD].txt"
     },
     {
       "year": 2010,
@@ -1228,7 +1314,8 @@ const ARTIST_DATA = {
       "venue": "La Trastienda",
       "version": "AUD",
       "format": "FLAC",
-      "notes": "Mm-mcsm-4 \u00b7 Rony Kohn"
+      "notes": "Mm-mcsm-4 \u00b7 Rony Kohn",
+      "textFile": "2010-11-21 - Buenos Aires, ARG - La Trastienda (MM-MCSM-4) (rony kohn) [AUD].txt"
     },
     {
       "year": 2022,
@@ -1241,7 +1328,8 @@ const ARTIST_DATA = {
       "venue": "Fonda Theatre",
       "version": "AUD",
       "format": "FLAC 24",
-      "notes": "Shure Mv88 \u00b7 Tremolo75"
+      "notes": "Shure Mv88 \u00b7 Tremolo75",
+      "textFile": "2022-05-23 - Los Angeles, CA - Fonda Theatre (Shure MV88) (tremolo75) [AUD24].txt"
     },
     {
       "year": 2022,
@@ -1267,7 +1355,8 @@ const ARTIST_DATA = {
       "venue": "Primavera Sound",
       "version": "WEB",
       "format": "FLAC",
-      "notes": ""
+      "notes": "",
+      "textFile": "2022-06-02 - Barcelona, SP - Primavera Sound [WEB].txt"
     },
     {
       "year": 2022,
@@ -1280,7 +1369,8 @@ const ARTIST_DATA = {
       "venue": "Primavera Sound - Parc del Fo?rum",
       "version": "Webcast",
       "format": "MKV",
-      "notes": "Indykid"
+      "notes": "Indykid",
+      "textFile": "2022-06-02 - Barcelona, Spain - Primavera Sound - Parc del Fo\u0300rum (indykid) [WEBCAST].txt"
     },
     {
       "year": 2022,
@@ -1293,7 +1383,8 @@ const ARTIST_DATA = {
       "venue": "Parque da Cidade",
       "version": "AUD",
       "format": "FLAC",
-      "notes": "Oktava MKs \u00b7 Kavg"
+      "notes": "Oktava MKs \u00b7 Kavg",
+      "textFile": "2022-06-10 - Porto, Portugal - Parque da Cidade (Oktava MKs) (kavg) [AUD] .txt"
     },
     {
       "year": 2022,
@@ -1306,7 +1397,8 @@ const ARTIST_DATA = {
       "venue": "Balboa Theatre",
       "version": "AUD",
       "format": "FLAC",
-      "notes": "Ms-bmc-3 \u00b7 Kavg"
+      "notes": "Ms-bmc-3 \u00b7 Kavg",
+      "textFile": "2022-09-07 - San Diego, CA - Balboa Theatre (MS-BMC-3) (kavg) [AUD].txt"
     },
     {
       "year": 2022,
@@ -1319,7 +1411,8 @@ const ARTIST_DATA = {
       "venue": "Orpheum Theatre",
       "version": "AUD",
       "format": "FLAC",
-      "notes": "Unknown \u00b7 Nick Cholt"
+      "notes": "Unknown \u00b7 Nick Cholt",
+      "textFile": "2022-09-09 - Los Angeles, CA - Orpheum Theatre (unk) (nick cholt) [AUD].txt"
     },
     {
       "year": 2022,
@@ -1332,7 +1425,8 @@ const ARTIST_DATA = {
       "venue": "Orpheum Theatre",
       "version": "AUD",
       "format": "FLAC",
-      "notes": "Unknown \u00b7 Nick Cholt"
+      "notes": "Unknown \u00b7 Nick Cholt",
+      "textFile": "2022-09-10 - Los Angeles, CA - Orpheum Theatre (unk) (nick cholt) [AUD].txt"
     },
     {
       "year": 2022,
@@ -1345,7 +1439,8 @@ const ARTIST_DATA = {
       "venue": "Masonic Auditorium",
       "version": "AUD",
       "format": "FLAC",
-      "notes": "Iphone 7 \u00b7 Chris Lawrence"
+      "notes": "Iphone 7 \u00b7 Chris Lawrence",
+      "textFile": "2022-09-12 - San Francisco, CA - Masonic Auditorium (iPhone 7) (chris lawrence) [AUD].txt"
     },
     {
       "year": 2022,
@@ -1358,7 +1453,8 @@ const ARTIST_DATA = {
       "venue": "Masonic Auditorium",
       "version": "AUD",
       "format": "FLAC",
-      "notes": "SP-CMC-4U (loughney"
+      "notes": "SP-CMC-4U (loughney",
+      "textFile": "2022-09-13 - San Francisco, CA - Masonic Auditorium (SP-CMC-4U (loughney) [AUD].txt"
     },
     {
       "year": 2022,
@@ -1371,7 +1467,8 @@ const ARTIST_DATA = {
       "venue": "Masonic Auditorium",
       "version": "AUD",
       "format": "FLAC",
-      "notes": "SP-CMC-4U (loughney"
+      "notes": "SP-CMC-4U (loughney",
+      "textFile": "2022-09-14 - San Francisco, CA - Masonic Auditorium (SP-CMC-4U (loughney) [AUD].txt"
     },
     {
       "year": 2022,
@@ -1384,7 +1481,8 @@ const ARTIST_DATA = {
       "venue": "McMenamins Historic Edgefield Manor",
       "version": "AUD",
       "format": "FLAC 24",
-      "notes": "Roland R05 \u00b7 Mrsimontibbs"
+      "notes": "Roland R05 \u00b7 Mrsimontibbs",
+      "textFile": "2022-09-16 - Troutdale, OR - McMenamins Historic Edgefield Manor (Roland R05) (mrsimontibbs) [AUD24].txt"
     },
     {
       "year": 2022,
@@ -1397,7 +1495,8 @@ const ARTIST_DATA = {
       "venue": "Paramount Theatre",
       "version": "AUD",
       "format": "FLAC 24",
-      "notes": "Shure Mv88 \u00b7 Tremelo75"
+      "notes": "Shure Mv88 \u00b7 Tremelo75",
+      "textFile": "2022-09-17 - Seattle, WA - Paramount Theatre (Shure MV88) (tremelo75) [AUD24].txt"
     },
     {
       "year": 2022,
@@ -1410,7 +1509,8 @@ const ARTIST_DATA = {
       "venue": "Paramount Theater",
       "version": "AUD",
       "format": "FLAC 24",
-      "notes": "SP-CMC-4U \u00b7 Unknown"
+      "notes": "SP-CMC-4U \u00b7 Unknown",
+      "textFile": "2022-09-19 - Denver, CO - Paramount Theater (SP-CMC-4U) (unk) [AUD24].flac.txt"
     },
     {
       "year": 2022,
@@ -1423,7 +1523,8 @@ const ARTIST_DATA = {
       "venue": "Uptown Theater",
       "version": "AUD",
       "format": "FLAC",
-      "notes": "SP-CMC-8 \u00b7 Sonictooth"
+      "notes": "SP-CMC-8 \u00b7 Sonictooth",
+      "textFile": "2022-09-20 - Kansas City, MO - Uptown Theater (SP-CMC-8) (sonictooth) [AUD].txt"
     },
     {
       "year": 2022,
@@ -1436,7 +1537,8 @@ const ARTIST_DATA = {
       "venue": "Boch Center Wang Theatre",
       "version": "AUD",
       "format": "FLAC",
-      "notes": "Unknown"
+      "notes": "Unknown",
+      "textFile": "2022-09-28 - Boston, MA - Boch Center Wang Theatre (unk) [AUD].rtf"
     },
     {
       "year": 2022,
@@ -1449,7 +1551,8 @@ const ARTIST_DATA = {
       "venue": "Kings Theatre",
       "version": "AUD",
       "format": "FLAC",
-      "notes": "ATU853s \u00b7 Neil D"
+      "notes": "ATU853s \u00b7 Neil D",
+      "textFile": "2022-09-30 - Brooklyn, NY - Kings Theatre (ATU853s) (neil d) [AUD].txt"
     },
     {
       "year": 2022,
@@ -1462,7 +1565,8 @@ const ARTIST_DATA = {
       "venue": "Kings Theatre",
       "version": "AUD",
       "format": "FLAC",
-      "notes": "DPA 6061 \u00b7 Acidjack"
+      "notes": "DPA 6061 \u00b7 Acidjack",
+      "textFile": "2022-10-03 - Brooklyn, NY - Kings Theatre (DPA 6061) (acidjack) [AUD].txt"
     },
     {
       "year": 2022,
@@ -1475,7 +1579,8 @@ const ARTIST_DATA = {
       "venue": "The Met",
       "version": "AUD",
       "format": "FLAC",
-      "notes": "Sennheiser MKE 2 \u00b7 Toby Dodds"
+      "notes": "Sennheiser MKE 2 \u00b7 Toby Dodds",
+      "textFile": "2022-10-05 - Philadelphia, PA - The Met (Sennheiser MKE 2) (toby dodds) [AUD].txt"
     },
     {
       "year": 2022,
@@ -1488,7 +1593,8 @@ const ARTIST_DATA = {
       "venue": "Warner Theatre",
       "version": "AUD",
       "format": "FLAC 24",
-      "notes": "Roland R-07 \u00b7 Unknown"
+      "notes": "Roland R-07 \u00b7 Unknown",
+      "textFile": "2022-10-06 - Washington, D.C. - Warner Theatre (Roland R-07) (unk) [AUD24].txt"
     },
     {
       "year": 2022,
@@ -1501,7 +1607,8 @@ const ARTIST_DATA = {
       "venue": "Austin City Limits - The Moody Theater",
       "version": "Webcast",
       "format": "TS",
-      "notes": "Indykid"
+      "notes": "Indykid",
+      "textFile": "2022-10-10 - Austin, TX - Austin City Limits - The Moody Theater (indykid) [WEBCAST].txt"
     },
     {
       "year": 2022,
@@ -1514,7 +1621,8 @@ const ARTIST_DATA = {
       "venue": "Austin City Limits - The Moody Theater",
       "version": "TV",
       "format": "MP4",
-      "notes": ""
+      "notes": "",
+      "textFile": "2022-10-10 - Austin, TX - Moody Theater - Austin City Limits [TV].txt"
     },
     {
       "year": 2022,
@@ -1527,7 +1635,8 @@ const ARTIST_DATA = {
       "venue": "Roundhouse",
       "version": "AUD",
       "format": "FLAC",
-      "notes": "DPA 4060s \u00b7 Unknown"
+      "notes": "DPA 4060s \u00b7 Unknown",
+      "textFile": "2022-10-22 - London, England - Roundhouse (DPA 4060s) (unk) [AUD].txt"
     },
     {
       "year": 2022,
@@ -1540,7 +1649,8 @@ const ARTIST_DATA = {
       "venue": "Roundhouse",
       "version": "AUD",
       "format": "FLAC",
-      "notes": "DPA 4060s \u00b7 Unknown"
+      "notes": "DPA 4060s \u00b7 Unknown",
+      "textFile": "2022-10-23 - London, UK - Roundhouse (DPA 4060s) (unk) [AUD].txt"
     },
     {
       "year": 2022,
@@ -1553,7 +1663,8 @@ const ARTIST_DATA = {
       "venue": "Roundhouse",
       "version": "AUD",
       "format": "FLAC",
-      "notes": "DPA 4060s \u00b7 Unknown"
+      "notes": "DPA 4060s \u00b7 Unknown",
+      "textFile": "2022-10-24 - London, England - Roundhouse (DPA 4060s) (unk) [AUD].txt"
     },
     {
       "year": 2022,
@@ -1566,7 +1677,8 @@ const ARTIST_DATA = {
       "venue": "Roundhouse",
       "version": "AUD",
       "format": "FLAC",
-      "notes": "DPA 4060s \u00b7 Unknown"
+      "notes": "DPA 4060s \u00b7 Unknown",
+      "textFile": "2022-10-25 - London, England - Roundhouse (DPA 4060s) (unk) [AUD].txt"
     },
     {
       "year": 2022,
@@ -1579,7 +1691,8 @@ const ARTIST_DATA = {
       "venue": "Maida Vale Studios",
       "version": "FM",
       "format": "FLAC",
-      "notes": "BBC \u00b7 Auto_pilot"
+      "notes": "BBC \u00b7 Auto_pilot",
+      "textFile": "2022-10-26 - London, UK - Maida Vale Studios (BBC) (auto_pilot) [FM].txt"
     },
     {
       "year": 2022,
@@ -1592,7 +1705,8 @@ const ARTIST_DATA = {
       "venue": "Store Vega",
       "version": "AUD",
       "format": "FLAC 24",
-      "notes": "Ca-14 \u00b7 Unknown"
+      "notes": "Ca-14 \u00b7 Unknown",
+      "textFile": "2022-10-29 - Copenhagen, Denmark - Store Vega (CA-14) [AUD24].txt"
     },
     {
       "year": 2022,
@@ -1605,7 +1719,8 @@ const ARTIST_DATA = {
       "venue": "Vicar Street",
       "version": "AUD",
       "format": "FLAC",
-      "notes": "Ca-14s \u00b7 Kagee"
+      "notes": "Ca-14s \u00b7 Kagee",
+      "textFile": "2022-11-10 - Dublin, Ireland - Vicar Street (CA-14s) (kagee) [AUD].txt"
     },
     {
       "year": 2023,
@@ -1618,7 +1733,8 @@ const ARTIST_DATA = {
       "venue": "BBK Live",
       "version": "AUD",
       "format": "FLAC",
-      "notes": "Iphone Se \u00b7 Unaesfingelunar"
+      "notes": "Iphone Se \u00b7 Unaesfingelunar",
+      "textFile": "2023-07-07 - Bilbao, Spain - BBK Live (iPhone SE) (unaesfingelunar) [AUD].txt"
     },
     {
       "year": 2023,
@@ -1631,7 +1747,8 @@ const ARTIST_DATA = {
       "venue": "Jodrell Bank - Bluedot Festival",
       "version": "AUD",
       "format": "FLAC",
-      "notes": "DPA 4060s \u00b7 Unknown"
+      "notes": "DPA 4060s \u00b7 Unknown",
+      "textFile": "2023-07-22 - Macclesfield, UK - Jodrell Bank - Bluedot Festival (DPA 4060s) (unk) [AUD].txt"
     },
     {
       "year": 2023,
@@ -1644,7 +1761,8 @@ const ARTIST_DATA = {
       "venue": "Brooklyn Steel",
       "version": "AUD",
       "format": "FLAC",
-      "notes": "SP-CMC-19 \u00b7 Night 1 \u00b7 Weezerwes"
+      "notes": "SP-CMC-19 \u00b7 Night 1 \u00b7 Weezerwes",
+      "textFile": "2023-09-11 - Brooklyn, NY - Brooklyn Steel  (Night 1) (SP-CMC-19) (weezerwes) [AUD].txt"
     },
     {
       "year": 2023,
@@ -1657,7 +1775,8 @@ const ARTIST_DATA = {
       "venue": "Brooklyn Steel",
       "version": "AUD",
       "format": "FLAC",
-      "notes": "SP-CMC-19 \u00b7 Night 1 \u00b7 Weezerwes"
+      "notes": "SP-CMC-19 \u00b7 Night 1 \u00b7 Weezerwes",
+      "textFile": "2023-09-12 - Brooklyn, NY - Brooklyn Steel (Night 2) (SP-CMC-19) (weezerwes) [AUD].txt"
     },
     {
       "year": 2023,
@@ -1670,7 +1789,8 @@ const ARTIST_DATA = {
       "venue": "Brooklyn Steel",
       "version": "AUD",
       "format": "FLAC",
-      "notes": "DPA 4061 \u00b7 Dynamicalories"
+      "notes": "DPA 4061 \u00b7 Dynamicalories",
+      "textFile": "2023-09-13 - Brooklyn, NY - Brooklyn Steel (DPA 4061) (dynamicalories) [AUD].txt"
     },
     {
       "year": 2023,
@@ -1696,7 +1816,8 @@ const ARTIST_DATA = {
       "venue": "C Complejo Art Media",
       "version": "AUD",
       "format": "FLAC 24",
-      "notes": "Zoom H4n \u00b7 Santiago Herrera"
+      "notes": "Zoom H4n \u00b7 Santiago Herrera",
+      "textFile": "2024-05-15 - Buenos Aires, Argentina - C Complejo Art Media (Zoom H4n) (santiago herrera) [AUD24].txt"
     },
     {
       "year": 2024,
@@ -1709,7 +1830,8 @@ const ARTIST_DATA = {
       "venue": "C Art Media",
       "version": "AUD",
       "format": "FLAC",
-      "notes": "Mm-mcsm-4 \u00b7 Afueradeldial"
+      "notes": "Mm-mcsm-4 \u00b7 Afueradeldial",
+      "textFile": "2024-05-15 - Buenos Aires, Argentina - C Art Media (MM-MCSM-4) (afueradeldial) [AUD].txt"
     },
     {
       "year": 2024,
@@ -1722,7 +1844,8 @@ const ARTIST_DATA = {
       "venue": "La Trastienda",
       "version": "AUD",
       "format": "FLAC",
-      "notes": "Mm-mcsm-4 \u00b7 Rony Kohn"
+      "notes": "Mm-mcsm-4 \u00b7 Rony Kohn",
+      "textFile": "2024-05-17 - Montevideo, Uraguay - La Trastienda (MM-MCSM-4) (rony kohn) [AUD].txt"
     },
     {
       "year": 2024,
@@ -1735,7 +1858,8 @@ const ARTIST_DATA = {
       "venue": "Bumbershoot Music & Arts Festival",
       "version": "AUD",
       "format": "FLAC 24",
-      "notes": "Ss-dsm-6p \u00b7 Unknown"
+      "notes": "Ss-dsm-6p \u00b7 Unknown",
+      "textFile": "2024-08-31 - Seattle, WA - Bumbershoot Music & Arts Festival (SS-DSM-6P) (unk) [AUD].txt"
     }
   ]
 };

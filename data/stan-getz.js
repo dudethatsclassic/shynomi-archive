@@ -21,7 +21,8 @@ const ARTIST_DATA = {
       "venue": "Montreux Jazz Festival",
       "notes": "Captain",
       "version": "SBD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1972-06-23 - Montreux, Switzerland - Montreux Jazz Festival - Captain Marvel [SBD].txt"
     },
     {
       "year": 1974,

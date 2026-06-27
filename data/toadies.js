@@ -24,9 +24,10 @@ const ARTIST_DATA = {
       "state": "TX",
       "location": "Dallas, TX",
       "venue": "Orbit Room",
-      "notes": "T-mic · v4tx",
+      "notes": "T-mic \u00b7 v4tx",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1994-07-30 - Dallas, TX - Orbit Room (T-mic) (v4tx) [AUD].txt"
     },
     {
       "year": 1995,
@@ -37,9 +38,10 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "Hollywood, CA",
       "venue": "The Roxy",
-      "notes": "WW1 96-09 · exene remaster",
+      "notes": "WW1 96-09 \u00b7 exene remaster",
       "version": "preFM",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1995-02-10 - Hollywood, CA - The Roxy (WW1 96-09) (exene remaster) [preFM].txt"
     },
     {
       "year": 1995,
@@ -50,9 +52,10 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "San Francisco, CA",
       "venue": "The Warfield",
-      "notes": "unk · neekrive",
+      "notes": "unk \u00b7 neekrive",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1995-09-15 - San Francisco, CA - The Warfield (unk) (neekrive) [AUD].txt"
     },
     {
       "year": 1995,
@@ -65,7 +68,8 @@ const ARTIST_DATA = {
       "venue": "Sting",
       "notes": "",
       "version": "SBD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1995-12-06 - New Britain, CT - Sting [SBD].txt"
     },
     {
       "year": 1995,
@@ -78,7 +82,8 @@ const ARTIST_DATA = {
       "venue": "Bomb Factory",
       "notes": "",
       "version": "FM",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1995-12-31 - Dallas, TX - Bomb Factory [FM].txt"
     },
     {
       "year": 1996,
@@ -91,7 +96,8 @@ const ARTIST_DATA = {
       "venue": "Bomb Factory",
       "notes": "Version 1",
       "version": "FM",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1996-01-01 - Dallas, TX - Bomb Factory [FM].txt"
     },
     {
       "year": 1996,
@@ -104,7 +110,8 @@ const ARTIST_DATA = {
       "venue": "Bomb Factory",
       "notes": "Version 2",
       "version": "FM",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1996-01-01 - Dallas, TX - Bomb Factory (Version 2) [FM].txt"
     },
     {
       "year": 1996,
@@ -117,7 +124,8 @@ const ARTIST_DATA = {
       "venue": "Live from the Pit",
       "notes": "",
       "version": "FM",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1996-04-16 - San Diego, CA - Live from the Pit [FM].txt"
     },
     {
       "year": 1996,
@@ -128,9 +136,10 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "Berkeley, CA",
       "venue": "Greek Theater",
-      "notes": "unk · neekrive",
+      "notes": "unk \u00b7 neekrive",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1996-06-28 - Berkeley, CA - Greek Theater (unk) (neekrive) [AUD].txt"
     },
     {
       "year": 1996,
@@ -141,9 +150,10 @@ const ARTIST_DATA = {
       "state": "TX",
       "location": "Corpus Christi, TX",
       "venue": "Texas Sky Park",
-      "notes": "CSBmod · arnold leal",
+      "notes": "CSBmod \u00b7 arnold leal",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1996-07-06 - Corpus Christi, TX - Texas Sky Park (CSBmod) (arnold leal) [AUD].txt"
     },
     {
       "year": 1997,
@@ -154,9 +164,10 @@ const ARTIST_DATA = {
       "state": "TX",
       "location": "Dallas, TX",
       "venue": "Trees",
-      "notes": "T-mic · v4tx",
+      "notes": "T-mic \u00b7 v4tx",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1997-06-29 - Dallas, TX - Trees (T-mic) (v4tx) [AUD].txt"
     },
     {
       "year": 1997,
@@ -169,7 +180,8 @@ const ARTIST_DATA = {
       "venue": "Trees",
       "notes": "",
       "version": "SBD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1997-06-29 - Dallas, TX - Trees [SBD].txt"
     },
     {
       "year": 1997,
@@ -182,7 +194,8 @@ const ARTIST_DATA = {
       "venue": "Tramps",
       "notes": "unk",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1997-11-17 - New York, NY - Tramps (unk) [AUD].txt"
     },
     {
       "year": 2011,
@@ -193,9 +206,10 @@ const ARTIST_DATA = {
       "state": "TX",
       "location": "New Braunfels, TX",
       "venue": "Whitewater Amphitheater",
-      "notes": "Zoom H4n · thewicke",
+      "notes": "Zoom H4n \u00b7 thewicke",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "2011-08-26 - New Braunfels, TX - Whitewater Amphitheater (Zoom H4n) (thewicke) [AUD].txt"
     },
     {
       "year": 2011,
@@ -206,9 +220,10 @@ const ARTIST_DATA = {
       "state": "TX",
       "location": "New Braunfels, TX",
       "venue": "Whitewater Amphitheater",
-      "notes": "Zoom H4n · thewicke",
+      "notes": "Zoom H4n \u00b7 thewicke",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "2011-08-27 - New Braunfels, TX - Whitewater Amphitheater (Zoom H4n) (thewicke) [AUD].txt"
     },
     {
       "year": 2017,
@@ -219,9 +234,10 @@ const ARTIST_DATA = {
       "state": "MI",
       "location": "Detroit, MI",
       "venue": "St. Andrew's Hall",
-      "notes": "CA-14s · charles dewey cole",
+      "notes": "CA-14s \u00b7 charles dewey cole",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "2017-10-13 - Detroit, MI - St. Andrew's Hall (CA-14s) (charles dewey cole) [AUD].txt"
     },
     {
       "year": 2017,
@@ -232,9 +248,10 @@ const ARTIST_DATA = {
       "state": "FL",
       "location": "Tampa, FL",
       "venue": "The Ritz Ybor",
-      "notes": "Zoom H1 · besley",
+      "notes": "Zoom H1 \u00b7 besley",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "2017-10-29 - Tampa, FL - The Ritz Ybor (Zoom H1) (besley) [AUD].txt"
     },
     {
       "year": 2026,
@@ -245,9 +262,10 @@ const ARTIST_DATA = {
       "state": "OH",
       "location": "Cincinnati, OH",
       "venue": "Bogart's",
-      "notes": "SP-CMC-8 · charlesdeweycoleiv",
+      "notes": "SP-CMC-8 \u00b7 charlesdeweycoleiv",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "2026-05-29 - Cincinnati, OH - Bogart's (SP-CMC-8) (charlesdeweycoleiv) [AUD].txt"
     }
   ],
   "misc": [

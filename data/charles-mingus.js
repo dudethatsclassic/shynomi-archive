@@ -28,7 +28,8 @@ const ARTIST_DATA = {
       "venue": "Concertgebouw",
       "notes": "",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1964-04-10 -  Amsterdam, Holland - Concertgebouw [AUD].txt"
     },
     {
       "year": 1964,
@@ -41,7 +42,8 @@ const ARTIST_DATA = {
       "venue": "",
       "notes": "",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1964-04-12 - Oslo, Norway - Flambay [AUD].txt"
     },
     {
       "year": 1964,
@@ -54,7 +56,8 @@ const ARTIST_DATA = {
       "venue": "",
       "notes": "",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1964-04-13 - Stockholm, Sweden (First Concert) [AUD].txt"
     },
     {
       "year": 1964,
@@ -67,7 +70,8 @@ const ARTIST_DATA = {
       "venue": "",
       "notes": "",
       "version": "preFM",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1964-04-16 - Bremen, Germany - Sendesaal [preFM].txt"
     },
     {
       "year": 1964,
@@ -93,7 +97,8 @@ const ARTIST_DATA = {
       "venue": "Mozartsaal",
       "notes": "",
       "version": "FM",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1964-04-28 - Liederhalle, Stuttgart - Mozartsaal [FM].txt"
     },
     {
       "year": 1964,
@@ -106,7 +111,8 @@ const ARTIST_DATA = {
       "venue": "Liederhalle",
       "notes": "Flambay Pitch Fixed",
       "version": "FM",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1964-04-28 - Stuttgart, Germany - Liederhalle (Flambay Pitch Fixed) [FM].txt"
     },
     {
       "year": 1964,
@@ -119,7 +125,8 @@ const ARTIST_DATA = {
       "venue": "Inner Voices CBC TV",
       "notes": "flambay speed corrected",
       "version": "TV",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1964-10-31 - Toronto, Ontario - Inner Voices CBC TV [TV].txt"
     },
     {
       "year": 1970,
@@ -132,7 +139,8 @@ const ARTIST_DATA = {
       "venue": "Theatre National Populaire du Palais Du Chaillot",
       "notes": "",
       "version": "FM",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1970-10-28 - Paris, France - The\u0301a\u0302tre National Populaire du Palais de Chaillot [FM].txt"
     },
     {
       "year": 1970,
@@ -145,7 +153,8 @@ const ARTIST_DATA = {
       "venue": "Newport in Europe Festival",
       "notes": "",
       "version": "FM",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1970-11-01 - Rotterdam, The Netherlands - Newport in Europe Festival [FM].txt"
     },
     {
       "year": 1972,
@@ -158,7 +167,8 @@ const ARTIST_DATA = {
       "venue": "Newport Jazz Festival",
       "notes": "Philharmonic",
       "version": "SBD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1972-07-04 - New York, NY - Newport Jazz Festival - Philharmonic Hall [SBD].txt"
     },
     {
       "year": 1972,
@@ -171,7 +181,8 @@ const ARTIST_DATA = {
       "venue": "",
       "notes": "",
       "version": "FM",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1972-07-20 - At the 2nd Nice Jazz Festival [FM].txt"
     },
     {
       "year": 1972,
@@ -184,7 +195,8 @@ const ARTIST_DATA = {
       "venue": "Unknown Venue",
       "notes": "",
       "version": "FM",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1972-08-19 - Emmaboda, Sweden - Unknown Venue [FM].txt"
     },
     {
       "year": 1972,
@@ -195,9 +207,10 @@ const ARTIST_DATA = {
       "state": "MA",
       "location": "Boston, MA",
       "venue": "Boston Sound Improved",
-      "notes": "WBCN · u014945",
+      "notes": "WBCN \u00b7 u014945",
       "version": "FM",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1972-10-11 - Boston, MA - Boston Sound Improved - WBCN Radio Broadcast [FM].txt"
     },
     {
       "year": 1972,
@@ -210,7 +223,8 @@ const ARTIST_DATA = {
       "venue": "Liederhalle",
       "notes": "",
       "version": "FM",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1972-11-07 - Stuttgart, Germany - Liederhalle [FM].txt"
     },
     {
       "year": 1972,
@@ -223,7 +237,8 @@ const ARTIST_DATA = {
       "venue": "Palazzo dello Sport",
       "notes": "",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1972-11-10 - Bologna - Palazzo dello Sport [AUD].txt"
     },
     {
       "year": 1973,
@@ -236,7 +251,8 @@ const ARTIST_DATA = {
       "venue": "Jazz Workshop",
       "notes": "WBCN-FM",
       "version": "FM",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1973-01-23 - Boston, MA - Jazz Workshop (WBCN-FM) [FM].txt"
     },
     {
       "year": 1973,
@@ -249,7 +265,8 @@ const ARTIST_DATA = {
       "venue": "Strata Concert Gallery",
       "notes": "WBET Radio",
       "version": "FM",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1973-03-12 - Detroit, MI - Strata Concert Gallery [FM].txt"
     },
     {
       "year": 1973,
@@ -262,7 +279,8 @@ const ARTIST_DATA = {
       "venue": "Jazz Workshop",
       "notes": "",
       "version": "FM",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1973-10-03 - Boston, MA - Quintet - Jazz Workshop [FM].txt"
     },
     {
       "year": 1974,
@@ -275,7 +293,8 @@ const ARTIST_DATA = {
       "venue": "Rocca Brancaleone",
       "notes": "flambay U014945",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1974-07-27 - Ravenna, ITaly - Rocca Brancaleone (flambay U014945) [AUD].txt"
     },
     {
       "year": 1974,
@@ -288,7 +307,8 @@ const ARTIST_DATA = {
       "venue": "Rocca Brancaleone",
       "notes": "unk",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1974-07-27 - Ravenna, Italy - Rocca Brancaleone (unk) [AUD].txt"
     },
     {
       "year": 1975,
@@ -301,7 +321,8 @@ const ARTIST_DATA = {
       "venue": "Teatro Metastasio",
       "notes": "goody remaster",
       "version": "AUD",
-      "format": "FLAC 24"
+      "format": "FLAC 24",
+      "textFile": "1975-03-17 - Prato, Italy - Teatro Metastasio  (goody remaster) [AUD24].txt"
     },
     {
       "year": 1975,
@@ -314,7 +335,8 @@ const ARTIST_DATA = {
       "venue": "Village Vanguard",
       "notes": "",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1975-04-15 - New York, NY - Village Vanguard [AUD].txt"
     },
     {
       "year": 1975,
@@ -327,7 +349,8 @@ const ARTIST_DATA = {
       "venue": "Jesse Hall",
       "notes": "",
       "version": "FM",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1975-05-10 - Columbia, MO - Jesse Hall [FM].txt"
     },
     {
       "year": 1975,
@@ -340,7 +363,8 @@ const ARTIST_DATA = {
       "venue": "Teatro Civico",
       "notes": "goody remaster",
       "version": "SBD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1975-07-15 - La Spezia, Italy - Teatro Civico (goody remaster) [SBD] .txt"
     },
     {
       "year": 1975,
@@ -353,7 +377,8 @@ const ARTIST_DATA = {
       "venue": "Festival de jazz d'Antibes",
       "notes": "",
       "version": "FM",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1975-07-24 - Juan-les-Pins, France - Festival de jazz d'Antibes [FM].txt"
     },
     {
       "year": 1976,
@@ -366,7 +391,8 @@ const ARTIST_DATA = {
       "venue": "",
       "notes": "",
       "version": "SBD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1976-03-26 - Quintet - Palermo (Without First Title) [SBD].txt"
     },
     {
       "year": 1976,
@@ -379,7 +405,8 @@ const ARTIST_DATA = {
       "venue": "Paradiso",
       "notes": "",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1976-08-26 - Amsterdam, Holland - Paradiso - Quintet [AUD].txt"
     },
     {
       "year": 1977,
@@ -392,7 +419,8 @@ const ARTIST_DATA = {
       "venue": "Michigan Union Ballroom",
       "notes": "u014945",
       "version": "SBD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1977-02-04 - Ann Arbor, MI - Michigan Union Ballroom (Retracked and cleaned) [SBD].txt"
     },
     {
       "year": 1977,
@@ -405,7 +433,8 @@ const ARTIST_DATA = {
       "venue": "Village Gate",
       "notes": "",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1977-03-05 - New York, NY - Village Gate [AUD].txt"
     },
     {
       "year": 1977,
@@ -418,7 +447,8 @@ const ARTIST_DATA = {
       "venue": "Tyee Motor Inn",
       "notes": "",
       "version": "SBD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1977-04-03 - Tumwater, WA - Tyee Motor Inn [SBD].txt"
     },
     {
       "year": 1977,
@@ -429,9 +459,10 @@ const ARTIST_DATA = {
       "state": "MA",
       "location": "Boston, MA",
       "venue": "Morse Auditorium",
-      "notes": "Early Set · Sony TC-56 · unk",
+      "notes": "Early Set \u00b7 Sony TC-56 \u00b7 unk",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1977-04-30 - Boston, MA - Morse Auditorium (Early Set) (Sony TC-56) (unk) [AUD].txt"
     },
     {
       "year": 1977,
@@ -444,7 +475,8 @@ const ARTIST_DATA = {
       "venue": "Unknown Venue",
       "notes": "",
       "version": "SBD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1977-06-03 - Buenos Aires, Argentina - Unknown Venue [SBD].txt"
     },
     {
       "year": 1977,
@@ -457,7 +489,8 @@ const ARTIST_DATA = {
       "venue": "Nice Jazz Festival",
       "notes": "",
       "version": "FM",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1977-07-13 - Nice, France - Nice Jazz Festival [FM].txt"
     },
     {
       "year": 2003,
@@ -470,7 +503,8 @@ const ARTIST_DATA = {
       "venue": "Jazz Festival",
       "notes": "",
       "version": "SBD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "2003-08-31 - Willisau, Switzerland - Jazz Festival [SBD].txt"
     }
   ],
   "misc": [

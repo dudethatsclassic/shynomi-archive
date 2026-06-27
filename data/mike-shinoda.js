@@ -20,7 +20,8 @@ const ARTIST_DATA = {
       "venue": "Pentaport Rock Festival",
       "notes": "blueheaven_t",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "2018-08-11 - Incheon, South Korea - Pentaport Rock Festival [AUD].txt"
     },
     {
       "year": 2018,
@@ -33,7 +34,8 @@ const ARTIST_DATA = {
       "venue": "Adrenaline Stadium",
       "notes": "lushka",
       "version": "AUD",
-      "format": "FLAC 24"
+      "format": "FLAC 24",
+      "textFile": "2018-09-01 - Moscow, Russia - Adrenaline Stadium [AUD24].txt"
     },
     {
       "year": 2018,
@@ -46,7 +48,8 @@ const ARTIST_DATA = {
       "venue": "Arena Wien Open Air",
       "notes": "lpmaskman",
       "version": "AUD",
-      "format": "FLAC 24"
+      "format": "FLAC 24",
+      "textFile": "2018-09-07 - Wien, Austria - Arena Wien Open Air [AUD24].txt"
     }
   ],
   "misc": []

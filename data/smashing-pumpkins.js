@@ -61,7 +61,8 @@ const ARTIST_DATA = {
       "venue": "Avalon",
       "notes": "",
       "version": "SBD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1988-08-10 - Chicago, IL - Avalon.txt"
     },
     {
       "year": 1988,
@@ -100,7 +101,8 @@ const ARTIST_DATA = {
       "venue": "Cabaret Metro",
       "notes": "CR05",
       "version": "Silver CD",
-      "format": "SHN"
+      "format": "SHN",
+      "textFile": "1988-10-05 - Chicago, IL - Cabaret Metro [Silver].txt"
     },
     {
       "year": 1988,
@@ -113,7 +115,8 @@ const ARTIST_DATA = {
       "venue": "Annie May Swift Hall",
       "notes": "Interview",
       "version": "preFM",
-      "format": "SHN"
+      "format": "SHN",
+      "textFile": "1988-11-19a - Evanston, IL - Annie May Swift Hall.txt"
     },
     {
       "year": 1988,
@@ -137,9 +140,10 @@ const ARTIST_DATA = {
       "state": "IL",
       "location": "Chicago, IL",
       "venue": "Exit (inc)",
-      "notes": "DAT(M) · 1",
+      "notes": "DAT(M) \u00b7 1",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1988-11-20 - Chicago, IL - Exit.txt"
     },
     {
       "year": 1988,
@@ -152,7 +156,8 @@ const ARTIST_DATA = {
       "venue": "The Metro",
       "notes": "Nakamichi 300 or 500",
       "version": "AUD",
-      "format": "SHN"
+      "format": "SHN",
+      "textFile": "1988-11-23 - Chicago, IL - The Metro .txt"
     },
     {
       "year": 1989,
@@ -163,7 +168,7 @@ const ARTIST_DATA = {
       "state": "IL",
       "location": "Chicago, IL",
       "venue": "Metro",
-      "notes": "VHS(1/2) · pshyco tape upgrade · martin donohoe extraction",
+      "notes": "VHS(1/2) \u00b7 pshyco tape upgrade \u00b7 martin donohoe extraction",
       "version": "AMT",
       "format": "FLAC"
     },
@@ -176,9 +181,10 @@ const ARTIST_DATA = {
       "state": "IL",
       "location": "Chicago, IL",
       "venue": "WZRD Radio Show",
-      "notes": "ANA(2) · Studio R2R mix",
+      "notes": "ANA(2) \u00b7 Studio R2R mix",
       "version": "FM",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1989-03-16 - Chicago, IL - WZRD Studios.txt"
     },
     {
       "year": 1989,
@@ -202,7 +208,7 @@ const ARTIST_DATA = {
       "state": "IL",
       "location": "Chicago, IL",
       "venue": "WZRD Radio Show",
-      "notes": "ANA(2) · Studeio R2R mix",
+      "notes": "ANA(2) \u00b7 Studeio R2R mix",
       "version": "FM",
       "format": "SHN"
     },
@@ -217,7 +223,8 @@ const ARTIST_DATA = {
       "venue": "The Metro (Nakamichi 300)",
       "notes": "ANA(1)",
       "version": "AUD",
-      "format": "SHN"
+      "format": "SHN",
+      "textFile": "1989-04-30 - Chicago, IL - The Metro.txt"
     },
     {
       "year": 1989,
@@ -230,7 +237,8 @@ const ARTIST_DATA = {
       "venue": "The Metro",
       "notes": "VHS(4)",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1989-10-31 - Chicago, IL - The Metro .txt"
     },
     {
       "year": 1990,
@@ -241,9 +249,10 @@ const ARTIST_DATA = {
       "state": "WI",
       "location": "Madison, WI",
       "venue": "O'Cayz Corral",
-      "notes": "ANA(M) · lav mic · matthew rogers",
+      "notes": "ANA(M) \u00b7 lav mic \u00b7 matthew rogers",
       "version": "AUD #1",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1990-03-30 - Madison, WI - O'Cayz Corral.txt"
     },
     {
       "year": 1990,
@@ -282,7 +291,8 @@ const ARTIST_DATA = {
       "venue": "Shorty's Underground",
       "notes": "ANA(M)",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1990-09-13 - Cincinnati, OH - Shorty's Underground .txt"
     },
     {
       "year": 1990,
@@ -295,7 +305,8 @@ const ARTIST_DATA = {
       "venue": "Metro",
       "notes": "ANA(2)",
       "version": "SBD",
-      "format": "SHN"
+      "format": "SHN",
+      "textFile": "1990-12-31 - Chicago, IL - Metro.txt"
     },
     {
       "year": 1990,
@@ -306,7 +317,7 @@ const ARTIST_DATA = {
       "state": "IL",
       "location": "Chicago, IL",
       "venue": "Metro",
-      "notes": "ANA-L · dan elsen · upgrade",
+      "notes": "ANA-L \u00b7 dan elsen \u00b7 upgrade",
       "version": "SBD",
       "format": "FLAC"
     },
@@ -321,7 +332,8 @@ const ARTIST_DATA = {
       "venue": "Maxwell's Pub",
       "notes": "ANA(M)",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1991-02-08 - Hoboken, NJ - Maxwell's Pub.txt"
     },
     {
       "year": 1991,
@@ -332,7 +344,7 @@ const ARTIST_DATA = {
       "state": "NJ",
       "location": "Hoboken, NJ",
       "venue": "Maxwell's Pub",
-      "notes": "ANA(M) · Walkman · unk",
+      "notes": "ANA(M) \u00b7 Walkman \u00b7 unk",
       "version": "AUD",
       "format": "SHN"
     },
@@ -345,9 +357,10 @@ const ARTIST_DATA = {
       "state": "MA",
       "location": "Cambridge, MA",
       "venue": "TT The Bear's Place *Tribute to B.O.C.",
-      "notes": "Live · LSCD 51510",
+      "notes": "Live \u00b7 LSCD 51510",
       "version": "Silver CD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1991-02-09 - Cambridge, MA - TT The Bear's Place.txt"
     },
     {
       "year": 1991,
@@ -360,7 +373,8 @@ const ARTIST_DATA = {
       "venue": "CBGB's *Party All Night",
       "notes": "",
       "version": "Silver CD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1991-02-12 - New York, NY - CBGB's - Party All Night.txt"
     },
     {
       "year": 1991,
@@ -371,7 +385,7 @@ const ARTIST_DATA = {
       "state": "NY",
       "location": "New York, NY",
       "venue": "CBGB's *Party All Night",
-      "notes": "International Broadcast Recordings 2095 · dome rework",
+      "notes": "International Broadcast Recordings 2095 \u00b7 dome rework",
       "version": "Silver CD",
       "format": "FLAC"
     },
@@ -384,7 +398,7 @@ const ARTIST_DATA = {
       "state": "NY",
       "location": "New York, NY",
       "venue": "CBGB's",
-      "notes": "ANA(2) · unk · ns transfer",
+      "notes": "ANA(2) \u00b7 unk \u00b7 ns transfer",
       "version": "AUD #1",
       "format": "FLAC"
     },
@@ -399,7 +413,8 @@ const ARTIST_DATA = {
       "venue": "Reckless Records",
       "notes": "",
       "version": "AMT",
-      "format": "SHN"
+      "format": "SHN",
+      "textFile": "1991-06-22 - Chicago, IL - Reckless Records [AMT].txt"
     },
     {
       "year": 1991,
@@ -412,7 +427,8 @@ const ARTIST_DATA = {
       "venue": "Rose Records",
       "notes": "ANA(?)",
       "version": "AUD",
-      "format": "SHN"
+      "format": "SHN",
+      "textFile": "1991-06-23 - Chicago, IL - Rose Records.txt"
     },
     {
       "year": 1991,
@@ -423,9 +439,10 @@ const ARTIST_DATA = {
       "state": "OH",
       "location": "Cleveland, OH",
       "venue": "Babylon A Go-Go",
-      "notes": "WAV(M) · bill keaggy & bob burbick",
+      "notes": "WAV(M) \u00b7 bill keaggy & bob burbick",
       "version": "INT #1",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1991-07-12 - Cleveland, OH - Babylon A Go-Go (Interview).txt"
     },
     {
       "year": 1991,
@@ -438,7 +455,8 @@ const ARTIST_DATA = {
       "venue": "Lee's Palace (MuchMusic Broadcast BC & JI Interview)",
       "notes": "VHS(x)",
       "version": "PRO #1a",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1991-07-13 - Toronto, Ontario - Lee's Palace.txt"
     },
     {
       "year": 1991,
@@ -449,9 +467,10 @@ const ARTIST_DATA = {
       "state": "NY",
       "location": "New York, NY",
       "venue": "CBGB's",
-      "notes": "VHS(1) · bill mayer transfer · 1 · merle allin",
+      "notes": "VHS(1) \u00b7 bill mayer transfer \u00b7 1 \u00b7 merle allin",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1991-07-15 - New York, NY - CBGB's.txt"
     },
     {
       "year": 1991,
@@ -462,7 +481,7 @@ const ARTIST_DATA = {
       "state": "NY",
       "location": "New York, NY",
       "venue": "CBGB's",
-      "notes": "VHS(1) · bill mayer transfer",
+      "notes": "VHS(1) \u00b7 bill mayer transfer",
       "version": "AUD",
       "format": "DVD"
     },
@@ -477,7 +496,8 @@ const ARTIST_DATA = {
       "venue": "Khyber Pass Pub",
       "notes": "ANA-L",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1991-07-18 - Philadelphia, PA - Khyber Pass Pub.txt"
     },
     {
       "year": 1991,
@@ -488,7 +508,7 @@ const ARTIST_DATA = {
       "state": "PA",
       "location": "Philadelphia, PA",
       "venue": "Khyber Pass Pub",
-      "notes": "ANA(?) · M · upgrade",
+      "notes": "ANA(?) \u00b7 M \u00b7 upgrade",
       "version": "AUD",
       "format": "FLAC"
     },
@@ -501,9 +521,10 @@ const ARTIST_DATA = {
       "state": "RI",
       "location": "Providence, RI",
       "venue": "Club Babyhead",
-      "notes": "ANA(1) · WM-D3 · unk",
+      "notes": "ANA(1) \u00b7 WM-D3 \u00b7 unk",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1991-07-19 - Providence, RI - Club Babyhead.txt"
     },
     {
       "year": 1991,
@@ -514,9 +535,10 @@ const ARTIST_DATA = {
       "state": "CT",
       "location": "New Haven, CT",
       "venue": "Moon",
-      "notes": "ANA(2) · andrew fogelsong transfer",
+      "notes": "ANA(2) \u00b7 andrew fogelsong transfer",
       "version": "SBD #1",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1991-07-21 - New Haven, CT - Moon.txt"
     },
     {
       "year": 1991,
@@ -527,7 +549,7 @@ const ARTIST_DATA = {
       "state": "CT",
       "location": "New Haven, CT",
       "venue": "Moon",
-      "notes": "ANA(2) · andrew fogelsong transfer",
+      "notes": "ANA(2) \u00b7 andrew fogelsong transfer",
       "version": "AUD #1",
       "format": "FLAC"
     },
@@ -540,7 +562,7 @@ const ARTIST_DATA = {
       "state": "CT",
       "location": "New Haven, CT",
       "venue": "Moon",
-      "notes": "ANA(5) · henry bent edit",
+      "notes": "ANA(5) \u00b7 henry bent edit",
       "version": "AUD",
       "format": "SHN"
     },
@@ -555,7 +577,8 @@ const ARTIST_DATA = {
       "venue": "Foufounes Electriques",
       "notes": "VID(3?)",
       "version": "PRO #1b",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1991-07-23 - Montreal, Quebec - Foufounes Electriques.txt"
     },
     {
       "year": 1991,
@@ -568,7 +591,8 @@ const ARTIST_DATA = {
       "venue": "Danceteria",
       "notes": "AUD>ANA",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1991-07-31 - New York, NY - Danceteria.txt"
     },
     {
       "year": 1991,
@@ -581,7 +605,8 @@ const ARTIST_DATA = {
       "venue": "Maxwell's Pub",
       "notes": "AUD>ANA(?)",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1991-08-03 - Hoboken, NJ - Maxwell's Pub .txt"
     },
     {
       "year": 1991,
@@ -594,7 +619,8 @@ const ARTIST_DATA = {
       "venue": "Rough Trade Records *Acoustic Set",
       "notes": "Mitsubishi",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1991-08-17b - San Francisco, CA - I-Beam - Out of Focus.txt"
     },
     {
       "year": 1991,
@@ -631,9 +657,10 @@ const ARTIST_DATA = {
       "state": "WA",
       "location": "Seattle, WA",
       "venue": "Backstage Tavern",
-      "notes": "DAT(M) · SS-DSM3 · blg transfer",
+      "notes": "DAT(M) \u00b7 SS-DSM3 \u00b7 blg transfer",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1991-08-20 - Seattle, WA - Backstage Tavern.txt"
     },
     {
       "year": 1991,
@@ -644,7 +671,7 @@ const ARTIST_DATA = {
       "state": "WA",
       "location": "Seattle, WA",
       "venue": "Backstage Tavern",
-      "notes": "ANA(1) · unk · mz transfer",
+      "notes": "ANA(1) \u00b7 unk \u00b7 mz transfer",
       "version": "AUD #2",
       "format": "FLAC"
     },
@@ -657,7 +684,7 @@ const ARTIST_DATA = {
       "state": "WA",
       "location": "Seattle, WA",
       "venue": "Backstage Tavern",
-      "notes": "ANA(1) · unk · mz transfer redo",
+      "notes": "ANA(1) \u00b7 unk \u00b7 mz transfer redo",
       "version": "AUD #2",
       "format": "FLAC"
     },
@@ -698,7 +725,8 @@ const ARTIST_DATA = {
       "venue": "De Doelen",
       "notes": "ANA(x)",
       "version": "AUD",
-      "format": "SHN"
+      "format": "SHN",
+      "textFile": "1991-09-01 - Rotterdam, The Netherlands - De Doelen.txt"
     },
     {
       "year": 1991,
@@ -722,7 +750,7 @@ const ARTIST_DATA = {
       "state": "The Netherlands",
       "location": "Rotterdam, The Netherlands",
       "venue": "De Doelen",
-      "notes": "AM Radio · unk · traveller03",
+      "notes": "AM Radio \u00b7 unk \u00b7 traveller03",
       "version": "AM #1",
       "format": "FLAC"
     },
@@ -748,9 +776,10 @@ const ARTIST_DATA = {
       "state": "MA",
       "location": "Boston, MA",
       "venue": "Axis Nightclub",
-      "notes": "WFNX Birthday Bash · 1 · mz",
+      "notes": "WFNX Birthday Bash \u00b7 1 \u00b7 mz",
       "version": "AUD #1",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1991-09-23 - Boston, MA - Axis Nightclub (WFNX Birthday Bash) [AUD #1].txt"
     },
     {
       "year": 1991,
@@ -761,9 +790,10 @@ const ARTIST_DATA = {
       "state": "WI",
       "location": "Madison, WI",
       "venue": "Oscar Mayer Theater",
-      "notes": "ANA(1) · WM-D6 · fogelsong edit",
+      "notes": "ANA(1) \u00b7 WM-D6 \u00b7 fogelsong edit",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1991-10-16 - Madison, WI - Oscar Mayer Theater .txt"
     },
     {
       "year": 1991,
@@ -774,9 +804,10 @@ const ARTIST_DATA = {
       "state": "WI",
       "location": "Milwaukee, WI",
       "venue": "Atomic Records (Early)",
-      "notes": "ANA(2) · unk",
+      "notes": "ANA(2) \u00b7 unk",
       "version": "AUD",
-      "format": "SHN"
+      "format": "SHN",
+      "textFile": "1991-10-22 - Milwaukee, WI - Eagles Ballroom (Late).txt"
     },
     {
       "year": 1991,
@@ -787,7 +818,7 @@ const ARTIST_DATA = {
       "state": "WI",
       "location": "Milwaukee, WI",
       "venue": "Atomic Records (Early)",
-      "notes": "VHS(1) · M",
+      "notes": "VHS(1) \u00b7 M",
       "version": "AMT #1",
       "format": "FLAC"
     },
@@ -800,7 +831,7 @@ const ARTIST_DATA = {
       "state": "WI",
       "location": "Milwaukee, WI",
       "venue": "Eagles Ballroom (Late)",
-      "notes": "VHS-DVD · smashingpumpkinsuk transfer",
+      "notes": "VHS-DVD \u00b7 smashingpumpkinsuk transfer",
       "version": "AUD",
       "format": "FLAC"
     },
@@ -813,7 +844,7 @@ const ARTIST_DATA = {
       "state": "WI",
       "location": "Milwaukee, WI",
       "venue": "Eagles Ballroom (Late)",
-      "notes": "ANA(1) · paul rocket",
+      "notes": "ANA(1) \u00b7 paul rocket",
       "version": "AUD",
       "format": "FLAC"
     },
@@ -839,9 +870,10 @@ const ARTIST_DATA = {
       "state": "MI",
       "location": "East Lansing, MI",
       "venue": "MSU Auditorium",
-      "notes": "ANA(3) · vic?",
+      "notes": "ANA(3) \u00b7 vic?",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1991-10-23 - East Lansing, MI - MSU Auditorium.txt"
     },
     {
       "year": 1991,
@@ -852,9 +884,10 @@ const ARTIST_DATA = {
       "state": "OH",
       "location": "Cleveland, OH",
       "venue": "Music Hall",
-      "notes": "ANA(M) · unk",
+      "notes": "ANA(M) \u00b7 unk",
       "version": "AUD",
-      "format": "SHN"
+      "format": "SHN",
+      "textFile": "1991-10-26 - Cleveland, OH - Music Hall .txt"
     },
     {
       "year": 1991,
@@ -865,7 +898,7 @@ const ARTIST_DATA = {
       "state": "Ontario",
       "location": "Toronto, Ontario",
       "venue": "Concert Hall",
-      "notes": "AUD>CASS(x) · unk",
+      "notes": "AUD>CASS(x) \u00b7 unk",
       "version": "AUD",
       "format": "FLAC"
     },
@@ -878,9 +911,10 @@ const ARTIST_DATA = {
       "state": "VT",
       "location": "Burlington, VT",
       "venue": "Memorial Auditorium",
-      "notes": "Sony PC62 · rcsguy",
+      "notes": "Sony PC62 \u00b7 rcsguy",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1991-11-02 - Burlington, VT - Memorial Auditorium .txt"
     },
     {
       "year": 1991,
@@ -891,9 +925,10 @@ const ARTIST_DATA = {
       "state": "MA",
       "location": "Springfield, MA",
       "venue": "Civic Center",
-      "notes": "DAT(M) · AKG 451s · tapeworm48 transfer",
+      "notes": "DAT(M) \u00b7 AKG 451s \u00b7 tapeworm48 transfer",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1991-11-03 - Springfield, MA - Civic Center.txt"
     },
     {
       "year": 1991,
@@ -904,7 +939,7 @@ const ARTIST_DATA = {
       "state": "MA",
       "location": "Springfield, MA",
       "venue": "Civic Center",
-      "notes": "ANA(M) · PC-62 · unk",
+      "notes": "ANA(M) \u00b7 PC-62 \u00b7 unk",
       "version": "AUD",
       "format": "FLAC"
     },
@@ -917,9 +952,10 @@ const ARTIST_DATA = {
       "state": "PA",
       "location": "Upper Darby, PA",
       "venue": "Tower Theater",
-      "notes": "ANA(3) · unk",
+      "notes": "ANA(3) \u00b7 unk",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1991-11-08 - Upper Darby, PA - Tower Theater.txt"
     },
     {
       "year": 1991,
@@ -930,9 +966,10 @@ const ARTIST_DATA = {
       "state": "NY",
       "location": "New York, NY",
       "venue": "Roseland Ballroom",
-      "notes": "ANA(?) · unk",
+      "notes": "ANA(?) \u00b7 unk",
       "version": "AUD",
-      "format": "SHN"
+      "format": "SHN",
+      "textFile": "1991-11-11 - New York, NY - Roseland Ballroom.txt"
     },
     {
       "year": 1991,
@@ -943,9 +980,10 @@ const ARTIST_DATA = {
       "state": "MI",
       "location": "Detroit, MI",
       "venue": "State Theater",
-      "notes": "DAT(1) · 1 · Aiwa CM-30",
+      "notes": "DAT(1) \u00b7 1 \u00b7 Aiwa CM-30",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1991-11-22 - Detroit, MI - State Theater.txt"
     },
     {
       "year": 1991,
@@ -958,7 +996,8 @@ const ARTIST_DATA = {
       "venue": "Aragon Ballroom",
       "notes": "AUD>ANA(?)",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1991-11-29 - Chicago, IL - Aragon Ballroom .txt"
     },
     {
       "year": 1991,
@@ -969,9 +1008,10 @@ const ARTIST_DATA = {
       "state": "KS",
       "location": "Kansas City, KS",
       "venue": "Memorial Hall",
-      "notes": "ANA(?) · unk",
+      "notes": "ANA(?) \u00b7 unk",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1991-12-04 - Kansas City, KS - Memorial Hall.txt"
     },
     {
       "year": 1991,
@@ -984,7 +1024,8 @@ const ARTIST_DATA = {
       "venue": "Unicorn Ballroom",
       "notes": "AUD>ANA",
       "version": "AUD",
-      "format": "SHN"
+      "format": "SHN",
+      "textFile": "1991-12-07 - Houston, TX - Unicorn Ballroom.txt"
     },
     {
       "year": 1991,
@@ -997,7 +1038,8 @@ const ARTIST_DATA = {
       "venue": "Hollywood Theatre",
       "notes": "VHS(x)",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1991-12-12 - Norman, OK - Hollywood Theatre.txt"
     },
     {
       "year": 1991,
@@ -1008,7 +1050,7 @@ const ARTIST_DATA = {
       "state": "OK",
       "location": "Norman, OK",
       "venue": "Hollywood Theatre",
-      "notes": "VHS(3) · nicholas serra",
+      "notes": "VHS(3) \u00b7 nicholas serra",
       "version": "AMT #1 (48k)",
       "format": "FLAC"
     },
@@ -1021,7 +1063,7 @@ const ARTIST_DATA = {
       "state": "OK",
       "location": "Norman, OK",
       "venue": "Hollywood Theatre",
-      "notes": "VHS(3) · nicholas serra",
+      "notes": "VHS(3) \u00b7 nicholas serra",
       "version": "AMT #1",
       "format": "MKV"
     },
@@ -1036,7 +1078,8 @@ const ARTIST_DATA = {
       "venue": "Whiskey A Go-Go *Daydream Kisses",
       "notes": "HAWK013",
       "version": "Silver CD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1991-12-17 - Los Angeles, CA - Whiskey A Go-Go.txt"
     },
     {
       "year": 1991,
@@ -1060,7 +1103,7 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "Los Angeles, CA",
       "venue": "Whiskey A Go-Go",
-      "notes": "D3 Cassette Master · deadmarsh edit",
+      "notes": "D3 Cassette Master \u00b7 deadmarsh edit",
       "version": "AUD",
       "format": "FLAC"
     },
@@ -1086,9 +1129,10 @@ const ARTIST_DATA = {
       "state": "OR",
       "location": "Portland, OR",
       "venue": "Portland Underground",
-      "notes": "VID(2) · unk",
+      "notes": "VID(2) \u00b7 unk",
       "version": "AUD",
-      "format": "SHN"
+      "format": "SHN",
+      "textFile": "1991-12-22 - Portland, OR - Portland Underground.txt"
     },
     {
       "year": 1991,
@@ -1125,9 +1169,10 @@ const ARTIST_DATA = {
       "state": "IL",
       "location": "Chicago, IL",
       "venue": "The Metro",
-      "notes": "ANA(M) · ECM-909",
+      "notes": "ANA(M) \u00b7 ECM-909",
       "version": "AUD #1",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1991-12-31 - Chicago, IL - The Metro.txt"
     },
     {
       "year": 1991,
@@ -1138,7 +1183,7 @@ const ARTIST_DATA = {
       "state": "IL",
       "location": "Chicago, IL",
       "venue": "The Metro",
-      "notes": "ANA · ECM-909",
+      "notes": "ANA \u00b7 ECM-909",
       "version": "AUD",
       "format": "FLAC"
     },
@@ -1151,7 +1196,7 @@ const ARTIST_DATA = {
       "state": "IL",
       "location": "Chicago, IL",
       "venue": "The Metro",
-      "notes": "VHS(3) · unk · onkel442003 transfer",
+      "notes": "VHS(3) \u00b7 unk \u00b7 onkel442003 transfer",
       "version": "AUD",
       "format": "DVD"
     },
@@ -1164,9 +1209,10 @@ const ARTIST_DATA = {
       "state": "Netherlands",
       "location": "Hilversum, Netherlands",
       "venue": "VPRO Radio",
-      "notes": "ANA(?) · unk",
+      "notes": "ANA(?) \u00b7 unk",
       "version": "FM",
-      "format": "SHN"
+      "format": "SHN",
+      "textFile": "1992-01-15 - Hilversum, Netherlands - VPRO Radio (FM 2).txt"
     },
     {
       "year": 1992,
@@ -1177,7 +1223,7 @@ const ARTIST_DATA = {
       "state": "Netherlands",
       "location": "Hilversum, Netherlands",
       "venue": "VPRO Radio",
-      "notes": "ANA(?) · traveller03",
+      "notes": "ANA(?) \u00b7 traveller03",
       "version": "FM",
       "format": "FLAC"
     },
@@ -1192,7 +1238,8 @@ const ARTIST_DATA = {
       "venue": "Vooruit",
       "notes": "AUD>ANA(?)",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1992-01-17 - Gent, Belgium - Vooruit.txt"
     },
     {
       "year": 1992,
@@ -1203,9 +1250,10 @@ const ARTIST_DATA = {
       "state": "NL",
       "location": "Eindhoven, NL",
       "venue": "Effenaar",
-      "notes": "AUD>ANA-L · unk · dan elsen transfer",
+      "notes": "AUD>ANA-L \u00b7 unk \u00b7 dan elsen transfer",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1992-01-18 - Eindhoven, NL - Effenaar.txt"
     },
     {
       "year": 1992,
@@ -1216,9 +1264,10 @@ const ARTIST_DATA = {
       "state": "NL",
       "location": "Den Haag, NL",
       "venue": "Paard van Troje",
-      "notes": "unk · ripped by fogelsong",
+      "notes": "unk \u00b7 ripped by fogelsong",
       "version": "SBD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1992-01-19 - Den Haag, NL - Paard van Troje.txt"
     },
     {
       "year": 1992,
@@ -1231,7 +1280,8 @@ const ARTIST_DATA = {
       "venue": "Melkweg (Realistic tie-clip)",
       "notes": "AUD>ANA",
       "version": "FM",
-      "format": "SHN"
+      "format": "SHN",
+      "textFile": "1992-01-20 - Amsterdam, NL - Melkweg.txt"
     },
     {
       "year": 1992,
@@ -1270,7 +1320,8 @@ const ARTIST_DATA = {
       "venue": "Pumphuset ?>WM-D3",
       "notes": "ripped by fogelsong",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1992-01-24 - Copenhagen, DK - Pumphuset.txt"
     },
     {
       "year": 1992,
@@ -1281,9 +1332,10 @@ const ARTIST_DATA = {
       "state": "DE",
       "location": "Berlin, DE",
       "venue": "Loft",
-      "notes": "SS-DSM · traveller03",
+      "notes": "SS-DSM \u00b7 traveller03",
       "version": "AUD #1",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1992-01-26 - Berlin, DE - Loft.txt"
     },
     {
       "year": 1992,
@@ -1294,7 +1346,7 @@ const ARTIST_DATA = {
       "state": "DE",
       "location": "Berlin, DE",
       "venue": "Loft",
-      "notes": "DAT>ANA(4) · SS · unk",
+      "notes": "DAT>ANA(4) \u00b7 SS \u00b7 unk",
       "version": "AUD",
       "format": "SHN"
     },
@@ -1307,9 +1359,10 @@ const ARTIST_DATA = {
       "state": "DE",
       "location": "Koeln, DE",
       "venue": "Luxor",
-      "notes": "AUD>VID · traveller03",
+      "notes": "AUD>VID \u00b7 traveller03",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1992-01-28 - Koeln, DE - Luxor.txt"
     },
     {
       "year": 1992,
@@ -1320,7 +1373,7 @@ const ARTIST_DATA = {
       "state": "DE",
       "location": "Koeln, DE",
       "venue": "Luxor",
-      "notes": "Sony Hi8 · bobfather master",
+      "notes": "Sony Hi8 \u00b7 bobfather master",
       "version": "AUD",
       "format": "DVD"
     },
@@ -1333,9 +1386,10 @@ const ARTIST_DATA = {
       "state": "DE",
       "location": "Frankfurt, DE",
       "venue": "Batschkaap",
-      "notes": "ANA(M) · Aiwa CM-30",
+      "notes": "ANA(M) \u00b7 Aiwa CM-30",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1992-01-29 - Frankfurt, DE - Batschkaap.txt"
     },
     {
       "year": 1992,
@@ -1346,9 +1400,10 @@ const ARTIST_DATA = {
       "state": "DE",
       "location": "Munich, DE",
       "venue": "Nachtwerk",
-      "notes": "DAT(1) · travisbickle1963 transfer",
+      "notes": "DAT(1) \u00b7 travisbickle1963 transfer",
       "version": "FM #1",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1992-01-31 - Munich, DE - Nachtwerk.txt"
     },
     {
       "year": 1992,
@@ -1361,7 +1416,8 @@ const ARTIST_DATA = {
       "venue": "Elysee Montmartre",
       "notes": "HUT promo cassette sourced",
       "version": "SBD",
-      "format": "SHN"
+      "format": "SHN",
+      "textFile": "1992-02-05 - Paris, France - Elysee Montmartre.txt"
     },
     {
       "year": 1992,
@@ -1387,7 +1443,8 @@ const ARTIST_DATA = {
       "venue": "Edward's No. 8",
       "notes": "VID-L",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1992-02-11 - Birmingham, UK - Edward's No. 8.txt"
     },
     {
       "year": 1992,
@@ -1413,7 +1470,8 @@ const ARTIST_DATA = {
       "venue": "Astoria",
       "notes": "unk",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1992-02-14 - London, UK - Astoria.txt"
     },
     {
       "year": 1992,
@@ -1424,9 +1482,10 @@ const ARTIST_DATA = {
       "state": "HI",
       "location": "Honolulu, HI",
       "venue": "Pink's Garage",
-      "notes": "ANA(M) · Sony ECM-909 · ron whitfield",
+      "notes": "ANA(M) \u00b7 Sony ECM-909 \u00b7 ron whitfield",
       "version": "AUD #1",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1992-03-07 - Honolulu, HI - Pink's Garage.txt"
     },
     {
       "year": 1992,
@@ -1437,9 +1496,10 @@ const ARTIST_DATA = {
       "state": "IL",
       "location": "Chicago, IL",
       "venue": "Metro (BC and D'arcy with Pearl Jam)",
-      "notes": "ANA(2) · M",
+      "notes": "ANA(2) \u00b7 M",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1992-03-28 - Chicago, IL - Metro.txt"
     },
     {
       "year": 1992,
@@ -1452,7 +1512,8 @@ const ARTIST_DATA = {
       "venue": "Rock Werchter Festival",
       "notes": "ANA(2)",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1992-07-05 - Werchter, BE - Rock Werchter Festival.txt"
     },
     {
       "year": 1992,
@@ -1463,7 +1524,7 @@ const ARTIST_DATA = {
       "state": "BE",
       "location": "Werchter, BE",
       "venue": "Rock Werchter Festival",
-      "notes": "PC-62 · phil",
+      "notes": "PC-62 \u00b7 phil",
       "version": "AUD",
       "format": "FLAC"
     },
@@ -1476,9 +1537,10 @@ const ARTIST_DATA = {
       "state": "IL",
       "location": "Chicago, IL",
       "venue": "Blackout Records",
-      "notes": "ANA(?) · unk",
+      "notes": "ANA(?) \u00b7 unk",
       "version": "AUD",
-      "format": "SHN"
+      "format": "SHN",
+      "textFile": "1992-07-11 - Chicago, IL - Blackout Records.txt"
     },
     {
       "year": 1992,
@@ -1489,7 +1551,7 @@ const ARTIST_DATA = {
       "state": "IL",
       "location": "Chicago, IL",
       "venue": "Blackout Records",
-      "notes": "ANA>ANA(2) · milkysunshine's edit",
+      "notes": "ANA>ANA(2) \u00b7 milkysunshine's edit",
       "version": "AUD",
       "format": "FLAC"
     },
@@ -1504,7 +1566,8 @@ const ARTIST_DATA = {
       "venue": "Metro",
       "notes": "VID(1)",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1992-07-23 - Chicago, IL - Metro.txt"
     },
     {
       "year": 1992,
@@ -1515,7 +1578,7 @@ const ARTIST_DATA = {
       "state": "IL",
       "location": "Chicago, IL",
       "venue": "Metro",
-      "notes": "VID(1) · bill mayer reauthor",
+      "notes": "VID(1) \u00b7 bill mayer reauthor",
       "version": "AUD",
       "format": "DVD"
     },
@@ -1530,7 +1593,8 @@ const ARTIST_DATA = {
       "venue": "Metro",
       "notes": "VID(1)",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1992-07-24 - Chicago, IL - Metro.txt"
     },
     {
       "year": 1992,
@@ -1541,7 +1605,7 @@ const ARTIST_DATA = {
       "state": "IL",
       "location": "Chicago, IL",
       "venue": "Metro",
-      "notes": "VID(1) · unk",
+      "notes": "VID(1) \u00b7 unk",
       "version": "AUD",
       "format": "DVD"
     },
@@ -1554,7 +1618,21 @@ const ARTIST_DATA = {
       "state": "FL",
       "location": "Miami, FL",
       "venue": "Washington Square",
-      "notes": "VHS(2) · frank claycomb",
+      "notes": "VHS(2) \u00b7 frank claycomb",
+      "version": "AUD",
+      "format": "FLAC",
+      "textFile": "1992-08-05 - Miami, FL - Washington Square.txt"
+    },
+    {
+      "year": 1992,
+      "month": 8,
+      "day": 5,
+      "dateStr": "8-5-1992",
+      "city": "Miami",
+      "state": "FL",
+      "location": "Miami, FL",
+      "venue": "Washington Square",
+      "notes": "ANA(x) \u00b7 inc",
       "version": "AUD",
       "format": "FLAC"
     },
@@ -1567,20 +1645,7 @@ const ARTIST_DATA = {
       "state": "FL",
       "location": "Miami, FL",
       "venue": "Washington Square",
-      "notes": "ANA(x) · inc",
-      "version": "AUD",
-      "format": "FLAC"
-    },
-    {
-      "year": 1992,
-      "month": 8,
-      "day": 5,
-      "dateStr": "8-5-1992",
-      "city": "Miami",
-      "state": "FL",
-      "location": "Miami, FL",
-      "venue": "Washington Square",
-      "notes": "VID-L · dan elsen transfer",
+      "notes": "VID-L \u00b7 dan elsen transfer",
       "version": "AUD",
       "format": "FLAC"
     },
@@ -1606,7 +1671,7 @@ const ARTIST_DATA = {
       "state": "FL",
       "location": "Miami, FL",
       "venue": "Washington Square",
-      "notes": "Video8(M) · unk · kevin fitzgibbons",
+      "notes": "Video8(M) \u00b7 unk \u00b7 kevin fitzgibbons",
       "version": "AMT #2",
       "format": "FLAC"
     },
@@ -1619,9 +1684,10 @@ const ARTIST_DATA = {
       "state": "TN",
       "location": "Nashville, TN",
       "venue": "328 Performance Hall",
-      "notes": "ANA(2) · Radioshack Walkman · unk",
+      "notes": "ANA(2) \u00b7 Radioshack Walkman \u00b7 unk",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1992-08-10 - Nashville, TN - 328 Performance Hall.txt"
     },
     {
       "year": 1992,
@@ -1632,7 +1698,7 @@ const ARTIST_DATA = {
       "state": "TN",
       "location": "Nashville, TN",
       "venue": "328 Performance Hall",
-      "notes": "ANA(2) · Radioshack Walkman · unk · speed corrected",
+      "notes": "ANA(2) \u00b7 Radioshack Walkman \u00b7 unk \u00b7 speed corrected",
       "version": "AUD",
       "format": "FLAC"
     },
@@ -1645,9 +1711,10 @@ const ARTIST_DATA = {
       "state": "UK",
       "location": "London, UK",
       "venue": "Greater London Radio",
-      "notes": "ANA(3) · unk",
+      "notes": "ANA(3) \u00b7 unk",
       "version": "FM",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1992-08-23 - London, UK - Greater London Radio.txt"
     },
     {
       "year": 1992,
@@ -1658,9 +1725,10 @@ const ARTIST_DATA = {
       "state": "UK",
       "location": "Berkshire, UK",
       "venue": "Reading Festival",
-      "notes": "ANA(x) · unk",
+      "notes": "ANA(x) \u00b7 unk",
       "version": "AUD",
-      "format": "SHN"
+      "format": "SHN",
+      "textFile": "1992-08-29 - Berkshire, UK - Reading Festival.txt"
     },
     {
       "year": 1992,
@@ -1671,7 +1739,7 @@ const ARTIST_DATA = {
       "state": "UK",
       "location": "Berkshire, UK",
       "venue": "Reading Festival",
-      "notes": "ANA(x) · unk · nicholas serra transfer",
+      "notes": "ANA(x) \u00b7 unk \u00b7 nicholas serra transfer",
       "version": "AUD #2",
       "format": "FLAC"
     },
@@ -1697,7 +1765,7 @@ const ARTIST_DATA = {
       "state": "UK",
       "location": "Berkshire, UK",
       "venue": "Reading Festival",
-      "notes": "JVC-Hifi-VHS · thir13en master",
+      "notes": "JVC-Hifi-VHS \u00b7 thir13en master",
       "version": "PRO",
       "format": "DVD"
     },
@@ -1712,7 +1780,8 @@ const ARTIST_DATA = {
       "venue": "Kleine Markthalle",
       "notes": "VID(?)",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1992-08-31 - Hamburg, DE - Kleine Markthalle.txt"
     },
     {
       "year": 1992,
@@ -1736,9 +1805,10 @@ const ARTIST_DATA = {
       "state": "Germany",
       "location": "Berlin, Germany",
       "venue": "The Loft",
-      "notes": "DAT(M) · Soundman OKM",
+      "notes": "DAT(M) \u00b7 Soundman OKM",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1992-09-01 - Berlin, Germany - The Loft.txt"
     },
     {
       "year": 1992,
@@ -1749,9 +1819,10 @@ const ARTIST_DATA = {
       "state": "DE",
       "location": "Frankfurt, DE",
       "venue": "Batschkapp",
-      "notes": "ANA(1) · unk",
+      "notes": "ANA(1) \u00b7 unk",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1992-09-03 - Frankfurt, DE - Batschkapp .txt"
     },
     {
       "year": 1992,
@@ -1762,7 +1833,7 @@ const ARTIST_DATA = {
       "state": "DE",
       "location": "Frankfurt, DE",
       "venue": "Batschkapp",
-      "notes": "Sony WM-D6C · ECM 939 · milavalenti collection",
+      "notes": "Sony WM-D6C \u00b7 ECM 939 \u00b7 milavalenti collection",
       "version": "AUD",
       "format": "FLAC"
     },
@@ -1777,7 +1848,8 @@ const ARTIST_DATA = {
       "venue": "Tor 3",
       "notes": "VHS(x)",
       "version": "AUD (48k)",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1992-09-04 - Dusseldorf, DE - Tor 3.txt"
     },
     {
       "year": 1992,
@@ -1801,7 +1873,7 @@ const ARTIST_DATA = {
       "state": "DE",
       "location": "Dusseldorf, DE",
       "venue": "Tor 3",
-      "notes": "VHS(M) · 3-cam mix · bobfather",
+      "notes": "VHS(M) \u00b7 3-cam mix \u00b7 bobfather",
       "version": "AMT",
       "format": "DVD"
     },
@@ -1814,9 +1886,10 @@ const ARTIST_DATA = {
       "state": "NL",
       "location": "Amsterdam, NL",
       "venue": "Paradiso",
-      "notes": "ANA(M) · unk · lutek dabrowski",
+      "notes": "ANA(M) \u00b7 unk \u00b7 lutek dabrowski",
       "version": "AUD #1",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1992-09-05 - Amsterdam, NL - Paradiso.txt"
     },
     {
       "year": 1992,
@@ -1829,7 +1902,8 @@ const ARTIST_DATA = {
       "venue": "Zuiderpark",
       "notes": "Metropolis Festival",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1992-09-06 - Rotterdam, NL - Zuiderpark.txt"
     },
     {
       "year": 1992,
@@ -1840,7 +1914,7 @@ const ARTIST_DATA = {
       "state": "NL",
       "location": "Rotterdam, NL",
       "venue": "Zuiderpark",
-      "notes": "Metropolis Festival · Sony WM-D3 · clogboy2005",
+      "notes": "Metropolis Festival \u00b7 Sony WM-D3 \u00b7 clogboy2005",
       "version": "AUD",
       "format": "FLAC"
     },
@@ -1853,7 +1927,7 @@ const ARTIST_DATA = {
       "state": "NL",
       "location": "Rotterdam, NL",
       "venue": "Zuiderpark (Metropolis Festival)",
-      "notes": "VHS(x) · unk",
+      "notes": "VHS(x) \u00b7 unk",
       "version": "AUD",
       "format": "DVD"
     },
@@ -1866,9 +1940,10 @@ const ARTIST_DATA = {
       "state": "France",
       "location": "Paris, France",
       "venue": "Espace Ornano",
-      "notes": "ANA(2) · WM-D6",
+      "notes": "ANA(2) \u00b7 WM-D6",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1992-09-08 - Paris, France - Espace Ornano.txt"
     },
     {
       "year": 1992,
@@ -1892,9 +1967,10 @@ const ARTIST_DATA = {
       "state": "England",
       "location": "London, England",
       "venue": "Town & Country Club",
-      "notes": "ANA(x) · unk",
+      "notes": "ANA(x) \u00b7 unk",
       "version": "AUD",
-      "format": "SHN"
+      "format": "SHN",
+      "textFile": "1992-09-12 - London, England - Town & Country Club.txt"
     },
     {
       "year": 1992,
@@ -1905,7 +1981,7 @@ const ARTIST_DATA = {
       "state": "England",
       "location": "London, England",
       "venue": "Town & Country Club",
-      "notes": "VHS(4) · nicholas serra",
+      "notes": "VHS(4) \u00b7 nicholas serra",
       "version": "AMT #1",
       "format": "MKV"
     },
@@ -1918,9 +1994,10 @@ const ARTIST_DATA = {
       "state": "GA",
       "location": "Atlanta, GA",
       "venue": "The Point",
-      "notes": "ANA(2) · unk · 1",
+      "notes": "ANA(2) \u00b7 unk \u00b7 1",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1992-12-01 - Atlanta, GA - The Point.txt"
     },
     {
       "year": 1992,
@@ -1931,7 +2008,7 @@ const ARTIST_DATA = {
       "state": "GA",
       "location": "Atlanta, GA",
       "venue": "The Point",
-      "notes": "ANA(2) · unk",
+      "notes": "ANA(2) \u00b7 unk",
       "version": "AUD",
       "format": "FLAC"
     },
@@ -1944,9 +2021,10 @@ const ARTIST_DATA = {
       "state": "GA",
       "location": "Atlanta, GA",
       "venue": "Roxy Theatre",
-      "notes": "Hi8(M) · unk",
+      "notes": "Hi8(M) \u00b7 unk",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1992-12-11 - Atlanta, GA - Roxy Theatre.txt"
     },
     {
       "year": 1993,
@@ -1957,9 +2035,10 @@ const ARTIST_DATA = {
       "state": "GA",
       "location": "Atlanta, GA",
       "venue": "Center Stage",
-      "notes": "ANA(x) · unk",
+      "notes": "ANA(x) \u00b7 unk",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1993-03-15 - Atlanta, GA - Center Stage.txt"
     },
     {
       "year": 1993,
@@ -1983,7 +2062,7 @@ const ARTIST_DATA = {
       "state": "GA",
       "location": "Atlanta, GA",
       "venue": "Center Stage (HD cam)",
-      "notes": "VHS(x) · unk",
+      "notes": "VHS(x) \u00b7 unk",
       "version": "AUD",
       "format": "DVD"
     },
@@ -1998,7 +2077,8 @@ const ARTIST_DATA = {
       "venue": "MTV Studios",
       "notes": "",
       "version": "SBD",
-      "format": "SHN"
+      "format": "SHN",
+      "textFile": "1993-06-22 - London, UK - MTV Studios.txt"
     },
     {
       "year": 1993,
@@ -2009,7 +2089,7 @@ const ARTIST_DATA = {
       "state": "UK",
       "location": "London, UK",
       "venue": "MTV Studios",
-      "notes": "Promotional VHS · cool as ice cream",
+      "notes": "Promotional VHS \u00b7 cool as ice cream",
       "version": "PRO",
       "format": "DVD"
     },
@@ -2024,7 +2104,8 @@ const ARTIST_DATA = {
       "venue": "Studio 105 *Black Sessions",
       "notes": "",
       "version": "Silver CD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1993-06-29 - Paris, France - Studio 105.txt"
     },
     {
       "year": 1993,
@@ -2050,7 +2131,8 @@ const ARTIST_DATA = {
       "venue": "VPRO Radio Studios",
       "notes": "FM>DAT>DDC-2",
       "version": "FM",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1993-06-30 - Hilversum, The Netherlands - VPRO Radio Studios .txt"
     },
     {
       "year": 1993,
@@ -2074,7 +2156,7 @@ const ARTIST_DATA = {
       "state": "The Netherlands",
       "location": "Hilversum, The Netherlands",
       "venue": "VPRO Radio Studios",
-      "notes": "CASS(1) · fredheadset",
+      "notes": "CASS(1) \u00b7 fredheadset",
       "version": "preFM",
       "format": "FLAC"
     },
@@ -2100,9 +2182,10 @@ const ARTIST_DATA = {
       "state": "UK",
       "location": "London, UK",
       "venue": "Raymond Revue Bar (Virgin promo tape)",
-      "notes": "ANA · bmaromar",
+      "notes": "ANA \u00b7 bmaromar",
       "version": "SBD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1993-07-04 - London, UK - Raymond Revue Bar .txt"
     },
     {
       "year": 1993,
@@ -2113,7 +2196,7 @@ const ARTIST_DATA = {
       "state": "UK",
       "location": "London, UK",
       "venue": "Raymond Revue Bar (Virgin promo tape)",
-      "notes": "ANA · bmaromar",
+      "notes": "ANA \u00b7 bmaromar",
       "version": "SBD",
       "format": "FLAC 24"
     },
@@ -2126,9 +2209,10 @@ const ARTIST_DATA = {
       "state": "WI",
       "location": "Milwaukee, WI",
       "venue": "The Unicorn",
-      "notes": "ANA(3) · unk",
+      "notes": "ANA(3) \u00b7 unk",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1993-07-23 - Milwaukee, WI - The Unicorn.txt"
     },
     {
       "year": 1993,
@@ -2139,9 +2223,10 @@ const ARTIST_DATA = {
       "state": "IL",
       "location": "Chicago, IL",
       "venue": "Tower Records SBD/FM>ANA",
-      "notes": "1 · dan elsen",
+      "notes": "1 \u00b7 dan elsen",
       "version": "FM",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1993-07-26 - Chicago, IL - Tower Records.txt"
     },
     {
       "year": 1993,
@@ -2152,7 +2237,7 @@ const ARTIST_DATA = {
       "state": "IL",
       "location": "Chicago, IL",
       "venue": "Tower Records (WXRT 93.1 Broadcast)",
-      "notes": "CASS(M) · pg",
+      "notes": "CASS(M) \u00b7 pg",
       "version": "FM",
       "format": "FLAC"
     },
@@ -2178,9 +2263,10 @@ const ARTIST_DATA = {
       "state": "IL",
       "location": "Chicago, IL",
       "venue": "Metro",
-      "notes": "DAT(M) · ECM-S220 · ziggy",
+      "notes": "DAT(M) \u00b7 ECM-S220 \u00b7 ziggy",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1993-07-28 - Chicago, IL - Metro.txt"
     },
     {
       "year": 1993,
@@ -2204,9 +2290,10 @@ const ARTIST_DATA = {
       "state": "IA",
       "location": "Iowa City, IA",
       "venue": "Gabe's Oasis",
-      "notes": "ANA(1) · unk",
+      "notes": "ANA(1) \u00b7 unk",
       "version": "AUD",
-      "format": "SHN"
+      "format": "SHN",
+      "textFile": "1993-07-30 - Iowa City, IA - Gabe's Oasis.txt"
     },
     {
       "year": 1993,
@@ -2219,7 +2306,8 @@ const ARTIST_DATA = {
       "venue": "Phoenix Center",
       "notes": "unk",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1993-08-07 - Pontiac, MI - Phoenix Center.txt"
     },
     {
       "year": 1993,
@@ -2230,9 +2318,10 @@ const ARTIST_DATA = {
       "state": "IL",
       "location": "Chicago, IL",
       "venue": "Metro",
-      "notes": "DAT>ANA · speed corrected",
+      "notes": "DAT>ANA \u00b7 speed corrected",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1993-08-12 - Chicago, IL - Metro.txt"
     },
     {
       "year": 1993,
@@ -2243,9 +2332,10 @@ const ARTIST_DATA = {
       "state": "IL",
       "location": "Chicago, IL",
       "venue": "Metro",
-      "notes": "ECM-S220 · jb",
+      "notes": "ECM-S220 \u00b7 jb",
       "version": "AUD (48k)",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1993-08-13 - Chicago, IL - Metro.txt"
     },
     {
       "year": 1993,
@@ -2256,7 +2346,7 @@ const ARTIST_DATA = {
       "state": "IL",
       "location": "Chicago, IL",
       "venue": "Metro",
-      "notes": "DAT(M) · ECM-S220",
+      "notes": "DAT(M) \u00b7 ECM-S220",
       "version": "AUD",
       "format": "SHN"
     },
@@ -2269,9 +2359,10 @@ const ARTIST_DATA = {
       "state": "IL",
       "location": "Chicago, IL",
       "venue": "Metro",
-      "notes": "ECM-S220 · jb",
+      "notes": "ECM-S220 \u00b7 jb",
       "version": "AUD (48k)",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1993-08-14 - Chicago, IL - Metro.txt"
     },
     {
       "year": 1993,
@@ -2297,7 +2388,8 @@ const ARTIST_DATA = {
       "venue": "Melody",
       "notes": "FM>ANA(M)",
       "version": "FM",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1993-08-24 - Stockholm, SE - Melody.txt"
     },
     {
       "year": 1993,
@@ -2308,7 +2400,7 @@ const ARTIST_DATA = {
       "state": "SE",
       "location": "Stockholm, SE",
       "venue": "Melody",
-      "notes": "FM>ANA(M) · mforss2001",
+      "notes": "FM>ANA(M) \u00b7 mforss2001",
       "version": "FM",
       "format": "FLAC"
     },
@@ -2334,9 +2426,10 @@ const ARTIST_DATA = {
       "state": "DK",
       "location": "Copenhagen, DK",
       "venue": "Loppen",
-      "notes": "DDC(1) · ECM155 · unk",
+      "notes": "DDC(1) \u00b7 ECM155 \u00b7 unk",
       "version": "AUD #1",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1993-08-25 - Copenhagen, DK - Loppen.txt"
     },
     {
       "year": 1993,
@@ -2349,7 +2442,8 @@ const ARTIST_DATA = {
       "venue": "Lowlands Festival *Drown",
       "notes": "preFM",
       "version": "Silver CD",
-      "format": "SHN"
+      "format": "SHN",
+      "textFile": "1993-08-27 - Dronten, NL - Lowlands Festival.txt"
     },
     {
       "year": 1993,
@@ -2360,9 +2454,10 @@ const ARTIST_DATA = {
       "state": "BE",
       "location": "Hasselt, BE",
       "venue": "Pukkelpop Festival",
-      "notes": "D3>ANA(1) · bocaj rip",
+      "notes": "D3>ANA(1) \u00b7 bocaj rip",
       "version": "AUD",
-      "format": "SHN"
+      "format": "SHN",
+      "textFile": "1993-08-28 - Hasselt, BE - Pukkelpop Festival.txt"
     },
     {
       "year": 1993,
@@ -2373,7 +2468,7 @@ const ARTIST_DATA = {
       "state": "BE",
       "location": "Hasselt, BE",
       "venue": "Pukkelpop Festival D3>ANA",
-      "notes": "1 · speed corrected · bocaj rip",
+      "notes": "1 \u00b7 speed corrected \u00b7 bocaj rip",
       "version": "AUD",
       "format": "FLAC"
     },
@@ -2399,9 +2494,10 @@ const ARTIST_DATA = {
       "state": "DE",
       "location": "Berlin, DE",
       "venue": "Huxley's Neue Welt- ANA",
-      "notes": "? · OKM",
+      "notes": "? \u00b7 OKM",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1993-09-01 - Berlin, DE - Huxley's Neue Welt.txt"
     },
     {
       "year": 1993,
@@ -2412,22 +2508,24 @@ const ARTIST_DATA = {
       "state": "DE",
       "location": "Frankfurt, DE",
       "venue": "Music-Hall",
-      "notes": "VHS(1) · unk · travisbickle1963 transfer",
+      "notes": "VHS(1) \u00b7 unk \u00b7 travisbickle1963 transfer",
       "version": "AMT #1",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1993-09-02 - Frankfurt, Denmark - Music-Hall.txt"
     },
     {
       "year": 1993,
       "month": 9,
       "day": 3,
       "dateStr": "9-3-1993",
-      "city": "München",
+      "city": "M\u00fcnchen",
       "state": "Germany",
-      "location": "München, Germany",
+      "location": "M\u00fcnchen, Germany",
       "venue": "Alabamahalle *Soul Sacrifice",
       "notes": "WBR 94-9600",
       "version": "Silver CD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1993-09-03 - Mu\u0308nchen, Germany - Alabamahalle - Soul Sacrifice [Silver].txt"
     },
     {
       "year": 1993,
@@ -2440,7 +2538,8 @@ const ARTIST_DATA = {
       "venue": "Festa Dell 'Unita",
       "notes": "",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1993-09-05 - Modena, IT - Festa Dell 'Unita.txt"
     },
     {
       "year": 1993,
@@ -2453,7 +2552,8 @@ const ARTIST_DATA = {
       "venue": "Bataclan",
       "notes": "",
       "version": "AUD",
-      "format": "SHN"
+      "format": "SHN",
+      "textFile": "1993-09-08 - Paris, France - Bataclan.txt"
     },
     {
       "year": 1993,
@@ -2466,7 +2566,8 @@ const ARTIST_DATA = {
       "venue": "Muziekcentrum Vredenburg ?>ANA",
       "notes": "x",
       "version": "AUD",
-      "format": "SHN"
+      "format": "SHN",
+      "textFile": "1993-09-09 - Utrecht, NL - Muziekcentrum Vredenburg.txt"
     },
     {
       "year": 1993,
@@ -2479,7 +2580,8 @@ const ARTIST_DATA = {
       "venue": "BBC Studios",
       "notes": "BBC Transcription Services CD",
       "version": "preFM",
-      "format": "SHN"
+      "format": "SHN",
+      "textFile": "1993-09-12 - London, UK - BBC Studios.txt"
     },
     {
       "year": 1993,
@@ -2492,7 +2594,8 @@ const ARTIST_DATA = {
       "venue": "Town & Country Club  ?>ANA",
       "notes": "x",
       "version": "AUD",
-      "format": "SHN"
+      "format": "SHN",
+      "textFile": "1993-09-14 - Leeds, UK - Town & Country Club.txt"
     },
     {
       "year": 1993,
@@ -2505,7 +2608,8 @@ const ARTIST_DATA = {
       "venue": "Academy (BBC Transcription Disc",
       "notes": "TCD",
       "version": "preFM",
-      "format": "SHN"
+      "format": "SHN",
+      "textFile": "1993-09-15 - Manchester, UK - Academy .txt"
     },
     {
       "year": 1993,
@@ -2529,9 +2633,10 @@ const ARTIST_DATA = {
       "state": "UK",
       "location": "Glasgow, UK",
       "venue": "Barrowlands",
-      "notes": "ANA(M) · M · ian rankin",
+      "notes": "ANA(M) \u00b7 M \u00b7 ian rankin",
       "version": "AUD",
-      "format": "SHN"
+      "format": "SHN",
+      "textFile": "1993-09-18 - Glasgow, UK - Barrowlands.txt"
     },
     {
       "year": 1993,
@@ -2542,7 +2647,7 @@ const ARTIST_DATA = {
       "state": "UK",
       "location": "Glasgow, UK",
       "venue": "Barrowlands",
-      "notes": "ANA(M) · M · ian rankin · lordflapjack 2022 remaster",
+      "notes": "ANA(M) \u00b7 M \u00b7 ian rankin \u00b7 lordflapjack 2022 remaster",
       "version": "AUD",
       "format": "FLAC"
     },
@@ -2555,9 +2660,10 @@ const ARTIST_DATA = {
       "state": "UK",
       "location": "Southampton, UK",
       "venue": "Guild Hall",
-      "notes": "VID(2) · traveller03",
+      "notes": "VID(2) \u00b7 traveller03",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1993-09-23 - Southampton, UK - Guild Hall .txt"
     },
     {
       "year": 1993,
@@ -2568,7 +2674,7 @@ const ARTIST_DATA = {
       "state": "UK",
       "location": "Southampton, UK",
       "venue": "Guild Hall",
-      "notes": "VHS(x) · onkel44 reauthor",
+      "notes": "VHS(x) \u00b7 onkel44 reauthor",
       "version": "AUD",
       "format": "DVD"
     },
@@ -2581,9 +2687,10 @@ const ARTIST_DATA = {
       "state": "UK",
       "location": "London, UK",
       "venue": "Brixton Academy",
-      "notes": "ANA(?) · M · unk",
+      "notes": "ANA(?) \u00b7 M \u00b7 unk",
       "version": "AUD",
-      "format": "SHN"
+      "format": "SHN",
+      "textFile": "1993-09-25 - London, UK - Brixton Academy .txt"
     },
     {
       "year": 1993,
@@ -2594,9 +2701,10 @@ const ARTIST_DATA = {
       "state": "MN",
       "location": "Minneapolis, MN",
       "venue": "First Avenue",
-      "notes": "DAT(x) · SS Mics",
+      "notes": "DAT(x) \u00b7 SS Mics",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1993-10-05 - Minneapolis, MN - First Avenue .txt"
     },
     {
       "year": 1993,
@@ -2607,9 +2715,10 @@ const ARTIST_DATA = {
       "state": "IA",
       "location": "Iowa City, IA",
       "venue": "Iowa Memorial Union Ballroom",
-      "notes": "ANA(M) · Walkman",
+      "notes": "ANA(M) \u00b7 Walkman",
       "version": "AUD",
-      "format": "SHN"
+      "format": "SHN",
+      "textFile": "1993-10-06 - Iowa City, IA - Iowa Memorial Union [.txt"
     },
     {
       "year": 1993,
@@ -2620,9 +2729,10 @@ const ARTIST_DATA = {
       "state": "CO",
       "location": "Denver, CO",
       "venue": "Ogden Theater",
-      "notes": "ANA(1) · unk",
+      "notes": "ANA(1) \u00b7 unk",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1993-10-10 - Denver, CO - Ogden Theater .txt"
     },
     {
       "year": 1993,
@@ -2633,7 +2743,7 @@ const ARTIST_DATA = {
       "state": "CO",
       "location": "Denver, CO",
       "venue": "Ogden Theater",
-      "notes": "unk · sxpxdxcx transfer",
+      "notes": "unk \u00b7 sxpxdxcx transfer",
       "version": "AUD",
       "format": "FLAC"
     },
@@ -2646,9 +2756,10 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "San Francisco, CA",
       "venue": "Warfield Theatre",
-      "notes": "Aiwa HS-J470 · cynm",
+      "notes": "Aiwa HS-J470 \u00b7 cynm",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1993-10-18 - San Francisco, CA - Warfield Theatre.txt"
     },
     {
       "year": 1993,
@@ -2672,9 +2783,10 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "San Francisco, CA",
       "venue": "Warfield Theatre",
-      "notes": "ANA(x) · chuck drost",
+      "notes": "ANA(x) \u00b7 chuck drost",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1993-10-19 - San Francisco, CA - Warfield Theatre.txt"
     },
     {
       "year": 1993,
@@ -2685,7 +2797,7 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "San Francisco, CA",
       "venue": "Warfield Theatre",
-      "notes": "ANA(4) · complete · steve hagar",
+      "notes": "ANA(4) \u00b7 complete \u00b7 steve hagar",
       "version": "AUD",
       "format": "FLAC"
     },
@@ -2700,7 +2812,8 @@ const ARTIST_DATA = {
       "venue": "Press Conference",
       "notes": "",
       "version": "Broadcast",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1993-10-20 - Hollywood, CA - Press Conference.txt"
     },
     {
       "year": 1993,
@@ -2713,7 +2826,8 @@ const ARTIST_DATA = {
       "venue": "Palladium",
       "notes": "D3 Master",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1993-10-21 - Hollywood, CA - Palladium.txt"
     },
     {
       "year": 1993,
@@ -2724,7 +2838,7 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "Hollywood, CA",
       "venue": "Palladium",
-      "notes": "ANA(2) · PC-62",
+      "notes": "ANA(2) \u00b7 PC-62",
       "version": "AUD",
       "format": "FLAC"
     },
@@ -2737,7 +2851,7 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "Hollywood, CA",
       "venue": "Palladium",
-      "notes": "ANA(1) · PC-62",
+      "notes": "ANA(1) \u00b7 PC-62",
       "version": "AUD",
       "format": "FLAC"
     },
@@ -2750,9 +2864,10 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "Hollywood, CA",
       "venue": "Palladium",
-      "notes": "ANA(1) · ECM-909",
+      "notes": "ANA(1) \u00b7 ECM-909",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1993-10-22 - Hollywood, CA - Palladium.txt"
     },
     {
       "year": 1993,
@@ -2763,7 +2878,7 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "Hollywood, CA",
       "venue": "Palladium",
-      "notes": "ANA(x) · unk",
+      "notes": "ANA(x) \u00b7 unk",
       "version": "AUD",
       "format": "SHN"
     },
@@ -2776,9 +2891,10 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "Santa Barbera, CA",
       "venue": "UCSB Robertson Gym",
-      "notes": "ANA(1) · ECM-909",
+      "notes": "ANA(1) \u00b7 ECM-909",
       "version": "AUD",
-      "format": "SHN"
+      "format": "SHN",
+      "textFile": "1993-10-23 - Santa Barbera, CA - UCSB Robertson Gym .txt"
     },
     {
       "year": 1993,
@@ -2789,9 +2905,10 @@ const ARTIST_DATA = {
       "state": "AZ",
       "location": "Phoenix, AZ",
       "venue": "Grind",
-      "notes": "ANA(x) · chuck drost",
+      "notes": "ANA(x) \u00b7 chuck drost",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1993-10-25 - Phoenix, AZ - Grind.txt"
     },
     {
       "year": 1993,
@@ -2804,7 +2921,8 @@ const ARTIST_DATA = {
       "venue": "Del Mar Fairgrounds",
       "notes": "Promos",
       "version": "preFM",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1993-10-26 - Del Mar, CA - Del Mar Fairgrounds .txt"
     },
     {
       "year": 1993,
@@ -2815,7 +2933,7 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "Del Mar, CA",
       "venue": "Del Mar Fairgrounds",
-      "notes": "Promos · fixed",
+      "notes": "Promos \u00b7 fixed",
       "version": "preFM",
       "format": "FLAC"
     },
@@ -2854,9 +2972,10 @@ const ARTIST_DATA = {
       "state": "NY",
       "location": "New York, NY",
       "venue": "Rockefeller Center",
-      "notes": "Studio 8-H · Rip from DVD",
+      "notes": "Studio 8-H \u00b7 Rip from DVD",
       "version": "PRO",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1993-10-28 - New York, NY - Rockefeller Center (Studio 8-H).txt"
     },
     {
       "year": 1993,
@@ -2867,7 +2986,7 @@ const ARTIST_DATA = {
       "state": "NY",
       "location": "New York, NY",
       "venue": "Rockefeller Center",
-      "notes": "SNL · unk transfer",
+      "notes": "SNL \u00b7 unk transfer",
       "version": "PRO",
       "format": "DVD"
     },
@@ -2880,9 +2999,10 @@ const ARTIST_DATA = {
       "state": "NY",
       "location": "New York, NY",
       "venue": "Saturday Night Live",
-      "notes": "Beta(M) · unk",
+      "notes": "Beta(M) \u00b7 unk",
       "version": "PRO #1",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1993-10-30 - New York, NY - Saturday Night Live.txt"
     },
     {
       "year": 1993,
@@ -2893,7 +3013,7 @@ const ARTIST_DATA = {
       "state": "NY",
       "location": "New York, NY",
       "venue": "Saturday Night Live",
-      "notes": "Beta(M) · unk",
+      "notes": "Beta(M) \u00b7 unk",
       "version": "PRO",
       "format": "DVD"
     },
@@ -2906,9 +3026,10 @@ const ARTIST_DATA = {
       "state": "TX",
       "location": "Austin, TX",
       "venue": "Liberty Lunch",
-      "notes": "ANA(x) · unk",
+      "notes": "ANA(x) \u00b7 unk",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1993-11-02 - Austin, TX - Liberty Lunch .txt"
     },
     {
       "year": 1993,
@@ -2919,9 +3040,10 @@ const ARTIST_DATA = {
       "state": "NC",
       "location": "Raleigh, NC",
       "venue": "Ritz Theater",
-      "notes": "ANA(x) · unk",
+      "notes": "ANA(x) \u00b7 unk",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1993-11-18 - Raleigh, NC - Ritz Theater.txt"
     },
     {
       "year": 1993,
@@ -2932,9 +3054,10 @@ const ARTIST_DATA = {
       "state": "D.C.",
       "location": "Washington, D.C.",
       "venue": "WUST Music Hall",
-      "notes": "ANA(3) · unk",
+      "notes": "ANA(3) \u00b7 unk",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1993-11-20 - Washington, D.C. - WUST Music Hall.txt"
     },
     {
       "year": 1993,
@@ -2958,7 +3081,7 @@ const ARTIST_DATA = {
       "state": "D.C.",
       "location": "Washington, D.C.",
       "venue": "WUST Music Hall",
-      "notes": "VHS(x) · onerok author",
+      "notes": "VHS(x) \u00b7 onerok author",
       "version": "AUD",
       "format": "DVD"
     },
@@ -2971,9 +3094,10 @@ const ARTIST_DATA = {
       "state": "D.C.",
       "location": "Washington, D.C.",
       "venue": "WUST Music Hall",
-      "notes": "ANA(1) · unk",
+      "notes": "ANA(1) \u00b7 unk",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1993-11-21 - Washington, D.C. - WUST Music Hall.txt"
     },
     {
       "year": 1993,
@@ -2984,7 +3108,7 @@ const ARTIST_DATA = {
       "state": "D.C.",
       "location": "Washington, D.C.",
       "venue": "WUST Music Hall",
-      "notes": "ANA(1) · unk · re-tracked",
+      "notes": "ANA(1) \u00b7 unk \u00b7 re-tracked",
       "version": "AUD",
       "format": "FLAC"
     },
@@ -2997,9 +3121,10 @@ const ARTIST_DATA = {
       "state": "NY",
       "location": "New York, NY",
       "venue": "Roseland Ballroom",
-      "notes": "ANA(1) · mark shafer transfer",
+      "notes": "ANA(1) \u00b7 mark shafer transfer",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1993-11-23 - New York, NY - Roseland Ballroom.txt"
     },
     {
       "year": 1993,
@@ -3010,7 +3135,7 @@ const ARTIST_DATA = {
       "state": "NY",
       "location": "New York, NY",
       "venue": "Roseland Ballroom",
-      "notes": "ANA(1) · ECM-909",
+      "notes": "ANA(1) \u00b7 ECM-909",
       "version": "AUD",
       "format": "FLAC"
     },
@@ -3023,9 +3148,10 @@ const ARTIST_DATA = {
       "state": "NY",
       "location": "New York, NY",
       "venue": "Roseland Ballroom",
-      "notes": "ANA(1) · unk",
+      "notes": "ANA(1) \u00b7 unk",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1993-11-24 - New York, NY - Roseland Ballroom.txt"
     },
     {
       "year": 1993,
@@ -3036,9 +3162,10 @@ const ARTIST_DATA = {
       "state": "QC",
       "location": "Montreal, QC",
       "venue": "Metropolis",
-      "notes": "ANA(2) · M",
+      "notes": "ANA(2) \u00b7 M",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1993-11-30 - Montreal, QC - Metropolis.txt"
     },
     {
       "year": 1993,
@@ -3049,7 +3176,7 @@ const ARTIST_DATA = {
       "state": "QC",
       "location": "Montreal, QC",
       "venue": "Metropolis",
-      "notes": "ANA(1) · PC-62",
+      "notes": "ANA(1) \u00b7 PC-62",
       "version": "AUD",
       "format": "FLAC"
     },
@@ -3062,9 +3189,10 @@ const ARTIST_DATA = {
       "state": "Canada",
       "location": "Toronto, Canada",
       "venue": "Palladium",
-      "notes": "ANA(M) · andymon",
+      "notes": "ANA(M) \u00b7 andymon",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1993-12-01 - Toronto, Canada - Palladium .txt"
     },
     {
       "year": 1993,
@@ -3075,9 +3203,10 @@ const ARTIST_DATA = {
       "state": "MI",
       "location": "Detroit, MI",
       "venue": "State Fairgrounds Coliseum",
-      "notes": "VHS(1) · ash",
+      "notes": "VHS(1) \u00b7 ash",
       "version": "AUD (48k)",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1993-12-03 - Detroit, MI - State Fairgrounds Coliseum.txt"
     },
     {
       "year": 1993,
@@ -3088,9 +3217,10 @@ const ARTIST_DATA = {
       "state": "IL",
       "location": "Chicago, IL",
       "venue": "Aragon Ballroom",
-      "notes": "ANA(M) · unk",
+      "notes": "ANA(M) \u00b7 unk",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1993-12-09 - Chicago, IL - Aragon Ballroom .txt"
     },
     {
       "year": 1993,
@@ -3103,7 +3233,8 @@ const ARTIST_DATA = {
       "venue": "Aragon Ballroom",
       "notes": "inc",
       "version": "SBD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1993-12-10 - Chicago, IL - Aragon Ballroom.txt"
     },
     {
       "year": 1993,
@@ -3114,9 +3245,10 @@ const ARTIST_DATA = {
       "state": "OH",
       "location": "Cincinnati, OH",
       "venue": "Bogart's",
-      "notes": "ANA(3) · jimmy flemion",
+      "notes": "ANA(3) \u00b7 jimmy flemion",
       "version": "SBD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1993-12-11 - Cincinnati, OH - Bogart's .txt"
     },
     {
       "year": 1993,
@@ -3127,9 +3259,10 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "Los Angeles, CA",
       "venue": "Universal Amphitheatre",
-      "notes": "unk · rick bendes transfer",
+      "notes": "unk \u00b7 rick bendes transfer",
       "version": "FM",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1993-12-12 - Los Angeles, CA - Universal Amphitheatre.txt"
     },
     {
       "year": 1993,
@@ -3153,7 +3286,7 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "Los Angeles, CA",
       "venue": "Universal Amphitheatre",
-      "notes": "ANA(M) · muchmusic",
+      "notes": "ANA(M) \u00b7 muchmusic",
       "version": "FM #5",
       "format": "FLAC"
     },
@@ -3168,7 +3301,8 @@ const ARTIST_DATA = {
       "venue": "MTV Studios",
       "notes": "",
       "version": "TV #1",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1993-12-26 - New York, NY - MTV Studios.txt"
     },
     {
       "year": 1994,
@@ -3179,9 +3313,10 @@ const ARTIST_DATA = {
       "state": "Australia",
       "location": "Sydney, Australia",
       "venue": "Selina's",
-      "notes": "ANA(1) · unk",
+      "notes": "ANA(1) \u00b7 unk",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1994-02-01 - Sydney, Australia - Selina's .txt"
     },
     {
       "year": 1994,
@@ -3192,9 +3327,10 @@ const ARTIST_DATA = {
       "state": "Japan",
       "location": "Tokyo, Japan",
       "venue": "Nakano Sun Plaza",
-      "notes": "CASS(M) · Sony Walkman with cheap mic",
+      "notes": "CASS(M) \u00b7 Sony Walkman with cheap mic",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1994-02-09 - Tokyo, Japan - Nakano Sun Plaza .txt"
     },
     {
       "year": 1994,
@@ -3207,7 +3343,8 @@ const ARTIST_DATA = {
       "venue": "Nachtwerk",
       "notes": "",
       "version": "SBD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1994-02-21 - Munich, Germany - Nachtwerk.txt"
     },
     {
       "year": 1994,
@@ -3244,7 +3381,7 @@ const ARTIST_DATA = {
       "state": "Germany",
       "location": "Munich, Germany",
       "venue": "Nachtwerk",
-      "notes": "HDTV · 2025 Re-Broadcast",
+      "notes": "HDTV \u00b7 2025 Re-Broadcast",
       "version": "PRO",
       "format": "TS"
     },
@@ -3257,9 +3394,10 @@ const ARTIST_DATA = {
       "state": "UK",
       "location": "London, UK",
       "venue": "Astoria",
-      "notes": "ANA(x) · unk",
+      "notes": "ANA(x) \u00b7 unk",
       "version": "AUD",
-      "format": "SHN"
+      "format": "SHN",
+      "textFile": "1994-02-23 - London, UK - Astoria .txt"
     },
     {
       "year": 1994,
@@ -3270,7 +3408,7 @@ const ARTIST_DATA = {
       "state": "UK",
       "location": "London, UK",
       "venue": "Astoria",
-      "notes": "Hi8(M) · unk",
+      "notes": "Hi8(M) \u00b7 unk",
       "version": "AMT #1",
       "format": "SHN"
     },
@@ -3283,7 +3421,21 @@ const ARTIST_DATA = {
       "state": "UK",
       "location": "London, UK",
       "venue": "Astoria",
-      "notes": "Hi8(M) · unk",
+      "notes": "Hi8(M) \u00b7 unk",
+      "version": "AMT #1",
+      "format": "FLAC",
+      "textFile": "1994-02-24 - London, UK - Astoria Theatre [AMT #1].txt"
+    },
+    {
+      "year": 1994,
+      "month": 2,
+      "day": 24,
+      "dateStr": "2-24-1994",
+      "city": "London",
+      "state": "UK",
+      "location": "London, UK",
+      "venue": "Astoria",
+      "notes": "Hi8(M) \u00b7 unk \u00b7 master 8 \u00b7 travisbickle1963 transfer",
       "version": "AMT #1",
       "format": "FLAC"
     },
@@ -3296,20 +3448,7 @@ const ARTIST_DATA = {
       "state": "UK",
       "location": "London, UK",
       "venue": "Astoria",
-      "notes": "Hi8(M) · unk · master 8 · travisbickle1963 transfer",
-      "version": "AMT #1",
-      "format": "FLAC"
-    },
-    {
-      "year": 1994,
-      "month": 2,
-      "day": 24,
-      "dateStr": "2-24-1994",
-      "city": "London",
-      "state": "UK",
-      "location": "London, UK",
-      "venue": "Astoria",
-      "notes": "TV>VHS · MTV Europe",
+      "notes": "TV>VHS \u00b7 MTV Europe",
       "version": "PRO",
       "format": "DVD"
     },
@@ -3324,7 +3463,8 @@ const ARTIST_DATA = {
       "venue": "Astoria",
       "notes": "ANA(x)",
       "version": "Silver CD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1994-02-25 - London, UK - Astoria .txt"
     },
     {
       "year": 1994,
@@ -3335,7 +3475,7 @@ const ARTIST_DATA = {
       "state": "UK",
       "location": "London, UK",
       "venue": "Astoria",
-      "notes": "Sony handheld · duncan",
+      "notes": "Sony handheld \u00b7 duncan",
       "version": "AUD",
       "format": "FLAC 24"
     },
@@ -3348,7 +3488,7 @@ const ARTIST_DATA = {
       "state": "UK",
       "location": "London, UK",
       "venue": "Astoria",
-      "notes": "ANA(x) · unk",
+      "notes": "ANA(x) \u00b7 unk",
       "version": "AUD",
       "format": "FLAC"
     },
@@ -3374,9 +3514,10 @@ const ARTIST_DATA = {
       "state": "UK",
       "location": "London, UK",
       "venue": "Astoria",
-      "notes": "VHS(4) · dan elsen transfer",
+      "notes": "VHS(4) \u00b7 dan elsen transfer",
       "version": "AMT",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1994-02-26 - London, UK - Astoria .txt"
     },
     {
       "year": 1994,
@@ -3387,7 +3528,7 @@ const ARTIST_DATA = {
       "state": "UK",
       "location": "London, UK",
       "venue": "Astoria",
-      "notes": "Channel 4 TV · inc",
+      "notes": "Channel 4 TV \u00b7 inc",
       "version": "PRO #1b",
       "format": "DVD"
     },
@@ -3402,7 +3543,8 @@ const ARTIST_DATA = {
       "venue": "Sala Apolo",
       "notes": "inc",
       "version": "FM",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1994-03-04 - Barcelona, ES - Sala Apolo.txt"
     },
     {
       "year": 1994,
@@ -3413,7 +3555,7 @@ const ARTIST_DATA = {
       "state": "ES",
       "location": "Barcelona, ES",
       "venue": "Sala Apolo",
-      "notes": "VHS(M) · inc",
+      "notes": "VHS(M) \u00b7 inc",
       "version": "PRO #2",
       "format": "DVD"
     },
@@ -3426,9 +3568,10 @@ const ARTIST_DATA = {
       "state": "IL",
       "location": "Normal, IL",
       "venue": "Redbird Arena (soundcheck included)",
-      "notes": "ANA(1) · Microcassette",
+      "notes": "ANA(1) \u00b7 Microcassette",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1994-03-23 - Normal, IL - Redbird Arena.txt"
     },
     {
       "year": 1994,
@@ -3439,7 +3582,7 @@ const ARTIST_DATA = {
       "state": "IL",
       "location": "Normal, IL",
       "venue": "Redbird Arena",
-      "notes": "DAT(M) · ECM-S220",
+      "notes": "DAT(M) \u00b7 ECM-S220",
       "version": "AUD",
       "format": "SHN"
     },
@@ -3452,7 +3595,7 @@ const ARTIST_DATA = {
       "state": "IL",
       "location": "Normal, IL",
       "venue": "Redbird Arena",
-      "notes": "Sony D-3 · ECM-S220 · jb",
+      "notes": "Sony D-3 \u00b7 ECM-S220 \u00b7 jb",
       "version": "AUD (48k)",
       "format": "FLAC"
     },
@@ -3465,7 +3608,7 @@ const ARTIST_DATA = {
       "state": "IL",
       "location": "Normal, IL",
       "venue": "Redbird Arena",
-      "notes": "ANA(M) · unk",
+      "notes": "ANA(M) \u00b7 unk",
       "version": "AUD",
       "format": "FLAC"
     },
@@ -3478,9 +3621,10 @@ const ARTIST_DATA = {
       "state": "IL",
       "location": "Carbondale, IL",
       "venue": "Southern IL University Arena",
-      "notes": "VHS(3) · serra transfer",
+      "notes": "VHS(3) \u00b7 serra transfer",
       "version": "AMT #1",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1994-03-24 - Carbondale, IL - Southern IL University Arena.txt"
     },
     {
       "year": 1994,
@@ -3504,9 +3648,10 @@ const ARTIST_DATA = {
       "state": "IA",
       "location": "Davenport, IA",
       "venue": "Palmer Auditorium",
-      "notes": "upgrade · SS-DSM-6P · blg",
+      "notes": "upgrade \u00b7 SS-DSM-6P \u00b7 blg",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1994-03-25 - Davenport, IA - Palmer Auditorium.txt"
     },
     {
       "year": 1994,
@@ -3517,7 +3662,7 @@ const ARTIST_DATA = {
       "state": "IA",
       "location": "Davenport, IA",
       "venue": "Palmer Auditorium",
-      "notes": "SS mic · unk",
+      "notes": "SS mic \u00b7 unk",
       "version": "AUD",
       "format": "SHN"
     },
@@ -3530,9 +3675,10 @@ const ARTIST_DATA = {
       "state": "KS",
       "location": "Kansas City, KS",
       "venue": "Memorial Hall",
-      "notes": "DAT(M) · SS DSM",
+      "notes": "DAT(M) \u00b7 SS DSM",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1994-03-27 - Kansas City, KS - Memorial Hall.txt"
     },
     {
       "year": 1994,
@@ -3543,7 +3689,7 @@ const ARTIST_DATA = {
       "state": "KS",
       "location": "Kansas City, KS",
       "venue": "Memorial Hall",
-      "notes": "ANA(x) · SS · unk",
+      "notes": "ANA(x) \u00b7 SS \u00b7 unk",
       "version": "AUD",
       "format": "FLAC"
     },
@@ -3556,9 +3702,10 @@ const ARTIST_DATA = {
       "state": "MO",
       "location": "Springfield, MO",
       "venue": "University Plaza Convention Center",
-      "notes": "DAT(M) · M · SS DSM",
+      "notes": "DAT(M) \u00b7 M \u00b7 SS DSM",
       "version": "AUD",
-      "format": "SHN"
+      "format": "SHN",
+      "textFile": "1994-03-28 - Springfield, MO - University Plaza Convention Center .txt"
     },
     {
       "year": 1994,
@@ -3569,9 +3716,10 @@ const ARTIST_DATA = {
       "state": "TX",
       "location": "Austin, TX",
       "venue": "Southpark Meadows",
-      "notes": "ANA(4) · CSB",
+      "notes": "ANA(4) \u00b7 CSB",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1994-04-01 - Austin, TX - Southpark Meadows.txt"
     },
     {
       "year": 1994,
@@ -3582,9 +3730,10 @@ const ARTIST_DATA = {
       "state": "TX",
       "location": "San Antonio, TX",
       "venue": "Sunken Gardens Theater",
-      "notes": "ANA(1) · Aiwa Walkman",
+      "notes": "ANA(1) \u00b7 Aiwa Walkman",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1994-04-02 - San Antonio, TX - Sunken Gardens Theater .txt"
     },
     {
       "year": 1994,
@@ -3595,9 +3744,10 @@ const ARTIST_DATA = {
       "state": "AR",
       "location": "Little Rock, AR",
       "venue": "Convention Center",
-      "notes": "ANA(x) · unk",
+      "notes": "ANA(x) \u00b7 unk",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1994-04-05 - Little Rock, AR - Convention Center .txt"
     },
     {
       "year": 1994,
@@ -3608,9 +3758,10 @@ const ARTIST_DATA = {
       "state": "MS",
       "location": "Oxford, MS",
       "venue": "Tad Smith Coliseum",
-      "notes": "ANA(M) · spence fletcher",
+      "notes": "ANA(M) \u00b7 spence fletcher",
       "version": "AUD #1",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1994-04-06 - Oxford, MS - Tad Smith Coliseum.txt"
     },
     {
       "year": 1994,
@@ -3621,9 +3772,10 @@ const ARTIST_DATA = {
       "state": "MS",
       "location": "Biloxi, MS",
       "venue": "Gulfcoast Coliseum",
-      "notes": "DAT(M) · SS-DSM6s · jj",
+      "notes": "DAT(M) \u00b7 SS-DSM6s \u00b7 jj",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1994-04-08 - Biloxi, MS - Gulfcoast Coliseum.txt"
     },
     {
       "year": 1994,
@@ -3647,7 +3799,7 @@ const ARTIST_DATA = {
       "state": "MS",
       "location": "Biloxi, MS",
       "venue": "Gulfcoast Coliseum",
-      "notes": "Hi8(M) · willsalas",
+      "notes": "Hi8(M) \u00b7 willsalas",
       "version": "AUD",
       "format": "DVD"
     },
@@ -3662,7 +3814,8 @@ const ARTIST_DATA = {
       "venue": "Leon County Civic Center",
       "notes": "ANA(1)",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1994-04-09 - Tallahassee, FL - Leon County Civic Center.txt"
     },
     {
       "year": 1994,
@@ -3673,7 +3826,7 @@ const ARTIST_DATA = {
       "state": "FL",
       "location": "Tallahassee, FL",
       "venue": "Leon County Civic Center",
-      "notes": "Nakamichi DR3 · floridian",
+      "notes": "Nakamichi DR3 \u00b7 floridian",
       "version": "AUD",
       "format": "FLAC"
     },
@@ -3701,7 +3854,8 @@ const ARTIST_DATA = {
       "venue": "Township Auditorium",
       "notes": "ANA(2)",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1994-04-10 - Columbia, SC - Township Auditorium.txt"
     },
     {
       "year": 1994,
@@ -3727,7 +3881,8 @@ const ARTIST_DATA = {
       "venue": "Memorial Gym",
       "notes": "SS-DSM-6",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1994-04-12 - Nashville, TN - Memorial Gym.txt"
     },
     {
       "year": 1994,
@@ -3740,7 +3895,8 @@ const ARTIST_DATA = {
       "venue": "William & Mary Hall",
       "notes": "AUD>VID(x)",
       "version": "AUD",
-      "format": "SHN"
+      "format": "SHN",
+      "textFile": "1994-04-15 - Williamsburg, VA - William & Mary Hall .txt"
     },
     {
       "year": 1994,
@@ -3753,7 +3909,8 @@ const ARTIST_DATA = {
       "venue": "Rockwell Hall",
       "notes": "ANA(2)",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1994-04-17 - Buffalo, NY - Rockwell Hall.txt"
     },
     {
       "year": 1994,
@@ -3764,7 +3921,7 @@ const ARTIST_DATA = {
       "state": "NY",
       "location": "Buffalo, NY",
       "venue": "Rockwell Hall",
-      "notes": "ANA(2) · lordflapjack 2022 remaster",
+      "notes": "ANA(2) \u00b7 lordflapjack 2022 remaster",
       "version": "AUD",
       "format": "FLAC"
     },
@@ -3790,9 +3947,10 @@ const ARTIST_DATA = {
       "state": "NY",
       "location": "Albany, NY",
       "venue": "R.A.C.C.",
-      "notes": "VID(M) · jason roth",
+      "notes": "VID(M) \u00b7 jason roth",
       "version": "AUD",
-      "format": "SHN"
+      "format": "SHN",
+      "textFile": "1994-04-18 - Albany, NY - R.A.C.C. .txt"
     },
     {
       "year": 1994,
@@ -3803,7 +3961,7 @@ const ARTIST_DATA = {
       "state": "NY",
       "location": "Albany, NY",
       "venue": "R.A.C.C.",
-      "notes": "Hi8(M) · unk",
+      "notes": "Hi8(M) \u00b7 unk",
       "version": "AUD",
       "format": "DVD"
     },
@@ -3818,7 +3976,8 @@ const ARTIST_DATA = {
       "venue": "CCBC Golden Dome",
       "notes": "CSB",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1994-04-21 - Pittsburgh, PA CCBC Golden Dome .txt"
     },
     {
       "year": 1994,
@@ -3829,9 +3988,10 @@ const ARTIST_DATA = {
       "state": "MI",
       "location": "East Lansing, MI",
       "venue": "Breslin Center",
-      "notes": "ANA(3) · unk",
+      "notes": "ANA(3) \u00b7 unk",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1994-04-22 - East Lansing, MI - Breslin Center .txt"
     },
     {
       "year": 1994,
@@ -3842,9 +4002,10 @@ const ARTIST_DATA = {
       "state": "WI",
       "location": "Milwaukee, WI",
       "venue": "Eagles Ballroom",
-      "notes": "ANA(2) · M",
+      "notes": "ANA(2) \u00b7 M",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1994-04-26 - Milwaukee, WI - Eagles Ballroom.txt"
     },
     {
       "year": 1994,
@@ -3855,9 +4016,10 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "San Francisco, CA",
       "venue": "The Fillmore",
-      "notes": "DAT(x) · SS Mic · unk",
+      "notes": "DAT(x) \u00b7 SS Mic \u00b7 unk",
       "version": "AUD #1",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1994-04-27 - San Francisco, CA - The Fillmore.txt"
     },
     {
       "year": 1994,
@@ -3893,10 +4055,11 @@ const ARTIST_DATA = {
       "city": "Nurburg",
       "state": "DE",
       "location": "Nurburg, DE",
-      "venue": "Nürburgring",
-      "notes": "SS · unk",
+      "venue": "N\u00fcrburgring",
+      "notes": "SS \u00b7 unk",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1994-05-22 - Nurburg, DE - Nu\u0308rburgring .txt"
     },
     {
       "year": 1994,
@@ -3909,7 +4072,8 @@ const ARTIST_DATA = {
       "venue": "Megaland",
       "notes": "",
       "version": "AUD",
-      "format": "SHN"
+      "format": "SHN",
+      "textFile": "1994-05-23 - Landgraaf, NL - Megaland.txt"
     },
     {
       "year": 1994,
@@ -3959,7 +4123,7 @@ const ARTIST_DATA = {
       "state": "NL",
       "location": "Landgraaf, NL",
       "venue": "Pinkpop Festival",
-      "notes": "DAT(M) · TCD-D3",
+      "notes": "DAT(M) \u00b7 TCD-D3",
       "version": "FM",
       "format": "FLAC"
     },
@@ -3974,7 +4138,8 @@ const ARTIST_DATA = {
       "venue": "Double Door (Aiwa Walkman)",
       "notes": "ANA(M)",
       "version": "AUD",
-      "format": "SHN"
+      "format": "SHN",
+      "textFile": "1994-06-18 - Chicago, IL - Double Door .txt"
     },
     {
       "year": 1994,
@@ -3985,9 +4150,10 @@ const ARTIST_DATA = {
       "state": "NV",
       "location": "Las Vegas, NV",
       "venue": "Sam Boyd Stadium (Early) (MTV Broadcast Interview)",
-      "notes": "VHS(x) · stumpycat",
+      "notes": "VHS(x) \u00b7 stumpycat",
       "version": "TV",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1994-07-07 - Las Vegas, NV - Sam Boyd Stadium.txt"
     },
     {
       "year": 1994,
@@ -4024,9 +4190,10 @@ const ARTIST_DATA = {
       "state": "CO",
       "location": "Englewood, CO",
       "venue": "Fiddler's Green Amphitheater (Lollapalooza)",
-      "notes": "ANA(M) · Sony WM-F2401",
+      "notes": "ANA(M) \u00b7 Sony WM-F2401",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1994-07-09 - Englewood, CO - Fiddler's Green Amphitheater.txt"
     },
     {
       "year": 1994,
@@ -4037,9 +4204,10 @@ const ARTIST_DATA = {
       "state": "MN",
       "location": "St. Paul, MN",
       "venue": "Harriet Island (Lollapalooza)",
-      "notes": "DDC(x) · SS mic",
+      "notes": "DDC(x) \u00b7 SS mic",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1994-07-12 - St. Paul, MN - Harriet's Island.txt"
     },
     {
       "year": 1994,
@@ -4050,7 +4218,7 @@ const ARTIST_DATA = {
       "state": "MN",
       "location": "St. Paul, MN",
       "venue": "Harriet Island (Lollapalooza)",
-      "notes": "DDC(x) · SS/D7",
+      "notes": "DDC(x) \u00b7 SS/D7",
       "version": "AUD",
       "format": "SHN"
     },
@@ -4065,7 +4233,8 @@ const ARTIST_DATA = {
       "venue": "Marcus Amphitheater (Lollapalooza)",
       "notes": "ANA(2)",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1994-07-14 - MIlwaukee, WI - Marcus Amphitheater .txt"
     },
     {
       "year": 1994,
@@ -4076,9 +4245,10 @@ const ARTIST_DATA = {
       "state": "IL",
       "location": "Tinley Park, IL",
       "venue": "World Music Theater  (Lollapalooza)",
-      "notes": "DDC(x) · SS-DSM3",
+      "notes": "DDC(x) \u00b7 SS-DSM3",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1994-07-16 - Tinley Park, IL - World Music Theater.txt"
     },
     {
       "year": 1994,
@@ -4089,9 +4259,10 @@ const ARTIST_DATA = {
       "state": "IN",
       "location": "Indianapolis, IN",
       "venue": "Deer Creek Music Center  (Lollapalooza)",
-      "notes": "DDC(1) · DSM-6",
+      "notes": "DDC(1) \u00b7 DSM-6",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1994-07-22 - Indianapolis, IN - Deer Creek Music Center .txt"
     },
     {
       "year": 1994,
@@ -4102,9 +4273,10 @@ const ARTIST_DATA = {
       "state": "MI",
       "location": "Clarkston, MI",
       "venue": "Pine Knob Amphitheater  (Lollapalooza)",
-      "notes": "ANA(M) · Walkman · chris rees",
+      "notes": "ANA(M) \u00b7 Walkman \u00b7 chris rees",
       "version": "AUD",
-      "format": "SHN"
+      "format": "SHN",
+      "textFile": "1994-07-25 - Clarkston, MI - Pine Knob Amphitheater.txt"
     },
     {
       "year": 1994,
@@ -4117,7 +4289,8 @@ const ARTIST_DATA = {
       "venue": "Le Parc des Iles  (Lollapalooza)",
       "notes": "VID(x)",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1994-07-27 - Montreal, Canada - Le Parc des Iles .txt"
     },
     {
       "year": 1994,
@@ -4128,9 +4301,10 @@ const ARTIST_DATA = {
       "state": "Ontario",
       "location": "Barrie, Ontario",
       "venue": "Molson Park (Lollapalooza)",
-      "notes": "ANA(2) · M",
+      "notes": "ANA(2) \u00b7 M",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1994-07-28 - Barrie, Ontario - Molson Park.txt"
     },
     {
       "year": 1994,
@@ -4143,7 +4317,8 @@ const ARTIST_DATA = {
       "venue": "Star Lake Amphitheater (Lollapalooza) (AMT)",
       "notes": "VHS(2)",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1994-07-30 - Burgettstown, PA - Star Lake Amphitheater .txt"
     },
     {
       "year": 1994,
@@ -4154,9 +4329,10 @@ const ARTIST_DATA = {
       "state": "PA",
       "location": "Philadelphia, PA",
       "venue": "FDR Park (Lollapalooza)",
-      "notes": "ANA(M) · Aiwa",
+      "notes": "ANA(M) \u00b7 Aiwa",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1994-08-01 - Philadelphia, PA - FDR Park.txt"
     },
     {
       "year": 1994,
@@ -4167,7 +4343,7 @@ const ARTIST_DATA = {
       "state": "PA",
       "location": "Philadelphia, PA",
       "venue": "FDR Park (Lollapalooza)",
-      "notes": "VHS(3) · dan elsen",
+      "notes": "VHS(3) \u00b7 dan elsen",
       "version": "AMT #1",
       "format": "FLAC"
     },
@@ -4180,7 +4356,7 @@ const ARTIST_DATA = {
       "state": "PA",
       "location": "Philadelphia, PA",
       "venue": "FDR Park",
-      "notes": "Lollapalooza · 8mm · joe burns + nick · copperpot compilation",
+      "notes": "Lollapalooza \u00b7 8mm \u00b7 joe burns + nick \u00b7 copperpot compilation",
       "version": "MIX",
       "format": "FLAC"
     },
@@ -4193,7 +4369,7 @@ const ARTIST_DATA = {
       "state": "PA",
       "location": "Philadelphia, PA",
       "venue": "FDR Park",
-      "notes": "Lollapalooza · 2 cam · pilgrams progress master",
+      "notes": "Lollapalooza \u00b7 2 cam \u00b7 pilgrams progress master",
       "version": "MIX",
       "format": "DVD"
     },
@@ -4208,7 +4384,8 @@ const ARTIST_DATA = {
       "venue": "Saratoga Raceway (Lollapalooza)",
       "notes": "ANA(2)",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1994-08-02 - Saratoga Springs, NY - Saratoga Raceway .txt"
     },
     {
       "year": 1994,
@@ -4219,7 +4396,35 @@ const ARTIST_DATA = {
       "state": "RI",
       "location": "North Kingston, RI",
       "venue": "Quesonet Airport (Lollapalooza)",
-      "notes": "ANA(4) · ECM-909",
+      "notes": "ANA(4) \u00b7 ECM-909",
+      "version": "AUD",
+      "format": "FLAC",
+      "textFile": "1994-08-03 - North Kingston, RI - Quesonet Airport .txt"
+    },
+    {
+      "year": 1994,
+      "month": 8,
+      "day": 5,
+      "dateStr": "8-5-1994",
+      "city": "New York",
+      "state": "NY",
+      "location": "New York, NY",
+      "venue": "Downing Stadium (Lollapalooza)",
+      "notes": "DDC(x) \u00b7 CSB \u00b7 unk",
+      "version": "AUD",
+      "format": "FLAC",
+      "textFile": "1994-08-05 - New York, NY - Downing Stadium.txt"
+    },
+    {
+      "year": 1994,
+      "month": 8,
+      "day": 5,
+      "dateStr": "8-5-1994",
+      "city": "New York",
+      "state": "NY",
+      "location": "New York, NY",
+      "venue": "Downing Stadium (Lollapalooza)",
+      "notes": "DDC(x) \u00b7 CSB \u00b7 unk \u00b7 patched",
       "version": "AUD",
       "format": "FLAC"
     },
@@ -4232,33 +4437,7 @@ const ARTIST_DATA = {
       "state": "NY",
       "location": "New York, NY",
       "venue": "Downing Stadium (Lollapalooza)",
-      "notes": "DDC(x) · CSB · unk",
-      "version": "AUD",
-      "format": "FLAC"
-    },
-    {
-      "year": 1994,
-      "month": 8,
-      "day": 5,
-      "dateStr": "8-5-1994",
-      "city": "New York",
-      "state": "NY",
-      "location": "New York, NY",
-      "venue": "Downing Stadium (Lollapalooza)",
-      "notes": "DDC(x) · CSB · unk · patched",
-      "version": "AUD",
-      "format": "FLAC"
-    },
-    {
-      "year": 1994,
-      "month": 8,
-      "day": 5,
-      "dateStr": "8-5-1994",
-      "city": "New York",
-      "state": "NY",
-      "location": "New York, NY",
-      "venue": "Downing Stadium (Lollapalooza)",
-      "notes": "ANA(3) · unk",
+      "notes": "ANA(3) \u00b7 unk",
       "version": "AUD",
       "format": "FLAC"
     },
@@ -4271,9 +4450,10 @@ const ARTIST_DATA = {
       "state": "NY",
       "location": "New York, NY",
       "venue": "Downing Stadium (Lollapalooza)",
-      "notes": "VID(1) · M1",
+      "notes": "VID(1) \u00b7 M1",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1994-08-06 - New York, NY - Downing Stadium .txt"
     },
     {
       "year": 1994,
@@ -4284,7 +4464,7 @@ const ARTIST_DATA = {
       "state": "NY",
       "location": "New York, NY",
       "venue": "Downing Stadium (Lollapalooza)",
-      "notes": "VID(x) · josh provost",
+      "notes": "VID(x) \u00b7 josh provost",
       "version": "AUD",
       "format": "DVD"
     },
@@ -4297,9 +4477,10 @@ const ARTIST_DATA = {
       "state": "WV",
       "location": "Charles Town, WV",
       "venue": "CT Raceway (Lollapalooza)",
-      "notes": "ANA(1) · unk",
+      "notes": "ANA(1) \u00b7 unk",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1994-08-08 - Charles Town, WV - CT Raceway.txt"
     },
     {
       "year": 1994,
@@ -4310,7 +4491,7 @@ const ARTIST_DATA = {
       "state": "WV",
       "location": "Charles Town, WV",
       "venue": "CT Raceway (Lollapalooza)",
-      "notes": "ANA(M) · mono mic · unk · inc",
+      "notes": "ANA(M) \u00b7 mono mic \u00b7 unk \u00b7 inc",
       "version": "AUD",
       "format": "FLAC"
     },
@@ -4323,9 +4504,10 @@ const ARTIST_DATA = {
       "state": "NC",
       "location": "Raleigh, NC",
       "venue": "Walnut Creek Amphitheater (Lollapalooza)",
-      "notes": "ANA(4) · ECM-909a",
+      "notes": "ANA(4) \u00b7 ECM-909a",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1994-08-10 - Raleigh, NC - Walnut Creek Amphitheater .txt"
     },
     {
       "year": 1994,
@@ -4336,7 +4518,35 @@ const ARTIST_DATA = {
       "state": "NC",
       "location": "Charlotte, NC",
       "venue": "Blockbuster Pavilion (Lollapalooza)",
-      "notes": "MD(2) · ECM-909a",
+      "notes": "MD(2) \u00b7 ECM-909a",
+      "version": "AUD",
+      "format": "FLAC",
+      "textFile": "1994-08-11 - Charlotte, NC - Blockbuster Pavilion.txt"
+    },
+    {
+      "year": 1994,
+      "month": 8,
+      "day": 15,
+      "dateStr": "8-15-1994",
+      "city": "Miami",
+      "state": "FL",
+      "location": "Miami, FL",
+      "venue": "Bayfront Amphitheater (Lollapalooza)",
+      "notes": "DAT(M) \u00b7 SS-DSM-6P \u00b7 datfly",
+      "version": "AUD",
+      "format": "FLAC",
+      "textFile": "1994-08-15 - Miami, FL - Bayfront Amphitheater.txt"
+    },
+    {
+      "year": 1994,
+      "month": 8,
+      "day": 15,
+      "dateStr": "8-15-1994",
+      "city": "Miami",
+      "state": "FL",
+      "location": "Miami, FL",
+      "venue": "Bayfront Amphitheater (Lollapalooza)",
+      "notes": "ANA(1) \u00b7 unk",
       "version": "AUD",
       "format": "FLAC"
     },
@@ -4349,33 +4559,7 @@ const ARTIST_DATA = {
       "state": "FL",
       "location": "Miami, FL",
       "venue": "Bayfront Amphitheater (Lollapalooza)",
-      "notes": "DAT(M) · SS-DSM-6P · datfly",
-      "version": "AUD",
-      "format": "FLAC"
-    },
-    {
-      "year": 1994,
-      "month": 8,
-      "day": 15,
-      "dateStr": "8-15-1994",
-      "city": "Miami",
-      "state": "FL",
-      "location": "Miami, FL",
-      "venue": "Bayfront Amphitheater (Lollapalooza)",
-      "notes": "ANA(1) · unk",
-      "version": "AUD",
-      "format": "FLAC"
-    },
-    {
-      "year": 1994,
-      "month": 8,
-      "day": 15,
-      "dateStr": "8-15-1994",
-      "city": "Miami",
-      "state": "FL",
-      "location": "Miami, FL",
-      "venue": "Bayfront Amphitheater (Lollapalooza)",
-      "notes": "AUD>DAT>ANA(1) · chuck drost",
+      "notes": "AUD>DAT>ANA(1) \u00b7 chuck drost",
       "version": "AUD",
       "format": "FLAC"
     },
@@ -4388,9 +4572,10 @@ const ARTIST_DATA = {
       "state": "TX",
       "location": "Dallas, TX",
       "venue": "Starplex Amphitheater (Lollapalooza)",
-      "notes": "DAT(M) · ECM-155 · smores",
+      "notes": "DAT(M) \u00b7 ECM-155 \u00b7 smores",
       "version": "AUD (48k)",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1994-08-20 - Dallas, TX - Starplex Amphitheater .txt"
     },
     {
       "year": 1994,
@@ -4401,9 +4586,10 @@ const ARTIST_DATA = {
       "state": "TX",
       "location": "Dallas, TX",
       "venue": "Starplex Amphitheater (Lollapalooza)",
-      "notes": "DAT(M) · SS-DSM-6 · smores",
+      "notes": "DAT(M) \u00b7 SS-DSM-6 \u00b7 smores",
       "version": "AUD (48k)",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1994-08-21 - Dallas, TX - Starplex Amphitheater.txt"
     },
     {
       "year": 1994,
@@ -4414,7 +4600,7 @@ const ARTIST_DATA = {
       "state": "TX",
       "location": "Dallas, TX",
       "venue": "Starplex Amphitheater (Lollapalooza)",
-      "notes": "DDC(1) · DSM-6 · unk",
+      "notes": "DDC(1) \u00b7 DSM-6 \u00b7 unk",
       "version": "AUD",
       "format": "FLAC"
     },
@@ -4427,9 +4613,10 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "San Diego, CA",
       "venue": "SDSU Aztec Bowl (Lollapalooza)",
-      "notes": "VID(1) · M · mono · unk",
+      "notes": "VID(1) \u00b7 M \u00b7 mono \u00b7 unk",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1994-08-25 - San Diego, CA - SDSU Aztec Bowl .txt"
     },
     {
       "year": 1994,
@@ -4440,7 +4627,7 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "San Diego, CA",
       "venue": "SDSU Aztec Bowl (Lollapalooza)",
-      "notes": "VHS(x) · unk",
+      "notes": "VHS(x) \u00b7 unk",
       "version": "AUD",
       "format": "DVD"
     },
@@ -4453,9 +4640,10 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "Mountain View, CA",
       "venue": "Shoreline Amphitheater",
-      "notes": "Lollapalooza · CSB · unk",
+      "notes": "Lollapalooza \u00b7 CSB \u00b7 unk",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1994-08-27 - Mountain View, CA - Shoreline Amphitheater .txt"
     },
     {
       "year": 1994,
@@ -4466,7 +4654,7 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "Mountain View, CA",
       "venue": "Shoreline Amphitheater",
-      "notes": "Lollapalooza · unk handheld · neekrive",
+      "notes": "Lollapalooza \u00b7 unk handheld \u00b7 neekrive",
       "version": "AUD",
       "format": "FLAC"
     },
@@ -4492,9 +4680,10 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "Mountain View, CA",
       "venue": "Shoreline Amphitheater",
-      "notes": "Lollapalooza · SS-DSM-6P · steve hagar",
+      "notes": "Lollapalooza \u00b7 SS-DSM-6P \u00b7 steve hagar",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1994-08-28 - Mountain View, CA - Shoreline Amphitheater.txt"
     },
     {
       "year": 1994,
@@ -4505,7 +4694,7 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "Mountain View, CA",
       "venue": "Shoreline Amphitheater (Lollapalooza)",
-      "notes": "DDC(x) · DSM-6 · unk",
+      "notes": "DDC(x) \u00b7 DSM-6 \u00b7 unk",
       "version": "AUD",
       "format": "SHN"
     },
@@ -4518,7 +4707,7 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "Mountain View, CA",
       "venue": "Shoreline Amphitheater (Lollapalooza)",
-      "notes": "ANA(2) · unk",
+      "notes": "ANA(2) \u00b7 unk",
       "version": "AUD",
       "format": "FLAC"
     },
@@ -4533,7 +4722,8 @@ const ARTIST_DATA = {
       "venue": "Gorge Amphitheater (Lollapalooza)",
       "notes": "MD(2?)",
       "version": "AUD",
-      "format": "SHN"
+      "format": "SHN",
+      "textFile": "1994-08-31 - George, WA - Gorge Amphitheater.txt"
     },
     {
       "year": 1994,
@@ -4544,9 +4734,10 @@ const ARTIST_DATA = {
       "state": "WA",
       "location": "George, WA",
       "venue": "Gorge Amphitheater (Lollapalooza)",
-      "notes": "ANA(M) · Sony ECM-909 · travis stanley",
+      "notes": "ANA(M) \u00b7 Sony ECM-909 \u00b7 travis stanley",
       "version": "AUD #1",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1994-09-01 - George, WA - Gorge Amphitheater.txt"
     },
     {
       "year": 1994,
@@ -4557,9 +4748,10 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "Carson, CA",
       "venue": "Velodrome Field",
-      "notes": "Lollapalooza · D3 Cassette Master",
+      "notes": "Lollapalooza \u00b7 D3 Cassette Master",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1994-09-04 - Carson, CA - Velodrome Field.txt"
     },
     {
       "year": 1994,
@@ -4570,7 +4762,7 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "Carson, CA",
       "venue": "Velodrome Field (Lollapalooza)",
-      "notes": "DDC(x) · 1",
+      "notes": "DDC(x) \u00b7 1",
       "version": "AUD",
       "format": "FLAC"
     },
@@ -4583,9 +4775,10 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "Carson, CA",
       "venue": "Velodrome Field (Lollapalooza)",
-      "notes": "DAT(M) · unk · mz transfer",
+      "notes": "DAT(M) \u00b7 unk \u00b7 mz transfer",
       "version": "AUD #1",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1994-09-05 - Carson, CA - Velodrome Field.txt"
     },
     {
       "year": 1994,
@@ -4596,9 +4789,10 @@ const ARTIST_DATA = {
       "state": "NY",
       "location": "New York, NY",
       "venue": "Radio City Music Hall",
-      "notes": "MTV · x",
+      "notes": "MTV \u00b7 x",
       "version": "PRO #1a",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1994-09-08 - New York, NY - MTV Music Awards.txt"
     },
     {
       "year": 1994,
@@ -4609,7 +4803,7 @@ const ARTIST_DATA = {
       "state": "NY",
       "location": "New York, NY",
       "venue": "Radio City Music Hall",
-      "notes": "MTV · x",
+      "notes": "MTV \u00b7 x",
       "version": "TV",
       "format": "DVD"
     },
@@ -4622,9 +4816,10 @@ const ARTIST_DATA = {
       "state": "IL",
       "location": "Chicago, IL",
       "venue": "Double Door",
-      "notes": "ANA(x) · unk · fogelsong transfer",
+      "notes": "ANA(x) \u00b7 unk \u00b7 fogelsong transfer",
       "version": "AUD #1",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1995-02-21 - Chicago, IL - Double Door.txt"
     },
     {
       "year": 1995,
@@ -4635,7 +4830,7 @@ const ARTIST_DATA = {
       "state": "IL",
       "location": "Chicago, IL",
       "venue": "Double Door",
-      "notes": "DDC(1) · Beyer Dynamics>D7 · fogelsong transfer",
+      "notes": "DDC(1) \u00b7 Beyer Dynamics>D7 \u00b7 fogelsong transfer",
       "version": "AUD #2",
       "format": "FLAC"
     },
@@ -4648,7 +4843,7 @@ const ARTIST_DATA = {
       "state": "IL",
       "location": "Chicago, IL",
       "venue": "Double Door",
-      "notes": "AUD/L · dan elsen edit",
+      "notes": "AUD/L \u00b7 dan elsen edit",
       "version": "AUD",
       "format": "FLAC"
     },
@@ -4663,7 +4858,8 @@ const ARTIST_DATA = {
       "venue": "Double Door",
       "notes": "ANA(x)",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1995-02-27 - Chicago, IL - Double Door.txt"
     },
     {
       "year": 1995,
@@ -4687,9 +4883,10 @@ const ARTIST_DATA = {
       "state": "IL",
       "location": "Chicago, IL",
       "venue": "Double Door",
-      "notes": "ANA(M) · Realistic · mike devitt",
+      "notes": "ANA(M) \u00b7 Realistic \u00b7 mike devitt",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1995-02-28 - Chicago, IL - Double Door.txt"
     },
     {
       "year": 1995,
@@ -4715,7 +4912,8 @@ const ARTIST_DATA = {
       "venue": "SFX Centre (CSB)",
       "notes": "ANA(2)",
       "version": "AUD #1",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1995-08-23 - Dublin, Ireland - SFX Centre.txt"
     },
     {
       "year": 1995,
@@ -4726,9 +4924,10 @@ const ARTIST_DATA = {
       "state": "UK",
       "location": "Reading, UK",
       "venue": "Reading Festival (MTV Broadcast Interview)",
-      "notes": "VHS(x) · stumpycat",
+      "notes": "VHS(x) \u00b7 stumpycat",
       "version": "PRO #1",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1995-08-25 - Reading, UK - Reading Festival.txt"
     },
     {
       "year": 1995,
@@ -4752,7 +4951,7 @@ const ARTIST_DATA = {
       "state": "UK",
       "location": "Reading, UK",
       "venue": "Reading Festival",
-      "notes": "AUD>DAT>ANA-L · simon misfud",
+      "notes": "AUD>DAT>ANA-L \u00b7 simon misfud",
       "version": "AUD #1",
       "format": "FLAC"
     },
@@ -4765,7 +4964,7 @@ const ARTIST_DATA = {
       "state": "UK",
       "location": "Reading, UK",
       "venue": "Reading Festival",
-      "notes": "ANA(M) · mr. inxsive",
+      "notes": "ANA(M) \u00b7 mr. inxsive",
       "version": "AUD",
       "format": "FLAC"
     },
@@ -4778,7 +4977,7 @@ const ARTIST_DATA = {
       "state": "UK",
       "location": "Reading, UK",
       "venue": "Reading Festival",
-      "notes": "ANA(M) · Sony ECM-909",
+      "notes": "ANA(M) \u00b7 Sony ECM-909",
       "version": "AUD",
       "format": "FLAC"
     },
@@ -4804,7 +5003,7 @@ const ARTIST_DATA = {
       "state": "UK",
       "location": "Reading, UK",
       "venue": "Reading Festival",
-      "notes": "thir13en remaster · preFM + AUD",
+      "notes": "thir13en remaster \u00b7 preFM + AUD",
       "version": "MIX",
       "format": "FLAC"
     },
@@ -4817,9 +5016,10 @@ const ARTIST_DATA = {
       "state": "BE",
       "location": "Kiewit, BE",
       "venue": "Kempische Steenweg",
-      "notes": "ANA(1) · ECM-909",
+      "notes": "ANA(1) \u00b7 ECM-909",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1995-08-26 - Kiewit, BE - Kempische Steenweg.txt"
     },
     {
       "year": 1995,
@@ -4832,7 +5032,8 @@ const ARTIST_DATA = {
       "venue": "WKQX-FM Studios FM>ANA(M) (patched with ANA(2))",
       "notes": "",
       "version": "FM",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1995-10-08 - Chicago, IL - WKQX-FM Studios.txt"
     },
     {
       "year": 1995,
@@ -4856,9 +5057,10 @@ const ARTIST_DATA = {
       "state": "IL",
       "location": "Peoria, IL",
       "venue": "Madison Theater",
-      "notes": "ANA(M) · unk",
+      "notes": "ANA(M) \u00b7 unk",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1995-10-19 - Peoria, IL - Madison Theater.txt"
     },
     {
       "year": 1995,
@@ -4869,9 +5071,10 @@ const ARTIST_DATA = {
       "state": "IL",
       "location": "Dekalb, IL",
       "venue": "Duke Ellington Ballroom",
-      "notes": "ANA(M) · Walkman",
+      "notes": "ANA(M) \u00b7 Walkman",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1995-10-20 - Dekalb, IL - Duke Ellington Ballroom.txt"
     },
     {
       "year": 1995,
@@ -4884,7 +5087,8 @@ const ARTIST_DATA = {
       "venue": "Riviera Theatre FM>Silver *Starlight",
       "notes": "Moonraker 028/029",
       "version": "Silver CD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1995-10-23 - Chicago, IL - Riviera Theatre.txt"
     },
     {
       "year": 1995,
@@ -4908,7 +5112,7 @@ const ARTIST_DATA = {
       "state": "IL",
       "location": "Chicago, IL",
       "venue": "Riviera Theatre",
-      "notes": "DAT(M) · Sony D-3 · jb · WXRT-FM",
+      "notes": "DAT(M) \u00b7 Sony D-3 \u00b7 jb \u00b7 WXRT-FM",
       "version": "FM (48k)",
       "format": "FLAC"
     },
@@ -4921,7 +5125,7 @@ const ARTIST_DATA = {
       "state": "IL",
       "location": "Chicago, IL",
       "venue": "Riviera Theatre",
-      "notes": "WBRU-FM · GOSS017",
+      "notes": "WBRU-FM \u00b7 GOSS017",
       "version": "Silver CD",
       "format": "FLAC"
     },
@@ -4947,7 +5151,7 @@ const ARTIST_DATA = {
       "state": "IL",
       "location": "Chicago, IL",
       "venue": "Riviera Theatre",
-      "notes": "WBCN 104.1 Boston · gladnostrd19",
+      "notes": "WBCN 104.1 Boston \u00b7 gladnostrd19",
       "version": "FM",
       "format": "FLAC"
     },
@@ -4973,9 +5177,10 @@ const ARTIST_DATA = {
       "state": "NY",
       "location": "New York, NY",
       "venue": "NBC Studios",
-      "notes": "SNL · from *Twilight bootleg",
+      "notes": "SNL \u00b7 from *Twilight bootleg",
       "version": "PRO #1",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1995-11-11 - New York City, NY - Saturday Night Live, NBC Studios.txt"
     },
     {
       "year": 1995,
@@ -4999,7 +5204,7 @@ const ARTIST_DATA = {
       "state": "NY",
       "location": "New York, NY",
       "venue": "NBC Studios",
-      "notes": "SNL · 2 · unk",
+      "notes": "SNL \u00b7 2 \u00b7 unk",
       "version": "TV",
       "format": "MKV"
     },
@@ -5014,7 +5219,8 @@ const ARTIST_DATA = {
       "venue": "Q101 Studios *Love Is Suicide",
       "notes": "CONV 003",
       "version": "Silver CD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1995-12-03 - Chicago, IL - Q101 Studios.txt"
     },
     {
       "year": 1995,
@@ -5027,7 +5233,8 @@ const ARTIST_DATA = {
       "venue": "Canal+ (Official VHS Promo",
       "notes": "Virgin",
       "version": "TV",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1995-12-10 Paris, FR - Canal+.txt"
     },
     {
       "year": 1995,
@@ -5053,7 +5260,8 @@ const ARTIST_DATA = {
       "venue": "Canal+ (unk) *could be 12-10-1995",
       "notes": "",
       "version": "TV",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1995-12-11 - Paris, FR - Canal+.txt"
     },
     {
       "year": 1995,
@@ -5077,9 +5285,10 @@ const ARTIST_DATA = {
       "state": "The Netherlands",
       "location": "Amsterdam, The Netherlands",
       "venue": "Melkweg",
-      "notes": "Dutch · magnix",
+      "notes": "Dutch \u00b7 magnix",
       "version": "FM",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1995-12-12 - Amsterdam, The Netherlands - Melkweg.txt"
     },
     {
       "year": 1995,
@@ -5103,7 +5312,7 @@ const ARTIST_DATA = {
       "state": "The Netherlands",
       "location": "Amsterdam, The Netherlands",
       "venue": "Melkweg",
-      "notes": "DAT(1) · ECM-909A",
+      "notes": "DAT(1) \u00b7 ECM-909A",
       "version": "AUD",
       "format": "FLAC"
     },
@@ -5129,7 +5338,7 @@ const ARTIST_DATA = {
       "state": "The Netherlands",
       "location": "Amsterdam, The Netherlands",
       "venue": "Melkweg",
-      "notes": "TV>VHS(x) · Source 2",
+      "notes": "TV>VHS(x) \u00b7 Source 2",
       "version": "PRO",
       "format": "DVD"
     },
@@ -5155,9 +5364,10 @@ const ARTIST_DATA = {
       "state": "ON",
       "location": "Toronto, ON",
       "venue": "Phoenix",
-      "notes": "DDC(3) · Sennheiser MKE2002 · unk",
+      "notes": "DDC(3) \u00b7 Sennheiser MKE2002 \u00b7 unk",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1996-01-02 - Toronto, ON - Phoenix.txt"
     },
     {
       "year": 1996,
@@ -5181,7 +5391,7 @@ const ARTIST_DATA = {
       "state": "ON",
       "location": "Toronto, ON",
       "venue": "Phoenix",
-      "notes": "VHS(x) · xdarcyx transfer",
+      "notes": "VHS(x) \u00b7 xdarcyx transfer",
       "version": "AUD",
       "format": "DVD"
     },
@@ -5194,9 +5404,10 @@ const ARTIST_DATA = {
       "state": "ON",
       "location": "Toronto, ON",
       "venue": "Phoenix",
-      "notes": "DDC(3) · Sennheiser MKE2002 · unk",
+      "notes": "DDC(3) \u00b7 Sennheiser MKE2002 \u00b7 unk",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1996-01-03 - Toronto, ON - Phoenix.txt"
     },
     {
       "year": 1996,
@@ -5207,7 +5418,7 @@ const ARTIST_DATA = {
       "state": "ON",
       "location": "Toronto, ON",
       "venue": "Phoenix",
-      "notes": "VHS(x) · unk · 2024 transfer",
+      "notes": "VHS(x) \u00b7 unk \u00b7 2024 transfer",
       "version": "AMT #1",
       "format": "FLAC"
     },
@@ -5220,9 +5431,10 @@ const ARTIST_DATA = {
       "state": "D.C.",
       "location": "Washington, D.C.",
       "venue": "9:30 Club",
-      "notes": "ANA(M) · M · DSM-6S",
+      "notes": "ANA(M) \u00b7 M \u00b7 DSM-6S",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1996-01-05 - Washington, DC - 930 Club .txt"
     },
     {
       "year": 1996,
@@ -5233,9 +5445,10 @@ const ARTIST_DATA = {
       "state": "D.C.",
       "location": "Washington, D.C.",
       "venue": "9:30 Club",
-      "notes": "VID(1) · unk · dan elsen transfer",
+      "notes": "VID(1) \u00b7 unk \u00b7 dan elsen transfer",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1996-01-06 - Washington, DC - 930 Club .txt"
     },
     {
       "year": 1996,
@@ -5246,7 +5459,7 @@ const ARTIST_DATA = {
       "state": "D.C.",
       "location": "Washington, D.C.",
       "venue": "9:30 Club",
-      "notes": "DAT(x) · SS Mics · nicholas serra transfer",
+      "notes": "DAT(x) \u00b7 SS Mics \u00b7 nicholas serra transfer",
       "version": "AUD #1",
       "format": "FLAC 24"
     },
@@ -5274,7 +5487,8 @@ const ARTIST_DATA = {
       "venue": "Academy",
       "notes": "CSB",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1996-01-12 - New York, NY - Academy.txt"
     },
     {
       "year": 1996,
@@ -5298,9 +5512,10 @@ const ARTIST_DATA = {
       "state": "NY",
       "location": "New York, NY",
       "venue": "Academy",
-      "notes": "ANA(3) · unk",
+      "notes": "ANA(3) \u00b7 unk",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1996-01-13 - New York, NY - Academy .txt"
     },
     {
       "year": 1996,
@@ -5311,9 +5526,10 @@ const ARTIST_DATA = {
       "state": "Brazil",
       "location": "Rio de Janeiro, Brazil",
       "venue": "Praca Apoteose",
-      "notes": "VHS(M) · unk",
+      "notes": "VHS(M) \u00b7 unk",
       "version": "PRO",
-      "format": "DVD"
+      "format": "DVD",
+      "textFile": "1996-01-26 - Rio de Janeiro, Brazil - Praca Apoteose.txt"
     },
     {
       "year": 1996,
@@ -5326,7 +5542,8 @@ const ARTIST_DATA = {
       "venue": "Apoteose *Vast Oceans",
       "notes": "FLD1002",
       "version": "Silver CD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1996-01-27 - Rio de Janeiro, Brazil - Apoteose.txt"
     },
     {
       "year": 1996,
@@ -5352,7 +5569,8 @@ const ARTIST_DATA = {
       "venue": "Shrine Auditorium",
       "notes": "American",
       "version": "TV",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1996-01-29 - Los Angeles, CA - Shrine Auditorium .txt"
     },
     {
       "year": 1996,
@@ -5363,7 +5581,7 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "Los Angeles, CA",
       "venue": "Shrine Auditorium",
-      "notes": "American · 1 · feartotrad1075",
+      "notes": "American \u00b7 1 \u00b7 feartotrad1075",
       "version": "TV",
       "format": "MPG"
     },
@@ -5376,9 +5594,10 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "San Diego, CA",
       "venue": "Soma",
-      "notes": "CSB · unk",
+      "notes": "CSB \u00b7 unk",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1996-01-30 - San Diego, CA - Soma.txt"
     },
     {
       "year": 1996,
@@ -5389,9 +5608,10 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "San Diego, CA",
       "venue": "Soma",
-      "notes": "CSB · unk",
+      "notes": "CSB \u00b7 unk",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1996-01-31 - San Diego, CA - Soma .txt"
     },
     {
       "year": 1996,
@@ -5404,7 +5624,8 @@ const ARTIST_DATA = {
       "venue": "Palace",
       "notes": "SS-DSM-6",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1996-02-02 - Los Angeles, CA - Palace .txt"
     },
     {
       "year": 1996,
@@ -5415,7 +5636,7 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "Los Angeles, CA",
       "venue": "Palace",
-      "notes": "ANA(M) · ijwthstd",
+      "notes": "ANA(M) \u00b7 ijwthstd",
       "version": "AUD",
       "format": "FLAC"
     },
@@ -5428,7 +5649,7 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "Los Angeles, CA",
       "venue": "Palace",
-      "notes": "2024 remaster · lordflapjack",
+      "notes": "2024 remaster \u00b7 lordflapjack",
       "version": "AUD",
       "format": "FLAC"
     },
@@ -5443,7 +5664,8 @@ const ARTIST_DATA = {
       "venue": "Palace",
       "notes": "Schoeps",
       "version": "AUD",
-      "format": "SHN"
+      "format": "SHN",
+      "textFile": "1996-02-03 - Los Angeles, CA - Palace .txt"
     },
     {
       "year": 1996,
@@ -5454,9 +5676,10 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "Hollywood, CA",
       "venue": "Palace",
-      "notes": "DAT(x) · unk · dave asselin",
+      "notes": "DAT(x) \u00b7 unk \u00b7 dave asselin",
       "version": "AUD #1",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1996-02-04 - Hollywood, CA - Palace.txt"
     },
     {
       "year": 1996,
@@ -5467,7 +5690,35 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "San Francisco, CA",
       "venue": "Kezar Pavilion",
-      "notes": "CSB · unk",
+      "notes": "CSB \u00b7 unk",
+      "version": "AUD",
+      "format": "FLAC",
+      "textFile": "1996-02-06 - San Francisco, CA - Kezar Pavilion.txt"
+    },
+    {
+      "year": 1996,
+      "month": 2,
+      "day": 7,
+      "dateStr": "2-7-1996",
+      "city": "San Francisco",
+      "state": "CA",
+      "location": "San Francisco, CA",
+      "venue": "Kezar Pavilion",
+      "notes": "CSB \u00b7 unk",
+      "version": "AUD",
+      "format": "FLAC",
+      "textFile": "1996-02-07 - San Francisco, CA - Kezar Pavilion.txt"
+    },
+    {
+      "year": 1996,
+      "month": 2,
+      "day": 7,
+      "dateStr": "2-7-1996",
+      "city": "San Francisco",
+      "state": "CA",
+      "location": "San Francisco, CA",
+      "venue": "Kezar Pavilion",
+      "notes": "DAT(M) \u00b7 Core Sounds \u00b7 smores",
       "version": "AUD",
       "format": "FLAC"
     },
@@ -5480,33 +5731,7 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "San Francisco, CA",
       "venue": "Kezar Pavilion",
-      "notes": "CSB · unk",
-      "version": "AUD",
-      "format": "FLAC"
-    },
-    {
-      "year": 1996,
-      "month": 2,
-      "day": 7,
-      "dateStr": "2-7-1996",
-      "city": "San Francisco",
-      "state": "CA",
-      "location": "San Francisco, CA",
-      "venue": "Kezar Pavilion",
-      "notes": "DAT(M) · Core Sounds · smores",
-      "version": "AUD",
-      "format": "FLAC"
-    },
-    {
-      "year": 1996,
-      "month": 2,
-      "day": 7,
-      "dateStr": "2-7-1996",
-      "city": "San Francisco",
-      "state": "CA",
-      "location": "San Francisco, CA",
-      "venue": "Kezar Pavilion",
-      "notes": "VHS(x) · unk · xdx transfer",
+      "notes": "VHS(x) \u00b7 unk \u00b7 xdx transfer",
       "version": "AUD",
       "format": "DVD"
     },
@@ -5521,7 +5746,8 @@ const ARTIST_DATA = {
       "venue": "KNDD Studios",
       "notes": "FM>DAT",
       "version": "FM",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1996-02-08 - Seattle, WA - KNDD Studios.txt"
     },
     {
       "year": 1996,
@@ -5534,7 +5760,8 @@ const ARTIST_DATA = {
       "venue": "Moore Theater",
       "notes": "SS-DSM6",
       "version": "AUD #1",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1996-02-09 - Seattle, WA - Moore Theater.txt"
     },
     {
       "year": 1996,
@@ -5558,9 +5785,10 @@ const ARTIST_DATA = {
       "state": "WA",
       "location": "Seattle, WA",
       "venue": "Moore Theater",
-      "notes": "DAT(3) · SS mic",
+      "notes": "DAT(3) \u00b7 SS mic",
       "version": "AUD #1",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1996-02-10 - Seattle, WA - Moore Theater.txt"
     },
     {
       "year": 1996,
@@ -5571,7 +5799,7 @@ const ARTIST_DATA = {
       "state": "WA",
       "location": "Seattle, WA",
       "venue": "Moore Theater",
-      "notes": "Sonic Studios · unk · 2013 transfer",
+      "notes": "Sonic Studios \u00b7 unk \u00b7 2013 transfer",
       "version": "AUD #1",
       "format": "FLAC"
     },
@@ -5584,9 +5812,10 @@ const ARTIST_DATA = {
       "state": "Japan",
       "location": "Tokyo, Japan",
       "venue": "Shibuyo Kokaido",
-      "notes": "DAT(x) · inc",
+      "notes": "DAT(x) \u00b7 inc",
       "version": "TV",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1996-02-27 - Tokyo, Japan - Shibuyo Kokaido .txt"
     },
     {
       "year": 1996,
@@ -5597,9 +5826,10 @@ const ARTIST_DATA = {
       "state": "TH",
       "location": "Bangkok, TH",
       "venue": "Thai-Japan Bangkok Metropolitan Youth Centre",
-      "notes": "ANA(1) · Walkman · d4",
+      "notes": "ANA(1) \u00b7 Walkman \u00b7 d4",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1996-02-29 - Bangkok, TH - Thai-Japan Bangkok Metropolitan Youth Centre .txt"
     },
     {
       "year": 1996,
@@ -5610,9 +5840,10 @@ const ARTIST_DATA = {
       "state": "Australia",
       "location": "Perth, Australia",
       "venue": "Entertainment Centre",
-      "notes": "ANA(M) · ECM-909a · franger",
+      "notes": "ANA(M) \u00b7 ECM-909a \u00b7 franger",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1996-03-04 - Perth, Australia - Entertainment Centre .txt"
     },
     {
       "year": 1996,
@@ -5623,9 +5854,10 @@ const ARTIST_DATA = {
       "state": "Australia",
       "location": "Melbourne, Australia",
       "venue": "Entertainment Centre",
-      "notes": "ANA(x) · SS-DSM6",
+      "notes": "ANA(x) \u00b7 SS-DSM6",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1996-03-09 - Melbourne, Australia - Entertainment Centre.txt"
     },
     {
       "year": 1996,
@@ -5638,7 +5870,8 @@ const ARTIST_DATA = {
       "venue": "JJJ Studios *Tune in, Turn on, Rawk Out",
       "notes": "MOONRAKER 115",
       "version": "Silver CD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1996-03-13 - Sydney, Australia - JJJ Studios.txt"
     },
     {
       "year": 1996,
@@ -5649,7 +5882,7 @@ const ARTIST_DATA = {
       "state": "Australia",
       "location": "Sydney, Australia",
       "venue": "JJJ Studios",
-      "notes": "Request · 1 · 1",
+      "notes": "Request \u00b7 1 \u00b7 1",
       "version": "FM",
       "format": "FLAC"
     },
@@ -5690,7 +5923,8 @@ const ARTIST_DATA = {
       "venue": "Ahoy *Thank You for Participating",
       "notes": "BCCD 78652-2500-2",
       "version": "Silver CD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1996-04-03 - Rotterdam, NL - Ahoy .txt"
     },
     {
       "year": 1996,
@@ -5701,9 +5935,10 @@ const ARTIST_DATA = {
       "state": "The Netherlands",
       "location": "Rotterdam, The Netherlands",
       "venue": "Ahoy",
-      "notes": "ANA(M) · Coresound Stealth",
+      "notes": "ANA(M) \u00b7 Coresound Stealth",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1996-04-03 - Rotterdam, The Netherlands - Ahoy - ANA(M) (Coresound Stealth) [AUD].txt"
     },
     {
       "year": 1996,
@@ -5716,7 +5951,8 @@ const ARTIST_DATA = {
       "venue": "Ahoy",
       "notes": "ECM-909a",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1996-04-05 - Rotterdam, NL - Ahoy .txt"
     },
     {
       "year": 1996,
@@ -5727,9 +5963,10 @@ const ARTIST_DATA = {
       "state": "The Netherlands",
       "location": "Rotterdam, The Netherlands",
       "venue": "Ahoy",
-      "notes": "ANA(M) · MKE40",
+      "notes": "ANA(M) \u00b7 MKE40",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1996-04-05 - Rotterdam, The Netherlands - Ahoy - ANA(M) (MKE40) [AUD].txt"
     },
     {
       "year": 1996,
@@ -5740,9 +5977,10 @@ const ARTIST_DATA = {
       "state": "BE",
       "location": "Gent, BE",
       "venue": "Flanders Expo",
-      "notes": "VID-L · brewer",
+      "notes": "VID-L \u00b7 brewer",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1996-04-06 - Gent, BE - Flanders Expo.txt"
     },
     {
       "year": 1996,
@@ -5766,7 +6004,7 @@ const ARTIST_DATA = {
       "state": "BE",
       "location": "Gent, BE",
       "venue": "Flanders Expo",
-      "notes": "VHS(x) · unk",
+      "notes": "VHS(x) \u00b7 unk",
       "version": "AUD",
       "format": "DVD"
     },
@@ -5781,7 +6019,8 @@ const ARTIST_DATA = {
       "venue": "Philipshalle *We Salute You Naked Man",
       "notes": "TV",
       "version": "Silver CD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1996-04-07 - Dusseldorf, Germany - Philipshalle.txt"
     },
     {
       "year": 1996,
@@ -5792,7 +6031,7 @@ const ARTIST_DATA = {
       "state": "Germany",
       "location": "Dusseldorf, Germany",
       "venue": "Philipshalle",
-      "notes": "TV>VHS(M) · tobin stewart author",
+      "notes": "TV>VHS(M) \u00b7 tobin stewart author",
       "version": "PRO",
       "format": "DVD"
     },
@@ -5805,9 +6044,10 @@ const ARTIST_DATA = {
       "state": "DK",
       "location": "Copenhagen, DK",
       "venue": "KB Hallen",
-      "notes": "ECM-155 · fogelsong",
+      "notes": "ECM-155 \u00b7 fogelsong",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1996-04-09 - Copenhagen, DK - KB Hallen.txt"
     },
     {
       "year": 1996,
@@ -5818,7 +6058,7 @@ const ARTIST_DATA = {
       "state": "DK",
       "location": "Copenhagen, DK",
       "venue": "KB Hallen",
-      "notes": "DAT(2) · ECM-155 · mz transfer",
+      "notes": "DAT(2) \u00b7 ECM-155 \u00b7 mz transfer",
       "version": "AUD #1",
       "format": "FLAC"
     },
@@ -5844,9 +6084,10 @@ const ARTIST_DATA = {
       "state": "Sweden",
       "location": "Stockholm, Sweden",
       "venue": "Johanneshovs Isstadion",
-      "notes": "ANA(M) · Aiwa HS-JS215",
+      "notes": "ANA(M) \u00b7 Aiwa HS-JS215",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1996-04-10 - Stockholm, Sweden - Johanneshovs Isstadion.txt"
     },
     {
       "year": 1996,
@@ -5857,7 +6098,7 @@ const ARTIST_DATA = {
       "state": "Sweden",
       "location": "Stockholm, Sweden",
       "venue": "Johanneshovs Isstadion",
-      "notes": "ANA(M) · Aiwa HS-JS215 · weez",
+      "notes": "ANA(M) \u00b7 Aiwa HS-JS215 \u00b7 weez",
       "version": "AUD #1",
       "format": "FLAC 24"
     },
@@ -5872,7 +6113,8 @@ const ARTIST_DATA = {
       "venue": "Spektrum *Beautiful As The Sun",
       "notes": "",
       "version": "Silver CD",
-      "format": "SHN"
+      "format": "SHN",
+      "textFile": "1996-04-12 - Oslo, Norway - Spektrum.txt"
     },
     {
       "year": 1996,
@@ -5896,9 +6138,10 @@ const ARTIST_DATA = {
       "state": "Germany",
       "location": "Hamburg, Germany",
       "venue": "Alsterdorfer Sporthalle",
-      "notes": "DAT(2) · SS-DSM6",
+      "notes": "DAT(2) \u00b7 SS-DSM6",
       "version": "AUD",
-      "format": "SHN"
+      "format": "SHN",
+      "textFile": "1996-04-14 - Hamburg, Germany - Alsterdorfer Sporthalle .txt"
     },
     {
       "year": 1996,
@@ -5911,7 +6154,8 @@ const ARTIST_DATA = {
       "venue": "Arena *Berlin Bullet",
       "notes": "MOONRAKER 124/25",
       "version": "Silver CD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1996-04-15 - Berlin, Germany - Arena.txt"
     },
     {
       "year": 1996,
@@ -5922,7 +6166,7 @@ const ARTIST_DATA = {
       "state": "Germany",
       "location": "Berlin, Germany",
       "venue": "Arena",
-      "notes": "DAT(2) · SS-DSM-6",
+      "notes": "DAT(2) \u00b7 SS-DSM-6",
       "version": "AUD",
       "format": "FLAC"
     },
@@ -5935,9 +6179,10 @@ const ARTIST_DATA = {
       "state": "DE",
       "location": "Hannover, DE",
       "venue": "Musikhalle",
-      "notes": "DAT(M) · SS mic",
+      "notes": "DAT(M) \u00b7 SS mic",
       "version": "AUD",
-      "format": "SHN"
+      "format": "SHN",
+      "textFile": "1996-04-16 - Hannover, DE - Musikhalle .txt"
     },
     {
       "year": 1996,
@@ -5948,9 +6193,10 @@ const ARTIST_DATA = {
       "state": "DE",
       "location": "Offenbach, DE",
       "venue": "Stadthalle",
-      "notes": "DAT(M) · Aiwa HD-S 200 · ECM-909-LT · milavalenti",
+      "notes": "DAT(M) \u00b7 Aiwa HD-S 200 \u00b7 ECM-909-LT \u00b7 milavalenti",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1996-04-18 - Offenbach, DE - Stadthalle .txt"
     },
     {
       "year": 1996,
@@ -5961,9 +6207,10 @@ const ARTIST_DATA = {
       "state": "Germany",
       "location": "Stuttgart, Germany",
       "venue": "Messe-Congresscentrum B",
-      "notes": "VHS(M) · inc",
+      "notes": "VHS(M) \u00b7 inc",
       "version": "FM",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1996-04-19 - Stuttgart, Germany - Messe-Congresscentrum B.txt"
     },
     {
       "year": 1996,
@@ -5974,7 +6221,7 @@ const ARTIST_DATA = {
       "state": "Germany",
       "location": "Stuttgart, Germany",
       "venue": "Messe-Congresscentrum B",
-      "notes": "VHS(M) · inc",
+      "notes": "VHS(M) \u00b7 inc",
       "version": "FM",
       "format": "FLAC 24"
     },
@@ -5987,7 +6234,7 @@ const ARTIST_DATA = {
       "state": "Germany",
       "location": "Stuttgart, Germany",
       "venue": "Messe-Congresscentrum B",
-      "notes": "ECM-939-LT · milaventi",
+      "notes": "ECM-939-LT \u00b7 milaventi",
       "version": "AUD",
       "format": "FLAC"
     },
@@ -6013,9 +6260,10 @@ const ARTIST_DATA = {
       "state": "Italy",
       "location": "Milan, Italy",
       "venue": "Palatrussardi",
-      "notes": "DDC(4) · unk",
+      "notes": "DDC(4) \u00b7 unk",
       "version": "FM",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1996-04-24 - Milan, Italy - Palatrussardi.txt"
     },
     {
       "year": 1996,
@@ -6026,7 +6274,7 @@ const ARTIST_DATA = {
       "state": "Italy",
       "location": "Milan, Italy",
       "venue": "Palatrussardi",
-      "notes": "Hi8(M) · pluscenti",
+      "notes": "Hi8(M) \u00b7 pluscenti",
       "version": "AMT #1",
       "format": "FLAC"
     },
@@ -6039,9 +6287,10 @@ const ARTIST_DATA = {
       "state": "France",
       "location": "Lyon, France",
       "venue": "Halle Tony Garnier",
-      "notes": "DAT(1) · Marantz EM-8",
+      "notes": "DAT(1) \u00b7 Marantz EM-8",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1996-04-27 - Lyon, France - Halle Tony Garnier .txt"
     },
     {
       "year": 1996,
@@ -6051,10 +6300,11 @@ const ARTIST_DATA = {
       "city": "Nantes",
       "state": "France",
       "location": "Nantes, France",
-      "venue": "La Trocardière",
-      "notes": "DAT(1) · Marantz EM-8",
+      "venue": "La Trocardi\u00e8re",
+      "notes": "DAT(1) \u00b7 Marantz EM-8",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1996-04-28 - Nantes, France - La Trocardie\u0300re.txt"
     },
     {
       "year": 1996,
@@ -6065,9 +6315,10 @@ const ARTIST_DATA = {
       "state": "ES",
       "location": "Barcelona, ES",
       "venue": "Palacio de Deportes",
-      "notes": "EMC909A · unk",
+      "notes": "EMC909A \u00b7 unk",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1996-04-30 - Barcelona, ES - Palacio de Deportes .txt"
     },
     {
       "year": 1996,
@@ -6078,9 +6329,10 @@ const ARTIST_DATA = {
       "state": "Portugal",
       "location": "Lisbon, Portugal",
       "venue": "Cascais Arena",
-      "notes": "ANA(M) · unk",
+      "notes": "ANA(M) \u00b7 unk",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1996-05-02 - Lisbon, Portugal - Cascais Arena.txt"
     },
     {
       "year": 1996,
@@ -6093,7 +6345,8 @@ const ARTIST_DATA = {
       "venue": "La Nave SBD>VHS",
       "notes": "1",
       "version": "PRO #1a",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1996-05-03 - Madrid, ES - La Nave .txt"
     },
     {
       "year": 1996,
@@ -6117,9 +6370,10 @@ const ARTIST_DATA = {
       "state": "ES",
       "location": "Madrid, ES",
       "venue": "Parque del Soto (Festimad)",
-      "notes": "ANA(M) · Sony mic",
+      "notes": "ANA(M) \u00b7 Sony mic",
       "version": "AUD",
-      "format": "SHN"
+      "format": "SHN",
+      "textFile": "1996-05-04 - Madrid, ES - Parque del Soto (Festimad).txt"
     },
     {
       "year": 1996,
@@ -6130,7 +6384,7 @@ const ARTIST_DATA = {
       "state": "ES",
       "location": "Madrid, ES",
       "venue": "Parque del Soto (Festimad)",
-      "notes": "VID(x) · unk",
+      "notes": "VID(x) \u00b7 unk",
       "version": "PRO",
       "format": "DVD"
     },
@@ -6145,7 +6399,8 @@ const ARTIST_DATA = {
       "venue": "Bercy",
       "notes": "Sennheiser Pro>D8",
       "version": "AUD",
-      "format": "SHN"
+      "format": "SHN",
+      "textFile": "1996-05-06 - Paris, France - Bercy .txt"
     },
     {
       "year": 1996,
@@ -6158,7 +6413,8 @@ const ARTIST_DATA = {
       "venue": "The Point",
       "notes": "D7>SS",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1996-05-11 - Dublin, Ireland - The Point.txt"
     },
     {
       "year": 1996,
@@ -6171,7 +6427,8 @@ const ARTIST_DATA = {
       "venue": "Wembley Arena",
       "notes": "Sony D8-CSB?",
       "version": "AUD",
-      "format": "SHN"
+      "format": "SHN",
+      "textFile": "1996-05-14 - London, UK - Wembley Arena.txt"
     },
     {
       "year": 1996,
@@ -6195,7 +6452,7 @@ const ARTIST_DATA = {
       "state": "UK",
       "location": "London, UK",
       "venue": "Wembley Arena",
-      "notes": "Hi8(M) · upgrade",
+      "notes": "Hi8(M) \u00b7 upgrade",
       "version": "AMT #1",
       "format": "FLAC"
     },
@@ -6208,7 +6465,7 @@ const ARTIST_DATA = {
       "state": "UK",
       "location": "London, UK",
       "venue": "Wembley Arena",
-      "notes": "Hi8(M) · master 8",
+      "notes": "Hi8(M) \u00b7 master 8",
       "version": "AMT #1",
       "format": "MKV"
     },
@@ -6223,7 +6480,8 @@ const ARTIST_DATA = {
       "venue": "Brixton Academy BBC Radio 1",
       "notes": "FM>DDC-2",
       "version": "FM",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1996-05-15 - London, UK - Wembley Arena.txt"
     },
     {
       "year": 1996,
@@ -6234,7 +6492,7 @@ const ARTIST_DATA = {
       "state": "UK",
       "location": "London, UK",
       "venue": "Brixton Academy",
-      "notes": "Hi8(x) · 1 · d4",
+      "notes": "Hi8(x) \u00b7 1 \u00b7 d4",
       "version": "AUD",
       "format": "FLAC"
     },
@@ -6247,7 +6505,7 @@ const ARTIST_DATA = {
       "state": "UK",
       "location": "London, UK",
       "venue": "Brixton Academy",
-      "notes": "DDC(x) · CSB",
+      "notes": "DDC(x) \u00b7 CSB",
       "version": "AUD",
       "format": "SHN"
     },
@@ -6260,7 +6518,7 @@ const ARTIST_DATA = {
       "state": "UK",
       "location": "London, UK",
       "venue": "Brixton Academy",
-      "notes": "Hi8(M) · kevin l.",
+      "notes": "Hi8(M) \u00b7 kevin l.",
       "version": "AMT #1",
       "format": "DVD"
     },
@@ -6275,7 +6533,8 @@ const ARTIST_DATA = {
       "venue": "Hordern Pavilion",
       "notes": "ANA-L",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1996-05-20 - Sydney, Australia - Hordern Pavilion.txt"
     },
     {
       "year": 1996,
@@ -6286,7 +6545,7 @@ const ARTIST_DATA = {
       "state": "Australia",
       "location": "Sydney, Australia",
       "venue": "Hordern Pavilion",
-      "notes": "ANA*2) · unk",
+      "notes": "ANA*2) \u00b7 unk",
       "version": "AUD",
       "format": "FLAC"
     },
@@ -6299,7 +6558,7 @@ const ARTIST_DATA = {
       "state": "Australia",
       "location": "Sydney, Australia",
       "venue": "Hordern Pavilion",
-      "notes": "ANA(1) · unk · alt source",
+      "notes": "ANA(1) \u00b7 unk \u00b7 alt source",
       "version": "AUD",
       "format": "FLAC"
     },
@@ -6314,7 +6573,8 @@ const ARTIST_DATA = {
       "venue": "Town Hall",
       "notes": "DAT(x)",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1996-05-26 - Christchurch, NZ - Town Hall.txt"
     },
     {
       "year": 1996,
@@ -6338,9 +6598,10 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "San Francisco, CA",
       "venue": "Golden Gate Park",
-      "notes": "unk · neekrive",
+      "notes": "unk \u00b7 neekrive",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1996-06-15 - San Francisco, CA - Golden Gate Park.txt"
     },
     {
       "year": 1996,
@@ -6390,7 +6651,7 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "San Francisco, CA",
       "venue": "Golden Gate Park",
-      "notes": "Tibetan · MTV Week in Rock",
+      "notes": "Tibetan \u00b7 MTV Week in Rock",
       "version": "TV",
       "format": "DVD"
     },
@@ -6405,7 +6666,8 @@ const ARTIST_DATA = {
       "venue": "WRCX Studios",
       "notes": "ANA(1)",
       "version": "FM",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1996-06-17 - Chicago, IL - WRCX Studios.txt"
     },
     {
       "year": 1996,
@@ -6416,9 +6678,10 @@ const ARTIST_DATA = {
       "state": "IN",
       "location": "Indianapolis, IN",
       "venue": "Market Square Arena",
-      "notes": "CSB · tony buechler",
+      "notes": "CSB \u00b7 tony buechler",
       "version": "AUD",
-      "format": "SHN"
+      "format": "SHN",
+      "textFile": "1996-06-27 - Indianapolis, IN - Market Square Arena.txt"
     },
     {
       "year": 1996,
@@ -6429,9 +6692,10 @@ const ARTIST_DATA = {
       "state": "NY",
       "location": "Buffalo, NY",
       "venue": "Memorial Auditorium",
-      "notes": "ANA(M) · ECM-727P · greg mendelsohn",
+      "notes": "ANA(M) \u00b7 ECM-727P \u00b7 greg mendelsohn",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1996-07-02 - Buffalo, NY - Memorial Auditorium .txt"
     },
     {
       "year": 1996,
@@ -6442,7 +6706,7 @@ const ARTIST_DATA = {
       "state": "NY",
       "location": "Buffalo, NY",
       "venue": "Memorial Auditorium",
-      "notes": "Sony Pro D3 · unk",
+      "notes": "Sony Pro D3 \u00b7 unk",
       "version": "AUD",
       "format": "FLAC"
     },
@@ -6455,9 +6719,10 @@ const ARTIST_DATA = {
       "state": "OH",
       "location": "Cleveland, OH",
       "venue": "Gund Arena",
-      "notes": "ECM-909A · elsen transfer",
+      "notes": "ECM-909A \u00b7 elsen transfer",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1996-07-03 - Cleveland, OH - Gund Arena.txt"
     },
     {
       "year": 1996,
@@ -6468,7 +6733,7 @@ const ARTIST_DATA = {
       "state": "OH",
       "location": "Cleveland, OH",
       "venue": "Gund Arena",
-      "notes": "ECM-909A · track fix",
+      "notes": "ECM-909A \u00b7 track fix",
       "version": "AUD",
       "format": "FLAC"
     },
@@ -6481,9 +6746,10 @@ const ARTIST_DATA = {
       "state": "PA",
       "location": "Philadelphia, PA",
       "venue": "Corestates Spectrum",
-      "notes": "SS mics · unk",
+      "notes": "SS mics \u00b7 unk",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1996-07-05 - Philadelphia, PA - Corestates Spectrum.txt"
     },
     {
       "year": 1996,
@@ -6494,7 +6760,7 @@ const ARTIST_DATA = {
       "state": "PA",
       "location": "Philadelphia, PA",
       "venue": "Corestates Spectrum",
-      "notes": "VHS(x) · unk",
+      "notes": "VHS(x) \u00b7 unk",
       "version": "AUD",
       "format": "DVD"
     },
@@ -6509,7 +6775,8 @@ const ARTIST_DATA = {
       "venue": "Corestates Spectrum",
       "notes": "SS-DSM6",
       "version": "AUD",
-      "format": "SHN"
+      "format": "SHN",
+      "textFile": "1996-07-06 - Philadelphia, PA - Corestates Spectrum.txt"
     },
     {
       "year": 1996,
@@ -6520,9 +6787,10 @@ const ARTIST_DATA = {
       "state": "MD",
       "location": "Landover, MD",
       "venue": "USAir Arena",
-      "notes": "ANA(M) · DSM-6",
+      "notes": "ANA(M) \u00b7 DSM-6",
       "version": "AUD",
-      "format": "SHN"
+      "format": "SHN",
+      "textFile": "1996-07-09 - Landover, MD - USAir Arena.txt"
     },
     {
       "year": 1996,
@@ -6533,7 +6801,7 @@ const ARTIST_DATA = {
       "state": "MD",
       "location": "Landover, MD",
       "venue": "USAir Arena",
-      "notes": "ANA(M) · CSB · acidjack",
+      "notes": "ANA(M) \u00b7 CSB \u00b7 acidjack",
       "version": "AUD",
       "format": "FLAC"
     },
@@ -6546,9 +6814,10 @@ const ARTIST_DATA = {
       "state": "MD",
       "location": "Landover, MD",
       "venue": "USAir Arena",
-      "notes": "DSM-6S · unk",
+      "notes": "DSM-6S \u00b7 unk",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1996-07-10 - Landover, MD - USAir Arena.txt"
     },
     {
       "year": 1996,
@@ -6572,9 +6841,10 @@ const ARTIST_DATA = {
       "state": "NV",
       "location": "Las Vegas, NV",
       "venue": "Thomas & Mack Center",
-      "notes": "DAT(3) · CSB",
+      "notes": "DAT(3) \u00b7 CSB",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1996-08-27 - Las Vegas, NV - Thomas & Mack Center.txt"
     },
     {
       "year": 1996,
@@ -6585,7 +6855,7 @@ const ARTIST_DATA = {
       "state": "NV",
       "location": "Las Vegas, NV",
       "venue": "Thomas & Mack Center",
-      "notes": "CSB · unk",
+      "notes": "CSB \u00b7 unk",
       "version": "AUD",
       "format": "FLAC"
     },
@@ -6598,9 +6868,10 @@ const ARTIST_DATA = {
       "state": "UT",
       "location": "Salt Lake City, UT",
       "venue": "Delta Center",
-      "notes": "ANA(M) · SS-DSM-6",
+      "notes": "ANA(M) \u00b7 SS-DSM-6",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1996-08-28 - Salt Lake City, UT - Delta Center.txt"
     },
     {
       "year": 1996,
@@ -6611,7 +6882,7 @@ const ARTIST_DATA = {
       "state": "UT",
       "location": "Salt Lake City, UT",
       "venue": "Delta Center",
-      "notes": "ANA(M) · SS-DSM-6 · complete",
+      "notes": "ANA(M) \u00b7 SS-DSM-6 \u00b7 complete",
       "version": "AUD #1",
       "format": "FLAC"
     },
@@ -6624,9 +6895,10 @@ const ARTIST_DATA = {
       "state": "CO",
       "location": "Denver, CO",
       "venue": "McNichols Arena (Soundcheck)",
-      "notes": "ANA(1) · CSB · thom",
+      "notes": "ANA(1) \u00b7 CSB \u00b7 thom",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1996-08-30 - Denver, CO - McNichols Arena.txt"
     },
     {
       "year": 1996,
@@ -6637,7 +6909,7 @@ const ARTIST_DATA = {
       "state": "CO",
       "location": "Denver, CO",
       "venue": "McNichols Arena",
-      "notes": "ANA(1) · CSB · thom",
+      "notes": "ANA(1) \u00b7 CSB \u00b7 thom",
       "version": "AUD",
       "format": "FLAC"
     },
@@ -6650,7 +6922,7 @@ const ARTIST_DATA = {
       "state": "CO",
       "location": "Denver, CO",
       "venue": "McNichols Arena (Soundcheck)",
-      "notes": "ANA(2) · CSB · unk",
+      "notes": "ANA(2) \u00b7 CSB \u00b7 unk",
       "version": "AUD",
       "format": "FLAC"
     },
@@ -6663,7 +6935,7 @@ const ARTIST_DATA = {
       "state": "CO",
       "location": "Denver, CO",
       "venue": "McNichols Arena",
-      "notes": "ANA(x) · CSB · unk",
+      "notes": "ANA(x) \u00b7 CSB \u00b7 unk",
       "version": "AUD #1",
       "format": "FLAC"
     },
@@ -6676,9 +6948,10 @@ const ARTIST_DATA = {
       "state": "KS",
       "location": "Wichita, KS",
       "venue": "Kansas Coliseum",
-      "notes": "ANA(x) · unk",
+      "notes": "ANA(x) \u00b7 unk",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1996-08-31 - Wichita, KS - Kansas Coliseum .txt"
     },
     {
       "year": 1996,
@@ -6689,9 +6962,10 @@ const ARTIST_DATA = {
       "state": "NY",
       "location": "New York, NY",
       "venue": "Radio City Music Hall",
-      "notes": "MTV Video Music Awards · gazebofrost transfer",
+      "notes": "MTV Video Music Awards \u00b7 gazebofrost transfer",
       "version": "TV",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1996-09-04 - New York, NY - Radio City Music Hall.txt"
     },
     {
       "year": 1996,
@@ -6702,9 +6976,10 @@ const ARTIST_DATA = {
       "state": "PA",
       "location": "Pittsburgh, PA",
       "venue": "Civic Arena",
-      "notes": "ANA(x) · unk",
+      "notes": "ANA(x) \u00b7 unk",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1996-09-06 - Pittsburgh, PA - Civic Arena.txt"
     },
     {
       "year": 1996,
@@ -6715,7 +6990,7 @@ const ARTIST_DATA = {
       "state": "PA",
       "location": "Pittsburgh, PA",
       "venue": "Civic Arena",
-      "notes": "ANA(x) · unk · gap removal",
+      "notes": "ANA(x) \u00b7 unk \u00b7 gap removal",
       "version": "AUD",
       "format": "FLAC"
     },
@@ -6728,9 +7003,10 @@ const ARTIST_DATA = {
       "state": "NY",
       "location": "Syracuse, NY",
       "venue": "War Memorial",
-      "notes": "ANA(1) · HSJS215 · thom",
+      "notes": "ANA(1) \u00b7 HSJS215 \u00b7 thom",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1996-09-07 - Syracuse, NY - War Memorial .txt"
     },
     {
       "year": 1996,
@@ -6741,9 +7017,10 @@ const ARTIST_DATA = {
       "state": "RI",
       "location": "Providence, RI",
       "venue": "Civic Center",
-      "notes": "ANA(1) · Sony TC-WE825S · thom",
+      "notes": "ANA(1) \u00b7 Sony TC-WE825S \u00b7 thom",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1996-09-08 -  Providence, RI - Civic Center .txt"
     },
     {
       "year": 1996,
@@ -6756,7 +7033,8 @@ const ARTIST_DATA = {
       "venue": "Molson Centre",
       "notes": "VHS(4)",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1996-09-11 - Montreal, Quebec - Molson Centre .txt"
     },
     {
       "year": 1996,
@@ -6767,7 +7045,7 @@ const ARTIST_DATA = {
       "state": "Quebec",
       "location": "Montreal, Quebec",
       "venue": "Molson Centre",
-      "notes": "VHS(1) · unk",
+      "notes": "VHS(1) \u00b7 unk",
       "version": "AUD",
       "format": "DVD"
     },
@@ -6780,9 +7058,10 @@ const ARTIST_DATA = {
       "state": "Ontario",
       "location": "Ottawa, Ontario",
       "venue": "Corel Centre",
-      "notes": "ANA(1) · ECM-909A · thom",
+      "notes": "ANA(1) \u00b7 ECM-909A \u00b7 thom",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1996-09-13 - Ottawa, Ontario - Corel Centre .txt"
     },
     {
       "year": 1996,
@@ -6793,9 +7072,10 @@ const ARTIST_DATA = {
       "state": "Ontario",
       "location": "Toronto, Ontario",
       "venue": "Maple Leaf Gardens",
-      "notes": "ANA(1) · unk · michael sims",
+      "notes": "ANA(1) \u00b7 unk \u00b7 michael sims",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1996-09-14 - Toronto, Ontario - Maple Leaf Gardens .txt"
     },
     {
       "year": 1996,
@@ -6806,7 +7086,7 @@ const ARTIST_DATA = {
       "state": "Ontario",
       "location": "Toronto, Ontario",
       "venue": "Maple Leaf Gardens",
-      "notes": "Hi8(M) · Sony TR-700 · bill mayer author",
+      "notes": "Hi8(M) \u00b7 Sony TR-700 \u00b7 bill mayer author",
       "version": "AUD",
       "format": "DVD"
     },
@@ -6819,9 +7099,10 @@ const ARTIST_DATA = {
       "state": "NJ",
       "location": "East Rutherford, NJ",
       "venue": "Brendan Byrne Meadowlands Arena",
-      "notes": "ANA(M) · ECM-909",
+      "notes": "ANA(M) \u00b7 ECM-909",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1996-09-16 - East Rutherford, NJ - Brendan Byrne Meadowlands Arena .txt"
     },
     {
       "year": 1996,
@@ -6834,7 +7115,8 @@ const ARTIST_DATA = {
       "venue": "Madison Square Garden",
       "notes": "Neumann KM 140",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1996-09-17 - New York, NY - Madison Square Garden .txt"
     },
     {
       "year": 1996,
@@ -6845,7 +7127,7 @@ const ARTIST_DATA = {
       "state": "NY",
       "location": "New York, NY",
       "venue": "Madison Square Garden",
-      "notes": "VHS(x) · xdarcyx transfer",
+      "notes": "VHS(x) \u00b7 xdarcyx transfer",
       "version": "AUD",
       "format": "DVD"
     },
@@ -6858,9 +7140,10 @@ const ARTIST_DATA = {
       "state": "NY",
       "location": "New York, NY",
       "venue": "Madison Square Garden",
-      "notes": "CSB · jason r",
+      "notes": "CSB \u00b7 jason r",
       "version": "AUD",
-      "format": "SHN"
+      "format": "SHN",
+      "textFile": "1996-09-18 - New York, NY - Madison Square Garden .txt"
     },
     {
       "year": 1996,
@@ -6871,9 +7154,10 @@ const ARTIST_DATA = {
       "state": "MI",
       "location": "East Lansing, MI",
       "venue": "Breslin Center",
-      "notes": "ANA(1) · AUD Microcassette",
+      "notes": "ANA(1) \u00b7 AUD Microcassette",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1996-09-20 - East Lansing, MI - Breslin Center .txt"
     },
     {
       "year": 1996,
@@ -6884,9 +7168,10 @@ const ARTIST_DATA = {
       "state": "MN",
       "location": "Minneapolis, MN",
       "venue": "Target Center",
-      "notes": "DSM-6S · unk",
+      "notes": "DSM-6S \u00b7 unk",
       "version": "AUD",
-      "format": "SHN"
+      "format": "SHN",
+      "textFile": "1996-09-22 - Minneapolis, MN - Target Center .txt"
     },
     {
       "year": 1996,
@@ -6897,9 +7182,10 @@ const ARTIST_DATA = {
       "state": "Manitoba",
       "location": "Winnipeg, Manitoba",
       "venue": "Winnipeg Arena",
-      "notes": "ANA(x) · Walkman",
+      "notes": "ANA(x) \u00b7 Walkman",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1996-09-24 - Winnipeg, Manitoba - Winnipeg Arena.txt"
     },
     {
       "year": 1996,
@@ -6910,7 +7196,7 @@ const ARTIST_DATA = {
       "state": "Manitoba",
       "location": "Winnipeg, Manitoba",
       "venue": "Winnipeg Arena",
-      "notes": "ANA(3) · Walkman built-in",
+      "notes": "ANA(3) \u00b7 Walkman built-in",
       "version": "AUD",
       "format": "FLAC"
     },
@@ -6923,9 +7209,10 @@ const ARTIST_DATA = {
       "state": "Saskatchewan",
       "location": "Saskatoon, Saskatchewan",
       "venue": "Saskatchewan Place",
-      "notes": "ANA(2) · retracked",
+      "notes": "ANA(2) \u00b7 retracked",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1996-09-25 - Saskatoon, Canada - Saskatchewan Place .txt"
     },
     {
       "year": 1996,
@@ -6936,7 +7223,7 @@ const ARTIST_DATA = {
       "state": "Saskatchewan",
       "location": "Saskatoon, Saskatchewan",
       "venue": "Saskatchewan Place",
-      "notes": "ANA(2) · Walkman?",
+      "notes": "ANA(2) \u00b7 Walkman?",
       "version": "AUD",
       "format": "FLAC"
     },
@@ -6949,9 +7236,10 @@ const ARTIST_DATA = {
       "state": "WI",
       "location": "Milwaukee, WI",
       "venue": "Bradley Center",
-      "notes": "DDC(1) · Aiwa CMS30 A",
+      "notes": "DDC(1) \u00b7 Aiwa CMS30 A",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1996-10-01 - Milwaukee, WI - Bradley Center .txt"
     },
     {
       "year": 1996,
@@ -6962,7 +7250,7 @@ const ARTIST_DATA = {
       "state": "WI",
       "location": "Milwaukee, WI",
       "venue": "Bradley Center",
-      "notes": "VHS(x) · unk",
+      "notes": "VHS(x) \u00b7 unk",
       "version": "AUD",
       "format": "DVD"
     },
@@ -6975,9 +7263,10 @@ const ARTIST_DATA = {
       "state": "IL",
       "location": "Rosemont, IL",
       "venue": "Rosemont Horizon",
-      "notes": "SS-DSM6S · choob",
+      "notes": "SS-DSM6S \u00b7 choob",
       "version": "AUD",
-      "format": "SHN"
+      "format": "SHN",
+      "textFile": "1996-10-04 - Rosemont, IL - Rosemont Horizon.txt"
     },
     {
       "year": 1996,
@@ -6988,9 +7277,10 @@ const ARTIST_DATA = {
       "state": "IL",
       "location": "Rosemont, IL",
       "venue": "Rosemont Horizon",
-      "notes": "DAT(M) · CSB · unk",
+      "notes": "DAT(M) \u00b7 CSB \u00b7 unk",
       "version": "AUD #1",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1996-10-05 - Rosemont, IL - Rosemont Horizon.txt"
     },
     {
       "year": 1996,
@@ -7027,9 +7317,10 @@ const ARTIST_DATA = {
       "state": "IL",
       "location": "Rosemont, IL",
       "venue": "Rosemont Horizon",
-      "notes": "ANA(1) · CSB · d4",
+      "notes": "ANA(1) \u00b7 CSB \u00b7 d4",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1996-10-06 - Rosemont, IL - Rosemont Horizon .txt"
     },
     {
       "year": 1996,
@@ -7042,7 +7333,8 @@ const ARTIST_DATA = {
       "venue": "Assembly Hall",
       "notes": "VID(2)",
       "version": "AMT #1",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1996-10-25 - Champaign, IL - Assembly Hall.txt"
     },
     {
       "year": 1996,
@@ -7066,7 +7358,7 @@ const ARTIST_DATA = {
       "state": "IL",
       "location": "Champaign, IL",
       "venue": "Assembly Hall",
-      "notes": "VHS(1?) · unk",
+      "notes": "VHS(1?) \u00b7 unk",
       "version": "AUD",
       "format": "DVD"
     },
@@ -7081,7 +7373,8 @@ const ARTIST_DATA = {
       "venue": "Mark of the Quad Cities",
       "notes": "Vid-sourced",
       "version": "AUD",
-      "format": "SHN"
+      "format": "SHN",
+      "textFile": "1996-10-26 - Moline, IL - Mark of the Quad Cities.txt"
     },
     {
       "year": 1996,
@@ -7105,9 +7398,10 @@ const ARTIST_DATA = {
       "state": "KY",
       "location": "Louisville, KY",
       "venue": "Freedom Hall",
-      "notes": "ANA(1) · CSB",
+      "notes": "ANA(1) \u00b7 CSB",
       "version": "AUD #1",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1996-10-29 -  Louisville, KY - Freedom Hall.txt"
     },
     {
       "year": 1996,
@@ -7118,7 +7412,7 @@ const ARTIST_DATA = {
       "state": "NY",
       "location": "New York, NY",
       "venue": "MTV Studios",
-      "notes": "120 · x · stumpycat",
+      "notes": "120 \u00b7 x \u00b7 stumpycat",
       "version": "TV",
       "format": "FLAC"
     },
@@ -7133,7 +7427,8 @@ const ARTIST_DATA = {
       "venue": "Hartford Civic Center Veterans Memorial Coliseum",
       "notes": "ANA(2)",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1996-11-01 - Hartford, CT - Hartford Civic Center Veterans Memorial Coliseum.txt"
     },
     {
       "year": 1996,
@@ -7144,9 +7439,10 @@ const ARTIST_DATA = {
       "state": "NY",
       "location": "Albany, NY",
       "venue": "Knickerbocker Arena",
-      "notes": "ANA(1) · M · Clip mics",
+      "notes": "ANA(1) \u00b7 M \u00b7 Clip mics",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1996-11-02 - Albany, NY - Knickerbocker Arena.txt"
     },
     {
       "year": 1996,
@@ -7157,9 +7453,10 @@ const ARTIST_DATA = {
       "state": "ME",
       "location": "Portland, ME",
       "venue": "Cumberland County Civic Center",
-      "notes": "ANA(M) · MarcSounds",
+      "notes": "ANA(M) \u00b7 MarcSounds",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1996-11-04 - Portland, ME - Cumberland County Civic Center.txt"
     },
     {
       "year": 1996,
@@ -7170,9 +7467,10 @@ const ARTIST_DATA = {
       "state": "MA",
       "location": "Boston, MA",
       "venue": "Fleet Center",
-      "notes": "ANA(M) · ECM-909 · d4",
+      "notes": "ANA(M) \u00b7 ECM-909 \u00b7 d4",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1996-11-05 - Boston, MA - Fleet Center.txt"
     },
     {
       "year": 1996,
@@ -7183,7 +7481,7 @@ const ARTIST_DATA = {
       "state": "MA",
       "location": "Boston, MA",
       "venue": "Fleet Center",
-      "notes": "VHS(3) · Hi8 Video Recorder · inc",
+      "notes": "VHS(3) \u00b7 Hi8 Video Recorder \u00b7 inc",
       "version": "AUD",
       "format": "FLAC"
     },
@@ -7209,7 +7507,7 @@ const ARTIST_DATA = {
       "state": "MA",
       "location": "Boston, MA",
       "venue": "Fleet Center",
-      "notes": "VHS(4) · de · inc",
+      "notes": "VHS(4) \u00b7 de \u00b7 inc",
       "version": "AUD",
       "format": "FLAC"
     },
@@ -7222,7 +7520,21 @@ const ARTIST_DATA = {
       "state": "MA",
       "location": "Worcester, MA",
       "venue": "Worcester Centrum",
-      "notes": "ANA(M) · M",
+      "notes": "ANA(M) \u00b7 M",
+      "version": "AUD",
+      "format": "FLAC",
+      "textFile": "1996-11-06 - Worcester, MA - Worcester Centrum.txt"
+    },
+    {
+      "year": 1996,
+      "month": 11,
+      "day": 6,
+      "dateStr": "11-6-1996",
+      "city": "Worcester",
+      "state": "MA",
+      "location": "Worcester, MA",
+      "venue": "Worcester Centrum",
+      "notes": "VHS(x) \u00b7 inc",
       "version": "AUD",
       "format": "FLAC"
     },
@@ -7235,20 +7547,7 @@ const ARTIST_DATA = {
       "state": "MA",
       "location": "Worcester, MA",
       "venue": "Worcester Centrum",
-      "notes": "VHS(x) · inc",
-      "version": "AUD",
-      "format": "FLAC"
-    },
-    {
-      "year": 1996,
-      "month": 11,
-      "day": 6,
-      "dateStr": "11-6-1996",
-      "city": "Worcester",
-      "state": "MA",
-      "location": "Worcester, MA",
-      "venue": "Worcester Centrum",
-      "notes": "VHS(x) · inc",
+      "notes": "VHS(x) \u00b7 inc",
       "version": "AMT #1",
       "format": "DVD"
     },
@@ -7263,7 +7562,8 @@ const ARTIST_DATA = {
       "venue": "Dean Smith Center",
       "notes": "Oade mics",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1996-11-12 - Chapel Hill, NC - Dean Smith Center.txt"
     },
     {
       "year": 1996,
@@ -7287,9 +7587,10 @@ const ARTIST_DATA = {
       "state": "UK",
       "location": "London, UK",
       "venue": "Alexandra Palace",
-      "notes": "MTV · 1",
+      "notes": "MTV \u00b7 1",
       "version": "TV",
-      "format": "DVD"
+      "format": "DVD",
+      "textFile": "1996-11-14 - London, UK - Alexandra Palace (MTV Europe Music Awards) [DVD].txt"
     },
     {
       "year": 1996,
@@ -7300,9 +7601,10 @@ const ARTIST_DATA = {
       "state": "FL",
       "location": "Tampa, FL",
       "venue": "Ice Palace",
-      "notes": "ANA(2) · Built-in Walkman · d4",
+      "notes": "ANA(2) \u00b7 Built-in Walkman \u00b7 d4",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1996-11-15 - Tampa, FL - Ice Palace.txt"
     },
     {
       "year": 1996,
@@ -7313,7 +7615,7 @@ const ARTIST_DATA = {
       "state": "FL",
       "location": "Tampa, FL",
       "venue": "Ice Palace",
-      "notes": "ANA(x) · Walkman",
+      "notes": "ANA(x) \u00b7 Walkman",
       "version": "AUD",
       "format": "FLAC"
     },
@@ -7328,7 +7630,8 @@ const ARTIST_DATA = {
       "venue": "Lakeland Civic Center",
       "notes": "ECM-909A",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1996-11-16 - Lakeland, FL - Lakeland Civic Center.txt"
     },
     {
       "year": 1996,
@@ -7339,9 +7642,10 @@ const ARTIST_DATA = {
       "state": "FL",
       "location": "Miami, FL",
       "venue": "Miama Arena",
-      "notes": "Hi8(M) · unk · willy salas",
+      "notes": "Hi8(M) \u00b7 unk \u00b7 willy salas",
       "version": "AMT #1",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1996-11-17 - Miami, FL - Miami Arena.txt"
     },
     {
       "year": 1996,
@@ -7354,7 +7658,8 @@ const ARTIST_DATA = {
       "venue": "Omni",
       "notes": "ANA(1)",
       "version": "AUD",
-      "format": "SHN"
+      "format": "SHN",
+      "textFile": "1996-11-19 - Atlanta, GA - Omni.txt"
     },
     {
       "year": 1996,
@@ -7365,9 +7670,10 @@ const ARTIST_DATA = {
       "state": "TN",
       "location": "Memphis, TN",
       "venue": "Pyramid",
-      "notes": "CSB · jack white",
+      "notes": "CSB \u00b7 jack white",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1996-11-22 - Memphis, TN - Pyramid .txt"
     },
     {
       "year": 1996,
@@ -7378,9 +7684,10 @@ const ARTIST_DATA = {
       "state": "OK",
       "location": "Oklahoma City, OK",
       "venue": "Myriad Arena",
-      "notes": "ANA(1) · unk",
+      "notes": "ANA(1) \u00b7 unk",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1996-11-23 - Oklahoma City, OK - Myriad Arena.txt"
     },
     {
       "year": 1996,
@@ -7391,9 +7698,10 @@ const ARTIST_DATA = {
       "state": "LA",
       "location": "Lafayette, LA",
       "venue": "Cajundome",
-      "notes": "CSB · jack white",
+      "notes": "CSB \u00b7 jack white",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1996-11-26 - Lafayette, LA - Cajundome.txt"
     },
     {
       "year": 1996,
@@ -7404,7 +7712,7 @@ const ARTIST_DATA = {
       "state": "LA",
       "location": "Lafayette, LA",
       "venue": "Cajundome",
-      "notes": "DAT(1) · CSB · jack white · mz transfer",
+      "notes": "DAT(1) \u00b7 CSB \u00b7 jack white \u00b7 mz transfer",
       "version": "AUD #1",
       "format": "FLAC"
     },
@@ -7417,9 +7725,10 @@ const ARTIST_DATA = {
       "state": "MI",
       "location": "Biloxi, MI",
       "venue": "Gulfcoast Coliseum",
-      "notes": "ECM-909A · unk",
+      "notes": "ECM-909A \u00b7 unk",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1996-11-27 - Biloxi, MI- Gulfcoast Coliseum .txt"
     },
     {
       "year": 1996,
@@ -7432,7 +7741,8 @@ const ARTIST_DATA = {
       "venue": "Frank Erwin Center",
       "notes": "SS mic",
       "version": "AUD #1",
-      "format": "SHN"
+      "format": "SHN",
+      "textFile": "1996-11-30 - Austin, TX - Frank Erwin Center.txt"
     },
     {
       "year": 1996,
@@ -7456,9 +7766,10 @@ const ARTIST_DATA = {
       "state": "TX",
       "location": "Dallas, TX",
       "venue": "Reunion Arena",
-      "notes": "SS-DSM-6P · steve hagar",
+      "notes": "SS-DSM-6P \u00b7 steve hagar",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1996-12-01 - Dallas, TX - Reunion Arena.txt"
     },
     {
       "year": 1996,
@@ -7469,7 +7780,7 @@ const ARTIST_DATA = {
       "state": "TX",
       "location": "Dallas, TX",
       "venue": "Reunion Arena",
-      "notes": "SS-DSM-6S · chris milazzo master",
+      "notes": "SS-DSM-6S \u00b7 chris milazzo master",
       "version": "AUD",
       "format": "FLAC"
     },
@@ -7484,7 +7795,8 @@ const ARTIST_DATA = {
       "venue": "The Summit",
       "notes": "SS",
       "version": "AUD #1",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1996-12-03 - Houston, TX - The Summit.txt"
     },
     {
       "year": 1996,
@@ -7495,9 +7807,10 @@ const ARTIST_DATA = {
       "state": "NM",
       "location": "Albquerque, NM",
       "venue": "Tingley Coliseum",
-      "notes": "ANA-L · microcassette from bm",
+      "notes": "ANA-L \u00b7 microcassette from bm",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1996-12-05 - Albquerque, NM - Tingley Coliseum .txt"
     },
     {
       "year": 1996,
@@ -7508,9 +7821,10 @@ const ARTIST_DATA = {
       "state": "AZ",
       "location": "Phoenix, AZ",
       "venue": "America West Arena",
-      "notes": "DAT(x) · CSBmoc · unk",
+      "notes": "DAT(x) \u00b7 CSBmoc \u00b7 unk",
       "version": "AUD",
-      "format": "SHN"
+      "format": "SHN",
+      "textFile": "1996-12-07 - Phoenix, AZ - America West Arena .txt"
     },
     {
       "year": 1996,
@@ -7521,7 +7835,7 @@ const ARTIST_DATA = {
       "state": "AZ",
       "location": "Phoenix, AZ",
       "venue": "America West Arena",
-      "notes": "8mm(x) · 4 · unk",
+      "notes": "8mm(x) \u00b7 4 \u00b7 unk",
       "version": "AUD",
       "format": "DVD"
     },
@@ -7534,9 +7848,10 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "Anaheim, CA",
       "venue": "Arrowhead Pond",
-      "notes": "SS · unk",
+      "notes": "SS \u00b7 unk",
       "version": "AUD",
-      "format": "SHN"
+      "format": "SHN",
+      "textFile": "1996-12-09 - Anaheim, CA - Arrowhead Pond.txt"
     },
     {
       "year": 1996,
@@ -7547,9 +7862,10 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "San Diego, CA",
       "venue": "Sports Arena",
-      "notes": "ANA(1) · Radioshack mic>Walkman · d4",
+      "notes": "ANA(1) \u00b7 Radioshack mic>Walkman \u00b7 d4",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1996-12-11 - San Diego, CA - Sports Arena .txt"
     },
     {
       "year": 1996,
@@ -7560,9 +7876,10 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "Daly City, CA",
       "venue": "Cow Palace",
-      "notes": "SS · unk",
+      "notes": "SS \u00b7 unk",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1996-12-14 - Daly City, CA - Cow Palace.txt"
     },
     {
       "year": 1996,
@@ -7573,7 +7890,7 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "Daly City, CA",
       "venue": "Cow Palace",
-      "notes": "DAT(M) · SS DSM-6s · wilson66 master",
+      "notes": "DAT(M) \u00b7 SS DSM-6s \u00b7 wilson66 master",
       "version": "AUD (48k)",
       "format": "FLAC"
     },
@@ -7586,9 +7903,10 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "San Jose, CA",
       "venue": "San Jose Arena",
-      "notes": "DAT(M) · Assisted Listening Device",
+      "notes": "DAT(M) \u00b7 Assisted Listening Device",
       "version": "SBD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1996-12-16 - San Jose, CA - San Jose Arena.txt"
     },
     {
       "year": 1996,
@@ -7599,9 +7917,10 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "Sacremento, CA",
       "venue": "Arco Arena",
-      "notes": "DAT(x) · Scheops MK5",
+      "notes": "DAT(x) \u00b7 Scheops MK5",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1996-12-17 - Sacremento, CA - Arco Arena .txt"
     },
     {
       "year": 1996,
@@ -7612,9 +7931,10 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "Inglewood, CA",
       "venue": "Great Western Forum",
-      "notes": "SS mics · unk",
+      "notes": "SS mics \u00b7 unk",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1996-12-18 - Inglewood, CA - Great Western Forum .txt"
     },
     {
       "year": 1997,
@@ -7625,9 +7945,10 @@ const ARTIST_DATA = {
       "state": "WA",
       "location": "Seattle, WA",
       "venue": "Key Arena",
-      "notes": "Soundcheck · CSB>D7",
+      "notes": "Soundcheck \u00b7 CSB>D7",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1997-01-06 - Seattle, WA - Key Arena.txt"
     },
     {
       "year": 1997,
@@ -7651,9 +7972,10 @@ const ARTIST_DATA = {
       "state": "OR",
       "location": "Portland, OR",
       "venue": "Rose Garden",
-      "notes": "DAT(1) · CSB · mz transfer",
+      "notes": "DAT(1) \u00b7 CSB \u00b7 mz transfer",
       "version": "AUD #1",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1997-01-07 - Portland, OR - Rose Garden .txt"
     },
     {
       "year": 1997,
@@ -7664,7 +7986,7 @@ const ARTIST_DATA = {
       "state": "OR",
       "location": "Portland, OR",
       "venue": "Rose Garden",
-      "notes": "DAT(x) · CSB",
+      "notes": "DAT(x) \u00b7 CSB",
       "version": "AUD",
       "format": "FLAC"
     },
@@ -7692,7 +8014,8 @@ const ARTIST_DATA = {
       "venue": "GM Place",
       "notes": "DAT(M)",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1997-01-08 - Vancouver, BC - GM Place.txt"
     },
     {
       "year": 1997,
@@ -7716,7 +8039,7 @@ const ARTIST_DATA = {
       "state": "BC",
       "location": "Vancouver, BC",
       "venue": "GM Place *1997",
-      "notes": "Moonraker 245/46 · vince dome rework",
+      "notes": "Moonraker 245/46 \u00b7 vince dome rework",
       "version": "FM",
       "format": "FLAC"
     },
@@ -7742,7 +8065,7 @@ const ARTIST_DATA = {
       "state": "BC",
       "location": "Vancouver, BC",
       "venue": "GM Place",
-      "notes": "CBC Real Time Broadcast · stevemtl",
+      "notes": "CBC Real Time Broadcast \u00b7 stevemtl",
       "version": "FM #2",
       "format": "FLAC"
     },
@@ -7770,7 +8093,8 @@ const ARTIST_DATA = {
       "venue": "Sioux Falls Arena",
       "notes": "DAT(M)",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1997-01-14 - Sioux Falls, SD - Sioux Falls Arena .txt"
     },
     {
       "year": 1997,
@@ -7781,9 +8105,10 @@ const ARTIST_DATA = {
       "state": "IN",
       "location": "Bloomington, IN",
       "venue": "Assembly Hall",
-      "notes": "ANA(1) · CSB",
+      "notes": "ANA(1) \u00b7 CSB",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1997-01-18 - Bloomington, IN - Assembly Hall .txt"
     },
     {
       "year": 1997,
@@ -7796,7 +8121,8 @@ const ARTIST_DATA = {
       "venue": "Riverfront Coliseum",
       "notes": "ANA-L",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1997-01-19 - Cincinnatti, OH - Riverfront Coliseum.txt"
     },
     {
       "year": 1997,
@@ -7807,7 +8133,7 @@ const ARTIST_DATA = {
       "state": "OH",
       "location": "Cincinnatti, OH",
       "venue": "Riverfront Coliseum",
-      "notes": "ANA(2) · unk",
+      "notes": "ANA(2) \u00b7 unk",
       "version": "AUD",
       "format": "FLAC"
     },
@@ -7820,7 +8146,7 @@ const ARTIST_DATA = {
       "state": "OH",
       "location": "Cincinnatti, OH",
       "venue": "Riverfront Coliseum",
-      "notes": "ANA(2) · unk · remaster",
+      "notes": "ANA(2) \u00b7 unk \u00b7 remaster",
       "version": "AUD",
       "format": "FLAC"
     },
@@ -7833,9 +8159,10 @@ const ARTIST_DATA = {
       "state": "IL",
       "location": "Carbondale, IL",
       "venue": "Southern Illinois University Arena",
-      "notes": "ANA(1) · Walkman",
+      "notes": "ANA(1) \u00b7 Walkman",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1997-01-21 - Carbondale, IL - Southern Illinois University Arena .txt"
     },
     {
       "year": 1997,
@@ -7846,7 +8173,7 @@ const ARTIST_DATA = {
       "state": "IL",
       "location": "Carbondale, IL",
       "venue": "Southern Illinois University Arena",
-      "notes": "VHS(x) · unk",
+      "notes": "VHS(x) \u00b7 unk",
       "version": "AMT #1",
       "format": "MKV"
     },
@@ -7859,9 +8186,10 @@ const ARTIST_DATA = {
       "state": "OH",
       "location": "Toledo, OH",
       "venue": "John F. Savage Hall",
-      "notes": "AUD>DAT>ANA-L · CSB",
+      "notes": "AUD>DAT>ANA-L \u00b7 CSB",
       "version": "AUD",
-      "format": "SHN"
+      "format": "SHN",
+      "textFile": "1997-01-22 - Toledo, OH - John F. Savage Hall.txt"
     },
     {
       "year": 1997,
@@ -7872,20 +8200,7 @@ const ARTIST_DATA = {
       "state": "OH",
       "location": "Toledo, OH",
       "venue": "John F. Savage Hall",
-      "notes": "ANA(1) · eric young",
-      "version": "AUD",
-      "format": "FLAC"
-    },
-    {
-      "year": 1997,
-      "month": 1,
-      "day": 22,
-      "dateStr": "1-22-1997",
-      "city": "Toledo",
-      "state": "OH",
-      "location": "Toledo, OH",
-      "venue": "John F. Savage Hall",
-      "notes": "ANA(2) · unk",
+      "notes": "ANA(1) \u00b7 eric young",
       "version": "AUD",
       "format": "FLAC"
     },
@@ -7898,7 +8213,20 @@ const ARTIST_DATA = {
       "state": "OH",
       "location": "Toledo, OH",
       "venue": "John F. Savage Hall",
-      "notes": "2024 remaster · lordflapjack",
+      "notes": "ANA(2) \u00b7 unk",
+      "version": "AUD",
+      "format": "FLAC"
+    },
+    {
+      "year": 1997,
+      "month": 1,
+      "day": 22,
+      "dateStr": "1-22-1997",
+      "city": "Toledo",
+      "state": "OH",
+      "location": "Toledo, OH",
+      "venue": "John F. Savage Hall",
+      "notes": "2024 remaster \u00b7 lordflapjack",
       "version": "AUD",
       "format": "FLAC"
     },
@@ -7911,9 +8239,10 @@ const ARTIST_DATA = {
       "state": "NY",
       "location": "Uniondale, NY",
       "venue": "Nassau Coliseum",
-      "notes": "DAT(2) · CSBmod",
+      "notes": "DAT(2) \u00b7 CSBmod",
       "version": "AUD #1",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1997-01-24 - Uniondale, NY - Nassau Coliseum.txt"
     },
     {
       "year": 1997,
@@ -7924,7 +8253,7 @@ const ARTIST_DATA = {
       "state": "NY",
       "location": "Uniondale, NY",
       "venue": "Nassau Coliseum",
-      "notes": "CASS(M) · unk",
+      "notes": "CASS(M) \u00b7 unk",
       "version": "AUD",
       "format": "FLAC"
     },
@@ -7937,7 +8266,21 @@ const ARTIST_DATA = {
       "state": "CT",
       "location": "New Haven, CT",
       "venue": "Veterans Memorial Coliseum",
-      "notes": "ANA(1) · AT-822 · d4",
+      "notes": "ANA(1) \u00b7 AT-822 \u00b7 d4",
+      "version": "AUD",
+      "format": "FLAC",
+      "textFile": "1997-01-25 - New Haven, CT - Veterans Memorial Coliseum.txt"
+    },
+    {
+      "year": 1997,
+      "month": 1,
+      "day": 25,
+      "dateStr": "1-25-1997",
+      "city": "New Haven",
+      "state": "CT",
+      "location": "New Haven, CT",
+      "venue": "Veterans Memorial Coliseum",
+      "notes": "ANA(1) \u00b7 AT-822 \u00b7 unk \u00b7 patched",
       "version": "AUD",
       "format": "FLAC"
     },
@@ -7950,7 +8293,7 @@ const ARTIST_DATA = {
       "state": "CT",
       "location": "New Haven, CT",
       "venue": "Veterans Memorial Coliseum",
-      "notes": "ANA(1) · AT-822 · unk · patched",
+      "notes": "ANA(1) \u00b7 Aiwa w/ clip-on mic \u00b7 waymuu",
       "version": "AUD",
       "format": "FLAC"
     },
@@ -7963,20 +8306,7 @@ const ARTIST_DATA = {
       "state": "CT",
       "location": "New Haven, CT",
       "venue": "Veterans Memorial Coliseum",
-      "notes": "ANA(1) · Aiwa w/ clip-on mic · waymuu",
-      "version": "AUD",
-      "format": "FLAC"
-    },
-    {
-      "year": 1997,
-      "month": 1,
-      "day": 25,
-      "dateStr": "1-25-1997",
-      "city": "New Haven",
-      "state": "CT",
-      "location": "New Haven, CT",
-      "venue": "Veterans Memorial Coliseum",
-      "notes": "ANA(3?) · unk",
+      "notes": "ANA(3?) \u00b7 unk",
       "version": "AUD",
       "format": "FLAC"
     },
@@ -7989,9 +8319,10 @@ const ARTIST_DATA = {
       "state": "NY",
       "location": "Rochester, NY",
       "venue": "War Memorial Stadium",
-      "notes": "ECM-727P · greg mendelsohn",
+      "notes": "ECM-727P \u00b7 greg mendelsohn",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1997-01-26 - Rochester, NY - War Memorial Stadium .txt"
     },
     {
       "year": 1997,
@@ -8002,9 +8333,10 @@ const ARTIST_DATA = {
       "state": "MA",
       "location": "Amherst, MA",
       "venue": "Mullins Center",
-      "notes": "ECM-909A · unk",
+      "notes": "ECM-909A \u00b7 unk",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1997-01-28 - Amherst, MA - Mullins Center.txt"
     },
     {
       "year": 1997,
@@ -8015,9 +8347,10 @@ const ARTIST_DATA = {
       "state": "PA",
       "location": "State College, PA",
       "venue": "Bryce Jordan Center",
-      "notes": "Shure SM-57 · unk",
+      "notes": "Shure SM-57 \u00b7 unk",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1997-01-29 - State College, PA - Bryce Jordan Center .txt"
     },
     {
       "year": 1997,
@@ -8043,7 +8376,8 @@ const ARTIST_DATA = {
       "venue": "Richmond Coliseum AUD>CASS",
       "notes": "x",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1997-01-30 - Richmond, VA - Richmond Coliseum.txt"
     },
     {
       "year": 1997,
@@ -8054,9 +8388,10 @@ const ARTIST_DATA = {
       "state": "NC",
       "location": "Charlotte, NC",
       "venue": "Charlotte Coliseum",
-      "notes": "Oade · unk",
+      "notes": "Oade \u00b7 unk",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1997-02-01 - Charlotte, NC - Charlotte Coliseum.txt"
     },
     {
       "year": 1997,
@@ -8067,9 +8402,10 @@ const ARTIST_DATA = {
       "state": "FL",
       "location": "Jacksonville, FL",
       "venue": "Jacksonville Coliseum",
-      "notes": "ANA(2) · unk",
+      "notes": "ANA(2) \u00b7 unk",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1997-02-02 - Jacksonville, FL - Jacksonville Coliseum .txt"
     },
     {
       "year": 1997,
@@ -8080,9 +8416,10 @@ const ARTIST_DATA = {
       "state": "FL",
       "location": "Pensacola, FL",
       "venue": "Pensacola Civic Center",
-      "notes": "CSB · unk",
+      "notes": "CSB \u00b7 unk",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1997-02-04 - Pensacola, FL - Pensacola Civic Center .txt"
     },
     {
       "year": 1997,
@@ -8093,9 +8430,10 @@ const ARTIST_DATA = {
       "state": "LA",
       "location": "New Orleans, LA",
       "venue": "UNO Lakefront Arena",
-      "notes": "DAT(1) · CSB",
+      "notes": "DAT(1) \u00b7 CSB",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1997-02-05 - New Orleans, LA - UNO Lakefront Arena.txt"
     },
     {
       "year": 1997,
@@ -8106,9 +8444,10 @@ const ARTIST_DATA = {
       "state": "NY",
       "location": "New York, NY",
       "venue": "NBC Studios",
-      "notes": "Late · TV",
+      "notes": "Late \u00b7 TV",
       "version": "Silver CD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1997-02-25 - New York, NY - NBC Studios - Late Night with Conan O'Brien.txt"
     },
     {
       "year": 1997,
@@ -8119,9 +8458,10 @@ const ARTIST_DATA = {
       "state": "NY",
       "location": "New York, NY",
       "venue": "Radio City Music Hall",
-      "notes": "1996 · TV",
+      "notes": "1996 \u00b7 TV",
       "version": "Silver CD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1997-02-26 - New York, NY - Radio City Music Hall - 1996 Grammy Awards.txt"
     },
     {
       "year": 1997,
@@ -8132,7 +8472,7 @@ const ARTIST_DATA = {
       "state": "NY",
       "location": "New York, NY",
       "venue": "Radio City Music Hall",
-      "notes": "1996 · x",
+      "notes": "1996 \u00b7 x",
       "version": "PRO",
       "format": "DVD"
     },
@@ -8147,6 +8487,34 @@ const ARTIST_DATA = {
       "venue": "Unknown Studio (Take Me Out to The Ball Game + Baseball Interview) TV>VID",
       "notes": "1",
       "version": "TV",
+      "format": "FLAC",
+      "textFile": "1997-03-24 - Chicago, IL - Unknown Studio (Take Me Out to The Ball Game + Baseball Interview).txt"
+    },
+    {
+      "year": 1997,
+      "month": 6,
+      "day": 23,
+      "dateStr": "6-23-1997",
+      "city": "Chicago",
+      "state": "IL",
+      "location": "Chicago, IL",
+      "venue": "Double Door",
+      "notes": "ANA(2) \u00b7 jose oliveira",
+      "version": "AUD",
+      "format": "SHN",
+      "textFile": "1997-06-23 - Chicago, IL - Double Door.txt"
+    },
+    {
+      "year": 1997,
+      "month": 6,
+      "day": 23,
+      "dateStr": "6-23-1997",
+      "city": "Chicago",
+      "state": "IL",
+      "location": "Chicago, IL",
+      "venue": "Double Door",
+      "notes": "ANA(2) \u00b7 unk",
+      "version": "AUD",
       "format": "FLAC"
     },
     {
@@ -8158,33 +8526,7 @@ const ARTIST_DATA = {
       "state": "IL",
       "location": "Chicago, IL",
       "venue": "Double Door",
-      "notes": "ANA(2) · jose oliveira",
-      "version": "AUD",
-      "format": "SHN"
-    },
-    {
-      "year": 1997,
-      "month": 6,
-      "day": 23,
-      "dateStr": "6-23-1997",
-      "city": "Chicago",
-      "state": "IL",
-      "location": "Chicago, IL",
-      "venue": "Double Door",
-      "notes": "ANA(2) · unk",
-      "version": "AUD",
-      "format": "FLAC"
-    },
-    {
-      "year": 1997,
-      "month": 6,
-      "day": 23,
-      "dateStr": "6-23-1997",
-      "city": "Chicago",
-      "state": "IL",
-      "location": "Chicago, IL",
-      "venue": "Double Door",
-      "notes": "DAT(M) · 1 · PC-62 · tapeworm48 transfer",
+      "notes": "DAT(M) \u00b7 1 \u00b7 PC-62 \u00b7 tapeworm48 transfer",
       "version": "AUD",
       "format": "FLAC"
     },
@@ -8210,9 +8552,10 @@ const ARTIST_DATA = {
       "state": "UK",
       "location": "Pilton, UK",
       "venue": "Glastonbury Festival",
-      "notes": "DAT(M) · PC-62 · tapeworm48 transfer",
+      "notes": "DAT(M) \u00b7 PC-62 \u00b7 tapeworm48 transfer",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1997-06-27 - Pilton, UK - Glastonbury Festival.txt"
     },
     {
       "year": 1997,
@@ -8249,7 +8592,7 @@ const ARTIST_DATA = {
       "state": "UK",
       "location": "Pilton, UK",
       "venue": "Glastonbury Festival",
-      "notes": "Sony Walkman WM-GX506 · mr. inxsive",
+      "notes": "Sony Walkman WM-GX506 \u00b7 mr. inxsive",
       "version": "AUD",
       "format": "FLAC"
     },
@@ -8277,7 +8620,8 @@ const ARTIST_DATA = {
       "venue": "Roskilde Festival (Orange Stage) *Exit Mellon Collie",
       "notes": "TB011",
       "version": "Silver CD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1997-06-28 - Roskilde, Denmark - Roskilde Festival.txt"
     },
     {
       "year": 1997,
@@ -8288,7 +8632,7 @@ const ARTIST_DATA = {
       "state": "Denmark",
       "location": "Roskilde, Denmark",
       "venue": "Roskilde Festival",
-      "notes": "Orange Stage · SS mic",
+      "notes": "Orange Stage \u00b7 SS mic",
       "version": "AUD",
       "format": "SHN"
     },
@@ -8301,7 +8645,7 @@ const ARTIST_DATA = {
       "state": "Denmark",
       "location": "Roskilde, Denmark",
       "venue": "Roskilde Festival (Orange Stage) *Exit Mellon Collie",
-      "notes": "patch source SS mic · complete",
+      "notes": "patch source SS mic \u00b7 complete",
       "version": "MIX",
       "format": "FLAC"
     },
@@ -8342,7 +8686,8 @@ const ARTIST_DATA = {
       "venue": "Sittertobel",
       "notes": "FM>ANA(M)",
       "version": "FM",
-      "format": "SHN"
+      "format": "SHN",
+      "textFile": "1997-06-29 - St. Gallen, Czech Republic - Sittertobel.txt"
     },
     {
       "year": 1997,
@@ -8366,9 +8711,10 @@ const ARTIST_DATA = {
       "state": "PT",
       "location": "Porto, PT",
       "venue": "Alfandega",
-      "notes": "ANA(M) · unk",
+      "notes": "ANA(M) \u00b7 unk",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1997-07-02 - Porto, PT - Alfandega.txt"
     },
     {
       "year": 1997,
@@ -8381,7 +8727,8 @@ const ARTIST_DATA = {
       "venue": "Malsaucy Lake (Belfort Festival) *Festive",
       "notes": "Vid lineage",
       "version": "Silver CD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1997-07-04 - Belfort, France - Malsaucy Lake.txt"
     },
     {
       "year": 1997,
@@ -8392,7 +8739,7 @@ const ARTIST_DATA = {
       "state": "France",
       "location": "Belfort, France",
       "venue": "Malsaucy Lake",
-      "notes": "Belfort Festival · Marantz EM-8 · unk",
+      "notes": "Belfort Festival \u00b7 Marantz EM-8 \u00b7 unk",
       "version": "AUD",
       "format": "FLAC"
     },
@@ -8405,9 +8752,10 @@ const ARTIST_DATA = {
       "state": "BE",
       "location": "Torhout, BE",
       "venue": "Torhout Festival",
-      "notes": "Sennheiser mic · mouhelo",
+      "notes": "Sennheiser mic \u00b7 mouhelo",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1997-07-05 - Torhout, BE - Torhout Festival.txt"
     },
     {
       "year": 1997,
@@ -8420,7 +8768,8 @@ const ARTIST_DATA = {
       "venue": "Rock Werchter Festival",
       "notes": "D3>ANA(M)",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1997-07-06 - Werchter, BE - Rock Werchter Festival.txt"
     },
     {
       "year": 1997,
@@ -8457,9 +8806,10 @@ const ARTIST_DATA = {
       "state": "PL",
       "location": "Katowice, PL",
       "venue": "Spodek",
-      "notes": "Panasonic dictaphone · billy_fan · inc",
+      "notes": "Panasonic dictaphone \u00b7 billy_fan \u00b7 inc",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1997-07-08 - Katowice, PL - Spodek.txt"
     },
     {
       "year": 1997,
@@ -8472,7 +8822,8 @@ const ARTIST_DATA = {
       "venue": "Shoreline Amphitheater",
       "notes": "Schoeps CCM4",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1997-10-18 - Mountain View, CA - Shoreline Amphitheater .txt"
     },
     {
       "year": 1997,
@@ -8483,7 +8834,7 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "Mountain View, CA",
       "venue": "Shoreline Amphitheater",
-      "notes": "Schoeps CCM4 · kwv",
+      "notes": "Schoeps CCM4 \u00b7 kwv",
       "version": "AUD",
       "format": "FLAC"
     },
@@ -8496,7 +8847,7 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "Mountain View, CA",
       "venue": "Shoreline Amphitheater",
-      "notes": "DAT(M) · Schoeps MK4 · unk",
+      "notes": "DAT(M) \u00b7 Schoeps MK4 \u00b7 unk",
       "version": "AUD",
       "format": "FLAC"
     },
@@ -8509,7 +8860,7 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "Mountain View, CA",
       "venue": "Shoreline Amphitheater",
-      "notes": "ANA(1) · Radio Shack SCR-59 · josh provost",
+      "notes": "ANA(1) \u00b7 Radio Shack SCR-59 \u00b7 josh provost",
       "version": "AUD",
       "format": "FLAC"
     },
@@ -8522,7 +8873,7 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "Mountain View, CA",
       "venue": "Shoreline Amphitheater",
-      "notes": "DAT(3) · Shure SM-57",
+      "notes": "DAT(3) \u00b7 Shure SM-57",
       "version": "AUD",
       "format": "FLAC"
     },
@@ -8550,7 +8901,8 @@ const ARTIST_DATA = {
       "venue": "Shoreline Amphitheater",
       "notes": "Schoeps CCM4",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1997-10-19 - Mountain View, CA - Shoreline Amphitheater.txt"
     },
     {
       "year": 1997,
@@ -8561,7 +8913,7 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "Mountain View, CA",
       "venue": "Shoreline Amphitheater",
-      "notes": "Schoeps CCM4 · kwv",
+      "notes": "Schoeps CCM4 \u00b7 kwv",
       "version": "AUD",
       "format": "FLAC"
     },
@@ -8574,7 +8926,7 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "Mountain View, CA",
       "venue": "Shoreline Amphitheater",
-      "notes": "DAT(M) · Schoeps MK4 · unk",
+      "notes": "DAT(M) \u00b7 Schoeps MK4 \u00b7 unk",
       "version": "AUD",
       "format": "FLAC"
     },
@@ -8587,7 +8939,7 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "Mountain View, CA",
       "venue": "Shoreline Amphitheater- ANA",
-      "notes": "1 · Radio Shack SCR-59 · josh provost",
+      "notes": "1 \u00b7 Radio Shack SCR-59 \u00b7 josh provost",
       "version": "AUD",
       "format": "FLAC"
     },
@@ -8600,7 +8952,7 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "Mountain View, CA",
       "venue": "Shoreline Amphitheater",
-      "notes": "DAT(3) · Shure SM-57",
+      "notes": "DAT(3) \u00b7 Shure SM-57",
       "version": "AUD",
       "format": "FLAC"
     },
@@ -8613,7 +8965,21 @@ const ARTIST_DATA = {
       "state": "TX",
       "location": "Fort Worth, TX",
       "venue": "Texas Motor Speedway",
-      "notes": "CSBmod · jack white",
+      "notes": "CSBmod \u00b7 jack white",
+      "version": "AUD",
+      "format": "FLAC",
+      "textFile": "1997-11-01 - Fort Worth, TX - Texas Motor Speedway.txt"
+    },
+    {
+      "year": 1997,
+      "month": 11,
+      "day": 1,
+      "dateStr": "11-1-1997",
+      "city": "Fort Worth",
+      "state": "TX",
+      "location": "Fort Worth, TX",
+      "venue": "Texas Motor Speedway",
+      "notes": "Panasonic built-in \u00b7 strtj",
       "version": "AUD",
       "format": "FLAC"
     },
@@ -8626,20 +8992,7 @@ const ARTIST_DATA = {
       "state": "TX",
       "location": "Fort Worth, TX",
       "venue": "Texas Motor Speedway",
-      "notes": "Panasonic built-in · strtj",
-      "version": "AUD",
-      "format": "FLAC"
-    },
-    {
-      "year": 1997,
-      "month": 11,
-      "day": 1,
-      "dateStr": "11-1-1997",
-      "city": "Fort Worth",
-      "state": "TX",
-      "location": "Fort Worth, TX",
-      "venue": "Texas Motor Speedway",
-      "notes": "DAT(1) · ECM-717 · bryan freeman",
+      "notes": "DAT(1) \u00b7 ECM-717 \u00b7 bryan freeman",
       "version": "AUD #4",
       "format": "FLAC"
     },
@@ -8652,9 +9005,10 @@ const ARTIST_DATA = {
       "state": "IL",
       "location": "Chicago, IL",
       "venue": "Aragon Ballroom",
-      "notes": "DAT(1) · CSC · mz transfer",
+      "notes": "DAT(1) \u00b7 CSC \u00b7 mz transfer",
       "version": "AUD #1",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1997-11-03 - Chicago, IL - Aragon Ballroom.txt"
     },
     {
       "year": 1997,
@@ -8665,7 +9019,7 @@ const ARTIST_DATA = {
       "state": "IL",
       "location": "Chicago, IL",
       "venue": "Aragon Ballroom",
-      "notes": "AT-822 · unk",
+      "notes": "AT-822 \u00b7 unk",
       "version": "AUD",
       "format": "FLAC"
     },
@@ -8678,7 +9032,7 @@ const ARTIST_DATA = {
       "state": "IL",
       "location": "Chicago, IL",
       "venue": "Aragon Ballroom",
-      "notes": "DAT(3) · CSC",
+      "notes": "DAT(3) \u00b7 CSC",
       "version": "AUD",
       "format": "FLAC"
     },
@@ -8691,7 +9045,7 @@ const ARTIST_DATA = {
       "state": "IL",
       "location": "Chicago, IL",
       "venue": "Aragon Ballroom",
-      "notes": "DDC(3) · CSC",
+      "notes": "DDC(3) \u00b7 CSC",
       "version": "AUD (48k)",
       "format": "FLAC"
     },
@@ -8704,9 +9058,10 @@ const ARTIST_DATA = {
       "state": "FL",
       "location": "Miami, FL",
       "venue": "Orange Bowl",
-      "notes": "DDC(3) · CSC",
+      "notes": "DDC(3) \u00b7 CSC",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1997-12-05 - Miami, FL - Orange Bowl.txt"
     },
     {
       "year": 1997,
@@ -8732,7 +9087,8 @@ const ARTIST_DATA = {
       "venue": "Viper Room",
       "notes": "CSB",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1998-01-15 - Los Angeles, CA - Viper Room.txt"
     },
     {
       "year": 1998,
@@ -8743,7 +9099,7 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "Los Angeles, CA",
       "venue": "Viper Room",
-      "notes": "ANA(1) · SM57 · ed davis",
+      "notes": "ANA(1) \u00b7 SM57 \u00b7 ed davis",
       "version": "AUD",
       "format": "FLAC"
     },
@@ -8756,9 +9112,10 @@ const ARTIST_DATA = {
       "state": "IL",
       "location": "Chicago, IL",
       "venue": "The Metro",
-      "notes": "ANA(1) · jason briggeman",
+      "notes": "ANA(1) \u00b7 jason briggeman",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1998-05-02 - Chicago, IL - The Metro.txt"
     },
     {
       "year": 1998,
@@ -8769,9 +9126,10 @@ const ARTIST_DATA = {
       "state": "UK",
       "location": "London, UK",
       "venue": "BBC Studios",
-      "notes": "Later · mickyshambles rip",
+      "notes": "Later \u00b7 mickyshambles rip",
       "version": "FM",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1998-05-12 - London, UK - Later with Jools Holland.txt"
     },
     {
       "year": 1998,
@@ -8782,7 +9140,7 @@ const ARTIST_DATA = {
       "state": "UK",
       "location": "London, UK",
       "venue": "BBC Studios",
-      "notes": "Later · Satellite Stream Capture",
+      "notes": "Later \u00b7 Satellite Stream Capture",
       "version": "PRO",
       "format": "DVD"
     },
@@ -8795,9 +9153,10 @@ const ARTIST_DATA = {
       "state": "DE",
       "location": "Hamburg, DE",
       "venue": "Spielbudenplatz",
-      "notes": "DAT(M) · Radio Fritz FM",
+      "notes": "DAT(M) \u00b7 Radio Fritz FM",
       "version": "FM",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1998-05-14 - Hamburg, DE - Spielbudenplatz.txt"
     },
     {
       "year": 1998,
@@ -8808,7 +9167,7 @@ const ARTIST_DATA = {
       "state": "DE",
       "location": "Hamburg, DE",
       "venue": "Spielbudenplatz (Soundcheck)",
-      "notes": "ANA(x) · unk",
+      "notes": "ANA(x) \u00b7 unk",
       "version": "AUD",
       "format": "FLAC"
     },
@@ -8860,7 +9219,7 @@ const ARTIST_DATA = {
       "state": "DE",
       "location": "Hamburg, DE",
       "venue": "Spielbudenplatz",
-      "notes": "Viva TV · Master",
+      "notes": "Viva TV \u00b7 Master",
       "version": "PRO",
       "format": "DVD"
     },
@@ -8875,7 +9234,8 @@ const ARTIST_DATA = {
       "venue": "Porto Antico",
       "notes": "An",
       "version": "FM",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1998-05-16 - Genova, Italy - Porto Antico.txt"
     },
     {
       "year": 1998,
@@ -8899,7 +9259,7 @@ const ARTIST_DATA = {
       "state": "Italy",
       "location": "Genova, Italy",
       "venue": "Porto Antico",
-      "notes": "An · complete",
+      "notes": "An \u00b7 complete",
       "version": "FM",
       "format": "MP3"
     },
@@ -8912,9 +9272,10 @@ const ARTIST_DATA = {
       "state": "UK",
       "location": "London, UK",
       "venue": "Later with Jools Holland",
-      "notes": "BBC · 1 · pierre leroy transfer",
+      "notes": "BBC \u00b7 1 \u00b7 pierre leroy transfer",
       "version": "PRO #1a",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1998-05-18 - London, UK - Later with Jools Holland.txt"
     },
     {
       "year": 1998,
@@ -8953,7 +9314,8 @@ const ARTIST_DATA = {
       "venue": "Aula Magna",
       "notes": "FM>DAT",
       "version": "FM",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1998-05-19 - Lisbon, Portugal - Aula Magna .txt"
     },
     {
       "year": 1998,
@@ -8992,7 +9354,8 @@ const ARTIST_DATA = {
       "venue": "RTVE Studios",
       "notes": "Pro",
       "version": "PRO #1",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1998-05-20 - Madrid, ES - RTVE Studios.txt"
     },
     {
       "year": 1998,
@@ -9016,7 +9379,7 @@ const ARTIST_DATA = {
       "state": "ES",
       "location": "Madrid, ES",
       "venue": "RTVE Studios",
-      "notes": "Source 2 · spaldz transfer",
+      "notes": "Source 2 \u00b7 spaldz transfer",
       "version": "PRO",
       "format": "DVD"
     },
@@ -9031,7 +9394,8 @@ const ARTIST_DATA = {
       "venue": "Guggenheim Art Museum",
       "notes": "TV Broadcast",
       "version": "TV #1",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1998-05-21 - Bilbao, ES - Guggenheim Art Museum.txt"
     },
     {
       "year": 1998,
@@ -9042,7 +9406,7 @@ const ARTIST_DATA = {
       "state": "ES",
       "location": "Bilbao, ES",
       "venue": "Guggenheim Art Museum",
-      "notes": "VID(M) · 1",
+      "notes": "VID(M) \u00b7 1",
       "version": "SBD",
       "format": "SHN"
     },
@@ -9055,7 +9419,7 @@ const ARTIST_DATA = {
       "state": "ES",
       "location": "Bilbao, ES",
       "venue": "Guggenheim Art Museum",
-      "notes": "VID(M) · 1",
+      "notes": "VID(M) \u00b7 1",
       "version": "PRO #1a",
       "format": "FLAC"
     },
@@ -9068,7 +9432,7 @@ const ARTIST_DATA = {
       "state": "ES",
       "location": "Bilbao, ES",
       "venue": "Guggenheim Art Museum",
-      "notes": "Swedish TV Channel 1 · trekytt",
+      "notes": "Swedish TV Channel 1 \u00b7 trekytt",
       "version": "PRO",
       "format": "DVD"
     },
@@ -9081,9 +9445,10 @@ const ARTIST_DATA = {
       "state": "UK",
       "location": "London, UK",
       "venue": "TFI Friday",
-      "notes": "Riverside · mickeyshambles rip",
+      "notes": "Riverside \u00b7 mickeyshambles rip",
       "version": "FM",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1998-05-22 - London, UK - TFI Friday - Riverside Studios.txt"
     },
     {
       "year": 1998,
@@ -9094,7 +9459,7 @@ const ARTIST_DATA = {
       "state": "UK",
       "location": "London, UK",
       "venue": "TFI Friday",
-      "notes": "Riverside · mickeyshambles rip",
+      "notes": "Riverside \u00b7 mickeyshambles rip",
       "version": "PRO #1",
       "format": "FLAC"
     },
@@ -9109,7 +9474,8 @@ const ARTIST_DATA = {
       "venue": "Sheperd's Bush Empire",
       "notes": "ANA-L",
       "version": "TV",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1998-05-23 - London, UK - Shepherd's Bush Empire.txt"
     },
     {
       "year": 1998,
@@ -9120,7 +9486,7 @@ const ARTIST_DATA = {
       "state": "UK",
       "location": "London, UK",
       "venue": "Sheperd's Bush Empire",
-      "notes": "VHS(M) · unk",
+      "notes": "VHS(M) \u00b7 unk",
       "version": "TV",
       "format": "FLAC"
     },
@@ -9133,7 +9499,7 @@ const ARTIST_DATA = {
       "state": "UK",
       "location": "London, UK",
       "venue": "Sheperd's Bush Empire",
-      "notes": "four source · complete · rhinowing",
+      "notes": "four source \u00b7 complete \u00b7 rhinowing",
       "version": "MIX",
       "format": "FLAC"
     },
@@ -9161,7 +9527,8 @@ const ARTIST_DATA = {
       "venue": "Skansen Park *Tivoli",
       "notes": "",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1998-05-25 - Stockholm, Sweden - Skansen Park - Tivoli.txt"
     },
     {
       "year": 1998,
@@ -9172,7 +9539,7 @@ const ARTIST_DATA = {
       "state": "Sweden",
       "location": "Stockholm, Sweden",
       "venue": "Skansen Park",
-      "notes": "ANA(x) · unk",
+      "notes": "ANA(x) \u00b7 unk",
       "version": "AUD #4",
       "format": "FLAC 24"
     },
@@ -9213,7 +9580,8 @@ const ARTIST_DATA = {
       "venue": "Tivoli Gardens",
       "notes": "Denmark's Radio P3 Live",
       "version": "FM",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1998-05-26 - Copenhagen, DK - Tivoli Gardens.txt"
     },
     {
       "year": 1998,
@@ -9237,7 +9605,7 @@ const ARTIST_DATA = {
       "state": "DK",
       "location": "Copenhagen, DK",
       "venue": "Tivoli Gardens",
-      "notes": "complete · Danish P3 Live & VHS(5",
+      "notes": "complete \u00b7 Danish P3 Live & VHS(5",
       "version": "FM",
       "format": "FLAC"
     },
@@ -9250,9 +9618,10 @@ const ARTIST_DATA = {
       "state": "BE",
       "location": "Brussels, BE",
       "venue": "Botanique Gardens",
-      "notes": "MD(x) · unk",
+      "notes": "MD(x) \u00b7 unk",
       "version": "AUD #1",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1998-05-28 - Brussels, BE - Botanique Gardens.txt"
     },
     {
       "year": 1998,
@@ -9304,7 +9673,8 @@ const ARTIST_DATA = {
       "venue": "",
       "notes": "",
       "version": "PRO #1a",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1998-05-29 - Nurburg, DE - Nuburgring.txt"
     },
     {
       "year": 1998,
@@ -9317,7 +9687,8 @@ const ARTIST_DATA = {
       "venue": "Olympia Theater FM>D8",
       "notes": "",
       "version": "FM",
-      "format": "SHN"
+      "format": "SHN",
+      "textFile": "1998-05-31 - Dublin, Ireland - Olympia Theater .txt"
     },
     {
       "year": 1998,
@@ -9328,7 +9699,7 @@ const ARTIST_DATA = {
       "state": "Ireland",
       "location": "Dublin, Ireland",
       "venue": "Olympia Theater",
-      "notes": "VHS(M) · bill mayer",
+      "notes": "VHS(M) \u00b7 bill mayer",
       "version": "PRO #1a",
       "format": "FLAC"
     },
@@ -9356,7 +9727,8 @@ const ARTIST_DATA = {
       "venue": "Megaland",
       "notes": "Pinkpop",
       "version": "Silver CD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1998-06-01 - Landgraaf, NL - Megaland - Pinkpop Festival.txt"
     },
     {
       "year": 1998,
@@ -9369,7 +9741,8 @@ const ARTIST_DATA = {
       "venue": "Palais des Sports",
       "notes": "DAT",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1998-06-04 - Paris, France - Palais des Sports.txt"
     },
     {
       "year": 1998,
@@ -9419,7 +9792,7 @@ const ARTIST_DATA = {
       "state": "France",
       "location": "Paris, France",
       "venue": "Palais des Sports",
-      "notes": "VHS(M) · dreamer & nonocop",
+      "notes": "VHS(M) \u00b7 dreamer & nonocop",
       "version": "PRO",
       "format": "DVD"
     },
@@ -9434,7 +9807,8 @@ const ARTIST_DATA = {
       "venue": "Canal+ Studios",
       "notes": "NPA",
       "version": "TV #1",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1998-06-05 - Paris, France - NPA Studios.txt"
     },
     {
       "year": 1998,
@@ -9445,7 +9819,7 @@ const ARTIST_DATA = {
       "state": "France",
       "location": "Paris, France",
       "venue": "Canal+ Studios (NPA)",
-      "notes": "VHS(2) · josh provost",
+      "notes": "VHS(2) \u00b7 josh provost",
       "version": "PRO #1b",
       "format": "FLAC"
     },
@@ -9471,9 +9845,10 @@ const ARTIST_DATA = {
       "state": "Italy",
       "location": "Rome, Italy",
       "venue": "Gradinata dell'EUR",
-      "notes": "ANA(1) · unk",
+      "notes": "ANA(1) \u00b7 unk",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1998-06-07 - Rome, Italy - Gradinata dell'EUR .txt"
     },
     {
       "year": 1998,
@@ -9484,7 +9859,7 @@ const ARTIST_DATA = {
       "state": "Italy",
       "location": "Rome, Italy",
       "venue": "Gradinata dell'EUR",
-      "notes": "VHS(x) · unk",
+      "notes": "VHS(x) \u00b7 unk",
       "version": "AUD",
       "format": "DVD"
     },
@@ -9499,7 +9874,8 @@ const ARTIST_DATA = {
       "venue": "Lycabettus Theater",
       "notes": "",
       "version": "SBD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1998-06-09 - Athens, Greece - Lycabettus Theater .txt"
     },
     {
       "year": 1998,
@@ -9510,9 +9886,10 @@ const ARTIST_DATA = {
       "state": "Australia",
       "location": "Sydney, Australia",
       "venue": "Entertainment Centre",
-      "notes": "ECM-909 · unk",
+      "notes": "ECM-909 \u00b7 unk",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1998-06-18 - Sydney, Australia - Entertainment Centre .txt"
     },
     {
       "year": 1998,
@@ -9525,7 +9902,8 @@ const ARTIST_DATA = {
       "venue": "International Shipping Harbor at Circular Quay \"Secret Gig\" FM>DAT",
       "notes": "",
       "version": "FM",
-      "format": "SHN"
+      "format": "SHN",
+      "textFile": "1998-06-19 - Sydney, Australia - International Shipping Harbor at Circular Quay.txt"
     },
     {
       "year": 1998,
@@ -9536,7 +9914,7 @@ const ARTIST_DATA = {
       "state": "Australia",
       "location": "Sydney, Australia",
       "venue": "International Shipping Harbor at Circular Quay",
-      "notes": "FM>TV · eclect",
+      "notes": "FM>TV \u00b7 eclect",
       "version": "FM #3",
       "format": "FLAC"
     },
@@ -9562,9 +9940,10 @@ const ARTIST_DATA = {
       "state": "Australia",
       "location": "Melbourne, Australia",
       "venue": "Melbourne Park",
-      "notes": "ANA(x) · Built-in · unk",
+      "notes": "ANA(x) \u00b7 Built-in \u00b7 unk",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1998-06-20 - Melbourne, Australia - Melbourne Park .txt"
     },
     {
       "year": 1998,
@@ -9575,7 +9954,7 @@ const ARTIST_DATA = {
       "state": "Australia",
       "location": "Melbourne, Australia",
       "venue": "Melbourne Park",
-      "notes": "ANA(1?) · roman79 transfer",
+      "notes": "ANA(1?) \u00b7 roman79 transfer",
       "version": "AUD",
       "format": "FLAC"
     },
@@ -9588,9 +9967,10 @@ const ARTIST_DATA = {
       "state": "Japan",
       "location": "Tokyo, Japan",
       "venue": "Nippon Budokan",
-      "notes": "Soundcheck · D8/CSB",
+      "notes": "Soundcheck \u00b7 D8/CSB",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1998-06-23 - Tokyo, Japan - Nippon Budokan.txt"
     },
     {
       "year": 1998,
@@ -9627,7 +10007,7 @@ const ARTIST_DATA = {
       "state": "Japan",
       "location": "Tokyo, Japan",
       "venue": "Nippon Budokan",
-      "notes": "Panasonic NV-SVB1 · unk",
+      "notes": "Panasonic NV-SVB1 \u00b7 unk",
       "version": "AUD",
       "format": "DVD"
     },
@@ -9640,9 +10020,10 @@ const ARTIST_DATA = {
       "state": "Japan",
       "location": "Hachioji, Japan",
       "venue": "Koyakuin University",
-      "notes": "AT-822 · unk",
+      "notes": "AT-822 \u00b7 unk",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1998-06-24 - Hachioji, Japan - Koyakuin University.txt"
     },
     {
       "year": 1998,
@@ -9679,9 +10060,10 @@ const ARTIST_DATA = {
       "state": "Australia",
       "location": "Sydney, Australia",
       "venue": "JJJ Studios",
-      "notes": "ANA(x) · FM>ANA",
+      "notes": "ANA(x) \u00b7 FM>ANA",
       "version": "FM",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1998-06-25 - Sydney, Australia - JJJ Studios .txt"
     },
     {
       "year": 1998,
@@ -9694,7 +10076,8 @@ const ARTIST_DATA = {
       "venue": "Bill Graham Civic Auditorium",
       "notes": "Schoeps CCM4",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1998-06-30 - San Francisco, CA - Bill Graham Civic Auditorium.txt"
     },
     {
       "year": 1998,
@@ -9718,7 +10101,7 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "San Francisco, CA",
       "venue": "Bill Graham Civic Auditorium",
-      "notes": "DAT(2) · unk",
+      "notes": "DAT(2) \u00b7 unk",
       "version": "AUD",
       "format": "FLAC"
     },
@@ -9757,9 +10140,10 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "Los Angeles, CA",
       "venue": "Universal Amphitheater",
-      "notes": "DAT(M) · CSBmod",
+      "notes": "DAT(M) \u00b7 CSBmod",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1998-07-01 - Los Angeles, CA - Universal Amphitheater.txt"
     },
     {
       "year": 1998,
@@ -9770,7 +10154,7 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "Los Angeles, CA",
       "venue": "Universal Amphitheater",
-      "notes": "VHS(x) · unk",
+      "notes": "VHS(x) \u00b7 unk",
       "version": "AUD",
       "format": "DVD"
     },
@@ -9783,7 +10167,21 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "Los Angeles, CA",
       "venue": "Universal Amphitheater",
-      "notes": "Hi8(M) · 1 · ben golomb",
+      "notes": "Hi8(M) \u00b7 1 \u00b7 ben golomb",
+      "version": "AUD",
+      "format": "FLAC",
+      "textFile": "1998-07-02 - Los Angeles, CA - Universal Amphitheater .txt"
+    },
+    {
+      "year": 1998,
+      "month": 7,
+      "day": 2,
+      "dateStr": "7-2-1998",
+      "city": "Los Angeles",
+      "state": "CA",
+      "location": "Los Angeles, CA",
+      "venue": "Universal Amphitheater",
+      "notes": "ANA(M) \u00b7 ijwthstd",
       "version": "AUD",
       "format": "FLAC"
     },
@@ -9796,20 +10194,7 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "Los Angeles, CA",
       "venue": "Universal Amphitheater",
-      "notes": "ANA(M) · ijwthstd",
-      "version": "AUD",
-      "format": "FLAC"
-    },
-    {
-      "year": 1998,
-      "month": 7,
-      "day": 2,
-      "dateStr": "7-2-1998",
-      "city": "Los Angeles",
-      "state": "CA",
-      "location": "Los Angeles, CA",
-      "venue": "Universal Amphitheater",
-      "notes": "Hi8(M) · unk",
+      "notes": "Hi8(M) \u00b7 unk",
       "version": "AUD",
       "format": "DVD"
     },
@@ -9822,7 +10207,7 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "Los Angeles, CA",
       "venue": "Universal Amphitheater",
-      "notes": "Hi8(M) · unk · AUD#1 sync",
+      "notes": "Hi8(M) \u00b7 unk \u00b7 AUD#1 sync",
       "version": "AMT #1",
       "format": "MP4"
     },
@@ -9835,9 +10220,10 @@ const ARTIST_DATA = {
       "state": "WI",
       "location": "Milwaukee, WI",
       "venue": "Marcus Amphitheater",
-      "notes": "DSM-6 · unk",
+      "notes": "DSM-6 \u00b7 unk",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1998-07-05 - Milwaukee, WI - Marcus Amphitheater .txt"
     },
     {
       "year": 1998,
@@ -9861,9 +10247,10 @@ const ARTIST_DATA = {
       "state": "IL",
       "location": "Tinley Park, IL",
       "venue": "New World Music Theater \"Make A Wish\"",
-      "notes": "DAT(x) · MD",
+      "notes": "DAT(x) \u00b7 MD",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1998-07-07 - Tinley Park, IL - New World Music Theater .txt"
     },
     {
       "year": 1998,
@@ -9874,9 +10261,10 @@ const ARTIST_DATA = {
       "state": "MI",
       "location": "Detroit, MI",
       "venue": "State Theater",
-      "notes": "ANA(M) · unk",
+      "notes": "ANA(M) \u00b7 unk",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1998-07-08 - Detroit, MI - State Theater .txt"
     },
     {
       "year": 1998,
@@ -9889,7 +10277,8 @@ const ARTIST_DATA = {
       "venue": "Q101 Studios",
       "notes": "FM>ANA",
       "version": "FM",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1998-07-09 - Chicago, IL - Q101 Studios .txt"
     },
     {
       "year": 1998,
@@ -9900,9 +10289,10 @@ const ARTIST_DATA = {
       "state": "TX",
       "location": "Fort Worth, TX",
       "venue": "Will Rodgers Auditorium",
-      "notes": "DAT(M) · DSM-6S · chris milazzo",
+      "notes": "DAT(M) \u00b7 DSM-6S \u00b7 chris milazzo",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1998-07-10 - Fort Worth, TX - Will Rodgers Auditorium.txt"
     },
     {
       "year": 1998,
@@ -9913,7 +10303,7 @@ const ARTIST_DATA = {
       "state": "TX",
       "location": "Fort Worth, TX",
       "venue": "Will Rodgers Auditorium",
-      "notes": "Sennheiser MKE2 · unk",
+      "notes": "Sennheiser MKE2 \u00b7 unk",
       "version": "AUD",
       "format": "FLAC"
     },
@@ -9928,7 +10318,8 @@ const ARTIST_DATA = {
       "venue": "Aerial Theater",
       "notes": "fares halteh edit",
       "version": "preFM",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1998-07-12 - Houston, TX - Aerial Theater .txt"
     },
     {
       "year": 1998,
@@ -9954,7 +10345,8 @@ const ARTIST_DATA = {
       "venue": "CRC Studios",
       "notes": "Rockline interview",
       "version": "FM",
-      "format": "MP3"
+      "format": "MP3",
+      "textFile": "1998-07-13 - Chicago, IL - CRC Studios .txt"
     },
     {
       "year": 1998,
@@ -9967,7 +10359,8 @@ const ARTIST_DATA = {
       "venue": "Sandstone Ampitheatre",
       "notes": "MKE2",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1998-07-14 - Bonner Springs, KS - Sandstone Ampitheatre.txt"
     },
     {
       "year": 1998,
@@ -9978,9 +10371,10 @@ const ARTIST_DATA = {
       "state": "OK",
       "location": "Oklahoma City, OK",
       "venue": "All Sports Stadium",
-      "notes": "MKE2 · bryan freeland",
+      "notes": "MKE2 \u00b7 bryan freeland",
       "version": "AUD #1",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1998-07-15 - Oklahoma City, OK - All Sports Stadium.txt"
     },
     {
       "year": 1998,
@@ -9991,7 +10385,7 @@ const ARTIST_DATA = {
       "state": "OK",
       "location": "Oklahoma City, OK",
       "venue": "All Sports Stadium",
-      "notes": "DAT(x) · MKE2",
+      "notes": "DAT(x) \u00b7 MKE2",
       "version": "AUD",
       "format": "FLAC"
     },
@@ -10006,7 +10400,8 @@ const ARTIST_DATA = {
       "venue": "Heenepin Avenue Block Party",
       "notes": "DSM-6S",
       "version": "AUD",
-      "format": "SHN"
+      "format": "SHN",
+      "textFile": "1998-07-17 - Minneapolis, MN - Heenepin Avenue Block Party .txt"
     },
     {
       "year": 1998,
@@ -10030,7 +10425,7 @@ const ARTIST_DATA = {
       "state": "MN",
       "location": "Minneapolis, MN",
       "venue": "Hennepin Avenue",
-      "notes": "Block E · VHS",
+      "notes": "Block E \u00b7 VHS",
       "version": "AUD",
       "format": "DVD"
     },
@@ -10043,9 +10438,10 @@ const ARTIST_DATA = {
       "state": "Ontario",
       "location": "Toronto, Ontario",
       "venue": "Much Music Studios",
-      "notes": "Chum · Soundcheck · M · CSB",
+      "notes": "Chum \u00b7 Soundcheck \u00b7 M \u00b7 CSB",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1998-07-19 - Toronto, Ontario - Much Music Studios (w: soundchecks).txt"
     },
     {
       "year": 1998,
@@ -10082,9 +10478,10 @@ const ARTIST_DATA = {
       "state": "ON",
       "location": "Toronto, ON",
       "venue": "Street Outreach Servixces (Early) (MuchMusic Broadcast)",
-      "notes": "VHS(x) · stumpycat",
+      "notes": "VHS(x) \u00b7 stumpycat",
       "version": "PRO #1",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1998-07-20 - Toronto, Ontario - Massey Hall (w: soundchecks).txt"
     },
     {
       "year": 1998,
@@ -10095,7 +10492,7 @@ const ARTIST_DATA = {
       "state": "Ontario",
       "location": "Toronto, Ontario",
       "venue": "Massey Hall (w/ soundchecks)",
-      "notes": "DAT(M) · CSB",
+      "notes": "DAT(M) \u00b7 CSB",
       "version": "AUD #1",
       "format": "FLAC"
     },
@@ -10108,7 +10505,7 @@ const ARTIST_DATA = {
       "state": "Ontario",
       "location": "Toronto, Ontario",
       "venue": "Massey Hall",
-      "notes": "DAT(2) · MKE2",
+      "notes": "DAT(2) \u00b7 MKE2",
       "version": "AUD #1",
       "format": "FLAC"
     },
@@ -10134,9 +10531,10 @@ const ARTIST_DATA = {
       "state": "OH",
       "location": "Cuyahoga Falls, OH",
       "venue": "Blossom Music Theater",
-      "notes": "DAT(4) · MKE2",
+      "notes": "DAT(4) \u00b7 MKE2",
       "version": "AUD",
-      "format": "SHN"
+      "format": "SHN",
+      "textFile": "1998-07-21 - Cuyahoga Falls, OH - Blossom Music Theater .txt"
     },
     {
       "year": 1998,
@@ -10147,9 +10545,10 @@ const ARTIST_DATA = {
       "state": "OH",
       "location": "Cincinnati, OH",
       "venue": "Riverbend Music Center",
-      "notes": "DAT(M) · Sony 737>D8",
+      "notes": "DAT(M) \u00b7 Sony 737>D8",
       "version": "AUD",
-      "format": "SHN"
+      "format": "SHN",
+      "textFile": "1998-07-22 - Cincinnati, OH - Riverbend Music Center .txt"
     },
     {
       "year": 1998,
@@ -10162,7 +10561,8 @@ const ARTIST_DATA = {
       "venue": "Tower Theater",
       "notes": "",
       "version": "preFM",
-      "format": "SHN"
+      "format": "SHN",
+      "textFile": "1998-07-28 - Upper Darby, PA - Tower Theater .txt"
     },
     {
       "year": 1998,
@@ -10173,7 +10573,7 @@ const ARTIST_DATA = {
       "state": "PA",
       "location": "Upper Darby, PA",
       "venue": "Tower Theater",
-      "notes": "post FM · andy",
+      "notes": "post FM \u00b7 andy",
       "version": "FM #2",
       "format": "FLAC"
     },
@@ -10188,7 +10588,8 @@ const ARTIST_DATA = {
       "venue": "D.A.R. Constitution Hall",
       "notes": "CSB",
       "version": "FM",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1998-07-29 - Washington, D.C. - D.A.R. Constitution Hall.txt"
     },
     {
       "year": 1998,
@@ -10199,7 +10600,7 @@ const ARTIST_DATA = {
       "state": "D.C.",
       "location": "Washington, D.C.",
       "venue": "D.A.R. Constitution Hall",
-      "notes": "FM>DAT · unk",
+      "notes": "FM>DAT \u00b7 unk",
       "version": "FM",
       "format": "FLAC"
     },
@@ -10212,7 +10613,7 @@ const ARTIST_DATA = {
       "state": "D.C.",
       "location": "Washington, D.C.",
       "venue": "D.A.R. Constitution Hall",
-      "notes": "Internal Mic · lostbrook",
+      "notes": "Internal Mic \u00b7 lostbrook",
       "version": "FM",
       "format": "FLAC"
     },
@@ -10225,9 +10626,10 @@ const ARTIST_DATA = {
       "state": "NY",
       "location": "New York, NY",
       "venue": "53rd Street",
-      "notes": "DAT(M) · FM/TV · unk",
+      "notes": "DAT(M) \u00b7 FM/TV \u00b7 unk",
       "version": "FM",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1998-07-30 - New York, NY - 53rd Street.txt"
     },
     {
       "year": 1998,
@@ -10251,7 +10653,7 @@ const ARTIST_DATA = {
       "state": "NY",
       "location": "New York, NY",
       "venue": "53rd Street",
-      "notes": "MD(M) · CSBmod",
+      "notes": "MD(M) \u00b7 CSBmod",
       "version": "AUD",
       "format": "FLAC"
     },
@@ -10264,7 +10666,7 @@ const ARTIST_DATA = {
       "state": "NY",
       "location": "New York, NY",
       "venue": "53rd Street",
-      "notes": "In-house · x · magikarp99",
+      "notes": "In-house \u00b7 x \u00b7 magikarp99",
       "version": "TV",
       "format": "FLAC"
     },
@@ -10277,7 +10679,7 @@ const ARTIST_DATA = {
       "state": "NY",
       "location": "New York, NY",
       "venue": "53rd Street",
-      "notes": "Beta(M) · unk",
+      "notes": "Beta(M) \u00b7 unk",
       "version": "PRO #1",
       "format": "FLAC"
     },
@@ -10290,7 +10692,7 @@ const ARTIST_DATA = {
       "state": "NY",
       "location": "New York, NY",
       "venue": "53rd Street",
-      "notes": "unk transfer · magikarp99",
+      "notes": "unk transfer \u00b7 magikarp99",
       "version": "PRO #1c",
       "format": "FLAC"
     },
@@ -10316,9 +10718,10 @@ const ARTIST_DATA = {
       "state": "MA",
       "location": "Boston, MA",
       "venue": "Orpheum Theater",
-      "notes": "FM>DAT · unk",
+      "notes": "FM>DAT \u00b7 unk",
       "version": "FM",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1998-07-31 - Boston, MA - Orpheum Theater .txt"
     },
     {
       "year": 1998,
@@ -10331,7 +10734,8 @@ const ARTIST_DATA = {
       "venue": "Radio City Music Hall",
       "notes": "CSB",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1998-08-01 - New York, NY - Radio City Music Hall.txt"
     },
     {
       "year": 1998,
@@ -10342,7 +10746,7 @@ const ARTIST_DATA = {
       "state": "NY",
       "location": "New York, NY",
       "venue": "Radio City Music Hall",
-      "notes": "MZr-55 · spfreak77",
+      "notes": "MZr-55 \u00b7 spfreak77",
       "version": "AUD",
       "format": "FLAC"
     },
@@ -10355,7 +10759,7 @@ const ARTIST_DATA = {
       "state": "NY",
       "location": "New York, NY",
       "venue": "Radio City Music Hall",
-      "notes": "handheld Hi8 · 2 cam mix",
+      "notes": "handheld Hi8 \u00b7 2 cam mix",
       "version": "AUD",
       "format": "DVD"
     },
@@ -10370,7 +10774,8 @@ const ARTIST_DATA = {
       "venue": "Radio City Music Hall",
       "notes": "CSB",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1998-08-02 - New York, NY -Radio City Music Hall.txt"
     },
     {
       "year": 1998,
@@ -10381,7 +10786,7 @@ const ARTIST_DATA = {
       "state": "NY",
       "location": "New York, NY",
       "venue": "Radio City Music Hall",
-      "notes": "Panasonic Tape Recorder · xdx",
+      "notes": "Panasonic Tape Recorder \u00b7 xdx",
       "version": "AUD",
       "format": "FLAC"
     },
@@ -10394,7 +10799,7 @@ const ARTIST_DATA = {
       "state": "NY",
       "location": "New York, NY",
       "venue": "Radio City Music Hall",
-      "notes": "DAT(x) · Schoeps CMC5-MK4 · boris lvovsky",
+      "notes": "DAT(x) \u00b7 Schoeps CMC5-MK4 \u00b7 boris lvovsky",
       "version": "AUD #5",
       "format": "FLAC"
     },
@@ -10420,9 +10825,10 @@ const ARTIST_DATA = {
       "state": "NY",
       "location": "New York City, NY",
       "venue": "Unknown Venue",
-      "notes": "Live · M",
+      "notes": "Live \u00b7 M",
       "version": "PRO #1a",
-      "format": "SHN"
+      "format": "SHN",
+      "textFile": "1998-08-04 - Atlanta, GA - Fox Theatre .txt"
     },
     {
       "year": 1998,
@@ -10446,9 +10852,10 @@ const ARTIST_DATA = {
       "state": "TN",
       "location": "Nashville, TN",
       "venue": "Grand Ole Opry",
-      "notes": "Acoustic show · CSBmod",
+      "notes": "Acoustic show \u00b7 CSBmod",
       "version": "AUD",
-      "format": "SHN"
+      "format": "SHN",
+      "textFile": "1998-08-05 - Nashville, TN - Grand Ole Opry (Acoustic show) .txt"
     },
     {
       "year": 1998,
@@ -10461,7 +10868,8 @@ const ARTIST_DATA = {
       "venue": "Ovens Auditorium",
       "notes": "FM>DAT",
       "version": "FM",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1998-08-06 - Charlotte, NC - Ovens Auditorium.txt"
     },
     {
       "year": 1998,
@@ -10474,7 +10882,8 @@ const ARTIST_DATA = {
       "venue": "Sunrise Musical Theatre",
       "notes": "unk",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1998-08-08 - Sunrise, FL - Sunrise Musical Theatre .txt"
     },
     {
       "year": 1998,
@@ -10485,7 +10894,7 @@ const ARTIST_DATA = {
       "state": "FL",
       "location": "Sunrise, FL",
       "venue": "Sunrise Musical Theatre",
-      "notes": "DAT(M) · ECM-44B · jon duchin",
+      "notes": "DAT(M) \u00b7 ECM-44B \u00b7 jon duchin",
       "version": "AUD #1",
       "format": "FLAC"
     },
@@ -10500,7 +10909,8 @@ const ARTIST_DATA = {
       "venue": "Palacio de los Deportes",
       "notes": "Promo CD",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1998-08-11 - Mexico City, MX -Palacio de los Deportes.txt"
     },
     {
       "year": 1998,
@@ -10524,9 +10934,10 @@ const ARTIST_DATA = {
       "state": "BR",
       "location": "Sao Paulo, BR",
       "venue": "SBT Studios",
-      "notes": "VHS(1) · andrew fogelsong",
+      "notes": "VHS(1) \u00b7 andrew fogelsong",
       "version": "TV",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1998-08-17 - Sao Paulo, BR - SBT Studios.txt"
     },
     {
       "year": 1998,
@@ -10539,7 +10950,8 @@ const ARTIST_DATA = {
       "venue": "Centro Cultural Estacion Mapocho (TV Broadcast)",
       "notes": "VHS(1)",
       "version": "PRO #1b",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1998-08-19 - Santiago, Chile - Centro Cultural Estacion Mapocho.txt"
     },
     {
       "year": 1998,
@@ -10563,9 +10975,10 @@ const ARTIST_DATA = {
       "state": "Argentina",
       "location": "Buenos Aires, Argentina",
       "venue": "Parque Sarmiento",
-      "notes": "Aiwa JS345 · espheni",
+      "notes": "Aiwa JS345 \u00b7 espheni",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1998-08-21 - Buenos Aires, Argentina - Parque Sarmiento.txt"
     },
     {
       "year": 1998,
@@ -10589,7 +11002,7 @@ const ARTIST_DATA = {
       "state": "Argentina",
       "location": "Buenos Aires, Argentina",
       "venue": "Parque Sarmiento",
-      "notes": "ANA(2) · unk",
+      "notes": "ANA(2) \u00b7 unk",
       "version": "AUD",
       "format": "SHN"
     },
@@ -10628,9 +11041,10 @@ const ARTIST_DATA = {
       "state": "NY",
       "location": "New York, NY",
       "venue": "Rockefeller Center",
-      "notes": "Studio · M",
+      "notes": "Studio \u00b7 M",
       "version": "PRO #1",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1998-09-26 - New York City, NY - Saturday Night Live.txt"
     },
     {
       "year": 1998,
@@ -10643,7 +11057,8 @@ const ARTIST_DATA = {
       "venue": "VH1 Fashion Awards",
       "notes": "TV>VID(M)",
       "version": "PRO #1",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1998-10-23 - New York City, NY - VH1 Fashion Awards.txt"
     },
     {
       "year": 1998,
@@ -10654,8 +11069,36 @@ const ARTIST_DATA = {
       "state": "NY",
       "location": "New York, NY",
       "venue": "Unknown Venue",
-      "notes": "VH1 · M",
+      "notes": "VH1 \u00b7 M",
       "version": "TV",
+      "format": "SHN",
+      "textFile": "1998-10-25 - New York City, NY - VH1 Fashion Awards.txt"
+    },
+    {
+      "year": 1998,
+      "month": 10,
+      "day": 31,
+      "dateStr": "10-31-1998",
+      "city": "Los Angeles",
+      "state": "CA",
+      "location": "Los Angeles, CA",
+      "venue": "Dodger Stadium",
+      "notes": "DAT(x) \u00b7 MKE2",
+      "version": "AUD",
+      "format": "FLAC",
+      "textFile": "1998-10-31 - Los Angeles, CA - Dodger Stadium.txt"
+    },
+    {
+      "year": 1998,
+      "month": 10,
+      "day": 31,
+      "dateStr": "10-31-1998",
+      "city": "Los Angeles",
+      "state": "CA",
+      "location": "Los Angeles, CA",
+      "venue": "Dodger Stadium",
+      "notes": "DAT(M) \u00b7 DAT>CSC",
+      "version": "AUD",
       "format": "SHN"
     },
     {
@@ -10667,33 +11110,7 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "Los Angeles, CA",
       "venue": "Dodger Stadium",
-      "notes": "DAT(x) · MKE2",
-      "version": "AUD",
-      "format": "FLAC"
-    },
-    {
-      "year": 1998,
-      "month": 10,
-      "day": 31,
-      "dateStr": "10-31-1998",
-      "city": "Los Angeles",
-      "state": "CA",
-      "location": "Los Angeles, CA",
-      "venue": "Dodger Stadium",
-      "notes": "DAT(M) · DAT>CSC",
-      "version": "AUD",
-      "format": "SHN"
-    },
-    {
-      "year": 1998,
-      "month": 10,
-      "day": 31,
-      "dateStr": "10-31-1998",
-      "city": "Los Angeles",
-      "state": "CA",
-      "location": "Los Angeles, CA",
-      "venue": "Dodger Stadium",
-      "notes": "WAV(M) · muldoon",
+      "notes": "WAV(M) \u00b7 muldoon",
       "version": "SBD #1b",
       "format": "FLAC"
     },
@@ -10706,7 +11123,7 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "Los Angeles, CA",
       "venue": "Kiss Ultimate Halloween Party",
-      "notes": "Beta(M) · unk",
+      "notes": "Beta(M) \u00b7 unk",
       "version": "PRO #1b",
       "format": "FLAC"
     },
@@ -10721,7 +11138,8 @@ const ARTIST_DATA = {
       "venue": "Shrine Auditorium",
       "notes": "Hi8(M)",
       "version": "AUD",
-      "format": "DVD"
+      "format": "DVD",
+      "textFile": "1998-12-12 - Los Angeles, CA - Shrine Auditorium.txt"
     },
     {
       "year": 1999,
@@ -10732,9 +11150,10 @@ const ARTIST_DATA = {
       "state": "MI",
       "location": "Detroit, MI",
       "venue": "St. Andrews Hall",
-      "notes": "Soundcheck · mono webcast · rhinowing",
+      "notes": "Soundcheck \u00b7 mono webcast \u00b7 rhinowing",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1999-04-10 - Detroit, MI - St. Andrews Hall.txt"
     },
     {
       "year": 1999,
@@ -10745,7 +11164,7 @@ const ARTIST_DATA = {
       "state": "MI",
       "location": "Detroit, MI",
       "venue": "St. Andrews Hall",
-      "notes": "DAT(M) · Sony 959A · g.m.",
+      "notes": "DAT(M) \u00b7 Sony 959A \u00b7 g.m.",
       "version": "AUD",
       "format": "FLAC"
     },
@@ -10810,9 +11229,10 @@ const ARTIST_DATA = {
       "state": "OH",
       "location": "Cincinnati, OH",
       "venue": "Bogarts",
-      "notes": "DAT(2) · CSBmod",
+      "notes": "DAT(2) \u00b7 CSBmod",
       "version": "AUD",
-      "format": "SHN"
+      "format": "SHN",
+      "textFile": "1999-04-12 - Cincinnati, OH - Bogarts.txt"
     },
     {
       "year": 1999,
@@ -10823,7 +11243,7 @@ const ARTIST_DATA = {
       "state": "OH",
       "location": "Cincinnati, OH",
       "venue": "Bogarts",
-      "notes": "DAT(M) · Countryman Isomax II · msd",
+      "notes": "DAT(M) \u00b7 Countryman Isomax II \u00b7 msd",
       "version": "AUD",
       "format": "FLAC"
     },
@@ -10849,9 +11269,10 @@ const ARTIST_DATA = {
       "state": "NY",
       "location": "New York, NY",
       "venue": "Tramps",
-      "notes": "MD(M) · unk",
+      "notes": "MD(M) \u00b7 unk",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1999-04-14 - New York, NY - Tramps.txt"
     },
     {
       "year": 1999,
@@ -10862,7 +11283,7 @@ const ARTIST_DATA = {
       "state": "NY",
       "location": "New York, NY",
       "venue": "Tramps",
-      "notes": "SBD lossy source + AUD · beauchamp mix",
+      "notes": "SBD lossy source + AUD \u00b7 beauchamp mix",
       "version": "MIX",
       "format": "FLAC 24"
     },
@@ -10875,9 +11296,10 @@ const ARTIST_DATA = {
       "state": "D.C.",
       "location": "Washington, D.C.",
       "venue": "930 Club (inc)",
-      "notes": "MD(x) · CSB · spfreak77",
+      "notes": "MD(x) \u00b7 CSB \u00b7 spfreak77",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1999-04-15 - Washington, D.C. - 930 Club.txt"
     },
     {
       "year": 1999,
@@ -10888,7 +11310,7 @@ const ARTIST_DATA = {
       "state": "D.C.",
       "location": "Washington, D.C.",
       "venue": "930 Club",
-      "notes": "CSBmod · unk",
+      "notes": "CSBmod \u00b7 unk",
       "version": "AUD",
       "format": "SHN"
     },
@@ -10901,9 +11323,10 @@ const ARTIST_DATA = {
       "state": "PA",
       "location": "Pittsburgh, PA",
       "venue": "Metropol",
-      "notes": "CSBmod · unk",
+      "notes": "CSBmod \u00b7 unk",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1999-04-17 - Pittsburgh, PA - Metropol.txt"
     },
     {
       "year": 1999,
@@ -10914,7 +11337,7 @@ const ARTIST_DATA = {
       "state": "PA",
       "location": "Pittsburgh, PA",
       "venue": "Metropol",
-      "notes": "DAT(M) · Schoeps CCM4",
+      "notes": "DAT(M) \u00b7 Schoeps CCM4",
       "version": "AUD #1",
       "format": "FLAC"
     },
@@ -10927,7 +11350,7 @@ const ARTIST_DATA = {
       "state": "PA",
       "location": "Pittsburgh, PA",
       "venue": "Metropol",
-      "notes": "DAT(2) · CSBmod · mike ziegler",
+      "notes": "DAT(2) \u00b7 CSBmod \u00b7 mike ziegler",
       "version": "AUD #2",
       "format": "FLAC"
     },
@@ -10940,7 +11363,7 @@ const ARTIST_DATA = {
       "state": "PA",
       "location": "Pittsburgh, PA",
       "venue": "Metropol",
-      "notes": "CSB · spfreak77",
+      "notes": "CSB \u00b7 spfreak77",
       "version": "AUD",
       "format": "FLAC"
     },
@@ -10953,7 +11376,21 @@ const ARTIST_DATA = {
       "state": "CO",
       "location": "Denver, CO",
       "venue": "Ogden Theater",
-      "notes": "MD(M) · SM58",
+      "notes": "MD(M) \u00b7 SM58",
+      "version": "AUD",
+      "format": "FLAC",
+      "textFile": "1999-04-19 - Denver, CO - Ogden Theater.txt"
+    },
+    {
+      "year": 1999,
+      "month": 4,
+      "day": 19,
+      "dateStr": "4-19-1999",
+      "city": "Denver",
+      "state": "CO",
+      "location": "Denver, CO",
+      "venue": "Ogden Theater",
+      "notes": "MD(M) \u00b7 projecte",
       "version": "AUD",
       "format": "FLAC"
     },
@@ -10966,20 +11403,7 @@ const ARTIST_DATA = {
       "state": "CO",
       "location": "Denver, CO",
       "venue": "Ogden Theater",
-      "notes": "MD(M) · projecte",
-      "version": "AUD",
-      "format": "FLAC"
-    },
-    {
-      "year": 1999,
-      "month": 4,
-      "day": 19,
-      "dateStr": "4-19-1999",
-      "city": "Denver",
-      "state": "CO",
-      "location": "Denver, CO",
-      "venue": "Ogden Theater",
-      "notes": "unk · jeff loder",
+      "notes": "unk \u00b7 jeff loder",
       "version": "AUD",
       "format": "FLAC"
     },
@@ -10994,7 +11418,8 @@ const ARTIST_DATA = {
       "venue": "Celebrity Theatre",
       "notes": "MKE2s",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1999-04-21 - Phoenix, AZ - Celebrity Theatre.txt"
     },
     {
       "year": 1999,
@@ -11018,7 +11443,7 @@ const ARTIST_DATA = {
       "state": "AZ",
       "location": "Phoenix, AZ",
       "venue": "Celebrity Theatre",
-      "notes": "CSHEB · unk",
+      "notes": "CSHEB \u00b7 unk",
       "version": "AUD",
       "format": "FLAC"
     },
@@ -11031,9 +11456,10 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "San Diego, CA",
       "venue": "Spreckels Theater",
-      "notes": "DAT(M) · MK4 · unk",
+      "notes": "DAT(M) \u00b7 MK4 \u00b7 unk",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1999-04-23 - San Diego, CA - Spreckels Theater.txt"
     },
     {
       "year": 1999,
@@ -11044,7 +11470,7 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "San Diego, CA",
       "venue": "Spreckels Theater",
-      "notes": "DAT(2) · CSHEB · fogelsong transfer",
+      "notes": "DAT(2) \u00b7 CSHEB \u00b7 fogelsong transfer",
       "version": "AUD #3",
       "format": "FLAC"
     },
@@ -11057,7 +11483,7 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "San Diego, CA",
       "venue": "Spreckels Theater",
-      "notes": "Hi8(M) · 1",
+      "notes": "Hi8(M) \u00b7 1",
       "version": "AUD",
       "format": "DVD"
     },
@@ -11070,9 +11496,10 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "Los Angeles, CA",
       "venue": "The Roxy",
-      "notes": "CSBmod · unk",
+      "notes": "CSBmod \u00b7 unk",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1999-04-24 - Los Angeles, CA - The Roxy.txt"
     },
     {
       "year": 1999,
@@ -11083,7 +11510,7 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "Los Angeles, CA",
       "venue": "The Roxy",
-      "notes": "2024 remaster · lordflapjack",
+      "notes": "2024 remaster \u00b7 lordflapjack",
       "version": "AUD",
       "format": "FLAC"
     },
@@ -11096,9 +11523,10 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "Mountain View, CA",
       "venue": "Shoreline Amphitheater",
-      "notes": "DAT(1) · SS-DSM6",
+      "notes": "DAT(1) \u00b7 SS-DSM6",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1999-10-30 - Mountain View, CA - Shoreline Amphitheater.txt"
     },
     {
       "year": 1999,
@@ -11135,9 +11563,10 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "Mountain View, CA",
       "venue": "Shoreline Amphitheater",
-      "notes": "DAT(1) · SS-DSM6",
+      "notes": "DAT(1) \u00b7 SS-DSM6",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1999-10-31 - Mountain View, CA - Shoreline Amphitheater.txt"
     },
     {
       "year": 1999,
@@ -11174,9 +11603,10 @@ const ARTIST_DATA = {
       "state": "IL",
       "location": "Chicago, IL",
       "venue": "Metro",
-      "notes": "MD(x) · CSB · spfreak77",
+      "notes": "MD(x) \u00b7 CSB \u00b7 spfreak77",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1999-12-20 - Chicago, IL - Metro.txt"
     },
     {
       "year": 1999,
@@ -11213,9 +11643,10 @@ const ARTIST_DATA = {
       "state": "IL",
       "location": "Chicago, IL",
       "venue": "Metro",
-      "notes": "CSBmod · jason briggeman",
+      "notes": "CSBmod \u00b7 jason briggeman",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1999-12-21 - Chicago, IL - Metro.txt"
     },
     {
       "year": 1999,
@@ -11226,7 +11657,7 @@ const ARTIST_DATA = {
       "state": "IL",
       "location": "Chicago, IL",
       "venue": "Metro",
-      "notes": "MD(x) · CSB · spfreak77",
+      "notes": "MD(x) \u00b7 CSB \u00b7 spfreak77",
       "version": "AUD",
       "format": "FLAC"
     },
@@ -11252,9 +11683,10 @@ const ARTIST_DATA = {
       "state": "Ireland",
       "location": "Dublin, Ireland",
       "venue": "Vicar Street Bar",
-      "notes": "ANA(2) · unk",
+      "notes": "ANA(2) \u00b7 unk",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1999-12-29 - Dublin, Ireland - Vicar Street Bar.txt"
     },
     {
       "year": 2000,
@@ -11267,7 +11699,8 @@ const ARTIST_DATA = {
       "venue": "Cirkus",
       "notes": "bocaj",
       "version": "FM",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "2000-01-07 - Stockholm, Sweden - Cirkus.txt"
     },
     {
       "year": 2000,
@@ -11291,7 +11724,7 @@ const ARTIST_DATA = {
       "state": "Sweden",
       "location": "Stockholm, Sweden",
       "venue": "Cirkus",
-      "notes": "WAV(M) · patch - ECMTS120 · complete",
+      "notes": "WAV(M) \u00b7 patch - ECMTS120 \u00b7 complete",
       "version": "AUD",
       "format": "FLAC"
     },
@@ -11317,9 +11750,10 @@ const ARTIST_DATA = {
       "state": "Denmark",
       "location": "Copenhagen, Denmark",
       "venue": "Cirkusbygningen",
-      "notes": "ANA(x) · Built-in mic",
+      "notes": "ANA(x) \u00b7 Built-in mic",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "2000-01-09 - Copenhagen, Denmark - Cirkusbygningen.txt"
     },
     {
       "year": 2000,
@@ -11332,7 +11766,8 @@ const ARTIST_DATA = {
       "venue": "Muffathalle",
       "notes": "unk",
       "version": "AUD",
-      "format": "SHN"
+      "format": "SHN",
+      "textFile": "2000-01-11 - Muenchen, Denmark - Muffathalle.txt"
     },
     {
       "year": 2000,
@@ -11343,9 +11778,10 @@ const ARTIST_DATA = {
       "state": "Italy",
       "location": "Milan, Italy",
       "venue": "Alcatraz",
-      "notes": "ECM-909 · unk",
+      "notes": "ECM-909 \u00b7 unk",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "2000-01-12 - Milan, Italy - Alcatraz.txt"
     },
     {
       "year": 2000,
@@ -11356,9 +11792,10 @@ const ARTIST_DATA = {
       "state": "Portugal",
       "location": "Lisboa, Portugal",
       "venue": "Coliseu dos Recreios",
-      "notes": "MD(M) · ECM-717 · ziggyswoon",
+      "notes": "MD(M) \u00b7 ECM-717 \u00b7 ziggyswoon",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "2000-01-15 - Lisboa, Portugal - Coliseu dos Recreios.txt"
     },
     {
       "year": 2000,
@@ -11382,9 +11819,10 @@ const ARTIST_DATA = {
       "state": "France",
       "location": "Paris, France",
       "venue": "Canal+",
-      "notes": "Satellite TV>DAT · mlois edit",
+      "notes": "Satellite TV>DAT \u00b7 mlois edit",
       "version": "TV #1",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "2000-01-17 - Paris, France - Canal.txt"
     },
     {
       "year": 2000,
@@ -11395,7 +11833,7 @@ const ARTIST_DATA = {
       "state": "France",
       "location": "Paris, France",
       "venue": "Canal+",
-      "notes": "Promo VHS · unk",
+      "notes": "Promo VHS \u00b7 unk",
       "version": "PRO #1",
       "format": "FLAC"
     },
@@ -11423,7 +11861,8 @@ const ARTIST_DATA = {
       "venue": "Elysee Montmartre",
       "notes": "Marantz EM8",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "2000-01-18 - Paris, France - Elysee Montmartre.txt"
     },
     {
       "year": 2000,
@@ -11449,7 +11888,8 @@ const ARTIST_DATA = {
       "venue": "Cirque Royale",
       "notes": "CSBmod",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "2000-01-19 - Brussels, Belgium - Cirque Royale.txt"
     },
     {
       "year": 2000,
@@ -11473,9 +11913,10 @@ const ARTIST_DATA = {
       "state": "UK",
       "location": "London, UK",
       "venue": "Dominion Theatre",
-      "notes": "MD(M) · CSB",
+      "notes": "MD(M) \u00b7 CSB",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "2000-01-22 - London, UK - Dominion Theatre.txt"
     },
     {
       "year": 2000,
@@ -11488,7 +11929,8 @@ const ARTIST_DATA = {
       "venue": "Muziekcentrum Vredenburg \"Het Lek\" Radio 3FM Broadcast",
       "notes": "magnix",
       "version": "FM",
-      "format": "SHN"
+      "format": "SHN",
+      "textFile": "2000-01-24 - Utrecht, The Netherlands - Muziekcentrum Vredenburg.txt"
     },
     {
       "year": 2000,
@@ -11538,9 +11980,10 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "Los Angeles, CA",
       "venue": "ABC Studios",
-      "notes": "Politically · TV>DAT(x",
+      "notes": "Politically \u00b7 TV>DAT(x",
       "version": "TV #1",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "2000-01-30 - Los Angeles, CA - Politically Incorrect - ABC Studios.txt"
     },
     {
       "year": 2000,
@@ -11553,7 +11996,8 @@ const ARTIST_DATA = {
       "venue": "Granada Theater",
       "notes": "ANA(x)",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "2000-01-31 - Lawrence, KS - Granada Theater.txt"
     },
     {
       "year": 2000,
@@ -11577,9 +12021,10 @@ const ARTIST_DATA = {
       "state": "OR",
       "location": "Portland, OR",
       "venue": "Berbati's Pan",
-      "notes": "CSBmod · swinny",
+      "notes": "CSBmod \u00b7 swinny",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "2000-02-05 - Portland, OR - Berbati's Pan.txt"
     },
     {
       "year": 2000,
@@ -11590,7 +12035,7 @@ const ARTIST_DATA = {
       "state": "OR",
       "location": "Portland, OR",
       "venue": "Berbati's Pan",
-      "notes": "ANA(x) · TCM-17 · unk",
+      "notes": "ANA(x) \u00b7 TCM-17 \u00b7 unk",
       "version": "AUD",
       "format": "FLAC"
     },
@@ -11603,9 +12048,10 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "Palo Alto, CA",
       "venue": "Edge",
-      "notes": "Schoeps CCM4 · unk",
+      "notes": "Schoeps CCM4 \u00b7 unk",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "2000-02-06 - Palo Alto, CA - Edge.txt"
     },
     {
       "year": 2000,
@@ -11616,9 +12062,10 @@ const ARTIST_DATA = {
       "state": "NV",
       "location": "Las Vegas, NV",
       "venue": "Huntridge Theatre",
-      "notes": "ECM-717 · unk",
+      "notes": "ECM-717 \u00b7 unk",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "2000-02-08 - Las Vegas, NV - Huntridge Theatre.txt"
     },
     {
       "year": 2000,
@@ -11629,7 +12076,35 @@ const ARTIST_DATA = {
       "state": "AZ",
       "location": "Tempe, AZ",
       "venue": "Bostone's",
-      "notes": "CSBmod · ed davis",
+      "notes": "CSBmod \u00b7 ed davis",
+      "version": "AUD",
+      "format": "FLAC",
+      "textFile": "2000-02-10 - Tempe, AZ - Bostone's.txt"
+    },
+    {
+      "year": 2000,
+      "month": 2,
+      "day": 12,
+      "dateStr": "2-12-2000",
+      "city": "Dallas",
+      "state": "TX",
+      "location": "Dallas, TX",
+      "venue": "Deep Ellum Live",
+      "notes": "DAT(M) \u00b7 SS-DSM-6S",
+      "version": "AUD",
+      "format": "FLAC",
+      "textFile": "2000-02-12 - Dallas, TX - Deep Ellum Live.txt"
+    },
+    {
+      "year": 2000,
+      "month": 2,
+      "day": 12,
+      "dateStr": "2-12-2000",
+      "city": "Dallas",
+      "state": "TX",
+      "location": "Dallas, TX",
+      "venue": "Deep Ellum Live",
+      "notes": "DAT(M) \u00b7 SS-DSM-6S \u00b7 chris milazzo",
       "version": "AUD",
       "format": "FLAC"
     },
@@ -11642,7 +12117,7 @@ const ARTIST_DATA = {
       "state": "TX",
       "location": "Dallas, TX",
       "venue": "Deep Ellum Live",
-      "notes": "DAT(M) · SS-DSM-6S",
+      "notes": "DAT(M) \u00b7 SS-DSM-6S \u00b7 complete",
       "version": "AUD",
       "format": "FLAC"
     },
@@ -11655,33 +12130,7 @@ const ARTIST_DATA = {
       "state": "TX",
       "location": "Dallas, TX",
       "venue": "Deep Ellum Live",
-      "notes": "DAT(M) · SS-DSM-6S · chris milazzo",
-      "version": "AUD",
-      "format": "FLAC"
-    },
-    {
-      "year": 2000,
-      "month": 2,
-      "day": 12,
-      "dateStr": "2-12-2000",
-      "city": "Dallas",
-      "state": "TX",
-      "location": "Dallas, TX",
-      "venue": "Deep Ellum Live",
-      "notes": "DAT(M) · SS-DSM-6S · complete",
-      "version": "AUD",
-      "format": "FLAC"
-    },
-    {
-      "year": 2000,
-      "month": 2,
-      "day": 12,
-      "dateStr": "2-12-2000",
-      "city": "Dallas",
-      "state": "TX",
-      "location": "Dallas, TX",
-      "venue": "Deep Ellum Live",
-      "notes": "DAT(M) · CSBmod · arnold leal",
+      "notes": "DAT(M) \u00b7 CSBmod \u00b7 arnold leal",
       "version": "AUD #3",
       "format": "FLAC"
     },
@@ -11696,7 +12145,8 @@ const ARTIST_DATA = {
       "venue": "Five Points Music Hall",
       "notes": "ECM-717",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "2000-02-14 - Birmingham, AL - Five Points Music Hall.txt"
     },
     {
       "year": 2000,
@@ -11709,7 +12159,8 @@ const ARTIST_DATA = {
       "venue": "Specs Music",
       "notes": "ECM-44B",
       "version": "AUD #1",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "2000-02-16 - Miami, FL - Specs Music.txt"
     },
     {
       "year": 2000,
@@ -11722,7 +12173,8 @@ const ARTIST_DATA = {
       "venue": "Cat's Cradle",
       "notes": "",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "2000-02-19 - Carrboro, NC - Cat's Cradle.txt"
     },
     {
       "year": 2000,
@@ -11733,7 +12185,7 @@ const ARTIST_DATA = {
       "state": "NC",
       "location": "Carrboro, NC",
       "venue": "Cat's Cradle",
-      "notes": "DAT(x) · d. weeks",
+      "notes": "DAT(x) \u00b7 d. weeks",
       "version": "AUD",
       "format": "FLAC"
     },
@@ -11746,7 +12198,7 @@ const ARTIST_DATA = {
       "state": "NC",
       "location": "Carrboro, NC",
       "venue": "Cat's Cradle",
-      "notes": "MD(M) · AT-? · unk",
+      "notes": "MD(M) \u00b7 AT-? \u00b7 unk",
       "version": "AUD #3",
       "format": "FLAC"
     },
@@ -11759,9 +12211,10 @@ const ARTIST_DATA = {
       "state": "NY",
       "location": "Albany, NY",
       "venue": "Colonie Center Mall",
-      "notes": "CSBmod · unk",
+      "notes": "CSBmod \u00b7 unk",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "2000-02-23 - Albany, NY - Colonie Center Mall.txt"
     },
     {
       "year": 2000,
@@ -11772,7 +12225,7 @@ const ARTIST_DATA = {
       "state": "NY",
       "location": "Albany, NY",
       "venue": "Colonie Center Mall",
-      "notes": "CSB · spfreak77",
+      "notes": "CSB \u00b7 spfreak77",
       "version": "AUD",
       "format": "FLAC"
     },
@@ -11785,9 +12238,10 @@ const ARTIST_DATA = {
       "state": "IL",
       "location": "Urbana, IL",
       "venue": "Canopy Club (Soundcheck)",
-      "notes": "DAT(M) · CSBmod",
+      "notes": "DAT(M) \u00b7 CSBmod",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "2000-02-27 - Urbana, IL - Canopy Club.txt"
     },
     {
       "year": 2000,
@@ -11798,7 +12252,7 @@ const ARTIST_DATA = {
       "state": "IL",
       "location": "Urbana, IL",
       "venue": "Canopy Club",
-      "notes": "AUD>MD · unk",
+      "notes": "AUD>MD \u00b7 unk",
       "version": "AUD",
       "format": "FLAC"
     },
@@ -11811,7 +12265,35 @@ const ARTIST_DATA = {
       "state": "NY",
       "location": "New York, NY",
       "venue": "HMV",
-      "notes": "CSB · unk",
+      "notes": "CSB \u00b7 unk",
+      "version": "AUD",
+      "format": "FLAC",
+      "textFile": "2000-02-29 - New York, NY - HMV.txt"
+    },
+    {
+      "year": 2000,
+      "month": 3,
+      "day": 2,
+      "dateStr": "3-2-2000",
+      "city": "Providence",
+      "state": "RI",
+      "location": "Providence, RI",
+      "venue": "Lupo's",
+      "notes": "CSB \u00b7 spfreak77",
+      "version": "AUD",
+      "format": "FLAC",
+      "textFile": "2000-03-02 - Providence, RI - Lupo's.txt"
+    },
+    {
+      "year": 2000,
+      "month": 3,
+      "day": 2,
+      "dateStr": "3-2-2000",
+      "city": "Providence",
+      "state": "RI",
+      "location": "Providence, RI",
+      "venue": "Lupo's",
+      "notes": "DAT(x) \u00b7 SS-DSM6",
       "version": "AUD",
       "format": "FLAC"
     },
@@ -11824,33 +12306,7 @@ const ARTIST_DATA = {
       "state": "RI",
       "location": "Providence, RI",
       "venue": "Lupo's",
-      "notes": "CSB · spfreak77",
-      "version": "AUD",
-      "format": "FLAC"
-    },
-    {
-      "year": 2000,
-      "month": 3,
-      "day": 2,
-      "dateStr": "3-2-2000",
-      "city": "Providence",
-      "state": "RI",
-      "location": "Providence, RI",
-      "venue": "Lupo's",
-      "notes": "DAT(x) · SS-DSM6",
-      "version": "AUD",
-      "format": "FLAC"
-    },
-    {
-      "year": 2000,
-      "month": 3,
-      "day": 2,
-      "dateStr": "3-2-2000",
-      "city": "Providence",
-      "state": "RI",
-      "location": "Providence, RI",
-      "venue": "Lupo's",
-      "notes": "DAT(x) · SS-DSM6 · M · CSBmod · dave asselin",
+      "notes": "DAT(x) \u00b7 SS-DSM6 \u00b7 M \u00b7 CSBmod \u00b7 dave asselin",
       "version": "AUD #3",
       "format": "FLAC"
     },
@@ -11863,9 +12319,10 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "Hollywood, CA",
       "venue": "Virgin Megastore",
-      "notes": "CSBmod · unk",
+      "notes": "CSBmod \u00b7 unk",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "2000-03-05 - Hollywood, CA - Virgin Megastore.txt"
     },
     {
       "year": 2000,
@@ -11876,9 +12333,10 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "Los Angeles, CA",
       "venue": "KROQ Studios",
-      "notes": "Kevin · BC and JC Interview · M · FM>ANA",
+      "notes": "Kevin \u00b7 BC and JC Interview \u00b7 M \u00b7 FM>ANA",
       "version": "FM",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "2000-03-06 - Los Angeles, CA - KROQ Studios - Kevin & Bean Show.txt"
     },
     {
       "year": 2000,
@@ -11891,7 +12349,8 @@ const ARTIST_DATA = {
       "venue": "KNDD Studios Interview- FM>R300",
       "notes": "",
       "version": "FM #1",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "2000-03-07 - Seattle, WA - KNDD Studios.txt"
     },
     {
       "year": 2000,
@@ -11928,9 +12387,10 @@ const ARTIST_DATA = {
       "state": "NY",
       "location": "New York, NY",
       "venue": "TImes Square",
-      "notes": "MTV · CSB · spfreak77",
+      "notes": "MTV \u00b7 CSB \u00b7 spfreak77",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "2000-03-09 - New York, NY -TImes Square - MTV Studios.txt"
     },
     {
       "year": 2000,
@@ -11956,7 +12416,8 @@ const ARTIST_DATA = {
       "venue": "MusiquePlus Studios",
       "notes": "SS-DSM-6S",
       "version": "AUD #1",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "2000-03-10 - Montreal, Quebec - MusiquePlus Studios.txt"
     },
     {
       "year": 2000,
@@ -11967,7 +12428,7 @@ const ARTIST_DATA = {
       "state": "Quebec",
       "location": "Montreal, Quebec",
       "venue": "MusiquePlus Studios",
-      "notes": "VHS(M) · M · unk",
+      "notes": "VHS(M) \u00b7 M \u00b7 unk",
       "version": "PRO #2",
       "format": "FLAC"
     },
@@ -11993,9 +12454,10 @@ const ARTIST_DATA = {
       "state": "Quebec",
       "location": "Montreal, Quebec",
       "venue": "Spectrum",
-      "notes": "DSM-6S · f. halteh",
+      "notes": "DSM-6S \u00b7 f. halteh",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "2000-03-11 - Montreal, Quebec - Spectrum.txt"
     },
     {
       "year": 2000,
@@ -12008,7 +12470,8 @@ const ARTIST_DATA = {
       "venue": "Guvernment",
       "notes": "SS-DSM6S",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "2000-03-12 - Toronto, Ontario - Guvernment.txt"
     },
     {
       "year": 2000,
@@ -12019,9 +12482,10 @@ const ARTIST_DATA = {
       "state": "KS",
       "location": "Kansas City, KS",
       "venue": "Memorial Hall",
-      "notes": "CSB · unk",
+      "notes": "CSB \u00b7 unk",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "2000-04-08 - Kansas City, KS - Memorial Hall.txt"
     },
     {
       "year": 2000,
@@ -12032,7 +12496,7 @@ const ARTIST_DATA = {
       "state": "KS",
       "location": "Kansas City, KS",
       "venue": "Memorial Hall",
-      "notes": "CSBmod · jason briggeman",
+      "notes": "CSBmod \u00b7 jason briggeman",
       "version": "AUD",
       "format": "SHN"
     },
@@ -12045,9 +12509,10 @@ const ARTIST_DATA = {
       "state": "MO",
       "location": "St. Louis, MO",
       "venue": "American Theater",
-      "notes": "SPPB · 34",
+      "notes": "SPPB \u00b7 34",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "2000-04-10 - St. Louis, MO - American Theater.txt"
     },
     {
       "year": 2000,
@@ -12058,9 +12523,10 @@ const ARTIST_DATA = {
       "state": "MN",
       "location": "Minneapolis, MN",
       "venue": "Northrop Auditorium",
-      "notes": "CSB · pjp",
+      "notes": "CSB \u00b7 pjp",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "2000-04-12 - Minneapolis, MN - Northrop Auditorium.txt"
     },
     {
       "year": 2000,
@@ -12099,7 +12565,8 @@ const ARTIST_DATA = {
       "venue": "Rave Ballroom",
       "notes": "CSBmod > D100",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "2000-04-13 - Milwaukee, WI - Rave Ballroom.txt"
     },
     {
       "year": 2000,
@@ -12123,9 +12590,10 @@ const ARTIST_DATA = {
       "state": "IL",
       "location": "Chicago, IL",
       "venue": "Aragon Ballroom",
-      "notes": "CSB · spfreak77",
+      "notes": "CSB \u00b7 spfreak77",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "2000-04-15 - Chicago, IL - Aragon Ballroom.txt"
     },
     {
       "year": 2000,
@@ -12149,9 +12617,10 @@ const ARTIST_DATA = {
       "state": "IL",
       "location": "Chicago, IL",
       "venue": "Aragon Ballroom",
-      "notes": "DAT(M) · krw_co",
+      "notes": "DAT(M) \u00b7 krw_co",
       "version": "FM",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "2000-04-16 - Chicago, IL - Aragon Ballroom.txt"
     },
     {
       "year": 2000,
@@ -12162,7 +12631,7 @@ const ARTIST_DATA = {
       "state": "IL",
       "location": "Chicago, IL",
       "venue": "Aragon Ballroom",
-      "notes": "DAT(1) · fogelsong transfer",
+      "notes": "DAT(1) \u00b7 fogelsong transfer",
       "version": "FM #1",
       "format": "FLAC"
     },
@@ -12188,7 +12657,7 @@ const ARTIST_DATA = {
       "state": "IL",
       "location": "Chicago, IL",
       "venue": "Aragon Ballroom",
-      "notes": "thir13en remaster · Version 1",
+      "notes": "thir13en remaster \u00b7 Version 1",
       "version": "FM",
       "format": "FLAC"
     },
@@ -12214,9 +12683,10 @@ const ARTIST_DATA = {
       "state": "IN",
       "location": "West Lafayette, IN",
       "venue": "Elliot Hall of Music",
-      "notes": "CSB · unk",
+      "notes": "CSB \u00b7 unk",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "2000-04-18 - West Lafayette, IN - Elliot Hall of Music.txt"
     },
     {
       "year": 2000,
@@ -12229,7 +12699,8 @@ const ARTIST_DATA = {
       "venue": "Hill Auditorium",
       "notes": "DPA 4061",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "2000-04-19 - Ann Arbor, MI - Hill Auditorium.txt"
     },
     {
       "year": 2000,
@@ -12240,7 +12711,7 @@ const ARTIST_DATA = {
       "state": "MI",
       "location": "Ann Arbor, MI",
       "venue": "Hill Auditorium",
-      "notes": "DAT(M) · DPA 4061",
+      "notes": "DAT(M) \u00b7 DPA 4061",
       "version": "AUD (48k)",
       "format": "FLAC"
     },
@@ -12253,7 +12724,7 @@ const ARTIST_DATA = {
       "state": "MI",
       "location": "Ann Arbor, MI",
       "venue": "Hill Auditorium",
-      "notes": "DSM-6S · fares halteh",
+      "notes": "DSM-6S \u00b7 fares halteh",
       "version": "AUD",
       "format": "FLAC"
     },
@@ -12266,7 +12737,7 @@ const ARTIST_DATA = {
       "state": "MI",
       "location": "Ann Arbor, MI",
       "venue": "Hill Auditorium",
-      "notes": "SPPB · eric agnew",
+      "notes": "SPPB \u00b7 eric agnew",
       "version": "AUD",
       "format": "FLAC"
     },
@@ -12279,9 +12750,10 @@ const ARTIST_DATA = {
       "state": "OH",
       "location": "Dayton, OH",
       "venue": "Hara Arena",
-      "notes": "DAT(M) · AT-853 · unk",
+      "notes": "DAT(M) \u00b7 AT-853 \u00b7 unk",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "2000-04-21 - Dayton, OH - Hara Arena.txt"
     },
     {
       "year": 2000,
@@ -12305,9 +12777,10 @@ const ARTIST_DATA = {
       "state": "MI",
       "location": "Detroit, MI",
       "venue": "Michigan State Fairgrounds Coliseum",
-      "notes": "DSM-6S · fares halteh",
+      "notes": "DSM-6S \u00b7 fares halteh",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "2000-04-22 - Detroit, MI - Michigan State Fairgrounds Coliseum.txt"
     },
     {
       "year": 2000,
@@ -12318,7 +12791,7 @@ const ARTIST_DATA = {
       "state": "MI",
       "location": "Detroit, MI",
       "venue": "Michigan State Fairgrounds Coliseum",
-      "notes": "DAT(x) · SPPB · unk",
+      "notes": "DAT(x) \u00b7 SPPB \u00b7 unk",
       "version": "AUD #1",
       "format": "FLAC"
     },
@@ -12331,7 +12804,7 @@ const ARTIST_DATA = {
       "state": "MI",
       "location": "Detroit, MI",
       "venue": "Michigan State Fairgrounds Coliseum",
-      "notes": "CSB · spfeak77",
+      "notes": "CSB \u00b7 spfeak77",
       "version": "AUD",
       "format": "FLAC"
     },
@@ -12344,7 +12817,35 @@ const ARTIST_DATA = {
       "state": "OH",
       "location": "Kent, OH",
       "venue": "Memorial Athletic and Convocation Center",
-      "notes": "AT-853 · unk",
+      "notes": "AT-853 \u00b7 unk",
+      "version": "AUD",
+      "format": "FLAC",
+      "textFile": "2000-04-23 - Kent, OH - Memorial Athletic and Convocation Center.txt"
+    },
+    {
+      "year": 2000,
+      "month": 4,
+      "day": 25,
+      "dateStr": "4-25-2000",
+      "city": "New York",
+      "state": "NY",
+      "location": "New York, NY",
+      "venue": "Hammerstein Ballroom",
+      "notes": "DSM-6S \u00b7 david fresko",
+      "version": "AUD",
+      "format": "FLAC",
+      "textFile": "2000-04-25 - New York, NY - Hammerstein Ballroom.txt"
+    },
+    {
+      "year": 2000,
+      "month": 4,
+      "day": 25,
+      "dateStr": "4-25-2000",
+      "city": "New York",
+      "state": "NY",
+      "location": "New York, NY",
+      "venue": "Hammerstein Ballroom",
+      "notes": "CSB \u00b7 spfreak77",
       "version": "AUD",
       "format": "FLAC"
     },
@@ -12357,7 +12858,7 @@ const ARTIST_DATA = {
       "state": "NY",
       "location": "New York, NY",
       "venue": "Hammerstein Ballroom",
-      "notes": "DSM-6S · david fresko",
+      "notes": "Soundcheck \u00b7 CSBmod",
       "version": "AUD",
       "format": "FLAC"
     },
@@ -12370,33 +12871,7 @@ const ARTIST_DATA = {
       "state": "NY",
       "location": "New York, NY",
       "venue": "Hammerstein Ballroom",
-      "notes": "CSB · spfreak77",
-      "version": "AUD",
-      "format": "FLAC"
-    },
-    {
-      "year": 2000,
-      "month": 4,
-      "day": 25,
-      "dateStr": "4-25-2000",
-      "city": "New York",
-      "state": "NY",
-      "location": "New York, NY",
-      "venue": "Hammerstein Ballroom",
-      "notes": "Soundcheck · CSBmod",
-      "version": "AUD",
-      "format": "FLAC"
-    },
-    {
-      "year": 2000,
-      "month": 4,
-      "day": 25,
-      "dateStr": "4-25-2000",
-      "city": "New York",
-      "state": "NY",
-      "location": "New York, NY",
-      "venue": "Hammerstein Ballroom",
-      "notes": "DAT(M) · SS-DSM6s/L · tapeworm48",
+      "notes": "DAT(M) \u00b7 SS-DSM6s/L \u00b7 tapeworm48",
       "version": "AUD",
       "format": "FLAC"
     },
@@ -12422,9 +12897,10 @@ const ARTIST_DATA = {
       "state": "NY",
       "location": "New York, NY",
       "venue": "Ed Sullivan Theater",
-      "notes": "Late · M",
+      "notes": "Late \u00b7 M",
       "version": "PRO #1",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "2000-04-26 - New York City, NY - Late Show With David Letterman - Ed Sullivan Theater.txt"
     },
     {
       "year": 2000,
@@ -12435,7 +12911,21 @@ const ARTIST_DATA = {
       "state": "VA",
       "location": "Fairfax, VA",
       "venue": "Patriot Center",
-      "notes": "CSB · spfreak77",
+      "notes": "CSB \u00b7 spfreak77",
+      "version": "AUD",
+      "format": "FLAC",
+      "textFile": "2000-04-28 - Fairfax, VA - Patriot Center.txt"
+    },
+    {
+      "year": 2000,
+      "month": 4,
+      "day": 28,
+      "dateStr": "4-28-2000",
+      "city": "Fairfax",
+      "state": "VA",
+      "location": "Fairfax, VA",
+      "venue": "Patriot Center",
+      "notes": "SS-DSM 6S \u00b7 spoogles",
       "version": "AUD",
       "format": "FLAC"
     },
@@ -12448,20 +12938,7 @@ const ARTIST_DATA = {
       "state": "VA",
       "location": "Fairfax, VA",
       "venue": "Patriot Center",
-      "notes": "SS-DSM 6S · spoogles",
-      "version": "AUD",
-      "format": "FLAC"
-    },
-    {
-      "year": 2000,
-      "month": 4,
-      "day": 28,
-      "dateStr": "4-28-2000",
-      "city": "Fairfax",
-      "state": "VA",
-      "location": "Fairfax, VA",
-      "venue": "Patriot Center",
-      "notes": "Soundcheck · CSB",
+      "notes": "Soundcheck \u00b7 CSB",
       "version": "AUD",
       "format": "FLAC"
     },
@@ -12487,7 +12964,7 @@ const ARTIST_DATA = {
       "state": "VA",
       "location": "Fairfax, VA",
       "venue": "Patriot Center",
-      "notes": "DDC(2) · DSM-6S/L · fogelsong transfer",
+      "notes": "DDC(2) \u00b7 DSM-6S/L \u00b7 fogelsong transfer",
       "version": "AUD #7",
       "format": "FLAC"
     },
@@ -12500,9 +12977,10 @@ const ARTIST_DATA = {
       "state": "MA",
       "location": "Lowell, MA",
       "venue": "Paul Tsongas Arena",
-      "notes": "DSM-6S · dave fresko",
+      "notes": "DSM-6S \u00b7 dave fresko",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "2000-04-29 - Lowell, MA - Paul Tsongas Arena.txt"
     },
     {
       "year": 2000,
@@ -12513,9 +12991,10 @@ const ARTIST_DATA = {
       "state": "PA",
       "location": "Philadelphia, PA",
       "venue": "Electric Factory",
-      "notes": "Soundcheck · CSBmod",
+      "notes": "Soundcheck \u00b7 CSBmod",
       "version": "AUD #1",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "2000-05-01 - Philadelphia, PA - Electric Factory .txt"
     },
     {
       "year": 2000,
@@ -12552,7 +13031,21 @@ const ARTIST_DATA = {
       "state": "NC",
       "location": "Greensboro, NC",
       "venue": "Greensboro Coliseum Complex",
-      "notes": "CSBmod · spfreak77",
+      "notes": "CSBmod \u00b7 spfreak77",
+      "version": "AUD",
+      "format": "FLAC",
+      "textFile": "2000-05-02 - Greensboro, NC - Greensboro Coliseum Complex.txt"
+    },
+    {
+      "year": 2000,
+      "month": 5,
+      "day": 2,
+      "dateStr": "5-2-2000",
+      "city": "Greensboro",
+      "state": "NC",
+      "location": "Greensboro, NC",
+      "venue": "Greensboro Coliseum Complex",
+      "notes": "DPA 4061 \u00b7 d. weeks",
       "version": "AUD",
       "format": "FLAC"
     },
@@ -12565,20 +13058,7 @@ const ARTIST_DATA = {
       "state": "NC",
       "location": "Greensboro, NC",
       "venue": "Greensboro Coliseum Complex",
-      "notes": "DPA 4061 · d. weeks",
-      "version": "AUD",
-      "format": "FLAC"
-    },
-    {
-      "year": 2000,
-      "month": 5,
-      "day": 2,
-      "dateStr": "5-2-2000",
-      "city": "Greensboro",
-      "state": "NC",
-      "location": "Greensboro, NC",
-      "venue": "Greensboro Coliseum Complex",
-      "notes": "MD(M) · SS-DSM-6S/L · fogelsong transfer",
+      "notes": "MD(M) \u00b7 SS-DSM-6S/L \u00b7 fogelsong transfer",
       "version": "AUD #2",
       "format": "FLAC"
     },
@@ -12591,9 +13071,10 @@ const ARTIST_DATA = {
       "state": "SC",
       "location": "Columbia, SC",
       "venue": "Township Auditorium",
-      "notes": "Soundcheck · CSBmod",
+      "notes": "Soundcheck \u00b7 CSBmod",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "2000-05-03 - Columbia, SC - Township Auditorium.txt"
     },
     {
       "year": 2000,
@@ -12604,7 +13085,7 @@ const ARTIST_DATA = {
       "state": "SC",
       "location": "Columbia, SC",
       "venue": "Township Auditorium",
-      "notes": "CSBmod · david weeks",
+      "notes": "CSBmod \u00b7 david weeks",
       "version": "AUD",
       "format": "FLAC"
     },
@@ -12617,9 +13098,10 @@ const ARTIST_DATA = {
       "state": "FL",
       "location": "Clearwater, FL",
       "venue": "Ruth Eckerd Hall",
-      "notes": "CSC · jim fiesler",
+      "notes": "CSC \u00b7 jim fiesler",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "2000-05-05 - Clearwater, FL - Ruth Eckerd Hall.txt"
     },
     {
       "year": 2000,
@@ -12630,7 +13112,7 @@ const ARTIST_DATA = {
       "state": "FL",
       "location": "Clearwater, FL",
       "venue": "Ruth Eckerd Hall",
-      "notes": "CSBmod · larry fiske",
+      "notes": "CSBmod \u00b7 larry fiske",
       "version": "AUD",
       "format": "FLAC"
     },
@@ -12643,9 +13125,10 @@ const ARTIST_DATA = {
       "state": "FL",
       "location": "Sunrise, FL",
       "venue": "Sunrise Theater",
-      "notes": "CSB · l. fiske",
+      "notes": "CSB \u00b7 l. fiske",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "2000-05-06 - Sunrise, FL - Sunrise Theater.txt"
     },
     {
       "year": 2000,
@@ -12695,9 +13178,10 @@ const ARTIST_DATA = {
       "state": "FL",
       "location": "Orlando, FL",
       "venue": "Hard Rock Live",
-      "notes": "OKM-IIr · unk",
+      "notes": "OKM-IIr \u00b7 unk",
       "version": "AUD #1",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "2000-05-08 - Orlando, FL - Hard Rock Live.txt"
     },
     {
       "year": 2000,
@@ -12708,7 +13192,7 @@ const ARTIST_DATA = {
       "state": "FL",
       "location": "Orlando, FL",
       "venue": "Hard Rock Live",
-      "notes": "MD(M) · CSB · unk",
+      "notes": "MD(M) \u00b7 CSB \u00b7 unk",
       "version": "AUD",
       "format": "FLAC"
     },
@@ -12721,9 +13205,10 @@ const ARTIST_DATA = {
       "state": "GA",
       "location": "Atlanta, GA",
       "venue": "Tabernacle",
-      "notes": "FM>SBM-1>R300 · kindtaper",
+      "notes": "FM>SBM-1>R300 \u00b7 kindtaper",
       "version": "FM",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "2000-05-09 - Atlanta, GA - Tabernacle.txt"
     },
     {
       "year": 2000,
@@ -12734,9 +13219,10 @@ const ARTIST_DATA = {
       "state": "TX",
       "location": "Dallas, TX",
       "venue": "Bronco Bowl",
-      "notes": "DAT(M) · SS-DS 6S · chris milazzo",
+      "notes": "DAT(M) \u00b7 SS-DS 6S \u00b7 chris milazzo",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "2000-05-12 - Dallas, TX - Bronco Bowl.txt"
     },
     {
       "year": 2000,
@@ -12747,7 +13233,7 @@ const ARTIST_DATA = {
       "state": "TX",
       "location": "Dallas, TX",
       "venue": "Bronco Bowl",
-      "notes": "DSM-6S · andrew fogelsong",
+      "notes": "DSM-6S \u00b7 andrew fogelsong",
       "version": "AUD",
       "format": "FLAC"
     },
@@ -12762,7 +13248,8 @@ const ARTIST_DATA = {
       "venue": "Aerial Theater",
       "notes": "",
       "version": "SBD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "2000-05-13 - Houston, TX - Aerial Theater.txt"
     },
     {
       "year": 2000,
@@ -12773,7 +13260,7 @@ const ARTIST_DATA = {
       "state": "TX",
       "location": "Houston, TX",
       "venue": "Aerial Theater",
-      "notes": "DSM-6S · andrew fogelsong",
+      "notes": "DSM-6S \u00b7 andrew fogelsong",
       "version": "AUD",
       "format": "FLAC"
     },
@@ -12786,7 +13273,7 @@ const ARTIST_DATA = {
       "state": "TX",
       "location": "Houston, TX",
       "venue": "Aerial Theater",
-      "notes": "SS-DSM-6S · unk",
+      "notes": "SS-DSM-6S \u00b7 unk",
       "version": "AUD",
       "format": "FLAC"
     },
@@ -12812,7 +13299,7 @@ const ARTIST_DATA = {
       "state": "TX",
       "location": "Houston, TX",
       "venue": "Aerial Theater",
-      "notes": "DAT(M) · DSM-6S + SBD · thir13en",
+      "notes": "DAT(M) \u00b7 DSM-6S + SBD \u00b7 thir13en",
       "version": "MIX",
       "format": "FLAC"
     },
@@ -12825,9 +13312,10 @@ const ARTIST_DATA = {
       "state": "TX",
       "location": "Austin, TX",
       "venue": "Austin Music Hall",
-      "notes": "SBD>M1 · agnew",
+      "notes": "SBD>M1 \u00b7 agnew",
       "version": "SBD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "2000-05-14 - Austin, TX - Austin Music Hall.txt"
     },
     {
       "year": 2000,
@@ -12838,7 +13326,7 @@ const ARTIST_DATA = {
       "state": "TX",
       "location": "Austin, TX",
       "venue": "Austin Music Hall",
-      "notes": "Soundcheck · SPPB · d4",
+      "notes": "Soundcheck \u00b7 SPPB \u00b7 d4",
       "version": "AUD",
       "format": "FLAC"
     },
@@ -12851,7 +13339,7 @@ const ARTIST_DATA = {
       "state": "TX",
       "location": "Austin, TX",
       "venue": "Austin Music Hall",
-      "notes": "DAT(M) · DSM-6S · andrew fogelsong",
+      "notes": "DAT(M) \u00b7 DSM-6S \u00b7 andrew fogelsong",
       "version": "AUD",
       "format": "FLAC"
     },
@@ -12864,7 +13352,7 @@ const ARTIST_DATA = {
       "state": "TX",
       "location": "Austin, TX",
       "venue": "Austin Music Hall",
-      "notes": "DAT(M) · DSM-6S · andrew fogelsong · retransfer",
+      "notes": "DAT(M) \u00b7 DSM-6S \u00b7 andrew fogelsong \u00b7 retransfer",
       "version": "AUD #1",
       "format": "FLAC"
     },
@@ -12877,7 +13365,7 @@ const ARTIST_DATA = {
       "state": "TX",
       "location": "Austin, TX",
       "venue": "Austin Music Hall",
-      "notes": "DAT(M) · CSBMod · arnold leal",
+      "notes": "DAT(M) \u00b7 CSBMod \u00b7 arnold leal",
       "version": "AUD #4",
       "format": "FLAC"
     },
@@ -12903,9 +13391,10 @@ const ARTIST_DATA = {
       "state": "CO",
       "location": "Boulder, CO",
       "venue": "Balch Fieldhouse",
-      "notes": "CSB · bt",
+      "notes": "CSB \u00b7 bt",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "2000-05-16 - Boulder, CO - Balch Fieldhouse.txt"
     },
     {
       "year": 2000,
@@ -12916,9 +13405,10 @@ const ARTIST_DATA = {
       "state": "UT",
       "location": "Salt Lake City, UT",
       "venue": "Saltair Pavilion",
-      "notes": "CSB · david weeks",
+      "notes": "CSB \u00b7 david weeks",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "2000-05-17 - Salt Lake City, UT - Saltair Pavilion.txt"
     },
     {
       "year": 2000,
@@ -12931,7 +13421,8 @@ const ARTIST_DATA = {
       "venue": "Mesa Ampitheatre MD>CDR",
       "notes": "SPHC>MZ-R90",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "2000-05-19 - Mesa, AZ - Mesa Ampitheatre.txt"
     },
     {
       "year": 2000,
@@ -12942,7 +13433,7 @@ const ARTIST_DATA = {
       "state": "AZ",
       "location": "Mesa, AZ",
       "venue": "Mesa Ampitheatre",
-      "notes": "SPHC>MZR90 · patched",
+      "notes": "SPHC>MZR90 \u00b7 patched",
       "version": "AUD",
       "format": "FLAC"
     },
@@ -12968,9 +13459,10 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "San Diego, CA",
       "venue": "Open Air Theatre",
-      "notes": "Soundcheck · CSBmod",
+      "notes": "Soundcheck \u00b7 CSBmod",
       "version": "AUD #1",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "2000-05-20 - San Diego, CA - Open Air Theatre.txt"
     },
     {
       "year": 2000,
@@ -12981,7 +13473,7 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "San Diego, CA",
       "venue": "Open Air Theatre",
-      "notes": "DAT(1) · CSBmod",
+      "notes": "DAT(1) \u00b7 CSBmod",
       "version": "AUD #1",
       "format": "FLAC"
     },
@@ -12994,9 +13486,10 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "Santa Barbara, CA",
       "venue": "Santa Barbara Bowl",
-      "notes": "CSB · jason roth",
+      "notes": "CSB \u00b7 jason roth",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "2000-05-21 - Santa Barbara, CA - Santa Barbara Bowl.txt"
     },
     {
       "year": 2000,
@@ -13007,9 +13500,10 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "Universal City, CA",
       "venue": "Universal Amphitheater",
-      "notes": "CSB · crabbman",
+      "notes": "CSB \u00b7 crabbman",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "2000-05-23 - Universal City, CA - Universal Amphitheater.txt"
     },
     {
       "year": 2000,
@@ -13020,7 +13514,7 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "Universal City, CA",
       "venue": "Universal Amphitheater",
-      "notes": "DAT(M) · DPA 4061 · ed davis",
+      "notes": "DAT(M) \u00b7 DPA 4061 \u00b7 ed davis",
       "version": "AUD (48k)",
       "format": "FLAC"
     },
@@ -13059,7 +13553,7 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "Universal City, CA",
       "venue": "Universal Amphitheater",
-      "notes": "LQT(M) · CDNow Liquid Audio Promo CD",
+      "notes": "LQT(M) \u00b7 CDNow Liquid Audio Promo CD",
       "version": "SBD #1a",
       "format": "FLAC"
     },
@@ -13085,7 +13579,7 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "Universal City, CA",
       "venue": "Universal Amphitheater",
-      "notes": "Studio VHS Transfer · unk · magikarp99",
+      "notes": "Studio VHS Transfer \u00b7 unk \u00b7 magikarp99",
       "version": "PRO #2a",
       "format": "FLAC"
     },
@@ -13124,9 +13618,10 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "Berkeley, CA",
       "venue": "Berkeley Community Theatre",
-      "notes": "CSB · j. roth",
+      "notes": "CSB \u00b7 j. roth",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "2000-05-24 - Berkeley, CA - Berkeley Community Theatre.txt"
     },
     {
       "year": 2000,
@@ -13163,9 +13658,10 @@ const ARTIST_DATA = {
       "state": "ID",
       "location": "Boise, ID",
       "venue": "Bank of America Centre",
-      "notes": "CSBmod · unk",
+      "notes": "CSBmod \u00b7 unk",
       "version": "AUD",
-      "format": "SHN"
+      "format": "SHN",
+      "textFile": "2000-05-26 - Boise, ID - Bank of America Centre.txt"
     },
     {
       "year": 2000,
@@ -13176,9 +13672,10 @@ const ARTIST_DATA = {
       "state": "WA",
       "location": "Seattle, WA",
       "venue": "Paramount Ballroom",
-      "notes": "CSB · a. swimburnson",
+      "notes": "CSB \u00b7 a. swimburnson",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "2000-05-29 - Seattle, WA - Paramount Ballroom.txt"
     },
     {
       "year": 2000,
@@ -13189,9 +13686,10 @@ const ARTIST_DATA = {
       "state": "OR",
       "location": "Portland, OR",
       "venue": "Civic Auditorium",
-      "notes": "CSB · j. roth",
+      "notes": "CSB \u00b7 j. roth",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "2000-05-30 - Portland, OR - Civic Auditorium.txt"
     },
     {
       "year": 2000,
@@ -13202,9 +13700,10 @@ const ARTIST_DATA = {
       "state": "Japan",
       "location": "Yokohama, Japan",
       "venue": "Pacifico",
-      "notes": "DSM-6S · h. takada",
+      "notes": "DSM-6S \u00b7 h. takada",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "2000-06-20 - Yokohama, Japan - Pacifico.txt"
     },
     {
       "year": 2000,
@@ -13215,7 +13714,7 @@ const ARTIST_DATA = {
       "state": "Japan",
       "location": "Yokohama, Japan",
       "venue": "Pacifico",
-      "notes": "AUD>VHS · unk",
+      "notes": "AUD>VHS \u00b7 unk",
       "version": "AUD",
       "format": "SHN"
     },
@@ -13228,7 +13727,7 @@ const ARTIST_DATA = {
       "state": "Japan",
       "location": "Yokohama, Japan",
       "venue": "Pacifico",
-      "notes": "Panasonic NV-SVB1 · unk",
+      "notes": "Panasonic NV-SVB1 \u00b7 unk",
       "version": "AUD",
       "format": "DVD"
     },
@@ -13243,7 +13742,8 @@ const ARTIST_DATA = {
       "venue": "Kouseinenkin Kaikan",
       "notes": "unk",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "2000-06-24 - Hiroshima, Japan - Kouseinenkin Kaikan.txt"
     },
     {
       "year": 2000,
@@ -13254,9 +13754,10 @@ const ARTIST_DATA = {
       "state": "Japan",
       "location": "Fukuoka, Japan",
       "venue": "Zepp",
-      "notes": "CCM-6 · brewer",
+      "notes": "CCM-6 \u00b7 brewer",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "2000-06-25 - Fukuoka, Japan - Zepp.txt"
     },
     {
       "year": 2000,
@@ -13269,7 +13770,8 @@ const ARTIST_DATA = {
       "venue": "Osaka Castle Hall *Inside Machines of Light",
       "notes": "SP-62707",
       "version": "Silver CD",
-      "format": "SHN"
+      "format": "SHN",
+      "textFile": "2000-06-27 - Osaka, Japan - Osaka Castle Hall - Inside Machines of Light [Silver].txt"
     },
     {
       "year": 2000,
@@ -13280,9 +13782,10 @@ const ARTIST_DATA = {
       "state": "Japan",
       "location": "Tokyo, Japan",
       "venue": "Budokan",
-      "notes": "DSM-6S · h. takada",
+      "notes": "DSM-6S \u00b7 h. takada",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "2000-06-30 - Tokyo, Japan - Budokan.txt"
     },
     {
       "year": 2000,
@@ -13293,7 +13796,7 @@ const ARTIST_DATA = {
       "state": "Japan",
       "location": "Tokyo, Japan",
       "venue": "Budokan",
-      "notes": "Japanese TV Broadcast · unk",
+      "notes": "Japanese TV Broadcast \u00b7 unk",
       "version": "TV",
       "format": "FLAC"
     },
@@ -13332,9 +13835,10 @@ const ARTIST_DATA = {
       "state": "Japan",
       "location": "Tokyo, Japan",
       "venue": "Kokusai Forum",
-      "notes": "DDC(1) · SS-DSM-6S · fogelsong transfer",
+      "notes": "DDC(1) \u00b7 SS-DSM-6S \u00b7 fogelsong transfer",
       "version": "AUD #1",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "2000-07-02 - Tokyo, Japan - Kokusai Forum.txt"
     },
     {
       "year": 2000,
@@ -13373,7 +13877,8 @@ const ARTIST_DATA = {
       "venue": "Olympic Park Gymnastics Stadium",
       "notes": "inc",
       "version": "TV",
-      "format": "SHN"
+      "format": "SHN",
+      "textFile": "2000-07-04 - Seoul, Korea - Olympic Park Gymnastics Stadium.txt"
     },
     {
       "year": 2000,
@@ -13423,7 +13928,21 @@ const ARTIST_DATA = {
       "state": "Canada",
       "location": "Vancouver, Canada",
       "venue": "BC Place Festival Bowl",
-      "notes": "CSB · a. swinburnson",
+      "notes": "CSB \u00b7 a. swinburnson",
+      "version": "AUD",
+      "format": "FLAC",
+      "textFile": "2000-08-04 - Vancouver, Canada - BC Place Festival Bowl.txt"
+    },
+    {
+      "year": 2000,
+      "month": 8,
+      "day": 4,
+      "dateStr": "8-4-2000",
+      "city": "Vancouver",
+      "state": "Canada",
+      "location": "Vancouver, Canada",
+      "venue": "BC Place Festival Bowl",
+      "notes": "MD(M) \u00b7 DSM-6S",
       "version": "AUD",
       "format": "FLAC"
     },
@@ -13436,20 +13955,7 @@ const ARTIST_DATA = {
       "state": "Canada",
       "location": "Vancouver, Canada",
       "venue": "BC Place Festival Bowl",
-      "notes": "MD(M) · DSM-6S",
-      "version": "AUD",
-      "format": "FLAC"
-    },
-    {
-      "year": 2000,
-      "month": 8,
-      "day": 4,
-      "dateStr": "8-4-2000",
-      "city": "Vancouver",
-      "state": "Canada",
-      "location": "Vancouver, Canada",
-      "venue": "BC Place Festival Bowl",
-      "notes": "SPHC>MT-15 · unk",
+      "notes": "SPHC>MT-15 \u00b7 unk",
       "version": "AUD",
       "format": "SHN"
     },
@@ -13462,7 +13968,21 @@ const ARTIST_DATA = {
       "state": "Alberta",
       "location": "Edmonton, Alberta",
       "venue": "Commonwealth Stadium",
-      "notes": "VHS(1) · unk DV cam · fogelsong transfer",
+      "notes": "VHS(1) \u00b7 unk DV cam \u00b7 fogelsong transfer",
+      "version": "AMT #1",
+      "format": "FLAC",
+      "textFile": "2000-08-06 - Edmonton, Alberta - Commonwealth Stadium.txt"
+    },
+    {
+      "year": 2000,
+      "month": 8,
+      "day": 6,
+      "dateStr": "8-6-2000",
+      "city": "Edmonton",
+      "state": "Alberta",
+      "location": "Edmonton, Alberta",
+      "venue": "Commonwealth Stadium",
+      "notes": "DV>VHS(2) \u00b7 TV \u00b7 unk",
       "version": "AMT #1",
       "format": "FLAC"
     },
@@ -13475,20 +13995,7 @@ const ARTIST_DATA = {
       "state": "Alberta",
       "location": "Edmonton, Alberta",
       "venue": "Commonwealth Stadium",
-      "notes": "DV>VHS(2) · TV · unk",
-      "version": "AMT #1",
-      "format": "FLAC"
-    },
-    {
-      "year": 2000,
-      "month": 8,
-      "day": 6,
-      "dateStr": "8-6-2000",
-      "city": "Edmonton",
-      "state": "Alberta",
-      "location": "Edmonton, Alberta",
-      "venue": "Commonwealth Stadium",
-      "notes": "CSB>MZR55 · spfreak77",
+      "notes": "CSB>MZR55 \u00b7 spfreak77",
       "version": "AUD",
       "format": "FLAC"
     },
@@ -13501,9 +14008,10 @@ const ARTIST_DATA = {
       "state": "Saskatchewan",
       "location": "Saskatoon, Saskatchewan",
       "venue": "Summersault Tour",
-      "notes": "CSB · spfreak77",
+      "notes": "CSB \u00b7 spfreak77",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "2000-08-07 - Saskatoon, Saskatchewan - Summersault Tour.txt"
     },
     {
       "year": 2000,
@@ -13514,9 +14022,10 @@ const ARTIST_DATA = {
       "state": "Canada",
       "location": "Winnipeg, Canada",
       "venue": "Winnipeg Stadium",
-      "notes": "CSB · pjp",
+      "notes": "CSB \u00b7 pjp",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "2000-08-09 - Winnipeg, Canada - Winnipeg Stadium.txt"
     },
     {
       "year": 2000,
@@ -13527,7 +14036,7 @@ const ARTIST_DATA = {
       "state": "Canada",
       "location": "Winnipeg, Canada",
       "venue": "Winnipeg Stadium",
-      "notes": "DAT(M) · CSBmod · unk",
+      "notes": "DAT(M) \u00b7 CSBmod \u00b7 unk",
       "version": "AUD #1",
       "format": "FLAC"
     },
@@ -13540,9 +14049,10 @@ const ARTIST_DATA = {
       "state": "Ontario",
       "location": "Barrie, Ontario",
       "venue": "Molson Park",
-      "notes": "DAT(M) · Sennheiser MKE-2002 · ms",
+      "notes": "DAT(M) \u00b7 Sennheiser MKE-2002 \u00b7 ms",
       "version": "AUD",
-      "format": "SHN"
+      "format": "SHN",
+      "textFile": "2000-08-11 - Barrie, Ontario - Molson Park.txt"
     },
     {
       "year": 2000,
@@ -13566,7 +14076,7 @@ const ARTIST_DATA = {
       "state": "Ontario",
       "location": "Barrie, Ontario",
       "venue": "Molson Park",
-      "notes": "AT-853 · frank quinto",
+      "notes": "AT-853 \u00b7 frank quinto",
       "version": "AUD",
       "format": "FLAC"
     },
@@ -13592,7 +14102,7 @@ const ARTIST_DATA = {
       "state": "Ontario",
       "location": "Barrie, Ontario",
       "venue": "Molson Park",
-      "notes": "MD(M) · Optimus Omnidirectional Tie-clip · spaceyraygun",
+      "notes": "MD(M) \u00b7 Optimus Omnidirectional Tie-clip \u00b7 spaceyraygun",
       "version": "AUD #5",
       "format": "FLAC"
     },
@@ -13605,7 +14115,7 @@ const ARTIST_DATA = {
       "state": "Ontario",
       "location": "Barrie, Ontario",
       "venue": "Molson Park",
-      "notes": "VHS(x) · unk · Source 1",
+      "notes": "VHS(x) \u00b7 unk \u00b7 Source 1",
       "version": "AUD",
       "format": "DVD"
     },
@@ -13618,7 +14128,7 @@ const ARTIST_DATA = {
       "state": "Ontario",
       "location": "Barrie, Ontario",
       "venue": "Molson Park",
-      "notes": "miniDV · 3 · Source 2",
+      "notes": "miniDV \u00b7 3 \u00b7 Source 2",
       "version": "AMT #1",
       "format": "DVD"
     },
@@ -13631,9 +14141,10 @@ const ARTIST_DATA = {
       "state": "Quebec",
       "location": "Montreal, Quebec",
       "venue": "Parterre, Parc Jean Drapeau",
-      "notes": "DAT(M) · DSM-6S · fares halteh",
+      "notes": "DAT(M) \u00b7 DSM-6S \u00b7 fares halteh",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "2000-08-12 - Montreal, Quebec - Parterre, Parc Jean Drapeau.txt"
     },
     {
       "year": 2000,
@@ -13644,7 +14155,7 @@ const ARTIST_DATA = {
       "state": "Quebec",
       "location": "Montreal, Quebec",
       "venue": "Parterre, Parc Jean Drapeau",
-      "notes": "MD(M) · Optimus Omnidirectional Tie-clip · spaceyraygun",
+      "notes": "MD(M) \u00b7 Optimus Omnidirectional Tie-clip \u00b7 spaceyraygun",
       "version": "AUD #2",
       "format": "FLAC"
     },
@@ -13670,7 +14181,7 @@ const ARTIST_DATA = {
       "state": "Quebec",
       "location": "Montreal, Quebec",
       "venue": "Parterre, Parc Jean Drapeau",
-      "notes": "DFM · FM4 Australia",
+      "notes": "DFM \u00b7 FM4 Australia",
       "version": "FM",
       "format": "FLAC"
     },
@@ -13683,7 +14194,7 @@ const ARTIST_DATA = {
       "state": "Quebec",
       "location": "Montreal, Quebec",
       "venue": "Parterre, Parc Jean Drapeau",
-      "notes": "WAV(M) · fogelsong transfer",
+      "notes": "WAV(M) \u00b7 fogelsong transfer",
       "version": "FM #2",
       "format": "FLAC"
     },
@@ -13696,9 +14207,10 @@ const ARTIST_DATA = {
       "state": "Canada",
       "location": "Ottawa, Canada",
       "venue": "Rideau Carleton Raceway",
-      "notes": "DSM-6S · unk",
+      "notes": "DSM-6S \u00b7 unk",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "2000-08-13 - Ottawa, Canada - Rideau Carleton Raceway.txt"
     },
     {
       "year": 2000,
@@ -13709,7 +14221,7 @@ const ARTIST_DATA = {
       "state": "Canada",
       "location": "Ottawa, Canada",
       "venue": "Rideau Carleton Raceway",
-      "notes": "MD(M) · Lapel mic · spaceyraygun",
+      "notes": "MD(M) \u00b7 Lapel mic \u00b7 spaceyraygun",
       "version": "AUD #5",
       "format": "FLAC"
     },
@@ -13724,7 +14236,8 @@ const ARTIST_DATA = {
       "venue": "Citadel Hill",
       "notes": "unk",
       "version": "AUD",
-      "format": "SHN"
+      "format": "SHN",
+      "textFile": "2000-08-16 - Halifax, CA - Citadel Hill.txt"
     },
     {
       "year": 2000,
@@ -13737,7 +14250,8 @@ const ARTIST_DATA = {
       "venue": "Hammerstein Ballroom (VH1 Storytellers) (SPPB)",
       "notes": "DAT(M)",
       "version": "AUD",
-      "format": "SHN"
+      "format": "SHN",
+      "textFile": "2000-08-24 - New York, NY - Hammerstein Ballroom (VH1 Storytellers).txt"
     },
     {
       "year": 2000,
@@ -13748,7 +14262,7 @@ const ARTIST_DATA = {
       "state": "NY",
       "location": "New York, NY",
       "venue": "Hammerstein Ballroom",
-      "notes": "VH1 Storytellers · DSM6 · fresko",
+      "notes": "VH1 Storytellers \u00b7 DSM6 \u00b7 fresko",
       "version": "AUD #1",
       "format": "FLAC 24"
     },
@@ -13761,7 +14275,7 @@ const ARTIST_DATA = {
       "state": "NY",
       "location": "New York, NY",
       "venue": "Hammerstein Ballroom",
-      "notes": "VH1 Storytellers · Digital Cable > Sony Digital8 · unk",
+      "notes": "VH1 Storytellers \u00b7 Digital Cable > Sony Digital8 \u00b7 unk",
       "version": "PRO #1a",
       "format": "FLAC"
     },
@@ -13774,7 +14288,7 @@ const ARTIST_DATA = {
       "state": "NY",
       "location": "New York, NY",
       "venue": "Hammerstein Ballroom",
-      "notes": "Uncut VH1 Storytellers · fresko/agnew/starseed",
+      "notes": "Uncut VH1 Storytellers \u00b7 fresko/agnew/starseed",
       "version": "MTX",
       "format": "FLAC"
     },
@@ -13800,9 +14314,10 @@ const ARTIST_DATA = {
       "state": "Germany",
       "location": "Berlin, Germany",
       "venue": "Arena",
-      "notes": "DAT(M) · Soundman OKM-IIr",
+      "notes": "DAT(M) \u00b7 Soundman OKM-IIr",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "2000-09-16 - Berlin, Germany - Arena.txt"
     },
     {
       "year": 2000,
@@ -13813,9 +14328,10 @@ const ARTIST_DATA = {
       "state": "Germany",
       "location": "Hamburg, Germany",
       "venue": "Alsterdorfer Sporthalle",
-      "notes": "DAT(M) · Soundman OKM-IIr",
+      "notes": "DAT(M) \u00b7 Soundman OKM-IIr",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "2000-09-18 - Hamburg, Germany - Alsterdorfer Sporthalle.txt"
     },
     {
       "year": 2000,
@@ -13854,7 +14370,8 @@ const ARTIST_DATA = {
       "venue": "Ahoy",
       "notes": "",
       "version": "SBD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "2000-09-20 - Rotterdam, The Netherlands - Ahoy.txt"
     },
     {
       "year": 2000,
@@ -13865,7 +14382,7 @@ const ARTIST_DATA = {
       "state": "The Netherlands",
       "location": "Rotterdam, The Netherlands",
       "venue": "Ahoy",
-      "notes": "MD · unk",
+      "notes": "MD \u00b7 unk",
       "version": "AUD",
       "format": "SHN"
     },
@@ -13878,7 +14395,7 @@ const ARTIST_DATA = {
       "state": "The Netherlands",
       "location": "Rotterdam, The Netherlands",
       "venue": "Ahoy",
-      "notes": "AUD(M) · Coresound Stealth",
+      "notes": "AUD(M) \u00b7 Coresound Stealth",
       "version": "AUD",
       "format": "FLAC"
     },
@@ -13906,7 +14423,8 @@ const ARTIST_DATA = {
       "venue": "Ballsporthalle",
       "notes": "",
       "version": "SBD",
-      "format": "SHN"
+      "format": "SHN",
+      "textFile": "2000-09-21 - Frankfurt, DE - Ballsporthalle.txt"
     },
     {
       "year": 2000,
@@ -13917,7 +14435,7 @@ const ARTIST_DATA = {
       "state": "DE",
       "location": "Frankfurt, DE",
       "venue": "Ballsporthalle",
-      "notes": "DAT(M) · Soundman OKM-IIr",
+      "notes": "DAT(M) \u00b7 Soundman OKM-IIr",
       "version": "AUD",
       "format": "FLAC"
     },
@@ -13945,7 +14463,8 @@ const ARTIST_DATA = {
       "venue": "Arena",
       "notes": "34",
       "version": "SBD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "2000-09-23 - Oberhausen, Germany - Arena.txt"
     },
     {
       "year": 2000,
@@ -13997,7 +14516,8 @@ const ARTIST_DATA = {
       "venue": "Olympiahalle",
       "notes": "34",
       "version": "SBD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "2000-09-24 - Munich, Germany - Olympiahalle.txt"
     },
     {
       "year": 2000,
@@ -14023,7 +14543,8 @@ const ARTIST_DATA = {
       "venue": "Palaghiaccio",
       "notes": "",
       "version": "AUD",
-      "format": "SHN"
+      "format": "SHN",
+      "textFile": "2000-09-26 - Rome, Italy - Palaghiaccio.txt"
     },
     {
       "year": 2000,
@@ -14034,9 +14555,10 @@ const ARTIST_DATA = {
       "state": "Italy",
       "location": "Bologna, Italy",
       "venue": "PalaMalaguti",
-      "notes": "SS-DSM6S/L · inc",
+      "notes": "SS-DSM6S/L \u00b7 inc",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "2000-09-27 - Bologna, Italy - PalaMalaguti.txt"
     },
     {
       "year": 2000,
@@ -14047,7 +14569,7 @@ const ARTIST_DATA = {
       "state": "Italy",
       "location": "Bologna, Italy",
       "venue": "PalaMalaguti",
-      "notes": "ANA(x) · Walkman",
+      "notes": "ANA(x) \u00b7 Walkman",
       "version": "AUD #2",
       "format": "FLAC"
     },
@@ -14062,7 +14584,8 @@ const ARTIST_DATA = {
       "venue": "Palavivios",
       "notes": "ECM-TS120",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "2000-09-29 - Milan, Italy - Palavivios.txt"
     },
     {
       "year": 2000,
@@ -14073,7 +14596,7 @@ const ARTIST_DATA = {
       "state": "Italy",
       "location": "Milan, Italy",
       "venue": "Palavivios",
-      "notes": "MD · inc",
+      "notes": "MD \u00b7 inc",
       "version": "AUD",
       "format": "FLAC"
     },
@@ -14086,7 +14609,7 @@ const ARTIST_DATA = {
       "state": "Italy",
       "location": "Milan, Italy",
       "venue": "Palavivios",
-      "notes": "VHS(x) · _dan",
+      "notes": "VHS(x) \u00b7 _dan",
       "version": "AUD",
       "format": "DVD"
     },
@@ -14099,9 +14622,10 @@ const ARTIST_DATA = {
       "state": "France",
       "location": "Marseilles, France",
       "venue": "Dome",
-      "notes": "DAT(M) · DSM-6S · frenchy",
+      "notes": "DAT(M) \u00b7 DSM-6S \u00b7 frenchy",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "2000-10-01 - Marseilles, France - Dome .txt"
     },
     {
       "year": 2000,
@@ -14112,9 +14636,10 @@ const ARTIST_DATA = {
       "state": "France",
       "location": "Toulouse, France",
       "venue": "Zenith",
-      "notes": "DAT(M) · DSM-6S · jerome conin",
+      "notes": "DAT(M) \u00b7 DSM-6S \u00b7 jerome conin",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "2000-10-02 - Toulouse, France - Zenith.txt"
     },
     {
       "year": 2000,
@@ -14125,9 +14650,10 @@ const ARTIST_DATA = {
       "state": "Portugal",
       "location": "Lisbon, Portugal",
       "venue": "Restelo",
-      "notes": "DAT(M) · unk",
+      "notes": "DAT(M) \u00b7 unk",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "2000-10-04 - Lisbon, Portugal - Restelo.txt"
     },
     {
       "year": 2000,
@@ -14140,7 +14666,8 @@ const ARTIST_DATA = {
       "venue": "Coliseu do Porto",
       "notes": "Schoeps MK41 + ECM-DS70P",
       "version": "MTX",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "2000-10-05 - Porto, Portugal - Coliseu do Porto.txt"
     },
     {
       "year": 2000,
@@ -14164,9 +14691,10 @@ const ARTIST_DATA = {
       "state": "ES",
       "location": "Madrid, ES",
       "venue": "Palacidio de Deportes",
-      "notes": "MD(M) · CSBmod",
+      "notes": "MD(M) \u00b7 CSBmod",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "2000-10-08 - Madrid, ES - Palacidio de Deportes.txt"
     },
     {
       "year": 2000,
@@ -14179,7 +14707,8 @@ const ARTIST_DATA = {
       "venue": "Palau D'Esports",
       "notes": "unk",
       "version": "AUD",
-      "format": "SHN"
+      "format": "SHN",
+      "textFile": "2000-10-11 - Barcelona, Spain - Palau D'Esports .txt"
     },
     {
       "year": 2000,
@@ -14190,9 +14719,10 @@ const ARTIST_DATA = {
       "state": "Spain",
       "location": "San Sebastian, Spain",
       "venue": "Velodromo de Anoeta",
-      "notes": "ECM-717 · unk",
+      "notes": "ECM-717 \u00b7 unk",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "2000-10-12 - San Sebastian, Spain - Velodromo de Anoeta.txt"
     },
     {
       "year": 2000,
@@ -14203,9 +14733,10 @@ const ARTIST_DATA = {
       "state": "Switzerland",
       "location": "Zurich, Switzerland",
       "venue": "Hallenstadion",
-      "notes": "DAT(M) · Soundman OKM-IIr",
+      "notes": "DAT(M) \u00b7 Soundman OKM-IIr",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "2000-10-15 - Zurich, Switzerland - Hallenstadion.txt"
     },
     {
       "year": 2000,
@@ -14216,9 +14747,10 @@ const ARTIST_DATA = {
       "state": "France",
       "location": "Lyon, France",
       "venue": "Halles Tony Garnier",
-      "notes": "DAT(1) · SS-DSM-6S",
+      "notes": "DAT(1) \u00b7 SS-DSM-6S",
       "version": "AUD #1",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "2000-10-16 - Lyon, France - Halles Tony Garnier.txt"
     },
     {
       "year": 2000,
@@ -14229,7 +14761,7 @@ const ARTIST_DATA = {
       "state": "France",
       "location": "Lyon, France",
       "venue": "Halles Tony Garnier",
-      "notes": "DDC(1) · SS-DSM-6S · reece d, matt k, terry watts",
+      "notes": "DDC(1) \u00b7 SS-DSM-6S \u00b7 reece d, matt k, terry watts",
       "version": "AUD",
       "format": "FLAC"
     },
@@ -14242,9 +14774,10 @@ const ARTIST_DATA = {
       "state": "France",
       "location": "Angers, France",
       "venue": "Amphitea",
-      "notes": "DAT(M) · DSM-6S · jerome conin",
+      "notes": "DAT(M) \u00b7 DSM-6S \u00b7 jerome conin",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "2000-10-17 - Angers, France - Amphitea.txt"
     },
     {
       "year": 2000,
@@ -14268,7 +14801,7 @@ const ARTIST_DATA = {
       "state": "France",
       "location": "Angers, France",
       "venue": "Amphitea",
-      "notes": "DAT(M) · CSBmod>M1",
+      "notes": "DAT(M) \u00b7 CSBmod>M1",
       "version": "AUD #2",
       "format": "FLAC"
     },
@@ -14283,7 +14816,8 @@ const ARTIST_DATA = {
       "venue": "Bercy *There Is No God",
       "notes": "",
       "version": "Silver CD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "2000-10-19 - Paris, France - Bercy.txt"
     },
     {
       "year": 2000,
@@ -14294,7 +14828,7 @@ const ARTIST_DATA = {
       "state": "France",
       "location": "Paris, France",
       "venue": "Bercy",
-      "notes": "DAT(M) · DSM-6S · jerome conin",
+      "notes": "DAT(M) \u00b7 DSM-6S \u00b7 jerome conin",
       "version": "AUD",
       "format": "FLAC"
     },
@@ -14333,9 +14867,10 @@ const ARTIST_DATA = {
       "state": "BE",
       "location": "Gent, BE",
       "venue": "Flanders Expo",
-      "notes": "DAT(M) · DSM-6S · jerome conin",
+      "notes": "DAT(M) \u00b7 DSM-6S \u00b7 jerome conin",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "2000-10-20 - Gent, BE - Flanders Expo.txt"
     },
     {
       "year": 2000,
@@ -14359,7 +14894,7 @@ const ARTIST_DATA = {
       "state": "BE",
       "location": "Gent, BE",
       "venue": "Flanders Expo",
-      "notes": "DAT(M) · CSBmod · unk",
+      "notes": "DAT(M) \u00b7 CSBmod \u00b7 unk",
       "version": "AUD #1",
       "format": "FLAC"
     },
@@ -14387,7 +14922,8 @@ const ARTIST_DATA = {
       "venue": "Spektrum",
       "notes": "SPPB",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "2000-10-22 - Oslo, Norway - Spektrum.txt"
     },
     {
       "year": 2000,
@@ -14400,7 +14936,8 @@ const ARTIST_DATA = {
       "venue": "Hovet",
       "notes": "MD>CDR",
       "version": "AUD",
-      "format": "SHN"
+      "format": "SHN",
+      "textFile": "2000-10-23 - Stockholm, Sweden - Hovet.txt"
     },
     {
       "year": 2000,
@@ -14411,7 +14948,7 @@ const ARTIST_DATA = {
       "state": "Sweden",
       "location": "Stockholm, Sweden",
       "venue": "Hovet",
-      "notes": "MD(x) · SPSC · unk",
+      "notes": "MD(x) \u00b7 SPSC \u00b7 unk",
       "version": "AUD #3",
       "format": "FLAC"
     },
@@ -14426,7 +14963,8 @@ const ARTIST_DATA = {
       "venue": "Hartwell Arena",
       "notes": "MD-MT831",
       "version": "AUD",
-      "format": "SHN"
+      "format": "SHN",
+      "textFile": "2000-10-25 - Helsinki, Finland - Hartwell Arena.txt"
     },
     {
       "year": 2000,
@@ -14439,7 +14977,8 @@ const ARTIST_DATA = {
       "venue": "Valby",
       "notes": "Radio P3 Live",
       "version": "FM",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "2000-10-27 - Copenhagen, Denmark - Valby.txt"
     },
     {
       "year": 2000,
@@ -14463,9 +15002,10 @@ const ARTIST_DATA = {
       "state": "UK",
       "location": "Manchester, UK",
       "venue": "Apollo",
-      "notes": "MD(M) · CSBmod",
+      "notes": "MD(M) \u00b7 CSBmod",
       "version": "AUD",
-      "format": "SHN"
+      "format": "SHN",
+      "textFile": "2000-10-31 - Manchester, UK - Apollo.txt"
     },
     {
       "year": 2000,
@@ -14476,9 +15016,10 @@ const ARTIST_DATA = {
       "state": "UK",
       "location": "Birmingham, UK",
       "venue": "National Exhibition Center",
-      "notes": "Sony MZ-R91 · simon mifsud",
+      "notes": "Sony MZ-R91 \u00b7 simon mifsud",
       "version": "AUD",
-      "format": "SHN"
+      "format": "SHN",
+      "textFile": "2000-11-01 - Birmingham, UK - National Exhibition Center.txt"
     },
     {
       "year": 2000,
@@ -14489,9 +15030,10 @@ const ARTIST_DATA = {
       "state": "UK",
       "location": "London, UK",
       "venue": "Wembley Arena",
-      "notes": "CSBmod · unk",
+      "notes": "CSBmod \u00b7 unk",
       "version": "AUD",
-      "format": "SHN"
+      "format": "SHN",
+      "textFile": "2000-11-03 - London, UK - Wembley Arena.txt"
     },
     {
       "year": 2000,
@@ -14502,20 +15044,7 @@ const ARTIST_DATA = {
       "state": "UK",
       "location": "London, UK",
       "venue": "Wembley Arena",
-      "notes": "DAT(M) · DSM-6S · jerome conin",
-      "version": "AUD",
-      "format": "FLAC"
-    },
-    {
-      "year": 2000,
-      "month": 11,
-      "day": 3,
-      "dateStr": "11-3-2000",
-      "city": "London",
-      "state": "UK",
-      "location": "London, UK",
-      "venue": "Wembley Arena",
-      "notes": "DSM-6S · zach payne",
+      "notes": "DAT(M) \u00b7 DSM-6S \u00b7 jerome conin",
       "version": "AUD",
       "format": "FLAC"
     },
@@ -14528,7 +15057,20 @@ const ARTIST_DATA = {
       "state": "UK",
       "location": "London, UK",
       "venue": "Wembley Arena",
-      "notes": "Sony MZ-R91>CSB · simon mifsud",
+      "notes": "DSM-6S \u00b7 zach payne",
+      "version": "AUD",
+      "format": "FLAC"
+    },
+    {
+      "year": 2000,
+      "month": 11,
+      "day": 3,
+      "dateStr": "11-3-2000",
+      "city": "London",
+      "state": "UK",
+      "location": "London, UK",
+      "venue": "Wembley Arena",
+      "notes": "Sony MZ-R91>CSB \u00b7 simon mifsud",
       "version": "AUD",
       "format": "SHN"
     },
@@ -14541,7 +15083,7 @@ const ARTIST_DATA = {
       "state": "UK",
       "location": "London, UK",
       "venue": "Wembley Arena",
-      "notes": "unk · onkel44 reauthor",
+      "notes": "unk \u00b7 onkel44 reauthor",
       "version": "AUD",
       "format": "DVD"
     },
@@ -14554,7 +15096,21 @@ const ARTIST_DATA = {
       "state": "UK",
       "location": "London, UK",
       "venue": "Wembley Arena",
-      "notes": "Sony MZ-R91>CSB · s/n/m",
+      "notes": "Sony MZ-R91>CSB \u00b7 s/n/m",
+      "version": "AUD",
+      "format": "FLAC",
+      "textFile": "2000-11-04 - London, UK - Wembley Arena.txt"
+    },
+    {
+      "year": 2000,
+      "month": 11,
+      "day": 4,
+      "dateStr": "11-4-2000",
+      "city": "London",
+      "state": "UK",
+      "location": "London, UK",
+      "venue": "Wembley Arena",
+      "notes": "DSM-6 \u00b7 unk",
       "version": "AUD",
       "format": "FLAC"
     },
@@ -14567,7 +15123,7 @@ const ARTIST_DATA = {
       "state": "UK",
       "location": "London, UK",
       "venue": "Wembley Arena",
-      "notes": "DSM-6 · unk",
+      "notes": "DAT(M) \u00b7 DSM-6S \u00b7 jerome conin",
       "version": "AUD",
       "format": "FLAC"
     },
@@ -14580,20 +15136,7 @@ const ARTIST_DATA = {
       "state": "UK",
       "location": "London, UK",
       "venue": "Wembley Arena",
-      "notes": "DAT(M) · DSM-6S · jerome conin",
-      "version": "AUD",
-      "format": "FLAC"
-    },
-    {
-      "year": 2000,
-      "month": 11,
-      "day": 4,
-      "dateStr": "11-4-2000",
-      "city": "London",
-      "state": "UK",
-      "location": "London, UK",
-      "venue": "Wembley Arena",
-      "notes": "Soundcheck · CSBmod>MZ-R91",
+      "notes": "Soundcheck \u00b7 CSBmod>MZ-R91",
       "version": "AUD",
       "format": "FLAC"
     },
@@ -14621,7 +15164,8 @@ const ARTIST_DATA = {
       "venue": "Olympia",
       "notes": "AUD>MD",
       "version": "AUD",
-      "format": "SHN"
+      "format": "SHN",
+      "textFile": "2000-11-06 - Dublin, Ireland - Olympia.txt"
     },
     {
       "year": 2000,
@@ -14632,9 +15176,10 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "Burbank, CA",
       "venue": "NBC Studios",
-      "notes": "The · M",
+      "notes": "The \u00b7 M",
       "version": "PRO #1c",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "2000-11-17 - Burbank, CA - Jay Leno Show - NBC Studios (Source 1).txt"
     },
     {
       "year": 2000,
@@ -14645,7 +15190,7 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "Burbank, CA",
       "venue": "NBC Studios",
-      "notes": "The · TV > DAT(x · unk",
+      "notes": "The \u00b7 TV > DAT(x \u00b7 unk",
       "version": "TV #1",
       "format": "FLAC"
     },
@@ -14660,7 +15205,8 @@ const ARTIST_DATA = {
       "venue": "WXRT Radio",
       "notes": "FM>ANA(1)",
       "version": "FM",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "2000-11-28 - Chicago, IL - WXRT Radio.txt"
     },
     {
       "year": 2000,
@@ -14673,7 +15219,8 @@ const ARTIST_DATA = {
       "venue": "United Center",
       "notes": "",
       "version": "FM",
-      "format": "SHN"
+      "format": "SHN",
+      "textFile": "2000-11-29 - Chicago, IL - United Center.txt"
     },
     {
       "year": 2000,
@@ -14684,7 +15231,7 @@ const ARTIST_DATA = {
       "state": "IL",
       "location": "Chicago, IL",
       "venue": "United Center",
-      "notes": "DAT(M) · SS-DSM-6S · andrew fogelsong",
+      "notes": "DAT(M) \u00b7 SS-DSM-6S \u00b7 andrew fogelsong",
       "version": "AUD",
       "format": "FLAC"
     },
@@ -14697,7 +15244,7 @@ const ARTIST_DATA = {
       "state": "IL",
       "location": "Chicago, IL",
       "venue": "United Center",
-      "notes": "WKQX · M · krw_co",
+      "notes": "WKQX \u00b7 M \u00b7 krw_co",
       "version": "FM",
       "format": "FLAC"
     },
@@ -14710,7 +15257,7 @@ const ARTIST_DATA = {
       "state": "IL",
       "location": "Chicago, IL",
       "venue": "United Center",
-      "notes": "SS-DSM-6S · jason roth",
+      "notes": "SS-DSM-6S \u00b7 jason roth",
       "version": "AUD",
       "format": "FLAC"
     },
@@ -14736,7 +15283,7 @@ const ARTIST_DATA = {
       "state": "IL",
       "location": "Chicago, IL",
       "venue": "United Center",
-      "notes": "thir13en remaster · Version 2",
+      "notes": "thir13en remaster \u00b7 Version 2",
       "version": "FM",
       "format": "FLAC"
     },
@@ -14749,7 +15296,7 @@ const ARTIST_DATA = {
       "state": "IL",
       "location": "Chicago, IL",
       "venue": "United Center",
-      "notes": "MD(M) · Lapel mic · spaceyraygun",
+      "notes": "MD(M) \u00b7 Lapel mic \u00b7 spaceyraygun",
       "version": "AUD #9",
       "format": "FLAC"
     },
@@ -14775,7 +15322,7 @@ const ARTIST_DATA = {
       "state": "IL",
       "location": "Chicago, IL",
       "venue": "United Center",
-      "notes": "DAT(M) · OKM-II · unk",
+      "notes": "DAT(M) \u00b7 OKM-II \u00b7 unk",
       "version": "AUD #3",
       "format": "FLAC"
     },
@@ -14788,7 +15335,7 @@ const ARTIST_DATA = {
       "state": "IL",
       "location": "Chicago, IL",
       "venue": "United Center",
-      "notes": "MiniDV>VHS(3) · ben valocchi transfer",
+      "notes": "MiniDV>VHS(3) \u00b7 ben valocchi transfer",
       "version": "AUD",
       "format": "DVD"
     },
@@ -14801,9 +15348,10 @@ const ARTIST_DATA = {
       "state": "IL",
       "location": "Chicago, IL",
       "venue": "Metro (Last show)",
-      "notes": "MD(M) · CSSC>MS722 · patched",
+      "notes": "MD(M) \u00b7 CSSC>MS722 \u00b7 patched",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "2000-12-02 - Chicago, IL - Metro (Last show).txt"
     },
     {
       "year": 2000,
@@ -14814,7 +15362,7 @@ const ARTIST_DATA = {
       "state": "IL",
       "location": "Chicago, IL",
       "venue": "Metro",
-      "notes": "Last show · ECM-907 · meghan brown",
+      "notes": "Last show \u00b7 ECM-907 \u00b7 meghan brown",
       "version": "AUD",
       "format": "SHN"
     },
@@ -14840,9 +15388,10 @@ const ARTIST_DATA = {
       "state": "France",
       "location": "Paris, France",
       "venue": "Le Grand Rex",
-      "notes": "ECM-717 · arn0",
+      "notes": "ECM-717 \u00b7 arn0",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "2007-05-22 - Paris, France - Le Grand Rex.txt"
     },
     {
       "year": 2007,
@@ -14866,7 +15415,7 @@ const ARTIST_DATA = {
       "state": "France",
       "location": "Paris, France",
       "venue": "Le Grand Rex",
-      "notes": "DPA 3061 · ij",
+      "notes": "DPA 3061 \u00b7 ij",
       "version": "AUD",
       "format": "FLAC 24"
     },
@@ -14879,9 +15428,10 @@ const ARTIST_DATA = {
       "state": "",
       "location": "Luxembourg",
       "venue": "Den Atelier",
-      "notes": "inc · Sony MD Walkman MZ-R30 (ECM-717",
+      "notes": "inc \u00b7 Sony MD Walkman MZ-R30 (ECM-717",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "2007-05-24 - Luxembourg - Den Atelier.txt"
     },
     {
       "year": 2007,
@@ -14892,9 +15442,10 @@ const ARTIST_DATA = {
       "state": "Belgium",
       "location": "Brussels, Belgium",
       "venue": "AB",
-      "notes": "Grote Zaal · ECM-719",
+      "notes": "Grote Zaal \u00b7 ECM-719",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "2007-05-26 - Brussels, Belgium - AB (Grote Zaal).txt"
     },
     {
       "year": 2007,
@@ -14907,7 +15458,8 @@ const ARTIST_DATA = {
       "venue": "Pinkpop Festival",
       "notes": "OKMII",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "2007-05-28 - Landgraaf - Pinkpop Festival.txt"
     },
     {
       "year": 2007,
@@ -14931,7 +15483,7 @@ const ARTIST_DATA = {
       "state": "",
       "location": "Landgraaf",
       "venue": "Pinkpop Festival",
-      "notes": "3voor12 Digital TV · leo",
+      "notes": "3voor12 Digital TV \u00b7 leo",
       "version": "PRO",
       "format": "DVD"
     },
@@ -14944,9 +15496,10 @@ const ARTIST_DATA = {
       "state": "Spain",
       "location": "Barcelona, Spain",
       "venue": "Forum",
-      "notes": "Primavera · CSB",
+      "notes": "Primavera \u00b7 CSB",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "2007-05-31 - Barcelona, Spain - Forum - Primavera Sound 2007.txt"
     },
     {
       "year": 2007,
@@ -14957,7 +15510,7 @@ const ARTIST_DATA = {
       "state": "Spain",
       "location": "Barcelona, Spain",
       "venue": "Forum",
-      "notes": "Primavera · AT943 · macacopowa",
+      "notes": "Primavera \u00b7 AT943 \u00b7 macacopowa",
       "version": "AUD",
       "format": "FLAC"
     },
@@ -14970,9 +15523,10 @@ const ARTIST_DATA = {
       "state": "Germany",
       "location": "Nurburg, Germany",
       "venue": "Nurburgring",
-      "notes": "Rock · Pre-broadcast · obertu edit",
+      "notes": "Rock \u00b7 Pre-broadcast \u00b7 obertu edit",
       "version": "SBD #1",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "2007-06-02 - Nurburg, Germany - Nurburgring - Rock am Ring.txt"
     },
     {
       "year": 2007,
@@ -14983,7 +15537,7 @@ const ARTIST_DATA = {
       "state": "Germany",
       "location": "Nurburg, Germany",
       "venue": "Nurburgring",
-      "notes": "Rock · TV card · sikamikanico83",
+      "notes": "Rock \u00b7 TV card \u00b7 sikamikanico83",
       "version": "TV #1",
       "format": "FLAC"
     },
@@ -14996,7 +15550,7 @@ const ARTIST_DATA = {
       "state": "Germany",
       "location": "Nurburg, Germany",
       "venue": "Nurburgring",
-      "notes": "Rock · thir13en",
+      "notes": "Rock \u00b7 thir13en",
       "version": "TV",
       "format": "FLAC"
     },
@@ -15009,7 +15563,7 @@ const ARTIST_DATA = {
       "state": "Germany",
       "location": "Nurburg, Germany",
       "venue": "Nurburgring",
-      "notes": "Rock · thir13en V2",
+      "notes": "Rock \u00b7 thir13en V2",
       "version": "TV",
       "format": "FLAC"
     },
@@ -15035,7 +15589,7 @@ const ARTIST_DATA = {
       "state": "Germany",
       "location": "Nurburg, Germany",
       "venue": "Nurburgring",
-      "notes": "Rock · DVB-S · Source 1",
+      "notes": "Rock \u00b7 DVB-S \u00b7 Source 1",
       "version": "PRO",
       "format": "DVD"
     },
@@ -15048,7 +15602,7 @@ const ARTIST_DATA = {
       "state": "Germany",
       "location": "Nurburg, Germany",
       "venue": "Nurburgring",
-      "notes": "Rock · WDR Satellite Broadcast · Source 2",
+      "notes": "Rock \u00b7 WDR Satellite Broadcast \u00b7 Source 2",
       "version": "PRO",
       "format": "DVD"
     },
@@ -15061,9 +15615,10 @@ const ARTIST_DATA = {
       "state": "Germany",
       "location": "Berlin, Germany",
       "venue": "Zitadelle Spandau",
-      "notes": "Gotischer Saal · MBHO MBP 603A",
+      "notes": "Gotischer Saal \u00b7 MBHO MBP 603A",
       "version": "AUD",
-      "format": "FLAC 24"
+      "format": "FLAC 24",
+      "textFile": "2007-06-05 - Berlin, Germany - Zitadelle Spandau (Gotischer Saal).txt"
     },
     {
       "year": 2007,
@@ -15074,7 +15629,7 @@ const ARTIST_DATA = {
       "state": "Germany",
       "location": "Berlin, Germany",
       "venue": "Zitadelle Spandau",
-      "notes": "Gotischer Saal · IKM IIr/c + MBHO",
+      "notes": "Gotischer Saal \u00b7 IKM IIr/c + MBHO",
       "version": "MTX",
       "format": "FLAC"
     },
@@ -15087,7 +15642,7 @@ const ARTIST_DATA = {
       "state": "Germany",
       "location": "Berlin, Germany",
       "venue": "Zitadelle Spandau (Gotischer Saal)",
-      "notes": "WAV(M) · OKM-IIr",
+      "notes": "WAV(M) \u00b7 OKM-IIr",
       "version": "AUD",
       "format": "FLAC"
     },
@@ -15102,7 +15657,8 @@ const ARTIST_DATA = {
       "venue": "Columbiahalle",
       "notes": "OKM IIr",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "2007-06-06 - Berlin, Germany - Columbiahalle.txt"
     },
     {
       "year": 2007,
@@ -15128,7 +15684,8 @@ const ARTIST_DATA = {
       "venue": "Oeiras Alive!",
       "notes": "SP-CMC-1",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "2007-06-09 - Lisbon, Portugal - Oeiras Alive!.txt"
     },
     {
       "year": 2007,
@@ -15139,7 +15696,7 @@ const ARTIST_DATA = {
       "state": "Portugal",
       "location": "Lisbon, Portugal",
       "venue": "Oeiras Alive!",
-      "notes": "MD(M) · ziggyswoon",
+      "notes": "MD(M) \u00b7 ziggyswoon",
       "version": "AUD #2",
       "format": "FLAC"
     },
@@ -15167,7 +15724,8 @@ const ARTIST_DATA = {
       "venue": "Teatro Calderon",
       "notes": "Zoom H4",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "2007-06-11 - Madrid, Spain - Teatro Calderon.txt"
     },
     {
       "year": 2007,
@@ -15178,9 +15736,10 @@ const ARTIST_DATA = {
       "state": "Austria",
       "location": "Nickelsdorf, Austria",
       "venue": "Nova Rock Open Air Festival",
-      "notes": "Blue · AT-U853c · mrruin",
+      "notes": "Blue \u00b7 AT-U853c \u00b7 mrruin",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "2007-06-15 - Nickelsdorf, Austria - Nova Rock Open Air Festival - Blue Stage.txt"
     },
     {
       "year": 2007,
@@ -15191,9 +15750,10 @@ const ARTIST_DATA = {
       "state": "Switzerland",
       "location": "Interlaken, Switzerland",
       "venue": "Greenfields Festival",
-      "notes": "Archos 404 · ed briscoe",
+      "notes": "Archos 404 \u00b7 ed briscoe",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "2007-06-17 - Interlaken, Switzerland - Greenfields Festival.txt"
     },
     {
       "year": 2007,
@@ -15204,9 +15764,10 @@ const ARTIST_DATA = {
       "state": "UK",
       "location": "London, UK",
       "venue": "Shepherd's Bush Empire",
-      "notes": "DPA 4061s · rob",
+      "notes": "DPA 4061s \u00b7 rob",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "2007-06-19 - London, UK - Shepherd's Bush Empire.txt"
     },
     {
       "year": 2007,
@@ -15230,7 +15791,7 @@ const ARTIST_DATA = {
       "state": "UK",
       "location": "London, UK",
       "venue": "Shepherd's Bush Empire",
-      "notes": "MiniDV · unk",
+      "notes": "MiniDV \u00b7 unk",
       "version": "AUD",
       "format": "DVD"
     },
@@ -15243,9 +15804,10 @@ const ARTIST_DATA = {
       "state": "NC",
       "location": "Asheville, NC",
       "venue": "The Orange Peel",
-      "notes": "WAV(M) · WM-61A · kris sproul",
+      "notes": "WAV(M) \u00b7 WM-61A \u00b7 kris sproul",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "2007-06-23 - Asheville, NC - The Orange Peel.txt"
     },
     {
       "year": 2007,
@@ -15256,7 +15818,7 @@ const ARTIST_DATA = {
       "state": "NC",
       "location": "Asheville, NC",
       "venue": "The Orange Peel",
-      "notes": "MK4 · zach payne",
+      "notes": "MK4 \u00b7 zach payne",
       "version": "AUD",
       "format": "FLAC 24"
     },
@@ -15269,7 +15831,7 @@ const ARTIST_DATA = {
       "state": "NC",
       "location": "Asheville, NC",
       "venue": "The Orange Peel",
-      "notes": "Neumann KM140s · jim pollack",
+      "notes": "Neumann KM140s \u00b7 jim pollack",
       "version": "AUD",
       "format": "FLAC 24"
     },
@@ -15282,9 +15844,10 @@ const ARTIST_DATA = {
       "state": "NC",
       "location": "Asheville, NC",
       "venue": "The Orange Peel",
-      "notes": "WAV(M) · WM-61A · kris sproul",
+      "notes": "WAV(M) \u00b7 WM-61A \u00b7 kris sproul",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "2007-06-24 - Asheville, NC - The Orange Peel.txt"
     },
     {
       "year": 2007,
@@ -15295,7 +15858,7 @@ const ARTIST_DATA = {
       "state": "NC",
       "location": "Asheville, NC",
       "venue": "The Orange Peel",
-      "notes": "MK4 · zach payne",
+      "notes": "MK4 \u00b7 zach payne",
       "version": "AUD",
       "format": "FLAC 24"
     },
@@ -15308,7 +15871,7 @@ const ARTIST_DATA = {
       "state": "NC",
       "location": "Asheville, NC",
       "venue": "The Orange Peel",
-      "notes": "Sony DCR-TRV950 miniDV · cabbager",
+      "notes": "Sony DCR-TRV950 miniDV \u00b7 cabbager",
       "version": "AUD",
       "format": "DVD"
     },
@@ -15321,9 +15884,10 @@ const ARTIST_DATA = {
       "state": "NC",
       "location": "Asheville, NC",
       "venue": "The Orange Peel",
-      "notes": "MG300 · david randle",
+      "notes": "MG300 \u00b7 david randle",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "2007-06-26 - Asheville, NC - The Orange Peel.txt"
     },
     {
       "year": 2007,
@@ -15334,20 +15898,7 @@ const ARTIST_DATA = {
       "state": "NC",
       "location": "Asheville, NC",
       "venue": "The Orange Peel",
-      "notes": "Schoeps MK4 · patrick moore",
-      "version": "AUD",
-      "format": "FLAC 24"
-    },
-    {
-      "year": 2007,
-      "month": 6,
-      "day": 26,
-      "dateStr": "6-26-2007",
-      "city": "Asheville",
-      "state": "NC",
-      "location": "Asheville, NC",
-      "venue": "The Orange Peel",
-      "notes": "MK4 · zach payne",
+      "notes": "Schoeps MK4 \u00b7 patrick moore",
       "version": "AUD",
       "format": "FLAC 24"
     },
@@ -15360,7 +15911,20 @@ const ARTIST_DATA = {
       "state": "NC",
       "location": "Asheville, NC",
       "venue": "The Orange Peel",
-      "notes": "DAT(M) · Schoeps CCM4 · fogelsong transfer",
+      "notes": "MK4 \u00b7 zach payne",
+      "version": "AUD",
+      "format": "FLAC 24"
+    },
+    {
+      "year": 2007,
+      "month": 6,
+      "day": 26,
+      "dateStr": "6-26-2007",
+      "city": "Asheville",
+      "state": "NC",
+      "location": "Asheville, NC",
+      "venue": "The Orange Peel",
+      "notes": "DAT(M) \u00b7 Schoeps CCM4 \u00b7 fogelsong transfer",
       "version": "AUD #5",
       "format": "FLAC 24"
     },
@@ -15373,7 +15937,21 @@ const ARTIST_DATA = {
       "state": "NC",
       "location": "Asheville, NC",
       "venue": "The Orange Peel",
-      "notes": "DAT(M) · AKG CK91 · rjrumfh",
+      "notes": "DAT(M) \u00b7 AKG CK91 \u00b7 rjrumfh",
+      "version": "AUD",
+      "format": "FLAC",
+      "textFile": "2007-06-27 - Asheville, NC - The Orange Peel.txt"
+    },
+    {
+      "year": 2007,
+      "month": 6,
+      "day": 27,
+      "dateStr": "6-27-2007",
+      "city": "Asheville",
+      "state": "NC",
+      "location": "Asheville, NC",
+      "venue": "The Orange Peel",
+      "notes": "MG300 \u00b7 david randle",
       "version": "AUD",
       "format": "FLAC"
     },
@@ -15386,20 +15964,7 @@ const ARTIST_DATA = {
       "state": "NC",
       "location": "Asheville, NC",
       "venue": "The Orange Peel",
-      "notes": "MG300 · david randle",
-      "version": "AUD",
-      "format": "FLAC"
-    },
-    {
-      "year": 2007,
-      "month": 6,
-      "day": 27,
-      "dateStr": "6-27-2007",
-      "city": "Asheville",
-      "state": "NC",
-      "location": "Asheville, NC",
-      "venue": "The Orange Peel",
-      "notes": "MK4 · zach payne",
+      "notes": "MK4 \u00b7 zach payne",
       "version": "AUD",
       "format": "FLAC 24"
     },
@@ -15412,7 +15977,7 @@ const ARTIST_DATA = {
       "state": "NC",
       "location": "Asheville, NC",
       "venue": "The Orange Peel",
-      "notes": "DAT(M) · Schoeps CCM4 · josh puckett",
+      "notes": "DAT(M) \u00b7 Schoeps CCM4 \u00b7 josh puckett",
       "version": "AUD #5",
       "format": "FLAC 24"
     },
@@ -15425,7 +15990,7 @@ const ARTIST_DATA = {
       "state": "NC",
       "location": "Asheville, NC",
       "venue": "The Orange Peel",
-      "notes": "Panasonic GS250 · david randle",
+      "notes": "Panasonic GS250 \u00b7 david randle",
       "version": "AMT #1",
       "format": "DVD"
     },
@@ -15438,9 +16003,10 @@ const ARTIST_DATA = {
       "state": "NC",
       "location": "Asheville, NC",
       "venue": "The Orange Peel",
-      "notes": "DPA 4023 · george wang",
+      "notes": "DPA 4023 \u00b7 george wang",
       "version": "AUD",
-      "format": "FLAC 24"
+      "format": "FLAC 24",
+      "textFile": "2007-06-29 - Asheville, NC - The Orange Peel.txt"
     },
     {
       "year": 2007,
@@ -15451,7 +16017,7 @@ const ARTIST_DATA = {
       "state": "NC",
       "location": "Asheville, NC",
       "venue": "The Orange Peel",
-      "notes": "AKG CK93 · cabbage",
+      "notes": "AKG CK93 \u00b7 cabbage",
       "version": "AUD",
       "format": "FLAC"
     },
@@ -15464,7 +16030,7 @@ const ARTIST_DATA = {
       "state": "NC",
       "location": "Asheville, NC",
       "venue": "The Orange Peel",
-      "notes": "CSC's · matt",
+      "notes": "CSC's \u00b7 matt",
       "version": "AUD",
       "format": "FLAC 24"
     },
@@ -15490,7 +16056,21 @@ const ARTIST_DATA = {
       "state": "NC",
       "location": "Asheville, NC",
       "venue": "The Orange Peel",
-      "notes": "AKG CK93 · cabbage",
+      "notes": "AKG CK93 \u00b7 cabbage",
+      "version": "AUD",
+      "format": "FLAC",
+      "textFile": "2007-06-30 - Asheville, NC - The Orange Peel.txt"
+    },
+    {
+      "year": 2007,
+      "month": 6,
+      "day": 30,
+      "dateStr": "6-30-2007",
+      "city": "Asheville",
+      "state": "NC",
+      "location": "Asheville, NC",
+      "venue": "The Orange Peel",
+      "notes": "WAV(M) \u00b7 Panasonic WM-61A \u00b7 kris sproul",
       "version": "AUD",
       "format": "FLAC"
     },
@@ -15503,20 +16083,7 @@ const ARTIST_DATA = {
       "state": "NC",
       "location": "Asheville, NC",
       "venue": "The Orange Peel",
-      "notes": "WAV(M) · Panasonic WM-61A · kris sproul",
-      "version": "AUD",
-      "format": "FLAC"
-    },
-    {
-      "year": 2007,
-      "month": 6,
-      "day": 30,
-      "dateStr": "6-30-2007",
-      "city": "Asheville",
-      "state": "NC",
-      "location": "Asheville, NC",
-      "venue": "The Orange Peel",
-      "notes": "MK4 · zach payne",
+      "notes": "MK4 \u00b7 zach payne",
       "version": "AUD",
       "format": "FLAC"
     },
@@ -15529,9 +16096,10 @@ const ARTIST_DATA = {
       "state": "NC",
       "location": "Asheville, NC",
       "venue": "The Orange Peel",
-      "notes": "AKG CK93 · cabbage",
+      "notes": "AKG CK93 \u00b7 cabbage",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "2007-07-02 - Asheville, NC - The Orange Peel.txt"
     },
     {
       "year": 2007,
@@ -15542,7 +16110,7 @@ const ARTIST_DATA = {
       "state": "NC",
       "location": "Asheville, NC",
       "venue": "The Orange Peel",
-      "notes": "Schoeps MK41s · derek davis",
+      "notes": "Schoeps MK41s \u00b7 derek davis",
       "version": "AUD",
       "format": "FLAC"
     },
@@ -15555,7 +16123,21 @@ const ARTIST_DATA = {
       "state": "NC",
       "location": "Asheville, NC",
       "venue": "The Orange Peel",
-      "notes": "Edirol R09 · travpumpkin",
+      "notes": "Edirol R09 \u00b7 travpumpkin",
+      "version": "AUD",
+      "format": "FLAC",
+      "textFile": "2007-07-03 - Asheville, NC - The Orange Peel.txt"
+    },
+    {
+      "year": 2007,
+      "month": 7,
+      "day": 3,
+      "dateStr": "7-3-2007",
+      "city": "Asheville",
+      "state": "NC",
+      "location": "Asheville, NC",
+      "venue": "The Orange Peel",
+      "notes": "CMC-64 \u00b7 kevin straker",
       "version": "AUD",
       "format": "FLAC"
     },
@@ -15568,20 +16150,7 @@ const ARTIST_DATA = {
       "state": "NC",
       "location": "Asheville, NC",
       "venue": "The Orange Peel",
-      "notes": "CMC-64 · kevin straker",
-      "version": "AUD",
-      "format": "FLAC"
-    },
-    {
-      "year": 2007,
-      "month": 7,
-      "day": 3,
-      "dateStr": "7-3-2007",
-      "city": "Asheville",
-      "state": "NC",
-      "location": "Asheville, NC",
-      "venue": "The Orange Peel",
-      "notes": "Schoeps MK41s · derek davis",
+      "notes": "Schoeps MK41s \u00b7 derek davis",
       "version": "AUD",
       "format": "FLAC"
     },
@@ -15594,7 +16163,21 @@ const ARTIST_DATA = {
       "state": "NC",
       "location": "Asheville, NC",
       "venue": "The Orange Peel",
-      "notes": "Edirol R09 · stagscousin",
+      "notes": "Edirol R09 \u00b7 stagscousin",
+      "version": "AUD",
+      "format": "FLAC",
+      "textFile": "2007-07-05 - Asheville, NC - The Orange Peel.txt"
+    },
+    {
+      "year": 2007,
+      "month": 7,
+      "day": 5,
+      "dateStr": "7-5-2007",
+      "city": "Asheville",
+      "state": "NC",
+      "location": "Asheville, NC",
+      "venue": "The Orange Peel",
+      "notes": "MG300 \u00b7 david randle",
       "version": "AUD",
       "format": "FLAC"
     },
@@ -15607,20 +16190,7 @@ const ARTIST_DATA = {
       "state": "NC",
       "location": "Asheville, NC",
       "venue": "The Orange Peel",
-      "notes": "MG300 · david randle",
-      "version": "AUD",
-      "format": "FLAC"
-    },
-    {
-      "year": 2007,
-      "month": 7,
-      "day": 5,
-      "dateStr": "7-5-2007",
-      "city": "Asheville",
-      "state": "NC",
-      "location": "Asheville, NC",
-      "venue": "The Orange Peel",
-      "notes": "Sony ECM MS907 · neophile",
+      "notes": "Sony ECM MS907 \u00b7 neophile",
       "version": "AUD",
       "format": "FLAC"
     },
@@ -15646,7 +16216,7 @@ const ARTIST_DATA = {
       "state": "NC",
       "location": "Asheville, NC",
       "venue": "The Orange Peel",
-      "notes": "MiniDV(1) · Sony DCR-HC1000 · will g.",
+      "notes": "MiniDV(1) \u00b7 Sony DCR-HC1000 \u00b7 will g.",
       "version": "AMT #3",
       "format": "DVD"
     },
@@ -15659,9 +16229,10 @@ const ARTIST_DATA = {
       "state": "NJ",
       "location": "East Rutherford, NJ",
       "venue": "Giants Stadium",
-      "notes": "Live · XM Radio Broadcast",
+      "notes": "Live \u00b7 XM Radio Broadcast",
       "version": "FM",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "2007-07-07 - East Rutherford, NJ - Giants Stadium - Live Earth.txt"
     },
     {
       "year": 2007,
@@ -15672,7 +16243,7 @@ const ARTIST_DATA = {
       "state": "NJ",
       "location": "East Rutherford, NJ",
       "venue": "Giants Stadium",
-      "notes": "Live · Rogers Digital Cable > Sharp MD-MT15 · lambchops",
+      "notes": "Live \u00b7 Rogers Digital Cable > Sharp MD-MT15 \u00b7 lambchops",
       "version": "TV #1",
       "format": "FLAC"
     },
@@ -15685,7 +16256,7 @@ const ARTIST_DATA = {
       "state": "NJ",
       "location": "East Rutherford, NJ",
       "venue": "Giants Stadium",
-      "notes": "Live · Satellite · spaldz edit",
+      "notes": "Live \u00b7 Satellite \u00b7 spaldz edit",
       "version": "TV #2",
       "format": "FLAC"
     },
@@ -15698,7 +16269,7 @@ const ARTIST_DATA = {
       "state": "NJ",
       "location": "East Rutherford, NJ",
       "venue": "Giants Stadium",
-      "notes": "Live · XM Radio Broadcast · spaldz edit",
+      "notes": "Live \u00b7 XM Radio Broadcast \u00b7 spaldz edit",
       "version": "SBD #1",
       "format": "FLAC"
     },
@@ -15724,9 +16295,10 @@ const ARTIST_DATA = {
       "state": "NY",
       "location": "New York, NY",
       "venue": "Ed Sullivan Theatre",
-      "notes": "Late · inc",
+      "notes": "Late \u00b7 inc",
       "version": "TV #1",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "2007-07-09 - New York, NY - Ed Sullivan Theater.txt"
     },
     {
       "year": 2007,
@@ -15737,7 +16309,7 @@ const ARTIST_DATA = {
       "state": "NY",
       "location": "New York, NY",
       "venue": "Ed Sullivan Theatre",
-      "notes": "Late · Toshiba CB · cabbage",
+      "notes": "Late \u00b7 Toshiba CB \u00b7 cabbage",
       "version": "TV",
       "format": "FLAC"
     },
@@ -15750,7 +16322,7 @@ const ARTIST_DATA = {
       "state": "NY",
       "location": "New York, NY",
       "venue": "Ed Sullivan Theatre",
-      "notes": "Late · Toshiba CB · tarantula",
+      "notes": "Late \u00b7 Toshiba CB \u00b7 tarantula",
       "version": "PRO",
       "format": "DVD"
     },
@@ -15763,7 +16335,21 @@ const ARTIST_DATA = {
       "state": "D.C.",
       "location": "Washington, D.C.",
       "venue": "Nightclub 9:30",
-      "notes": "AKG 460/ck63 · rokpunk",
+      "notes": "AKG 460/ck63 \u00b7 rokpunk",
+      "version": "AUD",
+      "format": "FLAC",
+      "textFile": "2007-07-10 - Washington, D.C. - Nightclub 930.txt"
+    },
+    {
+      "year": 2007,
+      "month": 7,
+      "day": 10,
+      "dateStr": "7-10-2007",
+      "city": "Washington",
+      "state": "D.C.",
+      "location": "Washington, D.C.",
+      "venue": "Nightclub 9:30",
+      "notes": "Schoeps CCM4 \u00b7 distance",
       "version": "AUD",
       "format": "FLAC"
     },
@@ -15776,20 +16362,7 @@ const ARTIST_DATA = {
       "state": "D.C.",
       "location": "Washington, D.C.",
       "venue": "Nightclub 9:30",
-      "notes": "Schoeps CCM4 · distance",
-      "version": "AUD",
-      "format": "FLAC"
-    },
-    {
-      "year": 2007,
-      "month": 7,
-      "day": 10,
-      "dateStr": "7-10-2007",
-      "city": "Washington",
-      "state": "D.C.",
-      "location": "Washington, D.C.",
-      "venue": "Nightclub 9:30",
-      "notes": "Early · XM Roady 2",
+      "notes": "Early \u00b7 XM Roady 2",
       "version": "AUD",
       "format": "FLAC"
     },
@@ -15828,9 +16401,10 @@ const ARTIST_DATA = {
       "state": "NY",
       "location": "New York, NY",
       "venue": "WXRK Studios",
-      "notes": "KROCK's · Billy & Jimmy · xdx & splatto",
+      "notes": "KROCK's \u00b7 Billy & Jimmy \u00b7 xdx & splatto",
       "version": "FM",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "2007-07-12 - New York, NY - WXRK Studios.txt"
     },
     {
       "year": 2007,
@@ -15841,9 +16415,10 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "San Francisco, CA",
       "venue": "The Fillmore",
-      "notes": "CAC · dcbullet",
+      "notes": "CAC \u00b7 dcbullet",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "2007-07-15 - San Francisco, CA - The Fillmore.txt"
     },
     {
       "year": 2007,
@@ -15854,7 +16429,7 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "San Francisco, CA",
       "venue": "The Fillmore",
-      "notes": "Sony HDR-SR5 · montelds",
+      "notes": "Sony HDR-SR5 \u00b7 montelds",
       "version": "AUD",
       "format": "DVD"
     },
@@ -15867,9 +16442,10 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "San Francisco, CA",
       "venue": "The Fillmore",
-      "notes": "MT(M) · DPA 4061s · fuzn37",
+      "notes": "MT(M) \u00b7 DPA 4061s \u00b7 fuzn37",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "2007-07-16 - San Francisco, CA - The Fillmore.txt"
     },
     {
       "year": 2007,
@@ -15880,7 +16456,7 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "San Francisco, CA",
       "venue": "The Fillmore",
-      "notes": "Sony HDR-SR5 · montelds edit",
+      "notes": "Sony HDR-SR5 \u00b7 montelds edit",
       "version": "AUD",
       "format": "DVD"
     },
@@ -15893,9 +16469,10 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "San Francisco, CA",
       "venue": "The Fillmore",
-      "notes": "Sony ECM-959DT · the manwich brothers",
+      "notes": "Sony ECM-959DT \u00b7 the manwich brothers",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "2007-07-18 - San Francisco, CA - The Fillmore.txt"
     },
     {
       "year": 2007,
@@ -15906,7 +16483,7 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "San Francisco, CA",
       "venue": "The Fillmore",
-      "notes": "Multi-source mix · rhinowing",
+      "notes": "Multi-source mix \u00b7 rhinowing",
       "version": "MIX",
       "format": "FLAC"
     },
@@ -15932,9 +16509,10 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "Santa Cruz, CA",
       "venue": "Santa Cruz Civic Auditorium",
-      "notes": "DAT(M) · KM140s",
+      "notes": "DAT(M) \u00b7 KM140s",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "2007-07-20 - Santa Cruz, CA - Santa Cruz Civic Auditorium.txt"
     },
     {
       "year": 2007,
@@ -15960,7 +16538,8 @@ const ARTIST_DATA = {
       "venue": "Fillmore West",
       "notes": "jon roalf",
       "version": "AUD",
-      "format": "MP3"
+      "format": "MP3",
+      "textFile": "2007-07-25 - San Francisco, CA - Fillmore West (MP3).txt"
     },
     {
       "year": 2007,
@@ -15971,9 +16550,10 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "San Francisco, CA",
       "venue": "The Fillmore",
-      "notes": "Schoeps CMC34 · zero23",
+      "notes": "Schoeps CMC34 \u00b7 zero23",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "2007-07-27 - San Francisco, CA - The Fillmore.txt"
     },
     {
       "year": 2007,
@@ -15984,7 +16564,7 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "San Francisco, CA",
       "venue": "The Fillmore",
-      "notes": "CSB · zero23",
+      "notes": "CSB \u00b7 zero23",
       "version": "AUD",
       "format": "FLAC 24"
     },
@@ -15997,7 +16577,7 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "San Francisco, CA",
       "venue": "The Fillmore",
-      "notes": "SP-CMC4 · unk",
+      "notes": "SP-CMC4 \u00b7 unk",
       "version": "AUD",
       "format": "FLAC"
     },
@@ -16010,7 +16590,7 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "San Francisco, CA",
       "venue": "The Fillmore",
-      "notes": "Sony HDR-SR5 · montelds edit",
+      "notes": "Sony HDR-SR5 \u00b7 montelds edit",
       "version": "AUD",
       "format": "DVD"
     },
@@ -16023,9 +16603,10 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "San Francisco, CA",
       "venue": "The Fillmore",
-      "notes": "SP-CMC4 · k-roq",
+      "notes": "SP-CMC4 \u00b7 k-roq",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "2007-07-28 - San Francisco, CA - The Fillmore.txt"
     },
     {
       "year": 2007,
@@ -16036,7 +16617,7 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "San Francisco, CA",
       "venue": "The Fillmore",
-      "notes": "CSB · zero23",
+      "notes": "CSB \u00b7 zero23",
       "version": "AUD",
       "format": "FLAC 24"
     },
@@ -16049,7 +16630,7 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "San Francisco, CA",
       "venue": "The Fillmore",
-      "notes": "DAT(M) · unk",
+      "notes": "DAT(M) \u00b7 unk",
       "version": "SBD",
       "format": "FLAC"
     },
@@ -16077,7 +16658,8 @@ const ARTIST_DATA = {
       "venue": "The Fillmore",
       "notes": "KM140s",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "2007-07-30 - San Francisco, CA - The Fillmore.txt"
     },
     {
       "year": 2007,
@@ -16088,7 +16670,7 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "San Francisco, CA",
       "venue": "The Fillmore",
-      "notes": "Sony HDR-SR5 · montelds edit",
+      "notes": "Sony HDR-SR5 \u00b7 montelds edit",
       "version": "AUD",
       "format": "DVD"
     },
@@ -16101,7 +16683,7 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "San Francisco, CA",
       "venue": "The Fillmore",
-      "notes": "CA ST-11 · miguel villarelo",
+      "notes": "CA ST-11 \u00b7 miguel villarelo",
       "version": "AUD",
       "format": "FLAC"
     },
@@ -16114,9 +16696,10 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "San Francisco, CA",
       "venue": "The Fillmore",
-      "notes": "CA ST-11 · miguel villarelo",
+      "notes": "CA ST-11 \u00b7 miguel villarelo",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "2007-07-31 - San Francisco, CA - The Fillmore.txt"
     },
     {
       "year": 2007,
@@ -16127,7 +16710,7 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "San Francisco, CA",
       "venue": "The Fillmore",
-      "notes": "Sony HDR-SR5 · montelds and carlz",
+      "notes": "Sony HDR-SR5 \u00b7 montelds and carlz",
       "version": "AUD",
       "format": "DVD"
     },
@@ -16140,9 +16723,10 @@ const ARTIST_DATA = {
       "state": "MD",
       "location": "Baltimore, MD",
       "venue": "Pimlico Race Course",
-      "notes": "Virgin · AKG CK93 · cabbage",
+      "notes": "Virgin \u00b7 AKG CK93 \u00b7 cabbage",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "2007-08-05 - Baltimore, MD - Pimlico Race Course - Virgin Festival.txt"
     },
     {
       "year": 2007,
@@ -16153,7 +16737,7 @@ const ARTIST_DATA = {
       "state": "MD",
       "location": "Baltimore, MD",
       "venue": "Pimlico Race Course",
-      "notes": "Virgin · DAB · jeremy wilhide",
+      "notes": "Virgin \u00b7 DAB \u00b7 jeremy wilhide",
       "version": "AUD",
       "format": "FLAC"
     },
@@ -16166,7 +16750,35 @@ const ARTIST_DATA = {
       "state": "Sweden",
       "location": "Stockholm, Sweden",
       "venue": "Cirkus",
-      "notes": "DPA 4061 · jofa",
+      "notes": "DPA 4061 \u00b7 jofa",
+      "version": "AUD",
+      "format": "FLAC",
+      "textFile": "2007-08-12 - Stockholm, Sweden - Cirkus.txt"
+    },
+    {
+      "year": 2007,
+      "month": 8,
+      "day": 14,
+      "dateStr": "8-14-2007",
+      "city": "Copenhagen",
+      "state": "Denmark",
+      "location": "Copenhagen, Denmark",
+      "venue": "Vega",
+      "notes": "DPA 4061 \u00b7 ij",
+      "version": "AUD",
+      "format": "FLAC",
+      "textFile": "2007-08-14 - Copenhagen, Denmark - Vega.txt"
+    },
+    {
+      "year": 2007,
+      "month": 8,
+      "day": 14,
+      "dateStr": "8-14-2007",
+      "city": "Copenhagen",
+      "state": "Denmark",
+      "location": "Copenhagen, Denmark",
+      "venue": "Vega",
+      "notes": "MKE40 \u00b7 na",
       "version": "AUD",
       "format": "FLAC"
     },
@@ -16179,33 +16791,7 @@ const ARTIST_DATA = {
       "state": "Denmark",
       "location": "Copenhagen, Denmark",
       "venue": "Vega",
-      "notes": "DPA 4061 · ij",
-      "version": "AUD",
-      "format": "FLAC"
-    },
-    {
-      "year": 2007,
-      "month": 8,
-      "day": 14,
-      "dateStr": "8-14-2007",
-      "city": "Copenhagen",
-      "state": "Denmark",
-      "location": "Copenhagen, Denmark",
-      "venue": "Vega",
-      "notes": "MKE40 · na",
-      "version": "AUD",
-      "format": "FLAC"
-    },
-    {
-      "year": 2007,
-      "month": 8,
-      "day": 14,
-      "dateStr": "8-14-2007",
-      "city": "Copenhagen",
-      "state": "Denmark",
-      "location": "Copenhagen, Denmark",
-      "venue": "Vega",
-      "notes": "DPA 4061 · tj",
+      "notes": "DPA 4061 \u00b7 tj",
       "version": "AUD",
       "format": "FLAC"
     },
@@ -16214,13 +16800,14 @@ const ARTIST_DATA = {
       "month": 8,
       "day": 16,
       "dateStr": "8-16-2007",
-      "city": "Saint-Père",
+      "city": "Saint-P\u00e8re",
       "state": "France",
-      "location": "Saint-Père, France",
-      "venue": "Fort Saint-Père",
-      "notes": "SP-CMC-8 · unk",
+      "location": "Saint-P\u00e8re, France",
+      "venue": "Fort Saint-P\u00e8re",
+      "notes": "SP-CMC-8 \u00b7 unk",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "2007-08-16 - Saint-Pe\u0300re, France -Fort Saint-Pe\u0300re.txt"
     },
     {
       "year": 2007,
@@ -16231,9 +16818,10 @@ const ARTIST_DATA = {
       "state": "Belgium",
       "location": "Hasselt, Belgium",
       "venue": "Pukkelpop Festival",
-      "notes": "Edirol R09 · nikn",
+      "notes": "Edirol R09 \u00b7 nikn",
       "version": "AUD",
-      "format": "MP3"
+      "format": "MP3",
+      "textFile": "2007-08-17 - Hasselt, Belgium - Pukkelpop Festival (MP3).txt"
     },
     {
       "year": 2007,
@@ -16246,7 +16834,8 @@ const ARTIST_DATA = {
       "venue": "Foire aux vins de Colmar",
       "notes": "SP-BMC-12",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "2007-08-19 - Colmar, France - Foire aux vins de Colmar.txt"
     },
     {
       "year": 2007,
@@ -16270,7 +16859,7 @@ const ARTIST_DATA = {
       "state": "France",
       "location": "Colmar, France",
       "venue": "Foire aux vins de Colmar",
-      "notes": "Aiwa DS6 · hanwaker",
+      "notes": "Aiwa DS6 \u00b7 hanwaker",
       "version": "AUD",
       "format": "FLAC"
     },
@@ -16283,7 +16872,7 @@ const ARTIST_DATA = {
       "state": "France",
       "location": "Colmar, France",
       "venue": "Foire aux vins de Colmar",
-      "notes": "WAV(M) · MBHO MBP 603 A",
+      "notes": "WAV(M) \u00b7 MBHO MBP 603 A",
       "version": "AUD",
       "format": "FLAC 24"
     },
@@ -16296,7 +16885,7 @@ const ARTIST_DATA = {
       "state": "France",
       "location": "Colmar, France",
       "venue": "Foire aux vins de Colmar",
-      "notes": "Sony HDR-SR1E · martyluca",
+      "notes": "Sony HDR-SR1E \u00b7 martyluca",
       "version": "AUD",
       "format": "DVD"
     },
@@ -16309,9 +16898,10 @@ const ARTIST_DATA = {
       "state": "UK",
       "location": "Glasgow, UK",
       "venue": "The Carling Academy",
-      "notes": "CSB · jadg2",
+      "notes": "CSB \u00b7 jadg2",
       "version": "AUD",
-      "format": "FLAC 24"
+      "format": "FLAC 24",
+      "textFile": "2007-08-22 - Glasgow, UK - The Carling Academy.txt"
     },
     {
       "year": 2007,
@@ -16322,7 +16912,7 @@ const ARTIST_DATA = {
       "state": "UK",
       "location": "Glasgow, UK",
       "venue": "The Carling Academy",
-      "notes": "MD(M) · WM-61A · jambo",
+      "notes": "MD(M) \u00b7 WM-61A \u00b7 jambo",
       "version": "AUD",
       "format": "FLAC"
     },
@@ -16335,9 +16925,10 @@ const ARTIST_DATA = {
       "state": "England",
       "location": "Reading, England",
       "venue": "Little John's Farm",
-      "notes": "Reading · DPA4061 · rob",
+      "notes": "Reading \u00b7 DPA4061 \u00b7 rob",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "2007-08-26 - Reading, England - Little John's Farm - Reading Festival.txt"
     },
     {
       "year": 2007,
@@ -16348,7 +16939,7 @@ const ARTIST_DATA = {
       "state": "England",
       "location": "Reading, England",
       "venue": "Little John's Farm",
-      "notes": "Reading · BBC Radio 1",
+      "notes": "Reading \u00b7 BBC Radio 1",
       "version": "WEB",
       "format": "FLAC"
     },
@@ -16361,7 +16952,7 @@ const ARTIST_DATA = {
       "state": "England",
       "location": "Reading, England",
       "venue": "Little John's Farm",
-      "notes": "Reading · spaldz transfer",
+      "notes": "Reading \u00b7 spaldz transfer",
       "version": "AUD",
       "format": "DVD"
     },
@@ -16374,7 +16965,7 @@ const ARTIST_DATA = {
       "state": "England",
       "location": "Reading, England",
       "venue": "Little John's Farm",
-      "notes": "Reading · BBCi Broadcast",
+      "notes": "Reading \u00b7 BBCi Broadcast",
       "version": "PRO",
       "format": "DVD"
     },
@@ -16387,7 +16978,35 @@ const ARTIST_DATA = {
       "state": "Canada",
       "location": "Montreal, Canada",
       "venue": "Parc Jean-Drapeau",
-      "notes": "Edirol R09 · matt",
+      "notes": "Edirol R09 \u00b7 matt",
+      "version": "AUD",
+      "format": "FLAC",
+      "textFile": "2007-09-08 - Montreal, Canada - Parc Jean-Drapeau.txt"
+    },
+    {
+      "year": 2007,
+      "month": 9,
+      "day": 9,
+      "dateStr": "9-9-2007",
+      "city": "Toronto",
+      "state": "Ontario",
+      "location": "Toronto, Ontario",
+      "venue": "Virgin Festival",
+      "notes": "Sony MZ-N707 \u00b7 pintosack",
+      "version": "AUD",
+      "format": "FLAC",
+      "textFile": "2007-09-09 - Toronto, Ontario - Virgin Festival.txt"
+    },
+    {
+      "year": 2007,
+      "month": 9,
+      "day": 9,
+      "dateStr": "9-9-2007",
+      "city": "Toronto",
+      "state": "Ontario",
+      "location": "Toronto, Ontario",
+      "venue": "Virgin Festival",
+      "notes": "AKG CK93 \u00b7 cabbage",
       "version": "AUD",
       "format": "FLAC"
     },
@@ -16400,33 +17019,7 @@ const ARTIST_DATA = {
       "state": "Ontario",
       "location": "Toronto, Ontario",
       "venue": "Virgin Festival",
-      "notes": "Sony MZ-N707 · pintosack",
-      "version": "AUD",
-      "format": "FLAC"
-    },
-    {
-      "year": 2007,
-      "month": 9,
-      "day": 9,
-      "dateStr": "9-9-2007",
-      "city": "Toronto",
-      "state": "Ontario",
-      "location": "Toronto, Ontario",
-      "venue": "Virgin Festival",
-      "notes": "AKG CK93 · cabbage",
-      "version": "AUD",
-      "format": "FLAC"
-    },
-    {
-      "year": 2007,
-      "month": 9,
-      "day": 9,
-      "dateStr": "9-9-2007",
-      "city": "Toronto",
-      "state": "Ontario",
-      "location": "Toronto, Ontario",
-      "venue": "Virgin Festival",
-      "notes": "Sony TCS-35V · john m.",
+      "notes": "Sony TCS-35V \u00b7 john m.",
       "version": "AUD",
       "format": "FLAC"
     },
@@ -16439,9 +17032,10 @@ const ARTIST_DATA = {
       "state": "NV",
       "location": "Las Vegas, NV",
       "venue": "Pearl Theater",
-      "notes": "Palms · CSB · zero23",
+      "notes": "Palms \u00b7 CSB \u00b7 zero23",
       "version": "AUD",
-      "format": "FLAC 24"
+      "format": "FLAC 24",
+      "textFile": "2007-09-13 - Las Vegas, NV - Pearl Theater - Palms Casino Resort.txt"
     },
     {
       "year": 2007,
@@ -16454,7 +17048,8 @@ const ARTIST_DATA = {
       "venue": "AOL Productions Q&A Exclusive",
       "notes": "",
       "version": "TV",
-      "format": "MP3"
+      "format": "MP3",
+      "textFile": "2007-09-14 - Beverly Hills, CA - AOL Sessions.txt"
     },
     {
       "year": 2007,
@@ -16478,9 +17073,10 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "Carson, CA",
       "venue": "Home Depot Center",
-      "notes": "KROQ-FM's · zwan666",
+      "notes": "KROQ-FM's \u00b7 zwan666",
       "version": "WEB",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "2007-09-15 - Carson, CA - Home Depot Center.txt"
     },
     {
       "year": 2007,
@@ -16491,9 +17087,10 @@ const ARTIST_DATA = {
       "state": "AZ",
       "location": "Phoenix, AZ",
       "venue": "Dodge Theater",
-      "notes": "DPA 4061s · desertsky",
+      "notes": "DPA 4061s \u00b7 desertsky",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "2007-09-18 - Phoenix, AZ - Dodge Theater.txt"
     },
     {
       "year": 2007,
@@ -16504,9 +17101,10 @@ const ARTIST_DATA = {
       "state": "WA",
       "location": "Ridgefield, WA",
       "venue": "The Amphitheater at Clark County",
-      "notes": "Nakamichi CM300s · chris mcgrath",
+      "notes": "Nakamichi CM300s \u00b7 chris mcgrath",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "2007-09-21 - Ridgefield, WA - The Amphitheater at Clark County.txt"
     },
     {
       "year": 2007,
@@ -16517,7 +17115,7 @@ const ARTIST_DATA = {
       "state": "WA",
       "location": "Ridgefield, WA",
       "venue": "The Amphitheater at Clark County",
-      "notes": "CSB · nathan crosby",
+      "notes": "CSB \u00b7 nathan crosby",
       "version": "AUD",
       "format": "FLAC"
     },
@@ -16543,9 +17141,10 @@ const ARTIST_DATA = {
       "state": "WA",
       "location": "Seattle, WA",
       "venue": "Qwest Field North Parking Lot",
-      "notes": "CSB · nathan crosby",
+      "notes": "CSB \u00b7 nathan crosby",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "2007-09-22 - Seattle, WA - Qwest Field North Parking Lot.txt"
     },
     {
       "year": 2007,
@@ -16556,9 +17155,10 @@ const ARTIST_DATA = {
       "state": "BC",
       "location": "Vancouver, BC",
       "venue": "PNE Forum",
-      "notes": "Sharp MD-MT15 · smashing0",
+      "notes": "Sharp MD-MT15 \u00b7 smashing0",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "2007-09-24 - Vancouver, BC - PNE Forum.txt"
     },
     {
       "year": 2007,
@@ -16569,9 +17169,10 @@ const ARTIST_DATA = {
       "state": "UT",
       "location": "Orem, UT",
       "venue": "McKay Events Center",
-      "notes": "R09 · bobbin tb",
+      "notes": "R09 \u00b7 bobbin tb",
       "version": "AUD",
-      "format": "FLAC 24"
+      "format": "FLAC 24",
+      "textFile": "2007-09-28 - Orem, UT - McKay Events Center.txt"
     },
     {
       "year": 2007,
@@ -16582,7 +17183,7 @@ const ARTIST_DATA = {
       "state": "UT",
       "location": "Orem, UT",
       "venue": "McKay Events Center",
-      "notes": "Sony HDR-SR5 · montelds",
+      "notes": "Sony HDR-SR5 \u00b7 montelds",
       "version": "AUD",
       "format": "DVD"
     },
@@ -16595,9 +17196,10 @@ const ARTIST_DATA = {
       "state": "CO",
       "location": "Morrison, CO",
       "venue": "Red Rocks Amphitheatre",
-      "notes": "Soundcheck · Olympus WS100 · montelds",
+      "notes": "Soundcheck \u00b7 Olympus WS100 \u00b7 montelds",
       "version": "AUD",
-      "format": "WMV"
+      "format": "WMV",
+      "textFile": "2007-09-30 - Morrison, CO - Red Rocks Amphitheatre.txt"
     },
     {
       "year": 2007,
@@ -16608,7 +17210,7 @@ const ARTIST_DATA = {
       "state": "CO",
       "location": "Morrison, CO",
       "venue": "Red Rocks Amphitheatre",
-      "notes": "CSB · brianblank",
+      "notes": "CSB \u00b7 brianblank",
       "version": "AUD",
       "format": "FLAC"
     },
@@ -16621,7 +17223,7 @@ const ARTIST_DATA = {
       "state": "CO",
       "location": "Morrison, CO",
       "venue": "Red Rocks Amphitheatre",
-      "notes": "DSM-6S · bg raves & homeless crisco",
+      "notes": "DSM-6S \u00b7 bg raves & homeless crisco",
       "version": "AUD",
       "format": "FLAC"
     },
@@ -16647,7 +17249,21 @@ const ARTIST_DATA = {
       "state": "MN",
       "location": "St. Paul, MN",
       "venue": "Roy Wilkins Auditorium",
-      "notes": "DAT(M) · CSB · the fridge",
+      "notes": "DAT(M) \u00b7 CSB \u00b7 the fridge",
+      "version": "AUD",
+      "format": "FLAC",
+      "textFile": "2007-10-02 - St. Paul, MN - Roy Wilkins Auditorium.txt"
+    },
+    {
+      "year": 2007,
+      "month": 10,
+      "day": 2,
+      "dateStr": "10-2-2007",
+      "city": "St. Paul",
+      "state": "MN",
+      "location": "St. Paul, MN",
+      "venue": "Roy Wilkins Auditorium",
+      "notes": "Schoeps MK4 \u00b7 pjp",
       "version": "AUD",
       "format": "FLAC"
     },
@@ -16660,7 +17276,7 @@ const ARTIST_DATA = {
       "state": "MN",
       "location": "St. Paul, MN",
       "venue": "Roy Wilkins Auditorium",
-      "notes": "Schoeps MK4 · pjp",
+      "notes": "SPC4s \u00b7 empty",
       "version": "AUD",
       "format": "FLAC"
     },
@@ -16673,20 +17289,7 @@ const ARTIST_DATA = {
       "state": "MN",
       "location": "St. Paul, MN",
       "venue": "Roy Wilkins Auditorium",
-      "notes": "SPC4s · empty",
-      "version": "AUD",
-      "format": "FLAC"
-    },
-    {
-      "year": 2007,
-      "month": 10,
-      "day": 2,
-      "dateStr": "10-2-2007",
-      "city": "St. Paul",
-      "state": "MN",
-      "location": "St. Paul, MN",
-      "venue": "Roy Wilkins Auditorium",
-      "notes": "Digital8(M) · Sony TRV-330 · the fridge",
+      "notes": "Digital8(M) \u00b7 Sony TRV-330 \u00b7 the fridge",
       "version": "AUD",
       "format": "DVD"
     },
@@ -16699,7 +17302,21 @@ const ARTIST_DATA = {
       "state": "IL",
       "location": "Normal, IL",
       "venue": "Braden Auditorium",
-      "notes": "SP-BMC-12 · matt krueger & kevin kohl",
+      "notes": "SP-BMC-12 \u00b7 matt krueger & kevin kohl",
+      "version": "AUD",
+      "format": "FLAC",
+      "textFile": "2007-10-04 - Normal, IL - Braden Auditorium.txt"
+    },
+    {
+      "year": 2007,
+      "month": 10,
+      "day": 4,
+      "dateStr": "10-4-2007",
+      "city": "Normal",
+      "state": "IL",
+      "location": "Normal, IL",
+      "venue": "Braden Auditorium",
+      "notes": "CSB \u00b7 unk",
       "version": "AUD",
       "format": "FLAC"
     },
@@ -16712,7 +17329,7 @@ const ARTIST_DATA = {
       "state": "IL",
       "location": "Normal, IL",
       "venue": "Braden Auditorium",
-      "notes": "CSB · unk",
+      "notes": "SP-BMC-12 \u00b7 unk",
       "version": "AUD",
       "format": "FLAC"
     },
@@ -16725,20 +17342,7 @@ const ARTIST_DATA = {
       "state": "IL",
       "location": "Normal, IL",
       "venue": "Braden Auditorium",
-      "notes": "SP-BMC-12 · unk",
-      "version": "AUD",
-      "format": "FLAC"
-    },
-    {
-      "year": 2007,
-      "month": 10,
-      "day": 4,
-      "dateStr": "10-4-2007",
-      "city": "Normal",
-      "state": "IL",
-      "location": "Normal, IL",
-      "venue": "Braden Auditorium",
-      "notes": "Schoeps MK41 · jcrab66",
+      "notes": "Schoeps MK41 \u00b7 jcrab66",
       "version": "AUD",
       "format": "FLAC"
     },
@@ -16764,9 +17368,10 @@ const ARTIST_DATA = {
       "state": "IN",
       "location": "Noblesville, IN",
       "venue": "Verizon Wireless Music Center",
-      "notes": "Oktava MC012 · frank quinto",
+      "notes": "Oktava MC012 \u00b7 frank quinto",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "2007-10-06 - Noblesville, IN - Verizon Wireless Music Center.txt"
     },
     {
       "year": 2007,
@@ -16777,9 +17382,10 @@ const ARTIST_DATA = {
       "state": "MI",
       "location": "Detroit, MI",
       "venue": "Fox Theatre",
-      "notes": "Sony MZ-N707 · pintosack",
+      "notes": "Sony MZ-N707 \u00b7 pintosack",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "2007-10-07 - Detroit, MI - Fox Theatre.txt"
     },
     {
       "year": 2007,
@@ -16790,9 +17396,10 @@ const ARTIST_DATA = {
       "state": "PA",
       "location": "Pittsburgh, PA",
       "venue": "AJ Palumbo Center",
-      "notes": "AT853 · bryan schuff",
+      "notes": "AT853 \u00b7 bryan schuff",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "2007-10-09 - Pittsburgh, PA - AJ Palumbo Center.txt"
     },
     {
       "year": 2007,
@@ -16805,7 +17412,8 @@ const ARTIST_DATA = {
       "venue": "Lifestyles Community Pavilion",
       "notes": "",
       "version": "AMT #1",
-      "format": "DVD"
+      "format": "DVD",
+      "textFile": "2007-10-11 - Columbus, OH - Lifestyles Community Pavilion.txt"
     },
     {
       "year": 2007,
@@ -16816,7 +17424,21 @@ const ARTIST_DATA = {
       "state": "MA",
       "location": "Boston, MA",
       "venue": "Orpheum Theatre",
-      "notes": "CSB · nathan crosby",
+      "notes": "CSB \u00b7 nathan crosby",
+      "version": "AUD",
+      "format": "FLAC",
+      "textFile": "2007-10-13 - Boston, MA - Orpheum Theatre.txt"
+    },
+    {
+      "year": 2007,
+      "month": 10,
+      "day": 13,
+      "dateStr": "10-13-2007",
+      "city": "Boston",
+      "state": "MA",
+      "location": "Boston, MA",
+      "venue": "Orpheum Theatre",
+      "notes": "CSB \u00b7 bennyblanco",
       "version": "AUD",
       "format": "FLAC"
     },
@@ -16829,20 +17451,7 @@ const ARTIST_DATA = {
       "state": "MA",
       "location": "Boston, MA",
       "venue": "Orpheum Theatre",
-      "notes": "CSB · bennyblanco",
-      "version": "AUD",
-      "format": "FLAC"
-    },
-    {
-      "year": 2007,
-      "month": 10,
-      "day": 13,
-      "dateStr": "10-13-2007",
-      "city": "Boston",
-      "state": "MA",
-      "location": "Boston, MA",
-      "venue": "Orpheum Theatre",
-      "notes": "MK4 · zach payne",
+      "notes": "MK4 \u00b7 zach payne",
       "version": "AUD",
       "format": "FLAC"
     },
@@ -16855,9 +17464,10 @@ const ARTIST_DATA = {
       "state": "MA",
       "location": "Boston, MA",
       "venue": "Orpheum Theatre",
-      "notes": "Neumann AK40 · pg",
+      "notes": "Neumann AK40 \u00b7 pg",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "2007-10-15 - Boston, MA - Orpheum Theatre.txt"
     },
     {
       "year": 2007,
@@ -16868,7 +17478,7 @@ const ARTIST_DATA = {
       "state": "MA",
       "location": "Boston, MA",
       "venue": "Orpheum Theatre",
-      "notes": "DPA 4021 · matt denardo",
+      "notes": "DPA 4021 \u00b7 matt denardo",
       "version": "AUD",
       "format": "FLAC 24"
     },
@@ -16881,9 +17491,10 @@ const ARTIST_DATA = {
       "state": "MA",
       "location": "Boston, MA",
       "venue": "Orpheum Theatre",
-      "notes": "Rode NT4 · jesse clark",
+      "notes": "Rode NT4 \u00b7 jesse clark",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "2007-10-16 - Boston, MA - Orpheum Theatre.txt"
     },
     {
       "year": 2007,
@@ -16894,7 +17505,7 @@ const ARTIST_DATA = {
       "state": "MA",
       "location": "Boston, MA",
       "venue": "Orpheum Theatre",
-      "notes": "CSB · bennyblanco",
+      "notes": "CSB \u00b7 bennyblanco",
       "version": "AUD",
       "format": "FLAC 24"
     },
@@ -16907,7 +17518,21 @@ const ARTIST_DATA = {
       "state": "PA",
       "location": "Upper Darby, PA",
       "venue": "Tower Theater",
-      "notes": "SP-BMC-1 · xdx",
+      "notes": "SP-BMC-1 \u00b7 xdx",
+      "version": "AUD",
+      "format": "FLAC",
+      "textFile": "2007-10-19 - Upper Darby, PA - Tower Theater.txt"
+    },
+    {
+      "year": 2007,
+      "month": 10,
+      "day": 19,
+      "dateStr": "10-19-2007",
+      "city": "Upper Darby",
+      "state": "PA",
+      "location": "Upper Darby, PA",
+      "venue": "Tower Theater",
+      "notes": "MK4s \u00b7 nickyc",
       "version": "AUD",
       "format": "FLAC"
     },
@@ -16920,20 +17545,7 @@ const ARTIST_DATA = {
       "state": "PA",
       "location": "Upper Darby, PA",
       "venue": "Tower Theater",
-      "notes": "MK4s · nickyc",
-      "version": "AUD",
-      "format": "FLAC"
-    },
-    {
-      "year": 2007,
-      "month": 10,
-      "day": 19,
-      "dateStr": "10-19-2007",
-      "city": "Upper Darby",
-      "state": "PA",
-      "location": "Upper Darby, PA",
-      "venue": "Tower Theater",
-      "notes": "Schoeps MK4 · zach payne",
+      "notes": "Schoeps MK4 \u00b7 zach payne",
       "version": "AUD",
       "format": "FLAC 24"
     },
@@ -16946,9 +17558,10 @@ const ARTIST_DATA = {
       "state": "PA",
       "location": "Upper Darby, PA",
       "venue": "Tower Theater",
-      "notes": "Schoeps MK4 · zach payne",
+      "notes": "Schoeps MK4 \u00b7 zach payne",
       "version": "AUD",
-      "format": "FLAC 24"
+      "format": "FLAC 24",
+      "textFile": "2007-10-21 - Upper Darby, PA - Tower Theater.txt"
     },
     {
       "year": 2007,
@@ -16985,9 +17598,10 @@ const ARTIST_DATA = {
       "state": "PA",
       "location": "Upper Darby, PA",
       "venue": "Tower Theater",
-      "notes": "Schoeps MK4 · zach payne",
+      "notes": "Schoeps MK4 \u00b7 zach payne",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "2007-10-22 - Upper Darby, PA - Tower Theater.txt"
     },
     {
       "year": 2007,
@@ -16998,9 +17612,10 @@ const ARTIST_DATA = {
       "state": "PA",
       "location": "Upper Darby, PA",
       "venue": "Tower Theater",
-      "notes": "AKG CK93 · cabbage",
+      "notes": "AKG CK93 \u00b7 cabbage",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "2007-10-23 - Upper Darby, PA - Tower Theater.txt"
     },
     {
       "year": 2007,
@@ -17024,9 +17639,10 @@ const ARTIST_DATA = {
       "state": "TN",
       "location": "Memphis, TN",
       "venue": "Mud Island Amphitheater",
-      "notes": "Sharp 702 · ECM-717 · hypnoraygun",
+      "notes": "Sharp 702 \u00b7 ECM-717 \u00b7 hypnoraygun",
       "version": "AUD",
-      "format": "MP3"
+      "format": "MP3",
+      "textFile": "2007-10-25 - Memphis, TN - Mud Island Amphitheater.txt"
     },
     {
       "year": 2007,
@@ -17037,9 +17653,10 @@ const ARTIST_DATA = {
       "state": "LA",
       "location": "New Orleans, LA",
       "venue": "City Park",
-      "notes": "Voodoo · AKG CK93 · cabbage",
+      "notes": "Voodoo \u00b7 AKG CK93 \u00b7 cabbage",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "2007-10-27 - New Orleans, LA - City Park - Voodoo Music Experience.txt"
     },
     {
       "year": 2007,
@@ -17050,7 +17667,7 @@ const ARTIST_DATA = {
       "state": "LA",
       "location": "New Orleans, LA",
       "venue": "City Park",
-      "notes": "Voodoo · Schoeps MK4 · andrew fogelsong",
+      "notes": "Voodoo \u00b7 Schoeps MK4 \u00b7 andrew fogelsong",
       "version": "AUD",
       "format": "FLAC 24"
     },
@@ -17063,7 +17680,7 @@ const ARTIST_DATA = {
       "state": "LA",
       "location": "New Orleans, LA",
       "venue": "City Park",
-      "notes": "Voodoo · Canon HV10 · cabbage",
+      "notes": "Voodoo \u00b7 Canon HV10 \u00b7 cabbage",
       "version": "AUD",
       "format": "DVD"
     },
@@ -17076,9 +17693,10 @@ const ARTIST_DATA = {
       "state": "TX",
       "location": "Houston, TX",
       "venue": "Cynthia Woods Mitchell Pavilion",
-      "notes": "Schoeps MK4 · andrew fogelsong",
+      "notes": "Schoeps MK4 \u00b7 andrew fogelsong",
       "version": "AUD",
-      "format": "FLAC 24"
+      "format": "FLAC 24",
+      "textFile": "2007-10-28 - Houston, TX - Cynthia Woods Mitchell Pavilion.txt"
     },
     {
       "year": 2007,
@@ -17089,9 +17707,10 @@ const ARTIST_DATA = {
       "state": "GA",
       "location": "Athens, GA",
       "venue": "Classic Center Theatre",
-      "notes": "PV-GS300 · shaggy28",
+      "notes": "PV-GS300 \u00b7 shaggy28",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "2007-11-07 - Athens, GA - Classic Center Theatre.txt"
     },
     {
       "year": 2007,
@@ -17115,9 +17734,10 @@ const ARTIST_DATA = {
       "state": "NC",
       "location": "Greensboro, NC",
       "venue": "War Memorial Auditorium",
-      "notes": "Schoeps MK4 · robbie dunn",
+      "notes": "Schoeps MK4 \u00b7 robbie dunn",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "2007-11-08 - Greensboro, NC - War Memorial Auditorium.txt"
     },
     {
       "year": 2007,
@@ -17128,9 +17748,10 @@ const ARTIST_DATA = {
       "state": "SC",
       "location": "Columbia, SC",
       "venue": "Township Auditorium",
-      "notes": "Neumann u89i · baustin",
+      "notes": "Neumann u89i \u00b7 baustin",
       "version": "AUD",
-      "format": "FLAC 24"
+      "format": "FLAC 24",
+      "textFile": "2007-11-09 - Columbia, SC - Township Auditorium.txt"
     },
     {
       "year": 2007,
@@ -17141,9 +17762,10 @@ const ARTIST_DATA = {
       "state": "TN",
       "location": "Nashville, TN",
       "venue": "Ryman Auditorium",
-      "notes": "SP-CMC-8 · walter269999",
+      "notes": "SP-CMC-8 \u00b7 walter269999",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "2007-11-11 - Nashville, TN - Ryman Auditorium.txt"
     },
     {
       "year": 2007,
@@ -17154,7 +17776,7 @@ const ARTIST_DATA = {
       "state": "TN",
       "location": "Nashville, TN",
       "venue": "Ryman Auditorium",
-      "notes": "SP-BMC-3 · garrett",
+      "notes": "SP-BMC-3 \u00b7 garrett",
       "version": "AUD",
       "format": "FLAC"
     },
@@ -17167,9 +17789,10 @@ const ARTIST_DATA = {
       "state": "TX",
       "location": "Austin, TX",
       "venue": "The Backyard",
-      "notes": "DSM-6S · bg raves/homeless crisco/1st mate kate",
+      "notes": "DSM-6S \u00b7 bg raves/homeless crisco/1st mate kate",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "2007-11-13 - Austin, TX - The Backyard.txt"
     },
     {
       "year": 2007,
@@ -17180,7 +17803,7 @@ const ARTIST_DATA = {
       "state": "TX",
       "location": "Austin, TX",
       "venue": "The Backyard",
-      "notes": "Schoeps MK4 · andrew fogelsong",
+      "notes": "Schoeps MK4 \u00b7 andrew fogelsong",
       "version": "AUD",
       "format": "FLAC 24"
     },
@@ -17193,9 +17816,10 @@ const ARTIST_DATA = {
       "state": "GA",
       "location": "Atlanta, GA",
       "venue": "Fox Theatre",
-      "notes": "DAB · jill harrison",
+      "notes": "DAB \u00b7 jill harrison",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "2007-11-15 - Atlanta, GA - Fox Theatre.txt"
     },
     {
       "year": 2007,
@@ -17206,7 +17830,7 @@ const ARTIST_DATA = {
       "state": "GA",
       "location": "Atlanta, GA",
       "venue": "Fox Theatre",
-      "notes": "MD(M) · MD recorder · greg harvey",
+      "notes": "MD(M) \u00b7 MD recorder \u00b7 greg harvey",
       "version": "AUD #2",
       "format": "FLAC"
     },
@@ -17219,9 +17843,10 @@ const ARTIST_DATA = {
       "state": "GA",
       "location": "Atlanta, GA",
       "venue": "Fox Theatre",
-      "notes": "DAB · jill harrison",
+      "notes": "DAB \u00b7 jill harrison",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "2007-11-16 - Atlanta, GA - Fox Theatre.txt"
     },
     {
       "year": 2007,
@@ -17245,9 +17870,10 @@ const ARTIST_DATA = {
       "state": "TX",
       "location": "Grand Prairie, TX",
       "venue": "Nokia Theatre",
-      "notes": "DSM-6S · bg raves",
+      "notes": "DSM-6S \u00b7 bg raves",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "2007-11-18 - Grand Prairie, TX - Nokia Theatre.txt"
     },
     {
       "year": 2007,
@@ -17271,7 +17897,7 @@ const ARTIST_DATA = {
       "state": "TX",
       "location": "Grand Prairie, TX",
       "venue": "Nokia Theatre",
-      "notes": "Schoeps MK4 · andrew fogelsong",
+      "notes": "Schoeps MK4 \u00b7 andrew fogelsong",
       "version": "AUD",
       "format": "FLAC 24"
     },
@@ -17284,7 +17910,7 @@ const ARTIST_DATA = {
       "state": "TX",
       "location": "Grand Prairie, TX",
       "venue": "Nokia Theatre",
-      "notes": "SPSC · karl frinkle",
+      "notes": "SPSC \u00b7 karl frinkle",
       "version": "AUD",
       "format": "FLAC 24"
     },
@@ -17297,9 +17923,10 @@ const ARTIST_DATA = {
       "state": "Czech Republic",
       "location": "Prague, Czech Republic",
       "venue": "Prague Sportovni Hala",
-      "notes": "T-Mobile Arena · blink eye projects",
+      "notes": "T-Mobile Arena \u00b7 blink eye projects",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "2008-01-30 - Prague, Czech Republic - Prague Sportovni Hala (T-Mobile Arena).txt"
     },
     {
       "year": 2008,
@@ -17325,7 +17952,8 @@ const ARTIST_DATA = {
       "venue": "Stadthalle",
       "notes": "unk",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "2008-01-31 - Vienna, Austria - Stadthalle.txt"
     },
     {
       "year": 2008,
@@ -17338,7 +17966,8 @@ const ARTIST_DATA = {
       "venue": "DatchForum di Assago",
       "notes": "unk",
       "version": "AUD",
-      "format": "MP3"
+      "format": "MP3",
+      "textFile": "2008-02-02 - Assago, Italy - DatchForum di Assago.txt"
     },
     {
       "year": 2008,
@@ -17362,9 +17991,10 @@ const ARTIST_DATA = {
       "state": "Italy",
       "location": "Bologna, Italy",
       "venue": "Palamalaguti, Casalecchio di Reno",
-      "notes": "AT853 · mlk",
+      "notes": "AT853 \u00b7 mlk",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "2008-02-03 - Bologna, Italy - Palamalaguti, Casalecchio di Reno.txt"
     },
     {
       "year": 2008,
@@ -17375,7 +18005,7 @@ const ARTIST_DATA = {
       "state": "Italy",
       "location": "Bologna, Italy",
       "venue": "Palamalaguti, Casalecchio di Reno",
-      "notes": "Sony ECM-719 · giuseppe pastorelli",
+      "notes": "Sony ECM-719 \u00b7 giuseppe pastorelli",
       "version": "AUD",
       "format": "FLAC"
     },
@@ -17401,9 +18031,10 @@ const ARTIST_DATA = {
       "state": "Switzerland",
       "location": "Zurich, Switzerland",
       "venue": "Hallenstadion",
-      "notes": "WAV(M) · MBHO MBP 603 A",
+      "notes": "WAV(M) \u00b7 MBHO MBP 603 A",
       "version": "AUD",
-      "format": "FLAC 24"
+      "format": "FLAC 24",
+      "textFile": "2008-02-05 - Zurich, Switzerland - Hallenstadion.txt"
     },
     {
       "year": 2008,
@@ -17416,7 +18047,8 @@ const ARTIST_DATA = {
       "venue": "Bercy",
       "notes": "SP-CMC-8 + Edirol R09",
       "version": "MTX",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "2008-02-06 - Paris, France - Bercy.txt"
     },
     {
       "year": 2008,
@@ -17466,9 +18098,10 @@ const ARTIST_DATA = {
       "state": "UK",
       "location": "Glasgow, UK",
       "venue": "Sottish Exhibition and Conference Centre Hall",
-      "notes": "AT U853's · spaldz",
+      "notes": "AT U853's \u00b7 spaldz",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "2008-02-12 - Glasgow, UK - Sottish Exhibition and Conference Centre Hall.txt"
     },
     {
       "year": 2008,
@@ -17481,7 +18114,8 @@ const ARTIST_DATA = {
       "venue": "",
       "notes": "",
       "version": "WEB",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "2008-02-13 - BBC Radio 1 Interview.txt"
     },
     {
       "year": 2008,
@@ -17492,9 +18126,10 @@ const ARTIST_DATA = {
       "state": "UK",
       "location": "Nottingham, UK",
       "venue": "Nottingham Arena",
-      "notes": "AT U853's · spaldz",
+      "notes": "AT U853's \u00b7 spaldz",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "2008-02-14 - Nottingham, UK - Nottingham Arena.txt"
     },
     {
       "year": 2008,
@@ -17505,7 +18140,7 @@ const ARTIST_DATA = {
       "state": "UK",
       "location": "Nottingham, UK",
       "venue": "Nottingham Arena",
-      "notes": "DPA 4061s · rob",
+      "notes": "DPA 4061s \u00b7 rob",
       "version": "AUD",
       "format": "FLAC"
     },
@@ -17518,9 +18153,10 @@ const ARTIST_DATA = {
       "state": "UK",
       "location": "Manchester, UK",
       "venue": "Manchester Evening News Arena",
-      "notes": "AT U853's · spaldz",
+      "notes": "AT U853's \u00b7 spaldz",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "2008-02-15 - Manchester, UK - Manchester Evening News Arena.txt"
     },
     {
       "year": 2008,
@@ -17531,7 +18167,7 @@ const ARTIST_DATA = {
       "state": "UK",
       "location": "Manchester, UK",
       "venue": "Manchester Evening News Arena",
-      "notes": "Sony TS-125 · leopheard_misc",
+      "notes": "Sony TS-125 \u00b7 leopheard_misc",
       "version": "AUD",
       "format": "FLAC"
     },
@@ -17544,9 +18180,10 @@ const ARTIST_DATA = {
       "state": "UK",
       "location": "London, UK",
       "venue": "02 Arena",
-      "notes": "Sony MZ-NH600 · Sony ECM-719 · zenith023",
+      "notes": "Sony MZ-NH600 \u00b7 Sony ECM-719 \u00b7 zenith023",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "2008-02-16 - London, UK - 02 Arena.txt"
     },
     {
       "year": 2008,
@@ -17557,7 +18194,7 @@ const ARTIST_DATA = {
       "state": "UK",
       "location": "London, UK",
       "venue": "02 Arena",
-      "notes": "Sony HC47 · miky",
+      "notes": "Sony HC47 \u00b7 miky",
       "version": "AUD",
       "format": "DVD"
     },
@@ -17570,9 +18207,10 @@ const ARTIST_DATA = {
       "state": "The Netherlands",
       "location": "Den Bosch, The Netherlands",
       "venue": "Brabanthallen",
-      "notes": "Edirol R-09 · bartsled",
+      "notes": "Edirol R-09 \u00b7 bartsled",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "2008-02-18 - Den Bosch, The Netherlands - Brabanthallen.txt"
     },
     {
       "year": 2008,
@@ -17583,9 +18221,10 @@ const ARTIST_DATA = {
       "state": "Belgium",
       "location": "Brussels, Belgium",
       "venue": "Vorst Nationaal",
-      "notes": "SP-CMC-4U · bitdoursssss",
+      "notes": "SP-CMC-4U \u00b7 bitdoursssss",
       "version": "AUD",
-      "format": "FLAC 24"
+      "format": "FLAC 24",
+      "textFile": "2008-02-19 - Brussels, Belgium - Vorst Nationaal.txt"
     },
     {
       "year": 2008,
@@ -17596,7 +18235,7 @@ const ARTIST_DATA = {
       "state": "Belgium",
       "location": "Brussels, Belgium",
       "venue": "Vorst Nationaal",
-      "notes": "Edirol R-09 · nikn",
+      "notes": "Edirol R-09 \u00b7 nikn",
       "version": "AUD",
       "format": "MP3"
     },
@@ -17609,9 +18248,10 @@ const ARTIST_DATA = {
       "state": "Germany",
       "location": "Muenchen, Germany",
       "venue": "Olympiahalle",
-      "notes": "MBHO MBP 603 A · unk",
+      "notes": "MBHO MBP 603 A \u00b7 unk",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "2008-02-21 - Muenchen, Germany - Olympiahalle.txt"
     },
     {
       "year": 2008,
@@ -17622,9 +18262,10 @@ const ARTIST_DATA = {
       "state": "Germany",
       "location": "Frankfurt, Germany",
       "venue": "Jahrhunderthalle (Soundcheck)",
-      "notes": "MiniDV(M) · Panasonic NV-GS75 · cosmonaut",
+      "notes": "MiniDV(M) \u00b7 Panasonic NV-GS75 \u00b7 cosmonaut",
       "version": "AMT #1",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "2008-02-22 - Frankfurt, Germany - Jahrhunderthalle.txt"
     },
     {
       "year": 2008,
@@ -17635,7 +18276,7 @@ const ARTIST_DATA = {
       "state": "Germany",
       "location": "Frankfurt, Germany",
       "venue": "Jahrhunderthalle",
-      "notes": "MBHO MBP 603 A · unk",
+      "notes": "MBHO MBP 603 A \u00b7 unk",
       "version": "AUD",
       "format": "FLAC 24"
     },
@@ -17663,7 +18304,8 @@ const ARTIST_DATA = {
       "venue": "Arena",
       "notes": "OKM IIr",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "2008-02-23 - Berlin, Germany - Arena.txt"
     },
     {
       "year": 2008,
@@ -17674,9 +18316,10 @@ const ARTIST_DATA = {
       "state": "Denmark",
       "location": "Copenhagen, Denmark",
       "venue": "Valbyhallen",
-      "notes": "DPA 4061 · tj",
+      "notes": "DPA 4061 \u00b7 tj",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "2008-02-27 - Copenhagen, Denmark - Valbyhallen .txt"
     },
     {
       "year": 2008,
@@ -17689,7 +18332,8 @@ const ARTIST_DATA = {
       "venue": "Oslo Spektrum",
       "notes": "CSB",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "2008-02-29 - Oslo, Norway - Oslo Spektrum.txt"
     },
     {
       "year": 2008,
@@ -17702,7 +18346,8 @@ const ARTIST_DATA = {
       "venue": "",
       "notes": "",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "2008-03-01 - Stockholm, Sweden - Hovet.txt"
     },
     {
       "year": 2008,
@@ -17713,7 +18358,7 @@ const ARTIST_DATA = {
       "state": "Sweden",
       "location": "Stockholm, Sweden",
       "venue": "Hovet",
-      "notes": "Sony DCR-HC18E · mrk",
+      "notes": "Sony DCR-HC18E \u00b7 mrk",
       "version": "AUD",
       "format": "DVD"
     },
@@ -17728,7 +18373,8 @@ const ARTIST_DATA = {
       "venue": "TSB Bank Arena",
       "notes": "Sony ECM-717",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "2008-03-20 - Wellington, New Zealand - TSB Bank Arena.txt"
     },
     {
       "year": 2008,
@@ -17739,7 +18385,7 @@ const ARTIST_DATA = {
       "state": "New Zealand",
       "location": "Wellington, New Zealand",
       "venue": "TSB Bank Arena",
-      "notes": "Sony DSR-PDX10P · gazza987",
+      "notes": "Sony DSR-PDX10P \u00b7 gazza987",
       "version": "AUD",
       "format": "DVD"
     },
@@ -17754,7 +18400,8 @@ const ARTIST_DATA = {
       "venue": "Vector Arena",
       "notes": "Sony ECM-717",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "2008-03-22 - Auckland, New Zealand - Vector Arena.txt"
     },
     {
       "year": 2008,
@@ -17780,7 +18427,8 @@ const ARTIST_DATA = {
       "venue": "Westpac Arena",
       "notes": "Sony ECM-717",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "2008-03-24 - Christchurch, New Zealand - Westpac Arena.txt"
     },
     {
       "year": 2008,
@@ -17791,9 +18439,10 @@ const ARTIST_DATA = {
       "state": "Australia",
       "location": "Sydney, Australia",
       "venue": "Hordern Pavilion",
-      "notes": "SP-CMC-2 · tim",
+      "notes": "SP-CMC-2 \u00b7 tim",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "2008-03-27 - Sydney, Australia - Hordern Pavilion.txt"
     },
     {
       "year": 2008,
@@ -17806,7 +18455,8 @@ const ARTIST_DATA = {
       "venue": "Metro Theatre",
       "notes": "MTV:",
       "version": "PRO #1",
-      "format": "DVD"
+      "format": "DVD",
+      "textFile": "2008-03-28 - Sydney, Australia - Metro Theatre.txt"
     },
     {
       "year": 2008,
@@ -17830,9 +18480,10 @@ const ARTIST_DATA = {
       "state": "Australia",
       "location": "Sydney, Australia",
       "venue": "Centennial Parklands",
-      "notes": "Sony ECM-MS907 · phil m.",
+      "notes": "Sony ECM-MS907 \u00b7 phil m.",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "2008-03-29 - Sydney, Australia - Centennial Parklands.txt"
     },
     {
       "year": 2008,
@@ -17843,7 +18494,7 @@ const ARTIST_DATA = {
       "state": "Australia",
       "location": "Sydney, Australia",
       "venue": "Centennial Parklands",
-      "notes": "SP-CMC-2 · tim",
+      "notes": "SP-CMC-2 \u00b7 tim",
       "version": "AUD",
       "format": "FLAC"
     },
@@ -17856,9 +18507,10 @@ const ARTIST_DATA = {
       "state": "Australia",
       "location": "Melbourne, Australia",
       "venue": "Festival Hall",
-      "notes": "inc · Schoeps MK4",
+      "notes": "inc \u00b7 Schoeps MK4",
       "version": "AUD",
-      "format": "FLAC 24"
+      "format": "FLAC 24",
+      "textFile": "2008-04-04 - Melbourne, Australia - Festival Hall.txt"
     },
     {
       "year": 2008,
@@ -17869,9 +18521,10 @@ const ARTIST_DATA = {
       "state": "Australia",
       "location": "Melbourne, Australia",
       "venue": "Melbourne RAS",
-      "notes": "Schoeps MK4 · autumn nocturne",
+      "notes": "Schoeps MK4 \u00b7 autumn nocturne",
       "version": "AUD",
-      "format": "FLAC 24"
+      "format": "FLAC 24",
+      "textFile": "2008-04-05 - Melbourne, Australia - Melbourne RAS.txt"
     },
     {
       "year": 2008,
@@ -17882,9 +18535,10 @@ const ARTIST_DATA = {
       "state": "Australia",
       "location": "Perth, Australia",
       "venue": "V Festival Esplandade Outdoor",
-      "notes": "SP-SMC-8 · pyometronguts",
+      "notes": "SP-SMC-8 \u00b7 pyometronguts",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "2008-04-06 - Perth, Australia - V Festival Esplandade Outdoor.txt"
     },
     {
       "year": 2008,
@@ -17897,7 +18551,8 @@ const ARTIST_DATA = {
       "venue": "Adler Theater",
       "notes": "First Day Rehearsals",
       "version": "SBD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "2008-08-07 - Davenport, IA - Adler Theater (First Day Rehearsals).txt"
     },
     {
       "year": 2008,
@@ -17908,7 +18563,7 @@ const ARTIST_DATA = {
       "state": "IA",
       "location": "Davenport, IA",
       "venue": "Adler Theater",
-      "notes": "First Day Rehearsals · thir13en remaster",
+      "notes": "First Day Rehearsals \u00b7 thir13en remaster",
       "version": "SBD",
       "format": "FLAC"
     },
@@ -17921,7 +18576,7 @@ const ARTIST_DATA = {
       "state": "IA",
       "location": "Davenport, IA",
       "venue": "Adler Theater",
-      "notes": "First Day Rehearsals · thir13en re-edit",
+      "notes": "First Day Rehearsals \u00b7 thir13en re-edit",
       "version": "SBD",
       "format": "FLAC"
     },
@@ -17934,9 +18589,10 @@ const ARTIST_DATA = {
       "state": "IA",
       "location": "Davenport, IA",
       "venue": "The Adler",
-      "notes": "CSC · bullet1979",
+      "notes": "CSC \u00b7 bullet1979",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "2008-08-08 - Davenport, IA - The Adler.txt"
     },
     {
       "year": 2008,
@@ -17947,7 +18603,7 @@ const ARTIST_DATA = {
       "state": "IA",
       "location": "Davenport, IA",
       "venue": "The Adler",
-      "notes": "STC-11 · ralph bryant",
+      "notes": "STC-11 \u00b7 ralph bryant",
       "version": "AUD",
       "format": "FLAC 24"
     },
@@ -17973,9 +18629,10 @@ const ARTIST_DATA = {
       "state": "IN",
       "location": "Hammond, IN",
       "venue": "The Venue",
-      "notes": "Horseshoe Casino · CSC · bullet1979",
+      "notes": "Horseshoe Casino \u00b7 CSC \u00b7 bullet1979",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "2008-08-09 - Hammond, IN - The Venue (Horseshoe Casino).txt"
     },
     {
       "year": 2008,
@@ -17986,7 +18643,7 @@ const ARTIST_DATA = {
       "state": "IN",
       "location": "Hammond, IN",
       "venue": "The Venue",
-      "notes": "Horseshoe Casino · Edirol R09 · jb",
+      "notes": "Horseshoe Casino \u00b7 Edirol R09 \u00b7 jb",
       "version": "AUD",
       "format": "FLAC 24"
     },
@@ -17999,9 +18656,10 @@ const ARTIST_DATA = {
       "state": "KY",
       "location": "Louisville, KY",
       "venue": "Louisville Palace Theater",
-      "notes": "Schoeps MK4v · brent stober",
+      "notes": "Schoeps MK4v \u00b7 brent stober",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "2008-08-12 - Louisville, KY - Louisville Palace Theater.txt"
     },
     {
       "year": 2008,
@@ -18012,7 +18670,7 @@ const ARTIST_DATA = {
       "state": "KY",
       "location": "Louisville, KY",
       "venue": "Louisville Palace Theater",
-      "notes": "Sony DCR HC28 MiniDV · brock666",
+      "notes": "Sony DCR HC28 MiniDV \u00b7 brock666",
       "version": "AUD",
       "format": "DVD"
     },
@@ -18025,9 +18683,10 @@ const ARTIST_DATA = {
       "state": "TN",
       "location": "Knoxville, TN",
       "venue": "Tennessee Theatre",
-      "notes": "Sony ECM-717 · the govner",
+      "notes": "Sony ECM-717 \u00b7 the govner",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "2008-08-13 - Knoxville, TN - Tennessee Theatre.txt"
     },
     {
       "year": 2008,
@@ -18038,7 +18697,35 @@ const ARTIST_DATA = {
       "state": "NC",
       "location": "Charlotte, NC",
       "venue": "Ovens Auditorium",
-      "notes": "Zoom H4 · blankpage37",
+      "notes": "Zoom H4 \u00b7 blankpage37",
+      "version": "AUD",
+      "format": "FLAC",
+      "textFile": "2008-08-15 - Charlotte, NC - Ovens Auditorium.txt"
+    },
+    {
+      "year": 2008,
+      "month": 8,
+      "day": 16,
+      "dateStr": "8-16-2008",
+      "city": "Charlottesville",
+      "state": "VA",
+      "location": "Charlottesville, VA",
+      "venue": "Charlottesville Pavilion",
+      "notes": "AKG CK93 \u00b7 cabbage",
+      "version": "AUD",
+      "format": "FLAC",
+      "textFile": "2008-08-16 - Charlottesville, VA - Charlottesville Pavilion.txt"
+    },
+    {
+      "year": 2008,
+      "month": 8,
+      "day": 16,
+      "dateStr": "8-16-2008",
+      "city": "Charlottesville",
+      "state": "VA",
+      "location": "Charlottesville, VA",
+      "venue": "Charlottesville Pavilion",
+      "notes": "DSM-6S \u00b7 bgraves",
       "version": "AUD",
       "format": "FLAC"
     },
@@ -18051,33 +18738,7 @@ const ARTIST_DATA = {
       "state": "VA",
       "location": "Charlottesville, VA",
       "venue": "Charlottesville Pavilion",
-      "notes": "AKG CK93 · cabbage",
-      "version": "AUD",
-      "format": "FLAC"
-    },
-    {
-      "year": 2008,
-      "month": 8,
-      "day": 16,
-      "dateStr": "8-16-2008",
-      "city": "Charlottesville",
-      "state": "VA",
-      "location": "Charlottesville, VA",
-      "venue": "Charlottesville Pavilion",
-      "notes": "DSM-6S · bgraves",
-      "version": "AUD",
-      "format": "FLAC"
-    },
-    {
-      "year": 2008,
-      "month": 8,
-      "day": 16,
-      "dateStr": "8-16-2008",
-      "city": "Charlottesville",
-      "state": "VA",
-      "location": "Charlottesville, VA",
-      "venue": "Charlottesville Pavilion",
-      "notes": "BSCS-L · page",
+      "notes": "BSCS-L \u00b7 page",
       "version": "AUD",
       "format": "FLAC"
     },
@@ -18090,9 +18751,10 @@ const ARTIST_DATA = {
       "state": "NC",
       "location": "Raleigh, NC",
       "venue": "Memorial Auditorium",
-      "notes": "Schoeps MK4 · robbie dunn",
+      "notes": "Schoeps MK4 \u00b7 robbie dunn",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "2008-08-17 - Raleigh, NC - Memorial Auditorium.txt"
     },
     {
       "year": 2008,
@@ -18103,9 +18765,10 @@ const ARTIST_DATA = {
       "state": "FL",
       "location": "Clearwater, FL",
       "venue": "Ruth Eckerd Hall",
-      "notes": "Dynamic Audio Condensers · david reid",
+      "notes": "Dynamic Audio Condensers \u00b7 david reid",
       "version": "AUD",
-      "format": "FLAC 24"
+      "format": "FLAC 24",
+      "textFile": "2008-08-20 - Clearwater, FL - Ruth Eckerd Hall.txt"
     },
     {
       "year": 2008,
@@ -18116,9 +18779,10 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "Hollywood, CA",
       "venue": "Kodak Theatre",
-      "notes": "Jimmy · Edirol R-09 · the manwich brothers",
+      "notes": "Jimmy \u00b7 Edirol R-09 \u00b7 the manwich brothers",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "2008-10-24 - Hollywood, CA - Kodak Theatre - Jimmy Kimmel Live.txt"
     },
     {
       "year": 2008,
@@ -18129,9 +18793,10 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "Mountain View, CA",
       "venue": "Shoreline Amphitheatre",
-      "notes": "Bridge · Schoeps · unk",
+      "notes": "Bridge \u00b7 Schoeps \u00b7 unk",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "2008-10-26 - Mountain View, CA - Shoreline Amphitheatre - Bridge School Benefit.txt"
     },
     {
       "year": 2008,
@@ -18142,9 +18807,10 @@ const ARTIST_DATA = {
       "state": "OH",
       "location": "Columbus, OH",
       "venue": "Newport Music Hall",
-      "notes": "20th Anniversary Tour · Nugs.net",
+      "notes": "20th Anniversary Tour \u00b7 Nugs.net",
       "version": "SBD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "2008-10-31 - Columbus, OH - Newport Music Hall.txt"
     },
     {
       "year": 2008,
@@ -18155,7 +18821,7 @@ const ARTIST_DATA = {
       "state": "OH",
       "location": "Columbus, OH",
       "venue": "Newport Music Hall",
-      "notes": "Edirol R-09 · unk",
+      "notes": "Edirol R-09 \u00b7 unk",
       "version": "AUD",
       "format": "FLAC"
     },
@@ -18168,7 +18834,7 @@ const ARTIST_DATA = {
       "state": "OH",
       "location": "Cleveland, OH",
       "venue": "Playhouse Square Center",
-      "notes": "20th Anniversary Tour · Nugs.net",
+      "notes": "20th Anniversary Tour \u00b7 Nugs.net",
       "version": "SBD",
       "format": "FLAC"
     },
@@ -18181,8 +18847,22 @@ const ARTIST_DATA = {
       "state": "Ontario",
       "location": "Toronto, Ontario",
       "venue": "Massey Hall",
-      "notes": "20th Anniversary Tour · Nugs.net",
+      "notes": "20th Anniversary Tour \u00b7 Nugs.net",
       "version": "SBD",
+      "format": "FLAC",
+      "textFile": "2008-11-03 - Toronto, Ontario - Massey Hall.txt"
+    },
+    {
+      "year": 2008,
+      "month": 11,
+      "day": 3,
+      "dateStr": "11-3-2008",
+      "city": "Toronto",
+      "state": "Ontario",
+      "location": "Toronto, Ontario",
+      "venue": "Massey Hall",
+      "notes": "Edirol R09 \u00b7 splatto",
+      "version": "AUD",
       "format": "FLAC"
     },
     {
@@ -18194,20 +18874,7 @@ const ARTIST_DATA = {
       "state": "Ontario",
       "location": "Toronto, Ontario",
       "venue": "Massey Hall",
-      "notes": "Edirol R09 · splatto",
-      "version": "AUD",
-      "format": "FLAC"
-    },
-    {
-      "year": 2008,
-      "month": 11,
-      "day": 3,
-      "dateStr": "11-3-2008",
-      "city": "Toronto",
-      "state": "Ontario",
-      "location": "Toronto, Ontario",
-      "venue": "Massey Hall",
-      "notes": "CA-11 · smashing0",
+      "notes": "CA-11 \u00b7 smashing0",
       "version": "AUD",
       "format": "FLAC"
     },
@@ -18220,9 +18887,10 @@ const ARTIST_DATA = {
       "state": "Ontario",
       "location": "Toronto, Ontario",
       "venue": "Massey Hall",
-      "notes": "20th Anniversary Tour · Nugs.net",
+      "notes": "20th Anniversary Tour \u00b7 Nugs.net",
       "version": "SBD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "2008-11-04 - Toronto, Ontario - Massey Hall.txt"
     },
     {
       "year": 2008,
@@ -18233,7 +18901,7 @@ const ARTIST_DATA = {
       "state": "Ontario",
       "location": "Toronto, Ontario",
       "venue": "Massey Hall",
-      "notes": "WAV(M) · Edirol R09 · splatto",
+      "notes": "WAV(M) \u00b7 Edirol R09 \u00b7 splatto",
       "version": "AUD",
       "format": "FLAC"
     },
@@ -18246,7 +18914,7 @@ const ARTIST_DATA = {
       "state": "Ontario",
       "location": "Toronto, Ontario",
       "venue": "Massey Hall",
-      "notes": "CA-11 · smashing0",
+      "notes": "CA-11 \u00b7 smashing0",
       "version": "AUD",
       "format": "FLAC"
     },
@@ -18259,9 +18927,10 @@ const ARTIST_DATA = {
       "state": "NY",
       "location": "New York, NY",
       "venue": "United Palace",
-      "notes": "20th Anniversary Tour · Nugs.net",
+      "notes": "20th Anniversary Tour \u00b7 Nugs.net",
       "version": "SBD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "2008-11-06 - New York, NY - United Palace.txt"
     },
     {
       "year": 2008,
@@ -18285,7 +18954,7 @@ const ARTIST_DATA = {
       "state": "NY",
       "location": "New York, NY",
       "venue": "United Palace",
-      "notes": "DAT(M) · DAB · zach payne",
+      "notes": "DAT(M) \u00b7 DAB \u00b7 zach payne",
       "version": "AUD",
       "format": "FLAC"
     },
@@ -18298,9 +18967,10 @@ const ARTIST_DATA = {
       "state": "NY",
       "location": "New York, NY",
       "venue": "United Palace",
-      "notes": "20th Anniversary Tour · Nugs.net",
+      "notes": "20th Anniversary Tour \u00b7 Nugs.net",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "2008-11-07 - New York, NY - United Palace (Partial) (Official) [SBD-LOSSY].txt"
     },
     {
       "year": 2008,
@@ -18311,7 +18981,7 @@ const ARTIST_DATA = {
       "state": "NY",
       "location": "New York, NY",
       "venue": "United Palace",
-      "notes": "DAT(M) · Schoeps MK4 · zach payne",
+      "notes": "DAT(M) \u00b7 Schoeps MK4 \u00b7 zach payne",
       "version": "AUD",
       "format": "FLAC"
     },
@@ -18324,7 +18994,7 @@ const ARTIST_DATA = {
       "state": "NJ",
       "location": "Atlantic City, NJ",
       "venue": "Borgata Resort Spa and Casino Event Center",
-      "notes": "20th Anniversary Tour · Nugs.net",
+      "notes": "20th Anniversary Tour \u00b7 Nugs.net",
       "version": "SBD",
       "format": "FLAC"
     },
@@ -18337,9 +19007,10 @@ const ARTIST_DATA = {
       "state": "D.C.",
       "location": "Washington, D.C.",
       "venue": "Constitution Hall",
-      "notes": "20th Anniversary Tour · Nugs.net",
+      "notes": "20th Anniversary Tour \u00b7 Nugs.net",
       "version": "SBD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "2008-11-11 - Washington, D.C. - Constitution Hall.txt"
     },
     {
       "year": 2008,
@@ -18350,7 +19021,7 @@ const ARTIST_DATA = {
       "state": "D.C.",
       "location": "Washington, D.C.",
       "venue": "Constitution Hall",
-      "notes": "MD(M) · DAB · jeremy wilhide",
+      "notes": "MD(M) \u00b7 DAB \u00b7 jeremy wilhide",
       "version": "AUD",
       "format": "FLAC"
     },
@@ -18378,7 +19049,8 @@ const ARTIST_DATA = {
       "venue": "DC101 Radio",
       "notes": "a. stephens",
       "version": "WEB",
-      "format": "WMA"
+      "format": "WMA",
+      "textFile": "2008-11-12a - Washington, D.C. - DC101 Radio.txt"
     },
     {
       "year": 2008,
@@ -18389,7 +19061,7 @@ const ARTIST_DATA = {
       "state": "D.C.",
       "location": "Washington, D.C.",
       "venue": "Constitution Hall",
-      "notes": "AKG CK93 · cabbage",
+      "notes": "AKG CK93 \u00b7 cabbage",
       "version": "AUD",
       "format": "FLAC"
     },
@@ -18402,7 +19074,7 @@ const ARTIST_DATA = {
       "state": "D.C.",
       "location": "Washington, D.C.",
       "venue": "Constitution Hall",
-      "notes": "20th Anniversary Tour · Nugs.net",
+      "notes": "20th Anniversary Tour \u00b7 Nugs.net",
       "version": "SBD",
       "format": "FLAC"
     },
@@ -18415,7 +19087,7 @@ const ARTIST_DATA = {
       "state": "D.C.",
       "location": "Washington, D.C.",
       "venue": "Constitution Hall",
-      "notes": "Canon FS300 · a. sevens",
+      "notes": "Canon FS300 \u00b7 a. sevens",
       "version": "AUD",
       "format": "MPG"
     },
@@ -18428,9 +19100,10 @@ const ARTIST_DATA = {
       "state": "MA",
       "location": "Boston, MA",
       "venue": "Wang Theater",
-      "notes": "CSB · bennyblanco",
+      "notes": "CSB \u00b7 bennyblanco",
       "version": "AUD",
-      "format": "FLAC 24"
+      "format": "FLAC 24",
+      "textFile": "2008-11-14 - Boston, MA - Wang Theater.txt"
     },
     {
       "year": 2008,
@@ -18441,7 +19114,7 @@ const ARTIST_DATA = {
       "state": "MA",
       "location": "Boston, MA",
       "venue": "Citi Wang Theatre",
-      "notes": "20th Anniversary Tour · Nugs.net",
+      "notes": "20th Anniversary Tour \u00b7 Nugs.net",
       "version": "SBD",
       "format": "FLAC"
     },
@@ -18454,7 +19127,7 @@ const ARTIST_DATA = {
       "state": "MA",
       "location": "Boston, MA",
       "venue": "Citi Wang Theatre",
-      "notes": "20th Anniversary Tour · Nugs.net",
+      "notes": "20th Anniversary Tour \u00b7 Nugs.net",
       "version": "SBD",
       "format": "FLAC"
     },
@@ -18480,7 +19153,7 @@ const ARTIST_DATA = {
       "state": "IL",
       "location": "Chicago, IL",
       "venue": "Chicago Theatre",
-      "notes": "20th Anniversary Tour · Nugs.net",
+      "notes": "20th Anniversary Tour \u00b7 Nugs.net",
       "version": "SBD",
       "format": "FLAC"
     },
@@ -18495,7 +19168,8 @@ const ARTIST_DATA = {
       "venue": "WLS-AM Interview",
       "notes": "",
       "version": "WEB",
-      "format": "MP3"
+      "format": "MP3",
+      "textFile": "2008-11-19a - Chicago, IL - WLS-AM Interview.txt"
     },
     {
       "year": 2008,
@@ -18506,7 +19180,7 @@ const ARTIST_DATA = {
       "state": "IL",
       "location": "Chicago, IL",
       "venue": "Chicago Theater",
-      "notes": "DSM-6S · bgraves",
+      "notes": "DSM-6S \u00b7 bgraves",
       "version": "AUD",
       "format": "FLAC 24"
     },
@@ -18519,7 +19193,7 @@ const ARTIST_DATA = {
       "state": "IL",
       "location": "Chicago, IL",
       "venue": "Chicago Theatre",
-      "notes": "20th Anniversary Tour · Nugs.net",
+      "notes": "20th Anniversary Tour \u00b7 Nugs.net",
       "version": "SBD",
       "format": "FLAC"
     },
@@ -18534,7 +19208,8 @@ const ARTIST_DATA = {
       "venue": "Q101 Interview",
       "notes": "",
       "version": "WEB",
-      "format": "MP3"
+      "format": "MP3",
+      "textFile": "2008-11-21 - Chicago, IL - Auditorium Theatre.txt"
     },
     {
       "year": 2008,
@@ -18545,7 +19220,7 @@ const ARTIST_DATA = {
       "state": "IL",
       "location": "Chicago, IL",
       "venue": "Auditorium Theatre",
-      "notes": "HEB 4060 · jb",
+      "notes": "HEB 4060 \u00b7 jb",
       "version": "AUD",
       "format": "FLAC 24"
     },
@@ -18558,7 +19233,7 @@ const ARTIST_DATA = {
       "state": "IL",
       "location": "Chicago, IL",
       "venue": "Auditorium Theatre",
-      "notes": "Sony HDR-SR11 · ryan fisher",
+      "notes": "Sony HDR-SR11 \u00b7 ryan fisher",
       "version": "AUD",
       "format": "MKV"
     },
@@ -18571,7 +19246,7 @@ const ARTIST_DATA = {
       "state": "IL",
       "location": "Chicago, IL",
       "venue": "Auditorium Theatre",
-      "notes": "20th Anniversary Tour · Nugs.net",
+      "notes": "20th Anniversary Tour \u00b7 Nugs.net",
       "version": "SBD",
       "format": "FLAC"
     },
@@ -18584,9 +19259,10 @@ const ARTIST_DATA = {
       "state": "MO",
       "location": "Kansas City, MO",
       "venue": "Midland Theatre",
-      "notes": "Sony MZ-RH1 · jesse lay",
+      "notes": "Sony MZ-RH1 \u00b7 jesse lay",
       "version": "AUD",
-      "format": "WAV"
+      "format": "WAV",
+      "textFile": "2008-11-24 - Kansas City, MO - Midland Theatre.txt"
     },
     {
       "year": 2008,
@@ -18597,7 +19273,7 @@ const ARTIST_DATA = {
       "state": "MO",
       "location": "Kansas City, MO",
       "venue": "Midland Theater",
-      "notes": "20th Anniversary Tour · Nugs.net",
+      "notes": "20th Anniversary Tour \u00b7 Nugs.net",
       "version": "SBD",
       "format": "FLAC"
     },
@@ -18610,9 +19286,10 @@ const ARTIST_DATA = {
       "state": "MO",
       "location": "Kansas City, MO",
       "venue": "Midland Theatre",
-      "notes": "Sony MZ-RH1 · jesse lay",
+      "notes": "Sony MZ-RH1 \u00b7 jesse lay",
       "version": "AUD",
-      "format": "WAV"
+      "format": "WAV",
+      "textFile": "2008-11-25 - Kansas City, MO - Midland Theatre.txt"
     },
     {
       "year": 2008,
@@ -18623,7 +19300,7 @@ const ARTIST_DATA = {
       "state": "MO",
       "location": "Kansas City, MO",
       "venue": "Midland Theater",
-      "notes": "20th Anniversary Tour · Nugs.net",
+      "notes": "20th Anniversary Tour \u00b7 Nugs.net",
       "version": "SBD",
       "format": "FLAC"
     },
@@ -18636,7 +19313,7 @@ const ARTIST_DATA = {
       "state": "MO",
       "location": "St. Louis, MO",
       "venue": "Fox Theatre",
-      "notes": "20th Anniversary Tour · Nugs.net",
+      "notes": "20th Anniversary Tour \u00b7 Nugs.net",
       "version": "SBD",
       "format": "FLAC"
     },
@@ -18649,9 +19326,10 @@ const ARTIST_DATA = {
       "state": "NV",
       "location": "Las Vegas, NV",
       "venue": "Pearl Theatre",
-      "notes": "Edirol R09 · the manwich brothers",
+      "notes": "Edirol R09 \u00b7 the manwich brothers",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "2008-11-29 - Las Vegas, NV - Pearl Theatre.txt"
     },
     {
       "year": 2008,
@@ -18662,7 +19340,7 @@ const ARTIST_DATA = {
       "state": "NV",
       "location": "Las Vegas, NV",
       "venue": "The Pearl",
-      "notes": "20th Anniversary Tour · Nugs.net",
+      "notes": "20th Anniversary Tour \u00b7 Nugs.net",
       "version": "SBD",
       "format": "FLAC"
     },
@@ -18675,9 +19353,10 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "San Diego, CA",
       "venue": "RIMAC Arena",
-      "notes": "20th Anniversary Tour · Nugs.net",
+      "notes": "20th Anniversary Tour \u00b7 Nugs.net",
       "version": "SBD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "2008-11-30 - San Diego, CA - RIMAC Arena .txt"
     },
     {
       "year": 2008,
@@ -18688,7 +19367,7 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "San Diego, CA",
       "venue": "RIMAC Arena",
-      "notes": "Edirol R09 · the manwich brothers",
+      "notes": "Edirol R09 \u00b7 the manwich brothers",
       "version": "AUD",
       "format": "FLAC"
     },
@@ -18701,9 +19380,10 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "Los Angeles, CA",
       "venue": "A&E Studios",
-      "notes": "The · unk",
+      "notes": "The \u00b7 unk",
       "version": "PRO #2",
-      "format": "DVD"
+      "format": "DVD",
+      "textFile": "2008-12-01 - Los Angeles, CA - The Chris Isaac Hour - A&E Studios.txt"
     },
     {
       "year": 2008,
@@ -18714,9 +19394,10 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "Universal City, CA",
       "venue": "Gibson Amphitheater",
-      "notes": "Edirol R09 · the manwich brothers",
+      "notes": "Edirol R09 \u00b7 the manwich brothers",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "2008-12-02 - Universal City, CA - Gibson Amphitheatre (DSM6) [AUD].txt"
     },
     {
       "year": 2008,
@@ -18727,7 +19408,7 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "Universal City, CA",
       "venue": "Gibson Amphitheatre",
-      "notes": "20th Anniversary Tour · Nugs.net",
+      "notes": "20th Anniversary Tour \u00b7 Nugs.net",
       "version": "SBD",
       "format": "FLAC"
     },
@@ -18740,9 +19421,10 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "Universal City, CA",
       "venue": "Gibson Amphitheater",
-      "notes": "Edirol R09 · the manwich brothers",
+      "notes": "Edirol R09 \u00b7 the manwich brothers",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "2008-12-03 - Universal City, CA - Gibson Amphitheater.txt"
     },
     {
       "year": 2008,
@@ -18755,7 +19437,8 @@ const ARTIST_DATA = {
       "venue": "Gibson Amphitheater",
       "notes": "DSM6",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "2008-12-03 - Universal City, CA - Gibson Amphitheatre (DSM6) [AUD].txt"
     },
     {
       "year": 2008,
@@ -18766,7 +19449,7 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "Universal City, CA",
       "venue": "Gibson Amphitheatre",
-      "notes": "20th Anniversary Tour · Nugs.net",
+      "notes": "20th Anniversary Tour \u00b7 Nugs.net",
       "version": "SBD",
       "format": "FLAC"
     },
@@ -18779,9 +19462,10 @@ const ARTIST_DATA = {
       "state": "CO",
       "location": "Denver, CO",
       "venue": "Ogden Theatre",
-      "notes": "AKG CK63 · cooze & root productions",
+      "notes": "AKG CK63 \u00b7 cooze & root productions",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "2008-12-05 - Denver, CO - Ogden Theatre.txt"
     },
     {
       "year": 2008,
@@ -18792,7 +19476,7 @@ const ARTIST_DATA = {
       "state": "CO",
       "location": "Denver, CO",
       "venue": "Ogden Theatre",
-      "notes": "20th Anniversary Tour · Nugs.net",
+      "notes": "20th Anniversary Tour \u00b7 Nugs.net",
       "version": "SBD",
       "format": "FLAC"
     },
@@ -18805,7 +19489,21 @@ const ARTIST_DATA = {
       "state": "IL",
       "location": "Chicago, IL",
       "venue": "Aragon Ballroom",
-      "notes": "SP-CMC-2 · jake",
+      "notes": "SP-CMC-2 \u00b7 jake",
+      "version": "AUD",
+      "format": "FLAC",
+      "textFile": "2008-12-07 - Chicago, IL - Aragon Ballroom.txt"
+    },
+    {
+      "year": 2008,
+      "month": 12,
+      "day": 7,
+      "dateStr": "12-7-2008",
+      "city": "Chicago",
+      "state": "IL",
+      "location": "Chicago, IL",
+      "venue": "Aragon Ballroom",
+      "notes": "CSB \u00b7 unk",
       "version": "AUD",
       "format": "FLAC"
     },
@@ -18818,20 +19516,7 @@ const ARTIST_DATA = {
       "state": "IL",
       "location": "Chicago, IL",
       "venue": "Aragon Ballroom",
-      "notes": "CSB · unk",
-      "version": "AUD",
-      "format": "FLAC"
-    },
-    {
-      "year": 2008,
-      "month": 12,
-      "day": 7,
-      "dateStr": "12-7-2008",
-      "city": "Chicago",
-      "state": "IL",
-      "location": "Chicago, IL",
-      "venue": "Aragon Ballroom",
-      "notes": "Sony HDR-SR11 · ryan fisher",
+      "notes": "Sony HDR-SR11 \u00b7 ryan fisher",
       "version": "AUD",
       "format": "MKV"
     },
@@ -18844,7 +19529,7 @@ const ARTIST_DATA = {
       "state": "IL",
       "location": "Chicago, IL",
       "venue": "Aragon Ballroom",
-      "notes": "20th Anniversary Tour · Nugs.net",
+      "notes": "20th Anniversary Tour \u00b7 Nugs.net",
       "version": "SBD",
       "format": "FLAC"
     },
@@ -18857,7 +19542,21 @@ const ARTIST_DATA = {
       "state": "IL",
       "location": "Chicago, IL",
       "venue": "Auditorium Theatre",
-      "notes": "Sony ECM-DS70P · ryan fisher",
+      "notes": "Sony ECM-DS70P \u00b7 ryan fisher",
+      "version": "AUD",
+      "format": "FLAC",
+      "textFile": "2008-12-08 - Chicago, IL - Auditorium Theatre.txt"
+    },
+    {
+      "year": 2008,
+      "month": 12,
+      "day": 8,
+      "dateStr": "12-8-2008",
+      "city": "Chicago",
+      "state": "IL",
+      "location": "Chicago, IL",
+      "venue": "Auditorium Theatre",
+      "notes": "Edirol R09 \u00b7 the manwich brothers",
       "version": "AUD",
       "format": "FLAC"
     },
@@ -18870,20 +19569,7 @@ const ARTIST_DATA = {
       "state": "IL",
       "location": "Chicago, IL",
       "venue": "Auditorium Theatre",
-      "notes": "Edirol R09 · the manwich brothers",
-      "version": "AUD",
-      "format": "FLAC"
-    },
-    {
-      "year": 2008,
-      "month": 12,
-      "day": 8,
-      "dateStr": "12-8-2008",
-      "city": "Chicago",
-      "state": "IL",
-      "location": "Chicago, IL",
-      "venue": "Auditorium Theatre",
-      "notes": "20th Anniversary Tour · Nugs.net",
+      "notes": "20th Anniversary Tour \u00b7 Nugs.net",
       "version": "SBD",
       "format": "FLAC"
     },
@@ -18909,9 +19595,10 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "Los Angeles, CA",
       "venue": "Coldwater Studios",
-      "notes": "In-studio webcast · unk",
+      "notes": "In-studio webcast \u00b7 unk",
       "version": "WWW #1",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "2010-05-29 - Los Angeles, CA - Coldwater Studios.txt"
     },
     {
       "year": 2010,
@@ -18922,9 +19609,10 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "Los Angeles, CA",
       "venue": "Viper Room",
-      "notes": "Edirol R09 · unk",
+      "notes": "Edirol R09 \u00b7 unk",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "2010-06-30 - Los Angeles, CA - Viper Room.txt"
     },
     {
       "year": 2010,
@@ -18937,7 +19625,8 @@ const ARTIST_DATA = {
       "venue": "Newport Music Hall",
       "notes": "CSB",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "2010-07-09 - Columbus, OH - Newport Music Hall .txt"
     },
     {
       "year": 2010,
@@ -18948,9 +19637,10 @@ const ARTIST_DATA = {
       "state": "KY",
       "location": "Louisville, KY",
       "venue": "Forecastle Festival",
-      "notes": "Neumann KM184 · brent stober",
+      "notes": "Neumann KM184 \u00b7 brent stober",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "2010-07-10 - Louisville, KY - Forecastle Festival.txt"
     },
     {
       "year": 2010,
@@ -18961,9 +19651,10 @@ const ARTIST_DATA = {
       "state": "MD",
       "location": "Baltimore, MD",
       "venue": "Rams Head Live",
-      "notes": "DAB · zach payne",
+      "notes": "DAB \u00b7 zach payne",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "2010-07-12 - Baltimore, MD - Rams Head Live.txt"
     },
     {
       "year": 2010,
@@ -18974,7 +19665,7 @@ const ARTIST_DATA = {
       "state": "MD",
       "location": "Baltimore, MD",
       "venue": "Rams Head Live",
-      "notes": "AKG CK93 · cabbage",
+      "notes": "AKG CK93 \u00b7 cabbage",
       "version": "AUD",
       "format": "FLAC 24"
     },
@@ -18989,7 +19680,8 @@ const ARTIST_DATA = {
       "venue": "The National",
       "notes": "DAB",
       "version": "AUD",
-      "format": "FLAC 24"
+      "format": "FLAC 24",
+      "textFile": "2010-07-13 - Richmond, VA - The National.txt"
     },
     {
       "year": 2010,
@@ -19000,7 +19692,7 @@ const ARTIST_DATA = {
       "state": "VA",
       "location": "Richmond, VA",
       "venue": "The National",
-      "notes": "Sennheiser · cabbage",
+      "notes": "Sennheiser \u00b7 cabbage",
       "version": "AUD",
       "format": "FLAC 24"
     },
@@ -19013,9 +19705,10 @@ const ARTIST_DATA = {
       "state": "VA",
       "location": "Norfolk, VA",
       "venue": "The Norva",
-      "notes": "Sennheiser · cabbage",
+      "notes": "Sennheiser \u00b7 cabbage",
       "version": "AUD",
-      "format": "FLAC 24"
+      "format": "FLAC 24",
+      "textFile": "2010-07-15 - Norfolk, VA - The Norva.txt"
     },
     {
       "year": 2010,
@@ -19028,7 +19721,8 @@ const ARTIST_DATA = {
       "venue": "Revolution Live",
       "notes": "redpill",
       "version": "AMT #1",
-      "format": "DVD"
+      "format": "DVD",
+      "textFile": "2010-07-20 - Fort Lauderdale, FL - Revolution Live.txt"
     },
     {
       "year": 2010,
@@ -19039,9 +19733,10 @@ const ARTIST_DATA = {
       "state": "FL",
       "location": "Tampa, FL",
       "venue": "The Ritz Ybor City",
-      "notes": "CSB · markbot",
+      "notes": "CSB \u00b7 markbot",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "2010-07-21 - Tampa, FL - The Ritz Ybor City.txt"
     },
     {
       "year": 2010,
@@ -19052,9 +19747,10 @@ const ARTIST_DATA = {
       "state": "NY",
       "location": "New York, NY",
       "venue": "Terminal 5",
-      "notes": "Schoeps MK4 · zach payne",
+      "notes": "Schoeps MK4 \u00b7 zach payne",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "2010-07-26 - New York, NY - Terminal 5.txt"
     },
     {
       "year": 2010,
@@ -19065,7 +19761,7 @@ const ARTIST_DATA = {
       "state": "NY",
       "location": "New York, NY",
       "venue": "Terminal 5",
-      "notes": "Sennheiser · cabbage",
+      "notes": "Sennheiser \u00b7 cabbage",
       "version": "AUD",
       "format": "FLAC 24"
     },
@@ -19091,9 +19787,10 @@ const ARTIST_DATA = {
       "state": "IL",
       "location": "Chicago, IL",
       "venue": "The Metro",
-      "notes": "AT831s · dieselboypunker",
+      "notes": "AT831s \u00b7 dieselboypunker",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "2010-07-27 - Chicago, IL - The Metro.txt"
     },
     {
       "year": 2010,
@@ -19104,7 +19801,7 @@ const ARTIST_DATA = {
       "state": "IL",
       "location": "Chicago, IL",
       "venue": "The Metro",
-      "notes": "Tascam DR-07 · cajunjoe",
+      "notes": "Tascam DR-07 \u00b7 cajunjoe",
       "version": "AUD",
       "format": "FLAC"
     },
@@ -19117,9 +19814,10 @@ const ARTIST_DATA = {
       "state": "Japan",
       "location": "Chiba, Japan",
       "venue": "Summer Sonic",
-      "notes": "Sound Professionals · eric agnew",
+      "notes": "Sound Professionals \u00b7 eric agnew",
       "version": "AUD",
-      "format": "FLAC 24"
+      "format": "FLAC 24",
+      "textFile": "2010-08-07 - Chiba, Japan - Summer Sonic.txt"
     },
     {
       "year": 2010,
@@ -19130,9 +19828,10 @@ const ARTIST_DATA = {
       "state": "Japan",
       "location": "Tokyo, Japan",
       "venue": "Shinkiba Studio Coast",
-      "notes": "SPPB · eric agnew",
+      "notes": "SPPB \u00b7 eric agnew",
       "version": "AUD",
-      "format": "FLAC 24"
+      "format": "FLAC 24",
+      "textFile": "2010-08-10 - Tokyo, Japan - Shinkiba Studio Coast.txt"
     },
     {
       "year": 2010,
@@ -19143,9 +19842,10 @@ const ARTIST_DATA = {
       "state": "Japan",
       "location": "Tokyo, Japan",
       "venue": "Shinkiba Studio Coast",
-      "notes": "SPPB · eric agnew",
+      "notes": "SPPB \u00b7 eric agnew",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "2010-08-11 - Tokyo, Japan - Shinkiba Studio Coast.txt"
     },
     {
       "year": 2010,
@@ -19171,7 +19871,8 @@ const ARTIST_DATA = {
       "venue": "Auditorio Nacional",
       "notes": "MTV Germany Analog Sat Broadcast",
       "version": "TV #1",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "2010-08-26 - Mexico City, MX - Auditorio Nacional.txt"
     },
     {
       "year": 2010,
@@ -19182,7 +19883,7 @@ const ARTIST_DATA = {
       "state": "MX",
       "location": "Mexico City, MX",
       "venue": "Auditorio Nacional",
-      "notes": "MTV · MTV Live",
+      "notes": "MTV \u00b7 MTV Live",
       "version": "TV",
       "format": "DVD"
     },
@@ -19195,7 +19896,21 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "Hollywood, CA",
       "venue": "Sunset Strip Music Festival",
-      "notes": "DAB · lapis",
+      "notes": "DAB \u00b7 lapis",
+      "version": "AUD",
+      "format": "FLAC",
+      "textFile": "2010-08-28 - Hollywood, CA - Sunset Strip Music Festival.txt"
+    },
+    {
+      "year": 2010,
+      "month": 8,
+      "day": 28,
+      "dateStr": "8-28-2010",
+      "city": "Hollywood",
+      "state": "CA",
+      "location": "Hollywood, CA",
+      "venue": "Sunset Strip Music Festival",
+      "notes": "Edirol R09 \u00b7 rob c.",
       "version": "AUD",
       "format": "FLAC"
     },
@@ -19208,20 +19923,7 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "Hollywood, CA",
       "venue": "Sunset Strip Music Festival",
-      "notes": "Edirol R09 · rob c.",
-      "version": "AUD",
-      "format": "FLAC"
-    },
-    {
-      "year": 2010,
-      "month": 8,
-      "day": 28,
-      "dateStr": "8-28-2010",
-      "city": "Hollywood",
-      "state": "CA",
-      "location": "Hollywood, CA",
-      "venue": "Sunset Strip Music Festival",
-      "notes": "Sony HD Handycam · spaceboye",
+      "notes": "Sony HD Handycam \u00b7 spaceboye",
       "version": "AUD",
       "format": "DVD"
     },
@@ -19234,9 +19936,10 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "Sacramento, CA",
       "venue": "Crest Theatre",
-      "notes": "DAB · lapis",
+      "notes": "DAB \u00b7 lapis",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "2010-09-06 - Sacramento, CA - Crest Theatre.txt"
     },
     {
       "year": 2010,
@@ -19247,7 +19950,7 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "Sacramento, CA",
       "venue": "Crest Theatre",
-      "notes": "CA · dcbullet",
+      "notes": "CA \u00b7 dcbullet",
       "version": "AUD",
       "format": "FLAC"
     },
@@ -19273,9 +19976,10 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "Petaluma, CA",
       "venue": "Phoenix Theatre",
-      "notes": "DAB · lapis",
+      "notes": "DAB \u00b7 lapis",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "2010-09-08 - Petaluma, CA - Phoenix Theatre.txt"
     },
     {
       "year": 2010,
@@ -19299,9 +20003,10 @@ const ARTIST_DATA = {
       "state": "WA",
       "location": "Seattle, WA",
       "venue": "Showbox SoDo",
-      "notes": "CA-11 · smashing0",
+      "notes": "CA-11 \u00b7 smashing0",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "2010-09-10 - Seattle, WA - Showbox SoDo.txt"
     },
     {
       "year": 2010,
@@ -19312,7 +20017,7 @@ const ARTIST_DATA = {
       "state": "WA",
       "location": "Seattle, WA",
       "venue": "Showbox SoDo",
-      "notes": "WAV(M) · WM-61A · kris sproul",
+      "notes": "WAV(M) \u00b7 WM-61A \u00b7 kris sproul",
       "version": "AUD",
       "format": "FLAC"
     },
@@ -19325,9 +20030,10 @@ const ARTIST_DATA = {
       "state": "ID",
       "location": "Boise, ID",
       "venue": "Knitting Factory",
-      "notes": "SS-DSM6S · jlw",
+      "notes": "SS-DSM6S \u00b7 jlw",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "2010-09-16 - Boise, ID - Knitting Factory.txt"
     },
     {
       "year": 2010,
@@ -19340,7 +20046,8 @@ const ARTIST_DATA = {
       "venue": "In the Venue",
       "notes": "Zoom H4n",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "2010-09-17 - Salt Lake City, UT - In the Venue.txt"
     },
     {
       "year": 2010,
@@ -19351,9 +20058,10 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "Santa Barbara, CA",
       "venue": "Lobero Theatre",
-      "notes": "DAB · lapis",
+      "notes": "DAB \u00b7 lapis",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "2010-09-24 - Santa Barbara, CA - Lobero Theatre.txt"
     },
     {
       "year": 2010,
@@ -19364,7 +20072,7 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "Santa Barbara, CA",
       "venue": "Lobero Theatre",
-      "notes": "Sony MZ-N707 · ian roegels",
+      "notes": "Sony MZ-N707 \u00b7 ian roegels",
       "version": "AUD",
       "format": "FLAC"
     },
@@ -19377,9 +20085,10 @@ const ARTIST_DATA = {
       "state": "Australia",
       "location": "Perth, Australia",
       "venue": "Perth Convention Centre Theatre",
-      "notes": "SP-SMC-8 · pyometronguts",
+      "notes": "SP-SMC-8 \u00b7 pyometronguts",
       "version": "AUD",
-      "format": "FLAC 24"
+      "format": "FLAC 24",
+      "textFile": "2010-10-12 - Perth, Australia - Perth Convention Centre Theatre.txt"
     },
     {
       "year": 2010,
@@ -19390,9 +20099,10 @@ const ARTIST_DATA = {
       "state": "Australia",
       "location": "Melbourne, Australia",
       "venue": "Festival Hall",
-      "notes": "Sony ECM-DS70P · kingbean",
+      "notes": "Sony ECM-DS70P \u00b7 kingbean",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "2010-10-15 - Melbourne, Australia - Festival Hall.txt"
     },
     {
       "year": 2010,
@@ -19416,9 +20126,10 @@ const ARTIST_DATA = {
       "state": "Australia",
       "location": "Milsons Point, Australia",
       "venue": "Big Top Auditorium",
-      "notes": "DAB · lapis",
+      "notes": "DAB \u00b7 lapis",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "2010-10-16 - Milsons Point, Australia - Big Top Auditorium.txt"
     },
     {
       "year": 2010,
@@ -19429,9 +20140,10 @@ const ARTIST_DATA = {
       "state": "Australia",
       "location": "Fortitude Valley, Australia",
       "venue": "The Tivoli",
-      "notes": "DAB · lapis",
+      "notes": "DAB \u00b7 lapis",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "2010-10-17 - Fortitude Valley, Australia - The Tivoli.txt"
     },
     {
       "year": 2010,
@@ -19442,9 +20154,10 @@ const ARTIST_DATA = {
       "state": "Argentina",
       "location": "Buenos Aires, Argentina",
       "venue": "Luna Park",
-      "notes": "CA ST-11 · miguel villarelo",
+      "notes": "CA ST-11 \u00b7 miguel villarelo",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "2010-11-18 - Buenos Aires, Argentina - Luna Park.txt"
     },
     {
       "year": 2010,
@@ -19457,7 +20170,8 @@ const ARTIST_DATA = {
       "venue": "Playcenter",
       "notes": "unk",
       "version": "AUD",
-      "format": "DVD"
+      "format": "DVD",
+      "textFile": "2010-11-20 - Sao Paulo, Brazil - Playcenter [DVD].txt"
     },
     {
       "year": 2010,
@@ -19468,9 +20182,10 @@ const ARTIST_DATA = {
       "state": "Chile",
       "location": "Santiago, Chile",
       "venue": "Movistar Arena",
-      "notes": "CA-11 · realkuka",
+      "notes": "CA-11 \u00b7 realkuka",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "2010-11-23 - Santiago, Chile - Movistar Arena.txt"
     },
     {
       "year": 2010,
@@ -19481,9 +20196,10 @@ const ARTIST_DATA = {
       "state": "TX",
       "location": "Houston, TX",
       "venue": "Verizon Wireless Theater",
-      "notes": "DAB · jjb",
+      "notes": "DAB \u00b7 jjb",
       "version": "AUD",
-      "format": "FLAC 24"
+      "format": "FLAC 24",
+      "textFile": "2010-12-05 - Houston, TX - Verizon Wireless Theater.txt"
     },
     {
       "year": 2010,
@@ -19494,7 +20210,7 @@ const ARTIST_DATA = {
       "state": "TX",
       "location": "Houston, TX",
       "venue": "Verizon Wireless Theater",
-      "notes": "DPA 4021 · justin kacz",
+      "notes": "DPA 4021 \u00b7 justin kacz",
       "version": "AUD",
       "format": "FLAC"
     },
@@ -19507,9 +20223,10 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "Los Angeles, CA",
       "venue": "Gibson Amphitheatre",
-      "notes": "Binaural mics · rob c.",
+      "notes": "Binaural mics \u00b7 rob c.",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "2010-12-11 - Los Angeles, CA - Gibson Amphitheatre.txt"
     },
     {
       "year": 2010,
@@ -19520,9 +20237,10 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "San Diego, CA",
       "venue": "Viejas Arena",
-      "notes": "DAB · lapis",
+      "notes": "DAB \u00b7 lapis",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "2010-12-12 - San Diego, CA - Viejas Arena.txt"
     },
     {
       "year": 2011,
@@ -19533,9 +20251,10 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "Los Angeles, CA",
       "venue": "Wiltern",
-      "notes": "DAB · ew",
+      "notes": "DAB \u00b7 ew",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "2011-10-05 - Los Angeles, CA - Wiltern.txt"
     },
     {
       "year": 2011,
@@ -19546,7 +20265,7 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "Los Angeles, CA",
       "venue": "Wiltern",
-      "notes": "Built-in mics · rob c.",
+      "notes": "Built-in mics \u00b7 rob c.",
       "version": "AUD",
       "format": "FLAC"
     },
@@ -19572,9 +20291,10 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "Oakland, CA",
       "venue": "Fox Theatre",
-      "notes": "DAB · ew",
+      "notes": "DAB \u00b7 ew",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "2011-10-07 - Oakland, CA - Fox Theatre.txt"
     },
     {
       "year": 2011,
@@ -19585,9 +20305,10 @@ const ARTIST_DATA = {
       "state": "NV",
       "location": "Las Vegas, NV",
       "venue": "Boulevard Pool",
-      "notes": "The · DAB · ew",
+      "notes": "The \u00b7 DAB \u00b7 ew",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "2011-10-08 - Las Vegas, NV - Boulevard Pool - The Cosmopolitan.txt"
     },
     {
       "year": 2011,
@@ -19598,9 +20319,10 @@ const ARTIST_DATA = {
       "state": "NE",
       "location": "Omaha, NE",
       "venue": "The Slowdown",
-      "notes": "CSB · alzeppelin",
+      "notes": "CSB \u00b7 alzeppelin",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "2011-10-11 - Omaha, NE - The Slowdown.txt"
     },
     {
       "year": 2011,
@@ -19624,9 +20346,10 @@ const ARTIST_DATA = {
       "state": "IL",
       "location": "Chicago, IL",
       "venue": "The Riviera Theatre",
-      "notes": "CA-14 · brian emerick",
+      "notes": "CA-14 \u00b7 brian emerick",
       "version": "AUD",
-      "format": "FLAC 24"
+      "format": "FLAC 24",
+      "textFile": "2011-10-14 - Chicago, IL - The Riviera Theatre.txt"
     },
     {
       "year": 2011,
@@ -19637,7 +20360,7 @@ const ARTIST_DATA = {
       "state": "IL",
       "location": "Chicago, IL",
       "venue": "The Riviera Theatre",
-      "notes": "Schoeps MK41 · darktrain",
+      "notes": "Schoeps MK41 \u00b7 darktrain",
       "version": "AUD",
       "format": "FLAC"
     },
@@ -19663,9 +20386,10 @@ const ARTIST_DATA = {
       "state": "D.C.",
       "location": "Washington, D.C.",
       "venue": "9:30 Club",
-      "notes": "Sennheiser · cabbage",
+      "notes": "Sennheiser \u00b7 cabbage",
       "version": "AUD",
-      "format": "FLAC 24"
+      "format": "FLAC 24",
+      "textFile": "2011-10-17 - Washington, D.C. - 930 Club.txt"
     },
     {
       "year": 2011,
@@ -19676,7 +20400,7 @@ const ARTIST_DATA = {
       "state": "D.C.",
       "location": "Washington, D.C.",
       "venue": "9:30 Club",
-      "notes": "Busman BSC1-K1 · unk",
+      "notes": "Busman BSC1-K1 \u00b7 unk",
       "version": "AUD",
       "format": "FLAC"
     },
@@ -19689,7 +20413,21 @@ const ARTIST_DATA = {
       "state": "NY",
       "location": "New York, NY",
       "venue": "Terminal 5",
-      "notes": "Schoeps MK41 · acidjack",
+      "notes": "Schoeps MK41 \u00b7 acidjack",
+      "version": "AUD",
+      "format": "FLAC",
+      "textFile": "2011-10-18 - New York, NY - Terminal 5.txt"
+    },
+    {
+      "year": 2011,
+      "month": 10,
+      "day": 18,
+      "dateStr": "10-18-2011",
+      "city": "New York",
+      "state": "NY",
+      "location": "New York, NY",
+      "venue": "Terminal 5",
+      "notes": "Schoeps MK41/CMR \u00b7 pzane",
       "version": "AUD",
       "format": "FLAC"
     },
@@ -19702,20 +20440,7 @@ const ARTIST_DATA = {
       "state": "NY",
       "location": "New York, NY",
       "venue": "Terminal 5",
-      "notes": "Schoeps MK41/CMR · pzane",
-      "version": "AUD",
-      "format": "FLAC"
-    },
-    {
-      "year": 2011,
-      "month": 10,
-      "day": 18,
-      "dateStr": "10-18-2011",
-      "city": "New York",
-      "state": "NY",
-      "location": "New York, NY",
-      "venue": "Terminal 5",
-      "notes": "unk · night prayers · Source 1",
+      "notes": "unk \u00b7 night prayers \u00b7 Source 1",
       "version": "AUD",
       "format": "DVD"
     },
@@ -19728,7 +20453,7 @@ const ARTIST_DATA = {
       "state": "NY",
       "location": "New York, NY",
       "venue": "Terminal 5",
-      "notes": "copperpot · Source 2",
+      "notes": "copperpot \u00b7 Source 2",
       "version": "AUD",
       "format": "DVD"
     },
@@ -19741,9 +20466,10 @@ const ARTIST_DATA = {
       "state": "MA",
       "location": "Boston, MA",
       "venue": "Orpheum Theatre",
-      "notes": "Sony ECM-907 · opsopcopolis",
+      "notes": "Sony ECM-907 \u00b7 opsopcopolis",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "2011-10-21 - Boston, MA - Orpheum Theatre.txt"
     },
     {
       "year": 2011,
@@ -19754,9 +20480,10 @@ const ARTIST_DATA = {
       "state": "SWE",
       "location": "Stockholm, SWE",
       "venue": "Annexet",
-      "notes": "Sennheiser MKE2 · ij",
+      "notes": "Sennheiser MKE2 \u00b7 ij",
       "version": "AUD",
-      "format": "FLAC 24"
+      "format": "FLAC 24",
+      "textFile": "2011-11-02 - Stockholm, SWE - Annexet.txt"
     },
     {
       "year": 2011,
@@ -19767,9 +20494,10 @@ const ARTIST_DATA = {
       "state": "France",
       "location": "Paris, France",
       "venue": "Le Zenith",
-      "notes": "AT mics · david",
+      "notes": "AT mics \u00b7 david",
       "version": "AUD",
-      "format": "FLAC 24"
+      "format": "FLAC 24",
+      "textFile": "2011-11-09 - Paris, France - Le Zenith.txt"
     },
     {
       "year": 2011,
@@ -19780,9 +20508,10 @@ const ARTIST_DATA = {
       "state": "UK",
       "location": "Manchester, UK",
       "venue": "Manchester Apollo",
-      "notes": "Sony TS-125 · leo edwards",
+      "notes": "Sony TS-125 \u00b7 leo edwards",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "2011-11-11 - Manchester, UK - Manchester Apollo.txt"
     },
     {
       "year": 2011,
@@ -19793,9 +20522,10 @@ const ARTIST_DATA = {
       "state": "Scotland",
       "location": "Glasgow, Scotland",
       "venue": "02 Academy",
-      "notes": "Tascam DR-07 · unk",
+      "notes": "Tascam DR-07 \u00b7 unk",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "2011-11-13 - Glasgow, Scotland - 02 Academy.txt"
     },
     {
       "year": 2011,
@@ -19821,7 +20551,8 @@ const ARTIST_DATA = {
       "venue": "02 Academy",
       "notes": "Zoom H1",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "2011-11-14 - Newcastle, England - 02 Academy.txt"
     },
     {
       "year": 2011,
@@ -19832,9 +20563,10 @@ const ARTIST_DATA = {
       "state": "England",
       "location": "Sheffield, England",
       "venue": "02 Academy",
-      "notes": "SC-CMC-22 · moz666",
+      "notes": "SC-CMC-22 \u00b7 moz666",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "2011-11-18 - Sheffield, England - 02 Academy.txt"
     },
     {
       "year": 2011,
@@ -19847,7 +20579,8 @@ const ARTIST_DATA = {
       "venue": "Mediolanum Forum",
       "notes": "unk",
       "version": "AMT #1",
-      "format": "DVD"
+      "format": "DVD",
+      "textFile": "2011-11-28 - Milan, IT - Mediolanum Forum.txt"
     },
     {
       "year": 2011,
@@ -19860,7 +20593,8 @@ const ARTIST_DATA = {
       "venue": "PalaFabris",
       "notes": "",
       "version": "AMT #1",
-      "format": "BLURAY"
+      "format": "BLURAY",
+      "textFile": "2011-11-29 - Padova, Italy - PalaFabris [BLU-RAY].txt"
     },
     {
       "year": 2011,
@@ -19871,9 +20605,10 @@ const ARTIST_DATA = {
       "state": "Spain",
       "location": "Barcelona, Spain",
       "venue": "Razzmatazz",
-      "notes": "Edirol RH09 · fer101",
+      "notes": "Edirol RH09 \u00b7 fer101",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "2011-12-06 - Barcelona, Spain - Razzmatazz.txt"
     },
     {
       "year": 2012,
@@ -19886,7 +20621,8 @@ const ARTIST_DATA = {
       "venue": "Parque da Bela Vista",
       "notes": "Rock",
       "version": "FM",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "2012-05-26 - Lisboa, Portugal - Parque da Bela Vista - Rock in Rio Lisboa.txt"
     },
     {
       "year": 2012,
@@ -19897,7 +20633,7 @@ const ARTIST_DATA = {
       "state": "Portugal",
       "location": "Lisboa, Portugal",
       "venue": "Parque da Bela Vista",
-      "notes": "Rock · SIC Radical TV · jo o samuel",
+      "notes": "Rock \u00b7 SIC Radical TV \u00b7 jo o samuel",
       "version": "TV",
       "format": "FLAC"
     },
@@ -19910,7 +20646,7 @@ const ARTIST_DATA = {
       "state": "Portugal",
       "location": "Lisboa, Portugal",
       "venue": "Parque da Bela Vista",
-      "notes": "Rock · copperpot",
+      "notes": "Rock \u00b7 copperpot",
       "version": "WEB",
       "format": "FLAC"
     },
@@ -19923,7 +20659,7 @@ const ARTIST_DATA = {
       "state": "Portugal",
       "location": "Lisboa, Portugal",
       "venue": "Parque da Bela Vista",
-      "notes": "Rock · SIC Radical TV · Kobra Video",
+      "notes": "Rock \u00b7 SIC Radical TV \u00b7 Kobra Video",
       "version": "PRO",
       "format": "DVD"
     },
@@ -19936,9 +20672,10 @@ const ARTIST_DATA = {
       "state": "IL",
       "location": "Chicago, IL",
       "venue": "Metro",
-      "notes": "WAV(M) · CA-14 · ryan fisher",
+      "notes": "WAV(M) \u00b7 CA-14 \u00b7 ryan fisher",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "2012-06-14 - Chicago, IL - The Metro.txt"
     },
     {
       "year": 2012,
@@ -19949,9 +20686,10 @@ const ARTIST_DATA = {
       "state": "Australia",
       "location": "Sydney, Australia",
       "venue": "Entertainment Centre",
-      "notes": "SP-CMC-8 · cellotim",
+      "notes": "SP-CMC-8 \u00b7 cellotim",
       "version": "AUD",
-      "format": "FLAC 24"
+      "format": "FLAC 24",
+      "textFile": "2012-07-31 - Sydney, Australia - Entertainment Centre [AUD24].txt"
     },
     {
       "year": 2012,
@@ -19964,7 +20702,8 @@ const ARTIST_DATA = {
       "venue": "Hisense Arena",
       "notes": "Sony ECM-717",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "2012-08-02 - Melbourne, Australia - Hisense Arena.txt"
     },
     {
       "year": 2012,
@@ -19975,7 +20714,7 @@ const ARTIST_DATA = {
       "state": "Australia",
       "location": "Melbourne, Australia",
       "venue": "Hisense Arena",
-      "notes": "CA-14s · roman79",
+      "notes": "CA-14s \u00b7 roman79",
       "version": "AUD",
       "format": "FLAC"
     },
@@ -19990,7 +20729,8 @@ const ARTIST_DATA = {
       "venue": "Vector Arena",
       "notes": "CA-14",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "2012-08-04 - Auckland, NZ - Vector Arena [AUD].txt"
     },
     {
       "year": 2012,
@@ -20003,7 +20743,8 @@ const ARTIST_DATA = {
       "venue": "Quezon City / Smart Araneta Coliseum",
       "notes": "Zoom H1",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "2012-08-08 - Manila, Philippines - Quezon City - Smart Araneta Coliseum [AUD].txt"
     },
     {
       "year": 2012,
@@ -20014,9 +20755,10 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "Burbank, CA",
       "venue": "NBC Studios",
-      "notes": "The · lossy rip · unk",
+      "notes": "The \u00b7 lossy rip \u00b7 unk",
       "version": "TV",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "2012-08-23 - Burbank, CA - NBC Studios.txt"
     },
     {
       "year": 2012,
@@ -20027,9 +20769,10 @@ const ARTIST_DATA = {
       "state": "MX",
       "location": "Mexico City, MX",
       "venue": "Arena Ciudad de Mexico",
-      "notes": "Tascam DR-07 · emiliano castrillun",
+      "notes": "Tascam DR-07 \u00b7 emiliano castrillun",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "2012-09-22 - Mexico City, MX - Arena Ciudad de Mexico [AUD].txt"
     },
     {
       "year": 2012,
@@ -20040,9 +20783,10 @@ const ARTIST_DATA = {
       "state": "TX",
       "location": "Austin, TX",
       "venue": "Stubb's",
-      "notes": "CA-14s · amiller",
+      "notes": "CA-14s \u00b7 amiller",
       "version": "AUD",
-      "format": "FLAC 24"
+      "format": "FLAC 24",
+      "textFile": "2012-09-27 - Austin, TX - Stubb's.txt"
     },
     {
       "year": 2012,
@@ -20066,9 +20810,10 @@ const ARTIST_DATA = {
       "state": "OK",
       "location": "Tulsa, OK",
       "venue": "Cain's Ballroom",
-      "notes": "Zoom H2 · bon mosman",
+      "notes": "Zoom H2 \u00b7 bon mosman",
       "version": "AUD",
-      "format": "FLAC 24"
+      "format": "FLAC 24",
+      "textFile": "2012-09-28 - Tulsa, OK - Cain's Ballroom [AUD24].txt"
     },
     {
       "year": 2012,
@@ -20079,9 +20824,10 @@ const ARTIST_DATA = {
       "state": "WA",
       "location": "Everett, WA",
       "venue": "Comcast Arena",
-      "notes": "WAV(M) · Unknown Binaural Stereo mics · bobintb",
+      "notes": "WAV(M) \u00b7 Unknown Binaural Stereo mics \u00b7 bobintb",
       "version": "AUD #1",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "2012-10-10 - Everett, WA - Comcast Arena.txt"
     },
     {
       "year": 2012,
@@ -20092,9 +20838,10 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "San Francisco, CA",
       "venue": "Bill Graham Civic Auditorium",
-      "notes": "Internal mics · armogi",
+      "notes": "Internal mics \u00b7 armogi",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "2012-10-12 - San Francisco, CA - Bill Graham Civic Auditorium [AUD].txt"
     },
     {
       "year": 2012,
@@ -20105,9 +20852,10 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "San Diego, CA",
       "venue": "Viejas Arena",
-      "notes": "CA · dcbullet",
+      "notes": "CA \u00b7 dcbullet",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "2012-10-13 - San Diego, CA - Viejas Arena [AUD].txt"
     },
     {
       "year": 2012,
@@ -20118,9 +20866,10 @@ const ARTIST_DATA = {
       "state": "MO",
       "location": "St. Louis, MO",
       "venue": "Chaifetx Arena",
-      "notes": "Zoom H2 · bon mosman",
+      "notes": "Zoom H2 \u00b7 bon mosman",
       "version": "AUD",
-      "format": "FLAC 24"
+      "format": "FLAC 24",
+      "textFile": "2012-10-18 - St. Louis, MO - Chaifetx Arena [AUD24].txt"
     },
     {
       "year": 2012,
@@ -20133,7 +20882,8 @@ const ARTIST_DATA = {
       "venue": "Allstate Arena",
       "notes": "",
       "version": "AUD",
-      "format": "DVD"
+      "format": "DVD",
+      "textFile": "2012-10-19 - Rosemont, IL - Allstate Arena.txt"
     },
     {
       "year": 2012,
@@ -20144,9 +20894,10 @@ const ARTIST_DATA = {
       "state": "MN",
       "location": "St. Paul, MN",
       "venue": "Roy Wilkins Auditorium",
-      "notes": "Scheops MK4 · pjp",
+      "notes": "Scheops MK4 \u00b7 pjp",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "2012-10-20 - St. Paul, MN - Roy Wilkins Auditorium [AUD].txt"
     },
     {
       "year": 2012,
@@ -20157,9 +20908,10 @@ const ARTIST_DATA = {
       "state": "Ontario",
       "location": "Toronto, Ontario",
       "venue": "Air Canada Centre",
-      "notes": "Sony MZ-N707 · pintosack",
+      "notes": "Sony MZ-N707 \u00b7 pintosack",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "2012-10-25 - Toronto, Ontario - Air Canada Centre [AUD].txt"
     },
     {
       "year": 2012,
@@ -20170,9 +20922,10 @@ const ARTIST_DATA = {
       "state": "Canada",
       "location": "Montreal, Canada",
       "venue": "Centre Bell",
-      "notes": "Roland R05 · zwan666",
+      "notes": "Roland R05 \u00b7 zwan666",
       "version": "AUD",
-      "format": "FLAC 24"
+      "format": "FLAC 24",
+      "textFile": "2012-10-28 - Montreal, Canada - Centre Bell [AUD].txt"
     },
     {
       "year": 2012,
@@ -20185,7 +20938,8 @@ const ARTIST_DATA = {
       "venue": "State Theatre",
       "notes": "JVC GZ-E10BU",
       "version": "AUD",
-      "format": "DVD"
+      "format": "DVD",
+      "textFile": "2012-12-01 - Portland, ME - State Theatre.txt"
     },
     {
       "year": 2012,
@@ -20196,7 +20950,35 @@ const ARTIST_DATA = {
       "state": "OH",
       "location": "Columbus, OH",
       "venue": "Newport Music Hall",
-      "notes": "HEB DPA4060 · charles dewey cole",
+      "notes": "HEB DPA4060 \u00b7 charles dewey cole",
+      "version": "AUD",
+      "format": "FLAC",
+      "textFile": "2012-12-04 - Columbus, OH - Newport Music Hall [AUD24].txt"
+    },
+    {
+      "year": 2012,
+      "month": 12,
+      "day": 8,
+      "dateStr": "12-8-2012",
+      "city": "Camden",
+      "state": "NJ",
+      "location": "Camden, NJ",
+      "venue": "Susquehanna Bank Center",
+      "notes": "CA-14s \u00b7 cabbage",
+      "version": "AUD",
+      "format": "FLAC 24",
+      "textFile": "2012-12-08 - Camden, NJ - Susquehanna Bank Center.txt"
+    },
+    {
+      "year": 2012,
+      "month": 12,
+      "day": 8,
+      "dateStr": "12-8-2012",
+      "city": "Camden",
+      "state": "NJ",
+      "location": "Camden, NJ",
+      "venue": "Susquehanna Bank Center",
+      "notes": "CSB \u00b7 spfreak77",
       "version": "AUD",
       "format": "FLAC"
     },
@@ -20209,33 +20991,7 @@ const ARTIST_DATA = {
       "state": "NJ",
       "location": "Camden, NJ",
       "venue": "Susquehanna Bank Center",
-      "notes": "CA-14s · cabbage",
-      "version": "AUD",
-      "format": "FLAC 24"
-    },
-    {
-      "year": 2012,
-      "month": 12,
-      "day": 8,
-      "dateStr": "12-8-2012",
-      "city": "Camden",
-      "state": "NJ",
-      "location": "Camden, NJ",
-      "venue": "Susquehanna Bank Center",
-      "notes": "CSB · spfreak77",
-      "version": "AUD",
-      "format": "FLAC"
-    },
-    {
-      "year": 2012,
-      "month": 12,
-      "day": 8,
-      "dateStr": "12-8-2012",
-      "city": "Camden",
-      "state": "NJ",
-      "location": "Camden, NJ",
-      "venue": "Susquehanna Bank Center",
-      "notes": "Tascam DR-07 · spfreak77",
+      "notes": "Tascam DR-07 \u00b7 spfreak77",
       "version": "AUD",
       "format": "FLAC 24"
     },
@@ -20248,9 +21004,10 @@ const ARTIST_DATA = {
       "state": "VA",
       "location": "Fairfax, VA",
       "venue": "Patriot Cener",
-      "notes": "CA-14 · lostbrook",
+      "notes": "CA-14 \u00b7 lostbrook",
       "version": "AUD",
-      "format": "FLAC 24"
+      "format": "FLAC 24",
+      "textFile": "2012-12-09 - Fairfax, VA - Patriot Cener.txt"
     },
     {
       "year": 2012,
@@ -20261,7 +21018,7 @@ const ARTIST_DATA = {
       "state": "VA",
       "location": "Fairfax, VA",
       "venue": "Patriot Cener",
-      "notes": "CA-14s · cabbage",
+      "notes": "CA-14s \u00b7 cabbage",
       "version": "AUD",
       "format": "FLAC 24"
     },
@@ -20274,9 +21031,10 @@ const ARTIST_DATA = {
       "state": "NY",
       "location": "Brooklyn, NY",
       "venue": "Barclays Center",
-      "notes": "DAB · hi and lo",
+      "notes": "DAB \u00b7 hi and lo",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "2012-12-10 - Brooklyn, NY - Barclays Center [AUD].txt"
     },
     {
       "year": 2013,
@@ -20287,9 +21045,10 @@ const ARTIST_DATA = {
       "state": "TX",
       "location": "Austin, TX",
       "venue": "Jones Center",
-      "notes": "Roof · Guitar Center Sessions",
+      "notes": "Roof \u00b7 Guitar Center Sessions",
       "version": "PRO",
-      "format": "DVD"
+      "format": "DVD",
+      "textFile": "2013-03-17 - Austin, TX - Jones Center [PRO].txt"
     },
     {
       "year": 2013,
@@ -20300,9 +21059,10 @@ const ARTIST_DATA = {
       "state": "FL",
       "location": "Melbourne, FL",
       "venue": "Maxwell C. King Center for the Performing Arts",
-      "notes": "Zoom H2 · thegoat",
+      "notes": "Zoom H2 \u00b7 thegoat",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "2013-04-29 - Melbourne, FL - Maxwell C. King Center for the Performing Arts [AUD].txt"
     },
     {
       "year": 2013,
@@ -20313,9 +21073,10 @@ const ARTIST_DATA = {
       "state": "NC",
       "location": "Charlotte, NC",
       "venue": "Charlotte Uptown Outdoor Amphitheater",
-      "notes": "ICOM Rx7 · univonc",
+      "notes": "ICOM Rx7 \u00b7 univonc",
       "version": "IEM",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "2013-05-08 - Charlotte, NC - Uptown Outdoor Amphitheater.txt"
     },
     {
       "year": 2013,
@@ -20326,9 +21087,10 @@ const ARTIST_DATA = {
       "state": "Germany",
       "location": "Cologne, Germany",
       "venue": "Live Music Hall",
-      "notes": "CA ST-11 · miguel villarelo",
+      "notes": "CA ST-11 \u00b7 miguel villarelo",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "2013-06-20 - Cologne, Germany - Live Music Hall [AUD].txt"
     },
     {
       "year": 2013,
@@ -20341,7 +21103,8 @@ const ARTIST_DATA = {
       "venue": "Southside Festival",
       "notes": "MBHO KA 200 N",
       "version": "AUD",
-      "format": "FLAC 24"
+      "format": "FLAC 24",
+      "textFile": "2013-06-21 - Newhausen ob Eck, Germany - Southside Festival [AUD24].txt"
     },
     {
       "year": 2013,
@@ -20352,9 +21115,10 @@ const ARTIST_DATA = {
       "state": "France",
       "location": "Paris, France",
       "venue": "Zenith",
-      "notes": "MS-TFB-2 · sp@ceh",
+      "notes": "MS-TFB-2 \u00b7 sp@ceh",
       "version": "AUD",
-      "format": "FLAC 24"
+      "format": "FLAC 24",
+      "textFile": "2013-06-24 - Paris, France - Zenith [AUD].txt"
     },
     {
       "year": 2013,
@@ -20365,9 +21129,10 @@ const ARTIST_DATA = {
       "state": "France",
       "location": "Nantes, France",
       "venue": "Zenith",
-      "notes": "Zoom H2n · plg",
+      "notes": "Zoom H2n \u00b7 plg",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "2013-06-25 - Nantes, France - Zenith.txt"
     },
     {
       "year": 2013,
@@ -20380,7 +21145,8 @@ const ARTIST_DATA = {
       "venue": "Glastonbury Festival",
       "notes": "",
       "version": "SBD",
-      "format": "MP3"
+      "format": "MP3",
+      "textFile": "2013-06-30 - Pilton, England - Glastonbury Festival.txt"
     },
     {
       "year": 2013,
@@ -20391,7 +21157,7 @@ const ARTIST_DATA = {
       "state": "England",
       "location": "Pilton, England",
       "venue": "Worthy Farm",
-      "notes": "Glastonbury · CD-130701808",
+      "notes": "Glastonbury \u00b7 CD-130701808",
       "version": "Silver CD",
       "format": "FLAC"
     },
@@ -20419,7 +21185,8 @@ const ARTIST_DATA = {
       "venue": "Manchester Academy 1",
       "notes": "Sony TS-125 +R09",
       "version": "MIX",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "2013-07-01 - United Kingdom - Manchester Academy.txt"
     },
     {
       "year": 2013,
@@ -20443,9 +21210,10 @@ const ARTIST_DATA = {
       "state": "France",
       "location": "Belfort, France",
       "venue": "Eurockeennes Festival",
-      "notes": "DR-07MKII · zionpower",
+      "notes": "DR-07MKII \u00b7 zionpower",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "2013-07-05 - Belfort, France - Eurockeennes Festival.txt"
     },
     {
       "year": 2013,
@@ -20456,7 +21224,7 @@ const ARTIST_DATA = {
       "state": "France",
       "location": "Belfort, France",
       "venue": "Eurockeennes Festival",
-      "notes": "Tascam DR-07 · matmatp159",
+      "notes": "Tascam DR-07 \u00b7 matmatp159",
       "version": "AUD",
       "format": "FLAC 24"
     },
@@ -20469,9 +21237,10 @@ const ARTIST_DATA = {
       "state": "France",
       "location": "Saint Clair, France",
       "venue": "Beauregard Festival",
-      "notes": "HiMD(M) · ECM-707 · vincent",
+      "notes": "HiMD(M) \u00b7 ECM-707 \u00b7 vincent",
       "version": "AUD #1",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "2013-07-06 - Saint Clair, France - Beauregard Festival [AUD #1].txt"
     },
     {
       "year": 2013,
@@ -20484,7 +21253,8 @@ const ARTIST_DATA = {
       "venue": "Bazant Pohoda Festival *Cellar Dweller",
       "notes": "CD 130701808",
       "version": "Silver CD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "2013-07-11 - Trencin, SK - Bazant Pohoda Festival.txt"
     },
     {
       "year": 2013,
@@ -20510,7 +21280,8 @@ const ARTIST_DATA = {
       "venue": "Theatre Antique",
       "notes": "DPA 4061",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "2013-07-16 - Vienne, France - Theatre Antique [AUD].txt"
     },
     {
       "year": 2013,
@@ -20520,10 +21291,11 @@ const ARTIST_DATA = {
       "city": "Dour",
       "state": "Belgium",
       "location": "Dour, Belgium",
-      "venue": "La Plaine de La Machine à Feu",
+      "venue": "La Plaine de La Machine \u00e0 Feu",
       "notes": "trebor",
       "version": "FM",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "2013-07-21 - Dour, Belgium - La Plaine de La Machine a\u0300 Feu [FM].txt"
     },
     {
       "year": 2013,
@@ -20536,7 +21308,8 @@ const ARTIST_DATA = {
       "venue": "L'Asse",
       "notes": "unk",
       "version": "SBD",
-      "format": "MP3"
+      "format": "MP3",
+      "textFile": "2013-07-24 - Nyon, Switzerland - L'Asse [SBD].txt"
     },
     {
       "year": 2013,
@@ -20549,7 +21322,8 @@ const ARTIST_DATA = {
       "venue": "Paradiso",
       "notes": "CA-14s",
       "version": "AUD",
-      "format": "FLAC 24"
+      "format": "FLAC 24",
+      "textFile": "2013-07-26 - Amsterdam - Paradiso [AUD24].txt"
     },
     {
       "year": 2013,
@@ -20560,9 +21334,10 @@ const ARTIST_DATA = {
       "state": "Sweden",
       "location": "Stockholm, Sweden",
       "venue": "Cirkus",
-      "notes": "AT943 · trekytt",
+      "notes": "AT943 \u00b7 trekytt",
       "version": "AUD",
-      "format": "FLAC 24"
+      "format": "FLAC 24",
+      "textFile": "2013-07-29 - Stockholm, Sweden - Cirkus [AUD24].txt"
     },
     {
       "year": 2013,
@@ -20573,9 +21348,10 @@ const ARTIST_DATA = {
       "state": "Denmark",
       "location": "Copenhagen, Denmark",
       "venue": "Flakoner Salen",
-      "notes": "DPA 4061 · tj",
+      "notes": "DPA 4061 \u00b7 tj",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "2013-07-31 - Copenhagen, Denmark - Flakoner Salen.txt"
     },
     {
       "year": 2013,
@@ -20586,9 +21362,10 @@ const ARTIST_DATA = {
       "state": "Russia",
       "location": "St. Petersburg, Russia",
       "venue": "A2 Club",
-      "notes": "Sony Hi-MD MZ-RH10 · vitaly",
+      "notes": "Sony Hi-MD MZ-RH10 \u00b7 vitaly",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "2013-08-05 - St. Petersburg, Russia - A2 Club [AUD].txt"
     },
     {
       "year": 2013,
@@ -20601,7 +21378,8 @@ const ARTIST_DATA = {
       "venue": "Stadium Live",
       "notes": "",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "2013-08-06 - Moscow, Russia - Stadium Live [AUD].txt"
     },
     {
       "year": 2013,
@@ -20612,9 +21390,10 @@ const ARTIST_DATA = {
       "state": "Japan",
       "location": "Chiba, Japan",
       "venue": "Marin Stadium",
-      "notes": "Summer · DAB · 34",
+      "notes": "Summer \u00b7 DAB \u00b7 34",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "2013-08-11 - Chiba, Japan - Marin Stadium - Summer Sonic Tokyo [AUD].txt"
     },
     {
       "year": 2013,
@@ -20625,9 +21404,10 @@ const ARTIST_DATA = {
       "state": "Hong Kong",
       "location": "AsiaWorld Expo, Hong Kong",
       "venue": "Shamrocks & Shenanigans Tour",
-      "notes": "DAB · 34",
+      "notes": "DAB \u00b7 34",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "2013-08-13 - AsiaWorld Expo, Hong Kong - Shamrocks & Shenanigans Tour [AUD].txt"
     },
     {
       "year": 2014,
@@ -20638,9 +21418,10 @@ const ARTIST_DATA = {
       "state": "IL",
       "location": "Chicago, IL",
       "venue": "Thalia Hall",
-      "notes": "Tascam iM2 · travisbean",
+      "notes": "Tascam iM2 \u00b7 travisbean",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "2014-11-26 - Chicago, IL - Thalia Hall.txt"
     },
     {
       "year": 2014,
@@ -20651,7 +21432,7 @@ const ARTIST_DATA = {
       "state": "IL",
       "location": "Chicago, IL",
       "venue": "Thalia Hall",
-      "notes": "SP-CMC-8 · auger3d",
+      "notes": "SP-CMC-8 \u00b7 auger3d",
       "version": "AUD",
       "format": "FLAC 24"
     },
@@ -20664,9 +21445,10 @@ const ARTIST_DATA = {
       "state": "Germany",
       "location": "Berlin, Germany",
       "venue": "Kesselhaus",
-      "notes": "Soundman OKM II · wb",
+      "notes": "Soundman OKM II \u00b7 wb",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "2014-11-30 - Berlin, Germany - Kesselhaus.txt"
     },
     {
       "year": 2014,
@@ -20679,7 +21461,8 @@ const ARTIST_DATA = {
       "venue": "XFM Studios",
       "notes": "unk",
       "version": "WWW #1",
-      "format": "MP3"
+      "format": "MP3",
+      "textFile": "2014-12-03 - London, UK - XFM Studios.txt"
     },
     {
       "year": 2014,
@@ -20690,7 +21473,7 @@ const ARTIST_DATA = {
       "state": "UK",
       "location": "London, UK",
       "venue": "XFM Studios",
-      "notes": "MP4(M) · XFM AAC Catch up stream",
+      "notes": "MP4(M) \u00b7 XFM AAC Catch up stream",
       "version": "WWW #2",
       "format": "MP4"
     },
@@ -20705,7 +21488,8 @@ const ARTIST_DATA = {
       "venue": "Maida Vale Studios",
       "notes": "Zoom H1",
       "version": "Podcast",
-      "format": "OGG"
+      "format": "OGG",
+      "textFile": "2014-12-05a - London, UK - Maida Vale Studios.txt"
     },
     {
       "year": 2014,
@@ -20716,7 +21500,7 @@ const ARTIST_DATA = {
       "state": "UK",
       "location": "London, UK",
       "venue": "Maida Vale Studios",
-      "notes": "BBC · DVB-C · magix mep · Source 1",
+      "notes": "BBC \u00b7 DVB-C \u00b7 magix mep \u00b7 Source 1",
       "version": "PRO",
       "format": "DVD"
     },
@@ -20729,7 +21513,7 @@ const ARTIST_DATA = {
       "state": "UK",
       "location": "London, UK",
       "venue": "Maida Vale Studios",
-      "notes": "BBC · DVB-S2 · Source 2",
+      "notes": "BBC \u00b7 DVB-S2 \u00b7 Source 2",
       "version": "PRO",
       "format": "DVD"
     },
@@ -20742,7 +21526,7 @@ const ARTIST_DATA = {
       "state": "UK",
       "location": "London, UK",
       "venue": "KOKO",
-      "notes": "Sony MD MZR55 · kevlew",
+      "notes": "Sony MD MZR55 \u00b7 kevlew",
       "version": "AUD",
       "format": "FLAC"
     },
@@ -20755,9 +21539,10 @@ const ARTIST_DATA = {
       "state": "France",
       "location": "Paris, France",
       "venue": "Le Trabendo",
-      "notes": "ECM-MS 907 · unk",
+      "notes": "ECM-MS 907 \u00b7 unk",
       "version": "AUD",
-      "format": "FLAC 24"
+      "format": "FLAC 24",
+      "textFile": "2014-12-06 - Paris, France - Le Trabendo.txt"
     },
     {
       "year": 2014,
@@ -20768,9 +21553,10 @@ const ARTIST_DATA = {
       "state": "NY",
       "location": "New York, NY",
       "venue": "Webster Hall",
-      "notes": "SBD+Schoeps CCM4us · nyctaper",
+      "notes": "SBD+Schoeps CCM4us \u00b7 nyctaper",
       "version": "MIX",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "2014-12-08 - New York, NY - Webster Hall.txt"
     },
     {
       "year": 2014,
@@ -20781,7 +21567,7 @@ const ARTIST_DATA = {
       "state": "NY",
       "location": "New York, NY",
       "venue": "Webster Hall",
-      "notes": "CA14s · mistacabbage",
+      "notes": "CA14s \u00b7 mistacabbage",
       "version": "AUD",
       "format": "FLAC 24"
     },
@@ -20794,9 +21580,10 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "San Francisco, CA",
       "venue": "The Warfield",
-      "notes": "CCM4s · blg mastering",
+      "notes": "CCM4s \u00b7 blg mastering",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "2014-12-11 - San Francisco, CA - The Warfield .txt"
     },
     {
       "year": 2014,
@@ -20809,7 +21596,8 @@ const ARTIST_DATA = {
       "venue": "Brooklyn Bowl",
       "notes": "DAB>DA-120F",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "2014-12-13 - Las Vegas, NV - Brooklyn Bowl.txt"
     },
     {
       "year": 2014,
@@ -20820,9 +21608,10 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "Inglewood, CA",
       "venue": "The Forum",
-      "notes": "KROQ · gracz54 + kigonjiro",
+      "notes": "KROQ \u00b7 gracz54 + kigonjiro",
       "version": "PRO #1",
-      "format": "M4A"
+      "format": "M4A",
+      "textFile": "2014-12-14 - Las Vegas, NV - Zia Records (1am).txt"
     },
     {
       "year": 2014,
@@ -20846,7 +21635,7 @@ const ARTIST_DATA = {
       "state": "NV",
       "location": "Las Vegas, NV",
       "venue": "Zia Records",
-      "notes": "1am · DAB>DA-120F",
+      "notes": "1am \u00b7 DAB>DA-120F",
       "version": "AUD",
       "format": "FLAC"
     },
@@ -20859,9 +21648,10 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "Hollywood, CA",
       "venue": "The Fonda",
-      "notes": "Schoeps MK41s · blg",
+      "notes": "Schoeps MK41s \u00b7 blg",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "2014-12-16 - Hollywood, CA - The Fonda.txt"
     },
     {
       "year": 2015,
@@ -20872,9 +21662,10 @@ const ARTIST_DATA = {
       "state": "Australia",
       "location": "Melbourne, Australia",
       "venue": "Soundwave Festival",
-      "notes": "Countryman B3s · roman79",
+      "notes": "Countryman B3s \u00b7 roman79",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "2015-02-21 - Melbourne, Australia - Soundwave Festival [AUD].txt"
     },
     {
       "year": 2015,
@@ -20885,7 +21676,21 @@ const ARTIST_DATA = {
       "state": "Australia",
       "location": "Melbourne, Australia",
       "venue": "Festival Hall",
-      "notes": "CA-14s · roman79",
+      "notes": "CA-14s \u00b7 roman79",
+      "version": "AUD",
+      "format": "FLAC",
+      "textFile": "2015-02-23 - Melbourne, Australia - Festival Hall [AUD].txt"
+    },
+    {
+      "year": 2015,
+      "month": 3,
+      "day": 14,
+      "dateStr": "3-14-2015",
+      "city": "Santiago",
+      "state": "Chile",
+      "location": "Santiago, Chile",
+      "venue": "Parque O'Higgins",
+      "notes": "Lollapalooza \u00b7 Earthworks P30 \u00b7 scott medeiros",
       "version": "AUD",
       "format": "FLAC"
     },
@@ -20898,20 +21703,7 @@ const ARTIST_DATA = {
       "state": "Chile",
       "location": "Santiago, Chile",
       "venue": "Parque O'Higgins",
-      "notes": "Lollapalooza · Earthworks P30 · scott medeiros",
-      "version": "AUD",
-      "format": "FLAC"
-    },
-    {
-      "year": 2015,
-      "month": 3,
-      "day": 14,
-      "dateStr": "3-14-2015",
-      "city": "Santiago",
-      "state": "Chile",
-      "location": "Santiago, Chile",
-      "venue": "Parque O'Higgins",
-      "notes": "Lollapalooza · caiopezz",
+      "notes": "Lollapalooza \u00b7 caiopezz",
       "version": "SBD",
       "format": "MP3"
     },
@@ -20924,9 +21716,10 @@ const ARTIST_DATA = {
       "state": "Argentina",
       "location": "Buenos Aires, Argentina",
       "venue": "Hipodromo de San Isidro",
-      "notes": "Lollapalooza · ST-11 · miguel villarelo",
+      "notes": "Lollapalooza \u00b7 ST-11 \u00b7 miguel villarelo",
       "version": "AUD",
-      "format": "FLAC 24"
+      "format": "FLAC 24",
+      "textFile": "2015-03-22 - Buenos Aires, Argentina - Hipodromo de San Isidro (Lollapalooza) [AUD24].txt"
     },
     {
       "year": 2015,
@@ -20936,10 +21729,11 @@ const ARTIST_DATA = {
       "city": "Sao Paulo",
       "state": "Brazil",
       "location": "Sao Paulo,  Brazil",
-      "venue": "Autódromo de Interlagos",
+      "venue": "Auto\u0301dromo de Interlagos",
       "notes": "",
       "version": "PRO",
-      "format": "TS"
+      "format": "TS",
+      "textFile": "2015-03-29 - San Paulo,  Brazil - Auto\u0301dromo de Interlagos.txt"
     },
     {
       "year": 2015,
@@ -20950,9 +21744,10 @@ const ARTIST_DATA = {
       "state": "NY",
       "location": "North Tonawanda, NY",
       "venue": "Riviera Theater",
-      "notes": "AT831 · binko",
+      "notes": "AT831 \u00b7 binko",
       "version": "AUD",
-      "format": "FLAC 24"
+      "format": "FLAC 24",
+      "textFile": "2015-06-15 - North Tonawanda, NY - Riviera Theater [AUD24].txt"
     },
     {
       "year": 2015,
@@ -20963,9 +21758,10 @@ const ARTIST_DATA = {
       "state": "PA",
       "location": "Munhall, PA",
       "venue": "Carnegie Music Hall of Homestead",
-      "notes": "CA-14 · mistacabbage",
+      "notes": "CA-14 \u00b7 mistacabbage",
       "version": "AUD",
-      "format": "FLAC 24"
+      "format": "FLAC 24",
+      "textFile": "2015-06-16 - Munhall, PA - Carnegie Music Hall of Homestead.txt"
     },
     {
       "year": 2015,
@@ -20976,7 +21772,7 @@ const ARTIST_DATA = {
       "state": "PA",
       "location": "Munhall, PA",
       "venue": "Carnegie Music Hall of Homestead",
-      "notes": "VIP performance · CA-14 · mistacabbage",
+      "notes": "VIP performance \u00b7 CA-14 \u00b7 mistacabbage",
       "version": "AUD",
       "format": "FLAC"
     },
@@ -20989,7 +21785,7 @@ const ARTIST_DATA = {
       "state": "OK",
       "location": "Tulsa, OK",
       "venue": "Brady Theater",
-      "notes": "Zoom H2 · bon mosman",
+      "notes": "Zoom H2 \u00b7 bon mosman",
       "version": "AUD",
       "format": "MP3"
     },
@@ -21002,9 +21798,10 @@ const ARTIST_DATA = {
       "state": "MN",
       "location": "Minneapolis, MN",
       "venue": "Pantages Theatre",
-      "notes": "MK41 · empty",
+      "notes": "MK41 \u00b7 empty",
       "version": "AUD",
-      "format": "FLAC 24"
+      "format": "FLAC 24",
+      "textFile": "2015-06-25 - Minneapolis, MN - Pantages Theatre [AUD24].txt"
     },
     {
       "year": 2015,
@@ -21015,9 +21812,10 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "Concord, CA",
       "venue": "Concord Pavilion",
-      "notes": "DPA 4061 · unk",
+      "notes": "DPA 4061 \u00b7 unk",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "2015-07-07 - Concord, CA - Concord Pavilion [AUD] .txt"
     },
     {
       "year": 2015,
@@ -21028,9 +21826,10 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "Irvine, CA",
       "venue": "Irvine Meadows",
-      "notes": "R09HR · unk",
+      "notes": "R09HR \u00b7 unk",
       "version": "AUD",
-      "format": "FLAC 24"
+      "format": "FLAC 24",
+      "textFile": "2015-07-09 - Irvine, CA - Irvine Meadows [AUD24].txt"
     },
     {
       "year": 2015,
@@ -21041,9 +21840,10 @@ const ARTIST_DATA = {
       "state": "CO",
       "location": "Morrison, CO",
       "venue": "Red Rocks Amphitheatre",
-      "notes": "spaldz · YouTube compilation",
+      "notes": "spaldz \u00b7 YouTube compilation",
       "version": "AUD",
-      "format": "MP4"
+      "format": "MP4",
+      "textFile": "2015-07-13 - Morrison, CO - Red Rocks Amphitheatre (spaldz) (Multi-cam edit) [MP4].txt"
     },
     {
       "year": 2015,
@@ -21054,9 +21854,10 @@ const ARTIST_DATA = {
       "state": "TX",
       "location": "Dallas, TX",
       "venue": "Gexa Energy Pavilion",
-      "notes": "DSM-6S · raves",
+      "notes": "DSM-6S \u00b7 raves",
       "version": "AUD",
-      "format": "FLAC 24"
+      "format": "FLAC 24",
+      "textFile": "2015-07-15 - Dallas, TX - Gexa Energy Pavilion [AUD24].txt"
     },
     {
       "year": 2015,
@@ -21067,9 +21868,10 @@ const ARTIST_DATA = {
       "state": "LA",
       "location": "New Orleans, LA",
       "venue": "Champion Square",
-      "notes": "Sony ECM-DS70P · ryan fisher",
+      "notes": "Sony ECM-DS70P \u00b7 ryan fisher",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "2015-07-20 - New Orleans, LA - Champion Square [AUD].txt"
     },
     {
       "year": 2015,
@@ -21080,9 +21882,10 @@ const ARTIST_DATA = {
       "state": "GA",
       "location": "Atlanta, GA",
       "venue": "Aaron's Amphitheater",
-      "notes": "CA-11 · d. fries",
+      "notes": "CA-11 \u00b7 d. fries",
       "version": "AUD #1",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "2015-07-25 - Atlanta, GA.txt"
     },
     {
       "year": 2015,
@@ -21106,9 +21909,10 @@ const ARTIST_DATA = {
       "state": "NY",
       "location": "Wantagh, NY",
       "venue": "Jones Beach Amphitheater",
-      "notes": "Edirol R09 · unk",
+      "notes": "Edirol R09 \u00b7 unk",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "2015-07-31 - Wantagh, NY - Jones Beach Amphitheater [AUD].txt"
     },
     {
       "year": 2015,
@@ -21119,9 +21923,10 @@ const ARTIST_DATA = {
       "state": "NJ",
       "location": "Camden, NJ",
       "venue": "Susquehanna Bank Center",
-      "notes": "AT943 · smbtapes",
+      "notes": "AT943 \u00b7 smbtapes",
       "version": "AUD",
-      "format": "FLAC 24"
+      "format": "FLAC 24",
+      "textFile": "2015-08-02 - Camden, NJ - Susquehanna Bank Center [AUD24].txt"
     },
     {
       "year": 2015,
@@ -21132,9 +21937,10 @@ const ARTIST_DATA = {
       "state": "PA",
       "location": "Philadelphia, PA",
       "venue": "WMMR Studios",
-      "notes": "BC & Jeff Schroeder Acoustic · WMMR Soundcloud",
+      "notes": "BC & Jeff Schroeder Acoustic \u00b7 WMMR Soundcloud",
       "version": "preFM",
-      "format": "MP3"
+      "format": "MP3",
+      "textFile": "2015-08-03 - Philadelphia, PA - WMMR Studios (BC & Jeff Schroeder Acoustic) [preFM].txt"
     },
     {
       "year": 2015,
@@ -21145,9 +21951,10 @@ const ARTIST_DATA = {
       "state": "ON",
       "location": "Toronto, ON",
       "venue": "Molson Amphitheatre",
-      "notes": "CSB · burnboy",
+      "notes": "CSB \u00b7 burnboy",
       "version": "AUD #1",
-      "format": "FLAC 24"
+      "format": "FLAC 24",
+      "textFile": "2015-08-04 - Toronto, ON - Molson Amphitheatre .txt"
     },
     {
       "year": 2015,
@@ -21158,7 +21965,7 @@ const ARTIST_DATA = {
       "state": "MI",
       "location": "Clarkston, MI",
       "venue": "DTE Energy Music Theatre",
-      "notes": "Sony ICD-UX533 · pintosack",
+      "notes": "Sony ICD-UX533 \u00b7 pintosack",
       "version": "AUD",
       "format": "FLAC"
     },
@@ -21171,9 +21978,10 @@ const ARTIST_DATA = {
       "state": "OR",
       "location": "Portland, OR",
       "venue": "Arlene Schnitzer Concert Hall",
-      "notes": "Zoom Q3HD · meddle earth",
+      "notes": "Zoom Q3HD \u00b7 meddle earth",
       "version": "AUD",
-      "format": "FLAC 24"
+      "format": "FLAC 24",
+      "textFile": "2016-03-22 - Portland, OR - Arlene Schnitzer Concert Hall.txt"
     },
     {
       "year": 2016,
@@ -21184,9 +21992,10 @@ const ARTIST_DATA = {
       "state": "WA",
       "location": "Seattle, WA",
       "venue": "Paramount Theatre",
-      "notes": "CA-11 · smashing0",
+      "notes": "CA-11 \u00b7 smashing0",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "2016-03-23 - Seattle, WA - Paramount Theatre.txt"
     },
     {
       "year": 2016,
@@ -21197,9 +22006,10 @@ const ARTIST_DATA = {
       "state": "OH",
       "location": "Columbus, OH",
       "venue": "Palace Theater",
-      "notes": "SP-CMC-8 · AT943 · gitard",
+      "notes": "SP-CMC-8 \u00b7 AT943 \u00b7 gitard",
       "version": "AUD",
-      "format": "FLAC 24"
+      "format": "FLAC 24",
+      "textFile": "2016-04-02 - Columbus, OH - Palace Theater.txt"
     },
     {
       "year": 2016,
@@ -21210,7 +22020,7 @@ const ARTIST_DATA = {
       "state": "OH",
       "location": "Columbus, OH",
       "venue": "Palace Theater",
-      "notes": "AT853 · live2cd · charles dewey cole",
+      "notes": "AT853 \u00b7 live2cd \u00b7 charles dewey cole",
       "version": "AUD",
       "format": "FLAC"
     },
@@ -21223,9 +22033,10 @@ const ARTIST_DATA = {
       "state": "NY",
       "location": "New York, NY",
       "venue": "Beacon Theatre",
-      "notes": "Schoeps MK4V · hi and lo",
+      "notes": "Schoeps MK4V \u00b7 hi and lo",
       "version": "AUD",
-      "format": "FLAC 24"
+      "format": "FLAC 24",
+      "textFile": "2016-04-05 - New York, NY - Beacon Theatre.txt"
     },
     {
       "year": 2016,
@@ -21236,9 +22047,10 @@ const ARTIST_DATA = {
       "state": "D.C.",
       "location": "Washington, D.C.",
       "venue": "The Lincoln Theatre",
-      "notes": "DPA 4023 · alex leary",
+      "notes": "DPA 4023 \u00b7 alex leary",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "2016-04-10 - Washington, D.C. - The Lincoln Theatre.txt"
     },
     {
       "year": 2016,
@@ -21264,7 +22076,8 @@ const ARTIST_DATA = {
       "venue": "Ryman Auditorium",
       "notes": "unk",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "2016-04-16 - Nashville, TN - Ryman Auditorium.txt"
     },
     {
       "year": 2016,
@@ -21275,9 +22088,10 @@ const ARTIST_DATA = {
       "state": "TX",
       "location": "Dallas, TX",
       "venue": "Majestic Theatre",
-      "notes": "DSM-6S · bg raves",
+      "notes": "DSM-6S \u00b7 bg raves",
       "version": "AUD",
-      "format": "FLAC 24"
+      "format": "FLAC 24",
+      "textFile": "2016-04-18 - Dallas, TX - Majestic Theatre.txt"
     },
     {
       "year": 2016,
@@ -21288,9 +22102,10 @@ const ARTIST_DATA = {
       "state": "TX",
       "location": "Austin, TX",
       "venue": "Bass Concert Hall",
-      "notes": "Tascam DR-40 · unk",
+      "notes": "Tascam DR-40 \u00b7 unk",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "2016-04-19 - Austin, TX - Bass Concert Hal.txt"
     },
     {
       "year": 2016,
@@ -21301,9 +22116,10 @@ const ARTIST_DATA = {
       "state": "NC",
       "location": "Charlotte, NC",
       "venue": "Ovens Auditorium",
-      "notes": "Soundcheck · univonc",
+      "notes": "Soundcheck \u00b7 univonc",
       "version": "IEM",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "2016-04-27 - Charlotte, NC - Ovens Auditorium.txt"
     },
     {
       "year": 2016,
@@ -21314,7 +22130,7 @@ const ARTIST_DATA = {
       "state": "NC",
       "location": "Charlotte, NC",
       "venue": "Ovens Auditorium",
-      "notes": "Full Set · univonc",
+      "notes": "Full Set \u00b7 univonc",
       "version": "IEM",
       "format": "FLAC"
     },
@@ -21327,9 +22143,10 @@ const ARTIST_DATA = {
       "state": "OH",
       "location": "Akron, OH",
       "venue": "Goodyear Theater",
-      "notes": "Tascam DR-05 · nikres",
+      "notes": "Tascam DR-05 \u00b7 nikres",
       "version": "AUD",
-      "format": "FLAC 24"
+      "format": "FLAC 24",
+      "textFile": "2016-04-29 - Akron, OH - Goodyear Theater.txt"
     },
     {
       "year": 2016,
@@ -21340,9 +22157,10 @@ const ARTIST_DATA = {
       "state": "IL",
       "location": "Highland Park, IL",
       "venue": "Madam ZuZu's",
-      "notes": "BC & Jeff Schroeder Acoustic · Tascam DR-40 · mistacabbage",
+      "notes": "BC & Jeff Schroeder Acoustic \u00b7 Tascam DR-40 \u00b7 mistacabbage",
       "version": "AUD",
-      "format": "FLAC 24"
+      "format": "FLAC 24",
+      "textFile": "2016-05-29 - Highland Park, IL - Madam ZuZu's (BC & Jeff Schroeder Acoustic).txt"
     },
     {
       "year": 2018,
@@ -21366,9 +22184,10 @@ const ARTIST_DATA = {
       "state": "AZ",
       "location": "Glendale, AZ",
       "venue": "Gila River Arena",
-      "notes": "MK41s · ed davis",
+      "notes": "MK41s \u00b7 ed davis",
       "version": "AUD",
-      "format": "FLAC 24"
+      "format": "FLAC 24",
+      "textFile": "2018-07-12 - Glendale, AZ - Gila River Arena.txt"
     },
     {
       "year": 2018,
@@ -21379,9 +22198,10 @@ const ARTIST_DATA = {
       "state": "OK",
       "location": "Oklahoma City, OK",
       "venue": "Chesapeake Energy Arena",
-      "notes": "Audio Reality Binaurals · unk",
+      "notes": "Audio Reality Binaurals \u00b7 unk",
       "version": "AUD",
-      "format": "FLAC 24"
+      "format": "FLAC 24",
+      "textFile": "2018-07-14 - Oklahoma City, OK - Chesapeake Energy Arena.txt"
     },
     {
       "year": 2018,
@@ -21392,9 +22212,10 @@ const ARTIST_DATA = {
       "state": "FL",
       "location": "Tampa, FL",
       "venue": "Amalie Arena",
-      "notes": "Zoom H1 · besley",
+      "notes": "Zoom H1 \u00b7 besley",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "2018-07-25 - Tampa, FL - Amalie Arena.txt"
     },
     {
       "year": 2018,
@@ -21405,9 +22226,10 @@ const ARTIST_DATA = {
       "state": "MD",
       "location": "Baltimore, MD",
       "venue": "Royal Farms Arena",
-      "notes": "CA-11 · opsopcopolis",
+      "notes": "CA-11 \u00b7 opsopcopolis",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "2018-07-27 - Baltimore, MD - Royal Farms Arena.txt"
     },
     {
       "year": 2018,
@@ -21418,7 +22240,7 @@ const ARTIST_DATA = {
       "state": "MD",
       "location": "Baltimore, MD",
       "venue": "Royal Farms Arena",
-      "notes": "SP-CMC-8 · porcelmc",
+      "notes": "SP-CMC-8 \u00b7 porcelmc",
       "version": "AUD",
       "format": "FLAC"
     },
@@ -21431,9 +22253,10 @@ const ARTIST_DATA = {
       "state": "CT",
       "location": "Uncasville, CT",
       "venue": "Arena @ Mohegan Sun Casino",
-      "notes": "ME-104s · ringfedder",
+      "notes": "ME-104s \u00b7 ringfedder",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "2018-07-29 - Uncasville, CT - Arena @ Mohegan Sun Casino .txt"
     },
     {
       "year": 2018,
@@ -21444,9 +22267,10 @@ const ARTIST_DATA = {
       "state": "NJ",
       "location": "Holmdel, NJ",
       "venue": "PNC Bank Arts Center",
-      "notes": "Nokia Lumia · xdarcyx",
+      "notes": "Nokia Lumia \u00b7 xdarcyx",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "2018-08-02 - Holmdel, NJ - PNC Bank Arts Center.txt"
     },
     {
       "year": 2018,
@@ -21457,7 +22281,7 @@ const ARTIST_DATA = {
       "state": "NJ",
       "location": "Holmdel, NJ",
       "venue": "PNC Bank Arts Center",
-      "notes": "SP-CMC-8 · marc geanoules",
+      "notes": "SP-CMC-8 \u00b7 marc geanoules",
       "version": "AUD",
       "format": "FLAC"
     },
@@ -21470,9 +22294,10 @@ const ARTIST_DATA = {
       "state": "PA",
       "location": "Pittsburgh, PA",
       "venue": "PPG Paints Arena",
-      "notes": "AT831s · binko",
+      "notes": "AT831s \u00b7 binko",
       "version": "AUD",
-      "format": "FLAC 24"
+      "format": "FLAC 24",
+      "textFile": "2018-08-04 - Pittsburgh, PA - PPG Paints Arena.txt"
     },
     {
       "year": 2018,
@@ -21483,7 +22308,7 @@ const ARTIST_DATA = {
       "state": "Ontario",
       "location": "London, Ontario",
       "venue": "Budweiser Gardens",
-      "notes": "Sony ICD-UX533 · pintosack",
+      "notes": "Sony ICD-UX533 \u00b7 pintosack",
       "version": "AUD",
       "format": "FLAC"
     },
@@ -21496,9 +22321,10 @@ const ARTIST_DATA = {
       "state": "OH",
       "location": "Columbus, OH",
       "venue": "Schottenstein Center",
-      "notes": "AT853 · live2cd",
+      "notes": "AT853 \u00b7 live2cd",
       "version": "AUD",
-      "format": "FLAC 24"
+      "format": "FLAC 24",
+      "textFile": "2018-08-11 - Columbus, OH - Schottenstein Center.txt"
     },
     {
       "year": 2018,
@@ -21509,9 +22335,10 @@ const ARTIST_DATA = {
       "state": "IL",
       "location": "Chicago, IL",
       "venue": "United Center",
-      "notes": "AT831 · tapeworm48",
+      "notes": "AT831 \u00b7 tapeworm48",
       "version": "AUD",
-      "format": "FLAC 24"
+      "format": "FLAC 24",
+      "textFile": "2018-08-13 - Chicago, IL - United Center.txt"
     },
     {
       "year": 2018,
@@ -21524,7 +22351,8 @@ const ARTIST_DATA = {
       "venue": "WKQX Studios",
       "notes": "indykid",
       "version": "PRO #1",
-      "format": "M4A"
+      "format": "M4A",
+      "textFile": "2018-08-14 - WKQX Studios, Chicago, IL.txt"
     },
     {
       "year": 2018,
@@ -21548,9 +22376,10 @@ const ARTIST_DATA = {
       "state": "MN",
       "location": "St. Paul, MN",
       "venue": "Xcel Energy Center",
-      "notes": "AT853s · soniclovenoize edit",
+      "notes": "AT853s \u00b7 soniclovenoize edit",
       "version": "AUD",
-      "format": "FLAC 24"
+      "format": "FLAC 24",
+      "textFile": "2018-08-19 - St. Paul, MN - Xcel Energy Center.txt"
     },
     {
       "year": 2018,
@@ -21563,7 +22392,8 @@ const ARTIST_DATA = {
       "venue": "Key Arena",
       "notes": "indykid",
       "version": "PRO #1",
-      "format": "M4A"
+      "format": "M4A",
+      "textFile": "2018-08-24 - Seattle, WA - Key Arena.txt"
     },
     {
       "year": 2018,
@@ -21587,9 +22417,10 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "Oakland, CA",
       "venue": "Oracle Arena",
-      "notes": "CCM4s · blg mastering",
+      "notes": "CCM4s \u00b7 blg mastering",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "2018-08-27 - Oakland, CA - Oracle Arena.txt"
     },
     {
       "year": 2018,
@@ -21600,7 +22431,7 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "Oakland, CA",
       "venue": "Oracle Arena",
-      "notes": "DAP 4061s · unk",
+      "notes": "DAP 4061s \u00b7 unk",
       "version": "AUD",
       "format": "FLAC"
     },
@@ -21626,7 +22457,7 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "Oakland, CA",
       "venue": "Oracle Arena",
-      "notes": "Tascam DR-2d · noscms",
+      "notes": "Tascam DR-2d \u00b7 noscms",
       "version": "AUD",
       "format": "FLAC 24"
     },
@@ -21639,9 +22470,10 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "Sacramento, CA",
       "venue": "Golden 1 Center",
-      "notes": "Countryman B3 · hoserama",
+      "notes": "Countryman B3 \u00b7 hoserama",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "2018-08-28 - Sacramento, CA - Golden 1 Center.txt"
     },
     {
       "year": 2018,
@@ -21652,7 +22484,7 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "Sacramento, CA",
       "venue": "Golden 1 Center",
-      "notes": "Tascam DR-2d · noscms",
+      "notes": "Tascam DR-2d \u00b7 noscms",
       "version": "AUD",
       "format": "FLAC 24"
     },
@@ -21665,7 +22497,7 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "Sacramento, CA",
       "venue": "Golden 1 Center",
-      "notes": "Tascam DR-05 · thejackyl",
+      "notes": "Tascam DR-05 \u00b7 thejackyl",
       "version": "AUD",
       "format": "FLAC"
     },
@@ -21680,7 +22512,8 @@ const ARTIST_DATA = {
       "venue": "",
       "notes": "",
       "version": "AUD",
-      "format": "FLAC 24"
+      "format": "FLAC 24",
+      "textFile": "2018-08-30 - Inglewood, CA - The Forum.txt"
     },
     {
       "year": 2018,
@@ -21691,9 +22524,10 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "Inglewood, CA",
       "venue": "The Forum",
-      "notes": "Schoeps MK41s · ed davis",
+      "notes": "Schoeps MK41s \u00b7 ed davis",
       "version": "AUD",
-      "format": "FLAC 24"
+      "format": "FLAC 24",
+      "textFile": "2018-08-31 - Inglewood, CA - The Forum.txt"
     },
     {
       "year": 2018,
@@ -21704,7 +22538,7 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "Inglewood, CA",
       "venue": "The Forum",
-      "notes": "Edirol R09 · mixter",
+      "notes": "Edirol R09 \u00b7 mixter",
       "version": "AUD",
       "format": "FLAC"
     },
@@ -21717,7 +22551,7 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "Inglewood, CA",
       "venue": "The Forum",
-      "notes": "Tascam DR-2d · noscms",
+      "notes": "Tascam DR-2d \u00b7 noscms",
       "version": "AUD",
       "format": "FLAC 24"
     },
@@ -21732,7 +22566,8 @@ const ARTIST_DATA = {
       "venue": "T-Mobile Arena",
       "notes": "DPA 4063",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "2018-09-02 - Paradise, NV - T-Mobile Arena.txt"
     },
     {
       "year": 2018,
@@ -21743,9 +22578,10 @@ const ARTIST_DATA = {
       "state": "UT",
       "location": "Salt Lake City, UT",
       "venue": "Vivint Smart Home Arena",
-      "notes": "WAV(M) · Binaural stereo mics · bobbintb",
+      "notes": "WAV(M) \u00b7 Binaural stereo mics \u00b7 bobbintb",
       "version": "AUD #1",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "2018-09-04 - Salt Lake City, UT - Vivint Smart Home Arena.txt"
     },
     {
       "year": 2018,
@@ -21758,7 +22594,8 @@ const ARTIST_DATA = {
       "venue": "Pepsi Center",
       "notes": "SP Omnis",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "2018-09-05 - Denver, CO - Pepsi Center.txt"
     },
     {
       "year": 2018,
@@ -21769,9 +22606,10 @@ const ARTIST_DATA = {
       "state": "Alberta",
       "location": "Edmonton, Alberta",
       "venue": "Rogers Place",
-      "notes": "CA-14 · sean gurskey",
+      "notes": "CA-14 \u00b7 sean gurskey",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "2018-09-09 - Edmonton, Alberta - Rogers Place.txt"
     },
     {
       "year": 2018,
@@ -21784,7 +22622,8 @@ const ARTIST_DATA = {
       "venue": "HD Radio Sound Space at KROQ",
       "notes": "indykid",
       "version": "Webcast",
-      "format": "TS"
+      "format": "TS",
+      "textFile": "2018-09-13 - Los Angeles, CA - HD Radio Sound Space at KROQ [WEBCAST].txt"
     },
     {
       "year": 2018,
@@ -21795,9 +22634,10 @@ const ARTIST_DATA = {
       "state": "UK",
       "location": "London, UK",
       "venue": "Wembley Arena",
-      "notes": "DPA 4061 · duncan",
+      "notes": "DPA 4061 \u00b7 duncan",
       "version": "AUD",
-      "format": "FLAC 24"
+      "format": "FLAC 24",
+      "textFile": "2018-10-16 - London, UK - Wembley Arena.txt"
     },
     {
       "year": 2018,
@@ -21810,7 +22650,8 @@ const ARTIST_DATA = {
       "venue": "Unipol Arena",
       "notes": "",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "2018-10-18 - Casalecchio di Reno, Italy - Unipol Arena.txt"
     },
     {
       "year": 2018,
@@ -21821,9 +22662,10 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "Inglewood, CA",
       "venue": "The Forum",
-      "notes": "CA-11c · unk",
+      "notes": "CA-11c \u00b7 unk",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "2018-12-08 - Inglewood, CA - The Forum.txt"
     },
     {
       "year": 2018,
@@ -21847,9 +22689,10 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "Los Angeles, CA",
       "venue": "El Capitan Entertainment Centre",
-      "notes": "Jimmy · unk",
+      "notes": "Jimmy \u00b7 unk",
       "version": "TV",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "2018-12-11 - Los Angeles, CA - El Capitan Entertainment Centre.txt"
     },
     {
       "year": 2019,
@@ -21862,7 +22705,8 @@ const ARTIST_DATA = {
       "venue": "",
       "notes": "",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "2019-06-05 - Berlin, Zitadelle Spandau, Germany [AUD].txt"
     },
     {
       "year": 2019,
@@ -21873,9 +22717,10 @@ const ARTIST_DATA = {
       "state": "Germany",
       "location": "Nurburgring, Germany",
       "venue": "Nurburgring",
-      "notes": "HD Digital Source · 3sat",
+      "notes": "HD Digital Source \u00b7 3sat",
       "version": "TV",
-      "format": "MPG"
+      "format": "MPG",
+      "textFile": "2019-06-07 - Nurburgring, Nurburg, Germany - Rock am Ring 2019.txt"
     },
     {
       "year": 2019,
@@ -21899,9 +22744,10 @@ const ARTIST_DATA = {
       "state": "UK",
       "location": "Donington, UK",
       "venue": "Donington Park",
-      "notes": "Download · DPA-4061s · rob",
+      "notes": "Download \u00b7 DPA-4061s \u00b7 rob",
       "version": "AUD",
-      "format": "FLAC 24"
+      "format": "FLAC 24",
+      "textFile": "2019-06-16 - Donington, UK - Donington Park - Download Festival [AUD24].txt"
     },
     {
       "year": 2019,
@@ -21914,7 +22760,8 @@ const ARTIST_DATA = {
       "venue": "Eurockennes de Belfort Grande Scene",
       "notes": "indykid",
       "version": "Webcast",
-      "format": "TS"
+      "format": "TS",
+      "textFile": "2019-07-07 - Belfort, France - Eurockennes de Belfort Grande Scene [TS].txt"
     },
     {
       "year": 2019,
@@ -21925,9 +22772,10 @@ const ARTIST_DATA = {
       "state": "Spain",
       "location": "Madrid, Spain",
       "venue": "Valdebebas",
-      "notes": "IFEMA · Mad Cool Festival · unk",
+      "notes": "IFEMA \u00b7 Mad Cool Festival \u00b7 unk",
       "version": "FM",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "2019-07-12 - Madrid, ES - Valdebebas - IFEMA [FM].txt"
     },
     {
       "year": 2019,
@@ -21940,7 +22788,8 @@ const ARTIST_DATA = {
       "venue": "NOS Alive",
       "notes": "indykid",
       "version": "Webcast",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "2019-07-13 - Oeiras, Portugal - Passeio Maritimo - NOS Alive [TV].txt"
     },
     {
       "year": 2019,
@@ -21953,7 +22802,8 @@ const ARTIST_DATA = {
       "venue": "NOS Alive",
       "notes": "",
       "version": "WEB",
-      "format": "TS"
+      "format": "TS",
+      "textFile": "2019-07-13 - Oeiras, Portugal - NOS Alive [WEB].txt"
     },
     {
       "year": 2019,
@@ -21964,9 +22814,10 @@ const ARTIST_DATA = {
       "state": "NJ",
       "location": "Camden, NJ",
       "venue": "BB&T Pavilion",
-      "notes": "Nokia Lumia · xdarcyx",
+      "notes": "Nokia Lumia \u00b7 xdarcyx",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "2019-08-08 - Camden, NJ - BB&T Pavilion.txt"
     },
     {
       "year": 2019,
@@ -21977,7 +22828,7 @@ const ARTIST_DATA = {
       "state": "NJ",
       "location": "Camden, NJ",
       "venue": "BB&T Pavilion",
-      "notes": "MK41v · joe burns",
+      "notes": "MK41v \u00b7 joe burns",
       "version": "AUD",
       "format": "FLAC"
     },
@@ -21990,9 +22841,10 @@ const ARTIST_DATA = {
       "state": "NY",
       "location": "Darien Center, NY",
       "venue": "Darien Lake Amphitheatre",
-      "notes": "Zoom H4n · schufflemode",
+      "notes": "Zoom H4n \u00b7 schufflemode",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "2019-08-10 - Darien Center, NY - Darien Lake Amphitheatre [AUD].txt"
     },
     {
       "year": 2019,
@@ -22016,7 +22868,7 @@ const ARTIST_DATA = {
       "state": "NC",
       "location": "Charlotte, NC",
       "venue": "PNC Music Pavilion",
-      "notes": "Sony TS-125 · unk",
+      "notes": "Sony TS-125 \u00b7 unk",
       "version": "AUD",
       "format": "FLAC"
     },
@@ -22029,9 +22881,10 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "Irvine, CA",
       "venue": "FivePoint Amphitheatre",
-      "notes": "Schoeps MK4 · ed davis",
+      "notes": "Schoeps MK4 \u00b7 ed davis",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "2019-08-29 - Irvine, CA - FivePoint Amphitheatre.txt"
     },
     {
       "year": 2019,
@@ -22042,9 +22895,10 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "Mountain View, CA",
       "venue": "Shoreline Amphitheatre",
-      "notes": "AKG CK63 · alec vanderwoude",
+      "notes": "AKG CK63 \u00b7 alec vanderwoude",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "2019-08-31 - Mountain View, CA - Shoreline Amphitheatre [AUD24].txt"
     },
     {
       "year": 2021,
@@ -22055,9 +22909,10 @@ const ARTIST_DATA = {
       "state": "IL",
       "location": "Chicago, IL",
       "venue": "Riot Fest",
-      "notes": "Riot · AT853s · tj",
+      "notes": "Riot \u00b7 AT853s \u00b7 tj",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "2021-09-17 - Chicago, IL - Riot Fest - Riot Stage.txt"
     },
     {
       "year": 2022,
@@ -22068,9 +22923,10 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "Santa Barbara, CA",
       "venue": "Santa Barbara Bowl",
-      "notes": "DPA 4063 · taye per",
+      "notes": "DPA 4063 \u00b7 taye per",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "2022-05-13 - Santa Barbara, CA - Santa Barbara Bowl.txt"
     },
     {
       "year": 2022,
@@ -22083,7 +22939,8 @@ const ARTIST_DATA = {
       "venue": "BeachLife Festival",
       "notes": "indykid",
       "version": "Webcast",
-      "format": "TS"
+      "format": "TS",
+      "textFile": "2022-05-14 - Redondo Beach, CA - BeachLife Festival.txt"
     },
     {
       "year": 2022,
@@ -22094,9 +22951,10 @@ const ARTIST_DATA = {
       "state": "AL",
       "location": "Birmingham, AL",
       "venue": "Avondale Brewing Company",
-      "notes": "M4A(M) · iPhone 13 · liquidsun",
+      "notes": "M4A(M) \u00b7 iPhone 13 \u00b7 liquidsun",
       "version": "AUD #1",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "2022-05-21 - Birmingham, AL - Avondale Brewing Company.txt"
     },
     {
       "year": 2022,
@@ -22107,9 +22965,10 @@ const ARTIST_DATA = {
       "state": "NC",
       "location": "Greensboro, NC",
       "venue": "White Oak Amphitheatre",
-      "notes": "WAV(M) · iPhone 12 · shynomi",
+      "notes": "WAV(M) \u00b7 iPhone 12 \u00b7 shynomi",
       "version": "AUD",
-      "format": "FLAC 24"
+      "format": "FLAC 24",
+      "textFile": "2022-05-25 - Greensboro, NC - White Oak Amphitheatre.txt"
     },
     {
       "year": 2022,
@@ -22120,7 +22979,7 @@ const ARTIST_DATA = {
       "state": "NC",
       "location": "Greensboro, NC",
       "venue": "White Oak Amphitheatre",
-      "notes": "unk · leopheard",
+      "notes": "unk \u00b7 leopheard",
       "version": "AUD",
       "format": "MP3"
     },
@@ -22133,7 +22992,7 @@ const ARTIST_DATA = {
       "state": "NC",
       "location": "Greensboro, NC",
       "venue": "White Oak Amphitheatre",
-      "notes": "YouTube rip · green",
+      "notes": "YouTube rip \u00b7 green",
       "version": "WEB",
       "format": "MP4"
     },
@@ -22146,7 +23005,7 @@ const ARTIST_DATA = {
       "state": "NC",
       "location": "Greensboro, NC",
       "venue": "White Oak Amphitheatre",
-      "notes": "MD(M) · Sony TS-125 · leopheard",
+      "notes": "MD(M) \u00b7 Sony TS-125 \u00b7 leopheard",
       "version": "AUD #2",
       "format": "FLAC"
     },
@@ -22159,9 +23018,10 @@ const ARTIST_DATA = {
       "state": "KY",
       "location": "Newport, KY",
       "venue": "PromoWest Pavilion",
-      "notes": "M4A(M) · iPhone 12 · ram27",
+      "notes": "M4A(M) \u00b7 iPhone 12 \u00b7 ram27",
       "version": "AUD #1",
-      "format": "M4A"
+      "format": "M4A",
+      "textFile": "2022-05-27 - Newport, KY - PromoWest Pavilion - M4A(M) (iPhone 12) (ram27) [AUD-LOSSY].txt"
     },
     {
       "year": 2022,
@@ -22187,7 +23047,8 @@ const ARTIST_DATA = {
       "venue": "Metro",
       "notes": "Q101",
       "version": "WEB",
-      "format": "MP3"
+      "format": "MP3",
+      "textFile": "2022-09-20 - Chicago, IL - Metro.txt"
     },
     {
       "year": 2022,
@@ -22211,7 +23072,7 @@ const ARTIST_DATA = {
       "state": "IL",
       "location": "Chicago, IL",
       "venue": "Metro",
-      "notes": "Q101 · Marquee Sports Network · unk",
+      "notes": "Q101 \u00b7 Marquee Sports Network \u00b7 unk",
       "version": "TV",
       "format": "FLAC"
     },
@@ -22224,7 +23085,7 @@ const ARTIST_DATA = {
       "state": "FL",
       "location": "Tampa, FL",
       "venue": "Amalie Arena",
-      "notes": "Tascam DR-05 · blueelf",
+      "notes": "Tascam DR-05 \u00b7 blueelf",
       "version": "AUD",
       "format": "FLAC 24"
     },
@@ -22237,7 +23098,7 @@ const ARTIST_DATA = {
       "state": "FL",
       "location": "Hollywood, FL",
       "venue": "Hard Rock Live",
-      "notes": "Tascam Dr-05 · shaqwirk",
+      "notes": "Tascam Dr-05 \u00b7 shaqwirk",
       "version": "AUD",
       "format": "FLAC"
     },
@@ -22250,9 +23111,10 @@ const ARTIST_DATA = {
       "state": "TN",
       "location": "Nashville, TN",
       "venue": "Bridgestone Arena",
-      "notes": "M4A(M) · iPhone 13 · liquidsun",
+      "notes": "M4A(M) \u00b7 iPhone 13 \u00b7 liquidsun",
       "version": "AUD #1",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "2022-10-10 - Nashville, TN - Bridgestone Arena.txt"
     },
     {
       "year": 2022,
@@ -22263,9 +23125,10 @@ const ARTIST_DATA = {
       "state": "NY",
       "location": "New York, NY",
       "venue": "Madison Square Garden",
-      "notes": "Roland CS-10 · phideaux3",
+      "notes": "Roland CS-10 \u00b7 phideaux3",
       "version": "AUD",
-      "format": "FLAC 24"
+      "format": "FLAC 24",
+      "textFile": "2022-10-19 - New York, NY - Madison Square Garden.txt"
     },
     {
       "year": 2022,
@@ -22276,9 +23139,10 @@ const ARTIST_DATA = {
       "state": "PA",
       "location": "Philadelphia, PA",
       "venue": "Wells Fargo Center",
-      "notes": "iPhone SE · unk",
+      "notes": "iPhone SE \u00b7 unk",
       "version": "AUD",
-      "format": "MP3"
+      "format": "MP3",
+      "textFile": "2022-10-21 - Philadelphia, PA - Wells Fargo Center.txt"
     },
     {
       "year": 2022,
@@ -22289,9 +23153,10 @@ const ARTIST_DATA = {
       "state": "PA",
       "location": "Pittsburgh, PA",
       "venue": "PPG Paints Arena",
-      "notes": "iPhoneX · ezralite23",
+      "notes": "iPhoneX \u00b7 ezralite23",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "2022-10-22 - Pittsburgh, PA - PPG Paints Arena.txt"
     },
     {
       "year": 2022,
@@ -22302,7 +23167,7 @@ const ARTIST_DATA = {
       "state": "ON",
       "location": "Toronto, ON",
       "venue": "Scotiabank Arena",
-      "notes": "WAV(M) · Samsung S21",
+      "notes": "WAV(M) \u00b7 Samsung S21",
       "version": "AUD #1",
       "format": "FLAC"
     },
@@ -22315,9 +23180,10 @@ const ARTIST_DATA = {
       "state": "QC",
       "location": "Montreal, QC",
       "venue": "Centre Bell",
-      "notes": "M4A(M) · Samsung S21 · unk",
+      "notes": "M4A(M) \u00b7 Samsung S21 \u00b7 unk",
       "version": "AUD #1",
-      "format": "M4A"
+      "format": "M4A",
+      "textFile": "2022-10-26 - Montreal, QC - Centre Bell.txt"
     },
     {
       "year": 2022,
@@ -22328,7 +23194,7 @@ const ARTIST_DATA = {
       "state": "QC",
       "location": "Montreal, QC",
       "venue": "Centre Bell",
-      "notes": "iPhone 11 · palm0014",
+      "notes": "iPhone 11 \u00b7 palm0014",
       "version": "AUD #2",
       "format": "FLAC"
     },
@@ -22341,9 +23207,10 @@ const ARTIST_DATA = {
       "state": "OH",
       "location": "Cleveland, OH",
       "venue": "Rocket Mortgage Fieldhouse",
-      "notes": "AT853U · charles dewey cole",
+      "notes": "AT853U \u00b7 charles dewey cole",
       "version": "AUD",
-      "format": "FLAC 24"
+      "format": "FLAC 24",
+      "textFile": "2022-10-29 - Cleveland, OH - Rocket Mortgage Fieldhouse.txt"
     },
     {
       "year": 2022,
@@ -22354,9 +23221,10 @@ const ARTIST_DATA = {
       "state": "WI",
       "location": "Milwaukee, WI",
       "venue": "Fisery Forum",
-      "notes": "MP3(M) · SiriusXM · WW#1",
+      "notes": "MP3(M) \u00b7 SiriusXM \u00b7 WW#1",
       "version": "FM",
-      "format": "MP3"
+      "format": "MP3",
+      "textFile": "2022-10-30 - Milwaukee, WI - Fisery Forum.txt"
     },
     {
       "year": 2022,
@@ -22367,9 +23235,10 @@ const ARTIST_DATA = {
       "state": "IL",
       "location": "Chicago, IL",
       "venue": "United Center",
-      "notes": "AT831s · tapeworm48",
+      "notes": "AT831s \u00b7 tapeworm48",
       "version": "AUD",
-      "format": "FLAC 24"
+      "format": "FLAC 24",
+      "textFile": "2022-11-05 - Chicago, IL - United Center.txt"
     },
     {
       "year": 2022,
@@ -22380,9 +23249,10 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "San Francisco, CA",
       "venue": "Chase Center",
-      "notes": "SP-CMC-4U · loughney",
+      "notes": "SP-CMC-4U \u00b7 loughney",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "2022-11-15 - San Francisco, CA - Chase Center.txt"
     },
     {
       "year": 2022,
@@ -22406,7 +23276,7 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "San Francisco, CA",
       "venue": "Chase Center",
-      "notes": "SP-CMC-4U · tj",
+      "notes": "SP-CMC-4U \u00b7 tj",
       "version": "AUD",
       "format": "FLAC"
     },
@@ -22432,9 +23302,10 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "Anaheim, CA",
       "venue": "Honda Center",
-      "notes": "CA-14s · smokemonster",
+      "notes": "CA-14s \u00b7 smokemonster",
       "version": "AUD #1",
-      "format": "FLAC 24"
+      "format": "FLAC 24",
+      "textFile": "2022-11-16 - Anaheim, CA - Honda Center.txt"
     },
     {
       "year": 2022,
@@ -22445,7 +23316,7 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "Anaheim, CA",
       "venue": "Honda Center",
-      "notes": "DPA 4081 · faninor",
+      "notes": "DPA 4081 \u00b7 faninor",
       "version": "AUD",
       "format": "FLAC 24"
     },
@@ -22458,9 +23329,10 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "Los Angeles, CA",
       "venue": "Hollywood Bowl",
-      "notes": "CA-14 · smokemonster",
+      "notes": "CA-14 \u00b7 smokemonster",
       "version": "AUD",
-      "format": "FLAC 24"
+      "format": "FLAC 24",
+      "textFile": "2022-11-19 - Los Angeles, CA - Hollywood Bowl.txt"
     },
     {
       "year": 2023,
@@ -22473,7 +23345,8 @@ const ARTIST_DATA = {
       "venue": "",
       "notes": "",
       "version": "AUD #1",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "2023-04-22 - Melbourne, AUS - Centre for the Arts.txt"
     },
     {
       "year": 2023,
@@ -22499,7 +23372,8 @@ const ARTIST_DATA = {
       "venue": "",
       "notes": "",
       "version": "IEM",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "2023-04-27 - Melbourne, AUS - Centre for the Arts.txt"
     },
     {
       "year": 2023,
@@ -22512,7 +23386,8 @@ const ARTIST_DATA = {
       "venue": "iHeart Radio Theater (ATUM Release Party)",
       "notes": "WAV(M)",
       "version": "WEB",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "2023-05-02 - Burbank, CA - iHeartRadio Theater (ATUM Release Party).txt"
     },
     {
       "year": 2023,
@@ -22523,9 +23398,10 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "Napa, CA",
       "venue": "Jam Cellars Ballroom at the Blue Note",
-      "notes": "SP-CMC-4U · sz",
+      "notes": "SP-CMC-4U \u00b7 sz",
       "version": "AUD",
-      "format": "FLAC 24"
+      "format": "FLAC 24",
+      "textFile": "2023-05-25 - Napa, CA - Jam Cellars Ballroom at the Blue Note.txt"
     },
     {
       "year": 2023,
@@ -22538,7 +23414,8 @@ const ARTIST_DATA = {
       "venue": "",
       "notes": "",
       "version": "AUD #1",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "2023-07-28 - Las Vegas, NV - Cosmopolitan of Las Vegas.txt"
     },
     {
       "year": 2023,
@@ -22549,9 +23426,10 @@ const ARTIST_DATA = {
       "state": "NV",
       "location": "Las Vegas, NV",
       "venue": "Cosmopolitan of Las Vegas",
-      "notes": "The · M · AT853a's · unk",
+      "notes": "The \u00b7 M \u00b7 AT853a's \u00b7 unk",
       "version": "AUD #1",
-      "format": "FLAC 24"
+      "format": "FLAC 24",
+      "textFile": "2023-07-30 - Las Vegas, NV - Cosmopolitan of Las Vegas at The Chelsea.txt"
     },
     {
       "year": 2023,
@@ -22562,7 +23440,7 @@ const ARTIST_DATA = {
       "state": "NV",
       "location": "Las Vegas, NV",
       "venue": "Cosmopolitan of Las Vegas",
-      "notes": "The · M · Binaural mics · bobbintb",
+      "notes": "The \u00b7 M \u00b7 Binaural mics \u00b7 bobbintb",
       "version": "AUD #2",
       "format": "FLAC"
     },
@@ -22575,9 +23453,10 @@ const ARTIST_DATA = {
       "state": "UT",
       "location": "West Valley City, UT",
       "venue": "USANA Amphitheatre",
-      "notes": "WAV(M) · Binaural mics · bobbintb",
+      "notes": "WAV(M) \u00b7 Binaural mics \u00b7 bobbintb",
       "version": "AUD #1",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "2023-08-01 - West Valley City, UT - USANA Amphitheatre.txt"
     },
     {
       "year": 2023,
@@ -22590,7 +23469,8 @@ const ARTIST_DATA = {
       "venue": "",
       "notes": "",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "2023-08-03 - Mountain View, CA - Shoreline Amphitheatre.txt"
     },
     {
       "year": 2023,
@@ -22614,9 +23494,10 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "Irvine, CA",
       "venue": "FivePoint Amphitheatre",
-      "notes": "DPA 4081 · faninor",
+      "notes": "DPA 4081 \u00b7 faninor",
       "version": "AUD",
-      "format": "FLAC 24"
+      "format": "FLAC 24",
+      "textFile": "2023-08-09 - Irvine, CA - FivePoint Amphitheatre.txt"
     },
     {
       "year": 2023,
@@ -22627,9 +23508,10 @@ const ARTIST_DATA = {
       "state": "AL",
       "location": "Huntsville, AL",
       "venue": "Orion Amphitheater",
-      "notes": "MP3(M) · Samsung Internal mic · chesterjt",
+      "notes": "MP3(M) \u00b7 Samsung Internal mic \u00b7 chesterjt",
       "version": "AUD #1",
-      "format": "MP3"
+      "format": "MP3",
+      "textFile": "2023-08-17 - Huntsville, AL - Orion Amphitheater.txt"
     },
     {
       "year": 2023,
@@ -22640,9 +23522,10 @@ const ARTIST_DATA = {
       "state": "ON",
       "location": "Ottawa, ON",
       "venue": "Canadian Tire Center",
-      "notes": "iPhone 11 · palm0014",
+      "notes": "iPhone 11 \u00b7 palm0014",
       "version": "AUD",
-      "format": "FLAC 24"
+      "format": "FLAC 24",
+      "textFile": "2023-09-03 - Ottawa, ON - Canadian Tire Center.txt"
     },
     {
       "year": 2023,
@@ -22653,9 +23536,10 @@ const ARTIST_DATA = {
       "state": "IN",
       "location": "Noblesville, IN",
       "venue": "Ruoff Music Center",
-      "notes": "M4A(M) · Samsung Phone · chesterjt",
+      "notes": "M4A(M) \u00b7 Samsung Phone \u00b7 chesterjt",
       "version": "AUD #1",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "2023-09-09 - Noblesville, IN - Ruoff Music Center.txt"
     },
     {
       "year": 2023,
@@ -22666,7 +23550,7 @@ const ARTIST_DATA = {
       "state": "IL",
       "location": "Highland Park, IL",
       "venue": "Madame Zuzu's",
-      "notes": "Siamese · anthony lavado",
+      "notes": "Siamese \u00b7 anthony lavado",
       "version": "WEB",
       "format": "FLAC"
     },
@@ -22692,9 +23576,10 @@ const ARTIST_DATA = {
       "state": "UK",
       "location": "London, UK",
       "venue": "02 Arena",
-      "notes": "WAV(M) · Samsung Galaxy S21 · spaldz",
+      "notes": "WAV(M) \u00b7 Samsung Galaxy S21 \u00b7 spaldz",
       "version": "AUD #1",
-      "format": "FLAC 24"
+      "format": "FLAC 24",
+      "textFile": "2024-06-08 - London, UK - 02 Arena.txt"
     },
     {
       "year": 2024,
@@ -22705,9 +23590,10 @@ const ARTIST_DATA = {
       "state": "Ireland",
       "location": "Dublin, Ireland",
       "venue": "3Arena",
-      "notes": "CA-14 · sabrewulf",
+      "notes": "CA-14 \u00b7 sabrewulf",
       "version": "AUD",
-      "format": "FLAC 24"
+      "format": "FLAC 24",
+      "textFile": "2024-06-10 - Dublin, Ireland - 3Arena.txt"
     },
     {
       "year": 2024,
@@ -22718,9 +23604,10 @@ const ARTIST_DATA = {
       "state": "France",
       "location": "Paris, France",
       "venue": "Accor Arena",
-      "notes": "WAV(M) · Tascam DR-07x · tulum",
+      "notes": "WAV(M) \u00b7 Tascam DR-07x \u00b7 tulum",
       "version": "AUD #1",
-      "format": "FLAC 24"
+      "format": "FLAC 24",
+      "textFile": "2024-06-16 - Paris, FR - Accor Arena.txt"
     },
     {
       "year": 2024,
@@ -22731,7 +23618,7 @@ const ARTIST_DATA = {
       "state": "France",
       "location": "Paris, France",
       "venue": "Accor Arena",
-      "notes": "WAV(M) · OnePlus 10T · tulum",
+      "notes": "WAV(M) \u00b7 OnePlus 10T \u00b7 tulum",
       "version": "AUD #2",
       "format": "FLAC 24"
     },
@@ -22744,7 +23631,7 @@ const ARTIST_DATA = {
       "state": "France",
       "location": "Paris, France",
       "venue": "Accor Arena",
-      "notes": "CA-11 · kurddt",
+      "notes": "CA-11 \u00b7 kurddt",
       "version": "AUD #4",
       "format": "FLAC"
     },
@@ -22757,9 +23644,10 @@ const ARTIST_DATA = {
       "state": "Germany",
       "location": "Moenchengladbach, Germany",
       "venue": "Sparkassenpark",
-      "notes": "CA-11 · metamarc",
+      "notes": "CA-11 \u00b7 metamarc",
       "version": "AUD",
-      "format": "FLAC 24"
+      "format": "FLAC 24",
+      "textFile": "2024-06-19 - Moenchengladbach, Germany - Sparkassenpark.txt"
     },
     {
       "year": 2024,
@@ -22770,7 +23658,7 @@ const ARTIST_DATA = {
       "state": "Germany",
       "location": "Moenchengladbach, Germany",
       "venue": "Sparkassenpark",
-      "notes": "MKV1v · unk",
+      "notes": "MKV1v \u00b7 unk",
       "version": "AUD",
       "format": "FLAC"
     },
@@ -22783,9 +23671,10 @@ const ARTIST_DATA = {
       "state": "AT",
       "location": "Vienna, AT",
       "venue": "Wiener Stadthalle",
-      "notes": "WAV(M) · Samsung Galaxy S21 · spaldz",
+      "notes": "WAV(M) \u00b7 Samsung Galaxy S21 \u00b7 spaldz",
       "version": "AUD #1",
-      "format": "FLAC 24"
+      "format": "FLAC 24",
+      "textFile": "2024-06-24 - Vienna, AT - Wiener Stadthalle.txt"
     },
     {
       "year": 2024,
@@ -22796,9 +23685,10 @@ const ARTIST_DATA = {
       "state": "GR",
       "location": "Piraeus, GR",
       "venue": "Peace and Friendship Stadium",
-      "notes": "WAV(M) · Internal Mics · antonios papantoniou",
+      "notes": "WAV(M) \u00b7 Internal Mics \u00b7 antonios papantoniou",
       "version": "AUD #1",
-      "format": "FLAC 24"
+      "format": "FLAC 24",
+      "textFile": "2024-07-16 - Piraeus, GR - Peace and Friendship Stadium.txt"
     },
     {
       "year": 2024,
@@ -22809,9 +23699,10 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "Ontario, CA",
       "venue": "The KEE to Bala",
-      "notes": "M4A(M) · Samsung S21 · unk",
+      "notes": "M4A(M) \u00b7 Samsung S21 \u00b7 unk",
       "version": "AUD #1",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "2024-07-31 - Ontario, CA - The KEE to Bala.txt"
     },
     {
       "year": 2024,
@@ -22822,9 +23713,10 @@ const ARTIST_DATA = {
       "state": "ON",
       "location": "Toronto, ON",
       "venue": "Rogers Centre",
-      "notes": "M4A(M) · Unknown iPhone · unk",
+      "notes": "M4A(M) \u00b7 Unknown iPhone \u00b7 unk",
       "version": "AUD #1",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "2024-08-01 - Toronto, ON - Rogers Centre.txt"
     },
     {
       "year": 2024,
@@ -22835,9 +23727,10 @@ const ARTIST_DATA = {
       "state": "NY",
       "location": "Flushing, NY",
       "venue": "Citi Field",
-      "notes": "Zoom H1n · peter",
+      "notes": "Zoom H1n \u00b7 peter",
       "version": "AUD #1",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "2024-08-05 - Flushing, NY - Citi Field.txt"
     },
     {
       "year": 2024,
@@ -22848,7 +23741,7 @@ const ARTIST_DATA = {
       "state": "NY",
       "location": "Flushing, NY",
       "venue": "Citi Field",
-      "notes": "DPA 4061 · unk",
+      "notes": "DPA 4061 \u00b7 unk",
       "version": "AUD #2",
       "format": "FLAC 24"
     },
@@ -22861,9 +23754,10 @@ const ARTIST_DATA = {
       "state": "IL",
       "location": "Chicago, IL",
       "venue": "Wrigley Field",
-      "notes": "M4A(M) · Samsung S22+ · chesterjt",
+      "notes": "M4A(M) \u00b7 Samsung S22+ \u00b7 chesterjt",
       "version": "AUD #1",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "2024-08-13 - Chicago, IL - Wrigley Field.txt"
     },
     {
       "year": 2024,
@@ -22874,7 +23768,7 @@ const ARTIST_DATA = {
       "state": "IL",
       "location": "Springfield, IL",
       "venue": "Illinois State Fairgrounds",
-      "notes": "CA-14s · ryan fisher",
+      "notes": "CA-14s \u00b7 ryan fisher",
       "version": "AUD",
       "format": "FLAC"
     },
@@ -22887,9 +23781,10 @@ const ARTIST_DATA = {
       "state": "OH",
       "location": "Cincinnati, OH",
       "venue": "Great American Ball Park",
-      "notes": "CA-14 · live2cd",
+      "notes": "CA-14 \u00b7 live2cd",
       "version": "AUD",
-      "format": "FLAC 24"
+      "format": "FLAC 24",
+      "textFile": "2024-08-22 - Cincinnati, OH - Great American Ball Park.txt"
     },
     {
       "year": 2024,
@@ -22900,9 +23795,10 @@ const ARTIST_DATA = {
       "state": "WI",
       "location": "Milwaukee, WI",
       "venue": "American Family Field",
-      "notes": "CA-14 · unk",
+      "notes": "CA-14 \u00b7 unk",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "2024-08-24 - Milwaukee, WI - American Family Field.txt"
     },
     {
       "year": 2024,
@@ -22915,7 +23811,8 @@ const ARTIST_DATA = {
       "venue": "",
       "notes": "",
       "version": "AUD #1",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "2024-08-30 - Nashville, TN - GEODIS Park.txt"
     },
     {
       "year": 2024,
@@ -22939,9 +23836,10 @@ const ARTIST_DATA = {
       "state": "PA",
       "location": "Pittsburgh, PA",
       "venue": "PNC Park",
-      "notes": "WAV(M) · Google Pixel 3 · plankfan",
+      "notes": "WAV(M) \u00b7 Google Pixel 3 \u00b7 plankfan",
       "version": "AUD #1",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "2024-09-01 - Pittsburgh, PA - PNC Park.txt"
     },
     {
       "year": 2024,
@@ -22952,9 +23850,10 @@ const ARTIST_DATA = {
       "state": "CO",
       "location": "Denver, CO",
       "venue": "Coors Field",
-      "notes": "WAV(M) · CA-14 · 2ndtheory",
+      "notes": "WAV(M) \u00b7 CA-14 \u00b7 2ndtheory",
       "version": "AUD #1",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "2024-09-07 - Denver, CO - Coors Field.txt"
     },
     {
       "year": 2024,
@@ -22965,7 +23864,7 @@ const ARTIST_DATA = {
       "state": "CO",
       "location": "Denver, CO",
       "venue": "Coors Field",
-      "notes": "WAV(M) · Internal Mics · 2ndtheory",
+      "notes": "WAV(M) \u00b7 Internal Mics \u00b7 2ndtheory",
       "version": "AUD #2",
       "format": "FLAC"
     },
@@ -22978,9 +23877,10 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "Inglwood, CA",
       "venue": "SoFi Stadium",
-      "notes": "WAV(M) · SP-CMC-4U · ijwthstd",
+      "notes": "WAV(M) \u00b7 SP-CMC-4U \u00b7 ijwthstd",
       "version": "AUD #1",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "2024-09-14 - Inglewood, CA - SoFi Stadium.txt"
     },
     {
       "year": 2024,
@@ -22991,7 +23891,7 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "Inglwood, CA",
       "venue": "SoFi Stadium",
-      "notes": "VIP · Samsung S23 · smokemonster",
+      "notes": "VIP \u00b7 Samsung S23 \u00b7 smokemonster",
       "version": "AUD #2",
       "format": "FLAC"
     },
@@ -23004,7 +23904,7 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "Inglewood, CA",
       "venue": "SoFi Stadium",
-      "notes": "DPA 4081 · faninor",
+      "notes": "DPA 4081 \u00b7 faninor",
       "version": "AUD",
       "format": "FLAC 24"
     },
@@ -23017,9 +23917,10 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "San Francisco, CA",
       "venue": "Oracle Park",
-      "notes": "Schoeps MK4 · loughney",
+      "notes": "Schoeps MK4 \u00b7 loughney",
       "version": "AUD",
-      "format": "FLAC 24"
+      "format": "FLAC 24",
+      "textFile": "2024-09-20 - San Francisco, CA - Oracle Park.txt"
     },
     {
       "year": 2024,
@@ -23030,9 +23931,10 @@ const ARTIST_DATA = {
       "state": "AR",
       "location": "Buenos Aires, AR",
       "venue": "Movistar Arena",
-      "notes": "WAV(M) · iPhone 15 Pro Max · leandro cabo",
+      "notes": "WAV(M) \u00b7 iPhone 15 Pro Max \u00b7 leandro cabo",
       "version": "AUD #1",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "2024-11-05 - Buenos Aires, AR - Movistar Arena.txt"
     },
     {
       "year": 2024,
@@ -23043,9 +23945,10 @@ const ARTIST_DATA = {
       "state": "IL",
       "location": "Chicago, IL",
       "venue": "Aragon Ballroom",
-      "notes": "WAV(M) · Shure MV88 · derrick",
+      "notes": "WAV(M) \u00b7 Shure MV88 \u00b7 derrick",
       "version": "AUD #1",
-      "format": "FLAC 24"
+      "format": "FLAC 24",
+      "textFile": "2024-12-12 - Chicago, IL - Aragon Ballroom.txt"
     },
     {
       "year": 2025,
@@ -23056,9 +23959,10 @@ const ARTIST_DATA = {
       "state": "BG",
       "location": "Plovdiv, BG",
       "venue": "Rowing Canal",
-      "notes": "WAV(M) · SP-CMC-4U · spaldz",
+      "notes": "WAV(M) \u00b7 SP-CMC-4U \u00b7 spaldz",
       "version": "AUD #1",
-      "format": "FLAC 24"
+      "format": "FLAC 24",
+      "textFile": "2025-07-27 - Plovdiv, BG - Rowing Canal.txt"
     },
     {
       "year": 2025,
@@ -23069,9 +23973,10 @@ const ARTIST_DATA = {
       "state": "IT",
       "location": "Roma, IT",
       "venue": "Ippodromo delle Capannelle",
-      "notes": "Rock · IEM + AT943 · alessio",
+      "notes": "Rock \u00b7 IEM + AT943 \u00b7 alessio",
       "version": "MIX",
-      "format": "FLAC 24"
+      "format": "FLAC 24",
+      "textFile": "2025-08-01 - Roma, IT - Ippodromo delle Capannelle - Rock in Roma 2025.txt"
     },
     {
       "year": 2025,
@@ -23082,9 +23987,10 @@ const ARTIST_DATA = {
       "state": "DE",
       "location": "Berlin, DE",
       "venue": "Zitadelle Spandau",
-      "notes": "WAV(M) · CSBs · spaldz",
+      "notes": "WAV(M) \u00b7 CSBs \u00b7 spaldz",
       "version": "AUD #1",
-      "format": "FLAC 24"
+      "format": "FLAC 24",
+      "textFile": "2025-08-06 - Berlin, DE - Zitadelle Spandau.txt"
     },
     {
       "year": 2025,
@@ -23095,7 +24001,7 @@ const ARTIST_DATA = {
       "state": "DE",
       "location": "Berlin, DE",
       "venue": "Zitadelle Spandau",
-      "notes": "Sony ECM-MS907 · w.",
+      "notes": "Sony ECM-MS907 \u00b7 w.",
       "version": "AUD",
       "format": "FLAC"
     },
@@ -23108,9 +24014,10 @@ const ARTIST_DATA = {
       "state": "UK",
       "location": "London, UK",
       "venue": "Gunnersbury Park",
-      "notes": "WAV(M) · CSBs · spaldz",
+      "notes": "WAV(M) \u00b7 CSBs \u00b7 spaldz",
       "version": "AUD #1",
-      "format": "FLAC 24"
+      "format": "FLAC 24",
+      "textFile": "2025-08-10 - London, UK - Gunnersbury Park.txt"
     },
     {
       "year": 2025,
@@ -23121,9 +24028,10 @@ const ARTIST_DATA = {
       "state": "UK",
       "location": "Halifax, UK",
       "venue": "The Piece Hall",
-      "notes": "WAV(M) · SP-CMC-4U · spaldz",
+      "notes": "WAV(M) \u00b7 SP-CMC-4U \u00b7 spaldz",
       "version": "AUD #1",
-      "format": "FLAC 24"
+      "format": "FLAC 24",
+      "textFile": "2025-08-12 - Halifax, UK - The Piece Hall.txt"
     },
     {
       "year": 2025,
@@ -23134,9 +24042,10 @@ const ARTIST_DATA = {
       "state": "UK",
       "location": "Scarborough, UK",
       "venue": "Open Air Theatre",
-      "notes": "WAV(M) · SP-CMC-4U · spaldz",
+      "notes": "WAV(M) \u00b7 SP-CMC-4U \u00b7 spaldz",
       "version": "AUD #1",
-      "format": "FLAC 24"
+      "format": "FLAC 24",
+      "textFile": "2025-08-13 - Scarborough, UK - Open Air Theatre.txt"
     },
     {
       "year": 2025,
@@ -23147,7 +24056,21 @@ const ARTIST_DATA = {
       "state": "Denmark",
       "location": "Copenhagen, Denmark",
       "venue": "Store Vega",
-      "notes": "WAV(M) · CA-14 · nielsen81",
+      "notes": "WAV(M) \u00b7 CA-14 \u00b7 nielsen81",
+      "version": "AUD",
+      "format": "FLAC",
+      "textFile": "2025-08-18 - Copenhagen, DK - Store Vega.txt"
+    },
+    {
+      "year": 2025,
+      "month": 8,
+      "day": 18,
+      "dateStr": "8-18-2025",
+      "city": "Copenhagen",
+      "state": "Denmark",
+      "location": "Copenhagen, Denmark",
+      "venue": "Store Vega",
+      "notes": "Sony ECM CS-10 \u00b7 unk",
       "version": "AUD",
       "format": "FLAC"
     },
@@ -23160,20 +24083,7 @@ const ARTIST_DATA = {
       "state": "Denmark",
       "location": "Copenhagen, Denmark",
       "venue": "Store Vega",
-      "notes": "Sony ECM CS-10 · unk",
-      "version": "AUD",
-      "format": "FLAC"
-    },
-    {
-      "year": 2025,
-      "month": 8,
-      "day": 18,
-      "dateStr": "8-18-2025",
-      "city": "Copenhagen",
-      "state": "Denmark",
-      "location": "Copenhagen, Denmark",
-      "venue": "Store Vega",
-      "notes": "DPA 4061 · tw",
+      "notes": "DPA 4061 \u00b7 tw",
       "version": "AUD",
       "format": "FLAC"
     },
@@ -23186,9 +24096,10 @@ const ARTIST_DATA = {
       "state": "Sweden",
       "location": "Stockholm, Sweden",
       "venue": "Grona Lund",
-      "notes": "SP-CMC-4U · qew",
+      "notes": "SP-CMC-4U \u00b7 qew",
       "version": "AUD",
-      "format": "FLAC 24"
+      "format": "FLAC 24",
+      "textFile": "2025-08-20 - Stockholm, SWE - Gro\u0308na Lund.txt"
     },
     {
       "year": 2025,
@@ -23199,9 +24110,10 @@ const ARTIST_DATA = {
       "state": "Iceland",
       "location": "Reykjavik, Iceland",
       "venue": "Laugardalsholl",
-      "notes": "AT831s · ko",
+      "notes": "AT831s \u00b7 ko",
       "version": "AUD #1",
-      "format": "FLAC 24"
+      "format": "FLAC 24",
+      "textFile": "2025-08-26 - Reykjavik, Iceland - Laugardalsholl.txt"
     },
     {
       "year": 2025,
@@ -23212,9 +24124,10 @@ const ARTIST_DATA = {
       "state": "PH",
       "location": "Quezon City, PH",
       "venue": "Smart Araneta Coliseum",
-      "notes": "WAV(M) · Zoom H1 · pandapearl",
+      "notes": "WAV(M) \u00b7 Zoom H1 \u00b7 pandapearl",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "2025-09-29 - Quezon City, PH - Smart Araneta Coliseum.txt"
     },
     {
       "year": 1988,
@@ -23368,7 +24281,7 @@ const ARTIST_DATA = {
       "state": "NY",
       "location": "New York, NY",
       "venue": "WNYU Radio",
-      "notes": "Interview on NAS · Audio",
+      "notes": "Interview on NAS \u00b7 Audio",
       "version": "",
       "format": "MP4"
     },
@@ -23420,7 +24333,7 @@ const ARTIST_DATA = {
       "state": "NL",
       "location": "Rotterdam, NL",
       "venue": "De Doelen",
-      "notes": "Silverfuck · Pro-shot TV Performance",
+      "notes": "Silverfuck \u00b7 Pro-shot TV Performance",
       "version": "",
       "format": "MP4"
     }

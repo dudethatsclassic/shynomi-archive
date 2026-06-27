@@ -25,7 +25,8 @@ const ARTIST_DATA = {
       "venue": "Promowest Pavilion",
       "notes": "unk",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "2005-04-23 - Columbus, OH - Promowest Pavilion (unk) [AUD].txt"
     },
     {
       "year": 2008,
@@ -36,9 +37,10 @@ const ARTIST_DATA = {
       "state": "CT",
       "location": "Ledyard, CT",
       "venue": "Foxwoods Casino",
-      "notes": "ECM 719 · unk",
+      "notes": "ECM 719 \u00b7 unk",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "2008-10-05 - Ledyard, CT - Foxwoods Casino (ECM 719) (unk) [AUD].txt"
     },
     {
       "year": 2009,
@@ -49,9 +51,10 @@ const ARTIST_DATA = {
       "state": "NY",
       "location": "Manaroneck, NY",
       "venue": "ACM Studios",
-      "notes": "Internet Radio Broadcast · saltshaker",
+      "notes": "Internet Radio Broadcast \u00b7 saltshaker",
       "version": "SBD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "2009-09-05 - Manaroneck, NY - ACM Studios (Internet Radio Broadcast) (saltshaker) [SBD].txt"
     },
     {
       "year": 2014,
@@ -62,9 +65,10 @@ const ARTIST_DATA = {
       "state": "NY",
       "location": "Niagara Falls, NY",
       "venue": "Events Center",
-      "notes": "Seneca · AT835 · richard s. binko",
+      "notes": "Seneca \u00b7 AT835 \u00b7 richard s. binko",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "2014-05-10 - Niagara Falls - NY Events Center - Seneca Niagara Casino (AT835) (richard s. binko) [AUD].txt"
     },
     {
       "year": 2016,
@@ -77,7 +81,8 @@ const ARTIST_DATA = {
       "venue": "Molson Amphitheatre (CSB) (burnboy) Rec 1",
       "notes": "",
       "version": "AUD",
-      "format": "FLAC 24"
+      "format": "FLAC 24",
+      "textFile": "2016-08-26 - Toronto, ON - Molson Amphitheatre (Rec 2) (SP-CMC08) (burnboy) [AUD24].txt"
     },
     {
       "year": 2016,
@@ -101,9 +106,10 @@ const ARTIST_DATA = {
       "state": "NC",
       "location": "Charlotte, NC",
       "venue": "Evans Auditorium",
-      "notes": "IEM Matrix · univonc",
+      "notes": "IEM Matrix \u00b7 univonc",
       "version": "MIX",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "2019-12-13 - Charlotte, NC - Evans Auditorium (IEM Matrix) (univonc) [MIX].txt"
     }
   ],
   "misc": []

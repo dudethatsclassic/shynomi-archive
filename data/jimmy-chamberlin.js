@@ -22,7 +22,8 @@ const ARTIST_DATA = {
       "venue": "Lincoln Center",
       "notes": "Drum",
       "version": "",
-      "format": "SHN"
+      "format": "SHN",
+      "textFile": "2003-08-12 - Fort Collins, CO -  Lincoln Center - Drum Clinic.txt"
     },
     {
       "year": 2005,
@@ -35,7 +36,8 @@ const ARTIST_DATA = {
       "venue": "The Paradise Lounge",
       "notes": "gretchen morguean",
       "version": "AUD",
-      "format": "SHN"
+      "format": "SHN",
+      "textFile": "2005-01-18 - Boston, MA - The Paradise Lounge (gretchen morguean) [AUD].txt"
     },
     {
       "year": 2005,
@@ -48,7 +50,8 @@ const ARTIST_DATA = {
       "venue": "World Cafe",
       "notes": "Real Player",
       "version": "WEB",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "2005-01-20 - Philadelphia, PA - World Cafe (Real Player) [WEB].txt"
     },
     {
       "year": 2005,
@@ -59,9 +62,10 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "Hollywood, CA",
       "venue": "Knitting Factory",
-      "notes": "DAT(M) · DPA 4061 · ed davis",
+      "notes": "DAT(M) \u00b7 DPA 4061 \u00b7 ed davis",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "2005-01-24 - Hollywood, CA - Knitting Factory - DAT(M) (DPA 4061) (ed davis) [AUD].txt"
     },
     {
       "year": 2005,
@@ -74,7 +78,8 @@ const ARTIST_DATA = {
       "venue": "WXRT Studios",
       "notes": "Interview",
       "version": "WEB",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "2005-01-27 - Chicago, IL - WXRT Studios (Interview) [WEB].txt"
     },
     {
       "year": 2005,
@@ -87,7 +92,8 @@ const ARTIST_DATA = {
       "venue": "Mighty Morning Show",
       "notes": "Indie 103.1",
       "version": "FM",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "2005-02-07 - Los Angeles, CA - Mighty Morning Show (Indie 103.1) [FM].txt"
     },
     {
       "year": 2005,
@@ -100,7 +106,8 @@ const ARTIST_DATA = {
       "venue": "World Cafe",
       "notes": "Sony",
       "version": "WEB",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "2005-02-24 - Los Angeles, CA - World Cafe - Sony Music Studio [WEB].txt"
     },
     {
       "year": 2005,
@@ -111,9 +118,10 @@ const ARTIST_DATA = {
       "state": "TX",
       "location": "Austin, TX",
       "venue": "Cream Vintage",
-      "notes": "DAT(M) · DSM-6S · brian graves",
+      "notes": "DAT(M) \u00b7 DSM-6S \u00b7 brian graves",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "2005-03-17 - Austin, TX - Cream Vintage - DAT(M) (DSM-6S) (brian graves) [AUD].txt"
     },
     {
       "year": 2005,
@@ -124,9 +132,10 @@ const ARTIST_DATA = {
       "state": "PA",
       "location": "Philadelphia, PA",
       "venue": "North Star Bar",
-      "notes": "MD(M) · AT PRO-95 · dan saytar",
+      "notes": "MD(M) \u00b7 AT PRO-95 \u00b7 dan saytar",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "2005-05-03 - Philadelphia, PA - North Star Bar - MD(M) (AT PRO-95) (dan saytar) [AUD].txt"
     },
     {
       "year": 2005,
@@ -139,7 +148,8 @@ const ARTIST_DATA = {
       "venue": "XM Studios",
       "notes": "Iinterview",
       "version": "FM",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "2005-05-04 - New York City, NY - XM Studios (Iinterview) [FM].txt"
     },
     {
       "year": 2005,
@@ -150,9 +160,10 @@ const ARTIST_DATA = {
       "state": "D.C.",
       "location": "Washington, D.C.",
       "venue": "DC9",
-      "notes": "CSB · john riviello",
+      "notes": "CSB \u00b7 john riviello",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "2005-05-05 - Washington, D.C. - DC9 (CSB) (john riviello) [AUD].txt"
     },
     {
       "year": 2005,
@@ -165,7 +176,8 @@ const ARTIST_DATA = {
       "venue": "The Bottleneck",
       "notes": "MD Sony MZ-R700",
       "version": "AUD",
-      "format": "SHN"
+      "format": "SHN",
+      "textFile": "2005-05-14 - Lawrence, KS - The Bottleneck (MD Sony MZ-R700) [AUD].txt"
     },
     {
       "year": 2005,
@@ -178,7 +190,8 @@ const ARTIST_DATA = {
       "venue": "Meridian",
       "notes": "Binaural Stereo mics",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "2005-05-16 - Houston, TX - Meridian (Binaural Stereo mics) [AUD].txt"
     },
     {
       "year": 2005,
@@ -189,9 +202,10 @@ const ARTIST_DATA = {
       "state": "Belgium",
       "location": "Kiewit, Belgium",
       "venue": "Pukkelpop Festival",
-      "notes": "Kempische · M · OKM-IIR",
+      "notes": "Kempische \u00b7 M \u00b7 OKM-IIR",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "2005-08-19 - Kiewit, Belgium - Pukkelpop Festival, Kempische Steenweg [AUD].txt"
     },
     {
       "year": 2005,
@@ -204,7 +218,8 @@ const ARTIST_DATA = {
       "venue": "Vic Theatre",
       "notes": "",
       "version": "PRO",
-      "format": "DVD"
+      "format": "DVD",
+      "textFile": "2005-09-18 - Chicago, IL - Vic Theater (Pro-shot) [DVD].txt"
     },
     {
       "year": 2024,
@@ -215,9 +230,10 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "Los Angeles, CA",
       "venue": "El Rey",
-      "notes": "DPA 4063 · dabbler",
+      "notes": "DPA 4063 \u00b7 dabbler",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "2024-03-12 - Los Angeles, CA - El Rey (DPA 4063) (dabbler) [AUD].txt"
     }
   ],
   "misc": [

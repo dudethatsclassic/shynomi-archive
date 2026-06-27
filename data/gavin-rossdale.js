@@ -19,9 +19,10 @@ const ARTIST_DATA = {
       "state": "OH",
       "location": "Cleveland, OH",
       "venue": "House of Blues",
-      "notes": "Edirol R-09 · live2cd",
+      "notes": "Edirol R-09 \u00b7 live2cd",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "2009-05-07 - Cleveland, OH - House of Blues (Edirol R-09) (live2cd) [AUD].txt"
     },
     {
       "year": 2009,
@@ -32,9 +33,10 @@ const ARTIST_DATA = {
       "state": "TN",
       "location": "Knoxville, TN",
       "venue": "Market Square",
-      "notes": "CSBs · xjsb125",
+      "notes": "CSBs \u00b7 xjsb125",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "2009-05-14 - Knoxville, TN - Market Square (CSBs) (xjsb125) [AUD].txt"
     },
     {
       "year": 2009,
@@ -45,9 +47,10 @@ const ARTIST_DATA = {
       "state": "TX",
       "location": "Dallas, TX",
       "venue": "House of Blues",
-      "notes": "Edirol R-09 · live2cd",
+      "notes": "Edirol R-09 \u00b7 live2cd",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "2009-05-25 - Dallas, TX - House of Blues (Edirol R-09) (live2cd) [AUD].txt"
     },
     {
       "year": 2010,
@@ -60,7 +63,8 @@ const ARTIST_DATA = {
       "venue": "",
       "notes": "",
       "version": "AUD",
-      "format": "FLAC 24"
+      "format": "FLAC 24",
+      "textFile": "2010-06-26 - Chicago, IL - Petrillo Band Shell [AUD24].txt"
     },
     {
       "year": 2010,
@@ -71,9 +75,10 @@ const ARTIST_DATA = {
       "state": "WI",
       "location": "Milwaukee, WI",
       "venue": "Summerfest",
-      "notes": "Sony PCM-M10 · auger_d",
+      "notes": "Sony PCM-M10 \u00b7 auger_d",
       "version": "AUD",
-      "format": "FLAC 24"
+      "format": "FLAC 24",
+      "textFile": "2010-06-28 - Milwaukee, WI - Summerfest [AUD24].txt"
     }
   ],
   "misc": []

@@ -18,9 +18,10 @@ const ARTIST_DATA = {
       "state": "Germany",
       "location": "Cologne, Germany",
       "venue": "Gloria Theater",
-      "notes": "Sony ECM-CS10 · unk",
+      "notes": "Sony ECM-CS10 \u00b7 unk",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "2007-06-13 - Cologne, Germany - Gloria Theater (Delores O'Riordan) (Sony ECM-CS10) (unk) [AUD].txt"
     },
     {
       "year": 2007,
@@ -33,7 +34,8 @@ const ARTIST_DATA = {
       "venue": "Avalon",
       "notes": "bennyblanco",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "2007-07-09 - Boston, MA - Avalon (Dolores O' Riordian) [AUD].txt"
     },
     {
       "year": 2007,
@@ -46,7 +48,8 @@ const ARTIST_DATA = {
       "venue": "WXPN Studio",
       "notes": "World",
       "version": "FM",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "2007-08-16 - Philadelphia, PA - WXPN Studio - World Cafe (Dolores O'Riordan) [FM].txt"
     },
     {
       "year": 2007,
@@ -59,7 +62,8 @@ const ARTIST_DATA = {
       "venue": "FMM 100 Studios",
       "notes": "",
       "version": "WEB",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "2007-08-20 - Buenos Aires, Argentina - FMM 100 Studios (Dolores O'Riordan) [WEB].txt"
     }
   ],
   "misc": []

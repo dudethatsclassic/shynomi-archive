@@ -25,7 +25,8 @@ const ARTIST_DATA = {
       "venue": "Mwandishi NDR Studios",
       "notes": "",
       "version": "FM",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1971-08-04 - Hamburg, Germany - Mwandishi NDR Studios [FM].txt"
     },
     {
       "year": 1973,
@@ -38,7 +39,8 @@ const ARTIST_DATA = {
       "venue": "Strata Art Gallery",
       "notes": "Goody's Speed-Pitch Adjusted",
       "version": "SBD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1973-02-20 - Detroit, MI - Strata Art Gallery (Goody's Speed-Pitch Adjusted) [SBD].txt"
     },
     {
       "year": 1973,
@@ -49,9 +51,10 @@ const ARTIST_DATA = {
       "state": "MA",
       "location": "Boston, MA",
       "venue": "Mwandishi Band",
-      "notes": "Jazz · WBCN FM",
+      "notes": "Jazz \u00b7 WBCN FM",
       "version": "FM",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1973-03-21 - Boston, MA - Mwandishi Band - Jazz Workshop [FM].txt"
     },
     {
       "year": 1973,
@@ -62,9 +65,10 @@ const ARTIST_DATA = {
       "state": "NY",
       "location": "Hempstead, NY",
       "venue": "Ultrasonic Studios",
-      "notes": "mr_mags · goody pitch adjusted",
+      "notes": "mr_mags \u00b7 goody pitch adjusted",
       "version": "FM",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1973-10-01 - Hempstead, NY - Ultrasonic Studios (mr_mags) (goody pitch adjusted) [FM].txt"
     },
     {
       "year": 1973,
@@ -77,7 +81,8 @@ const ARTIST_DATA = {
       "venue": "Fairfield Theatre",
       "notes": "",
       "version": "FM",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1973-10-28 - East Lansing, MI - Fairfield Theatre [FM].txt"
     },
     {
       "year": 1974,
@@ -90,7 +95,8 @@ const ARTIST_DATA = {
       "venue": "Uptown Theater",
       "notes": "ldb",
       "version": "FM",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1974-10-16 - Kansas City, MO - Uptown Theater  [FM].txt"
     },
     {
       "year": 1974,
@@ -103,7 +109,8 @@ const ARTIST_DATA = {
       "venue": "Sendesaal Radio",
       "notes": "",
       "version": "FM",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1974-11-06 - Bremen, Germany - Sendesaal Radio [FM].txt"
     },
     {
       "year": 1974,
@@ -129,7 +136,8 @@ const ARTIST_DATA = {
       "venue": "",
       "notes": "",
       "version": "SBD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1975-06-28 - Minneapolis, MN [SBD].txt"
     },
     {
       "year": 1975,
@@ -142,7 +150,8 @@ const ARTIST_DATA = {
       "venue": "Omaha Civic Auditorium Music Hall",
       "notes": "jeff j.",
       "version": "FM",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1975-11-17 - Omaha, NE - Omaha Civic Auditorium Music Hall [FM].txt"
     },
     {
       "year": 1977,
@@ -155,7 +164,8 @@ const ARTIST_DATA = {
       "venue": "Ivanhoe Theater",
       "notes": "",
       "version": "FM",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1977-02-16 - Chicago, IL - Ivanhoe Theater (with Jaco Pastorius} [FM].txt"
     },
     {
       "year": 1977,
@@ -179,7 +189,7 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "Berkeley, CA",
       "venue": "Greek Theatre",
-      "notes": "VSOP · Hubbard, Shorter, Williams, Carter",
+      "notes": "VSOP \u00b7 Hubbard, Shorter, Williams, Carter",
       "version": "FM",
       "format": "FLAC"
     },
@@ -194,7 +204,8 @@ const ARTIST_DATA = {
       "venue": "Sunpalace Hall",
       "notes": "",
       "version": "SBD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1987-09-09 - Fukuoka, Japan - Sunpalace Hall [SBD].txt"
     }
   ],
   "misc": []

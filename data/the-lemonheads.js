@@ -36,9 +36,10 @@ const ARTIST_DATA = {
       "state": "Germany",
       "location": "Gammelsdorf, Germany",
       "venue": "Zirkus",
-      "notes": "ANA(1) · unk · mark l.",
+      "notes": "ANA(1) \u00b7 unk \u00b7 mark l.",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1989-06-16 - Gammelsdorf, Germany - Zirkus - ANA(1) (unk) (mark l.) [AUD].txt"
     },
     {
       "year": 1989,
@@ -51,7 +52,8 @@ const ARTIST_DATA = {
       "venue": "Berkeley Square",
       "notes": "",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1989-08-29 - Berkeley, CA - Berkeley Square [AUD].txt"
     },
     {
       "year": 1989,
@@ -64,7 +66,8 @@ const ARTIST_DATA = {
       "venue": "Club Lingerie",
       "notes": "jems 2021 transfer",
       "version": "SBD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1989-09-02 - Los Angeles, CA - Club Lingerie (jems 2021 transfer) [SBD].txt"
     },
     {
       "year": 1990,
@@ -77,7 +80,8 @@ const ARTIST_DATA = {
       "venue": "MIT Student Center",
       "notes": "",
       "version": "FM",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1990-04-05 - Cambridge, MA - MIT Student Center [FM].txt"
     },
     {
       "year": 1990,
@@ -88,9 +92,10 @@ const ARTIST_DATA = {
       "state": "Germany",
       "location": "Uebach Palenberg, Germany",
       "venue": "Rockfabrik",
-      "notes": "ANA(1) · unk · bobfather",
+      "notes": "ANA(1) \u00b7 unk \u00b7 bobfather",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1990-05-28 - Uebach Palenberg, Germany - Rockfabrik - ANA(1) (unk) (bobfather) [AUD].txt"
     },
     {
       "year": 1991,
@@ -103,7 +108,8 @@ const ARTIST_DATA = {
       "venue": "Marquee",
       "notes": "",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1991-05-11 - New York, NY - Marquee [AUD].txt"
     },
     {
       "year": 1992,
@@ -129,7 +135,8 @@ const ARTIST_DATA = {
       "venue": "Loppen",
       "notes": "PC62",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1992-09-06 - Copenhagen, Denmark - Loppen (PC62) [AUD].txt"
     },
     {
       "year": 1992,
@@ -142,7 +149,8 @@ const ARTIST_DATA = {
       "venue": "Batschkapp",
       "notes": "buenaventura",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1992-09-13 - Frankfurt, Germany - Batschkapp (buenaventura) [AUD].txt"
     },
     {
       "year": 1992,
@@ -155,7 +163,8 @@ const ARTIST_DATA = {
       "venue": "London Astoria",
       "notes": "",
       "version": "SBD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1992-10-15 - London, England - London Astoria [SBD].txt"
     },
     {
       "year": 1992,
@@ -168,7 +177,8 @@ const ARTIST_DATA = {
       "venue": "Foelinger Auditorium",
       "notes": "University",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1992-11-11 - Urbana, IL - Foelinger Auditorium - University of Illinois [AUD].txt"
     },
     {
       "year": 1992,
@@ -179,9 +189,10 @@ const ARTIST_DATA = {
       "state": "IL",
       "location": "Chicago, IL",
       "venue": "Riviera",
-      "notes": "ECM-S220 · jb",
+      "notes": "ECM-S220 \u00b7 jb",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1992-11-13 - Chicago, IL - Riviera (ECM-S220) (jb) [AUD].txt"
     },
     {
       "year": 1992,
@@ -192,7 +203,7 @@ const ARTIST_DATA = {
       "state": "IL",
       "location": "Chicago, IL",
       "venue": "Riviera",
-      "notes": "ECM-S220 · jb",
+      "notes": "ECM-S220 \u00b7 jb",
       "version": "AUD",
       "format": "FLAC"
     },
@@ -207,7 +218,8 @@ const ARTIST_DATA = {
       "venue": "Sheffield Leadmill",
       "notes": "",
       "version": "FM",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1993-04-08 - Sheffield, England - Sheffield Leadmill [FM].txt"
     },
     {
       "year": 1993,
@@ -233,7 +245,8 @@ const ARTIST_DATA = {
       "venue": "Glastonbury Festival",
       "notes": "",
       "version": "FM",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1993-06-24 - Glastonbury, England - Glastonbury Festival [FM].txt"
     },
     {
       "year": 1993,
@@ -246,7 +259,8 @@ const ARTIST_DATA = {
       "venue": "Tower Records",
       "notes": "",
       "version": "FM",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1993-10-18 - Chicago, IL - Tower Records [FM].txt"
     },
     {
       "year": 1993,
@@ -257,9 +271,10 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "Santa Monica, CA",
       "venue": "McCabe's Guitar Shop (Evan Dando Acoustic Show) (Late Show)",
-      "notes": "DAT(M) · SS-DSM-6P · jems",
+      "notes": "DAT(M) \u00b7 SS-DSM-6P \u00b7 jems",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1993-11-06  - Santa Monica, CA - McCabe's Guitar Shop (Acoustic Show) (Late Show) - DAT(M) (SS-DSM-6P) (jems) [AUD].txt"
     },
     {
       "year": 1993,
@@ -272,7 +287,8 @@ const ARTIST_DATA = {
       "venue": "Tower Records",
       "notes": "",
       "version": "SBD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1993-11-18 - Chicago, IL - Tower Records [SBD].txt"
     },
     {
       "year": 1993,
@@ -298,7 +314,8 @@ const ARTIST_DATA = {
       "venue": "",
       "notes": "",
       "version": "Silver CD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1993-12-01 - Suck On This [Silver].txt"
     },
     {
       "year": 1993,
@@ -311,7 +328,8 @@ const ARTIST_DATA = {
       "venue": "Universal Amphitheatre",
       "notes": "",
       "version": "FM",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1993-12-11 - Universal City, CA - Universal Amphitheatre [FM].txt"
     },
     {
       "year": 1994,
@@ -335,9 +353,10 @@ const ARTIST_DATA = {
       "state": "NY",
       "location": "New York, NY",
       "venue": "Kiamesha Lake",
-      "notes": "DAT(x) · gary watson transfer",
+      "notes": "DAT(x) \u00b7 gary watson transfer",
       "version": "SBD #1",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1994-03-20 - New York, NY - Kiamesha Lake [AUD].txt"
     },
     {
       "year": 1994,
@@ -350,7 +369,8 @@ const ARTIST_DATA = {
       "venue": "Petrillo Band Shell",
       "notes": "Grant",
       "version": "FM",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1994-07-04 - Chicago, IL - Petrillo Band Shell - Grant Park [FM].txt"
     },
     {
       "year": 1996,
@@ -363,7 +383,8 @@ const ARTIST_DATA = {
       "venue": "Astoria",
       "notes": "1Live",
       "version": "FM",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1996-10-03 - London, UK - Astoria - 1Live Radio Concert [FM].txt"
     },
     {
       "year": 1996,
@@ -376,7 +397,8 @@ const ARTIST_DATA = {
       "venue": "Tramps",
       "notes": "",
       "version": "FM",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1996-10-28 - New York, NY - Tramps [FM].txt"
     },
     {
       "year": 1996,
@@ -389,7 +411,8 @@ const ARTIST_DATA = {
       "venue": "Starfish Room",
       "notes": "",
       "version": "FM",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1996-11-13 - Vancouver, BC - Starfish Room [FM].txt"
     },
     {
       "year": 1997,
@@ -400,9 +423,10 @@ const ARTIST_DATA = {
       "state": "Australia",
       "location": "Perth, Australia",
       "venue": "Mudslinger Festival",
-      "notes": "Murdoch · M · Sony ECM-909a · franger",
+      "notes": "Murdoch \u00b7 M \u00b7 Sony ECM-909a \u00b7 franger",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1997-01-04 - Perth, Australia - Mudslinger Festival - Murdoch University (M) (Sony ECM-909a) (franger) [AUD].txt"
     },
     {
       "year": 1997,
@@ -415,7 +439,8 @@ const ARTIST_DATA = {
       "venue": "9:30 Club",
       "notes": "",
       "version": "SBD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1997-02-22 - Washington, DC - 930 Club [SBD].txt"
     },
     {
       "year": 2005,
@@ -428,7 +453,8 @@ const ARTIST_DATA = {
       "venue": "Sheperds Bush Empire",
       "notes": "2nd Night",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "2005-09-15 - London, UK - Sheperds Bush Empire (2nd Night) [AUD].txt"
     },
     {
       "year": 2005,
@@ -441,7 +467,8 @@ const ARTIST_DATA = {
       "venue": "Bowery Ballroom",
       "notes": "",
       "version": "AUD",
-      "format": ""
+      "format": "",
+      "textFile": "2005-12-16 - New York, NY - Bowery Ballroom [AUD].txt"
     },
     {
       "year": 2006,
@@ -454,7 +481,8 @@ const ARTIST_DATA = {
       "venue": "UEA",
       "notes": "",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "2006-10-05 - Norwich, England - UEA [AUD].txt"
     },
     {
       "year": 2007,
@@ -467,7 +495,8 @@ const ARTIST_DATA = {
       "venue": "The Parish",
       "notes": "House",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "2007-02-06 - New Orleans, LA - The Parish - House of Blues [AUD].txt"
     },
     {
       "year": 2007,
@@ -480,7 +509,8 @@ const ARTIST_DATA = {
       "venue": "Highline Ballroom",
       "notes": "",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "2007-12-21 - New York, NY - Highline Ballroom [AUD].txt"
     },
     {
       "year": 2009,
@@ -491,9 +521,10 @@ const ARTIST_DATA = {
       "state": "England",
       "location": "London, England",
       "venue": "The Macbeth (Evan Dando)",
-      "notes": "WAV(M) · gary watson",
+      "notes": "WAV(M) \u00b7 gary watson",
       "version": "AUD",
-      "format": "FLAC 24"
+      "format": "FLAC 24",
+      "textFile": "2009-05-13 - London, England - The Macbeth (Evan Dando) - WAV(M) (gary watson) (24bit) [SBD #1].txt"
     },
     {
       "year": 2012,
@@ -506,7 +537,8 @@ const ARTIST_DATA = {
       "venue": "The Black Sheep",
       "notes": "",
       "version": "MTX",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "2012-02-01 - Colorado Springs, CO - The Black Sheep [MTX].txt"
     },
     {
       "year": 2019,
@@ -517,9 +549,10 @@ const ARTIST_DATA = {
       "state": "CT",
       "location": "Faiffield, CT",
       "venue": "The Warehouse",
-      "notes": "Edirol R-7 · lucca",
+      "notes": "Edirol R-7 \u00b7 lucca",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "2019-05-02 - Faiffield, CT - The Warehouse (Edirol R-7) (lucca) [AUD].txt"
     },
     {
       "year": 2019,
@@ -530,9 +563,10 @@ const ARTIST_DATA = {
       "state": "Australia",
       "location": "Brisbane, Australia",
       "venue": "The Zoo",
-      "notes": "CA-11s · audiowhore",
+      "notes": "CA-11s \u00b7 audiowhore",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "2019-12-11 - Brisbane, Australia - The Zoo (CA-11s) (audiowhore) [AUD].txt"
     },
     {
       "year": 2021,
@@ -543,9 +577,10 @@ const ARTIST_DATA = {
       "state": "WI",
       "location": "Milwaukee, WI",
       "venue": "Generac Power Stage",
-      "notes": "Summerfest · Edirol R-07 · lucca",
+      "notes": "Summerfest \u00b7 Edirol R-07 \u00b7 lucca",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "2021-09-18 - Milwaukee, WI - Generac Power Stage - Summerfest (Edirol R-07) (lucca) [AUD].txt"
     },
     {
       "year": 2021,
@@ -556,9 +591,10 @@ const ARTIST_DATA = {
       "state": "IL",
       "location": "Chicago, IL",
       "venue": "Thalia Hall",
-      "notes": "Edirol R-07 · lucca",
+      "notes": "Edirol R-07 \u00b7 lucca",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "2021-11-11 - Chicago, IL - Thalia Hall (Edirol R-07) (lucca) [AUD].txt"
     },
     {
       "year": 2021,
@@ -569,9 +605,10 @@ const ARTIST_DATA = {
       "state": "WI",
       "location": "Cudahy, WI",
       "venue": "Xray Arcade",
-      "notes": "Edirol R-07 · lucca",
+      "notes": "Edirol R-07 \u00b7 lucca",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "2021-11-17 - Cudahy, WI  - Xray Arcade (Edirol R-07) (lucca) [AUD].txt"
     },
     {
       "year": 2022,
@@ -582,9 +619,10 @@ const ARTIST_DATA = {
       "state": "TX",
       "location": "Austin, TX",
       "venue": "Stubbs",
-      "notes": "SXSW · SP-CMC-8 · unk",
+      "notes": "SXSW \u00b7 SP-CMC-8 \u00b7 unk",
       "version": "AUD",
-      "format": "FLAC 24"
+      "format": "FLAC 24",
+      "textFile": "2022-03-17 - Austin, TX - Stubbs - SXSW 2022 (SP-CMC-8) [AUD24].txt"
     },
     {
       "year": 2022,
@@ -595,9 +633,10 @@ const ARTIST_DATA = {
       "state": "Germany",
       "location": "Hamburg, Germany",
       "venue": "Gruenspan",
-      "notes": "CA-14s · rcm",
+      "notes": "CA-14s \u00b7 rcm",
       "version": "AUD",
-      "format": "FLAC 24"
+      "format": "FLAC 24",
+      "textFile": "2022-04-28 - Hamburg, Germany - Gruenspan (CA-14s) (rcm) [AUD24].txt"
     },
     {
       "year": 2022,
@@ -608,9 +647,10 @@ const ARTIST_DATA = {
       "state": "Germany",
       "location": "Mannheim, Germany",
       "venue": "Alte Feuerwache",
-      "notes": "Zoom H5 · wannerl",
+      "notes": "Zoom H5 \u00b7 wannerl",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "2022-05-13 - Mannheim, Germany - Alte Feuerwache (Zoom H5) (wannerl) [AUD].txt"
     },
     {
       "year": 2022,
@@ -621,9 +661,10 @@ const ARTIST_DATA = {
       "state": "Denmark",
       "location": "Copenhagen, Denmark",
       "venue": "Pumpehuset",
-      "notes": "CA14s · unk",
+      "notes": "CA14s \u00b7 unk",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "2022-05-23 - Copenhagen, Denmark - Pumpehuset (CA14s) (unk) [AUD].txt"
     },
     {
       "year": 2022,
@@ -634,9 +675,10 @@ const ARTIST_DATA = {
       "state": "MI",
       "location": "Detroit, MI",
       "venue": "Saint Andrew's Hall",
-      "notes": "Shure MV88 · adavici",
+      "notes": "Shure MV88 \u00b7 adavici",
       "version": "AUD",
-      "format": "FLAC 24"
+      "format": "FLAC 24",
+      "textFile": "2022-12-11 - Detroit, MI - Saint Andrew's Hall (Shure MV88) (adavici) [AUD24].txt"
     },
     {
       "year": 2022,
@@ -647,9 +689,10 @@ const ARTIST_DATA = {
       "state": "NY",
       "location": "New York, NY",
       "venue": "Le Poisson Rouge",
-      "notes": "Roland CS-10EM · phideaux3",
+      "notes": "Roland CS-10EM \u00b7 phideaux3",
       "version": "AUD",
-      "format": "FLAC 24"
+      "format": "FLAC 24",
+      "textFile": "2022-12-15 - New York, NY - Le Poisson Rouge (Roland CS-10) (phideaux3) [AUD24].txt"
     },
     {
       "year": 2023,
@@ -660,9 +703,10 @@ const ARTIST_DATA = {
       "state": "NS",
       "location": "Halifax, NS",
       "venue": "Lighthouse Arts Centre",
-      "notes": "Tascam DR2d · colin waldschutz",
+      "notes": "Tascam DR2d \u00b7 colin waldschutz",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "2023-03-30 - Halifax, NS - Lighthouse Arts Centre (Tascam DR2d) (colin waldschutz) [AUD].txt"
     },
     {
       "year": 2024,
@@ -673,9 +717,10 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "San Francisco, CA",
       "venue": "Swedish American Hall",
-      "notes": "Evan Dando Solo · Schoeps MK4s · loughney",
+      "notes": "Evan Dando Solo \u00b7 Schoeps MK4s \u00b7 loughney",
       "version": "AUD",
-      "format": "FLAC 24"
+      "format": "FLAC 24",
+      "textFile": "2024-03-02 - San Francisco, CA - Swedish American Hall (Evan Dando Solo) (Schoeps MK4s) (loughney) [AUD24].txt"
     },
     {
       "year": 2024,
@@ -686,9 +731,10 @@ const ARTIST_DATA = {
       "state": "England",
       "location": "London, England",
       "venue": "Islington Assembly Hall",
-      "notes": "Evan Dando · Sennheiser AMBEO · greg caliquette",
+      "notes": "Evan Dando \u00b7 Sennheiser AMBEO \u00b7 greg caliquette",
       "version": "AUD",
-      "format": "FLAC 24"
+      "format": "FLAC 24",
+      "textFile": "2024-10-30 - London, England - Islington Assembly Hall (Evan Dando) (Sennheiser AMBEO) (greg caliquette) [AUD24].txt"
     },
     {
       "year": 2025,
@@ -699,9 +745,10 @@ const ARTIST_DATA = {
       "state": "SWE",
       "location": "Stockholm, SWE",
       "venue": "Debaser",
-      "notes": "Line Audio CM4 · pata63",
+      "notes": "Line Audio CM4 \u00b7 pata63",
       "version": "AUD",
-      "format": "FLAC 24"
+      "format": "FLAC 24",
+      "textFile": "2025-08-29 - Stockholm, SWE - Debaser (Line Audio CM4) (pata63) [AUD].txt"
     },
     {
       "year": 2025,
@@ -712,9 +759,10 @@ const ARTIST_DATA = {
       "state": "Denmark",
       "location": "Copenhagen, Denmark",
       "venue": "Loppen",
-      "notes": "DPA 4061 · tw",
+      "notes": "DPA 4061 \u00b7 tw",
       "version": "AUD",
-      "format": "FLAC 24"
+      "format": "FLAC 24",
+      "textFile": "2025-09-04 - Copenhagen, Denmark - Loppen (DPA 4061) (tw) [AUD24].txt"
     }
   ],
   "misc": [

@@ -25,7 +25,8 @@ const ARTIST_DATA = {
       "venue": "Rock and Roll Hotel",
       "notes": "",
       "version": "SBD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "2008-02-19 - Washington DC - Rock and Roll Hotel [SBD].txt"
     },
     {
       "year": 2008,
@@ -38,7 +39,8 @@ const ARTIST_DATA = {
       "venue": "Glasslands",
       "notes": "",
       "version": "MTX",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "2008-02-23 - Brooklyn, NY - Glasslands [MTX].txt"
     },
     {
       "year": 2008,
@@ -51,7 +53,8 @@ const ARTIST_DATA = {
       "venue": "The Parish",
       "notes": "",
       "version": "FM",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "2008-03-13 - Austin, TX - The Parish [FM].txt"
     },
     {
       "year": 2008,
@@ -64,7 +67,8 @@ const ARTIST_DATA = {
       "venue": "The Independent",
       "notes": "aaron miller",
       "version": "SBD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "2008-03-23 - San Francisco, CA - The Independent (aaron miller) [SBD].txt"
     },
     {
       "year": 2008,
@@ -77,7 +81,8 @@ const ARTIST_DATA = {
       "venue": "Mojo's",
       "notes": "",
       "version": "SBD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "2008-04-07 - Columbia, MO - Mojos [SBD].txt"
     },
     {
       "year": 2008,
@@ -90,7 +95,8 @@ const ARTIST_DATA = {
       "venue": "The Social",
       "notes": "",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "2008-05-19 - London, England - The Social [AUD].txt"
     },
     {
       "year": 2008,
@@ -103,7 +109,8 @@ const ARTIST_DATA = {
       "venue": "Scala",
       "notes": "",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "2008-05-20 - London, England - Scala [AUD].txt"
     },
     {
       "year": 2008,
@@ -116,7 +123,8 @@ const ARTIST_DATA = {
       "venue": "St. Giles Church",
       "notes": "",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "2008-06-04 - London, England - St. Giles Church [AUD].txt"
     },
     {
       "year": 2008,
@@ -129,7 +137,8 @@ const ARTIST_DATA = {
       "venue": "Koka Booth Amphitheatre",
       "notes": "",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "2008-08-08 - Cary, NC - Koka Booth Ampitheatre [AUD].txt"
     },
     {
       "year": 2008,
@@ -142,7 +151,8 @@ const ARTIST_DATA = {
       "venue": "Shepherds Bush Empire",
       "notes": "",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "2008-09-11 - London, England - Shepherds Bush Empire [AUD].txt"
     },
     {
       "year": 2008,
@@ -155,7 +165,8 @@ const ARTIST_DATA = {
       "venue": "Academy 2",
       "notes": "",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "2008-09-15 - Manchester, England - Academy 2 [AUD].txt"
     },
     {
       "year": 2008,
@@ -168,7 +179,8 @@ const ARTIST_DATA = {
       "venue": "Vega",
       "notes": "",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "2008-09-25 - Copenhagen, Denmark - Vega [AUD].txt"
     },
     {
       "year": 2008,
@@ -181,7 +193,8 @@ const ARTIST_DATA = {
       "venue": "Theater",
       "notes": "Reeperbahn",
       "version": "FM",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "2008-09-26 - Hamburg, Germany - Reeperbahn Festival [FM].txt"
     },
     {
       "year": 2008,
@@ -194,7 +207,8 @@ const ARTIST_DATA = {
       "venue": "Gebaeude 9",
       "notes": "",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "2008-09-30 - Cologne, Germany - Gebaeude 9 [AUD].txt"
     },
     {
       "year": 2009,
@@ -207,7 +221,8 @@ const ARTIST_DATA = {
       "venue": "Zakk",
       "notes": "",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "2009-05-19 - Duesseldorf, Germany - Zakk [AUD].txt"
     },
     {
       "year": 2009,
@@ -220,7 +235,8 @@ const ARTIST_DATA = {
       "venue": "Workplay Theatre",
       "notes": "",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "2009-06-06 - Birmingham, AL - Workplay Theatre [AUD].txt"
     },
     {
       "year": 2009,
@@ -233,7 +249,8 @@ const ARTIST_DATA = {
       "venue": "Worthy Farm",
       "notes": "",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "2009-06-27 - Pilton, England - Worthy Farm [AUD].txt"
     },
     {
       "year": 2009,
@@ -246,7 +263,8 @@ const ARTIST_DATA = {
       "venue": "Worthy Farm",
       "notes": "",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "2009-06-28 - Pilton, England - Worthy Farm [AUD].txt"
     },
     {
       "year": 2009,
@@ -259,7 +277,8 @@ const ARTIST_DATA = {
       "venue": "Haldern Pop Festival",
       "notes": "",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "2009-08-15 - Haldern-Rees, Germany - Haldern Pop Festival [AUD].txt"
     },
     {
       "year": 2011,
@@ -272,7 +291,8 @@ const ARTIST_DATA = {
       "venue": "AIR Studios",
       "notes": "4AD Jagjaguwar Session",
       "version": "TV",
-      "format": "MP4"
+      "format": "MP4",
+      "textFile": "2011-10-16 - London, UK - AIR Studios (4AD Jagjaguwar Session) [TV].txt"
     },
     {
       "year": 2011,
@@ -285,7 +305,8 @@ const ARTIST_DATA = {
       "venue": "UIC Pavilion",
       "notes": "",
       "version": "SBD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "2011-12-09 - Chicago, IL - UIC Pavilion [SBD].txt"
     },
     {
       "year": 2012,
@@ -311,7 +332,8 @@ const ARTIST_DATA = {
       "venue": "Bonnaroo Music and Arts Festival",
       "notes": "",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "2012-06-10 - Manchester, TN - Bonnaroo Music and Arts Festival [AUD].txt"
     },
     {
       "year": 2012,
@@ -324,7 +346,8 @@ const ARTIST_DATA = {
       "venue": "Freilichtbuhne Killesberg",
       "notes": "",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "2012-07-31 - Stuttgart, Germany - Freilichtbu\u0308hne Killesberg [AUD].txt"
     },
     {
       "year": 2012,
@@ -337,7 +360,8 @@ const ARTIST_DATA = {
       "venue": "Radio City Music Hall",
       "notes": "",
       "version": "Webcast",
-      "format": "MP4"
+      "format": "MP4",
+      "textFile": "2012-09-21 - New York, NY - Radio City Music Hall [WEBCAST].txt"
     },
     {
       "year": 2012,
@@ -350,7 +374,8 @@ const ARTIST_DATA = {
       "venue": "Heineken Music Hall",
       "notes": "",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "2012-11-06 - Amsterdam, The Netherlands - Heineken Music Hall [AUD].txt"
     },
     {
       "year": 2016,
@@ -363,7 +388,8 @@ const ARTIST_DATA = {
       "venue": "Sydney Opera House",
       "notes": "",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "2016-05-28 - Sydney, Australia - Sydney Opera House [AUD].txt"
     },
     {
       "year": 2016,
@@ -376,7 +402,8 @@ const ARTIST_DATA = {
       "venue": "Rockefeller Center",
       "notes": "Studio",
       "version": "TV",
-      "format": "MP4"
+      "format": "MP4",
+      "textFile": "2016-09-24 - New York, NY - Studio 6B - The Tonight Show Starring Jimmy Fallon [TV].txt"
     },
     {
       "year": 2016,
@@ -389,7 +416,8 @@ const ARTIST_DATA = {
       "venue": "Pioneer Works",
       "notes": "",
       "version": "Webcast",
-      "format": "MP4"
+      "format": "MP4",
+      "textFile": "2016-12-04 - Brooklyn, NY - Pioneer Works [WEBCAST].txt"
     },
     {
       "year": 2019,
@@ -402,7 +430,8 @@ const ARTIST_DATA = {
       "venue": "Melt Festival",
       "notes": "",
       "version": "Webcast",
-      "format": "MKV"
+      "format": "MKV",
+      "textFile": "2019-07-21 - Gra\u0308fenhainichen, Germany' - Melt Festival [WEB].mkv.txt"
     },
     {
       "year": 2019,
@@ -415,7 +444,8 @@ const ARTIST_DATA = {
       "venue": "Pablo Center at the Confluence",
       "notes": "RCU",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "2019-11-22 - Eau Claire, WI - RCU Theatre [AUD] .txt"
     },
     {
       "year": 2019,
@@ -428,7 +458,8 @@ const ARTIST_DATA = {
       "venue": "Pablo Center at the Confluence",
       "notes": "RCU",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "2019-11-23 - Eau Claire, WI - RCU Theatre [AUD] .txt"
     }
   ],
   "misc": []

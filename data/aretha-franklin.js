@@ -20,7 +20,8 @@ const ARTIST_DATA = {
       "venue": "Jamaica World Music Festival.",
       "notes": "CASS(M)",
       "version": "SBD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1982-11-26 - Montego Bay, Jamaica - Jamaica World Music Festival. - CASS(M) [SBD].txt"
     }
   ],
   "misc": []

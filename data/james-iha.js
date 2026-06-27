@@ -47,7 +47,8 @@ const ARTIST_DATA = {
       "venue": "",
       "notes": "",
       "version": "FM",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1998-02-09 - Rockline Interview [FM].txt"
     },
     {
       "year": 1998,
@@ -60,7 +61,8 @@ const ARTIST_DATA = {
       "venue": "WXPN World Cafe",
       "notes": "",
       "version": "FM",
-      "format": "SHN"
+      "format": "SHN",
+      "textFile": "1998-03-12 - Philadelphia, PA - WXPN World Cafe [FM].txt"
     },
     {
       "year": 1998,
@@ -71,9 +73,10 @@ const ARTIST_DATA = {
       "state": "NY",
       "location": "New York, NY",
       "venue": "Mercury Lounge",
-      "notes": "MD · CSB · spfreak77",
+      "notes": "MD \u00b7 CSB \u00b7 spfreak77",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1998-03-31 - New York, NY - Mercury Lounge [AUD].txt"
     },
     {
       "year": 1998,
@@ -84,7 +87,7 @@ const ARTIST_DATA = {
       "state": "NY",
       "location": "New York, NY",
       "venue": "Mercury Lounge",
-      "notes": "ANA(?) · CSBmod",
+      "notes": "ANA(?) \u00b7 CSBmod",
       "version": "",
       "format": "FLAC"
     },
@@ -97,7 +100,7 @@ const ARTIST_DATA = {
       "state": "Japan",
       "location": "Saitama, Japan",
       "venue": "EMI Rocks",
-      "notes": "Saitama · unk",
+      "notes": "Saitama \u00b7 unk",
       "version": "AUD",
       "format": "MP3"
     },
@@ -110,9 +113,10 @@ const ARTIST_DATA = {
       "state": "PA",
       "location": "Philadelphia, PA",
       "venue": "Unknown",
-      "notes": "CA-14s · spfreak77",
+      "notes": "CA-14s \u00b7 spfreak77",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "2012-10-07 - Philadelphia, PA - World Cafe Live [AUD].txt"
     },
     {
       "year": 2012,
@@ -123,9 +127,10 @@ const ARTIST_DATA = {
       "state": "PA",
       "location": "Philadelphia, PA",
       "venue": "World Cafe",
-      "notes": "CSB · spfreak77",
+      "notes": "CSB \u00b7 spfreak77",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "2012-11-23 - Philadelphia, PA - World Cafe Live [AUD].txt"
     }
   ],
   "misc": [

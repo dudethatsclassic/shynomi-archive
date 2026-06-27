@@ -27,7 +27,8 @@ const ARTIST_DATA = {
       "venue": "9:30 Club",
       "notes": "",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1997-02-22 - Washington, DC - 930 Club [AUD].txt"
     },
     {
       "year": 1997,
@@ -40,7 +41,8 @@ const ARTIST_DATA = {
       "venue": "Canes Bar & Grill",
       "notes": "",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1997-06-29 - San Diego, CA - Canes Bar & Grill [AUD].txt"
     },
     {
       "year": 1997,
@@ -66,7 +68,8 @@ const ARTIST_DATA = {
       "venue": "Varsity Theatre",
       "notes": "",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1997-08-27 - Baton Rouge, LA - Varsity Theatre [AUD].txt"
     },
     {
       "year": 1997,
@@ -92,7 +95,8 @@ const ARTIST_DATA = {
       "venue": "GMU Patriot Centre",
       "notes": "",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1998-03-17 - Fairfax, VA - GMU Patriot Centre [AUD].txt"
     },
     {
       "year": 2000,
@@ -105,7 +109,8 @@ const ARTIST_DATA = {
       "venue": "St. Andrew's Hall",
       "notes": "",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "2000-05-27 - Detroit, MI - St. Andrew's Hall [AUD].txt"
     },
     {
       "year": 2000,
@@ -118,7 +123,8 @@ const ARTIST_DATA = {
       "venue": "The American Theatre",
       "notes": "",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "2000-05-31 - St. Louis, MO - The American Theatre [AUD].txt"
     },
     {
       "year": 2000,
@@ -131,7 +137,8 @@ const ARTIST_DATA = {
       "venue": "Grobe Freiheit",
       "notes": "",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "2000-06-12 - Hamburg, Germany - Grobe Freiheit [AUD].txt"
     },
     {
       "year": 2000,
@@ -157,7 +164,8 @@ const ARTIST_DATA = {
       "venue": "Value City Arena",
       "notes": "",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "2000-09-26 - Columbus, OH - Value City Arena [AUD].txt"
     },
     {
       "year": 2001,
@@ -170,7 +178,8 @@ const ARTIST_DATA = {
       "venue": "Allstate Arena",
       "notes": "",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "2001-03-02 - Rosemont, IL - Allstate Arena [AUD].txt"
     },
     {
       "year": 2001,
@@ -183,7 +192,8 @@ const ARTIST_DATA = {
       "venue": "Madison Square Garden *Go Get A Damn Pretzel",
       "notes": "",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "2001-03-16 - New York, NY - Madison Square Garden [AUD].txt"
     },
     {
       "year": 2001,
@@ -196,7 +206,8 @@ const ARTIST_DATA = {
       "venue": "John F. Savage Hall",
       "notes": "inc",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "2001-03-19 - Toledo, OH - John F. Savage Hall (inc) [AUD].txt"
     },
     {
       "year": 2001,
@@ -220,9 +231,10 @@ const ARTIST_DATA = {
       "state": "MO",
       "location": "St. Louis, MO",
       "venue": "Savvis Center",
-      "notes": "Core Sound Stealthy Cardiods · shane e. calhoon",
+      "notes": "Core Sound Stealthy Cardiods \u00b7 shane e. calhoon",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "2003-04-27 - St. Louis, MO - Savvis Center (Core Sound Stealthy Cardiods) (shane e. calhoon) [AUD].txt"
     },
     {
       "year": 2003,
@@ -233,9 +245,10 @@ const ARTIST_DATA = {
       "state": "OH",
       "location": "Cleveland, OH",
       "venue": "Gund Arena",
-      "notes": "SP-CMC-7 · saltshaker",
+      "notes": "SP-CMC-7 \u00b7 saltshaker",
       "version": "AUD",
-      "format": "FLAC 24"
+      "format": "FLAC 24",
+      "textFile": "2003-05-06 - Cleveland, OH - Gund Arena (SP-CMC-7) (saltshaker) [AUD24].txt"
     },
     {
       "year": 2003,
@@ -248,7 +261,8 @@ const ARTIST_DATA = {
       "venue": "Rose Garden Arena",
       "notes": "unk",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "2003-06-03 - Portland, OR - Rose Garden Arena (unk) [AUD].txt"
     },
     {
       "year": 2003,
@@ -261,7 +275,8 @@ const ARTIST_DATA = {
       "venue": "Rod Laver Arena",
       "notes": "",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "2003-07-26 - Melbourne, Australia - Rod Laver Arena [AUD].txt"
     },
     {
       "year": 2003,
@@ -272,9 +287,10 @@ const ARTIST_DATA = {
       "state": "AUS",
       "location": "Brisbane, AUS",
       "venue": "Brisbane Entertainment Centre",
-      "notes": "Sony Stereo mic · unk",
+      "notes": "Sony Stereo mic \u00b7 unk",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "2003-08-02 - Brisbane, AUS - Brisbane Entertainment Centre (Sony Stereo mic) (unk) [AUD].txt"
     },
     {
       "year": 2003,
@@ -287,7 +303,8 @@ const ARTIST_DATA = {
       "venue": "Civic Coliseum",
       "notes": "",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "2003-10-18 - Roanoke, VA - Civic Coliseum [AUD].txt"
     },
     {
       "year": 2003,
@@ -300,7 +317,8 @@ const ARTIST_DATA = {
       "venue": "Stuart Siegel Center",
       "notes": "",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "2003-10-19 - Richmond, VA - Stuart Siegel Center [AUD].txt"
     },
     {
       "year": 2003,
@@ -313,7 +331,8 @@ const ARTIST_DATA = {
       "venue": "Resch Center",
       "notes": "",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "2003-10-27 - Ashwaubenon, WI - Resch Center [AUD].txt"
     },
     {
       "year": 2013,
@@ -326,7 +345,8 @@ const ARTIST_DATA = {
       "venue": "Halifax Metro Centre",
       "notes": "",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "2013-08-29 - Halifax, NS, Canada - Halifax Metro Centre [AUD].txt"
     },
     {
       "year": 2013,
@@ -339,7 +359,8 @@ const ARTIST_DATA = {
       "venue": "Cadade do Rock",
       "notes": "Rock",
       "version": "WEB",
-      "format": "TS"
+      "format": "TS",
+      "textFile": "2013-09-20 - Rio de Janeiro, Brazil - Cadade do Rock - Live At Rock In Rio [WEBCAST].txt"
     },
     {
       "year": 2017,
@@ -352,7 +373,8 @@ const ARTIST_DATA = {
       "venue": "Lakewood Amphitheatre",
       "notes": "",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "2017-08-13 - Atlanta, GA - Lakewood Amphitheater [AUD].txt"
     },
     {
       "year": 2017,
@@ -363,9 +385,10 @@ const ARTIST_DATA = {
       "state": "NY",
       "location": "Darien Lake, NY",
       "venue": "Performing Arts Center",
-      "notes": "AT831s · binko",
+      "notes": "AT831s \u00b7 binko",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "2017-09-11 - Darien Lake, NY - Performing Arts Center (AT831s) (binko) [AUD].txt"
     },
     {
       "year": 2023,
@@ -376,9 +399,10 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "Hollywood, CA",
       "venue": "Hollywood Bowl",
-      "notes": "SP-CMC-4U · ijwthstd",
+      "notes": "SP-CMC-4U \u00b7 ijwthstd",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "2023-05-22 - Hollywood, CA - Hollywood Bowl (SP-CMC-4U) (ijwthstd) [AUD].txt"
     },
     {
       "year": 2023,
@@ -402,9 +426,10 @@ const ARTIST_DATA = {
       "state": "FL",
       "location": "Fort Myers, FL",
       "venue": "Hammond Stadium",
-      "notes": "Roland Edirol R09 · unk",
+      "notes": "Roland Edirol R09 \u00b7 unk",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "2023-10-07 - Fort Myers, FL - Hammond Stadium (Roland Edirol R09) (unk) [AUD].txt"
     },
     {
       "year": 2023,
@@ -415,9 +440,10 @@ const ARTIST_DATA = {
       "state": "NY",
       "location": "Darien Lake, NY",
       "venue": "Performing Arts Center",
-      "notes": "AT mics · binko",
+      "notes": "AT mics \u00b7 binko",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "2023-08-01 - Darien Lake, NY - Performing Arts Center (AT mics) (binko) [AUD] .txt"
     }
   ],
   "misc": [

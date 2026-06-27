@@ -21,7 +21,8 @@ const ARTIST_DATA = {
       "venue": "Civic Space Park",
       "notes": "8123",
       "version": "PRO",
-      "format": "MP4"
+      "format": "MP4",
+      "textFile": "2019-01-19 - Phoenix, AZ - Civic Space Park - 8123 Fest [PRO].txt"
     },
     {
       "year": 2024,
@@ -34,7 +35,8 @@ const ARTIST_DATA = {
       "venue": "Honda Center",
       "notes": "DPA 4081 (faninor",
       "version": "AUD",
-      "format": "FLAC 24"
+      "format": "FLAC 24",
+      "textFile": "2024-03-04 - Anaheim, CA - Honda Center (DPA 4081 (faninor) [AUD24].txt"
     }
   ],
   "misc": []

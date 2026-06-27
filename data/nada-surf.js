@@ -28,7 +28,8 @@ const ARTIST_DATA = {
       "venue": "The Crocodile Cafe",
       "notes": "CSB",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "2004-02-03 - Seattle, WA - Crocadile Cafe [AUD].txt"
     },
     {
       "year": 2006,
@@ -41,7 +42,8 @@ const ARTIST_DATA = {
       "venue": "The Magic Stick",
       "notes": "live2cd",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "2006-03-06 - Detroit, MI - The Magic Stick [AUD].txt"
     },
     {
       "year": 2008,
@@ -54,7 +56,8 @@ const ARTIST_DATA = {
       "venue": "Backstage Werk",
       "notes": "M94.5",
       "version": "FM",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "2008-03-01 - Munich, Germany - Backstage Werk [FM].txt"
     },
     {
       "year": 2010,
@@ -67,7 +70,8 @@ const ARTIST_DATA = {
       "venue": "The Bell House",
       "notes": "acidjack master",
       "version": "MTX",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "2010-03-26 - Brooklyn NY - Bell House [MTX].txt"
     },
     {
       "year": 2010,
@@ -80,7 +84,8 @@ const ARTIST_DATA = {
       "venue": "Printemps de Bourges",
       "notes": "",
       "version": "PRO",
-      "format": "TS"
+      "format": "TS",
+      "textFile": "2010-04-15 - Bourges, France - Printemps de Bourges [TS].txt"
     },
     {
       "year": 2012,
@@ -91,9 +96,10 @@ const ARTIST_DATA = {
       "state": "UK",
       "location": "London, UK",
       "venue": "London Rough Trade East",
-      "notes": "Roland R-09 · unk",
+      "notes": "Roland R-09 \u00b7 unk",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "2012-01-16 - London, UK - London Rough Trade East (Roland R-09) (unk) [AUD].txt"
     },
     {
       "year": 2012,
@@ -106,7 +112,8 @@ const ARTIST_DATA = {
       "venue": "TLA",
       "notes": "spfreak77",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "2012-04-09 - Philadelphia, PA - TLA [AUD].txt"
     },
     {
       "year": 2012,
@@ -119,7 +126,8 @@ const ARTIST_DATA = {
       "venue": "Beachland Ballroom",
       "notes": "live2cd",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "2012-06-21 - Cleveland, OH - Beachland Ballroom (live2cd) [AUD].txt"
     },
     {
       "year": 2018,
@@ -130,9 +138,10 @@ const ARTIST_DATA = {
       "state": "The Netherlands",
       "location": "Amsterdam, The Netherlands",
       "venue": "Melkweg",
-      "notes": "Zoom H4N · tarquin",
+      "notes": "Zoom H4N \u00b7 tarquin",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "2018-02-01 - Amsterdam, The Netherlands - Melkweg (Zoom H4N) (tarquin) [AUD].txt"
     },
     {
       "year": 2018,
@@ -143,9 +152,10 @@ const ARTIST_DATA = {
       "state": "FR",
       "location": "Paris, FR",
       "venue": "Le Cabaret Sauvage",
-      "notes": "SP-CMC-8 · inconnu",
+      "notes": "SP-CMC-8 \u00b7 inconnu",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "2018-02-05 - Paris, FR - Le Cabaret Sauvage (SP-CMC-8) (inconnu) [AUD].txt"
     },
     {
       "year": 2018,
@@ -158,7 +168,8 @@ const ARTIST_DATA = {
       "venue": "Europa-Park Arena",
       "notes": "MK41V",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "2018-11-16 - Rust, Germany - Europa-Park Arena (MK41V) [AUD].txt"
     },
     {
       "year": 2018,
@@ -171,7 +182,8 @@ const ARTIST_DATA = {
       "venue": "Europa-Park Arena",
       "notes": "indykid",
       "version": "Webcast",
-      "format": "TS"
+      "format": "TS",
+      "textFile": "2018-11-16 - Rust, Germany - Rolling Stone Park (indykid) [WEBCAST].txt"
     },
     {
       "year": 2022,
@@ -184,7 +196,8 @@ const ARTIST_DATA = {
       "venue": "Studioeins",
       "notes": "",
       "version": "WEB",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "2022-12-12 - Berlin, Germany - Studioeins [WEB] .txt"
     },
     {
       "year": 2024,
@@ -195,9 +208,10 @@ const ARTIST_DATA = {
       "state": "UK",
       "location": "Manchester, UK",
       "venue": "Manchester Gorilla",
-      "notes": "Sony ECM-CS10 · swintonboy",
+      "notes": "Sony ECM-CS10 \u00b7 swintonboy",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "2024-11-22 - Manchester, UK - Manchester Gorilla (Sony ECM-CS10) (swintonboy) [AUD].txt"
     },
     {
       "year": 2024,
@@ -208,9 +222,10 @@ const ARTIST_DATA = {
       "state": "UK",
       "location": "London, UK",
       "venue": "London Islington Assembly Hall",
-      "notes": "Tascam DR-05X · swintonboy",
+      "notes": "Tascam DR-05X \u00b7 swintonboy",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "2024-11-23 - London, UK - London Islington Assembly Hall (Tascam DR-05X) (swintonboy) [AUD].txt"
     },
     {
       "year": 2024,
@@ -221,9 +236,10 @@ const ARTIST_DATA = {
       "state": "Germany",
       "location": "Berlin, Germany",
       "venue": "Metropol",
-      "notes": "Roland CS-10EM Omnis · unk",
+      "notes": "Roland CS-10EM Omnis \u00b7 unk",
       "version": "AUD",
-      "format": "FLAC 24"
+      "format": "FLAC 24",
+      "textFile": "2024-12-02 - Berlin, Germany - Metropol (Roland CS-10EM Omnis) (unk) [AUD24].txt"
     },
     {
       "year": 2025,
@@ -234,9 +250,10 @@ const ARTIST_DATA = {
       "state": "OH",
       "location": "Columbus, OH",
       "venue": "A&R Music Bar",
-      "notes": "SP-CMC-8 · live2cd",
+      "notes": "SP-CMC-8 \u00b7 live2cd",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "2025-05-03 - Columbus, OH - A&R Music Bar (SP-CMC-8) (live2cd) [AUD].txt"
     }
   ],
   "misc": [

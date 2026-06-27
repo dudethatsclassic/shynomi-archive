@@ -21,7 +21,8 @@ const ARTIST_DATA = {
       "venue": "Landmark Theatre",
       "notes": "",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "2012-08-08 - Syracuse, NY - Landmark Theatre [AUD].txt"
     },
     {
       "year": 2013,
@@ -32,9 +33,10 @@ const ARTIST_DATA = {
       "state": "British Columbia",
       "location": "Kelowna, British Columbia",
       "venue": "Waterfront Park",
-      "notes": "Island · leifh",
+      "notes": "Island \u00b7 leifh",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "2013-07-05 - Kelowna, BC - Island Stage at 2045 (leifh) [AUD].txt"
     }
   ],
   "misc": []

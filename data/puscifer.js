@@ -24,9 +24,10 @@ const ARTIST_DATA = {
       "state": "NV",
       "location": "Las Vegas, NV",
       "venue": "Pearl",
-      "notes": "CK91 · cps",
+      "notes": "CK91 \u00b7 cps",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "2009-02-13 - Las Vegas, NV - Pearl (CK91) (cps) [AUD].txt"
     },
     {
       "year": 2009,
@@ -37,9 +38,10 @@ const ARTIST_DATA = {
       "state": "NV",
       "location": "Las Vegas, NV",
       "venue": "Pearl",
-      "notes": "CK91 · cps",
+      "notes": "CK91 \u00b7 cps",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "2009-02-14 - Las Vegas, NV - Pearl (CK91) (cps) [AUD].txt"
     },
     {
       "year": 2009,
@@ -50,9 +52,10 @@ const ARTIST_DATA = {
       "state": "NV",
       "location": "Las Vegas, NV",
       "venue": "Pearl",
-      "notes": "WAV(M) · AKG CK91 + SBD · cps",
+      "notes": "WAV(M) \u00b7 AKG CK91 + SBD \u00b7 cps",
       "version": "MIX",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "2009-02-15 - Las Vegas, NV - Pearl (cps) [MTX].txt"
     },
     {
       "year": 2009,
@@ -63,9 +66,10 @@ const ARTIST_DATA = {
       "state": "NV",
       "location": "Las Vegas, NV",
       "venue": "Pearl",
-      "notes": "WAV(M) · AKG CK91 · cps",
+      "notes": "WAV(M) \u00b7 AKG CK91 \u00b7 cps",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "2009-10-29 - Las Vegas, NV - Pearl (CK91) [AUD].txt"
     },
     {
       "year": 2009,
@@ -76,9 +80,10 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "Oakland, CA",
       "venue": "Fox Theatre",
-      "notes": "Schoeps CMC34 · unk",
+      "notes": "Schoeps CMC34 \u00b7 unk",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "2009-11-04 - Oakland, CA - Fox Theater [AUD].txt"
     },
     {
       "year": 2009,
@@ -89,9 +94,10 @@ const ARTIST_DATA = {
       "state": "WA",
       "location": "Seattle, WA",
       "venue": "Moore Theatre",
-      "notes": "AT943 · unk",
+      "notes": "AT943 \u00b7 unk",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "2009-11-10 - Seattle, WA - Moore Theater [AUD].txt"
     },
     {
       "year": 2011,
@@ -102,9 +108,10 @@ const ARTIST_DATA = {
       "state": "PA",
       "location": "Upper Darby, PA",
       "venue": "Tower Theater",
-      "notes": "CSB · pineaway",
+      "notes": "CSB \u00b7 pineaway",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "2011-11-23 - Upper Darby, PA - Tower Theater [AUD].txt"
     },
     {
       "year": 2012,
@@ -115,9 +122,10 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "Riverside, CA",
       "venue": "Riverside Fox Performing Arts Center",
-      "notes": "DPA 4061 · crazylegs",
+      "notes": "DPA 4061 \u00b7 crazylegs",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "2012-03-17 - Riverside, CA - Riverside Fox Performing Arts Center [AUD].txt"
     },
     {
       "year": 2017,
@@ -128,9 +136,10 @@ const ARTIST_DATA = {
       "state": "AUS",
       "location": "Melbourne, AUS",
       "venue": "Melbourne Convention & Exhibition Centre",
-      "notes": "SP-SMC-8 · pyometronguts",
+      "notes": "SP-SMC-8 \u00b7 pyometronguts",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "2017-01-22 - Melbourne, AUS - Melbourne Convention & Exhibition Centre (SP-SMC-8) (pyometronguts) [AUD].txt"
     },
     {
       "year": 2022,
@@ -141,9 +150,10 @@ const ARTIST_DATA = {
       "state": "NJ",
       "location": "Atlantic City, NJ",
       "venue": "Hard Rock Hotel & Casino",
-      "notes": "Pixel 6 · pineaway",
+      "notes": "Pixel 6 \u00b7 pineaway",
       "version": "AUD",
-      "format": "FLAC 24"
+      "format": "FLAC 24",
+      "textFile": "2022-11-05 - Atlantic City, NJ - Hard Rock Hotel & Casino (Pixel 6) (pineaway) [AUD24].txt"
     },
     {
       "year": 2023,
@@ -154,9 +164,10 @@ const ARTIST_DATA = {
       "state": "NY",
       "location": "Rochester, NY",
       "venue": "Kodak Theater",
-      "notes": "Tascam DR-2d · binko",
+      "notes": "Tascam DR-2d \u00b7 binko",
       "version": "AUD",
-      "format": "FLAC 24"
+      "format": "FLAC 24",
+      "textFile": "2023-05-30 - Rochester, NY - Kodak Theater (Tascam DR-2d) (unk) [AUD24].txt"
     },
     {
       "year": 2023,
@@ -167,9 +178,10 @@ const ARTIST_DATA = {
       "state": "Belgium",
       "location": "Werchter, Belgium",
       "venue": "Rock Werchter",
-      "notes": "Webcast · dion1983 · 720p",
+      "notes": "Webcast \u00b7 dion1983 \u00b7 720p",
       "version": "PRO",
-      "format": "TS"
+      "format": "TS",
+      "textFile": "2023-07-02 - Werchter, Belgium - Rock Werchter (Webcast) (dion1983) (720p) [PRO] .txt"
     },
     {
       "year": 2026,
@@ -180,9 +192,10 @@ const ARTIST_DATA = {
       "state": "CO",
       "location": "Morrison, CO",
       "venue": "Red Rocks Amphitheater",
-      "notes": "M · iPhone 16 · loudpuppy",
+      "notes": "M \u00b7 iPhone 16 \u00b7 loudpuppy",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "2026-05-03 - Morrison, CO - Red Rocks Amphitheater (M) (iPhone 16) (loudpuppy) [AUD].txt"
     },
     {
       "year": 2026,
@@ -193,9 +206,10 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "Los Angeles, CA",
       "venue": "Greek Theatre",
-      "notes": "Shure MV88 · coolerluzi",
+      "notes": "Shure MV88 \u00b7 coolerluzi",
       "version": "AUD",
-      "format": "FLAC 24"
+      "format": "FLAC 24",
+      "textFile": "2026-05-14 - Los Angeles, CA - Greek Theatre (Shure MV88) (coolerluzi) [AUD24].txt"
     }
   ],
   "misc": []

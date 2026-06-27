@@ -24,9 +24,10 @@ const ARTIST_DATA = {
       "state": "CO",
       "location": "Denver, CO",
       "venue": "Mercury Cafe",
-      "notes": "Binaural mics · marcr",
+      "notes": "Binaural mics \u00b7 marcr",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1995-10-06 - Denver, CO - Mercury Cafe (Binaural mics) (marcr) [AUD24].txt"
     },
     {
       "year": 1996,
@@ -39,7 +40,8 @@ const ARTIST_DATA = {
       "venue": "Maxwell's",
       "notes": "unk",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1996-01-18 - Hoboken, NJ - Maxwell's (unk) [AUD].txt"
     },
     {
       "year": 1997,
@@ -52,7 +54,8 @@ const ARTIST_DATA = {
       "venue": "The Metro *Transmissions From Jupiter",
       "notes": "",
       "version": "TV",
-      "format": "DVD"
+      "format": "DVD",
+      "textFile": "1997-04-24 - Chicago, IL - The Metro - Transmissions From Jupiter [DVD].txt"
     },
     {
       "year": 1997,
@@ -65,7 +68,8 @@ const ARTIST_DATA = {
       "venue": "Central Park SummerStage",
       "notes": "",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1997-06-25 - New York, NY - Central Park SummerStage (CSC) [AUD].txt"
     },
     {
       "year": 1997,
@@ -78,7 +82,8 @@ const ARTIST_DATA = {
       "venue": "Alpine Valley",
       "notes": "cps",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1997-08-02 - East Troy, WI - Alpine Valley (CSB) [AUD].txt"
     },
     {
       "year": 1997,
@@ -89,9 +94,10 @@ const ARTIST_DATA = {
       "state": "",
       "location": "Saratoga NY",
       "venue": "Saratoga Performing Arts Center",
-      "notes": "Horde · Sony D7 · beerengineer",
+      "notes": "Horde \u00b7 Sony D7 \u00b7 beerengineer",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1997-08-10 - Saratoga NY - Saratoga Performing Arts Center - Horde Fest (Sony D7) (beerengineer) [AUD].txt"
     },
     {
       "year": 1997,
@@ -104,7 +110,8 @@ const ARTIST_DATA = {
       "venue": "The Supper Club",
       "notes": "",
       "version": "SBD",
-      "format": "SHN"
+      "format": "SHN",
+      "textFile": "1997-11-06 - New York, NY - The Supper Club [SBD].txt"
     },
     {
       "year": 1997,
@@ -115,9 +122,10 @@ const ARTIST_DATA = {
       "state": "PA",
       "location": "Philadelphia, PA",
       "venue": "Electric Factory",
-      "notes": "DAT(M) · Gefell + M20 · unk",
+      "notes": "DAT(M) \u00b7 Gefell + M20 \u00b7 unk",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1997-11-09 - Philadelphia, PA - Electric Factory (M20) [AUD].txt"
     },
     {
       "year": 1997,
@@ -128,9 +136,10 @@ const ARTIST_DATA = {
       "state": "PA",
       "location": "Philadelphia, PA",
       "venue": "Electric Factory",
-      "notes": "Nak 300s · lee schusterman + joey mutis",
+      "notes": "Nak 300s \u00b7 lee schusterman + joey mutis",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1997-11-09 - Philadelphia, PA - Electric Factory (Nak 300s) (lee schusterman + joey mutis) [AUD].txt"
     },
     {
       "year": 1997,
@@ -143,7 +152,8 @@ const ARTIST_DATA = {
       "venue": "Fillmore",
       "notes": "DAT(M)",
       "version": "SBD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1997-11-28 - San Francisco, CA - Fillmore - DAT(M) [SBD].txt"
     },
     {
       "year": 1998,
@@ -156,7 +166,8 @@ const ARTIST_DATA = {
       "venue": "The Electric Factory",
       "notes": "",
       "version": "FM",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1998-02-21 - Philadelphia, PA - The Electric Factory [FM].txt"
     },
     {
       "year": 1998,
@@ -169,7 +180,8 @@ const ARTIST_DATA = {
       "venue": "Giants Stadium",
       "notes": "",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1998-06-07 - East Rutherford, NJ - Giants Stadium [AUD].txt"
     },
     {
       "year": 1999,
@@ -180,9 +192,10 @@ const ARTIST_DATA = {
       "state": "NV",
       "location": "Las Vegas, NV",
       "venue": "House of Blues",
-      "notes": "DAT(M) · ECM-12 · luke freteluco",
+      "notes": "DAT(M) \u00b7 ECM-12 \u00b7 luke freteluco",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1999-06-11 - Las Vegas, NV - House of Blues - DAT(M) (ECM-12) (luke freteluco) [AUD].txt"
     },
     {
       "year": 1999,
@@ -195,7 +208,8 @@ const ARTIST_DATA = {
       "venue": "International Forum *Freaking Out",
       "notes": "DVD audio",
       "version": "SBD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1999-09-10 - Tokyo, Japan - International Forum - Freaking Out [SBD].txt"
     },
     {
       "year": 1999,
@@ -234,7 +248,8 @@ const ARTIST_DATA = {
       "venue": "Mountain Jam",
       "notes": "",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "2012-06-02 - Hunter, NY - Mountain Jam [AUD].txt"
     },
     {
       "year": 2012,
@@ -247,7 +262,8 @@ const ARTIST_DATA = {
       "venue": "Ryman Auditorium",
       "notes": "Edirol R09",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "2012-09-17 - Nashville, TN - Ryman Auditorium (Edirol R09) [AUD].txt"
     }
   ],
   "misc": [

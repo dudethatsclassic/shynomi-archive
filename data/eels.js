@@ -35,9 +35,10 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "Santa Monica, CA",
       "venue": "\"Brave New World\" Session",
-      "notes": "KCRW-FM · Mark Oliver Everett Solo",
+      "notes": "KCRW-FM \u00b7 Mark Oliver Everett Solo",
       "version": "FM",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1994-09-25 - Santa Monica, CA - KCRW Session - Mark O Everett Solo [FM].txt"
     },
     {
       "year": 1996,
@@ -48,9 +49,10 @@ const ARTIST_DATA = {
       "state": "PA",
       "location": "Philadelphia, PA",
       "venue": "Trocadero",
-      "notes": "SS-DSM6S · jlizard",
+      "notes": "SS-DSM6S \u00b7 jlizard",
       "version": "AUD (48k)",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1996-08-31 - Philadelphia, PA - Trocadero (SS) 48k (jlizard) [AUD].txt"
     },
     {
       "year": 1996,
@@ -61,9 +63,10 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "Hollywood, CA",
       "venue": "Roxy",
-      "notes": "M · Sony ECM-909A · marco moir",
+      "notes": "M \u00b7 Sony ECM-909A \u00b7 marco moir",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1996-10-29 - Hollywood, CA - Roxy (M) (Sony ECM-909A) (marco moir) [AUD].txt"
     },
     {
       "year": 1996,
@@ -76,7 +79,8 @@ const ARTIST_DATA = {
       "venue": "Grughalle",
       "notes": "WDR ROckpalast German TV",
       "version": "PRO #1a",
-      "format": "DVD"
+      "format": "DVD",
+      "textFile": "1996-11-15 - Essen, Germany - Grugahalle [PRO #1a].txt"
     },
     {
       "year": 1997,
@@ -87,9 +91,10 @@ const ARTIST_DATA = {
       "state": "The Netherlands",
       "location": "Rotterdam, The Netherlands",
       "venue": "Nighttown",
-      "notes": "ECM-MS907 · unk",
+      "notes": "ECM-MS907 \u00b7 unk",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1997-04-27 - Rotterdam, The Netherlands - Nighttown (ECM-MS907) [AUD].txt"
     },
     {
       "year": 1997,
@@ -102,7 +107,8 @@ const ARTIST_DATA = {
       "venue": "Shepherd's Bush Empire (BBC Radio1)",
       "notes": "DAT(M)",
       "version": "FM",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1997-04-30 - London, UK - Shepherd's Bush Empire (BBC Radio1) [FM].txt"
     },
     {
       "year": 1997,
@@ -115,7 +121,8 @@ const ARTIST_DATA = {
       "venue": "La Route du Rock",
       "notes": "smog31",
       "version": "FM",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1997-08-15 - St Malo, France - La Route du Rock [FM].txt"
     },
     {
       "year": 1997,
@@ -128,7 +135,8 @@ const ARTIST_DATA = {
       "venue": "Lowlands",
       "notes": "FM & Sony MZ-R30",
       "version": "MTX",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1997-08-24 - Biddinghuizen, The Netherlands - Lowlands [MTX].txt"
     },
     {
       "year": 1998,
@@ -139,9 +147,10 @@ const ARTIST_DATA = {
       "state": "UK",
       "location": "London, UK",
       "venue": "Royal Festival Hall",
-      "notes": "ANA(M) · CSB · unk",
+      "notes": "ANA(M) \u00b7 CSB \u00b7 unk",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1998-09-28 - London, England - Royal Festival Hall [AUD].txt"
     },
     {
       "year": 1998,
@@ -154,7 +163,8 @@ const ARTIST_DATA = {
       "venue": "Vredenburg",
       "notes": "",
       "version": "FM",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1998-10-02 - Utrecht, The Netherlands - Vredenburg [FM].txt"
     },
     {
       "year": 1998,
@@ -164,10 +174,11 @@ const ARTIST_DATA = {
       "city": "Stockholm",
       "state": "Sweden",
       "location": "Stockholm, Sweden",
-      "venue": "Södra Teatern",
+      "venue": "So\u0308dra Teatern",
       "notes": "",
       "version": "FM",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1998-10-05 - Stockholm, Sweden - So\u0308dra Teatern [FM].txt"
     },
     {
       "year": 1998,
@@ -180,7 +191,8 @@ const ARTIST_DATA = {
       "venue": "KCRW Morning Becomes Eclectic",
       "notes": "",
       "version": "FM",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1998-10-19 - Santa Monica, CA - KCRW Morning Becomes Eclectic [FM].txt"
     },
     {
       "year": 1999,
@@ -191,9 +203,10 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "Los Angeles, CA",
       "venue": "Largo",
-      "notes": "unk · E Solo",
+      "notes": "unk \u00b7 E Solo",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1999-09-17 - Los Angeles, CA - Largo (unk) (E Solo) [AUD].txt"
     },
     {
       "year": 2000,
@@ -204,9 +217,10 @@ const ARTIST_DATA = {
       "state": "UK",
       "location": "London, UK",
       "venue": "Dominion Theatre",
-      "notes": "Sony ECM-MS907 · unk",
+      "notes": "Sony ECM-MS907 \u00b7 unk",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "2000-03-13 - London, UK - Dominion Theatre [AUD].txt"
     },
     {
       "year": 2000,
@@ -217,9 +231,10 @@ const ARTIST_DATA = {
       "state": "Belgium",
       "location": "Antwerp, Belgium",
       "venue": "Koningin Elisabethzaal",
-      "notes": "MD(M) · Sony ECM-MS907 · unk",
+      "notes": "MD(M) \u00b7 Sony ECM-MS907 \u00b7 unk",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "2000-03-15 - Antwerpen, Belgium - Koningin Elisabeth Zaal [AUD].txt"
     },
     {
       "year": 2000,
@@ -232,7 +247,8 @@ const ARTIST_DATA = {
       "venue": "La Cigale",
       "notes": "unk",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "2000-03-17 - Paris, France - La Cigale [AUD].txt"
     },
     {
       "year": 2000,
@@ -245,7 +261,8 @@ const ARTIST_DATA = {
       "venue": "Markethalle",
       "notes": "unk",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "2000-03-19 - Hamburg, Germany - Markethalle [AUD].txt"
     },
     {
       "year": 2000,
@@ -258,7 +275,8 @@ const ARTIST_DATA = {
       "venue": "Passionskirche",
       "notes": "unk",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "2000-03-20 - Berlin, Germany - Passionskirche [AUD].txt"
     },
     {
       "year": 2000,
@@ -269,9 +287,10 @@ const ARTIST_DATA = {
       "state": "France",
       "location": "Paris, France",
       "venue": "Maison de la Radio",
-      "notes": "Studio · Black Session #158 · smog31",
+      "notes": "Studio \u00b7 Black Session #158 \u00b7 smog31",
       "version": "FM",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "2000-03-23 - Paris, France - Black Session - Maison de la Radio [FM].txt"
     },
     {
       "year": 2000,
@@ -282,9 +301,10 @@ const ARTIST_DATA = {
       "state": "The Netherlands",
       "location": "Groningen, The Netherlands",
       "venue": "Oosterpoort",
-      "notes": "MD(M) · Sony ECM-MS907 · unk",
+      "notes": "MD(M) \u00b7 Sony ECM-MS907 \u00b7 unk",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "2000-03-26 - Groningen, The Netherlands - Oosterpoort [AUD].txt"
     },
     {
       "year": 2000,
@@ -295,9 +315,10 @@ const ARTIST_DATA = {
       "state": "Portugal",
       "location": "Lisboa, Portugal",
       "venue": "Lux",
-      "notes": "ANA(M) · z",
+      "notes": "ANA(M) \u00b7 z",
       "version": "FM",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "2000-05-24 - Lisboa, Portugal - Lux - ANA(M) (z) [FM].txt"
     },
     {
       "year": 2001,
@@ -308,9 +329,10 @@ const ARTIST_DATA = {
       "state": "England",
       "location": "Reading, England",
       "venue": "Main Stage",
-      "notes": "Reading · M · EM-8 · gary watson",
+      "notes": "Reading \u00b7 M \u00b7 EM-8 \u00b7 gary watson",
       "version": "AUD #1",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "2001-08-24 - Reading, England - Main Stage - Reading Festival - DAT(M)  (EM-8) (gary watson) [AUD #1].txt"
     },
     {
       "year": 2001,
@@ -323,7 +345,8 @@ const ARTIST_DATA = {
       "venue": "The Forum",
       "notes": "",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "2001-08-28 - London, UK - The Forum [AUD].txt"
     },
     {
       "year": 2001,
@@ -336,7 +359,8 @@ const ARTIST_DATA = {
       "venue": "Planet Music",
       "notes": "",
       "version": "FM",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "2001-11-16 - Vienna, Austria - Planet Music [FM].txt"
     },
     {
       "year": 2002,
@@ -347,9 +371,10 @@ const ARTIST_DATA = {
       "state": "TX",
       "location": "Austin, TX",
       "venue": "La Zona Rosa",
-      "notes": "DSM-6S · andrew fogelsong",
+      "notes": "DSM-6S \u00b7 andrew fogelsong",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "2002-03-16 - Austin, TX - La Zona Rosa [AUD].txt"
     },
     {
       "year": 2003,
@@ -362,7 +387,8 @@ const ARTIST_DATA = {
       "venue": "The Globe",
       "notes": "unk",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "2003-09-16 - Perth, Australia - The Globe [AUD].txt"
     },
     {
       "year": 2003,
@@ -373,9 +399,10 @@ const ARTIST_DATA = {
       "state": "NY",
       "location": "Clifton Park, NY",
       "venue": "Northern Lights",
-      "notes": "Core Sound HEB · smores",
+      "notes": "Core Sound HEB \u00b7 smores",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "2003-11-01 - Clifton Park, NY - Northern Lights (Core Sound HEB) (smores) [AUD].txt"
     },
     {
       "year": 2005,
@@ -388,7 +415,8 @@ const ARTIST_DATA = {
       "venue": "KCRW",
       "notes": "Morning",
       "version": "FM",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "2005-05-09 - Santa Monica, CA - KCRW Morning Becomes Eclectic [FM].txt"
     },
     {
       "year": 2005,
@@ -401,7 +429,8 @@ const ARTIST_DATA = {
       "venue": "Postbahnhof",
       "notes": "",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "2005-06-04 - Berlin, Germany - Postbahnhof [AUD].txt"
     },
     {
       "year": 2005,
@@ -414,7 +443,8 @@ const ARTIST_DATA = {
       "venue": "KCRW Morning Becomes Eclectic",
       "notes": "",
       "version": "FM",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "2005-06-11 - Santa Monica, CA - KCRW Morning Becomes Eclectic [FM].txt"
     },
     {
       "year": 2005,
@@ -425,9 +455,10 @@ const ARTIST_DATA = {
       "state": "PA",
       "location": "Philadelphia, PA",
       "venue": "World Cafe",
-      "notes": "Panasonic Binaurals · unk",
+      "notes": "Panasonic Binaurals \u00b7 unk",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "2005-06-27 - Philadelphia, PA - World Cafe [AUD].txt"
     },
     {
       "year": 2006,
@@ -438,9 +469,10 @@ const ARTIST_DATA = {
       "state": "WA",
       "location": "Seattle, WA",
       "venue": "Showbox",
-      "notes": "DAT(M) · unk",
+      "notes": "DAT(M) \u00b7 unk",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "2006-04-06 - Seattle, WA - Showbox - DAT(M) (unk) [AUD].txt"
     },
     {
       "year": 2006,
@@ -453,7 +485,8 @@ const ARTIST_DATA = {
       "venue": "Open Air Stadium",
       "notes": "",
       "version": "FM",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "2006-06-30 - Gallen, Switzerland - Open Air, St. [FM].txt"
     },
     {
       "year": 2008,
@@ -464,9 +497,10 @@ const ARTIST_DATA = {
       "state": "UK",
       "location": "London, UK",
       "venue": "BBC Session",
-      "notes": "E Solo · tommymc",
+      "notes": "E Solo \u00b7 tommymc",
       "version": "FM",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "2008-02-19 - London, UK - BBC Session [FM].txt"
     },
     {
       "year": 2008,
@@ -477,9 +511,10 @@ const ARTIST_DATA = {
       "state": "UK",
       "location": "London, UK",
       "venue": "Royal Festival Hall",
-      "notes": "SP-CMC-8 · unk",
+      "notes": "SP-CMC-8 \u00b7 unk",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "2008-02-25 - London, England - Royal Festival Hall [AUD].txt"
     },
     {
       "year": 2008,
@@ -490,9 +525,10 @@ const ARTIST_DATA = {
       "state": "England",
       "location": "Gateshead, England",
       "venue": "The Sage",
-      "notes": "MM-MCSM-3 · netheredgeman",
+      "notes": "MM-MCSM-3 \u00b7 netheredgeman",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "2008-03-01 - Gateshead, England - The Sage [AUD].txt"
     },
     {
       "year": 2008,
@@ -503,9 +539,10 @@ const ARTIST_DATA = {
       "state": "NY",
       "location": "New York, NY",
       "venue": "Highline Ballroom",
-      "notes": "DPA 4061s · spitback",
+      "notes": "DPA 4061s \u00b7 spitback",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "2008-04-02 - New York, NY - Highline Ballroom [AUD].txt"
     },
     {
       "year": 2008,
@@ -518,7 +555,8 @@ const ARTIST_DATA = {
       "venue": "KCRW In session",
       "notes": "nibbler",
       "version": "FM",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "2008-04-15 - Santa Monica, CA - Live In Session - KCRW [FM].txt"
     },
     {
       "year": 2008,
@@ -529,9 +567,10 @@ const ARTIST_DATA = {
       "state": "Australia",
       "location": "Sydney, Australia",
       "venue": "Enmore Theatre",
-      "notes": "CA-11 · exileded",
+      "notes": "CA-11 \u00b7 exileded",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "2008-04-27 - Sydney, Australia - Enmore Theatre [AUD].txt"
     },
     {
       "year": 2010,
@@ -542,9 +581,10 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "Santa Monica, CA",
       "venue": "KCRW Radio",
-      "notes": "Morning · nibbler",
+      "notes": "Morning \u00b7 nibbler",
       "version": "FM",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "2010-10-13 - Santa Monica, CA - Live In Session on MBE - KCRW [FM].txt"
     },
     {
       "year": 2013,
@@ -557,7 +597,8 @@ const ARTIST_DATA = {
       "venue": "Rock en Seine",
       "notes": "netspy",
       "version": "PRO",
-      "format": "TS"
+      "format": "TS",
+      "textFile": "2013-08-25 - Parc National de Saint-Cloud, France - Rock en Seine [PRO].txt"
     },
     {
       "year": 2018,
@@ -570,7 +611,8 @@ const ARTIST_DATA = {
       "venue": "",
       "notes": "",
       "version": "FM",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "2018-05-24 - Santa Monica, CA - Morning Becomes Eclectic - KCRW [FM].txt"
     },
     {
       "year": 2018,
@@ -581,9 +623,10 @@ const ARTIST_DATA = {
       "state": "WA",
       "location": "Seattle, WA",
       "venue": "Showbox",
-      "notes": "Shure MV88 · unk",
+      "notes": "Shure MV88 \u00b7 unk",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "2018-06-02 - Seattle, WA - Showbox (Shure MV88) (unk) [AUD].txt"
     },
     {
       "year": 2018,
@@ -594,9 +637,10 @@ const ARTIST_DATA = {
       "state": "NY",
       "location": "Brooklyn, NY",
       "venue": "Brooklyn Steel",
-      "notes": "Schoeps MK41s · spitback",
+      "notes": "Schoeps MK41s \u00b7 spitback",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "2018-06-09 - Brooklyn, NY - Brooklyn Steel [AUD].txt"
     },
     {
       "year": 2018,
@@ -609,7 +653,8 @@ const ARTIST_DATA = {
       "venue": "La Maison de la Radio \"Very Good Trip\"",
       "notes": "",
       "version": "FM",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "2018-06-16 - Paris, France - La Maison de la Radio [FM].txt"
     },
     {
       "year": 2019,
@@ -620,9 +665,10 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "Los Angeles, CA",
       "venue": "Theatre at Ace Hotel",
-      "notes": "SP-CMC-4U · unk",
+      "notes": "SP-CMC-4U \u00b7 unk",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "2019-05-12 - Los Angeles, CA - Theatre at Ace Hotel [AUD].txt"
     },
     {
       "year": 2019,
@@ -635,7 +681,8 @@ const ARTIST_DATA = {
       "venue": "Pukkelpop",
       "notes": "trebor",
       "version": "FM",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "2019-08-17 - Hasselt, Belgium - Pukkelpop [FM].txt"
     },
     {
       "year": 2019,
@@ -648,7 +695,8 @@ const ARTIST_DATA = {
       "venue": "Pukkelpop",
       "notes": "",
       "version": "TV",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "2019-08-17 - Hasselt, Belgium - Pukkelpop Festival [TV].txt"
     },
     {
       "year": 2019,
@@ -659,9 +707,10 @@ const ARTIST_DATA = {
       "state": "France",
       "location": "Saint Cloud, France",
       "venue": "Rock en Seine",
-      "notes": "SP-CMC-8 · unk",
+      "notes": "SP-CMC-8 \u00b7 unk",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "2019-08-23 - Saint Cloud, France - Rock en Seine [AUD].txt"
     },
     {
       "year": 2019,
@@ -672,9 +721,10 @@ const ARTIST_DATA = {
       "state": "The Netherlands",
       "location": "Amstelveen, The Netherlands",
       "venue": "Amsterdamse Bos",
-      "notes": "Once · SP-CMC-8 · dutchbird",
+      "notes": "Once \u00b7 SP-CMC-8 \u00b7 dutchbird",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "2019-08-24 - Amstelveen, The Netherland - Amsterdamse Bo [AUD].txt"
     },
     {
       "year": 2019,
@@ -685,9 +735,10 @@ const ARTIST_DATA = {
       "state": "France",
       "location": "Lyon, France",
       "venue": "Radiant Bellevue",
-      "notes": "DPA 4061s & IEM · a&j&h",
+      "notes": "DPA 4061s & IEM \u00b7 a&j&h",
       "version": "MTX",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "2019-09-10 - Lyon, France - Radiant Bellevue [MTX].txt"
     },
     {
       "year": 2021,
@@ -700,7 +751,8 @@ const ARTIST_DATA = {
       "venue": "KCRW Morning Becomes Eclectic",
       "notes": "",
       "version": "FM",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "2021-01-29 - Santa Monica, CA - KCRW Morning Becomes Eclectic [FM].txt"
     },
     {
       "year": 2023,
@@ -711,9 +763,10 @@ const ARTIST_DATA = {
       "state": "Luxembourg",
       "location": "Luxembourg, Luxembourg",
       "venue": "Den Atelier",
-      "notes": "CSB · unk",
+      "notes": "CSB \u00b7 unk",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "2023-04-11 - Luxembourg, Luxembourg - Den Atelier (CSB) (unk) [AUD].txt"
     }
   ],
   "misc": [

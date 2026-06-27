@@ -30,7 +30,8 @@ const ARTIST_DATA = {
       "venue": "Live from the Pit",
       "notes": "107.3",
       "version": "FM",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1997-01-24 - Kalamazoo, MI - Live from the Pit (107.3) [FM].txt"
     },
     {
       "year": 1997,
@@ -43,7 +44,8 @@ const ARTIST_DATA = {
       "venue": "The Rave",
       "notes": "Sony ECM907",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1997-04-18 - Milwaukee, WI - The Rave (Sony ECM907)  [AUD].txt"
     },
     {
       "year": 1997,
@@ -54,9 +56,10 @@ const ARTIST_DATA = {
       "state": "IL",
       "location": "Chicago, IL",
       "venue": "Vic Theater",
-      "notes": "The · M · unk",
+      "notes": "The \u00b7 M \u00b7 unk",
       "version": "FM",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1997-08-15 - Chicago, IL - Vic Theater - The Album Network - ANA(M) (unk) [FM].txt"
     },
     {
       "year": 2001,
@@ -67,9 +70,10 @@ const ARTIST_DATA = {
       "state": "MI",
       "location": "Grand Rapids, MI",
       "venue": "Ah-Nab-Awen Park WGRD",
-      "notes": "DAT(M) · AT933 · rlhammon",
+      "notes": "DAT(M) \u00b7 AT933 \u00b7 rlhammon",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "2001-09-08 - Grand Rapids, MI - Ah-Nab-Awen Park WGRD - DAT(M) (AT933) (rlhammon) [AUD].txt"
     },
     {
       "year": 2014,
@@ -80,9 +84,10 @@ const ARTIST_DATA = {
       "state": "MI",
       "location": "Ann Arbor, MI",
       "venue": "The Ark",
-      "notes": "DPA 4060 · live2cd",
+      "notes": "DPA 4060 \u00b7 live2cd",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "2014-11-01 - Ann Arbor, MI - The Ark (DPA 4060) (live2cd) [AUD].txt"
     },
     {
       "year": 2019,
@@ -93,9 +98,10 @@ const ARTIST_DATA = {
       "state": "IN",
       "location": "Indianapolis, IN",
       "venue": "The HiFi",
-      "notes": "CA-14 · charles dewey cole",
+      "notes": "CA-14 \u00b7 charles dewey cole",
       "version": "AUD",
-      "format": "FLAC 24"
+      "format": "FLAC 24",
+      "textFile": "2019-03-28 - Indianapolis, IN - The HiFi (CA-14) (charles dewey cole) [AUD24].txt"
     },
     {
       "year": 2019,
@@ -106,9 +112,10 @@ const ARTIST_DATA = {
       "state": "MI",
       "location": "Kalamazoo, MI",
       "venue": "Bell's Eccentric Cafe",
-      "notes": "CA-14 · charles dewey cole",
+      "notes": "CA-14 \u00b7 charles dewey cole",
       "version": "AUD",
-      "format": "FLAC 24"
+      "format": "FLAC 24",
+      "textFile": "2019-09-07 - Kalamazoo, MI - Bell's Eccentric Cafe (CA-14) (charles dewey cole) [AUD24].txt"
     },
     {
       "year": 2019,
@@ -119,9 +126,10 @@ const ARTIST_DATA = {
       "state": "MI",
       "location": "Ann Arbor, MI",
       "venue": "The Ark",
-      "notes": "DPA 4060 · charles dewey cole",
+      "notes": "DPA 4060 \u00b7 charles dewey cole",
       "version": "AUD",
-      "format": "FLAC 24"
+      "format": "FLAC 24",
+      "textFile": "2019-10-12 - Ann Arbor, MI - The Ark (DPA 4060) (charles dewey cole) [AUD24].txt"
     },
     {
       "year": 2020,
@@ -132,9 +140,10 @@ const ARTIST_DATA = {
       "state": "MI",
       "location": "Detroit, MI",
       "venue": "St. Andrews Hall",
-      "notes": "CA-14s · charles dewey cole",
+      "notes": "CA-14s \u00b7 charles dewey cole",
       "version": "AUD",
-      "format": "FLAC 24"
+      "format": "FLAC 24",
+      "textFile": "2020-02-08 - Detroit, MI - St. Andrews Hall (CA-14s) (charles dewey cole) [AUD24].txt"
     },
     {
       "year": 2021,
@@ -145,9 +154,10 @@ const ARTIST_DATA = {
       "state": "MI",
       "location": "Ann Arbor, MI",
       "venue": "The Ark",
-      "notes": "HEB DPA 4060 · charles dewey cole",
+      "notes": "HEB DPA 4060 \u00b7 charles dewey cole",
       "version": "AUD",
-      "format": "FLAC 24"
+      "format": "FLAC 24",
+      "textFile": "2021-10-09 - Ann Arbor, MI - The Ark (DPA 4060) (charles dewey cole) [AUD24].txt"
     },
     {
       "year": 2021,
@@ -158,9 +168,10 @@ const ARTIST_DATA = {
       "state": "WI",
       "location": "Milwaukee, WI",
       "venue": "The Back Room",
-      "notes": "Colectivo · Zoom H4n · charles dewey cole",
+      "notes": "Colectivo \u00b7 Zoom H4n \u00b7 charles dewey cole",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "2021-12-11 - Milwaukee, WI - The Back Room - Colectivo (Zoom H4n) (charles dewey cole) [AUD].txt"
     },
     {
       "year": 2022,
@@ -171,9 +182,10 @@ const ARTIST_DATA = {
       "state": "MO",
       "location": "St. Louis, MO",
       "venue": "The Pageant Theatre",
-      "notes": "Neumann KSM 184 + SBD · shane e. calhoon",
+      "notes": "Neumann KSM 184 + SBD \u00b7 shane e. calhoon",
       "version": "MIX",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "2022-08-09 - St. Louis, MO - The Pageant Theatre (Neumann KSM 184 + SBD) (shane e. calhoon) [MIX].txt"
     },
     {
       "year": 2022,
@@ -184,9 +196,10 @@ const ARTIST_DATA = {
       "state": "OH",
       "location": "Findlay, OH",
       "venue": "Donnell Theater at the Marathon Center for the Performing Arts",
-      "notes": "CA-14s · charles dewey cole",
+      "notes": "CA-14s \u00b7 charles dewey cole",
       "version": "AUD",
-      "format": "FLAC 24"
+      "format": "FLAC 24",
+      "textFile": "2022-08-11 - Findlay, OH - Donnell Theater at the Marathon Center for the Performing Arts (CA-14s) (charles dewey cole) [AUD24].txt"
     },
     {
       "year": 2022,
@@ -197,9 +210,10 @@ const ARTIST_DATA = {
       "state": "OH",
       "location": "Mason, OH",
       "venue": "Timberwolf Amphitheatre at Kings Island",
-      "notes": "CA-14 · charles dewey cole",
+      "notes": "CA-14 \u00b7 charles dewey cole",
       "version": "AUD",
-      "format": "FLAC 24"
+      "format": "FLAC 24",
+      "textFile": "2022-08-20 - Mason, OH - Timberwolf Amphitheatre at Kings Island (CA-14) (charles dewey cole) [AUD24].txt"
     },
     {
       "year": 2022,
@@ -210,9 +224,10 @@ const ARTIST_DATA = {
       "state": "OH",
       "location": "Cincinnati, OH",
       "venue": "Element Eatery",
-      "notes": "DPA 4060 · live2cd",
+      "notes": "DPA 4060 \u00b7 live2cd",
       "version": "AUD",
-      "format": "FLAC 24"
+      "format": "FLAC 24",
+      "textFile": "2022-09-24 - Cincinnati, OH - Element Eatery (DPA 4060) (live2cd) [AUD24].txt"
     },
     {
       "year": 2022,
@@ -223,9 +238,10 @@ const ARTIST_DATA = {
       "state": "MI",
       "location": "Ann Arbor, MI",
       "venue": "The Ark",
-      "notes": "DPA 4060 · charles dewey cole",
+      "notes": "DPA 4060 \u00b7 charles dewey cole",
       "version": "AUD",
-      "format": "FLAC 24"
+      "format": "FLAC 24",
+      "textFile": "2022-10-14 - Ann Arbor, MI - The Ark (DPA 4060) (charles dewey cole) [AUD24].txt"
     },
     {
       "year": 2023,
@@ -236,9 +252,10 @@ const ARTIST_DATA = {
       "state": "MO",
       "location": "St. Louis, MO",
       "venue": "City Winery",
-      "notes": "CA-14s · live2cd",
+      "notes": "CA-14s \u00b7 live2cd",
       "version": "AUD",
-      "format": "FLAC 24"
+      "format": "FLAC 24",
+      "textFile": "2023-03-23 - St. Louis, MO - City Winery (CA-14s) (live2cd) [AUD24].txt"
     },
     {
       "year": 2023,
@@ -249,9 +266,10 @@ const ARTIST_DATA = {
       "state": "MI",
       "location": "Grand Rapids, MI",
       "venue": "The Listening Lawn",
-      "notes": "Zoom H4n Pro · oilman",
+      "notes": "Zoom H4n Pro \u00b7 oilman",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "2023-07-22 - Grand Rapids, MI - The Listening Lawn (Zoom H4n Pro) (oilman) [AUD].txt"
     },
     {
       "year": 2023,
@@ -262,9 +280,10 @@ const ARTIST_DATA = {
       "state": "MI",
       "location": "Ann Arbor, MI",
       "venue": "The Ark",
-      "notes": "HEB DPA 4060 · live2cd",
+      "notes": "HEB DPA 4060 \u00b7 live2cd",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "2023-10-14 - Ann Arbor, MI - The Ark (HEB DPA 4060) (live2cd) [AUD].txt"
     },
     {
       "year": 2024,
@@ -275,9 +294,10 @@ const ARTIST_DATA = {
       "state": "MI",
       "location": "Grand Rapids, MI",
       "venue": "20 Monroe Live",
-      "notes": "Zoom H4n Pro · oilman",
+      "notes": "Zoom H4n Pro \u00b7 oilman",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "2024-02-10 - Grand Rapids, MI - 20 Monroe Live (Zoom H4n Pro) (oilman) [AUD].txt"
     },
     {
       "year": 2024,
@@ -288,9 +308,10 @@ const ARTIST_DATA = {
       "state": "OH",
       "location": "Columbus, OH",
       "venue": "Woodlands Tavern",
-      "notes": "CA-14s · live2cd",
+      "notes": "CA-14s \u00b7 live2cd",
       "version": "AUD",
-      "format": "FLAC 24"
+      "format": "FLAC 24",
+      "textFile": "2024-05-08 - Columbus, OH - Woodlands Tavern (CA-14s) (live2cd) [AUD24].txt"
     },
     {
       "year": 2024,
@@ -301,9 +322,10 @@ const ARTIST_DATA = {
       "state": "OH",
       "location": "Cincinnati, OH",
       "venue": "The Woodward Theatre",
-      "notes": "SP-CMC-8 · live2cd",
+      "notes": "SP-CMC-8 \u00b7 live2cd",
       "version": "AUD",
-      "format": "FLAC 24"
+      "format": "FLAC 24",
+      "textFile": "2024-05-09 - Cincinnati, OH - The Woodward Theatre (Sp-CMC-8) (live2cd) [AUD24].txt"
     },
     {
       "year": 2024,
@@ -314,9 +336,10 @@ const ARTIST_DATA = {
       "state": "MI",
       "location": "Ann Arbor, MI",
       "venue": "The Ark",
-      "notes": "DPA 4060 · live2cd",
+      "notes": "DPA 4060 \u00b7 live2cd",
       "version": "AUD",
-      "format": "FLAC 24"
+      "format": "FLAC 24",
+      "textFile": "2024-10-12 - Ann Arbor, MI - The Ark (DPA 4060) (live2cd) [AUD24].txt"
     },
     {
       "year": 2025,
@@ -327,9 +350,10 @@ const ARTIST_DATA = {
       "state": "MI",
       "location": "Ann Arbor, MI",
       "venue": "The Ark",
-      "notes": "Brian Vander Ark Solo · HEB DPA 4060 · live2cd",
+      "notes": "Brian Vander Ark Solo \u00b7 HEB DPA 4060 \u00b7 live2cd",
       "version": "AUD",
-      "format": "FLAC 24"
+      "format": "FLAC 24",
+      "textFile": "2025-02-16 - Ann Arbor, MI - The Ark (Brian Vander Ark Solo) (HEB DPA 4060) (live2cd) [AUD24].txt"
     },
     {
       "year": 2025,
@@ -340,9 +364,10 @@ const ARTIST_DATA = {
       "state": "WI",
       "location": "Appleton, WI",
       "venue": "Crazy Todd's Block Party",
-      "notes": "Shure MV88 + Sennheiser Ambeo · unk",
+      "notes": "Shure MV88 + Sennheiser Ambeo \u00b7 unk",
       "version": "MIX",
-      "format": "FLAC 24"
+      "format": "FLAC 24",
+      "textFile": "2025-08-17 - Appleton, WI - Crazy Todd's Block Party (Shure MV88 + Sennheiser Ambeo) (unk) [MIX24].txt"
     },
     {
       "year": 2026,
@@ -353,9 +378,10 @@ const ARTIST_DATA = {
       "state": "OH",
       "location": "Wadsworth, OH",
       "venue": "The Celestia Theater",
-      "notes": "CA-14 · live2cd",
+      "notes": "CA-14 \u00b7 live2cd",
       "version": "AUD",
-      "format": "FLAC 24"
+      "format": "FLAC 24",
+      "textFile": "2026-01-17 - Wadsworth, OH - The Celestia Theater (CA-14) (live2cd) [AUD24].txt"
     },
     {
       "year": 2026,
@@ -366,9 +392,10 @@ const ARTIST_DATA = {
       "state": "NJ",
       "location": "Asbury Park, NJ",
       "venue": "The Stone Pony",
-      "notes": "AT853 · tapergregg",
+      "notes": "AT853 \u00b7 tapergregg",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "2026-03-29 - Asbury Park, NJ - The Stone Pony (AT853) (tapergregg) [AUD].txt"
     },
     {
       "year": 2026,
@@ -379,9 +406,10 @@ const ARTIST_DATA = {
       "state": "MI",
       "location": "Detroit, MI",
       "venue": "The Fillmore Detroit",
-      "notes": "SP-CMC-8 · live2cd",
+      "notes": "SP-CMC-8 \u00b7 live2cd",
       "version": "AUD",
-      "format": "FLAC 24"
+      "format": "FLAC 24",
+      "textFile": "2026-04-02 - Detroit, MI - The Fillmore Detroit (SP-CMC-8) (live2cd) [AUD24].txt"
     },
     {
       "year": 2026,
@@ -392,9 +420,10 @@ const ARTIST_DATA = {
       "state": "OH",
       "location": "Cincinnati, OH",
       "venue": "Bogart's",
-      "notes": "SP-CMC-8 · live2cd",
+      "notes": "SP-CMC-8 \u00b7 live2cd",
       "version": "AUD",
-      "format": "FLAC 24"
+      "format": "FLAC 24",
+      "textFile": "2026-04-07 - Cincinnati, OH - Bogart's (SP-CMC-8) (live2cd) [AUD24].txt"
     }
   ],
   "misc": []

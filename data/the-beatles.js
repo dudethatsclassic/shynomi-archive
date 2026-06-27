@@ -22,9 +22,10 @@ const ARTIST_DATA = {
       "state": "England",
       "location": "Buckinghamshire, England, UK",
       "venue": "Roxburgh Hall",
-      "notes": "Stowe · John Bloomfield-EVSD-Goody",
+      "notes": "Stowe \u00b7 John Bloomfield-EVSD-Goody",
       "version": "Silver CD",
-      "format": ""
+      "format": "",
+      "textFile": "1963-04-04 - Buckinghamshire, England, UK - Roxburgh Hall - Stowe School (John Bloomfield-EVSD 'AI Demix'-Goody) CD2 [Silver].txt"
     },
     {
       "year": 1963,
@@ -35,7 +36,7 @@ const ARTIST_DATA = {
       "state": "England",
       "location": "Buckinghamshire, England, UK",
       "venue": "Roxburgh Hall",
-      "notes": "Stowe · John Bloomfield-EVSD-Goody",
+      "notes": "Stowe \u00b7 John Bloomfield-EVSD-Goody",
       "version": "Silver CD",
       "format": ""
     },
@@ -50,7 +51,8 @@ const ARTIST_DATA = {
       "venue": "Live At the Hollywood Bowl",
       "notes": "",
       "version": "SBD",
-      "format": ""
+      "format": "",
+      "textFile": "1964-08-23 - Hollywood, CA - Hollywood Bowl [SBD].txt"
     },
     {
       "year": 1964,
@@ -63,7 +65,8 @@ const ARTIST_DATA = {
       "venue": "Convention Hall *Philadelphia 1964 Off Reel",
       "notes": "",
       "version": "preFM",
-      "format": ""
+      "format": "",
+      "textFile": "1964-09-02 - Philadelphia, PA - Convention Hall [preFM].txt"
     },
     {
       "year": 1964,
@@ -74,9 +77,10 @@ const ARTIST_DATA = {
       "state": "",
       "location": "Philadelphia PA",
       "venue": "Convention Hall",
-      "notes": "Mono Reel · 24.96 · 2022 · krw_co transfer",
+      "notes": "Mono Reel \u00b7 24.96 \u00b7 2022 \u00b7 krw_co transfer",
       "version": "SBD",
-      "format": ""
+      "format": "",
+      "textFile": "1964-09-02 - Philadelphia PA - Convention Hall (Mono Reel) (24.96) (krw_co transfer) [SBD].txt"
     },
     {
       "year": 1964,
@@ -89,7 +93,8 @@ const ARTIST_DATA = {
       "venue": "State Fair",
       "notes": "",
       "version": "SBD",
-      "format": ""
+      "format": "",
+      "textFile": "1964-09-03 - Indianapolis, IN - State Fair Coliseum (krw_co) [SBD24].txt"
     },
     {
       "year": 1964,
@@ -115,7 +120,8 @@ const ARTIST_DATA = {
       "venue": "Palais Des Sports",
       "notes": "Afternoon & Evening Show",
       "version": "Vinyl",
-      "format": ""
+      "format": "",
+      "textFile": "1965-08-01 - Paris, France - Palais Des Sports (Afternoon & Evening Show) [VINYL].txt"
     },
     {
       "year": 1965,
@@ -128,7 +134,8 @@ const ARTIST_DATA = {
       "venue": "Shea Stadium  *The Great Concert at Shea!",
       "notes": "HMC 001-b",
       "version": "Silver CD",
-      "format": ""
+      "format": "",
+      "textFile": "1965-08-15 - New York, NY - Shea Stadium - The Great Concert at Shea (HMC 001-b) [Silver].txt"
     },
     {
       "year": 1965,
@@ -141,7 +148,8 @@ const ARTIST_DATA = {
       "venue": "Houston Coliseum (Afternoon/Evening Show) *The Live Beatles",
       "notes": "BGCD-034",
       "version": "Silver CD",
-      "format": ""
+      "format": "",
+      "textFile": "1965-08-19 - Houston, TX - Sam Houston Coliseum [Silver].txt"
     },
     {
       "year": 1966,
@@ -167,7 +175,8 @@ const ARTIST_DATA = {
       "venue": "Circus-Krone-Bau",
       "notes": "",
       "version": "SBD",
-      "format": ""
+      "format": "",
+      "textFile": "1966-06-24 - Munich, Germany - Circus-Krone-Bau [SBD].txt"
     },
     {
       "year": 1966,
@@ -180,7 +189,8 @@ const ARTIST_DATA = {
       "venue": "Grugahalle",
       "notes": "",
       "version": "SBD",
-      "format": ""
+      "format": "",
+      "textFile": "1966-06-25 - Essen, W. Germany - Grugahalle [SBD].txt"
     },
     {
       "year": 1966,
@@ -193,7 +203,8 @@ const ARTIST_DATA = {
       "venue": "Budokan Hall *Five Nights in a Judo Arena",
       "notes": "TSP 011",
       "version": "Vinyl",
-      "format": ""
+      "format": "",
+      "textFile": "1966-06-30 - Tokyo, Japan - Budokan Hall (TSP-011) [VINYL24].txt"
     },
     {
       "year": 1966,
@@ -206,7 +217,8 @@ const ARTIST_DATA = {
       "venue": "Candlestick Park",
       "notes": "Last show",
       "version": "SBD",
-      "format": ""
+      "format": "",
+      "textFile": "1966-08-29 - San, Francisco  CA - Candlestick Park (Last Show) [Silver].txt"
     },
     {
       "year": 1969,
@@ -219,7 +231,8 @@ const ARTIST_DATA = {
       "venue": "",
       "notes": "",
       "version": "Silver CD",
-      "format": ""
+      "format": "",
+      "textFile": "1969-01-30 - The Complete Rooftop Concert (YD015) [Silver].txt"
     }
   ],
   "misc": [

@@ -22,7 +22,8 @@ const ARTIST_DATA = {
       "venue": "Kulturbrauerei",
       "notes": "",
       "version": "FM",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "2003-09-11 - Berlin, Germany - Kulturbrauerei [FM].txt"
     },
     {
       "year": 2006,
@@ -35,7 +36,8 @@ const ARTIST_DATA = {
       "venue": "Martyr's",
       "notes": "",
       "version": "FM",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "2006-09-09 - Chicago, IL - Martyr's [FM].txt"
     },
     {
       "year": 2019,
@@ -48,7 +50,8 @@ const ARTIST_DATA = {
       "venue": "The Pageant",
       "notes": "",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "2019-05-15 - St. Louis, MO - The Pageant [AUD].txt"
     },
     {
       "year": 2019,
@@ -61,7 +64,8 @@ const ARTIST_DATA = {
       "venue": "KCRW",
       "notes": "Morning",
       "version": "FM",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "2019-08-13 - Santa Monica, CA - KCRW Morning Becomes Eclectic [FM].txt"
     }
   ],
   "misc": []

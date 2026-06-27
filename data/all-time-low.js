@@ -22,7 +22,8 @@ const ARTIST_DATA = {
       "venue": "Reading Festival Main Stage West (BBC Webcast Live Stream",
       "notes": "",
       "version": "WEB",
-      "format": "MKV"
+      "format": "MKV",
+      "textFile": "2022-08-26 - Reading, UK - Reading Festival Main Stage West (BBC Webcast Live Stream [WEB].txt"
     },
     {
       "year": 2024,
@@ -33,9 +34,10 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "Inglewood, CA",
       "venue": "Kia Forum",
-      "notes": "DPA 4081 · faninor",
+      "notes": "DPA 4081 \u00b7 faninor",
       "version": "AUD",
-      "format": "FLAC 24"
+      "format": "FLAC 24",
+      "textFile": "2024-05-30 - Inglewood, CA - Kia Forum (DPA 4081) (faninor) [AUD24].txt"
     },
     {
       "year": 2025,
@@ -48,7 +50,8 @@ const ARTIST_DATA = {
       "venue": "Tinker Field",
       "notes": "Vans",
       "version": "PRO",
-      "format": "MP4"
+      "format": "MP4",
+      "textFile": "2025-11-16 - Orlando, FL - Tinker Field - Vans Warped '25 Festival [WEB].txt"
     }
   ],
   "misc": []

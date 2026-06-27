@@ -43,7 +43,8 @@ const ARTIST_DATA = {
       "venue": "The Metro *Sweet Home Chicago",
       "notes": "",
       "version": "Silver CD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1994-07-06 - Chicago, IL - The Metro - Sweet Home Chicago [Silver].txt"
     },
     {
       "year": 1994,
@@ -56,7 +57,8 @@ const ARTIST_DATA = {
       "venue": "The Palace of Auburn Hills",
       "notes": "",
       "version": "SBD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1994-09-24 - Auburn Hills, MI - The Palace of Auburn Hills [SBD].txt"
     },
     {
       "year": 1994,
@@ -69,7 +71,8 @@ const ARTIST_DATA = {
       "venue": "The Roxy",
       "notes": "Westwood One Broadcast",
       "version": "FM",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1994-12-14 - W. Hollywood, CA - Westwood One [FM].txt"
     },
     {
       "year": 1995,
@@ -80,9 +83,10 @@ const ARTIST_DATA = {
       "state": "FL",
       "location": "Miami, FL",
       "venue": "Miami Arena",
-      "notes": "Sony TC-WE475 · floridian",
+      "notes": "Sony TC-WE475 \u00b7 floridian",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1995-03-17 - Miami, FL - Miami Arena (floridian) [AUD].txt"
     },
     {
       "year": 1995,
@@ -93,9 +97,10 @@ const ARTIST_DATA = {
       "state": "TX",
       "location": "San Antonio, TX",
       "venue": "Hemisfair Arena",
-      "notes": "DAT(M) · Sony WMD3 · steecoe",
+      "notes": "DAT(M) \u00b7 Sony WMD3 \u00b7 steecoe",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1995-03-25 - San Antonio, TX - Hemisfair Arena - DAT(M) (Sony WMD3) (steecoe) [AUD].txt"
     },
     {
       "year": 1995,
@@ -106,9 +111,10 @@ const ARTIST_DATA = {
       "state": "WI",
       "location": "Milwaukee, WI",
       "venue": "Henry W. Maier Festival Park",
-      "notes": "SS DSM6 · cruciferous",
+      "notes": "SS DSM6 \u00b7 cruciferous",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1995-07-09 - Milwaukee, WI - Henry W. Maier Festival Park (SS DSM6) (cruciferous) [AUD].txt"
     },
     {
       "year": 1995,
@@ -119,7 +125,7 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "San Francisco, CA",
       "venue": "The Fillmore",
-      "notes": "unk · neekrive",
+      "notes": "unk \u00b7 neekrive",
       "version": "AUD",
       "format": "FLAC"
     },
@@ -147,7 +153,8 @@ const ARTIST_DATA = {
       "venue": "Grant Park",
       "notes": "Petrillo",
       "version": "FM",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1997-07-04 - Chicago, IL - Grant Park - Petrillo Band Shell [FM].txt"
     },
     {
       "year": 1999,
@@ -158,9 +165,10 @@ const ARTIST_DATA = {
       "state": "MI",
       "location": "Detroit, MI",
       "venue": "State Theatre",
-      "notes": "Sony ECM-MS907 · live2cd",
+      "notes": "Sony ECM-MS907 \u00b7 live2cd",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1999-04-06 - Detroit, MI - State Theatre (Sony ECM-MS907) (live2cd) [AUD].txt"
     },
     {
       "year": 1999,
@@ -173,7 +181,8 @@ const ARTIST_DATA = {
       "venue": "Atlanta Motor Speedway",
       "notes": "",
       "version": "FM",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1999-06-05 - Atlanta, GA - Atlanta Motor Speedway (Collective Soul and Offspring) [FM].txt"
     },
     {
       "year": 1999,
@@ -184,9 +193,10 @@ const ARTIST_DATA = {
       "state": "WI",
       "location": "Milwaukee, WI",
       "venue": "Summerfest",
-      "notes": "Lazer · frankmhere",
+      "notes": "Lazer \u00b7 frankmhere",
       "version": "FM",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1999-07-04 - Milwaukee, WI - Summerfest WLZR Lazer 103 Rock Stage (frankmhere) [FM].txt"
     },
     {
       "year": 1999,
@@ -197,9 +207,10 @@ const ARTIST_DATA = {
       "state": "OH",
       "location": "Toledo, OH",
       "venue": "Toledo Museum of Art Peristyle Theatre",
-      "notes": "Sony MZR30 MD · live2cd",
+      "notes": "Sony MZR30 MD \u00b7 live2cd",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1999-07-14 - Toledo, OH - Toledo Museum of Art Peristyle Theatre [AUD].txt"
     },
     {
       "year": 1999,
@@ -212,7 +223,8 @@ const ARTIST_DATA = {
       "venue": "Tweeter Center",
       "notes": "unk",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1999-08-21 - Mansfield, MA - Tweeter Center (unk) [AUD].txt"
     },
     {
       "year": 2001,
@@ -223,9 +235,10 @@ const ARTIST_DATA = {
       "state": "MI",
       "location": "Sterling Heights, MI",
       "venue": "Freedom Hill Amphitheatre",
-      "notes": "Sony Walkman recorder · dcd6575",
+      "notes": "Sony Walkman recorder \u00b7 dcd6575",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "2001-06-10 - Sterling Heights, MI - Freedom Hill Amphitheatre (Sony Walkman recorder) (dcd6575) [AUD].txt"
     },
     {
       "year": 2003,
@@ -236,9 +249,10 @@ const ARTIST_DATA = {
       "state": "NC",
       "location": "Charlotte, NC",
       "venue": "Ericsson Stadium",
-      "notes": "DPA 4022 · unk",
+      "notes": "DPA 4022 \u00b7 unk",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "2003-04-25 - Charlotte, NC - Ericsson Stadium (DPA 4022) (unk) [AUD].txt"
     },
     {
       "year": 2003,
@@ -251,7 +265,8 @@ const ARTIST_DATA = {
       "venue": "National Rock Stage",
       "notes": "live2cd",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "2003-08-29 - Pontiac, MI - National Rock Stage (live2cd) [AUD].txt"
     },
     {
       "year": 2004,
@@ -262,9 +277,10 @@ const ARTIST_DATA = {
       "state": "FL",
       "location": "Orlando, FL",
       "venue": "House of Blues",
-      "notes": "Sony ECM-717 · kevdogg",
+      "notes": "Sony ECM-717 \u00b7 kevdogg",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "2004-07-21 - Orlando, FL - House of Blues (Sony ECM-717) (kevdogg) [AUD].txt"
     },
     {
       "year": 2004,
@@ -275,9 +291,10 @@ const ARTIST_DATA = {
       "state": "PA",
       "location": "Allentown, PA",
       "venue": "Crocodile Rock Cafe",
-      "notes": "AT831 · eric naylor",
+      "notes": "AT831 \u00b7 eric naylor",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "2004-09-09 - Allentown, PA - Crocodile Rock Cafe (AT831) (eric naylor) [AUD].txt"
     },
     {
       "year": 2004,
@@ -288,9 +305,10 @@ const ARTIST_DATA = {
       "state": "FL",
       "location": "Orlando, FL",
       "venue": "Tinker Field",
-      "notes": "Sony ECM-DS70P · kevdogg",
+      "notes": "Sony ECM-DS70P \u00b7 kevdogg",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "2004-10-22 - Orlando, FL - Tinker Field (Sony ECM-DS70P) (kevdogg) [AUD].txt"
     },
     {
       "year": 2005,
@@ -301,9 +319,10 @@ const ARTIST_DATA = {
       "state": "PA",
       "location": "Philadelphia, PA",
       "venue": "Temple University Arena",
-      "notes": "Schoeps MK4 · schoepsnbox + dubbledee",
+      "notes": "Schoeps MK4 \u00b7 schoepsnbox + dubbledee",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "2005-04-08 - Philadelphia, PA - Temple University Arena (Schoeps MK4) (schoepsnbox + dubbledee) [AUD].txt"
     },
     {
       "year": 2005,
@@ -314,9 +333,10 @@ const ARTIST_DATA = {
       "state": "MD",
       "location": "Towson, MD",
       "venue": "Recher Theater",
-      "notes": "Panasonic RX-SR29 · lostbrook",
+      "notes": "Panasonic RX-SR29 \u00b7 lostbrook",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "2005-04-11 - Towson, MD - Recher Theater (Panasonic RX-SR29) (lostbrook) [AUD].txt"
     },
     {
       "year": 2005,
@@ -327,9 +347,10 @@ const ARTIST_DATA = {
       "state": "NY",
       "location": "Clifton Park, NY",
       "venue": "Northern Lights",
-      "notes": "CSB · kalhoun",
+      "notes": "CSB \u00b7 kalhoun",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "2005-04-14 - Clifton Park, NY - Northern Lights (CSB) (kalhoun) [AUD].txt"
     },
     {
       "year": 2005,
@@ -340,9 +361,10 @@ const ARTIST_DATA = {
       "state": "NS",
       "location": "Halifax, NS",
       "venue": "Palace Smackdown",
-      "notes": "Sharp MD · unk",
+      "notes": "Sharp MD \u00b7 unk",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "2005-05-03 - Halifax, NS - Palace Smackdown (Sharp MD) (unk) [AUD].txt"
     },
     {
       "year": 2005,
@@ -353,9 +375,10 @@ const ARTIST_DATA = {
       "state": "TX",
       "location": "Houston, TX",
       "venue": "Verizon Wireless Theater",
-      "notes": "SP-CMC-2 · unk",
+      "notes": "SP-CMC-2 \u00b7 unk",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "2005-06-06 - Houston, TX - Verizon Wireless Theater (SP-CMC-2) (unk) [AUD].txt"
     },
     {
       "year": 2005,
@@ -366,9 +389,10 @@ const ARTIST_DATA = {
       "state": "FL",
       "location": "Orlando, FL",
       "venue": "House of Blues",
-      "notes": "Sony ECM-717 · kevdogg",
+      "notes": "Sony ECM-717 \u00b7 kevdogg",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "2005-06-09 - Orlando, FL - House of Blues (Sony ECM-717) (kevdogg) [AUD].txt"
     },
     {
       "year": 2005,
@@ -379,9 +403,10 @@ const ARTIST_DATA = {
       "state": "NY",
       "location": "New York, NY",
       "venue": "Irving Plaza",
-      "notes": "Sony ECM-717 · ukj69",
+      "notes": "Sony ECM-717 \u00b7 ukj69",
       "version": "",
-      "format": ""
+      "format": "",
+      "textFile": "2005-06-22 - New York, NY - Irving Plaza (Sony ECM-717) (ukj69) [AUD].txt"
     },
     {
       "year": 2005,
@@ -392,9 +417,10 @@ const ARTIST_DATA = {
       "state": "WI",
       "location": "Milwaukee, WI",
       "venue": "Henry W. Maier Festival Park",
-      "notes": "SP-BMC-1 · stumblin' drunk recordings",
+      "notes": "SP-BMC-1 \u00b7 stumblin' drunk recordings",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "2005-07-09 - Milwaukee, WI - Henry W. Maier Festival Park (SP-BMC-1) (stumblin' drunk recordings) [AUD].txt"
     },
     {
       "year": 2005,
@@ -407,7 +433,8 @@ const ARTIST_DATA = {
       "venue": "Desert Breeze Skate Park",
       "notes": "unk",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "2005-10-22 - Las Vegas, NV - Desert Breeze Skate Park (unk) [AUD].txt"
     },
     {
       "year": 2006,
@@ -418,9 +445,10 @@ const ARTIST_DATA = {
       "state": "TX",
       "location": "Beaumont, TX",
       "venue": "Cactus Canyon",
-      "notes": "SP-CMC-2 · unk",
+      "notes": "SP-CMC-2 \u00b7 unk",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "2006-04-20 - Beaumont, TX - Cactus Canyon (SP-CMC-2) (unk) [AUD].txt"
     },
     {
       "year": 2007,
@@ -431,9 +459,10 @@ const ARTIST_DATA = {
       "state": "FL",
       "location": "Orlando, FL",
       "venue": "House of Blues",
-      "notes": "Sony ECM-717 · kevdogg",
+      "notes": "Sony ECM-717 \u00b7 kevdogg",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "2007-01-07 - Orlando, FL - House of Blues (Sony ECM-717) (kevdogg) [AUD].txt"
     },
     {
       "year": 2007,
@@ -444,9 +473,10 @@ const ARTIST_DATA = {
       "state": "",
       "location": "The Rock Boat VII",
       "venue": "Follies Lounge",
-      "notes": "SP-CMC-22 · matt wedick",
+      "notes": "SP-CMC-22 \u00b7 matt wedick",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "2007-01-14 - The Rock Boat VII - Follies Lounge (SP-CMC-22) (matt wedick) [AUD].txt"
     },
     {
       "year": 2007,
@@ -459,7 +489,8 @@ const ARTIST_DATA = {
       "venue": "Victory Field",
       "notes": "unk",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "2007-08-04 - Indianapolis, IN - Victory Field (unk) [AUD].txt"
     },
     {
       "year": 2007,
@@ -470,9 +501,10 @@ const ARTIST_DATA = {
       "state": "CO",
       "location": "Denver, CO",
       "venue": "Fillmore Auditorium",
-      "notes": "CSB · brianblank",
+      "notes": "CSB \u00b7 brianblank",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "2007-10-07 - Denver, CO - Fillmore Auditorium (CSB) (brianblank) [AUD].txt"
     },
     {
       "year": 2008,
@@ -483,9 +515,10 @@ const ARTIST_DATA = {
       "state": "WA",
       "location": "Redmond, WA",
       "venue": "Marymoor Park",
-      "notes": "CSB · brianblank",
+      "notes": "CSB \u00b7 brianblank",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "2008-07-09 - Redmond, WA - Marymoor Park (CSB) (brianblank) [AUD].txt"
     },
     {
       "year": 2008,
@@ -496,9 +529,10 @@ const ARTIST_DATA = {
       "state": "NY",
       "location": "New York, NY",
       "venue": "Hammerstein Ballroom",
-      "notes": "Edirol R-09 · cleo2007",
+      "notes": "Edirol R-09 \u00b7 cleo2007",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "2008-07-30 - New York, NY - Hammerstein Ballroom (Edirol R-09) (cleo2007) [AUD].txt"
     },
     {
       "year": 2008,
@@ -509,9 +543,10 @@ const ARTIST_DATA = {
       "state": "GA",
       "location": "Atlanta, GA",
       "venue": "Chastain Park Amphitheater",
-      "notes": "DPA 4061s · dunebug81",
+      "notes": "DPA 4061s \u00b7 dunebug81",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "2008-08-17 - Atlanta, GA - Chastain Park Amphitheater (DPA 4061s) (dunebug81) [AUD].txt"
     },
     {
       "year": 2011,
@@ -522,9 +557,10 @@ const ARTIST_DATA = {
       "state": "MI",
       "location": "Detroit, MI",
       "venue": "MotorCity Casino Hotel",
-      "notes": "Edirol R09 · dcd6575",
+      "notes": "Edirol R09 \u00b7 dcd6575",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "2011-10-20 - Detroit, MI  - MotorCity Casino Hotel (Edirol R09) (dcd6575) [AUD].txt"
     },
     {
       "year": 2012,
@@ -535,9 +571,10 @@ const ARTIST_DATA = {
       "state": "MI",
       "location": "Detroit, MI",
       "venue": "St Andrew's Hall",
-      "notes": "Edirol R09 · smores",
+      "notes": "Edirol R09 \u00b7 smores",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "2012-06-24 - Detroit, MI - St Andrew's Hall (Edirol R09) (smores) [AUD].txt"
     },
     {
       "year": 2013,
@@ -548,9 +585,10 @@ const ARTIST_DATA = {
       "state": "MI",
       "location": "Sterling Heights, MI",
       "venue": "Freedom Hill Amphitheatre",
-      "notes": "Edirol R09 · dcd6575",
+      "notes": "Edirol R09 \u00b7 dcd6575",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "2013-06-28 - Sterling Heights, MI - Freedom Hill Amphitheatre (Edirol R09) (dcd6575) [AUD].txt"
     },
     {
       "year": 2014,
@@ -574,9 +612,10 @@ const ARTIST_DATA = {
       "state": "MI",
       "location": "Woodhaven, MI",
       "venue": "Civic Center Park",
-      "notes": "Edirol R09 · dcd6575",
+      "notes": "Edirol R09 \u00b7 dcd6575",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "2014-07-11 - Woodhaven, MI - Civic Center Park (Edirol R09) (dcd6575) [AUD24].txt"
     },
     {
       "year": 2015,
@@ -587,9 +626,10 @@ const ARTIST_DATA = {
       "state": "FL",
       "location": "Orlando, FL",
       "venue": "House of Blues",
-      "notes": "Panasonic MM-BSM 7s · kevdogg",
+      "notes": "Panasonic MM-BSM 7s \u00b7 kevdogg",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "2015-09-29 - Orlando, FL - House of Blues (Panasonic MM-BSM 7s) (kevdogg) [AUD].txt"
     },
     {
       "year": 2015,
@@ -600,9 +640,10 @@ const ARTIST_DATA = {
       "state": "NY",
       "location": "Albany, NY",
       "venue": "Hart Theater",
-      "notes": "Zoom H1 · swansong",
+      "notes": "Zoom H1 \u00b7 swansong",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "2015-10-17 - Albany, NY - Hart Theater (Zoom H1) (swansong) [AUD].txt"
     },
     {
       "year": 2015,
@@ -613,9 +654,10 @@ const ARTIST_DATA = {
       "state": "MI",
       "location": "Detroit, MI",
       "venue": "St. Andrews Hall",
-      "notes": "Edirol R09 · dcd6575",
+      "notes": "Edirol R09 \u00b7 dcd6575",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "2015-10-26 - Detroit, MI  - St. Andrews Hall (Edirol R09) (dcd6575) [AUD].txt"
     },
     {
       "year": 2015,
@@ -626,9 +668,10 @@ const ARTIST_DATA = {
       "state": "TX",
       "location": "Dallas, TX",
       "venue": "House of Blues",
-      "notes": "SP-CMC-8s · whotapes",
+      "notes": "SP-CMC-8s \u00b7 whotapes",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "2015-11-18 - Dallas, TX - House Of Blues [AUD].txt"
     },
     {
       "year": 2017,
@@ -639,9 +682,10 @@ const ARTIST_DATA = {
       "state": "GA",
       "location": "Sugar Hill, GA",
       "venue": "Sugar Hill Amphitheater",
-      "notes": "Tascam D2R2 · unk",
+      "notes": "Tascam D2R2 \u00b7 unk",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "2017-05-26 - Sugar Hill, GA - Sugar Hill Amphitheater (Tascam D2R2) (unk) [AUD].txt"
     },
     {
       "year": 2018,
@@ -652,9 +696,10 @@ const ARTIST_DATA = {
       "state": "WI",
       "location": "West Bend, WI",
       "venue": "Washington County Fair Park & Convention Center",
-      "notes": "CA-14s · unk",
+      "notes": "CA-14s \u00b7 unk",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "2018-07-27 - West Bend, WI - Washington County Fair Park & Convention Center (CA-14s) (unk) [AUD].txt"
     },
     {
       "year": 2019,
@@ -665,9 +710,10 @@ const ARTIST_DATA = {
       "state": "MO",
       "location": "Maryland Heights, MO",
       "venue": "Hollywood Casino Amphitheater",
-      "notes": "Nokia Lumia Icon · cptncrash76",
+      "notes": "Nokia Lumia Icon \u00b7 cptncrash76",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "2019-08-31 - Maryland Heights, MO - Hollywood Casino Amphitheater (Nokia Lumia Icon) (cptncrash76) [AUD24].txt"
     },
     {
       "year": 2021,
@@ -678,9 +724,10 @@ const ARTIST_DATA = {
       "state": "GA",
       "location": "Atlanta, GA",
       "venue": "Coca-Cola Roxy",
-      "notes": "AT853U · live2cd",
+      "notes": "AT853U \u00b7 live2cd",
       "version": "AUD",
-      "format": "FLAC 24"
+      "format": "FLAC 24",
+      "textFile": "2021-03-25 - Atlanta, GA - Coca-Cola Roxy (AT853U) (live2cd) [AUD24].txt"
     },
     {
       "year": 2021,
@@ -691,9 +738,10 @@ const ARTIST_DATA = {
       "state": "GA",
       "location": "Atlanta, GA",
       "venue": "Coca-Cola Roxy",
-      "notes": "AT853U · live2cd",
+      "notes": "AT853U \u00b7 live2cd",
       "version": "AUD",
-      "format": "FLAC 24"
+      "format": "FLAC 24",
+      "textFile": "2021-03-26 - Atlanta, GA - Coca-Cola Roxy (AT853U) (live2cd) [AUD24].txt"
     },
     {
       "year": 2021,
@@ -704,9 +752,10 @@ const ARTIST_DATA = {
       "state": "KY",
       "location": "Louisville, KY",
       "venue": "Great Lawn @ Waterfront Park",
-      "notes": "AUD(M) · Zoom H2N · chickenwing",
+      "notes": "AUD(M) \u00b7 Zoom H2N \u00b7 chickenwing",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "2021-06-22 - Louisville, KY - Great Lawn @ Waterfront Park - AUD(M) (Zoom H2N) (chickenwing) [AUD].txt"
     },
     {
       "year": 2021,
@@ -717,9 +766,10 @@ const ARTIST_DATA = {
       "state": "KS",
       "location": "Bonner Springs, KS",
       "venue": "Sandstone Amphitheater",
-      "notes": "AT898 · ed broll",
+      "notes": "AT898 \u00b7 ed broll",
       "version": "AUD",
-      "format": "FLAC 24"
+      "format": "FLAC 24",
+      "textFile": "2021-06-25 - Bonner Springs, KS - Sandstone Amphitheater (AT898) (ed broll) [AUD24].txt"
     },
     {
       "year": 2021,
@@ -730,9 +780,10 @@ const ARTIST_DATA = {
       "state": "OR",
       "location": "Salem, OR",
       "venue": "L.B. Day Amphitheater",
-      "notes": "Tascam DR-2d + Sennheiser IEM · outman77",
+      "notes": "Tascam DR-2d + Sennheiser IEM \u00b7 outman77",
       "version": "MIX",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "2021-09-04 - Salem, OR - L.B. Day Amphitheater (Tascam DR-2d + Sennheiser IEM) (outman77) [MIX].txt"
     },
     {
       "year": 2021,
@@ -743,9 +794,10 @@ const ARTIST_DATA = {
       "state": "OH",
       "location": "Huber Heights, OH",
       "venue": "Rose Music Center",
-      "notes": "CA-14 · live2cd",
+      "notes": "CA-14 \u00b7 live2cd",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "2021-09-11 - Huber Heights, OH - Rose Music Center (CA-14) (live2cd) [AUD].txt"
     },
     {
       "year": 2022,
@@ -756,9 +808,10 @@ const ARTIST_DATA = {
       "state": "NV",
       "location": "Reno, NV",
       "venue": "Silver Legacy Event Center",
-      "notes": "Multiple IEMs · hoserama",
+      "notes": "Multiple IEMs \u00b7 hoserama",
       "version": "MIX",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "2022-08-19 - Reno, NV - Silver Legacy Event Center (Multiple IEMs) (hoserama) [MIX].txt"
     },
     {
       "year": 2022,
@@ -769,9 +822,10 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "Paso Robles, CA",
       "venue": "Vina Robles Amphitheatre",
-      "notes": "WAV(M) · SP-CMC_4U · vibrioidxire",
+      "notes": "WAV(M) \u00b7 SP-CMC_4U \u00b7 vibrioidxire",
       "version": "AUD",
-      "format": "FLAC 24"
+      "format": "FLAC 24",
+      "textFile": "2022-08-20 - Paso Robles, CA - Vina Robles Amphitheatre - WAV(M) (SP-CMC_4U) (vibrioidxire) [AUD24].txt"
     },
     {
       "year": 2022,
@@ -782,9 +836,10 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "Saratoga, CA",
       "venue": "The Mountain Winery",
-      "notes": "WAV(M) · SP-CMC_4U · vibrioidxire",
+      "notes": "WAV(M) \u00b7 SP-CMC_4U \u00b7 vibrioidxire",
       "version": "AUD",
-      "format": "FLAC 24"
+      "format": "FLAC 24",
+      "textFile": "2022-08-21 - Saratoga, CA - The Mountain Winery - WAV(M) (SP-CMC_4U) (vibrioidxire) [AUD24].txt"
     },
     {
       "year": 2023,
@@ -795,9 +850,10 @@ const ARTIST_DATA = {
       "state": "GA",
       "location": "Atlanta, GA",
       "venue": "Fabulous Fox Theatre",
-      "notes": "Neumann 150s · david dyche",
+      "notes": "Neumann 150s \u00b7 david dyche",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "2023-05-13 - Atlanta, GA - Fabulous Fox Theatre (Neumann 150s) (david dyche) [AUD].flac.rtf"
     },
     {
       "year": 2023,
@@ -808,9 +864,10 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "Wheatland, CA",
       "venue": "Kumi Event Center",
-      "notes": "SP-CMC-4U · vibriodidxire",
+      "notes": "SP-CMC-4U \u00b7 vibriodidxire",
       "version": "AUD #1",
-      "format": "FLAC 24"
+      "format": "FLAC 24",
+      "textFile": "2023-07-29 - Wheatland, CA - Kumi Event Center (SP-CMC-4U) (vibriodidxire) (AUD #1) [AUD24].txt"
     },
     {
       "year": 2023,
@@ -821,9 +878,10 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "Wheatland, CA",
       "venue": "Hard Rock Live",
-      "notes": "IEM+SP-CMC-4U · vibrioidxire",
+      "notes": "IEM+SP-CMC-4U \u00b7 vibrioidxire",
       "version": "MIX",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "2023-07-29 - Wheatland, CA - Hard Rock Live (IEM+SP-CMC-4U) (vibrioidxire) [MIX].txt"
     },
     {
       "year": 2023,
@@ -834,9 +892,10 @@ const ARTIST_DATA = {
       "state": "MI",
       "location": "Royal Oak, MI",
       "venue": "Downtown Royal Oak",
-      "notes": "Edirol R09 · dcd6575",
+      "notes": "Edirol R09 \u00b7 dcd6575",
       "version": "AUD",
-      "format": "FLAC 24"
+      "format": "FLAC 24",
+      "textFile": "2023-09-02 - Royal Oak, MI - Downtown Royal Oak (Edirol R09) (dcd6575) [AUD24].txt"
     },
     {
       "year": 2024,
@@ -847,9 +906,10 @@ const ARTIST_DATA = {
       "state": "OH",
       "location": "Columbus, OH",
       "venue": "The Bluestone",
-      "notes": "CA-14s · live2cd",
+      "notes": "CA-14s \u00b7 live2cd",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "2024-06-04 - Columbus, OH - The Bluestone (CA-14s) (live2cd) [AUD].txt"
     },
     {
       "year": 2024,
@@ -860,9 +920,10 @@ const ARTIST_DATA = {
       "state": "PA",
       "location": "Erie, PA",
       "venue": "Warner Theater",
-      "notes": "Samsung S23+ · pmbchase",
+      "notes": "Samsung S23+ \u00b7 pmbchase",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "2024-06-25 - Erie, PA - Warner Theater (Samsung S23+) (pmbchase) [AUD].txt"
     },
     {
       "year": 2024,
@@ -873,9 +934,10 @@ const ARTIST_DATA = {
       "state": "NY",
       "location": "Bethel, NY",
       "venue": "Bethel Woods Center for the Arts",
-      "notes": "Schoeps MK41vs · radio_w_b",
+      "notes": "Schoeps MK41vs \u00b7 radio_w_b",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "2024-06-27 - Bethel, NY - Bethel Woods Center for the Arts (Schoeps MK41vs) (radio_w_b) [AUD].txt"
     },
     {
       "year": 2025,
@@ -886,9 +948,10 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "Lincoln, CA",
       "venue": "The Venue at Thunder Valley Casino Resort",
-      "notes": "SP-CMC-4U · vibrioidxire",
+      "notes": "SP-CMC-4U \u00b7 vibrioidxire",
       "version": "AUD",
-      "format": "FLAC 24"
+      "format": "FLAC 24",
+      "textFile": "2025-01-25 - Lincoln, CA - The Venue at Thunder Valley Casino Resort (SP-CMC-4U) (vibrioidxire) [AUD24].txt"
     },
     {
       "year": 2025,
@@ -899,9 +962,10 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "Wheatland, CA",
       "venue": "Toyota Amphitheatre",
-      "notes": "DPA 4081 · faninor",
+      "notes": "DPA 4081 \u00b7 faninor",
       "version": "AUD",
-      "format": "FLAC 24"
+      "format": "FLAC 24",
+      "textFile": "2025-07-11 - Wheatland, CA - Toyota Amphitheatre (DPA 4081) (faninor) [AUD24].txt"
     }
   ],
   "misc": [

@@ -20,7 +20,7 @@ const ARTIST_DATA = {
       "state": "UK",
       "location": "London, UK",
       "venue": "The Borderline",
-      "notes": "inc · unk",
+      "notes": "inc \u00b7 unk",
       "version": "AUD",
       "format": "DVD"
     },
@@ -111,9 +111,10 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "Pomona, CA",
       "venue": "The Glasshouse",
-      "notes": "unk · noizewater",
+      "notes": "unk \u00b7 noizewater",
       "version": "AMT #1",
-      "format": "DVD"
+      "format": "DVD",
+      "textFile": "2004-03-21 - Pomona, CA - The Glasshouse (AMT #1) (noizewater) [DVD].txt"
     },
     {
       "year": 2004,
@@ -126,7 +127,8 @@ const ARTIST_DATA = {
       "venue": "Self Help Graphics",
       "notes": "",
       "version": "MIX #1",
-      "format": "DVD"
+      "format": "DVD",
+      "textFile": "2004-10-16 - Los Angeles, CA - Self Help Graphics [MIX #1].txt"
     },
     {
       "year": 2005,
@@ -139,7 +141,8 @@ const ARTIST_DATA = {
       "venue": "All Tomorrow's Parties Festival",
       "notes": "",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "2005-04-23 - Camber Sands, UK - All Tomorrow's Parties Festival [AUD].txt"
     },
     {
       "year": 2005,
@@ -152,7 +155,8 @@ const ARTIST_DATA = {
       "venue": "All Tomorrow's Parties Festival",
       "notes": "",
       "version": "AUD",
-      "format": "DVD"
+      "format": "DVD",
+      "textFile": "2005-04-23 - England, UK - ATP Festival - Pontin's Holiday Camp, Camber Sands [DVD].txt"
     }
   ],
   "misc": []

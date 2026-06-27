@@ -20,7 +20,8 @@ const ARTIST_DATA = {
       "venue": "House of Blues",
       "notes": "unk",
       "version": "FM",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1998-12-31 - Chicago, IL - House of Blues (unk) [FM].txt"
     }
   ],
   "misc": []

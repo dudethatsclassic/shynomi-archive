@@ -21,9 +21,10 @@ const ARTIST_DATA = {
       "state": "NC",
       "location": "Chapel Hill, NC",
       "venue": "Local 506",
-      "notes": "DAT(M) · CSB · mrpember",
+      "notes": "DAT(M) \u00b7 CSB \u00b7 mrpember",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1995-01-15 - Chapel Hill, NC - Local 506 (CSB) (mrpember) [AUD] .txt"
     },
     {
       "year": 1995,
@@ -34,9 +35,10 @@ const ARTIST_DATA = {
       "state": "NC",
       "location": "Raleigh, NC",
       "venue": "WKNC",
-      "notes": "Smash · ross",
+      "notes": "Smash \u00b7 ross",
       "version": "preFM",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1995-01-28 - Raleigh, NC - WKNC - Smash Hits Opry (ross) [preFM].txt"
     },
     {
       "year": 1995,
@@ -49,7 +51,8 @@ const ARTIST_DATA = {
       "venue": "Cat's Cradle",
       "notes": "",
       "version": "SBD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1995-05-25 - Carborro, NC - Carrboro, NC - Cat's Cradle [SBD].txt"
     },
     {
       "year": 1995,
@@ -60,9 +63,10 @@ const ARTIST_DATA = {
       "state": "NC",
       "location": "Carrboro, NC",
       "venue": "Cat's Cradle",
-      "notes": "DAT(M) · mr pember",
+      "notes": "DAT(M) \u00b7 mr pember",
       "version": "SBD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1995-05-25 - Carrboro, NC - Cat's Cradle - DAT(M) (mr pember) [SBD].txt"
     },
     {
       "year": 1995,
@@ -73,9 +77,10 @@ const ARTIST_DATA = {
       "state": "NC",
       "location": "Raleigh, NC",
       "venue": "The Brewery",
-      "notes": "Sennheiser 421 · jim w.",
+      "notes": "Sennheiser 421 \u00b7 jim w.",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1995-07-15 - Raleigh, NC - The Brewery (jim w.) (Sennheiser 421) [AUD].txt"
     },
     {
       "year": 1995,
@@ -86,9 +91,10 @@ const ARTIST_DATA = {
       "state": "NC",
       "location": "Raleigh, NC",
       "venue": "The Brewery",
-      "notes": "DAT(M) · CSB · mr pember",
+      "notes": "DAT(M) \u00b7 CSB \u00b7 mr pember",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1995-11-18 - Raleigh, NC - The Brewery - DAT(M) (CSB) (mr pember) [AUD].txt"
     },
     {
       "year": 1996,
@@ -99,9 +105,10 @@ const ARTIST_DATA = {
       "state": "NC",
       "location": "Raleigh, NC",
       "venue": "The Brewery / DAT",
-      "notes": "M · CSB · mrpember",
+      "notes": "M \u00b7 CSB \u00b7 mrpember",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1996-01-26 - Raleigh, NC - The Brewery - DAT(M) (CSB) (mrpember) [AUD].txt"
     },
     {
       "year": 1996,
@@ -114,7 +121,8 @@ const ARTIST_DATA = {
       "venue": "SXSW Showcase",
       "notes": "",
       "version": "SBD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1996-03-16 - Austin TX - SXSW Showcase [SBD].txt"
     },
     {
       "year": 1997,
@@ -127,7 +135,8 @@ const ARTIST_DATA = {
       "venue": "Great American Music Hall",
       "notes": "",
       "version": "SBD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1997-03-26 - San Francisco, CA - Great American Music Hall [SBD].txt"
     },
     {
       "year": 1997,
@@ -140,7 +149,8 @@ const ARTIST_DATA = {
       "venue": "Electric Lounge",
       "notes": "",
       "version": "SBD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1997-09-06 - Austin, TX - Electric Lounge [SBD].txt"
     },
     {
       "year": 1997,
@@ -151,7 +161,7 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "San Francisco, CA",
       "venue": "Bottom of the Hill",
-      "notes": "ANA(M) · ECM-909 · tjcruz",
+      "notes": "ANA(M) \u00b7 ECM-909 \u00b7 tjcruz",
       "version": "AUD",
       "format": "FLAC"
     },
@@ -166,7 +176,8 @@ const ARTIST_DATA = {
       "venue": "Berbati's Pan",
       "notes": "",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1997-09-17 - Portland, OR - Berbati's Pan [AUD].txt"
     },
     {
       "year": 1997,
@@ -179,7 +190,8 @@ const ARTIST_DATA = {
       "venue": "Gunnerz",
       "notes": "",
       "version": "SBD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1997-10-29 - Iowa City, IA -  Gunnerz [SBD].txt"
     },
     {
       "year": 1998,
@@ -192,7 +204,8 @@ const ARTIST_DATA = {
       "venue": "Austin City Limits",
       "notes": "",
       "version": "TV",
-      "format": "DVD"
+      "format": "DVD",
+      "textFile": "1998-01-26 - Austin, TX - Austin City Limits [DVD].txt"
     },
     {
       "year": 1998,
@@ -205,7 +218,8 @@ const ARTIST_DATA = {
       "venue": "Wild Duck Inn",
       "notes": "unk",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1998-02-11 - Eugene, OR - Wild Duck Inn (unk) [AUD].txt"
     },
     {
       "year": 1998,
@@ -218,7 +232,8 @@ const ARTIST_DATA = {
       "venue": "Cabaret Metro",
       "notes": "",
       "version": "FM",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1998-03-25 - Chicago, IL - Cabaret Metro [FM].txt"
     },
     {
       "year": 1998,
@@ -231,7 +246,8 @@ const ARTIST_DATA = {
       "venue": "The Bayou",
       "notes": "unk",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1998-04-02 - Washington, D.C. - The Bayou (unk) [AUD].txt"
     },
     {
       "year": 1998,
@@ -244,7 +260,8 @@ const ARTIST_DATA = {
       "venue": "Variety Playhouse",
       "notes": "unk",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1998-04-11 - Atlanta, GA - Variety Playhouse (unk) [AUD].txt"
     },
     {
       "year": 1998,
@@ -257,7 +274,8 @@ const ARTIST_DATA = {
       "venue": "Whiskey-A-Go-Go",
       "notes": "",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1998-09-09 - Los Angeles, CA - Whiskey-A-Go-Go [AUD].txt"
     },
     {
       "year": 1998,
@@ -270,7 +288,8 @@ const ARTIST_DATA = {
       "venue": "Whiskey-A-Go-Go",
       "notes": "",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1998-09-10 - Los Angeles, CA - Whiskey-A-Go-Go [AUD].txt"
     }
   ],
   "misc": [
