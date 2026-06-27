@@ -1,0 +1,58 @@
+General
+Unique ID: 233123885078402426392164407109207419028 (0xAF6206F02F768C132734E3A4983B6894)
+Complete name: The Offspring Lollapalooza Argentina (2024) 1080p FLOW WEB-DL AAC2.0 H.264-fstambuk.mkv
+Format : Matroska
+Format version : Version 4
+File size: 1.98 GiB
+Duration : 58 min 7 s
+Overall bit rate : 4 880 kb/s
+Encoded date : UTC 2024-03-16 15:32:16
+Writing application: mkvmerge v82.0 ('I'm The President') 64-bit
+Writing library: libebml v1.4.5 + libmatroska v1.7.1
+
+Video
+ID : 1
+Format : AVC
+Format/Info: Advanced Video Codec
+Format profile : High@L4
+Format settings: CABAC / 3 Ref Frames
+Format settings, CABAC : Yes
+Format settings, Reference frames: 3 frames
+Format settings, GOP : M=1, N=60
+Codec ID : V_MPEG4/ISO/AVC
+Duration : 58 min 7 s
+Bit rate : 4 782 kb/s
+Width: 1 920 pixels
+Height : 1 080 pixels
+Display aspect ratio : 16:9
+Frame rate mode: Constant
+Frame rate : 29.970 (30000/1001) FPS
+Color space: YUV
+Chroma subsampling : 4:2:0
+Bit depth: 8 bits
+Scan type: Progressive
+Bits/(Pixel*Frame) : 0.077
+Stream size: 1.94 GiB (98%)
+Default: Yes
+Forced : No
+
+Audio
+ID : 2
+Format : AAC LC SBR
+Format/Info: Advanced Audio Codec Low Complexity with Spectral Band Replication
+Commercial name: HE-AAC
+Format settings: Implicit
+Codec ID : 2 / A_AAC-2
+Duration : 58 min 7 s
+Bit rate : 96.0 kb/s
+Channel(s) : 2 channels
+Channel layout : L R
+Sampling rate: 48.0 kHz
+Frame rate : 23.438 FPS (2048 SPF)
+Compression mode : Lossy
+Stream size: 39.9 MiB (2%)
+Title: Spanish
+Language : Spanish
+Default: Yes
+Forced : No
+

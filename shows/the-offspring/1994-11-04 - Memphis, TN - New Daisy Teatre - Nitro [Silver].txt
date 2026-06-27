@@ -1,0 +1,16 @@
+    length     expanded size    cdr  WAVE problems  fmt   ratio  filename
+     3:42.25       39219644 B   ---   --   ---xx   flac  0.6314  01 Offspring, The - Bad Habit.flac
+     3:48.63       40367420 B   ---   --   ---xx   flac  0.7062  02 Offspring, The - We are One.flac
+     2:07.62       22548668 B   ---   --   ---xx   flac  0.7092  03 Offspring, The - Killboy Powerhead.flac
+     3:37.00       38278844 B   ---   --   ---xx   flac  0.6681  04 Offspring, The - Burn it Up.flac
+     3:38.38       38544620 B   ---   --   ---xx   flac  0.6943  05 Offspring, The - Genocide.flac
+     3:36.62       38248268 B   ---   --   ---xx   flac  0.6849  06 Offspring, The - Gotta Get Away.flac
+     1:59.25       21050444 B   ---   --   ---xx   flac  0.6696  07 Offspring, The - So Alone.flac
+     4:50.25       51214844 B   ---   --   ---xx   flac  0.6544  08 Offspring, The - Kick Him When He's Down.flac
+     4:45.25       50332844 B   ---   --   ---xx   flac  0.6119  09 Offspring, The - What Happened to You¿.flac
+     3:39.13       38662220 B   ---   --   ---xx   flac  0.6938  10 Offspring, The - Come Out and Play.flac
+     2:57.37       31309868 B   ---   --   ---xx   flac  0.7110  11 Offspring, The - Smash.flac
+     3:28.25       36750044 B   ---   --   ---xx   flac  0.6691  12 Offspring, The - LAPD.flac
+     4:22.50       46334444 B   ---   --   ---xx   flac  0.6377  13 Offspring, The - Nitro.flac
+     4:33.00       48157244 B   ---   --   ---xx   flac  0.7161  14 Offspring, The - Self Esteem.flac
+    51:07.00      541019416 B                            0.6726  (14 files)

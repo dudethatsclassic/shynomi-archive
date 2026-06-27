@@ -1,0 +1,32 @@
+Stone Temple Pilots
+2023-08-09
+FivePoint Amphitheater
+Irvine, CA, USA
+
+-- Source --
+DPA 4081 > MMA-A > 24bit/48kHz
+
+-- Processing --
+iZotope RX (editing/mastering) > CD Wave (tracking) > Trader's Little Helper (encoding)
+
+-- Setlist --
+01 - intro
+02 - Wicked Garden
+03 - Vasoline
+04 - Big Bang Baby
+05 - Down
+06 - Meadow
+07 - Big Empty
+08 - Plush
+09 - Interstate Love Song
+10 - Crackerman
+11 - Dead & Bloated
+12 - Trippin' on a Hole in a Paper Heart
+13 - Sex Type Thing
+
+-- Notes --
+Opening for Smashing Pumpkins. Rival Sons also performed.
+
+Length: 1h01m15s
+
+-- faninor -- 2023-08-24 --

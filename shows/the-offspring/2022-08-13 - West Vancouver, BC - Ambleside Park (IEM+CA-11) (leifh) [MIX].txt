@@ -1,0 +1,59 @@
+The Offspring - Ambleside Music Festival
+Saturday August 13th, 2022 @ 20:30
+Ambleside Park
+1150 Marine Dr. 
+West Vancouver, British Columbia, Canada
+
+IEM + AUD Stereo Mix
+
+Taper:  LeifH [2022#77]
+Source:  3x IEM > H6
+Source:  CA-11 > Bat2B > H1
+Transfer:  PC via USB > RX9 > Wavepad > flac (8) via TLH
+
+Setlist:  01:12:15
+00 intro
+01 Staring At The Sun
+02 Come Out and Play
+03 Want You Bad
+04 The Opioid Diaries
+05 Army of One
+06 Behind Your Walls
+07 Hit That
+08 Hammerhead
+09 Bad Habit
+10 Gotta Get Away
+11 Why Don't You Get A Job?
+12 (Can't Get My) Head Around You
+13 Pretty Fly (for a White Guy)
+14 The Kids Aren't Alright
+-encore-
+15 You're Gonna Go Far, Kid
+16 Self Esteem
+
+The Offspring headlined day 2 of 3 at this festival, not to be confused with Rock Ambleside Festival which used to take place in the same location.  Rock Ambleside was more classic rock orinented, this festival was aimed at a younger demographic.  I rode my bike over on the Friday to check things out, came back Saturday with lots of gear and a couple friends.  We arrived just as "grandson" began their set around 18:15 and boy-oh-boy did they suck!  No recording of them.  I've seen a lot of awful acts over the years and they are in the top 3.  A lot of cops and security wandering around the whole time.  Ice cold beers poured into coffee cups!  
+
+Mics were in a tree, 7.5' high, 250' back from the left stacks.  Grabbed 3 feeds.  All the click track has been removed.  Also got most of the show on video by planting a camcorder on top of a port-o-potty.  Fun show, price was right.  
+
+I didn't have things set quite right at the start and so Staring At The Sun is a bit rough around the edges.  The bass guitar was horribly out of tune during Gotta Get Away.  Overall a pretty decent result but a few uneven spots here and there.  
+
+One week later they were in Japan.  
+
+fingerprints:
+TheOffspring2022-08-13t00 - intro.flac:5810c1c4e00d19a4060062e1bfe1ba78
+TheOffspring2022-08-13t01 - Staring at the Sun.flac:662495660d844f0590f9d78fa6328501
+TheOffspring2022-08-13t02 - Come Out and Play.flac:a06d5c2e715ae109845c4db7c3dc1c3e
+TheOffspring2022-08-13t03 - Want You Bad.flac:51a2e4ca5fffeedef9f6d3194abc36a6
+TheOffspring2022-08-13t04 - Opioid Diaries.flac:51597b0407a9a51fff199a4cc9031304
+TheOffspring2022-08-13t05 - Army of One.flac:ea7879b0c5b3c4ec7af7c632bd6dd326
+TheOffspring2022-08-13t06 - Behind Your Walls.flac:219b9fbd6b38ed72c1ddcaa06eb1f50c
+TheOffspring2022-08-13t07 - Hit That.flac:db08ed6539963b1e0af21400af459aad
+TheOffspring2022-08-13t08 - Hammerhead.flac:bf08aec804e6008bdffccf8af949c9e0
+TheOffspring2022-08-13t09 - Bad Habit.flac:5e72fca97ed599a513a8be21b0fd31b2
+TheOffspring2022-08-13t10 - Gotta Get Away.flac:8cb1878206106bc6de974afec09702e5
+TheOffspring2022-08-13t11 - Why Don't You Get a Job.flac:50821ca902480847351abbf4ebf41d6a
+TheOffspring2022-08-13t12 - Can't Get My Head Around You.flac:5d7e7fe4eb3fc3beb113c17ae5d777b1
+TheOffspring2022-08-13t13 - Pretty Fly.flac:43739ff3686edd9e3408c86478bebfcb
+TheOffspring2022-08-13t14 - Kids Aren't Alright.flac:96092467447d0b9078ba5b3b5d1149d6
+TheOffspring2022-08-13t15 - You're Gonna Go Far Kid.flac:af52644184f6b6f78805a111a86d4931
+TheOffspring2022-08-13t16 - Self Esteem.flac:fd1a48864d73131496fc542daabcdc28

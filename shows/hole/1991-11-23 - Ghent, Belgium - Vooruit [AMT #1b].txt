@@ -1,0 +1,41 @@
+Hole
+Vooruit, Ghent, Belgium
+November 23rd, 1991
+-----------------------
+
+Setlist
+01) Doll Parts
+02) Pretty On The Inside
+03) Garbadge Man
+04) Violet
+05) Teenage Whore
+06) Berry
+07) The Only Rape I Know
+08) Mrs. Jones
+09) Babydoll
+10) Dicknail
+11) Sassy (instrumental)
+12) Where Did You Sleep Last Night?
+
+Notes
+Source: AMT#1b, audio from amateur video, unknown equipment
+Generation: VHS(1) > ANA(1) > CD-R(3) > WAV [44.1kHz] > FLAC [Level 8]
+Transfer: HL-DT-ST GSA-H60L > Exact Audio Copy v.0.99 prebeta 3 > FLAC Frontend v.1.2.1b
+Some digital glitches are present during "Where Did You Sleep Last Night?"
+
+MD5 Fingerprints
+13651cc64217479aebd00b10020c191c *01 Doll Parts.flac
+3c81712ebc630542d6f2043e4435b74b *02 Pretty on the Inside.flac
+499dc08aa3ef68926c1c8a869bc7dd5e *03 Garbadge Man.flac
+2c2f0e22d953fc5d785a219cb89d8046 *04 Violet.flac
+41f277aa08757ab1b253db34bb3edfdc *05 Teenage Whore.flac
+bd2fbcdf650794599fb47787df519e1b *06 Berry.flac
+5289b951520f2b9612e8052a8507a89b *07 The Only Rape I Know.flac
+a452322f5e06882bdc6c43de272942b3 *08 Mrs. Jones.flac
+08b0493cf19cd7e3b5c7f048c7abd408 *09 Babydoll.flac
+55e9c8bd564c191ca1069449a0bf5242 *10 Dicknail.flac
+6b44f5b43aa74a93f4be6b8377ca5cac *11 Sassy (instrumental).flac
+71341a78167de5ddbd0afce8767d41ef *12 Where Did You Sleep Last Night-.flac
+
+
+Transferred by Martin Donohoe.

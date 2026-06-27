@@ -1,0 +1,47 @@
+The Offspring
+Saturday, January 20th, 2001
+Wembley Arena,
+Arena Square,
+London, UK
+
+Taper:  LeifH
+Source:  Much Music broadcast > coaxial cable > RCA VR674HF VCR > Maxell GX Silver (S P) 
+Transfer:  VHS Master > RCA VR674HF VCR > H/K 3500 > Creative X-Fi Soundblaster soundcard > Wavepad Master's Edition @ 48000kHz > downsample, tracking, edits > flac (8) via Frontend
+
+Setlist:  44:47
+01 Intro
+02 Bad Habit
+03 All I Want
+04 Pretty Fly (For A White Guy)
+05 Million Miles Away
+06 Gone Away
+07 Have You Ever (Falling)
+08 Gotta Get Away
+09 Staring at the Sun
+10 Dammit, I Changed Again
+11 Original Prankster
+12 The Kids Aren't Alright
+13 Self Esteem
+14 Come Out and Play (Keep 'Em Separated)
+15 I Want You Bad
+
+This is clearly not the entire show, but this is the complete audio from the broadcast.  I can say that Session and Intermission were played this night, and AFI was a support band.  It is very nice quality, wide stereo recording, I assume a mixdown from a multitrack recording.  I have removed the commercials and such.  I simply left the TV fades as they are.  When it cut to commercials, it really did cut, but when the program returned it faded in. 
+
+Nice choice of songs, and fairly good performances.  There were some samples used, for example the voices in Original Prankster, however the "5th member" of the Offspring was also play guitar, percussion, and adding vocals live.  This is one of the better Offspring soundboards I've heard.
+
+Flac fingerprints:
+01 Intro.flac:7ea390d6cd97ae824755f5113296a407
+02 Bad Habit.flac:823d9c16f4335363f234a94d3864dc23
+03 All I Want.flac:a3285905318dc902c3bc8ea7f670bc1f
+04 Pretty Fly (For A White Guy).flac:95aedb675024f8037f430ac79aad95f9
+05 Million Miles Away.flac:9b33f51dbda83a7590029f26c81f113c
+06 Gone Away.flac:aae52706f1974de0c6d8f768bb54184f
+07 Have You Ever (Falling).flac:ba88607ce89108625e971c9db81e9670
+08 Gotta Get Away.flac:f78c6b6033fa80a67315e00f21d57a6f
+09 Staring At The Sun.flac:3f061fd856a4565219f3f5f7fa3b5406
+10 Dammit, I Changed Again.flac:69b26b31cc533071a5c3f559268fd1a7
+11 Original Prankster.flac:3dcb3b289869dbb7a84d94cc2cc7ee3d
+12 The Kids Aren't Alright.flac:7639cf669480640320644cb800668354
+13 Self Esteem.flac:a379c4bf34760cced8f2f2c3effed7ad
+14 Come Out and Play (Keep 'Em Separated).flac:a14df981bb56215be5ede79c5d0431e4
+15 I Want You Bad.flac:2186026230b30d12579d07cf57c4fb70

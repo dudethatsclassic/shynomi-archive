@@ -1,0 +1,23 @@
+Hole
+Southside Festival, Munich, Germany
+June 26th, 1999
+-----------------------------------
+
+Setlist
+o Boys on the Radio (cuts in)
+o Northern Star (cuts in)
+
+Source (PRO#1)
+soundboard -> unknown
+
+Generation
+TV -> VHS(1) -> MPEG [1150 Kbps/224kbps MP2] -> FLAC [Level 8]
+
+Notes
+o Surfaced via 'Urban Chaos Videos'
+o Includes only two songs, which were aired on MTV Europe.
+o Both songs slightly cut in.
+
+MD5 Fingerprints (for FLAC files only)
+235b903384cd46a0314260ba37bc5297 *01 Boys on the Radio.flac
+e1bde339816b1f8deaf19a716c6fd061 *02 Northern Star.flac

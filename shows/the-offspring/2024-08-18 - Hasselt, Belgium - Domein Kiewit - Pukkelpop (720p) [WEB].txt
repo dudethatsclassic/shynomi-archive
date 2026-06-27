@@ -1,0 +1,91 @@
+The Offspring
+Pukkelpop
+2024-08-18
+
+
+lineage: live webstream > captured with streamlink > cut with ffmpeg
+
+
+SETLIST (taken from setlist.fm)
+Come Out and Play
+All I Want
+Want You Bad
+Staring at the Sun
+Make It All Right
+In the Hall of the Mountain King (Edvard Grieg cover) (Preceded by snippets of Smoke On The Water and Sweet Child O’ Mine)
+Blitzkrieg Bop (Ramones cover)
+Bad Habit
+Gotta Get Away (with drum solo end)
+Why Don't You Get a Job?
+Pretty Fly (for a White Guy)
+The Kids Aren't Alright
+
+Encore:
+Lullaby
+You're Gonna Go Far, Kid
+Self Esteem  
+
+
+General
+ID                                       : 1 (0x1)
+Complete name                            : The Offspring 2024-08-18 Pukkelpop 720p webstream.ts
+Format                                   : MPEG-TS
+File size                                : 740 MiB
+Duration                                 : 1 h 1 min
+Overall bit rate mode                    : Variable
+Overall bit rate                         : 1 687 kb/s
+Frame rate                               : 25.000 FPS
+
+Video
+ID                                       : 256 (0x100)
+Menu ID                                  : 1 (0x1)
+Format                                   : AVC
+Format/Info                              : Advanced Video Codec
+Format profile                           : Main@L3.1
+Format settings                          : CABAC / 2 Ref Frames
+Format settings, CABAC                   : Yes
+Format settings, Reference frames        : 2 frames
+Format settings, GOP                     : M=4, N=25
+Codec ID                                 : 27
+Duration                                 : 1 h 1 min
+Bit rate mode                            : Constant
+Nominal bit rate                         : 1 500 kb/s
+Width                                    : 1 280 pixels
+Height                                   : 720 pixels
+Display aspect ratio                     : 16:9
+Frame rate                               : 25.000 FPS
+Color space                              : YUV
+Chroma subsampling                       : 4:2:0
+Bit depth                                : 8 bits
+Scan type                                : Progressive
+Bits/(Pixel*Frame)                       : 0.065
+
+Audio
+ID                                       : 257 (0x101)
+Menu ID                                  : 1 (0x1)
+Format                                   : AAC LC
+Format/Info                              : Advanced Audio Codec Low Complexity
+Format version                           : Version 2
+Muxing mode                              : ADTS
+Codec ID                                 : 15-2
+Duration                                 : 1 h 1 min
+Bit rate mode                            : Variable
+Channel(s)                               : 2 channels
+Channel layout                           : L R
+Sampling rate                            : 48.0 kHz
+Frame rate                               : 46.875 FPS (1024 SPF)
+Compression mode                         : Lossy
+Delay relative to video                  : -985 ms
+Language                                 : Dutch
+
+Menu
+ID                                       : 4096 (0x1000)
+Menu ID                                  : 1 (0x1)
+Format                                   : AVC / AAC
+Duration                                 : 1 h 1 min
+List                                     : 256 (0x100) (AVC) / 257 (0x101) (AAC, Dutch)
+Language                                 :  / Dutch
+Service name                             : Service01
+Service provider                         : FFmpeg
+Service type                             : digital television
+

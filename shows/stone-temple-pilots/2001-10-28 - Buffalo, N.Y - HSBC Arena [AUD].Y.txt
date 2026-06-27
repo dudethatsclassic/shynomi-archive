@@ -1,0 +1,23 @@
+Stone Temple Pilots
+HSBC Arena
+Buffalo, NY
+October 28, 2001
+
+Source: AT853 > SPSB2@16hz > D7 (line in)
+
+Transfer: Sony DTC-670 > Hoontech ST-DBIII > Cubase 5 (normalization/downsampling) > 
+	  CDWave (splits) > SoundForge 5 (fades) > SHN
+
+01. Wet My Bed > Rubberman
+02. Vaseline
+03. Wicked Garden
+04. Big Empty
+05. Dead & Bloated
+06. Creep
+07. Still Remains
+08. Trippin' On A Hole In A Paper Heart
+09. Coma
+10. Interstate Love Song
+11. Plush
+12. Revolution
+13. Sex Type Thing

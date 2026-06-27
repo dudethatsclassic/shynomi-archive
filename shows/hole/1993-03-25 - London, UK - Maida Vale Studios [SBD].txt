@@ -1,0 +1,39 @@
+Hole
+Maida Vale Studios, London, UK
+March 25th, 1993
+------------------------------
+
+
+Tracklisting
+o She Walks On Me
+o The Void
+
+o Olympia
+
+o Softer, Softest (take 1)
+o Softer, Softest (take 2
+
+Source (SBD)
+soundboard -> unknown
+
+Generation
+DAT(x) -> ANA(x) -> WAV [44.1kHz] -> FLAC [Level 8]
+
+
+Transfer
+
+Nakamichi DR-3 -> Edirol R-09 -> Adobe Audition CS3 -> CDWave v.1.96.1 -> dBpoweramp Music Converter v.x
+
+
+Notes
+o This is taken from a pre-FM DAT.
+o More complete, and better quality than FM broadcast-sourced bootlegs
+
+MD5 Fingerprints
+
+
+445e5b58883659334922762d8992dd97 *hole.19930325.peel_sessions-t01.flac
+c6121b7ed9c43635768623736c93a60a *hole.19930325.peel_sessions-t02.flac
+3b327b4fd4dd1fe66adb2f1ecb3c8d52 *hole.19930325.peel_sessions-t03.flac
+35b11ca2b442563db25aa15813be2b33 *hole.19930325.peel_sessions-t04.flac
+b71bd8c2dc107040fc9ac3cd41e68509 *hole.19930325.peel_sessions-t05.flac

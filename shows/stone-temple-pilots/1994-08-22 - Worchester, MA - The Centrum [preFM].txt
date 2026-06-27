@@ -1,0 +1,56 @@
+Stone Temple Pilots
+August 22nd, 1994
+The Centrum
+Worchester, Massachusetts
+
+Pre-FM
+
+Westwood One In Concert Original Silvers Show 97-23 > EAC Secure Mode > Wav > Sound Forge (cut commercials and stitch together) > CD Wave > CD-R > cdparanoia > FLAC
+
+Set List - 71:54
+- WW1D1T1
+stp1994-08-22t01-Vasoline
+stp1994-08-22t02-Silvergun Superman
+stp1994-08-22t03-Crackerman
+- WW1D1T2
+stp1994-08-22t04-Lounge Fly
+stp1994-08-22t05-Meat Plow
+stp1994-08-22t06-Still Remains
+- WW1D1T3
+stp1994-08-22t07-Gypsy Davy
+stp1994-08-22t08-Pretty Penny
+stp1994-08-22t09-Creep
+stp1994-08-22t10-Andy Warhol 
+stp19940822-- WW1D2T1
+stp1994-08-22t11-Big Empty 
+stp1994-08-22t12-Interstate Love Song 
+stp1994-08-22t13-Plush
+- WW1D2T2
+stp1994-08-22t14-Wicked Garden
+stp1994-08-22t15-Sin
+- WW1D2T3 
+stp1994-08-22t16-Unglued
+stp1994-08-22t17-Dead & Bloated
+stp1994-08-22t18-Sex Type Thing
+
+
+b0567b999b861dc73e8a92963d16fd6f  [shntool]  composite
+
+stp1994-08-22t01.flac:321ee23fe39e3c0d12d593e2768ac382
+stp1994-08-22t02.flac:c8d5fa1e78cfe5e389dc889a419f0e07
+stp1994-08-22t03.flac:778eacf01096e475d365f3c4fbf15551
+stp1994-08-22t04.flac:1aa6badd11ff9749355265f31062cba4
+stp1994-08-22t05.flac:536ccaeed3e1ce85636762f2b5e95cbd
+stp1994-08-22t06.flac:c49d2b04b40e3743696d56e140bfdc51
+stp1994-08-22t07.flac:ac7a7369982cc3d15bd9d19f007a711d
+stp1994-08-22t08.flac:f6f30a399b1ef8117e93804ebcd6aeae
+stp1994-08-22t09.flac:e0f0b71cf777ea45981192a6d9dcf1c4
+stp1994-08-22t10.flac:21ce7a3021fe727811471e4200b5d05a
+stp1994-08-22t11.flac:59384cf13f3f8bc65bf4c3790da906a3
+stp1994-08-22t12.flac:8e9a16138bcf51790b303301d797d7cc
+stp1994-08-22t13.flac:e5a8d2ba4094a32852b3ab6cb2f95d3b
+stp1994-08-22t14.flac:2aaeef3a67327683a48646da8fbc975f
+stp1994-08-22t15.flac:43d2ffe3474f010630d6f411425b29df
+stp1994-08-22t16.flac:2bcb2b83e65c45844454270b326f1440
+stp1994-08-22t17.flac:1d6b0b61eeabd119e8e01aa814f5cd7b
+stp1994-08-22t18.flac:9df063e24ac0ebeedc3e3d28fd20a5d8

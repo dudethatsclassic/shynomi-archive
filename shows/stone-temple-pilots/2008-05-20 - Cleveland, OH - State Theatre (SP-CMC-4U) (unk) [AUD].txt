@@ -1,0 +1,49 @@
+Stone Temple Pilots
+May 20th, 2008 
+State Theatre
+Cleveland, OH
+
+Source: SP-CMC-4U (ATU853) cards > custom battery box > iRiver h120 with Rockbox  
+Transer: iRiver h120 > Computer via USB 2.0 
+Processing: Adobe Audition 3.0 > Increase volume and add Fade In and Fade out >
+            CD Wave Editor 1.96.1 (Track Splits) > FLAC FrontEnd (Level 8)
+
+CD 1
+01. Big Empty
+02. Wicked Garden
+03. Big Bang Baby
+04. Silvergun Superman
+05. Vasoline
+06. Lounge Fly
+07. Lady Picture Show
+08. Sour Girl
+09. Creep
+10. Crackerman
+11. -random James Brown jam/improv-
+12. Plush
+13. Interstate Love Song
+14. Too Cool Queenie
+15. Coma
+16. Down
+17. All in the Suit That You Wear
+
+CD 2
+01. Sex Type Thing
+02. Encore Break
+03. Sin
+04. Dead & Bloated
+05. Trippin' on a Hole in a Paper Heart
+
+
+Band Members:
+Dean DeLeo (guitar)
+Robert DeLeo (bass guitar, backing vocals)
+Eric Kretz (drums, percussion)
+Scott Weiland (lead vocals)
+
+
+*Special thanks to Shelley
+
+
+Technical Notes:
+1. There is some clicking noise in "Big Empty" due to my mics hitting together. Also, lower volume during "Big Empty" due to shuffling around as the show started because everyone stood up and I had to re-adjust my gear. This goes on periodically until about 1:15 into the show. The mics were bumped together once or twice throughout later on in the show. 

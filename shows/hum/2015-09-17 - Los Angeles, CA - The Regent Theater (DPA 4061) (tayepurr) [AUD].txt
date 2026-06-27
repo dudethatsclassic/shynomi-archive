@@ -1,0 +1,44 @@
+Hum
+2015-09-17
+The Regent Theater, Los Angeles, CA, US
+
+Source: DPA 4061 > 9V R1=10K C=10uF R2=100K > M10 @ 48kHz/24-bit
+
+This is not the only DPA 4061 + M10 source that night, but I used a custom
+battery pack from a different location.
+
+Tracklist:
+
+1. (intro - '2112' [Rush])
+2. The Little Dipper
+3. Comin' Home
+4. Iron Clad Lou
+5. Green to Me
+6. Suicide Machine
+7. Scraper
+8. Isle of the Cheetah
+9. Inklings
+10. Stars
+11. I Hate It Too
+12. I'd Like Your Hair Long
+13. The Scientists
+
+Personnel:
+
+* Matt Talbott
+* Jeff Dimpsey
+* Tim Lash
+* Jason Gerken
+
+Links:
+
+* http://www.h-u-m.net/
+* https://archive.org/details/Hum
+
+Notes: the sound at the 2026-05-29 show was so bad I had to go back and listen
+to my recording from 2015 to remind me of how they should sound live.
+
+This is the 3rd source from this night on archive.org:
+
+* https://archive.org/details/hum2015-09-17.dpa4061s
+* https://archive.org/details/HumLiveAtRegentTheaterOn2015-09-17

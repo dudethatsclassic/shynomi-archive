@@ -1,0 +1,35 @@
+Offspring 2024-06-23 Scheessel Hurricane Festival
+
+Lineage : rtlplus live stream > N_m3u8DL-RE > .m4a/mp4 > mkvmerge
+
+Format            : Matroska at 7 919 kb/s
+Length            : 3.78 GiB for 1 h 8 min 17 s 60 ms
+
+Video #0          : AVC at 7 800 kb/s
+Aspect            : 1920 x 1080 (1.778) at 61.165 fps
+
+Audio #0          : AAC at 125 kb/s
+Infos             : 2 channels, 48.0 kHz
+Language          : de
+
+Length : 68:17
+
+(from setlist.fm)
+Come Out and Play
+All I Want
+Want You Bad
+Staring at the Sun
+Make It All Right
+In the Hall of the Mountain King (Edvard Grieg cover)
+Blitzkrieg Bop (Ramones cover)
+Hit That
+Million Miles Away
+Bad Habit
+Gotta Get Away
+Why Don't You Get a Job?
+(Can't Get My) Head Around You
+Pretty Fly (for a White Guy)
+The Kids Aren't Alright
+Encore:
+You're Gonna Go Far, Kid
+Self Esteem

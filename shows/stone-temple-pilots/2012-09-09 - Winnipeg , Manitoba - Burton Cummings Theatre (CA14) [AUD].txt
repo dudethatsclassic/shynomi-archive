@@ -1,0 +1,64 @@
+
+Stone Temple Pilots
+Burton Cummings Theatre
+Winnipeg Manitoba Canada
+September 09 2012
+
+Source: CA14(cards) >CA9100 >ZoomH4n >SD 24/48
+Transfer: SD >iZotope Rx( gain,ozone vst,resample,dither 16/44) >
+CDWav(tracks) >Frontend(FLAC8) >TLH(ffp) >MD5sum
+Location:  30' from stage 10' right of centre
+
+Setlist
+01. Sin
+02. Vasoline
+03. Crackerman
+04. Hollywood Bitch
+05. Hickory Dichotomy
+06. Meatplow
+07. Jam
+08. Still Remains
+09. Big Empty
+10. Black Again
+11. Between The Lines
+12. talk
+13. Interstate Love Song
+14. Jam
+15. Plush
+16. Tumble In The Rough
+17. Jam
+18. Big Bang Baby
+19. Trippin' On A Hole In A Paper Heart
+20. encore break
+21. Unglued
+22. Sex Type Thing
+
+Band
+Scott Weiland   vocals
+Dean DeLeo  guitar
+Robert DeLeo   bass, vocals
+Eric Kretz - drums
+
+Fingerprints
+STP2012-09-09tr01 - Sin.flac:fbf6dfd0f60eae52cc2c26113348626b
+STP2012-09-09tr02 - Vasoline.flac:b79c72d7a9789102b15e92c3540c131a
+STP2012-09-09tr03 - Crackerman.flac:8ed2e9adecd2b9d2161d050403d4566e
+STP2012-09-09tr04 - Hollywood Bitch.flac:74bfbcd56f97eac71b3ee25e0bb387fa
+STP2012-09-09tr05 - Hickory Dichotomy.flac:56987de575634432ee543ea4eaa28742
+STP2012-09-09tr06 - Meatplow.flac:47cd010b1bdfaf7d35f217ec92b3952e
+STP2012-09-09tr07 - Jam.flac:7b3000fdb15b05c5e8e7945396d912f4
+STP2012-09-09tr08 - Still Remains.flac:cbb3b501473b0851eee3611d3aaf9858
+STP2012-09-09tr09 - Big Empty.flac:ad85669bddb68a57d45b790760e93559
+STP2012-09-09tr10 - Black Again.flac:004d3cb48a650f0ed2158104e5a11602
+STP2012-09-09tr11 - Between The Lines.flac:a93172842ce2b62a7e5a193bfa3c041e
+STP2012-09-09tr12 - talk.flac:62aabb325a47867e74fdb07d252d7f8e
+STP2012-09-09tr13 - Interstate Love Song.flac:ab5006fa86e93520b68fbf8f88059ea5
+STP2012-09-09tr14 - Jam.flac:9986318681c7823eb4dffe02465160bc
+STP2012-09-09tr15 - Plush.flac:0dbe4e819ee8a8324fe9cedf80cb8c8a
+STP2012-09-09tr16 - Tumble In The Rough.flac:7ad49152b20412b7d54491257e688cf6
+STP2012-09-09tr17 - Jam.flac:cda8868757da27d6c035fda367bfa99c
+STP2012-09-09tr18 - Big Bang Baby.flac:929ced13aa203432ff5f7838aeae0459
+STP2012-09-09tr19 - Trippin' On A Hole In A Paper Heart.flac:1ce46af8ea488f20a005355eae35d987
+STP2012-09-09tr20 - encore break.flac:2a78a896232f298e9d10ea6cf798a570
+STP2012-09-09tr21 - Unglued.flac:f5f6febcb8e1f1c188f68aaf32f639e3
+STP2012-09-09tr22 - Sex Type Thing.flac:4bccb79baba287b37fe97e648c1f2e54

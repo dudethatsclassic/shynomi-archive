@@ -1,0 +1,60 @@
+HOLE
+December 12, 1991
+University of London Union (Stage One)
+London, UK
+
+SOURCE (AUD #1):
+unknown > unknown
+
+TRANSFER:
+Nakamichi DR-1 > Focusrite Scarlett 8i6 > Adobe Audition 23.2 > xACT 2.51
+
+GENERATION:
+ANA(X) > FLAC
+
+LENGTH:
+39:46
+
+TRACKS:
+00. intro/banter
+01. Doll Parts >
+02. Pretty on the Inside
+03. Garbadge Man
+04. Sassy [part of]
+05. Violet
+06. Teenage Whore
+07. Softer, Softest [part of] >
+08. Berry
+09. [jam]
+10. Burn Black
+11. The Only Rape I Know
+12. Good Sister/Bad Sister [part of] >
+13. Dicknail
+14. Where Did You Sleep Last Night? [traditional cover]
+
+NOTES:
+Side A and B have been crossfaded together, as both sides of the tape stopped and started in the same place.
+
+MD5 FINGERPRINTS:
+hole1991-12-12-aud1-t00.flac:87a0fe3d5763a0dfa47562436a2c676d
+hole1991-12-12-aud1-t01.flac:653bb5fbfb34d916bb509a2e1384049d
+hole1991-12-12-aud1-t02.flac:5520a2042e4081a14e6cce9bce4da9bb
+hole1991-12-12-aud1-t03.flac:4b156d4f47e7d8a066e498dcae428a35
+hole1991-12-12-aud1-t04.flac:fb2c10f35aefd568f2dff5ef505ea431
+hole1991-12-12-aud1-t05.flac:a1397555b56c165de2052025ac97ad97
+hole1991-12-12-aud1-t06.flac:fcbc0e4d7296cee69b855926b71d3bbd
+hole1991-12-12-aud1-t07.flac:73e2de5fc39c1f07d735d3e2509666a6
+hole1991-12-12-aud1-t08.flac:90924d389c90d03170260391a1cd6468
+hole1991-12-12-aud1-t09.flac:e3ef8a7a36478c54ad75398ecfe9bb3a
+hole1991-12-12-aud1-t10.flac:a2a9d55063bd7ad80d1a0d221ebfab78
+hole1991-12-12-aud1-t11.flac:10891bd2401cf0f8aea3c44b5e1b77d2
+hole1991-12-12-aud1-t12.flac:5e6ec7c9f23e02423ff79d18ac193cc9
+hole1991-12-12-aud1-t13.flac:cc1f4d753104d54de20f7a1106390507
+hole1991-12-12-aud1-t14.flac:e1870f9bbe0da9b566bf24f1d62f965d
+
+
+DISTRIBUTION:
+Members of LiveNIRVANA.com
+2023-02-14
+
+**PLEASE DO NOT ENCODE TO LOSSY FORMATS OR SELL!**

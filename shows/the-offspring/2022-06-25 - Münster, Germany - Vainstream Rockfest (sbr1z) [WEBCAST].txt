@@ -1,0 +1,32 @@
+The Offspring 
+2022-06-25 
+Münster, Germany 
+Am Hawerkamp
+Vainstream Rockfest 
+
+Lineage: LIVE Webcast -> yt-dlp -> FFmpeg -> MKVToolNix GUI -> .mkv 
+
+Video: VP9/1920x1080p/30fps/1910Kbps
+Audio: AAC/2.0/44.1KHz/128Kbps
+
+Setlist:
+Staring at the Sun
+Come Out and Play
+Want You Bad
+The Opioid Diaries
+Behind Your Walls
+Hit That
+Hammerhead
+Bad Habit
+Gotta Get Away
+Why Don't You Get a Job?
+(Can't Get My) Head Around You
+Pretty Fly (For a White Guy)
+The Kids Aren't Alright
+You're Gonna Go Far, Kid
+Self Esteem
+
+Length: 01:03:23
+_____
+SBR1Z
+2022

@@ -1,0 +1,27 @@
+Hum
+12/31/2000
+Metro
+Chicago, IL
+
+Taper:            unknown
+Source:           CSB > M1
+Conversion:       DDC-1(48k) > CDR-0(my transfer)
+Ripper:           Andrew Fogelsong
+FLAC:             CDR-0 > EAC V0.95 beta 4(proper offset) > WAV > FLAC (level 8)
+Notes:		  Inklings is a new song
+
+********************************************************************************
+	                    SPREAD THE MUSIC
+********************************************************************************
+
+1. Winder
+2. The Pod
+3. Ms. Lazarus
+4. Green to Me
+5. Suicide Machine
+6. Iron Clad Lou
+7. Afternoon With the Axolotls
+8. Inklings
+9. Stars
+10. Comin' Home
+11. I Hate It Too

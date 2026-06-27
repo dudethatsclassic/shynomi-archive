@@ -1,0 +1,59 @@
+HOLE
+The Joint, Las Vegas, Nevada, USA
+June 1st, 1999
+
+DISC #1/#1 (01:10:12)
+------------------
+01) Old Age (Intro)
+02) Violet
+03) Awful
+04) Pretty on the Inside
+05) Heaven Tonight
+06) Miss World
+07) Fuck You (jam)
+08) Reasons to Be Beautiful
+09) Malibu
+10) Dying
+11) Playing Your Song
+12) Doll Parts
+13) Boys on the Radio
+14) (banter)
+15) Northern Star
+16) Get Ready
+17) Celebrity Skin
+
+SOURCE (AUD#1)
+------------------
+unknown > unknown (MD)
+
+GENERATION
+------------------
+MD(M) > unknown > CD-R(3) > WAV [44.1kHz] > FLAC [Level 8]
+
+TRANSFER
+------------------
+HL-DT-ST GSA-H60L > Exact Audio Copy 0.99 prebeta 3 > FLAC Frontend 1.7.1
+
+MD5 FINGERPRINTS
+------------------
+2b1075c5551d897276bf7937e9087e66 *01 Old Age (Intro).flac
+1e8f0275884b2371a1cc5201daf5864f *02 Violet.flac
+c7a83991495b5bde0075943da453290b *03 Awful.flac
+01a5666302b67f71af967fb793efd13d *04 Pretty on the Inside.flac
+5c4669f060b8cdd897a1208a9d7cff32 *05 Heaven Tonight.flac
+96a389d7026429fa0cb98a12ba5bb622 *06 Miss World.flac
+953e491f0ae218eae6f5293465817f0d *07 Fuck You.flac
+39662aef70c63c5fc3457c392700d97a *08 Reasons to Be Beautiful.flac
+56f9963197b74c4d29ad351ce6d3d9b4 *09 Malibu.flac
+f3bfac3e960585e4833663119f214af8 *10 Dying.flac
+b2f47338e22ded603a393253d7b06400 *11 Playing Your Song.flac
+4f4f7dbc43988e436cbe845927a99f7f *12 Doll Parts.flac
+a33776205e3aca6c8c91bd1915d940ca *13 Boys on the Radio.flac
+329684ed7773cedbbffbc2bbce7fad41 *14 (banter).flac
+d498a5980eb9f1c5676c660a9c5b4481 *15 Northern Star.flac
+9087fb36aa4b3c48488bc392508e6844 *16 Get Ready.flac
+1162cac75bf7d9fccc6a0be281212f0e *17 Celebrity Skin.flac
+
+
+Transferred by Martin Donohoe.
+Please do not encode to lossy formats and/or sell.

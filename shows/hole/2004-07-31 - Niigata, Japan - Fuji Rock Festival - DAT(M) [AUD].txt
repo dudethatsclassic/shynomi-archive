@@ -1,0 +1,47 @@
+Courtney Love
+July 31, 2004
+Naeba Ski Resort
+Niigata, Japan
+
+SOURCE:
+unknown > unknown
+
+Extraction:
+NEC DVD-RW ND-3520A > EAC V0.95 > FLAC frontend 1.7.1 [level 8]
+
+GENERATION:
+DAT(M) > CDR(1) > FLAC [Level 8]
+
+LENGTH:
+49:37 min
+
+TRACKS:
+01. Mono
+02. But Julian, I'm A Little Older Than You
+03. I'll Do Anything
+04. All The Drugs
+05. Hold On To Me
+06. Malibu
+07. Reasons To Be Beautiful
+08. Voices Carry
+09. Celebrity Skin
+10. Awful
+11. Outro
+
+MD5 FINGERPRINTS:
+41906972 14:37.34 2006-09-03 Track01.flac
+20312008 14:37.44 2006-09-03 Track02.flac
+21873694 14:37.55 2006-09-03 Track03.flac
+34904138 14:38.11 2006-09-03 Track04.flac
+29945181 14:38.24 2006-09-03 Track05.flac
+30172728 14:38.36 2006-09-03 Track06.flac
+38574060 14:38.50 2006-09-03 Track07.flac
+27293718 14:39.00 2006-09-03 Track08.flac
+37392502 14:39.14 2006-09-03 Track09.flac
+20696602 14:39.20 2006-09-03 Track10.flac
+21574303 14:39.27 2006-09-03 Track11.flac
+
+Extracted by:
+Andreas Magnusson
+
+***DO NOT SELL OR ENCODE TO MP3!***

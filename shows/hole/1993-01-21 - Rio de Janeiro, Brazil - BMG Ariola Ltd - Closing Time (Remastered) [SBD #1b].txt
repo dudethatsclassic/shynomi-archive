@@ -1,0 +1,31 @@
+HOLE feat. Kurt Cobain
+BMG Ariola Ltd, Rio de Janeiro, Brazil
+January 21st, 1993
+
+DISC #1/#1 (02:28)
+---------------
+01) Closing Time
+
+SOURCE (SBD#1b)
+---------------
+Unofficial CD, "The Last Concert"
+
+GENERATION
+---------------
+CD(M) > WAV [44.1kHz] > REMASTER > WAV [44.1kHz] > FLAC [Level 8]
+
+TRANSFER
+---------------
+HL-DT-ST GSA-H60L > Exact Audio Copy 0.99 prebeta 3 > Cool Edit Pro v.x > FLAC Frontend 1.7.1
+
+NOTES
+---------------
+A remaster of only circulating demo from Hole's portion of "the Rio tape".
+
+MD5 FINGERPRINTS
+---------------
+6d8146c11e4297cd5287191ebf3f7a34 *01 Closing Time.flac
+
+
+Transferred by Martin Donohoe. Remastered by Marco Tenora (IWP).
+Please do not encode to lossy formats and/or sell.

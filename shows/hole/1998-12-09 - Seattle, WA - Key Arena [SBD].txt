@@ -1,0 +1,112 @@
+Exact Audio Copy V0.99 prebeta 4 from 23. January 2008
+
+EAC extraction logfile from 8. January 2009, 10:42
+
+Unknown Artist / Unknown Title
+
+Used drive  : TSSTcorpCDRW/DVD TSL462C   Adapter: 1  ID: 0
+
+Read mode : Burst
+
+Read offset correction                      : 0
+Overread into Lead-In and Lead-Out          : No
+Fill up missing offset samples with silence : Yes
+Delete leading and trailing silent blocks   : No
+Null samples used in CRC calculations       : No
+Used interface                              : Native Win32 interface for Win NT & 2000
+Gap handling                                : Not detected, thus appended to previous track
+
+Used output format : Internal WAV Routines
+Sample format      : 44.100 Hz; 16 Bit; Stereo
+
+
+TOC of the extracted CD
+
+     Track |   Start  |  Length  | Start sector | End sector 
+    ---------------------------------------------------------
+        1  |  0:00.00 |  4:09.36 |         0    |    18710   
+        2  |  4:09.36 |  3:56.57 |     18711    |    36467   
+        3  |  8:06.18 |  6:11.46 |     36468    |    64338   
+        4  | 14:17.64 |  4:45.48 |     64339    |    85761   
+        5  | 19:03.37 |  5:17.14 |     85762    |   109550   
+        6  | 24:20.51 |  2:51.14 |    109551    |   122389   
+        7  | 27:11.65 |  4:15.11 |    122390    |   141525   
+        8  | 31:27.01 |  4:03.05 |    141526    |   159755   
+        9  | 35:30.06 |  5:23.17 |    159756    |   183997   
+
+
+Track  1
+
+     Filename C:\Documents and Settings\jmallon\My Documents\My Music\1\Track01.wav
+
+     Peak level 97.0 %
+     Copy CRC 0F3139B8
+     Copy OK
+
+Track  2
+
+     Filename C:\Documents and Settings\jmallon\My Documents\My Music\1\Track02.wav
+
+     Peak level 92.2 %
+     Copy CRC EF1BDFB4
+     Copy OK
+
+Track  3
+
+     Filename C:\Documents and Settings\jmallon\My Documents\My Music\1\Track03.wav
+
+     Peak level 93.3 %
+     Copy CRC A037FBF8
+     Copy OK
+
+Track  4
+
+     Filename C:\Documents and Settings\jmallon\My Documents\My Music\1\Track04.wav
+
+     Peak level 98.5 %
+     Copy CRC 60DC43F1
+     Copy OK
+
+Track  5
+
+     Filename C:\Documents and Settings\jmallon\My Documents\My Music\1\Track05.wav
+
+     Peak level 89.7 %
+     Copy CRC B97EA499
+     Copy OK
+
+Track  6
+
+     Filename C:\Documents and Settings\jmallon\My Documents\My Music\1\Track06.wav
+
+     Peak level 90.7 %
+     Copy CRC 4369F4DB
+     Copy OK
+
+Track  7
+
+     Filename C:\Documents and Settings\jmallon\My Documents\My Music\1\Track07.wav
+
+     Peak level 92.0 %
+     Copy CRC 001ACB3A
+     Copy OK
+
+Track  8
+
+     Filename C:\Documents and Settings\jmallon\My Documents\My Music\1\Track08.wav
+
+     Peak level 94.8 %
+     Copy CRC 725AE993
+     Copy OK
+
+Track  9
+
+     Filename C:\Documents and Settings\jmallon\My Documents\My Music\1\Track09.wav
+
+     Peak level 92.9 %
+     Copy CRC 2CF33FAD
+     Copy OK
+
+No errors occurred
+
+End of status report

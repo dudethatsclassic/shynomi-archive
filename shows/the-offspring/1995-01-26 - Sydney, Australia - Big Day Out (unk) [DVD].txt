@@ -1,0 +1,38 @@
+The Offspring - 1995-01-26 - Big Day Out, Sydney, Australia
+
+Lineage unknown
+cam->vhs->dvd
+
+Setlist
+01. Bad Habit
+02. Get It Right
+03. So Alone
+04. Burn It Up
+05. Genocide
+06. Gotta Get Away
+07. L.A.P.D.
+08. It'll Be a Long Time
+09. Come Out and Play
+10. What Happened to You?
+11. Smash
+12. Nitro (Youth Energy)
+13. Session
+14. Self Esteem
+
+Codec
+Original ID: 224
+Codec: MPEG-1/2 Video (mpgv)
+Type: Video
+Video resolution: 720x480
+Buffer dimensions: 720x480
+Frame rate: 29.970030
+Decoded format: 
+Orientation: Top left
+Chroma location: Left
+
+Original ID: 48512
+Codec: A52 Audio (aka AC3) (a52 )
+Type: Audio
+Channels: Stereo
+Sample rate: 48000 Hz
+Bits per sample: 32

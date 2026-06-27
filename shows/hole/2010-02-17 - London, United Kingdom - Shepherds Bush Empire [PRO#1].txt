@@ -1,0 +1,39 @@
+Hole
+02 Shepherds Bush Empire, London, United Kingdom
+February 17, 2010
+
+DISC #1/#1 (12:52)
+----------------------
+01) Letter to God
+02) Pacific Coast Highway
+03) Samantha
+
+SOURCE (PRO#1)
+----------------------
+soundboard > unknown
+
+GENERATION
+----------------------
+VID(M) > MP4 [1.9mbps/44.1kHz, 118kbps AAC]
+
+EXTRACTION
+----------------------
+DownloadHelper 4.7.2
+
+NOTES
+----------------------
+- the word "fuck" during the bridge of "Samantha" is censored.
+- audio is a mix of open-mic recordings from cameras and soundboard audio
+- released by The Island Def Jam Music Group and distributed by Universal Music in May, 2010.
+
+MD5 FINGERPRINTS
+----------------------
+b5724408af26d7dabd233a9a2551da21 *01 Letter to God.mp4
+9583ca636d5a93c7cc2fa4b33e013888 *02 Pacific Coast Highway.mp4
+659342e5475512cad86abb65e550d9f3 *03 Samantha.mp4
+
+
+Extracted by Martin Donohoe.
+Please do not encode to lossless formats and/or sell.
+
+

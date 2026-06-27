@@ -1,0 +1,23 @@
+Hum
+7/5/1998
+Marcus Amphitheater
+Milwaukee, WI
+
+Taper:            unknown
+Source:           DSM-6/L > PA-6LC3 > D8
+Conversion:       DDC-2(32k) > CDR-0(my transfer)
+Ripper:           Andrew Fogelsong
+FLAC:             CDR-0 > EAC V0.95 beta 4(proper offset) > WAV > FLAC (level 8)
+Notes:		  
+
+********************************************************************************
+	                    SPREAD THE MUSIC
+********************************************************************************
+
+1. I'd Like Your Hair Long
+2. Green to Me
+3. Suicide Machine
+4. Comin' Home
+5. I Hate It Too
+6. Stars
+7. Iron Clad Lou

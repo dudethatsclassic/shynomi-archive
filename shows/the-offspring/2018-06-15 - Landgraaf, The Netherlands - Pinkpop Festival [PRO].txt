@@ -1,0 +1,52 @@
+The Offspring
+Pinkpop, Megaland, Landgraaf, The Netherlands
+June 15, 2018
+IBA Parkstad Stage 20:30-21:30
+
+Setlist:
+1. Americana
+2. Come Out And Play
+3. Staring At The Sun
+4. Want You Bad
+5. Self Esteem
+
+Taken from the Dutch national television channel NPO2 Extra (previously NPO Cultura) broadcast, June 17, 2018.
+
+Lineage : NPO2 Extra DVB-C - Humax iHDR-5050C - VideoReDo TVSuite 4.20.7.629
+
+Technical details:
+File Name : The Offspring 2018-06-15 Pinkpop MPEG2 TS Stream.ts
+Size : 0.699 GB
+Duration : 00:18:27.05
+Mux type : TS Stream
+TS mux rate : 7.359 Mbps
+
+Video Encoding : MPEG2
+VideoStreamID : x399
+Frame rate : 25.00 fps
+Encoding size : 720 x 576
+Aspect ratio : 16:9
+Header bit rate : 4.800 Mbps
+VBV buffer : 220 KBytes
+Profile : Main@Main
+Progressive : Prog or Int
+Chroma : 4:2:0
+Bit rate : 4.663 Mbps
+
+Audio Stream: 1 (Primary)
+Codec : MPEG
+MPEGLayer : Layer 2
+Channels : 2.0
+Language : dut
+PID : x39A
+PES Stream Id : xC0
+Bit rate : 192 Kbps
+Sampling rate : 48000
+Sample size : 16 bits
+
+Another tape from the Magnix Live Archive.
+
+Magnix,
+June 2018.
+
+Uploaded to DIME on June 17, 2018 by Magnix.

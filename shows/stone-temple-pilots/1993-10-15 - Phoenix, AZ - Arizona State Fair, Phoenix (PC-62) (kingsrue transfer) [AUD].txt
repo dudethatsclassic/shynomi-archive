@@ -1,0 +1,77 @@
+Stone Temple Pilots
+Arizona State Fair
+Veteran's Coliseum, Phoenix, AZ
+October 15, 1993
+
+Source : Sony PC-62 stereo mic > Sony WM-D3 Cassette Master (Maxell XL-IIS c100) (Source 2)
+
+Transfer : Sony TC-WE 475 > Tascam SD-20M (rack mount) wave recorder (16/44)
+
+Editing : Sound Forge (tracking & volume) > Wave > TLH (sbe aligned) Flac 8
+
+Traders Den - March 12, 2021
+
+Transferred & Tracked by kingrue upload #3031
+============================================
+
+
+Band line-up
+Scott Weiland (lead vocals) (died Dec 3, 2015, age 48)
+Dean DeLeo (guitar)
+Robert DeLeo (bass, backing vocals)
+Eric Kretz (drums)
+
+
+Total Time = 74:15
+
+Set list
+00 crowd cheer
+01 Crackerman
+02 Wicked Garden
+03 Sin
+04 Plush
+05 Where The River Goes
+06 Creep
+07 Lounge Fly
+08 Dead And Bloated
+-- tape flip --
+09 Sex Type Thing (swing version)
+10 Sex Type Thing
+11 Wet My Bed
+12 Naked Sunday
+13 Piece Of Pie (tiny dropout @ 3:26) 
+
+Recorded by Big D Vol. 7
+
+=======================
+
+There is another previous source with this lineage : 
+PZM mics > Sony TCD-D3 DAT
+
+==========================
+
+
+No errors occured.
+
+
+00 crowd cheer.flac:787793c859e7c95679bb80f36905787d
+01 Crackerman.flac:bca3600112c04cfb4d7d38343b467a81
+02 Wicked Garden.flac:48b445566475bc95d8e9de325f4b6b40
+03 Sin.flac:c4feca11159460e0fc384d5de06a5ccc
+04 Plush.flac:7ccb2e37485bc1b15f49b08c846f021c
+05 Where The River Goes.flac:9a239f1c239bb039fbfd2ff107bf188b
+06 Creep.flac:84572043ea2a8f2566517d3350e13b52
+07 Lounge Fly.flac:d051d06ddf00e59a333c53193801345b
+08 Dead And Bloated.flac:6674b5eb772d37d6c0a7da38ef18bc6c
+09 Sex Type Thing (swing version).flac:aac912a468dd21e4bf0b2dbe82d64615
+10 Sex Type Thing.flac:eee33e1980c4952f2cb5a78946b2439e
+11 Wet My Bed.flac:266683aad334b7d943017fb3c5b6e006
+12 Naked Sunday.flac:0b4d3ecd1423d8b1ad40cb14b6060b49
+13 Piece Of Pie.flac:ae3589717e9e55227a2cedb50bf0f3ee
+
+Checksum file saved to disk.
+
+No errors occured.
+
+
+

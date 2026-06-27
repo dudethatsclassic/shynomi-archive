@@ -1,0 +1,65 @@
+Stone Temple Pilots
+Warren Haynes Christmas Jam
+The Asheville Civic Center
+Asheville, North Carolina
+12/13/2025 
+
+Source: Schoeps CCM4V'S>Sound Devices Mix-Pre 6 II (48/32)
+FOB/DFC/KFC/ZFC/AARP 47' From Stage, 6' High
+DSP: Sound Devices Mix-Pre 6 II>Sound Forge 18.0>CD Wave>flac(16)
+ID3 Tagged In Foobar 2000
+Recorded By: Z-Man
+Seeded By: Z-Man
+Taper's Assistant: Kara Kowalski
+FOB Blockers: Dave And Kara
+
+Show #317 Of 2025
+
+A Team Dirty South And Home Team Recording
+
+Disc I 
+
+01 Wicked Garden 
+02 Vasoline 
+03 Big Bang Baby 
+04 Down 
+05 Big Empty 
+06 Band Introductions
+07 Plush 
+08 Interstate Love Song 
+09 Cracker Band 
+10 *Dead And Bloated
+11 Sex Type Thing
+
+* Someone In The Crowd Up Front Passed Out So The Band Stopped And Mentioned For Heip
+ 
+Robert DeLeo - Bass And Vocals
+Dean DeLeo - Guitar 
+Jeff Gutt - Vocals
+Eric "Kretzel" Kretz - Drums
+ 
+stp2025-12-13d01t01.flac:87e98bb18caa1f03c7be72daf10e2ea6
+stp2025-12-13d01t02.flac:b501f2d62174a9a76b94b510eb54cbfa
+stp2025-12-13d01t03.flac:a64d2ba8ec74088c53b5eecf330818b4
+stp2025-12-13d01t04.flac:b03ccf42cde78679193ae1ae0fa01be9
+stp2025-12-13d01t05.flac:44ec5fc585641d438dd722bb53e96208
+stp2025-12-13d01t06.flac:c2dac64e6ac24fa0ab7e8f7db8be7cf7
+stp2025-12-13d01t07.flac:94288e2ff38c8581c30bb62ebb048702
+stp2025-12-13d01t08.flac:a7a7f68c82cbe4fdf2c0a8f126fdbc32
+stp2025-12-13d01t09.flac:5f60e644b5736164b0c3e095fbbda37f
+stp2025-12-13d01t10.flac:a28de30ab1491519398932e3d3332a62
+stp2025-12-13d01t11.flac:21a8a6bcc5c7090d0c7474f817ae24e8
+
+  length     expanded size    cdr  WAVE problems  fmt   ratio  filename
+     5:09.19       54552332 B   ---   --   ---xx   flac  0.5447  stp2025-12-13d01t01.flac
+     3:32.44       37500332 B   ---   --   ---xx   flac  0.5262  stp2025-12-13d01t02.flac
+     4:08.68       43907180 B   ---   --   ---xx   flac  0.5341  stp2025-12-13d01t03.flac
+     4:38.10       49062764 B   ---   --   ---xx   flac  0.5076  stp2025-12-13d01t04.flac
+     7:47.16       82416476 B   ---   --   ---xx   flac  0.4797  stp2025-12-13d01t05.flac
+     0:48.40        8561324 B   ---   --   ---xx   flac  0.4288  stp2025-12-13d01t06.flac
+     6:03.01       64035596 B   ---   --   ---xx   flac  0.5374  stp2025-12-13d01t07.flac
+     4:08.40       43841324 B   ---   --   ---xx   flac  0.5291  stp2025-12-13d01t08.flac
+     3:56.46       41738636 B   ---   --   ---xx   flac  0.5318  stp2025-12-13d01t09.flac
+     8:08.02       86087948 B   ---   --   ---xx   flac  0.5093  stp2025-12-13d01t10.flac
+     4:49.36       51064316 B   ---   --   ---xx   flac  0.5369  stp2025-12-13d01t11.flac
+    53:10.22      562768228 B                            0.5190  (11 files)

@@ -1,0 +1,70 @@
+The Offspring
+29th August 1999
+Main Stage @ Reading Festival
+Reading, England
+
+SETLIST (60:22)
+-----------------
+01. Americana
+02. All I Want
+03. The Kids Aren't Alright
+04. Walla Walla
+05. Gone Away
+06. Have You Ever
+07. Smash
+08. I Choose
+09. Bad Habit
+10. ("...the Backstreet Boys!")
+11. Gotta Get Away
+12. Pretty Fly (For A White Guy)
+13. Intermission
+14. Staring At The Sun
+15. Come Out And Play
+16. Genocide
+17. Why Don't You Get A Job?
+18. (Dexter chatting / "water" jam)
+19. Self Esteem
+
+GENERATION
+-----------------
+DAT(M) -> FLAC
+
+SOURCE (AUD #1)
+-----------------
+Core Sound Binaurals -> battery box -> Sony TCD-D7 -> DAT(M)
+
+TRANSFER
+-----------------
+DAT(M) -> Tascam DA-20 MkII -> M-Audio Audiophile 2496 (digital coax) -> WAV (48kHz/16bit)
+-> Adobe Audition 2017 (EQ/fades/level adjustment) -> CDWave (splits) -> foobar2000 -> FLAC(8)
+
+NOTES
+-----------------
+EQ was to reduce the bass slightly and also give the top end a boost.
+Also had to reduce clapping/whooping in a lot of places, taped from the middle of a large noisy crowd.
+
+FLAC FINGERPRINTS
+-----------------
+offspring-1999aug29-t01.flac:47dbc63c823fd0305c7dc63c1e414a81
+offspring-1999aug29-t02.flac:b00ecf28666e6122328836aa34013fa5
+offspring-1999aug29-t03.flac:944ccf422e6baf8fbdce914dfecb3b5f
+offspring-1999aug29-t04.flac:6f115a079cf562818cafb3dfff9cac61
+offspring-1999aug29-t05.flac:817d6271ccc2a7262bab4315d80cea29
+offspring-1999aug29-t06.flac:f2459f310f5e84f37c6d48213ce949a2
+offspring-1999aug29-t07.flac:57a6fa153099084d0a36613a12a19717
+offspring-1999aug29-t08.flac:ada37e5a12144f71ca26a5baf210619a
+offspring-1999aug29-t09.flac:31b77dc07cf3c0f0574c147f56cf8887
+offspring-1999aug29-t10.flac:1c59b967f764b1771208c491196d1154
+offspring-1999aug29-t11.flac:665f51ee1b3043b33703ae40577ebe71
+offspring-1999aug29-t12.flac:20a016fc16143aeab746b9694fe4c0c6
+offspring-1999aug29-t13.flac:9e8fa453234a0479656858500502f83b
+offspring-1999aug29-t14.flac:4662a60dc5024b99051bdd42a13049da
+offspring-1999aug29-t15.flac:a6e2d2bbe431c217d7409cf41c70a95c
+offspring-1999aug29-t16.flac:9b9c821102079fdfb6db11537f0f994b
+offspring-1999aug29-t17.flac:72663f80956d04dbd0b630e7ee1a0f34
+offspring-1999aug29-t18.flac:1f97341966d3d609ac71ef9ee091503e
+offspring-1999aug29-t19.flac:bd208ed3bc3e13528fce8266b1d31ad4
+
+Taped, transferred & mastered by: Gary Watson (packetboatlane@yahoo.co.uk)
+
+DO NOT SELL, OR DISTRIBUTE IN LOSSY FORMATS!

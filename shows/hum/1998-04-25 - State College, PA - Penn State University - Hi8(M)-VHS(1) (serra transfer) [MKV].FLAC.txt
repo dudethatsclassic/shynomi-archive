@@ -1,0 +1,31 @@
+Hum
+April 25, 1998
+Penn State University
+Stage College, PA
+
+Source: 1st generation VHS (from Hi8 master)
+Transfer: Panasonic AG1980 > Datavideo TBC7000 > ATI TV Wonder 600 USB > VirtualDub > AVI [UtVideo/48khz/16-Bit/PCM] 
+x264 encoding: CRF=14, QTGMC (deinterlaced), cropped, borders added
+Audio: WAV > Adobe Audition (+6.75dB amplify) > FLAC
+Notes: joined via MKVToolNix GUI and added chapters
+
+********************************************************************************
+SPREAD THE MUSIC
+********************************************************************************
+
+1. (intro)
+2. Afternoon with the Axolotls
+3. The Pod
+4. Dreamboat
+5. I Hate It Too
+6. Ms. Lazarus
+7. Comin' Home
+8. Suicide Machine
+9. Stars
+10. Iron Clad Lou
+
+
+Transfer:
+Nicholas Serra (nicks2319) of LiveNIRVANA.com / SPLRA.org
+
+For additional live recordings I have taped, transferred and/or traded for, see my Live Music Archive uploads - https://archive.org/details/@fogelsong

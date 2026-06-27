@@ -1,0 +1,69 @@
+The Offspring
+November 13, 2021
+Daytona Beach, Florida USA
+Welcome to Rockville Festival at the Daytona International Speedway
+Lineage: SP-CMC-8(AT8538 Mod)>CA-UGLY II>Edirol R-05>PC>CDWAVE>Adobe Audition>FLAC
+Taped by: Porcelmc 
+
+_____________________________________________________________
+
+Setlist - The Offspring
+
+01. Intro
+02. All I Want
+03. This Is Not Utopia
+04. Dexter and Noodles Speak
+05. Come Out and Play
+06. Want You Bad
+07. Let the Bad Times Roll
+08. Original Prankster
+09. Bad Habit
+10. Gotta Get Away
+11. Gone Away Intro
+12. Gone Away (Piano Version)
+13. Why Don't You Get a Job?
+14. (Can't Get My) Head Around You
+15. Dexter and Noodles Speak #2
+16. Pretty Fly (For a White Guy)
+17. The Kids Aren't Alright
+18. Encore Break
+19. You're Gonna Go Far, Kid
+20. Dexter and Noodles Speak #3 
+21. Self Esteem
+_____________________________________________________________
+
+Notes:
+
+N/A
+
+_____________________________________________________________
+
+Sample: 
+
+https://youtu.be/wq-mLDdAMEc
+
+ST5 Hash File:
+
+f6952706bc04d7060f96dd2ea2d2b763  [shntool]  01_Intro.flac
+43641e3a00ab819f319f1ecf248dc443  [shntool]  02_All I Want.flac
+619f51a61935c15160fdb36130ebbc2e  [shntool]  03_This Is Not Utopia.flac
+9afbf6d4c4af79a167404511c4b99579  [shntool]  04_Dexter and Noodles Speak.flac
+8da8c9f562ae7f24bd44eefc06080192  [shntool]  05_Come Out and Play.flac
+70c8fa348095dc7da899ee100542c032  [shntool]  06_Want You Bad.flac
+d55e5ea52d447b31bd54be795c4762b8  [shntool]  07_Let the Bad Times Roll.flac
+d79d2f5ebdf0f9e77fd1ad9cfd393240  [shntool]  08_Original Prankster.flac
+7eb45edd7e2e5b105e2022cd503ae093  [shntool]  09_Bad Habit.flac
+48b737f6cfb4f35fb4c7190a290af39d  [shntool]  10_Gotta Get Away.flac
+32841aec7d31024b16dff36283b0abb3  [shntool]  11_Gone Away (Intro).flac
+0b91db7281003f0a9adf9b014835a196  [shntool]  12_Gone Away.flac
+7f8444ac416d486acad535a844714509  [shntool]  13_Why Don't You Get a Job.flac
+eb4aa67dc276ad97a9cac66e723897d8  [shntool]  14_(Can't Get My) Head Around You.flac
+8ceff3aec20804147b28bd29594cb02c  [shntool]  15_Dexter and Noodles Speak #2.flac
+44a21d422f18b573ce3356d2a5212ab4  [shntool]  16_Pretty Fly (For a White Guy).flac
+488a1b02ccc96514480439c4cb237675  [shntool]  17_The Kids Aren't Alright.flac
+47c027fdd59604224255f7a08c7d4378  [shntool]  18_Encore Break.flac
+f000f911beb2596360db53868c7762c8  [shntool]  19_You're Gonna Go Far, Kid.flac
+d461a3ed8ee5549e5d77984c023b6bf9  [shntool]  20_Dexter and Noodles Speak #3.flac
+cfb6068859ede345b0ac53d3e55999f0  [shntool]  21_Self Esteem.flac
+
+No errors occured.

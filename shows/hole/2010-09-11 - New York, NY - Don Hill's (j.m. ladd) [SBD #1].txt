@@ -1,0 +1,67 @@
+HOLE
+September 11, 2010
+Don Hill's
+New York, NY, US
+
+SETLIST:
+-------------------
+00. intro/banter
+01. Pretty On The Inside [part of] ->
+02. Sympathy For The Devil [Rolling Stones cover]
+03. Skinny Little Bitch
+04. Bad Romance [Lady Gaga cover]
+05. Reasons To Be Beautiful [cuts in by the end]
+06. Take This Longing [Leonard Cohen cover]
+07. Someone Else's Bed
+08. Malibu [cuts out]
+09. Celebrity Skin
+10. Honey
+11. Thirteen [Big Star cover, only includes last note]
+12. Northern Star [false start]
+13. Northern Star [mostly missing everything, cuts within]
+14. Bad Romance [Lady Gaga cover, acoustic reprise]
+
+
+SOURCE:
+-------------------
+SBD #1 - Quality: 9.0
+soundboard > unknown (Hard Drive Recorder)
+
+Recorded by: J. M. Ladd
+
+TRANSFER:
+-------------------
+soundboard > unknown hard drive recorder > 2-channel mono mixdown from 24-track multitrack files > WAV [44.1kHz/16-bit] > Adobe Audition 22.5 [remastering, tracking] > xACT 2.50 > FLAC [Level 8]
+
+GENERATION:
+-------------------
+WAV(M) [44.1kHz/16-bit] > FLAC [Level 8]
+
+NOTES:
+-------------------
+- This source features only Courtney's vocal and guitar.
+- This source is incomplete, missing most of "Reasons To Be Beautiful", "Malibu, all of "Thirteen", and the complete performance of "Northern Star".
+- This source is remastered through dynamic compression and equalization to bring a better balance between the background music and Courtney's upfront guitar and vocal channels.
+
+
+FLAC FINGERPRINTS:
+-------------------
+hole2010-09-11-sbd1-kb-t00.flac:03b6b5b889a297db589cff64d8a0071e
+hole2010-09-11-sbd1-kb-t01.flac:24768a30797f5af65613178beb05b216
+hole2010-09-11-sbd1-kb-t02.flac:e91324983905eaa21862a7a9a7ad7f7a
+hole2010-09-11-sbd1-kb-t03.flac:3f86db0dc9c066f575343103106c3263
+hole2010-09-11-sbd1-kb-t04.flac:4ab8353ef1b8126f97a97d6b2e20e463
+hole2010-09-11-sbd1-kb-t05.flac:fe9181ea163b9e03a20e55ea7aaf5639
+hole2010-09-11-sbd1-kb-t06.flac:22041579dbb25a445e17f7cfc026769c
+hole2010-09-11-sbd1-kb-t07.flac:0185e3da65ecc6d152aed73ec72e48ee
+hole2010-09-11-sbd1-kb-t08.flac:4948a663509881c8713c72a2e4bd09e2
+hole2010-09-11-sbd1-kb-t09.flac:34c6df5c160c0ef5f702768d7deae0f1
+hole2010-09-11-sbd1-kb-t10.flac:fe8c0c6c758c434ea605d6f63a6de659
+hole2010-09-11-sbd1-kb-t11.flac:a5adb5b616f0b96755fce7eb59cc8cf4
+hole2010-09-11-sbd1-kb-t12.flac:03dd7b7d653a1ca694b22c78d8e9e84c
+hole2010-09-11-sbd1-kb-t13.flac:85c379e65f513d3423927e9046fe7816
+hole2010-09-11-sbd1-kb-t14.flac:a33a674a297c038f6298079a539be2ec
+
+
+Transferred and encoded by: J. M. Ladd & vibrioidxire
+PLEASE DO NOT DISTRIBUTE IN LOSSY FORMATS OR SELL!

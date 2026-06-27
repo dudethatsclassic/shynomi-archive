@@ -1,0 +1,54 @@
+HOLE
+December 11, 1991
+Lemon Grove, University of Exeter
+Exeter, United Kingdom
+
+SETLIST (59:45)
+-----------------
+01) intro
+02) Doll Parts
+03) Pretty On The Inside
+04) Garbadge Man
+05) Violet
+06) Teenage Whore
+07) Sassy
+08) Berry
+09) Softer, Softest
+10) Mrs. Jones
+11) Babydoll
+12) The Only Rape I Know
+13) Dicknail
+14) Where Did You Sleep Last Night?
+15) Burn Black
+16) interview
+
+GENERATION
+-----------------
+DVDR ["Live At The Lemongrove, Exeter University Wednesday 11th December 1991" bootleg] > MKV
+
+SOURCE (AMATEUR VIDEO)
+-----------------
+unknown > unknown
+
+TRANSFER
+-----------------
+unknown > HL-DT-STDVDRAM GP57ES40 > MakeMKV v1.17.4
+
+NOTES
+-----------------
+Last track is a 13 minute long interview done after the gig. Courtney did not want to be filmed so it is audio only.
+
+VIDEO
+-----------------
+MPEG-2 Video 720x480 (4:3) 29.97fps, overall variable bitrate 7 393 kb/s
+
+AUDIO
+-----------------
+AC-3 48000Hz 2.0 chn 192 kbit/s
+
+MD5 CHECKSUM
+-----------------
+366c2c58d11f0d0d715efb0dfa4d7153 *hole1991-12-11.mkv
+
+
+DO NOT SELL

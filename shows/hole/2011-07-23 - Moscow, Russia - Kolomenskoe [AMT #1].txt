@@ -1,0 +1,43 @@
+Hole
+2011-07-23
+Live At Kolomenskoe, Picnic Afishi, Moscow, Russia
+
+AMT#1
+Audio: A
+SOURCE: VID(M) > DVDR(2) > DVD Audio Extractor 7.1.1 > FLAC
+Running Time: 50 minutes
+
+Setlist:
+
+01 Pretty On The Inside - Sympathy For The Devil
+02 Skinny Little Bitch
+03 Miss World
+04 Violet
+05 Celebrity Skin
+06 Honey
+07 Reasons To Be Beautiful
+08 Amen
+09 Malibu
+10 Pacific Coast Highway
+11 Doll Parts
+12 Plump
+
+MD5 Checksums:
+--------------
+
+c2a5f86699332e7074a4fb61c3d4e776 *01 intro.flac
+c7ceafca70ce38083e3fcb0eeb578f3b *02 Pretty On The Inside - Sympathy For The Devil.flac
+2eb03d44770237e4569b2d0cb2d42643 *03 Skinny Little Bitch.flac
+d77878fb465aad468e58999df10f3779 *04 Miss World.flac
+87ec5c47f410a608936ce30da202c34d *05 Violet.flac
+8f246b57bc7efa27c5bae4ba1a28792e *06 Celebrity Skin.flac
+3b71483a8b5133e2c638f7a4f711c031 *07 Honey.flac
+49bd786f21d34206665efba77a68742e *08 Reasons To Be Beautiful.flac
+c581f63f83d4f7b9dc1efa82b9dd96ad *09 Amen.flac
+db7f5833ef547e2514ae126df08a5a33 *10 Malibu.flac
+6db1a22976a546ea4c9fb57ad5d06713 *11 Pacific Coast Highway.flac
+ecdf7f2315a948d5519e497eddc993c4 *12 Doll Parts.flac
+8223a24c2891ba4254290bde0c304d21 *13 Plump.flac
+
+DVDR Upload By Horst.
+Audio DVDR extraction made by: Artur Cunha Alves.

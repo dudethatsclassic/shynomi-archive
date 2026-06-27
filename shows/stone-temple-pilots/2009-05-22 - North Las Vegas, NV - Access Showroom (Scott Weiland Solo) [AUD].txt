@@ -1,0 +1,29 @@
+SCOTT WEILAND
+May 22, 2009
+Access Showroom
+North Las Vegas, NV
+
+Source: AKG CK63 > JK Labs DVC vi > Edirol R-09HR
+Location: thirty feet from stage, DFC
+Lineage: WAV(M) [24/44.1] > WAV [16/44.1] > FLAC
+Edits/EQ: HPF @ 70 Hz, L: +1 dB, R: -1 dB, +12.3 dB, limiter @ -5.8 dB, +5.7 dB, envelope first 60 seconds
+Notes: venue inside Aliante Casino
+
+01 - Reel Around the Fountain Jam
+02 - Paralysis
+03 - Killing Me Sweetly
+04 - Vasoline {Stone Temple Pilots}
+05 - Mockingbird Girl
+06 - Do It for the Kids {Velvet Revolver}
+07 - Big Black Monster
+08 - Can't Stand Me Now {Libertines}
+09 - Unglued {Stone Temple Pilots}
+10 - "Space Jam"
+11 - Blind Confusion
+12 - Interstate Love Song {Stone Temple Pilots}
+13 - Barbarella
+14 - encore cheers & talk
+15 - Missing Cleveland
+
+
+Compiled March 2020 by CPS

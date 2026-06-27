@@ -1,0 +1,37 @@
+Hole
+Maida Vale Studios, London, UK
+March 27th, 1993
+------------------------------
+
+Tracklisting
+o Credit in the Straight World
+
+o Gutless
+
+o Old Age
+
+o Doll Parts
+
+
+
+Source (SBD)
+soundboard -> unknown
+
+Generation
+DAT(x) -> ANA(x) -> WAV [44.1kHz] -> FLAC [Level 8]
+
+Transfer
+
+Nakamichi DR-3 -> Edirol R-09 -> Adobe Audition CS3 -> CDWave v.1.96.1 -> dBpoweramp Music Converter
+
+
+Notes
+o A previously unheard of Mark Goodier session.
+o Taken from a pre-FM DAT.
+o This proves that 'Old Age' and 'Gutless', thought to be from the John Peel Session, are actually from a completely different session.
+
+MD5 Fingerprints
+800e20d332321f64de43df13c85b12e7 *hole.19930327.the_mark_goodier_session-t01.flac
+d778e16a897b65eec1f3985c778e036a *hole.19930327.the_mark_goodier_session-t02.flac
+a9ee71f28e6266dd3f86955223e597f2 *hole.19930327.the_mark_goodier_session-t03.flac
+18659fa1981389f4aaf55bb01d2fb492 *hole.19930327.the_mark_goodier_session-t04.flac

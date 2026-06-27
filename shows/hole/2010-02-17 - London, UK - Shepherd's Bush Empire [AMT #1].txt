@@ -1,0 +1,67 @@
+HOLE
+Shepherds Bush Empire, London, United Kingdom
+February 17, 2010
+
+DISC #1/#1 (72:18)
+---------------------------
+01) intro
+02) Pretty On The Inside
+03) Sympathy For The Devil
+04) Skinny Little Bitch
+05) Miss World
+06) Honey
+07) Violet
+08) Letter To God
+09) Pacific Coast Highway
+10) Reasons To Be Beautiful
+11) Nobody's Daughter
+12) Dirty Girls
+13) Malibu
+14) Celebrity Skin
+15) Samantha
+16) Doll Parts
+17) Northern Star
+18) Never Go Hungry Again
+
+SOURCE (AMT#1)
+---------------------------
+unknown > unknown
+
+GENERATION
+---------------------------
+DV(M) > DVDR(1) [5.8mbps MPEG-2/48kHz PCM] > WAV [48kHz] > WAV [44.1kHz] > FLAC [Level 8]
+
+EXTRACTION
+---------------------------
+DVD Decrypter 3.5.4 > SUPER 2007.bld.23 > CDWave Editor 1.97 > Trader's Little Helper 2.4.1
+
+NOTES
+---------------------------
+- no editing from original file, all banter and ambient noise included
+
+MD5 FINGERPRINTS
+---------------------------
+4b08e7f5faedeac0a9142fd31bcd369b *Hole - 021710 - d01_t01_intro_transcoded.flac
+1ab5e852ea0a151c8de4e7773a27d86c *Hole - 021710 - d01_t02_Pretty_OnThe_Inside_transcoded.flac
+2389bd2f335d05f1d73f25395bc8da17 *Hole - 021710 - d01_t03_Sympathy_ForThe_Devil_transcoded.flac
+f284f23629639f7f0240019a61c430fa *Hole - 021710 - d01_t04_Skinny_Little_Bitch_transcoded.flac
+b50ae3f0cf3922b8a41a60ac35ec2af6 *Hole - 021710 - d01_t05_Miss_World_transcoded.flac
+a7996514a96a98a6ec644487aa743078 *Hole - 021710 - d01_t06_Honey_transcoded.flac
+e5d666d2f8bb2b851a394e4fd765af2f *Hole - 021710 - d01_t07_Violet_transcoded.flac
+349272cde49e808e0c4dd08fc0acf7c8 *Hole - 021710 - d01_t08_Letter_To_God_transcoded.flac
+bcb94329e85b8ade75919270cb974cf7 *Hole - 021710 - d01_t09_Pacific_Coast_Highway_transcoded.flac
+42d5dff205113ec17b0ac2dbd5bdc6ef *Hole - 021710 - d01_t10_Reasons_ToBe_Beautiful_transcoded.flac
+075276c0fa2381b1da34cf6323dee2fc *Hole - 021710 - d01_t11_Nobodys_Daughter_transcoded.flac
+a2311e3bf86678ad176f9c98b15fd2c0 *Hole - 021710 - d01_t12_Dirty_Girls_transcoded.flac
+5971b4890e8b08064f29352cb6ff161b *Hole - 021710 - d01_t13_Malibu_transcoded.flac
+918836ba5b22df05b6ffb098a1a3dbb6 *Hole - 021710 - d01_t14_Celebrity_Skin_transcoded.flac
+267826d08b7743f44e62ffc27f8b0046 *Hole - 021710 - d01_t15_Samantha_transcoded.flac
+b3bc34b613d322947483b2135371e44c *Hole - 021710 - d01_t16_Doll_Parts_transcoded.flac
+1078c2bfb4f4e61f94918055795067cc *Hole - 021710 - d01_t17_Northern_Star_transcoded.flac
+e915e8075a74c61e7be368e2a4397764 *Hole - 021710 - d01_t18_Never_Go_Hungry_Again_transcoded.flac
+
+
+Transferred by Michael Albright. Extracted by Martin Donohoe.
+Please do not encode to lossy formats and/or sell.
+
+http://grrlbandgeek.blogspot.com

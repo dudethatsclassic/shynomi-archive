@@ -1,0 +1,40 @@
+Hole
+2011-11-13
+Parque Brasil 500
+Paulínia,SP
+Brasil
+
+Source PRO#1
+Generation: TV>DVDR(1) > Chapter Edit > DVDR(2)
+Length: 53 mins. & 32 secs.
+Equipament: NET cable TV [Multishow Channel] > AV IN/OUT > LG DVDR Recorder RH397H
+
+01 Pretty on the Inside
+02 Sympathy for the Devil
+03 Skinny Little Bitch
+04 Miss World
+05 Violet / jam
+06 Honey
+07 Reasons to Be Beautiful
+08 Bad Romance (Lady Gaga cover)
+09 Malibu
+10 The Fly (U2 cover)
+11 Celebrity Skin
+12 Plump
+13 Pacific Coast Highway
+14 How Dirty Girls Get Clean / I'll Do Anything
+
+MD5 Checksums:
+61711cff3385ea2644f8ecc78b9184a7 *VIDEO_TS/VIDEO_TS.BUP
+61711cff3385ea2644f8ecc78b9184a7 *VIDEO_TS/VIDEO_TS.IFO
+81ccf8c96f0c74ff16d086a9535dd699 *VIDEO_TS/VIDEO_TS.VOB
+267c6a11c7e421fdaaf6db6f70627307 *VIDEO_TS/VTS_01_0.BUP
+267c6a11c7e421fdaaf6db6f70627307 *VIDEO_TS/VTS_01_0.IFO
+12f8a145e3e6788171f2728da70032e9 *VIDEO_TS/VTS_01_1.VOB
+4b56680a6ec2069f50f3c642a2f06fbf *VIDEO_TS/VTS_01_2.VOB
+6b218da8fcf3fbd0b78aac5de6d91f42 *VIDEO_TS/VTS_01_3.VOB
+3ac55e7a73707f0e42b0b98f81976aa5 *VIDEO_TS/VTS_01_4.VOB
+3723d5b1886485da9f99e4728d5d7815 *Hole 2011-11-13 SWU Setlist.jpg
+
+Note: Broadcasted 2011-11-19 by Multishow Channel.All broadcasts from this have some sound problems it is not from my equipament or my DVDR media, i checked all.
+Recorded and Reauthored by: Artur Cunha Alves.

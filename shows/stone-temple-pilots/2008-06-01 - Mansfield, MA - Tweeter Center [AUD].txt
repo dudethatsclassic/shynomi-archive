@@ -1,0 +1,44 @@
+Stone Temple Pilots
+Sunday, June 1st, 2008
+The Tweeter Center
+Mansfield, MA USA
+
+Source: 
+AUD > CSB (bass filter on) > MZ-RH1 (Hi-SP, Line In)
+Auto Gain Control
+
+Transfer/Lineage/Conversion:
+ATRAC3plus data > USB > PC > WAV > FLAC (level 8)
+
+Editing:
+Audacity 1.2.6 (Normalize, Fade In, Fade Out)
+Winamp 5.531 (EQ, hard limiting w/ Enhancer 0.17 plug-in)
+CD Wave 1.97 (track splits)
+EasyTAG 2.1 (files tagged)
+
+Setlist/Tracklist:
+01. (band takes the stage)
+02. Big Empty
+03. Wicked Garden
+04. Big Bang Baby
+05. Vasoline
+06. Lady Picture Show
+07. Lounge Fly
+08. Crackerman
+09. Sour Girl
+10. Creep
+11. Plush
+12. Interstate Love Song
+13. (the STP jam)
+14. Coma
+15. Sex Type Thing
+16. Trippin' on a Hole in a Paper Heart
+-ENCORE-
+17. Dead & Bloated
+
+Total Playing Time (when burned to CD):
+1h:20m:57s
+
+PLEASE DO NOT BUY OR SELL THIS RECORDING
+PLEASE DO NOT SHARE AS MP3 OR OTHER LOSSY FILES
+PLEASE DISTRIBUTE THIS RECORDING WITH THIS TEXT FILE

@@ -1,0 +1,26 @@
+Hum
+11/13/1997
+Little Brothers
+Columbus, OH
+
+Taper:            unknown
+Source:           PC-62 > WM-D3
+Conversion:       ANA-M > TCD-D8 > CDR
+Ripper:           Andrew Fogelsong
+FLAC:             CDR-? > EAC V0.95 beta 4(proper offset) > WAV > FLAC (level 8)
+Notes:		  
+
+********************************************************************************
+	                    SPREAD THE MUSIC
+********************************************************************************
+
+1. Afternoon With the Axolotls
+2. The Inuit Promise
+3. Double Dip
+4. I'd Like Your Hair Long
+5. Why I Like The Robins
+6. Dreamboat
+7. Stars
+8. Comin' Home
+9. Iron Clad Lou
+10. I Hate It Too

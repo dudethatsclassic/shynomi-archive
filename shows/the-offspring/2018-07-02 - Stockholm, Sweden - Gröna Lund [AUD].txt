@@ -1,0 +1,44 @@
+The Offspring 
+Gröna Lund, Stockholm, Sweden
+2018-07-02 (July 2, 2018)
+
+Taper: LosslessJoel
+Mastering and File Split: TheMetalist
+
+Lineage:
+CA-14 Omni -> Battery Box -> Zoom H1n -> WAV 24 bit/96 kHz -> USB -> PC -> iZotope RX/Adobe Audition/Audacity (Edits and EQ) -> dBpoweramp Music Converter -> 
+WAV 16 bit/44,1 kHz -> Trader's Little Helper (Fixing SBE's) -> CD Wave Editor (Cue sheet) -> dBpoweramp Music Converter -> FLAC (Level 8)
+
+Setlist:
+01. Intro
+02. Americana
+03. All I Want
+04. Come Out and Play
+05. It Won't Get Better
+06. Original Prankster
+07. Genocide
+08. Staring at the Sun
+09. Want You Bad
+10. Whole Lotta Rosie (AC/DC cover)
+11. Bad Habit
+12. Hit That
+13. Gone Away (Piano version)
+14. Why Don't You Get a Job?
+15. (Can't Get My) Head Around You
+16. Pretty Fly (For a White Guy)
+17. The Kids Aren't Alright
+18. You're Gonna Go Far, Kid
+19. Self Esteem
+20. Outro: Always Look on the Bright Side of Life (Monty Python)
+
+I don't know much about recording concerts, at the moment I'm just testing around and trying to get as good sound as possible. 
+I stood on the right side by the restaurant, sadly I didn't see any of the show, but I'm quite pleased with the recording.
+
+Thanks to TheMetalist for making the mastering and thanks to jontebus for letting me buy his CA-14 Omni and CA-14 Cardioid microphones.
+Also thanks to everyone who helped me answer questions and providing other information, especially petergoode, TheMetalist, thomasdk7 and Trekytt.
+
+Do not sell this recording, share it for free. 
+Support the artist by buying their albums and DVDs. 
+
+Published on 2018-07-22, 
+LosslessJoel

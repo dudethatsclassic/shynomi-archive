@@ -1,0 +1,53 @@
+Hole
+Riverside Theater, Milwaukee, Wisconsin, USA
+May 28th, 1999
+--------------------------------------------
+
+Setlist
+
+o Old Age (Intro)
+o Violet
+o Awful
+o Nobody Here (jam)
+o Pretty on the Inside
+o Heaven Tonight
+o Miss World
+o Reasons to Be Beautiful
+o Malibu
+o Holiday
+o Dying
+o Playing Your Song (missing)
+o Free Bird
+o Doll Parts
+o Boys on the Radio
+o Come on Feel the Noize
+o Celebrity Skin
+
+Source (AUD#1)
+unknown -> unknown
+
+Generation
+ANA(x) -> CD-R(2) -> WAV [44.1kHZ] -> FLAC [Level 8]
+
+Notes
+o Old Age (Intro) and Violet are on the same track.
+o 'Playing Your Song' will not rip from my CD-R as it's defunct.
+
+MD5 Fingerprints
+6a0a47abfc110112f6c646050ec50b4e *01 Old Age (Intro) - Violet.flac
+0a790c5366c3a68fd68addc1eb08e5d8 *02 Awful.flac
+90c5cc9b7a391e6373a1aeba12dc7ea9 *03 Nobody Here (jam).flac
+f23040703994dfb30eda4ea1feb6e874 *04 Pretty on the Inside.flac
+5d292615962d95a760cb658790bce9b0 *05 Heaven Tonight.flac
+ffdbbbc1e4e3419a13ed3daf5a41ef5f *06 Miss World.flac
+e1ad433c9a774bfe31e358e81234b5d8 *07 Reasons to Be Beautiful.flac
+fb599f4f42e0331331c75cef95716b2a *08 Malibu.flac
+c5e1fb1c14338e3353af65f8b6636db4 *09 Holiday.flac
+e91adb05324fd6e915b8939717a926b8 *10 Dying.flac
+9a4b09828bdc3a8759755490b07c4c3d *12 Free Bird.flac
+1f5a6f9ba0a68d2a41be57a7fab2fcfd *13 Doll Parts.flac
+049dda5f2bd367b88cd8635bbf518710 *14 Boys on the Radio.flac
+87783d21c9caeae2133cef616e93270e *15 Come on Feel the Noize.flac
+9cb4066625956b91c347c6effe302ba0 *16 Celebrity Skin.flac
+
+Please do not sell or encode to lossy formats.

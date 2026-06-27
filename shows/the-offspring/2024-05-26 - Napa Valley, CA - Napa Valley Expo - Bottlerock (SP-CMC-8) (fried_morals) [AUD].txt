@@ -1,0 +1,84 @@
+The Offspring
+2024-05-26
+BottleRock Festival
+Verizon Stage
+Napa, CA
+
+SOURCE: 
+SP-CMC-8 (w/Mods) > Sony PCM-A10 > Sandisk Mini-SD Card (32gb - Class 10)
+
+TRANSFER: 
+.WAV (24 Bit) > Adobe Audition 2024 CC (normalize/amplify/tracking) > Trader's Little Helper > FLAC (Level 6)
+
+SETLIST:
+
+01. Intro
+02. Come Out and Play
+03. All I Want
+04. Want You Bad
+05. (talking)
+06. Staring at the Sun
+07. (talking)
+08. In the Hall of the Mountain King (Edvard Grieg cover)
+09. Blitzkrieg Pop (Ramones cover)
+10. Bad Habit
+11. (talking)
+12. Million Miles Away *
+13. Gotta Get Away
+14. Why Don't You Get A Job?
+15. Can't Get My Head Around You
+16. (talking)
+17. Pretty Fly (For A White Guy)
+18. The Kids Aren't Alright
+
+=== ENCORE ===
+
+19. (encore break)
+20. You're Gonna Go Far, Kid
+21. (talking)
+22. Self Esteem
+
+* featuring Ed Sheeran
+ 
+NOTES:
+
+BottleRock 2024 was full of firsts, and one of those was finally seeing the Offspring live, another band who I grew up with and listened to a ton back in the 90's. I can remember rocking Smash and Ixnay on the Hombre in middle school and Americana in high school (like everyone else), and watching them live on TV at Woodstock '99 and such. Good times.
+
+Anyway, skip ahead 25 years and here we are finally, back in my hometown and Dexter and Noodles are still doing their thing (we'll just skip over the drama with other band members...). They drew a huge crowd (as expected) at the Verizon stage, which was one reason I got to my spot super early, because I know what a pain it is to traverse a huge crowd at this stage (almost impossible) and I didn't feel like dealing with that headache.
+
+This set was a pain to record because the crowd was super dense and super loud (lots of yelling/singing along), lots of people moving in and out of the crowd trying to find better spots, it was windy off and on, and the sound was super loud (had to dial back the recorder's levels to a 2!). It all made for a wild 75 minute ride, and I tried my best to capture it. It ain't the best recording (a little noisy here and there) but that's what it was like in person as well, so you just imagine you're there in this dense crowd along with everyone else. At one point this chick walked over to me (I was at the corner of the railings by the soundboard, so there was no getting out) and she realizes she's stuck, but instead of just turning around and leaving, she tried to set up shop right in front of me to "wait" for her friend, who she started texting, telling them she was at. I could see the texts from my vantage point and it was clear she was trying to meet up with some dude but she was growing impatient and texted back "Fuck this" and was ready to leave until he texted back "No, I really want to meet you!" so of course she stayed, juggling 3 wine glasses and practically stepping on my toes. She then looks over at me and I guess she could tell I was a bit annoyed with her shit all up in my face, and asks "are you happy?". I just shook my head yeah and shrugged it off. After the set, as she was still here and hadn't moved, I asked if she was happy and mentioned that her friend likely wasn't going to find her. I think she took that as if I was hitting on her (which I wasn't) and said she's just waiting for her husband to show up (yeah right). A few seconds later she buggered off. Anyway, you can hear her briefly during "The Kids Aren't Alright".
+
+As for the band, they did sound good, but man I wish they would stop with some of the cheesy/corny/cringy banter between songs. My roommate (who's seen them a few times recently) warned me about their banter, and while I get that it's sort of their schtick, it's still pretty annoying and lame. They easily could have played 2-3 more songs instead, which I would have preferred. They did invite out Sunday night headliner Ed Sheeran for a song ("Million Miles Away"), which was pretty cool and unexpected. I don't know anything about Ed or his music, and don't really care, but he at least seems pretty humble and down to earth with some good music tastes, so cheers to that.
+
+CHECKSUMS: 
+
+6e09d25f033a5f26f697cea51c4f99a2 *the-offspring-2024-05-26-bottlerock-napa-ca-aud-24bit-t01-intro.flac
+7f79b9a23bd3467b41828a0db0f7db4e *the-offspring-2024-05-26-bottlerock-napa-ca-aud-24bit-t02-come-out-and-play.flac
+f2b83b8213317e59244c523b7300b7f6 *the-offspring-2024-05-26-bottlerock-napa-ca-aud-24bit-t03-all-i-want.flac
+1745f9e37e8bc8c15bfbd198ec7ea746 *the-offspring-2024-05-26-bottlerock-napa-ca-aud-24bit-t04-want-you-bad.flac
+94700e326b8719de8f5f1e024dd4ce35 *the-offspring-2024-05-26-bottlerock-napa-ca-aud-24bit-t05-talking.flac
+c2f4a91522071d27ab3ffc7eade6b83e *the-offspring-2024-05-26-bottlerock-napa-ca-aud-24bit-t06-staring-at-the-sun.flac
+ee53a3f3e1125792c828a97d592632af *the-offspring-2024-05-26-bottlerock-napa-ca-aud-24bit-t07-talking.flac
+5686fc9d8d1c5a659f3b7b59780e1e96 *the-offspring-2024-05-26-bottlerock-napa-ca-aud-24bit-t08-mountain-king.flac
+ab9fba4262294e01770972ddb9604afa *the-offspring-2024-05-26-bottlerock-napa-ca-aud-24bit-t09-blitzkrieg-pop.flac
+57d7d3d46e0795acc9d57a07b9b5d20e *the-offspring-2024-05-26-bottlerock-napa-ca-aud-24bit-t10-bad-habit.flac
+8296a0b3360332b4a66c60df4a35c9be *the-offspring-2024-05-26-bottlerock-napa-ca-aud-24bit-t11-talking.flac
+71eedb467b1c5a00dfa55858ac36c161 *the-offspring-2024-05-26-bottlerock-napa-ca-aud-24bit-t12-million-miles-away.flac
+47439e15966c28f2fbc74e20fdc05d4f *the-offspring-2024-05-26-bottlerock-napa-ca-aud-24bit-t13-gotta-get-away.flac
+abda7f2a8aa1536592f04e7a3db448db *the-offspring-2024-05-26-bottlerock-napa-ca-aud-24bit-t14-get-a-job.flac
+e0dabe785cdb3992c114746a7fe3f53c *the-offspring-2024-05-26-bottlerock-napa-ca-aud-24bit-t15-cant-get-my-head.flac
+4c872a2dd0ed9893cc461b6f5cea9827 *the-offspring-2024-05-26-bottlerock-napa-ca-aud-24bit-t16-talking.flac
+66993b9f492b2140dc31381a6e6884be *the-offspring-2024-05-26-bottlerock-napa-ca-aud-24bit-t17-pretty-fly.flac
+c09de1f77d7f7d57fddf7d168363ed32 *the-offspring-2024-05-26-bottlerock-napa-ca-aud-24bit-t18-the-kids-arent-alright.flac
+d6bf9bdd714b8e1fde6f147b45fcc609 *the-offspring-2024-05-26-bottlerock-napa-ca-aud-24bit-t19-encore-break.flac
+1ae0dfade0b9002e3199c3bfab7278c7 *the-offspring-2024-05-26-bottlerock-napa-ca-aud-24bit-t20-youre-gonna-go-far.flac
+487f9c68dbe202c67a874cbc8421bc73 *the-offspring-2024-05-26-bottlerock-napa-ca-aud-24bit-t21-talking.flac
+63a263b2f28785c4bdd555237487af2e *the-offspring-2024-05-26-bottlerock-napa-ca-aud-24bit-t22-self-esteem.flac
+
+Check out my site: 
+
+https://www.themojavetent.com 
+https://www.facebook.com/coachellarecordings 
+https://www.twitter.com/livecoachella
+
+***DO WHATEVER YOU WANT WITH THIS RECORDING EXCEPT SELL IT, OR ELSE THE KARMA POLICE WILL GET YOU***

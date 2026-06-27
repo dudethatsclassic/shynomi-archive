@@ -1,0 +1,55 @@
+The Offspring
+Friday July 7th, 2017
+Abbotsford Centre
+33800 King Road
+Abbotsford, British Columbia, Canada
+
+Taper:  LeifH [2017#32] RM
+Source:  CA-11 > Bat2B > M10 
+Transfer:  PC via USB > RX9 > Wavepad > flac (8) via TLH
+
+Setlist:  59:51
+01 intro
+02 You're Gonna Go Far, Kid
+03 Nitro (Youth Energy) 
+04 All I Want
+05 Come Out And Play
+06 I Choose
+07 Staring At The Sun
+08 Want You Bad
+09 Gone Away
+10 Bad Habit
+11 Gotta Get Away
+12 Why Don't You Get A Job?
+13 Americana
+14 (Can't Get My) Head Around You
+15 Pretty Fly (For A White Guy)
+16 The Kids Aren't Alright
+17 Self Esteem
+
+Dexter Holland – lead vocals, rhythm and lead guitar
+Noodles – lead guitar, backing vocals 
+Greg K. – bass guitar, backing vocals
+Pete Parada – drums
+Todd Morse – rhythm guitar 
+
+Opening bands were Mad Caddies and Sublime With Rome (not recorded).  I was in back of the building, slightly left of the centre line.  I got the whole show on video also.  
+
+fingerprints:
+TheOffspring2017-07-07t01 - intro.flac:b37cb9020813fc4c2de4788ac4190cba
+TheOffspring2017-07-07t02 - Youre Gonna Go Far Kid.flac:d25268b005fd69d1b30d8294506a91f4
+TheOffspring2017-07-07t03 - Nitro.flac:2dc8c7f0eec501341de098e88ed765d2
+TheOffspring2017-07-07t04 - All I Want.flac:392fd40942da24c65b280199733f1782
+TheOffspring2017-07-07t05 - Come Out and Play.flac:aa4dd6a23e6c62e0bad59eaade2f7290
+TheOffspring2017-07-07t06 - I Choose.flac:fba531f1021f0dd3eb8f6291f362a543
+TheOffspring2017-07-07t07 - Staring at the Sun.flac:54d25133fd582e3dc20b4506cbcc0942
+TheOffspring2017-07-07t08 - Want You Bad.flac:839b863090569e368704cb06f10568e4
+TheOffspring2017-07-07t09 - Gone Away.flac:c0bc84e57843a35bdcd59e156f38dd32
+TheOffspring2017-07-07t10 - Bad Habit.flac:9f30318b69390562abb4296a4339155b
+TheOffspring2017-07-07t11 - Gotta Get Away.flac:8a48233593ee978975bd03b7625a26f4
+TheOffspring2017-07-07t12 - Why Dont You Get a Job.flac:1af35e14192380da7921ab384f89d500
+TheOffspring2017-07-07t13 - Americana.flac:5ce4bb5779ae9303686bc7f0542742ed
+TheOffspring2017-07-07t14 - Head Around You.flac:f4fa080ab363adaba7749a9f0f0242da
+TheOffspring2017-07-07t15 - Pretty Fly.flac:8444a544f72434256c1c49ffa75352e7
+TheOffspring2017-07-07t16 - Kids Arent Alright.flac:ca6d8a8a3c65ec7e503f8ac79292b1e3
+TheOffspring2017-07-07t17 - Self Esteem.flac:b884581cc12bcebe7080695571eb827d

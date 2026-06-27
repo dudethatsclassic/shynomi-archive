@@ -1,0 +1,36 @@
+the Offspring
+Bryan "Dexter" Holland: vocals and guitar
+Noodles: lead and rhythm guitar, backing vocals
+Greg K: bass
+Ron Welty: drums
+
+"River Rave"
+Great Woods Performing Arts Center
+Mansfield, Mass. USA
+May 31, 1998
+FM broadcast
+
+runtime: 36:25 (minutes/ seconds)
+    setlist:
+1: gone away 4:21
+2: genocide 3:27
+3: the meaning of life 3:05
+4; talk 2:42
+5: come out and play 3:23
+6: I choose 4:16
+7: smash 2:46
+8: all I want 2:53
+9: gotta get away 3:47
+10: self esteem 5:10 
+11: radio outro :14
+
+lineage:
+WBCN Boston 104.1 FM broadcast >
+Yamaha RX-500U receiever > 
+Naka. BX-125 cassette recorder (dolby off)
+Maxell XLII-S 100 minute cassette >
+tascam 112 > soundforge (16 bit/ 44.1 khz wav) >
+flac 8 (sb's aligned)
+a this and that production.
+do not sell this recording.
+share freely, losslessly and gaplessly.

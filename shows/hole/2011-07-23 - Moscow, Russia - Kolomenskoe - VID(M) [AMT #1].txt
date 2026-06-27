@@ -1,0 +1,43 @@
+Hole
+07-23-2011
+Live At Kolomenskoe, Picnic Afishi, Moscow, Russia 
+
+AMT#1 (EXELLENT!!!!) 
+
+Video: A
+Audio: A
+
+SOURCE: VID(M) {PAL} > DVDR (1) > HDD > your copy will be DVDR (2)
+
+Running Time: 50 minutes
+
+Setlist:
+
+01 Pretty On The Inside - Sympathy For The Devil
+02 Skinny Little Bitch
+03 Miss World
+04 Violet
+05 Celebrity Skin
+06 Honey
+07 Reasons To Be Beautiful
+08 Amen
+09 Malibu
+10 Pacific Coast Highway
+11 Doll Parts
+12 Plump
+
+
+MD5 Checksums:
+--------------
+2d0ba011b9dfaa7731034e9df2c3a6ad *VIDEO_TS\VIDEO_TS.BUP
+2d0ba011b9dfaa7731034e9df2c3a6ad *VIDEO_TS\VIDEO_TS.IFO
+e2ec3aacf713b46cfa90244e59918f48 *VIDEO_TS\VIDEO_TS.VOB
+5e12bae7be475351b029c8072a437a36 *VIDEO_TS\VTS_01_0.BUP
+5e12bae7be475351b029c8072a437a36 *VIDEO_TS\VTS_01_0.IFO
+032b784f7d63fecd735d5388d574f11d *VIDEO_TS\VTS_01_0.VOB
+4f7512f36e0f5d35c11c692cf83a17ae *VIDEO_TS\VTS_01_1.VOB
+e8f00222a6a16fbd04a229954f5addc7 *VIDEO_TS\VTS_01_2.VOB
+f0b62010dc767003fab6674294d76a2c *VIDEO_TS\VTS_01_3.VOB
+26690de9a3ec190e76aee84092813e23 *VIDEO_TS\VTS_01_4.VOB
+
+Upload By Horst

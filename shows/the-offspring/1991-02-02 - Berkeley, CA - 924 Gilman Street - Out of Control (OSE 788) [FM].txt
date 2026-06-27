@@ -1,0 +1,42 @@
+The Offspring - 1991-02-02 - 924 Gilman Street, Berkeley, CA, USA 
+Out of Control [Radio Broadcast 1991] bootleg CD - FLAC
+
+I couldn't find back the exact date as the bootleg CD only states "Radio Broadcast 1991" and according to setlist.fm
+there are multiple gigs at 924 Gilman Street, but 1991-02-02 seems to be the most likely one:
+
+1991-02-02 (this one has the same setlist)
+1991-02-03
+1991-06-14
+
+lineage:
+MPEG source->Bootleg CD-> dB Poweramp FLAC level 8
+
+Setlist:
+01 - Elders
+02 - Take It Like a Man
+03 - Get It Right
+04 - Beheaded (cuts)
+05 - Kill the President
+06 - Jennifer Lost the War
+07 - Out on Patrol
+08 - Baghdad
+09 - Forever and a Day
+10 - I Got a Right (cuts)
+
+FLAC info:
+
+Tested with Traders little helper and tracks seems to be MPEG sourced (95% problability). Looks like the bootleg producers used MP3 as a source.
+I also have the "original" MP3 files and in those files beheaded is not cut. See https://youtu.be/K0KJQkjCUSc
+
+    length     expanded size    cdr  WAVE problems  fmt   ratio  filename
+     3:05.47       32744588 B   ---   --   ---xx   flac  0.5184  01 Offspring, The - Elders.flac
+     3:10.12       33544268 B   ---   --   ---xx   flac  0.5163  02 Offspring, The - Take It Like a Man.flac
+     3:15.02       34402748 B   ---   --   ---xx   flac  0.5549  03 Offspring, The - Get It Right.flac
+     2:48.28       29701100 B   ---   --   ---xx   flac  0.5120  04 Offspring, The - Beheaded.flac
+     3:37.31       38351756 B   ---   --   ---xx   flac  0.5277  05 Offspring, The - Kill the President.flac
+     2:32.18       26855180 B   ---   --   ---xx   flac  0.5546  06 Offspring, The - Jennifer Lost the War.flac
+     2:50.43       30089180 B   ---   --   ---xx   flac  0.5600  07 Offspring, The - Out on Patrol.flac
+     3:33.72       37742588 B   ---   --   ---xx   flac  0.5251  08 Offspring, The - Tehran.flac
+     2:29.55       26413004 B   ---   --   ---xx   flac  0.5736  09 Offspring, The - Forever and a Day.flac
+     2:56.07       31062908 B   ---   --   ---xx   flac  0.5262  10 Offspring, The - I Got a Right.flac
+    30:19.15      320907320 B                            0.5356  (10 files)

@@ -1,0 +1,20 @@
+Hole
+NBC Studios, New York City, New York, USA (Saturday Night Live)
+December 17th, 1994
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+
+Setlist
+o Violet
+o Doll Parts
+o He Hit Me (jam)
+
+Source (PRO#1)
+soundboard -> unknown
+
+Generation
+TV -> VHS(x) -> DVD-R(1) -> WAV [48kHz] -> WAV[44.1kHz] -> FLAC [Level 8] [i]-> MP3 [320kbps][/i]
+
+MD5 Fingerprints
+2aa766d15348bc5fa485f80118a4ffe8 *01 Doll Parts.flac
+c2cd30958c3c23ad96633fa0f16e71de *02 Violet.flac
+24b4b73bbb97c1a6662a301b0d57e5da *03 He Hit Me (jam).flac

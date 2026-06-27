@@ -1,0 +1,26 @@
+The Offspring 1997-06-14 KROQ Weenie Roast (DVD)
+Irvine Meadows Amphitheatre, Irvine, CA, USA
+
+MTV pro shot
+
+Lineage unknown
+
+
+01 Bad Habit (cuts)
+02 Gone Away
+03 Come Out And Play
+04 Smash It Up
+05 Gotta Get Away
+06 The Meaning Of Life
+07 All I Want
+08 Self Esteem
+
+Video-resolution: 720x480 29.97 fps
+Audio Samplerate: 48000 Hz 32bit
+
+e35a7807ececea1264521f1e275c1204 *The Offspring 1997-06-14 KROQ Weenie Roast (DVD).txt
+5d5cb1c0b15e406d1529f1ee62c6a376 *VIDEO_TS\VIDEO_TS.BUP
+5d5cb1c0b15e406d1529f1ee62c6a376 *VIDEO_TS\VIDEO_TS.IFO
+06b00e54a65acadd3b83cfadc10d162a *VIDEO_TS\VTS_01_0.BUP
+06b00e54a65acadd3b83cfadc10d162a *VIDEO_TS\VTS_01_0.IFO
+db8e408caed3f8ff4056f514b642fdcf *VIDEO_TS\VTS_01_1.VOB

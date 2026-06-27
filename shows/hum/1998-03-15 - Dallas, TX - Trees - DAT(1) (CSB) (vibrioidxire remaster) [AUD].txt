@@ -1,0 +1,62 @@
+HUM
+March 15, 1998
+Trees
+Dallas, Texas, US
+
+SETLIST:
+-------------------
+00. intro
+01. Little Dipper
+02. Comin' Home
+03. Ms. Lazarus
+04. The Scientists
+05. The Pod
+06. Afternoon With the Axolotls
+07. Iron Clad Lou
+08. Apollo
+09. Stars
+10. I Hate It Too
+11. Green to Me
+12. I'd Like Your Hair Long
+
+
+SOURCES:
+-------------------
+AUD #1 - Quality: 9.0
+Coe Sound Binaurals > Sony TCD-D7
+
+TRANSFER:
+-------------------
+Core Sound Binaurals [mods] > Sony TCD-D7 > Power Supply > TASCAM DA-20mkII > Marantz PMD670 > WAV [44.1kHz/16-bit] Adobe Audition > CD Wave > FLAC > Adobe Audition 22.3 [tracking, remastering] > xACT 2.50 > FLAC [Level 8]
+
+GENERATION:
+-------------------
+DAT(1) > WAV [44.1kHz/16-bit] > FLAC [Level 8]
+
+REMASTERING NOTES:
+-------------------
+- The fade-in and outs were slightly reversed to make the audio more complete.
+- The audio was given a "respectful" remaster by slightly enhancing the mid-range and balancing out the high-end to create a realistic response for the cymbals and crowd. The bass was also tinkered a little bit to remove muddiness.
+- The entire audio was given slight compression to give a bring out more of the crowd and song ending drones.
+- The original source comes from the collection of Arnold Neal, while being transferred by Andrew Fogelsong in March 2021.
+
+
+MD5 FINGERPRINTS:
+-------------------
+hum1998-03-15-aud1-kb-t00.flac:0698c0e888b6a5db8d931c1f8d138e7f
+hum1998-03-15-aud1-kb-t01.flac:7c702a831e0c9dff66472232930dd3db
+hum1998-03-15-aud1-kb-t02.flac:0749a8207fef6500e9614314469a2b39
+hum1998-03-15-aud1-kb-t03.flac:bb1f3b7a6726bb955932266573d67366
+hum1998-03-15-aud1-kb-t04.flac:559d8ffd71b158ad3b244d3c815a9b11
+hum1998-03-15-aud1-kb-t05.flac:14df9e601199f17dacb5c4e904ff45cf
+hum1998-03-15-aud1-kb-t06.flac:2ee144d38d03340dd13316c007ea3543
+hum1998-03-15-aud1-kb-t07.flac:bcc685eda6bf43ef1172240507f31417
+hum1998-03-15-aud1-kb-t08.flac:0fc353a2cfeaf05da1c8ea186f1f6500
+hum1998-03-15-aud1-kb-t09.flac:54bce85bc5dfbaf0aa2033a2a127eddd
+hum1998-03-15-aud1-kb-t10.flac:14a2db15b788bd7956c06a0e8477c125
+hum1998-03-15-aud1-kb-t11.flac:c41f02143107b36922b24fe184654ca5
+hum1998-03-15-aud1-kb-t12.flac:0c6439c629a8ec2b5c08951f0a54306a
+
+
+Transferred and encoded by: vacantrush & vibrioidxire
+PLEASE DO NOT DISTRIBUTE IN LOSSY FORMATS OR SELL!

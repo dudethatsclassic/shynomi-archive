@@ -1,0 +1,44 @@
+Hole
+2011-11-13
+Parque Brasil 500
+Paulínia
+Brasil
+
+Source PRO#1
+Generation: TV>DVDR(1) > Chapter Edit > DVDR(2) > DVD Audio Extractor 7.1.1 >.FLAC
+Equipament: NET cable TV [Multishow Channel] > AV IN/OUT > LG DVDR Recorder RH397H
+
+01 Pretty on the Inside
+02 Sympathy for the Devil
+03 Skinny Little Bitch
+04 Miss World
+05 Violet / jam
+06 Honey
+07 Reasons to Be Beautiful
+08 Bad Romance (Lady Gaga cover)
+09 Malibu
+10 The Fly (U2 cover)
+11 Celebrity Skin
+12 Plump
+13 Pacific Coast Highway
+14 How Dirty Girls Get Clean / I'll Do Anything
+
+MD5 checksums:
+b351b67b0fe932d82c691e2d4d8b8f00 *01 Pretty on the Inside.flac
+71db79c584024ec8418a26c1cf6fafe7 *02 Sympathy for the Devil.flac
+28be3e8b537bf911f7f4ca5d09bfb093 *03 Skinny Little Bitch.flac
+855f6334f34d339b54e0d98a57930fda *04 Miss World.flac
+9269e0c94b66462ef802a4f1242c5d45 *05 Violet - jam.flac
+ec5b48c4a14605d0ef5ea56d477de04a *06 Honey.flac
+db9d0ceac04408804d28223f3255391e *07 Reasons to Be Beautiful.flac
+dce589851684cab59c23431ccb4709ed *08 Bad Romance.flac
+788bb8389ce11f8a1ca2b5238fc12d98 *09 Malibu.flac
+6cd8f73dc97e1d79d87abca1bd813a9b *10 The Fly.flac
+61477308ef3f77505febfb9a279190f4 *11 Celebrity Skin.flac
+ca74c19c864bd7ff06e31310f55b8fba *12 Plump.flac
+026751971a87110d037e298c16525b79 *13 Pacific Coast Highway.flac
+b7c6beb26241307dc74d6e2c111a1a45 *14 How Dirty Girls Get Clean - I'll Do Anything.flac
+
+
+Recorded and Reauthored by: Artur Cunha Alves.
+Note: All broadcasts from this have some sound problems it is not from my equipament or my DVDR media, i checked all.

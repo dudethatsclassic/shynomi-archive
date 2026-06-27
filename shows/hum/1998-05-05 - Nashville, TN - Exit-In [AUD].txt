@@ -1,0 +1,28 @@
+Hum
+5/5/1998
+Exit/In
+Nashville, TN
+
+Taper:            Kindtaper
+Source:           AKG 414TL-2 > Oade > SBM-1 > D8
+Conversion:       DDC-1(48k) > CDR-0(my transfer)
+Ripper:           Andrew Fogelsong
+FLAC:             CDR-0 > EAC V0.95 beta 4(proper offset) > WAV > FLAC (level 8)
+Notes:		  
+
+********************************************************************************
+	                    SPREAD THE MUSIC
+********************************************************************************
+
+1. The Scientists
+2. The Pod
+3. Green to Me
+4. Comin' Home
+5. Suicide Machine
+6. Isle of the Cheetah
+7. If You Are to Bloom
+8. Apollo
+9. I'd Like Your Hair Long
+10. Stars
+11. I Hate It Too
+12. Iron Clad Lou

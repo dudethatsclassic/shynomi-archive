@@ -1,0 +1,79 @@
+Hole 
+Commodore Ballroom
+Vancouver, BC
+November 15, 1994
+
+** 16 BIT **
+
+Source:  Sony FM/AM Stereo Cassette-Corder WM-F46 with supplied mic > Master cassette (Maxell XLII)
+Transfer:  Master cassette > Nakamichi LX-5 (azimuth adjusted) > Focusrite Scarlett 4I4 3rd Generation USB Audio Interface > 
+Sound Forge Pro 11.0 (Build 299) (Dell PRECISION M6800 laptop) > .WAV
+Mastering:  .WAV > Sound Forge Pro 11.0 Build 299 (splicing; iZotope Mastering Suite (declick); minor edits, normalize, & 
+fades) > iZotope RX6 Advanced v6.00.1210 (Spectral De-noise) > Trader's Little Helper (level 5) > FLAC 
+Taped by:   "crowflies"
+Transferred & mastered by:  Dennis Orr
+Tracked & FLAC'd by:  Rob Gronotte
+
+Setlist: (1:24:50)
+01 Intro
+02 Plump
+03 Sugar Coma
+04 Beautiful Son
+05 Miss World
+06 Jennifer's Body > Bible Belt
+07 Asking For It
+08 Gutless
+09 Softer, Softest
+10 I Think That I Would Die
+11 Pretty On The Inside
+12 Best Sunday Dress
+13 Credit In The Straight World
+14 Hungry Like The Wolf
+15 Teenage Whore
+16 Do It Clean
+17 Doll Parts
+18 Whose Porno You Burn (Black)
+19 Violet
+20 Sugar Coma
+21 Encore Break
+- Encore -
+22 I'm So High...Goodbye To You
+23 She Walks On Me
+24 Drunk In Rio (aka Closing Time)
+25 Cars
+26 Olympia (aka Rock Star)
+
+Courtney Love - lead vocals & rhythm guitar
+Eric Erlandson - lead guitar
+Melissa Auf der Maur - bass & backing vocals
+Patty Schemel - drums
+
+Mastering Notes:
+Tape flip during the applause after "Credit In The Straight World" - seamlessly spliced, no music lost
+
+Hole1994-11-15t01.flac:e472fd495bbfa373f0044acfb6ad9069
+Hole1994-11-15t02.flac:2c2bbdd29a0c16f1a6dc107129036a45
+Hole1994-11-15t03.flac:87f644af4e5d0e64c1a9e4ccca8fa20b
+Hole1994-11-15t04.flac:800ce812703566df152abde28f845b9d
+Hole1994-11-15t05.flac:9c91aab2996a6fce5feedbca0d30fe18
+Hole1994-11-15t06.flac:9af8feb4fc8d90b1b1539e952dc4a593
+Hole1994-11-15t07.flac:41f3ce86b61ed4753232301d160e995e
+Hole1994-11-15t08.flac:93c6a8ff527bd8e3bd5c0de409dea3f1
+Hole1994-11-15t09.flac:523a98076e3b030485653cd5dc4351f4
+Hole1994-11-15t10.flac:d7170cdcf640c4ebc20bd1e5503e0233
+Hole1994-11-15t11.flac:a20d5b7b43cc76237b1ff3c31c13df96
+Hole1994-11-15t12.flac:5fd497c610841987adcb28b3a6d2146d
+Hole1994-11-15t13.flac:31029612c58c1b76a6cc51f12aa31fe1
+Hole1994-11-15t14.flac:fed79067c81350c127f7f4dad9513250
+Hole1994-11-15t15.flac:b6c97ebd912fa4dfdef20bcc6e2db76f
+Hole1994-11-15t16.flac:a14b750a2f7d1ba436cf49907c361795
+Hole1994-11-15t17.flac:8fd8a1641628b2e0c482d19a0012e588
+Hole1994-11-15t18.flac:3aa31d63f6bb357113d06a86af00147f
+Hole1994-11-15t19.flac:296a23597b2c55ef3ea5b8ca10c246b1
+Hole1994-11-15t20.flac:06c9f9054b9f0f6029e04a2af7e32e06
+Hole1994-11-15t21.flac:44f398abf5227c907d11634c61b1ea93
+Hole1994-11-15t22.flac:513c4d19830a6641beacd22fbec232a3
+Hole1994-11-15t23.flac:8573e18fd5a1a38b02ade6bda8764f42
+Hole1994-11-15t24.flac:0944e86792635e13b53533b8b417d1d0
+Hole1994-11-15t25.flac:0fcb5568bf4757cb496bd923a7129e34
+Hole1994-11-15t26.flac:dedb0e1d7ae35c9118d098957afd74f1

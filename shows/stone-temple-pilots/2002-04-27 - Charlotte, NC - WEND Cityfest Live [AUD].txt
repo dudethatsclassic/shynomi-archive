@@ -1,0 +1,42 @@
+Stone Temple Pilots
+Heineken/WEND/WRFX Stage
+Cityfest Live!
+Charlotte, NC
+Sunday April 27, 2002
+
+
+01:	Intro					-	00:10.000
+02:	Shine On You Crazy Diamond >		-	05:37.000
+03:	Vasoline				-	03:23.800
+04:	Crackerman				-	04:11.200
+05:	Creep					-	05:49.000
+06:	Dead & Bloated				-	05:49.000
+07:	Interstate Love Song			-	04:07.000
+08:	Sin					-	06:58.000
+09:	Lounge Fly				-	06:10.133
+10:	Big Bang Baby				-	03:47.666
+11:	Trippin' On A Hole In A Paper Heart	-	04:22.733
+12:	Plush					-	05:59.866
+13:	Down					-	05:05.000
+14:	Encore Break				-	01:21.266
+15:	Kitchenware & Candy Bars		-	04:55.000
+16:	Sex Type Thing *			-	06:13.333
+
+
+Total:						-	74:00.000
+
+
+
+
+*	w/Jerry Cantrell
+
+compiled by George Wang on 05-02-2002
+dEQ by Fred Evans
+
+Taper:		George Wang <gewwang@yahoo.com>
+Source:		DPA 4022s > Sonosax sx-m2 > D100 > dEQ
+Location:	20 to 30 ft. from left stage stack
+
+DAT > SHN:	Archive Python DDS/DAT2WAV > .wav > CD-WAV/mkwACT > .shn
+		(Direct DAT extraction, no soundcard)
+

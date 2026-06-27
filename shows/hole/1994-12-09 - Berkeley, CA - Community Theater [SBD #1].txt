@@ -1,0 +1,47 @@
+HOLE
+Community Theater, Berkeley, California, US
+December 9th, 1994
+
+DISC #1/#1 (00:00)
+---------------
+01) Intro
+02) Plump
+03) Sugar Coma
+04) Miss World
+05) Asking for It
+06) Hungry Like the Wolf
+07) He Hit Me (jam) / Best Sunday Dress
+08) Doll Parts
+09) Violet
+10) Olympia
+11) Sugar Coma (Reprise)
+
+SOURCE (SBD#1)
+---------------
+soundboard > unknown (FM)
+
+GENERATION
+---------------
+FM > ANA(2) > CD-R(2) > WAV [44.1kHz] > FLAC [Level 8]
+
+TRANSFER
+---------------
+unknown
+
+MD5 FINGERPRINTS
+---------------
+ddb197c3b3a54c1162f210294642bca3 *hole1994-12-09t01.flac
+39ab50d44fcf63e89a66c3b3719d76b5 *hole1994-12-09t02.flac
+7f54f2f5b85759f1994803ec009bcae8 *hole1994-12-09t03.flac
+4326a32bed90cb01f364ee024d9d841e *hole1994-12-09t04.flac
+0cbf6b14b686c1dc4489422e5db81c56 *hole1994-12-09t05.flac
+608291aa7c0de44b02948b7c897895a9 *hole1994-12-09t06.flac
+cc8df7eff0092c8b5162ed158ded3df7 *hole1994-12-09t07.flac
+14decd252974b73d9acb1533fe46989e *hole1994-12-09t08.flac
+dbebeaae93c862b154a180dee09c41b9 *hole1994-12-09t09.flac
+890764a9348d327bd3487a6ce86c2267 *hole1994-12-09t10.flac
+2b87fb0de94886aa3dac51576bcf21dd *hole1994-12-09t11.flac
+
+
+Transferred by unknown.
+Please do not encode to lossy formats and/or sell.

@@ -1,0 +1,44 @@
+---------------------------------------------------------------------------
+	Artist:			Hole
+	Date:			1995-05-07
+	Location:		L'Espace
+				Rennes
+				France
+---------------------------------------------------------------------------
+	Recorded by:		Unknown
+ 	Transferred by:		P. Le Gu.
+	Encoded and text file by: Tristan Ruellan	
+				http://db.etree.org/tris1979
+---------------------------------------------------------------------------
+	Generation:		Aud>Unknown mic>Unknown DAT recorder>DAT(M)
+				>ANA(1)>CDR(2)>Flac16
+---------------------------------------------------------------------------
+	Lineage:	 	Aud
+				>Unknown mic
+				>Unknown DAT recorder
+				>DAT(M)
+				>ANA(1)
+				>Teac V-375
+				>Pioneer PDR-509
+				>CDR(2) 
+				>Xact 1.64 (CD extraction-flac)
+				>Flac16
+---------------------------------------------------------------------------
+	total time:		0:36:03
+	Fileset size:		196.1MB	
+---------------------------------------------------------------------------
+	Note: 			
+---------------------------------------------------------------------------
+	Setlist:		
+				t01: Plump 
+				t02: Beautiful Son 
+				t03: Miss World 
+				t04: Drown Soda 
+				t05: Asking For It 
+				t06: I Think That I Would Die 
+				t07: Best Sunday Dress 
+				t08: Pretty On The Inside
+			             Credit In The Straight World (Cut out)
+---------------------------------------------------------------------------
+	Seeded on:		2009-10-14
+---------------------------------------------------------------------------

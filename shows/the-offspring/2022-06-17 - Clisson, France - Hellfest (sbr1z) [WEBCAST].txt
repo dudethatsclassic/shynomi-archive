@@ -1,0 +1,30 @@
+The Offspring 
+2022-06-17 
+Clisson, France 
+Val de Moine
+Hellfest 
+
+Lineage: LIVE Webcast -> FFmpeg -> MKVToolNix GUI -> .mkv 
+
+Video: H264/1280x720p/25fps/2584Kbps
+Audio: AAC/2.0/48KHz/192Kbps
+
+Setlist:
+Staring at the Sun
+Come Out and Play
+Want You Bad
+The Opioid Diaries
+Behind Your Walls
+Bad Habit
+Gotta Get Away
+Why Don't You Get a Job?
+(Can't Get My) Head Around You
+Pretty Fly (For a White Guy)
+The Kids Aren't Alright
+You're Gonna Go Far, Kid
+Self Esteem 
+
+Length: 01:00:30
+_____
+SBR1Z
+2022

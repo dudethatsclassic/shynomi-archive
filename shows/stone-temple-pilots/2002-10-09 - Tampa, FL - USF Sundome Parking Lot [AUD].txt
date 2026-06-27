@@ -1,0 +1,35 @@
+STONE TEMPLE PILOTS
+October 9, 2002
+USF Sun Dome parking lot
+Tampa, FL
+
+SOURCE:
+Panasonic WM-61A > Sound Pro SP-SPSB-2 (160Hz bass roll-off) > Sony PCM-M1
+
+TRANSFER:
+Tascam DA-30mkII > Echo Layla24 > Adobe Audition 1.5 > CD Wave 1.94.5 > FLAC frontend 1.7.1
+
+GENERATION:
+DAT(M) [48kHz] > WAV [48kHz] > WAV [44.1kHz] > FLAC [Level 8]
+
+LENGTH:
+64:17
+
+TRACKS:
+01. Crackerman
+02. Vasoline
+03. Big Bang Baby
+04. Wicked Garden
+05. Big Empty
+06. Dead And Bloated
+07. Hollywood Bitch
+08. Trippin' On A Hole In A Paper Heart
+09. Interstate Love Song
+10. Rebel Rebel (jam)
+11. Dazed And Confused (jam)
+12. Plush
+13. Down
+14. Sex Type Thing
+
+RECORDED AND TRANSFERRED BY:
+Kris Sproul
