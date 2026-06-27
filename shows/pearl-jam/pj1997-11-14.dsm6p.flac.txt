@@ -1,0 +1,56 @@
+Pearl Jam
+Oakland-Alameda County Stadium
+Oakland, CA
+November 14, 1997
+(Opened for The Rolling Stones)
+
+** 16 BIT **
+
+Source:  Sonic Studios DSM-6P w/3-way lo-cut filter, position unknown (most likely @ 80hz, middle setting) > Sony WM-D6 
+Transfer:  Master cassette (Maxell XLII-S) > Denon 790R > Kenwood A-522 amplifier > Kenwood GE-622 Equalizer > .WAV @ 16 bit/44.1 kHz
+Mastering:  .WAV > Sound Forge Pro 11.0 (Build 299) [iZotope Mastering Suite (declick); minor edits, normalize, & fades] > CDWav tracking) > 
+            Trader's Little Helper (level 5) > FLAC > TagScanner 5.1 (tagging) 
+Location:  Section F10 (floor), row AA, seat 10
+Recorded & transferred by:  Steve "ballsdeep" Hagar
+Mastered by:  Dennis Orr
+ 
+Setlist:
+01 Hail Hail
+02 Animal
+03 Dissident
+04 Even Flow
+05 Jeremy >
+06 Last Exit
+07 Given To Fly
+08 Daughter > 
+09 Hey, Hey, My, My
+10 Corduroy
+11 Wishlist
+12 Better Man
+13 Chat
+14 State Of Love And Trust
+15 Do The Evolution
+16 Black
+
+Eddie Vedder - lead vocals, harp, & acoustic guitar
+Mike McCready - lead guitar & backing vocals
+Stone Gossard - rhythm guitar & backing vocals
+Jeff Ament - bass & backing vocals
+Jack Irons - drums & percussion
+
+pj1997-11-14t01.flac:abfb516a0be1fd9b67ec05387169c57f
+pj1997-11-14t02.flac:f25d34edf64b8c446ec093093da31a1f
+pj1997-11-14t03.flac:035dce62654c7bbeb2c13a5bef3ecff3
+pj1997-11-14t04.flac:38178609e512b9e3d86a69abc194687f
+pj1997-11-14t05.flac:44c42c75e30f5eb8089a7c04e690c4d3
+pj1997-11-14t06.flac:ad6c313ad9dcd1a7fffbdada7886328b
+pj1997-11-14t07.flac:97c55241436bc1edb05273fb272fc3ed
+pj1997-11-14t08.flac:8da4053c124fa0d89a2c34f60f8be162
+pj1997-11-14t09.flac:fd8e018417f1358e02641f0d0046ecb8
+pj1997-11-14t10.flac:729262a18e88bad3b1514f42c520eeee
+pj1997-11-14t11.flac:20404b347c7877cb9ea6ca8a3dbe2b2e
+pj1997-11-14t12.flac:729bec30788a871292dc337e54e8cbe7
+pj1997-11-14t13.flac:718bdc53daae6ce78b221861baf5a30a
+pj1997-11-14t14.flac:5f133bc550b806087b0db95bfd855487
+pj1997-11-14t15.flac:1e4a99ae25f0cabd1c71eb5fa3850d9c
+pj1997-11-14t16.flac:36bb3e36e82803880ac0705a3ca6b8ba

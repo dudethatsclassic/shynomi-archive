@@ -1,0 +1,41 @@
+Pearl Jam
+The Showbox-Seattle,WA
+December 5th, 2002
+
+**Preserve the quality and DO NOT encode this to MP3**
+
+Source: Schoeps cardioids connected to a digital audio tape deck
+Transfer: Transfer: ARCHIVE Python 01931 SCSI DAT drive > Adaptec AHA-2930CU > 	WD800JB hard drive
+Editing: Sound Forge 6.0 (remove DC offset, remove very low/inaudible frequencies under 20hz,     
+             normalize to 99.88%, fade in and out), shntool 1.2.0 (fix track boundaries)
+Tracking: CD Wave 1.71
+Compression:  shortn32, md5sum
+
+Disc 1:
+01. Can't Keep				[03:51.19]
+02. Save You				[03:48.34]
+03. Get Right				[02:47.62]
+04. Green Disease				[02:58.09]
+05. Grievance				[03:42.49]
+06. Cropduster				[04:27.51]
+07. I Am Mine				[05:51.10]
+08. Love Boat Captain			[05:09.29]
+09. 1/2 Full				[04:48.59]
+10. Nothings As It Seems			[06:14.29]
+11. You Are				[04:50.70]
+12. Given To Fly				[04:51.01]
+13. Insignificance				[05:10.28]
+14. Blood					[02:33.50]
+Total:					[61:05.50]
+
+Disc 2
+01. Intro					[01:33.74]
+02. Last Kiss				[03:59.38]
+03. Wishlist				[04:13.12]
+04. Black					[06:27.52]
+05. Down					[03:14.40]
+06. Do The Evolution			[05:13.46]
+07. All Or None				[04:58.35]
+Total:					[29:40.72]
+
+Compiled by AC on 01/03/02

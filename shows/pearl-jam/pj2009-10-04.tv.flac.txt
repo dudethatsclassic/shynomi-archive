@@ -1,0 +1,27 @@
+auCDtect: CD records authenticity detector, version 0.8.2
+Copyright (c) 2004 Oleg Berngardt. All rights reserved.
+Copyright (c) 2004 Alexander Djourik. All rights reserved.
+
+Detect mode (0..40 with 0 = most accurate):  8 (default)
+
+
+01. Intro.wav:  track looks like CDDA with probability 100%.
+02. Just Breathe.wav:  track looks like CDDA with probability 100%.
+03. The End.wav:  track looks like CDDA with probability 99%.
+04. The Fixer.wav:  track looks like CDDA with probability 100%.
+05. Johnny Guitar.wav:  track looks like CDDA with probability 100%.
+06. Amongst The Waves.wav:  track looks like CDDA with probability 100%.
+07. Unthought Known.wav:  track looks like CDDA with probability 100%.
+08. Army Reserve.wav:  track looks like CDDA with probability 100%.
+09. Do the Evolution.wav:  track looks like CDDA with probability 100%.
+10. Lukin.wav:  track looks like CDDA with probability 100%.
+11. Red Mosquito (With Ben Harper).wav:  track looks like CDDA with probability 100%.
+12. Inside Job.wav:  track looks like CDDA with probability 100%.
+13. Porch.wav:  track looks like CDDA with probability 100%.
+14. Interview.wav:  track looks like CDDA with probability 43%.
+15. Got Some (Conan O'Brien 2009).wav:  track looks like CDDA with probability 100%.
+16. Alive (Rock Werchter 2012).wav:  track looks like CDDA with probability 99%.
+
+No errors occured.
+
+Test for MPEG log saved to file.

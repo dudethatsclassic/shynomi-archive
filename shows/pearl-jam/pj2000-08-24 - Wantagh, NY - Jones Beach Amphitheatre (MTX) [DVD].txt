@@ -1,0 +1,54 @@
+Pearl Jam
+Jones Beach Amphitheater, Wantagh, NY
+August 24, 2000
+
+DVD Info: Dual-layer
+video: NTSC 4:3 29.97fps 8500 kbits/s
+audio: AC3 5.1 448 kbits/s
+
+Video sources:
+V1: Hi8 master > Sony DCR-TRV460 > Firewire > avi > CCE > mpeg2
+V2: Hi8 master(x2) > Hi8 mix master > Sony DCR-TRV460 > Firewire > avi > CCE > mpeg2
+
+audio sources:
+A1: Bootleg #40 silver CDs > EAC > wav
+A2: Schoeps MK5 (cardioid) > R-mod > Sony SBM-1 > Sony PCM-M1 (Sec. Orch. C) > DAT > wav > SHN > wav
+A3: Schoeps CCM-4 > Beyer MV-100 > Sony SBM-1 > Sony TCD-D8 (Sec. H, row  AA) > DAT > wav > SHN > wav
+
+5.1 mix front : A1 > dEQ
+        rear : [A2 + A3] > dEQ
+        center : A1 > mono > 20% amplitude
+        LFE : A1 > mono > 40% amplitude
+
+Of the Girl
+Breakerfall
+Corduroy
+Grievance
+Last Exit
+Do the Evolution
+Dissident
+Rival
+Given to Fly
+Nothing As It Seems
+Light Years
+Even Flow
+Daughter
+Lukin
+Insignificance
+Better Man
+Porch
+
+Spin the Black Circle
+Hail, Hail
+I Got Shit
+Small Town
+Crazy Mary
+Black
+Rearviewmirror
+
+Last Kiss
+Yellow Ledbetter
+
+Notes: Mostly V1 with V2 used for occasional filler and 2nd encore.  Breakerfall is all still images.
+       Special thanks to JB for filming and loaning master tapes, to Tapeworm48 for loaning
+       DAT sources, and to Dave P. for converting DATs to wav.

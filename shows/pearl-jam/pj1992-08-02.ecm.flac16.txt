@@ -1,0 +1,32 @@
+
+Pearl Jam
+World Music Amphitheater: Tinley Park, IL
+"Lollapalooza"
+August 2, 1992
+
+Source: Sony ECM > Sony WM-D6
+Lineage: ANA master > ANA1 > ANA2 > DAT clone @ 48kHz > FLAC
+Transfer: Tascam DA-20 > Digital Coax > M-Audio MicroTrack II > Audacity > CDWave > TLH
+Edits/EQ: +1.3dB
+
+Setlist: 
+
+01 Intro
+02 Summertime Rolls > Why Go?
+03 Deep
+04 Jeremy 
+05 Even Flow 
+06 Alive 
+07 Black 
+08 Once
+09 -Ed speak-
+10 Porch
+
+Notes: "Lollapalooza" set transferred from my DAT clone. Raw transfer with no fades or EQ.
+
+Archive: DAT clone was transferred @ 48kHz and FLAC'd with cue sheet. 
+
+Transferred by tapeworm(48) 
+Txt file compiled on 12/29/2020
+
+*** DO NOT DISTRIBUTE IN LOSSY FORMATS. DO NOT SELL THIS RECORDING, TRADE IT FREELY *** 

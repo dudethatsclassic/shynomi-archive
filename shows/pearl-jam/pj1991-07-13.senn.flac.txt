@@ -1,0 +1,25 @@
+Pearl Jam 
+July 13, 1991
+Marquee Room
+New York, NY
+
+Source: Sennheiser ME80 -> Sony TCD-D3
+Lineage: DAT(M) -> DAT(c) 48khz -> FLAC
+Transfer: DA-20 -> Monster coax -> DiO 2496 -> Soundforge 6.0 (resample to 44.1) -> CDWave -> FLAC
+
+01 Wash
+02 Once
+03 Even Flow
+04 State of Love and Trust
+05 Alive
+06 Garden
+07 Deep
+08 Why Go
+09 Porch
+
+
+
+Thanks to cps for the DAT.
+
+transfer by BLG
+compiled on 12-16-04

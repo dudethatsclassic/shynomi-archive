@@ -1,0 +1,41 @@
+Pearl Jam
+
+09/04/93 B.C. Place: Vancouver, British Columbia
+
+source: PC62 > wm-d3
+
+lineage: cassette master > EQ > CDR > .flac
+
+cass>cdr transfer: Denon DRM-500 > Sentrek 12 band EQ > SoundBlaster 16 > WaveLab 4.0 dEQ
+cdr>.wav rip via EAC
+.wav>.flac encoding via FLAC frontend
+
+encoded by: cps 12/11/04
+
+edits: none
+
+eq: yes
+
+cuesheet: yes
+
+setlist:
+
+ 1. intro
+ 2. Rearviewmirror
+ 3. Evenflow
+ 4. Why Go?
+ 5. Deep
+ 6. Glorified G
+ 7. Daughter
+ 8. Alive
+ 9. Black
+10. – tapeflip -
+11. Animal
+12. Go
+13. Jeremy
+14. Leash
+15. – encore cheers -
+16. Once
+17. Sonic Reducer
+18. Fuckin’ Up
+19. Porch

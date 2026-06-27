@@ -1,0 +1,59 @@
+Pearl Jam
+Mars Music Amphitheatre
+West Palm Beach, FL
+August 10, 2000
+
+DVD Info: dual-layer
+video: NTSC 4:3 29.97fps CBR , 7.70 mbit/s
+audio: PCM Stereo 1536 kbit/s, AC3 5.1 448 kbit/s
+length: 2:05:09
+
+Video sources:
+V1: Hi8 Master (screen shot) > Sony DCR-TRV350 > Firewire > Final Cut Pro - Edit, Contrast, DE:Noise (filter) > Compressor
+V2: 2nd gen VHS (2-cam mix) > JVC HR-S9911u > S-Video > Sony DCR-TRV350 > Firewire > Final Cut Pro - Patch dropouts in V1 > Compressor
+
+Audio Sources:
+A1: Official Bootleg > Max > AIFF > Soundtrack Pro
+A2: AKG460b > Beyer MV-100 > Sony TCD-D8 (2 songs cut - "Given to Fly" & "Evacuation") > Max > AIFF > Soundtrack Pro
+
+PCM Stereo: A1
+5.1 Surround: A1, A2 patched with V2
+
+Authored with DVD Studio Pro
+
+setlist:
+
+Of The Girl
+Breakerfall
+Corduroy  
+MFC
+Once 
+Animal 
+Gods' Dice
+Given To Fly
+Evacuation
+Pilate
+Daughter
+Even Flow
+Wishlist
+Timeless Melody
+Off He Goes
+Better Man
+Nothingman
+Leatherman
+Porch 
+(Encore Break) 
+Last Exit
+Do The Evolution
+Black
+Crazy Mary
+I Got Id 
+Last Kiss
+Baba O'Riley 
+Yellow Ledbetter 
+
+Notes:  The taper of the screen shot video was kind enough to lend me this Hi8 Master tape in 2004, and it's taken nearly 5 years for me to get the DVD out.  The screen shot video was grainy, so I used a high quality spatial/temporal noise filter (DE:Noise) to clean it up.  
+
+This DVD is primarily the screen shot master source, dropouts patched with the other video source.  A different 2-cam mix was put to DVD recently from a VHS source, but I'm releasing this since I had the master of the screen shot.
+
+leehro, jan 10 2009

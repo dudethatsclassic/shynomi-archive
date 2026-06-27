@@ -1,0 +1,55 @@
+Pearl Jam
+11-24-96
+Dramatico
+Cascais, Portugal
+
+Source: Sonic Studios -> Sony TCD-D7 (diginoise patched w/CSB->D7->DAT->CDR->FLAC)
+Generation: DAT-M -> DAT(c) 48khz -> FLAC
+Transfer: DA-20 -> Monster coax -> DiO 2496 -> CEP 2.1 -> FLAC frontend -> FLAC -> FLAC frontend -> WAV -> CEP 2.0 (44.1 resample, dEQ, fades, edits) -> CD Wave -> FLAC frontend -> FLAC
+
+DISC I
+01 Release
+02 Last Exit
+03 Animal
+04 Hail, Hail
+05 Once
+06 Dissident
+07 In My Tree
+08 Corduroy
+09 Elderly Woman
+10 Whipping
+11 Habit
+12 Off He Goes
+13 Even Flow
+14 Daughter/?
+
+DISC II
+01 Jeremy
+02 chant/jam
+03 Present Tense
+04 Black Red Yellow
+05 Rearviewmirror
+06 Alive
+07 Encore Break
+08 Smile
+09 Black
+10 State Of Love And Trust
+11 Porch
+
+Runtime: 121:00
+
+Notes: This is, in all likelihood, the same original source as the "CSB>D7" source that's widely circulating. 
+One only needs to listen to "Animal" around the 0:50 mark to hear the same pattern of screaming girls to confirm the suspicions. 
+That said, the sonic differences between the two sources are unmistakable 
+(the SS is brighter and lacks the muffled sound of the CSB source), not to mention the diginoise on the SS source 
+and the cuts in "Corduroy" and the encore break on the CSB source. 
+How a more "pure," unedited source has diginoise and the EQ'd CSB source has edits and no diginoise is still an unanswered question; 
+two tapers may have been standing next to one another, or one taper was running both rigs. 
+Either way, what we've been calling the CSB source is probably mislabeled. 
+Regardless, as far as completeness of the source goes, as well as its confirmed lineage, 
+this is probably the copy to call "definitive." -bmr
+
+
+Transfer by BLG
+compiled on 11-16-04
+Tracked/resampled/EQd by BMR on 9-5-06

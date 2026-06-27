@@ -1,0 +1,19 @@
+Pearl Jam
+March 16, 1992
+Kaufman Astoria Studios, Queens, NY
+
+Source: dSBD > DAT > SHN
+Lineage: SHN > WAV > dEQ > FLAC
+Notes: Soundcheck for MTV Unplugged. Left/right channels EQ'ed separately to
+       improve stereo separation. Bass/treble pushed in left, mid-range in right
+
+01 Oceans
+02 drum adjustments
+03 State of Love and Trust
+04 Alive
+05 Black
+06 bass and guitar adjustments
+07 Jeremy
+08 Porch
+
+Compiled August 2020 by FGE

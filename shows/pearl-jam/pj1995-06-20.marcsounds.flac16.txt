@@ -1,0 +1,52 @@
+
+Pearl Jam
+Red Rocks Amphitheatre: Morrison, CO
+June 20, 1995
+
+Source: MarcSounds > Sony TCD-D7 @ 48kHz
+Location: FOB
+Transfer: DAT Master > Tascam DA-20 > M-Audio MicroTrack II > Audacity > CDWave > FLAC Frontend
+Edits/EQ: +1dB
+Taper: MR
+
+Setlist:
+
+01 Intro
+02 Long Road
+03 No Jeremy
+04 Ship Song [Nick Cave](aborted)
+05 Footsteps
+06 Falling Down
+07 Better Man
+08 Last Exit
+09 Spin the Black Circle
+10 Animal
+11 Tremor Christ
+12 Corduroy
+13 Not for You
+14 Go
+15 State of Love and Trust
+16 Daughter / (This Boy)
+17 Garden
+18 I've Just Seen a Face [The Beatles]
+19 Alive
+20 Whipping
+21 Lukin
+22 Rearview Mirror
+23 Elderly Woman Behind the Counter in a Small Town
+24 Blood
+25 -encore break-
+26 Black
+27 Porch
+28 Immortality
+29 -encore break 2-
+30 Indifference
+
+Notes: Transferred in June 2020 from the master DAT (acquired). Taper paused the recorder during the 1st encore break. Raw transfer with no fades or EQ.
+
+Archive: Master DAT was transferred @ 48kHz and FLAC'd with cue sheet. 
+
+Transferred by tapeworm(48) 
+Txt file compiled on 6/21/2021
+
+*** DO NOT DISTRIBUTE IN LOSSY FORMATS. DO NOT SELL THIS RECORDING, TRADE IT FREELY *** 

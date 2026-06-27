@@ -1,0 +1,145 @@
+Artist: Pearl Jam
+
+Date: July 11, 1995
+
+Venue: Soldier Field, Chicago, Illinois
+
+Source: FM + AUD Matrix by BLG [2013 version]
+
+Lineage: see below
+
+Size: 919 MB FLAC
+
+Quality: Outstanding and one of their greatest ever performances
+
+
+setlist:
+
+001 Intro
+002 Release
+003 Go
+004 Last Exit
+005 Spin the Black Circle
+006 Tremor Christ
+007 Corduroy
+008 Whipping
+009 I Got Shit
+010 Dissident
+011 Even Flow
+012 Untitled Improvisation
+013 Deep
+014 Jeremy
+015 Glorified G
+016 Daughter
+017 Animal
+018 Habit
+019 Lukin
+020 Not for You
+021 Elderly Woman Behind the Counter in a Small Town
+022 Immortality
+023 Alive
+024 Porch
+025 Everyday People (a)
+026 Let My Love Open the Door (a)
+027 Better Man (a)
+028 Rearviewmirror (a)
+029 Black (a)
+030 Blood (a)
+031 Yellow Ledbetter  (b)
+
+919 MB
+
+(a) encore 1
+(b) encore 2
+
+FM: Monkeywrench FM (mono) Broadcast > Red Robin "Live at Soldier Field" 3xCD(M) > WAV > FLAC
+
+AUD: Core Sound Binaural mics > Sony TCD-D7 > DAT(M) [48kHz]
+
+Taper: MD
+
+Transfer: DAT(M) > TASCAM DA-20 > coax > M-AUDIO Delta DiO 2496 > Sound Forge v6.0 > WAV > FLAC frontend > FLAC
+
+Mixed and edited by BLG, 07dec'13
+
+BLG Notes: This is a mix I've wanted to redo for a long time. The mono FM source is thin, tinny, and almost unlistenable by
+itself while the AUD source is pretty good overall. A mix was done many years ago, but it has some sync issues and in general
+I thought I could improve on it.
+
+The FM source does not run at a consistent speed, making it very difficult to align. After doing a baseline stretch of the entire 
+show to get the sources close, I did another forty additional stretch points to really align things. 
+
+I removed a siqnificant amount of applause from the CSB source and lowered the volume of some of the crowd noise, all before
+mixing so it wouldn't be noticeable. In addition, I edited out the annoying DJ chatter so both encore breaks have been mostly
+faded out.
+
+As for the show itself, many consider this to be one of the best ever.
+
+These are the orignal FLAC files seeded by BLG in 2013.
+
+ffp:
+pj1995-07-11t01.flac:e2e2637562eafcb69ae72f0e7e61c728
+pj1995-07-11t02.flac:bcd1a6f1ac16049af3ccff598aa2f014
+pj1995-07-11t03.flac:cf6a2f651074d8238a7f725dfdb97032
+pj1995-07-11t04.flac:326f2ebe62fa6b1b95798ba89eb54162
+pj1995-07-11t05.flac:335c84bc806a999acaefe404b36d9a25
+pj1995-07-11t06.flac:c9e1dfbd41c8042519b0557b31bb82bc
+pj1995-07-11t07.flac:6268f9d67e32e7c9bcbde46a0103679f
+pj1995-07-11t08.flac:8f94e91d5a8475e22a70159ad30b828f
+pj1995-07-11t09.flac:6fb526b9b2e3a7843a3a163aab05114f
+pj1995-07-11t10.flac:fc0ee0485b3c2efcc5a5596e1949a7fc
+pj1995-07-11t11.flac:f24b8fe7f7470f9308ef927f47171a3c
+pj1995-07-11t12.flac:fae189aef5faae820ab37c0847b0c453
+pj1995-07-11t13.flac:f22f7de834b544d170847fca44f5bec6
+pj1995-07-11t14.flac:6a238799b351dcf683bde92954d0254b
+pj1995-07-11t15.flac:a2124007c801d0460441871318c55f58
+pj1995-07-11t16.flac:442d2abf495b42a8c99aa4d2b3086e41
+pj1995-07-11t17.flac:7951793fbfc1a61e6068145a0d0f7f06
+pj1995-07-11t18.flac:dfe562f088a41102ab7964d08ea0ead0
+pj1995-07-11t19.flac:801316c0e329af7086d289ab7fb89121
+pj1995-07-11t20.flac:2868cde9a55bf738463c53a5711db743
+pj1995-07-11t21.flac:4d666bfb618f3dc851302932add90683
+pj1995-07-11t22.flac:acd4654e86670721c8c1709fc21ea80e
+pj1995-07-11t23.flac:1f6131681ab26adce0a63e57441147a0
+pj1995-07-11t24.flac:a86e4ddd1dab508bc0c2946f14b5ce6c
+pj1995-07-11t25.flac:866ed6580cccee96abaf395c051535b1
+pj1995-07-11t26.flac:283c341c2d94f31157543858b6456084
+pj1995-07-11t27.flac:bf5af58da0cc7e1229dd0c8948104e0f
+pj1995-07-11t28.flac:41c11b2bbc774dcca2c599b591331726
+pj1995-07-11t29.flac:9df1cd43195e2b98eba66ea092694f4e
+pj1995-07-11t30.flac:5119ecb7dbfceb9b1d9eb0369c9027e8
+pj1995-07-11t31.flac:014e2cda6c563e1802796a01ab00c394
+
+    length     expanded size    cdr  WAVE problems  fmt   ratio  filename
+       1:55.08         20304860 B   ---   --   ---xx   flac  0.5069  pj1995-07-11t01.flac
+       5:14.74         55563692 B   ---   --   ---xx   flac  0.5713  pj1995-07-11t02.flac
+       2:49.61         29955116 B   ---   --   ---xx   flac  0.6273  pj1995-07-11t03.flac
+       2:38.19         27915932 B   ---   --   ---xx   flac  0.6297  pj1995-07-11t04.flac
+       2:42.52         28699148 B   ---   --   ---xx   flac  0.6240  pj1995-07-11t05.flac
+       4:25.52         46868348 B   ---   --   ---xx   flac  0.5755  pj1995-07-11t06.flac
+       7:02.48         74553740 B   ---   --   ---xx   flac  0.5908  pj1995-07-11t07.flac
+       2:47.31         29531756 B   ---   --   ---xx   flac  0.6246  pj1995-07-11t08.flac
+       5:09.26         54568796 B   ---   --   ---xx   flac  0.5712  pj1995-07-11t09.flac
+       3:49.53         40520300 B   ---   --   ---xx   flac  0.5947  pj1995-07-11t10.flac
+       5:35.70         59258684 B   ---   --   ---xx   flac  0.6048  pj1995-07-11t11.flac
+       2:18.19         24387932 B   ---   --   ---xx   flac  0.5298  pj1995-07-11t12.flac
+       4:12.08         44471660 B   ---   --   ---xx   flac  0.5883  pj1995-07-11t13.flac
+       5:13.47         55323788 B   ---   --   ---xx   flac  0.5984  pj1995-07-11t14.flac
+       3:19.74         35277692 B   ---   --   ---xx   flac  0.6234  pj1995-07-11t15.flac
+       8:10.66         86591276 B   ---   --   ---xx   flac  0.5713  pj1995-07-11t16.flac
+       4:32.39         48072572 B   ---   --   ---xx   flac  0.5751  pj1995-07-11t17.flac
+       5:15.68         55725980 B   ---   --   ---xx   flac  0.5943  pj1995-07-11t18.flac
+       4:03.69         43027532 B   ---   --   ---xx   flac  0.5557  pj1995-07-11t19.flac
+       9:15.14         97934972 B   ---   --   ---xx   flac  0.5776  pj1995-07-11t20.flac
+       3:29.72         37036988 B   ---   --   ---xx   flac  0.5962  pj1995-07-11t21.flac
+       6:07.31         64811756 B   ---   --   ---xx   flac  0.6137  pj1995-07-11t22.flac
+       5:27.10         57706364 B   ---   --   ---xx   flac  0.6125  pj1995-07-11t23.flac
+       9:15.34         97982012 B   ---   --   ---xx   flac  0.5773  pj1995-07-11t24.flac
+       3:08.27         33226748 B   ---   --   ---xx   flac  0.6037  pj1995-07-11t25.flac
+       3:44.28         39579500 B   ---   --   ---xx   flac  0.6269  pj1995-07-11t26.flac
+       4:15.10         45005564 B   ---   --   ---xx   flac  0.5987  pj1995-07-11t27.flac
+       8:12.48         86901740 B   ---   --   ---xx   flac  0.6057  pj1995-07-11t28.flac
+       6:04.42         64308428 B   ---   --   ---xx   flac  0.6066  pj1995-07-11t29.flac
+       8:09.35         86341964 B   ---   --   ---xx   flac  0.6041  pj1995-07-11t30.flac
+       5:39.00         59799644 B   ---   --   ---xx   flac  0.5467  pj1995-07-11t31.flac
+   154:07.35     1631254484 B                                0.5909  (31 files)

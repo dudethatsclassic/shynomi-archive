@@ -1,0 +1,28 @@
+Pearl Jam
+06/27/1993
+Isle of Calf Festival (Kalvoya)
+Oslo, Norway
+
+Source: Sony ECM T-140 (x2) > Sony TCD-D7 > CDR > EAC > WAV > mkwACT > SHN
+Sound: B
+Note: - Recording problems especially @ beginning / Taper makes some adjustments
+
+set:
+Disc 1:
+	01 - Even Flow
+	02 - Animal
+	03 - Go
+	04 - Rearviewmirror
+	05 - Elderly Woman
+	06 - Deep
+	07 - Why Go
+	08 - Jeremy
+	09 - Black
+	10 - Alive
+	11 - Glorified G
+	12 - Daughter/(Pulled Up)
+	13 - Porch/(Tearing)
+	enc: 
+	14 - Oceans
+	15 - Leash
+	16 - Sonic Reducer

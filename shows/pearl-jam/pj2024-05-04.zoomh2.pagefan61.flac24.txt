@@ -1,0 +1,104 @@
+Pearl Jam
+Rogers Arena
+Vancouver, BC
+May 4, 2024
+
+** 24 BIT **
+
+Source:  Zoom H2 (internal mics, 120 degree spatial) @ 24 bit/48 kHz
+Mastering:  .WAV > iZotope RX10 Advanced v10.0.0.1705 (De-click) > Sound Forge Pro 14.0 Build 140 [minor edits, normalize, & fades, Boz Digital Labs T-Bone2 plug-in (tilt EQ)] > CDWav 
+(tracking) > Trader's Little Helper (level 5) > FLAC > TagScanner 6.1.16 (tagging)
+Location:  Section 108, Row 25
+Recorded by:  Pagefan61
+Mastered by:  Dennis Orr
+
+Setlist: (2:24:47)
+01 Wash
+02 Low Light
+03 Chat
+04 Elderly Woman Behind The Counter In A Small Town
+05 Given To Fly
+06 Scared Of Fear
+07 React, Respond
+08 Wreckage
+09 Dark Matter
+10 Daughter (with "Bobcaygeon" tease)
+11 Chat
+12 Leatherman
+13 Corduroy
+14 Chat
+15 Red Mosquito (false start)
+16 Chat
+17 Red Mosquito
+18 Upper Hand
+19 Chat
+20 Won't Tell
+21 Chat
+22 Running
+23 Chat
+24 Chloe Dancer/Crown Of Thorns
+25 Porch (1)
+26 Encore Break
+- Encore -
+27 Chat
+28 I Won't Back Down (2)
+29 Black (with "We Belong Together" tease)
+30 Do The Evolution
+31 Chat
+32 Something Special
+33 Alive
+34 Rockin' In The Free World
+35 Chat
+36 Yellow Ledbetter (fade out)
+ < Setting Sun >
+
+(1) Mike McCready fell off the stage briefly during the song
+(2) Eddie solo
+
+Eddie Vedder – lead vocals, rhythm guitar, & harp
+Mike McCready – lead guitar & backing vocals
+Stone Gossard – guitars & backing vocals
+Jeff Ament – bass & backing vocals
+Matt Cameron – drums, percussion, & backing vocals
+Boom Gaspar – keyboards, piano, & organ
+Josh Klinghoffer – guitar, percussion, keyboards, drums, & backing vocals
+
+Mastering Notes:
+Unfortunately the batteries died in the recorder, so the end of "Yellow Ledbetter" and all of "Setting Sun" are missing. 
+
+PearlJam2024-05-04t01.flac:46516e0e8f605c38bc9d39b2b4849d75
+PearlJam2024-05-04t02.flac:8cf1f3513673ab0ab1644ab45c7bdf18
+PearlJam2024-05-04t03.flac:75c8f1e2edd611b81d168b07ae8295fb
+PearlJam2024-05-04t04.flac:00e626d01e85f55362e98ba65aa85e6e
+PearlJam2024-05-04t05.flac:f9f9e0b2c04735e43701300975275660
+PearlJam2024-05-04t06.flac:24935dae33c827029b23ab504de85a4f
+PearlJam2024-05-04t07.flac:8388a309971565bed8f9cd87c05834ce
+PearlJam2024-05-04t08.flac:8b31aa52b01a3ed7ca3c226810f0aa3d
+PearlJam2024-05-04t09.flac:ebf0f1f53056d9f86b2132d2abc2b2a5
+PearlJam2024-05-04t10.flac:e8c177112270fa1c06ee1467b802602b
+PearlJam2024-05-04t11.flac:02773d2b5ef01b09c06815f9d493eb4c
+PearlJam2024-05-04t12.flac:e8b2186194f99ade8fbab32f52a10ff1
+PearlJam2024-05-04t13.flac:cff54fb2b5cfd2994325c6b387db293d
+PearlJam2024-05-04t14.flac:d2ba03a598ea08f86bd42f726a2e70e8
+PearlJam2024-05-04t15.flac:62cba74b2ed8e5d1921a53f0ead326f5
+PearlJam2024-05-04t16.flac:f9559ced7a2565d4410456f85fd5675e
+PearlJam2024-05-04t17.flac:4d4cfbf90f17373b2ff55db6fee2508f
+PearlJam2024-05-04t18.flac:9371886ca0a18005d5bc6442368ef74d
+PearlJam2024-05-04t19.flac:c506cae40a538c7560c0fd68be1eeeab
+PearlJam2024-05-04t20.flac:05d390c1e0cd1d5c473b12ef17f3caa8
+PearlJam2024-05-04t21.flac:08770a1e2465d70d81da8cbe50a62328
+PearlJam2024-05-04t22.flac:0b86052e9a6424ebdf0923d05d891479
+PearlJam2024-05-04t23.flac:d5cad5b341c08dcad8f293a442e86d12
+PearlJam2024-05-04t24.flac:a52627588e3899d3ba1aaf53b6ebf3dd
+PearlJam2024-05-04t25.flac:14923fcc2c380d6da33028b714a3999f
+PearlJam2024-05-04t26.flac:efc4237e73879691af2761bc0abe20a0
+PearlJam2024-05-04t27.flac:981af3d32c1d78a3544426f4f08aa0e5
+PearlJam2024-05-04t28.flac:821d7415166bd449c801535c3b238a62
+PearlJam2024-05-04t29.flac:062da4cf03ed32478672309c769d746f
+PearlJam2024-05-04t30.flac:ac92be3b25fe535d983254b032d3c6ba
+PearlJam2024-05-04t31.flac:5039bd0577191ad294749d0811b60619
+PearlJam2024-05-04t32.flac:fd87502b2fe1272d9bd4422b01cc99bf
+PearlJam2024-05-04t33.flac:ea9eb8a954c4e7469af5190291bdfd2c
+PearlJam2024-05-04t34.flac:d01b7c33bc926714e1246d376b5303c5
+PearlJam2024-05-04t35.flac:86a99536d6d814b1f962ee578218feb3
+PearlJam2024-05-04t36.flac:1e4132a669861dc600640bc32cf64ad6

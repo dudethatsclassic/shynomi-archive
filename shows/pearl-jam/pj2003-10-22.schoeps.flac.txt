@@ -1,0 +1,87 @@
+Pearl Jam (accoustic)
+10.22.03
+Benaroya Hall
+Seattle, WA
+FLAC format 723mb
+
+
+main source:
+cmc34->psp3->sbm1->d100 25th row center
+
+second source:
+schoeps (full info/location withheld by taper request)
+
+
+1. of the girl
+2. low light  
+3. thumbing my way  
+4. thin air  
+5. fatal ("new") 
+6. nothing as it seems  
+7. man of the hour (new, to be on forthcoming Tim Burton film _Big Fish_)
+8. immortality  
+9. off he goes  
+10. around the bend  
+11. i believe in miracles - (ramones)
+12. sleight of hand  
+13. all or none  
+
+-start disc two-
+
+1. lukin  
+2. parting ways  
+3. down 
+
+-encore one-
+
+4. can't keep (ed solo, uke)   
+5. dead man (ed solo)   
+6. masters of war (ed, mike, stone) - (dylan)
+7. black  
+8. crazy mary - (victoria williams)
+9. 25 minutes to go - (johnny cash)
+10. daughter/(you know my name)/(you've got to hide your love away) - (beatles)
+
+-encore two-
+
+11. yellow ledbetter 
+ 
+
+---------------------------------------
+
+list of edits  (done at 32bit-48khz, with cool edit pro 2.1):
+
+main source:
+hard limit amplify (12db with a 0.1 db limit)
+splices to second source at approx (times include linear cross fade regions):
+6:50 to 9:40
+23:55 to 25:15
+36:25 to 37:45
+1:53:50 to end
+
+second source:
+hard limit amplify (2db with a 0.1 limit, left channel only)
+hard limit amplify (3db with a 0.1 limit, 6:50 to 9:40 section only)
+
+disc 1/disc 2 fade in/out
+1:07:30
+
+encore 1 fade in/out
+1:20:35
+
+encore 2 fade in/out
+2:01:55
+
+------------------------------------------
+
+Notes
+
+there are "loose claps" I chose not to remove because I didn't really see a need...if it isn't broken, don't fix it.
+
+i also chose to not include the introductory remarks by the first lady (?) and tom skerrit.  i always skip them when I'm listening to shows.
+
+there is a bit of a conversation at @ 45:45 that carries into the first few notes of "around the bend".  unfortunetly that happens on both sources (at different places in the venue, imagine the coincidence), so no splice was done.  however, it's so slight that it's debateable whether a splice would even be called for.
+
+I debated whether or not amplifying the main source more to level the thunderous applause out, but decided that would end up compressing some of the actual music in a few places, which would be bad, so I left it at 12db which did plenty enough.
+
+I plan on leaving this one open for a very long time...

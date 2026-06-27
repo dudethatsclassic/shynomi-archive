@@ -1,0 +1,52 @@
+Pearl Jam
+05-17-92 
+Roseland Theater 
+Portland, OR
+
+Source: Sonic Studios -> Sony WM-D3
+Lineage: cassette master -> cassette -> DAT -> DAT -> dEQ -> CDR -> .flac
+
+cdr>.flac transfer: EAC > FLAC frontend > .flac
+encoded by: cps 01/29/05
+edits: yes (tape speed corrected by blg)
+eq: yes (by ptb)
+comments: Dave Abbruzzese's birthday & debut of "Angel"
+
+
+setlist:
+
+01. intro
+02. Oceans
+03. Evenflow
+04. Why Go?
+05. Jeremy
+06. Deep
+07. Alive
+08. improv (Must Be Summer)
+09. Black
+10. State of Love & Trust
+11. improv (I'm Not Crazy)
+12. Once
+13. happy birthday to Dave
+14. Porch
+15. (Suggestion)
+16. Garden
+17. Leash
+18. Ed talking
+19. Angel
+20. Rockin' in the Free World
+
+
+Notes: In addition to the EQ, some kind of hiss removal or noise 
+reduction was applied to this recording at some point.  If the original,
+unedited tape is ever found, that will also be circulated.
+
+There is a cut after 'SoLaT' which is presumed to be a tape flip.  
+There is also a fade after Once and a cut during Leash.
+
+
+
+additional notes by BLG
+
+Many thanks (again) to cps for providing this show.
+

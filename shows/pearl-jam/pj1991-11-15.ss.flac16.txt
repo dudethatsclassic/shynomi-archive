@@ -1,0 +1,25 @@
+Pearl Jam
+November 15, 1991
+Roseland Ballroom
+New York, NY
+
+Source: SS/D3
+Conversion: Tascam DA-20mkii(DDC-?) > M-Audio Delta Audiophile 2496 > Cool Edit Pro (32kHz WAV) > Adobe Audition (editing)
+FLAC: WAV > CD Wave (track splitting) > FLAC
+Notes: From the collection of Arnold Leal. Transferred by Andrew Fogelsong in April 2021. Amplified +4.72dB, amplified left channel +3.85dB to even out levels. Beginning of recording cuts in during Black. Drop-out in Black at 0:20. Even Flow is missing section in middle - cut at 0:57. These are 16bit/32kHz files and you will need to resample to 16bit/44.1kHz if burning to CD.
+
+********************************************************************************
+SPREAD THE MUSIC
+********************************************************************************
+
+1. Black
+2. Once
+3. Even Flow
+4. Alive
+5. Jeremy
+6. Why Go
+7. Porch
+
+
+
+For additional live recordings I have taped, transferred and/or traded for, see my Live Music Archive uploads - https://archive.org/details/@fogelsong

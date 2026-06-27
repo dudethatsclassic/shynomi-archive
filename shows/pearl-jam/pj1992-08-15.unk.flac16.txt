@@ -1,0 +1,23 @@
+Pearl Jam
+1992-08-15
+Montage Mountain Performing Arts Center
+Scranton, PA, USA
+(Lollapalooza Festival)
+
+Source: unknown microphones > unknown recorder
+Lineage: cassette(X) > DAT(1) > CDR(1) > cdparanoia > WAV [44.1] > FLAC
+Transfer: Pioneer CT-W604RS > Tascam DA-20mkII > Sony CDR-W33 > EAC 
+Notes: glitch in "Even Flow" @ 3:49
+
+Setlist:
+01. Why Go
+02. Deep
+03. Jeremy
+04. Breath
+05. Even Flow
+06. Eddie talking...
+07. Alive
+08. Porch
+09. Rockin' In The Free World
+
+Compiled December 2019 by CPS

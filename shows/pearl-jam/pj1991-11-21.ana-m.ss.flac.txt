@@ -1,0 +1,47 @@
+Pearl Jam
+The Blind Pig
+Ann Arbor, MI
+11.21.1991
+
+Source: Sonic Studios > Sony WM-D6 > cass-M > DAT-C
+Transfer: DAT-C > Archive Python DDS Drive > DAT2WAV 1.2 > WAV
+Conversion/Editing: WAV > Adobe Audition 1.0 
+	(48KHz -> 44.1KHz, Fade In/Out) > CDWav > FLAC
+
+
+**************************************
+**     THIS IS A ZERO-DAE SEED      **
+**   DO NOT EXTRACT FROM AUDIO CD   **
+** PRESERVE THE ORIGINAL FLAC FILES **
+**      DO NOT CONVERT TO MP3       **
+**************************************
+
+Setlist
+-------
+
+01. Intro
+02. Wash
+03. Once
+04. Even Flow
+05. State of Love and Trust
+06. Alive
+07. Black
+08. Deep
+09. Jeremy
+10. Why Go
+11. Porch
+12. I've Got a Feeling
+
+---------------------------------------------
+Total:                             [59:42.61]
+
+Technical Notes
+---------------
+
+This seed is being distributed with this text file, a set of FLAC fingerprints and the 
+shntool length report.
+
+Thanks to mfd for the DAT.
+
+Transferred by Dan Leehr (dan@theskyiscrape.com) 
+Compiled on 01/09/05.

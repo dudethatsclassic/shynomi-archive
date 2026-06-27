@@ -1,0 +1,28 @@
+Band name: Pearl Jam
+Date: May 2, 1992
+Venue: University of Kansas
+Location: Lawrence, Kansas, USA
+Event: Day on the Hill
+Type: Tradeable
+Media: 1 DVD
+Version: Right Cam
+
+Video format: NTSC
+Aspect ratio: 4:3
+Total running time: 45m-35s
+Chapters: Yes
+Menus: Yes
+Number of camera angles: 1
+Number of audio selections: 1
+Track listing:
+
+01 Why Go
+02 Alive
+03 Improv (Woke Up)
+04 Black
+05 State of Love and Trust
+06 Once
+07 Porch/(Improv)
+08 Improv
+09 Garden
+10 Leash

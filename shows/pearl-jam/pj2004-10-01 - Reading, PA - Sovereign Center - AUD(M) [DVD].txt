@@ -1,0 +1,64 @@
+Pearl Jam » 2004.10.01 - Sovereign Center - Reading, Pennsylvania, USA
+
+
+Band name: Pearl Jam
+Date: October 1, 2004
+Venue: Sovereign Center
+Location: Reading, Pennsylvania, USA
+Event: Vote For Change
+Media: 2 DVDs
+Version: Left Cam
+Filming type: Audience
+Generation: Master
+Lineage: MiniDV Master > Firewire > Final Cut Pro 4.5 > DVD Studio Pro 3
+Video format: NTSC
+Aspect ratio: 16:9
+Total running time: Length disk 1: 01h-00m-14s + disk 2: 01h-07m-21s
+Chapters: Yes
+Menus: Yes
+Number of camera angles: 1
+Number of audio selections: 2
+Track listing:
+
+Love Boat Captain
+Animal
+Brain Of J.
+Do The Evolution
+Nothing As it Seems
+Insignificance
+American In Me
+Gimme Some Truth
+Given To Fly
+1/2 Full
+Sad
+Go
+Soon Forget
+Small Town
+Masters Of War
+Nothingman
+Crazy Mary
+Last Kiss
+Daughter
+Bleed For Me
+The New World
+Alive
+Baba O'Riley
+Yellow Ledbetter
+Extras and bonus material:
+Pre-opener: (07m-50s)
+Don't Be Shy
+Growin' Up
+
+
+Notes and comments:
+Resampling on the Schoeps and CSB sources. All other audio sources taken at their native 48k. Occasional dropped frame and blocky artifacting on the left side of the screen. You can see a little bit of this on the dvd, mostly on disc one, but it's not too bad. Most of LBC and Animal are cut and filled in with a slideshow. There is a small cut while Eddie's talking during the first encore break that's left black and about a minute and a half cut during Alive that's filled with a still.
+
+Audio Sources:
+
+Pre-set:
+Stereo: Geffel m20 cardioid caps > jklabs dvc III > m1
+Dolby Digital 5.1: [Geffel m20 cardioid caps > jklabs dvc III > m1] + [csb > d-8(48) > spdif > peak(44) > .wav > xact > shn]
+
+Main Set:
+Stereo: Schoeps > DAT
+Dolby Digital 5.1: [Schoeps > DAT] + [Geffel m20 cardioid caps > jklabs dvc III > m1]

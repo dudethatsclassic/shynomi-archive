@@ -1,0 +1,50 @@
+Artist: Pearl Jam
+
+Date: October 06, 1991
+
+Venue: Palladium, Hollywood, California
+
+Source: Pre-FM Soundboard Recording
+
+Lineage: Original Silver Bootleg > EAC > WAV > FLAC
+
+Size: 198 MB FLAC
+
+Quality: Excellent
+
+
+setlist:
+
+001 Wash
+002 Once
+003 Even Flow
+004 Alive
+005 Jeremy
+006 Why Go
+007 Porch
+
+
+Notes: Opened for Alice and Chains and Soundgarden.
+
+There has been some debate as to whether this is a capture of the FM broadcast or a Pre-FM recording. A look at the spectal
+image shows no trace of FM 16mHz carrier tone and the frequency does not drop off until well past 20K. My bet is Pre-FM.
+Either way it's a fabulous artifact of a very early show. Original text file included.
+
+ffp:
+pj1991-10-06t01.flac:e794625a115478e25f799766133d0666
+pj1991-10-06t02.flac:91582e7261ea4c08b49887d0c1b3ed1e
+pj1991-10-06t03.flac:c2093ad60f2fb5c5fba62109d90320ba
+pj1991-10-06t04.flac:aa6993aebcd03c1d9e6cb76aa9b4ac43
+pj1991-10-06t05.flac:e148a1d6228f53c69706f9c3d8b47b59
+pj1991-10-06t06.flac:2a5e9cbd2107ee96f98f4b822adcf5c4
+pj1991-10-06t07.flac:5fe710dbd1df0492ca3ec40f7a0b15b2
+
+    length     expanded size    cdr  WAVE problems  fmt   ratio  filename
+      3:43.00        39337244 B   ---   --   ---xx   flac  0.6404  pj1991-10-06t01.flac
+      3:41.50        39102044 B   ---   --   ---xx   flac  0.6241  pj1991-10-06t02.flac
+      5:12.25        55095644 B   ---   --   ---xx   flac  0.6236  pj1991-10-06t03.flac
+      5:31.30        58459004 B   ---   --   ---xx   flac  0.6296  pj1991-10-06t04.flac
+      5:06.45        54084284 B   ---   --   ---xx   flac  0.6315  pj1991-10-06t05.flac
+      3:58.50        42100844 B   ---   --   ---xx   flac  0.6224  pj1991-10-06t06.flac
+      3:39.25        38690444 B   ---   --   ---xx   flac  0.6949  pj1991-10-06t07.flac
+    30:53.00      326869508 B                                0.6363  (7 files)

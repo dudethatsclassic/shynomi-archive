@@ -1,0 +1,14 @@
+Pearl Jam
+November 14/15, 2002
+Late Show with David Letterman - Ed Sullivan Theater, Manhattan, New York City
+
+Source: PCM (2.0) > FLAC (2.0)
+
+Lineage: NTSC Broadcast > MPEG2 Transport Stream (*.ts) > PCM - BluRay (Pearl Jam TV Master Archive)  > FLAC
+
+Source Contributor: Steve D
+
+FLAC Conversion: Kakashisensei
+
+01 I Am Mine
+02 Save You

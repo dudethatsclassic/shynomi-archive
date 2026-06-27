@@ -1,0 +1,35 @@
+Pearl Jam
+04-06-92
+Cumnock Hall
+Lowell, MA
+
+Source: UM > UR > Cassette > DAT > .wav > .shn
+
+DAT > .wav > .shn: Meghan House (mehouse1@yahoo.com) 
+
+Equipment: Archive-Python DDS DAT Drive > DAT2WAV > CEP (48kHz > 44.1kHz, fade in/out) > CDWAVE > mkwACT
+
+01. Oceans
+02. Improv
+03. Even Flow
+04. Why Go*
+05. Jeremy
+06. Deep
+07. Alive
+08. Black
+09. Happy Birthday
+10. State of Love and Trust
+11. Improv (I'm not crazy)*
+12. Once
+13. Educating the Audience
+14. Porch
+15. Encore Break
+16. Garden 
+
+*  There is a dropout between Why Go and Jeremy.
+** Beginning is cut. 
+
+
+*************************************
+***  PLEASE DO NOT ENCODE TO MP3  ***
+*************************************

@@ -1,0 +1,106 @@
+Pearl Jam
+Fenway Park
+Boston, MA
+September 17, 2024
+
+** 24 BIT **
+
+Source:  Schoeps MK4V radial cardioids (in a Kangol hat) > Nbob actives > Baby Nbox > Roland R-05 @ 24 bit/48 kHz
+Mastering:  .WAV's > iZotope RX11 Advanced v11.0.1.3871 (De-Click) > Sound Forge Pro 14.0 Build 140 [CoreFx cFx_Limiter (lower crowd screams), minor edits, normalize, & fades, Boz Digital 
+Labs T-Bone2 plug-in (tilt EQ)] > CDWav (tracking) > Trader's Little Helper (level 5) > FLAC > TagScanner 6.1.17 (tagging)
+Location:  3rd row of the roof boxes in right field
+Recorded by:  Jim Kelly (musicjaime)
+Mastered by:  Dennis Orr
+
+Setlist: (2:30:25)
+01 Intro
+02 Elderly Woman Behind The Counter In A Small Town
+03 Even Flow
+04 Daughter (with "Monkey Gone to Heaven" tease)
+05 Animal
+06 Save You
+07 Chat & Tuning
+08 Immortality
+09 Corduroy
+10 React, Respond
+11 Chat
+12 Running
+13 Not For You (with "Modern Girl" tease)
+14 Wreckage
+15 Chat
+16 Untitled
+17 Present Tense
+18 Won't Tell
+19 Chat & Tuning
+20 Superblood Wolfmoon
+21 Once
+22 Black
+23 Fuckin' Up
+24 Porch
+25 Encore Break
+- Encore -
+26 Chat & Tuning
+27 I Am A Patriot (1)
+28 Chat
+29 Falling Slowly (2)
+30 Why Go
+31 Waiting For Stevie
+32 Band Intros
+33 Crazy Mary
+34 Unthought Known
+35 Do The Evolution
+36 Alive
+37 Baba O'Riley
+38 Yellow Ledbetter (with "More Than A Feeling" tease)
+39 Outro & Band Intros
+
+(1) Eddie solo
+(2) with Glen Hansard, Eddie & Glen only
+
+Eddie Vedder – lead vocals, rhythm guitar, & harp
+Mike McCready – lead guitar & backing vocals
+Stone Gossard – guitars & backing vocals
+Jeff Ament – bass & backing vocals
+Matt Cameron – drums, percussion, & backing vocals
+Boom Gaspar – keyboards, piano, & organ
+Josh Klinghoffer – guitar, percussion, keyboards, drums, & backing vocals
+
+PearlJam2024-09-17t01.flac:9f8d0cd91b9369c33cd8f04abd12d09f
+PearlJam2024-09-17t02.flac:3cdbd5beaa67cd74b2f7a19dcddaff06
+PearlJam2024-09-17t03.flac:6053cd3ec932aaf70e99298f5e52bd96
+PearlJam2024-09-17t04.flac:4d6bd0ad9ee9fb8202a93a4f50519c05
+PearlJam2024-09-17t05.flac:83bc3de8bb6cfa49bf76f13b10445312
+PearlJam2024-09-17t06.flac:e07edd48cf9932c56a78797b48f0f38a
+PearlJam2024-09-17t07.flac:e7c9136f1257a09e16242457990b0cb2
+PearlJam2024-09-17t08.flac:d903e003fbdc854396941a181df4d89a
+PearlJam2024-09-17t09.flac:6f51c136b816c84a76c065aa31e05bcc
+PearlJam2024-09-17t10.flac:5ebb93be0c641f06aa7011f445ede499
+PearlJam2024-09-17t11.flac:cdf12653a03cfb27926eb5ab78127a0a
+PearlJam2024-09-17t12.flac:057e202cfeba6f99e601c9addf9a0b8f
+PearlJam2024-09-17t13.flac:33987107ac95e87cf5b8dff71f6218ef
+PearlJam2024-09-17t14.flac:9d21fcab61c329a14a12a81a9f41fc92
+PearlJam2024-09-17t15.flac:6e19e5a3c413f897c323aa9b9a79b408
+PearlJam2024-09-17t16.flac:bfbd1deb5e3724022b45ca6aaecd442c
+PearlJam2024-09-17t17.flac:12e4437c06bd1083f181ef0869b45702
+PearlJam2024-09-17t18.flac:c29c9c5eac37d0277bb0b70a8c08899c
+PearlJam2024-09-17t19.flac:244a4c943eec14572b7571b3a44cecbf
+PearlJam2024-09-17t20.flac:79323093013b1d601c2099b83ab3feaf
+PearlJam2024-09-17t21.flac:c443b53e05fa8f85cc920c0a652dc508
+PearlJam2024-09-17t22.flac:1d9dae8e8b1fea1ddb4c3e4a43ba8d39
+PearlJam2024-09-17t23.flac:d7b1d382f0f30a10f3ffa86542deb450
+PearlJam2024-09-17t24.flac:be910e3d77f9392d1e3d2d785db3fa8e
+PearlJam2024-09-17t25.flac:ad33e5f04cf514a0c73fe8f74554e702
+PearlJam2024-09-17t26.flac:194d237b14558c1cc270b808fef7bf83
+PearlJam2024-09-17t27.flac:0423ec114b2394e4360739f678e44c66
+PearlJam2024-09-17t28.flac:7880d0b4ac01138e8c863f4eb415bb1b
+PearlJam2024-09-17t29.flac:5bb70e920ff71462eabe6e37a56b398e
+PearlJam2024-09-17t30.flac:ec0d1ec9e3144141dfcb4bcf0b13c0ad
+PearlJam2024-09-17t31.flac:bb959011ab64b77d48b017f2cf5d7702
+PearlJam2024-09-17t32.flac:4deb8d9c9c0675b388ac3ff10458bdeb
+PearlJam2024-09-17t33.flac:25e470bba801dc53d130ef964c7429c5
+PearlJam2024-09-17t34.flac:b6d7d0b6c3e2388af0621be27f6b62d1
+PearlJam2024-09-17t35.flac:1b57f3784bf5a49c4706da91b843e0e9
+PearlJam2024-09-17t36.flac:a3bd965896aedfc87a126713d6e2be77
+PearlJam2024-09-17t37.flac:9d5598e492e2ef10f7992204082e6c56
+PearlJam2024-09-17t38.flac:03f2c7aa545b7fd234eee7ec11bb2004
+PearlJam2024-09-17t39.flac:c48d3448a7b94119b666096b6795e163

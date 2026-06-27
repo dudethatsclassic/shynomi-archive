@@ -1,0 +1,41 @@
+Pearl Jam
+The Palladium
+Hollywood, CA
+05.13.1992
+
+Source: Video > Hi8 (1)
+Transfer: Hi8 (1) > Firewire > WAV
+Conversion/Editing: WAV> dEQ > CD Wave > FLAC
+
+Setlist
+-------
+
+01. Intro
+02. Oceans
+03. Even Flow
+04. Improv/Why Go
+05. Jeremy
+06. Deep
+07. "Knocked Out"
+08. Alive
+09. Black
+10. Improv
+11. State of Love and Trust
+12. Don't Try to Get Inside My Head Improv
+13. Once
+14. Crazy Improv
+15. Porch
+16. Encore Break
+17. Garden
+18. "Thank Yous"
+19. Rockin in the Free World (cut)
+
+Technical Notes
+---------------
+
+This is sourced from a 1st gen hi8 tape, which is a cleaner
+lineage than other circulating video copies.  The sound is still
+not terrific, but it's a scorching 1992 show full of improvs.
+RitFW is cut on the master.
+
+EQ by FGE, transfer and txt by DCL 09/05/04

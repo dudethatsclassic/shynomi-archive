@@ -1,0 +1,56 @@
+Pearl Jam
+June 23, 1998
+Fiddler's Green
+Englewood, CO
+
+
+2 source mix: [Schoeps MK5(card) -> Rmod -> SBM-1 -> Sony TCD-D7 -> DAT] +
+	      [Nakamichi CM700 -> Sony TCD-D8 -> DAT] => mixed via Pro-Tools => DAT(c) 
+	      
+Lineage: DAT(c) 44khz -> FLAC
+Transfer: DA-20 -> Monster coax -> DiO 2496 -> CEP 2.1 -> CDWave -> FLAC
+
+
+
+Disc I
+01 Long Road
+02 Corduroy
+03 Hail Hail
+04 Brain of J
+05 Dissident
+06 Given to Fly
+07 MFC
+08 Habit
+09 In Hiding
+10 Even Flow
+11 Daughter/(Monkey Gone to Heaven)
+12 Pilate
+13 Off He Goes
+
+
+Disc II
+01 I Got Shit
+02 Do the Evolution
+03 Alive
+04 Black
+05 Ed talking
+06 Wishlist
+07 Rearviewmirror
+08 Better Man
+09 Leaving Here
+10 I Am a Patriot (Ed solo)
+
+
+
+Notes: There are a couple of small flaws during the first 2 songs which are from the
+	original mix and have been fixed as much as possible.
+
+There are no CDR generations in the lineage of this source.  
+
+
+
+Thanks to DATfly for the tape.
+
+Transfer by BLG
+compiled on 06-12-05
+

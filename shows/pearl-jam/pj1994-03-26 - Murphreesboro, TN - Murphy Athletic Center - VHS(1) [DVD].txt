@@ -1,0 +1,47 @@
+Pearl Jam » 1994.03.26 - Murphy Athletic Center - Murfreesboro, Tennessee, USA
+
+
+Band name: Pearl Jam
+Date: March 26, 1994
+Venue: Murphy Athletic Center
+Location: Murfreesboro, Tennessee, USA
+Tour name: Vs
+Type: Tradeable
+Media: 1 DVD
+Version: Left Cam
+Filming type: Audience
+Generation: 1st
+Lineage: 1st gen VHS > Sony DCR-TRV460 > Digital8 > Firewire > AVI > AviSynth filter (PixieDust) > CCE > MPEG-2
+Video format: NTSC
+Aspect ratio: 4:3
+Total running time: 1h-33m-21s
+Chapters: Yes
+Menus: Yes
+Number of camera angles: 1
+Number of audio selections: 2
+Track listing:
+
+Rearviewmirror
+Whipping
+Go
+Even Flow
+Dissident
+Deep
+Jeremy
+Animal
+Glorified G
+Daughter/(Improv)(WMA)
+Blood
+Not for You
+Small Town
+Alive
+Porch/(Monkey Gone to Heaven)
+E:
+Dock of the Bay [w/ Steve Cropper on guitar]
+Rockin' in the Free World [w/ Steve Cropper on guitar]
+Indifference
+Notes and comments:
+There are small cuts between most songs, during Not For You, and at the end of Porch.
+
+Audio: (5.1 front) SS > D7 > DAT > SHN > WAV > dEQ
+

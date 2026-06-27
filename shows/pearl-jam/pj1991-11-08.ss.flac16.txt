@@ -1,0 +1,27 @@
+Pearl Jam
+November 8, 1991
+CBGB
+New York, NY
+
+Source: SS/D3
+Conversion: Tascam DA-20mkii(DDC-?) > M-Audio Delta Audiophile 2496 > Cool Edit Pro (32kHz WAV) > Adobe Audition (editing)
+FLAC: WAV > CD Wave (track splitting) > FLAC
+Notes: From the collection of Arnold Leal. Transferred by Andrew Fogelsong in April 2021. Due to left channel dropping out completely from 26:36 to 27:16, copied right channel to left channel for this portion of recording - this occurs after Alive has ended through the beginning of Once, so it should not be noticeable. These are 16bit/32kHz files and you will need to resample to 16bit/44.1kHz if burning to CD.
+
+********************************************************************************
+SPREAD THE MUSIC
+********************************************************************************
+
+1. (intro)
+2. Black
+3. Even Flow
+4. Why Go
+5. Jeremy
+6. Alive
+7. Once
+8. Porch
+9. I've Got A Feeling [The Beatles]
+
+
+
+For additional live recordings I have taped, transferred and/or traded for, see my Live Music Archive uploads - https://archive.org/details/@fogelsong

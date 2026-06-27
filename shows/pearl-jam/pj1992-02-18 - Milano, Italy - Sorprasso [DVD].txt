@@ -1,0 +1,27 @@
+Pearl Jam
+
+Live at the Sorpasso, 
+Milano, Italy 2-18-92 
+Gspot Tango:MPEG-2 Program Stream << { 1 vid, 1 aud }
+Sys Bitrate: 10080 kb/s VBR
+Audio: MPEG-1 Layer 2 CBR 0xc0:48000Hz  224 kb/s tot , Stereo  
+Video: Frames/s 25.000 kbps 8315 PROG PAL 720x576 4:3
+
+Set List: 
+Release
+Even Flow
+Once
+State Of Love And Trust
+Alive
+Black
+Deep
+Why Go
+Porch
+(Attenzione Jam)
+Jeremy
+Breath
+I've Got A Feeling
+(Hunger Strike)
+Leash
+Run Time: 73 mins
+Thank You metro_cubo 

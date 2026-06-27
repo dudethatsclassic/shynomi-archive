@@ -1,0 +1,45 @@
+Pearl Jam
+2007-06-29
+Rock Werchter festival
+Werchter, Belgium
+
+Source: Sony ECM-719 > Sony Hi-MD RH10 (PCM mode) > USB / Sonic Stage > WAV > Adobe Audition 2.0 (hard limiting on loud hand-clapping, EQ, volume boost, track splitting and normalizing) > shntool (fix SBE) > FLAC
+Location: ~30 meters away from stage, in front of right speakers (Stone Gossard's side)
+Taper: XWayne
+
+----------------------------------------------
+****DO NOT SELL COPIES OF THIS RECORDING!*****
+----------------------------------------------
+
+01. Intro (Master/Slave)
+02. Go
+03. Animal
+04. Brain of J.
+05. Worldwide Suicide
+06. Once
+07. Dissident
+08. Do the Evolution
+09. Gods' Dice
+10. Corduroy
+11. Small Town
+12. Why Go
+13. Given to Fly
+14. Even Flow
+15. Life Wasted
+16. Porch
+17. Encore Break
+18. No More
+19. Smile
+20. Better Man
+21. Alive
+22. Encore Break
+23. Baba O'Riley (w/ guest Josh Homme)
+-------------------
+Total time: 1:32:00
+
+Notes: last show of the European 2007 tour. It is a rather classic festival set with rockers (Go, Animal, Why Go), crowd favorites (Do the Evolution, Given to Fly, Better Man, Alive), but also some surprises like Gods' Dice and Smile. Josh Homme guests on Baba O'Riley for the "Don't Cry..." line. Band is in good spirits with a chatty Ed, certainly helped by some Josh Homme medicine. He invites the happy campers to make a lot of babies...
+
+Recording notes: festivals are very tricky for taping, and this one verifies this rule. I have tried to find the best possible spot, in front of a set of speakers, but I couldn't make my way as near of the stage as I had wished, trying to avoid loud chatters and bad singers. Unfortunately, I took a spot near a rhythm-challenged clapper, who enjoyed a lot the end of the main set. As a result, many claps / pops can be heard from Why Go to Porch. I've tried to remove them, but I gave up after spending too much time on Why Go. If anyone has the courage to correct this recording, feel free to do. Singalongs were not that strong (the beginning of Better Man is almost crowdless), except for No More and Alive, where luckily people were in tune !
+Also, the mix was stereo, and as Pearl Jam guitars are well-separated and I was on the right, McCready's guitar is low in the mix, especially for the solos. I have used an EQ filter and volume boost to increase the music volume compared to the crowd cheers / talk / claps. You can hear some kind of phase effect, especially on the cymbals, it must come from the wind affecting the festival sound.
+
+If other sources appear for this show (there's already a 6 song webcast from Corduroy to Life Wasted), a matrix could be done. I keep the raw recording on my HD.

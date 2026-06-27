@@ -1,0 +1,49 @@
+
+Pearl Jam
+Crisler Arena: Ann Arbor, MI
+March 20, 1994
+
+Source: Core Sound Binaurals > Sony TCD-D7
+Lineage: DAT clone @ 48kHz > FLAC
+Transfer (BL/tapeworm48): Sony TCD-D100 > 7pin > Sound Blaster > Adobe Audition > Audacity (amplify) > CDWave > TLH
+Edits/EQ: +4.5dB
+
+Setlist:
+
+01 Intro
+02 Jeremy
+03 Go
+04 Animal
+05 Dissident
+06 Even Flow
+07 Glorified G
+08 Daughter / (Improv / W.M.A.)
+09 Breath
+10 State of Love & Trust
+11 Last Exit
+12 Garden
+13 Why Go?
+14 Deep
+15 Alive
+16 Porch
+17 -encore break-
+18 -Ed speak-
+19 Nothingman
+20 Three Little Birds [Bob Marley]
+21 Yellow Ledbetter
+22 Black
+23 Rearview Mirror
+24 Not For You
+25 Blood
+26 -encore break 2-
+27 -Ed speak-
+28 Indifference (cuts out)
+
+Notes: Live debut of 'Nothingman'. Last song cuts out per all circulating versions. Transferred in 2020 from a 48kHz DAT clone, however, from reviewing the spectrum plot, it seems that this clone may have been tranferred over an analog cable somewhere upstream. This appears to be typical of atleast two versions of this source that I reviewed. Raw transfer with no fades or EQ.
+
+Archive: DAT clone was transferred @ 48kHz and FLAC'd with cue sheet. 
+
+Transferred by tapeworm(48) 
+Txt file compiled on 11/16/2020
+
+*** DO NOT DISTRIBUTE IN LOSSY FORMATS. DO NOT SELL THIS RECORDING, TRADE IT FREELY *** 

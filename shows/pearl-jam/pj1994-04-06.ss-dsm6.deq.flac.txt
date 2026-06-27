@@ -1,0 +1,50 @@
+Pearl Jam
+04-06-94
+Civic Center
+Springfield, MA
+
+Taper: KT
+Source: Sonic Studios (DSM-6) > Sony TCD-D3 > DAT1 32khz
+Transfer: DA-20 > Monster coax > DiO 2496 > Soundforge 6.0 (resample to 44.1) > CDWave > FLAC
+Edit: FLAC > WAV > dEQ (CEP 2.0) > SHN
+
+Disc I
+01 Rearviewmirror
+02 Whipping
+03 Go
+04 Animal
+05 Dissident
+06 Even Flow
+07 Glorfied G
+08 Daughter/(Hate the Police)/(WMA)/(Androgynous Mind)
+09 Why Go
+11 Deep
+11 Rats
+12 Last Exit
+13 State of Love and Trust
+14 Black
+15 Alive
+16 Porch
+
+Disc II
+01 Ed talking
+02 Not For You
+03 Blood
+04 Yellow Ledbetter
+05 Once
+06 Improv (Out of My Mind)
+07 Improv (A Bit Too Much)
+08 My Generation
+09 Small Town
+10 Rockin' In the Free World
+11 Spin the Black Circle
+
+
+Notes: Both encore breaks were edited out on the DAT.  This recording is the source of 
+	the 'Alive' bootleg which has circulated through the PJ community. Sound fluctuates
+        due to movement of taper.  Levels were adjusted in an attempt to even this out.
+
+
+Transfer by BLG
+Edit by FGE
+compiled on 08-07-04

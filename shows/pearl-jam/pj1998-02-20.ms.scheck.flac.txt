@@ -1,0 +1,39 @@
+Pearl Jam
+02-20-98
+Alexander Baldwin Amphitheatre
+Maui, HI
+SOUNDCHECK
+
+Source: Marcsounds -> Sony TCD-D8
+Generation: DAT-M -> DAT(2) 48khz -> FLAC
+Transfer: DA-20 -> Monster coax -> DiO 2496 -> Soundforge 6.0
+	(resample to 44.1) -> CDWave -> FLAC frontend -> FLAC
+
+
+Disc I
+01 drums 
+02 various riffs, etc. (Last Exit, MFC, Around the Bend, Betterman) 
+03 Long Road 
+04 Off He Goes 
+05 Red Mosquito 
+06 Corduroy 
+07 Wishlist 
+08 MFC
+
+Disc II
+01 Oceans 
+02 Jeremy 
+03 Alive
+
+
+
+Notes: This is the complete 92 minute soundcheck and includes about 20 minutes 
+	of noodling, various riffs, etc. that were edited out so it would fit 
+	on 1 CDR. 
+
+
+
+Thanks to cps for the DATs.
+
+Transfers by BLG
+compiled on 12-05-04

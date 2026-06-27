@@ -1,0 +1,88 @@
+Pearl Jam
+BJCC Convention Center Arena
+Birmingham, AL
+September 3, 1998
+
+** 16 BIT **
+
+Source:  Sonic Studios DSM-6P w/3-way lo-cut filter, position unknown (most likely @ 80hz, middle setting) > Sony WM-D6 
+Transfer:  Master cassettes (Maxell XLII-S) > Denon 790R > Kenwood A-522 amplifier > Kenwood GE-622 Equalizer > .WAV @ 16 bit/44.1 kHz
+Mastering:  .WAV > Sound Forge Pro 11.0 (Build 299) [iZotope Mastering Suite (declick); minor edits, normalize, & fades] > CDWav tracking) >                Trader's Little Helper (level 5) > FLAC > TagScanner 6.0.18 (tagging) 
+Location:  Sec: FLR  Row: 4  Seat: 37 (Stone's side)
+Recorded & transferred by:  Steve "ballsdeep" Hagar
+Mastered by:  Dennis Orr
+
+Setlist:
+01 Release
+02 Hail Hail
+03 Animal
+04 Given To Fly
+05 Dueling Banjos (tease) >
+06 Corduroy
+07 Immortality
+08 Wishlist
+09 Go
+10 Daughter (with Androgynous Mind and Stuff And Nonsense teases)
+11 Footsteps
+12 Even Flow
+13 Jeremy
+14 Faithful
+15 Brain Of J.
+16 Chat
+17 Better Man
+18 Rearviewmirror
+19 Porch
+20 Encore Break
+- Encore - 
+21 Elderly Woman Behind The Counter In A Small Town
+22 Leatherman
+23 Do The Evolution
+24 Alive
+25 Black
+26 Baba O'Riley
+27 Crowd
+
+Eddie Vedder - lead vocals, harp, & acoustic guitar
+Mike McCready - lead guitar & backing vocals
+Stone Gossard - rhythm guitar & backing vocals
+Jeff Ament - bass & backing vocals
+Matt Cameron - drums & percussion
+
+Show Notes: 
+This show was a welcome relief after the Atlanta debacle, where I had a ticket to the show but dropped it ***under a car on the way in***, then spent 3/4 of the show looking for it. This show was taped from the 4th row, Stone's side. The version of "Porch" from this show really snagged my earholes. Overall, it's a great set taped from a great spot.
+
+He may not be given to fly, but his name is Dennis. Give him thanks for taking what's in my closet and putting it in an easily consumable form. I just push buttons and shit. And there's more to come. Much, much more.
+
+---ballsdeep OUT!
+
+Mastering Notes:
+Tape flip during the applause after "Daughter" - seamlessly spliced, no music lost
+Tape flip during the "Encore Break" applause
+
+pj1998-09-03t01.flac:1d12c808c39ac3f3a764071cd2d82608
+pj1998-09-03t02.flac:c6042f47212dc24c229537a5312a3771
+pj1998-09-03t03.flac:04c7f59795511394e4aad8844527577b
+pj1998-09-03t04.flac:d62226236446fc684bff308a38193000
+pj1998-09-03t05.flac:78a47325f0c3b23145ea2579e486f6cb
+pj1998-09-03t06.flac:49ed04c47c2f07d50ad0049df86f7aaa
+pj1998-09-03t07.flac:d54e23f554cbdb49fa1a2ffdbde256a1
+pj1998-09-03t08.flac:fa658387ed33bad8fddb327176645b60
+pj1998-09-03t09.flac:a70dd50c11a9028efab266e6fa4950fd
+pj1998-09-03t10.flac:e6f0decca50e2593ee7a5397025a80c1
+pj1998-09-03t11.flac:f578996cf03444504f0c73dfdef7eab2
+pj1998-09-03t12.flac:04da0477caa099493ce2c8055f9c320b
+pj1998-09-03t13.flac:9762c6823b515ad63c61bd675a603f66
+pj1998-09-03t14.flac:19e473fa04e6c6ee4119e9bd53acd070
+pj1998-09-03t15.flac:b8fa0d479df215125848e8decb006004
+pj1998-09-03t16.flac:cfcefd20a357554ecad6e351fabb40f3
+pj1998-09-03t17.flac:088744ff8996c28dd1ff5a471cb8708e
+pj1998-09-03t18.flac:d2da7644e280cf5fd03f4621ed08f4fa
+pj1998-09-03t19.flac:ea4b8662d9e11da7bdfc67a5595b66eb
+pj1998-09-03t20.flac:ccf6ab6446c1a326135a88ec06fd61f5
+pj1998-09-03t21.flac:f9845a3c11575380576a7dafe9309177
+pj1998-09-03t22.flac:e34a85d39a57b4868ece9cd15a47a751
+pj1998-09-03t23.flac:199e8e6b3445fd0f1191d9a0ff90796b
+pj1998-09-03t24.flac:7cf13b7c931643e32186c3e1e2648104
+pj1998-09-03t25.flac:77d2c18cf77a3a3834e68f0f1ffca1ce
+pj1998-09-03t26.flac:f980f98600a4a4b3312eab795eeb0dec
+pj1998-09-03t27.flac:8f25e12d8147beefb9df86464e95c4b8

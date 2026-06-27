@@ -1,0 +1,99 @@
+Pearl Jam 
+"Lollapalooza"
+Grant Park
+Chicago, IL 
+2007-08-05
+
+Global Voodoo Productions
+NSTC
+16:9
+1 Dual Layer DVD9 + 1 DVD5
+2 Cam Mix - HD Source + Webcast
+
+Video: 
+Sources: Canon HV20 HD>Firewire>CCE>Premiere Pro + AT&T Blue Room webcast asf > Sony Vegas (convert to 16:9 DV AVI) > Final Cut Pro (editing) > Compressor (encode to MPEG2
+
+Audio: 
+Stereo: Itunes Audio + B&K 4021s (Hat) > EAA-PSP2 > Sound Devices 722t (24/96) 20' back from first relay stack on left + 16 bit DPA4023 > Sound Devices 722 @ 24/96 / Location: rear barrier of soundboard, ~ 100 ft. center 
++ AT U853 (CA 4.7k mod) > SP-SPSB-10 > M-Audio MT 24/96 / Transfer: MT 24/96 > USB > Adobe Audition 2.0 > CD Wave > FLAC Frontend [Level 6] + webcast>dak's wave editor>wav>flac + XM Radio>unknown 192k mp3s
+
+Dolby Digital 5.1
+Right & Left Front: 16 bit DPA4023 > Sound Devices 722 @ 24/96 / Location: rear barrier of soundboard, ~ 100 ft. center + I Tunes Audio
+Center & Sub: I tunes Audio 
+Rears: B&K 4021s (Hat) > EAA-PSP2 > Sound Devices 722t (24/96) 20' back from first relay stack on left + AT U853 (CA 4.7k mod) > SP-SPSB-10 > M-Audio MT 24/96 / Transfer: MT 24/96 > USB > Adobe Audition 2.0 > CD Wave > FLAC Frontend [Level 6] 
++ webcast>dak's wave editor>wav>flac + Xm Radio> Unknown 192k mp3
+
+SET LIST
+Why Go
+Corduroy
+Save You
+Do The Evolution
+Elderly Woman 
+Severed Hand
+Education
+Even Flow
+Given to Fly
+World Wide Suicide
+Lukin
+Not For You
+Daughter
+State of Love and Trust
+Wasted Reprise
+Alive
+Betterman
+Crazy Mary
+Life Wasted
+Rearviewmirror
+No More
+Rockin' in the Free World
+
+Bonus Material
+
+Ed at the Cubs Game
+Video/Audio Source: Canon HV20 HD>Firewire>CCE>Premiere Pro
+
+Ed with Kings of Leon - Slow Night, So Long
+Video: AT&T Blue Room webcast asf > Sony Vegas (convert to 16:9 DV AVI) > Final Cut Pro (editing) > Compressor (encode to MPEG2)
+Audio: 
+Dolby 5.1 
+Left & Right Front: Samsung Helix > XM > Samsung XM dock and 1/8th stereo out > Stereo RCA inputs on Edirol UA3-FX external mixer > Sound Forge 8.0 at 16-bit 44.1khz .WAVs > resampled to 48k AIFFs > Final Cut Pro + Webast Audio
+Center & Sub: Samsung Helix > XM > Samsung XM dock and 1/8th stereo out > Stereo RCA inputs on Edirol UA3-FX external mixer > Sound Forge 8.0 at 16-bit 44.1khz .WAVs > resampled to 48k AIFFs > Final Cut Pro
+Left & Right Rears: Webast
+Stereo: Samsung Helix > XM > Samsung XM dock and 1/8th stereo out > Stereo RCA inputs on Edirol UA3-FX external mixer > Sound Forge 8.0 at 16-bit 44.1khz .WAVs > resampled to 48k AIFFs > Final Cut Pro + Webcast
+
+Ed with Ben Harper  - Masters of War
+Video: AT&T Blue Room webcast asf > Sony Vegas (convert to 16:9 DV AVI) > Final Cut Pro (editing) > Compressor (encode to MPEG2)
+Audio:
+Dolby 5.1
+Left & Right Front: Webcast Audio + XM radio>Unknown Mp3
+Center & Sub: XM radio>unknown mp3
+Left & Right Rears: Webcast audio
+Stereo: Webcast audio + XM radio>unknown Mp3
+
+
+DVD5 Bonus Disc - Pearl Jam Lollapalooza 1080i HD Data Files
+
+Video: Canon HV20 HD>Firewire>1080i .m2t file
+Audio: Itunes official audio
+
+Files:
+Why Go
+Not For You
+State of Love & Trust
+No More**
+**actual audio from the camcorder
+
+Original HD 1080i files can play directly on a PS3, This will NOT play in your DVD player!
+
+Notes:
+
+Footage is shot from where jesus lost his shoes, Shaky at times but that is what happens when you have to hold the camcorder up over head to hit the stage. Please
+don't compress these files to lesser quality.
+
+Do NOT Sell
+Free Trade Only
+
+
+
+
+

@@ -1,0 +1,63 @@
+Pearl Jam
+Alexander & Baldwin Amphitheater
+Kahului, Hawaii
+February 20, 1998 (Night 1)
+Audience Analog Master
+
+Source: Sonic Studios DSM-6P w/ 3 way lo-cut, position unknown (most likely 80hz) > Sony WM-D6 (w/ Dolby B) > Maxell XL-IIS 100m master cassettes
+
+Transfer: Denon 790R > Kenwood A-522 amplifier > Kenwood GE-622 Equalizer > .WAV @ 16 bit/44.1 kHz
+
+Mastering:  .WAV > Sound Forge Pro 11.0 (Build 299) [iZotope Mastering Suite (declick); minor edits, normalize, & fades]
+
+Tracking: .WAV > Audacity 2.2.2 > xAct 2.45 (encode to FLAC level 8, align sectors, ffp)
+
+
+setlist:
+
+01. intro > Corduroy
+02. Hail Hail
+03. Brain Of J.
+04. Faithfull (first time played live)
+05. Red Mosquito
+06. Eddie makes a public service announcement
+07. Wishlist
+08. Even Flow
+09. MFC
+10. improv >
+11. Habit
+12. Better Man (small cut at start, first few notes missing)
+13. Jeremy
+14. Given To Fly
+15. Daughter
+16. Black
+17. In Hiding
+18. Eddie talkin'
+19. Do The Evolution
+20. Last Exit
+21. encore break
+22. Once
+23. crowd noise & Eddie talkin'
+24. Smile
+25. Yellow Ledbetter
+
+show notes:
+
+well, after PJ melted thy face opening for the Stones in November, and hearing they were playing Hawaii for 2 shows, it was kind of a no-brainer to hop on the Hawaiian Airlines flight in Anchorage in FEBRUARY to go to Hawaii for 10 days with the gf at the time to catch the opening dates of the "Yield" tour.
+
+
+a nice little lawn area nestled into the Maui Arts & Cultural Center in Kahului HI, for 2 days it was transformed into "grunge central" (Mudhoney opened, got one complete and one partial recording of them), with fans literally from all over the world converging on the islands to watch PJ whip up their onstage alchemy.
+
+I remember horrible wind, and while this recording *is* a bit washy (or, not up to my usual standards), it's still solid, and missing most of the 'whoosh' that I remember. Dennis said he didn't do any de-wind treatment; perhaps I'm thinking of night2 only (yes, it's coming....)
+
+all the other memories from these 10 days involve all of the horrible-yet-healthy things I did to the gf (like bang her on a black-sand beach...BIG no-no, it 'angers the gods')
+
+might as well have the gods saying "Fuck Hagar" too, no???   ;)
+
+
+so, yeah, THANK YOU Dennis, THANK YOU Dan, FUCK YOU Hagar........aaaaaaaaaaaand.........
+
+
+mahalo!
+
+---Team Deep is putting crankshafts to shame

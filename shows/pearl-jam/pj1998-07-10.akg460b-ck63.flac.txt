@@ -1,0 +1,96 @@
+Pearl Jam
+Cox Arena
+San Diego, CA
+07.10.1998
+
+Source: AKG460b + CK63 > Beyer pre-amp > Sony TCD-D8 > DAT (4th Row, right)
+Transfer: DAT-C > Archive Python DDS Drive > DAT2WAV 1.2 > WAV
+Conversion: WAV > Adobe Audition 1.0 (48KHz -> 44.1KHz, Fade In/Out) > CDWav > FLAC
+
+**************************************
+**     THIS IS A ZERO-DAE SEED      **
+**   DO NOT EXTRACT FROM AUDIO CD   **
+** PRESERVE THE ORIGINAL FLAC FILES **
+**      DO NOT CONVERT TO MP3       **
+**************************************
+
+Setlist
+-------
+
+Disc 1:                            [71:51.50]
+
+01. Intro			    [1:01.56]
+02. Long Road			    [5:51.33]
+03. Corduroy			    [4:45.71]
+04. Last Exit			    [2:37.21]
+05. Brain of J			    [2:50.72]
+06. Do the Evolution		    [3:50.07]
+07. Given to Fly		    [4:07.69]
+08. In Hiding			    [5:15.70]
+09. Rearviewmirror		    [6:43.67]
+10. Immortality			    [7:15.12]
+11. Wishlist			    [4:00.10]
+12. Nothingman			    [4:48.70]
+13. Spin the Black Circle	    [2:54.33]
+14. Even Flow			    [5:24.11]
+15. Daughter/(Roam)		    [6:27.22]
+16. "Beer and the B-52s"	    [1:26.49]
+17. MFC				    [2:29.52]
+
+Disc 2:                            [52:28.73]
+
+01. Alive			    [5:55.26]
+02. Hail, Hail			    [7:36.28]
+03. Encore Break 1		    [0:23.63]
+04. Jeremy			    [5:02.10]
+05. Go				    [2:57.17]
+06. Lukin			    [1:31.73]
+07. "A Suburban Tale"		    [0:20.72]
+08. Better Man			    [4:29.09]
+09. Leaving Here		    [2:55.63]
+10. Black			    [6:36.13]
+11. Rockin' in the Free World	    [8:13.15]
+12. Encore Break 2		    [0:22.29]
+13. Yellow Ledbetter		    [6:04.30]
+
+---------------------------------------------
+Total:                            [124:20.48]
+
+
+Technical Notes
+---------------
+
+Taper adjusted levels a little in the beginning of the show, and then a few songs in.  There
+is some clipping in the first few songs, but it's not audible.  Perfect extraction. The only 
+edits performed were a fade in at the beginning, fade out/in at encore 2 when the taper 
+paused his DAT, and fade out at the end of the show.  There are no fades between disc 1 and
+disc 2, so if you are somehow able to get the full first set onto a disc, it will still be
+seamless.
+
+This seed is being distributed with this text file, a set of FLAC fingerprints, a set of MD5
+sums for the extracted WAV files, and the SHNTOOL reports.
+
+
+Show Notes (from 5h)
+--------------------
+
+Tiny venue, poor sound, GREAT crowd, very ON performance with a few rough spots. 'Corduroy' 
+features a completely different intro, starting out with just guitar  and then the drums 
+build in. Ed skips the first verse of 'RVM' and repeats the second twice, and the second go
+round is excellent and the jam goes way out and comes back hard! Not a lot of chat, until 
+before 'Immortality' Ed says, "hometown boy, Matt Cameron." 'Wishlist' lyric changes: Ed 
+sings "as fortunate as YOU" and instead of "I wish I was the evidence, I wish I was the 
+grounds," he says "sound." At the end, he sings, "I wish I was a mountain, wishes can come 
+true, I wish I wish I wish I wish ... if you ever want to, do ..." (San Diego WAS where the 
+original PJ lyrics were written.) 'Even Flow' is humorously flubbed--he goes into the 
+chorus too soon but catches himself, and Mike's wicked solo is reeled back eventually by 
+Stone, with Ed noting, "that's Mike over there." 'Roam' is a B52s cover, with Ed noting is as 
+"... one of the deepest secrets they've hidden in their songs besides 'tin roof, rusted'" ;).
+'MFC' is introduced with, "If you gotta get out, get a small car." During 'RitFW,' he goes 
+off on a sarcastic political rant about how he's glad our politicians are out there 
+protecting us from flag burning ... no need to focus on problems like sewage being poured 
+into the oceans because we've got flag burners to deal with. Classic Ed intensity.  Mike 
+dedicates 'Yellow Ledbetter' to his dad.
+
+
+Transferred, converted, and text compiled by Dan Leehr (dan@theskyiscrape.com) on 05/23/04.

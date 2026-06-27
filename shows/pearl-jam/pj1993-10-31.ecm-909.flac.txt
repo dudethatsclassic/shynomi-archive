@@ -1,0 +1,42 @@
+Pearl Jam
+October 31, 1993
+Greek Theater: Berkeley, CA 
+Taper:		Unknown
+Source:		Sony ECM-909 > Sony WM-D3
+		CD > WAV > SHN: Rick Bendes (rarepj@hotmail.com, http://www.pearljamshn.com)
+Equipment:	Sony CDU571-Q 16X IDE > EAC v0.85 > MKW Audio Compression Tool Kit
+************************************
+***     DO NOT ENCODE TO MP3     ***
+************************************
+Disc 1:
+
+01 - Go                                             - 03:33
+02 - Animal                                         - 02:45
+03 - Why Go                                         - 03:43
+04 - Deep                                           - 04:39
+05 - Jeremy                                         - 06:53
+06 - Glorified G                                    - 03:55
+07 - Even Flow                                      - 05:26
+08 - Daughter                                       - 05:18
+09 - Alive                                          - 05:02
+10 - Dissident                                      - 04:15
+11 - Rearviewmirror                                 - 05:00
+12 - Small Town                                     - 04:02
+13 - State Of Love And Trust                        - 04:24
+14 - Porch                                          - 05:59
+Total:  65:01
+
+Disc 2:
+
+01 - Encore Break                                   - 00:35
+(Encore)
+02 - Blood                                          - 02:51
+03 - Once                                           - 06:00
+04 - Footsteps                                      - 04:16
+05 - Ed Talks                                       - 01:11
+06 - Alone                                          - 04:00
+07 - Fuckin' Up                                     - 05:08
+08 - Sonic Reducer                                  - 03:52
+09 - Baba O'Riley                                   - 04:48
+10 - Indifference                                   - 04:40
+Total:  37:26

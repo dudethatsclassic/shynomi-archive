@@ -1,0 +1,97 @@
+Notes by BLG:
+I finally got a pre-bootleg DAT-M transfer of 09/16/1996 from Key Arena.
+This is the source that was booted on the 'Dangerous Minds' silver CD.
+It's the AKG 451 + Sonics > on-site Mixer > DAT source. The Taper was
+wearing a bicycle helmet with all the mics attached.
+---------
+Pearl Jam
+September 16, 1996
+Key Arena
+Seattle, WA
+
+RO master
+
+Ron's notes about the gear:
+The equipment utilized for this show is as follows:
+(2) AKG 451's, Sonic Studios DSM06 mics, Boss BX-4 mixer mixed into
+stereo at 90%/10% ratio into a Sony TCD-D7 DAT.
+Seated in far front of 100 level, 20 rows up, right of stage.
+
+My note--Ron had his TCD-D7 DAT deck modded by Leonard Lombardo of Sonic
+Studios. I believe it was the MOD2.
+Leonard posted this on Tapersection: So from about 93-94' onward, Sonic
+Studios did all MOD-2/3 mic powering Sony deck upgrades on D7/8/100 and
+M1 DAT models so that DSM mics could be directly deck mic-input powered
+with no mic performance issues. MOD-2/3 upgrades did have a secondary
+effect of reducing input noise by 1-2 dB, but this improvement was mostly
+not audible or advertised. (There's more, but I didn't post all
+of it--http://taperssection.com/index.php?topic=109703.0).
+His mod links: http://www.sonicstudios.com/pa_x.htm#mod-2.
+
+Transfer: DATM > Sony PCM-R500 > Ultramatch SRC2000 > iRiver H120 > USB2 > Computer Hardrive > Adobe Audition 6.0 (only to cut the Fastbacks segment off since I transferred both at the same time).
+
+
+BLG Notes: balanced left and right, enhanced lows, and tracked.
+
+
+
+Setlist:
+01 Intro
+
+02 Long Road
+
+03 Hail Hail
+
+04 Who You Are
+
+05 Animal
+
+06 Last Exit
+
+07 In My Tree
+
+08 Habit
+
+09 Not For You
+
+10 Daughter
+
+11 Dissident
+
+12 Even Flow
+
+13 Tremor Christ
+
+14 Go
+
+15 Lukin
+
+16 Whipping
+
+17 Corduroy
+
+18 Immortality
+
+19 Jeremy
+
+20 Black
+
+21 Red Mosquito
+
+22 Alive
+
+23 -encore break/banter-
+
+24 Off He Goes
+
+25 Mankind
+
+26 Rearviewmirror
+
+27 Leaving Here
+
+28 Yellow Ledbetter
+
+
+
+Total Time: 126:02

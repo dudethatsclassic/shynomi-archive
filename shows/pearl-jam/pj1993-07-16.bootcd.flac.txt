@@ -1,0 +1,56 @@
+Title  : Against
+Label  : Kiss The Stone [KTS 221]
+Venue  : Tracks 1-14: 1993/07/16 Ahoy, Rotterdam, Netherlands
+Sound  : A +
+Length : 73:56
+
+Lineage: Silver CD > EAC v0.99 > FLAC
+
+
+Tracks : 
+01. Release                    
+02. Why Go?                    
+03. Deep                       
+04. Jeremy                     
+05. Daughter/W.M.A.                     
+06. Garden                    
+07. Even Flow                  
+08. Go                         
+09. Alive
+10. Black
+11. Fuckin' Up
+12. Leash
+13. Sonic Reducer
+
+Bonus tracks:
+14. State Of Love & Trust*
+15. Baba O'Riley*
+16. Animal (w/ Neil Young)*
+17. Rockin' In The Free World (w/ Neil Young)*
+
+* Bonus Tracks:
+Tracks 14-15: 1992-10-09 MTV "Singles" Premier Party, Park Plaza Hotel Ballroom, Los Angeles, CA 
+Tracks 16-17: 1993/09/02 MTV Music Awards, Universal Amphitheater, Universal City, CA 
+
+Kiss The Stone Records (KTS) is a popular bootleg recording company that has released many famous bootlegs by bands such as Nirvana, Pearl Jam and Nine Inch Nails. The company was based in Italy, where the law allowed the company to market bootlegs as long as it placed royalties for the artists in an escrow account. Most artists wouldn't bother collecting, either because they didn't want to legitimize the bootlegs or because tracking down escrow accounts in a foreign country was more trouble than it was worth.
+
+
+Flac Fingeprints:
+
+01 - Pearl Jam - Release.flac:0451858f9902cb159a232a7705234b3b
+02 - Pearl Jam - Why Go.flac:2a1877b333c42fd2eda4c359ef96d663
+03 - Pearl Jam - Deep.flac:5b1ce710ea86dfc17a26f6dec37193e2
+04 - Pearl Jam - Jeremy.flac:80befb1fc24dc6086e9e4f1a96fca36a
+05 - Pearl Jam - Daughter , W.M.A..flac:e6020f80d174697ded1313f505ad8e12
+06 - Pearl Jam - Garden.flac:7327ee0df1583dade1fa8ded8ed9062f
+07 - Pearl Jam - Even Flow.flac:b809a991165439542275f80816018a96
+08 - Pearl Jam - Go.flac:3958c4bc4112c48c8a6da10dddcb7754
+09 - Pearl Jam - Alive.flac:9bc0b3f7158df5e20b7cd387329c5651
+10 - Pearl Jam - Black.flac:8fd4e1002ef3f6f3f15be8533e941e99
+11 - Pearl Jam - Fucking Up.flac:90967f264b8c7fe07567503a9da96c07
+12 - Pearl Jam - Leash.flac:b11d9c6950cbd0cfb13a6c561530a240
+13 - Pearl Jam - Sonic Reducer.flac:590580aeeee897badda3eb6b735ddef5
+14 - Pearl Jam - State Of Love and Trust.flac:8bc17c3727d1c954b1daf6a07ff8119b
+15 - Pearl Jam - Baba O'Riley.flac:3f3b57d902348e27f0aa9082de20d017
+16 - Pearl Jam - Animal.flac:8a07fea53c61f5310b503203f435b06d
+17 - Pearl Jam - Rockin' In The Free World.flac:78fa123de6171f57d5282ecbc2e0af86

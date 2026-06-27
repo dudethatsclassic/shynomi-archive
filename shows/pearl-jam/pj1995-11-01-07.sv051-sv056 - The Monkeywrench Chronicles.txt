@@ -1,0 +1,184 @@
+Pearl Jam
+SV056 - "THE MONKEYWRENCH CHRONICLES VOL. VI: RESOLVE"
+November 7, 1995
+San Diego Sports Arena: San Diego, CA
+
+Show Source: 2-source mix: [Neumann KM-140 > HHb Pro 1 > dat > dEQ > dEdit > 
+             cdr > 44.1 kHz wav > 48 kHz wav > dEQ] + [MWFM > dat > 48kHz wav] > 
+             44.1 kHz wav > shn > flac
+
+Aftershow Source: FM (91X pirated MWFM broadcast) > dat > cdr > EAC > dEdit > flac
+
+Digital Editing, Remastering, and Mixing (PJ Set): Fred Evans
+Digital Editing (DJ Aftershow): Allen Robertson
+Artwork: Allen Robertson
+
+=================================
+DISC ONE - Pearl Jam Set (part I)
+=================================
+01 Oceans
+02 Go
+03 Animal
+04 Last Exit
+05 Tremor Christ
+06 Corduroy
+07 Rearviewmirror
+08 Better Man
+09 Even Flow
+10 Why Go (*)
+11 Deep (*)
+12 Red Mosquito
+13 Glorified G
+14 Daughter/(I Believe in Miracles)/(Touch of Grey)/(W.M.A.) (@)
+
+==================================
+DISC TWO - Pearl Jam Set (part II)
+==================================
+01 Jeremy ("new" reworked version) ($)
+02 Not For You
+03 I Got Shit
+04 "New Guitar, Please"
+05 Lukin
+06 Whipping
+07 This Boy (#)
+08 Alive
+09 Black
+10 Blood
+11 encore 1:
+12 Spin the Black Circle
+13 "Surfrider Foundation"
+14 Leaving Here
+15 I Can't Explain (~)
+16 Porch
+17 encore 2:
+18 Yellow Ledbetter
+
+===============================================
+DISC THREE - Monkeywrench DJ Post Show (part I)
+===============================================
+01 "Call Us"
+02 Animal - Sex Pistols
+03 Dumpling - Fluf
+04 R Righteous - Danger Gens
+05 "On Your Mind"
+06 ? - ? (%)
+07 Carousel - Blink (182)
+08 Stay in Your House - Gas Huffer
+09 ? - ? (^)
+10 Glass Dick - Jazz Lee Alston
+11 "The Ramones"
+12 Telephone Call From Istanbul - Tom Waits
+13 Wait in the Shade - Superunloader
+14 Gimmie Some Good Times - Lou Reed
+15 "Improvisations"
+16 Latin Roots - Fugazi
+17 "The San Diego Scene"
+18 Satellite of Love (live) - Lou Reed
+19 Tuned Out - Helmet
+20 Apolitical - Big Boys
+21 Hollywood Swinging - Big Boys
+22 Go Again (rough mix) - Los Gusanos
+
+===============================================
+DISC FOUR - Monkeywrench DJ Post Show (part II)
+===============================================
+01 "Eddie and Joey"
+02 Soul Craft - Bad Brains
+03 My Dad Sucks - Descendants
+04 "On the Simpsons"
+05 Crawl into Tomorrow - Kingface
+06 West Seattle Acid Party - Zeke
+07 Animal - Sweat Engine
+08 Cooky Puss - Beastie Boys
+09 Leeches - Juned
+10 Do You Remember Rock & Roll Radio? - The Ramones
+11 "Political Figures and Fruits"
+12 Crooked Bird - Gas Huffer
+13 24-7 Years - Fluf
+14 "Joey for President"
+15 Keep Your Mouth off My Sisters - Bobby Miller
+16 Leaving Here - Pearl Jam
+17 Casper the Homosexual Friendly Ghost (live) - Wesley Willis
+18 "Jovi, Joey, and Mike"
+19 Jumpy - West Coast Modern Day Punk Rock Orchestra
+20 "Goodbyes"
+21 Spin the Black Circle - Pearl Jam
+22 A Real Good Time - The Ramones
+
+
+(*) After this performance, these songs would not be played again until the 2003 
+    tour ("Deep" in 4/3/2003 at Oklahoma City, OK; and "Why Go" in 07/01/03 at 
+    Bristow, VA).
+(@) Only time "Touch of Grey" has ever been teased.
+($) One of the few times ever that this arrangement was performed live.
+(#) Last time performed.
+(~) First time performed.
+(%) JR's website monkeywrenchradio.org had this song labeled as "No Image" from 
+    Public Image Ltd. After some research, I could not find any evidence of this
+    being correct.
+(^) I could not identify this song...the only clue I could determine is that it
+    has a sample from the 1976 movie "Taxi Driver". 
+
+
+FGE Recording Notes:
+End of 'Last Exit' and part of 'Better Man' are missing from Neumann source. Encores
+of MWFM source were sampled at 32kHz. All resampling, equalizing, and mixing was
+done with Cool Edit Pro 2.0 at maximum accuracy settings.
+
+Spacedvest Recording Notes:
+FGE originally had converted his tracks using SHN in Sept. 2004, and these tracks
+were reconverted into FLAC, to try and keep things simple (the aftershow was in FLAC
+format). BLG recently discovered that the 30-second cut during 'Better Man' and the
+tape warp problem at the end of 'Corduroy' are *not* present on the Neumann master,
+but it didn't seem to make sense to redo everything when the problems were already
+fixed nicely by Fred. Kind of ironically, the Monkeywrench aftershow was captured
+and "pirated" by San Diego station 91X. The 91X broadcast was recorded and is what
+is included in this release. The aftershow has a few minor places where it breaks
+up, but overall it is complete (some commercials were omitted), and not too bad in
+terms of sound quality. 
+
+Artwork and Release Notes:
+This release consists of discs 15, 16, 17, and 18 in a fan-created 18-disc boxed set
+called "The Monkeywrench Chronicles".
+
+Special Note:
+A huge effort has been made to identify all the tracks that were played, with most
+of them successfully found, but a couple of them still could not be identified. 
+The MW songs that are played transcend many different styles and they are almost
+always from indie bands and/or by groups that are not very "popular", but they are
+of great caliber music. If you have any knowledge of the two tracks marked with a 
+"?" on disc 3, please send an email to spacedvest@hotmail.com, so we can correct
+the artwork and try and spread a corrected text file. Any help you can give will
+be greatly appreciated!
+
+
+Extra Special Thanks:
+John Reynolds, Dan Leehr, Bill Graham, Michael Morrissey
+
+
+Show Notes (thanks to Five Horizons):
+As is the case typically, the second show in the same venue never disappoints and
+this show is no exception and Mike is having a wild night. At the end of 'Tremor
+Christ,' Ed comments, "Hello kiddies. Get comfortable; we're gonna be here for a
+while." At the end of 'Why Go,' Ed raises his guitar overhead, as if preparing to
+smash it, but a tech swipes it from his hands and Ed looks terribly surprised! Ed
+clearly shows how he feels about 'Glorified G,' substituting the lyrics, 
+"... glorified version of I hate this song" twice, looking over his shoulder at
+Stone and half smiling. ;) Experiencing tuning problems at the end of 'I Got Shit,'
+Ed tosses his guitar and says, "New guitar, please! After all, I am a rock star."
+Pretty humorous. 'Lukin' sports an ambient guitar intro, ending with a quick "1234"
+leading to a snappy 'Whipping.' Ed returns to the stage on a skateboard for the
+first encore, and Stone ges a small fire going at the base of Ed's mic stand. 'Spin
+the Black Circle' is introed as "a love song." Mentioning that the two San Diego
+shows help raise $50,000 donated to the Surfrider Foundation leads to a comment
+about how they had messed up the next song the previous night. Then Ed flubs the
+start of 'Leaving Here,' and notes that "it's really a rather hard song to play" but
+then they kick into it. This show is a fine conclusion to a wild 1995 tour. 
+
+
+
+This is being distributed by blackredyellow.com in tandem with
+pj.sidewalkcrusaders.com, and is part of a series of the best Pearl Jam shows in 
+existence. If the artwork is not included, you can find it at blackredyellow.com.
+
+Original show notes compiled on 9/14/04 by FGE. More notes by spacedvest on 2/12/05.

@@ -1,0 +1,18 @@
+Pearl Jam
+Bridge School Benefit
+Shoreline Amphitheater: Mountainview, CA USA
+10.31.1999
+
+Source:		[PRO-SHOT video] + [Schoeps > DAT] > CDR
+Transfer:	CDR > EAC > Plextor PlexWriter 12/4/32(SCSI) > EAC 0.9b3 > shorten32 > SHN
+
+Tracklisting:
+
+01 - Intro					- 00:49
+02 - Nothing As It Seems			- 06:10
+03 - Daughter					- 04:43
+04 - Wishlist					- 03:57
+05 - Better Man					- 05:51
+06 - Off He Goes				- 05:37
+07 - Black					- 07:27
+08 - Last Kiss					- 03:27

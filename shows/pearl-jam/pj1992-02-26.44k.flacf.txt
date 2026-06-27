@@ -1,0 +1,41 @@
+Pearl Jam
+February 26, 1992 
+Edward's No. 8 
+Birmingham, England 
+
+Source: unknown mic > unknown cassette recorder
+Lineage: cassette master > MiniDisc > CDR > CDR > CDR > .flac
+
+cdr>.flac transfer: EAC > FLAC frontend > .flac
+
+encoded by: cps 05/08/05
+
+edits: none
+
+eq: none
+
+cuesheet: yes
+
+comments: uncirculated as of May 8 2005
+
+setlist:
+
+ 1. Oceans
+ 2. Evenflow
+ 3. Why Go?
+ 4. Jeremy
+ 5. Deep
+ 6. Alive
+ 7. improv (We Got Along)
+ 8. Black
+ 9. State of Love and Trust
+10. Once
+11. Porch
+12. Garden
+13. Leash
+
+
+Thanks to the taper and to Dave for getting this recording out.
+
+
+

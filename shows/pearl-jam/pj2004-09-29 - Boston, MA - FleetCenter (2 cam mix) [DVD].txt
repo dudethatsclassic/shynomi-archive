@@ -1,0 +1,58 @@
+Pearl Jam » 2004.09.29 - FleetCenter - Boston, Massachusetts, USA
+
+Band name: Pearl Jam
+Date: September 29, 2004
+Venue: FleetCenter
+Location: Boston, Massachusetts, USA
+Type: Tradeable
+Media: 2 DVDs
+Version: 2 Cam Mix
+Filming type: Audience
+Source information: Source A: Canon ZR Series > MiniDV Master (16:9)
+Taper(s): Steve Rawson & other
+Generation: Master
+Lineage: Dolby Digital 5.1: [Schoeps > Preamp > DAT] + Unknown Master DV
+Video format: NTSC
+Aspect ratio: 16:9
+Chapters: Yes
+Menus: Yes
+Number of camera angles: 2
+Number of audio selections: 2
+Track listing:
+
+Go
+Animal
+Do the Evolution
+Save You
+The American in Me
+Immortality
+Wishlist
+Grievance
+Alone
+Present Tense
+Corduroy
+I Believe in Miracles
+Once
+Acoustic Set:
+Lukin
+Off He Goes
+Man of the Hour
+Parting Ways
+Black
+E1:
+The Seeker
+Daughter/(War)
+Glorified G
+Lion's Share
+E2:
+I've Got a Feeling &
+Rockin' in the Free World
+Notes and comments:
+Audio in 5.1 mode sounds choppy on 2-3 songs on each disc when skipping thru the tracks. Press 'Pause' and 'Resume' to fix this. Reencoded twice, no idea why this happens.
+
+Stereo: Schoeps MK4 > DAT > FLAC
+Dolby Digital 5.1:
+Front: Schoeps MK4 > DAT > FLAC
+Center: AT933 cards(SP-mod) > DAT > FLAC (60%)
+Rear: AT933 cards(SP-mod) > DAT > FLAC (80%)
+LFE: Schoeps > DAT > FLAC (Mafia source) (20%)

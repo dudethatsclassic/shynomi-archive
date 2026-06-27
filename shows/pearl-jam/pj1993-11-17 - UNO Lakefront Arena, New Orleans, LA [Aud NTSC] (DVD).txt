@@ -1,0 +1,51 @@
+Pearl Jam
+UNO Lakefront Arena, New Orleans, LA
+November 17, 1993
+
+DVD Info: single-layer
+video: NTSC 4:3 29.97fps 2-pass VBR (avg: 6300 kbits/s, max: 9000 kbits/s)
+audio: AC3 5.1 448 kbits/s
+length: 1 hr 27min 24 sec
+
+Video sources:
+V1: 1st gen VHS>JVC HR-S9911U>S-video>Sony DRC-TRV460>Firewire>avi>CCE>MPEG-2
+V2: unknown gen VHS>JVC HR-S9911U>S-video>Sony DRC-TRV460>Firewire>avi>CCE>MPEG-2
+
+audio sources:
+A1: 'Surfer Eddie's Sunshine State' silver disc>EAC>wav (supposedly SS>D3>DAT)
+A2: Sonic Studios>Sony WM-d6>ana-M>DAT>wav>flac>wav>dEQ (speed corrected)
+
+DD 5.1 mix front: A1 (Garden and Porch from A2)
+        surround: V1 audio (first 3 songs from V2 audio)
+          center: front>mono>20% amplitude
+             LFE: front>mono>40% amplitude
+
+ 1. Oceans
+ 2. Why Go
+ 3. Jeremy
+ 4. State of Love and Trust
+ 5. Even Flow
+ 6. Glorified G
+ 7. Daughter
+ 8. Go
+ 9. Animal
+10. Footsteps
+11. Alive
+12. Garden
+13. Porch
+
+14. Rats
+15. Blood
+16. Crazy Mary (w/ Victoria Williams)*
+17. Indifference*
+
+18. Leash
+
+*Brendan O'Brien on B3 organ
+
+Notes: Video for 1st 3 songs is center-shot and steady with nice zooms, but
+unfortunately suffers from tracking problems.  Video for rest of show is shot
+from back of venue and is shakey, but the image is clear.  Boot CD cut crowd
+noise between songs, so 5.1 front channel fades out between most songs. Until
+complete A1 and complete, clean V2 sources surface, this is the best we have
+of this amazing show.

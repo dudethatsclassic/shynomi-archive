@@ -1,0 +1,43 @@
+Pearl Jam
+02-21-98
+Alexander Baldwin Amphitheatre
+Maui, HI
+
+Source: Sonic Studios > Sony TCD-D7 > DAT @32k > CDR > dEQ > CDR > SHN
+
+CD>WAV>SHN by BLG
+
+Disc I
+01 Do the Evolution
+02 Animal
+03 Hail Hail
+04 Brain of J
+05 Dissident
+06 Faithfull
+07 In My Tree
+08 Wishlist
+09 Off He Goes
+10 Corduroy
+11 Given to Fly
+12 Even Flow
+13 Daughter
+14 MFC
+15 Lukin
+16 Immortality
+17 Alive
+
+Disc II
+01 Ed talking
+02 I Got Shit
+03 Better Man/(SiFL)
+04 Around the Bend
+05 State of Love and Trust
+
+remaster by FGE
+
+Notes:
+
+As noted in the lineage, this was originally recorded on DAT at 32KHz.
+Therefore, frequencies above 16KHz were not recorded.  So if you do a
+frequency analysis, that's the reason you won't see anything over 16KHz.
+This is NOT an MP3 sourced recording.

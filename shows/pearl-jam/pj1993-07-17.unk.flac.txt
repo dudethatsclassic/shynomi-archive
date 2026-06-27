@@ -1,0 +1,110 @@
+Information ripping to Wave, 'Track 1' to 'C:\Users\felipe\Desktop\Pearl Jam - 1993-07-17, Ahoy, Rotterdam [AUD]\Unknown Artist\Unknown Artist - 01 - Track 1.wav'
+   Track 1:  Ripped LBA 0 to 2288 (0:30) in 0:26. Filename: C:\Users\felipe\Desktop\Pearl Jam - 1993-07-17, Ahoy, Rotterdam [AUD]\Unknown Artist\Unknown Artist - 01 - Track 1.wav
+     Secure  [Pass 1 & 2]
+     CRC32: 7913A139     AccurateRip CRC: 0930D371     [DiscID: 022-0046b50a-048648e3-3e165616-1]
+   
+Information ripping to Wave, 'Track 2' to 'C:\Users\felipe\Desktop\Pearl Jam - 1993-07-17, Ahoy, Rotterdam [AUD]\Unknown Artist\Unknown Artist - 02 - Track 2.wav'
+   Track 2:  Ripped LBA 2288 to 24540 (4:56) in 4:47. Filename: C:\Users\felipe\Desktop\Pearl Jam - 1993-07-17, Ahoy, Rotterdam [AUD]\Unknown Artist\Unknown Artist - 02 - Track 2.wav
+     Secure  [Pass 1 & 2]
+     CRC32: 9071B89E     AccurateRip CRC: F8A53508     [DiscID: 022-0046b50a-048648e3-3e165616-2]
+   
+Information ripping to Wave, 'Track 3' to 'C:\Users\felipe\Desktop\Pearl Jam - 1993-07-17, Ahoy, Rotterdam [AUD]\Unknown Artist\Unknown Artist - 03 - Track 3.wav'
+   Track 3:  Ripped LBA 24540 to 41483 (3:45) in 3:33. Filename: C:\Users\felipe\Desktop\Pearl Jam - 1993-07-17, Ahoy, Rotterdam [AUD]\Unknown Artist\Unknown Artist - 03 - Track 3.wav
+     Secure  [Pass 1 & 2]
+     CRC32: B24BD80C     AccurateRip CRC: 90F910CF     [DiscID: 022-0046b50a-048648e3-3e165616-3]
+   
+Information ripping to Wave, 'Track 4' to 'C:\Users\felipe\Desktop\Pearl Jam - 1993-07-17, Ahoy, Rotterdam [AUD]\Unknown Artist\Unknown Artist - 04 - Track 4.wav'
+   Track 4:  Ripped LBA 41483 to 52551 (2:27) in 2:22. Filename: C:\Users\felipe\Desktop\Pearl Jam - 1993-07-17, Ahoy, Rotterdam [AUD]\Unknown Artist\Unknown Artist - 04 - Track 4.wav
+     Secure  [Pass 1 & 2]
+     CRC32: CABCC12E     AccurateRip CRC: 66130D60     [DiscID: 022-0046b50a-048648e3-3e165616-4]
+   
+Information ripping to Wave, 'Track 5' to 'C:\Users\felipe\Desktop\Pearl Jam - 1993-07-17, Ahoy, Rotterdam [AUD]\Unknown Artist\Unknown Artist - 05 - Track 5.wav'
+   Track 5:  Ripped LBA 52551 to 73885 (4:44) in 4:43. Filename: C:\Users\felipe\Desktop\Pearl Jam - 1993-07-17, Ahoy, Rotterdam [AUD]\Unknown Artist\Unknown Artist - 05 - Track 5.wav
+     Secure  [Pass 1 & 2]
+     CRC32: 8347CE7B     AccurateRip CRC: 86CB6344     [DiscID: 022-0046b50a-048648e3-3e165616-5]
+   
+Information ripping to Wave, 'Track 6' to 'C:\Users\felipe\Desktop\Pearl Jam - 1993-07-17, Ahoy, Rotterdam [AUD]\Unknown Artist\Unknown Artist - 06 - Track 6.wav'
+   Track 6:  Ripped LBA 73885 to 96206 (4:57) in 5:05. Filename: C:\Users\felipe\Desktop\Pearl Jam - 1993-07-17, Ahoy, Rotterdam [AUD]\Unknown Artist\Unknown Artist - 06 - Track 6.wav
+     Secure  [Pass 1 & 2]
+     CRC32: 9850F805     AccurateRip CRC: 30547160     [DiscID: 022-0046b50a-048648e3-3e165616-6]
+   
+Information ripping to Wave, 'Track 7' to 'C:\Users\felipe\Desktop\Pearl Jam - 1993-07-17, Ahoy, Rotterdam [AUD]\Unknown Artist\Unknown Artist - 07 - Track 7.wav'
+   Track 7:  Ripped LBA 96206 to 116454 (4:29) in 4:47. Filename: C:\Users\felipe\Desktop\Pearl Jam - 1993-07-17, Ahoy, Rotterdam [AUD]\Unknown Artist\Unknown Artist - 07 - Track 7.wav
+     Secure  [Pass 1 & 2]
+     CRC32: C0FA8D53     AccurateRip CRC: 252EBF5A     [DiscID: 022-0046b50a-048648e3-3e165616-7]
+   
+Information ripping to Wave, 'Track 8' to 'C:\Users\felipe\Desktop\Pearl Jam - 1993-07-17, Ahoy, Rotterdam [AUD]\Unknown Artist\Unknown Artist - 08 - Track 8.wav'
+   Track 8:  Ripped LBA 116454 to 143955 (6:06) in 6:42. Filename: C:\Users\felipe\Desktop\Pearl Jam - 1993-07-17, Ahoy, Rotterdam [AUD]\Unknown Artist\Unknown Artist - 08 - Track 8.wav
+     Secure  [Pass 1 & 2]
+     CRC32: CF8C9043     AccurateRip CRC: F918E863     [DiscID: 022-0046b50a-048648e3-3e165616-8]
+   
+Information ripping to Wave, 'Track 9' to 'C:\Users\felipe\Desktop\Pearl Jam - 1993-07-17, Ahoy, Rotterdam [AUD]\Unknown Artist\Unknown Artist - 09 - Track 9.wav'
+   Track 9:  Ripped LBA 143955 to 158643 (3:15) in 3:40. Filename: C:\Users\felipe\Desktop\Pearl Jam - 1993-07-17, Ahoy, Rotterdam [AUD]\Unknown Artist\Unknown Artist - 09 - Track 9.wav
+     Secure  [Pass 1 & 2]
+     CRC32: 28052550     AccurateRip CRC: 08764303     [DiscID: 022-0046b50a-048648e3-3e165616-9]
+   
+Information ripping to Wave, 'Track 10' to 'C:\Users\felipe\Desktop\Pearl Jam - 1993-07-17, Ahoy, Rotterdam [AUD]\Unknown Artist\Unknown Artist - 10 - Track 10.wav'
+   Track 10:  Ripped LBA 158643 to 180271 (4:48) in 5:27. Filename: C:\Users\felipe\Desktop\Pearl Jam - 1993-07-17, Ahoy, Rotterdam [AUD]\Unknown Artist\Unknown Artist - 10 - Track 10.wav
+     Secure  [Pass 1 & 2]
+     CRC32: 08F9C7AC     AccurateRip CRC: 365D17BE     [DiscID: 022-0046b50a-048648e3-3e165616-10]
+   
+Information ripping to Wave, 'Track 11' to 'C:\Users\felipe\Desktop\Pearl Jam - 1993-07-17, Ahoy, Rotterdam [AUD]\Unknown Artist\Unknown Artist - 11 - Track 11.wav'
+   Track 11:  Ripped LBA 180271 to 200183 (4:25) in 4:45. Filename: C:\Users\felipe\Desktop\Pearl Jam - 1993-07-17, Ahoy, Rotterdam [AUD]\Unknown Artist\Unknown Artist - 11 - Track 11.wav
+     Secure  [Pass 1 & 2]
+     CRC32: 3AC63906     AccurateRip CRC: BAB61A40     [DiscID: 022-0046b50a-048648e3-3e165616-11]
+   
+Information ripping to Wave, 'Track 12' to 'C:\Users\felipe\Desktop\Pearl Jam - 1993-07-17, Ahoy, Rotterdam [AUD]\Unknown Artist\Unknown Artist - 12 - Track 12.wav'
+   Track 12:  Ripped LBA 200183 to 224916 (5:29) in 5:41. Filename: C:\Users\felipe\Desktop\Pearl Jam - 1993-07-17, Ahoy, Rotterdam [AUD]\Unknown Artist\Unknown Artist - 12 - Track 12.wav
+     Secure  [Pass 1 & 2]
+     CRC32: D28223CB     AccurateRip CRC: 5D8A6FBA     [DiscID: 022-0046b50a-048648e3-3e165616-12]
+   
+Information ripping to Wave, 'Track 13' to 'C:\Users\felipe\Desktop\Pearl Jam - 1993-07-17, Ahoy, Rotterdam [AUD]\Unknown Artist\Unknown Artist - 13 - Track 13.wav'
+   Track 13:  Ripped LBA 224916 to 240004 (3:21) in 3:28. Filename: C:\Users\felipe\Desktop\Pearl Jam - 1993-07-17, Ahoy, Rotterdam [AUD]\Unknown Artist\Unknown Artist - 13 - Track 13.wav
+     Secure  [Pass 1 & 2]
+     CRC32: 50A10414     AccurateRip CRC: 5F71B418     [DiscID: 022-0046b50a-048648e3-3e165616-13]
+   
+Information ripping to Wave, 'Track 14' to 'C:\Users\felipe\Desktop\Pearl Jam - 1993-07-17, Ahoy, Rotterdam [AUD]\Unknown Artist\Unknown Artist - 14 - Track 14.wav'
+   Track 14:  Ripped LBA 240004 to 260662 (4:35) in 4:39. Filename: C:\Users\felipe\Desktop\Pearl Jam - 1993-07-17, Ahoy, Rotterdam [AUD]\Unknown Artist\Unknown Artist - 14 - Track 14.wav
+     Secure  [Pass 1 & 2]
+     CRC32: 8B0B9EF1     AccurateRip CRC: 0BBAE801     [DiscID: 022-0046b50a-048648e3-3e165616-14]
+   
+Information ripping to Wave, 'Track 15' to 'C:\Users\felipe\Desktop\Pearl Jam - 1993-07-17, Ahoy, Rotterdam [AUD]\Unknown Artist\Unknown Artist - 15 - Track 15.wav'
+   Track 15:  Ripped LBA 260662 to 277293 (3:41) in 3:40. Filename: C:\Users\felipe\Desktop\Pearl Jam - 1993-07-17, Ahoy, Rotterdam [AUD]\Unknown Artist\Unknown Artist - 15 - Track 15.wav
+     Secure  [Pass 1 & 2]
+     CRC32: 0A3BDC8A     AccurateRip CRC: 0EA61990     [DiscID: 022-0046b50a-048648e3-3e165616-15]
+   
+Information ripping to Wave, 'Track 16' to 'C:\Users\felipe\Desktop\Pearl Jam - 1993-07-17, Ahoy, Rotterdam [AUD]\Unknown Artist\Unknown Artist - 16 - Track 16.wav'
+   Track 16:  Ripped LBA 277293 to 297506 (4:29) in 4:11. Filename: C:\Users\felipe\Desktop\Pearl Jam - 1993-07-17, Ahoy, Rotterdam [AUD]\Unknown Artist\Unknown Artist - 16 - Track 16.wav
+     Secure  [Pass 1 & 2]
+     CRC32: 72211D39     AccurateRip CRC: 1A76C67A     [DiscID: 022-0046b50a-048648e3-3e165616-16]
+   
+Information ripping to Wave, 'Track 17' to 'C:\Users\felipe\Desktop\Pearl Jam - 1993-07-17, Ahoy, Rotterdam [AUD]\Unknown Artist\Unknown Artist - 17 - Track 17.wav'
+   Track 17:  Ripped LBA 297506 to 313713 (3:36) in 3:22. Filename: C:\Users\felipe\Desktop\Pearl Jam - 1993-07-17, Ahoy, Rotterdam [AUD]\Unknown Artist\Unknown Artist - 17 - Track 17.wav
+     Secure  [Pass 1 & 2]
+     CRC32: 68A486F5     AccurateRip CRC: B1FC2329     [DiscID: 022-0046b50a-048648e3-3e165616-17]
+   
+Information ripping to Wave, 'Track 18' to 'C:\Users\felipe\Desktop\Pearl Jam - 1993-07-17, Ahoy, Rotterdam [AUD]\Unknown Artist\Unknown Artist - 18 - Track 18.wav'
+   Track 18:  Ripped LBA 313713 to 330368 (3:42) in 3:25. Filename: C:\Users\felipe\Desktop\Pearl Jam - 1993-07-17, Ahoy, Rotterdam [AUD]\Unknown Artist\Unknown Artist - 18 - Track 18.wav
+     Secure  [Pass 1 & 2]
+     CRC32: FFF7C8AB     AccurateRip CRC: 14BD2A33     [DiscID: 022-0046b50a-048648e3-3e165616-18]
+   
+Information ripping to Wave, 'Track 19' to 'C:\Users\felipe\Desktop\Pearl Jam - 1993-07-17, Ahoy, Rotterdam [AUD]\Unknown Artist\Unknown Artist - 19 - Track 19.wav'
+   Track 19:  Ripped LBA 330368 to 369808 (8:45) in 8:10. Filename: C:\Users\felipe\Desktop\Pearl Jam - 1993-07-17, Ahoy, Rotterdam [AUD]\Unknown Artist\Unknown Artist - 19 - Track 19.wav
+     Secure  [Pass 1 & 2]
+     CRC32: 1924D062     AccurateRip CRC: E0B1695E     [DiscID: 022-0046b50a-048648e3-3e165616-19]
+   
+Information ripping to Wave, 'Track 20' to 'C:\Users\felipe\Desktop\Pearl Jam - 1993-07-17, Ahoy, Rotterdam [AUD]\Unknown Artist\Unknown Artist - 20 - Track 20.wav'
+   Track 20:  Ripped LBA 369808 to 391199 (4:45) in 4:31. Filename: C:\Users\felipe\Desktop\Pearl Jam - 1993-07-17, Ahoy, Rotterdam [AUD]\Unknown Artist\Unknown Artist - 20 - Track 20.wav
+     Secure  [Pass 1 & 2]
+     CRC32: 92842258     AccurateRip CRC: F56F8A9D     [DiscID: 022-0046b50a-048648e3-3e165616-20]
+   
+Information ripping to Wave, 'Track 21' to 'C:\Users\felipe\Desktop\Pearl Jam - 1993-07-17, Ahoy, Rotterdam [AUD]\Unknown Artist\Unknown Artist - 21 - Track 21.wav'
+   Track 21:  Ripped LBA 391199 to 409046 (3:57) in 3:47. Filename: C:\Users\felipe\Desktop\Pearl Jam - 1993-07-17, Ahoy, Rotterdam [AUD]\Unknown Artist\Unknown Artist - 21 - Track 21.wav
+     Secure  [Pass 1 & 2]
+     CRC32: 8B5E64DA     AccurateRip CRC: 64DC4B32     [DiscID: 022-0046b50a-048648e3-3e165616-21]
+   
+Information ripping to Wave, 'Track 22' to 'C:\Users\felipe\Desktop\Pearl Jam - 1993-07-17, Ahoy, Rotterdam [AUD]\Unknown Artist\Unknown Artist - 22 - Track 22.wav'
+   Track 22:  Ripped LBA 409046 to 428892 (4:24) in 5:02. Filename: C:\Users\felipe\Desktop\Pearl Jam - 1993-07-17, Ahoy, Rotterdam [AUD]\Unknown Artist\Unknown Artist - 22 - Track 22.wav
+     Secure (Warning)  [Pass 1 & 2, Re-Rip 1 Frames]
+     CRC32: 8F8BA207     AccurateRip CRC: 0159791E     [DiscID: 022-0046b50a-048648e3-3e165616-22]
+   

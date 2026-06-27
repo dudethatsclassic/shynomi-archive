@@ -1,0 +1,50 @@
+
+Pearl Jam
+Continental Airlines Arena: East Rutherford, NJ
+September 8, 1998
+
+Source: MarcSounds > Sony TCD-D100 @ 48kHz
+Location: FOB 17th row, dead center
+Transfer: DAT Master > Tascam DA-20 > M-Audio MT2496 II > Audacity > CDWave > TLH
+Taper: tapeworm(48)
+
+Setlist:
+
+01 Intro
+02 Oceans
+03 Hail, Hail
+04 Animal
+05 Given To Fly
+06 Daughter / (Androgynous Mind/Jersey Girl)
+07 Corduroy
+08 MFC
+09 Wishlist
+10 Even Flow
+11 Faithfull
+12 State Of Love and Trust
+13 Brain Of J.
+14 Nothingman
+15 Leatherman
+16 Better Man
+17 Black
+18 Do The Evolution
+19 -encore break-
+20 -EV speak-
+21 Go
+22 Immortality
+23 Elderly Woman Behind The Counter In A Small Town
+24 Rearview Mirror
+25 Alive
+26 Porch
+27 -encore break 2-
+28 Yellow Ledbetter
+29 Outro
+
+Notes: Thanks to CD for the ticket. Click removal and some spot hard limiting applied throughout prior to resampling to 44kHz. Raw transfer with no fades or EQ.
+
+Archive: Master DAT was transferred @ 48kHz and FLAC'd with cue sheet. 
+
+Taped and transferred by tapeworm(48) 
+Txt file compiled on 1/13/2016
+
+*** DO NOT DISTRIBUTE IN LOSSY FORMATS. DO NOT SELL THIS RECORDING, TRADE IT FREELY *** 

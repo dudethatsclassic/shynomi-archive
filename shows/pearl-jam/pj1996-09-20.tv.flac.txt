@@ -1,0 +1,13 @@
+Pearl Jam
+September 20, 1996
+Late Show with David Letterman - Ed Sullivan Theater, Manhattan, New York City
+
+Source: PCM (2.0) > FLAC (2.0)
+
+Lineage: NTSC Broadcast > MPEG2 Transport Stream (*.ts) > PCM - BluRay (Pearl Jam TV Master Archive)  > FLAC
+
+Source Contributor: Datfly
+
+FLAC Conversion: Kakashisensei
+
+01 Hail, Hail

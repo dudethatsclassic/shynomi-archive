@@ -1,0 +1,23 @@
+Pearl Jam
+Bridge School Benefit
+Shoreline Amphitheatre
+Mountain View, CA
+October 23, 2010
+
+01 intro
+02 Last Kiss
+03 Unthought Known
+04 Santa Cruz
+05 Nothingman
+06 Dancing Barefoot
+07 Better Man
+08 Walk With Me
+09 Just Breathe
+10 Black
+
+total running time 46m55s
+
+stealth audience recording by Easy Ed from 10th row exact center
+DPA 4061 microphones (manufacturer supplied soft boost grids removed, windscreens on) > Core Sound battery box > Sony PCM-M10 (24 bit, 44.1kHz)
+
+transfer: copy .wav files to PC > Sound Forge 10 Pro (convert to 16 bit [iZotope MBIT+ basic2 psych9 1 bit dither]) > CDWav (split tracks, export to .wav files) > Trader's Little Helper (level 8 encoding) > flacs, ffp, md5 files

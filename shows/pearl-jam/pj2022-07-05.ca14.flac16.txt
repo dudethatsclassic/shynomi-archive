@@ -1,0 +1,32 @@
+Pearl Jam
+Copenhagen Royal Arena, DK
+2022-07-05
+
+Source: ca14->ca9100->sony pcm-m10 -> wav (48 khz/24 bit)
+Transfer: sony pcm-m10->hd->cep->cdwav (44,1 khz/16 bit)->flac 
+
+01. Intro (Metamorphosis Two - Philip Glass)
+02. Release
+03. Animal
+04. Last Exit
+05. Lukin
+06. Corduroy
+07. Retrograde
+08. Elderly Woman Behind the Counter in a Small Town
+09. Garden
+10. Dance of the Clairvoyants
+11. Even Flow
+12. Daughter (with "W.M.A" tag)
+13. Never Destination
+14. Jeremy
+15. Inside Job
+16. Do the Evolution
+17. Black
+18. Love Boat Captain
+19. Porch
+---
+20. Better Man ("People Have the Power" Patti Smith tag)
+21. Alive
+22. Rockin' in the Free World (Neil Young) *
+
+* with Joe Talbot of Idles

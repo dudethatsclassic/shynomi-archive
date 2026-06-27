@@ -1,0 +1,121 @@
+Pearl Jam
+New Orleans Arena
+New Orleans, LA
+August 14, 2000
+
+** 16 BIT **
+
+Source:  Sonic Studios DSM-6P w/3-way lo-cut filter, position unknown (most likely @ 80hz, middle setting) > Sony WM-D6 
+Transfer:  Master cassette (Maxell XL-IIS 100m) > Denon 790R > Kenwood A-522 amplifier > Kenwood GE-622 Equalizer > Audacity 
+           (boosting/splicing) > .WAV
+Mastering:  .WAV > Sound Forge Pro 11.0 (Build 299) [iZotope Mastering Suite (declick); minor edits, normalize, & fades] > CDWav (tracking) > 
+            Trader's Little Helper (level 5) > FLAC > TagScanner 5.1 (tagging) 
+Location:  Front row, directly in front of Mike McCready, approximately 4' away
+Recorded & transferred by:  Steve "ballsdeep" Hagar
+Mastered by:  Dennis Orr
+
+Setlist:
+01 Crowd
+02 Long Road
+03 Grievance
+04 Last Exit
+05 Given To Fly
+06 Hail Hail
+07 Rival
+08 Chat
+09 Wishlist
+10 Insignificance
+11 Corduroy
+12 Elderly Woman Behind The Counter In A Small Town
+13 Nothing As It Seems
+14 Evacuation
+15 In Hiding
+16 Daughter
+17 Even Flow
+18 Off He Goes
+19 Better Man
+20 Animal
+21 Once
+22 Rearviewmirror
+23 Encore Break #1
+- Encore #1 -
+24 Go
+25 Do The Evolution
+26 Chat
+27 Jeremy
+28 Chat
+29 Crazy Mary
+30 Black
+31 Porch
+32 Encore Break #2
+- Encore #2 -
+33 Chat
+34 Last Kiss
+35 Sonic Reducer
+36 Yellow Ledbetter
+
+Eddie Vedder - lead vocals, harp, & acoustic guitar
+Mike McCready - lead guitar & backing vocals
+Stone Gossard - rhythm guitar & backing vocals
+Jeff Ament - bass & backing vocals
+Matt Cameron - drums & backing vocals
+
+Show Notes:
+Recorded from the front fucking row, right in front of Mike McCready. Amazing, amazing sound, almost like your head is in his amp, but all the 
+other stuff still loud enough.
+Sonic Youth opened (not taped)
+
+Mastering Notes:
+Tape flip during the applause after "Nothing As It Seems" - seamlessly spliced, no music lost.
+Tape flip during the applause during "Encore Break #1" - seamlessly spliced 
+Tape flip during the applause during "Encore Break #2" - seamlessly spliced
+
+From - http://www.twofeetthick.com/concert-chronology/pj2000/
+This show is more tight and solid than a full out, let loose show. The crowd seems somewhat non-responsive to the newer songs. ‘Rival’ is 
+unbelievable and Ed speaks afterward, saying it is nice to be in New Orleans and strums a bit of the ‘Release’ intro on his guitar. He thanks 
+Sonic Youth and talks of how wishes sometimes come true, leading to ‘Wishlist.’ During the “50 million upraised hands” the crowd slowly raises 
+their hands and Ed laughs and comments, “Right.” ‘Elderly Woman’ is introduced as a little song with a long title. Jeff has a new, big standup 
+bass for ‘Daughter.’ No tag, but Ed is holding notes for an incredibly long time. At the top of the encore, Ed comes out talking about how they 
+are sorry for taking so long, but they had a fight (about what songs to play). “The good news is that was the first fight I’ve gotten into while 
+I was here this time.” After “DTE,” he mentions the Democratic convention: “I think Clinton was gonna speak tonight, and he was gonna say: ‘My 
+fellow Americans. Bullshit, bullshit, bullshit, bullshit, bullshit …’” and urges people to study the issues and to vote. ‘Jeremy’ is powerful 
+and includes a great crowd sing along. ‘Porch’ is slowish and has a bluesy feel. Ed speaks of Bukowski and quotes, “What matters most is how you 
+walk through the fire …” and thanks the crowd for their support, leading to ‘Last Kiss.’ ‘Sonic Reducer’ is a nice surprise.
+
+PearlJam2000-08-14t01.flac:5b5e89ddfc0fe41b8368c02ff2b082d8
+PearlJam2000-08-14t02.flac:d4b21f52e558cce5f69b1b444822f38b
+PearlJam2000-08-14t03.flac:304566a882777f19689be31740ff7daa
+PearlJam2000-08-14t04.flac:9495ee52d09e788ef099b2813b794115
+PearlJam2000-08-14t05.flac:9cde8664acb1033297f2c3f57cadcdcf
+PearlJam2000-08-14t06.flac:f47837e0900c7b353e416276626ccccd
+PearlJam2000-08-14t07.flac:9de9e09cfd9c2ad924f6fce110f574dd
+PearlJam2000-08-14t08.flac:2b1a91fbbcb6b75ab77d582f699259d5
+PearlJam2000-08-14t09.flac:077390096a4c9454cf528ff8e36d0583
+PearlJam2000-08-14t10.flac:c5b743189b60eabad1968645bdc1970f
+PearlJam2000-08-14t11.flac:2b1dfc12cb49af41bdddd7342564e775
+PearlJam2000-08-14t12.flac:12bf6e2ad4de049663a38a53e56c921c
+PearlJam2000-08-14t13.flac:2d6e581d71244f8afdb39572c844d88e
+PearlJam2000-08-14t14.flac:3229bd1546a893f01b40ee2c9bb3a0c3
+PearlJam2000-08-14t15.flac:8c71a152c12ac17da39ead88fc7f1c7c
+PearlJam2000-08-14t16.flac:349d12254587d8369c11f513bbb170ac
+PearlJam2000-08-14t17.flac:68321de603456cb6aa9476c49c46afc5
+PearlJam2000-08-14t18.flac:8f407cdf760a7d8bbcd070290add3a20
+PearlJam2000-08-14t19.flac:374a81244d0b41edfe5c5317df183ad7
+PearlJam2000-08-14t20.flac:a32428c838dea664fb27a8de9d1f2df1
+PearlJam2000-08-14t21.flac:189b533510f1ae5aff749205ef18a6f1
+PearlJam2000-08-14t22.flac:c62627fc5e3d1e19b8d52cfa3f160c3f
+PearlJam2000-08-14t23.flac:3e3a74c114290c09c9fa468f1ecd4267
+PearlJam2000-08-14t24.flac:64b74b9493bd35f9a37c8a3fa0852d15
+PearlJam2000-08-14t25.flac:64bc5e29be952c95009ebe499f54583c
+PearlJam2000-08-14t26.flac:4702499f3bfcf857eff145f4b6114434
+PearlJam2000-08-14t27.flac:f510f7a5bcd09f8e7ece0ad0a1a89aaf
+PearlJam2000-08-14t28.flac:1356dbe3112a58d3da7984b1a792e608
+PearlJam2000-08-14t29.flac:131c7e2cd0e438c809d9668b80d20b1e
+PearlJam2000-08-14t30.flac:bcca0c14e555db2bdd56f93d7ef3d682
+PearlJam2000-08-14t31.flac:f9f91b31849d105600b12198f09d4333
+PearlJam2000-08-14t32.flac:cc74a51dbccd310c530fc0598b984afe
+PearlJam2000-08-14t33.flac:6631cf41b21d8293cdf6b06d6ce304aa
+PearlJam2000-08-14t34.flac:84e83ef4adaf82754b35d77856b91847
+PearlJam2000-08-14t35.flac:45cdfa7d915d432523a939260ab31670
+PearlJam2000-08-14t36.flac:0793008fb26920107092562a4ec9cfe3
+

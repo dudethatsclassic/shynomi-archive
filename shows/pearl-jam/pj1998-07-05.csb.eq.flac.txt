@@ -1,0 +1,89 @@
+Pearl Jam
+July 5th 1998
+Reunion Arena
+Dallas TX
+
+Original "raw" version released 2007. I decided to take another crack at this show. I eq'd some of the bass
+out and boosted the levels and compressed screams/audience. I think it sounds better.
+
+
+
+Taped: Sony TCD-D7->Line in->csbmod(Section 103 Row G) by: aleal5687
+Transfer:Sony TCD->D7->7pin coaxial->Microtrack 24/96->Card reader->Adobe Audition 1.5
+        CD wave(to split into tracks)->flac level 8
+Edit:Adobe Audition 1.5 (eq->boost levels->compress screams->sample rate convert)
+     Main set: 16/48->16/44.1
+     Encore:16/32->16/44.1
+
+
+Set list:
+
+Sometimes
+Last Exit
+Brian of J
+Hail Hail
+Given to Fly
+In Hiding
+(Interstellar Overdrive)/Corduroy
+Go
+MFC
+Wishlist
+Rearviewmirror
+Pilate
+Alive
+Spin the Black Circle
+Off He Goes
+Even Flow
+Daughter(Mother)/(Monkey Gone to Heaven)
+Mankind
+Do The Evolution
+Encore:
+Jeremy
+Immortality
+Betterman/(Save it for Later)
+Sonic Reducer (w/ Murder City Devils)
+
+Flac Fingerprints:
+
+Pearl_Jam_1998_07_05_d7_csb_01.flac:5257759b3f6657f1d4d9360f83bd95bb
+Pearl_Jam_1998_07_05_d7_csb_02.flac:9b8e16dd62b6314a5d9bda58846156d6
+Pearl_Jam_1998_07_05_d7_csb_03.flac:59d23da9ba3f77e03382d04c3b5ada56
+Pearl_Jam_1998_07_05_d7_csb_04.flac:eb475d7cd6f3f1d3618fc5ebe53fb30e
+Pearl_Jam_1998_07_05_d7_csb_05.flac:7ab1875782352e9c83515971876268ac
+Pearl_Jam_1998_07_05_d7_csb_06.flac:cfe78b46851208da773b71dae9e037cb
+Pearl_Jam_1998_07_05_d7_csb_07.flac:2855eceab388a1e57395287d2fe816c2
+Pearl_Jam_1998_07_05_d7_csb_08.flac:161fcf75ecc058c1ce3eb4390726cae4
+Pearl_Jam_1998_07_05_d7_csb_09.flac:f8a783f8d4a20a3044ae1122ea07e0d0
+Pearl_Jam_1998_07_05_d7_csb_10.flac:2c02e98d7fc2c261fe3c2aa140d71338
+Pearl_Jam_1998_07_05_d7_csb_11.flac:9f5ffdffa260a95d9351494d494850e9
+Pearl_Jam_1998_07_05_d7_csb_12.flac:6843ea4a8526cf659e08415609892016
+Pearl_Jam_1998_07_05_d7_csb_13.flac:30c932eb4ccf330729a8d30173a8b79e
+Pearl_Jam_1998_07_05_d7_csb_14.flac:9d55f417367771250aa6634042a889d5
+Pearl_Jam_1998_07_05_d7_csb_15.flac:2d09c9d3b9d70313356e45762b796b33
+Pearl_Jam_1998_07_05_d7_csb_16.flac:593ed9365e32a1b0431ba8d1fcd1653c
+Pearl_Jam_1998_07_05_d7_csb_17.flac:4fa5880587f137a182c0d28466c953e9
+Pearl_Jam_1998_07_05_d7_csb_18.flac:cb2228c23ce485cc02f1ee772ab12683
+Pearl_Jam_1998_07_05_d7_csb_19.flac:8231ded0835d07f69fea2b6fdbafc8ca
+Pearl_Jam_1998_07_05_d7_csb_20.flac:e975280829831e922b31c26d1a16f21f
+Pearl_Jam_1998_07_05_d7_csb_21.flac:4a43dada546018a578df9a1ace1b36a1
+Pearl_Jam_1998_07_05_d7_csb_22.flac:a061075df1c2c9b199fe4479a19222dc
+Pearl_Jam_1998_07_05_d7_csb_23.flac:40d99066d7113a8bbec86ce8ce4ae87f
+
+Checksum file saved to disk.
+
+No errors occured.
+
+
+
+
+
+
+*********************TRADE ONLY NEVER FOR PROFIT*********************
+************************MADE BY FANS FOR FANS************************
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+::::::::::::::::::::::::::BUY THEIR ALBUMS:::::::::::::::::::::::::::::
+::::::::::::::::::::::::GO SEE THEM ON TOUR::::::::::::::::::::::::::::
+::::::::::::::::::::::::::::::TAPE::::::::::::::::::::::::::::::::::::::
+:::::::::::::::::::::::::::::TORRENT:::::::::::::::::::::::::::::::::::
+::::::::::::::::::::::::::::::SEED::::::::::::::::::::::::::::::::::::
+:::::::::::::::::::::::::::::::1:1:::::::::::::::::::::::::::::::::::

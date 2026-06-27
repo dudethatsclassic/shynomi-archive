@@ -1,0 +1,21 @@
+Pearl Jam
+11/27/91 Gardens: Cincinnati, OH
+
+  source: Realistic > Sony wm-d6
+ lineage: cassette master > 1st generation cassette (type iv metal) > .wav [24bit 44.1kHz] > .wav [16bit 44.1kHz] > .flac
+transfer: Nakamichi CR-7A > M-Audio Audiophile 192 > Amadeus > Soundforge > FLAC frontend
+cass>wav: jlizard 12/xx/10
+flac/txt: cps 11/xx/11
+   edits: resample 24bit to 16bit
+      eq: none
+comments: tape-warble first 2 minutes
+
+tracklist: [32:37]
+
+ 1. Release
+ 2. Evenflow
+ 3. Why Go?
+ 4. Alive
+ 5. Jeremy
+ 6. Once
+ 7. Porch

@@ -1,0 +1,83 @@
+Pearl Jam - Live At Lollapalooza Brasil, March 31, 2013 - HD 1080i
+
+
+Pearl Jam didn't allow the show to be aired live. They agreed to air today (April, 06), and only today.
+I managed to capture in HD.
+This is the exactly video stream I receive on my sat box.
+
+
+Setlist:
+Elderly Woman Behind the Counter in a Small Town
+Why Go
+Interstellar Overdrive (Pink Floyd cover)
+Corduroy
+Comatose
+Olé
+Do the Evolution
+Wishlist
+Got Some
+Even Flow
+Nothingman
+Insignificance
+Daughter
+World Wide Suicide
+Jeremy
+Unthought Known
+State of Love and Trust
+Rearviewmirror
+Given to Fly
+Not for You
+Better Man
+Black
+I Believe in Miracles (Ramones cover)
+Go
+Alive
+Baba O'Riley (The Who cover)
+Yellow Ledbetter
+
+
+Media Info:
+VIDEO
+Format : MPEG-TS
+File size : 8.56 GiB
+Duration : 2h 9mn
+Overall bit rate mode : Variable
+Overall bit rate : 9 440 Kbps
+Format : AVC
+Bit rate : 8 327 Kbps
+Maximum bit rate : 12.0 Mbps
+Width : 1 920 pixels
+Height : 1 080 pixels
+Display aspect ratio : 16:9
+Frame rate : 29.970 fps
+Color space : YUV
+Chroma subsampling : 4:2:0
+Bit depth : 8 bits
+Scan type : Interlaced
+Scan order : Top Field First
+AUDIO 1
+Format : MPEG Audio 
+Format version : Version 1 
+Duration : 2h 9mn 
+Bit rate mode : Constant 
+Bit rate : 256 Kbps 
+Maximum bit rate : 264 Kbps 
+Channel(s) : 2 channels 
+Sampling rate : 48.0 KHz 
+Compression mode : Lossy 
+Delay relative to video : 3ms 
+AUDIO 2
+Format : AC-3 
+Format/Info : Audio Coding 3 
+Duration : 2h 9mn 
+Bit rate mode : Constant 
+Bit rate : 384 Kbps 
+Maximum bit rate : 395 Kbps 
+Channel(s) : 5 channels 
+Channel positions : Front: L C R, Side: L R 
+Sampling rate : 48.0 KHz 
+Bit depth : 16 bits 
+Compression mode : Lossy 
+
+
+Enjoy!

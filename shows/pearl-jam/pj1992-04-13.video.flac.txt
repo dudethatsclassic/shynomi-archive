@@ -1,0 +1,34 @@
+Pearl Jam
+04-13-92
+Ritchie Coliseum, University of Maryland
+College Park, MD
+
+Source: Video
+Generation: VID-M -> ???? -> cassette -> DAT-M 48khz
+Transfer: DA-20 -> Monster coax -> DiO 2496 -> CEP 2.1 -> FLAC frontend -> FLAC -> FLAC frontend -> WAV -> CEP 2.0 (44.1 resample, dead air edits) -> CD Wave 1.71 -> FLAC frontend -> FLAC
+
+Disc I
+01 Intro
+02 Wash
+03 Once
+04 Even Flow
+05 State of Love and Trust
+06 Alive
+07 Black
+08 Deep
+09 Jeremy
+10 Why Go
+11 Talking
+12 Porch
+13 Encore Break
+14 Garden
+15 (Outshined)/Leash
+16 Rockin' in the Free World (incomplete)
+
+Runtime: 68:24
+
+Notes: Very poor sound quality, but only known source.
+
+Transfer by BLG
+Compiled on 11-20-04
+Tracked and resampled by BMR on 8-30-06

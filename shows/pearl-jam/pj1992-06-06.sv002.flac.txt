@@ -1,0 +1,73 @@
+Pearl Jam
+SV002 - "THE HAUNTED FINSBURY"
+June 6, 1992
+Finsbury Park Festival: London, England
+
+Source: pre-FM soundboard (UK broadcast) > BBC Transcription Services "In Concert" CD (silver) > cdr > shn > dEdit > flac 
+(cuts patched with pre-FM soundboard (US broadcast) > Westwood One Radio Broadcast CD (silver) > cdr) 
+
+"Montage" source: 3rd gen VHS > mpeg > mp3 > dEdit > dEQ > flac
+
+Digital Editing: Allen Robertson
+Artwork: Allen Robertson
+
+---------------------------
+***DO NOT CONVERT TO MP3***
+---------------------------
+
+01 Wash
+02 Once	
+03 Why Go	
+04 Jeremy	
+05 Deep
+06 Alive
+07 (Stop Hurting People)/Black
+08 State Of Love And Trust
+09 Even Flow
+10 Porch
+11 (This Town)/Rockin' In The Free World
+
+12 "Cutting Room Floor" montage:
+   a) Guitar doodling in-between  Deep and Alive (10 secs)
+   b) Guitar doodling in-between  Alive and Black (30 secs)
+   c) Ed chatting about taping shows in-between  Black and SOLAT (40 secs)
+   d) Ed chatting about reproductive rights in-between  SOLAT and Even Flow (40 secs)
+   e) Guitar doodling in-between  Even Flow and Porch (12 secs)
+   f) crowd in-between  Porch and RitFW (28 secs)
+
+---------------------------
+***DO NOT CONVERT TO MP3***
+---------------------------
+
+Recording Notes:
+The bulk of this is sourced from a digital clone of a BBC Transcription Services cd silver, with some parts 
+patched from a different radio cd silver for Westwood One. On all of the known broadcasted versions,
+certain parts of the show in-between songs were consistently cut out (mostly guitar tunings and Ed's speeches 
+about reproductive rights and taping shows where he is not using "radio-friendly language"). These missing bits 
+and pieces have been collected as a separate montage on the last track, being sourced from a video. The quality 
+of the video source differed greatly from the pre-FMs, so it was not feasible to try and patch it into the main 
+source, but it is included to hear what was cut from the broadcasts. All talking by DJs that were present on the 
+original broadcasts have been removed.
+
+For the technically curious, this is how the sources were patched together:
+0:00.000 - 0:20.000(approx)	Westwood One US pre-FM
+0:20.000(approx) - 4:05.720 	BBC Transcription Services UK pre-FM
+4:05.720 - 4:12.950        	Westwood One US pre-FM
+4:12.950 - 7:24.231 	  	BBC Transcription Services UK pre-FM
+7:24.231 - 7:33.186        	unknown UK pre-FM>1st gen analog + Westwood One US pre-FM mix (original mixing: ThinAir)
+7:33.186 - 51:57.668 	  	BBC Transcription Services UK pre-FM
+
+Artwork Notes (spacedvest):
+Really goofy stuff for this one (sorry, this was done years ago). I updated a little of it for this particular release, 
+but most of it is the same as from what I had done a long time ago.  :)
+
+Show Notes (thanks to Five Horizons):
+Amazing version of 'Black.' 'Even Flow' is dedicated to Dee from L7 as she "... hasn't had her period for nearly two 
+months." Lyrics are modified to "... pillows made of Tampax." Ed encourages the crowd to tape shows. Hopping into the 
+crowd during 'Porch,' Ed barely makes it back to the stage as security mistakes him for a stagediver.
+
+This is being distributed by blackredyellow.com in tandem with pj.sidewalkcrusaders.com, and is part of a series 
+of the best Pearl Jam shows in existence (BTW, the spell checker is now on). If the artwork is not included, you 
+can find it at blackredyellow.com.
+
+Compiled by spacedvest on 6/12/04.

@@ -1,0 +1,51 @@
+
+Pearl Jam
+United Center: Chicago, IL
+June 29, 1998
+
+Source: MarcSounds > Sony TCD-D100 @ 48kHz
+Location: FOB 19th row floor, left stacks
+Transfer: DAT Master > Tascam DA-20 > M-Audio MicroTrack II > Audacity > CDWave > FLAC Frontend
+Edits/EQ: None
+Taper: tapeworm(48) 
+
+Setlist:
+
+01 Intro
+02 Long Road
+03 Do The Evolution
+04 Brain of J.
+05 Hail, Hail
+06 Go
+07 Dissident
+08 Even Flow
+09 Given to Fly
+10 Corduroy
+11 Rearview Mirror
+12 In Hiding
+13 Jeremy
+14 Daughter / (Ray of Light) / (Another Brick in the Wall)
+15 Nothingman
+16 MFC
+17 Off He Goes
+18 Present Tense
+19 Alive
+20 -encore break-
+21 Wishlist
+22 Better Man / (Save it for Later)
+23 State of Love & Trust
+24 Black
+25 Last Exit
+26 -encore break 2-
+27 Baba O'Riley [The Who]
+28 Yellow Ledbetter / (Machine Gun)
+29 Outro
+
+Notes: Transferred in June 2020 from my master DAT. Raw transfer with no fades or EQ.
+
+Archive: Master DAT was transferred @ 48kHz and FLAC'd with cue sheet. 
+
+Taped and transferred by tapeworm(48) 
+Txt file compiled on 7/9/2021
+
+*** DO NOT DISTRIBUTE IN LOSSY FORMATS. DO NOT SELL THIS RECORDING, TRADE IT FREELY *** 

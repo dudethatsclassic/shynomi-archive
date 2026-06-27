@@ -1,0 +1,32 @@
+PEARL JAM
+April 30, 1992
+Unicorn Club
+Houston, TX
+
+Source: Sony CCD-TR7 (?)
+Taper: unknown
+Lineage: VHS(1) > AVI [PCM 16/32] > WAV [16/44.1] > FLAC
+Transfer: JVC HR-S9600U > Canopus ADVC300 > Windows Video Recorder > ffmpeg
+Edits/EQ: none 
+Notes: 3 dropouts in "Jeremy", cut between "talk" and "improv"
+
+01 - intro
+02 - Wash
+03 - Once
+04 - (Suggestion)
+05 - Even Flow
+06 - State of Love and Trust
+07 - Alive
+08 - improv
+09 - Black
+10 - Deep
+11 - Jeremy
+12 - Why Go
+13 - imrpov - talk
+14 - Porch
+15 - talk (cuts out)
+16 - (cuts in) improv
+17 - Leash
+
+
+Compiled May 2020 by CPS

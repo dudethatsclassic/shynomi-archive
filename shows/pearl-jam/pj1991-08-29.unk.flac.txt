@@ -1,0 +1,26 @@
+Pearl Jam
+08/29/91
+RKCNDY
+Seattle, WA
+
+Source: UM > UR > cassette > DAT > .wav > .shn
+
+DAT > .wav > .shn: Meghan House (mehouse1@yahoo.com) 
+
+Equipment: Archive-Python DDS DAT Drive > DAT2WAV > CEP (48kHz > 44.1kHz, fade in/out) > CDWAVE > mkwACT
+
+01. Once*
+02. Even Flow
+03. State of Love and Trust
+04. Surfing
+05. Alive
+06. Lollapolooza
+07. Jeremy
+08. Why Go
+09. Porch
+
+* Beginning is cut.
+
+*************************************
+***  PLEASE DO NOT ENCODE TO MP3  ***
+*************************************

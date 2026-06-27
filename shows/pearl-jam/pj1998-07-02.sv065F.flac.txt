@@ -1,0 +1,112 @@
+Pearl Jam
+SV065 - "CHANGES"
+July 2, 1998
+Riverport Amphitheater: Maryland Heights, MO
+
+opening band: Murder City Devils
+
+3-source matrix:
+[SBD (mono) -> ALD -> SBM-1 -> D8 -> DAT(M) -> FLAC -> .wav] +
+[Schoeps CCM4s -> Aerco -> SBM-1 -> D100 (20th row center) -> DAT(1) -> FLAC -> .wav] +
+[AKG460b + ck8 (shotgun) -> EAA-PSP3 -> DTR-80P -> D7 (33rd row center) -> DAT(1) -> FLAC -> .wav -> dEQ]
+=> FLAC
+
+
+DAT>FLAC transfers: DA20mkII -> Audiophile 2496 -> Soundforge -> FLAC frontend -> .flac
+
+
+Transfers by: cps 01/15/05
+Mix by: BLG 07/23/05
+Artwork: Allen Robertson
+
+============================
+DO NOT SELL - TRADE ONLY
+============================
+
+DISC ONE:
+01 Intro
+02 Oceans
+03 Hail Hail
+04 Brain of J
+05 Spin the Black Circle
+06 Tremor Christ
+07 Given to Fly
+08 In Hiding
+09 Corduroy
+10 MFC
+11 Wishlist
+12 Nothingman
+13 improv ->
+14 Habit
+15 Even Flow
+16 Daughter/(Institutionalized)
+
+DISC TWO:
+01 Immortality
+02 Black
+03 Alive
+04 encore break
+05 Do the Evolution
+06 Jeremy
+07 I Got Shit
+08 Better Man/(Save it For Later)
+09 Fuckin' Up
+10 Yellow Ledbetter
+
+============================
+DO NOT SELL - TRADE ONLY
+============================
+
+
+Note:
+This is one of six versions that have made for this show. This particular source is "F" listed below.
+"A" = stereo matrix mix by dan (at) am-dig (dot) com
+"B" = DTS 5.1 audio version by dan (at) am-dig (dot) com
+"C" = 6-channel x 24/44 DVD audio version by dan (at) am-dig (dot) com
+"D" = 6-channel x 16/44 DVD audio version by dan (at) am-dig (dot) com
+"E" = DVD-A 24/44 matrix mix by dan (at) am-dig (dot) com
+"F" = stereo matrix mix by BLG
+
+
+Show Notes (thanks to Five Horizons/TwoFeetThick):
+Excellent show with the opening songs totally rocked out. Band looks really happy and playing great.
+'Oceans' is a beautiful opener and 'In Hiding' is one of the finest versions played. 'Nothingman' is
+introduced as a song about a man who "not only couldn't change the world ... he couldn't even take care
+of himself." 'Institutionalized' is a Suicidal Tendencies cover ("I'm not crazy, you're the one who's
+crazy ... institution.") 'Fuckin' Up' is a total surprise! Great crowd.
+
+
+This is being distributed by blackredyellow.com in tandem with pj.sidewalkcrusaders.com, and is part of a
+series of the best Pearl Jam shows in existence.
+If the artwork is not included, you can find it at blackredyellow.com.
+
+compiled by BLG on 07-23-05
+more notes/revision by spacedvest on 08-28-05
+
+
+pj1998-07-02mix_d1t01.flac:3925a238c71ebeb623820d23b40fe427
+pj1998-07-02mix_d1t02.flac:d5fd80aa44fb34bc2319cdda030469a0
+pj1998-07-02mix_d1t03.flac:164c61806e6c391e6f22f7bbeeb867ab
+pj1998-07-02mix_d1t04.flac:89bc9a80a5e81caa76db472ecc7447d5
+pj1998-07-02mix_d1t05.flac:a0297d86e05e9e484bcf50f837422b89
+pj1998-07-02mix_d1t06.flac:47924e81e2bd95b8b2485e2a3422fd2e
+pj1998-07-02mix_d1t07.flac:7f08267402312c4c9bceeac6229211e6
+pj1998-07-02mix_d1t08.flac:974d3238bbfab92ccd83dacd538e52b0
+pj1998-07-02mix_d1t09.flac:65571fa17a5182e09a6ba2c6469afc18
+pj1998-07-02mix_d1t10.flac:250541464c06ac51e9aa9c6a9b0c6e32
+pj1998-07-02mix_d1t11.flac:d8b810f6f437a877315b32db55b043a0
+pj1998-07-02mix_d1t12.flac:e2d521b0247be189e57a3c714f6a5699
+pj1998-07-02mix_d1t13.flac:eee71ad02002d6dc912fe179ad0f1a6d
+pj1998-07-02mix_d1t14.flac:0101e6ccabf645ed9c1d5715c41f73df
+pj1998-07-02mix_d1t15.flac:3f7e660f87630ba57704ce6b28a3f090
+pj1998-07-02mix_d1t16.flac:fdff5f39163965069f97d245cca24c2f
+pj1998-07-02mix_d2t01.flac:7c1eed6b481a78203128033f65cee886
+pj1998-07-02mix_d2t02.flac:597959e3010d153e3006e4d22b69b8a4
+pj1998-07-02mix_d2t03.flac:2ed9876b08ad80382068ff919c1805bc
+pj1998-07-02mix_d2t04.flac:863e7931d8809a587b5cd4e2eb74f412
+pj1998-07-02mix_d2t05.flac:8b4ee077633027dc7e5894516dd77b61
+pj1998-07-02mix_d2t06.flac:5f062742919db96e4c7637baa30f251f
+pj1998-07-02mix_d2t07.flac:8928bbdaf254ca5d57cd600fd8e92fa2
+pj1998-07-02mix_d2t08.flac:5edc13a9994ccc3400d3dc6272ea3829
+pj1998-07-02mix_d2t09.flac:4b5e057bc8a784b3b73ada0c86184263
+pj1998-07-02mix_d2t10.flac:01a0e0006c756b6a20378e88dac30484

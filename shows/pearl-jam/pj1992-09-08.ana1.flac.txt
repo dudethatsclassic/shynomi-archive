@@ -1,0 +1,52 @@
+Pearl Jam
+09-08-92
+Desert Sky Pavilion
+Phoenix, AZ
+
+Source: PZM -> Sony WM-D6
+Generation: ANA(1) -> DAT(c) 48khz -> FLAC
+Transfer: DA-20 -> Monster coax -> DiO 2496 -> Soundforge 6.0 (resample to 44.1) -> 
+	CDWave -> FLAC frontend -> FLAC
+
+
+01 Sonic Reducer 
+02 Even Flow 
+03 Why Go 
+04 Deep 
+05 Jeremy 
+06 Improv 
+07 Alive
+08 Black 
+09 Porch/(Tearing) 
+10 Baba O'Riley
+
+
+Notes: Small cuts after Black and Porch which are assumed to be tape flips and/or pauses.
+
+
+FILLER:
+02-10-92
+Virgin Records
+Paris, France
+
+Source: Marantz EM8? -> Sony WM-D3
+Generation: ANA(1) -> DAT(M) 44.1 khz -> FLAC
+Transfer: DA-20 -> Monster Coax -> DiO 2496 -> CEP 2.1 -> CDWave -> FLAC
+
+11 Wash
+12 Alive
+13 Black
+14 Porch
+
+
+Notes: Acoustic in-store performance.
+
+
+
+Thanks to cps for the DATs.
+
+Transfer by BLG
+compiled on 11-23-04
+
+
+ 

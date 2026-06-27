@@ -1,0 +1,54 @@
+Pearl Jam
+03-07-98
+Thebarton Oval
+Adelaide, Australia
+
+Source: Core Sound Binaurals -> Sony TCD-D7 (FOB, to the side)
+Generation: DAT(M) -> DAT(1) 48khz -> FLAC
+Transfer: DA-20 -> Monster coax -> DiO 2496 -> Soundforge 6.0
+	(resample to 44.1) -> CDWave -> FLAC
+
+
+Disc I
+01 Intro (The Color Red)
+02 MFC 
+03 Brain of J 
+04 Hail Hail
+05 Animal 
+06 Do the Evolution 
+07 Dissident 
+08 Jeremy 
+09 Corduroy 
+10 Wishlist 
+11 Lukin 
+12 I Got Shit 
+13 Even Flow 
+14 Daughter/(Hunger Strike) 
+15 Given to Fly 
+16 Improv ->Habit 
+17 Small Town 
+
+
+Disc II
+01 Nothingman 
+02 State of Love and Trust 
+03 Alive
+04 Go 
+05 Once 
+06 Better Man/(Save it for Later) 
+07 Last Exit
+08 Yellow Ledbetter
+
+
+
+Notes: Level drop during MFC.
+
+
+
+Thanks to Vikas for the DAT.
+
+Transfer by BLG
+compiled on 01-13-05
+
+
+ 

@@ -1,0 +1,34 @@
+Pearl Jam
+Sjöhistoriska Muséet, Stockholm, Sweden
+1993-06-28
+
+Source: Audience recording
+Generation: 1st
+Tape: Maxell XLII 90 (Type II High)
+Taper: Per-Erik
+
+From the collection of Mats L.
+
+Tape transfered by TheMetalist 2020-07-21.
+Edited by Mats L. (mats666) 2021-07-20
+
+Lineage: Maxell XLII 90 > Nakamichi DR-1 > Sony PCM-M10 > 2 x WAV (24 bit/48 kHz) > SanDisk 32GB SDHC card > USB > PC
+PC Lineage: Audacity/ Adobe Audition (edits/EQ) > dBpoweramp music cenverter 
+wav 16/44 > TLH (fixing SBE`s) > CD wave editor (cue sheet) > dBpoweramp music converter > FLAC (level 8)
+
+
+Setlist
+1. Even Flow
+2. Animal
+3. Go
+4. Rearviewmirror
+5. Elderly Woman Behind the Counter in a Small Town
+6. Why Go
+7. Jeremy
+8. Black
+9. Alive
+10. Sonic Reducer 
+11. Porch
+12. Daughter (incl. Tonight's the Night-snippet)
+
+Duration: 56:47 min

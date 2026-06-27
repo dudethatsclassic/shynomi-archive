@@ -1,0 +1,50 @@
+PEARL JAM
+July 17, 1991
+Wetlands Preserve
+New York, NY
+
+SETLIST (54:51)
+-----------------
+01) Wash
+02) Once
+03) Even Flow
+04) Alive
+05) State Of Love And Trust
+06) Black
+07) Why Go
+08) Garden
+09) Porch
+10) Alone
+11) Breath 
+
+GENERATION
+-----------------
+ANA(1) > WAV [48kHz/24bit] > WAV [44.1kHz/16bit] > FLAC [Level 8]
+
+SOURCE
+-----------------
+Sony PC-62 > Sony WM-D3
+
+TRANSFER
+-----------------
+Nakamichi DR-8 > LynxONE > Sound Forge 7.0 > CD Wave 1.6.1 > FLAC frontend 1.7.1
+
+MD5 FINGERPRINTS
+-----------------
+1e8eba849f10eaf474f7bfe958ea6870 *pearljam1991-07-17t01.flac
+72914b4fcebef5ab9164e273846886c0 *pearljam1991-07-17t02.flac
+3ca55153bc9cf40632eecae42f902f46 *pearljam1991-07-17t03.flac
+230e9a0804df6843873b33f306d9185f *pearljam1991-07-17t04.flac
+6235ce1ec5e40e9a90846a99fc87fb04 *pearljam1991-07-17t05.flac
+d1ba8c59ed0cf4f3c8fd5f8d18a1503e *pearljam1991-07-17t06.flac
+351c7861c0804aa6bc272cd35bf0e62c *pearljam1991-07-17t07.flac
+da0a9f473a3037057e9f99b4ce5d230c *pearljam1991-07-17t08.flac
+ff8a323330c15570f475f490eab1d82a *pearljam1991-07-17t09.flac
+364fb4d2a0f98017e485e369b9a3cd59 *pearljam1991-07-17t10.flac
+14bf5dd0673ceaaabc3b03a15a4f7768 *pearljam1991-07-17t11.flac
+
+
+Transferred by Mike Ziegler.
+PLEASE DO NOT ENCODE TO MP3 OR SELL!
+
+If you or anyone you know taped Nirvana, please let me know! mike@mikeziegler.com

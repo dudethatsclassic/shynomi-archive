@@ -1,0 +1,97 @@
+Pearl Jam » 2004.10.02 - Sports Arena - Toledo, Ohio, USA
+
+
+Band name: Pearl Jam
+Date: October 2, 2004
+Venue: Sports Arena
+Location: Toledo, Ohio, USA
+Tour name: Vote for Change
+Type: Tradeable
+Media: 1 DVD
+Version: Right Cam
+Filming type: Audience
+Generation: Master
+Lineage: Sony TR70 MiniDV > Firewire > CCE > DVD
+Video format: NTSC
+Aspect ratio: 4:3
+Total running time: 2h-07m-46s
+Chapters: Yes
+Menus: Yes
+Number of camera angles: 1
+Number of audio selections: 2
+Track listing:
+
+01 Long Road
+02 Corduroy
+03 Hail Hail
+04 Save You
+05 The American in Me
+06 Cropduster
+07 I Am Mine
+08 Wishlist
+09 Better Man
+10 I Believe in Miracles
+11 Even Flow
+12 Bleed for Me
+13 Alive
+Acoustic Set:
+14 Thumbing My Way
+15 Elderly Woman
+16 Black
+E1:
+17 Harvest Moon [Neil Young w/ Eddie Vedder (guitar/backup vocals) & Peggy Young (backup vocals]
+E2:
+[Neil Jam w/ Peter Frampton on elect. rhythm guitar]
+18 All Along the Watchtower
+19 Act of Love ^
+20 Cortez the Killer (cut)
+21 Rockin' in the Free World
+Notes and comments:
+^ = played for first time since 9/19/98
+
+Neil & Pegi Young joined the show midway through. The Neil Jam lineup consisted of:
+
+Neil Young - lead vocals/guitar
+Peter Frampton - rhythm electric guitar
+Stone Gossard - acoustic guitar
+Jeff Ament - bass
+Mike McCready - guitar
+Boom Gasper - keys
+Eddie Vedder - backup vocals on Watchtower, Act of Love, RITFW
+Pegi Young - backup vocals on Act of Love and RITFW
+
+Stereo: Schoeps > DAT
+Dolby Digital 5.1: [Schoeps > DAT] + [DPA4022 > SX-M2 > SBM1> DAT]
+
+
+dd1000aa7376aab68001477de870ab93 *VIDEO_TS.BUP
+dd1000aa7376aab68001477de870ab93 *VIDEO_TS.IFO
+2924429357af70a7f5f2b67c229f9605 *VIDEO_TS.VOB
+03c8aa668248bde26c641f611e5367b3 *VTS_01_0.BUP
+03c8aa668248bde26c641f611e5367b3 *VTS_01_0.IFO
+badbe05c20254042c269bf8a2ff69665 *VTS_01_0.VOB
+24a5f0427fb115af668124e10d866660 *VTS_01_1.VOB
+b238520cc392b005641cf40f44c9ea3d *VTS_01_2.VOB
+6d63bc76fcd2bc66d05237fa68925c80 *VTS_01_3.VOB
+852fb3948c82244682a98b11ceea2b38 *VTS_01_4.VOB
+880f45e99c78a9176f854bdcb04dedf9 *VTS_01_5.VOB
+a16552787dd62d0435390e3e7fc0af67 *VTS_02_0.BUP
+a16552787dd62d0435390e3e7fc0af67 *VTS_02_0.IFO
+2924429357af70a7f5f2b67c229f9605 *VTS_02_0.VOB
+dc6e601709fc42dd09ada6e41727fe71 *VTS_02_1.VOB
+aab33d636c53079bb08a03e61ad27da3 *VTS_03_0.BUP
+aab33d636c53079bb08a03e61ad27da3 *VTS_03_0.IFO
+2924429357af70a7f5f2b67c229f9605 *VTS_03_0.VOB
+5c3ef2ca94f1b46ef24826f148841393 *VTS_03_1.VOB
+058cd73bf7e05e1201bedc78920d1714 *VTS_04_0.BUP
+058cd73bf7e05e1201bedc78920d1714 *VTS_04_0.IFO
+2924429357af70a7f5f2b67c229f9605 *VTS_04_0.VOB
+7ac299f944ff53c95eb1427d76514dbc *VTS_04_1.VOB
+c935d9e8244909aa6fa982e6b055d0aa *VTS_05_0.BUP
+c935d9e8244909aa6fa982e6b055d0aa *VTS_05_0.IFO
+2924429357af70a7f5f2b67c229f9605 *VTS_05_0.VOB
+b8ae9c997bc437c2f2501dfdaf2789d1 *VTS_05_1.VOB
+253b055599b98b93638b8eef7872c6d6 *VTS_06_0.BUP
+253b055599b98b93638b8eef7872c6d6 *VTS_06_0.IFO
+2924429357af70a7f5f2b67c229f9605 *VTS_06_0.VOB
+fd021495d766d8cbf0946d75132ab152 *VTS_06_1.VOB

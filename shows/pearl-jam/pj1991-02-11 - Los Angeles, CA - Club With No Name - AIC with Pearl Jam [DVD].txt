@@ -1,0 +1,46 @@
+Alice In Chains and Pearl Jam
+
+February, 11 1991
+
+Venue: Club With No Name
+City: Los Angeles
+State/province: California
+Country: USA
+
+Set List Alice In Chains: 
+
+1. Real Thing
+2. It Ain't Like That
+3. Man In The Box
+4. Bleed The Freak
+5. Dirt
+6. We Die Young
+7. Sunshine
+8. Confusion
+9. Sickman
+
+
+Set list Pearl Jam:
+
+1. Wash
+2. Once
+3. Even Flow
+4. Breath
+5. Porch
+
+Video
+Format                           : MPEG Video
+Format version                   : Version 2
+Bit rate mode                    : Variable
+Bit rate                         : 4 304 Kbps
+Nominal bit rate                 : 9 555 Kbps
+Width                            : 704 pixels
+Height                           : 480 pixels
+Display aspect ratio             : 4:3
+Frame rate                       : 29.970 fps
+Standard                         : NTSC
+
+Audio
+Format                           : AC-3
+Bit rate mode                    : Constant
+Bit rate                         : 256 Kbps

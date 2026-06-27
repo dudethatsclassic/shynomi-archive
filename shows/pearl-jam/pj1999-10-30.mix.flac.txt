@@ -1,0 +1,18 @@
+Pearl Jam
+Bridge School Benefit
+Shoreline Amphitheater: Mountainview, CA USA
+10.30.1999
+
+Source:		[PRO-SHOT video] + [Schoeps > DAT] > CDR
+Transfer:	CDR > EAC > Plextor PlexWriter 12/4/32(SCSI) > EAC 0.9b3 > shorten32 > SHN
+
+Tracklisting:
+
+01 - Intro					- 00:49
+02 - Soldier of Love				- 02:53
+03 - Wishlist					- 04:15
+04 - Thin Air					- 03:54
+05 - Elderly Woman				- 04:34
+06 - Footsteps					- 05:30
+07 - Last Kiss					- 03:46
+08 - Yellow Ledbetter				- 05:26

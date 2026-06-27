@@ -1,0 +1,49 @@
+Pearl Jam
+Forum, Milan, Italy
+November 13, 1996
+
+DVD Info: dual-layer
+video: NTSC 4:3 29.97fps CBR 8500 kbits/s
+audio: AC3 5.1 448 kbits/s
+length: 1 hr 48min 28 sec
+
+Video sources:
+V1: 1st gen VHS>JVC HR-S9911U>S-video>Sony DRC-TRV460>Firewire>avi>PixieDust(filter)>CCE>MPEG-2
+V2: 2nd gen VHS>JVC HR-S9911U>S-video>Sony DRC-TRV460>Firewire>avi>PixieDust(filter)>CCE>MPEG-2
+
+audio sources:
+A1: Countryman Isomax II>Sony TCD-D7>DAT>CDR>EAC>wav
+
+DD 5.1 mix front: A1
+        surround: V1 + V2 audio
+          center: front>dEQ>mono>40% amplitude
+             LFE: front>dEQ>mono>80% amplitude
+
+Long Road
+Go
+Last Exit
+Hail, Hail
+Red Mosquito
+Who You Are
+Off He Goes
+Corduroy
+Better Man
+Habit
+Even Flow
+Daughter
+Jeremy
+Sometimes
+Rearviewmirror
+Present Tense
+Alive
+
+Once
+State of Love and Trust
+Nothingman
+Smile
+Porch
+
+Yellow Ledbetter
+
+Notes: Static in CMII source during Long Road and mic bumps at beginning of Last Exit.
+Special thanks to MJ for 1st gen VHS, BW for DAT transfer, and DH for tracking down sources.

@@ -1,0 +1,30 @@
+Pearl Jam
+
+07/21/92 UBC Thunderbird Stadium: Vancouver, BC
+
+source: PC62 > wm-d3
+
+lineage: cassette master > EQ > CDR > .flac
+
+cass>cdr transfer: Denon DRM-500 > Sentrek 12 band EQ > SoundBlaster 16 > WaveLab 4.0 dEQ
+cdr>.wav rip via EAC
+.wav>.flac encoding via FLAC frontend
+
+encoded by: cps 12/11/04
+
+edits: none
+
+eq: yes
+
+cuesheet: yes (with Soundgarden 7/21/92)
+
+comments: incomplete recording
+
+setlist:
+
+ 1. intro
+ 2. Deep
+ 3. Alive
+ 4. Black
+ 5. Once
+ 6. Porch

@@ -1,0 +1,36 @@
+Pearl Jam
+Madison Square Garden
+New York City, NY
+09-10-98
+
+Source: Mix: [Schoeps MK5>R-Mod>SBM-1>M1] + [AKG300b>Aerco>D7] > CDR > .shn
+
+Extracted to .wav with EAC V0.9 Beta 4 using combined read/write offset (see logs).
+Converted to .shn with mkwACT 0.97 Beta 1.
+
+Disc 1:
+01-Long Road
+02-Corduroy
+03-Brain of J
+04-Last Exit
+05-Given to Fly
+06-Animal
+07-Dissident
+08-Jeremy
+09-Daughter (Mother)
+10-Even Flow
+11-In Hiding
+12-I Got Shit
+13-Betterman
+14-Do the Evolution
+15-All Those Yesterdays
+
+Disc 2:
+01-Alive
+02-Wishlist
+03-Rearviewmirror
+04-Hail, Hail
+05-Black
+06-Elderly Woman
+07-Fuckin' Up
+08-Soldier of Love

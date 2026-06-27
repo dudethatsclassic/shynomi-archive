@@ -1,0 +1,41 @@
+PEARL JAM
+2022-06-23
+Hallenstadion
+Zürich, Switzerland
+
+Source:     Schoeps MK41V > Schoeps KC actives > Naiant tinybox > Sony PCM-A10
+Mic Config: DIN-A (90°, 17cm)
+Location:   Left side, section T1, first row
+Transfer:   Master WAVs > dEdit > FLAC V1.3.3
+Editing:    Digital editing in Cockos Reaper V6.68
+            EQ, compression and volume boost using iZotope Ozone 9
+            Annoying claps removed using iZotope RX 8
+            Fades in iZotope RX 8
+Dithering:  MBIT+
+Format:     16 bit / 44.1 kHz
+
+Disc 1:
+01 (Intro: Philip Glass - Metamorphosis Two)
+02 Release
+03 Even Flow
+04 Corduroy
+05 Immortality
+06 Dance of the Clairvoyants
+07 Quick Escape
+08 Daughter (w/ W.M.A./Leash/Glorified G tags)
+09 Given to Fly
+10 Seven O'Clock
+11 Do the Evolution
+
+Disc 2:
+01 Animal
+02 Present Tense
+03 In Hiding
+04 Jeremy
+05 Why Go
+06 Crazy Mary [Victoria Williams]
+07 > Porch
+08 (Encore Break)
+09 Smile
+10 Black
+11 Alive

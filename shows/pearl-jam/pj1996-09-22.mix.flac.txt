@@ -1,0 +1,57 @@
+Pearl Jam
+September 22, 1996
+John F. Savage Hall
+Toledo, OH
+
+2 Source Mix:
+
+Source 1:
+—————————
+Taper: Greg Holtz
+Source: Nakamichi CM300 -> Sony TCD-D3 @ 16b/48kHz
+Transfer: (By JAZ) DAT Master-> PCM-R300-> Coax-> M-Audio Delta 1010Lt-> Wave Lab 5.0, Ozone3, Fades, L2Dither 16b/44.1kHz-> Traders Little Helper flac8
+
+Source 2:
+——————————
+Source: Countryman Isomax II > Sony TCD-D7
+Lineage: DAT > CDR > FLAC
+
+
+01 Intro
+02 Sometimes
+03 Hail Hail
+04 Animal
+05 In My Tree
+06 Spin the Black Circle
+07 Corduroy
+08 Last Exit
+09 Better Man
+10 Lukin
+11 Not for You
+12 Jeremy
+13 Even Flow
+14 Mankind
+15 Daughter/(I Believe in Miracles)
+16 Habit
+17 I Got Shit
+18 Alive
+19 Blood
+20 -encore break 1-
+21 Go
+22 Who You Are
+23 Rearviewmirror
+24 Leaving Here
+25 -encore break 2-
+26 Indifference (Nak source only)
+
+Total Time: 104:19
+
+
+Notes: Both recordings are good, and complemented each other well.  The countryman sources tend to lack low end, and the Nak gave it some added depth.  Due to what I assume was some kind of weird transfer error, the Nak recording ran almost 9% slow, so it’s speed was matched to the CMII. There is some light mic noise/rumble in the CMII source that can sometimes be heard between songs. 
+
+There isn’t much noteworthy about this show.  Short, standard setlist, and although there really were no bad shows at this time, overall it’s not as good as the shows that came after it on this short tour.
+
+
+Mix and edit by BLG
+Compiled on 12/08/2013
+

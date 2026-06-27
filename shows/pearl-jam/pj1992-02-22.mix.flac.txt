@@ -1,0 +1,43 @@
+Pearl Jam
+1992-02-22
+Riverside
+Newcastle, UK
+
+Source: 2 Sources mix
+ - FM > boot 5 Alive > SHN > WAV > Cool Edit (speed correction and editing) > FLAC (tracks 1-11 & 13)
+ - VHS (Remastered w/Cool Edit Pro) > CD-R > FLAC > WAV (mix for track 13) > FLAC (tracks 12-16)
+
+Tapers: Unknown
+Conversion (source 2) CD > EAC > FLAC by Maleika Attawel
+Editing / conversion WAV > FLAC by Xavier Lages
+Quality : FM broadcast/soundboard A+ - VHS B
+
+****************************
+DO NOT CONVERT THIS INTO MP3
+****************************
+
+01. Oceans 2:52
+02. Even Flow 5:38
+03. Why Go 3:42
+04. Jeremy 5:47
+05. Deep 4:28
+06. Alive 5:31
+07. Hunger Strike 1:16
+08. Black 5:40
+09. State of Love and Trust 4:00
+10. Once 3:39
+11. Porch 7:39
+12. Encore Break 3:47
+13. My Generation 1:30
+14. Window Paine 1:58
+15. Garden 7:18
+16. Leash 3:59
+--------------
+68:49
+
+Edit notes: 
+ - tracks from the boot were played too slowly, so a speed correction was needed.
+ - My Generation was originally on track 11, before Porch. The song was cut/paste in its right place.
+ - a bit of Ed talk is missing between Once and Porch : you can hear say 'Four', so the classic Porch intro "1, 2, 3, 4" is missing.
+ - some edit can be heard between Alive and Hunger Strike. It was present on the original boot.
+ - The encore tracks come from the FLAC torrent (huge thanks to Maleika Attawel !). No corrections were made, except mix of 2 sources for My Generation, fade-in on track 12 and fade-out on track 16. Original comments by Maleika Attawel : "Songs 11-15 [now 12-16 because Hunger Stike and Black are on different tracks] are VHS sourced and not really good in sound. However, there is no other complete source and using the VHS source was the only way to obtain a complete show."

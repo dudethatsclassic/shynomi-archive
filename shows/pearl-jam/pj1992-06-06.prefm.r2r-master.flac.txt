@@ -1,0 +1,57 @@
+Pearl Jam
+Finsbury Park 
+London, UK
+June 6, 1992
+Westwood One - “High Voltage In Concert”
+
+NOTES:  reelSTEWreel728 posted an untracked version of this show @ 24/96 earlier today > http://www.thetradersden.org/forums/showthread.php?t=137505.  In the post, he politely gave people the prerogative to track the show and/or convert to 16-bit. This is the tracked 24/96 version.  I have a 16/44 version that I can post if there is interest.  
+
+* * * * * * 
+
+Source: Pre-FM Westwood One Reel-2-Reel Tape
+
+Transfer:  Radio Station Reel (7.5ips) > Otari-MX-5050-B3 > Focusrite Scarlett 2i4 (A/D) > SoundForge 9.0 (24/96) > Audacity 2.1.1 (tracking) > xAct (flac level 8, ffp)
+
+SET:
+
+01. Interview (cuts in - tape was presumably damaged at the radio station)
+02. Wash My Love
+03. Why Go
+04. Jeremy
+05. Commercials
+06. Interview 2
+07. Deep
+08. Alive
+09. Commercials 2
+10. Intro > Black
+11. State Of Love And Trust
+12. Even Flow
+13. Keep On Rockin' In The Free World (Neil Young)
+14. Outro
+15. Preview
+
+Transfer Notes: 
+-All recorded to one stereo file.
+-Commercials and DJ chatter left in.
+-Straight transfer with no editing or EQ
+-My R2R Machine is professionally maintained (Aligned, cleaned, demagnetized) often.
+
+
+TRANSFERRED BY: "Trichrome Productions AG" on 01/03/2018
+INDEXED BY:  dandrew 01/03/2018 
+
+pj19920606_track01.flac:50bb72a2b09455a52dc195d6db1711da
+pj19920606_track02.flac:61396a012c9ad9c3cdb3a4e6bf5fe607
+pj19920606_track03.flac:5cc7a891b95a7610f3db2817342ad8e2
+pj19920606_track04.flac:b4d2860e288f69d28ada833997d6c866
+pj19920606_track05.flac:2a5b4babffe5eb852eaecc64873986ec
+pj19920606_track06.flac:090ff5956e2f38e18643bc5ad25c4698
+pj19920606_track07.flac:7ebc99301f0f8320b1987b98393251d8
+pj19920606_track08.flac:7e118cc63b6d69891734745cb9bfa7e3
+pj19920606_track09.flac:5fdb56fedb5301ae082ffeb2c8dcfd78
+pj19920606_track10.flac:f24f13dbf38fbe2db5ac1721fde2fe1d
+pj19920606_track11.flac:6df542b07378da5e2a0db18d51c5d420
+pj19920606_track12.flac:3e5880e27dd1abbef4d37c86cfb10bed
+pj19920606_track13.flac:fb84c824c239cff98f76ef4498a245d2
+pj19920606_track14.flac:51c5d6cf2d630b34dfc190bbcfb8981c
+pj19920606_track15.flac:29f936ae6f9f9e109284010a9bfc5733

@@ -1,0 +1,29 @@
+Pearl Jam
+07-18-98
+Rose Garden Arena
+Portland, OR
+SOUNDCHECK
+
+Source: unknown mic -> unknown recorder
+Generation: ANA(M) -> DAT(M) -> EQ -> DAT(2) 48khz -> FLAC
+Transfer: DA-20 -> Monster coax -> DiO 2496 -> CEP 2.1 -> (resample to 44.1)
+	 -> FLAC frontend -> FLAC
+
+01 Intro
+02 I Got You
+03 Instrumental
+04 Not For You 
+05 Hail Hail
+06 Sonic Reducer, 
+07 (Red Mosquito)/(MFC)/(Off He Goes)
+
+
+Notes: Poor sound quality.
+
+
+
+
+Thanks to cps for the DATs.
+
+Transfers by BLG
+compiled on 12-05-04

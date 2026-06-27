@@ -1,0 +1,13 @@
+Pearl Jam
+October 1, 2011
+The Tonight Show Starring Jimmy Fallon - Studio 6B, Rockefeller Center, Midtown Manhattan, New York
+
+Source: PCM (2.0) > FLAC (2.0)
+
+Lineage: 1080i Broadcast > Direct HD Capture with Hauppauge PVR > MPEG2 Transport Stream (*.ts) > PCM - BluRay (Pearl Jam TV Master Archive)  > FLAC
+
+Source Contributor: PJVedder
+
+FLAC Conversion: Kakashisensei
+
+01 Mother

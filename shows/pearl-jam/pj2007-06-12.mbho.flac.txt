@@ -1,0 +1,53 @@
+PEARL JAM
+2007-06-12
+Olympiahalle
+Munich, Germany
+
+Source:     MBHO MBP 603 A / KA 200 N > Sound Devices MP-2 > Edirol R-09
+Mic Config: in hat, DINA (17cm, 90°)
+Location:   FOB, dead center
+Transfer:   Master WAVs > Digital Editing > CD Wave Editor V1.95.1
+              > FLAC V1.1.4
+Editing:    Volume boost and fades in Steinberg WaveLab V5.01b
+Dithering:  UV22 HR dithering in Steinberg WaveLab V5.01b
+Resampling: 48.0 kHz > 44.1 kHz resampling in Steinberg WaveLab V5.01b
+
+Disc 1 (Regular Set):
+01 (Intro)
+02 Sometimes
+03 Porch
+04 Why Go?
+05 God's Dice
+06 Given to Fly
+07 Dissident
+08 Severed Hand
+09 Elderly Woman Behind the Counter in a Small Town
+10 Sad
+11 Unemployable
+12 Even Flow
+13 I Got Shit
+14 Whipping
+15 Down
+16 Present Tense
+17 Save You
+18 Rearviewmirror
+19 (Encore Break #1)
+20 [Fade Out]
+
+Disc 2 (Encores):
+01 [Fade In]
+02 Inside Job
+03 Do the Evolution
+04 Better Man / (Save It For Later)
+05 Alive
+06 (Encore Break #2)
+07 No More War
+08 Footsteps
+09 Throw Your Hatred Down [Neil Young]
+10 Blood
+11 Baba O'Riley [The Who]
+
+Notes:
+Digijam for life!
+This is the 16 bit version of this recording.
+To seamlessly join the two discs, simply remove D1T20 and D2T01.

@@ -1,0 +1,79 @@
+Pearl Jam
+Breslin Student Events Center
+East Lansing, MI, USA
+1998-08-18
+
+Source: Core Sound (mod.box) > PCM-M1 (11th row floor, center)
+Lineage: DAT(M) 48khz -> DATC -> SoundForge 6.0 (Resampling) -> FLAC
+Transfer: PCM-M1 -> 7pin-to-coax -> DiO 2496 -> EAC -> FLAC
+
+Transfer: DAT Master -> DAT -> CD -> EAC -> FLAC Frontend > .flac
+
+FLAC generation done by John Reynolds (jr@twofeetthick.com)
+
+Disc 1 of 2:
+
+01. Intro *                       01:28.79
+02. Release                       04:43.45
+03. Do The Evolution              03:36.52
+04. Spin The Black Circle         02:37.59
+05. Brain of J                    02:50.44
+06. Dissident                     03:47.35
+07. Given to Fly                  04:14.80
+08. Corduroy                      05:21.12
+09. MFC                           02:47.13
+10. Wishlist                      04:21.88
+11. Jeremy                        04:55.52
+12. Even Flow                     05:18.07
+13. Faithfull                     05:03.79
+14. Elderly Woman ...             03:51.29
+15. Off He Goes                   06:11.97
+16. Rearviewmirror                08:01.45
+
+Total time: 69:11.16
+
+
+Disc 2 of 2:
+
+01. Encore Break ++               02:33.93
+02. Hail, Hail                    03:29.17
+03. I Got Shit                    04:01.59
+04. Alive                         05:36.77
+05. Black                         08:43.89
+06. Soldier Of Love **            04:59.28
+
+Total time: 29:24.64
+
+* - With "The Color Red" playing on the P.A.
+++ - fixed, was 0Kb in original torrent
+** - Arthur Alexander cover, debut
+
+
+For the details on FLAC and the software needed to decompress these files go to:
+http://wiki.etree.org/index.php?page=FLAC
+
+**********************************************************************
+FLAC Fingerprint
+
+pj1998-08-18d1t01.flac:bf9cec2bbb737d4998102ad93de3002d
+pj1998-08-18d1t02.flac:91306d79feb4dd0b2b66859b07ab2f88
+pj1998-08-18d1t03.flac:796341533c538021b7fa39e8fc0e44de
+pj1998-08-18d1t04.flac:0b58a22d1d103a0193c9456ecf1925d8
+pj1998-08-18d1t05.flac:4d5b3822e34bdb4b5c22bf83e1c97b33
+pj1998-08-18d1t06.flac:42ef94ab5fe2a98a779998a2dcff36b7
+pj1998-08-18d1t07.flac:6632141d5df18d4d4bb34a6a76cba886
+pj1998-08-18d1t08.flac:d14ab0d7585a19c6f780bf5187b50cb6
+pj1998-08-18d1t09.flac:b09cdd7696ffca4d7791224588700240
+pj1998-08-18d1t10.flac:08bd17e3dcb1d4437e022218cba4dd9b
+pj1998-08-18d1t11.flac:ee307dfb7ba9e6e4adf4c56cc7a26771
+pj1998-08-18d1t12.flac:a0bfcfc04f000ad5a73f3f4eebb5fb6f
+pj1998-08-18d1t13.flac:1a9e2f211701461eb3439143be166085
+pj1998-08-18d1t14.flac:25a9abbb3c975e012e78dec0347b3a66
+pj1998-08-18d1t15.flac:5113ca0ef30dce21810573bf5cdff7e8
+pj1998-08-18d1t16.flac:7b9ee6cc524a0c16644515b831040ee9
+pj1998-08-18d2t01-fixed.flac:d4a9e8f40e9eb7eb508e6e433b4eca83
+pj1998-08-18d2t02.flac:938e3809b966b22e8902d096cb0ab8f5
+pj1998-08-18d2t03.flac:14470605ff24e8eae222bf35b7712c3d
+pj1998-08-18d2t04.flac:45daf5a603963857eef246b4c61202ec
+pj1998-08-18d2t05.flac:b6121abe3f0e7286fe72ebda82c2036e
+pj1998-08-18d2t06.flac:1cea8c14cb7f5f31edc00aefe2ac240c

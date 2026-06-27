@@ -1,0 +1,45 @@
+Pearl Jam
+Cabaret Metro
+Chicago, IL
+Performance date: 1992-03-28
+Broadcast date: 2016-05-08
+ 
+
+Lineage: HD over fm>Sangean HDT-1>Rotel-05 SE>SoundBlaster (Live! 24 bit External)>wav(CD Wave Editor)>flac
+
+01 Release 4:36
+02 You Tell Me -> Even Flow 6:05
+03 Once 3:21
+04 State of Love and Trust 3:49
+05 Alive 5:26
+06 Black 5:12
+07 Deep 4:21
+08 Jeremy 5:04
+09 Why Go Home 3:21
+10 Porch 7:07
+11 Garden 6:17
+
+Total Time: 54:43
+
+st5 fingerprints:
+
+This show is also up here:
+FM: http://www.thetradersden.org/forums/showthread.php?t=119115
+
+Other versions have been upped. This one is the only HD, however. Hard to tell how they compare as the other torrents had no samples.
+
+st5 fingerprints:
+
+58a912753c2421c40346071b3c97a30d  [shntool]  wxrt 2016-05-0801.flac
+f57b5fa6862bb680cf24cf5a74d584ee  [shntool]  wxrt 2016-05-0802.flac
+51648c7532c0d348ff6908b738c35697  [shntool]  wxrt 2016-05-0803.flac
+cd8898ad8907b00d94928fb1fed27fcd  [shntool]  wxrt 2016-05-0804.flac
+9e12b6196ae9f62ce74144d376b4d5e4  [shntool]  wxrt 2016-05-0805.flac
+e30a6ecc515d4e0962cf16db7d388c53  [shntool]  wxrt 2016-05-0806.flac
+6e504f354a147a9be6c09c1de57a0057  [shntool]  wxrt 2016-05-0807.flac
+c8267ba3755e4b999183de003001d5fa  [shntool]  wxrt 2016-05-0808.flac
+3a071ca1fe433ac2edcfd5d810167860  [shntool]  wxrt 2016-05-0809.flac
+f312b6168d2e2e7f4ffe00f26e62041f  [shntool]  wxrt 2016-05-0810.flac
+488dadf1ae846f29ae642b0b90601b4d  [shntool]  wxrt 2016-05-0811.flac
+
+No errors occured.

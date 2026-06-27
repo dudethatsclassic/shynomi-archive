@@ -1,0 +1,30 @@
+Date:   	 1992 - 2 - 18
+Venue: 	Sorpasso, Milan, Italy
+Tour: 	Ten
+Leg: 	European
+
+First set: 	
+Release 
+Even Flow 
+Once 
+State Of Love And Trust 
+Alive
+Black 
+Deep
+Why Go 
+Porch 
+(Attenzione Jam) 
+Jeremy 
+Breath
+
+Encore 1: 	
+I've Got A Feeling 
+(Hunger Strike) 
+Leash
+
+N of disk: 	1
+Length disk 1: 	1h-06m-13s
+Audio source: 	[('Attenzione' Boot) + (UM > UR > A1 > DAT)] > 
+Remastered w/ RSP “Clean!” > CD-R > EAC (wav) > shn > dBpowerAMP Music Converter > 
+constant bitrate MP3: 320 kbps, 44.100 Hz, Stereo, Highest Quality
+

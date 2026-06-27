@@ -1,0 +1,48 @@
+Pearl Jam
+October 31, 1993
+Greek Theatre
+Berkeley, CA
+
+Source: Sony ECM-939 > Sony TCD-D3
+Lineage: DAT Master 16/48 > FLAC
+Transfer (BLG): DA-20 > digital coax > Marantz PMD-670 > usb reader > Adobe Audition (edits) > iZotope Ozone 5 (EQ,Exciter,Imaging,Dynamics) > WavePad (tracking) > xACT (tags) > FLAC 
+
+01 Go
+02 Animal
+03 Why Go
+04 Deep
+05 Jeremy
+06 Glorified G
+07 Even Flow
+08 Daughter
+09 Alive
+10 Dissident
+11 Rearviewmirror
+12 Small Town
+13 State of Love and Trust
+14 Porch
+
+Encore:
+15 Blood
+16 Once
+17 Footsteps
+18 Alone
+19 Fuckin’ Up
+20 Sonic Reducer
+21 Baba O’Riley
+
+Encore 2:
+22 Indifference
+
+Total Time: 102:19
+
+Notes: One of the longest and best shows from the 1993 leg of the VS tour.  
+
+An unknown generation of this recording has long circulated among PJ collectors, but with the wrong source information (Sony ECM-909 > Sony WM-D3). This was recorded on DAT, not cassette.  
+
+The recording itself is decent, but suffers from some phasing and crowd noise.  I have done extensive editing to reduce some of the crowd noise, claps, and other annoyances. It’s still not perfect, but along with some EQ work, I think it makes for a more enjoyable listen.
+
+Thanks as always go out to the original taper.  
+
+.txt compiled on 08/16/2014
+

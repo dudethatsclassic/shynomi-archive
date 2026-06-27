@@ -1,0 +1,43 @@
+Pearl Jam
+Tad Gormley Stadium, New Orleans, LA
+September 17, 1995
+
+Video: (Cam A, left) 2nd gen VHS>JVC HR-S9911U>S-video>Sony DRC-TRV460>Firewire>
+                     avi>CCE>MPEG-2 (CBR 8000 kbits/s)
+
+       (Cam B, right) 1st gen VHS>JVC HR-S9911U>S-video>Sony DRC-TRV460>Firewire>
+                      avi>CCE>MPEG-2 (CBR 8000 kbits/s)
+
+audio: (front)  CS>D7>DAT>CDR>WAV>dED>SHN>WAV
+       (rear)   Cam A audio + Cam B audio
+       (center) [Cam A audio + Cam B audio]>mono>dEQ (mid boost for vocals)
+       (LFE)    CS>D7>DAT>CDR>WAV>dED>SHN>WAV>mono
+
+ 1. Animal
+ 2. Go
+ 3. Last Exit
+ 4. Tremor Christ
+ 5. Even Flow
+ 6. Corduroy
+ 7. Elderly Woman
+ 8. Whipping
+ 9. Not For You
+10. Why Go
+11. Deep
+12. Jeremy
+13. Dissident
+14. Daughter
+15. Rats
+16. Jam
+17. Immortality
+18. Rearviewmirror
+19. Alive
+20. Blood
+21. Better Man
+22. Sonic Reducer (w/ Joey Ramone)
+23. Rockin' in the Free World
+24. Yellow Ledbetter
+
+Notes: Both camera angles are a bit distant and shakey, but I tried to mix
+       in the steadier of the two angles when possible.  Still, Dramamine
+       may be necessary when watching this DVD.  Dual Layer.

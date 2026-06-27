@@ -1,0 +1,53 @@
+Pearl Jam
+03-28-94
+Bayfront Amphitheatre
+Miami, FL
+
+Source: [Sonic Studios (DSM6P) > Denon DTR-80P (10th row, left) > cdr > dED] 
+        + [AKG 419 > AKG B-18e > Sony TCD-D7 > cdr > dED > dEQ] > shn > cdr > EAC > flac
+	souncheck source: Silver Boot CD "Hotpoint" silver cd boot > EAC > flac
+
+
+Disc I
+01 Intro
+02 Release
+03 Go
+04 Animal
+05 Dissident
+06 Ed talking
+07 Even Flow
+08 State of Love and Trust
+09 Ed talking
+10 Glorified G
+11 Daughter/(ABitW-II)/(WMA)
+12 Jeremy
+13 Deep
+14 Rats
+15 Blood
+16 Black
+17 Alive
+18 Porch/(Monkey Gone to Heaven)/(The Real Me)
+
+Disc II
+01 Intro
+02 RVM
+03 Not For You
+04 Small Town (false start)
+05 Small Town
+06 Garden
+07 Rockin in the Free World/ jam
+08 crowd
+09 Indifference
+
+DISC III (SOUNDCHECK)*
+01 Improv (beginning cut)
+02 Not For You
+03 Guitar Jam
+04 Animal
+
+
+
+compiled on 07/14/02 by Bill Graham (bg9@mindspring.com)
+soundcheck added and files updated to FLAC by Michael Morrissey (mam1680@aol.com)]
+
+*soundcheck can be added to disc 2 in order to save on discs being burned

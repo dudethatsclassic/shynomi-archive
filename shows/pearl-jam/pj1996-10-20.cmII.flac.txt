@@ -1,0 +1,20 @@
+Band   : Pearl Jam
+Date   : October 20, 1996
+Venue  : Shoreline Amphitheater, Mountain View, CA 
+Length : 1 - 42:48
+Source : Countryman Isomax II > Sony TCD-D7 > CD-R > EAC V0.9b3 > WAV > mkwact > shn > TLH > FLAC
+Sound  : A
+Notes  : Bridge School Benefit, 2nd Night
+Tracks :
+ 
+DISC ONE
+
+01. Sometimes
+02. Elderly Woman
+03. Corduroy 
+04. Off He Goes
+05. Nothingman
+06. Daughter/(The Real Me)/(Noise of Carpet)
+07. Footsteps
+08. Porch 
+09. Around the Bend

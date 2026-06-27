@@ -1,0 +1,25 @@
+    length     expanded size   cdr  WAVE problems filename
+     1:20.11       14137916    ---   --   ---xx   2007-06-13 Pearl Jam t01 Intro.flac
+     4:25.45       46851884    ---   --   ---xx   2007-06-13 Pearl Jam t02 Rearviewmirror.flac
+     2:42.16       28614476    ---   --   ---xx   2007-06-13 Pearl Jam t03 Animal.flac
+     4:40.58       49528460    ---   --   ---xx   2007-06-13 Pearl Jam t04 Hail, Hail.flac
+     4:27.69       47261132    ---   --   ---xx   2007-06-13 Pearl Jam t05 Corduroy.flac
+     3:26.27       36401948    ---   --   ---xx   2007-06-13 Pearl Jam t06 Given To Fly.flac
+     4:24.49       46684892    ---   --   ---xx   2007-06-13 Pearl Jam t07 World Wide Suicide.flac
+     3:12.68       34028780    ---   --   ---xx   2007-06-13 Pearl Jam t08 Elderly Woman.flac
+     3:19.22       35155388    ---   --   ---xx   2007-06-13 Pearl Jam t09 I Am Mine.flac
+     1:06.68       11802380    ---   --   ---xx   2007-06-13 Pearl Jam t10 Lukin.flac
+     7:48.30       82625804    ---   --   ---xx   2007-06-13 Pearl Jam t11 Even Flow.flac
+     2:55.03       30877100    ---   --   ---xx   2007-06-13 Pearl Jam t12 Comatose.flac
+     4:01.33       42590060    ---   --   ---xx   2007-06-13 Pearl Jam t13 Nothingman.flac
+     3:17.03       34757900    ---   --   ---xx   2007-06-13 Pearl Jam t14 State Of Love And Trust.flac
+     6:32.50       69266444    ---   --   ---xx   2007-06-13 Pearl Jam t15 Spin The Black Circle.flac
+     4:06.54       43521452    ---   --   ---xx   2007-06-13 Pearl Jam t16 Severed Hand.flac
+     3:31.35       37302764    ---   --   ---xx   2007-06-13 Pearl Jam t17 Leatherman.flac
+     9:22.51       99256796    ---   --   ---xx   2007-06-13 Pearl Jam t18 Daughter.flac
+     2:23.39       25316972    ---   --   ---xx   2007-06-13 Pearl Jam t19 Whipping.flac
+     7:45.55       82155404    ---   --   ---xx   2007-06-13 Pearl Jam t20 Black.flac
+     4:57.31       52463756    ---   --   ---xx   2007-06-13 Pearl Jam t21 Jeremy.flac
+     1:02.72       11106188    ---   --   ---xx   2007-06-13 Pearl Jam t22 encore.flac
+     4:58.33       52644860    ---   --   ---xx   2007-06-13 Pearl Jam t23 Indifference.flac
+    95:50.22     1014352756 B                     (totals for 23 files, 0.5963 overall compression ratio)

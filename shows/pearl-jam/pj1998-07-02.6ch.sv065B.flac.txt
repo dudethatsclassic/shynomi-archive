@@ -1,0 +1,143 @@
+Pearl Jam 
+July 2, 1998
+Riverport Amphitheatre
+Maryland Heights, MO
+
+5.1 channel FLAC (converted from DTS-Audio-CD 5.1 Mix)
+
+Disc 1
+01 [01:58] Intro
+02 [03:05] Oceans
+03 [03:31] Hail Hail
+04 [02:49] Brain of J
+05 [03:00] Spin the Black Circle
+06 [04:13] Tremor Christ
+07 [04:07] Given to Fly
+08 [06:08] In Hiding
+09 [05:18] Corduroy
+10 [02:48] MFC
+11 [05:41] Wishlist
+12 [04:33] Nothingman
+13 [01:48] Improv > 
+14 [04:22] Habit
+TT [53:20]
+
+Disc 2
+01 [05:26] Even Flow
+02 [06:10] Daughter (Institutionalized)
+03 [06:08] Immortality
+04 [06:44] Black
+05 [07:51] Alive
+   Encore 1: 
+06 [03:51] Do the Evolution
+07 [04:54] Jeremy
+08 [04:12] I Got Shit
+09 [08:40] Betterman (Save it for Later)
+10 [06:36] Fuckin' Up
+   Encore 2:
+11 [05:56] Yellow Ledbetter
+TT [66:28]
+
+---------------------------------------------------------
+
+Source Info
+
+SBD  
+Mono SBD (ALD) > SBM-1 > TCD-D8 > DAT(M) > FLAC
+
+AUD1
+Schoeps CCM-4 > Aerco > SBM-1 > D100 > DAT1 > FLAC
+Location: Recorded 20th Row Center
+
+AUD2
+AKG460b + ck8 (shotgun) > EAA-PSP3 > DTR-80P > 
+D7 > DAT1 > FLAC
+Location: Recorded 33rd Row Center
+
+---------------------------------------------------------
+
+Tech Notes
+
+FLACs were decoded to wave and SF 6.0 was used to reassemble 
+the tracks back to 1 long wave.  Cool Edit Pro 2.0 was used 
+to align & synch all sources.  CEP2.0 was used to create all
+multichannel mixdown matrix mixes.  CEP2.0 used to EQ and 
+adjust the volume for the center and LFE channels.  Surcode 
+CD Pro DTS was used to encode to DTS.  
+- Mixed by dan@am-dig.com
+- Shn conversion 31-MAY-2004
+- Remix and FLAC conversion 02-FEB-2005 
+- Artwork by dan@am-dig.com 300dpi 
+- For best results print at the highest resolution onto glossy 
+photo paper. Design for use with a clear slim double jewel case.
+
+---------------------------------------------------------
+
+DTS-Audio-CD Info
+
+Front (70%-SBD/30%-AUD)
+Left Channel SBD+AUD EQ'd Matrix 70-sbd/15-mk4/15-akg
+Right Channel SBD+AUD EQ'd Matrix 70-sbd/15-mk4/15-akg   
+
+Center (90%-SBD/10%-AUD)	
+Mono Mix -5db SBD+AUD EQ'd Matrix 90-sbd/5-mk4/5-akg
+ 
+Surround (50%-AUD1/50%-AUD2)	
+Left Channel AUD+AUD EQ'd Matrix 50-mk4/50-akg
+Right Channel AUD+AUD EQ'd Matrix 50-mk4/50-akg
+
+Sub/LFE (70%-SBD/30%-AUD)	
+Mono Mix -4db SBD+AUD EQ'd Matrix 70-sbd/15-mk4/15-akg
+
+---------------------------------------------------------
+
+Notes
+
+This 5.1 mix utilizes 5 fully discrete channels.
+
+Disc 1 and 2 can be assembled seamlessly on longer media.
+
+The matrix mixes made for both rear and front channels have 
+been D'EQed using CE Pro 2.0
+
+I used a matrix mix for the front channels to add a little 
+life to very dull mono SBD recording.  The "surround sound"
+feel is still there, IMO.
+
+Sporadic FM static from the mono SBD ALD source mostly found 
+btwn songs.  Infrequent and nothing bad.  A few bursts were 
+removed entirely and others were reduced and masked with the 
+2 AUD sources. Most of these edits are smooth and most likely 
+undetectable.
+
+4 seconds of static on the very beginning of Daughter has
+been edited out.  Both AUD sources were trimmed to match.
+This is smooth and most likely undetectable.
+
+A few minutes of crowd cheer was cut on the mono SBD btwn
+the last song and first encore break.  Both AUDs were trimmed 
+to match.  No music, tuning or talking was missing, just crowd 
+noise.  1:23:59.589 to 1:26:15.036 total of 02:15.446.  This 
+is smooth and most likely undetectable.
+
+d2t10 "fuckin' Up' was cut on AKG source.  Patched with Mk4 
+source, +5db & D'EQed. 1:53:45.781 to 1:54:18.488 for a
+total 0:32.707.  This is smooth and most likely undetectable.
+
+d2t10 all 3 sources were paused btwn the last song and the
+final (2nd) encore.  They were all missing a different amount 
+of btwn crowd cheering.  They were trimmed to match and cross
+faded to keep sounding smooth an natural.  This is smooth 
+and most likely undetectable.
+
+Neither the SBD or either AUD were all that great.  What we 
+have is about as good as it can be given the source material. 
+Interestingly enough, listening to each source individually I
+was left wondering if it was worth the effort.  In the end
+the 3 sources ended up complimenting each other very nicely.  
+Kinda filling in sonic areas that were missing individually.
+Maybe like a peanut butter and jelly sandwich.  Jelly alone,
+not that great.  Peanut butter straight, also not very good.  
+And plain bread is just that, plain.  However, mix all 3
+together and bingo, gourmet food!  With that said, enjoy this 
+show, it is really good.

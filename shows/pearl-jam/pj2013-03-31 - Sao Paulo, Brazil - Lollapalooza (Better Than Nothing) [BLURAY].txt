@@ -1,0 +1,80 @@
+
+Pearl Jam - Live At Lollapalooza Brasil, March 31, 2013 - HD 1080i
+
+This show has been commonly traded in its original version, with the 5.1 channel lossy audio
+
+The version released in May of 2015 by Better Than Nothing Videos has been remixed with the 24 bit, 96khz audio
+The result is a two channel show, but with substantially superior audio than the original release.
+
+Details:
+
+Version:  BTNVideos 2015
+Video:  Original source stream 1080i MPEG-TS->Sony Vegas 13 -> Sony AVC Main Concept 60i, 25mbps -> AVC -> DVD Architect 6.0 -> .ISO @ 18 mbps
+Audio:  2 Channel PCM 24 bit 96khz
+
+Video Author:  BTN Videos
+Art and menu:  Monkeewrench
+
+
+Thanks to Jean and Monkeewrench for sharing the original video.  Details from the video taper are below:
+
+
+
+Pearl Jam didn't allow the show to be aired live. They agreed to air today (April, 06), and only today.
+I managed to capture in HD.
+This is the exactly video stream I receive on my sat box.
+
+
+Setlist:
+Elderly Woman Behind the Counter in a Small Town
+Why Go
+Interstellar Overdrive (Pink Floyd cover)
+Corduroy
+Comatose
+Olé
+Do the Evolution
+Wishlist
+Got Some
+Even Flow
+Nothingman
+Insignificance
+Daughter
+World Wide Suicide
+Jeremy
+Unthought Known
+State of Love and Trust
+Rearviewmirror
+Given to Fly
+Not for You
+Better Man
+Black
+I Believe in Miracles (Ramones cover)
+Go
+Alive
+Baba O'Riley (The Who cover)
+Yellow Ledbetter
+
+
+Media Info:
+VIDEO
+Format : MPEG-TS
+File size : 8.56 GiB
+Duration : 2h 9mn
+Overall bit rate mode : Variable
+Overall bit rate : 9 440 Kbps
+Format : AVC
+Bit rate : 8 327 Kbps
+Maximum bit rate : 12.0 Mbps
+Width : 1 920 pixels
+Height : 1 080 pixels
+Display aspect ratio : 16:9
+Frame rate : 29.970 fps
+Color space : YUV
+Chroma subsampling : 4:2:0
+Bit depth : 8 bits
+Scan type : Interlaced
+Scan order : Top Field First
+
+
+
+Enjoy!

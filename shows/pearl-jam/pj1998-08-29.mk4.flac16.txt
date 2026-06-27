@@ -1,0 +1,53 @@
+Pearl Jam
+08-29-98
+Blockbuster Music Entertainment Centre
+Camden, NJ
+
+Source: Schoeps MK4s -> VMSO2IB -> SBM-1 -> Sony TCD-D100 (15th row)
+Lineage: DAT(3) 48khz -> FLAC
+Transfer: DA-20 -> Monster coax -> DiO 2496 -> SF 6.0 -> CDWave -> FLAC
+
+Disc I
+01 Long Road
+02 Corduroy
+03 Brain of J
+04 Red Mosquito
+05 In Hiding
+06 Animal
+07 Given to Fly
+08 Lukin
+09 Wishlist
+10 MFC
+11 Not For You
+12 Alive
+13 Nothingman
+14 State of Love and Trust
+15 Present Tense
+16 Hail Hail
+17 Jeremy
+18 Do the Evolution
+
+
+Disc II
+01 Ed talking
+02 Dissident
+03 Even Flow
+04 Better Man/(SiFL)
+05 Push Me Pull Me
+06 Rearviewmirror
+07 encore break 2
+08 Last Kiss
+09 Rockin' in the Free World
+
+
+Notes: There is a 20 second cut in Wishlist per the master DAT which I 
+patched with the SS>D100 source.  There is also one minor spot of diginoise
+during RitFW.
+
+
+
+Thanks to JR for the DAT.
+
+Transfer by BLG
+compiled on 01-29-05
+ 

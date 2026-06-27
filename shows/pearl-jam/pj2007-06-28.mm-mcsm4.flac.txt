@@ -1,0 +1,80 @@
+PEARL JAM
+
+Date:	Thursday June 28, 2007
+Venue:	Goffertpark
+Place:	Nijmegen, The Netherlands
+
+
+
+**** PLEASE DO NOT ENCODE THIS SHOW TO LOSSY AUDIO FORMATS
+**** PLEASE SPREAD, BUT PLEASE INCLUDE SOURCE INFO
+**** DO NOT SELL OR DISTRIBUTE FOR A PROFIT BY ANY MEANS
+
+
+
+Taper:		Hanzel14
+Source:		MM-MCSM-4(cardioids) > MM-EBM-1(bass roll-off @95Hz) > Microtrack 24/96 @16/44,1
+Location:	~15m FO Right Rear Fieldstack, mics @6'2"(hat-mounted)
+
+Transfer:	Ultra II 8GB CF-card/.wav @16/44,1 > Computer via USB 2.0 CF Card Reader
+Processing:	Adobe Audition v1.5 > Normalized to -1.0db > Clip/Pop-deleting > Fade in/out
+Conversion:	CDWav v1.95.1 (track splitting) > FLAC frontend v1.7.1 > .flac
+
+
+
+Disc 1:
+
+01: PA Intro					-	02:24.133
+02: Release					-	04:44.533
+03: Go		 				-	02:48.333
+04: Hail, Hail 	 				-	03:25.200
+05: World Wide Suicide				-	03:35.600
+06: Whipping					-	02:26.800
+07: Do The Evolution				-	04:25.466
+08: Given To Fly 				-	03:19.933
+09: Not For You 				-	06:14.933
+10: Wishlist					-	03:09.266
+11: Even Flow					-	06:33.266
+12: Insignificance 				-	05:11.800
+13: Unemployable				-	03:00.000
+14: Jeremy					-	05:04.400
+15: Nothingman					-	04:24.400
+16: -Eddie speaking-				-	02:38.333
+17: Better Man/Save It For Later		-	06:48.600
+
+Total						-	70:15.000
+
+Disc 2:
+
+01: Corduroy					-	04:40.933
+02: Why Go					-	03:13.066
+03: -Encore Break #1- 				-	03:46.266
+04: Comatose					-	02:48.600
+05: Daughter/Another Brick In The Wall/War	-	07:14.733
+06: Leash					-	03:30.066
+07: Reviewmirror				-	07:43.066
+08: -Encore Break #2-				-	02:43.400
+09: -Eddie speaking- 	 			-	02:03.533
+10: No More%					-	04:30.333
+11: Blood					-	03:15.773
+12: Alive					-	06:43.333
+13: Rockin' In The Free World^			- 	07:52.293
+14: Yellow Ledbetter				-	05:50.600
+15: Outro					-	01:04.855
+
+Total:						-	67:00.855	
+
+% Eddie solo;
+^ Neil Young cover;
+
+
+Notes:		This is a fixed version. Clip/Pop-deleting was done to erase some hard pops 
+		formed by mic-disconnections. Louder parts still suffer from some (minor)high-end 
+		distortion. Fades inserted at the beginning and at the end, not in the middle.
+
+
+**** Screamers, Drunks and People Who Spend More Time Talking Then Listening Suck
+
+
+Compiled by:
+Hanzel14 on August 14, 2007

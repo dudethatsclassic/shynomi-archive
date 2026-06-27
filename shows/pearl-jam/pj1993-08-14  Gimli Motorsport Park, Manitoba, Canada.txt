@@ -1,0 +1,63 @@
+Pearl Jam
+Gimli Motorsport Park,
+Gimli,
+Manitoba,
+Canada
+08/14/93
+
+(Sunfest '93)
+
+attendance: 47,000
+
+3 Cam.Pro-Shot
+
+Video source:1st gen VHS (Pro-Shot) > Firewire > CCE > DVD
+
+Audio source:  	 Stereo: Unknown mic > unknown DAT
+Dolby Digital 5.1: [Unknown mic > unknown DAT] + [1st gen VHS]
+
+setlist:
+Even Flow
+Why Go
+Deep
+Jeremy
+Animal
+Glorified G
+Daughter/(Gimme Shelter)
+Go
+State of Love and Trust
+Garden
+Blood
+Alive
+Black
+Once
+Porch
+Indifference, 
+Sonic Reducer
+Rockin' in the Free World,
+Baba O'Riley
+
+Video Attributes:
+  Video compression mode: MPEG-2
+  TV system: 525/60 (NTSC)
+  Aspect Ratio: 4:3
+  Display Mode: Only Pan&scan
+  Source picture resolution: 720x480 (525/60)
+  Frame Rate: 30.00
+  Source picture letterboxed: Not letterboxed
+  Bitrate: 4.81Mbps
+
+Audio Attributes: 
+  Audio Coding mode: Dolby Digital
+  Sampling Rate: 48kHz
+  Audio application mode: Not specified
+  Number of Audio channels: 2
+  Bitrate: 384 Kbps
+  Number of Audio streams: 2
+
+notes: This show is frequently referred to as "Mudfest" due to a downpour prior to 
+the concert. One of the reasons that this show is so incredible is that PJ was jumping 
+out of their collective skins to be able to cut loose for more than 90 minutes. Currently 
+touring with Neil Young, they were confined to an early 45 minute set. They were offered 
+this slot (and are the only non-Canadian band ever to play this large festival) and it 
+became their night. Despite Ed's drinking, PJ is very high energy and intense.

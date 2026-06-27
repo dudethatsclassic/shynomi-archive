@@ -1,0 +1,51 @@
+Pearl Jam
+11-02-93
+Civic Theatre
+San Diego, CA
+
+Source: unknown mic -> unknown recorder
+Generation: ANA(x) -> DAT-M 48khz -> FLAC
+Transfer: DA-20 -> Monster coax -> DiO 2496 -> Soundforge 6.0
+	(resample to 44.1) -> FLAC frontend -> FLAC
+
+
+Disc I
+01 Oceans 
+02 Go 
+03 Animal 
+04 Jeremy 
+05 Rearviewmirror 
+06 Whipping 
+07 Even Flow 
+08 Glorified G 
+09 Daughter
+10 State of Love and Trust 
+11 Garden 
+12 Alive 
+13 Black 
+14 Improv 
+15 Porch/Improv
+
+Disc II
+01 Ed talking
+02 The Kids are Alright 
+03 Blood 
+04 Why Go 
+05 Once/(Tearing) 
+06 Sonic Reducer
+07 Indifference
+
+
+
+Notes: This is a great show, but the sound quality is poor.
+
+
+
+
+Thanks to cps for the DAT.
+
+Transfer by BLG
+compiled on 12-09-04
+
+
+ 

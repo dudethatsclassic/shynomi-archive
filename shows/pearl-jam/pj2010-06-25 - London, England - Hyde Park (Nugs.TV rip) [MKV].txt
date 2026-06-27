@@ -1,0 +1,58 @@
+Pearl Jam - 2010/06/25 Hyde Park London England
+
+Setlist
+Given to Fly, Why Go, Brain Damage (Pink Floyd cover) (Live debut), Corduroy, Got Some, Once, World Wide Suicide, Elderly Woman Behind the Counter in a Small Town,
+Amongst the Waves, Even Flow, Unthought Known, Nothingman, Arms Aloft (Joe Strummer & the Mescaleros cover), Not for You, Of the Earth, State of Love and Trust,
+Do the Evolution, Wasted Reprise, Better Man (with "Save It for Later" tag), Encore 1, Just Breathe, Red Mosquito (with Ben Harper), Black, Porch, Encore 2, 
+Go, The Fixer, Alive, Yellow Ledbetter
+
+Source: Nugs.TV Youtube streaming, best video and audio selected
+Video: mp4 1920x1080  1080p 3542k , mp4_dash container, avc1.640028@3542k, 30fps, video only, 3.67GiB
+Audio: m4a audio only tiny  129k , m4a_dash container, mp4a.40.2@129k (44100Hz), 137.21MiB
+Merged formats into "Pearl Jam June 25, 2010 Live At Hyde Park in London, England-2-WWrLbEsUE.mp4"
+Format: .mkv
+Audio frecuency spectrum included
+
+Note 1: mp4 intro video was deleted with MKVToolnix without re encondig, and then stored in mkv file
+Note 2: downloaded by betojam, betojam@gmail, please share by free and keep on rockin'!
+Note 3: downloaded using youtube-dl
+root@RockeT:/home/groot# youtube-dl -F https://www.youtube.com/watch?v=_T0xpT7fZHM 
+[youtube] _T0xpT7fZHM: Downloading webpage
+[youtube] _T0xpT7fZHM: Downloading player 3a4ee0a9
+[info] Available formats for _T0xpT7fZHM:
+format code  extension  resolution note
+249          webm       audio only tiny   44k , webm_dash container, opus @ 44k (48000Hz), 47.50MiB
+250          webm       audio only tiny   59k , webm_dash container, opus @ 59k (48000Hz), 62.67MiB
+251          webm       audio only tiny  117k , webm_dash container, opus @117k (48000Hz), 124.19MiB
+140          m4a        audio only tiny  129k , m4a_dash container, mp4a.40.2@129k (44100Hz), 137.21MiB
+278          webm       256x144    144p   96k , webm_dash container, vp9@  96k, 30fps, video only, 102.04MiB
+160          mp4        256x144    144p  111k , mp4_dash container, avc1.4d400c@ 111k, 30fps, video only, 117.93MiB
+242          webm       426x240    240p  204k , webm_dash container, vp9@ 204k, 30fps, video only, 216.42MiB
+133          mp4        426x240    240p  244k , mp4_dash container, avc1.4d4015@ 244k, 30fps, video only, 259.36MiB
+243          webm       640x360    360p  363k , webm_dash container, vp9@ 363k, 30fps, video only, 385.49MiB
+134          mp4        640x360    360p  522k , mp4_dash container, avc1.4d401e@ 522k, 30fps, video only, 554.19MiB
+244          webm       854x480    480p  651k , webm_dash container, vp9@ 651k, 30fps, video only, 690.95MiB
+135          mp4        854x480    480p  953k , mp4_dash container, avc1.4d401f@ 953k, 30fps, video only, 1010.32MiB
+247          webm       1280x720   720p 1230k , webm_dash container, vp9@1230k, 30fps, video only, 1.27GiB
+136          mp4        1280x720   720p 1829k , mp4_dash container, avc1.64001f@1829k, 30fps, video only, 1.89GiB
+248          webm       1920x1080  1080p 1940k , webm_dash container, vp9@1940k, 30fps, video only, 2.01GiB
+137          mp4        1920x1080  1080p 3542k , mp4_dash container, avc1.640028@3542k, 30fps, video only, 3.67GiB
+18           mp4        640x360    360p  631k , avc1.42001E, 30fps, mp4a.40.2 (44100Hz), 668.92MiB
+22           mp4        1280x720   720p 1958k , avc1.64001F, 30fps, mp4a.40.2 (44100Hz) (best)
+root@RockeT:/home/groot# youtube-dl -f 137+140 https://www.youtube.com/watch?v=2-WWrLbEsUE
+[youtube] 2-WWrLbEsUE: Downloading webpage
+[youtube] 2-WWrLbEsUE: Downloading MPD manifest
+[download] Pearl Jam June 25, 2010 Live At Hyde Park in London, England-2-WWrLbEsUE.mp4 has already been downloaded and merged
+root@RockeT:/home/groot# youtube-dl -f 137+140 https://www.youtube.com/watch?v=2-WWrLbEsUE
+[youtube] 2-WWrLbEsUE: Downloading webpage
+[youtube] 2-WWrLbEsUE: Downloading MPD manifest
+[download] Destination: Pearl Jam June 25, 2010 Live At Hyde Park in London, England-2-WWrLbEsUE.f137.mp4
+[download] 100% of 3.66GiB in 08:00
+[download] Destination: Pearl Jam June 25, 2010 Live At Hyde Park in London, England-2-WWrLbEsUE.f140.m4a
+[download] 100% of 136.83MiB in 00:18
+[ffmpeg] Merging formats into "Pearl Jam June 25, 2010 Live At Hyde Park in London, England-2-WWrLbEsUE.mp4"
+Deleting original file Pearl Jam June 25, 2010 Live At Hyde Park in London, England-2-WWrLbEsUE.f137.mp4 (pass -k to keep)
+Deleting original file Pearl Jam June 25, 2010 Live At Hyde Park in London, England-2-WWrLbEsUE.f140.m4a (pass -k to keep)
+
+
+

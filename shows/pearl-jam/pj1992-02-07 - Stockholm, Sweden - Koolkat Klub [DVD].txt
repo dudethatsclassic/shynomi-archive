@@ -1,0 +1,88 @@
+Band name: Pearl Jam
+Date: February 7, 1992
+Venue: Koolkat Klub
+Location: Stockholm, Sweden
+
+Lineage: Mid Gen VHS > Demuxed >  DVD
+Video format: PAL
+Aspect ratio: 4:3
+Total running time: 01:04
+
+Track listing:
+
+Wash
+Once
+Even Flow
+State of Love & Trust
+(Suggestion)
+Alive
+Black
+Deep
+Jeremy
+Why Go
+Porch
+E: 
+Leash
+
+Video
+ID                                       : 224 (0xE0)
+Format                                   : MPEG Video
+Format version                           : Version 2
+Format profile                           : Main@Main
+Format settings                          : CustomMatrix
+Format settings, BVOP                    : No
+Format settings, Matrix                  : Custom
+Format settings, GOP                     : N=10
+Format settings, picture structure       : Frame
+Bit rate mode                            : Variable
+Bit rate                                 : 4 815 kb/s
+Maximum bit rate                         : 7 500 kb/s
+Width                                    : 720 pixels
+Height                                   : 576 pixels
+Display aspect ratio                     : 4:3
+Frame rate                               : 25.000 FPS
+Standard                                 : PAL
+Color space                              : YUV
+Chroma subsampling                       : 4:2:0
+Bit depth                                : 8 bits
+Scan type                                : Interlaced
+Scan order                               : Top Field First
+Compression mode                         : Lossy
+Bits/(Pixel*Frame)                       : 0.464
+Time code of first frame                 : 00:00:03:05
+Time code source                         : Group of pictures header
+GOP, Open/Closed                         : Closed
+Stream size                              : 953 MiB (93%)
+
+Audio
+ID                                       : 189 (0xBD)-128 (0x80)
+Format                                   : AC-3
+Format/Info                              : Audio Coding 3
+Commercial name                          : Dolby Digital
+Muxing mode                              : DVD-Video
+Bit rate mode                            : Constant
+Bit rate                                 : 256 kb/s
+Channel(s)                               : 2 channels
+Channel layout                           : L R
+Sampling rate                            : 48.0 kHz
+Frame rate                               : 31.250 FPS (1536 SPF)
+Compression mode                         : Lossy
+Delay relative to video                  : 8 ms
+Stream size                              : 50.6 MiB (5%)
+Service kind                             : Complete Main
+
+Text
+ID                                       : 189 (0xBD)-32 (0x20)
+Format                                   : RLE
+Format/Info                              : Run-length encoding
+Muxing mode                              : DVD-Video
+Duration                                 : 27 min 40 s
+
+fa6061d4beca7989e19f60e381e593a5 *VIDEO_TS.BUP
+fa6061d4beca7989e19f60e381e593a5 *VIDEO_TS.IFO
+0b6222a462645c8d799c97bcbb7320ba *VIDEO_TS.VOB
+74fbd367f13ce00ba29e22994fd8d76f *VTS_01_0.BUP
+74fbd367f13ce00ba29e22994fd8d76f *VTS_01_0.IFO
+545937405070e57104f0638c8ea168bb *VTS_01_1.VOB
+5c6f9ea78a988485bb75307f443f2fcb *VTS_01_2.VOB
+ae607798ba0058bd01976b7100ef3ae2 *VTS_01_3.VOB

@@ -1,0 +1,21 @@
+Pearl Jam
+Ritchie Coliseum, College Park, MD, USA April 13, 1992
+G-Spot Tango:MPEG-2 Program Stream << { 1 vid, 1 aud } Sys Bitrate: 10080 kb/s VBR
+Audio: MPEG-1 Layer 2 CBR 0xc0:48000Hz  128 kb/s tot , Stereo 
+Video: Frames/s 29.970 kbps 6561 Prog NTSC 720x480 4:3 
+Set List:
+Wash 
+Once 
+Even Flow 
+State of Love and Trust 
+Alive 
+Black 
+Deep 
+Jeremy 
+Why Go 
+Porch 
+Garden 
+(Outshined)
+Leash 
+Rockin' in the Free World 
+(Neil Young cover)

@@ -1,0 +1,56 @@
+Pearl Jam
+12/02/1993
+Lawlor Athletic Events Center
+Reno, NV
+
+An Animal Projects Release
+
+
+DVD Info: 1 dual-layer disc
+ - Video : NTSC 4:3, 29.97 fps, VBR 7.7 mbps
+ - Audio : PCM Stereo 1536 kbps
+ - Length: 90 mins
+
+Source:
+
+- Video: VHS (2nd gen) > Sony Vegas Video > MPEG-2 > Adobe Encore > DVD
+- Audio: 
+	- Source: [Marcsounds??->D3->DAT(2)48khz->.wav] + 
+        	  [Sonic Studios->D6->ANA(M)->DAT(c)48khz->.wav] -> FLAC
+	- Transfers: DA-20 -> Monster coax -> DiO 2496 -> CEP 2.1 -> CDWave -> FLAC
+	- mix and edit by BLG, compiled on 02-02-05
+
+Setlist
+
+01 Intro
+02 Whipping
+03 Rearviewmirror
+04 Even Flow
+05 State of Love and Trust
+06 Animal
+07 Daughter/(Give a Little Bit)
+08 Why Go
+09 Deep
+10 Jeremy
+11 Once
+12 Alive
+13 Footsteps
+14 Rats
+15 Porch
+16 Go
+17 Black
+18 Sonic Reducer
+19 Ain't Nothing to Do
+20 Indifference
+
+
+Notes:
+- Overall steady camera and good audio.
+- Couple of minor cuts on the video (~ 1 second).
+
+
+Thanks to KP, metallican and all who made this DVD possible.
+
+##############################
+# Trade Freely, Do Not Sell! #
+##############################

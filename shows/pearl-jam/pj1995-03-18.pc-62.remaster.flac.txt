@@ -1,0 +1,51 @@
+PEARL JAM
+March 18, 1995
+Sidney Myers Music Bowl
+Melbourne, Australia
+
+Source: Sony PC-62 > Sony WM-D3 > cass-M > cass-2 > DAT-M
+Transfer: DAT-M > Archive Python DDS Drive > DAT2WAV 1.2 > WAV
+Conversion/Editing: WAV > Adobe Audition 1.0 
+	(48KHz -> 44.1KHz, Fade In/Out) > CDWav > FLAC
+Remaster: mareede
+
+Disc One:                            
+01. Corduroy
+02. Whipping
+03. Last Exit
+04. Tremor Christ
+05. Spin the Black Circle
+06. Animal
+07. Dissident
+08. State of Love and Trust
+09. Daughter/(Stupid Mop)/(ABitW-II)
+10. Blood
+11. Jeremy
+12. Why Go
+13. I Got Shit
+14. Rearviewmirror
+15. Better Man
+16. Improv
+17. Not For You
+18. Go
+
+Disc 2:
+01. Alive
+02. Once
+03. Satan's Bed
+04. Footsteps
+05. Porch
+06. Throw Your Arms Around Me
+07. Yellow Ledbetter
+08. Baba O'Riley
+
+Notes: This is the only known source of this show.  There was a tape flip between Jeremy 
+and Why Go, and another after Alive.
+---------------------------------------
+This seed is being distributed with this text file, a set of FLAC fingerprints and the 
+shntool length report.
+
+Thanks to cps for the DAT.
+
+Transferred by Dan Leehr (dan@theskyiscrape.com) 
+Compiled on 01/08/05.

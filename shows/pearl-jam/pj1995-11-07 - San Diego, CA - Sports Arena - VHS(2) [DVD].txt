@@ -1,0 +1,66 @@
+Pearl Jam » 1995.11.07 - Sports Arena - San Diego, California, USA
+
+
+Band name: Pearl Jam
+Date: November 7, 1995
+Venue: Sports Arena
+Location: San Diego, California, USA
+Tour name: Vitalogy - North America Tour - Part II
+Type: Tradeable
+Media: 2 DVDs
+Version: Central Cam
+Filming type: Audience
+Generation: 2nd
+Lineage: 2nd gen SVHS > Firewire > .avi > MPEG-2(CCE)
+Video format: NTSC
+Aspect ratio: 4:3
+Total running time: Length disk 1: 1h-05m-42s + disk 2: 1h-06m-11s
+Chapters: Yes
+Menus: Yes
+Number of camera angles: 1
+Number of audio selections: 2
+Track listing:
+
+Oceans
+Go
+Animal
+Last Exit
+Tremor Chirst
+Corduroy
+Rearviewmirror
+Better Man
+Even Flow
+Why Go
+Deep
+Red Mosquito
+Glorified G
+Daughter/(I Believe in Miracles)(Touch of Grey)(WMA)
+Jeremy (new)
+Not For You
+I Got Shit
+Lukin ->
+Whipping
+This Boy (EV solo)
+Alive
+Black
+Blood
+E1:
+Spin the Black Circle
+Leaving Here
+I Can't Explain
+Porch
+E2:
+Yellow Ledbetter
+Notes and comments:
+Audio source:	Neumann KM-140 > HHb Pro 1 > DAT > CDR > dEQ > .wav(48kHz) > dEQ
+
+MWFM(mono) > DAT > .wav(48kHz)
+
+2nd gen SVHS > Firewire > .avi > .wav(48kHz)>dEQ
+
+Stereo: Neumann + MWFM (80% Neumann)
+
+Dolby Digital 5.1:
+Front: Neumann + MWFM (80% Neumann)
+Back: SVHS
+Center & LFE: MWFM + Neumann (90% MWFM)

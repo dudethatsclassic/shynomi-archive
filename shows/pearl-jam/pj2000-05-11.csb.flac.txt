@@ -1,0 +1,35 @@
+Pearl Jam
+Commodore Ballroom
+Vancover, B.C.
+05-11-00
+
+Source: CSB > TCD-D8 > DAT > CDR > EQ > CDR > .wav > .shn
+Extracted to .wav with EAC and converted to .shn with mkwACT
+
+Disc 1:
+01-Long Road
+02-Last Exit 
+03-Hail, Hail 
+04-Breakerfall 
+05-Grievance 
+06-NAIS 
+07-Light Years 
+08-Corduroy 
+09-Even Flow
+10-Elderly Woman...
+11-Thin Air 
+12-Of the Girl
+13-Insignificance
+14-Not For You
+15-Off He Goes
+16-Wishlist 
+17-Evacuation
+
+Disc 2:
+01-Animal
+02-DTE 
+03-Daughter 
+04-Last Exit
+05-Ed Talking
+06-Soon Forget
+

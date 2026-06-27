@@ -1,0 +1,98 @@
+Pearl Jam
+Reunion Arena
+Dallas, TX
+07.05.1998
+
+Source: CSC > Sony TCD-D8 > DAT (24th Row, Left)
+Transfer: DAT-C > Archive Python DDS Drive > DAT2WAV 1.2 > WAV
+Conversion/Editing: WAV > Adobe Audition 1.0 
+	(48KHz -> 44.1KHz, Fade In/Out, Clap Removal) > CDWav > FLAC
+
+
+**************************************
+**     THIS IS A ZERO-DAE SEED      **
+**   DO NOT EXTRACT FROM AUDIO CD   **
+** PRESERVE THE ORIGINAL FLAC FILES **
+**      DO NOT CONVERT TO MP3       **
+**************************************
+
+Setlist
+-------
+
+Disc 1:                            [69:16.27]
+
+01. Intro			    [3:01.35]
+02. Sometimes			    [2:47.30]
+03. Last Exit     	    	    [2:43.43]
+04. Brain of J			    [3:00.51]
+05. Hail Hail			    [4:02.58]
+06. "The Party Just Started"	    [1:01.60]
+07. Given to Fly		    [3:56.61]
+08. In Hiding			    [5:15.11]
+09. Interstellar Overdrive	    [1:04.00]
+10. Corduroy			    [5:19.55]
+11. "The Dennis Rodman Show"	    [3:00.27]
+12. Go				    [2:57.08]
+13. MFC				    [2:41.09]
+14. Wishlist			    [3:45.00]
+15. Rearviewmirror		    [6:45.14]
+16. Pilate			    [3:02.53]
+17. Alive			    [5:55.20]
+18. Spin the Black Circle	    [3:02.52]
+19. Off He Goes			    [5:53.40]
+
+Disc 2:                            [46:57.47]
+
+01. Even Flow			    [5:35.61]
+02. Daughter/(Mother)/(MgtH)	    [7:14.00]
+03. Mankind			    [3:31.01]
+04. "Texans"			    [1:01.64]
+05. Do the Evolution		    [3:36.29]
+06. Encore Break		    [0:52.29]
+07. Jeremy			    [5:14.03]
+08. Immortality			    [6:30.17]
+09. Better Man/(Save it for Later)  [6:13.30]
+10. "Dreams are Contagious"	    [1:53.58]
+11. Sonic Reducer*		    [5:14.55]
+
+---------------------------------------------
+Total:                            [116:13.74]
+
+* With Murder City Devils
+
+Technical Notes
+---------------
+
+Even though there were better rigs recording, this is generally agreed as the best
+available source.  There were some loud claps that have been edited out, mostly between
+songs.
+
+There are no fades between disc 1 and disc 2, so if you are somehow able to get the full 
+first set onto a disc, it will still be seamless.
+
+This seed is being distributed with this text file, a set of FLAC fingerprints, a set of MD5
+sums for the extracted WAV files, and the SHNTOOL reports.
+
+
+Show Notes (from 5h)
+--------------------
+
+Dennis Rodman makes an appearance during 'Hail Hail' and is in attendance for much of the 
+show, smiling and occasionally singing. Ed sits in his lap for 'Wishlist,' and Ed and Rodman 
+take turns pouring wine in each other's mouths. With audience seating behind the stage, PJ 
+turns and faces the back, playing to them during 'RVM.' During 'Alive,' Ed gets on Rodman's 
+shoulders. Eventually, PJ convinces Rodman to just watch and sit on the stool that Jeff uses 
+while he's playing the stand up bass. Later, he is kicked off the stage before 'Off He Goes' 
+when Jeff needs his stool for the stand up bass, although before he leaves, he adds chorus 
+backing vocals to 'Spin' via Stone's mic. The 'Daughter' tag, 'Mother,' is a John Lennon 
+cover ("Mother you had me, but I never had you"). During the first encore, Ed announces 
+"This song is a B-side I'm sure no one here has ever heard," then goes into 'Jeremy.' 
+'Better Man' is dedicated to "a special person in my life who knows who he is," and right 
+before a phenomenal version of 'Sonic Reducer,' Ed says he "admired Rodman for what he's 
+done and where he came from." Ed takes to all four corners of the stage to wave to fans. 
+On the last corner, Rodman grabs Ed again and runs him around the stage. The band is, again, 
+in good form. Depending on who you talk to, Rodman either detracted from or enhanced the show.
+
+
+
+Transferred, converted/edited, and text compiled by Dan Leehr (dan@theskyiscrape.com) on 05/24/04.

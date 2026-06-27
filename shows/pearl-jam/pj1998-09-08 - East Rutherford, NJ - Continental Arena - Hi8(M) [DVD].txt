@@ -1,0 +1,20 @@
+PEARL JAM
+Continental Arena, East Rutherford, NJ, USA
+1998 - 9 - 8
+
+SETLIST
+
+Oceans, Hail Hail, Animal, Given To Fly, Daughter, Corduroy, MFC, Wishlist, Even Flow, 
+Faithfull, State Of Love And Trust, Brain Of J, Nothingman, Leatherman, Better Man, Black, 
+Do The Evolution 
+
+Video source:
+[Hi8 master(x2) > Sony DRC-TRV460 > firewire > avi > pixiedust(filter) > 
+CCE>MPEG-2(9000kb/s)] + [Yellow Ledbetter: Hi8 master > Hi8 2-cam mix > 
+S-video > SA DVD-R > Demuxed > Sony Vegas > DVD Architect > DL DVD]
+
+Audio source:
+Dolby Digital 5.1:
+(front) AKG 300b > Aerco > D7 > DAT > CDR(17th row, center) > WAV > dEQ
+(rear) Hi8 master(x2) > Sony DRC-TRV460 > firewire > avi > WAV
+(center/LFE) front > mono > 20%/60% amplitude

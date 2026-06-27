@@ -1,0 +1,44 @@
+Pearl Jam:  03/20/94 Chrisler Arena, Ann Arbor, Michigan
+CSB > TCD-D7 > dEDIT > dEQ > CD-R
+
+This show is incomplete.  The last song, "Indifference" is cut about 
+45 seconds in on the DAT master.  The show was recorded to computer 
+from a DAT clone of unknown generation by ways of TCD-D100 > Core 
+Sound 7-pin/coax > Turtle Beach MultiSound Fiji sound card.  After 
+it was on the computer, it was resampled, edited, EQ'd and normalized 
+in Sound Forge version 4.5.  The individual tracks were created in 
+CD Wave and then burned with CD-R Win.  The master CD-R was extracted 
+with Exact Audio Copy version 0.9 pre-beta 5  http://exactaudiocopy.de 
+back to computer and then new seed CD-Rs were created with CD-R Win.
+
+Track listing is as follows:
+
+CD One:  67:07
+
+01 Jeremy
+02 Go
+03 Animal
+04 Dissident
+05 Even Flow
+06 Glorified G
+07 Daughter
+08 Breath
+09 State of Love & Trust
+10 Last Exit
+11 Garden
+12 Why Go
+13 Deep
+14 Alive
+
+
+CD Two:  46:26
+
+01 Porch
+02 Nothingman
+03 Three Little Birds
+04 Yellow Ledbetter
+05 Black
+06 Rearviewmirror
+07 Not For You
+08 Blood
+09 Indifference (cuts)

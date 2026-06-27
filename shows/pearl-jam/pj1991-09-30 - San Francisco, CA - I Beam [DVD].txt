@@ -1,0 +1,64 @@
+Pearl Jam
+1991-09-30
+San Francisco, CA
+I-Beam
+
+Track listing:
+
+1.Wash
+2.Once
+3.Even Flow
+4.Suggestion
+5.State Of Love And Trust
+6.Alive
+7.Garden
+8.Deep
+9.Black
+10.Jeremy
+11.Why Go
+12.Porch
+13.I've Got a Feeling
+
+Video
+ID : 224 (0xE0)
+Format : MPEG Video
+Format version : Version 2
+Format profile : Main@Main
+Format settings : CustomMatrix / BVOP
+Format settings, BVOP : Yes
+Format settings, Matrix : Custom
+Format settings, GOP : M=3, N=15
+Format settings, picture structure : Frame
+
+Bit rate mode : Constant
+Bit rate : 7 500 kb/s
+Width : 720 pixels
+Height : 480 pixels
+Display aspect ratio : 4:3
+Frame rate : 29.970 (30000/1001) FPS
+Standard : NTSC
+Color space : YUV
+Chroma subsampling : 4:2:0
+Bit depth : 8 bits
+Scan type : Interlaced
+Scan order : Top Field First
+Compression mode : Lossy
+Bits/(Pixel*Frame) : 0.724
+Time code of first frame : 01:15:33:01
+Time code source : Group of pictures header
+GOP, Open/Closed : Open
+Stream size : 832 MiB (81%)
+
+Audio
+ID : 189 (0xBD)-160 (0xA0)
+Format : PCM
+Format settings : Big / Signed
+Muxing mode : DVD-Video
+
+Bit rate mode : Constant
+Bit rate : 1 536 kb/s
+Channel(s) : 2 channels
+Sampling rate : 48.0 kHz
+Bit depth : 16 bits
+Delay relative to video : -470 ms
+Stream size : 171 MiB (17%)

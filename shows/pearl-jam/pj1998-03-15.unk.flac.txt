@@ -1,0 +1,76 @@
+Pearl Jam
+Entertainment Centre
+Brisbane, Australia
+03.15.1998
+
+Source: ?? > cass > DAT-M
+Transfer: DAT-M > Archive Python DDS Drive > DAT2WAV 1.2 > WAV
+Conversion/Editing: WAV > Adobe Audition 1.0 
+	(32KHz -> 44.1KHz, Fade In/Out) > dEQ > CDWav > FLAC
+
+
+**************************************
+**     THIS IS A ZERO-DAE SEED      **
+**   DO NOT EXTRACT FROM AUDIO CD   **
+** PRESERVE THE ORIGINAL FLAC FILES **
+**      DO NOT CONVERT TO MP3       **
+**************************************
+
+Setlist
+-------
+
+Disc 1:                            [78:49.23]
+
+01. Long Road*
+02. Go
+03. Do the Evolution
+04. Brain of J
+05. In Hiding
+06. Alive
+07. Last Exit
+08. Wishlist
+09. Corduroy
+10. MFC
+11. Nothingman
+12. Even Flow
+13. Jeremy
+14. Given to Fly
+15. Throw Your Arms Around Me
+16. Off He Goes**
+17. Improv
+18. Habit
+19. Rearviewmirror
+
+Disc 2:                            [34:09.42]
+
+Encore 1
+01. Mankind
+02. Hail Hail
+03. Ed Talking
+04. Not For You
+05. Better Man
+06. Blood
+Encore 2
+07. Indifference
+08. Rockin' in the Free World
+
+---------------------------------------------
+Total:                            [112:58.65]
+
+* different source
+** cut in song
+
+Technical Notes
+---------------
+
+The sound quality of this recording is very poor, like an internal walkman mic.  For 
+completists only.  There is also a Core Sound > D100 (DAT) source of this show that 
+should be superior, but it has not yet circulated.
+
+This seed is being distributed with this text file, a set of FLAC fingerprints and the 
+shntool length report.
+
+Thanks to cps for the DAT.
+
+Transferred by Dan Leehr (dan@theskyiscrape.com) 
+Compiled on 01/11/05.

@@ -1,0 +1,12 @@
+Pearl Jam
+January 15, 1995 
+Constitution Hall (Voters for Choice)
+Washington, DC
+Sonic Studios (DSM6) > Sony TCD-D7 > CDr
+
+CRr > WAV was done using EAC V0.9 beta 4
+WAV > SHN was done using mkw Audio Compression Toolkit
+
+***************************
+***DO NOT CONVERT TO MP3***
+***************************

@@ -1,0 +1,32 @@
+Pearl Jam
+09-13-92
+Irvine Meadows
+Irvine, CA
+
+Source: unknown mic > unknown recorder > analog(unknown gen) > DAT > DAT > DAT > 
+	dEdit > FLAC
+
+DAT>FLAC: M1 > Core Sound 7 pin > Delta Dio 2496 > CEP (resample, corrected tape speed) >
+	cdwave > flac 1.1.0
+
+01 Baba O'Riley
+02 Sonic Reducer
+03 Even Flow
+04 Jeremy
+05 Hard to Imagine/ Improv
+06 Alive
+07 Porch
+08 Rockin' In the Free World
+09 Hunger Strike
+10 Reach Down
+
+Notes: There are periodic dropouts, but mostly at the end of Reach Down.  This was the 
+	last date of the Lollapalooza '92 tour and the last 2 songs were a mini 
+	Temple of the Dog reunion.
+
+
+conversion and edit by BLG
+compiled on 08-16-03
+
+
+

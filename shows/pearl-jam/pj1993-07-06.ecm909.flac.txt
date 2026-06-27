@@ -1,0 +1,27 @@
+Pearl Jam
+July 6, 1993
+Stadio Flaminio
+Rome, Italy
+
+Source: Sony ECM-909 > Sony WM-D6
+Generation: CAS-M > DAT-M > DAT-C @ 48khz > FLAC
+Transfer: DA-20 > Monster coax > Nomad Jukebox 3 (coax mod) > CEP 2.0 (44.1 resample, dEQ) > CD Wave > FLAC
+
+DISC I
+01 Why Go
+02 Jeremy
+03 Even Flow
+04 Glorified G
+05 Daughter
+06 Animal
+07 Alive
+08 Dissident
+09 Blood
+10 Porch
+
+Notes: A bit rough-sounding, but it's the best available source.
+
+Thanks to BLG for the DA-20 & JR for the DAT.
+
+Transfer by BMR
+compiled on 9-13-06

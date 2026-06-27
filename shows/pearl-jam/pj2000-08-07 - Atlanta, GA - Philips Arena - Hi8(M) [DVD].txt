@@ -1,0 +1,60 @@
+Pearl Jam » 2000.08.07 - Philips Arena - Atlanta, Georgia, USA
+
+
+Band name: Pearl Jam
+Date: August 7, 2000
+Venue: Philips Arena
+Location: Atlanta, Georgia, USA
+Tour name: Binaural - North America Tour - Part I
+Type: Tradeable
+Media: 2 DVDs
+Version: Central Cam
+Filming type: Audience
+Generation: Master
+Lineage: Hi8 master > Sony DCR-TRV460 > Firewire > avi > AviSynth filter (PixieDust) > CCE > MPEG-2
+Video format: NTSC
+Aspect ratio: 4:3
+Total running time: Length disk 1: 1h-4m-27s + disk 2: 1h-7m-27s
+Chapters: Yes
+Menus: Yes
+Number of camera angles: 1
+Number of audio selections: 2
+Track listing:
+
+
+Release
+Corduroy
+Insignificance
+Animal
+Hail Hail
+Nothing As It Seems
+Rival
+Given To Fly
+Light Years
+Do The Evolution
+Even Flow
+In Hiding
+Daughter
+Better Man
+Nothingman
+Leatherman
+Grievance
+Rearviewmirror
+Once
+Breakerfall
+Immortality
+Crazy Mary
+Small Town
+Porch
+Fuckin' Up
+Yellow Ledbetter
+Notes and comments:
+
+There is a 30 second cut during F*ckin' Up where the filmer switched tapes. This cut was filled with a still image.
+
+Source #1: Official Bootleg CD #29 > EAC > wav (44.1kHz) > wav (48kHz) > dED (CEP 2.0)
+
+Source #2: DPA4061 > D8 > DAT > CDR > wav (44.1hHz) > flac > wav (48kHz) > dEQ > dED (CEP 2.0)
+
+Stereo: matrix mix of sources #1 and #2
+Dolby Digital 5.1: (front) source #1, (rear) source #2 (center/LFE) source #1 > mono (20%/40% amplitude)

@@ -1,0 +1,44 @@
+Pearl Jam
+November 03, 1993
+Civic Center
+San Diego, CA
+
+Source: unknown 
+Lineage: Analog (either master or 1st gen) > DAT clone 16/48 > FLAC
+Transfer (BLG): DA-20 > digital coax > Marantz PMD-670 > usb reader > Adobe Audition (minor editing) > WavePad (tracking) > xACT (tags) > FLAC 
+
+01 Intro
+02 Release
+03 Animal
+04 Why Go
+05 Jeremy
+06 Rearviewmirror
+07 Go
+08 Even Flow
+09 Dissident
+10 Daughter/(Young Man Blues)
+11 Alive
+12 Once
+13 Black
+14 Improv (Hold Me)
+15 Porch
+
+Encore:
+16 Small Town
+17 Whipping
+18 Glorified G
+19 Sonic Reducer
+20 Baba O’Riley
+
+Encore 2:
+21 Indifference
+
+Total Time: 99:16
+
+Notes: The 2nd of 2 nights in San Diego. This recording is the same that is used on the “Indian Summer” silver bootleg that has circulated since 1994, but after comparisons, I believe this is a small upgrade.  The bootleg source boosted the volume and probably applied some sort of noise reduction.  If you put both versions in the spectral view on Adobe Audition, you can see this source looks much better.  My guess is this is the pre-bootleg source.  All fades were present on the DAT.
+
+There were no bad shows on this tour and this was another great one. 
+
+Please note, these are 16/48 FLAC files and will need to be converted to 44.1 if you intend to burn to CD.
+
+.txt compiled on 09/07/2014 by BLG 

@@ -1,0 +1,38 @@
+Pearl Jam
+Mars Music Amphitheatre
+West Palm Beach, FL
+August 9, 2000
+
+DVD Info: single-layer
+video: NTSC 4:3 29.97fps CBR  7.60 mbit/s
+audio: PCM Stereo 1536 kbit/s, AC3 5.1 448 kbit/s
+length: 0:26:32
+
+Video source:
+Hi8 Master (screen shot) > Sony DCR-TRV350 > Firewire > Final Cut Pro - Edit > Compressor
+
+Audio Sources:
+A1: Official Bootleg > Max > AIFF > Soundtrack Pro
+A2: Audience DAT > dEQ > Soundtrack Pro
+
+PCM Stereo: A1
+5.1 Surround: A1, A2
+
+Authored with DVD Studio Pro
+
+setlist:
+
+Corduroy (cuts in)
+Grievance
+Animal
+Brain of J
+Red Mosquito
+Nothing As It Seems
+Even Flow
+Dissident (cuts out) 
+
+Notes:  The taper of the screen shot video was kind enough to lend me this Hi8 Master tape in 2004, and it's taken nearly 5 years for me to get the DVD out.  DVD was authored in 2007 but I've been waiting until finishing night 2 to release it.
+
+Thanks to DarkGrin for the audience DAT source
+
+leehro, jan 10 2009

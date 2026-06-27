@@ -1,0 +1,53 @@
+Pearl Jam
+07-07-98
+Tingley Coliseum
+Albuquerque, NM
+
+Source: Sonic Studios (DSM6) -> PA-6LC -> Sony WM-D6 (approx 50' from left PA)
+Generation: ANA(1) -> DAT(M) 48khz -> FLAC
+Transfer: DA-20 -> Monster coax -> DiO 2496 -> Soundforge 6.0 (resample to 44.1) -> 
+	  CDWave -> FLAC frontend -> FLAC
+
+Disc I
+01 Brain of J 
+02 Hail Hail 
+03 Corduroy
+04 Rearviewmirror 
+05 Given to Fly 
+06 Dissident 
+07 Spin the Black Circle 
+08 Faithfull 
+09 Alive  
+10 MFC 
+11 Habit 
+12 Wishlist 
+13 improv/(Crazy Mary) 
+14 Nothingman 
+15 Jeremy 
+16 Do the Evolution 
+17 Better Man 
+18 Black
+
+Disc II
+01 Last Exit 
+02 Even Flow 
+03 Daughter 
+04 Fuckin' Up 
+05 Rockin' in the Free World  
+06 Yellow Ledbetter
+
+
+
+
+Notes: Tape flips after MFC and Black.
+
+
+
+
+Thanks to cps for the DAT.
+
+Transfer by BLG
+compiled on 11-22-04
+
+
+ 

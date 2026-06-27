@@ -1,0 +1,63 @@
+Pearl Jam
+11-17-96
+Sports Hall
+Budapest, Hungary
+
+Source: BIC mic -> Sony Walkman (inside sound cage)
+Generation: ANA(1) -> DAT(M) 32khz -> FLAC
+Transfer: DA-20 -> Monster coax -> DiO 2496 -> CEP 2.1 
+	(resample to 44.1) -> CDWave -> FLAC
+
+
+Disc I
+01 Sometimes
+02 Corduroy
+03 Hail Hail
+04 Animal
+05 Dissident
+06 Who You Are
+07 Black Red Yellow
+08 Rearviewmirror
+09 Better Man
+10 Habit
+11 Off He Goes
+12 Even Flow
+13 Glorified G
+14 Daughter/(Androgynous Mind)
+15 Jeremy
+16 State of Love and Trust
+17 Immortality
+18 Alive
+
+Disc II
+01 Mankind
+02 Young Man Blues
+03 Lukin
+04 I Got Shit
+05 Present Tense
+06 Once
+07 Leaving Here
+08 Porch
+
+SOUNDCHECK
+Source: Aiwa mic -> Aiwa Walkman
+Generation: ANA(1) -> DAT(M) 32khz -> FLAC
+
+10 jam?
+11 MFC
+12 Improv
+
+
+Notes: Sound quality of both these shows are terrible.  This is 
+	something probably only collectors will want.
+
+
+Previously circulating versions of these shows were MP3 sourced.  This should
+serve as a replacement.
+
+
+
+Thanks to cps for the DATs.
+
+transfer by BLG
+compiled on 12-24-04

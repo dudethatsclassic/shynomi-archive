@@ -1,0 +1,118 @@
+PEARL JAM
+
+
+Orpheum Theatre
+Boston, Massachusetts
+April 12, 1994
+
+
+Source:  (handheld/ORTF/110^/DFC/Row 40) B&K 4011s > Neumann BS48i-2 > Sony TCD-D3 > DAT(m) > DAT(c)
+Transfer:  DAT(m) > Sony DTC-59ES > SPDIF > Tascam HD-P2 > Audacity (16/48 > 16/44) > CDWave > FLAC
+DAT(m) sourced by John Goodhue
+DAT(c) provided by Alan Schmit
+Transfer by Terry Watts
+16/48k Master FLAC available
+
+
+Disc 1:
+Set 1:
+1. Oceans
+2. Even Flow
+3. Sonic Reducer *
+4. State Of Love & Trust
+5. Hard To Imagine
+6. Immortality (Hey Hey My My)
+7. Go
+8. Animal
+9. Glorified G
+10. Daughter #
+11. Alone
+12. Not For You
+13. Better Man
+14. Rats
+15. Blood
+
+Disc 2:
+Encores:
+1. e1: Release
+2. e1: Tremor Christ
+3. e1: Once
+4. e1: Fuckin' Up
+5. e1: Dirty Frank
+6. e1: Yellow Ledbetter
+7. e1: Improv
+8. e1: Rearviewmirror
+9. e1: Elderly Woman Behind The Counter In A Small Town
+10. e2: I've Got A Feeling
+
+Notes:
+
+* - w/ Mark Arm
+# - w/ Suck You Dry
+
+Taper paused during the encore break, I placed the disc break at the pause (D2T01).
+There is also another pause during the second encore break.  I used this pause as the start point of D2T10. 
+There is no music missing.
+
+Terry Watts
+
+
+
+
+FLAC FFP:
+pj1994-04-12d1t01.flac:1dba82ea4d95ec5c54b2f95deb12ade4
+pj1994-04-12d1t02.flac:f064a4d1fc996fd35faba7d01c6036b8
+pj1994-04-12d1t03.flac:b5b96b4a859922a43b664b87db2fbd7f
+pj1994-04-12d1t04.flac:14b41ac5ef757ead453efaa6744b4657
+pj1994-04-12d1t05.flac:841d8ff3f85e4b63770e41c2c5546350
+pj1994-04-12d1t06.flac:62c73d0057ab9d8b34b77497f8494a59
+pj1994-04-12d1t07.flac:402047e983a573051024179ee35e58fa
+pj1994-04-12d1t08.flac:eb218f1d39b627d367609b67243f09eb
+pj1994-04-12d1t09.flac:58358dd369b47a404d7287ddccae7a7b
+pj1994-04-12d1t10.flac:75580cbf43470e6d8077f4b2c950b3c1
+pj1994-04-12d1t11.flac:5bbdf0d0c997c76ac2183892c93ca502
+pj1994-04-12d1t12.flac:cecf9835e1647176fa94c4ff4c4b47fa
+pj1994-04-12d1t13.flac:08d74a035e1c6bf14b4a4196a05bc007
+pj1994-04-12d1t14.flac:ca7f027103bd20d6add588963327fffd
+pj1994-04-12d1t15.flac:fb6b65d3cec8ca9d1af9ddee09f42b3b
+pj1994-04-12d2t01.flac:b806b7c2a468bd07b1efddcdab28904c
+pj1994-04-12d2t02.flac:5a254beeb8e3f06e9ff8b7d3a0c5837f
+pj1994-04-12d2t03.flac:7f677c8346fabe87d4c8146cde337945
+pj1994-04-12d2t04.flac:58bf344ed6f1c4372ff794215fba4ef0
+pj1994-04-12d2t05.flac:453c8eea942d5728f49202274994ca99
+pj1994-04-12d2t06.flac:72e301a0712c80dc5b800ca87ff48fe2
+pj1994-04-12d2t07.flac:b21d13da28e80a3b3c09f6cb033960e1
+pj1994-04-12d2t08.flac:845b87582a4bbbe50fc610b134064a1b
+pj1994-04-12d2t09.flac:721baa372875aeebf11c55121b71c093
+pj1994-04-12d2t10.flac:17de0c89a06a99202772c76a0dbd259f
+
+
+
+
+WAV MD5:
+17d38b7878eaf2ed0b0132069b98f5f9 *pj1994-04-12d1t01.wav
+8730bb3c30f1f87ff42294e87980bdfc *pj1994-04-12d1t02.wav
+7247a34fc66e75d30c2fa206f7e556a4 *pj1994-04-12d1t03.wav
+c167210be688b245ba6f7c17aee36f1e *pj1994-04-12d1t04.wav
+fb8cde42fda4a6a210ea78c982a6a8fd *pj1994-04-12d1t05.wav
+717c02b1bdf9274176b289f8f7fe9e6a *pj1994-04-12d1t06.wav
+669b5b2d89e5a226b768e63e12807cfc *pj1994-04-12d1t07.wav
+255d113019ccced2fdfe7b285a39767f *pj1994-04-12d1t08.wav
+7de611a4596d43d8f07717d727895cac *pj1994-04-12d1t09.wav
+931c21ee680994b37baebb35ac2c8341 *pj1994-04-12d1t10.wav
+d37b5025181803032f65142bbd1fb4f4 *pj1994-04-12d1t11.wav
+196afabf123f0b89b8f04c556f68d8fd *pj1994-04-12d1t12.wav
+567eabfe94cdff1c59b5549e9aef8a4b *pj1994-04-12d1t13.wav
+d4ea22ef1b137865b8e2c2e562113b3e *pj1994-04-12d1t14.wav
+a33f513cfc1f73b5f68bb8b8e0f7ec86 *pj1994-04-12d1t15.wav
+c94a1519d050656a553351ef8d419a95 *pj1994-04-12d2t01.wav
+259dc7c4982aa669abb092aa93ecf0ad *pj1994-04-12d2t02.wav
+396d07d4cb190d63ab6be42ee683f945 *pj1994-04-12d2t03.wav
+28e50a2ff0825002887f3a0f08a1ed42 *pj1994-04-12d2t04.wav
+9940007d32ddd07a2922483be575e10d *pj1994-04-12d2t05.wav
+d4f8a5240ddf70858d47aac37f45d963 *pj1994-04-12d2t06.wav
+3ee846bd1c87aae885c368e0b4a1b9b2 *pj1994-04-12d2t07.wav
+62b0b83eb51a78d7d62b85d3f30c8f59 *pj1994-04-12d2t08.wav
+6bbea26d079bf00e43fa890183550b7b *pj1994-04-12d2t09.wav
+f11273e9ead62b8defa2f446fb795425 *pj1994-04-12d2t10.wav
+

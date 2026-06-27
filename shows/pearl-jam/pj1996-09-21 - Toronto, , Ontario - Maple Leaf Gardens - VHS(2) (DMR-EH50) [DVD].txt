@@ -1,0 +1,62 @@
+﻿Band: Pearl Jam
+Venue: Maple Leaf Gardens
+City: Toronto
+State: Ontario
+Country: Canada
+Date: 1996-09-21
+----------------- 
+Region: One
+Type: NTSC
+Menu: Basic
+Chapters: Every 5 Minutes
+Source: Camcorder Audience Recording 
+Artwork: No
+----------------- 
+Lineage
+2nd Generation VHS Tape To
+Panasonic DMR-EH50  To DVD
+DVD VOB To PC Hardrive 
+_________________
+
+SET LIST
+Release
+Hail Hail
+Last Exit
+Tremor Chirst
+In My Tree
+Corduroy
+Red Mosquito
+Animal
+Jeremy
+Habit
+Immortality
+Even Flow
+Not For You
+Daughter/(Cut My Hair)(Real Me)(Young Man Blues)
+Lukin
+Rearviewmirror
+Alive
+Blood  
+Who You Are
+I Got Shit/(Cinnamon Girl)
+Leaving Here
+Yellow Ledbetter
+
+Running Time: 107 Minutes
+
+Shot From Center Stage
+Head To Toe When Close
+
+Video Attributes: 
+Video compression mode: MPEG-2 
+TV system: 704 x 480 (NTSC) 
+Aspect Ratio: 4:3 
+Frame Rate: 29,970 
+Bitrate: 4298 KBPS 
+
+Audio Attributes: 
+Audio Coding mode: AC3 2/0
+Sampling Rate: 48kHz 
+Number of Audio channels: 2 
+Bitrate: 256 Kbps 
+Number of Audio streams: 1 

@@ -1,0 +1,153 @@
+Pearl Jam
+Private Radio
+Fox Theater, Atlanta, GA, USA 
+April 3, 1994
+Broadcast Live on BBC Radio 1 FM
+
+FM>Cassette master (Teac or Aiwa)>Teac V1050 cassette deck>Zoom H2 recorder SDHC wave capture 24bit 48kHz>track names, markers, saved to flacs then changed output to 16bit and saved to flacs using Magix Music Editor.
+
+Setlist:
+01 - Private Radio Introduction
+02 - Release
+03 - Rearviewmirror (has a few seconds of right hand channel drop-out)
+04 - Whipping
+05 - Even Flow (has a couple of seconds of speed fluctuation) 
+06 - Dissident
+07 - Why Go
+08 - Deep
+09 - Jeremy
+10 - Glorified G
+11 - Daughter
+12 - Go
+13 - Animal
+14 - Garden
+15 - State Of Love And Trust
+16 - Black
+17 - Alive
+18 - Blood
+19 - Crowd
+Encore
+20 - WMA
+21 - Better Man
+22 - Elderly Woman Behind The Counter In A Small Town
+23 - Rats
+24 - Satan's Bed
+25 - Once
+Run time:- 1:59:33
+
+24bit:
+md5
+3be04706cec1731dffa97949d9df84d0 *01 Private Radio Introduction.flac
+b97c73cf8c8cadce861d131d86938a6d *02 Release.flac
+adf02754836d2df90e13ae260e087b74 *03 Rearviewmirror.flac
+152ad56d0049dd2a9fd61a61ea83e3fc *04 Whipping.flac
+9ca2e33e141cc20e741d060fa5e63825 *05 Even Flow.flac
+66443e9b286a03d8eb04a03ac370bd4d *06 Dissident.flac
+5669c1f88aec96d74f57898ce93b29ce *07 Why Go.flac
+687794c7d8e92b83ff20306ee97cd5af *08 Deep.flac
+f289c73d048c81fef529e62dc905d861 *09 Jeremy.flac
+8f5a45c0250192bc2519af349409c675 *10 Glorified G.flac
+5d29e8395339df44e1b10af356ded8b6 *11 Daughter.flac
+d24dd4b6c01a679946749130036a8f0e *12 Go.flac
+4a6abb74fb56e30f4af339673869c10d *13 Animal.flac
+d262936d7f299a1851b54dc225958d5f *14 Garden.flac
+6141ba9ab1cca125cd91296b2dcd95c7 *15 State of Love and Trust.flac
+96a08a2a67a800fda73f20db6b6c6da6 *16 Black.flac
+f5f16c5a8df0eb3cf8e9718f24a57f9b *17 Alive.flac
+72fcf3e468d777c1d799d3bc8baaae95 *18 Blood.flac
+1fdb81a2d9964cc887d4e44d67ab20c1 *19 Crowd.flac
+b16be0fc98e5a8311c805eeef2571b00 *20 WMA.flac
+5740b3aa7b767af778891c2a03e04e64 *21 Better Man.flac
+b3e305f016530a43a988ad378d5c8ba6 *22 Elderly Woman Behind the Counter in a Small Town.flac
+8bb7ad7f06ea186e3369f466a5f18fc9 *23 Rats.flac
+3a8e53f875e0226aa33f3c6659b310b9 *24 Satan's Bed.flac
+80b161474ad10dc2e332998915c40c6c *25 Once.flac
+
+ffp
+01 Private Radio Introduction.flac:6b5e312ac69fac2b0ac37a3b84ab2bfb
+02 Release.flac:edd961bf5402233983f28615c662b988
+03 Rearviewmirror.flac:91066977dc4f4d69681ae93854c01706
+04 Whipping.flac:fb7d61c9dff938f9c7a951a1e658f768
+05 Even Flow.flac:ddaf5779adc7d8f3dc140b75aa90da28
+06 Dissident.flac:a6015c6702881a1abbcb584648959670
+07 Why Go.flac:4ffd7ce12b8905222f623d22d03fd8f4
+08 Deep.flac:9fb40ceec4d005aeb50adb2585e35326
+09 Jeremy.flac:bb8f4622b26b3174e17e27309e6f2478
+10 Glorified G.flac:194a8080fa305ca9756373e30971a7d8
+11 Daughter.flac:945e056dc037f0eea97bf5fb6f44000e
+12 Go.flac:5d4875596ca621160f2dcb481ad56248
+13 Animal.flac:adbc05ea8a436b996bea42dc68fb7015
+14 Garden.flac:e3e249c2b1e0471f77811112c40dd9e5
+15 State of Love and Trust.flac:f807c8eb17fbe2aafb7c1c00a2c28885
+16 Black.flac:af407756b9495b8250d35882cbe2869a
+17 Alive.flac:3a4ff018a1487a4a3c4187bce85d19ff
+18 Blood.flac:a4a6e9d68fcc7a2bdba0ab350137c031
+19 Crowd.flac:0e016c154ad822ebf02bfaab73bb78b1
+20 WMA.flac:730576ad8fcd65f94e2505820ee6d20c
+21 Better Man.flac:1f41dc119e4759aa73b874f4564d28a8
+22 Elderly Woman Behind the Counter in a Small Town.flac:cc17fc9409b16e1bfd65f39f92505771
+23 Rats.flac:fd17b9889fc413327a135c45e0d891b1
+24 Satan's Bed.flac:9e4a576785c4b0e6850a030e34fea818
+25 Once.flac:25137940505b14f4b22787951c751882
+
+16bit:
+md5
+29d56839df8691ca4fa7d5bd20b92c27 *01 Private Radio Introduction.flac
+41e8c66acf204cc0fc1fbe6b12fc8bdd *02 Release.flac
+8fd4a5b80a709983ade0f07327f9219e *03 Rearviewmirror.flac
+bb268d6750fb6fb698aa9900794b4651 *04 Whipping.flac
+276aa3b299d6dba6823b60f16d858cee *05 Even Flow.flac
+18410d6414a73db51aa4592f87ed626e *06 Dissident.flac
+1efcb79d36aa652955bb432c3ec5a336 *07 Why Go.flac
+26ac85c4fba8cce31a78b494f36915b3 *08 Deep.flac
+084708b39acbb16b0295f16f9f471c91 *09 Jeremy.flac
+acc223796312b3f4e4f4dd1294d6fa1f *10 Glorified G.flac
+5ba803b63adff7aa7f875688c6fc7061 *11 Daughter.flac
+44685046d2ee0400731d49ec2dc20825 *12 Go.flac
+12f9504134c404960bb9c0358dec8180 *13 Animal.flac
+cb43bc54c29b29c5158fb0479c67ace8 *14 Garden.flac
+cf13eb724717bb3117a898c19252ebbb *15 State of Love and Trust.flac
+23f58b4cf6b5314a9765d7be46714f74 *16 Black.flac
+364794363e7691c4e8bb854ff5b65cc9 *17 Alive.flac
+a0408882c60c14ac13ae43418a70c384 *18 Blood.flac
+aabc2b1e44bd6cca200163e2af75e57e *19 Crowd.flac
+93fc56e45dfa6855a271f650e3b40aba *20 WMA.flac
+eb53bf0bd04902b35812815451294b94 *21 Better Man.flac
+3d0dab76e2d6d491ab82b72560d84649 *22 Elderly Woman Behind the Counter in a Small Town.flac
+15ca028c0d7d24d8fb472fc609065425 *23 Rats.flac
+756fad7247ae7075602ed7d3f0bbc73f *24 Satan's Bed.flac
+5c1c11c660189c10abba41cdcd9fa282 *25 Once.flac
+
+ffp
+01 Private Radio Introduction.flac:d51bd694b005746adf5a8c31e3cf52f5
+02 Release.flac:f05d27c1211e77d4490df58e176fc2b2
+03 Rearviewmirror.flac:33b5a84c7c2612fb0b1d7b4fc96513ed
+04 Whipping.flac:fc3618b098fbf4dc5f6c2009e3d3e7f8
+05 Even Flow.flac:f3c19b0684926070a95c695549b0befa
+06 Dissident.flac:a4882a1fec79a5979bb3a7253ce73e97
+07 Why Go.flac:99d901d07df661ad5aecf4052f2a2d19
+08 Deep.flac:731940deef1f9e65e8e62606cfd65826
+09 Jeremy.flac:7db083bf871425df2e9dd097da8f2b27
+10 Glorified G.flac:8e604a35ad40b7ed2438ea8821e03758
+11 Daughter.flac:0a49c6f9c41c24d6d260eb08f372d826
+12 Go.flac:7bbf32d85b647b01658af03ff9cafbdc
+13 Animal.flac:032b42836edd619f2877c2c844cf18d5
+14 Garden.flac:7496d45ee5d70f20fa0d6b3d9e88a2d7
+15 State of Love and Trust.flac:e4316934ad8dded36119929d3ec6f4bb
+16 Black.flac:b3e86305f2c5369b67c52682afb78a3c
+17 Alive.flac:4ce747ba8fdb4d7a57315d69c981c24c
+18 Blood.flac:1927ba550c05a27bf62d6ed249c129d7
+19 Crowd.flac:343405db455584290ddda37902c2ffdb
+20 WMA.flac:58058c7ec593439f8c41410202b12799
+21 Better Man.flac:1f7b9eb4c6df26c66bf04de5551bcd9f
+22 Elderly Woman Behind the Counter in a Small Town.flac:023933f933860c1e6afebc3fa3663b23
+23 Rats.flac:07de46e037a3064c717acb11397a4116
+24 Satan's Bed.flac:430c61d11812d27275204319744200c7
+25 Once.flac:0127a957a893287e9a492c1980af52a1
+
+Play It LOUD!
+
+Enjoy.
+
+
+The flacs are in two separate folders clearly labelled 24Bit or 16Bit, your download client should show these with an option to uncheck the folder you don't want.

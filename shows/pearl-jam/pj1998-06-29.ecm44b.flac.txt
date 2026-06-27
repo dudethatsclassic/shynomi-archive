@@ -1,0 +1,49 @@
+Pearl Jam
+June 29, 1998
+United Center
+Chicago, IL
+
+Source: Sony ECM44b -> Sony TCD-D8
+Lineage: DAT-M -> DAT(1) 44.1 khz -> FLAC
+Transfer: DA-20 -> coax -> DiO 2496 -> CEP 2.1 -> WavePad -> xACT -> FLAC
+
+
+set: 
+01 Intro
+02 Long Road
+03 Do the Evolution
+04 Brain of J
+05 Hail Hail
+06 Go
+07 Dissident
+08 Even Flow
+09 Given to Fly
+10 Corduroy
+11 Rearviewmirror
+12 In Hiding
+13 Jeremy
+14 Daughter/(Ray of Light)/(Another Brick in the Wall)
+15 Nothingman
+16 MFC
+17 Off He Goes
+18 Present Tense
+19 Alive
+20 -encore 1-
+21 Wishlist
+22 Better Man/(Save it for Later)
+23 State of Love and Trust
+24 Black
+25 Last Exit
+26 -encore 2- 
+27 Baba O'Riley
+28 Yellow Ledbetter
+
+
+Thanks to CPS for the tape.
+
+Transfer by BLG
+compiled on 11-27-04
+Tracked & encoded on 08-28-11
+
+
+ 

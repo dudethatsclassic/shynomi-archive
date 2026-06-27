@@ -1,0 +1,64 @@
+Pearl Jam
+September 26, 1996
+Augusta Civic Center
+Augusta, ME
+
+2 Source Mix: [Nak CM300 Shotgun(x2)+Audio Technica 822(x2)->Mixer->Sony D10proII->Denon DTR-80P->DAT(1)->FLAC->.wav] +			[Sennheiser 441->Sony WM-D3->Sony TCD-D7->DAT©->FLAC->.wav] => FLAC
+
+Transfer (Nak+AT): DA-20 > Audiophile2496 > Audacity > CDWave > xACT
+Transfer (Senn441): DA-20 > DiO 2496 > Soundforge 6.0 > CDWave > Flac Frontend
+
+Nak+AT Transfer done by tapeworm(48)
+Senn441 Transfer done by BLG
+
+Setlist:
+01 Intro
+02 Sometimes
+03 Hail Hail
+04 Animal
+05 Spin the Black Circle
+06 Tremor Christ
+07 In My Tree
+08 Lukin
+09 Not For You
+10 Better Man/(Save It For Later)
+11 Corduroy
+12 Jeremy
+13 Red Mosquito
+14 State of Love & Trust
+15 Black
+16 Habit
+17 Rearviewmirror
+18 -Ed talking-
+19 Alive
+20 -encore break-
+21 Who You Are
+22 Even Flow
+23 Daughter/(Noise of Carpet)
+24 Blood/(Fame)
+25 -Ed talking-
+26 Leaving Here
+27 -encore break 2-
+28 I Am a Patriot (solo)
+
+
+Mix Notes: Sources were synched up in Adobe Audition and mixed.  There are a few cuts and several volume changes in the mixer source (see original notes below).  These were smoothed out and the Sennheiser source filled in the gaps.  Also, if you listen closely to the Nak+AT mixer source alone through headphones, you can hear a very slight echo.  The mix covers this up. As both sources are excellent recordings, the sound of the mix came out quite nicely.
+
+Mix and edit by BLG
+compiled on 10/07/11
+
+
+
+(Original Nak+AT) Notes: Direct transfer from my DAT1. No EQ performed, and all fades were already present on the tape. Both Sometimes and Who You Are cut in. I removed some of the dead space (no crowd noise either) during the first encore break. Good recording, but there are a couple of cuts and several level changes. A 4-channel mixer was used on site to record this, and a DAT taper patched in to the mixer via an analog cable. My DAT is a direct digital clone from the DAT taper. I can't compare the sound quality to the Sennheiser source as I havent listened to it recently.  One other thing I cant understand is why there is a cut around the 45 min mark, which leads me to believe that the recorder hooked up to the mixer was analog, but the D10 proII is a digital device I believe.  Anyways, enjoy!.
+
+Txt file created on 2/25/2007
+Transferred by tapeworm(48)
+
+(Original Sennheiser) Notes: There are a couple of small cuts and/or tape flips in this recording. 
+
+Thanks to JR for the DAT.
+
+Transfer by BLG
+compiled on 02-01-05 
+
+***** DO NOT SELL OR CONVERT TO LOSSY FORMATS. FREE TRADE ONLY *****

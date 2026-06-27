@@ -1,0 +1,31 @@
+PEARL JAM
+July 11, 1993
+Finsbury Park
+London, England
+
+Source: Sennheiser K6 + MKE 40-60 > Sony TCD-D7
+Taper: unknown
+Location: close to PA
+Lineage: DAT(M) > DAT(1) > DAT(2) > WAV [48] > WAV [44.1] > FLAC
+Transfer: Tascam DA-20mkII > M-Audio Audiophile 2496 > Sound Forge
+Edits/EQ: clap reduction with Ozone Maximizer, +3dB, 0:00:00-0:09:45 Ozone Maximizer (-1.8dB/-0.3dB), 0:09:45-end Ozone Maximizer (-3.5dB/-0.3dB)
+Notes: opening for Neil Young
+
+01 - intro
+02 - Animal
+03 - Go
+04 - Once
+05 - Blood
+06 - Evenflow
+07 - Jeremy
+08 - Glorified G
+09 - Daughter
+10 - Alive
+11 - improv
+12 - Why Go
+13 - Leash
+14 - Porch
+15 - outtro
+
+
+Compiled June 2019 by CPS

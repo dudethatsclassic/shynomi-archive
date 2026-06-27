@@ -1,0 +1,32 @@
+Pearl Jam
+1991-09-30
+I-Beam
+San Francisco, CA
+
+Source: Master audience video recorded with Sony TR7 (Radio Shack "Y" Model Mic) > Sony TRV-740 Digital8 cam with tbc/dnr > firewire > JVC DRM-100 DVD Recorder > XP Mode with LPCM > ripped to Hard Drive 2009.12.24
+Audio rip: iso file > virtual drive > DVD Decrypter 3.5.4.0 > Demux audio stream (LPCM - 2ch - 48kHz - 16bit) > Audacity > FLAC 48kHz 16bit
+
+Audacity edits:
+- full audio normalized to -0.3 dB
+- track splitting
+- fade-in on first track
+
+Tracks
+01. Wash
+02. Once
+03. Even Flow
+04. (Suggestion) State Of Love And Trust
+05. Alive
+06. Garden
+07. Deep
+08. Black
+09. Jeremy
+10. Why Go
+11. Porch
+12. Encore Break
+13. I've Got A Feeling
+
+Notes: audio sourced from video.
+Other available audio source is unknown microphone > unknown recorder > analog > dEQ > cdr > eac > wav > shn
+
+Compiled on 2021-01-04

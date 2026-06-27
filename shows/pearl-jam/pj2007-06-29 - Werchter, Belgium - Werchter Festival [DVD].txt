@@ -1,0 +1,42 @@
+Date:  		2007 - 6 - 29
+
+Venue: 		Werchter Festival, Werchter, Belgium
+
+Tour: 		Pearl Jam
+
+Leg: 		European
+
+Setlist:
+
+		(First set)
+		  Corduroy
+		  Elderly Woman Behind The Counter In A Small Town
+		  Why Go
+		  Given To Fly
+		  Even Flow
+		  Life Wasted
+		(Webcast Bonus)
+		  Slow Night So Long
+		(Audience Bonus)
+		  Once
+		  Dissident
+		  Baba O'Riley
+
+N of disk: 	1
+
+Length disk 1: 	Show: 28m-24s
+		Bonus: 14m-35s
+		Slideshow: 04m-07
+
+Video source: 	[(Ladeux TV > ADB-5810CX dvb-c > High Quality)
+		+ (HQ stream only for "belgacom skynet" users @ 751kbps > WM recorder 10 > .asf)
+		+ (Sony DSC-W5 > USB 2.0)]
+		> Vegas Pro 8 > Mpeg2 > Architect4.0 > Nero > DVD (NTSC 720 X 480, 29,970 fps)
+
+Audio source: 	Stereo: Ladeux Tv > dvb > PC (48000 hz 16 bits)
+		Dolby Digital 5.1: [Ladeux Tv > dvb > PC] + [Sony ECM-719 > Sony Hi-MD RH10 (PCM mode) > USB / Sonic Stage > WAV > Adob > Flac]
+
+Notes: 		The Tv broadcast set was patched between the songs with webcast material to get a more complete concert experience.
+		Slow Night So Long was played with King's of lion before Pearl Jam set.
+		Once is cut in. Baba O'Riley is slightly out of sync due to inconsistent video capture.
+		Josh Homme joined to Baba O'Riley. 

@@ -1,0 +1,73 @@
+Pearl Jam
+06/19/2000
+Hala Tivoli
+Ljubljana, Slovenia
+
+An Animal Projects Release
+
+
+DVD Info: 2 single-layer discs
+ - Video: NTSC 4:3, 29.97 fps
+   - Disc 1: VBR 6.90 mbit/s
+   - Disc 2: VBR 7.90 mbit/s
+ - Audio: PCM Stereo 1536 kbps
+ - Length:
+   - Disc 1: 01:09:30
+   - Disc 2: 00:57:40
+
+
+Source:
+
+- Video: VHS (1st gen) + VHS (1st gen) [first two songs] > Standalone > 
+          Sony Vegas Video > MPEG-2 > Adobe Encore > DVD
+- Audio: Official Release > EAC v0.95 > WAV (logs included)
+	  > FLAC Frontend (level 8) > FLAC
+
+
+Setlist
+
+Disc 1
+01. Corduroy
+02. Breakerfall
+03. Hail, Hail
+04. Animal
+05. Brain Of J
+06. Faithful
+07. Light Years
+08. Untitled
+09. MFC
+10. Habit
+11. Nothing As It Seems
+12. Given To Fly
+13. Spin The Black Circle
+14. Red Mosquito
+15. Black
+16. Insignificance
+17. Grievance
+
+Disc 2
+01. I Got Id
+02. Wishlist
+03. Do The Evolution
+04. Alive
+05. Encore Break
+06. Last Kiss
+07. Better Man
+08. Sleight Of Hand
+09. Daughter
+10. RVM
+11. Porch
+12. Soon Forget
+13. Indifference
+
+
+Notes:
+- Not the best transfer from the tape.
+- Some minor cuts during the show.
+
+
+Thanks to all who made this DVD possible.
+
+##############################
+# Trade Freely, Do Not Sell! #
+##############################

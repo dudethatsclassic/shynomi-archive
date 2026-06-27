@@ -1,0 +1,102 @@
+Pearl Jam
+GTE Amphitheater
+Virginia Beach, VA
+September 7, 1998
+Audience Master Recording
+
+Source: Sonic Studios DSM-6P w/ 3 way lo-cut, position unknown (most likely 80hz) > Sony WM-D6 (w/ Dolby B) > Maxwell XL-IIS 100m master cassettes
+
+Transfer: Denon 790R > Kenwood A-522 amplifier > Kenwood GE-622 Equalizer (ran flat) > .WAV @ 16 bit/44.1 kHz
+
+Mastering: .WAV > Sound Forge Pro 11.0 (Build 299) [Waves GEQ Classic Stereo plugin (EQ - see settings below); fades]
+
+Tracking:  .WAV > Audacity 2.2.2 > xAct 2.45 (encode to FLAC level 8, align sectors, ffp)
+
+Location: Sec: 204 Row: M Seat:14
+
+EQ Settings:
+63 Hz - minus 2 dB
+100 Hz - minus 6 dB
+160 Hz...minus 2 dB
+
+
+setlist:
+
+01. Animal (fades in)
+02. Hail Hail
+03. Given to Fly
+04. Corduroy
+05. I Got Shit
+06. Daughter
+07. Brain of J
+08. Rats
+09. Jeremy
+10. Even Flow
+11. Improv >
+12. MFC
+13. Wishlist
+14. Leatherman
+15. Off He Goes
+16. Rearviewmirror
+17. Black
+18. Do The Evolution
+19. encore break
+- encore -
+20. Immortality
+21. Better Man
+22. No Way
+23. Alive (with Luke's Wall/War Pigs teaser in solo)
+24. Sonic Reducer
+25. Porch
+
+
+show notes:
+
+to start off the verbal proceedings, "No Way" is far and away my favorite "Yield" track...it's like the best parts of Graffiti-era Zepp mashed with some jangle and pizzazz. and when they go into that riff after the first chorus.... #chillseverytime
+
+throw in how rarely it's been played, and how this recording even came to be....
+
+this show was an afterthought; Knoxville was to be my last.
+
+but I wanted more.  (people who know me how that's rarely the case...BWAAAAAAAAAAAAAHAHAHAHA #Dennis #dandrew)
+
+so a changed plane ticket, and an extra-couple-days car rental and a few tanks of gas delivered me to the parking lot of the GTE Amphitheater as the last strains of Sonic Youth were belching out of the bowl.
+
+and I had no ticket (again, this show was an afterthought)
+
+and NO WAY (GET IT?) did a lawn tape, for the FINAL PJ show of the year for this camper sound acceptable.
+
+so minutes pass, and like an angel from above, someone walked up to me with one in roughly the 40th row (it's been awhile) for $40...and I ran in, and got the gear 'situated' right as the crowd was going nuts....
+
+then "Animal" as an opener? are you shitting me?
+
+that opening 5-song salvo was like a 10-ton heavy thing to the bridge of the nose.
+
+and then RATS???
+
+and then a nifty lil' improv?
+
+and then, totally out of left yield, I mean *field*, the ONE song that was on the wishlist (ok, this is getting bad)
+
+and a 1-2 knockout punch of "Sonic Reducer" and "Porch" to close it out???
+
+
+if not for "Leatherman" (a most atrocious song), and a verbal altercation with an unfettered drunken dipshit (fortunately during "Jeremy", you'll hear my lack of appreciation, and I try oh-so-hard to not talk during the music....only during the encore break if necessary) and the slightly-cut start it might be my fave of the *tour*
+
+all that said, the final little memory of "Pearl Jam 1998" wrapping up for the Athabascan Alaskan Assassin, was the drive out of Virginny Beach to Iowa for the Crowes ***the next night*** (yes, I am nuts/not well), was it was nighttime, and a pitch black night with vivid pink and blue lightning about an hour into the drive...nothing like we get in Alaska (and I've only seen it like this in August in Arizona {monsoon season})
+
+the real memory though was the ONLY radio station that could be picked up was a college radio station, out of Baltimore, doing a 2 hour true-death-metal marathon (they must have played Deicide 3 times)
+
+it made for a fitting soundtrack for leaving the east coast.... #HeadWestOldMan
+
+
+all that said, you know the drill....
+
+THANKS Dennis!!!
+
+THANKS dandrew!!!
+
+FUCK OFF Hagar!
+
+
+---Dr. Deep is breeding rats...BIG FUCKING rats...with balls THIS big and dicks THIS long!!!  #DirtyLittleJohnnyPunchline #NoWay

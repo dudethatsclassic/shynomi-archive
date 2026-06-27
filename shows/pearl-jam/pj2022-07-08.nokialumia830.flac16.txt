@@ -1,0 +1,38 @@
+Pearl Jam,
+Hyde Park,
+London,
+England, UK
+
+8th July 2022
+
+Setlist:
+01 intro
+02 Better Man
+03 Low Light
+04 Breath
+05 Mind Your Manners
+06 Save You
+07 Quick Escape
+08 In Hiding
+09 Retrograde
+10 Light Years
+11 Even Flow
+12 Unthought Known
+13 Daughter
+14 Superblood Wolfmoon
+15 Given to Fly
+16 Public Image (Public Image Ltd cover)
+17 Once
+18 Porch
+
+Encore:
+19 I'm the Answer (Simon Townshend cover)
+20 Jeremy
+21 Indifference
+22 Alive
+23 Rockin' in the Free World (Neil Young cover)
+
+Lineage:
+Nokia Lumia 830 (built-in HAAC mics) -> Audio Recorder Pro app (16-bit 44100Hz PCM) -> Adobe Audition (EQ) -> Trader's Little Helper (FLAC)
+
+Length: 02:12:16

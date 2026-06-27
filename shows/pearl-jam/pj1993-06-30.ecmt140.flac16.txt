@@ -1,0 +1,29 @@
+
+Pearl Jam
+Jäähalli: Helsinki, Finland
+June 30, 1993 
+
+Source: Sony ECM-T140 > Sony WM-D6 @ 48kHz
+Lineage: ANA Master > ANA1 > DAT clone
+Transfer: Tascam DA-20 > Digital Coax > MicroTrack II > Audacity > CDWave > TLH
+
+Setlist:
+
+01 Animal (cuts in)
+02 Even Flow
+03 Why Go?
+04 Jeremy
+05 Glorified G
+06 Daughter
+07 Black
+08 Alive
+09 Porch
+
+Notes: Opening for Neil Young. First song cuts in and has some distortion at the start. Amplified entire file by +3dB. Raw transfer with no fades or EQ.
+
+Archive: DAT clone was transferred @ 48kHz and FLAC'd with cue sheet. 
+
+Transferred by tapeworm(48) 
+Txt file compiled on 5/17/2020
+
+*** DO NOT DISTRIBUTE IN LOSSY FORMATS. DO NOT SELL THIS RECORDING, TRADE IT FREELY *** 

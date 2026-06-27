@@ -1,0 +1,60 @@
+Pearl Jam
+Oakland-Alameda County Coliseum
+Oakland, CA
+November 15, 1997
+(Opened for The Rolling Stones)
+
+Source: Sonic Studios DSM-6P w/ 3 way lo-cut, position unknown (most likely 80hz) > Sony WM-D6 (w/ Dolby B) > Maxell XL-IIS 100m master cassettes
+
+Transfer: Denon 790R > Kenwood A-522 amplifier > Kenwood GE-622 Equalizer (ran flat) > .WAV @ 16 bit/44.1 kHz
+
+Mastering:  .WAV > Sound Forge Pro 11.0 (Build 299) [iZotope Mastering Suite (declick); minor edits, normalize, & fades] > iZotope RX6 Advanced v6.00.1210 (Spectral denoise)
+
+Tracking: .WAV > Audacity 2.2.2 > xAct 2.45 (encode to FLAC level 8, align sectors, ffp)
+
+Location: Section F3, row R, seat 37 (guessing 19th row, based on AA + A-Q)
+
+
+setlist:
+
+01. Long Road
+02. Last Exit
+03. Animal
+04. Hail Hail
+05. Even Flow
+06. Eddie talkin'
+07. Jeremy
+08. Brain of J.
+09. Daughter
+10. Corduroy >
+11. Wishlist
+12. Better Man (first few notes cut)
+13. Do The Evolution >
+14. Alive
+15. Yellow Ledbetter
+
+Tape flip @ 43:08 - seamlessly spliced, no music lost
+
+show notes:
+
+well, what ya have here is "night 2" of PJ opening for the Stones in Oakland.
+
+my fave memories of these shows were the Stones giving PJ an hour to open, whereas ALL other bands (Blues Traveler, RHCP, Sheryl Crow, etc.) were limited to 40 minutes.
+
+
+that, and this was the only time I've ever seen an opening act fill a stadium to the gills by the end of their set.
+
+
+it was one hell of a party, hopefully it's translated well here...
+
+THANKS Dennis!
+
+THANKS dandrew!
+
+FUCK OFF Hagar
+
+with repetition, it comes more easily, trust me on that...
+
+back to staring at the bright, white screen.
+
+---Dr. Deep is given to fly

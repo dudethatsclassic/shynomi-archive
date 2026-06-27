@@ -1,0 +1,55 @@
+Pearl Jam
+September 16, 1995
+Southpark Meadows
+Austin, TX
+
+Taper: CM
+Source: Sonic Studios (DSM-6S) > Casio DA-R100 (1st and last song patched with CSB>D7>DAT2>SHN)
+Lineage: DAT1 > FLAC
+Transfer (JLW): Sony PCM-R300 DAT > optical out > ESI U24 > usb out to PC > CEP1.5 > TLH flac8
+Mastering (BLG): Adobe Audition > Izotope Ozone 5 > WavePad > xACT > FLAC
+
+01 Act of Love
+02 Go
+03 Last Exit/(Long Road stopped)
+04 Animal
+05 Tremor Christ
+06 Corduroy/(Jeremy new (stopped)
+07 Lukin
+08 Not For You
+09 Small Town
+10 Why Go
+11 Even Flow
+12 Dissident
+13 Daughter/(WMA)
+14 State of Love and Trust
+15 Rearviewmirror
+16 I Got Shit
+17 Immortality
+18 Black
+19 Spin the Black Circle
+20 Alive
+
+Encore 1:
+21 Once
+22 Sonic Reducer
+23 Leaving Here
+24 Better Man
+25 Talk About the Passion
+26 Whipping
+27 Porch
+
+Encore 2:
+28 Indifference
+
+Total Time: 135:34
+
+
+Notes: Power goes out for part of Porch.
+
+Thanks to Aleal for the DAT
+Thanks to JLW for transferring.
+
+.txt compiled on 01/28/2014 by BLG
+
+

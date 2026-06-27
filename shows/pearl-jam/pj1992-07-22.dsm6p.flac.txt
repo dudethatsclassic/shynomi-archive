@@ -1,0 +1,119 @@
+EAC extraction logfile from 3. August 2002, 17:34 for CD
+Unknown Artist / Unknown Title
+
+Used drive  : YAMAHA  CRW2200E   Adapter: 2  ID: 0  LUN: 0
+Read mode   : Secure with NO C2, accurate stream, disable cache
+Read offset correction : 0
+Overread into Lead-In and Lead-Out : No
+
+Used output format : Internal WAV Routines
+                     44.100 Hz; 16 Bit; Stereo
+
+Other options      : 
+    Fill up missing offset samples with silence : Yes
+    Delete leading and trailing silent blocks : No
+    Installed external ASPI interface
+
+
+Track  1
+   Filename D:\QUIM\Wav1\pj1992-07-22t01.wav
+
+   Pre-gap length  0:00:02.00
+
+   Peak level 75.7 %
+   Track quality 100.0 %
+   Copy CRC 11F48D03
+   Copy OK
+
+Track  2
+   Filename D:\QUIM\Wav1\pj1992-07-22t02.wav
+
+   Peak level 91.2 %
+   Track quality 100.0 %
+   Copy CRC 454350BD
+   Copy OK
+
+Track  3
+   Filename D:\QUIM\Wav1\pj1992-07-22t03.wav
+
+   Peak level 83.2 %
+   Track quality 100.0 %
+   Copy CRC 5AB01671
+   Copy OK
+
+Track  4
+   Filename D:\QUIM\Wav1\pj1992-07-22t04.wav
+
+   Peak level 53.9 %
+   Track quality 100.0 %
+   Copy CRC 580C0B63
+   Copy OK
+
+Track  5
+   Filename D:\QUIM\Wav1\pj1992-07-22t05.wav
+
+   Peak level 82.6 %
+   Track quality 100.0 %
+   Copy CRC 97574E90
+   Copy OK
+
+Track  6
+   Filename D:\QUIM\Wav1\pj1992-07-22t06.wav
+
+   Peak level 76.9 %
+   Track quality 100.0 %
+   Copy CRC 7C39B091
+   Copy OK
+
+Track  7
+   Filename D:\QUIM\Wav1\pj1992-07-22t07.wav
+
+   Peak level 57.5 %
+   Track quality 100.0 %
+   Copy CRC 015664C9
+   Copy OK
+
+Track  8
+   Filename D:\QUIM\Wav1\pj1992-07-22t08.wav
+
+   Peak level 77.3 %
+   Track quality 100.0 %
+   Copy CRC 16570C1A
+   Copy OK
+
+Track  9
+   Filename D:\QUIM\Wav1\pj1992-07-22t09.wav
+
+   Peak level 80.5 %
+   Track quality 100.0 %
+   Copy CRC 75BF6CF6
+   Copy OK
+
+Track 10
+   Filename D:\QUIM\Wav1\pj1992-07-22t10.wav
+
+   Peak level 48.9 %
+   Track quality 100.0 %
+   Copy CRC FD553DF5
+   Copy OK
+
+Track 11
+   Filename D:\QUIM\Wav1\pj1992-07-22t11.wav
+
+   Peak level 79.9 %
+   Track quality 100.0 %
+   Copy CRC D850A391
+   Copy OK
+
+Track 12
+   Filename D:\QUIM\Wav1\pj1992-07-22t12.wav
+
+   Peak level 74.6 %
+   Track quality 100.0 %
+   Copy CRC F5955CEC
+   Copy OK
+
+No errors occured
+
+
+End of status report

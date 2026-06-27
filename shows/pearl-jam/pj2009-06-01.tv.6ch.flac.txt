@@ -1,0 +1,13 @@
+Pearl Jam
+June 1, 2009
+Conan - Warner Bros. Studios, Burbank, California
+
+Source: AC-3 (5.1) > FLAC (5.1)
+
+Lineage: 1080i Broadcast > MPEG2 Transport Stream (*.ts) > AC-3 (Pearl Jam TV Master Archive)  > FLAC
+
+Source Contributor: Unknown
+
+FLAC Conversion: Kakashisensei
+
+01 Got Some

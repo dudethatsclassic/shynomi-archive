@@ -53,7 +53,8 @@ const ARTIST_DATA = {
       "venue": "Off-Ramp Cafe *Sourced from Bridges Epilogue Bootleg",
       "notes": "",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "pj1990-10-22.bootcd.flac.txt"
     },
     {
       "year": 1990,
@@ -92,7 +93,8 @@ const ARTIST_DATA = {
       "venue": "Studio",
       "notes": "First \u00b7 M \u00b7 M",
       "version": "SBD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "pj1990-10-23 - Seattle, WA (Eddie in Seattle 10.23.90 - First Week Rehearsal Demo).txt"
     },
     {
       "year": 1991,
@@ -118,7 +120,8 @@ const ARTIST_DATA = {
       "venue": "Florentine Gardens *as Mookie Blaylock",
       "notes": "unk",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "pj1991-02-07.upg.deq.flac.txt"
     },
     {
       "year": 1991,
@@ -131,7 +134,8 @@ const ARTIST_DATA = {
       "venue": "God Save the Queen",
       "notes": "PC62",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "pj1991-02-08.pc62.deq.flac.txt"
     },
     {
       "year": 1991,
@@ -144,7 +148,8 @@ const ARTIST_DATA = {
       "venue": "God Save the Queen",
       "notes": "ANA(1) \u00b7 Sony WMD3 \u00b7 tapeworm48",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "pj1991-02-08.wmd3.flac16.txt"
     },
     {
       "year": 1991,
@@ -157,7 +162,8 @@ const ARTIST_DATA = {
       "venue": "Club With No Name",
       "notes": "VID(M) \u00b7 cps",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "pj1991-02-11 - Los Angeles, CA - Club With No Name - AIC with Pearl Jam [DVD].txt"
     },
     {
       "year": 1991,
@@ -170,7 +176,8 @@ const ARTIST_DATA = {
       "venue": "Club With No Name",
       "notes": "",
       "version": "AUD",
-      "format": "DVD"
+      "format": "DVD",
+      "textFile": "pj1991-02-11.video.flac.txt"
     },
     {
       "year": 1991,
@@ -183,7 +190,8 @@ const ARTIST_DATA = {
       "venue": "KISW Interview",
       "notes": "",
       "version": "FM",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "pj1991-03-10.interview.txt"
     },
     {
       "year": 1991,
@@ -196,7 +204,8 @@ const ARTIST_DATA = {
       "venue": "Citi",
       "notes": "ECM-909 \u00b7 perfectrx",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "pj1991-07-10.ecm-909.flac.txt"
     },
     {
       "year": 1991,
@@ -209,7 +218,8 @@ const ARTIST_DATA = {
       "venue": "JC Dobbs",
       "notes": "unk",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "pj1991-07-12.unk.deq.flac.txt"
     },
     {
       "year": 1991,
@@ -222,7 +232,8 @@ const ARTIST_DATA = {
       "venue": "Marquee Room",
       "notes": "DAT(M) \u00b7 Sennheiser ME80 \u00b7 cps",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "pj1991-07-13.senn.flac.txt"
     },
     {
       "year": 1991,
@@ -235,7 +246,8 @@ const ARTIST_DATA = {
       "venue": "Marquee Room",
       "notes": "SS",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "pj1991-07-13.ss.flac.txt"
     },
     {
       "year": 1991,
@@ -248,7 +260,8 @@ const ARTIST_DATA = {
       "venue": "Club Babyhead",
       "notes": "ECM-909 \u00b7 perfectrx",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "pj1991-07-15.ecm-909.flac.txt"
     },
     {
       "year": 1991,
@@ -261,7 +274,8 @@ const ARTIST_DATA = {
       "venue": "Wetlands Preserve",
       "notes": "ANA(1) \u00b7 Sony PC-62 \u00b7 mike ziegler",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "pj1991-07-17.ana1.flac.txt"
     },
     {
       "year": 1991,
@@ -274,7 +288,8 @@ const ARTIST_DATA = {
       "venue": "Wetlands Preserve *Unauthorised",
       "notes": "",
       "version": "Silver CD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "pj1991-07-17.bootcd.flac.txt"
     },
     {
       "year": 1991,
@@ -287,7 +302,8 @@ const ARTIST_DATA = {
       "venue": "KISW Studios / 99.9 KISW",
       "notes": "DAT(M) \u00b7 ef",
       "version": "FM",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "pj1991-08-21.fm.flac.txt"
     },
     {
       "year": 1991,
@@ -300,7 +316,8 @@ const ARTIST_DATA = {
       "venue": "Mural Amphitheatre",
       "notes": "unk",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "pj1991-08-23.video.deq.flac.txt"
     },
     {
       "year": 1991,
@@ -326,7 +343,8 @@ const ARTIST_DATA = {
       "venue": "RKCNDY",
       "notes": "unk",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "pj1991-08-29.unk.flac.txt"
     },
     {
       "year": 1991,
@@ -352,7 +370,8 @@ const ARTIST_DATA = {
       "venue": "I-Beam",
       "notes": "unk",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "pj1991-09-30 - San Francisco, CA - I Beam [DVD].txt"
     },
     {
       "year": 1991,
@@ -365,7 +384,8 @@ const ARTIST_DATA = {
       "venue": "I-Beam",
       "notes": "Sony TRV-740 Master",
       "version": "AUD (48k)",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "pj1991-09-30.unk.deq.flac.txt"
     },
     {
       "year": 1991,
@@ -378,7 +398,8 @@ const ARTIST_DATA = {
       "venue": "I-Beam",
       "notes": "",
       "version": "AUD",
-      "format": "DVD"
+      "format": "DVD",
+      "textFile": "pj1991-09-30.video.48k.flac.txt"
     },
     {
       "year": 1991,
@@ -391,7 +412,8 @@ const ARTIST_DATA = {
       "venue": "",
       "notes": "",
       "version": "SBD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "pj1991-10-06.fm.flac.txt"
     },
     {
       "year": 1991,
@@ -404,7 +426,8 @@ const ARTIST_DATA = {
       "venue": "",
       "notes": "",
       "version": "Silver CD",
-      "format": ""
+      "format": "",
+      "textFile": "pj1991-10-06.pre-fm.flac.txt"
     },
     {
       "year": 1991,
@@ -417,7 +440,8 @@ const ARTIST_DATA = {
       "venue": "",
       "notes": "",
       "version": "preFM",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "pj1991-10-06.sbd.remaster.flac.txt"
     },
     {
       "year": 1991,
@@ -430,7 +454,8 @@ const ARTIST_DATA = {
       "venue": "",
       "notes": "",
       "version": "FM",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "pj1991-10-06.ww1.flac.txt"
     },
     {
       "year": 1991,
@@ -443,7 +468,8 @@ const ARTIST_DATA = {
       "venue": "Oscar Meyer Theater",
       "notes": "Sony PZM",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "pj1991-10-16.pzm.flac.txt"
     },
     {
       "year": 1991,
@@ -456,7 +482,8 @@ const ARTIST_DATA = {
       "venue": "Central Park / Eagle's Ballroom",
       "notes": "unk",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "pj1991-10-22.unk.deq.flac.txt"
     },
     {
       "year": 1991,
@@ -469,7 +496,8 @@ const ARTIST_DATA = {
       "venue": "Michigan State University FM Radio",
       "notes": "",
       "version": "FM",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "pj1991-10-23.fm.flac.txt"
     },
     {
       "year": 1991,
@@ -482,7 +510,8 @@ const ARTIST_DATA = {
       "venue": "MSU Auditorium, Michigan State University",
       "notes": "unk",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "pj1991-10-23.unk.deq.flac.txt"
     },
     {
       "year": 1991,
@@ -495,7 +524,8 @@ const ARTIST_DATA = {
       "venue": "Cleveland Music Hall",
       "notes": "unk",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "pj1991-10-26.unk.deq.flac.txt"
     },
     {
       "year": 1991,
@@ -508,7 +538,8 @@ const ARTIST_DATA = {
       "venue": "Concert Hall",
       "notes": "Aiwa \u00b7 andymon \u00b7 smores transfer",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "pj1991-10-30.aiwa.flac.txt"
     },
     {
       "year": 1991,
@@ -521,7 +552,8 @@ const ARTIST_DATA = {
       "venue": "Concert Hall",
       "notes": "unk",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "pj1991-10-30.unk.flac.txt"
     },
     {
       "year": 1991,
@@ -534,7 +566,8 @@ const ARTIST_DATA = {
       "venue": "Memorial Auditorium",
       "notes": "PC-62",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "pj1991-11-02.pc62.deq.flac.txt"
     },
     {
       "year": 1991,
@@ -547,7 +580,8 @@ const ARTIST_DATA = {
       "venue": "Springfield Civic Center",
       "notes": "DAT(M) \u00b7 AKG 451s \u00b7 tapeworm48",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "pj1991-11-03.akg451.flac16.txt"
     },
     {
       "year": 1991,
@@ -560,7 +594,8 @@ const ARTIST_DATA = {
       "venue": "Springfield Civic Center",
       "notes": "DAT(M) \u00b7 AKG 451s \u00b7 tapeworm48",
       "version": "AUD (48k)",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "pj1991-11-03.ck1.48k.flac16.txt"
     },
     {
       "year": 1991,
@@ -573,7 +608,8 @@ const ARTIST_DATA = {
       "venue": "Springfield Civic Center",
       "notes": "ECM-909",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "pj1991-11-03.ecm909.deq.flac.txt"
     },
     {
       "year": 1991,
@@ -586,7 +622,8 @@ const ARTIST_DATA = {
       "venue": "CBGBs",
       "notes": "Sony PC-62",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "pj1991-11-08.pc-62.flac.txt"
     },
     {
       "year": 1991,
@@ -599,7 +636,8 @@ const ARTIST_DATA = {
       "venue": "CBGBs",
       "notes": "SS/D3 \u00b7 fogelsong transfer",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "pj1991-11-08.ss.flac16.txt"
     },
     {
       "year": 1991,
@@ -612,7 +650,8 @@ const ARTIST_DATA = {
       "venue": "Tower Records *From Deep Through the Years",
       "notes": "pj23 transfer",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "pj1991-11-09 - Tower Records, Rockville, MD & 1992-05-15 - Warfield Theatre, San Francisco, CA.txt"
     },
     {
       "year": 1991,
@@ -625,7 +664,8 @@ const ARTIST_DATA = {
       "venue": "Tower Records",
       "notes": "VHS(1) \u00b7 alvarojam",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "pj1991-11-09.bootcd.flac.txt"
     },
     {
       "year": 1991,
@@ -638,7 +678,8 @@ const ARTIST_DATA = {
       "venue": "Tower Records",
       "notes": "VHS(M) \u00b7 Panasonic VHS Cam",
       "version": "AUD",
-      "format": "DVD"
+      "format": "DVD",
+      "textFile": "pj1991-11-09.vhs.eq.flac.txt"
     },
     {
       "year": 1991,
@@ -651,7 +692,8 @@ const ARTIST_DATA = {
       "venue": "Roseland Ballroom",
       "notes": "VID(M) \u00b7 hernan giralt encode",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "pj1991-11-11.video.flac.txt"
     },
     {
       "year": 1991,
@@ -664,7 +706,8 @@ const ARTIST_DATA = {
       "venue": "Roseland Ballroom",
       "notes": "ECM-909 \u00b7 rick bendes transfer",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "pj1991-11-12.ecm-909.flac.txt"
     },
     {
       "year": 1991,
@@ -677,7 +720,8 @@ const ARTIST_DATA = {
       "venue": "Rocky Point Palladium",
       "notes": "unk",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "pj1991-11-13.Warwick, RI.unk.flac16.txt"
     },
     {
       "year": 1991,
@@ -690,7 +734,8 @@ const ARTIST_DATA = {
       "venue": "Tower Records",
       "notes": "VHS(1) \u00b7 alvarojam",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "pj1991-11-14.vhs.eq.flac.txt"
     },
     {
       "year": 1991,
@@ -703,7 +748,8 @@ const ARTIST_DATA = {
       "venue": "Tower Records",
       "notes": "unk",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "pj1991-11-14.video.flac.txt"
     },
     {
       "year": 1991,
@@ -729,7 +775,8 @@ const ARTIST_DATA = {
       "venue": "Roseland Ballroom",
       "notes": "ECM-909",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "pj1991-11-15.ecm-909.flac.txt"
     },
     {
       "year": 1991,
@@ -742,7 +789,8 @@ const ARTIST_DATA = {
       "venue": "Roseland Ballroom",
       "notes": "SS/D3 \u00b7 fogelsong transfer",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "pj1991-11-15.ss.flac16.txt"
     },
     {
       "year": 1991,
@@ -755,7 +803,8 @@ const ARTIST_DATA = {
       "venue": "Roseland Ballroom",
       "notes": "unk",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "pj1991-11-16.unk.deq.flac.txt"
     },
     {
       "year": 1991,
@@ -768,7 +817,8 @@ const ARTIST_DATA = {
       "venue": "Veterans Coliseum",
       "notes": "unk",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "pj1991-11-18.unk.deq.flac.txt"
     },
     {
       "year": 1991,
@@ -781,7 +831,8 @@ const ARTIST_DATA = {
       "venue": "The Blind Pig",
       "notes": "CASS(M) \u00b7 SS \u00b7 mfd",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "pj1991-11-21.ana-m.ss.flac.txt"
     },
     {
       "year": 1991,
@@ -794,7 +845,8 @@ const ARTIST_DATA = {
       "venue": "State Theatre",
       "notes": "Clubland \u00b7 Aiwa CM-30",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "pj1991-11-22.cm-30.deq.flac.txt"
     },
     {
       "year": 1991,
@@ -807,7 +859,8 @@ const ARTIST_DATA = {
       "venue": "Gardens",
       "notes": "CASS(1) \u00b7 Realistic \u00b7 jlizard transfer",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "pj1991-11-27.rs.ana1.flac.txt"
     },
     {
       "year": 1991,
@@ -820,7 +873,8 @@ const ARTIST_DATA = {
       "venue": "Aragon Ballroom",
       "notes": "Sony PC-62",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "pj1991-11-29.pc-62.flac.txt"
     },
     {
       "year": 1991,
@@ -833,7 +887,8 @@ const ARTIST_DATA = {
       "venue": "KLOL Interview",
       "notes": "",
       "version": "FM",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "pj1991-12-07.interview.txt"
     },
     {
       "year": 1991,
@@ -846,7 +901,8 @@ const ARTIST_DATA = {
       "venue": "Trees",
       "notes": "VHS(2)",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "pj1991-12-11 - Dallas, TX - Trees.txt"
     },
     {
       "year": 1991,
@@ -859,7 +915,8 @@ const ARTIST_DATA = {
       "venue": "Trees",
       "notes": "VHS(2)",
       "version": "AUD",
-      "format": "DVD"
+      "format": "DVD",
+      "textFile": "pj1991-12-11.video.deq.flac.txt"
     },
     {
       "year": 1991,
@@ -872,7 +929,8 @@ const ARTIST_DATA = {
       "venue": "Club DV8",
       "notes": "unk",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "pj1991-12-15.unk.flac.txt"
     },
     {
       "year": 1991,
@@ -885,7 +943,8 @@ const ARTIST_DATA = {
       "venue": "KNDD Interview",
       "notes": "",
       "version": "FM",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "pj1991-12-23.interview.txt"
     },
     {
       "year": 1991,
@@ -898,7 +957,8 @@ const ARTIST_DATA = {
       "venue": "Arizona State University Center",
       "notes": "PZM \u00b7 pjtrader21 encode",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "pj1991-12-29.pzm.flac.txt"
     },
     {
       "year": 1991,
@@ -911,7 +971,8 @@ const ARTIST_DATA = {
       "venue": "Cow Palace",
       "notes": "ANA(M) \u00b7 CM-300s \u00b7 markp",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "pj1991-12-31.cm300.markp.flac16.txt"
     },
     {
       "year": 1991,
@@ -924,7 +985,8 @@ const ARTIST_DATA = {
       "venue": "Cow Palace *Jam Like Hell (PJ vs Nirvana)- ANA",
       "notes": "M \u00b7 CM-300s \u00b7 SV023",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "pj1991-12-31.sv023.flac.txt"
     },
     {
       "year": 1991,
@@ -937,7 +999,8 @@ const ARTIST_DATA = {
       "venue": "Cow Palace *Jam Like Hell (PJ vs Nirvana)",
       "notes": "ANA(M) \u00b7 CM-300s \u00b7 SV059",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "pj1991-12-31.sv059.flac.txt"
     },
     {
       "year": 1992,
@@ -950,7 +1013,8 @@ const ARTIST_DATA = {
       "venue": "Moore Theater",
       "notes": "unk",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "pj1992-01-17.unk.deq.flac.txt"
     },
     {
       "year": 1992,
@@ -976,7 +1040,8 @@ const ARTIST_DATA = {
       "venue": "Espande Club",
       "notes": "CASS(M) \u00b7 cps",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "pj1992-02-03.aud.txt"
     },
     {
       "year": 1992,
@@ -989,7 +1054,8 @@ const ARTIST_DATA = {
       "venue": "Espande Club",
       "notes": "unk",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "pj1992-02-03.dED.flac.txt"
     },
     {
       "year": 1992,
@@ -1002,7 +1068,8 @@ const ARTIST_DATA = {
       "venue": "BBC Broadcasting house, Portland Place",
       "notes": "Late show BBC2 Rebroadcast",
       "version": "TV",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "pj1992-02-03.tv.remaster.flac.txt"
     },
     {
       "year": 1992,
@@ -1015,7 +1082,8 @@ const ARTIST_DATA = {
       "venue": "UK Newsbeat FM Radio Interview",
       "notes": "",
       "version": "FM",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "pj1992-02-04.interview.txt"
     },
     {
       "year": 1992,
@@ -1028,7 +1096,8 @@ const ARTIST_DATA = {
       "venue": "Koolkat Klub",
       "notes": "ANA(M) \u00b7 Aiwa CM30 \u00b7 ms",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "pj1992-02-07 - Stockholm, Sweden - Koolkat Klub [DVD].txt"
     },
     {
       "year": 1992,
@@ -1041,7 +1110,8 @@ const ARTIST_DATA = {
       "venue": "Koolkat Klub",
       "notes": "",
       "version": "AUD",
-      "format": "DVD"
+      "format": "DVD",
+      "textFile": "pj1992-02-07.cm-30.flac.txt"
     },
     {
       "year": 1992,
@@ -1054,7 +1124,8 @@ const ARTIST_DATA = {
       "venue": "Pumpehuest",
       "notes": "ANA(M) \u00b7 ECM-909 \u00b7 blg transfer",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "pj1992-02-09.anaM.flac.txt"
     },
     {
       "year": 1992,
@@ -1067,7 +1138,8 @@ const ARTIST_DATA = {
       "venue": "Pumpehuest",
       "notes": "PC62",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "pj1992-02-09.pc62.txt"
     },
     {
       "year": 1992,
@@ -1080,7 +1152,8 @@ const ARTIST_DATA = {
       "venue": "Virgin Megastore *Parisian Nights",
       "notes": "Aiwa CM-30a \u00b7 LDB Master Series #54",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "pj1992-02-10-11.cm30a.flac.txt"
     },
     {
       "year": 1992,
@@ -1093,7 +1166,8 @@ const ARTIST_DATA = {
       "venue": "Virgin Megastore",
       "notes": "First \u00b7 Marantz \u00b7 unk",
       "version": "",
-      "format": ""
+      "format": "",
+      "textFile": "pj1992-02-10.marantz.deq.flac.txt"
     },
     {
       "year": 1992,
@@ -1106,7 +1180,8 @@ const ARTIST_DATA = {
       "venue": "La Locomotive *Parisian Nights",
       "notes": "Aiwa CM-30a \u00b7 LDB Master Series #54",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "pj1992-02-11.aiwacm30.stephane.flac16.txt"
     },
     {
       "year": 1992,
@@ -1119,7 +1194,8 @@ const ARTIST_DATA = {
       "venue": "La Locomotive",
       "notes": "DAT(1) \u00b7 PZM \u00b7 blg",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "pj1992-02-11.dat.flac.txt"
     },
     {
       "year": 1992,
@@ -1132,7 +1208,8 @@ const ARTIST_DATA = {
       "venue": "La Locomotive",
       "notes": "Aiwa CM30 \u00b7 stephane",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "pj1992-02-11.pzm.flac.txt"
     },
     {
       "year": 1992,
@@ -1158,7 +1235,8 @@ const ARTIST_DATA = {
       "venue": "Melkweg",
       "notes": "unk",
       "version": "preFM",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "pj1992-02-12 - Melkweg, Amsterdam, Holland (2nd gen VHS) [NTSC] (DVD).txt"
     },
     {
       "year": 1992,
@@ -1171,7 +1249,8 @@ const ARTIST_DATA = {
       "venue": "Melkweg",
       "notes": "jwb remaster \u00b7 SBD Remaster Series 2012",
       "version": "SBD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "pj1992-02-12.prefm.flac.txt"
     },
     {
       "year": 1992,
@@ -1184,7 +1263,8 @@ const ARTIST_DATA = {
       "venue": "Melkweg",
       "notes": "VHS(2)",
       "version": "AUD",
-      "format": "DVD"
+      "format": "DVD",
+      "textFile": "pj1992-02-12.sbd.remaster.flac.txt"
     },
     {
       "year": 1992,
@@ -1197,7 +1277,8 @@ const ARTIST_DATA = {
       "venue": "Revolver",
       "notes": "VHS(M) \u00b7 inc",
       "version": "TV",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "pj1992-02-15 - Madrid, Spain - Revolver (PRO) - VHS(M) [DVD].txt"
     },
     {
       "year": 1992,
@@ -1210,7 +1291,8 @@ const ARTIST_DATA = {
       "venue": "Revolver",
       "notes": "VHS(M)",
       "version": "PRO",
-      "format": "DVD"
+      "format": "DVD",
+      "textFile": "pj1992-02-15.tv.flac.txt"
     },
     {
       "year": 1992,
@@ -1223,7 +1305,8 @@ const ARTIST_DATA = {
       "venue": "Sorpasso",
       "notes": "LDB Master Series #100a",
       "version": "TV",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "pj1992-02-18 - Milano, Italy - Sorprasso [DVD].txt"
     },
     {
       "year": 1992,
@@ -1236,7 +1319,8 @@ const ARTIST_DATA = {
       "venue": "Sorpasso",
       "notes": "Source Mix *Attenzione Boot",
       "version": "MIX",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "pj1992-02-18 - Sorpasso, Milan, IT [DVD].txt"
     },
     {
       "year": 1992,
@@ -1249,7 +1333,8 @@ const ARTIST_DATA = {
       "venue": "Sorpasso",
       "notes": "unk",
       "version": "TV",
-      "format": "DVD"
+      "format": "DVD",
+      "textFile": "pj1992-02-18.fm.flac.txt"
     },
     {
       "year": 1992,
@@ -1262,7 +1347,8 @@ const ARTIST_DATA = {
       "venue": "Sorpasso",
       "notes": "metro_cubo",
       "version": "AUD",
-      "format": "DVD"
+      "format": "DVD",
+      "textFile": "pj1992-02-18.mix.deq.flac.txt"
     },
     {
       "year": 1992,
@@ -1275,7 +1361,8 @@ const ARTIST_DATA = {
       "venue": "Riverside",
       "notes": "2 source mix \u00b7 5 Alive / FM",
       "version": "MTX",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "pj1992-02-22 - Newcastle, England - Riverside [DVD].txt"
     },
     {
       "year": 1992,
@@ -1288,7 +1375,8 @@ const ARTIST_DATA = {
       "venue": "Riverside",
       "notes": "low gen",
       "version": "AUD",
-      "format": "DVD"
+      "format": "DVD",
+      "textFile": "pj1992-02-22.mix.flac.txt"
     },
     {
       "year": 1992,
@@ -1301,7 +1389,8 @@ const ARTIST_DATA = {
       "venue": "Rock City",
       "notes": "unk",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "pj1992-02-25.unk.aud.txt"
     },
     {
       "year": 1992,
@@ -1314,7 +1403,8 @@ const ARTIST_DATA = {
       "venue": "Rock City",
       "notes": "unk \u00b7 dEQ",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "pj1992-02-25.unk.dED.flac.txt"
     },
     {
       "year": 1992,
@@ -1327,7 +1417,8 @@ const ARTIST_DATA = {
       "venue": "Edward's No. 8",
       "notes": "unk \u00b7 cps encode",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "pj1992-02-26.44k.flacf.txt"
     },
     {
       "year": 1992,
@@ -1340,7 +1431,8 @@ const ARTIST_DATA = {
       "venue": "Queenshall",
       "notes": "ANA(1) \u00b7 tapeworm48",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "pj1992-02-27 - Bradford, England - Queenshall - VHS(1) [DVD].txt"
     },
     {
       "year": 1992,
@@ -1353,7 +1445,8 @@ const ARTIST_DATA = {
       "venue": "Queenshall",
       "notes": "unk",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "pj1992-02-27.um.flac16.txt"
     },
     {
       "year": 1992,
@@ -1366,7 +1459,8 @@ const ARTIST_DATA = {
       "venue": "Queenshall",
       "notes": "VHS(1)",
       "version": "AUD",
-      "format": "DVD"
+      "format": "DVD",
+      "textFile": "pj1992-02-27.unk.flac.txt"
     },
     {
       "year": 1992,
@@ -1379,7 +1473,8 @@ const ARTIST_DATA = {
       "venue": "Union of London University",
       "notes": "2 source mix \u00b7 *I've Got a Feeling / *Free World",
       "version": "MIX",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "pj1992-02-28.mix.flac.txt"
     },
     {
       "year": 1992,
@@ -1392,7 +1487,8 @@ const ARTIST_DATA = {
       "venue": "Vera",
       "notes": "SV018 \u00b7 unk",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "pj1992-03-01.sv018.flac.txt"
     },
     {
       "year": 1992,
@@ -1405,7 +1501,8 @@ const ARTIST_DATA = {
       "venue": "Paard Van Troje",
       "notes": "SV035",
       "version": "SBD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "pj1992-03-02 - Den Haag, The Netherlands - Paard (frontviewmirror) [DVD].txt"
     },
     {
       "year": 1992,
@@ -1418,7 +1515,8 @@ const ARTIST_DATA = {
       "venue": "Paard Van Troje",
       "notes": "frontviewmirror",
       "version": "AUD",
-      "format": "DVD"
+      "format": "DVD",
+      "textFile": "pj1992-03-02.sv035.flac.txt"
     },
     {
       "year": 1992,
@@ -1431,7 +1529,8 @@ const ARTIST_DATA = {
       "venue": "Tivoli",
       "notes": "unk",
       "version": "preFM",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "pj1992-03-04 - Ultrecht, The Netherlands - Tivoli (Soundcheck) (PRO) [DVD].txt"
     },
     {
       "year": 1992,
@@ -1444,7 +1543,8 @@ const ARTIST_DATA = {
       "venue": "Tivoli",
       "notes": "jwb remaster \u00b7 SBD Remaster Series 2012",
       "version": "SBD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "pj1992-03-04 - Utrecht, The Netherlands (DVD).txt"
     },
     {
       "year": 1992,
@@ -1457,7 +1557,8 @@ const ARTIST_DATA = {
       "venue": "Tivoli",
       "notes": "VHS(2) \u00b7 20th Anniversary Edition",
       "version": "AUD",
-      "format": "DVD"
+      "format": "DVD",
+      "textFile": "pj1992-03-04.prefm.flac.txt"
     },
     {
       "year": 1992,
@@ -1470,7 +1571,8 @@ const ARTIST_DATA = {
       "venue": "Tivoli",
       "notes": "Soundcheck",
       "version": "PRO",
-      "format": "DVD"
+      "format": "DVD",
+      "textFile": "pj1992-03-04.sbd.remaster.flac.txt"
     },
     {
       "year": 1992,
@@ -1483,7 +1585,8 @@ const ARTIST_DATA = {
       "venue": "Effenaar",
       "notes": "unk",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "pj1992-03-05.unk.flac.txt"
     },
     {
       "year": 1992,
@@ -1496,7 +1599,8 @@ const ARTIST_DATA = {
       "venue": "Nighttown",
       "notes": "VHS(2)",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "pj1992-03-06.video.deq.flac.txt"
     },
     {
       "year": 1992,
@@ -1522,7 +1626,8 @@ const ARTIST_DATA = {
       "venue": "Live Music Hall",
       "notes": "unk",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "pj1992-03-08.deq.flac.txt"
     },
     {
       "year": 1992,
@@ -1535,7 +1640,8 @@ const ARTIST_DATA = {
       "venue": "The Loft",
       "notes": "OKM",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "pj1992-03-09.okm.deq.flac.txt"
     },
     {
       "year": 1992,
@@ -1548,7 +1654,8 @@ const ARTIST_DATA = {
       "venue": "Markthalle",
       "notes": "unk",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "pj1992-03-10.unk.flac.txt"
     },
     {
       "year": 1992,
@@ -1561,7 +1668,8 @@ const ARTIST_DATA = {
       "venue": "Batschkaap",
       "notes": "DAT(M) \u00b7 SS DSM3",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "pj1992-03-12.ss-dsm3.flac.txt"
     },
     {
       "year": 1992,
@@ -1574,7 +1682,8 @@ const ARTIST_DATA = {
       "venue": "Nachtwerk",
       "notes": "VHS \u00b7 blg transfer",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "pj1992-03-13.vhs.deq.flac.txt"
     },
     {
       "year": 1992,
@@ -1587,7 +1696,8 @@ const ARTIST_DATA = {
       "venue": "Kaufman Astoria *MTV Unplugged",
       "notes": "Soundcheck and Show",
       "version": "SBD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "pj1992-03-16 - MTV Unplugged Soundcheck (DGR Remaster) [SBD].txt"
     },
     {
       "year": 1992,
@@ -1600,7 +1710,8 @@ const ARTIST_DATA = {
       "venue": "Kaufman Astoria",
       "notes": "MTV \u00b7 dgr remaster",
       "version": "SBD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "pj1992-03-16 - Queens, NY - Kaufman Astoria Studios - MTV Unplugged (PRO) - VHS(1) [DVD].txt"
     },
     {
       "year": 1992,
@@ -1613,7 +1724,8 @@ const ARTIST_DATA = {
       "venue": "Kaufman Astoria *MTV Unplugged",
       "notes": "",
       "version": "TV",
-      "format": "DVD"
+      "format": "DVD",
+      "textFile": "pj1992-03-16.dsbd.deq.txt"
     },
     {
       "year": 1992,
@@ -1639,7 +1751,8 @@ const ARTIST_DATA = {
       "venue": "First Avenue",
       "notes": "CASS(x) \u00b7 cps 2019 transfer",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "pj1992-03-25 - Minneapolis, MN @ First Avenue Club (AUD).txt"
     },
     {
       "year": 1992,
@@ -1652,7 +1765,8 @@ const ARTIST_DATA = {
       "venue": "Marquette University Alumni Hall",
       "notes": "VHS(1)",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "pj1992-03-27 - Marquette University, Varsity Theater Milwaukee, WI, USA.txt"
     },
     {
       "year": 1992,
@@ -1665,7 +1779,8 @@ const ARTIST_DATA = {
       "venue": "Marquette University Alumni Hall",
       "notes": "VHS(1)",
       "version": "AUD",
-      "format": "DVD"
+      "format": "DVD",
+      "textFile": "pj1992-03-27.vid.deq.flac.txt"
     },
     {
       "year": 1992,
@@ -1678,7 +1793,8 @@ const ARTIST_DATA = {
       "venue": "Cabaret Metro",
       "notes": "HD over FM",
       "version": "FM",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "pj1992-03-28 - Cabaret Metro, Chicago, IL, USA [DVD].txt"
     },
     {
       "year": 1992,
@@ -1691,7 +1807,8 @@ const ARTIST_DATA = {
       "venue": "Cabaret Metro (2 source mix",
       "notes": "FM/CDR) \u00b7 rob sierzega transfer",
       "version": "MIX",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "pj1992-03-28 - Chicago, IL - Cabaret Metro (AUD) [DVD].txt"
     },
     {
       "year": 1992,
@@ -1704,7 +1821,8 @@ const ARTIST_DATA = {
       "venue": "Cabaret Metro",
       "notes": "",
       "version": "AUD",
-      "format": "DVD"
+      "format": "DVD",
+      "textFile": "pj1992-03-28.fm.flac.txt"
     },
     {
       "year": 1992,
@@ -1717,7 +1835,8 @@ const ARTIST_DATA = {
       "venue": "Concert Hall",
       "notes": "ANA(M) \u00b7 cps \u00b7 blg transfer",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "pj1992-04-04.anaM.flac.txt"
     },
     {
       "year": 1992,
@@ -1730,7 +1849,8 @@ const ARTIST_DATA = {
       "venue": "Concert Hall",
       "notes": "unk",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "pj1992-04-04.unk.flac.txt"
     },
     {
       "year": 1992,
@@ -1743,7 +1863,8 @@ const ARTIST_DATA = {
       "venue": "Cumnock Hall",
       "notes": "unk",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "pj1992-04-06.unk.flac.txt"
     },
     {
       "year": 1992,
@@ -1756,7 +1877,8 @@ const ARTIST_DATA = {
       "venue": "Student Union Ballroom at UMASS",
       "notes": "ECM-909 \u00b7 perfectrx",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "pj1992-04-07.ecm-909.flac.txt"
     },
     {
       "year": 1992,
@@ -1769,7 +1891,8 @@ const ARTIST_DATA = {
       "venue": "WBCN-FM Interview",
       "notes": "",
       "version": "FM",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "pj1992-04-08.interview.txt"
     },
     {
       "year": 1992,
@@ -1795,7 +1918,8 @@ const ARTIST_DATA = {
       "venue": "Trocadero Club",
       "notes": "dEQ",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "pj1992-04-10 - Trocadero Club, Philadelphia, PA [DVD].txt"
     },
     {
       "year": 1992,
@@ -1808,7 +1932,8 @@ const ARTIST_DATA = {
       "venue": "Trocadero Club",
       "notes": "",
       "version": "AUD",
-      "format": "DVD"
+      "format": "DVD",
+      "textFile": "pj1992-04-10.deq.flac.txt"
     },
     {
       "year": 1992,
@@ -1821,7 +1946,8 @@ const ARTIST_DATA = {
       "venue": "NBC New York Studios *Saturday Night Live",
       "notes": "sullen",
       "version": "TV",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "pj1992-04-11.tv.flac.txt"
     },
     {
       "year": 1992,
@@ -1834,7 +1960,8 @@ const ARTIST_DATA = {
       "venue": "Limelight",
       "notes": "DAT(c) \u00b7 AKG 451 \u00b7 cps",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "pj1992-04-12 -  New York, NY - Limelight [DVD].txt"
     },
     {
       "year": 1992,
@@ -1847,7 +1974,8 @@ const ARTIST_DATA = {
       "venue": "Limelight",
       "notes": "ANA(1) \u00b7 Sony PC-62 \u00b7 mike ziegler",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "pj1992-04-12.akg451.flac.txt"
     },
     {
       "year": 1992,
@@ -1860,7 +1988,8 @@ const ARTIST_DATA = {
       "venue": "Limelight",
       "notes": "VHS(1)",
       "version": "AUD",
-      "format": "DVD"
+      "format": "DVD",
+      "textFile": "pj1992-04-12.ana1.flac.txt"
     },
     {
       "year": 1992,
@@ -1873,7 +2002,8 @@ const ARTIST_DATA = {
       "venue": "Ritchie Coliseum",
       "notes": "University \u00b7 M \u00b7 blg transfer",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "pj1992-04-13 - College Park, MD - Ritchie Coliseum [DVD].txt"
     },
     {
       "year": 1992,
@@ -1886,7 +2016,8 @@ const ARTIST_DATA = {
       "venue": "Ritchie Coliseum",
       "notes": "University",
       "version": "AUD",
-      "format": "DVD"
+      "format": "DVD",
+      "textFile": "pj1992-04-13.video.flac.txt"
     },
     {
       "year": 1992,
@@ -1899,7 +2030,8 @@ const ARTIST_DATA = {
       "venue": "Starplex Amphitheater",
       "notes": "Edgefest \u00b7 unk",
       "version": "AUD",
-      "format": "MP3"
+      "format": "MP3",
+      "textFile": "pj1992-04-19.unk.mp3.txt"
     },
     {
       "year": 1992,
@@ -1912,7 +2044,8 @@ const ARTIST_DATA = {
       "venue": "Tipitina's *New Orleans '92",
       "notes": "speed corrected",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "pj1992-04-20.bootcd.deq.flac.txt"
     },
     {
       "year": 1992,
@@ -1925,7 +2058,8 @@ const ARTIST_DATA = {
       "venue": "Cameo Theater",
       "notes": "unk",
       "version": "AUD",
-      "format": "MP3"
+      "format": "MP3",
+      "textFile": "pj1992-04-23 - Miami, FL - Cameo Theater [DVD].txt"
     },
     {
       "year": 1992,
@@ -1938,7 +2072,8 @@ const ARTIST_DATA = {
       "venue": "Cameo Theater",
       "notes": "VHS(2)",
       "version": "AUD",
-      "format": "DVD"
+      "format": "DVD",
+      "textFile": "pj1992-04-23.unk.mp3.txt"
     },
     {
       "year": 1992,
@@ -1951,7 +2086,8 @@ const ARTIST_DATA = {
       "venue": "The Unicorn",
       "notes": "Sony CCD-TR7",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "pj1992-04-30.aud.flacf.txt"
     },
     {
       "year": 1992,
@@ -1990,7 +2126,8 @@ const ARTIST_DATA = {
       "venue": "University of Kansas *Day On The Hill",
       "notes": "DVDR \u00b7 morrissey transfer",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "pj1992-05-02 - Lawrence, KS - University of KS [DVD].txt"
     },
     {
       "year": 1992,
@@ -2003,7 +2140,8 @@ const ARTIST_DATA = {
       "venue": "University of Kansas",
       "notes": "",
       "version": "AUD",
-      "format": "DVD"
+      "format": "DVD",
+      "textFile": "pj1992-05-02.dvd.deq.flac.txt"
     },
     {
       "year": 1992,
@@ -2016,7 +2154,8 @@ const ARTIST_DATA = {
       "venue": "Ranch Bowl",
       "notes": "PZM \u00b7 blg",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "pj1992-05-03.pzm.deq.flac.txt"
     },
     {
       "year": 1992,
@@ -2029,7 +2168,8 @@ const ARTIST_DATA = {
       "venue": "Glenn Miller Ballroom, University of Colorado",
       "notes": "DAT(M) \u00b7 AKG C460b \u00b7 SV066 \u00b7 blg transfer",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "pj1992-05-05.sv066.flac.txt"
     },
     {
       "year": 1992,
@@ -2068,7 +2208,8 @@ const ARTIST_DATA = {
       "venue": "Ventura Theater",
       "notes": "Sony Stereo Walkman",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "pj1992-05-12.walkman.flac.txt"
     },
     {
       "year": 1992,
@@ -2081,7 +2222,8 @@ const ARTIST_DATA = {
       "venue": "The Palladium",
       "notes": "Hi8(1) \u00b7 dcl transfer",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "pj1992-05-13 - Hollywood Paladium, Hollywood, CA [DVD].txt"
     },
     {
       "year": 1992,
@@ -2094,7 +2236,8 @@ const ARTIST_DATA = {
       "venue": "The Palladium",
       "notes": "Hi8(1)",
       "version": "AUD",
-      "format": "DVD"
+      "format": "DVD",
+      "textFile": "pj1992-05-13.vid.deq.flac.txt"
     },
     {
       "year": 1992,
@@ -2107,7 +2250,8 @@ const ARTIST_DATA = {
       "venue": "Warfield Theatre",
       "notes": "SS \u00b7 blg transfer",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "pj1992-05-15 - San Francisco, CA - Warfield Theatre - 8MM(M) (mdvidguy) [DVD].txt"
     },
     {
       "year": 1992,
@@ -2120,7 +2264,8 @@ const ARTIST_DATA = {
       "venue": "Warfield Theatre",
       "notes": "8MM(M) \u00b7 mdvidguy",
       "version": "AUD",
-      "format": "DVD"
+      "format": "DVD",
+      "textFile": "pj1992-05-15.ss.deq.flac.txt"
     },
     {
       "year": 1992,
@@ -2133,7 +2278,8 @@ const ARTIST_DATA = {
       "venue": "Roseland Theater",
       "notes": "ANA(1) \u00b7 SS \u00b7 cps encode",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "pj1992-05-17.ana1.flac.txt"
     },
     {
       "year": 1992,
@@ -2146,7 +2292,8 @@ const ARTIST_DATA = {
       "venue": "Gas Works Park",
       "notes": "",
       "version": "AUD",
-      "format": "DVD"
+      "format": "DVD",
+      "textFile": "pj1992-05-20 - Seattle, WA - Gas Works Park [DVD].txt"
     },
     {
       "year": 1992,
@@ -2159,7 +2306,8 @@ const ARTIST_DATA = {
       "venue": "Nurburgring Festival",
       "notes": "Rock \u00b7 Sony ECM-929 \u00b7 pgp",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "pj1992-06-05 - Nuerburg, Germany - Rock am Ring Festival [DVD].txt"
     },
     {
       "year": 1992,
@@ -2172,7 +2320,8 @@ const ARTIST_DATA = {
       "venue": "Nurburgring Festival",
       "notes": "Rock \u00b7 unk",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "pj1992-06-05.ecm-929.flac.txt"
     },
     {
       "year": 1992,
@@ -2185,7 +2334,8 @@ const ARTIST_DATA = {
       "venue": "Nurburgring Festival",
       "notes": "Rock",
       "version": "AUD",
-      "format": "DVD"
+      "format": "DVD",
+      "textFile": "pj1992-06-05.unk.deq.flac.txt"
     },
     {
       "year": 1992,
@@ -2198,7 +2348,8 @@ const ARTIST_DATA = {
       "venue": "Finnsbury Park Festival",
       "notes": "preFM WW1 R2R(M \u00b7 trichrome transfer",
       "version": "preFM",
-      "format": "FLAC 24"
+      "format": "FLAC 24",
+      "textFile": "pj1992-06-06 - London, England - Finsbury Park [DVD].txt"
     },
     {
       "year": 1992,
@@ -2211,7 +2362,8 @@ const ARTIST_DATA = {
       "venue": "Finnsbury Park Festival",
       "notes": "JWB Soundboard Remaster",
       "version": "preFM",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "pj1992-06-06.prefm.r2r-master.flac.txt"
     },
     {
       "year": 1992,
@@ -2224,7 +2376,8 @@ const ARTIST_DATA = {
       "venue": "Finnsbury Park Festival (SV002) *The Haunted Finsbury",
       "notes": "",
       "version": "preFM",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "pj1992-06-06.sbd.remaster.flac.txt"
     },
     {
       "year": 1992,
@@ -2237,7 +2390,8 @@ const ARTIST_DATA = {
       "venue": "Finsbury Park",
       "notes": "1st gen",
       "version": "AUD",
-      "format": "DVD"
+      "format": "DVD",
+      "textFile": "pj1992-06-06.sv002.flac.txt"
     },
     {
       "year": 1992,
@@ -2250,7 +2404,8 @@ const ARTIST_DATA = {
       "venue": "Pinkpop Festival",
       "notes": "FM+TV Broadcast",
       "version": "FM",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "pj1992-06-08 - Pinkpop [DVD].txt"
     },
     {
       "year": 1992,
@@ -2263,7 +2418,8 @@ const ARTIST_DATA = {
       "venue": "Pinkpop Festival",
       "notes": "johnky transfer",
       "version": "PRO",
-      "format": "DVD"
+      "format": "DVD",
+      "textFile": "pj1992-06-08.mix.flac.txt"
     },
     {
       "year": 1992,
@@ -2276,7 +2432,8 @@ const ARTIST_DATA = {
       "venue": "Kongresszentrum *Too Many Faces",
       "notes": "",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "pj1992-06-10.bootcd.flac.txt"
     },
     {
       "year": 1992,
@@ -2289,7 +2446,8 @@ const ARTIST_DATA = {
       "venue": "Grosse Freiheit 36",
       "notes": "unk",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "pj1992-06-11.ana1.flac16.txt"
     },
     {
       "year": 1992,
@@ -2302,7 +2460,8 @@ const ARTIST_DATA = {
       "venue": "Grosse Freiheit 36",
       "notes": "ANA(1) \u00b7 tapeworm48 transfer",
       "version": "AUD (48k)",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "pj1992-06-11.unk.deq.flac.txt"
     },
     {
       "year": 1992,
@@ -2315,7 +2474,8 @@ const ARTIST_DATA = {
       "venue": "Go Bang Festival: Wuhlheide",
       "notes": "OKM",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "pj1992-06-13.okm.deq.flac.txt"
     },
     {
       "year": 1992,
@@ -2328,7 +2488,8 @@ const ARTIST_DATA = {
       "venue": "Serenadenhof",
       "notes": "unk \u00b7 source mix",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "pj1992-06-15.unk.flac.txt"
     },
     {
       "year": 1992,
@@ -2341,7 +2502,8 @@ const ARTIST_DATA = {
       "venue": "Dal City Square *Untangled",
       "notes": "SV044 \u00b7 2-source mix",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "pj1992-06-17 - Live In Milan [DVD].txt"
     },
     {
       "year": 1992,
@@ -2354,7 +2516,8 @@ const ARTIST_DATA = {
       "venue": "Dal City Square",
       "notes": "ANA(M) \u00b7 ECM-909 \u00b7 tapeworm48",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "pj1992-06-17.ecm909.flac16.txt"
     },
     {
       "year": 1992,
@@ -2367,7 +2530,8 @@ const ARTIST_DATA = {
       "venue": "Dal City Square",
       "notes": "VHS(2) \u00b7 jahrastafari",
       "version": "PRO",
-      "format": "DVD"
+      "format": "DVD",
+      "textFile": "pj1992-06-17.sv044.flac.txt"
     },
     {
       "year": 1992,
@@ -2380,7 +2544,8 @@ const ARTIST_DATA = {
       "venue": "Volkhaus",
       "notes": "pre-FM SBD + FM mix \u00b7 cps \u00b7 blg transfer \u00b7 mix v1",
       "version": "preFM",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "pj1992-06-18.mixv1.flac.txt"
     },
     {
       "year": 1992,
@@ -2393,7 +2558,8 @@ const ARTIST_DATA = {
       "venue": "Volkhaus",
       "notes": "pre-FM DAT + Five Alive Boot \u00b7 mix v2",
       "version": "preFM",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "pj1992-06-18.mixv2.flac.txt"
     },
     {
       "year": 1992,
@@ -2406,7 +2572,8 @@ const ARTIST_DATA = {
       "venue": "Rockhaus",
       "notes": "Sennheiser 2000 \u00b7 encoded by spacedvest",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "pj1992-06-19.senn2000.deq.flac.txt"
     },
     {
       "year": 1992,
@@ -2419,7 +2586,8 @@ const ARTIST_DATA = {
       "venue": "Elysee-Montmartre",
       "notes": "PZM \u00b7 blg transfer",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "pj1992-06-22.aiwacm30.stephane.flac16.txt"
     },
     {
       "year": 1992,
@@ -2432,7 +2600,8 @@ const ARTIST_DATA = {
       "venue": "Elysee-Montmartre",
       "notes": "Aiwa CM30 \u00b7 stephane",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "pj1992-06-22.pzm.flac.txt"
     },
     {
       "year": 1992,
@@ -2445,7 +2614,8 @@ const ARTIST_DATA = {
       "venue": "Moderna Museet / Skeppsholmen",
       "notes": "",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "pj1992-06-25.cm30.ana1.flac.txt"
     },
     {
       "year": 1992,
@@ -2458,7 +2628,8 @@ const ARTIST_DATA = {
       "venue": "Roskilde Festival",
       "notes": "Orange Stage \u00b7 ECM-155",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "pj1992-06-26 - Roskilde [DVD].txt"
     },
     {
       "year": 1992,
@@ -2471,7 +2642,8 @@ const ARTIST_DATA = {
       "venue": "Roskilde Festival",
       "notes": "Orange Stage \u00b7 johnky",
       "version": "AUD",
-      "format": "DVD"
+      "format": "DVD",
+      "textFile": "pj1992-06-26 - Roskilde, Denmark - Roskilde Festival - VHS(1) (havrefras) [DVD].txt"
     },
     {
       "year": 1992,
@@ -2484,7 +2656,8 @@ const ARTIST_DATA = {
       "venue": "Roskilde Festival",
       "notes": "VHS(1) \u00b7 havrefras",
       "version": "AUD",
-      "format": "DVD"
+      "format": "DVD",
+      "textFile": "pj1992-06-26.ecm-155.flac.txt"
     },
     {
       "year": 1992,
@@ -2497,7 +2670,8 @@ const ARTIST_DATA = {
       "venue": "Shoreline Amphitheater",
       "notes": "Lollapalooza \u00b7 unk",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "pj1992-07-19.unk.deq.flac.txt"
     },
     {
       "year": 1992,
@@ -2510,7 +2684,8 @@ const ARTIST_DATA = {
       "venue": "UBC Thunderbird Stadium (Lollapalooza)",
       "notes": "ANA(M) \u00b7 PC-62 \u00b7 cps \u00b7 inc",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "pj1992-07-21.anaM.flac.txt"
     },
     {
       "year": 1992,
@@ -2523,7 +2698,8 @@ const ARTIST_DATA = {
       "venue": "UBC Thunderbird Stadium",
       "notes": "Lollapalooza \u00b7 Sony DM3 \u00b7 audioarchivist u remaster",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "pj1992-07-21.sg1992-7-21.ana-m.remaster.flac.rtf"
     },
     {
       "year": 1992,
@@ -2536,7 +2712,8 @@ const ARTIST_DATA = {
       "venue": "Kitsap County Fairgrounds (Lollapalooza)",
       "notes": "ANA(M) \u00b7 SS DSM6p \u00b7 joaquim encode",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "pj1992-07-22.dsm6p.flac.txt"
     },
     {
       "year": 1992,
@@ -2549,7 +2726,8 @@ const ARTIST_DATA = {
       "venue": "Blossom Music Center",
       "notes": "unk",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "pj1992-07-29.unk.deq.flac.txt"
     },
     {
       "year": 1992,
@@ -2562,7 +2740,8 @@ const ARTIST_DATA = {
       "venue": "World Music Amphitheater",
       "notes": "Lollapalooza \u00b7 DVD audio",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "pj1992-08-02 - Tinley Park, IL - World Music Theater (2 cam mix) - VHS(1) [DVD].txt"
     },
     {
       "year": 1992,
@@ -2575,7 +2754,8 @@ const ARTIST_DATA = {
       "venue": "World Music Amphitheater (Lollapalooza)",
       "notes": "ANA(M) \u00b7 Sony ECM \u00b7 tapeworm48",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "pj1992-08-02.dvd.flac.txt"
     },
     {
       "year": 1992,
@@ -2588,7 +2768,8 @@ const ARTIST_DATA = {
       "venue": "World Music Amphitheater (Lollapalooza)",
       "notes": "VHS(1) \u00b7 2 cam mix",
       "version": "AUD",
-      "format": "DVD"
+      "format": "DVD",
+      "textFile": "pj1992-08-02.ecm.flac16.txt"
     },
     {
       "year": 1992,
@@ -2601,7 +2782,8 @@ const ARTIST_DATA = {
       "venue": "SPAC",
       "notes": "ANA(x) \u00b7 unk",
       "version": "AUD",
-      "format": "FLAC 24"
+      "format": "FLAC 24",
+      "textFile": "pj1992-08-04.pc-62.deq.flac.txt"
     },
     {
       "year": 1992,
@@ -2614,7 +2796,8 @@ const ARTIST_DATA = {
       "venue": "SPAC",
       "notes": "Sony PC-62",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "pj1992-08-04.unknown.flac24.txt"
     },
     {
       "year": 1992,
@@ -2627,7 +2810,8 @@ const ARTIST_DATA = {
       "venue": "Pinkpop Festival",
       "notes": "",
       "version": "PRO",
-      "format": "DVD"
+      "format": "DVD",
+      "textFile": "pj1992-08-06 - Landgraaf, The Netherlands - Pinkpop Festival (PRO) [DVD].txt"
     },
     {
       "year": 1992,
@@ -2640,7 +2824,8 @@ const ARTIST_DATA = {
       "venue": "Great Woods",
       "notes": "ANA(M) \u00b7 Sony ECM-909 \u00b7 vb",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "pj1992-08-07.ana-m.flac.txt"
     },
     {
       "year": 1992,
@@ -2653,7 +2838,8 @@ const ARTIST_DATA = {
       "venue": "Great Woods",
       "notes": "unk",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "pj1992-08-07.unk.deq.flac.txt"
     },
     {
       "year": 1992,
@@ -2666,7 +2852,8 @@ const ARTIST_DATA = {
       "venue": "Great Woods Center",
       "notes": "Lollapalooza \u00b7 unk",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "pj1992-08-08.unk.deq.flac.txt"
     },
     {
       "year": 1992,
@@ -2679,7 +2866,8 @@ const ARTIST_DATA = {
       "venue": "Jones Beach Amphitheater",
       "notes": "Lollapalooza \u00b7 unk",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "pj1992-08-09 - Wantagh, NY - Jones Beach Amphitheater [DVD].txt"
     },
     {
       "year": 1992,
@@ -2692,7 +2880,8 @@ const ARTIST_DATA = {
       "venue": "Jones Beach Amphitheater",
       "notes": "Lollapalooza",
       "version": "AUD",
-      "format": "DVD"
+      "format": "DVD",
+      "textFile": "pj1992-08-09.unk.flac.txt"
     },
     {
       "year": 1992,
@@ -2705,7 +2894,8 @@ const ARTIST_DATA = {
       "venue": "Waterloo Village",
       "notes": "Lollapalooza \u00b7 unk",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "pj1992-08-12 - Stanhope, NJ @ Waterloo Village (AUD).txt"
     },
     {
       "year": 1992,
@@ -2718,7 +2908,8 @@ const ARTIST_DATA = {
       "venue": "Waterloo Village",
       "notes": "Lollapalooza \u00b7 SS DSM 6 \u00b7 billydee and chuck t",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "pj1992-08-12.ss-dsm6.flac.txt"
     },
     {
       "year": 1992,
@@ -2731,7 +2922,8 @@ const ARTIST_DATA = {
       "venue": "Waterloo Village",
       "notes": "Lollapalooza \u00b7 unk",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "pj1992-08-12.unk.deq.flac.txt"
     },
     {
       "year": 1992,
@@ -2744,7 +2936,8 @@ const ARTIST_DATA = {
       "venue": "Lake Fairfax Park",
       "notes": "unk",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "pj1992-08-14 - Reston, VA - Lake Fairfax Park [DVD].txt"
     },
     {
       "year": 1992,
@@ -2757,7 +2950,8 @@ const ARTIST_DATA = {
       "venue": "Lake Fairfax Park",
       "notes": "",
       "version": "AUD",
-      "format": "DVD"
+      "format": "DVD",
+      "textFile": "pj1992-08-14.unk.flac.txt"
     },
     {
       "year": 1992,
@@ -2770,7 +2964,8 @@ const ARTIST_DATA = {
       "venue": "Montage Mountain Performing Arts Center",
       "notes": "unk",
       "version": "AUD",
-      "format": "MP3"
+      "format": "MP3",
+      "textFile": "pj1992-08-15.unk.flac16.txt"
     },
     {
       "year": 1992,
@@ -2796,7 +2991,8 @@ const ARTIST_DATA = {
       "venue": "Star Lake Amphitheatre",
       "notes": "unk",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "pj1992-08-16 - Pittsburgh, PA @ Star Lake Amphitheater (AUD).txt"
     },
     {
       "year": 1992,
@@ -2809,7 +3005,8 @@ const ARTIST_DATA = {
       "venue": "Lakewood Amphitheater",
       "notes": "Lollapalooza \u00b7 Built-in condenser",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "pj1992-08-20.bicmic.flac Atlanta.txt"
     },
     {
       "year": 1992,
@@ -2822,7 +3019,8 @@ const ARTIST_DATA = {
       "venue": "Bicentennial Park / (Lollapalooza) *Kiss the Stone",
       "notes": "Main",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "pj1992-08-22 - Miami, FL - Bicentennial Park [DVD].txt"
     },
     {
       "year": 1992,
@@ -2835,7 +3033,8 @@ const ARTIST_DATA = {
       "venue": "Bicentennial Park /",
       "notes": "Lollapalooza \u00b7 low gen VHS",
       "version": "AUD",
-      "format": "DVD"
+      "format": "DVD",
+      "textFile": "pj1992-08-22.various1992-08-22.bootcd.flac.txt"
     },
     {
       "year": 1992,
@@ -2848,7 +3047,8 @@ const ARTIST_DATA = {
       "venue": "Central Florida Fairgrounds",
       "notes": "Lollapalooza \u00b7 unk",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "pj1992-08-23.unk.dvd.flac.txt"
     },
     {
       "year": 1992,
@@ -2874,7 +3074,8 @@ const ARTIST_DATA = {
       "venue": "Blockbuster Pavilion",
       "notes": "Lollapalooza \u00b7 unk dEQ",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "pj1992-08-25.unk.deq.flac.txt"
     },
     {
       "year": 1992,
@@ -2887,7 +3088,8 @@ const ARTIST_DATA = {
       "venue": "Blockbuster Pavilion",
       "notes": "Lollapalooza \u00b7 unk \u00b7 doodee master",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "pj1992-08-25.unk.flac.txt"
     },
     {
       "year": 1992,
@@ -2900,7 +3102,8 @@ const ARTIST_DATA = {
       "venue": "Harriet Island",
       "notes": "Lollapalooza \u00b7 Sony Faalt \u00b7 spacedvest encode",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "pj1992-08-28.faalt.deq.flac.txt"
     },
     {
       "year": 1992,
@@ -2913,7 +3116,8 @@ const ARTIST_DATA = {
       "venue": "Alpine Valley",
       "notes": "Lollapalooza \u00b7 SM98",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "pj1992-08-29 - East Troy, WI - Alpine Valley Music Theatre - Lollapalooza [DVD].txt"
     },
     {
       "year": 1992,
@@ -2926,7 +3130,8 @@ const ARTIST_DATA = {
       "venue": "Alpine Valley Music Theatre",
       "notes": "Lollapalooza",
       "version": "AUD",
-      "format": "DVD"
+      "format": "DVD",
+      "textFile": "pj1992-08-29.sm98.deq.flac.txt"
     },
     {
       "year": 1992,
@@ -2939,7 +3144,8 @@ const ARTIST_DATA = {
       "venue": "Desert Sky Pavilion",
       "notes": "ANA(1) \u00b7 PZM \u00b7 cps",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "pj1992-09-08.ana1.flac.txt"
     },
     {
       "year": 1992,
@@ -2952,7 +3158,8 @@ const ARTIST_DATA = {
       "venue": "Pauley Pavilion / MTV Video Music Awards",
       "notes": "",
       "version": "TV",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "pj1992-09-09.bootcd.flac.txt"
     },
     {
       "year": 1992,
@@ -2965,7 +3172,8 @@ const ARTIST_DATA = {
       "venue": "Pauley Pavilion / MTV Video Music Awards",
       "notes": "MTV2 Rebroadcast",
       "version": "TV",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "pj1992-09-09.tv.flac.txt"
     },
     {
       "year": 1992,
@@ -2978,7 +3186,8 @@ const ARTIST_DATA = {
       "venue": "Park Plaza Hotel Ballroom / MTV Singles Premiere Party",
       "notes": "",
       "version": "TV",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "pj1992-09-10 - MTV Singles Party, Los Angeles, CA [Pro NTSC] (DVD) - with Lovemongers & Alice In Chains.txt"
     },
     {
       "year": 1992,
@@ -2991,7 +3200,8 @@ const ARTIST_DATA = {
       "venue": "Park Plaza Hotel Ballroom / MTV Singles Premiere Party",
       "notes": "VHS(M)",
       "version": "TV",
-      "format": "DVD"
+      "format": "DVD",
+      "textFile": "pj1992-09-10.tv.flac.txt"
     },
     {
       "year": 1992,
@@ -3004,7 +3214,8 @@ const ARTIST_DATA = {
       "venue": "Irvine Meadows",
       "notes": "Lollapalooza \u00b7 unk master",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "pj1992-09-11.unkm.flac.txt"
     },
     {
       "year": 1992,
@@ -3017,7 +3228,8 @@ const ARTIST_DATA = {
       "venue": "Irvine Meadows",
       "notes": "Lollapalooza \u00b7 unk \u00b7 rob sierzega transfer",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "pj1992-09-12.unk.deq.flac.txt"
     },
     {
       "year": 1992,
@@ -3030,7 +3242,8 @@ const ARTIST_DATA = {
       "venue": "Irvine Meadows",
       "notes": "Lollapalooza \u00b7 unk",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "pj1992-09-12.unk.flac16.txt"
     },
     {
       "year": 1992,
@@ -3043,7 +3256,8 @@ const ARTIST_DATA = {
       "venue": "Irvine Meadows",
       "notes": "Lollapalooza \u00b7 unk",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "pj1992-09-13.unk.deq.flac.txt"
     },
     {
       "year": 1992,
@@ -3056,7 +3270,8 @@ const ARTIST_DATA = {
       "venue": "Warren G. Magnuson Park *Seattle Jammin'",
       "notes": "",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "pj1992-09-20 - Seattle, WA - Magnuson Park (3 Cam Mix) [DVD].txt"
     },
     {
       "year": 1992,
@@ -3069,7 +3284,8 @@ const ARTIST_DATA = {
       "venue": "Warren G. Magnuson Park",
       "notes": "3 cam mix",
       "version": "PRO",
-      "format": "DVD"
+      "format": "DVD",
+      "textFile": "pj1992-09-20.bootcd.flac.txt"
     },
     {
       "year": 1992,
@@ -3082,7 +3298,8 @@ const ARTIST_DATA = {
       "venue": "Warren G. Magnuson Park",
       "notes": "ANA(M) \u00b7 Sony PC-62 \u00b7 tapeworm48 transfer",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "pj1992-09-20.pc62.flac16.txt"
     },
     {
       "year": 1992,
@@ -3095,7 +3312,8 @@ const ARTIST_DATA = {
       "venue": "Andrew's Amphitheater (SV062) *The Isle of Boom",
       "notes": "",
       "version": "SBD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "pj1992-09-26.sbd.remaster.flac.txt"
     },
     {
       "year": 1992,
@@ -3108,7 +3326,8 @@ const ARTIST_DATA = {
       "venue": "Andrew's Amphitheater",
       "notes": "jwb remaster",
       "version": "SBD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "pj1992-09-26.sv062.flac.txt"
     },
     {
       "year": 1992,
@@ -3121,7 +3340,8 @@ const ARTIST_DATA = {
       "venue": "Baldwin School Gymnasium (Soundcheck)",
       "notes": "VID(4) \u00b7 blg transfer",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "pj1992-09-27.vid.scheck.flac.txt"
     },
     {
       "year": 1992,
@@ -3134,7 +3354,8 @@ const ARTIST_DATA = {
       "venue": "Shoreline Amphitheatre / Bridge School Benefit",
       "notes": "",
       "version": "SBD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "pj1992-11-01 - Mountain View, CA - Shoreline Amphitheatre (alternate) [DVD].txt"
     },
     {
       "year": 1992,
@@ -3147,7 +3368,8 @@ const ARTIST_DATA = {
       "venue": "Shoreline Amphitheatre / Bridge School Benefit",
       "notes": "alvarojam",
       "version": "AUD",
-      "format": "DVD"
+      "format": "DVD",
+      "textFile": "pj1992-11-01 - Mountain View, CA - Shoreline Amphitheatre - Bridge School Benefit [DVD].txt"
     },
     {
       "year": 1992,
@@ -3160,7 +3382,8 @@ const ARTIST_DATA = {
       "venue": "Shoreline Amphitheatre / Bridge School Benefit",
       "notes": "unk alternate",
       "version": "AUD",
-      "format": "DVD"
+      "format": "DVD",
+      "textFile": "pj1992-11-01.sbd.flac.txt"
     },
     {
       "year": 1992,
@@ -3173,7 +3396,8 @@ const ARTIST_DATA = {
       "venue": "The Academy *Jam Like Hell II",
       "notes": "SV010 \u00b7 CSB",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "pj1992-12-31 - New York, NY - The Academy (DVD).txt"
     },
     {
       "year": 1992,
@@ -3186,7 +3410,8 @@ const ARTIST_DATA = {
       "venue": "The Academy",
       "notes": "VHS(2)",
       "version": "AUD",
-      "format": "DVD"
+      "format": "DVD",
+      "textFile": "pj1992-12-31.sv010.flac.txt"
     },
     {
       "year": 1993,
@@ -3199,7 +3424,8 @@ const ARTIST_DATA = {
       "venue": "Slim's Cafe",
       "notes": "ANA(M) \u00b7 SS DSM6 \u00b7 jr",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "pj1993-05-13.ana-m.flac.txt"
     },
     {
       "year": 1993,
@@ -3212,7 +3438,8 @@ const ARTIST_DATA = {
       "venue": "Sentrum Scene",
       "notes": "unk",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "pj1993-06-26.unk.flac.txt"
     },
     {
       "year": 1993,
@@ -3225,7 +3452,8 @@ const ARTIST_DATA = {
       "venue": "Isle of Calf Festival",
       "notes": "ECM T-140",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "pj1993-06-27 - Oslo, Norway - Isle Of Calf Festival - VHS(1) [DVD] .txt"
     },
     {
       "year": 1993,
@@ -3238,7 +3466,8 @@ const ARTIST_DATA = {
       "venue": "Isle of Calf Festival",
       "notes": "VHS(1)",
       "version": "AUD",
-      "format": "DVD"
+      "format": "DVD",
+      "textFile": "pj1993-06-27.ecmt-140.flac.txt"
     },
     {
       "year": 1993,
@@ -3251,7 +3480,8 @@ const ARTIST_DATA = {
       "venue": "Sjhistoriska Museet",
       "notes": "Marantz EM8 \u00b7 ms \u00b7 blg transfer",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "pj1993-06-28 - Stockholm, Sweden - Sjohistoriska Museet (1G) (per-erik) [AUD].txt"
     },
     {
       "year": 1993,
@@ -3264,7 +3494,8 @@ const ARTIST_DATA = {
       "venue": "Sjhistoriska Museet",
       "notes": "per-erik master",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "pj1993-06-28 - Stockholm, Sweden - Sjohistoriska Museet - VHS(1) (metallican) [DVD].txt"
     },
     {
       "year": 1993,
@@ -3277,7 +3508,8 @@ const ARTIST_DATA = {
       "venue": "Sjhistoriska Museet",
       "notes": "VHS(1) \u00b7 blink eye projects",
       "version": "AUD",
-      "format": "DVD"
+      "format": "DVD",
+      "textFile": "pj1993-06-28 - Stockholm, Sweden - Sjo\u0308historiska Museet - VHS(1) (blink eye projects) [DVD].txt"
     },
     {
       "year": 1993,
@@ -3290,7 +3522,8 @@ const ARTIST_DATA = {
       "venue": "Sjhistoriska Museet",
       "notes": "VHS(1) \u00b7 metallican",
       "version": "AUD",
-      "format": "DVD"
+      "format": "DVD",
+      "textFile": "pj1993-06-28 - Stockholm, Sweden - Sjo\u0308historiska Museet - VHS(1) (travisbickle1963 2022 transfer) (AMT #1) [MKV].txt"
     },
     {
       "year": 1993,
@@ -3303,7 +3536,8 @@ const ARTIST_DATA = {
       "venue": "Sjohistoriska Museet",
       "notes": "1G \u00b7 per-erik",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "pj1993-06-28.marantz.flac.txt"
     },
     {
       "year": 1993,
@@ -3316,7 +3550,8 @@ const ARTIST_DATA = {
       "venue": "Sjo\u0308historiska Museet",
       "notes": "VHS(1) \u00b7 travisbickle1963 2022 transfer",
       "version": "AMT #1",
-      "format": "MKV"
+      "format": "MKV",
+      "textFile": "pj1993-06-28.vhs1.travisbickle63.upgrade.dvd.txt"
     },
     {
       "year": 1993,
@@ -3329,7 +3564,8 @@ const ARTIST_DATA = {
       "venue": "Sjo\u0308historiska Museet",
       "notes": "VHS(1) \u00b7 travisbickle1963 2022 upgrade",
       "version": "AMT #1",
-      "format": "DVD"
+      "format": "DVD",
+      "textFile": "pj1993-06-28.wm-d6c.flac.txt"
     },
     {
       "year": 1993,
@@ -3342,7 +3578,8 @@ const ARTIST_DATA = {
       "venue": "Jaahalli",
       "notes": "ECM 144",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "pj1993-06-30.ecm-144.deq.flac.txt"
     },
     {
       "year": 1993,
@@ -3355,7 +3592,8 @@ const ARTIST_DATA = {
       "venue": "Jaahalli",
       "notes": "ANA(M) \u00b7 ECM-T140 \u00b7 tapeworm48",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "pj1993-06-30.ecmt140.flac16.txt"
     },
     {
       "year": 1993,
@@ -3368,7 +3606,8 @@ const ARTIST_DATA = {
       "venue": "Stadio Bentegodi",
       "notes": "SS",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "pj1993-07-02.ss.complete.flac.txt"
     },
     {
       "year": 1993,
@@ -3381,7 +3620,8 @@ const ARTIST_DATA = {
       "venue": "Stadio Bentegodi",
       "notes": "DAT(c) \u00b7 SS \u00b7 datfly",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "pj1993-07-02.ss.deq.flac.txt"
     },
     {
       "year": 1993,
@@ -3394,7 +3634,8 @@ const ARTIST_DATA = {
       "venue": "Stadio Bentegodi",
       "notes": "DAT(c) \u00b7 Sonic Studios \u00b7 datfly",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "pj1993-07-03 - Verona, Italy - Stadio Bentegodi [DVD].txt"
     },
     {
       "year": 1993,
@@ -3407,7 +3648,8 @@ const ARTIST_DATA = {
       "venue": "Stadio Bentegodi",
       "notes": "SS",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "pj1993-07-03.ss.complete.flac.txt"
     },
     {
       "year": 1993,
@@ -3420,7 +3662,8 @@ const ARTIST_DATA = {
       "venue": "Stadio Bentegodi",
       "notes": "",
       "version": "AUD",
-      "format": "DVD"
+      "format": "DVD",
+      "textFile": "pj1993-07-03.ss.flac.txt"
     },
     {
       "year": 1993,
@@ -3433,7 +3676,8 @@ const ARTIST_DATA = {
       "venue": "Stadio Flaminio",
       "notes": "CASS(M) \u00b7 Sony ECM-909 \u00b7 jr",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "pj1993-07-06.ecm909.flac.txt"
     },
     {
       "year": 1993,
@@ -3446,7 +3690,8 @@ const ARTIST_DATA = {
       "venue": "Stadio Flaminio",
       "notes": "CASS(M) \u00b7 Sony ECM-909 \u00b7 jr",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "pj1993-07-07.amt1.vhs1.txt"
     },
     {
       "year": 1993,
@@ -3459,7 +3704,8 @@ const ARTIST_DATA = {
       "venue": "Stadio Flaminio",
       "notes": "VHS(1) \u00b7 travisbickle1963 transfer",
       "version": "AMT #1",
-      "format": "MKV"
+      "format": "MKV",
+      "textFile": "pj1993-07-07.ecm909.flac.txt"
     },
     {
       "year": 1993,
@@ -3472,7 +3718,8 @@ const ARTIST_DATA = {
       "venue": "Slane Castle",
       "notes": "unk",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "pj1993-07-10.deq.flac.txt"
     },
     {
       "year": 1993,
@@ -3485,7 +3732,8 @@ const ARTIST_DATA = {
       "venue": "Finsbury Park",
       "notes": "ECM-909",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "pj1993-07-11 - London, England - Finsbury Park - VHS(1) [DVD].txt"
     },
     {
       "year": 1993,
@@ -3498,7 +3746,8 @@ const ARTIST_DATA = {
       "venue": "Finsbury Park",
       "notes": "DAT(M) \u00b7 MKE4060",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "pj1993-07-11.ecm-909.deq.flac.txt"
     },
     {
       "year": 1993,
@@ -3511,7 +3760,8 @@ const ARTIST_DATA = {
       "venue": "Finsbury Park",
       "notes": "VHS(1)",
       "version": "AUD",
-      "format": "DVD"
+      "format": "DVD",
+      "textFile": "pj1993-07-11.mke4060.txt"
     },
     {
       "year": 1993,
@@ -3524,7 +3774,8 @@ const ARTIST_DATA = {
       "venue": "Brixton Academy",
       "notes": "ANA(M) \u00b7 ECM-909 \u00b7 tapeworm48",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "pj1993-07-13 - London, England - Brixton Academy - VHS(x) [DVD].txt"
     },
     {
       "year": 1993,
@@ -3537,7 +3788,8 @@ const ARTIST_DATA = {
       "venue": "Brixton Academy",
       "notes": "unk",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "pj1993-07-13.ecm909.flac.txt"
     },
     {
       "year": 1993,
@@ -3550,7 +3802,8 @@ const ARTIST_DATA = {
       "venue": "Brixton Academy",
       "notes": "Sony WMD3 \u00b7 kk master",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "pj1993-07-13.unk.flac.txt"
     },
     {
       "year": 1993,
@@ -3563,7 +3816,8 @@ const ARTIST_DATA = {
       "venue": "Brixton Academy",
       "notes": "",
       "version": "AUD",
-      "format": "DVD"
+      "format": "DVD",
+      "textFile": "pj1993-07-13.wmd3-em8.flac.txt"
     },
     {
       "year": 1993,
@@ -3576,7 +3830,8 @@ const ARTIST_DATA = {
       "venue": "Brixton Academy",
       "notes": "ANA(M) \u00b7 ECM-909 \u00b7 tapeworm48",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "pj1993-07-14.ecm909.flac.txt"
     },
     {
       "year": 1993,
@@ -3589,7 +3844,8 @@ const ARTIST_DATA = {
       "venue": "Sportspaleis Ahoy *Against",
       "notes": "KTS-221",
       "version": "Silver CD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "pj1993-07-16&17.fm.deq.swap.flac.txt"
     },
     {
       "year": 1993,
@@ -3602,7 +3858,8 @@ const ARTIST_DATA = {
       "venue": "Sportspaleis Ahoy (Dutch VPRO",
       "notes": "Villa \u00b7 magnix",
       "version": "FM",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "pj1993-07-16-17.sbd.remaster.flac.txt"
     },
     {
       "year": 1993,
@@ -3615,7 +3872,8 @@ const ARTIST_DATA = {
       "venue": "Sportspaleis Ahoy",
       "notes": "ANA(1) \u00b7 Sony WM-D6 \u00b7 tapeworm48 transfer",
       "version": "AUD (48k)",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "pj1993-07-16.bootcd.flac.txt"
     },
     {
       "year": 1993,
@@ -3628,7 +3886,8 @@ const ARTIST_DATA = {
       "venue": "Sportspaleis Ahoy",
       "notes": "unk \u00b7 king_ganesha transfer",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "pj1993-07-17.unk.flac.txt"
     },
     {
       "year": 1993,
@@ -3641,7 +3900,8 @@ const ARTIST_DATA = {
       "venue": "Sportspaleis Ahoy",
       "notes": "ANA(1) \u00b7 Sony WM-D6 \u00b7 tapeworm48 transfer",
       "version": "AUD (48k)",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "pj1993-07-17.wmd6.flac16.txt"
     },
     {
       "year": 1993,
@@ -3654,7 +3914,8 @@ const ARTIST_DATA = {
       "venue": "Paradiso",
       "notes": "Realistic \u00b7 blg transfer",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "pj1993-07-18.realistic.flac.txt"
     },
     {
       "year": 1993,
@@ -3667,7 +3928,8 @@ const ARTIST_DATA = {
       "venue": "Gimli",
       "notes": "",
       "version": "MIX",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "pj1993-08-14  Gimli Motorsport Park, Manitoba, Canada.txt"
     },
     {
       "year": 1993,
@@ -3680,7 +3942,8 @@ const ARTIST_DATA = {
       "venue": "Gimli",
       "notes": "",
       "version": "AUD",
-      "format": "DVD"
+      "format": "DVD",
+      "textFile": "pj1993-08-14.mix.flac.txt"
     },
     {
       "year": 1993,
@@ -3693,7 +3956,8 @@ const ARTIST_DATA = {
       "venue": "Exhibition Stadium",
       "notes": "Sony ECM-16T",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "pj1993-08-18 - Toronto, Ontario - Canadian National Exhibition Grandstand - VHS(1) [DVD].txt"
     },
     {
       "year": 1993,
@@ -3706,7 +3970,8 @@ const ARTIST_DATA = {
       "venue": "Exhibition Stadium",
       "notes": "Sony ECM-909",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "pj1993-08-18.ecm-16t.flac.txt"
     },
     {
       "year": 1993,
@@ -3719,7 +3984,8 @@ const ARTIST_DATA = {
       "venue": "Exhibition Stadium",
       "notes": "VHS(1)",
       "version": "AUD",
-      "format": "DVD"
+      "format": "DVD",
+      "textFile": "pj1993-08-18.ecm-909.flac.txt"
     },
     {
       "year": 1993,
@@ -3732,7 +3998,8 @@ const ARTIST_DATA = {
       "venue": "Verdun Auditorium",
       "notes": "Aiwa",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "pj1993-08-19.aiwa.flac.txt"
     },
     {
       "year": 1993,
@@ -3745,7 +4012,8 @@ const ARTIST_DATA = {
       "venue": "Gibson Amphitheatre / 93 MTV Video Music Awards",
       "notes": "MTV2 Rebroadcast \u00b7 datfly",
       "version": "TV",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "pj1993-09-02.tv.flac.txt"
     },
     {
       "year": 1993,
@@ -3758,7 +4026,8 @@ const ARTIST_DATA = {
       "venue": "B.C. Place",
       "notes": "CASS(M) \u00b7 PC62",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "pj1993-09-04.pc-62.eq.flacf.txt"
     },
     {
       "year": 1993,
@@ -3771,7 +4040,8 @@ const ARTIST_DATA = {
       "venue": "Gorge Amphitheater",
       "notes": "SS \u00b7 rick bendes",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "pj1993-09-05 - George, WA - The Gorge (2nd gen) [DVD] .txt"
     },
     {
       "year": 1993,
@@ -3784,7 +4054,8 @@ const ARTIST_DATA = {
       "venue": "The Gorge",
       "notes": "2nd gen",
       "version": "AUD",
-      "format": "DVD"
+      "format": "DVD",
+      "textFile": "pj1993-09-05.ss.flac.txt"
     },
     {
       "year": 1993,
@@ -3797,7 +4068,8 @@ const ARTIST_DATA = {
       "venue": "Portland Meadows Race Track",
       "notes": "SS",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "pj1993-09-06.ss.deq.flac.txt"
     },
     {
       "year": 1993,
@@ -3823,7 +4095,8 @@ const ARTIST_DATA = {
       "venue": "Rockline: KISW FM",
       "notes": "",
       "version": "FM",
-      "format": "MP3"
+      "format": "MP3",
+      "textFile": "pj1993-10-18.93.fm.mp3.txt"
     },
     {
       "year": 1993,
@@ -3836,7 +4109,8 @@ const ARTIST_DATA = {
       "venue": "The Catalyst",
       "notes": "Sony ECM-909",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "pj1993-10-27.ecm-909.flac.txt"
     },
     {
       "year": 1993,
@@ -3849,7 +4123,8 @@ const ARTIST_DATA = {
       "venue": "Warfield Theater",
       "notes": "SS \u00b7 rick bendes",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "pj1993-10-28.ss.flac.txt"
     },
     {
       "year": 1993,
@@ -3862,7 +4137,8 @@ const ARTIST_DATA = {
       "venue": "Warfield Theater",
       "notes": "unk \u00b7 cps transfer",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "pj1993-10-28.unknown.cps.flac16.txt"
     },
     {
       "year": 1993,
@@ -3875,7 +4151,8 @@ const ARTIST_DATA = {
       "venue": "SJSU Events Center",
       "notes": "Core Sounds \u00b7 blg transfer",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "pj1993-10-30 - San Jose, CA - SJSU Event Center [DVD].txt"
     },
     {
       "year": 1993,
@@ -3888,7 +4165,8 @@ const ARTIST_DATA = {
       "venue": "SJSU Events Center",
       "notes": "",
       "version": "AUD",
-      "format": "DVD"
+      "format": "DVD",
+      "textFile": "pj1993-10-30 - San Jose, CA - SJSU Events Center - VHS(1) (alvarojam transfer) [DVD].txt"
     },
     {
       "year": 1993,
@@ -3901,7 +4179,8 @@ const ARTIST_DATA = {
       "venue": "SJSU Events Center",
       "notes": "VHS(1) \u00b7 alvarojam transfer",
       "version": "AUD",
-      "format": "DVD"
+      "format": "DVD",
+      "textFile": "pj1993-10-30.csb.flac.txt"
     },
     {
       "year": 1993,
@@ -3914,7 +4193,8 @@ const ARTIST_DATA = {
       "venue": "Greek Theater",
       "notes": "Soundcheck \u00b7 SS \u00b7 jake clemens transfer",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "pj1993-10-31.ecm-909.flac.txt"
     },
     {
       "year": 1993,
@@ -3927,7 +4207,8 @@ const ARTIST_DATA = {
       "venue": "Greek Theater",
       "notes": "Sony ECM-909 \u00b7 rick bendes",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "pj1993-10-31.ecm-939.flac.txt"
     },
     {
       "year": 1993,
@@ -3940,7 +4221,8 @@ const ARTIST_DATA = {
       "venue": "Greek Theater",
       "notes": "DAT(M) \u00b7 Sony ECM-939 \u00b7 blg transfer",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "pj1993-10-31.ss.scheck.flac.txt"
     },
     {
       "year": 1993,
@@ -3953,7 +4235,8 @@ const ARTIST_DATA = {
       "venue": "Civic Theatre",
       "notes": "ANA(x) \u00b7 unk",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "pj1993-11-02 - San Diego, CA - Civic Theatre [DVD].txt"
     },
     {
       "year": 1993,
@@ -3966,7 +4249,8 @@ const ARTIST_DATA = {
       "venue": "Civic Theatre",
       "notes": "",
       "version": "AUD",
-      "format": "DVD"
+      "format": "DVD",
+      "textFile": "pj1993-11-02.unk.flac.txt"
     },
     {
       "year": 1993,
@@ -3979,7 +4263,8 @@ const ARTIST_DATA = {
       "venue": "Civic Theatre",
       "notes": "ANA(M) \u00b7 unk \u00b7 blg transfer",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "pj1993-11-03.ana-m.flac.txt"
     },
     {
       "year": 1993,
@@ -3992,7 +4277,8 @@ const ARTIST_DATA = {
       "venue": "Civic Theatre *Indian Summer Boot",
       "notes": "",
       "version": "SBD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "pj1993-11-03.bootcd.complete.flac.txt"
     },
     {
       "year": 1993,
@@ -4005,7 +4291,8 @@ const ARTIST_DATA = {
       "venue": "Empire Polo Fields  *Shoe the Shoeless",
       "notes": "SV022 \u00b7 2 source mix",
       "version": "MIX",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "pj1993-11-05- Indio, CA - Empire Polo Fields - VHS(1) [DVD].txt"
     },
     {
       "year": 1993,
@@ -4018,7 +4305,8 @@ const ARTIST_DATA = {
       "venue": "Empire Polo Fields",
       "notes": "jwb remaster \u00b7 SBD Remaster Series 2012",
       "version": "SBD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "pj1993-11-05.sbd.remaster.flac.txt"
     },
     {
       "year": 1993,
@@ -4031,7 +4319,8 @@ const ARTIST_DATA = {
       "venue": "Empire Polo Fields",
       "notes": "VHS(1)",
       "version": "AUD",
-      "format": "DVD"
+      "format": "DVD",
+      "textFile": "pj1993-11-05.sv022.flac.txt"
     },
     {
       "year": 1993,
@@ -4044,7 +4333,8 @@ const ARTIST_DATA = {
       "venue": "Mesa Amphitheatre",
       "notes": "SS \u00b7 blg transfer",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "pj1993-11-06.ss.dat.flac.txt"
     },
     {
       "year": 1993,
@@ -4057,7 +4347,8 @@ const ARTIST_DATA = {
       "venue": "Convention Exhibition Hall",
       "notes": "SS",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "pj1993-11-09.ss.dat.flac.txt"
     },
     {
       "year": 1993,
@@ -4070,7 +4361,8 @@ const ARTIST_DATA = {
       "venue": "Super Pit, University of North Texas",
       "notes": "Sony ECM-155 \u00b7 blg transfer",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "pj1993-11-11.ecm-155.flac.txt"
     },
     {
       "year": 1993,
@@ -4083,7 +4375,8 @@ const ARTIST_DATA = {
       "venue": "Moody Coliseum",
       "notes": "SS-DSM6",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "pj1993-11-12.ss.deq.flac.txt"
     },
     {
       "year": 1993,
@@ -4096,7 +4389,8 @@ const ARTIST_DATA = {
       "venue": "U.N.O. Lakefront Arena *The Kids Are Alright",
       "notes": "fge edit",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "pj1993-11-16 - New Orleans, LA - UNO Lakefront Arena - VHS(2) [DVD].txt"
     },
     {
       "year": 1993,
@@ -4109,7 +4403,8 @@ const ARTIST_DATA = {
       "venue": "U.N.O. Lakefront Arena",
       "notes": "VHS(2)",
       "version": "AUD",
-      "format": "DVD"
+      "format": "DVD",
+      "textFile": "pj1993-11-16.ss.deq.flac.txt"
     },
     {
       "year": 1993,
@@ -4122,7 +4417,8 @@ const ARTIST_DATA = {
       "venue": "U.N.O. Lakefront Arena",
       "notes": "ANA(M) \u00b7 SS \u00b7 blg transfer",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "pj1993-11-17 - UNO Lakefront Arena, New Orleans, LA [Aud NTSC] (DVD).txt"
     },
     {
       "year": 1993,
@@ -4135,7 +4431,8 @@ const ARTIST_DATA = {
       "venue": "U.N.O. Lakefront Arena",
       "notes": "",
       "version": "MTX",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "pj1993-11-17.ana-m.flac.txt"
     },
     {
       "year": 1993,
@@ -4148,7 +4445,8 @@ const ARTIST_DATA = {
       "venue": "U.N.O. Lakefront Arena",
       "notes": "SS",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "pj1993-11-17.mix.flac.txt"
     },
     {
       "year": 1993,
@@ -4161,7 +4459,8 @@ const ARTIST_DATA = {
       "venue": "U.N.O. Lakefront Arena",
       "notes": "VHS(1)",
       "version": "AUD",
-      "format": "DVD"
+      "format": "DVD",
+      "textFile": "pj1993-11-17.ss.flac.txt"
     },
     {
       "year": 1993,
@@ -4174,7 +4473,8 @@ const ARTIST_DATA = {
       "venue": "U.N.O. Lakefront Arena",
       "notes": "SS",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "pj1993-11-19.ss.flac.txt"
     },
     {
       "year": 1993,
@@ -4187,7 +4487,8 @@ const ARTIST_DATA = {
       "venue": "Stephen F. Austin Arena",
       "notes": "unk \u00b7 dcl transfer",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "pj1993-11-20.unk.deq.flac.txt"
     },
     {
       "year": 1993,
@@ -4200,7 +4501,8 @@ const ARTIST_DATA = {
       "venue": "Century II",
       "notes": "unk",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "pj1993-11-24.unk.flac.txt"
     },
     {
       "year": 1993,
@@ -4213,7 +4515,8 @@ const ARTIST_DATA = {
       "venue": "Aladdin Theatre",
       "notes": "Vault #5",
       "version": "SBD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "pj1993-11-30 - Las Vegas, NV - Aladdin Theatre - VHS(x) [DVD].txt"
     },
     {
       "year": 1993,
@@ -4226,7 +4529,8 @@ const ARTIST_DATA = {
       "venue": "Aladdin Theatre",
       "notes": "ANA(M) \u00b7 SS \u00b7 jr",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "pj1993-11-30.ss.flac.txt"
     },
     {
       "year": 1993,
@@ -4252,7 +4556,8 @@ const ARTIST_DATA = {
       "venue": "Aladdin Theatre",
       "notes": "DAT(c) \u00b7 SS \u00b7 blg transfe",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "pj1993-12-01.ss.flac.txt"
     },
     {
       "year": 1993,
@@ -4265,7 +4570,8 @@ const ARTIST_DATA = {
       "venue": "Lawlor Athletic Events Center",
       "notes": "Marcsounds + SS \u00b7 blg edit",
       "version": "MIX",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "pj1993-12-02 - Reno, NV - Lawlor Athletic Events Center - VHS(2) (blg edit) [DVD].txt"
     },
     {
       "year": 1993,
@@ -4278,7 +4584,8 @@ const ARTIST_DATA = {
       "venue": "Lawlor Athletic Events Center",
       "notes": "VHS(2) \u00b7 blg edit",
       "version": "AUD",
-      "format": "DVD"
+      "format": "DVD",
+      "textFile": "pj1993-12-02.mix.flac.txt"
     },
     {
       "year": 1993,
@@ -4291,7 +4598,8 @@ const ARTIST_DATA = {
       "venue": "Seattle Center Arena",
       "notes": "DAT(1) \u00b7 SS-DSM3 \u00b7 vb",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "pj1993-12-07 - Seattle, WA - Seattle Center Arena - VHS(2) [DVD].txt"
     },
     {
       "year": 1993,
@@ -4304,7 +4612,8 @@ const ARTIST_DATA = {
       "venue": "Seattle Center Arena",
       "notes": "SS \u00b7 hernan giralt encode",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "pj1993-12-07.ss-dsm3.flac.txt"
     },
     {
       "year": 1993,
@@ -4317,7 +4626,8 @@ const ARTIST_DATA = {
       "venue": "Seattle Center Arena",
       "notes": "SS DSM6 \u00b7 jems 2019 transfer",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "pj1993-12-07.ss.deq.flac.txt"
     },
     {
       "year": 1993,
@@ -4330,7 +4640,8 @@ const ARTIST_DATA = {
       "venue": "Seattle Center Arena",
       "notes": "VHS(2)",
       "version": "AUD",
-      "format": "DVD"
+      "format": "DVD",
+      "textFile": "pj1993-12-07.ss48k.flac.txt"
     },
     {
       "year": 1993,
@@ -4343,7 +4654,8 @@ const ARTIST_DATA = {
       "venue": "Seattle Center Arena *Home",
       "notes": "SS \u00b7 rob sierzega transfer",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "pj1993-12-08.bootcd.flac.txt"
     },
     {
       "year": 1993,
@@ -4356,7 +4668,8 @@ const ARTIST_DATA = {
       "venue": "Seattle Center Arena",
       "notes": "DAT(M) \u00b7 SS \u00b7 jems master",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "pj1993-12-09.JEMS.master.flac.txt"
     },
     {
       "year": 1993,
@@ -4369,7 +4682,8 @@ const ARTIST_DATA = {
       "venue": "Seattle Center Arena",
       "notes": "DAT(1) \u00b7 SS \u00b7 vikas",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "pj1993-12-09.ss-dsm3.flac.txt"
     },
     {
       "year": 1994,
@@ -4382,7 +4696,8 @@ const ARTIST_DATA = {
       "venue": "Paramount Theater",
       "notes": "Hi8(M)",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "pj1994-03-06 - Denver, CO - Paramount Theater - Hi8(M) [DVD].txt"
     },
     {
       "year": 1994,
@@ -4395,7 +4710,8 @@ const ARTIST_DATA = {
       "venue": "Paramount Theater",
       "notes": "Hi8(M)",
       "version": "AUD",
-      "format": "DVD"
+      "format": "DVD",
+      "textFile": "pj1994-03-06.videohi8.flac.txt"
     },
     {
       "year": 1994,
@@ -4408,7 +4724,8 @@ const ARTIST_DATA = {
       "venue": "Paramount Theater",
       "notes": "Hi8(M)",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "pj1994-03-07 - Denver, CO - Paramount Theater - Hi8(M) (leehro) [DVD].txt"
     },
     {
       "year": 1994,
@@ -4421,7 +4738,8 @@ const ARTIST_DATA = {
       "venue": "Paramount Theater",
       "notes": "Hi8(M) \u00b7 leehro",
       "version": "AUD",
-      "format": "DVD"
+      "format": "DVD",
+      "textFile": "pj1994-03-07.videohi8.flac.txt"
     },
     {
       "year": 1994,
@@ -4434,7 +4752,8 @@ const ARTIST_DATA = {
       "venue": "Civic Center",
       "notes": "Rock \u00b7 SV030 \u00b7 SS",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "pj1994-03-09.sv030.flac.txt"
     },
     {
       "year": 1994,
@@ -4447,7 +4766,8 @@ const ARTIST_DATA = {
       "venue": "Chicago Stadium *Last Night",
       "notes": "SV021 \u00b7 SS",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "pj1994-03-10.ssdsm3.flac16.txt"
     },
     {
       "year": 1994,
@@ -4460,7 +4780,8 @@ const ARTIST_DATA = {
       "venue": "Chicago Stadium",
       "notes": "DAT(M) \u00b7 SS-DSM3 \u00b7 dp",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "pj1994-03-10.sv021.flac.txt"
     },
     {
       "year": 1994,
@@ -4473,7 +4794,8 @@ const ARTIST_DATA = {
       "venue": "New Regal Theatre",
       "notes": "SS-DSM3",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "pj1994-03-13.ss.deq.flac.txt"
     },
     {
       "year": 1994,
@@ -4486,7 +4808,8 @@ const ARTIST_DATA = {
       "venue": "Fox Theatre",
       "notes": "Realistic",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "pj1994-03-14.realistic.flac.txt"
     },
     {
       "year": 1994,
@@ -4499,7 +4822,8 @@ const ARTIST_DATA = {
       "venue": "Fox Theatre",
       "notes": "CASS(M) \u00b7 Realistic \u00b7 cf",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "pj1994-03-14.rs.txt"
     },
     {
       "year": 1994,
@@ -4512,7 +4836,8 @@ const ARTIST_DATA = {
       "venue": "Fox Theatre",
       "notes": "VHS",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "pj1994-03-15 - St. Louis, MO - Paramount Fox Theater - VHS(2) (team dz) [DVD].txt"
     },
     {
       "year": 1994,
@@ -4525,7 +4850,8 @@ const ARTIST_DATA = {
       "venue": "Fox Theatre",
       "notes": "VHS(1) \u00b7 tapeworm48 transfer",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "pj1994-03-15.vhs.flac.txt"
     },
     {
       "year": 1994,
@@ -4538,7 +4864,8 @@ const ARTIST_DATA = {
       "venue": "Fox Theatre",
       "notes": "VHS(2) \u00b7 team dz",
       "version": "AUD",
-      "format": "DVD"
+      "format": "DVD",
+      "textFile": "pj1994-03-15.vid1.flac16.txt"
     },
     {
       "year": 1994,
@@ -4551,7 +4878,8 @@ const ARTIST_DATA = {
       "venue": "Elliot Hall, Perdue University",
       "notes": "DAT(M) \u00b7 unk \u00b7 blg transfer",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "pj1994-03-17.unk.complete.flac.txt"
     },
     {
       "year": 1994,
@@ -4564,7 +4892,8 @@ const ARTIST_DATA = {
       "venue": "Elliot Hall, Perdue University",
       "notes": "unk",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "pj1994-03-17.unk.flac.txt"
     },
     {
       "year": 1994,
@@ -4577,7 +4906,8 @@ const ARTIST_DATA = {
       "venue": "Masonic Temple",
       "notes": "ANA(1) \u00b7 BIC \u00b7 cps",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "pj1994-03-19.bicmic.flac.txt"
     },
     {
       "year": 1994,
@@ -4590,7 +4920,8 @@ const ARTIST_DATA = {
       "venue": "Crisler Arena",
       "notes": "CSB \u00b7 dEQ",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "pj1994-03-20.csb.deq.flac.txt"
     },
     {
       "year": 1994,
@@ -4603,7 +4934,8 @@ const ARTIST_DATA = {
       "venue": "Crisler Arena",
       "notes": "CSB \u00b7 bl/tapeworm48 transfer",
       "version": "AUD (48k)",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "pj1994-03-20.csb.flac16.txt"
     },
     {
       "year": 1994,
@@ -4616,7 +4948,8 @@ const ARTIST_DATA = {
       "venue": "Cleveland State Univ Convocation Center",
       "notes": "unk Aiwa \u00b7 dEQ",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "pj1994-03-22.aiwa.txt"
     },
     {
       "year": 1994,
@@ -4629,7 +4962,8 @@ const ARTIST_DATA = {
       "venue": "Cleveland State Univ Convocation Center",
       "notes": "DAT(1) \u00b7 Aiwa JS-415",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "pj1994-03-22.aiwa.deq.flac.txt"
     },
     {
       "year": 1994,
@@ -4642,7 +4976,8 @@ const ARTIST_DATA = {
       "venue": "Gardens",
       "notes": "VHS(M)",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "pj1994-03-24.vhs.flac.txt"
     },
     {
       "year": 1994,
@@ -4655,7 +4990,8 @@ const ARTIST_DATA = {
       "venue": "Mid South Coliseum",
       "notes": "unk",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "pj1994-03-25.pc62.flac16.txt"
     },
     {
       "year": 1994,
@@ -4668,7 +5004,8 @@ const ARTIST_DATA = {
       "venue": "Mid South Coliseum",
       "notes": "ANA(M) \u00b7 PC-62 \u00b7 tapeworm48",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "pj1994-03-25.unk.flac.txt"
     },
     {
       "year": 1994,
@@ -4681,7 +5018,8 @@ const ARTIST_DATA = {
       "venue": "Murphy Athletic Center",
       "notes": "CASS(1) \u00b7 Aiwa \u00b7 randy oseneko",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "pj1994-03-26 - Murphreesboro, TN - Murphy Athletic Center (1st gen) [DVD].txt"
     },
     {
       "year": 1994,
@@ -4694,7 +5032,8 @@ const ARTIST_DATA = {
       "venue": "Murphy Athletic Center",
       "notes": "ANA(1) \u00b7 Aiwa \u00b7 cps",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "pj1994-03-26 - Murphreesboro, TN - Murphy Athletic Center - VHS(1) [DVD].txt"
     },
     {
       "year": 1994,
@@ -4707,7 +5046,8 @@ const ARTIST_DATA = {
       "venue": "Murphy Athletic Center",
       "notes": "SS \u00b7 blg transfer",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "pj1994-03-26.aiwa.txt"
     },
     {
       "year": 1994,
@@ -4720,7 +5060,8 @@ const ARTIST_DATA = {
       "venue": "Murphy Athletic Center",
       "notes": "DAT(M) \u00b7 SS DSM6 \u00b7 tapeworm48",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "pj1994-03-26.ana1.flac.txt"
     },
     {
       "year": 1994,
@@ -4733,7 +5074,8 @@ const ARTIST_DATA = {
       "venue": "Murphy Athletic Center",
       "notes": "VHS(1)",
       "version": "AUD",
-      "format": "DVD"
+      "format": "DVD",
+      "textFile": "pj1994-03-26.ss.flac.txt"
     },
     {
       "year": 1994,
@@ -4746,7 +5088,8 @@ const ARTIST_DATA = {
       "venue": "Murphy Athletic Center",
       "notes": "VHS(1)",
       "version": "AUD",
-      "format": "DVD"
+      "format": "DVD",
+      "textFile": "pj1994-03-26.ssdsm6.flac16.txt"
     },
     {
       "year": 1994,
@@ -4759,7 +5102,8 @@ const ARTIST_DATA = {
       "venue": "Bayfront Amphitheatre",
       "notes": "SS & AKG 419",
       "version": "MIX",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "pj1994-03-28.mix.flac.txt"
     },
     {
       "year": 1994,
@@ -4772,7 +5116,8 @@ const ARTIST_DATA = {
       "venue": "Bayfront Amphitheatre *Stormin' the Bay",
       "notes": "SV015 \u00b7 SS-DSM 6P",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "pj1994-03-28.sv015.flac.txt"
     },
     {
       "year": 1994,
@@ -4785,7 +5130,8 @@ const ARTIST_DATA = {
       "venue": "Bayfront Amphitheater *Stare the Sun Down",
       "notes": "SV031 \u00b7 SS-DSM6P \u00b7 fred evans remaster",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "pj1994-03-29 - St. Petersburg, FL - Hotpoint [Silver].txt"
     },
     {
       "year": 1994,
@@ -4798,7 +5144,8 @@ const ARTIST_DATA = {
       "venue": "Bayfront Amphitheater *Hotpoint",
       "notes": "includes Soundcheck",
       "version": "Silver CD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "pj1994-03-29.sv031.flac.txt"
     },
     {
       "year": 1994,
@@ -4811,7 +5158,8 @@ const ARTIST_DATA = {
       "venue": "Fox Theatre *Atlanta the Day Before",
       "notes": "2 source mix \u00b7 Silver & SS",
       "version": "MIX",
-      "format": ""
+      "format": "",
+      "textFile": "pj1994-04-02.mix.flac.txt"
     },
     {
       "year": 1994,
@@ -4824,7 +5172,8 @@ const ARTIST_DATA = {
       "venue": "Fox Theatre",
       "notes": "",
       "version": "preFM",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "pj1994-04-03.dsbd.flac.txt"
     },
     {
       "year": 1994,
@@ -4837,7 +5186,8 @@ const ARTIST_DATA = {
       "venue": "Fox Theatre",
       "notes": "Private \u00b7 BBC Radio 1",
       "version": "FM",
-      "format": "FLAC 24"
+      "format": "FLAC 24",
+      "textFile": "pj1994-04-03.fm.cassette.flac.txt"
     },
     {
       "year": 1994,
@@ -4850,7 +5200,8 @@ const ARTIST_DATA = {
       "venue": "Fox Theatre",
       "notes": "jwb remaster \u00b7 SBD Remaster Series 2012",
       "version": "SBD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "pj1994-04-03.sbd.remaster.flac.txt"
     },
     {
       "year": 1994,
@@ -4863,7 +5214,8 @@ const ARTIST_DATA = {
       "venue": "Fox Theatre (Sony Australia Promo CD) *Atlanta",
       "notes": "SV016",
       "version": "SBD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "pj1994-04-03.sv016.flac.txt"
     },
     {
       "year": 1994,
@@ -4876,7 +5228,8 @@ const ARTIST_DATA = {
       "venue": "Civic Center",
       "notes": "SS DSM-6 \u00b7 kt",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "pj1994-04-06.ss-dsm6.deq.flac.txt"
     },
     {
       "year": 1994,
@@ -4889,7 +5242,8 @@ const ARTIST_DATA = {
       "venue": "War Memorial",
       "notes": "PC-62",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "pj1994-04-07.pc-62.flac.txt"
     },
     {
       "year": 1994,
@@ -4902,7 +5256,8 @@ const ARTIST_DATA = {
       "venue": "Patriot Center",
       "notes": "CSB",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "pj1994-04-08 - Fairfax, VA - Patriot Center [DVD].txt"
     },
     {
       "year": 1994,
@@ -4915,7 +5270,8 @@ const ARTIST_DATA = {
       "venue": "Patriot Center",
       "notes": "",
       "version": "AUD",
-      "format": "DVD"
+      "format": "DVD",
+      "textFile": "pj1994-04-08.csb.deq.flac.txt"
     },
     {
       "year": 1994,
@@ -4928,7 +5284,8 @@ const ARTIST_DATA = {
       "venue": "Boston Garden",
       "notes": "Custom Panasonic \u00b7 blg transfer",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "pj1994-04-10.pan.flac.txt"
     },
     {
       "year": 1994,
@@ -4941,7 +5298,8 @@ const ARTIST_DATA = {
       "venue": "Boston Garden",
       "notes": "unk",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "pj1994-04-10.unk.flac.txt"
     },
     {
       "year": 1994,
@@ -4954,7 +5312,8 @@ const ARTIST_DATA = {
       "venue": "Boston Garden *And the Pearls Sweep",
       "notes": "",
       "version": "Silver CD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "pj1994-04-11 - Boston, MA - Boston Gardens - VHS(1) [DVD].txt"
     },
     {
       "year": 1994,
@@ -4967,7 +5326,8 @@ const ARTIST_DATA = {
       "venue": "Boston Garden",
       "notes": "MTV \u00b7 animal projects",
       "version": "PRO",
-      "format": "DVD"
+      "format": "DVD",
+      "textFile": "pj1994-04-11.bootcd.flac.txt"
     },
     {
       "year": 1994,
@@ -4980,7 +5340,8 @@ const ARTIST_DATA = {
       "venue": "Boston Garden",
       "notes": "VHS(1)",
       "version": "AUD",
-      "format": "DVD"
+      "format": "DVD",
+      "textFile": "pj1994-04-11.dvd.txt"
     },
     {
       "year": 1994,
@@ -4993,7 +5354,8 @@ const ARTIST_DATA = {
       "venue": "Orpheum Theatre",
       "notes": "B&K 4011 \u00b7 terry watts transfer",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "pj1994-04-12- Boston, MA - Orpheum Theater (2nd gen) [DVD].txt"
     },
     {
       "year": 1994,
@@ -5006,7 +5368,8 @@ const ARTIST_DATA = {
       "venue": "Orpheum Theatre *Orpheum",
       "notes": "SV020",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "pj1994-04-12.b&k-4011s.flac.txt"
     },
     {
       "year": 1994,
@@ -5019,7 +5382,8 @@ const ARTIST_DATA = {
       "venue": "Orpheum Theatre",
       "notes": "2nd gen",
       "version": "AUD",
-      "format": "DVD"
+      "format": "DVD",
+      "textFile": "pj1994-04-12.sv020.flac.txt"
     },
     {
       "year": 1994,
@@ -5032,7 +5396,8 @@ const ARTIST_DATA = {
       "venue": "Saturuday Night Live Rehearsals",
       "notes": "tonia davis rip",
       "version": "TV",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "pj1994-04-14.bootcd.flac.txt"
     },
     {
       "year": 1994,
@@ -5045,7 +5410,8 @@ const ARTIST_DATA = {
       "venue": "NBC NY Studios / Saturday Night Live *Mesmerize",
       "notes": "",
       "version": "Silver CD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "pj1994-04-16 - New York, NY - SNL (PRO) [DVD].txt"
     },
     {
       "year": 1994,
@@ -5058,7 +5424,8 @@ const ARTIST_DATA = {
       "venue": "NBC NY Studios / Saturday Night Live",
       "notes": "jason a",
       "version": "TV",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "pj1994-04-16.bootcd.flac.txt"
     },
     {
       "year": 1994,
@@ -5071,7 +5438,8 @@ const ARTIST_DATA = {
       "venue": "NBC NY Studios / Saturday Night Live",
       "notes": "",
       "version": "PRO",
-      "format": "DVD"
+      "format": "DVD",
+      "textFile": "pj1994-04-16.tv.flac.txt"
     },
     {
       "year": 1994,
@@ -5084,7 +5452,8 @@ const ARTIST_DATA = {
       "venue": "Paramount Theater",
       "notes": "unk",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "pj1994-04-17.unk.flac.txt"
     },
     {
       "year": 1994,
@@ -5097,7 +5466,8 @@ const ARTIST_DATA = {
       "venue": "Shoreline Amphitheatre",
       "notes": "Bridge",
       "version": "Silver CD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "pj1994-10-01 - Mountain View, CA - Shoreline Amphitheatre - Bridge School Benefit [DVD].txt"
     },
     {
       "year": 1994,
@@ -5110,7 +5480,8 @@ const ARTIST_DATA = {
       "venue": "Shoreline Amphitheatre",
       "notes": "Bridge \u00b7 MK4 \u00b7 blg transfer",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "pj1994-10-01+02.bootcd.flac.txt"
     },
     {
       "year": 1994,
@@ -5123,7 +5494,8 @@ const ARTIST_DATA = {
       "venue": "Shoreline Amphitheatre",
       "notes": "Bridge",
       "version": "AUD",
-      "format": "DVD"
+      "format": "DVD",
+      "textFile": "pj1994-10-01.bootcd.flac.txt"
     },
     {
       "year": 1994,
@@ -5136,7 +5508,8 @@ const ARTIST_DATA = {
       "venue": "Shoreline Amphitheatre",
       "notes": "Bridge",
       "version": "SBD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "pj1994-10-02 - Mountain View, CA - Shoreline Amphitheatre - Bridge School Benefit [PRO].txt"
     },
     {
       "year": 1994,
@@ -5149,7 +5522,8 @@ const ARTIST_DATA = {
       "venue": "Shoreline Amphitheatre",
       "notes": "Bridge",
       "version": "PRO",
-      "format": "DVD"
+      "format": "DVD",
+      "textFile": "pj1994-10-02.sbd.flac.txt"
     },
     {
       "year": 1995,
@@ -5162,7 +5536,8 @@ const ARTIST_DATA = {
       "venue": "The Hideout / Self-Pollution Radio Broadcast",
       "notes": "",
       "version": "preFM",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "pj1995-01-08 - Seattle, WA - Self Pollution Radio (Webrip) [DVD].txt"
     },
     {
       "year": 1995,
@@ -5175,7 +5550,8 @@ const ARTIST_DATA = {
       "venue": "The Hideout / Self-Pollution Radio Broadcast",
       "notes": "",
       "version": "WEB",
-      "format": "DVD"
+      "format": "DVD",
+      "textFile": "pj1995-01-08.pre-fm.flac.txt"
     },
     {
       "year": 1995,
@@ -5188,7 +5564,8 @@ const ARTIST_DATA = {
       "venue": "Constitution Hall *Boundless + *Alive & Kickin",
       "notes": "",
       "version": "MIX",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "pj1995-01-14 - Washington, DC - Constitution Hall - VHS(2) (team dz) [DVD].txt"
     },
     {
       "year": 1995,
@@ -5201,7 +5578,8 @@ const ARTIST_DATA = {
       "venue": "Constitution Hall",
       "notes": "jwb remaster \u00b7 SBD Remaster Series 2012",
       "version": "SBD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "pj1995-01-14.mix.flac.txt"
     },
     {
       "year": 1995,
@@ -5214,7 +5592,8 @@ const ARTIST_DATA = {
       "venue": "Constitution Hall",
       "notes": "VHS(2) \u00b7 team dz",
       "version": "AUD",
-      "format": "DVD"
+      "format": "DVD",
+      "textFile": "pj1995-01-14.sbd.remaster.flac.txt"
     },
     {
       "year": 1995,
@@ -5227,7 +5606,8 @@ const ARTIST_DATA = {
       "venue": "Constitution Hall *Not For Ye",
       "notes": "",
       "version": "Silver CD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "pj1995-01-15 - Washinghton, DC - Constitution Hall - VHS(1) (team dz) [DVD].txt"
     },
     {
       "year": 1995,
@@ -5240,7 +5620,8 @@ const ARTIST_DATA = {
       "venue": "Constitution Hall",
       "notes": "SS DSM6",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "pj1995-01-15.bootcd.flac.txt"
     },
     {
       "year": 1995,
@@ -5253,7 +5634,8 @@ const ARTIST_DATA = {
       "venue": "Constitution Hall",
       "notes": "VHS(1) \u00b7 team dz",
       "version": "AUD",
-      "format": "DVD"
+      "format": "DVD",
+      "textFile": "pj1995-01-15.dsm6.flac.txt"
     },
     {
       "year": 1995,
@@ -5266,7 +5648,8 @@ const ARTIST_DATA = {
       "venue": "Moore Theater *Piss Bottle Men",
       "notes": "",
       "version": "Silver CD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "pj1995-02-05.bootcd.flac.txt"
     },
     {
       "year": 1995,
@@ -5279,7 +5662,8 @@ const ARTIST_DATA = {
       "venue": "Moore Theater (CSB)",
       "notes": "DAT(M) \u00b7 tapeworm48 transfer",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "pj1995-02-05.csb.flac16.txt"
     },
     {
       "year": 1995,
@@ -5292,7 +5676,8 @@ const ARTIST_DATA = {
       "venue": "Moore Theater (SS-DSM-6) (JEMS Master) 2025 Transfer",
       "notes": "",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "pj1995-02-05.ssdsm6s.jems.flac16.txt"
     },
     {
       "year": 1995,
@@ -5305,7 +5690,8 @@ const ARTIST_DATA = {
       "venue": "Moore Theater *Act of Love",
       "notes": "",
       "version": "Silver CD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "pj1995-02-06.bootcd.flac.txt"
     },
     {
       "year": 1995,
@@ -5318,7 +5704,8 @@ const ARTIST_DATA = {
       "venue": "Moore Theater",
       "notes": "DAT(M) \u00b7 SS \u00b7 tapeworm48",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "pj1995-02-06.ss.flac.txt"
     },
     {
       "year": 1995,
@@ -5331,7 +5718,8 @@ const ARTIST_DATA = {
       "venue": "University of Montana / Adams Field House (CSB) *Live from the Vitalogy Health Club",
       "notes": "",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "pj1995-02-08.bootcd.flac.txt"
     },
     {
       "year": 1995,
@@ -5344,7 +5732,8 @@ const ARTIST_DATA = {
       "venue": "University of Montana / Adams Field House",
       "notes": "DAT(M) \u00b7 Aiwa CM30 \u00b7 cps",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "pj1995-02-08.cm30.flac.txt"
     },
     {
       "year": 1995,
@@ -5357,7 +5746,8 @@ const ARTIST_DATA = {
       "venue": "University of Montana / Adams Field House",
       "notes": "DAT(1) \u00b7 CSB \u00b7 blg transfer",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "pj1995-02-08.csb.flac.txt"
     },
     {
       "year": 1995,
@@ -5370,7 +5760,8 @@ const ARTIST_DATA = {
       "venue": "Izumity 21 (Sun Plaza)",
       "notes": "DAT(c) \u00b7 ECM-TS 120 \u00b7 datfly",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "pj1995-02-18.ecm-ts120.flac.txt"
     },
     {
       "year": 1995,
@@ -5383,7 +5774,8 @@ const ARTIST_DATA = {
       "venue": "Budokan",
       "notes": "DAT(c) \u00b7 ECM-TS 120 \u00b7 datfly",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "pj1995-02-20.ecm-ts120.flac.txt"
     },
     {
       "year": 1995,
@@ -5396,7 +5788,8 @@ const ARTIST_DATA = {
       "venue": "Budokan",
       "notes": "unk",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "pj1995-02-20.unk.flac.txt"
     },
     {
       "year": 1995,
@@ -5409,7 +5802,8 @@ const ARTIST_DATA = {
       "venue": "Kosei Nenkin Kaikan",
       "notes": "DAT(1) \u00b7 DSM-6P \u00b7 datfly",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "pj1995-02-21 - Osaka, Japan - Kosei Nenkin Kaikan [DVD].txt"
     },
     {
       "year": 1995,
@@ -5422,7 +5816,8 @@ const ARTIST_DATA = {
       "venue": "Kosei Nenkin Kaikan",
       "notes": "low gen VHS",
       "version": "AUD",
-      "format": "DVD"
+      "format": "DVD",
+      "textFile": "pj1995-02-21.ss-dsm6p.flac.txt"
     },
     {
       "year": 1995,
@@ -5435,7 +5830,8 @@ const ARTIST_DATA = {
       "venue": "Folk Arts Center",
       "notes": "Realistic CTR-24 \u00b7 meghan house",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "pj1995-02-26.realistic.flac.txt"
     },
     {
       "year": 1995,
@@ -5448,7 +5844,8 @@ const ARTIST_DATA = {
       "venue": "Hau Mark Indoor Stadium",
       "notes": "ECM-939",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "pj1995-02-28.ecm939.flac.txt"
     },
     {
       "year": 1995,
@@ -5461,7 +5858,8 @@ const ARTIST_DATA = {
       "venue": "The Indoor Stadium",
       "notes": "ECM-939 \u00b7 ms",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "pj1995-03-03.ecm939.flac.txt"
     },
     {
       "year": 1995,
@@ -5474,7 +5872,8 @@ const ARTIST_DATA = {
       "venue": "Entertainment Center",
       "notes": "unk",
       "version": "AUD",
-      "format": "MP3"
+      "format": "MP3",
+      "textFile": "pj1995-03-06.unk.mp3.txt"
     },
     {
       "year": 1995,
@@ -5487,7 +5886,8 @@ const ARTIST_DATA = {
       "venue": "Memorial Drive Tennis Centre",
       "notes": "unk",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "pj1995-03-08.unk.flac.txt"
     },
     {
       "year": 1995,
@@ -5500,7 +5900,8 @@ const ARTIST_DATA = {
       "venue": "Entertainment Centre",
       "notes": "PC62",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "pj1995-03-10.pc62.deq.flac.txt"
     },
     {
       "year": 1995,
@@ -5513,7 +5914,8 @@ const ARTIST_DATA = {
       "venue": "Entertainment Centre",
       "notes": "PC62",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "pj1995-03-11.pc62.deq.flac.txt"
     },
     {
       "year": 1995,
@@ -5526,7 +5928,8 @@ const ARTIST_DATA = {
       "venue": "Exhibition Park",
       "notes": "unk",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "pj1995-03-14 - Canberra, Australia - Exhibition Park - PAL8MM(M) [DVD].txt"
     },
     {
       "year": 1995,
@@ -5539,7 +5942,8 @@ const ARTIST_DATA = {
       "venue": "Exhibition Park",
       "notes": "PAL \u00b7 M",
       "version": "AUD",
-      "format": "DVD"
+      "format": "DVD",
+      "textFile": "pj1995-03-14.unk.flac.txt"
     },
     {
       "year": 1995,
@@ -5552,7 +5956,8 @@ const ARTIST_DATA = {
       "venue": "Flinders Park Tennis Centre",
       "notes": "DAT(M) \u00b7 PC62 \u00b7 cps",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "pj1995-03-16 - Melbourne, Australia - Flinders Park Tennis Centre - VHS(1) [DVD].txt"
     },
     {
       "year": 1995,
@@ -5565,7 +5970,8 @@ const ARTIST_DATA = {
       "venue": "Flinders Park Tennis Centre",
       "notes": "VHS(1)",
       "version": "AUD",
-      "format": "DVD"
+      "format": "DVD",
+      "textFile": "pj1995-03-16.pc62.flac.txt"
     },
     {
       "year": 1995,
@@ -5578,7 +5984,8 @@ const ARTIST_DATA = {
       "venue": "Melbourne Park",
       "notes": "jwb remaster \u00b7 SBD Remaster Series 2012",
       "version": "SBD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "pj1995-03-17 - Melbourne, Australia - Flinders Park Tennis Centre - PAL 8MM(M) [DVD].txt"
     },
     {
       "year": 1995,
@@ -5591,7 +5998,8 @@ const ARTIST_DATA = {
       "venue": "Melbourne Park *Futures",
       "notes": "SV041",
       "version": "SBD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "pj1995-03-17.sbd.remaster.flac.txt"
     },
     {
       "year": 1995,
@@ -5604,7 +6012,8 @@ const ARTIST_DATA = {
       "venue": "Melbourne Park",
       "notes": "PAL \u00b7 M",
       "version": "AUD",
-      "format": "DVD"
+      "format": "DVD",
+      "textFile": "pj1995-03-17.sv041.flac.txt"
     },
     {
       "year": 1995,
@@ -5617,7 +6026,8 @@ const ARTIST_DATA = {
       "venue": "Sidney Myers Music Bowl",
       "notes": "DAT(M) \u00b7 Sony PC-62 \u00b7 mareede remaster",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "pj1995-03-18.pc-62.remaster.flac.txt"
     },
     {
       "year": 1995,
@@ -5630,7 +6040,8 @@ const ARTIST_DATA = {
       "venue": "Entertainment Centre",
       "notes": "dEQ",
       "version": "SBD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "pj1995-03-21.sbd.deq.flac.txt"
     },
     {
       "year": 1995,
@@ -5643,7 +6054,8 @@ const ARTIST_DATA = {
       "venue": "Entertainment Centre",
       "notes": "DAT(c) \u00b7 Sony TS-120 \u00b7 blg transfer",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "pj1995-03-22.ecm-ts120.flac.txt"
     },
     {
       "year": 1995,
@@ -5656,7 +6068,8 @@ const ARTIST_DATA = {
       "venue": "Mt. Smart Super Top",
       "notes": "unk",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "pj1995-03-24.unk.flac.txt"
     },
     {
       "year": 1995,
@@ -5669,7 +6082,8 @@ const ARTIST_DATA = {
       "venue": "Mt. Smart Super Top",
       "notes": "unk",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "pj1995-03-24.unk2.flac.txt"
     },
     {
       "year": 1995,
@@ -5682,7 +6096,8 @@ const ARTIST_DATA = {
       "venue": "Mt. Smart Super Top",
       "notes": "unk",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "pj1995-03-25.unk.flac.txt"
     },
     {
       "year": 1995,
@@ -5695,7 +6110,8 @@ const ARTIST_DATA = {
       "venue": "Casper Events Center",
       "notes": "Marcsounds (fge",
       "version": "MIX",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "pj1995-06-16 - Casper, WI - Casper Events Center (PRO) - Hi8(M) [DVD].txt"
     },
     {
       "year": 1995,
@@ -5708,7 +6124,8 @@ const ARTIST_DATA = {
       "venue": "Casper Events Center",
       "notes": "Hi8(M) \u00b7 2 cam mix",
       "version": "PRO",
-      "format": "DVD"
+      "format": "DVD",
+      "textFile": "pj1995-06-16.mix.flac.txt"
     },
     {
       "year": 1995,
@@ -5721,7 +6138,8 @@ const ARTIST_DATA = {
       "venue": "Red Rocks Amphitheatre",
       "notes": "DAT(M) \u00b7 SS \u00b7 cps",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "pj1995-06-19 - Morrison, CO - Red Rocks Amphitheatre (PRO) - Hi8(M) [DVD].txt"
     },
     {
       "year": 1995,
@@ -5734,7 +6152,8 @@ const ARTIST_DATA = {
       "venue": "Red Rocks Amphitheatre",
       "notes": "Hi8(M)",
       "version": "PRO",
-      "format": "DVD"
+      "format": "DVD",
+      "textFile": "pj1995-06-19.dsm6.flac.txt"
     },
     {
       "year": 1995,
@@ -5747,7 +6166,8 @@ const ARTIST_DATA = {
       "venue": "Red Rocks Amphitheatre *Ajamimala",
       "notes": "SV014 \u00b7 3 source mix \u00b7 fred evans remaster",
       "version": "MIX",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "pj1995-06-20 - Morrison, CO - Red Rocks Amphitheatre - Hi8(M) (PRO) [DVD].txt"
     },
     {
       "year": 1995,
@@ -5760,7 +6180,8 @@ const ARTIST_DATA = {
       "venue": "Red Rocks Amphitheatre",
       "notes": "DAT(M) \u00b7 MarcSounds \u00b7 mr",
       "version": "AUD (48k)",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "pj1995-06-20.marcsounds.flac16.txt"
     },
     {
       "year": 1995,
@@ -5773,7 +6194,8 @@ const ARTIST_DATA = {
       "venue": "Red Rocks Amphitheatre",
       "notes": "Hi8(M)",
       "version": "PRO",
-      "format": "DVD"
+      "format": "DVD",
+      "textFile": "pj1995-06-20.sv014.flac.txt"
     },
     {
       "year": 1995,
@@ -5786,7 +6208,8 @@ const ARTIST_DATA = {
       "venue": "Cal Expo Amphitheatre",
       "notes": "Core Sounds \u00b7 blg transfer",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "pj1995-06-22 - Sacramento, CA - Cal Expo Amphitheater [DVD].txt"
     },
     {
       "year": 1995,
@@ -5799,7 +6222,8 @@ const ARTIST_DATA = {
       "venue": "Cal Expo Amphitheatre",
       "notes": "DAT(c) \u00b7 Schoeps MK5 \u00b7 datfly",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "pj1995-06-22.cs.deq.flac.txt"
     },
     {
       "year": 1995,
@@ -5812,7 +6236,8 @@ const ARTIST_DATA = {
       "venue": "Cal Expo Amphitheatre",
       "notes": "",
       "version": "AUD",
-      "format": "DVD"
+      "format": "DVD",
+      "textFile": "pj1995-06-22.schoeps-mk5.flac.txt"
     },
     {
       "year": 1995,
@@ -5825,7 +6250,8 @@ const ARTIST_DATA = {
       "venue": "Golden Gate Park",
       "notes": "Polo \u00b7 M \u00b7 SS DSM6 \u00b7 vikas",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "pj1995-06-24.dsm6.flac.txt"
     },
     {
       "year": 1995,
@@ -5838,7 +6264,8 @@ const ARTIST_DATA = {
       "venue": "Marcus Amphitheatre",
       "notes": "DAT(M) \u00b7 SS DSM6 \u00b7 jr",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "pj1995-07-08.ss-dsm6.flac.txt"
     },
     {
       "year": 1995,
@@ -5851,7 +6278,8 @@ const ARTIST_DATA = {
       "venue": "Marcus Amphitheatre *Cryptosporidium",
       "notes": "SV003 \u00b7 dave posluszny remaster",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "pj1995-07-08.sv003.flac.txt"
     },
     {
       "year": 1995,
@@ -5864,7 +6292,8 @@ const ARTIST_DATA = {
       "venue": "Marcus Amphitheatre",
       "notes": "Core Sounds",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "pj1995-07-09 - Milwaukee, WI - Marcus Amphitheater - VHS(1) [DVD].txt"
     },
     {
       "year": 1995,
@@ -5877,7 +6306,8 @@ const ARTIST_DATA = {
       "venue": "Marcus Amphitheatre (CSB) (SV008) *Cryptosporideium II",
       "notes": "Maggot Brain \u00b7 fred evans remaster",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "pj1995-07-09.cs.deq.flac.txt"
     },
     {
       "year": 1995,
@@ -5890,7 +6320,8 @@ const ARTIST_DATA = {
       "venue": "Marcus Amphitheatre",
       "notes": "VHS(1)",
       "version": "AUD",
-      "format": "DVD"
+      "format": "DVD",
+      "textFile": "pj1995-07-09.sv008.flac.txt"
     },
     {
       "year": 1995,
@@ -5903,7 +6334,8 @@ const ARTIST_DATA = {
       "venue": "Soldier Field",
       "notes": "Vault #7",
       "version": "SBD",
-      "format": "FLAC HD"
+      "format": "FLAC HD",
+      "textFile": "pj1995-07-11 - Chicago, IL - Soldier Field [DVD].txt"
     },
     {
       "year": 1995,
@@ -5916,7 +6348,8 @@ const ARTIST_DATA = {
       "venue": "Soldier Field",
       "notes": "2 source mix \u00b7 blg transfer",
       "version": "MIX",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "pj1995-07-11.mix.flac.txt"
     },
     {
       "year": 1995,
@@ -5942,7 +6375,8 @@ const ARTIST_DATA = {
       "venue": "Veterans Coliseum",
       "notes": "Nakamichi 700 \u00b7 fge remaster",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "pj1995-09-13 - Phoenix, AZ - Veterans Coliseum - VHS(1) [DVD].txt"
     },
     {
       "year": 1995,
@@ -5955,7 +6389,8 @@ const ARTIST_DATA = {
       "venue": "Veterans Coliseum",
       "notes": "VHS(1)",
       "version": "AUD",
-      "format": "DVD"
+      "format": "DVD",
+      "textFile": "pj1995-09-13.nak700.deq.flac.txt"
     },
     {
       "year": 1995,
@@ -5968,7 +6403,8 @@ const ARTIST_DATA = {
       "venue": "Pan American Center",
       "notes": "DAT(M) \u00b7 Nakamichi CM700 \u00b7 cps",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "pj1995-09-14.nak700.flac.txt"
     },
     {
       "year": 1995,
@@ -5981,7 +6417,8 @@ const ARTIST_DATA = {
       "venue": "South Park Meadows",
       "notes": "DAT(2) \u00b7 CSB \u00b7 meghan house",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "pj1995-09-16 - Austin, TX - South Park Meadows (Shure SM57) (inc) [AUD].txt"
     },
     {
       "year": 1995,
@@ -5994,7 +6431,8 @@ const ARTIST_DATA = {
       "venue": "South Park Meadows",
       "notes": "DAT(1) \u00b7 SS DSM 6S \u00b7 cm",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "pj1995-09-16.csb.flac.txt"
     },
     {
       "year": 1995,
@@ -6007,7 +6445,8 @@ const ARTIST_DATA = {
       "venue": "South Park Meadows",
       "notes": "Shure SM57 \u00b7 inc \u00b7 mookieblaylocked",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "pj1995-09-16.ss-dsm6s.flac.txt"
     },
     {
       "year": 1995,
@@ -6020,7 +6459,8 @@ const ARTIST_DATA = {
       "venue": "Tad Gormley Stadium",
       "notes": "CSB",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "pj1995-09-17 - New Orleans, LA - Tad Gormley Stadium (2 Cam mix) [DVD].txt"
     },
     {
       "year": 1995,
@@ -6033,7 +6473,8 @@ const ARTIST_DATA = {
       "venue": "Tad Gormley Stadium",
       "notes": "2 cam mix",
       "version": "AUD",
-      "format": "DVD"
+      "format": "DVD",
+      "textFile": "pj1995-09-17.csb.deq.flac.txt"
     },
     {
       "year": 1995,
@@ -6046,7 +6487,8 @@ const ARTIST_DATA = {
       "venue": "Delta Center (The Monkeywrench Chronicles Vol. 1) *Rage",
       "notes": "SV051 \u00b7 jwb remaster \u00b7 SBD Remaster Series 2012",
       "version": "SBD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "pj1995-11-01-07.sv051-sv056 - The Monkeywrench Chronicles.txt"
     },
     {
       "year": 1995,
@@ -6059,7 +6501,8 @@ const ARTIST_DATA = {
       "venue": "Delta Center",
       "notes": "DAT \u00b7 heywood transfer",
       "version": "AUD",
-      "format": "FLAC 24"
+      "format": "FLAC 24",
+      "textFile": "pj1995-11-01.dat.flac.txt"
     },
     {
       "year": 1995,
@@ -6072,7 +6515,8 @@ const ARTIST_DATA = {
       "venue": "Delta Center",
       "notes": "DAT \u00b7 heywood transfer",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "pj1995-11-01.dat.heywood.flac16 .txt"
     },
     {
       "year": 1995,
@@ -6085,7 +6529,8 @@ const ARTIST_DATA = {
       "venue": "Delta Center (The Monkeywrench Chronicles Vol. 2) *Abandon",
       "notes": "SV052",
       "version": "SBD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "pj1995-11-02-salt-lake-city-dgr.txt"
     },
     {
       "year": 1995,
@@ -6111,7 +6556,8 @@ const ARTIST_DATA = {
       "venue": "Spartan Stadium (The Monkeywrench Chronicles Vol. 3) *Rise",
       "notes": "SV053",
       "version": "SBD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "pj1995-11-04 - San Jose, CA - Spartan Stadium [DVD].txt"
     },
     {
       "year": 1995,
@@ -6124,7 +6570,8 @@ const ARTIST_DATA = {
       "venue": "Spartan Stadium (The Monkeywrench Chronicles Vol. 4)  *Anxiety",
       "notes": "SV054",
       "version": "SBD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "pj1995-11-04-san-jose-dgr.txt"
     },
     {
       "year": 1995,
@@ -6137,7 +6584,8 @@ const ARTIST_DATA = {
       "venue": "Spartan Stadium",
       "notes": "KOME Radio Promo",
       "version": "Silver CD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "pj1995-11-04.promocd.flac.txt"
     },
     {
       "year": 1995,
@@ -6150,7 +6598,8 @@ const ARTIST_DATA = {
       "venue": "Spartan Stadium",
       "notes": "DGR v1",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "pj1995-11-04.remastered.flac16.txt"
     },
     {
       "year": 1995,
@@ -6189,7 +6638,8 @@ const ARTIST_DATA = {
       "venue": "San Diego Sports Arena (The Monkeywrench Chronicles Vol. 5) *Avail",
       "notes": "SV055",
       "version": "FM",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "pj1995-11-06 - San Diego, CA - Sports Arena - DAT(M) [AUD].txt"
     },
     {
       "year": 1995,
@@ -6202,7 +6652,8 @@ const ARTIST_DATA = {
       "venue": "San Diego Sports Arena",
       "notes": "DAT(M) \u00b7 third eye",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "pj1995-11-06 - San Diego, CA - Sports Arena [DVD].txt"
     },
     {
       "year": 1995,
@@ -6215,7 +6666,8 @@ const ARTIST_DATA = {
       "venue": "San Diego Sports Arena",
       "notes": "",
       "version": "AUD",
-      "format": "DVD"
+      "format": "DVD",
+      "textFile": "pj1995-11-06.monofm.flac.txt"
     },
     {
       "year": 1995,
@@ -6228,7 +6680,8 @@ const ARTIST_DATA = {
       "venue": "San Diego Sports Arena (The Monkeywrench Chronicles Vol. 6) *Resolve",
       "notes": "SV056",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "pj1995-11-07 - San Diego, CA - Sports Arena - VHS(2) [DVD].txt"
     },
     {
       "year": 1995,
@@ -6267,7 +6720,8 @@ const ARTIST_DATA = {
       "venue": "Showbox Theater",
       "notes": "CSB \u00b7 fge remaster",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "pj1996-09-14.csb.flac.txt"
     },
     {
       "year": 1996,
@@ -6280,7 +6734,8 @@ const ARTIST_DATA = {
       "venue": "Key Arena",
       "notes": "SS-DSM6P \u00b7 steve hagar",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "pj1996-09-16.dsm-6p.flac.txt"
     },
     {
       "year": 1996,
@@ -6293,7 +6748,8 @@ const ARTIST_DATA = {
       "venue": "Key Arena",
       "notes": "ro master \u00b7 blg edit",
       "version": "MIX",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "pj1996-09-16.mix.flac.txt"
     },
     {
       "year": 1996,
@@ -6306,7 +6762,8 @@ const ARTIST_DATA = {
       "venue": "Ed Sullivan Theater",
       "notes": "Late show with David Letterman \u00b7 datfly",
       "version": "TV",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "pj1996-09-20.tv.flac.txt"
     },
     {
       "year": 1996,
@@ -6319,7 +6776,8 @@ const ARTIST_DATA = {
       "venue": "Maple Leaf Gardens",
       "notes": "DAT(M) \u00b7 Sennheiser MKE-2002 \u00b7 m. sloggett",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "pj1996-09-21 - Toronto (3 Cam Mix) AP DVD9.txt"
     },
     {
       "year": 1996,
@@ -6332,7 +6790,8 @@ const ARTIST_DATA = {
       "venue": "Maple Leaf Gardens (Countryman Isomax II) *Die Tie Die",
       "notes": "SV004",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "pj1996-09-21 - Toronto, , Ontario - Maple Leaf Gardens - VHS(2) (DMR-EH50) [DVD].txt"
     },
     {
       "year": 1996,
@@ -6345,7 +6804,8 @@ const ARTIST_DATA = {
       "venue": "Maple Leaf Gardens",
       "notes": "3 cam mix",
       "version": "AUD",
-      "format": "DVD"
+      "format": "DVD",
+      "textFile": "pj1996-09-21.senn.flac.txt"
     },
     {
       "year": 1996,
@@ -6358,7 +6818,8 @@ const ARTIST_DATA = {
       "venue": "Maple Leaf Gardens",
       "notes": "VHS(2) \u00b7 DMR-EH50",
       "version": "AUD",
-      "format": "DVD"
+      "format": "DVD",
+      "textFile": "pj1996-09-21.sv004.flac.txt"
     },
     {
       "year": 1996,
@@ -6371,7 +6832,8 @@ const ARTIST_DATA = {
       "venue": "John F. Savage Hall",
       "notes": "2 source mix \u00b7 CM300+Countryman \u00b7 blg edit",
       "version": "MIX",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "pj1996-09-22 - Toledo, OH - John F Savage Hall (2 cam mix) [DVD].txt"
     },
     {
       "year": 1996,
@@ -6384,7 +6846,8 @@ const ARTIST_DATA = {
       "venue": "John F. Savage Hall *Toledo 96",
       "notes": "SV058 \u00b7 Countryman Isomax II",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "pj1996-09-22.mix.flac.txt"
     },
     {
       "year": 1996,
@@ -6397,7 +6860,8 @@ const ARTIST_DATA = {
       "venue": "John F. Savage Hall",
       "notes": "2 cam mix",
       "version": "AUD",
-      "format": "DVD"
+      "format": "DVD",
+      "textFile": "pj1996-09-22.sv058.flac.txt"
     },
     {
       "year": 1996,
@@ -6410,7 +6874,8 @@ const ARTIST_DATA = {
       "venue": "Merriweather Post Pavilion",
       "notes": "DAT(M) \u00b7 Ambisonic ST-250 \u00b7 cps",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "pj1996-09-24.ams.flac.txt"
     },
     {
       "year": 1996,
@@ -6423,7 +6888,8 @@ const ARTIST_DATA = {
       "venue": "Merriweather Post Pavilion",
       "notes": "DAT(c) \u00b7 Schoeps MK4 \u00b7 jr",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "pj1996-09-24.mk4.flac.txt"
     },
     {
       "year": 1996,
@@ -6436,7 +6902,8 @@ const ARTIST_DATA = {
       "venue": "Augusta Civic Center",
       "notes": "2 source mix \u00b7 Nak CM300 + AT822 \u00b7 blg edit",
       "version": "MIX",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "pj1996-09-26.mix.flac.txt"
     },
     {
       "year": 1996,
@@ -6449,7 +6916,8 @@ const ARTIST_DATA = {
       "venue": "Augusta Civic Center",
       "notes": "DAT(c) \u00b7 Sennheiser 441 \u00b7 jr",
       "version": "",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "pj1996-09-26.tcd-d7.flac.txt"
     },
     {
       "year": 1996,
@@ -6462,7 +6930,8 @@ const ARTIST_DATA = {
       "venue": "Downing Stadium",
       "notes": "ECM-144 \u00b7 blg transfer",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "pj1996-09-28 - Randalls Island, NY - Downing Stadium - Hi8(M) [DVD].txt"
     },
     {
       "year": 1996,
@@ -6475,7 +6944,8 @@ const ARTIST_DATA = {
       "venue": "Downing Stadium",
       "notes": "Hi8(M)",
       "version": "AUD",
-      "format": "DVD"
+      "format": "DVD",
+      "textFile": "pj1996-09-28 - Randalls Island, NY - Downing Stadium [DVD].txt"
     },
     {
       "year": 1996,
@@ -6488,7 +6958,8 @@ const ARTIST_DATA = {
       "venue": "Downing Stadium",
       "notes": "unk",
       "version": "AUD",
-      "format": "DVD"
+      "format": "DVD",
+      "textFile": "pj1996-09-28.ecm-144.flac.txt"
     },
     {
       "year": 1996,
@@ -6501,7 +6972,8 @@ const ARTIST_DATA = {
       "venue": "Downing Stadium",
       "notes": "DAT(M) \u00b7 AKG 391",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "pj1996-09-29 - Randalls Island, NY - Downing Stadium (3 Cam-Mix) [DVD].txt"
     },
     {
       "year": 1996,
@@ -6514,7 +6986,8 @@ const ARTIST_DATA = {
       "venue": "Downing Stadium",
       "notes": "ECM-909 \u00b7 jen",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "pj1996-09-29.akg- 391.flac.txt"
     },
     {
       "year": 1996,
@@ -6527,7 +7000,8 @@ const ARTIST_DATA = {
       "venue": "Downing Stadium",
       "notes": "SS DSM6",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "pj1996-09-29.ecm-909.flac.txt"
     },
     {
       "year": 1996,
@@ -6540,7 +7014,8 @@ const ARTIST_DATA = {
       "venue": "Downing Stadium",
       "notes": "3-cam mix",
       "version": "AUD",
-      "format": "DVD"
+      "format": "DVD",
+      "textFile": "pj1996-09-29.ss-dsm6.flac.txt"
     },
     {
       "year": 1996,
@@ -6553,7 +7028,8 @@ const ARTIST_DATA = {
       "venue": "Marine Midland Arena",
       "notes": "SBD/AUD mix \u00b7 ross pezl mix",
       "version": "MIX",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "pj1996-10-01 - Buffalo, NY - Marine Midland Arena - VHS(1) [DVD].txt"
     },
     {
       "year": 1996,
@@ -6566,7 +7042,8 @@ const ARTIST_DATA = {
       "venue": "Marine Midland Arena",
       "notes": "Sony D7 \u00b7 joel gershon \u00b7 remaster",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "pj1996-10-01.mix.flac.txt"
     },
     {
       "year": 1996,
@@ -6579,7 +7056,8 @@ const ARTIST_DATA = {
       "venue": "Marine Midland Arena",
       "notes": "VHS(1)",
       "version": "AUD",
-      "format": "DVD"
+      "format": "DVD",
+      "textFile": "pj1996-10-01.sony-d7.remaster.flac.txt"
     },
     {
       "year": 1996,
@@ -6592,7 +7070,8 @@ const ARTIST_DATA = {
       "venue": "Meadows Music Theatre *A Riot in the Meadows",
       "notes": "SV032",
       "version": "MIX",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "pj1996-10-02.sv032.mix.deq.flac.txt"
     },
     {
       "year": 1996,
@@ -6605,7 +7084,8 @@ const ARTIST_DATA = {
       "venue": "Memorial Stadium *Little White Lies",
       "notes": "SV017 \u00b7 Countryman Isomax II",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "pj1996-10-04 - Charlotte, NC - Memorial Stadium [DVD].txt"
     },
     {
       "year": 1996,
@@ -6618,7 +7098,8 @@ const ARTIST_DATA = {
       "venue": "Memorial Stadium",
       "notes": "",
       "version": "AUD",
-      "format": "DVD"
+      "format": "DVD",
+      "textFile": "pj1996-10-04.sv017.flac.txt"
     },
     {
       "year": 1996,
@@ -6631,7 +7112,8 @@ const ARTIST_DATA = {
       "venue": "North Charleston Coliseum",
       "notes": "2 source mix \u00b7 Countryman Isomax II + AKG460b \u00b7 blg edit",
       "version": "MIX",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "pj1996-10-05.mix.flac.txt"
     },
     {
       "year": 1996,
@@ -6644,7 +7126,8 @@ const ARTIST_DATA = {
       "venue": "Ft. Lauderdale Stadium",
       "notes": "SS DSM-6P \u00b7 datfly",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "pj1996-10-07.dsm-6p.flac.txt"
     },
     {
       "year": 1996,
@@ -6657,7 +7140,8 @@ const ARTIST_DATA = {
       "venue": "Bridge School Benefit",
       "notes": "Schoeps/Pro Video mix",
       "version": "MIX",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "pj1996-10-19 - Mountain View, CA - Shoreline Amphitheatre (PRO) [DVD].txt"
     },
     {
       "year": 1996,
@@ -6670,7 +7154,8 @@ const ARTIST_DATA = {
       "venue": "Bridge School Benefit",
       "notes": "",
       "version": "SBD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "pj1996-10-19.mix.flac.txt"
     },
     {
       "year": 1996,
@@ -6683,7 +7168,8 @@ const ARTIST_DATA = {
       "venue": "Bridge School Benefit",
       "notes": "",
       "version": "PRO",
-      "format": "DVD"
+      "format": "DVD",
+      "textFile": "pj1996-10-19.sbd.flac.txt"
     },
     {
       "year": 1996,
@@ -6696,7 +7182,8 @@ const ARTIST_DATA = {
       "venue": "Bridge School Benefit",
       "notes": "DAT(c) \u00b7 CMC-441",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "pj1996-10-20.cmII.flac.txt"
     },
     {
       "year": 1996,
@@ -6709,7 +7196,8 @@ const ARTIST_DATA = {
       "venue": "Bridge School Benefit",
       "notes": "Countryman Isomax II",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "pj1996-10-20.cmc-441.deq.flac.txt"
     },
     {
       "year": 1996,
@@ -6722,7 +7210,8 @@ const ARTIST_DATA = {
       "venue": "Bridge School Benefit",
       "notes": "FOB \u00b7 oldneumanntapr",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "pj1996-10-20.dat-m.fob.tedmattes.schoeps.flac16.txt"
     },
     {
       "year": 1996,
@@ -6735,7 +7224,8 @@ const ARTIST_DATA = {
       "venue": "Bridge School Benefit",
       "notes": "DAT(M) \u00b7 Schoeps MK4 \u00b7 ted mattes",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "pj1996-10-20.nighttwo.proshot.txt"
     },
     {
       "year": 1996,
@@ -6748,7 +7238,8 @@ const ARTIST_DATA = {
       "venue": "Bridge School Benefit",
       "notes": "unk \u00b7 neekrive",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "pj1996-10-20.unk.flac.txt"
     },
     {
       "year": 1996,
@@ -6774,7 +7265,8 @@ const ARTIST_DATA = {
       "venue": "Millstreet Arena",
       "notes": "DAT(c) \u00b7 CSB \u00b7 jr",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "pj1996-10-24.csb.flac.txt"
     },
     {
       "year": 1996,
@@ -6787,7 +7279,8 @@ const ARTIST_DATA = {
       "venue": "The Pointe Theatre",
       "notes": "CSB",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "pj1996-10-26.csb.deq.flac.txt"
     },
     {
       "year": 1996,
@@ -6800,7 +7293,8 @@ const ARTIST_DATA = {
       "venue": "Wembley Arena",
       "notes": "Core Sounds",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "pj1996-10-28 -London, England - Wembley Arena [DVD].txt"
     },
     {
       "year": 1996,
@@ -6813,7 +7307,8 @@ const ARTIST_DATA = {
       "venue": "Wembley Arena",
       "notes": "",
       "version": "AUD",
-      "format": "DVD"
+      "format": "DVD",
+      "textFile": "pj1996-10-28.remaster.csb.flac.txt"
     },
     {
       "year": 1996,
@@ -6826,7 +7321,8 @@ const ARTIST_DATA = {
       "venue": "Wembley Arena",
       "notes": "Countryman Isomax II",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "pj1996-10-29.cmII.flac.txt"
     },
     {
       "year": 1996,
@@ -6839,7 +7335,8 @@ const ARTIST_DATA = {
       "venue": "Torwar",
       "notes": "DAT(c) \u00b7 CSB \u00b7 jr",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "pj1996-11-01.csb.flac.txt"
     },
     {
       "year": 1996,
@@ -6852,7 +7349,8 @@ const ARTIST_DATA = {
       "venue": "Deutcschlandhalle",
       "notes": "jwb remaster \u00b7 SBD Remaster Series 2012",
       "version": "SBD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "pj1996-11-03 - Deutschlandhalle, Berlin, DEU [AMT] (2DVD).txt"
     },
     {
       "year": 1996,
@@ -6865,7 +7363,8 @@ const ARTIST_DATA = {
       "venue": "Deutcschlandhalle *Hunger Strike",
       "notes": "",
       "version": "SBD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "pj1996-11-03.sbd.bootcd.flac.txt"
     },
     {
       "year": 1996,
@@ -6878,7 +7377,8 @@ const ARTIST_DATA = {
       "venue": "Deutcschlandhalle *Ic bin ein Berliner",
       "notes": "SV050",
       "version": "preFM",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "pj1996-11-03.sbd.remaster.flac.txt"
     },
     {
       "year": 1996,
@@ -6891,7 +7391,8 @@ const ARTIST_DATA = {
       "venue": "Deutcschlandhalle",
       "notes": "AMT",
       "version": "AUD",
-      "format": "DVD"
+      "format": "DVD",
+      "textFile": "pj1996-11-03.sv050.flac.txt"
     },
     {
       "year": 1996,
@@ -6904,7 +7405,8 @@ const ARTIST_DATA = {
       "venue": "Sporthalle",
       "notes": "2 source mix \u00b7 blg edit",
       "version": "MIX",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "pj1996-11-04 - Hamburg, Germany - Sporthalle - VHS(1) (halo transfer) [DVD].txt"
     },
     {
       "year": 1996,
@@ -6917,7 +7419,8 @@ const ARTIST_DATA = {
       "venue": "Sporthalle",
       "notes": "VHS(1) \u00b7 halo transfer",
       "version": "AUD",
-      "format": "DVD"
+      "format": "DVD",
+      "textFile": "pj1996-11-04.mixV2.flac.txt"
     },
     {
       "year": 1996,
@@ -6930,7 +7433,8 @@ const ARTIST_DATA = {
       "venue": "RAI Parkhal",
       "notes": "Countryman Isomax II",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "pj1996-11-06.cmII.flac.txt"
     },
     {
       "year": 1996,
@@ -6943,7 +7447,8 @@ const ARTIST_DATA = {
       "venue": "Zenith *French Class",
       "notes": "SP 006/007",
       "version": "Silver CD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "pj1996-11-07.bootcd.flac.txt"
     },
     {
       "year": 1996,
@@ -6956,7 +7461,8 @@ const ARTIST_DATA = {
       "venue": "Zenith",
       "notes": "Countryman Isomax II",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "pj1996-11-07.remaster.cmII.flac.txt"
     },
     {
       "year": 1996,
@@ -6969,7 +7475,8 @@ const ARTIST_DATA = {
       "venue": "Hallenstadion",
       "notes": "Core Sounds",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "pj1996-11-09.csb.flac.txt"
     },
     {
       "year": 1996,
@@ -6982,7 +7489,8 @@ const ARTIST_DATA = {
       "venue": "Palaeur",
       "notes": "Core Sounds \u00b7 compiled by spacedvest",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "pj1996-11-12 - Rome, Italy - Palaeur [DVD].txt"
     },
     {
       "year": 1996,
@@ -6995,7 +7503,8 @@ const ARTIST_DATA = {
       "venue": "Palaeur",
       "notes": "VHS(x)",
       "version": "AUD",
-      "format": "DVD"
+      "format": "DVD",
+      "textFile": "pj1996-11-12.csb.deq.flac.txt"
     },
     {
       "year": 1996,
@@ -7008,7 +7517,8 @@ const ARTIST_DATA = {
       "venue": "Forum",
       "notes": "Sony WM-D6C \u00b7 zuma66",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "pj1996-11-13 - Milan, Italy - 2 source mix (jamriver) [DVD].txt"
     },
     {
       "year": 1996,
@@ -7021,7 +7531,8 @@ const ARTIST_DATA = {
       "venue": "Forum",
       "notes": "Countryman Isomax II",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "pj1996-11-13.cmII.flac.txt"
     },
     {
       "year": 1996,
@@ -7034,7 +7545,8 @@ const ARTIST_DATA = {
       "venue": "Forum",
       "notes": "DAT \u00b7 ldb series #232",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "pj1996-11-13.dat.flac.txt"
     },
     {
       "year": 1996,
@@ -7047,7 +7559,8 @@ const ARTIST_DATA = {
       "venue": "Forum",
       "notes": "2 source mix \u00b7 jamriver",
       "version": "AUD",
-      "format": "DVD"
+      "format": "DVD",
+      "textFile": "pj1996-11-13.zuma66.flac16.txt"
     },
     {
       "year": 1996,
@@ -7060,7 +7573,8 @@ const ARTIST_DATA = {
       "venue": "Sports Hall",
       "notes": "LDB Master Series #77 \u00b7 Aiwa CM-30A",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "pj1996-11-15 - Prague, Czech Republic - Sports Hall - VHS(2) [DVD].txt"
     },
     {
       "year": 1996,
@@ -7073,7 +7587,8 @@ const ARTIST_DATA = {
       "venue": "Sports Hall",
       "notes": "CSB",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "pj1996-11-15.cm-30a.flac.txt"
     },
     {
       "year": 1996,
@@ -7086,7 +7601,8 @@ const ARTIST_DATA = {
       "venue": "Sports Hall",
       "notes": "VHS(2)",
       "version": "AUD",
-      "format": "DVD"
+      "format": "DVD",
+      "textFile": "pj1996-11-15.csb.flac.txt"
     },
     {
       "year": 1996,
@@ -7099,7 +7615,8 @@ const ARTIST_DATA = {
       "venue": "- ANA(1) Sports Hall",
       "notes": "BIC mic",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "pj1996-11-17.bicmic.ana1.flac.txt"
     },
     {
       "year": 1996,
@@ -7112,7 +7629,8 @@ const ARTIST_DATA = {
       "venue": "Sports Hall",
       "notes": "AKG D200e \u00b7 ted drale",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "pj1996-11-17.d200.drale-berger.flac.txt"
     },
     {
       "year": 1996,
@@ -7125,7 +7643,8 @@ const ARTIST_DATA = {
       "venue": "World Trade Center",
       "notes": "ANA(1) \u00b7 BIC mic \u00b7 cps",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "pj1996-11-19.bicmic.ana1.flac.txt"
     },
     {
       "year": 1996,
@@ -7138,7 +7657,8 @@ const ARTIST_DATA = {
       "venue": "Sports Palace *Mediterranean Homesick Blues",
       "notes": "Bob 013/014",
       "version": "Silver CD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "pj1996-11-21.bootcd.flac.txt"
     },
     {
       "year": 1996,
@@ -7151,7 +7671,8 @@ const ARTIST_DATA = {
       "venue": "Sports Palace",
       "notes": "Countryman Isomax II \u00b7 remaster",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "pj1996-11-21.remaster.cmII.flac.txt"
     },
     {
       "year": 1996,
@@ -7164,7 +7685,8 @@ const ARTIST_DATA = {
       "venue": "Anoeta Velodrome",
       "notes": "Countryman Isomax II \u00b7 remaster",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "pj1996-11-22.remaster.cmII.flac.txt"
     },
     {
       "year": 1996,
@@ -7177,7 +7699,8 @@ const ARTIST_DATA = {
       "venue": "Dramatico",
       "notes": "DAT(M) \u00b7 SS \u00b7 blg transfer",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "pj1996-11-24 - Cascais, Portugal - Dramatico - VHS(1) [DVD].txt"
     },
     {
       "year": 1996,
@@ -7190,7 +7713,8 @@ const ARTIST_DATA = {
       "venue": "Dramatico",
       "notes": "VHS(1)",
       "version": "AUD",
-      "format": "DVD"
+      "format": "DVD",
+      "textFile": "pj1996-11-24.ss.flac.txt"
     },
     {
       "year": 1996,
@@ -7203,7 +7727,8 @@ const ARTIST_DATA = {
       "venue": "Dramatico",
       "notes": "CSB \u00b7 nmc",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "pj1996-11-25 - Cascais Portugal - Dramatico - VHS(2) (prl) [DVD].txt"
     },
     {
       "year": 1996,
@@ -7216,7 +7741,8 @@ const ARTIST_DATA = {
       "venue": "Dramatico",
       "notes": "DAT(M) \u00b7 Countryman Isomax II \u00b7 ap",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "pj1996-11-25.cmII.flac16.txt"
     },
     {
       "year": 1996,
@@ -7229,7 +7755,8 @@ const ARTIST_DATA = {
       "venue": "Dramatico",
       "notes": "VHS(2) \u00b7 prl",
       "version": "AUD",
-      "format": "DVD"
+      "format": "DVD",
+      "textFile": "pj1996-11-25.csb.flac.txt"
     },
     {
       "year": 1997,
@@ -7242,7 +7769,8 @@ const ARTIST_DATA = {
       "venue": "Downing Stadium",
       "notes": "Tibetan",
       "version": "SBD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "pj1997-06-08.sbd.flac.txt"
     },
     {
       "year": 1997,
@@ -7255,7 +7783,8 @@ const ARTIST_DATA = {
       "venue": "CA / The Catalyst",
       "notes": "DAT(c) \u00b7 Schoeps CCM4s \u00b7 jr",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "pj1997-11-12.ccm4.flac.txt"
     },
     {
       "year": 1997,
@@ -7268,7 +7797,8 @@ const ARTIST_DATA = {
       "venue": "CA / The Catalyst",
       "notes": "DAT(M) \u00b7 Neumann KM140s",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "pj1997-11-12.km140s.flac.txt"
     },
     {
       "year": 1997,
@@ -7281,7 +7811,8 @@ const ARTIST_DATA = {
       "venue": "Oakland-Alameda Stadium",
       "notes": "CASS(M) \u00b7 SS-DSM6P \u00b7 steve hagar",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "pj1997-11-14 - Oakland, CA [DVD].txt"
     },
     {
       "year": 1997,
@@ -7294,7 +7825,8 @@ const ARTIST_DATA = {
       "venue": "Oakland-Alameda Stadium",
       "notes": "Schoeps CCM-4",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "pj1997-11-14.dsm6p.flac.txt"
     },
     {
       "year": 1997,
@@ -7307,7 +7839,8 @@ const ARTIST_DATA = {
       "venue": "Oakland-Alameda Stadium",
       "notes": "",
       "version": "PRO",
-      "format": "DVD"
+      "format": "DVD",
+      "textFile": "pj1997-11-14.schoeps.ccm4.deq.flac.txt"
     },
     {
       "year": 1997,
@@ -7320,7 +7853,8 @@ const ARTIST_DATA = {
       "venue": "Oakland Stadium",
       "notes": "SS-DSM6P",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "pj1997-11-15 - Oakland, CA - Oakland Stadium (Inc. Pro) [DVD].txt"
     },
     {
       "year": 1997,
@@ -7333,7 +7867,8 @@ const ARTIST_DATA = {
       "venue": "Oakland Stadium",
       "notes": "Schoeps",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "pj1997-11-15.dsm-6p.flac.txt"
     },
     {
       "year": 1997,
@@ -7346,7 +7881,8 @@ const ARTIST_DATA = {
       "venue": "Oakland Stadium",
       "notes": "inc",
       "version": "PRO",
-      "format": "DVD"
+      "format": "DVD",
+      "textFile": "pj1997-11-15.schoeps.flac.rtf"
     },
     {
       "year": 1997,
@@ -7359,7 +7895,8 @@ const ARTIST_DATA = {
       "venue": "Oakland Stadium",
       "notes": "Schoeps CCM4 \u00b7 rick bendes transfer",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "pj1997-11-18.schoeps.ccm4.flac.txt"
     },
     {
       "year": 1997,
@@ -7372,7 +7909,8 @@ const ARTIST_DATA = {
       "venue": "Oakland Stadium",
       "notes": "SS DSM6",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "pj1997-11-19.dsm6.deq.flac.txt"
     },
     {
       "year": 1998,
@@ -7385,7 +7923,8 @@ const ARTIST_DATA = {
       "venue": "Monkeywrench Radio",
       "notes": "DAT(2) \u00b7 cps",
       "version": "preFM",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "pj1998-01-31.pre-fm.dat.flac.txt"
     },
     {
       "year": 1998,
@@ -7398,7 +7937,8 @@ const ARTIST_DATA = {
       "venue": "Alexander & Baldwin Amphitheater",
       "notes": "SS DSM6",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "pj1998-02-20 - Maui, Hawaii, USA [DVD].txt"
     },
     {
       "year": 1998,
@@ -7411,7 +7951,8 @@ const ARTIST_DATA = {
       "venue": "Alexander & Baldwin Amphitheater (Soundcheck)",
       "notes": "DAT(M) \u00b7 Marcsounds \u00b7 cps",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "pj1998-02-20.dsm-6p.flac.txt"
     },
     {
       "year": 1998,
@@ -7424,7 +7965,8 @@ const ARTIST_DATA = {
       "venue": "Alexander & Baldwin Amphitheater *We Came From the Ocean",
       "notes": "SV027 \u00b7 2 source mix \u00b7 bill graham edit",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "pj1998-02-20.ms.scheck.flac.txt"
     },
     {
       "year": 1998,
@@ -7437,7 +7979,8 @@ const ARTIST_DATA = {
       "venue": "Alexander & Baldwin Amphitheater",
       "notes": "VHS(M)",
       "version": "AUD",
-      "format": "DVD"
+      "format": "DVD",
+      "textFile": "pj1998-02-20.sv027.flac.txt"
     },
     {
       "year": 1998,
@@ -7450,7 +7993,8 @@ const ARTIST_DATA = {
       "venue": "Alexander & Baldwin Amphitheater",
       "notes": "Sennheiser MKE-2002 \u00b7 m. slogget",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "pj1998-02-21.flac.txt"
     },
     {
       "year": 1998,
@@ -7463,7 +8007,8 @@ const ARTIST_DATA = {
       "venue": "Alexander & Baldwin Amphitheater",
       "notes": "DAT(M) \u00b7 Schoeps CCM4 \u00b7 gs transfer",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "pj1998-02-21.schoeps-ccm4.flac.txt"
     },
     {
       "year": 1998,
@@ -7476,7 +8021,8 @@ const ARTIST_DATA = {
       "venue": "Alexander & Baldwin Amphitheater",
       "notes": "SS \u00b7 blg transfer",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "pj1998-02-21.ss.flac.txt"
     },
     {
       "year": 1998,
@@ -7489,7 +8035,8 @@ const ARTIST_DATA = {
       "venue": "Queen's Wharfs Events Center",
       "notes": "unk \u00b7 blg edit",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "pj1998-02-26.unk.flac.txt"
     },
     {
       "year": 1998,
@@ -7502,7 +8049,8 @@ const ARTIST_DATA = {
       "venue": "Ericsson Stadium",
       "notes": "unk \u00b7 blg edit",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "pj1998-02-28 Auckland.txt"
     },
     {
       "year": 1998,
@@ -7515,7 +8063,8 @@ const ARTIST_DATA = {
       "venue": "Melbourne Park",
       "notes": "DAT(M) \u00b7 Countryman Isomax II \u00b7 vikas",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "pj1998-03-02.cmII.flac.txt"
     },
     {
       "year": 1998,
@@ -7528,7 +8077,8 @@ const ARTIST_DATA = {
       "venue": "Melbourne Park",
       "notes": "Countryman Isomax II",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "pj1998-03-03.cmII.flac.txt"
     },
     {
       "year": 1998,
@@ -7541,7 +8091,8 @@ const ARTIST_DATA = {
       "venue": "Melbourne Park",
       "notes": "unk",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "pj1998-03-03.unk.flac.txt"
     },
     {
       "year": 1998,
@@ -7554,7 +8105,8 @@ const ARTIST_DATA = {
       "venue": "Melbourne Park",
       "notes": "jwb remaster \u00b7 SBD Remaster Series 2012",
       "version": "SBD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "pj1998-03-05.promocd.flac.txt"
     },
     {
       "year": 1998,
@@ -7567,7 +8119,8 @@ const ARTIST_DATA = {
       "venue": "Melbourne Park",
       "notes": "CD(M) \u00b7 spenno transfer",
       "version": "Silver CD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "pj1998-03-05.sbd.remaster.flac.txt"
     },
     {
       "year": 1998,
@@ -7580,7 +8133,8 @@ const ARTIST_DATA = {
       "venue": "Melbourne Park *People of the Sea",
       "notes": "SV042",
       "version": "WEB",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "pj1998-03-05.sv042.flac.txt"
     },
     {
       "year": 1998,
@@ -7593,7 +8147,8 @@ const ARTIST_DATA = {
       "venue": "Thebarton Oval",
       "notes": "DAT(M) \u00b7 CSB \u00b7 vikas",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "pj1998-03-07.csb.flac.txt"
     },
     {
       "year": 1998,
@@ -7606,7 +8161,8 @@ const ARTIST_DATA = {
       "venue": "Sydney Entertainment Centre",
       "notes": "DAT(M) \u00b7 CSBmod \u00b7 tapeworm48 transfer",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "pj1998-03-09.csb.flac.txt"
     },
     {
       "year": 1998,
@@ -7619,7 +8175,8 @@ const ARTIST_DATA = {
       "venue": "Sydney Entertainment Centre",
       "notes": "CSB",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "pj1998-03-09.csbmod.flac16.txt"
     },
     {
       "year": 1998,
@@ -7632,7 +8189,8 @@ const ARTIST_DATA = {
       "venue": "Sydney Entertainment Centre *Waves",
       "notes": "SV009 \u00b7 Countryman Isomax II",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "pj1998-03-11 - Sydney, Australia - Sydney Entertainment Centre (2nd gen) (animal projects) [DVD].txt"
     },
     {
       "year": 1998,
@@ -7645,7 +8203,8 @@ const ARTIST_DATA = {
       "venue": "Syndey Entertainment Centre",
       "notes": "2nd gen \u00b7 animal projects",
       "version": "AUD",
-      "format": "DVD"
+      "format": "DVD",
+      "textFile": "pj1998-03-11.sv009.flac.txt"
     },
     {
       "year": 1998,
@@ -7658,7 +8217,8 @@ const ARTIST_DATA = {
       "venue": "Sydney Entertainment Centre",
       "notes": "Countryman Isomax II",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "pj1998-03-12.cmII.flac.txt"
     },
     {
       "year": 1998,
@@ -7671,7 +8231,8 @@ const ARTIST_DATA = {
       "venue": "Entertainment Centre",
       "notes": "DAT(M) \u00b7 CSB \u00b7 tapeworm48",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "pj1998-03-15.csb.flac.txt"
     },
     {
       "year": 1998,
@@ -7684,7 +8245,8 @@ const ARTIST_DATA = {
       "venue": "Entertainment Centre",
       "notes": "DAT(M) \u00b7 unk",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "pj1998-03-15.unk.flac.txt"
     },
     {
       "year": 1998,
@@ -7697,7 +8259,8 @@ const ARTIST_DATA = {
       "venue": "Perth Entertainment Centre",
       "notes": "Core Sounds",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "pj1998-03-19.cs.flac.txt"
     },
     {
       "year": 1998,
@@ -7710,7 +8273,8 @@ const ARTIST_DATA = {
       "venue": "Perth Entertainment Centre",
       "notes": "",
       "version": "AUD",
-      "format": "DVD"
+      "format": "DVD",
+      "textFile": "pj1998-03-20 - Perth, Australia - Perth Entertainment Centre [DVD].txt"
     },
     {
       "year": 1998,
@@ -7723,7 +8287,8 @@ const ARTIST_DATA = {
       "venue": "Shrine Auditorium",
       "notes": "Eddie Vedder and Jeff Ament \u00b7 CCM4",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "pj1998-03-29.ccm4.flac.txt"
     },
     {
       "year": 1998,
@@ -7736,7 +8301,8 @@ const ARTIST_DATA = {
       "venue": "Ed Sullivan Theatre / Late Show with David Letterman",
       "notes": "mz",
       "version": "TV",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "pj1998-05-01.tv.flac.txt"
     },
     {
       "year": 1998,
@@ -7749,7 +8315,8 @@ const ARTIST_DATA = {
       "venue": "ARO.space",
       "notes": "ANA(1) \u00b7 BIC mic \u00b7 cps",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "pj1998-05-07.bic.flac.txt"
     },
     {
       "year": 1998,
@@ -7762,7 +8329,8 @@ const ARTIST_DATA = {
       "venue": "RFK Stadium",
       "notes": "Tibeten Freedom Concert \u00b7 AKG 451 \u00b7 dEQ",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "pj1998-06-14 - Washington, D.C. - RFK Stadium (2 cam mix) - VHS(1) [DVD].txt"
     },
     {
       "year": 1998,
@@ -7775,7 +8343,8 @@ const ARTIST_DATA = {
       "venue": "RFK Stadium",
       "notes": "Tibeten Freedom Concert \u00b7 AKG 451",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "pj1998-06-14.akg451.deq.flac.txt"
     },
     {
       "year": 1998,
@@ -7788,7 +8357,8 @@ const ARTIST_DATA = {
       "venue": "RFK Stadium (Tibeten Freedom Concert) (2 cam mix)",
       "notes": "VHS(1)",
       "version": "AUD",
-      "format": "DVD"
+      "format": "DVD",
+      "textFile": "pj1998-06-14.akg451.flac.txt"
     },
     {
       "year": 1998,
@@ -7801,7 +8371,8 @@ const ARTIST_DATA = {
       "venue": "RFK Stadium",
       "notes": "Tibeten Freedom Concert \u00b7 alvarojam",
       "version": "AUD",
-      "format": "DVD"
+      "format": "DVD",
+      "textFile": "pj1998-06-14.audm.alvarojam.dvd.txt"
     },
     {
       "year": 1998,
@@ -7814,7 +8385,8 @@ const ARTIST_DATA = {
       "venue": "Washington-Grizzle Stadium",
       "notes": "DAT(M) \u00b7 AKG 460b + CK63 \u00b7 vikas",
       "version": "MIX",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "pj1998-06-20.mix.flac.txt"
     },
     {
       "year": 1998,
@@ -7827,7 +8399,8 @@ const ARTIST_DATA = {
       "venue": "The Canyons",
       "notes": "DAT(c) \u00b7 Schoeps MK5 + Nakamichi CM700 \u00b7 datfly",
       "version": "MIX",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "pj1998-06-21.mix.flac.txt"
     },
     {
       "year": 1998,
@@ -7840,7 +8413,8 @@ const ARTIST_DATA = {
       "venue": "Fiddler's Green",
       "notes": "DAT(M) \u00b7 Beyer MCE86N \u00b7 cps",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "pj1998-06-23.beyer.flac.txt"
     },
     {
       "year": 1998,
@@ -7853,7 +8427,8 @@ const ARTIST_DATA = {
       "venue": "Fiddler's Green",
       "notes": "DAT(c) \u00b7 Schoeps MK5 + Nakamichi CM700 \u00b7 datfly",
       "version": "MIX",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "pj1998-06-23.mix.flac.txt"
     },
     {
       "year": 1998,
@@ -7866,7 +8441,8 @@ const ARTIST_DATA = {
       "venue": "Rushmore Civic Center Arena",
       "notes": "ANA(M) \u00b7 Sony ECM-MS907 \u00b7 cps",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "pj1998-06-24.ana-m.flac.txt"
     },
     {
       "year": 1998,
@@ -7879,7 +8455,8 @@ const ARTIST_DATA = {
       "venue": "Alpine Valley",
       "notes": "AKG 414 ULS \u00b7 analog",
       "version": "AUD",
-      "format": "FLAC 24"
+      "format": "FLAC 24",
+      "textFile": "pj1998-06-26.akg414.hires.24-192.flac.txt"
     },
     {
       "year": 1998,
@@ -7892,7 +8469,8 @@ const ARTIST_DATA = {
       "venue": "Alpine Valley *Trapped In Wisconsin",
       "notes": "SV029 \u00b7 2 source mix \u00b7 thinair mix",
       "version": "MIX",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "pj1998-06-26.sv029.flac.txt"
     },
     {
       "year": 1998,
@@ -7905,7 +8483,8 @@ const ARTIST_DATA = {
       "venue": "Alpine Valley",
       "notes": "sourced from PRO shot VHS",
       "version": "SBD #1",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "pj1998-06-27 - East Troy, WI - Alpine Valley [SBD].txt"
     },
     {
       "year": 1998,
@@ -7918,7 +8497,8 @@ const ARTIST_DATA = {
       "venue": "Alpine Valley",
       "notes": "DAT(M) \u00b7 Sony CM44b \u00b7 cps",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "pj1998-06-27.ecm44b.flac.txt"
     },
     {
       "year": 1998,
@@ -7931,7 +8511,8 @@ const ARTIST_DATA = {
       "venue": "Alpine Valley",
       "notes": "DAT(M) \u00b7 SS-DSM 6S \u00b7 cps",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "pj1998-06-27.ss-dsm6s.flac.txt"
     },
     {
       "year": 1998,
@@ -7944,7 +8525,8 @@ const ARTIST_DATA = {
       "venue": "Alpine Valley *Escape from Wisconsin",
       "notes": "SV025 \u00b7 2 source mix",
       "version": "MIX",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "pj1998-06-27.sv025.flac.txt"
     },
     {
       "year": 1998,
@@ -7970,7 +8552,8 @@ const ARTIST_DATA = {
       "venue": "United Center",
       "notes": "DAT(M) \u00b7 Sony ECM 44b \u00b7 blg transfer",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "pj1998-06-29 - Chicago, IL - United Center [DVD].txt"
     },
     {
       "year": 1998,
@@ -7983,7 +8566,8 @@ const ARTIST_DATA = {
       "venue": "United Center",
       "notes": "DAT(M) \u00b7 Shure SM98 \u00b7 cps",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "pj1998-06-29.ecm44b.flac.txt"
     },
     {
       "year": 1998,
@@ -7996,7 +8580,8 @@ const ARTIST_DATA = {
       "venue": "United Center *Playground",
       "notes": "SV007 \u00b7 AKG 391b & CK63 \u00b7 taper remaster",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "pj1998-06-29.marcsounds.tapeworm.flac16.txt"
     },
     {
       "year": 1998,
@@ -8009,7 +8594,8 @@ const ARTIST_DATA = {
       "venue": "United Center",
       "notes": "MarcSounds \u00b7 tapeworm48",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "pj1998-06-29.sm98.flac.txt"
     },
     {
       "year": 1998,
@@ -8022,7 +8608,8 @@ const ARTIST_DATA = {
       "venue": "United Center",
       "notes": "",
       "version": "AUD",
-      "format": "DVD"
+      "format": "DVD",
+      "textFile": "pj1998-06-29.sv007.flac.txt"
     },
     {
       "year": 1998,
@@ -8035,7 +8622,8 @@ const ARTIST_DATA = {
       "venue": "Target Center *Significance",
       "notes": "SV006 \u00b7 AKG 391b + CK63 \u00b7 taper remaster",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "pj1998-06-30.dvd.txt"
     },
     {
       "year": 1998,
@@ -8048,7 +8636,8 @@ const ARTIST_DATA = {
       "venue": "Target Center",
       "notes": "VHS(2)",
       "version": "AUD",
-      "format": "DVD"
+      "format": "DVD",
+      "textFile": "pj1998-06-30.sv006.flac.txt"
     },
     {
       "year": 1998,
@@ -8061,7 +8650,8 @@ const ARTIST_DATA = {
       "venue": "Riverport Amphitheatre",
       "notes": "SBD + CCM-4 + ADG460b \u00b7 3 source mix",
       "version": "MIX",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "pj1998-07-02.6ch.sv065B.flac.txt"
     },
     {
       "year": 1998,
@@ -8074,7 +8664,8 @@ const ARTIST_DATA = {
       "venue": "Riverport Amphitheatre",
       "notes": "ANA(M) \u00b7 SS DSM-6",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "pj1998-07-02.dsm-6p.flac.txt"
     },
     {
       "year": 1998,
@@ -8087,7 +8678,8 @@ const ARTIST_DATA = {
       "venue": "Riverport Amphitheatre",
       "notes": "SV065F \u00b7 3 source mix \u00b7 blg mix",
       "version": "MIX",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "pj1998-07-02.sv065F.flac.txt"
     },
     {
       "year": 1998,
@@ -8100,7 +8692,8 @@ const ARTIST_DATA = {
       "venue": "Sandstone Amphitheatre *Lightning Up the Darkness",
       "notes": "SV064",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "pj1998-07-03 - Bonner Springs, KS - Sandstone Amphitheater - 8MM(M) [DVD].txt"
     },
     {
       "year": 1998,
@@ -8113,7 +8706,8 @@ const ARTIST_DATA = {
       "venue": "Sandstone Amphitheatre",
       "notes": "8MM(M)",
       "version": "AUD",
-      "format": "DVD"
+      "format": "DVD",
+      "textFile": "pj1998-07-03.sv064.flac.txt"
     },
     {
       "year": 1998,
@@ -8126,7 +8720,8 @@ const ARTIST_DATA = {
       "venue": "Reunion Arena",
       "notes": "DAT(c) \u00b7 CSC \u00b7 dan leehr transfer",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "pj1998-07-05 - Dallas, TX - Reunion Arena (2 cam mix) [DVD].txt"
     },
     {
       "year": 1998,
@@ -8139,7 +8734,8 @@ const ARTIST_DATA = {
       "venue": "Reunion Arena",
       "notes": "Sony TCD-D7 \u00b7 raw transfer",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "pj1998-07-05.csb.deq.flac.txt"
     },
     {
       "year": 1998,
@@ -8152,7 +8748,8 @@ const ARTIST_DATA = {
       "venue": "Reunion Arena",
       "notes": "ANA(M) \u00b7 SS-DSM-6P",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "pj1998-07-05.csb.eq.flac.txt"
     },
     {
       "year": 1998,
@@ -8165,7 +8762,8 @@ const ARTIST_DATA = {
       "venue": "Reunion Arena",
       "notes": "2 cam mix",
       "version": "AUD",
-      "format": "DVD"
+      "format": "DVD",
+      "textFile": "pj1998-07-05.dsm-6p.flac.txt"
     },
     {
       "year": 1998,
@@ -8178,7 +8776,8 @@ const ARTIST_DATA = {
       "venue": "Tingley Coliseum",
       "notes": "ANA(1) \u00b7 SS-DSM6 \u00b7 cps",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "pj1998-07-07 - Albuquerque, NM - Tingley Coliseum - 8MM(M) [DVD].txt"
     },
     {
       "year": 1998,
@@ -8191,7 +8790,8 @@ const ARTIST_DATA = {
       "venue": "Tingley Coliseum",
       "notes": "CASS \u00b7 SS DSM-6S \u00b7 steve hagar",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "pj1998-07-07.dsm6.flac.txt"
     },
     {
       "year": 1998,
@@ -8204,7 +8804,8 @@ const ARTIST_DATA = {
       "venue": "Tingley Coliseum",
       "notes": "8MM(M)",
       "version": "AUD",
-      "format": "DVD"
+      "format": "DVD",
+      "textFile": "pj1998-07-07.dsm6.v2.flac.txt"
     },
     {
       "year": 1998,
@@ -8217,7 +8818,8 @@ const ARTIST_DATA = {
       "venue": "Veterans Memorial Coliseum",
       "notes": "DAT(2) \u00b7 AKG 460b & CK63 \u00b7 vikas",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "pj1998-07-08 - Phoenix, AZ - Veterans Coliseum (2 cam mix) [DVD].txt"
     },
     {
       "year": 1998,
@@ -8230,7 +8832,8 @@ const ARTIST_DATA = {
       "venue": "Veterans Memorial Coliseum",
       "notes": "SS DSM-6P",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "pj1998-07-08.akg460.flac.txt"
     },
     {
       "year": 1998,
@@ -8243,7 +8846,8 @@ const ARTIST_DATA = {
       "venue": "Veterans Memorial Coliseum",
       "notes": "",
       "version": "AUD",
-      "format": "DVD"
+      "format": "DVD",
+      "textFile": "pj1998-07-08.dsm-6p.flac.txt"
     },
     {
       "year": 1998,
@@ -8256,7 +8860,8 @@ const ARTIST_DATA = {
       "venue": "Cox Arena",
       "notes": "DAT(c) \u00b7 AKG460b +CK63 \u00b7 dan leehr",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "pj1998-07-10.akg460b-ck63.flac.txt"
     },
     {
       "year": 1998,
@@ -8269,7 +8874,8 @@ const ARTIST_DATA = {
       "venue": "Cox Arena",
       "notes": "2 source mix \u00b7 CCM4 + MK5 \u00b7 blg mix",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "pj1998-07-10.mix.flac.txt"
     },
     {
       "year": 1998,
@@ -8282,7 +8888,8 @@ const ARTIST_DATA = {
       "venue": "Cox Arena",
       "notes": "CASS(M) \u00b7 SS-DSM-6P \u00b7 steve hagar",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "pj1998-07-10.ss-dsm6p.flac.txt"
     },
     {
       "year": 1998,
@@ -8295,7 +8902,8 @@ const ARTIST_DATA = {
       "venue": "Thomas & Mack Center",
       "notes": "DAT(M) \u00b7 SS-DSM6 \u00b7 cps",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "pj1998-07-11.dsm6.flac.txt"
     },
     {
       "year": 1998,
@@ -8308,7 +8916,8 @@ const ARTIST_DATA = {
       "venue": "The Forum",
       "notes": "Vault #6",
       "version": "SBD",
-      "format": "FLAC HD"
+      "format": "FLAC HD",
+      "textFile": "pj1998-07-13.mix.flac.txt"
     },
     {
       "year": 1998,
@@ -8347,7 +8956,8 @@ const ARTIST_DATA = {
       "venue": "The Forum",
       "notes": "ALD + AKG 460b + CK63 \u00b7 blg mix",
       "version": "MIX",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "pj1998-07-14.mix.flac.txt"
     },
     {
       "year": 1998,
@@ -8360,7 +8970,8 @@ const ARTIST_DATA = {
       "venue": "Arco Arena",
       "notes": "Schoeps CCM4 & MK4 \u00b7 anon \u00b7 sba",
       "version": "MIX",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "pj1998-07-16 - Sacramento, CA - Arco Arena - VHS(1) [DVD].txt"
     },
     {
       "year": 1998,
@@ -8373,7 +8984,8 @@ const ARTIST_DATA = {
       "venue": "Arco Arena",
       "notes": "VHS(1)",
       "version": "AUD",
-      "format": "DVD"
+      "format": "DVD",
+      "textFile": "pj1998-07-16.mix.flac.txt"
     },
     {
       "year": 1998,
@@ -8386,7 +8998,8 @@ const ARTIST_DATA = {
       "venue": "Rose Garden Arena",
       "notes": "Nak 700 + SBD",
       "version": "MIX",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "pj1998-07-18.mix.flac.txt"
     },
     {
       "year": 1998,
@@ -8399,7 +9012,8 @@ const ARTIST_DATA = {
       "venue": "Pacific Coliseum",
       "notes": "Sony ECM-737",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "pj1998-07-19 - Vancouver, BC - Pacific Coliseum [DVD].txt"
     },
     {
       "year": 1998,
@@ -8412,7 +9026,8 @@ const ARTIST_DATA = {
       "venue": "Pacific Coliseum (Soundcheck)",
       "notes": "ANA(M) \u00b7 unk \u00b7 blg transfer",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "pj1998-07-19.ecm-737.flac.txt"
     },
     {
       "year": 1998,
@@ -8425,7 +9040,8 @@ const ARTIST_DATA = {
       "venue": "Pacific Coliseum",
       "notes": "low gen VHS",
       "version": "AUD",
-      "format": "DVD"
+      "format": "DVD",
+      "textFile": "pj1998-07-19.unk.scheck.flac.txt"
     },
     {
       "year": 1998,
@@ -8438,7 +9054,8 @@ const ARTIST_DATA = {
       "venue": "Memorial Stadium",
       "notes": "CCM4 + Nakamichi 700 \u00b7 blg transfer",
       "version": "MIX",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "pj1998-07-21 - Seattle, WA (3 Cam Mix) -AP - DVD9.txt"
     },
     {
       "year": 1998,
@@ -8451,7 +9068,8 @@ const ARTIST_DATA = {
       "venue": "Memorial Stadium",
       "notes": "SP mics",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "pj1998-07-21.mix.flac.txt"
     },
     {
       "year": 1998,
@@ -8464,7 +9082,8 @@ const ARTIST_DATA = {
       "venue": "Memorial Stadium",
       "notes": "3 cam mix",
       "version": "AUD",
-      "format": "DVD"
+      "format": "DVD",
+      "textFile": "pj1998-07-21.sp.flac.txt"
     },
     {
       "year": 1998,
@@ -8477,7 +9096,8 @@ const ARTIST_DATA = {
       "venue": "Memorial Stadium",
       "notes": "",
       "version": "SBD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "pj1998-07-22 - Seattle, WA - Memorial Stadium - VHS(1) [DVD].txt"
     },
     {
       "year": 1998,
@@ -8490,7 +9110,8 @@ const ARTIST_DATA = {
       "venue": "Memorial Stadium",
       "notes": "From booleg *Home Free",
       "version": "SBD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "pj1998-07-22.dsbd.flac.txt"
     },
     {
       "year": 1998,
@@ -8503,7 +9124,8 @@ const ARTIST_DATA = {
       "venue": "Memorial Stadium",
       "notes": "jwb remaster \u00b7 SBD Remaster Series 2012",
       "version": "SBD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "pj1998-07-22.sbd.flac.txt"
     },
     {
       "year": 1998,
@@ -8516,7 +9138,8 @@ const ARTIST_DATA = {
       "venue": "Memorial Stadium *Coming Home",
       "notes": "SV028 \u00b7 blg transfer",
       "version": "SBD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "pj1998-07-22.sbd.remaster.flac.txt"
     },
     {
       "year": 1998,
@@ -8529,7 +9152,8 @@ const ARTIST_DATA = {
       "venue": "Memorial Stadium",
       "notes": "VHS(1)",
       "version": "AUD",
-      "format": "DVD"
+      "format": "DVD",
+      "textFile": "pj1998-07-22.sv028.flac.txt"
     },
     {
       "year": 1998,
@@ -8542,7 +9166,8 @@ const ARTIST_DATA = {
       "venue": "Deer Creek Music Theater",
       "notes": "DAT(M) \u00b7 MarcSounds \u00b7 tapeworm48",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "pj1998-08-17.dat-m.flac.txt"
     },
     {
       "year": 1998,
@@ -8555,7 +9180,8 @@ const ARTIST_DATA = {
       "venue": "Deer Creek Music Theater",
       "notes": "DAT(M) \u00b7 Core Sound",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "pj1998-08-17.marcsounds.flac16.txt"
     },
     {
       "year": 1998,
@@ -8568,7 +9194,8 @@ const ARTIST_DATA = {
       "venue": "Breslin Student Events Center",
       "notes": "",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "pj1998-08-18.cs.dat.flac.txt"
     },
     {
       "year": 1998,
@@ -8581,7 +9208,8 @@ const ARTIST_DATA = {
       "venue": "Molson Centre",
       "notes": "DAT(M) \u00b7 Sanken COS-11 \u00b7 tapeworm48 transfer",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "pj1998-08-20 - Montreal, Quebec - Molson Centre [DVD].txt"
     },
     {
       "year": 1998,
@@ -8594,7 +9222,8 @@ const ARTIST_DATA = {
       "venue": "Molson Centre",
       "notes": "CSC + Sankin COS-11",
       "version": "MIX",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "pj1998-08-20.cos11.flac16.txt"
     },
     {
       "year": 1998,
@@ -8607,7 +9236,8 @@ const ARTIST_DATA = {
       "venue": "Molson Centre",
       "notes": "",
       "version": "AUD",
-      "format": "DVD"
+      "format": "DVD",
+      "textFile": "pj1998-08-20.mix.flac.txt"
     },
     {
       "year": 1998,
@@ -8620,7 +9250,8 @@ const ARTIST_DATA = {
       "venue": "Molson Park",
       "notes": "SS DSM 13",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "pj1998-08-22.ss.flac.txt"
     },
     {
       "year": 1998,
@@ -8633,7 +9264,8 @@ const ARTIST_DATA = {
       "venue": "Molson Park",
       "notes": "unk",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "pj1998-08-22.unk.flac.txt"
     },
     {
       "year": 1998,
@@ -8646,7 +9278,8 @@ const ARTIST_DATA = {
       "venue": "The Palace",
       "notes": "DAT(c) \u00b7 Neumann KM140s \u00b7 jr",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "pj1998-08-23.km140.flac.txt"
     },
     {
       "year": 1998,
@@ -8659,7 +9292,8 @@ const ARTIST_DATA = {
       "venue": "Star Lake Amphitheatre",
       "notes": "2 source mix \u00b7 SS-DSM13 + CS",
       "version": "MIX",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "pj1998-08-25.mix.flac.txt"
     },
     {
       "year": 1998,
@@ -8672,7 +9306,8 @@ const ARTIST_DATA = {
       "venue": "Blossom Music Center *My City Was Gone",
       "notes": "SV034 \u00b7 2 source mix \u00b7 CMC6 + MK4",
       "version": "MIX",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "pj1998-08-26.sv034.flac.txt"
     },
     {
       "year": 1998,
@@ -8685,7 +9320,8 @@ const ARTIST_DATA = {
       "venue": "Blockbuster Music Entertainment Centre",
       "notes": "SS DSM6",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "pj1998-08-28 - Camden, NJ - Blockbuster Music Entertainment Centre (Upgrade) (alvarojam) [DVD].txt"
     },
     {
       "year": 1998,
@@ -8698,7 +9334,8 @@ const ARTIST_DATA = {
       "venue": "Blockbuster Music Entertainment Centre",
       "notes": "alvarojam \u00b7 Upgrade",
       "version": "AUD",
-      "format": "DVD"
+      "format": "DVD",
+      "textFile": "pj1998-08-28.dsm6.flac.txt"
     },
     {
       "year": 1998,
@@ -8711,7 +9348,8 @@ const ARTIST_DATA = {
       "venue": "Blockbuster Music Entertainment Centre",
       "notes": "MK4 + SS-DSM6 \u00b7 dcl mix",
       "version": "MIX",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "pj1998-08-29.mix.flac.txt"
     },
     {
       "year": 1998,
@@ -8724,7 +9362,8 @@ const ARTIST_DATA = {
       "venue": "Blockbuster Music Entertainment Centre",
       "notes": "DAT(3) \u00b7 MK4s \u00b7 jr",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "pj1998-08-29.mk4.flac16.txt"
     },
     {
       "year": 1998,
@@ -8737,7 +9376,8 @@ const ARTIST_DATA = {
       "venue": "Walnut Creek Amphitheatre",
       "notes": "Oade",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "pj1998-08-31.oade.tcd-d7.flac.txt"
     },
     {
       "year": 1998,
@@ -8750,7 +9390,8 @@ const ARTIST_DATA = {
       "venue": "Lakewood Amphitheatre *The Weight of the World",
       "notes": "SV026 \u00b7 2 source mix",
       "version": "MIX",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "pj1998-09-01 - Atlanta, GA - Lakewood Amphitheater - VHS(1) [DVD].txt"
     },
     {
       "year": 1998,
@@ -8763,7 +9404,8 @@ const ARTIST_DATA = {
       "venue": "Lakewood Amphitheatre",
       "notes": "VHS(1)",
       "version": "AUD",
-      "format": "DVD"
+      "format": "DVD",
+      "textFile": "pj1998-09-01.sv026.flac.txt"
     },
     {
       "year": 1998,
@@ -8776,7 +9418,8 @@ const ARTIST_DATA = {
       "venue": "BJCC Convention Center Arena",
       "notes": "SS DSM-6P \u00b7 steve hagar",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "pj1998-09-03.dsm-6p.remaster.flac.txt"
     },
     {
       "year": 1998,
@@ -8789,7 +9432,8 @@ const ARTIST_DATA = {
       "venue": "BJCC Convention Center Arena *Dueling Guitars",
       "notes": "SV057 \u00b7 SS-DSM6 \u00b7 blg transfer",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "pj1998-09-03.sv057.flac.txt"
     },
     {
       "year": 1998,
@@ -8815,7 +9459,8 @@ const ARTIST_DATA = {
       "venue": "Bi-Lo Center",
       "notes": "SS-DSM6",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "pj1998-09-04.dsm-6p.flac.txt"
     },
     {
       "year": 1998,
@@ -8828,7 +9473,8 @@ const ARTIST_DATA = {
       "venue": "Bi-Lo Center *Cleanse",
       "notes": "SV005 \u00b7 Neumann KM-184",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "pj1998-09-04.sv005.flac.txt"
     },
     {
       "year": 1998,
@@ -8841,7 +9487,8 @@ const ARTIST_DATA = {
       "venue": "Bi-Lo Center",
       "notes": "unk \u00b7 doodee master",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "pj1998-09-04.unk.flac.txt"
     },
     {
       "year": 1998,
@@ -8854,7 +9501,8 @@ const ARTIST_DATA = {
       "venue": "Thompson-Boling Arena",
       "notes": "SS-DSM6P",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "pj1998-09-06.dsm-6p.flac.txt"
     },
     {
       "year": 1998,
@@ -8867,7 +9515,8 @@ const ARTIST_DATA = {
       "venue": "Thompson-Boling Arena",
       "notes": "DAT(M) \u00b7 SS DSM-6S \u00b7 cps",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "pj1998-09-06.dsm6s.flac.txt"
     },
     {
       "year": 1998,
@@ -8880,7 +9529,8 @@ const ARTIST_DATA = {
       "venue": "GTE Virginia Beach Amphitheatre",
       "notes": "SS-DSM6P",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "pj1998-09-07.dsm-6p.flac.txt"
     },
     {
       "year": 1998,
@@ -8893,7 +9543,8 @@ const ARTIST_DATA = {
       "venue": "GTE Virginia Beach Amphitheatre",
       "notes": "DAT(c) \u00b7 SS \u00b7 datfly",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "pj1998-09-07.ss.flac.txt"
     },
     {
       "year": 1998,
@@ -8906,7 +9557,8 @@ const ARTIST_DATA = {
       "venue": "Continental Arena",
       "notes": "DAT(M) \u00b7 MarcSounds \u00b7 tapeworm48",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "pj1998-09-08 - East Rutherford, NJ - Continental Airlines Arena (MarcSounds) [AUD].txt"
     },
     {
       "year": 1998,
@@ -8919,7 +9571,8 @@ const ARTIST_DATA = {
       "venue": "Continental Arena",
       "notes": "AKG 300b",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "pj1998-09-08 - East Rutherford, NJ - Continental Arena - Hi8(M) [DVD].txt"
     },
     {
       "year": 1998,
@@ -8932,7 +9585,8 @@ const ARTIST_DATA = {
       "venue": "Continental Arena",
       "notes": "Hi8(M)",
       "version": "AUD",
-      "format": "DVD"
+      "format": "DVD",
+      "textFile": "pj1998-09-08.akg300b.flac.txt"
     },
     {
       "year": 1998,
@@ -8945,7 +9599,8 @@ const ARTIST_DATA = {
       "venue": "Madison Square Garden",
       "notes": "Schoeps MK5 & AKG300b",
       "version": "MIX",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "pj1998-09-10 - New York, NY - Madison Square Garden (2 cam mix) - VHS(1) [DVD].txt"
     },
     {
       "year": 1998,
@@ -8958,7 +9613,8 @@ const ARTIST_DATA = {
       "venue": "Madison Square Garden",
       "notes": "VHS(1) \u00b7 2 cam mix",
       "version": "AUD",
-      "format": "DVD"
+      "format": "DVD",
+      "textFile": "pj1998-09-10.mix.flac.txt"
     },
     {
       "year": 1998,
@@ -8971,7 +9627,8 @@ const ARTIST_DATA = {
       "venue": "Madison Square Garden *Three Years in NYC",
       "notes": "SV011 \u00b7 Second Remaster \u00b7 2 source mix",
       "version": "MIX",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "pj1998-09-11 - New York, NY - Madison Square Garden - VHS(1) [DVD].txt"
     },
     {
       "year": 1998,
@@ -8984,7 +9641,8 @@ const ARTIST_DATA = {
       "venue": "Madison Square Garden",
       "notes": "CSC & MarcSounds \u00b7 thinair archive release",
       "version": "MTX",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "pj1998-09-11.matrix.flac.txt"
     },
     {
       "year": 1998,
@@ -8997,7 +9655,8 @@ const ARTIST_DATA = {
       "venue": "Madison Square Garden",
       "notes": "VHS(1)",
       "version": "AUD",
-      "format": "DVD"
+      "format": "DVD",
+      "textFile": "pj1998-09-11.mix.sv011.flac.txt"
     },
     {
       "year": 1998,
@@ -9010,7 +9669,8 @@ const ARTIST_DATA = {
       "venue": "Meadows Music Theater",
       "notes": "AKG451 & AT822",
       "version": "MIX",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "pj1998-09-13 - Hartford, CT - Meadows Music Theater - VHS(1) [DVD].txt"
     },
     {
       "year": 1998,
@@ -9023,7 +9683,8 @@ const ARTIST_DATA = {
       "venue": "Meadows Music Theater *No Belief",
       "notes": "SV001 \u00b7 2 source mix",
       "version": "MTX",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "pj1998-09-13.mix.flac.txt"
     },
     {
       "year": 1998,
@@ -9036,7 +9697,8 @@ const ARTIST_DATA = {
       "venue": "Meadows Music Theater",
       "notes": "VHS(1)",
       "version": "AUD",
-      "format": "DVD"
+      "format": "DVD",
+      "textFile": "pj1998-09-13.sv001.flac.txt"
     },
     {
       "year": 1998,
@@ -9049,7 +9711,8 @@ const ARTIST_DATA = {
       "venue": "Great Woods",
       "notes": "AKG 300b + ECM 717",
       "version": "MIX",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "pj1998-09-15.mix.flac.txt"
     },
     {
       "year": 1998,
@@ -9062,7 +9725,8 @@ const ARTIST_DATA = {
       "venue": "Great Woods *The Story of Mansfield",
       "notes": "SV013 \u00b7 2 source mix",
       "version": "MIX",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "pj1998-09-16 - Mansfield, MA - Great Woods Center - VHS(1) [DVD].txt"
     },
     {
       "year": 1998,
@@ -9075,7 +9739,8 @@ const ARTIST_DATA = {
       "venue": "Great Woods",
       "notes": "VHS(1)",
       "version": "AUD",
-      "format": "DVD"
+      "format": "DVD",
+      "textFile": "pj1998-09-16.sv013.flac.txt"
     },
     {
       "year": 1998,
@@ -9088,7 +9753,8 @@ const ARTIST_DATA = {
       "venue": "Merriweather Post Pavilion",
       "notes": "Countryman Isomax II + SS DSM6",
       "version": "MIX",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "pj1998-09-18.mix.flac.txt"
     },
     {
       "year": 1998,
@@ -9101,7 +9767,8 @@ const ARTIST_DATA = {
       "venue": "Constitution Hall",
       "notes": "Vault #3",
       "version": "AUD",
-      "format": "FLAC HD"
+      "format": "FLAC HD",
+      "textFile": "pj1998-09-19 - Washington, DC - Constitution Hall - Voters For Choice - Hi8(M) [DVD].txt"
     },
     {
       "year": 1998,
@@ -9114,7 +9781,8 @@ const ARTIST_DATA = {
       "venue": "Constitution Hall *Live at Consititution Hall",
       "notes": "SV019 \u00b7 SS DSM6 \u00b7 fred evans edit",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "pj1998-09-19.sv019.flac.txt"
     },
     {
       "year": 1998,
@@ -9140,7 +9808,8 @@ const ARTIST_DATA = {
       "venue": "Coral Sky Amphitheatre",
       "notes": "DAT(M) \u00b7 KM184s \u00b7 datfly",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "pj1998-09-22.km184.flac.txt"
     },
     {
       "year": 1998,
@@ -9153,7 +9822,8 @@ const ARTIST_DATA = {
       "venue": "Coral Sky Amphitheatre *The Endless Summer",
       "notes": "SV049 \u00b7 SS DSM-6P \u00b7 datfly",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "pj1998-09-22.sv049.flac.txt"
     },
     {
       "year": 1998,
@@ -9166,7 +9836,8 @@ const ARTIST_DATA = {
       "venue": "Coral Sky Amphitheatre",
       "notes": "Neumann KM-184",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "pj1998-09-23.km-184.flac.txt"
     },
     {
       "year": 1998,
@@ -9179,7 +9850,8 @@ const ARTIST_DATA = {
       "venue": "Coral Sky Amphitheatre *Life",
       "notes": "SV012 \u00b7 CSC \u00b7 fred evans edit",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "pj1998-09-23.sv012.flac.txt"
     },
     {
       "year": 1998,
@@ -9192,7 +9864,8 @@ const ARTIST_DATA = {
       "venue": "Crocodile Cafe",
       "notes": "2 source mix \u00b7 Sony WMD6C + Sony D100",
       "version": "MIX",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "pj1998-10-10.mix.flac.txt"
     },
     {
       "year": 1998,
@@ -9205,7 +9878,8 @@ const ARTIST_DATA = {
       "venue": "Crocodile Cafe",
       "notes": "Marcsounds \u00b7 jr \u00b7 blg edit",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "pj1998-10-10.ms.flac.txt"
     },
     {
       "year": 1998,
@@ -9218,7 +9892,8 @@ const ARTIST_DATA = {
       "venue": "Crocodile Cafe",
       "notes": "Sony WMD6C (phil thenstedt",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "pj1998-10-10.wmd6c.flac.txt"
     },
     {
       "year": 1998,
@@ -9231,7 +9906,8 @@ const ARTIST_DATA = {
       "venue": "Karma Club",
       "notes": "Eddie Vedder + Neil Finn",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "pj1998-11-06.flac.txt"
     },
     {
       "year": 1999,
@@ -9244,7 +9920,8 @@ const ARTIST_DATA = {
       "venue": "Shoreline Amphitheater",
       "notes": "Bridge School Benefit",
       "version": "SBD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "pj1999-10-30+31 - Mountain View, CA - Shoreline Amphitheatre - Bridge School [DVD].txt"
     },
     {
       "year": 1999,
@@ -9257,7 +9934,8 @@ const ARTIST_DATA = {
       "venue": "Shoreline Amphitheater",
       "notes": "Bridge School Benefit \u00b7 PRO Shot Vid source + Schoeps",
       "version": "MIX",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "pj1999-10-30.mix.flac.txt"
     },
     {
       "year": 1999,
@@ -9270,7 +9948,8 @@ const ARTIST_DATA = {
       "venue": "Shoreline Amphitheater",
       "notes": "Bridge School Benefit",
       "version": "SBD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "bsb1999-10-31.sbd.flac.rtf"
     },
     {
       "year": 1999,
@@ -9283,7 +9962,8 @@ const ARTIST_DATA = {
       "venue": "Shoreline Amphitheater",
       "notes": "Bridge School Benefit \u00b7 PRO Shot Vid source + Schoeps",
       "version": "MIX",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "pj1999-10-31.mix.flac.txt"
     },
     {
       "year": 2000,
@@ -9309,7 +9989,8 @@ const ARTIST_DATA = {
       "venue": "Ed Sullivan Theatre / Late Show with David Letterman",
       "notes": "mz",
       "version": "TV",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "pj2000-04-12.tv.flac.txt"
     },
     {
       "year": 2000,
@@ -9335,7 +10016,8 @@ const ARTIST_DATA = {
       "venue": "Commodore Ballroom",
       "notes": "CSB",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "pj2000-05-11.csb.flac.txt"
     },
     {
       "year": 2000,
@@ -9374,7 +10056,8 @@ const ARTIST_DATA = {
       "venue": "Velodromo de Anoeta",
       "notes": "",
       "version": "SBD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "pj2000-05-26 - San Sebastian, ES - Anoeta Velodrome - VHS(1) [VCD].rtf"
     },
     {
       "year": 2000,
@@ -9413,7 +10096,8 @@ const ARTIST_DATA = {
       "venue": "Wembley Arena",
       "notes": "",
       "version": "SBD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "pj2000-05-30 - London, England - Wembley Arena - VHS(1) [DVD].txt"
     },
     {
       "year": 2000,
@@ -9517,7 +10201,8 @@ const ARTIST_DATA = {
       "venue": "Rock am Ring",
       "notes": "",
       "version": "SBD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "pj2000-06-09&11 - Nurnberg, Germany - Rock IM Park - Rock Am Ring (PRO) [DVD].txt"
     },
     {
       "year": 2000,
@@ -9543,7 +10228,8 @@ const ARTIST_DATA = {
       "venue": "Pinkpop Festival",
       "notes": "",
       "version": "SBD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "pj2000-06-12 - Landgraaf, The Netherlands - Pinkpop Festival (PRO) [WEBCAST].txt"
     },
     {
       "year": 2000,
@@ -9556,7 +10242,8 @@ const ARTIST_DATA = {
       "venue": "Pinkpop Festival",
       "notes": "wodzjar",
       "version": "PRO",
-      "format": "DVD"
+      "format": "DVD",
+      "textFile": "pj2000-06-12.dvd.txt"
     },
     {
       "year": 2000,
@@ -9582,7 +10269,8 @@ const ARTIST_DATA = {
       "venue": "Paegas Arena",
       "notes": "",
       "version": "SBD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "pj2000-06-14 - Prague, Czech Republic - Peagas Arena AUD(M) [DVD].txt"
     },
     {
       "year": 2000,
@@ -9621,7 +10309,8 @@ const ARTIST_DATA = {
       "venue": "Spodek",
       "notes": "",
       "version": "SBD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "pj2000-06-16 - Katowice, Poland - Spodek (VCD Sourced) [DVD].txt"
     },
     {
       "year": 2000,
@@ -9660,7 +10349,8 @@ const ARTIST_DATA = {
       "venue": "Hala Tivoli",
       "notes": "",
       "version": "SBD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "pj2000-06-19 - Ljubljana, Slovenia - Hala Tivoli - VHS(1) [DVD].txt"
     },
     {
       "year": 2000,
@@ -9686,7 +10376,8 @@ const ARTIST_DATA = {
       "venue": "Arena di Verona",
       "notes": "",
       "version": "SBD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "pj2000-06-20 - Verona, Italy - Arena - AUD(M) [DVD].txt"
     },
     {
       "year": 2000,
@@ -9712,7 +10403,8 @@ const ARTIST_DATA = {
       "venue": "FILA Forum Arena",
       "notes": "",
       "version": "SBD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "pj2000-06-22 - Milan, Italy - Fila Forum Arena (DCR-TR7000) - AUD(M) [DVD].txt"
     },
     {
       "year": 2000,
@@ -9725,7 +10417,8 @@ const ARTIST_DATA = {
       "venue": "Fila Forum Arena *Nell'occhio del Beholder",
       "notes": "SV040 \u00b7 2 source mix",
       "version": "MIX",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "pj2000-06-22.sv040.flac.txt"
     },
     {
       "year": 2000,
@@ -9751,7 +10444,8 @@ const ARTIST_DATA = {
       "venue": "Hallenstadion",
       "notes": "",
       "version": "SBD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "pj2000-06-23 - Zurich, Switzerland - Hallenstadion - AUD(M) (DCR-TR7000) [DVD].txt"
     },
     {
       "year": 2000,
@@ -9816,7 +10510,8 @@ const ARTIST_DATA = {
       "venue": "Spektrum",
       "notes": "",
       "version": "SBD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "pj2000-06-29 - Oslo, Norway - Spektrum (metallican) [DVD].txt"
     },
     {
       "year": 2000,
@@ -9842,7 +10537,8 @@ const ARTIST_DATA = {
       "venue": "Pinkpop Festival",
       "notes": "",
       "version": "SBD #2",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "pj2000-07-12 - Landgraaf, Holland - Pinkpop Festival [SBD #2].txt"
     },
     {
       "year": 2000,
@@ -9894,7 +10590,8 @@ const ARTIST_DATA = {
       "venue": "Philips Arena",
       "notes": "",
       "version": "SBD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "pj2000-08-07 - Atlanta, GA - Philips Arena - Hi8(M) [DVD].txt"
     },
     {
       "year": 2000,
@@ -9920,7 +10617,8 @@ const ARTIST_DATA = {
       "venue": "Mars Music Amphitheatre",
       "notes": "",
       "version": "SBD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "pj2000-08-09 - West Palm Beach, FL - Mars Music Amphitheatre - Hi8(M) (leehro) [DVD].txt"
     },
     {
       "year": 2000,
@@ -9933,7 +10631,8 @@ const ARTIST_DATA = {
       "venue": "Mars Music Amphitheatre",
       "notes": "Hi8(M) \u00b7 leehro",
       "version": "AUD",
-      "format": "DVD"
+      "format": "DVD",
+      "textFile": "pj2000-08-09-10 - West Palm Beach, FL (MTX) (global voodoo) [DVD].txt"
     },
     {
       "year": 2000,
@@ -9946,7 +10645,8 @@ const ARTIST_DATA = {
       "venue": "Mars Music Amphitheatre",
       "notes": "",
       "version": "SBD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "pj2000-08-10 - West Palm Beach, FL - Mars Music Amphitheatre (MTX) [DVD].txt"
     },
     {
       "year": 2000,
@@ -9985,7 +10685,8 @@ const ARTIST_DATA = {
       "venue": "New Orleans Arena",
       "notes": "",
       "version": "SBD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "pj2000-08-14 - New Orleans, LA - New Orleans Arena.txt"
     },
     {
       "year": 2000,
@@ -10037,7 +10738,8 @@ const ARTIST_DATA = {
       "venue": "Deer Creek Music Center",
       "notes": "",
       "version": "SBD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "pj2000-08-18 - Noblesville, IN - Deer Creek Music Center (DCR-TR7000) (master) [DVD].txt"
     },
     {
       "year": 2000,
@@ -10063,7 +10765,8 @@ const ARTIST_DATA = {
       "venue": "Riverbend Music Center",
       "notes": "",
       "version": "SBD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "pj2000-08-20.sv047.flac.txt"
     },
     {
       "year": 2000,
@@ -10102,7 +10805,8 @@ const ARTIST_DATA = {
       "venue": "Jones Beach Amphitheater",
       "notes": "",
       "version": "SBD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "pj2000-08-23 - Wantagh, NY - Jones Beach [DVD].txt"
     },
     {
       "year": 2000,
@@ -10128,7 +10832,8 @@ const ARTIST_DATA = {
       "venue": "Jones Beach Amphitheater",
       "notes": "",
       "version": "SBD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "pj2000-08-24 - Wantagh, NY - Jones Beach Amphitheatre (MTX) [DVD].txt"
     },
     {
       "year": 2000,
@@ -10154,7 +10859,8 @@ const ARTIST_DATA = {
       "venue": "Jones Beach Amphitheater",
       "notes": "",
       "version": "SBD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "pj2000-08-25 - Wantagh, NY - Jones Beach [DVD].txt"
     },
     {
       "year": 2000,
@@ -10180,7 +10886,8 @@ const ARTIST_DATA = {
       "venue": "Saratoga Performing Arts Center",
       "notes": "",
       "version": "SBD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "pj2000-08-27 - Saratoga, NY - Saratoga Performing Arts - VHS(1) [DVD].txt"
     },
     {
       "year": 2000,
@@ -10297,7 +11004,8 @@ const ARTIST_DATA = {
       "venue": "Air Canada Centre",
       "notes": "",
       "version": "SBD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "pj2000-10-05 - Toronto, Ontario - Air Canada Centre (2 cam mix) - AUD(M) [DVD].txt"
     },
     {
       "year": 2000,
@@ -10388,7 +11096,8 @@ const ARTIST_DATA = {
       "venue": "Cynthia Woods Mitchell Pavilion",
       "notes": "",
       "version": "SBD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "pj2000-10-14 - Houston, TX - Cynthia Woods Mitchell Pavilion - AUD(M) [DVD].txt"
     },
     {
       "year": 2000,
@@ -10401,7 +11110,8 @@ const ARTIST_DATA = {
       "venue": "Cynthia Woods Mitchell Pavilion",
       "notes": "",
       "version": "SBD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "pj2000-10-15 - Houston, TX - Cynthia Woods Mitchell Pavilion - AUD(M) [DVD].txt"
     },
     {
       "year": 2000,
@@ -10479,7 +11189,8 @@ const ARTIST_DATA = {
       "venue": "MGM Grand Arena",
       "notes": "",
       "version": "SBD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "pj2000-10-22 - Las Vegas, NV - MGM Grand Arena [DVD].txt"
     },
     {
       "year": 2000,
@@ -10635,7 +11346,8 @@ const ARTIST_DATA = {
       "venue": "Key Arena",
       "notes": "",
       "version": "SBD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "pj2000-11-06 - Seattle, WA - Key Arena - AUD(M) [DVD].txt"
     },
     {
       "year": 2000,
@@ -10661,7 +11373,8 @@ const ARTIST_DATA = {
       "venue": "Shoreline Amphitheatre",
       "notes": "Bridge \u00b7 Day 1",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "pj2001-10-20.daudfob.schoeps.flac.txt"
     },
     {
       "year": 2001,
@@ -10674,7 +11387,8 @@ const ARTIST_DATA = {
       "venue": "Shoreline Amphitheatre",
       "notes": "Bridge \u00b7 Day 2",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "pj2001-10-21.daudfob.schoeps.flac.txt"
     },
     {
       "year": 2001,
@@ -10687,7 +11401,8 @@ const ARTIST_DATA = {
       "venue": "Groundwork 2001 Benefit *Groundwork",
       "notes": "SV048",
       "version": "WEB",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "pj2001-10-22 - Seattle, WA - Key Arena - Groundworks Benefit - AUD(M) [DVD].txt"
     },
     {
       "year": 2001,
@@ -10726,7 +11441,8 @@ const ARTIST_DATA = {
       "venue": "",
       "notes": "",
       "version": "FM",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "pj2002-09-18.fm.flac.txt"
     },
     {
       "year": 2002,
@@ -10739,7 +11455,8 @@ const ARTIST_DATA = {
       "venue": "House of Blues",
       "notes": "Schoeps MK4v",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "pj2002-09-23.schoeps-mk4v.flac.txt"
     },
     {
       "year": 2002,
@@ -10752,7 +11469,8 @@ const ARTIST_DATA = {
       "venue": "World Album Premiere 'Riot Act'",
       "notes": "102.1 The Edge",
       "version": "FM",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "pj2002-11-10.fm.flac.txt"
     },
     {
       "year": 2002,
@@ -10765,7 +11483,8 @@ const ARTIST_DATA = {
       "venue": "Ed Sullivan Theatre",
       "notes": "Late",
       "version": "TV",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "pj2002-11-14-15.tv.flac.txt"
     },
     {
       "year": 2002,
@@ -10778,7 +11497,8 @@ const ARTIST_DATA = {
       "venue": "The Showbox",
       "notes": "Schoeps",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "pj2002-12-05.schoeps.flac.txt"
     },
     {
       "year": 2002,
@@ -10804,7 +11524,8 @@ const ARTIST_DATA = {
       "venue": "Key Arena",
       "notes": "unk Schoeps",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "pj2002-12-08 - Seattle, WA - Key Arena (2 cam mix) - VHS(1) [DVD].txt"
     },
     {
       "year": 2002,
@@ -10817,7 +11538,8 @@ const ARTIST_DATA = {
       "venue": "Key Arena- VHS",
       "notes": "1 \u00b7 2 cam mix",
       "version": "AUD",
-      "format": "DVD"
+      "format": "DVD",
+      "textFile": "pj2002-12-08.schoeps.flac.txt"
     },
     {
       "year": 2002,
@@ -10830,7 +11552,8 @@ const ARTIST_DATA = {
       "venue": "Key Arena",
       "notes": "Schoeps + Sony DCR-TR7000",
       "version": "MIX",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "pj2002-12-09 - Seattle, WA - Key Arena - AUD(M) (leehro) [DVD].txt"
     },
     {
       "year": 2002,
@@ -10843,7 +11566,8 @@ const ARTIST_DATA = {
       "venue": "Key Arena",
       "notes": "AUD(M) \u00b7 leehro",
       "version": "AUD",
-      "format": "DVD"
+      "format": "DVD",
+      "textFile": "pj2002-12-09.mix.flac.txt"
     },
     {
       "year": 2003,
@@ -10882,7 +11606,8 @@ const ARTIST_DATA = {
       "venue": "Sydney Entertainment Centre",
       "notes": "",
       "version": "SBD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "pj2003-02-11 - Sydney, Australia - Entertainment Centre - AUD(M) [DVD].txt"
     },
     {
       "year": 2003,
@@ -10934,7 +11659,8 @@ const ARTIST_DATA = {
       "venue": "Adelaide Entertainment Centre",
       "notes": "",
       "version": "SBD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "pj2003-02-16 - Adelaide, Australia - Entertainment Centre - MiniDV(M) [DVD].txt"
     },
     {
       "year": 2003,
@@ -10960,7 +11686,8 @@ const ARTIST_DATA = {
       "venue": "Rod Laver Arena",
       "notes": "",
       "version": "SBD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "pj2003-02-18 - Melbourne, Australia - Rod Laver Arena - MiniDV(M) [DVD].txt"
     },
     {
       "year": 2003,
@@ -10999,7 +11726,8 @@ const ARTIST_DATA = {
       "venue": "",
       "notes": "",
       "version": "FM",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "pj2003-02-20 - Melbourne, Australia - Rod Laver Arena - AUD(M) [DVD].txt"
     },
     {
       "year": 2003,
@@ -11012,7 +11740,8 @@ const ARTIST_DATA = {
       "venue": "Rod Laver Arena",
       "notes": "",
       "version": "SBD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "pj2003-02-20.fm.cassette.flac.txt"
     },
     {
       "year": 2003,
@@ -11025,7 +11754,8 @@ const ARTIST_DATA = {
       "venue": "Rod Laver Arena",
       "notes": "AUD(M)",
       "version": "AUD",
-      "format": "DVD"
+      "format": "DVD",
+      "textFile": "pj2003-02-20.fm.rm.flac.txt"
     },
     {
       "year": 2003,
@@ -11077,7 +11807,8 @@ const ARTIST_DATA = {
       "venue": "Nippon Budokan",
       "notes": "",
       "version": "SBD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "pj2003-03-03 - Tokyo, Japan - Budokan - VHS(1) [DVD].txt"
     },
     {
       "year": 2003,
@@ -11181,7 +11912,8 @@ const ARTIST_DATA = {
       "venue": "UNO Lakefront Arena",
       "notes": "",
       "version": "SBD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "pj2003-04-08 - New Orleans, LA - UNO Lakefront Arena - AUD(M) [DVD].txt"
     },
     {
       "year": 2003,
@@ -11220,7 +11952,8 @@ const ARTIST_DATA = {
       "venue": "Sound Advice Amphitheater",
       "notes": "",
       "version": "SBD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "pj2003-04-11 - West Palm Beach, FL - Sound Advice Amphitheater [DVD].txt"
     },
     {
       "year": 2003,
@@ -11246,7 +11979,8 @@ const ARTIST_DATA = {
       "venue": "House of Blues",
       "notes": "",
       "version": "SBD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "pj2003-04-12 - Lake Buena Vista, FL - House of Blues (PRO) [DVD].txt"
     },
     {
       "year": 2003,
@@ -11259,7 +11993,8 @@ const ARTIST_DATA = {
       "venue": "House of Blues",
       "notes": "SBD + DPA 4061 \u00b7 2 source mix",
       "version": "MIX",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "pj2003-04-12.mix.flac.txt"
     },
     {
       "year": 2003,
@@ -11285,7 +12020,8 @@ const ARTIST_DATA = {
       "venue": "St. Pete Times Forum",
       "notes": "",
       "version": "SBD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "pj2003-04-13 - Tampa, FL - St. Pete Times Forum - DV(M) [DVD].txt"
     },
     {
       "year": 2003,
@@ -11428,7 +12164,8 @@ const ARTIST_DATA = {
       "venue": "First Union Spectrum",
       "notes": "",
       "version": "SBD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "pj2003-04-28 - Philadelphia, PA - First Union Spectrum Arena - VHS(1) [DVD].txt"
     },
     {
       "year": 2003,
@@ -11454,7 +12191,8 @@ const ARTIST_DATA = {
       "venue": "Pepsi Arena",
       "notes": "",
       "version": "SBD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "pj2003-04-29 - Albany, NY - Pepsi Arena - VHS(1) [DVD].txt"
     },
     {
       "year": 2003,
@@ -11480,7 +12218,8 @@ const ARTIST_DATA = {
       "venue": "Nassau Coliseum",
       "notes": "",
       "version": "SBD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "pj2003-04-30 - Uniondale, NY - Nassau Coliseum - AUD(M) [DVD].txt"
     },
     {
       "year": 2003,
@@ -11506,7 +12245,8 @@ const ARTIST_DATA = {
       "venue": "HSBC Arena",
       "notes": "",
       "version": "SBD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "pj2003-05-02 - Buffalo, NY - HSBC Arena - Digital8(M) [DVD].txt"
     },
     {
       "year": 2003,
@@ -11558,7 +12298,8 @@ const ARTIST_DATA = {
       "venue": "GM Place",
       "notes": "",
       "version": "SBD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "pj2003-05-30 - Vancouver, BC - GM Place [DVD].txt"
     },
     {
       "year": 2003,
@@ -11597,7 +12338,8 @@ const ARTIST_DATA = {
       "venue": "Verizon Wireless Amphitheatre",
       "notes": "",
       "version": "SBD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "pj2003-06-02 - Irvine, CA - Verizon Wireless Amphitheater, Irvine, CA - AUD(M) [DVD].txt"
     },
     {
       "year": 2003,
@@ -11623,7 +12365,8 @@ const ARTIST_DATA = {
       "venue": "Verizon Wireless Amphitheatre",
       "notes": "",
       "version": "SBD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "pj2003-06-03 - Irvine, CA - Verizon Wireless Amphitheater - AUD(M) [DVD].txt"
     },
     {
       "year": 2003,
@@ -11649,7 +12392,8 @@ const ARTIST_DATA = {
       "venue": "San Diego Sports Arena",
       "notes": "",
       "version": "SBD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "pj2003-06-05 - San Diego, CA - Sports Arena - AUD(M) [DVD].txt"
     },
     {
       "year": 2003,
@@ -11675,7 +12419,8 @@ const ARTIST_DATA = {
       "venue": "MGM Grand Arena",
       "notes": "",
       "version": "SBD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "pj2003-06-06 - Las Vegas, NV - MGM Grand Arena - AUD(M) [DVD].txt"
     },
     {
       "year": 2003,
@@ -11727,7 +12472,8 @@ const ARTIST_DATA = {
       "venue": "Alltel Arena",
       "notes": "",
       "version": "SBD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "pj2003-06-10 - North Little Rock, AK - Alltel Arena - AUD(M) [DVD].txt"
     },
     {
       "year": 2003,
@@ -11805,7 +12551,8 @@ const ARTIST_DATA = {
       "venue": "United Center",
       "notes": "",
       "version": "SBD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "pj2003-06-18 - Chicago, IL - United Center - AUD(M) [DVD].txt"
     },
     {
       "year": 2003,
@@ -11844,7 +12591,8 @@ const ARTIST_DATA = {
       "venue": "Verizon Wireless Music Center",
       "notes": "",
       "version": "SBD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "pj2003-06-22 - Noblesville, IN - Verizon Wireless Music Center - AUD(M) [DVD].txt"
     },
     {
       "year": 2003,
@@ -11909,7 +12657,8 @@ const ARTIST_DATA = {
       "venue": "Molson Amphitheatre",
       "notes": "",
       "version": "SBD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "pj2003-06-28.scheck.csb.flac.txt"
     },
     {
       "year": 2003,
@@ -11987,7 +12736,8 @@ const ARTIST_DATA = {
       "venue": "Camden, NJ / Tweeter Center at the Waterfront",
       "notes": "",
       "version": "SBD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "pj2003-07-05 - Camden, NJ - Tweeter Center at the Waterfront (Master) (PRO) [DVD].txt"
     },
     {
       "year": 2003,
@@ -12013,7 +12763,8 @@ const ARTIST_DATA = {
       "venue": "Tweeter Center at the Waterfront",
       "notes": "",
       "version": "SBD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "pj2003-07-06 - Camden, NJ - Tweeter Center (Master) (PRO) [DVD].txt"
     },
     {
       "year": 2003,
@@ -12052,7 +12803,8 @@ const ARTIST_DATA = {
       "venue": "Madison Square Garden",
       "notes": "",
       "version": "SBD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "pj2003-07-09 - New York, NY - Madison Square Garden - MiniDV(M) [DVD].txt"
     },
     {
       "year": 2003,
@@ -12091,7 +12843,8 @@ const ARTIST_DATA = {
       "venue": "Hershey Stadium",
       "notes": "",
       "version": "SBD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "pj2003-07-12 - Hershey, PA - Hershey Park Stadium - Sony MiniDV(M) [DVD].txt"
     },
     {
       "year": 2003,
@@ -12156,7 +12909,8 @@ const ARTIST_DATA = {
       "venue": "Palacio de los Deportes",
       "notes": "",
       "version": "SBD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "pj2003-07-19 - Me\u0301xico City [DVD-TV].txt"
     },
     {
       "year": 2003,
@@ -12195,7 +12949,8 @@ const ARTIST_DATA = {
       "venue": "",
       "notes": "",
       "version": "AUD",
-      "format": "DVD"
+      "format": "DVD",
+      "textFile": "pj2003-10-22.schoeps.flac.txt"
     },
     {
       "year": 2003,
@@ -12208,7 +12963,8 @@ const ARTIST_DATA = {
       "venue": "Shoreline Amphitheatre / 17th Annual Bridge School Benefit",
       "notes": "Schoeps",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "pj2003-10-25.schoeps.flac.txt"
     },
     {
       "year": 2003,
@@ -12221,7 +12977,8 @@ const ARTIST_DATA = {
       "venue": "Shoreline Amphitheatre / 17th Annual Bridge School Benefit",
       "notes": "Schoeps",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "pj2003-10-26.schoeps.flac.txt"
     },
     {
       "year": 2003,
@@ -12234,7 +12991,8 @@ const ARTIST_DATA = {
       "venue": "County Bowl",
       "notes": "Louis Warschaw Cancer Benefit \u00b7 Schoeps",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "pj2003-10-28 - Santa Barbara, CA - Santa Barbara Bowl - AUD(M) [DVD].txt"
     },
     {
       "year": 2003,
@@ -12247,7 +13005,8 @@ const ARTIST_DATA = {
       "venue": "County Bowl (Louis Warschaw Cancer Benefit)",
       "notes": "AUD(M)",
       "version": "AUD",
-      "format": "DVD"
+      "format": "DVD",
+      "textFile": "pj2003-10-28.schoeps.flac.txt"
     },
     {
       "year": 2004,
@@ -12260,7 +13019,8 @@ const ARTIST_DATA = {
       "venue": "Westin Hotel",
       "notes": "unk",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "pj2004-04-09.unk.flac.txt"
     },
     {
       "year": 2004,
@@ -12273,7 +13033,8 @@ const ARTIST_DATA = {
       "venue": "The Showbox",
       "notes": "Schoeps",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "pj2004-09-24.schoeps.flac.txt"
     },
     {
       "year": 2004,
@@ -12286,7 +13047,8 @@ const ARTIST_DATA = {
       "venue": "Fleet Center",
       "notes": "Schoeps CMC6/mk4",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "pj2004-09-28.mk4.flac.txt"
     },
     {
       "year": 2004,
@@ -12299,7 +13061,8 @@ const ARTIST_DATA = {
       "venue": "Fleet Center",
       "notes": "Schoeps",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "pj2004-09-29 - Boston, MA - FleetCenter (2 cam mix) [DVD].txt"
     },
     {
       "year": 2004,
@@ -12312,7 +13075,8 @@ const ARTIST_DATA = {
       "venue": "Fleet Center",
       "notes": "",
       "version": "AUD",
-      "format": "DVD"
+      "format": "DVD",
+      "textFile": "pj2004-09-29 - Boston, MA - FleetCenter [DVD].txt"
     },
     {
       "year": 2004,
@@ -12325,7 +13089,8 @@ const ARTIST_DATA = {
       "venue": "Fleet Center",
       "notes": "2 cam mix",
       "version": "AUD",
-      "format": "DVD"
+      "format": "DVD",
+      "textFile": "pj2004-09-29.mafia.flac.txt"
     },
     {
       "year": 2004,
@@ -12338,7 +13103,8 @@ const ARTIST_DATA = {
       "venue": "Ed Sullivan Theatre",
       "notes": "Late \u00b7 leehro",
       "version": "TV",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "pj2004-09-30.tv.flac.txt"
     },
     {
       "year": 2004,
@@ -12351,7 +13117,8 @@ const ARTIST_DATA = {
       "venue": "Sovereign Center *VFC Reading",
       "notes": "SV070 \u00b7 Geffel M20-pre set / Schoeps-main set \u00b7 mafia + cps",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "pj2004-10-01 - Reading, PA - Sovereign Center - AUD(M) [DVD].txt"
     },
     {
       "year": 2004,
@@ -12364,7 +13131,8 @@ const ARTIST_DATA = {
       "venue": "Sovereign Center",
       "notes": "AUD(M)",
       "version": "AUD",
-      "format": "DVD"
+      "format": "DVD",
+      "textFile": "pj2004-10-01.sv070.flac.txt"
     },
     {
       "year": 2004,
@@ -12377,7 +13145,8 @@ const ARTIST_DATA = {
       "venue": "Toledo Sports Arena",
       "notes": "CSB \u00b7 z-man",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "pj2004-10-02 - Sports Arena, Toledo, OH (Sony TR70 miniDV) - AUD(M) [DVD].txt"
     },
     {
       "year": 2004,
@@ -12390,7 +13159,8 @@ const ARTIST_DATA = {
       "venue": "Toledo Sports Arena *VFC Toledo",
       "notes": "SV071 \u00b7 Schoeps + DPA4022 \u00b7 mafia + george wang",
       "version": "MIX",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "pj2004-10-02.csb.flac.txt"
     },
     {
       "year": 2004,
@@ -12403,7 +13173,8 @@ const ARTIST_DATA = {
       "venue": "Delta Plex *VFC Grand Rapids",
       "notes": "SV072 \u00b7 Schoeps + DAB \u00b7 mafia + sullen",
       "version": "MIX",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "pj2004-10-03 - Delta Plex, Grand Rapids, MI [2 DVD].txt"
     },
     {
       "year": 2004,
@@ -12416,7 +13187,8 @@ const ARTIST_DATA = {
       "venue": "Delta Plex",
       "notes": "Sony DCR-TRV22 \u00b7 rw",
       "version": "AUD",
-      "format": "DVD"
+      "format": "DVD",
+      "textFile": "pj2004-10-03 - Grand Rapids, MI - Delta Plex - MiniDV(M) [DVD].txt"
     },
     {
       "year": 2004,
@@ -12429,7 +13201,8 @@ const ARTIST_DATA = {
       "venue": "Delta Plex",
       "notes": "MiniDV(M)",
       "version": "AUD",
-      "format": "DVD"
+      "format": "DVD",
+      "textFile": "pj2004-10-03.sv072.flac.txt"
     },
     {
       "year": 2004,
@@ -12442,7 +13215,8 @@ const ARTIST_DATA = {
       "venue": "Fox Theatre",
       "notes": "DAT(M) \u00b7 DPA 4061s \u00b7 tapeworm48 \u00b7 Schoeps \u00b7 mafia",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "pj2004-10-05.dpa4061.flac16.txt"
     },
     {
       "year": 2004,
@@ -12455,7 +13229,8 @@ const ARTIST_DATA = {
       "venue": "Fox Theatre *VFC St. Louis",
       "notes": "SV073 \u00b7 Schoeps + AKGs \u00b7 mafia + unk",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "pj2004-10-05.sv073.flac.txt"
     },
     {
       "year": 2004,
@@ -12468,7 +13243,8 @@ const ARTIST_DATA = {
       "venue": "Asheville Civic Center *VFC Asheville",
       "notes": "SV074 \u00b7 DPA 4022 \u00b7 george wang",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "pj2004-10-06 - Asheville, NC - Civic Center (Master) (team dz) [DVD].txt"
     },
     {
       "year": 2004,
@@ -12481,7 +13257,8 @@ const ARTIST_DATA = {
       "venue": "Asheville Civic Center",
       "notes": "Master \u00b7 team dz",
       "version": "AUD",
-      "format": "DVD"
+      "format": "DVD",
+      "textFile": "pj2004-10-06.sv074.flac.txt"
     },
     {
       "year": 2004,
@@ -12494,7 +13271,8 @@ const ARTIST_DATA = {
       "venue": "Silver Spurs Arena *VFC Kissimmee",
       "notes": "SV075 \u00b7 pre-set DPA 4061s + main-set Schoeps \u00b7 mafia",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "pj2004-10-08 - Kissimmee, FL - Silver Spur Arena - MiniDV(M) (team dz) [DVD].txt"
     },
     {
       "year": 2004,
@@ -12507,7 +13285,8 @@ const ARTIST_DATA = {
       "venue": "Silver Spurs Arena",
       "notes": "MiniDV(M) \u00b7 team dz",
       "version": "AUD",
-      "format": "DVD"
+      "format": "DVD",
+      "textFile": "pj2004-10-08.sv075.flac.txt"
     },
     {
       "year": 2004,
@@ -12520,7 +13299,8 @@ const ARTIST_DATA = {
       "venue": "MCI Center *VFC Washington",
       "notes": "SV076 \u00b7 blg + leehro",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "pj2004-10-11 - Washington, DC - MCI Center - TV(M) (PRO #1) [DVD].txt"
     },
     {
       "year": 2004,
@@ -12533,7 +13313,8 @@ const ARTIST_DATA = {
       "venue": "MCI Center",
       "notes": "TV(M)",
       "version": "PRO #1",
-      "format": "DVD"
+      "format": "DVD",
+      "textFile": "pj2004-10-11.sv076.flac.txt"
     },
     {
       "year": 2005,
@@ -12546,7 +13327,8 @@ const ARTIST_DATA = {
       "venue": "Paramount Theatre",
       "notes": "Northwest School Benefit \u00b7 MD",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "pj2005-03-18 - Seattle, WA - Paramount Theatre - Northwest School Benefit (AMT #1) - AUD(M) [DVD].txt"
     },
     {
       "year": 2005,
@@ -12559,7 +13341,8 @@ const ARTIST_DATA = {
       "venue": "Paramount Theatre",
       "notes": "Northwest School Benefit \u00b7 SS DSM6-P \u00b7 datfly",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "pj2005-03-18.md.flac.txt"
     },
     {
       "year": 2005,
@@ -12572,7 +13355,8 @@ const ARTIST_DATA = {
       "venue": "Paramount Theatre (Northwest School Benefit)",
       "notes": "AUD(M)",
       "version": "AMT #1",
-      "format": "DVD"
+      "format": "DVD",
+      "textFile": "pj2005-03-18.ssdsm6-p.flac.txt"
     },
     {
       "year": 2005,
@@ -12585,7 +13369,8 @@ const ARTIST_DATA = {
       "venue": "Easy Street Records: CIMS 10th Anniversary",
       "notes": "unk \u00b7 remaster",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "pj2005-04-29.unk.remaster.flac.txt"
     },
     {
       "year": 2005,
@@ -12598,7 +13383,8 @@ const ARTIST_DATA = {
       "venue": "Adams Event Center",
       "notes": "Montanans for Tester Fundraiser \u00b7 SP-CMC-4 \u00b7 rainman",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "pj2005-08-29.sp-cmc4.flac.txt"
     },
     {
       "year": 2005,
@@ -12624,7 +13410,8 @@ const ARTIST_DATA = {
       "venue": "The Gorge",
       "notes": "",
       "version": "SBD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "pj2005-09-01 - George, WA - The Gorge Amphitheatre - AUD(M) [DVD].txt"
     },
     {
       "year": 2005,
@@ -12728,7 +13515,8 @@ const ARTIST_DATA = {
       "venue": "Memorial Auditorium",
       "notes": "",
       "version": "SBD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "pj2005-09-11 - Ontario, CA - Kitchener Canada [DVD].txt"
     },
     {
       "year": 2005,
@@ -12845,7 +13633,8 @@ const ARTIST_DATA = {
       "venue": "Metro Centre",
       "notes": "",
       "version": "SBD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "pj2005-09-22 - Halifax, Nova Scotia - Metro Centre (inc) [DVD].txt"
     },
     {
       "year": 2005,
@@ -12897,7 +13686,8 @@ const ARTIST_DATA = {
       "venue": "PNC Park",
       "notes": "Canon ZR300",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "pj2005-09-28 - Pittsburgh, PA - PNC Park - AUD(M) [DVD].txt"
     },
     {
       "year": 2005,
@@ -12910,7 +13700,8 @@ const ARTIST_DATA = {
       "venue": "PNC Park",
       "notes": "AUD(M)",
       "version": "AUD",
-      "format": "DVD"
+      "format": "DVD",
+      "textFile": "pj2005-09-28.canon.flac.txt"
     },
     {
       "year": 2005,
@@ -12949,7 +13740,8 @@ const ARTIST_DATA = {
       "venue": "Wachovia Center",
       "notes": "",
       "version": "SBD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "pj2005-10-03 - Philadelphia, PA - Wachovia Center (4 cam mix) - AUD(M) [DVD].txt"
     },
     {
       "year": 2005,
@@ -12975,7 +13767,8 @@ const ARTIST_DATA = {
       "venue": "House of Blues",
       "notes": "DAT(M) \u00b7 MK4s",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "pj2005-10-05.mk4s.flac.txt"
     },
     {
       "year": 2005,
@@ -12988,7 +13781,8 @@ const ARTIST_DATA = {
       "venue": "Estadio San Carlos de Apoquindo",
       "notes": "",
       "version": "SBD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "pj2005-11-22 - Santiago, Chile (1st night) Pro-Shot DVD.txt"
     },
     {
       "year": 2005,
@@ -13001,7 +13795,8 @@ const ARTIST_DATA = {
       "venue": "Estadio San Carlos de Apoquindo",
       "notes": "AUD(M)",
       "version": "AUD",
-      "format": "DVD"
+      "format": "DVD",
+      "textFile": "pj2005-11-22 - Santiago, Chile - San Carlos De Apoguindo Stadium - AUD(M) [DVD].txt"
     },
     {
       "year": 2005,
@@ -13027,7 +13822,8 @@ const ARTIST_DATA = {
       "venue": "Estadio San Carlos de Apoquindo",
       "notes": "",
       "version": "SBD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "pj2005-11-23 - Chile [DVD].txt"
     },
     {
       "year": 2005,
@@ -13066,7 +13862,8 @@ const ARTIST_DATA = {
       "venue": "Ferrocarril Oeste Stadium",
       "notes": "",
       "version": "SBD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "pj2005-11-26 - Buenos Aires, Argentina - Estadio Ferrocarril Oeste (PRO) (Master) [DVD].txt"
     },
     {
       "year": 2005,
@@ -13079,7 +13876,8 @@ const ARTIST_DATA = {
       "venue": "Ferrocarril Oeste Stadium",
       "notes": "Master",
       "version": "PRO",
-      "format": "DVD"
+      "format": "DVD",
+      "textFile": "pj2005-11-26 - Buenos Aires, Argentina - Ferrocarril Oeste Soccer Stadium (PRO) [DVD].txt"
     },
     {
       "year": 2005,
@@ -13105,7 +13903,8 @@ const ARTIST_DATA = {
       "venue": "Gigantinho Gymnasium",
       "notes": "",
       "version": "SBD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "pj2005-11-28 - Porto Alegre, Brazil - Gigantinho Gymnasium - AUD(M) (felipe delazzeri) [DVD].txt"
     },
     {
       "year": 2005,
@@ -13131,7 +13930,8 @@ const ARTIST_DATA = {
       "venue": "Pedreira Paulo Leminski",
       "notes": "",
       "version": "SBD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "pj2005-11-30 - Curitiba, Brazil - Pedreira Paulo Leminski [DVD].txt"
     },
     {
       "year": 2005,
@@ -13157,7 +13957,8 @@ const ARTIST_DATA = {
       "venue": "Pacaembu",
       "notes": "",
       "version": "SBD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "pj2005-12-02 - Sao Paulo, Brazil - Pacaembu - AUD(M) [DVD].txt"
     },
     {
       "year": 2005,
@@ -13183,7 +13984,8 @@ const ARTIST_DATA = {
       "venue": "Pacaembu",
       "notes": "",
       "version": "SBD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "pj2005-12-03 - Sao Paulo, Brazil - Pacaembu Stadium - AUD(M) [DVD].txt"
     },
     {
       "year": 2005,
@@ -13222,7 +14024,8 @@ const ARTIST_DATA = {
       "venue": "Apoteose",
       "notes": "",
       "version": "SBD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "pj2005-12-04 - Rio de Janeiro, Brazil - Praca da Apoteose (AMT #1) [DVD].txt"
     },
     {
       "year": 2005,
@@ -13274,7 +14077,8 @@ const ARTIST_DATA = {
       "venue": "Palacio de los Deportes",
       "notes": "",
       "version": "SBD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "pj2005-12-10 - Mexico City, MX - Palacio de los Deportes - AUD(M) [DVD].txt"
     },
     {
       "year": 2005,
@@ -13300,7 +14104,8 @@ const ARTIST_DATA = {
       "venue": "Sessions @ AOL",
       "notes": "Studio X \u00b7 mam1680",
       "version": "WEB",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "pj2006-02-27 - AOL Sessions (PRO) [DVD].txt"
     },
     {
       "year": 2006,
@@ -13313,7 +14118,8 @@ const ARTIST_DATA = {
       "venue": "Sessions @ AOL",
       "notes": "Studio X",
       "version": "PRO",
-      "format": "DVD"
+      "format": "DVD",
+      "textFile": "pj2006-02-27.web.flac.txt"
     },
     {
       "year": 2006,
@@ -13326,7 +14132,8 @@ const ARTIST_DATA = {
       "venue": "Ed Sullivan Theater",
       "notes": "Late \u00b7 leehro",
       "version": "TV",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "pj2006-04-05 - New York , NY - Ed Sullivan Theater (PRO) [DVD].txt"
     },
     {
       "year": 2006,
@@ -13339,7 +14146,8 @@ const ARTIST_DATA = {
       "venue": "Ed Sullivan Theater",
       "notes": "Late",
       "version": "PRO",
-      "format": "DVD"
+      "format": "DVD",
+      "textFile": "pj2006-04-05.tv.flac.txt"
     },
     {
       "year": 2006,
@@ -13352,7 +14160,8 @@ const ARTIST_DATA = {
       "venue": "NBC New York Studios / SNL",
       "notes": "2 channel",
       "version": "TV",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "pj2006-04-15 - New York, NY - SNL (PRO) [DVD].txt"
     },
     {
       "year": 2006,
@@ -13365,7 +14174,8 @@ const ARTIST_DATA = {
       "venue": "NBC New York Studios / SNL",
       "notes": "6 channel",
       "version": "TV",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "pj2006-04-15.tv.2ch.flac.txt"
     },
     {
       "year": 2006,
@@ -13378,7 +14188,8 @@ const ARTIST_DATA = {
       "venue": "NBC New York Studios / SNL",
       "notes": "",
       "version": "PRO",
-      "format": "DVD"
+      "format": "DVD",
+      "textFile": "pj2006-04-15.tv.6ch.flac.txt"
     },
     {
       "year": 2006,
@@ -13391,7 +14202,8 @@ const ARTIST_DATA = {
       "venue": "Astoria",
       "notes": "DAT(M) \u00b7 unk",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "pj2006-04-20.unk.flac.txt"
     },
     {
       "year": 2006,
@@ -13404,7 +14216,8 @@ const ARTIST_DATA = {
       "venue": "BBC Maida Vale Studios",
       "notes": "Radio 1 Broadcast",
       "version": "FM",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "pj2006-05-03.fm.flac.txt"
     },
     {
       "year": 2006,
@@ -13417,7 +14230,8 @@ const ARTIST_DATA = {
       "venue": "Ed Sullivan Theater",
       "notes": "gvntofly1021",
       "version": "WEB",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "pj2006-05-04.flac.txt"
     },
     {
       "year": 2006,
@@ -13430,7 +14244,8 @@ const ARTIST_DATA = {
       "venue": "Irving Plaza",
       "notes": "Sony D8 DAT Walkman + CSB",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "pj2006-05-05 - London, UK - Later With Jools Holland (PRO) [DVD].txt"
     },
     {
       "year": 2006,
@@ -13443,7 +14258,8 @@ const ARTIST_DATA = {
       "venue": "Irving Plaza",
       "notes": "unk",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "pj2006-05-05.csb.flac.txt"
     },
     {
       "year": 2006,
@@ -13469,7 +14285,8 @@ const ARTIST_DATA = {
       "venue": "BBC Television Centre",
       "notes": "Later...with \u00b7 BBC Two",
       "version": "TV",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "pj2006-05-06.tv.flac.txt"
     },
     {
       "year": 2006,
@@ -13508,7 +14325,8 @@ const ARTIST_DATA = {
       "venue": "Pepsi Arena",
       "notes": "",
       "version": "SBD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "pj2006-05-12 - Albany, NY - Pepsi Arena (5 cam mix) - 4 MiniDV(M) (release coalition) [DVD].txt"
     },
     {
       "year": 2006,
@@ -13547,7 +14365,8 @@ const ARTIST_DATA = {
       "venue": "United Center",
       "notes": "",
       "version": "SBD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "pj2006-05-16 - Chicago, IL - United Center (release coalition) (Master) (inc) [DVD].txt"
     },
     {
       "year": 2006,
@@ -13573,7 +14392,8 @@ const ARTIST_DATA = {
       "venue": "United Center",
       "notes": "",
       "version": "SBD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "pj2006-05-17 - Chicago, IL - United Center - MiniDV(M) (release coalition) [DVD].txt"
     },
     {
       "year": 2006,
@@ -13599,7 +14419,8 @@ const ARTIST_DATA = {
       "venue": "Van Andel Arena",
       "notes": "",
       "version": "SBD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "pj2006-05-19 - Grand Rapids, MI - Van Andel Arena (2 cam mix) - MiniDV(M) (release coalition) [DVD].txt"
     },
     {
       "year": 2006,
@@ -13625,7 +14446,8 @@ const ARTIST_DATA = {
       "venue": "Quicken Loans Arena",
       "notes": "",
       "version": "SBD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "pj2006-05-20+30 - Cleveland, OH - Quicken Loans Arena + Washington DC (inc) - AUD(M) [DVD].txt"
     },
     {
       "year": 2006,
@@ -13651,7 +14473,8 @@ const ARTIST_DATA = {
       "venue": "TD Banknorth Garden",
       "notes": "",
       "version": "SBD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "pj2006-05-24 - Boston, MA - TD Banknorth Garden (2 cam mix) (release coalition) [DVD].txt"
     },
     {
       "year": 2006,
@@ -13703,7 +14526,8 @@ const ARTIST_DATA = {
       "venue": "Tweeter Waterfront",
       "notes": "",
       "version": "SBD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "pj2006-05-28 - Camden, NJ - Tweeter Waterfront (AMT #1) - AUD(M) [DVD].txt"
     },
     {
       "year": 2006,
@@ -13742,7 +14566,8 @@ const ARTIST_DATA = {
       "venue": "The Avalon",
       "notes": "MHD",
       "version": "TV",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "pj2006-05-31.tv.web.flac.txt"
     },
     {
       "year": 2006,
@@ -13768,7 +14593,8 @@ const ARTIST_DATA = {
       "venue": "Continental Airlines Arena",
       "notes": "",
       "version": "SBD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "pj2006-06-01 - East Rutherford, NJ - Continental Airlines Arena (release coalition) - AUD(M) [DVD].txt"
     },
     {
       "year": 2006,
@@ -13794,7 +14620,8 @@ const ARTIST_DATA = {
       "venue": "Continental Airlines Arena",
       "notes": "",
       "version": "SBD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "pj2006-06-03 - East Rutherford, NJ - Continental Airlines Arena (release coalition) - MiniDV(M) [DVD].txt"
     },
     {
       "year": 2006,
@@ -13820,7 +14647,8 @@ const ARTIST_DATA = {
       "venue": "Mellon Arena",
       "notes": "",
       "version": "SBD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "pj2006-06-23 - Pittsburgh, PA - Mellon Arena (release coalition) - DV(M) [DVD].txt"
     },
     {
       "year": 2006,
@@ -13846,7 +14674,8 @@ const ARTIST_DATA = {
       "venue": "US Bank Arena",
       "notes": "",
       "version": "SBD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "pj2006-06-24 - Cincinnati, OH - U.S. Bank Arena (5 cam mix) - MiniDV(M) [AUD].txt"
     },
     {
       "year": 2006,
@@ -13885,7 +14714,8 @@ const ARTIST_DATA = {
       "venue": "Xcel Energy Center",
       "notes": "",
       "version": "SBD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "pj2006-06-27 - St. Paul, MN - Xcel Energy Center - DV(M) (team dz).txt"
     },
     {
       "year": 2006,
@@ -13937,7 +14767,8 @@ const ARTIST_DATA = {
       "venue": "Pepsi Center",
       "notes": "",
       "version": "SBD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "pj2006-07-02 - Denver, CO - Pepsi Center - MiniDV(M) [DVD].txt"
     },
     {
       "year": 2006,
@@ -13963,7 +14794,8 @@ const ARTIST_DATA = {
       "venue": "Pepsi Center",
       "notes": "",
       "version": "SBD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "pj2006-07-03 - Denver, CO - Pepsi Center - MiniDV(M) (release coalition) [DVD].txt"
     },
     {
       "year": 2006,
@@ -13989,7 +14821,8 @@ const ARTIST_DATA = {
       "venue": "MGM Grande",
       "notes": "",
       "version": "SBD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "pj2006-07-06 - Las Vegas, NV - MGM Grand (2 cam mix) - MiniDV(M) [DVD].txt"
     },
     {
       "year": 2006,
@@ -14028,7 +14861,8 @@ const ARTIST_DATA = {
       "venue": "The Forum",
       "notes": "",
       "version": "SBD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "pj2006-07-09 - Los Angeles, CA - The Forum (3 cam mix) - MiniDV(M) [DVD].txt"
     },
     {
       "year": 2006,
@@ -14067,7 +14901,8 @@ const ARTIST_DATA = {
       "venue": "Henry Fonda Theatre",
       "notes": "Schoeps MK4s",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "pj2006-07-12.mk4.flac.txt"
     },
     {
       "year": 2006,
@@ -14106,7 +14941,8 @@ const ARTIST_DATA = {
       "venue": "Bill Graham Civic Auditorium",
       "notes": "",
       "version": "SBD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "pj2006-07-16 - San Francisco, CA - Bill Graham Civic Auditorium - DV(M) [DVD].txt"
     },
     {
       "year": 2006,
@@ -14132,7 +14968,8 @@ const ARTIST_DATA = {
       "venue": "Bill Graham Civic Auditorium",
       "notes": "",
       "version": "SBD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "pj2006-07-18 - San Francisco, CA - BG Civic Auditorium - AUD(M) (release coalition) [DVD].txt"
     },
     {
       "year": 2006,
@@ -14158,7 +14995,8 @@ const ARTIST_DATA = {
       "venue": "Arlene Schnitzer Concert Hall",
       "notes": "",
       "version": "SBD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "pj2006-07-20 - Portland, OR - Arlene Schnitzer Concert Hall - MiniDV(M) (release coalition) [DVD].txt"
     },
     {
       "year": 2006,
@@ -14197,7 +15035,8 @@ const ARTIST_DATA = {
       "venue": "The Gorge Amphitheatre",
       "notes": "",
       "version": "SBD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "pj2006-07-23 - George, WA - Gorge Amphitheatre (2 cam mix) - AUD(M) (release coalition) [DVD].txt"
     },
     {
       "year": 2006,
@@ -14249,7 +15088,8 @@ const ARTIST_DATA = {
       "venue": "Reading Festival",
       "notes": "",
       "version": "SBD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "pj2006-08-27 - Reading, UK - Reading Festival (DVD).txt"
     },
     {
       "year": 2006,
@@ -14275,7 +15115,8 @@ const ARTIST_DATA = {
       "venue": "Gelredome",
       "notes": "",
       "version": "SBD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "pj2006-08-29 - Arnhem, The Netherlands - Gelredome  - MiniDV(M) (2 cam mix) [DVD].txt"
     },
     {
       "year": 2006,
@@ -14314,7 +15155,8 @@ const ARTIST_DATA = {
       "venue": "Pavello Olimpic de Badalona",
       "notes": "",
       "version": "SBD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "pj2006-09-01 - Barcelona, Spain - Pavello Olimpic De Badalona [DVD].txt"
     },
     {
       "year": 2006,
@@ -14340,7 +15182,8 @@ const ARTIST_DATA = {
       "venue": "Azkena Rock Festival",
       "notes": "",
       "version": "SBD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "pj2006-09-02 - Vitoria, Spain - Azkena Rock Festival (sub power TV) [DVD].txt"
     },
     {
       "year": 2006,
@@ -14366,7 +15209,8 @@ const ARTIST_DATA = {
       "venue": "Pavilhao Atlantico",
       "notes": "",
       "version": "SBD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "pj2006-09-04 - Lisbon, Portugal - Pavilhao Atlantico - MiniDV(M) [DVD].txt"
     },
     {
       "year": 2006,
@@ -14392,7 +15236,8 @@ const ARTIST_DATA = {
       "venue": "Pavilhao Atlantico",
       "notes": "",
       "version": "SBD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "pj2006-09-05 - Lisbon, Portugual - Pavilhao Atlantico - MiniDV(M) (2 cam mix) [DVD].txt"
     },
     {
       "year": 2006,
@@ -14470,7 +15315,8 @@ const ARTIST_DATA = {
       "venue": "PalaMalaguti",
       "notes": "",
       "version": "SBD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "pj2006-09-14 - Bologna, Italy - Palamalaguti - AUD(M) (Sony PC101) [DVD].txt"
     },
     {
       "year": 2006,
@@ -14496,7 +15342,8 @@ const ARTIST_DATA = {
       "venue": "Arena di Verona",
       "notes": "",
       "version": "SBD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "pj2006-09-16 - Verona, Italy - Arena di Verona (4 cam mix) - AUD(M) [DVD].txt"
     },
     {
       "year": 2006,
@@ -14509,7 +15356,8 @@ const ARTIST_DATA = {
       "venue": "Arena di Verona",
       "notes": "",
       "version": "AUD",
-      "format": "DVD"
+      "format": "DVD",
+      "textFile": "pj2006-09-16 - Verona, Italy - Arena di Verona [DVD].txt"
     },
     {
       "year": 2006,
@@ -14535,7 +15383,8 @@ const ARTIST_DATA = {
       "venue": "Forum",
       "notes": "",
       "version": "SBD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "pj2006-09-17 - Milano, Italy - Datch Forum - AUD(M) (2 cam mix) [DVD].txt"
     },
     {
       "year": 2006,
@@ -14561,7 +15410,8 @@ const ARTIST_DATA = {
       "venue": "Palaisozaki",
       "notes": "",
       "version": "SBD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "pj2006-09-19 - Torino, Italy - Palaisozaki (AUD) [DVD].txt"
     },
     {
       "year": 2006,
@@ -14587,7 +15437,8 @@ const ARTIST_DATA = {
       "venue": "Duomo Square",
       "notes": "",
       "version": "SBD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "pj2006-09-20 - Pistoia, Italy - Piazza Duomo - AUD(M) [DVD] .txt"
     },
     {
       "year": 2006,
@@ -14613,7 +15464,8 @@ const ARTIST_DATA = {
       "venue": "Sazka Arena",
       "notes": "",
       "version": "SBD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "pj2006-09-22 - Czech Republic - Sazka Arena, Prague - AUD(M) [DVD].txt"
     },
     {
       "year": 2006,
@@ -14639,7 +15491,8 @@ const ARTIST_DATA = {
       "venue": "Wuhlheide",
       "notes": "",
       "version": "SBD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "pj2006-09-23 - Berlin, Germany - Kindl-Buhne Wuhlheide (2 cam mix) (release coalition) [DVD].txt"
     },
     {
       "year": 2006,
@@ -14665,7 +15518,8 @@ const ARTIST_DATA = {
       "venue": "Stadthalle",
       "notes": "",
       "version": "SBD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "pj2006-09-25 - Vienna, Austria - Stadthalle (Sony HC-21) [DVD].txt"
     },
     {
       "year": 2006,
@@ -14691,7 +15545,8 @@ const ARTIST_DATA = {
       "venue": "Dom Sportova",
       "notes": "",
       "version": "AUD",
-      "format": "DVD"
+      "format": "DVD",
+      "textFile": "pj2006-09-26 - Zagreb, Croatia - Dom Sportova [DVD].txt"
     },
     {
       "year": 2006,
@@ -14704,7 +15559,8 @@ const ARTIST_DATA = {
       "venue": "OAKA Sports Hall",
       "notes": "",
       "version": "SBD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "pj2006-09-30 - Athens, Greece  - OAKA Sports Hall (v2) - AUD(M) (global voodoo) [DVD].txt"
     },
     {
       "year": 2006,
@@ -14730,7 +15586,8 @@ const ARTIST_DATA = {
       "venue": "Bridge School Benefit",
       "notes": "Neumann KM140s",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "pj2006-10-21-22 - Mountain View, CA - Shorline Amphitheatre - Bridge School - AUD(M) (release coalition) [DVD].txt"
     },
     {
       "year": 2006,
@@ -14743,7 +15600,8 @@ const ARTIST_DATA = {
       "venue": "Bridge School Benefit",
       "notes": "Schoep CCM4",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "pj2006-10-21.km240s.flac.txt"
     },
     {
       "year": 2006,
@@ -14756,7 +15614,8 @@ const ARTIST_DATA = {
       "venue": "Bridge School Benefit",
       "notes": "Neumann KM140s",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "pj2006-10-22.km240s.flac.txt"
     },
     {
       "year": 2006,
@@ -14769,7 +15628,8 @@ const ARTIST_DATA = {
       "venue": "Bridge School Benefit",
       "notes": "Schoep CCM4",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "pj2006-10-22.schoeps.flac.txt"
     },
     {
       "year": 2006,
@@ -14873,7 +15733,8 @@ const ARTIST_DATA = {
       "venue": "Rod Laver Arena",
       "notes": "",
       "version": "SBD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "pj2006-11-16 - Melbourne, Australia - Rod Lava Arena - MiniDV(M) (inc) [DVD].txt"
     },
     {
       "year": 2006,
@@ -14899,7 +15760,8 @@ const ARTIST_DATA = {
       "venue": "Sidney Myer Music Bowl",
       "notes": "ujam",
       "version": "PRO",
-      "format": "DVD"
+      "format": "DVD",
+      "textFile": "pj2006-11-17 -  Melbourne, Australia - Sidney Myer Music Bowl (PRO) (ujam) [DVD].txt"
     },
     {
       "year": 2006,
@@ -14990,7 +15852,8 @@ const ARTIST_DATA = {
       "venue": "Blaisdell Center",
       "notes": "",
       "version": "SBD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "pj2006-12-02 - Honolulu, HI - Blaisedell Center (AUD) (bitch committee) [DVD].txt"
     },
     {
       "year": 2006,
@@ -15016,7 +15879,8 @@ const ARTIST_DATA = {
       "venue": "Aloha Stadium",
       "notes": "CSB",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "pj2006-12-09 - Honolulu, HI - Aloha Stadium [DVD].txt"
     },
     {
       "year": 2006,
@@ -15029,7 +15893,8 @@ const ARTIST_DATA = {
       "venue": "Aloha Stadium",
       "notes": "",
       "version": "AUD",
-      "format": "DVD"
+      "format": "DVD",
+      "textFile": "pj2006-12-09.csb.flac.txt"
     },
     {
       "year": 2007,
@@ -15042,7 +15907,8 @@ const ARTIST_DATA = {
       "venue": "Passeio Maritimo Alges",
       "notes": "unk",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "pj2007-06-08 - Lisbon, Portugal - Alive Festival (PRO) [DVD].txt"
     },
     {
       "year": 2007,
@@ -15055,7 +15921,8 @@ const ARTIST_DATA = {
       "venue": "Passeio Maritimo Alges",
       "notes": "",
       "version": "TV",
-      "format": "AVI"
+      "format": "AVI",
+      "textFile": "pj2007-06-08.unk.flac.txt"
     },
     {
       "year": 2007,
@@ -15081,7 +15948,8 @@ const ARTIST_DATA = {
       "venue": "Festimad Sur; Leganes",
       "notes": "Radio 3FM Broadcast \u00b7 davidpm",
       "version": "FM",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "pj2007-06-09.fm.flac.txt"
     },
     {
       "year": 2007,
@@ -15094,7 +15962,8 @@ const ARTIST_DATA = {
       "venue": "Olympiahalle",
       "notes": "MBHO \u00b7 digijam",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "pj2007-06-12 - Munich, Germany - Olympiahalle - MiniDV(M) [DVD].rtf"
     },
     {
       "year": 2007,
@@ -15107,7 +15976,8 @@ const ARTIST_DATA = {
       "venue": "Olympiahalle",
       "notes": "MiniDV(M)",
       "version": "AUD",
-      "format": "DVD"
+      "format": "DVD",
+      "textFile": "pj2007-06-12.mbho.flac.txt"
     },
     {
       "year": 2007,
@@ -15120,7 +15990,8 @@ const ARTIST_DATA = {
       "venue": "Silesia Stadium",
       "notes": "HiMD(M) \u00b7 Sony MZ-NH700 \u00b7 snsik",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "pj2007-06-13 -  Katowice, Poland - Stadion Slaski - AUD(M) [DVD].txt"
     },
     {
       "year": 2007,
@@ -15133,7 +16004,8 @@ const ARTIST_DATA = {
       "venue": "Silesia Stadium",
       "notes": "AUD(M)",
       "version": "AUD",
-      "format": "DVD"
+      "format": "DVD",
+      "textFile": "pj2007-06-13.md.flac.txt"
     },
     {
       "year": 2007,
@@ -15146,7 +16018,8 @@ const ARTIST_DATA = {
       "venue": "Nova Rock Festival",
       "notes": "Archos 404 \u00b7 ed briscoe",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "pj2007-06-16.archos.flac.txt"
     },
     {
       "year": 2007,
@@ -15159,7 +16032,8 @@ const ARTIST_DATA = {
       "venue": "Nova Rock Festival",
       "notes": "Sony MD \u00b7 mr. f",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "pj2007-06-16.md.flac.txt"
     },
     {
       "year": 2007,
@@ -15172,7 +16046,8 @@ const ARTIST_DATA = {
       "venue": "Wembley Arena",
       "notes": "HiMD(M) \u00b7 Sony ECM 717 \u00b7 randall",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "pj2007-06-18.ecm-717.txt"
     },
     {
       "year": 2007,
@@ -15185,7 +16060,8 @@ const ARTIST_DATA = {
       "venue": "ISS Dome",
       "notes": "Sony MD \u00b7 mr. f",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "pj2007-06-21.md.flac.txt"
     },
     {
       "year": 2007,
@@ -15198,7 +16074,8 @@ const ARTIST_DATA = {
       "venue": "ISS Dome",
       "notes": "MD(M) \u00b7 Sharp-MD-MT888",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "pj2007-06-21.sharp.flac.txt"
     },
     {
       "year": 2007,
@@ -15211,7 +16088,8 @@ const ARTIST_DATA = {
       "venue": "ISS Dome",
       "notes": "Sony ECM CS10 \u00b7 MZ-R-700",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "pj2007-06-21.sony-ecm.flac.txt"
     },
     {
       "year": 2007,
@@ -15224,7 +16102,8 @@ const ARTIST_DATA = {
       "venue": "Neuhausen ob Eck",
       "notes": "Southside Festival, Blue Stage \u00b7 KM140s",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "pj2007-06-23.km140.flac.txt"
     },
     {
       "year": 2007,
@@ -15237,7 +16116,8 @@ const ARTIST_DATA = {
       "venue": "Hurricane Festival",
       "notes": "SBD + Sony ECM-CS10",
       "version": "MIX",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "pj2007-06-24 - Scheessel, Germany - Hurricane Festival (5 cam mix) - VHS(1) [DVD].txt"
     },
     {
       "year": 2007,
@@ -15250,7 +16130,8 @@ const ARTIST_DATA = {
       "venue": "Hurricane Festival",
       "notes": "Radio Bremen 4",
       "version": "FM",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "pj2007-06-24 - Scheessel, Germany - Hurricane Festival (PRO) [DVD].txt"
     },
     {
       "year": 2007,
@@ -15263,7 +16144,8 @@ const ARTIST_DATA = {
       "venue": "Hurricane Festival",
       "notes": "VHS(1) \u00b7 5 cam mix",
       "version": "AUD",
-      "format": "DVD"
+      "format": "DVD",
+      "textFile": "pj2007-06-24.fm.flac.txt"
     },
     {
       "year": 2007,
@@ -15276,7 +16158,8 @@ const ARTIST_DATA = {
       "venue": "Hurricane Festival",
       "notes": "",
       "version": "PRO",
-      "format": "DVD"
+      "format": "DVD",
+      "textFile": "pj2007-06-24.mix.flac.txt"
     },
     {
       "year": 2007,
@@ -15289,7 +16172,8 @@ const ARTIST_DATA = {
       "venue": "Copenhagen Forum",
       "notes": "AT933 \u00b7 willer",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "pj2007-06-26.at933.flac.txt"
     },
     {
       "year": 2007,
@@ -15302,7 +16186,8 @@ const ARTIST_DATA = {
       "venue": "Goffertpark",
       "notes": "MM-MCSM-4 \u00b7 hanzel14",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "pj2007-06-28.mm-mcsm4.flac.txt"
     },
     {
       "year": 2007,
@@ -15315,7 +16200,8 @@ const ARTIST_DATA = {
       "venue": "Rock Werchter Festival",
       "notes": "Sony ECM-719 \u00b7 xwayne",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "pj2007-06-29 - Werchter, Belgium - Werchter Festival [DVD].txt"
     },
     {
       "year": 2007,
@@ -15328,7 +16214,8 @@ const ARTIST_DATA = {
       "venue": "Rock Werchter Festival",
       "notes": "",
       "version": "AUD",
-      "format": "DVD"
+      "format": "DVD",
+      "textFile": "pj2007-06-29.ecm-719.flac.txt"
     },
     {
       "year": 2007,
@@ -15367,7 +16254,8 @@ const ARTIST_DATA = {
       "venue": "Grant Park",
       "notes": "Lollapalooza",
       "version": "SBD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "pj2007-08-05 - Chicago, IL - Grant Park - Lollapalooza (2 Cam Version) (global voodoo) [DVD].txt"
     },
     {
       "year": 2007,
@@ -15380,7 +16268,8 @@ const ARTIST_DATA = {
       "venue": "Grant Park",
       "notes": "Lollapalooza",
       "version": "WEB",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "pj2007-08-05 - Lollapalooza (NTSC).txt"
     },
     {
       "year": 2007,
@@ -15393,7 +16282,8 @@ const ARTIST_DATA = {
       "venue": "Grant Park",
       "notes": "Lollapalooza",
       "version": "PRO",
-      "format": "DVD"
+      "format": "DVD",
+      "textFile": "pj2007-08-05.web.flac.txt"
     },
     {
       "year": 2007,
@@ -15419,7 +16309,8 @@ const ARTIST_DATA = {
       "venue": "McCready & Stone Gosssard Sets",
       "notes": "DVD audio rip",
       "version": "WEB",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "pj2007-08-17.web-dvd.flac.txt"
     },
     {
       "year": 2008,
@@ -15601,7 +16492,8 @@ const ARTIST_DATA = {
       "venue": "Beacon Theatre",
       "notes": "Robin \u00b7 Schoeps CCM4s \u00b7 ta",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "pj2008-07-01 - New York, NY - Beacon Theatre (blink eye projects) [DVD].txt"
     },
     {
       "year": 2008,
@@ -15614,7 +16506,8 @@ const ARTIST_DATA = {
       "venue": "Beacon Theatre",
       "notes": "Robin \u00b7 unk",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "pj2008-07-01.schoeps.flac.txt"
     },
     {
       "year": 2008,
@@ -15640,7 +16533,8 @@ const ARTIST_DATA = {
       "venue": "Pauley Pavilion",
       "notes": "VH1 \u00b7 MHD",
       "version": "TV",
-      "format": "TS"
+      "format": "TS",
+      "textFile": "pj2008-07-12 - Los Angeles, CA - Pauley Pavilion - VH1 Rock Honors [TV].txt"
     },
     {
       "year": 2009,
@@ -15666,7 +16560,8 @@ const ARTIST_DATA = {
       "venue": "Warner Bros. Studios",
       "notes": "Conan \u00b7 2ch \u00b7 pjvedder",
       "version": "TV",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "pj2009-06-01.tv.2ch.flac.txt"
     },
     {
       "year": 2009,
@@ -15679,7 +16574,8 @@ const ARTIST_DATA = {
       "venue": "Warner Bros. Studios",
       "notes": "Conan \u00b7 6ch \u00b7 unk",
       "version": "TV",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "pj2009-06-01.tv.6ch.flac.txt"
     },
     {
       "year": 2009,
@@ -15692,7 +16588,8 @@ const ARTIST_DATA = {
       "venue": "Warner Bros. Studios",
       "notes": "Conan \u00b7 jwb mastering/transfer",
       "version": "TV",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "pj2009-06-01.tv.flac.txt"
     },
     {
       "year": 2009,
@@ -15705,7 +16602,8 @@ const ARTIST_DATA = {
       "venue": "Virgin Festival",
       "notes": "",
       "version": "SBD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "pj2009-08-08 - Calgary, AB -Virgin Festival (Multi-cam mix) (alvarojam) [DVD].txt"
     },
     {
       "year": 2009,
@@ -15757,7 +16655,8 @@ const ARTIST_DATA = {
       "venue": "Wuhlheide",
       "notes": "",
       "version": "SBD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "pj2009-08-15 - Berlin, Germany - Kindl-Buehne Wuhlheide - AUD(M) (bettatest) (2 cam mix) [DVD].txt"
     },
     {
       "year": 2009,
@@ -15783,7 +16682,8 @@ const ARTIST_DATA = {
       "venue": "Manchester Evening News Arena",
       "notes": "",
       "version": "SBD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "pj2009-08-17 - Manchester, England - Manchester Arena (AUD) [DVD].txt"
     },
     {
       "year": 2009,
@@ -15809,7 +16709,8 @@ const ARTIST_DATA = {
       "venue": "02 Arena",
       "notes": "",
       "version": "SBD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "pj2009-08-18 - London, England - 02 Arena - AUD(M) (release coalition) [DVD].txt"
     },
     {
       "year": 2009,
@@ -15835,7 +16736,8 @@ const ARTIST_DATA = {
       "venue": "Molson Amphitheatre",
       "notes": "",
       "version": "SBD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "pj2009-08-21 - Toronto, Ontario - Molson Amphitheatre [DVD].txt"
     },
     {
       "year": 2009,
@@ -15900,7 +16802,8 @@ const ARTIST_DATA = {
       "venue": "Key Arena",
       "notes": "",
       "version": "SBD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "pj2009-09-21 - Seattle, WA - Key Arena - AUD(M) (animal projects) [DVD].txt"
     },
     {
       "year": 2009,
@@ -15926,7 +16829,8 @@ const ARTIST_DATA = {
       "venue": "Key Arena",
       "notes": "",
       "version": "SBD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "pj2009-09-22 - Seattle, WA - Key Arena - AUD(M) (animal projects) [DVD].txt"
     },
     {
       "year": 2009,
@@ -15952,7 +16856,8 @@ const ARTIST_DATA = {
       "venue": "GM Place",
       "notes": "",
       "version": "SBD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "pj2009-09-25 - Vancouver BC, General Motors Place (Canon TX-1) [DVD].txt"
     },
     {
       "year": 2009,
@@ -15978,7 +16883,8 @@ const ARTIST_DATA = {
       "venue": "Clark County Amphitheatre",
       "notes": "",
       "version": "SBD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "pj2009-09-26 - Portland, OR - Clark County Amphitheater (YouTube sourced) [DVD].txt"
     },
     {
       "year": 2009,
@@ -16043,7 +16949,8 @@ const ARTIST_DATA = {
       "venue": "Austin City Limits",
       "notes": "HD Broadcast",
       "version": "TV",
-      "format": "DVD"
+      "format": "DVD",
+      "textFile": "pj2009-10-03 - Austin City Limits - PBS Broadcast.txt"
     },
     {
       "year": 2009,
@@ -16056,7 +16963,8 @@ const ARTIST_DATA = {
       "venue": "Austin City Limits",
       "notes": "jahrastafari",
       "version": "SBD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "pj2009-10-04.tv.flac.txt"
     },
     {
       "year": 2009,
@@ -16082,7 +16990,8 @@ const ARTIST_DATA = {
       "venue": "Gibson Amphitheatre",
       "notes": "",
       "version": "SBD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "pj2009-10-07 - Universal City, CA - Gibson Amphitheatre (animal projects) (Master) [DVD].txt"
     },
     {
       "year": 2009,
@@ -16134,7 +17043,8 @@ const ARTIST_DATA = {
       "venue": "Wachovia Spectrum",
       "notes": "",
       "version": "SBD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "pj2009-10-28 - Philadelphia, PA - Wachovia Spectrum - AUD(M) (nycbc) [DVD].txt"
     },
     {
       "year": 2009,
@@ -16160,7 +17070,8 @@ const ARTIST_DATA = {
       "venue": "Wachovia Spectrum",
       "notes": "",
       "version": "SBD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "pj2009-10-30 - Philadelphia, PA - Wachovia Spectrum - AUD(M) (mfc172) [DVD].txt"
     },
     {
       "year": 2009,
@@ -16186,7 +17097,8 @@ const ARTIST_DATA = {
       "venue": "Wachovia Spectrum",
       "notes": "",
       "version": "SBD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "pj2009-10-31 - Philadelphia, PA - The Spectrum (3 cam mix) (darkgrin) [DVD].txt"
     },
     {
       "year": 2009,
@@ -16238,7 +17150,8 @@ const ARTIST_DATA = {
       "venue": "Etihad Stadium",
       "notes": "",
       "version": "SBD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "pj2009-11-20 - Melbourne, Australia - Etihad Stadium - AUD(M) (hebb productions) (blink eye) [DVD].txt"
     },
     {
       "year": 2009,
@@ -16264,7 +17177,8 @@ const ARTIST_DATA = {
       "venue": "Sydney Football Stadium",
       "notes": "",
       "version": "SBD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "pj2009-11-22 - Sydney, Australia - Sydney Football Stadium - AUD(M) [DVD].txt"
     },
     {
       "year": 2009,
@@ -16316,7 +17230,8 @@ const ARTIST_DATA = {
       "venue": "AMI Stadium",
       "notes": "",
       "version": "SBD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "pj2009-11-29 - Christchurch, NZ - AMI Stadium (PV-GS320) (teddydunksi) [DVD].txt"
     },
     {
       "year": 2009,
@@ -16342,7 +17257,8 @@ const ARTIST_DATA = {
       "venue": "NBC New York Studios / SNL",
       "notes": "2ch \u00b7 unk",
       "version": "TV",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "pj2010-03-13 - New York, NY - Saturday Night Live (PRO) [DVD].txt"
     },
     {
       "year": 2010,
@@ -16355,7 +17271,8 @@ const ARTIST_DATA = {
       "venue": "NBC New York Studios / SNL",
       "notes": "6ch \u00b7 unk",
       "version": "TV",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "pj2010-03-13.tv.2ch.flac.txt"
     },
     {
       "year": 2010,
@@ -16368,7 +17285,8 @@ const ARTIST_DATA = {
       "venue": "NBC New York Studios / SNL",
       "notes": "",
       "version": "PRO",
-      "format": "DVD"
+      "format": "DVD",
+      "textFile": "pj2010-03-13.tv.6ch.flac.txt"
     },
     {
       "year": 2010,
@@ -16394,7 +17312,8 @@ const ARTIST_DATA = {
       "venue": "Sprint Center",
       "notes": "",
       "version": "SBD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "pj2010-05-03.church.flac.txt"
     },
     {
       "year": 2010,
@@ -16420,7 +17339,8 @@ const ARTIST_DATA = {
       "venue": "Scottrade Center",
       "notes": "",
       "version": "SBD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "pj2010-05-04 - St. Louis, MO - Scottrade Center (alvarojam) [DVD].txt"
     },
     {
       "year": 2010,
@@ -16446,7 +17366,8 @@ const ARTIST_DATA = {
       "venue": "Nationwide Arena",
       "notes": "",
       "version": "SBD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "pj2010-05-06 - Columbus, OH - Nationwide Arena - AUD(M) (videogremmie) [DVD].txt"
     },
     {
       "year": 2010,
@@ -16472,7 +17393,8 @@ const ARTIST_DATA = {
       "venue": "Verizon Wireless Amphitheatre Indiana",
       "notes": "",
       "version": "SBD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "pj2010-05-07 - Noblesville, IN - Verizon Amphitheater - AUD(M) (animal projects) [DVD].txt"
     },
     {
       "year": 2010,
@@ -16511,7 +17433,8 @@ const ARTIST_DATA = {
       "venue": "HSBC Arena",
       "notes": "",
       "version": "SBD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "pj2010-05-10 - Buffalo, NY - HSBC Arena - AUD(M) (animal projects) [DVD].txt"
     },
     {
       "year": 2010,
@@ -16550,7 +17473,8 @@ const ARTIST_DATA = {
       "venue": "XL Center",
       "notes": "",
       "version": "SBD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "pj2010-05-15 - Hartford, CT - XL Arena (mkdevo) (mfc172) - AUD(M) [DVD].txt"
     },
     {
       "year": 2010,
@@ -16563,7 +17487,8 @@ const ARTIST_DATA = {
       "venue": "XL Center",
       "notes": "Sony ECM-907 \u00b7 opsopcopolis",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "pj2010-05-15 - Pearl Jam - XL Center - Hartford, CT FLAC.txt"
     },
     {
       "year": 2010,
@@ -16589,7 +17514,8 @@ const ARTIST_DATA = {
       "venue": "TD Garden",
       "notes": "",
       "version": "SBD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "pj2010-05-17 - Boston, MA - TD Garden - AUD(M) (animal projects) [DVD].txt"
     },
     {
       "year": 2010,
@@ -16615,7 +17541,8 @@ const ARTIST_DATA = {
       "venue": "The Prudential Center",
       "notes": "",
       "version": "SBD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "pj2010-05-18 - Newark, NJ - The Prudential Center - AUD(M) (nycbc) [DVD].txt"
     },
     {
       "year": 2010,
@@ -16641,7 +17568,8 @@ const ARTIST_DATA = {
       "venue": "Madison Square Garden",
       "notes": "",
       "version": "SBD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "pj2010-05-20 - New York, NY - Madison Square Garden - MiniDV(M) (nycbc) [DVD].txt"
     },
     {
       "year": 2010,
@@ -16667,7 +17595,8 @@ const ARTIST_DATA = {
       "venue": "Madison Square Garden",
       "notes": "",
       "version": "SBD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "pj2010-05-21 - New York, NY - Madison Square Garden - MiniDV(M) (nycbc).txt"
     },
     {
       "year": 2010,
@@ -16745,7 +17674,8 @@ const ARTIST_DATA = {
       "venue": "Hyde Park",
       "notes": "",
       "version": "SBD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "pj2010-06-25 - London, England - Hyde Park (Nugs.TV rip) [MKV].txt"
     },
     {
       "year": 2010,
@@ -16758,7 +17688,8 @@ const ARTIST_DATA = {
       "venue": "Hyde Park",
       "notes": "Hard",
       "version": "PRO",
-      "format": "DVD"
+      "format": "DVD",
+      "textFile": "pj2010-06-25 - London, England - Hyde Park - Hard Rock Calling (PRO) [DVD].txt"
     },
     {
       "year": 2010,
@@ -16784,7 +17715,8 @@ const ARTIST_DATA = {
       "venue": "Goffertpark",
       "notes": "",
       "version": "SBD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "pj2010-06-27 - Nijmegen, Holland - Goffertpark (alvarojam) [DVD].txt"
     },
     {
       "year": 2010,
@@ -16875,7 +17807,8 @@ const ARTIST_DATA = {
       "venue": "Heineken Jammin' Festival",
       "notes": "",
       "version": "SBD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "pj2010-07-06 - Venice, Italy - Heineken Jammin' Festival (jurassitol) [DVD].txt"
     },
     {
       "year": 2010,
@@ -16888,7 +17821,8 @@ const ARTIST_DATA = {
       "venue": "Heineken Jammin' Festival",
       "notes": "jurassitol",
       "version": "AUD",
-      "format": "DVD"
+      "format": "DVD",
+      "textFile": "pj2010-07-06 - Venice, Italy - Parco San Giuliano - Heineken Jammin' Festival (Canon MV830) [DVD].txt"
     },
     {
       "year": 2010,
@@ -16927,7 +17861,8 @@ const ARTIST_DATA = {
       "venue": "Alges",
       "notes": "",
       "version": "SBD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "pj2010-07-10 - Oeiras, Portugal - Optimus Alive! (multi-cam mix) (alvarojam) [DVD].txt"
     },
     {
       "year": 2010,
@@ -16953,7 +17888,8 @@ const ARTIST_DATA = {
       "venue": "Bridge School Benefit",
       "notes": "DPA 4061",
       "version": "AUD",
-      "format": "FLAC 24"
+      "format": "FLAC 24",
+      "textFile": "pj2010-10-23 - Mountain View, CA - Shoreline Amphitheatre - Bridge School Benefit  Multicam + Schoeps [DVD].txt"
     },
     {
       "year": 2010,
@@ -16966,7 +17902,8 @@ const ARTIST_DATA = {
       "venue": "Bridge School Benefit",
       "notes": "YouTube sourced",
       "version": "AUD",
-      "format": "DVD"
+      "format": "DVD",
+      "textFile": "pj2010-10-23-24.schoeps.flac.txt"
     },
     {
       "year": 2010,
@@ -16979,7 +17916,8 @@ const ARTIST_DATA = {
       "venue": "Bridge School Benefit",
       "notes": "All Sets \u00b7 Neumann KM140s",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "bsb2010-10-24.km140s.flac.txt"
     },
     {
       "year": 2010,
@@ -16992,7 +17930,8 @@ const ARTIST_DATA = {
       "venue": "Bridge School Benefit",
       "notes": "Multi-cam \u00b7 animal projects",
       "version": "AUD",
-      "format": "DVD"
+      "format": "DVD",
+      "textFile": "pj2010-10-24 - Mountain View, CA - Shoreline Amphitheatre (Multi-cam) (animal projects) [DVD].txt"
     },
     {
       "year": 2011,
@@ -17005,7 +17944,8 @@ const ARTIST_DATA = {
       "venue": "Alpine Valley Music Theatre",
       "notes": "SP-CMC-2",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "pj2011-09-03 - East Troy, WI - Alpine Valley (animal projects) [DVD].txt"
     },
     {
       "year": 2011,
@@ -17018,7 +17958,8 @@ const ARTIST_DATA = {
       "venue": "Alpine Valley Music Theatre",
       "notes": "Schoeps MK41 \u00b7 darktrain",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "pj2011-09-03.cmc-2.flac.txt"
     },
     {
       "year": 2011,
@@ -17031,7 +17972,8 @@ const ARTIST_DATA = {
       "venue": "Alpine Valley Music Theatre",
       "notes": "SP-TFB-2 \u00b7 john bottorff",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "pj2011-09-03.schoeps.fob.flac.txt"
     },
     {
       "year": 2011,
@@ -17044,7 +17986,8 @@ const ARTIST_DATA = {
       "venue": "Alpine Valley Music Theatre",
       "notes": "animal projects",
       "version": "AUD",
-      "format": "DVD"
+      "format": "DVD",
+      "textFile": "pj2011-09-03.sptfb2.flac.txt"
     },
     {
       "year": 2011,
@@ -17057,7 +18000,8 @@ const ARTIST_DATA = {
       "venue": "Alpine Valley Music Theatre (PJ20 Destination Weekend)",
       "notes": "DAT(M) \u00b7 Schoeps \u00b7 tapeworm48",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "pj2011-09-04 - East Troy, WI - Alpine Valley [DVD].txt"
     },
     {
       "year": 2011,
@@ -17070,7 +18014,8 @@ const ARTIST_DATA = {
       "venue": "Alpine Valley Music Theatre",
       "notes": "PJ20 Destination Weekend \u00b7 SP-BMC-12",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "pj2011-09-04.schoeps.fob.flac.txt"
     },
     {
       "year": 2011,
@@ -17083,7 +18028,8 @@ const ARTIST_DATA = {
       "venue": "Alpine Valley Music Theatre",
       "notes": "PJ20 Destination Weekend \u00b7 SP-TFB-2 \u00b7 john bottorff",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "pj2011-09-04.sp-bmc-12.flac.txt"
     },
     {
       "year": 2011,
@@ -17096,7 +18042,8 @@ const ARTIST_DATA = {
       "venue": "Alpine Valley Music Theatre",
       "notes": "PJ20 Destination Weekend",
       "version": "AUD",
-      "format": "DVD"
+      "format": "DVD",
+      "textFile": "pj2011-09-04.sptfb2.flac.txt"
     },
     {
       "year": 2011,
@@ -17109,7 +18056,8 @@ const ARTIST_DATA = {
       "venue": "Centre Bell",
       "notes": "ECM-DS70P \u00b7 pbelle",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "pj2011-09-07 - Montreal, Quebec - Bell Centre (AUD) [DVD].txt"
     },
     {
       "year": 2011,
@@ -17122,7 +18070,8 @@ const ARTIST_DATA = {
       "venue": "Centre Bell",
       "notes": "",
       "version": "SBD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "pj2011-09-07.ecm-ds70.pbelle.flac16.txt"
     },
     {
       "year": 2011,
@@ -17148,7 +18097,8 @@ const ARTIST_DATA = {
       "venue": "Air Canada Centre",
       "notes": "",
       "version": "SBD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "pj2011-09-11 - Toronto, Ontario - Air Canada Centre - AUD(M) (animal projects) [DVD].txt"
     },
     {
       "year": 2011,
@@ -17174,7 +18124,8 @@ const ARTIST_DATA = {
       "venue": "Air Canada Centre",
       "notes": "",
       "version": "SBD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "pj2011-09-12 - Toronto, Ontario - Air Canada Centre - AUD(M) (animal projects) [DVD].txt"
     },
     {
       "year": 2011,
@@ -17213,7 +18164,8 @@ const ARTIST_DATA = {
       "venue": "Copps Coliseum",
       "notes": "",
       "version": "SBD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "pj2011-09-15 - Hamilton, Ontario - Copps Coliseum - AUD(M) (chris scholl) (animal projects) [DVD].txt"
     },
     {
       "year": 2011,
@@ -17291,7 +18243,8 @@ const ARTIST_DATA = {
       "venue": "Pacific Coliseum",
       "notes": "",
       "version": "SBD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "pj2011-09-25 - Vancouver, Canada - Pacific Coliseum (AUD) [DVD].txt"
     },
     {
       "year": 2011,
@@ -17317,7 +18270,8 @@ const ARTIST_DATA = {
       "venue": "Rockefeller Center",
       "notes": "Tonight \u00b7 2ch \u00b7 pjvedder",
       "version": "TV",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "pj2011-10-01.tv.2ch.flac.txt"
     },
     {
       "year": 2011,
@@ -17330,7 +18284,8 @@ const ARTIST_DATA = {
       "venue": "Rockefeller Center",
       "notes": "Tonight \u00b7 6ch \u00b7 pjvedder",
       "version": "TV",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "pj2011-10-01.tv.6ch.flac.txt"
     },
     {
       "year": 2011,
@@ -17356,7 +18311,8 @@ const ARTIST_DATA = {
       "venue": "Estadio do Morumbi",
       "notes": "",
       "version": "SBD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "pj2011-11-04 - Sao Paulo - Brazil - Morumbi Stadium (AMT #1) [DVD].txt"
     },
     {
       "year": 2011,
@@ -17382,7 +18338,8 @@ const ARTIST_DATA = {
       "venue": "Praca da Apoteose",
       "notes": "",
       "version": "SBD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "pj2011-11-06 - Rio de Janeiro, Brazil - Prada da Apoteose (JGuilherme) [DVD] Projects].txt"
     },
     {
       "year": 2011,
@@ -17408,7 +18365,8 @@ const ARTIST_DATA = {
       "venue": "Estadio Vila Capanema",
       "notes": "",
       "version": "SBD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "pj2011-11-09 - Curitiba, Brazil - Estadio Paran Clube (YouTube sourced) [DVD].txt"
     },
     {
       "year": 2011,
@@ -17434,7 +18392,8 @@ const ARTIST_DATA = {
       "venue": "Astadio Zequinha",
       "notes": "",
       "version": "SBD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "pj2011-11-11 - Porto Alegre, Brazil - Estadio Passo d'areia (AUD) [DVD].txt"
     },
     {
       "year": 2011,
@@ -17460,7 +18419,8 @@ const ARTIST_DATA = {
       "venue": "Estadio Ciudad",
       "notes": "",
       "version": "SBD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "pj2011-11-13 - Buenos Aires, Argentina - Estadio Unico de la Plata - AUD(M) [DVD].txt"
     },
     {
       "year": 2011,
@@ -17486,7 +18446,8 @@ const ARTIST_DATA = {
       "venue": "Estadio Monumental",
       "notes": "",
       "version": "SBD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "pj2011-11-16 - Santiago, Chile - Estadio Monumental (rodeddie) [DVD].txt"
     },
     {
       "year": 2011,
@@ -17499,7 +18460,8 @@ const ARTIST_DATA = {
       "venue": "Estadio Monumental",
       "notes": "Sony IC \u00b7 theli",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "pj2011-11-16.sonyic.theli.flac16.txt"
     },
     {
       "year": 2011,
@@ -17525,7 +18487,8 @@ const ARTIST_DATA = {
       "venue": "Estadio San Marcos",
       "notes": "",
       "version": "SBD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "pj2011-11-18 - Lima, Peru - Estadio San Marcos - AUD(M) (animal projects) [DVD].txt"
     },
     {
       "year": 2011,
@@ -17551,7 +18514,8 @@ const ARTIST_DATA = {
       "venue": "Estadio Nacional de Costa Rica",
       "notes": "",
       "version": "SBD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "pj2011-11-20 - San Jose, Costa Rica - Estadio Nacional de Costa Rica (PRO) [DVD].txt"
     },
     {
       "year": 2011,
@@ -17577,7 +18541,8 @@ const ARTIST_DATA = {
       "venue": "Foro Sol",
       "notes": "unk \u00b7 boywithblues",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "pj2011-11-24 - Ciudad de Mexico, MX - Foro Sol [DVD].txt"
     },
     {
       "year": 2011,
@@ -17590,7 +18555,8 @@ const ARTIST_DATA = {
       "venue": "Foro Sol",
       "notes": "",
       "version": "AUD",
-      "format": "DVD"
+      "format": "DVD",
+      "textFile": "pj2011-11-24 - Mexico City, MX - Foro Sol [DVD].txt"
     },
     {
       "year": 2011,
@@ -17603,7 +18569,8 @@ const ARTIST_DATA = {
       "venue": "Foro Sol",
       "notes": "AUD(M)",
       "version": "AUD",
-      "format": "DVD"
+      "format": "DVD",
+      "textFile": "pj2011-11-24.unk.flac.txt"
     },
     {
       "year": 2012,
@@ -17616,7 +18583,8 @@ const ARTIST_DATA = {
       "venue": "Manchester Arena",
       "notes": "",
       "version": "SBD",
-      "format": "FLAC HD"
+      "format": "FLAC HD",
+      "textFile": "pj2012-06-20 - Manchester, UK - Manchester Arena [DVD].txt"
     },
     {
       "year": 2012,
@@ -17642,7 +18610,8 @@ const ARTIST_DATA = {
       "venue": "Manchester Arena",
       "notes": "",
       "version": "SBD",
-      "format": "FLAC HD"
+      "format": "FLAC HD",
+      "textFile": "pj2012-06-21 - Manchester, UK - Manchester Arena  [DVD].txt"
     },
     {
       "year": 2012,
@@ -17694,7 +18663,8 @@ const ARTIST_DATA = {
       "venue": "Ziggo Dome",
       "notes": "",
       "version": "SBD",
-      "format": "FLAC HD"
+      "format": "FLAC HD",
+      "textFile": "pj2012-06-26 - Amsterdam, The Netherlands - Ziggo Dome [DVD].txt"
     },
     {
       "year": 2012,
@@ -17733,7 +18703,8 @@ const ARTIST_DATA = {
       "venue": "Ziggo Dome",
       "notes": "",
       "version": "SBD",
-      "format": "FLAC HD"
+      "format": "FLAC HD",
+      "textFile": "pj2012-06-27 - Amsterdam, The Netherlands - Ziggo Dome [DVD].txt"
     },
     {
       "year": 2012,
@@ -17772,7 +18743,8 @@ const ARTIST_DATA = {
       "venue": "Main Square Festival",
       "notes": "",
       "version": "SBD",
-      "format": "FLAC HD"
+      "format": "FLAC HD",
+      "textFile": "pj2012-06-30 - Arras, France - Main Square Festival [DVD].txt"
     },
     {
       "year": 2012,
@@ -17811,7 +18783,8 @@ const ARTIST_DATA = {
       "venue": "02 World Berlin",
       "notes": "",
       "version": "SBD",
-      "format": "FLAC HD"
+      "format": "FLAC HD",
+      "textFile": "pj2012-07-04 - Berlin, Germany - 02 Arena (AUD) [DVD].txt"
     },
     {
       "year": 2012,
@@ -17837,7 +18810,8 @@ const ARTIST_DATA = {
       "venue": "02 World Berlin",
       "notes": "",
       "version": "SBD",
-      "format": "FLAC HD"
+      "format": "FLAC HD",
+      "textFile": "pj2012-07-05 - Berlin, Germany - 02 World (alvarojam) [DVD].txt"
     },
     {
       "year": 2012,
@@ -17850,7 +18824,8 @@ const ARTIST_DATA = {
       "venue": "02 World Berlin",
       "notes": "blink eye projects",
       "version": "AUD",
-      "format": "DVD"
+      "format": "DVD",
+      "textFile": "pj2012-07-05.dvd.txt"
     },
     {
       "year": 2012,
@@ -17876,7 +18851,8 @@ const ARTIST_DATA = {
       "venue": "Ericsson Globe",
       "notes": "",
       "version": "SBD",
-      "format": "FLAC HD"
+      "format": "FLAC HD",
+      "textFile": "pj2012-07-07.dvd.txt"
     },
     {
       "year": 2012,
@@ -17902,7 +18878,8 @@ const ARTIST_DATA = {
       "venue": "Spektrum",
       "notes": "",
       "version": "SBD",
-      "format": "FLAC HD"
+      "format": "FLAC HD",
+      "textFile": "pj2012-07-09 - Oslo, Norway - Spektrum [DVD].txt"
     },
     {
       "year": 2012,
@@ -17928,7 +18905,8 @@ const ARTIST_DATA = {
       "venue": "Forum",
       "notes": "",
       "version": "SBD",
-      "format": "FLAC HD"
+      "format": "FLAC HD",
+      "textFile": "pj2012-07-10.dvd.txt"
     },
     {
       "year": 2012,
@@ -17954,7 +18932,8 @@ const ARTIST_DATA = {
       "venue": "Deluna Festival",
       "notes": "",
       "version": "SBD",
-      "format": "FLAC HD"
+      "format": "FLAC HD",
+      "textFile": "pj2012-09-21 - Pensacola, FL - Deluna Festival (Multi-cam mix) (alvarojam) [DVD].txt"
     },
     {
       "year": 2012,
@@ -17980,7 +18959,8 @@ const ARTIST_DATA = {
       "venue": "Music Midtown",
       "notes": "",
       "version": "SBD",
-      "format": "FLAC HD"
+      "format": "FLAC HD",
+      "textFile": "pj2012-09-22.dpa4060.datfly.flac16.txt"
     },
     {
       "year": 2012,
@@ -18006,7 +18986,8 @@ const ARTIST_DATA = {
       "venue": "Adams Center",
       "notes": "",
       "version": "SBD",
-      "format": "FLAC HD"
+      "format": "FLAC HD",
+      "textFile": "pj2012-09-30 - Missoula, MO - Adams Center [DVD].txt"
     },
     {
       "year": 2012,
@@ -18032,7 +19013,8 @@ const ARTIST_DATA = {
       "venue": "Treasure Island",
       "notes": "Oracle Appreciation Night \u00b7 MK4",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "pj2012-10-03.mk4cmr.flac.txt"
     },
     {
       "year": 2013,
@@ -18045,7 +19027,8 @@ const ARTIST_DATA = {
       "venue": "Lollapalooza Brazil",
       "notes": "",
       "version": "SBD",
-      "format": "FLAC HD"
+      "format": "FLAC HD",
+      "textFile": "pj2013-03-31 - Lollapalooza, Brasil [HD 1080i].txt"
     },
     {
       "year": 2013,
@@ -18058,7 +19041,8 @@ const ARTIST_DATA = {
       "venue": "Lollapalooza Brazil",
       "notes": "",
       "version": "PRO",
-      "format": "TS"
+      "format": "TS",
+      "textFile": "pj2013-03-31 - Sao Paulo, Brazil - Lollapalooza (Better Than Nothing) [BLURAY].txt"
     },
     {
       "year": 2013,
@@ -18084,7 +19068,8 @@ const ARTIST_DATA = {
       "venue": "El Festival Mas Grande",
       "notes": "",
       "version": "SBD",
-      "format": "FLAC HD"
+      "format": "FLAC HD",
+      "textFile": "pj2013-04-03 - Buenos Aires, Argentina - El Festival Mas Grande (PRO) (alvarojam) [DVD].txt"
     },
     {
       "year": 2013,
@@ -18149,7 +19134,8 @@ const ARTIST_DATA = {
       "venue": "Budweiser Gardens",
       "notes": "SP-CMC-2",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "pj2013-07-16.cmc-2.flac.txt"
     },
     {
       "year": 2013,
@@ -18175,7 +19161,8 @@ const ARTIST_DATA = {
       "venue": "Wrigley Field",
       "notes": "CA-11",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "pj2013-07-19 - Chicago, IL - Wrigley Field (Sony HDR-CX760V) (teddydunski) [DVD].txt"
     },
     {
       "year": 2013,
@@ -18188,7 +19175,8 @@ const ARTIST_DATA = {
       "venue": "Wrigley Field",
       "notes": "Schoeps CCM4s \u00b7 not me",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "pj2013-07-19.CA11-DR-2d.flac.txt"
     },
     {
       "year": 2013,
@@ -18201,7 +19189,8 @@ const ARTIST_DATA = {
       "venue": "Wrigley Field",
       "notes": "Schoeps M41s \u00b7 darktrain",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "pj2013-07-19.ccm4s.flac.txt"
     },
     {
       "year": 2013,
@@ -18214,7 +19203,8 @@ const ARTIST_DATA = {
       "venue": "Wrigley Field",
       "notes": "Sony HDR-CX760V \u00b7 teddydunski",
       "version": "AUD",
-      "format": "DVD"
+      "format": "DVD",
+      "textFile": "pj2013-07-19.mk41.flac.txt"
     },
     {
       "year": 2013,
@@ -18227,7 +19217,8 @@ const ARTIST_DATA = {
       "venue": "Consol Energy Center",
       "notes": "",
       "version": "SBD",
-      "format": "FLAC HD"
+      "format": "FLAC HD",
+      "textFile": "pj2013-10-11 - Pittsburgh, PA  - Consol Energy Center - AUD(M) (animal projects) [DVD].txt"
     },
     {
       "year": 2013,
@@ -18331,7 +19322,8 @@ const ARTIST_DATA = {
       "venue": "Wells Fargo Arena",
       "notes": "",
       "version": "SBD",
-      "format": "FLAC HD"
+      "format": "FLAC HD",
+      "textFile": "pj2013-10-22 - Philadelphia, PA - Wells Fargo Center (Better Than Nothing Videos) [BLURAY].txt"
     },
     {
       "year": 2013,
@@ -18344,7 +19336,8 @@ const ARTIST_DATA = {
       "venue": "Wells Fargo Arena",
       "notes": "tapehead2",
       "version": "AUD",
-      "format": "DVD"
+      "format": "DVD",
+      "textFile": "pj2013-10-22 - Philadelphia, PA [DVD5].txt"
     },
     {
       "year": 2013,
@@ -18370,7 +19363,8 @@ const ARTIST_DATA = {
       "venue": "XL Center",
       "notes": "",
       "version": "SBD",
-      "format": "FLAC HD"
+      "format": "FLAC HD",
+      "textFile": "pj2013-10-25 - Hartford, CT - XL Center (Better Than Nothing Videos) [BLURAY].txt"
     },
     {
       "year": 2013,
@@ -18383,7 +19377,8 @@ const ARTIST_DATA = {
       "venue": "XL Center",
       "notes": "Better Than Nothing Videos",
       "version": "MIX",
-      "format": "BLURAY"
+      "format": "BLURAY",
+      "textFile": "pj2013-10-25-26.tv.2ch.flac.txt"
     },
     {
       "year": 2013,
@@ -18552,7 +19547,8 @@ const ARTIST_DATA = {
       "venue": "Oracle Arena",
       "notes": "",
       "version": "SBD",
-      "format": "FLAC HD"
+      "format": "FLAC HD",
+      "textFile": "pj2013-11-26 - Oakland, CA - Oracle Arena (JVC Everio) [DVD].txt"
     },
     {
       "year": 2013,
@@ -18630,7 +19626,8 @@ const ARTIST_DATA = {
       "venue": "Key Arena",
       "notes": "",
       "version": "SBD",
-      "format": "FLAC HD"
+      "format": "FLAC HD",
+      "textFile": "pj2013-12-06 - Seattle, WA - Key Arena [BLURAY].txt"
     },
     {
       "year": 2013,
@@ -18916,7 +19913,8 @@ const ARTIST_DATA = {
       "venue": "Scottrade Center",
       "notes": "",
       "version": "SBD",
-      "format": "FLAC HD"
+      "format": "FLAC HD",
+      "textFile": "pj2014-10-03 - St Louis, MO - Scottrade Center (Better Than Nothing Videos) [BLURAY].txt"
     },
     {
       "year": 2014,
@@ -18994,7 +19992,8 @@ const ARTIST_DATA = {
       "venue": "FedEx Forum",
       "notes": "",
       "version": "SBD",
-      "format": "FLAC HD"
+      "format": "FLAC HD",
+      "textFile": "pj2014-10-14.ca11.mstaper.flac16.txt"
     },
     {
       "year": 2014,
@@ -19046,7 +20045,8 @@ const ARTIST_DATA = {
       "venue": "iWireless Center",
       "notes": "No Code Full Album Show \u00b7 Vault #10",
       "version": "SBD",
-      "format": "FLAC HD"
+      "format": "FLAC HD",
+      "textFile": "pj2014-10-17 - Moline, IL - iWireless Center (Nugs.net) [MP4].txt"
     },
     {
       "year": 2014,
@@ -19098,7 +20098,8 @@ const ARTIST_DATA = {
       "venue": "BMO Harris Bradley Center",
       "notes": "Yield Full Album Show",
       "version": "SBD",
-      "format": "FLAC HD"
+      "format": "FLAC HD",
+      "textFile": "pj2014-10-20 - Milwaukee, WI - BMO Harris Bradley Center (Better Than Nothing Videos) [BLURAY].txt"
     },
     {
       "year": 2014,
@@ -19137,7 +20138,8 @@ const ARTIST_DATA = {
       "venue": "Bridge School Benefit",
       "notes": "Schoeps MK40 \u00b7 ridemyllama",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "bsb2014-10-25.schoepsmk40.flac.txt"
     },
     {
       "year": 2014,
@@ -19150,7 +20152,8 @@ const ARTIST_DATA = {
       "venue": "Bridge School Benefit",
       "notes": "MK41s \u00b7 mttdxb",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "pj2014-10-25,26 - Mountain View, CA - Bridge School Benefit (DVD).txt"
     },
     {
       "year": 2014,
@@ -19163,7 +20166,8 @@ const ARTIST_DATA = {
       "venue": "Bridge School Benefit",
       "notes": "Zoom H1 \u00b7 whiskeyrecordings",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "pj2014-10-25.schoepsmk41.flac.txt"
     },
     {
       "year": 2014,
@@ -19176,7 +20180,8 @@ const ARTIST_DATA = {
       "venue": "Bridge School Benefit",
       "notes": "All Sets \u00b7 Schoeps MK40 \u00b7 ridemyllama",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "bsb2014-10-26.schoepsmk40.flac.txt"
     },
     {
       "year": 2014,
@@ -19189,7 +20194,8 @@ const ARTIST_DATA = {
       "venue": "Bridge School Benefit",
       "notes": "Schoeps MK41s \u00b7 mttdxb",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "pj2014-10-26.schoepsmk41.flac.txt"
     },
     {
       "year": 2014,
@@ -19215,7 +20221,8 @@ const ARTIST_DATA = {
       "venue": "Ed Sullivan Theater",
       "notes": "Late",
       "version": "TV",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "pj2015-09-23.tv.flac.txt"
     },
     {
       "year": 2015,
@@ -19228,7 +20235,8 @@ const ARTIST_DATA = {
       "venue": "Global Citizen Festival",
       "notes": "",
       "version": "Webcast",
-      "format": "TS"
+      "format": "TS",
+      "textFile": "pj2015-09-26.web.flac.txt"
     },
     {
       "year": 2015,
@@ -19371,7 +20379,8 @@ const ARTIST_DATA = {
       "venue": "BB&T Center",
       "notes": "",
       "version": "SBD",
-      "format": "FLAC HD"
+      "format": "FLAC HD",
+      "textFile": "pj2016-04-08 - Fort Lauderdale, FL - BB&T Arena (Better Than Nothing Videos) [BLURAY].txt"
     },
     {
       "year": 2016,
@@ -19410,7 +20419,8 @@ const ARTIST_DATA = {
       "venue": "Amalie Arena",
       "notes": "",
       "version": "SBD",
-      "format": "FLAC HD"
+      "format": "FLAC HD",
+      "textFile": "pj2016-04-11 - Tampa, FL - Amalie Arena (Better Than Nothing Videos) [BLURAY].txt"
     },
     {
       "year": 2016,
@@ -19475,7 +20485,8 @@ const ARTIST_DATA = {
       "venue": "Hampton Coliseum",
       "notes": "",
       "version": "SBD",
-      "format": "FLAC HD"
+      "format": "FLAC HD",
+      "textFile": "pj2016-04-18 - Hampton, VA - Hampton Coliseum (Better Than Nothing Videos) [BLURAY].txt"
     },
     {
       "year": 2016,
@@ -19501,7 +20512,8 @@ const ARTIST_DATA = {
       "venue": "Colonial Life Arena",
       "notes": "SS-DSM6P \u00b7 steve hagar",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "pj2016-04-21.dsm6p.flac16.txt"
     },
     {
       "year": 2016,
@@ -19553,7 +20565,8 @@ const ARTIST_DATA = {
       "venue": "Wells Fargo Center",
       "notes": "",
       "version": "SBD",
-      "format": "FLAC HD"
+      "format": "FLAC HD",
+      "textFile": "pj2016-04-28 - Philadelphia, PA - Wells Fargo Center (DVDubbinGuy Productions) [BLURAY] .txt"
     },
     {
       "year": 2016,
@@ -19618,7 +20631,8 @@ const ARTIST_DATA = {
       "venue": "Madison Square Garden",
       "notes": "",
       "version": "SBD",
-      "format": "FLAC HD"
+      "format": "FLAC HD",
+      "textFile": "pj2016-05-01 - New York, NY - Madison Square Garden (Night 1) (Better Than Nothing Videos) [BLURAY].txt"
     },
     {
       "year": 2016,
@@ -19657,7 +20671,8 @@ const ARTIST_DATA = {
       "venue": "Madison Square Garden",
       "notes": "",
       "version": "SBD",
-      "format": "FLAC HD"
+      "format": "FLAC HD",
+      "textFile": "pj2016-05-02 - New York, NY - Madison Square Garden (Night 2) (Better Than Nothing Videos) [BLURAY].txt"
     },
     {
       "year": 2016,
@@ -19761,7 +20776,8 @@ const ARTIST_DATA = {
       "venue": "Town Park",
       "notes": "",
       "version": "SBD",
-      "format": "FLAC HD"
+      "format": "FLAC HD",
+      "textFile": "pj2016-07-09.at822.flac16.txt"
     },
     {
       "year": 2016,
@@ -19774,7 +20790,8 @@ const ARTIST_DATA = {
       "venue": "Town Park",
       "notes": "AT822 \u00b7 billydee",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "pj2016-07-09.schoeps.flac16.txt"
     },
     {
       "year": 2016,
@@ -19839,7 +20856,8 @@ const ARTIST_DATA = {
       "venue": "Wrigley Field",
       "notes": "",
       "version": "SBD",
-      "format": "FLAC HD"
+      "format": "FLAC HD",
+      "textFile": "pj2016-08-20.schoeps.flac.txt"
     },
     {
       "year": 2016,
@@ -19865,7 +20883,8 @@ const ARTIST_DATA = {
       "venue": "Wrigley Field",
       "notes": "",
       "version": "SBD",
-      "format": "FLAC HD"
+      "format": "FLAC HD",
+      "textFile": "pj2016-08-22 - Chicago, IL - Wrigley Field (Night 2) (Better Than Nothing Videos)[BLURAY].txt"
     },
     {
       "year": 2016,
@@ -19878,7 +20897,8 @@ const ARTIST_DATA = {
       "venue": "Wrigley Field",
       "notes": "MK41 \u00b7 datfly",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "pj2016-08-22.schoeps.flac.txt"
     },
     {
       "year": 2016,
@@ -19904,7 +20924,8 @@ const ARTIST_DATA = {
       "venue": "Pierre Hotel / UJA Federation Benefit",
       "notes": "EV and Stone Gossard \u00b7 unk",
       "version": "AUD",
-      "format": "MP3"
+      "format": "MP3",
+      "textFile": "pj2017-06-14.unk.mp3.txt"
     },
     {
       "year": 2017,
@@ -19917,7 +20938,8 @@ const ARTIST_DATA = {
       "venue": "Sydney Meyer Music Bowl",
       "notes": "Make \u00b7 w/ U2 \u00b7 fruscisgod",
       "version": "TV",
-      "format": "DVD"
+      "format": "DVD",
+      "textFile": "pj2017-11-06 - ujam Melbourne - PAL DVD.txt"
     },
     {
       "year": 2018,
@@ -19969,7 +20991,8 @@ const ARTIST_DATA = {
       "venue": "Lollapalooza",
       "notes": "",
       "version": "SBD",
-      "format": "FLAC HD"
+      "format": "FLAC HD",
+      "textFile": "pj2018-03-24 - Lollapalooza - Brasil (HDTV 1080p) MKV.txt"
     },
     {
       "year": 2018,
@@ -20138,7 +21161,8 @@ const ARTIST_DATA = {
       "venue": "Waldbuhne",
       "notes": "",
       "version": "SBD",
-      "format": "FLAC HD"
+      "format": "FLAC HD",
+      "textFile": "pj2018-07-05.ca14.flac16.txt"
     },
     {
       "year": 2018,
@@ -20229,7 +21253,8 @@ const ARTIST_DATA = {
       "venue": "Safeco Field",
       "notes": "Josh Evans 2020 Mix",
       "version": "SBD",
-      "format": "FLAC HD"
+      "format": "FLAC HD",
+      "textFile": "pj2018-08-08 - Seattle, WA - Safeco Field (Sennheiser AMBEO) (bfoq) [AUD24].txt"
     },
     {
       "year": 2018,
@@ -20320,7 +21345,8 @@ const ARTIST_DATA = {
       "venue": "Washington-Grizzly Stadium",
       "notes": "",
       "version": "SBD",
-      "format": "FLAC HD"
+      "format": "FLAC HD",
+      "textFile": "pj2018-08-13.ca11.dfries.flac16.txt"
     },
     {
       "year": 2018,
@@ -20398,7 +21424,8 @@ const ARTIST_DATA = {
       "venue": "Fenway Park",
       "notes": "",
       "version": "SBD",
-      "format": "FLAC HD"
+      "format": "FLAC HD",
+      "textFile": "pj2018-09-02 - Boston, MA - Fenway Park (Better Than Nothing Videos) [BLURAY].txt"
     },
     {
       "year": 2018,
@@ -20424,7 +21451,8 @@ const ARTIST_DATA = {
       "venue": "Fenway Park",
       "notes": "",
       "version": "SBD",
-      "format": "FLAC HD"
+      "format": "FLAC HD",
+      "textFile": "pj2018-09-04.edirolR9.ec666.flac24.txt"
     },
     {
       "year": 2018,
@@ -20489,7 +21517,8 @@ const ARTIST_DATA = {
       "venue": "Doheny St. Park",
       "notes": "Ohana",
       "version": "SBD",
-      "format": "FLAC HD"
+      "format": "FLAC HD",
+      "textFile": "pj2021-09-26.at831.flac24.txt"
     },
     {
       "year": 2021,
@@ -20515,7 +21544,8 @@ const ARTIST_DATA = {
       "venue": "Doheny St. Park",
       "notes": "Ohana",
       "version": "AUD",
-      "format": "MP3"
+      "format": "MP3",
+      "textFile": "pj2021-10-01.at831.flac24.txt"
     },
     {
       "year": 2021,
@@ -20554,7 +21584,8 @@ const ARTIST_DATA = {
       "venue": "Ohana Fest",
       "notes": "Schoeps MK4 \u00b7 unk",
       "version": "AUD",
-      "format": "MP3"
+      "format": "MP3",
+      "textFile": "pj2021-10-02 - Dana Point CA - Ohana Fest (Schoeps MK4) (unk) [AUD-LOSSY].txt"
     },
     {
       "year": 2021,
@@ -20567,7 +21598,8 @@ const ARTIST_DATA = {
       "venue": "Doheny St. Park",
       "notes": "Ohana \u00b7 AT831s \u00b7 tapeworm48",
       "version": "AUD",
-      "format": "FLAC 24"
+      "format": "FLAC 24",
+      "textFile": "pj2021-10-02.at831.flac24.txt"
     },
     {
       "year": 2021,
@@ -20606,7 +21638,8 @@ const ARTIST_DATA = {
       "venue": "Viejas Arena",
       "notes": "CA-11s \u00b7 opsopcopolis",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "pj2022-05-03.ca11.opsopcopolis.flac16.txt"
     },
     {
       "year": 2022,
@@ -20632,7 +21665,8 @@ const ARTIST_DATA = {
       "venue": "The Kia Forum",
       "notes": "SP-CMC-4U \u00b7 ijwthstd",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "pj2022-05-06.spcmc4u.ijwthstd.flac16.txt"
     },
     {
       "year": 2022,
@@ -20684,7 +21718,8 @@ const ARTIST_DATA = {
       "venue": "Oakland Arena",
       "notes": "",
       "version": "SBD",
-      "format": "FLAC HD"
+      "format": "FLAC HD",
+      "textFile": "pj2022-05-12.dpa4061.flac16.txt"
     },
     {
       "year": 2022,
@@ -20697,7 +21732,8 @@ const ARTIST_DATA = {
       "venue": "Oakland Arena",
       "notes": "SP-CMC-4U \u00b7 loughney",
       "version": "AUD",
-      "format": "FLAC 24"
+      "format": "FLAC 24",
+      "textFile": "pj2022-05-12.sp-cmc-4u.loughney.flac24.txt"
     },
     {
       "year": 2022,
@@ -20723,7 +21759,8 @@ const ARTIST_DATA = {
       "venue": "Oakland Arena",
       "notes": "",
       "version": "SBD",
-      "format": "FLAC HD"
+      "format": "FLAC HD",
+      "textFile": "pj2022-05-13.dpa4061.flac16.txt"
     },
     {
       "year": 2022,
@@ -20762,7 +21799,8 @@ const ARTIST_DATA = {
       "venue": "Pinkpop Festival",
       "notes": "",
       "version": "SBD",
-      "format": "FLAC HD"
+      "format": "FLAC HD",
+      "textFile": "pj2022-06-18.huawei.unknown.flac16.txt"
     },
     {
       "year": 2022,
@@ -20801,7 +21839,8 @@ const ARTIST_DATA = {
       "venue": "",
       "notes": "",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "pj2022-06-23 - Zurich, Switzerland - Hallenstadion [BLURAY].txt"
     },
     {
       "year": 2022,
@@ -20814,7 +21853,8 @@ const ARTIST_DATA = {
       "venue": "",
       "notes": "",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "pj2022-06-23.ca14.flac16.txt"
     },
     {
       "year": 2022,
@@ -20827,7 +21867,8 @@ const ARTIST_DATA = {
       "venue": "",
       "notes": "",
       "version": "MIX",
-      "format": "BLURAY"
+      "format": "BLURAY",
+      "textFile": "pj2022-06-23.mk41v.flac16.txt"
     },
     {
       "year": 2022,
@@ -20866,7 +21907,8 @@ const ARTIST_DATA = {
       "venue": "Festhalle",
       "notes": "CA-14s \u00b7 unk",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "pj2022-06-28 - Frankfurt, Germany - Festhalle [BLURAY].txt"
     },
     {
       "year": 2022,
@@ -20879,7 +21921,8 @@ const ARTIST_DATA = {
       "venue": "Festhalle",
       "notes": "",
       "version": "SBD",
-      "format": "FLAC HD"
+      "format": "FLAC HD",
+      "textFile": "pj2022-06-28.ca14.flac16.txt"
     },
     {
       "year": 2022,
@@ -20905,7 +21948,8 @@ const ARTIST_DATA = {
       "venue": "Rock Werchter",
       "notes": "",
       "version": "SBD",
-      "format": "FLAC HD"
+      "format": "FLAC HD",
+      "textFile": "pj2022-06-30.mk41.daspyknows.flac16.wav.txt"
     },
     {
       "year": 2022,
@@ -20944,7 +21988,8 @@ const ARTIST_DATA = {
       "venue": "Royal Arena",
       "notes": "",
       "version": "SBD",
-      "format": "FLAC HD"
+      "format": "FLAC HD",
+      "textFile": "pj2022-07-05.ca14.flac16.txt"
     },
     {
       "year": 2022,
@@ -20957,7 +22002,8 @@ const ARTIST_DATA = {
       "venue": "Royal Arena",
       "notes": "CA-14 \u00b7 unk",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "pj2022-07-05.dpa4061.dh.flac24.txt"
     },
     {
       "year": 2022,
@@ -20983,7 +22029,8 @@ const ARTIST_DATA = {
       "venue": "Hyde Park",
       "notes": "",
       "version": "SBD",
-      "format": "FLAC HD"
+      "format": "FLAC HD",
+      "textFile": "pj2022-07-08.nokialumia830.flac16.txt"
     },
     {
       "year": 2022,
@@ -21139,7 +22186,8 @@ const ARTIST_DATA = {
       "venue": "Madison Square Garden",
       "notes": "CA-14s \u00b7 binko",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "pj2022-09-11.ca14.binko.flac16.txt"
     },
     {
       "year": 2022,
@@ -21321,7 +22369,8 @@ const ARTIST_DATA = {
       "venue": "Dickie's Arena",
       "notes": "",
       "version": "SBD",
-      "format": "FLAC HD"
+      "format": "FLAC HD",
+      "textFile": "pj2023-09-13.mk41.davidsell.flac16.txt"
     },
     {
       "year": 2023,
@@ -21399,7 +22448,8 @@ const ARTIST_DATA = {
       "venue": "Rogers Arena",
       "notes": "",
       "version": "SBD",
-      "format": "FLAC HD"
+      "format": "FLAC HD",
+      "textFile": "pj2024-05-04.zoomh2.pagefan61.flac24.txt"
     },
     {
       "year": 2024,
@@ -21425,7 +22475,8 @@ const ARTIST_DATA = {
       "venue": "Rogers Arena",
       "notes": "",
       "version": "SBD",
-      "format": "FLAC HD"
+      "format": "FLAC HD",
+      "textFile": "pj2024-05-06.at853.chrisbold.flac24.txt"
     },
     {
       "year": 2024,
@@ -21464,7 +22515,8 @@ const ARTIST_DATA = {
       "venue": "Golden 1 Center",
       "notes": "",
       "version": "SBD",
-      "format": "FLAC HD"
+      "format": "FLAC HD",
+      "textFile": "pj2024-05-13.hoserama.6sources.IEM.flac16.txt"
     },
     {
       "year": 2024,
@@ -21529,7 +22581,8 @@ const ARTIST_DATA = {
       "venue": "Kia Forum",
       "notes": "",
       "version": "SBD",
-      "format": "FLAC HD"
+      "format": "FLAC HD",
+      "textFile": "pj2024-05-22.spcmc8.bigalkeller.flac16.txt"
     },
     {
       "year": 2024,
@@ -21555,7 +22608,8 @@ const ARTIST_DATA = {
       "venue": "Napa Valley Expo",
       "notes": "Bottlerock",
       "version": "SBD",
-      "format": "FLAC HD"
+      "format": "FLAC HD",
+      "textFile": "pj2024-05-25.schoeps.loughney.flac24.txt"
     },
     {
       "year": 2024,
@@ -21802,7 +22856,8 @@ const ARTIST_DATA = {
       "venue": "Fenway Park",
       "notes": "",
       "version": "SBD",
-      "format": "FLAC HD"
+      "format": "FLAC HD",
+      "textFile": "pj2024-09-17.schoepsmk4.jimkelly.flac24.txt"
     },
     {
       "year": 2024,
@@ -21997,7 +23052,8 @@ const ARTIST_DATA = {
       "venue": "Jazz Festival",
       "notes": "",
       "version": "SBD",
-      "format": "FLAC HD"
+      "format": "FLAC HD",
+      "textFile": "pj2025-05-03.schoepsmk4.daspyknows.flac16.wav.txt"
     },
     {
       "year": 2025,

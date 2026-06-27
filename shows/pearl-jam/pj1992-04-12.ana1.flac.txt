@@ -1,0 +1,62 @@
+PEARL JAM
+April 12, 1992
+The Limelight
+New York, NY
+
+SETLIST (69:15)
+-----------------
+01) Oceans
+02) Even Flow
+03) Why Go
+04) Jeremy
+05) Suggestion
+06) Deep
+07) Alive
+08) Black
+09) State Of Love And Trust
+10) Once
+11) Porch
+12) Leash
+13) Rockin' In The Free World
+14) I've Got A Feeling
+15) Release
+
+GENERATION
+-----------------
+ANA(1) > WAV [48kHz/24bit] > WAV [44.1kHz/16bit] > FLAC [Level 8]
+
+SOURCE
+-----------------
+Sony PC-62 > Sony WM-D3
+
+TRANSFER
+-----------------
+Nakamichi DR-8 > LynxONE > Sound Forge 7.0 > CD Wave 1.6.1 > FLAC frontend 1.7.1
+
+NOTES
+-----------------
+There are some analog glitches during "Why Go."
+
+MD5 FINGERPRINTS
+-----------------
+1873aa86fff9544afb294b664cd3d05c *pearljam1992-04-12t01.flac
+2dcf01257d121255dde0f9ac921e5713 *pearljam1992-04-12t02.flac
+94673b8ba2df79bd489656d3b25cf053 *pearljam1992-04-12t03.flac
+34e249666e868d276da9f83be5477f03 *pearljam1992-04-12t04.flac
+a3119ea0459a7fea2d8e12e65ca3f276 *pearljam1992-04-12t05.flac
+a395ec0e2b328b9742a27b8f9d60d9f0 *pearljam1992-04-12t06.flac
+2708e1294b1d1b4490d521831a8b8c3f *pearljam1992-04-12t07.flac
+cc1700b85e85936a6a947a51527820c2 *pearljam1992-04-12t08.flac
+f14f37313759ee46fcb966ee22d181f8 *pearljam1992-04-12t09.flac
+4b54909b4ec9adefab22f286075e1ce9 *pearljam1992-04-12t10.flac
+559e0d79c4d53bf3cc03e06af6ffc807 *pearljam1992-04-12t11.flac
+b666574a75ef9e86dfe4dd31168eebe6 *pearljam1992-04-12t12.flac
+d2e76d85acc58db6f1912854efbb11ff *pearljam1992-04-12t13.flac
+6d5fc8c743919dccaf364fd5f771f167 *pearljam1992-04-12t14.flac
+ba1fa1fdc643bed2db3e249444776155 *pearljam1992-04-12t15.flac
+
+
+Transferred by Mike Ziegler.
+PLEASE DO NOT ENCODE TO MP3 OR SELL!
+
+If you or anyone you know taped Nirvana, please let me know! mike@mikeziegler.com

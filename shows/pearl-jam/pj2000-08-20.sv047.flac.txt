@@ -1,0 +1,116 @@
+Pearl Jam
+SV047 - "BEFORE THE FLOOD"
+August 20, 2000
+Riverbend Music Center: Cincinnati, OH
+
+2.0 Stereo Source: 3-source mix: [Schoeps CCM-4 > Beyer MV-100 > Sony SBM-1 > Sony TCD-D8 > dat] + 
+[Schoeps MK5 (cardioid) > R-mod > Sony PCM-M1 > dat] + Multitrack SBD > Official Bootleg #37 (silver)] > shn
+
+5.1 DTS Source:
+SBD+AUD DTS Mix using 3 sources:
+Front Left 	Left channel Official Multitrack SBD/Bootleg 
+Front Right 	Right channel Official Multitrack SBD/Bootleg
+Center 		Left/Right Mixed to mono -3db Official Multitrack SBD/Bootleg 
+Surround Left	2-source mix: [Left channel Schoeps CCM-4  > Beyer MV-100 > Sony SBM-1 > Sony TCD-D8] + 
+		[Schoeps MK5 (cardioid) > R-mod > Sony PCM-M1]
+Surround Right	2-source mix: [Right channel Schoeps CCM-4 > Beyer MV-100 > Sony SBM-1 > Sony TCD-D8] +
+		[Schoeps MK5 (cardioid) > R-mod > Sony PCM-M1]
+LFE (subwoofer)	Left/Right Mixed to mono -3db Official Multitrack SBD/Bootleg 
+
+Digital Mixing, Editing, and DTS Creation: dan@am-dig.com
+Artwork (version 1): dan@am-dig.com
+Artwork (version 2): SF2004 and Allen Robertson
+
+------------------------------------------------------
+************    DO NOT CONVERT TO MP3     ************
+------------------------------------------------------
+
+DISC ONE:
+Main Set:
+01 Of the Girl
+02 Breakerfall
+03 Corduroy
+04 Go
+05 Gods' Dice
+06 Even Flow
+07 Faithfull
+08 Nothing As It Seems
+09 Grievance
+10 Untitled
+11 MFC
+12 Habit
+13 Wishlist
+14 Better Man
+15 Rival
+16 Sleight of Hand
+17 Insignificance
+18 Porch
+
+DISC TWO:
+01 encore 1: 
+02 The Kids Are Alright (^)
+03 Given To Fly
+04 Do The Evolution
+05 Jeremy
+06 Once
+07 Black
+08 Soldier of Love
+09 Rearviewmirror
+encore 2:
+10 "Uke Rap"
+11 Soon Forget (^)
+12 Yellow Ledbetter
+
+(^) performed by Ed solo
+
+Filler:
+April 30, 2003
+Nassau Veterans Memorial Coliseum: Uniondale, NY
+13 Crowd
+14 Bu$hleaguer
+15 USA Rap
+16 Know Your Rights
+17 Rockin' In The Free World
+
+------------------------------------------------------
+************    DO NOT CONVERT TO MP3     ************
+------------------------------------------------------
+
+
+
+
+------------------------------------------------------
+		 Dan's Recording Notes
+------------------------------------------------------
+I used EAC in secure mode to extract all tracks at 100% with no reported errors.  Cool Edit Pro 2.0 was used to align,
+synch the SBD and AUD.  CEP2.0 used to adjust the volume for the center and LFE channels.  Surcode CD Pro DTS was
+used to encode to DTS.  -3db was NOT applied to the rear channels.  Both the SBD and AUD sources for the front and
+rear channels were left at their original levels.
+- Shn conversion done by dan@am-dig.com 12/01/03 
+
+
+
+
+------------------------------------------------------
+		     Artwork Notes
+------------------------------------------------------
+There are four sets of artwork included, two versions for each mix of the show (the DTS and the Stereo mixes). The first version of the artwork for each mix was created by dan@am-dig.com with his initial release. There is also a second version for each mix that was created by SF and spacedvest; this version also includes artwork for a multiple page "booklet" insert if you print out the pieces and staple them together.
+
+If you want do not want to use the booklet and want to use the traditional front and back insert, it is recommended to use the page 4 and 5 artwork as the inside of the insert.
+
+
+
+
+------------------------------------------------------
+		       Show Notes
+               (thanks to Five Horizons)
+------------------------------------------------------
+Early in the show, someone in the audience hands Ed an infamous Who bootleg titled Tales From The Who. Ed looks really pleased and deliberately goes and shows it to the rest of the band. During 'Even Flow,' Ed pours wine into two fan's cups (and even onto a shirt tossed on stage). He acknowledges screwing up the lyrics: "Summer's on it's way [screws up] Dealing, fucked up the words already." During Mike's solo in 'NAIS,' Ed comes over to him, picks up his cigarette from the floor, takes a few drags, then puts it back in Mike's mouth. 'Untitled' is extended with a second verse. Ed is flexing his biceps sarcastically during many of the songs--partically in 'Rival,' when he also performs a number of crotch-grabs (notably while singing "well hung"). During 'Porch,' Ed ventures out into the crowd like he did in 98. For the first encore, Ed comes out and talks (his first time addressing the crowd this night) about how when they came onstage earlier ... he suddenly remembered the venue ... the last time they were there was with Soundgarden. He also mentions how that the name "Cincinnati" came up before "for some difficult reasons, but I'm gonna play this nex one because of our new bond," leading to 'The Kids Are Alright.' At the end of 'TKAA,' Ed does a Townshend jump and a bunch of windmills. During 'Jeremy,' he sticks one arm through the other arm of his shirt making a gun shape with his hand. During one of Mike's solos, he had a piece of paper that says "thank you!" that an audience member had handed him in his mouth. He holds it there for a minute, then sucks it in and starts eating it, then gets a disgusted look on his face and spits it out. At the beginning of the second encore, Ed introduces the ukulele to the audience: "Ukulele, I'd like to introduce you to Cincinnati. Cincinnati, this is ukulele." Mike includes snippets from Van Halen's 'Ain't Talkin' Bout Love' and Ted Nugent's 'Stranglehold' in the final 'YL' solo, while Stone, Jeff and Ed are cracking up. Instead of the Polaroid (which Ed says he left back in the hotel), he captures the audience with a small video camera.
+
+
+
+
+This is being distributed by blackredyellow.com in tandem with pj.sidewalkcrusaders.com, and is part of a series of the best Pearl Jam shows in existance. 
+If the artwork is not included, you can find it at blackredyellow.com.
+
+Compiled by dan@am-dig.com on December 2003, more notes by spacedvest on 3/14/04.

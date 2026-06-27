@@ -1,0 +1,83 @@
+************************************************************
+************************************************************
+*****PAL-Bluray Multicam Video with Soundupgrade************
+************************************************************
+************************************************************
+
+artist: 	Pearl Jam
+date:		28. Juni 2022
+venue:		Festhalle
+city:		Frankfurt
+state:		Deutschland
+source:		Aud
+gen:		Master
+
+
+Tracklist		total Playtime	122:30
+
+01.) Inside Job						6:34 (MC)(Tour debut)
+02.) Animal						2:44 (MC)
+03.) Last Exit						6:05 (SP)
+04.) Why Go						3:20 (MC)
+05.) Mind your Manners					2:56 (SP)
+06.) Interstellar Overdrive				0:56 (SC)(Pink Floyd cover)
+07.) Corduroy 						6:22 (MC)
+08.) Fatal						4:44 (MC) (Tour debut)
+09.) Elderly Woman Behind the Counter in a Small Town	4:03 (MC)
+10.) Dance of the Clairvoyants				6:37 (MC)	
+11.) In My Tree						4:56 (MC)
+12.) Given to Fly					3:48 (SC)
+13.) Garden						5:42 (MC)
+14.) Never Destination					4:42 (SC)
+15.) Do the Evolution					4:05 (SP)
+16.) Jeremy						5:31 (MC)
+17.) Buckle Up						3:35 (SC)
+18.) Better Man						7:19 (MC) (with "Save it for Later" tag)
+19.) Porch						7:46 (MC)
+20.) Crowd						6:18 (SP)
+Encore
+21.) River Cross					5:41 (MC)
+22.) State of Love and Trust				3:42 (MC)
+23.) Alive						7:38 (MC)
+24.) Indifference 					7:16 (MC)
+
+MC = Multicam, SC = Single Cam, SP = Still Pictures
+
+
+The Band:
+Eddie Vedder		lead vocals, rhythm guitar
+Mike McCready		lead guitar, backing vocals 
+Stone Gossard		rhythm guitar, backing vocals
+Jeff Ament		bass, backing vocals
+Matt Cameron		drums, percussion, backing vocals
+Boom Gaspar		piano, keyboard, organ
+Josh Klinghoffer	guitar, percussion, backing vocals
+
+
+BluRay Video from different Videosources from Youtuabe and Soundupgrade:
+Source Video 1: Master Aud with Sony DSC-RX 100II
+Source Video 2ff: Videos from youtube
+Source Audio 1: Sony M10 with CA14
+
+Linage Video 1: SC Card --> PC --> Edit and Mix with Edius 8.1
+Linage Video 2ff: Youtube --> Download --> Edit and Mix with Edius 8.1
+Linage Audio 1:  CA14--> Battery Box CA --> Sony M10 (24bit/96khz downsampled>16bit/44.1kHz) --> SD Card --> Adobe Auditon (fade, normalize.eQ) 
+
+All: Bluray - Authoring with Menu & Chapters via Edius 8.1 
+
+Video attributes: H.264 PAL Bitrate: 23000 Kbps, 1920x1080, 16:9, 25FPS
+Audio attributes: Bitrate: 1536 Kbps, 48,0 KHz
+
+
+Please support the artist & buy the CD & go to their shows!
+www.pearljam.com
+
+First seed at tradersDen by rasensteine 07-2022.
+
+++++++++++++++++++++++++++++++++++++++++++++++
+++++++++++++Do not convert to MP3+++++++++++++
+++++++++++++++++++++++++++++++++++++++++++++++
++++++++++++Do not buy oder sell it++++++++++++
+++++++++++++++++++++++++++++++++++++++++++++++
++++++++++++the takes not from any bootleg+++++
+++++++++++++++++++++++++++++++++++++++++++++++

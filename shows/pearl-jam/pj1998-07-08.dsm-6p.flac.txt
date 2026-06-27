@@ -1,0 +1,53 @@
+Pearl Jam
+Veterans Memorial Coliseum
+Phoenix, Arizona
+July 8, 1998
+Audience Analog Master
+
+Source: Sonic Studios DSM-6P w/ 3 way lo-cut, position unknown (most likely 80hz) > Sony WM-D6 (w/ Dolby B) > Maxell XL-IIS 100m master cassettes
+
+Transfer: Denon 790R > Kenwood A-522 amplifier > Kenwood GE-622 Equalizer > .WAV @ 16 bit/44.1 kHz
+
+Tracking: .WAV > Audacity 2.2.2 > xAct 2.45 (encode to FLAC level 8, align sectors, ffp)
+
+Location: taped from just behind the soundboard on the GA floor, slightly to the right, approx 30 yards from the stage
+
+
+setlist:
+
+01. intro > Corduroy
+02. Hail Hail
+03. Brain of J.
+04. Tremor Christ
+05. In Hiding
+06. Even Flow
+07. Given To Fly
+08. Leatherman
+09. Wishlist
+10. Jeremy
+11. Spin The Black Circle
+12. Eddie talkin'
+13. Daughter
+14. I Got Id
+15. Elderly Woman Behind The Counter In A Small Town
+16. Rearviewmirror
+17. Black
+18. Better Man
+19. encore break, Eddie talkin'
+20. Go
+21. Do The Evolution
+22. Alive
+23. Immortality
+24. Leaving Here
+
+show notes:
+
+not a whole lot to say for this one....just 'another PJ show' on a long road trip. short, tight set, nothing really stands out; at the same time, it's a great show....from the master.
+
+
+THANKS again to Dan, and plenty of "Fuck You's" for the likes of me.
+
+it makes me smile on the inside, promise!
+
+
+---Dr. Deep is pondering immmortality

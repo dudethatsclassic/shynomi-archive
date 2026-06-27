@@ -1,0 +1,81 @@
+
+************************************************************
+*****PAL-Bluray Multicam Video with Soundupgrade************
+************************************************************
+************************************************************
+
+artist: 	Pearl Jam
+date:		23. Juni 2022
+venue:		Hallenstadion
+city:		Zürich
+state:		Schweiz
+source:		Aud
+gen:		Master
+
+
+Tracklist		total Playtime	131:00
+
+01.) Intro Song				2:17 (MC)
+02.) Release				4:59 (MC)
+03.) Even Flow				6:44 (MC)
+04.) Corduroy				7:52 (MC)
+05.) Immortality			7:46 (MC)
+06.) Dance of the Clairvoyants		5:25 (MC)
+07.) Quick Escape			7:01 (SP)
+08.) Daughter				5:41 (SC)(with W.M.A. / Leash / Glorified G tags)
+09.) Given to Fly			4:58 (SC)
+10.) Seven O'Clock			5:47 (MC)
+11.) Do the Evolution			4:22 (SC)
+12.) Animal				5:55 (MC) (Break about a Women in the public)
+13.) Present Tense			5:43 (MC)
+14.) In Hiding				4:56 (SP)
+15.) Jeremy				5:33 (MC)
+16.) Why Go				3:58 (SP)
+17.) Crazy Mary				7:37 (MC) (Victoria Williams cover)
+18.) Porch				7:58 (MC)
+19.) Encore Break			3:15 (MC)
+20.) Smile				5:34 (MC)
+21.) Black				8:17 (MC)
+22.) Alive 				9:11 (MC)
+
+
+MC = Multicam, SC = Single Cam, SP = Still Pictures
+
+The Band:
+Eddie Vedder		lead vocals, rhythm guitar
+Mike McCready		lead guitar, backing vocals 
+Stone Gossard		rhythm guitar, backing vocals
+Jeff Ament		bass, backing vocals
+Matt Cameron		drums, percussion, backing vocals
+Boom Gaspar		piano, keyboard, organ
+Josh Klinghoffer	guitar, percussion, backing vocals
+
+
+BluRay Video from different Videosources from Youtuabe and Soundupgrade:
+Source Video 1: Master Aud with Sony DSC-RX 100II
+Source Video 2ff: Videos from youtube
+Source Audio 1: Sony M10 with CA14
+
+Linage Video 1: SC Card --> PC --> Edit and Mix with Edius 8.1
+Linage Video 2ff: Youtube --> Download --> Edit and Mix with Edius 8.1
+Linage Audio 1:  CA14--> Battery Box CA --> Sony M10 (24bit/96khz downsampled>16bit/44.1kHz) --> SD Card --> Adobe Auditon (fade, normalize.eQ) 
+
+All: Bluray - Authoring with Menu & Chapters via Edius 8.1 
+
+Video attributes: H.264 PAL Bitrate: 22000 Kbps, 1920x1080, 16:9, 25FPS
+Audio attributes: Bitrate: 1536 Kbps, 48,0 KHz
+
+
+Please support the artist & buy the CD & go to their shows!
+www.pearljam.com
+
+
+First seed at tradersDen by rasensteine 07-2022.
+
+++++++++++++++++++++++++++++++++++++++++++++++
+++++++++++++Do not convert to MP3+++++++++++++
+++++++++++++++++++++++++++++++++++++++++++++++
++++++++++++Do not buy oder sell it++++++++++++
+++++++++++++++++++++++++++++++++++++++++++++++
++++++++++++the takes not from any bootleg+++++
+++++++++++++++++++++++++++++++++++++++++++++++

@@ -1,0 +1,32 @@
+Pearl Jam
+Kaufman Astoria (MTV Unplugged)
+New York, NY
+03/16/92
+
+Source: dSBD > DAT > dEDIT (level adjustment only) > mkwACT > .shn > Riverpast Audioconverter > WAV > Flacfontend > FLAC > You
+
+Disc 1: (soundcheck)
+
+0101 - Oceans.flac
+0102 - Tuning Up.flac
+0103 - State of Love & Trust.flac
+0104 - Alive.flac
+0105 - Black.flac
+0106 - More Tuning.flac
+0107 - Jeremy.flac
+0108 - Still More Tuning.flac
+0109 - Porch.flac
+0110 - Finishing Up.flac
+
+Disc 2: (show)
+
+0201 - Intro.flac
+0202 - Oceans.flac
+0203 - State of Love & Trust.flac
+0204 - Alive.flac
+0205 - Black.flac
+0206 - Angie (Rolling Stones)Improv.flac
+0207 - Jeremy.flac
+0208 - Porch.flac
+0209 - Even Flow.flac
+0210 - Rockin' in the Free World.flac

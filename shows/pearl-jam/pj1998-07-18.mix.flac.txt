@@ -1,0 +1,55 @@
+Pearl Jam 
+
+07/18/98 Rose Garden Arena: Portland, OR
+
+opening band: Frank Black
+
+source: [Nak700 > DTR80P] + [SBD (mono) > ALD > DAT] => CDR
+
+lineage: CDR > CDR > .flac
+
+cdr>.flac transfer: EAC > FLAC frontend > .flac
+
+encoded by: cps 02/10/05
+
+edits: none
+
+eq: none
+
+cuesheet: yes
+
+comments: none
+
+setlist:
+
+ 1. Corduroy
+ 2. Hail Hail
+ 3. Brain of J
+ 4. Spin the Black Circle
+ 5. Red Mosquito
+ 6. Given to Fly
+ 7. Evenflow
+ 8. In Hiding
+ 9. Jeremy
+10. Daughter...
+11. MFC
+12. In My Tree
+13. Wishlist
+14. Elderly Woman...
+15. Present Tense
+
+ 1. Rearviewmirror
+ 2. Alive 
+
+encore 1:
+
+ 3. Do the Evolution
+ 4. Black
+ 5. Leatherman
+ 6. Better Man
+ 7. Leaving Here
+ 8. Go 
+
+encore 2:
+
+ 9. Fuckin' Up

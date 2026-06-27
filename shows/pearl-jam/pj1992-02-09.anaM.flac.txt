@@ -1,0 +1,38 @@
+Pearl Jam
+02-09-92
+Pumpehuest
+Copenhagen, Denmark
+
+Source: Sony ECM-909 -> Sony WM-D6
+Generation: ANA(M) -> DAT(2) 48khz -> FLAC
+Transfer: DA-20 -> Monster coax -> DiO 2496 -> Soundforge 6.0 -> 
+	(resample to 44.1) -> CDWave -> FLAC frontend -> FLAC
+
+
+01 Intro
+02 Wash
+03 Once
+04 Even Flow
+05 Suggestion
+06 State of Love and Trust
+07 Alive
+08 Black
+09 Alone
+10 Jeremy
+11 Why Go
+12 Porch
+13 Ed talking/(Hunger Strike tease)
+14 Oceans/(Window Paine)
+15 Breath/(Outshined)
+16 Leash
+
+
+
+Notes: Tape flip after Why Go.
+
+
+Thanks to cps for the DAT.
+
+Transfer by BLG
+compiled on 12-21-04
+

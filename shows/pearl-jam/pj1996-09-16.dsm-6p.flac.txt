@@ -1,0 +1,122 @@
+Pearl Jam 
+Key Arena
+Seattle, WA
+September 16, 1996
+
+** 16 BIT **
+
+Source:  Sonic Studios DSM-6P w/3-way lo-cut filter, position unknown (most likely @ 80hz, middle setting) > Sony WM-D6 
+Transfer:  Master cassette (Maxell XL-IIS) > Denon 790R > Kenwood A-522 amplifier > Kenwood GE-622 Equalizer > .WAV @ 16 bit/44.1 kHz
+Mastering:  .WAV > Sound Forge Pro 11.0 (Build 299) [iZotope Mastering Suite (declick); minor edits, normalize, & fades] > CDWav (tracking) > Trader's 
+Little Helper (level 5) > FLAC > TagScanner 6.0.33 (tagging) 
+Location:  GA floor, behind the board, 10 feet right of center 
+Recorded & transferred by:  Steve "ballsdeep" Hagar
+Mastered by:  Dennis Orr
+
+Setlist:
+01 Crowd
+02 Long Road
+03 Hail, Hail
+04 Who You Are
+05 Chat
+06 Animal
+07 Chat
+08 Last Exit
+09 In My Tree
+10 Habit
+11 Not For You
+12 Chat
+13 Daughter
+14 Dissident
+15 Even Flow
+16 Tremor Christ
+17 Go
+18 Tuning & Chat
+19 Lukin
+20 Whipping
+21 Corduroy >
+22 Immortality
+23 Jeremy
+24 Black
+25 Red Mosquito
+26 Alive
+27 Encore Break #1
+- Encore #1 -
+28 Chat
+29 Off He Goes
+30 Mankind
+31 Chat
+32 Rearviewmirror
+33 Leaving Here
+34 Encore Break #2
+- Encore #2 -
+35 Yellow Ledbetter
+
+Eddie Vedder - lead vocals, harp, & acoustic guitar
+Mike McCready - lead guitar & backing vocals
+Stone Gossard - rhythm guitar & backing vocals
+Jeff Ament - bass & backing vocals
+Jack Irons – drums, percussion, & backing vocals
+
+Mastering Notes:
+- Dropout at 0:44 during "Who You Are" - seamlessly spliced, less than one second of music lost
+- Tape flip during applause after "Even Flow" - seamlessly spliced, no music lost
+- Tape flip during "Enclore Break #1" applause - seamlessly spliced, no music lost
+- Recorder was paused and re-started during "Encore Break #2" applause - no music lost
+
+Show Notes:
+This was a great kick-off show for a mid-20's vacation....Pearl Jam in their hometown, then Neil Young in NorCal, then 7 Crowes shows that took me 
+over 4000 miles.
+
+Back to this, to keep it brief, this was my first time seeing PJ, and it was one hell of a show. Got to meet Mark S in the crowd (he noticed the 
+Sonics hanging from my glasses), and he's a good friend of Jared from JEMS (RIP). So we both taped side by side to pretty damn nice results (check the 
+samples).
+
+Actually had a half-dozen dropouts on this master, which for analog is rare, and no idea why. All under a second, we're 99% sure they're all 
+repaired/spliced. Three for sure were during crowd noise, and Dennis noted one other I missed for sure.
+
+Speaking of Dennis, tell *him* THANKS!
+
+Or buy him a burger.
+
+Or share a funny story if YOU were there.
+
+If you can't do that, a "Fuck Hagar" will suffice
+
+---Dr. Deep is looking for blood and feeling alive
+
+PearlJam1996-09-16t01.flac:c2a55a32ef6af9795d44f12d27ba2eb7
+PearlJam1996-09-16t02.flac:81d9af9628f6b79d22367f032883cf36
+PearlJam1996-09-16t03.flac:97d103d4ea4daaa84a4e0b62ec7a10f7
+PearlJam1996-09-16t04.flac:1b56ced3c1be24eb87c78a02ef4be3cf
+PearlJam1996-09-16t05.flac:a96f9be2ac5487c70930be5e4ce32954
+PearlJam1996-09-16t06.flac:6c770fc2d5a2985317bcabd402285b32
+PearlJam1996-09-16t07.flac:272780692d034507597b2550f707f57c
+PearlJam1996-09-16t08.flac:9beaa8841fea06015e2dbde8bd21c419
+PearlJam1996-09-16t09.flac:e5b6cfa3c1de42efd0b3975459d117e5
+PearlJam1996-09-16t10.flac:dfb9e7628dedf0af5f5321a339fe7a5a
+PearlJam1996-09-16t11.flac:14497dfe809d672f380412bac7f94932
+PearlJam1996-09-16t12.flac:809d31c6dee5fabb1ed519ecd2213543
+PearlJam1996-09-16t13.flac:e5564468625a53a3c9c77c2d28054552
+PearlJam1996-09-16t14.flac:f045733fa7964471aee41478164387c2
+PearlJam1996-09-16t15.flac:cd634b67591879b41c78c3382afdd4f6
+PearlJam1996-09-16t16.flac:e57056f7f1d04cd9614404ed4c65a298
+PearlJam1996-09-16t17.flac:4514af502a5d0cac38cd1c206abc157e
+PearlJam1996-09-16t18.flac:cae9805990aa9b03c8703b248999f7c6
+PearlJam1996-09-16t19.flac:5c9cd06903ba4972e9c22594d03c4e22
+PearlJam1996-09-16t20.flac:af5e7f27a9e89c39040fc49da65c26df
+PearlJam1996-09-16t21.flac:62c152d8ad0766e132f23f2e5a77ef78
+PearlJam1996-09-16t22.flac:95988a88af04e9a481e1a4f1e3f9ab30
+PearlJam1996-09-16t23.flac:a71746f696cecb287b1b339d7d3accc5
+PearlJam1996-09-16t24.flac:64938c73b9737a60d8cc813bfc6c40e9
+PearlJam1996-09-16t25.flac:4c06f35fcfd4bfb0e04831edddad96c9
+PearlJam1996-09-16t26.flac:e7c924cc44f0219fbbf296b5e9e541e2
+PearlJam1996-09-16t27.flac:a421aa1204ce7072944744e104ebdb5c
+PearlJam1996-09-16t28.flac:859590cd52befdc7aff4bd0c0796dbc7
+PearlJam1996-09-16t29.flac:7c3d8c8297bc9632aa4df219a3b1c21d
+PearlJam1996-09-16t30.flac:b5a4b23e8200ceca10701f73d414c604
+PearlJam1996-09-16t31.flac:dd30d95634eef180b0e84d759728409c
+PearlJam1996-09-16t32.flac:61b71d77f88c74c13fd7ebbe74267d64
+PearlJam1996-09-16t33.flac:1c33bfbc6a10cd0fe77297604aadf943
+PearlJam1996-09-16t34.flac:2f3692338b9f2096cd1b91927bd13035
+PearlJam1996-09-16t35.flac:0d4c7fd6f1095056f48f124d5024b628

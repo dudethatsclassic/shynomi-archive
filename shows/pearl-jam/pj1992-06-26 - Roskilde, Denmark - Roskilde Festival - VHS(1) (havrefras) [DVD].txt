@@ -1,0 +1,28 @@
+Pearl Jam
+Orange Stage,
+Roskilde Festival,
+Denmark
+June 26, 1992
+
+1 cam.audience shot by Havrefras
+
+Lineage: VHS(1)->SA HDD(XP Mode)->DVDR->Video TS folder->You
+
+Setlist:
+1. Redemption song (EV pre-set)
+2. Even flow
+3. Why go (cuts out)
+
+Audio:
+ DVD_LPCM_AUDIO
+
+Video:
+Codec MPEG2
+Resolution: 720x576
+Framerate 25.000
+Bitrate 7664 kbps
+Format PAL
+Aspect 4:3
+
+
+Uploaded on by Havrefras January 2008

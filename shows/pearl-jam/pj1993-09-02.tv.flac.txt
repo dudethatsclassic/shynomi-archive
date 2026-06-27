@@ -1,0 +1,14 @@
+Pearl Jam
+September 2, 1993
+1993 MTV Video Music Awards - Gibson Amphitheatre, Los Angeles, California
+
+Source: PCM (2.0) > FLAC (2.0)
+
+Lineage: MTV2 Rebroadcast > MPEG2 Transport Stream (*.ts) > PCM - BluRay (Pearl Jam TV Master Archive)  > FLAC
+
+Source Contributor: Datfly
+
+FLAC Conversion: Kakashisensei
+
+01 Animal
+02 Rockin' in the Free World (with Neil Young)

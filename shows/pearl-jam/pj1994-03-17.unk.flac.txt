@@ -1,0 +1,41 @@
+Pearl Jam
+03/17/1994
+Elliot Hall, Purdue University
+West Lafayette, IN
+
+Source: Unknown mic(s) > Unknown DAT > Analog (3rd gen) > CD-R > dEQ > dEdit > CD-R > eac > flac
+Notes: Tape distortion in a few places and tape hiss.
+       Short cut between "SOLAT" and "Even Flow" (probably where tape was flipped),
+       a 4-second long dropout/cut @ 2:49 on "Garden", and a 4-second long cut 
+       inbetween "Leash" and "Porch" during crowd noise. Assumably this are all on the master.
+
+Set:
+Disc 1:
+	01 - Wash
+	02 - Animal
+	03 - Go
+	04 - Why Go
+	05 - Deep
+	06 - Jeremy
+	07 - Glorified G
+	08 - Black
+	09 - Blood
+	10 - Dissident
+
+Disc 2:
+	01 - Ed talking
+	02 - State of Love and Trust
+	03 - Even Flow
+	04 - (improv?)
+	05 - Tremor Christ
+	06 - Daughter/(Improv)
+	07 - Alive
+	08 - Rearviewmirror
+	09 - Not for You
+	10 - Garden
+	11 - Leash
+	12 - Porch
+	enc:
+	13 - Once
+	14 - Rockin' in the Free World
+	15 - Indifference

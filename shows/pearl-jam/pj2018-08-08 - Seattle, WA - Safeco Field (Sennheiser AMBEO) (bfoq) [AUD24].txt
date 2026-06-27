@@ -1,0 +1,91 @@
+PEARL JAM
+August 8, 2018
+Safeco Field
+Seattle, WA
+
+SOURCE:
+Sennheiser AMBEO Smart Headset > iPhone X
+
+GENERATION:
+CAF [48kHz/24bit] > WAV [48kHz/24bit] > WAV [44.1kHz/16bit] > FLAC [Level 8]
+
+LENGTH:
+189:06
+
+TRACKS:
+01. intro
+02. Long Road
+03. Release
+04. Low Light
+05. Elderly Woman Behind The Counter In A Small Town
+06. Corduroy
+07. Go
+08. Do The Evolution
+09. Throw Your Hatred Down
+10. Mind Your Manners
+11. Lightning Bolt
+12. Given To Fly
+13. All Those Yesterdays
+14. Even Flow
+15. Help Help (Help! intro)
+16. Black
+17. Setting Forth
+18. I Am A Patriot
+19. Porch
+20. We're Going To Be Friends
+21. Nothing As It Seems
+22. Let Me Sleep
+23. Breath
+24. Again Today
+25. State Of Love And Trust
+26. Rearviewmirror
+27. Wasted Reprise
+28. Better Man
+29. Comfortably Numb
+30. Alive
+31. I've Got A Feeling
+32. Rockin' In The Free World
+33. Yellow Ledbetter 
+
+FLAC FINGERPRINTS:
+pearljam2018-08-08t01.flac:5a5ce843ed56f4fb2f087e4ff445ecc2
+pearljam2018-08-08t02.flac:c060fc54588c4cc289b1de9e4064210f
+pearljam2018-08-08t03.flac:24f2a41c88e9ee6c97f5aea6e2fd413f
+pearljam2018-08-08t04.flac:647550c6d84faa93272ca44efd5f80fc
+pearljam2018-08-08t05.flac:c340b720714239f74ab47c7a92e46387
+pearljam2018-08-08t06.flac:e850d8c87745245d93536e7d0a60ee93
+pearljam2018-08-08t07.flac:976ed66cdb484638d93786949052bf52
+pearljam2018-08-08t08.flac:ad31ce81e7d267b54ec6f8ea0d0a6ea2
+pearljam2018-08-08t09.flac:b66eefc2aa6c952750b67f22ea7a771f
+pearljam2018-08-08t10.flac:121a5560f5dadc1b8f525cede4f98224
+pearljam2018-08-08t11.flac:d2a93ed48e7c5f4c9ae672f6a343d355
+pearljam2018-08-08t12.flac:cde62018c0a136d3fccf7c7bb690660b
+pearljam2018-08-08t13.flac:c7266c5eccbc104fbe1233d84ec8ce7c
+pearljam2018-08-08t14.flac:e567c70a6d71de741679bea6d224d447
+pearljam2018-08-08t15.flac:1027572a7ec6ce80520d80a0adb02cc9
+pearljam2018-08-08t16.flac:0becea6785d46597a8efc2fbf60d631d
+pearljam2018-08-08t17.flac:a66c7460b62faba696d9fc2202ad7794
+pearljam2018-08-08t18.flac:07404782715cb57ac552192280a2f4ea
+pearljam2018-08-08t19.flac:3a56291fc16ba21bfa761c1d49fcb3f1
+pearljam2018-08-08t20.flac:a8104d36ab2b157c8778fa82bf258f28
+pearljam2018-08-08t21.flac:fdc6dba15260d071e75d90cf3f256906
+pearljam2018-08-08t22.flac:39e105c4d3ca32f594fd9e452dfb9307
+pearljam2018-08-08t23.flac:cedb0ddb6eec2563bacb84ea30019bb6
+pearljam2018-08-08t24.flac:f5f03e4645bc109966bd3f652a5a592f
+pearljam2018-08-08t25.flac:d3d213a17f3cd74ef706d7aaebf20e2f
+pearljam2018-08-08t26.flac:f6b873ce2b14f70d12372de720d474ac
+pearljam2018-08-08t27.flac:cfe75962fc516e685a17c170094a043c
+pearljam2018-08-08t28.flac:2686a4dbcd9f66e12d43d4300b67ec96
+pearljam2018-08-08t29.flac:505e9d6b0240cfca4e81348e56b3d11e
+pearljam2018-08-08t30.flac:38f6cf5848291af22cf126eded4d1949
+pearljam2018-08-08t31.flac:dbae540ddfd2e77e2badeb599b435324
+pearljam2018-08-08t32.flac:a3bd7fb5f3d792d21f725ae0f5b469ad
+pearljam2018-08-08t33.flac:cadae0d2aa61cb229d1741415e72f2c2
+
+RECORDED BY:
+BFOQ
+
+REWORKED BY:
+Mike Ziegler
+
+PLEASE DO NOT SELL OR ENCODE TO MP3

@@ -1,0 +1,50 @@
+Pearl Jam
+03-17-94
+Elliot Hall, Purdue University
+West Lafayette, IN
+
+Source: unknown mics -> DAT
+Generation: DAT(M) -> ???? -> ANA(3?) -> DAT 48khz -> FLAC
+Transfer: DA-20 -> Monster coax -> DiO 2496 -> Soundforge 6.0 -> 
+	(resample to 44.1) -> CDWave -> FLAC
+
+
+Disc I
+01 Intro
+02 Wash
+03 Animal
+04 Go
+05 Why Go
+06 Deep
+07 Jeremy
+08 Glorified G
+09 Black
+10 Blood
+11 Dissident
+12 State of Love and Trust
+13 Even Flow
+14 Tremor Christ
+15 Daughter/(Improv)
+16 Alive
+17 Rearviewmirror
+
+Disc II
+01 Not For You
+02 Garden
+03 Leash
+04 Porch
+05 Once
+06 Rockin' in the Free World
+07 Indifference
+
+
+Notes: Beginning of Eflow cut, cut between Alive and RVM, 
+	and cut in the middle of Garden. 
+
+
+
+
+Thanks to cps for the DAT.
+
+Transfer by BLG
+compiled on 12-24-04

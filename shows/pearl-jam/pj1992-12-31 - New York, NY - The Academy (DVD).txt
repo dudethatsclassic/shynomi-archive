@@ -1,0 +1,30 @@
+Pearl Jam
+1992-12-31
+The Academy 
+New York, NY, USA
+
+Wash
+Sonic Reducer
+Why Go
+Even Flow
+Alone
+Garden
+Daughter
+Dirty Frank
+Oceans
+Alive
+Leash
+Stranglehold
+Porch
+
+Video source: 2nd gen VHS > JVC HR-S9911U > S-video>Sony > DRC-TRV460 > Firewire > avi > PixieDust(filter) > CCE > MPEG-2 (CBR 7760 kbits/s)
+
+Audio source: Dolby Digital 5.1:
+Front: Official CD > EAC > wav > 48kHz resample > EQ (track transitions fixed)
+Center: 2nd gen VHS(mono) > avi > wav > EQ > 60% amplitude reduction
+Surround: CSB > D3 > DAT > CDR > dED > dEQ > shn > wav > 48kHz resample
+LFE: front > mono > 40% amplitude reduction
+
+Stereo: Official CD > EAC > wav > 48kHz resample > EQ (track transitions fixed)
+
+Notes: Track 12 is missing from Official CD, so PCM and DD5.1 (front) are mix of VHS audio and CSB>D3 for that track. Video picture was brightened a bit. This is the redone version.

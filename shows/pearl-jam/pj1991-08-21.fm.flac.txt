@@ -1,0 +1,26 @@
+Pearl Jam
+08/21/91 KISW Studios: Seattle, WA
+
+  source: 99.9 KISW FM broadcast > unknown DAT recorder
+ lineage: DAT(M) > cassette(1) > DAT(1) > DAT(2) > CDR(1) > FLAC
+   taper: EF
+cass>dat: unknown Pioneer 3-head cassette deck > Tascam DA20mkII (~2004)
+ dat>dat: Sony PCM-M1 > Tascam DA-20mkII (~2007)
+ dat>cdr: Sony PCM-R500 > HHB CDR800 (~2008)
+ cdr-rip: cps 02/11/10
+transfer: EAC > Soundforge > CD Wave > FLAC frontend
+   edits: none
+      eq: none
+comments: * live in studio acoustic version
+          * broadcast during post-Rockline DJ session with Ed, Jeff, and KISW DJ Cathy Faulkner
+          * "main" Rockline broadcast nationally on Satellite/FM
+          * "post" Rockline only broadcast to Seattle area on KISW FM
+          * source DAT recorded @ 32kHz LP
+          * source cassette plays fast?
+
+01. intro
+02. Porch
+03. outtro
+
+
+txt: cps 09/07/16

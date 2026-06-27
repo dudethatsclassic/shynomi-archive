@@ -1,0 +1,47 @@
+Pearl Jam
+05-07-98
+ARO.space
+Seattle, WA
+
+Source: BIC mic -> Panasonic walkman
+Generation: ANA(1) -> DAT-M 48khz -> FLAC
+Transfer: DA-20 -> Monster coax -> DiO 2496 -> Soundforge 6.0 
+	(resample to 44.1) -> CDWave -> FLAC frontend -> FLAC
+
+
+01 Interstellar Overdrive 
+02 Corduroy 
+03 Do The Evolution 
+04 Brain of J 
+05 Last Exit
+06 Given to Fly 
+07 In Hiding 
+08 Off He Goes 
+09 MFC 
+10 Improv 
+11 Habit 
+12 Wishlist 
+13 Faithfull 
+14 Hail Hail
+15 Mankind 
+16 Leatherman 
+17 Leaving Here
+18 Ed talking
+19 Last Kiss 
+
+
+
+
+Notes: First show with Matt Cameron on drums.
+
+Poor sound quality, but only known source.  
+
+
+
+Thanks to cps for the DAT.
+
+Transfer by BLG
+compiled on 12-02-04
+
+
+ 

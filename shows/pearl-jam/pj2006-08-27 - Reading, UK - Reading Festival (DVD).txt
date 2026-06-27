@@ -1,0 +1,41 @@
+Pearl Jam - Reading Festival UK - 08/27/2006
+
+Disc 1
+
+Corduroy
+Do The Evolution
+Animal
+World Wide Suicide
+Severed Hand
+Dissident
+Even Flow
+Sad
+I Am Mine
+Jeremy
+Grievance
+Wasted Reprise
+Betterman
+Save You
+Blood
+Rearviewmirror
+
+Disc 2
+
+Soon Forget
+Given to Fly
+Once
+Crown of Thorns
+COmatose
+Alive
+
+Why Go
+Baba O'Riley
+Yellow Ledbetter
+
+The webcast was used for first 27 seconds and last 11 seconds of main set, "Ironman/Soon Forget" and second encore.
+
+I did not, nor do I take credit for any work on this DVD. I am simply just sharing the Pearl Jam I have obtained.Below is the info that came when i downloaded.
+
+Video source: [BBC3 & BBCi > DVD recorder > Vegas/DVD Architect > PAL Video > VOB Merge 2.0 > TMPEGenc > Demux > Vegas 6.0 > MPEG II 720x480 NTSC] + [250 Mbps webscast file > Vegas 6.0 > MPEG II 720x480 NTSC] > DVD Architect 3.0 (NTSC 720x480 29,97 fps) 
+
+Audio source: Stereo: Official FLACs > Flac Frontend > .wav > Vegas 6.0 > 48kHz 

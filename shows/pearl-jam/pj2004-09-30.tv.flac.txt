@@ -1,0 +1,13 @@
+Pearl Jam
+September 30, 2004
+Late Show with David Letterman - Ed Sullivan Theater, Manhattan, New York City
+
+Source: PCM (2.0) > FLAC (2.0)
+
+Lineage: CBS 1080p (WWJ-DT) > FusionHDTV3 Gold QAM > MPEG-2 Transport Stream trimmed TS  with FusionHDTV version 3.30.01  > PCM - BluRay (Pearl Jam TV Master Archive)  > FLAC
+
+Source Contributor: Leehro
+
+FLAC Conversion: Kakashisensei
+
+01 Masters of War

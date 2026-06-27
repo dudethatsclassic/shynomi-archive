@@ -1,0 +1,43 @@
+
+Pearl Jam
+Mid-South Coliseum: Memphis, TN
+March 25, 1994
+
+Source: Sony PC-62 > Sony WM-D3
+Lineage: ANA Master > ?? > EQ > ?? > DAT clone > FLAC
+Transfer: Tascam DA-20 > Digital Coax > M-Audio MicroTrack II > Audacity > CDWave > TLH
+Edits/EQ: None
+
+Setlist:
+
+01 Release (fades in)
+02 Go (cuts in middle)
+03 Animal
+04 Deep
+05 Jeremy
+06 Glorified G
+07 Daughter / (Suspicious Minds) / (W.M.A.)
+08 Even Flow 
+09 Dissident
+10 State Of Love And Trust
+11 Last Exit
+12 Black
+13 Leash
+14 -encore break-
+15 Rearview Mirror
+16 Not For You
+17 Elderly Woman Behind the Counter in a Small Town
+18 Blood
+19 -encore break 2-
+20 Baba O'Riley [The Who]
+21 Jam (Street Fighting Man)
+22 Porch / (Tearing)
+
+Notes: I transferred my DAT clone in Aug 2020. No CDR generations in the lineage. 'Alive' appears to be on the setlist, but is suspiciously absent on the tape. At some point, the recording was EQ'd, but it is unclear when and by whom. Left channel appears to have some brickwalling. My transfer from the DAT clone was unedited, with no EQ performed by myself.
+
+Archive: DAT clone was transferred @ 48kHz and FLAC'd with cue sheet. 
+
+Transferred by tapeworm(48) 
+Txt file compiled on 9/29/2020
+
+*** DO NOT DISTRIBUTE IN LOSSY FORMATS. DO NOT SELL THIS RECORDING, TRADE IT FREELY *** 

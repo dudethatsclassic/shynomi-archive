@@ -1,0 +1,34 @@
+
+Pearl Jam
+Grosse Freiheit 36 Docks: Hamburg, Germany
+June 11, 1992
+
+Source: Unknown Microphones > Unknown Recorder
+Lineage: ANA1 > DAT clone > FLAC
+Transfer: Tascam DA-20 > Digital Coax > M-Audio MicroTrack II > Audacity > CDWave > TLH
+Edits/EQ: +1.5dB
+
+Setlist:
+
+01 Footsteps
+02 Once
+03 Why Go?
+04 Jeremy
+05 Deep
+06 Alive
+07 Black
+08 Improv
+09 Even Flow
+10 Porch
+11 -encore break-
+12 Garden
+13 Rockin' in the Free World [Neil Young]
+
+Notes: Transferred in November 2020 from my DAT clone. Possibly mastered on DAT as the tape cut is rather continuous. Raw transfer with no fades or EQ.
+
+Archive: DAT clone was transferred @ 48kHz and FLAC'd with cue sheet. 
+
+Transferred by tapeworm(48) 
+Txt file compiled on 12/25/2020
+
+*** DO NOT DISTRIBUTE IN LOSSY FORMATS. DO NOT SELL THIS RECORDING, TRADE IT FREELY *** 

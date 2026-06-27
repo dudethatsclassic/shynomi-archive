@@ -1,0 +1,102 @@
+Pearl Jam
+Rogers Arena
+Vancouver, BC
+May 6, 2024
+
+** 24 BIT **
+
+Source:  AT853 hypers > SP-SPSB-7 battery Box > Roland R-05 @ 24 bit/48 kHz
+Mastering:  .WAV > iZotope RX10 Advanced v10.0.0.1705 (De-click) > Sound Forge Pro 14.0 Build 140 [minor edits, normalize, & fades, Boz Digital Labs T-Bone plug-in (slant EQ)] > CDWav 
+(tracking) > Trader's Little Helper (level 5) > FLAC > TagScanner 6.1.16 (tagging)
+Recorded by:  Chris Bold
+Mastered by:  Dennis Orr
+
+Setlist: (2:20:13)
+01 Intro Music
+02 Long Road
+03 Nothingman
+04 Immortality
+05 Chat
+06 In Hiding
+07 Scared Of Fear
+08 Chat
+09 React, Respond
+10 Chat
+11 Wreckage
+12 Dark Matter
+13 Chat
+14 Wishlist
+15 Even Flow
+16 Quick Escape
+17 Upper Hand
+18 Chat
+19 Got To Give
+20 Chat
+21 Running
+22 Jeremy
+23 Chat
+24 Better Man
+25 Encore Break
+- Encore -
+26 Chat
+27 Keep Me In Your Heart (1)
+28 Why Go
+29 Do The Evolution
+30 Chat
+31 Alone
+32 Alive >
+33 Baba O'Riley
+34 Chat
+35 Smile
+36 Band Intros & Chat
+37 Setting Sun
+38 Crowd
+
+(1) Eddie solo
+
+Eddie Vedder – lead vocals, rhythm guitar, & harp
+Mike McCready – lead guitar & backing vocals
+Stone Gossard – guitars & backing vocals
+Jeff Ament – bass & backing vocals
+Matt Cameron – drums, percussion, & backing vocals
+Boom Gaspar – keyboards, piano, & organ
+Josh Klinghoffer – guitar, percussion, keyboards, drums, & backing vocals
+
+PearlJam2024-05-06t01.flac:ca3eb302bcefa7e0bd679255898d2d94
+PearlJam2024-05-06t02.flac:a74782da4d6056a2de1da49cd414c338
+PearlJam2024-05-06t03.flac:64695dac55cedc8f769726f8d35ecf89
+PearlJam2024-05-06t04.flac:c612c3b7ae5a555f7a879f1c5b3e561e
+PearlJam2024-05-06t05.flac:49e6247fdc181623fffc6693811bf26a
+PearlJam2024-05-06t06.flac:d7d811e19b67a9b09be17fc349c62de0
+PearlJam2024-05-06t07.flac:51c2a6c6ba4da9d15ad0cc4c956d3765
+PearlJam2024-05-06t08.flac:2d070edc0a803677fc9d8babf00ca9e1
+PearlJam2024-05-06t09.flac:2a19a864ca7876693cd533a71ada26b1
+PearlJam2024-05-06t10.flac:e2005692109912aa9dfaf305a73de5c5
+PearlJam2024-05-06t11.flac:81ef432444193dcc78e7f668df6c0f75
+PearlJam2024-05-06t12.flac:6f43175a1666ee56296924d208f55b2a
+PearlJam2024-05-06t13.flac:65326248d899ca35456c8bbb2f608738
+PearlJam2024-05-06t14.flac:dcd7fe1128cd906734016b64e618a566
+PearlJam2024-05-06t15.flac:12a3ab2a08660d2c5be5dbaa064037a8
+PearlJam2024-05-06t16.flac:07d396d54b3dee9ff7f5033c2e136eca
+PearlJam2024-05-06t17.flac:e169e9a25925ecdfd5567d58b58cebbe
+PearlJam2024-05-06t18.flac:80a598f325d28154fa232c80a251e3b0
+PearlJam2024-05-06t19.flac:b9e40b13bfeeb3474cedb7eff0b940b0
+PearlJam2024-05-06t20.flac:42e153d268fcd5fd78daf80bbd04dc1b
+PearlJam2024-05-06t21.flac:7a8c1c312844b9223e65c69f16a6107a
+PearlJam2024-05-06t22.flac:3eaa9c02b6ae509e57bedbeb2191304e
+PearlJam2024-05-06t23.flac:777a666b8c4aa3c336b44c75ae92bd7c
+PearlJam2024-05-06t24.flac:a52ea42a4e28011b85491221dc6af10b
+PearlJam2024-05-06t25.flac:19c94add72787a072ea063b6e855537c
+PearlJam2024-05-06t26.flac:92aac9b4ceaafd77a1afc574f7360944
+PearlJam2024-05-06t27.flac:ab93fca21658682c269f31793d34e85a
+PearlJam2024-05-06t28.flac:cc72d7e35c2109bec54097126d6e2bd4
+PearlJam2024-05-06t29.flac:58cecdbfbd2697a31ddf62629e4aed3f
+PearlJam2024-05-06t30.flac:e7e1beac506713774f2dfddd3cce9a6f
+PearlJam2024-05-06t31.flac:6f261827b533e52aa92e65168fe98b24
+PearlJam2024-05-06t32.flac:514be5b1ecf8e838b16086aaff6fe186
+PearlJam2024-05-06t33.flac:924a64187c9cdf308850892583234f1c
+PearlJam2024-05-06t34.flac:11aaca094745069330f2d585a227a241
+PearlJam2024-05-06t35.flac:99538e38e84ab98721c96f588fba4a0f
+PearlJam2024-05-06t36.flac:01c8bfc1a99256e7764581124ea1d410
+PearlJam2024-05-06t37.flac:a94772adbe0d1ed03e45b0a33a4263f3
+PearlJam2024-05-06t38.flac:740b8da572c0a2b550a05db7395a5dc9

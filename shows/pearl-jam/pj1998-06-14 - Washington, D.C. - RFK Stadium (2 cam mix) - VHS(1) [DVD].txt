@@ -1,0 +1,39 @@
+Pearl Jam » 1998.06.14 - RFK Stadium - Washington, DC, USA
+
+
+Band name: Pearl Jam
+Date: June 14, 1998
+Venue: RFK Stadium
+Location: Washington, DC, USA
+Event: Tibetan Freedom Concert
+Type: Rare Trade
+Media: 1 DVD
+Version: 2 Cam Mix
+Filming type: Audience
+Generation: 1st
+Lineage: VHS (1st gen) > Sony Vegas Video > MPEG-2 > Adobe Encore > DVD
+Video format: NTSC
+Aspect ratio: 4:3
+Total running time: 35m-55s
+Transferred by: Metallican
+Authored by: Animal Projects
+Chapters: Yes
+Menus: Yes
+Number of camera angles: 2
+Number of audio selections: 1
+Track listing:
+
+Corduroy 
+Hail Hail 
+Brain of J 
+Even Flow 
+Given To Fly 
+Do The Evolution 
+Wishlist 
+Betterman
+Notes and comments:
+Audio Sources:
+- Source: AKG 451 > AMSBPR2 > TCD-D7 > dEQ > CDR
+- Transfer: CDR > PlexWriter 12/4/32S > EAC > SHN 
+Video: 29.97 fps, VBR 7.80 mbit/s 
+Audio: PCM Stereo 1536 kbps

@@ -1,0 +1,18 @@
+Pearl Jam
+1994/10/02
+Bridge School Benefit
+Shoreline Amphitheater, Mountainview; CA
+
+Source: SBD -> VID-M -> DAT -> dEDIT -> DAT -> SHN(some tracking problems)
+
+Track List:
+01. Wash
+02. Not for you
+03. Immortality
+04. Elderly woman...
+05. Daughter
+06. Black
+07. Bee girl
+08. Piece of crap
+
+*Re-SHNed to add seek tables and conform to etree naming standards

@@ -1,0 +1,117 @@
+01 - Release.wav:  successfully encoded to '01 - Release.flac' (ratio = 0.549; foreign metadata 'LIST' removed; 1152 bytes to be carried over for sector alignment).
+02 - Last Exit.wav:  successfully encoded to '02 - Last Exit.flac' (ratio = 0.508; foreign metadata 'LIST' removed; 496 bytes to be carried over for sector alignment).
+03 - Severed Hand.wav:  successfully encoded to '03 - Severed Hand.flac' (ratio = 0.586; foreign metadata 'LIST' removed; 2284 bytes to be carried over for sector alignment).
+04 - Corduroy.wav:  successfully encoded to '04 - Corduroy.flac' (ratio = 0.581; foreign metadata 'LIST' removed; 1576 bytes to be carried over for sector alignment).
+05 - Given to Fly.wav:  successfully encoded to '05 - Given to Fly.flac' (ratio = 0.553; foreign metadata 'LIST' removed; 2116 bytes to be carried over for sector alignment).
+06 - Brain of J..wav:  successfully encoded to '06 - Brain of J..flac' (ratio = 0.621; foreign metadata 'LIST' removed; 1652 bytes to be carried over for sector alignment).
+07 - Elderly Woman Behind The Counter In A Small Town.wav:  successfully encoded to '07 - Elderly Woman Behind The Counter In A Small Town.flac' (ratio = 0.621; foreign metadata 'LIST' removed; 348 bytes to be carried over for sector alignment).
+08 - Faithfull.wav:  successfully encoded to '08 - Faithfull.flac' (ratio = 0.461; foreign metadata 'LIST' removed; 640 bytes to be carried over for sector alignment).
+09 - Even Flow.wav:  successfully encoded to '09 - Even Flow.flac' (ratio = 0.450; foreign metadata 'LIST' removed; 576 bytes to be carried over for sector alignment).
+10 - Setting Forth.wav:  successfully encoded to '10 - Setting Forth.flac' (ratio = 0.604; foreign metadata 'LIST' removed; 196 bytes to be carried over for sector alignment).
+11 - Unthought Known.wav:  successfully encoded to '11 - Unthought Known.flac' (ratio = 0.589; foreign metadata 'LIST' removed; 1044 bytes to be carried over for sector alignment).
+12 - Red Mosquito.wav:  successfully encoded to '12 - Red Mosquito.flac' (ratio = 0.591; foreign metadata 'LIST' removed; 1752 bytes to be carried over for sector alignment).
+13 - Daughter.wav:  successfully encoded to '13 - Daughter.flac' (ratio = 0.517; foreign metadata 'LIST' removed; 1556 bytes to be carried over for sector alignment).
+14 - Of The Earth.wav:  successfully encoded to '14 - Of The Earth.flac' (ratio = 0.506; foreign metadata 'LIST' removed; 1604 bytes to be carried over for sector alignment).
+15 - Nothingman.wav:  successfully encoded to '15 - Nothingman.flac' (ratio = 0.614; foreign metadata 'LIST' removed; 1032 bytes to be carried over for sector alignment).
+16 - Betterman.wav:  successfully encoded to '16 - Betterman.flac' (ratio = 0.657; foreign metadata 'LIST' removed; 116 bytes to be carried over for sector alignment).
+17 - Porch.wav:  successfully encoded to '17 - Porch.flac' (ratio = 0.585; foreign metadata 'LIST' removed; 1136 bytes to be carried over for sector alignment).
+18 - Encore 1.wav:  successfully encoded to '18 - Encore 1.flac' (ratio = 0.607; foreign metadata 'LIST' removed; 660 bytes to be carried over for sector alignment).
+19 - Just Breathe.wav:  successfully encoded to '19 - Just Breathe.flac' (ratio = 0.627; foreign metadata 'LIST' removed; 2276 bytes to be carried over for sector alignment).
+20 - Off He Goes.wav:  successfully encoded to '20 - Off He Goes.flac' (ratio = 0.600; foreign metadata 'LIST' removed; 420 bytes to be carried over for sector alignment).
+21 - Do The Evolution.wav:  successfully encoded to '21 - Do The Evolution.flac' (ratio = 0.637; foreign metadata 'LIST' removed; 2300 bytes to be carried over for sector alignment).
+22 - Black.wav:  successfully encoded to '22 - Black.flac' (ratio = 0.589; foreign metadata 'LIST' removed; 1816 bytes to be carried over for sector alignment).
+23 - Spin The Black Circle.wav:  successfully encoded to '23 - Spin The Black Circle.flac' (ratio = 0.587; foreign metadata 'LIST' removed; 644 bytes to be carried over for sector alignment).
+24 - The Fixer.wav:  successfully encoded to '24 - The Fixer.flac' (ratio = 0.563; foreign metadata 'LIST' removed; 1284 bytes to be carried over for sector alignment).
+25 - Jeremy.wav:  successfully encoded to '25 - Jeremy.flac' (ratio = 0.571; foreign metadata 'LIST' removed; 1500 bytes to be carried over for sector alignment).
+26 - Why Go.wav:  successfully encoded to '26 - Why Go.flac' (ratio = 0.598; foreign metadata 'LIST' removed; 184 bytes to be carried over for sector alignment).
+27 - Encore 2.wav:  successfully encoded to '27 - Encore 2.flac' (ratio = 0.545; foreign metadata 'LIST' removed; 224 bytes to be carried over for sector alignment).
+28 - Olé.wav:  successfully encoded to '28 - Olé.flac' (ratio = 0.587; foreign metadata 'LIST' removed; 108 bytes to be carried over for sector alignment).
+29 - Last Kiss.wav:  successfully encoded to '29 - Last Kiss.flac' (ratio = 0.577; foreign metadata 'LIST' removed; 1180 bytes to be carried over for sector alignment).
+30 - Leash.wav:  successfully encoded to '30 - Leash.flac' (ratio = 0.576; foreign metadata 'LIST' removed; 12 bytes to be carried over for sector alignment).
+31 - Alive.wav:  successfully encoded to '31 - Alive.flac' (ratio = 0.420; foreign metadata 'LIST' removed; 440 bytes to be carried over for sector alignment).
+32 - Rockin' In The Free World.wav:  successfully encoded to '32 - Rockin' In The Free World.flac' (ratio = 0.598; foreign metadata 'LIST' removed; 936 bytes to be carried over for sector alignment).
+33 - Improv.wav:  successfully encoded to '33 - Improv.flac' (ratio = 0.573; foreign metadata 'LIST' removed; 1308 bytes to be carried over for sector alignment).
+34 - Indifference.wav:  successfully encoded to '34 - Indifference.flac' (ratio = 0.559; foreign metadata 'LIST' removed; 1496 bytes to be carried over for sector alignment).
+35 - Yellow Ledbetter_Little Wing.wav:  successfully encoded to '35 - Yellow Ledbetter_Little Wing.flac' (ratio = 0.385; foreign metadata 'LIST' removed; 2040 zero-bytes appended for sector alignment).
+
+No errors occured.
+
+
+01 - Release.flac:  tested ok (file is decodable without error).
+02 - Last Exit.flac:  tested ok (file is decodable without error).
+03 - Severed Hand.flac:  tested ok (file is decodable without error).
+04 - Corduroy.flac:  tested ok (file is decodable without error).
+05 - Given to Fly.flac:  tested ok (file is decodable without error).
+06 - Brain of J..flac:  tested ok (file is decodable without error).
+07 - Elderly Woman Behind The Counter In A Small Town.flac:  tested ok (file is decodable without error).
+08 - Faithfull.flac:  tested ok (file is decodable without error).
+09 - Even Flow.flac:  tested ok (file is decodable without error).
+10 - Setting Forth.flac:  tested ok (file is decodable without error).
+11 - Unthought Known.flac:  tested ok (file is decodable without error).
+12 - Red Mosquito.flac:  tested ok (file is decodable without error).
+13 - Daughter.flac:  tested ok (file is decodable without error).
+14 - Of The Earth.flac:  tested ok (file is decodable without error).
+15 - Nothingman.flac:  tested ok (file is decodable without error).
+16 - Betterman.flac:  tested ok (file is decodable without error).
+17 - Porch.flac:  tested ok (file is decodable without error).
+18 - Encore 1.flac:  tested ok (file is decodable without error).
+19 - Just Breathe.flac:  tested ok (file is decodable without error).
+20 - Off He Goes.flac:  tested ok (file is decodable without error).
+21 - Do The Evolution.flac:  tested ok (file is decodable without error).
+22 - Black.flac:  tested ok (file is decodable without error).
+23 - Spin The Black Circle.flac:  tested ok (file is decodable without error).
+24 - The Fixer.flac:  tested ok (file is decodable without error).
+25 - Jeremy.flac:  tested ok (file is decodable without error).
+26 - Why Go.flac:  tested ok (file is decodable without error).
+27 - Encore 2.flac:  tested ok (file is decodable without error).
+28 - Olé.flac:  tested ok (file is decodable without error).
+29 - Last Kiss.flac:  tested ok (file is decodable without error).
+30 - Leash.flac:  tested ok (file is decodable without error).
+31 - Alive.flac:  tested ok (file is decodable without error).
+32 - Rockin' In The Free World.flac:  tested ok (file is decodable without error).
+33 - Improv.flac:  tested ok (file is decodable without error).
+34 - Indifference.flac:  tested ok (file is decodable without error).
+35 - Yellow Ledbetter_Little Wing.flac:  tested ok (file is decodable without error).
+
+No errors occured.
+
+
+01 - Release.flac:4adad274286c387b8c38a0c5a03665f8
+02 - Last Exit.flac:694b8dea74c62e2b8144071b0364e285
+03 - Severed Hand.flac:201c447f780b68864e4e5e1dcd8d82af
+04 - Corduroy.flac:6cddb01c8f4a6bd5dc1c8cf7454d0454
+05 - Given to Fly.flac:f30eca005eb4f4a7295af6b722f71ac2
+06 - Brain of J..flac:6d11986f4edfeecbc41285baf3e44561
+07 - Elderly Woman Behind The Counter In A Small Town.flac:064254460a19c4ee275fdca846efd946
+08 - Faithfull.flac:36ef2bc8dc7058d4b4a8f39919b3bd71
+09 - Even Flow.flac:8481f78eff7362767e394c8fd5c437af
+10 - Setting Forth.flac:2bea3a902de0fdc2a18d313b56cfa61c
+11 - Unthought Known.flac:bb81e6cf8be364ce6b7c5939490409b0
+12 - Red Mosquito.flac:76e74f405a824bf3f565951542b2a7b9
+13 - Daughter.flac:5e29b7052be06f36a38367c887855918
+14 - Of The Earth.flac:15a943d25575b2180130a297645708a7
+15 - Nothingman.flac:3ac8ddf826c5f0c12323ba56488415af
+16 - Betterman.flac:7b5049180067cbf552317bfa031eb019
+17 - Porch.flac:89c0c8c43c1b8ba1ba89e3157338d594
+18 - Encore 1.flac:48b5664dbe309727e93567fb711dd35d
+19 - Just Breathe.flac:4609e9957c89e16afe7cbdac00790101
+20 - Off He Goes.flac:f870cea2a75e8ad18c4c7f3d6ce46b80
+21 - Do The Evolution.flac:a97dd03672826d41fc2500c61ca354db
+22 - Black.flac:ffdb96420c008bad2d07f66ce14226d2
+23 - Spin The Black Circle.flac:a85f507b0e7382df8b830f080f6ebfa6
+24 - The Fixer.flac:8e67cb7bdccfc98032f8ddfa6c1f77ef
+25 - Jeremy.flac:0f4411c80d85e93a62f3c656a5ec23f3
+26 - Why Go.flac:947c1b7148d24b8e566bb620cdbdc180
+27 - Encore 2.flac:a90f40d88e5bcef8d9f4a0e6037d50a3
+28 - Olé.flac:8c1df3404d1deba2ab4a9112217c94de
+29 - Last Kiss.flac:fd1592ceb61f3b4841a719ea37f7f84e
+30 - Leash.flac:4d3bab7380257da1c873b56a21d787d9
+31 - Alive.flac:df85869b16faa94f1203226583bb964a
+32 - Rockin' In The Free World.flac:4e5092456160bbb10ce23623a4af62ed
+33 - Improv.flac:d208480bf5ab7146459b60a6ecd0cc08
+34 - Indifference.flac:4866a483f8706f596ce17b26e2b4408b
+35 - Yellow Ledbetter_Little Wing.flac:22868af4c8670df5853496076389f972
+
+Checksum file saved to disk.
+
+No errors occured.

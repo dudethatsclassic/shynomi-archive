@@ -1,0 +1,11 @@
+Broadcasted on 08/29/2007 on Radio Bremen 4
+
+01 Severed Hand
+02 Dissident
+03 Faithfull
+04 Throw Your Hatred Down (by Neil Young)
+05 Baba O'Riley (by The Who)
+06 Yellow Ledbetter
+
+FM -> Adobe Audition -> Audacity (splitting) -> flac
+

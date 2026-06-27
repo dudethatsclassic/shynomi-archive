@@ -1,0 +1,98 @@
+Pearl Jam
+Cox Arena
+San Diego State University
+San Diego, CA
+July 10, 1998
+
+** 16 BIT **
+
+Source:  Sonic Studios DSM-6P w/3-way lo-cut filter, position unknown (most likely @ 80hz, middle setting) > Sony WM-D6 
+Transfer:  Master cassettes (Maxell XLII-S) > Denon 790R > Kenwood A-522 amplifier > Kenwood GE-622 Equalizer > .WAV @ 16 bit/44.1 kHz
+Mastering:  .WAV > Sound Forge Pro 11.0 (Build 299) [splicing; WAVES C4 Multiband Parametric Processor plugin (UNcompressor); iZotope Mastering             Suite (declick); minor edits, normalize, & fades] > CDWav tracking) > Trader's Little Helper (level 5) > FLAC > TagScanner 6.0.18               (tagging) 
+Location:  Section E, row 17, seat 4 - middle of the floor, right of the SBD
+Recorded & transferred by:  Steve "ballsdeep" Hagar
+Mastered by:  Dennis Orr
+
+Setlist:
+01 Crowd
+02 Long Road
+03 Corduroy
+04 Last Exit
+05 Brain Of J.
+06 Do The Evolution
+07 Given To Fly
+08 In Hiding
+09 Rearviewmirror
+10 Immortality
+11 Wishlist
+12 Nothingman
+13 Spin The Black Circle
+14 Even Flow
+15 Daughter > Roam (1)
+16 Chat
+17 MFC
+18 Alive
+19 Hail Hail
+20 Encore Break #1
+- Encore #1 - 
+21 Jeremy
+22 Go
+23 Lukin
+24 Better Man
+25 Leaving Here
+26 Black
+27 Rockin' In The Free World (2)
+28 Encore Break #2
+- Encore #2 -
+29 Yellow Ledbetter
+
+(1) part of the B-52's song, only time played by Pearl Jam
+(2) includes Eddie's tongue-in-cheek rant about flag burning
+
+Eddie Vedder - lead vocals, harp, & acoustic guitar
+Mike McCready - lead guitar & backing vocals
+Stone Gossard - rhythm guitar & backing vocals
+Jeff Ament - bass & backing vocals
+Matt Cameron - drums & percussion
+
+Mastering Notes:
+- Tape flip during "Wishlist" (at 2:24) - seamlessly spliced, a few seconds of music lost
+- Tape flip during "Encore Break #1" applause - seamlessly spliced, no music lost
+- The recorder was stopped and restarted during the "Encore Break #2" applause - seamlessly spliced, no music lost
+
+Show Notes: 
+I don't remember a tremendous amount about this show other than it was bacchanalian in nature. This was my 6th PJ show in a row, and they truly pulled out all of the stops. If you beg do differ, just listen to the performance of "Rockin' In The Free World" from this night. It was probably as close to the craziness of Indio '93 that was ever witnessed by myself. Not to mention the rest of the set was Yield-solid. Had great seats, and the recording reflects that. The PJ community was (and at times still can be) rather 'uppity' back in the day, so I hardly circulated any of my masters from the '98 tour (Albuquerque being the exception). Probably my 2nd best '98 PJ recording, next to Birmingham, AL (which was recorded from 3rd row, Stone's side).
+
+He most definitely jams. His name is Dennis. Throw him alms and praise for uploading my trash. I just push the buttons. More to come. Much, much more...
+
+---ballsdeep OUT!!!
+
+pj1998-07-10t01.flac:9f28d32b6deb602081ce031359a88a6a
+pj1998-07-10t02.flac:6bacdf64c55d7c3de64d23b1bb6aff48
+pj1998-07-10t03.flac:2cce4e000b3f471db04668c1c0f27398
+pj1998-07-10t04.flac:a062f5c1c7f9068e5937c2ca85dd8d38
+pj1998-07-10t05.flac:8ebd4542c5d69875c2480a27116ef3b6
+pj1998-07-10t06.flac:e3efd905a02ee602a536869b749ab67b
+pj1998-07-10t07.flac:070564ae43dac9135e4d5da0e5aa4693
+pj1998-07-10t08.flac:ea3dd2dcca50f3cb4a98dd6d20ae23b8
+pj1998-07-10t09.flac:bc2fc509b65b9c68284ad8ddec56e27e
+pj1998-07-10t10.flac:2e04251d85a82abba3b6b3ccf3bced50
+pj1998-07-10t11.flac:09b05ff6f5351ade34e269790935e785
+pj1998-07-10t12.flac:dc306dcc977c4a8b37e65dad2a6048eb
+pj1998-07-10t13.flac:fa7b4ea0cd882593b2b8a93aad1c04b7
+pj1998-07-10t14.flac:402917b77b113af2a8755ad3f8b9a90d
+pj1998-07-10t15.flac:86687002de276e6dd2f6d40ba38a1c13
+pj1998-07-10t16.flac:aec7bb20273f7f58e95a17b381e3242e
+pj1998-07-10t17.flac:85d77c1767dd01783af9f2d899715de4
+pj1998-07-10t18.flac:da469090b83fa3416fd958bf8b012748
+pj1998-07-10t19.flac:83d4fa6b00b22441ceebf3d30221beac
+pj1998-07-10t20.flac:4e681b150066c4a0a407b2fdb85228db
+pj1998-07-10t21.flac:4470e522a5d51af1314e087c62037983
+pj1998-07-10t22.flac:a59b1107e78ad7447a115ba5c32e4020
+pj1998-07-10t23.flac:f0c60279b4b29e99f827b30f3ad0a666
+pj1998-07-10t24.flac:cac5a934af7bd5fbeea653314dbfdbcb
+pj1998-07-10t25.flac:06ddc1bc6ca18cc5b0e18bc23969f8b9
+pj1998-07-10t26.flac:afe910420e93f7420a7533fdaf6d0e9e
+pj1998-07-10t27.flac:e3285d4172bc63c4b1de9592fe7f71fe
+pj1998-07-10t28.flac:d1faf441e57611d4256fb9e7e5cbf178
+pj1998-07-10t29.flac:98025720382f00ab897f4353e6d7beb7

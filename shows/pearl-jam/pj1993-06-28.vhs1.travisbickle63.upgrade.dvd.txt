@@ -1,0 +1,47 @@
+﻿Pearl Jam
+==========
+June 8, 1993
+Sjöhistoriska Muséet - Stockholm, Sweden
+
+Format:
+PAL 720x576 (4:3) - 8000 Kbps
+Audio: AC3 Stereo 384 kbps 48.0 kHz
+Size: 3.03 GB
+Running Time: 53 mins
+
+Setlist:
+01 - Even Flow
+02 - Animal
+03 - Go
+04 - Rearviewmirror
+05 - Elderly Woman Behind the Counter in a Small Town
+06 - Why Go
+07 - Jeremy
+08 - Black
+09 - Alive
+10 - Sonic Reducer
+11 - Porch
+12 - Tonights The Night
+13 - Daughter
+
+=====================================================================
+Video:
+-----
+AMT 1st Gen VHS Tape Supplied By Rolling Rockvideos
+Transfer:
+2022 By TravisBickle1963 (thank you both)
+
+Tech:
+JVC HR 9700 > Datavideo TBC3000 > BlackMagic Intensity Pro > VirtualDub > AVI [UtVideo/48khz/16-Bit/PCM]
+> x264.exe 0.152.2851 ba24899 > Audacity 2.3.3 > MKVToolNix GUI v46.0.0 > MKV > Demux > DVD
+
+Audio matrix:
+-------------
+(Master Cassette Tape) SONY WM-D6C > MARANTZ EM-8 + 1st Gen VHS Audio
+
+*Master Cassette Tape Recorded by PER-ERIK & Transfered by JONTEBUS (Thanks to both of you!)
+
+======================================================================
+Authored by Alvarojam
+May 2, 2022
+

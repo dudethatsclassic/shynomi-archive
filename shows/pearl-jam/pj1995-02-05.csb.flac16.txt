@@ -1,0 +1,47 @@
+
+Pearl Jam
+Moore Theatre: Seattle, WA
+February 5, 1995
+
+Source: CSB > Sony TCD-D7 @ 48kHz
+Lineage: DAT Master > ?? > DAT clone
+Transfer (BC): Sony DTC-60ES > Monster SPDIF optical cable > SIIG Soundwave 7.1 > Audacity 
+Transfer (tapeworm48): WAV (16/48) > Audacity (resample) > CDWave > TLH
+
+Setlist:
+
+01 Intro
+02 Jack Irons chant
+03 Last Exit
+04 Spin the Black Circle
+05 Tremor Christ
+06 Corduroy
+07 Not For You
+08 Animal
+09 W.M.A.
+10 Lukin
+11 Glorified G
+12 Daughter
+13 Rearview Mirror (aborted)
+14 Rearview Mirror
+15 Immortality
+16 Go
+17 Blood
+18 -encore break 1-
+19 Satan's Bed
+20 Black
+21 Porch
+22 Garden
+23 -encore break 2-
+24 Better Man
+25 Let My Love Open the Door [The Who]
+26 -Outro-
+
+Notes: 1st of 2 free fan club shows. I received a WAV file from an unknown generation DAT clone. There is some uncertainty around the exact recording gear, but this should be fairly accurate. Taper may have paused the recorder at the encore breaks. Setlist is in a different order than the circulating bootleg CD, "Piss Bottle Men". Raw transfer with no fades or EQ.
+
+Archive: DAT clone was transferred @ 48kHz and FLAC'd with cue sheet. 
+
+Transferred by tapeworm(48) 
+Txt file compiled on 2/5/2018
+
+*** DO NOT DISTRIBUTE IN LOSSY FORMATS. DO NOT SELL THIS RECORDING, TRADE IT FREELY *** 

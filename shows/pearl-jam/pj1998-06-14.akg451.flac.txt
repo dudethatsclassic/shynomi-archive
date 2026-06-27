@@ -1,0 +1,42 @@
+Pearl Jam
+RFK Stadium: Washington, DC (Tibetan Freedom Concert)
+1998-06-14
+
+Source: AKG-451 > AMR-BPS2(PhantomPower) > TCD-D8 (Taped 150ft from Stage)
+
+Transfer: PCM-M1 > SoundForge 6.0 > FLAC Frontend > .flac
+Transfer done by John Reynolds (jr@digijam.org)
+
+Disc 1 of 1:
+1. Corduroy		05:10
+2. Hail,Hail		04:04
+3. Brain of J		04:36
+4. Even Flow		05:07
+5. Given To Fly		03:55
+6. Do The Evolution	04:02
+7. Wishlist		03:58
+8. Better Man /(SifL)	05:52
+
+Total time: 36:44
+
+JR's notes:
+- Diginoise at 02:51 of DTE also present on master (unknown cause)
+- Other minor pops throughout from mic adjustments (taper was trying out new mics)
+- This show was the second show with Matt Cameron on drums following the 
+departure of Jack Irons after the Winter Oz/NZ tour. PJ continued with a U.S.
+Tour a week later in Missoula,MT.
+
+For the details on FLAC and the software needed to decompress these files go to:
+http://wiki.etree.org/index.php?page=FLAC
+
+**********************************************************************
+FLAC Fingerprint
+
+pj1998-06-14d1t03.flac:7f41c3fe0ddcc203f9dc970af3052cd6
+pj1998-06-14d1t04.flac:1a8cdc19ee1899263e06fde177acdcc0
+pj1998-06-14d1t05.flac:b966f99cc31f19da8550b4453603e4ab
+pj1998-06-14d1t06.flac:7154499af0abdbae3622f6d975b355fb
+pj1998-06-14d1t07.flac:b89a607e74eb34e1b69a18499134978a
+pj1998-06-14d1t08.flac:5843fd76d1b26aba1e44f974195f2536
+pj1998-06-14d1t01.flac:4f49afb28fde3da44b9deb8e7a5d71b5
+pj1998-06-14d1t02.flac:8dfd9691854ef1dfdaaca42140b43c49

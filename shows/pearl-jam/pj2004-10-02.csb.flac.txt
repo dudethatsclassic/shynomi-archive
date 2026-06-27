@@ -1,0 +1,610 @@
+Pearl Jam 
+Vote For Change
+Toledo Sports Arena
+Toledo, Ohio
+10/2/2004
+
+Source: Core Sound Binaural Microphones>Sony D8 (16/48)
+FOB/DFC/KFC/ZFC Row In Front Of Soundboard
+DSP: Sound Devices 722>Sound Forge 10.0>CD Wave>flac(16)
+ID3 Tagged In Foobar 2000
+Recorded By: Z-Man
+Seeded By: Z-Man
+
+Disc I 1st Set
+
+01 *I Am A Patriot
+02 *You've Got To Hide Your Love Away
+03 Long Road
+04 Corduroy
+05 Hail Hail >
+06 Save You
+07 The American In Me
+08 Cropduster
+09 I Am Mine
+10 Wishlist
+11 Eddie Banter
+12 Better Man
+13 I Believe In Miracles
+14 We Love You Johnny >
+15 Even Flow
+16 Bleed For Me
+17 Alive
+
+Disc II Encore I
+
+01 Thumbing My Way 
+02 Elderly Woman 
+03 Black
+Encore II:
+04 Eddie Introduces Neil And Peggy Young
+05 #Harvest Moon
+Encore III:
+06 @All Along The Watchtower
+07 @Act Of Love
+08 @Cortez The Killer
+09 @Keep On Rockin' In The Free World
+
+Disc II Soundcheck
+ 
+01 @All Along The Watchtower
+02 @Keep On Rockin' In The Free World
+03 @Act Of Love
+04 @Cortez The Killer
+
+* Eddie Veddar Solo Acoustic
+# Neil And Peggy Young Duet
+@ With Neil Young On Guitar And Vocals
+
+pearl2004-10-02d01t01.flac:b5ffe6c8edcdc993f0e4a798008f0315
+pearl2004-10-02d01t02.flac:53d581e91ba7f7f435f0715045024e93
+pearl2004-10-02d01t03.flac:e20cac1065c6e863040eb93c74f7f1f8
+pearl2004-10-02d01t04.flac:469550f70d474c8df6a4005c412b1647
+pearl2004-10-02d01t05.flac:c73b769d24c435ff9f087a5c4bfbf9ad
+pearl2004-10-02d01t06.flac:767a55e6604d814e07d6c9b27324e19b
+pearl2004-10-02d01t07.flac:47558f1906eb732cf330fc6db08dfb33
+pearl2004-10-02d01t08.flac:5f36c8b73973514e42c2bb0ce42757e9
+pearl2004-10-02d01t09.flac:077c00944757bf9e699646ce2ad77be9
+pearl2004-10-02d01t10.flac:176d519d4407a2c553a82ea267df0998
+pearl2004-10-02d01t11.flac:5627b69f42e4a711834d005a3b057264
+pearl2004-10-02d01t12.flac:7f417ab22e8eaa105d6c008bb5177e42
+pearl2004-10-02d01t13.flac:89023c6b4ec10a654e841635cce872d8
+pearl2004-10-02d01t14.flac:08cb270658f2553f0c78c72ccd796dd9
+pearl2004-10-02d01t15.flac:122f84de8a55032518bc9bb31f86119a
+pearl2004-10-02d01t16.flac:0629941e06acfbc42f1e4176a1e31be8
+pearl2004-10-02d01t17.flac:f415c98868288aa97c2550d9807057ca
+pearl2004-10-02d02t01.flac:3d85b7546be5f76ab80174ebb252469c
+pearl2004-10-02d02t02.flac:0f9a4c8b7da37d7e73e61fb25aa829de
+pearl2004-10-02d02t03.flac:f65d5903630a8496e1021f1020844394
+pearl2004-10-02d02t04.flac:6fa4e18a4b9750d26532b2e4cd1b8724
+pearl2004-10-02d02t05.flac:3ea954fed3bcf1702b9f8d80d5392c79
+pearl2004-10-02d02t06.flac:ca7e01be982d162ba3de23f89b724b1c
+pearl2004-10-02d02t07.flac:f99d1574d0764356f3dcfed854e2a148
+pearl2004-10-02d02t08.flac:eb74a73c17c6ce1eabeabf09ccb6a0b3
+pearl2004-10-02d02t09.flac:aa85e209be09ebc662522f539eab993f
+pearl2004-10-02d03t01.flac:d808f677b28dcabdca0e818d9569e3d3
+pearl2004-10-02d03t02.flac:e29ce2d4e8299c666258fe6ea8c4290a
+pearl2004-10-02d03t03.flac:1c29a963a6557defba22fb7b86c6d88e
+pearl2004-10-02d03t04.flac:762e6030db335fba1c3dc1f898ec2396
+
+length     expanded size    cdr  WAVE problems  fmt   ratio  filename
+     2:36.43       27619580 B   ---   --   ---xx   flac  0.4541  pearl2004-10-02d01t01.flac
+     3:46.09       39887612 B   ---   --   ---xx   flac  0.4567  pearl2004-10-02d01t02.flac
+     5:06.49       54093692 B   ---   --   ---xx   flac  0.4451  pearl2004-10-02d01t03.flac
+     5:03.03       53456300 B   ---   --   ---xx   flac  0.5097  pearl2004-10-02d01t04.flac
+     3:38.00       38455244 B   ---   --   ---xx   flac  0.4819  pearl2004-10-02d01t05.flac
+     3:43.53       39461900 B   ---   --   ---xx   flac  0.5007  pearl2004-10-02d01t06.flac
+     3:00.67       31909628 B   ---   --   ---xx   flac  0.4787  pearl2004-10-02d01t07.flac
+     4:00.60       42477164 B   ---   --   ---xx   flac  0.4833  pearl2004-10-02d01t08.flac
+     3:44.07       39530108 B   ---   --   ---xx   flac  0.4490  pearl2004-10-02d01t09.flac
+     6:15.49       66265292 B   ---   --   ---xx   flac  0.4454  pearl2004-10-02d01t10.flac
+     3:18.11       34953116 B   ---   --   ---xx   flac  0.3751  pearl2004-10-02d01t11.flac
+     4:57.00       52390844 B   ---   --   ---xx   flac  0.4535  pearl2004-10-02d01t12.flac
+     3:35.48       38038940 B   ---   --   ---xx   flac  0.5301  pearl2004-10-02d01t13.flac
+     0:22.67        4038428 B   ---   --   ---xx   flac  0.3661  pearl2004-10-02d01t14.flac
+     7:15.38       76823420 B   ---   --   ---xx   flac  0.4989  pearl2004-10-02d01t15.flac
+     3:30.44       37147532 B   ---   --   ---xx   flac  0.5204  pearl2004-10-02d01t16.flac
+     6:41.65       70889324 B   ---   --   ---xx   flac  0.4820  pearl2004-10-02d01t17.flac
+     5:16.01       55744796 B   ---   --   ---xx   flac  0.3741  pearl2004-10-02d02t01.flac
+     3:45.69       39852332 B   ---   --   ---xx   flac  0.4445  pearl2004-10-02d02t02.flac
+     7:51.36       83169116 B   ---   --   ---xx   flac  0.4431  pearl2004-10-02d02t03.flac
+     2:15.20       23861084 B   ---   --   ---xx   flac  0.4480  pearl2004-10-02d02t04.flac
+     5:18.28       56161100 B   ---   --   ---xx   flac  0.4559  pearl2004-10-02d02t05.flac
+     8:39.28       91617500 B   ---   --   ---xx   flac  0.4992  pearl2004-10-02d02t06.flac
+     5:42.08       60347660 B   ---   --   ---xx   flac  0.4862  pearl2004-10-02d02t07.flac
+    10:18.52      109137548 B   ---   --   ---xx   flac  0.4305  pearl2004-10-02d02t08.flac
+    10:02.36      106277516 B   ---   --   ---xx   flac  0.5215  pearl2004-10-02d02t09.flac
+     3:36.02       38107148 B   ---   --   ---xx   flac  0.4816  pearl2004-10-02d03t01.flac
+     2:06.52       22348748 B   ---   --   ---xx   flac  0.5000  pearl2004-10-02d03t02.flac
+     5:05.03       53809100 B   ---   --   ---xx   flac  0.4943  pearl2004-10-02d03t03.flac
+     5:00.18       52962380 B   ---   --   ---xx   flac  0.3522  pearl2004-10-02d03t04.flac
+   145:34.66     1540834152 B                            0.4658  (30 files)
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                      
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
