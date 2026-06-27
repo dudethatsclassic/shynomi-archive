@@ -21,7 +21,7 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "Mountain View, CA",
       "venue": "Shoreline Amphitheater",
-      "notes": "Shure VP88 \u00b7 mhg",
+      "notes": "Shure VP88 · mhg",
       "version": "AUD",
       "format": "FLAC",
       "textFile": "1994-07-31 - Mountain View, CA - Shoreline Amphitheater (Shure VP88) (mhg) [AUD].txt"
@@ -35,7 +35,7 @@ const ARTIST_DATA = {
       "state": "NV",
       "location": "Las Vegas, NV",
       "venue": "Hardrock's The Joint",
-      "notes": "M \u00b7 Sony ECM 909A \u00b7 marco moir",
+      "notes": "M · Sony ECM 909A · marco moir",
       "version": "AUD",
       "format": "FLAC",
       "textFile": "1995-03-11 - Las Vegas, NV - Hardrock's The Joint (M) (Sony ECM 909A) (marco moir) [AUD].txt"
@@ -63,7 +63,7 @@ const ARTIST_DATA = {
       "state": "IN",
       "location": "Noblesville, IN",
       "venue": "Ruoff Music Cemter",
-      "notes": "SP-CMC-08s \u00b7 ironchef",
+      "notes": "SP-CMC-08s · ironchef",
       "version": "AUD",
       "format": "FLAC",
       "textFile": "2025-09-18 - Noblesville, IN - Ruoff Music Cemter (SP-CMC-08s) (ironchef) [AUD].txt"
