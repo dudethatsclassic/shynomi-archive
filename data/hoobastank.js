@@ -34,7 +34,7 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "Los Angeles, CA",
       "venue": "The Echo",
-      "notes": "DPA 4081 \u00b7 faninor",
+      "notes": "DPA 4081 · faninor",
       "version": "AUD",
       "format": "FLAC 24",
       "textFile": "2023-12-11 - Los Angeles, CA - The Echo (DPA 4081) (faninor) [AUD24].txt"
@@ -48,7 +48,7 @@ const ARTIST_DATA = {
       "state": "",
       "location": "Norwegian Gem",
       "venue": "Summer of 99 Cruise",
-      "notes": "Stardust \u00b7 Edirol R09HR \u00b7 unk",
+      "notes": "Stardust · Edirol R09HR · unk",
       "version": "AUD",
       "format": "FLAC",
       "textFile": "2025-04-11 - Norwegian Gem - Summer of 99 Cruise - Stardust (Edirol R09HR) (unk) [AUD].txt"
@@ -62,7 +62,7 @@ const ARTIST_DATA = {
       "state": "OH",
       "location": "Columbus, OH",
       "venue": "Sonic Temple Festival",
-      "notes": "Temple \u00b7 Schoeps MK41 \u00b7 jesse mc",
+      "notes": "Temple · Schoeps MK41 · jesse mc",
       "version": "AUD",
       "format": "FLAC",
       "textFile": "2025-05-10 - Columbus, OH - Sonic Temple Festival - Temple Stage (Schoeps MK41) (jesse mc) [AUD24].txt"
@@ -76,7 +76,7 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "San Mateo, CA",
       "venue": "San Mateo County Event Center",
-      "notes": "Schoeps MK4s \u00b7 tj",
+      "notes": "Schoeps MK4s · tj",
       "version": "AUD",
       "format": "FLAC 24",
       "textFile": "2025-05-31 - San Mateo, CA - San Mateo County Event Center (Schoeps MK4s) (tj) [AUD24].txt"
