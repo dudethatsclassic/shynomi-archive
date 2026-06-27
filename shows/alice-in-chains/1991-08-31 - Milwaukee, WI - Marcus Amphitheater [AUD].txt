@@ -1,0 +1,37 @@
+Alice in Chains
+Marcus Amphitheater 
+Milwaukee, WI
+8/31/91
+*opening for Van Halen
+
+Source: Shure SM98 > 94A1670 > Sony TC-D5 > ANAM > DATM > SHN > CDR(1) 
+Location: Sec. 2 row U
+dEQ/SHN: CDR(1) > EAC > Image > Cool Edit > CDWave > mkw > SHN > TLH > FLAC(8)
+Tape/Transfer by: Carl S.
+dEQ by: Andy A. (the-dat-master@comcast.net)
+
+01. Real Thing
+02. Put You Down
+03. Sea of Sorrow
+04. Love Hate Love
+05. We Die Young
+06. Would?
+07. Bleed the Freak
+08. It Ain't Like That
+09. Man in the Box
+
+Notes: bass was EQed down and the
+track marks were adjusted a little.  
+
+
+aic1991-08-31t01.shn:  successfully converted to 'aic1991-08-31t01.flac'.
+aic1991-08-31t02.shn:  successfully converted to 'aic1991-08-31t02.flac'.
+aic1991-08-31t03.shn:  successfully converted to 'aic1991-08-31t03.flac'.
+aic1991-08-31t04.shn:  successfully converted to 'aic1991-08-31t04.flac'.
+aic1991-08-31t05.shn:  successfully converted to 'aic1991-08-31t05.flac'.
+aic1991-08-31t06.shn:  successfully converted to 'aic1991-08-31t06.flac'.
+aic1991-08-31t07.shn:  successfully converted to 'aic1991-08-31t07.flac'.
+aic1991-08-31t08.shn:  successfully converted to 'aic1991-08-31t08.flac'.
+aic1991-08-31t09.shn:  successfully converted to 'aic1991-08-31t09.flac'.
+
+No errors occured.

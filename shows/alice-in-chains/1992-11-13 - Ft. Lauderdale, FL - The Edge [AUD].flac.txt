@@ -1,0 +1,53 @@
+Alice in Chains
+The Edge
+Ft. Lauderdale, FL
+November 13, 1992
+
+SOURCE: Unknown Mics > DAT > ANA(1) > CDR > EAC > WAV > dEDIT (COol Edit Pro 1.2) > CDWave > FLAC
+
+Editing: Fade In/Out, Crossfading (t10-11), whole show pitch-bent up to audibly match album versions (this originally played way too slow, probably due to down or up-sampling)
+
+Edited/seeded by: Andy A. (the-dat-master@comcast.net)
+Special Thanks to: Ricardo (Iron_Gland) for the EAC/wave files
+
+01. "Slaughter, Slaughter!" (Layne) Intro > Dam That River *
+02. We Die Young
+03. Them Bones
+04. Would? *
+05. Love, Hate, Love
+06. Junkhead
+07. God Smack
+08. Bleed The Freak
+09. Put You Down
+10. Sickman **
+11. It Ain't Like That
+12. Hate To Feel
+13. Angry Chair
+14. Man In The Box
+
+Running Time: 68:05
+
+* On these tracks, there are intermittent right-channel dropouts, probably due to a loose or bumped mic connection. 
+** The "flip" of the first gen. analog tape occured after Sickman. I applied a 1 sec. crossfade so the crowd noise segued into It Ain't Like That. 
+
+
+Show Notes: 
+
+This was Alice in Chains' FIRST official headlining show of their 1992-93 DIRT world tour. What made this somewhat unique is that "Iron Gland" was NOT used in the intro. Layne is fairly talkative during the show, and includes a nice introduction to Would?
+
+Recording Notes: 
+
+The recording came to me untracked as 2 long wave files (sides A and B). I strongly believe this was a digital master (DAT), because there is no "tape flip" that interrupts a song, not to mention the clarity of the audio. Not sure what mics could have been used, but they were definitely a decent set of external mics or a good single-point stereo mic. 
+
+I am seeding this version because it is the lowest generation recording to have surfaced in nearly 15 years. No DAT's have ever been known to circulate.
+
+************** DO NOT ENCODE TO MP3 OR OTHER LOSSY FORMATS **************
+
+********************** RE-DISTRUBUTION NOTES ****************************
+- PLEASE TRADE OR SHARE FREELY (DO NOT SELL!)
+- PLEASE SAVE THE FILES AND REDISTRIBUTE AS FLAC OR SHN
+- PLEASE MAKE AND INCLUDE AN MD5 CHECK FILE (md5summer.org) IF SENDING/ARCHIVING DATA CDR/DVD'S OF THIS SHOW OR UPLOADING OVER FTP 
+
+- HENCE, TRY TO AVOID TRADING PEOPLE BURNED AUDIO CD'S OF THIS
+ BECAUSE I DON'T WANT FLAWED (hi-gen DAE OR TAO) COPIES OF THIS FLOATING AROUND
+*************************************************************************

@@ -1,0 +1,122 @@
+ALICE IN CHAINS
+November 26, 2006
+The Warfield
+San Francisco, CA
+
+Lineup:
+-----------------
+Jerry Cantrell - guitar, vocals
+Mike Inez - bass
+Sean Kinney - drums
+William Duvall - vocals, guitar
+
+James Hetfield* - vocals, guitar
+
+
+EQUIPMENT
+-----------------
+Oade Binaural Mics > Sony PCM-M1 (Oade mod)
+
+
+LOCATION
+-----------------
+Upper Loge; Section 2, Seat 4-DD
+
+
+LINEAGE
+-----------------
+DATM (48kHz) > wav (48kHz) > EQ & normalize (see below) > wav (44.1kHz) > CDR1 > wav (EAC) > FLAC (level 8)
+
+
+SELIST
+-----------------
+Electric Set #1
+
+1) Whale and Wasp (intro)
+2) Again
+3) Bleed the Freak
+4) Grind
+5) It Ain't Like That
+6) "Lunkhead" <track removed>
+7) Junkhead
+8) Nutshell
+9) Them Bones
+10) Dam that River
+11) Rain When I Die
+12) Layne video tribute
+
+Acoustic Set
+
+13) Don’t Follow
+14) Brother
+15) Killer is Me
+16) No Excuses
+17) Got Me Wrong
+18) Down in a Hole
+
+<tape change>
+
+19) Video tribute #2
+
+Electric Set #2
+
+20) Sludge Factory 
+21) We Die Young
+22) Angry Chair
+23) Man in the Box
+
+Encore
+24) encore break
+25) Would?*
+26) Rooster
+
+
+
+NOTES
+-----------------
+1) No, that's not me singing along.  It's the dude behind me who was singing 
+   loud enough (and off key enough) that I heard him the whole show.
+
+2) You guys will hear much commentary throughout the first half of the show 
+   from the dude I christened "Lunkhead" (Get it?).  As annoying as he is
+   during the first few songs he reached the pinnacle of annoyance right
+   before Junkhead.  I've spared you our 6.41 second conversation (track 6).
+
+3) I applied some EQ as the bass was even more overpowering on the source tape.
+   No EQ was applied to acoustic set. EQ'd as follows (Using Adobe Audition):
+
+   Parametric EQ: -40db @ 20Hz Q=40
+
+
+
+FLAC FINGERPRINTS
+-----------------
+Disk1
+01 Whale & Wasp.flac:e7025f5cbd5f770f2918d622eb945988
+02 Again.flac:355e715986726e7ae568b433ba44f6b6
+03 Bleed The Freak.flac:a0e334f62a2195dcf8f48b8429537608
+04 Grind.flac:b12c509bf2e4daa9085904933ba02403
+05 It Ain't Like That.flac:130fbff44f96a7c81050bdaa0394223a
+07 Junkhead.flac:d2542c0f1143825b2a7a2b03f323ba06
+08 Nutshell.flac:0909e88bedad0c5cd1d8510fd1d7bc42
+09 Them Bones.flac:9646ee83cb667666173160a6243fb751
+10 Dam That River.flac:ee8e120caa668fbf3937e1ad0b3be56c
+11 Rain When I Die.flac:e03fb7752d7341782a246f9af21a5e5a
+12 Video tribute #1.flac:b6dca00289f9d088973ac61e9e8d9047
+13 Don't Follow.flac:b1c4c47cf4c0f7241815415120470b30
+14 Brother.flac:861e33bab4fca27c91912d2664340773
+15 Killer Is Me.flac:abef4c519880a073d70061e7986ce745
+16 No Excuses.flac:963aa7c0538b93942a82c250ea8f9bec
+17 Got Me Wrong.flac:d882cf76a6cb04f722d1a35f785cccd6
+18 Down In A Hole.flac:d5c923854dea175b77f29e70261e90b6
+
+
+Disk2
+01 Video Tribute #2.flac:909f2997469b261948a567929e2af45e
+02 Sludge Factory.flac:446d46f781ed4ec17d0ae5f17fba1278
+03 We Die Young.flac:d26780e4d6e64e4fe5ba610fd4a8a121
+04 Angry Chair.flac:2365c19169a396aa5988992308075d5b
+05 Man In The Box.flac:870892a3ebc13eb6ff795a3620dc4cdf
+06 [Encore Break].flac:26928c5190d15406588b411d7d2bf5e1
+07 Would .flac:57631f061453836f98c5d7f4590a894e
+08 Rooster.flac:0da27d1c71ed54a1280ccb608cd89de5

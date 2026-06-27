@@ -1,0 +1,36 @@
+Alice in Chains - 2018-06-24 Hellfest, Val de Moine, Clisson, France [720p]Alice in Chains
+Hellfest
+Main Stage 2
+Val de Moine 
+Clisson, France 
+June 24, 2018
+ 
+Lineage: LIVE Webcast -> Streamlink -> FFmpeg (edit) -> .ts 
+Video: MPEG4 Video (H264) 1280x720 2805 Kbps 25.00 fps 
+Audio: AAC 217 Kbps 48.0 KHz stereo 
+
+Setlist:
+Bleed the Freak
+Check My Brain
+Again
+Them Bones
+Dam That River
+Nutshell
+No Excuses
+Hollow
+We Die Young
+Man in the Box
+The One You Know
+Would?
+Rooster
+
+TRT= 1:00:18
+
+Input #0, mpegts, from 'Alice in Chains - 2018-06-24 Hellfest, Val de Moine, Clisson, France [720p].ts':
+  Duration: 01:00:18.01, start: 1.405333, bitrate: 3022 kb/s
+  Program 1
+    Metadata:
+      service_name    : Service01
+      service_provider: FFmpeg
+    Stream #0:0[0x100]: Video: h264 (Main) ([27][0][0][0] / 0x001B), yuv420p(progressive), 1280x720 [SAR 1:1 DAR 16:9], 25 fps, 25 tbr, 90k tbn, 50 tbc
+    Stream #0:1[0x101]: Audio: aac (LC) ([15][0][0][0] / 0x000F), 48000 Hz, stereo, fltp, 217 kb/s

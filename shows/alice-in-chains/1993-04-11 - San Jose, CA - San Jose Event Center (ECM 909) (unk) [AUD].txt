@@ -1,0 +1,36 @@
+Alice in Chains
+San Jose Event Center
+San Jose, CA
+1993-04-11
+
+Source:   ECM 909 > TCD-5M (likely) > C(1) by Vin Palese 
+Transfer: C(1) (Metal Capsule 50) > Nak Dragon > Tascam DA-3000 (DSF 1-bit/5.6 MHz) > EX CD Audio Converter > PCM @ 2496
+MasterL   Wavelab 12 (tracking, levels, fades, resample, Lin dither) > FLAC 1644
+
+Thanks to Vin for taping and Ted Mattes for facilitating
+
+{missing:
+Dam That River
+Them Bones
+Would?
+Love Hate Love
+Junkhead
+Godsmack
+Bleed The Freak}
+
+01. Sickman
+02. crowd - banter
+03. Rooster
+04. It Ain't Like That
+05. We Die Young
+06. crowd - banter
+07. Hate to Feel
+08. crowd
+09. Angry Chair
+{missing:  Man In The Box}
+
+Triple bill with Masters of Reality and Circus of Power.  Discontinuity towards the beginning of Hate To Feel.  The tape is noted to be a "direct tape to tape copy" of the master tape #1, which was lost.  No other tape has appeared in this collection, so this seems to be all that was recorded or that remains.
+
+Enjoy!
+
+--mhg :: 2025-05-13

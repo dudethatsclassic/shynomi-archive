@@ -1,0 +1,45 @@
+Alice in Chains 
+KAABOO 
+Grandview Stage 
+Del Mar Fairgrounds 
+Del Mar, California 
+September 16, 2018
+
+
+Live Webcast captured by IndyKid
+PRO-SHOT, PAL, 16/9
+Authored with DVD Studio Pro by kigonjiro
+73:27 Minutes
+Artwork included
+
+Video: MPEG-2, 720 x 576, 16/9, 25 fps
+Audio: MP2 Stereo, 48 kHz, 320 kpbs
+
+MKV: LIVE Webcast -> downloaded .ts segments (batch script) -> TSSplitter (join) -> FFmpeg (edit) -> uncompressed .ts -> MKVToolnix
+Video: MPEG4 Video (H264) 1920x1080 16:9 6950 Kbps 29.97 fps 
+Audio: AAC 320 Kbps 44.1 KHz stereo 
+
+
+Setlist:
+
+Check My Brain 
+Again 
+Them Bones 
+Hollow 
+Your Decision 
+Never Fade 
+Down in a Hole 
+No Excuses 
+We Die Young 
+Stone 
+Got Me Wrong 
+Man in the Box 
+The One You Know 
+Would? 
+Rooster
+
+kigonjiro.com 2018
+
+Not For Sale. DVD Gratuito.
+Enjoy and share. Disfruta y compártelo.
+

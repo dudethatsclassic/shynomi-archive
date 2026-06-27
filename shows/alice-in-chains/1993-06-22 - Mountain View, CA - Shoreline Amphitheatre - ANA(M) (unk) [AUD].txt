@@ -1,0 +1,47 @@
+Alice In Chains 
+06/22/1993
+Shoreline Amphitheatre, Mountain View, CA 
+
+Dam That River
+Them Bones
+We Die Young
+Love, Hate, Love
+Would?
+God Smack
+Junkhead
+A Little Bitter
+Rain When I Die
+Angry Chair
+Man In The Box
+Hate To Feel
+Rooster (cuts out)
+
+TAPED BY NICK BAKER
+
+Source #2 
+different from the Sony ECM-909 > Sony WM-D3 that was circulating many years ago
+
+I don't know who transferred this.
+Man in The Box start at the end of "Angry Chair", also other cuts in the wrong place.
+I left the way it is.
+
+
+ANA(M?) > AIFF > FLAC
+
+1 Alice - Dam That River.flac:  tested ok (file is decodable without error).
+10 Alice - Rain When I Die (cut) .flac:  tested ok (file is decodable without error).
+11 Alice - Rain WHen I Die (cont.) 01.flac:  tested ok (file is decodable without error).
+12 Alice - Angry Chair 02.flac:  tested ok (file is decodable without error).
+13 Alice - Main In A Box 03.flac:  tested ok (file is decodable without error).
+14 Alice - Hate To Feel 04.flac:  tested ok (file is decodable without error).
+15 Alice - Rooster (cut) 05.flac:  tested ok (file is decodable without error).
+2 Alice - Them Bones.flac:  tested ok (file is decodable without error).
+3 Alice - We Die Young .flac:  tested ok (file is decodable without error).
+4 Alice - Love Hate Love.flac:  tested ok (file is decodable without error).
+5 Alice - Love Hate Love (cont.).flac:  tested ok (file is decodable without error).
+6 Alice - Would_.flac:  tested ok (file is decodable without error).
+7 Alice - Godsmack.flac:  tested ok (file is decodable without error).
+8 Alice - Junkhead.flac:  tested ok (file is decodable without error).
+9 Alice - A Little Bitter.flac:  tested ok (file is decodable without error).
+
+No errors occurred.

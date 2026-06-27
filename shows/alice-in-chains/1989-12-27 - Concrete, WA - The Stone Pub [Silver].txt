@@ -1,0 +1,29 @@
+Alice In Chains
+1989-12-27 - The Stone Pub, Concrete, WA
+
+GENERATION:
+CD ['We Die Young (Primadonna PD119)'] > WAV [44.1 kHz] > FLAC [Level 8]
+
+TRACKLIST
+
+01  It Ain't Like That   
+02  Man in the Box      
+03  Sea of Sorrow       
+04  Real Thing
+05  Bleed the Freak      
+06  Put You Down         
+07  Sunshine           
+08  We Die Young
+
+Checksums
+
+f6c3cb828954c9e2621a719a39060f23 *01 It Ain't Like That.flac
+59c20725016d55a659a6b1de2534a19f *02 Man In The Box.flac
+04f805d839d939668495dd1201bf7a21 *03 Sea Of Sorrow.flac
+4ba9b64a8f61332fb5b1c082a8fa6922 *04 Real Thing.flac
+69ee0583f1a6df07724b6d53793d0441 *05 Bleed The Freak.flac
+375790f78d7dad88a104c7e4dd3c5293 *06 Put You Down.flac
+fabef629526c0def773c1164e54e7490 *07 Sunshine.flac
+448ee2f2a55810a941e3a895b7ec7274 *08 We Die Young.flac
+
+PLEASE DO NOT SELL OR ENCODE !

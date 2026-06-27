@@ -1,0 +1,33 @@
+"Lollapalooza" Festival III
+Milan Dragway, Milan MI 
+Friday, July 9, 1993
+
+Recording Gear:
+Realistic SCP-29 Master Cassette Deck
+Maxell XL-IIS 100 minute cassette master tapes
+
+Lineage:
+Master Cassettes
+
+Transfer:
+Nakamichi RX 505>Silver Clad RCA>Apogee Mini Me>USB>Audacity @ 24/48
+
+Processing:
+WAV>Adobe Audition (edits, fades, amplify, normalize)>CD WAV>Flac Frontend (level 8)
+
+These are 24bit/48kHz FLAC files
+
+Main Stage Acts Recorded:
+Fishbone
+Dinosaur Jr.
+Alice In Chains
+Primus
+
+No 2nd Stage Acts Recorded 
+
+Storm, post storm stage announcements, and crowd/stage outro audio files also included. 
+They contain no stage performances, but add to the continuity of the entire master
+tapes recorded that day. 
+
+
+

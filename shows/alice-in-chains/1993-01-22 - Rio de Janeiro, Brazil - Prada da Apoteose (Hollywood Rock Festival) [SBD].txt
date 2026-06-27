@@ -1,0 +1,30 @@
+ALICE IN CHAINS
+January 22, 1993
+Praça da Apoteose (Hollywood Rock Festival)
+Rio de Janeiro, Brazil
+
+SOURCE:
+soundboard > unknown
+
+TRANSFER:
+Nakamichi DR-8 > Echo Layla24 > Adobe Audition 3.0 > CD Wave 1.97 > FLAC frontend 1.7.1
+
+GENERATION:
+FM > ANA(1) > WAV [48kHz] > WAV [44.1kHz] > FLAC [Level 8]
+
+LENGTH:
+9:04
+
+NOTES:
+- Has some minor dropouts and choppiness from the source tape.
+
+TRACKS:
+01. Man In The Box (cuts in)
+02. Angry Chair (cuts out)
+
+MD5 FINGERPRINTS:
+429d4a9de765bd73ca310c0fc737679b *AliceInChains_1993-01-22_SBD_t01.flac
+5428f5c93b54fa54789f326bfccbea5e *AliceInChains_1993-01-22_SBD_t02.flac
+
+TRANSFERRED BY:
+Kris Sproul

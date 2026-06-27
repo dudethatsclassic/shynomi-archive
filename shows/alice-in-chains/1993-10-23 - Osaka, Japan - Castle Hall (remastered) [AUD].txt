@@ -1,0 +1,73 @@
+Alice In Chains
+Castle Hall
+Osaka, Japan
+October 23, 1993
+
+Source:  unknown mics/recorder > master cassette > lo gen cassette (TDK SA-90)
+
+Transfer (Steve Hagar): lo gen cassette > Denon 790R > Kenwood A-522 amplifier > Kenwood GE-622 Equalizer > .WAV @ 16 bit/44.1 kHz
+
+Mastering (Dennis Orr):  .WAV > Sound Forge Pro 11.0 (Build 299) [iZotope Mastering Suite (declick); minor edits, normalize, & fades] > iZotope RX6 Advanced v6.00.1210 (Spectral denoise)
+
+Tracking (dandrew):  .WAV > Audacity 2.2.2 > xAct 2.44 (encode to FLAC level 8, align sectors, ffp, md5)
+
+setlist:
+
+01. Nutshell
+02. Junkhead
+03. God Smack
+04. Bleed The Freak
+05. Dirt
+06. Man in the Box
+07. What the Hell Have I
+08. Angry Chair
+09. Hate to Feel (tape flip after song, spliced seamlessly, no music lost)
+10. Dam That River
+11. Them Bones
+12. Sickman
+13. Would?
+14. Rooster
+(encore)
+15. A Little Bitter
+16. We Die Young
+17. Rain When I Die
+
+show notes:  this was upped on TTD 7 years ago (from *cd*), and the notes from it are copy and pasted here.....please note the 2nd half of the notes, and then what follows:
+
+This concert is arguably the best Alice in Chains concert ever.  The thing that I love about this recording is that it was at the peak of their blackness. In only a few months from this date would Staley declare himself too weak to tour with Metallica, virtually ending Alice's reign of the concert stage, in a way making this one of the last "real" concerts they would do (opening for KISS really doesn't count, making their acoustic show their last great concert). Not to mention that this setlist is amazing. "Swarm" captures quite a emotional performance from Staley through wretching screams and showmanship to the highest level.  You will also hear him hit the highest note ever in "Hate To Feel". The band was definitely "on" tonight, and everything (i.e. Man in the Box, Dam That River, Them Bones, What the Hell Have I) is taken much faster than usual. Even though Sean must have been in a rush, it still turns out awesome. To cap off an amazing night, Alice closes with their finest performance of "Rain When I Die".  That alone is worth the download of this boot.
+
+------
+
+This particular recording has been remastered by me (not Dr. Deep) and what I did was give it a more rich sound instead of a tinny, muddy sound that the orginal bootleg had. I also brought out the highs so everything is crystal clear and enjoyable to listen to.  I also updated the artwork with that of my own. 
+
+The only downside about this recording is a slight tick between "Dirt" and "Man in the Box" and at the beginning of "Rooster".  These were the only two places I could not edit out the 2 second gap between songs. 
+
+This is Alice at their finest hour, so CRANK UP this show and ENJOY!!
+
+* * * * * 
+
+SH notes:  while I can easily agree with the first half of the notes, the 2nd half are a load of malarkey as far as I am concerned.
+
+firstly, if the previously loaded version is from DAT master > CD > the fans, why are there "2 second gaps that were eliminated except for 2"? (or, how can you eliminate all of the other gaps except the ones mentioned)
+
+and as for the 'remastering' job the person *claims* they did:
+
+got my tape about 2 months after the show happened
+
+it *always* had a rich sound to the low-end, without any 'remastering'...at least my tape did (the EQ work done was minimal)
+
+and, if you listen, mine had no 'glitch' between "Dirt" and "MITB" ("Rooster either)
+
+this is a LOW GEN transfer (very well could be a 1st gen) without a CD in the lineage.
+
+not sure if this is an upgrade in the sonic sense (I've not heard the other source), but my gut tells me it is (just listen to the samples)
+
+do with that what you will.
+
+big thanks once again to Dennis AND Dan, for both mastering and tracking.
+
+and a big "fuck off" to me...just 'cuz.
+
+the salt mines are calling...and I'm all out of pepper!
+
+---ballsdeep is looking for the garlic powder

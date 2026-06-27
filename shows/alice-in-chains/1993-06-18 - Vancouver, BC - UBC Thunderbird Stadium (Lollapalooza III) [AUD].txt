@@ -1,0 +1,116 @@
+Alice In Chains
+Lollapalooza '93
+Live in Vancouver, B.C.
+UBC Thunderbird Stadium
+June 18, 1993
+First show of Lollapalooza '93 tour
+
+Lineage:
+Stage monitors and PA system > atmosphere and audience > Sony ECM-907 Stereo condenser microphone (90 degree narrow field angle setting, held by hand, FOS stage center just out of reach of the mosh pit) > Sony WM D3 professional cassette recording walkman > TDK SA 90 type 2 tape (recorded in high bias with Dolby B on)
+Master tape played back on Denon DRM 500 deck (azimuth adjusted, Dolby B off, type 1 bias) > Sentrek SHQ 4230 analog EQ (minor low boost and breathing room for the highs) > SoundBlaster Live card in my PC (grounded) > Wavelab 4.0 for track splitting and further plugin processing (level adjustment, stereo expansion 20%, multiband compression (bass punch, high crisp), final mix compression and limiting) > Trader's Little Helper FLAC6 > TTD > YOU!
+
+Notes:
+What a long day! My second year of taping a Lollapalooza show in UBC's Thunderbird stadium in Vancouver, British Columbia, Canada. Both a "taper's dream and nightmare at the same time" because while easy to relatively 'openly' tape, you had to lug around all your supplies for taping like extra batteries and tapes plus mics and recorders and ??? etc...all day in the sun or the rain. This time it was the sun.
+I don't even remember getting to the venue, and if I was late for some 'next big thing' like I had been the year before for the Lollapalooza '92 show, missing Lush and half of Pearl Jam's set (who I had specifically came to see - grrrr!) I was happy to be at such an event, but not so impressed by the line-up on stage (nor the line-up for the bathroom, although one could be forgiven for mistaking one for the other!) - until it was time for Alice In Chains to come on stage!!! I could anticipate a sudden beginning to their show, and after a long wait after the end of Dinosaur Jr's set, and the buzz of activity on stage of all the roadies and band members getting set for their first Lollapalooza gig, I began recording early and taped over 13 minutes of waiting before they started playing. Check check yeeeow! Yeeeooow! One two yyeeeeeeow! Yeeeoww! Check check one two Yeeeeow! Yeeeeow! Yeeeeup! Yeeeeeup! One two one two two twoYeeeeeeup! Yeeeeeeup! Come on! Two. Two. Two. Two. Yeeeeup! Yeeeeeeup!
+Then out of the blue I noticed they were all there onstage still messing with their own gear. Then it began. The surge of everyone who realized that the band they really came to see was on! All the lurkers from every far corner of Thunderbird stadium rushed to where I was near the center of the front of the stage. Suddenly I was engulfed by 18000 bouncing bodies! It was hard holding on to my gym bag of tricks, the big ECM-907 mic that looks like a gun from a distance(!) a camera, and keeping track of my walkman in my pocket all at the same time. Eventually something had to go. Click. Everyone wanted to see them play their hit: "Would?" and a further crush came in and lurched everyone closer foreward. Squish. Off went the tape machine on my pocket pressed up against I hope at least a cute chick's booby! I don't know how long it took for me to get to reaching in and getting the D3 deck out and restarting the recording. I missed the end of 'Would?' , but did I miss a whole other song before starting again at the beginning of 'Love, Hate, Love' ??? I'm not sure.
+Another gap happens at the end of side A during 'Junkhead' near its end, the tape runs out. Side B begins abruptly at the very start of the tape's second side, as if it was flipped and the lead-in tape for 5 seconds was taped on , too! It's another mystery how long it took me to notice my recorder dead at the end of side A in my pocket! Flip!
+
+I was having minor technical problems with my recorder, and as a result, portions of the masters for this day's recordings have a wrinkle in the tape running along for long lengths at about where the right channel track is recorded. Therefore, there are some minor sound problems on the right side. I have applied modified felt pads with heavier spring loads in the tiny chamber behind the tape where it meets the tape head for playback to maximize tape to head contact, and adjusted the azimuth to calibrate to this tape (and the other 3) to align to how my original D3 was recording that day.
+I adjusted my digital input levels for playback for each segment during the tape breaks, but had to do a digital correction in a live level change at the start of God Smack, where I had turned my original WM D3 record level down during the show. Now it is not as noticeable. I experimented for about 2 weeks with several attempts at Digital ReMastering with several styles of techniques. I have not tweezed the heck out of the way the original master was played in, although the analog EQ stage did wonders for giving the bass some guts! There has been no noise reduction stages whatsoever done to this recording, neither analog Dolby B reduction for playback, nor any digital NR. Dolby B was used for the recording, as in the recording stage it boosts levels of high frequencies put on to the tape. Upon playback is when with Dolby on you get muffled sound, because it's lowering the high frequency response by the amount it 'over-recorded' it on the tape. I control that through the tasteful use of some professional mastering tools using some tips from some pros, and a thing or two I've learned on my own as a live sound mixer and recording engineer/mastering engineer.
+
+Setlist that got recorded to this tape:
+Side A:
+1. Dinosaur Jr. final song
+...Tape recorder switched off for break, then started recording in premature anticipation...
+2. 13 minutes plus of waiting and soundcheck uninterrupted before AIC begins
+3. Dam That River
+4. Them Bones
+5. We Die Young
+6. Would? (cut near end due to crowd surge and record button mishap)
+....Is something else missing here??? Stopped. An unknown amount of time passed while I didn't notice I wasn't recording....
+7. Love, Hate, Love (I began recording in the first notes of the tune, once I realized the machine had momentarily switched off)
+8. God Smack
+9. Junkhead (end cut due to poorly planned tape flip)
+....Another unknown length gap while the tape was flipped and recording recommences....
+Side B:
+10. Angry Chair
+11. Man In The Box
+12. Hate To Feel
+13. bootleg buyer buddy
+(encore applause - short tape edit)
+14. Rain When I Die
+15. Rooster
+fifteen minutes of blank tape follow to finish side B
+
+Despite the obvious thrashing you hear me getting near the start of the performance, and the cramp I had in my arm the next day from holding that stupid microphone all day, and despite the unfortunate cuts in the recording, some of the songs came out quite well! I'm not proud of the concept that I've essentially sat on this recording since then until now without doing anything to it, but I am pleased to put it out there for everyone to enjoy now! I offer essentially everything I recorded on that tape on that day. You may easily choose not to take the DinoJr, bootleg buddy and long&lame soundcheck tracks yourself, and really they're not essential to the enjoyment of the AIC set, I offer them as a digiversion of this particular cassette I schlubbed around all day that day in June 1993. Take it or leave it!
+
+Included in the torrent are scans of the 12 snapshots taken with my cruddy 35mm snapshot camera. Some photos I took holding the camera at arm's length above my head aiming blindly, some were taken by a taller fellow concert goer who saw my hands were already full with the taping gear and excess baggage, and offered to help. With my direction on the above-the-head shooting blind technique, he took some great shots throughout the rest of the afternoon for me. I had 2 prints of each shot, gave a copy away, and have lost the negatives. The back of each print has a number, skipping up by twos even numbers from 18 to 40 appear as pictures 1 to 12.
+Also I have added scans of both sides of the tape, the unfolded cassette cover, some tickets and stubs, and a couple of quickly corrected versions of the 2 worst overexposed photos.
+
+Trade freely with friends and new aquaintences, but don't sell this recording. Make audio CDR copies for anyone you wish, but if you believe they might trade the set further, offer them a copy as FLAC files to keep the data pure. Don't EnCrap to MP3, unless absolutely necessary to your health and well being, and then only for personal use. Never distribute in any lossy format, or your health and well being will be an issue for you!
+If you're an artsy type and you whip up some covers for this set, please post them so everyone can enjoy them, and also please email me a copy so I can be sure to have one!
+Thanks for listening. The technical mumbo jumbo is to follow...
+
+audioarchivist@hotmail.com
+
+
+No need for fixing SBEs (all wav files are already sector-aligned).
+
+01 Dinosaur Jr encore tune.wav:  successfully encoded to 'E:\Alice In Chains\Alice In Chains 1993 06 18 Lollapalooza Vancouver BC FLAC\01 Dinosaur Jr encore tune.flac'
+02 AIC soundcheck.wav:  successfully encoded to 'E:\Alice In Chains\Alice In Chains 1993 06 18 Lollapalooza Vancouver BC FLAC\02 AIC soundcheck.flac'
+03 Dam The River.wav:  successfully encoded to 'E:\Alice In Chains\Alice In Chains 1993 06 18 Lollapalooza Vancouver BC FLAC\03 Dam The River.flac'
+04 Them Bones.wav:  successfully encoded to 'E:\Alice In Chains\Alice In Chains 1993 06 18 Lollapalooza Vancouver BC FLAC\04 Them Bones.flac'
+05 We Die Young.wav:  successfully encoded to 'E:\Alice In Chains\Alice In Chains 1993 06 18 Lollapalooza Vancouver BC FLAC\05 We Die Young.flac'
+06 Would_.wav:  successfully encoded to 'E:\Alice In Chains\Alice In Chains 1993 06 18 Lollapalooza Vancouver BC FLAC\06 Would_.flac'
+07 Love, Hate, Love.wav:  successfully encoded to 'E:\Alice In Chains\Alice In Chains 1993 06 18 Lollapalooza Vancouver BC FLAC\07 Love, Hate, Love.flac'
+08 God Smack.wav:  successfully encoded to 'E:\Alice In Chains\Alice In Chains 1993 06 18 Lollapalooza Vancouver BC FLAC\08 God Smack.flac'
+09 Junkhead.wav:  successfully encoded to 'E:\Alice In Chains\Alice In Chains 1993 06 18 Lollapalooza Vancouver BC FLAC\09 Junkhead.flac'
+10 Angry Chair.wav:  successfully encoded to 'E:\Alice In Chains\Alice In Chains 1993 06 18 Lollapalooza Vancouver BC FLAC\10 Angry Chair.flac'
+11 Man In The Box.wav:  successfully encoded to 'E:\Alice In Chains\Alice In Chains 1993 06 18 Lollapalooza Vancouver BC FLAC\11 Man In The Box.flac'
+12 Hate To Feel.wav:  successfully encoded to 'E:\Alice In Chains\Alice In Chains 1993 06 18 Lollapalooza Vancouver BC FLAC\12 Hate To Feel.flac'
+13 encore dude number edit out.wav:  successfully encoded to 'E:\Alice In Chains\Alice In Chains 1993 06 18 Lollapalooza Vancouver BC FLAC\13 encore dude number edit out.flac'
+14 Rain When I Die.wav:  successfully encoded to 'E:\Alice In Chains\Alice In Chains 1993 06 18 Lollapalooza Vancouver BC FLAC\14 Rain When I Die.flac'
+15 Rooster.wav:  successfully encoded to 'E:\Alice In Chains\Alice In Chains 1993 06 18 Lollapalooza Vancouver BC FLAC\15 Rooster.flac'
+
+No errors occured.
+
+
+01 Dinosaur Jr encore tune.flac:  tested ok (file will decode properly)
+02 AIC soundcheck.flac:  tested ok (file will decode properly)
+03 Dam The River.flac:  tested ok (file will decode properly)
+04 Them Bones.flac:  tested ok (file will decode properly)
+05 We Die Young.flac:  tested ok (file will decode properly)
+06 Would_.flac:  tested ok (file will decode properly)
+07 Love, Hate, Love.flac:  tested ok (file will decode properly)
+08 God Smack.flac:  tested ok (file will decode properly)
+09 Junkhead.flac:  tested ok (file will decode properly)
+10 Angry Chair.flac:  tested ok (file will decode properly)
+11 Man In The Box.flac:  tested ok (file will decode properly)
+12 Hate To Feel.flac:  tested ok (file will decode properly)
+13 encore dude number edit out.flac:  tested ok (file will decode properly)
+14 Rain When I Die.flac:  tested ok (file will decode properly)
+15 Rooster.flac:  tested ok (file will decode properly)
+
+No errors occured.
+
+
+01 Dinosaur Jr encore tune.flac:5367a9022f2efd6ad520abde3c919c50
+02 AIC soundcheck.flac:d0ecc0ac48787581e51430509733413a
+03 Dam The River.flac:aa8e0283292f537c1e1bb365d43ae254
+04 Them Bones.flac:a69cf5a2bfa1fa1c92630962b418a1f6
+05 We Die Young.flac:c1493c36dd8273ae619e9f7876c6f144
+06 Would_.flac:75a229781bfa8255d7bdca24b54e7c18
+07 Love, Hate, Love.flac:c5fdb50d0f9e7508216ba41998e8bd3e
+08 God Smack.flac:4d65618aa473c9b5f69a7f4cf86ccf31
+09 Junkhead.flac:2980668e834be586b1639a5b0ffa98ee
+10 Angry Chair.flac:3574e96937b0b856b69f55b13b8d9c18
+11 Man In The Box.flac:c9008ff216560f4ce11a47521bf16ca6
+12 Hate To Feel.flac:dfe5f699f45035f79759a0756bbd00a5
+13 encore dude number edit out.flac:0767cb7b73bb3f7ce6c40181c5235183
+14 Rain When I Die.flac:0430274a466103035c1d873a1b350681
+15 Rooster.flac:39dbce55878152c63949de64942b579e
+
+No errors occured.
+
+Checksum file saved to disk.
+

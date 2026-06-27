@@ -1,0 +1,27 @@
+Alice In Chains
+DC101 Chili Cook-Off
+Parking Lot 7 @ RFK Stadium
+Washington, District Of Columbia
+May 22nd, 2010
+
+taper: Craig "Cabbage" Kabis <cabbage@jimmieschickenshack.net> <craigkabis@gmail.com>
+location: Half way between the stage and soundboard.  Half way between the left stack and center of stage.  Mics in my chest pocket to protect it from the rain about 5' high
+source: Sonic Studios DSM-6S/L > PA-6LC3B (roll off @ 65Khz) > iRiver H120 > .wav @ 44.1Khz / 16 bit
+lineage: .wav > Amadeus Pro 1.5 > FLAC 8
+flaws:  It was raining on and off, several mosh pits and crowd surfers at various times
+
+Setlist
+01 - Them Bones		[03:09]
+02 > Damn That River	[03:34]
+03 - Rain When I Die	[06:16]
+04 - Check My Brain	[04:34]
+05 - Again		[05:30]
+06 - Your Decision	[05:20]
+07 - No Excuses		[05:01]
+08 - Acid Bubble 	[06:40]
+09 - We Die Young 	[02:57]
+10 - Angry Chair	[04:31]
+11 - Man In The Box	[06:11]
+12 - Would?		[04:02]
+13 - Rooster		[07:10]
+Total Running Time	[65:00]

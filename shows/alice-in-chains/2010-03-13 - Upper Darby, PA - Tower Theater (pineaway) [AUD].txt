@@ -1,0 +1,39 @@
+Alice in Chains
+2010-03-13
+Tower Theatre
+Upper Darby, PA
+
+Taper:  pineaway
+Location:  Far, far away, dead center.
+
+Rig:  Core Sound Binaurals -> Battery Box (no roll off) -> Olympus LS-10 @ 24/96
+Transfer:  SD Card -> PC -> Wave
+Post:  Wave -> Magix Sequoia -> Izotope Ozone (EQ) -> Wave 24/96 -> Resampled to 16/44.1 -> CD Wave -> Flac
+
+Set:
+
+1.  Intro
+2.  All Secrets Known
+3.  It Ain't Like That
+4.  Again
+5.  Check My Brain
+6.  Them Bones
+7.  Damn That River
+8.  Rain When I Die
+9.  Your Decision
+10. Got Me Wrong
+11. We Die Young
+12. A Looking in View (Tech Problem)
+13. Nutshell (Extended Outro Solo)
+14. Sickman
+15. Junkhead
+16. Last of My Kind
+17. Angry Chair
+18. Man in the Box
+19. Sean Kinney Open Mic
+20. Encore Break
+21. Would?
+22. Rooster
+
+Notes:  Awesome, awesome show.  Recording came out awesome considering how far away I was.  Really nothing
+else to say.  Enjoy.

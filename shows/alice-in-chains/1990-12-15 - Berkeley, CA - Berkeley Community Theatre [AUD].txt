@@ -1,0 +1,39 @@
+ALICE IN CHAINS
+December 15, 1990
+Berkeley Community Theatre
+Berkeley, CA
+
+SOURCE:
+unknown > unknown
+
+TRANSFER:
+Nakamichi DR-8 > Echo Layla24 > Adobe Audition 1.5 > CD Wave 1.94.5 > FLAC frontend 1.7.1
+
+GENERATION:
+ANA(2) > WAV [48kHz] > WAV [44.1kHz] > FLAC [Level 8]
+
+LENGTH:
+31:53
+
+TRACKS:
+01. It Ain't Like That (cuts in)
+02. Man In The Box
+03. Real Thing
+04. Dirt
+05. Put You Down
+06. Bleed The Freak
+07. Confusion
+08. We Die Young (cuts out)
+
+MD5 FINGERPRINTS:
+47c5f7faaf10422c02d026c68f20da92 *AliceInChains_1990-12-15_AUD_t01.flac
+09d35ea0617ad430e56cb677198a31f1 *AliceInChains_1990-12-15_AUD_t02.flac
+cefc53dc19bcc86a780f92f9c28c6062 *AliceInChains_1990-12-15_AUD_t03.flac
+80b3ad23cb2e0d84b2a8e7e08f1199fd *AliceInChains_1990-12-15_AUD_t04.flac
+279fe1f0d208218f0095c4be8c1c69f8 *AliceInChains_1990-12-15_AUD_t05.flac
+8387bba2f5eb44795eeba9973ce94800 *AliceInChains_1990-12-15_AUD_t06.flac
+0e364fcb94329f84f9649b9cdf6e9d96 *AliceInChains_1990-12-15_AUD_t07.flac
+b23927ff30a1b2c02151ebf90a8b8ba4 *AliceInChains_1990-12-15_AUD_t08.flac
+
+TRANSFERRED BY:
+Kris Sproul

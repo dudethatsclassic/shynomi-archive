@@ -1,0 +1,28 @@
+Alice In Chains
+10/09/1991 
+Civic Center
+Providence, RI
+Van Halen Tour
+
+01. Real Thing
+02. Put You Down
+03. Would?
+04. Man In The Box
+05. Blead The Freak
+06. It Ain`t Like That
+07. Sea Of Sorrow
+08. We Die Young
+
+Source: ANA [M] > DAT [M] > CDR [M] > EAC > WAV > FALC [level8]
+Equip: Radio shack (1003 mic) > Sony D3
+
+note: I had to create a .md5 file - April 2012. 
+
+note 2: The lineage says CDRM so I didn't change it. I did a bit research and the lowest gen is ANAM>DATM>CDR(1). I'd need some info on that but either is CDR1 or CDR2, most likely CDR1.
+
+note 3: Tracklist files starts on (Track09 - first song).
+
+note 4: DO NOT SELL OR CONVERT TO LOSSY FORMATS AND SHARE IT. IF YOU PLAN TO CONVERT TO mp3 PLEASE DO NOT SHARE IT !!
+
+
+

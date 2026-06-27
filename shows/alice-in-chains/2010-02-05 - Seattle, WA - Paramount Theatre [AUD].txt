@@ -1,0 +1,70 @@
+ALICE IN CHAINS
+February 5, 2010
+Paramount Theatre
+Seattle, WA
+
+SETLIST (118:19)
+-----------------
+01) intro
+02) All Secrets Known
+03) It Ain’t Like That
+04) Again
+05) Check My Brain
+06) Them Bones
+07) Dam That River
+08) Rain When I Die
+09) Your Decision
+10) No Excuses
+11) Love, Hate, Love
+12) A Looking In View
+13) Nutshell
+14) Sickman
+15) Junkhead
+16) Lesson Learned
+17) We Die Young
+18) Acid Bubble
+19) Angry Chair
+20) Man In The Box
+21) Would?
+22) Rooster
+
+GENERATION
+-----------------
+WAV(M) [48kHz/24bit] > WAV [44.1kHz/16bit] > FLAC [Level 8]
+
+SOURCES
+-----------------
+Panasonic WM-61A > Sound Professionals SP-SPSB-2 > Edirol R-09
+
+TRANSFER
+-----------------
+Edirol R-09 > USB > Adobe Audition 3.0 > CD Wave 1.98 > FLAC frontend 1.7.1
+
+MD5 FINGERPRINTS
+-----------------
+8b4dc5d16cebece35e9a3718a464d4d0 *aliceinchains2010-02-05t01.flac
+3b83f18174655145210394c3e9753b24 *aliceinchains2010-02-05t02.flac
+07b2eaebe2f9bc3de94b3237734714da *aliceinchains2010-02-05t03.flac
+6f9147c7fcf3bb0881c1f96094e9e586 *aliceinchains2010-02-05t04.flac
+18f10ca1a9558749595c48fa0419ad71 *aliceinchains2010-02-05t05.flac
+651ba00c67453a8775eceade587062aa *aliceinchains2010-02-05t06.flac
+e91f4c5c12902a678dee3b2fe9151e16 *aliceinchains2010-02-05t07.flac
+5edeb1b846a92ec922d8a8b01175d56b *aliceinchains2010-02-05t08.flac
+ef59d5326b2b543092efee0b8274e026 *aliceinchains2010-02-05t09.flac
+2bd32643f7aacf05b17e8ae2cd39e548 *aliceinchains2010-02-05t10.flac
+9deb276bed1ea00f03448d4717a6d27f *aliceinchains2010-02-05t11.flac
+8371fbe989bfeb094d429c77f22e04b8 *aliceinchains2010-02-05t12.flac
+c6d033ebc3612b94c799656aab2e479e *aliceinchains2010-02-05t13.flac
+d60879122d2028c3a0ca15fcf09f664b *aliceinchains2010-02-05t14.flac
+b3764e38ea6ea1e57c238e6c9c3c516c *aliceinchains2010-02-05t15.flac
+1503bbe291cdea8031a3ffdca2c6987d *aliceinchains2010-02-05t16.flac
+75f2d11f307b32e3abbc9b971b252699 *aliceinchains2010-02-05t17.flac
+b31fdf8a447a70eb670a97beaed0f9c9 *aliceinchains2010-02-05t18.flac
+b027f007b01771e0f68a5798381a0492 *aliceinchains2010-02-05t19.flac
+55953b6e8cf84bead39d1ddda946d8b1 *aliceinchains2010-02-05t20.flac
+47d8626dac9a6d84a769820d1afdec5d *aliceinchains2010-02-05t21.flac
+b8782c0a12694af031ed4eb977d37f9e *aliceinchains2010-02-05t22.flac
+
+
+Recorded by Mike Ziegler.
+PLEASE DO NOT ENCODE TO MP3 OR SELL!

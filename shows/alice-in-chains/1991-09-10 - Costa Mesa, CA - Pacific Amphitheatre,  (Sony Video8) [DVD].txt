@@ -1,0 +1,85 @@
+Alice In Chains
+Pacific Amphitheatre, Costa Mesa, CA
+September 10, 1991
+
+Big D Productions
+
+Recorded using an Olympus 8mm Movie Camera (Model VX-801) > TDK EHG 120 (Hand-Held)
+
+Transfer using a Sony Video 8 XR (Model CCD-TRV37) (NTSC) > Sony DVD Burner (Model VRD-MC6) @ HQ Mode
+
+DVD extracted using DVD Decrypter > VIDEO_TS folder
+
+Traders Den - July 20, 2020
+
+Digitized & posted by kingrue upload #2616
+-------------------------------------------------
+
+Here's a brand new Alice In Chains video that's been digitized and shared for the first time.
+
+There were 2 shows played at Pacific Amphitheatre opening for Van Halen. This is the first night.
+
+This is "never before seen" footage.  It's shot from the lawn and is hand-held and shaky.
+
+The screen is never filmed and due to head obstructions, the focus becomes blurry from time to time.
+
+
+
+Band line-up
+Layne Staley - vocals (died April 5, 2002, aged 34)
+Mike Starr - bass (died March 8, 2011, aged 44)
+Sean Kinney - drums
+Jerry Cantrell - guitar
+
+Total Time = 39:17
+
+Set list
+Real Thing
+Put You Down
+Would?
+Love, Hate, Love
+We Die Young
+Man In The Box
+Bleed The Freak
+It Ain't Like That
+Sea Of Sorrow
+
+-----------------------------
+
+Technical information offered by GSpot v2.70a
+
+Video Source: Olympus Camera (Model VX-801)
+Video Lineage: 8mm master
+Taper Big D Productions
+Video Codec: MPEG-2
+Video Bitrate: 10080 kb/s
+DVD Author: kingrue
+DVD Length: 39 min
+Chapters Every 5 Mins.
+Video File Size 2.67 GB
+
+Audio Source:
+Audio Codec: AC3
+Audio Bitrate: 48000Hz 256 kb/s, stereo 2 channel.
+
+Screen Size: 720 x 480 (4:3 ratio)
+Fms: 26,421
+kbps: 9,306
+frames 29.970
+
+-----------------------------------
+
+3937aabed04a9be543a43e650106af55 *VIDEO_TS\VIDEO_TS.BUP
+3937aabed04a9be543a43e650106af55 *VIDEO_TS\VIDEO_TS.IFO
+70606b3efa1bad3f1f49b3df749f0801 *VIDEO_TS\VIDEO_TS.VOB
+03654b9119de6c67f7f9c47994dcc1f0 *VIDEO_TS\VTS_01_0.BUP
+03654b9119de6c67f7f9c47994dcc1f0 *VIDEO_TS\VTS_01_0.IFO
+c14a329de63cb08c19b80ebfcb7e9802 *VIDEO_TS\VTS_01_1.VOB
+d3958a0606bb4130cc764255cbb92a2d *VIDEO_TS\VTS_01_2.VOB
+9a04e70b2f40fb28aa06926829d796bc *VIDEO_TS\VTS_01_3.VOB
+
+No errors occured.
+
+Create checksum file log saved to file.
+
+

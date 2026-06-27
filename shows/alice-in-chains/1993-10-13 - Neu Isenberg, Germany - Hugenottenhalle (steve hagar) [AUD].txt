@@ -1,0 +1,47 @@
+Alice In Chains
+Hugenottenhalle
+Neu Isenburg, Germany
+October 13, 1993
+
+Source: unknown mics/recorder > master cassette > lo gen cassette
+
+Transfer (Steve Hagar):  cassette > Denon 790R > Kenwood A-522 amplifier > Kenwood GE-622 Equalizer > .WAV @ 16 bit/44.1 kHz
+
+Mastering (Dennis Orr): .WAV > Sound Forge Pro 11.0 (Build 299) [iZotope Mastering Suite (declick); minor edits, normalize, & fades] > iZotope RX6 Advanced v6.00.1210 (Spectral denoise)
+
+Tracking (dandrew):  .WAV > Audacity 2.2.2 (tracking) > xAct 2.44 (encode to flac level 8, align sectors, ffp, md5)
+
+
+setlist
+
+01. Nutshell (fades in)
+02. Dam That River 
+03. Them Bones
+04. It Ain't Like That
+05. Godsmack
+06. Bleed The Freak
+07. What The Hell Have I? (tape flip, seamlessly patched)
+08. Sickman
+09. Junkhead
+10. Dirt
+11. Angry Chair
+12. Hate To Feel
+13. We Die Young
+14. A Little Bitter
+15. Rain When I Die
+16. - encore break -
+17. Rooster
+18. Would?
+
+show notes:
+
+I can't imagine this is worse than a 2nd gen, and could well be a first....and to these ears, the sound quality is just one notch below that of the recent Osaka upload, if that.
+
+sourced from one of the 'purchases' made in years past.
+
+
+uber-thanks to Dennis and Dandrew for the mastering (this show SMOKES!) and tracking.
+
+back to go sit on the angry chair I go!
+
+---ballsdeep is OUT!

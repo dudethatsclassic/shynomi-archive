@@ -1,0 +1,53 @@
+ALICE IN CHAINS
+October 11, 2006
+Hard Rock Live
+Orlando, FL
+
+SOURCE:
+Panasonic WM-61A > Sound Pro SP-SPSB-2 (195Hz bass roll-off) > Sony PCM-M1
+
+TRANSFER:
+Sony PCM-M1 > Echo Layla24 > Adobe Audition 2.0 > CD Wave 1.95 > FLAC frontend 1.7.1
+
+GENERATION:
+DAT(M) [48kHz] > WAV [48kHz] > remaster > WAV [48kHz] > WAV [44.1kHz] > FLAC [Level 8]
+
+LENGTH:
+121:06
+
+TRACKS (DISC 1):
+01. intro (Whale & Wasp)
+02. Again
+03. Bleed The Freak
+04. Grind
+05. It Ain't Like That
+06. Junkhead
+07. Nutshell
+08. Them Bones
+09. Dam That River
+10. Rain When I Die
+11. Layne Staley video montage
+
+TRACKS (DISC 2):
+01. Don't Follow (acoustic)
+02. Brother (acoustic)
+03. Killer Is Me (acoustic)
+04. No Excuses (acoustic)
+05. Got Me Wrong (acoustic)
+06. Down In A Hole (acoustic)
+07. band video montage
+08. Sludge Factory
+09. We Die Young
+10. Heaven Beside You
+11. Angry Chair
+12. Man In The Box
+13. Mountain Song (partial)
+14. Rooster
+15. Would?
+
+
+RECORDED AND TRANSFERRED BY:
+Kris Sproul
+
+REMASTERED BY:
+Kris Sproul and Mike Ziegler

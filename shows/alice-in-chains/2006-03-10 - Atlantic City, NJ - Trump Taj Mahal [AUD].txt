@@ -1,0 +1,41 @@
+Alice in Chains
+3-10-06
+Trump Taj Mahal
+Atlantic City, NJ
+Decades Rock Live
+
+Lineage: Recorded from section N row M seat 13 dfc about 200 feet back from the stage.
+SP-CMC 4's (Cap mounted) > SP-SPSB-6 (bass rolloff @69hz) > Edirol R1 > USB > 
+HD > Audacity (Track splits, minor fixes) > WAV > FLAC (Level 6) > You
+
+Set List:
+1. Angry Chair*
+2. Man in the Box*
+3. Them Bones#
+4. Would?#
+5. Man in the Box* (Take 2)
+6. Would?# (Take 2)
+7. Rooster* - w/ Heart
+8. Baracuda - Heart w/ AIC* and Dave Navarro and Rufus Wainright
+
+Alice in Chains
+Jerry Cantrell - Lead Guitar, Backing Vocals
+Mike Inez - Bass 
+Sean Kinney - Drums
+Duff McKagen (GNR, Velvet Reolver) - Rhythm Guitar
+William Duvall (Comes with the Fall) - Lead Vocals*
+Phil Anselmo (Pantera, Down, Superjoint Ritual) - Lead Vocals#
+
+Taper's Notes: 
+
+Overall, this is an Excellent Audience recording, but there are several minor 
+glitches that do not take away from the overall quality of the recording. 
+First, I was still setting up when AIC came out to open the show and I missed the first
+few seconds of Angry Chair. Second, my recorder was accidently stopped/paused for 
+a few seconds in tracks 1, 2, and 8. In track #2 there are 2 loud sound spikes
+in the recording that were part of the show and not the recorder's fault. In the 
+intro by Nancy on track 7, the mics must have been slipped out of the recorder slightly and 
+only the left track came out, so I doubled it to fill the right track. Halfway 
+through track 8, the audio level was accidently lowered and was raised +3db on both
+the left and right channels in audacity to even out the track. It was difficult to 
+estimate the recording levels, and at times the audio is slightly clipped. 

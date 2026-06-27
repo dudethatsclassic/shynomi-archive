@@ -1,0 +1,98 @@
+Alice In Chains
+May 19, 2018
+Camden, New Jersey
+BB&T Pavilion
+Lineage: SP-CMC-8(AT8538 Mod)>CA-9100>Edirol R-05>PC>Adobe Audition>CDWAVE>FLAC
+Taped by: Porcelmc 
+
+93.3 WMMR's MMRBQ
+
+____________________________________________________________
+
+Setlist - Alice in Chains
+
+01. AIC Takes the Stage
+02. Bleed the Freak
+03. Check My Brain
+04. Again
+05. Will Speaks #1
+06. Them Bones
+07. Dam that River
+08. Jerry Speaks #1
+09. Down in a Hole
+10. Hollow
+11. We Die Young
+12. Jerry Speaks #2 + Band Intros
+13. Nutshell
+14. No Excuses
+15. UFO Rock Bottom Jam (COVER)
+16. Will Speaks #2
+17. Man in the Box
+18. Jerry Speaks #3
+19. The One You Know
+20. Would?
+21. Rooster
+
+
+_____________________________________________________________
+
+Notes:
+
+This was a radio festival show and the band was really tight during this gig. Quite surprisingly a mosh pit broke out and I had to move during Dam that River. This gave me the chance to lower the levels and get things aces. While this location might be classed as an "outdoor" venue, its like being in a barn with the back door open. Not really a fan of this venue, and that's a rarity for me. 16oz beer at $13.75 as well. Major rip off folks, thanks for the price gouge.
+ 
+
+
+Flac Fingerprint File:
+
+01_AIC Takes the Stage.flac:9ae964b9f94361d4e4f94276aba03555
+02_Bleed the Freak.flac:a8270df393b48f2c290eaf8ea15d061b
+03_Check My Brain.flac:0a01f2086734dc0121689ba0bdb9bfb7
+04_Again.flac:057b1d44efd89fe02b90ece7d20b616d
+05_Will Speaks #1.flac:2e2c3de20ae5e12d6535e2688ce85646
+06_Them Bones.flac:775388425f6555ef8d11f999ef2345f9
+07_Dam that River.flac:ba9fc8efabd92d485c0ef4442a9692b3
+08_Jerry Speaks #1.flac:1c452c3fbbdfa7d4190b5f8a2105cc76
+09_Down in a Hole.flac:a06567d521d4ccb5804f3c8305979b4d
+10_Hollow.flac:5173832b8156a750ef5f1ec88f404a50
+11_We Die Young.flac:a0c9b96d17339e51fa0dea446450bcd4
+12_Jerry Speaks #2  Band Intros.flac:0cfaa4cbe62d9c42bc62c30c4e65342c
+13_Nutshell.flac:fd001291fbe1a8d7c2de74f7a0589d57
+14_No Excuses.flac:b9ff65deaae300f6bd711e5af0e87f43
+15_UFO Rock Bottom JAM.flac:b5361456d54c9291b1acf9aa2d70ee02
+16_Will Speaks #2.flac:88277121d3315dcbebc2e5c6f6e6181d
+17_Man in the Box.flac:7f20a008eb25140a1788cd70312351d0
+18_Jerry Speaks #3.flac:88708906395cfcb061a3fe6341185756
+19_The One You Know.flac:d39c5f4c6b330c1061555fd531d0891b
+20_Would.flac:074036a760ceb19d46fa2b2d7283ba4a
+21_Rooster.flac:21cbdb1dabafb79f69e199504badea4e
+
+No errors occured.
+
+
+ST5 Hash File:
+
+9ae964b9f94361d4e4f94276aba03555  [shntool]  01_AIC Takes the Stage.flac
+a8270df393b48f2c290eaf8ea15d061b  [shntool]  02_Bleed the Freak.flac
+0a01f2086734dc0121689ba0bdb9bfb7  [shntool]  03_Check My Brain.flac
+057b1d44efd89fe02b90ece7d20b616d  [shntool]  04_Again.flac
+2e2c3de20ae5e12d6535e2688ce85646  [shntool]  05_Will Speaks #1.flac
+775388425f6555ef8d11f999ef2345f9  [shntool]  06_Them Bones.flac
+ba9fc8efabd92d485c0ef4442a9692b3  [shntool]  07_Dam that River.flac
+1c452c3fbbdfa7d4190b5f8a2105cc76  [shntool]  08_Jerry Speaks #1.flac
+a06567d521d4ccb5804f3c8305979b4d  [shntool]  09_Down in a Hole.flac
+5173832b8156a750ef5f1ec88f404a50  [shntool]  10_Hollow.flac
+a0c9b96d17339e51fa0dea446450bcd4  [shntool]  11_We Die Young.flac
+0cfaa4cbe62d9c42bc62c30c4e65342c  [shntool]  12_Jerry Speaks #2  Band Intros.flac
+fd001291fbe1a8d7c2de74f7a0589d57  [shntool]  13_Nutshell.flac
+b9ff65deaae300f6bd711e5af0e87f43  [shntool]  14_No Excuses.flac
+b5361456d54c9291b1acf9aa2d70ee02  [shntool]  15_UFO Rock Bottom JAM.flac
+88277121d3315dcbebc2e5c6f6e6181d  [shntool]  16_Will Speaks #2.flac
+7f20a008eb25140a1788cd70312351d0  [shntool]  17_Man in the Box.flac
+88708906395cfcb061a3fe6341185756  [shntool]  18_Jerry Speaks #3.flac
+d39c5f4c6b330c1061555fd531d0891b  [shntool]  19_The One You Know.flac
+074036a760ceb19d46fa2b2d7283ba4a  [shntool]  20_Would.flac
+21cbdb1dabafb79f69e199504badea4e  [shntool]  21_Rooster.flac
+
+No errors occured.
+
+

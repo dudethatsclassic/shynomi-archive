@@ -1,0 +1,77 @@
+Alice in Chains
+Maquinaria Festival 2011
+Santiago, Chile
+November 12, 2011
+
+Format                           : Matroska
+Format version                   : Version 2
+File size                        : 4.62 GiB
+Duration                         : 1h 19mn
+Overall bit rate                 : 8 275 Kbps
+Movie name                       : Alice in Chains - Maquinaria Festival, Santiago, Chile (2011.11.12)
+Encoded date                     : UTC 2011-11-29 17:32:27
+Writing application              : mkvmerge v5.1.0 ('And so it goes') built on Nov 28 2011 23:58:28
+Writing library                  : libebml v1.2.3 + libmatroska v1.3.0
+
+Video
+ID                               : 1
+Format                           : AVC
+Format/Info                      : Advanced Video Codec
+Format profile                   : High@L4.0
+Format settings, CABAC           : Yes
+Format settings, ReFrames        : 2 frames
+Format settings, GOP             : M=2, N=30
+Muxing mode                      : Container profile=Baseline@3.2
+Codec ID                         : V_MPEG4/ISO/AVC
+Duration                         : 1h 19mn
+Bit rate mode                    : Variable
+Maximum bit rate                 : 22.0 Mbps
+Width                            : 1 280 pixels
+Height                           : 720 pixels
+Display aspect ratio             : 16:9
+Frame rate                       : 59.940 fps
+Color space                      : YUV
+Chroma subsampling               : 4:2:0
+Bit depth                        : 8 bits
+Scan type                        : Progressive
+Language                         : English
+
+Audio
+ID                               : 2
+Format                           : AAC
+Format/Info                      : Advanced Audio Codec
+Format profile                   : LC
+Codec ID                         : A_AAC
+Duration                         : 1h 19mn
+Channel(s)                       : 2 channels
+Channel positions                : Front: L R
+Sampling rate                    : 48.0 KHz
+Compression mode                 : Lossy
+Delay relative to video          : 17ms
+Title                            : chilecomparte.cl
+Language                         : Spanish
+
+Menu
+00:00:01.000                     : :[01] Them Bones
+00:02:39.000                     : :[02] Dam That River
+00:06:00.000                     : :[03] Rain When I Die
+00:11:37.000                     : :[04] Again
+00:15:55.000                     : :[05] Check My Brain
+00:19:56.000                     : :[06] It Ain't Like That
+00:24:28.000                     : :[07] Got Me Wrong
+00:29:08.000                     : :[08] We Die Young
+00:31:44.000                     : :[09] Last of My Kind
+00:37:05.000                     : :[10] Down in a Hole
+00:42:31.000                     : :[11] Nutshell
+00:48:23.000                     : :[12] Acid Bubble
+00:55:30.000                     : :[13] Angry Chair
+01:00:06.000                     : :[14] Man in the Box
+01:05:16.000                     : :[15] Rooster (Feat. Duff McKagan)
+01:11:51.000                     : :[16] No Excuses
+01:16:10.000                     : :[17] Would?
+
+
+Not reencoded, just cutted in/out and chapters added.
+"Your Decision" wasn't broadcasted.
+Thanks to EliteHD from Chilecomparte.cl who captured the fullshow.
+

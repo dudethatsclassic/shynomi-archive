@@ -1,0 +1,40 @@
+Alice in Chains
+Saturday July 7th, 2018
+Montreux Jazz Lab (formerly Miles Davis Hall)
+Montreux, Switzerland
+
+Taper:  LeifH
+Source:  CA-11 (cardioid) > Bat2B > Sony PCM M10 @ 24/48 > microSD card
+Transfer:  Memory card > PC via USB > Wavepad Masters Edition (edits, amplify, tracking, 16/44.1) > flac (8) via TLH
+
+Setlist:  1:09:27
+01 Don't Follow
+02 No Excuses
+03 Your Decision
+04 Got Me Wrong
+05 Down in a Hole
+06 Voices
+07 Brother
+08 Nutshell
+09 Heaven Beside You
+10 When the Sun Rose Again
+11 Would?
+12 Rooster
+
+I arrived in Montreux only a few hours before this show.  Stay up all night to change clocks, sleep for most of a 6 hour flight, another 3 hour flight, bus, train....  Je suis fatigué
+
+Had no idea that this would be an acoustic show.  Not a mega-fan of the band but it was really good.  The ticket price was pretty steep for a 1 hour show though.   
+
+fingerprints:
+01 - Don't Follow.flac:6796842a0e041a1750bf078ac29e8073
+02 - No Excuses.flac:ddd7397ee15950709742de925dac607c
+03 - Your Decision.flac:320893fa54da8d12761f1eef82d48610
+04 - Got Me Wrong.flac:9d2cbf2fd3875fd7863ac82e9a4f3c33
+05 - Down in a Hole.flac:64f1b0d64e89645b6d1778fdc38e917d
+06 - Voices.flac:721a466596c4e7d6b32ccd5e9af143aa
+07 - Brother.flac:b822414f735efbcfd33d1572d7958b9b
+08 - Nutshell.flac:39e2bcd045e2ced5627c6c935d71ada7
+09 - Heaven Beside You.flac:2d764742c1f438033680d90be4da6efc
+10 - When the Sun Rose Again.flac:638e57dc9b234838535321830cdf2751
+11 - Would.flac:fd9dc6154e819e102a623a3677d33fa9
+12 - Rooster.flac:2cca7c3cadc82b9fc61d97b16a4aa07a

@@ -1,0 +1,73 @@
+Alice in Chains
+11-2-06
+Nokia Theater
+New York, NY
+
+Taper: Team DZ
+Equipment: sony hc21 with a tripod
+Mini DV(M)>DVDR
+NTSC
+
+Disc 1
+-----------------------
+Electric Set 1:
+Again
+Bleed the Freak
+Grind
+It Ain't Like That
+Junkhead
+Nutshell
+Them Bones
+Damn That River
+Rain When I Die
+
+Disc 2
+-----------------------
+Acoustic:
+Don't Follow
+Brother
+No Excuses
+Killer is Me
+Got Me Wrong
+Down in a Hole
+
+Electric Set 2:
+Sludge Factory
+We Die Young
+Heaven Beside You
+Angry Chair
+Man in The Box
+
+Encore:
+Dirt
+Rooster
+Would
+
+
+MPEG2, NTSC (29.97 fps), 720*480, 4:3, 6 mb/s
+PCM, 2-channel stereo, 1648, 1536 kbps
+
+33dbb9e25634fb2cb87135ad83315f16 */DVD_01/VIDEO_TS/VIDEO_TS.BUP
+33dbb9e25634fb2cb87135ad83315f16 */DVD_01/VIDEO_TS/VIDEO_TS.IFO
+e046159dc8cb84a1dacad03b18aa0ac0 */DVD_01/VIDEO_TS/VIDEO_TS.md5
+42572d0bb252ae05c0dbdecc52d1bebd */DVD_01/VIDEO_TS/VIDEO_TS.VOB
+3ee6eaaf3927b041451ec277fb5eee3a */DVD_01/VIDEO_TS/VTS_01_0.BUP
+3ee6eaaf3927b041451ec277fb5eee3a */DVD_01/VIDEO_TS/VTS_01_0.IFO
+814e567dc7ec4aefe2c4de172a57565e */DVD_01/VIDEO_TS/VTS_01_0.VOB
+78f4cf42cb364929669e6f4c2e8b3944 */DVD_01/VIDEO_TS/VTS_01_1.VOB
+4379ff9094ed927dc7cb55f602d06807 */DVD_01/VIDEO_TS/VTS_01_2.VOB
+058a167d29accf75172782a7448c9f07 */DVD_01/VIDEO_TS/VTS_01_3.VOB
+ef5e51381cc25558b085d288bcf4021a */DVD_02/VIDEO_TS/VIDEO_TS.BUP
+ef5e51381cc25558b085d288bcf4021a */DVD_02/VIDEO_TS/VIDEO_TS.IFO
+e1d25ef2849d013b1e201d087d4e33f8 */DVD_02/VIDEO_TS/VIDEO_TS.md5
+42572d0bb252ae05c0dbdecc52d1bebd */DVD_02/VIDEO_TS/VIDEO_TS.VOB
+2ec11f50f62a533563d63ed02c467392 */DVD_02/VIDEO_TS/VTS_01_0.BUP
+2ec11f50f62a533563d63ed02c467392 */DVD_02/VIDEO_TS/VTS_01_0.IFO
+b714885e85dcc7a200022e4515b62160 */DVD_02/VIDEO_TS/VTS_01_0.VOB
+7475e1898ae8893b36970c7464fbe237 */DVD_02/VIDEO_TS/VTS_01_1.VOB
+7b868e9f2e5b4ad012e280f2c1a01baf */DVD_02/VIDEO_TS/VTS_01_2.VOB
+fc3c5c5f8f5da605b512c1a1c523aa52 */DVD_02/VIDEO_TS/VTS_01_3.VOB
+c5fe843b63f4ce622c5f9a2c5180c3cf */DVD_02/VIDEO_TS/VTS_01_4.VOB
+21b8df2699a8454fa1a81bcc10530f4a */DVD_02/VIDEO_TS/VTS_01_5.VOB
+
+Leave as a DVD!!!! Do NOOOT convert to lossy formats!!! Never Sell this show!!!!

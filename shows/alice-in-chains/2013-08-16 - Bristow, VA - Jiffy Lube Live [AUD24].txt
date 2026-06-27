@@ -1,0 +1,35 @@
+ALICE IN CHAINS
+Rockstar Energy Drink Uproar Festival
+2013/08/16 - Jiffy Lube Live; Bristow VA, USA
+
+Source: CA-14's (Cards) > Church Audio ST-9100 > Edirol R09-HR @ 24/96
+Location: DFC, BOB (Sec 102, Row X, Seat 29) *STEALTH*
+Editing:  Tracking, fades, and EQ were done while the show was laid in Sony Soundforge 9.0a (Build 297) as a wav file.  Audience applause between songs was mitigated using the "Click and Crackle" removal tools.   Periodic loud points were gently enveloped to allow for more headroom in normalization.  Normalization performed on each channel independently to -0.10dB.
+Conversion: Trader's Little Helper v.2.7.0 (Build 172)
+
+
+
+TRACKLIST:						TIME:
+
+01. Intro						00:39
+02. Hollow						06:09
+03. Them Bones						03:08
+04. Again						04:47
+05. Check My Brain					04:56
+06. Man in the Box					05:09
+07. Got Me Wrong					04:43
+08. Phantom Limb					07:14
+09. Stone						04:23
+10. We Die Young					03:30
+11. Down in a Hole					06:52
+12. Would						04:14
+13. Rooster						07:48
+
+					 GRAND TOTAL-   63:33
+
+
+
+MISC NOTES:
+This venue has a capacity of 25,000 and the show was tragically undersold.  Several weeks after tickets went on sale I scooped a single lawn ticket for $15 after fees.  The day of the show, having sold less than 20% of their capacity, the venue decided to close the lawn and instead give all of the lawn patrons tickets to sit in the pavilion (the pavilion has a 10,000 person capacity).  It was a nice gesture which everyone seemed to really enjoy, but I ended up moving from the less than ideal far-house-left seat they gave me to a dead-center spot in the only row directly behind FOH.  Luckily no one ever came to challenge my seat assignment, so I rolled tape from that spot for the entire night.
+
+While moving everyone into the pavilion certainly helped the sound quite a bit, the fact remains that a pavilion with a solid concrete floor and a solid metal roof will echo when it is less than half full.  The sound got a little better as the pavilion slowly filled in for Jane's Addiction and Alice in Chains, but it is still a little rougher than I would like.  Further, each of the four bands played very short sets (the longest being a whopping 63min).  All the same, for a $15 ticket, I must say I'm pretty satisfied with the experience overall.  I captured each of the four headlining bands, they were (in order of apperance): Circa Survive, Coheed and Cambria, Jane's Addiction, and Alice in Chains.  I hope you enjoy the recording!

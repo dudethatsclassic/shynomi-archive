@@ -1,0 +1,47 @@
+Alice In Chains
+November 7, 1991 (see note)
+Winnipeg Arena
+Winnipeg, MB
+
+DISC #1 (38:12)
+-----------------
+1) Real Thing
+2) Put You Down
+3) Would?
+4) Man In The Box
+5) Love Hate Love
+6) Bleed The Freak
+7) It Ain't Like That
+8) I Know Somethin'
+9) We Die Young
+
+GENERATION
+-----------------
+ANA(?) -> WAV [96kHz] -> WAV [44.1kHz] -> CDR1 -> FLAC [Level 8]
+
+SOURCE (AUD#1)
+-----------------
+??
+
+
+NOTES
+-----------------
+Taper said this show was from Winnipeg and wrote the date on the tape as 11/11. Since taper was from Winnipeg I am assuming 11/7 is the correct date. Unfortuantely, the taper's email account is no longer valid, so I cannot verify this info or verify the generation (believe it to be ANA1, but could not confirm)
+
+
+FINGERPRINTS
+-----------------
+01 - Real Thing.flac:89eed301d615503a0be7830a8a4798a7
+02 - Put You Down.flac:561a8066fb2f3f72a0889e6b0bb1aa30
+03 - Would .flac:4f9645d24374d0ca962f3af5f9912caf
+04 - Man In The Box.flac:5903be676679ecbb08724c35564e05ff
+05 - Love Hate Love.flac:45000802620b6eb921ec2977a835bc60
+06 - Bleed The Freak.flac:1e03ef831e68f16ad7018701f13dd0ea
+07 - It Ain't Like That.flac:55e945ffc29eced8accbcb62152df3fe
+08 - I Know Somethin'.flac:eaf67b3f96fab4d6c1cf2bc41ad351e9
+09 - We Die Young.flac:05022a9d321d1293250d2240b266a380
+
+
+TRANSFER DATE
+-----------------
+December 2006

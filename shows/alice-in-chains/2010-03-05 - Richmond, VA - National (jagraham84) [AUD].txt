@@ -1,0 +1,36 @@
+Alice In Chains
+03/05/2010 - Friday
+The National, Richmond, VA
+
+Middle Class Rut opened
+
+16 bit recording, 24 bit also available
+
+1-Intro
+2-All Secrets Known
+3-It Ain't Like That
+4-Again
+5-Check My Brain
+6-Them Bones >
+7-Dam That River
+8-Rain When I Die
+9-Your Decision
+10-Got Me Wrong
+11-We Die Young
+12-A Looking In View
+13-Nutshell
+14-Acid Bubble
+15-Lesson Learned
+16-Love, Hate, Love
+17-Would?
+E: 18-Man In The Box
+19-Rooster
+20-Outro
+
+Source: CA-11s > STC-9000(+10db) > DR-07 > WAV(24bit/44.1khz) > Audacity1.3.11(peaks removed/reduced, amplified to -.01db, dithered) > WAV(16bit/44.khz) > CD Wave Editor(tracked) > FLAC8(TLH)
+
+Location: ~5-10' FOB, ~5' LOC
+
+Notes: Peak reduced in right channel from 10:59-11:01.  Clapping reduced from 29:50-30:15.  Other peaks removed throughout.
+
+-jagraham84ATgmailDOTcom

@@ -1,0 +1,75 @@
+Alice In Chains
+Birmingham, AL
+Schaeffer Crawfish Boil Stage in BJCC parking lot
+April 30, 2010
+
+recorded and mastered by: Steve 'ballsdeep' Hagar
+
+** 16 BIT **
+
+
+
+Source:  Sonic Studios DSM-6P w/3-way lo-cut filter, position 
+unknown (most likely @ 80hz, middle setting) > Edirol R-09 @ 16 
+bit/44.1 kHz
+
+
+
+Transfer:  flash card > Aphex 204 > dbx iEQ-31 > Digital 
+Audio Labs CardDeluxe > Soundforge 9.0 > CD Architect 5.2 > cd
+
+
+
+Rip:  EAC > FLAC > web > hard drive > Audacity lossless 
+test > me > TLH > WAV (to test for lossiness) > Audacity (to
+ view waveform, embed metadata/track titles & info, and then to 
+re-encode) > FLAC 8 > TLH (to check for SBE's and create and 
+verify new ffp & md5 files) > you
+
+taper location: roughly 50 yards from the stage lip, DFC 
+
+
+01. Again (4:47)
+02. It Ain't Like That (4:41)
+03. Check My Brain (4:17)
+04. Them Bones > (2:59)
+05. Dam That River (3:36)
+06. Rain When I Die(6:01)
+07. Your Decision (4:53)
+08. We Die Young (3:02)
+09. Acid Bubble (6:55)
+10. band intros (0:36)
+11. Nutshell (5:34) (dedicated to Layne)
+12. No Excuses (4:35)
+13. Angry Chair >(4:47)
+14. Man In The Box (5:09)
+15. encore noise(1:40)
+16. Would (3:55)
+17. Rooster (8:20)
+
+Alice In Chains is:
+
+William Duvall - vocals, guitar
+Jerry Cantrell - guitar, vocals
+Mike Inez - bass
+Sean Kinney - drums
+
+
+show notes: this was the headliner for the 2010 Schaeffer (Eye Center) Crawfish Boil. the full lineup was Fuel/Theory Of A Deadman/Seether/Akon (?????)/ Alice In Chainss.
+
+it was chilly, it was windy, and AIC came on a half-hour late, but then they did what they do best.
+
+I'll just let the music do the talking.
+
+
+be sure to throw a quick thanks dandrew's way for slapping this bad boy together.
+
+
+I'm fine with a "Fuck Hagar", as your dirt is my food! (combo Eddie Cheddar/AIC track pun there)
+
+
+more to come, there's always more to come.....
+
+
+---ballsdeep OUT!!!
+

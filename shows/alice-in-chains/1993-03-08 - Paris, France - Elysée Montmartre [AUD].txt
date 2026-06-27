@@ -1,0 +1,86 @@
+Alice in Chains
+1993-03-08
+Paris, France
+Elysée Montmartre  
+
+Source: Unknown AUD>DAT(M)>ANA(1)>CDR(3)>EAC>FLAC Level[8]>CDR(4)- Your Gen when burned.
+
+Iron Gland/Dam That River
+We Die Young
+Them Bones
+Would? 
+Rooster 
+Junkhead* 
+Godsmack* 
+Bleed the Freak*
+Sickman 
+It Ain't Like That 
+Dirt 
+Hate to Feel 
+
+First Encore:
+1st Johnny Steroid Song
+Angry Chair 
+Man in the Box 
+
+Second Encore:
+2nd Johnny Steroid Song*
+Put You Down 
+Rain When I Die 
+Love, Hate, Love 
+
+Notes:
+*= Song omitted on the liberated bootleg "Johnny Steroid's Last Show".
+
+This has been marketed as the liberated Bootleg "Johnny Steroid's Last Show", 
+but that version has Alice songs cut mid-set and one Johnny Steroid song cut
+near the end. 
+
+The band plays 2 encores and lets their crew play one song before each, performing as 
+"Johnny Steroid and the Basehead Kings". 
+
+---MD5---
+9f8c766dd4bb027fd49782e269b6ab4d *CD 1\01]Iron Gland+Dam That River.flac
+cf0982c6b13ea15ebfccd2b5b7ef8454 *CD 1\02]We Die Young.flac
+9b1813dd28b51c25fc7c8be4c570e54b *CD 1\03]Them Bones.flac
+c502f3f924d17efc1be9baf92ca91f1b *CD 1\04]Would.flac
+d24dcf25b9962868a4457aafabd7a3fe *CD 1\05]Rooster.flac
+a3aaf95924de58fdcf0197a58498c645 *CD 1\06]Junkhead.flac
+bb8700170990e6276eaea4c3cc51509c *CD 1\07]Godsmack.flac
+dd83c11043f0dd2d7917a09f054858c1 *CD 1\08]Bleed the Freak.flac
+33f076a85144aa197e860f427e84689a *CD 1\09]Sickman.flac
+b5bd325d87c5a6254219502397fd0893 *CD 1\10]It Ain't Like That.flac
+0969ab36fca667327b0448c304294e00 *CD 2\01]Dirt.flac
+445a490980554c8e5ec420832c00aba4 *CD 2\02]Hate to Feel.flac
+e932059e7508d408524ab05ace1a5247 *CD 2\03]1st Johnny Steroid Song.flac
+1af163a747b659e3494e4f9a707885c4 *CD 2\04]Angry Chair.flac
+42d682ecd6d9d1a3ce1b217e1b7d3664 *CD 2\05]Man in the Box.flac
+9af8f28a2a307db6d25465a96cad0617 *CD 2\06]2nd Johnny Steroid Song.flac
+b8fc00ff8b7d2c57886b7d43166de32d *CD 2\07]Put You Down.flac
+10981a7aa5fe895b73c671b2d1260cab *CD 2\08]Rain When I Die.flac
+f8cb73e9a90ac3c474ae9ca783f8b768 *CD 2\09]Love, Hate, Love.flac
+
+No errors occured.
+
+---FFP---
+CD 1\01]Iron Gland+Dam That River.flac:9418194e8385a82c1b44cc0bea04247e
+CD 1\02]We Die Young.flac:7c0313cb13b9cfc83ff1227381066d30
+CD 1\03]Them Bones.flac:78b1c27a79d6c65b27c094cb181657de
+CD 1\04]Would.flac:6608839c69e6de1eed69051b2999a244
+CD 1\05]Rooster.flac:7f43a4d2d514f6fe789eae2989225369
+CD 1\06]Junkhead.flac:6cad5b167d1ccd2a62647fd44400f81e
+CD 1\07]Godsmack.flac:ad390d7dbf5d1109d283f7e1595848c9
+CD 1\08]Bleed the Freak.flac:3d2265cd03b87c42d16e544ead2571c6
+CD 1\09]Sickman.flac:40844398832daf358f326d1fb6f9bfe7
+CD 1\10]It Ain't Like That.flac:2a54f403a77a72777eca3cef3ad0acab
+CD 2\01]Dirt.flac:95a0a550e86155ba73ec3e655722a041
+CD 2\02]Hate to Feel.flac:cd5ade1baf1350da4d5659973484680b
+CD 2\03]1st Johnny Steroid Song.flac:790ae6c7383abfb9b88767b076ea5fa5
+CD 2\04]Angry Chair.flac:9e0f12b49b1178726a7f0129be0a2a4b
+CD 2\05]Man in the Box.flac:d32920ef9bb0c4efd139d6d2d5491048
+CD 2\06]2nd Johnny Steroid Song.flac:ccc552806d1ee3b80a7684dc5294f3d3
+CD 2\07]Put You Down.flac:d565b37b1be889ce7297b447cd63eb0d
+CD 2\08]Rain When I Die.flac:09dc7f750d1787fe118a76ad7476b195
+CD 2\09]Love, Hate, Love.flac:2f2c4a35c8d287ce9a1c2374a011c811
+
+No errors occured.

@@ -1,0 +1,91 @@
+Alice In Chains 
+
+2006/11/04
+
+Dome Theater
+
+Niagara Falls, NY
+
+Source:CSB>Microtrack@16/44.1>.wav>GoldwaveForTracking>.wav>flacfrontend@lvl8>.flac
+
+Location:Centerstage/Balcony2ndRowBackFromRail
+
+Recorded & Transfered by sanpablobay
+
+Set 1
+
+1.Again
+2.Bleed The Freak
+3.Grind
+4.It Ain't Like That
+5.Junkhead
+6.Nutshell
+7.Them Bones
+8.Damn That River
+9.Rain When I Die
+
+10.Video Montage 1
+
+Set 2 Acoustic
+
+11.Don't Follow
+12.Brother
+13.Killer Is Me
+14.No Excuses
+15.Got Me Wrong
+16.Down In A Hole
+
+17.Video Montage 2
+
+Set 3
+
+18.Sludge Factory
+19.We Die Young
+20.Heaven Beside You
+21.Angry Chair
+22.Man In A Box
+23.-crowd-
+Encore:
+24.Rooster
+25.Would
+
+The sound is fairly good. I give it a B all around. the only reason I didn't give it 
+an A is because of where I was located the acoustic set is very low in volume. I had 
+to record from the balcony because it was peaking on the floor up near the stage. I 
+discovered later that the attenuator cable had come off in the car & I didn't realize 
+it. this was originally released on dimeadozen the day after the show. the version I 
+released there had a tracking error on the split between tracks 3 & 4. that error has 
+been fixed for this release.
+
+
+Special thanks to toaster for loaning me his CSBs.
+
+
+*DO NOT SELL OR CONVERT TO LOSSY FORMATS*
+
+f05637095da065ec716f949795ee263a *1.flac
+8ea7db12ca599e115700d8a02b8b5b14 *2.flac
+f6e6358a6dac8af30bd388b3672aafa7 *3.flac
+a3ab54faef9073d9523b4d1d03916cf5 *4.flac
+25a31b8b515ce935c0da37e935482c93 *5.flac
+d4b489b9493c762bd633c2b1c2c18793 *6.flac
+4c76fa869d14115513aa262b4ef66001 *7.flac
+95ebcf252a376ffd2c0dee1a3f3d9c9f *8.flac
+196333dc03258f8e8e1f4c5d0f820a11 *9.flac
+1d43340037fc144bc49e9e78dd388716 *10.flac
+aa4f89d305341fc20057e2cd8ca46d14 *11.flac
+8928b1243e233b80bf9c68407d8b810e *12.flac
+70be74d319d0f7a3194a09ab91f89c72 *13.flac
+168878bef8d83f2f7509605a2752ad70 *14.flac
+3b0eb1932f48fe5f6bbda2f7784b6a7b *15.flac
+7b5ff722222dd0e47defb81bfb6866eb *16.flac
+84a504364e285dafd5ca2fcbabf9ec96 *17.flac
+061facadfac470cb62af98b77322e6de *18.flac
+196918ec7320edca846861fac955a553 *19.flac
+435454a696a6e140c4d068178b2387e4 *20.flac
+7dcb4d2f951e77a2cdb7a57f851aeae3 *21.flac
+59357b9d646aa5a35401a848e5786ea4 *22.flac
+7f477c4d1e70f16f17abbadbb194c111 *23.flac
+f10600d607e8d07c52047c2ab0c20e09 *24.flac
+3a8e1e594fa911c2dd3aacaef7a626f9 *25.flac
+c9176cdfa0756c6ef497ea7210ada3a7 *AIC2006-11-04.txt

@@ -1,0 +1,27 @@
+
+Alice in Chains
+Hard Rock Cafe: Chicago, IL
+September 19, 2009
+
+Source: DPA 4061s > CSBox > Edirol R-09 @ 24-bit / 44.1kHz
+Location: FOS, 4'
+Transfer: SD Card > USB > CEPv2.1 (dither/EQ) > CDWave > FLAC Frontend
+Taper: tapeworm(48) 
+
+Setlist:
+
+01 Intro
+02 No Excuses
+03 Your Decision
+04 Got Me Wrong
+05 Check My Brain
+06 Outro
+
+Notes: Acoustic show at 2:30pm in the afternoon. Free entry for radio contest winners. Less than 200 people got in. They played later on this evening at the House of Blues. Performed a 4.2 dB boost in CEP prior to dithering down to 16-bit. Otherwise, this is a raw transfer with no fades. Thanks to my partner in crime for getting us in to this gig.
+
+Archive: Master WAV was archived @ 24-bit/44.1kHz and FLAC'd with cue sheet. 
+
+Taped and transferred by tapeworm(48) 
+Txt file compiled on 9/24/2009
+
+*** DO NOT DISTRIBUTE IN LOSSY FORMATS. DO NOT SELL THIS RECORDING, TRADE IT FREELY *** 

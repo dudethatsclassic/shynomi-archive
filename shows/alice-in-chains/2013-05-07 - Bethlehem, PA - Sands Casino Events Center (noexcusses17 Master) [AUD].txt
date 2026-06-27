@@ -1,0 +1,44 @@
+Alice in Chains
+May 07, 2013
+Sands Casino Events Center 
+Bethlehem, Pennsylvania USA
+
+
+Location:    120 Ft back from stage, right side
+
+Source:      SP CMC4's (Cap Mounted) > SP SPSB-6 (Bass Rolloff @69hz) > Edirol R9HR
+
+Conversion:  R9HR > USB > HD > Audacity (Volumne Boost & Track Splits) > Wave > Flac (Level 6) > You
+
+Taper :      noexcusses17
+
+
+Setlist :
+
+01. Dirt
+02. It Ain't Like That
+03. Check My Brain
+04. Again
+05. Them Bones
+06. Dam That River
+07. Hollow
+08. Your Decision
+09. Heaven Beside You
+10. Acid Bubble
+11. Down In A Hole
+12. Rotten Apple
+13. We Die Young
+14. Stone
+15. No Excuses
+16. Rooster
+17. Encore Break - Happy Almost Birthday
+18. Man In The Box
+19. Would?
+20. Thanks Bethlehem
+
+Alice in Chains
+
+Jerry Cantrell - Guitar, Vocals
+William Duval  - Vocals, Guitar
+Mike Inez      - Bass
+Sean Kinney    - Drums

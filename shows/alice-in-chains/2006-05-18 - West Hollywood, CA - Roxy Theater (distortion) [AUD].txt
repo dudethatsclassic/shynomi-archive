@@ -1,0 +1,35 @@
+Alice In Chains
+2006-05-18
+West Hollywood, CA
+The Roxy Theater
+
+Taper: Distortion
+Source: Danish Pro Audio 4061s > Danish Pro Audio MPS6020 > Sony SBM-1 (Todd Mod, SPDIF Out) > M-Audio Microtrack 2496 (SPIDF In @ 16/48)
+Transfer: M-Audio MicroTrack 2496 > USB 2.0 > Sound Forge 5.0 (fades) > .WAV > CD Wave (Tracking) > .FLAC (Level 8)
+Generation: 0
+Notes: LOTS of crowd noise, they were screaming and singing the whole time. Some great guest performances, very cool show!  Must be downsampled to 44.1 to burn to CD.
+
+Setlist:
+Sludge Factory
+Dam That River
+Rain When I Die
+We Die Young
+Love, Hate, Love
+Again
+Junkhead
+Down In A Hole (Billy Corgan on vocals)
+Rooster (Mark Lanegan on vocals, Duff McKagen on guitar)
+Would? (Duff McKagen on guitar)
+-encore break-
+Angry Chair (Duff McKagen on guitar)
+Man In The Box (Duff McKagen on guitar)
+Them Bones
+
+
+Alice In Chains is:
+Jerry Cantrell [Original AIC Member, Vocals and Lead Guitar]
+Mike Inez [AIC Member since 1993, Bass Guitar]
+Sean Kinney [Original AIC Member, Percussion]
+William DuVall [from Comes With The Fall, Lead Vocals]
+
+***DO NOT SELL OR ENCODE TO A LOSSY FORMAT***

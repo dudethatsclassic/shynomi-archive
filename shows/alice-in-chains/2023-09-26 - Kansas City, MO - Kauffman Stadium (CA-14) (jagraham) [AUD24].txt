@@ -1,0 +1,51 @@
+Alice In Chains 
+Kauffman Stadium 
+Kansas City, MO
+September 26, 2023
+(Opened for Guns N' Roses)
+
+** 24 BIT **
+
+Source:  CA-14 cardioids > STC-9200 (+15db) > Tascam DR-2d @ 24 bit/48 kHz
+Mastering:  .WAV > iZotope RX10 Advanced v10.0.0.1705 (De-click) > Sound Forge Pro 14.0 Build 140 [minor edits, normalize, & fades, Boz Digital Labs T-Bone2 plug-in (tilt EQ)] > 
+CDWav (tracking) > Trader's Little Helper (level 5) > FLAC > TagScanner 6.1.16 (tagging)
+Recorded by:  jagraham
+Mastered by:  Dennis Orr
+
+Setlist: (57:36)
+01 Intro Music (Am I Inside?)
+02 Again >
+03 Check My Brain
+04 Chat
+05 Them Bones >
+06 Hollow
+07 Angry Chair >
+08 Man In The Box
+09 Band Intros
+10 Down In A Hole
+11 The One You Know
+12 No Excuses
+13 Would?
+14 Rooster
+15 Outro
+
+Jerry Cantrell – vocals & lead guitar
+William DuVall – vocals & rhythm guitar
+Mike Inez – bass & backing vocals
+Sean Kinney – drums & percussion
+
+AIC2023-09-26t01.flac:4d02251c67992b96c8ac193e630c30b0
+AIC2023-09-26t02.flac:6187b488fa476d0e1164985c5dca452c
+AIC2023-09-26t03.flac:65fa98f22d6bd36463cb173ea0c6c7c1
+AIC2023-09-26t04.flac:e75ad4b33a7d4d71c3243399c7b14405
+AIC2023-09-26t05.flac:5a99add9e5de6a92b653377a38b35c70
+AIC2023-09-26t06.flac:7347db1d5823363f509755dca6aeadd1
+AIC2023-09-26t07.flac:961e44e417bde69bf76e5601c1fb5842
+AIC2023-09-26t08.flac:4e16e971301bfa08f8c60fb77d990ebc
+AIC2023-09-26t09.flac:e9fc6d9ac686c21e73722ebd9884d46a
+AIC2023-09-26t10.flac:d82560ed079bd9e887459002b8efb5f3
+AIC2023-09-26t11.flac:318e4bfa2bf226179db10aa7bb5cb710
+AIC2023-09-26t12.flac:e89ed47b5b926a08b8ce40c9e15b6eab
+AIC2023-09-26t13.flac:66db8c3607efe3608f9e1c504bfd85a1
+AIC2023-09-26t14.flac:fd58c09ced6090207adc666d62e062ac
+AIC2023-09-26t15.flac:694da4a440ac835d0900f70913883ee4

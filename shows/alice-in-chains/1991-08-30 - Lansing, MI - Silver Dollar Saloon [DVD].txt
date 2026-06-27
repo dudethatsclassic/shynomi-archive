@@ -1,0 +1,40 @@
+Alice in Chains
+Silver Dollar Saloon
+Lansing, MI
+August 30, 1991
+66 min.
+
+VHS > DVD
+
+Set List:
+
+Real Thing
+Put You Down
+Sea Of Sorrow
+Love, Hate, Love
+We Die Young
+Sunshine
+Would?
+Bleed The Freak
+It Ain't Like That
+Man In The Box
+I Can't Remember
+I Know Somethin' (Bout You)
+Dirt
+Confusion
+Queen Of The Rodeo
+
+Video:  MPEG-2, NTSC, 4:3, 720x480, 7,620 kbps
+Audio:  LPCM, 2-channel stereo, 16-bit, 48.0 kHz, 1,536 kbps
+
+
+7ca0a01376494c91311a36d312a95ff9 *VIDEO_TS.BUP
+7ca0a01376494c91311a36d312a95ff9 *VIDEO_TS.IFO
+f9f7a67899ca951f5f85f737b1ccb8be *VIDEO_TS.VOB
+55c3319a513428c87dccf1094a61c6e7 *VTS_01_0.BUP
+55c3319a513428c87dccf1094a61c6e7 *VTS_01_0.IFO
+fc3f59bba191f8d1e92835743f7471d5 *VTS_01_1.VOB
+6930a9b803150e5023abc097d87b782f *VTS_01_2.VOB
+bbbcbe423e0b83829a7783338e2f590e *VTS_01_3.VOB
+51cb4d605556a7b0c33b81f9fc8729e3 *VTS_01_4.VOB
+fe9967e06e67b461644cebf970d42fc6 *VTS_01_5.VOB

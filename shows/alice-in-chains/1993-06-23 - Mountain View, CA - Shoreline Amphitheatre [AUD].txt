@@ -1,0 +1,54 @@
+Alice In Chains
+
+1993-06-23
+Shoreline Amphitheatre
+Mountain View, CA 
+
+
+Recording Equipment: PC-62  -> Sony WM-D3  -> TDK SA 90 cassette 
+
+
+Lineage: TDK SA 90 cassette -> Denon 790R -> Kenwood A-522 amplifier -> DAT line out -> line in on Tascam DR-2D -> WAV -> Wav Pad Editor(track splitting) -> TLH (align,Encode,ffp) -> FLAC 
+
+
+Taper: Steve "ballsdeep" Hagar 
+
+
+01. Intro (Iron Gland)
+02. Would?
+03. Junkhead
+04. God Smack
+05. Dam That River
+06. Them Bones
+07. We Die Young
+08. Love, Hate, Love
+09. Sickman
+10. Angry Chair
+11. Man In The Box
+12. Hate To Feel
+13. Rooster 
+
+
+Tapers Notes:
+
+My 2nd Lollapalooza in 4 days, and the only 'mission' I remember was to not miss Tool...and I didn't. also had more understanding friends so Primus was taped as well (actually, all but the openers Rage were taped, including Front 242 and Dinosaur Jr...)  the main memory I have from this show was a 4000 person pit erupting on the lawn, to the tune of lighting large piles of waxy paper cups on fire!  multiple piles, like 20+. a great time was had by all, though the first 20 minutes is a bit rough, due to being in the aforementioned pit. big thanks to bubba420 for the upload, and you never know what you may hear next.
+
+
+
+
+
+ffp: 
+
+01. Intro (Iron Gland).flac:c675b13f84dca91a1ac48f99934d52bc
+02. Would.flac:a83ff212c30261d641e91026aaf2cde6
+03. Junkhead.flac:0c038f92dcb7ed52d933fb6d4348942f
+04. God Smack.flac:0907e4eb2b1987ac6eb94b5500523bbe
+05. Dam That River.flac:11f9a5998d572511ddf767c1e3053d70
+06. Them Bones.flac:cce113a3b3fbe99ae735c82b966785bc
+07. We Die Young.flac:c77205ba31c737db6537c3c44be1779a
+08. Love, Hate, Love.flac:88cc5994f668dc08c9a40bd962f85006
+09. Sickman.flac:6822d15999974907ef6b532e7571940a
+10. Angry Chair.flac:da1516249450dfba7ff3cc3dd5b449c7
+11. Man In The Box.flac:83461b598e2d452d38a96dac6ddedb99
+12. Hate To Feel.flac:4895e03332907d466ab3a5002dee439e
+13. Rooster.flac:5577723b720a59e6721100ac3a7a5c40

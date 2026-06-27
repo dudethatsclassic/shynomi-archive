@@ -1,0 +1,38 @@
+Alice In Chains
+Winnipeg Arena
+Winnipeg, Manitoba, Canada
+November 7, 1991
+
+Source: unknown mics/recorder > master cassette > ? gen cassette
+
+Transfer (Steve Hagar):  cassette > Denon 790R > Kenwood A-522 amplifier > Kenwood GE-622 Equalizer > .WAV @ 16 bit/44.1 kHz
+
+Mastering (Dennis Orr): .WAV > Sound Forge Pro 11.0 (Build 299) [iZotope Mastering Suite (declick); minor edits, normalize, & fades] > iZotope RX6 Advanced v6.00.1210 (Spectral denoise)
+
+Tracking (dandrew):  .WAV > Audacity 2.2.2 (tracking) > xAct 2.44 (encode to flac level 8, align sectors, ffp, md5)
+
+setlist:
+
+01. Real Thing (last 15 seconds only)
+02. Put You Down
+03. Would?
+04. Man In The Box
+05. Love, Hate, Love
+06. Bleed The Freak
+07. It Ain't Like That
+08. I Know Somethin' ('Bout You)
+09. We Die Young
+
+show notes:
+
+this is a test run for a new way for me to get these to you.
+
+not a horribly great sounding show (samples included), but is IS Alice In Chains, in Canada, in 1991.
+
+thank you Dennis and Dan.
+
+fuck you Mr. Alaska
+
+it's easy to do!
+
+---ballsdeep is OUT!!!
