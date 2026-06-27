@@ -21,7 +21,8 @@ const ARTIST_DATA = {
       "venue": "The Forum",
       "notes": "",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "2012-03-01 - Melbourne, Australia - The Forum [AUD].txt"
     },
     {
       "year": 2019,
@@ -34,7 +35,8 @@ const ARTIST_DATA = {
       "venue": "The Fillmore",
       "notes": "",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "2019-09-20 - Detroit, MI - The Fillmore [AUD].txt"
     },
     {
       "year": 2019,
@@ -47,7 +49,8 @@ const ARTIST_DATA = {
       "venue": "Honda Center",
       "notes": "KROQ",
       "version": "Webcast",
-      "format": "TS"
+      "format": "TS",
+      "textFile": "2019-12-07 - Anaheim, CA - KROQ Absolut Almost Acoustic Christmas [WEBCAST].txt"
     }
   ],
   "misc": []
