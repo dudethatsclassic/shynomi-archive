@@ -18,7 +18,7 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "Garden Grove, CA",
       "venue": "Garden Amphitheatre",
-      "notes": "SP-CMC-8 \u00b7 unk",
+      "notes": "SP-CMC-8 · unk",
       "version": "AUD",
       "format": "FLAC",
       "textFile": "2022-10-14 - Garden Grove, CA - Garden Amphitheatre (SP-CMC-8) (unk) [AUD].txt"
@@ -32,7 +32,7 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "Inglewood, CA",
       "venue": "Kia Forum",
-      "notes": "SP-CMC-4U \u00b7 unk",
+      "notes": "SP-CMC-4U · unk",
       "version": "AUD",
       "format": "FLAC",
       "textFile": "2022-10-17 - Inglewood, CA - Kia Forum (SP-CMC-4U) (unk) [AUD].txt"
@@ -46,7 +46,7 @@ const ARTIST_DATA = {
       "state": "NJ",
       "location": "Sayreville, NJ",
       "venue": "Starland Ballroom",
-      "notes": "Zoom H4n \u00b7 peter",
+      "notes": "Zoom H4n · peter",
       "version": "AUD",
       "format": "FLAC"
     }
