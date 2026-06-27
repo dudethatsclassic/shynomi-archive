@@ -33,7 +33,7 @@ const ARTIST_DATA = {
       "state": "British Columbia",
       "location": "Kelowna, British Columbia",
       "venue": "Waterfront Park",
-      "notes": "Island \u00b7 leifh",
+      "notes": "Island · leifh",
       "version": "AUD",
       "format": "FLAC",
       "textFile": "2013-07-05 - Kelowna, BC - Island Stage at 2045 (leifh) [AUD].txt"
