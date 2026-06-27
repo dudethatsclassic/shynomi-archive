@@ -27,7 +27,7 @@ const ARTIST_DATA = {
       "state": "CO",
       "location": "Denver, CO",
       "venue": "Fillmore",
-      "notes": "Sno \u00b7 CSBs \u00b7 sxpxdxcx",
+      "notes": "Sno · CSBs · sxpxdxcx",
       "version": "AUD",
       "format": "FLAC",
       "textFile": "2000-01-29 - Denver, CO - Fillmore - Sno Core 2000 (CSBs) (sxpxdxcx) [AUD].txt"
@@ -41,7 +41,7 @@ const ARTIST_DATA = {
       "state": "NY",
       "location": "Rochester, NY",
       "venue": "Harro East Ballroom",
-      "notes": "Low Cost Cardioids \u00b7 unk",
+      "notes": "Low Cost Cardioids · unk",
       "version": "AUD",
       "format": "FLAC",
       "textFile": "2000-02-13 - Rochester, NY - Harro East Ballroom (Low Cost Cardioids) (unk) [AUD].txt"
@@ -55,7 +55,7 @@ const ARTIST_DATA = {
       "state": "Australia",
       "location": "Southport Parklands, Australia",
       "venue": "Gold Coast",
-      "notes": "2 source mix \u00b7 system89",
+      "notes": "2 source mix · system89",
       "version": "AUD",
       "format": "DVD",
       "textFile": "2002-01-20 - Southport Parklands, Australia - Gold Coast (2 source mix) (system89) [DVD].txt"
@@ -69,7 +69,7 @@ const ARTIST_DATA = {
       "state": "WI",
       "location": "East Troy, WI",
       "venue": "Alpine Valley",
-      "notes": "DAT(M) \u00b7 SM98 \u00b7 ko",
+      "notes": "DAT(M) · SM98 · ko",
       "version": "AUD",
       "format": "FLAC",
       "textFile": "2002-08-11 - East Troy, WI - Alpine Valley - DAT(M) (SM98) (ko) [AUD].txt"
@@ -83,7 +83,7 @@ const ARTIST_DATA = {
       "state": "CO",
       "location": "Denver, CO",
       "venue": "Ogden Theater",
-      "notes": "AT933C \u00b7 sxpxdxcx",
+      "notes": "AT933C · sxpxdxcx",
       "version": "AUD",
       "format": "FLAC",
       "textFile": "2005-04-27 - Denver, CO - Ogden Theatre (Schoeps MK41) (bill tatina) [AUD24].txt"
@@ -97,7 +97,7 @@ const ARTIST_DATA = {
       "state": "CO",
       "location": "Denver, CO",
       "venue": "Ogden Theatre",
-      "notes": "Schoeps MK41 \u00b7 bill tatina",
+      "notes": "Schoeps MK41 · bill tatina",
       "version": "AUD",
       "format": "FLAC 24"
     },
@@ -110,7 +110,7 @@ const ARTIST_DATA = {
       "state": "Portugal",
       "location": "Lisbon, Portugal",
       "venue": "Festival Super Bock Super Rock",
-      "notes": "Parque \u00b7 M \u00b7 unk \u00b7 tt",
+      "notes": "Parque · M · unk · tt",
       "version": "AUD",
       "format": "FLAC",
       "textFile": "2005-05-27 - Lisbon, Portugal - Festival Super Bock Super Rock - Parque Do Tejo - MD(M) (unk) (tt) [AUD] .txt"
@@ -124,7 +124,7 @@ const ARTIST_DATA = {
       "state": "Denmark",
       "location": "Copenhagen, Denmark",
       "venue": "Valby Hallen",
-      "notes": "Sharp MD \u00b7 unk",
+      "notes": "Sharp MD · unk",
       "version": "AUD",
       "format": "FLAC",
       "textFile": "2005-06-19 - Copenhagen, Denmark - Valby Hallen (Sharp MD) (unk) [AUD].txt"
@@ -138,7 +138,7 @@ const ARTIST_DATA = {
       "state": "England",
       "location": "London, England",
       "venue": "Wembley Arena",
-      "notes": "Zoom Q3 \u00b7 unk",
+      "notes": "Zoom Q3 · unk",
       "version": "AUD",
       "format": "FLAC",
       "textFile": "2015-04-10 - London, England - Wembley Arena (Zoom Q3) (unk) [AUD].txt"
@@ -162,14 +162,14 @@ const ARTIST_DATA = {
       "month": 6,
       "day": 28,
       "dateStr": "6-28-2017",
-      "city": "Norrko\u0308ping",
+      "city": "Norrköping",
       "state": "Sweden",
-      "location": "Norrko\u0308ping, Sweden",
-      "venue": "Bra\u030avalla Festival",
-      "notes": "M \u00b7 CA STC-11 \u00b7 pata63",
+      "location": "Norrköping, Sweden",
+      "venue": "Bråvalla Festival",
+      "notes": "M · CA STC-11 · pata63",
       "version": "AUD",
       "format": "FLAC",
-      "textFile": "2017-06-28 - Norrko\u0308ping, Sweden - Bra\u030avalla Festival (M) (CA STC-11) (pata63) [AUD].txt"
+      "textFile": "2017-06-28 - Norrköping, Sweden - Bråvalla Festival (M) (CA STC-11) (pata63) [AUD].txt"
     },
     {
       "year": 2018,
@@ -180,7 +180,7 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "San Diego, CA",
       "venue": "Valley View Casino Center",
-      "notes": "MBHO KA200N \u00b7 unk",
+      "notes": "MBHO KA200N · unk",
       "version": "AUD",
       "format": "FLAC",
       "textFile": "2018-10-17 - San Diego, CA - Valley View Casino Center (MBHO KA200N) (unk) [AUD].txt"
@@ -194,7 +194,7 @@ const ARTIST_DATA = {
       "state": "",
       "location": "Las Vegas",
       "venue": "NV",
-      "notes": "T-Mobile \u00b7 AT853s \u00b7 tj",
+      "notes": "T-Mobile · AT853s · tj",
       "version": "AUD",
       "format": "FLAC",
       "textFile": "2021-10-15 - Las Vegas - NV - T-Mobile Arena (AT853s) (tj) [AUD].txt"
@@ -208,7 +208,7 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "Los Angeles, CA",
       "venue": "Banc of California Stadium",
-      "notes": "Schoeps MK4s \u00b7 tj",
+      "notes": "Schoeps MK4s · tj",
       "version": "AUD",
       "format": "FLAC",
       "textFile": "2022-02-04 - Los Angeles, CA - Banc of California Stadium (Schoeps MK4s) (tj) [AUD].txt"
@@ -222,7 +222,7 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "Los Angeles, CA",
       "venue": "Banc of California Stadium",
-      "notes": "Schoeps MK4s \u00b7 tj",
+      "notes": "Schoeps MK4s · tj",
       "version": "AUD",
       "format": "FLAC",
       "textFile": "2022-02-05 - Los Angeles, CA - Banc of California Stadium (Schoeps MK4s) (tj) [AUD].txt"
@@ -236,7 +236,7 @@ const ARTIST_DATA = {
       "state": "NV",
       "location": "Las Vegas, NV",
       "venue": "Festival Grounds",
-      "notes": "Sick \u00b7 Schoeps MK4s \u00b7 tj",
+      "notes": "Sick · Schoeps MK4s · tj",
       "version": "AUD",
       "format": "FLAC",
       "textFile": "2023-05-13 - Las Vegas, NV - Festival Grounds - Sick New World Festival (Schoeps MK4s) (tj) [AUD24].txt"
@@ -250,7 +250,7 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "San Francisco, CA",
       "venue": "Golden Gate Park",
-      "notes": "Schoeps MK4s \u00b7 tj",
+      "notes": "Schoeps MK4s · tj",
       "version": "AUD",
       "format": "FLAC",
       "textFile": "2024-08-17 - San Francisco, CA - Golden Gate Park, SF (Schoeps MK4s) (loughney) [AUD24].txt"
@@ -264,7 +264,7 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "San Francisco, CA",
       "venue": "Golden Gate Park, SF",
-      "notes": "Schoeps MK4s \u00b7 loughney",
+      "notes": "Schoeps MK4s · loughney",
       "version": "AUD",
       "format": "FLAC 24"
     }
