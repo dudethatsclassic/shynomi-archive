@@ -103,7 +103,7 @@ const ARTIST_DATA = {
       "version": "SBD",
       "format": "FLAC",
       "notes": "",
-      "textFile": "1992-06-10 - Madison, WI - Club de Wash [SBD].txt"
+      "textFile": "1992-06-10 - Madison, WI - Club de Wash - ANA(2) [SBD].txt"
     },
     {
       "year": 1992,
@@ -116,7 +116,8 @@ const ARTIST_DATA = {
       "venue": "Club de Wash",
       "version": "SBD",
       "format": "FLAC",
-      "notes": ""
+      "notes": "",
+      "textFile": "1992-06-10 - Madison, WI - Club de Wash [SBD].txt"
     },
     {
       "year": 1992,
@@ -368,7 +369,7 @@ const ARTIST_DATA = {
       "version": "FM",
       "format": "FLAC",
       "notes": "Les Transmusicales De Rennes",
-      "textFile": "1992-12-04 - Rennes, France - Omnisport - ANA(M) [FM].txt"
+      "textFile": "1992-12-04 - Rennes, FRA - Salle Omnisports (Les Transmusicales de Rennes) [FM].txt"
     },
     {
       "year": 1992,
@@ -381,7 +382,8 @@ const ARTIST_DATA = {
       "venue": "Omnisport",
       "version": "FM",
       "format": "FLAC",
-      "notes": ""
+      "notes": "",
+      "textFile": "1992-12-04 - Rennes, France - Omnisport - ANA(M) [FM].txt"
     },
     {
       "year": 1992,
@@ -409,7 +411,7 @@ const ARTIST_DATA = {
       "version": "AUD",
       "format": "FLAC",
       "notes": "Unknown",
-      "textFile": "1993-05-10 - Sacramento, CA - Old Ironsides Tavern (unk) [AUD].txt"
+      "textFile": "1993-05-10 - Sacramento, CA - Old Ironsides - ANA(2) [AUD].txt"
     },
     {
       "year": 1993,
@@ -422,7 +424,8 @@ const ARTIST_DATA = {
       "venue": "Old Ironsides",
       "version": "AUD",
       "format": "FLAC",
-      "notes": ""
+      "notes": "",
+      "textFile": "1993-05-10 - Sacramento, CA - Old Ironsides Tavern (unk) [AUD].txt"
     },
     {
       "year": 1993,
@@ -478,7 +481,7 @@ const ARTIST_DATA = {
       "version": "FM",
       "format": "FLAC",
       "notes": "",
-      "textFile": "1994-03-02 - Hilversum, NL - VPRO - ANA(2) [FM].txt"
+      "textFile": "1994-03-02 - Amsterdam, NL - Melkweg [FM].txt"
     },
     {
       "year": 1994,
@@ -491,7 +494,8 @@ const ARTIST_DATA = {
       "venue": "Melkweg",
       "version": "FM",
       "format": "FLAC",
-      "notes": ""
+      "notes": "",
+      "textFile": "1994-03-02 - Hilversum, NL - VPRO - ANA(2) [FM].txt"
     },
     {
       "year": 1994,
@@ -1329,7 +1333,7 @@ const ARTIST_DATA = {
       "version": "AUD",
       "format": "FLAC 24",
       "notes": "Shure Mv88 \u00b7 Tremolo75",
-      "textFile": "2022-05-23 - Los Angeles, CA - Fonda Theatre (Shure MV88) (tremolo75) [AUD24].txt"
+      "textFile": "2022-05-23 - Los Angeles, CA - Fonda Theater (Beyerdynamic TG L34C) (aaron miller) [AUD24].txt"
     },
     {
       "year": 2022,
@@ -1342,7 +1346,8 @@ const ARTIST_DATA = {
       "venue": "Fonda Theater",
       "version": "AUD",
       "format": "FLAC 24",
-      "notes": "Beyerdynamic Tg L34c \u00b7 Aaron Miller"
+      "notes": "Beyerdynamic Tg L34c \u00b7 Aaron Miller",
+      "textFile": "2022-05-23 - Los Angeles, CA - Fonda Theatre (Shure MV88) (tremolo75) [AUD24].txt"
     },
     {
       "year": 2022,
@@ -1790,7 +1795,7 @@ const ARTIST_DATA = {
       "version": "AUD",
       "format": "FLAC",
       "notes": "DPA 4061 \u00b7 Dynamicalories",
-      "textFile": "2023-09-13 - Brooklyn, NY - Brooklyn Steel (DPA 4061) (dynamicalories) [AUD].txt"
+      "textFile": "2023-09-13 - Brooklyn, NY - Brooklyn Steel (CA-11) (manofstealth) [AUD24].txt"
     },
     {
       "year": 2023,
@@ -1803,7 +1808,8 @@ const ARTIST_DATA = {
       "venue": "Brooklyn Steel",
       "version": "AUD",
       "format": "FLAC 24",
-      "notes": "Ca-11 \u00b7 Manofstealth"
+      "notes": "Ca-11 \u00b7 Manofstealth",
+      "textFile": "2023-09-13 - Brooklyn, NY - Brooklyn Steel (DPA 4061) (dynamicalories) [AUD].txt"
     },
     {
       "year": 2024,

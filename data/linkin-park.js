@@ -863,7 +863,7 @@ const ARTIST_DATA = {
       "notes": "",
       "version": "Silver CD",
       "format": "FLAC",
-      "textFile": "2003-10-21 - Yokohama, Japan - Yokohama Arena - Kick Out the Rock [Silver].txt"
+      "textFile": "2003-10-21 - Yokohama, Japan - Yokohama Arena - From the Arena [Silver].txt"
     },
     {
       "year": 2003,
@@ -876,7 +876,8 @@ const ARTIST_DATA = {
       "venue": "Yokohama Arena *Kick Out the Rock",
       "notes": "Rozy Project Records",
       "version": "Silver CD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "2003-10-21 - Yokohama, Japan - Yokohama Arena - Kick Out the Rock [Silver].txt"
     },
     {
       "year": 2003,
@@ -1221,7 +1222,7 @@ const ARTIST_DATA = {
       "notes": "OKMII \u00b7 unk",
       "version": "AUD",
       "format": "FLAC",
-      "textFile": "2007-05-28 - Landgraaf, The Netherlands - Pinkpop Festival [AUD].txt"
+      "textFile": "2007-05-28 - Landgraaf, Netherlands  - Pinkpop Festival (PRO) [MP4].txt"
     },
     {
       "year": 2007,
@@ -1234,7 +1235,8 @@ const ARTIST_DATA = {
       "venue": "Pinkpop Festival",
       "notes": "",
       "version": "PRO",
-      "format": "MP4"
+      "format": "MP4",
+      "textFile": "2007-05-28 - Landgraaf, The Netherlands - Pinkpop Festival [AUD].txt"
     },
     {
       "year": 2007,
@@ -1854,7 +1856,7 @@ const ARTIST_DATA = {
       "notes": "andone",
       "version": "FM",
       "format": "FLAC",
-      "textFile": "2014-06-07 - Nurburgring, Germany - Rock am Ring [FM].txt"
+      "textFile": "2014-06-07 - Nurburgring, Germany - Rock am Ring - Center Stage [FM].txt"
     },
     {
       "year": 2014,
@@ -1867,7 +1869,8 @@ const ARTIST_DATA = {
       "venue": "Rock am Ring",
       "notes": "",
       "version": "FM",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "2014-06-07 - Nurburgring, Germany - Rock am Ring [FM].txt"
     },
     {
       "year": 2014,
@@ -2160,7 +2163,7 @@ const ARTIST_DATA = {
       "notes": "Schoeps MK4s \u00b7 ryanj",
       "version": "AUD",
       "format": "FLAC 24",
-      "textFile": "2024-09-11 - Inglewood, CA - Kia Forum (Schoeps MK4s) (ryanj) [AUD24].txt"
+      "textFile": "2024-09-11 - Inglewood, CA - Kia Forum (DPA 4081) (faninor) [AUD24].txt"
     },
     {
       "year": 2024,
@@ -2173,7 +2176,8 @@ const ARTIST_DATA = {
       "venue": "Kia Forum",
       "notes": "DPA 4081 \u00b7 faninor",
       "version": "AUD",
-      "format": "FLAC 24"
+      "format": "FLAC 24",
+      "textFile": "2024-09-11 - Inglewood, CA - Kia Forum (Schoeps MK4s) (ryanj) [AUD24].txt"
     },
     {
       "year": 2024,

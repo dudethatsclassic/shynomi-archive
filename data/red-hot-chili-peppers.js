@@ -952,7 +952,7 @@ const ARTIST_DATA = {
       "notes": "BAN-039-A",
       "version": "Silver CD",
       "format": "FLAC",
-      "textFile": "1990-01-26 - Kawasaki, Japan - Club Citta - [PRO].txt"
+      "textFile": "1990-01-26 - Kawasaki, Japan - Club Citta - Give It Away Vol. 1 [SBD].txt"
     },
     {
       "year": 1990,
@@ -965,7 +965,8 @@ const ARTIST_DATA = {
       "venue": "Club Citta",
       "notes": "VHS(1) \u00b7 bong",
       "version": "",
-      "format": "DVD"
+      "format": "DVD",
+      "textFile": "1990-01-26 - Kawasaki, Japan - Club Citta - [PRO].txt"
     },
     {
       "year": 1990,
@@ -1199,7 +1200,7 @@ const ARTIST_DATA = {
       "notes": "",
       "version": "AUD #1",
       "format": "FLAC",
-      "textFile": "1991-10-20 - Omaha, NE - Pony Park Ballroom - No Blood Vessels [SIlver].txt"
+      "textFile": "1991-10-20 - Omaha, NE - Peony Park Ballroom [AUD #1].txt"
     },
     {
       "year": 1991,
@@ -1212,7 +1213,8 @@ const ARTIST_DATA = {
       "venue": "",
       "notes": "",
       "version": "Silver CD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1991-10-20 - Omaha, NE - Pony Park Ballroom - No Blood Vessels [SIlver].txt"
     },
     {
       "year": 1991,
@@ -1527,7 +1529,7 @@ const ARTIST_DATA = {
       "notes": "",
       "version": "AUD #1",
       "format": "FLAC",
-      "textFile": "1992-03-13 - London, UK - Brixton Academy [AUD #1].txt"
+      "textFile": "1992-03-13 - London, England - Brixton Academy - Animals In Red' [Silver].txt"
     },
     {
       "year": 1992,
@@ -1554,7 +1556,8 @@ const ARTIST_DATA = {
       "venue": "Brixton Academy *Animals In Red",
       "notes": "Onion Records 074-110",
       "version": "Silver CD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1992-03-13 - London, UK - Brixton Academy [AUD #1].txt"
     },
     {
       "year": 1992,
@@ -1596,7 +1599,7 @@ const ARTIST_DATA = {
       "notes": "ANA(x) \u00b7 fonky1",
       "version": "AUD #2",
       "format": "FLAC",
-      "textFile": "1992-07-19 - Mountain View, CA - Shoreline Amphitheater [AUD #2].txt"
+      "textFile": "1992-07-19 - Mounain View, CA - Shoreline Amphitheatre - Lollapolloza II (Aiwa TPS30) (scott heller) [AUD].txt"
     },
     {
       "year": 1992,
@@ -1609,7 +1612,8 @@ const ARTIST_DATA = {
       "venue": "",
       "notes": "",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1992-07-19 - Mountain View, CA - Shoreline Amphitheater [AUD #2].txt"
     },
     {
       "year": 1992,
@@ -1910,7 +1914,7 @@ const ARTIST_DATA = {
       "notes": "",
       "version": "PRO #1c",
       "format": "MKV",
-      "textFile": "1993-01-26 - Buenos Aires, Argentina - Obras Sanitarias - VHS(1) (unk) [PRO #1d].txt"
+      "textFile": "1993-01-26 - Buenos Aires, Argentina - Estadio Obras Sanitarias (FM) [SBD #1].txt"
     },
     {
       "year": 1993,
@@ -1923,7 +1927,8 @@ const ARTIST_DATA = {
       "venue": "",
       "notes": "",
       "version": "PRO #1d",
-      "format": "MKV"
+      "format": "MKV",
+      "textFile": "1993-01-26 - Buenos Aires, Argentina - Obras Sanitarias - VHS(1) (unk) [PRO #1c].txt"
     },
     {
       "year": 1993,
@@ -1936,7 +1941,8 @@ const ARTIST_DATA = {
       "venue": "",
       "notes": "",
       "version": "SBD #1",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1993-01-26 - Buenos Aires, Argentina - Obras Sanitarias - VHS(1) (unk) [PRO #1d].txt"
     },
     {
       "year": 1993,
@@ -1964,7 +1970,7 @@ const ARTIST_DATA = {
       "notes": "Woodstock \u00b7 M \u00b7 SS DSM-6P \u00b7 ballsdeep",
       "version": "AUD #1",
       "format": "FLAC",
-      "textFile": "1994-08-14 - Saugerties, NY - Woodstock 94 - North Stage (TV) [DVD].txt"
+      "textFile": "1994-08-14 - Saugerties, NY - Winston Farm - Woodstock '94 [AUD #1].txt"
     },
     {
       "year": 1994,
@@ -1977,7 +1983,8 @@ const ARTIST_DATA = {
       "venue": "Winston Farm",
       "notes": "Woodstock \u00b7 PPV Live",
       "version": "TV",
-      "format": "DVD"
+      "format": "DVD",
+      "textFile": "1994-08-14 - Saugerties, NY - Woodstock 94 - North Stage (TV) [DVD].txt"
     },
     {
       "year": 1994,
@@ -2089,7 +2096,7 @@ const ARTIST_DATA = {
       "notes": "ECM737 \u00b7 unk",
       "version": "AUD #1",
       "format": "FLAC",
-      "textFile": "1994-10-21 - Pasadena, CA - Rose Bowl [AUD #1].txt"
+      "textFile": "1994-10-21 - Pasadena, CA - Rose Bowl (Sony ECM-909A) (marco moir) [AUD24].txt"
     },
     {
       "year": 1994,
@@ -2102,7 +2109,8 @@ const ARTIST_DATA = {
       "venue": "Rose Bowl",
       "notes": "Sony ECM-909A \u00b7 marco moir",
       "version": "AUD",
-      "format": "FLAC 24"
+      "format": "FLAC 24",
+      "textFile": "1994-10-21 - Pasadena, CA - Rose Bowl [AUD #1].txt"
     },
     {
       "year": 1995,
@@ -2116,7 +2124,7 @@ const ARTIST_DATA = {
       "notes": "MTV \u00b7 Moonraker 026",
       "version": "TV",
       "format": "FLAC",
-      "textFile": "1995-09-07 - New York, NY - Radio City Music Hall (MTV Video Music Awards) [TV].txt"
+      "textFile": "1995-09-07 - New York City, NY - Radio City Music Hall - MTV Music Awards - VHS(M) (PRO) [MKV].txt"
     },
     {
       "year": 1995,
@@ -2129,7 +2137,8 @@ const ARTIST_DATA = {
       "venue": "Radio City Music Hall",
       "notes": "MTV \u00b7 M \u00b7 upgrade",
       "version": "TV",
-      "format": "MKV"
+      "format": "MKV",
+      "textFile": "1995-09-07 - New York, NY - Radio City Music Hall (MTV Video Music Awards) [TV].txt"
     },
     {
       "year": 1995,
@@ -10066,7 +10075,7 @@ const ARTIST_DATA = {
       "notes": "CA-14s \u00b7 trebor",
       "version": "AUD #1",
       "format": "FLAC 24",
-      "textFile": "2016-11-06 - Merksem, BE - Antwerps Sportpaleis (Official) [SBD].txt"
+      "textFile": "2016-11-06 - Antwerp, Belgium - Sportpaleis [AUD #1].txt"
     },
     {
       "year": 2016,
@@ -10079,7 +10088,8 @@ const ARTIST_DATA = {
       "venue": "Antwerps Sportpaleis",
       "notes": "",
       "version": "SBD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "2016-11-06 - Merksem, BE - Antwerps Sportpaleis (Official) [SBD].txt"
     },
     {
       "year": 2016,
@@ -10513,7 +10523,7 @@ const ARTIST_DATA = {
       "notes": "Tascam Dr-08 \u00b7 binko",
       "version": "AUD",
       "format": "FLAC",
-      "textFile": "2017-02-10 - Buffalo, NY - Key Bank Center [AUD].txt"
+      "textFile": "2017-02-10 - Buffalo, NY - Key Bank Center (Official) [SBD].txt"
     },
     {
       "year": 2017,
@@ -10526,7 +10536,8 @@ const ARTIST_DATA = {
       "venue": "Key Bank Center",
       "notes": "",
       "version": "SBD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "2017-02-10 - Buffalo, NY - Key Bank Center [AUD].txt"
     },
     {
       "year": 2017,
@@ -10778,7 +10789,7 @@ const ARTIST_DATA = {
       "notes": "DPA 4023 \u00b7 george wang",
       "version": "AUD #1",
       "format": "FLAC",
-      "textFile": "2017-04-19 - Columbia, SC - Colonial Life Arena [AUD #1].txt"
+      "textFile": "2017-04-19 - Columbia, SC - Colonial Life Arena (Official) [SBD].txt"
     },
     {
       "year": 2017,
@@ -10791,7 +10802,8 @@ const ARTIST_DATA = {
       "venue": "Colonial Life Arena",
       "notes": "",
       "version": "SBD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "2017-04-19 - Columbia, SC - Colonial Life Arena [AUD #1].txt"
     },
     {
       "year": 2017,
@@ -10847,7 +10859,7 @@ const ARTIST_DATA = {
       "notes": "DSM-6P \u00b7 steve hagar",
       "version": "AUD",
       "format": "FLAC",
-      "textFile": "2017-04-27 - Tampa, FL - Amalie Arena (Official) [SBD].txt"
+      "textFile": "2017-04-27 - Tampa, FL - Amalie Arena (DSM-6P) (steve hagar) [AUD].txt"
     },
     {
       "year": 2017,
@@ -10860,7 +10872,8 @@ const ARTIST_DATA = {
       "venue": "Amalie Arena",
       "notes": "",
       "version": "SBD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "2017-04-27 - Tampa, FL - Amalie Arena (Official) [SBD].txt"
     },
     {
       "year": 2017,
@@ -11406,7 +11419,7 @@ const ARTIST_DATA = {
       "notes": "SP Omnis \u00b7 unk",
       "version": "AUD #1",
       "format": "FLAC",
-      "textFile": "2017-10-16 - Denver, CO - Pepsi Center [AUD #1].txt"
+      "textFile": "2017-10-16 - Denver, CO - Pepsi Center (Official) [SBD].txt"
     },
     {
       "year": 2017,
@@ -11419,7 +11432,8 @@ const ARTIST_DATA = {
       "venue": "Pepsi Center",
       "notes": "",
       "version": "SBD",
-      "format": "FLAC HD"
+      "format": "FLAC HD",
+      "textFile": "2017-10-16 - Denver, CO - Pepsi Center [AUD #1].txt"
     },
     {
       "year": 2017,
@@ -11545,7 +11559,7 @@ const ARTIST_DATA = {
       "notes": "SP-CMC-8 \u00b7 bleedingme",
       "version": "AUD",
       "format": "FLAC 24",
-      "textFile": "2019-02-17 - Hobart, Australia - Derwent Entertainment Centre (SP-CMC-8) (bleedingme) [AUD24].txt"
+      "textFile": "2019-02-17 - Hobart, AUS - Derwent Entertainment Centre (Official) [FLAC HD].txt"
     },
     {
       "year": 2019,
@@ -11558,7 +11572,8 @@ const ARTIST_DATA = {
       "venue": "Derwent Entertainment Centre",
       "notes": "",
       "version": "SBD",
-      "format": "FLAC 24"
+      "format": "FLAC 24",
+      "textFile": "2019-02-17 - Hobart, Australia - Derwent Entertainment Centre (SP-CMC-8) (bleedingme) [AUD24].txt"
     },
     {
       "year": 2019,
@@ -11977,7 +11992,7 @@ const ARTIST_DATA = {
       "notes": "SP-CMC-4U \u00b7 loughney",
       "version": "AUD",
       "format": "FLAC 24",
-      "textFile": "2022-07-29 - Santa Clara, CA - Levi's Stadium (Sony ICD-UX570) (loughney) [AUD].txt"
+      "textFile": "2022-07-29 - Santa Clara, CA - Levi's Stadium (SP-CMC-4U) (loughney) [AUD24].txt"
     },
     {
       "year": 2022,
@@ -11990,7 +12005,8 @@ const ARTIST_DATA = {
       "venue": "Levi's Stadium",
       "notes": "Sony ICD-UX570 \u00b7 loughney",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "2022-07-29 - Santa Clara, CA - Levi's Stadium (Sony ICD-UX570) (loughney) [AUD].txt"
     },
     {
       "year": 2022,
@@ -12046,7 +12062,7 @@ const ARTIST_DATA = {
       "notes": "AT853 \u00b7 rjrumfh",
       "version": "AUD",
       "format": "FLAC",
-      "textFile": "2022-08-12 - Nashville, TN - Nissan Stadium (Shure MV88) (funk it blog) [AUD24].txt"
+      "textFile": "2022-08-12 - Nashville, TN - Nissan Stadium (AT853) (rjrumfh) [AUD].txt"
     },
     {
       "year": 2022,
@@ -12059,7 +12075,8 @@ const ARTIST_DATA = {
       "venue": "Nissan Stadium",
       "notes": "Shure MV88 \u00b7 funk it blog",
       "version": "AUD",
-      "format": "FLAC 24"
+      "format": "FLAC 24",
+      "textFile": "2022-08-12 - Nashville, TN - Nissan Stadium (Shure MV88) (funk it blog) [AUD24].txt"
     },
     {
       "year": 2022,
@@ -12115,7 +12132,7 @@ const ARTIST_DATA = {
       "notes": "SP-CMC-4 \u00b7 rjrumfh",
       "version": "AUD",
       "format": "FLAC",
-      "textFile": "2022-09-01 - Charlotte, NC - Bank of America Stadium (Schoeps MK4s + Marantz PMD-620) (ryanj + anonymous) [MIX24].txt"
+      "textFile": "2022-09-01 - Charlotte, NC - Bank of America Stadium (SP-CMC-4) (rjrumfh) [AUD].txt"
     },
     {
       "year": 2022,
@@ -12128,7 +12145,8 @@ const ARTIST_DATA = {
       "venue": "Bank of America Stadium",
       "notes": "Schoeps MK4s + Marantz PMD-620 \u00b7 ryanj + anonymous",
       "version": "MIX",
-      "format": "FLAC 24"
+      "format": "FLAC 24",
+      "textFile": "2022-09-01 - Charlotte, NC - Bank of America Stadium (Schoeps MK4s + Marantz PMD-620) (ryanj + anonymous) [MIX24].txt"
     },
     {
       "year": 2022,

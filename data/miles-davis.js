@@ -1064,33 +1064,35 @@ const ARTIST_DATA = {
       "notes": "",
       "version": "SBD",
       "format": "FLAC",
+      "textFile": "1960-09-27 - Manchester, UK - Free Trade Hall - Manchester Concert (Early) [AUD].txt"
+    },
+    {
+      "year": 1960,
+      "month": 9,
+      "day": 27,
+      "dateStr": "9-27-1960",
+      "city": "Manchester",
+      "state": "UK",
+      "location": "Manchester, UK",
+      "venue": "Free Trade Hall *Manchester Concert",
+      "notes": "",
+      "version": "AUD",
+      "format": "FLAC",
+      "textFile": "1960-09-27 - Manchester, UK - Free Trade Hall - Manchester Concert (Late) [AUD].txt"
+    },
+    {
+      "year": 1960,
+      "month": 9,
+      "day": 27,
+      "dateStr": "9-27-1960",
+      "city": "Manchester",
+      "state": "UK",
+      "location": "Manchester, UK",
+      "venue": "Free Trade Hall *Manchester Concert",
+      "notes": "",
+      "version": "AUD",
+      "format": "FLAC",
       "textFile": "1960-09-27 - Manchester, UK - Free Trade Hall - Manchester Concert [SBD].txt"
-    },
-    {
-      "year": 1960,
-      "month": 9,
-      "day": 27,
-      "dateStr": "9-27-1960",
-      "city": "Manchester",
-      "state": "UK",
-      "location": "Manchester, UK",
-      "venue": "Free Trade Hall *Manchester Concert",
-      "notes": "",
-      "version": "AUD",
-      "format": "FLAC"
-    },
-    {
-      "year": 1960,
-      "month": 9,
-      "day": 27,
-      "dateStr": "9-27-1960",
-      "city": "Manchester",
-      "state": "UK",
-      "location": "Manchester, UK",
-      "venue": "Free Trade Hall *Manchester Concert",
-      "notes": "",
-      "version": "AUD",
-      "format": "FLAC"
     },
     {
       "year": 1960,
@@ -2418,7 +2420,7 @@ const ARTIST_DATA = {
       "notes": "",
       "version": "AUD",
       "format": "FLAC",
-      "textFile": "1973-11-21 - Bordeaux, France - Unknown Venue [UNK].txt"
+      "textFile": "1973-11-21 - Bordeaux, France - Unknown Venue [Remaster].txt"
     },
     {
       "year": 1973,
@@ -2431,7 +2433,8 @@ const ARTIST_DATA = {
       "venue": "Unknown Venue",
       "notes": "remaster",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1973-11-21 - Bordeaux, France - Unknown Venue [UNK].txt"
     },
     {
       "year": 1974,

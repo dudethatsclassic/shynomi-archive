@@ -555,7 +555,7 @@ const ARTIST_DATA = {
       "notes": "SS DSM6s/L \u00b7 tapeworm48",
       "version": "AUD",
       "format": "FLAC",
-      "textFile": "1999-06-26 - Chicago, IL - The Metro-Smart Bar [AUD].txt"
+      "textFile": "1999-06-26 - Chicago, IL - The Metro-Smart Bar (SSDSM6s) [AUD].txt"
     },
     {
       "year": 1999,
@@ -568,7 +568,8 @@ const ARTIST_DATA = {
       "venue": "The Metro-Smart Bar",
       "notes": "Sony D8 \u00b7 auger_d",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1999-06-26 - Chicago, IL - The Metro-Smart Bar [AUD].txt"
     },
     {
       "year": 1999,
@@ -1001,7 +1002,7 @@ const ARTIST_DATA = {
       "notes": "CSB \u00b7 live2cd",
       "version": "AUD",
       "format": "FLAC",
-      "textFile": "2001-11-24 - South Barrington, IL - The Penny Road Pub (DPA-4061) [AUD].txt"
+      "textFile": "2001-11-24 - South Barrington, IL - The Penny Road Pub (CSB) [AUD].txt"
     },
     {
       "year": 2001,
@@ -1014,7 +1015,8 @@ const ARTIST_DATA = {
       "venue": "The Penny Road Pub",
       "notes": "DAT(M) \u00b7 DPA 4061s \u00b7 tapeworm48",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "2001-11-24 - South Barrington, IL - The Penny Road Pub (DPA-4061) [AUD].txt"
     },
     {
       "year": 2001,
@@ -1504,7 +1506,7 @@ const ARTIST_DATA = {
       "notes": "live2cd",
       "version": "SBD",
       "format": "FLAC",
-      "textFile": "2002-11-29 - South Barrington, IL - The Penny Road Pub [SBD].txt"
+      "textFile": "2002-11-29 - South Barrington, IL - The Penny Road Pub [DVD Audio].txt"
     },
     {
       "year": 2002,
@@ -1517,7 +1519,8 @@ const ARTIST_DATA = {
       "venue": "The Penny Road Pub",
       "notes": "CSB+SBD \u00b7 live2cd",
       "version": "MTX",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "2002-11-29 - South Barrington, IL - The Penny Road Pub [SBD].txt"
     },
     {
       "year": 2002,
@@ -1895,7 +1898,7 @@ const ARTIST_DATA = {
       "notes": "CSB \u00b7 live2cd",
       "version": "AUD",
       "format": "FLAC",
-      "textFile": "2003-05-31 - St. Louis, MO - The Rocket Bar [AUD].txt"
+      "textFile": "2003-05-31 - St. Louis, MO - The Rocket Bar (CSB) [AUD].txt"
     },
     {
       "year": 2003,
@@ -1908,7 +1911,8 @@ const ARTIST_DATA = {
       "venue": "The Rocket Bar",
       "notes": "CSB \u00b7 live2cd",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "2003-05-31 - St. Louis, MO - The Rocket Bar [AUD].txt"
     },
     {
       "year": 2003,
@@ -2298,7 +2302,7 @@ const ARTIST_DATA = {
       "notes": "CSB \u00b7 live2cd",
       "version": "AUD",
       "format": "FLAC",
-      "textFile": "2004-05-28 - Milwaukee, WI - Rave Bar (DPA 4060) [AUD].txt"
+      "textFile": "2004-05-28 - Milwaukee, WI - Rave Bar (CSB) [AUD].txt"
     },
     {
       "year": 2004,
@@ -2311,7 +2315,8 @@ const ARTIST_DATA = {
       "venue": "Rave Bar",
       "notes": "DPA 4061 \u00b7 tapeworm48",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "2004-05-28 - Milwaukee, WI - Rave Bar (DPA 4060) [AUD].txt"
     },
     {
       "year": 2004,
@@ -2395,7 +2400,7 @@ const ARTIST_DATA = {
       "notes": "Q101 \u00b7 CSB \u00b7 live2cd",
       "version": "SBD",
       "format": "FLAC",
-      "textFile": "2004-08-13 - Chicago, IL - Q101 Block Party [SBD].txt"
+      "textFile": "2004-08-13 - Chicago, IL - New City YMCA [AUD].txt"
     },
     {
       "year": 2004,
@@ -2408,7 +2413,8 @@ const ARTIST_DATA = {
       "venue": "New City YMCA",
       "notes": "Q101 \u00b7 M \u00b7 tapeworm48",
       "version": "SBD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "2004-08-13 - Chicago, IL - Q101 Block Party [SBD].txt"
     },
     {
       "year": 2004,
@@ -2576,7 +2582,7 @@ const ARTIST_DATA = {
       "notes": "Scott Lucas solo w/ Special Guests \u00b7 DABs \u00b7 jon gannon",
       "version": "AUD",
       "format": "FLAC",
-      "textFile": "2004-10-31 - Chicago, IL - The Double Door (Scott Lucas solo with Special Guests) (DABs) [AUD].txt"
+      "textFile": "2004-10-31 - Chicago, IL - The Double Door (Scott Lucas solo with Special Guests) (DPA 4061) (tapeworm48) [AUD].flac.txt"
     },
     {
       "year": 2004,
@@ -2590,7 +2596,7 @@ const ARTIST_DATA = {
       "notes": "Scott Lucas solo w/ Special Guests \u00b7 DPA 4061 \u00b7 tapeworm48",
       "version": "AUD",
       "format": "FLAC 24",
-      "textFile": "2004-10-31 - Chicago, IL - The Double Door (Scott Lucas solo with Special Guests) (DPA 4061) (tapeworm48) [AUD].flac.txt"
+      "textFile": "2004-10-31 - Chicago, IL - The Double Door (Scott Lucas solo with Special Guests) (DABs) [AUD].txt"
     },
     {
       "year": 2004,
@@ -3556,7 +3562,7 @@ const ARTIST_DATA = {
       "notes": "DPA 4022 \u00b7 james bonauito",
       "version": "AUD",
       "format": "FLAC",
-      "textFile": "2008-05-09 - Chicago, IL - The Beat Kitchen (MC 930) [AUD].txt"
+      "textFile": "2008-05-09 - Chicago, IL - The Beat Kitchen (DPA 4022) [AUD].txt"
     },
     {
       "year": 2008,
@@ -3569,7 +3575,8 @@ const ARTIST_DATA = {
       "venue": "The Beat Kitchen",
       "notes": "WAV(M) \u00b7 Beyerdynamics MC930 \u00b7 unk",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "2008-05-09 - Chicago, IL - The Beat Kitchen (MC 930) [AUD].txt"
     },
     {
       "year": 2008,
@@ -3890,7 +3897,7 @@ const ARTIST_DATA = {
       "notes": "AKG \u00b7 cabbage",
       "version": "AUD",
       "format": "FLAC",
-      "textFile": "2008-06-22 - Chicago, IL - The Metro [AUD].txt"
+      "textFile": "2008-06-22 - Chicago, IL - The Metro (AKG) [AUD].txt"
     },
     {
       "year": 2008,
@@ -3903,7 +3910,8 @@ const ARTIST_DATA = {
       "venue": "The Metro",
       "notes": "DPA 4060 \u00b7 live2cd",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "2008-06-22 - Chicago, IL - The Metro [AUD].txt"
     },
     {
       "year": 2008,
@@ -4043,7 +4051,7 @@ const ARTIST_DATA = {
       "notes": "WAV(M) \u00b7 Beyerdynamics MC930 \u00b7 john weiss",
       "version": "AUD",
       "format": "FLAC",
-      "textFile": "2008-12-31 - Chicago, IL - The Bottom Lounge [AUD].txt"
+      "textFile": "2008-12-31 - Chicago, IL - The Bottom Lounge (MC930) [AUD].txt"
     },
     {
       "year": 2008,
@@ -4056,7 +4064,8 @@ const ARTIST_DATA = {
       "venue": "The Bottom Lounge",
       "notes": "DPA 4060 \u00b7 live2cd",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "2008-12-31 - Chicago, IL - The Bottom Lounge [AUD].txt"
     },
     {
       "year": 2009,
@@ -4252,7 +4261,7 @@ const ARTIST_DATA = {
       "notes": "AKG ck93 \u00b7 cabbage",
       "version": "AUD",
       "format": "FLAC",
-      "textFile": "2010-05-17 - Philadelphia, PA - Khyber (HEB) [AUD].txt"
+      "textFile": "2010-05-17 - Philadelphia, PA - Khyber (AKG) [AUD].txt"
     },
     {
       "year": 2010,
@@ -4265,7 +4274,8 @@ const ARTIST_DATA = {
       "venue": "Khyber",
       "notes": "DPA 4060 \u00b7 live 2cd",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "2010-05-17 - Philadelphia, PA - Khyber (HEB) [AUD].txt"
     },
     {
       "year": 2010,
@@ -4279,7 +4289,7 @@ const ARTIST_DATA = {
       "notes": "DPA 4060 \u00b7 live2cd",
       "version": "AUD",
       "format": "FLAC",
-      "textFile": "2010-05-18 - New York, NY - Gramercy Theatre (SSDSM6SL) [AUD].txt"
+      "textFile": "2010-05-18 - New York, NY - Gramercy Theatre (HEB) [AUD].txt"
     },
     {
       "year": 2010,
@@ -4292,7 +4302,8 @@ const ARTIST_DATA = {
       "venue": "Gramercy Theatre",
       "notes": "SS DSM-6S/L \u00b7 cabbage",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "2010-05-18 - New York, NY - Gramercy Theatre (SSDSM6SL) [AUD].txt"
     },
     {
       "year": 2010,
@@ -4306,7 +4317,7 @@ const ARTIST_DATA = {
       "notes": "DPA 4060 \u00b7 live2cd",
       "version": "AUD",
       "format": "FLAC",
-      "textFile": "2010-05-19 - Allston, MA - Harpers Ferry (RodeNT4) [AUD].txt"
+      "textFile": "2010-05-19 - Allston, MA - Harpers Ferry (HEB) [AUD].txt"
     },
     {
       "year": 2010,
@@ -4319,7 +4330,8 @@ const ARTIST_DATA = {
       "venue": "Harpers Ferry",
       "notes": "Rode NT4 \u00b7 cabbage",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "2010-05-19 - Allston, MA - Harpers Ferry (RodeNT4) [AUD].txt"
     },
     {
       "year": 2010,
@@ -4445,7 +4457,7 @@ const ARTIST_DATA = {
       "notes": "WAV(M) \u00b7 Beyerdynamics MC930 \u00b7 john weiss",
       "version": "AUD",
       "format": "FLAC",
-      "textFile": "2010-10-16 - Lincolnshire, IL - Cubby Bear North [AUD].txt"
+      "textFile": "2010-10-16 - Lincolnshire, IL - Cubby Bear North - Local H's Awesome Mix Tape 1 [AUD].txt"
     },
     {
       "year": 2010,
@@ -4458,7 +4470,8 @@ const ARTIST_DATA = {
       "venue": "Cubby Bear North",
       "notes": "DPA 4060 \u00b7 live2cd",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "2010-10-16 - Lincolnshire, IL - Cubby Bear North [AUD].txt"
     },
     {
       "year": 2010,
@@ -4486,7 +4499,7 @@ const ARTIST_DATA = {
       "notes": "DPA 4022 \u00b7 marke",
       "version": "AUD",
       "format": "FLAC",
-      "textFile": "2011-02-25 - Schaumburg, IL - Chicago City Limits [AUD].txt"
+      "textFile": "2011-02-25 - Schaumburg, IL - Chicago City Limits (DPA) [AUD].txt"
     },
     {
       "year": 2011,
@@ -4499,7 +4512,8 @@ const ARTIST_DATA = {
       "venue": "Chicago City Limits",
       "notes": "WAV(M) \u00b7 Beyerdynamics MC930 \u00b7 john weiss",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "2011-02-25 - Schaumburg, IL - Chicago City Limits [AUD].txt"
     },
     {
       "year": 2011,
@@ -4639,7 +4653,7 @@ const ARTIST_DATA = {
       "notes": "MK4 \u00b7 tapeworm48",
       "version": "AUD",
       "format": "FLAC",
-      "textFile": "2011-07-08 - Chicago, IL - The Empty Bottle [AUD].txt"
+      "textFile": "2011-07-08 - Chicago, IL - The Empty Bottle (Schoeps) [AUD].txt"
     },
     {
       "year": 2011,
@@ -4652,7 +4666,8 @@ const ARTIST_DATA = {
       "venue": "The Empty Bottle",
       "notes": "WAV(M) \u00b7 Beyerdynamics MC930 \u00b7 john weiss",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "2011-07-08 - Chicago, IL - The Empty Bottle [AUD].txt"
     },
     {
       "year": 2011,
@@ -4876,7 +4891,7 @@ const ARTIST_DATA = {
       "notes": "Schoeps MK4 \u00b7 unk",
       "version": "AUD",
       "format": "FLAC 24",
-      "textFile": "2012-09-26 - San Francisco, CA - Brick and Mortar (Scott Solo) [AUD24].txt"
+      "textFile": "2012-09-26 - San Francisco, CA - Brick and Mortar (Schoeps) [AUD24].txt"
     },
     {
       "year": 2012,
@@ -4889,7 +4904,8 @@ const ARTIST_DATA = {
       "venue": "Brick and Mortar",
       "notes": "Scott solo \u00b7 MK4+CMR",
       "version": "MTX",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "2012-09-26 - San Francisco, CA - Brick and Mortar (Scott Solo) [AUD24].txt"
     },
     {
       "year": 2012,
@@ -5169,7 +5185,7 @@ const ARTIST_DATA = {
       "notes": "House of Music & Entertainment \u00b7 Schoeps MK4 \u00b7 tapeworm48",
       "version": "AUD",
       "format": "FLAC",
-      "textFile": "2013-10-11 - Arlington Heights, IL - HOME (House of Music & Entertainment) [AUD].txt"
+      "textFile": "2013-10-11 - Arlington Heights, IL - HOME (House of Music & Entertainment) (MK4) [AUD].txt"
     },
     {
       "year": 2013,
@@ -5182,7 +5198,8 @@ const ARTIST_DATA = {
       "venue": "HOME",
       "notes": "House of Music & Entertainment \u00b7 DPA 4022 \u00b7 marke",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "2013-10-11 - Arlington Heights, IL - HOME (House of Music & Entertainment) [AUD].txt"
     },
     {
       "year": 2013,
@@ -5588,7 +5605,7 @@ const ARTIST_DATA = {
       "notes": "Schoeps \u00b7 tapeworm48",
       "version": "AUD",
       "format": "FLAC",
-      "textFile": "2015-04-17 - Arlington Heights, IL - H.O.M.E. [AUD].txt"
+      "textFile": "2015-04-17 - Arlington Heights, IL - H.O.M.E. (Schoeps) [AUD].txt"
     },
     {
       "year": 2015,
@@ -5601,7 +5618,8 @@ const ARTIST_DATA = {
       "venue": "H.O.M.E.",
       "notes": "CA-14 \u00b7 live2cd",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "2015-04-17 - Arlington Heights, IL - H.O.M.E. [AUD].txt"
     },
     {
       "year": 2015,
@@ -5615,7 +5633,7 @@ const ARTIST_DATA = {
       "notes": "DPA 4060 \u00b7 live2cd",
       "version": "AUD",
       "format": "FLAC 24",
-      "textFile": "2015-04-18a - Chicago, IL - Reckless Records [AUD24].txt"
+      "textFile": "2015-04-18 - Boilingbrook, IL - Tailgaters [AUD].txt"
     },
     {
       "year": 2015,
@@ -5628,7 +5646,8 @@ const ARTIST_DATA = {
       "venue": "Tailgaters",
       "notes": "CA-14 \u00b7 live2cd",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "2015-04-18a - Chicago, IL - Reckless Records [AUD24].txt"
     },
     {
       "year": 2015,
@@ -5950,7 +5969,7 @@ const ARTIST_DATA = {
       "notes": "acoustic \u00b7 AT853 \u00b7 live2cd",
       "version": "AUD",
       "format": "FLAC 24",
-      "textFile": "2016-04-16a - Chicago, IL - Top Note Theater @ The Metro (Acoustic) [AUD24].txt"
+      "textFile": "2016-04-16 - Chicago, IL - The Metro [AUD24].txt"
     },
     {
       "year": 2016,
@@ -5963,7 +5982,8 @@ const ARTIST_DATA = {
       "venue": "The Metro",
       "notes": "AT853 \u00b7 live2cd",
       "version": "AUD",
-      "format": "FLAC 24"
+      "format": "FLAC 24",
+      "textFile": "2016-04-16a - Chicago, IL - Top Note Theater @ The Metro (Acoustic) [AUD24].txt"
     },
     {
       "year": 2016,
@@ -6914,7 +6934,7 @@ const ARTIST_DATA = {
       "notes": "Rode TF-5 \u00b7 james bonaiuto",
       "version": "AUD",
       "format": "FLAC 24",
-      "textFile": "2021-10-27 - New York, NY - Le Poisson Rouge (Rode TF-5) (james bonaiuto) [AUD24].txt"
+      "textFile": "2021-10-27 - New York, NY - Le Poisson Rouge (DPA 4061) (bill hoy) [AUD24].txt"
     },
     {
       "year": 2021,
@@ -6927,7 +6947,8 @@ const ARTIST_DATA = {
       "venue": "Le Poisson Rouge",
       "notes": "DPA 4061 \u00b7 bill hoy",
       "version": "AUD",
-      "format": "FLAC 24"
+      "format": "FLAC 24",
+      "textFile": "2021-10-27 - New York, NY - Le Poisson Rouge (Rode TF-5) (james bonaiuto) [AUD24].txt"
     },
     {
       "year": 2021,
@@ -6941,7 +6962,7 @@ const ARTIST_DATA = {
       "notes": "AT831s \u00b7 tapeworm48",
       "version": "AUD",
       "format": "FLAC 24",
-      "textFile": "2021-11-04 - Chicago, IL - The Metro (AT853U) (charles dewey cole) [AUD24].txt"
+      "textFile": "2021-11-04 - Chicago, IL - Metro (AT831s) (tapeworm48) [AUD24].txt"
     },
     {
       "year": 2021,
@@ -6954,7 +6975,8 @@ const ARTIST_DATA = {
       "venue": "The Metro",
       "notes": "AT853U \u00b7 charles dewey cole",
       "version": "AUD",
-      "format": "FLAC 24"
+      "format": "FLAC 24",
+      "textFile": "2021-11-04 - Chicago, IL - The Metro (AT853U) (charles dewey cole) [AUD24].txt"
     },
     {
       "year": 2021,
@@ -7037,7 +7059,7 @@ const ARTIST_DATA = {
       "notes": "Schoeps CCM4 \u00b7 james bonaiuto",
       "version": "AUD",
       "format": "FLAC 24",
-      "textFile": "2022-05-07 - New York, NY - Bowery Electric (Schoeps CCM4) (james bonaiuto) [AUD24].txt"
+      "textFile": "2022-05-07 - New York, NY - Bowery Electric (DPA 4061) (bill hoy) [AUD24].txt"
     },
     {
       "year": 2022,
@@ -7050,7 +7072,8 @@ const ARTIST_DATA = {
       "venue": "Bowery Electric",
       "notes": "DPA 4061 \u00b7 bill hoy",
       "version": "AUD",
-      "format": "FLAC 24"
+      "format": "FLAC 24",
+      "textFile": "2022-05-07 - New York, NY - Bowery Electric (Schoeps CCM4) (james bonaiuto) [AUD24].txt"
     },
     {
       "year": 2022,
@@ -7553,7 +7576,7 @@ const ARTIST_DATA = {
       "notes": "CA-14 \u00b7 cptncrash76",
       "version": "AUD",
       "format": "FLAC",
-      "textFile": "2025-09-26 - St. Charles, MO - Family Arena (Sony PCM-A10) (shane e. calhoon) [AUD24].txt"
+      "textFile": "2025-09-26 - St. Charles, MO - Family Arena (CA-14) (cptncrash76) [AUD].txt"
     },
     {
       "year": 2025,
@@ -7566,7 +7589,8 @@ const ARTIST_DATA = {
       "venue": "Family Arena",
       "notes": "Sony PCM-A10 \u00b7 shane e. calhoon",
       "version": "AUD",
-      "format": "FLAC 24"
+      "format": "FLAC 24",
+      "textFile": "2025-09-26 - St. Charles, MO - Family Arena (Sony PCM-A10) (shane e. calhoon) [AUD24].txt"
     },
     {
       "year": 2025,

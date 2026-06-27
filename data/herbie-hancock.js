@@ -165,7 +165,7 @@ const ARTIST_DATA = {
       "notes": "",
       "version": "FM",
       "format": "FLAC",
-      "textFile": "1977-02-16 - Chicago, IL - Ivanhoe Theater (with Jaco Pastorius} [FM].txt"
+      "textFile": "1977-02-16 - Chicago, IL -  Ivanhoe Theater [FM].txt"
     },
     {
       "year": 1977,
@@ -178,7 +178,8 @@ const ARTIST_DATA = {
       "venue": "Ivanhoe Theater *Live Voyage",
       "notes": "",
       "version": "Silver CD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1977-02-16 - Chicago, IL - Ivanhoe Theater (with Jaco Pastorius} [FM].txt"
     },
     {
       "year": 1977,

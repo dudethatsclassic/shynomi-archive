@@ -196,7 +196,7 @@ const ARTIST_DATA = {
       "notes": "CSB \u00b7 charles dewey cole",
       "version": "AUD",
       "format": "FLAC",
-      "textFile": "2002-07-12 - Toledo, OH - Hard Hat Cafe [AUD].txt"
+      "textFile": "2002-07-12 - Toledo, OH - Hard Hat Cafe (CSB) (charles dewey cole) [AUD].txt"
     },
     {
       "year": 2002,
@@ -377,7 +377,8 @@ const ARTIST_DATA = {
       "venue": "Hard Hat Cafe",
       "notes": "",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "2002-07-12 - Toledo, OH - Hard Hat Cafe [AUD].txt"
     },
     {
       "year": 2015,

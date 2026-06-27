@@ -202,7 +202,7 @@ const ARTIST_DATA = {
       "notes": "",
       "version": "SBD",
       "format": "FLAC",
-      "textFile": "1999-10-28 - Nashville, TN - Exit Inn [SBD2].txt"
+      "textFile": "1999-10-28 - Nashville, TN - Exit Inn [SBD1].flac.txt"
     },
     {
       "year": 1999,
@@ -215,7 +215,8 @@ const ARTIST_DATA = {
       "venue": "Exit Inn",
       "notes": "joel swaney upgrade",
       "version": "SBD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1999-10-28 - Nashville, TN - Exit Inn [SBD2].txt"
     },
     {
       "year": 1999,
@@ -2529,7 +2530,7 @@ const ARTIST_DATA = {
       "notes": "nickcoolboy",
       "version": "AUD",
       "format": "FLAC",
-      "textFile": "2004-01-17 - England, UK - Corn Exchange - Watch Your Step (Doberman 344-355) [Silver].txt"
+      "textFile": "2004-01-17 - Cambridge, UK - Corn Exchange [AUD].txt"
     },
     {
       "year": 2004,
@@ -2542,7 +2543,8 @@ const ARTIST_DATA = {
       "venue": "Corn Exchange",
       "notes": "",
       "version": "FM",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "2004-01-17 - England, UK - Corn Exchange - Watch Your Step (Doberman 344-355) [Silver].txt"
     },
     {
       "year": 2004,
@@ -2652,7 +2654,7 @@ const ARTIST_DATA = {
       "notes": "SBC \u00b7 ADK-TL",
       "version": "AUD",
       "format": "FLAC",
-      "textFile": "2004-09-17 - Austin, TX - ACL Festival - SBC Stage - Zilker Park [SBD].txt"
+      "textFile": "2004-09-17 - Austin, TX - ACL Festival - SBC Stage - Zilker Park [AUD].txt"
     },
     {
       "year": 2004,
@@ -2665,7 +2667,8 @@ const ARTIST_DATA = {
       "venue": "ACL Festival",
       "notes": "SBC \u00b7 joel swaney",
       "version": "MTX",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "2004-09-17 - Austin, TX - ACL Festival - SBC Stage - Zilker Park [SBD].txt"
     },
     {
       "year": 2004,
@@ -2916,7 +2919,7 @@ const ARTIST_DATA = {
       "notes": "joel swaney",
       "version": "MTX",
       "format": "FLAC",
-      "textFile": "2005-05-07 - Knoxville, TN - Tennessee Theater [MTX1].flac.txt"
+      "textFile": "2005-05-07 - Knoxville, TN  Tennessee Theater [MTX2].txt"
     },
     {
       "year": 2005,
@@ -2929,7 +2932,8 @@ const ARTIST_DATA = {
       "venue": "Tennessee Theater",
       "notes": "kevin wathen",
       "version": "MTX",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "2005-05-07 - Knoxville, TN - Tennessee Theater [MTX1].flac.txt"
     },
     {
       "year": 2005,
@@ -3180,7 +3184,7 @@ const ARTIST_DATA = {
       "notes": "",
       "version": "SBD",
       "format": "FLAC 24",
-      "textFile": "2005-06-16 - Austin, TX - Stubb's [SBD].txt"
+      "textFile": "2005-06-16 - Austin, TX - Stubb's [AUD24].txt"
     },
     {
       "year": 2005,
@@ -3193,7 +3197,8 @@ const ARTIST_DATA = {
       "venue": "Stubb's",
       "notes": "DPA 4022 \u00b7 rick bendes",
       "version": "AUD",
-      "format": "FLAC 24"
+      "format": "FLAC 24",
+      "textFile": "2005-06-16 - Austin, TX - Stubb's [SBD].txt"
     },
     {
       "year": 2005,
@@ -3403,7 +3408,7 @@ const ARTIST_DATA = {
       "notes": "evangeline remaster",
       "version": "SBD",
       "format": "FLAC",
-      "textFile": "2006-02-15 - Glasgow, Scotland - Carling Academy [SBD].txt"
+      "textFile": "2006-02-15 - Glasgow, Scotland - Carling Academy [SBD Remaster].txt"
     },
     {
       "year": 2006,
@@ -3416,7 +3421,8 @@ const ARTIST_DATA = {
       "venue": "Carling Academy",
       "notes": "wirralgirl remaster",
       "version": "SBD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "2006-02-15 - Glasgow, Scotland - Carling Academy [SBD].txt"
     },
     {
       "year": 2006,
@@ -3710,7 +3716,7 @@ const ARTIST_DATA = {
       "notes": "martin medley",
       "version": "SBD",
       "format": "FLAC",
-      "textFile": "2006-08-01 - Nashville, TN - Ryman Auditorium [SBD2].txt"
+      "textFile": "2006-08-01 - Nashville, TN - Ryman Auditorium [SBD1].flac.txt"
     },
     {
       "year": 2006,
@@ -3723,7 +3729,8 @@ const ARTIST_DATA = {
       "venue": "Ryman Auditorium",
       "notes": "",
       "version": "SBD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "2006-08-01 - Nashville, TN - Ryman Auditorium [SBD2].txt"
     },
     {
       "year": 2006,
@@ -3779,7 +3786,7 @@ const ARTIST_DATA = {
       "notes": "",
       "version": "AUD",
       "format": "FLAC",
-      "textFile": "2006-08-04 - Chicago, IL - Grant Park - Lollapalooza [AUD].flac.txt"
+      "textFile": "2006-08-04 - Chicago, IL - Grant Park - Lollapalooza [AUD2].txt"
     },
     {
       "year": 2006,
@@ -3792,7 +3799,8 @@ const ARTIST_DATA = {
       "venue": "Grant Park / Lollapalooza",
       "notes": "Panasonic WM60",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "2006-08-04 - Chicago, IL - Grant Park - Lollapalooza [AUD].flac.txt"
     },
     {
       "year": 2006,
@@ -4086,7 +4094,7 @@ const ARTIST_DATA = {
       "notes": "",
       "version": "FM #1",
       "format": "FLAC",
-      "textFile": "2007-06-02 - Jonathan Ross - BBC Radio 2 [FM2].flac.txt"
+      "textFile": "2007-06-02 - Bob Harris Country - BBC Radio 2 [FM1].flac.txt"
     },
     {
       "year": 2007,
@@ -4099,7 +4107,8 @@ const ARTIST_DATA = {
       "venue": "",
       "notes": "",
       "version": "FM #2",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "2007-06-02 - Jonathan Ross - BBC Radio 2 [FM2].flac.txt"
     },
     {
       "year": 2007,
@@ -4393,7 +4402,7 @@ const ARTIST_DATA = {
       "notes": "bill demars",
       "version": "SBD",
       "format": "FLAC 24",
-      "textFile": "2007-06-29 - Somerville, MA - Somerville Theatre [SBD24].txt"
+      "textFile": "2007-06-29 - Somerville, MA - Somerville Theatre [AUD24].txt"
     },
     {
       "year": 2007,
@@ -4406,7 +4415,8 @@ const ARTIST_DATA = {
       "venue": "Somerville Theatre",
       "notes": "bill demars",
       "version": "AUD",
-      "format": "FLAC 24"
+      "format": "FLAC 24",
+      "textFile": "2007-06-29 - Somerville, MA - Somerville Theatre [SBD24].txt"
     },
     {
       "year": 2007,
@@ -4490,7 +4500,7 @@ const ARTIST_DATA = {
       "notes": "bruce wegman",
       "version": "SBD",
       "format": "FLAC",
-      "textFile": "2007-07-23 - San Francisco, CA - Herbst Theater [SBD2].txt"
+      "textFile": "2007-07-23 - San Francisco, CA - Herbst Theater [SBD1].flac.txt"
     },
     {
       "year": 2007,
@@ -4503,7 +4513,8 @@ const ARTIST_DATA = {
       "venue": "Herbst Theater",
       "notes": "bruce wegman",
       "version": "SBD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "2007-07-23 - San Francisco, CA - Herbst Theater [SBD2].txt"
     },
     {
       "year": 2007,
@@ -5510,7 +5521,7 @@ const ARTIST_DATA = {
       "notes": "paul massaro",
       "version": "SBD",
       "format": "FLAC",
-      "textFile": "2008-09-07 - Boston, MA - Bank of America Pavilion [SBD].txt"
+      "textFile": "2008-09-07 - Boston, MA - Bank of America Pavilion (MK012) [AUD].txt"
     },
     {
       "year": 2008,
@@ -5523,7 +5534,8 @@ const ARTIST_DATA = {
       "venue": "Bank of America Pavilion",
       "notes": "Oktava MK-012 \u00b7 vanark",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "2008-09-07 - Boston, MA - Bank of America Pavilion [SBD].txt"
     },
     {
       "year": 2008,
@@ -5551,7 +5563,7 @@ const ARTIST_DATA = {
       "notes": "bill demars",
       "version": "SBD",
       "format": "FLAC 24",
-      "textFile": "2008-09-25 - Albany, NY - Theater at the Egg [SBD].txt"
+      "textFile": "2008-09-25 - Albany, NY - Theater at the Egg (Edited) [SBD24].txt"
     },
     {
       "year": 2008,
@@ -5564,7 +5576,8 @@ const ARTIST_DATA = {
       "venue": "Theater at the Egg",
       "notes": "claude sawyer",
       "version": "SBD",
-      "format": "FLAC 24"
+      "format": "FLAC 24",
+      "textFile": "2008-09-25 - Albany, NY - Theater at the Egg (MC012) [AUD].txt"
     },
     {
       "year": 2008,
@@ -5577,7 +5590,8 @@ const ARTIST_DATA = {
       "venue": "Theater at the Egg",
       "notes": "Gefell M20 \u00b7 tim burke",
       "version": "AUD",
-      "format": "FLAC 24"
+      "format": "FLAC 24",
+      "textFile": "2008-09-25 - Albany, NY - Theater at the Egg [SBD].txt"
     },
     {
       "year": 2008,
@@ -5591,7 +5605,7 @@ const ARTIST_DATA = {
       "notes": "bill demars",
       "version": "SBD",
       "format": "FLAC 24",
-      "textFile": "2008-09-26 - Syracuse, NY - Landmark Theatre [SBD].txt"
+      "textFile": "2008-09-26 - Syracuse, NY - Landmark Theatre (M20) [AUD24].txt"
     },
     {
       "year": 2008,
@@ -5604,7 +5618,8 @@ const ARTIST_DATA = {
       "venue": "Landmark Theatre",
       "notes": "Gefell M20 \u00b7 tim burke",
       "version": "AUD",
-      "format": "FLAC 24"
+      "format": "FLAC 24",
+      "textFile": "2008-09-26 - Syracuse, NY - Landmark Theatre [SBD24 Remaster].txt"
     },
     {
       "year": 2008,
@@ -5631,7 +5646,8 @@ const ARTIST_DATA = {
       "venue": "Landmark Theatre",
       "notes": "bill demars \u00b7 remaster",
       "version": "SBD",
-      "format": "FLAC 24"
+      "format": "FLAC 24",
+      "textFile": "2008-09-26 - Syracuse, NY - Landmark Theatre [SBD].txt"
     },
     {
       "year": 2008,
@@ -5645,7 +5661,7 @@ const ARTIST_DATA = {
       "notes": "bill demars",
       "version": "SBD",
       "format": "FLAC 24",
-      "textFile": "2008-09-27 - Rochester, NY - Auditorium Theatre [SBD].txt"
+      "textFile": "2008-09-27 - Rochester, NY - Auditorium Theatre [AUD24].txt"
     },
     {
       "year": 2008,
@@ -5658,7 +5674,8 @@ const ARTIST_DATA = {
       "venue": "Auditorium Theatre",
       "notes": "dave caley",
       "version": "SBD",
-      "format": "FLAC 24"
+      "format": "FLAC 24",
+      "textFile": "2008-09-27 - Rochester, NY - Auditorium Theatre [SBD].txt"
     },
     {
       "year": 2008,
@@ -5756,7 +5773,7 @@ const ARTIST_DATA = {
       "notes": "joel swaney",
       "version": "SBD",
       "format": "FLAC",
-      "textFile": "2008-10-05 - Madison, WI - Overture Hall [SBD].txt"
+      "textFile": "2008-10-05 - Madison, WI - Overture Hall (MD Master) [AUD].txt"
     },
     {
       "year": 2008,
@@ -5769,7 +5786,8 @@ const ARTIST_DATA = {
       "venue": "Overture Hall",
       "notes": "MD(M) \u00b7 ECM 717",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "2008-10-05 - Madison, WI - Overture Hall [SBD].txt"
     },
     {
       "year": 2008,
@@ -5895,7 +5913,7 @@ const ARTIST_DATA = {
       "notes": "The \u00b7 Sony TCM 59v \u00b7 bronxapostle",
       "version": "AUD",
       "format": "FLAC",
-      "textFile": "2008-10-31 - New York, NY - Apollo Theater - The Halloween Show [AUD2].txt"
+      "textFile": "2008-10-31 - New York, NY - Apollo Theater - The Halloween Show [AUD1].flac.txt"
     },
     {
       "year": 2008,
@@ -5908,7 +5926,8 @@ const ARTIST_DATA = {
       "venue": "Apollo Theater",
       "notes": "The \u00b7 AT-822 \u00b7 jack lewis",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "2008-10-31 - New York, NY - Apollo Theater - The Halloween Show [AUD2].txt"
     },
     {
       "year": 2008,
@@ -5922,7 +5941,7 @@ const ARTIST_DATA = {
       "notes": "john carlin",
       "version": "MTX",
       "format": "FLAC",
-      "textFile": "2008-11-08 - Dublin, Ireland - Ambassador Theatre [SBD24].txt"
+      "textFile": "2008-11-08 - Dublin, Ireland - Ambassador Theatre [MTX].flac.txt"
     },
     {
       "year": 2008,
@@ -5935,7 +5954,8 @@ const ARTIST_DATA = {
       "venue": "Ambassador Theatre",
       "notes": "gary watson",
       "version": "SBD",
-      "format": "FLAC 24"
+      "format": "FLAC 24",
+      "textFile": "2008-11-08 - Dublin, Ireland - Ambassador Theatre [SBD24].txt"
     },
     {
       "year": 2008,
@@ -6523,7 +6543,7 @@ const ARTIST_DATA = {
       "notes": "Schoeps CCM 4 Lg \u00b7 dennis tyler",
       "version": "MTX",
       "format": "FLAC",
-      "textFile": "2009-03-20 - Atlanta, GA - Fox Theatre [MTX].txt"
+      "textFile": "2009-03-20 - Atlanta, GA - Fox Theatre (DPA4023) [MTX].txt"
     },
     {
       "year": 2009,
@@ -6536,7 +6556,8 @@ const ARTIST_DATA = {
       "venue": "Fox Theatre",
       "notes": "DPA 4023 \u00b7 chris hall",
       "version": "MTX",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "2009-03-20 - Atlanta, GA - Fox Theatre (SSM4) [AUD].txt"
     },
     {
       "year": 2009,
@@ -6549,7 +6570,8 @@ const ARTIST_DATA = {
       "venue": "Fox Theatre",
       "notes": "Schoeps CCM 4 Lg \u00b7 dennis tyler",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "2009-03-20 - Atlanta, GA - Fox Theatre (SSM4) [MTX].txt"
     },
     {
       "year": 2009,
@@ -6562,7 +6584,8 @@ const ARTIST_DATA = {
       "venue": "Fox Theatre",
       "notes": "Neumann AK40 + SBD \u00b7 chris hall and craig davis",
       "version": "MTX",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "2009-03-20 - Atlanta, GA - Fox Theatre [MTX].txt"
     },
     {
       "year": 2011,
@@ -6951,7 +6974,7 @@ const ARTIST_DATA = {
       "notes": "WM60",
       "version": "AUD",
       "format": "FLAC",
-      "textFile": "2012-02-01 - Kansas City, MO - Music Hall [AUD2].txt"
+      "textFile": "2012-02-01 - Kansas City, MO - Music Hall [AUD1].txt"
     },
     {
       "year": 2012,
@@ -6964,7 +6987,8 @@ const ARTIST_DATA = {
       "venue": "Music Hall",
       "notes": "MK4",
       "version": "",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "2012-02-01 - Kansas City, MO - Music Hall [AUD2].txt"
     },
     {
       "year": 2012,
@@ -7160,7 +7184,7 @@ const ARTIST_DATA = {
       "notes": "Beyer MC930 \u00b7 chris seremet",
       "version": "AUD",
       "format": "FLAC",
-      "textFile": "2014-07-23 - Newport, RI - Fort Adams State Park - Newport Folk Festival [AUD].txt"
+      "textFile": "2014-07-23 - Burlington, VT - Flynn Theater [AUD].txt"
     },
     {
       "year": 2014,
@@ -7173,7 +7197,8 @@ const ARTIST_DATA = {
       "venue": "Flynn Theater",
       "notes": "Beyer MC930 \u00b7 chris seremet",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "2014-07-23 - Newport, RI - Fort Adams State Park - Newport Folk Festival [AUD].txt"
     },
     {
       "year": 2014,
@@ -7187,7 +7212,7 @@ const ARTIST_DATA = {
       "notes": "Newport",
       "version": "WEB",
       "format": "FLAC",
-      "textFile": "2014-07-25 - Newport, RI - Fort Adams State Park - Newport Folk Festival [WEB].txt"
+      "textFile": "2014-07-25 - Newport, RI - Fort Adams State Park - Newport Folk Festival [AUD].txt"
     },
     {
       "year": 2014,
@@ -7200,7 +7225,8 @@ const ARTIST_DATA = {
       "venue": "Fort Adams State Park",
       "notes": "Newport \u00b7 NPR Stream",
       "version": "WEB",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "2014-07-25 - Newport, RI - Fort Adams State Park - Newport Folk Festival [WEB].txt"
     },
     {
       "year": 2014,
@@ -7844,7 +7870,7 @@ const ARTIST_DATA = {
       "notes": "DPA 4061 \u00b7 rob o'brien",
       "version": "AUD",
       "format": "FLAC",
-      "textFile": "2015-06-04 - Morrison, CO - Red Rocks Amphitheater (MCE 400) [AUD].txt"
+      "textFile": "2015-06-04 - Morrison, CO - Red Rocks Amphitheater (DPA 4061) [AUD].txt"
     },
     {
       "year": 2015,
@@ -7857,7 +7883,8 @@ const ARTIST_DATA = {
       "venue": "Red Rocks Amphitheater",
       "notes": "MCE400 \u00b7 unk",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "2015-06-04 - Morrison, CO - Red Rocks Amphitheater (MCE 400) [AUD].txt"
     },
     {
       "year": 2015,
@@ -7967,7 +7994,7 @@ const ARTIST_DATA = {
       "notes": "CA-14",
       "version": "AUD",
       "format": "FLAC",
-      "textFile": "2015-07-21 - Sydney, Australia - Sydney Opera House [AUD].txt"
+      "textFile": "2015-07-21 - Sydney, Australia - Sydney Opera House (CA-14) [AUD].txt"
     },
     {
       "year": 2015,
@@ -7980,7 +8007,8 @@ const ARTIST_DATA = {
       "venue": "Sydney Opera House",
       "notes": "DR-07MKII",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "2015-07-21 - Sydney, Australia - Sydney Opera House [AUD].txt"
     },
     {
       "year": 2015,
@@ -8050,7 +8078,7 @@ const ARTIST_DATA = {
       "notes": "Town \u00b7 MK22 \u00b7 soling",
       "version": "AUD",
       "format": "FLAC",
-      "textFile": "2016-06-18 - Telluride, CO - Bluegrass Festival - Town Park (N183) [AUD].txt"
+      "textFile": "2016-06-18 - Telluride, CO - Bluegrass Festival - Town Park (MK22) [AUD].txt"
     },
     {
       "year": 2016,
@@ -8063,7 +8091,8 @@ const ARTIST_DATA = {
       "venue": "Bluegrass Festival",
       "notes": "Town \u00b7 Neumann 183is \u00b7 david dyche",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "2016-06-18 - Telluride, CO - Bluegrass Festival - Town Park (N183) [AUD].txt"
     },
     {
       "year": 2016,
@@ -8133,7 +8162,7 @@ const ARTIST_DATA = {
       "notes": "NPR stream",
       "version": "AUD",
       "format": "FLAC",
-      "textFile": "2016-07-23 - Newport, RI - Newport Folk Festival [AUD].txt"
+      "textFile": "2016-07-23 - Newport, RI - Newport Folk Festival [AUD2].txt"
     },
     {
       "year": 2016,
@@ -8146,7 +8175,8 @@ const ARTIST_DATA = {
       "venue": "Newport Folk Festival",
       "notes": "Tunein Livestream",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "2016-07-23 - Newport, RI - Newport Folk Festival [AUD].txt"
     },
     {
       "year": 2016,
@@ -8299,7 +8329,7 @@ const ARTIST_DATA = {
       "notes": "",
       "version": "FM",
       "format": "FLAC",
-      "textFile": "2017-01-30 - Glasgow, Scotland - BBC Radio Scotland Studios [FM2].txt"
+      "textFile": "2017-01-30 - Glasgow, Scotland - BBC Radio Scotland Studios [FM1].txt"
     },
     {
       "year": 2017,
@@ -8312,7 +8342,8 @@ const ARTIST_DATA = {
       "venue": "BBC Radio Scotland Studios",
       "notes": "Janice",
       "version": "",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "2017-01-30 - Glasgow, Scotland - BBC Radio Scotland Studios [FM2].txt"
     },
     {
       "year": 2017,
@@ -8478,7 +8509,7 @@ const ARTIST_DATA = {
       "notes": "todd bainbridge",
       "version": "AUD",
       "format": "FLAC",
-      "textFile": "2017-05-06 - Upper Darby, PA - Tower Theatre [AUD2].txt"
+      "textFile": "2017-05-06 - Upper Darby, PA - Tower Theatre [AUD1].txt"
     },
     {
       "year": 2017,
@@ -8491,7 +8522,8 @@ const ARTIST_DATA = {
       "venue": "Tower Theatre",
       "notes": "AKG CK63",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "2017-05-06 - Upper Darby, PA - Tower Theatre [AUD2].txt"
     },
     {
       "year": 2017,
@@ -8686,7 +8718,7 @@ const ARTIST_DATA = {
       "notes": "MK6",
       "version": "AUD",
       "format": "FLAC 24",
-      "textFile": "2017-07-16 - Berlin, Germany - Tempodrom (Zoom H1) [AUD].txt"
+      "textFile": "2017-07-16 - Berlin, Germany - Tempodrom (MK24) [AUD24].txt"
     },
     {
       "year": 2017,
@@ -8699,7 +8731,8 @@ const ARTIST_DATA = {
       "venue": "Tempodrom",
       "notes": "Zoom2 \u00b7 mn",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "2017-07-16 - Berlin, Germany - Tempodrom (Zoom H1) [AUD].txt"
     },
     {
       "year": 2017,
@@ -9240,7 +9273,7 @@ const ARTIST_DATA = {
       "notes": "Samsung Galaxy S21 \u00b7 eddy remaster",
       "version": "AUD",
       "format": "FLAC",
-      "textFile": "2023-08-08 - Portsmouth, NH - The Music Hall (Schoeps MK4V) (jim kelly) [AUD24].txt"
+      "textFile": "2023-08-08 - Portsmouth, NH - Music Hall (Samsung Galaxy S21) (eddy remaster) [AUD].txt"
     },
     {
       "year": 2023,
@@ -9253,7 +9286,8 @@ const ARTIST_DATA = {
       "venue": "The Music Hall",
       "notes": "Schoeps MK4V \u00b7 jim kelly",
       "version": "AUD",
-      "format": "FLAC 24"
+      "format": "FLAC 24",
+      "textFile": "2023-08-08 - Portsmouth, NH - The Music Hall (Schoeps MK4V) (jim kelly) [AUD24].txt"
     },
     {
       "year": 2023,
@@ -9515,7 +9549,7 @@ const ARTIST_DATA = {
       "notes": "Sony PCM-A10 \u00b7 hardrain62",
       "version": "AUD",
       "format": "FLAC 24",
-      "textFile": "2025-07-11 - Springfield, MA - Symphony Hall (Sony PCM-A10) (unk) (fixed) [AUD24].txt"
+      "textFile": "2025-07-11 - Springfield, MA - Symphony Hall (Sony PCM-A10) (hardrain62) [AUD24].txt"
     },
     {
       "year": 2025,
@@ -9528,7 +9562,8 @@ const ARTIST_DATA = {
       "venue": "Symphony Hall",
       "notes": "Sony PCM-A10 \u00b7 unk \u00b7 fixed",
       "version": "AUD",
-      "format": "FLAC 24"
+      "format": "FLAC 24",
+      "textFile": "2025-07-11 - Springfield, MA - Symphony Hall (Sony PCM-A10) (unk) (fixed) [AUD24].txt"
     },
     {
       "year": 2025,

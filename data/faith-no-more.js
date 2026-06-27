@@ -553,7 +553,7 @@ const ARTIST_DATA = {
       "notes": "",
       "version": "Silver CD",
       "format": "FLAC",
-      "textFile": "1992-06-22 - Amsterdam, The Netherlands - Paradiso [FM].txt"
+      "textFile": "1992-06-22 - Amsterdam, The Netherlands - Paradiso [AUD].txt"
     },
     {
       "year": 1992,
@@ -566,7 +566,8 @@ const ARTIST_DATA = {
       "venue": "Paradiso *Kindergarten",
       "notes": "",
       "version": "Silver CD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1992-06-22 - Amsterdam, The Netherlands - Paradiso [FM].txt"
     },
     {
       "year": 1992,
@@ -1023,7 +1024,7 @@ const ARTIST_DATA = {
       "notes": "r.zac",
       "version": "AUD",
       "format": "FLAC",
-      "textFile": "1993-06-10 - Bratislava, Slovakia - Amphitheater [AUD].txt"
+      "textFile": "1993-06-10 - Bratislava, Slovakia - Amphitheater [AUD Remaster].txt"
     },
     {
       "year": 1993,
@@ -1036,7 +1037,8 @@ const ARTIST_DATA = {
       "venue": "Amphitheater",
       "notes": "r.zac remaster",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1993-06-10 - Bratislava, Slovakia - Amphitheater [AUD].txt"
     },
     {
       "year": 1993,
@@ -1552,7 +1554,7 @@ const ARTIST_DATA = {
       "notes": "",
       "version": "SBD",
       "format": "FLAC",
-      "textFile": "1997-08-16 - Cologne, Germany - Bizzare Festival - VHS(M) (PRO) [DVD].txt"
+      "textFile": "1997-08-16 - Butzweilerhof, Cologne, Germany - Bizarre Fest [SBD].txt"
     },
     {
       "year": 1997,
@@ -1565,7 +1567,8 @@ const ARTIST_DATA = {
       "venue": "Bizzare Festival",
       "notes": "VHS(M)",
       "version": "PRO",
-      "format": "DVD"
+      "format": "DVD",
+      "textFile": "1997-08-16 - Cologne, Germany - Bizzare Festival - VHS(M) (PRO) [DVD].txt"
     },
     {
       "year": 1997,
@@ -1719,7 +1722,7 @@ const ARTIST_DATA = {
       "notes": "Airport \u00b7 DRS3",
       "version": "FM",
       "format": "FLAC",
-      "textFile": "2009-06-13 - Interlaken, Switzerland - Greenfiled Festival [FM].txt"
+      "textFile": "2009-06-13 - Interlaken, Switzerland - Greenfield Festival, Airport (Radio) [FM].txt"
     },
     {
       "year": 2009,
@@ -1732,7 +1735,8 @@ const ARTIST_DATA = {
       "venue": "Greenfield Festival",
       "notes": "Airport \u00b7 Neumann KM140s",
       "version": "FM",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "2009-06-13 - Interlaken, Switzerland - Greenfiled Festival [FM].txt"
     },
     {
       "year": 2009,
@@ -1788,7 +1792,7 @@ const ARTIST_DATA = {
       "notes": "borlag",
       "version": "AUD",
       "format": "FLAC",
-      "textFile": "2009-06-24 - Helsinki, Finland - Kaisaniemi Park [AUD].txt"
+      "textFile": "2009-06-24 - Helsinki, Finland - Kaisaniemi Park [AUD2].txt"
     },
     {
       "year": 2009,
@@ -1801,7 +1805,8 @@ const ARTIST_DATA = {
       "venue": "Kaisaniemi Park",
       "notes": "jb",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "2009-06-24 - Helsinki, Finland - Kaisaniemi Park [AUD].txt"
     },
     {
       "year": 2009,
@@ -2329,7 +2334,7 @@ const ARTIST_DATA = {
       "notes": "Source",
       "version": "AUD",
       "format": "FLAC",
-      "textFile": "2015-05-13 - New York, NY - Webster Hall [S2 - AUD].txt"
+      "textFile": "2015-05-13 - New York, NY - Webster Hall [S1 - AUD].txt"
     },
     {
       "year": 2015,
@@ -2342,7 +2347,8 @@ const ARTIST_DATA = {
       "venue": "Webster Hall (CSB",
       "notes": "Source",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "2015-05-13 - New York, NY - Webster Hall [S2 - AUD].txt"
     },
     {
       "year": 2015,
@@ -2480,7 +2486,7 @@ const ARTIST_DATA = {
       "notes": "Source",
       "version": "AUD",
       "format": "FLAC",
-      "textFile": "2015-08-01 - Philadelphia, PA - Mann Center for the Performing Arts [S2-AUD].txt"
+      "textFile": "2015-08-01 - Philadelphia, PA - Mann Center for the Performing Arts [S1-AUD].txt"
     },
     {
       "year": 2015,
@@ -2493,7 +2499,8 @@ const ARTIST_DATA = {
       "venue": "Mann Center for the Performing Arts (Edirol R09",
       "notes": "Source",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "2015-08-01 - Philadelphia, PA - Mann Center for the Performing Arts [S2-AUD].txt"
     },
     {
       "year": 2015,

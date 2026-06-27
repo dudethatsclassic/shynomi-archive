@@ -160,7 +160,7 @@ const ARTIST_DATA = {
       "notes": "unk",
       "version": "AUD",
       "format": "FLAC",
-      "textFile": "1987-08-04 - Hultsfred, Sweden - Hembygdspark - ANA(2) (Sony WM-D3) (unk) [AUD].txt"
+      "textFile": "1987-08-04 - Hultsfeld, Sweden - Hultsfeld Festival (unk) [AUD].txt"
     },
     {
       "year": 1987,
@@ -173,7 +173,8 @@ const ARTIST_DATA = {
       "venue": "Hembygdspark",
       "notes": "ANA(2) \u00b7 Sony WM-D3 \u00b7 unk",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1987-08-04 - Hultsfred, Sweden - Hembygdspark - ANA(2) (Sony WM-D3) (unk) [AUD].txt"
     },
     {
       "year": 1987,
@@ -299,7 +300,7 @@ const ARTIST_DATA = {
       "notes": "",
       "version": "SBD",
       "format": "FLAC",
-      "textFile": "1988-03-12 - Hanau, Germany - Kultur-Basar [SBD].txt"
+      "textFile": "1988-03-12 - Hanau, Germany - Ka-Bu Club [SBD].txt"
     },
     {
       "year": 1988,
@@ -312,7 +313,8 @@ const ARTIST_DATA = {
       "venue": "Kultur-Basar",
       "notes": "alt transfer",
       "version": "SBD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1988-03-12 - Hanau, Germany - Kultur-Basar [SBD].txt"
     },
     {
       "year": 1988,
@@ -592,7 +594,7 @@ const ARTIST_DATA = {
       "notes": "",
       "version": "FM",
       "format": "FLAC",
-      "textFile": "1989-04-02 - Oberhausen, Germany - Club Blue Moon [FM2].txt"
+      "textFile": "1989-04-02 - Oberhausen, DEU - Musikzirkus [FM].txt"
     },
     {
       "year": 1989,
@@ -605,7 +607,8 @@ const ARTIST_DATA = {
       "venue": "Club Blue Moon",
       "notes": "",
       "version": "FM #2",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1989-04-02 - Oberhausen, Germany - Club Blue Moon [FM2].txt"
     },
     {
       "year": 1989,
@@ -940,7 +943,7 @@ const ARTIST_DATA = {
       "notes": "ANA(2) \u00b7 unk",
       "version": "AUD",
       "format": "FLAC",
-      "textFile": "1991-12-10 - Manchester, UK - Ritz (unk) (tarquin) [AUD24].txt"
+      "textFile": "1991-12-10 - Manchester, England - Ritz - ANA(2) (unk) [AUD].txt"
     },
     {
       "year": 1991,
@@ -953,7 +956,8 @@ const ARTIST_DATA = {
       "venue": "Ritz",
       "notes": "unk \u00b7 tarquin",
       "version": "AUD",
-      "format": "FLAC 24"
+      "format": "FLAC 24",
+      "textFile": "1991-12-10 - Manchester, UK - Ritz (unk) (tarquin) [AUD24].txt"
     },
     {
       "year": 1991,
@@ -1051,7 +1055,7 @@ const ARTIST_DATA = {
       "notes": "Early set \u00b7 Sony Walkman",
       "version": "AUD",
       "format": "FLAC",
-      "textFile": "1992-02-04 - Los Angeles, CA - The Roxy (Late set) [AUD].txt"
+      "textFile": "1992-02-04 - Los Angeles, CA - Roxy Theatre (Early set) (Sony Walkman) [AUD].txt"
     },
     {
       "year": 1992,
@@ -1064,7 +1068,8 @@ const ARTIST_DATA = {
       "venue": "The Roxy",
       "notes": "Early set \u00b7 unk",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1992-02-04 - Los Angeles, CA - The Roxy (Early set) [AUD].txt"
     },
     {
       "year": 1992,
@@ -1077,7 +1082,8 @@ const ARTIST_DATA = {
       "venue": "",
       "notes": "",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1992-02-04 - Los Angeles, CA - The Roxy (Late set) [AUD].txt"
     },
     {
       "year": 1992,
@@ -1217,7 +1223,7 @@ const ARTIST_DATA = {
       "notes": "ANA(3) \u00b7 unk",
       "version": "AUD",
       "format": "FLAC",
-      "textFile": "1992-03-17 - Paris, France - Olympia (unk) [AUD].txt"
+      "textFile": "1992-03-17 - Paris, France - L'Olympia - ANA(3) (unk) [AUD].txt"
     },
     {
       "year": 1992,
@@ -1230,7 +1236,8 @@ const ARTIST_DATA = {
       "venue": "Olympia",
       "notes": "unk",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1992-03-17 - Paris, France - Olympia (unk) [AUD].txt"
     },
     {
       "year": 1992,
@@ -1398,7 +1405,7 @@ const ARTIST_DATA = {
       "notes": "AUD(M) \u00b7 Sony WM-F17",
       "version": "AUD",
       "format": "FLAC",
-      "textFile": "1992-07-01 - Vancouver, Canada - Commodore Ballroom - Loom [Silver].txt"
+      "textFile": "1992-07-01 - Vancouver, BC - Commodore Ballroom - AUD(M) (Sony WM-F17) [AUD].txt"
     },
     {
       "year": 1992,
@@ -1425,7 +1432,8 @@ const ARTIST_DATA = {
       "venue": "Commodore Ballroo *Loom",
       "notes": "",
       "version": "Silver CD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1992-07-01 - Vancouver, Canada - Commodore Ballroom - Loom [Silver].txt"
     },
     {
       "year": 1998,
@@ -1705,7 +1713,7 @@ const ARTIST_DATA = {
       "notes": "HiMD(M) \u00b7 Marantz EM8 \u00b7 straap",
       "version": "AUD",
       "format": "FLAC",
-      "textFile": "2009-05-25 - Eindhoven, The Netherlands - Effenaar - HiMD(M) (Marantz EM8) (straap) [AUD].txt"
+      "textFile": "2009-05-25 - Eindhoven, The Netherlands - Effenaar (Edirol R09) (martin van rappard remaster) [AUD24].txt"
     },
     {
       "year": 2009,
@@ -1718,7 +1726,8 @@ const ARTIST_DATA = {
       "venue": "Effenaar",
       "notes": "Edirol R09 \u00b7 rappard",
       "version": "AUD",
-      "format": "FLAC 24"
+      "format": "FLAC 24",
+      "textFile": "2009-05-25 - Eindhoven, The Netherlands - Effenaar (Edirol R09) (rappard) [AUD24].txt"
     },
     {
       "year": 2009,
@@ -1731,7 +1740,8 @@ const ARTIST_DATA = {
       "venue": "Effenaar",
       "notes": "Edirol R09 \u00b7 martin van rappard remaster",
       "version": "AUD",
-      "format": "FLAC 24"
+      "format": "FLAC 24",
+      "textFile": "2009-05-25 - Eindhoven, The Netherlands - Effenaar - HiMD(M) (Marantz EM8) (straap) [AUD].txt"
     },
     {
       "year": 2009,

@@ -27,7 +27,7 @@ const ARTIST_DATA = {
       "notes": "Downstairs \u00b7 gkay44",
       "version": "AUD",
       "format": "FLAC",
-      "textFile": "1995-10-24 - Cambridge, MA - The Middle East (Sony WM-D3) (gkay44) [AUD].txt"
+      "textFile": "1995-10-24 - Cambridge, MA - The Middle East (Downstairs) (gkay44) [AUD].txt"
     },
     {
       "year": 1995,
@@ -40,7 +40,8 @@ const ARTIST_DATA = {
       "venue": "The Middle East",
       "notes": "Sony WM-D3 \u00b7 gkay44",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1995-10-24 - Cambridge, MA - The Middle East (Sony WM-D3) (gkay44) [AUD].txt"
     },
     {
       "year": 1996,

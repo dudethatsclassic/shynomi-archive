@@ -129,7 +129,7 @@ const ARTIST_DATA = {
       "notes": "",
       "version": "SBD",
       "format": "FLAC",
-      "textFile": "1982-10-18 - San Francisco, CA - Old Waldorf - Obsession 1982-83 (Source 4) [Silver].txt"
+      "textFile": "1982-10-18 - San Francisco, CA - Live Before Death Part 1 [SBD].txt"
     },
     {
       "year": 1982,
@@ -142,7 +142,8 @@ const ARTIST_DATA = {
       "venue": "Old Waldorf *Obsession 1982-83",
       "notes": "Source 4",
       "version": "Silver CD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1982-10-18 - San Francisco, CA - Old Waldorf - Night Of The Rivvit Heads (MS500) (Source 6) [Silver].txt"
     },
     {
       "year": 1982,
@@ -155,7 +156,8 @@ const ARTIST_DATA = {
       "venue": "Old Waldorf *Night of the Rivvit Heads",
       "notes": "MS500 \u00b7 Source 6",
       "version": "Silver CD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1982-10-18 - San Francisco, CA - Old Waldorf - Obsession 1982-83 (Source 4) [Silver].txt"
     },
     {
       "year": 1982,
@@ -1420,7 +1422,7 @@ const ARTIST_DATA = {
       "notes": "",
       "version": "SBD",
       "format": "FLAC",
-      "textFile": "1986-05-12 - El Paso, TX - The Coliseum - Puppets in El Paso [SBD].txt"
+      "textFile": "1986-05-12 - El Paso, TX - The Coliseum - Metal, Inc. (rockandrollchuck remaster) [Silver].txt"
     },
     {
       "year": 1986,
@@ -1433,7 +1435,8 @@ const ARTIST_DATA = {
       "venue": "",
       "notes": "",
       "version": "Silver CD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1986-05-12 - El Paso, TX - The Coliseum - Puppets in El Paso [SBD].txt"
     },
     {
       "year": 1986,
@@ -1515,7 +1518,7 @@ const ARTIST_DATA = {
       "notes": "",
       "version": "AUD",
       "format": "FLAC",
-      "textFile": "1986-06-17 - San Francisco, CA - Cow Palace [AUD].txt"
+      "textFile": "1986-06-17 - Daly City, CA - Cow Palace (Source 3 - RushFan) [AUD24].txt"
     },
     {
       "year": 1986,
@@ -1528,7 +1531,8 @@ const ARTIST_DATA = {
       "venue": "Cow Palace (Source 3",
       "notes": "RushFan)",
       "version": "AUD (96k)",
-      "format": "FLAC 24"
+      "format": "FLAC 24",
+      "textFile": "1986-06-17 - San Francisco, CA - Cow Palace [AUD].txt"
     },
     {
       "year": 1986,
@@ -1915,7 +1919,7 @@ const ARTIST_DATA = {
       "notes": "",
       "version": "AUD",
       "format": "FLAC",
-      "textFile": "1986-11-28 - Poughkeepsie, NY - Mid-Hudson Civic Center - The Freak's Not Here [AUD].txt"
+      "textFile": "1986-11-28 - Poughkeepsie, NY - Mid-Hudson Civic Center (Source 2 - }{eywood) (koondog) [AUD24].txt"
     },
     {
       "year": 1986,
@@ -1928,7 +1932,8 @@ const ARTIST_DATA = {
       "venue": "Mid-Hudson Civic Center (Source 2",
       "notes": "}{eywood) \u00b7 koondog",
       "version": "AUD",
-      "format": "FLAC 24"
+      "format": "FLAC 24",
+      "textFile": "1986-11-28 - Poughkeepsie, NY - Mid-Hudson Civic Center - The Freak's Not Here [AUD].txt"
     },
     {
       "year": 1986,
@@ -1955,7 +1960,7 @@ const ARTIST_DATA = {
       "notes": "ANA(M)",
       "version": "AUD",
       "format": "FLAC",
-      "textFile": "1986-12-01 - New York, NY - The Felt Forum - Assassin [Vinyl].txt"
+      "textFile": "1986-12-01 - New York, NY - Felt Forum [AUD].txt"
     },
     {
       "year": 1986,
@@ -1968,7 +1973,8 @@ const ARTIST_DATA = {
       "venue": "The Felt Forum *Assassin",
       "notes": "Vinyl-sourced",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1986-12-01 - New York, NY - The Felt Forum - Assassin [Vinyl].txt"
     },
     {
       "year": 1986,
@@ -2244,7 +2250,7 @@ const ARTIST_DATA = {
       "notes": "Secret gig played as \"Damage, Inc\" \u00b7 koondog",
       "version": "AUD",
       "format": "FLAC",
-      "textFile": "1987-08-20 - London, England - 100 Club (Secret gig played as Damage, Inc) - V2 [AUD].txt"
+      "textFile": "1987-08-20 - London, England - 100 Club (Secret gig played as Damage, Inc) - V1 [AUD].txt"
     },
     {
       "year": 1987,
@@ -2257,7 +2263,8 @@ const ARTIST_DATA = {
       "venue": "100 Club",
       "notes": "Secret gig played as \"Damage, Inc\"",
       "version": "",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1987-08-20 - London, England - 100 Club (Secret gig played as Damage, Inc) - V2 [AUD].txt"
     },
     {
       "year": 1987,
@@ -2313,7 +2320,7 @@ const ARTIST_DATA = {
       "notes": "1st gen",
       "version": "AUD #1",
       "format": "FLAC",
-      "textFile": "1988-05-28 - East Troy, WI - Alpine Valley [AUD2].txt"
+      "textFile": "1988-05-28 - East Troy, WI - Alpine Valley [AUD1].txt"
     },
     {
       "year": 1988,
@@ -2326,7 +2333,8 @@ const ARTIST_DATA = {
       "venue": "Alpine Valley",
       "notes": "Radio Shack PZM",
       "version": "AUD #2",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1988-05-28 - East Troy, WI - Alpine Valley [AUD2].txt"
     },
     {
       "year": 1988,
@@ -2340,7 +2348,7 @@ const ARTIST_DATA = {
       "notes": "",
       "version": "AUD #1",
       "format": "FLAC",
-      "textFile": "1988-06-10 - Washington, D.C. - RFK Stadium [AUD2].txt"
+      "textFile": "1988-06-10 - Washington, D.C. - RFK Stadium [AUD1].txt"
     },
     {
       "year": 1988,
@@ -2353,7 +2361,8 @@ const ARTIST_DATA = {
       "venue": "RFK Stadium",
       "notes": "",
       "version": "AUD #2",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1988-06-10 - Washington, D.C. - RFK Stadium [AUD2].txt"
     },
     {
       "year": 1988,
@@ -2409,7 +2418,7 @@ const ARTIST_DATA = {
       "notes": "",
       "version": "AUD #1",
       "format": "FLAC",
-      "textFile": "1988-06-19 - Buffalo, NY - Rich Stadium [AUD].txt"
+      "textFile": "1988-06-19 - Buffalo, NY - Rich Stadium [AUD2].txt"
     },
     {
       "year": 1988,
@@ -2422,7 +2431,8 @@ const ARTIST_DATA = {
       "venue": "Rich Stadium",
       "notes": "bones420",
       "version": "AUD #2",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1988-06-19 - Buffalo, NY - Rich Stadium [AUD].txt"
     },
     {
       "year": 1988,
@@ -3481,7 +3491,7 @@ const ARTIST_DATA = {
       "notes": "Bubba420)",
       "version": "AUD",
       "format": "FLAC",
-      "textFile": "1989-09-23 - Irvine, CA - Irvine Meadows Amphitheatre [AUD].txt"
+      "textFile": "1989-09-23 - Irvine, CA - Irvine Meadows Amphitheatre (Source 1 - Bubba420) [AUD].txt"
     },
     {
       "year": 1989,
@@ -3494,7 +3504,8 @@ const ARTIST_DATA = {
       "venue": "Irvine Meadows Amphitheatre",
       "notes": "Aiwa CM 30a \u00b7 karl lundmark",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1989-09-23 - Irvine, CA - Irvine Meadows Amphitheatre [AUD].txt"
     },
     {
       "year": 1989,
@@ -5257,7 +5268,7 @@ const ARTIST_DATA = {
       "notes": "CASS(2) \u00b7 unk",
       "version": "AUD",
       "format": "FLAC",
-      "textFile": "1993-04-04 - Melbourne, Australia - National Tennis Centre [AUD].txt"
+      "textFile": "1993-04-04 - Melbourne, Australia - National Tennis Centre (Aiwa CM-30a) (karl lundmark) [AUD].txt"
     },
     {
       "year": 1993,
@@ -5270,7 +5281,8 @@ const ARTIST_DATA = {
       "venue": "National Tennis Centre",
       "notes": "DAT(M) \u00b7 Aiwa CM-30a \u00b7 karl lunkmark",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1993-04-04 - Melbourne, Australia - National Tennis Centre [AUD].txt"
     },
     {
       "year": 1993,
@@ -5886,7 +5898,7 @@ const ARTIST_DATA = {
       "notes": "",
       "version": "SBD",
       "format": "SHN",
-      "textFile": "1994-06-17 - Middletown, NY - Orange County Fairgrounds [SBD].txt"
+      "textFile": "1994-06-17 - Middletown, NY - Orange County Fairgrounds - Harvester Of Middletown [SBD].txt"
     },
     {
       "year": 1994,
@@ -5899,7 +5911,8 @@ const ARTIST_DATA = {
       "venue": "Orange County Fairgrounds *Harvester Of Middletown",
       "notes": "",
       "version": "SBD",
-      "format": "SHN"
+      "format": "SHN",
+      "textFile": "1994-06-17 - Middletown, NY - Orange County Fairgrounds - Live In Middletown [SBD].txt"
     },
     {
       "year": 1994,
@@ -5912,7 +5925,8 @@ const ARTIST_DATA = {
       "venue": "Orange County Fairgrounds *Live In Middletown",
       "notes": "",
       "version": "SBD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1994-06-17 - Middletown, NY - Orange County Fairgrounds - Middle Shit 1994 (BON018-019) [Silver].txt"
     },
     {
       "year": 1994,
@@ -5925,7 +5939,8 @@ const ARTIST_DATA = {
       "venue": "Orange County Fairgrounds *Middle Shit 1994",
       "notes": "BON018-019",
       "version": "Silver CD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1994-06-17 - Middletown, NY - Orange County Fairgrounds - Pile of Shit (KTS365-366) [Silver].txt"
     },
     {
       "year": 1994,
@@ -5979,7 +5994,8 @@ const ARTIST_DATA = {
       "venue": "Orange County Fairgrounds",
       "notes": "Live Metallica Vault",
       "version": "SBD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1994-06-17 - Middletown, NY - Orange County Fairgrounds [SBD].txt"
     },
     {
       "year": 1994,
@@ -6131,7 +6147,7 @@ const ARTIST_DATA = {
       "notes": "Karl",
       "version": "AUD",
       "format": "FLAC",
-      "textFile": "1994-07-22 - Mountain View, CA - Shoreline Amphitheatre (Source 2 - BallsDeep) [AUD].txt"
+      "textFile": "1994-07-22 - Mountain View, CA - Shoreline Amphitheatre (AUD - Karl Lundmark) [AUD].txt"
     },
     {
       "year": 1994,
@@ -6144,7 +6160,8 @@ const ARTIST_DATA = {
       "venue": "Shoreline Amphitheatre (Source 2",
       "notes": "BallsDeep)",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1994-07-22 - Mountain View, CA - Shoreline Amphitheatre (Source 2 - BallsDeep) [AUD].txt"
     },
     {
       "year": 1994,
@@ -6283,7 +6300,7 @@ const ARTIST_DATA = {
       "notes": "ANA(M) \u00b7 unk \u00b7 kingrue",
       "version": "AUD",
       "format": "FLAC",
-      "textFile": "1994-07-31 - San Diego, CA - Brown Field Municipal Airport [AUD].txt"
+      "textFile": "1994-07-31 - San Diego, CA - Brown Field Municipal Airport - ANA(M) (unk) (kingrue) [AUD].txt"
     },
     {
       "year": 1994,
@@ -6296,7 +6313,8 @@ const ARTIST_DATA = {
       "venue": "Brown Field Municipal Airport",
       "notes": "stef's collection",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1994-07-31 - San Diego, CA - Brown Field Municipal Airport [AUD].txt"
     },
     {
       "year": 1994,
@@ -6420,7 +6438,7 @@ const ARTIST_DATA = {
       "notes": "",
       "version": "AUD",
       "format": "FLAC",
-      "textFile": "1994-08-21 - Miami, FL - Bicentennial Park [AUD].txt"
+      "textFile": "1994-08-21 - Miami, FL - Bicentennial Park - Candy For The Kids (IST 49-50) [Silver].txt"
     },
     {
       "year": 1994,
@@ -6433,7 +6451,8 @@ const ARTIST_DATA = {
       "venue": "Bicentennial Park",
       "notes": "Candy \u00b7 IST 49-50",
       "version": "Silver CD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1994-08-21 - Miami, FL - Bicentennial Park [AUD].txt"
     },
     {
       "year": 1995,
@@ -6719,7 +6738,8 @@ const ARTIST_DATA = {
       "venue": "Omnisports de Bercy (1st night)",
       "notes": "DAT(M) \u00b7 Marantz EM8 \u00b7 stephane",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1996-09-15 - Paris, France - Omnisports de Bercy (1st night) [AUD].txt"
     },
     {
       "year": 1996,
@@ -6733,7 +6753,7 @@ const ARTIST_DATA = {
       "notes": "1st night \u00b7 Video Source 1",
       "version": "AUD",
       "format": "DVD",
-      "textFile": "1996-09-15 - Paris, France - Omnisports de Bercy (1st night) [AUD].txt"
+      "textFile": "1996-09-15 - Paris, France -  Palais Omnisports de Paris-Bercy (Video Source 1) [DVD].txt"
     },
     {
       "year": 1996,
@@ -8145,7 +8165,7 @@ const ARTIST_DATA = {
       "notes": "krw_co",
       "version": "FM",
       "format": "FLAC",
-      "textFile": "2000-01-04 - Rosemont, IL - Allstate Arena - Millenium Nights (Source 1) [Silver].txt"
+      "textFile": "2000-01-04 - Rosemont, IL - Allstate Arena (Q101) (krw_co) [FM].txt"
     },
     {
       "year": 2000,
@@ -8158,7 +8178,8 @@ const ARTIST_DATA = {
       "venue": "Allstate Arena",
       "notes": "Millenium \u00b7 Source 1",
       "version": "Silver CD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "2000-01-04 - Rosemont, IL - Allstate Arena - Millenium Nights (Source 1) [Silver].txt"
     },
     {
       "year": 2000,
@@ -8310,7 +8331,7 @@ const ARTIST_DATA = {
       "notes": "Sony D-7 \u00b7 the govner",
       "version": "AUD",
       "format": "FLAC",
-      "textFile": "2000-08-09 - Lexington, KY - Rupp Arena [AUD].txt"
+      "textFile": "2000-08-09 - Lexington, KY - Rupp Arena (Sony D-7) (the govner) [AUD].txt"
     },
     {
       "year": 2000,
@@ -8323,7 +8344,8 @@ const ARTIST_DATA = {
       "venue": "Rupp Arena",
       "notes": "unk",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "2000-08-09 - Lexington, KY - Rupp Arena [AUD].txt"
     },
     {
       "year": 2003,
@@ -11079,7 +11101,7 @@ const ARTIST_DATA = {
       "notes": "LiveMetallica",
       "version": "SBD",
       "format": "FLAC",
-      "textFile": "2008-09-14 - London, England - BBC Broadcasting House - Live At The BBC Theatre (Source 4) (Manga 005) [SIlver].txt"
+      "textFile": "2008-09-14 - London, England - BBC Broadcasting House - BBC Radio Theatre (Source 3) (H&F 40313) [Silver].txt"
     },
     {
       "year": 2008,
@@ -11106,7 +11128,8 @@ const ARTIST_DATA = {
       "venue": "BBC Broadcasting House *BBC Radio Theatre",
       "notes": "Source 3 \u00b7 H&F 40313",
       "version": "Silver CD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "2008-09-14 - London, England - BBC Broadcasting House - Live At The BBC Theatre (Source 4) (Manga 005) [SIlver].txt"
     },
     {
       "year": 2008,
@@ -14668,7 +14691,7 @@ const ARTIST_DATA = {
       "notes": "LiveMetallica",
       "version": "SBD",
       "format": "FLAC HD",
-      "textFile": "2013-08-11 - Osaka, Japan - Maishima Sports Island - Summer Sonic Osaka 2013 (Source 2) (ZODIAC 032) [Silver].txt"
+      "textFile": "2013-08-11 - Osaka, Japan - Maishima - Summer Sonic Osaka [SBD].txt"
     },
     {
       "year": 2013,
@@ -14681,7 +14704,8 @@ const ARTIST_DATA = {
       "venue": "Maishima *Summer Sonic Osaka 2013",
       "notes": "",
       "version": "SBD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "2013-08-11 - Osaka, Japan - Maishima Sports Island - Summer Sonic Osaka 2013 (Source 2) (ZODIAC 032) [Silver].txt"
     },
     {
       "year": 2013,

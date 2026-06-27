@@ -218,7 +218,7 @@ const ARTIST_DATA = {
       "notes": "CAFS & CA-14s \u00b7 travelinbeat",
       "version": "AUD",
       "format": "FLAC",
-      "textFile": "2009-07-18 - Baltimore, MD - Artscape [AUD].txt"
+      "textFile": "2009-07-18 - Baltimore, MD - Artscape (AKG C460Bs) (tdb) [AUD24].txt"
     },
     {
       "year": 2009,
@@ -231,7 +231,8 @@ const ARTIST_DATA = {
       "venue": "Artscape",
       "notes": "AKG C460Bs \u00b7 tdb",
       "version": "AUD",
-      "format": "FLAC 24"
+      "format": "FLAC 24",
+      "textFile": "2009-07-18 - Baltimore, MD - Artscape [AUD].txt"
     },
     {
       "year": 2009,

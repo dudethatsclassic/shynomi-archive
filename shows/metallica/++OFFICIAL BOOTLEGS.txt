@@ -1,0 +1,120 @@
+Started at: среда, 27. 06. 2012. - 18:57.35
+23 files found
+
+01 -===- H:\Orion Music + More\Metallica-2012-06-24 - Bader Field, Atlantic City, NJ FLAC 2012\2012-06-24 Atlantic City, NJ\met120624d1_01_Hit_The_Lights.flac
+  Extracted successfully
+  Conclusion: this track is CDDA with probability 100%
+  Tempfile successfully deleted.
+
+02 -===- H:\Orion Music + More\Metallica-2012-06-24 - Bader Field, Atlantic City, NJ FLAC 2012\2012-06-24 Atlantic City, NJ\met120624d1_02_Master_Of_Puppets.flac
+  Extracted successfully
+  Conclusion: this track is CDDA with probability 99%
+  Tempfile successfully deleted.
+
+03 -===- H:\Orion Music + More\Metallica-2012-06-24 - Bader Field, Atlantic City, NJ FLAC 2012\2012-06-24 Atlantic City, NJ\met120624d1_03_Fuel.flac
+  Extracted successfully
+  Conclusion: this track is CDDA with probability 99%
+  Tempfile successfully deleted.
+
+04 -===- H:\Orion Music + More\Metallica-2012-06-24 - Bader Field, Atlantic City, NJ FLAC 2012\2012-06-24 Atlantic City, NJ\met120624d1_04_For_Whom_The_Bell_Tolls.flac
+  Extracted successfully
+  Conclusion: this track is CDDA with probability 100%
+  Tempfile successfully deleted.
+
+05 -===- H:\Orion Music + More\Metallica-2012-06-24 - Bader Field, Atlantic City, NJ FLAC 2012\2012-06-24 Atlantic City, NJ\met120624d1_05_Kirk_Solo.flac
+  Extracted successfully
+  Conclusion: this track is CDDA with probability 99%
+  Tempfile successfully deleted.
+
+06 -===- H:\Orion Music + More\Metallica-2012-06-24 - Bader Field, Atlantic City, NJ FLAC 2012\2012-06-24 Atlantic City, NJ\met120624d1_06_The_Shortest_Straw.flac
+  Extracted successfully
+  Conclusion: this track is CDDA with probability 100%
+  Tempfile successfully deleted.
+
+07 -===- H:\Orion Music + More\Metallica-2012-06-24 - Bader Field, Atlantic City, NJ FLAC 2012\2012-06-24 Atlantic City, NJ\met120624d1_07_Black_Album_Intro.flac
+  Extracted successfully
+  Conclusion: this track is CDDA with probability 100%
+  Tempfile successfully deleted.
+
+08 -===- H:\Orion Music + More\Metallica-2012-06-24 - Bader Field, Atlantic City, NJ FLAC 2012\2012-06-24 Atlantic City, NJ\met120624d1_08_The_Struggle_Within.flac
+  Extracted successfully
+  Conclusion: this track is CDDA with probability 99%
+  Tempfile successfully deleted.
+
+09 -===- H:\Orion Music + More\Metallica-2012-06-24 - Bader Field, Atlantic City, NJ FLAC 2012\2012-06-24 Atlantic City, NJ\met120624d1_09_My_Friend_Of_Misery.flac
+  Extracted successfully
+  Conclusion: this track is CDDA with probability 100%
+  Tempfile successfully deleted.
+
+10 -===- H:\Orion Music + More\Metallica-2012-06-24 - Bader Field, Atlantic City, NJ FLAC 2012\2012-06-24 Atlantic City, NJ\met120624d1_10_The_God_That_Failed.flac
+  Extracted successfully
+  Conclusion: this track is CDDA with probability 100%
+  Tempfile successfully deleted.
+
+11 -===- H:\Orion Music + More\Metallica-2012-06-24 - Bader Field, Atlantic City, NJ FLAC 2012\2012-06-24 Atlantic City, NJ\met120624d1_11_Of_Wolf_And_Man.flac
+  Extracted successfully
+  Conclusion: this track is CDDA with probability 100%
+  Tempfile successfully deleted.
+
+12 -===- H:\Orion Music + More\Metallica-2012-06-24 - Bader Field, Atlantic City, NJ FLAC 2012\2012-06-24 Atlantic City, NJ\met120624d1_12_Nothing_Else_Matters.flac
+  Extracted successfully
+  Conclusion: this track is CDDA with probability 100%
+  Tempfile successfully deleted.
+
+13 -===- H:\Orion Music + More\Metallica-2012-06-24 - Bader Field, Atlantic City, NJ FLAC 2012\2012-06-24 Atlantic City, NJ\met120624d1_13_Through_The_Never.flac
+  Extracted successfully
+  Conclusion: this track is CDDA with probability 100%
+  Tempfile successfully deleted.
+
+14 -===- H:\Orion Music + More\Metallica-2012-06-24 - Bader Field, Atlantic City, NJ FLAC 2012\2012-06-24 Atlantic City, NJ\met120624d1_14_Dont_Tread_On_Me.flac
+  Extracted successfully
+  Conclusion: this track is CDDA with probability 100%
+  Tempfile successfully deleted.
+
+15 -===- H:\Orion Music + More\Metallica-2012-06-24 - Bader Field, Atlantic City, NJ FLAC 2012\2012-06-24 Atlantic City, NJ\met120624d1_15_Wherever_I_May_Roam.flac
+  Extracted successfully
+  Conclusion: this track is CDDA with probability 100%
+  Tempfile successfully deleted.
+
+16 -===- H:\Orion Music + More\Metallica-2012-06-24 - Bader Field, Atlantic City, NJ FLAC 2012\2012-06-24 Atlantic City, NJ\met120624d2_16_The_Unforgiven.flac
+  Extracted successfully
+  Conclusion: this track is CDDA with probability 100%
+  Tempfile successfully deleted.
+
+17 -===- H:\Orion Music + More\Metallica-2012-06-24 - Bader Field, Atlantic City, NJ FLAC 2012\2012-06-24 Atlantic City, NJ\met120624d2_17_Holier_Than_Thou.flac
+  Extracted successfully
+  Conclusion: this track is CDDA with probability 100%
+  Tempfile successfully deleted.
+
+18 -===- H:\Orion Music + More\Metallica-2012-06-24 - Bader Field, Atlantic City, NJ FLAC 2012\2012-06-24 Atlantic City, NJ\met120624d2_18_Sad_But_True.flac
+  Extracted successfully
+  Conclusion: this track is CDDA with probability 100%
+  Tempfile successfully deleted.
+
+19 -===- H:\Orion Music + More\Metallica-2012-06-24 - Bader Field, Atlantic City, NJ FLAC 2012\2012-06-24 Atlantic City, NJ\met120624d2_19_Bass_Solo.flac
+  Extracted successfully
+  Conclusion: this track is CDDA with probability 100%
+  Tempfile successfully deleted.
+
+20 -===- H:\Orion Music + More\Metallica-2012-06-24 - Bader Field, Atlantic City, NJ FLAC 2012\2012-06-24 Atlantic City, NJ\met120624d2_20_Enter_Sandman.flac
+  Extracted successfully
+  Conclusion: this track is CDDA with probability 100%
+  Tempfile successfully deleted.
+
+21 -===- H:\Orion Music + More\Metallica-2012-06-24 - Bader Field, Atlantic City, NJ FLAC 2012\2012-06-24 Atlantic City, NJ\met120624d2_21_Blackened.flac
+  Extracted successfully
+  Conclusion: this track is CDDA with probability 100%
+  Tempfile successfully deleted.
+
+22 -===- H:\Orion Music + More\Metallica-2012-06-24 - Bader Field, Atlantic City, NJ FLAC 2012\2012-06-24 Atlantic City, NJ\met120624d2_22_One.flac
+  Extracted successfully
+  Conclusion: this track is CDDA with probability 100%
+  Tempfile successfully deleted.
+
+23 -===- H:\Orion Music + More\Metallica-2012-06-24 - Bader Field, Atlantic City, NJ FLAC 2012\2012-06-24 Atlantic City, NJ\met120624d2_23_Seek_And_Destroy.flac
+  Extracted successfully
+  Conclusion: this track is CDDA with probability 100%
+  Tempfile successfully deleted.
+
+
+Finished at: среда, 27. 06. 2012. - 19:10.13 (operation time: 0:12.38)

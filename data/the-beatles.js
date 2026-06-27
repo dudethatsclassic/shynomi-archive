@@ -25,7 +25,7 @@ const ARTIST_DATA = {
       "notes": "Stowe \u00b7 John Bloomfield-EVSD-Goody",
       "version": "Silver CD",
       "format": "",
-      "textFile": "1963-04-04 - Buckinghamshire, England, UK - Roxburgh Hall - Stowe School (John Bloomfield-EVSD 'AI Demix'-Goody) CD2 [Silver].txt"
+      "textFile": "1963-04-04 -  Buckinghamshire, England, UK - Roxburgh Hall - Stowe School (John Bloomfield-EVSD-Goody) CD1 [Silver].txt"
     },
     {
       "year": 1963,
@@ -38,7 +38,8 @@ const ARTIST_DATA = {
       "venue": "Roxburgh Hall",
       "notes": "Stowe \u00b7 John Bloomfield-EVSD-Goody",
       "version": "Silver CD",
-      "format": ""
+      "format": "",
+      "textFile": "1963-04-04 - Buckinghamshire, England, UK - Roxburgh Hall - Stowe School (John Bloomfield-EVSD 'AI Demix'-Goody) CD2 [Silver].txt"
     },
     {
       "year": 1964,
@@ -94,7 +95,7 @@ const ARTIST_DATA = {
       "notes": "",
       "version": "SBD",
       "format": "",
-      "textFile": "1964-09-03 - Indianapolis, IN - State Fair Coliseum (krw_co) [SBD24].txt"
+      "textFile": "1964-09-03 - Indianapolis, IN - Indy State Fair [SBD].txt"
     },
     {
       "year": 1964,
@@ -107,7 +108,8 @@ const ARTIST_DATA = {
       "venue": "State Fair Coliseum",
       "notes": "krw_co",
       "version": "SBD",
-      "format": ""
+      "format": "",
+      "textFile": "1964-09-03 - Indianapolis, IN - State Fair Coliseum (krw_co) [SBD24].txt"
     },
     {
       "year": 1965,

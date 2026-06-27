@@ -1048,7 +1048,7 @@ const ARTIST_DATA = {
       "notes": "AKG CK63 \u00b7 john hermsen",
       "version": "AUD",
       "format": "FLAC 24",
-      "textFile": "2018-07-21 - Seattle, WA - Paramount Theatre (AT853s) (charles dewey cole) [AUD24].txt"
+      "textFile": "2018-07-21 - Seattle, WA - Paramount Theater (AKG CK63) (john hermsen) [AUD24].txt"
     },
     {
       "year": 2018,
@@ -1061,7 +1061,8 @@ const ARTIST_DATA = {
       "venue": "Paramount Theatre",
       "notes": "AT853s \u00b7 charles dewey cole",
       "version": "AUD",
-      "format": "FLAC 24"
+      "format": "FLAC 24",
+      "textFile": "2018-07-21 - Seattle, WA - Paramount Theatre (AT853s) (charles dewey cole) [AUD24].txt"
     },
     {
       "year": 2018,

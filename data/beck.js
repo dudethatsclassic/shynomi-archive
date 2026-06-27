@@ -521,7 +521,7 @@ const ARTIST_DATA = {
       "notes": "",
       "version": "TV",
       "format": "SHN",
-      "textFile": "1996-08-21 - Toronto, Ontario - MuchMusic [TV].txt"
+      "textFile": "1996-08-21 - Toronto, Ontario - Much Music [TV].txt"
     },
     {
       "year": 1996,
@@ -534,7 +534,8 @@ const ARTIST_DATA = {
       "venue": "Much Music",
       "notes": "",
       "version": "TV",
-      "format": "DVD"
+      "format": "DVD",
+      "textFile": "1996-08-21 - Toronto, Ontario - MuchMusic [TV].txt"
     },
     {
       "year": 1996,
@@ -646,7 +647,7 @@ const ARTIST_DATA = {
       "notes": "",
       "version": "AUD #1",
       "format": "FLAC",
-      "textFile": "1996-11-29 - Paris, France - The Bataclan [AUD].txt"
+      "textFile": "1996-11-29 - Paris, France - The Bataclan [AUD2].txt"
     },
     {
       "year": 1996,
@@ -659,7 +660,8 @@ const ARTIST_DATA = {
       "venue": "The Bataclan",
       "notes": "",
       "version": "AUD #2",
-      "format": "SHN"
+      "format": "SHN",
+      "textFile": "1996-11-29 - Paris, France - The Bataclan [AUD].txt"
     },
     {
       "year": 1996,
@@ -785,7 +787,7 @@ const ARTIST_DATA = {
       "notes": "",
       "version": "SBD",
       "format": "FLAC",
-      "textFile": "1997-02-14 - Santa Cruz, CA - Santa Cruz Civic Auditorium [SBD].txt"
+      "textFile": "1997-02-14 - Santa Cruz, CA - Santa Cruz Civic Auditorium (New Source, Extra Tracks) [AUD].txt"
     },
     {
       "year": 1997,
@@ -798,7 +800,8 @@ const ARTIST_DATA = {
       "venue": "Santa Cruz Civic Auditorium",
       "notes": "Schoeps CCM4 \u00b7 unk",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1997-02-14 - Santa Cruz, CA - Santa Cruz Civic Auditorium [SBD].txt"
     },
     {
       "year": 1997,
@@ -1062,7 +1065,7 @@ const ARTIST_DATA = {
       "notes": "unk \u00b7 yumiko t.",
       "version": "AUD #1",
       "format": "FLAC",
-      "textFile": "1998-06-11 - Wantagh, NY - Jones Beach Amphitheatre [AUD2].txt"
+      "textFile": "1998-06-11 - Wantagh, NY - Jones Beach Amphitheatre [AUD1-LOSSY].flac.txt"
     },
     {
       "year": 1998,
@@ -1075,7 +1078,8 @@ const ARTIST_DATA = {
       "venue": "Jones Beach Amphitheatre",
       "notes": "MarcSounds \u00b7 qualitease transfer",
       "version": "AUD #2",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1998-06-11 - Wantagh, NY - Jones Beach Amphitheatre [AUD2].txt"
     },
     {
       "year": 1998,
@@ -1200,7 +1204,7 @@ const ARTIST_DATA = {
       "notes": "unk",
       "version": "UNK",
       "format": "SHN",
-      "textFile": "1999-05-08 - Los Angeles, CA - Wiltern Theatre [Unknown].txt"
+      "textFile": "1999-05-08 - Los Angeles, CA - Wiltern Theater - DAT(2) (unk) [SBD].txt"
     },
     {
       "year": 1999,
@@ -1213,7 +1217,8 @@ const ARTIST_DATA = {
       "venue": "",
       "notes": "",
       "version": "SBD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1999-05-08 - Los Angeles, CA - Wiltern Theatre [Unknown].txt"
     },
     {
       "year": 1999,
@@ -1752,7 +1757,7 @@ const ARTIST_DATA = {
       "notes": "Concert \u00b7 w/ Vedder & Yorke \u00b7 COS-11sBP",
       "version": "AUD",
       "format": "FLAC",
-      "textFile": "2002-02-26 - Los Angeles, CA - Wiltern Theatre - Concert For Artist Rights (with Vedder & Yorke) [AUD].txt"
+      "textFile": "2002-02-26 - Los Angeles, CA - Wiltern Theatre (DPA 4061\u2019s - Sony PCM-M1) [AUD].txt"
     },
     {
       "year": 2002,
@@ -1765,7 +1770,8 @@ const ARTIST_DATA = {
       "venue": "Wiltern Theatre",
       "notes": "Concert \u00b7 w/ Vedder & Yorke \u00b7 M \u00b7 DPA 4061s \u00b7 ed davis",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "2002-02-26 - Los Angeles, CA - Wiltern Theatre - Concert For Artist Rights (with Vedder & Yorke) [AUD].txt"
     },
     {
       "year": 2002,
@@ -1849,7 +1855,7 @@ const ARTIST_DATA = {
       "notes": "SP-CMC-8 \u00b7 jkeats",
       "version": "AUD",
       "format": "SHN",
-      "textFile": "2002-08-14 - New York, NY - Alice Tully Hall [AUD].txt"
+      "textFile": "2002-08-14 - New York, NY - Alice Tully Hall (Sony D8) [AUD].flac.txt"
     },
     {
       "year": 2002,
@@ -1862,7 +1868,8 @@ const ARTIST_DATA = {
       "venue": "Alice Tully Hall",
       "notes": "unk",
       "version": "AUD",
-      "format": "SHN"
+      "format": "SHN",
+      "textFile": "2002-08-14 - New York, NY - Alice Tully Hall [AUD].txt"
     },
     {
       "year": 2002,
@@ -1959,7 +1966,7 @@ const ARTIST_DATA = {
       "notes": "UCSD \u00b7 DPA 4061 \u00b7 h.p.",
       "version": "AUD",
       "format": "FLAC",
-      "textFile": "2002-08-26 - La Jolla, CA - Mandeville Theatre - UCSD [AUD].flac.txt"
+      "textFile": "2002-08-26 - La Jolla, CA - Mandeville Theatre - UCSD [AUD2].txt"
     },
     {
       "year": 2002,
@@ -1972,7 +1979,8 @@ const ARTIST_DATA = {
       "venue": "Mandeville Theatre",
       "notes": "UCSD \u00b7 CS Stealth Mics",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "2002-08-26 - La Jolla, CA - Mandeville Theatre - UCSD [AUD].flac.txt"
     },
     {
       "year": 2002,
@@ -1986,7 +1994,7 @@ const ARTIST_DATA = {
       "notes": "Schoeps MK4 \u00b7 ted mattes",
       "version": "AUD",
       "format": "FLAC",
-      "textFile": "2002-08-28 - San Francisco, CA - Palace of Fine Arts [AUD].txt"
+      "textFile": "2002-08-28 - San Francisco, CA - Palace of Fine Arts (Schoeps Teddy Ballgame) [AUD].txt"
     },
     {
       "year": 2002,
@@ -1999,7 +2007,8 @@ const ARTIST_DATA = {
       "venue": "Palace of Fine Arts",
       "notes": "unk",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "2002-08-28 - San Francisco, CA - Palace of Fine Arts [AUD].txt"
     },
     {
       "year": 2002,
@@ -2013,7 +2022,7 @@ const ARTIST_DATA = {
       "notes": "Schoeps MK4s \u00b7 ted mattes",
       "version": "AUD",
       "format": "FLAC",
-      "textFile": "2002-08-29 - San Francisco, CA - Palace of Fine Arts [AUD].txt"
+      "textFile": "2002-08-29 - San Francisco, CA - Palace of Fine Arts (Schoeps Teddy Ballgame) [AUD].txt"
     },
     {
       "year": 2002,
@@ -2026,7 +2035,8 @@ const ARTIST_DATA = {
       "venue": "Palace of Fine Arts",
       "notes": "MTV2",
       "version": "TV",
-      "format": "SHN"
+      "format": "SHN",
+      "textFile": "2002-08-29 - San Francisco, CA - Palace of Fine Arts [AUD].txt"
     },
     {
       "year": 2002,
@@ -2498,7 +2508,7 @@ const ARTIST_DATA = {
       "notes": "Sony ECM-DS70P \u00b7 slein",
       "version": "AUD",
       "format": "FLAC",
-      "textFile": "2003-04-18 - Hamburg, Germany - Schauspielhause [AUD].flac.txt"
+      "textFile": "2003-04-18 - Hamburg, Germany - Schauspielhause [AUD2].txt"
     },
     {
       "year": 2003,
@@ -2511,7 +2521,8 @@ const ARTIST_DATA = {
       "venue": "Schauspielhause",
       "notes": "DPA \u00b7 unk",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "2003-04-18 - Hamburg, Germany - Schauspielhause [AUD].flac.txt"
     },
     {
       "year": 2003,
@@ -2566,7 +2577,7 @@ const ARTIST_DATA = {
       "notes": "unk \u00b7 huibert",
       "version": "AUD",
       "format": "FLAC",
-      "textFile": "2003-04-24 - Utrecht, The Netherlands - Vredenburg [AUD].shn.txt"
+      "textFile": "2003-04-24 - Utrecht, The Netherlands - Vredenburg (Rappard Source - GSB - JVC XM-R70 - New Lineage) [AUD].txt"
     },
     {
       "year": 2003,
@@ -2579,7 +2590,8 @@ const ARTIST_DATA = {
       "venue": "Vredenburg",
       "notes": "MD(x) \u00b7 rappard",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "2003-04-24 - Utrecht, The Netherlands - Vredenburg [AUD2].txt"
     },
     {
       "year": 2003,
@@ -2592,7 +2604,8 @@ const ARTIST_DATA = {
       "venue": "Vredenburg",
       "notes": "ANA(x) \u00b7 unk",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "2003-04-24 - Utrecht, The Netherlands - Vredenburg [AUD].shn.txt"
     },
     {
       "year": 2003,
@@ -2828,7 +2841,7 @@ const ARTIST_DATA = {
       "notes": "Empire \u00b7 M \u00b7 SS-DSM6 \u00b7 jlw",
       "version": "AUD",
       "format": "FLAC",
-      "textFile": "2004-05-01 - Indio, CA - Empire Polo Field - Coachella [AUD].flac.txt"
+      "textFile": "2004-05-01 - Indio, CA - Coachella - Gobi Tent (DSM-6S) [AUD].txt"
     },
     {
       "year": 2004,
@@ -2841,7 +2854,8 @@ const ARTIST_DATA = {
       "venue": "Coachelle",
       "notes": "Empire \u00b7 AT831 \u00b7 formengr",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "2004-05-01 - Indio, CA - Empire Polo Field - Coachella [AUD].flac.txt"
     },
     {
       "year": 2004,
@@ -2967,7 +2981,7 @@ const ARTIST_DATA = {
       "notes": "",
       "version": "FM",
       "format": "FLAC",
-      "textFile": "2005-03-31 - Santa Monica, CA - Morning Becomes Eclectic 89.9 [FM].flac.txt"
+      "textFile": "2005-03-31 - Santa Monica, CA - Morning Becomes Eclectic 89.9 (Remastered) [FM].txt"
     },
     {
       "year": 2005,
@@ -2980,7 +2994,8 @@ const ARTIST_DATA = {
       "venue": "Morning Becomes Eclectic 89.9",
       "notes": "thir13en remaster",
       "version": "FM",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "2005-03-31 - Santa Monica, CA - Morning Becomes Eclectic 89.9 [FM].flac.txt"
     },
     {
       "year": 2005,
@@ -3148,7 +3163,7 @@ const ARTIST_DATA = {
       "notes": "Schoeps MK4s \u00b7 robertd",
       "version": "AUD",
       "format": "FLAC",
-      "textFile": "2005-07-16 - Portland, OR - Memorial Coliseum [AUD].flac.txt"
+      "textFile": "2005-07-16 - Portland, OR - Memorial Coliseum [AUD2].txt"
     },
     {
       "year": 2005,
@@ -3161,7 +3176,8 @@ const ARTIST_DATA = {
       "venue": "Memorial Coliseum",
       "notes": "SP-CMC-8 \u00b7 joe cooper",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "2005-07-16 - Portland, OR - Memorial Coliseum [AUD].flac.txt"
     },
     {
       "year": 2005,
@@ -3203,7 +3219,7 @@ const ARTIST_DATA = {
       "notes": "DPA 4061 \u00b7 unk",
       "version": "AUD",
       "format": "FLAC",
-      "textFile": "2005-09-22 - Detroit, MI - State Theater [AUD2].txt"
+      "textFile": "2005-09-22 - Detroit, MI - State Theater [AUD1].flac.txt"
     },
     {
       "year": 2005,
@@ -3216,7 +3232,8 @@ const ARTIST_DATA = {
       "venue": "State Theater",
       "notes": "SP-CMC-2 \u00b7 sullen",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "2005-09-22 - Detroit, MI - State Theater [AUD2].txt"
     },
     {
       "year": 2005,
@@ -3286,7 +3303,7 @@ const ARTIST_DATA = {
       "notes": "Snake \u00b7 Schoeps MK4v \u00b7 phil lucks",
       "version": "AUD",
       "format": "FLAC",
-      "textFile": "2005-10-29 - Las Vegas, NV - Sam Boyd Stadium - Snake Eyes Stage [DVD].txt"
+      "textFile": "2005-10-29 - Las Vegas, NV - Sam Boyd Stadium - Snake Eyes Stage [AUD].flac.txt"
     },
     {
       "year": 2005,
@@ -3299,7 +3316,8 @@ const ARTIST_DATA = {
       "venue": "Sam Boyd Stadium",
       "notes": "Snake \u00b7 Schoeps MK4 \u00b7 unk",
       "version": "AUD",
-      "format": "FLAC 24"
+      "format": "FLAC 24",
+      "textFile": "2005-10-29 - Las Vegas, NV - Sam Boyd Stadium - Snake Eyes Stage [DVD].txt"
     },
     {
       "year": 2006,
@@ -3341,7 +3359,7 @@ const ARTIST_DATA = {
       "notes": "What \u00b7 CSB \u00b7 breathmint",
       "version": "AUD",
       "format": "FLAC",
-      "textFile": "2006-06-17 - Manchester, TN - Bonnaroo - What Stage (patrick moore recording) [AUD].txt"
+      "textFile": "2006-06-17 - Manchester, TN - Bonnaroo - What Stage (breathmint recording) [AUD].txt"
     },
     {
       "year": 2006,
@@ -3354,7 +3372,8 @@ const ARTIST_DATA = {
       "venue": "Bonnaroo",
       "notes": "What \u00b7 DAB \u00b7 kenny endlich",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "2006-06-17 - Manchester, TN - Bonnaroo - What Stage (kenny endlich recording) [AUD].txt"
     },
     {
       "year": 2006,
@@ -3367,7 +3386,8 @@ const ARTIST_DATA = {
       "venue": "Bonnaroo",
       "notes": "What \u00b7 DPA 4011s \u00b7 mark lynn",
       "version": "AUD",
-      "format": "FLAC 24"
+      "format": "FLAC 24",
+      "textFile": "2006-06-17 - Manchester, TN - Bonnaroo - What Stage (mark lynn recording) [AUD24].txt"
     },
     {
       "year": 2006,
@@ -3380,7 +3400,8 @@ const ARTIST_DATA = {
       "venue": "Bonnaroo",
       "notes": "What \u00b7 Nakamichi CM300 \u00b7 patrick moore",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "2006-06-17 - Manchester, TN - Bonnaroo - What Stage (patrick moore recording) [AUD].txt"
     },
     {
       "year": 2006,
@@ -3505,7 +3526,7 @@ const ARTIST_DATA = {
       "notes": "In \u00b7 nibbler",
       "version": "FM",
       "format": "FLAC",
-      "textFile": "2006-10-04 - Santa Monica, CA - KCRW Radio - In Studio Session [FM].flac.txt"
+      "textFile": "2006-10-04 - Santa Monica, CA - KCRW Radio - In Studio Session [FM2].txt"
     },
     {
       "year": 2006,
@@ -3518,7 +3539,8 @@ const ARTIST_DATA = {
       "venue": "KCRW Radio",
       "notes": "In \u00b7 peewee",
       "version": "FM",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "2006-10-04 - Santa Monica, CA - KCRW Radio - In Studio Session [FM].flac.txt"
     },
     {
       "year": 2006,
@@ -3672,7 +3694,7 @@ const ARTIST_DATA = {
       "notes": "ALD \u00b7 benchboy",
       "version": "AUD",
       "format": "FLAC",
-      "textFile": "2008-09-20 - Los Angeles, CA - Hollywood Bowl - Assisted Listening Device (Benchboy Source) [AUD].txt"
+      "textFile": "2008-09-20 - Los Angeles, CA - Hollywood Bowl (Audix 1290 -ps2 - MT24) [AUD].txt"
     },
     {
       "year": 2008,
@@ -3685,7 +3707,8 @@ const ARTIST_DATA = {
       "venue": "Hollywood Bowl",
       "notes": "Audix 1290 \u00b7 time was just a joke",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "2008-09-20 - Los Angeles, CA - Hollywood Bowl - Assisted Listening Device (Benchboy Source) [AUD].txt"
     },
     {
       "year": 2008,
@@ -3921,7 +3944,7 @@ const ARTIST_DATA = {
       "notes": "Sony PCM-M10 \u00b7 jc_noseworth",
       "version": "AUD",
       "format": "FLAC",
-      "textFile": "2015-05-16 - Memphis, TN - Mud Island Amphitheatre [AUD].flac.txt"
+      "textFile": "2015-05-16 - Memphis, TN - Mud Island Amphitheatre [AUD2].txt"
     },
     {
       "year": 2015,
@@ -3934,7 +3957,8 @@ const ARTIST_DATA = {
       "venue": "Mud Island Amphitheatre",
       "notes": "unk",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "2015-05-16 - Memphis, TN - Mud Island Amphitheatre [AUD].flac.txt"
     },
     {
       "year": 2015,
@@ -4143,7 +4167,7 @@ const ARTIST_DATA = {
       "notes": "",
       "version": "AUD",
       "format": "FLAC",
-      "textFile": "2019-08-11 - Toronto, ON - Budweiser Stage (SP-CMC-8) (burnboy) Recording 2 [AUD].txt"
+      "textFile": "2019-08-11 - Toronto, ON - Budweiser Stage (CSB) (burnboy) Recording 1 [AUD].txt"
     },
     {
       "year": 2019,
@@ -4156,7 +4180,8 @@ const ARTIST_DATA = {
       "venue": "Budweiser Stage (SP-CMC-8) (burnboy) Recording 2",
       "notes": "",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "2019-08-11 - Toronto, ON - Budweiser Stage (SP-CMC-8) (burnboy) Recording 2 [AUD].txt"
     },
     {
       "year": 2019,

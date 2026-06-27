@@ -3761,7 +3761,7 @@ const ARTIST_DATA = {
       "notes": "Soundcheck \u00b7 Shure P7R IEM \u00b7 cps",
       "version": "IEM",
       "format": "FLAC",
-      "textFile": "2004-05-04 - Hershey, PA - Giant Center [IEM].txt"
+      "textFile": "2004-05-04 - Hershey, PA - Giant Center (Soundcheck) [IEM].txt"
     },
     {
       "year": 2004,
@@ -3774,7 +3774,8 @@ const ARTIST_DATA = {
       "venue": "Giant Center",
       "notes": "Shure P7R IEM \u00b7 cps",
       "version": "IEM",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "2004-05-04 - Hershey, PA - Giant Center [IEM].txt"
     },
     {
       "year": 2004,
@@ -4691,7 +4692,7 @@ const ARTIST_DATA = {
       "notes": "Internal mics \u00b7 unk",
       "version": "AUD",
       "format": "FLAC",
-      "textFile": "2017-04-19 - Kansas City, MO - Starlight Theater [AUD].txt"
+      "textFile": "2017-04-19 - Kansas City, MO - Starlight Theater.txt"
     },
     {
       "year": 2017,
@@ -4704,7 +4705,8 @@ const ARTIST_DATA = {
       "venue": "Starlight Theater",
       "notes": "Internal mics \u00b7 anonymous",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "2017-04-19 - Kansas City, MO - Starlight Theater [AUD].txt"
     },
     {
       "year": 2017,

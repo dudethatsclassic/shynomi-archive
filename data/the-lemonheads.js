@@ -288,7 +288,7 @@ const ARTIST_DATA = {
       "notes": "",
       "version": "SBD",
       "format": "FLAC",
-      "textFile": "1993-11-18 - Chicago, IL - Tower Records [SBD].txt"
+      "textFile": "1993-11-18 - Chicago, IL - Tower Records [AUD].txt"
     },
     {
       "year": 1993,
@@ -301,7 +301,8 @@ const ARTIST_DATA = {
       "venue": "Tower Records",
       "notes": "",
       "version": "",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1993-11-18 - Chicago, IL - Tower Records [SBD].txt"
     },
     {
       "year": 1993,
