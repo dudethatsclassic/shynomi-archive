@@ -1,0 +1,93 @@
+The Marked
+Aug '86
+
+Side A:
+01    Life and Death
+02    Death of a Mind
+03    Dali Holds the Hand of God
+04    Song for Jonathan
+05    The Way That I Do
+06    Pictures of Phillip
+07    Didn't Care at All
+08    As Yet Untitled
+09    Saturday Morning
+10    Pelican
+11    Tears
+12    I Pray for More
+13    Tibetan Party
+
+Side B:
+01    Pass
+02    Scary Neurotic Song (Live)
+03    Down I Am
+04    8 Miles High
+05    Alone Inside
+06    Murder Mix
+07    I Can't See You
+08    The Dream
+09    A Day at the Circus
+10    Zieg Hiel
+11    Fade on Violet
+12    Cling to Me in Dreamtime
+
+
+From a cd-r with unknown lineage (possibly ANA-2 > CDR-?).
+Securely ripped with the correct offset correction and then encoded (CDR > EAC > WAV > FLAC).
+The tracking isn't always perfect, but I left it the way it was.
+
+
+Shntool output:
+
+    length     expanded size   cdr  WAVE problems filename
+     1:57.38       20728220    ---   --   ---xx   marked-aug86-d1t01.flac
+     3:59.28       42225500    ---   --   ---xx   marked-aug86-d1t02.flac
+     5:44.60       60822764    ---   --   ---xx   marked-aug86-d1t03.flac
+     2:58.32       31474508    ---   --   ---xx   marked-aug86-d1t04.flac
+     4:17.32       45410108    ---   --   ---xx   marked-aug86-d1t05.flac
+     2:17.03       24173900    ---   --   ---xx   marked-aug86-d1t06.flac
+     3:49.62       40541468    ---   --   ---xx   marked-aug86-d1t07.flac
+     4:48.05       50815004    ---   --   ---xx   marked-aug86-d1t08.flac
+     2:50.09       30009212    ---   --   ---xx   marked-aug86-d1t09.flac
+     4:08.17       43787228    ---   --   ---xx   marked-aug86-d1t10.flac
+     1:43.55       18298604    ---   --   ---xx   marked-aug86-d1t11.flac
+     3:20.04       35289452    ---   --   ---xx   marked-aug86-d1t12.flac
+     3:31.64       37370972    ---   --   ---xx   marked-aug86-d1t13.flac
+     4:56.20       52261484    ---   --   ---xx   marked-aug86-d2t01.flac
+     2:24.52       25523948    ---   --   ---xx   marked-aug86-d2t02.flac
+     3:34.35       37831964    ---   --   ---xx   marked-aug86-d2t03.flac
+     3:11.16       33730076    ---   --   ---xx   marked-aug86-d2t04.flac
+     3:45.68       39849980    ---   --   ---xx   marked-aug86-d2t05.flac
+     5:58.45       63257084    ---   --   ---xx   marked-aug86-d2t06.flac
+     1:42.11       18018716    ---   --   ---xx   marked-aug86-d2t07.flac
+     5:44.27       60745148    ---   --   ---xx   marked-aug86-d2t08.flac
+     2:47.41       29555276    ---   --   ---xx   marked-aug86-d2t09.flac
+     2:39.23       28101740    ---   --   ---xx   marked-aug86-d2t10.flac
+     6:31.72       69141788    ---   --   ---xx   marked-aug86-d2t11.flac
+     3:40.68       38967980    ---   --   ---xx   marked-aug86-d2t12.flac
+    92:23.62      977932124 B                     (totals for 25 files, 0.4970 overall compression ratio)
+
+e7437e36165e63ad005469620d6abe29  [shntool]  marked-aug86-d1t01.flac
+4b58f6d38a14a194c0f7f886700c329d  [shntool]  marked-aug86-d1t02.flac
+398e868066f1548d0ed87e1759f86f50  [shntool]  marked-aug86-d1t03.flac
+df69d535280bd088e1cee529fb27c953  [shntool]  marked-aug86-d1t04.flac
+656717e893ec3411ca3cbd514c99e5a9  [shntool]  marked-aug86-d1t05.flac
+8a541ea365e753dbe0c0eb4fda123ebe  [shntool]  marked-aug86-d1t06.flac
+ee2dc463942ae9756dd91a6dde736fbf  [shntool]  marked-aug86-d1t07.flac
+81b97be5f7205063b8a168ca3dba45fe  [shntool]  marked-aug86-d1t08.flac
+850b00b0a4d8a277b0625c5ac7ed2a12  [shntool]  marked-aug86-d1t09.flac
+79fddb4d8d1a244575a1ef0a428ef871  [shntool]  marked-aug86-d1t10.flac
+c0f8e552a8aeab778f7b181e546f9cc9  [shntool]  marked-aug86-d1t11.flac
+5af3ef5d7d430639d1aee58f4da91ab2  [shntool]  marked-aug86-d1t12.flac
+b8954d8d74fd7d33fffd036fee8a7a28  [shntool]  marked-aug86-d1t13.flac
+eda90d19a2c4dc1d1cb7a882c3914cf4  [shntool]  marked-aug86-d2t01.flac
+d35c11d5419c31266fb4a7952ae3ca4c  [shntool]  marked-aug86-d2t02.flac
+90e0cff011018a0be1c63f8518748cae  [shntool]  marked-aug86-d2t03.flac
+0791ff9727ec041ac3f8c0917ee544b3  [shntool]  marked-aug86-d2t04.flac
+2f2253052e3071109dda7ebff7c2904b  [shntool]  marked-aug86-d2t05.flac
+465bd891411b09f7c8ce33e64808b771  [shntool]  marked-aug86-d2t06.flac
+eb91e2146e653e985250de91cc070c44  [shntool]  marked-aug86-d2t07.flac
+2c780bc4f44b7004ed2038ddcadee97a  [shntool]  marked-aug86-d2t08.flac
+8e301b97ffe48f1f4e11641b2b418288  [shntool]  marked-aug86-d2t09.flac
+1ff9da6f5bae2b58e7913f22933414eb  [shntool]  marked-aug86-d2t10.flac
+bff3b833ad4ea8f2edd91a8e5963a5dd  [shntool]  marked-aug86-d2t11.flac
+348ae6f94ce0966ec9a18a0f0c092ec7  [shntool]  marked-aug86-d2t12.flac

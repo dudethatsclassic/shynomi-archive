@@ -1,0 +1,31 @@
+The Marked - Music Videos
+=========================
+This transfer is from a VHS tape I got from Ron Roesing via Ebay. The picture
+quality is an improvement over the versions currently circulating from the
+Psycho Tape. Unfortunately, the chroma signal isn't present for the first couple
+seconds of each music video. This is an issue with the initial creation of the
+tape, not the transfer.
+
+I have synced audio tracks from the circulating "The Marked Live/Demo Oct '86"
+tape as the audio is the same, but of far superior quality. The original VHS
+audio is included as the second audio track.
+
+Track Listing
+================
+01 - Scary Neurotic Song
+02 - The Trance
+
+Lineage
+=======
+Transfer: ??? > NTSC SP VHS Unknown Generation > Panasonic AG-7350 >
+          Datavideo TBC-1000 > Blackmagic Intensity Pro > FFMPEG > MJPEG Tools > 
+          DVDAuthor > NTSC DVD
+
+   Video: NTSC; 4:3; 720x480; 6700kbps CBR; YUV4:2:0; Top Field First Interlaced
+Audio #1: LPCM 1536kbps "The Marked Live/Demo Oct '86" Synced
+Audio #2: LPCM 1536kbps Original Audio
+
+
+Enjoy
+
+- magikarp99
