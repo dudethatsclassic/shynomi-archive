@@ -1,0 +1,59 @@
+Ben Folds
+Preservation Hall Mayo Civic Center
+Rochester MN
+May 7, 2025
+
+Audience recording
+
+iPhone Voice Memos lossless (16 bit/48 kHz) -> dbPoweramp -> Wave -> Audcity (editing, labeling, splitting) -> dbPoweramp -> FLAC
+
+01 So There
+02 Annie Waits
+03 Don't Change Your Plans
+04 Eddie Walker
+05 Fred Jones Part 2
+06 Capable of Anything
+07 Boxing
+08 Sentimental Guy
+09 Fragile
+10 Philosophy
+11 Still Fighting It
+12 Kristine From the 7th Grade
+13 Gracie
+14 Landed
+15 Kate
+16 You Don't Know Me
+17 Zak and Sara
+18 Army
+
+Notes:
+Long time trader, first time taper.
+
+I realized that we were sitting first row balcony, close to center, and with great line of sight to the speakers. So I hung my phone over the edge of the balcony and gave it a shot. Except the occasion sound of people hitting the balcony (which could probably be edited by someone who knows what they are doing), I think it sounds pretty good. The hall in general sounded amazing, so I think it translates to the recording.
+
+This is in appreciation for all of the tapers, their efforts, and experience that will never have.
+
+ApSCo Microware Recording ApS001
+
+For trading only. Don't share in MP3 or any other lossy media.
+
+--
+
+7ebd2929060c244ad64675e5a7dfa2a2 *01 So There.flac
+18f93e5e11738bc94f88a1d259d458e6 *02 Annie Waits.flac
+6c0e7d54fd49ba5de26875f944a80802 *03 Don't Change Your Plans.flac
+b4a18c2a2f225e8c7e4e4cdcea4c42d2 *04 Eddie Walker.flac
+4909d1a46b8f67f682f4171b735559e3 *05 Fred Jones Part 2.flac
+330b263db759b263dd256afcfcd10a56 *06 Capable of Anything.flac
+7a14630295032bb7e3e8b0698d44497d *07 Boxing.flac
+fd4bb71bf41ef42044f679d165fd9955 *08 Sentimental Guy.flac
+d8f192976b9614b831cc6e5b94a495a2 *09 Fragile.flac
+39411bc334482972fec9abbfcd82c039 *10 Philosophy.flac
+93cb0bbe9075c9ee3c4858c8a0feacbd *11 Still Fighting It.flac
+32399f536e1bbd916a683909c8e42664 *12 Kristine From the 7th Grade.flac
+2cce272208ffb793188adab004dc8fb3 *13 Gracie.flac
+cb495ef24502c000a40feaca609be169 *14 Landed.flac
+6b50ef5265cd26af7d5a57fce7fd0c8c *15 Kate.flac
+b5f6f3d1242630b7128c90f81516f7dc *16 You Don't Know Me.flac
+ff71f02dd2c55718313577d5ebd626a9 *17 Zak and Sara.flac
+a0478777fe505750f94faf4ff4a2a2d6 *18 Army.flac
