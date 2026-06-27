@@ -800,7 +800,7 @@ const ARTISTS = [
   {
     "id": "failure",
     "name": "Failure",
-    "showCount": 37,
+    "showCount": 39,
     "firstYear": 1994,
     "lastYear": 2026
   },
