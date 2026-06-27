@@ -18,10 +18,11 @@ const ARTIST_DATA = {
       "state": "OH",
       "location": "Cincinnati, OH",
       "venue": "Cincinnati Music Hall",
+      "notes": "Schoeps MK4 · funk it blog",
       "version": "AUD",
       "format": "FLAC 24",
-      "notes": "Schoeps MK4 \u00b7 funk it blog",
       "textFile": "2025-11-13 - Cincinnati, OH - Cincinnati Music Hall (Schoeps MK4) (funk it blog) [AUD24].txt"
     }
-  ]
+  ],
+  "misc": []
 };
