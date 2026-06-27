@@ -27,10 +27,9 @@ const ARTIST_DATA = {
       "state": "WI",
       "location": "Milwaukee, WI",
       "venue": "Pabst Theater",
-      "notes": "Sony ICD-SX70 \u00b7 unk",
+      "notes": "Sony ICD-SX70 · unk",
       "version": "AUD",
-      "format": "FLAC",
-      "textFile": "2015-02-21 - Milwaukee,WI - Pabst Theater [AUD].txt"
+      "format": "FLAC"
     },
     {
       "year": 2016,
@@ -43,8 +42,7 @@ const ARTIST_DATA = {
       "venue": "Riverside Theater",
       "notes": "Sony ICD-SX70",
       "version": "AUD",
-      "format": "FLAC",
-      "textFile": "2016-03-03 - Milwaukee, WI - Riverside Theater [AUD].txt"
+      "format": "FLAC"
     },
     {
       "year": 2016,
@@ -57,8 +55,7 @@ const ARTIST_DATA = {
       "venue": "Country to Country Festival",
       "notes": "",
       "version": "FM",
-      "format": "FLAC",
-      "textFile": "2016-03-13 - London, UK - Country to Country Festival [FM].txt"
+      "format": "FLAC"
     },
     {
       "year": 2018,
@@ -71,8 +68,7 @@ const ARTIST_DATA = {
       "venue": "Country to Country",
       "notes": "",
       "version": "FM",
-      "format": "FLAC",
-      "textFile": "2018-03-10 - London, UK - Country to Country (BBC) [FM].txt"
+      "format": "FLAC"
     },
     {
       "year": 2018,
@@ -85,8 +81,7 @@ const ARTIST_DATA = {
       "venue": "Austin City Limits",
       "notes": "",
       "version": "TV",
-      "format": "TS",
-      "textFile": "2018-06-06 - Austin, TX - Austin City Limits [TS].txt"
+      "format": "TS"
     },
     {
       "year": 2018,
@@ -99,8 +94,7 @@ const ARTIST_DATA = {
       "venue": "Fuji Rock Festival",
       "notes": "indykid",
       "version": "Webcast",
-      "format": "TS",
-      "textFile": "2018-07-29 - Yuzawa, Japan - Fuji Rock Festival [TS].txt"
+      "format": "TS"
     },
     {
       "year": 2018,
@@ -113,8 +107,7 @@ const ARTIST_DATA = {
       "venue": "Xfinity Theatre",
       "notes": "indykid",
       "version": "Webcast",
-      "format": "TS",
-      "textFile": "2018-09-22 - Hartford, CT - Farm Aid 33 [TS].txt"
+      "format": "TS"
     },
     {
       "year": 2018,
@@ -125,10 +118,9 @@ const ARTIST_DATA = {
       "state": "Denmark",
       "location": "Copenhagen, Denmark",
       "venue": "Vega",
-      "notes": "CA-14 \u00b7 unk",
+      "notes": "CA-14 · unk",
       "version": "AUD",
-      "format": "FLAC",
-      "textFile": "2018-10-15 - Copenhagen, Denmark - Vega [AUD].txt"
+      "format": "FLAC"
     },
     {
       "year": 2019,
@@ -139,10 +131,9 @@ const ARTIST_DATA = {
       "state": "D.C.",
       "location": "Washingon, D.C.",
       "venue": "The Anthem",
-      "notes": "CA-11 \u00b7 opsopcopolis",
+      "notes": "CA-11 · opsopcopolis",
       "version": "AUD",
-      "format": "FLAC",
-      "textFile": "2019-01-24 - Washington, DC - The Anthem [AUD].txt"
+      "format": "FLAC"
     },
     {
       "year": 2019,
@@ -153,10 +144,9 @@ const ARTIST_DATA = {
       "state": "OH",
       "location": "Columbus, OH",
       "venue": "Express Live",
-      "notes": "AT853 \u00b7 charles dewey cole",
+      "notes": "AT853 · charles dewey cole",
       "version": "AUD",
-      "format": "FLAC",
-      "textFile": "2019-01-29 - Columbus, OH - Express Live [AUD].txt"
+      "format": "FLAC"
     },
     {
       "year": 2019,
@@ -169,8 +159,7 @@ const ARTIST_DATA = {
       "venue": "61st Annual Grammy Awards",
       "notes": "Dolly",
       "version": "TV",
-      "format": "TS",
-      "textFile": "2019-02-10 - Los Angeles, CA - Dolly Parton Tribute - Grammys HDTV [TV].txt"
+      "format": "TS"
     },
     {
       "year": 2019,
@@ -181,10 +170,9 @@ const ARTIST_DATA = {
       "state": "TN",
       "location": "Nashville, TN",
       "venue": "Ryman Auditorium",
-      "notes": "SP-CMC-8 \u00b7 unk",
+      "notes": "SP-CMC-8 · unk",
       "version": "AUD",
-      "format": "FLAC",
-      "textFile": "2019-02-28 - Nashville, TN - Ryman Auditorium [AUD].txt"
+      "format": "FLAC"
     },
     {
       "year": 2019,
@@ -197,8 +185,7 @@ const ARTIST_DATA = {
       "venue": "Coachella Festival",
       "notes": "indykid",
       "version": "Webcast",
-      "format": "TS",
-      "textFile": "2019-04-12 - Indio, CA - Coachella, Empire Polo Grounds [TS].txt"
+      "format": "TS"
     },
     {
       "year": 2019,
@@ -209,10 +196,9 @@ const ARTIST_DATA = {
       "state": "Australia",
       "location": "Melbourne, Australia",
       "venue": "Palais Theatre",
-      "notes": "Nokia Lumia 930 \u00b7 eckythump",
+      "notes": "Nokia Lumia 930 · eckythump",
       "version": "AUD",
-      "format": "FLAC",
-      "textFile": "2019-05-14 - Melbourne, Australia - Palais Theatre [AUD].txt"
+      "format": "FLAC"
     },
     {
       "year": 2019,
@@ -223,10 +209,9 @@ const ARTIST_DATA = {
       "state": "IL",
       "location": "Chicago, IL",
       "venue": "Grant Park",
-      "notes": "Lollapalooza \u00b7 indykid",
+      "notes": "Lollapalooza · indykid",
       "version": "Webcast",
-      "format": "TS",
-      "textFile": "2019-08-04 - Chicago, IL - Lollapalooza [TS].txt"
+      "format": "TS"
     },
     {
       "year": 2019,
@@ -237,10 +222,9 @@ const ARTIST_DATA = {
       "state": "OH",
       "location": "Cleveland, OH",
       "venue": "Jacob's Pavilion at Nautica",
-      "notes": "CA-14 \u00b7 charles dewey cole",
+      "notes": "CA-14 · charles dewey cole",
       "version": "AUD",
-      "format": "FLAC",
-      "textFile": "2019-09-06 - Cleveland, OH - Jacob's Pavilion at Nautica [AUD].txt"
+      "format": "FLAC"
     },
     {
       "year": 2019,
@@ -251,10 +235,9 @@ const ARTIST_DATA = {
       "state": "NY",
       "location": "New York, NY",
       "venue": "Radio City Music Hall",
-      "notes": "CA-14 \u00b7 larryrulz",
+      "notes": "CA-14 · larryrulz",
       "version": "AUD",
-      "format": "FLAC",
-      "textFile": "2019-10-15 - New York, NY - Radio City Music Hall [AUD].txt"
+      "format": "FLAC"
     },
     {
       "year": 2021,
@@ -265,10 +248,9 @@ const ARTIST_DATA = {
       "state": "NY",
       "location": "New York, NY",
       "venue": "NBC Studios",
-      "notes": "Saturday \u00b7 HD Cable",
+      "notes": "Saturday · HD Cable",
       "version": "TV",
-      "format": "TS",
-      "textFile": "2021-10-02 - New York, NY - NBC Studios - Saturday Night Live (HD Cable) [TS].txt"
+      "format": "TS"
     },
     {
       "year": 2022,
@@ -279,10 +261,9 @@ const ARTIST_DATA = {
       "state": "PA",
       "location": "Philadelphia, PA",
       "venue": "Wells Fargo Center",
-      "notes": "Schoeps MK41 \u00b7 joe burns",
+      "notes": "Schoeps MK41 · joe burns",
       "version": "AUD",
-      "format": "FLAC",
-      "textFile": "2022-01-26 - Philadelphia, PA - Wells Fargo Center (Schoeps MK41) (joe burns) [AUD].txt"
+      "format": "FLAC"
     },
     {
       "year": 2022,
@@ -295,8 +276,7 @@ const ARTIST_DATA = {
       "venue": "Glastonbury Festival",
       "notes": "ex-cowboy",
       "version": "Webcast",
-      "format": "MP4",
-      "textFile": "2022-06-26 - Pilton, UK - Glastonbury Festival (ex-cowboy) [WEBCAST].txt"
+      "format": "MP4"
     },
     {
       "year": 2022,
@@ -307,10 +287,9 @@ const ARTIST_DATA = {
       "state": "Denmark",
       "location": "Roskilde, Denmark",
       "venue": "Roskilde Festival",
-      "notes": "CA-14s \u00b7 unk",
+      "notes": "CA-14s · unk",
       "version": "AUD",
-      "format": "FLAC",
-      "textFile": "2022-06-30 - Roskilde, Denmark - Roskilde Festival (CA-14s) (unk) [AUD].txt"
+      "format": "FLAC"
     },
     {
       "year": 2023,
@@ -323,8 +302,7 @@ const ARTIST_DATA = {
       "venue": "Crypto.com Arena",
       "notes": "The",
       "version": "TV",
-      "format": "TS",
-      "textFile": "2023-02-05 - Los Angeles, CA - Crypto.com Arena - The Grammys [TV].txt"
+      "format": "TS"
     },
     {
       "year": 2024,
@@ -337,8 +315,7 @@ const ARTIST_DATA = {
       "venue": "NBC Studios",
       "notes": "SNL",
       "version": "TV",
-      "format": "TS",
-      "textFile": "2024-03-02 - New York, NY - NBC Studios - SNL [TV].txt"
+      "format": "TS"
     },
     {
       "year": 2024,
@@ -351,8 +328,7 @@ const ARTIST_DATA = {
       "venue": "Austin City Limits",
       "notes": "unk",
       "version": "TV",
-      "format": "TS",
-      "textFile": "2024-06-03 - Austin, TX - Austin City Limits (unk) [TS].txt"
+      "format": "TS"
     },
     {
       "year": 2024,
@@ -363,10 +339,9 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "Inglewood, CA",
       "venue": "Kia Forum",
-      "notes": "SP-CMC-4U \u00b7 ijwthstd",
+      "notes": "SP-CMC-4U · ijwthstd",
       "version": "AUD",
-      "format": "FLAC",
-      "textFile": "2024-10-03 - Inglewood, CA - Kia Forum (SP-CMC-4U) (ijwthstd) [AUD].txt"
+      "format": "FLAC"
     },
     {
       "year": 2024,
@@ -377,10 +352,9 @@ const ARTIST_DATA = {
       "state": "OH",
       "location": "Columbus, OH",
       "venue": "Schottenstein Center",
-      "notes": "SP-CMC-8 \u00b7 live2cd",
+      "notes": "SP-CMC-8 · live2cd",
       "version": "AUD",
-      "format": "FLAC",
-      "textFile": "2024-11-13 - Columbus, OH - Schottenstein Center (SP-CMC-8) (live2cd) [AUD].txt"
+      "format": "FLAC"
     },
     {
       "year": 2024,
@@ -391,10 +365,9 @@ const ARTIST_DATA = {
       "state": "NY",
       "location": "Brooklyn, NY",
       "venue": "Barclays Center",
-      "notes": "CA-11 \u00b7 larryrulz",
+      "notes": "CA-11 · larryrulz",
       "version": "AUD",
-      "format": "FLAC",
-      "textFile": "2024-11-15 - Brooklyn, NY - Barclays Center (CA-11) (larryrulz) [AUD].txt"
+      "format": "FLAC"
     },
     {
       "year": 2025,
@@ -405,10 +378,9 @@ const ARTIST_DATA = {
       "state": "Australia",
       "location": "Melbourne, Australia",
       "venue": "Palais Theatre",
-      "notes": "Nokia Lumia 930 \u00b7 eckythump",
+      "notes": "Nokia Lumia 930 · eckythump",
       "version": "AUD",
-      "format": "FLAC",
-      "textFile": "2025-11-26 - Melbourne, Australia - Palais Theatre (Nokia Lumia 930) (eckythump) [AUD] .txt"
+      "format": "FLAC"
     },
     {
       "year": 2026,
@@ -421,8 +393,7 @@ const ARTIST_DATA = {
       "venue": "Coachella Festival",
       "notes": "1080p VP9",
       "version": "PRO",
-      "format": "MKV",
-      "textFile": "2026-04-18 - Indio, CA - Coachella Festival  (1080p VP9) [PRO].txt"
+      "format": "MKV"
     }
   ],
   "misc": []
