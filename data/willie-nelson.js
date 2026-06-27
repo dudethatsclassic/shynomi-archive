@@ -21,8 +21,7 @@ const ARTIST_DATA = {
       "venue": "Panther Hall",
       "notes": "",
       "version": "SBD",
-      "format": "SHN",
-      "textFile": "1975-02-26 - Fort Worth, Texas - Panther Hall [SBD].txt"
+      "format": "SHN"
     },
     {
       "year": 2000,
@@ -35,8 +34,7 @@ const ARTIST_DATA = {
       "venue": "Paradiso Theater",
       "notes": "",
       "version": "Silver CD",
-      "format": "FLAC",
-      "textFile": "2000-06-07 - Amsterdam, Holland - Paradiso Theater [SBD].txt"
+      "format": "FLAC"
     }
   ],
   "misc": []
