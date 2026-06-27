@@ -36,8 +36,7 @@ const ARTIST_DATA = {
       "venue": "Finjin Club",
       "notes": "",
       "version": "SBD",
-      "format": "FLAC",
-      "textFile": "1962-07-02 - Montreal, Canada - Finjin Club [SBD].txt"
+      "format": "FLAC"
     },
     {
       "year": 1963,
@@ -50,8 +49,7 @@ const ARTIST_DATA = {
       "venue": "",
       "notes": "",
       "version": "",
-      "format": "FLAC",
-      "textFile": "1963-10-26 - Bob Dylan - Live at Carnegie Hall In Concert (Unreleased CBS Album) [STUDIO].flac.txt"
+      "format": "FLAC"
     },
     {
       "year": 1965,
@@ -64,8 +62,7 @@ const ARTIST_DATA = {
       "venue": "Free Trade Hall *Now Ain't the Time for Your Tears",
       "notes": "",
       "version": "SBD",
-      "format": "FLAC",
-      "textFile": "1965-05-07 - Manchester, England - Free Trade Hall - Now Ain't the Time for Your Tears [SBD].txt"
+      "format": "FLAC"
     },
     {
       "year": 1965,
@@ -78,8 +75,7 @@ const ARTIST_DATA = {
       "venue": "BBC Studios",
       "notes": "",
       "version": "Broadcast",
-      "format": "FLAC",
-      "textFile": "1965-06-01 - London UK - BBC Studios [FM].txt"
+      "format": "FLAC"
     },
     {
       "year": 1965,
@@ -92,8 +88,7 @@ const ARTIST_DATA = {
       "venue": "Hollywood Bowl",
       "notes": "",
       "version": "SBD",
-      "format": "FLAC",
-      "textFile": "1965-09-03 - Los Angeles, CA - Hollywood Bowl [SBD].txt"
+      "format": "FLAC"
     },
     {
       "year": 1965,
@@ -106,8 +101,7 @@ const ARTIST_DATA = {
       "venue": "Bushnell Memorial Hall",
       "notes": "",
       "version": "AUD",
-      "format": "FLAC",
-      "textFile": "1965-10-30 - Hartford, CT - Bushnell Memorial Hall [SBD].txt"
+      "format": "FLAC"
     },
     {
       "year": 1966,
@@ -120,8 +114,7 @@ const ARTIST_DATA = {
       "venue": "Sydney Australia *Genuine Live 1966",
       "notes": "",
       "version": "SBD",
-      "format": "FLAC",
-      "textFile": "1966-04-13 - Sydney, Australia - Sydney Stadium - Genuine Live 1966  [SBD].flac.txt"
+      "format": "FLAC"
     },
     {
       "year": 1966,
@@ -147,8 +140,7 @@ const ARTIST_DATA = {
       "venue": "",
       "notes": "",
       "version": "",
-      "format": "FLAC",
-      "textFile": "1969-08-31 - Live at the Isle Of Wight - Mighty Mockingbird [SBD].txt"
+      "format": "FLAC"
     },
     {
       "year": 1970,
@@ -174,8 +166,7 @@ const ARTIST_DATA = {
       "venue": "Columbia Studios",
       "notes": "NASH 105",
       "version": "Silver CD",
-      "format": "FLAC",
-      "textFile": "1970-05-01 - Nashville, TN - Columbia Studios [SBD].txt"
+      "format": "FLAC"
     },
     {
       "year": 1974,
@@ -188,8 +179,7 @@ const ARTIST_DATA = {
       "venue": "Chicago Stadium",
       "notes": "",
       "version": "AUD",
-      "format": "FLAC",
-      "textFile": "1974-01-04 - Chicago, IL - Chicago Stadium [AUD].txt"
+      "format": "FLAC"
     },
     {
       "year": 1974,
@@ -202,8 +192,7 @@ const ARTIST_DATA = {
       "venue": "The Spectrum",
       "notes": "",
       "version": "AUD",
-      "format": "FLAC",
-      "textFile": "1974-01-06 - Philadelphia, PA - The Spectrum [AUD].txt"
+      "format": "FLAC"
     },
     {
       "year": 1974,
@@ -216,8 +205,7 @@ const ARTIST_DATA = {
       "venue": "The Spectrum",
       "notes": "",
       "version": "AUD",
-      "format": "FLAC",
-      "textFile": "1974-01-07 - Philadelphia, PA - The Spectrum [AUD].txt"
+      "format": "FLAC"
     },
     {
       "year": 1974,
@@ -230,8 +218,7 @@ const ARTIST_DATA = {
       "venue": "Maple Leaf Gardens",
       "notes": "",
       "version": "AUD",
-      "format": "FLAC",
-      "textFile": "1974-01-09 - Toronto, Ontario - Maple Leaf Gardens [AUD].txt"
+      "format": "FLAC"
     },
     {
       "year": 1974,
@@ -257,8 +244,7 @@ const ARTIST_DATA = {
       "venue": "Boston Music Hall",
       "notes": "Late show",
       "version": "SBD",
-      "format": "FLAC",
-      "textFile": "1975-11-21 - Boston, MA - Boston Music Hall (Late show) [SBD].flac.txt"
+      "format": "FLAC"
     },
     {
       "year": 1976,
@@ -269,10 +255,9 @@ const ARTIST_DATA = {
       "state": "TX",
       "location": "San Antonio, TX",
       "venue": "Municipal Auditorium",
-      "notes": "inc \u00b7 dolphinsmile",
+      "notes": "inc · dolphinsmile",
       "version": "SBD",
-      "format": "FLAC",
-      "textFile": "1976-05-11 - San Antonio, TX - Municipal Auditorium (inc) (dolphinsmile) [SBD].txt"
+      "format": "FLAC"
     },
     {
       "year": 1976,
@@ -285,8 +270,7 @@ const ARTIST_DATA = {
       "venue": "TCCC *Hold the Fort",
       "notes": "",
       "version": "SBD",
-      "format": "FLAC",
-      "textFile": "1976-05-16 - Fort Worth, TX - TCCC - Hold the Fort [SBD].txt"
+      "format": "FLAC"
     },
     {
       "year": 1978,
@@ -299,8 +283,7 @@ const ARTIST_DATA = {
       "venue": "University of WA *Live at the Pitstop 78",
       "notes": "",
       "version": "Silver CD",
-      "format": "FLAC",
-      "textFile": "1978-11-10 - Seattle, WA - University of WA - Live at the Pitstop 78 [Silver].txt"
+      "format": "FLAC"
     },
     {
       "year": 1980,
@@ -313,8 +296,7 @@ const ARTIST_DATA = {
       "venue": "Les Kokay",
       "notes": "LB-7445",
       "version": "AUD",
-      "format": "FLAC",
-      "textFile": "1980-11-15 - San Francisco, CA - Les Kokay (LB-7445) [AUD].txt"
+      "format": "FLAC"
     },
     {
       "year": 1986,
@@ -327,8 +309,7 @@ const ARTIST_DATA = {
       "venue": "Madison Square Garden",
       "notes": "with Tom Petty",
       "version": "AUD",
-      "format": "FLAC",
-      "textFile": "1986-07-16 - New York, NY - Madison Square Garden (With Tom Petty)  LB-112 [AUD].txt"
+      "format": "FLAC"
     },
     {
       "year": 1989,
@@ -341,8 +322,7 @@ const ARTIST_DATA = {
       "venue": "Howard C. Baldwin Memorial Pavilion",
       "notes": "dolphinsmile",
       "version": "AUD",
-      "format": "FLAC",
-      "textFile": "1989-07-05 - Rochester Hills, MI - Howard C. Baldwin Memorial Pavilion (Sony D6) (dolphinsmile) [AUD].txt"
+      "format": "FLAC"
     },
     {
       "year": 1993,
@@ -355,8 +335,7 @@ const ARTIST_DATA = {
       "venue": "Canadien National Exhibition Grandstand",
       "notes": "",
       "version": "AUD",
-      "format": "FLAC 24",
-      "textFile": "1993-09-02 - Toronto, ON - Canadien National Exhibition Grandstand [AUD].txt"
+      "format": "FLAC 24"
     },
     {
       "year": 1993,
@@ -369,8 +348,7 @@ const ARTIST_DATA = {
       "venue": "Sports Arena",
       "notes": "",
       "version": "AUD",
-      "format": "FLAC",
-      "textFile": "1993-10-03 - San Diego, CA - Sports Arena [AUD].txt"
+      "format": "FLAC"
     },
     {
       "year": 1994,
@@ -383,8 +361,7 @@ const ARTIST_DATA = {
       "venue": "Woodstock 94",
       "notes": "JTT",
       "version": "Silver CD",
-      "format": "FLAC",
-      "textFile": "1994-08-14- Saugerties, NY - Woodstock 94 (Uncirculated Rip) (JTT) [Silver].txt"
+      "format": "FLAC"
     },
     {
       "year": 1995,
@@ -397,8 +374,7 @@ const ARTIST_DATA = {
       "venue": "Stadthalle",
       "notes": "",
       "version": "AUD",
-      "format": "FLAC",
-      "textFile": "1995-03-14 - Fuerth, Germany - Stadthalle [AUD].txt"
+      "format": "FLAC"
     },
     {
       "year": 2019,
@@ -409,10 +385,9 @@ const ARTIST_DATA = {
       "state": "CA",
       "location": "Palo Alto, CA",
       "venue": "Stanford University",
-      "notes": "Frost \u00b7 hurricane",
+      "notes": "Frost · hurricane",
       "version": "AUD",
-      "format": "FLAC",
-      "textFile": "2019-10-14 - Palo Alto, CA - Stanford University - Frost Amphitheatre [AUD].txt"
+      "format": "FLAC"
     }
   ],
   "misc": [
