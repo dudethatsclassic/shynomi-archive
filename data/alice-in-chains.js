@@ -209,7 +209,7 @@ const ARTIST_DATA = {
       "notes": "",
       "version": "FM",
       "format": "FLAC",
-      "textFile": "1990-09-15 - Los Angeles, CA - Sheraton La Reina - Sunshine [Silver].txt"
+      "textFile": "1990-09-15 - Los Angeles, CA - Sheraton La Reina - Happier Than Snot [FM].txt"
     },
     {
       "year": 1990,
@@ -222,7 +222,8 @@ const ARTIST_DATA = {
       "venue": "Sheraton La Reina *Sunshine",
       "notes": "",
       "version": "Silver CD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1990-09-15 - Los Angeles, CA - Sheraton La Reina - Sunshine [Silver].txt"
     },
     {
       "year": 1990,
@@ -387,7 +388,7 @@ const ARTIST_DATA = {
       "notes": "unk \u00b7 koondog",
       "version": "AUD",
       "format": "FLAC",
-      "textFile": "1991-03-16 - Saarbruken, Germany - Sporthalle [AUD].txt"
+      "textFile": "1991-03-16 - Saarbrucken, Germany - Saarlandhalle (2nd Gen) [AUD].txt"
     },
     {
       "year": 1991,
@@ -400,7 +401,8 @@ const ARTIST_DATA = {
       "venue": "Sporthalle",
       "notes": "unk",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1991-03-16 - Saarbruken, Germany - Sporthalle [AUD].txt"
     },
     {
       "year": 1991,
@@ -652,7 +654,7 @@ const ARTIST_DATA = {
       "notes": "",
       "version": "SBD",
       "format": "FLAC",
-      "textFile": "1991-10-06 - Hollywood, CA - The Palladium [SBD].txt"
+      "textFile": "1991-10-06 - Hollywood, CA - The Palladium (exene remaster) [preFM].txt"
     },
     {
       "year": 1991,
@@ -665,7 +667,8 @@ const ARTIST_DATA = {
       "venue": "The Palladium",
       "notes": "exene remaster",
       "version": "SBD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1991-10-06 - Hollywood, CA - The Palladium [SBD].txt"
     },
     {
       "year": 1991,
@@ -833,7 +836,7 @@ const ARTIST_DATA = {
       "notes": "8MM(M) \u00b7 Sony TRV-740 \u00b7 unk",
       "version": "AUD",
       "format": "DVD",
-      "textFile": "1992-10-15 - Paris, France - Elysee Montmartre [AUD].txt"
+      "textFile": "1992-10-15 - Hollywood, CA - Hollywood Palladium - 8MM(M) [DVD].txt"
     },
     {
       "year": 1992,
@@ -846,7 +849,8 @@ const ARTIST_DATA = {
       "venue": "Hollywood Palladium",
       "notes": "Aiwa CM30a \u00b7 stephane",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1992-10-15 - Paris, France - Elysee Montmartre [AUD].txt"
     },
     {
       "year": 1992,
@@ -901,7 +905,7 @@ const ARTIST_DATA = {
       "notes": "unk",
       "version": "AUD",
       "format": "FLAC",
-      "textFile": "1992-11-20 - Charlotte, NC - 13.13 Club [AUD].txt"
+      "textFile": "1992-11-20 - Charlotte, NC - 13.13 Club (unk) [AUD].txt"
     },
     {
       "year": 1992,
@@ -914,7 +918,8 @@ const ARTIST_DATA = {
       "venue": "13.13 Club",
       "notes": "Sony WMD3 \u00b7 doodee music",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1992-11-20 - Charlotte, NC - 13.13 Club [AUD].txt"
     },
     {
       "year": 1992,
@@ -984,7 +989,7 @@ const ARTIST_DATA = {
       "notes": "",
       "version": "Silver CD",
       "format": "FLAC",
-      "textFile": "1992-11-29 - Toronto, Ontario - The Phoenix - Life In Chains [Silver].txt"
+      "textFile": "1992-11-29 - Toronto, Ontario - The Phoenix - I Am Firegod [Silver].txt"
     },
     {
       "year": 1992,
@@ -997,7 +1002,8 @@ const ARTIST_DATA = {
       "venue": "The Phoenix *Life In Chains",
       "notes": "",
       "version": "Silver CD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1992-11-29 - Toronto, Ontario - The Phoenix - Life In Chains [Silver].txt"
     },
     {
       "year": 1992,
@@ -1193,7 +1199,7 @@ const ARTIST_DATA = {
       "notes": "",
       "version": "Silver CD",
       "format": "SHN",
-      "textFile": "1993-02-02 - Frankfurt, Germany - Them Bones [Silver].txt"
+      "textFile": "1993-02-02 - Frankfurt, Germany - Music Hall (r kohler) [AUD].txt"
     },
     {
       "year": 1993,
@@ -1206,7 +1212,8 @@ const ARTIST_DATA = {
       "venue": "",
       "notes": "",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1993-02-02 - Frankfurt, Germany - Them Bones [Silver].txt"
     },
     {
       "year": 1993,
@@ -1262,7 +1269,7 @@ const ARTIST_DATA = {
       "notes": "",
       "version": "AUD",
       "format": "FLAC",
-      "textFile": "1993-02-07 - Lund, Sweden - Mejeriet [AUD].txt"
+      "textFile": "1993-02-07 - Lund, SWE - Mejeriet (Marantz EM-8) (crazy tapes) [AUD24].txt"
     },
     {
       "year": 1993,
@@ -1275,7 +1282,8 @@ const ARTIST_DATA = {
       "venue": "Mejeriet",
       "notes": "Marantz EM-8 \u00b7 crazy tapes",
       "version": "AUD",
-      "format": "FLAC 24"
+      "format": "FLAC 24",
+      "textFile": "1993-02-07 - Lund, Sweden - Mejeriet [AUD].txt"
     },
     {
       "year": 1993,
@@ -1541,7 +1549,7 @@ const ARTIST_DATA = {
       "notes": "University \u00b7 PC-62 \u00b7 steve hagar",
       "version": "AUD",
       "format": "FLAC",
-      "textFile": "1993-04-12 - Irvine, CA - Bren Events Center @ UCI [AUD].txt"
+      "textFile": "1993-04-12 - Irvine, CA - Bren Events Center - University of CA (PC-62) (steve hagar) [AUD].txt"
     },
     {
       "year": 1993,
@@ -1554,7 +1562,8 @@ const ARTIST_DATA = {
       "venue": "Bren Events Center @ UCI",
       "notes": "DSM-6 Matrix \u00b7 andy a.",
       "version": "AUD",
-      "format": "SHN"
+      "format": "SHN",
+      "textFile": "1993-04-12 - Irvine, CA - Bren Events Center @ UCI [AUD].txt"
     },
     {
       "year": 1993,
@@ -1708,7 +1717,7 @@ const ARTIST_DATA = {
       "notes": "Lollapalooza III \u00b7 Sony D3 w/ stock mic \u00b7 koondog",
       "version": "AUD #1",
       "format": "FLAC",
-      "textFile": "1993-07-12 - Stanhope, NJ - Waterloo Village (koondog) [AUD #1].txt"
+      "textFile": "1993-07-12 - Stanhope, NJ - Waterloo Village (Lollapalooza III) [AUD].txt"
     },
     {
       "year": 1993,
@@ -1721,7 +1730,8 @@ const ARTIST_DATA = {
       "venue": "Waterloo Village (Lollapalooza III)",
       "notes": "DAT(M) \u00b7 Schoeps CMC4/MK41 \u00b7 billydee",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1993-07-12 - Stanhope, NJ - Waterloo Village (koondog) [AUD #1].txt"
     },
     {
       "year": 1993,
@@ -1735,7 +1745,7 @@ const ARTIST_DATA = {
       "notes": "Lollapalooza III \u00b7 Sony D3 \u00b7 koondog",
       "version": "AUD",
       "format": "FLAC",
-      "textFile": "1993-07-13 - Stanhope, NJ - Waterloo Village [AUD].txt"
+      "textFile": "1993-07-13 - Stanhope, NJ - Waterloo Village (Lollapalooza III) [AUD].txt"
     },
     {
       "year": 1993,
@@ -1748,7 +1758,8 @@ const ARTIST_DATA = {
       "venue": "Waterloo Village",
       "notes": "Lollapalooza III",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1993-07-13 - Stanhope, NJ - Waterloo Village [AUD].txt"
     },
     {
       "year": 1993,
@@ -1916,7 +1927,7 @@ const ARTIST_DATA = {
       "notes": "",
       "version": "AUD",
       "format": "SHN",
-      "textFile": "1993-10-23 - Osaka, Japan - IMP Hall - Swarm [AUD].txt"
+      "textFile": "1993-10-23 - Osaka, Japan - Castle Hall (remastered) [AUD].txt"
     },
     {
       "year": 1993,
@@ -1929,7 +1940,8 @@ const ARTIST_DATA = {
       "venue": "IMP Hall",
       "notes": "unk \u00b7 steve hagar",
       "version": "AUD",
-      "format": "SHN"
+      "format": "SHN",
+      "textFile": "1993-10-23 - Osaka, Japan - IMP Hall - Swarm [AUD].txt"
     },
     {
       "year": 1993,
@@ -2040,7 +2052,7 @@ const ARTIST_DATA = {
       "notes": "",
       "version": "AUD",
       "format": "FLAC",
-      "textFile": "1996-06-28 - Detroit, MI - Tiger Stadium [AUD].txt"
+      "textFile": "1996-06-28 - Detroit, MI - Tiger Stadium (Govner) [AUD].txt"
     },
     {
       "year": 1996,
@@ -2053,7 +2065,8 @@ const ARTIST_DATA = {
       "venue": "Tiger Stadium",
       "notes": "unk",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1996-06-28 - Detroit, MI - Tiger Stadium [AUD].txt"
     },
     {
       "year": 1996,
@@ -2067,7 +2080,7 @@ const ARTIST_DATA = {
       "notes": "University \u00b7 CSB \u00b7 sim",
       "version": "AUD #1",
       "format": "SHN",
-      "textFile": "1996-06-30 - Louisville, KY - Freedom Hall - University of KY [AUD2].txt"
+      "textFile": "1996-06-30 - Louisville, KY - Freedom Hall - University of KY [AUD1].txt"
     },
     {
       "year": 1996,
@@ -2080,7 +2093,8 @@ const ARTIST_DATA = {
       "venue": "Freedom Hall",
       "notes": "University \u00b7 unk",
       "version": "AUD #2",
-      "format": ""
+      "format": "",
+      "textFile": "1996-06-30 - Louisville, KY - Freedom Hall - University of KY [AUD2].txt"
     },
     {
       "year": 1996,
@@ -2304,7 +2318,7 @@ const ARTIST_DATA = {
       "notes": "unk",
       "version": "AUD",
       "format": "DVD",
-      "textFile": "2006-11-02 - New York, NY - Nokia Theater (aud) [DVD].txt"
+      "textFile": "2006-11-02 - New York, NY - Nokia Theater (Sony HC21) (team dz) [DVD].txt"
     },
     {
       "year": 2006,
@@ -2317,7 +2331,8 @@ const ARTIST_DATA = {
       "venue": "",
       "notes": "",
       "version": "AUD",
-      "format": "DVD"
+      "format": "DVD",
+      "textFile": "2006-11-02 - New York, NY - Nokia Theater (aud) [DVD].txt"
     },
     {
       "year": 2006,

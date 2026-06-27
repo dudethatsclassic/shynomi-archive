@@ -111,7 +111,7 @@ const ARTIST_DATA = {
       "notes": "Schoeps MK4 \u00b7 loughney",
       "version": "AUD",
       "format": "FLAC 24",
-      "textFile": "2024-09-04 - Mountain View, CA - Shoreline Amphitheatre (Schoeps MK4s) (tj) [AUD24].txt"
+      "textFile": "2024-09-04 - Mountain View, CA - Shoreline Amphitheatre (Schoeps MK4) (loughney) [AUD24].txt"
     },
     {
       "year": 2024,
@@ -124,7 +124,8 @@ const ARTIST_DATA = {
       "venue": "Shoreline Amphitheatre",
       "notes": "Schoeps MK4s \u00b7 tj",
       "version": "AUD",
-      "format": "FLAC 24"
+      "format": "FLAC 24",
+      "textFile": "2024-09-04 - Mountain View, CA - Shoreline Amphitheatre (Schoeps MK4s) (tj) [AUD24].txt"
     },
     {
       "year": 2025,

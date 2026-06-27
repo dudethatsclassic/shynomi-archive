@@ -68,7 +68,7 @@ const ARTIST_DATA = {
       "notes": "",
       "version": "FM",
       "format": "FLAC",
-      "textFile": "1995-07-24 - Minnepolis, MN - Fine Line Music Cafe - Going North (Moonraker 041) [Silver].txt"
+      "textFile": "1995-07-24 - Minneapolis, MN - Fine Line Music Cafe [FM].rtf"
     },
     {
       "year": 1995,
@@ -234,8 +234,7 @@ const ARTIST_DATA = {
       "venue": "Alabamahalle *Eyes Of A Child",
       "notes": "Oxygen OXY 069",
       "version": "Silver CD",
-      "format": "FLAC",
-      "textFile": "1996-04-01 - Munchen, Germany - Alabama Halle - Eyes Of A Child (Oxygen OXY 069) [Silver].txt"
+      "format": "FLAC"
     },
     {
       "year": 1996,

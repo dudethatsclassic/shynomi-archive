@@ -224,7 +224,7 @@ const ARTIST_DATA = {
       "notes": "ANA(M)",
       "version": "FM",
       "format": "FLAC",
-      "textFile": "1993-12-12 - Universal City, CA - KROQ Acoustic Xmas [FM].txt"
+      "textFile": "1993-12-12 - Universal City, CA - KROQ Acoustic Xmas - ANA(M) [FM].txt"
     },
     {
       "year": 1993,
@@ -237,7 +237,8 @@ const ARTIST_DATA = {
       "venue": "KROQ Acoustic Xmas",
       "notes": "",
       "version": "FM",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1993-12-12 - Universal City, CA - KROQ Acoustic Xmas [FM].txt"
     },
     {
       "year": 1994,
@@ -251,7 +252,7 @@ const ARTIST_DATA = {
       "notes": "IST 58",
       "version": "Silver CD",
       "format": "FLAC",
-      "textFile": "1994-08-14 - Saugerties, NY - Woodstock (Unofficial, CC Music, US 2018) [Silver].txt"
+      "textFile": "1994-08-14 - Saugerties, NY - Woodstock '94 - Eccentric [Silver].txt"
     },
     {
       "year": 1994,
@@ -264,7 +265,8 @@ const ARTIST_DATA = {
       "venue": "Woodstock",
       "notes": "Unofficial, CC Music, US 2018",
       "version": "Silver CD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1994-08-14 - Saugerties, NY - Woodstock (Unofficial, CC Music, US 2018) [Silver].txt"
     },
     {
       "year": 1995,

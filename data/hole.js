@@ -74,7 +74,7 @@ const ARTIST_DATA = {
       "notes": "",
       "version": "FM",
       "format": "MP3",
-      "textFile": "1990-10-10 - Los Angeles, CA - Club Lingerie [FM-LOSSY].txt"
+      "textFile": "1990-10-10 - Los Angeles, CA - Club Lingerie [DVD].txt"
     },
     {
       "year": 1990,
@@ -87,7 +87,8 @@ const ARTIST_DATA = {
       "venue": "Club Lingerie",
       "notes": "VHS(4)",
       "version": "PRO",
-      "format": "MKV"
+      "format": "MKV",
+      "textFile": "1990-10-10 - Los Angeles, CA - Club Lingerie [FM-LOSSY].txt"
     },
     {
       "year": 1990,
@@ -338,7 +339,7 @@ const ARTIST_DATA = {
       "notes": "Stage \u00b7 x \u00b7 unk",
       "version": "AUD #1",
       "format": "FLAC",
-      "textFile": "1991-12-12 - London, UK - University of London Union - Stage One - ANA(x) (unk) [AUD #1].txt"
+      "textFile": "1991-12-12 - London, UK - University of London Union.txt"
     },
     {
       "year": 1991,
@@ -351,7 +352,8 @@ const ARTIST_DATA = {
       "venue": "University of London Union",
       "notes": "Stage \u00b7 M \u00b7 mark b",
       "version": "AMT",
-      "format": "MKV"
+      "format": "MKV",
+      "textFile": "1991-12-12 - London, UK - University of London Union - Stage One - ANA(x) (unk) [AUD #1].txt"
     },
     {
       "year": 1991,
@@ -392,7 +394,7 @@ const ARTIST_DATA = {
       "notes": "",
       "version": "AUD",
       "format": "FLAC",
-      "textFile": "1991-12-18 - Whiskey A-Go-Go, Los Angeles, CA [AUD #1].txt"
+      "textFile": "1991-12-18 - Los Angeles, CA - Whisky A Go Go ('Pretty Please Bootleg).txt"
     },
     {
       "year": 1991,
@@ -405,7 +407,8 @@ const ARTIST_DATA = {
       "venue": "Whiskey A-Go-Go *Pretty Please",
       "notes": "CD(M)",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1991-12-18 - Whiskey A-Go-Go, Los Angeles, CA [AUD #1].txt"
     },
     {
       "year": 1993,
@@ -649,7 +652,7 @@ const ARTIST_DATA = {
       "notes": "",
       "version": "SBD #1",
       "format": "FLAC",
-      "textFile": "1994-08-26 - Reading, England - Reading Festival [Silver].txt"
+      "textFile": "1994-08-26 - Reading, England - Reading Festival [SBD #1].txt"
     },
     {
       "year": 1994,
@@ -662,7 +665,8 @@ const ARTIST_DATA = {
       "venue": "Reading Festival",
       "notes": "Upgrade",
       "version": "Silver CD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1994-08-26 - Reading, England - Reading Festival [Silver].txt"
     },
     {
       "year": 1994,
@@ -717,7 +721,7 @@ const ARTIST_DATA = {
       "notes": "CD(M)",
       "version": "AUD #1",
       "format": "FLAC",
-      "textFile": "1994-09-14 - Seattle, WA - Moore Theatre [AUD #1].txt"
+      "textFile": "1994-09-14 - Seattle, WA - Moore Theatre - Broken Babydoll [Silver].txt"
     },
     {
       "year": 1994,
@@ -730,7 +734,8 @@ const ARTIST_DATA = {
       "venue": "Moore Theatre *Broken Babydoll",
       "notes": "",
       "version": "Silver CD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1994-09-14 - Seattle, WA - Moore Theatre [AUD #1].txt"
     },
     {
       "year": 1994,
@@ -1707,7 +1712,7 @@ const ARTIST_DATA = {
       "notes": "TV-VHS(1)",
       "version": "PRO #1",
       "format": "MPG",
-      "textFile": "1999-06-26 - Munich, Germany - Southside Festival [PRO].txt"
+      "textFile": "1999-06-26 - Munich, Germany - Southside Festival [PRO #1].txt"
     },
     {
       "year": 1999,
@@ -1720,7 +1725,8 @@ const ARTIST_DATA = {
       "venue": "Southside Festival",
       "notes": "TV-VHS(1)",
       "version": "PRO #1",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1999-06-26 - Munich, Germany - Southside Festival [PRO].txt"
     },
     {
       "year": 2004,
@@ -1789,33 +1795,35 @@ const ARTIST_DATA = {
       "notes": "DV(M) \u00b7 michael albright",
       "version": "AMT #1",
       "format": "FLAC",
+      "textFile": "2010-02-17 - London, UK - Shepherd's Bush Empire [AMT #1].txt"
+    },
+    {
+      "year": 2010,
+      "month": 2,
+      "day": 17,
+      "dateStr": "2-17-2010",
+      "city": "London",
+      "state": "UK",
+      "location": "London, UK",
+      "venue": "Shepherd's Bush Empire",
+      "notes": "VID(M) \u00b7 martin donahue",
+      "version": "PRO #1",
+      "format": "FLAC",
+      "textFile": "2010-02-17 - London, UK - Shepherds Bush Empire [PRO#1].txt"
+    },
+    {
+      "year": 2010,
+      "month": 2,
+      "day": 17,
+      "dateStr": "2-17-2010",
+      "city": "London",
+      "state": "UK",
+      "location": "London, UK",
+      "venue": "Shepherd's Bush Empire",
+      "notes": "VID(M) \u00b7 martin donahue",
+      "version": "PRO #1",
+      "format": "MP4",
       "textFile": "2010-02-17 - London, United Kingdom - Shepherds Bush Empire [PRO#1].txt"
-    },
-    {
-      "year": 2010,
-      "month": 2,
-      "day": 17,
-      "dateStr": "2-17-2010",
-      "city": "London",
-      "state": "UK",
-      "location": "London, UK",
-      "venue": "Shepherd's Bush Empire",
-      "notes": "VID(M) \u00b7 martin donahue",
-      "version": "PRO #1",
-      "format": "FLAC"
-    },
-    {
-      "year": 2010,
-      "month": 2,
-      "day": 17,
-      "dateStr": "2-17-2010",
-      "city": "London",
-      "state": "UK",
-      "location": "London, UK",
-      "venue": "Shepherd's Bush Empire",
-      "notes": "VID(M) \u00b7 martin donahue",
-      "version": "PRO #1",
-      "format": "MP4"
     },
     {
       "year": 2010,
@@ -1969,7 +1977,7 @@ const ARTIST_DATA = {
       "notes": "DVD(1)",
       "version": "AMT #1",
       "format": "DVD",
-      "textFile": "2011-07-23 - Moscow, Russia - Kolomenskoe [AMT #1].txt"
+      "textFile": "2011-07-23 - Moscow, Russia - Kolomenskoe - VID(M) [AMT #1].txt"
     },
     {
       "year": 2011,
@@ -1982,7 +1990,8 @@ const ARTIST_DATA = {
       "venue": "Kolomenscoe",
       "notes": "DVD(1)",
       "version": "AMT #1",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "2011-07-23 - Moscow, Russia - Kolomenskoe [AMT #1].txt"
     },
     {
       "year": 2011,
@@ -1996,7 +2005,7 @@ const ARTIST_DATA = {
       "notes": "",
       "version": "PRO #1",
       "format": "DVD",
-      "textFile": "2011-11-13 - Sao Paulo, Brazil - Parque 500 - Paulinia [PRO#1].txt"
+      "textFile": "2011-11-13 - Sao Paulo, Brazil - Parque 500 - Paulinia [PRO #1].txt"
     },
     {
       "year": 2011,
@@ -2009,7 +2018,8 @@ const ARTIST_DATA = {
       "venue": "Parque 500 Paulinia",
       "notes": "",
       "version": "PRO #1",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "2011-11-13 - Sao Paulo, Brazil - Parque 500 - Paulinia [PRO#1].txt"
     }
   ],
   "misc": [

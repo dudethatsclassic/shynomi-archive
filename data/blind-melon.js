@@ -402,7 +402,7 @@ const ARTIST_DATA = {
       "notes": "Sony ECM-909a \u00b7 rob",
       "version": "AUD",
       "format": "FLAC",
-      "textFile": "1994-02-17 - New York, NY - Roseland Ballroom - Hard Road to the Top [AUD].txt"
+      "textFile": "1994-02-17 - New York, NY - Roseland Ballroom (Sony ECM-909a) (rob) [AUD].txt"
     },
     {
       "year": 1994,
@@ -625,7 +625,7 @@ const ARTIST_DATA = {
       "notes": "In \u00b7 cps \u00b7 M \u00b7 Akg CK91 \u00b7 cps",
       "version": "AUD",
       "format": "FLAC",
-      "textFile": "2008-04-30 - Las Vegas, NV - Zia Records [AUD].txt"
+      "textFile": "2008-04-30 - Las Vegas, NV - Jillian's - WAV(M) (Studio Projects C4) (cps) [AUD].txt"
     },
     {
       "year": 2008,
@@ -639,7 +639,7 @@ const ARTIST_DATA = {
       "notes": "WAV(M) \u00b7 Studio Projects C4 \u00b7 cps",
       "version": "AUD",
       "format": "FLAC",
-      "textFile": "2008-04-30 - Las Vegas, NV - Jillian's - WAV(M) (Studio Projects C4) (cps) [AUD].txt"
+      "textFile": "2008-04-30 - Las Vegas, NV - Zia Records [AUD].txt"
     },
     {
       "year": 2008,

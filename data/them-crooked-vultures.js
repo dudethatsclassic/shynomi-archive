@@ -162,7 +162,7 @@ const ARTIST_DATA = {
       "notes": "AT-899 \u00b7 jonohull \u00b7 Source 1",
       "version": "AUD",
       "format": "FLAC",
-      "textFile": "2010-05-18 - Chicago, IL - Aragon Ballroom (AT831) (jonohull) Source 1 [AUD].txt"
+      "textFile": "2010-05-18 - Chicago, IL - Aragon Ballroom (AT-899) (unk) (Source 1) [AUD].txt"
     },
     {
       "year": 2010,
@@ -175,7 +175,8 @@ const ARTIST_DATA = {
       "venue": "Aragon Ballroom",
       "notes": "AT-899 \u00b7 Source 2",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "2010-05-18 - Chicago, IL - Aragon Ballroom (AT831) (jonohull) Source 1 [AUD].txt"
     },
     {
       "year": 2010,

@@ -464,7 +464,7 @@ const ARTIST_DATA = {
       "notes": "inc",
       "version": "FM",
       "format": "FLAC",
-      "textFile": "2005-11-09 - London, UK - Abbey Road Studios [FM].txt"
+      "textFile": "2005-11-09 - London, England - BBC Radio 2 In Concert, Abbey Road Studios (inc) [FM].txt"
     },
     {
       "year": 2005,
@@ -477,7 +477,8 @@ const ARTIST_DATA = {
       "venue": "Abbey Road Studios",
       "notes": "",
       "version": "FM",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "2005-11-09 - London, UK - Abbey Road Studios [FM].txt"
     },
     {
       "year": 2007,

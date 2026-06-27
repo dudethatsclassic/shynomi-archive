@@ -223,7 +223,7 @@ const ARTIST_DATA = {
       "notes": "unk",
       "version": "AUD",
       "format": "FLAC",
-      "textFile": "1987-03-29 - Orange, CA - Goodie's [AUD].txt"
+      "textFile": "1987-03-29 - Orange, CA - Goodie's [AUD2].txt"
     },
     {
       "year": 1987,
@@ -236,7 +236,8 @@ const ARTIST_DATA = {
       "venue": "Goodie's",
       "notes": "unk",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1987-03-29 - Orange, CA - Goodie's [AUD].txt"
     },
     {
       "year": 1987,
@@ -558,7 +559,7 @@ const ARTIST_DATA = {
       "notes": "AK043",
       "version": "Silver CD",
       "format": "FLAC",
-      "textFile": "1988-11-29 - Chicago, IL - Cabaret Metro - Trip Away [SBD #3].txt"
+      "textFile": "1988-11-29 - Chicago, IL - Cabaret Metro.txt"
     },
     {
       "year": 1988,
@@ -571,7 +572,8 @@ const ARTIST_DATA = {
       "venue": "Cabaret Metro *Trip Away (AK043) SBD #2",
       "notes": "",
       "version": "Silver CD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1988-11-29 - Chicago, IL - Cabaret Metro - Trip Away [SBD #2].txt"
     },
     {
       "year": 1988,
@@ -584,7 +586,8 @@ const ARTIST_DATA = {
       "venue": "Cabaret Metro *Trip Away SBD #3",
       "notes": "",
       "version": "Silver CD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1988-11-29 - Chicago, IL - Cabaret Metro - Trip Away [SBD #3].txt"
     },
     {
       "year": 1988,
@@ -807,7 +810,7 @@ const ARTIST_DATA = {
       "notes": "sm",
       "version": "SBD",
       "format": "FLAC",
-      "textFile": "1989-02-20 - Philadelphia, PA - TLA [SBD2].txt"
+      "textFile": "1989-02-20 - Philadelphia, PA - TLA [SBD Remaster].txt"
     },
     {
       "year": 1989,
@@ -820,7 +823,8 @@ const ARTIST_DATA = {
       "venue": "TLA",
       "notes": "th13ten remaster",
       "version": "SBD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1989-02-20 - Philadelphia, PA - TLA [SBD1].txt"
     },
     {
       "year": 1989,
@@ -833,7 +837,8 @@ const ARTIST_DATA = {
       "venue": "TLA",
       "notes": "",
       "version": "SBD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1989-02-20 - Philadelphia, PA - TLA [SBD2].txt"
     },
     {
       "year": 1989,
@@ -917,7 +922,7 @@ const ARTIST_DATA = {
       "notes": "",
       "version": "AUD",
       "format": "FLAC",
-      "textFile": "1989-03-05 - Toronto, Ontario - Concert Hall [AUD].txt"
+      "textFile": "1989-03-05 - Toronto, Ontario - Concert Hall [AUD2].txt"
     },
     {
       "year": 1989,
@@ -930,7 +935,8 @@ const ARTIST_DATA = {
       "venue": "Concert Hall",
       "notes": "",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1989-03-05 - Toronto, Ontario - Concert Hall [AUD].txt"
     },
     {
       "year": 1989,
@@ -1504,7 +1510,7 @@ const ARTIST_DATA = {
       "notes": "AUD1",
       "version": "AUD",
       "format": "FLAC",
-      "textFile": "1990-12-15 - San Francisco, CA - Civic Auditorium [AUD2].txt"
+      "textFile": "1990-12-15 - San Francisco, CA - Civic Auditorium [AUD1].txt"
     },
     {
       "year": 1990,
@@ -1517,7 +1523,8 @@ const ARTIST_DATA = {
       "venue": "Civic Auditorium",
       "notes": "AUD2",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1990-12-15 - San Francisco, CA - Civic Auditorium [AUD2].txt"
     },
     {
       "year": 1990,
@@ -1573,7 +1580,7 @@ const ARTIST_DATA = {
       "notes": "Activity \u00b7 AUD1",
       "version": "AUD",
       "format": "FLAC",
-      "textFile": "1991-01-28 - Tempe, AZ - Arizona State University - Activity Center [AUD2].txt"
+      "textFile": "1991-01-28 - Tempe, AZ - Arizona State University - Activity Center [AUD1].txt"
     },
     {
       "year": 1991,
@@ -1586,7 +1593,8 @@ const ARTIST_DATA = {
       "venue": "Arizona State University",
       "notes": "Activity \u00b7 AUD2",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1991-01-28 - Tempe, AZ - Arizona State University - Activity Center [AUD2].txt"
     },
     {
       "year": 1991,
@@ -1670,7 +1678,7 @@ const ARTIST_DATA = {
       "notes": "AUD1",
       "version": "AUD",
       "format": "FLAC",
-      "textFile": "1991-02-20 - Miami, FL - Bayfront Park Amphitheater [AUD2].txt"
+      "textFile": "1991-02-20 - Miami, FL - Bayfront Park Amphitheater [AUD1].txt"
     },
     {
       "year": 1991,
@@ -1683,7 +1691,8 @@ const ARTIST_DATA = {
       "venue": "Bayfront Park Amphitheater",
       "notes": "AUD2",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1991-02-20 - Miami, FL - Bayfront Park Amphitheater [AUD2].txt"
     },
     {
       "year": 1991,
@@ -1864,7 +1873,7 @@ const ARTIST_DATA = {
       "notes": "AUD1 \u00b7 Schoeps MK4",
       "version": "AUD",
       "format": "FLAC",
-      "textFile": "1991-05-01 - Warwick, RI - Rocky Point Amusement Park [AUD2].txt"
+      "textFile": "1991-05-01 - Warwick, RI - Rocky Point Amusement Park [AUD1].txt"
     },
     {
       "year": 1991,
@@ -1877,7 +1886,8 @@ const ARTIST_DATA = {
       "venue": "Rocky Point Amusement Park",
       "notes": "AUD2",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1991-05-01 - Warwick, RI - Rocky Point Amusement Park [AUD2].txt"
     },
     {
       "year": 1991,
@@ -1975,7 +1985,7 @@ const ARTIST_DATA = {
       "notes": "Lollapalooza \u00b7 SBD1",
       "version": "SBD",
       "format": "FLAC",
-      "textFile": "1991-07-21 - Irvine, CA - Irvine Meadows (Lollapalooza) [SBD2].txt"
+      "textFile": "1991-07-21 - Irvine Meadows Amphitheater, Irvine, CA [SBD].txt"
     },
     {
       "year": 1991,
@@ -1988,7 +1998,8 @@ const ARTIST_DATA = {
       "venue": "Irvine Meadows",
       "notes": "Lollapalooza \u00b7 SBD2",
       "version": "SBD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1991-07-21 - Irvine, CA - Irvine Meadows (Lollapalooza) [SBD2].txt"
     },
     {
       "year": 1991,
@@ -2030,7 +2041,7 @@ const ARTIST_DATA = {
       "notes": "persic",
       "version": "AUD",
       "format": "FLAC",
-      "textFile": "1991-07-26 - Mountainview, CA - Shoreline Amphitheatre - ANA(M) (jeftak) (krw_co transfer) [AUD24].txt"
+      "textFile": "1991-07-26 - Mountain View, CA - Shoreline Amphitheatre [AUD].txt"
     },
     {
       "year": 1991,
@@ -2057,7 +2068,8 @@ const ARTIST_DATA = {
       "venue": "Shoreline Amphitheatre",
       "notes": "ANA(M) \u00b7 jeftak \u00b7 krw_co transfer",
       "version": "AUD",
-      "format": "FLAC 24"
+      "format": "FLAC 24",
+      "textFile": "1991-07-26 - Mountainview, CA - Shoreline Amphitheatre - ANA(M) (jeftak) (krw_co transfer) [AUD24].txt"
     },
     {
       "year": 1991,
@@ -2197,7 +2209,7 @@ const ARTIST_DATA = {
       "notes": "Lollapalooza \u00b7 AUD1",
       "version": "AUD",
       "format": "FLAC",
-      "textFile": "1991-08-14 - Stanhope, NJ - Waterloo Village (Lollapalooza) [AUD].txt"
+      "textFile": "1991-08-14 - Stanhope, NJ - Waterloo Village (Lollapalooza) [AUD2].txt"
     },
     {
       "year": 1991,
@@ -2210,7 +2222,8 @@ const ARTIST_DATA = {
       "venue": "Waterloo Village",
       "notes": "Lollapalooza \u00b7 AUD2",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1991-08-14 - Stanhope, NJ - Waterloo Village (Lollapalooza) [AUD].txt"
     },
     {
       "year": 1991,
@@ -2838,7 +2851,7 @@ const ARTIST_DATA = {
       "notes": "ronmcintosh",
       "version": "AUD",
       "format": "FLAC",
-      "textFile": "2009-05-21 - Santa Barbara, CA - Santa Barbara Bowl [AUD2].txt"
+      "textFile": "2009-05-21 - Santa Barbara, CA - Santa Barbara Bowl [AUD1].txt"
     },
     {
       "year": 2009,
@@ -2851,7 +2864,8 @@ const ARTIST_DATA = {
       "venue": "Santa Barbara Bowl",
       "notes": "DSM6",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "2009-05-21 - Santa Barbara, CA - Santa Barbara Bowl [AUD2].txt"
     },
     {
       "year": 2009,
@@ -2865,7 +2879,7 @@ const ARTIST_DATA = {
       "notes": "KM140s",
       "version": "AUD",
       "format": "FLAC",
-      "textFile": "2009-05-22 - Mountain View, CA - Shoreline Amphitheatre [AUD1].txt"
+      "textFile": "2009-05-22 - Mountain View, CA - Shoreline Amphitheatre - 24bit [AUD2].txt"
     },
     {
       "year": 2009,
@@ -2878,7 +2892,8 @@ const ARTIST_DATA = {
       "venue": "Shoreline Amphitheatre",
       "notes": "thebang",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "2009-05-22 - Mountain View, CA - Shoreline Amphitheatre [AUD1].txt"
     },
     {
       "year": 2009,
@@ -2892,7 +2907,7 @@ const ARTIST_DATA = {
       "notes": "DPA 4061 \u00b7 elwoodblues",
       "version": "AUD",
       "format": "FLAC",
-      "textFile": "2009-05-27 - Kansas City, MO - Starlight Theater [AUD3].txt"
+      "textFile": "2009-05-27 - Kansas City, MO - Starlight Theater [AUD1].txt"
     },
     {
       "year": 2009,
@@ -2905,7 +2920,8 @@ const ARTIST_DATA = {
       "venue": "Starlight Theater",
       "notes": "CA-14 \u00b7 elwoodblues",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "2009-05-27 - Kansas City, MO - Starlight Theater [AUD2].txt"
     },
     {
       "year": 2009,
@@ -2918,7 +2934,8 @@ const ARTIST_DATA = {
       "venue": "Starlight Theater",
       "notes": "CSB",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "2009-05-27 - Kansas City, MO - Starlight Theater [AUD3].txt"
     },
     {
       "year": 2009,
@@ -2932,7 +2949,7 @@ const ARTIST_DATA = {
       "notes": "brianblank",
       "version": "AUD",
       "format": "FLAC",
-      "textFile": "2009-05-30 - Noblesville, IN - Verizon Wireless Music Center [AUD2].txt"
+      "textFile": "2009-05-30 - Noblesville, IN - Verizon Wireless Music Center [AUD1].txt"
     },
     {
       "year": 2009,
@@ -2945,7 +2962,8 @@ const ARTIST_DATA = {
       "venue": "Verizon Wireless Music Center",
       "notes": "darktrain",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "2009-05-30 - Noblesville, IN - Verizon Wireless Music Center [AUD2].txt"
     },
     {
       "year": 2009,
@@ -2959,7 +2977,7 @@ const ARTIST_DATA = {
       "notes": "chris m.",
       "version": "AUD",
       "format": "FLAC",
-      "textFile": "2009-05-31 - Carkston, MI - DTE Energy Music Theater [AUD3].txt"
+      "textFile": "2009-05-31 - Carkston, MI - DTE Energy Music Theater [AUD1].txt"
     },
     {
       "year": 2009,
@@ -2972,7 +2990,8 @@ const ARTIST_DATA = {
       "venue": "DTE Energy Music Theater",
       "notes": "richard simms",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "2009-05-31 - Carkston, MI - DTE Energy Music Theater [AUD2].txt"
     },
     {
       "year": 2009,
@@ -2985,7 +3004,8 @@ const ARTIST_DATA = {
       "venue": "DTE Energy Music Theater",
       "notes": "ryan j.",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "2009-05-31 - Carkston, MI - DTE Energy Music Theater [AUD3].txt"
     },
     {
       "year": 2009,
@@ -2999,7 +3019,7 @@ const ARTIST_DATA = {
       "notes": "krewe chief / silverjetz",
       "version": "MTX",
       "format": "FLAC",
-      "textFile": "2009-06-02 - Toronto, Ontario - Molson Amphitheatre [AUD2].txt"
+      "textFile": "2009-06-02 - Toronto, Ontario - Molson Amphitheatre [AUD1].txt"
     },
     {
       "year": 2009,
@@ -3012,7 +3032,8 @@ const ARTIST_DATA = {
       "venue": "Molson Amphitheatre",
       "notes": "CA-14 \u00b7 krewe chief",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "2009-06-02 - Toronto, Ontario - Molson Amphitheatre [AUD2].txt"
     },
     {
       "year": 2009,
@@ -3040,7 +3061,7 @@ const ARTIST_DATA = {
       "notes": "MK4 \u00b7 m. watson",
       "version": "AUD",
       "format": "FLAC",
-      "textFile": "2009-06-05 - Camden, NJ - Susquehanna Bank Center [AUD3].txt"
+      "textFile": "2009-06-05 - Camden, NJ - Susquehanna Bank Center (MK4) [AUD1].txt"
     },
     {
       "year": 2009,
@@ -3053,7 +3074,8 @@ const ARTIST_DATA = {
       "venue": "Susquehanna Bank Center",
       "notes": "DPA 4061 \u00b7 bennyblanco",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "2009-06-05 - Camden, NJ - Susquehanna Bank Center [AUD2].txt"
     },
     {
       "year": 2009,
@@ -3066,7 +3088,8 @@ const ARTIST_DATA = {
       "venue": "Susquehanna Bank Center",
       "notes": "t.j. samulis",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "2009-06-05 - Camden, NJ - Susquehanna Bank Center [AUD3].txt"
     },
     {
       "year": 2009,
@@ -3080,7 +3103,7 @@ const ARTIST_DATA = {
       "notes": "su6oxone",
       "version": "AUD",
       "format": "FLAC",
-      "textFile": "2009-06-06 - Holmdel, NJ - PNC Bank Arts Center [AUD2].txt"
+      "textFile": "2009-06-06 - Holmdel, NJ - PNC Bank Arts Center [AUD1].txt"
     },
     {
       "year": 2009,
@@ -3093,7 +3116,8 @@ const ARTIST_DATA = {
       "venue": "PNC Bank Arts Center",
       "notes": "ninslave",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "2009-06-06 - Holmdel, NJ - PNC Bank Arts Center [AUD2].txt"
     },
     {
       "year": 2009,
@@ -3527,7 +3551,7 @@ const ARTIST_DATA = {
       "notes": "Lollapalooza \u00b7 king_ganesha",
       "version": "SBD",
       "format": "FLAC",
-      "textFile": "2016-07-30 - Chicago, IL - Grant Park - Lollapalooza (720p) [WEB].txt"
+      "textFile": "2016-07-30 - Chicago, IL - Grant Park (Lollapalooza) [SBD].txt"
     },
     {
       "year": 2016,
@@ -3540,7 +3564,8 @@ const ARTIST_DATA = {
       "venue": "Grant Park",
       "notes": "Lollapalooza \u00b7 720p",
       "version": "Webcast",
-      "format": "TS"
+      "format": "TS",
+      "textFile": "2016-07-30 - Chicago, IL - Grant Park - Lollapalooza (720p) [WEB].txt"
     },
     {
       "year": 2017,
@@ -3624,7 +3649,7 @@ const ARTIST_DATA = {
       "notes": "Tascam DR-05X \u00b7 shaqwirk",
       "version": "AUD",
       "format": "FLAC",
-      "textFile": "2022-10-08 - Hollywood, FL - Hard Rock Live (Tascam DR-05X) (unk) [AUD].txt"
+      "textFile": "2022-10-08 - Hollywood, FL - Hard Rock Live (IEM+Tascam DR-05X) (jd + shaqwirk) [AUD].txt"
     },
     {
       "year": 2022,
@@ -3637,7 +3662,8 @@ const ARTIST_DATA = {
       "venue": "Hard Rock Live",
       "notes": "IEM+Tascam DR-05X \u00b7 jd + shaqwirk",
       "version": "MIX",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "2022-10-08 - Hollywood, FL - Hard Rock Live (Tascam DR-05X) (unk) [AUD].txt"
     },
     {
       "year": 2022,

@@ -213,7 +213,7 @@ const ARTIST_DATA = {
       "notes": "",
       "version": "AUD",
       "format": "FLAC",
-      "textFile": "1996-06-16 - Minneapolis, MN - 7th Street Entry (Late show) (SS mics) (jay saari) [AUD24].txt"
+      "textFile": "1996-06-16 - Minneapolis, MN - 7th Street Entry (Early show) (SS mics) (jay saari) [AUD].txt"
     },
     {
       "year": 1996,
@@ -226,7 +226,8 @@ const ARTIST_DATA = {
       "venue": "",
       "notes": "",
       "version": "AUD",
-      "format": "FLAC 24"
+      "format": "FLAC 24",
+      "textFile": "1996-06-16 - Minneapolis, MN - 7th Street Entry (Late show) (SS mics) (jay saari) [AUD24].txt"
     },
     {
       "year": 1997,
@@ -310,7 +311,7 @@ const ARTIST_DATA = {
       "notes": "CSB \u00b7 eric ph",
       "version": "AUD",
       "format": "FLAC",
-      "textFile": "1998-02-27 - New York, NY - Irving Plaza [AUD].txt"
+      "textFile": "1998-02-27 - New York, NY - Irving Plaza (CSB) [AUD].txt"
     },
     {
       "year": 1998,
@@ -323,7 +324,8 @@ const ARTIST_DATA = {
       "venue": "Irving Plaza",
       "notes": "unk",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1998-02-27 - New York, NY - Irving Plaza [AUD].txt"
     },
     {
       "year": 1998,
@@ -379,7 +381,7 @@ const ARTIST_DATA = {
       "notes": "CSBmod \u00b7 unk",
       "version": "AUD",
       "format": "FLAC",
-      "textFile": "1998-03-15 - Dallas, TX - Trees - DAT(1) (CSB) (vibrioidxire remaster) [AUD].txt"
+      "textFile": "1998-03-15 - Dallas, TX - Trees (CSBmod) (unk) [AUD].txt"
     },
     {
       "year": 1998,
@@ -392,7 +394,8 @@ const ARTIST_DATA = {
       "venue": "",
       "notes": "",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1998-03-15 - Dallas, TX - Trees - DAT(1) (CSB) (vibrioidxire remaster) [AUD].txt"
     },
     {
       "year": 1998,
@@ -724,7 +727,7 @@ const ARTIST_DATA = {
       "notes": "unk \u00b7 bayareapunkshows",
       "version": "AUD",
       "format": "FLAC",
-      "textFile": "2015-09-18 - San Francisco, CA - Slim's [AUD].txt"
+      "textFile": "2015-09-18 - San Francisco, CA - Slim's - WAV(M) (Sony M10) (armogi) [AUD24].txt"
     },
     {
       "year": 2015,
@@ -737,7 +740,8 @@ const ARTIST_DATA = {
       "venue": "Slim's",
       "notes": "WAV(M) \u00b7 Sony M10 \u00b7 armogi",
       "version": "AUD",
-      "format": "FLAC 24"
+      "format": "FLAC 24",
+      "textFile": "2015-09-18 - San Francisco, CA - Slim's [AUD].txt"
     },
     {
       "year": 2015,
@@ -834,7 +838,7 @@ const ARTIST_DATA = {
       "notes": "Schoeps MK4 \u00b7 lachtna productions",
       "version": "AUD",
       "format": "FLAC",
-      "textFile": "2026-05-30 - Los Angeles, CA - Hollywood Palladium (SP-CMC-8) (fried_morals) [AUD24].txt"
+      "textFile": "2026-05-30 - Hollywood, CA - Palladium (Schoeps MK4) (lachtna productions) [AUD] .txt"
     },
     {
       "year": 2026,
@@ -847,7 +851,8 @@ const ARTIST_DATA = {
       "venue": "Hollywood Palladium",
       "notes": "SP-CMC-8 \u00b7 fried_morals",
       "version": "AUD",
-      "format": "FLAC 24"
+      "format": "FLAC 24",
+      "textFile": "2026-05-30 - Los Angeles, CA - Hollywood Palladium (SP-CMC-8) (fried_morals) [AUD24].txt"
     }
   ],
   "misc": []

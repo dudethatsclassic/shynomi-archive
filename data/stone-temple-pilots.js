@@ -306,7 +306,7 @@ const ARTIST_DATA = {
       "notes": "Sony D3",
       "version": "FM",
       "format": "FLAC",
-      "textFile": "1994-12-10 - Universal City, CA - Universal Amphitheatre [FM].txt"
+      "textFile": "1994-12-10 - Los Angeles, CA - KROQ Acoustic Xmas [FM].txt"
     },
     {
       "year": 1994,
@@ -319,7 +319,8 @@ const ARTIST_DATA = {
       "venue": "Universal Amphitheatre",
       "notes": "",
       "version": "FM",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1994-12-10 - Universal City, CA - Universal Amphitheatre [FM].txt"
     },
     {
       "year": 1994,

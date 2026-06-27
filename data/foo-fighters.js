@@ -232,7 +232,7 @@ const ARTIST_DATA = {
       "notes": "speed corrected",
       "version": "AUD #1",
       "format": "FLAC",
-      "textFile": "1995-04-19 - Cincinnati, OH - Bogart's (AUD #2).txt"
+      "textFile": "1995-04-19 - Cincinnati, OH - Bogart's (AUD #1).txt"
     },
     {
       "year": 1995,
@@ -245,7 +245,8 @@ const ARTIST_DATA = {
       "venue": "Bogart's",
       "notes": "Sony ECM-155",
       "version": "AUD #2",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1995-04-19 - Cincinnati, OH - Bogart's (AUD #2).txt"
     },
     {
       "year": 1995,
@@ -301,7 +302,7 @@ const ARTIST_DATA = {
       "notes": "ANA(2) \u00b7 unk",
       "version": "AUD #1",
       "format": "FLAC",
-      "textFile": "1995-04-21 - Atlanta, GA - The Masquerade [AUD#2].txt"
+      "textFile": "1995-04-21 - Atlanta, GA - The Masquerade [AUD#1].txt"
     },
     {
       "year": 1995,
@@ -314,7 +315,8 @@ const ARTIST_DATA = {
       "venue": "The Masquerade",
       "notes": "ANA(x) \u00b7 unk \u00b7 inc",
       "version": "AUD #2",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1995-04-21 - Atlanta, GA - The Masquerade [AUD#2].txt"
     },
     {
       "year": 1995,
@@ -495,8 +497,7 @@ const ARTIST_DATA = {
       "venue": "Lupo's Heartbreak Hotel",
       "notes": "",
       "version": "AUD #1",
-      "format": "FLAC",
-      "textFile": "1995-04-29 - Providence, RI - Lupo's Heartbreak Hotel - ANA(M) (loughney transfer) [AUD].txt"
+      "format": "FLAC"
     },
     {
       "year": 1995,
@@ -621,7 +622,7 @@ const ARTIST_DATA = {
       "notes": "AUD(M) \u00b7 loughney transfer",
       "version": "AUD",
       "format": "FLAC",
-      "textFile": "1995-05-02 - Toronto, Ontario - The Opera House - AUD(M) (loughney transfer) [AUD].txt"
+      "textFile": "1995-05-02 - Toronto - Opera House [AUD].txt"
     },
     {
       "year": 1995,
@@ -864,7 +865,8 @@ const ARTIST_DATA = {
       "venue": "La Luna",
       "notes": "mh",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1995-05-13 - San Francisco, CA - Slim's - DAT(M) (loughney transfer) [AUD].txt"
     },
     {
       "year": 1995,
@@ -906,7 +908,7 @@ const ARTIST_DATA = {
       "notes": "ANA(M) \u00b7 loughney transfer",
       "version": "AUD",
       "format": "FLAC",
-      "textFile": "1995-05-13 - San Francisco, CA - Slim's - DAT(M) (loughney transfer) [AUD].txt"
+      "textFile": "1995-05-13 - Portland, OR - La Luna - ANA(M) (loughney transfer) [AUD].txt"
     },
     {
       "year": 1995,
@@ -1443,7 +1445,7 @@ const ARTIST_DATA = {
       "notes": "AUD(M) \u00b7 loughney transfer",
       "version": "AUD",
       "format": "FLAC",
-      "textFile": "1995-08-12 - Providence, RI - Lupo's Heartbreak Hotel - We Ain't No Baby [Silver].txt"
+      "textFile": "1995-08-12 - Providence, RI - Lupo's Heartbreak Hotel - AUD(M) (loughney transfer) [AUD].txt"
     },
     {
       "year": 1995,
@@ -1456,7 +1458,8 @@ const ARTIST_DATA = {
       "venue": "Lupo's Heartbreak Hotel *We Ain't No Baby",
       "notes": "",
       "version": "Silver CD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1995-08-12 - Providence, RI - Lupo's Heartbreak Hotel - We Ain't No Baby [Silver].txt"
     },
     {
       "year": 1995,
@@ -1512,7 +1515,7 @@ const ARTIST_DATA = {
       "notes": "CSB",
       "version": "AUD #1",
       "format": "FLAC",
-      "textFile": "1995-08-15 - Philadephia, PA - Trocadero (CSB) [AUD].txt"
+      "textFile": "1995-08-15 - Philadelphia, PA - Trocadero Theatre [AUD #1].txt"
     },
     {
       "year": 1995,
@@ -1525,7 +1528,8 @@ const ARTIST_DATA = {
       "venue": "Trocadero Theatre",
       "notes": "jeff sebastianelli",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1995-08-15 - Philadephia, PA - Trocadero (CSB) [AUD].txt"
     },
     {
       "year": 1995,
@@ -1609,7 +1613,7 @@ const ARTIST_DATA = {
       "notes": "Pukkelpop \u00b7 M \u00b7 loughney transfer",
       "version": "AUD",
       "format": "FLAC",
-      "textFile": "1995-08-25 - Hasselt, Belgium - Pukkelpop Festival [AUD].txt"
+      "textFile": "1995-08-25 - Hasselt, Belgium - Domeign Kiewit - Pukkelpop - DAT(M) (loughney transfer) [AUD].txt"
     },
     {
       "year": 1995,
@@ -1622,7 +1626,8 @@ const ARTIST_DATA = {
       "venue": "Pukkelpop",
       "notes": "zimmy21",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1995-08-25 - Hasselt, Belgium - Pukkelpop Festival [AUD].txt"
     },
     {
       "year": 1995,
@@ -1636,7 +1641,7 @@ const ARTIST_DATA = {
       "notes": "",
       "version": "AUD #1",
       "format": "FLAC",
-      "textFile": "1995-08-26 - Reading, UK - Richfield Ave [AUD #1].txt"
+      "textFile": "1995-08-26 - Reading, UK - Reading Festival (Sessions Tent) [SBD #3].txt"
     },
     {
       "year": 1995,
@@ -1650,7 +1655,7 @@ const ARTIST_DATA = {
       "notes": "Reading Festival, Sessions Ten \u00b7 Sony",
       "version": "AUD #2",
       "format": "FLAC",
-      "textFile": "1995-08-26 - Reading, UK - Richfield Ave [AUD #2].txt"
+      "textFile": "1995-08-26 - Reading, UK - Richfield Ave [AUD #1].txt"
     },
     {
       "year": 1995,
@@ -1719,7 +1724,8 @@ const ARTIST_DATA = {
       "venue": "Richfield Ave",
       "notes": "Reading Festival, Sessions Ten \u00b7 brad collins",
       "version": "SBD #3",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1995-08-26 - Reading, UK - Richfield Ave [AUD #2].txt"
     },
     {
       "year": 1995,
@@ -1733,7 +1739,7 @@ const ARTIST_DATA = {
       "notes": "DAT(x)",
       "version": "AUD #1",
       "format": "FLAC",
-      "textFile": "1995-08-27 - Biddinghuizen, The Netherlands - Spijk en Bremerberg - Lowlands (loughney transfer) [FM].txt"
+      "textFile": "1995-08-27 - Biddinghuize, The Netherlands - Lowlands Festival - DAT(x) [AUD #1].txt"
     },
     {
       "year": 1995,
@@ -1774,7 +1780,8 @@ const ARTIST_DATA = {
       "venue": "Spijk en Bremerberg",
       "notes": "Lowlands \u00b7 loughney transfer",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1995-08-27 - Biddinghuizen, The Netherlands - Spijk en Bremerberg - Lowlands (loughney transfer) [FM].txt"
     },
     {
       "year": 1995,
@@ -1955,7 +1962,8 @@ const ARTIST_DATA = {
       "venue": "Cirkcus *Frenzy!",
       "notes": "Oxygen 036",
       "version": "Silver CD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1995-10-16 - Stockholm, Sweden - Cirkcus [FM].txt"
     },
     {
       "year": 1995,
@@ -1969,7 +1977,7 @@ const ARTIST_DATA = {
       "notes": "P3 in Sweden \u00b7 loughney transfer",
       "version": "FM",
       "format": "FLAC",
-      "textFile": "1995-10-16 - Stockholm, Sweden - Cirkcus [FM].txt"
+      "textFile": "1995-10-16 - Stockholm, Sweden - Circus (P3 in Sweden) (loughney transfer) [FM].txt"
     },
     {
       "year": 1995,
@@ -2067,7 +2075,7 @@ const ARTIST_DATA = {
       "notes": "MD(M) \u00b7 loughney transfer",
       "version": "AUD",
       "format": "FLAC",
-      "textFile": "1995-11-06 - Paris, France - Le Bataclan [AUD].txt"
+      "textFile": "1995-11-06 - Paris, France - Le Bataclan - MD(M) (loughney transfer) [AUD].txt"
     },
     {
       "year": 1995,
@@ -2232,7 +2240,8 @@ const ARTIST_DATA = {
       "venue": "Brixton Academy *Foo Fighters On The Air",
       "notes": "Moonraker",
       "version": "Silver CD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1995-11-15 - London, UK - Brixton Academy - Foo Fighters On the Air [Silver].txt"
     },
     {
       "year": 1995,
@@ -2386,7 +2395,7 @@ const ARTIST_DATA = {
       "notes": "AUD(M) \u00b7 loughney transfer",
       "version": "AUD",
       "format": "FLAC",
-      "textFile": "1995-12-29 - Melbourne, Australia - Summersault Festival [AUD].txt"
+      "textFile": "1995-12-29 - Melbourne, AUS - Summersault Fest - AUD(M) (loughney transfer) [AUD].txt"
     },
     {
       "year": 1995,
@@ -2399,7 +2408,8 @@ const ARTIST_DATA = {
       "venue": "Summersault Festival",
       "notes": "",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1995-12-29 - Melbourne, Australia - Summersault Festival [AUD].txt"
     },
     {
       "year": 1995,
@@ -2567,7 +2577,7 @@ const ARTIST_DATA = {
       "notes": "Sony WM-D6 \u00b7 1st gen \u00b7 loughney transfer",
       "version": "AUD",
       "format": "FLAC",
-      "textFile": "1996-03-30 - Detroit, MI - State Theatre (Sony WM-D6) (1st gen) (loughney transfer) [AUD].txt"
+      "textFile": "1996-03-30 - Detroit, MI - State Theater [AUD24].txt"
     },
     {
       "year": 1996,
@@ -2580,7 +2590,8 @@ const ARTIST_DATA = {
       "venue": "State Theater",
       "notes": "Realistic SCP-29",
       "version": "AUD",
-      "format": "FLAC 24"
+      "format": "FLAC 24",
+      "textFile": "1996-03-30 - Detroit, MI - State Theatre (Sony WM-D6) (1st gen) (loughney transfer) [AUD].txt"
     },
     {
       "year": 1996,
@@ -3529,7 +3540,7 @@ const ARTIST_DATA = {
       "notes": "loughney transfer",
       "version": "TV",
       "format": "FLAC",
-      "textFile": "1997-05-02 - Tokyo, Japan - Live on the Road (loughney transfer) [TV].txt"
+      "textFile": "1997-05-02 - Tokyo, Japan - EMI Studios (loughney transfer) [TV].txt"
     },
     {
       "year": 1997,
@@ -3542,7 +3553,8 @@ const ARTIST_DATA = {
       "venue": "Live on the Road",
       "notes": "loughney transfer",
       "version": "TV",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1997-05-02 - Tokyo, Japan - Live on the Road (loughney transfer) [TV].txt"
     },
     {
       "year": 1997,
@@ -3626,7 +3638,7 @@ const ARTIST_DATA = {
       "notes": "CDX 1596410",
       "version": "SBD",
       "format": "FLAC",
-      "textFile": "1997-05-25 - Manchester, UK -Apollo (2020) [FM].txt"
+      "textFile": "1997-05-25 - Manchester, UK - Apollo - Long Live Grunge [SBD].txt"
     },
     {
       "year": 1997,
@@ -3639,7 +3651,8 @@ const ARTIST_DATA = {
       "venue": "Apollo *Long Live Grunge",
       "notes": "Radio 1FM",
       "version": "FM",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1997-05-25 - Manchester, UK -Apollo (2020) [FM].txt"
     },
     {
       "year": 1997,
@@ -3653,7 +3666,7 @@ const ARTIST_DATA = {
       "notes": "Steve \u00b7 loughney transfer",
       "version": "FM",
       "format": "FLAC",
-      "textFile": "1997-05-25a - London, UK - Radio 1 BBC - Steve Lamacq Interview with Dave Grohl (loughney transfer) [FM].txt"
+      "textFile": "1997-05-25 - Manchester, UK - Apollo - 1st gen (loughney transfer) [FM].txt"
     },
     {
       "year": 1997,
@@ -3666,7 +3679,8 @@ const ARTIST_DATA = {
       "venue": "Apollo",
       "notes": "1st \u00b7 loughney transfer",
       "version": "FM",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1997-05-25a - London, UK - Radio 1 BBC - Steve Lamacq Interview with Dave Grohl (loughney transfer) [FM].txt"
     },
     {
       "year": 1997,
@@ -3778,7 +3792,7 @@ const ARTIST_DATA = {
       "notes": "Mind \u00b7 sbr",
       "version": "FM",
       "format": "FLAC",
-      "textFile": "1997-05-31 - Paris, France  - L'Arapaho - Mind Games (sbr) [FM].txt"
+      "textFile": "1997-05-31 - Paris, France   L'Arapaho - Mind Games (sbr) [FM].txt"
     },
     {
       "year": 1997,
@@ -3791,7 +3805,8 @@ const ARTIST_DATA = {
       "venue": "L'Arapaho",
       "notes": "Mind \u00b7 sbr",
       "version": "FM",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1997-05-31 - Paris, France  - L'Arapaho - Mind Games (sbr) [FM].txt"
     },
     {
       "year": 1997,
@@ -4112,7 +4127,7 @@ const ARTIST_DATA = {
       "notes": "DAT(M)",
       "version": "AUD #1",
       "format": "FLAC",
-      "textFile": "1997-07-12 - Cincinnati, OH - The Garage - DAT(M) [AUD #1].txt"
+      "textFile": "1997-07-12 - Cincinnati, OH - Garage at Caddy's (CSB) [AUD].txt"
     },
     {
       "year": 1997,
@@ -4125,7 +4140,8 @@ const ARTIST_DATA = {
       "venue": "Garage at Caddy's",
       "notes": "jlizard",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1997-07-12 - Cincinnati, OH - The Garage - DAT(M) [AUD #1].txt"
     },
     {
       "year": 1997,
@@ -4139,7 +4155,7 @@ const ARTIST_DATA = {
       "notes": "DAT(M) \u00b7 CSBmod \u00b7 loughney transfer",
       "version": "AUD",
       "format": "FLAC",
-      "textFile": "1997-07-12 - Cincinnati, OH - Garage at Caddy's (CSB) [AUD].txt"
+      "textFile": "1997-07-12 - Cincinatti, OH - The Garage - DAT(M) (CSBmod) (loughney transfer) [AUD].txt"
     },
     {
       "year": 1997,
@@ -4223,7 +4239,7 @@ const ARTIST_DATA = {
       "notes": "Fuji Rock Festival",
       "version": "PRO #1b",
       "format": "FLAC",
-      "textFile": "1997-07-26 - Yamanashi, Japan - Tenjinyama Ski Jo (Fuji Rock Festival) [SBD].txt"
+      "textFile": "1997-07-26 - Yamanashi, Japan - Tenjinyama Ski Jo (Fuji Rock Festival) [PRO #1a & PRO #1b].txt"
     },
     {
       "year": 1997,
@@ -4236,7 +4252,8 @@ const ARTIST_DATA = {
       "venue": "Tenjinyama Ski Jo",
       "notes": "Fuji Rock Festival",
       "version": "PRO #1a & 1b",
-      "format": "DVD"
+      "format": "DVD",
+      "textFile": "1997-07-26 - Yamanashi, Japan - Tenjinyama Ski Jo (Fuji Rock Festival) [SBD].txt"
     },
     {
       "year": 1997,
@@ -4306,7 +4323,7 @@ const ARTIST_DATA = {
       "notes": "Bizarre Festival",
       "version": "PRO #1b",
       "format": "DVD",
-      "textFile": "1997-08-15 - Cologne, Germany - Butzweiler Court (Bizarre Festival) [PRO #1b].txt"
+      "textFile": "1997-08-15 - Cologne, Germany - Butzweiler Court (Bizarre Festival) [DVD].txt"
     },
     {
       "year": 1997,
@@ -4319,7 +4336,8 @@ const ARTIST_DATA = {
       "venue": "Butzweiler Court (Bizarre Festival)",
       "notes": "DAT(x)",
       "version": "PRO #1b",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1997-08-15 - Cologne, Germany - Butzweiler Court (Bizarre Festival) [PRO #1b].txt"
     },
     {
       "year": 1997,
@@ -4361,7 +4379,7 @@ const ARTIST_DATA = {
       "notes": "",
       "version": "AUD",
       "format": "FLAC",
-      "textFile": "1997-08-17 - Chelmsford, UK - V97 Festival [AUD].txt"
+      "textFile": "1997-08-17 - Chelmsford, UK - Hyland's Park - V97 Festival - ANA(M) (loughney transfer) [AUD].txt"
     },
     {
       "year": 1997,
@@ -4374,7 +4392,8 @@ const ARTIST_DATA = {
       "venue": "",
       "notes": "",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1997-08-17 - Chelmsford, UK - V97 Festival [AUD].txt"
     },
     {
       "year": 1997,
@@ -4808,7 +4827,7 @@ const ARTIST_DATA = {
       "notes": "david p",
       "version": "AUD #1",
       "format": "FLAC",
-      "textFile": "1997-10-11 - Toronto, Ontario - Arrow Hall [AUD #1].txt"
+      "textFile": "1997-10-11 - Mississauga, Ontario - Arrow Hall (MKE2002) [AUD].txt"
     },
     {
       "year": 1997,
@@ -4821,7 +4840,8 @@ const ARTIST_DATA = {
       "venue": "Arrow Hall",
       "notes": "ms",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1997-10-11 - Toronto, Ontario - Arrow Hall [AUD #1].txt"
     },
     {
       "year": 1997,
@@ -4975,7 +4995,7 @@ const ARTIST_DATA = {
       "notes": "",
       "version": "AUD",
       "format": "SHN",
-      "textFile": "1997-11-15 - Stockholm, Sweden - Johanneshous Isstadion [AUD].txt"
+      "textFile": "1997-11-15 - Stockholm, Sweden - Johanneshous Isstadion (DDC3) [AUD].txt"
     },
     {
       "year": 1997,
@@ -4988,7 +5008,8 @@ const ARTIST_DATA = {
       "venue": "Johanneshous Isstadion",
       "notes": "DAT",
       "version": "AUD",
-      "format": "SHN"
+      "format": "SHN",
+      "textFile": "1997-11-15 - Stockholm, Sweden - Johanneshous Isstadion [AUD].txt"
     },
     {
       "year": 1997,
@@ -5548,7 +5569,7 @@ const ARTIST_DATA = {
       "notes": "ANA(M)",
       "version": "AUD",
       "format": "FLAC",
-      "textFile": "1998-05-13 - Providence, RI - Lupo's [AUD].txt"
+      "textFile": "1998-05-13 - Providence, RI - Lupo's Heartbreak Hotel (CK63) [AUD].txt"
     },
     {
       "year": 1998,
@@ -5561,7 +5582,8 @@ const ARTIST_DATA = {
       "venue": "Lupo's",
       "notes": "mike hanson",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1998-05-13 - Providence, RI - Lupo's [AUD].txt"
     },
     {
       "year": 1998,
@@ -5687,7 +5709,7 @@ const ARTIST_DATA = {
       "notes": "CSC",
       "version": "AUD",
       "format": "FLAC",
-      "textFile": "1998-06-20 - United Kingdom - Milton Keynes Bowl [AUD].txt"
+      "textFile": "1998-06-20 - United Kingdom - Milton Keynes Bowl [AUD #2].txt"
     },
     {
       "year": 1998,
@@ -5700,7 +5722,8 @@ const ARTIST_DATA = {
       "venue": "Milton Keynes Bowl",
       "notes": "Sony",
       "version": "AUD #2 (44.1k)",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1998-06-20 - United Kingdom - Milton Keynes Bowl [AUD].txt"
     },
     {
       "year": 1998,
@@ -6005,8 +6028,7 @@ const ARTIST_DATA = {
       "venue": "New York, NY / Howerd Stern Show",
       "notes": "WXRK \u00b7 stonecutter",
       "version": "FM",
-      "format": "FLAC",
-      "textFile": "1999-11-11 - Stockholm, Sweden - Arenan (Fryshuet Festival) [SBD #1b].txt"
+      "format": "FLAC"
     },
     {
       "year": 1999,
@@ -6202,7 +6224,7 @@ const ARTIST_DATA = {
       "notes": "DAT(M) \u00b7 AT933 \u00b7 rh",
       "version": "AUD",
       "format": "FLAC",
-      "textFile": "1999-12-04 - Rosemont, IL - Allstate Arena - DAT(M) (AT933) (rh) [AUD].txt"
+      "textFile": "1999-12-04 - Chicago, IL - Q101's Twisted 6 [AMT #1].txt"
     },
     {
       "year": 1999,
@@ -6215,7 +6237,8 @@ const ARTIST_DATA = {
       "venue": "Q101's Twisted 6",
       "notes": "",
       "version": "AMT #1 (44.1k)",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "1999-12-04 - Rosemont, IL - Allstate Arena - DAT(M) (AT933) (rh) [AUD].txt"
     },
     {
       "year": 1999,
@@ -6326,7 +6349,7 @@ const ARTIST_DATA = {
       "notes": "Big Day Out",
       "version": "PRO #1",
       "format": "FLAC",
-      "textFile": "2000-01-26 - Sydney, Australia : RAS Showgrounds (Big Day Out) - DVD [PRO #1].txt"
+      "textFile": "2000-01-26 - Sydney, Australia - RAS Showgrounds (Big Day Out) [PRO #1].txt"
     },
     {
       "year": 2000,
@@ -6339,7 +6362,8 @@ const ARTIST_DATA = {
       "venue": "RAS Showgrounds",
       "notes": "Big Day Out",
       "version": "PRO #1",
-      "format": "DVD"
+      "format": "DVD",
+      "textFile": "2000-01-26 - Sydney, Australia : RAS Showgrounds (Big Day Out) - DVD [PRO #1].txt"
     },
     {
       "year": 2000,
@@ -7146,7 +7170,7 @@ const ARTIST_DATA = {
       "notes": "Summersault \u00b7 M",
       "version": "AUD",
       "format": "FLAC",
-      "textFile": "2000-08-11 - Barrie, Ontario - Molson Park (mke2002) [AUD].txt"
+      "textFile": "2000-08-11 - Barrie, ON - Molson Park - Summersault Festival [AUD].txt"
     },
     {
       "year": 2000,
@@ -7159,7 +7183,8 @@ const ARTIST_DATA = {
       "venue": "Molson Park",
       "notes": "Summersault \u00b7 ms",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "2000-08-11 - Barrie, Ontario - Molson Park (mke2002) [AUD].txt"
     },
     {
       "year": 2000,
@@ -7634,7 +7659,7 @@ const ARTIST_DATA = {
       "notes": "",
       "version": "FM",
       "format": "FLAC",
-      "textFile": "2001-01-13 - Rio de Janeiro, Brazil - Rock in Rio 3 [Silver].txt"
+      "textFile": "2001-01-13 - Rio de Janeiro, Brazil - Rock in Rio 3 [FM].txt"
     },
     {
       "year": 2001,
@@ -7661,7 +7686,8 @@ const ARTIST_DATA = {
       "venue": "Rock in Rio 3 *Rock In Rio III",
       "notes": "",
       "version": "Silver CD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "2001-01-13 - Rio de Janeiro, Brazil - Rock in Rio 3 [Silver].txt"
     },
     {
       "year": 2001,
@@ -7717,7 +7743,7 @@ const ARTIST_DATA = {
       "notes": "HDTV",
       "version": "PRO",
       "format": "TS",
-      "textFile": "2001-08-17 - Weeze, Germany - Bizarre Festival [PRO].txt"
+      "textFile": "2001-08-17 - Weeze, Germany - Bizarre Festival (HDTV) [PRO].txt"
     },
     {
       "year": 2001,
@@ -7899,7 +7925,7 @@ const ARTIST_DATA = {
       "notes": "Reading \u00b7 BBC Radio 1",
       "version": "FM",
       "format": "FLAC",
-      "textFile": "2002-08-24 - Reading, England : Richfield Avenue - Reading Festival (CMC10) [AUD].txt"
+      "textFile": "2002-08-24 - Reading, England - Richfield Avenue - Reading Festival [FM].txt"
     },
     {
       "year": 2002,
@@ -7912,7 +7938,8 @@ const ARTIST_DATA = {
       "venue": "Richfield Avenue",
       "notes": "Reading \u00b7 gary watson",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "2002-08-24 - Reading, England : Richfield Avenue - Reading Festival (CMC10) [AUD].txt"
     },
     {
       "year": 2002,
@@ -8258,7 +8285,7 @@ const ARTIST_DATA = {
       "notes": "",
       "version": "FM",
       "format": "FLAC",
-      "textFile": "2002-12-04 - Oslo, Norway - Spektrum [FM2].txt"
+      "textFile": "2002-12-04 - Olso, Norway - Spektrum [FM].txt"
     },
     {
       "year": 2002,
@@ -8271,7 +8298,8 @@ const ARTIST_DATA = {
       "venue": "Spektrum",
       "notes": "",
       "version": "FM",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "2002-12-04 - Oslo, Norway - Spektrum [FM2].txt"
     },
     {
       "year": 2002,
@@ -8536,7 +8564,7 @@ const ARTIST_DATA = {
       "notes": "DAT(M) \u00b7 Sanken COS-11sBP",
       "version": "AUD #1",
       "format": "FLAC",
-      "textFile": "2003-04-17 - Universal City, CA - Universal Ampitheatre [AUD #1].txt"
+      "textFile": "2003-04-17 - Universal City, CA - Universal Amphitheatre - MiniDV(M) (unk) (AMT #1) [DVD].txt"
     },
     {
       "year": 2003,
@@ -8549,7 +8577,8 @@ const ARTIST_DATA = {
       "venue": "Universal Amphitheatre",
       "notes": "MiniDV(M) \u00b7 unk",
       "version": "AMT #1",
-      "format": "MKV"
+      "format": "MKV",
+      "textFile": "2003-04-17 - Universal City, CA - Universal Ampitheatre [AUD #1].txt"
     },
     {
       "year": 2003,
@@ -8982,7 +9011,7 @@ const ARTIST_DATA = {
       "notes": "fp.trade",
       "version": "FM",
       "format": "FLAC",
-      "textFile": "2003-08-29 - Kiewit, Belgium - Pukkelpop Festival (steven bladt) [SBD# 1a or b].txt"
+      "textFile": "2003-08-29 - Hasselt, Belgium - Pukkelpop Festival [FM].txt"
     },
     {
       "year": 2003,
@@ -8995,7 +9024,8 @@ const ARTIST_DATA = {
       "venue": "Pukkelpop Festival",
       "notes": "steven bladt",
       "version": "SBD #1a (or b)",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "2003-08-29 - Kiewit, Belgium - Pukkelpop Festival (steven bladt) [SBD# 1a or b].txt"
     },
     {
       "year": 2003,
@@ -9386,7 +9416,7 @@ const ARTIST_DATA = {
       "notes": "5100 PVR",
       "version": "WEB",
       "format": "FLAC",
-      "textFile": "2005-06-16 - Toronto, Ontario - The Edge 102.1 [WEB].txt"
+      "textFile": "2005-06-16 - Toronto, Canada - Lees Palace [WEB].txt"
     },
     {
       "year": 2005,
@@ -9399,7 +9429,8 @@ const ARTIST_DATA = {
       "venue": "Lee's Palace",
       "notes": "PVR",
       "version": "WEB",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "2005-06-16 - Toronto, Ontario - The Edge 102.1 [WEB].txt"
     },
     {
       "year": 2005,
@@ -9567,7 +9598,7 @@ const ARTIST_DATA = {
       "notes": "",
       "version": "FM",
       "format": "FLAC",
-      "textFile": "2005-07-09 - Scotland - T in the Park Broadcasts [PRO #1a & PRO #1b].txt"
+      "textFile": "2005-07-09 - Scotland - T in the Park Broadcasts [FM].txt"
     },
     {
       "year": 2005,
@@ -9580,7 +9611,8 @@ const ARTIST_DATA = {
       "venue": "T in the Park Broadcasts",
       "notes": "DVB-T",
       "version": "PRO #1a + PRO #1b",
-      "format": "DVD"
+      "format": "DVD",
+      "textFile": "2005-07-09 - Scotland - T in the Park Broadcasts [PRO #1a & PRO #1b].txt"
     },
     {
       "year": 2005,
@@ -10391,7 +10423,7 @@ const ARTIST_DATA = {
       "notes": "V",
       "version": "PRO #1c",
       "format": "DVD",
-      "textFile": "2007-08-18 - Chelmsford, UK - Hylands Park - V Festival [PRO #1c].txt"
+      "textFile": "2007-08-18 - Chelmsford, UK - Hylands Park - V Festival [DVD].txt"
     },
     {
       "year": 2007,
@@ -10404,7 +10436,8 @@ const ARTIST_DATA = {
       "venue": "Hylands Park",
       "notes": "V",
       "version": "PRO",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "2007-08-18 - Chelmsford, UK - Hylands Park - V Festival [PRO #1c].txt"
     },
     {
       "year": 2007,
@@ -10460,7 +10493,7 @@ const ARTIST_DATA = {
       "notes": "Master \u00b7 simon kilmore",
       "version": "PRO #1a",
       "format": "FLAC",
-      "textFile": "2007-09-18 - Los Angeles, CA - Nissan Live Sets (Century City) [PRO #1b].txt"
+      "textFile": "2007-09-18 - Los Angeles, CA - Nissan Live Sets (Century City) [PRO #1a].txt"
     },
     {
       "year": 2007,
@@ -10473,7 +10506,8 @@ const ARTIST_DATA = {
       "venue": "Nissan Live Sets (Century City)",
       "notes": "Master \u00b7 simon kilmore",
       "version": "PRO #1b (44.1k)",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "2007-09-18 - Los Angeles, CA - Nissan Live Sets (Century City) [PRO #1b].txt"
     },
     {
       "year": 2007,
@@ -11171,7 +11205,7 @@ const ARTIST_DATA = {
       "notes": "brad collins",
       "version": "AUD #1",
       "format": "FLAC",
-      "textFile": "2008-10-26 - Pomona, CA - Pomona Fairplex [AUD #1].txt"
+      "textFile": "2008-10-26 - Pomona, CA - Pomona Fairplex [AMT #1].txt"
     },
     {
       "year": 2008,
@@ -11184,7 +11218,8 @@ const ARTIST_DATA = {
       "venue": "Pomona Fairplex",
       "notes": "Master \u00b7 simon kilmore",
       "version": "AMT #1 (44.1k)",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "2008-10-26 - Pomona, CA - Pomona Fairplex [AUD #1].txt"
     },
     {
       "year": 2008,
@@ -11488,7 +11523,7 @@ const ARTIST_DATA = {
       "notes": "",
       "version": "FM",
       "format": "FLAC",
-      "textFile": "2011-06-09 - Grindelwald, Switzerland - Greenfield Open Air Festival [FM].txt"
+      "textFile": "2011-06-09 - Grindelwald, Switzerland - Greenfield Open Air Festival [FM2].txt"
     },
     {
       "year": 2011,
@@ -11501,7 +11536,8 @@ const ARTIST_DATA = {
       "venue": "Greenfield Open Air Festival",
       "notes": "DRS3",
       "version": "FM #2",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "2011-06-09 - Grindelwald, Switzerland - Greenfield Open Air Festival [FM3].txt"
     },
     {
       "year": 2011,
@@ -11514,7 +11550,8 @@ const ARTIST_DATA = {
       "venue": "Greenfield Open Air Festival",
       "notes": "DRS Virus",
       "version": "FM #3",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "2011-06-09 - Grindelwald, Switzerland - Greenfield Open Air Festival [FM].txt"
     },
     {
       "year": 2011,
@@ -11861,7 +11898,7 @@ const ARTIST_DATA = {
       "notes": "Schoeps CCM4s",
       "version": "AUD",
       "format": "FLAC",
-      "textFile": "2011-10-19 - Oakland, CA - Oracle Arena [AUD].txt"
+      "textFile": "2011-10-19 - Oakland, CA - Oracle Arena [AUD2].txt"
     },
     {
       "year": 2011,
@@ -11874,7 +11911,8 @@ const ARTIST_DATA = {
       "venue": "Oracle Arena",
       "notes": "Schoeps CMC34",
       "version": "AUD #2",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "2011-10-19 - Oakland, CA - Oracle Arena [AUD].txt"
     },
     {
       "year": 2011,
@@ -12070,7 +12108,7 @@ const ARTIST_DATA = {
       "notes": "Outside \u00b7 SP-CMC-8",
       "version": "AUD #1",
       "format": "FLAC",
-      "textFile": "2012-08-10 - San Francisco, CA - Golden Gate Park - Outside Lands Festival [AUD].txt"
+      "textFile": "2012-08-10 - San Francisco, CA - Golden Gate Park - Outside Lands Festival [AUD #1].txt"
     },
     {
       "year": 2012,
@@ -12083,7 +12121,8 @@ const ARTIST_DATA = {
       "venue": "Golden Gate Park",
       "notes": "Outside \u00b7 M \u00b7 Schoeps",
       "version": "AUD #2",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "2012-08-10 - San Francisco, CA - Golden Gate Park - Outside Lands Festival [AUD].txt"
     },
     {
       "year": 2012,
@@ -12111,7 +12150,7 @@ const ARTIST_DATA = {
       "notes": "Pukkelpop Festival",
       "version": "PRO #1a",
       "format": "MKV",
-      "textFile": "2012-08-18 - Kiewit, Belgium - Kempische Steenweg (Pukkelpop Festival) [SBD #1].txt"
+      "textFile": "2012-08-18 - Kiewit, Belgium - Kempische Steenweg (Pukkelpop Festival) [PRO #1a & PRO #1b].txt"
     },
     {
       "year": 2012,
@@ -12124,7 +12163,8 @@ const ARTIST_DATA = {
       "venue": "Kempische Steenweg",
       "notes": "Pukkelpop Festival",
       "version": "PRO #1b",
-      "format": "MKV"
+      "format": "MKV",
+      "textFile": "2012-08-18 - Kiewit, Belgium - Kempische Steenweg (Pukkelpop Festival) [SBD #1].txt"
     },
     {
       "year": 2012,
@@ -12276,7 +12316,7 @@ const ARTIST_DATA = {
       "notes": "Central \u00b7 Palladia HD",
       "version": "AUD",
       "format": "FLAC",
-      "textFile": "2012-09-29 - New York, NY - Global Citizen Festival - Central Park [AUD].Y.txt"
+      "textFile": "2012-09-29 - New York, NY - Global Citizen Festival - Central Park [AUD2].txt"
     },
     {
       "year": 2012,
@@ -12289,7 +12329,8 @@ const ARTIST_DATA = {
       "venue": "Global Citizen Festival",
       "notes": "Central \u00b7 Edirol R-09",
       "version": "AUD",
-      "format": "FLAC 24"
+      "format": "FLAC 24",
+      "textFile": "2012-09-29 - New York, NY - Global Citizen Festival - Central Park [AUD].Y.txt"
     },
     {
       "year": 2012,
@@ -12483,7 +12524,7 @@ const ARTIST_DATA = {
       "notes": "CBS-HD",
       "version": "TV",
       "format": "TS",
-      "textFile": "2014-10-17 - New York, NY - Late Show with David Letterman [TV].txt"
+      "textFile": "2014-10-17 - Chicago, IL - The Cubby Bear [WEBCAST Audio].txt"
     },
     {
       "year": 2014,
@@ -12510,7 +12551,8 @@ const ARTIST_DATA = {
       "venue": "The Cubby Bear",
       "notes": "",
       "version": "WEB",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "2014-10-17 - New York, NY - Late Show with David Letterman [TV].txt"
     },
     {
       "year": 2014,
@@ -14173,7 +14215,7 @@ const ARTIST_DATA = {
       "notes": "JamPad \u00b7 Dave Grohl \u00b7 PCM-A10",
       "version": "AUD",
       "format": "FLAC",
-      "textFile": "2021-09-05 - Napa, CA - Napa Valley Expo (SP-CMC-8) [AUD24].txt"
+      "textFile": "2021-09-05 - Napa, CA - Bottlerock Festival (Dave Grohl) (SP-CMC-8) [AUD24].txt"
     },
     {
       "year": 2021,
@@ -14186,7 +14228,8 @@ const ARTIST_DATA = {
       "venue": "Bottlerock Festival",
       "notes": "Dave Grohl \u00b7 SP-CMC-8",
       "version": "AUD",
-      "format": "FLAC 24"
+      "format": "FLAC 24",
+      "textFile": "2021-09-05 - Napa, CA - Bottlerock Festival - JamPad Acoustic Stage (Dave Grohl) (PCM-A10) [AUD].txt"
     },
     {
       "year": 2021,
@@ -14227,7 +14270,8 @@ const ARTIST_DATA = {
       "venue": "BottleRock Festival",
       "notes": "Napa \u00b7 SP-CMC-8",
       "version": "AUD",
-      "format": "FLAC 24"
+      "format": "FLAC 24",
+      "textFile": "2021-09-05 - Napa, CA - Napa Valley Expo (SP-CMC-8) [AUD24].txt"
     },
     {
       "year": 2021,
@@ -14408,7 +14452,7 @@ const ARTIST_DATA = {
       "notes": "SP-CMC-4U \u00b7 loughney",
       "version": "AUD",
       "format": "FLAC",
-      "textFile": "2022-09-27 - Los Angeles, CA - Kia Center (SP-CMC-4U) (loughney) [AUD].txt"
+      "textFile": "2022-09-27 - Inglewood, CA - Kia Forum - Taylor Hawkins Tribute (All Artists) (SP-CMC-4U) (loughney) [AUD].txt"
     },
     {
       "year": 2022,
@@ -14421,7 +14465,8 @@ const ARTIST_DATA = {
       "venue": "Kia Center",
       "notes": "Taylor \u00b7 All Artists \u00b7 SP-CMC-4U \u00b7 loughney",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "2022-09-27 - Inglewood, CA - Kia Forum - WAV(M) (SP-CMC-4U) (vibrioidxire) [AUD #3].txt"
     },
     {
       "year": 2022,
@@ -14434,7 +14479,8 @@ const ARTIST_DATA = {
       "venue": "",
       "notes": "",
       "version": "AUD #3",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "2022-09-27 - Los Angeles, CA - Kia Center (SP-CMC-4U) (loughney) [AUD].txt"
     },
     {
       "year": 2023,
@@ -14602,7 +14648,7 @@ const ARTIST_DATA = {
       "notes": "Schoeps MK4 \u00b7 loughney",
       "version": "AUD",
       "format": "FLAC",
-      "textFile": "2023-08-10 - Stateline, NV - Lake Tahoe Outdoor Arena (Schoeps MK4s) (tj) [AUD24].txt"
+      "textFile": "2023-08-10 - Stateline, NV - Lake Tahoe Outdoor Arena (Schoeps MK4) (loughney) [AUD].txt"
     },
     {
       "year": 2023,
@@ -14615,7 +14661,8 @@ const ARTIST_DATA = {
       "venue": "Lake Tahoe Outdoor Arena",
       "notes": "Schoeps MK4s \u00b7 tj",
       "version": "AUD",
-      "format": "FLAC 24"
+      "format": "FLAC 24",
+      "textFile": "2023-08-10 - Stateline, NV - Lake Tahoe Outdoor Arena (Schoeps MK4s) (tj) [AUD24].txt"
     },
     {
       "year": 2023,
@@ -14769,7 +14816,7 @@ const ARTIST_DATA = {
       "notes": "SP-CMC-4U \u00b7 ijwthstd",
       "version": "AUD",
       "format": "FLAC",
-      "textFile": "2024-08-11 - Los Angeles, CA - BMO Stadium (SP-CMC-4U) (ijwthstd) [AUD].txt"
+      "textFile": "2024-08-11 - Los Angeles, CA - BMO Stadium (DPA 4081) (faninor) [AUD24].txt"
     },
     {
       "year": 2024,
@@ -14782,7 +14829,8 @@ const ARTIST_DATA = {
       "venue": "BMO Stadium",
       "notes": "DPA 4081 \u00b7 faninor",
       "version": "AUD",
-      "format": "FLAC 24"
+      "format": "FLAC 24",
+      "textFile": "2024-08-11 - Los Angeles, CA - BMO Stadium (SP-CMC-4U) (ijwthstd) [AUD].txt"
     },
     {
       "year": 2024,
@@ -14796,7 +14844,7 @@ const ARTIST_DATA = {
       "notes": "Schoeps MK4s \u00b7 tj",
       "version": "AUD",
       "format": "FLAC 24",
-      "textFile": "2024-08-13 - Concord, CA - Toyota Pavillion (Schoeps MK4s) (loughney) [AUD24].txt"
+      "textFile": "2024-08-13 - Concord, CA - Concord Pavilion (Schoeps MK4s) (tj) [AUD24].txt"
     },
     {
       "year": 2024,
@@ -14809,7 +14857,8 @@ const ARTIST_DATA = {
       "venue": "Toyota Pavillion",
       "notes": "Schoeps MK4s \u00b7 loughney",
       "version": "AUD",
-      "format": "FLAC 24"
+      "format": "FLAC 24",
+      "textFile": "2024-08-13 - Concord, CA - Toyota Pavillion (SP-CMC-4U) (vibrioidxire) [AUD24].txt"
     },
     {
       "year": 2024,
@@ -14822,7 +14871,8 @@ const ARTIST_DATA = {
       "venue": "Toyota Pavillion",
       "notes": "SP-CMC-4U \u00b7 vibrioidxire",
       "version": "AUD #3",
-      "format": "FLAC 24"
+      "format": "FLAC 24",
+      "textFile": "2024-08-13 - Concord, CA - Toyota Pavillion (Schoeps MK4s) (loughney) [AUD24].txt"
     },
     {
       "year": 2025,

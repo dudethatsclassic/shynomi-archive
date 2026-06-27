@@ -346,7 +346,7 @@ const ARTIST_DATA = {
       "version": "AUD",
       "format": "FLAC",
       "notes": "DAT \u00b7 Unknown",
-      "textFile": "1994-11-22 - San Francisco, CA - The Fillmore - DAT(M) (Sony TCD-D7) (unk) [AUD].txt"
+      "textFile": "1994-11-22 - San Francisco, CA - The Fillmore (DAT) [AUD].txt"
     },
     {
       "year": 1994,
@@ -359,7 +359,8 @@ const ARTIST_DATA = {
       "venue": "DAT(M)",
       "version": "AUD",
       "format": "FLAC",
-      "notes": "Sony TCD-D7 \u00b7 Unknown"
+      "notes": "Sony TCD-D7 \u00b7 Unknown",
+      "textFile": "1994-11-22 - San Francisco, CA - The Fillmore - DAT(M) (Sony TCD-D7) (unk) [AUD].txt"
     },
     {
       "year": 1994,
