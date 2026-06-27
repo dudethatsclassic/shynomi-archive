@@ -1,0 +1,59 @@
+Foo Fighters
+November 3rd, 2008
+Moscone Center (Dreamforce Global Gala)
+San Francisco, CA
+
+SOURCE (PRO #1):
+soundboard > unknown
+
+EXTRACTION:
+Replay Media Catcher > Andy's FLV Joiner > SUPER > CD Wave 1.97 > Traders Little Helper 
+
+GENERATION:
+Master > FLV [AAC 117 Kbps] > WAV [44.1khz] > FLAC [Level 8]
+
+LENGTH:
+90:04
+
+NOTES:
+- Audio is 'dry' with no processing.
+- There are split second dropouts in 'Let It Die' & 'My Hero'.
+
+TRACKS:
+01. All My Life
+02. Times Like These
+03. Learn To Fly
+04. Young Man Blues
+05. Long Road To Ruin
+06. Let It Die
+07. Stacked Actors
+08. Marigold
+09. My Hero
+10. jam
+11. Cold Day In The Sun
+12. But, Honestly
+13. Everlong
+14. Monkey Wrench
+15. The Pretender
+
+MD5 FINGERPRINTS:
+6af9d9d4a8ee3aec823c4dcac544318f *FooFighters2008-11-03t01.flac
+28c3195c6acce6e0544052705f7ffcc6 *FooFighters2008-11-03t02.flac
+e74038a68b58dba4fa04a961f345b6ec *FooFighters2008-11-03t03.flac
+e861a31f3545ff67fbebb8679f9b6343 *FooFighters2008-11-03t04.flac
+ad24b0e9732be233e47c636404006b44 *FooFighters2008-11-03t05.flac
+edf0597f8c73980b1ad8a2b99b063e49 *FooFighters2008-11-03t06.flac
+a5d467bdc93fb171fa147359ac74bdb4 *FooFighters2008-11-03t07.flac
+cf8ec2a54396c39838a8e4d06164bbcb *FooFighters2008-11-03t08.flac
+1949de7062930e2773ef59cad27fcccd *FooFighters2008-11-03t09.flac
+239b6785d900cab1617a64b325a56917 *FooFighters2008-11-03t10.flac
+c64f56bbc12ec42734e5601c8d29d76d *FooFighters2008-11-03t11.flac
+c6434a957af2228e725dffa4a5f57c8f *FooFighters2008-11-03t12.flac
+e6c548f902fd28410e7626181e45f4a1 *FooFighters2008-11-03t13.flac
+7f32a13a62d9299dbfbd24f9d778c126 *FooFighters2008-11-03t14.flac
+4fb8489a0661554f2b37f425c5f37e3c *FooFighters2008-11-03t15.flac
+
+TRANSFERRED BY:
+Unknown
+
+**PLEASE DO NOT ENCODE TO LOSSY FORMATS OR SELL!**

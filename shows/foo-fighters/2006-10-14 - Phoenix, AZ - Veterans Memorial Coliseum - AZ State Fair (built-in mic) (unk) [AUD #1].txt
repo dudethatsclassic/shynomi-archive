@@ -1,0 +1,65 @@
+FOO FIGHTERS
+October 14, 2006
+Veterans Memorial Coliseum (Arizona State Fair)
+Phoenix, AZ, US
+
+SETLIST:
+-------------------
+01. All My Life
+02. My Hero
+03. Best Of You
+04. Up In Arms
+05. Learn to Fly
+06. Times Like These
+07. The One
+08. Stacked Actors
+09. Big Me
+10. Generator
+11. Breakout
+12. Hey, Johnny Park!
+13. Monkey Wrench
+14. DOA
+15. Everlong
+
+
+SOURCE:
+-------------------
+AUD #1 - Quality: 5.0
+built-in > Creative ZEN Vision
+
+TRANSFER:
+-------------------
+built-in mic > Creative ZEN Vision (Hard Drive Recorder) > WAV [16kHz/4-bit] > Adobe Audition 22.3 [tracking, upsampling] > xACT 2.50 > FLAC [Level 8]
+
+GENERATION:
+-------------------
+WAV(M) [16kHz/4-bit] WAV [44.1kHz/16-bit] > FLAC [Level 8]
+
+NOTES:
+-------------------
+- The settings on the recorder were set to low, causing the quality to be considerably poor.
+- The sound is completely overdriven; most songs can barely be distinguished.
+
+
+MD5 FINGERPRINTS:
+-------------------
+foofighters2006-10-14-aud1-t01.flac:f6584a38de54e2c948c31091aabaa54e
+foofighters2006-10-14-aud1-t02.flac:7cad49d9aaa2d6b6a706cbc1c12733b4
+foofighters2006-10-14-aud1-t03.flac:f2f87ff5c5dfa6bc9c68e70c688ce415
+foofighters2006-10-14-aud1-t04.flac:b099ecb0e490f787a97c7068a7f7eefc
+foofighters2006-10-14-aud1-t05.flac:fce06973ab3fa60f24418fcaa4311e7e
+foofighters2006-10-14-aud1-t06.flac:935aa341d4147b01ee62d70362cac039
+foofighters2006-10-14-aud1-t07.flac:aa575a7e84c754294b9438e1fff5b0a7
+foofighters2006-10-14-aud1-t08.flac:e5b6102e88343a0a663b664a6bce47a5
+foofighters2006-10-14-aud1-t09.flac:ee6887790c5c1f715c0dfccb92d4a729
+foofighters2006-10-14-aud1-t10.flac:d5d4ae2b4fec53cb2ecbb235e77f74e7
+foofighters2006-10-14-aud1-t11.flac:d5410b0d929f1a9e033c2151bea54779
+foofighters2006-10-14-aud1-t12.flac:6c294e5ae3fa95c788d27722782de592
+foofighters2006-10-14-aud1-t13.flac:854cd88fe4721c8500aca34004bc5466
+foofighters2006-10-14-aud1-t14.flac:f2b6d71b293b9079a7e9ef161715a8f7
+foofighters2006-10-14-aud1-t15.flac:23582c983550cada960f86c17b59432d
+
+
+Courtesy of FooFightersLive.com
+Transferred and encoded by: unknown & vibrioidxire
+PLEASE DO NOT DISTRIBUTE IN LOSSY FORMATS OR SELL!

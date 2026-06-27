@@ -1,0 +1,28 @@
+Foo Fighters
+Radio 1's Big Weekend
+Carlisle, Cumbria
+14 May 2011
+
+Format: MPEG-TS 1080i 25fps 1440x1080 (16:9)
+Audio: AC3 2.0 384kbps
+Lineage: Pinnacle 7010ix > DVBViewer > BBC HD > TSPE
+Runtime: 81 Minutes
+
+01 Bridge Burning 
+02 Rope 
+03 All My Life 
+04 My Hero 
+05 Learn to Fly 
+06 White Limo 
+07 Times Like These 
+08 The Pretender 
+09 Walk 
+10 Cold Day in the Sun 
+11 Best of You 
+12 Monkey Wrench 
+13 Everlong
+14 This Is A Call
+15 Tie Your Mother Down
+
+Dave Grohl: Were only meant to play an hour...but were gonna play till were made to stop!
+

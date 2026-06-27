@@ -1,0 +1,40 @@
+Foo Fighters
+July 11th, 1998
+Thunderbird Stadium (Edgefest)
+Vancouver, BC
+
+SOURCE (PRO #1b):
+soundboard > unknown
+
+EXTRACTION:
+Rubyripper > Flac.exe
+
+GENERATION:
+TV > DAT(x) > CDR(1) > WAV [44.1khz] > FLAC [Level 8]
+
+LENGTH:
+32:00
+
+TRACKS:
+01. Monkey Wrench
+02. Alone + Easy Target
+03. For All The Cows
+04. Enough Space
+05. I'll Stick Around
+06. Big Me
+07. Everlong
+
+MD5 FINGERPRINTS:
+e3d444d9cf7f72e7c884dd65459b759d *FooFighters1998-07-11t01.flac
+ca64374b7ad363e1841baaeede34aa52 *FooFighters1998-07-11t02.flac
+e38734db85ad52f2acee494f42a15bf7 *FooFighters1998-07-11t03.flac
+216eec58c5a51c0e46421289cae860a9 *FooFighters1998-07-11t04.flac
+7a5ca8ca2c3f8d12dfa8abb38d30c7a1 *FooFighters1998-07-11t05.flac
+f65c5e7e801d0338f1393574565d1e62 *FooFighters1998-07-11t06.flac
+a2e477d00672e6d6c4ea902a9fa4d48f *FooFighters1998-07-11t07.flac
+b28e5cf5fc9b4e18d46baa71b29b08c0 *FooFighters1998-07-11t08.flac
+
+TRANSFERRED BY:
+Unknown
+
+**PLEASE DO NOT ENCODE TO LOSSY FORMATS OR SELL!**

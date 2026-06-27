@@ -1,0 +1,54 @@
+FOO FIGHTERS
+September 28, 1997
+Georgia International Horse Park (99x Big Day Out)
+Conyers, GA
+
+SOURCE (AUD #1):
+Aiwa (supplied) > Aiwa HS-JS216 (cassette)
+
+TRANSFER:
+Sony TC-RX77ES > M-Audio Audiophile 2496 > Adobe Audition 3.0 > CD Wave Editor 1.97 > Trader´s Little Helper 2.4.1
+
+GENERATION:
+ANA(M) > WAV [48kHz] > WAV [44.1kHz] > FLAC [Level 8]
+
+LENGTH:
+50:36
+
+NOTES:
+- The tapers microphones were mis-set, so there is a lot of background hiss.
+
+TRACKS:
+01. This Is A Call
+02. Hey, Johnny Park!
+03. Monkey Wrench
+04. Alone + Easy Target
+05. Doll
+06. See You
+07. My Poor Brain
+08. Enough Space
+09. For All The Cows
+10. The Colour And The Shape
+11. Everlong
+12. New Way Home
+13. I'll Stick Around
+
+MD5 FINGERPRINTS:
+dbbb8eaa10214ab13fa8fefe40e568a0 *FooFighters1997-09-28t01.flac
+855f12347d8087a1042883a317c0003a *FooFighters1997-09-28t02.flac
+2e512575788849aafccd6d8e489c1120 *FooFighters1997-09-28t03.flac
+7bf551e172e18955e359ae664e09f85c *FooFighters1997-09-28t04.flac
+31dd9916799fb1b93c126a85021f79f0 *FooFighters1997-09-28t05.flac
+f909e86519b5b05c2b5cc55540cc5975 *FooFighters1997-09-28t06.flac
+881d40c659a1761f7723cfd4e991e943 *FooFighters1997-09-28t07.flac
+b8e0fe5dca1dee48041e600431c9b3fc *FooFighters1997-09-28t08.flac
+0665a8ab4e48296e4908be97199c3ab6 *FooFighters1997-09-28t09.flac
+d4dc122ef337822a1966bac452de3470 *FooFighters1997-09-28t10.flac
+857975c9730d2d9705379574221f866b *FooFighters1997-09-28t11.flac
+4cce4e9db7f253f907f5dfdf624ad2b2 *FooFighters1997-09-28t12.flac
+09d49ec332123dbd5f94de04a1e5efd5 *FooFighters1997-09-28t13.flac
+
+RECORDED AND TRANSFERRED BY:
+Scott Honda
+
+**PLEASE DO NOT ENCODE TO LOSSY FORMATS OR SELL!**

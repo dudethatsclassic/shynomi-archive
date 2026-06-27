@@ -1,0 +1,74 @@
+Foo Fighters
+August 29th, 2015
+Wrigley Field
+Chicago, IL
+
+SOURCE (AUD #1):
+DPA 4022 > Sound Devices 722 (HDD Recorder)
+
+TRANSFER:
+unknown > Adobe Audition CS6 > CDWave 1.98 > Trader's Little Helper 2.7.0
+
+GENERATION:
+WAV(M) [192khz / 24-Bit] > WAV [44.1khz / 16-Bit] > FLAC [Level 8]
+
+LENGTH:
+144:37
+
+NOTES:
+- 'Unchained' by Van Halen is briefly played after the 'You Really Got Me' jam.
+
+TRACKS:
+01. Everlong
+02. Monkey Wrench
+03. Learn to Fly
+04. Something From Nothing
+05. The Pretender
+06. Big Me
+07. Congregation
+08. Walk
+09. You Really Got Me (part of)
+10. Roundabout (part of)
+11. School's Out (part of)
+12. Cold Day in the Sun
+13. My Hero
+14. Outside
+15. All My Life
+16. Times Like These
+17. These Days
+18. Miss You
+19. White Limo
+20. Arlandria
+21. Breakout
+22. This Is a Call
+23. Best of You
+
+MD5 FINGERPRINTS:
+bc7685603edfb21417f8a6dcbb5783f7 *FooFighters2015-08-29t01.flac
+dd65c2552cfc724031fd1ed4456577b6 *FooFighters2015-08-29t02.flac
+d127c75a7e311577bb581a76b18eaa5b *FooFighters2015-08-29t03.flac
+728ee78f1050d7e6693ad5f5a7b70994 *FooFighters2015-08-29t04.flac
+1775fc2c9cc4a21757a82fa24d6e866d *FooFighters2015-08-29t05.flac
+def3f3fc86a5e290d788ad11f2f2f50e *FooFighters2015-08-29t06.flac
+0b3af746038a26df511cf2b276c15879 *FooFighters2015-08-29t07.flac
+b9bfb1ec707978b2b4973cfce6235db8 *FooFighters2015-08-29t08.flac
+4a548f14107e7eeec6145c837f6df814 *FooFighters2015-08-29t09.flac
+42508b244d2957686d45cd6f10d5a046 *FooFighters2015-08-29t10.flac
+265de0e5946589046114fc5d1b05660b *FooFighters2015-08-29t11.flac
+b939021f88ce97cb9293812da05ca6c8 *FooFighters2015-08-29t12.flac
+c958245683f82dc6865225a1b348507c *FooFighters2015-08-29t13.flac
+4fe4973251896a58c077317314239314 *FooFighters2015-08-29t14.flac
+80bc0cbfd227ed2ea8328e86c3ad18b7 *FooFighters2015-08-29t15.flac
+d89b93c7dc1f7a190708fdab77dad47d *FooFighters2015-08-29t16.flac
+c759ce088bef1da7f02cd1fb708d9698 *FooFighters2015-08-29t17.flac
+031964ebf076ef87516b193d3253d9b4 *FooFighters2015-08-29t18.flac
+bff66040d9ad2faaa526315268e4c2ce *FooFighters2015-08-29t19.flac
+570e8fbbf9635af4ea2936f85f176356 *FooFighters2015-08-29t20.flac
+77de4dd11cbbe580f33865e94f4eff04 *FooFighters2015-08-29t21.flac
+6fb97727854bffd816e3795e93acd161 *FooFighters2015-08-29t22.flac
+538818fd3006bf8ec13427688b4e983d *FooFighters2015-08-29t23.flac
+
+RECORDED AND TRANSFERRED BY:
+analog4011
+
+**PLEASE DO NOT ENCODE TO LOSSY FORMATS OR SELL!**

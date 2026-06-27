@@ -1,0 +1,34 @@
+FOO FIGHTERS
+July 4, 1997
+Riviera Theatre
+Chicago, IL
+
+Source: Core Sound Binaural (mod) > Sony TCD-D7
+Location: three feet from left PA
+Taper: jlizard
+Lineage: DAT(M) > CDR(1) > FLAC
+Transfer: Sony PCM-R500 > Behringer Ultramatch SRC2000 > Behringer Ultra-Curve DSP8000 > HHb CDR-800 > EAC
+Edits/EQ: yes - by jlizard
+Notes: alternate "Mentos" lyrics during "Big Me""
+
+01 - Wind Up
+02 - Wattershed
+03 - Hey, Johnny Park!
+04 - Monkey Wrench
+05 - Alone + Easy Target
+06 - Doll
+07 - See You
+08 - My Poor Brain
+09 - For All the Cows
+10 - Enough Space
+11 - Big Me
+12 - Weenie Beenie
+13 - February Stars
+14 - Everlong
+15 - New Way Home
+16 - This is a Call
+17 - Up in Arms
+18 - I'll Stick Around
+
+
+Compiled July 2022 by CPS

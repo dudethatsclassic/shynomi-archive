@@ -1,0 +1,36 @@
+FOO FIGHTERS
+July 3, 2003
+Hammerstein Ballroom
+New York, NY  
+
+Source: Shure SM98 > P-Mod > Sony PCM-M1
+Location: thirty feet from overhead left PA
+Taper: CPS
+Lineage: DAT(M) > WAV [48] > WAV [44.1] > FLAC
+Transfer: Tascam DA-20mkII > M-Audio Audiophile 2496 > Sound Forge
+Edits/EQ: none
+Notes: none
+
+01 - intro
+02 - All My Life
+03 - The One
+04 - My Hero
+05 - Breakout
+06 - Have It All
+07 - My Generator
+08 - Aurora
+09 - For All the Cows
+10 - This is a Call
+11 - Stacked Actors
+12 - Low
+13 - Hey, Johnny Park
+14 - Monkeywrench
+15 - Times Like These
+16 - encore cheers
+17 - Disenchanted Lullaby
+18 - Enough Space
+19 - Tired of You
+20 - Everlong
+
+
+Compiled May 2020 by CPS

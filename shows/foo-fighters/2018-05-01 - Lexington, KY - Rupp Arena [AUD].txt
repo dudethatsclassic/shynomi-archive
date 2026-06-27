@@ -1,0 +1,77 @@
+Foo Fighters
+May 1st, 2018.
+Rupp Arena - Lexington, KY.
+
+Taper:      Charles Dewey Cole, IV <live2cd@hotmail.com>
+Location:   50ft back from right stack; mics mounted on baseball hat brim.
+Source:     AT853 Cardioids (4.7k mod) > SP-SPSB-11 (@69Hz) > Sony PCM-M10 (24 bit @48kHz) >
+            Adobe Audition 3.0 (dithered to 16 bit @44.1kHz) > Cd Wave > FLAC
+Conversion: Charles Dewey Cole, IV <live2cd@hotmail.com>
+Equipment:  SanDisk 32GB MicroSD Card > (USB) @ 48kHz > 44.1kHz > Cd Wave
+
+---------------------------------------------------------------------------------------------------------
+Total Time: (2:57:43)
+
+01. Run						6:26
+02. All My Life					6:03
+03. Learn To Fly				4:12
+04. The Pretender				11:48
+05. The Sky Is A Neighborhood			5:43
+06. Rope					10:44
+07. Drum Solo [Taylor Hawkins] >		3:06
+08. Sunday Rain					11:18
+09. My Hero					7:28
+10. These Days					6:33
+11. Walk					4:53
+12. Breakout					8:32
+13. Band introductions				3:33
+14. Under My Wheels *+				6:23
+15. Imagine/Jump [mashup] ^			5:11
+16. Blitzkrieg Bop #				5:50
+17. Under Pressure %				4:44
+18. Monkey Wrench				8:09
+19. Times Like These 				4:52
+20. Young Man Blues				7:13
+21. Best Of You 				9:37
+22. ~ Encore ~					9:54
+23. Dirty Water					5:24
+24. This Is A Call				5:00
+25. Let There Be Rock @				8:27
+26. Everlong 					6:41
+
+---------------------------------------------------------------------------------------------------------
+Notes:
+
+* = Originally Recorded By Alice Cooper.
++ = inlcuded snippets of "You're The One That I Want" & "Another One Bites The Dust".
+^ = Originally Recorded By John Lennon/Van Halen.
+# = Originally Recorded By The Ramones.
+% = Originally Recorded By Queen,
+    featuring Luke Spiller [The Struts] & Taylor Hawkins on lead vocals. 
+@ = Originally Recorded By AC/DC.
+
+Rescheduled from the postponed October 21st date the year prior. I was originally
+not planning on attending this show, but with the reschedule came a bunch of GA floor
+seats available on ticketmaster. So, it was hard to say no. The show was great and
+the performance was over the top. However, the Foos seem to have taken a step back
+with their setlists. Last October in Cincinnati they played "Let It Die", "I'll Stick
+Around", "White Limo", "Arlandria", "Skin And Bones" and a new one from C&G "Make It
+Right". They were also alternating other tracks in such as "Enough Space", "Arrows" &
+"Something From Nothing". When you look at the May 2018 setlists, none of these
+original songs were replaced with other original Foo songs. They were replaced with
+covers and longer stage banter from Dave. Very disappointing. "Imagine/Jump" and
+"Under Pressure" were very fun to see, but I wish they would cut the unnecessary
+long jams on songs like "The Pretender", "Rope" and "Best Of You". There is
+absolutely no reason these songs need to be twice their original length. These
+are just my opinions, but having been seeing this band for 20 years, I wanted to
+get them off my chest. It was still a great show. Regarding the recording, I did
+have a Ms. Clappy McClapperson to my left, so I did my best in post removing her
+when I could. Thank god for the automatic click remover plugin in Adobe Audition!
+It has been doing the Lord's work on these 24bit wave files. Turn this one up!!!
+
+The Struts opened. [recorded]
+
+---------------------------------------------------------------------------------------------------------
+For more information on the Foo Fighters, please visit:
+
+http://www.foofighters.com/

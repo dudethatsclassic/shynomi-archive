@@ -1,0 +1,51 @@
+FOO FIGHTERS
+21 June, 2007
+Paladino's
+Tarzana, CA
+
+SETLIST (73:08)
+---------------
+01) Breakout
+02) Times Like These
+03) All My Life 
+04) My Hero
+05) Learn To Fly 
+06) Cheer Up, Boys (Your Make Up Is Running) 
+07) For All The Cows
+08) Stacked Actors 
+09) Everlong 
+10) Monkey Wrench (cuts out)
+11) Best Of You 
+12) New Way Home 
+  	
+GENERATION
+---------------
+SD-CARD -> MOV [64kbps 8Khz 8-Bit Mono] -> WAV [44.1khz] -> FLAC [Level 8]
+
+SOURCE (AMT #1)
+---------------
+built-in -> Digital Camera
+
+TRANSFER
+---------------
+MP4Cam2AVI -> VirtualDub -> Adobe Audition 2.0 -> CD Wave 1.96.1 -> FLAC Frontend 1.7.1
+
+MD5 FINGERPRINTS
+---------------
+41b5c1df889a575f98f78790d482af7b *FooFighters06-21-07t01.flac
+ed2b4b3594dc6e1a35e1f95506ff461a *FooFighters06-21-07t02.flac
+5c46528700d40833054b4cd336c811c1 *FooFighters06-21-07t03.flac
+24de7bee02328559a5f281d9a83393b4 *FooFighters06-21-07t04.flac
+bcb16068b58b333f5b2af7a0ab8863b7 *FooFighters06-21-07t05.flac
+7cefbd738bfe24eb139208e8fcd52827 *FooFighters06-21-07t06.flac
+aa016772220e6dd473968d91835d7999 *FooFighters06-21-07t07.flac
+9edeb70b44a554cd3162a9f8e20d40e9 *FooFighters06-21-07t08.flac
+66891c297db06f4678cdd24854f90178 *FooFighters06-21-07t09.flac
+69f7ae2096576d76d7b68c9aec8ea09e *FooFighters06-21-07t10.flac
+c3828998bf5400ea48609d7026b1097f *FooFighters06-21-07t11.flac
+4d96794bb6087576fbe5d51b45542b8d *FooFighters06-21-07t12.flac
+
+Taped by Pat Diven II
+Transferred to DVD and torrented by Simon Kilmore
+
+DO NOT RE-ENCODE TO LOSSY FORMATS OR SELL!!

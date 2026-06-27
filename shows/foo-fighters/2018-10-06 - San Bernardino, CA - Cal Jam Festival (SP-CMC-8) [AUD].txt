@@ -1,0 +1,112 @@
+Foo Fighters
+2018-10-06
+Cal Jam Festival
+Main Stage
+Glen Helen Amphitheater
+San Bernardino, CA
+
+SOURCE: 
+SP-CMC-8 (w/Mods) > SONY PCM-M10 > Sandisk Mini-SD Card (32gb - Class 10) 
+
+TRANSFER: 
+.WAV (24 Bit) > Adobe Audition 2018 CC (normalize/amplify/tracking/resampling/dithering) > .WAV (16 Bit) Trader's Little Helper > FLAC (Level 8) 
+
+SETLIST:
+
+01. Intro
+02. Run
+03. The Sky Is A Neighborhood
+04. La Dee Da
+05. (Taylor Hawkins drum solo)
+06. Sunday Rain
+07. (Dave talks)
+08. Something From Nothing
+09. Walk
+10. These Days
+11. Arlandia
+12. The Pretender
+13. The Best of You
+14. Times Like These
+15. All My Life
+16. Learn To Fly
+17. (Band intros)
+18. My Hero
+19. Everlong
+20. Monkey Wrench
+21. (Dave talks)
+22. For All the Cows
+23. This Is A Call
+24. (Encore break)
+--- Nirvana Reunion ---
+25. Serve the Servants *
+26. Scentless Apprentice *
+27. In Bloom *
+28. (singer change)
+29. Breed ^
+30. Smells Like Teen Spirit ^
+31. (Krist says Thank You)
+32. All Apologies ^
+33. Outro
+
+* John McCauley (from Deer Tick) on guitar and vocals
+^ Joan Jett on guitar and vocals
+
+NOTES:
+
+When this festival was first announced and I saw the lineup with the Foo Fighters on it, and Giants in the Trees (Krist Novoselic's new band), and Deer Tick (having played shows as "Deervana") and even Garbage (with drummer Butch Vig having produced Nevermind), I knew Dave was up to something Nirvana related. I knew in my heart of hearts that Dave was going to reunite his fellow Nirvana band mates Krist and Pat Smear and possibly join forces with Deer Tick's singer to do a Nirvana "reunion" set of 5-10 songs. I just knew it! But more on this in a minute...
+
+First, this set in and of itself in it's entirety was pretty unique. The Foo Fighters decided to play their songs from newest to oldest, as if they were bringing you back in time as the set went along (of course ending with going "way back in time" to pre-Foo Fighters with Nirvana). I thought it was very clever and awesome and unique and all of that. This tidbit was actually spoiled to me by a source backstage prior to the set starting. I mean I knew (had a HUGE gut feeling) that they were going to do something Nirvana related in the encore, but I wasn't expecting a new-to-old type setlist prior to that. Gotta give props to Dave for that, it was very cool.
+
+I'm not much of a fan of new Foo Fighter's stuff, so the first hour wasn't so much my taste, but when they got to "Times Like These" and onward, it was just hit after classic hit non-stop. They even played stuff on the first record, which I was so stoked to hear. I had heard them soundcheck "Exhausted" in the morning (I was camping out at the festival) and was hoping to hear that in this set (along with "Good Grief") but alas, they did not play those (maybe next year?).
+
+Anyway, the first main set ends, and the band walks off and the lights dim, and they cover up all the Foo Fighters amps and kits and the plot thickened. They slowly started wheeling out a new drum set, a new set of amps (as if they were setting up for an entirely new band - which I guess you could argue they were). Then on the video screen, we see Dave backstage, and the camera pans back and there's Krist Novoselic and Pat Smear. They wave and grin, and then the camera pans back more and there's John from Deer Tick (holy shit, it's going to be like an "ultimate edition" of Deervana) and then pan back even further and there's Joan Jett. Holy motherfucking shit, it's actually going to happen and I'm going to see it live.
+
+To give context, I'm 33 now (about to turn 34) and I've been a Nirvana fan since I was 7 years old. I remember seeing the Teen Spirit video way back in 1991, and going crazy over it. I would "act out" the video when I was outside playing. I would write my own interpretations of the lyrics (I couldn't undertand Kurt at the time). I had the cassette single with "Even In His Youth" on the b-side, and then I got In Utero a few years later, and they've been my favorite band ever since. I've listened to them more than any other band period. I've had the posters, the rare vinyl, the lunchboxes, t-shirts, etc. The only thing missing was seeing some form of the band live, which given the circumstances, I thought was impossible and I was fine with that.
+
+Well skip ahead to October 6th, 2018 and here out walks Dave Grohl, Krist Novoselic and Pat Smear who get behind their respective instruments. Then out walks John, who must have been as fucking giddy as a school girl on this night, getting to live out what must have been a huge dream of his, playing Nirvana songs live with actual living Nirvana members. And the opening notes of "Serve the Servants" kicks in and the rest is history.
+
+Is this a Nirvana "reunion". Who knows? Call it whatever you want. You can never replace Kurt, and I don't think anyone or anything is trying. You can never replace those unique talents and voices. Kurt, John Lennon, Elliott Smith, Jim Morrision etc...none of them can ever be replaced or duplicated, and they never should be. All you can do instead (and should) is celebrate and honor them, and I think that's exactly what Dave, Krist and the rest of the crew did this night. It was for the fans, for the music world, for all of us who grew up listening to Nirvana and most of all for Kurt, who's inspiration and spirit was felt all over the place this weekend at this festival. RIP Kurt, love ya. Anyway, this has gone on way to long...if you've read this far, well I must be off for it's time for the fool to get out!
+
+CHECKSUMS: 
+
+8c8dceb6b9c8abe6c1ba4f7ffa9124b8 *foofighters-2018-10-06-caljamfestival-16bit-t01-intro.flac
+20153601d681f1ad7bcaf5e28bd3514c *foofighters-2018-10-06-caljamfestival-16bit-t02-run.flac
+75c71fa1f650b4d97fe6f8ad65bb5877 *foofighters-2018-10-06-caljamfestival-16bit-t03-the-sky.flac
+fefd3f84c5ceee3878def37d21a18d15 *foofighters-2018-10-06-caljamfestival-16bit-t04-la-dee-da.flac
+1d9f6951a1f9098a9551cd3a89fcba92 *foofighters-2018-10-06-caljamfestival-16bit-t05-drum-solo.flac
+a8f687fca80b187377f1bddba14f14ea *foofighters-2018-10-06-caljamfestival-16bit-t06-sunday-rain.flac
+be0627ffb4e6978748e5640b9a9937c9 *foofighters-2018-10-06-caljamfestival-16bit-t07-dave-talks.flac
+e5a7bc812b9007273c1d11c1abbde89e *foofighters-2018-10-06-caljamfestival-16bit-t08-something-from-nothing.flac
+49e572a7314786051d3c8fd40e6f8910 *foofighters-2018-10-06-caljamfestival-16bit-t09-walk.flac
+c5e036916f15b50c220fe6f5566c42b3 *foofighters-2018-10-06-caljamfestival-16bit-t10-these-days.flac
+3f1690d2bc5e5cd4fa581e8fbd9c8383 *foofighters-2018-10-06-caljamfestival-16bit-t11-arlandia.flac
+4e9a0a8dd7d341f31f5b6bc1ab042117 *foofighters-2018-10-06-caljamfestival-16bit-t12-the-pretender.flac
+fb8d6e43cf9ce67f8dbdaeb382137956 *foofighters-2018-10-06-caljamfestival-16bit-t13-the-best-of-you.flac
+c8c9ef20acca7f015341641dcc055256 *foofighters-2018-10-06-caljamfestival-16bit-t14-times-like-these.flac
+3726ccd0f663866c4b6cb15341349d7b *foofighters-2018-10-06-caljamfestival-16bit-t15-all-my-life.flac
+0f8d11dbbd63e5801c42ca061f97671b *foofighters-2018-10-06-caljamfestival-16bit-t16-learn-to-fly.flac
+3205a56edeec4decd65aed7e1fc4f83a *foofighters-2018-10-06-caljamfestival-16bit-t17-band-intros.flac
+71ccd966199952e5010f2aaa2cb68e85 *foofighters-2018-10-06-caljamfestival-16bit-t18-my-hero.flac
+68f1c9103b4ce25c7fbdea2f689c3fe8 *foofighters-2018-10-06-caljamfestival-16bit-t19-everlong.flac
+b718133689b9f833daded5b9e9fe31eb *foofighters-2018-10-06-caljamfestival-16bit-t20-monkey-wrench.flac
+3995557ac9023bed6a3b34708537e689 *foofighters-2018-10-06-caljamfestival-16bit-t21-dave-talks.flac
+55673cb2542e209fc0f571ff93854acb *foofighters-2018-10-06-caljamfestival-16bit-t22-for-all-the-cows.flac
+b46c4ca0d559f1639daf9c689e84778e *foofighters-2018-10-06-caljamfestival-16bit-t23-this-is-a-call.flac
+6b25aa13f1ad975cb384da66d3bd423a *foofighters-2018-10-06-caljamfestival-16bit-t24-encore-break.flac
+4c61c883cf87fc0b3edb61cf5f494b10 *foofighters-2018-10-06-caljamfestival-16bit-t25-serve-the-servants.flac
+06d5a366d4104b4afc66ca55680dd8c5 *foofighters-2018-10-06-caljamfestival-16bit-t26-scentless-apprentice.flac
+11b22b8bc3d945672f129bd0a04e3144 *foofighters-2018-10-06-caljamfestival-16bit-t27-in-bloom.flac
+a1c11e6ad1b65d84bd942e6e77a467cb *foofighters-2018-10-06-caljamfestival-16bit-t28-singer-change.flac
+9934f412a9d2f2eb9474303f651f43e7 *foofighters-2018-10-06-caljamfestival-16bit-t29-breed.flac
+d3166820d23577078814108d99642399 *foofighters-2018-10-06-caljamfestival-16bit-t30-smells-like-teen-spirit.flac
+2e76b27d999f6cb6b4d0c3a46536bb1c *foofighters-2018-10-06-caljamfestival-16bit-t31-krist-says-thanks.flac
+0856222b0ce6842750cd12844092c8ac *foofighters-2018-10-06-caljamfestival-16bit-t32-all-apologies.flac
+a089999ec7ed3f4088c06f27ff481110 *foofighters-2018-10-06-caljamfestival-16bit-t33-outro.flac
+
+Check out my site: 
+
+http://www.themojavetent.com 
+http://www.facebook.com/coachellarecordings 
+http://www.twitter.com/livecoachella
+
+***DO WHATEVER YOU WANT WITH THIS RECORDING EXCEPT SELL IT, OR ELSE THE KARMA POLICE WILL GET YOU***

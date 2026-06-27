@@ -1,0 +1,69 @@
+FOO FIGHTERS
+November 15, 1995
+Brixton Academy,
+London, United Kingdom
+
+DISC #1/1 (80:48)
+---------------
+01) Enough Space
+02) This Is A Call
+03) Winnebago
+04) Wattershed
+05) For All The Cows
+06) Weenie Beenie
+07) Butterflies
+08) Big Me
+09) I'll Stick Around
+10) Oh, George
+11) Good Grief
+12) Podunk
+13) How I Miss You
+14) Alone + Easy Target
+15) Exhausted
+16) Floaty
+17) Up In Arms
+18) Gas Chamber
+19) My Hero
+20) Down In The Park
+
+GENERATION
+---------------
+ANA(M) -> WAV [48khz] -> WAV [44.1khz] -> FLAC [Level 8]
+
+SOURCE (AUD #2)
+---------------
+Sony (supplied) -> Sony WM-GX506
+
+TRANSFER
+---------------
+Nakamichi DR-3 -> RCA to 1/4" TS custom Klotz cables -> M-Audio Delta Audiophile 192 analog-in -> Adobe Audition 2.0 -> CD Wave 1.95.1 -> FLAC Frontend 1.7.1
+
+NOTES
+---------------
+- tape flip in 'How I Miss You' (cut).
+
+MD5 FINGERPRINTS
+---------------
+bcdd35287bc62be01d874d81a4f3a467 *foofighters_1995-11-15_aud2_anam_d1t01.flac
+6c8215e023f960e6d2e5c8a7a19a164b *foofighters_1995-11-15_aud2_anam_d1t02.flac
+e7c4d826b7226d2207f59c8ba7afb109 *foofighters_1995-11-15_aud2_anam_d1t03.flac
+6ade99626b78113d3eaf6f11ce503d53 *foofighters_1995-11-15_aud2_anam_d1t04.flac
+671af9b9c1c880f1d7249eb1691ce1b4 *foofighters_1995-11-15_aud2_anam_d1t05.flac
+c66935a5e051f0cb599dddc2eaec3134 *foofighters_1995-11-15_aud2_anam_d1t06.flac
+cd096590a9b4dc6e94447298dbd6073f *foofighters_1995-11-15_aud2_anam_d1t07.flac
+c7186c523288da023994e538ac841a3f *foofighters_1995-11-15_aud2_anam_d1t08.flac
+50c2bc681d0838ff6f9ca72bdf5a0f45 *foofighters_1995-11-15_aud2_anam_d1t09.flac
+24eec73279a0f9cd7252cc8d5b03e89d *foofighters_1995-11-15_aud2_anam_d1t10.flac
+3e84e0709b25ee6b715e1a66a3cefc65 *foofighters_1995-11-15_aud2_anam_d1t11.flac
+6a5f8db5e61ba7183a65262d27d4970b *foofighters_1995-11-15_aud2_anam_d1t12.flac
+05f70bc4bfd366f61ef35e8f83fe4f97 *foofighters_1995-11-15_aud2_anam_d1t13.flac
+a8d13287bb4bf60f696a000efec1ba17 *foofighters_1995-11-15_aud2_anam_d1t14.flac
+291928ab15ce0e280bdee0594ff0bddd *foofighters_1995-11-15_aud2_anam_d1t15.flac
+b536eb8c1cdf73a2a003396db3d962f4 *foofighters_1995-11-15_aud2_anam_d1t16.flac
+51d2633e5a727277b7872c7c92f5d246 *foofighters_1995-11-15_aud2_anam_d1t17.flac
+151f751efef939b7b0c9fa02f94bf2a5 *foofighters_1995-11-15_aud2_anam_d1t18.flac
+01727bb2b6b65303e680ad88a814c5e9 *foofighters_1995-11-15_aud2_anam_d1t19.flac
+21a45e52e8b1f4072051e91258bfaba1 *foofighters_1995-11-15_aud2_anam_d1t20.flac
+
+Transferred by Pierre Leroy.
+PLEASE DO NOT ENCODE TO MP3 OR SELL!

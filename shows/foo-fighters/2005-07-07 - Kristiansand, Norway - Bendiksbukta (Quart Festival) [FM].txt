@@ -1,0 +1,87 @@
+Foo Fighters
+Quart Festival
+Kristiansand, Norway
+2005-07-07
+
+Source: Norwegian P3 FM live broadcast through Telenor Avidi (cable provider) -> 
+        Radio/TV cable -> 
+        Pinnacle PCTV PRO -> 
+        Line-in on "Hercules Gamesurround Fortissimo II" sound card ->
+        Recorded as 44.1 KHz wave file with Soundforge 7.0 ->
+        Tracked and converted to FLAC with CD Wave Editor 1.94.5
+Lineage: FM > WAV (44.1KHz) > FLAC
+Taped by: Norwegian P3
+Transfered by: N/A 
+
+File Size: 510mb (FLAC)
+
+Setlist:
+
+01. In Your Honor
+02. All My Life
+03. My Hero
+04. Times Like These
+05. Up In Arms
+06. Best Of You
+07. Last Song
+08. The One
+09. Learn To Fly
+10. Stacked Actors
+11. D.O.A
+12. This Is A Call
+13. Everlong
+14. Monkeywrench
+15. End Over End
+16. Cold Day In The Sun
+17. Breakout (fades out)
+
+Total running time: 79:57
+
+Notes: 
+ - The complete live broadcast. 
+ - Breakout fades out due to the channel cutting into a news update. :(
+
+FLAC Fingerprints:
+
+foofighters2005-07-07_FM_t12.flac:d6b6f5ae37db6dffdcef395c24db4722
+foofighters2005-07-07_FM_t13.flac:b2311d3ced8fbac962dcfe7618c9da4c
+foofighters2005-07-07_FM_t14.flac:685630f0b38ec2d2c9373afe4cf156fc
+foofighters2005-07-07_FM_t15.flac:95503b73d89d7822ca170315659e0e5a
+foofighters2005-07-07_FM_t16.flac:0e0a64b277316edcb313dc9d972f1183
+foofighters2005-07-07_FM_t17.flac:c4a03baebb14662ca7824ecd2e4513bc
+foofighters2005-07-07_FM_t01.flac:0d9347b5770eb37f2dc2f788272cc4c0
+foofighters2005-07-07_FM_t02.flac:b73da500133d019d38660c10a6d3ac71
+foofighters2005-07-07_FM_t03.flac:5542e117b2bfa6c7ce60a42c2ae378e0
+foofighters2005-07-07_FM_t04.flac:ffb9bd5ab2ea5997f6bd14c1fb9bef7e
+foofighters2005-07-07_FM_t05.flac:9ee04b9eafbf07e769b3e33842fb8abe
+foofighters2005-07-07_FM_t06.flac:1bb1491bf0acb40f643e6719c19d6ad0
+foofighters2005-07-07_FM_t07.flac:9c910c3478496993735b821bfb41a2a9
+foofighters2005-07-07_FM_t08.flac:b0505cec33b5fc5358fec006bda30ca8
+foofighters2005-07-07_FM_t09.flac:55b5320beeccb5f054a1e30cad281b8d
+foofighters2005-07-07_FM_t10.flac:757614e5824d40c03a0bd248fffcc9d1
+foofighters2005-07-07_FM_t11.flac:bb23828138e3a17dca7fb2278a9dedab
+
+MD5 Fingerprints:
+
+4d7883de71bb17f9cb0436c2359f1990 *foofighters2005-07-07_FM_t01.flac
+913d5720a02f59c3ea9d8592c4649cb6 *foofighters2005-07-07_FM_t02.flac
+02440295db26f99f11ddc33fa61a0051 *foofighters2005-07-07_FM_t03.flac
+720abbf32dd39c491e84d660d07f69bd *foofighters2005-07-07_FM_t04.flac
+ec001517c6a2091018de54fb8e268d5c *foofighters2005-07-07_FM_t05.flac
+aa1cd2d597ad5e0af53cb1388bce8db2 *foofighters2005-07-07_FM_t06.flac
+821aef96b9d4fb050a7d7833d1ff31ee *foofighters2005-07-07_FM_t07.flac
+0b3125f71286d64ed25f48395686c4c2 *foofighters2005-07-07_FM_t08.flac
+20ab7a3672d0e3727ec9afcf329d1566 *foofighters2005-07-07_FM_t09.flac
+e5880e2989a3617036fd4413dd48fe16 *foofighters2005-07-07_FM_t10.flac
+5457dbaa1ceb11212101cffe6c9f0315 *foofighters2005-07-07_FM_t11.flac
+6f346379a7ed628e5a3d9e34e30e1cfc *foofighters2005-07-07_FM_t12.flac
+c28243aeb297d3fa58caa3ffe4347163 *foofighters2005-07-07_FM_t13.flac
+e7a047545981fc7a01b9927bccbff644 *foofighters2005-07-07_FM_t14.flac
+80a28c022ca6bdb5a64669fa9cb921ed *foofighters2005-07-07_FM_t15.flac
+e2e4ee38391d6aec59eff0693c9e8b6e *foofighters2005-07-07_FM_t16.flac
+6337e5e85114483d1d53b78cb1c1252c *foofighters2005-07-07_FM_t17.flac
+
+!!!For free trade only. Not to be distributed as anything but FLAC/CDR.!!!
+
+Compiled by RA
+2005-07-22

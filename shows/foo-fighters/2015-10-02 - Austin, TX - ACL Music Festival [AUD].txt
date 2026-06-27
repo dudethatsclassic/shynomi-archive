@@ -1,0 +1,44 @@
+
+Foo Fighters
+Zilker Park: Austin, TX (Austin City Limits)
+October 2, 2015
+
+Source: AT831s > SP-SPSB-11 (@69Hz) > Sony PCM-M10 @ 24-bit / 44.1kHz
+Location: Center stack
+Transfer: SD Card > Audacity (dither) > CDWave > TLH
+Taper: tapeworm(48) 
+
+Setlist:
+
+01 Intro
+02 Everlong
+03 Monkey Wrench
+04 Learn to Fly
+05 Something From Nothing
+06 The Pretender
+07 Intro >
+08 Big Me
+09 Congregation
+10 Walk
+11 Band Intros
+12 Tom Sawyer (tease) [Rush]
+13 Roundabout (tease) [Yes]
+14 Cold Day in the Sun
+15 My Hero
+16 Times Like These
+17 Skin and Bones
+18 All My Life
+19 These Days
+20 What Did I Do? / God as My Witness (w/ Gary Clark Jr.)
+21 This Is a Call
+22 In the Flesh [Pink Floyd]
+23 Best of You
+
+Notes:  First weekend of Austin City Limits. 8pm (headlining) time slot on the Samsung Stage. M10 input set at 5. Raw transfer with no fades or EQ.
+
+Archive: Master WAV was archived @ 24-bit/44.1kHz and FLAC'd with cue sheet. 
+
+Taped and transferred by tapeworm(48) 
+Txt file compiled on 10/24/2015
+
+*** DO NOT DISTRIBUTE IN LOSSY FORMATS. DO NOT SELL THIS RECORDING, TRADE IT FREELY *** 

@@ -1,0 +1,62 @@
+Foo Fighters
+March 18, 1996
+Rockline Studios
+Hollywood, CA
+
+Foos interviewed at Clatter & Din Studios in Seattle, WA.
+
+SETLIST (89:54)
+-----------------
+
+01. Rockline intro
+02. interview
+03. Big Me [album ver.]
+04. interview
+05. commercials
+06. commercials
+07. interview
+08. For All The Cows [acoustic]
+09. interview
+10. commercials
+11. segment intro
+12. This Is A Call [album ver.]
+13. interview
+14. How I Miss You [acoustic]
+15. interview
+16. interview
+17. commercials
+18. commercials
+19. interview
+20. I'll Stick Around [album ver.]
+21. interview
+22. Wattershed [acoustic]
+23. interview
+24. commercials
+25. commercials
+26. interview
+27. Ozone [album ver.]
+28. interview
+29. Up In Arms [acoustic]
+30. segment end
+31. commercials
+32. interview
+
+GENERATION
+-----------------
+FM -> ANA(1) -> WAV [48kHz] -> CD Wave > FLAC [Level 8]
+
+SOURCE (SBD #1)
+-----------------
+soundboard -> unknown
+
+TRANSFER
+-----------------
+Nakamichi DR-3 -> RCA to 1/4" TS custom Klotz cables -> M-Audio Delta Audiophile 192 analog-in -> Adobe Audition 2.0 -> FLAC Frontend 1.7.1
+
+NOTES
+-----------------
+Tape flip at the end of track15. All commercials and officially released material have been removed from torrenting.
+
+Recorded by Brett Robinson
+Transferred by Pierre Leroy
+DO NOT ENCODE TO MP3 OR SELL!

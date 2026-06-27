@@ -1,0 +1,53 @@
+FOO FIGHTERS
+August 23, 1997
+Kempische Steenweg (Pukkelpop), Domein Kiewit
+Hasselt, Belgium
+
+DISC #1/1 (45:24)
+-----------------
+01. Enough Space
+02. Wattershed
+03. Hey, Johnny Park!
+04. Monkey Wrench
+05. Alone + Easy Target
+06. Doll
+07. See You
+08. For All The Cows
+09. Weenie Beenie
+10. Everlong
+11. New Way Home
+12. I'll Stick Around
+
+GENERATION
+-----------------
+DAT(M) -> WAV [32kHz] -> WAV [44.1kHz] -> FLAC [Level 8]
+
+SOURCE (AUD #2)
+-----------------
+Marantz EM-8 -> Sony TCD-D8
+
+TRANSFER
+-----------------
+Tascam DA-20 MKII -> Viablue S/PDIF cable -> M-Audio Delta Audiophile 192 digital-in -> Adobe Audition 3.0 -> CD Wave 1.98 -> FLAC Frontend 1.7.1
+
+NOTES
+-----------------
+- thanks to SD for letting me transfer his master
+
+MD5 FINGERPRINTS
+-----------------
+1f76a72bebe94b5d87ad6715c9218485 *foofighters_1997-08-23_aud2_datm_d1t01.flac
+844e9eca3c6fad1a42c23489b571d04f *foofighters_1997-08-23_aud2_datm_d1t02.flac
+ac401cccd87cf61a322c12b146107e8a *foofighters_1997-08-23_aud2_datm_d1t03.flac
+1b50958a7e8880510c6dfda3b8324928 *foofighters_1997-08-23_aud2_datm_d1t04.flac
+4186bab633426f6a174ec4c50ac269b5 *foofighters_1997-08-23_aud2_datm_d1t05.flac
+f2026068f757dbe6fe65e525906bb00d *foofighters_1997-08-23_aud2_datm_d1t06.flac
+d5b1ec7fa1a6955a07a0e7fe78c57e65 *foofighters_1997-08-23_aud2_datm_d1t07.flac
+db823fe0a7b819602c1f529026be37ac *foofighters_1997-08-23_aud2_datm_d1t08.flac
+73a733085eca7fa33cac8f428253ef08 *foofighters_1997-08-23_aud2_datm_d1t09.flac
+a0d046a992ff18b710eccdbf6133f310 *foofighters_1997-08-23_aud2_datm_d1t10.flac
+659a4efe0667d71cc93e8681f72cefc9 *foofighters_1997-08-23_aud2_datm_d1t11.flac
+a71758a96d7b21ea7cbc40af34691d55 *foofighters_1997-08-23_aud2_datm_d1t12.flac
+
+Transferred by Pierre Leroy
+PLEASE DO NOT ENCODE TO MP3 OR SELL! 

@@ -1,0 +1,65 @@
+FOO FIGHTERS
+August 26, 1995
+Richfield Avenue,
+Reading Festival (NME / Melody Maker Tent),
+Reading, United Kingdom
+
+DISC #1/1 (71:16)
+---------------
+01) intro
+02) Winnebago
+03) I'll Stick Around
+04) Butterflies
+05) Wattershed
+06) Big Me
+07) This Is A Call
+08) Weenie Beenie
+09) For All The Cows
+10) Oh, George
+11) Podunk
+12) Good Grief
+13) Alone + Easy Target
+14) X-Static
+15) My Hero
+16) Exhausted
+
+GENERATION
+---------------
+ANA(M) -> WAV [48khz] -> WAV [44.1khz] -> FLAC [Level 8]
+
+SOURCE (AUD #2)
+---------------
+Sony (supplied) -> Sony WM-GX506
+
+TRANSFER
+---------------
+Nakamichi DR-3 -> RCA to 1/4" TS custom Klotz cables -> M-Audio Delta Audiophile 192 analog-in -> Adobe Audition 2.0 -> CD Wave 1.95.1 -> FLAC Frontend 1.7.1
+
+NOTES
+---------------
+- 'Podunk' cuts in.
+- lots of crowd talking.
+- the popping noises during 'My Hero' and 'Exhausted' are the fireworks from the mainstage.
+
+
+MD5 FINGERPRINTS
+---------------
+6ab392517bfc41f628fd52d4a798443e *foofighters_1995-08-26_aud2_anam_d1t01.flac
+760515c39685c2f9e21966c3e0237c86 *foofighters_1995-08-26_aud2_anam_d1t02.flac
+7da02435868d3e524b94d850f4810876 *foofighters_1995-08-26_aud2_anam_d1t03.flac
+f8ec06c78cd059d41bb6261a0ae6af92 *foofighters_1995-08-26_aud2_anam_d1t04.flac
+ea0ae75ef5095e08c64246e08b03233b *foofighters_1995-08-26_aud2_anam_d1t05.flac
+a053a8e473a97aa067456f251b5e38ef *foofighters_1995-08-26_aud2_anam_d1t06.flac
+16b12c67656659071027bef309b31001 *foofighters_1995-08-26_aud2_anam_d1t07.flac
+c47120d5039f8aff56d16059acbc7af0 *foofighters_1995-08-26_aud2_anam_d1t08.flac
+8746eec7ee6a01019ccc1410c83d052f *foofighters_1995-08-26_aud2_anam_d1t09.flac
+7e84e554947495e09d6467eba7dffe86 *foofighters_1995-08-26_aud2_anam_d1t10.flac
+5033908eda45b8a91b5bf55796f7361a *foofighters_1995-08-26_aud2_anam_d1t11.flac
+9a9b37a774dd77ad912ccc55208cef63 *foofighters_1995-08-26_aud2_anam_d1t12.flac
+850fbf4666ec754a44b32a1722f7c3e6 *foofighters_1995-08-26_aud2_anam_d1t13.flac
+81e8e4c147846323e681c0b615acb66c *foofighters_1995-08-26_aud2_anam_d1t14.flac
+7c6f85a00f8ea1749f12c172868e3b2d *foofighters_1995-08-26_aud2_anam_d1t15.flac
+72d0f4d0b0d19decd1c5611c7432c89d *foofighters_1995-08-26_aud2_anam_d1t16.flac
+
+Transferred by Pierre Leroy.
+PLEASE DO NOT ENCODE TO MP3 OR SELL!

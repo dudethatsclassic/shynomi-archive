@@ -1,0 +1,40 @@
+The Foo Fighters
+Dave Grohl: vocals, rhythm guitar
+Chris Shiflett: lead guitar, backing vocals
+Nate Mendel: bass
+Taylor Hawkins: drums, backing vocals
+Parterre, Drapeau Park
+Montreal, Quebec, Canada
+August 12, 2000
+touring "there is nothing left to lose" (from 1999)
+and opening for the Smashing Pumpkins
+Westwood one FM broadcast
+runtime:  51:37 (minutes/seconds)
+setlist:
+1: radio intro  :22
+2: breakout  4:17
+3: learn to fly  5:32
+4: up in arms  1:46 
+5: I'll stick around  3:57 
+6: for all the cows  3:56
+7: this is a call  4:41
+8: radio announcer  :14
+9: big me  3:57
+10: stacked actors >  3:41
+11: have a cigar  3:29
+12: radio announcer  :30
+13: next year  4:17
+14: monkey wrench  5:22
+15: everlong  5:06
+16: radio announcer outro  :21
+lineage:
+ WBCN 104.1 FM radio live broadcast >
+ Sansui 8 reciever with wire FM antenna >
+ Naka. BX-100 cassette deck (dolby off) >
+ Maxell XLII-S 100 min. master cassette >
+ played on Nak. BX-300 cassette deck into soundforge (wav) >
+ flac (sb's aligned) > torrentially yours.
+ A this and that production.
+ Do not sell this recording.
+ Share freely, losslessly and gaplessly.
+ (and no food fighting please.)

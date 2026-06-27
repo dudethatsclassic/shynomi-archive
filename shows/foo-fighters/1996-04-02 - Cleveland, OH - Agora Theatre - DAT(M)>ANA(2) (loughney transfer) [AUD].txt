@@ -1,0 +1,41 @@
+Foo Fighters - 1996 04 02 Agora Theatre, Cleveland, OH
+
+BAND MEMBERS
+Dave Grohl - Guitar, Vocals
+Nate Mendel - Bass Guitar
+Pat Smear - Guitar
+William Goldsmith - Drums
+
+Show note:
+Weenie Beenie has the Outshined intro. Good Grief has the Laverne and Shirley theme intro. Petra Hayden fromo That Dog sings Floaty.  The overall sound is a bit distant. Not sure about track 15, Dave quips that the audience is hearing a new song being created, but he might be goofing.
+
+Transfer note;
+Enough Space fades in, with really low volume to start. Right channel was quite low, so normalizing added some hiss.
+	
+1 Enough Space
+2 This Is A Call
+3 Winnebago
+4 Wattershed
+5 For All The Cows
+6 Outshined [Soundgarden] intro
+7 Weenie Beenie
+8 Butterflies
+9 Big Me
+10 My Hero
+11 Gas Chamber [The Angry Samoans]
+12 Up In Arms
+13 Good Grief
+14 How I Miss You
+15 ?? 
+16 Alone + Easy Target
+17 I'll Stick Around
+18 Floaty
+19 Down in the Park [Gary Numan]
+20 Exhausted
+
+Openers:
+That Dog
+
+Lineage: DAT Audience Master > 2nd gen tape > Tascam 202MKVII > USB > CDWAV > Audacity for fades, normalization, noise reduction > CDWAVE (SPLITS) > FLAC [loughney xfer]
+
+

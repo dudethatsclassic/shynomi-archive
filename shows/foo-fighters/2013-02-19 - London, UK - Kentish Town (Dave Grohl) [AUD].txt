@@ -1,0 +1,99 @@
+Dave Grohl's Sound City Players
+
+2013-02-19 (19 Feb 2012)
+The Forum, Kentish Town, London, UK
+
+Source: AT933(853C)>3wbb>H108 CF Mod, Rockboxed
+Transfer: H108>USB>DellHD>Audacity (fade in, volume boost +12.3/12.3 dB, Fade out)>CD Wave>FLAC
+
+Location: Centre balcony. 
+
+Recorded, transferred, FLAC'd and seeded by Humbug 
+
+Disc 1, time: 66:44
+
+Alain Johannes
+
+1. A Trick With No Sleeve (Original song written for "Sound City: Reel to Reel")
+2. Why (Eleven)
+3. All My Friends (Eleven)
+4. Making a Cross (The Desert Sessions)
+5. Hangin' Tree (Queens of the Stone Age)
+6. Reach Out (Eleven)
+        
+Chris Goss
+
+7. Third Man On The Moon (Masters of Reality)
+8. She Got Me (Masters of Reality)
+9. It's Shit (Masters of Reality)
+10. Time Slowing Down (Original song written for "Sound City: Reel to Reel")
+11. Domino (Masters of Reality) (With "Into the Void" intro by Black Sabbath)
+12. The Blue Garden (Masters of Reality)
+
+Disc 2, time: 71:35
+        
+Lee Ving, Pat Smear
+
+1. Your Wife Is Calling (Original song written for "Sound City: Reel to Reel")
+2. I Love Livin' in the City (Fear)
+3. Gimme Some Action (Fear)	
+4. Beef Bologna (Fear)
+5. New York's Alright If You Like Saxophones (Fear)
+6. Foreign Policy (Fear)
+7. I Don't Care About You (Fear)
+        
+Rick Springfield, Pat Smear
+
+8. The Man That Never Was (Original song written for "Sound City: Reel to Reel")
+9. I've Done Everything for You (Sammy Hagar)
+10. Love Is Alright Tonight (Rick Springfield)
+11. Love Somebody (Rick Springfield)
+12. Jessie's Girl (Rick Springfield)
+
+Rick Nielsen, Krist Novoselic, Pat Smear
+
+13. Hello There (Cheap Trick)
+14. He's a Whore (Cheap Trick)
+15. Stiff Competition (Cheap Trick)
+16. I Want You to Want Me (Cheap Trick)
+17. Ain't That a Shame (Fats Domino)
+18. Surrender (Cheap Trick)
+
+Notes: 
+Reasonable sounding recording. Thanks to setlist.fm for setlist and the following:
+"Each set was backed by Dave Grohl and various members of the Foo Fighters. Alain Johannes from Queens of the Stone Age also provided support on guitar and vocals"
+
+FLAC Fingerprint: 
+davegrohl2013-02-19at933d1t01.flac:2ff3fd4e64198eb2efa7a1d46d565a94
+davegrohl2013-02-19at933d1t02.flac:8824e97b39dd0c55dda6459b8a0da4ec
+davegrohl2013-02-19at933d1t03.flac:72b405971624b3b4ea064cffa8cf5b01
+davegrohl2013-02-19at933d1t04.flac:7b50bc523b0a37867e77106537696f5a
+davegrohl2013-02-19at933d1t05.flac:6c030523025cac6002f42ab40ee35c40
+davegrohl2013-02-19at933d1t06.flac:ac956f0a0aec65f896a662f02efe1020
+davegrohl2013-02-19at933d1t07.flac:9d9ac74ac707820866fe682432a58cb6
+davegrohl2013-02-19at933d1t08.flac:61babadb4b86f8c1ae9be50e45c9e419
+davegrohl2013-02-19at933d1t09.flac:d15d26bf1f03f0200752bc5a64234b28
+davegrohl2013-02-19at933d1t10.flac:ac9b275f5f549043e662547018637bd4
+davegrohl2013-02-19at933d1t11.flac:e553d70f47a5be31d471a91cea0835ac
+davegrohl2013-02-19at933d1t12.flac:85ea8ca736623ee18499a06f676cb760
+davegrohl2013-02-19at933d2t01.flac:e0e2f641f3ec4e25f631134bdec53477
+davegrohl2013-02-19at933d2t02.flac:bde2ae1764a371489d7f22360b48f595
+davegrohl2013-02-19at933d2t03.flac:19a6e07e8a912d69c30e76e1ffe06dc2
+davegrohl2013-02-19at933d2t04.flac:d780134c34bd7927e76e7cf6d3bb4f74
+davegrohl2013-02-19at933d2t05.flac:b28bdd0c8bc932e233a108d0f4d01377
+davegrohl2013-02-19at933d2t06.flac:73b3b432fb2b8e2da2c1c38de07d86eb
+davegrohl2013-02-19at933d2t07.flac:1391a1136a7ad0812ea81622177abeb5
+davegrohl2013-02-19at933d2t08.flac:53bf36ccabf4d84d6a027ec79ac0087b
+davegrohl2013-02-19at933d2t09.flac:e1f4726003f70601d89ffa5ccdb24850
+davegrohl2013-02-19at933d2t10.flac:c81c29e3860aff5a3b4e23f6a9f312fc
+davegrohl2013-02-19at933d2t11.flac:fcb67f782d9effa68deb634723c73e9f
+davegrohl2013-02-19at933d2t12.flac:d55b0c814d6123219c1052500910273c
+davegrohl2013-02-19at933d2t13.flac:c27901fcd3377fed26530963cf5931b5
+davegrohl2013-02-19at933d2t14.flac:26dc89f5c62424ab5f60cbdc2b6c50c1
+davegrohl2013-02-19at933d2t15.flac:6a19c108b99c194519d8309ea4a1d345
+davegrohl2013-02-19at933d2t16.flac:29efb05ce28b528f44ac366351b19243
+davegrohl2013-02-19at933d2t17.flac:c6d92fb709326a609694c4be20daf4d7
+davegrohl2013-02-19at933d2t18.flac:2b59cf0814cba8f87ede4f1d4d940f29
+
+** FEEL FREE TO CONVERT TO MP3 FORMAT AND REUPLOAD **
+** PLEASE DO NOT PROFIT FROM THIS RECORDING **

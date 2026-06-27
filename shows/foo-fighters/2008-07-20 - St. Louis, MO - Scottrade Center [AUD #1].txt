@@ -1,0 +1,67 @@
+Foo Fighters
+July 20th, 2008
+Scottrade Centre
+St. Louis, MO
+
+SOURCE (AUD #1):
+built-in > Edirol R-09 (Flash Recorder)
+
+TRANSFER:
+USB > Sony Soundforge 4 > CD Wave 1.97 > Flac Frontend 1.7.1
+
+GENERATION:
+WAV(M) [44.1khz/16-Bit] > FLAC [Level 8]
+
+LENGTH:
+137:30
+
+TRACKS:
+01. Let It Die
+02. The Pretender
+03. Times Like These
+04. No Way Back
+05. Learn To Fly
+06. Cheer Up, Boys (Your Make Up Is Running)
+07. Young Man Blues
+08. Long Road To Ruin
+09. Breakout
+10. Stacked Actors
+11. Skin & Bones
+12. Marigold
+13. My Hero
+14. Cold Day In The Sun
+15. But, Honestly
+16. Everlong
+17. Monkey Wrench
+18. All My Life
+19. Big Me
+20. Generator
+21. Best Of You
+
+MD5 FINGERPRINTS:
+bae8509114c3521734bf2cf46a8d9935 *FooFighters2008-07-20t01.flac
+6c155aa2051602e97bab9913d7594912 *FooFighters2008-07-20t02.flac
+af335644efbdbf9c535c285b5d2f69f6 *FooFighters2008-07-20t03.flac
+30740942ef96edf1a0a6189f6583086e *FooFighters2008-07-20t04.flac
+e0ce0f82d147189eaa24779ef734f7d4 *FooFighters2008-07-20t05.flac
+6803efab96b35dd70cd34f5dce47f973 *FooFighters2008-07-20t06.flac
+60af1c39399ad96aa50b2a6f3881b4ed *FooFighters2008-07-20t07.flac
+d90c24c83713c0087691220dbfa15f7f *FooFighters2008-07-20t08.flac
+59e96b5419a8098a56c616b1bdffbcc4 *FooFighters2008-07-20t09.flac
+7b3b83b91cc1fefb2f9aa3a0d38c3b08 *FooFighters2008-07-20t10.flac
+002f322cd6fd5298571182f981b6d82d *FooFighters2008-07-20t11.flac
+d7df32f76eca7a59610f3aabe0be307e *FooFighters2008-07-20t12.flac
+cc945753d3721542f49221e091c8cf22 *FooFighters2008-07-20t13.flac
+e61f405572e59dd9448dae3c7feea1f7 *FooFighters2008-07-20t14.flac
+64d70ba8a448d37c1517aaae8fc5a219 *FooFighters2008-07-20t15.flac
+ca2512fd0ee3185ed9eee89023eae570 *FooFighters2008-07-20t16.flac
+b37e6515db8dceea08399d7415730757 *FooFighters2008-07-20t17.flac
+1183ba6a58ae87fc08a47680d8eefdf4 *FooFighters2008-07-20t18.flac
+6b05009ea894814d318428bcf2f8dab7 *FooFighters2008-07-20t19.flac
+5c99d1fda658b018b96f20ba759aa49f *FooFighters2008-07-20t20.flac
+a85e729f66c17c35d8bd32d0a375230b *FooFighters2008-07-20t21.flac
+
+RECORDED AND TRANSFERRED BY:
+Shane E. Calhoon
+
+**PLEASE DO NOT ENCODE TO LOSSY FORMATS OR SELL!**

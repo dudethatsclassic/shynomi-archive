@@ -1,0 +1,42 @@
+Foo Fighters
+July 9th, 1996
+La Maline
+Île de Ré, France
+
+DISC #1/1 (27:23)
+-----------------
+01) Butterflies
+02) Gas Chamber
+03) For All The Cows
+04) Interview
+
+NOTES
+-----------------
+- Live broadcast
+- Followed by an interview of Dave with questions from listeners of the french radio FUN RADIO
+- Interview is translated in french, though, not a dub.
+
+GENERATION
+-----------------
+FM -> ANA(1) -> WAV [48kHz] -> WAV [44.1kHz] -> FLAC [Level 8]
+
+SOURCE (SBD #1b)
+-----------------
+Soundboard -> Unknown
+
+TRANSFER
+-----------------
+Nakamichi DR-3 -> RCA to 1/4" TRS cables -> Echo Mia Midi analog-in -> Adobe Audition 1.5 -> CD Wave 1.93 beta -> FLAC Frontend 1.7.1
+
+MD5 FINGERPRINTS
+-----------------
+1c5392d65abd7560bda6488818a60b17 *foofighters1996-07-09d1t01.flac
+62209d88f5aef55a760826277f344f88 *foofighters1996-07-09d1t02.flac
+662ac05211619157c41bc6fff0601539 *foofighters1996-07-09d1t03.flac
+619c1c89907fe060a2b2995a63b6d31e *foofighters1996-07-09d1t04.flac
+
+
+Transferred by Pierre Leroy.
+Many thanks to Nico l'Ancien.
+DO NOT ENCODE TO MP3. DO NOT SELL. DO NOT SMOKE.
+

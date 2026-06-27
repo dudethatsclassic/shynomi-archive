@@ -1,0 +1,76 @@
+FOO FIGHTERS
+December 11, 2002
+Palazzetto dello Sport Pala
+Milan, Italy
+
+SOURCE (AUD #1):
+Sony ECM-??? > Sony TCD-D7 (DAT)
+
+TRANSFER:
+Sony DTC-ZA5ES > Sandberg S/PDIF Cable > Trust SC-5250 digital-in > Sound Forge 8.0 > Adobe Audition 2.0 > 
+CD Wave v.1.94.8 > FLAC Frontend v.1.7.1
+
+GENERATION:
+DAT(M) [44.1kHz] > WAV [44.1kHz] > FLAC [Level 8]
+
+LENGTH:
+102:18
+
+TRACKS (DISC 1):
+01) intro
+02) All My Life
+03) My Hero
+04) Generator
+05) Learn To Fly
+06) Up In Arms (jam)
+07) Up In Arms
+08) Have It All
+09) Stacked Actors
+10) Never Talking To You Again
+11) Times Like These
+12) For All The Cows
+13) The One
+
+TRACKS (DISC 2):
+01) talk
+02) partial jams (Black Hole Sun, Them Bones, No One Knows, How You Remind Me, Spoonman, Song 2)
+03) Low
+04) Hey, Johnny Park!
+05) Monkey Wrench
+06) Tired Of You
+07) Everlong
+08) Now I'm Here (part of)
+09) Enough Space
+10) Breakout
+11) This Is A Call
+
+MD5 FINGERPRINTS:
+e45dc27e40075b458bf8c858379ebb3b *foofighters2002-12-11d1t01.flac
+f70805c47479c03117a93544ea919e01 *foofighters2002-12-11d1t02.flac
+dc311a4e671893b91aad3bb7b6b98bc6 *foofighters2002-12-11d1t03.flac
+0653a787dbb60d6eec68735e5a67e1d3 *foofighters2002-12-11d1t04.flac
+70ebf6b16fbd737335f8a8f212ea332b *foofighters2002-12-11d1t05.flac
+94c1251111f1edc19cbeeeca2af84a6c *foofighters2002-12-11d1t06.flac
+c3260c1c8e54db1a60546e0d364692d3 *foofighters2002-12-11d1t07.flac
+f59a4df8c3fd702df315112507f3311b *foofighters2002-12-11d1t08.flac
+146c1c5d0796df7635306e4e91521178 *foofighters2002-12-11d1t09.flac
+ddecc77b0df15133945dd23f3d1b1ad0 *foofighters2002-12-11d1t10.flac
+327ebdce708f36bade83889d60015ff1 *foofighters2002-12-11d1t11.flac
+51dc69ce4261ae983dba4e103ead5447 *foofighters2002-12-11d1t12.flac
+19b72c4e73aafe2fc98babf9cbe780cc *foofighters2002-12-11d1t13.flac
+6281be2dca4f741263165d550e492324 *foofighters2002-12-11d2t01.flac
+8c51d436ee36d4ef40d7c1d85c108e42 *foofighters2002-12-11d2t02.flac
+671eab0bb554b24eb65f6477aa2e417b *foofighters2002-12-11d2t03.flac
+8b2fb37e9f86666a38939157445ec051 *foofighters2002-12-11d2t04.flac
+45b6d1897472f2e19eccb8af24d5c1eb *foofighters2002-12-11d2t05.flac
+4cf346540de82ed918f809f18c3c5fe7 *foofighters2002-12-11d2t06.flac
+a79c0d80351fabef5707525ef01070dd *foofighters2002-12-11d2t07.flac
+70ebc7842f43bbc858fee0ecc6727785 *foofighters2002-12-11d2t08.flac
+9ab48f2928093cbb770a576d44aa43c4 *foofighters2002-12-11d2t09.flac
+58a6206d5f24ef3da31bc96dff416895 *foofighters2002-12-11d2t10.flac
+cf6595782b61eb5b9498f893bab48a10 *foofighters2002-12-11d2t11.flac
+
+TRANSFERRED BY:
+Miki Johansen
+
+***PLEASE DO NOT SELL OR ENCODE TO MP3***

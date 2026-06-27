@@ -1,0 +1,37 @@
+Foo Fighters
+(Dave Grohl & Chris Shifflet acoustic)
+October 28, 2004
+Capitol Square
+Madison, WI
+NMC020
+
+
+Source:		ATM41a > Sony Hi-MD MZ-NHF800 (PCM) > WAV > FLAC
+
+Conversion:	.OMA > HIMD Renderer .22 > WAV 
+		(for more info, visit: http://www.marcnetsystem.co.uk/himd/)
+		CD Wave used for tracking
+		SoundForge 5.0 to volume increase
+
+Location:	30' from stage under PA		
+
+
+01 Intro			[3:02]
+02 Learn to Fly			[6:25]
+03 Times Like These		[4:50]
+04 My Hero			[4:21]
+
+
+TRT: 18:30
+
+
+Sound Notes:	Mic krinks at the beginning of t01
+		A few pops sprinkled very sporadically
+		
+
+
+Notes:
+This was recorded at a John Kerry for President rally.  Bruce Springsteen also performed at this stop.
+
+
+Recorded, transferred, and seeded by Nate Roth (db.etree.org/nomorecrackpipes) on 10/29/04

@@ -1,0 +1,61 @@
+FOO FIGHTERS
+May 3rd, 1996
+Santa Barbara County Bowl
+Santa Barbara, CA
+
+SOURCE (AUD #1):
+Sonic Studios > Sony TCD-D7 (DAT)
+
+TRANSFER:
+Nakamichi Dragon > Creative Soundblaster Audigy 4 Pro > Adobe Audition 3 > CD Wave 1.97 > Traders Little Helper 1.41
+
+GENERATION:
+DAT(c) > ANA(1) > WAV [96khz/24-Bit] > WAV [44.1khz/16-Bit] > FLAC [Level 8]
+
+LENGTH:
+86:02
+
+TRACKS:
+01. Weenie Beenie
+02. Butterflies
+03. Gas Chamber
+04. For All the Cows
+05. Wattershed
+06. Winnebago
+07. This is a Call
+08. Up in Arms
+09. Big Me
+10. My Poor Brain
+11. Good Grief
+12. Podunk
+13. How I Miss You
+14. Alone + Easy Target
+15. I'll Stick Around
+16. Floaty
+17. Down in the Park
+18. Exhausted
+
+MD5 FINGERPRINTS:
+61a592e7e9ae647a760a43ff21f50443 *FooFighters1996-05-03t01.flac
+00b3fb51fc8dbf5a1daf39090d84e9c9 *FooFighters1996-05-03t02.flac
+bf951f94be308c8d501c41d7f093201d *FooFighters1996-05-03t03.flac
+a43584ebde41f5767d8db0a730da056d *FooFighters1996-05-03t04.flac
+f435172b904dec66b5ae0fee0708add0 *FooFighters1996-05-03t05.flac
+81a17cdd679294444a03ccd57f754cc1 *FooFighters1996-05-03t06.flac
+61b30707348fcdb4d56e17e9d4957768 *FooFighters1996-05-03t07.flac
+cc3c76ad9c5864be74957947b4c801c2 *FooFighters1996-05-03t08.flac
+ab7d3f59e58a770c77ee941fd9a00fb8 *FooFighters1996-05-03t09.flac
+0f4276c77ed353af004d7999e1e79555 *FooFighters1996-05-03t10.flac
+c206a243dc6be3b1c0a8d2cb53e753ce *FooFighters1996-05-03t11.flac
+49d0b27fbaf971c2993db5763c384ec1 *FooFighters1996-05-03t12.flac
+ab741c25b162effe14133fecb923e632 *FooFighters1996-05-03t13.flac
+57812f9dc1a65e3b79a8b525250a55fb *FooFighters1996-05-03t14.flac
+6e82ab968116bb9229eaa5d5e89da61e *FooFighters1996-05-03t15.flac
+837ecded078d6e72b0175d1e3c347298 *FooFighters1996-05-03t16.flac
+2f5ecbfb765847969a0b989ca3c3c720 *FooFighters1996-05-03t17.flac
+1ef4dbba948caf1171306dc0f480180c *FooFighters1996-05-03t18.flac
+
+TRANSFERRED BY:
+i86time
+
+**PLEASE DO NOT ENCODE TO LOSSY FORMATS OR SELL!**

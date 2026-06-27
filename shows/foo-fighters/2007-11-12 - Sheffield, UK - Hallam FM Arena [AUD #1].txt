@@ -1,0 +1,67 @@
+FOO FIGHTERS
+November 12th, 2007
+Hallam FM Arena
+Sheffield, United Kingdom
+
+SOURCE (AUD #1):
+Sound Pro SP-CMC-22 > Sony MZ-R55 (MiniDisc)
+
+TRANSFER:
+MZ-R55 > Line Out > Cool Edit Pro > WAVMerge > Adobe Audition 2.0 > CD Wave > FLAC Frontend 1.7.1
+
+GENERATION:
+MD(M) > WAV [44.1khz/16-bit] > FLAC [Level 8]
+
+LENGTH:
+121:25
+
+TRACKS:
+01. Let It Die
+02. The Pretender
+03. Times Like These
+04. Breakout (cut)
+05. Long Road To Ruin
+06. Learn To Fly
+07. Cheer Up, Boys (Your Make Up Is Running)
+08. DOA
+09. Stacked Actors
+10. Skin And Bones
+11. Marigold
+12. My Hero
+13. Cold Day In The Sun
+14. But, Honestly
+15. Everlong
+16. Monkey Wrench
+17. All My Life
+18. Wattershed
+19. Holiday In Cambodia
+20. Generator
+21. Keep The Car Running
+22. Best Of You
+
+MD5 FINGERPRINTS:
+eadc654db3f866ae3edad10d2e1be77a *01. Let It Die.flac
+2322083b643eb5a0e4ec4694e8a74047 *02. The Pretender.flac
+c4715098ed8b010e27ec44f449731d2e *03. Times Like These.flac
+151ef830eb7ec06e1304d506e9cdee7d *04. Breakout.flac
+938817a03d4268a6c1f0b5254a1097db *05. Long Road To Ruin.flac
+52ed65236de74fa94e1dd200e3d80e2c *06. Learn To Fly.flac
+e08f5f37650750dc49f1d9386be5e2e0 *07. Cheer Up, Boys (Your Make Up Is Running).flac
+4c409c9e796e68ad5a219ae3e4a886cd *08. DOA.flac
+9f25c7fd97a63d00f31149045b247db0 *09. Stacked Actors.flac
+080582eff39f58efb4db0dff85fabd8b *10. Skin And Bones.flac
+e23981d1f21a211aba71f4709276aa54 *11. Marigold.flac
+1a37119829f9ae2eb1d129421555fdac *12. My Hero.flac
+5ee692284f30dae966ec14e2e38a934d *13. Cold Day In The Sun.flac
+008124533879829da746c34ac188ebad *14. But, Honestly.flac
+ac61f3bdb2c5af05841af5fa7aebace4 *15. Everlong.flac
+5d719b2779f8902e98846774f20365a3 *16. Monkey Wrench.flac
+809b42e22a450c7b36b31475e967f63a *17. All My Life.flac
+f059a528393cfe8041118de399ecd6c1 *18. Wattershed.flac
+e03f9f837b66fcd1a7f458280c1f50f8 *19. Holiday In Cambodia.flac
+b29370fb6fb3751a145691c576e65369 *20. Generator.flac
+0e33ba8b4a4c5accb09319326f071908 *21. Keep The Car Running.flac
+e278bec261ba55eba28afb6f21deeddd *22. Best Of You.flac
+
+RECORDED AND TRANSFERRED BY:
+Moz

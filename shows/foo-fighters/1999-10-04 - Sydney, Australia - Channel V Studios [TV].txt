@@ -1,0 +1,24 @@
+Foo Fighters
+
+4 October 1999
+Channel V Studios
+Sydney, New South Wales, Australia
+
+Intro
+Stacked Actors
+Up In Arms
+This Is A Call
+Q&A #1
+Learn To Fly
+Breakout
+Aurora
+Q&A #2
+Monkeywrench
+Hey, Johnny Park
+Everlong
+Breakout (10:30 Slot)
+
+Running Time: 1:00:50
+
+Lineage: Channel V Broadcast > Master VHS > Sony PCM-M10 Line In (WAV,16Bit,44kHz) > Adobe Audition CS6 (Edit/Cut) > TLH V2.7.0 FLAC Lvl8 - Fix SBE's > TagScanner 6.0.35 (Tagging)
+

@@ -1,0 +1,60 @@
+FOO FIGHTERS
+July 29th, 1995
+SOMA 
+San Diego, CA
+
+SOURCE (AUD #1):
+Sonic Studios DSM-6 > Sony TCD-D7 w/ mod2 (DAT)
+
+TRANSFER:
+DAT > Sony Soundforge > CDR > Rubyripper > FLAC.exe
+
+GENERATION:
+DAT(1) > CDR(1) > WAV [44.1khz] > FLAC [Level 8]
+
+LENGTH:
+62:06
+
+NOTES:
+- 'Ain't Talkin' 'bout Love' is briefly jammed on in 'Alone + Easy Target'.
+
+TRACKS:
+01. intro
+02. Winnebago
+03. jam
+04. I'll Stick Around
+05. Butterflies
+06. Wattershed
+07. Big Me
+08. This Is A Call
+09. Weenie Beenie
+10. For All The Cows
+11. My Hero
+12. X-Static
+13. Podunk
+14. Alone + Easy Target
+15. Exhausted
+16. Down In The Park
+
+MD5 FINGERPRINTS:
+26f379063085deef7263b19ef3ef47f2 *FooFighters1995-07-29t01.flac
+a82dc3ca9a8f14fe771585825e8b3dbf *FooFighters1995-07-29t02.flac
+bed7e6f4fb745ad1923871352ac70bb5 *FooFighters1995-07-29t03.flac
+a710cbce42d59a66323ca44a1b4b78ef *FooFighters1995-07-29t04.flac
+f0eb855cfebe02741573bd110e01acf6 *FooFighters1995-07-29t05.flac
+5ad1c353825a7f6777339772578c5774 *FooFighters1995-07-29t06.flac
+e7dc2b53a9fe8b31b3b95c765b5a93b1 *FooFighters1995-07-29t07.flac
+ac091d97bd471b3e4138f7bf0ec9dfa6 *FooFighters1995-07-29t08.flac
+9dbf4cdf6f79b65be6e552e64619623a *FooFighters1995-07-29t09.flac
+e08fe589a3370ee729c75839581045e5 *FooFighters1995-07-29t10.flac
+33bb7f9a491af545aacce17afb13359c *FooFighters1995-07-29t11.flac
+bf9d0ac98399482d2fe78c46aa24a0bd *FooFighters1995-07-29t12.flac
+1c2049942158eeb6db070173483037d9 *FooFighters1995-07-29t13.flac
+cd9e700a00089ab4f0813b2d0ddd9307 *FooFighters1995-07-29t14.flac
+ca8598123b43d472965b77debb81dda8 *FooFighters1995-07-29t15.flac
+9f7ffea1a0510425e50347119c2aa56e *FooFighters1995-07-29t16.flac
+
+TRANSFERRED BY:
+Anoymous
+
+**PLEASE DO NOT ENCODE TO LOSSY FORMATS OR SELL!**

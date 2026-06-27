@@ -1,0 +1,103 @@
+Foo Fighters
+Rock in Rio
+Palco Mundo
+Parque Olímpico
+Rio de Janeiro, Brazil 
+September 28, 2019
+
+Lineage: LIVE Webcast -> Streamlink -> MKVToolNix GUI -> FFmpeg (edit) -> uncompressed .mkv
+Video: MPEG4 Video (H264) 1280x720 16:9 2020 Kbps 30.00 fps
+Audio: HE-AAC with SBR 96 Kbps 44.1 KHz stereo
+
+Setlist:
+All My Life
+The Pretender
+Learn to Fly
+Run
+The Sky Is a Neighborhood
+Times Like These (with drum solo)
+Sunday Rain
+My Hero
+These Days
+La Dee Da
+Walk 
+-Band intro medley-
+Under Pressure (Queen cover) (Taylor Hawkins on vocals)
+Wheels
+Monkey Wrench
+Big Me 
+Best of You
+Everlong
+
+TRT = 02:07:02
+
+Note: This is a perfect capture of the webcast.
+No imperfections were inherent in the broadcast.
+
+Captured and uploaded to DIME by indykid.
+
+MediaInfo:
+General
+Unique ID                                : 96618142404070777666271486693996645465 (0x48AFFA34713EEC7E83140DD388B24C59)
+Complete name                            : E:\downloads\Foo Fighters - 2019-09-28 Rock in Rio, Rio de Janeiro, Brazil [720p].mkv
+Format                                   : Matroska
+Format version                           : Version 4
+File size                                : 1.88 GiB
+Duration                                 : 2 h 7 min
+Overall bit rate                         : 2 118 kb/s
+Writing application                      : Lavf55.19.100
+Writing library                          : Lavf55.19.100
+
+Video
+ID                                       : 1
+Format                                   : AVC
+Format/Info                              : Advanced Video Codec
+Format profile                           : High@L3.1
+Format settings                          : CABAC / 4 Ref Frames
+Format settings, CABAC                   : Yes
+Format settings, RefFrames               : 4 frames
+Codec ID                                 : V_MPEG4/ISO/AVC
+Duration                                 : 2 h 7 min
+Bit rate mode                            : Constant
+Nominal bit rate                         : 2 030 kb/s
+Width                                    : 1 280 pixels
+Height                                   : 720 pixels
+Display aspect ratio                     : 16:9
+Frame rate mode                          : Constant
+Frame rate                               : 30.000 FPS
+Color space                              : YUV
+Chroma subsampling                       : 4:2:0
+Bit depth                                : 8 bits
+Scan type                                : Progressive
+Bits/(Pixel*Frame)                       : 0.073
+Default                                  : Yes
+Forced                                   : No
+Statistics Tags Issue                    : mkvmerge v31.0.0 ('Dolores In A Shoestand') 64-bit 2019-09-29 08:06:58 / Lavf55.19.100 
+FromStats_BitRate                        : 2017613
+FromStats_Duration                       : 03:00:19.999000000
+FromStats_FrameCount                     : 324600
+FromStats_StreamSize                     : 2728822005
+
+Audio
+ID                                       : 2
+Format                                   : AAC LC SBR
+Format/Info                              : Advanced Audio Codec Low Complexity with Spectral Band Replication
+Commercial name                          : HE-AAC
+Format settings                          : Implicit
+Codec ID                                 : A_AAC-2
+Duration                                 : 2 h 7 min
+Channel(s)                               : 2 channels
+Channel layout                           : L R
+Sampling rate                            : 44.1 kHz
+Frame rate                               : 21.533 FPS (2048 SPF)
+Compression mode                         : Lossy
+Delay relative to video                  : 24 ms
+Default                                  : Yes
+Forced                                   : No
+Statistics Tags Issue                    : mkvmerge v31.0.0 ('Dolores In A Shoestand') 64-bit 2019-09-29 08:06:58 / Lavf55.19.100 
+FromStats_BitRate                        : 94794
+FromStats_Duration                       : 03:00:19.988000000
+FromStats_FrameCount                     : 232989
+FromStats_StreamSize                     : 128208785
+
+Captured and uploaded to DIME by indykid.

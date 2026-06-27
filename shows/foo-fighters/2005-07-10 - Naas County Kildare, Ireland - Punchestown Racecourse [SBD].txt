@@ -1,0 +1,28 @@
+ARTIST   : Foo Fighters
+DATE     : 10 July 2005
+LOCATION : Punchestown Racecourse, Naas, County Kildare, Ireland
+INFO     : Oxegen Festival
+
+------------------------------------------------------------------------------------
+
+SOURCE : Soundboard (FM) [2fm Ireland]
+Quality: A +
+
+------------------------------------------------------------------------------------
+
+SETLIST
+
+01. All My Life
+02. Times Like These
+03. My Hero
+04. Best Of You
+05. Up In Arms
+06. The Last Song
+07. Learn To Fly
+08. The One
+09. This Is A Call
+10. Everlong
+11. Monkey Wrench
+
+ADDITIONAL INFO
+This was broadcast on 2fm Ireland. Not the full set that was played.

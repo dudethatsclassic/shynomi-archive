@@ -1,0 +1,100 @@
+Foo Fighters
+August 9, 2011
+Air Canada Centre
+Toronto, Ontario, Canada
+
+Source: CA STC-11's > CA Battery Box > iRiver H120 (16bit/44.1khz)
+Location: Section 105
+Transfer: H120 (wav) > USB 2.0 > Audacity > CD Wave Editor > .flac
+Length: 2:32:22
+Taped & Transferred by: leafsguy/P-Man
+
+Tracklist
+
+01. Intro
+02. Bridge Burning
+03. Rope
+04. The Pretender
+05. My Hero
+06. Hey Toronto
+07. Learn To Fly
+08. White Limo
+09. Arlandria
+10. Breakout
+11. Band Intro
+12. Cold Day In The Sun
+13. Long Road To Ruin
+14. Stacked Actors
+15. Walk
+16. Generator
+17. We're A Rock And Roll Band
+18. Monkey Wrench
+19. Let It Die
+20. These Days
+21. Skin And Bones
+22. This Is A Call
+23. All My Life
+24. Encore Break
+25. About How It Feels
+26. Wheels *
+27. Best Of You *
+28. Times Like These **
+29. Young Man Blues
+30. Thank You Very Much
+31. Everlong
+
+
+* Dave solo
+** Dave solo for half
+
+Notes:
+The Foo Fighters were joined by Fucked Up and Doughboys for the first show of the 2011 US Fall tour in support of their latest album Wasting Light. The venue was sold out. Foo Fighters went on stage just before 9pm.
+
+
+The Foo Fighters consist of:
+Dave Grohl - Guitar/Vocals
+Chris Shiflett - Guitar/Backing Vocals
+Nate Mendel - Bass
+Taylor Hawkins - Drums/Backing Vocals
+Pat Smear - Guitar
+Rami Jaffe - Keyboard/Accordion
+
+***Please do not share this in any lossy format (ie. MP3). If you must convert, convert for your OWN personal use only. I took the time to make this available, please respect these simple requests.***
+***Under no circumstances is this recording to be sold. It was made with the intent to be shared.***
+If you are interested in my other recordings I have made or would like to know what I have, you can email me at torontotaper@gmail.com
+I hope you enjoy the show!
+ 
+
+
+ffp:
+01Intro.flac:35f479802bd4abec6915c31d4424c767
+02BridgeBurning.flac:252a8ff0b8d7493cac7d818cd6cdc3d3
+03Rope.flac:3176fc0f4c3afd2aa31381140fb62d1f
+04ThePretender.flac:04ca181194ed71b231c4390c08fe1504
+05MyHero.flac:260ee21f113099b94ce77ca157bd5bb3
+06HeyToronto.flac:eb275aabf855288589373b7994387af0
+07LearnToFly.flac:6135167611d1763be736b6361147c19b
+08WhiteLimo.flac:dbf046b5840c447726461ab6c3e6515e
+09Arlandria.flac:c6b7bf14880cf02f5546b95c7ae8b465
+10Breakout.flac:cb77156c73dbeb0586d29d7aab074986
+11BandIntro.flac:2356670142c517d951b4126a915942a8
+12ColdDayInTheSun.flac:58687e1f1543c5d8ba78043b9c71cc5a
+13LongRoadToRuin.flac:efd7acb59939f50b6557143d8d56db67
+14StackedActors.flac:9e74623b1b8908534d73d6d292ed08c8
+15Walk.flac:4e0ea5517b98e286a5434d5afe5a90e9
+16Generator.flac:9e901ff12dab4ccae75bda226b8577c9
+17WereARockAndRollBand.flac:a8ebbb3294c3849830359edc4b7273a1
+18MonkeyWrench.flac:713dd6172e409dbd990fe7f64554f6bb
+19LetItDie.flac:c10925bc21ac1c9afd6e62f05469c219
+20TheseDays.flac:2b1f6252b675e3c953efdb6435ac93cb
+21SkinAndBones.flac:06df7d231b12451ec21502d9f7f33c9c
+22ThisIsACall.flac:2d7f529d75c7f04f9ed23b1c21ef95a8
+23AllMyLife.flac:2fb86504523b4e36467c37e9cc641827
+24EncoreBreak.flac:95e70600986b0c06136aca6240fd2400
+25AboutHowItFeels.flac:92a4d7a1b0947c03108a58f34ff99548
+26Wheels.flac:9640f95762639df7f27b057c4a600d6e
+27BestOfYou.flac:a6e748af8459c9c47279ff8bc813836c
+28TimesLikeThese.flac:f598b38533fda277a3757cd3604377fb
+29YoungManBlues.flac:e5c5e9e524faa83229a3734610dd2066
+30ThankYouVeryMuch.flac:91706af126cafe16b7a96be03a7dd058
+31Everlong.flac:7d619787022b220b57418b7fd7d6596d

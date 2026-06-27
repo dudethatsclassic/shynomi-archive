@@ -1,0 +1,23 @@
+Foo Fighters
+2002.09.16
+ABC Studio 227
+Sydney, New South Wales, Australia
+Broadcast Date: 2006.10.07
+As heard on Triple J's 'Impossible Music Festival'
+
+Lineage
+FM Broadcast-->Stereo Receiver-->PC Line-in-->Sound Forge-->.wav-->Flac Frontend-->.flac
+
+Track Listing
+01. Times Like These
+02. Generator
+03. Learn To Fly
+04. Disenchanted Lullaby
+05. Stacked Actors
+06. Low
+07. Monkey Wrench
+08. Tired
+09. Everlong
+10. All My Life
+12. Breakout
+

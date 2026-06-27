@@ -1,0 +1,48 @@
+FOO FIGHTERS
+09 July, 1997
+9:30 Club
+Washington D.C.
+
+SETLIST (AUD#1)
+---------------
+1. Wind Up 
+2. Wattershed 
+3. Hey, Johnny Park! 
+4. Monkey Wrench 
+5. Alone + Easy Target 
+6. Doll 
+7. See You 
+8. My Poor Brain 
+9. For All The Cows 
+10.Enough Space 
+11.Big Me 
+12.Weenie Beenie 
+13.February Stars 
+14.Everlong 
+15.New Way Home 
+16.This Is A Call 
+17.Up In Arms 
+18.I'll Stick Around
+
+GENERATION
+----------------
+ANA(2) -> WAV [48khz] -> WAV [44.1khz] -> FLAC [Level 8]
+
+TRANSFER
+---------------
+Nakamichi DR-3 -> Monster RCA Cable -> INPort -> Adobe Audition 2.0 -> CD Wave -> FLAC Frontend 1.7.1
+
+NOTES
+---------------
+Good hometown show for Dave. Before the encore someone throws a tape onstage and Dave asks the guy who
+threw it if it sucks because there were a bunch in their dressing room too. He thinks about throwing it 
+to the sound guy and having him put it on but doesn't want to hit anyone in the crowd with it so he says
+he will save it and listen to it later. Pretty funny. The tapers levels were off for the first 2 songs and
+it's very distorted. After that things seem to get corrected and only get better as the show goes on. Seems
+to me that this is a DAT sourced recording. If anyone has an upgrade please let me know. Thanks.
+
+Transferred by: Brad Collins (Foofanatic)
+
+Please don't encode to lossy formats or sell ever!!!!!!!!!
+
+If you or anyone else you know has ever taped the Foo Fighters please contact me or one of the other guys at www.foofighterslive.com  

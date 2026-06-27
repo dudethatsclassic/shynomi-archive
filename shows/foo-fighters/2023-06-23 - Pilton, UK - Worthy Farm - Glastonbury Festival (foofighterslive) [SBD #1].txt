@@ -1,0 +1,46 @@
+Foo Fighters
+June 23rd, 2023
+Worthy Farm (Glastonbury Festival)
+Pilton, United Kingdom
+
+SOURCE (SBD #1):
+soundboard > unknown
+
+TRANSFER: 
+ffmpeg version 2021-02-20-git-51a9f487ae > m4acut 0.1.2
+
+GENERATION: 
+Live Webstream [320kbps AAC / 48khz] > M4A
+
+NOTES:
+- Broadcast live by BBC 6 Music.
+- Raw AAC stream split to tracks and placed in M4A container, no re-encoding.
+- Has a short radio ident and warning for swearing after 'The Pretender' and 'Best Of You'.
+
+LENGTH: 
+57:55
+
+TRACKS: 
+01. All My Life
+02. No Son Of Mine
+03. Learn To Fly
+04. Resuced
+05. The Pretender
+06. My Hero
+07. Show Me How
+08. Best Of You
+09. Everlong
+
+MD5 CHECKSUMS: 
+ca8e810ebde6b9a573a9793a27e23ba2 *01. All My Life.m4a
+bdd1724275b9af84a7f203cd3cc8da7e *02. No Son Of Mine.m4a
+8fd03af6f727617e535c11c742d32171 *03. Learn To Fly.m4a
+d0d44f54caa93eef1558610089c37086 *04. Rescued.m4a
+52ce626dfd79d7b87b7c543ba2bd2d44 *05. The Pretender.m4a
+ea32237e68a67085de2fb0f58057031f *06. My Hero.m4a
+204a14aae10a037cf346771f20176e42 *07. Show Me How.m4a
+9214021d4bffe940d0c247b8bb40decb *08. Best Of You.m4a
+718a6b409cacf614e2e63ff79083da49 *09. Everlong.m4a
+
+RECORDED BY: 
+FooFightersLive.com

@@ -1,0 +1,29 @@
+Foo Fighters
+Electric Factory, Philadelphia PA (MTV "$2 Bill" show)
+Recorded 2002-11-02
+Broadcast 2002-11-03
+
+Source: WPLY-FM -> Tascam DA-20mkII DAT (A/D passthrough) @ 32k -> S/PDIF ->
+Audiophile 2496 -> PC -> Cool Edit 2000 (resampling) -> CDWave (tracking) -> FLAC
+
+1. [intro]
+2. All My Life
+3. Breakout
+4. My Hero
+5. Generator
+6. [intro2]
+7. Stacked Actors
+8. Times Like These
+9. Hey, Johnny Park!
+10. Monkey Wrench
+11. Everlong
+
+This is a recording of a radio broadcast I made some years ago.  The
+track listing differs slightly from the MTV version
+(http://www.foofighterslive.com/liveguide/2002/2002-11-02.php), with
+the inclusion of "Hey, Johnny Park!" and the omission of "Low".
+
+I'm only a casual FF fan, but it's been brought to my attention that
+this recording may be uncirculated, hence my posting.  I'd be amazed
+if no one else in the entire metropolitan area recorded it, though I
+guess stranger things have happened...

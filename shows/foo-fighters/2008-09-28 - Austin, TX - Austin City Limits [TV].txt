@@ -1,0 +1,37 @@
+Foo Fighters
+
+HD Digital Broadcast on KEDT-TV (Austin City Limits)
+Captured on Motorola DCH 6416 Digital Video Recorder  
+Transferred via Zoom H2 (line-in via RCA jacks) at 44.1 kHz, 16 bit
+
+Zoom H2 > wav file > Sony Soundforge 8.0 > Traders Little Helper > flac
+
+Sony Soundforge was used to split the large wav file into tracks and to fade in at the beginning and fade out at the end.  TLH was used to correct sector boundary errors and to convert to flac.  
+
+This show was originally broadcast on PBS Soundstage on January 17, 2009 but was recorded on September 29, 2008.
+
+01.	Young Man Blues	5:31
+02.	Skin and Bones	4:55
+03.	My Hero		5:30
+04.	But Honestly	5:35
+05.	Everlong		9:48
+06.	Monkeywrench	1:48
+07.	All My Life		4:31
+08.	Aurora		9:24
+09.	The Pretender	4:59
+10.	Interview		1:17
+
+Band Credits
+Dave Grohl – vocals, guitar
+Taylor Hawkins – drums, vocals
+Nate Mendel – bass
+Chris Shiflett – guitar, vocals
+Jessy Greene – violin, cello, vocals
+Drew Hester – percussion
+Rami Jaffee – keyboard, accordion, piano, mellotron
+Pat Smear – guitar
+
+A Turbo Music Production
+
+Please do not remaster or convert files to MP3 or any other format with the intent to redistribute them.  Please share this content freely in its original format.
+ 

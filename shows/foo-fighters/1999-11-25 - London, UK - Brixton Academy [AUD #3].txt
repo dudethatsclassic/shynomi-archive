@@ -1,0 +1,102 @@
+Foo Fighters
+November 25, 1999
+Brixton Academy
+London, England
+
+SETLIST (82:52)
+---------------
+01) Stacked Actors
+02) My Poor Brain
+03) For All The Cows
+04) Breakout
+05) Learn To Fly
+06) jam
+07) Up In Arms
+08) Ain't It The Life
+09) Monkey Wrench
+10) Hey, Johnny Park!
+11) jam
+12) Alone + Easy Target
+13) Everlong
+14) crowd noise / Dave talking
+15) Generator
+16) Aurora
+17) Dave talking
+18) I'll Stick Around
+19) encore break
+20) Weenie Beenie
+21) Dave talking
+22) Now I'm Here
+23) This Is A Call
+
+GENERATION
+---------------
+DAT(M) -> FLAC
+
+SOURCE (AUD #3)
+---------------
+Sound Professionals CMC-10 hyper-cardioids -> b.box (bass roll-off @ 195hz) -> Sony TCD-D8 -> DAT(M)
+
+TRANSFER
+---------------
+DAT(M) -> Tascam DA-20 mkII -> M-Audio Audiophile 24/96 (via SPDIF) -> CEP 2.1 (level adjustments/fades) -> WAV (48kHz) -> CD Wave 1.82 -> Traders Little Helper 1.1.1 (build 90) -> FLAC(8)
+
+NOTES
+---------------
+Incomplete, missing approximately 1st minute of 'Stacked Actors' (got there late!).  Crackly high-end distortion in some parts, due to Sound Professional mics being of poor standard (in my opinion).
+
+FLAC FINGERPRINTS
+-----------------
+ff-1999-11-25-t01.flac:c8aa6a78842af49a5921e2c2ef6e1cac
+ff-1999-11-25-t02.flac:a157738847287f8caec25f9176bf523c
+ff-1999-11-25-t03.flac:76eccb514ace76014c33cd7079428c32
+ff-1999-11-25-t04.flac:a2c7299a78b5bfd20f3c28692024b15a
+ff-1999-11-25-t05.flac:ddc609b3ac587d7d24003ad98c4e87a2
+ff-1999-11-25-t06.flac:76f41a7b8d35024d9169ba07b0766e66
+ff-1999-11-25-t07.flac:a42961e9d457690ee175558ec9a678a0
+ff-1999-11-25-t08.flac:e04870ca70054255440d0d0bba30b190
+ff-1999-11-25-t09.flac:90e23d7c9203dbfeab15ca20d0598972
+ff-1999-11-25-t10.flac:cf4565a3dec58e0e56e9cc633a1638b8
+ff-1999-11-25-t11.flac:76be277f7c692c85bbc8dc8e64a29bb9
+ff-1999-11-25-t12.flac:b95e33f7444cdee671d722579683f4c4
+ff-1999-11-25-t13.flac:67f2560c24c7eea5aa3bec1780ffc08a
+ff-1999-11-25-t14.flac:0dca0e76d9a17adb0d0906e1161a18f1
+ff-1999-11-25-t15.flac:30608e18fdfce4b58ffa9167f70921df
+ff-1999-11-25-t16.flac:24c5fd3953bdf70b2b638256c9da43f2
+ff-1999-11-25-t17.flac:2523820595eb20efc4a833f6a1020224
+ff-1999-11-25-t18.flac:548cd0df4d6b794cae64a64939af409e
+ff-1999-11-25-t19.flac:d412b797c73aa917bd1b9a78819461f2
+ff-1999-11-25-t20.flac:31abfd56e30fd6362be7c9f21f9feec1
+ff-1999-11-25-t21.flac:d0ad3e368ed1b9520e987d13136c2216
+ff-1999-11-25-t22.flac:3940b72814557acd4a7dea841f999ca6
+ff-1999-11-25-t23.flac:6dc5ee2c4f2e2cb8e238e6c999850e03
+
+MD5 CHECKSUMS
+---------------
+ff32b09d5a62c6d038fd0c8af16d67ca *ff-1999-11-25-t01.flac
+5f2c2aea4a44d591abfed35d2fb49d96 *ff-1999-11-25-t02.flac
+13e601a9cf5c99a9042e8c18c34a660f *ff-1999-11-25-t03.flac
+da78b00fbadb5bfc93fc1457b331b8dd *ff-1999-11-25-t04.flac
+4666655f42d143a4224c4c1adf271728 *ff-1999-11-25-t05.flac
+2b382f16ae826409c2192cf9fffd2db5 *ff-1999-11-25-t06.flac
+f9566cc72ea41def010d09e8a763dede *ff-1999-11-25-t07.flac
+1c4d632b98d5e43376be9b5041c6b906 *ff-1999-11-25-t08.flac
+a50a67e7f3a3d0223c5af8129d195634 *ff-1999-11-25-t09.flac
+4548c24ed6eca1fb02a138a8b4345701 *ff-1999-11-25-t10.flac
+747497feb9c91e8206adfd0e73b87557 *ff-1999-11-25-t11.flac
+a5b6e95fc0c156bfa83c65b2c63883b1 *ff-1999-11-25-t12.flac
+1ac2ff7028fd1f49ce6da0b9124ee485 *ff-1999-11-25-t13.flac
+681b9d34c1940f7b6bebc4096c6bb819 *ff-1999-11-25-t14.flac
+bdb1507b1ec72c3595c7a7d0059a045e *ff-1999-11-25-t15.flac
+d3e8744f85827ef914a82f05defd8a2e *ff-1999-11-25-t16.flac
+d92d7bdb4f4d3da85c23d32fc40f6aa1 *ff-1999-11-25-t17.flac
+ae38ee90b9637ec95bd13863c7517289 *ff-1999-11-25-t18.flac
+151909a041573f5c78ea6ae7bd40a15a *ff-1999-11-25-t19.flac
+868ca6b35abf23fded353bf2d00695af *ff-1999-11-25-t20.flac
+da8048073db222cff8d3da37fcbbbfbe *ff-1999-11-25-t21.flac
+d5d9b1a48aa24828d15f6f604e25b6bf *ff-1999-11-25-t22.flac
+9e1640687a2da8b5a16681d229e4087b *ff-1999-11-25-t23.flac
+
+Taped & transferred by Gary Watson (gary.p.watson@gmail.com).
+
+DO NOT SELL OR RE-ENCODE TO LOSSY FORMATS!

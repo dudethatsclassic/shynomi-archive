@@ -1,0 +1,57 @@
+FOO FIGHTERS
+26th August, 2002
+Astoria Theatre
+London, UK
+
+SETLIST (76:53)
+---------------
+01) All My Life
+02) Generator
+03) My Hero
+04) This Is A Call
+05) Learn To Fly
+06) Disenchanted Lullaby
+07) Stacked Actors
+08) Times Like These
+09) For All The Cows
+10) Low
+11) Everlong
+12) Tired Of You
+13) Drum Solo
+14) Monkey Wrench
+
+GENERATION
+---------------
+DAT(M) -> CDR(1) -> WAV [44.1khz] -> FLAC [Level 8]
+
+SOURCE (AUD#1)
+---------------
+Marantz EM-8 -> Sony D8 (DAT)
+
+NOTES
+---------------
+This was a special secret show for Kerrang magazine.
+
+MD5 FINGERPRINTS
+---------------
+
+1ebeb28aac85f8c3733c0e71d9cdb981 *FF2002-08-26t01.flac
+185679f1d304818f7e43dd60c57d407a *FF2002-08-26t02.flac
+223ba4f0f362d9d3a9fd050d1bbe2a9d *FF2002-08-26t03.flac
+a0a322cde4c3d56470e59bb328129c51 *FF2002-08-26t04.flac
+e9b9b30ba597e01f09f75e23a9f70b03 *FF2002-08-26t05.flac
+4bcf5823ae196957b6580dc2702ed0ab *FF2002-08-26t06.flac
+460b00f511c2fe548bf91d3526cf0d62 *FF2002-08-26t07.flac
+418e9578f62aac3ec365ac4566d4b15b *FF2002-08-26t08.flac
+bd923a765355f72c09f6a2ca4067f2c0 *FF2002-08-26t09.flac
+ccf15b211f7046cae595e7fadf05a931 *FF2002-08-26t10.flac
+df51767247bd94718e5a26e64d312e3b *FF2002-08-26t11.flac
+cd2e7a8cbd5cc1c9a7bb5c8e4dc90fa3 *FF2002-08-26t12.flac
+18067bf6438f10e4e765515641bafaad *FF2002-08-26t13.flac
+3b78e0a728745423cd090c1c533b68a2 *FF2002-08-26t14.flac
+
+DO NOT ENCODE TO MP3 OR ANY LOSSY FORMATS!!
+
+Torrented by Simon Kilmore 28/8/06 
+
+FOOFIGHTERSLIVE.COM

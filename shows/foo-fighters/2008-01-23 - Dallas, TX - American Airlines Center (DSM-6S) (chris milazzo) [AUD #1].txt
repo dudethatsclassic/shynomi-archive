@@ -1,0 +1,64 @@
+Foo Fighters
+Dallas, TX
+American Airlines Center
+23 January 2008
+
+Recording Info:
+Sonic Studios[DSM-6S/L] > Sonic Studios[PA-6LC3(-45)] > Edirol R-9 (24/44.1)
+
+Taping Location:
+SEC 120, ROW E, SEAT 15
+(side of stage right)
+
+Transfer Info:
+24/44.1 Wav > SoundForge 7 (volume boost) > CD Wave (track split, save as 16-bit) > FLAC [level 8, verify, align on sector boundaries]
+
+CMM-095 (Chris Milazzo Master)
+
+** 16-bit version **
+
+[01] [05:16] Let It Die
+[02] [04:37] The Pretender
+[03] [04:58] Times Like These
+[04] [05:54] Breakout
+[05] [04:03] Learn To Fly
+[06] [03:41] Cheer Up Boys, Your Make Up Is Running
+[07] [05:40] This Is A Call
+[08] [11:50] Stacked Actors (w/drum solo)
+[09] [05:41] Skin And Bones *
+[10] [03:25] Marigold *
+[11] [04:44] My Hero *
+[12] [04:40] (band intro)
+[13] [03:55] Cold Day In The Sun *
+[14] [06:04] But, Honestly *
+[15] [05:14] Everlong
+[16] [07:27] Monkey Wrench
+[17] [04:16] All My Life
+[18] [03:51] (encore break)
+[19] [03:22] (Big Me Intro)
+[20] [02:46] Big Me
+[21] [04:01] Long Road To Ruin
+[22] [05:04] Best Of You
+-----------------------------------------------
+ TT: [110:59]
+
+* acoustic set
+
+To burn to discs, make track 13 the first song on disc 2.
+
+An extras folder with a video clip and some pictures is inlcuded.  More pictures can be found here:
+
+http://foofighters.com/blackbox/pictures/2008_01_23_dallas/
+
+The volume of the acoustic set was raised (after the whole show had its volume raised) because it was performed on a secondary
+stage, much further away from me and with its own PA - a picture of it is included.
+
+First torrented 03 February 2008.
+Seed # 95 from my masters.
+
+Chris
+
+
+
+
+

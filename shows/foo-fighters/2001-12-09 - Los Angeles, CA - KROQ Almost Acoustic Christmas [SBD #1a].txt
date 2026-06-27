@@ -1,0 +1,62 @@
+FOO FIGHTERS
+December 9th, 2001
+KROQ Almost Acoustic Christmas,
+Universal Amphitheater, 
+Los Angeles, CA
+
+DISC #1/1 (36:16)
+---------------
+01) DJ Banter
+02) Intro (noise)
+03) Breakout
+04) The One
+05) Learn To Fly
+06) DJ Banter
+07) My Hero
+08) This Is A Call
+09) DJ Banter
+10) Monkey Wrench
+11) I'll Stick Around
+12) Everlong
+13) DJ Banter
+
+SOURCE (SBD #1)
+---------------
+Soundboard -> Unknown -> Westwood One Radio Disc (CDR acetate)
+
+GENERATION
+---------------
+CD ["Absolutely Live In Concert, show #02-16"] -> WAV [44.1kHz] -> FLAC [Level 8]
+
+TRANSFER
+---------------
+Pioneer DVR-109 -> Adobe Audition 1.5 -> CD WAVE 1.94.8 -> FLAC Frontend 1.7.1
+
+NOTES
+---------------
+- retracked, removed the commercials but kept the DJ Banter
+- normalized
+- incomplete show ?
+- hosted by Doug Podell, broadcast the weekend of April 20/21, 2002
+- some digital glitches on the original disc (Breakout beginning...)
+
+MD5 FINGERPRINTS
+---------------
+22e0e268cd89a9e2fbe818191402d5c6 *ff2001-12-09d1t01.flac
+7d7ba45faa33a4b85fac69c93cd3fd08 *ff2001-12-09d1t02.flac
+3eb02c46512ffe6728fa166c0f572c34 *ff2001-12-09d1t03.flac
+04fe3d7632134ffb42760087fb93142f *ff2001-12-09d1t04.flac
+ab4d6245b7086018fb85561d77c4d7e3 *ff2001-12-09d1t05.flac
+7fde53e412b1ed19aaa4613d79c9f846 *ff2001-12-09d1t06.flac
+766a2ad6ff215de81572d1c53bd3de5d *ff2001-12-09d1t07.flac
+52974cbd0bb9166b4a471321db5d2304 *ff2001-12-09d1t08.flac
+1fb35962883d8abf130d636e5135e186 *ff2001-12-09d1t09.flac
+440c3c9f38aa4f76285fc1f1bdd5d043 *ff2001-12-09d1t10.flac
+866fc12e562234cccc44cc1280f834a0 *ff2001-12-09d1t11.flac
+c524390b5d84ff1579a9b9f992fa60fe *ff2001-12-09d1t12.flac
+67913aafb25079b05860d16f1a5a0e97 *ff2001-12-09d1t13.flac
+
+Transferred by
+Pierre Leroy
+
+DO NOT SELL OR ENCODE TO MP3 ! FREE TRADE ONLY !

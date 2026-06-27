@@ -1,0 +1,19 @@
+Foo Fighters
+
+19th September 2002
+Channel V Studios
+Sydney, New South Wales, Australia
+
+Breakout
+My Hero
+All My Life
+Learn To Fly
+Stacked Actors
+Times Like These
+For All The Cows
+Monkey Wrench
+Everlong
+
+Running Time: 45:59
+
+Lineage: Channel V Broadcast > Master VHS > Sony PCM-M10 Line In (WAV,16Bit,44kHz) > Adobe Audition CS6 (Edit/Cut) > TLH V2.7.0 FLAC Lvl8 - Fix SBE's > Foobar - Tagging

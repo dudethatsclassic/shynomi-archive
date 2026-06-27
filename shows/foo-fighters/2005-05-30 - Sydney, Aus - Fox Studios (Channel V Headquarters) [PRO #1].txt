@@ -1,0 +1,44 @@
+FOO FIGHTERS
+MAY 30, 2005
+Fox Studios (Channel [V] Headquarters)
+Sydney, Australia
+
+SOURCE (PRO #1):
+
+TRANSFER:
+Sony HI-FI VCR > Pioneer DVR-550HX-S > ReJig v0.5f > TMPGEnc DVD Author 3
+
+GENERATION:
+DVB-S > VHS(1) [PAL] > DVDR(1) > M2V/AC3 [4.2Mbps VBR/48kHz 256kbps] > DVDR(2)
+
+LENGTH:
+45:45
+
+NOTES:
+- This is an upgrade on the previous circulating version.
+
+SETLIST:
+01. This is a Call
+02. No Way Back
+03. Times Like These
+04. Generator
+05. My Hero
+06. Best Of You
+07. Learn To Fly
+08. Everlong
+09. Monkey Wrench
+10. All My Life
+
+MD5 FINGERPRINTS:
+94877054a0b665f3397c49a0e0154fa4 *VIDEO_TS\VIDEO_TS.BUP
+94877054a0b665f3397c49a0e0154fa4 *VIDEO_TS\VIDEO_TS.IFO
+b19268ec32ba3ddeb10dbee16c319ef1 *VIDEO_TS\VTS_01_0.BUP
+b19268ec32ba3ddeb10dbee16c319ef1 *VIDEO_TS\VTS_01_0.IFO
+dfcf753fbfe8e4703a78e6a7a458fdba *VIDEO_TS\VTS_01_0.VOB
+d8bc34327f9bd9e6296cec3f6aad0d63 *VIDEO_TS\VTS_01_1.VOB
+84f8a76358650ab7d438f221f8a61230 *VIDEO_TS\VTS_01_2.VOB
+
+TRANSFERRED BY:
+Jamie Lee
+
+PLEASE DO NOT SELL OR ENCODE TO ANY OTHER FORMAT

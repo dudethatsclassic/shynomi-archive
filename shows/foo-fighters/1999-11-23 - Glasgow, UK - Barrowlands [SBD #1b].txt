@@ -1,0 +1,42 @@
+Foo Fighters
+23rd November, 1999
+Barrowlands
+Glasgow, United Kingdom
+
+SOURCE (SBD #1b):
+soundboard > unknown
+
+TRANSFER:
+FM > Sony SBM-1 > Sony TCD-D8 > Dio 2496 > Soundforge > CDR > Rubyripper > FLAC.exe
+
+GENERATION:
+FM > DAT(x) > CDR(1) > WAV [44.1khz] > FLAC [Level 8]
+
+LENGTH:
+19:21
+
+NOTES:
+- Second broadcast on BBC Radio 1 Rock Show.
+- The crowd sing the vocals on 'We Will Rock You'.
+- Some songs likely broadcast out of order.
+
+TRACKS:
+01. interview
+02. banter
+03. We Will Rock You (jam)
+04. Generator
+05. Breakout
+06. I'll Stick Around
+
+MD5 FINGERPRINTS:
+011decfef233f4fa0ab5f0d90bf7a9f4 *FooFighters1999-11-23t01.flac
+3e5084802726e432386936f785e66191 *FooFighters1999-11-23t02.flac
+635c0ccc517ce27cd017a76323297c65 *FooFighters1999-11-23t03.flac
+4dd0f9a0224d51e366ec376059c011cc *FooFighters1999-11-23t04.flac
+328284e4402176baa9b1c52859faa30f *FooFighters1999-11-23t05.flac
+03bf6a37cde8fdc554cad70dea301aa8 *FooFighters1999-11-23t06.flac
+
+TRANSFERRED BY:
+Anonymous
+
+**PLEASE DO NOT ENCODE TO LOSSY FORMATS OR SELL!**

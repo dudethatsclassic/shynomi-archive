@@ -1,0 +1,68 @@
+Foo Fighters
+April 24th, 2008
+Adelaide Entertainment Centre
+Adelaide, Australia
+
+SOURCE (AUD #1):
+Audio Technica AT831 > Sound Pro SP-SPSB-11 > Sony MZ-NH900 (Hi-MD Minidisc)
+
+TRANSFER:
+USB > Adobe Audition CC 2018 > CD Wave 1.98 > Trader's Little Helper 2.7.0
+
+GENERATION:
+Hi-MD(M) > WAV [44.1khz/16-bit] > FLAC [Level 8]
+
+LENGTH:
+130:28
+
+NOTES:
+- The taper had issues with their microphones, there are adjustment noises through the first three songs and occasionally later in the recording.
+
+TRACKS:
+01. Let It Die
+02. The Pretender
+03. Times Like These
+04. Breakout
+05. Learn To Fly
+06. Cheer Up, Boys (Your Make Up Is Running)
+07. This Is A Call
+08. Stacked Actors
+09. Skin And Bones
+10. Marigold 
+11. My Hero
+12. jam
+13. Cold Day In The Sun
+14. But, Honestly
+15. Ballad Of The Beaconsfield Miners
+16. Everlong (cut)
+17. Monkey Wrench
+18. All My Life
+19. Big Me
+20. Long Road to Ruin
+21. Best of You
+
+MD5 FINGERPRINTS:
+b3ef6b20a5e2b71a61f886531097d66c *01. Let It Die.flac
+d91e2e952727b88572839af571910beb *02. The Pretender.flac
+9177eb535033bcd0df894bcd9b0849a0 *03. Times Like These.flac
+cd8a8227fe4bacad3b366ce56a6134a8 *04. Breakout.flac
+e1a70d47b14932c28d3c65ec2e1f7963 *05. Learn To Fly.flac
+6e2778b966684651bee2afa1345b7e41 *06. Cheer Up, Boys (Your Make Up Is Running).flac
+b3312273abda7fe29e267905f6e41f22 *07. This Is A Call.flac
+d26e79efc4bc63a2e3d21d578e6f05d8 *08. Stacked Actors.flac
+44e735d3b9923d29d1c0821d86be9207 *09. Skin And Bones.flac
+8f7f80fccc77805f5fcc46ce275e8a9a *10. Marigold.flac
+5f1c72668eb9862886c07c43a7ad6b77 *11. My Hero.flac
+fb6496060db4af70fc369f4fbec63f11 *12. jam.flac
+d378e5ac93358dcf44b4a4aef39d4d71 *13. Cold Day In The Sun.flac
+d296c5d0d3f404b11805904066b9b69e *14. But, Honestly.flac
+f615a90e20562759d0eedfb41c0cb514 *15. Ballad Of The Beaconsfield Miners.flac
+dd54976194892399a5a6b573d2f6cdee *16. Everlong.flac
+1d45099b15ad80cea0c11d2de75b3c8d *17. Monkey Wrench.flac
+db382dd93a647779a3362a84b0497ec0 *18. All My Life.flac
+6490f0c6f540e9818775c0a5d93e9e5c *19. Big Me.flac
+f33492ead9e470fee4f16eccb301870c *20. Long Road To Ruin.flac
+8a90c30ebe46dd5c48f62c7f43f6420e *21. Best Of You.flac
+
+RECORDED AND TRANSFERRED BY:
+jasonrhl

@@ -1,0 +1,70 @@
+Foo Fighters
+The Ellen DeGeneres Show 
+NBC Studios, Burbank, California. 
+2018-05-11 
+
+01. The Line 
+
+Digital TV (Gem, Australia) -> Topfield PVR (mpeg-4) -> AviDemux (mkv) 
+General
+Unique ID                                : 109286393338465987547239088037970554480 (0x5237CB32D64F6B3177ABFCB1C3D3AE70)
+Format                                   : Matroska
+Format version                           : Version 4 / Version 2
+File size                                : 127 MiB
+Duration                                 : 4 min
+Overall bit rate                         : 4 256 kb/s
+Writing application                      : Lavf56.36.100
+Writing library                          : Lavf56.36.100 / Lavf56.36.100
+
+Video
+ID                                       : 1
+Format                                   : AVC
+Format/Info                              : Advanced Video Codec
+Format profile                           : High@L4
+Format settings, CABAC                   : Yes
+Format settings, ReFrames                : 4 frames
+Format settings, GOP                     : M=4, N=24
+Codec ID                                 : V_MPEG4/ISO/AVC
+Duration                                 : 4 min
+Bit rate                                 : 3 724 kb/s
+Width                                    : 1 920 pixels
+Height                                   : 1 080 pixels
+Display aspect ratio                     : 16:9
+Frame rate mode                          : Constant
+Frame rate                               : 25.000 FPS
+Color space                              : YUV
+Chroma subsampling                       : 4:2:0
+Bit depth                                : 8 bits
+Scan type                                : Interlaced
+Scan type, store method                  : Separated fields
+Scan order                               : Top Field First
+Bits/(Pixel*Frame)                       : 0.072
+Stream size                              : 111 MiB (87%)
+Default                                  : Yes
+Forced                                   : No
+Color range                              : Limited
+Color primaries                          : BT.709
+Transfer characteristics                 : BT.709
+Matrix coefficients                      : BT.709
+
+Audio
+ID                                       : 2
+Format                                   : AC-3
+Format/Info                              : Audio Coding 3
+Mode extension                           : CM (complete main)
+Format settings, Endianness              : Big
+Codec ID                                 : A_AC3
+Duration                                 : 4 min
+Bit rate mode                            : Constant
+Bit rate                                 : 448 kb/s
+Channel(s)                               : 6 channels
+Channel positions                        : Front: L C R, Side: L R, LFE
+Sampling rate                            : 48.0 kHz
+Frame rate                               : 31.250 FPS (1536 spf)
+Compression mode                         : Lossy
+Delay relative to video                  : -960 ms
+Stream size                              : 13.4 MiB (11%)
+Language                                 : English
+Default                                  : Yes
+Forced                                   : No
+

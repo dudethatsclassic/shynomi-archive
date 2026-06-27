@@ -1,0 +1,50 @@
+FOO FIGHTERS
+21 July, 1997
+Club DV8
+Seattle, WA
+
+SETLIST (AUD#2)
+---------------
+1. Wind Up 
+2. Wattershed 
+3. Hey, Johnny Park! 
+4. Monkey Wrench 
+5. Alone + Easy Target 
+6. Doll 
+7. See You 
+8. My Poor Brain 
+9. For All The Cows 
+10.Enough Space 
+11.Up In Arms 
+12.Weenie Beenie 
+13.February Stars 
+14.Everlong 
+15.New Way Home 
+16.This Is A Call 
+17.Butterflies 
+18.I'll Stick Around
+
+Equipment
+----------
+Sony Clip On->Sony MD (Taper lost both the recorder and mic. Has no idea on what models they were.)
+
+GENERATION
+----------------
+MD(M) -> WAV [44.1khz] -> FLAC [Level 8]
+
+TRANSFER
+---------------
+Sony MDS-JE520 -> Monster SPDIF Cable -> Turtle Beach Montego -> Adobe Audition 2.0 -> CDWAVE -> Flac Frontend 
+
+NOTES
+---------------
+Rare 1997 performance of "Butterflies". This song was played early on the first album tour but only surfaced a few
+times on the Colour and the Shape tour. Quality is not as good as the DAT recording.  A little overloaded but still 
+good overall.  Mic taper recorded with was Mono so I copied the left channel into the right as well to make this recording
+stereo.  To my knowledge all copies of this until now only had sound coming out of the left speaker.  
+
+Transferred by: Brad Collins (Foofanatic)
+
+DO NOT SELL OR ENCODE INTO LOSSY FORMATS EVER!!!!!!!!!
+
+Thanks again to KS for lending me his masters to transfer.

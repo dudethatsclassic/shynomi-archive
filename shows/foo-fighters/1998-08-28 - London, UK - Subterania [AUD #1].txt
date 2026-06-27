@@ -1,0 +1,40 @@
+FOO FIGHTERS
+August 28, 1998
+Subterania
+London, United Kingdom
+
+SOURCE (AUD #1):
+Core Sound Binaurals > Core Sound Battery Box > Sony WM-D6C (cassette)
+
+TRANSFER:
+Yamaha KX-393 > M-Audio Audiophile 2496 > Cool Edit Pro 2.1 > Adobe Audition 3.0 > CD Wave Editor 1.98 > Trader´s Little Helper 2.4.1
+
+GENERATION:
+ANA(M) > WAV [48kHz] > WAV [44.1kHz] > FLAC [Level 8]
+
+LENGTH:
+32:09
+
+NOTES:
+- Incomplete. Missing everything before the 'Stairway To Heaven' (jam).
+
+TRACKS:
+01. Stairway To Heaven (jam)
+02. Everlong
+03. New Way Home
+04. This Is A Call
+05. Walking After You
+06. I'll Stick Around
+
+MD5 FINGERPRINTS:
+4dc4d1914e6d52f27cc47916a0e1143e *FooFighters1998-08-28t01.flac
+6278a150cdc96dd1f45000ef508e253d *FooFighters1998-08-28t02.flac
+6643ba93315a937e24f26df3c7d7211a *FooFighters1998-08-28t03.flac
+d35fd9d0f788fb0899519eace309c207 *FooFighters1998-08-28t04.flac
+126cd9e82060ee3e9a5c59a5a387c090 *FooFighters1998-08-28t05.flac
+2356625b6020fdc03ff78fb1fa0566c1 *FooFighters1998-08-28t06.flac
+
+TAPED & TRANSFERRED BY:
+Gary Watson (gary.p.watson@gmail.com)
+
+***PLEASE DO NOT SELL OR ENCODE TO MP3***

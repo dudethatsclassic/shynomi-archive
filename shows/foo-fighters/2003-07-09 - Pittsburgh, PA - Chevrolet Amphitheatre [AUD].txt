@@ -1,0 +1,67 @@
+Foo Fighters
+July 9, 2003
+Chevrolet Amphitheatre at Station Square
+Pittsburgh, PA
+
+DISC 1/2 (78:25)
+----------------
+01) intro
+02) All My Life
+03) My Hero
+04) The One
+05) Have It All
+06) Generator
+07) Learn to Fly
+08) For All The Cows
+09) This is a Call
+10) "jam"
+11) Stacked Actors
+12) "Yeah!!!"
+13) Low
+14) Hey, Johnny Park
+15) Monkey Wrench
+16) Tired of You
+17) Times Like These
+
+DISC 2/2 (15:10)
+----------------
+01) intro
+02) Aurora
+03) Everlong
+
+LINEAGE
+----------------
+MD(M) > WAV [44.1kHz] > FLAC [Level 8]
+
+SOURCE
+----------------
+Sound Professionals SP-BMC-1 > Sharp MD-MS702
+
+MD5 FINGERPRINTS
+----------------
+802ba4abb313673e18d551171fc8c158 *Disc 01/FF_2003-07-09_d1t01.flac
+5631f30ecc74d66974d43fe552c5ce03 *Disc 01/FF_2003-07-09_d1t02.flac
+854f595a39271dab0b808971f20aa38a *Disc 01/FF_2003-07-09_d1t03.flac
+b861708be6ee19e58861260f48e0c2a0 *Disc 01/FF_2003-07-09_d1t04.flac
+feed81737914b051cbb89815e96fcdac *Disc 01/FF_2003-07-09_d1t05.flac
+0a72ccc38eb5531de4036dd0b33a8fcf *Disc 01/FF_2003-07-09_d1t06.flac
+2bb3ce514f3d503a71cf07f89ccca23a *Disc 01/FF_2003-07-09_d1t07.flac
+7b57159b7ad22190d92c08a119259898 *Disc 01/FF_2003-07-09_d1t08.flac
+689692dc1d369c5ff8efd905db124375 *Disc 01/FF_2003-07-09_d1t09.flac
+b208225838bfa9784c6dd0f4f216a943 *Disc 01/FF_2003-07-09_d1t10.flac
+0ec67c5ff27df3ae3f17253d546b9f1d *Disc 01/FF_2003-07-09_d1t11.flac
+ce320400dd6ada79c07db6e035ad5a4d *Disc 01/FF_2003-07-09_d1t12.flac
+25a0dda09ad20efed793da85f00d6feb *Disc 01/FF_2003-07-09_d1t13.flac
+d4f4fe9feaea454b7ca023434d3cbec1 *Disc 01/FF_2003-07-09_d1t14.flac
+bf93673f33a01c44e0e3c4bf68540825 *Disc 01/FF_2003-07-09_d1t15.flac
+fb7f342301a7772ce31c40240360d854 *Disc 01/FF_2003-07-09_d1t16.flac
+82870e4dc1c32d890136c8ed7d2a054c *Disc 01/FF_2003-07-09_d1t17.flac
+506690f3d76d56a377987ddcb2c6e3ab *Disc 02/FF_2003-07-09_d2t01.flac
+5e618f94b09157929225aeb355ef570c *Disc 02/FF_2003-07-09_d2t02.flac
+671cea7d89004e576eae1bebe9bd11d9 *Disc 02/FF_2003-07-09_d2t03.flac
+
+
+***NOTE********
+I apparently had a loose cable while recording this show, so it is plagued with problems throughout.  I consider this for the true completist, but it is worth a listen for the many extended jams of the songs.  I personally like the "Fairwell to Kings" ending of Everlong.
+
+Try to Enjoy

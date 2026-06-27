@@ -1,0 +1,59 @@
+FOO FIGHTERS
+August 13, 1995
+Academy,
+New York, NY
+
+DISC #1/1 (66:38)
+----------------- 
+01. Winnebago
+02. I'll Stick Around
+03. Butterflies
+04. Wattershed
+05. Big Me
+06. This Is A Call
+07. Weenie Beenie
+08. For All The Cows
+09. X-Static
+10. Oh, George
+11. Podunk
+12. Alone + Easy Target
+13. Exhausted
+14. Lovin' Touchin' Squeezin'
+15. Good Grief
+16. Down In The Park
+
+GENERATION 
+----------------- 
+DAT(M) -> DAT(2) -> WAV [48kHz] -> WAV [44.1kHz] -> FLAC [Level 8]
+
+SOURCE (AUD #2)
+----------------- 
+Core Sound Binaural -> Sony TCD-D7
+
+TRANSFER 
+----------------- 
+Tascam DA-20 MKII -> Apogee S/PDIF cable -> LynxONE digital-in -> Adobe Audition 1.5 -> CD Wave 1.98 -> FLAC Frontend 1.7.1 
+
+MD5 FINGERPRINTS
+-----------------
+e2245acbe7709392c2ade57293ba5668 *foofighters_1995-08-13_aud2_dat2_d1t01.flac
+4c640fb88e2221b4779603463a6f93be *foofighters_1995-08-13_aud2_dat2_d1t02.flac
+5105fed8084e6c4d0d1528938325a295 *foofighters_1995-08-13_aud2_dat2_d1t03.flac
+b4d02eb91b69495eaed773e3e4fd3703 *foofighters_1995-08-13_aud2_dat2_d1t04.flac
+ebc8f60e5c431c8e3dd8cdad7820aec5 *foofighters_1995-08-13_aud2_dat2_d1t05.flac
+56b1c5c13c9e22f151b6c54d697466cc *foofighters_1995-08-13_aud2_dat2_d1t06.flac
+3a26a19c6fbca7c3b34bc0fc5f450234 *foofighters_1995-08-13_aud2_dat2_d1t07.flac
+b4edac83373445520083c439344c75b7 *foofighters_1995-08-13_aud2_dat2_d1t08.flac
+c86d3b7ea817eddf693aad28913ed090 *foofighters_1995-08-13_aud2_dat2_d1t09.flac
+67cca0b25d3f75b0bf9a358e695ecbb0 *foofighters_1995-08-13_aud2_dat2_d1t10.flac
+213c4aee14055476408a0d43443e3dd1 *foofighters_1995-08-13_aud2_dat2_d1t11.flac
+460a3e43af3424bc90fe846212a5f4f9 *foofighters_1995-08-13_aud2_dat2_d1t12.flac
+770202d666f4a648d9e8b4888780aba1 *foofighters_1995-08-13_aud2_dat2_d1t13.flac
+b84fc5ea821debd5d19c0c01bb9d467f *foofighters_1995-08-13_aud2_dat2_d1t14.flac
+6e107dddb083606e06c0274c0569fa23 *foofighters_1995-08-13_aud2_dat2_d1t15.flac
+12a17d9e08c083c7bb7cc4c3e3701612 *foofighters_1995-08-13_aud2_dat2_d1t16.flac
+70eb7d7fda23fa07d9b14c74e36f0d0a *foofighters_1995-08-13_aud2_dat2_d1t17.flac
+
+
+Transferred by Mike Ziegler. 
+PLEASE DO NOT ENCODE TO MP3 OR SELL!

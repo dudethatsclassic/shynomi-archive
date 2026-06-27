@@ -1,0 +1,32 @@
+
+Foo Fighters
+Molson Park: Barrie, Ontario
+"Summersault Festival"
+August 11, 2000
+
+Source: Sennheiser MKE-2002 > Sony TCD-D8 @ 44.1kHz
+Lineage: DAT Master > FLAC
+Transfer: DAT Master > Tascam DA-20 > M-Audio Microtrack II > Audacity (amplify) > CDWave > TLH
+Taper: MS
+
+Setlist:
+
+01 Breakout
+02 Learn to Fly
+03 My Hero
+04 For All the Cows
+05 This is a Call
+06 Big Me
+07 Stacked Actors
+08 Next Year
+09 Monkeywrench
+10 Everlong
+
+Notes: I did not tape this show, but I acquired the master DAT in 2009. Transferred in 2020. Amplified entire file by +5.5dB. Raw transfer with no fades or EQ.
+
+Archive: Master DAT was transferred @ 44.1 kHz and FLAC'd with cue sheet. 
+
+Transferred by tapeworm(48) 
+Txt file compiled on 8/24/2020
+
+*** DO NOT DISTRIBUTE IN LOSSY FORMATS. DO NOT SELL THIS RECORDING, TRADE IT FREELY *** 

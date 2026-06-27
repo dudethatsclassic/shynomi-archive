@@ -1,0 +1,48 @@
+FOO FIGHTERS
+April 24, 1995
+Cat's Cradle
+Carrboro, NC
+
+SOURCE (AUD #1):
+supplied > Sony (cassette)
+
+TRANSFER:
+Sony TC-RX77ES > M-Audio Audiophile 2496 > Adobe Audition 3.0 > CD Wave Editor 1.97 > Trader´s Little Helper 2.4.1
+
+GENERATION:
+ANA(1) > WAV [48khz/16-bit] > FLAC [Level 8]
+
+LENGTH:
+42:12
+
+NOTES:
+- Cut after 'For All The Cows' due to a tape flip. No music is missing.
+
+TRACKS:
+01. I'll Stick Around
+02. Floaty
+03. Butterflies
+04. This Is A Call
+05. For All The Cows
+06. Wattershed
+07. Big Me
+08. Winnebago
+09. Alone + Easy Target
+10. Exhausted
+
+MD5 FINGERPRINTS:
+f283378188f861f013f2bbfae15fed71 *01. I'll Stick Around.flac
+8f87fe03682844ec84755d2e272bb4c9 *02. Floaty.flac
+4fc3f8ae11bc7fdc2cdadae8fc5d5b5f *03. Butterflies.flac
+a5ca50788e78e98f4be388dc690b7fbe *04. This Is A Call.flac
+8e7415f038acdc57cb0d029dd46cc5f9 *05. For All The Cows.flac
+01efa2fd8cbeed4dc0b97c4bd1d0097c *06. Wattershed.flac
+76875642499137d8ccda7a0f55c79456 *07. Big Me.flac
+71566ec99ada701457cd8576e25b1cd1 *08. Winnebago.flac
+913a5df00d7661a079ef52a8036474a8 *09. Alone + Easy Target.flac
+9c48439416ac49836883ec25bcea4cd0 *10. Exhausted.flac
+
+TRANSFERRED BY:
+Scott Honda
+
+**PLEASE DO NOT ENCODE TO LOSSY FORMATS OR SELL!**

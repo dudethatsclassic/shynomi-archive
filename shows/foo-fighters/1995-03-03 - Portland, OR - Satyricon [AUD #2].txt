@@ -1,0 +1,50 @@
+FOO FIGHTERS
+March 3rd, 1995
+Satyricon
+Portland, OR
+
+SOURCE (AUD #2):
+Sony (Supplied) > Sony WM-D3 (cassette)
+
+TRANSFER:
+Nakamichi CR-1A > Mac G4 > Peak > FLAC Frontend > Adobe Audition 3.0 > CDWave 1.98 > Traders Little Helper 2.6.0
+
+GENERATION:
+ANA(M) > WAV [44.1khz] > FLAC [Level 8]
+
+NOTES:
+- Encore break is cut, 'Winnebago' cuts in ever so slightly.
+
+LENGTH:
+46:05
+
+TRACKS:
+01. Floaty
+02. I'll Stick Around
+03. This Is A Call
+04. Big Me
+05. Wattershed
+06. For All The Cows
+07. Butterflies
+08. Alone + Easy Target
+09. Podunk
+10. Exhausted
+11. Winnebago
+
+MD5 FINGERPRINTS:
+ef3258a3c41ccb8540f789b77afbbbf7 *FooFighters1995-03-03t01.flac
+10611b459a0a5e840f34407a52ef4f5c *FooFighters1995-03-03t02.flac
+418c88132320c46b8aac767523fd6d6e *FooFighters1995-03-03t03.flac
+2c7793863df53c021cf983d0c5a1a22d *FooFighters1995-03-03t04.flac
+8f3a891e9c1a413da4db45b69bb8c2ec *FooFighters1995-03-03t05.flac
+393b70dbca803c2b52d1353357c6a67e *FooFighters1995-03-03t06.flac
+3b952749d0a551001fde59fc819fa119 *FooFighters1995-03-03t07.flac
+f67e7d71a77bcbac4be7b7b66c5c8fe7 *FooFighters1995-03-03t08.flac
+dce05ec7c7a994ce8b34aca73226b429 *FooFighters1995-03-03t09.flac
+6261bf0cb107bd8f8b12082f8c681334 *FooFighters1995-03-03t10.flac
+9e096175c2e23f092f2aad713303d6f7 *FooFighters1995-03-03t11.flac
+
+RECORDED AND TRANSFERRED BY:
+geech
+
+**PLEASE DO NOT ENCODE TO LOSSY FORMATS OR SELL!**

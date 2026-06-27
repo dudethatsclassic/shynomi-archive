@@ -1,0 +1,79 @@
+Foo Fighters
+August 26th, 2012
+Little John's Farm (Reading Festival)
+Reading, United Kingdom
+
+SOURCE (PRO #1):
+soundboard > unknown
+
+TRANSFER:
+Tevii S464 DVB-S2 > Womble MPEG Video Wizard 5 > ReJig 0.5f > Adobe Audition CS5.5 > CDWave 1.98 > Trader's Little Helper 2.7.0
+
+GENERATION:
+DVB-S > MP2 [256kbps] > WAV [48khz] > WAV [44.1khz] > FLAC [Level 8]
+
+LENGTH:
+137:27
+
+TRACKS:
+01. White Limo
+02. All My Life
+03. Rope
+04. The Pretender
+05. My Hero
+06. Learn To Fly
+07. Arlandria
+08. Breakout
+09. I'm The One (jam)
+10. Cold Day In The Sun
+11. I'll Stick Around
+12. Generator
+13. These Days (jam)
+14. These Days
+15. Monkey Wrench
+16. Hey, Johnny Park!
+17. Alone + Easy Target
+18. Bridge Burning
+19. This Is A Call
+20. In The Flesh?
+21. Best Of You
+22. Times Like These
+23. Winnebago
+24. Wattershed
+25. For All The Cows
+26. Exhausted
+27. Everlong 
+
+MD5 FINGERPRINTS:
+cbc345110d2cc0f5cf0bc7e103fe7de6 *FooFighters2012-08-26t01.flac
+7e3cec3a637777c4d05849dbbc97cd3f *FooFighters2012-08-26t02.flac
+d511cc1fb0f47a8541c7630f1b53e051 *FooFighters2012-08-26t03.flac
+df889559faec4217742b4b9779f68eea *FooFighters2012-08-26t04.flac
+094dfde5e0e119f2d0dbe0b7336f989a *FooFighters2012-08-26t05.flac
+b8435ee4bcc468d666b8326cfa184983 *FooFighters2012-08-26t06.flac
+574be02f2330b2db370e6d864434b2f7 *FooFighters2012-08-26t07.flac
+c1a2a72c4c783334288e6e1faa8bdf34 *FooFighters2012-08-26t08.flac
+e2f6e4ad14f3891b192c79eee3bbd200 *FooFighters2012-08-26t09.flac
+5900e92395fce5d8d2de097d30017335 *FooFighters2012-08-26t10.flac
+ad7c67a85697f3ce295edf85a8112def *FooFighters2012-08-26t11.flac
+b95ccdb10a85a8b8e79c5c0e6fc5b580 *FooFighters2012-08-26t12.flac
+8dbf2e13334881588600778367ae8a06 *FooFighters2012-08-26t13.flac
+d32e39568b54484a486d53c059c10e53 *FooFighters2012-08-26t14.flac
+a5acfb9001c9253f7ef58a0557e8bd25 *FooFighters2012-08-26t15.flac
+07e556d1350c5cab1521e2d6bd280b6a *FooFighters2012-08-26t16.flac
+cc204a006b3a377f9723db375476f3f3 *FooFighters2012-08-26t17.flac
+0a64ec188fa44c15f45db4058caac2b4 *FooFighters2012-08-26t18.flac
+7732b9d1cc44d241616233d8f8ab23e6 *FooFighters2012-08-26t19.flac
+08bb143e74faa5e232e86ef6abbb8232 *FooFighters2012-08-26t20.flac
+0688cd6d4196ffdddbc0f44d72baee2d *FooFighters2012-08-26t21.flac
+2e6f0643632342a7c0f61914e2479e7b *FooFighters2012-08-26t22.flac
+bcf90c0066544d456a962776c4eb1eae *FooFighters2012-08-26t23.flac
+8a4283f50b415e8c93e135e0c964c54e *FooFighters2012-08-26t24.flac
+b471f2645f12d0966eddc657c6ea71f6 *FooFighters2012-08-26t25.flac
+fdb1af88134c766d4290ead1d7aaa604 *FooFighters2012-08-26t26.flac
+22eef31ac326fbc53a7494e2199314ff *FooFighters2012-08-26t27.flac
+
+EXTRACTED BY:
+Simon Kilmore
+
+**PLEASE DO NOT ENCODE TO LOSSY FORMATS OR SELL!**

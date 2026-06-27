@@ -1,0 +1,68 @@
+FOO FIGHTERS
+November 06, 1995
+Le Bataclan
+Paris, France
+
+DISC #1/1 (71:35)
+-----------------
+01. Enough Space
+02. This Is A Call
+03. Winnebago
+04. Wattershed
+05. For All The Cows
+06. Weenie Beenie
+07. Butterflies
+08. Big Me
+09. I'll Stick Around
+10. Oh, George
+11. Good Grief
+12. jam
+13. Podunk
+14. Alone + Easy Target
+15. Exhausted
+16. Floaty
+17. Up In Arms
+18. Gas Chamber
+19. Down In The Park
+20. My Hero
+
+GENERATION
+-----------------
+DAT(1) -> WAV [32kHz] -> WAV [44.1kHz] -> FLAC [Level 8]
+
+SOURCE (AUD #3)
+-----------------
+Unknown -> Unknown
+
+TRANSFER
+-----------------
+Tascam DA-20 MKII -> Viablue S/PDIF cable -> M-Audio Delta Audiophile 192 digital-in -> Adobe Audition 3.0 -> CD Wave 1.98 -> FLAC Frontend 1.7.1
+
+NOTES
+-----------------
+- thanks to SD for letting me transfer his tape
+
+MD5 FINGERPRINTS
+-----------------
+14f95be30302082eebfa4744c151fed9 *foofighters_1995-11-06_aud3_dat1_d1t01.flac
+fc3fb5cfb9a6d2116e2cac77d4794382 *foofighters_1995-11-06_aud3_dat1_d1t02.flac
+f29ee3a56162ea126de16f548d5eccb7 *foofighters_1995-11-06_aud3_dat1_d1t03.flac
+2505122a12f6cdc053767f6e7104cc7e *foofighters_1995-11-06_aud3_dat1_d1t04.flac
+aa17edbf5ce2402457335574d9292ae9 *foofighters_1995-11-06_aud3_dat1_d1t05.flac
+9109ad3ef0cb8c2ae2b935c766f67714 *foofighters_1995-11-06_aud3_dat1_d1t06.flac
+2f1005cbf01bb17f071f853dfbb2bf0f *foofighters_1995-11-06_aud3_dat1_d1t07.flac
+aec78eec69832219cf1000542dbab4f9 *foofighters_1995-11-06_aud3_dat1_d1t08.flac
+e8adb3a40246b170a949ca8e102fbe56 *foofighters_1995-11-06_aud3_dat1_d1t09.flac
+5cdebd55a8914595c4125a499cfd7141 *foofighters_1995-11-06_aud3_dat1_d1t10.flac
+eabb868e0e9436115fd881ad2f5c0ef7 *foofighters_1995-11-06_aud3_dat1_d1t11.flac
+2678d605fe7fd18a8adccb0f42744389 *foofighters_1995-11-06_aud3_dat1_d1t12.flac
+581110e9f22a4277cac99309cce9c328 *foofighters_1995-11-06_aud3_dat1_d1t13.flac
+06c73247baa8b236f81104d685e56fa3 *foofighters_1995-11-06_aud3_dat1_d1t14.flac
+1d8e7906de623820b7f7630a5b7f39db *foofighters_1995-11-06_aud3_dat1_d1t15.flac
+e6c1d7ebc958bca7e22445f25ffc361b *foofighters_1995-11-06_aud3_dat1_d1t16.flac
+e8e2a5803bb18411ba5897677109289d *foofighters_1995-11-06_aud3_dat1_d1t17.flac
+a374b95dff33de46d475f1c3d4142dea *foofighters_1995-11-06_aud3_dat1_d1t18.flac
+59a59a1c7e6b6dda79ed17bb4a0fd9b9 *foofighters_1995-11-06_aud3_dat1_d1t19.flac
+
+Transferred by Pierre Leroy
+PLEASE DO NOT ENCODE TO MP3 OR SELL! 

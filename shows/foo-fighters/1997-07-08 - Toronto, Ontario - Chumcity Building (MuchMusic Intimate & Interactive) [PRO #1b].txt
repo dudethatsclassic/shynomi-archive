@@ -1,0 +1,52 @@
+Foo Fighters
+July 8th, 1997
+Chumcity Building (MuchMusic Intimate and Interactive)
+Toronto, ON, Canada
+
+SOURCE (PRO #1b):
+soundboard > unknown
+
+EXTRACTION:
+Rubyripper > Flac.exe
+
+GENERATION:
+TV > DAT(x) > CDR(1) > WAV [44.1khz] > FLAC [Level 8]
+
+LENGTH:
+45:47
+
+NOTES:
+- Includes only the musical performances, interview segments are not included.
+
+TRACKS:
+01. intro
+02. Monkey Wrench
+03. Alone + Easy Target
+04. Hey, Johnny Park!
+05. Everlong
+06. Wind Up
+07. Wattershed
+08. Enough Space
+09. This Is A Call
+10. February Stars
+11. New Way Home
+12. Big Me
+
+MD5 FINGERPRINTS:
+08a70d0278fa038e68ca45ae87b0cc31 *FooFighters1997-07-08t01.flac
+b48a2706706083963446c8d1cea047c6 *FooFighters1997-07-08t02.flac
+ce296c00940baa58db4407a8b7d54ca4 *FooFighters1997-07-08t03.flac
+66c4a3208cad286ad9b10494267fb220 *FooFighters1997-07-08t04.flac
+e3aa79d02a95ff32fd8238d875466dab *FooFighters1997-07-08t05.flac
+9d1476eed3fc5d7d5307e0ef1a91ba97 *FooFighters1997-07-08t06.flac
+ab5087757aeaf84d38572d875454945f *FooFighters1997-07-08t07.flac
+369534b948c85466964ebc2c9e90da14 *FooFighters1997-07-08t08.flac
+4c8c4175cbb0f3b25b4958eb2867c46f *FooFighters1997-07-08t09.flac
+698105fbbf21354fad97c553c3484225 *FooFighters1997-07-08t10.flac
+3d025bb03889881f16b2bfa384691b54 *FooFighters1997-07-08t11.flac
+8a5553bc5d608e02b284cb2e29def776 *FooFighters1997-07-08t12.flac
+
+TRANSFERRED BY:
+Unknown
+
+**PLEASE DO NOT ENCODE TO LOSSY FORMATS OR SELL!**

@@ -1,0 +1,95 @@
+Foo Fighters
+Landmarks Live in Concert
+Odeon of Herodes Atticus
+Acropolis
+Athens, Greece
+July 10, 2017
+
+Lineage: PBS Webcast -> downloaded .ts segments (batch script) -> TSSplitter (join) -> .ts 
+Video: MPEG4 Video (H264) 1920x1080 16:9 6630 Kbps 29.97 fps 
+Audio: AAC 147 Kbps 48.0 KHz stereo 
+
+Multi-Grammy-winning rock band Foo Fighters delivers an electrifying, historic performance at the famed Odeon of Herodes Atticus from the Acropolis in Athens, Greece, in the latest installment of the PBS series 'Landmarks Live in Concert for Great Performances'.
+
+Setlist:
+Times Like These
+Walk
+Dirty Water
+These Days
+My Hero
+Best Of You
+Everlong
+
+TRT = 00:52:08 
+(Some Q&A segments with Chad Smith are interspersed during the show)
+
+Web Exclusive Bonus Tracks:
+The Pretender 00:09:07
+Sunday Rain 00:06:23
+
+Note: This is a perfect capture of the webcast. Any imperfections, if present, were inherent in the broadcast. 
+
+Captured and uploaded to DIME by indykid. 
+
+MediaInfo:
+General
+ID                          : 1 (0x1)
+Complete name               : Foo Fighters - 2017-07-10 Landmarks Live in Concert, Athens, Greece [1080p].ts
+Format                      : MPEG-TS
+File size                   : 2.47 GiB
+Duration                    : 52 min 8 s
+Overall bit rate mode       : Variable
+Overall bit rate            : 6 778 kb/s
+
+Video
+ID                          : 481 (0x1E1)
+Menu ID                     : 1 (0x1)
+Format                      : AVC
+Format/Info                 : Advanced Video Codec
+Format profile              : High@L4
+Format settings, CABAC      : Yes
+Format settings, ReFrames   : 3 frames
+Codec ID                    : 27
+Duration                    : 52 min 8 s
+Bit rate mode               : Constant
+Nominal bit rate            : 6 500 kb/s
+Maximum bit rate            : 6 870 kb/s
+Width                       : 1 920 pixels
+Height                      : 1 080 pixels
+Display aspect ratio        : 16:9
+Frame rate                  : 29.970 (30000/1001) FPS
+Color space                 : YUV
+Chroma subsampling          : 4:2:0
+Bit depth                   : 8 bits
+Scan type                   : Progressive
+Bits/(Pixel*Frame)          : 0.105
+
+Audio
+ID                          : 482 (0x1E2)
+Menu ID                     : 1 (0x1)
+Format                      : AAC
+Format/Info                 : Advanced Audio Codec
+Format version              : Version 4
+Format profile              : LC
+Muxing mode                 : ADTS
+Codec ID                    : 15
+Duration                    : 52 min 7 s
+Bit rate mode               : Variable
+Maximum bit rate            : 147 kb/s
+Channel(s)                  : 2 channels
+Channel positions           : Front: L R
+Sampling rate               : 48.0 kHz
+Frame rate                  : 46.875 FPS (1024 spf)
+Compression mode            : Lossy
+Delay relative to video     : -33 ms
+Language                    : English
+
+Menu
+ID                          : 480 (0x1E0)
+Menu ID                     : 1 (0x1)
+Duration                    : 52 min 8 s
+List                        : 481 (0x1E1) (AVC) / 482 (0x1E2) (AAC, English)
+Language                    :  / English
+Maximum bit rate            : 7017200
+
+Captured and uploaded to DIME by indykid.

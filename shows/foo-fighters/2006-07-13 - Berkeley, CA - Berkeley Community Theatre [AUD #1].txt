@@ -1,0 +1,63 @@
+FOO FIGHTERS
+July 13, 2006
+Berkeley Community Theatre
+Berkeley, CA
+
+SETLIST (89:17)
+---------------
+01) Razor
+02) Still
+03) On The Mend
+04) Walking After You
+05) Over And Out
+06) jam
+07) Next Year
+08) Another Round
+09) Ain't It The Life
+10) See You
+11) Floaty (w/ Petra Haden on vocals)
+12) Virginia Moon
+13) Cold Day In The Sun
+14) Miracle
+15) February Stars
+16) Times Like These (cuts out)
+
+GENERATION
+---------------
+MP3(M) [160kbps/44.1khz] -> REMASTER -> WAV [44.1khz] -> FLAC [Level 8]
+
+SOURCE (AUD #1)
+---------------
+unknown -> unknown
+
+TRANSFER
+---------------
+Unknown -> Adobe Audition 2.0 -> CD Wave 1.95.1 -> FLAC Frontend 1.7.1
+
+NOTES
+---------------
+Incomplete, missing 'Everlong', 'Friend Of A Friend' and 'Best Of You'.
+Recorded with an MP3 Player.
+Original file had very low volume so was boosted and slightly tweaked.
+
+MD5 FINGERPRINTS
+---------------
+6309f717f4c59001d1cc0431bc0e9afa *FooFighters2007-07-13t01.flac
+275502cc404a10490be8069ea5dce110 *FooFighters2007-07-13t02.flac
+abe37992d8a8d2c1699979393a24118c *FooFighters2007-07-13t03.flac
+303d090575336e6e18ff6fa00b3bfc93 *FooFighters2007-07-13t04.flac
+00c212ebe45f80cc1e90af7cc2b8d4ec *FooFighters2007-07-13t05.flac
+7d1b210acf025265503314fb4abb38ae *FooFighters2007-07-13t06.flac
+53bafac48d3e4f59753d988708dda370 *FooFighters2007-07-13t07.flac
+63fffec1db0e645b7e5c47a4643bae90 *FooFighters2007-07-13t08.flac
+e67d8a396f1151548604f611d06c66a7 *FooFighters2007-07-13t09.flac
+a8c424b652a757e77f584015e5e68f35 *FooFighters2007-07-13t10.flac
+3fcd051d6e3c44b91ae8465de33f3d23 *FooFighters2007-07-13t11.flac
+8bad44d5139b6c03cffc24c42f607afb *FooFighters2007-07-13t12.flac
+26db33db3ab80e19f8139a190c2b2869 *FooFighters2007-07-13t13.flac
+85f6dcf9a92a165c1d8a51320f577d93 *FooFighters2007-07-13t14.flac
+610388d18f222243973e81cc05440300 *FooFighters2007-07-13t15.flac
+55dd64a2eee950fdc7fe6df9c8046b2d *FooFighters2007-07-13t16.flac
+
+Remastered by JWB.
+Do NOT re-encode to lossy formats or SELL.

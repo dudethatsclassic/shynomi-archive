@@ -1,0 +1,67 @@
+Foo Fighters - 2023 08 12 @ Golden Gate Park, San Francisco CA
+
+Show note:
+Outside Lands 2023. It was cold and foggy, and winds started up, so there is some phasing due to the wind.  The Foos stated at 8 PM, and at about halfway through a lot of the crowd went to catch Lana Del Ray, so we were able to move up. During the band intros, Dave talks about how Josh drummed on Michael Buble's songs when he spots someone holding a Michael Buble sign in the audience and invites him on the stage to sing "Haven't Met You Yet" - of course it was Michael Buble.  Shame Shame was a last minute change, with Violet Grohl on vocals.  Monkey Wrench was on the setlist, but dropped due to time considerations - curfew was at 10 PM, and the band literally played the last note of Everlong then set clock hit 10 PM.
+
+1 intro
+2 All My Life
+3 The Pretender (with "Ain't Talking 'Bout Love" riff)
+4 No Son of Mine (with "Enter Sandman" and "Paranoid" riffs)
+5 Rescued
+6 Walk
+7 Learn to Fly
+8 Times Like These
+9 Breakout
+10 band intros & medly 
+  a Chris Shiflett guitar solo
+  b Sabotage [Beastie Boys]
+  c Rami Jaffee keyboard solo
+  d Blitkreig Bop [The Ramones]
+  e Whip It [Devo]
+  f March of the Pigs [Nine Inch Nails]
+11 Haven't Met You Yet [Michael Bublé] (with Michael Bublé)
+12 My Hero
+13 This Is a Call
+14 The Sky Is a Neighborhood
+15 Shame Shame (with Violet Grohl)
+16 Show Me How (with Violet Grohl)
+17 The Teacher (with Violet Grohl)
+18 Best of You
+19 Aurora (dedicated to Taylor Hawkins)
+20 Everlong
+
+Saturday line-up:
+Alvvays
+Conan Gray
+Dan Ashley
+Daniel Avery
+Donny Benét
+EREZ
+FISHER
+Father John Misty
+Foo Fighters
+Geographer
+Jessie Murph
+Kim Ann Foxman
+Lana Del Rey
+Lovejoy
+L’Impératrice
+MANILA GREY
+Maggie Rogers
+Mariah the Scientist
+NIKI
+No Vacation
+Nora en Pure
+SMOKED OUT SOUL
+Sour Widows
+TOPS
+VNSSA
+Wednesday
+Zack Fox
+midwxst
+orion sun
+
+Location: inline with the right speaker stack.
+Taper: loughney
+Lineage: Schoeps MK4 > BabyNBox > Sony A10 > WAV (44.1/24) > SoundForge (fades, volume normalization) > CDWAVE (splits) > FLAC 
+

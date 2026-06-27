@@ -1,0 +1,36 @@
+Foo Fighters
+08.04.00
+Vancouver, BC
+BC Place Stadium
+Summersault Festival
+
+source: DSM-6S/L>PA-6LC3B(250)>MD-MS722
+transfer: Sony MDS-S39>Optical Cable>IHP-140>USB 2.0>HD
+lineage: MD(m)>WAV(m)>FLAC
+editing: Fade in/Fade out
+
+Setlist
+
+Breakout
+Learn to Fly
+This is a Call
+For All the Cows
+I'll Stick Around
+Big Me
+Stacked Actors/(Drum Jam %)/Have a Cigar*
+Next Year
+Monkey Wrench
+Everlong
+
+bonus:
+interview w/ Dave (cut)
+
+% 2 drum kits, taylor hawkins plays one, dave plays the other.
+* Pink Floyd
+
+Notes:
+There's a few mic touches throughout.  That's the staticy noise you hear.
+Bonus interview is w/ dave day of the show, ripped it from a webcast way back when,
+it ends abruptly. Show itself doesn't sound that bad.  but there is some talking 
+throughout and the bassroll wasn't set very well so there's no real ummmph in 
+the recording, oh well.

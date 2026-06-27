@@ -1,0 +1,71 @@
+Foo Fighters
+October 19th, 2021
+Climate Pledge Arena (A New Way Home benefit)
+Seattle, WA
+
+SOURCE (AUD #1):
+Shure MV88 > iPhone
+
+TRANSFER: 
+USB > Adobe Audition 2019 > CD Wave 1.98 > flac 1.3.2
+
+GENERATION: 
+WAV(M) [44.1khz/16-bit] > FLAC [Level 8]
+
+LENGTH: 
+144:09
+
+TRACKS: 
+01. Times Like These
+02. The Pretender
+03. Learn to Fly
+04. No Son of Mine
+05. The Sky Is A Neighborhood
+06. Shame Shame
+07. Breakout
+08. My Hero
+09. These Days
+10. Walk
+11. You Should Be Dancing
+12. My Generation (Jam)
+13. jam
+14. Blitzkrieg Bop (Part Of)
+15. Somebody To Love
+16. All My Life
+17. This Is A Call
+18. Big Me
+19. Wattershed
+20. Aurora
+21. Monkey Wrench
+22. Hey, Johnny Park!
+23. New Way Home
+24. Everlong
+
+MD5 CHECKSUMS: 
+b5a021214df3294fddf106315441c9a7 *01. Times Like These.flac
+042473b793e9e1ced07be1b7235385f5 *02. The Pretender.flac
+860ae692cdb65b8769df218f34757ac0 *03. Learn To Fly.flac
+4202061f63f422afecdbc10bd5e760d2 *04. No Son Of Mine.flac
+c265e19d45c5e99d167a6a4432ef9969 *05. The Sky Is A Neighborhood.flac
+75dd86d06d44e873d05369f5a4124daf *06. Shame Shame.flac
+136bc59dcb899e39acdfa1379df6c06f *07. Breakout.flac
+4f44b1c64ace0ce69cbd5324db2a6a83 *08. My Hero.flac
+2f35f02c260a1fd31f8a16f59b9958a8 *09. These Days.flac
+f76c0f0a4e559cdeed1ae40f60e9dcf2 *10. Walk.flac
+080abf901a7cd4361aed72b891ebfbd4 *11. You Should Be Dancing.flac
+ffdf1b0c5f23372192ee2bb4abf7d39a *12. My Generation (jam).flac
+bb7a2132f7207496cacfc9171b612636 *13. jam.flac
+8efa90900d4cad1fbd2f0e89124bf868 *14. Blitzkrieg Bop (partial).flac
+8037987e58765b988398719b528614d0 *15. Somebody To Love.flac
+5360dba25dcb3825224e44e490888da8 *16. All My Life.flac
+2d4d605b732890a2eddae314ca1c8969 *17. This Is A Call.flac
+8bcd818ef5cd1a8dc3e0bb5a093c687f *18. Big Me.flac
+238a6e907db5dd0f59f16300315219ee *19. Wattershed.flac
+875a8910713e59e8c45b12006967e94c *20. Aurora.flac
+f4f1bcb1f5be3f64fd0a4580afa33b81 *21. Monkey Wrench.flac
+4292903670b7e6b32fdd0d3fe2fa0e61 *22. Hey, Johnny Park!.flac
+47068e23838e99098252b920f72e36db *23. New Way Home.flac
+6e7b6e074126da976a9fd1556eeb3aa3 *24. Everlong.flac
+
+RECORDED BY: 
+toolshirt

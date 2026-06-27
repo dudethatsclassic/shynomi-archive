@@ -1,0 +1,59 @@
+Foo Fighters
+April 27th, 1996
+Salem Armory
+Salem, OR
+
+SOURCE (AUD #1):
+unknown > unknown (DAT)
+
+TRANSFER: 
+unknown > Adobe Audition CC 2018 > CD Wave 1.98 > Trader's Little Helper 2.7.0
+
+GENERATION: 
+DAT(x) > ANA(1) > CDR(3) > WAV [44.1khz/16-bit] > FLAC [Level 8]
+
+LENGTH: 
+74:18
+
+TRACKS: 
+01. Enough Space
+02. This Is A Call
+03. Good Grief
+04. Alone + Easy Target
+05. For All The Cows
+06. Wattershed
+07. Up In Arms
+08. Butterflies
+09. Big Me
+10. Winnebago
+11. Gas Chamber
+12. My Poor Brain
+13. Weenie Beenie
+14. Podunk
+15. How I Miss You
+16. I'll Stick Around
+17. Down In The Park
+18. Exhausted
+
+MD5 CHECKSUMS: 
+0b440ecd798be419316b5f79413fa94d *01. Enough Space.flac
+99bf033afb88cfde4a9ce29aa258d6fc *02. This Is A Call.flac
+5fb7e465e1231f3304780143d0093947 *03. Good Grief.flac
+a478d93c047f17c4225462d86ac7ed63 *04. Alone + Easy Target.flac
+406850ae0cfae8869eda00831645010a *05. For All The Cows.flac
+e5752c9c46920d4e83eddfc469b76388 *06. Wattershed.flac
+51886f518c5c7876c686d024f574feab *07. Up In Arms.flac
+32a769d601723ededf4c14cc78e88452 *08. Butterflies.flac
+eccb3ef23d12ec1a3e4298a8e9592aa4 *09. Big Me.flac
+23db596c0929cb11fde6cf5a254e2599 *10. Winnebago.flac
+a75df091d7ebf5788e5f5abc0a444ddf *11. Gas Chamber.flac
+2b6c0a4d3c3bcc5b96cfec989b8f7523 *12. My Poor Brain.flac
+8f17979e8fe92b6050ca957a0ccac9ad *13. Weenie Beenie.flac
+fb28e673c5c1a78b72f0a7f26ded3a99 *14. Podunk.flac
+6fff5bba8ffb8f2c5b703b1643541043 *15. How I Miss You.flac
+63d14aebc460490cc7db5ef0ecce984b *16. I'll Stick Around.flac
+78f76fe218dd3e7ea0322db6da9e2120 *17. Down In The Park.flac
+7801210dea6c1a65d0225fd151354bae *18. Exhausted.flac
+
+TRANSFERRED BY: 
+Brad Collins

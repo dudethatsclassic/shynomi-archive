@@ -1,0 +1,35 @@
+FOO FIGHTERS
+February 1, 2008
+Reno Events Center
+Reno, NV
+
+SETLIST (40:31)
+---------------
+01) Let It Die
+02) The Pretender
+03) Times Like These
+04) Breakout
+05) Learn To Fly
+06) Cheer Up, Boys (Your Make Up Is Running) (cut)
+07) This Is A Call
+08) Stacked Actors (cuts out)
+
+GENERATION
+---------------
+MiniDVD(M) -> AC3 [256kbps] -> WAV [48khz] -> WAV [44.1khz] -> FLAC [Level 8]
+
+SOURCE (AMT #1)
+---------------
+built-in -> Sony DCR-DVD300 (MiniDVD)
+
+TRANSFER
+---------------
+DVD Decrypter 3.5.4.0 -> ffmpeg w/ SUPER GUI -> Besweet v1.5b31 w/ Besweet GUI v0.6 -> Adobe Audition 2.0 -> CD Wave -> FLAC Frontend 1.7.1
+
+MD5 FINGERPRINTS
+---------------
+
+Recorded by Damian Seavers.
+Transferred by Simon Kilmore.
+DO NOT ENCODE TO LOSSY FORMATS OR SELL!!!!
+

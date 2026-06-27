@@ -1,0 +1,35 @@
+Foo Fighters
+March 24, 2000
+Target Center
+Minneapolis, MN
+
+   Taper: pjp
+  Source: CSBmod>Sharp 722
+Location: ~50 yards from stage, right side seated section
+Transfer: MDS-JE520>MidiMan CO2>Zoltrix Nightingale>CDwav>CDR-0>EAC>.flac
+ Editing: 
+   Notes: Opening for Red Hot Chili Peppers
+ 
+************************************************************************
+	              DO NOT ENCODE TO LOSSY FORMATS!	
+************************************************************************
+
+Setlist:
+
+ 01. Monkey Wrench
+ 02. Learn to Fly
+ 03. My Hero
+ 04. For All the Cows
+ 05. Breakout
+ 06. Big Me
+ 07. Stacked Actors
+ 08. Aurora
+ 09. I'll Stick Around
+ 10. Alone+Easy Target
+ 11. Everlong
+ 12. This is a Call
+
+ 
+Total Running Time: 53 minutes
+
+************************************************************************

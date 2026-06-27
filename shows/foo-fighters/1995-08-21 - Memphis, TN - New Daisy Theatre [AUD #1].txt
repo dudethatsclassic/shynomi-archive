@@ -1,0 +1,59 @@
+Foo Fighters
+August 21st, 1995
+New Daisy Theatre
+Mephis, TN
+
+SOURCE (AUD #1):
+unknown > unknown
+
+TRANSFER:
+Yamaha KX-500U > Audacity > CDWave 1.98 > Trader's little Helper 2.7.0
+
+GENERATION:
+ANA(2) > WAV [44.1khz] > FLAC [Level 8]
+
+LENGTH:
+57:34
+
+NOTES:
+- 'Weenie Beenie' was initially aborted due to a power failure and there are minor intermittent sound issues at the venue throughout. 
+
+TRACKS:
+01. intro
+02. Winnebago
+03. I'll Stick Around
+04. Butterflies
+05. Blackbird (jam)
+06. Wattershed
+07. Big Me
+08. This Is A Call
+09. Weenie Beenie
+10. For All The Cows
+11. X-Static
+12. Good Grief
+13. Alone + Easy Target
+14. Podunk
+15. Exhausted
+
+MD5 FINGERPRINTS:
+657081e23611f4ae3cec608196981008 *FooFighters1995-08-21t01.flac
+1e3bde931eed261f31c0c2efca25cdcc *FooFighters1995-08-21t02.flac
+643359e876f031b6e008c0fbc1d3d180 *FooFighters1995-08-21t03.flac
+39f4304f856d779c31581b711226fda8 *FooFighters1995-08-21t04.flac
+efa96c155517d9f76962a72dc3a70257 *FooFighters1995-08-21t05.flac
+4c400f6f11df22de50bf213e4673d7a5 *FooFighters1995-08-21t06.flac
+e91e949ba8914fd69f6a21d819ee4615 *FooFighters1995-08-21t07.flac
+db6e791dad6cfba6d78f0077b29e587e *FooFighters1995-08-21t08.flac
+fb13ea75963f5e658c0b4f09c943533c *FooFighters1995-08-21t09.flac
+c067273e1d386ef0be2f60455ea742dc *FooFighters1995-08-21t10.flac
+79e5b0f85f9ed2b95139da824931afba *FooFighters1995-08-21t11.flac
+3f8d8839fac66f67a1c948019950575f *FooFighters1995-08-21t12.flac
+e0056b733e1ca7d274a475baecff7564 *FooFighters1995-08-21t13.flac
+7c8dc594b03e8b715b6750759de83c2e *FooFighters1995-08-21t14.flac
+1777fed6ed66aeec295a998668f4bfa5 *FooFighters1995-08-21t15.flac
+5e18745c9ce9590bd2164f70fd92dd95 *FooFighters1995-08-21t16.flac
+
+TRANSFERRED BY:
+Phil H.
+
+**PLEASE DO NOT ENCODE TO LOSSY FORMATS OR SELL!**

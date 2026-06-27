@@ -1,0 +1,61 @@
+Foo Fighters
+October 22nd, 2000
+House of Blues at Mandalay Bay Casino
+Las Vegas, NV
+
+SOURCE (AUD #1):
+supplied > Sony WM-D3 (cassette)
+
+TRANSFER:
+unknown > Exact Audio Copy > Adobe Audition CC 2018 > CDWave 1.98 > Trader's Little Helper 2.7.0
+
+GENERATION:
+ANA(M) > CDR(2) > WAV [44.1khz] > FLAC [Level 8]
+
+LENGTH:
+75:31
+
+NOTES: 
+- Tape flip during 'Stacked Actors', around 15 seconds of music is missing.
+- Incomplete, missing the encore.
+
+TRACKS:
+01. Breakout
+02. Learn To Fly
+03. Wattershed
+04. Doll
+05. See You
+06. My Hero
+07. New Way Home
+08. Aurora
+09. Stacked Actors (cut)
+10. Ain't It The Life
+11. Next Year
+12. I'll Stick Around
+13. Headwires
+14. Monkey Wrench
+15. MIA
+16. Everlong
+
+MD5 FINGERPRINTS:
+35af28da0f51dd72efe92ed1ae3616c2 *01. Breakout.flac
+266de92599d1cb25df2ded8a737f9ebb *02. Learn To Fly.flac
+2ab11dd75895c6bc72680711219f2f69 *03. Wattershed.flac
+489675f898753194dbdcec1f57fc8f68 *04. Doll.flac
+83c0e303c4558bb5be309b128ccadcab *05. See You.flac
+1d55a5bd8e6e4cb72276916873baa9da *06. My Hero.flac
+63e10e876eb652aa3b26ba2b242511f1 *07. New Way Home.flac
+08d3f620d94cfcf7be97248ab1725638 *08. Aurora.flac
+9cf015d17732ab830010a3d3941e9c94 *09. Stacked Actors.flac
+26cc7a9ed8c303ea31f26947868da678 *10. Ain't It The Life.flac
+e5abdcfc3a6949b39bb91bccf734c283 *11. Next Year.flac
+3699ab5fab3f6ea20783ebd24609e11d *12. I'll Stick Around.flac
+b209637b71a5187b84b9b2cdff4f425b *13. Headwires.flac
+32ae76b7b6b6f75c09b5df381539518c *14. Monkey Wrench.flac
+f80bd98e404bf2782ee50e38ade0d819 *15. MIA.flac
+590c98ddf560924851bd8c1b09c6580c *16. Everlong.flac
+
+TRANSFERRED BY:
+Unknown
+
+**PLEASE DO NOT ENCODE TO LOSSY FORMATS OR SELL!**

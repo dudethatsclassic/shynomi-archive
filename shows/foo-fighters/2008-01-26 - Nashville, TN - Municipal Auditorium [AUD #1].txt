@@ -1,0 +1,70 @@
+Foo Fighters
+Municipal Auditorium
+Nashville, TN
+January 26th, 2008
+
+Source: Church Audio STC-11 > Edirol R-09 (16/44.1)
+Location: Acoustic stage barricade, 5' right of DFC
+Transfer: R-09 > USB > PC > Sound Forge 6 > CD Wave > FLAC Frontend
+
+Editing Notes:
+- Normalized with Sound Forge
+- Tracked with CD Wave
+- Encoded with FLAC Frontend @ Level 8
+
+Taped and Seeded by Chris Brightwell (chris.brightwell@gmail.com)
+
+Running Time: 1h 46m 08s
+
+Setlist:
+01: Let It Die [1]
+02: The Pretender
+03: Times Like These
+04: Breakout
+05: Dave talks to the crowd.
+06: Learn to Fly
+07: Cheer Up, Boys (Your Makeup Is Running)
+08: This Is a Call
+09: Stacked Actors > Drum Solo > Stacked Actors
+10: Skin and Bones [2]
+11: Marigold [a]
+12: My Hero
+13: Dave introduces the band.
+14: Cold Day in the Sun
+15: But, Honestly
+16: Everlong [3]
+17: Monkeywrench
+18: crowd noise (encore call)
+19: Keep the Car Running [b]
+20: All My Life
+
+Recording Notes:
+[1] I managed to not unpause the R-09 at the right time, so I lost the first
+    minute or so of Let It Die.
+
+[2] During the beginning of this song, the band moved to a smaller stage in
+    the middle of the arena floor.  They switched to a different set of
+    speakers, which I was almost directly beneath.  This explains the change
+    in sound quality for the next several songs.
+
+[3] Dave starts this song alone on the smaller stage while the band moves to
+    the main stage.  Dave will join them on the main stage for the conclusion
+    of this song and the sound will move back to the main stacks for the
+    remainder of the show.
+
+
+Other Notes:
+[a] "Marigold" is an old Nirvana B-Side, written by Dave Grohl in 1990.
+    More info @ http://en.wikipedia.org/wiki/Marigold_(song)
+
+[b] "Keep the Car Running" is a song by Arcade Fire
+
+
+A few notes to the listener:
+* PLEASE DO NOT SELL THIS RECORDING UNDER ANY CIRCUMSTANCES.  I share this
+  in good faith and will not continue to do so if my recordings show up in
+  bootleg catalogs and on eBay.
+
+* You're more than welcome to transcode this recording to MP3 or other
+  formats for your own personal use, but please do not redistribute the
+  lossy versions of this recording.

@@ -1,0 +1,44 @@
+FOO FIGHTERS 
+December 9, 2006
+Gibson Amphitheater (KROQ Almost Acoustic Christmas)
+Hollywood, CA
+
+SETLIST (40:18)
+---------------
+01) Times Like These
+02) My Hero
+03) Skin And Bones
+04) Everlong
+05) Monkey Wrench
+06) Learn To Fly
+07) Darling Nikki
+08) Best Of You
+09) All My Life
+
+GENERATION
+---------------
+Live Webcast -> ASF/WMA [64kbps/48khz] -> WAV [48khz] -> WAV [44.1khz] -> FLAC [Level 8]
+
+SOURCE (PRO #1)
+---------------
+soundboard -> unknown
+
+TRANSFER
+---------------
+unknown -> ffmpeg w/ SUPER GUI -> Adobe Audition 2 -> CD Wave 1.9.1 -> FLAC Frontend 1.7.1
+
+NOTES
+---------------
+Has digital skips and errors throughout.
+
+MD5 FINGERPRINTS
+---------------
+f2b7e4d208620e36d8d65354d438d29e *ff12090601.flac
+3b34cfd95442027d47d6ac9e3c8823df *ff12090602.flac
+55362b26d71c0d100a6bc9eb7179c871 *ff12090603.flac
+c5c12f4c72bc8e411de495751a86ed36 *ff12090604.flac
+b6d4d10adaec26f2304716db117051d7 *ff12090605.flac
+5610dd7aa44374cf817a29ed91afa34b *ff12090606.flac
+238be1e55a5025199373c427b9221b6e *ff12090607.flac
+ab1ee6d6f479a1ad7d6e2590f4aebac3 *ff12090608.flac
+ea7dbaab40a54011dfe9da86c912576d *ff12090609.flac

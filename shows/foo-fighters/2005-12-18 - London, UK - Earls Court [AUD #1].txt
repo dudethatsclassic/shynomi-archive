@@ -1,0 +1,59 @@
+Foo Fighters
+December 18th, 2005
+Earls Court
+London, United Kingdom
+
+SOURCE (AUD #1):
+Sony ECM-D870P > Sony MZ-NH1 (Hi-MD Minidisc)
+
+TRANSFER: 
+unknown > Adobe Audition CC 2018 > CD Wave 1.98 > Trader's Little Helper 2.7.0
+
+GENERATION: 
+HiMD(M) > WAV [44.1khz/16-bit] > FLAC [Level 8]
+
+LENGTH: 
+102:16
+
+TRACKLIST: 
+01. In Your Honor
+02. All My Life
+03. My Hero
+04. Best Of You
+05. Up In Arms
+06. Learn to Fly
+07. No Way Back
+08. Times Like These
+09. The One
+10. Stacked Actors
+11. Big Me
+12. Breakout
+13. Have It All
+14. This Is A Call
+15. Everlong
+16. DOA
+17. Cold Day In The Sun
+18. Monkey Wrench
+
+MD5 CHECKSUMS:
+968a88ebc926a623b637c1924c630552 *01. In Your Honor.flac
+6f2cedd7a76421466e25d4b89baae87f *02. All My Life.flac
+5880fda03005ef7f3b20f3f310560489 *03. My Hero.flac
+31170b28106b33c9ecce2a9382d9c86d *04. Best Of You.flac
+dbad8033988d8414d803cdb2ee0daff5 *05. Up In Arms.flac
+edb5e3981b3b61c18182620eac2a2ea7 *06. Learn To Fly.flac
+1419b9550257ca04673b995394ddc767 *07. No Way Back.flac
+16d60f0df04b73d59e5c8205be6b4d8a *08. Times Like These.flac
+6068cf9f83dfd276e840238e52723a1b *09. The One.flac
+1fe9de007d19b11a44dbead3e342e85d *10. Stacked Actors.flac
+0293d4c4a1a5a1e0f7c8a156724450f8 *11. Big Me.flac
+60d808c21c25b8b921c93573370ea423 *12. Breakout.flac
+26356b65fdde80c57bd9d52874ca6ae3 *13. Have It All.flac
+1ad9fe7f021a0d4f36791995bb561a80 *14. This Is A Call.flac
+583d1009f9d227e63df97d944bd37e8c *15. Everlong.flac
+9d208a26dc2a20796e3500e0ceaaab32 *16. DOA.flac
+f98605076c3212db5b34ec048de1c79e *17. Cold Day In The Sun.flac
+e433754dc4f72423406ff43d356b4c9b *18. Monkey Wrench.flac
+
+TRANSFERRED BY: 
+the taper

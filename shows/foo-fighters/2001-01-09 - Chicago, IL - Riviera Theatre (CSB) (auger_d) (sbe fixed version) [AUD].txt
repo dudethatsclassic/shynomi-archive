@@ -1,0 +1,94 @@
+SBE fixed version.
+
+Foo Fighters
+Riviera Theatre
+Chicago, IL  (USA)
+January 9, 2001
+
+Source:  Audience recording > CSB Mics > Sony D-8 > ? > CD-R > WAV > FLAC.  Taper: Auger_d@xxxx.com
+
+CD 1:
+01. (intro)
+02. Aurora
+03. For All the Cows
+04. Learn to Fly
+05. Up in Arms
+06. Big Me
+07. Stacked Actors
+08. Next Year
+09. I'll Stick Around
+10. Drum Solo
+
+CD 2:
+11. Doll
+12. See You (Alive tease)
+13. Generator
+14. Hey, Johnny Park!
+15. Monkey Wrench
+16. M.I.A. 
+17. February Stars
+18. M.I.A. (reprise)
+19. Everlong
+20. 2112 Jam
+21. Ain't it the Life
+22. Breakout
+23. (outro)
+
+Total time = 93:00
+
+Personnel:
+Dave Grohl - guitar & lead vocals
+Nate Mendel - bass guitar
+Taylor Hawkins - drums
+Chris Shiflett - guitar 
+
+Notes:  "Foo Fighters played a warmup show in Chicago before heading to Brazil. Excellent sounding show they tease the audience with some Pearl Jam and Rush."
+
+01 Intro.flac:55a6d052c76aea5c83184b71d84faf54
+02 Aurora.flac:6d4c46ca01f4b5288cf08fc19366c4a8
+03 For All the Cows.flac:18dbae76e9e6b0af09b6001cd3bc8484
+04 Learn to Fly.flac:a7a54930d1cceb4a42044e912b011819
+05 Up in Arms.flac:63ab2b7f76c2c6d185d8e868413e4d11
+06 Big Me.flac:6e1361025b913757377be5eedac4f6ae
+07 Stacked Actors.flac:9fb4aca65fc0df93e9d02111db8b1b5f
+08 Next Year.flac:70e915af5f79144a53dc9fa459ad3de2
+09 I'll Stick Around.flac:bd488f087456f0169281e36f10ffc7fb
+10 Drum Solo.flac:89aaea042cfa977144c1cd5514c7192b
+11 Doll.flac:5270dbd3438421932df537005a943fa6
+12 See You (Alive tease).flac:9293027cc7257b43e1a9965596e794a3
+13 Generator.flac:3834dfa7329d58b49ee2de1bb6370755
+14 Hey, Johnny Park.flac:4a35e66c7ed39d37eecc896b81fcc427
+15 Monkey Wrench.flac:174f2c6d24a7e39d7d52f96b70537c2f
+16 M.I.A..flac:e68b8624b6c206d4f02238f10de4efff
+17 February Stars.flac:2135e7f20597a399ce3611dbdabedbc5
+18 M.I.A. (reprise).flac:b521796ba952ab8bc51bf6570d62fd09
+19 Everlong.flac:b4156df6f874eab62f9cd451994a79d4
+20 2112 Jam.flac:1fdf23d1dbaa2dcb2d49ced24a0ae779
+21 Ain't it the Life.flac:02d283709e4a4dd21ded2d76f5bfdf8f
+22 Breakout.flac:9efbf971a6beb02ddc1c112563b6300b
+23 Outro.flac:652d5652baf919da0e0ca02fed7a38d4
+
+fixed:
+01 Intro-fixed.flac:9f751bd30c386fbd6ef395a125920105
+02 Aurora-fixed.flac:e10bbb2f70c6e5c7a033de65b7068b01
+03 For All the Cows-fixed.flac:7e2da0be2b35b8de7fc3ec09b5977f74
+04 Learn to Fly-fixed.flac:f36ff9f04d5d22c7671e6d4cb6d047e7
+05 Up in Arms-fixed.flac:d21d9e175663ae5c51b5211ba7119c20
+06 Big Me-fixed.flac:2a057d8d3e4f48ee56c9fc25a0b1784b
+07 Stacked Actors-fixed.flac:5511e8c90b8910c51ceb5ed04194bfaf
+08 Next Year-fixed.flac:db209545c53b92ae59d6f0dbb247f4b5
+09 I'll Stick Around-fixed.flac:a4113a9f3e7468a35b465735e26157f4
+10 Drum Solo-fixed.flac:f86eaa84d546c73c3a6a9c3f3f9fb98e
+11 Doll-fixed.flac:35b385a115dc416a1e5f0801368251cc
+12 See You (Alive tease)-fixed.flac:fc9cb4580290542049f4dcaabc35158d
+13 Generator-fixed.flac:6158985f97254a2cc9cc4b634ff6745a
+14 Hey, Johnny Park-fixed.flac:ad74daa89ffef0b17ccf5436618e786a
+15 Monkey Wrench-fixed.flac:d80804bfbcb11bc99a63df605ee71435
+16 M.I.A.-fixed.flac:792d52c3592db09937dd7612441ce897
+17 February Stars-fixed.flac:4853216149d9e9850a78c0fb28fcb25a
+18 M.I.A. (reprise)-fixed.flac:7c9b6c853fe30f60031013231068ebed
+19 Everlong-fixed.flac:c2780294c9f51c502b77e006b177de01
+20 2112 Jam-fixed.flac:86c513b414dccb85b6f12f00bed7b1a3
+21 Ain't it the Life-fixed.flac:1adb97267658bcee5f102566f20141f2
+22 Breakout-fixed.flac:d6b4c1e3a4b8a7202bdbd56b7776fedf
+23 Outro-fixed.flac:2ab39834e063029b24a32f0b569f2157

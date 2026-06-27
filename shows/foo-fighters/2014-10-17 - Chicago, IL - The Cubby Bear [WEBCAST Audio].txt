@@ -1,0 +1,42 @@
+Foo Fighters
+The Cubby Bear
+Chicago, IL
+October 17, 2014
+
+Linage: Livestream HD webcast (320 Kbps*) > Audacity > WAV > TLC > FLAC 6 > foobar2000 > FLAC tags
+
+*from https://new.livestream.com/producer/tech-specs
+
+Length: 2:13:14
+
+Notes: During track 15, there are two gaps due to internet buffering. The first gap is about 60 seconds 
+long and the second gap is about 30 seconds long. I used fades to eliminate the gaps, but obviously 
+those two portions of the audio are missing. If the video capture is eventually shared here, I can 
+use that source to patch these gaps, after which I'll upload a fixed version. Pretty cool show, but by the 
+end I think Dave's had a few too many Jägers.
+
+Setlist:
+01 All My Life  
+02 I'll Stick Around  
+03 Rope  
+04 intro to Up In Arms
+05 Up In Arms  
+06 Big Me  
+07 White Limo  
+08 Arlandria  
+09 My Hero  
+10 Stiff Competition - with Rick Nielson (Cheap Trick)
+11 band intros
+12 Cold Day In The Sun  
+13 Miss You  
+14 Generator  
+15 Walk (partial)  
+16 Learn To Fly  
+17 This Is A Call  
+18 The Pretender  
+19 Best Of You  
+20 Surf Combat - with Jeff Pezzati (Naked Raygun)
+21 Weenie Beenie  
+22 Surrender - with Rick Nielson
+23 Something From Nothing - with Rick Nielson
+24 Everlong  

@@ -1,0 +1,82 @@
+Foo Fighters
+September 17th, 2014
+The National
+Richmond, VA
+
+SOURCE (AUD #1):
+Tascam iM2 > iPhone 4
+
+TRANSFER:
+iPhone 4 > USB > Adobe Audition CS6 > CDWave 1.97 > Trader's Little Helper 2.7.0
+
+GENERATION:
+AAC(M) [128kbps VBR] > WAV [44.1khz] > FLAC [Level 8]
+
+LENGTH:
+140:45
+
+NOTES:
+- Unknown instrumental jams played in the middle of 'Rope' and 'My Hero' and at the end of 'Breakout'.
+- 'Outside' is jammed on in the middle of 'The Pretender'. 
+- 'Son And Daughter' is a Queen song. 
+
+TRACKS:
+01. All My Life
+02. I'll Stick Around
+03. Rope 
+04. Up In Arms (jam)
+05. Up In Arms
+06. Big Me
+07. White Limo
+08. Alrandria
+09. My Hero
+10. Cold Day In The Sun
+11. Generator
+12. Walk
+13. These Days
+14. The Pretender
+15. Learn To Fly
+16. Son And Daughter (jam)
+17. Breakout
+18. Skin And Bones
+19. Weenie Beenie
+20. Monkey Wrench
+21. Hey, Johnny Park!
+22. Everlong
+23. Times Like These
+24. This Is A Call
+25. Something From Nothing (jam)
+26. Best Of You
+
+MD5 FINGERPRINTS:
+26b437f92daf96128bf7a1e8187df1d8 *FooFighters2014-09-17t01.flac
+17f45f544aa5ceaf8a64ad56e038e751 *FooFighters2014-09-17t02.flac
+c63a47796cce7f2b6e4a86e4c8265ee6 *FooFighters2014-09-17t03.flac
+2865ad33ffb6f9507ed95a18505fbfdb *FooFighters2014-09-17t04.flac
+a33e3c2dae20e0dd4e29b2c84951b8f5 *FooFighters2014-09-17t05.flac
+8dce208bb1b00d08681a3b334f09c5c7 *FooFighters2014-09-17t06.flac
+d99f738686b8f20d8b65dc36a1f69124 *FooFighters2014-09-17t07.flac
+f255e8fb10720ca8cdb00022e5bacc02 *FooFighters2014-09-17t08.flac
+2acfa82163e1806c08d3cc38781ecb81 *FooFighters2014-09-17t09.flac
+ff7b8737d0822c217862577708903b7b *FooFighters2014-09-17t10.flac
+0ea93515645a13663150c42c6ab5926d *FooFighters2014-09-17t11.flac
+6e66092050bf30a73295176bd403b437 *FooFighters2014-09-17t12.flac
+249e2ecb2d36ff847a79bb5fef24a7d5 *FooFighters2014-09-17t13.flac
+12fa1285ab327ca40740d27bfb63262b *FooFighters2014-09-17t14.flac
+7fe32fee0b800bd049eac6de76500e4d *FooFighters2014-09-17t15.flac
+30ac3cdca02f9e1fa50b2b05d7133f0e *FooFighters2014-09-17t16.flac
+528467871673e29df40df013babf1234 *FooFighters2014-09-17t17.flac
+bfaa4713c69c3c7939d3a1705fda6065 *FooFighters2014-09-17t18.flac
+e20ea5a07a0604ba9260e077a94d5be2 *FooFighters2014-09-17t19.flac
+d20bd9b6fc000b7305c207a6935bbbb9 *FooFighters2014-09-17t20.flac
+4950e54bbbba83a264f384fdd0d93d8a *FooFighters2014-09-17t21.flac
+cadbc2ccdda06125e8b20a7ccefbbab5 *FooFighters2014-09-17t22.flac
+2f456b31c3c6a6143c56063e7845933d *FooFighters2014-09-17t23.flac
+aa785f5bf11e2a7994db5f4fd81b03b7 *FooFighters2014-09-17t24.flac
+5cceb5783ef31aa0e579ff52822cf6a5 *FooFighters2014-09-17t25.flac
+da7c1098952c5a2f2b40f967dbd44d2c *FooFighters2014-09-17t26.flac
+
+RECORDED AND TRANSFERRED BY:
+Jennifer Panaro
+
+**PLEASE DO NOT ENCODE TO LOSSY FORMATS OR SELL!**

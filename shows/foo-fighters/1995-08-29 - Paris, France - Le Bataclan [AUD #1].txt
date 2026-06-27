@@ -1,0 +1,57 @@
+FOO FIGHTERS
+August 29, 1995
+Le Bataclan
+Paris, France
+
+DISC #1/1 (52:55)
+-----------------
+01. Intro
+02. Winnebago
+03. I'll Stick Around
+04. Butterflies
+05. Wattershed
+06. Big Me
+07. This Is A Call
+08. Weenie Beenie
+09. For All The Cows
+10. X-Static
+11. Oh, George
+12. Podunk
+13. Alone + Easy Target
+14. Exhausted
+
+GENERATION
+-----------------
+DAT(M) -> WAV [32kHz] -> WAV [44.1kHz] -> FLAC [Level 8]
+
+SOURCE (AUD #1)
+-----------------
+Aiwa CM-30 -> Sony TCD-D7
+
+TRANSFER
+-----------------
+Tascam DA-20 MKII -> Viablue S/PDIF cable -> M-Audio Delta Audiophile 192 digital-in -> Adobe Audition 3.0 -> CD Wave 1.98 -> FLAC Frontend 1.7.1
+
+NOTES
+-----------------
+- thanks to SD for letting me transfer his master
+
+MD5 FINGERPRINTS
+-----------------
+c38f165c15682f819842670b7b046ccd *foofighters_1995-08-29_aud1_datm_d1t01.flac
+bc561f6cce410af0657e7fe0a84318ab *foofighters_1995-08-29_aud1_datm_d1t02.flac
+12b8a21316b3fc5f5ddb7a73876e9544 *foofighters_1995-08-29_aud1_datm_d1t03.flac
+5a1486fc9df557f09dbc79c1ce2080d5 *foofighters_1995-08-29_aud1_datm_d1t04.flac
+94798b13f11ae77601e86fc6b2ca75d6 *foofighters_1995-08-29_aud1_datm_d1t05.flac
+c4df3f3d5b693c847d4b02e2b5682eb5 *foofighters_1995-08-29_aud1_datm_d1t06.flac
+52a7b7576715e7eb0676191606568214 *foofighters_1995-08-29_aud1_datm_d1t07.flac
+dfc162f1b90d0ed0bd773acae8efddce *foofighters_1995-08-29_aud1_datm_d1t08.flac
+a554ea3f44b6b5f12aba989934c3fb12 *foofighters_1995-08-29_aud1_datm_d1t09.flac
+dee3c680dd3ce4ca6d7260fe8bdc5343 *foofighters_1995-08-29_aud1_datm_d1t10.flac
+1761dabae282b7687f20354cb4e174cb *foofighters_1995-08-29_aud1_datm_d1t11.flac
+5dd592f97cb57a73d5896fc5ec51980d *foofighters_1995-08-29_aud1_datm_d1t12.flac
+1807496fc55ec143b33f2873d073a705 *foofighters_1995-08-29_aud1_datm_d1t13.flac
+7259204e49fc3e8af377f466b162185c *foofighters_1995-08-29_aud1_datm_d1t14.flac
+
+Transferred by Pierre Leroy
+PLEASE DO NOT ENCODE TO MP3 OR SELL! 

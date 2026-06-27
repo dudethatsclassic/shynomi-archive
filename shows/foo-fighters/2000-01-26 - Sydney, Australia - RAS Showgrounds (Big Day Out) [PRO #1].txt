@@ -1,0 +1,53 @@
+Foo Fighters
+2000-01-26
+Sydney RAS Showgrounds (Big Day Out), Sydney, Australia
+
+SOURCE (PRO #1):
+soundboard -> unknown
+
+EXTRACTION:
+CDR -> EAC 1.0 beta 3 -> Traders Little Helper 2.7.0
+
+GENERATION:
+TV -> VID(1) -> CDR(5) -> WAV [44.1kHz] -> FLAC [Level 8]
+
+LENGTH:
+64:33
+
+SETLIST:
+Monkey Wrench
+Hey, Johnny Park!
+Everlong
+Alone + Easy Target
+Learn To Fly
+Breakout
+For All The Cows
+Stacked Actors
+Up In Arms
+My Poor Brain
+I'll Stick Around
+Big Me
+Generator
+Aurora
+This Is A Call
+
+MD5 FINGERPRINTS:
+8d87f9bbc5107caf86dd114eb87681af *01 - Track01.flac
+1627881e0ff7b2d9f1e24a768b3eda9c *02 - Track02.flac
+fd42877ed308cf8368647844f919240f *03 - Track03.flac
+bf124c64ae2f965c529ad3bdf6f0b8de *04 - Track04.flac
+2b4caf87498b23adfbf5f523b94b3d55 *05 - Track05.flac
+c1168557fe48cead01086f1875703a2d *06 - Track06.flac
+260b204b8a2bf241fb8d56a2a14f4fd7 *07 - Track07.flac
+b54c6e26baf93c8f87edfd52b63263aa *08 - Track08.flac
+a16a224eb8dee5b043167036ad34c2aa *09 - Track09.flac
+83105f98be26af4ab3377010f9c1adaa *10 - Track10.flac
+d587e0ba7f95b08879e7676043ab22ba *11 - Track11.flac
+e7a254a40c89701412beae7f5819ca89 *12 - Track12.flac
+8ffd732e086bdbda2571f79f6de509b8 *13 - Track13.flac
+7b8f4ae91761e8b936197f851fb0854b *14 - Track14.flac
+f04770916e34fd4236e08b8bd202ce2b *15 - Track15.flac
+
+
+
+PLEASE DO NOT SELL OR ENCODE TO MP3

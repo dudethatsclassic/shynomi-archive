@@ -1,0 +1,25 @@
+Foo Fighters
+BBC Radio 1's Big Weekend
+Norwich, UK
+24th May 2015
+
+Lineage : BBC Three HD - Tevii S464 DVB-S2 PCI Card (DVBViewer) - Videoredo TV Suite 4.2
+
+.ts file format
+
+Video - H264 1920x1080i
+Audio - Live Show AC3 2.0 192Kbps
+
+Interview 
+Everlong
+Monkey Wrench
+Learn to Fly
+Something From Nothing
+Walk
+My Hero
+Congregation
+These Days
+Best of You
+All My Life 
+
+Total Running Time - 67m

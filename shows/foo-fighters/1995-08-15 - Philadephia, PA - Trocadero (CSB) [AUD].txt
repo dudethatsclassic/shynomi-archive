@@ -1,0 +1,30 @@
+FOO FIGHTERS
+August 15, 1995
+Trocadero
+Philadelphia, PA
+
+Source: Core Sound Binaural > Sony WM-D3
+Taper: Jeff Sebastianelli
+Lineage: Cassette(M) > DAT(1) > WAV [48] > WAV [44.1] > FLAC
+Transfer: Tascam DA-P1 > Nuendo Audiolink 96 > Sound Forge
+Notes: tape-flip during "Alone + Easy Target"
+
+01 - intro
+02 - Winnebago
+03 - I'll Stick Around
+04 - Butterflies
+05 - Watershed
+06 - Big Me
+07 - This is a Call
+08 - Weenie Beenie
+09 - For All the Cows
+10 - Oh George
+11 - Podunk
+12 - Alone + Easy Target
+13 - Good Grief
+14 - Exhausted
+15 - X-Static
+16 - Down in the Park
+
+
+Compiled July 2020 by CPS

@@ -1,0 +1,45 @@
+
+Foo Fighters
+State Theater: Detroit, MI
+November 6, 2000
+
+Source: SS DSM6s/L > PA6LC3(65) > Sony TCD-D100 @ 48kHz
+Location: FOB/DFC, 1st drink rail
+Transfer: DAT master > Tascam DA-20 > Audiophile 2496 > Audacity > CDWave > TLH
+Taper: tapeworm(48) 
+
+Setlist:
+
+01 Intro
+02 Breakout
+03 My Hero
+04 Doll
+05 See You
+06 New Way Home
+07 Aurora
+08 Stacked Actors
+09 -Dave's Stage Dive-
+10 Up In Arms
+11 Next Year
+12 Learn To Fly
+13 I'll Stick Around
+14 Headwires
+15 Hey! Johnny Park
+16 Monkey Wrench
+17 M.I.A.
+18 Everlong
+19 -encore break-
+20 - Dave speak-
+21 Ain't It The Life
+22 Bastille Day [Rush] (tease)
+23 This Is a Call / (Bastille Day)
+24 Outro
+
+Notes: Level adjustment during first song. Raw transfer with no fades or EQ.
+
+Archive: Master DAT was transferred @ 48kHz and FLAC'd with cue sheet. 
+
+Taped and transferred by tapeworm(48) 
+Txt file compiled on 2/4/2011
+
+*** DO NOT DISTRIBUTE IN LOSSY FORMATS. DO NOT SELL THIS RECORDING, TRADE IT FREELY *** 

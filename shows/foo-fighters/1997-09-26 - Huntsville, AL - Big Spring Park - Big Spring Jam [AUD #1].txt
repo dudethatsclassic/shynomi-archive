@@ -1,0 +1,46 @@
+FOO FIGHTERS
+September 26th, 1997
+Big Spring Park (Big Spring Jam)
+Huntsville, AL
+
+SOURCE (AUD #1):
+built-in > unknown (cassette)
+
+TRANSFER:
+Nakamichi DR-3 > Monster RCA Cable > Creative Soundblaster Audigy SE > Sony Soundforge > CD Wave > FLAC Frontend 1.7.1
+
+GENERATION:
+ANA(1) > WAV [44.1khz/16-bit] > FLAC [Level 8]
+
+NOTES:
+- Incomplete recording, missing the first half of the show.
+
+LENGTH:
+30:49
+
+TRACKS:
+01. For All The Cows (cuts in)
+02. The Colour And The Shape
+03. Up In Arms
+04. Weenie Beenie
+05. Into The Void (jam)
+06. Everlong
+07. New Way Home
+08. Running Wild (jam)
+09. I'll Stick Around
+
+MD5 FINGERPRINTS:
+955c7aa172dcb895c74051068ec150ac *01. For All The Cows.flac
+738d842a9c9f51f90cbbcd7074143078 *02. The Colour And The Shape.flac
+d8d61030b37da29e5af4161a64d12f24 *03. Up In Arms.flac
+d0e5eab575d29385748cce5c7ff8e717 *04. Weenie Beenie.flac
+54b3637a81e58853228e865a77acc2a4 *05. Into The Void.flac
+b8987a85167d0b2278004d0046d97a2a *06. Everlong.flac
+3ec7840ce486a3a410bde5f3f58444b6 *07. New Way Home.flac
+ab83069a2ff8925dfdcd6222113f0828 *08. Running Wild.flac
+66c2b27abec5c9e343e6081e386b5f74 *09. I'll Stick Around.flac
+
+TRANSFERRED BY:
+Brad Collins
+
+**PLEASE DO NOT ENCODE TO LOSSY FORMATS OR SELL!**

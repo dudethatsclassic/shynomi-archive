@@ -1,0 +1,151 @@
+Foo Fighters
+Late Show With David Letterman
+New York,NY 
+Ed Sullivan Theatre
+05-20-15 
+
+Everlong 8:27
+
+682 MB
+
+MPEG-TS
+1920 x 1080i interlaced (16 X 9) 
+29 Frames Sec
+14634 kbps
+
+Dolby AC-3
+6 Channel
+384 kbps
+48.0 khz
+
+
+
+
+
+
+
+General
+ID                                       : 1 (0x1)
+Complete name                            : Foo Fighters On David Letterman Show Everlong 05-20-15.ts
+Format                                   : MPEG-TS
+File size                                : 682 MiB
+Duration                                 : 8mn 27s
+Overall bit rate mode                    : Variable
+Overall bit rate                         : 11.3 Mbps
+Movie name                               : ZOO41CS05R4
+
+Video
+ID                                       : 1201 (0x4B1)
+Menu ID                                  : 1 (0x1)
+Format                                   : MPEG Video
+Format version                           : Version 2
+Format profile                           : Main@High
+Format settings, BVOP                    : Yes
+Format settings, Matrix                  : Default
+Format settings, GOP                     : Variable
+Format settings, picture structure       : Frame
+Codec ID                                 : 2
+Duration                                 : 8mn 27s
+Bit rate mode                            : Variable
+Bit rate                                 : 10.1 Mbps
+Maximum bit rate                         : 14.3 Mbps
+Width                                    : 1 920 pixels
+Height                                   : 1 080 pixels
+Display aspect ratio                     : 16:9
+Active Format Description                : Letterbox 16:9 image, with alternative 4:3 center
+Frame rate                               : 29.970 fps
+Color space                              : YUV
+Chroma subsampling                       : 4:2:0
+Bit depth                                : 8 bits
+Scan type                                : Interlaced
+Scan order                               : Top Field First
+Compression mode                         : Lossy
+Bits/(Pixel*Frame)                       : 0.163
+Time code of first frame                 : 00:00:00;00
+Time code source                         : Group of pictures header
+GOP, Open/Closed                         : Open
+Stream size                              : 613 MiB (90%)
+Color primaries                          : BT.709
+Transfer characteristics                 : BT.709
+Matrix coefficients                      : BT.709
+
+Audio #1
+ID                                       : 1202 (0x4B2)
+Menu ID                                  : 1 (0x1)
+Format                                   : AC-3
+Format/Info                              : Audio Coding 3
+Mode extension                           : CM (complete main)
+Format settings, Endianness              : Big
+Codec ID                                 : 129
+Duration                                 : 8mn 27s
+Bit rate mode                            : Constant
+Bit rate                                 : 384 Kbps
+Channel(s)                               : 6 channels
+Channel positions                        : Front: L C R, Side: L R, LFE
+Sampling rate                            : 48.0 KHz
+Bit depth                                : 16 bits
+Compression mode                         : Lossy
+Delay relative to video                  : -3ms
+Stream size                              : 23.2 MiB (3%)
+Language                                 : English
+
+Audio #2
+ID                                       : 1203 (0x4B3)
+Menu ID                                  : 1 (0x1)
+Format                                   : AC-3
+Format/Info                              : Audio Coding 3
+Mode extension                           : CM (complete main)
+Format settings, Endianness              : Big
+Codec ID                                 : 129
+Duration                                 : 8mn 27s
+Bit rate mode                            : Constant
+Bit rate                                 : 192 Kbps
+Channel(s)                               : 2 channels
+Channel positions                        : Front: L R
+Sampling rate                            : 48.0 KHz
+Bit depth                                : 16 bits
+Compression mode                         : Lossy
+Delay relative to video                  : -10ms
+Stream size                              : 11.6 MiB (2%)
+Language                                 : English
+
+Text #1
+ID                                       : 1201 (0x4B1)-CC1
+Menu ID                                  : 1 (0x1)
+Format                                   : EIA-608
+Muxing mode                              : A/53 / DTVCC Transport
+Muxing mode, more info                   : Muxed in Video #1
+Duration                                 : 8mn 27s
+Bit rate mode                            : Constant
+Stream size                              : 0.00 Byte (0%)
+
+Text #2
+ID                                       : 1201 (0x4B1)-CC3
+Menu ID                                  : 1 (0x1)
+Format                                   : EIA-608
+Muxing mode                              : A/53 / DTVCC Transport
+Muxing mode, more info                   : Muxed in Video #1
+Duration                                 : 8mn 27s
+Bit rate mode                            : Constant
+Stream size                              : 0.00 Byte (0%)
+
+Text #3
+ID                                       : 1201 (0x4B1)-1
+Menu ID                                  : 1 (0x1)
+Format                                   : EIA-708
+Muxing mode                              : A/53 / DTVCC Transport
+Muxing mode, more info                   : Muxed in Video #1
+Duration                                 : 8mn 27s
+Bit rate mode                            : Constant
+Stream size                              : 0.00 Byte (0%)
+
+Text #4
+ID                                       : 1201 (0x4B1)-2
+Menu ID                                  : 1 (0x1)
+Format                                   : EIA-708
+Muxing mode                              : A/53 / DTVCC Transport
+Muxing mode, more info                   : Muxed in Video #1
+Duration                                 : 8mn 27s
+Bit rate mode                            : Constant
+Stream size                              : 0.00 Byte (0%)
+

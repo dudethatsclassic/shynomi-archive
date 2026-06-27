@@ -1,0 +1,67 @@
+FOO FIGHTERS
+April 9th, 1996
+The Ritz
+Raleigh, NC
+
+SOURCE (AUD #3):
+Aiwa (supplied) > Aiwa HS-JS216 (cassette)
+
+TRANSFER:
+Sony TC-RX77ES > M-Audio Audiophile 2496 > Adobe Audition 3 > CDWave 1.97 > Traders Little Helper 2.4.1
+
+GENERATION:
+ANA(M) > WAV [48khz/16-bit] > FLAC [Level 8]
+
+LENGTH:
+82:25
+
+NOTES:
+- Slight cut in 'How I Miss You' due to a tape flip.
+- A drunken Petra Haden sings lead vocals on 'Floaty'.
+
+TRACKS:
+01. Enough Space
+02. This Is A Call
+03. Winnebago
+04. Wattershed
+05. For All The Cows
+06. Weenie Beenie
+07. Butterflies
+08. Big Me
+09. My Poor Brain
+10. Gas Chamber
+11. Up In Arms (slow)
+12. Good Grief
+13. Podunk
+14. How I Miss You
+15. Alone + Easy Target
+16. I'll Stick Around
+17. Floaty
+18. Down in the Park
+19. Exhausted
+
+MD5 FINGERPRINTS:
+8437a2840cf34eacdd0d74145e0338e1 *01. Enough Space.flac
+2b3a8d510053eec3200a825286f36652 *02. This Is A Call.flac
+3339b6be02d477155200ffed669d9a13 *03. Winnebago.flac
+f5a23317b9845dfc8210b3edbff8775d *04. Wattershed.flac
+4de6dbe40ed45ed3eab3837b01de46c3 *05. For All The Cows.flac
+992cf7e35b49d56b44afa1c9f9350f42 *06. Weenie Beenie.flac
+e745fc20451145365940894e663a51e7 *07. Butterflies.flac
+dd90beb2315cbfd96a4c2fb1e1fd9e86 *08. Big Me.flac
+8e8c8b1f8b4c04ae8fb085fd3384a9af *09. My Poor Brain.flac
+5aa2d0685b817baf6a4fcbb0cdcac8b8 *10. Gas Chamber.flac
+4f5c197842de1feda0cabd9097e35bb7 *11. Up In Arms.flac
+91d28bb9d450d8cdadf52831d9f6de91 *12. Good Grief.flac
+172ba32cc8774f79fc38ba90c26e2bc4 *13. Podunk.flac
+0c1f381ef2a57057e2884d14176b31e1 *14. How I Miss You.flac
+75ded873f9f8c4d5381734ea23688b6d *15. Alone + Easy Target.flac
+4b71a4c5b96494fbad0197caefb75f9d *16. I'll Stick Around.flac
+56a98372de562a6a47d2f6ecdca51068 *17. Floaty.flac
+d8800ca6a93837556cc32f5a1580f6fd *18. Down In The Park.flac
+876bf2ca6bbc6409f8ff5e9dba152112 *19. Exhausted.flac
+
+RECORDED AND TRANSFERRED BY:
+Scott Honda
+
+**PLEASE DO NOT ENCODE TO LOSSY FORMATS OR SELL**

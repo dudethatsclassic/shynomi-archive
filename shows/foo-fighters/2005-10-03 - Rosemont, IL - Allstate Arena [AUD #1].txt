@@ -1,0 +1,55 @@
+FOO FIGHTERS
+October 3rd, 2005
+Allstate Arena
+Rosemont, IL
+
+SOURCE (AUD #1):
+Sony ECM-DS70P > Sony MZ-NH1 (Minidisc)
+
+TRANSFER:
+unknown > wmal2pcm 1.0 > WAVMerge 2.0 > Adobe Audition 3 > CDWave 1.91 > Traders Little Helper 2.4.1
+
+GENERATION:
+MD(M) > WAV [44.1khz] > FLAC [Level 8]
+
+LENGTH:
+86:25
+
+TRACKS:
+01. In Your Honor
+02. All My Life
+03. My Hero
+04. Best Of You
+05. Learn To Fly
+06. Up In Arms (jam)
+07. Up In Arms
+08. Times Like These
+09. The One
+10. Stacked Actors
+11. DOA
+12. Breakout
+13. Everlong 
+14. Cold Day In The Sun
+15. Monkey Wrench
+
+MD5 FINGERPRINTS:
+5036294a457f351681ec76f1aca36f3b *01. In Your Honor.flac
+66ac9e4557e1cf0f0f539878611fbb35 *02. All My Life.flac
+fc73f876145966f7e0afd7ff3af7bc42 *03. My Hero.flac
+d0d48293230cbc97a5f17ade498e4b65 *04. Best Of You.flac
+97c0dd3aa111c585b2cf326ca62bd007 *05. Learn To Fly.flac
+f1648c7133dc0abc56ad3d26966350e1 *06. Up In Arms (jam).flac
+3b83bf3af30e2fd6aa7363d6a49e46c5 *07. Up In Arms.flac
+49d1c0113b4d4e3b611d570992453326 *08. Times Like These.flac
+18c3e3e513ed7d071b04a9ba042ca545 *09. The One.flac
+b38cca8d59a9430d913c0a7e3bd5c726 *10. Stacked Actors.flac
+a06862756c1eeb4bc51d9b5ba22c76f5 *11. DOA.flac
+516067a0134a616acff58106eadb933f *12. Breakout.flac
+0253b51d4d10689e591c5e97217d84f9 *13. Everlong.flac
+a9021c93a14f300d0501f198f69f3157 *14. Cold Day In The Sun.flac
+7ee07a6261f34abb6113f452007881e0 *15. Monkey Wrench.flac
+
+RECORDED AND TRANSFERRED BY:
+wakesetbtm
+
+**PLEASE DO NOT ENCODE TO LOSSY FORMATS OR SELL**

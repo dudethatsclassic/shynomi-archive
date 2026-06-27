@@ -1,0 +1,30 @@
+foo fighters
+st. andrews hall, detroit
+august 6, 1995
+
+lineage:
+realistic scp-29 cassette master (built in condensers)
+  -recorded from balcony, right side, ~20 ft. back
+
+transfer:
+master cassette > Nakamichi RX505 > Edirol R4 (24/48) > Adobe Audition > CDWAV > TLH FLAC 8
+
+these are 24 bit / 48 kHz FLAC Files
+
+01. winnebago
+02. i'll stick around
+03. butterflies
+04. watershed
+05. big me
+06. this is a call
+07. weenie beenie
+08. for all the cows
+09. x-static
+10. good grief
+11. podunk
+12. alone & easy target
+13. exhausted
+14. down in the park
+15. radio advert for gig
+
+

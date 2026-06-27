@@ -1,0 +1,63 @@
+FOO FIGHTERS
+November 3rd, 2000
+Tabernacle
+Atlanta, GA
+
+GENERAL INFORMATION:
+Generation: TV > VHS(1) > REMASTER > DVDR(0) [NTSC]
+Source: PRO #1 - Professional Video w/ SBD #1 - Soundboard Audio 
+Running Time: 116:01 minutes (Incomplete)
+
+TECHNICAL INFORMATION: 
+Transferred By: Brad Collins
+Remastered By: Simon Kilmore
+Video Information: 8 Mbps CBR / 720x480i / 29.97 fps 
+Audio Information: Linear PCM 
+Transfer Equipment: Unknown > VirtualDub 1.911 w/ Neat Video > Cinema Craft Encoder SP3 > Adobe Encore CS5.5
+
+TRACKLISTING:
+pre-show interview
+Breakout
+My Hero
+Doll
+See You
+New Way Home
+Aurora
+Stacked Actors
+Up in Arms
+Next Year
+Learn To Fly
+I'll Stick Around
+Headwires
+Hey, Johnny Park!
+Monkey Wrench
+M.I.A.
+Everlong
+Ain't It The Life
+My Poor Brain
+This Is A Call (cuts out)
+
+MD5 FINGERPRINTS:
+fb161099455ddf052fc70981062530ed *VIDEO_TS\VIDEO_TS.BUP
+fb161099455ddf052fc70981062530ed *VIDEO_TS\VIDEO_TS.IFO
+9e97a772dfbeb773a17ae74d1e11dcd2 *VIDEO_TS\VIDEO_TS.VOB
+9b45ff9a7937224b16a0cce646a4bda6 *VIDEO_TS\VTS_01_0.BUP
+9b45ff9a7937224b16a0cce646a4bda6 *VIDEO_TS\VTS_01_0.IFO
+b07438872eacb286f572e9112a6bc180 *VIDEO_TS\VTS_01_0.VOB
+b56e20f7769856d0bb43a34434684c49 *VIDEO_TS\VTS_01_1.VOB
+c34db1e72f86791d535cc41680d73ea0 *VIDEO_TS\VTS_01_2.VOB
+72b9299ce3d85ad56a50acc70074ef6b *VIDEO_TS\VTS_01_3.VOB
+ce1174bd06e91997faf85f48712262d7 *VIDEO_TS\VTS_01_4.VOB
+abc9c1498d168f08e55de287c2723d5e *VIDEO_TS\VTS_01_5.VOB
+ffaf2b179002efa7748fd9aafbe643da *VIDEO_TS\VTS_01_6.VOB
+7cd1e71870edb2452b74617664b712a4 *VIDEO_TS\VTS_01_7.VOB
+379a108a543aa6c18c4ed7662dcc1029 *VIDEO_TS\VTS_01_8.VOB
+fb82274f8885a230a3e7ca9fd2bc0846 *VIDEO_TS\VTS_02_0.BUP
+fb82274f8885a230a3e7ca9fd2bc0846 *VIDEO_TS\VTS_02_0.IFO
+3cfc7e8fc447e2d8f03b7e042b0286ef *VIDEO_TS\VTS_02_0.VOB
+9e97a772dfbeb773a17ae74d1e11dcd2 *VIDEO_TS\VTS_02_1.VOB 
+
+REVIEW:
+This DVD features nearly the entire show in pro-shot quality as well as a pre-show interview with the band. The video has been remastered from the original transfer and features much less visible noise and grain in the image, although there are still some tracking and colour bleed issues. These are only minor issues though to another wise good, clear image. The audio has also been edited from the original transfer, replaced entirely by a superior sounding FM > WAV recording of the show, simulcast with the video in Atlanta. The audio is clear, sharp and punchy with a good mix. The initial interview still features the original audio track since this wasn't broadcast on the radio, as is the first 30 seconds of 'Breakout' and chat from the host during the encore for the same reason. 
+
+The disc has a menu with chapter points for each song and there are no extras on the DVD.

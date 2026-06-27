@@ -1,0 +1,46 @@
+FOO FIGHTERS
+Hylands Park (V Festival 2007)
+Chelmsford, Essex
+United Kingdom
+
+SETLIST (46:12)
+---------------
+01) intro
+02) Big Me
+03) But, Honestly
+04) interview
+05) The Pretender
+06) Learn To Fly
+07) interview
+08) My Hero
+09) Best Of You
+10) DOA
+11) All My Life
+
+GENERATION
+---------------
+DVB-T -> DVDR(1) [AC3] -> AC3 [256kbps] -> WAV [48KHz] -> WAV [44.1KHz] -> FLAC [Level 8]
+
+SOURCE (PRO #1c)
+---------------
+soundboard -> unknown
+
+TRANSFER
+---------------
+Panasonic EX75 -> TMPGEnc 1.6 -> AC3 Tool -> Adobe Audition 2.0 -> CD Wave -> FLAC Frontend
+
+MD5 FINGERPRINTS
+----------------
+a77a303b62d921c392f42a1691cfad7d *FooFighters2007-08-28t01.flac
+6a9be293fc49a664d3d212c4d2a71bea *FooFighters2007-08-28t02.flac
+bd2ee71cf5856aab23a262ef680f6b4d *FooFighters2007-08-28t03.flac
+2428d8af601a2ce5b04aab9e8df0aa29 *FooFighters2007-08-28t04.flac
+716f9757c2cd6e68d5b00cf47fbfde9d *FooFighters2007-08-28t05.flac
+d5bb7933230c1361ea10413d2de8e99b *FooFighters2007-08-28t06.flac
+d95ab7e1c307b89e0cde76ba5c49df72 *FooFighters2007-08-28t07.flac
+7c85e8c7b8bfbf566c8165cfba9a0bc6 *FooFighters2007-08-28t08.flac
+3ed1dfc7fefbc61adce522505be7e1c2 *FooFighters2007-08-28t09.flac
+f32de1f9f19607e2e14b317bf2779bf5 *FooFighters2007-08-28t10.flac
+fe6c4896bdfd8dc0a442fcdfe75c5227 *FooFighters2007-08-28t11.flac
+
+Please do not sell or re-encode to lossy formats.

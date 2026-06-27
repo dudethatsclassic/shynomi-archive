@@ -1,0 +1,9 @@
+Foo Fighters - 1997 10 16 Musique Plus, Montreal
+
+Transfer note:
+The Preshow interview had full music songs which I edited out. The post show interview had a lot of clips of songs, which I also edited out.
+
+1 pre show interview
+2 post show interview
+
+Lineage: TV Broadcast > 2nd gen tape > Tascam 202MKVII > USB > CDWAV > Audacity for fades, normalization, noise reduction > CDWAVE (SPLITS) > FLAC [loughney xfer]

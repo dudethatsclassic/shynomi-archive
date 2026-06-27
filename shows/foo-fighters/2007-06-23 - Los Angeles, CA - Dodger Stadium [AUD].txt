@@ -1,0 +1,40 @@
+Minor crowd interference, although you can hear my daughter and I talking in a couple places. :-)
+You can also tell that I was sitting in an aisle seat.
+This is a 100% complete recording.
+
+
+Artist: Foo Fighters 
+Venue: Dodger Stadium, Los Angeles, CA 
+Date: 2007-06-23
+
+Lineage: SP-CMC-20>SP-SPSB-10(roll-off @ 69hz)>Sony PCM-RH1
+Processing: SonicStage (import from MD)>WAV>Sound Forge 9.0 (equalize channel volumes, mild EQ)>CD Wave Editor 1.95.1 (track splitting, convert to FLAC)>Traders Little Helper (fingerprint generation)
+Recording location: Sec. 38BBL, Row 8
+Recorded by: me (dimeaholic)
+Run time: 56:14.74
+
+Set list:
+01 All My Life
+02 My Hero
+03 Times Like These
+04 Generator
+05 Learn To Fly
+06 Breakout
+07 Stacked Actors
+08 Everlong
+09 Monkey Wrench
+10 Best Of You
+
+An MP3 (256kbps) sample is attached in the comments. 
+
+Fingerprints:
+01 All My Life.flac:76f7f8baee9622cb81c76295f8422e61
+02 My Hero.flac:e031f146dcda1b40ce10ce5152eed211
+03 Times Like These.flac:8c3af07efa69439c8f3ce3ad6362459e
+04 Generator.flac:fbde47ef35697be1fea46b29cbd56dd9
+05 Learn To Fly.flac:ac6b87d9993c493031174d0e9e26f4b7
+06 Breakout.flac:f3c5c7627995779de4fda9d4d9c3c881
+07 Stacked Actors.flac:7d4dd74a066cb0a0e8ed018dd6c37b81
+08 Everlong.flac:918f5996d8c46d843006ddfe5656108a
+09 Monkey Wrench.flac:9c16a0d4863fa6008a35b8849322f436
+10 Best Of You.flac:358be9683c8be1f54cd4ef85aea6d453

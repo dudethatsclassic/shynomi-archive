@@ -1,0 +1,79 @@
+Foo Fighters
+2021-09-05
+Bottlerock Festival
+Jam Cellars Stage
+Napa, CA
+
+SOURCE: 
+SP-CMC-8 (w/Mods) > Sony PCM-M10 > Sandisk Mini-SD Card (32gb - Class 10)
+
+TRANSFER: 
+.WAV (24 Bit) > Adobe Audition 2021 CC (normalize/amplify/tracking) > Trader's Little Helper > FLAC (Level 8) 
+
+SETLIST:
+
+01. Intro
+02. Times Like These
+03. The Pretender
+04. Learn to Fly
+05. No Son of Mine
+06. The Sky Is A Neighborhood
+07. Shame Shame
+08. Breakout
+09. My Hero
+10. These Days
+11. Medicine at Midnight
+12. Walk
+13. You Should Be Dancing (Bee Gees cover)
+14. (band intros)
+15. Somebody to Love (Queen cover)
+16. All My Life
+17. This Is A Call
+18. Best of You
+19. Monkey Wrench
+20. Everlong
+
+NOTES:
+
+This was my 4th time seeing Foo Fighters, from what I can remember, and I just have to say, Dave Grohl is a monster. This day alone, he performed at 3 different stages throughout the day. Once in the early afternoon at the Jam Pad acoustic stage, performing his "Hanukkah Sessions" with Greg Kurstin, and then in the later afteroon on the culinary stage doing some sort of cooking set (no joke), and then of course headlining the night with the Foo's. I don't know he does it, or finds the constant energy, but thank God. He's such a cool dude, who knows so much about music, and is so good at performing it (any band, any instrument). He truly is a God I think
+
+Anyway, it was hot this day (the hottest day in fact), and though I was a little tired and beat from the sun (I was at the main stage, with no shade, pretty much all day), I powered through and was able to record a lot of acts (all on 2 bottles of water too, and a few sips of some ice water that my friend Lex was able to finagle from the wine vendors). There are a lot of annoying things I want to vent about and nitpick (cough cough - THE FUCKING BLANKETS - cough cough), but I'll save that for another write up for another band. 
+
+Onto the best moment though was I sitting down before the Foo's were going to hit the stage, and this long haired dude sits down next to us holding a beer and I immediately notice he has a set of mics hanging down from his pocket (I have an eye for these things I guess) and I say to him, "I think you're my new best friend", which I admit probably startled him, ha. After a few seconds of talking about the mics and recording, we both realize we're DIME members and have emailed each other about recordings and what. So sure enough, it's thomascirca (who also runs the very helpful and cool RATM archive site: http:ratm.live - check it out if you haven't). Such a small and cool world. Of all people and of all places, he sits down next to me. Same thing happened when I was at Bottlerock the last time, in 2014, where I ended up next to another DIME member during The Cure, who helped keep some of the annoying talkers/audience members at bay for me - I'm forever grateful for that, still to this day. So again, I just want to say, thomascirca, it was awesome meeting you and chatting it up and picking your brain and discussing our craft and hobby and programming and websites, I was totally nerding out if you couldn't tell. I really hope we cross paths again at another show or festival sometime soon (hopefully shows/festivals really start picking it up again).
+
+As for the recording and the show. Well thanks to thomascirca, I had some quiet neighbors (unlike GnR from the previous night) which helped produce a much better sounding recording than I could have hoped for, given you're at a giant outdoor stage with a bunch of drunk yuppy wino Napa assholes (don't worry, I grew up/was raised in Napa, so I can/will talk shit about these "locals"). The setlist was pretty typical at this point in their career, nothing to write home about, but nothing to complain about either. I would love to hear more off the first two records, but perhaps that can be saved for their own Cal Jam festival, if that ever happens again. The production was top notch, the sound was top notch, and they finished before the 10pm noise curfew this time, so you can hear all of "Everlong" on this recording! A win win for everyone. Crank and enjoy!
+
+P.S. I got to fist bump Guy Fieri during the show, but botched my attempt at a selfie with him. Whatever. 
+
+P.S.S. I dedicate this recording to all the "Roovians" who were planning on attending Bonnaroo 2021 (this same weekend) and watching the Foo Fighters on Sunday. It's been a rough year and a half, and I know the enjoyment and love of a music festival, so I know what the heartbreak must feel like to have something cancelled on you at the eleventh hour after months/years of anticipation. My heart and this recording goes out to you!
+
+CHECKSUMS: 
+
+cefd8132bd4b2a8bab9340530aeacf05 *foo-fighters-2021-09-05-bottlerock-napa-24bit-t01-intro.flac
+ee4b99ef31a6e6cdde54886d89857f65 *foo-fighters-2021-09-05-bottlerock-napa-24bit-t02-times-like-these.flac
+055b454c0b58cb41dcc7db915b6faaf9 *foo-fighters-2021-09-05-bottlerock-napa-24bit-t03-the-pretender.flac
+eb99eea3a499f0cfb7ac23cb0f3cfa92 *foo-fighters-2021-09-05-bottlerock-napa-24bit-t04-learn-to-fly.flac
+388defd3ac7ee4295ea931a0f049cfff *foo-fighters-2021-09-05-bottlerock-napa-24bit-t05-no-son-of-mine.flac
+434203055862a6ac225bc74246b36358 *foo-fighters-2021-09-05-bottlerock-napa-24bit-t06-the-sky-is-a-neighborhood.flac
+541b1648413638ea3b0e1fbe7a36e8c1 *foo-fighters-2021-09-05-bottlerock-napa-24bit-t07-shame-shame.flac
+eeaf76e0d2b3bc89e189c959ea24d465 *foo-fighters-2021-09-05-bottlerock-napa-24bit-t08-breakout.flac
+88f8344e50ef05867cc4c4eda72c87f6 *foo-fighters-2021-09-05-bottlerock-napa-24bit-t09-my-hero.flac
+3f3b34ac169858af0ee7fe8cadeaf3d4 *foo-fighters-2021-09-05-bottlerock-napa-24bit-t10-these-days.flac
+ffe1cb3332be6f1c52903271f3f85745 *foo-fighters-2021-09-05-bottlerock-napa-24bit-t11-medicine-at-midnight.flac
+1e88e3c247983888147ebd373e3772f2 *foo-fighters-2021-09-05-bottlerock-napa-24bit-t12-walk.flac
+bd9bec250b4aa8b2a42e279e23b83fce *foo-fighters-2021-09-05-bottlerock-napa-24bit-t13-you-should-be-dancing.flac
+cbebf8b935d2c89a9c49c1ee0e678dc6 *foo-fighters-2021-09-05-bottlerock-napa-24bit-t14-band-intros.flac
+f2bf8e67900f42258791614b7500b6aa *foo-fighters-2021-09-05-bottlerock-napa-24bit-t15-somebody-to-love.flac
+b96a0b2cd4b0f766d78aee754fd57522 *foo-fighters-2021-09-05-bottlerock-napa-24bit-t16-all-my-life.flac
+f07c0cad6be040b0675185dff5b72b57 *foo-fighters-2021-09-05-bottlerock-napa-24bit-t17-this-is-a-call.flac
+4bc33115c004bf8c53a67010425e6b94 *foo-fighters-2021-09-05-bottlerock-napa-24bit-t18-best-of-you.flac
+09294383e63c4595bfd566a2e74872be *foo-fighters-2021-09-05-bottlerock-napa-24bit-t19-monkey-wrench.flac
+79f6467e0d63e8667a1cf8d459ef0084 *foo-fighters-2021-09-05-bottlerock-napa-24bit-t20-everlong.flac
+
+Check out my site: 
+
+http://www.themojavetent.com 
+http://www.facebook.com/coachellarecordings 
+http://www.twitter.com/livecoachella
+
+***DO WHATEVER YOU WANT WITH THIS RECORDING EXCEPT SELL IT, OR ELSE THE KARMA POLICE WILL GET YOU***

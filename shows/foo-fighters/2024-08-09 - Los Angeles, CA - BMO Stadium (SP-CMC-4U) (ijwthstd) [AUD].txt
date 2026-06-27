@@ -1,0 +1,85 @@
+Courtesy of ijwthstd. To quote his stream of consciousness, "I thought I was being funny trolling a dating profile that only wanted to hear from other Foo Fighters fans. But I ended up getting stuck going to 3 shows in a row. At least I got to see The Hives, Pretenders and Amyl & The Sniffers again. The fact that they were such long shows with a bit of travel in there is part of the reason for the reduced output this last Friday. In the meantime here are the 3 FF sets in raw wav format. Will keep active for a bit but might make space if tracked versions start making the rounds. But at a total of 8 hours 25 minutes I heard more than I ever wanted to in my lifetime so it will be awhile before I do it myself." 
+
+So I tracked one of the three shows tonight.  The other two are Petco Park in San Diego on August 7 & BMO Stadium in LA on August 11.  I am not fond of the former & I haven't listened to the latter yet. I don't know if ijwthstd recorded any of the starting acts (The Hives, The Pretenders, and Amyl & The Sniffers) & I don't know what his intentions are if he did.   
+
+Foo Fighters 
+BMO Stadium
+Los Angeles, CA  (USA)
+August 9, 2024
+
+Source:  Audience recording > SP-CMC-4U > Sony PCM-A10 (16/44) > Soundforge > FLAC.
+
+I used CD Wave to track the single WAV file & TLH to convert the resulting WAV tracks to FLAC (level 6) & to create a .ffp file. 
+
+CD 1:
+01. All My Life
+02. No Son of Mine 
+03. Rescued
+04. The Pretender
+05. Walk
+06. (Grohl talks)
+07. Times Like These
+08. Generator
+09. La Dee Da
+10. Breakout
+
+CD 2:
+01. (band introductions) 
+02. My Hero
+03. The Sky Is a Neighborhood
+04. Learn to Fly
+05. Arlandria
+06. These Days
+07. (Grohl talks)
+08. Skin and Bones (acoustic with accordion)
+
+CD 3:
+01. Under You (acoustic)
+02. Nothing at All
+03. This Is a Call
+04. Monkey Wrench
+05. Aurora
+06. Best of You
+07. (encore break)
+08. The Teacher
+09. (Grohl talks)
+10. Everlong 
+
+Total time = 164:49
+
+Personnel (presumed):
+Dave Grohl - vocals & guitar
+Chris Shiflett - guitar
+Pat Smear - guitar 
+Nathan ‍‍Mendel - bass
+Josh Freese - drums
+Rami Jaffee - keyboards & accordion
+
+FF2024-08-09 d01t01.flac:691c85b7a97f377dddb3f718cdff807d
+FF2024-08-09 d01t02.flac:fcd1e872f262ee147c10087870a486b4
+FF2024-08-09 d01t03.flac:2bd2c402bf460d992804318e467cd2ea
+FF2024-08-09 d01t04.flac:ee62b9cc9897cee5c83eb219c275dd8f
+FF2024-08-09 d01t05.flac:762274fe382e757a705d9d8ce45016cb
+FF2024-08-09 d01t06.flac:7fce2c7f37a5c02fa65c54d8e9f34c3d
+FF2024-08-09 d01t07.flac:7f2b74e57f4e65482ee8468940c4ca52
+FF2024-08-09 d01t08.flac:afb9a519fa037835ae4a3940117d31e8
+FF2024-08-09 d01t09.flac:bc9421b7c42de5f238f5a1b18a213cbb
+FF2024-08-09 d01t10.flac:ef8585278023a94f8b40fdf926098e95
+FF2024-08-09 d02t01.flac:b5bf994b0670c944093e386dfc238f81
+FF2024-08-09 d02t02.flac:e26d98c1e090630b8f478c131d320ab0
+FF2024-08-09 d02t03.flac:7edd555f1fd92c2f1c7025d415827837
+FF2024-08-09 d02t04.flac:5070a895958155e978d527429eb3200d
+FF2024-08-09 d02t05.flac:661dc2d7b0f264f224dd5238bf16f94c
+FF2024-08-09 d02t06.flac:c8bfbf34fb8e0913aa50189aea4356f4
+FF2024-08-09 d02t07.flac:9f64f898625398740be33ddb11d023c9
+FF2024-08-09 d02t08.flac:58195ece03a8e4dd9c5240efa99c4e99
+FF2024-08-09 d03t01.flac:4a86df7cca3d7563df6d9f0cea495bff
+FF2024-08-09 d03t02.flac:6001abee0c1c2481b9b404e63428ff2f
+FF2024-08-09 d03t03.flac:af6704065dcdd93995c7c75ff9a44035
+FF2024-08-09 d03t04.flac:9cac202f6fd86bd968e3e6db51b5da48
+FF2024-08-09 d03t05.flac:983974c71808eee1aa537d4cbed19a93
+FF2024-08-09 d03t06.flac:784a34a63b7de5db304cbdd2cc0b2021
+FF2024-08-09 d03t07.flac:0179e21dd38c7124a043ed45f843fc0e
+FF2024-08-09 d03t08.flac:e205f807cc98899b2ecf0df9d88a24ea
+FF2024-08-09 d03t09.flac:ecf491b76606f00dea34b0f8dffaeaab
+FF2024-08-09 d03t10.flac:f5586a8d93afb9abc2a4883d24f87260

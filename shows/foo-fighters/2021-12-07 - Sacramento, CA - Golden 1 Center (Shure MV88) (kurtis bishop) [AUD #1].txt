@@ -1,0 +1,84 @@
+FOO FIGHTERS
+December 7, 2021
+Golden 1 Center
+Sacramento, CA, US
+
+SETLIST:
+-------------------
+01. Times Like These [cuts within]
+02. The Pretender [cuts within]
+03. Learn to Fly
+04. No Son of Mine
+05. The Sky is a Neighborhood
+06. Shame Shame
+07. Breakout
+08. My Hero
+09. These Days
+10. Medicine At Midnight >
+11. Breakdown [Tom Petty cover] >
+12. Walk
+13. Chris Shiflett on guitar [solo]
+14. My Generation [The Who jam]
+15. Rami Jaffee on keyboard [jam]
+16. Blitzkrieg Bop [part of]
+17. Somebody to Love [Queen cover] [Taylor on vocals, Dave on drums]
+18. All My Life
+19. La Dee Da
+20. This Is A Call
+21. Aurora
+22. Best of You
+23. Monkey Wrench
+24. Everlong
+
+
+SOURCE:
+-------------------
+AUD #1 - Quality: 8.5
+Shure MV88/built-in mic > iPhone 11
+
+Recorded by: Kurtis Bishop
+
+TRANSFER:
+-------------------
+Shure MV88/built-in mic > iPhone 11 > AirDrop > MacBook Pro (Retina, 15-inch, Mid 2015) > Adobe Audition 13.0 > Audacity 3.0.5
+
+GENERATION:
+-------------------
+WAV(M) [48kHz/24-bit] > FLAC [Level 8]
+
+NOTES:
+-------------------
+- “Times Like These” cuts within due to Siri being activated on the taper’s device.
+- “The Pretender” cuts within as the input is switched to the device’s built-in mic due to the Shure mic being disconnected.
+
+
+MD5 FINGERPRINTS:
+-------------------
+2f8cdf00a076a3ae3a957748c49c8571 *foo2021-12-07-aud1-t01.flac
+8c035ec14d88575b1c1c71493cf98336 *foo2021-12-07-aud1-t02.flac
+bdb142a32b032fc8a576b8ed1f05b97e *foo2021-12-07-aud1-t03.flac
+aa659e2393ffcca084afd858a6f5ef90 *foo2021-12-07-aud1-t04.flac
+b15d7e42a9ce91fa1da37c00af990cc1 *foo2021-12-07-aud1-t05.flac
+49c9538fcedd335ce61ec2f386498fd0 *foo2021-12-07-aud1-t06.flac
+6df397b6f181a29323f5c1120a241b57 *foo2021-12-07-aud1-t07.flac
+0c08c8fd031efdf308005a96f6ac0271 *foo2021-12-07-aud1-t08.flac
+910341236e4a8a5e0418f11a5bb1afaa *foo2021-12-07-aud1-t09.flac
+0074dc573c96c928cb37b50c6a8ea32e *foo2021-12-07-aud1-t10.flac
+9d0222604cb404e106d6cb23dfe996b5 *foo2021-12-07-aud1-t11.flac
+595de6057db382b8dad5efd5dfb4c16e *foo2021-12-07-aud1-t12.flac
+0f9d733ce2680fe9af0e4021f48ef517 *foo2021-12-07-aud1-t13.flac
+267ef856d84dcaa3dda35df6ca21ae5a *foo2021-12-07-aud1-t14.flac
+ec88e0aea942e75c89bc3b2b46c86da6 *foo2021-12-07-aud1-t15.flac
+9ba863a37332cac2b8e122462dda3fd5 *foo2021-12-07-aud1-t16.flac
+a6eb276024956e3bb96758cc396e09e2 *foo2021-12-07-aud1-t17.flac
+42c3315ba9cf46bc6d03243c5bb53a2d *foo2021-12-07-aud1-t18.flac
+3ff314e11425d6c4652ba8a2a20017df *foo2021-12-07-aud1-t19.flac
+c5aff6124f6e8d42f32a5b09985adeb9 *foo2021-12-07-aud1-t20.flac
+3e9cbb3f9d195ad001288027d18048db *foo2021-12-07-aud1-t21.flac
+cf380ca403d58ba89d4773fe008ecb21 *foo2021-12-07-aud1-t22.flac
+494cf3e2ef62b743791d5024885787da *foo2021-12-07-aud1-t23.flac
+c0cf5ac616ae9a7554f3115dbd44c2ad *foo2021-12-07-aud1-t24.flac
+
+
+Transferred and encoded by: Kurtis Bishop
+PLEASE DO NOT DISTRIBUTE IN LOSSY FORMATS OR SELL!

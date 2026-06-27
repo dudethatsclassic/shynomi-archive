@@ -1,0 +1,58 @@
+This is a brand new source however as it is presented here is far from ideal. I received this on a DVDR direct from the taper via an ebay sale and expected it to be an authored DVD ready to share. However on the disc was simply an MPEG2 file with a few problems. Firstly the audio was only in the right channel, so I had to copy that to the left channel to create a faux stereo track. The video portion appeared to be DVD spec but unfortunately every DVD authoring program rejected it, they all disliked something about how it was encoded. The original file was created by ArcSoft software which leads me to believe the tape was captured via an EzCap device, or something similar. Therefore I had no choice but to re-encode the file to make it DVD Legal to share with you now.
+
+Far from ideal, of course. I had resisted sharing the source like this for a while because of these issues in the hope we would be able to get a better, direct transfer. However that hasn't happened and doesn't seem likely to in the very near future so now I'm sharing it, but please bear in mind the above when downloading and watching. Hopefully a better transfer will be made available at some point in the future.
+
+As for the video itself, see the review below
+
+FOO FIGHTERS
+November 14th 1995
+Brixton Academy
+London, United Kingdom
+
+GENERAL INFORMATION:
+Generation: 8MM(M) > DVDR(0) [PAL]
+Source: AMT #1 - Amateur Video
+Running Time: 65:38 minutes
+
+TECHNICAL INFORMATION:
+Transferred By: Unknown (Re-authored by FooFightersLive.com)
+Video Information: 6 Mbps VBR / 720x576i / 25 fps
+Audio Information: 384kbps AC-3 (Mono)
+Transfer:unknown > ArcSoft Software > VirtualDub 1.9.11 > Cinema Craft Encoder SP3 > Adobe Encore CS6
+
+TRACKLISTING:
+
+    Enough Space
+    This Is A Call
+    Winnebago
+    Wattershed
+    For All The Cows
+    Weenie Beenie
+    Butterflies
+    Big Me
+    I'll Stick Around
+    Oh, George
+    Good Grief
+    Podunk
+    Alone + Easy Target
+    Exhausted
+    Floaty
+    Up In Arms
+    Gas Chamber
+    My Hero
+
+MD5 FINGERPRINTS:
+526bbf78d96d5f0898ed7120f11091d4 *VIDEO_TS\VIDEO_TS.BUP
+526bbf78d96d5f0898ed7120f11091d4 *VIDEO_TS\VIDEO_TS.IFO
+558bd2bc39f5fcc28ac28165fe15e441 *VIDEO_TS\VIDEO_TS.VOB
+5a926fae17b047f00c8b0ca759bd0982 *VIDEO_TS\VTS_01_0.BUP
+5a926fae17b047f00c8b0ca759bd0982 *VIDEO_TS\VTS_01_0.IFO
+c44c0bfb49acf9f27a4457505255b791 *VIDEO_TS\VTS_01_0.VOB
+6c4745755ba9c0637e9e659ba53e09d9 *VIDEO_TS\VTS_01_1.VOB
+1854f1be083b0da463db5b662eea8a0f *VIDEO_TS\VTS_01_2.VOB
+387e01934df9545303e2a8a6ca51fd3d *VIDEO_TS\VTS_01_3.VOB
+
+REVIEW:
+This amateur video is shot from the left side balcony looking towards the stage. The shot is extremely steady, most likely shot on a tripod. The shot is pretty static throughout focusing only on Dave/stage centre with no pans of the stage or zoom adjustment, with one exception 2/3 of the way into the show, zooming out to show the whole stage for a short time. With that exception, the rest of the video only Dave can seen most of the time, Nate occasionally. The video is fairly clear but suffers from a low quality transfer with horizontal interference occasionally. The audio is average with quite a bit of distortion, but still listenable.
+
+The DVD features a menu with chapter points for each song. There are no extras on the DVD.

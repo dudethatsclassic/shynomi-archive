@@ -1,0 +1,75 @@
+FOO FIGHTERS
+September 25, 2008
+The Joint at Hard Rock Hotel
+Las Vegas, NV
+
+SOURCE (AUD #1):
+Church Audio > Edirol R-09
+
+TRANSFER:
+USB > Adobe Audition 3 > CD Wave 1.97 > Traders Little Helper 2.4.1
+
+GENERATION:
+WAV(M) [44.1 khz/16-Bit] > REMASTER > FLAC [Level 8]
+
+LENGTH:
+118:43
+
+NOTES:
+- Has level problems and a buzzing noise throughout due to a faulty battery box.
+- Small cut in 'Let It Die' due to battery box adjustment.
+
+TRACKS:
+01. Let It Die (cut)
+02. The Pretender
+03. Times Like These
+04. Cheer Up, Boys (Your Make Up Is Running)
+05. Learn To Fly
+06. Young Man Blues
+07. Long Road To Ruin
+08. Stacked Actors (part of)
+09. Low
+10. Hey, Johnny Park
+11. Monkey Wrench
+12. Skin And Bones
+13. Marigold
+14. My Hero
+15. Cold Day In The Sun
+16. But, Honestly
+17. All My Life
+18. Gimme Stitches
+19. Generator
+20. Everlong
+21. Best Of You
+
+MD5 FINGERPRINTS:
+539bd46621bcf013aa5f1854191ad08d *FooFighters2008-09-25t01.flac
+b7f5bd974d6815422fb93b37ed1a12fe *FooFighters2008-09-25t02.flac
+44e3a33781f0b001c7eae8d5d8048f15 *FooFighters2008-09-25t03.flac
+ee26309987ee1c4060c87bb91e42be2d *FooFighters2008-09-25t04.flac
+757f2fb9de09e0e1807d0c501c911ece *FooFighters2008-09-25t05.flac
+fe9cb03d0316a4dd7374382e5827d1ee *FooFighters2008-09-25t06.flac
+5e4bc72658d1f1a6485a65559b064da9 *FooFighters2008-09-25t07.flac
+7af37ceed8e5eef1b3503a6fcc466ec2 *FooFighters2008-09-25t08.flac
+8e864b0400ef8e88443e0164420e650d *FooFighters2008-09-25t09.flac
+20203fdf92cea118cf89454b8b924148 *FooFighters2008-09-25t10.flac
+7851701e54b7cb58bd2ec7dc82e1199e *FooFighters2008-09-25t11.flac
+4adece63deeed9c9382561f93eeed439 *FooFighters2008-09-25t12.flac
+8d9740f661408550f679428e6e852ed0 *FooFighters2008-09-25t13.flac
+b757a73a6016ac691be09a7f66023b51 *FooFighters2008-09-25t14.flac
+bdce831198c8292f79794b7dc81eb971 *FooFighters2008-09-25t15.flac
+73cbdd7c9ed236edbbcbb61b4b615386 *FooFighters2008-09-25t16.flac
+0eff89890cd06f253c84ddce2b064098 *FooFighters2008-09-25t17.flac
+bf2fe179fc4f4a72f9739d4dc17061bd *FooFighters2008-09-25t18.flac
+73fcb0153b48c5fe5695c2847765eb50 *FooFighters2008-09-25t19.flac
+b9864dd2b5f8815c9a836e3eebda98cd *FooFighters2008-09-25t20.flac
+a18f208b8b0a00ddd42566556bae152c *FooFighters2008-09-25t21.flac
+
+RECORDED & TRANSFERRED BY:
+wavtaper
+
+REMASTERED BY:
+Simon Kilmore
+
+**PLEASE DO NOT ENCODE TO LOSSY FORMATS LIKE MP3 OR SELL!**
+**DO NOT UPLOAD ON YOUTUBE!**

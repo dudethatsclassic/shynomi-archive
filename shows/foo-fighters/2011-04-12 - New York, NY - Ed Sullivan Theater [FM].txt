@@ -1,0 +1,49 @@
+Foo Fighters
+Live on Letterman
+Ed Sullivan Theater
+NY, NY US
+2011-04-12
+
+Lineage: fm (Onkyo TX8511)>SoundBlaster (Live! 24 bit External)>wav(CD Wave Editor)>flac
+
+Bridge Burning 5:27
+Rope 4:30
+Dear Rosemary 4:19
+These Days>4:59
+Back and Forth 3:56
+Walk 4:37
+All My Life 5:17
+Times Like These 4:26
+My Hero 4:55
+Learn to Fly 3:57
+Band Intros/Cold Day in the Sun 5:17
+It's OK to Suck/Big Me 5:11
+Stacked Actors 8:33
+Monkey Wrench 5:13 
+Everlong 4:50
+Best of You 5:36
+This Is a Call 5:19
+
+total time: 86:29
+
+st5 fingerprints:
+
+ccb97165ac974ee36ecf0df6c4a1abd1  [shntool]  01 Bridge Burning.flac
+861c6e3e3803e005439f8821fe5c9f67  [shntool]  02 Rope.flac
+c638b54db923bd237364f2c17a8462e3  [shntool]  03 Dear Rosemary.flac
+d529a8b4d42f97b84e6253a25d1f5438  [shntool]  04 These Days.flac
+3ea0245e327ad5378f5b9f4a400b851f  [shntool]  05 Back and Forth.flac
+ba08ef35c51b4accd3b218568018af05  [shntool]  06 Walk.flac
+bd18498aa6bcce15ebb49ae7eb206683  [shntool]  07 All My Life.flac
+5bcedfcc24af5137dc84697344d3f8ce  [shntool]  08 Times Like These.flac
+263324d77cab3e4656c576f0954bb35a  [shntool]  09 My Hero.flac
+1b96030158c17305b97d48991f399166  [shntool]  10 Learn to Fly.flac
+2719cfe23469e3772c1b3469c7cfed33  [shntool]  11 Band Intros-Cold Day in the Sun.flac
+bb7eb0169d3293e4daea8d55969f0961  [shntool]  12 It's OK to Suck-Big Me.flac
+eb5fc36f5740ec64946f621bf25a8bf2  [shntool]  13 Stacked Actors.flac
+97b4afad200bbda92a9424ea686f7eb6  [shntool]  14 Monkey Wrench.flac
+4366d9b72399392bc1296585449b60bc  [shntool]  15 Everlong.flac
+dcbdb84d476ad05ad127f04c34932760  [shntool]  16 Best of You.flac
+e59cf8ba3591fcc78c13bccc56afeda9  [shntool]  17 This Is a Call.flac
+
+No errors occured.

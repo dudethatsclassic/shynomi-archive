@@ -1,0 +1,43 @@
+Foo Fighters
+October 9th 2017
+HD Radio Soundspace at KROQ
+Los Angeles, CA
+
+SOURCE (PRO #1):
+soundboard > unknown
+
+TRANSFER:
+Live webstream > ffmpeg N-87353-g183fd30 > VideoReDo 5.1.1.719
+
+GENERATION:
+Webstream > Transport Stream [H.264/1080p/4Mbps|AAC/128kbps/2.0]
+
+LENGTH:
+97:49
+
+NOTES: 
+- Pre-recorded on October 9th, broadcast as-live on October 10th. 
+- A fan came up on stage to sing backing vocals on 'Everlong'.
+
+TRACKS:
+01. Times Like These
+02. All My Life
+03. Learn To Fly
+04. The Sky Is A Neighborhood
+05. La Dee Da
+06. The Pretender
+07. The Line
+08. Sunday Rain
+09. My Hero
+10. Run
+11. Best Of You
+12. Everlong
+13. interview
+
+MD5 FINGERPRINTS:
+a8ee447de69a73f1a4bbcb0d3e578772 *Foo Fighters 2017-10-09.ts
+
+RECORDED BY:
+FooFightersLive.com
+
+**PLEASE DO NOT SELL!**

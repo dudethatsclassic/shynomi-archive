@@ -1,0 +1,92 @@
+FOO FIGHTERS
+August 13, 2024
+Toyota Pavilion at Concord
+Concord, CA, US
+
+SETLIST:
+-------------------
+00. intro/banter
+01. All My Life
+02. No Son of Mine
+ >> Dirty Deeds Done Dirt Cheap [AC/DC cover, tease]
+ >> Paranoid [Black Sabbath cover, tease]
+ >> Enter Sandman [Metallica cover, tease]
+ >> No Son of Mine [reprise]
+03. The Pretender
+04. Walk
+05. Times Like These
+06. White Limo
+07. Stacked Actors
+08. Breakout
+09. band introductions
+ >> Chris Shiflett: Crazy Train > Kickstart My Heart > Eruption > Thunderstruck [guitar riff cover medley]
+ >> Nate Mendell: Sabotage [Beastie Boys partial cover, full band]
+ >> Rami Jaffee: keyboard solo
+ >> Pat Smear: Blitzkrieg Bop [Ramones partial cover, full band]
+ >> Josh Freese: March of the Pigs [Nine Inch Nails partial cover, full band]
+10. My Hero
+11. The Sky Is a Neighorhood
+12. Learn to Fly
+13. Arlandria
+14. These Days
+15. Statues [acoustic]
+16. Under You [Dave solo, acoustic]
+17. Nothing At All [w/ "Blackbird" riff tease]
+18. This is a Call
+19. Shame Shame
+20. Monkey Wrench
+21. Aurora
+22. Best of You
+xx. The Teacher [MISSING]
+xx. Everlong [MISSING]
+
+
+SOURCE:
+-------------------
+AUD #3 - Quality: 8.5
+Sound Professionals SP-CMC-4U > Sony PCM-A10
+
+Recorded by: vibrioidxire
+
+TRANSFER:
+-------------------
+Sound Professionals SP-CMC-4U (AT-U853's, with SP UE-H-PAIR hypercardioid caps mod) > Sound Professionals SP-SPSB-10 Power Module > Sony PCM-A10 High-Resolution Digital Audio Recorder > WAV [48kHz/24-bit] > USB connector > Insignia NS-PA3C3A USB-C to USB adapter > Apple MacBook Pro (16-inch, 2021) > Adobe Audition 23.2 [post-production/mastering] > xACT 2.55 > FLAC [Level 8]
+
+GENERATION:
+-------------------
+WAV(M) [48kHz/24-bit] > FLAC [Level 8]
+
+NOTES:
+-------------------
+- Missing the encore: "The Teacher" and "Everlong".
+
+
+FLAC FINGERPRINTS:
+-------------------
+foofighters2024-08-13_AUD3_t00.flac:d6a7ceb688b9c1c5b9c397b26750275c
+foofighters2024-08-13_AUD3_t01.flac:f50db5b36afbdc060f32c7d380131502
+foofighters2024-08-13_AUD3_t02.flac:8fecb550c0498b257b8477fdd52e1995
+foofighters2024-08-13_AUD3_t03.flac:64b4a777066110b2823ac44464798f80
+foofighters2024-08-13_AUD3_t04.flac:94d003099e483b304331e496445dbb7d
+foofighters2024-08-13_AUD3_t05.flac:f4d91e36b0a52e83b18fb6335a905751
+foofighters2024-08-13_AUD3_t06.flac:ca6a1f7f4d8eab27d95bda983762be38
+foofighters2024-08-13_AUD3_t07.flac:d8c7f6c053d352b56f14bb0f5130eccc
+foofighters2024-08-13_AUD3_t08.flac:ca507ce73282836d999726285d0ec37a
+foofighters2024-08-13_AUD3_t09.flac:b3d46381bfa55dc1e6e438dfd5affbea
+foofighters2024-08-13_AUD3_t10.flac:b8728fc1c1267b18e53631d277b89a56
+foofighters2024-08-13_AUD3_t11.flac:ac182d6f622ced2b3ea269fa0ceeed00
+foofighters2024-08-13_AUD3_t12.flac:be79ce25d90c4283ceb4103baf3c40d9
+foofighters2024-08-13_AUD3_t13.flac:1416902b247ede61f154a0d2a010373e
+foofighters2024-08-13_AUD3_t14.flac:5014a509f67674c0a253d623af0c710b
+foofighters2024-08-13_AUD3_t15.flac:8068f01ae21bd05f1db959cbf0ca7aba
+foofighters2024-08-13_AUD3_t16.flac:0aecd2df49ead272ce957272fc81ca5a
+foofighters2024-08-13_AUD3_t17.flac:d94c5428974929650adefcf97c992e78
+foofighters2024-08-13_AUD3_t18.flac:61fdbf946aef0b922048f90803a8117d
+foofighters2024-08-13_AUD3_t19.flac:8f6b8886d3f00d48b555dbab3d7f9176
+foofighters2024-08-13_AUD3_t20.flac:88bec3e4b46c99fc0eb1ff3dbc8e8080
+foofighters2024-08-13_AUD3_t21.flac:8c5028f23a3938b35cd6e6f10c573b0b
+foofighters2024-08-13_AUD3_t22.flac:f44636d6d36161058636be6407150543
+
+
+Transferred and encoded by: vibrioidxire
+PLEASE DO NOT DISTRIBUTE IN LOSSY FORMATS OR SELL!

@@ -1,0 +1,31 @@
+Foo Fighters - 1995 11 05 Bataclan, Paris, FRA
+
+Band:
+Dave Grohl - Guitar, Vocals
+Nate Mendel - Bass Guitar
+Pat Smear - Guitar
+William Goldsmith - Drums
+
+01. Enough Space
+02. This Is A Call
+03. Winnebago
+04. Wattershed
+05. For All The Cows
+06. Weenie Beenie
+07. Butterflies
+08. Big Me
+09. I'll Stick Around
+10. Oh, George
+11. Good Grief
+12. Podunk
+13. Alone + Easy Target
+14. Exhausted
+15. Floaty
+16. Up In Arms (fast)
+17. Gas Chamber [The Angry Samoans]
+18. My Hero
+
+Openers:
+Built To Spill
+
+Lineage: Minidisc Audience Master > 1st Gen Tape > Tascam 202MKVII USB out > CDWAV > Audacity (normalization, fades, merges, noise reduction) > CDWAV (splits) > DBPowerAmp (FLAC) [loughney xfer]

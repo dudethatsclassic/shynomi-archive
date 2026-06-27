@@ -1,0 +1,44 @@
+Foo Fighters
+
+October 30, 2021
+
+36th Annual Rock & Roll Hall of Fame Induction Ceremony
+
+Rocket Mortgage Fieldhouse, Cleveland, Ohio
+
+Video: H.264/MPEG-4; 10.000Mbps CBR; 16:9; 1920x1080 NTSC; 29.97fps
+
+Audio: MP4a: MPEG-4 AAC [ADTS]; 130Kbps; 48kHz
+
+Length: 31:50
+
+Size: 2.31 GB
+	   
+Lineage: DVB-S > MPEG-4 TS > Hauppauge HD PVR 2
+
+Quality: Excellent
+
+
+setlist:
+
+01 Paul McCartney Intro
+02 Foo Fighters Inductee Film
+03 Best of You
+04 My Hero
+05 Everlong
+06 Band Member Speeches
+07 Get Back (with Paul McCartney)
+
+
+Source:	HBO Hi-Definition Digital Satellite Broadcast
+
+Capture:	DIRECTV HR34-700 DVR > Hauppauge HD PVR 2 [1080i capture] > MPEG-4 TS
+
+Taper:	Squareofnone
+
+Convert: 	MPEG-4 TS > Hauppauge Capture v1.1.36187 [trim; no re-encoding]
+
+Notes: 	First broadcast date November 20, 2021.
+
+md5:
+d4960fbafc3eef8a6c830c3238bdcf6e *ff2021-10-30.h264.1080i.ts

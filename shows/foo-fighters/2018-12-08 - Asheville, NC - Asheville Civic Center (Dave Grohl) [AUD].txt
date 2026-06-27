@@ -1,0 +1,31 @@
+Dave Grohl
+Warren Haynes Christmas Jam
+Asheville Civic Center
+Asheville, North Carolina
+12/8/2018 
+
+Source: Schoeps CCM4V's>Lunatec V2>Sound Devices 722 (24/44)
+FOB/DFC/KFC/ZFC/AARP 45' From Stage, 6' High
+DSP: Sound Devices 722>Sound Forge 10.0>CD Wave>flac(16)
+ID3 Tagged In Foobar 2000
+Recorded By: Z-Man
+Seeded By: Z-Man 
+
+Disc I 
+
+01 ? >
+02 ?
+03 ? 
+04 ? 
+
+dave2018-12-08d01t01.flac:f8852c5551b225eee3144a9f1c89e61e
+dave2018-12-08d01t02.flac:d53766f9b645ead5a83c10af91661d95
+dave2018-12-08d01t03.flac:a1d773f21d0990f928ac94591faa0856
+dave2018-12-08d01t04.flac:58f40fda9bfbdab1d1d1aac8a177235c
+
+ length     expanded size    cdr  WAVE problems  fmt   ratio  filename
+     9:17.20       98301884 B   ---   --   ---xx   flac  0.4623  dave2018-12-08d01t01.flac
+    19:33.66      207072476 B   ---   --   ---xx   flac  0.4631  dave2018-12-08d01t02.flac
+     2:51.58       30300860 B   ---   --   ---xx   flac  0.5074  dave2018-12-08d01t03.flac
+     4:25.42       46844828 B   ---   --   ---xx   flac  0.4650  dave2018-12-08d01t04.flac
+    36:08.36      382520048 B                            0.4666  (4 files)

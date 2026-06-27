@@ -1,0 +1,108 @@
+Foo Fighters 
+Sziget Festival
+Dan Panaitescu Main Stage
+Óbudai-Sziget
+Budapest, Hungary
+Tuesday, August 13, 2019
+(broadcast date: August 9, 2020)
+
+Lineage: "LIVE" Webcast -> Livestreamer ->  MKVToolNix GUI -> FFmpeg (edit) -> uncompressed .mkv
+Video: MPEG4 Video (H264) 1920x1080 16:9 2900 Kbps 30.00 fps
+Audio: AAC 128 Kbps 48.0 KHz stereo
+
+Setlist:
+All My Life
+Learn to Fly
+The Pretender
+The Sky Is a Neighborhood
+Times Like These
+Rope
+Drum Solo
+Sunday Rain
+My Hero
+These Days
+Walk
+band introductions (with snippets of "Rapper's Delight", "Ziggy Stardust" and "Day-Oh")
+Under Pressure (Queen cover with Taylor on vocals and Dave on drums)
+Wheels 
+Run
+Monkey Wrench
+Hey, Johnny Park!
+Big Me
+Best of You
+Dirty Water
+This Is a Call
+Everlong
+
+TRT = 02:29:00
+
+Note: This is a perfect capture of the webcast.
+There were a couple of slight audio glitches inherent in the broadcast.
+
+Captured and uploaded to DIME by indykid.
+
+MediaInfo:
+General
+Unique ID                                : 23181699405191684058798740763566349610 (0x1170A20609969D5118C770A5BF271D2A)
+Complete name                            : Foo Fighters - 2019-08-13 Sziget Festival, Budapest, Hungary [1080p].mkv
+Format                                   : Matroska
+Format version                           : Version 4
+File size                                : 3.13 GiB
+Duration                                 : 2 h 29 min
+Overall bit rate                         : 3 007 kb/s
+Writing application                      : Lavf58.42.100
+Writing library                          : Lavf58.42.100
+ErrorDetectionType                       : Per level 1
+
+Video
+ID                                       : 1
+Format                                   : AVC
+Format/Info                              : Advanced Video Codec
+Format profile                           : High@L4
+Format settings                          : CABAC / 1 Ref Frames
+Format settings, CABAC                   : Yes
+Format settings, RefFrames               : 1 frame
+Codec ID                                 : V_MPEG4/ISO/AVC
+Duration                                 : 2 h 29 min
+Width                                    : 1 920 pixels
+Height                                   : 1 080 pixels
+Display aspect ratio                     : 16:9
+Frame rate mode                          : Constant
+Frame rate                               : 30.000 FPS
+Color space                              : YUV
+Chroma subsampling                       : 4:2:0
+Bit depth                                : 8 bits
+Scan type                                : Progressive
+Default                                  : Yes
+Forced                                   : No
+Color range                              : Limited
+Color primaries                          : BT.709
+Transfer characteristics                 : BT.709
+Matrix coefficients                      : BT.709
+Statistics Tags Issue                    : mkvmerge v47.0.0 ('Black Flag') 32-bit 2020-08-09 21:49:04 / Lavf58.42.100 
+FromStats_BitRate                        : 2852129
+FromStats_Duration                       : 02:29:00.000000000
+FromStats_FrameCount                     : 271200
+FromStats_StreamSize                     : 3222905833
+
+Audio
+ID                                       : 2
+Format                                   : AAC LC
+Format/Info                              : Advanced Audio Codec Low Complexity
+Codec ID                                 : A_AAC-2
+Duration                                 : 2 h 29 min
+Channel(s)                               : 2 channels
+Channel layout                           : L R
+Sampling rate                            : 48.0 kHz
+Frame rate                               : 46.875 FPS (1024 SPF)
+Compression mode                         : Lossy
+Delay relative to video                  : 19 ms
+Default                                  : Yes
+Forced                                   : No
+Statistics Tags Issue                    : mkvmerge v47.0.0 ('Black Flag') 32-bit 2020-08-09 21:49:04 / Lavf58.42.100 
+FromStats_BitRate                        : 125374
+FromStats_Duration                       : 02:29:00.007000000
+FromStats_FrameCount                     : 423750
+FromStats_StreamSize                     : 141673408
+
+Captured and uploaded to DIME by indykid

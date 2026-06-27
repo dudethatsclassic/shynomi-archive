@@ -1,0 +1,38 @@
+FOO FIGHTERS - 2002-08-24 - Reading Festival, UK [FM master] - previously uncirculated source
+
+Foo Fighters
+Reading Festival,
+Richfield Avenue,
+Reading, England, U.K.
+24th August 2002 
+Transmitted on the BBC Radio 1 FM
+'Lamacq Live'/'Evening Session' programme
+Highlights broadcast date not known
+(not the complete performance)
+
+
+Lineage (master FM recording) :- 
+
+BBC Radio 1 FM -> Roof Aerial -> Marantz ST151L Tuner -> Creative Soundblaster Extigy sound card -> CoolEdit Pro -> WAV -> CDDA Audio CD-R (stored as a single track)
+
+Conversion to FLAC :- 
+
+Archived CD-R -> EAC -> HDD (single .WAV) -> Medieval Cue Splitter -> Multiple WAV's -> TLH -> FLAC 8 & .ffp 
+
+
+Tracklisting :-
+
+01 - All My Life
+02 - Breakout
+03 - This Is A Call
+04 - Learn To Fly
+05 - Disenchanted Lullaby
+06 - Times Like These
+07 - Hey, Johnny Park!
+08 - Low
+09 - Monkey Wrench
+10 - Everlong
+11 - DJ Outro
+
+Length = 45 mins 34 secs
+

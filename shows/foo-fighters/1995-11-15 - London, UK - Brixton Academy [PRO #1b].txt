@@ -1,0 +1,49 @@
+Foo Fighters
+November 15th, 1995
+Brixton Academy
+London, United Kingdom
+
+SOURCE (PRO #1b):
+unknown > unknown
+
+EXTRACTION:
+Unknown > CDWave 1.98 > Trader's Little Helper 2.7.0
+
+GENERATION:
+CD(M) [Unoffical CD - Brixton] > WAV [44.1khz] > FLAC [Level 8]
+
+LENGTH:
+40:33
+
+TRACKS:
+01. Enough Space
+02. This Is A Call
+03. Winnebago
+04. Wattershed
+05. For All The Cows
+06. Weenie Beenie
+07. Big Me
+08. I'll Stick Around
+09. Alone + Easy Target
+10. Up In Arms
+11. Gas Chamber
+12. Exhausted
+
+MD5 FINGERPRINTS:
+e86d422059b462d8e2f81dbf441e0a40 *FooFighters1995-11-15t01.flac
+1fd51b4646f78bab2ed09d43779de279 *FooFighters1995-11-15t02.flac
+1584b90ff1b78227e56889da2b96b49c *FooFighters1995-11-15t03.flac
+d52d40a2e355b69f8b725529175343d7 *FooFighters1995-11-15t04.flac
+0b861d5e725990ec5fe82535ae0d5415 *FooFighters1995-11-15t05.flac
+cd222632c25c146381a005067c1a447c *FooFighters1995-11-15t06.flac
+fec05bb9dad65adec5fcff249097b567 *FooFighters1995-11-15t07.flac
+481bcebc8cd3a034a03347abe5270a1c *FooFighters1995-11-15t08.flac
+8f255bd1b13cbacd4c3abb7013256c7f *FooFighters1995-11-15t09.flac
+c539a75d6b555040f817772edfb41cc5 *FooFighters1995-11-15t10.flac
+bbd31b8b7d4070138161a6ad12ec48c2 *FooFighters1995-11-15t11.flac
+279370a21739aeb838e1b14efbe2e039 *FooFighters1995-11-15t12.flac
+
+EXTRACTED BY:
+Unknown
+
+**PLEASE DO NOT ENCODE TO LOSSY FORMATS OR SELL!**

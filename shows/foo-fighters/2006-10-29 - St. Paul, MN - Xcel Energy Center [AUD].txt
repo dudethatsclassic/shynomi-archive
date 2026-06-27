@@ -1,0 +1,56 @@
+
+Foo Fighters
+10/29/06
+Xcel Energy Center
+Saint Paul, MN
+
+
+Source: DPA 4061 > DPA MMA6000 > MT24/96 @ 24/48
+Transfer: MT24/96 > USB 2.0 > PC
+Location: Left lower mezzanine
+
+
+Fades & Resample to 44.1Hz Soundforge 8.0
+Dither to 16 bits Izotope Ozone 3 MBIT+
+Split Tracks using CD Wave Editor
+WAV > FLAC Frontend level 8
+
+taped & transferred by dactylus
+
+
+The Foo Fighters were the opening band for Bob Dylan on this night...
+
+
+
+01. Times Like These
+02. On The Mend
+03. Marigold
+04. My Hero
+05. Next Year
+06. Another Round
+07. See You
+08. Cold Day In The Sun
+09. Big Me
+10. Skin And Bones
+11. Everlong
+
+
+
+Foo Fighters Acoustic Lineup October 29, 2006:
+
+Dave Grohl — vocals, guitar, drums 
+Taylor Hawkins — drums, percussion, vocals (1997–present) 
+Nate Mendel — bass guitar 
+Chris Shiflett — guitar, backing vocals (1999–present) 
+Pat Smear — guitar 
+Petra Haden - violin
+Rami Jaffee - piano
+Drew Hester - percussion
+
+
+In further support of the new cd release "In Your Honor", the band decided to organize a short acoustic tour for the summer 
+of 2006. The tour included former guitarist Pat Smear, who rejoined the band as an extra guitarist, Petra Haden 
+(Beck violinist) on violin, and Rami Jaffee of The Wallflowers on keyboards/piano. Much of the setlist focused on In Your 
+Honor's acoustic CD. The band also used the opportunity to play lesser-known songs such as "Ain't It The Life", "Floaty", 
+and "See You". The band also played a Nirvana B-side, "Marigold", which Dave Grohl originally wrote and sang for the 
+"Heart-Shaped Box" single.

@@ -1,0 +1,55 @@
+Foo Fighters
+August 15th, 1995
+The Trocadero
+Philadelphia, PA
+
+SOURCE (AUD #1):
+Coresound Binaural > Sony WM-D3 (cassette)
+
+TRANSFER:
+Nakamichi CR-07A > LynxONE > Adobe Audition 3 > CD Wave > Trader's Little Helper
+
+GENERATION:
+ANA(1) > WAV [48khz] > WAV [44.1khz] > FLAC [Level 8]
+
+LENGTH:
+71:15
+
+TRACKS:
+01. Winnebago 
+02. I'll Stick Around 
+03. Butterflies
+04. Wattershed 
+05. Big Me
+06. This Is A Call 
+07. Weenie Beenie
+08. For All The Cows
+09. Oh, George 
+10. Podunk
+11. Alone + Easy Target
+12. Good Grief
+13. Exhausted
+14. X-Static
+15. Down In The Park 
+
+MD5 FINGERPRINTS:
+cb90c5befc0e8ff4bdd8afb9b4d30b54 *FooFighters1995-08-15t01.flac
+a25ea2192e5bdb5fac5af92ccdcf4d4d *FooFighters1995-08-15t02.flac
+fc3921edd48274715bb55b23119720cc *FooFighters1995-08-15t03.flac
+18935f6f83ef3fd7c7ec7bb260d884b5 *FooFighters1995-08-15t04.flac
+3af021a1d7f892f1f9f148876cd832e0 *FooFighters1995-08-15t05.flac
+fdba289eafb59391216992104c6efa33 *FooFighters1995-08-15t06.flac
+0a394dfeb62bee155575d57d36f1ba98 *FooFighters1995-08-15t07.flac
+07e0a7def788879c927ebc7ce4f6ae70 *FooFighters1995-08-15t08.flac
+5d63d0127d91a8a9e3c954fc2972a319 *FooFighters1995-08-15t09.flac
+33149c5580d437adef43f9d8a7b7db1f *FooFighters1995-08-15t10.flac
+6fb5fb2b18a69de55d69e1eded2e3068 *FooFighters1995-08-15t11.flac
+741acbebf048debdc3b120e0d80c900a *FooFighters1995-08-15t12.flac
+3da815431f7dd48c46c12c426bad2f4d *FooFighters1995-08-15t13.flac
+34e1d2a78018fe4e84d653b342d66ba3 *FooFighters1995-08-15t14.flac
+1c59aa5187e698222f0c7f2686b89e35 *FooFighters1995-08-15t15.flac
+
+TRANSFERRED BY:
+Mike Ziegler
+
+**PLEASE DO NOT ENCODE TO LOSSY FORMATS OR SELL!**

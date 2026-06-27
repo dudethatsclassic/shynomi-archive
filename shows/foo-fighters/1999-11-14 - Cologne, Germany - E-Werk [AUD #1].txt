@@ -1,0 +1,54 @@
+Foo Fighters
+November 14th, 1999
+E-Werk
+Cologne, Germany
+
+SOURCE (AUD #1):
+unknown > unknown (Minidisc)
+
+TRANSFER: 
+unknown > Adobe Audition CC 2018 > CD Wave 1.98 > flac 1.3.2
+
+GENERATION: 
+MD(M) > CDR(3) > WAV [44.1khz/16-bit] > FLAC [Level 8]
+
+NOTES:
+- Incomplete, missing several songs from the start of the set.
+
+LENGTH: 
+54:03
+
+TRACKS: 
+01. My Poor Brain
+02. Weenie Beenie
+03. For All The Cows
+04. Breakout
+05. Learn to Fly
+06. Up In Arms
+07. Ain't it the Life (cuts out)
+08. Monkey Wrench
+09. Hey, Johnny Park!
+10. Alone + Easy Target
+11. Everlong
+12. Generator
+13. Aurora
+14. I'll Stick Around
+
+MD5 CHECKSUMS: 
+b35d6dceebc7c1b42bab92ca9d8d7c4a *01. My Poor Brain.flac
+e19a7166d2577482e96809d6bdfa63c1 *02. Weenie Beenie.flac
+809c8f60977e2793fdf0c5db90160f20 *03. For All The Cows.flac
+69a3048cc98093afbca6b23a76219560 *04. Breakout.flac
+3eb8221d553075da4f6e16798c1e3258 *05. Learn To Fly.flac
+22451d262ba5d0db87811090c2e7faaa *06. Up In Arms.flac
+072a1544b3269e7f556f6866eff10327 *07. Ain't It The Life.flac
+5b2ef8978794f70d6b1c93bea88696ac *08. Monkey Wrench.flac
+7279b888420c0e597f9758e4614a9ad7 *09. Hey, Johnny Park!.flac
+0630b58211effd0f6f2df21ce3bfd80f *10. Alone + Easy Target.flac
+5ed5e179f94533f6bf21f7a2cf30442a *11. Everlong.flac
+1d464b5f802189015fb52dd2d5a67d88 *12. Generator.flac
+ff300da452989bac794a835f1a3c4c0e *13. Aurora.flac
+619e2b38577bd4049e3227a5f30b0f12 *14. I'll Stick Around.flac
+
+TRANSFERRED BY: 
+Unknown

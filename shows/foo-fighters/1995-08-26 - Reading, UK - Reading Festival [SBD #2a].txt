@@ -1,0 +1,41 @@
+FOO FIGHTERS
+26 August, 1995
+Richfield Avenue (Reading Festival, Sessions Tent)
+Reading, United Kingdom
+
+SETLIST (13:24)
+---------------
+01) Wattershed
+02) This Is A Call
+03) Weenie Beenie
+04) For All The Cows
+05) outro
+
+GENERATION
+---------------
+CD(M) -> WAV [44.1khz] -> FLAC [Level 8]
+
+SOURCE (SBD #2b)
+----------------
+soundboard -> unknown
+
+TRANSFER
+----------------
+Exact Audio Copy v0.95b04 > SoundForge > FLAC Frontend 1.7.1
+
+NOTES
+----------------
+Pre-FM Westwood One 'The Reading Festival' Show # 96-13.
+Orignally broadcast 03/20/96.
+Has bleeps over curse words.
+
+MD5 FINGERPRINTS
+----------------
+1eb6c8195eed7137a8893dda61853431 *FooFighters1995-08-25t01.flac
+fef168766cdb0dc464e9d3c958d8d404 *FooFighters1995-08-25t02.flac
+7df679be5802ea50d413b7f01a676a5a *FooFighters1995-08-25t03.flac
+66f9b44d378ce4d2d39bf94601eec7d9 *FooFighters1995-08-25t04.flac
+a8b5895942cf57947bbb54fd3091f23d *FooFighters1995-08-25t05.flac
+
+Unknown Extraction.
+PLEASE DO NOT SELL OR ENCODE TO MP3 OR OTHER LOSSY FORMATS!

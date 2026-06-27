@@ -1,0 +1,55 @@
+FOO FIGHTERS
+19th October, 1995
+Gross Freiheit
+Hamburg, Germany
+
+DISC #1/1 (52:50)
+-----------------
+01) Enough Space
+02) This Is A Call
+03) Winnebago
+04) Wattershed
+05) For All The Cows
+06) Weenie Beenie
+07) Butterflies
+08) Big Me
+09) I'll Stick Around
+10) Oh, George
+11) Exhausted
+12) Floaty
+13) My Hero
+14) Gas Chamber
+
+GENERATION
+-----------------
+DAT(x) -> CDR(x) -> WAV [44.1kHZ] -> FLAC [Level 8]
+
+SOURCE (SBD#1)
+----------------- 
+soundboard -> unknown (DAT)
+
+NOTES
+-----------------
+Missing Good Grief, Podunk and Alone + Easy Target. 
+
+MD5 FINGERPRINTS
+-----------------
+
+8434f05a0eb39ffb992322c5a9a40311 *- Track 01.flac
+988087dfb1b96d5162dd2959b9dd513f *- Track 02.flac
+c3bd5313d7a51ad0f999c5148402ce3d *- Track 03.flac
+e74396db6dd5d4bda54a20d376519a63 *- Track 04.flac
+c97bf33296a1ee3b8e6c417ebf3fda4d *- Track 05.flac
+0bc60500e9f35965af8ba7a89758c482 *- Track 06.flac
+79eb7ca0e7e4726b38dbc1dd9cc5823c *- Track 07.flac
+6c3022c33a11921e575fc09f50f753dc *- Track 08.flac
+39ed5a2c5334d3f3218bbdd5a09250f7 *- Track 09.flac
+75b5f5d64bab365f09e0850ae9ee7967 *- Track 10.flac
+2e44ac7f2be49534d83985beb6f092bf *- Track 11.flac
+76c83c3d10c1d3adf5ca78dfc3b1549c *- Track 12.flac
+5b57c36f5f1ba30f290524dd8aba23e2 *- Track 13.flac
+fa2f7f9187c3e368441ef99430d43ac2 *- Track 14.flac
+
+Transferred by unknown. 
+Torrented by Simon Kilmore.
+PLEASE DO NOT ENCODE TO MP3 OR SELL!

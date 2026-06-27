@@ -1,0 +1,35 @@
+FOO FIGHTERS
+July 2, 2003
+Hammerstein Ballroom
+New York, NY
+
+Source: Core Sound Binaural (mod) > Sony TCD-D8
+Taper: Jeff Sebastianelli
+Lineage: DAT(M) > CDR(1) > WAV [44.1] > FLAC
+Transfer: Tascam DA-20mkII > M-Audio Audiophile 2496 > Sound Forge > cdparanoia
+Edits/EQ: repaired fade out/in between discs
+Notes: none
+
+01 - intro
+02 - All My Life
+03 - My Hero
+04 - Times Like These
+05 - Have It All
+06 - The One
+07 - Learn to Fly
+08 - Up in Arms
+09 - Enough Space
+10 - Stacked Actors
+11 - Low
+12 - Hey, Johnny Park
+13 - Monkey Wrench
+14 - Tired of You
+15 - This is a Call
+16 - encore cheers
+17 - Never Talking to You Again
+18 - Aurora
+19 - Everlong
+20 - outtro
+
+
+Compiled December 2022 by CPS

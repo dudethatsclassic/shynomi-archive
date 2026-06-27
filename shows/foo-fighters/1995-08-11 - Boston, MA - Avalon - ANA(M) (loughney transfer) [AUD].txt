@@ -1,0 +1,32 @@
+Foo Fighters - 1995 08 11 Avalon, Boston, MA, USA 
+
+Band:
+Dave Grohl - Guitar, Vocals
+Nate Mendel - Bass Guitar
+Pat Smear - Guitar
+William Goldsmith - Drums
+
+Transfer note:
+Tape flip after Podunk. Sounds like a different source than this: https://www.youtube.com/watch?v=Hn0f-i9earA and is 19 minutes longer but a little noisier.
+
+1 intro
+2 Winnebago
+3 I'll Stick Around
+4 Butterflies
+5 Wattershed
+6 Big Me
+7 This Is a Call
+8 Weenie Beenie
+9 For All the Cows
+10 X-Static
+11 Oh, George
+12 Podunk - fix
+13 Alone + Easy Target
+14 Exhausted
+15 My Hero
+16 Down in the Park [Gary Numan]
+
+Openers:
+Shudder to Think
+
+Lineage: Audience Master > 1st gen tape > Tascam 202MKVII > USB > CDWAV > Audacity for fades, normalization, noise reduction > CDWAVE (SPLITS) > FLAC [loughney xfer]

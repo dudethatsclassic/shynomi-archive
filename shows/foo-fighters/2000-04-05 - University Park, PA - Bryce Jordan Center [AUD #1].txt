@@ -1,0 +1,46 @@
+Foo Fighters
+April 5, 2000
+Bryce Jordan Center
+University Park, PA
+
+DISC 1/1 (54:47)
+----------------
+01) Monkey Wrench
+02) Learn to Fly
+03) My Hero
+04) For All the Cows
+05) Breakout
+06) Big Me
+07) Stacked Actors
+08) Aurora
+09) I'll Stick Around
+10) "jam (Outshined)"
+11) Alone and Easy Target
+12) Everlong
+13) "jam (Ain't Talkin' 'Bout Love / For Those About to Rock)"
+14) This is a Call
+
+LINEAGE
+----------------
+MD(M) > WAV [44.1kHz] > FLAC [Level 8]
+
+SOURCE
+----------------
+Sound Professionals SP-BMC-1 > Sharp MD-MS702
+
+MD5 FINGERPRINTS
+----------------
+9a2bcb762231e7278babd4fbeb0f45d4 *Foo Fighters_2000-04-05_t01.flac
+90fc05fdfd046097b07764e93c1a6d7b *Foo Fighters_2000-04-05_t02.flac
+5f63efba32ceae8ad65b166a4c65385d *Foo Fighters_2000-04-05_t03.flac
+e463f49964657b28dc5b3f73ea49e2da *Foo Fighters_2000-04-05_t04.flac
+61f0431a941d256a284b3f6c47e25508 *Foo Fighters_2000-04-05_t05.flac
+80dc545cc3b6d9b6013e316d379b567d *Foo Fighters_2000-04-05_t06.flac
+62bada2b2a0dd3e82aff1752208ab9b4 *Foo Fighters_2000-04-05_t07.flac
+8ec3ddce5f7b3b2ee41b4005ce2836ad *Foo Fighters_2000-04-05_t08.flac
+f05ddd09c20206ef012bbfead6970d98 *Foo Fighters_2000-04-05_t09.flac
+dfa39f5ceceb45ba9c5be843bcc7273e *Foo Fighters_2000-04-05_t10.flac
+33cab041a2260bc0822590ff0687efba *Foo Fighters_2000-04-05_t11.flac
+2bf3133fb302150ca4e4de449ac9a2e6 *Foo Fighters_2000-04-05_t12.flac
+4970c3069055d98d3bc21f905359dfbf *Foo Fighters_2000-04-05_t13.flac
+15e6082ac54325f44216d4c0c627d4ec *Foo Fighters_2000-04-05_t14.flac

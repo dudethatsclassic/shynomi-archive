@@ -1,0 +1,66 @@
+Foo Fighters
+March 3rd, 2008
+Cox Arena
+San Diego, CA
+
+SOURCE (AUD #1):
+Sound Professional AT933 > Sound Pro Battery Box > iRiver iHP-140 (Flash Recorder)
+
+TRANSFER:
+USB > Adobe Audition > CDWav > FLAC Frontend
+
+GENERATION:
+WAV(M) [44.1khz/16-Bit] > FLAC [Level 8]
+
+LENGTH:
+123:02
+
+NOTES:
+- Taylor plays a drum solo in the middle of 'Stacked Actors'.
+
+TRACKS:
+01. Let It Die
+02. The Pretender
+03. Times Like These
+04. Breakout
+05. Learn To Fly
+06. Cheer Up, Boys (Your Make Up Is Running)
+07. This Is A Call
+08. Stacked Actors
+09. Skin And Bones
+10. Marigold
+11. My Hero
+12. jam
+13. Cold Day In The Sun
+14. But, Honestly
+15. Everlong
+16. Monkey Wrench
+17. All My Life
+18. Big Me
+19. Long Road To Ruin
+20. Best Of You
+
+MD5 FINGERPRINTS:
+d4f17b35cc17a6507dbe30db98ebb18a *01. Let It Die.flac
+f9daf4702cc1c07d2d58c25f4f4f81cb *02. The Pretender.flac
+7bd44b4d0a3659877ac60e7868e33ef7 *03. Times Like These.flac
+a2f6b8014a59bd00bacd982c93c4813e *04. Breakout.flac
+c406bdef2dce7d6269d18d4b1f9d9425 *05. Learn To Fly.flac
+7153182aa0d13b155663f2c861fa2ff2 *06. Cheer Up, Boys (Your Make Up Is Running).flac
+fbb499d197fa477fa50dd713a41737f2 *07. This Is A Call.flac
+ea9dc3118ed1bc915b5c71321014cee2 *08. Stacked Actors.flac
+10bbf321b37f0765db2a8e68a358eb7f *09. Skin And Bones.flac
+4ba780d89169d2358c88c99a23ff6f7c *10. Marigold.flac
+7ee3c00324e938d8816fd47b85471525 *11. My Hero.flac
+110edafa4d52d2c652ac54047645f3e1 *12. jam.flac
+00c5a697e2948d6c6a7e3568be741086 *13. Cold Day In The Sun.flac
+8d777bd35bc753441fd437729596e181 *14. But, Honestly.flac
+00c7c6063d758ee55770243cbcea8732 *15. Everlong.flac
+549154a0372b4a892a609a06a85d1112 *16. Monkey Wrench.flac
+799484d59fadbed35d122e336fe36dc1 *17. All My Life.flac
+e7d27f8891a09a829068a9d0372c8fe7 *18. Big Me.flac
+aa8fa5723580b55c32c7f9b53bccde9d *19. Long Road To Ruin.flac
+acd05debb5a5f338279c75baad81e7a1 *20. Best Of You.flac
+
+RECORDED AND TRANSFERRED BY:
+chrisedge@yahoo.com

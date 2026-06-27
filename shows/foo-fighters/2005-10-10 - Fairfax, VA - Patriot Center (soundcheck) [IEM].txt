@@ -1,0 +1,25 @@
+FOO FIGHTERS
+October 10, 2005
+Patroit Center
+Fairfax, VA
+[SOUNDCHECK]
+
+Source: Soundboard > ? > Sennheiser EK300 IEMG2 > Sony TCD-D100
+Taper: jlizard
+Lineage: DAT(M) > WAV [48] > WAV [44.1] > FLAC
+Transfer: Tascam DA-20mkII > M-Audio Audiophile 2496 > Sound Forge
+Edits/EQ: removed 'dead air' and tuning between songs
+Notes: soundcheck, Nate's ear feed, stereo, occasional dropouts
+
+01 - Unsung {Helmet}
+02 - talk & tuning
+03 - Carry on My Wayward Son (instrumental) {Kansas}
+04 - Generator (instrumental)
+05 - talk & tuning
+06 - Miracle
+07 - Resolve (instrumental)
+08 - Miracle (instrumental)
+09 - drum jam
+
+
+Compiled September 2019 by CPS

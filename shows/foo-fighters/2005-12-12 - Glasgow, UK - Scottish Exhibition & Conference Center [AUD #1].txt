@@ -1,0 +1,63 @@
+FOO FIGHTERS
+December 12th, 2005
+Scottish Exhibition & Conference Centre
+Glasgow, United Kingdom
+
+SOURCE (AUD #1):
+Audio Technica Cardiod Mics > Edirol R-1 (Flash Recorder)
+
+TRANSFER:
+USB > Adobe Audition CC 2018 > CD Wave 1.98 > Trader's Little Helper 2.7.0
+
+GENERATION:
+WAV(M) [44.1khz/24-bit] > FLAC [Level 8]
+
+LENGTH:
+103:39
+
+TRACKS:
+01. In Your Honor
+02. No Way Back
+03. My Hero 
+04. Best Of You
+05. Up In Arms (jam)
+06. Up In Arms
+07. Learn To Fly
+08. Times Like These
+09. The One
+10. Stacked Actors
+11. Big Me
+12. Breakout
+13. Generator
+14. Have It All
+15. Everlong
+16. Monkey Wrench
+17. This Is A Call
+18. Cold Day In The Sun
+19. All My Life 
+
+MD5 FINGERPRINTS:
+98f0211821990a523d0fba7490fb14e8 *01. In Your Honor.flac
+b51f0147f86f4758c06bb217f28a9823 *02. No Way Back.flac
+d11414ed3de29360784fdc70fffd57da *03. My Hero.flac
+b700f1199abcd153b8d93c57dc3bf412 *04. Best Of You.flac
+6ffc7a15f6ba85857da088606b15ebec *05. Up In Arms.flac
+d3955a5939fb2d59b9e8f486fe549934 *06. Up In Arms.flac
+fb77aea3a9194ea4fc31cd600f412969 *07. Learn To Fly.flac
+356b953deef8ccbdebd76fd632ec2c2b *08. Times Like These.flac
+eae5d891da76cb05d32cc3db1b559c53 *09. The One.flac
+11af9597882b95fce969096c6ef3d88c *10. Stacked Actors.flac
+61cf6797e00acfe109221522d1f3500c *11. Big Me.flac
+6365e472a9f72b12513c0de99847ce42 *12. Breakout.flac
+b0784af5f1ab11bb810e6169c756947a *13. Generator.flac
+839b016ade6b97264b4e74dd274d016c *14. Have It All.flac
+34e85cd346c20149a6cf9a90ca65d29c *15. Everlong.flac
+927587ad2ac9b62750c0b04e7a6c8bf5 *16. Monkey Wrench.flac
+1c498b5c92b052676ea7974b3fc1309b *17. This Is A Call.flac
+e9cb3993b4917b48a3f5875bd162b2c1 *18. Cold Day In The Sun.flac
+9757249bfb4337b3276ac553b9a74ffb *19. All My Life.flac
+
+TRANSFERRED BY:
+FooFightersLive.com
+
+**PLEASE DO NOT ENCODE TO LOSSY FORMATS OR SELL!**

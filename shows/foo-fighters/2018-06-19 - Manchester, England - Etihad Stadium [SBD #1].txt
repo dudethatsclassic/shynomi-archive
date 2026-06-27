@@ -1,0 +1,76 @@
+Foo Fighters
+June 19th, 2018
+Etihad Stadium
+Manchester, United Kingdom
+
+SOURCE (SBD #1):
+soundboard > unknown
+
+TRANSFER:
+RadioX London HD Webstream > ffmpeg N-87353-g183fd30 > Adobe Audition CC 2017 > CD Wave 1.98 > Trader's Little Helper 2.7.0
+
+GENERATION:
+Live Webstream > AAC [192kbps ABR/44.1khz] > WAV [44.1khz/16-bit] > FLAC [Level 8]
+
+LENGTH:
+151:12
+
+NOTES:
+- Broadcast by Radio X on June 24th, 2018.
+- All curse words are blanked out, and some speech by Dave is edited out entirely.
+- Has radio station idents throughout the broadcast, between most songs.
+
+TRACKS:
+01. All My Life
+02. Learn To Fly
+03. The Pretender
+04. The Sky Is A Neighborhood
+05. Rope
+06. Sunday Rain
+07. My Hero
+08. These Days
+09. Walk
+10. Under My Wheels
+11. Love Will Tear Us Apart (jam)
+12. Jump X Imagine
+13. Blitzkrieg Bop (partial)
+14. Under Pressure
+15. Monkey Wrench
+16. Wheels
+17. Breakout
+18. Dirty Water
+19. Run
+20. Best Of You
+21. Times Like These
+22. This Is A Call
+23. Everlong
+
+MD5 FINGERPRINTS:
+b217b27a032b5569db20779bf44b6ff0 *01. All My Life.flac
+f1b2f4fe6ed6a7c35c27a1ebaf3002b9 *02. Learn To Fly.flac
+c329bd11acb267eb8495c51b0288112d *03. The Pretender.flac
+c94b3d1d03e0da901a8194ff1c5998f9 *04. The Sky Is A Neighborhood.flac
+91a30b1319d43057fb7bc282b58f4017 *05. Rope.flac
+67cec66fd5cbb6aeea113fe45fb9baae *06. Sunday Rain.flac
+b2fa046c1cc6b9ba69d88ac557a82084 *07. My Hero.flac
+669b2a9b9ae2cb4156ddaaa51d05b003 *08. These Days.flac
+8c354bcb4ff15905ae81a504a6022226 *09. Walk.flac
+265dbb212f7f3f0da9e278c404243993 *10. Under My Wheels.flac
+6b41c05f8cbabb86f17910aea3f3e25c *11. Love Will Tear Us Apart (jam).flac
+57864949fc8e265cb4884efe6a63085c *12. Jump X Imagine.flac
+3ec5bd30b6107414e60f487002236007 *13. Blitzkrieg Bop (partial).flac
+d5d6ca89a9667a497b3f1779a74029d8 *14. Under Pressure.flac
+8448cba21153633a8467b3031c8545ba *15. Monkey Wrench.flac
+9520a10366bd93d953cb138090cb36ff *16. Wheels.flac
+9f9ed00f73446899599d871e93c6ee96 *17. Breakout.flac
+beec89e0a36f2469024383c8c071f1f3 *18. Dirty Water.flac
+51404822955177430953ebb158d79282 *19. Run.flac
+170b506ba001e9bc62880b8d37f4cefc *20. Best Of You.flac
+23b9d0da860f1e2b6466df46403aba76 *21. Times Like These.flac
+b1a41f40f63b9b170565d922328d2941 *22. This Is A Call.flac
+59c24dcaf85f1a3547631263a059da26 *23. Everlong.flac
+
+RECORDED BY:
+FooFightersLive.com
+
+**PLEASE DO NOT SELL!**

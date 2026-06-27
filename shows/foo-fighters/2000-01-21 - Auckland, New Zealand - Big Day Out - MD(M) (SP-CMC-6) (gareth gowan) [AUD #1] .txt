@@ -1,0 +1,24 @@
+Foo Fighters
+January 21, 2000
+Ericsson Stadium (Big Day Out Festival)
+Auckland, New Zealand
+
+Setlist:
+01. Stacked Actors
+02. My Poor Brain
+03. Learn To Fly
+04. Breakout
+05. For All The Cows
+06. My Hero
+07. Big Me
+08. Monkey Wrench
+09. Hey, Johnny Park
+10. Alone + Easy Target
+11. Everlong
+12. This Is A Call
+13. I'll Stick Around
+
+Source: AUD #1 - audience audio
+Equipment: SP-CMC-6 > SP-BPF-2 > Sony MZ-R50
+Lineage: MD(M) > FLAC
+Taper: Gareth Gowan

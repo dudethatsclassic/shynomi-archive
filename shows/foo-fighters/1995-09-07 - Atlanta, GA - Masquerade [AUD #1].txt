@@ -1,0 +1,55 @@
+Foo Fighters
+September 7th, 1995
+Masquerade
+Atlanta, GA
+
+SOURCE (AUD #1):
+unknown > Sony WM-D3 (cassette)
+
+TRANSFER:
+Nakamichi DR-3 > Monster RCA Cable > Creative Soundblaster Audigy SE > Adobe Audition 2.0 > CD Wave 1.98 > Trader's Little Helper 2.7.0
+
+GENERATION:
+ANA(M) > DAT(1) > ANA(1) > WAV [44.1khz] > FLAC [Level 8]
+
+LENGTH:
+61:54
+
+TRACKS:
+01. Winnebago
+02. I'll Stick Around
+03. Butterflies
+04. Wattershed
+05. Big Me
+06. This Is A Call
+07. Weenie Beenie
+08. For All The Cows
+09. My Hero
+10. Oh, George
+11. Podunk
+12. Alone + Easy Target
+13. Exhausted
+14. X-Static
+15. Good Grief
+
+MD5 FINGERPRINTS:
+0e6155d69a7eebb8f495e334a451a085 *FooFighters1995-09-07t01.flac
+b9cc45eb6ad830e88d9e3962cf43ff06 *FooFighters1995-09-07t02.flac
+5f09c734a7be830fce2ee8e6c1e9e870 *FooFighters1995-09-07t03.flac
+b68a5141cfc36c8578a8c26db16670c0 *FooFighters1995-09-07t04.flac
+67bbf67338cbd1787c34a5799da5b5ac *FooFighters1995-09-07t05.flac
+2565ca4cd5928a57f91a14a50f0b3f7c *FooFighters1995-09-07t06.flac
+a4760bb6c20089592d0343b247c687c0 *FooFighters1995-09-07t07.flac
+49fac4bb0e1c7f4c7b2f470ddcefbfac *FooFighters1995-09-07t08.flac
+be3d35f57530aed765bba847e7a6135f *FooFighters1995-09-07t09.flac
+88c15b29157f9bebca71c91c0171db88 *FooFighters1995-09-07t10.flac
+61779d25bd7286fecde764dbfea8a8b0 *FooFighters1995-09-07t11.flac
+613ae94881cace5ba9b0379d727b3616 *FooFighters1995-09-07t12.flac
+71d01fd9183010dac7677177e9b19dab *FooFighters1995-09-07t13.flac
+2a05c808d8398c6fe16e210f4315d5ae *FooFighters1995-09-07t14.flac
+183591174faef91d9b1ac7f3a9dfac95 *FooFighters1995-09-07t15.flac
+
+TRANSFERRED BY:
+Brad Collins
+
+**PLEASE DO NOT ENCODE TO LOSSY FORMATS OR SELL!**

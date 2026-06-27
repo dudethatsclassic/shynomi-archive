@@ -1,0 +1,47 @@
+Foo Fighters
+April 19th, 1995
+Bogart's
+Cincinnati, OH
+
+SOURCE (AUD #2):
+Sony ECM-155 > Aiwa J505 (Cassette)
+
+TRANSFER:
+DAT > Tascam DA-20 > Nomad Jukebox 3 > Adobe Audition CS5.5 > CD Wave 1.98 > Trader's Little Helper 2.7.0
+
+GENERATION:
+ANA(M) > DAT(1) > WAV [48khz] > WAV [44.1khz] > FLAC [Level 8]
+
+LENGTH:
+43:34
+
+TRACKS:
+01. intro
+02. Winnebago
+03. This Is A Call
+04. Floaty
+05. I'll Stick Around
+06. Big Me
+07. Wattershed
+08. For All The Cows
+09. Good Grief
+10. Alone + Easy Target
+11. Exhausted
+
+MD5 FINGERPRINTS:
+c6090a2a1d95302dbfe7713764a4ba57 *FooFighters1995-04-19t01.flac
+0a4910118e2e08541ae88d6c03351b15 *FooFighters1995-04-19t02.flac
+c63f7321b44a3c81727d1d84135fb687 *FooFighters1995-04-19t03.flac
+8b7049fb3b4fad44268b8d98748a3aa0 *FooFighters1995-04-19t04.flac
+933884b579465cb4cf9171ce8d595d04 *FooFighters1995-04-19t05.flac
+66356c5c98a0caec9b617476ef9b3f82 *FooFighters1995-04-19t06.flac
+055b9ff469fbc4d1e695753e0a9c715b *FooFighters1995-04-19t07.flac
+0f9f78693b12485a2d067634df6df86d *FooFighters1995-04-19t08.flac
+727a1bcc24e44564a60e923291e7ac4d *FooFighters1995-04-19t09.flac
+d4dee8eb5ed5e0bad9726a99ffbfc3dc *FooFighters1995-04-19t10.flac
+7ebf6c181ba1dc0c77f5f73e41fb793c *FooFighters1995-04-19t11.flac
+
+TRANSFERRED BY:
+ellaguru
+
+**PLEASE DO NOT ENCODE TO LOSSY FORMATS OR SELL!**

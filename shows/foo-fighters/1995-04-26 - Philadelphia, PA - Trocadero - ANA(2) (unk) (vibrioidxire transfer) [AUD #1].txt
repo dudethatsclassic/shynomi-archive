@@ -1,0 +1,58 @@
+FOO FIGHTERS
+April 26, 1995
+Trocadero Theatre
+Philadelphia, PA, US
+
+SETLIST:
+-------------------
+00. intro/banter
+01. Down in the Park
+02. This Is A Call
+03. Butterflies
+04. Floaty
+05. I'll Stick Around
+06. Big Me
+07. Wattershed
+08. For All The Cows
+09. Podunk
+10. Alone + Easy Target
+11. Exhausted
+
+SOURCE:
+-------------------
+AUD #1 - Quality: 8.0
+unknown > unknown
+
+
+TRANSFER:
+-------------------
+unknown microphone > unknown recorder > ANA(M)? > ANA(2) > Sony WM-FX323 FM/AM Walkman Radio Cassette Player (normal AVLS, DX mode) > headphone jack > 3.5mm auxiliary audio cable > ZOOM H4n Pro > SanDisk 32GB Extreme PLUS UHS-I microSDHC Memory Card > MacBook Pro (Retina 15-inch, Mid 2015) > Adobe Audition 22.2 > xACT 2.50 > FLAC [Level 8]
+
+GENERATION:
+-------------------
+ANA(2) > WAV [96kHz/24-bit] > WAV [48kHz/24-bit] > FLAC [Level 8] 
+
+NOTES:
+-------------------
+- A tape flip occurred after "Big Me", which consisted of Side B including a few extra seconds of Side A (this was crossfaded). Since this tape was an import (and how the end of the tape hiss cuts twice), the generation is presumably an ANA(2).
+- An audience member got on stage twice to tie his boots.
+
+
+FLAC FINGERPRINTS:
+-------------------
+ff1995-04-26-aud1-t00.flac:acaf2832dec2003c3a4eca4f046b8d00
+ff1995-04-26-aud1-t01.flac:3a456f798f7455a865f78297c2243cfb
+ff1995-04-26-aud1-t02.flac:64811b8ac142342ab1d1d2b2f47ce9b4
+ff1995-04-26-aud1-t03.flac:eea796a2241d5b23577406a1439e3130
+ff1995-04-26-aud1-t04.flac:1bfee5b36ec54051e0b1a733db2bf7ac
+ff1995-04-26-aud1-t05.flac:c01424ad180f751791828b9389fb6bc2
+ff1995-04-26-aud1-t06.flac:57784bad108b29a551b682416c4f5a48
+ff1995-04-26-aud1-t07.flac:6341a4a24c41c24c01d28d120e02416d
+ff1995-04-26-aud1-t08.flac:ec00e5d6d47f7b7b1f7b0586fb5af38a
+ff1995-04-26-aud1-t09.flac:b8d60879581783bf9aa7b1ee295b627a
+ff1995-04-26-aud1-t10.flac:36559172a0a1e5f9469b34b19bd1ec22
+ff1995-04-26-aud1-t11.flac:760612c12d84e45c0c9c9088c13e88da
+
+
+Transferred and encoded by: vibrioidxire
+PLEASE DO NOT DISTRIBUTE IN LOSSY FORMATS OR SELL!

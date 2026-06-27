@@ -1,0 +1,51 @@
+Foo Fighters
+May 30th, 2004
+Bela Vista Park (Rock In Rio Lisboa)
+Lisbon, Portugal
+
+SOURCE (PRO #1b):
+soundboard > unknown
+
+TRANSFER:
+unknown 
+
+GENERATION:
+HDTV > Transport Stream [MPEG2/16.5Mbps/1080i/AC3/384kbps/5.1]
+
+LENGTH:
+19:23
+
+NOTES:
+- Broadcast by Euro1080 on HD1.
+
+TRACKS:
+01. All My Life
+02. Stacked Actors
+03. Everlong
+
+MD5 FINGERPRINTS:
+b822496ef8de73917b18df1e1864ed6e *FOO FIGHTERS 2004-05-30 PRO #1b.ts
+
+TRANSFERRED BY:
+Unknown
+
+**PLEASE DO NOT ENCODE TO LOSSY FORMATS OR SELL!**
+
+----
+Sequence Frame 29100(6-B) / Time 0:19:24 :
+Info: End of MPEG2 sequence
+
+Sequence Summary:
+
+File Size Processed: 2.35 GB, Play Time: 00h:19m:23s
+1920 x 1088, 25.00 fps, 16.49 Mbps (16.39 Mbps Average).
+Average Video Quality: 80.01 KB/Frame, 0.32 Bits/Pixel.
+AC3 Audio: 3/2 Channels (L, C, R, SL, SR), 48.0 kHz, 448 kbps.
+Dialog Normalization: -27.0 dB, Center Mix Level: -3.0 dB, Surround Mix Level: -3.0 dB
+0 of 29100 video frames found with errors.
+0 of 36373 audio frames found with errors.
+0 corrupted video bytes in file.
+0.000000 seconds of video timestamp gaps.
+0.000000 seconds of audio timestamp gaps.
+
+End of Log

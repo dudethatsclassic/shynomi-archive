@@ -1,0 +1,50 @@
+Foo Fighters
+October 17, 2011 
+Viejas Arena 
+San Diego, CA 
+
+Source: Sound Professional AT933 Hyper Cardioids > 
+Sound Pro Battery Box (Roll off @ 107Hz) > 
+Sony PCM-M10 (@ 44.1khz/24bit) 
+
+Location: Floor 
+
+Transfer: Sony PCM-M10 > PC
+Audacity (Normalize, fade in/out & convert to 16bit) > 
+CDWav (for track splitting) > 
+FLAC Frontend (FLAC) 
+
+Taper: chrisedge 
+
+**************************************************************** 
+I DON'T CARE WHAT YOU DO WITH THIS RECORDING. 
+I RELEASED IT IN AUDIO CD and FLAC, YOU CAN SCREW IT UP HOWEVER YOU LIKE. 
+MP3, FTP SERVER, DC, WEB, REMASTER, WHATEVER, 
+I CAN'T STOP YOU ANYWAYS! 
+DON'T SELL IT AND don't be a leech. 
+**************************************************************** 
+
+01. Bridge Burning 
+02. Rope 
+03. The Pretender 
+04. My Hero 
+05. Learn to Fly 
+06. White Limo 
+07. Arlandria 
+08. Breakout 
+09. Band Intros
+10. Cold Day in the Sun 
+11. Stacked Actors 
+12. Walk 
+13. Monkey Wrench 
+14. I Should Have Known 
+15. These Days 
+16. This is a Call 
+17. In the Flesh? (Pink Floyd cover)
+18. All My Life 
+19. Best of You (Acoustic)
+20. Times Like These 
+21. Dear Rosemary 
+22. Breakdown (Tom Petty and The Heartbreakers cover)
+23. Everlong 
+

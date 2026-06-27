@@ -1,0 +1,30 @@
+Foo Fighters
+February 21st, 2018
+02 Arena (The Brit Awards 2018)
+Longdon, United Kingdom
+
+Source:
+Professional Video #1
+
+Generation:
+Satellite Feed > MKV
+
+Lineage:
+Satellite Feed > mkvmerge GUI
+
+Length:
+7:28
+
+Video:
+H.264 MPEG-4 AVC / 1080i / 25fps / 29838 kbps / 16:9 / 4:2:2 Chroma / 10-Bit / High Profile Level 4.1
+
+Audio:
+MPA / 256kbps / 48khz / 2.0 Stereo
+
+Tracks:
+01. Awards Acceptance
+02. The Sky Is A Neigborhood
+
+Checksums:
+481059e7b017120cb274d0c401a0b166 *Foo Fighters - Award - 2017 Brit Awards 1080i HDTV MPA2.0 H.264.ts
+69b44ee2fbafe585f0e0d5ef90598e07 *Foo Fighters - Performance - 2017 Brit Awards 1080i HDTV MPA2.0 H.264.ts

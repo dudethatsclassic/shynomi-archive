@@ -1,0 +1,80 @@
+Foo Fighters
+August 15th, 2012
+O2 Arena
+Prague, Czech Republic
+
+SOURCE (AUD #1):
+Church Audio CA-14 > Edirol R-09HR (Flash Recorder)
+
+TRANSFER:
+USB > CD Wave 1.98 > Trader's Little Helper 2.70 
+
+GENERATION:
+WAV(M) [44.1khz/16-Bit] > FLAC [Level 8]
+
+LENGTH:
+141:38
+
+NOTES:
+- Bob Mould plays guitar and sings backing vocals on 'Dear Rosemary'.
+- The opening bars of 'Breakdown' by Tom Petty is played by Dave during 'Dear Rosemary'.
+
+TRACKS:
+01. intro
+02. White Limo
+03. All My Life
+04. Rope
+05. The Pretender
+06. My Hero
+07. Learn To Fly
+08. Arlandria
+09. Generator
+10. Walk
+11. jam
+12. Cold Day In The Sun
+13. New Way Home
+14. These Days
+15. Monkey Wrench
+16. Hey, Johnny Park!
+17. DOA
+18. This Is A Call
+19. In The Flesh?
+20. Bridge Burning
+21. Best Of You
+22. Times Like These
+23. Dear Rosemary
+24. Winnebago
+25. Everlong
+
+MD5 FINGERPRINTS:
+efa67b726196a88e477c7b7ddd905eea *FooFighters2012-08-15t01.flac
+8b1a4c8c9dd23f367fac34d6b4d7de20 *FooFighters2012-08-15t02.flac
+283894db712b64124ea78201c2042919 *FooFighters2012-08-15t03.flac
+f423955b0227d889c5f87102759fc8c1 *FooFighters2012-08-15t04.flac
+fad0043de1c0758973026c20ef6a4568 *FooFighters2012-08-15t05.flac
+a6412db26abd5fde368a19378c79b12d *FooFighters2012-08-15t06.flac
+5e2515dad49ada766961abe08d025a20 *FooFighters2012-08-15t07.flac
+859f14d257fb8185c19ff1e443b17115 *FooFighters2012-08-15t08.flac
+fe140feb3cb745601d4d3fcf45a43ec1 *FooFighters2012-08-15t09.flac
+08ddc9d16313db6fb1f146948e82abd8 *FooFighters2012-08-15t10.flac
+1cb5d47f06a45992f003df5c58dfdec1 *FooFighters2012-08-15t11.flac
+55cd77c9ead26b13d497551a30ceea2c *FooFighters2012-08-15t12.flac
+278627478ca5008be677c961aaff355b *FooFighters2012-08-15t13.flac
+da7094d35afd6f4a225cd9d60e53212a *FooFighters2012-08-15t14.flac
+4f564a75ab4e377bb0781d577081a598 *FooFighters2012-08-15t15.flac
+cc1d71acb7f86f192debd8e65804419b *FooFighters2012-08-15t16.flac
+b2e7dbec51faebf078f8a49ce189b22f *FooFighters2012-08-15t17.flac
+94a314c26db1506be3aec93b2ea441bb *FooFighters2012-08-15t18.flac
+f6bed26ff2275c8f6cee370205d7fa03 *FooFighters2012-08-15t19.flac
+54db668adc50ae7c739296f65e99fd90 *FooFighters2012-08-15t20.flac
+bc965fdb2c7d73a15239dfe84af34f4f *FooFighters2012-08-15t21.flac
+4dfa33a3c86470bcfbf90894a6e5d365 *FooFighters2012-08-15t22.flac
+7539fe0c2db305d2e7cb169917cf1a34 *FooFighters2012-08-15t23.flac
+924eb22f4729389d7ddb640f2a08da29 *FooFighters2012-08-15t24.flac
+00c95e70fe7aedd2c7ea1731e6d41807 *FooFighters2012-08-15t25.flac
+
+RECORDED AND TRANSFERRED BY:
+Martin Skalaplzen
+www.queenconcerts.com
+
+**PLEASE DO NOT ENCODE TO LOSSY FORMATS OR SELL!**

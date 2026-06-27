@@ -1,0 +1,48 @@
+FOO FIGHTERS:
+August 17, 2001
+Bizarre Festival
+Weeze, Germany
+
+SETLIST:
+01. Intro
+02. This Is A Call
+03. Learn To Fly
+04. My Hero
+05. Up In Arms
+06. I'll Stick Around
+07. Stacked Actors
+08. Monkey Wrench
+09. Hey, Johnny Park!
+10. M.I.A.
+11. Everlong
+12. Blues Jam
+13. Generator
+14. For All The Cows
+15. New Way Home
+16. Breakout
+17. Aurora
+
+GENERATION:
+TV -> VHS(1) -> WAV [44.1kHz] -> FLAC [Level 8] -> your copy, which will be CDR(1)
+
+TRANSFER:
+Sony SLV-SE830 -> Realtek High Definition Audio -> Adobe Audition 1.5 -> CD Wave 1.92 beta -> FLAC Frontend 1.7.1
+
+MD5 FINGERPRINTS:
+33727d0cc22e9e6683bf36f2c9a4be05 *Foo_Fighters_2001-08-17_PRO_t01.flac
+a92e82b80fdd158da79eb1687785c955 *Foo_Fighters_2001-08-17_PRO_t02.flac
+fb0d358c19795a5da0e6d952320bbfc4 *Foo_Fighters_2001-08-17_PRO_t03.flac
+003606e4171d070e5da8d696dc698989 *Foo_Fighters_2001-08-17_PRO_t04.flac
+868812ecfb31f1902b48b9015244c485 *Foo_Fighters_2001-08-17_PRO_t05.flac
+544cf2fb2080c4a28a3ef24ef68e025f *Foo_Fighters_2001-08-17_PRO_t06.flac
+69ef7587bb4be1e8e82c65bc02bc1545 *Foo_Fighters_2001-08-17_PRO_t07.flac
+47b235c9ed0335dcc987afbc7514f8b3 *Foo_Fighters_2001-08-17_PRO_t08.flac
+e65b3316756fce8fcf889fbf7f40fdc8 *Foo_Fighters_2001-08-17_PRO_t09.flac
+25175dc04328263b9f89d6da99c6672a *Foo_Fighters_2001-08-17_PRO_t10.flac
+a1f623bfd1e3b17956ad354d8974c132 *Foo_Fighters_2001-08-17_PRO_t11.flac
+cef15de7e33ed2c9ce4bb24e891b2a61 *Foo_Fighters_2001-08-17_PRO_t12.flac
+64ca5665d759f2296bdbdc77d3ea4b87 *Foo_Fighters_2001-08-17_PRO_t13.flac
+97fbf77b81d8fd25558c3f7fa13f66c9 *Foo_Fighters_2001-08-17_PRO_t14.flac
+1592aa375c046d3f54a2edca3d05f01c *Foo_Fighters_2001-08-17_PRO_t15.flac
+c4ebfce05953efab435cf56c596bfb99 *Foo_Fighters_2001-08-17_PRO_t16.flac
+03a9b0eff416f9ff984f430e46b3eae9 *Foo_Fighters_2001-08-17_PRO_t17.flac

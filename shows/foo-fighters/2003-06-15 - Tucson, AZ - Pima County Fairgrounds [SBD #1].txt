@@ -1,0 +1,47 @@
+FOO FIGHTERS
+June 15, 2003
+Pima County Fairgrounds (KMFA Day 2003)
+Tucson, AZ
+
+SOURCE: (SBD #1)
+soundboard > unknown
+
+EXTRACTION:
+Pioneer DVR-116D > Exact Audio Copy v0.99 pre-beta 5 > Adobe Audition 3 > CD Wave 1.97 > Traders Little Helper 1.41
+
+GENERATION:
+Radio Disc [Westwood One "In Concert" #03-38] > WAV [44.1kHz] > FLAC [Level 8]
+
+NOTES:
+- Incomplete, missing 'Aurora'.
+- Curse words are obfuscated.
+
+LENGTH:
+46:40
+
+TRACKS:
+01. All My Life
+02. My Hero
+03. Times Like These
+04. The One
+05. Learn To Fly
+06. Breakout
+07. Stacked Actors
+08. Monkey Wrench
+09. Everlong
+
+MD5 FINGERPRINTS:
+d73ff3d0e33945632aa834d911d53916 *FooFighters2003-06-15t01.flac
+35cd86e526656778f95265f28b4a8174 *FooFighters2003-06-15t02.flac
+182f1c1bb0cdf7a7d620695c26baefed *FooFighters2003-06-15t03.flac
+1c7f46799a036f16799ac7b4d50721bd *FooFighters2003-06-15t04.flac
+28b3bcfb351219df0c25816f88091c70 *FooFighters2003-06-15t05.flac
+6ecadd4d46bc2b1434e71f5c90ec03cc *FooFighters2003-06-15t06.flac
+f0cf249ba07b916c71e3e90d214342fc *FooFighters2003-06-15t07.flac
+f28dca84274af77ee3f6e113756e6333 *FooFighters2003-06-15t08.flac
+529161a742c089d668fd5990da0137fb *FooFighters2003-06-15t09.flac
+
+EXTRACTED BY:
+Simon Kilmore
+
+**PLEASE DO NOT ENCODE TO LOSSY FORMATS OR SELL!**

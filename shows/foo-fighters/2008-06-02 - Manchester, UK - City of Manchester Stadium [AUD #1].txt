@@ -1,0 +1,75 @@
+Foo Fighters
+June 2nd, 2008
+City of Manchester Stadium
+Manchester, United Kingdom
+
+SOURCE (AUD #1):
+Sony ECM-719 > Aiwa FM-80 (Minidisc)
+
+TRANSFER: 
+unknown > Wavelab Lite > Adobe Audition CC 2018 > CD Wave 1.98 > flac 1.3.2
+
+GENERATION: 
+MD(M) > WAV [44.1khz/16-bit] > remaster > FLAC [Level 8]
+
+NOTES:
+- All circulating copies of this recording are remastered by the taper.
+- Encore break is cut, no music is missing.
+
+LENGTH: 
+124:03
+
+TRACKS: 
+01. The Pretender
+02. Times Like These
+03. No Way Back
+04. Cheer Up, Boys (Your Make Up Is Running)
+05. Learn to Fly
+06. This Is A Call
+07. Long Road To Ruin
+08. Breakout
+09. Stacked Actors
+10. Skin And Bones
+11. Marigold
+12. My Hero
+13. jam
+14. Blackbird (jam)
+15. jam
+16. Cold Day In The Sun
+17. But, Honestly
+18. Everlong
+19. Monkey Wrench
+20. All My Life
+21. Big Me
+22. DOA
+23. Generator
+24. Best Of You 
+
+MD5 CHECKSUMS: 
+945213865c28b49cdf27185c4f3fb3de *01. The Pretender.flac
+0108850b76a249459a81c1368679448c *02. Times Like These.flac
+8c264f50a3fd108ff53d590010e8cd16 *03. No Way Back.flac
+e6613dd42caf0f6ac5232e4918108baf *04. Cheer Up, Boys (Your Make Up Is Running).flac
+a2bf6f53c22a6e731fc1e687be42fa55 *05. Learn To Fly.flac
+fdf85336f86cbc3f48d23dd3a773a849 *06. This Is A Call.flac
+9bc987d80408336a6908608ceb0f2a2f *07. Long Road To Ruin.flac
+27984aa12cfb75dcbc46dbf07f1a84d5 *08. Breakout.flac
+4b9fe2aa2bd2966ccddb5eb8c3eedf2c *09. Stacked Actors.flac
+a01be2a34d1c951540d5572961f17816 *10. Skin And Bones.flac
+016c16b281998120461cbcd979831733 *11. Marigold.flac
+cfa2d89515fb7ea066ce713bc5f42f7a *12. My Hero.flac
+cea87c4aad098800d4e4a4d2f4e6bc1e *13. jam.flac
+d1ba3956bacc4eb2748c8a64a542f360 *14. Blackbird (jam).flac
+eb67ce4b6c8ebadbd5550ea4feb276b0 *15. jam.flac
+6bbfdec59e1c1f10b3a0ca8a11520613 *16. Cold Day In The Sun.flac
+bfcb2026522cc78fc046814bddb3db8b *17. But, Honestly.flac
+93da965fa129414166bc98f64d11c9f2 *18. Everlong.flac
+27b8ff22acc9d03fcb515d48c79d2e38 *19. Monkey Wrench.flac
+966df22a2119d3515f51d575365ca7af *20. All My Life.flac
+25488597fbe68c35a5b9e70d90bc24ec *21. Big Me.flac
+2fc0d96ba61bad91eea92367689007c7 *22. DOA.flac
+819ebc9aa234838bfbc97f8b3a39151d *23. Generator.flac
+0a435d8702558df743e296bb77ba0235 *24. Best Of You.flac
+
+RECORDED AND TRANSFERRED BY: 
+unknown

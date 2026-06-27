@@ -1,0 +1,45 @@
+Foo Fighters - 1996 06 15 Golden Gate Park, SF, CA
+
+Band:
+Dave Grohl - Guitar, Vocals
+Nate Mendel - Bass Guitar
+Pat Smear - Guitar
+William Goldsmith - Drums
+
+Show note:
+Free Tibet Festival. Sound quality is quite good when there isn't wind and mic noise. This is a Call is officially released on Free Tibet, https://www.discogs.com/master/1114413, so not included here.
+
+Transfer note: 
+Tape cut at the end of Alone + Easy Target. Sound was a bit thin and some mic and wind noise sometimes overloaded the sound. Boosted bass frequencies at 28, 56 and 111 hz.  Clipped wind & mic noise, Normalized volume then did 2:1 compression at 6 db to try better manage the mic and wind noise.
+
+1 This Is a Call*
+2 For All the Cows 
+3 Wattershed 
+4 Big Me 
+5 I'll Stick Around 
+6 Alone and Easy Target -fix
+7 Exhausted
+
+Also played:
+The Smashing Pumpkins
+Chaksam-pa
+Beastie Boys
+A Tribe Called Quest
+Pavement
+Cibo Matto
+Biz Markie
+Richie Havens
+John Lee Hooker
+Red Hot Chili Peppers
+Rage Against the Machine
+Sonic Youth
+Beck
+Björk
+De La Soul
+Fugees
+Buddy Guy
+The Skatalites
+Yoko Ono/Ima
+
+Lineage: Sony WM-D3 Audience Master > 1st Gen Tape > Tascam 202MKVII > USB > CDWAV > Audacity for fades, normalization, noise reduction > CDWAVE (SPLITS) > FLAC [loughney xfer]
+

@@ -1,0 +1,40 @@
+Foo Fighters
+August 25, 1995
+Nulle Part Ailleurs, Canal Plus Studios
+Paris, France
+
+DISC #1/1 (4:17)
+-----------------
+01) Intro (french, cuts in)
+02) This is a call
+03) Outro (french, cuts out)
+
+NOTES
+-----------------
+Live broadcast, could be listed as TV -> VHS(M).
+Some crackle noises. Audio not remastered, left as it is on the VHS.
+Sound is mono.
+
+GENERATION
+-----------------
+TV -> VHS(1) -> WAV [96kHz @32bit] > WAV [44.1kHz @16bit] -> FLAC [Level 8]
+
+SOURCE (PRO)
+-----------------
+Professional TV broadcast (live).
+
+TRANSFER
+-----------------
+Samsung SV-640F VCR -> RCA to 1/4" TRS cables -> Echo Mia Midi analog-in -> Adobe Audition 1.5 -> CD Wave 1.93 beta -> FLAC Frontend 1.7.1
+
+MD5 FINGERPRINTS
+-----------------
+82559bda08497b72f0d909339d34684f *foofighters1995-08-25d1t01.flac
+51f401b55f2e0069efb4bfa905f76a39 *foofighters1995-08-25d1t02.flac
+675b718d0c86c41aa7e1d909ef1e1d72 *foofighters1995-08-25d1t03.flac
+
+
+Transferred by Pierre Leroy.
+Many thanks to Mister Moutache !
+DO NOT ENCODE TO MP3. DO NOT SELL. DO NOT SMOKE.
+

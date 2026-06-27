@@ -1,0 +1,66 @@
+FOO FIGHTERS
+October 14, 2006
+Veterans Memorial Coliseum (Arizona State Fair)
+Phoenix, AZ, US
+
+SETLIST:
+-------------------
+01. All My Life
+02. My Hero
+03. Best Of You
+04. Up In Arms
+05. Learn to Fly
+06. Times Like These
+07. The One
+08. Stacked Actors
+09. Big Me
+10. Generator
+11. Breakout
+12. Hey, Johnny Park!
+13. Monkey Wrench
+14. DOA
+15. Everlong
+
+
+SOURCE:
+-------------------
+AUD #1 - Quality: 5.0
+built-in > Creative ZEN Vision
+
+TRANSFER:
+-------------------
+built-in mic > Creative ZEN Vision (Hard Drive Recorder) > WAV [16kHz/4-bit] > Adobe Audition 22.3 [tracking, upsampling] > xACT 2.50 > FLAC [Level 8]
+
+GENERATION:
+-------------------
+WAV(M) [16kHz/4-bit] WAV [44.1kHz/16-bit] > FLAC [Level 8]
+
+NOTES:
+-------------------
+- Due to the extremity of the distortion, a de-noising filter was passed through to tame a lot of the mid-range noise.
+- EQ'ing was involved to reduce a lot of the mic brushing sounds, but to also salvage what was left of the sound.
+- Everything above 8kHz was removed to showcase the original sample rate. Note that the sample rate doubles from the range of frequencies in a spectral display.
+
+
+MD5 FINGERPRINTS:
+-------------------
+foofighters2006-10-14-aud1-kb-t01.flac:3e7041034c76865e131a4027afc3398e
+foofighters2006-10-14-aud1-kb-t02.flac:744110efc4b7d6152404208599de7ba2
+foofighters2006-10-14-aud1-kb-t03.flac:38f15a6915933062f8e322f351c0f8a1
+foofighters2006-10-14-aud1-kb-t04.flac:fa99725c4f1d74540c7c922d81a2db4c
+foofighters2006-10-14-aud1-kb-t05.flac:272f3391d1b4121490027dd925f90435
+foofighters2006-10-14-aud1-kb-t06.flac:f1a25fd6ff8062d972b4917aeaa87952
+foofighters2006-10-14-aud1-kb-t07.flac:36617be68bf01f49824b836da375ccd3
+foofighters2006-10-14-aud1-kb-t08.flac:e68baba36158c1455a4cbf167105c1f3
+foofighters2006-10-14-aud1-kb-t09.flac:abb3a220468ec1942bcd010a85cf30d7
+foofighters2006-10-14-aud1-kb-t10.flac:d6f7264e7420b5996a7a720d9b5bd798
+foofighters2006-10-14-aud1-kb-t11.flac:a9f3b03c6c3a8207029ca0629dfa0e04
+foofighters2006-10-14-aud1-kb-t12.flac:c3cdbfca35bab471cb513de9b667cf4c
+foofighters2006-10-14-aud1-kb-t13.flac:206e668995de256da685724e701afdaa
+foofighters2006-10-14-aud1-kb-t14.flac:f2313529bbe0da3a9bfafb14c6330aa9
+foofighters2006-10-14-aud1-kb-t15.flac:2a034247c22f1b28044906bdcc387dbf
+
+
+Courtesy of FooFightersLive.com
+Transferred and encoded by: unknown & vibrioidxire
+PLEASE DO NOT DISTRIBUTE IN LOSSY FORMATS OR SELL!

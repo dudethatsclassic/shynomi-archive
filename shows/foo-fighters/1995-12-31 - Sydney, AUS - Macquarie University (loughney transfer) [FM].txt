@@ -1,0 +1,18 @@
+Foo Fighters - 1995 12 31 Macquarie University, North Ryde, Australia
+
+Show note:
+Often listed as Sydney.  The Summersault Festival. Kind of silly that JJJ inserts an audio watermark at the beginning of Alone + Easy Target that sounds like the crowd yelling  "Triple J"! Some FM static at the end of Alone + Easy Target.
+
+1 Interview 
+2 For All The Cows 
+3 jam
+4 Weenie Beenie 
+5 Big Me 
+6 Gas Chamber [The Angry Samoans] 
+7 I'll Stick Around 
+8 Good Grief 
+9 How I Miss You 
+10 Alone + Easy Target
+
+Lineage: FM Broadcast > 1st gen tape > Tascam 202MKVII > USB > CDWAV > Audacity for fades, normalization, noise reduction > CDWAVE (SPLITS) > FLAC [loughney xfer]
+

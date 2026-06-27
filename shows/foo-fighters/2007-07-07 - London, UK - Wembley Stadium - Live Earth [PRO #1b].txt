@@ -1,0 +1,39 @@
+FOO FIGHTERS
+7th July, 2007
+Wembley Stadium (Live Earth)
+London, UK
+
+SETLIST (26:59)
+---------------
+01) All My Life (cuts in)
+02) My Hero
+03) Times Like These
+04) Best Of You
+05) Everlong
+
+GENERATION
+---------------
+HDTV -> Transport Stream [384Kbps MPEG-2] -> WAV [48Khz] -> WAV [44.1KHz] -> FLAC [Level 8]
+
+SOURCE (PRO #1b)
+----------------
+soundboard -> unknown
+
+TRANSFER
+----------------
+DGIndex 1.4.9.0 -> ffmpeg w/ SUPER GUI v.2007.build.23 -> Adobe Audition 2.0 -> CD Wave 1.96.1 -> FLAC Frontend 1.7.1
+
+NOTES
+----------------
+Taken from Satellite HD broadcast.
+
+MD5 FINGERPRINTS
+----------------
+
+
+
+Transferred by Simon Kilmore.
+DO NOT ENCODE TO LOSSY FORMATS OR SELL!
+
+
+

@@ -1,0 +1,86 @@
+Foo Fighters
+The Cubby Bear
+Chicago, IL
+October 17, 2014
+
+Lineage -> Live Webcast (livestream.com)  -> Livestreamer -> .flv -> mkvmerge GUI (join) -> .mkv -> Avidemux 2.6 -> (cut) .mkv (no transcoding)
+Video: MPEG4 Video (H264) 1280x720 2000 Kbps 29.97 fps
+Audio: AAC 320 Kbps 44.1 KHz stereo 
+
+Setlist:
+All My Life
+I'll Stick Around
+Rope
+Up in Arms 
+Big Me
+White Limo
+Arlandria 
+My Hero
+Stiff Competition (Cheap Trick cover w/Rick Nielsen)
+Cold Day in the Sun
+Miss You (The Rolling Stones cover)
+Generator
+*Walk (cut)*
+Learn to Fly 
+This Is a Call
+The Pretender
+Best of You
+Surf Combat (Naked Raygun cover w/ Jeff Pezzati) 
+Weenie Beenie
+Surrender (Cheap Trick cover w/Rick Nielsen)
+Something From Nothing (w/Rick Nielsen)
+Everlong
+
+TRT = 2hr 12min 36sec
+* Note: The livestream died during "Walk" resulting in an incomplete version of this song *
+
+MediaInfo:
+General
+Unique ID                                : 96931946802765358410864078044678236377 (0x48EC69F4CB6CF10E41B878BE262AA8D9)
+Complete name                            : Foo Fighters - 2014-10-17 The Cubby Bear, Chicago, IL [720p].mkv
+Format                                   : Matroska
+Format version                           : Version 2
+File size                                : 2.15 GiB
+Duration                                 : 2h 12mn
+Overall bit rate mode                    : Variable
+Overall bit rate                         : 2 319 Kbps
+Writing application                      : Lavf54.63.104
+Writing library                          : Lavf54.63.104
+
+Video
+ID                                       : 1
+Format                                   : AVC
+Format/Info                              : Advanced Video Codec
+Format profile                           : Main@L3.1
+Format settings, CABAC                   : Yes
+Format settings, ReFrames                : 1 frame
+Codec ID                                 : V_MPEG4/ISO/AVC
+Duration                                 : 2h 12mn
+Bit rate mode                            : Variable
+Maximum bit rate                         : 2 011 Kbps
+Width                                    : 1 280 pixels
+Height                                   : 720 pixels
+Display aspect ratio                     : 16:9
+Frame rate mode                          : Constant
+Frame rate                               : 29.970 fps
+Color space                              : YUV
+Chroma subsampling                       : 4:2:0
+Bit depth                                : 8 bits
+Scan type                                : Progressive
+Default                                  : Yes
+Forced                                   : No
+
+Audio
+ID                                       : 2
+Format                                   : AAC
+Format/Info                              : Advanced Audio Codec
+Format profile                           : LC
+Codec ID                                 : A_AAC
+Duration                                 : 2h 12mn
+Channel(s)                               : 2 channels
+Channel positions                        : Front: L R
+Sampling rate                            : 44.1 KHz
+Compression mode                         : Lossy
+Delay relative to video                  : 5ms
+Default                                  : Yes
+Forced                                   : No

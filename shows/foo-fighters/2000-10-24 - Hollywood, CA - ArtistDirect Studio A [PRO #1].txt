@@ -1,0 +1,31 @@
+FOO FIGHTERS
+October 24, 2000
+ArtistDirect Studio A
+Hollywood, CA
+
+SOURCE (PRO #1):
+soundboard > unknown
+
+EXTRACTION:
+Super
+
+GENERATION:
+ASF/RT29 [24Kbps,22.05Khz, Mono] > WAV [44.1khz] > FLAC [Level 8]
+
+LENGTH:
+60:36
+
+01. intro
+02. Breakout
+03. My Hero
+04. Doll
+05. See You
+06. Ain't It The Life
+07. Next Year
+08. Monkey Wrench
+09. Exhausted
+10. Everlong
+11. Floaty
+12. Learn To Fly
+13. Walking After You
+14. This Is A Call

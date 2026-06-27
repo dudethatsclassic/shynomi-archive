@@ -1,0 +1,58 @@
+FOO FIGHTERS
+17th April, 1996
+Austin Music Hall
+Austin, TX
+
+DISC #1/1 (73:08)
+-----------------
+01) Enough Space
+02) This Is A Call
+03) Winnebago
+04) Watershed
+05) For All The Cows
+06) Weenie Beenie
+07) Butterflies
+08) Big Me
+09) My Poor Brain
+10) Gas Chamber
+11) Up In Arms (Slow Version)
+12) Good Grief
+13) Podunk
+14) How I Miss You
+15) Alone + Easy Target
+16) I'll Stick Around
+17) Down In The Park
+18) Exhausted
+
+GENERATION
+-----------------
+DAT(x) -> ANA(1) -> CDR(1) -> WAV [44.1kHZ] - FLAC [Level 8]
+
+SOURCE (SBD#1)
+-----------------
+soundboard -> unknown (DAT)
+
+MD5 FINGERPRINTS
+-----------------
+225a33d95b2b2e2561ba2da321370515 *ff1996-04-17t01.flac
+fe2bf5453ef3ef01c3dc8969f500878e *ff1996-04-17t02.flac
+f9a07c1d47867f7ab0b9c5a8169c2f4f *ff1996-04-17t03.flac
+0d4eee4b94b9aa9645f90ce34fbf8c0d *ff1996-04-17t04.flac
+cf440699f3a2f4627388398358d7789c *ff1996-04-17t05.flac
+a5bb045e05d3f8a351436577c2061abe *ff1996-04-17t06.flac
+7feec5e087ae56e5d79fe1c2ac39be47 *ff1996-04-17t07.flac
+9636d0adc8cb1f31a881873d03631406 *ff1996-04-17t08.flac
+ae43d63ee579805d5966a57b1e56a89a *ff1996-04-17t09.flac
+af7decc6f21f8212b96d07272dc83a6f *ff1996-04-17t10.flac
+d09dc54695c17a5c841ff712cffae650 *ff1996-04-17t11.flac
+0424b0d02d6fd6d8375adde4ebee4328 *ff1996-04-17t12.flac
+233c2da755c033ce8729994e4a4fb56e *ff1996-04-17t13.flac
+c801a7534f013b419c176f96a35c1845 *ff1996-04-17t14.flac
+18e061e090b57efacc911ae4b2eaea16 *ff1996-04-17t15.flac
+2572a314ae80badfb5aa5a25fdf489ed *ff1996-04-17t16.flac
+93779ad8d8b21a25b86b89a3473f76c2 *ff1996-04-17t17.flac
+1dd5b18aa48d0421bdecdaa911e3e627 *ff1996-04-17t18.flac
+
+TRANFERRED BY UNKNOWN
+TORRENTED BY SIMON KILMORE
+DO NOT ENCODE TO MP3 OR SELL!!

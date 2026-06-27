@@ -1,0 +1,38 @@
+FOO FIGHTERS
+May 28, 2000
+General Motors Place
+Vancouver, BC, Canada
+
+DISC #1/1 (57:51)
+-----------------
+Monkey Wrench / Learn To Fly / My Hero / For All The Cows / Breakout /
+Big Me / Stacked Actors / Next Year / I'll Stick Around / Alone + Easy Target /
+Everlong / This Is A Call
+
+GENERATION
+----------------
+VHS(2) -> AVI [DV25] -> M2V/WAV [8Mbps CBR/48kHz PCM] -> DVDR(0)
+
+SOURCE (AMT#2)
+-----------------
+unknown -> unknown
+
+TRANSFER
+-----------------
+Panasonic AG-1970 SVHS -> Canopus ADVC55 -> IEEE 1394 -> WinDV -> Cinema Craft Encoder SP -> AVStoDVD
+
+MD5 FINGERPRINTS
+-----------------
+
+a29ead8a910a99196324c96efdecdf72 *VIDEO_TS.BUP
+a29ead8a910a99196324c96efdecdf72 *VIDEO_TS.IFO
+682ee7be575e0265a59400c20da392df *VIDEO_TS.VOB
+da5e758915bc536625354ec4453e2ad1 *VTS_01_0.BUP
+da5e758915bc536625354ec4453e2ad1 *VTS_01_0.IFO
+b250fd46c62a59afc164c297d67d6e67 *VTS_01_1.VOB
+970b730beb1258480af77b5b1ade3fd6 *VTS_01_2.VOB
+81907b0a7f751908a2073f68ddf36112 *VTS_01_3.VOB
+30dff800ab851384c053775863b416b1 *VTS_01_4.VOB
+
+Transferred by DLR.
+PLEASE DO NOT ENCODE TO MP3 OR SELL!  PLEASE DO NOT ENCODE TO MP3 OR SELL!

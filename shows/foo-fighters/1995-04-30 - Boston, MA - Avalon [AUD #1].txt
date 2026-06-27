@@ -1,0 +1,49 @@
+Foo Fighters
+April 30th, 1995
+Avalon
+Boston, MA
+
+SOURCE (AUD #1):
+unknown > unknown
+
+TRANSFER:
+Nakamichi DR-3 > Monster RCA Cable > Creative Soundblaster Audigy SE > Sony Soundforge > CDWave 1.98 > Trader's Little Helper 2.7.0
+
+GENERATION:
+ANA(2) > WAV [48khz] > WAV [44.1khz] > FLAC [Level 8]
+
+LENGTH:
+44:34
+
+TRACKS:
+01. intro
+02. This Is A Call
+03. Butterflies
+04. Floaty
+05. I'll Stick Around
+06. For All the Cows
+07. Winnebago 
+08. Wattershed
+09. Big Me
+10. Alone + Easy Target 
+11. Podunk
+12. Exhausted
+
+MD5 FINGERPRINTS:
+2367d65a66ebd3da141bf9b773f6630b *01. intro.flac
+1ba793c1912c6df7d145500179129226 *02. This Is A Call.flac
+fa1e870b6cfb6434e2e6a29482c9aa61 *03. Butterflies.flac
+b0b227e647ca7563a129008bad912eb1 *04. Floaty.flac
+5c2e685c850d40474afd6631bc93f197 *05. I'll Stick Around.flac
+dd38573715c04f752e9818d3c652be8b *06. For All The Cows.flac
+28e60d6cf1a8be076ebba6cf79065570 *07. Winnebago.flac
+3882b886511448387a53c2d07c90b452 *08. Wattershed.flac
+15029936db71fae9f1348798c79b952c *09. Big Me.flac
+950d3e562b60a4291a285b5db4807e2d *10. Alone + Easy Target.flac
+a787c4c477663df0e9af4eb37ed18fd4 *11. Podunk.flac
+8d48d63aa727f5631021d0856fa5dd9d *12. Exhausted.flac
+
+TRANSFERRED BY:
+Brad Collins
+
+**PLEASE DO NOT ENCODE TO LOSSY FORMATS OR SELL!**

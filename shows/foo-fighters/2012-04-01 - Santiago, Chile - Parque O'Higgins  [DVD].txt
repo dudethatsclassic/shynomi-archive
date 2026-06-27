@@ -1,0 +1,58 @@
+Foo Fighters
+Lollapalooza Chile 2012
+Parque Ohiggins, santiago, chile
+04-01-2012
+
+Setlist:
+
+All My Life
+Rope
+The Pretender
+My Hero
+Learn to Fly
+White Limo
+Arlandria
+Breakout
+Cold Day in the Sun
+Long Road to Ruin
+Stacked Actors 
+Walk
+Monkey Wrench
+Let It Die
+These Days
+This Is a Call
+In the Flesh? (Pink Floyd cover)
+Best of You
+
+Encore:
+Wheels (Dave solo acoustic)
+Times Like These (half Dave solo acoustic, half with band)
+Young Man Blues (Mose Allison cover)
+Bad Reputation (Joan Jett and the Blackhearts cover) (with Joan Jett)
+Everlong
+
+Format                                   : DVD Video
+
+
+Video
+ID                                       : 224 (0xE0)
+Format                                   : MPEG Video
+Format version                           : Version 2
+Duration                                 : 2 h 50 min
+Bit rate mode                            : Variable
+Width                                    : 720 pixels
+Height                                   : 480 pixels
+Display aspect ratio                     : 16:9
+Frame rate                               : 29.970 (29970/1000) FPS
+Standard                                 : NTSC
+Compression mode                         : Lossy
+
+Audio
+ID                                       : 128 (0x80)
+Format                                   : AC-3
+Format/Info                              : Audio Coding 3
+Duration                                 : 2 h 50 min
+Channel(s)                               : 2 channels
+Sampling rate                            : 48.0 kHz
+Compression mode                         : Lossy
+Language                                 : English

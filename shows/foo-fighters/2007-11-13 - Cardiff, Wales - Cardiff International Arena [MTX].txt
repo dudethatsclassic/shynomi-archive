@@ -1,0 +1,56 @@
+Foo Fighters
+Cardiff International Arena, Cardiff, Wales 
+13 November 2007
+
+Source 1 (+): Icom IC-R5 > Edirol R-09HR (44.1kHz 24 bit)
+Source 2 (*): 160kb/s DAB Stream (Xfm Cardiff)
+
+Source 1 new to circulation December 2019.
+
+Matrix Source 1 and 2 time aligned, cross-faded, EQ matching and patching in Adobe Audition CC 2018, Izotope Ozone 8 and Har Bal 2.3.  source 2 upscaled to 44.1kHz to allow work in Adobe Multitrack Session.  Source 2 is widely circulating as 192kb/s but I have confirmed this as 160kb/s.
+
+    Let It Die * 
+    The Pretender * 
+    Times Like These +
+    Breakout +
+    Cheer Up, Boys (Your Make Up Is Running) * 
+    Learn to Fly * 
+    Generator *
+    Long Road to Ruin +
+    DOA +
+    Stacked Actors +
+    Skin and Bones * 
+    Marigold(Late! cover) * 
+    My Hero +
+    Cold Day in the Sun * 
+    But, Honestly * 
+    Everlong * 
+    Monkey Wrench * 
+    All My Life * 
+    Wattershed * 
+    Aurora +
+    Best of You +
+
+Soundcheck (Source 1)
+
+    Come Alive
+    White Limo (early version)
+    Jam
+    Another Round
+    Floaty
+    Something (Beatles cover - alt lyrics)
+
+Bonus Tracks (Source 1)
+    Let It Die
+    The Pretender
+    Cheer Up, Boys (Your Make Up Is Running)
+    Learn to Fly
+    Generator
+    Skin and Bones
+    Marigold(Late! cover)
+    Everlong
+    Monkey Wrench
+    All My Life
+
+Notes:
+Terrible periodic mobile (cell) phone broadband RF interference on the IEM source which I was largely able to remove with Audition CC 2018 and thankfully the worst songs were available as the DAB source.  Terrible periodic mobile (cell) phone boradband RF interference on the IEM source which I was largely able to remove with Audition CC 2018 and thankfully the worst songs affected were available as the DAB source, hence this matrix.  IEM source is offered as bonus track for completists.

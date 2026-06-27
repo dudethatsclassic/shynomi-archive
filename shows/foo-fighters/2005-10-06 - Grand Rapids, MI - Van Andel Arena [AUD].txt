@@ -1,0 +1,40 @@
+Foo Fighters
+October 6th, 2005
+Van Andel Arena
+Grand Rapids, MI
+
+Taper:    Richard Simms (sullen) 
+Source:   SP-CMC-2 (AT831) > SP-SPSB-2 (Roll Off 95hz) > 
+          AD20 > JB3 (Optical Line-In) > 44.1k WAV 
+Transfer: JB3 > Computer via Firewire > Adobe Audition 1.5 > 
+          CD Wave Editor 1.94.5 > FLAC FrontEnd (Level 8, Align SB)
+Tagging: Foobar2000 v0.9.5.3 with TradersFriend Component
+
+Disc 1
+Main Set
+01. In Your Honor
+02. All My Life
+03. My Hero
+04. Best Of You
+05. The One
+06. Learn To Fly
+07. "Day Off"
+08. Up In Arms
+09. Times Like These
+10. Breakout
+11. Stacked Actors
+
+Disc 2
+01. "Cover Song"
+02. Born On The Bayou (Credence Clearwater Revival)
+03. This Is A Call
+04. End Over End
+05. Everlong
+06. Encore Break
+07. Band Introductions
+08. Cold Day In The Sun
+09. Monkeywrench
+
+
+Notes:
+1. Keep live music free for everyone! DO NOT SELL THIS RECORDING!

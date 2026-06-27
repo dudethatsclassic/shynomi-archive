@@ -1,0 +1,38 @@
+Foo Fighters
+23rd November 1999
+Barrowlands
+Glasgow, United Kingdom
+
+SETLIST (44:46)
+---------------
+01) For All The Cows
+02) Learn To Fly
+03) Up In Arms
+04) Ain't It The Life
+05) Monkey Wrench
+06) Hey, Johnny Park !
+07) Alone & Easy Traget
+08) Everlong
+09) Why Does It Always Rain On Me (Jam)
+10) New Way Home
+11) This Is A Call 
+
+SOURCE (SBD #1)
+---------------
+soundboard -> unknown
+
+GENERATION
+---------------
+FM -> ANA(1) -> CDR(1) -> WAV [44.1KHZ] -> FLAC [Level 8]
+
+TRANSFER
+---------------
+Analogue Tape -> Traxdata standalone CD burner
+
+NOTES
+---------------
+First radio broadcast on BBC Radio 1, 29/11/99.
+Incomplete, missing Stacked Actors, My Poor Brain, Breakout, Generator, Aurora and I'll Stick Around.
+
+DO NOT SELL OR ENCODE TO ANY LOSSY FORMATS!!!
+Torrented by Simon Kilmore 10/01/2007

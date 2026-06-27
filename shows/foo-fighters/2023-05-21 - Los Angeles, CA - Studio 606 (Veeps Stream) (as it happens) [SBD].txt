@@ -1,0 +1,26 @@
+Artist: Foo Fighters
+Broadcast Date: 2023-05-21
+Event: Preparing Music For Concerts
+Venue: Los Angeles, Studio 606
+Captured by As It Happens
+Source: veeps > ffmpeg > .ts > audacity > .wav > tlh > .flac
+Original Audio Bitrate: 320 kbps aac lc 48 kHz
+
+1. All My Life
+2. Rescue Me
+3. No Son of Mine
+4. Under You
+5. Jam: Workin' for a Livin'
+6. The Sky Is a Neighbourhood
+7. Nothing At All
+8. Monkey Wrench
+9. Aurora
+
+Line Up;
+
+Dave Grohl
+Nate Mendel
+Pat Smear
+Chris Shiflett
+Rami Jaffee
+Josh Freese

@@ -1,0 +1,65 @@
+Foo Fighters - Rock in Rio III
+Tracks 01-14:  01/13/2001 - Rock In Rio Festival, Rio De Janeiro, Brazil
+Track 15:  08/28/2000 - Leeds Festival, Leeds, United Kingdom
+Tracks 16-19: xx/xx/2000 Glasgow
+
+SETLIST (01:19:51)
+-----------------
+01) Breakout
+02) My Hero
+03) Learn to Fly
+04) It's True
+05) Up in Arms
+06) Big Me
+07) Stacked Actors
+08) Happy Birthday Dave
+09) Next Year
+10) I'll Stick Around
+11) See You
+12) This is a Call
+13) Monkey Wrench
+14) Everlong
+15) For All the Cows
+16) Up in Arms
+17) Ain't it the Life
+18) Hey Johnny Park
+19) Alone and Easy Target
+
+
+Label
+-----------------
+???
+
+Source
+-----------------
+SBD A
+
+GENERATION
+-----------------
+silver disc -> EAC -> WAV -> FLAC [Level 8]
+
+Notes
+-----------------
+
+
+ffp FINGERPRINTS
+-----------------
+01 Breakout.flac:29a1ca682a3dbd71c25c7952797a3c91
+02 My Hero.flac:6e4568e5b5b52f204ce69e5a242c017e
+03 Learn to Fly.flac:661342c80064a026e770e4d8c30fa7d3
+04 It's True.flac:af0c1b74fc413571667a4c5ba02e5502
+05 Up in Arms.flac:3b30b4b97e5caa97ae535bbde49e5d01
+06 Big Me.flac:a06543d3a232e39d0015687d33b6974a
+07 Stacked Actors.flac:f710a7c47ec4a306bf0f7ef0c3eca517
+08 Happy Birthday Dave.flac:c6fed7ad5ebd91ef0d8e2a2fb7f288e0
+09 Next Year.flac:02904e6f445b22ae10891a348fddde78
+10 I'll Stick Around.flac:9ac93ebd90add763f1d435f5e990c665
+11 See You.flac:10df3116593ce3369a8707f00e6b2270
+12 This is a Call.flac:7fa4d6596506f59ae34f8637a5dc6a44
+13 Monkey Wrench.flac:1fa0d25d8b54ce5cdf9c62056dcf9506
+14 Everlong.flac:c609ef4bdfe082c53ea30c658b2afff8
+15 For All the Cows.flac:be1de09905243133a441c06ae744c17a
+16 Up in Arms.flac:fdd1aa64d528862bf4d6ecc22fec1c8a
+17 Ain't it the Life.flac:cdef91c1c2250d29a924bf55ce241095
+18 Hey Johnny Park.flac:d30e500c0dfaa4d8cfcb9169d8479d29
+19 Alone and Easy Target.flac:9901d8aaac4d50bc0aca523b7c965541

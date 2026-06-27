@@ -1,0 +1,23 @@
+Foo Fighters
+01 November 1999
+Howard Stern Show / WXRK
+New York, NY
+
+FM->ANA(1)->DAT(1)->wav(16/48)->flac
+R: unk
+T: Tascam DA-20 MKII (coax)->Audigy 4 Pro (bit accurate, running kX drivers)
+
+01. My Hero
+02. interview
+03. Ain't It the Life
+04. interview
+05. Aurora (removed)
+06. Learn to Fly (removed)
+07. interview
+08. Gimme Stitches (removed)
+09. interview
+
+
+-notes: recorded by Tony, on loan from stonecutter (Rich B.). Studio tracks (05, 06 & 08) were removed to comply with DIME's rules.
+
+Continued thanks to stonecutter (Rich B.) for entrusting me with his tapes. Enjoy.

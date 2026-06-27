@@ -1,0 +1,23 @@
+Foo Fighters
+1999-11-06
+NBC Studios, New York, NY
+
+FORMAT
+----------
+MPEG-TS: 87.4 MiB, 51 s 201 ms
+13.2 Mb/s, 1920*1080 (16:9), at 29.970 (30000/1001) FPS, AVC (Main@L4) (CABAC / 4 Ref Frames)
+384 kb/s, 48.0 kHz, 6 channels, AC-3 (Dolby Digital)
+
+TRACK LISTING
+----------
+01 Learn to Fly (cut)
+
+LINEAGE
+----------
+DirecTV (DVB-S2)-->DirecTV HD DVR HR24-100 Satellite Receiver-->Hauppauge 1212 HD PVR-->YPbPr + S/PDIF-->ArcSoft TotalMedia Extreme [13.5mbps CBR/384kbps AC3]-->H.264 .TS
+
+NOTES
+----------
+Raw capture file, no cuts.
+
+This clip was aired on VH1 as part of a "Saturday Night Live" documentary.

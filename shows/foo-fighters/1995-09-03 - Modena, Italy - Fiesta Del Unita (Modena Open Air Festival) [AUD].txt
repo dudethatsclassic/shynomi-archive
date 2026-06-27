@@ -1,0 +1,59 @@
+FOO FIGHTERS
+September 3, 1995
+Fiesta Del Unita (Modena Open Air Festival)
+Modena, Italy
+
+SOURCE:
+built-in > unknown (8MM)
+
+TRANSFER:
+Sony DCR-TRV240E > IEEE 1394 > Pinnacle MovieBox 510-USB > Adobe Premiere Pro 2.0 > TMPGEnc Plus 2.5 > Adobe Audition 2.0 > CD Wave 1.96.1 > FLAC Frontend 1.7.1
+
+GENERATION:
+Video8(M) > AVI [PCM] > WAV [48kHz] > WAV [44.1kHz] > FLAC [Level 8]
+
+LENGTH:
+65:56
+
+TRACKS:
+01. intro
+02. Winnebago
+03. I'll Stick Around
+04. Butterflies
+05. Wattershed
+06. Big Me
+07. This Is A Call
+08. Weenie Beenie
+09. For All The Cows
+10. My Hero
+11. Oh, George
+12. Podunk
+13. Alone + Easy Target
+14. Exhausted
+15. X-Static
+16. Good Grief
+17. Down In The Park (Gary Numan/Tubeway Army)
+
+MD5 FINGERPRINTS:
+6ed669fa4e7aac436e2d582426643b44 *foofighters1995-09-03t01.flac
+61220ed3144f03ca3886782947ca5dcc *foofighters1995-09-03t02.flac
+7376d130bbb090af52cb1687b541702e *foofighters1995-09-03t03.flac
+eec0c220609c562b24b26bcb9ad0142a *foofighters1995-09-03t04.flac
+6ce5377cbb3054ef2dfa1ad43f5ea4ec *foofighters1995-09-03t05.flac
+13f1b32702e765ff505425f89078361e *foofighters1995-09-03t06.flac
+fb0b48d0ad9d5ca2c9738ba8cae7c451 *foofighters1995-09-03t07.flac
+cf907f6a29ccc6299078f0aee64e38f9 *foofighters1995-09-03t08.flac
+ed5c85459bf35c4ded44db4f6c86e467 *foofighters1995-09-03t09.flac
+7096f398935c1df32867a75efee21fbd *foofighters1995-09-03t10.flac
+c4d5db6f924222cf6dd6468ac29d65d9 *foofighters1995-09-03t11.flac
+feb3676f7f0778db4539627263db7070 *foofighters1995-09-03t12.flac
+c7c5c9a7d14ea55c5cf86ee1dbf07abf *foofighters1995-09-03t13.flac
+103d3dfa44401a72b939e1e649ba7620 *foofighters1995-09-03t14.flac
+a3849f34abe3e18c614d8d0cc6a1eff0 *foofighters1995-09-03t15.flac
+4128509d6fcad750c28ddde345033d09 *foofighters1995-09-03t16.flac
+950c7f2458c313a19742b1d2e326ac8f *foofighters1995-09-03t17.flac
+
+TRANSFERRED BY:
+Miki Johansen
+
+***PLEASE DO NOT SELL OR ENCODE TO MP3***

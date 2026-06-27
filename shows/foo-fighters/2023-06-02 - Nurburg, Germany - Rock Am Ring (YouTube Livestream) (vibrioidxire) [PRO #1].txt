@@ -1,0 +1,64 @@
+FOO FIGHTERS
+June 2, 2023
+Nurburgring (Rock Am Ring)
+Nurburg, Germany 
+
+SETLIST: 
+------------------- 
+00. intro/banter 
+01. All My Life
+02. No Son of Mine [w/ "Paranoid" riff tease]
+03. Rescued
+04. The Pretender
+05. Walk
+06. Learn to Fly
+07. Times Like These
+08. Under You
+09. Breakout
+10. The Sky Is A Neighborhood
+11. Whip It [Devo cover, part of]
+12. March Of The Pigs [Nine Inch Nails cover, part of]
+13. My Hero
+14. This Is A Call
+15. Nothing At All
+16. Shame Shame [w/ Violet Grohl on backing vocals]
+17. These Days
+18. Aurora
+19. Monkey Wrench
+20. Best Of You
+21. Everlong
+
+
+SOURCE (128:12):
+-------------------
+PRO #1 - Quality: 10.0
+soundboard > multi-cam edit
+
+TRANSFER:
+-------------------
+YouTube livestream > yt-dlp [v. 2023.03.04] > uncompressed DASH/M4A streams > ffmpeg 5.1.2_6 > MKV
+
+FORMAT:
+-------------------
+DASH/M4A(M) > MKV
+
+NOTES:
+-------------------
+- This source includes the highest quality raw streams losslessly dumped into an MKV container to prevent further quality loss already from being uploaded to YouTube. What you see here is what you would see on YouTube. 
+- "Shame Shame" was dedicated to Limp Bizkit, after they dedicated one of their songs to Violet.
+
+
+A/V CODECS:
+-------------------
+Video: vp9 (Profile 0), yuv420p(tv, bt709), 1920x1080, SAR 1:1 DAR 16:9, 30 fps, 30 tbr, 1k tbn (default), 2496 kb/s.
+
+Audio: aac (LC), 44100 Hz, stereo, fltp (default)
+
+
+MD5 FINGERPRINTS:
+-------------------
+c3556872eb512add18c1b15ab36b2d84 *foofighters2023-06-02-pro1.mkv
+
+
+Transferred and encoded by: vibrioidxire
+PLEASE DO NOT DISTRIBUTE IN LOSSY FORMATS OR SELL!

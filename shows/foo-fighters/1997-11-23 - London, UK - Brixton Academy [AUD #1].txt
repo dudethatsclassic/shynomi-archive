@@ -1,0 +1,76 @@
+FOO FIGHTERS
+November 23, 1997
+Brixton Academy
+London, United Kingdom
+
+SOURCE (AUD#1):
+Core Sound Binaurals > Core Sound Battery Box > Aiwa (cassette)
+
+TRANSFER:
+Yamaha KX-393 > unknown RCA cables > M-Audio Audiophile 2496 > Cool Edit Pro 2.1 > Adobe Audition 3.0 > CD Wave Editor 1.97 > Trader´s Little Helper 2.4.1
+
+GENERATION:
+ANA(M) > WAV [44.1kHz] > FLAC [Level 8]
+
+LENGTH:
+82:41
+
+NOTES:
+- Tape flip after 'Up In Arms', no music is missing.
+- Cut after 'New Way Home', no music is missing.
+
+TRACKS (DISC 1):
+01. intro
+02. Wind Up (jam)
+03. This Is A Call
+04. Hey, Johnny Park!
+05. Alone+Easy Target
+06. Monkey Wrench
+07. Doll
+08. See You
+09. My Poor Brain
+10. Enough Space
+11. Big Me
+12. The Colour And The Shape
+13. For All The Cows
+14. Gas Chamber
+15. Up In Arms
+
+TRACKS (DISC 2):
+01. Weenie Beenie
+02. Everlong
+03. New Way Home
+04. Walking After You
+05. My Hero
+06. Requiem
+07. I'll Stick Around
+
+MD5 FINGERPRINTS:
+010c75d225c389df1a188ff2d37929d5 *FooFighters1997-11-23d1t01.flac
+30bf36f21090c7db87e2d5dbb1d0bd6a *FooFighters1997-11-23d1t02.flac
+d64670bc7f3c96f6ed9dbe0445e0e353 *FooFighters1997-11-23d1t03.flac
+ae31fbfe7260f45839f19110b0cd9b2d *FooFighters1997-11-23d1t04.flac
+7702f80d53db4450be68717f8309a93d *FooFighters1997-11-23d1t05.flac
+b881af684aaa46fbfc56cbb34b276fb5 *FooFighters1997-11-23d1t06.flac
+7eee96f77e384bf7245853a8e028c74c *FooFighters1997-11-23d1t07.flac
+f198387629a0a8ae7829b84a82494c4e *FooFighters1997-11-23d1t08.flac
+ea47f737e14776a340325ba4df3521cb *FooFighters1997-11-23d1t09.flac
+f639a2a5c55af593149b2ed304327d24 *FooFighters1997-11-23d1t10.flac
+1bb12bd317b1eeb2ab8afdb9a8b2ae09 *FooFighters1997-11-23d1t11.flac
+6b88f80c3b825e1670510a759b9b2eb2 *FooFighters1997-11-23d1t12.flac
+18028e2a1c599c98c0bcd617d04b20b8 *FooFighters1997-11-23d1t13.flac
+abcd657e282f7cb8cda3dd47d7e3fe44 *FooFighters1997-11-23d1t14.flac
+72d3bfa1253debdcb314c01061016108 *FooFighters1997-11-23d1t15.flac
+ed987a2d16831f9edf8c6a3f60c191a6 *FooFighters1997-11-23d2t01.flac
+f28195615f0742c7be2ead561379a66a *FooFighters1997-11-23d2t02.flac
+a7b6209808b5ecea3b2cd623da421a45 *FooFighters1997-11-23d2t03.flac
+7b252969e99977471426915e67964dbf *FooFighters1997-11-23d2t04.flac
+5cca5738e95da0d859f9ad465c7dbb4a *FooFighters1997-11-23d2t05.flac
+8f91b1321ff0e933ff5ccfdcba452031 *FooFighters1997-11-23d2t06.flac
+8111ada6dc9a6dfbe317b90e7a238918 *FooFighters1997-11-23d2t07.flac
+
+
+TAPED & TRANSFERRED BY:
+Gary Watson (gary.p.watson@gmail.com)
+
+***PLEASE DO NOT SELL OR ENCODE TO MP3***

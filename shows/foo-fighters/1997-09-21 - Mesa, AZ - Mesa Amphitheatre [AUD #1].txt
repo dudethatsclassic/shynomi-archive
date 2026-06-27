@@ -1,0 +1,56 @@
+Foo Fighters
+September 21st, 1997
+Mesa Ampitheatre
+Mesa, AZ
+
+SOURCE (AUD #1):
+Core Sound Binaurals > Sony TCD-D8
+
+TRANSFER:
+DAT > Dio 2496 > Soundforge > CDR > Rubyripper> FLAC.exe
+
+GENERATION:
+DAT(x) > CDR(1) > WAV [44.1khz] > FLAC [Level 8]
+
+LENGTH:
+49:25
+
+NOTES:
+- Dave plays drums during the double drum intro, part of 'The Colour And The Shape' and the first part of 'My Hero'.
+
+TRACKS:
+01. intro
+02. This is a Call
+03. Enough Space
+04. Hey, Johnny Park!
+05. Monkey Wrench
+06. Alone + Easy Target
+07. Doll
+08. See You
+09. The Colour and the Shape
+10. For All the Cows
+11. Everlong
+12. My Hero
+13. New Way Home
+14 .I'll Stick Around
+
+MD5 FINGERPRINTS:
+072913ea2c19c17eafef1eff87c94627 *FooFighters1997-09-21t01.flac
+418ca5fd25edfd34a974a8af882c12e1 *FooFighters1997-09-21t02.flac
+d09292c8d65d2b5fe8f65d9ce261ae1f *FooFighters1997-09-21t03.flac
+38ff61a8de2fe54760d5915e18f9bfdd *FooFighters1997-09-21t04.flac
+75432cd507aca8d4e3b3630a237fd4db *FooFighters1997-09-21t05.flac
+ceea0d92010bc92cf8d68e6f8a01b100 *FooFighters1997-09-21t06.flac
+b68e34d8b204c97b65bf13212297c9b5 *FooFighters1997-09-21t07.flac
+893100670284d763564319537ac47f29 *FooFighters1997-09-21t08.flac
+47d607af8e530d516f9a35f73bc567cd *FooFighters1997-09-21t09.flac
+0ac28b29a7daf7e24c3598afcf6b81a6 *FooFighters1997-09-21t10.flac
+96c9f6b7300524fc2f0b392201b1bc73 *FooFighters1997-09-21t11.flac
+5981dbe8ea3c642b1d10dcf5b36e1d40 *FooFighters1997-09-21t12.flac
+f6e691b480fe238a0e21b468d4cbc1c4 *FooFighters1997-09-21t13.flac
+662b5e32991374c6bc1c2d20d0a24c81 *FooFighters1997-09-21t14.flac
+
+TRANSFERRED BY:
+Anonymous
+
+**PLEASE DO NOT ENCODE TO LOSSY FORMATS OR SELL!**

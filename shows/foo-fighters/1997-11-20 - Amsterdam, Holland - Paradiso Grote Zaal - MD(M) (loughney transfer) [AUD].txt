@@ -1,0 +1,47 @@
+Foo Fighters - 1997 11 20  Paradiso Grote Zaal, Amsterdam, NL
+
+The Colour And The Shape Tour 
+
+Transfer Note
+Soundcheck and main show from two different sources.  For soundcheck, I boosted treble and bass.  For the show, I boosted the treble a little. For both, I did some overall volume normalization.
+
+Band
+Dave Grohl - Guitar, Vocals
+Nate Mendel - Bass Guitar
+Taylor Hawkins - Drums
+Franz Stahl - Guitar
+
+Soundcheck:
+1 February Stars
+2 New Way Home
+3 jam
+4 tape noise
+
+Show:
+1 Ride of the Valkyries [Richard Wagner]
+2 warm up jam
+3 This Is a Call
+4 Hey, Johnny Park!
+5 Alone + Easy Target
+6 Monkey Wrench
+7 Doll
+8 See You
+9 My Poor Brain
+10 Enough Space
+11 Rihannon (intro) [Fleetwood Mac]
+12 Big Me
+13 The Colour and the Shape
+14 For All the Cows
+15 jam
+16 Gas Chamber [Angry Samoans]
+17 Up in Arms
+18 Weenie Beenie
+19 Everlong
+20 New Way Home
+Encore:
+21 Walking After You
+22 Requiem [Killing Joke]
+23 I'll Stick Around
+
+Lineage: Minidisc Audience Master > 2nd Gen Tape > Tascam 202MKVII USB out > CDWAV > Audacity (normalization, fades, merges, noise reduction) > CDWAV (splits) > DBPowerAmp (FLAC) [loughney xfer]
+

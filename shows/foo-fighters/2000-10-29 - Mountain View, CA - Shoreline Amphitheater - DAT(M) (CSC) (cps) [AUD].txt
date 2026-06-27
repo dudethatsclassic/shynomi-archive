@@ -1,0 +1,23 @@
+FOO FIGHTERS
+October 29, 2000
+Shoreline Amphitheatre
+Mountain View, CA
+
+Source: Core Sound Cardioid > Sony PCM-M1
+Location: forty feet from right-of-center lawn PA
+Taper: CPS
+Lineage: DAT(M) > WAV [48] > WAV [44.1] > FLAC
+Transfer: Tascam DA-20mkII > M-Audio Audiophile 2496 > Sound Forge
+Edits/EQ: L>R channel copy during "Up in Arms" mic glitches, limiter @ -1.5dB, L3 @ -3dB
+Notes: acoustic Bridge Benefit
+
+01 - Big Me
+02 - Up in Arms
+03 - Breakout
+04 - My Hero
+05 - Floaty
+06 - Learn to Fly
+07 - Everlong
+
+
+Compiled March 2022 by CPS

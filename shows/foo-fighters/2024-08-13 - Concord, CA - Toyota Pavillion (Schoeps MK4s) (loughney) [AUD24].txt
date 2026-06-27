@@ -1,0 +1,43 @@
+Foo Fighters - 2024 08 13 @ Toyota Pavillion, Concord CA 
+
+Note:
+Really good show from the Foos and the first time in Concord. Good selection of songs and they are mixing up the setlist from show to show. I'm happy that they have shortened some of they jammy parts in songs that they had been doing for the past few years. I'm in favor of more songs, less jams. Recording side - the battery on my battery box was a little marginal (it had been fully charged) meaning I needed to turn up the gain to get a decent level. On the quieter parts there is some air/hiss and the bass can be a little more dirty than normal. Probably not too noticeable, but just putting here for completeness sake.
+
+1 intro
+2 All My Life
+3 No Son of Mine > Dirty Deeds Done Dirt Cheap [AC/DC] > Paranoid [Black Sabbath] > Enter Sandman [Metallica]
+4 The Pretender
+5 Walk
+6 Times Like These
+7 White Limo
+8 Stacked Actors
+9 Breakout
+10 Crazy Train [Ozzy Osbourne] / Eruption [Van Halen] / Thunderstruck [AC/DC]
+11 Sabotage [The Beastie Boys] 
+12 Keyboard Solo 
+13 Blitzkrieg Bop [The Ramones]
+14 March of the Pigs [Nine Inch Nails]
+15 My Hero
+16 The Sky Is a Neighborhood
+17 Learn to Fly
+18 Arlandria
+19 These Days
+20 Statues (Acoustic)
+21 Under You (Acoustic)
+22 Nothing at All > Blackbird [The Beatles]
+23 This Is a Call
+24 Shame Shame
+25 Monkey Wrench
+26 Aurora
+27 Best of You
+>> Encore 
+28 The Teacher
+29 Everlong
+
+Support:
+L7	
+
+Taper: loughney
+Location: Section 102, in line with right stack
+Source: Schoeps MK4s > BabynBox > PCM-A10 (24/48) > WAV > SoundForge (levels, fades, click removal, hiss reduction) > CDWAVE (Splits) > FLAC > MP3Tag
+

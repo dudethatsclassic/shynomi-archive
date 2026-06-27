@@ -1,0 +1,38 @@
+Foo Fighters - 1997 07 04  Riviera Theatre, Chicago, IL, USA 
+
+Band:
+Dave Grohl - Guitar, Vocals
+Nate Mendel - Bass Guitar
+Taylor Hawkins - Drums
+Pat Smear - Guitars
+
+Transfer note:
+Good show but with a lot of bass saturation. Tape flip cuts the fade out of February Stars. Removed encore fade and gap after This is a Call. Track 20 is a short news blurb with short interview with Dave, post show from the radio.  
+
+1 intro
+2 Wind Up
+3 Wattershed
+4 Hey, Johnny Park!
+5 Monkey Wrench
+6 Alone + Easy Target
+7 Doll
+8 See You
+9 My Poor Brain
+10 For All the Cows
+11 Enough Space
+12 Big Me
+13 Weenie Beenie
+14 February Stars
+15 Everlong
+16 New Way Home
+17 This Is a Call
+ Encore:
+18 Up in Arms
+19 I'll Stick Around
+20 Q101 News Blurb - Interview
+
+Openers:
+The Boo Radleys
+Smoking Popes
+
+Lineage: Sony WM-D3 Master > 2nd gen tape > Tascam 202MKVII > USB > CDWAV > Audacity for fades, normalization, noise reduction > CDWAVE (SPLITS) > FLAC [loughney xfer]

@@ -1,0 +1,73 @@
+Foo Fighters
+Glastonbury Festival of Contemporary Performing Arts
+Worthy Farm, Pilton, England, UK
+June 24, 2017
+Pyramid Stage 21:45-23:45
+
+Setlist (from setlist.fm):
+Intro
+01. Times Like These (solo into full band, dedicated to Florence + The Machine)
+02. All My Life
+03. Learn to Fly
+04. Something From Nothing
+05. The Pretender
+06. Cat Scratch Fever / Another One Bites the Dust / Blitzkrieg Bop (Ted Nugent/Queen/The Ramones snippets played during band introductions)
+07. Cold Day in the Sun
+08. Congregation
+09. Walk (dedicated to Dave's surgeon who fixed his broken leg)
+10. These Days
+11. My Hero (dedicated to a naked fan in the crowd)
+12. Wheels (Slow version)
+13. Run
+14. This Is a Call
+15. Arlandria
+16. Monkey Wrench
+17. Best of You
+18. Skin and Bones (with accordion solo)
+19. Under Pressure [Queen cover] (Dave on drums, Taylor on lead vocals)
+20. Everlong (dedicated to Laura Plane in honor to her memory)
+Outro
+
+Note: show ran 19 minutes over schedule
+
+Taken from the BBC2 live-on-the-air TV broadcast.
+
+Lineage : BBC2 DVB-C - Humax iHDR-5050C - VideoReDo TVSuite 4.20.7.629
+
+Technical details:
+File Name : Foo Fighters 2017-06-24 Glastonbury 1080i H.264 TS Stream.ts
+Size : 9.865 GB
+Duration : 02:25:45.16
+Mux type : TS Stream
+TS mux rate : 16.347 Mbps
+
+Video Encoding : H.264
+VideoStreamID : x99D
+Frame rate : 25.00 fps
+Encoding size : 1920 x 1080
+Aspect ratio : 16:9
+Header bit rate : 20.000 Mbps
+VBV buffer : 380 KBytes
+Profile : High/4.0
+Progressive : Interlaced
+Chroma : 4:2:0
+Entropy mode : CABAC
+Bit rate : 8.479 Mbps
+
+Audio Stream: 1 (Primary)
+Codec : AC3
+Format : AC3 stream
+Channels : 2.0
+Language : eng
+PID : x99F
+PES Stream Id : xBD
+Bit rate : 192 Kbps
+Sampling rate : 48000
+Sample size : 16 bits
+
+Another tape from the Magnix Live Archive.
+
+Magnix,
+June 2017.
+
+Uploaded to Dime on June 25, 2017 by Magnix.

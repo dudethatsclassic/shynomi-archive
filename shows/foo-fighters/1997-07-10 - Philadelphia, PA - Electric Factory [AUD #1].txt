@@ -1,0 +1,41 @@
+FOO FIGHTERS
+1997-07-10
+Electric Factory
+Philadelphia, PA
+
+Sony PC-62 mic > Sony WM-D3 (M) > Soundforge 8.0 > CDWave 1.95.1 > FLAC (level 8)
+
+Setlist
+-------
+
+01	Wind Up
+02	Wattershed
+03	Hey Johnny Park
+04	Monkeywrench
+05	Alone + Easy Target
+06	Doll
+07	See You
+08	My Poor Brain
+09	For All The Cows
+10	Enough Space
+11	Big Me
+12	Weenie Beenie
+13	February Stars
+14	Everlong
+15	New Way Home
+16	This Is A Call
+17	(encore break)
+18	Up In Arms
+19	I'll Stick Around
+
+total running time:	68:43
+
+Notes
+-----
+
+minor editing done thru Soundforge to patch the tape flip, fade in/fade out
+
+recorded by jburneyko
+compiled 2007-06-08
+
+analog master JB-025

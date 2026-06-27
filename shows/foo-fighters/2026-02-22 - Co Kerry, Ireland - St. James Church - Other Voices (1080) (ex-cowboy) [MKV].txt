@@ -1,0 +1,28 @@
+Foo Fighters
+22 Feb 2026
+
+St James Church, An Daingean (aka Dingle)
+Co Kerry
+Ireland
+
+("Other Voices" TV show, broadcast 6th Apr 2026 RTÉ2)
+
+setlist:
+A320
+All My Life
+Times Like These
+Of All People
+Your Favorite Toy
+No Son of Mine
+My Hero
+Aurora
+Everlong
+
+source:
+RTÉ player -> web-dl rip -> MKV
+
+Notes:
+complete broadcast, possibly incomplete show
+
+Ripped by:
+ex-cowboy

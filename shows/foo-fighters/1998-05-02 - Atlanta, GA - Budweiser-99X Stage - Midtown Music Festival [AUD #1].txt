@@ -1,0 +1,58 @@
+FOO FIGHTERS
+May 2nd, 1998
+Budweiser/99x Stage (Midtown Music Festival)
+Atlanta, GA
+
+SOURCE (AUD #1):
+Supplied > Aiwa HS-JS216
+
+TRANSFER:
+Sony TC-RX77ES > M-Audio Audiophile 2496 > Adobe Audition 3 > CDWave 1.97 > Traders Little Helper 2.41
+
+GENERATION:
+ANA(M) > WAV [48khz] > WAV [44.1khz] > FLAC [Level 8]
+
+LENGTH:
+59:51
+
+NOTES:
+- 'Baker Street' is jammed on by Dave in the middle of 'Alone + Easy Target'.
+
+TRACKS:
+01. Monkey Wrench
+02. Hey, Johnny Park!
+03. Alone + Easy Target
+04. See You
+05. My Poor Brain
+06. My Hero
+07. Up In Arms
+08. This Is A Call
+09. For All The Cows
+10. Gas Chamber
+11. Big Me 
+12. Weenie Beenie
+13. Everlong
+14. New Way Home
+15. I'll Stick Around
+
+MD5 FINGERPRINTS:
+772306304dfe1c31dfb509a643e5b5fe *FooFighters1998-05-02t01.flac
+eee65039ccfcc508d0b0efe2151855be *FooFighters1998-05-02t02.flac
+014e8aea0edeb6a61f9b83fa4c747aa3 *FooFighters1998-05-02t03.flac
+075bb621da7e3bf77cdfed0f19fa0eb1 *FooFighters1998-05-02t04.flac
+25fd0aad74ba73206ba66b60a06ebcbe *FooFighters1998-05-02t05.flac
+4da2b03284a1ffcfd5b6e82dec6fb9a5 *FooFighters1998-05-02t06.flac
+d02e6a76287e1a1c624dafa74f69838a *FooFighters1998-05-02t07.flac
+1f5a952cca6820cb57d58a3784dbefe6 *FooFighters1998-05-02t08.flac
+2c62cf44a42b9bcbb499bf8528ffe6e9 *FooFighters1998-05-02t09.flac
+cf0df71f774de0a351cbbdbb4bd34230 *FooFighters1998-05-02t10.flac
+af718ae1052e1727fb8ed04219c17b1b *FooFighters1998-05-02t11.flac
+fefecc67e31df53717246a74c7a455df *FooFighters1998-05-02t12.flac
+ccbd9bc36bef3e47525abbea2832f37f *FooFighters1998-05-02t13.flac
+8831f6586aec00b42c3ce830e9f2dca3 *FooFighters1998-05-02t14.flac
+d295e72e9a368911677b1e68d7faaacd *FooFighters1998-05-02t15.flac
+
+RECORDED AND TRANSFERRED BY:
+Scott Honda
+
+**PLEASE DO NOT ENCODE TO LOSSY FORMATS OR SELL**

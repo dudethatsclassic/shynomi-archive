@@ -1,0 +1,108 @@
+Foo Fighters
+Best Buy
+Richfield, Mn.
+23 March 2000
+
+This is an audience recording made by someone I am no longer in touch with. 
+They used a DAT and my CD of it is straight from that DAT, but that is about all I can tell you about it. 
+I rate it an 8 or 9 depending on how much your hate crowd noise, which is quite evident, not surprisingly. 
+It runs 33:55. No artwork. DAT > CD > EAC > FLAC 6. 
+
+Track listing: 
+
+Intro
+Learning To Fly
+Breakout
+Next Year
+Stacked Actors
+Everlong
+Monkey Wrench
+
+
+EAC extraction logfile from 14. September 2006, 19:18 for CD
+Unknown Artist / Unknown Title
+
+Used drive  : _NEC    DVD_RW ND-3520A   Adapter: 1  ID: 0  LUN: 0
+Read mode   : Secure with C2, accurate stream, NO disable cache
+Read offset correction : 0
+Overread into Lead-In and Lead-Out : No
+
+Used output format : C:\Documents and Settings\Owner\My Documents\flac112a.exe   (User Defined Encoder)
+                     128 kBit/s
+                     Additional command line options : -8 -V -T "artist=%a" -T "title=%t" -T "album=%g" -T "date=%y" -
+
+Other options      : 
+    Fill up missing offset samples with silence : Yes
+    Delete leading and trailing silent blocks : No
+    Installed external ASPI interface
+
+
+Track  1
+   Filename C:\Documents and Settings\Owner\Desktop\Track01.wav
+
+   Peak level 51.6 %
+   Track quality 100.0 %
+   Copy CRC B885E4B0
+   Copy OK
+
+Track  2
+   Filename C:\Documents and Settings\Owner\Desktop\Track02.wav
+
+   Peak level 100.0 %
+   Track quality 99.9 %
+   Copy CRC 089CBB1D
+   Copy OK
+
+Track  3
+   Filename C:\Documents and Settings\Owner\Desktop\Track03.wav
+
+   Peak level 100.0 %
+   Track quality 100.0 %
+   Copy CRC D9B42867
+   Copy OK
+
+Track  4
+   Filename C:\Documents and Settings\Owner\Desktop\Track04.wav
+
+   Peak level 100.0 %
+   Track quality 100.0 %
+   Copy CRC 3F3025E2
+   Copy OK
+
+Track  5
+   Filename C:\Documents and Settings\Owner\Desktop\Track05.wav
+
+   Peak level 100.0 %
+   Track quality 99.9 %
+   Copy CRC 59F47673
+   Copy OK
+
+Track  6
+   Filename C:\Documents and Settings\Owner\Desktop\Track06.wav
+
+   Peak level 100.0 %
+   Track quality 100.0 %
+   Copy CRC 6C907D1E
+   Copy OK
+
+Track  7
+   Filename C:\Documents and Settings\Owner\Desktop\Track07.wav
+
+   Peak level 100.0 %
+   Track quality 100.0 %
+   Copy CRC 484E1822
+   Copy OK
+
+No errors occured
+
+
+End of status report
+
+
+Track01.flac:a4164d0b5049d73cc92876f625347d91
+Track02.flac:aa2505c42de8617c29c134060103d181
+Track03.flac:c7a8e1c82cceb6baf174979e9f918b13
+Track04.flac:c9ff0ec175102cad32a7ac2714cca982
+Track05.flac:a34fe3835c0b3bd08dfa244a06659156
+Track06.flac:633a25fa2ef459e10083354845ea2f41
+Track07.flac:44428a43bf16befb84fd030ed0a3db5c

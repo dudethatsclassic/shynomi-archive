@@ -1,0 +1,56 @@
+FOO FIGHTERS
+December 10, 2006
+Gibson Amphitheatre (KROQ Almost Acoustic Christmas 2006)
+Universal City, CA
+
+SOURCE (SBD #1):
+soundboard > unknown
+
+TRANSFER:
+Terk Pi-B Indoor Amplified AM/FM Antenna > Gemini TV-Matching Transformer Model CV 70 > Carver FM Stereo Tuner Model TX-11 > shielded RCA to miniplug cable > Sound Blaster Audigy 2 Platinum (line in) > CD Wave 1.94.4 beta > FLAC frontend 1.7.1
+
+GENERATION:
+FM > WAV [44.1khz] > FLAC [Level 8]
+
+LENGTH:
+46:43
+
+NOTES:
+- Times Like These through to Everlong (3/4) are played acoustically, the rest full electric.
+- Small cut in 'All My Life' and missing some banter before 'Everlong', otherwise complete.
+- All curse words are blended out.
+
+TRACKS:
+01. intro
+02. interview
+03. Times Like These
+04. My Hero
+05. Skin And Bones
+06. interview
+07. Everlong
+08. All My Life
+09. Darling Nikki
+10. Breakout
+11. Best Of You
+12. Monkey Wrench
+13. outro
+
+MD5 FINGERPRINTS:
+0d7b33a49743c1f6ac1dcdaf153a48e7 *FooFighters2006-12-10t01.flac
+0631646eccb830c4d39c47262f2dd386 *FooFighters2006-12-10t02.flac
+dddf07acb8d9bd4d782b1417b395974c *FooFighters2006-12-10t03.flac
+107d5f92a7d7e67df29a04294ac18861 *FooFighters2006-12-10t04.flac
+6196870adb44999b31f9737a06a99e77 *FooFighters2006-12-10t05.flac
+f47be3300c67e9c923f3c95509dce9ef *FooFighters2006-12-10t06.flac
+1e9eba947368831bc608a978ea4bc897 *FooFighters2006-12-10t07.flac
+22119f3bdec068c5e8ada20e1e50470e *FooFighters2006-12-10t08.flac
+493e92addbe5deaeee059de0083092c3 *FooFighters2006-12-10t09.flac
+abd55cd53e207e417029ebf1001dfe12 *FooFighters2006-12-10t10.flac
+5d61df5ebb21427a412730869cf16500 *FooFighters2006-12-10t11.flac
+c35cb2144b5453b9c91434a20371fe26 *FooFighters2006-12-10t12.flac
+a327286a69e8aba963f5b83927703d91 *FooFighters2006-12-10t13.flac
+
+RECORDED AND TRANSFERRED BY:
+Mike J. (slightreturn at gmail dot com)
+
+**PLEASE DO NOT ENCODE TO LOSSY FORMATS OR SELL!**

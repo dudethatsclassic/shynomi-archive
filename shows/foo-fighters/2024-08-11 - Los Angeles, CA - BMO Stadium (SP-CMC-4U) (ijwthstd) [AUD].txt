@@ -1,0 +1,87 @@
+Foo Fighters 
+BMO Stadium
+Los Angeles, CA  (USA)
+August 11, 2024
+
+Source:  Audience recording > SP-CMC-4U > Sony PCM-A10 (16/44) > Soundforge > FLAC.
+
+I used CD Wave to track the single WAV file & TLH to convert the resulting WAV tracks to FLAC (level 6) & to create a .ffp file. 
+
+CD 1:
+01. The Teacher
+02. All My Life
+03. No Son of Mine (with riffs taken from AC/DC's "TNT" & Metallica's "Enter Sandman") 
+04. The Pretender
+05. Walk
+06. (Grohl talks)
+07. Times Like These
+08. White Limo
+09. Stacked Actors
+10. Breakout
+
+CD 2:
+01. (band introductions, with quotes from Ozzy Osbourne's "Crazy Train," Van Halen's "Eruption," AC/DC's "Thunderstruck," The Beastie Boys' "Sabotage," (keyboard solo), The Ramones' "Blitzkrieg Bop," & NIN's " March of the Pigs.")
+02. My Hero
+03. Bridge is Burning 
+04. The Sky Is a Neighborhood
+05. Learn to Fly
+06. Arlandria
+07. These Days
+08. (Grohl talks)
+09. Statues (acoustic)
+10. Ballad of the Beaconsfield Miners (acoustic)
+11. Under You (acoustic)
+
+CD 3:
+01. Nothing at All
+02. This Is a Call
+03. (Grohl introduces Violet Grohl)
+04. Show Me How (with Violet Grohl)
+05. Monkey Wrench
+06. Aurora
+07. Best of You
+08. (encore break > Grohl introduces Oliver Shane Hawkins)
+09. I'll Stick Around (with Oliver Shane Hawkins)
+10. Everlong 
+
+Total time = 171:54
+
+Personnel (presumed):
+Dave Grohl - vocals & guitar
+Chris Shiflett - guitar
+Pat Smear - guitar 
+Nathan ‍‍Mendel - bass
+Josh Freese - drums
+Rami Jaffee - keyboards & accordion
+
+FF2024-08-11 d01t01.flac:fa20b906b5f0950d1581a5d88542a7b9
+FF2024-08-11 d01t02.flac:420ba523dd175c0639863ed71f7ece10
+FF2024-08-11 d01t03.flac:cb205c06e10b58ff7cc499a3755970ad
+FF2024-08-11 d01t04.flac:22cdefbc72763c613c9f2d83cc6bc1bb
+FF2024-08-11 d01t05.flac:e6d20415c6df252ccccc4fc64fcecde1
+FF2024-08-11 d01t06.flac:d0286736643d09bd72f8de2226debccc
+FF2024-08-11 d01t07.flac:93564c10fe384f1ed1a1f8a663df69ef
+FF2024-08-11 d01t08.flac:6e77c1ab1ce5e9b04fbec2b6698b9f27
+FF2024-08-11 d01t09.flac:7650b141d296ca399f4dd12c8cba25a9
+FF2024-08-11 d01t10.flac:b24eef82320d3f791892d4930f7e87c4
+FF2024-08-11 d02t01.flac:bd77fab8cea14557b75767a4c9951d88
+FF2024-08-11 d02t02.flac:00d0816eaf26051d5f474b42d3897549
+FF2024-08-11 d02t03.flac:caff1f527c79ede005288bb629466a89
+FF2024-08-11 d02t04.flac:eeaf9aadd0f08a002e75beae2d1c1d5a
+FF2024-08-11 d02t05.flac:a67972b2f416c0ce73d34a74aa9a952c
+FF2024-08-11 d02t06.flac:a2fd03b454ba140f5552797fa82c1dc7
+FF2024-08-11 d02t07.flac:2a41ff1ac09a7ea63ce72dc9d54a87ee
+FF2024-08-11 d02t08.flac:4b4f368d7e7f6b95980efd7bada37e49
+FF2024-08-11 d02t09.flac:7b8cf737b205cbaf6f6a90467f74552d
+FF2024-08-11 d02t10.flac:fa126d11a4e2e78e7c41896156bc8446
+FF2024-08-11 d02t11.flac:e7512f946fa4b09fb97d276cc21fdb83
+FF2024-08-11 d03t01.flac:41e5ad7bf14275c23f38cd78d41d0e74
+FF2024-08-11 d03t02.flac:92797ad7cd7706c3dcb9ec8160c83738
+FF2024-08-11 d03t03.flac:6843af6f2b3fd8f4e2465e0b68ef4c06
+FF2024-08-11 d03t04.flac:d48e5e004885efa27e21fb0846b9a63b
+FF2024-08-11 d03t05.flac:e06f19ea3ad2e87f45e8779729ef5f00
+FF2024-08-11 d03t06.flac:a43e774b084c5fb815d7232a1b00fd1c
+FF2024-08-11 d03t07.flac:fd2324958ee9ef63f73ca4b61002cdf7
+FF2024-08-11 d03t08.flac:38a208dc080fc1e4462453775aa023e3
+FF2024-08-11 d03t09.flac:266bba93ed789738c4b255c6f99e1c43
+FF2024-08-11 d03t10.flac:c12a259264989616a83ee1bc247e4602

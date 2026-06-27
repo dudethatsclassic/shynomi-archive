@@ -1,0 +1,47 @@
+Foo Fighters
+April 25th, 1995
+Black Cat
+Washington, D.C.
+
+SOURCE (AUD #1):
+unknown > unknown (Micro-cassette)
+
+TRANSFER:
+Nakamichi DR-3 > Monster RCA Cable > Creative Soundblaster Audigy SE > Adobe Audition 2.0 > CD Wave > FLAC Frontend 1.7.1
+
+GENERATION:
+ANA(3) > WAV [44.1khz] > FLAC [Level 8]
+
+LENGTH:
+41:57
+
+TRACKS:
+01. intro
+02. This Is A Call
+03. Butterflies
+04. I'll Stick Around
+05. For All the Cows
+06. Wattershed
+07. Big Me
+08. Down in the Park
+09. Podunk
+10. Alone + Easy Target
+11. Exhausted
+
+MD5 FINGERPRINTS:
+e8a068289a1fd368d8326afaf409c184 *FooFighters1995-04-25t01.flac
+93eb5497871486b5840b20c1c4b56704 *FooFighters1995-04-25t02.flac
+473d415657d9b01c4d56907c3b5452d9 *FooFighters1995-04-25t03.flac
+f44c7f83f1b2fb88bf40382717e75525 *FooFighters1995-04-25t04.flac
+98ceff41c8104ae7c70da21de0ab6390 *FooFighters1995-04-25t05.flac
+09cf7c40a11cbca16304d183905ecfce *FooFighters1995-04-25t06.flac
+52e61c0e4b122a4467de2a8aa1d465b5 *FooFighters1995-04-25t07.flac
+65eb08b1ddb7ba88a9abb2dd5657a531 *FooFighters1995-04-25t08.flac
+34113c8204d8949f03e4a743c771161a *FooFighters1995-04-25t09.flac
+2ad99f3fb0426a73dfcf0a8f266a4b35 *FooFighters1995-04-25t10.flac
+3213fd0b2a220a153a2fa35bf3b622d4 *FooFighters1995-04-25t11.flac
+
+TRANSFERRED BY:
+Brad Collins
+
+**PLEASE DO NOT ENCODE TO LOSSY FORMATS OR SELL!**

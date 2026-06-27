@@ -1,0 +1,53 @@
+Foo Fighters
+January 25th, 2015
+Estádio Jornalista Mário Filho
+Rio De Janeiro, Brazil
+
+SOURCE (PRO #1):
+soundboard > unknown
+
+TRANSFER:
+unknown 
+
+GENERATION:
+HDTV > Transport Stream [H.264/1080i/7Mbps | AC-3/384kbps/5.1]
+
+LENGTH:
+168:33
+
+TRACKS:
+01. pre-show interview
+02. Something From Nothing
+03. The Pretender
+04. Learn to Fly
+05. Breakout
+06. Arlandria
+07. My Hero
+08. Big Me
+09. Congregation
+10. Walk
+11. Mountain Song (jam)
+12. Smoke On The Water (jam)
+13. Blackbird (jam)
+14. Cold Day In The Sun
+15. In The Clear
+16. This Is A Call
+17. Monkey Wrench
+18. Skin And Bones
+19. Wheels
+20. Times Like These
+21. Detroit Rock City
+22. Tom Sawyer
+23. Stay With Me
+24. Under Pressure
+25. All My Life
+26. Best Of You
+27. Everlong
+
+MD5 FINGERPRINTS:
+fb6e8384c3d8efc61f7578f4add57f98 *FooFighters2015-01-25 PRO 1.ts
+
+TRANSFERRED BY:
+Anonymous
+
+**PLEASE DO NOT ENCODE TO LOSSY FORMATS OR SELL!**

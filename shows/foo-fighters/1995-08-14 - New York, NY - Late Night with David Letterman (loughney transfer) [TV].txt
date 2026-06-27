@@ -1,0 +1,8 @@
+Foo Fighters - 1995 08 14 Ed Sullivan Theater, NYC
+
+Late Night with David Letterman
+
+1 David Letterman intro
+2 This is A Call
+
+Lineage: TV Broadcast > 1st gen tape > Tascam 202MKVII > USB > CDWAV > Audacity for fades, normalization, noise reduction > CDWAVE (SPLITS) > FLAC [loughney xfer]

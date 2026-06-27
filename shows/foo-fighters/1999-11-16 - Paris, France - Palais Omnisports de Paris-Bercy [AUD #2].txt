@@ -1,0 +1,57 @@
+FOO FIGHTERS
+November 16, 1999
+Palais Omnisports de Paris-Bercy
+Paris, France
+
+DISC #1/1 (54:30)
+-----------------
+01. Intro
+02. I'll Stick Around
+03. My Poor Brain 
+04. For All The Cows
+05. Breakout
+06. Learn To Fly
+07. Up In Arms
+08. Ain't It The Life
+09. Stacked Actors
+10. Monkey Wrench
+11. Hey, Johnny Park!
+12. Alone + Easy Target
+13. Everlong
+14. This Is A Call
+
+GENERATION
+-----------------
+DAT(M) -> WAV [32kHz] -> WAV [44.1kHz] -> FLAC [Level 8]
+
+SOURCE (AUD #2)
+-----------------
+Marantz EM-8 -> Sony TCD-D8
+
+TRANSFER
+-----------------
+Tascam DA-20 MKII -> Viablue S/PDIF cable -> M-Audio Delta Audiophile 192 digital-in -> Adobe Audition 3.0 -> CD Wave 1.98 -> FLAC Frontend 1.7.1
+
+NOTES
+-----------------
+- thanks to SD for letting me transfer his master
+
+MD5 FINGERPRINTS
+-----------------
+f2c2080b4024987d04e438413185ab21 *foofighters_1999-11-16_aud2_datm_d1t01.flac
+9cba3e12e307ca62fb2e75fb645bf0e0 *foofighters_1999-11-16_aud2_datm_d1t02.flac
+002a8ac672178753dff07601a0825e01 *foofighters_1999-11-16_aud2_datm_d1t03.flac
+4d8191a380e62bdbc482d91cf478c349 *foofighters_1999-11-16_aud2_datm_d1t04.flac
+9d0b9391b336699227b5717041fe4aca *foofighters_1999-11-16_aud2_datm_d1t05.flac
+f0a2d561c24f3b8e15350afefa0d3f3d *foofighters_1999-11-16_aud2_datm_d1t06.flac
+53b3cef47db466fb5b9dd17e0c3ae1a0 *foofighters_1999-11-16_aud2_datm_d1t07.flac
+d4789f4ac28241adc5397a231fb5e7d6 *foofighters_1999-11-16_aud2_datm_d1t08.flac
+7cb4d4aa009a82d7661f6d7b4f5d4e0b *foofighters_1999-11-16_aud2_datm_d1t09.flac
+f54cc4730f2e06e77e8b1cdfdb4ae1b8 *foofighters_1999-11-16_aud2_datm_d1t10.flac
+5bb941215381485f5386133dabd12ee4 *foofighters_1999-11-16_aud2_datm_d1t11.flac
+ccf70ebf5e15b1801c00c12e191b60b5 *foofighters_1999-11-16_aud2_datm_d1t12.flac
+6ddd5288cd5fe982eede477eaa28c5c5 *foofighters_1999-11-16_aud2_datm_d1t13.flac
+5c00747bc319114735d2209068a92ba2 *foofighters_1999-11-16_aud2_datm_d1t14.flac
+
+Transferred by Pierre Leroy
+PLEASE DO NOT ENCODE TO MP3 OR SELL! 

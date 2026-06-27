@@ -1,0 +1,125 @@
+EAC extraction logfile from 28. August 2005, 14:19 for CD
+Unknown Artist / Unknown Title
+
+Used drive  : PIONEER DVD-RW  DVR-108   Adapter: 2  ID: 0
+Read mode   : Secure with NO C2, accurate stream, disable cache
+Read offset correction : 0
+Overread into Lead-In and Lead-Out : No
+
+Used output format : Internal WAV Routines
+                     44.100 Hz; 16 Bit; Stereo
+
+Other options      : 
+    Fill up missing offset samples with silence : Yes
+    Delete leading and trailing silent blocks : Yes
+    Native Win32 interface for Win NT & 2000
+
+
+Track  1
+     Filename C:\Documents and Settings\Preston\My Documents\EAC EXTRACTIONS\Track01.wav
+
+     Peak level 36.4 %
+     Track quality 100.0 %
+     Copy CRC 8BE97F5B
+     Copy OK
+
+Track  2
+     Filename C:\Documents and Settings\Preston\My Documents\EAC EXTRACTIONS\Track02.wav
+
+     Peak level 100.0 %
+     Track quality 100.0 %
+     Copy CRC FB5462AA
+     Copy OK
+
+Track  3
+     Filename C:\Documents and Settings\Preston\My Documents\EAC EXTRACTIONS\Track03.wav
+
+     Peak level 100.0 %
+     Track quality 100.0 %
+     Copy CRC 31BBFCF2
+     Copy OK
+
+Track  4
+     Filename C:\Documents and Settings\Preston\My Documents\EAC EXTRACTIONS\Track04.wav
+
+     Peak level 92.5 %
+     Track quality 100.0 %
+     Copy CRC C4435203
+     Copy OK
+
+Track  5
+     Filename C:\Documents and Settings\Preston\My Documents\EAC EXTRACTIONS\Track05.wav
+
+     Peak level 87.3 %
+     Track quality 99.9 %
+     Copy CRC 118CC03B
+     Copy OK
+
+Track  6
+     Filename C:\Documents and Settings\Preston\My Documents\EAC EXTRACTIONS\Track06.wav
+
+     Peak level 84.0 %
+     Track quality 100.0 %
+     Copy CRC 18B62BC7
+     Copy OK
+
+Track  7
+     Filename C:\Documents and Settings\Preston\My Documents\EAC EXTRACTIONS\Track07.wav
+
+     Peak level 82.5 %
+     Track quality 100.0 %
+     Copy CRC 7EABEA1D
+     Copy OK
+
+Track  8
+     Filename C:\Documents and Settings\Preston\My Documents\EAC EXTRACTIONS\Track08.wav
+
+     Peak level 42.2 %
+     Track quality 100.0 %
+     Copy CRC 9FA8A824
+     Copy OK
+
+Track  9
+     Filename C:\Documents and Settings\Preston\My Documents\EAC EXTRACTIONS\Track09.wav
+
+     Peak level 99.1 %
+     Track quality 99.9 %
+     Copy CRC F713767B
+     Copy OK
+
+Track 10
+     Filename C:\Documents and Settings\Preston\My Documents\EAC EXTRACTIONS\Track10.wav
+
+     Peak level 96.8 %
+     Track quality 100.0 %
+     Copy CRC 043C3916
+     Copy OK
+
+Track 11
+     Filename C:\Documents and Settings\Preston\My Documents\EAC EXTRACTIONS\Track11.wav
+
+     Peak level 63.8 %
+     Track quality 100.0 %
+     Copy CRC 28D13098
+     Copy OK
+
+Track 12
+     Filename C:\Documents and Settings\Preston\My Documents\EAC EXTRACTIONS\Track12.wav
+
+     Peak level 23.4 %
+     Track quality 100.0 %
+     Copy CRC E8294691
+     Copy OK
+
+Track 13
+     Filename C:\Documents and Settings\Preston\My Documents\EAC EXTRACTIONS\Track13.wav
+
+     Peak level 60.4 %
+     Track quality 100.0 %
+     Copy CRC EE153122
+     Copy OK
+
+No errors occured
+
+
+End of status report

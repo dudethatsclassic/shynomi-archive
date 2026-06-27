@@ -1,0 +1,68 @@
+Foo Fighters
+May 22, 1997
+Town & Country Club
+Leeds, United Kingdom
+
+DISC #1/1 (68:42)
+-----------------
+01. Wind Up
+02. Wattershed
+03. Hey, Johnny Park!
+04. Monkeywrench
+05. Alone + Easy Target
+06. Doll
+07. See You
+08. My Poor Brain
+09. Insects Rule (jam)
+10. For All The Cows
+11. Enough Space
+12. Big Me
+13. Weenie Beenie
+14. February Stars (cut)
+15. Everlong
+16. New Way Home
+17. This Is A Call
+18. My Hero
+19. I'll Stick Around
+
+GENERATION
+-----------------
+ANA(M) -> WAV [48kHz] -> WAV [44.1kHz] ->  FLAC [Level 8]
+
+SOURCE (AUD #1)
+-----------------
+Panasonic WM-55 -> Sony WM-D6
+
+TRANSFER
+-----------------
+Nakamichi DR-3 -> RCA to 1/4" TS custom Klotz cables -> M-Audio Delta Audiophile 192 analog-in -> Adobe Audition 2.0 -> CD Wave 1.95.1 -> FLAC Frontend 1.7.1
+
+NOTES
+-----------------
+- tape flip after "February Stars"
+
+MD5 FINGERPRINTS
+-----------------
+cdc0c1ce8eb24d2ba9f5a981f4aae0f8 *foofighters_1997-05-22_aud1_anam_d1t01.flac
+ff9c38590548242e00c7451ab4afe631 *foofighters_1997-05-22_aud1_anam_d1t02.flac
+2f4b74038fbe90ee354710f94a21ac8f *foofighters_1997-05-22_aud1_anam_d1t03.flac
+d2bc92e0ca8a3d7cdb6581d7a29759ab *foofighters_1997-05-22_aud1_anam_d1t04.flac
+e9c8c0752f6f8a84f6250f0b4bcede54 *foofighters_1997-05-22_aud1_anam_d1t05.flac
+031735f6636a55b0f96345eb4c5f5fd4 *foofighters_1997-05-22_aud1_anam_d1t06.flac
+610326ed4dcde099ccaad5a868e54e54 *foofighters_1997-05-22_aud1_anam_d1t07.flac
+a4e19d05d2dbd98248620791d8160faa *foofighters_1997-05-22_aud1_anam_d1t08.flac
+0ea1634047b7deba5468763d99f1d770 *foofighters_1997-05-22_aud1_anam_d1t09.flac
+bb2e76db4e3cda9bd71f244f3e6d7edf *foofighters_1997-05-22_aud1_anam_d1t10.flac
+67d326dd0f78e0473d120aa6a8cb9213 *foofighters_1997-05-22_aud1_anam_d1t11.flac
+0216d561afc6429f8aab069e3bf40c8c *foofighters_1997-05-22_aud1_anam_d1t12.flac
+8f83986e6c414514403740e2eb22e66a *foofighters_1997-05-22_aud1_anam_d1t13.flac
+a34a277c2bbfa0239c0d2830380e84f6 *foofighters_1997-05-22_aud1_anam_d1t14.flac
+b1641756aaa1283c304201629ec27437 *foofighters_1997-05-22_aud1_anam_d1t15.flac
+28fd5f0f91275e3bd64ee2900e82e392 *foofighters_1997-05-22_aud1_anam_d1t16.flac
+e9847be0e3336a585179834bf4125bec *foofighters_1997-05-22_aud1_anam_d1t17.flac
+9c02c76cdf1cfd9e1db6855bf204d09b *foofighters_1997-05-22_aud1_anam_d1t18.flac
+eceace5cdeee50fffefd7fb7845e995d *foofighters_1997-05-22_aud1_anam_d1t19.flac
+
+Taped by Monk
+Transferred by Pierre Leroy
+DO NOT ENCODE TO MP3 OR SELL!

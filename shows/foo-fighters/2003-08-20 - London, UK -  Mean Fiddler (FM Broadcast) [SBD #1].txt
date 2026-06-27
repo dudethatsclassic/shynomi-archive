@@ -1,0 +1,60 @@
+Foo Fighters
+20 August, 2003
+Mean Fiddler
+London, UK
+
+DISC #1/1 (71:20)
+-----------------
+01) Times Like These
+02) Have It All
+03) All My Life
+04) My Hero
+05) The One
+06) Generator
+07) Stacked Actors
+08) Weenie Beenie
+09) Low
+10) Hey, Johnny Park!
+11) Monkey Wrench
+12) Disenchanted Lullabye
+13) Learn To Fly
+
+GENERATION
+-----------------
+FM > CDRW(M) > CDR(x)
+
+SOURCE (SBD #1)
+-----------------
+Radio 1 Broadcast
+
+TRANSFER
+-----------------
+Unknown CDRW CD Recorder > Unknown
+
+NOTES
+-----------------
+Recorded with a CD-recorder.
+Incomplete radio broadcast, A+ quality.
+Tired Of You and Everlong are missing.
+Unknown recording gear or media, if you have any info, please let us know.
+Extracted using EAC 0.95 Beta4 in secure mode.
+
+MD5 FINGERPRINTS
+-----------------
+eab25225ac9547182ae0ac7f52cd8342 *Track01.flac
+a9bf8fc78205fd91e18f183289fb659e *Track02.flac
+f3fa8ecbed82b680859e766db1ada0ae *Track03.flac
+efb50dc7ebeff8763e5d7f3a7cf9e22b *Track04.flac
+fe50374b4642cc921ab99ed174c54bd0 *Track05.flac
+d955905397a0bbd58db4a3639271e720 *Track06.flac
+b4ae3b4574fad8c1443c3311ecbc5b71 *Track07.flac
+3642ab2f4be3829f3ff8eaf8f328fb87 *Track08.flac
+fc91bdf7ba9cc3aefd14d4ae500c30d0 *Track09.flac
+e1693f765a8ea81834e55a134b906fc4 *Track10.flac
+89bf77a1d300c5d05ad1e8e76e2ff2ad *Track11.flac
+0cddf99954444dfa4c6c8ed70746f52d *Track12.flac
+60a4a74047c5667951a5c34d8d92890a *Track13.flac
+
+Extracted by bartsled.
+DO NOT ENCODE OR SELL!
+FooFightersLive.com

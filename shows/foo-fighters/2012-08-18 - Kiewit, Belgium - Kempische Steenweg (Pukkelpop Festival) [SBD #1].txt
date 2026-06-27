@@ -1,0 +1,73 @@
+Foo Fighters
+August 18th, 2012
+Kempische Steenweg (Pukkelpop Festival)
+Kiewit, Belgium
+
+SOURCE (SBD #1):
+soundboard > unknown
+
+TRANSFER:
+Cable FM > Denon Reciever > Creative Soundblaster > Total Recorder > CD Wave 1.98 > Trader's Little Helper 2.7.0
+
+GENERATION:
+FM > WAV [44.1khz] > FLAC [Level 8]
+
+LENGTH:
+127:22
+
+NOTES:
+- There is DJ talking throughout the recording including in the middle of 'All My Life' and over the intros of most songs.
+- Bob Mould joined the band on 'Dear Rosemary' and 'Learn To Fly'.
+
+TRACKS:
+01. White Limo
+02. All My Life
+03. Rope
+04. The Pretender
+05. My Hero
+06. Dear Rosemary
+07. Learn To Fly
+08. Arlandria
+09. Walk
+10. Cold Day In The Sun
+11. Generator
+12. These Days (jam)
+13. These Days
+14. Monkey Wrench
+15. Hey, Johnny Park!
+16. This Is A Call
+17. In The Flesh?
+18. Best Of You 
+19. Times Like These
+20. Breakout
+21. Young Man Blues
+22. Everlong
+
+MD5 FINGERPRINTS:
+17f66aaae661f624ae1f0475780955dc *FooFighters2012-08-18t01.flac
+18115a64a555f490235b6fe998fb18fe *FooFighters2012-08-18t02.flac
+6521892071f7119693ccd5ad60e1985c *FooFighters2012-08-18t03.flac
+e465fa54b325109675f7ae314d58046f *FooFighters2012-08-18t04.flac
+fb833b2e59d10d8d6c18ac8e8f17e8ba *FooFighters2012-08-18t05.flac
+38a2c7dc9cacd7141376251a2a20f7df *FooFighters2012-08-18t06.flac
+c2ec2cdb1d1f3b9a9b7a612bbd09da12 *FooFighters2012-08-18t07.flac
+cea3b3e38ec7636c1754a0863050051f *FooFighters2012-08-18t08.flac
+e0ab73f66c28d83ddb78e742f8ce592f *FooFighters2012-08-18t09.flac
+6187c5d3347db4a142dddb10a0eb13de *FooFighters2012-08-18t10.flac
+112de19f88a596a4c898600dabd8d7b6 *FooFighters2012-08-18t11.flac
+ae1b44d64808105439d3df1c43f0e6c3 *FooFighters2012-08-18t12.flac
+15c1f3d76369d06e283a35ea22ed5f97 *FooFighters2012-08-18t13.flac
+c8a68d6551a2c56d4729d3dbbca89687 *FooFighters2012-08-18t14.flac
+f54c3db7f0fc87d21d486023a0f2e8e2 *FooFighters2012-08-18t15.flac
+3d5cb4c29843d517ca4f832028692314 *FooFighters2012-08-18t16.flac
+70680b39a6ce47b534432806ea389b9b *FooFighters2012-08-18t17.flac
+5423330fb624a337ebdf7f42aff68f13 *FooFighters2012-08-18t18.flac
+4aeaa029f840d4e768e96e46435e94f5 *FooFighters2012-08-18t19.flac
+f13a24f6af5716423113e4b7723ef342 *FooFighters2012-08-18t20.flac
+f59f79ce8f2d37914e8202ccbc5d9201 *FooFighters2012-08-18t21.flac
+355fc45ab5265d28b6c18e5c7e55844b *FooFighters2012-08-18t22.flac
+
+RECORDED AND TRANSFERRED BY:
+Steven Bladt
+
+**PLEASE DO NOT ENCODE TO LOSSY FORMATS OR SELL!**

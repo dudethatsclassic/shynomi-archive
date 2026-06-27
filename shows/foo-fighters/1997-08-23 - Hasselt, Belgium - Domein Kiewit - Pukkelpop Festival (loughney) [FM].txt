@@ -1,0 +1,76 @@
+Foo Fighters - 1997 08 23 Domein Kiewit, Hasselt, Belgium 
+Tour: The Colour And The Shape 
+Pukkelpop Festival
+
+1 Dave interview
+2 Monkeywrench
+3 DJ
+
+Full setlist:
+Enough Space
+Wattershed
+Hey, Johnny Park!
+Monkey Wrench
+Alone + Easy Target
+Doll
+See You
+For All the Cows
+Weenie Beenie
+Everlong
+New Way Home
+I'll Stick Around
+
+also played:
+16 Horsepower
+Amon Tobin
+Babybird
+Be
+Big Buddha
+Bjorn
+Blonde Redhead
+CAKE
+DJ Moon
+DJ Sven
+Dance Hall Crashers
+Darren Emerson
+Dave Clarke
+Down by Law
+Fountains of Wayne
+Fuck
+Gore Slut
+GusGus
+Headrillaz
+Incubus
+Jan Van Biesen
+Jimi Tenor
+Junkster
+Limp Bizkit
+Local H
+Luc Janssen
+Lunatic Calm
+Mid Youth Crisis
+Millencolin
+Mogwai
+Motorpsycho
+Not Really Amon Tobin
+One Inch Punch
+Pavement
+Pennywise
+Roni Size & Reprazent
+Royal Crown Revue
+Samiam
+Shudder to Think
+Sick of It All
+Silver Sun
+Sneaker Pimps
+Symposium
+The Chemical Brothers
+The Jon Spencer Blues Explosion
+Thumb
+Tonic
+Uncle Meat
+Veruca Salt
+bis
+blink‐182
+
+Lineage: FM Broadcast > 1st Gen > Tascam 202MKVII USB out > CDWAV > Audacity (normalization, fades, merges, noise reduction) > CDWAV (splits) > DBPowerAmp (FLAC) [loughney xfer]

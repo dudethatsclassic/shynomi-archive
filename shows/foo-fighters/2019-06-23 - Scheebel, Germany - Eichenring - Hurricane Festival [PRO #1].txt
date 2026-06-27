@@ -1,0 +1,47 @@
+FOO FIGHTERS
+June 23rd, 2019
+Eichenring (Hurricane Festival)
+Scheeßel, Germany
+
+SOURCE (PRO #1):
+soundboard > unknown
+
+TRANSFER:
+Live https HLS stream > ffmpeg N-93022-g260f1960e7 > VideoReDo 5.1.1.719 > MKVToolNix GUI 30.1.0
+
+GENERATION:
+Webstream > Transport Stream [720p/2.5Mbps/H.264|192kbps/AAC/2.0] > MKV
+
+LENGTH:
+124:54
+
+TRACKS:
+01. The Pretender
+02. Learn To Fly
+03. The Sky Is A Neighborhood
+04. Times Like These
+05. Rope
+06. Sunday Rain
+07. My Hero
+08. These Days
+09. La Dee Da
+10. Walk
+11. Just Like Heaven (jam)
+12. Another One Bites The Dust (part of)
+13. Blitzkrieg Bop (part of)
+14. Under Pressure
+15. All My Life
+16. Run
+17. Wheels
+18. Monkey Wrench
+19. Make It Right
+20. Best Of You
+21. Everlong
+
+MD5 FINGERPRINTS:
+a66c5d76c117bb819094840495498b08 *FooFighters_2019-06-23 PRO1.mkv
+
+CAPTURED BY:
+FooFightersLive.com
+
+**PLEASE DO NOT SELL!**

@@ -1,0 +1,74 @@
+FOO FIGHTERS
+October 30, 1997
+Hollywood Palladium
+Hollywood, CA
+
+SOURCE (AUD #1):
+Sony > Sony TCD-D7 (DAT)
+
+TRANSFER:
+Sony TC-RX77ES > M-Audio Audiophile 2496 > Adobe Audition 3.0 > CD Wave Editor 1.97 > Trader´s Little Helper 2.4.1
+
+GENERATION:
+DAT(M) > ANA(1) > WAV [48khz] > FLAC [Level 8]
+
+LENGTH:
+84:52
+
+NOTES:
+- Dave smashes his guitar after 'My Poor Brain' because "it sounds bad".
+- Dave plays a second drum kit for the intro to the show, part of 'The Colour And The Shape' and the first part of 'My Hero'.
+- It was Franz' birthday so Dave sings Happy Birthday to him at the end of the show.
+
+TRACKS:
+01. intro
+02. This Is A Call
+03. Hey, Johnny Park!
+04. Alone + Easy Target
+05. Monkey Wrench
+06. Doll
+07. See You
+08. My Poor Brain
+09. Enough Space
+10. Big Me w/ Rhiannon intro
+11. The Colour And The Shape
+12. For All The Cows
+13. Gas Chamber
+14. Up In Arms
+15. Into The Void (jam)
+16. Weenie Beenie
+17. Everlong
+18. New Way Home
+19. Walking After You
+20. My Hero
+21. Requiem
+22. I'll Stick Around
+
+MD5 FINGERPRINTS:
+0f754834ae99cfa4d0dbc187f1a791a5 *01. intro.flac
+23a5aaab86e85cbbee73653b82606552 *02. This Is A Call.flac
+5fcbbb00b732c0a4d1cef518f8aa4214 *03. Hey, Johnny Park!.flac
+e219e20d36af94ad8e93896e230cf424 *04. Alone + Easy Target.flac
+d0273fd1f513212e97df51393859fc4d *05. Monkey Wrench.flac
+918be0fccef0f1ca5368aea27789737e *06. Doll.flac
+87d20f257a23757c928253b643b808d2 *07. See You.flac
+987135cfca0d13f162d134af00942aa4 *08. My Poor Brain.flac
+2e7ec1c2b6a55f554e70a57b0306b112 *09. Enough Space.flac
+355f42c0a529b7281e4d5ede2caf0793 *10. Big Me.flac
+104c86f5c717d71e14e4e0bce9b6ded7 *11. The Colour And The Shape.flac
+d656ccc1249279e17f221a03552debd1 *12. For All The Cows.flac
+135c98dcf1590a7ba105860b6b1e7d09 *13. Gas Chamber.flac
+a4733a61c1f93cb5a58a229b6c320d36 *14. Up In Arms.flac
+cbe4472addb95103e7ac0971cf3f9190 *15. Into The Void.flac
+078ea91873b1716d2281d1ec7298ad97 *16. Weenie Beenie.flac
+a7b5b0c77d310dc2f2d8aaf677b4736f *17. Everlong.flac
+b212e63afef40e3a8ac5017298e2fe12 *18. New Way Home.flac
+b1aae4ae3eef59d14ac84a142662d1cf *19. Walking After You.flac
+7437c2c831adc54a3a3d7d432b568bf1 *20. My Hero.flac
+dab08f2361c025fd0d5c512388371e13 *21. Requiem.flac
+92c170b33db8e9c05c00818ce8faae0d *22. I'll Stick Around.flac
+
+TRANSFERRED BY:
+Scott Honda
+
+**PLEASE DO NOT ENCODE TO LOSSY FORMATS OR SELL!**

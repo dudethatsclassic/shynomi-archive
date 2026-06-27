@@ -1,0 +1,69 @@
+FOO FIGHTERS
+June 24th, 2017
+Worthy Farm (Glastonbury Festival)
+Pilton, United Kingdom
+
+SOURCE (PRO #1):
+soundboard > unknown
+
+TRANSFER:
+BBC2 Backhaul > TBS6903 DVB-S2 card > VideoReDo > eac3to > Adobe Audition CC 2017 > CDWave 1.98 > Trader's Little Helper 2.7.0
+
+GENERATION:
+Satellite Feed > MPA [384kbps / 2.0 / 48khz] > WAV [48khz] > WAV [44.1khz] > FLAC [Level 8]
+
+LENGTH:
+139:39
+
+TRACKS:
+01. Times Like These
+02. All My Life
+03. Learn To Fly
+04. Something From Nothing
+05. The Pretender
+06. Cat Scratch Fever (jam)
+07. Another One Bites The Dust (partial)
+08. Blitzkrieg Bop (jam)
+09. Cold Day In The Sun
+10. Congregation
+11. Walk
+12. These Days
+13. My Hero
+14. Wheels
+15. Run
+16. This Is A Call
+17. Arlandria
+18. Monkey Wrench
+19. Best Of You
+20. Skin And Bones
+21. Under Pressure
+22. Everlong
+
+MD5 FINGERPRINTS:
+7670014e441867d073c5ae2599ff6d1f *01. Times Like These.flac
+60b4ee532d6de2fc5c77e80846a68202 *02. All My Life.flac
+aeb2a5c9ed7fc9a0e7c9b8adb9611f33 *03. Learn To Fly.flac
+22f89d29c6d592af1c32f9bd71c093a1 *04. Something From Nothing.flac
+fc18691e83d32485f71692ab70e96496 *05. The Pretender.flac
+b4de52a6e51173b2eaf61e461f4fa79b *06. Cat Scratch Fever (jam).flac
+bd174d3f6290b126910d24be41f0be89 *07. Another One Bites The Dust (jam).flac
+e4b61007b380a4b5a767511c277099c9 *08. Blitzkrieg Bop (jam).flac
+59f660df34683acc93f484c7904c1f17 *09. Cold Day In The Sun.flac
+9a934b75364bc43d6f98b4a61641f851 *10. Congregation.flac
+a01255178002b98fc59cd139f58d3da0 *11. Walk.flac
+9f9b7b94195de066d0d90ff758e58399 *12. These Days.flac
+286987a4be473a68265dc4e4ca26f33a *13. My Hero.flac
+b3b6bb33c5252f9655023f9cdf06d7dc *14. Wheels.flac
+2c1ee1735b6be405a642f0101858d46d *15. Run.flac
+27ce90044ec673e92e9473830d3424d0 *16. This Is A Call.flac
+0ba8da08826144873b94fb511022d586 *17. Alrandria.flac
+1fdf735b5f1791d60a9fad176ef3f9de *18. Monkey Wrench.flac
+738a39f9c8ba845b2a6bd2ae0c9c08c8 *19. Best Of You.flac
+602fd1c0cd54856438d2b6b5cf9a3074 *20. Skin And Bones.flac
+b9fe719b074397c8cd8785f273e6b848 *21. Under Pressure.flac
+de8ffacb8fc51e9268b04ddfb4e26725 *22. Everlong.flac
+
+RECORDED AND TRANSFERRED BY:
+Anonymous
+
+**PLEASE DO NOT ENCODE TO LOSSY FORMATS OR SELL!**

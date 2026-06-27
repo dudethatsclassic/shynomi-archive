@@ -1,0 +1,30 @@
+Foo Fighters - 1997 12 13  Shepherd's Bush Empire, London, England 
+
+Transfer note:
+Tape flip after Up In Arms.
+
+1 Crowd 
+2 Ride of the Valkyries [Richard Wagner] (tape)
+3 drum intro
+4 Monkey Wrench
+5 Hey, Johnny Park!
+6 Alone + Easy Target
+7 Doll
+8 My Poor Brain
+9 Enough Space
+10 See You
+11 Ain't Talkin 'Bout Love [Van Halen] (intro)
+12 Gas Chamber [Angry Samoans]
+13 This Is a Call
+14 Big Me
+15 The Colour and the Shape
+16 For All the Cows
+17 Up in Arms
+18 Everlong
+19 New Way Home
+ Encore:
+20 Sheer Heart Attack [Queen] (with Roger Taylor)
+21 Wattershed
+22 I'll Stick Around
+
+Lineage: Audience Master > 1st gen tape > Tascam 202MKVII > USB > CDWAV > Audacity for fades, normalization, noise reduction > CDWAVE (SPLITS) > FLAC [loughney xfer]

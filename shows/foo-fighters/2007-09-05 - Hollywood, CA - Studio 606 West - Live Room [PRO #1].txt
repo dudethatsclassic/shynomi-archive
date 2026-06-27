@@ -1,0 +1,45 @@
+Foo Fighters
+September 5, 2007
+Studio 606 West (Live Room)
+Hollywood, CA
+
+SETLIST (28:34)
+---------------
+01) Cheer Up, Boys (Your Make Up Is Running)
+02) Big Me
+03) The Pretender
+04) My Hero
+05) Long Road To Ruin
+06) Home
+07) Interview
+
+GENERATION
+---------------
+MASTER -> FLV/MP3 [128kbps] -> WAV [44.1kHz] -> FLAC [Level 8]
+
+SOURCE (SBD #1)
+---------------
+soundboard -> unknown
+
+TRANSFER
+---------------
+Orbit Video Downloader 2.2.0.1 -> ffmpeg w/ SUPER GUI v.2007.build.23 -> Adobe Audition 2.0 -> CD Wave 1.96.1 -> FLAC Frontend 1.7.1
+
+NOTES
+---------------
+Video was posted online by Wal-Mart.
+
+MD5 FINGERPRINTS
+----------------
+dc50d5158b4d377e2bc5316ca6a61bff *FooFighters2007-09-05t01.flac
+3765406cbde882484362129afd7ae15c *FooFighters2007-09-05t02.flac
+8fc0f0584fc28a81287742edfc36f95e *FooFighters2007-09-05t03.flac
+e260d5a1d63d0ac2fb4c273a4a709599 *FooFighters2007-09-05t04.flac
+793607482f82d98ad9c7201d83d23b0f *FooFighters2007-09-05t05.flac
+fe165861307041c6b03747135d5cbdfa *FooFighters2007-09-05t06.flac
+d59f699142cd2d9d4e0457efe417b0ff *FooFighters2007-09-05t07.flac
+979332d18de6afcf0102f07d36016486 *FooFighters2007-09-05t08.flac
+
+
+Transferred by Simon Kilmore.
+DO NOT SELL OR RE-ENCODE TO LOSSY FORMATS.

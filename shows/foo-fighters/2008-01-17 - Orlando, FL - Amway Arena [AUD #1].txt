@@ -1,0 +1,48 @@
+
+Foo Fighters
+January 17th, 2008
+Amway Arena: Orlando, FL
+
+Source:   DPA 4061s > MMA-6000 > Edirol R-09 @ 24/48
+
+Transfer: USB >  Cool Edit Pro (some dED & resample 
+          to 44.1 at highest setting) > CDWave > FLAC
+
+Notes:    An FFT filter was applied to reduce bass
+          from 55Hz with a cut at 35Hz.
+ 
+Set:
+1.  intro
+2.  Let It Die
+3.  The Pretender
+4.  Times like These
+5.  Breakout
+6.  Long Road To Ruin
+7.  This Is A Call
+8.  Learn To Fly
+9.  Stacked Actors
+10. Skin & Bones ^
+11. Marigold ^
+12. My Hero ^
+13. ..Grohl chats..
+14. Cold Day In The Sun ^
+15. But, Honestly ^
+16. Everlong ^
+17. Monkey Wrench
+18. All My Life
+19. ..encore break..
+20. ..more Grohl chat..
+21. Big Me
+22. Keep the Car Running
+23. Generator
+24. Best Of You
+ 
+
+Length [2:00:40]
+
+^ = acoustic songs on the secondary stage
+
+Taping, transfer, edits, & FLAC compilation - pjdavep
+
+Released 7/26/2008.
+

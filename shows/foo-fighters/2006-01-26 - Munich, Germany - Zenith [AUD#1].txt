@@ -1,0 +1,41 @@
+FOO FIGHTERS
+2006-01-26
+Zenith
+Munich, Germany
+
+Source:     MBHO KA 200 N / MBP 603 A > M-Audio MicroTrack 24/96 (@ 16/48)
+Mic Config: approx. 15cm, 70-80°, on my shoulders
+Location:   5m from right stacks (2nd row)
+Transfer:   Master WAV > Digital Editing > FLAC V1.1.2
+Editing:    Volume boost and EQ in Steinberg WaveLab V5.0a
+            Fades in Steinberg WaveLab V5.0a
+            Track splits in CD Wave Editor V1.94.7
+Resampling: 48.0 kHz > 44.1 kHz resampling in Steinberg WaveLab V5.0a
+
+Disc 1 (Regular Set):
+01 In Your Honor
+02 All My Life
+03 My Hero
+04 Best of You
+05 Up in Arms
+06 Learn to Fly
+07 Times Like These
+08 The One
+09 Stacked Actors
+10 Big Me
+11 No Way Back
+12 Breakout
+13 End Over End
+14 Everlong
+15 (Encore Break)
+16 (Fade Out)
+
+Disc 2 (Encore):
+01 (Fade In)
+02 DOA
+03 (Band Introduction)
+04 Cold Day in the Sun
+05 Monkey Wrench
+
+Note:
+To seamlessly join the two discs, simply remove D1T16 and D2T01.

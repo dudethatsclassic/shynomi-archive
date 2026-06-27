@@ -1,0 +1,35 @@
+Foo Fighters
+ACC Toronto ON
+2006-11-07
+
+mic: ECM-719 > Sony MZ-RH10 > Sony 1GB HD MD >USB > SonicStage > WAV >Sonic Foundry edit > shntool > FLAC
+
+recorded by: Krewe Chief
+
+Track 01	Intro
+Track 02	Times Like These
+Track 03	Marigold
+Track 04	My Hero
+Track 05  Next Year
+Track 06 	Another Round
+Track 07	See You/Band Solos/See You Reprise
+Track 08	Cold Day in the Sun(Taylor Hawkins, vocals)
+Track 09	Big Me
+Track 10	Skin and Bones
+Track 11	Best of You
+Track 12	Dude, They're Dylan Fans
+Track 13	Everlong 
+
+t13-stripped-fixed.flac:2f614379fe770a8f0544bfb2048896af
+t01-stripped-fixed.flac:7b558958d58d78b03d0018e926d1df17
+t02-stripped-fixed.flac:69f8c4e4beddaf0c51ed542515871707
+t03-stripped-fixed.flac:643dfce626785e8dee143ba750db3c40
+t04-stripped-fixed.flac:c54177f0488ca3f57d8e135d45b25b8e
+t05-stripped-fixed.flac:c3729c31e6c58c7fb4794dd23f8f8611
+t06-stripped-fixed.flac:c466392ccad8be1a912bca2ecda0b9f1
+t07-stripped-fixed.flac:c6780e32c8ad45dda5a8f5c3e78f5903
+t08-stripped-fixed.flac:31517278cad61863cba2ed6515d34099
+t09-stripped-fixed.flac:454071295cf98b1d22411e7591900078
+t10-stripped-fixed.flac:04d5a7a6fd67b05ba561257d9147d09e
+t11-stripped-fixed.flac:45d95a52cd54b7e10d52a8253859fd44
+t12-stripped-fixed.flac:21bd1d6ab977f66e5356f5ab8d4e20da

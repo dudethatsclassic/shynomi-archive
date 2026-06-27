@@ -1,0 +1,54 @@
+FOO FIGHTERS
+November 5th, 2000
+Mars Music Amphitheater
+West Palm Beach, Florida
+
+DISC #1/1 (64:42)
+-----------------
+01) Breakout
+02) My Hero 
+03) See You
+04) New Way Home
+05) Stacked Actors
+06) This Is A Call
+07) Next Year
+08) Learn To Fly
+09) I'll Stick Around
+10) Into The Void (Jam)
+11) Hey, Johnny Park!
+12) Monkey Wrench
+13) Everlong
+
+GENERATION
+-----------------
+DAT(M) -> CDR(5) -> WAV [44.1kHZ] -> FLAC [Level 8]
+
+SOURCE (AUD#1)
+-----------------
+Unknown -> Unknown (DAT)
+
+NOTES
+-----------------
+Chris does a guitar solo during Monkey Wrench, and the rest of the band leave the stage.
+Dave sings a little of 'Surrender' by Cheap Trick.
+
+MD5 FINGERPRINTS
+-----------------
+f6cbaea843a52c13c8b89653227f2d8e *ff2000-05-11t01.flac
+d2515c62ec0be80aea96e99db7d4abb9 *ff2000-05-11t02.flac
+9ce8aa7fba624e738b16241883c9cd19 *ff2000-05-11t03.flac
+6c3bdb8af452025c5bb4e0100c45e15b *ff2000-05-11t04.flac
+ec69367b6a7dda0d606397988f5079f8 *ff2000-05-11t05.flac
+5088f83cd84cdb9c7e8730e36bfb8360 *ff2000-05-11t06.flac
+acf000d604c89bf5446a4528d26733d6 *ff2000-05-11t07.flac
+f5a4ca2c65156f4226b4494f2c6632a9 *ff2000-05-11t08.flac
+6da173731a10cb3f658c55def9093dd9 *ff2000-05-11t09.flac
+6493ff9ec67047aa859dfc3702010ac8 *ff2000-05-11t10.flac
+5ecfcd8f505c11ad77cf2bf3da1c4714 *ff2000-05-11t11.flac
+904442a161ff0deadf584f72effd7f50 *ff2000-05-11t12.flac
+e13b49ff2c035d22ae81cb63dfb4c67b *ff2000-05-11t13.flac
+
+Torrented by Simon Kilmore
+
+DO NOT SELL OR ENCODE TO MP3!
+

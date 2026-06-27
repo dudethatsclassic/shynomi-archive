@@ -1,0 +1,33 @@
+FOO FIGHTERS
+13 January, 2001
+Rock in Rio 3 (FM Broadcast)
+Rio De Janeiro, Brazil
+
+SETLIST 
+---------------
+1. Breakout
+2. My Hero
+3. Learn to Fly
+4. Up In Arms
+5. Big Me
+6. Stacked Actors
+7. Next Year 
+8. I'll Stick Around
+9. Doll
+10.See You
+11.This is A Call
+12.Monkey Wrench
+13.Everlong
+
+GENERATION
+----------------
+FM -> Analog(M) -> WAV [44.1khz] -> FLAC [Level 8]
+
+TRANSFER
+---------------
+Nakamichi DR-3 -> Monster RCA Cable -> Creative Soundblaster Audigy SE -> Sony Soundforge -> CD Wave -> FLAC Frontend 1.7.1
+
+NOTES
+---------------
+This is the FM Broadcast of this show which to me far surpasses the audio from the television broadcast.  
+There is a small cut in "Next Year" due to a tape flip during recording.

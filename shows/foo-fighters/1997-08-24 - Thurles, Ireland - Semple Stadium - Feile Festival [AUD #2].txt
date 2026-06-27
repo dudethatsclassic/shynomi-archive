@@ -1,0 +1,46 @@
+FOO FIGHTERS
+24 August, 1997
+Semple Stadium (Feile Festival)
+Thurles, Ireland
+
+SETLIST (AUD#2)
+---------------
+1. Wind Up
+2. Wattershed
+3. Hey, Johnny Park!
+4. Monkey Wrench
+5. Alone + Easy Target 
+6. Doll
+7. See You
+8. For All the Cows
+9. Everlong
+10.New Way Home
+11.This is a Call
+12.I'll Stick Around
+
+GENERATION
+----------------
+ANA(M) -> WAV [48khz] -> WAV [44.1khz] -> FLAC [Level 8]
+
+TRANSFER
+---------------
+Nakamichi DR-3 -> Monster RCA Cable -> INPort -> Adobe Audition 2.0 -> CD Wave -> FLAC Frontend 1.7.1
+
+NOTES
+---------------
+Here is another Foo Fighters show that really hasn't circulated in any form. Robert Bowman sent me a copy
+of this on CDR a year or so ago. Since then he was able to track down the taper and obtained the ANA(M) from
+him. All of the legwork and praise goes to him on this one. I only transferred it for him. Better sounding 
+and more complete than the AUD#1 of this show. There are 2 or 3 split second dropouts in the recording but
+they are in the master tape. Nothing significant is gone though. Only a second or two each time it happens.
+Even though this came from the taper there is no gear info attached. I'm assuming the taper didn't know otherwise
+Robert would have given me that info. I hope you guys enjoy this. New shows from The Colour and the Shape era
+are always new and exciting to me.
+
+Transferred by: Brad Collins(Foofanatic)
+
+Special thanks to Robert Bowman for surfacing this. Your tape will be back next week buddy.
+
+DO NOT ENCODE INTO LOSSY FORMATS OR SELL EVER!!!
+
+If you or anyone you know ever taped the Foo Fighters please contact me or one of the other guys at: www.foofighterslive.com

@@ -1,0 +1,128 @@
+Foo Fighters
+Ellen Show 
+Warner Bros Studios Burbank,CA
+2014-11-19 
+
+Dave Grohl Interview & In The Clear 12:22
+
+1.20 GB 
+
+MPEG-TS 
+1920 x 1080i interlaced (16 X 9) 
+29 Frames Sec 
+13.9 kbps 
+
+Dolby AC-3 
+6 Channel 
+384 kbps 
+48.0 khz
+
+
+
+
+
+
+
+General
+ID                                       : 0 (0x0)
+Complete name                            : Foo Fighters On Ellen Show 11-19-14 Dave Grohl Interview & In The Clear.m2ts
+Format                                   : BDAV
+Format/Info                              : Blu-ray Video
+File size                                : 1.20 GiB
+Duration                                 : 12mn 22s
+Overall bit rate mode                    : Variable
+Overall bit rate                         : 13.9 Mbps
+Maximum Overall bit rate                 : 48.0 Mbps
+Movie name                               : Ellen DeGeneres Show, The
+Law rating                               : TV-G
+
+Video
+ID                                       : 4113 (0x1011)
+Menu ID                                  : 1 (0x1)
+Format                                   : MPEG Video
+Format version                           : Version 2
+Format profile                           : Main@High
+Format settings, BVOP                    : Yes
+Format settings, Matrix                  : Custom
+Format settings, GOP                     : Variable
+Format settings, picture structure       : Frame
+Codec ID                                 : 2
+Duration                                 : 12mn 22s
+Bit rate mode                            : Variable
+Bit rate                                 : 13.0 Mbps
+Maximum bit rate                         : 40.0 Mbps
+Width                                    : 1 920 pixels
+Height                                   : 1 080 pixels
+Display aspect ratio                     : 16:9
+Frame rate                               : 29.970 fps
+Standard                                 : Component
+Color space                              : YUV
+Chroma subsampling                       : 4:2:0
+Bit depth                                : 8 bits
+Scan type                                : Interlaced
+Scan order                               : Top Field First
+Compression mode                         : Lossy
+Bits/(Pixel*Frame)                       : 0.209
+Time code of first frame                 : 00:00:00;00
+Time code source                         : Group of pictures header
+Stream size                              : 1.12 GiB (93%)
+
+Audio
+ID                                       : 4352 (0x1100)
+Menu ID                                  : 1 (0x1)
+Format                                   : AC-3
+Format/Info                              : Audio Coding 3
+Mode extension                           : CM (complete main)
+Format settings, Endianness              : Big
+Codec ID                                 : 129
+Duration                                 : 12mn 22s
+Bit rate mode                            : Constant
+Bit rate                                 : 384 Kbps
+Channel(s)                               : 6 channels
+Channel positions                        : Front: L C R, Side: L R, LFE
+Sampling rate                            : 48.0 KHz
+Bit depth                                : 16 bits
+Compression mode                         : Lossy
+Delay relative to video                  : 28ms
+Stream size                              : 34.0 MiB (3%)
+
+Text #1
+ID                                       : 4113 (0x1011)-CC1
+Menu ID                                  : 1 (0x1)
+Format                                   : EIA-608
+Muxing mode                              : A/53 / DTVCC Transport
+Muxing mode, more info                   : Muxed in Video #1
+Duration                                 : 12mn 22s
+Bit rate mode                            : Constant
+Stream size                              : 0.00 Byte (0%)
+
+Text #2
+ID                                       : 4113 (0x1011)-CC3
+Menu ID                                  : 1 (0x1)
+Format                                   : EIA-608
+Muxing mode                              : A/53 / DTVCC Transport
+Muxing mode, more info                   : Muxed in Video #1
+Duration                                 : 12mn 22s
+Bit rate mode                            : Constant
+Stream size                              : 0.00 Byte (0%)
+
+Text #3
+ID                                       : 4113 (0x1011)-1
+Menu ID                                  : 1 (0x1)
+Format                                   : EIA-708
+Muxing mode                              : A/53 / DTVCC Transport
+Muxing mode, more info                   : Muxed in Video #1
+Duration                                 : 12mn 22s
+Bit rate mode                            : Constant
+Stream size                              : 0.00 Byte (0%)
+
+Text #4
+ID                                       : 4113 (0x1011)-2
+Menu ID                                  : 1 (0x1)
+Format                                   : EIA-708
+Muxing mode                              : A/53 / DTVCC Transport
+Muxing mode, more info                   : Muxed in Video #1
+Duration                                 : 12mn 22s
+Bit rate mode                            : Constant
+Stream size                              : 0.00 Byte (0%)
+

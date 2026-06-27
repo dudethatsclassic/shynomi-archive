@@ -1,0 +1,59 @@
+Foo Fighters
+May 27th, 2003
+Tower City Amphitheatre
+Cleveland, OH
+
+SOURCE (AUD #1):
+Core Sound Binaurals > Sony TCD-D8 (DAT)
+
+TRANSFER:
+Sony TCD-D8 > Creative SoundBlaster Audigy 2 ZS Platinum (coaxial SPDIF) > Sony Soundforge 5.0 > TLH 2.4.1 > WAVMerge 2.1 -> CDWave 1.91 > FLAC Frontend 1.7.1
+
+GENERATION:
+DAT(M) > WAV [48khz] > WAV [44.1khz] > FLAC [Level 8]
+
+LENGTH:
+92:17
+
+TRACKS:
+01. All My Life
+02. My Hero
+03. The One
+04. Times Like These
+05. Have It All
+06. Learn To Fly
+07. For All The Cows (jam)
+08. For All The Cows 
+09. Enough Space
+10. Stacked Actors
+11. Hey, Johnny Park!
+12. Low
+13. Monkey Wrench
+14. Tired Of You
+15. This Is A Call
+16. Aurora
+17. Everlong
+
+MD5 FINGERPRINTS:
+19e95d488c813e537b59e96d4afb3b5a *FooFighters2003-05-27t01.flac
+3a19fb777fe1c63a840f6eac9e40ab62 *FooFighters2003-05-27t02.flac
+853c90e55a4f9e184db38cc23fe11cbb *FooFighters2003-05-27t03.flac
+6ae97154cd896e38c5070d2a0bd0139a *FooFighters2003-05-27t04.flac
+5e3b422fb2ae00504e554e221c1be06c *FooFighters2003-05-27t05.flac
+cce15b6cabb7bd206c5acb189ea73c4c *FooFighters2003-05-27t06.flac
+e130d38ca4c58a5023bd14f0ca22490c *FooFighters2003-05-27t07.flac
+3e75d9e8ae0f2a17b1c0c0f31d30b052 *FooFighters2003-05-27t08.flac
+8b7f2e8f95f120cedf3dbe1a42b3d2a7 *FooFighters2003-05-27t09.flac
+dbde3d0bdbc448facd346e31768c6612 *FooFighters2003-05-27t10.flac
+de8b41ba71a1711a8343034a2ba2edc3 *FooFighters2003-05-27t11.flac
+7f9977ada81a9b15115e6df65d089c68 *FooFighters2003-05-27t12.flac
+33d946cb4ecfd73272b22058dc51eb95 *FooFighters2003-05-27t13.flac
+76c746b4910a6378257b0b59b9e99236 *FooFighters2003-05-27t14.flac
+9928fb275200c529e6496355ccc4049b *FooFighters2003-05-27t15.flac
+b830a040b5133c83185fb140e12f8a61 *FooFighters2003-05-27t16.flac
+f0a153eded45a404b766cb536dcfdb58 *FooFighters2003-05-27t17.flac
+
+RECORDED AND TRANSFERRED BY:
+greengoblin
+
+**PLEASE DO NOT ENCODE TO LOSSY FORMATS OR SELL!**

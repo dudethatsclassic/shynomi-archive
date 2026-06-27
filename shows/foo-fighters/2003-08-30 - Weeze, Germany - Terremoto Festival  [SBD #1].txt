@@ -1,0 +1,46 @@
+Foo Fighters
+August 30th, 2003
+Kreis Kleve (Terremoto Festival)
+Weeze, Germany
+
+SOURCE (SBD #1):
+soundboard > unknown
+
+TRANSFER: 
+unknown > Adobe Audition CC 2018 > CD Wave 1.98 > flac 1.3.2
+
+GENERATION: 
+FM > WAV [44.1khz/16-bit] > FLAC [Level 8]
+
+NOTES:
+- Has a few short radio idents between some songs.
+
+LENGTH: 
+56:16
+
+TRACKS: 
+01. Learn to Fly
+02. Have It All
+03. Breakout
+04. For All The Cows
+05. Stacked Actors
+06. Into The Void (jam)
+07. Low
+08. Monkey Wrench
+09. Tired Of You
+10. Everlong
+
+MD5 CHECKSUMS: 
+50a1e3ccf7049ae74a0b8ceee848763d *01. Learn To Fly.flac
+5ea6d052162289f94a717a946ca2fd42 *02. Have It All.flac
+4a73ca5bfaa53d333054170a64ae8135 *03. Breakout.flac
+b298a2bbf73762500e1e5b03e36037f0 *04. For All The Cows.flac
+2f8573e07ab7f2e8bb7b7f3b735d2521 *05. Stacked Actors.flac
+52ad708caaad6b392d2e4a99a61b0210 *06. Into The Void (jam).flac
+ffa0317dfae97b1b28dbff69c1dc8be5 *07. Low.flac
+3663a7733fa1aab998972ce6dfcffd65 *08. Monkey Wrench.flac
+736acb8b5bc12954bd00f6bb0a7dd52c *09. Tired Of You.flac
+a0822b4f11ddcdfb8f3ddfedfa52c322 *10. Everlong.flac
+
+TRANSFERRED BY: 
+unknown

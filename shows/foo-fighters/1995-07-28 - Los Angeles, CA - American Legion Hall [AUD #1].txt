@@ -1,0 +1,60 @@
+Foo Fighters
+July 28th, 1995
+American Legion Hall
+Los Angeles, CA
+
+SOURCE (AUD #1):
+unknown > unknown
+
+EXTRACTION:
+Exact Audio Copy 0.99 > Trader's Little Helper 2.7.0
+
+GENERATION:
+CD(M) > WAV [44.1khz] > FLAC [Level 8]
+
+LENGTH:
+66:26
+
+NOTES:
+- Commercial bootleg 'Good Grief'.
+
+TRACKS:
+01. Alone + Easy Target 
+02. Winnebago 
+03. Wattershed 
+04. Big Me 
+05. This Is A Call
+06. Weenie Beenie 
+07. For All The Cows 
+08. Butterflies 
+09. I'll Stick Around
+10. X-Static 
+11. My Hero 
+12. Good Grief 
+13. Podunk 
+14. Exhausted
+15. Floaty
+16. Down In The Park
+
+MD5 FINGERPRINTS:
+4335b9a1f87995d05ddae7a4915d804e *FooFighters1995-07-28t01.flac
+81fc8f1ad66efca4123a446779e4c4ce *FooFighters1995-07-28t02.flac
+a9a262c98c0709b70cddb53cce188081 *FooFighters1995-07-28t03.flac
+ae5e57001fd21661d6577a425c379d68 *FooFighters1995-07-28t04.flac
+2ba5027e6a0d7a3febb3c480eb355d7e *FooFighters1995-07-28t05.flac
+039b30fbd5ceb8d747eff68e0eaa3e19 *FooFighters1995-07-28t06.flac
+3b633a80703fc70aa940e874711b61c4 *FooFighters1995-07-28t07.flac
+c572b8ce2abc388ce4e1f2403caabc5f *FooFighters1995-07-28t08.flac
+e366f11d8ffb438155fdca876195d46a *FooFighters1995-07-28t09.flac
+07d9c8e3cecbe9a07425f80c2f6201bc *FooFighters1995-07-28t10.flac
+decbd4e95bbca041c7a6f3053854a9a0 *FooFighters1995-07-28t11.flac
+d7c2b66f12eabb34fe7069acc8e43d3e *FooFighters1995-07-28t12.flac
+67157154a92832ef3f18cddf56c2c221 *FooFighters1995-07-28t13.flac
+b830a6fa0952cd8c4e1f9123f7ccd664 *FooFighters1995-07-28t14.flac
+6d40c4b26df17ad7cac3f08041f6e2f0 *FooFighters1995-07-28t15.flac
+9720f776a42dbff6223f57cb4b777c34 *FooFighters1995-07-28t16.flac
+
+EXTRACTED BY:
+Unknown
+
+**PLEASE DO NOT ENCODE TO LOSSY FORMATS OR SELL!**

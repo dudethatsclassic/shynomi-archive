@@ -1,0 +1,61 @@
+Foo Fighters
+December 1st, 1995
+Roseland Ballroom
+New York, NY
+
+SOURCE (AUD #2):
+unknown > unknown (MiniDisc)
+
+TRANSFER:
+unknown > Adobe Audition CS6 > CDWave 1.98 > Trader's Little Helper 2.7.0
+
+GENERATION:
+MD(M) > CDR(x) > WAV [44.1khz] > FLAC [Level 8]
+
+LENGTH:
+71:29
+
+TRACKS:
+01. Enough Space
+02. This is a Call
+03. Winnebego
+04. Wattershed
+05. For All The Cows
+06. Weenie Beenie
+07. Butterflies
+08. Big Me
+09. I'll Stick Around
+10. Oh, George
+11. Good Grief
+12. How I Miss You
+13. Alone + Easy Target 
+14. Exhausted
+15. jam
+16. Floaty
+17. Up in Arms
+18. Gas Chamber
+
+MD5 FINGERPRINTS:
+ff65eaa22e21bf22e939983bd96a34ab *FooFighters1995-12-01t01.flac
+2f45ef81c6292e37cf61b998e184cca3 *FooFighters1995-12-01t02.flac
+2a6cf1d8b56ff36b246eae3badebcb1f *FooFighters1995-12-01t03.flac
+d48213d90bdadb17aedb0927466b2f5a *FooFighters1995-12-01t04.flac
+dce648ee9ed75102855de7e47bf1076a *FooFighters1995-12-01t05.flac
+ab72c3696c1c59142b46e2cdeda6c27b *FooFighters1995-12-01t06.flac
+1221a5bb7ce1ffd882d9b48b5ae1f7e0 *FooFighters1995-12-01t07.flac
+dab38a57b509c7f8167b522595796780 *FooFighters1995-12-01t08.flac
+22babc72dbf6401e8facd67a479d3b8a *FooFighters1995-12-01t09.flac
+105fd08ccc31863813eea3676e9d3797 *FooFighters1995-12-01t10.flac
+aa3110d58207393f0a726849025bad4b *FooFighters1995-12-01t11.flac
+7d92ca5c73bf96a3dcdaa3ec0dbc2ab7 *FooFighters1995-12-01t12.flac
+64d12c7ab8c2095039c67809245c6bb0 *FooFighters1995-12-01t13.flac
+28d35389dbaccd862e05bfe196b588d3 *FooFighters1995-12-01t14.flac
+6cc5898d006c10a42d0c199ba9ddeb6c *FooFighters1995-12-01t15.flac
+d7404670a6ea65a5512664d98563a696 *FooFighters1995-12-01t16.flac
+0ff2f6920e123cc5bafaef077f546f50 *FooFighters1995-12-01t17.flac
+80d885aede7241adc8ec94e9c76b1d8e *FooFighters1995-12-01t18.flac
+
+TRANSFERRED BY:
+Unknown
+
+**PLEASE DO NOT ENCODE TO LOSSY FORMATS OR SELL!**

@@ -1,0 +1,54 @@
+Artist: Foo Fighters
+Title: Late Show with David Letterman 
+Performance Date: October 17, 2014
+Broadcast Date: October 17, 2014
+Venue: Ed Sullivan Theater
+Location: New York City, New York
+
+Source History of this DVD:
+  CBS-HD broadcast > Hauppauge WinTV-HVR 2250 > VideoRedo > .ts 
+
+-----------------------
+ Program Information
+-----------------------
+File Name: Foo Fighters 2014-10-17 Late Show with David Letterman (1080i).ts
+ Size: 1.148 GB
+ Duration: 00:06:30.00
+ Mux type: TS Stream
+ TS mux rate: 19.218 Mbps
+
+Video:                                
+ Encoding: MPEG2
+ VideoStreamID: x245
+ Frame rate: 29.97 fps
+ Encoding size: 1920 x 1080
+ Aspect ratio: 16:9
+ Header bit rate: 65.000 Mbps
+ VBV buffer: 976 KBytes
+ Profile: Main@High
+ Progressive:  Prog or Int
+ Chroma: 4:2:0
+ Bit rate: 12.561 Mbps
+
+Audio Stream: 1 (Primary)
+ Codec: AC3
+ Channels: 5.1
+ Language: eng
+ PID: x246
+ PES Stream Id: xBD
+ Bit rate: 384 Kbps
+ Sampling rate: 48000
+ Sample size: 16 bits
+
+---------------------
+ Tracklist:
+---------------------
+ 01. (00:00) Foo Fighters - Top 10 List
+ 02. (05:23) Foo Fighters & Rick Nielsen - Something From Nothing
+
+Checksum:
+b940255bd422610324c67c7a3166b254 *Foo Fighters 2014-10-17 Late Show with David Letterman (1080i).ts
+
+
+
+

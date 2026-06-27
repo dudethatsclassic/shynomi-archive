@@ -1,0 +1,10 @@
+Foo Fighters - 1996 05 15 Late Night with David Letterman, NYC
+
+Show Note:
+Late Show with David Letterman, video here: https://www.youtube.com/watch?v=dR8oHrksoXo
+
+1 intro
+2 Monkeywrench
+3 outro
+
+Lineage: TV Broadcast > 1st gen tape > Tascam 202MKVII > USB > CDWAV > Audacity for fades, normalization, noise reduction > CDWAVE (SPLITS) > FLAC [loughney xfer]

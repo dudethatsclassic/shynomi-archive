@@ -1,0 +1,63 @@
+Foo Fighters
+December 6th, 2005
+Rod Laver Arena
+Melbourne, Australia
+
+SOURCE (AUD #1):
+Sound Pro SP-CMC-10 > Sound Pro SP-SPSB-6 > iRiver H140 (Flash Recorder)
+
+TRANSFER:
+iRiver H140 > USB > Adobe Audition > CD Wave 1.98 > Trader's Little Helper 2.7.0
+
+GENERATION:
+WAV(M) [44.1khz/16-bit] > FLAC [Level 8]
+
+LENGTH:
+104:15
+
+TRACKS:
+01. In Your Honor
+02. No Way Back
+03. Generator
+04. My Hero
+05. Best Of You
+06. Up In Arms (jam)
+07. Up In Arms
+08. Learn To Fly
+09. The One
+10. Stairway To Heaven (jam)
+11. Stacked Actors
+12. Big Me
+13. DOA
+14. Times Like These
+15. Breakout
+16. Everlong
+17. Monkey Wrench
+18. This Is A Call
+19. Cold Day In The Sun
+20. All My Life
+
+MD5 FINGERPRINTS:
+515e1882d3710cffabe91b644bda3ccd *01. In Your Honor.flac
+4b1642a4ea839f08b073c18b817a8769 *02. No Way Back.flac
+9a850edcff67bae621395220076b2fc4 *03. Generator.flac
+8e7195ddd64cdad5657e6a372a0c988c *04. My Hero.flac
+a4255fe62c2d1e73d5d800e1ec88e033 *05. Best Of You.flac
+2856c8cb791316d322ea4508396b17db *06. Up In Arms (jam).flac
+66c11428c86dc312fdcd674dacee677c *07. Up In Arms.flac
+986e10eaf46cb31d1057aeb30df542cc *08. Learn To Fly.flac
+be6f7b01136d189ade40562b3cc00dab *09. The One.flac
+ee9f32a6bb09e7d6052e1bc65f420e1f *10. Stairway To Heaven.flac
+6619d80725f2c284cfa0b798a6443ef3 *11. Stacked Actors.flac
+fb7efcc8601e12a261f1ecefd94b0258 *12. Big Me.flac
+ba67fe043aed6c42b42c121743a1b37e *13. DOA.flac
+b67f03ad4a73df055cf6e9bfca869161 *14. Times Like These.flac
+bcadc2effdce95b93bc6b032673c33b2 *15. Breakout.flac
+eade6e4d41c01f1027b27b23dbd8bff4 *16. Everlong.flac
+111bd4afe9964c3b8c4213662069a9d5 *17. Monkey Wrench.flac
+688d5ab30c19ae3ccf96881dbe550de2 *18. This Is A Call.flac
+aa22ee3998f54c3979d9a8f71baf5cf1 *19. Cold Day In The Sun.flac
+79c73c60c8e385d009f9e97466bec80a *20. All My Life.flac
+
+RECORDED AND TRANSFERRED BY:
+whatboutbob

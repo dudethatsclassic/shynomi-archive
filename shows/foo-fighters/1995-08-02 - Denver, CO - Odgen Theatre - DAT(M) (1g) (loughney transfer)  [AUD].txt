@@ -1,0 +1,26 @@
+Foo Fighters - 1995-08-02 Ogden Theatre, Denver, CO
+
+"This requires alternative tuning. Uncomfortable pause."
+
+I'm transferring all of my tapes.  I have a lot of early Foo Fighters tapes, all were recieved shortly after the shows - so mostly low-gen, no MP3 or compression.  Quality is mixed, and probably most of these are circulating. I'm transferring everything and sharing them in case I have something rare / unique, etc.  If you already have a digital copy of a show, you might want to check before you download. I'm providing samples.
+
+Notes:
+Sound is a bit distant, but not a lot of crowd noise. Tape flip caused a small cut in Exhausted. Sounds like the same source as https://www.youtube.com/watch?v=zsywY5dDpCw
+
+1 intro
+2 Winnebago
+3 I'll Stick Around
+4 Butterflies
+5 Wattershed
+6 Big Me
+7 This Is A Call
+8 Weenie Beenie
+9 For All the Cows
+10 My Hero
+11 X-Static
+12 Podunk
+13 Alone + Easy Target
+14 Exhausted
+15 Down in the Park
+
+Lineage: DAT Audience Master > 1st gen tape > Tascam 202MKVII > USB > CDWAV > Audacity for fades, normalization, noise reduction > CDWAVE (SPLITS) > FLAC [loughney xfer]

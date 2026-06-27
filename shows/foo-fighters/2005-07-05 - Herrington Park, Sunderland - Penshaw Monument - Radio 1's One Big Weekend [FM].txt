@@ -1,0 +1,31 @@
+
+Foo Fighters
+Radio 1's One Big Weekend - Penshaw Monument, Herrington Park, Sunderland
+Broadcast 7-9PM 7th May 2005 BBC Radio 1
+http://www.bbc.co.uk/radio1/bigweekend05/onair.shtml
+
+Lineage: FM (Sony STRDB1070) > Creative SBLive! > Creative Recorder > Nero Wave Editor > Flac Frontend FLAC 8
+
+01 Intro
+02 Everlong
+03 Monkey Wrench
+04 My Hero
+05 Learn To Fly
+06 "This is the last song" **NEW**
+07 Times Like These
+08 End Over End **NEW**
+09 All My Life
+10 Outro
+
+41m30s
+ 
+6fd21d44f0fb9b412e553a2ce0089f45|01 Intro.flac
+ce079b131a8f3d876c8cd15562c53e03|02 Everlong.flac
+a9e2daa00e600c4b3c2cb0129b15e635|03 Monkey Wrench.flac
+3eca9604eb9313b212964fdffbd61cab|04 My Hero.flac
+cd0d4242a25716a4fafc5267ac87ee34|05 Learn To Fly.flac
+b6bcb7eab73d069bc83ebbf3e34bd4d5|06 The Last Song (New Song).flac
+933bab53dde1b259322e8963e42b71e0|07 Times Like These.flac
+f8ec92208d724ac152ccd7eeff8a5196|08 End Over End (New Song).flac
+42dab462596a5b4d7f30448eb5250448|09 All My Life.flac
+8215dc53b55fdf5964b26deff17b0540|10 Outro.flac

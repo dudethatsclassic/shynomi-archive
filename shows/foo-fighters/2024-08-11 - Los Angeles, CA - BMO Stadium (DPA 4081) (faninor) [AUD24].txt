@@ -1,0 +1,50 @@
+Foo Fighters
+2024-08-11
+BMO Stadium
+Los Angeles, CA, USA
+
+-- Main Source --
+DPA 4081 > MMA-A > 24bit/48kHz
+
+-- Alternate Source --
+Sp-CMC-4U > A10 [recorded by ijwthstd]
+
+-- Processing --
+iZotope RX (editing) > Audition (mixing) > iZotope RX (mastering) > CD Wave (tracking) > Trader's Little Helper (encoding)
+
+-- Setlist --
+01 - The Teacher
+02 - All My Life
+03 - No Son of Mine/Dirty Deeds/Enter Sandman
+04 - The Pretender
+05 - Walk
+06 - Times Like These
+07 - White Limo
+08 - Stacked Actors
+09 - Breakout
+10 - Crazy Train/Eruption/Thunderstruck/Sabotage/Keyboard Solo/Blitzkrieg Bop/March of the Pigs
+11 - My Hero
+12 - Bridge Burning
+13 - The Sky Is a Neighborhood
+14 - Learn to Fly
+15 - Arlandria
+16 - These Days
+17 - Statues
+18 - Ballad of the Beaconsfield Miners
+19 - Under You
+20 - Nothing At All/Blackbird
+21 - This Is a Call
+22 - Show Me How
+23 - Monkey Wrench
+24 - Aurora
+25 - Best of You
+26 - encore
+27 - I'll Stick Around
+28 - Everlong
+
+-- Notes --
+Alex G and The Pretenders opened. Violet Grohl joins on vocals for Show Me How. Shane Hawkins joins on drums for I'll Stick Around. My audio recording stopped part way through Best of You. The remainder of the show uses ijwthstd's recording.
+
+Length: 2h52m40s
+
+-- faninor -- 2024-08-22 --

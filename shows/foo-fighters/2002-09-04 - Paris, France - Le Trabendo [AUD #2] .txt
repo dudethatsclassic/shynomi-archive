@@ -1,0 +1,66 @@
+FOO FIGHTERS
+September 04, 2002
+Le Trabendo,
+Paris, France
+
+DISC #1/2 (82:07)
+-----------------
+01. All My Life
+02. Breakout
+03. My Hero
+04. Generator
+05. Times Like These
+06. For All The Cows
+07. Stacked Actors
+08. Enough Space
+09. Learn To Fly
+10. Disenchanted Lullaby
+11. Have It All
+12. This Is A Call
+13. New Way Home
+14. Monkeywrench
+
+DISC #2/2 (10:37)
+-----------------
+01. Tired Of You
+02. Low
+03. Everlong
+
+GENERATION
+-----------------
+DAT(M) -> WAV [32kHz] -> WAV [44.1kHz] -> FLAC [Level 8]
+
+SOURCE (AUD #2)
+-----------------
+Sony ECM-717 -> Sony TCD-D8
+
+TRANSFER
+-----------------
+Tascam DA-20 MKII -> Viablue S/PDIF cable -> M-Audio Delta Audiophile 192 digital-in -> Adobe Audition 3.0 -> CD Wave 1.98 -> FLAC Frontend 1.7.1
+
+NOTES
+-----------------
+- thanks to SYV for letting me transfer his master
+
+MD5 FINGERPRINTS
+-----------------
+530d17d2100441340a66a6c71d6d39e0 *foofighters_2002-09-04_aud2_datm_d1t01.flac
+ed090a441f6b0cd3b51c0797d7402352 *foofighters_2002-09-04_aud2_datm_d1t02.flac
+18a95e20803eb60699f275391c2117e4 *foofighters_2002-09-04_aud2_datm_d1t03.flac
+769cd694e0e130fe6ecd341dca6c70f0 *foofighters_2002-09-04_aud2_datm_d1t04.flac
+90d6cc35e0b6c74c584aa99e758cf13b *foofighters_2002-09-04_aud2_datm_d1t05.flac
+f68f6f8f41e603fcc64fe24473b748cc *foofighters_2002-09-04_aud2_datm_d1t06.flac
+d9b1aca0b7a55084db9f724c7dbc9db7 *foofighters_2002-09-04_aud2_datm_d1t07.flac
+fba39c120b4837ef93f02ed8629436d0 *foofighters_2002-09-04_aud2_datm_d1t08.flac
+76bedee9ab069877e5f3c22f6b329e83 *foofighters_2002-09-04_aud2_datm_d1t09.flac
+c4fc3411e7e7790f22e0e74526eae99f *foofighters_2002-09-04_aud2_datm_d1t10.flac
+1e82f4de79cf7e1678c58b02bc674a75 *foofighters_2002-09-04_aud2_datm_d1t11.flac
+a5d552845f6a5e0928494e99922c7525 *foofighters_2002-09-04_aud2_datm_d1t12.flac
+bbcb582a68a3ef442e52dc30f21907a8 *foofighters_2002-09-04_aud2_datm_d1t13.flac
+aeec92134ec60f23e30ccdb7aa1e98cf *foofighters_2002-09-04_aud2_datm_d1t14.flac
+a91fa4a2cbc1da81a438c4af8928edaa *foofighters_2002-09-04_aud2_datm_d2t01.flac
+140a8f106ffaa732efcf8e30b3424c42 *foofighters_2002-09-04_aud2_datm_d2t02.flac
+4283cf9f2494c678bce6b2947212b2a6 *foofighters_2002-09-04_aud2_datm_d2t03.flac
+
+Transferred by Pierre Leroy
+PLEASE DO NOT ENCODE TO MP3 OR SELL! 

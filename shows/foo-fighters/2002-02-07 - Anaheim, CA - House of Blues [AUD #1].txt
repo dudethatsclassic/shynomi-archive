@@ -1,0 +1,62 @@
+FOO FIGHTERS
+February 7th, 2002
+House Of Blues
+Anaheim, CA
+
+SOURCE (AUD #1):
+Sanken COS-11sBP > Sony TCD-D100 (DAT)
+
+TRANSFER:
+unknown > dEDIT > mkwACT > FLAC Frontend 1.7.1
+
+GENERATION:
+DAT(M) > WAV [48khz] > WAV [44.1khz] > FLAC [Level 8]
+
+LENGTH:
+91:35
+
+NOTES:
+- Encore break is cut, fades out and back in.
+- First ever performances of 'All My Life', 'Come Back' 'Overdrive' and 'Tired of You'.
+
+TRACKS:
+01. The One
+02. My Hero
+03. Generator
+04. Up In Arms
+05. All My Life
+06. Learn To Fly
+07. Aurora
+08. Stacked Actors
+09. Come Back
+10. I'll Stick Around
+11. Hey, Johnny Park!
+12. Overdrive
+13. Monkey Wrench
+14. Breakout
+15. Tired Of You
+16. Everlong
+17. M.I.A.
+18. This Is A Call
+
+MD5 FINGERPRINTS:
+c1d10e8c1f9e4d7398681e296145479c *FF2002-02-07t01.flac
+918ad413b4758d9eb23e74ea518ec182 *FF2002-02-07t02.flac
+1e1ba02270f9e8cd7f4c580a41626eb0 *FF2002-02-07t03.flac
+f26ab773b02a43fe8343598a51f0255f *FF2002-02-07t04.flac
+f929fb73fb455c855269f5e6c1262e1a *FF2002-02-07t05.flac
+d9629b5e505ce3ecfc96f8f383190aef *FF2002-02-07t06.flac
+df13234cdfb836d58e63fc99fe15c862 *FF2002-02-07t07.flac
+a4a92be6bbd12211b33adfa097790cf1 *FF2002-02-07t08.flac
+e84329743d1b37299e253f94dffeed67 *FF2002-02-07t09.flac
+ee8ddf41fbd5504ca6527c3778824cda *FF2002-02-07t10.flac
+9bbb7fea4e2cdc5e2ccb42276c56ce0d *FF2002-02-07t11.flac
+3e8ee2d66488fa4affe1d11e9ddb642a *FF2002-02-07t12.flac
+91bb2619e7bcc62be015a8a382a96dd5 *FF2002-02-07t13.flac
+34008445b83d99dbee73738d2ff8448c *FF2002-02-07t14.flac
+bc849761d8fbef43102bbff848240972 *FF2002-02-07t15.flac
+0cb59231f9efe80bc330eddc9910c86b *FF2002-02-07t16.flac
+cd1d4b4b2e3d3f2e7515eaea77e15ad5 *FF2002-02-07t17.flac
+312e9ed6fb964aa50932e65f021c2037 *FF2002-02-07t18.flac
+
+**PLEASE DO NOT ENCODE TO LOSSY FORMATS OR SELL!!**

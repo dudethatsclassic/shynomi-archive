@@ -1,0 +1,58 @@
+FOO FIGHTERS
+April 25th 2000
+Civic Arena
+Omaha, NE
+
+SOURCE (AUD #1):
+Audio Technica 831s > Sony MZ-R55 (Minidisc)
+
+EXTRACTION:
+Rubyripper > FLAC.exe
+
+GENERATION:
+MD(M) > CDR(2) > WAV [44.1khz] > FLAC [Level 8]
+
+LENGTH:
+55:45
+
+NOTES:
+- Dave stops playing in the middle of several songs to check the crowd is ok.
+- Only half of 'Alone + Easy Target' is played, the breakdown was merged straight into 'Everlong'.
+- 'The riffs of 'Ain't Talking Bout Love' and 'Enter Sandman' are very brielfy jammed on by Dave before the 'Sweet Home Alabama' jam.
+
+TRACKS:
+01. Monkey Wrench
+02. Learn To Fly
+03. My Hero
+04. For All The Cows (jam)
+05. For All The Cows
+06. Breakout
+07. Big Me
+08. Stacked Actors
+09. I'll Stick Around
+10. jam
+11. Alone + Easy Target (part of)
+12. Everlong
+13. Sweet Home Alabama (jam)
+14. This Is A Call
+
+MD5 FINGERPRINTS:
+4f56c1fb5536175160ee36f8d8c53ed5 *FooFighters2000-04-25t01.flac
+86df17f94b3dadad5e0af270f22a4b47 *FooFighters2000-04-25t02.flac
+11f7f886f876a6a321628d87708e4b74 *FooFighters2000-04-25t03.flac
+fa5aab6dce68bb1529812620b71b4972 *FooFighters2000-04-25t04.flac
+3e184e4e989f03685ea78208cb697530 *FooFighters2000-04-25t05.flac
+788e7bdaa3c513d1f4029d0dbbdabd26 *FooFighters2000-04-25t06.flac
+a234282fe09bd3dcd4a8f70537814ee4 *FooFighters2000-04-25t07.flac
+af206262dbc1712496fb61af2c78adf6 *FooFighters2000-04-25t08.flac
+b1b4cfa18ff36b46af2f9774c91637fd *FooFighters2000-04-25t09.flac
+1fccc7a8e855ab094bf456f1ae695525 *FooFighters2000-04-25t10.flac
+0e12c18139435503c868877a3fcec099 *FooFighters2000-04-25t11.flac
+7b3f1aa102bc5eccfb51006a699c82af *FooFighters2000-04-25t12.flac
+e29ad58c46b53103e4bfb8565d970aa8 *FooFighters2000-04-25t13.flac
+bfad9dabb7c0ede0c04b361bb5fa70cb *FooFighters2000-04-25t14.flac
+
+TRANSFERRED BY:
+Unknown
+
+**PLEASE DO NOT ENCODE TO LOSSY FORMATS OR SELL!**

@@ -1,0 +1,29 @@
+FOO FIGHTERS
+April 26, 2000
+Carver-Hawkeye Arena
+Iowa City, IA
+
+Source: Core Sound Cardioid > Sony TCD-D8
+Location: Sec. CC row 28
+Taper: unknown
+Lineage: DAT(M) > DAT(1) > CDR(1) > WAV [44.1] > FLAC
+Transfer: Tascam DA-20mkII > Sony CDR-W33
+Edits/EQ: none
+Notes: opening for Red Hot Chili Peppers
+
+01 - Monkeywrench
+02 - Learn to Fly
+03 - My Hero
+04 - For All the Cows
+05 - Breakout
+06 - Big Me
+07 - Stacked Actors
+08 - Aurora
+09 - I'll Stick Around
+10 - Alone + Easy Target
+11 - Everlong
+12 - This is a Call
+
+
+Compiled October 2018 by CPS
+Seeded October 2018 to dimeadozen.org by CPS

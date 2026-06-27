@@ -1,0 +1,61 @@
+FOO FIGHTERS
+October 18, 1995
+Pakhus 11,
+Copenhagen, Denmark
+
+DISC #1/1 (61:45)
+-----------------
+01. Enough Space
+02. This Is A Call
+03. Winnebago
+04. Wattershed
+05. For All The Cows
+06. Weenie Beenie
+07. Butterflies
+08. Big Me
+09. I'll Stick Around
+10. Oh, George
+11. Good Grief
+12. Podunk
+13. Alone + Easy Target
+14. Exhausted
+15. Floaty
+16. My Hero
+17. Gas Chamber
+
+GENERATION
+-----------------
+DAT(M) -> DAT(1) -> WAV [48kHz] -> WAV [44.1kHz] -> FLAC [Level 8]
+
+SOURCE (AUD #1)
+----------------- 
+Sony ECM-140 > Denon DTR-80P
+
+TRANSFER
+-----------------
+Tascam DA-20 MKII -> Apogee S/PDIF cable -> LynxONE digital-in -> Adobe Audition 2.0 -> CD Wave 1.98 -> FLAC Frontend 1.7.1
+
+MD5 FINGERPRINTS
+-----------------
+2c33b9f86a0417a40cd0c814aed22c5a *foofighters_1995-10-18_aud1_dat1_d1t01.flac
+52f169b8cad2bec5a7e6c08f17922289 *foofighters_1995-10-18_aud1_dat1_d1t02.flac
+479ac9f29e94be112fab761c94779916 *foofighters_1995-10-18_aud1_dat1_d1t03.flac
+b6b78fa5416b16b8e2acc6a5e7875e5b *foofighters_1995-10-18_aud1_dat1_d1t04.flac
+e43f15b8a35fe44073e62e08efd655a8 *foofighters_1995-10-18_aud1_dat1_d1t05.flac
+443dad60f256de12c03cbe999e05cc70 *foofighters_1995-10-18_aud1_dat1_d1t06.flac
+929b1c75446dfb4d4221efa8a4295e09 *foofighters_1995-10-18_aud1_dat1_d1t07.flac
+9e2bf86a5a6b2ccb358fb61f8a600824 *foofighters_1995-10-18_aud1_dat1_d1t08.flac
+b873ef213ea7bd92b6982c9f23d27cd6 *foofighters_1995-10-18_aud1_dat1_d1t09.flac
+edfc05f5d7cbea6df8c6fc1bd1d912f2 *foofighters_1995-10-18_aud1_dat1_d1t10.flac
+e95b304e72d1d26ca4f7e1764d498d8d *foofighters_1995-10-18_aud1_dat1_d1t11.flac
+fc1ca27b8ec3b7749d1cb3fc8f21645b *foofighters_1995-10-18_aud1_dat1_d1t12.flac
+2c6f18f2617067beb302e8078e1daa7b *foofighters_1995-10-18_aud1_dat1_d1t13.flac
+9e1fa04b37ecb262617f19551f7faaa0 *foofighters_1995-10-18_aud1_dat1_d1t14.flac
+9295ad8205836194b0ff2c86c873958d *foofighters_1995-10-18_aud1_dat1_d1t15.flac
+3d7b09e2ed5092f89113989c0198d5ba *foofighters_1995-10-18_aud1_dat1_d1t16.flac
+903df5b8b44d3fcd3c156941da6fb1b9 *foofighters_1995-10-18_aud1_dat1_d1t17.flac
+
+
+
+Transferred by Mike Ziegler.
+PLEASE DO NOT ENCODE TO MP3 OR SELL!

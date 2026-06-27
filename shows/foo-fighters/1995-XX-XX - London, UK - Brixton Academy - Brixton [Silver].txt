@@ -1,0 +1,19 @@
+auCDtect: CD records authenticity detector, version 0.8.2
+Copyright (c) 2004 Oleg Berngardt. All rights reserved.
+Copyright (c) 2004 Alexander Djourik. All rights reserved.
+
+Detect mode (0..40 with 0 = most accurate):  8 (default)
+
+
+------------------------------------------------------------
+[d1t07.Foo Fighters-Ill stick around.wav]
+Detected average hi-boundary frequency: 2.041469e+004 Hz
+Detected average lo-boundary frequency: 1.426089e+004 Hz
+Detected average hi-cut frequency: 2.094997e+004 Hz
+Detected average lo-cut frequency: 1.631493e+004 Hz
+Maximum probablis boundary frequency: 2.191300e+004 Hz
+Coefficient of nonlinearity of a phase: 3.995388e-001
+First order smothness: 3.942652e-001
+Second order smothness: 8.530466e-001
+------------------------------------------------------------
+This track looks like CDDA with probability 87%.

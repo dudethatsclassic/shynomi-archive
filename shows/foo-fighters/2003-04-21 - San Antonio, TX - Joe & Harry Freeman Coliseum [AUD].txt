@@ -1,0 +1,62 @@
+FOO FIGHTERS
+2003-04-21
+San Antonio, Texas
+Joe & Harry Freeman Coliseum
+
+Source:		AT 853>Sound Professional Battery Box>Nomad Jukebox 3 @ 48k
+Taper:		DaveTV		(roio420@hotmail.com)
+Location:		Floor, in front of soundboard, see picture FF_2003_SAN_ANTONIO_2163.jpg
+
+Conversion:	Nomad JB3>1394 FireWire>CDWave (WAV splitter)>MKW Audio Compression Tool
+
+	************************************************************************
+	************************************************************************
+	***DO NOT ALTER THESE FILES IN ANY WAY!!!  ie - NO MP3!****
+	************************************************************************
+	************************************************************************
+
+01)	All My Life	5:32
+02)	The One		2:40
+03)	My Hero		5:40
+04)	Breakout		5:31
+05)	Times Like These	4:40
+06)	Up In Arms	4:12
+07)	Have It All	8:35
+08)	Enough Space	4:27
+09)	Stacked Actors	12:32
+10)	Low		5:05
+11)	Hey, Johnny Park!	4:20
+12)	Monkey Wrench	5:57
+13)	Tired Of You	7:55
+14)	This Is A Call	7:38
+15)	Learn To Fly	4:28
+16)	Gas Chamber	2:03
+17)	Weenie Beenie	3:14
+18)	Everlong		5:10
+
+TRT:	1:39:39
+
+NO MP3's muthafugga
+
+SHN?! WTF?!
+You jumped on the MP3 bandwagon didnt you? Shame on you.
+
+SHN is the file extension for an audio compression named Shorten. SHN's can compress WAV's without loosing any frequencies. Also it has no gap in between tracks, which is nice. 
+
+In retrospect -
+
+MP3's = Lossy
+
+SHN's = Lossless 
+
+There are also other lossless formats including Ape, WavPac, RKAU and Flac.
+
+
+SHNs suck! They are so large, who cares about little frequencies?!
+Obviously we do! And we care for you.....You see Johnny, due to the compression, which leaves certain sounds out, the ears would become lazy and degrade. 
+
+Unlike with compression and decompression of computer programs (e.g. ZIP), that is to say, during lossy data compression (data reduction) the original signal is not reconstructed 1:1, but to reduce the data amount, only control signals for a synthesizer programs (called CODEC) get recorded, those are optimized in a way that during rendition the CODEC can reconstruct from these an approximation of the original picture or sound signal that appears as similar as possible for the human conscious perception, but is not identical to the original signal. The danger of this exploitation of human perception flaws is that especially by lossy audio data compression sound portions get destroyed those, although the brain would not pass them to the conscious awareness, are likely necessary for the human hearing's own perpetual calibration. 
+
+Possible consequences of intensive consumption of datareduced audio material could therefore include ear noises (tinitus), a general degradation of the perception of quiet sounds, as well as a worsened timbre perception (a so-called "tin ear"), which would make the human of the cyberage even more insensitive than he already yet has become by the continuous mass media infotrash bombardment he is exposed to. Actually it is still unclear whether the consequences of such maladjustments are only temporary (similarly like seeing the world in green/ red discoloured after taking off red/ green 3D glasses) or if the continuous consumption of neuroacoustically datareduced sounds can lead to long lasting or even permanent damage. *** 
+
+So you see the reason we prohibit MP3 is for your safety.

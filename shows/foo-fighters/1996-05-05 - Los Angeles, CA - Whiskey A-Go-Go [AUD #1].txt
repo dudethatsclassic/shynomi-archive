@@ -1,0 +1,53 @@
+FOO FIGHTERS
+May 5, 1996
+Whiskey A Go-Go (KLOS Free Show)
+Los Angeles, CA
+
+SOURCE (AUD#1):
+unknown > unknown
+
+GENERATION:
+DAT(1) > CDR(x) > WAV [44.1kHz] > FLAC [Level 8]
+
+LENGTH:
+63:45
+
+TRACKS:
+01) intro
+02) This Is A Call
+03) Enough Space
+04) Winnebago
+05) Wattershed
+06) Up In Arms (slow version)
+07) Good Grief
+08) Alone + Easy Target
+09) For All The Cows
+10) Butterflies
+11) Big Me
+12) Gas Chamber
+13) My Poor Brain
+14) Weenie Beenie
+15) Podunk
+16) How I Miss You
+17) I'll Stick Around
+
+MD5 FINGERPRINTS:
+a13d71120fc8890840058d88792cee60 *foofighters1996-05-05t01.flac
+a6bcd9fdd19020f36fcf3c60662eb1a8 *foofighters1996-05-05t02.flac
+8d56a0636f2d87d92133502db8fc686b *foofighters1996-05-05t03.flac
+e85ccd5d486993038e85af11d83cc185 *foofighters1996-05-05t04.flac
+073b2aa433d99d476b93a696e01d6614 *foofighters1996-05-05t05.flac
+c0330822b01a9d31e55b1af7284de4b5 *foofighters1996-05-05t06.flac
+3dc76fdcd853a43a7bcb50631a7fe9ae *foofighters1996-05-05t07.flac
+b7a4b20df0af08b2fc7bc5ab87103947 *foofighters1996-05-05t08.flac
+7023ad2fe11a6fbde0c095a337827573 *foofighters1996-05-05t09.flac
+02e88af80c684c68a35b49c7882854c6 *foofighters1996-05-05t10.flac
+bd92757d2e6e78a7f1f37031a72b8d16 *foofighters1996-05-05t11.flac
+d99447608f3bcdf023004d9cc8a205f1 *foofighters1996-05-05t12.flac
+8afa65d12ab5e0574610b34003569b5c *foofighters1996-05-05t13.flac
+6bab5af29d84e84eb1f078b6e22ec366 *foofighters1996-05-05t14.flac
+0cbee9c59220c71b9841cea008a13eff *foofighters1996-05-05t15.flac
+5b4e693faa39fc24c0d65aa20b1f74db *foofighters1996-05-05t16.flac
+be366c4938aa2a72bc5d1ac0fb857512 *foofighters1996-05-05t17.flac
+
+***PLEASE DO NOT SELL OR ENCODE TO MP3***

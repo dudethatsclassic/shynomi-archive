@@ -1,0 +1,137 @@
+Foo Fighters
+
+Black Cat
+Washington, District Of Columbia
+October 24th, 2014
+
+Taper: @mistacabbage
+Location: Mics taped to my shoulders standing to the left of the soundboard
+Source: Church Audio 14’s > PA-6LC3B (roll off @ 65Khz) > Mic In > Sony PCM-M10 > .wav @ 96 kHz / 24 bit
+Lineage: .wav > USB > Amadeus Pro 2.1.7 (1576) > FLAC 8
+Notes:  Piss break during All My Life
+
+Setlist:
+01 - Something From Nothing				[05:58]
+02 > The Pretender					[07:08]
+03 > New Way Home					[05:39]
+04 - Up In Arms						[05:11]
+05 > I’ll Stick Around					[03:34]
+06 - My Hero						[07:52]
+07 - Learn To Fly					[05:01]
+08 > White Limo						[03:43]
+09 > Arlandria						[09:30]
+10 - Cold Day In The Sun				[05:18]
+11 - Stiff Competition [Cheap Trick]			[05:05]
+12 - Breakdown [Tom Petty And The Heartbreakers]	[06:56]
+13 - Miss You [The Rolling Stones]			[05:16]
+14 - Under Pressure [Queen & David Bowie]		[07:03]
+15 - Ain't Talkin' 'bout Love [Van Halen]		[04:10]
+16 > All My Life					[06:00]
+17 - Aurora						[09:50]
+18 - Generator						[03:59]
+19 > Walk						[07:27]
+20 - Monkey Wrench					[14:03]
+21 - Hey, Johnny Park!					[05:27]
+22 - Times Like These					[05:17]
+23 - This Is A Call
+   > Eye Of The Tiger (tease) [Survivor]
+   > This Is A Call					[07:10]
+24 - The Feast And The Famine				[05:20]
+25 - Into The Void (tease) [Black Sabbath]		[00:56]
+26 - Weenie Beenie					[03:06]
+27 - Big Me						[05:08]
+28 - Best Of You					[09:04]
+29 - Everlong						[04:59]
+Total Running Time					[02:55:10]
+
+
+Verify FFP: foofighters2014-10-24.ffp
+foofighters2014-10-24t01.flac : OK
+foofighters2014-10-24t02.flac : OK
+foofighters2014-10-24t03.flac : OK
+foofighters2014-10-24t04.flac : OK
+foofighters2014-10-24t05.flac : OK
+foofighters2014-10-24t06.flac : OK
+foofighters2014-10-24t07.flac : OK
+foofighters2014-10-24t08.flac : OK
+foofighters2014-10-24t09.flac : OK
+foofighters2014-10-24t10.flac : OK
+foofighters2014-10-24t11.flac : OK
+foofighters2014-10-24t12.flac : OK
+foofighters2014-10-24t13.flac : OK
+foofighters2014-10-24t14.flac : OK
+foofighters2014-10-24t15.flac : OK
+foofighters2014-10-24t16.flac : OK
+foofighters2014-10-24t17.flac : OK
+foofighters2014-10-24t18.flac : OK
+foofighters2014-10-24t19.flac : OK
+foofighters2014-10-24t20.flac : OK
+foofighters2014-10-24t21.flac : OK
+foofighters2014-10-24t22.flac : OK
+foofighters2014-10-24t23.flac : OK
+foofighters2014-10-24t24.flac : OK
+foofighters2014-10-24t25.flac : OK
+foofighters2014-10-24t26.flac : OK
+foofighters2014-10-24t27.flac : OK
+foofighters2014-10-24t28.flac : OK
+foofighters2014-10-24t29.flac : OK
+
+Verify Flac Files in foofighters2014-10-24.ffp
+foofighters2014-10-24t01.flac: testing, 100% complete
+foofighters2014-10-24t01.flac: ok
+foofighters2014-10-24t02.flac: testing, 100% complete
+foofighters2014-10-24t02.flac: ok
+foofighters2014-10-24t03.flac: testing, 100% complete
+foofighters2014-10-24t03.flac: ok
+foofighters2014-10-24t04.flac: testing, 100% complete
+foofighters2014-10-24t04.flac: ok
+foofighters2014-10-24t05.flac: testing, 100% complete
+foofighters2014-10-24t05.flac: ok
+foofighters2014-10-24t06.flac: testing, 100% complete
+foofighters2014-10-24t06.flac: ok
+foofighters2014-10-24t07.flac: testing, 100% complete
+foofighters2014-10-24t07.flac: ok
+foofighters2014-10-24t08.flac: testing, 100% complete
+foofighters2014-10-24t08.flac: ok
+foofighters2014-10-24t09.flac: testing, 100% complete
+foofighters2014-10-24t09.flac: ok
+foofighters2014-10-24t10.flac: testing, 100% complete
+foofighters2014-10-24t10.flac: ok
+foofighters2014-10-24t11.flac: testing, 100% complete
+foofighters2014-10-24t11.flac: ok
+foofighters2014-10-24t12.flac: testing, 100% complete
+foofighters2014-10-24t12.flac: ok
+foofighters2014-10-24t13.flac: testing, 100% complete
+foofighters2014-10-24t13.flac: ok
+foofighters2014-10-24t14.flac: testing, 100% complete
+foofighters2014-10-24t14.flac: ok
+foofighters2014-10-24t15.flac: testing, 100% complete
+foofighters2014-10-24t15.flac: ok
+foofighters2014-10-24t16.flac: testing, 100% complete
+foofighters2014-10-24t16.flac: ok
+foofighters2014-10-24t17.flac: testing, 100% complete
+foofighters2014-10-24t17.flac: ok
+foofighters2014-10-24t18.flac: testing, 100% complete
+foofighters2014-10-24t18.flac: ok
+foofighters2014-10-24t19.flac: testing, 100% complete
+foofighters2014-10-24t19.flac: ok
+foofighters2014-10-24t20.flac: testing, 100% complete
+foofighters2014-10-24t20.flac: ok
+foofighters2014-10-24t21.flac: testing, 100% complete
+foofighters2014-10-24t21.flac: ok
+foofighters2014-10-24t22.flac: testing, 100% complete
+foofighters2014-10-24t22.flac: ok
+foofighters2014-10-24t23.flac: testing, 100% complete
+foofighters2014-10-24t23.flac: ok
+foofighters2014-10-24t24.flac: testing, 100% complete
+foofighters2014-10-24t24.flac: ok
+foofighters2014-10-24t25.flac: testing, 100% complete
+foofighters2014-10-24t25.flac: ok
+foofighters2014-10-24t26.flac: testing, 100% complete
+foofighters2014-10-24t26.flac: ok
+foofighters2014-10-24t27.flac: testing, 100% complete
+foofighters2014-10-24t27.flac: ok
+foofighters2014-10-24t28.flac: testing, 100% complete
+foofighters2014-10-24t28.flac: ok
+foofighters2014-10-24t29.flac: testing, 100% complete
+foofighters2014-10-24t29.flac: ok

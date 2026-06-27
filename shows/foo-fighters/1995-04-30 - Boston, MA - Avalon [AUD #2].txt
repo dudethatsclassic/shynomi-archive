@@ -1,0 +1,34 @@
+Foo Fighters
+April 30th, 1995
+Avalon
+Boston, MA
+
+SOURCE (AUD #2):
+unknown > unknown 
+
+TRANSFER:
+Exact Audio Copy > Unknown
+
+GENERATION:
+CD(M) > WAV [44.1khz] > FLAC [Level 8]
+
+LENGTH:
+15:47
+
+NOTES: 
+- 'Tough Fighters' bootleg CD.
+
+TRACKS:
+01. Butterflies
+02. Floaty
+03. For All the Cows
+04. Winnebago 
+
+MD5 FINGERPRINTS:
+316348984b50005fe6c7927edede9ffe *01. Butterflies.flac
+7e05a13e7f46de7bfeb39b45d5be3741 *02. Floaty.flac
+96fc1c245db4d4b71494207f14bad82e *03. For All The Cows.flac
+96b906ec3122faf94ae353b72e2da29e *04. Winnebago.flac
+
+EXTRACTED BY:
+Unknown

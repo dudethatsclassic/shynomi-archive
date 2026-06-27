@@ -1,0 +1,69 @@
+FOO FIGHTERS
+April 17, 2003
+Universal Amphitheatre
+Universal City (Los Angeles), CA, US
+
+DISC #1/1 (01:48:00)
+-----------------
+01. All My Life
+02. The One
+03. My Hero
+04. Breakout
+05. Times Like These
+06. Up In Arms
+07. Have It All
+08. Enough Space
+09. Stacked Actors
+10. Low
+11. Hey, Johnny Park!
+12. Monkey Wrench
+13. Tired Of You
+14. This Is A Call
+15. United States Of Whatever [w/ Liam Lynch on vocals, Dave on drums]
+16. Learn to Fly
+17. Weenie Beenie
+18. Aurora
+19. Everlong
+
+SOURCE:
+-------------------
+AMT #1 - Quality: 8.5
+built-in > unknown (MiniDV)
+
+TRANSFER:
+-------------------
+built-in microphone > unknown MiniDV camera > MDV(M) > unknown transfer > DVDR(1) > Apple USB SuperDrive MD564LL/A > VOB files > MacBook Pro (Retina 15-inch, Mid 2015) > Handbrake 1.4.2 > MKV [H.264 - 480i | FLAC]
+
+GENERATION:
+-------------------
+MDV(M) > DVDR(1) > MKV
+
+NOTES:
+-----------------
+- This source is derived from a DVD rip from May 2003.
+- "United States of Whatever" was performed by Liam Lynch while borrowing Dave's guitar, who was on drums for the song.
+
+
+VIDEO/AUDIO CODECS:
+-----------------
+H.264 - MPEG-4 AVC (part 10) (avc1)
+Resolution: 640x478
+Buffer dimensions: 640x480
+Frame rate: 29.970628
+Color primaries: ITU-R BT.601 (525 lines, 60Hz)
+Color transfer function: ITU-R BT.709
+Chroma location: Left
+
+FLAC (Free Lossless Audio Codec) (derived from AC3, 256kbps)
+Channels: 2 (Stereo)
+Sample rate: 44.1kHz/32-bit
+
+MD5 FINGERPRINTS:
+-----------------
+aecdadf5e92572d941986cec73f19c24 *foofighters2003-04-17-amt1-pt1.mkv
+fed1a09ba889bdbb2af775c82174c3c1 *foofighters2003-04-17-amt1-pt2.mkv
+27f6e63472780b1adee27f1297a41623 *foofighters2003-04-17-amt1-pt3.mkv
+ade5fb25042f5a444e8aad1047bcf0d3 *foofighters2003-04-17-amt1-pt4.mkv
+
+Transferred and encoded by unknown & vibrioidxire.
+PLEASE DO NOT ENCODE TO LOSSY FORMATS OR SELL!

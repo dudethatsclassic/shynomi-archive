@@ -1,0 +1,60 @@
+Foo Fighters
+September 15, 2007
+Home Depot Center (KROQ LA Invasion)
+Los Angeles, CA
+
+SETLIST (74:03)
+---------------
+01) Everlong
+02) Monkey Wrench
+03) My Hero
+04) Times Like These
+05) Up In Arms (Jam)
+06) Up In Arms
+07) Learn To Fly
+08) Breakout
+09) The One
+10) Stacked Actors
+11) Long Road To Ruin
+12) Best Of You
+13) Darling Nikki
+14) The Pretender
+15) All My Life
+
+GENERATION
+----------------
+LIVE WEBCAST -> WMV/WMA [48kbps] -> WAV [44.1khz] -> FLAC [Level 8]
+
+SOURCE (PRO #1a)
+----------------
+soundboard -> unknown
+
+TRANSFER
+----------------
+VLC Media Player 0.8.6.0 -> ffmpeg w/ SUPER GUI v.2007.build.23 -> Adobe Audition 2.0 -> CD Wave 1.96.1 -> FLAC Frontend 1.7.1
+
+NOTES
+----------------
+Video was captured from live webcast, error free.
+The volume increases and decreases during "My Hero" and "Times Like These" at two points.
+
+MD5 FINGERPRINTS
+----------------
+49b4f7f387a33315bd32a153a63fcf00 *FooFighters2007-09-15t01.flac
+472842e6f92d47795107c5d9c0d37e1c *FooFighters2007-09-15t02.flac
+e90efe523cb7df3d4f5fbd7a3777f387 *FooFighters2007-09-15t03.flac
+455a64a6a5319578b08f097045b831f7 *FooFighters2007-09-15t04.flac
+cb70dbe41688318da66a2ce2d417cdbf *FooFighters2007-09-15t05.flac
+bacfb62dcc4c330960831321a8851414 *FooFighters2007-09-15t06.flac
+50235e2f99446dc50c9ae68b758fc145 *FooFighters2007-09-15t07.flac
+18da89970fb1bc27b491016399e0fdf4 *FooFighters2007-09-15t08.flac
+c22ddd4c1e30c1c83b972f59d8a9025c *FooFighters2007-09-15t09.flac
+2fd63c0dfa477c081929f76a78caf490 *FooFighters2007-09-15t10.flac
+5a1eddee48b72be3d34f1a832b7171e8 *FooFighters2007-09-15t11.flac
+5e9a3b47bcc6112c7f65c8ff42cc9ac2 *FooFighters2007-09-15t12.flac
+4d7c2d712901abd063db862d70233c7d *FooFighters2007-09-15t13.flac
+2d55d528718b8eff3193979385b14095 *FooFighters2007-09-15t14.flac
+164332e99c7a6d5d5eaf6d7e0a757155 *FooFighters2007-09-15t15.flac
+
+Recorded & Transferred by Simon Kilmore
+DO NOT SELL OR RE-ENCODE TO LOSSY FORMATS! 

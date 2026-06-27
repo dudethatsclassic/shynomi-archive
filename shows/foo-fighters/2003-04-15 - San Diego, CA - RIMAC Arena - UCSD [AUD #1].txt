@@ -1,0 +1,57 @@
+Foo Fighters
+April 15, 2003
+RIMAC Arena, UCSD
+San Diego, CA
+
+SETLIST (102:18)
+---------------
+01) All My Life
+02) The One
+03) MY Hero
+04) Breakout
+05) Times Like These
+06) Up In Arms
+07) Have It All
+08) Enough Space
+09) Stacked Actors
+10) Low
+11) Hey Johnny Park
+12) Monkey Wrench
+13) Tired Of You
+14) This Is A Call
+15) Learn To Fly
+16) Weenie Beenie
+17) Never Talking To You Again 
+18) Aurora
+19) Everlong
+
+SOURCE/GEN (AUD #1)
+--------------
+Sony ECM-737 > Sony TCD-D7 DAT > CDR(1) > WAV [44.1kHZ] -> FLAC [Level 8]
+
+MD5 FINGERPRINTS
+--------------
+872354bf18661ebb3752b4da8f1b4502 *Track01.flac
+046632b066efbc27dc3bf3fa284678db *Track02.flac
+8ebc25f8a49bd6416b72f50f3021da47 *Track03.flac
+629c7c936dfa66245fe14c77d0ed4307 *Track04.flac
+89af80113a37716f7e0586184fca33a2 *Track05.flac
+31e1cafcf4b875b46f2c0dc7842e133e *Track06.flac
+6c1beea66ca60c4dce2c1c0dd95f54a3 *Track07.flac
+5bca79c895f27bf4217022bc1ea39ad2 *Track08.flac
+c5dd64f0b1c8dc8cc723c5573599fd1b *Track09.flac
+a187d73cb6438531293cf350b4392ccb *Track10.flac
+d172ba9e3a8a2a4a9e76b309fa646aaf *Track11.flac
+0d036f4de9afdf3a681efd2b8e3cda19 *Track12.flac
+cbcdd3da6c6117d75740f9f447c684c0 *Track13.flac
+03e93505da46d141d85094b865d409a5 *Track14.flac
+9dfd50204d746d1e50747b1cad9ac8d0 *Track15.flac
+284f26fedc06c0212f46eb33a421d16c *Track16.flac
+6f43d5f76c1972ec6d8c15da34bd8338 *Track17.flac
+4a1100397d127057960c4ae34518e42f *Track18.flac
+a76d373dc149a5b231b2bee6bd22faec *Track19.flac
+
+
+DO NOT ENCODE TO MP3 OR SELL!!! 
+
+FOOFIGHTERSLIVE.COM

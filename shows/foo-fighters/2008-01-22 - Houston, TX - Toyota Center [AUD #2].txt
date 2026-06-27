@@ -1,0 +1,51 @@
+Foo Fighters
+Tuesday January 22, 2008
+Toyota Center
+Houston, TX
+
+
+Taper: prof_peabody
+Location: Left side of the catwalk, on the floor ~90 ft from the stack
+B-stage Location: DFC, facing the B-stage
+Source: AT943 -> PS-2 -> R-09 (24/48)
+Transfer: USB -> Wavelab 5 edits (dither with UV22HR) -> CDWAVE -> FLAC
+
+*******************************************************************
+- Do not sell this live recording
+- Do not post remaster without taper's consent
+*******************************************************************
+
+Notes:
+
+Original WAVE files were dithered from 24/48 to 16/44.1 using the the UV22HR algorithm.
+
+I ran to the back just before the acoustic B-stage set (you can hear a bit of wind noise on the way there).  I boosted the levels of the acoustic set about 5db.  
+
+
+Disc 1
+
+01. 
+02. 
+03. 
+04. 
+05. <stage banter>
+06. 
+07. 
+08. 
+09. 
+10. 
+
+Disc 2
+
+01. 
+02. 
+03. <B-stage banter, band intros>
+04. 
+05. 
+06. 
+07. 
+08. 
+09. <encore break, Stones riffs, more banter>
+10. 
+11. 
+12. 

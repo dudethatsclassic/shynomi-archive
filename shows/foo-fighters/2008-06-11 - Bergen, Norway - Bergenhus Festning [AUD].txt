@@ -1,0 +1,92 @@
+Foo Fighters
+
+Bergenhus Festning
+Koengen
+Bergen
+Norway
+
+
+2008-06-11(wednesday june 11th)
+
+Digital Stereo Audience recording
+
+Lineage:SP CMC-2 stereo mics->Edirol R09(at level 8)->Cool Edit Pro 2.0(boosting,editing,EQ-ing & tracksplitting)->TLH(Alligned SBE & Flac level 8)
+
+
+This is a repost of a fixed version. I made a mistake converting this from 24bit/48khz to 16bit/44.1khz so it ended up off pitch.
+Thanks for KurdKobabain for bringing it to my tonedeaf ears attention.
+I'm truely sorry for my mistake,the result now sounds way better than the first posting too:-)
+
+Special thanks to the mods jupiter2101 & Nightshifted.
+
+
+Running time:(115:05)
+
+
+
+ 1.The Pretender
+ 2.Times Like These
+ 3.No Way Back
+ 4.Cheer Up Boys(Your Make Up Is Running)
+ 5.Learn To Fly
+ 6.This Is A Call
+ 7.Dave Talks
+ 8.Long Road To Ruin
+ 9.Breakout
+10.Stacked Actors
+11.Skin & Bones
+12.Marigold
+13.My Hero
+14.Band Intro
+15.Cold Day In The Sun
+16.But,Honestly
+17.Everlong
+18.Monkey Wrench
+19.All My Life
+20.Best Of You
+
+
+
+
+
+The Band:
+
+Dave Grohl(vocals,guitar)
+Taylor Hawkins(drums,vocals)
+Nate Mendel(bass guitar)
+Chris Shiflett(guitar,vocals)
+Pat Smear(guitar)
+Drew Hester(percussion)
+Rami Jaffee(keyboards,piano,accordion)
+Jessy Greene(cello,violin,backing vocals)
+
+
+Recording Notes:
+This was my second time in little over a week I bought my recording gear to this outdoor venue.As with my Kiss recording I was struggeling with the powerfull and bassy PA.
+The suspendend PA and the low bass woofers causes heavy vibrations that hits you really hard,and thats not good for my powerful mics.Generally its a difficult venue to tape in,in particular on windy nights as this,but this one came out way better than my Kiss recording.
+
+Foo Fighters had better sound than QOATSA both both were having a hard time with the PA. The low and deep bass distortion in my recording comes from the PA,pretty hard to remove it as it was the sound coming straight at us.
+Wind also played some tricks,it was worse for people in the back.
+I recorded this about 14 meters from the stage left side mics towards the PA. Had a really good spot,but should have brought my b-box to take some of the bass away,thats my only regret.
+
+
+Mastering Notes:
+Downsampled the master from 48khz/24bit to 44.1khz/16bit. EQ'ed the complete showm,and then gave it a 5,87dB boost in both channels
+The usual tracksplitting boredom have been redone,and fade in at start and end added.
+
+
+Gig Notes:
+Sold out gig,20 000 in the attendance. A rather cold night in Bergen compared to the weather the last month both the bands and the audience were quite unlucky,however we had no rain!
+Usually gigs at the venue have to be finished by 11pm,but Foo Fighters kept it going 15 minutes longer,as they were quite late one due to soundproblems. They used a lot of time in particul stuggeling with the drum sound by the looks of it.
+The crowd seemed to have a great nite and so did the bands.
+
+As usual please keep my masters circulating in best possible format.
+
+Sorry,no artwork available yet. Didnt bring my camera,so If some one has the time and pics,please make one
+
+Please listen to the samples before downloading. BTW this is way better than my first posting.
+
+For those waiting for my fixed QOTSA recording from the same gig,it will be uploaded later.
+
+
+fixed and uploaded on Dime by rideinthel june 2008

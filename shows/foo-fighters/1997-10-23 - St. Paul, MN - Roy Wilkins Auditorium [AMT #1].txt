@@ -1,0 +1,47 @@
+Foo Fighters
+October 23rd, 1997
+Roy Wilkins Auditorium
+St. Paul, MN
+
+Source
+Amateur Video #1
+
+Generation
+VHS(1) > AVI [UT Video/48khz/16-Bit/PCM] > MKV
+
+Video Transfer
+JVC 3600U > AV Toolbox AVT-8710 > Blackmagic Intensity Pro > Virtualdub > AviSynth 2.6 > x264.exe core 155 r2901 
+
+Audio Transfer
+JVC 3600U > AV Toolbox AVT-8710 > Creative Soundblaster Z > Adobe Audition CC 2017 > flac.exe & Apple AAC encoder q109
+
+Length
+72:55
+
+Video
+H.264 MPEG-4 AVC / 566p / 50fps / 3525 kbps / 4:3 / 4:2:0 Chroma / 8-Bit / High Profile Level 3.1
+
+Audio
+AAC / 256kbps / 48khz / 2.0
+FLAC / 647kbps / 48khz / 2.0
+
+Tracks
+01. This Is A Call
+02. Hey, Johnny Park!
+03. Alone + Easy Target
+04. Monkey Wrench
+05. Doll
+06. See You
+07. My Poor Brain
+08. Enough Space
+09. Big Me
+10. Gas Chamber
+11. Up In Arms
+12. The Colour And The Shape
+13. For All The Cows
+14. Weenie Beenie
+15. Everlong
+16. New Way Home
+17. Walking After You
+18. Requiem
+19. I'll Stick Around

@@ -1,0 +1,65 @@
+FOO FIGHTERS
+December 3, 2002
+Hovet, Stockholm
+Sweden
+
+SOURCE (AUD #1): 
+Sony ECM-DS70P > Sony MZ-N1 [Minidisc]
+
+TRANSFER: 
+Sony MDS-JE700 > optical cable > Creative SB Platinum EX > Cool Edit Pro 2.0 > CD Wave 1.94.2 beta 
+
+GENERATION: 
+MD(M) > WAV [44.1khz] > FLAC [Level 8]
+
+LENGTH:
+93:51
+
+NOTES:
+Has a small cut in 'All My Life'.
+
+TRACKS:
+01. audience
+02. All My Life
+03. My Hero
+04. Generator
+05. Learn To Fly
+06. For All The Cows
+07. Have It All
+08. Stacked Actors
+09. Times Like These
+10. The One
+11. Low
+12. Hey, Johnny Park!
+13. Monkey Wrench
+14. Tired Of You
+15. Everlong
+16. Aurora
+17. Enough Space
+18. Breakout
+
+
+MD5 FINGERPRINTS:
+1708164 19:16.01 2006-12-27 Foo Fighters - 2002-12-03 - MD(M) - 0101.flac
+29491386 19:16.30 2006-12-27 Foo Fighters - 2002-12-03 - MD(M) - 0102.flac
+35126939 19:17.05 2006-12-27 Foo Fighters - 2002-12-03 - MD(M) - 0103.flac
+26065487 19:17.30 2006-12-27 Foo Fighters - 2002-12-03 - MD(M) - 0104.flac
+25795025 19:17.54 2006-12-27 Foo Fighters - 2002-12-03 - MD(M) - 0105.flac
+32641261 19:18.27 2006-12-27 Foo Fighters - 2002-12-03 - MD(M) - 0106.flac
+38397415 19:19.04 2006-12-27 Foo Fighters - 2002-12-03 - MD(M) - 0107.flac
+60407194 19:20.04 2006-12-27 Foo Fighters - 2002-12-03 - MD(M) - 0108.flac
+28833803 19:20.32 2006-12-27 Foo Fighters - 2002-12-03 - MD(M) - 0109.flac
+22580511 19:20.53 2006-12-27 Foo Fighters - 2002-12-03 - MD(M) - 0110.flac
+28663223 19:21.21 2006-12-27 Foo Fighters - 2002-12-03 - MD(M) - 0111.flac
+27862960 19:21.47 2006-12-27 Foo Fighters - 2002-12-03 - MD(M) - 0112.flac
+46600819 19:22.30 2006-12-27 Foo Fighters - 2002-12-03 - MD(M) - 0113.flac
+39040288 19:33.24 2006-12-27 Foo Fighters - 2002-12-03 - MD(M) - 0201.flac
+49169607 19:34.15 2006-12-27 Foo Fighters - 2002-12-03 - MD(M) - 0202.flac
+59356036 19:35.15 2006-12-27 Foo Fighters - 2002-12-03 - MD(M) - 0203.flac
+17027932 19:35.32 2006-12-27 Foo Fighters - 2002-12-03 - MD(M) - 0204.flac
+31472710 19:36.07 2006-12-27 Foo Fighters - 2002-12-03 - MD(M) - 0205.flac
+
+TAPED & TRANSFERRED BY:
+Andreas Magnusson
+
+***DO NOT SELL OR ENCODE TO MP3!***

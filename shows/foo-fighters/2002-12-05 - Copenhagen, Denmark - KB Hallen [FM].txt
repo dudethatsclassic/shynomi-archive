@@ -1,0 +1,51 @@
+Foo Fighters
+12/05/2002
+KB Hallen
+Copenhagen, Denmark
+
+Setlist:
+
+All My Life
+My Hero
+Generator
+Learn To Fly
+For All The Cows
+Stacked Actors
+Times Like These
+Low
+Hey, Johnny Park
+Monkey Wrench
+Tired
+Everlong
+
+Aurora
+Enough Space
+Breakout
+
+
+Generation:
+FM> WAV > CDR(2) > FLAC [Level 8]	Yours will be FM > WAV > CDR(3)
+
+
+03be8a1d0d5e558e9f8b6986f408b428 *FF 120502FM Track_01 Disc1.flac
+536325094f7ae10b967ad49e7a027cce *FF 120502FM Track_01 Disc2.flac
+6b68c77b047f78ef0ac503b80f933bf3 *FF 120502FM Track_02 Disc1.flac
+7e8d31355dc5f08e457b5bcc836acd5e *FF 120502FM Track_02 Disc2.flac
+e95e82238700cbfaa9ae1784d47508be *FF 120502FM Track_03 Disc1.flac
+17073cab56f3833419aee32b4eee5f42 *FF 120502FM Track_03 Disc2.flac
+380b74044c7213043ced3e056ec155af *FF 120502FM Track_04 Disc1.flac
+8b782224d0c6de613a8e49a91339b108 *FF 120502FM Track_05 Disc1.flac
+b8c0adf880c21a51bdd5e6b48c25dc2f *FF 120502FM Track_06 Disc1.flac
+66e1c4c87bc84e7714c46a2ab935df8b *FF 120502FM Track_07 Disc1.flac
+cea7cad6090933dc736d973a8ea6de1c *FF 120502FM Track_08 Disc1.flac
+cfd2a8de83efa23a4d432b3b222f1111 *FF 120502FM Track_09 Disc1.flac
+f33c282cd393940ed86c14a78d04b851 *FF 120502FM Track_10 Disc1.flac
+8ad7d6c2541a55422a5e23f87b05d08b *FF 120502FM Track_11 Disc1.flac
+95b63f20b95e97b0d13d5a3201523155 *FF 120502FM Track_12 Disc1.flac
+0ba0ef1a144f93b593c27e961ddc14a7 *FF 120502FM Track_13 Disc1.flac
+1287aab29d89f232625f16f1a9e75257 *FF 120502FM Track_14 Disc1.flac
+
+
+Transfered by Morten Madsen
+
+Do not sell or extract to MP3!!!

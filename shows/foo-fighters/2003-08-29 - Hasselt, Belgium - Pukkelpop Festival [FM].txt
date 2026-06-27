@@ -1,0 +1,33 @@
+FOO FIGHTERS
+Hasselt, Belgium - Pukkelpop Festival
+08.29.2003
+
+Source : yamaha RX-V396 AV Receiver >> analog cable>> VIA AC'97 audio soundcard >> soundforge 6.0 >> WAV
+conversion : WAV >> mkwACT V0.97 BETA 1 > shn
+
+record & convert by : fp.trade at online dot fr
+
+complete gig : No
+Quality : A  
+Radio21 Broadcast (belguim) aired : 2003/03/02
+
+running time : 71 min 34 sec
+size :  723Mo (wav files) 430Mo (SHN files)
+
+01.The One
+02.Times Like These
+03.My Hero
+04.Learn To Fly
+05.Have It All
+06.Breakout 
+07.For All The Cows
+08.Stacked Actors 
+09.Low
+10.Monkeywrench
+11.Tired
+12.Everlong 
+
+
+Notes: track splitting with Soundforge ... first song of the gig (All My Life) was not broadcast
+
+20 pictures of the show here :http://www.goformusic.be/nl/live/mmfotos.asp?calid=538&theid=17

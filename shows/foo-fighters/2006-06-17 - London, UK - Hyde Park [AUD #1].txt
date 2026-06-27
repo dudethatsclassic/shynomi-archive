@@ -1,0 +1,60 @@
+FOO FIGHTERS
+June 17, 2006
+Hyde Park,
+London, United Kingdom
+
+DISC #1/2 (47:16)
+-----------------
+01. In Your Honor
+02. All My Life
+03. Best Of You
+04. Times Like These
+05. Learn To Fly
+06. Breakout
+07. The One
+08. Shake Your Blood (w/ Lemmy)
+09. Stacked Actors
+
+DISC #2/2 (36:05)
+-----------------
+01. My Hero
+02. Generator
+03. D.O.A.
+04. Monkeywrench
+05. We Will Rock You (jam, w/ Brian May & Roger Taylor)
+06. Tie Your Mother Down (w/ Brian May & Roget Taylor)
+07. Everlong
+
+GENERATION
+-----------------
+DAT(M) -> WAV [48kHz] -> WAV [44.1kHz] -> FLAC [Level 8]
+
+SOURCE (AUD #1)
+-----------------
+GS Binaural -> Sony TCD-D8
+
+TRANSFER
+-----------------
+Tascam DA-20 MKII -> ViaBlue S/PDIF Cable -> M-Audio Delta Audiophile 192 digital-in -> Adobe Audition 2.0 -> CD Wave 1.95.1 -> FLAC Frontend 1.7.1
+
+MD5 FINGERPRINTS
+-----------------
+5809875b762144004b1a5ebcf6a5b187 *foofighters_2006-06-17_aud1_datm_d1t01.flac
+fd4d234091d30ff9fc646ebdde47599c *foofighters_2006-06-17_aud1_datm_d1t02.flac
+cfb35f0e6a2bfdac6367181fba11f9a1 *foofighters_2006-06-17_aud1_datm_d1t03.flac
+a6cda5a53ec28936b5e77c8515cebb87 *foofighters_2006-06-17_aud1_datm_d1t04.flac
+3110e35e866319379ecaea903760b999 *foofighters_2006-06-17_aud1_datm_d1t05.flac
+7ba6628a9182f8ac3b01afa663f80ac9 *foofighters_2006-06-17_aud1_datm_d1t06.flac
+7151555a9868da2c54d462a008a76c7e *foofighters_2006-06-17_aud1_datm_d1t07.flac
+0735906368e4e39eaf64d8c94c39fa3e *foofighters_2006-06-17_aud1_datm_d1t08.flac
+3402ad6f229feb3919e9e12fd999bfc1 *foofighters_2006-06-17_aud1_datm_d1t09.flac
+6cbd7e83eb9e3cd0b0d19565d9b15953 *foofighters_2006-06-17_aud1_datm_d2t01.flac
+247993b880e3f94321c761db62cc975e *foofighters_2006-06-17_aud1_datm_d2t02.flac
+82a14c4f7421c474ff661828ca770640 *foofighters_2006-06-17_aud1_datm_d2t03.flac
+6e0a2f315715771159e49bd9d6ed9e8f *foofighters_2006-06-17_aud1_datm_d2t04.flac
+78168b8d0c2af41b9a4f254d1ecc6efe *foofighters_2006-06-17_aud1_datm_d2t05.flac
+67bc2a2e4dbf40e2661e50d7af8be3db *foofighters_2006-06-17_aud1_datm_d2t06.flac
+b42c04fc1b9fa7b178724de49954f613 *foofighters_2006-06-17_aud1_datm_d2t07.flac
+
+Recorded & transferred by Pierre Leroy
+DO NOT ENCODE TO MP3 OR SELL!

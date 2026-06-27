@@ -1,0 +1,32 @@
+FOO FIGHTERS
+February 10, 2008
+Nokia Plaza/Staples Center (Grammy Awards)
+Los Angeles, CA
+
+SETLIST (09:19)
+---------------
+01) My Grammy Moment intro
+02) The Pretender
+03) Award/Acceptence for Best Rock Album
+
+GENERATION
+---------------
+HDTV -> AC3 2.0 [256kbps] -> WAV [44.1khz] -> WAV [44.1khz] -> FLAC [Level 8]
+
+SOURCE (PRO #1)
+---------------
+soundboard -> unknown
+
+TRANSFER
+---------------
+DGIndex 1.4.9 -> Besweet 1.5b31 -> Adobe Audition 2.0 -> CD Wave 1.91 -> FLAC Frontend 1.7.1
+
+MD5 FINGERPRINTS
+---------------
+79cd6f0d9d80acb7ca4e7aac767869e7 *FooFighters2008-02-10t01.flac
+60bfbfa9d4bcf0d5ad9c1cb455894388 *FooFighters2008-02-10t02.flac
+d3a3fca079e9b0c40e5963d9dce7d8b5 *FooFighters2008-02-10t03.flac
+be2e919557d14ceb948c6d51ced19d49 *FooFighters2008-02-10_48khz.flac
+
+Transferred by Simon Kilmore.
+DO NOT ENCODE TO LOSSY FORMATS OR SELL!

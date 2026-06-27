@@ -1,0 +1,27 @@
+FOO FIGHTERS
+February 16, 2010
+Rain
+Las Vegas, NV
+
+Source: AKG CK91 (mod) > Audio Technica 8531 (mod) > Edirol R-09HR
+Location: fifty feet from stage, dead center
+Taper: CPS
+Lineage: WAV(M) [24/44.1] > WAV [16/44.1] > FLAC
+Edits/EQ: +5.3db, limiter @ -2db, +2dB, -16.2dB Q1 notch filter @ 72Hz/Q8, limiter @ -2dB, +2dB, Ozone Maximizer @ -3dB/-0.2dB
+Notes: private MAGIC party for AG Jeans, venue/nightclub inside Palms casino
+
+01 - All My Life
+02 - Times Like These
+03 - Learn to Fly 
+04 - Young Man Blues
+05 - My Hero
+06 - Generator
+07 - The Pretender
+08 - Long Road to Ruin
+09 - Stacked Actors
+10 - Cold Day in the Sun
+11 - Everlong
+12 - Monkey Wrench
+
+
+Compiled February 2020 by CPS

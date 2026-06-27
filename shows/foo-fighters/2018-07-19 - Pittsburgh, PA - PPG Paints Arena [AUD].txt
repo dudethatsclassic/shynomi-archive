@@ -1,0 +1,68 @@
+Foo Fighters
+July 19th, 2018.
+PPG Paints Arena - Pittsburgh, PA.
+
+Taper: 	    Charles Dewey Cole, IV <live2cd@hotmail.com>
+Location:   50ft back from right stack; mics mounted on baseball hat brim. 
+Source:     AT853 Cardioids (4.7k mod) > SP-SPSB-11 (@69Hz) > Sony PCM-M10 (24 bit @48kHz) >
+            Adobe Audition 3.0 (dithered to 16 bit @44.1kHz) > Cd Wave > FLAC
+Conversion: Charles Dewey Cole, IV <live2cd@hotmail.com>
+Equipment:  SanDisk 32GB MicroSD Card > (USB) @ 48kHz > 44.1kHz > Cd Wave
+
+---------------------------------------------------------------------------------------------------------
+Total Time: (2:24:26)
+
+01. All My Life					6:47
+02. Learn To Fly				4:11
+03. The Pretender				10:21
+04. The Sky Is A Neighborhood			5:39
+05. Rope					10:55
+06. Drum Solo [Taylor Hawkins] >		3:44
+07. Sunday Rain					11:28
+08. My Hero					7:14
+09. These Days					6:14
+10. Walk					5:19
+11. Band introductions				7:06
+12. Imagine/Jump [mashup] ^			5:13
+13. Blitzkrieg Bop #				6:04
+14. Under Pressure %				5:08
+15. Monkey Wrench				6:03
+16. Run						5:20
+17. Breakout					9:55
+18. Dirty Water					5:49
+19. Best Of You 				8:58
+20. Times Like These 				6:30
+21. Everlong 					6:31
+
+---------------------------------------------------------------------------------------------------------
+Notes:
+
+^ = Originally Recorded By John Lennon/Van Halen.
+# = Originally Recorded By The Ramones.
+% = Originally Recorded By Queen,
+    featuring Luke Spiller [The Struts] & Taylor Hawkins on lead vocals. 
+
+Chris Chaney (Jane's Addiction, Alanis Morissette) filled in on bass for Nate Mendel,
+who just had twins on the day of the show.
+
+This was a fun show, but I left slightly disappointed. For some strange reason,
+the Foos took the stage at 845 (when PPG Paints Arena uses an 11pm curfew). This
+puzzled me a bit when I knew their show was 3 hours. Well, around 1045 word got
+around to Dave to start finishing things up. He made mention of this on stage
+and they cut the encore break (which is roughly 10 minutes) and a couple of songs
+from the encore. One being "This Is A Call" from the debut and the 2nd being
+the nightly audible. Lately those have been "La Dee Daa", "Generator" & "Big Me".
+They also cut a few jams during the band intros. All in all, the show was roughly
+35 minutes shorter than most on the tour with only 16 original Foo songs played.
+They did end up playing past the 11pm curfew, but only by about 10minutes. No
+reason they couldn't have gone on at 815 like every other city! OK, end rant.
+The crowd was great around me all night, a few loud claps that I removed with
+the clip restoration tool in Audition. Even tho this set was a bit abbreviated,
+I hope you enjoy it!
+
+The Struts opened. [recorded]
+
+---------------------------------------------------------------------------------------------------------
+For more information on the Foo Fighters, please visit:
+
+http://www.foofighters.com/

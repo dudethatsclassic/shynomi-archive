@@ -1,0 +1,67 @@
+Foo Fighters
+October 28th, 1995
+Fri-Son
+Fribourg, Switzerland
+
+SOURCE (SBD #1):
+Soundboard > Unknown
+
+TRANSFER:
+Nakamichi DR-3 > Custom RCA to 1/4" TS Klotz cables > M-Audio Delta Audiophile 192 analog-in > Adobe Audition 3.0 > CD Wave 1.98 > FLAC frontend 1.7.1
+
+GENERATION:
+FM > ANA(1) > WAV [48kHz] > WAV [44.1kHz] > FLAC [Level 8]
+
+LENGTH:
+65:00
+
+NOTES:
+- Recorded by Nicolas Riedo on Swiss Radio "Couleur 3"
+- Includes all DJ talk
+
+TRACKS:
+01. DJ Intro
+02. Enough Space
+03. This Is A Call
+04. Winnebago
+05. Wattershed
+06. For All The Cows
+07. Weenie Beenie
+08. Butterflies
+09. Big Me
+10. I'll Stick Around
+11. Oh, George
+12. Good Grief
+13. Podunk
+14. Alone + Easy Target
+15. Exhausted
+16. Floaty
+17. Up In Arms
+18. Gas Chamber
+19. Down In The Park
+
+MD5 FINGERPRINTS:
+f1f9f9a4f1abbd2d347e607eadb4d6d1 *foofighters_1995-10-28_SBD1_FM-ANA1_t01.flac
+b64692c789379dfc35e2027b1d8fb67a *foofighters_1995-10-28_SBD1_FM-ANA1_t02.flac
+ae742885ee2354a9600b924c96a553cc *foofighters_1995-10-28_SBD1_FM-ANA1_t03.flac
+6cbf8d5374943ecddfe182d23c03e714 *foofighters_1995-10-28_SBD1_FM-ANA1_t04.flac
+201b049c445fc828a6c4e34fd6710c70 *foofighters_1995-10-28_SBD1_FM-ANA1_t05.flac
+f105db306ea967d1e5cab28518f52a87 *foofighters_1995-10-28_SBD1_FM-ANA1_t06.flac
+4d18deca61b3d8e845f44d36e4537bb0 *foofighters_1995-10-28_SBD1_FM-ANA1_t07.flac
+b4a4afbf87b2dd4e83e62a5a2c550aa0 *foofighters_1995-10-28_SBD1_FM-ANA1_t08.flac
+2c189e8f6c9aee56bc15934c97c32674 *foofighters_1995-10-28_SBD1_FM-ANA1_t09.flac
+f0dd014df4a26baa2519be96a384c71c *foofighters_1995-10-28_SBD1_FM-ANA1_t10.flac
+ef01ce3d8dff831bb595f0b68188eb8f *foofighters_1995-10-28_SBD1_FM-ANA1_t11.flac
+b10276a0cf71716714121d0021261776 *foofighters_1995-10-28_SBD1_FM-ANA1_t12.flac
+dbb99e3ca64b3cbe30b1d90382b25375 *foofighters_1995-10-28_SBD1_FM-ANA1_t13.flac
+6de3cb8e116be26935eb56334c93cd48 *foofighters_1995-10-28_SBD1_FM-ANA1_t14.flac
+f15a904b3b53933b88184af46e60d0c4 *foofighters_1995-10-28_SBD1_FM-ANA1_t15.flac
+8e3e27fdd08aa9cd7114d88354daaaea *foofighters_1995-10-28_SBD1_FM-ANA1_t16.flac
+e22186fe1f7c8dced03e3fcf1f1ef24c *foofighters_1995-10-28_SBD1_FM-ANA1_t17.flac
+7365e9b96d329827e138f4d32c6aaca8 *foofighters_1995-10-28_SBD1_FM-ANA1_t18.flac
+a1238bfe28aea4774eafd5f4d41bdaed *foofighters_1995-10-28_SBD1_FM-ANA1_t19.flac
+
+TRANSFERRED BY:
+Pierre Leroy
+
+**PLEASE DO NOT ENCODE TO LOSSY FORMATS OR SELL!**

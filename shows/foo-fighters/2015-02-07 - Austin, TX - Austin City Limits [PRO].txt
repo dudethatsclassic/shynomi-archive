@@ -1,0 +1,137 @@
+Foo Fighters
+Austin City Limits
+Austin,TX
+2014 11-07 (Broadcast 2015 02-07)
+
+
+1.  Times Like These
+2.  The Feast and the Famine
+3.  Rope
+4.  Congregation
+5.  What Did I Do?/God As My Witness (With Gary Clark Jr.)
+6.  Tuff Enuff (Fabulous Thunderbirds Cover With Jimmy Vaughan & Gary Clark Jr)
+7.  I’ll Stick Around
+8.  Walk
+9.  Best of You
+10. Interview
+
+54:40 Total Time
+
+3.36 GB
+
+MPEG-TS 
+1280 x 720p progressive (16 X 9) 
+59 Frames Sec 
+24192 kbps 
+
+Dolby AC-3 
+6 Channel 
+384 kbps 
+48.0 khz
+
+
+
+
+
+
+
+General
+ID                                       : 1 (0x1)
+Complete name                            : Foo Fighters On Austin City Limits 02-07-15.ts
+Format                                   : MPEG-TS
+File size                                : 3.37 GiB
+Duration                                 : 54mn 40s
+Overall bit rate mode                    : Variable
+Overall bit rate                         : 8 821 Kbps
+Law rating                               : TV-PG
+
+Video
+ID                                       : 1201 (0x4B1)
+Menu ID                                  : 1 (0x1)
+Format                                   : MPEG Video
+Format version                           : Version 2
+Format profile                           : Main@High
+Format settings, BVOP                    : Yes
+Format settings, Matrix                  : Custom
+Format settings, GOP                     : M=3, N=30
+Codec ID                                 : 2
+Duration                                 : 54mn 40s
+Bit rate mode                            : Variable
+Bit rate                                 : 7 997 Kbps
+Maximum bit rate                         : 24.0 Mbps
+Width                                    : 1 280 pixels
+Height                                   : 720 pixels
+Display aspect ratio                     : 16:9
+Active Format Description                : Letterbox 16:9 image
+Frame rate                               : 59.940 fps
+Color space                              : YUV
+Chroma subsampling                       : 4:2:0
+Bit depth                                : 8 bits
+Scan type                                : Progressive
+Compression mode                         : Lossy
+Bits/(Pixel*Frame)                       : 0.145
+Time code of first frame                 : 00:00:00;00
+Time code source                         : Group of pictures header
+GOP, Open/Closed                         : Open
+Stream size                              : 3.05 GiB (91%)
+
+Audio #1
+ID                                       : 1202 (0x4B2)
+Menu ID                                  : 1 (0x1)
+Format                                   : AC-3
+Format/Info                              : Audio Coding 3
+Mode extension                           : CM (complete main)
+Format settings, Endianness              : Big
+Codec ID                                 : 129
+Duration                                 : 54mn 40s
+Bit rate mode                            : Constant
+Bit rate                                 : 192 Kbps
+Channel(s)                               : 2 channels
+Channel positions                        : Front: L R
+Sampling rate                            : 48.0 KHz
+Bit depth                                : 16 bits
+Compression mode                         : Lossy
+Delay relative to video                  : 6ms
+Stream size                              : 75.1 MiB (2%)
+Language                                 : English
+
+Audio #2
+ID                                       : 1203 (0x4B3)
+Menu ID                                  : 1 (0x1)
+Format                                   : AC-3
+Format/Info                              : Audio Coding 3
+Mode extension                           : CM (complete main)
+Format settings, Endianness              : Big
+Codec ID                                 : 129
+Duration                                 : 54mn 40s
+Bit rate mode                            : Constant
+Bit rate                                 : 192 Kbps
+Channel(s)                               : 2 channels
+Channel positions                        : Front: L R
+Sampling rate                            : 48.0 KHz
+Bit depth                                : 16 bits
+Compression mode                         : Lossy
+Delay relative to video                  : 6ms
+Stream size                              : 75.1 MiB (2%)
+Language                                 : Spanish
+
+Text #1
+ID                                       : 1201 (0x4B1)-CC1
+Menu ID                                  : 1 (0x1)
+Format                                   : EIA-608
+Muxing mode                              : A/53 / DTVCC Transport
+Muxing mode, more info                   : Muxed in Video #1
+Duration                                 : 54mn 40s
+Bit rate mode                            : Constant
+Stream size                              : 0.00 Byte (0%)
+
+Text #2
+ID                                       : 1201 (0x4B1)-1
+Menu ID                                  : 1 (0x1)
+Format                                   : EIA-708
+Muxing mode                              : A/53 / DTVCC Transport
+Muxing mode, more info                   : Muxed in Video #1
+Duration                                 : 54mn 40s
+Bit rate mode                            : Constant
+Stream size                              : 0.00 Byte (0%)
+

@@ -1,0 +1,40 @@
+Foo Fighters - 1996 07 06 Quart Festival, Kristiansand, Norway
+
+Transfer note:
+Tape flip in the clapping section of Alone + Easy Target, which lost some of the song. I patched in ~30 seconds from an MP3 source. You can hear where I went back to original source during the final "Get Out" ending.
+
+Band:
+Dave Grohl - Guitar, Vocals
+Nate Mendel -  Bass Guitar
+Pat Smear - Guitar
+William Goldsmith - Drums
+
+1 DJ intro
+2 Band Station ID
+3 Band interview
+4 Enough Space
+5 Butterflies
+6 Wattershed
+7 For All the Cows
+8 Gas Chamber [Angry Samoans]
+9 This Is a Call
+10 Up in Arms
+11 Weenie Beenie
+12 Big Me
+13 My Poor Brain
+14 I'll Stick Around
+15 Station break
+16 Jam 
+17 Good Grief
+18 Alone + Easy Target
+19 Station break
+21 Happy Birthday to William
+21 Exhausted
+22 DJ outro
+
+Also played:
+Ash
+Dog Eat Dog
+Nick Cave & the Bad Seeds
+
+Lineage: FM Broadcast > 1st Gen Tape > Tascam 202MKVII USB out > CDWAV > Audacity (normalization, fades, merges, noise reduction) > CDWAV (splits) > DBPowerAmp (FLAC) [loughney xfer]

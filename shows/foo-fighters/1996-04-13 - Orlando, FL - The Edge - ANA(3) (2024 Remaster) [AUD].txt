@@ -1,0 +1,79 @@
+FOO FIGHTERS
+13 April 1996
+The Edge
+Orlando,FL
+
+SETLIST 
+---------------
+1. Enough Space
+2. Alone + Easy Target
+3. Good Grief
+4. This is a Call
+5. Winnebago
+6. Wattershed
+7. For All the Cows
+8. Butterflies
+9. Big Me
+10.My Poor Brain
+11.Gas Chamber
+12.Up In Arms
+13.Weenie Beenie
+14.Podunk (Cut)
+15.How I Miss You
+16.I'll Stick Around
+17.Down in the Park
+18.Exhausted
+
+
+GENERATION 
+----------------
+ANA(3) -> WAV [44.1khz] -> FLAC [Level 8]
+
+TRANSFER
+---------------
+Nakamichi DR-3 -> Monster RCA Cable -> Adobe Audition 2.0 -> CD Wave -> FLAC Frontend 1.7.1
+
+NOTES
+---------------
+Has A LOT of tape hiss!! This was recorded at very low volume and somewhere along the line someone tried to boost the
+volume and did more harm than good. Not a bad sounding recording but is quite a bit less enjoyable with all the hiss in there.
+If someone has another source of this or an upgrade from what I have please let me know!  Enjoy!
+
+Transferred by: Brad Collins
+
+DO NOT ENCODE INTO LOSSY FORMATS!!!!!!!!! 
+
+If you or anyone else you know taped the Foo Fighters please contact us at www.foofighterslive.com or contact me singeroftomorrow@hotmail.com
+ as it is our goal to surface any and all Foo Fighters shows in the best quality and the lowest gen available.  
+Your help is appreciated!!!
+
+---------------------------------------------------------------------------------------------------------------------------------------------------
+---------------------------------------------------------------------------------------------------------------------------------------------------
+                                                     END ORIGINAL INFO FILE
+---------------------------------------------------------------------------------------------------------------------------------------------------
+---------------------------------------------------------------------------------------------------------------------------------------------------
+
+2024 Remaster Notes:
+I got this from dime or the den back in 2008. I listened to it once then forgot all about it until a week ago.
+While preparing it for upload I realized something could be done to improve it. I've never messed with
+anyone elses tapes before but I figured something is better than nothing and somebody should do it.
+
+So first I will list the diagnosis:
+-There is some haunting print-thru of Joe Walsh and GnR in track 1.
+-The left channel was almost 5db lower than the right.
+-Most of the music was limited to the <8khz range.
+-Excessive tape hiss was prominent.
+-The overall sound was flat as a board and lacking character.
+
+What I did in Audition:
+-Increased the left channel by 1db.
+-Decreased the right channel by 4db.
+-Applied "High Hiss Reduction" to both channels.
+-Used graphic equalizer to drop off all frequencies above 8khz and increase the lows and mids.
+-Applied hard limiting to -.1 with a 3db input boost.
+
+I was actually at this show when I was 13. I just remember it being loud. Bloody loud. I could feel the kickdrum
+through the floor. It was exciting to see Pat & Dave from just 25' away. The Amps opened up for them and they
+killed it as well. I looked for a ticketstub or flyer to include but nothing has turned up. If you find something of the
+such please post in the comments. I want to thank the taper and everyone else involved with the sharing of this
+special evening from my youth. It was awsome to find this after 12 years of assuming a tape did not exist.

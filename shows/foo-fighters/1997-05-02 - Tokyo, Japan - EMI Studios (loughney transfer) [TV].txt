@@ -1,0 +1,11 @@
+Foo Fighters - 1997 05 02 EMI Studios, Tokyo
+
+Show note: 
+Dave & Nate in EMI HQ Studios in Tokyo. Video of this is here: https://www.youtube.com/watch?v=G_ZPchr3n6U this is just the music portion.
+
+1 intro
+2 For All the Cows
+3 Big Me
+4 Up in Arms
+
+Lineage: TV Broadcast > 3rd gen > Tascam 202MKVII > USB > CDWAV > Audacity for fades, normalization, noise reduction > CDWAVE (SPLITS) > FLAC [loughney xfer]

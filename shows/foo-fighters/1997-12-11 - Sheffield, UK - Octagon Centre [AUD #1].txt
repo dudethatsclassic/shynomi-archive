@@ -1,0 +1,64 @@
+Foo Fighters
+December 12, 1997
+Octagon Centre
+Sheffield, United Kingdom
+
+DISC #1/1 (71:42)
+-----------------
+01. intro
+02. Monkeywrench
+03. Hey, Johnny Park!
+04. Alone + Easy Target
+05. Doll
+06. My Poor Brain
+07. Enough Space
+08. See You
+09. Gas Chamber
+10. This Is A Call
+11. Big Me
+12. The Colour And The Shape
+13. For All The Cows
+14. Weenie Beenie
+15. Everlong
+16. New Way Home
+17. Walking After You
+18. Up In Arms
+19. I'll Stick Around
+
+GENERATION
+-----------------
+ANA(M) -> WAV [48kHz] -> WAV [44.1kHz] ->  FLAC [Level 8]
+
+SOURCE (AUD #1)
+-----------------
+Panasonic WM-55 -> Sony WM-D6
+
+TRANSFER
+-----------------
+Nakamichi DR-3 -> RCA to 1/4" TS custom Klotz cables -> M-Audio Delta Audiophile 192 analog-in -> Adobe Audition 2.0 -> CD Wave 1.95.1 -> FLAC Frontend 1.7.1
+
+MD5 FINGERPRINTS
+-----------------
+16816f68fc8e440cc1f39e3c5407fc26 *foofighters_1997-12-11_aud1_anam_d1t01.flac
+95b6cbb47fcefa2300636899d783b854 *foofighters_1997-12-11_aud1_anam_d1t02.flac
+864c26670dcecea6ed8d001e152d6b15 *foofighters_1997-12-11_aud1_anam_d1t03.flac
+1204d8e2933e51019a60630a30d491c7 *foofighters_1997-12-11_aud1_anam_d1t04.flac
+1f21780083ca2f37e6c301eeae062498 *foofighters_1997-12-11_aud1_anam_d1t05.flac
+d8ba1f402860fc1416252d66a4ec4af8 *foofighters_1997-12-11_aud1_anam_d1t06.flac
+3dd55fa6e3550ed8f16adcef47b4677f *foofighters_1997-12-11_aud1_anam_d1t07.flac
+49f18b40200364a3753585a3ff5e3079 *foofighters_1997-12-11_aud1_anam_d1t08.flac
+d0ad12cc5d540a06e4d8b7fd14cbb362 *foofighters_1997-12-11_aud1_anam_d1t09.flac
+c399a6ed0b88aebbf9f39dba685df1e4 *foofighters_1997-12-11_aud1_anam_d1t10.flac
+fd8a806b78762061a07168ab260a1e0b *foofighters_1997-12-11_aud1_anam_d1t11.flac
+e9292c622cefcc0ccc11acece9caa85a *foofighters_1997-12-11_aud1_anam_d1t12.flac
+9f5099e4021ef3831e1698f0f14cc069 *foofighters_1997-12-11_aud1_anam_d1t13.flac
+ac121ecfe08898d6fc9ac7ceb3addd20 *foofighters_1997-12-11_aud1_anam_d1t14.flac
+53f521d386a8fdf0eeab2a5c6cb7e53b *foofighters_1997-12-11_aud1_anam_d1t15.flac
+899afdb9a29263442ac1ab96436a2526 *foofighters_1997-12-11_aud1_anam_d1t16.flac
+6aa8424fc682cc1cefaeb8223d4b446d *foofighters_1997-12-11_aud1_anam_d1t17.flac
+73bbcb1a986ef7b89592dcab7eb0eeba *foofighters_1997-12-11_aud1_anam_d1t18.flac
+e8b721a6e94567f680aa21895923094e *foofighters_1997-12-11_aud1_anam_d1t19.flac
+
+Taped by Monk
+Transferred by Pierre Leroy
+DO NOT ENCODE TO MP3 OR SELL!

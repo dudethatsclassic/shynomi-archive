@@ -1,0 +1,11 @@
+foo fighters, that dog
+state theater, detroit
+march 30, 1996
+
+lineage:
+realistic scp-29 cassette master (built in condensers)
+  
+transfer:
+master cassette > Nakamichi RX505 > Edirol R4 (24/48) > Adobe Audition > CDWAV > TLH FLAC 8
+
+these are 24 bit / 48 kHz FLAC Files

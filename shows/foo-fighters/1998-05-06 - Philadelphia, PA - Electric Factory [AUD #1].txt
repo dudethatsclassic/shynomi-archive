@@ -1,0 +1,47 @@
+FOO FIGHTERS
+06 May, 1998
+Electric Factory
+Philadelphia, PA
+
+SETLIST (AUD#1)
+---------------
+1. Monkey Wrench 
+2. Hey, Johnny Park! 
+3. Alone + Easy Target 
+4. See You 
+5. My Hero 
+6. Up In Arms 
+7. My Poor Brain 
+8. For All The Cows 
+9. This Is A Call 
+10.Gas Chamber 
+11.Big Me 
+12.Weenie Beenie 
+13.Everlong 
+14.New Way Home 
+15.Enough Space 
+16.I'll Stick Around 
+
+GENERATION
+----------------
+DAT(C) -> WAV [48khz] -> WAV [44.1khz] -> FLAC [Level 8]
+
+TRANSFER
+---------------
+Sony DTC-60ES -> Monster SPDIF Cable -> SIIG Soundwave 7.0 -> Adobe Audition 2.0 -> CD Wave -> FLAC Frontend 1.7.1
+
+NOTES
+---------------
+Pretty nice audience DAT from the May 98 shows. Don't know if this is the same recording the Foo Factory bootleg was made
+from or not as I don't have it to compare. There is a little bit of diginoise in Monkey Wrench and Hey, Johnny Park! After 
+that it seems to subside and you don't hear it anymore. If anyone has an upgrade to this please let me know as I would love
+to obtain a copy without the diginoise if there is one out there. I have the soundcheck from this show that was taped by an
+analog taper that I will put up when I find it. It was tacked onto another tape that I have misplaced at the moment. They
+jam on Exhausted and some other random stuff during soundcheck if I remember correctly. During the show they jam on Baker Street
+in the middle of Alone + Easy Target which I believe was pretty common for them to do around the time of this show. Enjoy!!
+
+Transferred by: Brad Collins (Foo Fanatic)
+
+Thanks to Greg for lending me his DAT clones to transfer and share.
+
+If you or anyone else you know has ever taped the Foo Fighters please contact me or one of the other guys at www.foofighterslive.com

@@ -1,0 +1,58 @@
+FOO FIGHTERS
+15 August, 2007
+'Rock & Grohl' (Radio 1 : In New Music We Trust) 
+BBC Radio One Studios
+London, UK
+
+SETLIST (59:38)
+---------------
+01) All My Life (Live Reading 2002) (cuts out)
+02) Dave and the Punk Beginnings 4:00
+03) Joining Nirvana 10:52
+04) Dave's First Demos (Pocketwatch) 18:24
+05) Kurt passing away 22:10
+06) Foo Fighters : The Early Days 24:01
+07) Taylor and Chris join the band 34:42
+08) Everlong (acoustic) (cut) 39:07
+09) Taylors Overdose 43:00
+10) One By One Scrapping and Side projects 46:21
+11) Reading 2002 (Times Like These clip) 50:40
+12) In Your Honor at studio 606 (Best Of You clip) 52:48
+13) Echoes, Silence, Patience and Grace & The Future 56:40
+
+GENERATION
+---------------
+FM -> WAV [44.1Khz] -> FLAC [Level 8]
+
+SOURCE (SBD)
+---------------
+soundboard -> unknown
+
+TRANSFER
+---------------
+JVC UX-G3 -> Unbranded RCA Cable -> Adobe Audition 2.0 -> CD Wave 1.9.1 -> FLAC Frontend 1.7.1 
+
+NOTES
+---------------
+Broadcast on BBC Radio 1, 15th August 2007.
+There are a few split second dropouts on the recording.
+
+MD5 FINGERPRINTS
+----------------
+921799ca7491d68740585271e412d087 *FooFighters2007-08-15t01.flac
+126f5744a9c44d5556de21cbca2682d7 *FooFighters2007-08-15t02.flac
+03bfd70bbdecec27e809b6e45389bc50 *FooFighters2007-08-15t03.flac
+f24c000eca65e6478809968ca0c949e9 *FooFighters2007-08-15t04.flac
+81ff8471ce387d0e19332cd30e64c01f *FooFighters2007-08-15t05.flac
+993dfc9a15c3327e240a42707e8f2d58 *FooFighters2007-08-15t06.flac
+bc35fe56ff5f2dad32a0b124a4e1b3e0 *FooFighters2007-08-15t07.flac
+59062d0f6eff1d1abcd0a0465dccbc01 *FooFighters2007-08-15t08.flac
+b0847ece6c565eeec220b01c92f41d14 *FooFighters2007-08-15t09.flac
+e20c0439018b11078e9a3f05afd0c4d4 *FooFighters2007-08-15t10.flac
+2c306817c80aa99723add18b3e8a7ed5 *FooFighters2007-08-15t11.flac
+1069e39151fa8d197d108ef33405fb31 *FooFighters2007-08-15t12.flac
+62e7e5ef3b4e13c29432b0deba15feb8 *FooFighters2007-08-15t13.flac
+
+DO NOT SELL OR ENCODE TO LOSSY FORMATS!
+
+Recorded, transferred and torrented by Simon Kilmore.

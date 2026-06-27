@@ -1,0 +1,73 @@
+Foo Fighters
+November 14th, 2007
+Nottingham Arena
+Nottingham, United Kingdom
+
+SOURCE (AUD #1):
+Sony ECM-719 > Nomad Jukebox 3 (Flash Recorder)
+
+TRANSFER:
+Nomad Jukebox 3 > USB > CD Wave 1.91 > FLAC Frontend 1.7.1
+
+GENERATION:
+WAV(M) [44.1khz/16-Bit] > FLAC [Level 8]
+
+LENGTH:
+125:07
+
+TRACKS:
+01. Let It Die
+02. The Pretender
+03. Times Like These
+04. Breakout
+05. Long Road To Ruin
+06. DOA
+07. Learn To Fly
+08. Cheer Up, Boys (Your Make Up Is Running)
+09. This Is A Call
+10. Stacked Actors
+11. Skin And Bones
+12. Marigold
+13. My Hero
+14. jam
+15. jam
+16. Cold Day In The Sun
+17. But, Honestly
+18. Everlong 
+19. Monkey Wrench
+20. All My Life
+21. Keep The Car Running
+22. Weenie Beenie
+23. Aurora
+24. Best of You
+
+MD5 FINGERPRINTS:
+1c21c9d9b15c3d4ed4ed465583614644 *FooFighters2007-11-14t01.flac
+03f47a117a4f187d40f631d16bec0b8e *FooFighters2007-11-14t02.flac
+f2a29f7c0c09cfdc2871e246cfccb6f1 *FooFighters2007-11-14t03.flac
+4d7fca88b265ad9516c3b8f25d931109 *FooFighters2007-11-14t04.flac
+97472cd4591117f6c870e7d0da58f805 *FooFighters2007-11-14t05.flac
+471541cd442095e63bd13aa2b4342a7b *FooFighters2007-11-14t06.flac
+8e223c43e44d2e84050939f34bb85c39 *FooFighters2007-11-14t07.flac
+7738ba88e938a92803f77c4ab9d3c9a8 *FooFighters2007-11-14t08.flac
+472d75b7b0f7b2fefec9724708176f1a *FooFighters2007-11-14t09.flac
+3fc376d282f02b0a1178eebaaefce23c *FooFighters2007-11-14t10.flac
+6d2811918bb7ff3874732338d3c4dd91 *FooFighters2007-11-14t11.flac
+990ecc0bc2c70998180a381b8f5b94be *FooFighters2007-11-14t12.flac
+34c3c14237778cbfcfc5fd202b5956d1 *FooFighters2007-11-14t13.flac
+7e347228d808b7640816888ff702be41 *FooFighters2007-11-14t14.flac
+7c6d51431c21f4605eedf6ba7f2ad209 *FooFighters2007-11-14t15.flac
+d1e08826fd6e688bbe7b53b9fcf63b0b *FooFighters2007-11-14t16.flac
+06d615d0a95359f6c2a435e638c38091 *FooFighters2007-11-14t17.flac
+e3cc1e388e90275e948a8dfdec5a3709 *FooFighters2007-11-14t18.flac
+7fefe480dee3bc1c9748e564e4a1c2ba *FooFighters2007-11-14t19.flac
+a2366295fd08fdf06165b3664d726311 *FooFighters2007-11-14t20.flac
+ff596b630fa3e8943ee1d4c5602fa55e *FooFighters2007-11-14t21.flac
+91ac0e4f783d82f0842e7d5cbd277e07 *FooFighters2007-11-14t22.flac
+336e455dfa537d3413274f1f05268faa *FooFighters2007-11-14t23.flac
+da77e0ce071b0c707eee94d5292841b9 *FooFighters2007-11-14t24.flac
+
+RECORDED AND TRANSFERRED BY:
+Jack
+
+**PLEASE DO NOT ENCODE TO LOSSY FORMATS OR SELL!**

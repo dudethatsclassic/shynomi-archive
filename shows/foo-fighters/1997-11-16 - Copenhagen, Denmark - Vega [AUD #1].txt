@@ -1,0 +1,66 @@
+Foo Fighters
+November 16, 1997
+Vega
+Copenhagen, Denmark
+
+DISC #1/1 (73:29)
+-----------------
+01) intro
+02) Wind Up (jam)
+03) This Is A Call
+04) Hey, Johnny Park!
+05) Alone + Easy Target
+06) Monkey Wrench
+07) Doll
+08) See You
+09) My Poor Brain
+10) Enough Space
+11) Big Me
+12) The Color And The Shape
+13) For All The Cows
+14) Gas Chamber
+15) Up In Arms
+16) Weenie Beenie
+17) Everlong
+18) New Way Home
+19) Walking After You
+20) I'll Stick Around
+
+GENERATION
+-----------------
+DAT(M) -> CDR(2) -> WAV [44.1kHz] -> FLAC [Level 8]
+
+SOURCE (AUD#1)
+-----------------
+unknown -> unknown (DAT)
+
+TRANSFER
+-----------------
+CDR(2) -> Exact Audio Copy -> Adobe Audition 2.0 -> CD Wave v.1.94.8 -> FLAC Frontend v.1.7.1
+
+MD5 FINGERPRINTS
+-----------------
+380608143c857a3d4f1b694df33c468d *foofighters1997-11-16t01.flac
+2211fd7af383fd1d44cca6e9e373b6d9 *foofighters1997-11-16t02.flac
+0a35e2abf344996173f575394685fb15 *foofighters1997-11-16t03.flac
+e9a6ce117ffaf627b8ed4d49f3a05e07 *foofighters1997-11-16t04.flac
+227fd32685b260e35f4160da899e45ac *foofighters1997-11-16t05.flac
+01d6f7c2759116f497c1dec4fdcd977e *foofighters1997-11-16t06.flac
+2506c1c9590e3524032fec808a08b21e *foofighters1997-11-16t07.flac
+589d90a64d020db550666c9edfdf94ed *foofighters1997-11-16t08.flac
+b68f73f44e859a2434b9696d9345f438 *foofighters1997-11-16t09.flac
+1fa5033102fda93bf43bbc8b82ff3c9a *foofighters1997-11-16t10.flac
+ecf0fcad3534c1f5bb7abdc6f2f172ad *foofighters1997-11-16t11.flac
+f16d96964988e3014952ec29c3c58116 *foofighters1997-11-16t12.flac
+e7905b2d87b4c61431ced7c05c9c7784 *foofighters1997-11-16t13.flac
+6e766d074bde59e156f49fa67ff65ac5 *foofighters1997-11-16t14.flac
+dfecbda2e170422dc7e46d406febe370 *foofighters1997-11-16t15.flac
+6a4dee06f6fcd9a1e7897162ae14ee08 *foofighters1997-11-16t16.flac
+9ccfe6b5bc373022caed9ac0f709fb83 *foofighters1997-11-16t17.flac
+ec4dcc3d224c127c6fafe25322e6466c *foofighters1997-11-16t18.flac
+34d2c6e1184af460316a527c4b222f7a *foofighters1997-11-16t19.flac
+72a2e125d041f1b90e9ab5c2c79575ad *foofighters1997-11-16t20.flac
+
+Big thanks to RH and the taper for this show
+
+***PLEASE DO NOT SELL OR ENCODE TO MP3***

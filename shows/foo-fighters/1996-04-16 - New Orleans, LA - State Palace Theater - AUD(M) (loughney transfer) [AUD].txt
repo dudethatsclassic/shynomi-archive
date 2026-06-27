@@ -1,0 +1,37 @@
+Foo Fighters - 1996 04 16 State Palace Theater, New Orleans, LA
+
+BAND MEMBERS
+Dave Grohl - Guitar, Vocals
+Nate Mendel - Bass Guitar
+Pat Smear - Guitar
+William Goldsmith - Drums
+
+Transfer note:
+Removed a gap at the beginning of For All the Cows. Tape flip after Up in Arms. 
+
+1 intro
+2 Enough Space
+3 Alone + Easy Target
+4 Joe Walsh intro
+5 Good Grief
+6 This Is A Call
+7 Winnebago
+8 Wattershed
+9 For All The Cows -- fix
+10 Butterflies
+11 Big Me
+12 My Poor Brain
+13 Gas Chamber [The Angry Samoans]
+14 Up In Arms --fix cap
+15 Weenie Beenie
+16 Podunk
+17 How I Miss You
+18 1I'll Stick Around
+19 Down in the Park [Gary Numan]
+20 Exhausted
+
+OTHER PERFORMERS
+Jawbreaker 
+The Amps
+
+Lineage: Audience Master > 1st gen tape > Tascam 202MKVII > USB > CDWAV > Audacity for fades, normalization, noise reduction > CDWAVE (SPLITS) > FLAC [loughney xfer]

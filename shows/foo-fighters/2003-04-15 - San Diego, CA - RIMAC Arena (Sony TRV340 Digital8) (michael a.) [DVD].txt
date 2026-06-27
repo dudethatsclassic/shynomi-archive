@@ -1,0 +1,56 @@
+Foo Fighters
+San Diego, CA
+RIMAC Arena
+04.15.2003
+
+
+Tapers:
+Audio-		Mikito
+Video-		Michael A.
+
+Source:
+Audio-		Sony ECM-737 mic > Sony TCD-D7 > DAT > CDR
+Video-		Sony TRV340 digital8 > digital8 tape (LP)
+
+Transfer:	dig8 (LP) > Firewire > CCE (5-pass VBR) > DVD
+
+
+Tracklist:
+01. All My Life
+02. The One
+03. My Hero
+04. Breakout
+05. Times Like These
+06. Up In Arms
+07. Have It All
+08. Enough Space
+09. Stacked Actors
+10. Low
+11. Hey JP
+12. Monkeywrench
+13. Tired
+14. This Is A Call
+- encore -
+15. Learn To Fly
+16. Weenie Beenie
+17. Never Talking To You Again
+18. Aurora
+19. Everlong
+
+
+Notes:
+Approximately the first 5 minutes are missing from 
+the video, so a still photo is used during that time 
+period (while the audio of the first song plays).
+
+Basic cover art is included for those inclined to 
+print off artwork for a standard size DVD case.
+
+Also included is an MD5 checksum to ensure that each 
+copy of this DVD is a clone of the original authored 
+DVD files (.BUP, .IFO, .VOB).
+
+Special thanks to Dan M. for loaning me the audio CDRs 
+and to Michael A. for loaning me his dig8 tape to create 
+this DVD.
+

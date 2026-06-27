@@ -1,0 +1,26 @@
+FOO FIGHTERS
+May 14, 2005
+M&T Bank Stadium: Baltimore, MD
+
+Source: AKG CK63 > JK Labs DVC iii > Sony PCM-M1
+Location: Sec. 125 row C (fifty feet from overhead right PA)
+Taper: CPS
+Lineage: DAT(M) > WAV [48] > WAV [44.1] > FLAC
+Transfer: Sony PCM-R500 > Audiophile 192 > Amadeus Pro
+Edits/EQ: +3.9dB, L +1.5dB, Ozone Imager (-100/-5 @ 250Hz), Ozone Equalizer (low shelf -1.5dB @ 75Hz Q24), Ozone Maximizer (-1dB/-0.3dB)
+Notes: Main Stage @ WHFStival
+
+01 - intro 
+02 - All My Life
+03 - Learn to Fly
+04 - My Hero
+05 - Times Like These
+06 - The Last Song
+07 - talk
+08 - Stacked Actors
+09 - Monkeywrench
+10 - talk
+11 - Everlong
+
+
+Compiled May 2019 by CPS

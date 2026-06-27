@@ -1,0 +1,58 @@
+FOO FIGHTERS
+June 27th, 1998
+Sitter Valley (St. Gallen Open Air Festival)
+St. Gallen, Switzerland
+
+SOURCE (SBD #1):
+soundboard > unknown
+
+EXTRACTION:
+RubyRipper > FLAC.exe
+
+GENERATION:
+FM > DAT(x) > CDR(1) > WAV [44.1khz] > FLAC [Level 8]
+
+LENGTH:
+55:15
+
+NOTES:
+- includes only the last few seconds of 'My Hero'.
+
+TRACKS:
+01. My Hero (cuts in)
+02. My Poor Brain
+03. For All The Cows
+04. Monkey Wrench
+05. Alone & Easy Target
+06. See You
+07. Gas Chamber
+08. Up In Arms
+09. Enough Space
+10. Big Me
+11. I'll Stick Around
+12. Hey, Johnny Park!
+13. Everlong
+14. New Way Home
+15. This Is A Call
+
+MD5 FINGERPRINTS:
+27c885d698467911bc3cc91befbc4182 *ff1998-06-27t01.flac
+f64f088afd00b8d75abb37f213a0c3e5 *ff1998-06-27t02.flac
+cf1ab2c1faf4f87d8b2b811f0c78a814 *ff1998-06-27t03.flac
+d6dc01170c8b1916a899f1c30669c92c *ff1998-06-27t04.flac
+490288fb0a3bffbf2addf1b9a30a5328 *ff1998-06-27t05.flac
+e2f89ec5e2d1fe7e8cd14dab1e9eafe1 *ff1998-06-27t06.flac
+8a3b34b8e5ba3139c91e2b854f945b31 *ff1998-06-27t07.flac
+b20e7cf8ee498a2eb21680dba0f41084 *ff1998-06-27t08.flac
+0f712b1b0ddd2eaf91485da6d4538178 *ff1998-06-27t09.flac
+78654f7c7ce22cd0ce3f1f100f49b45e *ff1998-06-27t10.flac
+42fa880dd075b16a8f67986ce198f467 *ff1998-06-27t11.flac
+72a3bde64a0e986f45cab1b67ea9535c *ff1998-06-27t12.flac
+0b64b0bc120577bd768daf4b646cbda5 *ff1998-06-27t13.flac
+70e4323d7d6e46d41b70d98875f5e5b5 *ff1998-06-27t14.flac
+1cd5c6c6a979938f04cf1017d2f02ece *ff1998-06-27t15.flac
+
+TRANSFERRED BY:
+Anonymous
+
+**PLEASE DO NOT ENCODE TO LOSSY FORMATS OR SELL!**

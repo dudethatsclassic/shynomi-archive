@@ -1,0 +1,46 @@
+
+Foo Fighters
+AmFam Insurance Amphitheater: Milwaukee, WI
+July 30, 2021
+
+Source: Schoeps MK4s > Tinybox > Sony PCM-M10 @ 24-bit / 44.1kHz
+Location: GA pit, left stack
+Transfer: M10 > USB > Audacity (dither) > CDWave > TLH
+Edits/EQ: None
+Taper: tapeworm(48) 
+
+Setlist:
+
+01 Intro
+02 Times Like These
+03 The Pretender
+04 Learn to Fly
+05 No Son of Mine
+06 The Sky is a Neighborhood
+07 Rope
+08 Shame Shame
+09 Breakout
+10 My Hero
+11 These Days
+12 Medicine at Midnight
+13 Walk
+14 Intro >
+15 You Should be Dancing [Bee Gees]
+16 -band intros-
+17 Somebody to Love [Queen]
+18 All My Life
+19 Making a Fire
+20 This is a Call
+21 Aurora
+22 Best of You
+23 Monkey Wrench
+24 Everlong
+
+Notes: Opening act was Radkey (not recorded). Tinybox set at mid gain; M10 set at 4. Raw transfer with no fades or EQ.
+
+Archive: Master WAV was archived @ 24-bit/44.1kHz and FLAC'd with cue sheet. 
+
+Taped and transferred by tapeworm(48) 
+Txt file compiled on 7/31/2021
+
+*** DO NOT REMASTER WITHOUT PERMISSION. DO NOT DISTRIBUTE IN LOSSY FORMATS. DO NOT SELL THIS RECORDING, TRADE IT FREELY ***  

@@ -1,0 +1,49 @@
+Foo Fighters
+2005 October 23
+Long Beach Arena, Long Beach, CA
+
+Source: Sony PCM-M1 + Sony ECM-77b (x2)
+
+Transfer: DAT Master (48/16) --> Tascam DA-20 --> Pioneer PDR-509 (via optical) --> CDR (44/16) --> Audacity --> Trader's Little Helper --> FLAC 8
+
+Length: 01:39:24
+
+01 - Intro
+02 - In Your Honor
+03 - All My Life
+04 - My Hero
+05 - Best of You
+06 - Up in Arms
+07 - Learn to Fly
+08 - Times Like These
+09 - The One
+10 - Stacked Actors
+11 - DOA
+12 - Have It All
+13 - These Days
+14 - <band intros/warm up>
+15 - Cold Day in the Sun
+16 - Everlong
+17 - <encore break/audience>
+18 - <Dave Grohl shout outs>
+19 - This is a Call
+20 - Monkey Wrench
+
+
+Transfer Notes:
+- 44/16 transfer.
+- Tracks/Labels (Audacity).
+- Slight high pass filter (Audacity).
+
+Recording Notes:
+- From the floor; A bit muddy but listenable.
+- Some audience noise along with some sporadic line-in issues. 
+- Tape pause between Track 17 and 18.  
+
+Gig Notes:
+- Weezer was the opening band.
+- The usual fun audience banter from Dave.   
+- The second night (of two nights) at the Long Beach Arena.
+
+
+muchmusic/dime. 12/31/2014.

@@ -1,0 +1,33 @@
+Rock am Ring 2015
+
+Foo Fighters live at Mendig Airbase, Seat 'Volcano Stage', 06.06.2015
+FM live broadcast 'Das Ding' (Germany)
+
+lineage: Harman Kardon AVR 11 (cable analog) -> Realtek HD Audio -> AIMP-2 Recorder -> stream (flac level 8) -> edit and split with Audacity 1.3 -> tracks (flac level 8) -> final tag with foobar 2000; sound quality is 10/10
+
+setlist (full concert was broadcasted)
+
+1. Everlong
+2. Monkey Wrench
+3. Learn to Fly
+4. Something From Nothing
+5. The Pretender
+6. Arlandria
+7. Band Introduction
+8. Cold Day in the Sun
+9. Congregation
+10. Walk
+11. My Hero
+12. Times Like These
+13. Stay With Me (cover song, org. The Faces) 
+14. Let There Be Rock (cover song, org. AC/DC)
+15. Under Pressure (cover song, org. David Bowie)
+16. All My Life
+17. These Days
+18. Outside
+19. Big Me (Slow Version)
+20. Breakout
+21. Best of You
+
+runtime: 138 min.
+

@@ -1,0 +1,58 @@
+Foo Fighters
+October 11th, 2005
+Arena at Harbor Yard
+Bridgeport, CT
+
+SOURCE (AUD #1):
+unknown > unknown (cassette)
+
+TRANSFER: 
+unknown > Exact Audio Copy > CD Wave 1.98 > flac 1.3.2
+
+GENERATION: 
+ANA(M) > CDR(1) > WAV [44.1khz/16-bit] > FLAC [Level 8]
+
+NOTES:
+- Small cut in 'Stacked Actors' for a tape flip.
+
+LENGTH: 
+85:01
+
+TRACKS: 
+01. In Your Honor
+02. All My Life
+03. My Hero
+04. Best Of You
+05. Up In Arms
+06. Learn to Fly
+07. The One
+08. Times Like These
+09. Stacked Actors (cut)
+10. Ain't Talkin' 'Bout Love (jam)
+11. DOA
+12. This Is A Call
+13. Cold Day In The Sun
+14. Everlong
+15. Breakout
+16. Monkey Wrench
+
+MD5 CHECKSUMS: 
+87dcc94370324c40b2e45e5d26dfc11c *01. In Your Honor.flac
+887687c5dce2bc6c6485466a2600fac5 *02. All My Life.flac
+cf1811013f7780eaf838e96503b5c785 *03. My Hero.flac
+95692c9219ab7063616361ea1d8e050e *04. Best Of You.flac
+ef3f4167d858e6755aeda0aebd7d563e *05. Up In Arms.flac
+777afe924d555cb5291cc4cf75334b22 *06. Learn To Fly.flac
+6282840419e1ed0a6f74400f8c400eb7 *07. The One.flac
+1879058521498f1c7f97828ba74e61a1 *08. Times Like These.flac
+983a2e22c23d425cf6bb696aa1c494f2 *09. Stacked Actors.flac
+2bad4da00fba4dbe9a8f1d1d45f47da5 *10. Ain't Talkin' 'Bout Love (jam).flac
+6ca102997c462a2d4227463c7f3886eb *11. DOA.flac
+1344878534348b8ec41879d0e7c1c3fe *12. This Is A Call.flac
+206a271924a7642205e3cd8f3413a8c0 *13. Cold Day In The Sun.flac
+92e569c9b98551d992345e4c223458e8 *14. Everlong.flac
+ba56bb26bc076a19f903c4a464f5c99a *15. Breakout.flac
+5aee1e16640b5433e74a7bc938228189 *16. Monkey Wrench.flac
+
+RECORDED AND TRANSFERRED BY: 
+unknown

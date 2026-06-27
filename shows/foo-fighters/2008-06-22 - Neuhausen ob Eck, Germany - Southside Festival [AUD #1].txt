@@ -1,0 +1,64 @@
+FOO FIGHTERS 
+June 22nd, 2008
+Flugplatz Gewerbepark (Southside Festival) 
+Neuhausen ob Eck, Germany 
+
+SOURCE: 
+Core Sound Cardioids > Battery Box > Olympus LS-10
+
+TRANSFER: 
+SDHC Card > Flash Memory Card Reader > USB > PC > Adobe Audition 1.5 > CD Wave 1.97 > Trader's Little Helper 2.4.1 > foobar2000 v0.9.5.6 
+
+GENERATION: 
+WAV(M) [48kHz/24bit] > WAV [44.1kHz/16bit] > dEdit > FLAC [Level 8] 
+
+LENGTH: 
+90:40 
+
+TRACKS: 
+01. All My Life 
+02. Times Like These 
+03. Long Road To Ruin 
+04. The Pretender 
+05. Learn To Fly 
+06. Cheer Up Boys (Your Make Up Is Running) 
+07. This Is A Call 
+08. Breakout 
+09. Stacked Actors 
+10. Skin & Bones (jam) 
+11. Skin & Bones 
+12. My Hero 
+13. Jam 
+14. Cold Day In The Sun 
+15. Everlong 
+16. Monkey Wrench 
+17. Best Of You 
+
+MD5-CHECKSUMS: 
+1a9c8994092f11c3d1fc36120a141565 *FooFighters_2008-06-22_t01.flac 
+de06f7b27908f92e4580418fe4becb00 *FooFighters_2008-06-22_t02.flac 
+dcd77bc4e841a597c5a453e2c4edb1f8 *FooFighters_2008-06-22_t03.flac 
+8328e60ac448beccb410c1918b17fb56 *FooFighters_2008-06-22_t04.flac 
+ddb8b2b8715cdf124bc5faf36802fbbe *FooFighters_2008-06-22_t05.flac 
+482117ebc3fd80a648e98a1208643c96 *FooFighters_2008-06-22_t06.flac 
+623259ed49e1b67a08aa6654392e8aa6 *FooFighters_2008-06-22_t07.flac 
+cb87971060a7f4045c370b7f12ebb596 *FooFighters_2008-06-22_t08.flac 
+3e78582b7095fb72c68dd77e6315f0b5 *FooFighters_2008-06-22_t09.flac 
+42558d8d819bf9ce8865acf4d0731a88 *FooFighters_2008-06-22_t10.flac 
+608738d99c0f125f7862b24fda9a5a1d *FooFighters_2008-06-22_t11.flac 
+1818e3bff40fe888d9d73f42ff061527 *FooFighters_2008-06-22_t12.flac 
+cb088abe57083f41966703437c8b8bf9 *FooFighters_2008-06-22_t13.flac 
+22f4b6cac6577aa49e1a4b6260b3a2ab *FooFighters_2008-06-22_t14.flac 
+7cc278850fb1b1323a461a6df9c24bd4 *FooFighters_2008-06-22_t15.flac 
+f11e1298da0074ea09dbeb0da0c8b0f3 *FooFighters_2008-06-22_t16.flac 
+149b9255d9adc3163f0a68f789d6d568 *FooFighters_2008-06-22_t17.flac 
+
+RECORDED AND TRANSFERRED BY: 
+RetroDude83 < retrodude83[at]gmail.com - http://db.etree.org/retrodude83 > 
+
+EDITED BY: 
+Daniel Bar
+
+* DO NOT SELL THIS RECORDING 
+* DO NOT SHARE IN MP3 OR ANY OTHER LOSSY FORMATS 
+* DO NOT REMASTER 

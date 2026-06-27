@@ -1,0 +1,27 @@
+Foo Fighters
+Later ... 25
+Royal Albert Hall
+London, UK
+
+21st September 2017
+
+Broadcast on BBC2 HD, 23rd September 2017
+
+Setlist:
+01 The Line
+02 interview with Dave Grohl
+03 The Sky Is A Neighbourhood
+04 All My Life
+05 La Dee Da
+06 Times Like These
+
+Lineage:
+BBC2 HD satellite broadcast -> ZGemma-Star 2S -> external HDD -> VideoReDo TV Suite v4
+(direct stream capture, no re-encoding)
+
+Video: 1920x1080i 25fps 16:9 H.264 (average bitrate = 6.7Mbps)
+Audio: 48000Hz 384kbps 5.1 surround AC-3
+Duration: 00:28:34
+Size: 1.46Gb
+
+

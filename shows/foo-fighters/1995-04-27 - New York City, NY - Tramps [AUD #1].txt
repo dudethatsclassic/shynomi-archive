@@ -1,0 +1,53 @@
+Foo Fighters
+April 27th, 1995
+Tramps Club
+New York, NY
+
+SOURCE (AUD #1):
+unknown > unknown
+
+TRANSFER:
+unknown > CDWave 1.97 > Trader's Little Helper 2.7.0
+
+GENERATION:
+CD(M) > WAV [44.1khz] > FLAC [Level 8]
+
+LENGTH:
+42:58
+
+NOTES:
+- 'With Compliments To Eddie' silver CD. 
+- Brief jam on the Collective Soul song 'Shine' before 'Exhausted.
+
+TRACKS:
+01. intro
+02. Down In The Park
+03. This Is A Call (cut)
+04. Floaty
+05. I'll Stick Around
+06. Big Me
+07. Wattershed
+08. For All The Cows
+09. Podunk
+10. Alone + Easy Target
+11. Shine (jam)
+12. Exhausted
+
+MD5 FINGERPRINTS:
+41f84569722a39dfefee34a504285d99 *01. intro.flac
+833d93482fd30a4968e02bf0fbf36e88 *02. Down In The Park.flac
+15d0ac9a3eaae64a54cb1b09158defc8 *03. This Is A Call.flac
+a7890efcae49afcde519f4ed6f3a3a4b *04. Floaty.flac
+5f7f68ec47c6e2ad7a4cb09425e90691 *05. I'll Stick Around.flac
+903364ef016a315f928e4c7ca18f4e75 *06. Big Me.flac
+f1ef3dc51cc70ccba1fe65b1de7b5e86 *07. Wattershed.flac
+489247e86a0d7ba5fec3fb18c563c659 *08. For All The Cows.flac
+29b2a96f0974420e6e77bca243b885ee *09. Podunk.flac
+89962a0be0e5a9604f2e7efc46c9f961 *10. Alone + Easy Target.flac
+2264058a3989db7ce7d5132c7b11e317 *11. Shine (jam).flac
+203d53b98e13ff8339e2cafcb6876bb2 *12. Exhausted.flac
+
+EXTRACTED BY:
+Unknown
+
+**PLEASE DO NOT ENCODE TO LOSSY FORMATS OR SELL!**

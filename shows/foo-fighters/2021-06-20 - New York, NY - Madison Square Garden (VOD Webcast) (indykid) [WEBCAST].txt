@@ -1,0 +1,111 @@
+Foo Fighters
+Madison Square Garden
+New York, New York
+June 20, 2021
+
+Lineage: VOD Webcast -> youtube-dl -> downloaded audio + video files -> FFmpeg (edit) -> MKVToolNix -> uncompressed .mkv
+Video: MPEG4 Video (H264) 1920x1080 16:9 5020 Kbps 60.00 fps
+Audio: AAC 128 Kbps 44.1 KHz stereo
+
+"In case you didn't get to see Foo Fighters live over this past year, you're in luck — the band has released full, pro-shot footage from their concert at Madison Square Garden earlier this year.
+
+The show took place on June 20 and marked the first concert at MSG in nearly 500 days. The last previous event held at the venue had taken place in March of 2020. Foo Fighters fans were required to show proof of full vaccination in order to attend, with the final dose received at least 14 days before the show took place. Foo Fighters played a 24-song set that night, including four from their 2021 album 'Medicine at Midnight' — "No Son of Mine", "Shame Shame", the self-titled track and "Making a Fire". The entire show, which was over two-and-a-half hours, has been made available by the bahd for those who were unable to attend any of their shows over the last year of uncertaintity." - Loudwire
+
+Setlist:
+Intro
+Times Like These
+The Pretender
+Learn to Fly
+No Son of Mine
+The Sky Is a Neighborhood
+Shame Shame
+Rope
+Run
+My Hero
+These Days
+Medicine at Midnight
+Walk
+-band introductions-
+Somebody to Love (Queen cover with Taylor on lead vocals)
+Monkey Wrench
+Arlandria
+Breakout
+Creep (Radiohead cover with Dave Chappelle) (Foo debut)
+All My Life
+Aurora
+This Is a Call
+Best of You
+
+Encore:
+Making a Fire
+You Should Be Dancing (Bee Gees cover) (Foo debut)
+Everlong
+
+TRT = 02:46:16
+
+Note: This is a perfect capture of the webcast.
+No imperfections were inherent in the broadcast.
+
+Captured and uploaded to DIME by indykid.
+
+MediaInfo:
+General
+Unique ID                                : 306252219612960598690220810245035993208 (0xE666083309851AA5DA8D2941CF6B2878)
+Complete name                            : Foo Fighters - 2021-06-20 Madison Square Garden, New York, New York [1080p60].mkv
+Format                                   : Matroska
+Format version                           : Version 4
+File size                                : 5.98 GiB
+Duration                                 : 2 h 46 min
+Overall bit rate                         : 5 152 kb/s
+Encoded date                             : UTC 2022-01-02 11:10:21
+Writing application                      : mkvmerge v47.0.0 ('Black Flag') 32-bit
+Writing library                          : libebml v1.3.10 + libmatroska v1.5.2
+
+Video
+ID                                       : 2
+Format                                   : AVC
+Format/Info                              : Advanced Video Codec
+Format profile                           : High@L4.2
+Format settings                          : CABAC / 3 Ref Frames
+Format settings, CABAC                   : Yes
+Format settings, RefFrames               : 3 frames
+Codec ID                                 : V_MPEG4/ISO/AVC
+Duration                                 : 2 h 46 min
+Bit rate                                 : 5 020 kb/s
+Width                                    : 1 920 pixels
+Height                                   : 1 080 pixels
+Display aspect ratio                     : 16:9
+Frame rate mode                          : Constant
+Frame rate                               : 59.940 (60000/1001) FPS
+Color space                              : YUV
+Chroma subsampling                       : 4:2:0
+Bit depth                                : 8 bits
+Scan type                                : Progressive
+Bits/(Pixel*Frame)                       : 0.040
+Stream size                              : 5.83 GiB (97%)
+Writing library                          : x264 core 155 r2901 7d0ff22
+Default                                  : Yes
+Forced                                   : No
+Color range                              : Limited
+Color primaries                          : BT.709
+Transfer characteristics                 : BT.709
+Matrix coefficients                      : BT.709
+
+Audio
+ID                                       : 1
+Format                                   : AAC LC
+Format/Info                              : Advanced Audio Codec Low Complexity
+Codec ID                                 : A_AAC-2
+Duration                                 : 2 h 46 min
+Bit rate                                 : 128 kb/s
+Channel(s)                               : 2 channels
+Channel layout                           : L R
+Sampling rate                            : 44.1 kHz
+Frame rate                               : 43.066 FPS (1024 SPF)
+Compression mode                         : Lossy
+Stream size                              : 152 MiB (2%)
+Language                                 : English
+Default                                  : Yes
+Forced                                   : No
+
+Captured and uploaded to DIME by indykid.

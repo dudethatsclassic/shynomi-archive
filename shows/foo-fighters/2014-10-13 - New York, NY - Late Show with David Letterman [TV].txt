@@ -1,0 +1,53 @@
+Artist: Foo Fighters
+Title: Late Show with David Letterman 
+Performance Date: October 13, 2014
+Broadcast Date: October 13, 2014
+Venue: CBS Studios
+Location: New York City, New York
+
+Source History of this DVD:
+  CBS-HD broadcast > Hauppauge WinTV-HVR 2250 > VideoRedo > .ts 
+
+-----------------------
+ Program Information
+-----------------------
+File Name: Foo Fighters 2014-10-13 Late Show with David Letterman (1080i).ts
+ Size: 1.561 GB
+ Duration: 00:15:27.29
+ Mux type: TS Stream
+ TS mux rate: 12.501 Mbps
+
+Video:                                
+ Encoding: MPEG2
+ VideoStreamID: x245
+ Frame rate: 29.97 fps
+ Encoding size: 1920 x 1080
+ Aspect ratio: 16:9
+ Header bit rate: 65.000 Mbps
+ VBV buffer: 976 KBytes
+ Profile: Main@High
+ Progressive:  Prog or Int
+ Chroma: 4:2:0
+ Bit rate: 12.568 Mbps
+
+Audio Stream: 1 (Primary)
+ Codec: AC3
+ Channels: 5.1
+ Language: eng
+ PID: x246
+ PES Stream Id: xBD
+ Bit rate: 384 Kbps
+ Sampling rate: 48000
+ Sample size: 16 bits
+
+---------------------
+ Tracklist:
+---------------------
+ 01. (00:00) Late Show with David Letterman Intro Sequence
+ 02. (00:44) Dave Grohl - Interview
+ 03. (09:29) Foo Fighters & Zac Brown - War Pigs (Black Sabbath)
+
+Checksum:
+00e137f44fc4efa00d6efbea164d3369 *Foo Fighters 2014-10-13 Late Show with David Letterman (1080i).ts
+
+

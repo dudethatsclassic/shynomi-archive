@@ -1,0 +1,52 @@
+Foo Fighters - 1996 07 05 Rock Torhout Festival, Tourhout, BE
+
+Show note:
+Slightly different setlist than on https://www.foofighterslive.com/shows/5th-july-1996-torhoutse-flank-rock-torhout-185
+
+Band
+Dave Grohl - Guitar, Vocals
+Nate Mendel - Bass Guitar
+Pat Smear - Guitar
+William Goldsmith - Drums
+
+1 Enough Space
+2 Butterflies
+3 Wattershed
+4 For All The Cows
+5 Gas Chamber
+6 This Is A Call
+7 Up In Arms
+8 Weenie Beenie
+9 Big Me
+10 My Poor Brain
+11 Good Grief
+12 Alone + Easy Target
+13 I'll Stickk Around
+
+Show Line-Up
+Afghan Whigs
+Alanis Morissette
+Björk, David Bowie
+Dog Eat Dog
+Foo Fighters
+Fun Lovin’ Criminals
+Grant Lee Bufflo
+House of Pain
+Massive Attack
+Meshell Ndegeocello
+Metal Molly 
+Moby
+Moondog Jr
+Neil Young & Crazy Horse
+Presidents of the USA
+Pulp
+Radiohead
+Rage Against The Machine
+Red Hot Chili Peppers
+Sepultura
+Skunk Anansie
+The Prodigy
+Therapy?
+Underworld
+
+Lineage: Sony WM-D3 audience master > 1st Gen tape > Tascam 202MKVII > USB > CDWAV > Audacity for fades, normalization, noise reduction > CDWAVE (SPLITS) > FLAC [loughney xfer]

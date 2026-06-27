@@ -1,0 +1,32 @@
+Foo Fighters
+September 6th, 2012
+Time Warner Cable Arena (2012 Democratic National Convention)
+Charlotte, NC
+
+SOURCE (PRO #1):
+soundboard > unknown
+
+TRANSFER:
+Raw source > Avid Interplay > Rhozet Carbon Coder > YAMB 2.0 > TsMuxer GUI 1.10.6
+
+GENERATION:
+Raw HD Feed > MOV [H.264/33Mbps/1080i|PCM/48khz/24-Bit] > Transport Stream
+
+LENGTH:
+9:59
+
+NOTES:
+- Direct video feed with no logos.
+- Both songs are performed acoustically.
+
+TRACKS:
+01. My Hero
+02. Walk
+
+MD5 FINGERPRINTS:
+f227cd6c9fc38fffc5cee3024070c709 *FOO FIGHTERS 2012-09-06 PRO #1.ts
+
+TRANSFERRED BY:
+Anonymous
+
+**PLEASE DO NOT ENCODE TO LOSSY FORMATS OR SELL!**

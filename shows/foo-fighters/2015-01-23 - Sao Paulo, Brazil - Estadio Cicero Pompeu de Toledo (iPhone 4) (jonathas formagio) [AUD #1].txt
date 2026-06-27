@@ -1,0 +1,78 @@
+Foo Fighters
+January 23rd, 2015
+Estádio Cícero Pompeu de Toledo
+São Paulo, Brazil
+
+SOURCE (AUD #1):
+built-in > iPhone 4
+
+TRANSFER: 
+USB > Adobe Audition CC 2018 > CD Wave 1.98 > flac 1.3.2
+
+GENERATION: 
+WAV [48khz/16-bit/mono] > FLAC [Level 8]
+
+LENGTH: 
+164:42
+
+TRACKS: 
+01. Something From Nothing
+02. The Pretender
+03. Learn to Fly
+04. Breakout
+05. Arlandria
+06. My Hero
+07. Congregation
+08. Walk
+09. I'm The One (part of)
+10. Tom Sawyer (part of)
+11. War Pigs (part of)
+12. Cold Day In The Sun
+13. I'll Stick Around
+14. Monkey Wrench
+15. Skin And Bones
+16. Wheels
+17. Times Like These
+18. Detroit Rock City
+19. Stay With Me
+20. Tie Your Mother Down
+21. Under Pressure
+22. All My Life
+23. These Days
+24. Outside
+25. Best Of You
+26. Everlong
+
+MD5 CHECKSUMS: 
+e4f8e8f9c865e35e2d6fb18ad08bc954 *01. Something From Nothing.flac
+ddcac71aa77503f49aab8fa074ab9890 *02. The Pretender.flac
+de97f53681931e94860cea709b6af315 *03. Learn To Fly.flac
+c94f42344744f3bc23509d05382bd680 *04. Breakout.flac
+0d0d355a11a5f023ad149abe275fb67c *05. Arlandria.flac
+687baa2885e92fba0d2e4f7e8203d11b *06. My Hero.flac
+3132617531e9fa0a3a1c7b91ba48e92a *07. Congregation.flac
+f3abc6f49b8b28f51fc2030ba8761061 *08. Walk.flac
+79430da8d3fcd5c109b8bf28830101cc *09. I'm The One (part of).flac
+7140f56591fa1ec6390bc6a4215d1f0d *10. Tom Sawyer (part of).flac
+86bbb67b862c04f566fbc827a3d45a50 *11. War Pigs (part of).flac
+d97801f711b96199717758d337f4e5f4 *12. Cold Day In The Sun.flac
+36c58497c8056f522af8b08a59a78078 *13. I'll Stick Around.flac
+ac4b4c29c79eccfe3dd2730f19cb57e3 *14. Monkey Wrench.flac
+7a3f3ccf934feb1f047c8197c0c0e599 *15. Skin And Bones.flac
+733f9be329519f7a6c92fa3d2ec41099 *16. Wheels.flac
+c11e6240a5603eeec4e8c1f0fbade1c4 *17. Times Like These.flac
+48c8d751c6675cd1a59fca89ab4da390 *18. Detroit Rock City.flac
+7f75a1a2867ef39355eaf4a97db55c4b *19. Stay With Me.flac
+b1af38b8da8435b0131a211b6fdc8992 *20. Tie Your Mother Down.flac
+fe63eb5fad3536fe30a5c71f0bfa9cfc *21. Under Pressure.flac
+68e8bea11e69d3c464d7d6935eca2c8c *22. All My Life.flac
+55e50f24c7a84ec976b209fd2584aab3 *23. These Days.flac
+e925d0e9d7e80dd6474218219226f6d5 *24. Outside.flac
+079e2e3fbc453e3dc09000f5920b1311 *25. Best Of You.flac
+5935ef8c8d45d08e83f101ec11dcf557 *26. Everlong.flac
+
+RECORDED BY: 
+Jonathas Formagio
+
+EDITED BY:
+FooFightersLive.com

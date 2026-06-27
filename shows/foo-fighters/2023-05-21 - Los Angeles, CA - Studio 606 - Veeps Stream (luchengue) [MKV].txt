@@ -1,0 +1,91 @@
+FOO FIGHTERS
+Preparing music for concerts
+Studio 606, Los Angeles, CA, USA
+May 21st, 2023
+
+VEEPS streaming > audio & video > MKVToolNix > mkv
+Video: AVC (3840x2160) - 16:9 - 16.0 Mb/s - 23.976 fps
+Audio: AAC LC - 317 kb/s - Stereo - 48.0 kHz
+
+A prerecorded performance on an unknown date; part of the “global streaming event”
+"Foo Fighters: Preparing Music for Concerts" streaming on Veeps 21 May. First full performance with Josh Freese on drums.
+
+Setlist: (1 h 1 min)
+1. All My Life
+2. Rescued
+3. No Son of Mine
+4. Under You
+5. Workin' for a Livin' (jam)
+6. The Sky Is a Neighbourhood
+7. Nothing at All
+8. Monkey Wrench
+9. Aurora
+
+Show preceded by Chad Smith, Tommy Lee & Danny Carey entering the room to reveal Josh Freese as the tour drummer.
+
+Captured by luchengue for DIME
+
+
+
+
+MEDIAINFO
+
+General
+Unique ID                                : 59713095118746824316652004078052121966 (0x2CEC52E44D82347888AA06EA34D71D6E)
+Complete name                            : C:\Users\lucho\Downloads\jdownloads\Foo Fighters - 2023.05.21 - Veeps Stream [2160p-MKV - luchengue files]\foofighters_2160 (2160p).mkv
+Format                                   : Matroska
+Format version                           : Version 4
+File size                                : 6.97 GiB
+Duration                                 : 1 h 1 min
+Overall bit rate                         : 16.1 Mb/s
+Encoded date                             : UTC 2023-05-24 04:43:00
+Writing application                      : mkvmerge v76.0 ('Celebration') 64-bit
+Writing library                          : libebml v1.4.4 + libmatroska v1.7.1 / Lavf58.39.101
+
+Video
+ID                                       : 1
+Format                                   : AVC
+Format/Info                              : Advanced Video Codec
+Format profile                           : High@L5.1
+Format settings                          : CABAC / 3 Ref Frames
+Format settings, CABAC                   : Yes
+Format settings, Reference frames        : 3 frames
+Codec ID                                 : V_MPEG4/ISO/AVC
+Duration                                 : 1 h 1 min
+Bit rate mode                            : Constant
+Bit rate                                 : 16.0 Mb/s
+Width                                    : 3 840 pixels
+Height                                   : 2 160 pixels
+Display aspect ratio                     : 16:9
+Frame rate mode                          : Constant
+Frame rate                               : 23.976 (24000/1001) FPS
+Standard                                 : NTSC
+Color space                              : YUV
+Chroma subsampling                       : 4:2:0
+Bit depth                                : 8 bits
+Scan type                                : Progressive
+Bits/(Pixel*Frame)                       : 0.080
+Stream size                              : 6.84 GiB (98%)
+Default                                  : Yes
+Forced                                   : No
+Color range                              : Limited
+Color primaries                          : BT.709
+Transfer characteristics                 : BT.709
+Matrix coefficients                      : BT.709
+
+Audio
+ID                                       : 2
+Format                                   : AAC LC
+Format/Info                              : Advanced Audio Codec Low Complexity
+Codec ID                                 : A_AAC-2
+Duration                                 : 1 h 1 min
+Bit rate                                 : 317 kb/s
+Channel(s)                               : 2 channels
+Channel layout                           : L R
+Sampling rate                            : 48.0 kHz
+Frame rate                               : 46.875 FPS (1024 SPF)
+Compression mode                         : Lossy
+Stream size                              : 140 MiB (2%)
+Default                                  : Yes
+Forced                                   : No
+

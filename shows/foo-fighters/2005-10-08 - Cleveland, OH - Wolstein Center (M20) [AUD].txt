@@ -1,0 +1,30 @@
+FOO FIGHTERS
+October 8, 2005
+Wolstein Center
+Cleveland, OH
+
+Source: Microtech Gefell M20 > JK Labs DVC iii > Sony TCD-D100
+Kocation: Sec. 126 row B (thirty feet from overhead left PA)
+Taper: CPS
+Lineage: DAT(M) > WAV [48] > WAV [44.1] > FLAC
+Transfer: Sony TCD-D7 > Sound Devices 744t > M-Audio Audiophile 2496 > Sound Forge
+Edits/EQ: +18.3dB
+
+01 - In Your Honor
+02 - All My Life
+03 - My Hero
+04 - Best Of You
+05 - Up In Arms
+06 - Learn to Fly
+07 - Times Like These
+08 - The One
+09 - Stacked Actors
+10 - D.O.A.
+11 - This is a Call
+12 - Cold Day in The Sun
+13 - Everlong
+14 - Breakout
+15 - Monkeywrench
+
+
+Compiled June 2019 by CPS

@@ -1,0 +1,31 @@
+FOO FIGHTERS (DAVE GROHL SOLO)
+December 11, 2000
+BBC Radio 1 (Jo Whiley Show)
+London, United Kingdom
+
+SOURCE (SBD#1b):
+soundboard > unknown
+
+TRANSFER:
+Cable FM > Leadtek WinFast TV 2000XP Expert PCI > RealTek HD Audio in > Adobe Audition 2.0 > CD Wave 1.96.1 > FLAC Frontend 1.7.1
+
+GENERATION:
+FM > WAV [48kHz] > WAV [44.1kHz] > FLAC [Level 8]
+
+LENGTH:
+3:59
+
+NOTES:
+- BBC Radio 1 re-broadcast on June 6th, 2008.
+- Dave Grohl played the song solo on acoustic guitar.
+
+TRACKS:
+01. Everlong
+
+MD5 FINGERPRINTS:
+a7fb2b60e7580023013e02e4a8a1e23e *foofighters2000-12-11t01.flac
+
+RECORDED, EDITED & TORRENTED BY:
+Miki Johansen
+
+***PLEASE DO NOT SELL OR ENCODE TO MP3***

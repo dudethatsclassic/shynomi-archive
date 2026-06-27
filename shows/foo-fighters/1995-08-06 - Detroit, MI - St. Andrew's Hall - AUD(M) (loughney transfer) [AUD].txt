@@ -1,0 +1,26 @@
+Foo Fighters - 1995 08 06 St. Andrew's Hall, Detroit, MI
+
+Transfer note:
+Tape Cut after I'll Stick Around. Tape cut after Podunk removed but it clips the intro to ALone + Easy Target. Lot of tape hiss, but the hiss wasn't on the quite parts of the tape cuts, so I don't think the hiss is from the tape generation, but from the original recording. I tried a couple of different techniques to remove the hiss, but they all seriously degraded the sound, so I left it along.
+
+1 intro
+2 Winnebago 
+3 I'll Stick Around
+4 Butterflies
+5 Wattershed
+6 Big Me
+7 This Is A Call
+8 Weenie Beenie
+9 For All The Cows
+10 X-Static
+11 Good Grief
+12 Podunk
+13 Alone + Easy Target
+14 Exhausted
+15 Down in the Park
+
+Openers:
+Shudder To Think 
+Wool
+
+Lineage: Audience Master > unknown gen tape > Tascam 202MKVII > USB > CDWAV > Audacity for fades, normalization, noise reduction > CDWAVE (SPLITS) > FLAC [loughney xfer]

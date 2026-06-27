@@ -1,0 +1,35 @@
+FOO FIGHTERS
+October 3rd 2006
+Sydney Opera House
+Syndey, Australia
+
+SOURCE (SBD #1):
+soundboard > unknown
+
+TRANSFER:
+FM > unknown > Adobe Audition > WavMerge 2.1 > CD Wave 1.91 > Traders Little Helper 2.4.1
+
+GENERATION:
+FM > WAV [44.1khz] > FLAC [Level 8]
+
+LENGTH:
+
+NOTES:
+- Originally broadcast on December 25th, 2006 by Triple J.
+
+TRACKS:
+01. intro 
+02. Razor
+03. intro
+04. Big Me
+
+MD5 FINGERPRINTS:
+c5929f0ec6650a5fe278484d46706da8 *FooFighters2006-10-03t01.flac
+84a1de9185d7a7e6b25b7f620d82aefc *FooFighters2006-10-03t02.flac
+16189524d67f3aff375fe41062cd3d12 *FooFighters2006-10-03t03.flac
+5d27bf5da9a995a91a2e2a376960fb9f *FooFighters2006-10-03t04.flac
+
+TRANSFERRED BY:
+Frucisgod
+
+**PLEASE DO NOT ENCODE TO LOSSY FORMATS OR SELL!**

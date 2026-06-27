@@ -1,0 +1,108 @@
+Foo Fighters
+Pinkpop Festival
+Main Stage
+Megaland
+Landgraaf, Netherlands 
+June 16, 2018
+
+Lineage: LIVE Webcast -> Livestreamer -> FFmpeg (edit) -> .ts
+Video: MPEG4 Video (H264) 1024x576 1550 Kbps 25.00 fps
+Audio: AAC 128 Kbps 48.0 KHz stereo
+
+Setlist: 
+Run
+All My Life
+Learn to Fly
+The Pretender 
+The Sky Is a Neighborhood
+Rope 
+Sunday Rain
+My Hero 
+These Days
+Walk
+Under My Wheels (Alice Cooper cover)
+-Band introductions- >
+Another One Bites the Dust (Queen cover) >
+Imagine (John Lennon cover)
+Jump (Van Halen cover) > 
+Blitzkrieg Bop (The Ramones cover)
+Under Pressure (Queen cover)
+Monkey Wrench
+Wheels
+Breakout
+Dirty Water
+Best of You
+
+Encore:
+Times Like These
+Everlong
+
+TRT = 02:29:48
+
+Note: This is a perfect capture of the webcast. Any imperfections, if present, were inherent in the broadcast.
+
+Captured and uploaded to DIME by indykid.
+
+MediaInfo:
+General
+ID                                       : 1 (0x1)
+Complete name                            : Foo Fighters - 2016-06-16 Pinkpop, Megaland, Landgraaf, Netherlands [576p].ts
+Format                                   : MPEG-TS
+File size                                : 1.75 GiB
+Duration                                 : 2 h 29 min
+Overall bit rate mode                    : Variable
+Overall bit rate                         : 1 674 kb/s
+
+Video
+ID                                       : 256 (0x100)
+Menu ID                                  : 1 (0x1)
+Format                                   : AVC
+Format/Info                              : Advanced Video Codec
+Format profile                           : Main@L3.2
+Format settings                          : CABAC / 2 Ref Frames
+Format settings, CABAC                   : Yes
+Format settings, RefFrames               : 2 frames
+Codec ID                                 : 27
+Duration                                 : 2 h 29 min
+Bit rate mode                            : Constant
+Nominal bit rate                         : 1 400 kb/s
+Width                                    : 1 024 pixels
+Height                                   : 576 pixels
+Display aspect ratio                     : 16:9
+Frame rate                               : 25.000 FPS
+Color space                              : YUV
+Chroma subsampling                       : 4:2:0
+Bit depth                                : 8 bits
+Scan type                                : Progressive
+Bits/(Pixel*Frame)                       : 0.095
+
+Audio
+ID                                       : 257 (0x101)
+Menu ID                                  : 1 (0x1)
+Format                                   : AAC
+Format/Info                              : Advanced Audio Codec
+Format version                           : Version 4
+Format profile                           : LC
+Muxing mode                              : ADTS
+Codec ID                                 : 15
+Duration                                 : 2 h 29 min
+Bit rate mode                            : Variable
+Channel(s)                               : 2 channels
+Channel positions                        : Front: L R
+Sampling rate                            : 48.0 kHz
+Frame rate                               : 46.875 FPS (1024 SPF)
+Compression mode                         : Lossy
+Delay relative to video                  : -1 s 30 ms
+Language                                 : Dutch
+
+Menu
+ID                                       : 4096 (0x1000)
+Menu ID                                  : 1 (0x1)
+Duration                                 : 2 h 29 min
+List                                     : 256 (0x100) (AVC) / 257 (0x101) (AAC, Dutch)
+Language                                 :  / Dutch
+Service name                             : Service01
+Service provider                         : FFmpeg
+Service type                             : digital television
+
+Captured and uploaded to DIME by indykid.

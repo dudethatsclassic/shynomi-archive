@@ -1,0 +1,117 @@
+Band: Foo Fighters
+Date: October 15, 2017
+Title: Concrete and Gold in Greensboro
+Matrix: GSJ-128 (Genuine Space Jewel Recording)
+
+Venue: Greensboro Coliseum Complex
+Location: Greensboro, North Carolina
+
+Equipment: Edirol R-09HR -(record 24/96)-> Adobe Audition -(track)-> Flac Frontend -(FLAC 8)-> DONE!
+
+
+Setlist:
+ 01. Run
+ 02. All My Life
+ 03. Learn To Fly
+ 04. The Pretender
+ 05. The Sky Is A Neighborhood
+ 06. Something From Nothing
+ 07. Walk
+ 08. Rope
+ 09. Sunday Rain
+ 10. My Hero
+ 11. These Days
+ 12. Let It Die
+ 13. I'll Stick Around
+ 14. Enough Space
+ 15. White Limo
+ 16. Arlandria
+ 17. Arrows
+ 18. Times Like These
+ 19. Breakout
+ 20. Make It Right
+ 21. Skin And Bones
+ 22. Band Introductions
+     > Chris Shiflett - Communication Breakdown
+     > Nate Mendel - One More Chance 
+     > Rami Jaffee - Jump 
+     > Pat Smear - Bliztzkreig Bop
+     > Taylor Hawkins
+ 23. Monkey Wrench
+ 24. Best Of You
+ 25. <encore break>
+ 26. Dirty Water
+ 27. This Is A Call
+ 28. Everlong 
+
+
+MD5 checksum values (16-bit):
+8ed5e522f12a32f4684526fa953b7b13 *01. Run.flac
+765d63cb7263053bcde522a4a8008d84 *02. All My Life.flac
+74a0a208cecec53c5f3786403f4f6484 *03. Learn To Fly.flac
+8b849a9a5a8245fbb34fcf977b6d0203 *04. The Pretender.flac
+25b27d008e3e96b2560f69afed29c767 *05. The Sky Is A Neighborhood.flac
+b432ba01a2da41a9df90fb88cf7dae81 *06. Something For Nothing.flac
+1be41c46a19a09229ae05ea94fbe0bd6 *07. Walk.flac
+47ff0c14e3b509b502f5d157354e2653 *08. Rope.flac
+c79505b01cfc30245dc520a55a4dcf05 *09. Sunday Rain.flac
+14804bc1f62e736d03a968951a47bf5d *10. My Hero.flac
+c25810241625eaaf3267ac586ac6bc14 *11. These Days.flac
+d616cae45bd3bd1b346d70a5ebd367b0 *12. Let It Die.flac
+86fe1ca1e090e5a4a6415e669a76d582 *13. I'll Stick Around.flac
+18c6fa7ef2682688f6325d5338e0a2cc *14. Enough Space.flac
+563207e6381be1a5a053b21dfd08e4bc *15. White Limo.flac
+5b7789ef01547bb0050a58f3d9b90554 *16. Arlandria.flac
+0f8b370fe02f80e9d19bf297198bd9da *17. Arrows.flac
+042ca875acc4c9ecd1a9457e3cd12dce *18. Times Like These.flac
+62c9e94dee5cae2a5c12aecbea72d4da *19. Breakout.flac
+ffc123a250384867e932de98b878f0d3 *20. Make It Right.flac
+45987d5cd9630612c62b98087aab252b *21. Skin And Bones.flac
+6c71daea34c3c4cfbd8e11f2356bdc76 *22. Band Introductions.flac
+7e28874d7ea0cdf52e75ddd580d808c8 *23. Monkey Wrench.flac
+21306d11164fea1d89d5e50e715bc0b9 *24. Best Of You.flac
+a40e47e46366efd32ad4c3eb025bfd65 *25. encore break.flac
+519873657cdcbcdf85b4d080b6bc0827 *26. Dirty Water.flac
+e20140b7e4e9927d938dc99efb6d9fa7 *27. This Is A Call.flac
+20f681b4b28224f2b20ac7a25a3aee59 *28. Everlong.flac
+
+
+FLAC Fingerprints (16-bit):
+01. Run.flac:a57045af73fb410ab7cff0c48250a819
+02. All My Life.flac:c8b090320d6ffd4a7592306597d65c36
+03. Learn To Fly.flac:5b136ad6b837d5f6bc1d3d398652f861
+04. The Pretender.flac:8ad9a4d01caee3fbfbd2c22d8366c1d8
+05. The Sky Is A Neighborhood.flac:64d1818acba66da94f416230f4a80f63
+06. Something For Nothing.flac:8597f43fc19d63163f845132e8f5192f
+07. Walk.flac:9516b56b4684d8b707bdc7eb8f08f179
+08. Rope.flac:59c8afd894843f2bfb9af78fd9ab6734
+09. Sunday Rain.flac:ee9481b087614630de2dc759ff26b32a
+10. My Hero.flac:73b6af4df75aab93e23cb5732c86e77f
+11. These Days.flac:d25c6f3f930d2660cf1235d34df6470d
+12. Let It Die.flac:67d4565d04be9b01e19cd2539ecad333
+13. I'll Stick Around.flac:b069858cc572e188ff6f63117e18b9b5
+14. Enough Space.flac:37e63a0bec1cfc153d9d22b997af9980
+15. White Limo.flac:8442571417c229c2e9a4edee89602f1a
+16. Arlandria.flac:140631f9faf465e250660f11031e11a1
+17. Arrows.flac:131e59a30ea9dbf6f18224910dd9a1b6
+18. Times Like These.flac:5d10a4c7be9f2c87d5136f16813b130f
+19. Breakout.flac:619c2beb1f17cb6376a0edd0265308a5
+20. Make It Right.flac:17e84e9df7aff1c1c33d512921752651
+21. Skin And Bones.flac:048d751673c579b0175747bbb92a9369
+22. Band Introductions.flac:7e0f5857b2d85739cc571ca785de08e9
+23. Monkey Wrench.flac:fadfa607f1ed05914ce89cb333acb685
+24. Best Of You.flac:ec3a7eb967a792c93f2c718f61dcbeb8
+25. encore break.flac:c96b84fa9ec2f7ee6d5e442ea0dd0761
+26. Dirty Water.flac:c2168aa3d115f113c1f55449be23f0ee
+27. This Is A Call.flac:cdbb6c5b237cbb331e745ddd231aae00
+28. Everlong.flac:0f0c26a411b491982fa9b0c5af56f628
+
+
+Recording by: donkyFliP
+Artwork by: donkyFliP
+Brought to you by: donkyFliP
+
+**************************************************
+             KEEP THE MUSIC PURE 
+            DO NOT CONVERT TO MP3 
+**************************************************

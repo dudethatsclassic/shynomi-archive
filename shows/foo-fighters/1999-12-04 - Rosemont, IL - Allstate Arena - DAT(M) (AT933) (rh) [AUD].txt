@@ -1,0 +1,36 @@
+
+Foo Fighters
+Allstate Arena: Rosemont, IL
+December 4, 1999
+
+Source: AT933(hyper) > Sony PCM-M1 @ 48kHz
+Lineage: DAT master > FLAC
+Transfer: Panasonic SV-3700 > S/PDIF > Marantz PMD570 > Sandisk 8GB Flash Card
+Edits/EQ: +2dB
+Taper: RH
+
+Setlist:
+
+01 Intro
+02 I'll Stick Around
+03 Breakout
+04 Learn to Fly
+05 Stacked Actors
+06 Up In Arms
+07 Ain't it the Life
+08 Monkey Wrench
+09 Alone + Easy Target
+10 Everlong
+11 Big Me
+12 My Hero
+13 New Way Home
+14 This Is A Call
+
+Notes: Q101 Twisted Xmas 6. Transferred by the taper in 2021 from the master DAT. Raw transfer with no fades or EQ.
+
+Archive: DAT mastered was transferred @ 48kHz and FLAC'd with cue sheet. 
+
+Taped & transferred by RH; tracked by tapeworm(48) 
+Txt file compiled on 8/29/2024
+
+*** DO NOT DISTRIBUTE IN LOSSY FORMATS. DO NOT SELL THIS RECORDING, TRADE IT FREELY *** 

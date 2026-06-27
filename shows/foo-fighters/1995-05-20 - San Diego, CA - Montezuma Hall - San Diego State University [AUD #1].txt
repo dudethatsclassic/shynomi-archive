@@ -1,0 +1,45 @@
+FOO FIGHTERS
+May 20th, 1995
+Montezuma Hall (San Diego State University)
+San Diego, CA
+
+SOURCE (AUD #1):
+Core Sound Binaurals > Sony TCD-D7 (DAT)
+
+TRANSFER:
+DAT > Sony Soundforge > CDR > RubyRipper > FLAC Frontend
+
+GENERATION:
+DAT(x) > CDR(1) > WAV [44.1khz] > FLAC [Level 8]
+
+LENGTH:
+38:59
+
+TRACKS:
+01. intro/soundcheck
+02. Winnebago
+03. This Is A Call
+04. Butterflies
+05. I'll Stick Around
+06. Big Me
+07. Wattershed
+08. For All The Cows
+09. Alone + Easy Target
+10. Exhausted
+
+MD5 FINGERPRINTS:
+b33794ef1c77dad9e37341d82fafca39 *ff1995-05-20t01.flac
+77b7ce695862df247636bb12d473354c *ff1995-05-20t02.flac
+db6017b236f5472c22472773a4a44cd5 *ff1995-05-20t03.flac
+b43050390539e6b7d35ad5966f5d807f *ff1995-05-20t04.flac
+0cdba65205e32b454c5c28aebeef1fb2 *ff1995-05-20t05.flac
+ed05e8eef15950fefb38ea2e509f0998 *ff1995-05-20t06.flac
+6708b077e9adfff5fdb23d8ac4704c70 *ff1995-05-20t07.flac
+b0d89329deaefc3c21ec1977be38cfb2 *ff1995-05-20t08.flac
+058d9599b3fcfc9fa081b55ff7135e1e *ff1995-05-20t09.flac
+4f7cfc328bd98fe231da3f8c89a38b48 *ff1995-05-20t10.flac
+
+TRANSFERRED BY:
+Anonymous
+
+**PLEASE DO NOT ENCODE TO LOSSY FORMATS OR SELL!**

@@ -1,0 +1,40 @@
+FOO FIGHTERS
+September 18, 2007
+Nissan Live Sets Stage, Century City
+Los Angeles, CA
+
+SETLIST (27:56)
+---------------
+01) intro
+02) The Pretender
+03) Long Road To Ruin
+04) Everlong
+05) My Hero
+06) Q&A with audience
+07) Home
+
+GENERATION
+---------------
+Transport Stream [AC3 384Kbps] -> AC3 [384Kbps] -> WAV [48kHz] -> WAV [44.1kHz] -> FLAC [Level 8]
+
+SOURCE (PRO #1b)
+---------------
+soundboard -> unknown
+
+TRANSFER
+---------------
+ProjectX v0.90.4.00 -> BeSweet v1.5b31 -> Adobe Audition 3.0 > CD Wave v1.97 > FLAC Frontend v1.7.1
+
+MD5 FINGERPRINTS
+---------------
+400b966e69d7e8bcb6cc4765fd175590 *FooFighters2007-09-18t01.flac
+fb48800d6acfd0beb234e67901e52b1f *FooFighters2007-09-18t02.flac
+8eb46021beb6a1af85a1e5bc9b9a5219 *FooFighters2007-09-18t03.flac
+2bd37828402e8c7bce5178dd1161b4c6 *FooFighters2007-09-18t04.flac
+fc6b6c296f9a0afe38ba08714d9b73af *FooFighters2007-09-18t05.flac
+4359dd97e303a0e24d4d72d59e0a1951 *FooFighters2007-09-18t06.flac
+e48eaaa72375778eeaaa9594960be191 *FooFighters2007-09-18t07.flac
+
+Extracted by Simon Kilmore.
+PLEASE DO NOT ENCODE TO LOSSY FORMATS OR SELL!
+

@@ -1,0 +1,19 @@
+Foo Fighters - 1985 07 29 SOMA, San Diego, CA, USA
+
+Wow, super annoying tape. I assume the taper paused during some of the applause breaks, and even got confused durign Exhausted.  Somewhat muddy sound. 
+
+1. Winnebago (tape cut during applause)
+2. I'll Stick Around
+3. Butterflies
+4. Wattershed
+5. Big Me (tape cut during applause)
+6. This Is A Call (tape cut during applause)
+7. Weenie Beenie
+8. For All The Cows
+9. My Hero (tape cut during applause)
+10. Podunk (tape cut during applause)
+11. Alone + Easy Target (tape cut during applause)
+12. Exhausted (cut)
+13. Down In The Park
+
+Lineage: Master > unknown gen tape > Tascam 202MKVII USB out > CDWAV > Audacity (normalization, fades, merges, noise reduction) > CDWAV (splits) > DBPowerAmp (FLAC) [loughney xfer]

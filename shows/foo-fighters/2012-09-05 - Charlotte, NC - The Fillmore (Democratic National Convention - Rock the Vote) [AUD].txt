@@ -1,0 +1,72 @@
+Foo Fighters
+The Fillmore-Charlotte, NC
+2012-09-05
+Democratic National Convention - Rock the Vote
+
+Taper:  Rerun
+Lineage: Mono IEM>Tascam DR-05>Adobe Audition 3.0>mixed and dithered to 16bit with Ozone + Waves plugins>CD Wave Editor>TLH
+
+Setlist:
+
+White Limo 
+All My Life 
+Rope 
+The Pretender 
+My Hero 
+Dear Rosemary 
+Breakdown 
+(Tom Petty and The Heartbreakers cover)
+Learn to Fly 
+Arlandria 
+These Days 
+Cold Day in the Sun 
+I'll Stick Around 
+Walk 
+Monkey Wrench 
+Hey, Johnny Park! 
+Jet 
+(Wings cover)
+Young Man Blues 
+(Mose Allison cover)
+This Is a Call 
+In the Flesh? 
+(Pink Floyd cover)
+Best of You 
+Encore:
+Aurora 
+Times Like These 
+Winnebago 
+(Late! cover)
+Big Me 
+For All the Cows 
+Wattershed 
+New Way Home 
+Enough Space 
+See You 
+Skin and Bones 
+Alone + Easy Target 
+Breakout 
+Bridge Burning 
+Exhausted 
+Everlong 
+
+
+Notes:  this is said to be, by the Foo Fighters themselves, the longest show they have ever played!  The Fillmore 
+holds about 1000 people, so needless to say the energy of this show was awesome.  This was a loooonnnngg day....went 
+down to soundcheck about 5 pm, then chatted with Brad and grabbed a few beers while the line backed up further and
+further...Foo Fighters came on about 10pm and decided to finish up about 1:30ish...then I had to deal with uptown
+baracades, road blocks, etc. due to the DNC...got home about 2:30am and had to work the next day, ugh.
+
+This recording has two different feeds...about the first hour or so has one feed (lead guitar I think), then I switched 
+to another feed for the remainder of the show...both have their good and bad...I liked the way the second feed sounded 
+during soundcheck so I switched it mid show....after listening multiple times, I wish I had just left it alone.  There 
+are a few static bursts here and there, nothing distracting though...the only things I don't like about this recording
+are the background hiss and sometimes the vocals get lost in the music...I could remove the hiss, but it really destroys
+the high end of the recording, so I just didn't remove anything below 12k mhz. 
+This is mix 13...just FYI, mixing a 24bit, 3.5 hour show in a multitrack session with plugins takes countless hours, so 
+if you have negative thoughts, please keep them to yourself.
+
+I hope you like it as much as I do....this is a special one to me, especially since they are now done it seems.
+Merry Christmas Dime!
+
+dedicated to Brad D....drove from Baltimore to be front row for probably his 60th or so Foo Fighters show.

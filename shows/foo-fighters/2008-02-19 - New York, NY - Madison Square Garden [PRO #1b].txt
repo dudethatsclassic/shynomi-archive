@@ -1,0 +1,58 @@
+Fuse Rocks The Garden: Foo Fighters
+Madison Square Garden, New York, NY 2/19/08
+rebroadcast 4/15/11
+NTSC DVD
+length: 40:51
+
+This is from the re-airing of the show originally broadcast on February 20, 2008. Two songs (Breakout and Best Of You) were edited out from the original showing. More songs were also cut from the original airing. See http://en.wikipedia.org/wiki/Fuse_Rocks_The_Garden:_Foo_Fighters for more info on the original setlist.
+
+DVD Setlist:
+Intro
+Let It Die
+The Pretender
+Times Like These
+Marigold
+My Hero
+band intros
+Everlong
+Monkey Wrench
+All My Life
+
+Recording:
+Comcast Digital Cable > Motorola DCT6412 III > Capture to computer via Firewire with CapDVHS > VideoReDo Plus > MPEG2Repair for Error Check > MPEG2 1080i 29.97 fps, 4x3, letterboxed
+
+Transfer:
+MPEG streamclip > demux to m2v and AC-3; Compressor to crop to 16:9 and re-size to SD:
+Type: MPEG-2 video elementary stream
+Usage:SD DVD
+Video Encoder
+Format: M2V
+Width: 720
+Height: 480
+Pixel aspect ratio: NTSC CCIR 601/DV (16:9)
+Crop to: Center crop for 1.778:1
+(L: 0, T: 135, R: 0, B: 135)
+Padding: None
+Frame rate: 29.97
+Frame Controls On:
+Retiming: (Fast) Nearest Frame
+Resize Filter: Linear Filter
+Deinterlace Filter: Better (Motion Adaptive)
+Adaptive Details: On
+Antialias: 0
+Detail Level: 0
+Field Output: Same as Source
+Start timecode from source
+Aspect ratio: 16:9
+Field dominance: Automatic:
+ Selected Top first
+Average data rate: 8 (Mbps)
+Best motion estimation
+Closed GOP Size: 15, Structure: IBBP
+DVD Studio Pro meta-data enabled
+
+DVD Studio Pro used to mux original 5.1 AC-3 soundtrack file with re-encoded video, add chapters, create menu and build DVD. Menu background created in Adobe Photshop.
+
+TV capture by Richard Simms. Transfer and DVD authoring by JasonA.
+
+This DVD is unauthorized and is not associated or approved in any way by Foo Fighters or their past or present management.

@@ -1,0 +1,40 @@
+FOO FIGHTERS - 2002-08-30 - London ULU Student's Union [FM master]
+
+Foo Fighters
+ULU (Student's uNion) Hall,
+Malet St, London WC1E 7HY,
+England, U.K.
+30th August 2002
+Broadcasted some time later,
+as part of XFM's "Live Hour" slot
+(sorry, exact date of broadcast not known/remembered)
+
+
+This is from a typical XFM "Live Hour" programme, in that some adverts and D.J. intros/outros were inserted by the broadcasters between the songs - however, I have judiciously edited these out to give something approaching to a continuous live show (although, having said that, this is almost certainly still not quite the complete performance as would have been played on the original day).
+
+
+Lineage (master FM capture) :- 
+
+XFM London broadcast -> roof aerial -> Marantz ST151L FM tuner -> Creative SB Extigy soundcard -> CoolEdit pro 2.1 -> WAV -> CD-R 
+
+Conversion to FLAC :-
+
+Archived CD-R -> EAC -> WAV -> TLH -> FLAC 8 & .ffp 
+
+
+Setlist (probably highlights only) :-
+
+01 - Times Like These
+02 - All My Life
+03 - This Is A Call
+04 - For All The Cows
+05 - Stacked Actors
+06 - Learn To Fly
+07 - Disenchanted Lullaby
+08 - Everlong
+09 - Breakout
+10 - Low
+11 - Monkey Wrench
+12 - Tired
+
+Length = 56 minutes approx.

@@ -1,0 +1,100 @@
+Foo Fighters 
+Southside Festival
+Green Stage
+take-off GewerbePark
+Neuhausen ob Eck, Germany
+June 21, 2019
+
+Lineage: LIVE Webcast -> Livestreamer -> FFmpeg (edit) -> .ts 
+Video: MPEG4 Video (H264) 1280x720 16:9 2830 Kbps 25.00 fps 
+Audio: AAC 192 Kbps 48.0 KHz stereo 
+
+Setlist: 
+The Pretender
+Learn to Fly
+The Sky Is a Neighborhood
+Times Like These
+Rope
+Sunday Rain
+My Hero 
+These Days
+La Dee Da
+Walk
+Guitar Solo > Another One Bites the Dust (Queen cover) > Keyboard Solo > Blitzkrieg Bop (Ramones cover) > Day-Oh (Shaggy cover) >
+Under Pressure (Queen cover with Hamish Rosser from Wolfmother on drums, Taylor on vocals)
+Monkeywrench
+Make It Right
+All My Life
+Wheels
+Breakout
+Dirty Water
+This Is a Call
+Best of You
+Everlong
+
+TRT = 02:19:47
+
+Note: This is a perfect capture of the webcast. No imperfections were present in the broadcast.
+
+Captured and uploaded to DIME by indykid.
+
+MediaInfo:
+General
+ID                                       : 1 (0x1)
+Complete name                            : foo Fighters - 2019-06-21 Southside Festival, Neuhausen ob Eck, Germany [720p].ts
+Format                                   : MPEG-TS
+File size                                : 2.95 GiB
+Duration                                 : 2 h 19 min
+Overall bit rate mode                    : Variable
+Overall bit rate                         : 3 021 kb/s
+
+Video
+ID                                       : 256 (0x100)
+Menu ID                                  : 1 (0x1)
+Format                                   : AVC
+Format/Info                              : Advanced Video Codec
+Format profile                           : Main@L3.1
+Format settings                          : CABAC / 2 Ref Frames
+Format settings, CABAC                   : Yes
+Format settings, RefFrames               : 2 frames
+Codec ID                                 : 27
+Duration                                 : 2 h 19 min
+Bit rate mode                            : Constant
+Nominal bit rate                         : 2 584 kb/s
+Width                                    : 1 280 pixels
+Height                                   : 720 pixels
+Display aspect ratio                     : 16:9
+Frame rate                               : 25.000 FPS
+Color space                              : YUV
+Chroma subsampling                       : 4:2:0
+Bit depth                                : 8 bits
+Scan type                                : Progressive
+Bits/(Pixel*Frame)                       : 0.112
+
+Audio
+ID                                       : 257 (0x101)
+Menu ID                                  : 1 (0x1)
+Format                                   : AAC LC
+Format/Info                              : Advanced Audio Codec Low Complexity
+Format version                           : Version 4
+Muxing mode                              : ADTS
+Codec ID                                 : 15-2
+Duration                                 : 2 h 19 min
+Bit rate mode                            : Variable
+Channel(s)                               : 2 channels
+Channel layout                           : L R
+Sampling rate                            : 48.0 kHz
+Frame rate                               : 46.875 FPS (1024 SPF)
+Compression mode                         : Lossy
+Delay relative to video                  : -1 s 223 ms
+
+Menu
+ID                                       : 4096 (0x1000)
+Menu ID                                  : 1 (0x1)
+Duration                                 : 2 h 19 min
+List                                     : 256 (0x100) (AVC) / 257 (0x101) (AAC)
+Service name                             : Service01
+Service provider                         : FFmpeg
+Service type                             : digital television
+
+Captured and uploaded to DIME by indykid.

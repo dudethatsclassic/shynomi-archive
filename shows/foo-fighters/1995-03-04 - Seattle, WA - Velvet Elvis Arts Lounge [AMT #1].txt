@@ -1,0 +1,40 @@
+Foo Fighters
+March 4th, 1995
+Velvet Elvis Arts Lounge
+Seattle, WA
+
+SOURCE (AMT #1):
+unknown > unknown (Video 8)
+
+TRANSFER:
+Sony DCR-TRV730 > Datavideo TBC 6000 > ATI TV Wonder 600 USB > VirtualDub > Avisynth+ 3.4.0 > x264 0.158.2984 3759fcb
+
+GENERATION:
+Video8(M) > AVI [UtVideo] > MKV [480p/59.94fps/AAC 2.0 256kbps/FLAC 2.0]
+
+LENGTH:
+42:21
+
+NOTES: 
+- Video tape contained no audio. Audience Audio #2 source dubbed onto video.
+- Last twenty seconds of the video are silent, only ambient noise post-performance.
+- First audio track is AAC 256kbps. Second audio track is FLAC at 48khz/16-bit.
+
+TRACKS:
+01. intro/soundcheck
+02. Butterflies
+03. Winnebago
+04. Floaty
+05. Big Me
+06. Wattershed
+07. For All The Cows
+08. I'll Stick Around
+09. Alone + Easy Target
+10. Podunk
+11. Exhausted
+
+MD5 FINGERPRINTS:
+90a57a827061b40c6cdb88973707923f *foofighters1995-03-04_AMT1_VID8M.mkv
+
+TRANSFERRED & EDITED BY:
+Nick Serra, Rob Landis, FooFightersLive.com

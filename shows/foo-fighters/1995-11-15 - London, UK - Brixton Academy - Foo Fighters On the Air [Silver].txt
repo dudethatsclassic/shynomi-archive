@@ -1,0 +1,110 @@
+Foo Fighters 
+at Brixton Academy 
+London, England
+November 15th, 1995 
+1995-11-15 
+with extra tracks: 
+Saturday Night Live, New York City, 1995-02-12 
+Moonraker records bootleg CD release "Foo Fighters On the Air" 
+2008 transfer and seed by (unknown) 
+
+June 2016 reseed by zootype: 
+retracked with volume adjustments 
+
+51:35 minutes 
+
+tracklist: 
+
+Saturday Night Live, NBC-TV, New York City, 1995-02-12
+01 I'll Stick Around 3:39 
+02 For All The Cows 3:44 
+
+Brixton Academy, London, England, 1995-11-15
+01 Enough Space 2:37 
+02 This Is A Call 4:08 
+03 Winnebago > Watershed 5:00 
+04 For All The Cows 3:28 
+05 Weenie Beenie 2:57 
+06 Big Me 2:22 
+07 I'll Stick Around 4:03 
+09 Alone and Easy Target 5:02  
+10 Up In Arms 1:35  
+11 Gas Chamber 1:21 [Angry Samoans cover] 
+12 Exhausted 7:45 
+13 interview 3:25 *
+
+--
+original tracklist:
+01. Enough Space 2:37 
+02. This Is A Call 4:08 
+03. Winnebago 2:57 
+04. Watershed 2:03 
+05. For All The Cows 3:32 
+06. Weenie Beenie 2:53 
+07. Big Me 2:22 
+08. I'll Stick Around 4:03 
+09. Alone + Easy Target 5:02 
+10. Up In Arms 1:39 
+11. Gas Chamber 1:17 
+12. Exhausted 7:45 
+13. Interview 3:25 
+14. I'll Stick Around 4:01 
+15. For All The Cows 3:44 
+
+
+original seeder's notes:
+--
+* Track 13 is not actually an interview, 
+but really is sound bites taken from the 
+Mtv "I'm Okay Euro-K" concert (the 11/15/95 show). 
+ 
+Please see: 
+http://www.foofighterslive.com/liveguide/1995/1995-11-15.php 
+for the full setlist that evening. 
+
+Moonraker CD release "Foo Fighters On the Air"> 
+EAC > WAV > FLAC (level 6) > 2008 seed 
+---
+reseed:
+retracked with volume adjustments;
+new FLAC-8 files and checksum files created 
+and this info file revised; 
+original info file included. 
+
+Thanks again to the original seeder for this recording. 
+
+a zootype reseed June 2016 
+---
+original ffp flac fingerprints:
+foofighters-on_the_air_t01.flac:9e4436934fd1b577b1e700b1633b363b
+foofighters-on_the_air_t02.flac:5826e6eac40a4b3ec904cd5db458dc01
+foofighters-on_the_air_t03.flac:6fae7e6888136062708d933161208892
+foofighters-on_the_air_t04.flac:40526b2d695980b151bdd13b71222e81
+foofighters-on_the_air_t05.flac:0805407586fe826222854d623cd2525f
+foofighters-on_the_air_t06.flac:a0adcf7b48e427b470423b4126aaaf59
+foofighters-on_the_air_t07.flac:5444622f89f26ec53fa0dd4886af8ac0
+foofighters-on_the_air_t08.flac:69ba5cc5b2483a21eb5e70c280e01c4b
+foofighters-on_the_air_t09.flac:5b8b4b642b5444591122d837b000b6c6
+foofighters-on_the_air_t10.flac:64dae77417ad96e4587bc6f7062661c8
+foofighters-on_the_air_t11.flac:85cf33c24b4b5bf67a8f1e0af151d765
+foofighters-on_the_air_t12.flac:67493d3006d9890662b3c6a3c457a63c
+foofighters-on_the_air_t13.flac:03e1d49c1c279c7e1c22f1d10b3c8d45
+foofighters-on_the_air_t14.flac:695ce058a29991115a6f104906999d31
+foofighters-on_the_air_t15.flac:cc9c0022d196c1e60bc3989fd9f4db75 
+----
+new ffp: 
+Foo_Fighters-1995-02-12-tr01.flac:4e94101c55303ed3bfa414a09a10c789
+Foo_Fighters-1995-02-12-tr02.flac:223cbf32b178817b38035626c3bc63ca
+Foo_Fighters-1995-11-15-tr01.flac:38bf7cfb7fefa74ccf5c102ac7b3a4d3
+Foo_Fighters-1995-11-15-tr02.flac:cd240c942662cc82b33eec2b86d948d6
+Foo_Fighters-1995-11-15-tr03.flac:fd580fc479a4e2f4d4e15b2923ba2a09
+Foo_Fighters-1995-11-15-tr04.flac:c5362db124c0e0ae984e89683c46fddf
+Foo_Fighters-1995-11-15-tr05.flac:cc5b82f8ce820ec8348714949b438be4
+Foo_Fighters-1995-11-15-tr06.flac:d56e44af03cd5543bd807e188ec12847
+Foo_Fighters-1995-11-15-tr07.flac:562442808960fb3c7961c41c0ca95655
+Foo_Fighters-1995-11-15-tr08.flac:bea77ae09fc5be8e00f07cf01c8c4e8e
+Foo_Fighters-1995-11-15-tr09.flac:a2d08e5389a201cdbe95308b0cb258cf
+Foo_Fighters-1995-11-15-tr10.flac:dbd8be015940e7043ec871e92b633d1d
+Foo_Fighters-1995-11-15-tr11.flac:67493d3006d9890662b3c6a3c457a63c
+Foo_Fighters-1995-11-15-tr12.flac:2d1bb43ac3c4b9649aeaa51f99e00b68 
+-----

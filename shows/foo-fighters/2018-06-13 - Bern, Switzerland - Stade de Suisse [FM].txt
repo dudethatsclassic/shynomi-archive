@@ -1,0 +1,50 @@
+Foo Fighters
+Stade de Suisse
+Bern, Switzerland
+2018-06-13
+
+Tracklist (incomplete concert)
+
+First Hour
+01 The Pretender
+02 The Sky Is A Neighborhood
+03 'Dave & the crowd 1'
+04 My Hero
+05 These Days
+06 Walk
+07 Medley (It's So Easy / Another One Bites The Dust / Imagine / Jump / Blitzkrieg Bop)
+08 'Taylor, Dave & the crowd'
+09 Under Pressure
+
+Second Hour
+01 Monkey Wrench (first 2 minutes missing)
+02 'Dave & the crowd 2'
+03 La Dee Da *
+04 Breakout
+05 'Introducing the backup singers'
+06 Dirty Water
+07 Times Like These
+08 Best Of You
+09 'Dave & the crowd 3'
+10 Everlong (fades out - end of broadcast)
+
+* with Alison Mosshart
+
+Source: Swiss FM Radio SRF3 (analog)
+
+Lineage: FM analog cable > CD-R > HDD > CD Wave (splits/editing) > Audacity (fade in/out) > TLH (flac 8) > Dime
+
+Notes:
+This show was recorded from a broadcast of Swiss radio station SRF3 in December of 2018.
+I removed all DJ talk and station IDs. Because of that, a few songs have a fade-in (e.g. The Pretender or These Days)
+or a fade out (e.g. Everlong). Because of a small technical problem I didn't catch the first couple of minutes of Monkey Wrench which started
+the second hour of the broadcast. I'm really sorry about that and I hope it doesn't diminish anyone's appreciation of this recording.
+The sound quality is excellent as usual.
+
+Checksums are included in the torrent.
+
+Sorry, no artwork.
+
+Please support the artists by buying their records & going to their shows.
+
+Enjoy! rowwli

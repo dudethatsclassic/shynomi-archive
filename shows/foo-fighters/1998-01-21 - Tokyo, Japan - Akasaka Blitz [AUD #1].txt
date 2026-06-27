@@ -1,0 +1,68 @@
+Foo Fighters
+January 21st, 1998
+Akasaka Blitz
+Tokyo, Japan
+
+SOURCE (AUD #1):
+unknown > unknown (DAT)
+
+EXTRACTION:
+Rubyripper > FLAC.exe
+
+GENERATION:
+DAT(x) > CDR(1) > WAV [44.1khz] > FLAC [Level 8]
+
+LENGTH:
+75:56
+
+NOTES:
+- encore break is cut, no music is missing.
+
+TRACKS:
+01. jam
+02. Monkey Wrench
+03. Hey, Johnny Park!
+04. Alone + Easy Target
+05. Doll
+06. My Poor Brain
+07. Enough Space
+08. See You
+09. Gas Chamber
+10. Big Me
+11. The Colour And The Shape
+12. For All The Cows
+13. This Is A Call
+14. Up In Arms
+15. Weenie Beenie
+16. Everlong
+17. New Way Home
+18. Requiem
+19. Walking After You
+20. I'll Stick Around
+
+MD5 FINGERPRINTS:
+c7472a30e4d6f0f23cef722c0b29e5e8 *FooFighters1998-01-21t01.flac
+6c577e6fb4b71839f158857ddc1b2b75 *FooFighters1998-01-21t02.flac
+45c7a27b8cac6907b160ebac45be0572 *FooFighters1998-01-21t03.flac
+40629f867dba4e79c642341d841ca9e8 *FooFighters1998-01-21t04.flac
+3986f95a9739e4eba5cf92676b8d2adf *FooFighters1998-01-21t05.flac
+82d6b8006716d9b2b70d256f454a582d *FooFighters1998-01-21t06.flac
+23a8d2c874902e52bc89aafb56e8c9aa *FooFighters1998-01-21t07.flac
+9fe8f12948b1d4568251418567e74809 *FooFighters1998-01-21t08.flac
+3931b2cdd3473db97981baa52c2621bd *FooFighters1998-01-21t09.flac
+93b3aefab74208627481315b3d7f6124 *FooFighters1998-01-21t10.flac
+21b9af0fa72b680046064611a7096aa8 *FooFighters1998-01-21t11.flac
+4b1ae78780a5c1f4a180e41b776a3415 *FooFighters1998-01-21t12.flac
+382c0040fea032e2996e3becd2164c52 *FooFighters1998-01-21t13.flac
+8da776987146d3ce6bf931d5bfd8b560 *FooFighters1998-01-21t14.flac
+b17fcedc6e5c0a906a542103d0768070 *FooFighters1998-01-21t15.flac
+80d7d54f193fdaddec7e0d3b685f5490 *FooFighters1998-01-21t16.flac
+2d4719550752ab9b90354667485f6905 *FooFighters1998-01-21t17.flac
+31f9ab9f6737a024c65d5848eafe78c6 *FooFighters1998-01-21t18.flac
+5e9fc2acddee6d9cb6983c7edce5c15b *FooFighters1998-01-21t19.flac
+1b4690f183fd7d5fb0981f5a02c36c7e *FooFighters1998-01-21t20.flac
+
+TRANSFERRED BY:
+Unknown
+
+**PLEASE DO NOT ENCODE TO LOSSY FORMATS OR SELL!**

@@ -1,0 +1,63 @@
+Foo Fighters
+September 30th, 2005
+Pepsi Center
+Denver, CO
+
+SOURCE (AUD #1):
+Sound Pro SP-CMC-2 > Sound Pro SP-SPSB-1 (95Hz roll off) > Sony MZ-RH10 (Hi-MD Minidisc)
+
+TRANSFER:
+Sony MZ-RH10 > USB > SonicStage 3.2 > Adobe Audition CC 2018 > CD Wave 1.98 > Trader's Little Helper 2.7.0
+
+GENERATION:
+Hi-MD(M) > WAV [44.1khz/16-bit] > FLAC [Level 8]
+
+LENGTH:
+93:32
+
+TRACKS:
+01. In Your Honor
+02. All My Life
+03. My Hero
+04. Best Of You
+05. Learn To Fly
+06. Up In Arms (jam)
+07. Up In Arms
+08. Times Like These
+09. The One
+10. Stacked Actors
+11. Everlong
+12. Ain't Talkin' 'Bout Love (jam)
+13. DOA
+14. This Is A Call
+15. End Over End
+16. Breakout
+17. Rocky Mountain Way (jam)
+18. Cold Day In The Sun
+19. Monkey Wrench
+
+MD5 FINGERPRINTS:
+360d3b32fb40060229412c1c9881a78c *01. In Your Honor.flac
+0d864a63dc1a2306989adb5b98577532 *02. All My Life.flac
+ad8d008371f6cbed730c94d0d10250c0 *03. My Hero.flac
+e9636606ac6b1bb04214e862bcdb95b3 *04. Best Of You.flac
+744ff69bb267f1968093d2c6700dda9c *05. Learn To Fly.flac
+42b32785dbebd38e9ea1e9b98e59ca0c *06. Up In Arms (jam).flac
+760cb881ae529fc8da40f898102b3fd5 *07. Up In Arms.flac
+387e5d75c645dccb9ae160753d8958f0 *08. Times Like These.flac
+69b1a42b31c131ca701f10050d93a179 *09. The One.flac
+32ab1e020ceff8a990a9d49d990ad9eb *10. Stacked Actors.flac
+739442803f5dad758f7a22152bb66813 *11. Everlong.flac
+0476802837c39bfdf128d483705861af *12. Ain't Talkin' 'Bout Love (jam).flac
+b37a2019bc0ce214bef5ddad7618b8df *13. DOA.flac
+71103550b28d47c6befa4033b9ab92de *14. This Is A Call.flac
+d3b3a4cfccbea01907a453531a6cc0d3 *15. End Over End.flac
+c2c361388e8296924540dbd17f1c324c *16. Breakout.flac
+f2e1a6b27157faf625dd9f5a7f45b191 *17. Rocky Mountain Way (jam).flac
+0ed3fd8a51e615b42dcf671b09fc778d *18. Cold Day In The Sun.flac
+8c0ba43e4a3a12b10e67e251c5d1399c *19. Monkey Wrench.flac
+
+RECORDED AND TRANSFERRED BY:
+Alex Z.
+
+**PLEASE DO NOT ENCODE TO LOSSY FORMATS OR SELL!**

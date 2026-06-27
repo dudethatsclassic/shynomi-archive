@@ -1,0 +1,71 @@
+Foo Fighters
+June 30th, 2017
+Dyrskuepladsen (Roskilde Festival)
+Roskilde, Denmark
+
+SOURCE (AUD #1):
+Sony PCM-M10 > CA-14
+
+TRANSFER:
+USB > Adobe Audition CC 2017 > CD Wave 1.98 > Trader's Little Helper 2.7.0
+
+GENERATION:
+WAV(M) [44.1khz/16-bit] > FLAC [Level 8]
+
+LENGTH:
+129:32
+
+NOTES:
+- Recording was tweaked to reduce some audience clapping/noise, also some small EQ/Volume boosts.
+
+TRACKS:
+01. All My Life
+02. Times Like These
+03. Learn To Fly
+04. Something From Nothing
+05. The Pretender
+06. Money (jam)
+07. School's Out (partial)
+08. Cold Day In The Sun
+09. Congregation
+10. Walk
+11. These Days
+12. My Hero
+13. Skin And Bones
+14. White Limo 
+15. Arlandria
+16. Monkey Wrench
+17. Wheels
+18. Run
+19. Best Of You 
+20. Everlong
+
+MD5 FINGERPRINTS:
+6871450f48ddc479369aee6bc75cbce6 *01. All My Life.flac
+3d283a2922d180a402d56204ab68a956 *02. Times Like These.flac
+cb9918cd748938f6e562b95aaa2a83fb *03. Learn To Fly.flac
+15c64cc123d88505e2613c5a3157a403 *04. Something From Nothing.flac
+f548c5ededcca430c68bb8fb192f7c83 *05. The Pretender.flac
+7f810585abc3c5fd3ab6cc6fd31694bc *06. Money.flac
+70fefb301f31bc0f6a689f39c3699fea *07. School's Out.flac
+738252e91f23deb4f19d4613a6f4eef2 *08. Cold Day In The Sun.flac
+193c527497972220315cc8890c35e213 *09. Congregation.flac
+6bc071de95e61589ec2d0b2506708543 *10. Walk.flac
+71ef07c5bb7b172bdeb46c6b2161faef *11. These Days.flac
+33c24fda454447e55511936dfc5e17be *12. My Hero.flac
+0c153b0778ef74bb3c37852ea05f5448 *13. Skin And Bones.flac
+9658513c154aa34779cc3e48a31361e0 *14. White Limo.flac
+aeb60cb26a4a340a6d58ab04d49e9c65 *15. Arlandria.flac
+d879ccde5a9864082c46aa80520d14bd *16. Monkey Wrench.flac
+12adf5bd119cf1c2bacc9ad3be8bfd0a *17. Wheels.flac
+d25d1e1539e74756b3a5edac4de7f429 *18. Run.flac
+0a30cd0867efbab3931dbc914ac71906 *19. Best Of You.flac
+f2899ac1c6b762b9e9a58fbfd86c4c3d *20. Everlong.flac
+
+RECORDED BY:
+Nielsen81
+
+Mastered by:
+SK
+
+**PLEASE DO NOT ENCODE TO LOSSY FORMATS OR SELL!**

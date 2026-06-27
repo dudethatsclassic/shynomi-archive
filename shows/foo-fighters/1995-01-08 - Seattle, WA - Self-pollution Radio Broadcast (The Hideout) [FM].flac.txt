@@ -1,0 +1,18 @@
+FOO FIGHTERS
+Self-Pollution Radio Broadcast
+The Hideout
+January 8, 1995
+Seattle, WA
+
+Pre-FM/DSBD > Z100 New York "Bootleg" CD(M) > EAC > .flac
+Source: Pre-FM > Unknown DAT > CDR > .wav > .flac
+
+Extracted to .wav with EAC V0.9 Beta 4 (see logs)
+Converted to .flac with flac.exe
+
+05-Foo Fighters - Gas Chamber
+06-Foo Fighters - Exhausted
+
+Please Note : This is only the Foo Fighters tracks. 
+
+

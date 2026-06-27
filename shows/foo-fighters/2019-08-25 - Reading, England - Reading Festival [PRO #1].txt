@@ -1,0 +1,50 @@
+Foo Fighters
+25th August 2019
+Richfield Avenue (Reading Festival)
+Reading, United Kingdom
+
+SOURCE (PRO #1):
+soundboard > unknown
+
+TRANSFER: 
+unknown
+
+GENERATION: 
+Satellite Feed > Transport Stream [1080i/H.264/14.2Mbps | MP2/256kbps/2.0]
+
+LENGTH: 
+150:11
+
+TRACKLIST: 
+01. The Pretender
+02. Learn To Fly
+03. Run
+04. The Sky Is A Neighborhood
+05. Times Like These
+06. Sunday Rain
+07. My Hero
+08. These Days
+09. La Dee Da
+10. Walk
+11. Crazy Train (part of)
+12. Good Times (part of)
+13. Ziggy Stardust (part of)
+14. Under Pressure
+15. All My Life
+16. I'll Stick Around
+17. Wheels
+18. Monkey Wrench
+19. Hey, Johnny Park!
+20. Never Gonna Give You Up
+21. Big Me
+22. Best Of You
+23. For All The Cows
+24. This Is A Call
+25. Let There Be Rock
+26. Everlong
+
+MD5 CHECKSUMS: 
+dc155ba4143c7462f2b197027bbc24db *Foo Fighters - Reading Festival 2019 (Main Stage - 25Aug2019) FEED.ts
+
+TRANSFERRED BY: 
+anonymous

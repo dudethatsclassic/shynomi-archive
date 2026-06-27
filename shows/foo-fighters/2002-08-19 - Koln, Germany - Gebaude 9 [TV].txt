@@ -1,0 +1,38 @@
+FOO FIGHTERS:
+August 19, 2002
+Gebaude 9
+Köln, Germany
+
+SETLIST:
+All My Life / Breakout / This Is A Call / My Hero / Generator /
+Times Like These / Learn To Fly / Disenchanted Lullaby /
+Stacked Actors / Stacked Actors / Have It All / Hey, Johnny Park! /
+Monkey Wrench / Tired Of You / Low / Everlong
+
+CUTS:
+Because of commercial breaks there are cuts between Generator and Times Like These,
+between Tired Of You and Low, and Stacked Actors is divided into two tracks.
+
+GENERATION:
+TV -> VID(1) -> WAV [44.1kHz] -> FLAC [Level 8] -> your copy, which will be CDR(1)
+
+TRANSFER:
+Sony SLV-SE830 -> Creative SB Live! Player 5.1 -> Adobe Audition 1.5 -> CD Wave 1.92 beta -> FLAC Frontend 1.7.1
+
+MD5 FINGERPRINTS:
+1a9a8c912625cc64f0f2c8daf2b4ec86 *2002-08-19 01. All My Life.flac
+3c16fad9a3bd642620b5b521816b3746 *2002-08-19 02. Breakout.flac
+10093fef9bf2e828b888cef3c78c2c9f *2002-08-19 03. This Is A Call.flac
+4322a7087e9bf53fb830d3d0f0890641 *2002-08-19 04. My Hero.flac
+6b61df377838cfc986e7f45116b5128c *2002-08-19 05. Generator.flac
+a4878b2bfa70c031b148cab42304d300 *2002-08-19 06. Times Like These.flac
+ad0371e04a11e86b320f72cf9747456e *2002-08-19 07. Learn To Fly.flac
+a0476b789ae2b25903c707a02dfc45a5 *2002-08-19 08. Disenchanted Lullaby.flac
+707d9968f7f9afa0066f7224c09ce407 *2002-08-19 09. Stacked Actors.flac
+8239466c4132cd3044b46cd63386ff1d *2002-08-19 10. Stacked Actors.flac
+5f01e1f0cba4dbbed3990d676f8dbd04 *2002-08-19 11. Have It All.flac
+894d640c1369d4475446ccff9b09659e *2002-08-19 12. Hey, Johnny Park!.flac
+2839a6f1f9231ce9d3219800dc7d009a *2002-08-19 13. Monkey Wrench.flac
+c339b978d9062c528841048397b88bd1 *2002-08-19 14. Tired Of You.flac
+c9ccaa307a0bb554ac07302fbdc3e9a3 *2002-08-19 15. Low.flac
+54a48961118930e8cffb962bff0ecc1b *2002-08-19 16. Everlong.flac

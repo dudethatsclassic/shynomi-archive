@@ -1,0 +1,34 @@
+FOO FIGHTERS
+December 9, 2001
+Universal Amphitheater (KROQ Almost Acoustic Christmas)
+Los Angeles, CA
+
+SOURCE: (SBD #1b)
+soundboard > unknown
+
+EXTRACTION:
+Pioneer DVR-116D > Exact Audio Copy v0.99 pre-beta 5 > Adobe Audition 3 > CD Wave 1.97 > Traders Little Helper 1.41
+
+GENERATION:
+Radio Disc [Westwood One "In Concert" #02-52] > WAV [44.1kHz] > FLAC [Level 8]
+
+NOTES:
+- Curse words are obfuscated, most noticable in 'The One' with 'shit', and for some bizarre reason the line 'Monkey Wrench' is on two occasions.
+
+LENGTH:
+15:17
+
+TRACKS:
+01. Breakout
+02. The One
+03. Monkey Wrench
+
+MD5 FINGERPRINTS:
+768be3c043645652fd3bd3d7484bc056 *FooFighters2001-12-09t01.flac
+ee9317f3d1f1036a7b30e812873dab17 *FooFighters2001-12-09t02.flac
+ddb8dff87bb74bd06ce9cfe92b3f2a33 *FooFighters2001-12-09t03.flac
+
+EXTRACTED BY:
+Simon Kilmore
+
+**PLEASE DO NOT ENCODE TO LOSSY FORMATS OR SELL!**

@@ -1,0 +1,11 @@
+Foo Fighters - 1997 08 07 The Keenen Ivory Wayans Show, LA, CA
+
+Show note:
+Video here: https://www.youtube.com/watch?v=CCw3DOtzlSU
+
+1 intro
+2 Everlong 
+3 Outro
+
+Lineage: TV Broadcast > 1st gen tape > Tascam 202MKVII > USB > CDWAV > Audacity for fades, normalization, noise reduction > CDWAVE (SPLITS) > FLAC [loughney xfer]
+

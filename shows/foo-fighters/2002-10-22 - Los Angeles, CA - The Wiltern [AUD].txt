@@ -1,0 +1,38 @@
+Foo Fighters
+October 22, 2002
+The Wiltern
+Los Angeles, CA
+
+Source: DPA 4061’s > CSBox > Sony PCM-M1
+Location: Loge, Row DD (4th row balcony, right side)
+Lineage: DAT Master 16/48 > FLAC
+Transfer (BLG): DA-20 > coax > Marantz PMD-670 > usb reader > Adobe Audition > iZotope Ozone 5 > WavePad > xACT > FLAC
+Taper: Ed Davis 
+
+01 All My Life
+02 Have It All
+03 Times Like These
+04 Learn To Fly
+05 My Hero
+06 Generator
+07 Stacked Actors
+08 Low
+09 Hey, Johnny Park!
+10 Monkey Wrench
+11 Disenchanted Lullaby
+12 This Is a Call
+13 Breakout
+
+Encore:
+14 Aurora
+15 Tired of You
+16 Everlong
+
+Total Time: 90:02
+
+Notes: One By One record release show. This is an EX+ recording, great sound and little to no intrusive crowd noise.  Thanks to the taper.
+
+.txt compiled on 01/04/2015 by BLG
+
+
+

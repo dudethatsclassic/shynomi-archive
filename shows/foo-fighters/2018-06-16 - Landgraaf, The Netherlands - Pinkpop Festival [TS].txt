@@ -1,0 +1,69 @@
+Foo Fighters
+Pinkpop, Megaland, Landgraaf, The Netherlands
+June 16, 2018
+Mainstage 21:30-00:00
+
+00. Intro
+Setlist:
+01. Run
+02. All My Life
+03. Learn to Fly
+04. The Pretender
+05. The Sky Is A Neighborhood
+06. Rope
+07. Sunday Rain
+08. My Hero
+09. These Days
+10. Walk
+11. Under My Wheels [Alice Cooper cover]
+12. Band Introductions > Another One Bites The Dust [Queen cover] > Imagine [John Lennon cover] > Jump [Van Halen cover] > Blitzkrieg Bop [The Ramones cover]
+13. Under Pressure [Queen cover]
+14. Monkey Wrench
+15. Wheels
+16. Breakout
+17. Dirty Water
+18. Best Of You
+Encore:
+19. Times Like These
+20. Everlong
+
+Taken from the Dutch national television channel NPO2 Extra (previously NPO Cultura) broadcast, June 16, 2018.
+
+Lineage : NPO2 Extra DVB-C - Humax iHDR-5050C - VideoReDo TVSuite 4.20.7.629
+
+Technical details:
+File Name : Foo Fighters 2018-06-16 Pinkpop MPEG2 TS Stream.ts
+Size : 5.722 GB
+Duration : 02:32:09.07
+Mux type : TS Stream
+TS mux rate : 9.134 Mbps
+
+Video Encoding : MPEG2
+VideoStreamID : x399
+Frame rate : 25.00 fps
+Encoding size : 720 x 576
+Aspect ratio : 16:9
+Header bit rate : 4.800 Mbps
+VBV buffer : 220 KBytes
+Profile : Main@Main
+Progressive : Prog or Int
+Chroma : 4:2:0
+Bit rate : 4.630 Mbps
+
+Audio Stream: 1 (Primary)
+Codec : MPEG
+MPEGLayer : Layer 2
+Channels : 2.0
+Language : dut
+PID : x39A
+PES Stream Id : xC0
+Bit rate : 192 Kbps
+Sampling rate : 48000
+Sample size : 16 bits
+
+Another tape from the Magnix Live Archive.
+
+Magnix,
+June 2018.
+
+Uploaded to DIME on June 16, 2018 by Magnix.

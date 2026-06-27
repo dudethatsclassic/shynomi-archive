@@ -1,0 +1,47 @@
+Foo Fighters
+April 24th, 1995
+Cat's Cradle
+Carrboro, NC
+
+SOURCE (AUD #3):
+built-in > Realistic SCP-29 (cassette)
+
+TRANSFER:
+Nakamichi CR-7A > Hosa RCA cable > LynxONE analog-in > Adobe Audition 3.0 > FLAC frontend 1.7.1
+
+GENERATION:
+ANA(M) > WAV [48khz/24-Bit] > FLAC [Level 8]
+
+LENGTH:
+42:54
+
+TRACKS:
+01. intro
+02. I'll Stick Around
+03. Floaty
+04. Butterflies
+05. This Is A Call
+06. For All The Cows
+07. Wattershed 
+08. Big Me
+09. Winnebago
+10. Alone + Easy Target
+11. Exhausted
+
+MD5 FINGERPRINTS:
+f4ec67c2298bf69a6c7993767ab8fa6e *01. intro.flac
+ce855afdf7706b5da8637b5e14ecb7af *02. I'll Stick Around.flac
+58047f2d34f4f8ce52a30f200ed38703 *03. Floaty.flac
+563d72cdcbb2eab6b29f808ca2b3b940 *04. Butterflies.flac
+4c306ee40ff0d88bd7dc1e015bbbad64 *05. This Is A Call.flac
+cab6212e909686fb4f5b645c288c87dc *06. For All The Cows.flac
+27d73bb7e99e6c78c6235155582f5fa3 *07. Wattershed.flac
+75ee4161281906f0b850f506de0345be *08. Big Me.flac
+28ac5f451b4d9bca34de1ee89c1fca91 *09. Winnebago.flac
+6ba7a2ae2a6690a8239127821ebc3c9b *10. Alone + Easy Target.flac
+fe6ed8ee1d1f9108ea484b722ade43fc *11. Exhausted.flac
+
+TRANSFERRED BY:
+Mike Ziegler
+
+**PLEASE DO NOT ENCODE TO LOSSY FORMATS OR SELL!**

@@ -1,0 +1,31 @@
+Foo Fighters
+July 2nd 2005 Orange Stage / Roskilde Festival / Roskilde / Denmark
+
+Setlist:
+
+01. In Your Honor
+02. All My Life
+03. Times Like These
+04. Learn to Fly
+05. My Hero
+06. Best Of You
+07. Up In Arms
+08. The Last Song
+09. The One
+10. Stacked Actors
+11. This is a Call
+12. Everlong
+13. Monkey Wrench
+14. Rio (Duran Duran cover jam)
+15. Breakout
+
+73:20
+
+Taper:
+JTL
+
+Lineage:
+Core Sound Cardioid mics > Batterybox > Sharp MD-DR470H (LP2 mode) > Optical transfer to Pc > Sound Forge 8.0 (Eq, Normalize, Fades) > CDWave (Splitting tracks) > CDR > dBpoweramp CD Ripper > Wav > Fakin' the Funk? (spectral analysis) > xACT FLAC level 8 
+
+PLEASE NOTE:
+This is the full AUD recording! Not the FM, nor the webcast, recording!

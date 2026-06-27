@@ -1,0 +1,38 @@
+Foo Fighters
+John Labatt Centre, London, ON
+2006-11-03
+
+recording info: Mic: SP-CMC-20 > Battery pack w/bass roll-off: SP-SPSB-1 > Sony MZ-RH10 > Sony 1GB HD MD >USB > SonicStage > WAV >Sonic Foundry edit > shntool > FlacFrontend
+recorded by: Krewe Chief
+
+Track 01	Intro
+Track 02	Times Like These
+Track 03	Marigold
+Track 04	My Hero
+Track 05  Talk (opening for dylan)
+Track 06 	Big Me
+Track 07	Next Year
+Track 08	Another Round
+Track 09	See You
+Track 10	Band Intro/Solos
+Track 11	See You Reprise/Talk
+Track 12	Cold Day in the Sun(Taylor Hawkins, vocals)
+Track 13	Skin and Bones
+Track 14	Best of You
+Track 15	Everlong
+
+foos_20061103_t15.flac:9587e6ef6cd9d7fc5ea77d87dd1ab65f
+foos_20061103_t01.flac:24075760c9eba5f58446206e2fd88989
+foos_20061103_t02.flac:a01546b449f7725d3a40469cdaee3831
+foos_20061103_t03.flac:d64ebdd9ab6a04067924ab5c3a309580
+foos_20061103_t04.flac:576dc135e219441082c47791067f44ac
+foos_20061103_t05.flac:d63acafbc9df0d7a50ef39be9a945083
+foos_20061103_t06.flac:6a3785b771283bd9422b240aeec0946b
+foos_20061103_t07.flac:111c909a96923927fac9a111a7b63066
+foos_20061103_t08.flac:f8e2520c01835644e337063081138bea
+foos_20061103_t09.flac:47427c74dda6ea9280337a54793a037a
+foos_20061103_t10.flac:d0b3cb677e7b42b6266b3d30350bc1eb
+foos_20061103_t11.flac:e4cab65bf639b809570940cd6e42ccbd
+foos_20061103_t12.flac:c574b1d9244b665d5bdafb32ce04c594
+foos_20061103_t13.flac:bfc2ff84e8025b38b9ed038a87a8690e
+foos_20061103_t14.flac:7e9d7e161caf38bff5077c7d580df16d

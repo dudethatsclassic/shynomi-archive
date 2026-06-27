@@ -1,0 +1,28 @@
+Foo Fighters (Dave Grohl)
+2011-06-13 Megaland (Pinkpop Festival), Landgraaf, The Netherlands
+
+General:= Information:
+Generation: DVB-C > DVDR [PAL]
+Source: Professional Video
+Length: 9:38 Minutes
+
+Transfer Information:
+Video Information: MPEG2 Video 720x576 (16:9) 25.00fps 9400Kbps
+Audio Information: Dolby AC3 48000Hz stereo 256Kbps
+Transfer Equipment: UPC Pace HD DCR7111 > DVR-545H (Standard Play) > DVD+RW > TMPGEnc DVD Author 1.6
+
+Setlist:
+01 Walk
+02 The Pretender
+
+Review
+3voor12 Session, Dave Grohl solo acoustic set.
+Full setlist according to setlist.fm:
+Long Road to Ruin
+Times Like These
+These Days
+My Hero
+Walk
+The Pretender
+Everlong
+Only Walk and The Pretender were broadcasted. 

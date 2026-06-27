@@ -1,0 +1,164 @@
+Foo Fighters
+
+2011-12-02
+"AAMI Park"
+Melbourne
+Australia
+
+
+Source: Church CA-11 Cardoids > Church Bat2 BatteryBox > Edirol R09-HR
+Recorded Bitrate: 24/48
+Location: 15 mtrs from stage, 4 mtrs to right side of runway, in front of right stack.
+
+NOTE: Open air show. A bit windy so a little "phasing" occures, and the wind affects the mics occationally.
+
+ALSO: Mics were moved from one position to another during band intro's to gain some height.
+
+Tb Master 038
+
+Audience Master.
+
+Lineage: Edirol R09-HR (24/48) > PC (Wav) > CDWave (track edit/downsample 16/44.1)> Cool Edit Pro 2 (fades) > Apex WaveMerge > TLH (convert to Flac, check for SBE's-OK, create checksum) > Flac8
+
+Setlist:
+
+01. All My Life
+02. Rope
+03. The Pretender
+04. My Hero
+05. Learn To Fly
+06. White Limo
+07. Alandria
+08. Breakout
+09. Dave Speaks + Band Intro's + "Happy Birthday to Nate"
+10. Cold Day In The Sun
+11. Stacked Actors
+12. Walk
+13. "Band Thankyou's"
+14. Monkey Wrench
+15. Let It Die
+16. These Days
+17. This Is A Call
+18. In The Flesh (Pink Floyd cover)
+19. Best Of You
+20. Crowd
+21. "Dave Playing With The Crowd"
+22. Wheels
+23. Times Like These
+24. Generator
+25. Tie Your Mothers Down (Queen cover)
+26. Everlong
+
+
+Note: 
+
+(1) 21."Dave Playing With The Crowd" was the crowd watching the big-screens. Dave and Taylor are hamming it up back-stage 
+    with a night vision camera, putting up fingers (as in a number) to see how many more songs the crowd wants to hear.
+
+(2) 22. Wheels       During the song Dave stops security from ejecting a member of the audience.
+
+
+
+
+
+
+01. All My Life.flac:  tested ok (file is decodable without error).
+02. Rope.flac:  tested ok (file is decodable without error).
+03. The Pretender.flac:  tested ok (file is decodable without error).
+04. My Hero.flac:  tested ok (file is decodable without error).
+05. Learn To Fly.flac:  tested ok (file is decodable without error).
+06. White Limo.flac:  tested ok (file is decodable without error).
+07. Alandria.flac:  tested ok (file is decodable without error).
+08. Breakout.flac:  tested ok (file is decodable without error).
+09. Band Intro.flac:  tested ok (file is decodable without error).
+10. Cold Day In The Sun.flac:  tested ok (file is decodable without error).
+11. Stacked Actors.flac:  tested ok (file is decodable without error).
+12. Walk.flac:  tested ok (file is decodable without error).
+13. Band Thankyou's.flac:  tested ok (file is decodable without error).
+14. Monkey Wrench.flac:  tested ok (file is decodable without error).
+15. Let It Die.flac:  tested ok (file is decodable without error).
+16. These Days.flac:  tested ok (file is decodable without error).
+17. This Is A Call.flac:  tested ok (file is decodable without error).
+18. In The Flesh (Pink Floyd cover).flac:  tested ok (file is decodable without error).
+19. Best Of You.flac:  tested ok (file is decodable without error).
+20. Crowd.flac:  tested ok (file is decodable without error).
+21. Dave Playing With The Crowd.flac:  tested ok (file is decodable without error).
+22. Wheels.flac:  tested ok (file is decodable without error).
+23. Times Like These.flac:  tested ok (file is decodable without error).
+24. Generator.flac:  tested ok (file is decodable without error).
+25. Tie Your Mothers Down (Queen cover).flac:  tested ok (file is decodable without error).
+26. Everlong.flac:  tested ok (file is decodable without error).
+
+No errors occured.
+
+
+01. All My Life.flac:34831cda9cbdc37fcddb912c5503a5c5
+02. Rope.flac:980eea2b1ef4f40da4d1dee92054cbd9
+03. The Pretender.flac:c814eea44703011957dbc72c0f383a4e
+04. My Hero.flac:14ba30b62010b237ef06a21af92ce044
+05. Learn To Fly.flac:ed4bb6d5e5a0f380f9a950f98227e604
+06. White Limo.flac:a233382127d696decc61a4e201d66522
+07. Alandria.flac:b5e9685a2aa1d33f5e68573e944242d9
+08. Breakout.flac:2648e36d1bc9196e6f88fc16ea3249e5
+09. Band Intro.flac:37aed8fdc56940a1f05998ad34433772
+10. Cold Day In The Sun.flac:7c8e1d0e1d0b8580fea2e4ab84e05378
+11. Stacked Actors.flac:ba93ded26f7c5161ef5858a4d9e20c51
+12. Walk.flac:8711cc6b38d38a7f095ea98c3844b605
+13. Band Thankyou's.flac:48f5ddbb230638af92ac15af6c6cf88e
+14. Monkey Wrench.flac:5f5916e7b6d5e636b13e39606ae38027
+15. Let It Die.flac:7782297a49847773177d7a9bba686c55
+16. These Days.flac:98f60f314f2b96bb83e705d038d86622
+17. This Is A Call.flac:c746ec9e6a4155a2405adc4bf2d7c2a4
+18. In The Flesh (Pink Floyd cover).flac:e3275153bae7972cd342f4ef36d71051
+19. Best Of You.flac:e394894598d54f1206af307ada30064d
+20. Crowd.flac:b09e51b8ef2dfb63cc047ebaf812d3e8
+21. Dave Playing With The Crowd.flac:1a5161a4c26bc3b7ea9025b4d32c359c
+22. Wheels.flac:225a4bb7a6b6f2e644bfccb2a70aaebe
+23. Times Like These.flac:db54e3fa97fb1abce3d8ccfcdb1fffbc
+24. Generator.flac:ceb6df3d7eba5e1c9e8c0f7ebd3c90d8
+25. Tie Your Mothers Down (Queen cover).flac:9bcf6b31332ec34c270188b09c9d6187
+26. Everlong.flac:8725a28ee83aa704cdae487aabf9e856
+
+No errors occured.
+
+Create checksum file log saved to file.
+
+
+96b8587f6b1bf1810b06aacc7e4cdd4c *01. All My Life.flac
+a3b9703fd773adc445e1ce4eefb1ebf6 *02. Rope.flac
+bbc7dbdd344421542288b726d163e841 *03. The Pretender.flac
+131e9c6e0c213dce1bf33ec63c3ea834 *04. My Hero.flac
+f52184b1aa151b64e1d32333081ae8e5 *05. Learn To Fly.flac
+8feef40f9c410cbd5c7e84a842291425 *06. White Limo.flac
+6edf0cfaff5323b8a9c891f13dade12e *07. Alandria.flac
+02092936e749956ba080a075f6d572f5 *08. Breakout.flac
+f2eb4ea244e4b72d09d33a52cbbd86b3 *09. Band Intro.flac
+06fcc1374cea4bfad5dc153e55365692 *10. Cold Day In The Sun.flac
+75a74cf7b29a0edbdf638a36bd8cddd1 *11. Stacked Actors.flac
+40ad0d6ff50d6d8afc8100b221f1c42a *12. Walk.flac
+a0f16062699b1a6bc17ae6a7e617488f *13. Band Thankyou's.flac
+3207c8f9b1afd9471bc751e65382ea9e *14. Monkey Wrench.flac
+67a6103e0f368c8c0c4851ec9c3ae575 *15. Let It Die.flac
+67363a154f0ee0bff04367aba59f0742 *16. These Days.flac
+87b67860c94921cca9a158d0eff9e66f *17. This Is A Call.flac
+effe3d57728964e2613508efb26a9094 *18. In The Flesh (Pink Floyd cover).flac
+f8d8a9b4b3fd149c3367a9cb0ce0250d *19. Best Of You.flac
+3b3830500fda3c4450368f9304a890b7 *20. Crowd.flac
+bd988de4c3d0d8f8fcb72a38976516ae *21. Dave Playing With The Crowd.flac
+52b57501ce9dc8f45d72721cd5fbbd02 *22. Wheels.flac
+90e1a002690ff11cae7dc07e1f8af23b *23. Times Like These.flac
+3b8dacc4d842eac7551056bfee216c03 *24. Generator.flac
+ed3b2a379c6c33ba4aa11d748e20744a *25. Tie Your Mothers Down (Queen cover).flac
+5d0868e9bd61639510ef2f61624888e2 *26. Everlong.flac
+
+No errors occured.
+
+Create checksum file log saved to file.
+
+
+
+
+Do share with others as lossless files.
+Do convert to lossy for your own use but do not upload as lossy on any sites.
+DO NOT SELL THIS RECORDING!!!!!!!!
+DO NOT PUT UP ON PAY-TO-USE DOWNLOAD SITES. YOU WILL BE FOUND OUT!!

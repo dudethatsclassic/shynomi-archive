@@ -1,0 +1,32 @@
+Foo Fighters
+June 10th, 2006
+Seaclose Park (Isle Of Wight Festival)
+Newport, United Kingdom
+
+SOURCE (PRO #2):
+soundboard > unknown
+
+TRANSFER: 
+Sky HD Box > HDMI Splitter > Elgato HD60 > VideoReDo 6.60.4.806 > mkvtoolnixGUI 43.0.0
+
+GENERATION: 
+HDTV > TS [1080i/H.264/25fps | AAC/2.0/224kbps] > MKV
+
+NOTES:
+- Broadcast on Sky Arts HD on June 13th, 2020. Features different camera angles compared to the original Channel 4 broadcasts in 2006.
+
+LENGTH: 
+20:56
+
+TRACKS: 
+01. Best Of You (cuts out)
+02. Monkey Wrench
+03. All My Life
+04. Breakout
+05. Everlong
+
+MD5 CHECKSUMS: 
+9e47121cf5be06f9ea82e44c6dd0ce52 *foofighters2006-06-10_PRO2_HDTV.mkv
+
+TRANSFERRED BY: 
+Dfrazzer

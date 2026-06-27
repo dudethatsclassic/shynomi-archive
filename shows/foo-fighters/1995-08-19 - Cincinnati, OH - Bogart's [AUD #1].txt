@@ -1,0 +1,55 @@
+Foo Fighters
+August 19th, 1995
+Bogart's
+Cincinnati, OH
+
+SOURCE (AUD #1):
+Sonic Studios > Sony TCD-D7 (DAT)
+
+TRANSFER:
+DA20mkII >LynxONE > Adobe Audition CS6 > CDWave 1.98 > Trader's Little Helper 2.7.0
+
+GENERATION:
+DAT(1) > WAV [48khz] > WAV [44.1khz] > FLAC [Level 8]
+
+LENGTH:
+65:21
+
+TRACKS:
+01. Winnebago
+02. I'll Stick Around
+03. Butterflies
+04. Wattershed
+05. Big Me
+06. This Is A Call
+07. Weenie Beenie
+08. For All The Cows
+09. X-Static
+10. My Hero
+11. Good Grief
+12. Alone + Easy Target
+13. Exhausted
+14. Podunk
+15. Down in the Park
+
+MD5 FINGERPRINTS:
+a5b7fb0c9a29c83edde03ff4602dbcae *FooFighters1995-08-19t01.flac
+71e8bd6a9dae974b8388380dad5fa6ee *FooFighters1995-08-19t02.flac
+3555610f25276e0c25d8241afe7e47a7 *FooFighters1995-08-19t03.flac
+2e93cebbef634d492b6ac62faa7c1798 *FooFighters1995-08-19t04.flac
+927da484b93bb54891f46e86ec2f0321 *FooFighters1995-08-19t05.flac
+362142228c94f5d947b9c6a75d929f22 *FooFighters1995-08-19t06.flac
+c014ee561e53683d792567509c811eca *FooFighters1995-08-19t07.flac
+5fec18f57c83b88010cf83ed38db1b3a *FooFighters1995-08-19t08.flac
+87800ab660167aa715f171b0f2044680 *FooFighters1995-08-19t09.flac
+4803df15f24232e8734acb38a202f76c *FooFighters1995-08-19t10.flac
+e9e13ef90e21da8c0c64694218b5f9ca *FooFighters1995-08-19t11.flac
+354f888aa0d435be3c3f63d46ed101b8 *FooFighters1995-08-19t12.flac
+4902ef2f8f5c0fdb3f4d1f1fd502eb95 *FooFighters1995-08-19t13.flac
+ecf591fe4f435cb05a172c73451029f2 *FooFighters1995-08-19t14.flac
+19e6523a7c7337407db9ebe737085a93 *FooFighters1995-08-19t15.flac
+
+TRANSFERRED BY:
+Mike Ziegler
+
+**PLEASE DO NOT ENCODE TO LOSSY FORMATS OR SELL!**

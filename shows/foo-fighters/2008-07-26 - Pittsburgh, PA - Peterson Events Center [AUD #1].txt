@@ -1,0 +1,71 @@
+Foo Fighters
+July 26th, 2008
+Peterson Events Center
+Pittsburgh, PA
+
+SOURCE (AUD #1):
+Sound Professionals SP-CMC-4U > custom battery box > iRiver H120 (Flash Recorder)
+
+TRANSFER:
+USB > Adobe Audition 3.0 > CD Wave 1.97 > Trader's Little Helper 2.7.0
+
+GENERATION:
+WAV(M) [44.1khz/16-Bit] > FLAC [Level 8]
+
+LENGTH:
+144:41
+
+NOTES:
+- 'Hocus Pocus' by Focus is jammed on in the middle of 'Stacked Actors'.
+- Gaz Coombes of Supergrass sings lead vocals on 'Bargain'.
+
+TRACKS:
+01. Let It Die
+02. The Pretender
+03. Times Like These
+04. Learn To Fly
+05. Cheer Up, Boys (Your Make Up Is Running)
+06. Young Man Blues
+07. Long Road To Ruin
+08. Stacked Actors
+09. Skin & Bones
+10. Marigold
+11. My Hero
+12. Cold Day In The Sun
+13. But, Honestly
+14. Everlong
+15. Monkey Wrench
+16. All My Life
+17. Big Me
+18. Bargain
+19. Generator
+20. Aurora
+21. Best Of You
+
+MD5 FINGERPRINTS:
+f7b9cb60731a82c066da17df99fe07fc *01. Let It Die.flac
+286350d4a928c58ce1c53031a4be9bfc *02. The Pretender.flac
+72f46a01c11cea325a006c6f3e0f4bde *03. Times Like These.flac
+fdb8ff0ae1df3143bd50dac3a96bd036 *04. Learn To Fly.flac
+c3d7ce4f502b46596324dfe46ac64727 *05. Cheer Up, Boys (Your Make Up Is Running).flac
+4a846d0d9f9aa97b0298aeb380ba5b48 *06. Young Man Blues.flac
+af2a91692a1c57a78b2ce90e5028373a *07. Long Road To Ruin.flac
+cc490930805a6b1a2f17dcda8ea14230 *08. Stacked Actors.flac
+1a3a7bb6e42931e8a28f78d0632c0fa7 *09. Skin And Bones.flac
+2cdbc2b4214317e748d5dde3bf3a9c11 *10. Marigold.flac
+41dc904a607aff7ba13f73c10d5759cd *11. My Hero.flac
+4c4adf215f655d956b42232b2d21c13e *12. Cold Day In The Sun.flac
+5b77a78c4966057f1b3b9ed52b8b7e0a *13. But, Honestly.flac
+aa075d251de46186c2de9026ab0e522e *14. Everlong.flac
+0aa0b5a834500b0d1d4fb94fd4d41e7f *15. Monkey Wrench.flac
+a493edf78184b34baba65069ab4e35e6 *16. All My Life.flac
+a8bf0b12c7ac7d190dd8e1f0fb0bcd08 *17. Big Me.flac
+b546f5327e241f657f214d83f77cdc16 *18. Bargain.flac
+c6981873469698151971acc961470f1e *19. Generator.flac
+8e9378b7da9f75345ad0985b05dab0f1 *20. Aurora.flac
+cc8a12d4559e41f8de9947bacc3d5ee4 *21. Best Of You.flac
+
+RECORDED AND TRANSFERRED BY:
+Josh
+
+**PLEASE DO NOT ENCODE TO LOSSY FORMATS OR SELL!**

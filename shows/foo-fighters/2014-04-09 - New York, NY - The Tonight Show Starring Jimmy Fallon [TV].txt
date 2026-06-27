@@ -1,0 +1,20 @@
+Dave Grohl and Krist Novoselic
+The Tonight Show Starring Jimmy Fallon
+Studio 6B, Rockefeller Center, New YOrk
+2014-04-09
+
+Digital TV (ABC2, Australia) -> TPO (Homecast PVR) -> MPEG2 (MPEG Streamclip)
+
+Type: MPEG transport stream
+
+Duration: 0:08:07
+Data Size: 232.18 MB
+Bit Rate: 3.99 Mbps
+
+Video Tracks:
+2307 MPEG-2, 720 x 576, 16:9, 25 fps, 10.00 Mbps, upper field first
+
+Audio Tracks:
+2308 MP2 stereo, 48 kHz, 256 kbps
+
+

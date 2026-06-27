@@ -1,0 +1,44 @@
+Foo Fighters 
+September 19th, 2011 
+The Palace of Auburn Hills
+Auburn Hills, MI 
+
+Taper: Richard Simms 
+Source: AT853s > CA ST-9100 > iRiver h120 with Rockbox 
+Transer: iRiver h120 > Computer via USB 2.0 
+Processing: Adobe Audition 1.5 > Adjust Volume/Fades > 
+            CD Wave Editor 1.94.5 > FLAC FrontEnd (Level 8, Align SB) 
+Tagging: Foobar2000 v0.9.5.3 with TradersFriend Component 
+
+Main Set
+01. Bridge Burning
+02. Rope
+03. The Pretender
+04. My Hero
+05. Learn To Fly
+06. White Limo
+07. Arlandria
+08. Breakout
+09. Cold Day In The Sun
+10. Stacked Actors
+11. Walk
+12. Generator
+13. Monkey Wrench
+14. These Days
+15. I Should Have Known
+16. Skin And Bones
+17. This Is A Call
+18. All My Life
+
+Encore
+19. Long Road To Ruin*
+20. Best Of You*
+21. Times Like These
+22. Dear Rosemary
+23. Breakdown (Tom Petty)
+24. Tie Your Mother Down (Queen)
+25. Everlong
+
+*Dave Grohl solo, acoustic
+
+

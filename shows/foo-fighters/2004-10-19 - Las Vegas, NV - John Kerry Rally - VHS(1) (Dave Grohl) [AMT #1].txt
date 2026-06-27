@@ -1,0 +1,46 @@
+DAVE GROHL
+October 19, 2004
+outside of Stardust Hotel & Casino (John Kerry Rally)
+Las Vegas, NV, US 
+
+SETLIST: 
+------------------- 
+01. Speech by Tom DeLonge
+02. Speech by Krist Novoselic
+03. Learn To Fly
+04. Dave Grohl talks
+05. Times Like These
+
+
+SOURCE (18:39):
+-------------------
+AMT #1 - Quality: 8.0
+built-in mics > unknown
+
+TRANSFER:
+-------------------
+VCR > Panasonic VHS/DVD recorder > mkvmerge v60.0.0 ('Are We Copies?') 64-bit > MKV
+
+FORMAT:
+-------------------
+VHS(1) > MKV
+
+NOTES:
+-------------------
+- Dave performed solo acoustically at a John Kerry political rally in support of his 2004 Presidential bid. Krist Novoselic was also present giving a speech and standing behind Dave whilst he performed.
+
+
+A/V CODECS:
+-------------------
+Video: h264 (High), yuv420p (progressive), 704x468 [SAR 10:11 DAR 160:117], SAR 468:515 DAR 704:515, 59.94 fps, 59.94 tbr, 1k tbn (default)
+
+Audio: aac (LC), 48000 Hz, mono, fltp (default), 69kbps
+
+
+MD5 FINGERPRINTS:
+-------------------
+99f684d10f5142c6bf4a930b0259d0ea *davegrohl2004-10-19_AMT1_VHS1.mkv
+
+
+Transferred and encoded by: FooFightersLive.com
+PLEASE DO NOT DISTRIBUTE IN LOSSY FORMATS OR SELL!

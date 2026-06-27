@@ -1,0 +1,52 @@
+Foo Fighters
+28th August 2000
+Main Stage @ Leeds Festival
+Temple Newsam, Leeds, England
+
+SETLIST (42:26)
+-----------------
+01. intro
+02. My Hero
+03. For All The Cows
+04. I'll Stick Around
+05. Big Me
+06. Stacked Actors
+07. This Is A Call
+08. Next Year
+09. Monkey Wrench
+10. Everlong
+
+GENERATION
+-----------------
+DAT(M) -> FLAC
+
+SOURCE (SBD #2)
+-----------------
+SBD -> unknown Yamaha "Natural Sound" FM receiver -> Tascam DA-20 MkII -> DAT(M) (32kHz/16bit)
+
+TRANSFER
+-----------------
+DAT(M) -> Tascam DA-20 MkII -> M-Audio Audiophile 2496 (digital coax) -> WAV (32kHz/16bit) 
+-> Adobe Audition 2017 (fades/amplify) -> CDWave (splits) -> foobar2000 -> FLAC(8)
+
+NOTES
+-----------------
+Complete broadcast, but an incomplete show.
+This show was recorded at 32kHz.
+
+FLAC FINGERPRINTS
+-----------------
+foofighters-2000-aug-28-fm-t01.flac:e591cc278a18ebba21c9c0acda44223d
+foofighters-2000-aug-28-fm-t02.flac:fefc91515c37bea7a9c989bfdfbf0b43
+foofighters-2000-aug-28-fm-t03.flac:7b24d5ebfec6d56dd0529f0ac4b07600
+foofighters-2000-aug-28-fm-t04.flac:45fa1c0e108d9cb60f96f3445308b87b
+foofighters-2000-aug-28-fm-t05.flac:d40e997e77c670ecedf82b929b069114
+foofighters-2000-aug-28-fm-t06.flac:2b029aed7582379104b553a0b2ad6cae
+foofighters-2000-aug-28-fm-t07.flac:cc3523cc0ed33f1dd74cdfebb7955fa8
+foofighters-2000-aug-28-fm-t08.flac:ca073a3bed63bc5955409c58d5aa9a29
+foofighters-2000-aug-28-fm-t09.flac:e0bc3977e984e7cea4cf79cc3cd2df6a
+foofighters-2000-aug-28-fm-t10.flac:54a85e663c4690ece18f93aea7e0eaf2
+
+Taped, transferred & mastered by: Gary Watson (packetboatlane@yahoo.co.uk)
+
+DO NOT SELL, OR DISTRIBUTE IN LOSSY FORMATS!

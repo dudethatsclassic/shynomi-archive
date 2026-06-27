@@ -1,0 +1,42 @@
+Foo Fighters
+Saturday June 1, 1996
+The 1996 'HFStival
+Robert F. Kennedy Stadium
+Washington, D.C.
+FM Broadcast (Partial)
+
+Lineage: WHFS-FM Taped Broadcast > Analog Receiver > Monster Cables > Turtle Beach Sound Card > Hard Drive > Wave SEII Wave File Editor (Beginning & End Fades, Tracking) > CD > EAC > FLAC
+
+This was broadcast by 99.1 WHFS-FM the day after the show. That day I had unusually excellent FM reception for a station with such a notoriously weak signal. There are some abrupt edits and crossfades between songs, but that was how it was broadcast. There is also some crowd noise added by the radio station between songs but quickly fades out as the song begins.
+
+Total Time - 19:21
+
+1. Intro
+2. This Is A Call
+3. Big Me
+4. Down In The Park 
+5. Alone + Easy Target
+6. I'll Stick Around
+
+Full Setlist Of The Show:
+
+1. Enough Space 
+2. This Is A Call 
+3. Winnebago 
+4. Wattershed 
+5. For All The Cows 
+6. Weenie Beenie 
+7. Big Me 
+8. Gas Chamber 
+9. Down In The Park 
+10. Good Grief 
+11. Alone + Easy Target 
+12. I'll Stick Around 
+
+
+foofighters1996-06-01d1t01.flac:f2af80499df5f00c2b33efc18916393a
+foofighters1996-06-01d1t02.flac:30ae32202373c18bc5fab44851147b8c
+foofighters1996-06-01d1t03.flac:5bc780ebfd8186f2dd2eb5a69cc223a4
+foofighters1996-06-01d1t04.flac:b41c541ae13618eeb19ff2cd28d07663
+foofighters1996-06-01d1t05.flac:445956cb4649ad9353bbda24e38f48a9
+foofighters1996-06-01d1t06.flac:dfdad5836cea5e7b399b2656806db9ee

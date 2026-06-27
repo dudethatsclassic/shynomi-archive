@@ -1,0 +1,60 @@
+Foo Fighters
+August 16, 1997
+V1997 Festival, Temple Newsham
+Leeds, United Kingdom
+
+DISC #1/1 (50:36)
+-----------------
+01. Wind Up
+02. Wattershed
+03. Hey, Johnny Park!
+04. Monkeywrench
+05. Alone + Easy Target
+06. Doll
+07. See You
+08. For All The Cows
+09. Enough Space
+10. Up In Arms
+11. unknown jam
+12. Everlong
+13. New Way Home
+14. This Is A Call (cut)
+15. I'll Stick Around
+
+GENERATION
+-----------------
+ANA(M) -> WAV [48kHz] -> WAV [44.1kHz] ->  FLAC [Level 8]
+
+SOURCE (AUD #1)
+-----------------
+Panasonic WM-55 -> Sony WM-D6
+
+TRANSFER
+-----------------
+Nakamichi DR-3 -> RCA to 1/4" TS custom Klotz cables -> M-Audio Delta Audiophile 192 analog-in -> Adobe Audition 2.0 -> CD Wave 1.95.1 -> FLAC Frontend 1.7.1
+
+NOTES
+-----------------
+- Was recorded with high levels, making the sound bass-heavy.
+
+MD5 FINGERPRINTS
+-----------------
+b627a91724263e115d228e820c36511b *foofighters_1997-08-16_aud1_anam_d1t01.flac
+5cb70c4b2b77392a03321c863ba78fb0 *foofighters_1997-08-16_aud1_anam_d1t02.flac
+821ba4c2f99da02c7e562d892e1c922d *foofighters_1997-08-16_aud1_anam_d1t03.flac
+087a404ca31b47109a877b51a48c83b9 *foofighters_1997-08-16_aud1_anam_d1t04.flac
+b328f4a9bf265aa214449a8c8ae6b050 *foofighters_1997-08-16_aud1_anam_d1t05.flac
+8e1e6ad69d424696070202f772687f56 *foofighters_1997-08-16_aud1_anam_d1t06.flac
+6528a3956a1db4e480cd58458692b50c *foofighters_1997-08-16_aud1_anam_d1t07.flac
+0c2a3aacb529111a3894e7d3e649927b *foofighters_1997-08-16_aud1_anam_d1t08.flac
+57aa3dfbd60c0364ec136c2a4a3517d1 *foofighters_1997-08-16_aud1_anam_d1t09.flac
+7fbe9a4965bf6b4bfc8f2c23b45d3809 *foofighters_1997-08-16_aud1_anam_d1t10.flac
+a49581bf5e7bbc4fabb03b6e9b1767d2 *foofighters_1997-08-16_aud1_anam_d1t11.flac
+af44f547de07ef49b895411a4e4bff1d *foofighters_1997-08-16_aud1_anam_d1t12.flac
+ae2f40ee333aeae011bcb91f09ef60f0 *foofighters_1997-08-16_aud1_anam_d1t13.flac
+daea44237a744924975838fbd9227209 *foofighters_1997-08-16_aud1_anam_d1t14.flac
+b37bf76dbf630f4314c46224f97075b3 *foofighters_1997-08-16_aud1_anam_d1t15.flac
+
+Taped by Monk
+Transferred by Pierre Leroy
+DO NOT ENCODE TO MP3 OR SELL!

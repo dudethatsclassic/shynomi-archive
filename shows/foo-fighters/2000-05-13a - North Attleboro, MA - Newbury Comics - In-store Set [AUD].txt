@@ -1,0 +1,47 @@
+BAND: Foo Fighters
+DATE: 05/13/00
+VENUE: Newbury Comics - North Attleboro, MA, USA (Instore set)    
+
+
+**** DO NOT ENCODE TO MP3 OR ANY OTHER LOSSY FORMAT! ****
+**** DO NOT SELL! ****
+
+Source: Analog Audience Audio
+GENERATION: ANA(?)>CDR(?)>EAC>flac(lvl.7)
+Transfer:  EAC>WAV>split tracks with EAC wave editor
+Quality: B+
+Length: 44:58
+WAV Size:  454 MB
+FLAC Size:  283 MB
+Comments: Very interesting set. 
+Trade from: Stefano
+
+Setlist: 
+
+
+01.Wattershed (teaser)
+02.February Stars Story
+03.Next Year
+04.Gimme Stitches
+05.Monkey Wrench (Teaser)
+06.Everlong
+07.My Hero
+08.A320 (teaser) / This Is A Call (teaser)
+09.Breakout
+10.Aint It The Life
+11.Have A Cigar
+
+
+flac fingerprints:
+
+01.Wattershed (teaser).flac:dc1aeed62d90b301f9a24949901204fd
+02.February Stars Story.flac:a85c54576bf43cb0933a3bbf94a34873
+03.Next Year.flac:2dfd67f714de500a98b1a8495f8457d3
+04.Gimme Stitches.flac:df9ccc2feb77a792136ec630de083101
+05.Monkey Wrench (Teaser).flac:56284f1323fe9391528140e05d1d8461
+06.Everlong.flac:1eb17167e25230c40eb44f78d9846b49
+07.My Hero.flac:7bf58ffdc0bc3234b8226c1555f761e9
+08.A320 (teaser) , This Is A Call (teaser).flac:f1f3daeaac4c8fb2fa5e8ee28635c906
+09.Breakout.flac:7cf5806533331c764b00a3652da3cd9b
+10.Aint It The Life.flac:4dfb707233c1506eadcaf2923e216c54
+11.Have A Cigar.flac:f9ace30dbd3c0fde82a0d0b00a839b90

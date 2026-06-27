@@ -1,0 +1,56 @@
+FOO FIGHTERS
+June 29th, 2005
+Olympisky Sports Palace (Tuborg Loud & Live Festival)
+Moscow, Russia
+
+GENERAL INFORMATION:
+Generation: Hi8(M) > DVDR(4) > VOB [PAL]
+Source: AMT #1 - Amateur Video 
+Running Time: 90:52 minutes
+
+TECHNICAL INFORMATION: 
+Transferred By: Unknown 
+Video Information: 4.5 Mbps VBR / 720x576i / 25 fps 
+Audio Information: Linear PCM 
+Transfer Equipment: Unknown 
+
+TRACKLISTING:
+In Your Honor
+Learn To Fly
+Free Me
+My Hero
+Gas Chamber
+Times Like These
+Up In Arms
+No Way Back
+Best Of You
+Stacked Actors
+Everlong
+FFL
+Spill
+Monkey Wrench
+End Over End
+All My Life
+Bridge Of Sighs (jam)
+The One
+Cold Day In The Sun
+Breakout
+
+MD5 FINGERPRINTS:
+c0127e1c7e052c43052da272818bb776 *VIDEO_TS\VIDEO_TS.BUP
+c0127e1c7e052c43052da272818bb776 *VIDEO_TS\VIDEO_TS.IFO
+4e794225db590f57a55d8a03f61465a3 *VIDEO_TS\VIDEO_TS.VOB
+4807d1a97e004f5b1d2421aec6394ad1 *VIDEO_TS\VTS_01_0.BUP
+4807d1a97e004f5b1d2421aec6394ad1 *VIDEO_TS\VTS_01_0.IFO
+403e0b005fc4c82f0f0ef2084685a0d7 *VIDEO_TS\VTS_01_0.VOB
+9ce53ff759a8c29b0e8877f24edf52b7 *VIDEO_TS\VTS_01_1.VOB
+de1cc7cbffd9758cf148ca6053c385a0 *VIDEO_TS\VTS_01_2.VOB
+20ecc6df0d8ce69e06e38c2d7d5a32f0 *VIDEO_TS\VTS_01_3.VOB
+64558aef305ec1770421ef4545cf3c62 *VIDEO_TS\VTS_01_4.VOB
+6d7085035670432995390f181a9fa6a6 *VIDEO_TS\VTS_01_5.VOB
+
+
+REVIEW:
+This Amateur video originally came from an online bootleg shop. It was listed as being from a Hi8 master tape and this seems likely from the picture quality. At distant levels the quality is quite good but the taper does zoom in a long way a lot of the time and this results in a very grainy, low detailed picture. When the taper keeps a moderate level of zoom the picture is quite good and watchable. Sound quality isn't too good, pretty thin and distant sounding without much punch. Also despite featuring an LPCM track it doesn't appear the audio was actually transferred losslessly with frequencies topping out at just 12khz.
+
+The DVD has a very basic menu with no chapter points and there are no extras on the DVD.

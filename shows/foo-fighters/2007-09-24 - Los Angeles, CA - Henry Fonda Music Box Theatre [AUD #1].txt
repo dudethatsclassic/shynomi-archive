@@ -1,0 +1,75 @@
+Foo Fighters
+September 24th, 2007
+Henry Fonda Music Box Theatre
+Los Angeles, CA
+
+SOURCE (AUD #1):
+built-in > Edirol R-09 (Flash Recorder)
+
+TRANSFER:
+USB > Adobe Audition CC 2017 > CDWave 1.98 > FLAC.exe
+
+GENERATION:
+WAV(M) [44.1khz/16-bit] > FLAC [Level 8]
+
+LENGTH:
+110:09
+
+NOTES:
+'Holiday In Cambodia' features Joe Beebe on lead vocals.
+'Shake Your Blood' features Lemmy Kilmister on lead vocals.
+
+TRACKS:
+01. Let It Die
+02. The Pretender
+03. Times Like These
+04. Cheer Up, Boys (Your Make Up Is Running)
+05. I'll Stick Around
+06. Long Road To Ruin
+07. The One
+08. DOA
+09. Breakout
+10. jam
+11. Stacked Actors
+12. Everlong
+13. Monkey Wrench
+14. Darling Nikki
+15. Holiday In Cambodia
+16. For All The Cows
+17. Shake Your Blood
+18. All My Life
+19. Skin And Bones
+20. Marigold
+21. My Hero
+22. Aurora
+23. Best Of You
+
+MD5 FINGERPRINTS:
+20ceb4e0f950a01058524ba1a7ff36a6 *01. Let It Die.flac
+cddababec137e1de2e6d672569de59d9 *02. The Pretender.flac
+6ceab29507c7016d68d4140c1bd563eb *03. Times Like These.flac
+97daaaf810194c0ca6978cb0816426aa *04. Cheer Up, Boys (Your Make Up Is Running).flac
+7037e805c0646e438bcad5569c8ccf1d *05. I'll Stick Around.flac
+6df191189ab80c94ec7417377f20991a *06. Long Road To Ruin.flac
+0695d001e806170743cc6bfa2aaa60b2 *07. The One.flac
+7cec9355da1c581db3175bffed954c2d *08. DOA.flac
+cbf9b41a4171fd78a2158a955915f7d9 *09. Breakout.flac
+67ac7e6cab459c599772d342adfb8b3a *10. jam.flac
+3df0f16c0c5ab1c66058e5d991b3d26c *11. Stacked Actors.flac
+b2a261acd43223e5b90a74a96a6cc487 *12. Everlong.flac
+35cc5b6c831b852a3b830a97da35dac8 *13. Monkey Wrench.flac
+5f658c867923a52e8d4b088f3288ba0a *14. Darling Nikki.flac
+d0a680f53b4ede8aa1db5adc7f6617da *15. Holiday In Cambodia.flac
+0666d7edb4479a468526d4d6e91f2694 *16. For All The Cows.flac
+f501a5871323c4acd81fb606fccae100 *17. Shake Your Blood.flac
+23a61cd49b0a6267331c97c036f2caeb *18. All My Life.flac
+4dcc9a81b150b18cff57564f7b6beb0e *19. Skin And Bones.flac
+9e31adf954a6aef17480dd948c1246f7 *20. Marigold.flac
+95852da88837495c92303a254836cabd *21. My Hero.flac
+6e88b8aabf7befa3338e922e710aa48d *22. Aurora.flac
+d9407d27cf778ccbe103b2b6a79a6425 *23. Best Of You.flac
+
+RECORDED BY:
+wavtaper
+
+**PLEASE DO NOT SELL OR ENCODE TO LOSSY FORMATS!**

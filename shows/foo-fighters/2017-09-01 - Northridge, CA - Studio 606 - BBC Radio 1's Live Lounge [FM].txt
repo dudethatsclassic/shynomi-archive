@@ -1,0 +1,33 @@
+Foo Fighters
+September 1st, 2017
+Studio 606 (Radio 1s Live Lounge)
+Northridge, CA
+
+SOURCE (SBD #1):
+soundboard > unknown
+
+TRANSFER:
+JVC UX-G3 > Audacity 2.1.3 > Adobe Audition CC 2017 > CD Wave 1.98 > FLAC.exe
+
+GENERATION:
+FM > WAV [44.1khz/16-Bit] > FLAC [Level 8]
+
+LENGTH:
+27:14
+
+TRACKS:
+01. interview
+02. The Sky Is A Neighborhood
+03. Best Of You
+04. Let There Be Rock
+
+MD5 FINGERPRINTS:
+010826e9e75bfbb9bc00879071f5a9fb *FooFighters2017-09-01t01.flac
+584f136ef323509f01233f32ac7cd525 *FooFighters2017-09-01t02.flac
+8106176dec837f0d583e44c643f58d25 *FooFighters2017-09-01t03.flac
+1c5b46e12b876799effddf055de81c83 *FooFighters2017-09-01t04.flac
+
+RECORDED AND TRANSFERRED BY:
+FooFightersLive.com
+
+**PLEASE DO NOT ENCODE TO LOSSY FORMATS OR SELL!**

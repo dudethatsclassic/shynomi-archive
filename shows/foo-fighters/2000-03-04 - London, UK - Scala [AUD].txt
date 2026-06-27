@@ -1,0 +1,26 @@
+Foo Fighters - Scala, London, England  4th March 2000
+
+setlist:
+
+01. Aurora
+02. Breakout
+03. Learn To Fly
+04. For All The Cows
+05. My Hero
+06. Up In Arms (slow)
+07. Up In Arms (fast)
+08. Ain't It The Life
+09. Monkey Wrench
+10. Have A Cigar
+11. Everlong
+12. Generator
+13. I'll Stick around
+14. Stacked Actors
+15. Fearless -> Next Year
+16. New Way Home
+17. This Is A Call
+
+source: ECM-717 > TCD-D8 > DATM > CDR 870 > CDR > EAC > WAV > FLAC(8)
+
+notes: Fearless is a Pink Floyd song, it's the first few bars.  This was a special invitation-only show for MTV
+or something, apparently.

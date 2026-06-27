@@ -1,0 +1,57 @@
+Foo Fighters
+November 11th, 1999
+Arenan (Fryshuset Festival)
+Stockholm, Sweden
+
+SOURCE (SBD #1b):
+soundboard > unknown
+
+TRANSFER:
+Nakamichi DR-3 > Custom RCA to 1/4" TS Klotz cables > Echo Mia Midi Analog-in > Adobe Audition 2.0 > CD Wave 1.94.8 > FLAC frontend 1.7.1
+
+GENERATION:
+FM > ANA(1) > WAV [48khz/16-bit] > WAV [44.1khz/16-bit] > FLAC [Level 8]
+
+LENGTH:
+55:17
+
+NOTES:
+- Second broadcast by P3 Radio, missing 'Up In Arms', 'Everlong',  'Aurora' and the 'Into The Void' and 'No Remorse' jams.
+- Tape flip after 'I'll Stick Around', no music is missing.
+- Occasional radio idents between songs.
+
+TRACKS:
+01. Stacked Actors
+02. My Hero
+03. My Poor Brain
+04. For All The Cows
+05. Breakout
+06. Learn To Fly
+07. Monkey Wrench
+08. Hey, Johnny Park!
+09. Alone + Easy Target
+10. I'll Stick Around
+11. A320
+12. Weenie Beenie
+13. This Is A Call
+
+MD5 FINGERPRINTS:
+3a17303085863b1931d8364f38ead51c *01. Stacked Actors.flac
+2e80f0549474704b6b7eebc697d8525f *02. My Hero.flac
+10ab5dbf4d993754b611f64e601e5509 *03. My Poor Brain.flac
+730a1a36b8c36f6c451f09c0837e7cfe *04. For All The Cows.flac
+754719ee7c97f552452b198daeebf8ba *05. Breakout.flac
+0d22e5f41e21093c829e08c34d21cea8 *06. Learn To Fly.flac
+82b509f286a201c6466ccf085413613d *07. Monkey Wrench.flac
+81dbeeba5d32966bbbebdc6fc0611343 *08. Hey, Johnny Park!.flac
+4c97c3ef88d3deab6f80b4779b1128d4 *09. Alone + Easy Target.flac
+47d58da4351c33b08b27e85563249df7 *10. I'll Stick Around.flac
+ca693bf4742d9ceb9834075d1b64d6b2 *11. A320.flac
+6bf26731569d07f994f96e5cea9e596a *12. Weenie Beenie.flac
+e1e54d662f9808b2a7ceecf39776a845 *13. This Is A Call.flac
+
+RECORDED BY:
+Andreas Magnusson
+
+TRANSFERRED BY:
+Pierre Leroy

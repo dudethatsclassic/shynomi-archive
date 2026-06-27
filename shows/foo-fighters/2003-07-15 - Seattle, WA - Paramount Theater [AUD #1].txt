@@ -1,0 +1,62 @@
+Foo Fighters
+July 15th, 2003
+Paramount Theater
+Seattle, WA
+
+SOURCE (AUD #1):
+unknown > unknown
+
+TRANSFER: 
+unknown > Adobe Audition CC 2018 > CD Wave 1.98 > flac 1.3.2
+
+GENERATION: 
+unknown > CDR(x) > WAV [44.1khz/16-bit] > FLAC [Level 8]
+
+NOTES:
+- The band jam on the Rush song 'YYZ' in the middle of 'Monkey Wrench'.
+
+LENGTH: 
+98:49
+
+TRACKS: 
+01. All My Life
+02. My Hero
+03. Times Like These
+04. Have It All
+05. The One
+06. Generator
+07. Learn to Fly
+08. For All The Cows
+09. Enough Space
+10. Stacked Actors
+11. Low
+12. Hey, Johnny Park!
+13. Monkey Wrench
+14. Tired Of You
+15. This Is A Call
+16. Never Talking To You Again
+17. Aurora
+18. Everlong
+
+MD5 CHECKSUMS: 
+d5f503382dfbd12bb24c2a1451d1a159 *01. All My Life.flac
+be73b3e6590d5204a6e9698978a5f4b3 *02. My Hero.flac
+3f11e12672dd54908e7f47f59c1cf099 *03. Times Like These.flac
+3d79613d1ab24aea59aa9cb18c47ba2b *04. Have It All.flac
+66df5de65738b92cd80b0c4038df7624 *05. The One.flac
+3073d8c8720c3d0a39d2e3cf8a90dabc *06. Generator.flac
+3a3778b2aa9c87ecba15f02c40c24ce0 *07. Learn To Fly.flac
+2ca250e4074b198da5670bf1d1288a15 *08. For All The Cows.flac
+204318b6ce3ffe90057ff596c6af8c84 *09. Enough Space.flac
+8608225a95cd8a2db1db257d1396d7d8 *10. Stacked Actors.flac
+a8820694721e4a8ee1bfe43d422bba70 *11. Low.flac
+106b23c592b20005bfb0f286cef52f01 *12. Hey, Johnny Park!.flac
+785d363d78da4ab66a45d12f44ad12e0 *13. Monkey Wrench.flac
+5a1b603cbe7e07a14d228e9f842a30e5 *14. Tired Of You.flac
+5054e2f8747c7ebd1ec830b2031a3228 *15. This Is A Call.flac
+f91515a71d06de457ed2581efafdee80 *16. Never Talking To You Again.flac
+94d507badf2bcaae6aeb90c384926ed9 *17. Aurora.flac
+98a898d504f79150b80f1a0322ad0ab5 *18. Everlong.flac
+
+TRANSFERRED BY: 
+Unknown

@@ -1,0 +1,13 @@
+23ad2b5044404652318625025334541f  [shntool]  01 Butterflies.flac
+479d8d0d5c69b2d38cf9534b339a2e3d  [shntool]  02 Winnebago.flac
+de1d5dd72eb5cc4141da9d589d47638b  [shntool]  03 Wattershed.flac
+0f28a788fb47127e9c296b27f44a68e9  [shntool]  04 For All the Cows.flac
+7627107f3339e3311a04cdc23e2f2cd2  [shntool]  05 Weenie Beenie.flac
+ac0a573d062ebcb6240efd7ad7c65f2d  [shntool]  06 Big Me.flac
+b0391858cfdfdaeb207e961551bfeaec  [shntool]  07 I'll Stick Around.flac
+56b386ae08074414e3c294c64303248e  [shntool]  08 Up in Arms.flac
+259ddd62d9ff2802261c1a120d9f5f50  [shntool]  09 Good Grief.flac
+9c5764722e9e03fea86140c2037a4bf7  [shntool]  10 How I Miss You.flac
+cb84936f388d78d47e4dfd36879a6fcb  [shntool]  11 Alone & Easy Target.flac
+f9b423d64f11f0cf44a0130f8980feb2  [shntool]  12 Exhausted.flac
+20826c79088063b99c9cd47cfcc09b2d  [shntool]  13 .flac

@@ -1,0 +1,66 @@
+Foo Fighters
+Tulsa,OK
+Cain's Ballroom
+14 July 1997
+
+Recording info:
+Sonic Studios[DSM6S]mics>Sonic Studios[PA6LC3[(-30)1st 2 songs only, rest at (-65)]]>D7
+
+Taping Location:
+Near stage right speaker (I think)
+
+Transfer info:
+Master DAT(48)>Sony 59ES>HHB CDR-850 via digital coax>CDR>EAC[secure]>CD Wave[track split]>FLAC Frontend[FLAC convert,Level 8]
+
+CMM-060 (Chris Milazzo Master)
+
+[01] [03:14] Wind Up
+[02] [02:25] Wattershed
+[03] [04:47] Hey,Johnny Park!
+[04] [03:38] Monkey Wrench
+[05] [05:42] Alone + Easy Target
+[06] [01:20] Doll
+[07] [02:28] See You
+[08] [04:48] My Poor Brain
+[09] [04:43] For All The Cows
+[10] [04:21] Up In Arms
+[11] [03:05] Weenie Beenie
+[12] [05:24] February Stars
+[13] [04:20] Everlong
+[14] [06:19] New Way Home
+[15] [04:14] This Is A Call
+[16] [03:03] (encore break)
+[17] [02:14] Big Me
+[18] [04:14] I'll Stick Around
+------------------------------------
+ TT: [70:25]
+
+No remastering was done to this recording.
+
+Big Me is introduced as I'm Gonna Fuckin' Puke - the lyrics are changed to match the title.  The venue was kinda hot....
+
+No artwork - please share if you create some!
+
+Torrented November 27, 2006
+Seed #60 from my master collection.
+
+Fingerprints:
+Track0101.flac:b67dd8dad50d2550384fa241c8d7b8fa
+Track0102.flac:82c6215cef731900bc0b3cb1045bc122
+Track0103.flac:ffef5a434e188e34f5ac2ec54fe536cd
+Track0104.flac:ce0f64960111466808154e8af2cbc329
+Track0105.flac:80decefbd4d1e13d9dabe1d43ed025b7
+Track0106.flac:2cb8d2e5923cae8e81a687992bee83c0
+Track0107.flac:ede64c52ede472011c8e25474a3b8aca
+Track0108.flac:f8f9b034826eb37cabf32a4e8f62c452
+Track0109.flac:d0b312a2bfb3b7d8bf8e606425ee2ccb
+Track0110.flac:6cfd73bcf414ce9e85201c2781192e53
+Track0111.flac:02aea295073fe9d7a52cc08449fbd081
+Track0112.flac:1b934b1cb88419f402b386394584d33a
+Track0113.flac:d09703c80eb1aa3e5b21490bd0c77445
+Track0114.flac:69696850e091d885525b4fb11b067dd3
+Track0115.flac:d899ac1241b6bb787f150b26e883f8bd
+Track0116.flac:b9b24d9d26abc4e69337ff224f7c81b0
+Track0117.flac:dd5167fab282ead7bf906f65241e7a77
+Track0118.flac:2382abd17ea027c7de85fbb4587375d1
+

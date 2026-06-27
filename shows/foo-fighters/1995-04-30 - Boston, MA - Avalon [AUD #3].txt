@@ -1,0 +1,49 @@
+Foo Fighters
+April 30th, 1995
+Avalon
+Boston, MA
+
+SOURCE (AUD #3):
+unknown > unknown (DAT)
+
+TRANSFER:
+DAT > DA20mkII >LynxONE > Adobe Audition 3 > CDWave 1.98 > Trader's Little Helper 2.7.0
+
+GENERATION:
+DAT(2) > WAV [48khz] > WAV [44.1khz] > FLAC [Level 8]
+
+LENGTH:
+44:04
+
+TRACKS:
+01. intro
+02. This Is A Call
+03. Butterflies
+04. Floaty
+05. I'll Stick Around
+06. For All the Cows
+07. Winnebago 
+08. Wattershed
+09. Big Me
+10. Alone + Easy Target 
+11. Podunk
+12. Exhausted
+
+MD5 FINGERPRINTS:
+d910e58d2eabbb65c09d09eecf70419d *FooFighters1995-04-30t01t01.flac
+e28eaca5176ef3df3468528bd86b70f7 *FooFighters1995-04-30t01t02.flac
+a3b391b77bef60e6b9bb840c5c7a8d14 *FooFighters1995-04-30t01t03.flac
+9b1625112ede9b5be7797078c409d8f0 *FooFighters1995-04-30t01t04.flac
+60ca9601779137f5241a9a5208ec36ea *FooFighters1995-04-30t01t05.flac
+4395918ae0f3522014d17a70a66e1245 *FooFighters1995-04-30t01t06.flac
+e4562bc535bf7b0194d2d2a958cf269e *FooFighters1995-04-30t01t07.flac
+8c03791bfc23e89545b275b9d248be2f *FooFighters1995-04-30t01t08.flac
+cf7272d481de5035a52fc1c54497a073 *FooFighters1995-04-30t01t09.flac
+5ca4c514783cb0185c7a2497a4109bdd *FooFighters1995-04-30t01t10.flac
+1ac58e12cf14a31a031d503768273ce3 *FooFighters1995-04-30t01t11.flac
+74d915c1a5f2c15ecef7ee416814deb0 *FooFighters1995-04-30t01t12.flac
+
+TRANSFERRED BY:
+Brad Collins
+
+**PLEASE DO NOT ENCODE TO LOSSY FORMATS OR SELL!**

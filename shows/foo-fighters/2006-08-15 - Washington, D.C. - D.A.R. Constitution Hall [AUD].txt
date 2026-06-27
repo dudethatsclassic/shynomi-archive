@@ -1,0 +1,44 @@
+Foo Fighters
+D.A.R. Constitution Hall
+Washington, D.C.
+Aug 15, 2006
+
+*** THIS IS A 16-BIT FILESET INTENDED FOR AUDIO CD ***
+
+SOURCE: dpa 4061 > coresound batt box > edirol r09 (24/48)
+PROCESSING: soundforge 9.0 (tracking, fades, resample, dither) > traders little helper > flac level 8
+Taped, Processed, Upped by Kubacheck
+
+
+
+01 Intro.flac:bb64955265527109c2a403eb724fbabe
+02 Razor.flac:5f04520fea90630f176fe7ae4154cf78
+03 Over And Out.flac:13796be4da3e23583a5f628c6f00e972
+04 Out On The Mend.flac:7fec1e534139183df463a4aa9c4429b7
+05 Walking After You.flac:1aaf18fb677e4e52313e7fe20890e4e5
+06 Marigold.flac:3ef0dc9c94d0a32e26c499ca114b89e3
+07 My Hero.flac:b0705411bd059ffa64276b1684c2934b
+08 Next Year.flac:d45da36ef523b2d5dbac7c9fd974c2f5
+09 Another Round.flac:21cb94217d44291d06a4d4d76041a05f
+10 See You.flac:b7b0fb95601ee0542db0d9c0b0c4565d
+11 Floaty.flac:58cb4ff208cca1a9f88a7299fcef6b67
+12 Virginia Moon.flac:e0f48391a209540913098ebf54f1867f
+13 Cold Day In The Sun.flac:3bb5b9f1dfaced6c9c8c04aa06f6cdaa
+14 Skin And Bones.flac:eaf06550e581a5dde4bedbf2594cb657
+15 Miracle.flac:4da5b3d511bdf52efd53864924e525c4
+16 February Stars.flac:80b648cfe31b7f98cd1e890811fd817a
+17 Times Like These.flac:061b54fec553df88bd0d9ce87308ffa4
+18 Friend Of A Friend.flac:5e26f282197872cb805ce01880bc4df5
+19 Best Of You.flac:228f5b044d43d5c720b3a2b059bc47de
+20 Everlong.flac:88b8c9f5a468aac71a323e5c5124a78f
+
+
+Notes: one from the archives, from their 2006 acoustic tour..... I was about
+halfway back on the floor, on the left.... I know there was another version out
+on mp3, but that's not from this source..... this one is pretty much uncirculated, 
+I only gave out a couple of copies to friends at the time of the show, I doubt it's
+been posted anywhere before now....
+
+AS ALWAYS: 
+DO NOT SELL
+DO TRADE FREELY

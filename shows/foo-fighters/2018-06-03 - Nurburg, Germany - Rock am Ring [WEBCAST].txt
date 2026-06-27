@@ -1,0 +1,36 @@
+Foo Fighters 
+2018-06-03 
+Nurburg, Germany 
+Nürburgring, Rhineland-Palatinate
+Rock am Ring 
+
+Lineage: LIVE Webcast > WellGet > TSSplitter > FFmpeg > .mkv
+
+Video: H264/1920x1080p/25fps/7200Kbps
+Audio: AAC/2.0/48KHz/128Kbps
+
+Setlist:
+All My Life
+Run
+Learn to Fly
+The Pretender
+The Sky Is a Neighborhood
+Rope
+Drum Solo
+Sunday Rain
+My Hero 
+These Days
+Under My Wheels (Alice Cooper cover)(Chris Shiflett on lead vocals) 
+Another One Bites the Dust / Blitzkrieg Bop 
+Under Pressure (Queen & David Bowie cover)(Taylor on vocals/Dave on drums) 
+Monkey Wrench
+Wheels
+Best of You
+Times Like These
+Stay With Me (Faces cover)(Taylor on vocals) 
+Everlong
+
+Length: 02:12:18
+_____
+SBR1Z
+2018

@@ -1,0 +1,42 @@
+Foo Fighters - 1997 08 17 V97 Festival, Hyland's Park, Chelmsford, UK	
+
+Dave Grohl - Guitar, Vocals
+Nate Mendel - Bass Guitar
+Taylor Hawkins - Drums
+Pat Smear - Guitar
+
+Transfer note: Sounds like it was recorded far from the stage, the crowd is usually louder than the band. I needed to raise the bass a little, reduce some of the crowd noise, limit the clapping volume and then run a 2:1 @ 15 db compressor to raise the music level.  Quality is still quite poor, but I figured I'd still share it since I went to the trouble of transfering and editing it.  Maybe someone likes it, but probably not.
+
+1 Enough Space
+2 Wattershed
+3 Hey, Johnny Park!
+4 Monkey Wrench
+5 Alone + Easy Target
+6 Doll
+7 See You
+8 For All The Cows
+9 Up In Arms
+10 jam
+11 Weenie Beenie
+12 Everlong
+13 New Way Home
+14 This Is A Call
+15 I'll Stick Around
+
+Also played:
+Beck
+Daft Punk
+Echo & the Bunnymen
+Echobelly
+Feeder
+Gene
+Geneva
+Hurricane #1
+Placebo
+Sneaker Pimps
+Stereophonics
+The Bluetones
+The Prodigy
+Veruca Salt
+
+Lineage: Audience Master > 2nd Gen Tape > Tascam 202MKVII USB out > CDWAV > Audacity (normalization, fades, merges, noise reduction) > CDWAV (splits) > DBPowerAmp (FLAC) [loughney xfer]

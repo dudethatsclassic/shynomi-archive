@@ -1,0 +1,10 @@
+Foo Fighters - 1996 06 23 Tonight Show Jay Leno, Burbank, CA
+
+Show note:
+Tonight Show with Jay Leno.  Monkey Wrench is bleeped out. Video here: https://www.youtube.com/watch?v=NO-JBDPs-SA
+
+1 intro
+2 Monkey Wrench
+3 outro
+
+Lineage: TV Broadcast > 1st gen tape > Tascam 202MKVII > USB > CDWAV > Audacity for fades, normalization, noise reduction > CDWAVE (SPLITS) > FLAC [loughney xfer]

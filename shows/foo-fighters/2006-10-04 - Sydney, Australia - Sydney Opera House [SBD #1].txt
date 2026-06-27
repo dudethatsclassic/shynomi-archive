@@ -1,0 +1,39 @@
+FOO FIGHTERS
+October 4th 2006
+Sydney Opera House
+Syndey, Australia
+
+SOURCE (SBD #1):
+soundboard > unknown
+
+TRANSFER:
+FM > unknown > Adobe Audition > WavMerge 2.1 > CD Wave 1.91 > Traders Little Helper 2.4.1
+
+GENERATION:
+FM > WAV [44.1khz] > FLAC [Level 8]
+
+LENGTH:
+
+NOTES:
+- Originally broadcast on December 25th, 2006 by Triple J.
+
+TRACKS:
+01. My Hero
+02. Next Year
+03. Skin & Bones
+04. Cold Day In The Sun
+05. Ballad Of The Beaconsfield Miners
+06. Times Like These
+
+MD5 FINGERPRINTS:
+fd29f54ce5a2637f78a26244ff04cb35 *FooFighters2006-10-04t01.flac
+a00283cf85978b912b59853346608fc4 *FooFighters2006-10-04t02.flac
+5707002af5de64f34c2d04e85bb81980 *FooFighters2006-10-04t03.flac
+cde79f2213a9c0b80403a7ccdb0406b5 *FooFighters2006-10-04t04.flac
+78d5e3b43eebf7a15b123833730185d9 *FooFighters2006-10-04t05.flac
+64312005c18f55e74fc6232d77c4f660 *FooFighters2006-10-04t06.flac
+
+TRANSFERRED BY:
+Frucisgod
+
+**PLEASE DO NOT ENCODE TO LOSSY FORMATS OR SELL!**

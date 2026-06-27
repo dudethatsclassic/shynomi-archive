@@ -1,0 +1,65 @@
+FOO FIGHTERS
+May 31, 1997
+L'Arapaho,
+Paris, France
+
+DISC #1/1 (70:05)
+-----------------
+01. Wind Up
+02. Wattershed
+03. Hey Johnny Park
+04. Monkey Wrench
+05. Alone + Easy Target
+06. Doll
+07. See You
+08. My Poor Brain
+09. For All the Cows
+10. Enough Space
+11. Big Me
+12. Weenie Beenie
+13. February Stars
+14. Everlong
+15. New Way Home 
+16. This is A Call
+17. Up In Arms
+18. Ill Stick Around
+
+GENERATION
+-----------------
+DAT(M) -> WAV [32kHz] -> WAV [44.1kHz] -> FLAC [Level 8]
+
+SOURCE (AUD #1)
+-----------------
+Marantz EM-8 -> Sony TCD-D8
+
+TRANSFER
+-----------------
+Tascam DA-20 MKII -> Viablue S/PDIF cable -> M-Audio Delta Audiophile 192 digital-in -> Adobe Audition 3.0 -> FLAC Frontend 1.7.1 -> CD Wave 1.98
+
+NOTES
+-----------------
+- thanks to SD for letting me transfer his master
+
+MD5 FINGERPRINTS
+-----------------
+6c93457d6f3b545a86a6970c8f7f0a0a *foofighters_1997-05-31_aud1_datm_d1t01.flac
+57de23702519f15199303ad45ac20247 *foofighters_1997-05-31_aud1_datm_d1t02.flac
+fd445276b57b95d7134991aa22fe69a1 *foofighters_1997-05-31_aud1_datm_d1t03.flac
+550e1939cd4428cf59c0333594fd273c *foofighters_1997-05-31_aud1_datm_d1t04.flac
+ab5b115161e33d1077422d4733cd616c *foofighters_1997-05-31_aud1_datm_d1t05.flac
+22a30c31a73ef7018745275099dd255e *foofighters_1997-05-31_aud1_datm_d1t06.flac
+fdbe8b88fdaac180eff455d046b819d8 *foofighters_1997-05-31_aud1_datm_d1t07.flac
+0253cabd70edcba546ca6c41c714769d *foofighters_1997-05-31_aud1_datm_d1t08.flac
+9567a9f12c95dabf83d57409d92310f2 *foofighters_1997-05-31_aud1_datm_d1t09.flac
+edcaad4a14e91aca6d77980225f48b88 *foofighters_1997-05-31_aud1_datm_d1t10.flac
+95b1170a624241b463b72de6488d1bd3 *foofighters_1997-05-31_aud1_datm_d1t11.flac
+9517a694527926adfae4e9dd5f0b603a *foofighters_1997-05-31_aud1_datm_d1t12.flac
+34065536da4902b67f85359caa69efdb *foofighters_1997-05-31_aud1_datm_d1t13.flac
+d9a48372cb738ce547fe952938f8f197 *foofighters_1997-05-31_aud1_datm_d1t14.flac
+25c70a8cc46a187d1082b32afb9205af *foofighters_1997-05-31_aud1_datm_d1t15.flac
+cbc610faf969e3f067cf177e1e77986f *foofighters_1997-05-31_aud1_datm_d1t16.flac
+d53d439a71653f126c2fdea6a10ad07e *foofighters_1997-05-31_aud1_datm_d1t17.flac
+2b480bda79434b7d6e7ea725f0088510 *foofighters_1997-05-31_aud1_datm_d1t18.flac
+
+Transferred by Pierre Leroy
+PLEASE DO NOT ENCODE TO MP3 OR SELL! 

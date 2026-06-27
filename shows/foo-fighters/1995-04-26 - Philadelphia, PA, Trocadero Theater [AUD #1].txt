@@ -1,0 +1,47 @@
+Foo Fighters
+April 26th, 1995
+Trocadero
+Philadelphia, PA
+
+SOURCE (AUD #1):
+unknown > unknown
+
+TRANSFER:
+unknown
+
+GENERATION:
+UNKNOWN > CDR(x) > WAV > FLAC [Level 8]
+
+LENGTH:
+43:01
+
+TRACKS:
+01. Down In The Park
+02. This Is A Call
+03. Butterflies
+04. Floaty
+05. I'll Stick Around
+06. Big Me
+07. Wattershed
+08. For All The Cows
+09. Podunk
+10. Alone + Easy Target
+11. Exhausted
+
+MD5 FINGERPRINTS:
+825115af10fd4afda3b9bdcb4a0b1442 *01. Down In The Park.flac
+8fb8f2ad0ce53f084acc2117ed5140e5 *02. This Is A Call.flac
+e37e873fe308b351c0fb240f55fb7772 *03. Butterflies.flac
+bdacdffcacc89cacb0e5539fd7fa0ea4 *04. Floaty.flac
+d50b5e5cd8296ece318009a9dec9a4fd *05. I'll Stick Around.flac
+fdcc69d6fe50328be34a4c29a6f07c72 *06. Big Me.flac
+9849d91aad617e403536ebe8ea713c9a *07. Wattershed.flac
+6d84d35d31b038cf38c6448f4a59d9ba *08. For All The Cows.flac
+70bb91e4a5540423fb02b23f53504cfb *09. Podunk.flac
+933e54df64036d5a391da7c1f9f692f2 *10. Alone + Easy Target.flac
+d657fd23c06af73f154085f882518e60 *11. Exhuasted.flac
+
+EXTRACTED BY:
+Unknown
+
+**PLEASE DO NOT ENCODE TO LOSSY FORMATS OR SELL!**!!!!

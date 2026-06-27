@@ -1,0 +1,50 @@
+Foo Fighters
+March 4th, 1995
+Velvet Elvis Arts Lounge
+Seattle, WA
+
+SOURCE (AUD #1):
+unknown > unknown
+
+TRANSFER:
+Nakamichi DR-3 > Monster RCA Cable > Creative Soundblaster Audigy SE > Adobe Audition 2.0 > CD Wave > FLAC Frontend 1.7.1
+
+GENERATION:
+ANA(3) > WAV [44.1khz] > FLAC [Level 8]
+
+LENGTH:
+39:36
+
+NOTES:
+- Possibly sourced from a video recording.
+
+TRACKS:
+01. intro
+02. Butterflies
+03. Winnebago
+04. Floaty
+05. Big Me
+06. Wattershed
+07. For All The Cows
+08. I'll Stick Around
+09. Alone + Easy Target
+10. Podunk
+11. Exhausted
+
+MD5 FINGERPRINTS:
+dbaca88a18788b65ad712d9e4aa624f2 *FooFighters1995-03-04t01.flac
+3539dd2b45352829a1a15bd868dbce7c *FooFighters1995-03-04t02.flac
+100c156a5e7e577252081826cddb6320 *FooFighters1995-03-04t03.flac
+a458f3f223ae717a2b2c2b5448ad1710 *FooFighters1995-03-04t04.flac
+6816d9f9aedd928beb30b0f57b405d43 *FooFighters1995-03-04t05.flac
+4798df662b37efca352c0c9f87918dfc *FooFighters1995-03-04t06.flac
+27b31fc6a1e185bd4522b6421d668da4 *FooFighters1995-03-04t07.flac
+c9efd5f44b1a5328283a462311f7c503 *FooFighters1995-03-04t08.flac
+e3873fc6367516a152f6db709ac24e31 *FooFighters1995-03-04t09.flac
+4bd369c854bfe665b5a09cc5aeff637e *FooFighters1995-03-04t10.flac
+ccad5529d749d5c68624c10a344dee5c *FooFighters1995-03-04t11.flac
+
+TRANSFERRED BY:
+Brad Collins
+
+**PLEASE DO NOT ENCODE TO LOSSY FORMATS OR SELL!**

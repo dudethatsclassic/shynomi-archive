@@ -1,0 +1,35 @@
+Foo Fighters
+August 26th, 1995
+Richfield Avenue (Reading Festival)
+Reading, United Kingdom
+
+SOURCE (SBD #1b):
+soundboard > unknown
+
+EXTRACTION:
+Exact Audio Copy > CDWave 1.98 > Trader's Little Helper 2.7.0
+
+GENERATION:
+FM > DAT(1) > CDR(1) > WAV [44.1khz] > FLAC [Level 8]
+
+LENGTH:
+19:21
+
+TRACKS:
+01. Big Me
+02. This Is A Call
+03. Weenie Beenie
+04. For All The Cows
+05. Exhausted
+
+MD5 FINGERPRINTS:
+6739c07696dc70ec1f16493912d38619 *FooFighters1995-08-26t01.flac
+226c169d23d813f275537b5bb6997deb *FooFighters1995-08-26t02.flac
+c46abddc2ed1b7c699415ecd1c575a5f *FooFighters1995-08-26t03.flac
+945831cdbb2f63c027d4b03223dcdbc9 *FooFighters1995-08-26t04.flac
+c4600ebb1093f95255a1265e905c65eb *FooFighters1995-08-26t05.flac
+
+RECORDED AND TRANSFERRED BY:
+Unknown
+
+**PLEASE DO NOT ENCODE TO LOSSY FORMATS OR SELL!**

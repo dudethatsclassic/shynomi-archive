@@ -1,0 +1,54 @@
+FOO FIGHTERS
+August 23, 2003
+Slane Castle
+Slane, IE
+
+SETLIST (64:46)
+---------------
+01) All My Life (cuts in)
+02) Times Like These
+03) My Hero
+04) Learn To Fly
+05) Have It All
+06) Breakout
+07) Stacked Actors
+08) Low
+09) Monkey Wrench
+10) Tired Of You
+11) Everlong
+
+GENERATION
+---------------
+MD(M) -> CDR(2) -> WAV [44.1khz] -> FLAC [Level 8]
+
+SOURCE (AUD #1)
+---------------
+Audio Technica 831b -> Sony MZ-G755 (MiniDisc)
+
+TRANSFER
+---------------
+Exact Audio Copy V0.99 pre-beta 3 -> WAV Merge 2.1 -> CD WAVE 1.9.1 -> FLAC Frontend 1.7.1
+
+NOTES
+---------------
+Taper now only has his masters on CDR, and so my copy was from his "Master" CDR.
+Sound is quite distant to begin with but improves as the show goes on.
+Supporting Red Hot Chili Peppers.
+Other support came from Queens Of The Stone Age, PJ Harvey and Feeder.
+
+MD5 FINGERPRINTS
+----------------
+cf47b676bbd15e95cb43c58d1727703d *FooFighters2003-08-23t01.flac
+a826285483531cdaee79f0517a25c56b *FooFighters2003-08-23t02.flac
+b54c12b9b6c55feda11deee9486dfbe4 *FooFighters2003-08-23t03.flac
+5b138a25aae2813a4aeb71ba7801a7c4 *FooFighters2003-08-23t04.flac
+7dd4a3c361e5f236a4df381c4c2e7341 *FooFighters2003-08-23t05.flac
+df2cf534bdca3ebd0c5320412ed787aa *FooFighters2003-08-23t06.flac
+5c6d3284810157370b0b5ac7ed6989ed *FooFighters2003-08-23t07.flac
+0c836c69e2d0a98c9a1533f005637bb4 *FooFighters2003-08-23t08.flac
+580c312bf96e151cd9bfc34dc435a366 *FooFighters2003-08-23t09.flac
+0440ddb55c3c12a464bb75af320769cc *FooFighters2003-08-23t10.flac
+b55391ad202dd5852d2ee9a570032339 *FooFighters2003-08-23t11.flac
+
+Transferred by "Johnky".
+DO NOT SELL OR ENCODE TO LOSSY FORMATS!

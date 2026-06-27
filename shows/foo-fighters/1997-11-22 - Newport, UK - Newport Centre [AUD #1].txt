@@ -1,0 +1,68 @@
+Foo Fighters
+November 22nd, 1997
+Newport Centre
+Newport, United Kingdom
+
+SOURCE (AUD #1):
+Sony (supplied) > Sony WM-GX506 (cassette)
+
+TRANSFER: 
+Nakamichi DR-3 >  RCA to 1/4" TS custom Klotz cables > M-Audio Delta Audiophile 192 analog-in > Adobe Audition CC 2018 > CD Wave 1.98 > flac 1.3.2
+
+GENERATION: 
+ANA(M) > WAV [48khz/16-bit] > FLAC [Level 8]
+
+NOTES:
+- 'Ain't Talkin' 'Bout Love' is jammed on in the middle of 'Alone + Easy Target'.
+- 'Weenie Beenie' cuts in due to a tape flip.
+- Dave briefly stops playing 'The Colour And The Shape' to tell security off for being heavy handed with crowd members.
+
+LENGTH: 
+80:05
+
+TRACKS: 
+01. jam/intro
+02. This Is A Call
+03. Hey, Johnny Park!
+04. Alone + Easy Target
+05. Monkey Wrench
+06. Doll
+07. See You
+08. My Poor Brain
+09. Enough Space
+10. Big Me
+11. The Colour And The Shape
+12. For All The Cows
+13. Gas Chamber
+14. Up In Arms
+15. Weenie Beenie (cuts in)
+16. Everlong
+17. New Way Home
+18. Walking After You
+19. Requiem
+20. I'll Stick Around
+
+MD5 CHECKSUMS: 
+650a2ac7da4bf0e1e18fec869ea2eeb0 *11. The Colour And The Shape.flac
+3af84e2739ab578b2ed882c38f0d371d *12. For All The Cows.flac
+3ca377f18e11fdf8c3a3d8978f97b7e4 *13. Gas Chamber.flac
+7cb38226bb98ff196924caff2d881ebd *14. Up In Arms.flac
+dd25a049e32d17618582594e31216b86 *15. Weenie Beenie (cuts in).flac
+a64b35d0372407432abd663eef477a1d *16. Everlong.flac
+eaaa01a7ce0016708c0872f0b2ef9b70 *17. New Way Home.flac
+fb1b4d4129828892ffa3efb519d58d0a *18. Walking After You.flac
+5caa01b08a4e4c42153b3106bb57654b *19. Requiem.flac
+453e76e48f3d424cb5538c95783ebb35 *20. I'll Stick Around.flac
+22b8dfdc7aad131460d739b58647aa93 *01. intro.flac
+3c011a8cc69de983134d3a34a94e43e5 *02. This Is A Call.flac
+c4df2f382e6ace6463294b2132c0de21 *03. Hey, Johnny Park!.flac
+e947016f5030dcdc6e0d6abce2559d96 *04. Alone + Easy Target.flac
+6d4dbf81b247931504295707daf348ce *05. Monkey Wrench.flac
+fe34c09a3874ee3ce9623b4fa41e2341 *06. Doll.flac
+dd1f09bd59bf717ef2d571d3bcda5bf7 *07. See You.flac
+32a9d3a7b8ae8e51bbfede0fc1ae6457 *08. My Poor Brain.flac
+e006d7d6a827e99c5ce6d33a698ca4ef *09. Enough Space.flac
+5bd7c86e18bd62958866fe5e2d3cd8c0 *10. Big Me.flac
+
+TRANSFERRED BY: 
+Pierre Leroy

@@ -1,0 +1,61 @@
+Foo Fighters
+November 11th, 1999
+Arenan (Fryshuset Festival)
+Stockholm, Sweden
+
+SOURCE (SBD #1a):
+soundboard > unknown
+
+EXTRACTION:
+Rubyripper > FLAC.exe
+
+GENERATION:
+FM > DAT(x) > CDR(1) > WAV [44.1khz] > FLAC [Level 8]
+
+LENGTH:
+52:44
+
+NOTES:
+- First broadcast, missing 'Learn To Fly', 'A320' and 'Aurora'.
+- Only half of 'Alone + Easy Target' is played, the breakdown was merged straight into 'Everlong'.
+
+TRACKS:
+01. Stacked Actors
+02. My Hero
+03. My Poor Brain
+04. For All The Cows
+05. Breakout 
+06. Up In Arms (jam)
+07. Up In Arms
+08. Monkey Wrench
+09. Hey, Johnny Park!
+10. Alone + Easy Target
+11. Everlong
+12. I'll Stick Around
+13. Into The Void (jam)
+14. Weenie Beenie
+15. No Remorse (jam)
+16. This Is A Call
+
+MD5 FINGERPRINTS:
+7c0ee6962fcb2abceb898c52a6e44f36 *FooFighters1999-11-11t01.flac
+606beea8cf86c6c7bd6cc91365c84051 *FooFighters1999-11-11t02.flac
+1549e2a43aaf78dd46f0c6d0f0096647 *FooFighters1999-11-11t03.flac
+d8933c15502f86f7d7faf0879625d3b3 *FooFighters1999-11-11t04.flac
+396b6d2f7f7f9763dabc3a5ea38d9df6 *FooFighters1999-11-11t05.flac
+28336d8dd55f008fd65c0a10859b7197 *FooFighters1999-11-11t06.flac
+caf78b5c25a93756597519f2aca941af *FooFighters1999-11-11t07.flac
+a110ba1c75e2611d6f9d94fb55b98b66 *FooFighters1999-11-11t08.flac
+429b839a9034b3c5117c6400339a8e7b *FooFighters1999-11-11t09.flac
+b44fa8d6bdc78ef080b065544b1dbbb4 *FooFighters1999-11-11t10.flac
+4668ffb7f2bd5255e7711748285a40b6 *FooFighters1999-11-11t11.flac
+b1d844adeba0a3709a50c40eca8f7221 *FooFighters1999-11-11t12.flac
+90f4cac2c98391be22770be5cdf5cc4e *FooFighters1999-11-11t13.flac
+5081cb52952d38da5aa48010c16d1f73 *FooFighters1999-11-11t14.flac
+ed84c69e5e2e3bbe810a0cbd0141600f *FooFighters1999-11-11t15.flac
+b7454934387351398f10ed6c840c7359 *FooFighters1999-11-11t16.flac
+
+TRANSFERRED BY:
+Unknown
+
+**PLEASE DO NOT ENCODE TO LOSSY FORMATS OR SELL!**

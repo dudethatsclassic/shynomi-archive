@@ -1,0 +1,23 @@
+Foo Fighters - 1996 03 18 Rockline Studios, Burbank, CA, USA 
+
+Show note:
+Rockline broadcast with an interview, call-in questions, album tracks and live accoustic songs. Removed songs marked * as they are officially released.  Wattershed is done in the style of Fred Schneider of the B52's, its pretty awesome.
+
+1 interview
+2 For All the Cows (acoustic) 
+3 interview
+4 This is a Call* 
+5 interview
+6 How I Miss You (acoustic) 
+7 interview
+8 I'll Stick Around* 
+9 interview
+10 Wattershed (acoustic) 
+11 interview
+12 Ozone*
+13 interview
+14 Up In Arms (acoustic)
+15 interview 
+
+Lineage: FM broadcast > 1st gen tape > Tascam 202MKVII > USB > CDWAV > Audacity for fades, normalization, noise reduction > CDWAVE (SPLITS) > FLAC [loughney xfer]
+

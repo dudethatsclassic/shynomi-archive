@@ -1,0 +1,56 @@
+Foo Fighters
+Rogers Place
+Edmonton, Alberta, Canada 
+October 22, 2018  
+"Concrete And Gold Tour '18"
+
+Recorder: Sean Gursky (me@seangursky.com) 
+Location: General Admission, in front of soundboard 
+Equipment: CA 14 Card > CA 9200 > Edirol R-09HR
+Lineage: SD Card > 24/48 WAV > Adobe Audition RMS Adjustment > Audacity EQ > Adobe Audition tracking and down sample to 16/44.1 WAV export > xACT FLAC Level 8
+
+Setlist: 
+01. Intro [01:33]
+02. Run [06:44]
+03. The Sky Is a Neighborhood [04:32]
+04. La Dee Da [04:39]
+05. Drum Solo [04:03]
+06. Sunday Rain [06:56]
+07. Something From Nothing [07:12]
+08. Walk [05:15]
+09. These Days [06:24]
+10. The Pretender [12:22]
+11. Times Like These [04:37]
+12. All My Life [05:59]
+13. Learn to Fly [04:14]
+14. Guitar Solo - Under My Wheels - Another One Bites the Dust - Keyboard Solo [10:37]
+15. Imagine - Jump [06:39]
+16. Blitzkrieg Bop [05:50]
+17. Under Pressure [04:49]
+18. My Hero [07:07]
+19. Breakout [09:29]
+20. Monkey Wrench [07:37]
+21. Everlong [04:43]
+22. Encore Break [10:16]
+23. Breakdown [06:29]
+24. This Is a Call [05:46]
+25. Cold Day In the Sun [04:38]
+26. Best of You [11:20]
+
+Total concert length: 2:50:01
+
+Show Notes:
+Rescheduled show from original September 4 date which had to be postponed due to illness. 
+
+Show featured plenty of covers and teases through the night.  For "Breakdown" Brothers Osborne joined the band on stage.   
+  
+Recording / Editing Notes:
+Some song transitions were a challenge to cut.  For "Run" and "The Sky is a Neighborhood" the backup singers did their false start, followed by 20 seconds of crowd applause and then Dave kicked the song off properly, which is where I started the track. 
+
+During the Band Introductions/covers extravaganza I split this based on how they were listed as single tracks on setlist.fm for past shows and not as individual tracks.   
+
+Settings on the CA 9200: Gain +10db, Volume 100% and Edirol R-09HR: Line Input: 38, Plug in Power: Off, Limited: Off, Low Cut: Off, Mic Gain: Low.
+
+Adobe Audition channel adjustment to balance volume in channels, right had average RMS value that was 0.43 dB higher. My reference for calculating RMS in Adobe Audition (because I never remember) is here: http://bit.ly/2ooIg4e.
+
+My final EQ adjustments were: -2dB Bass, +1dB Treble, 0dB Amplification  

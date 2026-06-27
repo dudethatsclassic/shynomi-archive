@@ -1,0 +1,26 @@
+Foo Fighters - 1995 12 06  CLUB CITTA, Kawasaki, Japan 
+
+Transfer Note:
+Tape flip after ALone + Easy Target.
+
+1 intro
+2 Enough Space
+3 This Is a Call
+4 Winnebago
+5 Wattershed
+6 For All the Cows
+7 Butterflies
+8 Big Me
+9 I'll Stick Around
+10 Oh, George
+11 Good Grief
+12 Podunk
+13 How I Miss You
+14 Alone + Easy Target
+15 Exhausted
+16 Floaty
+17 Up in Arms
+18 Gas Chamber [Angry Samoans]
+19 Weenie Beenie
+
+Lineage: DAT Audience Master > 1st Gen Tape > Tascam 202MKVII > USB > CDWAV > Audacity for fades, normalization, noise reduction > CDWAVE (SPLITS) > FLAC [loughney xfer]

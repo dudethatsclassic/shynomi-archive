@@ -1,0 +1,62 @@
+FOO FIGHTERS
+April 7, 1996
+UMBC Fieldhouse
+Baltimore, MD
+
+SOURCE (AUD #1):
+Sony > Sony TCD-D7 (DAT)
+
+TRANSFER:
+Tascam DA-20 mkII > LynxONE > Adobe Audition > CDWave > Trader's Little Helper
+
+GENERATION:
+DAT(1) > WAV [44.1kHz] > FLAC [Level 8]
+
+LENGTH:
+66:48
+
+NOTES:
+- Missing part of 'This Is A Call' as taper was adjusting their equipment.
+
+TRACKS:
+01. Enough Space
+02. This Is A Call (cuts in)
+03. Winnebago
+04. Wattershed
+05. For All The Cows
+06. Weenie Beenie
+07. Butterflies
+08. Big Me
+09. My Poor Brain
+10. Gas Chamber
+11. Up In Arms
+12. Good Grief
+13. Podunk
+14. How I Miss You
+15. Alone + Easy Target
+16. I'll Stick Around
+17. Exhausted
+
+MD5 FINGERPRINTS:
+f6349e2c7627128d50edce0178d14d93 *01. Enough Space.flac
+78470122f4398ce3da98cca78e6047a0 *02. This Is A Call.flac
+7920b692de9256a27b653dd910d12048 *03. Winnebago.flac
+6f37c7ec840579be250780dea8b0d8d0 *04. Wattershed.flac
+87cddaa849d7adbe32c152279d4e4fb3 *05. For All The Cows.flac
+8694697791ba6ee2e70dfc835b2e4b6b *06. Weenie Beenie.flac
+f4764c06626136f6de1cc82fe3d4efa8 *07. Butterflies.flac
+74abedf4ea3067bc244ddbc441e4cde1 *08. Big Me.flac
+43304d6b6d2826e8e02f9991b0a7bafd *09. My Poor Brain.flac
+b1967d0bfea28efef5ce5850df80f4bc *10. Gas Chamber.flac
+83f5cf44a6091785cc80a9d18785aca5 *11. Up In Arms.flac
+52f7cce9818a7a9db8c6e82e7496b4fa *12. Good Grief.flac
+1512ec91988a8857e2cfac194df7edf4 *13. Podunk.flac
+999577b36e31acea6756b32172e47f9e *14. How I Miss You.flac
+b920bb8cdc14983764e9a35742180907 *15. Alone + Easy Target.flac
+df35d30b6e79cc0cf54f89ae8a7e2261 *16. I'll Stick Around.flac
+3011ea5a50d53ab0373c94689181d8a5 *17. Exhausted.flac
+
+TRANSFERRED BY:
+Mike Ziegler
+
+***PLEASE DO NOT SELL OR ENCODE TO LOSSY FORMATS***

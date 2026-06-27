@@ -1,0 +1,55 @@
+Foo Fighters
+May 14th, 2011
+Carlisle Airport (Radio 1's One Big Weekend)
+Carlisle, United Kingdom
+
+SOURCE (SBD #1):
+soundboard > unknown
+
+TRANSFER:
+JVC UX-G3 > Creative Soundblaster Audigy SE > Audacity 1.2.6 > Adobe Audition 3 > CDWave 1.98 > Traders Little Helper
+
+GENERATION:
+FM > WAV [44.1khz] > FLAC [Level 8]
+
+LENGTH:
+70:33
+
+NOTES:
+- Live broadcast on BBC Radio 1.
+- Incomplete, missing 'This Is A Call' and 'Tie Your Mother Down'.
+
+TRACKS:
+01. Bridge Burning
+02. Rope
+03. All My Life
+04. My Hero
+05. Learn To Fly
+06. White Limo
+07. Times Like These
+08. The Pretender
+09. Walk
+10. Cold Day In The Sun
+11. Best of You
+12. Monkey Wrench
+13. Everlong
+
+MD5 FINGERPRINTS:
+b48517a2226e3ef8a851e60a3e2d486e *FooFighters2011-05-14t01.flac
+1c39e67bf0e5741eae4cd167c05283c9 *FooFighters2011-05-14t02.flac
+f58224db9d22165df19bf2704e14a982 *FooFighters2011-05-14t03.flac
+847c2665bdbe92119d2d4533d0612992 *FooFighters2011-05-14t04.flac
+9a0516deb1e45947e78d8a2918e8452b *FooFighters2011-05-14t05.flac
+564713ecf265ce7b82796139b66f41c2 *FooFighters2011-05-14t06.flac
+8e97298d4aba575580babe6adaf4c0b4 *FooFighters2011-05-14t07.flac
+969231da3286c792fdb10698d32905b9 *FooFighters2011-05-14t08.flac
+d3de45182fd81f5687d9e9ee653085d0 *FooFighters2011-05-14t09.flac
+a5e162724c43b5d7682e920d3e312ae3 *FooFighters2011-05-14t10.flac
+4b702cbc747a98ac0a5121c28021d06b *FooFighters2011-05-14t11.flac
+cc8ae48f794e8c491e451683e58e8715 *FooFighters2011-05-14t12.flac
+711620808b63f971d00047900df041e1 *FooFighters2011-05-14t13.flac
+
+RECORDED & TRANSFERRED BY:
+Simon Kilmore
+
+**PLEASE DO NOT ENCODE TO LOSSY FORMATS OR SELL!**

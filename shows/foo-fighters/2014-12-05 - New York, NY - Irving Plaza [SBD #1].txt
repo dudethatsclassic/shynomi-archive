@@ -1,0 +1,83 @@
+Foo Fighters
+December 6th, 2014
+Irving Plaza
+New York, NY
+
+SOURCE (SBD #1):
+soundboard > unknown
+
+TRANSFER:
+SiriusXM.com > Sony Soundforge 6 > Adobe Audition CS6 > CDWave 1.98 > Trader's Little Helper 2.7.0
+
+GENERATION:
+Webstream > WAV [44.1khz] > FLAC [Level 8]
+
+LENGTH:
+157:04
+
+NOTES:
+- Recorded from SiriusXM Howard 101 online stream.
+- Has occasional Howard Stern radio idents. 
+
+TRACKS:
+01. intro
+02. Outside
+03. The Pretender
+04. Learn To Fly
+05. White Limo
+06. Arlandria
+07. Rope
+08. My Hero
+09. Hey, Johnny Park!
+10. Monkey Wrench
+11. Congregation
+12. Walk
+13. Cold Day In The Sun
+14. I'll Stick Around
+15. In The Clear
+16. Big Me
+17. Something From Nothing
+18. Times Like These
+19. These Days
+20. Miss You
+21. Breakdown
+22. Under Pressure
+23. All My Life
+24. This Is A Call
+25. I Am A River
+26. Best Of You
+27. Everlong
+
+MD5 FINGERPRINTS:
+b9eccb0bf6e95cfa6afff87ab84439bb *FooFighters2014-12-05t01.flac
+06aa9335d5805efc2d5f46cf0534bbf9 *FooFighters2014-12-05t02.flac
+4df4385bcd8c6f3ae7a8e036fb05cbb6 *FooFighters2014-12-05t03.flac
+f750e9c23dbe56625e41f625249a4407 *FooFighters2014-12-05t04.flac
+6bfb2865ffac3057cdbefa20be3fd5f9 *FooFighters2014-12-05t05.flac
+8dda974a082e4a5d7d1b1bbb9e07348f *FooFighters2014-12-05t06.flac
+cfbd74153bccaa3db3e3a39957f8fde0 *FooFighters2014-12-05t07.flac
+61ba927ce78857628a8b568153820f73 *FooFighters2014-12-05t08.flac
+4c17312095d96c4531e6c0cceea8e252 *FooFighters2014-12-05t09.flac
+f6ed1b1646124dd92edbe4a736d33c97 *FooFighters2014-12-05t10.flac
+07c5129e7ddd9b74b6e6ef78bd5d636b *FooFighters2014-12-05t11.flac
+d5e79b5b41fc16827697bc6370df7181 *FooFighters2014-12-05t12.flac
+fb57ad7a002939ca06875ecc6b287198 *FooFighters2014-12-05t13.flac
+f6e6ad513645200c7be2f5b7211669a1 *FooFighters2014-12-05t14.flac
+eccd25e12a2aca920ba28e54916f1000 *FooFighters2014-12-05t15.flac
+2451c36de236f2e7dfde25265f129274 *FooFighters2014-12-05t16.flac
+825c646f01aa6ad064644b513d1edfa3 *FooFighters2014-12-05t17.flac
+ea4905305e286014aee5ac602fe6c097 *FooFighters2014-12-05t18.flac
+eae555b075efcd10877ca442531171d6 *FooFighters2014-12-05t19.flac
+b88e23e77f7cab0d9c3bd59d9e7d27dd *FooFighters2014-12-05t20.flac
+cd38d446850dedfcc16f0a2082cdcce9 *FooFighters2014-12-05t21.flac
+5c5872840245af55b0940e0e51a7433e *FooFighters2014-12-05t22.flac
+43d843727ab2c0b6e0ffd7aa116bf022 *FooFighters2014-12-05t23.flac
+083e5f5264d25d72f035802b3194f613 *FooFighters2014-12-05t24.flac
+a4ad5efadfd2c7ed2d1a444c01a4760b *FooFighters2014-12-05t25.flac
+473c6c30208dea83ccc9a7c7e7c15841 *FooFighters2014-12-05t26.flac
+886ed055fe755147d47e73ffe3d8eb6e *FooFighters2014-12-05t27.flac
+
+TRANSFERRED BY:
+Chad Erickson
+
+**PLEASE DO NOT ENCODE TO LOSSY FORMATS OR SELL!**

@@ -1,0 +1,55 @@
+FOO FIGHTERS
+23 September, 1997
+Austin Music Hall
+Austin, TX
+
+SETLIST (AUD#1a)
+---------------
+1. Intro
+2. This Is A Call
+3. Enough Space
+4. Hey, Johnny Park!
+5. Monkey Wrench
+6. Alone + Easy Target
+7. Doll
+8. See You
+9. My Poor Brain
+10.For All The Cows
+11.Wattershed
+12.Up In Arms
+13.The Colour And The Shape
+14.Weenie Beenie
+15.Everlong
+16.New Way Home
+17.My Hero
+18.I'll Stick Around
+
+GEAR INFO
+----------
+CSB -> Sony TCD-D8
+
+GENERATION 
+----------------
+DAT(M) -> ANA(1) -> WAV [48khz] -> WAV [44.1khz] -> FLAC [Level 8]
+
+TRANSFER
+---------------
+Nakamichi DR-3 -> Monster RCA Cable -> Creative Soundblaster Audigy SE -> Sony Soundforge -> CD Wave -> FLAC Frontend 1.7.1
+
+NOTES
+---------------
+This was torrented by me back in late 2007 with the incorrect info. It was listed as MD(M)->ANA(1) but it is actually
+a DAT sourced recording. I tracked down the taper and he sent me a copy of the master transfer but the master tape was
+broken when he went to transfer the tape. It has been put back together and transferred but now it is missing the last
+15 or so seconds of "I'll Stick Around". Since the master is missing some material this is still needed since it is 
+complete and will become AUD#1a. The master transfer missing that tiny bit will become AUD#1b. So to sum up, AUD#1b is 
+a superior master transfer but this will be needed since it is complete due to the demise of the end of the master DAT.
+Great sounding show from when Franz Stahl had first joined the Foos. Rage Against the Machine and Verbena were openers
+on this date I'm told. If anyone has the Verbena set please contact me. There definitely aren't enough of their boots 
+circulating out there.  Enjoy!
+
+Transferred by: Brad Collins (Foofanatic)
+
+DO NOT ENCODE INTO LOSSY FORMATS OR SELL EVER!!!!!!
+
+If you or anyone else you know has ever taped the Foo Fighters please contact me or one of the other guys at: www.foofighterslive.com

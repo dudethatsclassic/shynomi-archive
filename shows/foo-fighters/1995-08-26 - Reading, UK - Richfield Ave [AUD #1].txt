@@ -1,0 +1,83 @@
+Foo Fighters
+Second Stage Tent
+Reading Festival
+Reading, UK
+August 26, 1995
+
+---------------------------------------------------------------------------
+Source:		AUD | Sony ECM 909 > Sony WM-D6 Professional
+Location:	Recorded in front of the barrier, in front of the left PA stack
+Generation:	ANA(M) > CDR(1) > .wav (44.1kHz) > .flac (lvl 8)
+If burned:	ANA(M) > CDR(2)
+Transfer: 	Sony WM-D6 > Standard Tec+Link Lead > Gold Plated Connectors >
+		PC Line In > Unknown Soundcard > Cool Edit Pro v. 1 > CDR(1) >
+		Exact Audio Copy V0.95 prebeta 5 > CD Wave 1.93.3 > FLAC 
+		Frontend 1.7.1
+Taper:		Pete Bullock
+Transferer:	Pete Bullock
+Editing:	Light noise reduction & high end raised with Cool Edit Pro v. 1
+Set:		(71:09) Complete
+Size (wav):	718mB
+Size (flac):	500mB
+---------------------------------------------------------------------------
+
+Setlist:
+
+01) Winnebago
+02) I'll Stick Around
+03) Butterflies
+04) Wattershed
+05) Big Me
+06) This Is A Call
+07) Weenie Beenie
+08) For All the Cows
+09) Oh, George
+10) Podunk
+11) Good Grief
+12) Alone + Easy Target
+13) X-Static (slow version)
+14) My Hero
+15) Exhausted
+
+NOTES:	This was the first appearance of the Foo Fighters at the Reading
+	Festival.  They headlined the second stage tent on Saturday while
+	Bjork was on the main stage.  Mean Fiddler, the festival's organizers,
+	realized they had made a mistake putting the Foo Fighters on the
+	second stage instead of the main stage, but the Foo Fighters refused
+	to switch stages.  So the second tent was PACKED!  Throughout the
+	performance Dave kept reminding the crowd to be careful and  to take
+	care of everyone and he asked a couple of times for some of the
+	members of the audience that had decided to climb a pole to get down.
+	At one time he even stated that they were being kicked off of the
+	stage because of the unruly crowd.  This show was taped on a Chrome
+	TDK tape and according to the taper came out a little muffled, hence
+	the raise of the high end.  Unfortunately the master tape was thrown
+	away after the first transfer, so this will be the only transfer
+	available.  After Podunk, there is a quick tape flip cut; no music
+	is missing.  Please enjoy this recording and try to tape and share
+	other FF shows.  MANY THANKS TO PETE!
+
+
+FLAC Fingerprints:
+
+ff1995-08-26t01.flac:f99306166d4d07172edc0a986a632f57
+ff1995-08-26t02.flac:6746dc4abd8f492e47d5ecd9e964f8e4
+ff1995-08-26t03.flac:c4f274cc446b0619ab56eda4cf8b5706
+ff1995-08-26t04.flac:77a69f380020b548a66a9f1fdf0aa613
+ff1995-08-26t05.flac:d9f78f17e995c8c01d651f1cd97b8e63
+ff1995-08-26t06.flac:26a61c011af394144c4153eca7821729
+ff1995-08-26t07.flac:f0ff9f8af12803ec1e51bf67394ef2e7
+ff1995-08-26t08.flac:edc8de0fe48dbf3e518980ad49e7bc2e
+ff1995-08-26t09.flac:2c61624c32d9301419095c8d90599aed
+ff1995-08-26t10.flac:3f80ec189f8e6c4032d34547c888899a
+ff1995-08-26t11.flac:2bc0cf1dc3d41575b6aaa668c3d3b79a
+ff1995-08-26t12.flac:5aa984b3354dec862bda7a5386f496f8
+ff1995-08-26t13.flac:73ab1baaf08b3d8d66333c0819e91a5c
+ff1995-08-26t14.flac:e1a0aa07274a8cd61af84819362de1b7
+ff1995-08-26t15.flac:9520a614262ec7e0e7eed6aeac57813b
+
+
+Tracked and Encoded by Dan C. (goodgrief077@yahoo.com)
+DO NOT ENCODE TO MP3 & DO NOT DISTRIBUTE THIS OR ANY RECORDING IN LOSSY QUALITY
+DO NOT SELL THIS RECORDING ~ SELL THIS AND DIE :)
+PLEASE Enjoy & Remember To Tape and Freely Distribute Foo Fighters Recordings

@@ -1,0 +1,40 @@
+CONTRAST CLAUSE
+This is a fixed version of the following torrent: http://www.dimeadozen.org/torrents-details.php?id=711468
+
+Using Audacity, I did the following:
+(1) recombined all tracks into one wav file
+(2) retracked entire recording, removing all two-second gaps
+(3) added a one-second fade-up to track 01
+(4) added a three-second fade-down to track 07
+
+NOTE: I did not alter the sound of the music in any way.
+
+Foo Fighters
+KROQ Almost Acoustic Christmas
+Arrowhead Pond
+Anaheim, California
+December 11, 1999
+
+Source: probably pre-FM (considering that the soundcheck is included and an F-word during "Learn To Fly" has not been 
+censored in some way)
+
+Sound Quality: Superb!
+
+01. [soundcheck]
+
+02. Monkey Wrench
+
+03. Everlong
+
+04. Learn To Fly
+
+05. Breakout
+
+06. Stacked Actors
+ (with Pat Smear)
+07. I'll Stick Around
+
+Total Time (30:54)
+
+Visit:
+https://www.foofighters.com/

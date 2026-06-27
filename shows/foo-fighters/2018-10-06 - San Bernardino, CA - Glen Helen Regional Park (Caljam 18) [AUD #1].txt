@@ -1,0 +1,66 @@
+Foo Fighters
+October 6th, 2018
+Glen Helen Regional Park (CAL JAM 18) 
+San Bernardino, CA
+
+SOURCE (AUD #1):
+Church Audio CA-14 > Edirol R-09 (Flash Recorder)
+
+TRANSFER:
+USB > Adobe Audition CC 2017 > CDWave 1.98 > FLAC.exe
+
+GENERATION:
+WAV(M) [44.1khz/24-bit] > FLAC [Level 8]
+
+LENGTH:
+119:27
+
+TRACKS:
+01. Run
+02. The Sky Is A Neighborhood
+03. La Dee Da
+04. Sunday Rain
+05. Something From Nothing
+06. Walk
+07. These Days
+08. Arlandria
+09. The Pretender
+10. Best Of You
+11. Times Like These
+12. All My Life
+13. Learn To Fly
+14. Another One Bits The Dust (jam)
+15. Blitzkrieg Bop (part of)
+16. My Hero
+17. Everlong
+18. Monkey Wrench
+19. For All The Cows
+20. This Is A Call
+
+MD5 FINGERPRINTS:
+df8a5f404ca2d727a895d9c617e51ad8 *01. intro.flac
+d2e395e3ce46d90f23f8fa9ab8291e1c *02. Run.flac
+3455ac22ea88a05216f768e8e2cacfdb *03. The Sky Is A Neighborhood.flac
+7ea327aa325495d07f6bd3b53392cfa1 *04. La Dee Da.flac
+2c4055a838f49e828f251f6e4a4e83c4 *05. Sunday Rain.flac
+596ffa29fa5774e4f376df81f54e8a46 *06. Something From Nothing.flac
+f9393610dd7f50a594da08d817954370 *07. Walk.flac
+efd90f46712b26c3ea0b0d3f944d9936 *08. These Days.flac
+2c3f6df9fbcc7343e039715492f998d3 *09. Arlandria.flac
+d262f30d878018e17b2e8909cd4e72b3 *10. The Pretender.flac
+89f6ca6466cbcbf3f05e61b7670e7cdd *11. Best Of You.flac
+e4cd7e6e9cea96bfda4380f807670e1b *12. Times Like These.flac
+509a09966d8559a1adea55dcd600cabb *13. All My Life.flac
+c77a10e74532a41504514de6c3cd1b9d *14. Learn To Fly.flac
+101bccd75678c75bf0d6a9abd7ea6a17 *15. Another One Bites The Dust.flac
+909238fa86e87a06a4390d4df2a167e6 *16. Blitzkrieg Bop.flac
+897e028033fb32e926298c6c62da9342 *17. My Hero.flac
+50163f9d6746378c450265edcb78d46c *18. Everlong.flac
+082bfa3762e770d2c4cc04df5269ae19 *19. Monkey Wrench.flac
+d74f41eb01c7b9737f2551cb931c347f *20. For All The Cows.flac
+5fa23d32b40b2b963d4bb3913cd30785 *21. This Is A Call.flac
+
+RECORDED BY:
+wavtaper
+
+**PLEASE DO NOT SELL OR ENCODE TO LOSSY FORMATS!**

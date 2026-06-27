@@ -1,0 +1,45 @@
+Foo Fighters
+Cricket Arena
+Charlotte, NC
+Friday October 5, 2007
+
+Taper:		George Wang <gewwang@yahoo.com>
+Source:		DPA 4023 > Sonosax SX-M2 > Mogami interconnect > Edirol R-09 @ 24/48
+Location:	GA Floor; 20 feet center
+
+WAV > FLAC:	.wav @ 24/48 > Steinberg WaveLab v5.00a (dither with Apogee UV22HR to
+		16/44.1) > CD-WAV/FLAC frontend v1.7.1 > .flac
+
+Disc One:
+
+01: Intro					-	00:20.133
+02: Let It Die					-	04:51.000
+03: The Pretender				-	04:35.000
+04: Times Like These				-	04:33.533
+05: Cheer Up Boys (Your Makeup Is Running)	-	03:32.733
+06: I’ll Stick Around				-	05:11.600
+07: Long Road To Ruin				-	04:12.800
+08: Breakout >					-	04:48.600
+09: Learn To Fly				-	03:43.266
+10: The One					-	03:23.333
+11: Stacked Actors				-	12:50.400
+
+Total:						-	52:02.400
+
+Disc Two:
+
+01: Intro >					-	00:32.400
+02: Skin And Bones				-	04:22.466
+03: Marigold					-	03:26.133
+04: My Hero					-	04:53.400
+05: See You					-	10:48.000
+06: Everlong >					-	04:47.600
+07: Monkey Wrench				-	07:00.133
+08: All My Life					-	08:27.000
+09: Aurora					-	08:35.266
+10: But Honestly				-	06:09.000
+11: Best Of You					-	05:26.200
+
+Total:						-	64:27.600
+
+compiled by George Wang on 10-10-2007

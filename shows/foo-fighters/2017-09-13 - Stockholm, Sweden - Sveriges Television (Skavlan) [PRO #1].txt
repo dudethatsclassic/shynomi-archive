@@ -1,0 +1,27 @@
+Foo Fighters
+September 13th, 2017
+Sveriges Television (Skavlan)
+Stockholm, Sweden
+
+SOURCE (PRO #1):
+soundboard > unknown
+
+TRANSFER:
+HDTV > unknown capture card > VideoReDo 5
+
+GENERATION:
+HDTV > .TS [720p50 / H.264 / 11Mbps | AC-3 / 448kbps / 2.0] 
+
+LENGTH:
+4:17
+
+TRACKS:
+01. The Sky Is A Neighborhood 
+
+MD5 FINGERPRINTS:
+a8c59bdd924527141945df2ac79d31a1 *01. The Sky Is A Neighborhood.ts
+
+CAPTURED BY:
+Anonymous
+
+**PLEASE DO NOT ENCODE TO LOSSY FORMATS OR SELL!**

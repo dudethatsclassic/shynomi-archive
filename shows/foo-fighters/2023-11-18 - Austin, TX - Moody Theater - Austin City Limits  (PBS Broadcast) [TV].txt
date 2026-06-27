@@ -1,0 +1,23 @@
+﻿Foo Fighters 2023-11-18 Austin City Limits S49E07 (HD)
+
+Recorded 2022-10-19, The Moody Theater, Austin TX
+Broadcast 2023.02.18
+
+Times Like These
+No Son of Mine (with a nod to Black Sabbath's Paranoid)
+Rescued
+Under You
+La Dee Da
+Nothing At All(with a nod to the Beatles’ Blackbird)
+The Sky Is a Neighborhood
+The Glass
+Aurora
+Everlong
+
+Video Codec: H264 - MPEG-4 AVC
+Resolution: 1920x1080
+Frame rate: 29.97
+Audio Codec: AC3
+Audio: 24bit 48 kHz
+Channels: 3F2M/LFE
+Lineage: PBS Broadcast>Channels DVR>Wondershare Uniconverter 15 (trim, strip out mono audio streams)>mkv file

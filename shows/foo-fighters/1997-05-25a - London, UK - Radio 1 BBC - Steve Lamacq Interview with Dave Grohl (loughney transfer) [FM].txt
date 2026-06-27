@@ -1,0 +1,6 @@
+Foo Fighters - 1997 05 25 Radio 1, BBC
+
+1 Steve Lamacq interview with Dave Grohl
+
+Lineage: FM Broadcast > 1st Gen tape > Tascam 202MKVII > USB > CDWAV > Audacity for fades, normalization, noise reduction > CDWAVE (SPLITS) > FLAC [loughney xfer]
+

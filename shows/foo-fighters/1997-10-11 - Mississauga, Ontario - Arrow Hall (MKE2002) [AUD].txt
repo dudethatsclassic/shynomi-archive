@@ -1,0 +1,44 @@
+
+Foo Fighters
+Arrow Hall: Mississauga, Ontario
+October 11, 1997
+
+Source: Sennheiser MKE-2002 > Sony TCD-D8 @ 48kHz
+Lineage: DAT Master > FLAC
+Transfer: DAT Master > Tascam DA-20 > M-Audio MicroTrack II > Audacity > CDWave > TLH
+Edits/EQ: +6dB
+Taper: MS
+
+Setlist:
+
+01 Intro
+02 Jam
+03 This Is A Call
+04 Hey, Johnny Park!
+05 Alone + Easy Target
+06 Monkey Wrench
+07 Doll
+08 See You
+09 My Poor Brain
+10 Enough Space
+11 Big Me
+12 Wattershed
+13 For All The Cows
+14 The Colour And The Shape
+15 Up In Arms
+16 Weenie Beenie
+17 Everlong
+18 New Way Home
+19 -encore break-
+20 My Hero
+21 Gas Chamber [Angry Samoans]
+22 I'll Stick Around
+
+Notes: I did not tape this show, but I acquired the master DAT in 2009. Transferred in 2020. Raw transfer with no fades or EQ.
+
+Archive: Master DAT was transferred @ 48kHz and FLAC'd with cue sheet. 
+
+Transferred by tapeworm(48) 
+Txt file compiled on 10/27/2020
+
+*** DO NOT DISTRIBUTE IN LOSSY FORMATS. DO NOT SELL THIS RECORDING, TRADE IT FREELY *** 

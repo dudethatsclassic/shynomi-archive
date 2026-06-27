@@ -1,0 +1,28 @@
+Foo Fighters
+December 16th, 2017
+Studio 8H, Rockefeller Center (Saturday Night Live) 
+New York, NY
+
+SOURCE (PRO #1):
+soundboard > unknown
+
+TRANSFER:
+unknown > eac3to > MKVToolNixGUI v.17.0.0 
+
+GENERATION:
+Fronthaul Feed > MKV [H.264/24Mbps/1080i | AAC/256kbps/2.0 | DTS-HD MA/5.1]
+
+LENGTH:
+9:07
+
+TRACKS:
+01. The Sky Is A Neighborhood
+02. Everlong (part of)
+03. Christmas (Baby Please Come Home) (part of)
+04. Linus and Lucy
+
+MD5 FINGERPRINTS:
+c05384a957b4c717886a931f6716ee9b *Foo Fighters 2017-12-16 1080i HDTV DTS-HD5.1 AAC2.0 H264.mkv
+
+CAPTURED BY:
+Anonymous

@@ -1,0 +1,57 @@
+Foo Fighters
+July 02, 2005
+Roskilde Festival
+Roskilde, Denmark
+
+SOURCE:
+Post FM-Broadcast (unknown equipment)
+
+TRANSFER: 
+Technics SA-EX120 > Tech+Link cable > Creative SB Platinum EX > Cool Edit Pro 2.0 > CD Wave 1.94.2 beta
+
+GENERATION: 
+FM > WAV [44.1khz] > FLAC [Level 8]
+
+BROADCASTED:
+March 3, 2006
+
+LENGHT:
+56:58 
+
+TRACKS:
+01. radio intro
+02. In Your Honor
+03. All My Life
+04. Times Like These
+05. Learn To Fly 
+06. My Hero 
+07. Best Of You
+08. Up In Arms
+09. The One
+10. This Is A Call
+11. Everlong
+12. Breakout
+
+13. radio intro
+14. Song For The Death (Queens Of The Stone Age live 2002-11-06)
+
+MD5 FINGERPRINTS:
+5376709 22:32.00 2006-03-03 Foo Fighters01.flac
+30733439 22:32.28 2006-03-03 Foo Fighters02.flac
+31184879 22:32.55 2006-03-03 Foo Fighters03.flac
+33449521 22:33.23 2006-03-03 Foo Fighters04.flac
+29103426 22:33.47 2006-03-03 Foo Fighters05.flac
+43420407 22:34.22 2006-03-03 Foo Fighters06.flac
+32526216 22:34.48 2006-03-03 Foo Fighters07.flac
+27057368 22:35.10 2006-03-03 Foo Fighters08.flac
+24236258 22:35.30 2006-03-03 Foo Fighters09.flac
+34815023 22:35.59 2006-03-03 Foo Fighters10.flac
+42975569 22:36.35 2006-03-03 Foo Fighters11.flac
+33172951 22:37.02 2006-03-03 Foo Fighters12.flac
+3094269 22:37.06 2006-03-03 Foo Fighters13.flac
+36792328 22:37.38 2006-03-03 Foo Fighters14.flac
+
+TRANSFERRED BY:
+Andreas Magnusson
+
+***DO NOT SELL OR ENCODE TO MP3!***

@@ -1,0 +1,35 @@
+The Foo Fighters
+Isle of Wight Festival, Newport, Isle of Wight, England, Europe
+11 June 2011
+
+Source 1: Icom IC-R5 > Edirol R-09 (44.1MHz 16 bit) Left Channel
+
+Source 2: AT838 > SP-SPSB-10 > Edirol R-09 (44.1kHz 16 bit) Right Channel
+
+Sources 1 and 2 converted to mono and SOurce 2 converted to fake stereo using mda_stereo.  Mixed and mastered in Adobe Audition CS5, Har Bal 2.3 and Izotope Ozone 4.0
+
+
+Setlist
+-------
+Bridge Burning
+Rope
+The Pretender
+My Hero
+Learn to Fly
+White Limo
+Arlandria
+Breakout
+Cold Day in the Sun
+Stacked Actors
+Walk
+Monkey Wrench
+Times Like These (Acoustic Intro)
+Young Man Blues (Mose Allison cover)
+Best of You
+All My Life
+Everlong
+
+Info
+----
+
+Two source mix of this show.  Location was directly in front of a repeater stack so a good quality audience.  I was a little disappointed with the IEM feed I picked up.   I recorded Chris Shiflett’s monitor which had almost been a full and balanced mix in previous shows.  Now it is just his guitar and drums and a tiny bit of Dave’s vocal.  I mixed them anyway and it sounds ok but not as good as I had hoped.

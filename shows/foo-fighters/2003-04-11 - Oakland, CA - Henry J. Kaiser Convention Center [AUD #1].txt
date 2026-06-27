@@ -1,0 +1,60 @@
+Foo Fighters
+April 11, 2003
+Henry J. Kaiser Arena
+Oakland, CA
+
+SETLIST (99:12)
+---------------
+01) Intro
+02) All My Life
+03) The One
+04) My Hero / Breakout (beginning)
+05) Breakout (the rest of it)
+06) Times Like These
+07) Up In Arms
+08) This Is A Call
+09) Have It All
+10) Stacked Actors
+11) Low
+12) Hey Johnny Park
+13) Monkey Wrench
+14) Tired Of You
+15) Everlong
+16) talking
+17) Learn to Fly
+18) Weenie Beenie
+19) Never Talking To You Again
+20) Aurora
+
+SOURCE/GEN (AUD #1)
+--------------
+(FOB) Schoeps CCM4s > Sonosax SX-M2 > Sony SBM-1 @ 48khz > Sony M1 > CDR(1) > WAV [44.1kHZ] -> FLAC [Level 8]
+
+MD5 FINGERPRINTS
+--------------
+d0a456b5a7b4006e5b37ed0c325c8ef8 *Track01.flac
+6a97b60c5c193362c99a56f4b803e872 *Track02.flac
+37dc4ff127f0af6a95b7d61cf6e2ba96 *Track03.flac
+8ce99de04b3f641ab4e07b5705bfb4ce *Track04.flac
+4e0a0c243b8561966be76f0e04b05b4c *Track05.flac
+cbf63482a35eee87106a53f9ac634c75 *Track06.flac
+20ed078ed240eda47e383737628002f2 *Track07.flac
+3a4e1408c1f1c77efe63615731ee0e4e *Track08.flac
+7786a518d7a7cbc0cde3f2ab0bbd6686 *Track09.flac
+38a43b09c2fd89e47a1902545cc38700 *Track10.flac
+f5d90ff0fbd4eedc37300c9239c8d976 *Track11.flac
+7af7e8440fc2d6298f5e16d84e9631a6 *Track12.flac
+4e31ba44943f1ce38b1bc592f76e2569 *Track13.flac
+c6721108f646a43a2baba9ffd2afe349 *Track14.flac
+c173fa450efeef803e267ae913bb9af0 *Track15.flac
+27f007f3c5425d43133ce193e1efaf4d *Track16.flac
+833b5614eeccc4d57770f4c404102ffd *Track17.flac
+4dcdd60e1b5228ee5740251546477ad0 *Track18.flac
+2600a04d66c2a8ee735a81502b176247 *Track19.flac
+e22e7fb62fda9f6fb3b65d264de11853 *Track20.flac
+
+
+Torrented by Jamie Abbott
+DO NOT ENCODE TO MP3 OR SELL!!! 
+
+FOOFIGHTERSLIVE.COM

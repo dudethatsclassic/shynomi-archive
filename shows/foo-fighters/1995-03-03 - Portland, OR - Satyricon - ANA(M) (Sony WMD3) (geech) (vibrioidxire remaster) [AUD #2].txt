@@ -1,0 +1,56 @@
+FOO FIGHTERS
+March 3, 1995
+Satyricon (Mia Zapata Benefit)
+Portland, OR, US
+
+SOURCE (AUD #2):
+Sony PC-62 > Sony WM-D3 (cassette)
+
+TRANSFER:
+Nakamichi CR-1A > Power Mac G4 > Peak > FLAC Frontend > Adobe Audition 3.0 > CDWave 1.98 > Traders Little Helper 2.6.0 > Adobe Audition 23.2 [remastering/tracking] > xACT 2.58
+
+GENERATION:
+ANA(M) > WAV [44.1kHz/16-bit] > FLAC [Level 8]
+
+LENGTH:
+46:05
+
+SETLIST:
+00. intro/banter
+01. Floaty
+02. I'll Stick Around
+03. This Is A Call
+04. Big Me
+05. Wattershed
+06. For All The Cows
+07. Butterflies
+08. Alone + Easy Target
+09. Podunk
+10. Exhausted
+11. Winnebago [cuts in]
+
+NOTES:
+- This source was remastered through EQ'ing, phase correcting, and reversing the fade in/outs.
+- The encore break cuts within, while "Winnebago" cuts in slightly.
+
+FLAC FINGERPRINTS:
+foofighters1995-03-03_AUD2-KB_t00.flac:026375d80e0b808e8e0a28614793b1fe
+foofighters1995-03-03_AUD2-KB_t01.flac:02564ea7031d7b3fa4e1104d0cc17503
+foofighters1995-03-03_AUD2-KB_t02.flac:7e7ad6d2ffd2d3dc1414245ce3ac481c
+foofighters1995-03-03_AUD2-KB_t03.flac:81c0c3fe9ac84b693bbc12b3ae34ccef
+foofighters1995-03-03_AUD2-KB_t04.flac:5e97917d238e5b4d30b8f19184a0ac76
+foofighters1995-03-03_AUD2-KB_t05.flac:5866836febc349a867c1661ed91bb8aa
+foofighters1995-03-03_AUD2-KB_t06.flac:dc976010d6129702c2f2ea94c1c31a26
+foofighters1995-03-03_AUD2-KB_t07.flac:05456530581a6096e95ac5deeca082ed
+foofighters1995-03-03_AUD2-KB_t08.flac:45063e4eb5a3ca65147634dfded5f71c
+foofighters1995-03-03_AUD2-KB_t09.flac:1c3aed064eeacde5b52740c0385a6f4b
+foofighters1995-03-03_AUD2-KB_t10.flac:4783d80d44c3e984b75129fad239469b
+foofighters1995-03-03_AUD2-KB_t11.flac:ade7dbecb02ddcff421f61d3109a5079
+
+RECORDED BY:
+geech
+
+REMASTERED AND ENCODED BY:
+vibrioidxire
+
+PLEASE DO NOT ENCODE TO LOSSY FORMATS OR SELL!

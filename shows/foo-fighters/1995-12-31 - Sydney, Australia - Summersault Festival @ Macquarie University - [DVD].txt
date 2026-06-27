@@ -1,0 +1,46 @@
+ Foo Fighters
+December 31st 1995
+Summersault Festival @ Macquarie University
+North Ryde (Sydney), Australia
+
+Generation:
+AMT > VHS(x) > MPEG > VOB
+
+Transfer/Convert:
+VHS > Compro VideoMate C100 > VirtualDub > TMPGEnc Authoring Works 4
+
+Setlist:
+Enough Space
+This Is A Call
+Winnebago
+Wattershed
+For All The Cows
+Weenie Beenie
+Big Me
+Gas Chamber
+I'll Stick Around
+Good Grief
+How I Miss You
+Alone + Easy Target
+Exhausted
+	
+MD5 fingerprints:
+79d161b9ad09984003daf451cf4b2eb4 *VIDEO_TS.BUP
+79d161b9ad09984003daf451cf4b2eb4 *VIDEO_TS.IFO
+a1effb3b26ad283a2349e29899ebc33e *VTS_01_0.BUP
+a1effb3b26ad283a2349e29899ebc33e *VTS_01_0.IFO
+b84cc27bddd8dbf931391868af4c9442 *VTS_01_0.VOB
+c0931455c4e2e99abd22c2f9d8781321 *VTS_01_1.VOB
+e4142c12c4b57b7e29cbee4260eaa219 *VTS_01_2.VOB
+
+Notes:
+I believe this to be a VHS(3) but as I cannot confirm this I have left it as VHS(x).
+
+Captured by:
+Tania Taylor
+
+-------------------------------------------------------------------------------------
+Please do not encode to lossy formats.
+
+Never sell live recordings!
+-------------------------------------------------------------------------------------

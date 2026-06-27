@@ -1,0 +1,61 @@
+Foo Fighters
+April 3rd, 1996
+Concert Hall
+Toronto, ON, Canada
+
+SOURCE (AUD #1):
+Sennheiser -> Sony TCD-D7 (DAT)
+
+
+GENERATION:
+DAT -> ANA(1) -> CDR(1) -> WAV [44.1kHz] -> FLAC [Level 8]
+
+LENGTH:
+80:02
+
+TRACKS:
+01. Enough Space
+02. This Is A Call
+03. Winnebago
+04. Wattershed
+05. For All The Cows
+06. Weenie Beenie
+07. Satan's In The Manger (jam)
+08. Butterflies
+09. Big Me
+10. My Poor Brain
+11. Gas Chamber
+12. Up In Arms
+13. Good Grief
+14. Podunk 
+15. How I Miss You
+16. Alone+Easy Target
+17. I'll Stick Around
+18. Floaty
+19. Down In The Park
+20. Exhausted
+
+MD5 FINGERPRINTS:
+d88887b2c703dcf75c7f48fb117c3e09 *01 - Track01.flac
+76f803c28be884c4dbaa6415bf3fac8e *02 - Track02.flac
+17c1153a54adfe140bbab0862b904817 *03 - Track03.flac
+46ed078a424d8b264af6f73892eaa01b *04 - Track04.flac
+268664c5658a6516102b195f4ed3134f *05 - Track05.flac
+b1af66fe1f1fd13b482fefb458524adb *06 - Track06.flac
+adf109aa2ba5c68fad1973c1ed2ccf77 *07 - Track07.flac
+b67a77de0c39a2ba9cd425c0f3622ba2 *08 - Track08.flac
+da042561f2a71d2fc5e7411f6d5c147f *09 - Track09.flac
+dd0fd184b4e16c98279b816b03a5752a *10 - Track10.flac
+03de0adfc577513c6b45d6e5031c30de *11 - Track11.flac
+f6aa8cb405c26360fb90084abbd6062c *12 - Track12.flac
+addcd8fc541d45a6e3e588ee47ef5761 *13 - Track13.flac
+53fd07dee2847f8006f0ff2c9f6dcd97 *14 - Track14.flac
+7c526f9d1ece9fca3e1fde72a78b6c9d *15 - Track15.flac
+9e6b23420d8f8685f97db45a35aa244f *16 - Track16.flac
+2c578d598be099f70f2a2b0a820bdb30 *17 - Track17.flac
+3d8f7f256502387d91d97fc2d3b05dd3 *18 - Track18.flac
+945cedcdcd0317d3cb50e1b7417afaf6 *19 - Track19.flac
+
+
+
+**PLEASE DO NOT ENCODE TO LOSSY FORMATS OR SELL!**

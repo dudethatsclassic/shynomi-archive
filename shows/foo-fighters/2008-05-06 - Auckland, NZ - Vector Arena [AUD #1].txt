@@ -1,0 +1,74 @@
+Foo Fighters
+May 6th, 2008
+Vector Arena 
+Auckland, New Zealand
+
+SOURCE (AUD #1):
+Sony ECM-717 > iRiver H320 (Flash Recorder)
+
+TRANSFER:
+USB > Adobe Audition 3.0 > CD Wave 1.97 > Trader's Little Helper 2.7.0
+
+GENERATION:
+WAV(M) [44.1khz/16-bit] > FLAC [Level 8]
+
+LENGTH:
+160:28
+
+NOTES:
+- Kaki King plays guitar on 'Ballad Of The Beaconsfield Miners'.
+- Dave catches his foot on wiring and trips towards the end of 'Everlong'.
+- A male stripper comes on stage to give Chris a birthday surprise during 'Long Road To Ruin'.
+
+TRACKS:
+01. Let It Die
+02. The Pretender
+03. Times Like These
+04. Breakout
+05. Learn To Fly
+06. Cheer Up, Boys (Your Make Up Is Running)
+07. This Is A Call
+08. Stacked Actors
+09. Skin And Bones
+10. Marigold
+11. My Hero
+12. Cold Day In The Sun
+13. But, Honestly
+14. Ballad Of The Beaconsfield Miners
+15. Everlong
+16. Monkey Wrench
+17. All My Life
+18. Big Me
+19. Long Road To Ruin (cuts for Chris' Birthday surprise)
+20. DOA
+21. No Way Back
+22. Generator
+23. Best Of You
+
+MD5 FINGERPRINTS:
+70fc4359fe23632b0555e4d801780b54 *01. Let It Die.flac
+e4a536f28ea4a7a46040e64145ba50f4 *02. The Pretender.flac
+49bfafd4341cafe7c4c9a96b69ded331 *03. Times Like These.flac
+e8aa4514fe82721f058874dce0f52e83 *04. Breakout.flac
+706a0abb8e2724295a9bbc11b9a27e09 *05. Learn To Fly.flac
+5c74caf72d543d206c42fbd6e3b61813 *06. Cheer Up, Boys (Your Make Up Is Running).flac
+f28032f4081e5e25a4abad2f6204d546 *07. This Is A Call.flac
+32064f7ad568fe691313718183b11f6e *08. Stacked Actors.flac
+497800ac1bde7c98d223e815711e4ca4 *09. Skin And Bones.flac
+f9eeb7179bce0f5f9fe8fd39b465c3aa *10. Marigold.flac
+bb0ee2cca2fb71953c68b0336e9d7845 *11. My Hero.flac
+02f1616494776f16ac796a9059483ff8 *12. Cold Day In The Sun.flac
+40cb1d4e70d98df2b0cbfdc0668c553e *13. But, Honestly.flac
+106c3ff5ce9c1da7840a950aa691ad0f *14. Ballad Of The Beaconsfield Miners.flac
+8dc53009e963d948abb6f414ab026b44 *15. Everlong.flac
+c5e431cd6f0d29fd8037e4dc44e3e987 *16. Monkey Wrench.flac
+feb0cf5cc16d40032df023d42eee4023 *17. All My Life.flac
+2f08e27886e67c0e04e0bcea889855ba *18. Big Me.flac
+1019e918f5c4476cb1cbec5d7b6c9b9f *19. Long Road To Ruin.flac
+c75acbf25112e57d863fb83eead4a92d *20. DOA.flac
+1af920104dc7a12f99c71654b6d21f96 *21. No Way Back.flac
+e33eed0b46971f156167ce1204c4d55d *22. Generator.flac
+8330129d1a57f38dc5e8404368c97aa4 *23. Best Of You.flac
+
+RECORDED AND TRANSFERRED BY:
+G. Bridgeman

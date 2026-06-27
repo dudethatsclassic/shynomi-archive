@@ -1,0 +1,55 @@
+FOO FIGHTERS
+December 5, 1997
+Le Liberté (Transmusicales),
+Rennes, France
+
+DISC #1/1 (56:50)
+-----------------
+01. Monkey Wrench
+02. Hey, Johnny Park !
+03. Alone + Easy Target
+04. Doll
+05. My Poor Brain
+05. Enough Space
+06. Big Me
+07. The Colour & The Shape
+08. For All The Cows
+09. Gas Chamber
+10. Up In Arms
+11. This Is A Call
+12. Everlong
+13. New Way Home
+14. I'll Stick Around
+
+GENERATION
+-----------------
+DAT(M) -> CDR(1) -> WAV [44.1kHz] -> FLAC [Level 8]
+
+SOURCE (AUD #1)
+-----------------
+Marantz EM-8 -> Sony TCD-D8
+
+EXTRACTION
+-----------------
+Lite-On iHBS112 -> Exact Audio Copy 1.0 beta 3 -> Flac Frontend 1.7.1
+
+MD5 FINGERPRINTS
+-----------------
+deb1c26997711469f40cf2c41aea1978 *foofighters_1997-12-05_aud1_datm-cdr1_d1t01.flac
+d5d13a73805733a300a0f6bf028a4f60 *foofighters_1997-12-05_aud1_datm-cdr1_d1t02.flac
+0634ec44259f70e9e6989d5cbbe332e8 *foofighters_1997-12-05_aud1_datm-cdr1_d1t03.flac
+de1b3b76b3db97ba8116d8a6775dd832 *foofighters_1997-12-05_aud1_datm-cdr1_d1t04.flac
+626fac12282b411b9d6cc38ba5ebdfb2 *foofighters_1997-12-05_aud1_datm-cdr1_d1t05.flac
+38457fd08786069e6bea45d448f2dd06 *foofighters_1997-12-05_aud1_datm-cdr1_d1t06.flac
+f5855e3a96668f883c84472172c8d861 *foofighters_1997-12-05_aud1_datm-cdr1_d1t07.flac
+aebf0b14abc647c215023be8c787d086 *foofighters_1997-12-05_aud1_datm-cdr1_d1t08.flac
+472d120b3eeea107ac74784dafd10f4b *foofighters_1997-12-05_aud1_datm-cdr1_d1t09.flac
+4e2492e59466eb4d76811d6e19d98961 *foofighters_1997-12-05_aud1_datm-cdr1_d1t10.flac
+1a3ad3b9cf124ca02892250d18e1c2d3 *foofighters_1997-12-05_aud1_datm-cdr1_d1t11.flac
+e950c0c467aad8273acccc90e2a7fe55 *foofighters_1997-12-05_aud1_datm-cdr1_d1t12.flac
+9053febe226148f97fdf6243dc777e55 *foofighters_1997-12-05_aud1_datm-cdr1_d1t13.flac
+b21235fee30a19d6cef8e974dd600f5b *foofighters_1997-12-05_aud1_datm-cdr1_d1t14.flac
+20b877db03454235fd8ead003945b143 *foofighters_1997-12-05_aud1_datm-cdr1_d1t15.flac
+
+Extracted by Pierre Leroy
+PLEASE DO NOT ENCODE TO MP3 OR SELL! 

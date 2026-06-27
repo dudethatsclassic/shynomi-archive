@@ -1,0 +1,63 @@
+Foo Fighters
+May 5th, 2008
+Vector Arena 
+Auckland, New Zealand
+
+SOURCE (AUD #1):
+Sony ECM-717 > iRiver H320 (Flash Recorder)
+
+TRANSFER:
+USB > Adobe Audition 3.0 > CD Wave 1.97 > Trader's Little Helper 2.7.0
+
+GENERATION:
+WAV(M) [44.1khz/16-bit] > FLAC [Level 8]
+
+LENGTH:
+140:48
+
+TRACKS:
+01. Let It Die
+02. The Pretender
+03. Times Like These
+04. Breakout
+05. Learn To Fly
+06. Cheer Up, Boys (Your Make Up Is Running)
+07. This Is A Call
+08. Stacked Actors
+09. Skin And Bones
+10. Marigold
+11. My Hero
+12. Cold Day In The Sun
+13. But, Honestly
+14. Ballad Of The Beaconsfield Miners
+15. Everlong
+16. Monkey Wrench
+17. All My Life
+18. Big Me
+19. Long Road To Ruin
+20. Best Of You
+
+MD5 FINGERPRINTS:
+a301c0b44af5d1048da5eeb76ad0fa06 *01. Let It Die.flac
+0189a61f20857380915d9c38bacec466 *02. The Pretender.flac
+4a95c03716ee7f2865627084511f8d16 *03. Times Like These.flac
+006e164d6a9bec24c8d2653b100edb1a *04. Breakout.flac
+76484021d7f2cd300888920a032dd857 *05. Learn To Fly.flac
+eeeb72a7ec78047e9fbdbef8038cc469 *06. Cheer Up, Boys (Your Make Up Is Running).flac
+5df0fc20cdb1a2b1575520cbc961c7bf *07. This Is A Call.flac
+f81afb51bc83ef1b001289f87469f781 *08. Stacked Actors.flac
+7b5e8bd6d655dc5be1feac69d3b2d36f *09. Skin And Bones.flac
+c59e7a09373b6106079977c9eb00a124 *10. Marigold.flac
+fc278d37ac21ba71713d330c34f18295 *11. My Hero.flac
+c0da6015c178474fca8197895036fad0 *12. Cold Day In The Sun.flac
+08ec675049c1117c08bdc5993e2a2dbe *13. But, Honestly.flac
+ac684ee939ea2f67335de246492692a6 *14. Ballad Of The Beaconsfield Miners.flac
+2d963fc780f10dfb10cee8be747c70a4 *15. Everlong.flac
+15fdae6bb0bd2ba316c467218efeabe8 *16. Monkey Wrench.flac
+1f7e92b4a707977a947ae54852d38fd9 *17. All My Life.flac
+475544ce1d8fc17fafa1ef510094cd4e *18. Big Me.flac
+cadc69ff523212f246799c322b55a20a *19. Long Road To Ruin.flac
+af20ef75bbcb3f32fde9c23cef996ba3 *20. Best Of You.flac
+
+RECORDED AND TRANSFERRED BY:
+G. Bridgeman

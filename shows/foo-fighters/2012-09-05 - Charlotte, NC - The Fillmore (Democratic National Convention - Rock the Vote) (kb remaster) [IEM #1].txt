@@ -1,0 +1,115 @@
+FOO FIGHTERS
+September 5, 2012
+The Fillmore (Rock the Vote)
+Charlotte, NC, US
+
+SETLIST:
+-------------------
+01. intro >
+02. White Limo >
+03. All My Life
+04. Rope
+05. The Pretender
+06. My Hero
+07. Dear Rosemary >
+08. Breakdown [Tom Petty and The Heartbreakers cover]
+09. Learn to Fly
+10. Arlandria
+11. These Days
+12. Cold Day in the Sun
+13. I'll Stick Around
+14. Walk
+15. Monkey Wrench
+16. Hey, Johnny Park!
+17. Jet [Wings cover]
+18. Young Man Blues [Mose Allison cover]
+19. This Is a Call >
+20. In the Flesh? [Pink Floyd cover]
+21. Best of You
+22. Aurora
+23. Times Like These
+24. Winnebago
+25. Big Me
+26. For All the Cows
+27. Wattershed
+28. New Way Home
+29. Enough Space
+30. See You
+31. Skin and Bones
+32. Alone + Easy Target [cuts within]
+33. Breakout
+34. Bridge Burning [cuts within]
+35. Exhausted
+36. Everlong
+
+SOURCE:
+-------------------
+IEM #1 - Quality: 9.5
+two IEM feeds (mono) > TASCAM DR-05
+
+Recorded by: Rerun
+Remastered by: vibrioidxire [KB]
+
+TRANSFER:
+-------------------
+two IEM feeds (mono) > TASCAM DR-05 > WAV [48kHz/24-bit] > Adobe Audition 3.0 > Ozone + Wave plugins [dithering, mixing] > WAV [44.1kHz/16-bit] > CD Wave Editor > Trader’s Little Helper > FLAC [Level 8] > Adobe Audition 22.1.1 [mastering, re-tracking] > xACT 2.50 > FLAC [Level 8]
+
+GENERATION:
+-------------------
+WAV(M) [48kHz/24-bit] > WAV [44.1kHz/16-bit] > FLAC [Level 8]
+
+NOTES:
+-------------------
+- The intro cuts in, "Alone + Easy Target“ and "Bridge Burning" cut* within. Before the encore, the taper switched from one IEM feed to another.
+- Signal dropouts occur sporadically throughout the source.
+- This source was EQ’d, with heavy implementation of mid-to-high frequency remastering, including the widening of its stereo imagery and amplification of the intro and ending.
+- A notch filter at ~19kHz was used to lessen the severity of the tone. The wavering tones at 19.1kHz and 18.9kHz is virtually unheard and was left alone (plus it looks cool in the spectrogram).
+- Hiss reduction was not implemented, rather it was reduced with EQ’ing to not destroy the spectral imagery. The only "reduction" that was used was de-clicking, which was used in specific parts and doesn't ruin the spectral imagery.
+- Any other edits were not by me, e.g. the frequency sweeping, the snare being louder in some parts ("Wattershed"), or any other mixing changes during the show should not be blamed on me nor the taper.
+
+
+*Although it was technically a signal dropout, I consider it a cut as there's a "cut" in the music.
+
+MD5 FINGERPRINTS:
+-------------------
+foofighters2012-09-05-iem1-kb-t01.flac:fd8df8fae6c16287c6fae34700dda141
+foofighters2012-09-05-iem1-kb-t02.flac:3574d7de8edaa7105a73fbdbb257568f
+foofighters2012-09-05-iem1-kb-t03.flac:cfaed42cc57ecae180768f52dc944784
+foofighters2012-09-05-iem1-kb-t04.flac:0fd3cb08f0627301c990b39b22cbc74f
+foofighters2012-09-05-iem1-kb-t05.flac:22b151778321a65d5228a93923cd4552
+foofighters2012-09-05-iem1-kb-t06.flac:3bc448c4d3f7687bda70dfd1e03be57f
+foofighters2012-09-05-iem1-kb-t07.flac:b6e8e47c2c1e7fb95a2b400d7403e27c
+foofighters2012-09-05-iem1-kb-t08.flac:fa9e6a935f26f012eca89f819965056b
+foofighters2012-09-05-iem1-kb-t09.flac:1cab95c4082fc9467dc20df6c9c8cd27
+foofighters2012-09-05-iem1-kb-t10.flac:2c429fcf8291b54d54c13d347a145a7c
+foofighters2012-09-05-iem1-kb-t11.flac:57f888d4593580da71624f232459f27a
+foofighters2012-09-05-iem1-kb-t12.flac:9618e0a3a7820db726b0ce1b9c0944e5
+foofighters2012-09-05-iem1-kb-t13.flac:5a452328bc76abd52f86b49fee73e989
+foofighters2012-09-05-iem1-kb-t14.flac:446fff2c5dcafa19c66e065a6dfdd611
+foofighters2012-09-05-iem1-kb-t15.flac:fbc3eb4db4f37a445fcc467f21f24819
+foofighters2012-09-05-iem1-kb-t16.flac:573fafb9fc8f1d4dc5575520d15ff3dd
+foofighters2012-09-05-iem1-kb-t17.flac:7ce758e94f6e3f28694b17b58f900b84
+foofighters2012-09-05-iem1-kb-t18.flac:58251728ee2320105285762c03c2c0a1
+foofighters2012-09-05-iem1-kb-t19.flac:cc16a49b412178ed63e543e4b0dcad30
+foofighters2012-09-05-iem1-kb-t20.flac:7b37ceffb216a97d210e2773ff1eeb30
+foofighters2012-09-05-iem1-kb-t21.flac:d145a6acff399937f0b278a81c96e5ca
+foofighters2012-09-05-iem1-kb-t22.flac:0264c3df38819a2649da3c51f46f20e1
+foofighters2012-09-05-iem1-kb-t23.flac:ca2d539b02db348a376b6732c74ac964
+foofighters2012-09-05-iem1-kb-t24.flac:62a2ad128ba88d81fe4c07448a57251a
+foofighters2012-09-05-iem1-kb-t25.flac:ff5a7aa30a193a0ff0bf83fe5151a438
+foofighters2012-09-05-iem1-kb-t26.flac:7b1a188e4ec2fca8e3db0db03fcc47a8
+foofighters2012-09-05-iem1-kb-t27.flac:07c1f760e71911c9fcb57935cce3c66e
+foofighters2012-09-05-iem1-kb-t28.flac:177e3223b394d362ca6a8813124de1ef
+foofighters2012-09-05-iem1-kb-t29.flac:52c937983c7b5a9c59e6ad59e33ea592
+foofighters2012-09-05-iem1-kb-t30.flac:9e2b0f3670016f661f8632a177584c31
+foofighters2012-09-05-iem1-kb-t31.flac:5b17c71035db29ad0699521945dd9a3b
+foofighters2012-09-05-iem1-kb-t32.flac:7d79f97bb38f2f4f14d2afe8566cfec9
+foofighters2012-09-05-iem1-kb-t33.flac:2188a590dccffa0270fadd79f6fe5fdc
+foofighters2012-09-05-iem1-kb-t34.flac:db52c466d4e56584ca1d1225d6f0f9d1
+foofighters2012-09-05-iem1-kb-t35.flac:1a754432a1bf7c243bcf20d1c1158ec2
+foofighters2012-09-05-iem1-kb-t36.flac:0cd0a4cf67cef9a9efd0aa24ce4c83a7
+
+Transferred and encoded by: Rerun & vibrioidxire
+PLEASE DO NOT CONSIDER THIS AS A SEPARATE SOURCE, OR A SPLIT SOURCE. THIS IS AN AMATEUR REMASTER OF THE ORIGINAL IEM SOURCE.
+
+PLEASE DO NOT DISTRIBUTE IN LOSSY FORMATS OR SELL!

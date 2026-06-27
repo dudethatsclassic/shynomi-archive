@@ -1,0 +1,40 @@
+FOO FIGHTERS
+August 27th, 1995
+Event Area, Walabi World (Lowlands Festival)
+Biddinghuizen, The Netherlands
+
+SOURCE (SBD #1a):
+soundboard > unknown
+
+TRANSFER:
+DAT > CDR > RubyRipper > FLAC.exe
+
+GENERATION:
+FM > DAT(x) > CDR(1) > WAV [441khz] > FLAC [Level 8]
+
+LENGTH:
+20:39
+
+NOTES:
+- First FM broadcast, includes only six songs.
+
+TRACKS:
+01. Big Me
+02. This Is A Call
+03. Weenie Beenie
+04. For All The Cows
+05. My Hero
+06. Oh, George
+
+MD5 FINGERPRINTS:
+09368357e4abe097c043f0d8943d9643 *ff1995-08-27t01.flac
+943f6b693925a080651a5b03ae5b2bb9 *ff1995-08-27t02.flac
+174c8dd0c3ad1c9432c8fe7247bd4225 *ff1995-08-27t03.flac
+b91d9109e144b09167916c4f02d983e0 *ff1995-08-27t04.flac
+147d593681a7dd86dd0a243b45dbe827 *ff1995-08-27t05.flac
+79a76a486db933957ac2f6a1d5094760 *ff1995-08-27t06.flac
+
+TRANSFERRED BY:
+Anonymous
+
+**PLEASE DO NOT ENCODE TO LOSSY FORMATS OR SELL!**

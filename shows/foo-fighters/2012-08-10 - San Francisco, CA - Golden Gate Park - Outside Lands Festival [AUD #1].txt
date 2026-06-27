@@ -1,0 +1,50 @@
+Foo Fighters 
+2012-08-10 
+Outside Lands - Lands End Stage 
+San Francisco, CA 
+
+SOURCE (AUD #1): 
+SP-CMC-8 (w/Mods) > SP-SPSB-11 (95Hz Roll Off) > SONY PCM-M10 > Sandisk SD Card (16gb - Class 4) 
+
+TRANSFER: 
+.WAV > Adobe Audition 3.0 (normalize/amplify) > CD Wave (Track Splits) > Trader's Little Helper > Flac (Level 8) 
+
+SETLIST: 
+
+1. White Limo
+2. All My Life
+3. Rope
+4. The Pretender
+5. My Hero
+6. Learn to Fly
+7. New Way Home
+8. Walk
+9. These Days
+10. Aurora
+11. Best of You
+12. Everlong
+
+NOTES: 
+
+I started recording this near the back (where I was for Beck) but after a couple songs, we moved up to meet with some other friends and ended up fairly close to the stage on the left hand side.  I didn't think the sound was all that great on the main stage on the first day, so the recording didn't turn out quite like I was hoping.  There is a bit of talking here and there too, sorry...I was pretty close to what was almost a big fight between two guys (you'll hear some of the aftermath on the recording)...some guy got doused in water, and wasn't too pleased.  Anyway, my second time seeing Foo Fighters, and while I'm not a fan of the new stuff, it was great hearing "New Way Home"!  I recommend listening to this recording a little louder than usual.
+
+CHECKSUMS: 
+
+df42b1bfb03b61c70f6184e9e8f7ac4e *foofighters-2012-08-10-outsidelands-t01.flac
+8e5fbe4578037d8cb533c9597c61df2b *foofighters-2012-08-10-outsidelands-t02.flac
+430da15a11d28ac8905615a2946b9362 *foofighters-2012-08-10-outsidelands-t03.flac
+975aa4daa096b5e7d575a4e542e3cfe0 *foofighters-2012-08-10-outsidelands-t04.flac
+78dd5bffd9f2a6cb8f34d4c8a72cc61a *foofighters-2012-08-10-outsidelands-t05.flac
+cc5e2f07fa6be8c183461a1586e854ff *foofighters-2012-08-10-outsidelands-t06.flac
+ddb482bac308362a672a428a934939bf *foofighters-2012-08-10-outsidelands-t07.flac
+d496b1f90aa77d3188219af0bcf7fbad *foofighters-2012-08-10-outsidelands-t08.flac
+71915b217a3be2c1eeb1a1c5b82c3b24 *foofighters-2012-08-10-outsidelands-t09.flac
+dccfad2bb919a51e5ba55bf3644f2620 *foofighters-2012-08-10-outsidelands-t10.flac
+bee9596b2a8cb641310c1a51d4a0478f *foofighters-2012-08-10-outsidelands-t11.flac
+2be76b9c9aa073dca3015cda08d01725 *foofighters-2012-08-10-outsidelands-t12.flac
+
+Check out my site: 
+
+http://www.coachellarecordings.com 
+http://www.facebook.com/coachellarecordings 
+http://www.twitter.com/livecoachella 

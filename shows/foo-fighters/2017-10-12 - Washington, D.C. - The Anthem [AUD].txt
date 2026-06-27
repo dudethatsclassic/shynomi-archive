@@ -1,0 +1,46 @@
+FOO FIGHTERS
+2017/10/12 - The Anthem; Washington DC, USA
+
+Source: CA-14's (Omnis) > Church Audio ST-9200 > Edirol R09-HR @ 24/96
+Location: *STEALTH*
+Editing:  Tracking, EQ, and fades were performed while the show was laid in Sony Soundforge 9.0a (Build 297) as a wav file.  Normalization performed on each channel independently to -0.10dB.  Periodic loud points were enveloped slightly to allow for more headroom in Normalization.
+Conversion: Trader's Little Helper v.2.7.0 (Build 172)
+
+
+
+TRACKLIST:						TIME:
+01. Intro						01:20
+02. I'll Stick Around					03:49
+03. All My Life						05:06
+04. Learn to Fly					04:21
+05. The Sky Is a Neighborhood				04:09
+06. The Pretender					09:30
+07. These Days						06:17
+08. Rope						13:04
+09. Big Me						02:45
+10. Congregation					05:01
+11. Walk						06:05
+12. My Hero						06:57
+13. Sunday Rain						06:46
+14. Arlandria						08:32
+15. Monkey Wrench					05:39
+16. (Band Intros)					07:22
+17. Dirty Water						05:19
+18. Make It Right					05:27
+19. Times Like These					05:00
+20. Breakout						04:08
+21. Run							08:12
+22. Bitch *						07:11
+23. Best of You						11:25
+24. Everlong						06:02
+
+					GRAND TOTAL-   149:27
+
+* Originally recorded by The Rolling Stones.  Track features Seth Hurwitz on drums and Taylor Hawkins on vocals.
+
+
+
+MISC NOTES:
+This is a recording of the sold-out Grand Opening of The Anthem!  Guests entered to an unannounced set from DC Go-Go legends, Trouble Funk, who played a 45min set ahead of The Struts.  I did not tape anyone but Foo Fighters.  The venue is beautiful and the crowd was PUMPED, with some folks queuing up outside at early as 3am for the 6:30pm doors!  Foo Fighters are among the most consistently awesome bands I've ever seen and this show is certainly no exception.  Dave Grohl makes several references to Seth Hurwitz, who is the co-owner of IMP, the promotion and production company which owns and operates several large and prestigious venues across the region, including The Anthem.  I would also like to document that in the lead up to Seth's accompanying the Foo Fighters in a rendition of a Stones song, the object of Dave's curiosity was a wireless microphone which Taylor was handed by tech off stage left. 
+
+Enjoy!

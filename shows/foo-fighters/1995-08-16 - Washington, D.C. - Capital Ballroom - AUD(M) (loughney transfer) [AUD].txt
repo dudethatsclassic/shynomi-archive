@@ -1,0 +1,30 @@
+Foo Fighters - 1995 08 16 Capital Ballroom, Washington DC
+
+BAND MEMBERS
+Dave Grohl - Guitar, Vocals
+Nate Mendel - Bass Guitar
+Pat Smear - Guitar
+William Goldsmith - Drums
+
+Show note: 
+First 4 songs missing from all known tapes.
+	
+x Winnebago
+x I'll Stick Around
+x Butterflies
+x Wattershed
+1 Big Me
+2 This Is A Call
+3 Weenie Beenie
+4 For All The Cows
+5 X-Static
+6 Oh, George
+7 Podunk (take 1)
+8 Podunk
+9 Alone + Easy Target
+10 Exhausted
+11 My Hero
+12 Down in the Park [Gary Numan]
+
+Lineage: Audience Master > unknown gen tape > Tascam 202MKVII > USB > CDWAV > Audacity for fades, normalization, noise reduction > CDWAVE (SPLITS) > FLAC [loughney xfer]
+

@@ -1,0 +1,51 @@
+FOO FIGHTERS
+January 17th, 2003
+Ericsson Stadium
+Auckland, New Zealand
+
+SOURCE (AUD #1):
+Sony ECM-717 > BatteryBox @ 107Hz > Sharp MD-MT832 (Minidisc)
+
+TRANSFER:
+unknown > Adobe Audition CC 2018 > CD Wave 1.98 > Trader's Little Helper 2.7.0
+
+GENERATION:
+MD(M) > WAV [44.1kHz/16-bit] > FLAC [Level 8]
+
+LENGTH:
+71:22
+
+TRACKS:
+01. All My Life
+02. My Hero
+03. Breakout
+04. Learn To Fly
+05. Have It All
+06. The One
+07. Stacked Actors
+08. This Is A Call
+09. Generator
+10. Low
+11. Monkey Wrench
+12. Tired Of You
+13. Everlong
+
+MD5 FINGERPRINTS:
+a9e3f33b1c68dede2cbc7cb8570bc168 *01. All My Life.flac
+1bfe6ac2485399ffab7cb9743a67fe0b *02. My Hero.flac
+3f2677caf2dc6b2280bcc038d07dd1ea *03. Breakout.flac
+76c2a0680e58b335db752578dd696b1b *04. Learn To Fly.flac
+48324da8e485560819f3808ab0ed609b *05. Have It All.flac
+5b064905b76af81252d6603ecea9e304 *06. The One.flac
+fd462603db1299c94ca68b30e148c7ee *07. Stacked Actors.flac
+f254cde429787b9daf8ad3f2505b7269 *08. This Is A Call.flac
+19f29e3467e69f0d65eb0ce77dc57c8b *09. Generator.flac
+743e4ffc32bfe784a03dc7e3f3d9a4d2 *10. Low.flac
+705e077f3c4f5541bb29628aece29418 *11. Monkey Wrench.flac
+2c565869a8ae070000575ab05692574f *12. Tired Of You.flac
+a4684c5b1548db2290d38432e29b16b8 *13. Everlong.flac
+
+RECORDED & TRANSFERRED BY:
+Gary Bridgeman
+
+***PLEASE DO NOT SELL OR ENCODE TO LOSSY FORMATS***

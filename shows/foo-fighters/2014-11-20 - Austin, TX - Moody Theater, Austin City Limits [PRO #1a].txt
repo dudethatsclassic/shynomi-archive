@@ -1,0 +1,36 @@
+Foo Fighters
+November 20th, 2014
+The Moody Theater (Austin City Limits)
+Austin, TX
+
+SOURCE (PRO #1a):
+soundboard > unknown
+
+TRANSFER:
+unknown > VideoReDo 5
+
+GENERATION:
+HDTV > .TS [H.264/11Mbps/1080i | AC3/448kbps/5.1]
+
+LENGTH:
+54:39
+
+TRACKS:
+01. Times Like These
+02. The Feast And The Famine
+03. Rope
+04. Congregation
+05. What Did I Do?/God As My Witness
+06. Tuff Enuff
+07. I'll Stick Around
+08. Walk
+09. Best Of You
+10. interview
+
+MD5 FINGERPRINTS:
+83868026d2468694a1071d305e980f5c *Foo Fighters 2014-11-20 1080i HDTV DD5.1 H.264.ts
+
+CAPTURED BY:
+Anonymous
+
+**PLEASE DO NOT ENCODE TO LOSSY FORMATS OR SELL!**

@@ -1,0 +1,51 @@
+FOO FIGHTERS
+April 12th, 2011
+Ed Sullivan Theater (Live With Letterman)
+New York, NY
+
+SOURCE (PRO #1a):
+soundboard > unknown
+
+TRANSFER:
+Replay Media Catcher 3 > FLVExtract 1.6.0 > tsMuxerR 1.10.6
+
+GENERATION:
+Webstream > FLV [700kbps AVC / VBR AAC] > Transport Stream
+
+LENGTH:
+109:57
+
+NOTES:
+- The video has a grayscale filter from the start until part way through 'All My Life' as the band were performing in the style of The Beatles.
+
+TRACKS:
+01. Bridge Burning
+02. Rope
+03. Dear Rosemary
+04. White Limo
+05. Arlandria
+06. These Days
+07. Back & Forth
+08. A Matter Of Time
+09. Miss The Misery
+10. I Should Have Known
+11. Walk
+12. All My Life
+13. Times Like These
+14. My Hero
+15. Learn To Fly
+16. Cold Day In The Sun
+17. Big Me
+18. Stacked Actors
+19. Monkey Wrench
+20. Everlong
+21. Best Of You
+22. This Is A Call
+
+MD5 FINGERPRINTS:
+5f3d89f4001fd5c192d153c47498851c *FooFighters2011-04-12-PRO#1.ts
+
+TRANSFERRED BY:
+Simon Kilmore
+
+**PLEASE DO NOT ENCODE TO LOSSY FORMATS OR SELL!**

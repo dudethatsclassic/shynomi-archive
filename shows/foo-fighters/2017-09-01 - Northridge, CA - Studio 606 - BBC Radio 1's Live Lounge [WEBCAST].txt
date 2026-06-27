@@ -1,0 +1,85 @@
+Foo Fighters
+BBC Radio 1's Live Lounge
+Studio 606
+Northridge, California
+September 1, 2017
+
+Lineage: BBC iPlayer Webcast -> downloaded .ts segments (batch script) -> TSSplitter (join) -> uncompressed .ts
+Video: MPEG4 Video (H264) 1280x720 16:9 5230 Kbps 50.00 fps
+Audio: AAC 320 Kbps 48.0 KHz stereo
+
+Foo Fighters kick off Live Lounge month with a special performance in LA
+hosted by Clara Amfo.
+http://www.bbc.co.uk/programmes/articles/3NMvSsGWV3TCPLqgPtlhJ0x/radio-1s-live-lounge-month-2017
+
+Setlist:
+-introduction by Clara Amfo-
+The Sky Is a Neighborhood
+-Q&A with Clara Amfo-
+Best of You
+-Q&A with Clara Amfo-
+Let There Be Rock (AC/DC cover)
+-Q&A with Clara Amfo-
+Times Like These
+
+TRT = 00:23:33
+
+Note: This is a perfect capture of the webcast. Any imperfections, if present, were inherent in the broadcast.
+
+Captured and uploaded to DIME by indykid. 
+
+MediaInfo:
+General
+ID                          : 16727 (0x4157)
+Complete name               : Foo Fighters - 2017-09-01 BBC Radio 1's Live Lounge [720p50].ts
+Format                      : MPEG-TS
+File size                   : 936 MiB
+Duration                    : 23 min 33 s
+Overall bit rate mode       : Variable
+Overall bit rate            : 5 551 kb/s
+
+Video
+ID                          : 33 (0x21)
+Menu ID                     : 16727 (0x4157)
+Format                      : AVC
+Format/Info                 : Advanced Video Codec
+Format profile              : High@L3.2
+Format settings, CABAC      : Yes
+Format settings, ReFrames   : 4 frames
+Codec ID                    : 27
+Duration                    : 23 min 34 s
+Maximum bit rate            : 5 070 kb/s
+Width                       : 1 280 pixels
+Height                      : 720 pixels
+Display aspect ratio        : 16:9
+Frame rate                  : 50.000 FPS
+Color space                 : YUV
+Chroma subsampling          : 4:2:0
+Bit depth                   : 8 bits
+Scan type                   : Progressive
+Color range                 : Limited
+Color primaries             : BT.709
+Transfer characteristics    : BT.709
+Matrix coefficients         : BT.709
+
+Audio
+ID                          : 34 (0x22)
+Menu ID                     : 16727 (0x4157)
+Format                      : AAC
+Format/Info                 : Advanced Audio Codec
+Format version              : Version 4
+Format profile              : LC
+Muxing mode                 : ADTS
+Codec ID                    : 15
+Duration                    : 23 min 33 s
+Bit rate mode               : Variable
+Maximum bit rate            : 320 kb/s
+Channel(s)                  : 2 channels
+Channel positions           : Front: L R
+Sampling rate               : 48.0 kHz
+Frame rate                  : 46.875 FPS (1024 spf)
+Compression mode            : Lossy
+Delay relative to video     : 20 ms
+Language                    : English
+
+Captured and uploaded to DIME by indykid.

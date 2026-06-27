@@ -1,0 +1,64 @@
+FOO FIGHTERS
+May 28th, 1997
+Astoria Theatre
+London, United Kingdom
+
+SOURCE (AUD #1):
+Sony ECM-909 > Sony TCD-D7 (DAT)
+
+TRANSFER:
+Tascam DA-20mkII > Apogee S/PDIF cable > LynxONE digital-in > Adobe Audition 3.0 > CDWave 1.98 > Trader's Little Helper
+
+GENERATION:
+DAT(1) [48khz] > WAV [48khz] > WAV [44.1khz] > FLAC [Level 8]
+
+LENGTH:
+70:55
+
+NOTES:
+- Bass is overdriven for a lot of the show.
+
+TRACKS:
+01. Wind Up
+02. Wattershed
+03. Hey, Johnny Park!
+04. Monkey Wrench
+05. Alone + Easy Target
+06. Doll
+07. See You
+08. My Poor Brain
+09. For All the Cows
+10. Enough Space
+11. Big Me
+12. Weenie Beenie
+13. February Stars
+14. Everlong
+15. New Way Home
+16. This is a Call
+17. Up In Arms
+18. I'll Stick Around
+
+MD5 FINGERPRINTS:
+6fac3c9ac85bf6c1950e62e02a2ce148 *FooFighters1997-05-28t01.flac
+7b962198ae0dedac327aeea444462f8b *FooFighters1997-05-28t02.flac
+7529d491db65fbdfdf8f8ac7a9d66577 *FooFighters1997-05-28t03.flac
+9f855fc79a1a4017aeef05d93c37372b *FooFighters1997-05-28t04.flac
+8e4a7c729c0d84b937936b76de8647bb *FooFighters1997-05-28t05.flac
+524d24bbfaae4dc07dc638f08580c306 *FooFighters1997-05-28t06.flac
+00d5f3f1c472ea5caa84236279a32177 *FooFighters1997-05-28t07.flac
+d592f573a6bbdcc7391495242c764392 *FooFighters1997-05-28t08.flac
+15a52d02849617d7e0efc60dab1f0def *FooFighters1997-05-28t09.flac
+56c06966aaf578f6eb3c5723c1b6ef99 *FooFighters1997-05-28t10.flac
+fa9718b1889129f3ae3e5bade9af1552 *FooFighters1997-05-28t11.flac
+a5811a9f0e5e875d369624edc547fcd4 *FooFighters1997-05-28t12.flac
+9dde43a3e88782abe9b497446831892c *FooFighters1997-05-28t13.flac
+9a203a34d17b58e91127b2c1b02769af *FooFighters1997-05-28t14.flac
+80d676f9c3c48a16cfcda8fa4e265887 *FooFighters1997-05-28t15.flac
+5c5e0280cbf682eae117684e35864153 *FooFighters1997-05-28t16.flac
+c9a68dd6195e3d84b129bc8240148cc4 *FooFighters1997-05-28t17.flac
+cf07944c32956b3f631601afe5fd7509 *FooFighters1997-05-28t18.flac
+
+TRANSFERRED BY:
+Mike Ziegler
+
+**PLEASE DO NOT ENCODE TO LOSSY FORMATS OR SELL!**

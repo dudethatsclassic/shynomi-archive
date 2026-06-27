@@ -1,0 +1,61 @@
+Foo Fighters
+July 7th, 2003
+Arrow Hall
+Mississauga, Canada
+
+SOURCE (AUD #1):
+Sony ECM-DS70P > Sony MZ-N1 (Minidisc)
+
+TRANSFER:
+Sony MZ-N1 > Creative Labs Nomad Jukebox 3 
+
+GENERATION:
+MD(M) > WAV [48khz] > REMASTER > WAV [44.1khz] > FLAC [Level 8]
+
+LENGTH:
+100:36
+
+TRACKS:
+01. intro
+02. All My Life
+03. The One
+04. My Hero
+05. Breakout
+06. Have It All
+07. Generator
+08. Learn To Fly
+09. For All The Cows
+10. Stacked Actors
+11. Low
+12. Hey, Johnny Park!
+13. Monkey Wrench
+14. Times Like These
+15. Never Talking To You Again
+16. Aurora
+17. Tired Of You
+18. Everlong
+
+MD5 FINGERPRINTS:
+32e26215e2414fe9d9cf5f2cf714f62d *FooFighters2003-07-07t01.flac
+88b015ca9f33e7ecfab2d5a7628cee56 *FooFighters2003-07-07t02.flac
+2ce0b6bdcd3a1faf49f23daab653b1b0 *FooFighters2003-07-07t03.flac
+b2631680ba3d597ac6e13b98464377c2 *FooFighters2003-07-07t04.flac
+46e18879f0a196cf1b091788e6a18347 *FooFighters2003-07-07t05.flac
+b8f93026c6f38f035698bbaa82b1f00f *FooFighters2003-07-07t06.flac
+76f14080cd054900b38ac2439d167270 *FooFighters2003-07-07t07.flac
+2a030fed54a17023dd8056938ea64698 *FooFighters2003-07-07t08.flac
+5d09755bff525b927383d1623eff7b3f *FooFighters2003-07-07t09.flac
+9c061b8388b1d7db76657e12ebdf2738 *FooFighters2003-07-07t10.flac
+79b132bc4ba80c9d18e5e550994d9d2e *FooFighters2003-07-07t11.flac
+91299dcaaf4b5c100f3a0e0e41686634 *FooFighters2003-07-07t12.flac
+b4a06201609245910b26d3c0788b3f38 *FooFighters2003-07-07t13.flac
+f59580c8956fe4cbfa22dd9457b67afd *FooFighters2003-07-07t14.flac
+abd3c0125970a927f9c9f1aefdb70019 *FooFighters2003-07-07t15.flac
+0cd9222bb596d3e6b59d6cd425d87337 *FooFighters2003-07-07t16.flac
+f77d6d97ece3640105cf4bcfd5b93c43 *FooFighters2003-07-07t17.flac
+87dbc886e9b90fa79e54666e90a58eae *FooFighters2003-07-07t18.flac
+
+RECORDED AND TRANSFERRED BY:
+GL
+
+**PLEASE DO NOT ENCODE TO LOSSY FORMATS OR SELL!**

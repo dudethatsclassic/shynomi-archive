@@ -1,0 +1,58 @@
+Foo Fighters
+December 13th, 2002
+Sala Razzmatazz
+Barcelona, Spain
+
+SOURCE (AUD #1):
+Sony ECM-717 > Sony MZR-700 (Minidisc)
+
+TRANSFER: 
+unknown > Exact Audio Copy > Adobe Audition CC 2018 > CD Wave 1.98 > flac 1.3.2
+
+GENERATION: 
+MD(M) > CDR(1) > WAV [44.1khz/16-bit] > FLAC [Level 8]
+
+NOTES:
+- Small cut after 'Hey, Johnny Park!', no music is missing.
+
+LENGTH: 
+91:33
+
+TRACKS: 
+01. All My Life
+02. Have It All
+03. Generator
+04. My Hero
+05. Learn To Fly
+06. Up In Arms
+07. Stacked Actors
+08. Times Like These
+09. For All The Cows
+10. Low
+11. Hey, Johnny Park!
+12. Monkey Wrench
+13. Tired Of You
+14. Everlong
+15. Enough Space
+16. Breakout
+
+MD5 CHECKSUMS: 
+bdd4deb76bf0da8f0d0816057d41416d *01. All My Life.flac
+f6d38de2ca55e891d7d78616310c574e *02. Have It All.flac
+aa56c0ac839c737dc9886e6dba5c826b *03. Generator.flac
+a6d7402edbcbe90744c947c573245394 *04. My Hero.flac
+b3c3b5c56cfe95a13248ba5aa38a8cb0 *05. Learn To Fly.flac
+9d916a7c10216f8ce56ca9da6c74f3c7 *06. Up In Arms.flac
+70d28bacf466769364d8e68c6f3c26e9 *07. Stacked Actors.flac
+2c38858ec687bf51c2270072fa4a55e9 *08. Times Like These.flac
+35efae6bf2981728460f05a2e4fd0762 *09. For All The Cows.flac
+f340d0d099b1284892bd33a8ada1fea3 *10. Low.flac
+1da859a4a406be7e00a223fa393600d0 *11. Hey, Johnny Park!.flac
+f30e84dad16aabfd8cb4deceff5b8e0c *12. Monkey Wrench.flac
+6e9db59aa21a8c0b4aa449b7b0060a24 *13. Tired Of You.flac
+35d3752d785beeae0b209cf0129139d8 *14. Everlong.flac
+8747fdc698f75f927d6bc90759f3a26c *15. Enough Space.flac
+cceff9f0006d22c173561bbcc4179564 *16. Breakout.flac
+
+TRANSFERRED BY: 
+unknown

@@ -1,0 +1,59 @@
+FOO FIGHTERS
+17 August, 2007
+Concorde 2
+Brighton, UK
+
+SETLIST (55:00)
+---------------
+01) intro
+02) The Pretender
+03) Cheer Up, Boys (Your Make Up Is Running)
+04) My Hero
+05) Enough Space
+06) Times Like These
+07) Cold Day In The Sun
+08) Keep The Car Running
+09) Come Alive
+10) Everlong
+11) Monkey Wrench
+12) Best Of You
+13) All My Life
+
+GENERATION
+----------------
+FM -> WAV [44.1kHz] -> FLAC [Level 8]
+
+SOURCE (SBD #1)
+---------------
+soundboard -> unknown
+
+TRANSFER 
+---------------
+JVC UX-G3 -> Unbranded RCA Cable -> Creative Soundblaster Audigy SE -> Nero Wave Editor -> Adobe Audition 2.0 -> CD Wave -> FLAC Frontend 1.7.1
+
+NOTES
+---------------
+Broadcast on BBC Radio 1, 6pm 17th August.
+There are two cuts, so it is likely songs are missing from the broadcast.
+Cheer Up, Boys (Your Make Up Is Running), The Pretender and Come Alive are songs from the new album.
+Keep The Car Running is a cover of an Arcade Fire song.
+
+MD5 FINGERPRINTS
+---------------
+70e5104510e71d9009175bb849e609e7 *FooFighters2007-08-17t01.flac
+c30a14b1afc23efd72b0c33cc31dc668 *FooFighters2007-08-17t02.flac
+87d1840285b227fa7e58ee291e77b8f6 *FooFighters2007-08-17t03.flac
+92001326fa0de36ec60c274c6dbd992d *FooFighters2007-08-17t04.flac
+712de9299aaa0ab93b55192319d9510e *FooFighters2007-08-17t05.flac
+fdf51132cb61b08e7571f6ec0040d21e *FooFighters2007-08-17t06.flac
+a48f62ba04c0b98d6bed650334f3de5e *FooFighters2007-08-17t07.flac
+5a99c7d835f7ea942e71750f95098c9f *FooFighters2007-08-17t08.flac
+68232d6fd2f7df5f88e570a273b6de87 *FooFighters2007-08-17t09.flac
+bca3f6307b9755da3baee7b92a8ef66f *FooFighters2007-08-17t10.flac
+419adbeb36a6003b4461f64cd1c9b177 *FooFighters2007-08-17t11.flac
+4a6cc547645542c457e6b411242895a6 *FooFighters2007-08-17t12.flac
+b1b8d7f0438bd727f4b9e906252840cd *FooFighters2007-08-17t13.flac
+
+Recorded, transferred and torrented by Simon Kilmore.
+
+DO NOT SELL OR ENCODE TO LOSSY FORMATS!

@@ -1,0 +1,57 @@
+Foo Fighters
+28th September 1999
+Maida Vale Studios
+London, England
+
+SETLIST (26:28)
+-----------------
+01. intro - Nate - Chris and auditions
+02. Chris' first show
+03. moving back to Virginia - Adam Kaspar
+04. Taylor's opinion on the album - Chris picks a song
+05. Wino from The Possessed - Taylor picks a song - chatting about Queen
+06. more new album talk - Stacked Actors
+07. Nirvana on NME cover and The Word - shandy
+08. more Stacked Actors - songwriting - therapy
+09. Paul Weller
+10. Kiss - The Police
+11. more Police - touring - Lynard Skynard
+12. Black Sabbath - outro
+
+GENERATION
+-----------------
+DAT(M) -> FLAC
+
+SOURCE (FM #1)
+-----------------
+FM -> unknown Yamaha "Natural Sound" FM receiver -> Tascam DA-20 MkII -> DAT(M) (32kHz/16bit)
+
+TRANSFER
+-----------------
+DAT(M) -> Tascam DA-20 MkII -> M-Audio Audiophile 2496 (digital coax) -> WAV (32kHz/16bit) 
+-> Adobe Audition 2017 (cuts/fades/amplify) -> CDWave (splits) -> foobar2000 -> FLAC(8)
+
+NOTES
+-----------------
+An interview with Dave, Chris and Taylor with Mary Anne Hobbs on the Radio 1 Rock show.
+There's some light crackle/static but nothing too distracting.
+This show was recorded at 32kHz.
+
+FLAC FINGERPRINTS
+-----------------
+foofighters-28sep1999-interview-fm-t01.flac:b25c991fa403d862fb1908208ae97915
+foofighters-28sep1999-interview-fm-t02.flac:3f57798add59d977005a064ccdb9ac31
+foofighters-28sep1999-interview-fm-t03.flac:ebca2df8fe34c55c966abad22ae47ca5
+foofighters-28sep1999-interview-fm-t04.flac:9acacf096f4e216c194c87e6f0ddfbc3
+foofighters-28sep1999-interview-fm-t05.flac:b16cdf3572fa745cbd5c1720d18d7238
+foofighters-28sep1999-interview-fm-t06.flac:75626c8fb738ebe2fe3616fa75ff1a68
+foofighters-28sep1999-interview-fm-t07.flac:8dff69b056843e08100fd72fdefcf97e
+foofighters-28sep1999-interview-fm-t08.flac:4e0c8d3aede40dabf6e1a583acb4c838
+foofighters-28sep1999-interview-fm-t09.flac:478edfd640b11edc8c6fac9a1b85f78a
+foofighters-28sep1999-interview-fm-t10.flac:6fdc8a67b19ff42df7534bd0566860ee
+foofighters-28sep1999-interview-fm-t11.flac:90641715d8811ad418d7a8f35b71f504
+foofighters-28sep1999-interview-fm-t12.flac:77b599f99efa1e9fbc6f3ca9834a5e29
+
+Taped, transferred & mastered by: Gary Watson (packetboatlane@yahoo.co.uk)
+
+DO NOT SELL, OR DISTRIBUTE IN LOSSY FORMATS!

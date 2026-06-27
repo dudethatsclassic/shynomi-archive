@@ -1,0 +1,68 @@
+Foo Fighters
+December 9th, 1995
+Imperial Hall
+Osaka, Japan
+
+SOURCE (AUD #1):
+Sony ECM-959A >Sony TCD-D7 (DAT)
+
+TRANSFER:
+Sony DTC-60ES > Monster SPDIF Cable > SIIG Soundwave 7.0 > Adobe Audition 2.0 > CD Wave 1.98 > Trader's Little Helper 2.7.0
+
+GENERATION:
+DAT(x) > WAV [48khz] > WAV [44.1khz] > FLAC [Level 8]
+
+LENGTH:
+77:04
+
+NOTES:
+- Dave sings a line from the Frank Black song 'Los Angeles' before 'Oh, George' and plays a small part of 'Stairway To Heaven' by Led Zeppelin before 'Floaty'.
+
+TRACKS:
+01. Enough Space 
+02. This Is A Call 
+03. Winnebago 
+04. Wattershed 
+05. For All The Cows 
+06. Butterflies 
+07. Big Me 
+08. Cactus (jam)
+09. I'll Stick Around
+10. Oh, George 
+11. Into The Void (jam)
+12. Good Grief 
+13. Podunk 
+14. How I Miss You 
+15. Alone + Easy Target 
+16. Exhausted 
+17. Floaty 
+18. Up In Arms 
+19. Gas Chamber 
+20. Weenie Beenie
+
+MD5 FINGERPRINTS:
+eaed44aa22b8d95d6500ca63623220c8 *01. Enough Space.flac
+d412db79eeb67f262c4349c235bfa4ec *02. This Is A Call.flac
+b5d886a661539097033cef9d5dd3fb73 *03. Winnebago.flac
+934dc9173affc0125c63fbfa08fd3b81 *04. Wattershed.flac
+23fd61bae60e2e0c72a7e8512d3e6001 *05. For All The Cows.flac
+e5352bf3fb8b0ebfd948ba972ad34aad *06. Butterflies.flac
+d59e104a7df9718720fdfa4a64ec124d *07. Big Me.flac
+9be8226066d04051b3a18da8f56cd992 *08. Cactus.flac
+df4417d399296f072fa34208433c0e94 *09. I'll Stick Around.flac
+92367bc8215ad8bb94517fea44a62b8d *10. Oh, George.flac
+e545e31b2676522f883f61a80ee16854 *11. Into The Void.flac
+98e1c4f1565cb9f884d91c169cbd794c *12. Good Grief.flac
+0356c2dc5c779aabf593f82578805622 *13. Podunk.flac
+850ccd2d864d0daa5cba060ac0b69ff5 *14. How I Miss You.flac
+906bf15c6917d28dc9e4e3fe855f1d02 *15. Alone + Easy Target.flac
+5e4f967e77059409940cab1103b04d49 *16. Exhausted.flac
+b5803ac5ff18c138e3a4df5e00ac15fb *17. Floaty.flac
+f4a6b18b375de704a780d098bc4c3eda *18. Up In Arms.flac
+9890e435313436916bf90be81ff71438 *19. Gas Chamber.flac
+5aada684da3d37927cf1336f907ca7a1 *20. Weenie Beenie.flac
+
+TRANSFERRED BY:
+Brad Collins
+
+**PLEASE DO NOT ENCODE TO LOSSY FORMATS OR SELL!**

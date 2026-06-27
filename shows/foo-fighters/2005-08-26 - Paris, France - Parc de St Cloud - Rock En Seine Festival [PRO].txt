@@ -1,0 +1,59 @@
+This comes from a Digital Video Broadcast (DVB), so this comes from a LOSSY broadcast indeed.
+
+Broadcast : PAL MPEG2 Video (720*576) with MPEG1-layer 2 audio @ 256kbps
+DVD : PAL MPEG2 Video (720*576) with L-PCM audio @ 48kHz (1536kbps)
+
+FOO FIGHTERS
+Grande Scène (Main Stage),
+Rock En Seine Festival (day 2),
+Domaine National de Saint Cloud (Paris)
+France
+
+DISC #1/1 (62:47)
+---------------
+01) In Your Honor
+02) All My Life
+03) Times Like These
+04) My Hero
+05) Best Of You
+06) Tired (interlude)
+07) Up In Arms
+08) Learn To Fly
+09) The One
+10) Stacked Actors
+11) Everlong
+12) Monkey Wrench
+13) Breakout (encore)
+
+
+SOURCE (PRO)
+---------------
+Professional Video Broadcast, multi-angle shot.
+
+GENERATION
+---------------
+DVB -> DVDR(0)
+
+Your copy will be DVB -> DVDR(1).
+
+TRANSFER
+---------------
+DVB -> SkyStar II PCI -> ProgDVB 4.71.2 -> VirtualDub MOD 1.5.10 -> TMPGenc Plus 2.5 -> Sony DVD Architect 3.0c
+
+NOTES
+---------------
+- broadcast by Europe2 TV french cable/satellite channel.
+- broadcast details : PAL 720*576 MPEG2 video & MPEG1 layer II at 256kbps audio.
+- DVD details : PAL 720*576 MPEG2 @ 8mbps CBR & L-PCM audio (1536kbps @ 48kHz)
+- near-complete : it's missing some crowd noise before the encore.
+- "Everlong" : Dave solo.
+- the DVD is chaptered.
+- sound normalized, not remastered (there's no need to).
+- removed the TV logo with VirtualDub Mod using LogoAway filter.
+- all photographs appearing in the menu by Pierre L, taken with a Nikon Coolpix 5900 with a 5 MegaPixel resolution, edited with Adobe Photoshop CS.
+- DVD inlay artwork by Pierre L.
+
+Recorded & Authored by
+Pierre L.
+
+DO NOT RE-ENCODE OR SELL ! FREE TRADE ONLY !

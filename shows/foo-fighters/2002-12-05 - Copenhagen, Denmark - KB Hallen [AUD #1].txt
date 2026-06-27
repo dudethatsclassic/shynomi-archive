@@ -1,0 +1,56 @@
+Foo Fighters
+12/05/2002
+KB Hallen
+Copenhagen, Denmark
+
+Setlist:
+
+All My Life
+My Hero
+Generator
+Learn To Fly
+For All The Cows
+Have It All
+Stacked Actors
+Times Like These
+The One
+Low
+Hey, Johnny Park
+Monkey Wrench
+Tired
+Everlong
+
+Aurora
+Enough Space
+Breakout
+
+
+Generation:
+MD(M) -> CDR(1) -> WAV [44.1 KHz] -> FLAC [Level 8]	Yours will be MD(M) -> CDR(2) 
+
+Source / Equipment:
+Sharp MD-MT190 minidisc / Core-Sound binaural low-cost mics (low sensitivity)
+samt en GS battery unit w/ fixed bass roll-off
+
+MD5 Checksums:
+1d251465979b6fefbdd392ef594e9e18 *FF 120502 Disc1 Track_01.flac
+b3a517da33debe0a65031b6892dd3ea1 *FF 120502 Disc1 Track_02.flac
+0b878239836100faa2d6775c08705ca5 *FF 120502 Disc1 Track_03.flac
+7932541d972826413cc60cf5e83be63c *FF 120502 Disc1 Track_04.flac
+312238a362647e1a465548576a681760 *FF 120502 Disc1 Track_05.flac
+b3c781b4d7fa4980d9808b5f667d9332 *FF 120502 Disc1 Track_06.flac
+800d561d9713e7e18a481b58f1bdba4f *FF 120502 Disc1 Track_07.flac
+f1c6d76ab3debb639db5736dd21ca770 *FF 120502 Disc1 Track_08.flac
+b58cd6191e0cdd153af0fbcd31641c0b *FF 120502 Disc1 Track_09.flac
+a2c2e1c7f2beaea0ac9809aafd34a4d4 *FF 120502 Disc1 Track_10.flac
+92874d8fc949574d776bc02db516b0d2 *FF 120502 Disc1 Track_11.flac
+010d2cd94818bdc33b5df4a34a872ee2 *FF 120502 Disc1 Track_12.flac
+eb19a2bb71fe5b4586f88d438476caf3 *FF 120502 Disc1 Track_13.flac
+f7dcf7e56c23f4c31851b7ce3c174d1b *FF 120502 Disc1 Track_14.flac
+ee945cb50a1a6894b26cebb26694f4a0 *FF 120502 Disc2 Track_01.flac
+a052d6085d9d29aaac069987e895c5ef *FF 120502 Disc2 Track_02.flac
+dd9afe04d5c690e298ba937b97ab90f8 *FF 120502 Disc2 Track_03.flac
+
+
+Recorded and transfered to CD by RH with some kind of remastering done.
+Please do not encode to MP3 or sell!!!

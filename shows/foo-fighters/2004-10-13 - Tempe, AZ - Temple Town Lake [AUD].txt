@@ -1,0 +1,44 @@
+Foo Fighters
+October 13, 2004
+Tempe Town Lake
+Tempe, AZ
+
+Free Show: John Kerry Rally
+
+
+Taper:  Edgar
+Source: AT831s > SP-SPSB-3 BattBox (Bass Roll Off @95Hz) > Sony PCM-M1 
+
+Location: 6' from stack
+	  * Sorry bout the bit of mud in the low end, but the mics WERE in my ass!
+
+Conversion: Edgar
+DAT > SHN:  M1 > Active Cable > Prodif32 > Soundforge v5.0 > CD Wave 1.8 > MKW(seek tables appended)
+
+*No DAE
+
+
+Set 1:
+
+01. Intro
+02. All My Life
+03. Breakout
+04. Monkeywrench
+
+Set 2:
+
+05. Intro
+06. Everlong
+07. Times Like These
+08. Learning To Fly
+09. "The Phone Call"
+
+10. John Kerry's Speach
+
+
+Notes: Some wind noise is present.
+
+My hero was on the stage setlist as the 2nd set closer but didnt get played due to Kerry's early arrival.
+
+
+compiled by Lights_1 on 10.18.04

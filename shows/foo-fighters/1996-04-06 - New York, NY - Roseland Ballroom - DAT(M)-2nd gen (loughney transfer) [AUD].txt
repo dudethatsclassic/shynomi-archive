@@ -1,0 +1,43 @@
+Foo Fighters - 1996 04 06 Roseland, NYC, NY
+
+Show notes:
+This is a Call is just Dave solo. Petra from that dog sings Floaty. 
+
+Transfer notes:
+Butterflies had some volume issues at the when the band kicks in, first overloaded, then dropped then brought back up.  I tried to even the overall volume. Some level adjustments to balance the recording.
+
+Editorial comments:
+Why the fuck do guys in the audience feel the need to yell "Show us your tits" whenever there is a woman on stage?
+
+Band Members:
+Dave Grohl - Guitar, Vocals
+Nate Mendel - Bass Guitar
+Pat Smear - Guitar
+William Goldsmith - Drums
+
+1 intro
+2 This Is A Call
+3 Butterflies
+4 Winnebago
+5 Wattershed
+6 For All The Cows
+7 Weenie Beenie
+8 Gas Chamber [The Angry Samoans]
+9 Big Me
+10 My Poor Brain
+11 Up In Arms
+12 Good Grief
+13 Podunk
+14 How I Miss You
+15 Alone + Easy Target
+16 I'll Stick Around
+17 Floaty (Petra from that dog sings)
+18 Enough Space
+19 Down in the Park [Gary Newman]
+20 Exhausted
+
+Openers
+The Amps 
+That Dog
+
+Lineage: DAT Audience Master > 2nd gen tape > Tascam 202MKVII USB out > CDWAV > Audacity (normalization, fades, merges, noise reduction) > CDWAV (splits) > DBPowerAmp (FLAC) [loughney xfer]

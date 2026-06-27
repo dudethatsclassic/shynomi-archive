@@ -1,0 +1,37 @@
+
+Foo Fighters
+Glastonbury Festival @ Worthy Farm: Somerset, England
+June 26, 1998
+
+Source: Sennheiser MKE-2002 > Sony TCD-D8 @ 48kHz
+Lineage: DAT Master
+Transfer: Tascam DA-20 > Digital Coax > MicroTrack II > Audacity > CDWave > TLH
+
+Setlist:
+
+01 Intro
+02 My Hero
+03 My Poor Brain
+04 Monkeywrench
+05 Alone + Easy Target
+06 See You
+07 Gas Chamber [Angry Samoans]
+08 Up In Arms
+09 Enough Space
+10 Big Me
+11 I'll Stick Around
+12 Weenie Beenie
+13 Hey! Johnny Park
+14 Everlong
+15 New Way Home
+16 This is a Call
+17 Outro
+
+Notes: I acquired the master DAT in 2009, and transferred the tape in 2018. From my knowledge, this is the first complete version of this performance. It appears taper gradually raised levels during the course of the set. There are several areas of mild microphone pops, perhaps due to the rain. Raw transfer with no fades or EQ.
+
+Archive: DAT master was transferred @ 48kHz and FLAC'd with cue sheet. 
+
+Transferred by tapeworm(48) 
+Txt file compiled on 2/28/2018
+
+*** DO NOT DISTRIBUTE IN LOSSY FORMATS. DO NOT SELL THIS RECORDING, TRADE IT FREELY *** 

@@ -1,0 +1,74 @@
+FOO FIGHTERS
+October 28, 2007
+König-Pilsener Arena
+Oberhausen, Germany
+
+SOURCE (AUD#1):
+Soundman OKM-II (studio rock version) > Soundman A3 Adaptor (Power Supply) > Sony TCD-D100 (DAT)
+
+TRANSFER:
+Sony DTC-ZA5ES > Sandberg S/PDIF cable > Trust SC-5250 digital-in > Sound Forge 8.0 > Adobe Audition 2.0 > CD Wave 1.96.1 > FLAC Frontend FLAC Frontend 1.7.1
+
+GENERATION:
+DAT(M) [44.1kHz] > WAV [44.1kHz] > FLAC [Level 8]
+
+LENGTH:
+116:39
+
+NOTES:
+- 'The Pretender' cuts in.
+
+TRACKS (DISC 1):
+01. intro
+02. The Pretender (cut)
+03. DOA
+04. Times Like These
+05. Cheer Up, Boys (Your Make Up Is Running)
+06. I'll Stick Around
+07. Long Road To Ruin
+08. Breakout
+09. Learn To Fly
+10. The One
+11. Stacked Actors
+12. Skin And Bones
+13. Marigold
+14. My Hero
+
+TRACKS (DISC 2):
+01. See You
+02. Everlong
+03. Monkey Wrench
+04. All My Life
+05. In Your Honor
+06. No Way Back
+07. Aurora
+08. Best Of You
+
+MD5 FINGERPRINTS:
+40e791b4441be1fbd321b885160efd08 *foofighters2007-10-28d1t01.flac
+98ae3ecec571510a69391ccba77b03e2 *foofighters2007-10-28d1t02.flac
+01ba3350e4ad712b7a583a30ce941013 *foofighters2007-10-28d1t03.flac
+009e698ceb2d3533a05a1bea1e4ba03b *foofighters2007-10-28d1t04.flac
+cf1b84fa7af02fd23b94de2b999ee156 *foofighters2007-10-28d1t05.flac
+33712b898db402f8d49cac40db8982de *foofighters2007-10-28d1t06.flac
+5794b42e71313946421acc8ea98e6d49 *foofighters2007-10-28d1t07.flac
+f7e85442854a1d249acb00ec736cac59 *foofighters2007-10-28d1t08.flac
+cd64c919e724ce8f0dc73a209ec5fbf0 *foofighters2007-10-28d1t09.flac
+2f0220b3b414c21a562d822f9abfd4e1 *foofighters2007-10-28d1t10.flac
+ea2779df751707273021d76296560b02 *foofighters2007-10-28d1t11.flac
+9f1f31eaee4ed5729285f8db08e71494 *foofighters2007-10-28d1t12.flac
+c68ceec2e50a7a8da70eb777fe9e5392 *foofighters2007-10-28d1t13.flac
+15815df530b39852abc3cb9c497a0f6d *foofighters2007-10-28d1t14.flac
+30b6daef6f5ea5e4d323a4bad0592f6c *foofighters2007-10-28d2t01.flac
+9d74d0a49aa782d7b5bf698c8c422f99 *foofighters2007-10-28d2t02.flac
+3f1f75bd6f52bd9b58f5d0078730aa8f *foofighters2007-10-28d2t03.flac
+229d0cbbf21557ffbc717bfb5a959323 *foofighters2007-10-28d2t04.flac
+aecb6baf803e28827abe8ca877ae0a96 *foofighters2007-10-28d2t05.flac
+5479be840c33564d2f6af70731c87afe *foofighters2007-10-28d2t06.flac
+fd6df4e6a0a718e5cf6573bdfa960df6 *foofighters2007-10-28d2t07.flac
+5866cc368a6b2cf7d308e6a292bbddbe *foofighters2007-10-28d2t08.flac
+
+TRANSFERRED BY:
+Miki Johansen
+
+***PLEASE DO NOT SELL OR ENCODE TO MP3***

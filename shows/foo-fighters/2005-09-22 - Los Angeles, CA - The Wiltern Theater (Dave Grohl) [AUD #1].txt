@@ -1,0 +1,36 @@
+Dave Grohl
+September 22nd, 2005
+The Wiltern Theater
+Los Angeles, CA
+
+SOURCE (AUD #1):
+AT831 > Sound Pro SBSC-1 > Nomad Jukebox 3 (Flash Recorder)
+
+TRANSFER: 
+unknown > CD Wave 1.98 > flac 1.3.2
+
+GENERATION: 
+WAV(M) [44.1khz/16-bit] > FLAC [Level 8]
+
+NOTES:
+- Dave is joined by Josh Homme (drums) and Jessy Hughes (guitar) for 'Born On The Bayou'.
+
+LENGTH: 
+22:41
+
+TRACKS: 
+01. intro
+02. Skin And Bones
+03. Best Of You
+04. Friend Of A Friend
+05. Born On The Bayou
+
+MD5 CHECKSUMS: 
+60c8a8492a6615ce816edc81f3013c72 *01. intro.flac
+4e74d907055e9127771115cb588c6de0 *02. Skin & Bones.flac
+0be3b3125ee020d4bcff6beb0c618043 *03. Best Of You.flac
+07a32a18e67d3e65ed39ed8e9d483c19 *04. Friend Of A Friend.flac
+b70e89115ef299a20a608016056329b3 *05. Born On The Bayou.flac
+
+RECORDED AND TRANSFERRED BY: 
+B.A. Baracus

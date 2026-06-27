@@ -1,0 +1,28 @@
+Foo Fighters
+February 22nd, 2003
+NBC
+"Saturday Night Live"
+New York, NY
+
+All My Life
+Times Like These
+
+
+Transferred from Master VHS [Hi-Fi Stereo, SP Mode] > JVC HRS3911U 4-Head S-VHS VCR >
+Magnavox H2160MW9 STAND ALONE DVD RECORDER > TMPGEnc DVD Author 3.1.1.174
+
+Video attribute :
+Video compression mode : MPEG-2 [SP 2-HOUR SETTING ON DVD RECORDER]
+TV system : 525/60
+Aspect Ratio : 4:3
+Source picture resolution :
+Source picture letterboxed : not letterboxed
+
+
+Total Run Time : 00:08:33
+
+Audio attribute : 256 Dolby Digital Surround 2.0 - 256kbps Stereo
+
+Subpicture attribute : not available
+
+================================================

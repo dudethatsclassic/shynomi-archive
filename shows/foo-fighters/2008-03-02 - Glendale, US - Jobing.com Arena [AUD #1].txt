@@ -1,0 +1,88 @@
+Foo Fighters
+2008-03-02 (March 2nd)
+Jobing.com Arena
+Glendale, AZ
+
+
+Location: section 116 Row G Seat 9 Mics. clipped to  my hat.
+
+Source:SP-CMC-2(AT-831>SP-SPSB-1(w/107Hz rolloff)>NJB3(48Hz gain @ 0) 
+Transfer:JB3>USB>WAV @48Hz downsampled to 44.1Hz with Sound Forge 8
+Editing :Volume Boost>Smoothe Enhance @4, Fades>WAV>Cdwav>TLH>FLAC8
+
+
+TAPER: TIM JONES tjdrummer_77@hot__mail.c___o___m 
+
+
+.......DO NOT SELL....
+.......DO NOT CONVERT AND DISTRIBUTE IN LOSSY FORMATS....
+.......DO NOT REMASTER AND RE-POST.....
+
+SET LIST (copied from another may not be 100% accurate)
+
+Disc One 
+
+01. Let It Die 
+02. The Pretender 
+03. Times Like These 
+04. Breakout 
+05. Learn To Fly 
+06. Cheer Up, Boys (Your Make Up Is Running) 
+07. This Is A Call 
+08. Stacked Actors * 
+09. Skin And Bones ** 
+10. Marigold ** 
+11. My Hero ** 
+
+ 
+Disc Two: 
+ 
+
+01. Band Intros > 
+02. Cold Day In The Sun ** 
+03. But, Honestly ** 
+04. Everlong ^ 
+05. Monkey Wrench 
+06. All My Life 
+07. ~ Encore / Big Me Intro ~ 
+08. Big Me 
+09. Long Road To Ruin 
+10. Best Of You 
+
+* = with Drum Solo. 
+** = acoustic, on alternate stage. 
+^ = Dave solo until last chorus. 
+
+
+notes: Great show. Decent sound the cymbals were not very loud at all. All the other intruments came through good.
+Only downside was the lady in front who was on the cell for 4 songs. You might be able to hear her boyfriend tell her to put it 
+away! Also to the annoying bitch behind me who had to sing and clap out of time throughout the show..She's only audible at times. 
+Not much though..Got through security with no problems,wand went off as usual just showed the guy all the change in my pocket, he smiled 
+and I walked right in....Enjoy the show, I did..And please don't bitch about any sound issues..
+...............................................If you don't like it, START TAPING..................................
+
+
+
+ff2008-03-02d1t01.flac:b0c726907225d96e4d40f35a9a058aff
+ff2008-03-02d1t02.flac:74a10ef07b9e506738d07b1e47f5805c
+ff2008-03-02d1t03.flac:b1265a7d8cce70bc8d4e120a3f9f5a71
+ff2008-03-02d1t04.flac:3e84b2a48759d65ce9be5c6c5cef2f9f
+ff2008-03-02d1t05.flac:77b8cff05f260e7efacb72a8e642e05d
+ff2008-03-02d1t06.flac:c8f91d83eeb3aad292552a39e2565e40
+ff2008-03-02d1t07.flac:97aead7863e5dfe5543a416c36187efa
+ff2008-03-02d1t08.flac:6493e1a0c549c8e02d9c2de212c548e4
+ff2008-03-02d1t09.flac:65694f734fd18be7850e2f2ecb975b8a
+ff2008-03-02d1t10.flac:398b1a1497ae3f2b95eabd0152a2d237
+ff2008-03-02d1t11.flac:fa133609c9afcece9244870e450aad5f
+ff2008-03-02d1t12.flac:312e8292a78faed05200302cede4dfe4
+ff2008-03-02d2t01.flac:0d63d0c8ca52b56534dfb525a8cfbac4
+ff2008-03-02d2t02.flac:da059ef180bf37d43902bfc4ebde0eff
+ff2008-03-02d2t03.flac:217349b6d1d6edc130c71e440841fc21
+ff2008-03-02d2t04.flac:9795bca783486c3de6f944d3de477878
+ff2008-03-02d2t05.flac:63de78fd5e23877cc4d42749a77ae730
+ff2008-03-02d2t06.flac:2ff0bd4ce1adfbae6127ebe375a24d74
+ff2008-03-02d2t07.flac:041436f890825dd6e756076266761d82
+ff2008-03-02d2t09.flac:80d762eef3a33fe0f9eee11c214eeb68
+ff2008-03-02d2t10.flac:7b75d6c1e9088867dba6dcd03b7a97d7
+ff2008-03-02d2t11.flac:22f346bbe88fd1e5f11940576267bd2a
+

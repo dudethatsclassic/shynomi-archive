@@ -1,0 +1,91 @@
+Foo Fighters
+Rock am Ring
+SEAT Volcano Stage
+Mendig Air Base
+Mendig, Rhineland-Palatinate, Germany
+June 7, 2015
+
+Lineage: Live Webcast -> FFmpeg -> .ts -> Avidemux 2.6 (cut) -> .mkv (no transcoding)
+Video: MPEG4 Video (H264) 1280x720 3500 Kbps 25.00 fps
+Audio: AAC 192 Kbps 48.0 KHz stereo
+
+Setlist: 
+Everlong
+Monkey Wrench
+Learn to Fly
+Something From Nothing
+The Pretender
+Arlandria
+Cold Day in the Sun (preceded by snippets of "I'm the One", "Another One Bites the Dust", & "School's Out")
+Congregation
+Walk
+
+End of Runway Set:
+My Hero (Dave solo acoustic)
+Times Like These (first half Dave solo, second half joined by full band at B-Stage)
+
+B-Stage Set:
+Stay With Me/Happy Birthday (The Faces cover/Stevie Wonder cover with Dave Catching) 
+Let There Be Rock (AC/DC cover)
+Under Pressure (Queen & David Bowie cover)
+
+Main Stage Set:
+All My Life (preceded by snippet of "Stairway to Heaven")
+These Days
+Outside
+Big Me (slow version)
+Breakout
+Best of You
+
+TRT = 2 hrs 19 mins 20 secs
+
+MediaInfo:
+General
+Unique ID                                : 297288002108458019230917293891696558600 (0xDFA796274624165917B3787F8CED8208)
+Complete name                            : Foo Fighters - 2015-06-07 Rock am Ring, Mendig, DE [720p].mkv
+Format                                   : Matroska
+Format version                           : Version 2
+File size                                : 3.67 GiB
+Duration                                 : 2h 19mn
+Overall bit rate                         : 3 773 Kbps
+Writing application                      : Lavf54.63.104
+Writing library                          : Lavf54.63.104
+
+Video
+ID                                       : 1
+Format                                   : AVC
+Format/Info                              : Advanced Video Codec
+Format profile                           : High@L3.2
+Format settings, CABAC                   : Yes
+Format settings, ReFrames                : 2 frames
+Codec ID                                 : V_MPEG4/ISO/AVC
+Duration                                 : 2h 19mn
+Bit rate mode                            : Constant
+Nominal bit rate                         : 3 584 Kbps
+Width                                    : 1 280 pixels
+Height                                   : 720 pixels
+Display aspect ratio                     : 16:9
+Frame rate mode                          : Constant
+Frame rate                               : 25.000 fps
+Color space                              : YUV
+Chroma subsampling                       : 4:2:0
+Bit depth                                : 8 bits
+Scan type                                : Progressive
+Bits/(Pixel*Frame)                       : 0.156
+Default                                  : Yes
+Forced                                   : No
+
+Audio
+ID                                       : 2
+Format                                   : AAC
+Format/Info                              : Advanced Audio Codec
+Format profile                           : LC
+Codec ID                                 : A_AAC
+Duration                                 : 2h 19mn
+Channel(s)                               : 2 channels
+Channel positions                        : Front: L R
+Sampling rate                            : 48.0 KHz
+Compression mode                         : Lossy
+Delay relative to video                  : 1ms
+Default                                  : Yes
+Forced                                   : No

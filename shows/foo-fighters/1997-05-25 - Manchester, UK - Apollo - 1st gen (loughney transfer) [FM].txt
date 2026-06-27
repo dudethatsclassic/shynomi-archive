@@ -1,0 +1,39 @@
+Foo Fighters - 1997 05 25 Apollo, Manchester, UK
+
+Transfer Notes:
+Tape flip at the beginning of Everlong. There's a small glitch where I spliced the sides together. Broadcast by Radio 1.
+
+I'll Stick Around was released on 00979725, I removed it from this torrent.
+https://www.discogs.com/Foo-Fighters-00979725/release/14611084
+
+Band:
+Dave Grohl - Guitar, Vocals
+Nate Mendel - Bass Guitar
+Taylor Hawkins - Drums
+Pat Smear - Guitar
+
+1 Wind Up
+2 Wattershed
+3 Hey, Johnny Park!
+4 Monkey Wrench
+5 Alone + Easy Target
+6 Doll
+7 See You
+8 My Poor Brain
+9 For All The Cows
+10 Enough Space
+11 Big Me
+12 Weenie Beenie
+13 February Stars
+14 Everlong
+15 New Way Home
+16 This Is A Call
+17 Up In Arms
+18 I'll Stick Around
+
+Openers:
+Red Kross
+
+Lineage: FM Broadcast > 1st Gen Tape > Tascam 202MKVII USB out > CDWAV > Audacity (normalization, fades, merges, noise reduction) > CDWAV (splits) > DBPowerAmp (FLAC) [loughney xfer]
+
+

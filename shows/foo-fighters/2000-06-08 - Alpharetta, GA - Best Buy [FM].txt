@@ -1,0 +1,39 @@
+Foo Fighters
+Best Buy
+Alpharetta, GA
+06/08/2000
+
+Source: Soundboard FM (Live Broadcast on 99x)
+
+Lineage: FM >> WAV >> SHN >> WAV >> FLAC
+ (Recorded live to WAV, archived in SHN, encoded to FLAC for distribution.)
+
+Quality: A
+
+File Size: 269MB
+
+01) Intro
+02) Breakout
+03) Learn to Fly
+04) Big Me
+05) My Hero
+06) This Is a Call
+07) Monkeywrench
+08) Baby Hold On to Me / Stairway to Heaven [Teasers]
+09) Everlong
+
+Notes:
+Nate was under the weather and stayed on the bus, so this is Dave, Taylor, and
+Chris playing acoustically in-store at Best Buy.  The set was broadcast live just
+after 1:00pm on 99x.  (The Foo Fighters opened for the Red Hot Chili Peppers that 
+night at Lakewood Amphitheatre in Atlanta.)
+
+ff2000-06-08t01.flac:aebfb369cc6e24bee43319992c18bd03
+ff2000-06-08t02.flac:9e1380f96f3b5c5d5a230dab7634e1f3
+ff2000-06-08t03.flac:c08237556d24a35a41b129d03b667094
+ff2000-06-08t04.flac:a28bd9862136d5103ce7e8a0a461c604
+ff2000-06-08t05.flac:51dd8800cedb96e4b444f9d970d1c6c3
+ff2000-06-08t06.flac:d19ea6cde9419b5bd6be10c4a2dc03a5
+ff2000-06-08t07.flac:0e4d96a7e65f6a02d8300ec8cdeeae0e
+ff2000-06-08t08.flac:d55c3656f304c00174eafc4942ced482
+ff2000-06-08t09.flac:c3102a6ce6bd0549f7d5625a2c4a2300

@@ -1,0 +1,54 @@
+FOO FIGHTERS
+November 13, 2007
+Cardiff International Arena
+Cardiff, Wales
+
+SETLIST:
+-------------------
+01. Come Alive [cuts in]
+02. White Limo [instrumental]
+03. jam
+04. Another Round
+05. Floaty [part of]
+06. Floaty [wavers around within]
+07. jam/tuning
+08. Something [The Beatles cover, w/ Taylor on vocals, alt. innuedo lyrics]
+
+
+SOURCE:
+-------------------
+IEM #1 - Quality: 9.5
+Icom IC-R5 > Edirol R-09HR
+
+Recorded by: Petrock2000
+
+TRANSFER:
+-------------------
+Icom IC-R5 Sport Communications Receiver > Roland R-09HR High-Resolution WAVE/MP3 Recorder > WAV [44.1kHz/24-bit] > Adobe Audition CC 2018 > iZotope Ozone 8 > Har Bal 2.3 > WAV [44.1kHz/16-bit] > FLAC > demucs-4.0.0 (HT Demucs f.t. (v4)) [stem extraction to .WAV] > Adobe Audition 23.3 [mixing/mastering] > xACT 2.52 > FLAC [Level 8]
+
+GENERATION:
+-------------------
+WAV(M) [44.1kHz/24-bit] > WAV [44.1kHz/16-bit] > FLAC [Level 8]
+
+NOTES:
+-------------------
+- This source was artificially split into four separate stems, re-mixed and mastered back into an entirely new mix. This is NOT meant for archival purposes, but for personal enjoyment.
+- This new mix includes a better stereo spread for both guitars and drums, as well as better balance of the high-end. No noise reduction was involved, though some RF interference has been mixed out in some spots.
+- The fuzzy parts and rolling clicks were caused cellphone broadband RF interference. Some of it was cleaned up with EQ'ing on certain stems. 
+- An early version of "White Limo" was played.
+
+
+FLAC FINGERPRINTS:
+-------------------
+foofighters2007-11-13-iem1-kb-t01.flac:1f1514ddeeb82112a833ae1f698bba68
+foofighters2007-11-13-iem1-kb-t02.flac:d301d2c548db4cb3beee5841c7fc5be2
+foofighters2007-11-13-iem1-kb-t03.flac:bad149142fd728a197d24b6bfd4e4ea3
+foofighters2007-11-13-iem1-kb-t04.flac:0f2cd9d8a49f899c7889d4848aca0050
+foofighters2007-11-13-iem1-kb-t05.flac:07be2efa512798a0e0f7c961ada30771
+foofighters2007-11-13-iem1-kb-t06.flac:9741850d6c408fdefc1d97f9f8cf3e4b
+foofighters2007-11-13-iem1-kb-t07.flac:bda615cdafe875984def7bbeafcf9cbf
+foofighters2007-11-13-iem1-kb-t08.flac:8b38b590c7d5b665e37427dd3b3038a1
+
+
+Transferred and encoded by: Petrock2000 & vibrioidxire
+PLEASE DO NOT DISTRIBUTE IN LOSSY FORMATS OR SELL!

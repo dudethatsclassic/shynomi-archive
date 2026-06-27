@@ -1,0 +1,44 @@
+FOO FIGHTERS	
+August 16, 2005
+Paredes de Coura Festival
+Paredes de Coura, Portugal
+
+SOURCE:
+FM broadcast (Ant3na FM - Portuguese channel)
+
+TRANSFER:
+Casa "Scan Radio" FM tuner phones out> Sony 1,65m stereo cable > SB PCI128 linein > Cool Edit Pro 1.2 > FLAC frontend 1.7.1
+
+GENERATION:
+FM > WAV [44.1kHz] > FLAC [Level 8]
+
+BURNED GENERATION WILL BE:
+FM > CDR(1)
+
+LENGTH:
+88:08
+
+NOTE:
+There are some errors at the beggining of In Your Honor that are cable grounding adjustment errors.
+
+TRACKS:
+01. In You Honor
+02. All My Life
+03. Times Like These
+04. My Hero
+05. Best Of You
+06. Up In Arms
+07. Learn To Fly
+08. The Last Song
+09. The One
+10. Stacked Actors
+11. Tired of You
+12. Everlong
+13. DOA
+14. Breakout
+15. Cold Day in The Sun
+16. Monkey Wrench
+
+ADDITIONAL FILES: 2005-08-15 Antena3 FM FF Nate+Dave Interview
+
+PLEASE DO NOT SELL OR ENCODE TO MP3

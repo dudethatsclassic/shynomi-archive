@@ -1,0 +1,51 @@
+Foo Fighters
+July 26th, 1995
+The Fillmore
+San Francisco, CA
+
+SOURCE (AUD #1):
+unknown > unknown
+
+TRANSFER:
+unknown > Adobe Audition CS6 > CDWave 1.98 > Trader's Little Helper 2.7.0
+
+GENERATION:
+Unknown > CDR(x) > WAV [44.1khz] > FLAC [Level 8]
+
+LENGTH:
+61:05
+
+TRACKS:
+01. I'll Stick Around (cuts in)
+02. Winnebago
+03. Wattershed
+04. Big Me
+05. This Is A Call
+06. Weenie Beenie
+07. For All The Cows
+08. Butterflies
+09. X-Static
+10. Good Grief
+11. Alone + Easy Target
+12. Podunk
+13. Exhausted
+14. Down In The Park
+
+MD5 FINGERPRINTS:
+d030a490f3de58bcf26e8ad780223ca4 *01. I'll Stick Around.flac
+bd551d4d3df0ead276cea56e01d61714 *02. Winnebago.flac
+7edde44754175197076b37cfe100bbcb *03. Wattershed.flac
+189d451d2ff812683021c6a4fceab3f0 *04. Big Me.flac
+fd1aff471c63a8faba061ad0a19b6a8f *05. This Is A Call.flac
+809fa415b0f04878b790018b9915d148 *06. Weenie Beenie.flac
+96f5a11108b62247c7d224a25eebf51c *07. For All The Cows.flac
+1684a5c7a1198331e5355317b6e8df36 *08. Butterflies.flac
+226cf7487eba344106978512fa32006c *09. X-Static.flac
+29c7fc3ca0cd0cc4c28e7990580c40e4 *10. Good Grief.flac
+0f28fa5149812a4983e05cca04765f09 *11. Alone + Easy Target.flac
+f0a652bee3fb2def487eedd0e32fea2b *12. Podunk.flac
+af58af0d7656f4e3a8f8ec65788f610d *13. Exhausted.flac
+99ed84d8b86e35915ecf81ff90e5eec6 *14. Down In The Park.flac
+
+TRANSFERRED BY:
+unknown

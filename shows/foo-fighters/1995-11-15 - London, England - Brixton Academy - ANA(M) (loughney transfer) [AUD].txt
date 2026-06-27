@@ -1,0 +1,39 @@
+Foo Fighters - 1995 11 15 Brixton Academy, London
+
+BAND MEMBERS
+Dave Grohl - Guitar, Vocals
+Nate Mendel - Bass Guitar
+Pat Smear - Guitar
+William Goldsmith - Drums
+
+Show note:
+Complete audience recording. Weenie Beenie has the Outshined intro. Good Grief has the Def Leppard intro. Likely a different source than the audience recording listed on foofighterslive.com, as that version has How I Miss You cut by the tape flip, but this has a complete How I Miss You.
+
+Transfer note:
+Tape flip after Podunk.
+
+1 intro
+2 This Is A Call
+3 Winnebago
+4 Wattershed
+5 For All The Cows
+6 Weenie Beenie
+7 Butterflies
+8 Big Me
+9 I'll Stick Around
+10 Oh, George
+11 Good Grief
+12 Podunk
+13 How I Miss You
+14 Alone + Easy Target
+15 Exhausted
+16 Floaty
+17 Up In Arms [The Angry Samoans]
+18 Gas Chamber
+19 My Hero
+20 Down in the Park [Gary Numan]
+
+OTHER PERFORMERS
+Built To Spill
+
+Lineage: Audience Master > unknown gen tape > Tascam 202MKVII > USB > CDWAV > Audacity for fades, normalization, noise reduction > CDWAVE (SPLITS) > FLAC [loughney xfer]

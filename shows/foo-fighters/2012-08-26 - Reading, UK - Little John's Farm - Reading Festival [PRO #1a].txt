@@ -1,0 +1,43 @@
+Foo Fighters
+Reading Festival
+Little John's Farm
+Reading , UK
+
+26th August 2012
+
+Lineage: BBC 3 broadcast stream - Tevii S464 DVB-S2 PCI Card(ProgDVBPro6) - Womble MPEG Video Wizard 5
+
+Menu with chapter selection
+
+Video - PAL 720x576 16:9 25fps
+Audio - MP2 256 Kbps 
+
+01. Intro
+02. White Limo
+03. All My Life
+04. Rope
+05. The Pretender
+06. My Hero
+07. Learn to Fly
+08. Arlandria
+09. Breakout
+10. Cold Day in the Sun
+11. I'll Stick Around
+12. Generator
+13. These Days
+14. Monkey Wrench
+15. Hey, Johnny Park!
+16. Alone and Easy Target
+17. Bridge Burning
+18. This is a Call
+19. In the Flesh
+20. Best of You
+21. Dave Talks
+22. Times Like These
+23. Winnebago
+24. Watershed
+25. For All the Cows
+26. Exhausted
+27. Everlong
+
+Runnin Time - 2hrs 20m

@@ -1,0 +1,53 @@
+Foo Fighters
+August 2nd, 1995
+Ogden Theatre
+Denver, CO
+
+SOURCE (AUD #1):
+Sony ECM-155a > Casio DA-R100 (DAT)
+
+TRANSFER:
+DA20mkII >LynxONE > Adobe Audition CS6 > CD Wave 1.98 > Trader's Little Helper 2.7.0
+
+GENERATION:
+DAT(1) > WAV [48khz] > WAV [44.1khz] > FLAC [Level 8]
+
+LENGTH:
+61:23
+
+TRACKS:
+01. Winnebago 
+02. I'll Stick Around 
+03. Butterflies
+04. Wattershed 
+05. Big Me
+06. This Is A Call 
+07. Weenie Beenie
+08. For All the Cows
+09. My Hero 
+10. X-Static
+11. Podunk
+12. Alone + Easy Target
+13. Exhausted
+14. Down in the Park
+
+MD5 FINGERPRINTS:
+4009263427ab86d0b646b4c48c813c02 *FooFighters1995-08-02t01.flac
+5c6d28c2d16d3c4b767446862c5146ad *FooFighters1995-08-02t02.flac
+ad5e52e1c421a1cac5823b6208183ec4 *FooFighters1995-08-02t03.flac
+8021ee8944e4c6c5d34ecb30544dfb92 *FooFighters1995-08-02t04.flac
+98ad0a79d9ba990b9c5ff1fb758f68e7 *FooFighters1995-08-02t05.flac
+c3f59c733b24da088241b64e2ec68e4b *FooFighters1995-08-02t06.flac
+0e356d9d2e3a669b339210c26741fd9f *FooFighters1995-08-02t07.flac
+48a7aeb096bc4502adfc566530ef4431 *FooFighters1995-08-02t08.flac
+b537133885ddf867a4f51d638320baf2 *FooFighters1995-08-02t09.flac
+a53029398c69985490972f5637dce42f *FooFighters1995-08-02t10.flac
+d6f297819ed5a02a47275149cd2c324f *FooFighters1995-08-02t11.flac
+fbd5f9438d49c8d3143650043aac9127 *FooFighters1995-08-02t12.flac
+06369bff3825d3f2f1feceffb9f5ba11 *FooFighters1995-08-02t13.flac
+078e36c420d7016ea7204de63626a12c *FooFighters1995-08-02t14.flac
+
+TRANSFERRED BY:
+Mike Ziegler
+
+**PLEASE DO NOT ENCODE TO LOSSY FORMATS OR SELL!**

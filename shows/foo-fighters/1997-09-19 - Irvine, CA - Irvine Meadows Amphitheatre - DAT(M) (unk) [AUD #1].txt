@@ -1,0 +1,64 @@
+FOO FIGHTERS
+September 19, 1997
+Irvine Meadows Amphitheatre
+Irvine, CA, US
+
+SETLIST:
+-------------------
+00. intro/banter
+01. intro jam w/ Dave and Taylor drumming
+02. This Is A Call ->
+03. Enough Space
+04. Hey, Johnny Park!
+05. Monkey Wrench
+06. Alone + Easy Target
+07. Doll
+08. See You
+09. The Colour And The Shape
+10. For All The Cows
+11. Weenie Beenie
+12. Everlong
+13. New Way Home
+14. I'll Stick Around
+
+
+SOURCE:
+-------------------
+AUD #1 - Quality: 8.5
+unknown > unknown (DAT)
+
+TRANSFER:
+-------------------
+unknown mic > unknown DAT recorder > DAT(M) > ANA(1) > CDR(3) > Exact Audio Copy > Adobe Audition 22.5 [post-production/mastering] > xACT 2.50 > FLAC [Level 8]
+
+GENERATION:
+-------------------
+DAT(M) > ANA(1) > CDR(3) > FLAC [Level 8]
+
+NOTES:
+-------------------
+- This was the first show that Dave and Taylor played a double drum intro to the show.
+- "The Colour And The Shape" debuts at this show.
+
+
+FLAC FINGERPRINTS:
+-------------------
+foofighters1997-09-19-aud1-t00.flac:9cd851d63df20c183caa097737222ddb
+foofighters1997-09-19-aud1-t01.flac:6a377676d964e3311d2958d39085c5a3
+foofighters1997-09-19-aud1-t02.flac:40f0bfdacd5421366f41305d40782f71
+foofighters1997-09-19-aud1-t03.flac:3078682abb28b5ce860dab4cacecabe9
+foofighters1997-09-19-aud1-t04.flac:063175adea18648c37b22f835512179d
+foofighters1997-09-19-aud1-t05.flac:594410646cb5778bc21c1a7438dcf1c0
+foofighters1997-09-19-aud1-t06.flac:ea6f43c6714776a11780d7a5e5e9aab6
+foofighters1997-09-19-aud1-t07.flac:113fb9a7155bdb27a519dd7bee1c904b
+foofighters1997-09-19-aud1-t08.flac:f34ff0b7dea99f7df1b89cd4be8fac84
+foofighters1997-09-19-aud1-t09.flac:d5759f1102a05e5fd7125a4c57434b6c
+foofighters1997-09-19-aud1-t10.flac:d0ec8042b34e13bdb2112bc4eb1f3771
+foofighters1997-09-19-aud1-t11.flac:d7a604a0640bab3205bd3c7984485a9f
+foofighters1997-09-19-aud1-t12.flac:ebaa6a4a63239585fcf310e5a1f14928
+foofighters1997-09-19-aud1-t13.flac:7d1601ff7918849c9ecc2b9c9e0d2bc9
+foofighters1997-09-19-aud1-t14.flac:72b42e85dd5ec1eddf247f7f298fcb39
+
+
+Transferred and encoded by: unknown & vibrioidxire
+PLEASE DO NOT DISTRIBUTE IN LOSSY FORMATS OR SELL!

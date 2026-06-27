@@ -1,0 +1,51 @@
+FOO FIGHTERS (AS THE CHURNUPS)
+June 23, 2023
+Worthy Farm (Glastonbury Festival)
+Pilton, UK 
+
+SETLIST: 
+------------------- 
+01. All My Life
+02. No Son of Mine [w/ "Enter Sandman" and "Paranoid" riffs]
+03. Learn to Fly
+04. Rescued
+05. The Pretender
+06. My Hero
+07. Sabotage [introductory jam, aborted]
+08. Show Me How [w/ Violet Grohl]
+09. Best of You
+10. EVerlong
+
+
+SOURCE (58:26):
+-------------------
+AMT #1 - Quality: 10.0
+soundboard > multi-cam edit
+
+TRANSFER:
+-------------------
+BBC iPlayer > MP4 > VideoReDo > MKV
+
+FORMAT:
+-------------------
+VOD > MKV
+
+NOTES:
+-------------------
+- Surprise set, listed as "THE CHURNUPS" on the schedule. Playing the same stage, night and spot (Pyramid, Fri, 2nd from headliner) as their Glastonbury debut 25 years earlier.
+
+
+A/V CODECS:
+-------------------
+Video: h264 (High), yuv420p(tv, bt709, progressive), 1280x720 [SAR 1:1 DAR 16:9], 50 fps, 50 tbr, 1k tbn
+
+Audio: aac (LC), 48000 Hz, stereo, fltp (default), 128kbps
+
+
+MD5 FINGERPRINTS:
+-------------------
+949034f1e2b22e1704b976c3cf2bb9cd *foofighters2023-06-23-pro1.mkv
+
+
+Transferred and encoded by: FooFightersLive.com
+PLEASE DO NOT DISTRIBUTE IN LOSSY FORMATS OR SELL!

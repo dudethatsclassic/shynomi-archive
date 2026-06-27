@@ -1,0 +1,21 @@
+Artist: Foo Fighters
+Date: 17th August, 2001
+Venue: Bizarre Festival, Weeze, Germany
+Source: HDTV (720P) > TS
+Video: MPEG4 Video (H264) 1280x720 50fps 
+Audio: MPEG Audio 48000Hz stereo 192kbps [German MP2, 48000 Hz, Stereo, 192 kb/s]
+Audio: MPEG Audio 48000Hz stereo 192kbps [Miscellaneous Languages MP2, 48000 Hz, Stereo, 192 kb/s]
+Audio: Dolby AC3 48000Hz stereo 448kbps  [German AC3, 48000 Hz, Stereo, 448 kb/s]
+Length: 00:29:39
+Size: 2.87 GB
+
+Track List
+
+Monkey Wrench
+Hey, Johnny Park!
+M.I.A.
+Everlong
+Generator
+For All The Cows
+
+Notes: Incomplete HD broadcast from 2014.

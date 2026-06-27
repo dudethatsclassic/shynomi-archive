@@ -1,0 +1,37 @@
+Foo Fighters 
+2017-06-29 
+Gdynia, Poland 
+Gdynia-Kosakowo Airport 
+Open'er Festival 
+
+Lineage: YouTube LIVE Webcast > Streamlink > FFmpeg > .ts 
+
+Video: H264/1920x1080p/30fps/5000Kbps
+Audio: AAC/2.0/48KHz/128Kbps
+
+Setlist:
+All My Life
+Times Like These
+Learn to Fly
+Something From Nothing
+The Pretender
+Another One Bites the Dust / School's Out (Queen/Alice Cooper snippets played during band introductions)
+Cold Day in the Sun
+Congregation
+Walk
+These Days
+My Hero
+Skin and Bones
+La Dee Da (with Alison Mosshart)
+White Limo
+Arlandria
+Monkey Wrench
+Wheels (slow version)
+Run
+Best of You
+Everlong
+
+Length: 02:13:26
+_____
+SBR1Z
+2017

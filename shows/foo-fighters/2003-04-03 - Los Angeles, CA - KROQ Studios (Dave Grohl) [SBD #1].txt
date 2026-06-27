@@ -1,0 +1,40 @@
+DAVE GROHL
+April 3, 2003
+KROQ Studios
+Los Angeles, CA
+
+SOURCE (SBD #1):
+soundboard > unknown
+
+TRANSFER:
+Sony TCD-D100 > Dio 2496 > Sony Soundforge > Rubyripper > Traders Little Helper 2.6.0
+
+GENERATION:
+FM > DAT(1) > CDR(1) > WAV [44.1khz] > FLAC [Level 8]
+
+LENGTH:
+20:49
+
+NOTES:
+- Both songs performed solo acoustically.
+
+TRACKS:
+01. interview part 1
+02. Times Like These
+03. interview part 2
+04. interview part 3
+05. Everlong
+06. interview part 4
+
+MD5 FINGERPRINTS:
+b4285f274ddceb3f4a1e68c59c84d386 *dg2003-04-03t01.flac
+7beed65383e131caf034d823379c9373 *dg2003-04-03t02.flac
+456f324e43da4bf348d394dd5912ec88 *dg2003-04-03t03.flac
+ff0b17fc38f9ab19b0e0410f6ca8a144 *dg2003-04-03t04.flac
+7ec64c87bdf2176503785006572b083d *dg2003-04-03t05.flac
+00929b506104de7fcc4f5becdaead95b *dg2003-04-03t06.flac
+
+TRANSFERRED BY:
+The Taper
+
+**PLEASE DO NOT ENCODE TO LOSSY FORMATS OR SELL!**

@@ -1,0 +1,49 @@
+FOO FIGHTERS
+July 1st, 2005
+Sitter Valley (Open Air Festival)
+St. Gallen, Switzerland
+
+SETLIST (61:02)
+---------------
+01) In Your Honor
+02) All My Life
+03) Times Like These
+04) Learn To Fly
+05) My Hero
+06) jam
+07) Best Of You
+08) Up In Arms
+09) Stacked Actors
+10) Monkey Wrench
+11) Tired Of You (cuts in)
+12) Everlong
+
+GENERATION
+---------------
+DVB-s -> MP2 [192kbps] -> WAV [48khz] -> WAV [44.1khz] -> FLAC [Level 8]
+
+SOURCE (PRO #1)
+---------------
+soundboard -> unknown
+
+TRANSFER
+---------------
+SUPER -> Adobe Audition 2 -> CD Wave 1.91 -> FLAC Frontend 1.7.1
+
+MD5 FINGERPRINTS
+----------------
+753716c8cab7947bc8ceed83c21200f4 *FooFighters2005-07-01t01.flac
+8f0bfbdee34b449eb3109764c14467f4 *FooFighters2005-07-01t02.flac
+fa9237b477accdadf4a6ce2ca2a8e5f0 *FooFighters2005-07-01t03.flac
+147c9c97f53f0b3ace3f2fc6b8b9adb8 *FooFighters2005-07-01t04.flac
+bf3df8d0989a59652f7ae70b11083987 *FooFighters2005-07-01t05.flac
+8b6dfa949c1603ce884a9a4ecc41f07a *FooFighters2005-07-01t06.flac
+dc696e039ea59cbaa60561f41ee2946c *FooFighters2005-07-01t07.flac
+73f87b35d7b233f4b3f38a2a0e19f6b5 *FooFighters2005-07-01t08.flac
+6b7f2bd659d054023aace01c0b6978af *FooFighters2005-07-01t09.flac
+9d572182ad3dc309c12c8a7a4e82a05f *FooFighters2005-07-01t10.flac
+c96aa7a7f98e1f7efd7708a20eff86f8 *FooFighters2005-07-01t11.flac
+a340f9c15254371ea0ab0c82c9566fea *FooFighters2005-07-01t12.flac
+
+Transferred by Simon Kilmore.
+DO NOT ENCODE TO LOSSY FORMATS OR SELL!

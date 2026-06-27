@@ -1,0 +1,52 @@
+FOO FIGHTERS
+August 15th, 1997
+Butzweiler Court (Bizarre Festival)
+Cologne, Germany
+
+SOURCE (PRO #1b):
+soundboard > unknown
+
+EXTRACTION:
+CDR > Rubyripper > FLAC.exe > Adobe Audition 3.0 > CD Wave 1.98 > Traders Little Helper
+
+GENERATION:
+TV > DAT(x) > CDR(1) > WAV [44.1khz] > FLAC [Level 8]
+
+LENGTH:
+43:21
+
+NOTES:
+- Mixed live on the fly so parts of 'Enough Space' are unbalanced to begin with before adjustment.
+
+TRACKS:
+01. Enough Space
+02. Wattershed
+03. Hey, Johnny Park!
+04. Monkey Wrench
+05. Alone + Easy Target
+06. Doll
+07. See You
+08. For All The Cows
+09. Everlong
+10. This Is A Call
+11. I'll Stick Around
+12. interview
+
+MD5 FINGERPRINTS:
+59cdd8a62d8e87a091fd442036b330f4 *FooFighters1997-08-15t01.flac
+ed75a27b7bbe79fbb5d3a0587011cf18 *FooFighters1997-08-15t02.flac
+01eeb983f319265d85aeb610f241f96d *FooFighters1997-08-15t03.flac
+89981cdb0749326e26bcb35640438443 *FooFighters1997-08-15t04.flac
+4e27463dd30c71efc12423f26b407b82 *FooFighters1997-08-15t05.flac
+520c191e152466c6fa96e7f6c811fa47 *FooFighters1997-08-15t06.flac
+089242a4c09ee79aac0d5f083893b364 *FooFighters1997-08-15t07.flac
+2e5391e2a99c79e1f6f789178ebc2134 *FooFighters1997-08-15t08.flac
+718b883b988d3c47c02734ddb849cd69 *FooFighters1997-08-15t09.flac
+411534b99c3a2585fe5af87e9a62fe4c *FooFighters1997-08-15t10.flac
+38bb0b497590f61e12431676e5ffb546 *FooFighters1997-08-15t11.flac
+4c2d1cba163f8f0fb81959e633d4fe14 *FooFighters1997-08-15t12.flac
+
+TRANSFERRED BY:
+Anonymous
+
+**PLEASE DO NOT ENCODE TO LOSSY FORMATS OR SELL!**

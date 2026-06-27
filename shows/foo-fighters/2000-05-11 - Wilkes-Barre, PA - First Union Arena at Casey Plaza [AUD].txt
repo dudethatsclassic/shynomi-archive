@@ -1,0 +1,23 @@
+Foo Fighters
+First Union Arena at Casey Plaza
+Wilkes-Barre, PA
+May 11, 2000
+
+Source: D8/CSBmod
+Processing: Tascam DA-20>HHB CDR850>CDR>EAC>Sound Forge 6.0b (Regions>mkwACT>.shn
+
+Setlist:
+01- Intro
+02- Monkey Wrench
+03- Learn to fly
+04- My hero
+05- For All the Cows
+06- Break Out
+07- Big me
+08- Stacked Actors
+09- Next Year
+10- I'll Stick Around
+11- Alone & Easy Target
+12- Everlong
+13- This is a Call
+

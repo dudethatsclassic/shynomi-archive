@@ -1,0 +1,69 @@
+FOO FIGHTERS
+November 3rd, 2000
+The Tabernacle
+Atlanta, GA
+
+SOURCE (SBD #1):
+soundboard > unknown
+
+TRANSFER:
+unknown
+
+GENERATION:
+FM > WAV [44.1khz] > FLAC [Level 8]
+
+LENGTH:
+100:16
+
+NOTES:
+- Live simulcast on 99x. 
+- The first thirty seconds of Breakout sourced from TV > VHS(1) of PRO #1 before the FM broadcast began.
+- 'This Is A Call' cuts out but includes a few seconds more than the TV broadcast.
+- All DJ banter removed.
+
+TRACKS:
+01. Breakout
+02. My Hero
+03. Doll
+04. See You
+05. New Way Home
+06. Aurora
+07. Stacked Actors
+08. Up in Arms
+09. Next Year
+10. Learn to Fly
+11. I'll Stick Around
+12. Headwires
+13. Hey, Johnny Park
+14. Monkey Wrench
+15. M.I.A.
+16. Everlong
+17. Ain't It the Life
+18. My Poor Brain
+19. This Is a Call (cuts out)
+
+MD5 FINGERPRINTS:
+60d569e061e17cd2a472524e58727536 *FooFighters2000-11-03t01.flac
+21f08d925d32f202ed13b1c8dfba162e *FooFighters2000-11-03t02.flac
+92a4f3ea507fae8edb201b87d8ca6a2d *FooFighters2000-11-03t03.flac
+75f436fb0db696cb790c081cdb9fd571 *FooFighters2000-11-03t04.flac
+232637104c79a72227bebe51d75691a5 *FooFighters2000-11-03t05.flac
+32fd08fc227993284aca3725a24ecea3 *FooFighters2000-11-03t06.flac
+6e5383d5bca62492d22d535aa8c92481 *FooFighters2000-11-03t07.flac
+df1ea61a3640ae0943e351fac1ebe27c *FooFighters2000-11-03t08.flac
+48361cf453a46256ea12bc613467533f *FooFighters2000-11-03t09.flac
+ee39875e51c0202bab4d33adc2c0d16f *FooFighters2000-11-03t10.flac
+e918002ed05f6cd372a942c30e9499cf *FooFighters2000-11-03t11.flac
+0b38db8ce95d7fb031f50351c364d43b *FooFighters2000-11-03t12.flac
+360812a7aed5de895e94df31fae9dba7 *FooFighters2000-11-03t13.flac
+00de907dd860371cac1359310d367f3d *FooFighters2000-11-03t14.flac
+1cf5fc17a87d69004ae16b8f00642d00 *FooFighters2000-11-03t15.flac
+fc44a9e75c015a5e5de1bdd06296ec03 *FooFighters2000-11-03t16.flac
+7cedd5163b9a7cb6bb3483e2ebcba4f9 *FooFighters2000-11-03t17.flac
+63ae47d5ab24fcccbfeb1c1d10ca7360 *FooFighters2000-11-03t18.flac
+011025e6e1a58ffcc77315cc03798d75 *FooFighters2000-11-03t19.flac
+
+RECORDED AND TRANSFERRED BY:
+Scott Honda
+
+**PLEASE DO NOT ENCODE TO LOSSY FORMATS OR SELL!**

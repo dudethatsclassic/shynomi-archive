@@ -1,0 +1,45 @@
+Foo Fighters
+March 4th, 1995
+Velvet Elvis Arts Lounge
+Seattle, WA
+
+SOURCE (AUD #2):
+unknown > unknown (DAT)
+
+TRANSFER:
+Nakamichi CR-7A > Canare Cable > D.A.L. CardDeluxe > Adobe Audition CS6 > Adobe Audition 3.0 > CD Wave 1.98 > flac 1.3.2
+
+GENERATION:
+DAT(M) > ANA(1) > WAV [44.1khz/16-bit] > FLAC [Level 8]
+
+LENGTH:
+44:20
+
+TRACKS:
+01. intro/soundcheck
+02. Butterflies
+03. Winnebago
+04. Floaty
+05. Big Me
+06. Wattershed
+07. For All The Cows
+08. I'll Stick Around
+09. Alone + Easy Target
+10. Podunk
+11. Exhausted
+
+MD5 FINGERPRINTS:
+276e2e6ca4b21770370a62d9ee45fffe *01. intro.flac
+ef9db749892f3c98e0a0d4f08e154bca *02. Butterflies.flac
+7d9b88058a68ecf8fc8ff454bd7b3e7e *03. Winnebago.flac
+d5ebfc8714295201038512721e02b172 *04. Floaty.flac
+c221dce7fb134761ee83858f5a7e4b56 *05. Big Me.flac
+7dade95d74608b5a99b8d2ee05b187fc *06. Wattershed.flac
+c234d5da1ade3b7ff91d60291a382b21 *07. For All The Cows.flac
+48fafb06804ad38d7b56fc63b2da11d1 *08. I'll Stick Around.flac
+fc90ddb9d716a4c3f77438fb1a36475e *09. Alone + Easy Target.flac
+ca96c72bf7d7f513a283ae6ae8b47306 *10. Podunk.flac
+0cde3ad4eaea9b16a1126c84220d40ed *11. Exhausted.flac
+
+TRANSFERRED BY:
+Rob Landis

@@ -1,0 +1,64 @@
+FOO FIGHTERS
+November 12, 1995
+Town & Country Club
+Leeds, United Kingdom
+
+DISC #1/1 (66:58)
+-----------------
+01. Enough Space
+02. This Is A Call
+03. Winnebago
+04. Wattershed
+05. For All The Cows
+06. Weenie Beenie
+07. Butterflies
+08. Big Me
+09. I'll Stick Around
+10. Oh, George
+12. Good Grief
+12. Podunk
+13. Alone + Easy Target
+14. Exhausted
+15. Floaty
+16. Up In Arms
+17. My Sharona (jam)
+18. Gas Chamber
+19. My Hero
+
+GENERATION
+-----------------
+ANA(M) -> WAV [48kHz] -> WAV [44.1kHz] ->  FLAC [Level 8]
+
+SOURCE (AUD #1)
+-----------------
+Panasonic WM-55 -> Sony WM-D6
+
+TRANSFER
+-----------------
+Nakamichi DR-3 -> RCA to 1/4" TS custom Klotz cables -> Echo Mia Midi analog-in -> Adobe Audition 2.0 -> CD Wave 1.95.1 -> FLAC Frontend 1.7.1
+
+MD5 FINGERPRINTS
+-----------------
+20b271f902ee0e826979bbf4e664bb70 *foofighters_1995-11-12_aud1_anam_d1t01.flac
+55640be54b21c1ea95ddcaea54c497b2 *foofighters_1995-11-12_aud1_anam_d1t02.flac
+4d51030add0e6401860ec564b773e5c0 *foofighters_1995-11-12_aud1_anam_d1t03.flac
+ce94c6d2c854435c6e28246856b24ce4 *foofighters_1995-11-12_aud1_anam_d1t04.flac
+8ba016df1b7ee648427e5301a66d53d2 *foofighters_1995-11-12_aud1_anam_d1t05.flac
+e5f842221afc8ce88e1135a3148e718e *foofighters_1995-11-12_aud1_anam_d1t06.flac
+2a22be12c3f62530f48cacd89997e73d *foofighters_1995-11-12_aud1_anam_d1t07.flac
+15c8e366db49526526068a4c7b4c8237 *foofighters_1995-11-12_aud1_anam_d1t08.flac
+f7864656487228d7207e880f94e22d66 *foofighters_1995-11-12_aud1_anam_d1t09.flac
+9b51020da05c35892b57bdc836df481b *foofighters_1995-11-12_aud1_anam_d1t10.flac
+a1fe599f606c51ec4150bad345b32948 *foofighters_1995-11-12_aud1_anam_d1t11.flac
+aaf7854a860a051e48c952de5bbd1da7 *foofighters_1995-11-12_aud1_anam_d1t12.flac
+bac22d91f4230426df9186c07538a4dd *foofighters_1995-11-12_aud1_anam_d1t13.flac
+09ba19927ba6274a0bc7089ccc1a06bd *foofighters_1995-11-12_aud1_anam_d1t14.flac
+ebb3ce6805205ae686e76b68a59a4f67 *foofighters_1995-11-12_aud1_anam_d1t15.flac
+636c0d2d2ebf8614e21d682bb1110746 *foofighters_1995-11-12_aud1_anam_d1t16.flac
+03871724ce1e24b8dd7e682631a5d17b *foofighters_1995-11-12_aud1_anam_d1t17.flac
+911025d262b9a4b10e356a565fcac9ff *foofighters_1995-11-12_aud1_anam_d1t18.flac
+be8e7c830ca8bba10196434fbb871de7 *foofighters_1995-11-12_aud1_anam_d1t19.flac
+
+Taped by Monk
+Transferred by Pierre Leroy
+DO NOT ENCODE TO MP3 OR SELL!

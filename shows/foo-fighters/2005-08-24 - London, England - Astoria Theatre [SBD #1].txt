@@ -1,0 +1,41 @@
+Foo Fighters
+August 24, 2005
+Astoria Theatre
+London,England
+
+Disc #01/01 (46:37)
+-------------------
+
+01) Intro
+02) Times Like These
+03) D.O.A
+04) Interview (part 1)
+05) Best Of You
+06) The Last Song
+07) Interview (part 2)
+08) For All The Cows
+09) Interview (part 3)
+10) My Hero
+11) Interview (part 4)
+12) Aurora
+13) Interview (part 5 Chris)
+14) All My Life
+
+GENERATION
+-------------------
+FM Broadcast through Digital TV -> WAV [ 44.1kHZ] -> FLAC [level 8]
+
+SOURCE (SBD#1)
+-------------------
+FM Broadcast
+
+TRANSFER
+-------------------
+Digital TV -> Nero Sound Recorder -> CD Wave 1.9.5.53 -> FLAC Frontend 1.7.1
+
+NOTES
+-------------------
+
+The Mix was quite frankly, Awful.
+There are 2 Dropouts in DOA.
+The songs are not in order that they were played.

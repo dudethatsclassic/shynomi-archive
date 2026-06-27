@@ -1,0 +1,44 @@
+Foo Fighters
+FedEx Forum
+Memphis, TN
+January 25th, 2008
+
+
+Location: Opposite from stage, Row S
+Source: DPA 4061 > Church Audio ST-9100 preamp > iRiver H140 rOCKBOX
+Transfer: iRiver H140 > > USB > PC > wavelab (EQ/edit/fade) > CD Wave (tracking/FLAC) > Winamp (tags)
+Taper: bugg100
+
+Setlist:
+01.
+02.
+03.
+04.
+05.
+06.
+07.
+08.
+09.
+-Acoustic Stage-
+10.
+11. Marigold
+12.
+13.
+14.
+15.
+16.
+-Main Stage-
+17.
+18.
+-Encore Break-
+19.
+20.
+21.
+
+Total Runtime: 1:54:49
+
+Show notes:
+
+
+
+Mic cable came unplugged at 01:01:14 - 01:01:28. I cloned from left channel to right to minimze loss and deleted all silence. My apologies.... Really, sorry.

@@ -1,0 +1,45 @@
+FOO FIGHTERS
+August 12, 2000
+Le Parterre, Parc Jean Drapeau (Summersault Festival)
+Montreal, Quebec
+
+SOURCE: (SBD #1b)
+soundboard > unknown
+
+EXTRACTION:
+Pioneer DVR-116D > Exact Audio Copy v0.99 pre-beta 5 > Adobe Audition 3 > CD Wave 1.97 > Traders Little Helper 1.41
+
+GENERATION:
+Radio Disc [Westwood One "In Concert" #03-16] > WAV [44.1kHz] > FLAC [Level 8]
+
+NOTES:
+- 'This Is A Call' cuts in.
+- Incomplete, missing everything before 'This Is A Call'.
+
+LENGTH:
+27:35
+
+TRACKS:
+01. This Is A Call (cuts in)
+02. Big Me
+03. Stacked Actors
+04. Have A Cigar
+05. Next Year
+06. Into The Void (jam)
+07. Monkey Wrench
+08. Everlong
+
+MD5 FINGERPRINTS:
+7091d4ad3ce4fd34bb07397195011c83 *FooFighters2000-08-12t01.flac
+893b1780e5dff436ff5b6e3760740db2 *FooFighters2000-08-12t02.flac
+002aaa6f79b10fef2115d43f7ec429d3 *FooFighters2000-08-12t03.flac
+fed10b26133be7154f0a803aa9de5ef7 *FooFighters2000-08-12t04.flac
+2048d321409ec72a5ff1d428a1b99522 *FooFighters2000-08-12t05.flac
+a68bfaf4335770a9d4a27392fc85c485 *FooFighters2000-08-12t06.flac
+690ee3e239c7c425a802e4bd3c76962c *FooFighters2000-08-12t07.flac
+baa16e238b002f6786b56f20f1a081a8 *FooFighters2000-08-12t08.flac
+
+EXTRACTED BY:
+Simon Kilmore
+
+**PLEASE DO NOT ENCODE TO LOSSY FORMATS OR SELL!**
