@@ -1,0 +1,57 @@
+Chris Shiflett Solo Acoustic
+Terminal West
+Atlanta, Georgia
+2/24/2019 
+
+Source: Schoeps MK4V'S>CMC6>Lunatec V2>Sound Devices 722 (24/44.1)
+FOB/DFC/KFC/ZFC/AARP Claped To The Front Of The Balcony
+DSP: Sound Devices 722>Sound Forge 10.0>CD Wave>flac(16)
+ID3 Tagged In Foobar 2000
+Recorded By: Z-Man
+Seeded By: Z-Man 
+
+Disc I 
+
+01 Greeting
+02 ?
+03 Blow Out The Candles
+04 Fools Gold
+05 I Thought You'd Never Leave
+06 This Old World Has Lost It's Mind
+07 Welcome To Your First Heartache
+08 Good Nigt Little Rock
+09 ?
+10 Tonight I'm Drinkin' About Me And You
+11 I'm Still Drunk
+12 West Coast Town 
+
+chris2019-02-24d01t01.flac:f5268166a99cf851d045aa3f6387ffaa
+chris2019-02-24d01t02.flac:ec6e3120f8bd2740e060fddf9903a581
+chris2019-02-24d01t03.flac:c96bc24f914172292aec317690af4c17
+chris2019-02-24d01t04.flac:e77aed1b4f90e4f9dee6eb4ddf727a5c
+chris2019-02-24d01t05.flac:7527717c0a88150c5119d1938734412a
+chris2019-02-24d01t06.flac:728a1e99a2dd402737f1ed08fbd70f9a
+chris2019-02-24d01t07.flac:a3ec276f565084ecbcc8d61f5d293bb8
+chris2019-02-24d01t08.flac:72c318def871f2822b2bde5390b8807a
+chris2019-02-24d01t09.flac:5b4f02795eff63d0b01cea2dd67b91b2
+chris2019-02-24d01t10.flac:5cceadbfde30fc1ea501f2a085b52c10
+chris2019-02-24d01t11.flac:d0e0c8e69e2c3853da15dc386c630e95
+chris2019-02-24d01t12.flac:76d7efc6c2890322d0bfb6e109beb44e
+
+length     expanded size    cdr  WAVE problems  fmt   ratio  filename
+     0:32.39        5736572 B   ---   --   ---xx   flac  0.3741  chris2019-02-24d01t01.flac
+     3:35.31       37998956 B   ---   --   ---xx   flac  0.4559  chris2019-02-24d01t02.flac
+     4:24.54       46696652 B   ---   --   ---xx   flac  0.4058  chris2019-02-24d01t03.flac
+     3:31.53       37345100 B   ---   --   ---xx   flac  0.4235  chris2019-02-24d01t04.flac
+     3:08.44       33266732 B   ---   --   ---xx   flac  0.4095  chris2019-02-24d01t05.flac
+     4:38.35       49121564 B   ---   --   ---xx   flac  0.4172  chris2019-02-24d01t06.flac
+     4:07.16       43608476 B   ---   --   ---xx   flac  0.3726  chris2019-02-24d01t07.flac
+     5:31.51       58508396 B   ---   --   ---xx   flac  0.3965  chris2019-02-24d01t08.flac
+     3:05.16       32671676 B   ---   --   ---xx   flac  0.4865  chris2019-02-24d01t09.flac
+     4:44.58       50234060 B   ---   --   ---xx   flac  0.4148  chris2019-02-24d01t10.flac
+     3:59.45       42265484 B   ---   --   ---xx   flac  0.4230  chris2019-02-24d01t11.flac
+     4:11.25       44335244 B   ---   --   ---xx   flac  0.4467  chris2019-02-24d01t12.flac
+    45:31.17      481788912 B                            0.4197  (12 files)
+
+
+

@@ -1,0 +1,71 @@
+CHRIS SHIFLETT
+December 14, 2022
+Moe's Alley
+Santa Cruz, CA, US
+
+SETLIST:
+-------------------
+00. intro/banter
+01. Liar's Word
+02. Sticks & Stones
+03. The Girl's Already Gone ->
+04. I Thought You'd Never Leave
+05. Room 102
+06. This Ol' World [aborted]
+07. This Ol' World
+08. Marfa on My Mind
+09. Overboard
+10. I'm Still Drunk
+11. Dead and Gone
+12. Goodnight Little Rock
+13. Welcome to Your First Heartache
+14. Long, Long Year
+15. Blow Out the Candles
+16. Born & Raised
+17. West Coast Town
+
+
+SOURCE:
+-------------------
+AUD #1 - Quality: 9.0
+built-in mics > Sony PCM-A10
+
+Recorded by: anonymous
+
+TRANSFER:
+-------------------
+built-in mics > Sony PCM-A10 High-Resolution Digital Audio Recorder > WAV [48kHz/24-bit] > USB connector > Sony PC-U004 USB 2.0 cable > WD USB-to-USB-C adapter > Apple MacBook Pro (16-inch, 2021) > Adobe Audition 23.1 [post-production/mastering] > xACT 2.51 > FLAC [Level 8]
+
+GENERATION:
+-------------------
+WAV(M) [48kHz/24-bit] > FLAC [Level 8]
+
+NOTES:
+-------------------
+- Only Chris and the drummer played as the rest of the band were sick. The rest of the instruments were played off of a MacBook.
+
+
+FLAC FINGERPRINTS:
+-------------------
+chrisshiflett2022-12-14-aud1-t00.flac:7b8321c088a979e9927c3948649c7b0b
+chrisshiflett2022-12-14-aud1-t01.flac:a41c941806b915f1a79a3c56dbcb40fb
+chrisshiflett2022-12-14-aud1-t02.flac:4ca3ed5b7f122c1b11e6316ef91feadb
+chrisshiflett2022-12-14-aud1-t03.flac:608f378344b9d854662e4bff306fc599
+chrisshiflett2022-12-14-aud1-t04.flac:5d0dfa2a4f8d4872919ca546375f8194
+chrisshiflett2022-12-14-aud1-t05.flac:a67864005851a01b5ba86ec01089295b
+chrisshiflett2022-12-14-aud1-t06.flac:43b75febe0d24acb8d3983b7b3346f19
+chrisshiflett2022-12-14-aud1-t07.flac:5f1877178611fec2846d5a73dabb0e9a
+chrisshiflett2022-12-14-aud1-t08.flac:5be92b35a93b25535b13a86e2236690b
+chrisshiflett2022-12-14-aud1-t09.flac:6d6bb17266a79116cc594290d1e80dd9
+chrisshiflett2022-12-14-aud1-t10.flac:9941ed19cfbd20e5dc93a6e544fa1b1c
+chrisshiflett2022-12-14-aud1-t11.flac:4da0b9383f0e89fd0065808eb528650d
+chrisshiflett2022-12-14-aud1-t12.flac:72a4dbc920db0a9b516b513c441d650e
+chrisshiflett2022-12-14-aud1-t13.flac:6d9a66bcf84e0ec0ce219a258b1b3de3
+chrisshiflett2022-12-14-aud1-t14.flac:7fa68bc4e8b2c19c897e27cad0ec8060
+chrisshiflett2022-12-14-aud1-t15.flac:59b6d0a2d95dc443845d0e7032cad4b2
+chrisshiflett2022-12-14-aud1-t16.flac:d6d5fc5718e9f18f0d4b8c78cde4cdd6
+chrisshiflett2022-12-14-aud1-t17.flac:0bc596ece440ab801c34659a4fa790eb
+
+
+Transferred and encoded by: vibrioidxire
+PLEASE DO NOT DISTRIBUTE IN LOSSY FORMATS OR SELL!
