@@ -18,10 +18,9 @@ const ARTIST_DATA = {
       "state": "NY",
       "location": "Canandaigua, NY",
       "venue": "CMAC",
-      "notes": "Sennheiser AMBEO \u00b7 thriftynomad",
+      "notes": "Sennheiser AMBEO · thriftynomad",
       "version": "AUD",
-      "format": "FLAC 24",
-      "textFile": "2023-06-24 - Canandaigua, NY - CMAC (Sennheiser AMBEO) (thriftynomad) [AUD24].txt"
+      "format": "FLAC 24"
     }
   ],
   "misc": []
