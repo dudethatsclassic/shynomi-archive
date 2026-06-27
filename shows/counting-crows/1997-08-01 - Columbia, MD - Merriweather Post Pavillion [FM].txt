@@ -1,69 +1,26 @@
-Counting Crows "August the first"
-Adam Duritz's Birthday Show
-Merriweather Post Pavillion
-Columbia, MD, USA
-1997.08.01
+"Here Comes the Rain King"
+August 1, 1997 @ Merriweather Post Pavilion
+Columbia, MD USA 
 
-Quote: "I'm covered with cake all across America right now."
+Source: Pre-FM SBD recording - Silver CD (ripped using EAC)
 
-
-Quality: A/A+ (LOSSLESS)
-
-Source 1 - Live broadcast of full show on 99.1 WHFS Radio Annapolis.
-Lineage: SBD > FM Broadcast > CDR(n) > EAC(secure with offsets) > WAV > FLAC(L8)
-
-Source 2 - SBD - from Silver CD "Here Comes the Rain King", Tendolar bootleg label. 
-Lineage: SBD > ? > Silver CD > EAC > WAV > TLC to FLAC(L6)
-
-Note: This copy is a matrix of both sources, as detailed in the comments down below. Both sources had some major issues, and I used them to create one, improved copy of this amazing concert. Only part of Round Here is matrixed, as the SBD version stops after the first chorus. The remaining tracks on disc 2 are only from the FM broadcast, however I did try to improve them with speed correction and adjusting their levels to blend with the rest of the show. This show is completely lossless.
+Notes: Audio seems to be slowed down from the original. The FM broadcast was sped up, so it seems whoever got ahold of the recording tried to slow it back down but over-did it. The track-list has incorrect names as well, but I wll list the correct ones here. The CD also incorrectly says this was in Columbus, MO. It is also incomplete as it's missing A Long December and Walkaways (and part of Round Here) at the end.
 
 
+Tracklist
+01 Gone (Angels Of The Silences)
+02 Seen Me (Have You Seen Me Lately?)
+03 Rain King
+04 Elizabeth (Goodnight Elisabeth)
+05 In Bloom (Children In Bloom)
+06 Anna Begins
+07 She's All Right (Mercury)
+08 Rock and Roll Star (CD Cover lists 08 & 09 separately, but they are one track - Mr. Jones)
+09 Omaha
+10 Baltimore (Raining In Baltimore)
+11 Satellites (Recovering the Satellites)
+12 Daylight Fading
+13 Not Sleeping (I'm Not Sleeping)
+14 Murder of One
+15 Around Here (Round Here - Cuts out 1:46 in)
 
-TRACK LIST
-----------
-Disc 1
-01) Angels Of The Silences
-02) Have You Seen Me Lately?
-03) Rain King
-04) Goodnight Elisabeth
-05) Children In Bloom
-06) Anna Begins
-07) Mercury
-08) Mr. Jones
-09) Omaha
-10) Raining In Baltimore
-11) Recovering The Satellites
-12) Happy Birthday To Adam (2 girls bring him a cake on-stage)
-13) Daylight Fading
-14) I'm Not Sleeping
-15) A Murder Of One
-16) Encore Break/99.1 HFS Backstage
-
-Disc 2
-01) Round Here
-02) A Long December
-03) Walkaways
-04) Aftershow/99.1 HFS Backstage
-
-
-
-COMMENTS:
-Given that Adam's birthday is the origin of all his music (August, and everything after) I feel like this show is quintessential for any Crows collection. It's in his hometown. It's on his birthday. And it highlights the music that served as the foundation for their success. It just seems 
-to sum up the heart of all I love about the band. Two recordings exist of it (one complete, one not). However, to my sheer frustration both versions were severely speed-altered... rendering them unlistenable. The FM broadcast I discovered was sped up 5% from normal. The soundboard copy was slowed down at various speeds throughout the show.  In both instances, the band - and especially Adam - sounded ridiculous. I couldn't take it seriously. So I decided I would experiment with the two recordings... ultimately paving the way for this remaster.
-
-
-
-Clarity and strong bass was present in the SBD version, although dry with a less "live" feel to it. The FM version was brighter tonally, with far more audience noise and detail. I thought they would compliment each other well if I could speed-correct them both and carefully line them up. I'm not a professional; all my work was done with free applications. And additionally, I applied very little EQ and used no compression tools at all. All I did was (painstakingly) speed correct, synchronize (which I had to continually adjust to avoid phase issues), and then blend using panning and level adjustments. My goal was for it to sound as close to the actual concert did as possible. Both tapes came lightly panned to the left, which I more-or-less left as such to preserve the coloring of the original recording. But I did adjust the mix when needed to ensure that they compliment each other. It isn't perfect, as both versions had various flaws which I couldn't avoid. But I tried to iron out 
-all that I could. And to my ears, it sounds astonishing. It's now one of my favorite shows; there's an energy and character to it that very few bootlegs possess, and I'm proud of that result. I hope you feel the same way. Trade it freely. It's a show that's meant to be cranked!!! Enjoy!!
-
-
-Tip - Given that both sources utilize the SBD recording, when mixed down to Mono there can be some phase issues at various points. So this version sounds ideal in stereo.
-
-
-
-**********************************************
-* DO NOT SELL & DO NOT CONVERT TO MP3's      *
-**********************************************
-
-
-VERY IMPORTANT POINTS - DO NOT SELL THIS SHOW ON EBAY ! I mean it! You got this show for free, either via a b&p or by downloading from a free SHN server, please pass it on for free. DO NOT ENCODE TO MP3 UNLESS IT IS FOR YOUR OWN PERSONAL USE (example: NOT FOR TRADING!) Please support the artist and purchase the officially released cd’s!!!

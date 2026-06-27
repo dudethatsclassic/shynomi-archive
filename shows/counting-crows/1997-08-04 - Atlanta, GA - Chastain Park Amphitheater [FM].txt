@@ -1,76 +1,50 @@
 Counting Crows
-Atlanta, GA.
-Chastain Park Amphitheater
-August 4, 1997
+Chastain Park Ampitheatre
+Atlanta, GA
+1997-08-04
 
+01 Recovering the Satelittes
+02 Angels of the Silences
+03 Rain King
+04 Goodnight Elisabeth
+05 Anna Begins
+06 I'm Not Sleeping
+07 Mercury
+08 Mr. Jones
+09 Omaha
+10 Raining in Baltimore
+11 Have You Seen Me Lately?
+12 Daylight Fading
+13 Children in Bloom
+encore break
+14 A Murder of One
+15 Round Here
+16 A Long December
+17 Walkaways
 
-Lineage:
-SB/FM>Mitsubishi DT-79 tape deck>Maxell XLIIS-100 cassette>
-Sony TC-WE635 tape deck>Sony RCD-W500C standalone burner>CDR(M)>
-EAC>WAV>Audacity>CD Wave Editor>FLAC (level 5)
+I taped this show right off the radio the night of the show. I am in the process of digitizing my collection. I have analog masters (Sony D6-generally Sony ECM-939 mic)
+and DAT audio masters (Sony TCD-D3 & D7 - Yep, I wore out the first one - AT-831 mics). I always put my mics in a hat and i am 6'3" so that helps.
+Also shot videos, 8MM. Not sure when I will get around to the video collection.
+ 
+Over the years I taped clubs shows and arena shows mostly in the Atlanta GA area) There were some trips so I did a few other things as well.
 
-Total Time 93:15
+lineage: Master DAT FM WNNX-Atlanta -  > Creative Labs X-FI sound card Digital-In > WAV > TLH v2.4.1 > FLAC > you
 
-Disc One Time 52:41
-
-1.  Recovering the Satellites
-2.  Angels of the Silences
-3.  Rain King
-4.  Goodnight Elisabeth
-5.  Anna Begins
-6.  I'm Not Sleeping
-7.  Mercury
-8.  Mr. Jones
-9.  Omaha
-10. Raining in Baltimore
-
-Disc Two Time 40:36
-
-11. Have You Seen Me Lately
-12. Daylight Fading
-13. Children in Bloom
-14. A Murder of One
-15. Crowd
-16. Round Here
-17. A Long December
-18. Walkaways
-
-Flac Fingerprints 
-
-Disc One
-CountingCrows1997-08-04t01.flac:472c3ca973665149c8df6a91905f965e
-CountingCrows1997-08-04t02.flac:a99deac0df8e38f5c1fe8164f49bfd66
-CountingCrows1997-08-04t03.flac:680eeb8d97c72cea99bf5b1bbf991dbc
-CountingCrows1997-08-04t04.flac:eea132fb7bcd529f478243a9c5177359
-CountingCrows1997-08-04t05.flac:08e107c09ddd06f6ca14eac533bb3d49
-CountingCrows1997-08-04t06.flac:c114ff468339da3d33a57f9b4df90e5a
-CountingCrows1997-08-04t07.flac:3753548b6d208eaf1ac6e9c871136926
-CountingCrows1997-08-04t08.flac:b303967ddd5e88de03b486de9e404b3b
-CountingCrows1997-08-04t09.flac:96deec2a973b48608e24a2750aa681ee
-CountingCrows1997-08-04t10.flac:864b50b3df7f3ad82945a790a0ebe369
-
-Disc Two
-CountingCrows1997-08-04t11.flac:b9a49e5af7c5506b9a1dc69c363e57dc
-CountingCrows1997-08-04t12.flac:da0bae2be1bce70001f15668c0dcaa70
-CountingCrows1997-08-04t13.flac:18f26dfbd0c840aacce4d6a7f39e8910
-CountingCrows1997-08-04t14.flac:981612f1411abd0b54679db61a5c678d
-CountingCrows1997-08-04t15.flac:e2dc0f1fd27b9532f7fd966a32bce239
-CountingCrows1997-08-04t16.flac:257e839329caa24b9de4cef90832f85d
-CountingCrows1997-08-04t17.flac:5fdfd1c44afb125bdf7f0c035255c93c
-CountingCrows1997-08-04t18.flac:9cb20f3618b512f758ddb2df7b45fcd2
-
-
-Notes-My own transfer of a recording I made myself while living in Atlanta.
-This show was broadcast live on WNNX (99X) 99.7FM in Atlanta. I recorded 
-it and it has sat in a box ever since with some other old tapes I had.  I found it 
-a few weeks ago while doing other transfers and decided to transfer it
-to disc. 
-
-*** DO NOT ENCODE THIS SHOW INTO MP3 OR ANY OTHER LOSSY FORMAT ***
-*** DO NOT SELL THIS SHOW. THERE IS NO NEED TO SELL
-    WHEN IT CAN BE DOWNLOADED FOR FREE.***
-
-***PLEASE DO--TRADE THIS SHOW FREELY AND ENJOY!!!***
-
-Transferred 01/13/08 by Rodney C.
-ga5150@comcast.net
+Fingerprints
+01-RecoveringTheSatelittes.flac:2e1b9c24ae3d327d672a3e56320c997e
+02-AngelsOfTheSilences.flac:8df1759de391cb7571953e698696446e
+03-RainKings.flac:55b6efec54746b3d03b96576a4cc49fa
+04-GoodnightElisabeth.flac:625de1a046b5196fca57ab37055e877a
+05-AnnaBegins.flac:668a6e44ff659c5d2e9235c91326f48f
+06-ImNotSleeping.flac:b8850fa9ffa7b209dcc104cc48485798
+07-Mercury.flac:6acc93939c280c69f9163aa7ad67b02e
+08-MrJones.flac:d0b02b75b71a1270fcd8ed02b24a734e
+09-Omaha.flac:d1d5f3ca2cf14f9c722e3a0e35a0bef4
+10-RainingInBaltimore.flac:59ac5b4708545ed13239ff50f7eb218c
+11-HaveYouSeenMeLately.flac:53a8f054e8686e53264bf050105afc00
+12-DaylightFading.flac:0c89359581f2bfe9504b6dcfc940d129
+13-ChildrenInBloom.flac:bdd56503a2d287487666dd9bd65849e9
+14-AMurderOfOne.flac:75d5874c53053492e3f6c4e58b9ffe23
+15-RoundHere.flac:1e393a9001592245308e70b37854a222
+16-ALongDecember.flac:9d56cf9b004339acb6240e9e1c3ea699
+17-Walkaways.flac:8e4a3950bf7b0c2bd2bab377a17b476d

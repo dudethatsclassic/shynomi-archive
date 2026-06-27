@@ -1,37 +1,32 @@
 Counting Crows
 July 6, 2018
-Shoreline Ampitheater
-Mountain View CA
+Mountain View, CA - Shoreline Amphitheatre
 
-Dpa 4061s-battery Box-Sony PCM-M10
-Transfer M10-USB_Audacity-CDwav editor-FLAC
+Source: MK 4s > CMRg > tinybox > M10
+Transfer: WAV > Audacity (db boost, downsample) > CD Wave > FLAC
 
-Taped lower Lawn
+Disc 1
 
+01. intro - Magical Mystery Tour
+02. Mrs. Potter's Lullaby
+03. Dislocation
+04. Omaha intro
+05. Omaha
+06. Four White Stallions
+07. 1492
+08. Miami (with story)
+09. Colorblind
+10. intro > Washington Square
 
-TRACK LIST (Partial Show)
-----------
-Mrs. Potter's Lullaby
-Dislocation
-Omaha
-Four White Stallions
-1492
-Miami
-Colorblind
-Washington Square
-Round Here
-Catapult
-Mr. Jones
-Goodnight L.A.
+Disc 2
 
-
-Taper Note: Counting Crows is not the full show, I was bored out of my skull and left mid show (alot of
-people had the same idea) I realized I know not many of their songs.
-
-This was a discount ticket show to get me out of the house.
-
-Live was fun.
-
-it needed a sound boost
-
-As always dont sell it share it "it's only a memory unless someone records it"
+01. Round Here (with story)
+02. Catapult
+03. Mr. Jones
+04. Goodnight L.A.
+05. A Long December
+06. Hanginaround > encore applause
+07. Palisades Park
+08. Rain King
+09. Holiday in Spain > band introductions
+10. outro - California Dreamin'

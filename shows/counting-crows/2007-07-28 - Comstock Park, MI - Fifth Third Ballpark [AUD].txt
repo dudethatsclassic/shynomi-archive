@@ -1,36 +1,38 @@
 Counting Crows
-July 28th, 2007
-Fifth-Third Ballpark
-Comstock Park, Michigan
+July 28th, 2007 
+Fifth Third Ballpark 
+Comstock Park, MI
 
-Lineage:
-TuneTalk > iPod > Adobe Audition > Flac Frontend
+Taper: Richard Simms (sullen)
+Source: AT853s > CA ST-9100 > AD-20 >
+        iRiver h120 with Rockbox CVS-060514
+Transer: iRiver h120 > Computer via USB 2.0 
+Processing: Adobe Audition 1.5 > Increase volume >
+            CD Wave Editor 1.94.5 > FLAC FrontEnd (Level 8, Align SB)
 
-1: Washington Square
-2: Recovering The Sattelites
-3: Mr Jones
-4: Mrs Potters Lullaby
-5: Perfect Blue Buildings (Sometimes it snows in april)
-6: Adam's Mini Speech
-7: All My Friends
-8: Anna Begins
-9: St Robinson in his Cadillac Dreams
-10: Catapult
-11: A Long December (And we talked, and we talked, and we f****ed up the chord, and we found the chord, and we talked a little while about the year)
-12: Hanginaround
-13: Encore Break
-14: Mercury (This is not a song about love...)
-15: Hard Candy
-16: Holiday in Spain
 
-Quality is maybe B range.
+CD1
+-Main Set
+01. Washington Square 
+02. Recovering the Satellites 
+03. Mrs Potter's Lullaby 
+04. Mr Jones 
+05. Perfect Blue Buildings 
+06. All My Friends 
+07. Anna Begins 
+08. St. Robinson 
+09. Catapult 
+10. A Long December 
+11. Hanginaround 
 
-Notice somewhere about 1:30ish in Anna, he says "It's too far" when there was a kid who he couldnt reach in the front row
+CD2
+-Encore 
+01. Mercury 
+02. Hard Candy 
+03. "Get Invovled"
+04. Holiday in Spain
 
-This is my first show, and for crappy equipment, it turned out fairly well I think, don't rip it to shreds too badly ;)
-
-Please share this, and never distribute it for profit.  
-
-Thanks to all those involved who made this possible.
-
--Bohm-
+Notes:
+1. Keep live music free for everyone!  DO NOT SELL THIS RECORDING! 
+2. Gap at the end of Holiday in Spain @ 4:00 (does not affect music);
+   unknown length, unknown cause.

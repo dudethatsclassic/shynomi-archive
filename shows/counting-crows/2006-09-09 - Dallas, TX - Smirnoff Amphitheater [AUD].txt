@@ -1,37 +1,34 @@
-Counting Crows
-2006.09.09
-Smirnoff Ampitheater, Dallas, TX 
+ARTIST = COUNTING CROWS 
 
-Taper: Texasnight
-Conversion: CD-R > Nero [save tracks @ 1411 kbps] > WAV > FLAV
-Sound: A
+Dallas Texas September 9 2006 - Remastered 
+Venue = Smirnoff Music Center 
+Support act for Sting
 
-***DO NOT CONVERT TO LOSST FORMAT***
-***DO NOT CONVERT TO LOSST FORMAT***
-***DO NOT CONVERT TO LOSST FORMAT***
+Taper = TEXASKNIGHT 
 
-Setlist:
+Equipment = Sony TCD-D8 DAT using Soundpro CMC-20 cardoid mics with bass roll-off unit. Transferred directly via analog cables to TEAC CD-RW890mkII standalone burner. Extracted, tracked and remastered with Wavepad to increase volume, reduce bass levels and provide sharper clarity. 
 
-Disc one
+Tracklisting 
+D1
+ANNA BEGINS
+HARD CANDY
+OMAHA
+CATAPULT
+GHOST TRAIN
+BIG YELLOW TAXI
+MIAMI
+COLORBLIND
 
-01. Intro
-02. Anna Begins
-03. Hard Candy
-04. Omaha
-05. Catapult
-06. Ghost Train w/ extended intro
-07. Big Yellow Taxi
-08. Miami
-09. Colorblind 
+D2
+ROUND HERE
+LONG DECEMBER
+HANGIN AROUND
+MR JONES
+MURDER OF ONE
+HOLIDAY IN SPAIN
 
-Disc Two
 
-01. Round Here w/ la la la la la & i am changed alts
-02. Long December w/ extended intro
-03. Hanging Around w/ elliot morris & graham colton
-04. Mr Jones (acoustic inverted chorus version)
-05. A Murder of One w/ hysml outro
-06. Holiday in Spain
-07. Outro (California Dreamin)
+TORRENT = FLAC 
 
-Notes: A Texasknight production
+Recorded from front & center of lawn section
+*PLEASE NOTE THAT THE INTRO AND OUTRO WERE REMOVED TO AVOID INFRINGMENT*

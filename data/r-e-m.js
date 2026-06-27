@@ -2080,7 +2080,7 @@ const ARTIST_DATA = {
       "notes": "",
       "version": "Silver CD",
       "format": "",
-      "textFile": "1984-09-26 - Durham, NC - Page Auditorium Duke University(Unreleased Live LP) [Silver].txt"
+      "textFile": "1984-09-26 - Durham, NC - Duke University - Unbelievable Music [Silver].txt"
     },
     {
       "year": 1984,
@@ -2774,7 +2774,7 @@ const ARTIST_DATA = {
       "notes": "",
       "version": "AUD #1-2",
       "format": "3 sources",
-      "textFile": "1985-07-20 - Berkeley, CA - The Greek Theatre - University Of California at Berkeley [AUD #2].txt"
+      "textFile": "1985-07-20 - Berkeley, CA - Greek Theater (AKG C-33e) (unk) (slipkid68) [AUD24].txt"
     },
     {
       "year": 1985,
@@ -5936,7 +5936,7 @@ const ARTIST_DATA = {
       "notes": "",
       "version": "Silver CD",
       "format": "",
-      "textFile": "1991-04-03 - The Unauthorized Records - Vol. 4 - Live in USA [Silver].txt"
+      "textFile": "1991-04-03 - Santa Monica, CA - Harmonics In Eternity LP [FM].txt"
     },
     {
       "year": 1991,
@@ -7637,7 +7637,7 @@ const ARTIST_DATA = {
       "notes": "",
       "version": "AUD",
       "format": "",
-      "textFile": "1999-06-23 - London, England - Earl's Court [AUD].txt"
+      "textFile": "1999-06-23 REM.txt"
     },
     {
       "year": 1999,
@@ -9997,8 +9997,7 @@ const ARTIST_DATA = {
       "venue": "Budokan",
       "notes": "",
       "version": "AUD",
-      "format": "",
-      "textFile": "2005-03-16 - Tokyo, Japan - Budokan [AUD].txt"
+      "format": ""
     },
     {
       "year": 2005,

@@ -1,66 +1,26 @@
-Counting Crows
-September 07, 2006
-The Cynthia Woods-Mitchell Pavillion
+2006-09-07
+Cynthia Woods Mitchell Pavilion 
 Houston, TX
 
-Taper: Justin Kacz
-Source: sp-bmc-3 (omni) > BatBox (Bass Rolloff) > D7
-Location: Front of Lawn, Right/Center Repeater Stack,
-	Stand at 17' @ 60 Degree angle toward stack (due to lawn incline),
-	Mics A-B
-Conversion: D7 > Edirol R1 > Audacity (Normalize) > CDWav > FlacFrontend (Level 8)
+Source:WINMEDHISTREAM>MAGIXAUDIOLAB>WAV>CDR>WAV>FLAC[5]
+Taper G.D Smith
+
+Note: This incomplete show the encore was not included in the stream 
+also there are flaws in the streamed show a digi noise spike at the 
+begining of Monkey & a few skips during Mr Jones. 
+Unfortunately these are present in the stream!
 
 
-This show was 84 minutes total... if you're short on cd-r's, sucks i know...
 
-d01t01 Intro
-d01t02 Anna Begins
-d01t03 Hard Candy
-d01t04 "Where Is My Swamp?"
-d01t05 Omaha
-d01t06 Catapult
-d01t07 Ghost Train
-d01t08 Miami
-d01t09 Colorblind
-d01t10 "Such Fuckin' Liars"
-d01t11 Monkey
-d01t12 "A Different Look"
-d01t13 Mr. Jones (Acoustic)
-
-d02t01 Murder Of One
-d02t02 Long December Intro
-d02t03 Long December
-d02t04 Hangin' Around *
----------------------------
-d02t05 Round Here
-d02t06 "Honored To Have As Our Visitors"
-d02t07 Holiday In Spain
-
-Show Notes:
-* With Eliot Morris
-
-Nice pics (not taken by me): 
-http://flickr.com/photos/14405265@N00/sets/72157594276129429/show/
-
-Fingerprint:
-
-CC2006-09-07d01t01.flac:8c9ad3cfed848fe7ea9220884f743ee2
-CC2006-09-07d01t02.flac:2a53672e55ace03d73ee410a0eafa6f0
-CC2006-09-07d01t03.flac:0174fef1aba14ce2fda89b0360f1af0e
-CC2006-09-07d01t04.flac:1671f80647ddc2c825575f9460f231c0
-CC2006-09-07d01t05.flac:3c6c59c40afdfb1d6b9fc68db7428183
-CC2006-09-07d01t06.flac:be2a1caf451a6c6bc3d90d1735e76717
-CC2006-09-07d01t07.flac:2666998c34ffb738d59c313a071eca56
-CC2006-09-07d01t08.flac:022d297354049c786bb00bf2b2db6f72
-CC2006-09-07d01t09.flac:7b5b8eba1ec7782a4ce20cfe52b61f7b
-CC2006-09-07d01t10.flac:2d36e65aed766c3803b0e2b8149e5b9a
-CC2006-09-07d01t11.flac:8c6347494e5c68637b4ec162b0f4ad9b
-CC2006-09-07d01t12.flac:191fd1039acc32e1a5be85d2903e6dea
-CC2006-09-07d01t13.flac:6d2012583678c8a84d9c9d2f177d3704
-CC2006-09-07d02t01.flac:88da28a5a74e87a128d2e12c46db0ee8
-CC2006-09-07d02t02.flac:cc9ecc66f94939b07487d5be3e8f566b
-CC2006-09-07d02t03.flac:8659a1936eac32e89fca44b633f29ecc
-CC2006-09-07d02t04.flac:2ee8e101472de1973d0db20ff482b6b1
-CC2006-09-07d02t05.flac:33ed85388c5b6724c6c577a77551f756
-CC2006-09-07d02t06.flac:6806eb0c2f188aa0217817317996b223
-CC2006-09-07d02t07.flac:5597a233e900e08521482beacda6ead3
+01. Anna Begins
+02. Hard Candy
+03. Omaha
+04. Catapult
+05. Ghost Train
+06. Miami
+07. Colorblind
+08. Monkey
+09. Mr. Jones 
+10. A Murder Of One
+11. A Long December
+12. Hangin'around 

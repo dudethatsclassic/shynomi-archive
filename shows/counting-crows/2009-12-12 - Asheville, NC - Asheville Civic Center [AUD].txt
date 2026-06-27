@@ -1,75 +1,72 @@
-COUNTING CROWS
-2009-12-12, Asheville, NC
+Counting Crows
+Warren Haynes Christmas Jam
+Asheville Civic Center
+Asheville, North Carolina
+12/12/2009
 
-Warren Haynes Presents
-The 21st Anniversary of
-The Christmas Jam
+Source: Schoeps CCM4V'S(din)>Lunatec V2>Sound Devices 722 (24/48)
+Location: FOB/DFC/KFC/ZFC/AARP 35' From Stage, 6' High
+DSP: Sound Devices 722>Sound Forge 9.0>CD Wave>flac(16)
+Recorded By: Z-Man
+Seeded By: Z-Man
 
+Disc I 
 
-01 - Round Here
-02 - Abbey Road Medley (Golden Slumbers>Carry That Weight>The End)
-03 - Miami
-04 - Good Night LA
-05 - 1492
-06 - Washington Square
-07 - Long December
-08 - Rain king w/ Warren Haynes>
-09 - With A Little Help From My Friends> w/ Warren Haynes & Jeff Austin
-10 - Rain King w/ Warren Haynes
-11 - This Land is Your Land w/ Warren Haynes 
+01 Round Here
+02 Golden Slumbers >
+03 Carry That Weight >
+04 The End >
+05 Miami
+06 Good Night L A 
+07 1492
+08 Washington Square
+09 Long December
+10 *Rain King >
+11 *With A Little Help From My Friends >
+12 *Rain King
+13 #This Land is Your Land  
+
+* With Warren Haynes On Guitar
+# With Warren Haynes On Guitar and Vocals 
+
+Flac Fingerprint 
+
+countingcrows2009-12-12d01t01.flac:180323a35bf1f40f9068a0b6174b27ce
+countingcrows2009-12-12d01t02.flac:34cdb370f267d13880bc489276234032
+countingcrows2009-12-12d01t03.flac:4a5996f9b9aed19bdb7ea302371791e1
+countingcrows2009-12-12d01t04.flac:5ba0556c431631950421dbcba826ad28
+countingcrows2009-12-12d01t05.flac:b5a4ee6e558496d86d7bac26d9ad216c
+countingcrows2009-12-12d01t06.flac:12de3f09359269ae28b575e5ae8aee99
+countingcrows2009-12-12d01t07.flac:8a006326c5f506f859563ab01b608786
+countingcrows2009-12-12d01t08.flac:867bc4763d244ce6bff6bcf78a6d1147
+countingcrows2009-12-12d01t09.flac:5a3187c4d57371390df801ce6187f5f6
+countingcrows2009-12-12d01t10.flac:dc6774045103c75bf869ccb030483948
+countingcrows2009-12-12d01t11.flac:d7c15ce754751bd30f45631c6953e08b
+countingcrows2009-12-12d01t12.flac:9fc7b399fd7df060af0a17f9ba511c4f
+countingcrows2009-12-12d01t13.flac:b6c6e366b1defa718db6237f7977b139
+
+Shntool 
 
     length     expanded size    cdr  WAVE problems  fmt   ratio  filename
-    10:01.20      106063484 B   ---   --   ---xx   flac  0.5279  cc2009-12-1201.flac
-     4:18.29       45579452 B   ---   --   ---xx   flac  0.5519  cc2009-12-1202.flac
-     6:27.00       68266844 B   ---   --   ---xx   flac  0.5547  cc2009-12-1203.flac
-     4:21.69       46202732 B   ---   --   ---xx   flac  0.5147  cc2009-12-1204.flac
-     5:45.71       61025036 B   ---   --   ---xx   flac  0.5588  cc2009-12-1205.flac
-     6:04.61       64353116 B   ---   --   ---xx   flac  0.4621  cc2009-12-1206.flac
-     7:03.38       74706620 B   ---   --   ---xx   flac  0.5249  cc2009-12-1207.flac
-     5:34.51       59037596 B   ---   --   ---xx   flac  0.5680  cc2009-12-1208.flac
-     5:08.08       54350060 B   ---   --   ---xx   flac  0.5499  cc2009-12-1209.flac
-     2:39.40       28141724 B   ---   --   ---xx   flac  0.5899  cc2009-12-1210.flac
-     4:54.47       51972188 B   ---   --   ---xx   flac  0.4879  cc2009-12-1211.flac
-    62:19.59      659698852 B                            0.5324  (11 files)
+    10:03.36      106453916 B   ---   --   ---xx   flac  0.4698  countingcrows2009-12-12d01t01.flac
+     2:16.04       23999852 B   ---   --   ---xx   flac  0.5088  countingcrows2009-12-12d01t02.flac
+     1:13.37       12964268 B   ---   --   ---xx   flac  0.4777  countingcrows2009-12-12d01t03.flac
+     0:52.16        9210476 B   ---   --   ---xx   flac  0.4774  countingcrows2009-12-12d01t04.flac
+     6:24.00       67737644 B   ---   --   ---xx   flac  0.5037  countingcrows2009-12-12d01t05.flac
+     4:21.42       46139228 B   ---   --   ---xx   flac  0.4489  countingcrows2009-12-12d01t06.flac
+     4:29.22       47503388 B   ---   --   ---xx   flac  0.5617  countingcrows2009-12-12d01t07.flac
+     7:22.13       77999420 B   ---   --   ---xx   flac  0.3908  countingcrows2009-12-12d01t08.flac
+     7:02.30       74511404 B   ---   --   ---xx   flac  0.4596  countingcrows2009-12-12d01t09.flac
+     4:43.31       49994156 B   ---   --   ---xx   flac  0.5372  countingcrows2009-12-12d01t10.flac
+     6:03.38       64122620 B   ---   --   ---xx   flac  0.4772  countingcrows2009-12-12d01t11.flac
+     2:36.21       27567836 B   ---   --   ---xx   flac  0.5580  countingcrows2009-12-12d01t12.flac
+     5:31.19       58433132 B   ---   --   ---xx   flac  0.4407  countingcrows2009-12-12d01t13.flac
+    62:59.09      666637340 B                            0.4765  (13 files)
 
 
-MD5:
-99d6b5215bd068b017eb0841085c223a *cc2009-12-1201.flac
-ea45e9c715b512cf928aeba742528092 *cc2009-12-1202.flac
-64bb4ea254fa58c25513bfee59e5199a *cc2009-12-1203.flac
-e467fd9815219889245b764c04410421 *cc2009-12-1204.flac
-a6eb99a6675f6ae7ae5a37c579362dbc *cc2009-12-1205.flac
-774aa24138c39676b240b27022e266c1 *cc2009-12-1206.flac
-020ccc52cae6ff9babfc136b2b775787 *cc2009-12-1207.flac
-bc773e59792ecc8a342ad4d35e7b7a82 *cc2009-12-1208.flac
-dc38f12a779ee1d4ebac509d075db8f9 *cc2009-12-1209.flac
-77427df252d61fd8cbdbf9b57e322dd0 *cc2009-12-1210.flac
-0924c27c1d09f81171137581b52e75d0 *cc2009-12-1211.flac
 
 
-FFP:
-cc2009-12-1201.flac:527407599e258daaa682e6aeb5ea7661
-cc2009-12-1202.flac:02b7cf4b54bd34cbc4e3e84d84f2468c
-cc2009-12-1203.flac:5d47cf2db28ac42140db71003d6cd7e0
-cc2009-12-1204.flac:63e51e921d38291f8eed2fa4918707b4
-cc2009-12-1205.flac:423dfabd9a534720d911a595a7621996
-cc2009-12-1206.flac:77da009ef509e387d31c6fa28d4b3583
-cc2009-12-1207.flac:e917aa79c25e3a11ba031bdf09425f27
-cc2009-12-1208.flac:1d0f78561a2e7112c1798619b4b566ec
-cc2009-12-1209.flac:d903b89d3646551fc7a0e92f6e716ee4
-cc2009-12-1210.flac:0fdbf9c6067df869ce35f62e464d380f
-cc2009-12-1211.flac:daf28c97094cd3e6bf20ec3cecf3760a
 
 
-ST5:
-527407599e258daaa682e6aeb5ea7661  [shntool]  cc2009-12-1201.flac
-02b7cf4b54bd34cbc4e3e84d84f2468c  [shntool]  cc2009-12-1202.flac
-5d47cf2db28ac42140db71003d6cd7e0  [shntool]  cc2009-12-1203.flac
-63e51e921d38291f8eed2fa4918707b4  [shntool]  cc2009-12-1204.flac
-423dfabd9a534720d911a595a7621996  [shntool]  cc2009-12-1205.flac
-77da009ef509e387d31c6fa28d4b3583  [shntool]  cc2009-12-1206.flac
-e917aa79c25e3a11ba031bdf09425f27  [shntool]  cc2009-12-1207.flac
-1d0f78561a2e7112c1798619b4b566ec  [shntool]  cc2009-12-1208.flac
-d903b89d3646551fc7a0e92f6e716ee4  [shntool]  cc2009-12-1209.flac
-0fdbf9c6067df869ce35f62e464d380f  [shntool]  cc2009-12-1210.flac
-daf28c97094cd3e6bf20ec3cecf3760a  [shntool]  cc2009-12-1211.flac
+
+

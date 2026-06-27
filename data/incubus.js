@@ -1035,7 +1035,8 @@ const ARTIST_DATA = {
       "venue": "Verizon Wireless Amphitheatre",
       "notes": "king reptile",
       "version": "AUD",
-      "format": "SHN"
+      "format": "SHN",
+      "textFile": "2004-10-04 - Charlotte, NC - Verizon Wireless Amphitheatre.txt"
     },
     {
       "year": 2004,

@@ -1,28 +1,20 @@
-Fox Theatre Boulder 1999-08-17
+Counting Crows
+August 17, 1999
+Boulder, CO
 
-AUD>??>CDR(n)>Magix>wav>flac(5)
+Source: Soundboard
+Released as pack-in for limited edition release of
+This Desert Life CD (sold only by select retailers)
 
-disc 1
-01 Mr Jones
-02 Children In Bloom
-03 Daylight Fading
-04 Anna Begins
-05 St Robinson
-06 Mercury
-07 Omaha
-08 Another Horsedreamrs Blues
-09 Round Here (part1)
-10 Round Here (part2)
+Recorded by Bruce Knight at the Fox Theater
+Mixed by David Bryson  
+Mastered by Bob Ludwig
 
-disc 2
-01 Hangin'around
-02 HYSML
-03 Rain King
-04 A Murder Of One
-05 Goodnight Elizabeth
-06 Return Of The Greivous Angel
-07 Speedway
-08 A Long December
-09 Walkaways
 
-*** DO NOT ENCODE THIS SHOW INTO MP3 OR ANY OTHER LOSSY FORMAT ***
+01: Mercury                        8:18
+02: Omaha                          4:14
+03: Another Horsedreamers Blues    5:22
+04: Goodnight Elisabeth            6:44
+
+
+ 
