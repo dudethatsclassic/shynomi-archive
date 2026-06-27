@@ -1,0 +1,71 @@
+Nine Inch Nails 
+2009-09-02
+Hollywood Palladium 
+Los Angeles, CA 
+
+record : MM-HLSC-1(mounted on hat,  75 feet from stage loc, just right of sndbrd) > MM-MBM (roll off @ 96hz) > R09 @ 24/48
+transfer: R09 > USB > wavelab (editing) > Cdwav (tracking) > Trader's Little Helper (flac) > Foobar 2000 (liveshowtagger) 
+taper: sin213 
+website: http://members.cox.net/sin213/sin213.html 
+
+This was a great start to what would become quite a series of shows in LA.   The intensity of the band was met by the intenstiy of the crowd as Mr Self Destruct started...and with each song, everyone began to realize what was happening here....The Downward Spiral.  It was quite a treat to be able to hear The Downward Spiral played in its entirety.  The second set that followed was equally as satisfying, as NIN went through some of their best songs and brought out Gary Numan for Metal and Cars.  Unfortuntately, the Fonda show was cancelled immediately following this show and the Wiltern show not long after, but luckily the shows were rescheduled the following week, rather than being cancelled completely.  Trent said he was sick and was sorry if it did not sound good, but I thought it sounded pretty decent from where I was standing.
+
+NIN *24bit version*
+
+Disc 1 - 63:07  
+
+01 Mr Self Destruct 
+02 Piggy
+03 Heresy 
+04 March of the Pigs 
+05 Closer
+06 Ruiner 
+07 The Becoming 
+08 I Do Not Want This 
+09 Big Man With A Gun
+10 A Warm Place
+11 Eraser 
+12 Reptile
+13 The Downward Spiral
+14 Hurt
+
+Disc 2 - 49:11
+
+01 1,000,000
+02 Terrible Lie
+03 Lights In The Sky
+04 Burn
+05 Gave Up
+06 Suck
+07 Metal (feat. Gary Numan)
+08 Cars (feat. Gary Numan)
+09 The Hand That Feeds
+10 Head Like A Hole
+
+**DO NOT ENCODE TO MP3, EXCEPT FOR PERSONAL MP3 PLAYER USE** 
+**PLEASE DO NOT ALTER OR SELL THIS RECORDING AND INCLUDE THE INFO FILE IN TRADES**
+
+2009-09-02_NIN_Palladium_d1t01.flac:94327ddeb351c50431001f46629b182a
+2009-09-02_NIN_Palladium_d1t02.flac:2bb3534e8e6f74f630a0b8810fe5c089
+2009-09-02_NIN_Palladium_d1t03.flac:0cc44a41dff32c61176288170997fcf1
+2009-09-02_NIN_Palladium_d1t04.flac:cbe904a3ccb50f969f19fe20ce06dfbb
+2009-09-02_NIN_Palladium_d1t05.flac:27aeb28f566cf6c858678b21575e416c
+2009-09-02_NIN_Palladium_d1t06.flac:0e279a0e147cdd40f96b77910b54a63e
+2009-09-02_NIN_Palladium_d1t07.flac:b579d56eab68f794958cbcb87785fd80
+2009-09-02_NIN_Palladium_d1t08.flac:a6d00c00ff51ee392291c7b83c17c875
+2009-09-02_NIN_Palladium_d1t09.flac:eaa1f465fcdbe3fe2a01faa450eb706d
+2009-09-02_NIN_Palladium_d1t10.flac:e9717ec8b4a3f03297fba14f5488d2da
+2009-09-02_NIN_Palladium_d1t11.flac:cfb04c1429d11ce7d8c0565da585f8a6
+2009-09-02_NIN_Palladium_d1t12.flac:b4ec46496ed68d01633b6906c4c27315
+2009-09-02_NIN_Palladium_d1t13.flac:c356bc2dfdeacc0d45ab376958e63de3
+2009-09-02_NIN_Palladium_d1t14.flac:bdd4cc07c218a7e5a9ab70c0c6e69b93
+2009-09-02_NIN_Palladium_d2t01.flac:888b92574a8152a19df7e907b824540b
+2009-09-02_NIN_Palladium_d2t02.flac:0420222e1999b2217415b36bbfb6b100
+2009-09-02_NIN_Palladium_d2t03.flac:849871149d6d3f3987f865f7e7eee03c
+2009-09-02_NIN_Palladium_d2t04.flac:ce455c5a708ee4b29479e305994bd8c3
+2009-09-02_NIN_Palladium_d2t05.flac:46295dfcfab39a08841928038c727ceb
+2009-09-02_NIN_Palladium_d2t06.flac:e8b87ee3ddbe459eee66144335d95a8a
+2009-09-02_NIN_Palladium_d2t07.flac:9330a6dc49995dc3f7da394517f33b81
+2009-09-02_NIN_Palladium_d2t08.flac:fe69a51abd1497d82feeb4f8e525c124
+2009-09-02_NIN_Palladium_d2t09.flac:ea890b595e55006339f3163dd9011931
+2009-09-02_NIN_Palladium_d2t10.flac:a8373873b727aa81d5dfa0eaedcec6d8

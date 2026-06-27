@@ -1,0 +1,106 @@
+Nine Inch Nails 
+2009-09-10
+Wiltern Theatre
+Los Angeles, CA 
+
+record : MM-HLSC-1(mounted on hat,  4th row balcony, right side in line with right stacks) > MM-MBM (roll off @ 96hz) > R09 @ 24/48
+transfer: R09 > USB > wavelab (editing) > Cdwav (tracking) > Trader's Little Helper (flac) > Foobar 2000 (liveshowtagger) 
+taper: sin213 
+website: http://members.cox.net/sin213/sin213.html 
+
+Luckily I was able to arrange last minute travel arrangements to get to this final show.  I was pretty glad it worked out pretty well, even though I had to give up my Fonda tickets.  This was a stellar show packed with hits and guest appearances.  And as Trent states during the show...the hits keep coming.  Enjoy the final performance from NIN.
+
+NIN *24bit version*
+
+Disc 1 - 73:15  
+
+01 Home 
+02 Somewhat Damaged
+03 The Collector
+04 Discipline
+05 March of the Pigs
+06 Something I Can Never Have
+07 The Frail
+08 The Wretched
+09 Ruiner
+10 Head Down
+11 Burn 
+12 Just Like You Imagined (feat. Mike Garson)
+13 La Mer (feat. Mike Garson)
+14 Eraser (feat. Mike Garson)
+15 The Becoming (feat. Mike Garson)
+
+Disc 2 - 75:33
+
+01 Intro to Down In The Park (feat. Mike Garson)
+02 Down In The Park (feat. Mike Garson & Gary Numan)
+03 Metal (feat. Mike Garson & Gary Numan)
+04 I Die: You Die (feat. Mike Garson & Gary Numan)
+05 1,000,000
+06 Letting You
+07 Survivalism
+08 Suck
+09 Down In It
+10 The Hand That Feeds
+11 Head Like A Hole
+--encore 1--
+12 Me, I'm Not (feat. Atticus Ross)
+13 The Warning (feat. Atticus Ross & Dave Navarro)
+14 Piggy (Nothing Can Stop Me Now) (feat. Atticus Ross & Dave Navarro)
+15 Gave Up (feat. Dave Navarro)
+
+Disc 3 - 47:20
+--encore 2--
+01 Mr. Self Destruct (feat. Dillinger Escape Plan)
+02 Wish (feat. Dillinger Escape Plan)
+--encore 3--
+03 Atmosphere (Joy Division cover)
+04 Dead Souls (Joy Division cover)
+05 The Good Soldier
+06 Band Intros/Crew Thanx (ALL THE CREW!)
+07 The Day The World Went Away
+08 Hurt
+09 In This Twilight
+
+**DO NOT ENCODE TO MP3, EXCEPT FOR PERSONAL MP3 PLAYER USE** 
+**PLEASE DO NOT ALTER OR SELL THIS RECORDING AND INCLUDE THE INFO FILE IN TRADES**
+
+2009-09-10_NIN_Wiltern_D1_t01.flac:11df35aebf27506b5dfb0763dbf46516
+2009-09-10_NIN_Wiltern_D1_t02.flac:a307ef38697d74751b8e22e0c86d6887
+2009-09-10_NIN_Wiltern_D1_t03.flac:bb15bbb50873aaead100ac75fdefc104
+2009-09-10_NIN_Wiltern_D1_t04.flac:a12cccdbb7a729998025504578c7b842
+2009-09-10_NIN_Wiltern_D1_t05.flac:22d5269165cd0492c5521dd954dedcbf
+2009-09-10_NIN_Wiltern_D1_t06.flac:965d7ddb2d774892e1cbe1bc43952e48
+2009-09-10_NIN_Wiltern_D1_t07.flac:1f5acee5e3609d4210874743bcb9c8d7
+2009-09-10_NIN_Wiltern_D1_t08.flac:10dbc093560296af2f237ffda9b78c69
+2009-09-10_NIN_Wiltern_D1_t09.flac:05e2f334fb12d861a050120965d4ccb0
+2009-09-10_NIN_Wiltern_D1_t10.flac:1cbd403cb50f64e3375d3fce50236d41
+2009-09-10_NIN_Wiltern_D1_t11.flac:ba8244ea30ddf6c075dc70d5a342be2b
+2009-09-10_NIN_Wiltern_D1_t12.flac:f7b2b5c6705e994b2322af4595bd4d59
+2009-09-10_NIN_Wiltern_D1_t13.flac:a12fd07906d1839e916cbba1469d5b52
+2009-09-10_NIN_Wiltern_D1_t14.flac:be1f89cb05d9d481c9da6a5241157d8f
+2009-09-10_NIN_Wiltern_D1_t15.flac:f0c6f4bac54225a0447b494d79d5d2f8
+2009-09-10_NIN_Wiltern_D2_t01.flac:937ad8934c2dd7da98211bffc33564cd
+2009-09-10_NIN_Wiltern_D2_t02.flac:1e40faf672322b4a2c87c8faed1ac4c2
+2009-09-10_NIN_Wiltern_D2_t03.flac:710805ef72f276051361bdcde30af60b
+2009-09-10_NIN_Wiltern_D2_t04.flac:e4496cd66b5d80651758f2a502c3490f
+2009-09-10_NIN_Wiltern_D2_t05.flac:1072227677263907357a2b6a1092fff4
+2009-09-10_NIN_Wiltern_D2_t06.flac:2413df1f8cfc1cd17535bdb60a42450e
+2009-09-10_NIN_Wiltern_D2_t07.flac:edaff6d88baf861788cfb821e1f327ae
+2009-09-10_NIN_Wiltern_D2_t08.flac:c582f1fd0e9a1256580fc4bc130d5f4c
+2009-09-10_NIN_Wiltern_D2_t09.flac:d02b6c470fdc2b7e568d13ae71a4da38
+2009-09-10_NIN_Wiltern_D2_t10.flac:d1bfc0bb0cf13beee27de7242465d237
+2009-09-10_NIN_Wiltern_D2_t11.flac:ade639b37a34e1f02331e31855e97ce1
+2009-09-10_NIN_Wiltern_D2_t12.flac:2018a30db3a5985eae6227199dc0d643
+2009-09-10_NIN_Wiltern_D2_t13.flac:67bda6fa96c679a767515a5c0a82bbd5
+2009-09-10_NIN_Wiltern_D2_t14.flac:6270579a7cdebe0b78db32fc0b80b809
+2009-09-10_NIN_Wiltern_D2_t15.flac:7fbb6b4710ed5c304649068a3d45a3b2
+2009-09-10_NIN_Wiltern_D3_t01.flac:8dfaf6f4aea1492ddc17b6064807b7f1
+2009-09-10_NIN_Wiltern_D3_t02.flac:611f256da24fb64aeb47f6263c0c6423
+2009-09-10_NIN_Wiltern_D3_t03.flac:036b42ed49459b180ac388d75f7b9292
+2009-09-10_NIN_Wiltern_D3_t04.flac:1c27420d47f48b06e6acaf9dd8df138d
+2009-09-10_NIN_Wiltern_D3_t05.flac:002b31bcaddfff60fc8c20fc5f96f037
+2009-09-10_NIN_Wiltern_D3_t06.flac:b070996791768ffae36d93199d2e6c16
+2009-09-10_NIN_Wiltern_D3_t07.flac:aadeef7ce3d12456a737d0517b494289
+2009-09-10_NIN_Wiltern_D3_t08.flac:d7d90c90b164fe5c07df95606cb7fcbd
+2009-09-10_NIN_Wiltern_D3_t09.flac:ce560224ed49e1a8079890aa3f59e7f1

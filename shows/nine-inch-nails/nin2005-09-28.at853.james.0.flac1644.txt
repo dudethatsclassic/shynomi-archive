@@ -1,0 +1,75 @@
+Nine Inch Nails
+September 28, 2005
+Arco Arena
+Sacrmento, CA
+
+*DO NOT SELL THIS RECORDING ANYWHERE!!!! YOU WILL BE REPORTED! FREE TRADE ONLY.*
+
+SOURCE (AUD):
+SP-CMC-4 (AT853s) > SP-SPSB-1 > Creative Nomad Jukebox 3 via Line-In
+
+TRANSFER:
+JB3 > IEEE 1394 Firewire > Cool Edit Pro (Amplified by +3db, Hard Limit -0.5db) > CD WAVE (Tracking) > FLAC frontend
+
+GENERATION:
+JB3(M) > WAV[44.1Khz] > FLAC[Level 8]
+
+GENERATION IF BURNED:
+JB3(M) > CDR(1)
+
+Disc 1:
+1. Pinion
+2. Love Is Not Enough
+3. You Know What You Are?
+4. Terrible Lie
+5. The Line Begins To Blur
+6. March Of The Pigs
+7. The Frail
+8. The Wretched
+9. Closer (The Only Time)
+10. Burn
+11. Gave Up
+12. Eraser
+
+Disc 2:
+1. Right Where It Belongs
+2. Beside You In Time
+3. Wish
+4. Sin
+5. Only
+6. Reptile
+7. Suck
+8. Getting Smaller
+9. Hurt
+10. The Hand That Feeds
+11. Head Like A Hole
+
+*DO NOT SELL THIS RECORDING ANYWHERE!!!! YOU WILL BE REPORTED! FREE TRADE ONLY.*
+DO NOT CONVERT THIS TO MP3 OR OTHER LOSSY FORMATS. IF YOU HAVE TO, KEEP IT TO YOURSELF. PRESERVE THE QUALITY.
+
+james@fuzn.net
+
+FLAC Fingerprints:
+nin2005-09-28d1t01.flac:c982a2740a6fc09e8a8b9932ce048155
+nin2005-09-28d1t02.flac:66e0888afea95dfc3d8088ff84de2f8e
+nin2005-09-28d1t03.flac:091abd0bf68f4913c5f3595d998afd49
+nin2005-09-28d1t04.flac:50716593dd54954c838b7f94e4627a74
+nin2005-09-28d1t05.flac:3a2cff3fbb86107a97cd591413be8ce0
+nin2005-09-28d1t06.flac:45a96dea102d301cfc69385ae3f4b4d6
+nin2005-09-28d1t07.flac:6b38d215de914cd1bab8c68c15fb04ce
+nin2005-09-28d1t08.flac:b631d97adefe2e385cf0a60b0f4c8955
+nin2005-09-28d1t09.flac:8164a768ebf78e9432f6bff76ed8c9ac
+nin2005-09-28d1t10.flac:2d85f1de1b76740b03f2e2c63c1de9d5
+nin2005-09-28d1t11.flac:c17d97beba75c6ae7afe366586244d88
+nin2005-09-28d1t12.flac:0edf2c653a78d662084cd815fad64d92
+nin2005-09-28d2t01.flac:fcee097e5abd551492c6135f83b69ed2
+nin2005-09-28d2t02.flac:f0c6c7b2045aa389e0b1d0c91ce5d685
+nin2005-09-28d2t03.flac:0728fdf42c07c8d88914a3aaef4321d5
+nin2005-09-28d2t04.flac:f24d09f4ba99295f09d6e85dd7626fb3
+nin2005-09-28d2t05.flac:f0ef71dd42d2dcb11168c4b5d9f48391
+nin2005-09-28d2t06.flac:88e3e6738399d0970a963c6bbdf7d022
+nin2005-09-28d2t07.flac:64ed0b020571668a01fc281c39730ff3
+nin2005-09-28d2t08.flac:0827e204b4fda26ff07bbddfbcac39e8
+nin2005-09-28d2t09.flac:316524504ae101829ba5b067e05b2038
+nin2005-09-28d2t10.flac:a3b45c80dcdf02106b2bcabb14cb2498
+nin2005-09-28d2t11.flac:bd329d18d3826581f404df8035c91d9a

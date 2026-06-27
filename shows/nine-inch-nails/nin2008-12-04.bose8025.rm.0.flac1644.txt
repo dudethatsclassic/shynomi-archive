@@ -1,0 +1,68 @@
+Nine Inch Nails
+Thursday, December 4th, 2008
+Prospera Place,
+Kelowna, BC, Canada
+
+Lineage: BOSE 8025's > SONY TCM > Maxell C-90 + Fuji C-60 > WAV > EQ + NR > FLAC (8)
+
+01 intro noise (999,999) *
+02 1,000,000 *
+03 Letting You *
+04 Discipline *
+05 March of the Pigs *
+06 Head Down *
+07 La mer/The Frail * 
+08 Closer *
+09 Gave Up *
+10 Me, I'm Not
+11 Vessel
+12 continued (Ghosts)
+13 Ghosts/Piggy
+14 Pinion
+15 Wish
+16 Terrible Lie
+17 Survivalism
+18 Ghosts/Only
+19 The Hand That Feeds
+20 Head Like A Hole
+21 encore screen
+22 Echoplex
+23 The Beginning of the End
+24 thanks, smelly fuckin' shoe, band intros #
+25 The Good Soldier
+26 Hurt
+27 In This Twilight [cut]
+
+Time: 1:19:59
+
+* = External mics (accidentally) not plugged in, internal mic used. These tracks are of lower quality.
+# = Someone threw their sneaker on stage, Trent says, "Thanks, man, but I really don't want your smelly fuckin' shoe, you can have it back."
+
+fingerprints:
+01 - intro noise (999,999).flac:5817ab528a5262d31476ebc4c34b0c58
+02 - 1000000.flac:9e0850a60c86e797488be3fa7e66414e
+03 - Letting You.flac:c63b028a62e8c0102917c3d3cd3fd4f5
+04 - Discipline.flac:e01671caa96df2e63951fa30f91d8b18
+05 - March of the Pigs.flac:b6fb8dae3a062fb86a2fc3f57157debd
+06 - Head Down.flac:0b624cb4c1cc6490af3811329982cc85
+07 - La mer-The Frail.flac:db3da2abac01af2a2d71740640905eef
+08 - Closer.flac:ebe008ac7ccb72880138c52e49efd4b5
+09 - Gave Up.flac:293c5dbfe6e4b9f28f259ef811e8be76
+10 - Me, I'm Not.flac:675d56a1a3e2f676883fa5ad95e3bd6b
+11 - Vessel.flac:a6b461eaf27311cd4d1041afeae749e0
+12 - continued (Ghosts).flac:08a98b864aa848345186296e8c6d9f4f
+13 - Ghosts-Piggy.flac:ec64b0c88121abf28039cd1c63c9d08b
+14 - Pinion.flac:45f75edb39eac99dd5090c17bab5214d
+15 - Wish.flac:31132effcb5c4e34659a3f0d274a1504
+16 - Terrible Lie.flac:c91d3b1712c980750ad6b14f14a9daf3
+17 - Survivalism.flac:d1b155f5c4371454c4b4a52e52df4ae8
+18 - Ghosts-Only.flac:ed9bfed46f3587431ca693c35db62129
+19 - The Hand That Feeds.flac:332bc8a9509a4a598d46ad054f4c35b9
+20 - Head Like A Hole.flac:63b22afb5606921d09029a8ebc84c373
+21 - encore screen.flac:b552ff4fb7dafad0c8d3b3d4ce5e2ad9
+22 - Echoplex.flac:2ba1ad22d1d7c34144375af100a1eb2f
+23 - The Beginning of the End.flac:0dcccdaf0f6058170dbfc84d3b7c200a
+24 - thanks, smelly fuckin' shoe, band intros.flac:0d49f2a112c3ba59b23dc9ca5e71c125
+25 - The Good Soldier.flac:4bc76302070be3bd3c3b144d94f9a4d4
+26 - Hurt.flac:79b1c477ea9bd17bc5e4d37ad18f34e8
+27 - In This Twilight [cut].flac:902dc92868e6dae6412b85c07363682b

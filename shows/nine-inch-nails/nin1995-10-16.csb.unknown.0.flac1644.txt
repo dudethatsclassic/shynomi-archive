@@ -1,0 +1,183 @@
+Nine Inch Nails & David Bowie 
+
+
+October 16, 1995 
+McNichols Arena 
+Denver, Colorado 
+USA 
+
+
+NIN band: 
+Trent Reznor - vocals, guitar, keyboard 
+Robin Finck - guitar, keyboard 
+Danny Lohner - bass, guitar, keyboard 
+Chris Vrenna - drums 
+Charlie Clouser - keyboards, drums 
+
+
+db band: 
+David Bowie - vocals, saxophone 
+Carlos Alomar - guitars 
+Reeves Gabrels - guitar 
+Gail Ann Dorsey - bass, vocals 
+Mike Garson - keyboards 
+Zachary Alford - drums 
+George Simms - backing vocals, keyboard 
+Peter Schwartz - backing vocals, keyboard, rhythm guitar 
+
+
+Very nice AUDIENCE recording. 
+
+
+Source: Coresounds Binaural > DAT(2) 
+Transfer: DAT(2) > PCM R-500 > Onkyo SE-U55 > Sound Studio (track splits, level adjustments) > xACT (fix SBE, FLAC level5) 
+
+
+
+NIN set: 
+
+Terrible Lie 
+March Of The Pigs 
+The Becoming 
+Sanctified 
+Piggy (Nothing Can Stop Me Now) 
+Burn 
+Closer 
+Wish 
+Gave Up 
+Down In It 
+Eraser (instrumental) 
+
+NIN with db: 
+
+Subterraneans (trent: sax, db: vox) Scary Monsters (and Super Creeps) (trent & db: vox) Reptile (trent & db: vox) Hallo Spaceboy (trent: synth, db: vox, db's band onstage with NIN band) Hurt (trent & db: vox) 
+
+db set: 
+
+Look Back In Anger 
+I'm Deranged 
+The Heart's Filthy Lesson 
+The Voyeur Of Utter Destruction (as Beauty) 
+I Have Not Been To Oxford Town 
+Outside 
+Andy Warhol 
+Breaking Glass 
+The Man Who Sold The World 
+We Prick You 
+Joe The Lion A Small Plot Of Land 
+Nite Flights 
+Under Pressure 
+Teenage Wildlife 
+
+
+
+(This show was played while the Broncos were destroying the Oakland Raiders right next door. I wonder how many crossover fans there were and how it affected ticket sales?)
+
+Like pretty much all tapes of the dissonance tour, this begins after NIN has hit the stage. (misses only the very beginning of terrible lie) 
+
+The Note on the Tape says "Coresounds Binaural > DAT2" and it has SCMS so the transfer is done with the Analog Out. The DAT was recorded at 48.00kHz but it when it was played back to the computer it was captured at 44.1kHz so the downsampling for CDR use was done in the playback stage to prevent any errors during that process. All of the recording and editing was done in Sound Studio on a mac. xACT was used to verify sector boundaries, then tag and encode the flac files.
+
+
+The master tapes must have been a 60m tape, because at about that time there is a tape swap which loses most of andy warhol. The taper says "didn't get much of that" right after, and there is a little knob fiddling once the new tape is in. The plug comes out at the beginning of breaking glass and again in we prick you. The knob gets bumped a few times and the levels drop for the beginning of the new tape and it isn't until teenage wildlife that the taper adjusts them back up again. Meticulous computer editing in Sound Studio allowed me to adjust all this to the proper level the songs played at the show, and after all that I decided to patch the small dropouts in breaking glass and we prick you. For breaking glass I used about 10 secodes in 2 different spots from the atlanta october 9 aud tape, for we prick you i used 10 seconds from the 2nd chorus of the (same) denver tape. 
+
+In the EXRAS folder you can find all the RAW tracks from after the tape swap. That gives you everything on the DAT and the patches & fixes to use or not. The are also disc-end tracks labeled (as ending) & (as beginning) that you can tack onto the discs if you like fades. There is a pretty decent space between spaceboy & hurt, so it doesn't really need them. The tracks are seamless without those extra tracks, which are just intended for disc-burning. 
+
+_________________________________________________________________________ 
+Total Time                                                         151:07 
+
+Disc One                                                            75:06 
+
+denver_1995-10-16_01 terrible lie                                   04:32 
+denver_1995-10-16_02 march of the pigs                              03:50 
+denver_1995-10-16_03 the becoming                                   05:01 
+denver_1995-10-16_04 sanctified                                     07:14 
+denver_1995-10-16_05 piggy (nothing can stop me now)                04:28 
+denver_1995-10-16_06 burn                                           05:03 
+denver_1995-10-16_07 closer                                         06:15 
+denver_1995-10-16_08 wish                                           03:45 
+denver_1995-10-16_09 gave up                                        04:37 
+denver_1995-10-16_10 down in it                                     04:12 
+denver_1995-10-16_11 eraser (instrumental)                          03:58 
+denver_1995-10-16_12 subterraneans                                  04:36 
+denver_1995-10-16_13 scary monsters                                 05:32 
+denver_1995-10-16_14 reptile                                        06:21 
+denver_1995-10-16_15 hallo spaceboy                                 05:19 
+denver_1995-10-16_16 (as ending)                                    00:15 
+
+Disc Two                                                            76:27 
+
+denver_1995-10-16_15 (as beginning)                                 00:11 
+denver_1995-10-16_16 hurt                                           05:56 
+denver_1995-10-16_17 look back in anger                             04:29 
+denver_1995-10-16_18 i'm deranged                                   05:15 
+denver_1995-10-16_19 the heart's filthy lesson                      05:09 
+denver_1995-10-16_20 the voyeur of utter destruction (as beauty)    05:42 
+denver_1995-10-16_21 i have not been to oxford town                 04:20 
+denver_1995-10-16_22 outside                                        04:35 
+denver_1995-10-16_23 andy warhol (end only)                         00:41 
+denver_1995-10-16_24 breaking glass                                 03:44 
+denver_1995-10-16_25 the man who sold the world                     03:36 
+denver_1995-10-16_26 we prick you                                   04:19 
+denver_1995-10-16_27 joe the lion                                   04:06 
+denver_1995-10-16_28 a small plot of land                           06:33 
+denver_1995-10-16_29 nite flights                                   05:50 
+denver_1995-10-16_30 band intro                                     00:30 
+denver_1995-10-16_31 under pressure                                 03:59 
+denver_1995-10-16_32 teenage wildlife                               07:23 
+_________________________________________________________________________ 
+
+
+
+
+fingerprints: 
+denver_1995-10-16_01 terrible lie.flac:012267b5ec5c95fd95e82f1c660cf687
+denver_1995-10-16_02 march of the pigs.flac:634f6c697dab2b05a23a5b55cef4926a
+denver_1995-10-16_03 the becoming.flac:5db3a37bd81d52c2d37ea01efc506bb6
+denver_1995-10-16_04 sanctified.flac:06c2a81f0978de23f01a01f2f310236c
+denver_1995-10-16_05 piggy (nothing can stop me now).flac:7dee8446713160ffd0d4c17e714ddefe
+denver_1995-10-16_06 burn.flac:084d986530a32022fbe45db5f36b5cad
+denver_1995-10-16_07 closer.flac:6c2978dd2fb4fe6c557c8f7a99db3581
+denver_1995-10-16_08 wish.flac:4934e97ddc98d0d01623cd08e8b867be
+denver_1995-10-16_09 gave up.flac:d545c46db7c0d276a765147aadcd4ce8
+denver_1995-10-16_10 down in it.flac:4c72af435d39034fbb22b36ff9a4d159
+denver_1995-10-16_11 eraser (instrumental).flac:4a36f22ae096635b639df572e885f1dc
+denver_1995-10-16_12 subterraneans.flac:856ab361d589feb199482e6f87ade68a
+denver_1995-10-16_13 scary monsters.flac:41bec528f6d6f764a8c8236465ff3e93
+denver_1995-10-16_14 reptile.flac:cb53b1d533221a6d6a6fdc0497434581
+denver_1995-10-16_15 hallo spaceboy.flac:e606cef2da0db2779adb2c82741fb3ae
+denver_1995-10-16_16 hurt.flac:7557ce4aeb84defdea904b7809f6163b
+denver_1995-10-16_17 look back in anger.flac:33f4cb2b3738faf1d8477bc8b82566b1
+denver_1995-10-16_18 i'm deranged.flac:bc514a1e878c60bc6012329d99601d11
+denver_1995-10-16_19 the heart's filthy lesson.flac:4dd1d66f8f0360a11284609eab4e0a25
+denver_1995-10-16_20 the voyeur of utter destruction (as beauty).flac:4bb556e6f3d657b53819e59f7f756ddd
+denver_1995-10-16_21 i have not been to oxford town.flac:3191a53301db7da80f32b38d48211ec3
+denver_1995-10-16_22 outside.flac:f9fe8f7f7c57435812892b62ed606b04
+denver_1995-10-16_23 andy warhol (end only).flac:1ca32b03a752a0183a5d97a940a67d11
+denver_1995-10-16_24 breaking glass.flac:5c782c07c35d87e416955c2854a9361c
+denver_1995-10-16_25 the man who sold the world.flac:e50f4194baabe4b884269d970e4d6beb
+denver_1995-10-16_26 we prick you.flac:68e427cd8b142d9ff67ca01846acacf5
+denver_1995-10-16_27 joe the lion.flac:e6ab468f4b9cd0ff957bdc27885828e7
+denver_1995-10-16_28 a small plot of land.flac:e4a198f32024322984cd57c14096cfcc
+denver_1995-10-16_29 nite flights.flac:4bdafe9e23391e4850f5260489dc7f40
+denver_1995-10-16_30 band intro.flac:fe0b823647e13dbc2ba302454a655391
+denver_1995-10-16_31 under pressure.flac:288cb3b6101dacc451820a52e974a093
+denver_1995-10-16_32 teenage wildlife.flac:dc2a91da2857f28f1a6f09a21aa85df7
+
+EXTRAS: 
+denver_1995-10-16_15 (as beginning).flac:22b524a788570cadbb2e23fc81be9f01
+denver_1995-10-16_16 (as ending).flac:9c6c9e8211bde6304602b43234405798
+
+RAW tracks: 
+denver_1995-10-16_22 [tape swap].flac:52a865d968999231f1446c8ef3f8ce83
+denver_1995-10-16_23 andy warhol (raw).flac:07900498f14d8f72f1f03db20d9c2a6e
+denver_1995-10-16_24 breaking glass (raw).flac:46f03922fd39ab26fbf83cdc359686a8
+denver_1995-10-16_25 the man who sold the world (raw).flac:d1035dac089689b8cffc5a13499d8684
+denver_1995-10-16_26 we prick you (raw).flac:ea2b908db18d06c88d0763cc14ff6f7b
+denver_1995-10-16_27 joe the lion (raw).flac:433c3ad50034b76257fc8614a384957b
+denver_1995-10-16_28 a small plot of land (raw).flac:7e9e3761cfa0e807dd06254aeab75b1a
+denver_1995-10-16_29 nite flights (raw).flac:38e8377ca24d0fe5e8aef980c4a2a0a6
+denver_1995-10-16_30 band intro (raw).flac:c7a4b6e5c5c8087e3a398fcf406ce174
+denver_1995-10-16_31 under pressure (raw).flac:77f6c92d9f07bbe330133708c41623b1
+denver_1995-10-16_32 teenage wildlife (raw).flac:70a774e7065d0089934fd1f5bd390783
+denver_1995-10-16_33 clap test.flac:6b055848e1db3a716c922115b86bd2b8
+

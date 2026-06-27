@@ -1,0 +1,24 @@
+Nine Inch Nails
+Reading Festival
+Reading, UK
+2007-08-26
+
+PAL DVD, Region 0
+Video:  16:9, 9.4 Mbps average bitrate
+Audio:  384 Kbps AC-3 Stereo
+
+Original Lineage: Sky Digital > DVD Recorder > DVD Decrypter
+Remaster Lineage: MacTheRipper 3.0r14m (RipGuard deprotect and demux) -> DVD Studio Pro 4.2.1 (re-author, no compression) -> VIDEO_TS
+
+Originally uploaded to dimeadozen by maggot2007.  Remastered by TheBang to trim Smashing Pumpkins content, correctly set anamorphic flag, and add proper chapter markers.
+
+Pro-shot, broadcast on Sky Digital.
+
+Tracklisting:
+
+1. Only
+2. Wish
+3. Dead Souls
+4. The Hand That Feeds
+5. Head Like A Hole
+6. Hurt

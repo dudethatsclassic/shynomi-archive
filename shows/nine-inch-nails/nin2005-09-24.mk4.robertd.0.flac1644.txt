@@ -1,0 +1,67 @@
+Nine Inch Nails
+2005-09-24
+Rose Garden Arena
+Portland, OR
+
+SOURCE: Schoeps MK4s (in hat)>Nbox>Sony PCM-M1@48 kHz 
+LOCATION: on the floor about 50 ft from the stage DFC
+TRANSFER: Tascam DA-20 MkII>Emagic Audiowerk2>CD Wave Editor>FLAC Frontend 1.7.1
+DSP: increased volume in left channel by 2 dB and resampled to 44.1 kHz in Sound Forge 4.5
+
+Autolux and Queens Of The Stone Age opened
+
+Disc 1
+1 Pinion
+2 Love Is Not Enough
+3 Wish
+4 Terrible Lie
+5 The Line Begins To Blur
+6 March Of The Pigs
+7 Frail
+8 Wretched
+9 Closer
+10 Burn
+11 Gave Up
+12 Eraser
+TT 47:58
+
+Disc 2
+1 Right Where It Belongs
+2 Beside You In Time
+3 You Know What You Are?
+4 Sin
+5 Only
+6 Deep
+7 Down In It (Skin)
+8 Hurt
+9 Hand That Feeds
+10 Starfuckers, Inc.
+11 Head Like A Hole
+TT 51:35
+
+
+
+
+nin 2005-09-24d1t01.flac:5967e1d21ee71b937580cb6a7c88e933
+nin 2005-09-24d1t02.flac:178aa45ba8922831ae33eedbdcad8491
+nin 2005-09-24d1t03.flac:c193876909c4641531b6ce0ffd0828fb
+nin 2005-09-24d1t04.flac:8834f080ff5026e80a72ce4e832bdcd1
+nin 2005-09-24d1t05.flac:f4684ea9cc8d2fe4a28906c95aa740a5
+nin 2005-09-24d1t06.flac:e732bc1969216d46097e557792b516e7
+nin 2005-09-24d1t07.flac:62084b11ad7dba3b6f3368f7704f537c
+nin 2005-09-24d1t08.flac:af6f6a4e74970a3de74e2bd5d6eb0b9e
+nin 2005-09-24d1t09.flac:0385c504ad4fda1d234b1cb866ecf38f
+nin 2005-09-24d1t10.flac:070b877360e59af321cfb5b59d0cf393
+nin 2005-09-24d1t11.flac:560638123425a3cf0f25a515d7f7e175
+nin 2005-09-24d1t12.flac:cda425ca1584aa653b6bf5e17980e1bb
+nin 2005-09-24d2t01.flac:7998a3cfe7a78d34b4875dc5900c171a
+nin 2005-09-24d2t02.flac:1840ed7e782cb908d7612dd89596967f
+nin 2005-09-24d2t03.flac:b3ffe3706e2aecdbffebd9a4d56fa0f1
+nin 2005-09-24d2t04.flac:44951f80482de81fefadef95885d2732
+nin 2005-09-24d2t05.flac:d3a7b8545140117be24e8597717cacf7
+nin 2005-09-24d2t06.flac:1c953bd875d4de90e3ea04b658490256
+nin 2005-09-24d2t07.flac:281d1b2bee3b76fa22e314503f48d9f5
+nin 2005-09-24d2t08.flac:a161d6b766cbc6b4ad0d9bdb236362bb
+nin 2005-09-24d2t09.flac:5151b20f6361ffa09e616d7016425361
+nin 2005-09-24d2t10.flac:d9a72110d9ffe0651eb4474c1c10acc7
+nin 2005-09-24d2t11.flac:d52226c4a3dc1ff7b7d58aa33181393c

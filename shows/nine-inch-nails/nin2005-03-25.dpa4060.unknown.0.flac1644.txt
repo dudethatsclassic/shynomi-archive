@@ -1,0 +1,64 @@
+NINE INCH NAILS
+Freeborn Hall at UC Davis - Davis, CA
+March 25, 2005
+
+***PLEASE DO NOT DISTRIBUTE IN LOSSY FORMATS!***
+***PLEASE DO NOT SELL!!!***
+
+-source-
+DPA 4060's > MPS6020 > Sony TCD-D100 
+(left P.A.)
+
+-conversion-
+D100 > S/PDIF > M-Audio Audiophile USB > WaveLab v5.00 (fades, low-end cut and slight level boost) > CDWave v1.93b > FLAC frontend v1.7.1
+
+-tracklist-
+*CD1* [44:54]
+01. Intro
+02. The Frail 
+03. The Wretched
+04. Know What You Are?
+05. March of the Pigs
+06. Line Begins to Blur
+07. Piggy
+08. Terrible Lie
+09. The Collector
+10. Closer
+11. Home
+12. The Big Comedown
+
+*CD2* [39:07]
+01. The Day the Whole World Went Away
+02. Getting Smaller
+03. With Teeth
+04. Wish
+05. Hurt
+06. The Hand that Feeds
+07. Starfuckers Inc.
+08. Head Like a Hole
+
+
+-fingerprints-
+nin2005-03-25d1t01.flac:2c161dc0bc2724ad4dd7fc0414960159
+nin2005-03-25d1t02.flac:80ac8a3cabb449c61711c32ecf889142
+nin2005-03-25d1t03.flac:bb6dd2ba4a32dd026ddbcad644e1366f
+nin2005-03-25d1t04.flac:fe3380af0e9ede666828d1cb2e59c2cc
+nin2005-03-25d1t05.flac:c43f58dfba5469524d36f6abcb0dbdd6
+nin2005-03-25d1t06.flac:ea36e6440e8c6d96d63e2f38bce16fe3
+nin2005-03-25d1t07.flac:e5d3b212adbeedec1c434b57d2cf6a34
+nin2005-03-25d1t08.flac:df939d3d9bb22a6d2647638589c6ddff
+nin2005-03-25d1t09.flac:fa1572ed1d37b17b92a22b2a689382e5
+nin2005-03-25d1t10.flac:0d0f8b06972c9d5ed167b6e375c06179
+nin2005-03-25d1t11.flac:71390e19d99cf65e4506ce883418daed
+nin2005-03-25d1t12.flac:188b9b7b124136a27ae7e43140abbeb0
+nin2005-03-25d2t01.flac:77cd094d50b0ea33a2bf223c202c6cb6
+nin2005-03-25d2t02.flac:d2bd8ec4e8730a399a5d58d66b82a95b
+nin2005-03-25d2t03.flac:8bb63bf1f16c872bfa400b28fcfa7513
+nin2005-03-25d2t04.flac:0d41a91765213fccbd604956325bc4bd
+nin2005-03-25d2t05.flac:90e7725bd101993b6268c6dd498c169f
+nin2005-03-25d2t06.flac:9a206da490f4da1a8044ddf4144eb2ba
+nin2005-03-25d2t07.flac:d71c1da8b597564299e5e058f2c640b9
+nin2005-03-25d2t08.flac:c458da3ccdbb88e71a986ffa71342b94
+
+
+

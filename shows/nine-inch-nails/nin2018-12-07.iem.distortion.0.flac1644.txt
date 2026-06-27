@@ -1,0 +1,43 @@
+Nine Inch Nails
+December 07, 2018
+Los Angeles, CA
+The Hollywood Palladium
+Cold and Black and Infinite Tour
+
+http://www.ninlive.com/shows/2018/20181207.html
+
+
+Equipment: Feed > Sony PCM-M10 (24/96)
+Taper: Distortion
+Lineage: WAV > Audition (normalize to -0.1 db, convert to 16/44) > Fission (track) > xACT > FLAC
+
+Setlist:
+The Fireman - Twin Peaks Intro
+Mr. Self Destruct
+Last
+March of the Pigs
+Piggy
+The Lovers
+Reptile
+Shit Mirror
+Ahead of Ourselves
+God Break Down The Door
+Closer
+Parasite (w/ Mariqueen)
+Welcome Oblivion (w/ Mariqueen)
+A Drowning (w/ Mariqueen)
+Wish
+Copy of A
+Gave Up
+The Hand That Feeds
+Head Like a Hole
+Home
+And All That Could Have Been
+Hurt
+
+Notes:
+Distortion sent me over the raw files from his feed pull. The feed is good but has a click track throughout most of the recording. I have really held off on releasing this version because I have wanted to go through and eliminate most of the countdowns and click track throughout and matrix with the audience recording from this show. It's just a big task because that is thousands of clicks throughout the recording. It's simply too tedious. If you want to take a stab at it, I will send it over. But for the time being, I am just happy to release this. It's definitely a tech feed as you will hear in Reptile, Trent asking to turn the TV monitors off in the lobby as they are distracting. 
+
+Thanks again to all the tapers on the Cold and Black and Infinite Tour. I hope we will see some shows in the future.
+
+If you have any past recordings of Nine Inch Nails you would like to add to the live archive at http://www.ninlive.com, please get in contact with me at ryanj at reflectinginthechrome dot com!

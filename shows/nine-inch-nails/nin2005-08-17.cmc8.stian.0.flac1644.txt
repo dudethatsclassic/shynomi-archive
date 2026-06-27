@@ -1,0 +1,116 @@
+Nine Inch Nails
+17-08-2005, Rod Laver Arena
+Melbourne, Australia
+
+Location: FOB , center 
+
+Source: SP-CMC8 --> SP-SPSB-1 (Bass rolloff @ 69Hz) --> Neuros Audio 60 GB HD @ 16 bit/48 KHz
+
+Transfer: Neuros Audio --> USB2 --> HD --> SoundForge 7.0 ( -> 24 bit,dc offset removed, normalized, resampled w/aa (44.1 kHz), -> 16 bit) --> .Wav --> cdwave (tracks split) -> .flac (Flac Frontend 1.7.1, verify, level=5)
+
+
+
+Notes: NIN started playing very early, and I was a bit late, so I missed the first 25 min or so:-(
+
+^ Not on the cd, I have seen a list of all the songs they played, but not the playing order, so I'm making an "educated" guess. This is the normal order he plays them in... (I do know that THTF was before Terrible Lie though)
+
+* beginning cut
+
+Taping and transfer: Stian Gansmoe   spin (a) timmeah dot net
+
+WAV size: 731 MB
+Flac size: 372 MB
+
+Setlist:
+
+Pinion ^
+Wish ^
+Sin ^
+The Line Begins To Blur ^
+March of the Pigs ^
+Something I Can Never Have ^
+The Hand That Feeds ^
+
+cd 1:
+01. Terrible Lie *
+02. Burn 
+03. Closer
+04. Home
+05. The Frail 
+06. The Wretched 
+07. Reptile 
+08. Love is Not Enough 
+09. Suck 
+10. Gave Up
+11. Dead Souls
+12. The Day THe World Went Away
+13. Hurt 
+14. You Know What You Are? 
+15. Starfuckers Inc. 
+16. Head Like A Hole
+
+Total Playing Time CD 1 ..........................72:30
+
+
+
+*******************************************************************************
+DO NOT SELL THIS RECORDING! DO NOT CONVERT IT TO A LOSSY FORMAT (MP3, OGG etc.) 
+FOR OTHER PURPOSES THAN PERSONAL USE!
+*******************************************************************************
+
+Flac FingerPrints:
+
+NIN2005-08-17.d01t01.flac:5cfed40d24165471512f37ea960e3806
+NIN2005-08-17.d01t02.flac:8941767f649e14cc6c06bbc65034cd3f
+NIN2005-08-17.d01t03.flac:4364a502de1bfe472a436960b94b942a
+NIN2005-08-17.d01t04.flac:8e4f0498d04692871ebbf7a34a74a6b7
+NIN2005-08-17.d01t05.flac:605e3a4619e02344f8bcc7327f140dcc
+NIN2005-08-17.d01t06.flac:7fd4b8fee6a0c99577f1c4ade4c554ff
+NIN2005-08-17.d01t07.flac:bc47ad098f1dc15435b12a0a755603ce
+NIN2005-08-17.d01t08.flac:439cc78805c7cb8a515a204c78dc1515
+NIN2005-08-17.d01t09.flac:4a3fc2f8527542419fa6802dd9c9a016
+NIN2005-08-17.d01t10.flac:e0aaeb0e4f8630823699d98af03b8091
+NIN2005-08-17.d01t11.flac:5ae243d1b8128f2cf5ff5fe2e4f028e7
+NIN2005-08-17.d01t12.flac:90bd3c09eca9ca3bcbfc848c6b07e707
+NIN2005-08-17.d01t13.flac:338b01d075bf357a4f1070960b5892da
+NIN2005-08-17.d01t14.flac:254330d7a3c881465a9d76105945fb42
+NIN2005-08-17.d01t15.flac:80ada52227d74ede8cb169b9d0c47866
+NIN2005-08-17.d01t16.flac:9d2d1c4e6e7f577be97408071c229353
+
+Flac md5:
+
+abe245eef2501084f7d0fd33f4b11e39 *NIN2005-08-17.d01t01.flac
+e22343e17e762c6c3edb5499d8e5089c *NIN2005-08-17.d01t02.flac
+63922f9f1af7ae999b494a2acd2f02d7 *NIN2005-08-17.d01t03.flac
+630500c6603883a9389949ddd1b83408 *NIN2005-08-17.d01t04.flac
+2350161432807d067b4236a071fff54a *NIN2005-08-17.d01t05.flac
+03037cf00ce1517370102ce34370e445 *NIN2005-08-17.d01t06.flac
+f374ecbea55be07fc80a3d4cd4b2d10d *NIN2005-08-17.d01t07.flac
+fd406c884d0e959ad1c2d2bbb705f196 *NIN2005-08-17.d01t08.flac
+fe0644af608bd10140a2c3cdba834674 *NIN2005-08-17.d01t09.flac
+2a982e06bac9524ab955d351dc5f7446 *NIN2005-08-17.d01t10.flac
+340a17913c1674fd61c38125f5478069 *NIN2005-08-17.d01t11.flac
+ff4d4fb6f5afb0ad10668787d5e16855 *NIN2005-08-17.d01t12.flac
+954abbe2eed2676eb36c80b6b6509c48 *NIN2005-08-17.d01t13.flac
+ed23876402159cd8c8cee2465c80ebe3 *NIN2005-08-17.d01t14.flac
+664bc967f0b0eda5c7064db567119317 *NIN2005-08-17.d01t15.flac
+76b7c61bf30517d6f1db9baa3d41ab6b *NIN2005-08-17.d01t16.flac
+
+Wav md5:
+
+87c74b00c23edb72a147fd3302ac7b5f *NIN2005-08-17.d01t01.wav
+25c5ef44d1b6e7aab8921fa36cfa3956 *NIN2005-08-17.d01t02.wav
+e3f7a3f7b0a0db550296e7e50e799032 *NIN2005-08-17.d01t03.wav
+fc05e3ab67e57b104c6b22f17af98be7 *NIN2005-08-17.d01t04.wav
+9d3540a700a092f3b3f7335d7d73d3c8 *NIN2005-08-17.d01t05.wav
+0fcd5cf8c5e0e69212e142bd8e47e6f6 *NIN2005-08-17.d01t06.wav
+8449061a27a757e2a9564f7f8af47171 *NIN2005-08-17.d01t07.wav
+4f60b007de7904a9044abe7c314b843e *NIN2005-08-17.d01t08.wav
+cb04a6abc724fa1f92984b09fad1f4f6 *NIN2005-08-17.d01t09.wav
+83d532d06ce7b5902168f3d1cfbdee54 *NIN2005-08-17.d01t10.wav
+3fe3e4f1fe2e7df366735035c2552b13 *NIN2005-08-17.d01t11.wav
+8e924e70119de1f92aa466527f4fbaae *NIN2005-08-17.d01t12.wav
+b8902dfc804e882bb6e46d3f5c8d8f28 *NIN2005-08-17.d01t13.wav
+4b314a4e374a5f2d4863fce35c9f843d *NIN2005-08-17.d01t14.wav
+0f7048d207acc0926ad106195eb0a75a *NIN2005-08-17.d01t15.wav
+b1795a499bd88ac96533ac2419476d8c *NIN2005-08-17.d01t16.wav

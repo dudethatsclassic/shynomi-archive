@@ -1,0 +1,54 @@
+---------------------------------------------------------------------------
+Artist: Nine Inch Nails
+Date: 2009-07-07
+Location: Le Zénith
+Paris
+France
+---------------------------------------------------------------------------
+Recorded, transferred & encoded by: Antoine V.
+http://db.etree.org/avtaper
+---------------------------------------------------------------------------
+Generation: Aud>Soundman OKM II Rock-Studio>Soundman A3>Edirol R-09
+>Wav(24/48)>Flac24
+---------------------------------------------------------------------------
+Lineage: Aud
+>Soundman OKM II Rock-Studio
+>Soundman A3
+>Edirol R-09
+>.Wav(24bits/48khz)
+>Cool Edit Pro 2.1
+>CD Wave Editor 1.97
+>Trader's Little Helper
+>flac24 (Level 8)
+---------------------------------------------------------------------------
+Total time: 1:44:03
+Fileset size: 1.06GB
+---------------------------------------------------------------------------
+Note: 
+---------------------------------------------------------------------------
+Setlist: t01: Somewhat Damaged
+t02: Terrible Lie
+t03: Heresy
+t04: March Of The Pigs
+t05: Reptile
+t06: The Becoming
+t07: I'm Afraid Of Americans *
+t08: Burn
+t09: Gave Up
+t10: La Mer
+t11: The Fragile
+t12: Non-Entity
+t13: Gone, Still
+t14: The Way Out Is Through
+t15: Wish
+t16: Survivalism
+t17: Band Introduction & Ilan Rubin's Birthday
+t18: Physical (You're So) **
+t19: The Day The World Went Away
+t20: Hurt
+t21: The Hand That Feeds
+t22: Head Like A Hole
+---------------------------------------------------------------------------
+*   David Bowie
+**  Adam Ant
+---------------------------------------------------------------------------

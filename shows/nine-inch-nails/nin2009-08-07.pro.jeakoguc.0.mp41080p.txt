@@ -1,0 +1,16 @@
+Nine Inch Nails
+Summer Sonic Tokyo
+Makuhari Messe, Chiba
+7 August 2009
+
+Lineage: youtube-dl > afconvert (oupus audio to aac) > ffmpeg (merge + trim)
+Video: MPEG4 Video (H264) 1920x1080 3990 Kbps 29.97 fps
+Audio: AAC 273 Kbps 44.1 kHz stereo
+
+This is not a complete recording of the show, but it's all they streamed so far.
+
+Setlist
+01 - March of the Pigs
+02 - Wish
+03 - Survivalism
+04 - The Hand That Feeds

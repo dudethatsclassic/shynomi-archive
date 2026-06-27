@@ -1,0 +1,61 @@
+NINE INCH NAILS
+2005-06-12
+Southside Festival
+Neuhausen ob Eck, Germany
+
+- SOURCE -
+DAT Audience [OKM-IIr > Sony SBM-1 > Sony PCM-M1]
+
+- LOCATION -
+10 meters from right side stacks, first row.
+
+- TRANSFER -
+DAT master > Sony DTC-ZE700 DAT > Terratec EWX 24/96 > WaveLab V5.0a
+  > Digital Editing > FLAC V1.1.0
+
+- EDITING -
+EQ in Sony Sound Forge V7.0 via Steinberg FreeFilter V1.1
+Volume boost and slight compression in T-RackS V2.0
+Fades in Steinberg WaveLab V5.0a
+Track Splits in CD Wave Editor V1.71
+Resampling: 48.0 kHz > 44.1 kHz in Adobe Audition V1.5 (setting 999)
+
+- SETLIST -
+01 Intro
+02 Wish
+03 Sin
+04 March of the Pigs
+05 The Line Begins to Blur
+06 Something I Can Never Have
+07 The Hand That Feeds
+08 Terrible Lie
+09 Burn
+10 Closer
+11 The Wretched
+12 Getting Smaller
+13 Gave Up
+14 Suck
+15 Hurt
+16 You Know What You Are?
+17 Starfuckers, Inc.
+18 Head Like a Hole
+
+- FINGERPRINTS -
+nin2005-06-12t01.flac:574421b62dcbf2e8e336338a79d5489a
+nin2005-06-12t02.flac:c5cc3be99b2d65d1089ccecd62c4bba2
+nin2005-06-12t03.flac:16aa35b6b4a91ee8eb022463f657d629
+nin2005-06-12t04.flac:e185d83f914eb7cf392732bddb68b42e
+nin2005-06-12t05.flac:2f1895500c0752a394d2b56737bcd416
+nin2005-06-12t06.flac:733911d057a373ef9ebf6339e3aa86b4
+nin2005-06-12t07.flac:4462ee14d31da3db72bd6c59d77e58e7
+nin2005-06-12t08.flac:f08576efa5cce2315a7e006d9d830168
+nin2005-06-12t09.flac:3671ecddb5b2542db5e5eeeb593e5bde
+nin2005-06-12t10.flac:dd2590576edf68511b33a2b68820c73f
+nin2005-06-12t11.flac:b6e11aae2b951c692712f189b1b413de
+nin2005-06-12t12.flac:f2e9145f13b2ff2fbcda4c91f7f8d11d
+nin2005-06-12t13.flac:a023c0e550cc4b8f73cb2300c81739ae
+nin2005-06-12t14.flac:e8b2293558f11dcb4b7f64482ad9c520
+nin2005-06-12t15.flac:801251a1e091d48f669782a347d1deb4
+nin2005-06-12t16.flac:54d663c778aa397c28a2caf50abe33ce
+nin2005-06-12t17.flac:9fa59c6408218ec0b2a8ac63d17a0da2
+nin2005-06-12t18.flac:89c0e6bca2646a08d3b324a2b3c87457

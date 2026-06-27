@@ -1,0 +1,96 @@
+***Please note that some of these files have long file names and are nested in folders with long names as well.  This may cause path names that are too long for Windows to handle.  This won't be an issue for most but if this affects you, try renaming folders to a shorter name.
+
+Title: 1st Pemberton Dust Project
+Date: 2008-07-25-27
+Release date: 2009-02-14
+
+
+This was the first annual Pemberton Music Festival in the incredibly beautiful Pemberton, British Columbia, Canada and it was an absolutely wonderful experience.  As you can tell by some of the screencaps of articles included in this release, there were some definite growing pains that resulted in some difficult times but it was clear that for the most part, everyone made a huge effort to keep things rolling.  And roll it did!  There was a light police presence but I didn't see any problems that would have required them.  First aid responders were aplenty and reported nothing serious.
+
+Just driving to Pemberton was an adventure; the mountain views were incredible and the winding cliff roads were spectacular but treacherous. I knew this was going to be a special event before I even got there when it took me twice as long to drive there as I kept stopping to take photos and admire the beauty.
+
+The main issue at the festival grounds was the dust.  It was incredibly & insanely dusty and dirty.  The dust got everywhere and covered everything.  Truth be told, any normal person would NEVER have taken out their electronics in such an environment.  I suspect that is why no recordings have yet to surface.  Luckily for you, I'm not a normal person.  You could not get away from the dust and even if you took some time to clean yourself off at the water stations, it did not matter; 5 minutes later you were filthy again.  Lots of people were wearing bandanas around their faces to try and protect themselves.  Everything was covered in dust.
+
+The overall weather was quite good but unfortunately winds did pick up a bit from time to time and there was some rain.  The wind and rain came as a comfort in the dust-filled heat and wasn't unwelcome by anyone other than those with electronics out in the open (like me).  I would have gladly forsaken the cooling-off effects of the rain to keep my mics dry.
+
+I really felt for the soundmen and artists as they sure didn’t get a lot of time for soundchecks.  The daily morning soundchecks concerned me as you could hear the sound echoing and bouncing off the distant mountains and it did not sound like it would be high quality.  The actual sound quality at the festival slightly varied by show but for the most part was surprisingly high.  I was very impressed with the quality that the engineers were able to squeeze out; it was completely unexpected and greatly appreciated.  Some of the mixes were a little weak being a bit too low in vocals here or guitar there or whatever but it was the exception rather than the rule.
+
+All of these shows were recorded stealthily and outdoors.  This was my first time recording outdoors and it definitely has its challenges.  For many shows I was completely squashed up against people and people were pushing up against me.  Scores of inebriated people would push by during the artist’s performances as they tried to make their way to the front in an exercise in futility.  I was often being knocked about but I had a great spot very close to the stage, FOB and well centred so I did what it took to make sure I did not lose my place despite the dynamic wave-like motions of the crowd.  I was leaning up against a security fence and was often holding on for dear life.  For a few of the shows there were high winds and rain.  Because of these reasons, you’ll occasionally hear people talking, infrequent phase shifting as I move my head (I was as still as possible), the security fence being banged on and some occasional light wind rumble.  Obviously, this is the nature of all outdoor audience recordings and can’t be controlled.  Luckily I used my cardioid mics with big wind screens which greatly limited much of the peripheral and wind noise.
+
+The recorded sound quality that I was able to obtain was very high.  Due to some of the above reasons, it is difficult to rate all of these shows accurately as it varies.  They all fall in between a VG+ at the low end and EX+ on the high end.  They probably average about EX-.
+
+UPDATE: At the time of this writing (2008-11-30), it's still not clear if there will be a 2nd annual Pemberton Music Festival.  The provincial Agricultural Land Commission (ALC) has just now finally approved the application by Live Nation Canada for non-farm use of the 2008 festival site.  This seemed to be the major sticking point.  It looks like it's a go but this only leaves about 8 months of planning before the event.  My fingers are certainly crossed.  All in all, this festival was a filthy success.
+
+UPDATE 2: Unfortunately at the time of this writing (2009-01-15) it looks like the 2009 Pemberton Music Festival is a no go.  Organizers have promised a 2010 version but they say that they did not have enough time to properly organize a show after the ALC took so long to give permission to use the land.  I have added an image of a news report that was published on piquenewsmagazine.com
+
+Finally, a small technical note.  For the convenience of those who still burn to CD, I've set the disc thresholds at 74 minutes or 650ish MB; whichever comes first. Like most festivals, the artists at Pemberton typically did not perform full length sets however sometimes still went over these thresholds.  In these 5 cases, I chose to make 2 smaller yet more even-balanced discs as opposed to a full disc and an almost empty disc.  This does not affect your listening pleasure!
+
+**********************************************
+16 bit / 44100 Hz version
+**********************************************
+
+Artist/Band: Nine Inch Nails
+
+Date: 2008-07-25 (Friday)
+Title: May Cause Seizures
+Venue: Pemberton Music Festival - Outdoors - Pemberton, British Columbia, Canada
+Recording location: FOB - approx. 15 to 20 metres from stage & 1 metre left of centre
+Source: Audience/Stealth
+Recordist: Seth
+Lineage: Church Audio ST-11 cardioid mics > Church Audio 9100 v3.0 pre-amp with bass roll off turned off > Edirol R-09 (24/48) > Adobe Audition 3.0 (track splitting, fades, downsampling) > Trader's Little Helper v.2.4.1 build 160 (flac 8, fix SBE's & create .ffp and .md5 files)
+Sound Quality: Various sound ratings between VG+ to EX+.  See descriptions for more details.
+All photos taken by Seth
+Artwork by Moonwall
+
+Total .wav size:        977 MB
+Total .flac(8) size:    519 MB
+
+---------------------------------
+Disc 01:
+d01t00 - Ambiance & Atmosphere - 5:20
+d01t01 - 999 999 - 1:21
+d01t02 - 1 000 000 - 4:02
+d01t03 - Letting You - 3:54
+d01t04 - Discipline - 4:16
+d01t05 - March of the Pigs - 3:59
+d01t06 - Head Down - 4:19
+d01t07 - The Frail - 1:49
+d01t08 - Piggy - 4:46
+d01t09 - Closer - 4:17
+d01t10 - Gave Up - 4:21
+d01t11 - Corona Radiata - 1:19
+d01t12 - The Warning - 3:51
+
+Total Disc 01 - 47:40
+
+---------------------------------
+Disc 02:
+d02t01 - The Great Destroyer - 3:55
+d02t02 - Echoplex - 5:39
+d02t03 - Wish - 3:41
+d02t04 - Terrible Lie - 5:03
+d02t05 - Survivalism - 4:24
+d02t06 - The Big Comedown - 4:12
+d02t07 - 31 Ghosts IV - 2:30
+d02t08 - Only - 5:10
+d02t09 - God Given - 3:48
+d02t10 - The Hand That Feeds - 3:32
+d02t11 - Head Like a Hole - 7:09
+
+Total Disc 02 - 49:10
+
+---------------------------------
+Total Time: 1:36:50
+---------------------------------
+
+**********************************************
+
+I was definitely not prepared for the show that was about to take place.  Wow!  This show was like a delightful assault on the senses and really blew me away.  I was particularly impressed by the light show that was utterly amazing.  Clearly there is a new direction that light shows are taking now.  No longer are fancy "Vari-lite" or "Intelli-lights" the things to have anymore.  Now everything seems to be LED.  And WOW are these lights incredible.  I believe that U2 actually pioneered this whole "curtain of lights" thing but it seems to have been very quickly adopted by the industry.  For the most part, NIN used only very bright white lights that did a lot of strobing at all kinds of speeds; just perfect for provoking seizures!  The title for this show comes from someone's comments I overheard after the show.  For some songs, NIN also played behind a lowered see-thru wall of LEDs that would then light up everywhere except where the singer was.  This way, you couldn't see through the light but you could see Trent.  As he moved, that "blank" spot would follow him around.  This was quite a neat effect that was used well.  There are some photos of the light show included in this project but, of course, they do not do it justice.
+
+Things to listen for:
+Guy with the cowbell, guy with the air horn, fence pounding after the show is over.
+
+This recording will naturally sound much better cranked up loud with quality headphones!
+
+Peace & enjoy,
+Seth

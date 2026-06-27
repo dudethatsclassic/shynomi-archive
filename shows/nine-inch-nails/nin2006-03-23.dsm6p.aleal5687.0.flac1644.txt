@@ -1,0 +1,67 @@
+Nine Inch Nails
+"Concrete Street Amphitheater"
+Corpus Christi, TX
+March 23, 2006
+
+Setlist
+::DISC 1::
+1)  Pinion
+2)  Mr Self Destruct
+3)  Sin
+4)  Terrible Lie
+5)  The Line Begins to Bluu
+6)  March Of the Pigs
+7)  Something I can Never Have
+8)  Closer
+9)  Burn
+10) Gave Up
+11) Eraser
+12) The Day the World Went Away
+::DISC 2::
+13) Piggy
+14) Wish
+15) Only
+16) Everyday is Exaclty the Same
+17) You Know What You Are
+18) Hurt
+19) Bite the Hand
+20) Head Like a Hole
+
+Taped:Sonic Studios dsm6p->sp_mini_trs->microtrack(fw1.3.3)(24/48)4gbmicrodrive
+	->microdrive_reader->Cool Edit Pro 2(used to eq out heavy bass, boost levels, 
+        sample rate convert 16bit/44.1khz)->flac level 8
+Location:FOS stage right by aleal5687
+
+Notes about show:
+Unusally cold for this time of year in South Texas. No screen probably due to the 
+windy conditions.My first show with my MT. I was very happy with the results.
+
+NIN_2006_03_23_MT_dsm_6p_16bitd1t01.flac:a4da889cf289d3eb59f0a04c81b786a6
+NIN_2006_03_23_MT_dsm_6p_16bitd1t02.flac:d0c042047d4b36b89b245adeb9e85105
+NIN_2006_03_23_MT_dsm_6p_16bitd1t03.flac:56f7b7137ac74b8ea2ee12d9590d729c
+NIN_2006_03_23_MT_dsm_6p_16bitd1t04.flac:8e488fcacdb31a8215af8d525c4cded8
+NIN_2006_03_23_MT_dsm_6p_16bitd1t05.flac:445b4058fc5af6f5269044c57b8c6527
+NIN_2006_03_23_MT_dsm_6p_16bitd1t06.flac:41eda3e6f7842260d429922e4800e784
+NIN_2006_03_23_MT_dsm_6p_16bitd1t07.flac:648e68513c59e83a8273a0c572717340
+NIN_2006_03_23_MT_dsm_6p_16bitd1t08.flac:f525b1f05189d019ef373c44430d4d74
+NIN_2006_03_23_MT_dsm_6p_16bitd1t09.flac:adf36bc8ec68b7c01e17587f806ecb22
+NIN_2006_03_23_MT_dsm_6p_16bitd1t10.flac:78760ad9cee2a5fa39603ccba9d8c4c5
+NIN_2006_03_23_MT_dsm_6p_16bitd1t11.flac:5738d21849a3a6006b42d1815b6547ec
+NIN_2006_03_23_MT_dsm_6p_16bitd1t12.flac:edf4b47e09bf18cc40b1aa0257e1eaaf
+NIN_2006_03_23_MT_dsm_6p_16bitd2t01.flac:d36aeb046d66e31855d8610d526c7ebf
+NIN_2006_03_23_MT_dsm_6p_16bitd2t02.flac:5c6ee1345ade79175de379ec53e4d339
+NIN_2006_03_23_MT_dsm_6p_16bitd2t03.flac:380715db5b02617db4180f207c8fc405
+NIN_2006_03_23_MT_dsm_6p_16bitd2t04.flac:af4e8573468e3549e5edf8e562682abb
+NIN_2006_03_23_MT_dsm_6p_16bitd2t05.flac:3bd9b7ff21688749d977079d12832ea2
+NIN_2006_03_23_MT_dsm_6p_16bitd2t06.flac:31b8cfd677605141ad589c50f8b8516f
+NIN_2006_03_23_MT_dsm_6p_16bitd2t07.flac:3288a763d16a29f54ce1d60b770915d8
+NIN_2006_03_23_MT_dsm_6p_16bitd2t08.flac:f01fb6c1dfea659275c2463a24de1e62
+
+
+::::DO NOT SELL THIS RECORDING OR CONVERT TO MP3::
+
+::::::::::ENJOY AND SHARE THIS RECORDING::::::::::
+
+aleal5687
+
+First seeded on Dime 4/5/06

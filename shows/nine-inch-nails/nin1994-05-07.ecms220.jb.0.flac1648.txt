@@ -1,0 +1,43 @@
+
+
+----------------------------------------------------------------
+	Artist:			Nine Inch Nails
+	Date:			May 07, 1994
+	Location:		Riviera, Chicago
+	Taper:			JB
+	e-mail:			radioheadusa@comcast.net
+	DC++ screenname:	radiohead8989
+	date of seeding:	April 14, 2011
+----------------------------------------------------------------
+	Source Info:		>Sony D-3 DAT recorder (16bit-48kHz)
+				>ECM-S220 Mic
+				>CDWAVE 1.98
+				>FLAC (level 8)
+----------------------------------------------------------------
+	additional info:	Recorded from the first rail, center
+----------------------------------------------------------------
+	running time:		1h:23m:53s
+----------------------------------------------------------------
+	Setlist:		01 Pinion
+				02 Terrible Lie
+				03 Sin
+				04 March of the Pigs
+				05 Something I Can Never Have
+				06 Closer 
+				07 Reptile
+				08 Wish
+				09 Suck
+				10 The Only Time
+				11 Get Down Make Love
+				12 Down In It
+				13 Big Man With a Gun
+				14 Head Like a Hole
+
+				15 Off-Stage
+				16 Dead Souls
+				17 Help Me I'm In Hell
+				18 Happiness In Slavery
+----------------------------------------------------------------
+Note:
+This is a 16bit / 48KHZ recording.  It cannot be burned to a cd, unless you convert it to 44.1KHZ.
+The FLAC files were created using CD Wave 1.98, and they were tested using Media Monkey 3.1.1.1261.

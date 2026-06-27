@@ -1,0 +1,42 @@
+Nine Inch Nails
+April 19, 1994
+Seattle, WA
+Moore Theatre
+Self Destruct Tour
+
+http://www.reflectinginthechrome.com/shows/1994/19940419.html
+
+Equipment: Sonic Studios + Sony TCD-D3
+Taper: Ed Phernetton
+Generation: DAT Clone
+Lineage: Master DAT > DAT > Tascam DA-20 (16/48) > Co2 Converter > Optical In > iMac > Adobe Audition (Normalize to -0.1 db) > CDWAVE (track) > FLAC
+
+
+Setlist:
+Pinion
+Terrible Lie
+Sin
+March of the Pigs
+Something I Can Never Have
+Closer
+Reptile
+Wish
+Suck
+The Only Time
+Get Down Make Love
+Down In It
+Big Man With a Gun
+Head Like a Hole
+Dead Souls
+Help Me I'm In Hell
+Happiness in Slavery 
+
+Notes:
+This recording has been shared previously, but this is a proper transfer of this recording. The transfer before did some hard limiting to the tape when EQ'ing the transfer. With this transfer there was NO EQ'ing done. This is the raw file, only normalized to -.01 db. This tape is very good. The taper who did this recording also did the next night in Seattle as well. If anyone has any information on who the taper is (and with what exact mic/deck models) please let me know so I can create an accurate archive database for these NIN shows. Enjoy the tape!
+
+This recording was transferred at 16/48, same as what the master DAT was recorded at for archival purposes. This cannot be burnt to CD, it must be converted to 16/44.
+
+If you have any past recordings of Nine Inch Nails you would like to add to the live archive at http://www.reflectinginthechrome.com, or are taping any concerts in the future please get in contact with me at ryanj at reflectinginthechrome dot com!
+
+NOTES ADDED ABOUT THIS TAPE THANKS TO ERIK:
+"these were done by Ed Phernetton ,RIP....a legend in the Seattle area in the 90s also known as Living After Midnight digital in Goldmine..done with sonic studios mice and a sony TC d3 dat..he was a colorful but good dude..he tended to make CD's, and in fact purposely labeled a seattle show I think Portland in 94 to keep some of the heat off him at the moore theater...he didn't really like NIN, thought they were silly, but he  could sell em..He always got a good laugh at how Trent just threw keyboards all over because they were not being played live, just on MIDI...now Tori amos or U2, that was an entirely different story for Ed. He also rarely did "digital" clones, rather ran the DAT into a BBE and EQ and then back out to DAT to make it sound crisper and refined"

@@ -1,0 +1,49 @@
+
+
+----------------------------------------------------------------
+	Artist:			NIN
+	Date:			May 10, 2009
+	Location:		Lakewood Amphitheatre, Chicago
+	Taper:			JB
+	e-mail:			radioheadusa@comcast.net
+	DC++ screenname:	radiohead8989
+	Web:			http://home.comcast.net/~radioheadusa/
+	date of seeding:	May 11, 2009
+----------------------------------------------------------------
+	Source Info:		>Edirol R9 (24bit/48kHz) (Line In)
+				>Core Sound HEB (4060) (Bass Rolloff=ON)
+				>Adobe Audition 
+				>CDWAVE
+				>FLAC (level 8)
+----------------------------------------------------------------
+	additional info:	Recorded from the Pit
+----------------------------------------------------------------
+	running time:		1h:37m:10s
+----------------------------------------------------------------
+	Setlist:		01 Intro
+				02 1,000,000
+				03 Wish
+				04 Heresy
+				05 March of the Pigs
+				06 Something I Can Never Have
+				07 Metal
+				08 The Becoming
+				09 Head Down
+				10 Mr. Self Destruct
+				11 Reptile 
+				12 The Big Come Down
+				13 Gave Up
+				14 Gone, Still
+				15 Survivalism (w Saul Williams)
+				16 Banged & Blown Through (w Saul Williams) 
+				17 Home
+				18 Trent Speaks & Intros Band
+				19 Physical (You're So)
+				20 Down In It
+				21 The Hand That Feeds
+				22 Head Like A Hole
+----------------------------------------------------------------
+Note:
+This is a 24bit / 48KHZ recording.  It cannot be burned to a cd, unless you convert it to 16bit / 44.1k first.
+The FLAC files were created using CD Wave 1.97, and they were tested using Media Monkey 3.0.2.1134.
+

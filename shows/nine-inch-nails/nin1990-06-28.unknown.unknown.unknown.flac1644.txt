@@ -1,0 +1,227 @@
+X Lossless Decoder version 20141129 (148.1)
+
+XLD extraction logfile from 2015-01-26 13:05:22 -0500
+
+ / Audio CD
+
+Used drive : OPTIARC DVD RW AD-5670SC (revision 4BH2)
+Media type : CD-Recordable
+
+Ripper mode             : XLD Secure Ripper
+Disable audio cache     : OK for the drive with a cache less than 1375KiB
+Make use of C2 pointers : NO
+Read offset correction  : 48
+Max retry count         : 20
+Gap status              : Analyzed, Appended
+
+TOC of the extracted CD
+     Track |   Start  |  Length  | Start sector | End sector 
+    ---------------------------------------------------------
+        1  | 00:00:00 | 09:13:14 |         0    |    41488   
+        2  | 09:13:14 | 04:01:69 |     41489    |    59632   
+        3  | 13:15:08 | 06:42:42 |     59633    |    89824   
+        4  | 19:57:50 | 06:53:42 |     89825    |   120841   
+        5  | 26:51:17 | 08:55:17 |    120842    |   160983   
+        6  | 35:46:34 | 05:16:72 |    160984    |   184755   
+        7  | 41:03:31 | 05:03:65 |    184756    |   207545   
+        8  | 46:07:21 | 07:43:31 |    207546    |   242301   
+        9  | 53:50:52 | 04:44:15 |    242302    |   263616   
+       10  | 58:34:67 | 06:13:25 |    263617    |   291616   
+       11  | 64:48:17 | 04:06:42 |    291617    |   310108   
+
+AccurateRip Summary
+    Disc not found in AccurateRip DB.
+
+All Tracks
+    Filename : /Users/RyanJonik/Desktop/Audio CD.wav
+    Album gain               : -8.81 dB
+    Peak                     : 0.953674
+    CRC32 hash (test run)    : D24DC6A5
+    CRC32 hash               : D24DC6A5
+    CRC32 hash (skip zero)   : C7DECFD9
+    Statistics
+        Read error                           : 0
+        Jitter error (maybe fixed)           : 0
+        Retry sector count                   : 0
+        Damaged sector count                 : 0
+
+Track 01
+    Pre-gap length : 00:02:00
+
+    Track gain               : -6.82 dB
+    Peak                     : 0.937134
+    CRC32 hash (test run)    : D25A13E9
+    CRC32 hash               : D25A13E9
+    CRC32 hash (skip zero)   : 47ECD4DD
+    AccurateRip v1 signature : FCEFDFB8
+    AccurateRip v2 signature : 21E4CD84
+        ->Track not present in AccurateRip database.
+    Statistics
+        Read error                           : 0
+        Jitter error (maybe fixed)           : 0
+        Retry sector count                   : 0
+        Damaged sector count                 : 0
+
+Track 02
+
+    Track gain               : -8.86 dB
+    Peak                     : 0.947906
+    CRC32 hash (test run)    : 4A3792C3
+    CRC32 hash               : 4A3792C3
+    CRC32 hash (skip zero)   : 4B2872A0
+    AccurateRip v1 signature : 7A816F7D
+    AccurateRip v2 signature : 15DFA3E9
+        ->Track not present in AccurateRip database.
+    Statistics
+        Read error                           : 0
+        Jitter error (maybe fixed)           : 0
+        Retry sector count                   : 0
+        Damaged sector count                 : 0
+
+Track 03
+
+    Track gain               : -5.98 dB
+    Peak                     : 0.925934
+    CRC32 hash (test run)    : FAF5E61A
+    CRC32 hash               : FAF5E61A
+    CRC32 hash (skip zero)   : 4F08E3BD
+    AccurateRip v1 signature : 6BC5BDC6
+    AccurateRip v2 signature : AD59CBB8
+        ->Track not present in AccurateRip database.
+    Statistics
+        Read error                           : 0
+        Jitter error (maybe fixed)           : 0
+        Retry sector count                   : 0
+        Damaged sector count                 : 0
+
+Track 04
+
+    Track gain               : -7.27 dB
+    Peak                     : 0.935181
+    CRC32 hash (test run)    : 50DDCA29
+    CRC32 hash               : 50DDCA29
+    CRC32 hash (skip zero)   : 1EECB87E
+    AccurateRip v1 signature : 49AFC59D
+    AccurateRip v2 signature : 427C2CEE
+        ->Track not present in AccurateRip database.
+    Statistics
+        Read error                           : 0
+        Jitter error (maybe fixed)           : 0
+        Retry sector count                   : 0
+        Damaged sector count                 : 0
+
+Track 05
+
+    Track gain               : -8.85 dB
+    Peak                     : 0.943207
+    CRC32 hash (test run)    : 4AF6DC5E
+    CRC32 hash               : 4AF6DC5E
+    CRC32 hash (skip zero)   : 473568C7
+    AccurateRip v1 signature : 3701239F
+    AccurateRip v2 signature : A7296F78
+        ->Track not present in AccurateRip database.
+    Statistics
+        Read error                           : 0
+        Jitter error (maybe fixed)           : 0
+        Retry sector count                   : 0
+        Damaged sector count                 : 0
+
+Track 06
+
+    Track gain               : -8.98 dB
+    Peak                     : 0.948425
+    CRC32 hash (test run)    : F374657F
+    CRC32 hash               : F374657F
+    CRC32 hash (skip zero)   : 5A58D064
+    AccurateRip v1 signature : ADD72D89
+    AccurateRip v2 signature : 99F9869B
+        ->Track not present in AccurateRip database.
+    Statistics
+        Read error                           : 0
+        Jitter error (maybe fixed)           : 0
+        Retry sector count                   : 0
+        Damaged sector count                 : 0
+
+Track 07
+
+    Track gain               : -6.53 dB
+    Peak                     : 0.928955
+    CRC32 hash (test run)    : CF7A27D3
+    CRC32 hash               : CF7A27D3
+    CRC32 hash (skip zero)   : A55B4017
+    AccurateRip v1 signature : AD2230A5
+    AccurateRip v2 signature : FAD62044
+        ->Track not present in AccurateRip database.
+    Statistics
+        Read error                           : 0
+        Jitter error (maybe fixed)           : 0
+        Retry sector count                   : 0
+        Damaged sector count                 : 0
+
+Track 08
+
+    Track gain               : -8.32 dB
+    Peak                     : 0.929016
+    CRC32 hash (test run)    : 82F6338B
+    CRC32 hash               : 82F6338B
+    CRC32 hash (skip zero)   : EBC04754
+    AccurateRip v1 signature : D9D16C8E
+    AccurateRip v2 signature : 8F24F64D
+        ->Track not present in AccurateRip database.
+    Statistics
+        Read error                           : 0
+        Jitter error (maybe fixed)           : 0
+        Retry sector count                   : 0
+        Damaged sector count                 : 0
+
+Track 09
+
+    Track gain               : -7.27 dB
+    Peak                     : 0.869019
+    CRC32 hash (test run)    : D6839EDB
+    CRC32 hash               : D6839EDB
+    CRC32 hash (skip zero)   : B93CE196
+    AccurateRip v1 signature : C26E0973
+    AccurateRip v2 signature : BF796DE6
+        ->Track not present in AccurateRip database.
+    Statistics
+        Read error                           : 0
+        Jitter error (maybe fixed)           : 0
+        Retry sector count                   : 0
+        Damaged sector count                 : 0
+
+Track 10
+
+    Track gain               : -6.07 dB
+    Peak                     : 0.904999
+    CRC32 hash (test run)    : C40F0057
+    CRC32 hash               : C40F0057
+    CRC32 hash (skip zero)   : 05065DB3
+    AccurateRip v1 signature : 9A87AA55
+    AccurateRip v2 signature : 9BDA5959
+        ->Track not present in AccurateRip database.
+    Statistics
+        Read error                           : 0
+        Jitter error (maybe fixed)           : 0
+        Retry sector count                   : 0
+        Damaged sector count                 : 0
+
+Track 11
+
+    Track gain               : -12.08 dB
+    Peak                     : 0.953674
+    CRC32 hash (test run)    : F036FF45
+    CRC32 hash               : F036FF45
+    CRC32 hash (skip zero)   : 8EA282FF
+    AccurateRip v1 signature : 0F94CD0B
+    AccurateRip v2 signature : 0503211C
+        ->Track not present in AccurateRip database.
+    Statistics
+        Read error                           : 0
+        Jitter error (maybe fixed)           : 0
+        Retry sector count                   : 0
+        Damaged sector count                 : 0
+
+No errors occurred
+
+End of status report

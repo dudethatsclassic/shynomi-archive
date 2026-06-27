@@ -1,0 +1,109 @@
+{\rtf1\mac\ansicpg10000\cocoartf102
+{\fonttbl\f0\fnil\fcharset77 Verdana;\f1\fswiss\fcharset77 Helvetica;\f2\fnil\fcharset77 Monaco;
+\f3\fnil\fcharset77 Verdana-Bold;}
+{\colortbl;\red255\green255\blue255;\red13\green13\blue13;}
+\margl1440\margr1440\vieww9920\viewh12180\viewkind0
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\ql\qnatural
+
+\f0\fs24 \cf0 BoldCaptain & SBDJohnny Present:\
+NineInchNails2005-01-5-CSBs.flacf.torrent\
+\
+Nine Inch Nails\
+Coachella Music & Arts Festival\
+01 May 2005\
+Empire Polo Grounds, Indio, California.\
+\
+Source: Master Audience DAT: CSBs=Core Sound Binaurals (9V BatBox >Line In) > Sony PCM-M1 > Maxell 90m DAT @48k\
+\
+\pard\tx720\tx1440\tx2160\tx2880\tx3600\tx4320\tx5040\tx5760\tx6480\tx7200\tx7920\tx8640\pardeftab720\ql\qnatural
+
+\f1 \cf0 Playback/Transfer: Fostex D5 Master (DAT) Recorder  > Tascam CD-RW5000 9 \
+(AES/EBU out > Coax in) > CD > Peak 4.0 ( Extraction, Tracking, Fades ) > fix SBE, compress to flac level 7, generate fingerprint, verify via xACT 1.4b23, seeded to EZT via Azureus 2.2.0.2 by BoldCaptain May 2005.\
+\
+FileSize: 417.6 Mb Flac 7\
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\ql\qnatural
+
+\f0 \cf0 \
+Setlist:\
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\ql\qnatural
+\cf2 01. Intro
+\f2\fs20 \cf0      0:59.64
+\f3\b\fs24 \
+
+\f0\b0 \cf2 02. The Frail
+\f2\fs20 \cf0      1:02.31
+\f0\fs24 \
+\cf2 03. The Wretched
+\f2\fs20 \cf0      6:05.03
+\f0\fs24 \
+\cf2 04. You Know What You Are? 
+\f2\fs20 \cf0      3:24.32
+\f0\fs24 \
+\cf2 05. March of the Pigs 
+\f2\fs20 \cf0      3:58.25
+\f0\fs24 \
+\cf2 06. The Line Begins to Blur 
+\f2\fs20 \cf0      3:58.68
+\f0\fs24 \
+\cf2 07. Piggy 
+\f2\fs20 \cf0      4:46.24
+\f0\fs24 \
+\cf2 08. With Teeth
+\f2\fs20 \cf0      1:22.23
+\f0\fs24 \cf2  \cf0 \
+\cf2 09. Terrible Lie 
+\f2\fs20 \cf0      5:03.11
+\f0\fs24 \
+\cf2 10. Burn
+\f2\fs20 \cf0      4:53.65
+\f0\fs24 \cf2  \cf0 \
+\cf2 11. Closer (The Only Time)
+\f2\fs20 \cf0      4:26.70
+\f0\fs24 \cf2  \cf0 \
+\cf2 12. The Big Comedown
+\f2\fs20 \cf0      4:00.24
+\f0\fs24 \
+\cf2 13. Even Deeper
+\f2\fs20 \cf0      4:20.12
+\f0\fs24 \cf2  \cf0 \
+\cf2 14. Suck
+\f2\fs20 \cf0      5:48.07
+\f0\fs24 \cf2  \cf0 \
+\cf2 15. Wish 
+\f2\fs20 \cf0      3:53.31
+\f0\fs24 \
+\cf2 16. Hurt 
+\f2\fs20 \cf0      5:04.23
+\f0\fs24 \
+\cf2 17. The Hand That Feeds 
+\f2\fs20 \cf0      3:33.14
+\f0\fs24 \
+\cf2 18. Head Like a Hole 
+\f2\fs20 \cf0      5:17.47\
+Total:    71:58.49
+\f0\fs24 \
+\
+\
+fingerprint:\
+NIN2005-5-1-CSBs-d1t01.flac:d40baf5b921fb497869f173d725d8e4c\
+NIN2005-5-1-CSBs-d1t02.flac:47dc9e608c3cdcb7a026c188f6426541\
+NIN2005-5-1-CSBs-d1t03.flac:93ea6fafb34e5d42df0ff620b0d0381d\
+NIN2005-5-1-CSBs-d1t04.flac:7a2e5a99f91777457f52a98078b229aa\
+NIN2005-5-1-CSBs-d1t05.flac:9b336b5dc8aa4f65b2ea9e9c566b394f\
+NIN2005-5-1-CSBs-d1t06.flac:fe3fe38dc648070dd633c8639b372a96\
+NIN2005-5-1-CSBs-d1t07.flac:b211be1a8bdf6347e5b09bf287f1b6b8\
+NIN2005-5-1-CSBs-d1t08.flac:17a1789e327e47249e59f7c5458260ca\
+NIN2005-5-1-CSBs-d1t09.flac:64f5a1f2505c4c6a17a226ac45ad1f46\
+NIN2005-5-1-CSBs-d1t10.flac:55741d5b23085a6f68e58ece8b4085ae\
+NIN2005-5-1-CSBs-d1t11.flac:c388d882d517ac0003721d36500a2156\
+NIN2005-5-1-CSBs-d1t12.flac:fd9a1daa755487781a50a700caa83dae\
+NIN2005-5-1-CSBs-d1t13.flac:86e4228d81ccc00005ec6545995b62e2\
+NIN2005-5-1-CSBs-d1t14.flac:78b7fe41c9a974b5837ddb8881a530b8\
+NIN2005-5-1-CSBs-d1t15.flac:253255deb0621ed9bb51e9fd500c1079\
+NIN2005-5-1-CSBs-d1t16.flac:2f1b8cf442a91a031636d195780e7967\
+NIN2005-5-1-CSBs-d1t17.flac:0536baf64dfba6deca21b1bed424ac28\
+NIN2005-5-1-CSBs-d1t18.flac:7079d06703d6d283970149f552cf207b\
+\
+Notes: I had some stuff from the first day I was gonna torrent, when I thought to myself... Isnt it funny how the Nine Inch Nails set never got posted. Well after giving it a fair listen I can say I understand why. There were several elements we were battling this day, but at least it wasn't the heat this year. Quite the opposite. Strong winds coming out of the mountains were blowing the sound around quite a bit, even more so after sunset and for the most part it basically turns into "sing along with Trent". But the louder bits are nice and so far its the only one to surface. So whom ever was out there and made the kill of this set, step on up, cause we are going to want an upgrade!! \
+Special thanks go to my son Philip, who mastered this one. At age 17 he represents the new guard in audience taping.\
+Enjoy!}

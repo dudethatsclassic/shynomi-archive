@@ -1,0 +1,67 @@
+Nine Inch Nails
+Fillmore Auditorium
+Denver, Colorado, USA
+May 4, 2005
+
+Lineage: audio (by Twistertapes) MK4>DAT; video: Canon ZR40 (SD)>.MPEG>VIDEO TS (using Ulead)>DVD-R>VIDEO_TS (extracted losslessly 
+using DVDShrink) 
+
+Tracklist (1:23:09):
+
+Wish
+Sin
+The Line Begins To Blur
+March of the Pigs
+Something I Can Never Have
+The Hand That Feeds
+Terrible Lie
+Closer
+Home
+Every Day Is Exactly The Same
+Burn
+Reptile
+Love Is Not Enough
+Suck
+Gave Up
+Hurt
+Getting Smaller
+Head Like a Hole
+
+Notes: Loudpuppy's master - this is the one video of his that he spent extra time working on the presentation, because he was
+really happy with how it turned out. Plus, BT (aka Twistertapes) was there to provide expert audio for this production. If you're
+a fan, this is a must have.
+
+Myself, I'm a fan of audience shot videos - I've shot 40 or so myself, and have 100s of old VHS tapes from collectors around the
+world. I really enjoy this video, but, your enjoyment will likely be determined by how much you tolerate somewhat shaky, somewhat
+blurry and generated picture. If you're cool with that, then this might be something you'll enjoy! Please don't profit from this
+transfer - share it, post it, give it away, but, don't make money off of it.
+
+data information:
+Menu: Yes (motion)
+Chapters: Yes
+Artwork: No
+
+Format: MPEG Video
+W/H: 720x480
+Display Aspect Ratio: 4x3
+Frame Rate: 29.97
+Standard: NTSC
+
+Format: MPEG
+Channels: Stereo
+Sample Rate: 48000 Hz
+Bitrate: 384 kbs
+
+0e09d40123f67bb370ddf4eabee86142 *VIDEO_TS\VIDEO_TS.BUP
+0e09d40123f67bb370ddf4eabee86142 *VIDEO_TS\VIDEO_TS.IFO
+434fba4e4f66e11fd692c0f16d755b4c *VIDEO_TS\VIDEO_TS.VOB
+82e21db5fb4682cd238988b36ba69de0 *VIDEO_TS\VTS_01_0.BUP
+82e21db5fb4682cd238988b36ba69de0 *VIDEO_TS\VTS_01_0.IFO
+8a708da1b44645e4b7296a24ce391865 *VIDEO_TS\VTS_01_1.VOB
+5ccb6faed2139513c97113b2a1003c38 *VIDEO_TS\VTS_01_2.VOB
+34c3e07d3af39997f2c454f0eada46da *VIDEO_TS\VTS_01_3.VOB
+7c2f2518d5c708c80e809e6c6a7c921e *VIDEO_TS\VTS_01_4.VOB
+
+No errors occured.
+
+Create checksum file log saved to file.

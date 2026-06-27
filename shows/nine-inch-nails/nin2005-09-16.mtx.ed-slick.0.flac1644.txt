@@ -1,0 +1,42 @@
+Nine Inch Nails
+2005-09-16
+San Diego, CA
+Cox Anrena
+
+
+Matrix:
+IEM by Slickmode (Aaron's IEM)
+AUD by eddavis (DPA 4061)
+Mixed in Adobe Audition and iZotope Ozone
+
+
+Tracklist:
+01 - Pinion
+02 - Love Is Not Enough
+03 - Wish
+04 - Terrible Lie
+05 - The Line Begins To Blur
+06 - March Of The Pigs
+07 - The Frail
+08 - The Wretched
+09 - Closer
+10 - Burn
+11 - Gave Up
+12 - Eraser (Cut)
+
+
+Notes:
+This show is cut short due to heart problems of Jerome Dillon.
+
+
+Technical Specs:
+Total size : 291 MB (305 686 074 bytes)
+Duration : 46:10.186 (122 165 192 samples)
+Sample rate : 44100 Hz
+Channels : 2
+Bits per sample : 16
+Avg. bitrate : 883 kbps
+Codec : FLAC
+Encoding : lossless
+Tool : reference libFLAC 1.3.1 20141125
+Embedded cuesheet : no

@@ -1,0 +1,54 @@
+Nine Inch Nails
+2009-08-22 Bowery Ballroom, New York, NY
+
+An ACIDJACK master recording
+
+Equipment: AKG ck91 cardiod capsules (Busman active mod)>custom battery box>R-09HR(24/48)
+Position: In hat, FOB, about 30' from stage, center
+Mastering: Raw WAV>Audacity (tracking, set fades, downsample to 44.1/16bit, fix channel issues, EQ)>FLAC (level 8) 
+
+A simply phenomenal performance from Nine Inch Nails on their closing run.  It was my privilege to attend and record this show.  This and the remaining "farewell" performances will prove beyond all doubt why this band belongs in the pantheon of important bands from the past 20 years.  The Bowery Ballroom has always been a great place to see a show, but this exceeded even the best of expectations.  
+
+This performance involved some pretty intense bass, which overloaded one of the mics at some points.  I have corrected this and done some EQ to get the sound in line.  Warning to future tapers on this tour: bring any attenuators you have and don't bother using mics without extremely high SPL tolerance!  Also, bring earplugs(!!!)
+
+There were several tapers there and there will be other sources to compare. I hope you enjoy mine.  Honestly, no recording can quite do the moment justice, but I have tried.  Samples included.  Cheers.
+
+Tracks:
+
+01 Somewhat Damaged
+02 The Beginning Of The End
+03 Last
+04 The Collector
+05 Discipline
+06 March Of The Pigs
+07 Something I Can Never Have
+08 Reptile
+09 crowd
+10 Meet Your Master
+11 Banged And Blown Through
+12 crowd
+13 Burn
+14 Gave Up
+15 La Mer
+14 Non-Entity
+15 Gone, Still
+16 The Downward Spiral
+17 Wish
+18 Heresy
+19 Survivalism
+20 banter
+21 Down In It
+22 Hurt
+23 The Hand That Feeds
+24 Head Like a Hole
+25 encore break
+26 Echoplex
+27 The Good Soldier
+28 Dead Souls
+29 In This Twilight 
+
+**THIS RECORDING IS NOT FOR COMMERCIAL USE OF ANY KIND AND IS SUBJECT TO THE NINE INCH NAILS TAPING POLICY, WITH WHICH I HAVE COMPLIED**
+**FEEL FREE TO TRADE WITH ANYONE AND SHARE FREELY, BUT PLEASE DO NOT ALTER THE TEXT FILE OR FILESET IN ANY WAY**
+
+FFPs:
+nin2009-08-22bowery01.flac:1567d75b742f000ab0045101b1565154nin2009-08-22bowery02.flac:705844daea3104ebd676d3a34c34c25anin2009-08-22bowery03.flac:d0369d747d2c1b5753a30c37929f6bc3nin2009-08-22bowery04.flac:1c777fbe527e9191c2db2baa5bb0a714nin2009-08-22bowery05.flac:ab1b61a92f997b89f9ab8a54b36033a1nin2009-08-22bowery06.flac:60516c6adafdce636c869ae716b92202nin2009-08-22bowery07.flac:1145ebe747b8d37163e0847b777520bbnin2009-08-22bowery08.flac:5ca51d85a6cc9f8728be6e5010f96ffenin2009-08-22bowery09.flac:4ddb60919f32fe313369f54198f97df9nin2009-08-22bowery10.flac:8e8284812e067ed6c75c0335cf51185fnin2009-08-22bowery11.flac:a1dfccd9c45c6147f33e707b5e7fa08dnin2009-08-22bowery12.flac:bbbadd2cbd51e73dbbb1a7e13b1b975fnin2009-08-22bowery13.flac:794246e6d469c1af7283a60f4ff24996nin2009-08-22bowery14.flac:3e1ac21293e80eb4c966e605fc8393c3nin2009-08-22bowery15.flac:cfa43cf1c72ae6b0442d4a5d4c061fa6nin2009-08-22bowery16.flac:713fc186d883e4de39ba67b6d17ae494nin2009-08-22bowery17.flac:0812c0cd522968deb0a09f47b3650c50nin2009-08-22bowery18.flac:045dfb4b2034951bb9662586a6b4bbecnin2009-08-22bowery19.flac:4e2fc558622c4a050be98d343bfb65c2nin2009-08-22bowery20.flac:8a5537b052228ad74fc03eeb503e4478nin2009-08-22bowery21.flac:a56ae9d53a56c2d9b0cef368e99170a1nin2009-08-22bowery22.flac:efcf3921b945b3503bb4955e7eab8f9bnin2009-08-22bowery23.flac:13d8cc2781592eb369f72ffaff61a655nin2009-08-22bowery24.flac:7a045a323e132cae69728bc7e0721744nin2009-08-22bowery25.flac:293911a3ffafde566d8fc48944b7eca3nin2009-08-22bowery26.flac:00f8925efce1a7758e6b4f35fd5c735dnin2009-08-22bowery27.flac:7969b50dd3029cf86434509e818f52ffnin2009-08-22bowery28.flac:04960bb5356a812fe3a34e8ed9e7e8c4nin2009-08-22bowery29.flac:d22ca157146880941f364b9e5d7202c9

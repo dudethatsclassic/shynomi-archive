@@ -1,0 +1,90 @@
+Nine Inch Nails
+September 8, 2009
+The Fonda Theater
+Los Angeles, CA
+
+
+Source:		Schoeps mk4 > N-Box+ > R-09
+Location:	DFC ~ 25' From Stage ~ Mics in Hat
+Transfer:	722 > Firewire > Samplitude SE v8 > CD Wave 1.94.8
+Lineage:	24bit/48kHz > 16bit/44.1kHz > FLAC (Level 8)
+Editing:	Samplitude: Resampled to 44.1kHz (Ultra High 2)
+		Waves L2: Threshold:  -1
+		Dither to 16bit (IDR Type 1 Normal)
+		CDWave: Tracking
+		FLAC Frontend: FLAC Conversions (Level 8)
+		Foobar2000: Live Show Tagger: Tagging
+
+
+Taped by Mikey Jones and Scott Gordon
+Edited by Mikey Jones (terrapinj AT gmail.com)
+
+
+-One Set- 
+
+
+DISC I
+
+01  crowd
+02  Head like a Hole 
+03  Terrible Lie 
+04  Sin 
+05  March of the Pigs 
+06  Piggy 
+07  Echoplex 
+08  Reptile 
+09  I'm Afraid of Americans 
+10  Survivalism 
+11  Head Down 
+12  1,000,000 
+13  Letting you 
+
+
+DIC II
+
+01  Burn 
+02  Gave Up 
+03  Eraser*
+04  Just like you Imagined*
+05  The Becoming*
+06  I do not Want This*
+07  Down in the Park Instrumental**
+08  Down in the Park***
+09  Metal***
+10  Cars****
+11  Anthrax*****
+
+
+DISC III
+
+-Encore-
+01  crowd/intro
+02  Heresy******
+03  Get Down, Make Love******
+04  Mr. Self Destruct*******
+05  Wish*******
+06  The Hand that Feeds 
+
+-Encore Two-
+07  Atmosphere 
+08  Dead Souls 
+09  The Day the World Went Away 
+10  Hurt
+
+
+* with Mike Garson
+** Mike Garson Solo
+*** with Mike Garson & Gary Numan
+**** with Mike Garson, Gary Numan & Eric Avery
+***** with Gary Numan, Eric Avery and HEALTH (entire band)
+****** with Danny Lohner
+******* with Danny Lohner & Greg Puciato
+
+Unknown static noise on recording during Head Like a Hole
+
+
+Band: 
+Trent Reznor
+Justin Meldal-Johnsen - Bass
+Robin Finck - Guitar
+Ilan Rubin - Drums

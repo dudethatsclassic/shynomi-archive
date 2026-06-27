@@ -1,0 +1,38 @@
+NIN
+Meadowbank Stadium 
+Edinburgh
+21st August 2007
+
+T on the Fringe gig, supporting Foo Fighters.
+Dave Grohl said how amazed he was to be playing after NIN, a sentiment echoed by
+many NIN fans. 
+Sound quality : decent outdoor gig sound, but not as clear as an indoor gig.
+
+53 min 21 sec
+
+Setlist: 
+
+Me I'm not 
+The Great Destroyer (HIS breakdown) 
+Hyperpower 
+The Beginning of the End 
+Survivalism ? 
+March of the Pigs 
+The Big Come Down 
+The Frail 
+The Wretched  
+Reptile 
+Burn 
+No You Don't
+The Hand That Feeds 
+Wish 
+
+No selling of this recording in any form; any Ebay violations will be reported to Dime mods.
+Share freely in lossless formats - only convert to MP3s for your own use.
+Please include a copy of this info text if you give this set to anyone not on Dime.
+FFP file generated using Traders' Little Helper
+
+Aud->SP CMC-2As->(plug-in-power)->Edirol R09(16 bit 44.1Khz, gain +17)
+USB transfer to pc->WavlabLite(Rchannel +3db, volume boost)->Nero Wave Editor(volume balancing,
+volume boost, bass lift, fades)->CDWave(split)->Flac sector 8, sector boundaries aligned.
+Recorded standing about 6m from speaker stack stage R

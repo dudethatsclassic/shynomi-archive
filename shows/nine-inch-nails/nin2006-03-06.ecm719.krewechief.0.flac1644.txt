@@ -1,0 +1,55 @@
+recorded by: Krewe Chief
+mic: ECM-719 > Sony MZ-RH10 > Sony 1GB HD MD >USB > SonicStage > WAV >Sonic Foundry edit > shntool > flac
+
+NIN 2006-03-06 London ON
+
+d1t01 Pilgrimage
+d1t02 mr self destruct
+d1t03 Sin
+d1t04 terrible lie
+d1t05 the line begins to blur
+d1t06 march of the pigs
+d1t07 the frail >the wretched
+d1t08 closer
+d1t09 burn
+d1t10gave up
+
+
+d2t01 eraser
+d2t02 right where it belongs
+d2t03 beside you in time
+d2t04 piggy
+d2t05 wish
+d2t06 Trent talks
+d2t07 only
+d2t08 every day is exactly the same
+d2t09 Reptile
+d2t10 Suck
+d2t11 Hurt
+d2t12 The hand that feeds
+d2t13 Head like a hole
+
+
+d2t13-stripped.flac:b82b68fd74ad306777073141aab52e39
+d1t01-stripped.flac:12ec9e30fc7cb0aa5aa7b7a681c5e293
+d1t02-stripped.flac:61903a4394e48331ff7fb38118d886b4
+d1t03-stripped.flac:e369f0304377022a8986d6d82ce3d6f5
+d1t04-stripped.flac:6ed24b436145c54954e16b16a85236a1
+d1t05-stripped.flac:16e4067e9a88edd8418b017447213fd6
+d1t06-stripped.flac:268439a0951778147e7fcf7c83b9ebdd
+d1t07-stripped.flac:2d51fcf1ab33c2190705f24a22644b16
+d1t08-stripped.flac:fbe79dd543c83836b4651c7bb0511ce2
+d1t09-stripped.flac:63f7cce69fbf661a4841c49aacadf2c0
+d1t10-stripped.flac:558e30591fb2a0336ef2296c272f18e6
+d2t01-stripped.flac:0c5c1534934c29a9bb4bbb4cb230bb81
+d2t02-stripped.flac:093707b5ca532b6cb5be9a400f234ead
+d2t03-stripped.flac:cc162473042fe058303017a5cae78f7f
+d2t04-stripped.flac:f81b355247cb5ad4b3d288f31fd830ce
+d2t05-stripped.flac:34ecdd51567647b997dbf6ef475b561a
+d2t06-stripped.flac:10442c88310cd25c6c2454dccd9e871a
+d2t07-stripped.flac:af5ed0e1fdfc2de893bb0015fd0c4bf6
+d2t08-stripped.flac:0e22c3b3e126e3822612f36905ce8b48
+d2t09-stripped.flac:43b3a18ee65093a1578a5deb1c5a8045
+d2t10-stripped.flac:37eeea05344c43023a6680915cbc5003
+d2t11-stripped.flac:dbb721d1be2a9f2b2602bcea188f5d88
+d2t12-stripped.flac:1000b974c51e83e1afac376da0c056db 

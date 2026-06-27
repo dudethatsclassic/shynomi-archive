@@ -1,0 +1,51 @@
+Nine Inch Nails & David Bowie
+1995-09-28
+Meadowlands Arena, East Rutherford, NJ, USA
+1995 "Outside" Tour
+
+Incomplete audience recording
+Lineage: unknown taper and equipment -> unknown generation Sony "V" VHS (unknown type) -> Philips VR 1000 S-VHS PAL VCR (JVC rebrand) -> Monoprice heavy-duty RCA to 3.5mm cable -> ASUS Xonar DX sound card -> captured as 32/96 in Adobe Audition CC 2015 -> normalized to -0.1dB and any DC bias removed -> WAV (32/96) -> tracked using Audacity 2.1.1 -> WAV (32/96) tracks -> FLAC 16-bit 44.1khz using FLAC 1.3.1 64-bit (level 8 compression) and foobar2000 v1.3.8 with its Resampler (SoX) component v0.8.3 (best quality), dithering enabled 
+Generation: unknown
+Transfer: ligushka (https://www.depechemode-live.com)
+VHS photos and auCDtectTaskManager log included
+
+Notes: A very good audience recording. There are a few spots where the HiFi audio drops out and the normal linear audio track is played, but they are only a couple seconds long each time. There isn't a lot of dynamic range and it sounds pretty reverberated, but that's to be expected from camera audio. The beginning of "Terrible Lie" is missing, "Breaking Glass" is missing a segment near the beginning, and "Nite Flights" has a small missing segment toward the end of the song, otherwise this seems to be a complete recording as far as I know - but I did not listen to much of the Bowie set.
+
+I used a high end VCR to capture the HiFi audio track. I'd capture the video too, but my external time base corrector doesn't like the NTSC signal output from my PAL VCR (which does play NTSC without a problem otherwise) and strips the color from the signal, so I need to wait until I buy an actual NTSC S-VHS VCR before I can properly transfer the video. Until then, enjoy this audio!
+
+This recording is considered Source 1 on the "Reflecting In The Chrome" Nine Inch Nails live recording archive: http://ninlive.com/shows/1995/19950928.html (note only the "Nine Inch Nails" set is made available to download there)
+
+Track list:
+
+01. [3:08] Terrible Lie
+02. [3:54] March Of The Pigs
+03. [5:02] The Becoming
+04. [7:18] Sanctified
+05. [4:27] Piggy (Nothing Can Stop Me Now)
+06. [4:59] Burn
+07. [4:05] Closer To God
+08. [3:39] Wish
+09. [4:30] Gave Up
+10. [4:21] Down In It
+11. [3:58] Eraser
+12. [4:43] Subterraneans
+13. [5:34] Scary Monsters
+14. [6:21] Reptile
+15. [5:16] Hallo Spaceboy
+16. [6:10] Hurt
+17. [5:43] I'm Deranged
+18. [5:13] Look Back In Anger
+19. [5:15] The Heart's Filthy Lesson
+20. [5:05] The Voyeur Of Utter Destruction (As Beauty)
+21. [4:35] Outside
+22. [4:21] I Have Not Been To Oxford Town
+23. [6:46] A Small Plot Of Land
+24. [3:55] Andy Warhol
+25. [2:59] Breaking Glass
+26. [4:18] We Prick You
+27. [3:35] The Man Who Sold The World
+28. [6:27] Nite Flights
+29. [6:03] Teenage Wildlife
+30. [4:02] Under Pressure
+31. [4:32] Joe The Lion
+Total time: 2:30:16

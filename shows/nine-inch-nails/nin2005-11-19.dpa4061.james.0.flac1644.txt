@@ -1,0 +1,77 @@
+Nine Inch Nails
+November 19, 2005
+Oakland Arena
+Oakland, CA
+
+*DO NOT SELL THIS RECORDING ANYWHERE!!!! YOU WILL BE REPORTED! FREE TRADE ONLY.*
+
+SOURCE (AUD):
+DPA 4061s > SP-MicroTrack Dongle > M-Audio MicroTrack
+
+TRANSFER:
+M-Audio MicroTrack > USB 2.0 > CD WAVE 1.94.6 (Tracking) > FLAC frontend 1.7.1 (Align on Sector Boundaries)
+
+GENERATION:
+MT(M) > WAV[44.1Khz] > FLAC[Level 8]
+
+GENERATION IF BURNED:
+MT(M) > CDR(1)
+
+Disc 1 [48:47]
+1. Pinion
+2. Love is Not Enough
+3. You Know What You Are? (cut)
+4. Terrible Lie
+5. The Line Begins to Blur
+6. March of the Pigs
+7. Something I Can Never Have
+8. The Frail
+9. The Wretched
+10. Closer
+11. Burn
+12. Gave Up
+
+Disc 2 [51:56]
+1. Eraser
+2. Right Where it Belogns
+3. Beside You in Time
+4. With Teeth
+5. Wish
+6. Only
+7. Deep
+8. Reptile
+9. Dead Souls
+10. Suck
+11. Hurt (cuts out)
+-The Hand That Feeds
+-Head Like a Hole
+
+*DO NOT SELL THIS RECORDING ANYWHERE!!!! YOU WILL BE REPORTED! FREE TRADE ONLY.*
+DO NOT CONVERT THIS TO MP3 OR OTHER LOSSY FORMATS. IF YOU HAVE TO, KEEP IT TO YOURSELF. PRESERVE THE QUALITY.
+
+james@fuzn.net
+
+FLAC Fingerprints:
+NIN2005-11-19d1t01.flac:1f7c927dc22c066375a9efcbc2e0652a
+NIN2005-11-19d1t02.flac:9e5dd91a26123d2ec528fb96b0212b1f
+NIN2005-11-19d1t03.flac:be8a1eebbeb56a66ca4a2c294c9b2d06
+NIN2005-11-19d1t04.flac:507891a483302e8e4e9b490d28d6a4d4
+NIN2005-11-19d1t05.flac:92fcd55217d13771d955685acf58900d
+NIN2005-11-19d1t06.flac:829d32dfe85193fbe9c9fdfcdcddfd6b
+NIN2005-11-19d1t07.flac:7375a4cb90972ad3ab9eedae31810ae5
+NIN2005-11-19d1t08.flac:8bce06a9db5a4ed170abb24c751406de
+NIN2005-11-19d1t09.flac:8b8cdafd552a254a5ae66710d5e7d8d7
+NIN2005-11-19d1t10.flac:200878551732b5cf80878d74ab09b4f1
+NIN2005-11-19d1t11.flac:3aea08abba8574d6c9bbcf6ae5b7e6fe
+NIN2005-11-19d1t12.flac:62aae7f4235bd2dffe0d21ad91348fe9
+NIN2005-11-19d2t01.flac:2ce6f7877a0f7dc6188096cd629bd2d5
+NIN2005-11-19d2t02.flac:5ae4617dae2ea37714a707cea65002a5
+NIN2005-11-19d2t03.flac:7d1359c45f7da57634af2d2dc7a0a7ff
+NIN2005-11-19d2t04.flac:96cc7ce95b408b06c80b07717f5e548b
+NIN2005-11-19d2t05.flac:357965e9f2c4876a572be9eeeb56b49f
+NIN2005-11-19d2t06.flac:86dd528932570cde27c425a558aedac9
+NIN2005-11-19d2t07.flac:1c9f2d30ee78f40728de118d22a786d6
+NIN2005-11-19d2t08.flac:4a6d45ef00fe2078d8f8ba8e66fc5a87
+NIN2005-11-19d2t09.flac:00537e938d12cef90933f063c4b92b3d
+NIN2005-11-19d2t10.flac:d4c1bd272b0e4b09f3511ccdd9c85e76
+NIN2005-11-19d2t11.flac:9c032b22db79cdc98863b885aa14b3a5

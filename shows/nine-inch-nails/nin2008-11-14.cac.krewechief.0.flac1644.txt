@@ -1,0 +1,71 @@
+Nine Inch Nails
+Copps Coliseum
+Hamilton ON
+2008-11-15
+
+Church Audio Cardioids>CA STC-9000 Pre-Amp >Edirol R-09 at 24/48 >USB >Sonic Foundry 16bit wave> FlacFrontend
+recorded by Krewe Chief
+
+Disc 1
+
+Track 01	999,999(?)
+Track 02	1,000,000
+Track 03	Letting You
+Track 04	Discipline
+Track 05	March of the Pigs
+Track 06	Head Down
+Track 07	Closer
+Track 08	Gave Up
+Track 09	The Warning
+Track 10	Vessel
+Track 11	Ghosts 5
+Track 12	Ghosts 17
+Track 13	Ghosts 19
+
+Disc 2
+Track 01	Ghosts Piggy
+Track 02	The Greater Good   /Pinion?
+Track 03	Wish
+Track 04	Terrible Lies
+Track 05	Survivalism
+Track 06	The Big Comedown
+Track 07	Ghosts 31
+Track 08	Only
+Track 09	The Hand That Feeds
+Track 10	Head Like A Hole
+Track 11	Echoplex
+Track 12	Band Intro
+Track 13	The Good Soldier
+Track 14	Hurt
+Track 15	In This Twilight
+
+
+nin_20081115_d2t15-fixed.flac:010ad99efcc1c00ec2edf8e12c782d0a
+nin_20081115_d1t01-fixed.flac:97cea5d9a1ee5ab7b4356459a8481f95
+nin_20081115_d1t02-fixed.flac:21082889333ab9b92ae8ac2166b09094
+nin_20081115_d1t03-fixed.flac:335deca821a419f0e295dce4e4910884
+nin_20081115_d1t04-fixed.flac:74acee64b664d1f58d418f3926e6a3c3
+nin_20081115_d1t05-fixed.flac:ec997934d595cde875b3cb9011874fae
+nin_20081115_d1t06-fixed.flac:a6da075fd77712b59615ddf6e9f0c5c7
+nin_20081115_d1t07-fixed.flac:f2bb566621ebc3346c94586624dc3c93
+nin_20081115_d1t08-fixed.flac:9aadd02a2850f550d43fb004f5d71ba4
+nin_20081115_d1t09-fixed.flac:a887bad8fafbfb4424b354ee1ba69aa1
+nin_20081115_d1t10-fixed.flac:8c7bbd424553ea4e0edf427bf14a9944
+nin_20081115_d1t11-fixed.flac:d12b7eaf0b793fc5807cfdec6fcf4574
+nin_20081115_d1t12-fixed.flac:a50be2d672c104f51ba681d134466c57
+nin_20081115_d1t13-fixed.flac:894892fe3acc69989aee589f97efca8f
+nin_20081115_d2t01-fixed.flac:a44005686d388cdadee529a771b4424f
+nin_20081115_d2t02-fixed.flac:c4c9c129929675bd7b3971e3054a0443
+nin_20081115_d2t03-fixed.flac:63c6876119a4c236c260db1a0eb1c504
+nin_20081115_d2t04-fixed.flac:4a54bc83075b2ac05471b4a1ad2660ee
+nin_20081115_d2t05-fixed.flac:8dd4a22f1d458a700f67d5d4324a6b97
+nin_20081115_d2t06-fixed.flac:8bcd17de08dec557362534960ff94aad
+nin_20081115_d2t07-fixed.flac:b0f02b9a51576f6b9aa11a53265371c9
+nin_20081115_d2t08-fixed.flac:5a43687a6cb12c6d7b85ba896a00e9d3
+nin_20081115_d2t09-fixed.flac:b36589dd9d4a8f04ad6fa13504bca103
+nin_20081115_d2t10-fixed.flac:07b276365effd5372a395c5c38341014
+nin_20081115_d2t11-fixed.flac:0f619cb3b184c54f094009fe7ed8b1e5
+nin_20081115_d2t12-fixed.flac:35e67a977c4013b16d338692ac200680
+nin_20081115_d2t13-fixed.flac:1256c9a366b67c341670a58ca6b93282
+nin_20081115_d2t14-fixed.flac:5626e9954d383765981ad359dd820126
+

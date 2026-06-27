@@ -1,0 +1,4 @@
+Rig: Sony ICD-UX70 Flash Drive Recorder
+Mics: Sony ECM-DS70P
+
+ICD-UX70 > ECM-DS70P > USB 2.0 > MP3

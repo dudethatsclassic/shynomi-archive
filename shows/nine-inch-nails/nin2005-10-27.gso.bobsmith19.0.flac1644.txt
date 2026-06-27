@@ -1,0 +1,82 @@
++--------------------------------------------------+
+|                                                  |
+|       nine inch nails live in atlanta, ga        |
+|           27oct2005 at philips arena             |
+|                                                  |
++--------------------------------------------------+
+
+song titles:
+1. pinion
+2. love is not enough
+3. you know what you are
+4. terrible lie
+5. the line begins to blur
+6. march of the pigs
+7. the frail
+8. the wretched
+9. closer
+10. burn
+11. gave up
+12. eraser
+13. right where it belongs
+14. beside you in time
+15. the collector
+16. wish
+17. only
+18. reptile
+19. suck
+20. hurt
+21. the hand that feeds
+22. head like a hole
+
+artist:
+nine inch nails
+
+album:
+live in atlanta, ga
+
+year:
+2005
+
+comment:
+at philips arena
+
+genre:
+rock/industrial
+
+date:
+27oct2005
+
+live content provider/content capture/content editor:
+bobsmith19
+
+technical:
+- source: giant squid omni's -> giant squid battery box -> sony mz-nh1 (pcm mode)
+-> usb 2.0 -> sonic stage v3.2 -> 44.1/16 wav
+- matrix: mic source -> audacity v1.2.3 (wav file split)
+-> adobe audition v1.5 (eq/dyncomp/amplify)
+- encoded to flac using flac v1.1.2 with switches -8 --no-replay-gain
+- recorded from the floor, dfc 10 feet in front of the soundboard
+- mics on my shoulders pointing at the stage about 18 inches apart
+
+notes:
+- a little faster this time!  one week to process instead of four months...
+- besides the douches talking during the screen part in the middle, very decent boot.
+- enjoy this responsibly with a nice pair of mains and a subwoofer.
+
+also also wik:
+- these files are freely distributed.
+- do not buy or sell these files. they have been watermarked so we will know...assclowns.
+- this nfo file is not to be separated from the audio files.
+- do not distribute in lossy formats (personal encoding is ok).
+- in the famous words of reggie cunningham (http://www.themrmove.com/), "it's a free tape,
+so don't bitch."
+
+thanks:
+- nin
+- security for making this recording possible
+- visit nine inch nails online at http://www.nin.com/
+- support trent and buy his albums!
+
++--------------------------------------------------+
+nfo v0,5

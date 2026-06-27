@@ -1,0 +1,27 @@
+Trent Reznor/Peter Murphy
+2006.06.07
+HiFi Buys Amphitheatre
+Atlanta, GA
+
+
+
+Source: FM Broadcast > rockboxed iriver h320 > 44.1 wav 
+
+Transfer: h320 > USB2.0 > CEP 2.0 > FLAC Frontend (8)
+
+Generation: When burned this will be a CDR(1)
+
+Notes: Part of the 99x Live X series here in Atlanta. 
+
+Taped/Transferred by: Ben Jenkins (benhj[AT]yahoo[DOT]com)
+--DO NOT SELL--
+--DON'T TRADE LOSSY CONVERSIONS--
+
+1. Head Like a Hole    
+2. Sanity Assassin  
+3. Hurt
+
+FLAC Fingerprints:
+trent2006-06-07t01.flac:4188607f08c52e15a2276ac57f1f6f8d
+trent2006-06-07t02.flac:300e0af5c62f160f3db6486716f38ed2
+trent2006-06-07t03.flac:4fecd34baaa56b01f40bae650292dd0a

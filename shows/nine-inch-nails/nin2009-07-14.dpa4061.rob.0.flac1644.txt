@@ -1,0 +1,58 @@
+Nine Inch Nails
+2009-07-14
+MEN Arena, Manchester, England
+
+Taper: Rob
+Location: DFC, ~30' back
+Source: Danish Pro Audio 4061s > Sound Professionals SPSB-6 > Sony MZ-RH1 (Hi-SP)
+Transfer: Sony MZ-RH1 > USB > wave (Sonic Stage 4.3)
+Editing: fades, splice*, EQ, peak-limiting & normalising (Goldwave) > track indexes (CD Wave) > splits, Level 8 FLAC Compression & tagging (foobar2000)
+
+
+************************************
+Do Not Sell Copies Of This Recording
+************************************
+
+**********************************************************
+Do Not Encode This Recording To MP3 Or Other Lossy Formats
+**********************************************************
+
+
+Disc I:
+
+01. Somewhat Damaged
+02. Terrible Lie
+03. Heresy
+04. March of the Pigs
+05. Piggy
+06. Metal
+07. The Becoming
+08. I'm Afraid of Americans
+09. Burn
+10. Gave Up
+11. La Mer
+12. The Fragile
+13. Gone, Still
+
+Disc II:
+
+01. The Way Out Is Through
+02. Wish
+03. Survivalism
+04. Suck
+05. The Day the World Went Away
+06. The Hand That Feeds
+07. Head Like a Hole
+
+08. Hurt
+
+
+supported by Jane's Addiction and Mew
+
+
+"Metal" was originally performed by Gary Numan.
+"I'm Afraid of Americans" was originally performed by David Bowie.
+"Suck" was originally performed by Pigface.
+
+
+* "Hurt" contains a brief splice from an alternative source (AT 853 Rxs > CA 9100 > R-09)

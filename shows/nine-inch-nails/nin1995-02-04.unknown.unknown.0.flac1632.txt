@@ -1,0 +1,39 @@
+Nine Inch Nails
+February 04, 1995
+Minneapolis, MN
+Target Center
+
+http://www.ninlive.com/shows/1995/19950204.html
+
+Equipment: Unknown DAT
+Taper: Unknown
+Generation: DAT Clone (16/32 LP mode)
+Lineage: DAT Clone > tascam da45-hr (16/32) > sd usbpre2 > adobe audition (normalize to -0.1 db, convert up to 16/44)
+
+Setlist:
+Pinion
+Mr. Self Destruct
+Sin
+March of the Pigs
+Piggy
+Reptile
+Gave Up
+Happiness in Slavery
+Eraser
+Hurt
+The Downward Spiral
+Wish
+Suck
+Down In It
+Head Like a Hole
+Closer
+Dead Souls
+I Do Not Want This
+Something I Can Never Have 
+
+Notes:
+Big thanks to ellaguru for transferring this LP Mode DAT for me. It’s a DAT clone from the DAT master, but that is all I know. This is different than the D. Merz source that is from this show as well. The tape is pretty good and includes the 5 minutes or so of the encore break that the DM source does not. The other difference is that the DM source has more of the pre-show before ‘Pinion’ than this tape. 
+
+This DAT clone was made in LP mode (16/32) and in order to burn this properly to a CD, the audio file was converted to 16/44 so that everyone can burn these to a CD if desired. 
+
+If you have any past recordings of Nine Inch Nails you would like to add to the live archive at http://www.ninlive.com, please get in contact with me at ryanj at reflectinginthechrome dot com!

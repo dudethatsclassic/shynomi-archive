@@ -1,0 +1,56 @@
+NINE INCH NAILS
+UNIVERSAL CITY,CA:UNIVERSAL AMPHITHEATRE
+10/7/94
+
+ECM737->D7->TASCAM CDRW700->EAC->FLAC FRONTEND LEVEL 8
+
+4th and final night at the Universal. Different setlist than the other 3. 
+  
+ disc one
+01. Pinion 
+02. Terrible Lie 
+03. Sin 
+04. Mr Self Destruct 
+05. Something I Can Never Have 
+06. Closer 
+07. Reptile 
+08. Gave Up 
+09. March Of The Pigs 
+10. Eraser 
+11. Hurt 
+12. A Warm Place/The Downward Spiral 
+13. Wish 
+14. Burn
+
+ disc two
+01. The Only Time 
+02. Down In It 
+03. Head Like A Hole 
+04. Dead Souls 
+05. Suck 
+06. Help Me I'm In Hell 
+07. Happiness In Slavery 
+
+
+
+Track01.flac:f170f231351329ba6cf88ec8b631feef
+Track02.flac:79a8d7382e4e27859dbf0fa37e7a5fa9
+Track03.flac:5d5cbcf5d77515fdcbb5ffad56665398
+Track04.flac:410401cabae400c413106018904720e5
+Track05.flac:b599d71bc9ce8328d6fd4b2dba89bfa3
+Track06.flac:4ece9cb8be6433f084f3d164325682c6
+Track07.flac:27714d028f95d1f03033028e0115ca84
+Track08.flac:5ff4fcf0f74306e71701c40b42ffcfb9
+Track09.flac:276278a01b399f6352eaa9a0fab48106
+Track10.flac:1799710b35be56f1fcfc9ac63ec21ad9
+Track11.flac:7899d7d7dea36734d5e1f19023c3ee37
+Track12.flac:a29f90cd4422aea668a1feea3c92f2c6
+Track13.flac:187f8bc6a032053c9b8e2e915356cb87
+Track14.flac:fb74edb58839f3ef36ebe46dfe31deb4
+Track01.flac:cbd80313cccb2fed95af8fd5465d48a6
+Track02.flac:1a444b672d343c97a65f66146020eee8
+Track03.flac:43312b4ad7aa50adaf2b55aa50960bcd
+Track04.flac:82e7088431cf85804b9d73a05ffd382b
+Track05.flac:2029bfa8fa9381e462a3d552ed6b3dd6
+Track06.flac:b48d9902d43988422009050bd978cce4
+Track07.flac:2aa0bc9077a058c6aaef1a7f50e8f4d2

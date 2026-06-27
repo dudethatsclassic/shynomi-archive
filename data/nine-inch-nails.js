@@ -37,7 +37,8 @@ const ARTIST_DATA = {
       "venue": "",
       "notes": "",
       "version": "Silver CD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "nin1988-10-31.silver.showuporthrowup.0.flac1644.txt"
     },
     {
       "year": 1989,
@@ -50,7 +51,8 @@ const ARTIST_DATA = {
       "venue": "The Axis Club",
       "notes": "",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "nin1989-12-07.unknown.unknown.unknown.flac1644.txt"
     },
     {
       "year": 1989,
@@ -63,7 +65,8 @@ const ARTIST_DATA = {
       "venue": "Pipeline",
       "notes": "",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "nin1989-12-09.aud-vidsrc.unknown.2.flac1644.txt"
     },
     {
       "year": 1990,
@@ -76,7 +79,8 @@ const ARTIST_DATA = {
       "venue": "Cabaret Metro",
       "notes": "",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "nin1990-01-26.unknown.unknown.2.flac1632.txt"
     },
     {
       "year": 1990,
@@ -89,7 +93,8 @@ const ARTIST_DATA = {
       "venue": "Warfield Theater",
       "notes": "",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "nin1990-01-30.unknown.unknown.unknown.flac1644.txt"
     },
     {
       "year": 2990,
@@ -115,7 +120,8 @@ const ARTIST_DATA = {
       "venue": "California Theater",
       "notes": "",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "nin1990-02-02.unknown.unknown.unknown.flac1644.txt"
     },
     {
       "year": 1990,
@@ -128,7 +134,8 @@ const ARTIST_DATA = {
       "venue": "Calamity Jane's",
       "notes": "",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "nin1990-02-04.unknown.unknown.unknown.flac1644.txt"
     },
     {
       "year": 1990,
@@ -141,7 +148,8 @@ const ARTIST_DATA = {
       "venue": "Cuban Club",
       "notes": "dave misty",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "nin1990-02-15.realistic.dm.0.flac1644.txt"
     },
     {
       "year": 1990,
@@ -154,7 +162,8 @@ const ARTIST_DATA = {
       "venue": "Asylum",
       "notes": "",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "nin1990-02-17.unknown.unknown.unknown.flac1644.txt"
     },
     {
       "year": 1990,
@@ -167,7 +176,8 @@ const ARTIST_DATA = {
       "venue": "Bijou Theatre",
       "notes": "trevor blake",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "nin1990-02-24.sonywalkman.trevorblake.0.flac1644b.txt"
     },
     {
       "year": 1990,
@@ -180,7 +190,8 @@ const ARTIST_DATA = {
       "venue": "13.13 Club *Industrial Iguanas",
       "notes": "doodee",
       "version": "Silver CD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "nin1990-02-25.silver.idustrialiguanas.unknown.flac1644.txt"
     },
     {
       "year": 1990,
@@ -193,7 +204,8 @@ const ARTIST_DATA = {
       "venue": "13.13 Club",
       "notes": "doodee",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "nin1990-02-25.unknown.doodee.1.flac1644.txt"
     },
     {
       "year": 1990,
@@ -206,7 +218,8 @@ const ARTIST_DATA = {
       "venue": "Trocadero Theatre",
       "notes": "unk",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "nin1990-03-05.unknown.unknown.unknown.2.flac1644.txt"
     },
     {
       "year": 1990,
@@ -219,7 +232,8 @@ const ARTIST_DATA = {
       "venue": "Trocadero Theatre",
       "notes": "unk2",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "nin1990-03-05.unknown.unknown.unknown.flac1644.txt"
     },
     {
       "year": 1990,
@@ -232,7 +246,8 @@ const ARTIST_DATA = {
       "venue": "Citi Club *By Bizarre Hands",
       "notes": "dassarri transfer",
       "version": "Silver CD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "nin1990-03-10.silver.bybizarrehands.0.flac1644.txt"
     },
     {
       "year": 1990,
@@ -245,7 +260,8 @@ const ARTIST_DATA = {
       "venue": "Citi Club",
       "notes": "Sony WM-D6",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "nin1990-03-10.silver.killerinstinct.0.flac1644.txt"
     },
     {
       "year": 1990,
@@ -258,7 +274,8 @@ const ARTIST_DATA = {
       "venue": "Citi Club *Killer Instinct",
       "notes": "Teddy Bear Records",
       "version": "Silver CD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "nin1990-03-10.unknown.unknown.1.flac1644.txt"
     },
     {
       "year": 1990,
@@ -271,7 +288,8 @@ const ARTIST_DATA = {
       "venue": "Sullen Auditorium",
       "notes": "",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "nin1990-03-20.unknown.unknown.2.flac1644.txt"
     },
     {
       "year": 1990,
@@ -284,7 +302,8 @@ const ARTIST_DATA = {
       "venue": "Bogart's",
       "notes": "",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "nin1990-04-02.unknown.unknown.2.flac1644.txt"
     },
     {
       "year": 1990,
@@ -297,7 +316,8 @@ const ARTIST_DATA = {
       "venue": "Phantasy Theatre",
       "notes": "pud records release",
       "version": "AUD",
-      "format": "FLAC 24"
+      "format": "FLAC 24",
+      "textFile": "nin1990-04-03.unknown.pudrecords.1.flac2448.txt"
     },
     {
       "year": 1990,
@@ -310,7 +330,8 @@ const ARTIST_DATA = {
       "venue": "Marquette University",
       "notes": "",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "nin1990-04-05.unknown.unknown.2.flac1644.txt"
     },
     {
       "year": 1990,
@@ -323,7 +344,8 @@ const ARTIST_DATA = {
       "venue": "Metro",
       "notes": "ECM-909 \u00b7 jb",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "nin1990-04-07.ecm909.jb.0.flac1644.txt"
     },
     {
       "year": 1990,
@@ -336,7 +358,8 @@ const ARTIST_DATA = {
       "venue": "The Ritz",
       "notes": "Sony WM-D6",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "nin1990-04-11.unknown.nin.1.mp4480p.txt"
     },
     {
       "year": 1990,
@@ -349,7 +372,8 @@ const ARTIST_DATA = {
       "venue": "The Ritz",
       "notes": "unk",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "nin1990-04-11.unknown.unknown.1.flac1644.txt"
     },
     {
       "year": 1990,
@@ -362,7 +386,8 @@ const ARTIST_DATA = {
       "venue": "The Ritz",
       "notes": "nin",
       "version": "AUD",
-      "format": "MP4"
+      "format": "MP4",
+      "textFile": "nin1990-04-11.unknown.unknown.unknown.flac1644.txt"
     },
     {
       "year": 1990,
@@ -375,7 +400,8 @@ const ARTIST_DATA = {
       "venue": "The Floodzone",
       "notes": "",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "nin1990-04-13.unknown.unknown.1.flac1644.txt"
     },
     {
       "year": 1990,
@@ -388,7 +414,8 @@ const ARTIST_DATA = {
       "venue": "The Edge",
       "notes": "Hate",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "nin1990-05-22.unknown.antimusick.1.mp4480.txt"
     },
     {
       "year": 1990,
@@ -401,7 +428,8 @@ const ARTIST_DATA = {
       "venue": "The Edge",
       "notes": "Hate \u00b7 antimusik",
       "version": "AUD",
-      "format": "MP4"
+      "format": "MP4",
+      "textFile": "nin1990-05-22.unknown.unknown.1.flac1644.txt"
     },
     {
       "year": 1990,
@@ -414,7 +442,8 @@ const ARTIST_DATA = {
       "venue": "The I-Beam",
       "notes": "",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "nin1990-05-23.unknown.unknown.unknown.flac1644.txt"
     },
     {
       "year": 1990,
@@ -427,7 +456,8 @@ const ARTIST_DATA = {
       "venue": "Video Bar",
       "notes": "VHS(1)",
       "version": "PRO",
-      "format": "DVD"
+      "format": "DVD",
+      "textFile": "nin1990-06-26.proshot.unknown.1.dvd.txt"
     },
     {
       "year": 1990,
@@ -440,7 +470,8 @@ const ARTIST_DATA = {
       "venue": "Video Bar *Hammer Hard",
       "notes": "Home Records",
       "version": "Silver CD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "nin1990-06-26.silver.hammerhard.0.flac1644.txt"
     },
     {
       "year": 1990,
@@ -453,7 +484,8 @@ const ARTIST_DATA = {
       "venue": "Numbers Club",
       "notes": "",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "nin1990-06-28.unknown.unknown.unknown.flac1644.txt"
     },
     {
       "year": 1990,
@@ -466,7 +498,8 @@ const ARTIST_DATA = {
       "venue": "Powerstation *Missletwister",
       "notes": "",
       "version": "Silver CD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "nin1990-07-01.silver.missletwister.0.flac1644.txt"
     },
     {
       "year": 1990,
@@ -479,7 +512,8 @@ const ARTIST_DATA = {
       "venue": "Powerstation",
       "notes": "AUD(M)",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "nin1990-07-01.unknown.unknown.1.flac1644.txt"
     },
     {
       "year": 1990,
@@ -492,7 +526,8 @@ const ARTIST_DATA = {
       "venue": "Club Nu",
       "notes": "",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "nin1990-07-03.aud-vidsrc.unknown.unknown.flac1644.txt"
     },
     {
       "year": 1990,
@@ -505,7 +540,8 @@ const ARTIST_DATA = {
       "venue": "9:30 Club",
       "notes": "Master 3/4\" Tape",
       "version": "SBD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "nin1990-07-11.inhouse.ts.0.mp4480p.txt"
     },
     {
       "year": 1990,
@@ -518,7 +554,8 @@ const ARTIST_DATA = {
       "venue": "9:30 Club",
       "notes": "Master 3/4\" Tape",
       "version": "AUD",
-      "format": "MP4"
+      "format": "MP4",
+      "textFile": "nin1990-07-11.sbd.ts.0.m4a192.txt"
     },
     {
       "year": 1990,
@@ -531,7 +568,8 @@ const ARTIST_DATA = {
       "venue": "Grand Hall",
       "notes": "Creese",
       "version": "AUD",
-      "format": "FLAC 24"
+      "format": "FLAC 24",
+      "textFile": "nin1990-07-14.unknown.unknown.unknown.flac2448.txt"
     },
     {
       "year": 1990,
@@ -544,7 +582,8 @@ const ARTIST_DATA = {
       "venue": "Rock Academy",
       "notes": "New Music Seminar \u00b7 Sony WM-D6",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "nin1990-07-16.unknown.unknown.1.flac1644.txt"
     },
     {
       "year": 1990,
@@ -557,7 +596,8 @@ const ARTIST_DATA = {
       "venue": "The Pipeline",
       "notes": "Surprise Show",
       "version": "AUD",
-      "format": "DVD"
+      "format": "DVD",
+      "textFile": "nin1990-07-18.unknown.unknown.unknown.ntsc.dvd.txt"
     },
     {
       "year": 1990,
@@ -570,7 +610,8 @@ const ARTIST_DATA = {
       "venue": "Metro",
       "notes": "ECM-909 \u00b7 jb",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "nin1990-07-27.ecm909.jb.0.flac1644.txt"
     },
     {
       "year": 1990,
@@ -583,7 +624,8 @@ const ARTIST_DATA = {
       "venue": "St. Andrew's Hall",
       "notes": "CASS(M) \u00b7 Radioshack mic \u00b7 maashu",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "nin1990-07-28.radioshack.maashu.0.flac1644.txt"
     },
     {
       "year": 1990,
@@ -596,7 +638,8 @@ const ARTIST_DATA = {
       "venue": "Empire Club",
       "notes": "",
       "version": "AUD",
-      "format": "DVD"
+      "format": "DVD",
+      "textFile": "nin1990-08-04.unknown.unknown.unknown.ntsc.dvd.txt"
     },
     {
       "year": 1990,
@@ -609,7 +652,8 @@ const ARTIST_DATA = {
       "venue": "Cabaret Metro *Industrial Iguanas",
       "notes": "",
       "version": "Silver CD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "nin1990-12-29.silver.industrialiguanas.unknown.flac1644.txt"
     },
     {
       "year": 1990,
@@ -622,7 +666,8 @@ const ARTIST_DATA = {
       "venue": "Cabaret Metro",
       "notes": "inc",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "nin1990-12-29.unknown.unknown.unknown.flac1644.txt"
     },
     {
       "year": 1991,
@@ -635,7 +680,8 @@ const ARTIST_DATA = {
       "venue": "Gothic Theatre",
       "notes": "10pm show \u00b7 sp",
       "version": "AUD",
-      "format": "FLAC 24"
+      "format": "FLAC 24",
+      "textFile": "nin1991-01-04late.walkman.sp.1.flac2496.txt"
     },
     {
       "year": 1991,
@@ -648,7 +694,8 @@ const ARTIST_DATA = {
       "venue": "9:30 Club",
       "notes": "10pm show \u00b7 teresa stubs",
       "version": "SBD",
-      "format": "MP4"
+      "format": "MP4",
+      "textFile": "nin1991-01-22.inhouse.ts.0.mp4480p.txt"
     },
     {
       "year": 1991,
@@ -661,7 +708,8 @@ const ARTIST_DATA = {
       "venue": "9:30 Club",
       "notes": "10pm show \u00b7 teresa stubs",
       "version": "SBD",
-      "format": "M4A"
+      "format": "M4A",
+      "textFile": "nin1991-01-22.sbd.ts.0.m4a192.txt"
     },
     {
       "year": 1991,
@@ -674,7 +722,8 @@ const ARTIST_DATA = {
       "venue": "The Academy",
       "notes": "",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "nin1991-01-24.aud-vidsrc.unknown.unknown.flac1644.txt"
     },
     {
       "year": 1991,
@@ -687,7 +736,8 @@ const ARTIST_DATA = {
       "venue": "The Academy",
       "notes": "",
       "version": "AUD",
-      "format": "DVD"
+      "format": "DVD",
+      "textFile": "nin1991-01-24.unknown.unknown.unknown.ntsc.dvd.txt"
     },
     {
       "year": 1991,
@@ -700,7 +750,8 @@ const ARTIST_DATA = {
       "venue": "The Citi Club",
       "notes": "",
       "version": "AUD",
-      "format": "MP3"
+      "format": "MP3",
+      "textFile": "nin1991-01-26.unknown.unknown.unknown.mp3128.txt"
     },
     {
       "year": 1991,
@@ -713,7 +764,8 @@ const ARTIST_DATA = {
       "venue": "Universal Amphitheater *Seething With Animosity",
       "notes": "",
       "version": "Silver CD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "nin1991-01-31.silver.seethingwithanimosity.0.flac1644.txt"
     },
     {
       "year": 1991,
@@ -726,7 +778,8 @@ const ARTIST_DATA = {
       "venue": "The Warfield",
       "notes": "",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "nin1991-02-01.pc62.sale.0.flac2496.txt"
     },
     {
       "year": 1991,
@@ -739,7 +792,8 @@ const ARTIST_DATA = {
       "venue": "The Warfield",
       "notes": "sal. e",
       "version": "AUD",
-      "format": "FLAC 24"
+      "format": "FLAC 24",
+      "textFile": "nin1991-02-01.unknown.unknown.2.flac1644.txt"
     },
     {
       "year": 1991,
@@ -752,7 +806,8 @@ const ARTIST_DATA = {
       "venue": "Helter Skelter",
       "notes": "Stardust \u00b7 richard white",
       "version": "AUD",
-      "format": "MP4"
+      "format": "MP4",
+      "textFile": "nin1991-02-06.pv420.rw.1.mp4480.txt"
     },
     {
       "year": 1991,
@@ -765,7 +820,8 @@ const ARTIST_DATA = {
       "venue": "Helter Skelter",
       "notes": "Stardust",
       "version": "AUD",
-      "format": "DVD"
+      "format": "DVD",
+      "textFile": "nin1991-02-06.unknown.unknown.unknown.ntsc.dvd.txt"
     },
     {
       "year": 1991,
@@ -778,7 +834,8 @@ const ARTIST_DATA = {
       "venue": "Tipitina's (Lollapalooza Warm-up show) *A Demon Possessed",
       "notes": "ECM-909 \u00b7 jl",
       "version": "Silver CD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "nin1991-07-12.silver.ademonpossessed.0.flac1644.txt"
     },
     {
       "year": 1991,
@@ -791,7 +848,8 @@ const ARTIST_DATA = {
       "venue": "Tipitina's (Lollapalooza Warm-up show) *Solid Gold Hell",
       "notes": "ECM-909 \u00b7 jl",
       "version": "Silver CD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "nin1991-07-12.silver.solidgoldhell.0.flac1644.txt"
     },
     {
       "year": 1991,
@@ -804,7 +862,8 @@ const ARTIST_DATA = {
       "venue": "Devore Stadium",
       "notes": "Lollapalooza",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "nin1991-07-20.unknown.db.0.flac1644.txt"
     },
     {
       "year": 1991,
@@ -817,7 +876,8 @@ const ARTIST_DATA = {
       "venue": "Irvine Meadows",
       "notes": "Lollapalooza \u00b7 inc",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "nin1991-07-21.unknown.unknown.unknown.flac1644.txt"
     },
     {
       "year": 1991,
@@ -830,7 +890,8 @@ const ARTIST_DATA = {
       "venue": "Irvine Meadows (Lollapalooza) *A Demon Possessed",
       "notes": "",
       "version": "Silver CD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "nin1991-07-23.silver.ademonpossessed.0.flac1644.txt"
     },
     {
       "year": 1991,
@@ -843,7 +904,8 @@ const ARTIST_DATA = {
       "venue": "Shoreline Amphitheater",
       "notes": "Lollapalooza \u00b7 Aiwa",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "nin1991-07-26.aiwa.unknown.2.flac1632.txt"
     },
     {
       "year": 1991,
@@ -856,7 +918,8 @@ const ARTIST_DATA = {
       "venue": "Shoreline Amphitheater",
       "notes": "Lollapalooza \u00b7 ECM-990",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "nin1991-07-26.ecm990.unknown.0.flac1644.txt"
     },
     {
       "year": 1991,
@@ -869,7 +932,8 @@ const ARTIST_DATA = {
       "venue": "Shoreline Amphitheater",
       "notes": "Lollapalooza \u00b7 unk",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "nin1991-07-26.unknown.unknown.unknown.flac1644.txt"
     },
     {
       "year": 1991,
@@ -882,7 +946,8 @@ const ARTIST_DATA = {
       "venue": "Shoreline Amphitheater (Lollapalooza)",
       "notes": "AUD(M) \u00b7 teddy ballgame master",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "nin1991-07-27.cmc441.teddyballgame.0.flac1648.txt"
     },
     {
       "year": 1991,
@@ -895,7 +960,8 @@ const ARTIST_DATA = {
       "venue": "Harriet Island (Lollapalooza) *Show Up or Throw Up",
       "notes": "Sony WM-D6",
       "version": "Silver CD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "nin1991-08-01.silver.showuporthrowup.unknown.flac1644.txt"
     },
     {
       "year": 1991,
@@ -908,7 +974,8 @@ const ARTIST_DATA = {
       "venue": "Harriet Island",
       "notes": "Lollapalooza \u00b7 unk",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "nin1991-08-01.unknown.unknown.1.flac1644.txt"
     },
     {
       "year": 1991,
@@ -921,7 +988,8 @@ const ARTIST_DATA = {
       "venue": "World Theatre",
       "notes": "Lollapalooza",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "nin1991-08-03.unknown.unknown.3.flac1644.txt"
     },
     {
       "year": 1991,
@@ -934,7 +1002,8 @@ const ARTIST_DATA = {
       "venue": "Pine Knob Music Theater",
       "notes": "Lollapalooza \u00b7 Sony WM-D6",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "nin1991-08-04.unknown.unknown.2.flac1632.txt"
     },
     {
       "year": 1991,
@@ -947,7 +1016,8 @@ const ARTIST_DATA = {
       "venue": "CNE Grandstand",
       "notes": "Lollapalooza \u00b7 Aiwa \u00b7 ag",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "nin1991-08-07.aiwa.ag.0.flac1644.txt"
     },
     {
       "year": 1991,
@@ -960,7 +1030,8 @@ const ARTIST_DATA = {
       "venue": "Waterloo Village",
       "notes": "Lollapalooza",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "nin1991-08-11.unknown.unknown.2.flac1644.txt"
     },
     {
       "year": 1991,
@@ -973,7 +1044,8 @@ const ARTIST_DATA = {
       "venue": "Waterloo Village",
       "notes": "Lollapalooza \u00b7 unk",
       "version": "AUD",
-      "format": "MP3"
+      "format": "MP3",
+      "textFile": "nin1991-08-11.unknown.unknown.unknown.mp3256.txt"
     },
     {
       "year": 1991,
@@ -986,7 +1058,8 @@ const ARTIST_DATA = {
       "venue": "Waterloo Village",
       "notes": "Lollapalooza \u00b7 billydee",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "nin1991-08-14.dsm6.billydee.0.flac1648.txt"
     },
     {
       "year": 1991,
@@ -999,7 +1072,8 @@ const ARTIST_DATA = {
       "venue": "Lake Fairfax",
       "notes": "Lollapalooza \u00b7 unk",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "nin1991-08-16.unknown.unknown.3.flac1644.txt"
     },
     {
       "year": 1991,
@@ -1012,7 +1086,8 @@ const ARTIST_DATA = {
       "venue": "Lakewood Amphitheater",
       "notes": "Lollapalooza \u00b7 ECM-909 \u00b7 jl",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "nin1991-08-18.ecm909.jl.0.flac1644.txt"
     },
     {
       "year": 1991,
@@ -1025,7 +1100,8 @@ const ARTIST_DATA = {
       "venue": "Central Florida Fairgrounds (Lollapalooza)",
       "notes": "8MM(M) \u00b7 Sony EVO-520",
       "version": "AUD",
-      "format": "MP4"
+      "format": "MP4",
+      "textFile": "nin1991-08-20.8mm.fullmetal.0.mp4480.txt"
     },
     {
       "year": 1991,
@@ -1038,7 +1114,8 @@ const ARTIST_DATA = {
       "venue": "Central Florida Fairgrounds",
       "notes": "Lollapalooza \u00b7 Sony WM-D3",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "nin1991-08-20.unknown.unknown.2.flac1632.txt"
     },
     {
       "year": 1991,
@@ -1051,7 +1128,8 @@ const ARTIST_DATA = {
       "venue": "Maimarktgelande",
       "notes": "stefan",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "nin1991-08-24.pc62.stefan.0.flac1644.txt"
     },
     {
       "year": 1991,
@@ -1064,7 +1142,8 @@ const ARTIST_DATA = {
       "venue": "PRO Radio Show",
       "notes": "",
       "version": "FM",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "nin1991-09-01.fm.unknown.1.flac1644.txt"
     },
     {
       "year": 1991,
@@ -1077,7 +1156,8 @@ const ARTIST_DATA = {
       "venue": "PRO Radio Show *A Demon Possessed",
       "notes": "",
       "version": "Silver CD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "nin1991-09-01.silver.ademonpossessed.0.flac1644.txt"
     },
     {
       "year": 1991,
@@ -1090,7 +1170,8 @@ const ARTIST_DATA = {
       "venue": "PRO Radio Show *Solid Gold Hell",
       "notes": "",
       "version": "Silver CD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "nin1991-09-01.silver.solidgoldhell.0.flac1644.txt"
     },
     {
       "year": 1991,
@@ -1103,7 +1184,8 @@ const ARTIST_DATA = {
       "venue": "Beligne",
       "notes": "WM-D3",
       "version": "AUD",
-      "format": "FLAC 24"
+      "format": "FLAC 24",
+      "textFile": "nin1991-09-02.wmd3.unknown.3.flac2448.txt"
     },
     {
       "year": 1991,
@@ -1116,7 +1198,8 @@ const ARTIST_DATA = {
       "venue": "Le Bataclan",
       "notes": "unk",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "nin1991-09-03.unknown.unknown.4.flac1644.txt"
     },
     {
       "year": 1991,
@@ -1129,7 +1212,8 @@ const ARTIST_DATA = {
       "venue": "Newcastle Riverside",
       "notes": "unk",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "nin1991-09-07.unknown.unknown.3.flac1644.txt"
     },
     {
       "year": 1991,
@@ -1142,7 +1226,8 @@ const ARTIST_DATA = {
       "venue": "Goldwyn's",
       "notes": "unk",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "nin1991-09-10.unknown.unknown.unknown.flac1644.txt"
     },
     {
       "year": 1991,
@@ -1155,7 +1240,8 @@ const ARTIST_DATA = {
       "venue": "Astoria",
       "notes": "",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "nin1991-09-13.unknown.unknown.0.flac1644.txt"
     },
     {
       "year": 1991,
@@ -1168,7 +1254,8 @@ const ARTIST_DATA = {
       "venue": "Astoria",
       "notes": "wolfe transfer",
       "version": "AUD",
-      "format": "MP4"
+      "format": "MP4",
+      "textFile": "nin1991-09-13.unknown.unknown.low.mp4576.txt"
     },
     {
       "year": 1994,
@@ -1181,7 +1268,8 @@ const ARTIST_DATA = {
       "venue": "Huntridge Theater",
       "notes": "Aiwa \u00b7 unk",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "nin1994-03-14.aiwa.unknown.2.flac1632.txt"
     },
     {
       "year": 1994,
@@ -1194,7 +1282,8 @@ const ARTIST_DATA = {
       "venue": "The Roxy",
       "notes": "ab",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "nin1994-03-18.internals.ab.1.flac1644.txt"
     },
     {
       "year": 1994,
@@ -1207,7 +1296,8 @@ const ARTIST_DATA = {
       "venue": "Moore Theatre *Familiar Sting",
       "notes": "SS Mics+Sony TCD-D3 \u00b7 ed phernetton",
       "version": "Silver CD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "nin1994-04-19.silver.familiarsting.0.flac1644.txt"
     },
     {
       "year": 1994,
@@ -1220,7 +1310,8 @@ const ARTIST_DATA = {
       "venue": "Moore Theatre",
       "notes": "DAT(M) \u00b7 SS Mics+Sony TCD-D3 \u00b7 ed phernetton",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "nin1994-04-19.sonics.edphernetton.0.flac1648.txt"
     },
     {
       "year": 1994,
@@ -1233,7 +1324,8 @@ const ARTIST_DATA = {
       "venue": "Moore Theatre *Crossing Nails",
       "notes": "SS Mics+Sony TCD-D3 \u00b7 ed phernetton",
       "version": "Silver CD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "nin1994-04-20.silver.crossednails.0.flac1644.txt"
     },
     {
       "year": 1994,
@@ -1246,7 +1338,8 @@ const ARTIST_DATA = {
       "venue": "The Warfield",
       "notes": "Sony WM-D3 \u00b7 sal e.",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "nin1994-04-23.pc62.sal.1.flac1644.txt"
     },
     {
       "year": 1994,
@@ -1259,7 +1352,8 @@ const ARTIST_DATA = {
       "venue": "The Warfield",
       "notes": "unk",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "nin1994-04-23.unknown.unknown.unknown.flac1644.txt"
     },
     {
       "year": 1994,
@@ -1272,7 +1366,8 @@ const ARTIST_DATA = {
       "venue": "Palace",
       "notes": "ANA(M) \u00b7 PC62",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "nin1994-04-26.pc62.db.1.flac1644.txt"
     },
     {
       "year": 1994,
@@ -1285,7 +1380,8 @@ const ARTIST_DATA = {
       "venue": "Palace",
       "notes": "unk",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "nin1994-04-26.unknown.unknown.unknown.flac1644.txt"
     },
     {
       "year": 1994,
@@ -1298,7 +1394,8 @@ const ARTIST_DATA = {
       "venue": "*March of the Pigs",
       "notes": "Teddy Bear 54",
       "version": "Silver CD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "nin1994-04-27.silver.marchofthepigs.0.flac1644.txt"
     },
     {
       "year": 1994,
@@ -1311,7 +1408,8 @@ const ARTIST_DATA = {
       "venue": "Montezuma Hall at San Diego State University",
       "notes": "Schoeps MK4 \u00b7 unk",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "nin1994-04-30.mk4.unknown.0.flac1648.txt"
     },
     {
       "year": 1994,
@@ -1324,7 +1422,8 @@ const ARTIST_DATA = {
       "venue": "Bomb Factory",
       "notes": "ECM-155 \u00b7 mr fang",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "nin1994-05-03.ecm-155.sim.0.flac1644.txt"
     },
     {
       "year": 1994,
@@ -1337,7 +1436,8 @@ const ARTIST_DATA = {
       "venue": "International Ballroom *Self Destructive Men",
       "notes": "",
       "version": "Silver CD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "nin1994-05-04.silver.selfdestructionmen.0.flac1644.txt"
     },
     {
       "year": 1994,
@@ -1350,7 +1450,8 @@ const ARTIST_DATA = {
       "venue": "*Coming Down Fast",
       "notes": "SS Mics \u00b7 jl",
       "version": "Silver CD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "nin1994-05-05.silver.comingdownfast.0.flac1644.txt"
     },
     {
       "year": 1994,
@@ -1363,7 +1464,8 @@ const ARTIST_DATA = {
       "venue": "The Riviera",
       "notes": "DAT(M) \u00b7 SS-DSM3 \u00b7 d. merz",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "nin1994-05-07.dsm3.dmerz.1.flac1644.txt"
     },
     {
       "year": 1994,
@@ -1376,7 +1478,8 @@ const ARTIST_DATA = {
       "venue": "The Riviera",
       "notes": "ECM-S220 \u00b7 jb",
       "version": "AUD (48k)",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "nin1994-05-07.ecms220.jb.0.flac1648.txt"
     },
     {
       "year": 1994,
@@ -1389,7 +1492,8 @@ const ARTIST_DATA = {
       "venue": "The Riviera",
       "notes": "unk",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "nin1994-05-07.unknown.unknown.unknown.flac1644.txt"
     },
     {
       "year": 1994,
@@ -1402,7 +1506,8 @@ const ARTIST_DATA = {
       "venue": "Boston Center for the Arts",
       "notes": "inc \u00b7 unk",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "nin1994-05-11.unknown.unknown.unknown.flac1644.txt"
     },
     {
       "year": 1994,
@@ -1415,7 +1520,8 @@ const ARTIST_DATA = {
       "venue": "Roseland Ballroom",
       "notes": "unk",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "nin1994-05-14.dat.gp.0.flac1648.txt"
     },
     {
       "year": 1994,
@@ -1428,7 +1534,8 @@ const ARTIST_DATA = {
       "venue": "Roseland Ballroom",
       "notes": "DAT(M) \u00b7 unk \u00b7 gp",
       "version": "AUD (48k)",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "nin1994-05-14.unknown.unknown.unknown.flac1644.txt"
     },
     {
       "year": 1994,
@@ -1441,7 +1548,8 @@ const ARTIST_DATA = {
       "venue": "Tower Theatre",
       "notes": "unk",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "nin1994-05-15.unknown.unknown.unknown.2.flac1644.txt"
     },
     {
       "year": 1994,
@@ -1454,7 +1562,8 @@ const ARTIST_DATA = {
       "venue": "Tower Theatre",
       "notes": "unk",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "nin1994-05-15.unknown.unknown.unknown.flac1644.txt"
     },
     {
       "year": 1994,
@@ -1467,7 +1576,8 @@ const ARTIST_DATA = {
       "venue": "Civic Hall",
       "notes": "unk",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "nin1994-05-20.unknown.unknown.unknown.flac1644.txt"
     },
     {
       "year": 1994,
@@ -1480,7 +1590,8 @@ const ARTIST_DATA = {
       "venue": "The Barrowlands",
       "notes": "unk",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "nin1994-05-21.unknown.unknown.unknown.flac1644.txt"
     },
     {
       "year": 1994,
@@ -1493,7 +1604,8 @@ const ARTIST_DATA = {
       "venue": "The Academy",
       "notes": "unk",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "nin1994-05-22.unknown.unknown.unknown.flac1644.txt"
     },
     {
       "year": 1994,
@@ -1506,7 +1618,8 @@ const ARTIST_DATA = {
       "venue": "The Forum",
       "notes": "unk",
       "version": "AUD",
-      "format": "DVD"
+      "format": "DVD",
+      "textFile": "nin1994-05-24.unknown.crew.unknown.pal.dvd.txt"
     },
     {
       "year": 1994,
@@ -1519,7 +1632,8 @@ const ARTIST_DATA = {
       "venue": "The Forum",
       "notes": "",
       "version": "SBD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "nin1994-05-26.sbd.unknown.unknown.flac1644.txt"
     },
     {
       "year": 1994,
@@ -1532,7 +1646,8 @@ const ARTIST_DATA = {
       "venue": "The Forum",
       "notes": "unk \u00b7 master",
       "version": "SBD",
-      "format": "DVD"
+      "format": "DVD",
+      "textFile": "nin1994-05-26.silver.hammeringithome.0.flac1644.txt"
     },
     {
       "year": 1994,
@@ -1545,7 +1660,8 @@ const ARTIST_DATA = {
       "venue": "The Forum *Hammering It Home",
       "notes": "",
       "version": "Silver CD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "nin1994-05-26.silver.shallowgrave.0.flac1644.txt"
     },
     {
       "year": 1994,
@@ -1558,7 +1674,8 @@ const ARTIST_DATA = {
       "venue": "The Forum *Shallow Grave",
       "notes": "",
       "version": "Silver CD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "nin1994-05-26.unknown.unknown.0.pal.dvd.txt"
     },
     {
       "year": 1994,
@@ -1571,7 +1688,8 @@ const ARTIST_DATA = {
       "venue": "Le Bataclan",
       "notes": "unk",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "nin1994-05-30.unknown.unknown.unknown.flac1644.txt"
     },
     {
       "year": 1994,
@@ -1584,7 +1702,8 @@ const ARTIST_DATA = {
       "venue": "Paradiso",
       "notes": "",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "nin1994-05-31.unknown.unknown.unknown.flac1644.txt"
     },
     {
       "year": 1994,
@@ -1597,7 +1716,8 @@ const ARTIST_DATA = {
       "venue": "Tor 3",
       "notes": "Live Snippets and Interview",
       "version": "PRO",
-      "format": "MP4"
+      "format": "MP4",
+      "textFile": "nin1994-06-08.pro.kanal4.1.mp4480.txt"
     },
     {
       "year": 1994,
@@ -1610,7 +1730,8 @@ const ARTIST_DATA = {
       "venue": "Tor 3 *Terrible Live Lie",
       "notes": "Dead Dog Records SE-451",
       "version": "Silver CD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "nin1994-06-08.silver.terriblelivelie-edit.0.flac1644.txt"
     },
     {
       "year": 1994,
@@ -1623,7 +1744,8 @@ const ARTIST_DATA = {
       "venue": "Mid-Hudson Civic Center",
       "notes": "8mm camera \u00b7 unk",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "nin1994-08-03.unknown.unknown.0.ntsc.dvd.txt"
     },
     {
       "year": 1994,
@@ -1636,7 +1758,8 @@ const ARTIST_DATA = {
       "venue": "Mid-Hudson Civic Center",
       "notes": "Hi8(M) \u00b7 unk",
       "version": "AUD",
-      "format": "DVD"
+      "format": "DVD",
+      "textFile": "nin1994-08-03.unknown.unknown.2.flac1644.txt"
     },
     {
       "year": 1994,
@@ -1649,7 +1772,8 @@ const ARTIST_DATA = {
       "venue": "Molson Park",
       "notes": "CSB \u00b7 mark weygandt",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "nin1994-08-06.csb.mark.2.flac1644.txt"
     },
     {
       "year": 1994,
@@ -1662,7 +1786,8 @@ const ARTIST_DATA = {
       "venue": "Molson Park",
       "notes": "MKE2002s \u00b7 ms",
       "version": "AUD (48k)",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "nin1994-08-06.mke2002.ms.0.flac1648.txt"
     },
     {
       "year": 1994,
@@ -1675,7 +1800,8 @@ const ARTIST_DATA = {
       "venue": "Molson Park",
       "notes": "unk",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "nin1994-08-06.unknown.unknown.unknown.flac1644.txt"
     },
     {
       "year": 1994,
@@ -1688,7 +1814,8 @@ const ARTIST_DATA = {
       "venue": "Patriot Center",
       "notes": "unk",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "nin1994-08-11.unknown.unknown.unknown.flac1644.txt"
     },
     {
       "year": 1994,
@@ -1701,7 +1828,8 @@ const ARTIST_DATA = {
       "venue": "Patriot Center",
       "notes": "unk",
       "version": "AUD",
-      "format": "DVD"
+      "format": "DVD",
+      "textFile": "nin1994-08-11.unknown.unknown.unknown.ntsc.dvd.txt"
     },
     {
       "year": 1994,
@@ -1714,7 +1842,8 @@ const ARTIST_DATA = {
       "venue": "Woodstock 94'",
       "notes": "SS DSM-6P \u00b7 sh",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "nin1994-08-13.dsm6p.sh.0.flac1644.txt"
     },
     {
       "year": 1994,
@@ -1727,7 +1856,8 @@ const ARTIST_DATA = {
       "venue": "Woodstock 94'",
       "notes": "PPV \u00b7 acetboy",
       "version": "SBD",
-      "format": "FLAC 24"
+      "format": "FLAC 24",
+      "textFile": "nin1994-08-13.sbd.acetboy.0.flac2444.txt"
     },
     {
       "year": 1994,
@@ -1740,7 +1870,8 @@ const ARTIST_DATA = {
       "venue": "Woodstock 94'",
       "notes": "PPV \u00b7 kevin c. mastering",
       "version": "SBD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "nin1994-08-13.sbd.ppv.0.flac1644.txt"
     },
     {
       "year": 1994,
@@ -1753,7 +1884,8 @@ const ARTIST_DATA = {
       "venue": "Woodstock 94'",
       "notes": "PPV",
       "version": "PRO",
-      "format": "MP4"
+      "format": "MP4",
+      "textFile": "nin1994-08-13.sbd.ppv.0.mp4480.txt"
     },
     {
       "year": 1994,
@@ -1766,7 +1898,8 @@ const ARTIST_DATA = {
       "venue": "Woodstock 94' *Reznor Sharp",
       "notes": "",
       "version": "Silver CD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "nin1994-08-13.silver.scratches.0.flac1644.txt"
     },
     {
       "year": 1994,
@@ -1779,7 +1912,8 @@ const ARTIST_DATA = {
       "venue": "Woodstock 94' *Scratches",
       "notes": "",
       "version": "Silver CD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "nin1994-08-13.silver.woodstock94.0.flac1644.txt"
     },
     {
       "year": 1994,
@@ -1792,7 +1926,8 @@ const ARTIST_DATA = {
       "venue": "Woodstock 94' *Woodstock 94",
       "notes": "",
       "version": "Silver CD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "nin1994-08-13woodstockcd0.txt"
     },
     {
       "year": 1994,
@@ -1818,7 +1953,8 @@ const ARTIST_DATA = {
       "venue": "Auditorium Theater",
       "notes": "CSB \u00b7 mark weygandt",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "nin1994-08-27.csb.mark.3.flac1644.txt"
     },
     {
       "year": 1994,
@@ -1831,7 +1967,8 @@ const ARTIST_DATA = {
       "venue": "Nautica Stage",
       "notes": "unk",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "nin1994-08-30.unknown.unknown.unknown.flac1644.txt"
     },
     {
       "year": 1994,
@@ -1844,7 +1981,8 @@ const ARTIST_DATA = {
       "venue": "Roy Wilkins Auditorium *Nails In My Hand",
       "notes": "",
       "version": "Silver CD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "nin1994-09-05.silver.nailsinmyhead.unknown.flac1644.txt"
     },
     {
       "year": 1994,
@@ -1857,7 +1995,8 @@ const ARTIST_DATA = {
       "venue": "Roy Wilkins Auditorium",
       "notes": "unk",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "nin1994-09-05.unknown.unknown.unknown.flac1644.txt"
     },
     {
       "year": 1994,
@@ -1870,7 +2009,8 @@ const ARTIST_DATA = {
       "venue": "Roy Wilkins Auditorium",
       "notes": "unk",
       "version": "AUD",
-      "format": "DVD"
+      "format": "DVD",
+      "textFile": "nin1994-09-05.unknown.unknown.unknown.ntsc.dvd.txt"
     },
     {
       "year": 1994,
@@ -1883,7 +2023,8 @@ const ARTIST_DATA = {
       "venue": "Riverside Theatre",
       "notes": "DAT(M) \u00b7 Sonic Studios \u00b7 dm",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "nin1994-09-07.dsm6.dmerz.1.flac1644.txt"
     },
     {
       "year": 1994,
@@ -1896,7 +2037,8 @@ const ARTIST_DATA = {
       "venue": "Riverside Theatre",
       "notes": "unk",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "nin1994-09-07.unknown.unknown.unknown.flac1644.txt"
     },
     {
       "year": 1994,
@@ -1909,7 +2051,8 @@ const ARTIST_DATA = {
       "venue": "Fox Theater",
       "notes": "VHS(1) \u00b7 unk",
       "version": "AUD",
-      "format": "DVD"
+      "format": "DVD",
+      "textFile": "nin1994-09-11.unknown.unknown.1.ntsc.dvd.txt"
     },
     {
       "year": 1994,
@@ -1922,7 +2065,8 @@ const ARTIST_DATA = {
       "venue": "Vanderbilt's Memorial Gym",
       "notes": "Hi8(M) \u00b7 roydamm",
       "version": "AUD",
-      "format": "DVD"
+      "format": "DVD",
+      "textFile": "nin1994-09-13.hi8.roydamm.0.ntsc.dvd.txt"
     },
     {
       "year": 1994,
@@ -1935,7 +2079,8 @@ const ARTIST_DATA = {
       "venue": "Memorial Hall",
       "notes": "DAT(4) \u00b7 Sonic Studios \u00b7 dm",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "nin1994-09-17.dsm6.dmerz.0.flac1644.txt"
     },
     {
       "year": 1994,
@@ -1948,7 +2093,8 @@ const ARTIST_DATA = {
       "venue": "Center Arena",
       "notes": "Unk Cassette Recorder \u00b7 mm",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "nin1994-09-24.cass.mm.0.flac1644.txt"
     },
     {
       "year": 1994,
@@ -1961,7 +2107,8 @@ const ARTIST_DATA = {
       "venue": "San Jose State Auditorium *Pinion",
       "notes": "",
       "version": "Silver CD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "nin1994-10-01.silver.pinion.unknown.flac1644.txt"
     },
     {
       "year": 1994,
@@ -1974,7 +2121,8 @@ const ARTIST_DATA = {
       "venue": "San Jose State Auditorium",
       "notes": "AUD(M)",
       "version": "AUD",
-      "format": "DVD"
+      "format": "DVD",
+      "textFile": "nin1994-10-01.sonytr7.mdvidguy.0.dvd.txt"
     },
     {
       "year": 1994,
@@ -1987,7 +2135,8 @@ const ARTIST_DATA = {
       "venue": "Universal Amphitheatre",
       "notes": "Sony ECM 737 \u00b7 ijwthstd",
       "version": "AUD (48k)",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "nin1994-10-03.ecm737.ijwthstd.0.flac1648.txt"
     },
     {
       "year": 1994,
@@ -2000,7 +2149,8 @@ const ARTIST_DATA = {
       "venue": "Universal Amphitheatre *Slaughter In The Air",
       "notes": "",
       "version": "Silver CD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "nin1994-10-03.silver.slaughterintheair.0.flac1644.txt"
     },
     {
       "year": 1994,
@@ -2013,7 +2163,8 @@ const ARTIST_DATA = {
       "venue": "Universal Amphitheatre",
       "notes": "Sony ECM 737 \u00b7 ijwthstd",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "nin1994-10-06.ecm737.ijwthstd.0.flac1644.txt"
     },
     {
       "year": 1994,
@@ -2026,7 +2177,8 @@ const ARTIST_DATA = {
       "venue": "Universal Amphitheatre",
       "notes": "Sony ECM 737 \u00b7 ijwthstd",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "nin1994-10-07.ecm737.ijwthstd.0.flac1644.txt"
     },
     {
       "year": 1994,
@@ -2039,7 +2191,8 @@ const ARTIST_DATA = {
       "venue": "Universal Amphitheatre *Sex, Pain & Rock n' Roll",
       "notes": "",
       "version": "Silver CD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "nin1994-10-07.silver.sexpainandrockandroll.0.flac1644.txt"
     },
     {
       "year": 1994,
@@ -2052,7 +2205,8 @@ const ARTIST_DATA = {
       "venue": "Henry J. Kaiser Convention Center *Down In It",
       "notes": "",
       "version": "Silver CD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "nin1994-10-14.silver.downinit.unknown.flac1644.txt"
     },
     {
       "year": 1994,
@@ -2065,7 +2219,8 @@ const ARTIST_DATA = {
       "venue": "Henry J. Kaiser Convention Center",
       "notes": "VHS(1) \u00b7 dan",
       "version": "AUD",
-      "format": "DVD"
+      "format": "DVD",
+      "textFile": "nin1994-10-14.unknown.dan.1.ntsc.dvd.txt"
     },
     {
       "year": 1994,
@@ -2078,7 +2233,8 @@ const ARTIST_DATA = {
       "venue": "The Summit *Love It To Death",
       "notes": "SS \u00b7 jl",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "nin1994-10-31.silver.loveittodeath.0.flac1644.txt"
     },
     {
       "year": 1994,
@@ -2091,7 +2247,8 @@ const ARTIST_DATA = {
       "venue": "Lloyd Noble Arena",
       "notes": "University \u00b7 Radioshack Shotgun \u00b7 steve m.",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "nin1994-11-02.rs.stevem.0.flac1644.txt"
     },
     {
       "year": 1994,
@@ -2104,7 +2261,8 @@ const ARTIST_DATA = {
       "venue": "Southern IL University Arena",
       "notes": "unk",
       "version": "AUD",
-      "format": "DVD"
+      "format": "DVD",
+      "textFile": "nin1994-11-05.unknown.unknown.2.ntsc.dvd.txt"
     },
     {
       "year": 1994,
@@ -2117,7 +2275,8 @@ const ARTIST_DATA = {
       "venue": "Carver-Hawkeye Arena",
       "notes": "unk",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "nin1994-11-06.unknown.unknown.unknown.flac1644.txt"
     },
     {
       "year": 1994,
@@ -2130,7 +2289,8 @@ const ARTIST_DATA = {
       "venue": "Dane County Coliseum",
       "notes": "SS \u00b7 dm",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "nin1994-11-08.dsm6.dmerz.1.flac1644.txt"
     },
     {
       "year": 1994,
@@ -2143,7 +2303,8 @@ const ARTIST_DATA = {
       "venue": "The Assembly Hall",
       "notes": "WMD3 \u00b7 acetboy",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "nin1994-11-09.pc62.acetboy.0.flac1644.txt"
     },
     {
       "year": 1994,
@@ -2156,7 +2317,8 @@ const ARTIST_DATA = {
       "venue": "The Assembly Hall",
       "notes": "VHS(1) \u00b7 unk",
       "version": "AUD",
-      "format": "DVD"
+      "format": "DVD",
+      "textFile": "nin1994-11-09.unknown.unknown.1.ntsc.dvd.txt"
     },
     {
       "year": 1994,
@@ -2169,7 +2331,8 @@ const ARTIST_DATA = {
       "venue": "Gardens",
       "notes": "CSB \u00b7 jason schmidlapp",
       "version": "AUD (48k)",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "nin1994-11-12.csb.js.unknown.flac1648.txt"
     },
     {
       "year": 1994,
@@ -2182,7 +2345,8 @@ const ARTIST_DATA = {
       "venue": "Convention Center *Hellraisers",
       "notes": "Sonic Studios \u00b7 jl",
       "version": "Silver CD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "nin1994-11-13.silver.hellraisers.0.flac1644.txt"
     },
     {
       "year": 1994,
@@ -2195,7 +2359,8 @@ const ARTIST_DATA = {
       "venue": "Jacksonville Coliseum",
       "notes": "unk",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "nin1994-11-18.unknown.unknown.unknown.flac1644.txt"
     },
     {
       "year": 1994,
@@ -2208,7 +2373,8 @@ const ARTIST_DATA = {
       "venue": "Exposition Hall *March of the Devil",
       "notes": "Sonic Studios \u00b7 mm",
       "version": "Silver CD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "nin1994-11-21.silver.marchofthedevil.0.flac1644.txt"
     },
     {
       "year": 1994,
@@ -2221,7 +2387,8 @@ const ARTIST_DATA = {
       "venue": "Joel Memorial Arena",
       "notes": "unk",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "nin1994-11-23.unknown.unknown.unknown.flac1644.txt"
     },
     {
       "year": 1994,
@@ -2234,7 +2401,8 @@ const ARTIST_DATA = {
       "venue": "Civic Arena *Hanging Like Jesus on the Cross",
       "notes": "Booth 003/004",
       "version": "Silver CD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "nin1994-11-28.silver.hanginglikejesusonthiscross.0.flac1644.txt"
     },
     {
       "year": 1994,
@@ -2247,7 +2415,8 @@ const ARTIST_DATA = {
       "venue": "Civic Arena",
       "notes": "steve kilinsky",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "nin1994-11-28.unknown.stevekilinsky.1.flac1644.txt"
     },
     {
       "year": 1994,
@@ -2260,7 +2429,8 @@ const ARTIST_DATA = {
       "venue": "Buffalo Memorial Auditorium",
       "notes": "DAT(M) \u00b7 CSB \u00b7 mark weygandt",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "nin1994-11-29.csb.mark.0.flac1648.txt"
     },
     {
       "year": 1994,
@@ -2273,7 +2443,8 @@ const ARTIST_DATA = {
       "venue": "Buffalo Memorial Auditorium",
       "notes": "Sony WM-D3 \u00b7 unk",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "nin1994-11-29.pc62.unknown.1.flac1644.txt"
     },
     {
       "year": 1994,
@@ -2286,7 +2457,8 @@ const ARTIST_DATA = {
       "venue": "Maple Leaf Gardens *I Feel Evil",
       "notes": "",
       "version": "Silver CD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "nin1994-12-01.ecm909a.ag.1.flac1644.txt"
     },
     {
       "year": 1994,
@@ -2299,7 +2471,8 @@ const ARTIST_DATA = {
       "venue": "Maple Leaf Gardens",
       "notes": "DAT(M) \u00b7 Sony ECM-909A \u00b7 ag",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "nin1994-12-01.silver.ifeelevil.0.flac1644.txt"
     },
     {
       "year": 1994,
@@ -2312,7 +2485,8 @@ const ARTIST_DATA = {
       "venue": "Maple Leaf Gardens",
       "notes": "unk",
       "version": "AUD",
-      "format": "FLAC 24"
+      "format": "FLAC 24",
+      "textFile": "nin1994-12-01.unknown.unknown.2.flac2448.txt"
     },
     {
       "year": 1994,
@@ -2325,7 +2499,8 @@ const ARTIST_DATA = {
       "venue": "Maple Leaf Gardens",
       "notes": "VHS(1) \u00b7 unk",
       "version": "AUD",
-      "format": "DVD"
+      "format": "DVD",
+      "textFile": "nin1994-12-01.unknown.unknown.unknown.ntsc.dvd.txt"
     },
     {
       "year": 1994,
@@ -2338,7 +2513,8 @@ const ARTIST_DATA = {
       "venue": "Boston Garden *Manson's Revenge",
       "notes": "",
       "version": "Silver CD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "nin1994-12-03.silver.mansonsrevenge.0.flac1644.txt"
     },
     {
       "year": 1994,
@@ -2351,7 +2527,8 @@ const ARTIST_DATA = {
       "venue": "Boston Garden",
       "notes": "DAT(4)",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "nin1994-12-03.unknown.unknown.4.flac1644.txt"
     },
     {
       "year": 1994,
@@ -2364,7 +2541,8 @@ const ARTIST_DATA = {
       "venue": "Knickerbocker Arena",
       "notes": "SS DSM6 \u00b7 dssman",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "nin1994-12-04.dsm6.dssman.0.flac1644.txt"
     },
     {
       "year": 1994,
@@ -2377,7 +2555,8 @@ const ARTIST_DATA = {
       "venue": "Knickerbocker Arena",
       "notes": "ECM 155 \u00b7 sim",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "nin1994-12-04.ecm155.sim.0.flac1644.txt"
     },
     {
       "year": 1994,
@@ -2390,7 +2569,8 @@ const ARTIST_DATA = {
       "venue": "Baltimore Arena",
       "notes": "Sony TR 71 \u00b7 mdvidguy/rcsguy",
       "version": "AUD",
-      "format": "DVD"
+      "format": "DVD",
+      "textFile": "nin1994-12-06.tr-71.mdvidguy.1.ntsc.dvd.txt"
     },
     {
       "year": 1994,
@@ -2403,7 +2583,8 @@ const ARTIST_DATA = {
       "venue": "Madison Square Garden",
       "notes": "8MM(M) \u00b7 rcsguy",
       "version": "AUD",
-      "format": "DVD"
+      "format": "DVD",
+      "textFile": "nin1994-12-08.tr-71.rcsguy.0.dvd.txt"
     },
     {
       "year": 1994,
@@ -2416,7 +2597,8 @@ const ARTIST_DATA = {
       "venue": "Madison Square Garden *Hellraisers",
       "notes": "",
       "version": "Silver CD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "nin1994-12-09.dat.gp.0.flac1648.txt"
     },
     {
       "year": 1994,
@@ -2429,7 +2611,8 @@ const ARTIST_DATA = {
       "venue": "Madison Square Garden",
       "notes": "unk",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "nin1994-12-09.silver.hellraisers.0.flac1644.txt"
     },
     {
       "year": 1994,
@@ -2442,7 +2625,8 @@ const ARTIST_DATA = {
       "venue": "Madison Square Garden",
       "notes": "DAT(x) \u00b7 gp",
       "version": "AUD (48k)",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "nin1994-12-09.unknown.unknown.unknown.flac1644.txt"
     },
     {
       "year": 1994,
@@ -2468,7 +2652,8 @@ const ARTIST_DATA = {
       "venue": "Hara Arena",
       "notes": "DAT(M) \u00b7 ECM 737 \u00b7 david k.",
       "version": "AUD (48k)",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "nin1994-12-29.ecm737.davidk.0.flac1648.txt"
     },
     {
       "year": 1994,
@@ -2481,7 +2666,8 @@ const ARTIST_DATA = {
       "venue": "Hara Arena",
       "notes": "DAT(M) \u00b7 Radioshack Stereo mic \u00b7 the govner",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "nin1994-12-29.radioshack.thegovner.1.flac1644.txt"
     },
     {
       "year": 1994,
@@ -2494,7 +2680,8 @@ const ARTIST_DATA = {
       "venue": "Hara Arena *Homeboy Reznor",
       "notes": "",
       "version": "Silver CD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "nin1994-12-29.silver.homeboyreznor.0.flac1644.txt"
     },
     {
       "year": 1995,
@@ -2507,7 +2694,8 @@ const ARTIST_DATA = {
       "venue": "Theatre Du Forum",
       "notes": "unk",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "nin1995-01-03.unknown.unknown.2.flac1644.txt"
     },
     {
       "year": 1995,
@@ -2520,7 +2708,8 @@ const ARTIST_DATA = {
       "venue": "The Centrum",
       "notes": "unk",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "nin1995-01-05.unknown.unknown.unknown.flac1644.txt"
     },
     {
       "year": 1995,
@@ -2533,7 +2722,8 @@ const ARTIST_DATA = {
       "venue": "Nassau Coliseum *Nassau '95",
       "notes": "",
       "version": "Silver CD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "nin1995-01-06.silver.nassau.0.flac1644.txt"
     },
     {
       "year": 1995,
@@ -2546,7 +2736,8 @@ const ARTIST_DATA = {
       "venue": "Nassau Coliseum",
       "notes": "",
       "version": "AUD",
-      "format": "DVD"
+      "format": "DVD",
+      "textFile": "nin1995-01-06.unknown.unknown.unknown.ntsc.dvd.txt"
     },
     {
       "year": 1995,
@@ -2559,7 +2750,8 @@ const ARTIST_DATA = {
       "venue": "CSU Convocation Center",
       "notes": "unk",
       "version": "AUD",
-      "format": "DVD"
+      "format": "DVD",
+      "textFile": "nin1995-01-09.unknown.unknown.unknown.ntsc.dvd.txt"
     },
     {
       "year": 1995,
@@ -2585,7 +2777,8 @@ const ARTIST_DATA = {
       "venue": "Mecca Arena",
       "notes": "DAT(M) \u00b7 SS DSM6 \u00b7 ryanj",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "nin1995-01-18.dsm6.unknown.0.flac1644.txt"
     },
     {
       "year": 1995,
@@ -2598,7 +2791,8 @@ const ARTIST_DATA = {
       "venue": "The Omni",
       "notes": "unk",
       "version": "AUD",
-      "format": "FLAC 24"
+      "format": "FLAC 24",
+      "textFile": "nin1995-01-24.unknown.unknown.1.flac2448.txt"
     },
     {
       "year": 1995,
@@ -2611,7 +2805,8 @@ const ARTIST_DATA = {
       "venue": "Murphy Center",
       "notes": "unk",
       "version": "AUD",
-      "format": "DVD"
+      "format": "DVD",
+      "textFile": "nin1995-01-30.unknown.unknown.unknown.ntsc.dvd.txt"
     },
     {
       "year": 1995,
@@ -2624,7 +2819,8 @@ const ARTIST_DATA = {
       "venue": "Target Center",
       "notes": "SS DSM6 \u00b7 d. merz",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "nin1995-02-04.dsm6.dmerz.unknown.flac1644.txt"
     },
     {
       "year": 1995,
@@ -2637,7 +2833,8 @@ const ARTIST_DATA = {
       "venue": "Target Center",
       "notes": "unk",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "nin1995-02-04.unknown.unknown.0.flac1632.txt"
     },
     {
       "year": 1995,
@@ -2650,7 +2847,8 @@ const ARTIST_DATA = {
       "venue": "La Crosse Center",
       "notes": "SS DSM6 \u00b7 d. merz",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "nin1995-02-05.dsm6.dmerz.unknown.flac1644.txt"
     },
     {
       "year": 1995,
@@ -2663,7 +2861,8 @@ const ARTIST_DATA = {
       "venue": "Sioux Falls Center",
       "notes": "DAT(M) \u00b7 SS DSM6 \u00b7 d. merz",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "nin1995-02-07.dsm6.dmerz.unknown.flac1644.txt"
     },
     {
       "year": 1995,
@@ -2676,7 +2875,8 @@ const ARTIST_DATA = {
       "venue": "Expo Center",
       "notes": "inc \u00b7 unk",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "nin1995-02-08.unknown.unknown.unknown.flac1644.txt"
     },
     {
       "year": 1995,
@@ -2689,7 +2889,8 @@ const ARTIST_DATA = {
       "venue": "Fair Park Coliseum",
       "notes": "DAT(M) \u00b7 SS DSM-6 \u00b7 eric britt",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "nin1995-02-11.dsm6.eb-rocksuitcase.1.flac1648.txt"
     },
     {
       "year": 1995,
@@ -2702,7 +2903,8 @@ const ARTIST_DATA = {
       "venue": "Keil Center",
       "notes": "unk",
       "version": "AUD",
-      "format": "DVD"
+      "format": "DVD",
+      "textFile": "nin1995-02-14.unknown.unknown.unknown.ntsc.dvd.txt"
     },
     {
       "year": 1995,
@@ -2715,7 +2917,8 @@ const ARTIST_DATA = {
       "venue": "UNO Lakefront Arena",
       "notes": "unk",
       "version": "AUD",
-      "format": "DVD"
+      "format": "DVD",
+      "textFile": "nin1995-02-18.unknown.unknown.unknown.ntsc.dvd.txt"
     },
     {
       "year": 1995,
@@ -2728,7 +2931,8 @@ const ARTIST_DATA = {
       "venue": "Olympic Park",
       "notes": "unk \u00b7 ncl productions",
       "version": "AUD",
-      "format": "DVD"
+      "format": "DVD",
+      "textFile": "nin1995-04-16.unknown.nclproductions.unknown.pal.dvd.txt"
     },
     {
       "year": 1995,
@@ -2741,7 +2945,8 @@ const ARTIST_DATA = {
       "venue": "Meadows Music Theatre (Rehearsal",
       "notes": "No \u00b7 Nak 700 \u00b7 gordo55",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "nin1995-09-12.nak700.gordo55.0.flac1644.txt"
     },
     {
       "year": 1995,
@@ -2754,7 +2959,8 @@ const ARTIST_DATA = {
       "venue": "Meadows Music Theatre *A Hyper Circle",
       "notes": "",
       "version": "Silver CD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "nin1995-09-14.nak700.gordo55.0.flac1644.txt"
     },
     {
       "year": 1995,
@@ -2767,7 +2973,8 @@ const ARTIST_DATA = {
       "venue": "Meadows Music Theatre",
       "notes": "Nak 700 \u00b7 gordo55",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "nin1995-09-14.silver.closertotrent+ahypercircle.unknown+0.flac1644.txt"
     },
     {
       "year": 1995,
@@ -2780,7 +2987,8 @@ const ARTIST_DATA = {
       "venue": "Meadows Music Theatre",
       "notes": "",
       "version": "AUD",
-      "format": "DVD"
+      "format": "DVD",
+      "textFile": "nin1995-09-14.unknown.unknown.unknown.ntsc.dvd.txt"
     },
     {
       "year": 1995,
@@ -2793,7 +3001,8 @@ const ARTIST_DATA = {
       "venue": "Great Woods Amphitheater *Glamour Death",
       "notes": "",
       "version": "Silver CD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "nin1995-09-16.csb.billhoy.0.flac1644.txt"
     },
     {
       "year": 1995,
@@ -2806,7 +3015,8 @@ const ARTIST_DATA = {
       "venue": "Great Woods Amphitheater",
       "notes": "DAT(M) \u00b7 CSB \u00b7 bill hoy",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "nin1995-09-16.silver.glamourdeath.0.flac1644.txt"
     },
     {
       "year": 1995,
@@ -2819,7 +3029,8 @@ const ARTIST_DATA = {
       "venue": "Hershey Park Stadium *Monsters In Space",
       "notes": "",
       "version": "Silver CD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "nin1995-09-17.silver.monstersinspace.0.flac1644.txt"
     },
     {
       "year": 1995,
@@ -2832,7 +3043,8 @@ const ARTIST_DATA = {
       "venue": "Hershey Park Stadium",
       "notes": "unk",
       "version": "AUD",
-      "format": "FLAC 24"
+      "format": "FLAC 24",
+      "textFile": "nin1995-09-17.unknown.unknown.3.flac1644.txt"
     },
     {
       "year": 1995,
@@ -2845,7 +3057,8 @@ const ARTIST_DATA = {
       "venue": "Hershey Park Stadium",
       "notes": "unk",
       "version": "AUD",
-      "format": "MP3"
+      "format": "MP3",
+      "textFile": "nin1995-09-17.unknown.unknown.unknown.mp3320.txt"
     },
     {
       "year": 1995,
@@ -2871,7 +3084,8 @@ const ARTIST_DATA = {
       "venue": "Skydome *Blue Lies",
       "notes": "",
       "version": "Silver CD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "nin1995-09-20.mke2002.ms.0.flac1644.txt"
     },
     {
       "year": 1995,
@@ -2884,7 +3098,8 @@ const ARTIST_DATA = {
       "venue": "Skydome",
       "notes": "DAT(M) \u00b7 MKE-2002 \u00b7 ms",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "nin1995-09-20.silver.bluelies.0.flac1644.txt"
     },
     {
       "year": 1995,
@@ -2897,7 +3112,8 @@ const ARTIST_DATA = {
       "venue": "Skydome",
       "notes": "psychomafia",
       "version": "AUD",
-      "format": "DVD"
+      "format": "DVD",
+      "textFile": "nin1995-09-20.unknown.psychomafia.unknown.ntsc.dvd.txt"
     },
     {
       "year": 1995,
@@ -2910,7 +3126,8 @@ const ARTIST_DATA = {
       "venue": "Sony Blockbuster Entertainment Center",
       "notes": "MK41 \u00b7 wklitz",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "nin1995-09-22.mk41.wklitz.0.flac1644.txt"
     },
     {
       "year": 1995,
@@ -2923,7 +3140,8 @@ const ARTIST_DATA = {
       "venue": "Coca-Cola Star Lake Amphitheater",
       "notes": "steve kilinsky",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "nin1995-09-23.unknown.stevekilinsky.1.flac1644.txt"
     },
     {
       "year": 1995,
@@ -2936,7 +3154,8 @@ const ARTIST_DATA = {
       "venue": "Coca-Cola Star Lake Amphitheater",
       "notes": "unk",
       "version": "AUD",
-      "format": "DVD"
+      "format": "DVD",
+      "textFile": "nin1995-09-23.unknown.unknown.unknown.ntsc.dvd.txt"
     },
     {
       "year": 1995,
@@ -2949,7 +3168,8 @@ const ARTIST_DATA = {
       "venue": "Meadowlands Arena",
       "notes": "inc",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "nin1995-09-28.aud-vidsrc.unknown.unknown.flac1644.txt"
     },
     {
       "year": 1995,
@@ -2962,7 +3182,8 @@ const ARTIST_DATA = {
       "venue": "New World Music Theater",
       "notes": "unk",
       "version": "AUD",
-      "format": "DVD"
+      "format": "DVD",
+      "textFile": "nin1995-10-01.unknown.unknown.unknown.ntsc.dvd.txt"
     },
     {
       "year": 1995,
@@ -2975,7 +3196,8 @@ const ARTIST_DATA = {
       "venue": "Palace of Auburn Hills *Outside the Palace",
       "notes": "",
       "version": "AUD",
-      "format": "MP3"
+      "format": "MP3",
+      "textFile": "nin1995-10-03.unknown.unknown.unknown.flac1644.txt"
     },
     {
       "year": 1995,
@@ -3001,7 +3223,8 @@ const ARTIST_DATA = {
       "venue": "Polaris Amphitheater *Polarized",
       "notes": "",
       "version": "Silver CD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "nin1995-10-04.silver.polarized.1.flac1644.txt"
     },
     {
       "year": 1995,
@@ -3014,7 +3237,8 @@ const ARTIST_DATA = {
       "venue": "Polaris Amphitheater",
       "notes": "unk",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "nin1995-10-04.unknown.unknown.unknown.flac1644.txt"
     },
     {
       "year": 1995,
@@ -3027,7 +3251,8 @@ const ARTIST_DATA = {
       "venue": "Nissan Pavilion",
       "notes": "unk",
       "version": "AUD",
-      "format": "MP3"
+      "format": "MP3",
+      "textFile": "nin1995-10-06.unknown.unknown.unknown.mp3128.txt"
     },
     {
       "year": 1995,
@@ -3040,7 +3265,8 @@ const ARTIST_DATA = {
       "venue": "Hardee's Walnut Creek Amphitheatre",
       "notes": "unk",
       "version": "AUD",
-      "format": "MP3"
+      "format": "MP3",
+      "textFile": "nin1995-10-07.unknown.unknown.unknown.mp3128.txt"
     },
     {
       "year": 1995,
@@ -3053,7 +3279,8 @@ const ARTIST_DATA = {
       "venue": "Coca-Cola Lakewood Amphitheatre *You Can't Stop Us",
       "notes": "SS \u00b7 jl",
       "version": "Silver CD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "nin1995-10-09.silver.youcantstopus.0.flac1644.txt"
     },
     {
       "year": 1995,
@@ -3066,7 +3293,8 @@ const ARTIST_DATA = {
       "venue": "Riverport Amphitheatre",
       "notes": "a stacy master",
       "version": "SBD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "nin1995-10-11.sbd.ms.0.flac1644.txt"
     },
     {
       "year": 1995,
@@ -3079,7 +3307,8 @@ const ARTIST_DATA = {
       "venue": "Starplex Amphitheatre",
       "notes": "ECM 959a \u00b7 v4tx",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "nin1995-10-13.ecm959a.v4tx.0.flac1644.txt"
     },
     {
       "year": 1995,
@@ -3092,7 +3321,8 @@ const ARTIST_DATA = {
       "venue": "Southpark Meadows",
       "notes": "unk",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "nin1995-10-14.unknown.unknown.3.flac1644.txt"
     },
     {
       "year": 1995,
@@ -3118,7 +3348,8 @@ const ARTIST_DATA = {
       "venue": "McNichol's Arena",
       "notes": "CSB \u00b7 unk",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "nin1995-10-16.csb.unknown.0.flac1644.txt"
     },
     {
       "year": 1995,
@@ -3131,7 +3362,8 @@ const ARTIST_DATA = {
       "venue": "McNichol's Arena",
       "notes": "DAT(2) \u00b7 CSB \u00b7 unk",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "nin1995-10-16.csb.unknown.2.flac1644.txt"
     },
     {
       "year": 1995,
@@ -3144,7 +3376,8 @@ const ARTIST_DATA = {
       "venue": "Desert Sky Pavilion",
       "notes": "w/ David Bowie \u00b7 ECM-909 \u00b7 kent",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "nin1995-10-18.ecm909.kent.0.flac1644.txt"
     },
     {
       "year": 1995,
@@ -3157,7 +3390,8 @@ const ARTIST_DATA = {
       "venue": "Desert Sky Pavilion",
       "notes": "w/ David Bowie \u00b7 unk",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "nin1995-10-18.pro.davidwilliams.0.mp4424p.txt"
     },
     {
       "year": 1995,
@@ -3170,7 +3404,8 @@ const ARTIST_DATA = {
       "venue": "Desert Sky Pavilion",
       "notes": "w/ David Bowie \u00b7 david williams",
       "version": "PRO",
-      "format": "MP4"
+      "format": "MP4",
+      "textFile": "nin1995-10-18.unknown.unknown.unknown.flac1644.txt"
     },
     {
       "year": 1995,
@@ -3183,7 +3418,8 @@ const ARTIST_DATA = {
       "venue": "Thomas & Mack Arena",
       "notes": "ECM737 \u00b7 ijwthstd",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "nin1995-10-19.ecm737.ijwthstd.0.flac1644.txt"
     },
     {
       "year": 1995,
@@ -3196,7 +3432,8 @@ const ARTIST_DATA = {
       "venue": "Thomas & Mack Arena",
       "notes": "Sanyo \u00b7 luke freteluco",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "nin1995-10-19.sanyo.lf.0.flac1644.txt"
     },
     {
       "year": 1995,
@@ -3209,7 +3446,8 @@ const ARTIST_DATA = {
       "venue": "Shoreline Amphitheatre",
       "notes": "ECM727 \u00b7 don",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "nin1995-10-21.ecm727.don.0.flac1644.txt"
     },
     {
       "year": 1995,
@@ -3222,7 +3460,8 @@ const ARTIST_DATA = {
       "venue": "Shoreline Amphitheatre",
       "notes": "DAT(M) \u00b7 MK4 \u00b7 teddy ballgame",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "nin1995-10-21.mk4.teddyballgame.0.flac1648.txt"
     },
     {
       "year": 1995,
@@ -3235,7 +3474,8 @@ const ARTIST_DATA = {
       "venue": "Shoreline Amphitheatre",
       "notes": "unk",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "nin1995-10-21.unknown.unknown.unknown.flac1644.txt"
     },
     {
       "year": 1995,
@@ -3262,7 +3502,8 @@ const ARTIST_DATA = {
       "venue": "Shoreline Amphitheatre",
       "notes": "unk",
       "version": "AUD",
-      "format": "DVD"
+      "format": "DVD",
+      "textFile": "nin1995-10-21.unknown.unknown.unknown.ntsc.dvd.txt"
     },
     {
       "year": 1995,
@@ -3275,7 +3516,8 @@ const ARTIST_DATA = {
       "venue": "Tacoma Dome",
       "notes": "DAT(M) \u00b7 CM700 \u00b7 jems",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "nin1995-10-24.cm700.jems.0.flac1644.txt"
     },
     {
       "year": 1995,
@@ -3288,7 +3530,8 @@ const ARTIST_DATA = {
       "venue": "Tacoma Dome",
       "notes": "unk",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "nin1995-10-24.unknown.unknown.2.flac1644.txt"
     },
     {
       "year": 1995,
@@ -3301,7 +3544,8 @@ const ARTIST_DATA = {
       "venue": "Rose Garden Arena",
       "notes": "DAT(M) \u00b7 SS DSM6 \u00b7 unk",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "nin1995-10-25.dsm6.unknown.0.flac1632.txt"
     },
     {
       "year": 1995,
@@ -3314,7 +3558,8 @@ const ARTIST_DATA = {
       "venue": "Rose Garden Arena",
       "notes": "ECM737 \u00b7 unk",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "nin1995-10-25.ecm737.unknown.1.flac1644.txt"
     },
     {
       "year": 1995,
@@ -3327,7 +3572,8 @@ const ARTIST_DATA = {
       "venue": "Great Western Forum",
       "notes": "ECM737 \u00b7 ijwthstd",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "nin1995-10-28.ecm737.ijwthstd.0.flac1644.txt"
     },
     {
       "year": 1995,
@@ -3340,7 +3586,8 @@ const ARTIST_DATA = {
       "venue": "Great Western Forum",
       "notes": "ECM939 \u00b7 keithm",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "nin1995-10-28.ecm939.keithm.0.flac1644.txt"
     },
     {
       "year": 1995,
@@ -3353,7 +3600,8 @@ const ARTIST_DATA = {
       "venue": "Great Western Forum",
       "notes": "unk",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "nin1995-10-29.unknown.unknown.unknown.flac1644.txt"
     },
     {
       "year": 1996,
@@ -3366,7 +3614,8 @@ const ARTIST_DATA = {
       "venue": "Irving Plaza",
       "notes": "Ppromo",
       "version": "SBD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "nin1996-09-05.sbd.promo.1.flac1648.txt"
     },
     {
       "year": 1996,
@@ -3379,7 +3628,8 @@ const ARTIST_DATA = {
       "venue": "Irving Plaza",
       "notes": "unk",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "nin1996-09-05.unknown.unknown.unknown.flac1644.txt"
     },
     {
       "year": 1996,
@@ -3405,7 +3655,8 @@ const ARTIST_DATA = {
       "venue": "Radio City Music Hall",
       "notes": "MTV \u00b7 fullmetal",
       "version": "PRO",
-      "format": "QT"
+      "format": "QT",
+      "textFile": "nin1999-09-09.inhouse.fullmetal.0.ntsc.dv480p.txt"
     },
     {
       "year": 1999,
@@ -3418,7 +3669,8 @@ const ARTIST_DATA = {
       "venue": "Radio City Music Hall",
       "notes": "MTV \u00b7 bobcat",
       "version": "PRO",
-      "format": "DVD"
+      "format": "DVD",
+      "textFile": "nin1999-09-09.pro.mtv.0.ntsc.dvd.txt"
     },
     {
       "year": 1999,
@@ -3431,7 +3683,8 @@ const ARTIST_DATA = {
       "venue": "Radio City Music Hall",
       "notes": "MTV",
       "version": "SBD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "nin1999-09-09.sbd.mtv.0.flac1644.txt"
     },
     {
       "year": 1999,
@@ -3444,7 +3697,8 @@ const ARTIST_DATA = {
       "venue": "Vall d'Hebron",
       "notes": "unk",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "nin1999-11-14.unknown.unknown.unknown.flac1644.txt"
     },
     {
       "year": 1999,
@@ -3457,7 +3711,8 @@ const ARTIST_DATA = {
       "venue": "Alcatraz",
       "notes": "unk",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "nin1999-11-17.unknown.unknown.2.flac1644.txt"
     },
     {
       "year": 1999,
@@ -3470,7 +3725,8 @@ const ARTIST_DATA = {
       "venue": "Colosseum",
       "notes": "unk",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "nin1999-11-19.unknown.unknown.3.flac1644.txt"
     },
     {
       "year": 1999,
@@ -3483,7 +3739,8 @@ const ARTIST_DATA = {
       "venue": "Libro Music Hall",
       "notes": "Sharp MD \u00b7 unk",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "nin1999-11-20.unknown.unknown.unknown.flac1644.txt"
     },
     {
       "year": 1999,
@@ -3496,7 +3753,8 @@ const ARTIST_DATA = {
       "venue": "Libro Music Hall",
       "notes": "unk",
       "version": "AUD",
-      "format": "DVD"
+      "format": "DVD",
+      "textFile": "nin1999-11-20.unknown.unknown.unknown.pal.dvd.txt"
     },
     {
       "year": 1999,
@@ -3509,7 +3767,8 @@ const ARTIST_DATA = {
       "venue": "Columbiahalle *Fragile In Berlin",
       "notes": "NIN-221199-FIB-1/2",
       "version": "Silver CD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "nin1999-11-22.silver.fragileinberlin.0.flac1644.txt"
     },
     {
       "year": 1999,
@@ -3522,7 +3781,8 @@ const ARTIST_DATA = {
       "venue": "KB Hallen",
       "notes": "unk",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "nin1999-11-23.unknown.unknown.unknown.flac1644.txt"
     },
     {
       "year": 1999,
@@ -3535,7 +3795,8 @@ const ARTIST_DATA = {
       "venue": "Le Zenith",
       "notes": "ECM-MS907 \u00b7 fullmetal",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "nin1999-11-25.ecmms907.fullmetal.0.flac1644.txt"
     },
     {
       "year": 1999,
@@ -3548,7 +3809,8 @@ const ARTIST_DATA = {
       "venue": "Le Zenith",
       "notes": "unk",
       "version": "AUD",
-      "format": "DVD"
+      "format": "DVD",
+      "textFile": "nin1999-11-25.unknown.unknown.2.flac1644.txt"
     },
     {
       "year": 1999,
@@ -3561,7 +3823,8 @@ const ARTIST_DATA = {
       "venue": "Le Zenith",
       "notes": "unk",
       "version": "AUD",
-      "format": "AVI"
+      "format": "AVI",
+      "textFile": "nin1999-11-25.unknown.unknown.unknown.avi480p.txt"
     },
     {
       "year": 1999,
@@ -3574,7 +3837,8 @@ const ARTIST_DATA = {
       "venue": "Stahlwerk",
       "notes": "MD(M) \u00b7 unk",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "nin1999-11-26.unknownexternal.devlin.1.flac1644.txt"
     },
     {
       "year": 1999,
@@ -3587,7 +3851,8 @@ const ARTIST_DATA = {
       "venue": "013",
       "notes": "D100 \u00b7 clogboy2005",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "nin1999-11-28.atm.clogboy2005.0.flac1644.txt"
     },
     {
       "year": 1999,
@@ -3600,7 +3865,8 @@ const ARTIST_DATA = {
       "venue": "013",
       "notes": "ECM-MS907 \u00b7 fullmetal",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "nin1999-11-28.ms907.fullmetal.0.flac1644.txt"
     },
     {
       "year": 1999,
@@ -3613,7 +3879,8 @@ const ARTIST_DATA = {
       "venue": "Brixton Academy",
       "notes": "ECM 717 \u00b7 polewka",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "nin1999-11-29.ecm717.polewka.0.flac1644.txt"
     },
     {
       "year": 1999,
@@ -3626,7 +3893,8 @@ const ARTIST_DATA = {
       "venue": "Brixton Academy",
       "notes": "unk \u00b7 gavin banns",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "nin1999-11-29.unknown.gavin.0.flac1644.txt"
     },
     {
       "year": 1999,
@@ -3639,7 +3907,8 @@ const ARTIST_DATA = {
       "venue": "Brixton Academy",
       "notes": "unk \u00b7 simon",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "nin1999-11-29.unknown.simon.unknown.flac1644.txt"
     },
     {
       "year": 1999,
@@ -3652,7 +3921,8 @@ const ARTIST_DATA = {
       "venue": "Brixton Academy",
       "notes": "unk",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "nin1999-11-29.unknown.unknown.unknown.flac1648.txt"
     },
     {
       "year": 1999,
@@ -3665,7 +3935,8 @@ const ARTIST_DATA = {
       "venue": "Brixton Academy",
       "notes": "ECM717 \u00b7 polewka",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "nin1999-12-01.ecm717.polewka.0.flac1644.txt"
     },
     {
       "year": 1999,
@@ -3678,7 +3949,8 @@ const ARTIST_DATA = {
       "venue": "Brixton Academy",
       "notes": "",
       "version": "FM",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "nin1999-12-01.fm.unknown.unknown.flac1644.txt"
     },
     {
       "year": 1999,
@@ -3691,7 +3963,8 @@ const ARTIST_DATA = {
       "venue": "Brixton Academy",
       "notes": "MTV",
       "version": "SBD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "nin1999-12-01.sbd.mtv.0.flac1644.txt"
     },
     {
       "year": 1999,
@@ -3704,7 +3977,8 @@ const ARTIST_DATA = {
       "venue": "Brixton Academy",
       "notes": "unk",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "nin1999-12-01.unknown.unknown.1.flac1644.txt"
     },
     {
       "year": 1999,
@@ -3717,7 +3991,8 @@ const ARTIST_DATA = {
       "venue": "Brixton Academy",
       "notes": "unk",
       "version": "AUD (48k)",
-      "format": "DVD"
+      "format": "DVD",
+      "textFile": "nin1999-12-01.unknown.unknown.unknown.flac1648.txt"
     },
     {
       "year": 1999,
@@ -3730,7 +4005,8 @@ const ARTIST_DATA = {
       "venue": "Brixton Academy",
       "notes": "unk",
       "version": "AUD",
-      "format": "DVD"
+      "format": "DVD",
+      "textFile": "nin1999-12-01.unknown.unknown.unknown.pal.dvd.txt"
     },
     {
       "year": 2000,
@@ -3743,7 +4019,8 @@ const ARTIST_DATA = {
       "venue": "Bay NK Hall",
       "notes": "SS DSM6s \u00b7 ryanj",
       "version": "AUD (48k)",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "nin2000-01-10.dsm6.unknown.0.flac1648.txt"
     },
     {
       "year": 2000,
@@ -3756,7 +4033,8 @@ const ARTIST_DATA = {
       "venue": "Bay NK Hall",
       "notes": "SS DSM6 \u00b7 unk",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "nin2000-01-11.dsm6.unknown.2.flac1644.txt"
     },
     {
       "year": 2000,
@@ -3769,7 +4047,8 @@ const ARTIST_DATA = {
       "venue": "Bay NK Hall",
       "notes": "SS DSM6 \u00b7 unk",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "nin2000-01-12.dsm6.unknown.1.flac1644.txt"
     },
     {
       "year": 2000,
@@ -3782,7 +4061,8 @@ const ARTIST_DATA = {
       "venue": "Pacifico Hall",
       "notes": "unk",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "nin2000-01-14.videorip.unknown.unknown.flac1644.txt"
     },
     {
       "year": 2000,
@@ -3808,7 +4088,8 @@ const ARTIST_DATA = {
       "venue": "Castle Hall *Fragility",
       "notes": "",
       "version": "Silver CD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "nin2000-01-15.dsm6.sk.0.flac1644.txt"
     },
     {
       "year": 2000,
@@ -3821,7 +4102,8 @@ const ARTIST_DATA = {
       "venue": "Castle Hall",
       "notes": "DAT(M) \u00b7 SS DSM6s \u00b7 sk",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "nin2000-01-15.silver.fragility.0.flac1644.txt"
     },
     {
       "year": 2000,
@@ -3834,7 +4116,8 @@ const ARTIST_DATA = {
       "venue": "Ericsson Stadium",
       "notes": "Big \u00b7 Sony T \u00b7 karl rice",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "nin2000-01-21.sonyt.karlrice.unknown.flac1644.txt"
     },
     {
       "year": 2000,
@@ -3847,7 +4130,8 @@ const ARTIST_DATA = {
       "venue": "Ericsson Stadium",
       "notes": "Big \u00b7 unk",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "nin2000-01-21.unknown.unknown.unknown.flac1644.txt"
     },
     {
       "year": 2000,
@@ -3860,7 +4144,8 @@ const ARTIST_DATA = {
       "venue": "Parklands",
       "notes": "Big \u00b7 3 \u00b7 PRO",
       "version": "TV",
-      "format": "DVD"
+      "format": "DVD",
+      "textFile": "nin2000-01-23.pro.channelv.3.ntsc.dvd.txt"
     },
     {
       "year": 2000,
@@ -3873,7 +4158,8 @@ const ARTIST_DATA = {
       "venue": "RAS Showgrounds",
       "notes": "Big",
       "version": "SBD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "nin2000-01-26.sbd.channelv.0.flac1644.txt"
     },
     {
       "year": 2000,
@@ -3886,7 +4172,8 @@ const ARTIST_DATA = {
       "venue": "RAS Showgrounds",
       "notes": "Big \u00b7 unk",
       "version": "Webcast",
-      "format": "MP3"
+      "format": "MP3",
+      "textFile": "nin2000-01-30.webcast.unknown.unknown.mp3192.txt"
     },
     {
       "year": 2000,
@@ -3899,7 +4186,8 @@ const ARTIST_DATA = {
       "venue": "RAS and HS Showgrounds",
       "notes": "Big \u00b7 unk",
       "version": "AUD",
-      "format": "MP3"
+      "format": "MP3",
+      "textFile": "nin2000-02-04.unknown.unknown.unknown.mp3128.txt"
     },
     {
       "year": 2000,
@@ -3912,7 +4200,8 @@ const ARTIST_DATA = {
       "venue": "Olympic Auditorium",
       "notes": "PC62 \u00b7 gd",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "nin2000-04-03.pc62.gd.0.flac1644.txt"
     },
     {
       "year": 2000,
@@ -3925,7 +4214,8 @@ const ARTIST_DATA = {
       "venue": "CSU Convocation Center",
       "notes": "ECM717 \u00b7 fullmetal",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "nin2000-04-12.ecm717.fullmetal.0.flac1644.txt"
     },
     {
       "year": 2000,
@@ -3951,7 +4241,8 @@ const ARTIST_DATA = {
       "venue": "The Palace of Auburn Hills",
       "notes": "unk",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "nin2000-04-14.internal.unknown.0.flac1644.txt"
     },
     {
       "year": 2000,
@@ -3964,7 +4255,8 @@ const ARTIST_DATA = {
       "venue": "The Palace of Auburn Hills",
       "notes": "unk",
       "version": "AUD",
-      "format": "MP3"
+      "format": "MP3",
+      "textFile": "nin2000-04-14.unknown.unknown.lossy.flac1644.txt"
     },
     {
       "year": 2000,
@@ -3977,7 +4269,8 @@ const ARTIST_DATA = {
       "venue": "Value City Arena @ Schottenstein Center",
       "notes": "CSC \u00b7 rudy",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "nin2000-04-15.csc.rudy.0.flac1644.txt"
     },
     {
       "year": 2000,
@@ -3990,7 +4283,8 @@ const ARTIST_DATA = {
       "venue": "Target Center",
       "notes": "SS DSM/6L \u00b7 ck",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "nin2000-04-17.ss.ck.1.flac1644.txt"
     },
     {
       "year": 2000,
@@ -4003,7 +4297,8 @@ const ARTIST_DATA = {
       "venue": "U.S. Cellular Arena",
       "notes": "CSC \u00b7 joe s.",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "nin2000-04-18.csc.joes.0.flac1644.txt"
     },
     {
       "year": 2000,
@@ -4016,7 +4311,8 @@ const ARTIST_DATA = {
       "venue": "UIC Pavilion",
       "notes": "Sony D8 \u00b7 jb",
       "version": "AUD (48k)",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "nin2000-04-21.custom.jb.0.flac1648.txt"
     },
     {
       "year": 2000,
@@ -4029,7 +4325,8 @@ const ARTIST_DATA = {
       "venue": "UIC Pavilion",
       "notes": "unk",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "nin2000-04-21.oade.unknown.1.flac1644.txt"
     },
     {
       "year": 2000,
@@ -4042,7 +4339,8 @@ const ARTIST_DATA = {
       "venue": "UIC Pavilion",
       "notes": "DAT(M) \u00b7 Oade \u00b7 unk",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "nin2000-04-21.unknown.unknown.unknown.flac1644.txt"
     },
     {
       "year": 2000,
@@ -4055,7 +4353,8 @@ const ARTIST_DATA = {
       "venue": "UIC Pavilion",
       "notes": "unk",
       "version": "AUD",
-      "format": "DVD"
+      "format": "DVD",
+      "textFile": "nin2000-04-21.unknown.unknown.unknown.ntsc.dvd.txt"
     },
     {
       "year": 2000,
@@ -4068,7 +4367,8 @@ const ARTIST_DATA = {
       "venue": "Dane County Expo Center",
       "notes": "CSC \u00b7 joe s.",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "nin2000-04-22.csc.joes.0.flac1644.txt"
     },
     {
       "year": 2000,
@@ -4081,7 +4381,8 @@ const ARTIST_DATA = {
       "venue": "Dane County Expo Center",
       "notes": "unk",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "nin2000-04-22.unknown.unknown.unknown.flac1644.txt"
     },
     {
       "year": 2000,
@@ -4094,7 +4395,8 @@ const ARTIST_DATA = {
       "venue": "Van Andel Arena",
       "notes": "unk",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "nin2000-04-25.unknown.unknown.unknown.flac1644.txt"
     },
     {
       "year": 2000,
@@ -4107,7 +4409,8 @@ const ARTIST_DATA = {
       "venue": "UIC Pavilion",
       "notes": "Sony D8 \u00b7 jb",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "nin2000-04-26.custom.jb.0.flac1644.txt"
     },
     {
       "year": 2000,
@@ -4120,7 +4423,8 @@ const ARTIST_DATA = {
       "venue": "Maple Leaf Gardens",
       "notes": "unk",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "nin2000-04-28.unknown.unknown.unknown.flac1644.txt"
     },
     {
       "year": 2000,
@@ -4133,7 +4437,8 @@ const ARTIST_DATA = {
       "venue": "HSBC Arena",
       "notes": "unk",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "nin2000-04-29.unknown.unknown.0.flac1644.txt"
     },
     {
       "year": 2000,
@@ -4146,7 +4451,8 @@ const ARTIST_DATA = {
       "venue": "Molson Centre",
       "notes": "unk",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "nin2000-04-30.unknown.unknown.1.ntsc.dvd.txt"
     },
     {
       "year": 2000,
@@ -4159,7 +4465,8 @@ const ARTIST_DATA = {
       "venue": "Molson Centre",
       "notes": "unk",
       "version": "AUD",
-      "format": "DVD"
+      "format": "DVD",
+      "textFile": "nin2000-04-30.unknown.unknown.unknown.flac1644.txt"
     },
     {
       "year": 2000,
@@ -4172,7 +4479,8 @@ const ARTIST_DATA = {
       "venue": "The Centrum Center",
       "notes": "Sharp 702 MD \u00b7 eric efreitag",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "nin2000-05-02.pc62.efreitag.0.flac1644.txt"
     },
     {
       "year": 2000,
@@ -4185,7 +4493,8 @@ const ARTIST_DATA = {
       "venue": "Providence Civic Center",
       "notes": "unk",
       "version": "AUD",
-      "format": "DVD"
+      "format": "DVD",
+      "textFile": "nin2000-05-03.unknown.unknown.unknown.ntsc.dvd.txt"
     },
     {
       "year": 2000,
@@ -4198,7 +4507,8 @@ const ARTIST_DATA = {
       "venue": "Hartford Civic Center",
       "notes": "",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "nin2000-05-04.unknown.unknown.unknown.flac1644.txt"
     },
     {
       "year": 2000,
@@ -4211,7 +4521,8 @@ const ARTIST_DATA = {
       "venue": "First Union Spectrum",
       "notes": "AT853 \u00b7 unk",
       "version": "AUD (48k)",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "nin2000-05-06.at853.unknown.0.flac1648.txt"
     },
     {
       "year": 2000,
@@ -4224,7 +4535,8 @@ const ARTIST_DATA = {
       "venue": "First Union Spectrum",
       "notes": "MD(M) \u00b7 iswiwdead",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "nin2000-05-06.mk41.iswiwdead.1.flac1644.txt"
     },
     {
       "year": 2000,
@@ -4237,7 +4549,8 @@ const ARTIST_DATA = {
       "venue": "First Union Spectrum",
       "notes": "Sharp 702 MD \u00b7 eric efreitag",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "nin2000-05-06.pc62.efreitag.0.flac1644.txt"
     },
     {
       "year": 2000,
@@ -4250,7 +4563,8 @@ const ARTIST_DATA = {
       "venue": "First Union Spectrum",
       "notes": "multi \u00b7 unk",
       "version": "AUD",
-      "format": "DVD"
+      "format": "DVD",
+      "textFile": "nin2000-05-06.unknown.unknown.unknown.ntsc.dvd.txt"
     },
     {
       "year": 2000,
@@ -4276,7 +4590,8 @@ const ARTIST_DATA = {
       "venue": "Star Lake Amphitheater",
       "notes": "DAT(M) \u00b7 CCM4s \u00b7 mw",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "nin2000-05-07.ccm4.mw.1.flac1644.txt"
     },
     {
       "year": 2000,
@@ -4289,7 +4604,8 @@ const ARTIST_DATA = {
       "venue": "Star Lake Amphitheater",
       "notes": "unk",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "nin2000-05-07.unknown.unknown.unknown.flac1644.txt"
     },
     {
       "year": 2000,
@@ -4302,7 +4618,8 @@ const ARTIST_DATA = {
       "venue": "Madison Square Garden",
       "notes": "DAT(M) \u00b7 SS DSM6s/L \u00b7 tapeworm48",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "nin2000-05-09.dsm6.tapeworm48.0.flac1644.txt"
     },
     {
       "year": 2000,
@@ -4315,7 +4632,8 @@ const ARTIST_DATA = {
       "venue": "Madison Square Garden",
       "notes": "unk",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "nin2000-05-09.multi.unknown.unknown.ntsc.dvd.txt"
     },
     {
       "year": 2000,
@@ -4328,7 +4646,8 @@ const ARTIST_DATA = {
       "venue": "Madison Square Garden",
       "notes": "multi \u00b7 unk",
       "version": "AUD",
-      "format": "DVD"
+      "format": "DVD",
+      "textFile": "nin2000-05-09.unknown.unknown.unknown.flac1644.txt"
     },
     {
       "year": 2000,
@@ -4341,7 +4660,8 @@ const ARTIST_DATA = {
       "venue": "Merriweather Post Pavilion",
       "notes": "unk",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "nin2000-05-12.unknown.unknown.unknown.flac1644.txt"
     },
     {
       "year": 2000,
@@ -4354,7 +4674,8 @@ const ARTIST_DATA = {
       "venue": "Alltel Pavilion / Walnut Creek",
       "notes": "CSC \u00b7 doug",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "nin2000-05-13.csc.doug.0.flac1644.txt"
     },
     {
       "year": 2000,
@@ -4367,7 +4688,8 @@ const ARTIST_DATA = {
       "venue": "Miami Arena",
       "notes": "AKG 460b \u00b7 jon d.",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "nin2000-05-17.akg460b+ck61.jond.0.flac1644.txt"
     },
     {
       "year": 2000,
@@ -4393,7 +4715,8 @@ const ARTIST_DATA = {
       "venue": "Lakeland Center",
       "notes": "AKG 460b+Ck61 \u00b7 jon d.",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "nin2000-05-18.akg460b-ck61.jond.unknown.flac1644.txt"
     },
     {
       "year": 2000,
@@ -4406,7 +4729,8 @@ const ARTIST_DATA = {
       "venue": "Lakewood Amphitheatre *Complications",
       "notes": "",
       "version": "Silver CD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "nin2000-05-20.oade.wt.1.flac1644.txt"
     },
     {
       "year": 2000,
@@ -4419,7 +4743,8 @@ const ARTIST_DATA = {
       "venue": "Lakewood Amphitheatre",
       "notes": "DAT(M) \u00b7 Oade \u00b7 wt",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "nin2000-05-20.silver.complications.0.flac1644.txt"
     },
     {
       "year": 2000,
@@ -4432,7 +4757,8 @@ const ARTIST_DATA = {
       "venue": "Compaq Center",
       "notes": "unk",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "nin2000-05-22.unknown.unknown.unknown.flac1644.txt"
     },
     {
       "year": 2000,
@@ -4445,7 +4771,8 @@ const ARTIST_DATA = {
       "venue": "Starplex",
       "notes": "CSC \u00b7 seth",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "nin2000-05-23.csc.seth.1.flac1644.txt"
     },
     {
       "year": 2000,
@@ -4458,7 +4785,8 @@ const ARTIST_DATA = {
       "venue": "Starplex",
       "notes": "unk",
       "version": "AUD",
-      "format": "DVD"
+      "format": "DVD",
+      "textFile": "nin2000-05-23.unknown.unknown.unknown.ntsc.dvd.txt"
     },
     {
       "year": 2000,
@@ -4471,7 +4799,8 @@ const ARTIST_DATA = {
       "venue": "New Orleans Arena",
       "notes": "unk",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "nin2000-05-25.unknown.unkown.unknown.flac1644.txt"
     },
     {
       "year": 2000,
@@ -4484,7 +4813,8 @@ const ARTIST_DATA = {
       "venue": "Riverport Amphitheater",
       "notes": "CSC \u00b7 joe s.",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "nin2000-05-27.csc.joes.0.flac1644.txt"
     },
     {
       "year": 2000,
@@ -4497,7 +4827,8 @@ const ARTIST_DATA = {
       "venue": "Riverport Amphitheater",
       "notes": "unk",
       "version": "AUD",
-      "format": "DVD"
+      "format": "DVD",
+      "textFile": "nin2000-05-27.unknown.unknown.3.ntsc.dvd.txt"
     },
     {
       "year": 2000,
@@ -4510,7 +4841,8 @@ const ARTIST_DATA = {
       "venue": "Kemper Arena",
       "notes": "unk",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "nin2000-05-28.unknown.unknown.unknown.flac1644.txt"
     },
     {
       "year": 2000,
@@ -4523,7 +4855,8 @@ const ARTIST_DATA = {
       "venue": "Omaha Civic Center",
       "notes": "unk",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "nin2000-05-30.unknown.unknown.unknown.flac1644.txt"
     },
     {
       "year": 2000,
@@ -4536,7 +4869,8 @@ const ARTIST_DATA = {
       "venue": "Thomas & Mack Center",
       "notes": "DAT(M) \u00b7 DPA 4061 \u00b7 ed davis",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "nin2000-06-02.dpa4061.eddavis.0.flac1644.txt"
     },
     {
       "year": 2000,
@@ -4549,7 +4883,8 @@ const ARTIST_DATA = {
       "venue": "Thomas & Mack Center",
       "notes": "unk",
       "version": "AUD",
-      "format": "DVD"
+      "format": "DVD",
+      "textFile": "nin2000-06-02.unknown.unknown.unknown.ntsc.dvd.txt"
     },
     {
       "year": 2000,
@@ -4562,7 +4897,8 @@ const ARTIST_DATA = {
       "venue": "Cox Arena *Sinful Pleasures",
       "notes": "CSB \u00b7 notorioustimp",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "nin2000-06-03.csb.notorioustimp.0.flac1644.txt"
     },
     {
       "year": 2000,
@@ -4575,7 +4911,8 @@ const ARTIST_DATA = {
       "venue": "Cox Arena",
       "notes": "DAT(M) \u00b7 DPA 4061 \u00b7 ed davis",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "nin2000-06-03.dpa4061.eddavis.0.flac1644.txt"
     },
     {
       "year": 2000,
@@ -4588,7 +4925,8 @@ const ARTIST_DATA = {
       "venue": "America West Arena",
       "notes": "DAT(M) \u00b7 CSB + MD-MZR-50 \u00b7 spaceboy",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "nin2000-06-04.csb.spaceboy.0.flac1644.txt"
     },
     {
       "year": 2000,
@@ -4601,7 +4939,8 @@ const ARTIST_DATA = {
       "venue": "America West Arena",
       "notes": "unk",
       "version": "SBD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "nin2000-06-04.sbd.pro.unknown.flac1644.txt"
     },
     {
       "year": 2000,
@@ -4614,7 +4953,8 @@ const ARTIST_DATA = {
       "venue": "America West Arena",
       "notes": "unk",
       "version": "AUD",
-      "format": "MP3"
+      "format": "MP3",
+      "textFile": "nin2000-06-04.unknown.unknown.unknown.mp3192.txt"
     },
     {
       "year": 2000,
@@ -4627,7 +4967,8 @@ const ARTIST_DATA = {
       "venue": "America West Arena",
       "notes": "unk",
       "version": "AUD",
-      "format": "DVD"
+      "format": "DVD",
+      "textFile": "nin2000-06-04.unknown.unknown.unknown.ntsc.dvd.txt"
     },
     {
       "year": 2000,
@@ -4640,7 +4981,8 @@ const ARTIST_DATA = {
       "venue": "Arrowhead Pond",
       "notes": "DAT(M) \u00b7 DPA 4061s \u00b7 ed davis",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "nin2000-06-06.dpa4061.eddavis.0.flac1644.txt"
     },
     {
       "year": 2000,
@@ -4653,7 +4995,8 @@ const ARTIST_DATA = {
       "venue": "Arrowhead Pond",
       "notes": "unk",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "nin2000-06-06.unknown.unknown.1.flac1644.txt"
     },
     {
       "year": 2000,
@@ -4666,7 +5009,8 @@ const ARTIST_DATA = {
       "venue": "Cow Palace",
       "notes": "Schoeps MK4 \u00b7 alex coluzzi",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "nin2000-06-07.mk4.alexcoluzzi.0.flac1644.txt"
     },
     {
       "year": 2000,
@@ -4679,7 +5023,8 @@ const ARTIST_DATA = {
       "venue": "Cow Palace",
       "notes": "unk",
       "version": "AUD",
-      "format": "DVD"
+      "format": "DVD",
+      "textFile": "nin2000-06-07.unknown.unknown.unknown.ntsc.dvd.txt"
     },
     {
       "year": 2000,
@@ -4692,7 +5037,8 @@ const ARTIST_DATA = {
       "venue": "Gorge Amphitheatre",
       "notes": "MD(M) \u00b7 CSBs + Sharp MD-MT15 \u00b7 acc123456",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "nin2000-06-09.csb.acc123456.0.flac1644.txt"
     },
     {
       "year": 2000,
@@ -4705,7 +5051,8 @@ const ARTIST_DATA = {
       "venue": "Gorge Amphitheatre",
       "notes": "unk",
       "version": "AUD",
-      "format": "DVD"
+      "format": "DVD",
+      "textFile": "nin2000-06-09.unknown.unknown.unknown.ntsc.dvd.txt"
     },
     {
       "year": 2000,
@@ -4718,7 +5065,8 @@ const ARTIST_DATA = {
       "venue": "Rose Garden Arena",
       "notes": "MD(M) \u00b7 CSBs + Sharp MD-MT15 \u00b7 acc123456",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "nin2000-06-10.csb.acc123456.0.flac1644.txt"
     },
     {
       "year": 2000,
@@ -4731,7 +5079,8 @@ const ARTIST_DATA = {
       "venue": "Rose Garden Arena",
       "notes": "CSC \u00b7 unk",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "nin2000-06-10.csc.unknown.1.flac1644.txt"
     },
     {
       "year": 2000,
@@ -4744,7 +5093,8 @@ const ARTIST_DATA = {
       "venue": "Spokane Arena",
       "notes": "MD(M) \u00b7 CSBs + Sharp MD-MT15 \u00b7 acc123456",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "nin2000-06-12.csb.acc123456.0.flac1644.txt"
     },
     {
       "year": 2000,
@@ -4757,7 +5107,8 @@ const ARTIST_DATA = {
       "venue": "General Motors Place",
       "notes": "MD(M) \u00b7 CSBs + Sharp MD-MT15 \u00b7 acc123456",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "nin2000-06-13.csb.acc123456.0.flac1644.txt"
     },
     {
       "year": 2000,
@@ -4770,7 +5121,8 @@ const ARTIST_DATA = {
       "venue": "General Motors Place",
       "notes": "unk",
       "version": "AUD",
-      "format": "DVD"
+      "format": "DVD",
+      "textFile": "nin2000-06-13.unknown.unknown.unknown.ntsc.dvd.txt"
     },
     {
       "year": 2000,
@@ -4783,7 +5135,8 @@ const ARTIST_DATA = {
       "venue": "Sacramento Valley Amphitheater",
       "notes": "CSB \u00b7 electrik",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "nin2000-06-15.csb.elec.0.flac1644.txt"
     },
     {
       "year": 2000,
@@ -4796,7 +5149,8 @@ const ARTIST_DATA = {
       "venue": "E Center",
       "notes": "Sony ECM-717 \u00b7 fullmetal",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "nin2000-06-17.ecm717.fullmetal.0.flac1648.txt"
     },
     {
       "year": 2000,
@@ -4809,7 +5163,8 @@ const ARTIST_DATA = {
       "venue": "Pepsi Center",
       "notes": "unk",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "nin2000-06-18.unknown.unknown.unknown.flac1644.txt"
     },
     {
       "year": 2000,
@@ -4822,7 +5177,8 @@ const ARTIST_DATA = {
       "venue": "Glastonbury Festival",
       "notes": "Digital Freeview \u00b7 jadg2",
       "version": "FM",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "nin2000-06-23.dfm.jadg2.0.flac1648.txt"
     },
     {
       "year": 2000,
@@ -4835,7 +5191,8 @@ const ARTIST_DATA = {
       "venue": "Hurricane Open Air Festival",
       "notes": "OKM I \u00b7 rackhir",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "nin2000-06-24.okmi.rackhir.0.flac1644.txt"
     },
     {
       "year": 2000,
@@ -4848,7 +5205,8 @@ const ARTIST_DATA = {
       "venue": "Hurricane Open Air Festival",
       "notes": "unk",
       "version": "AUD",
-      "format": "MP3"
+      "format": "MP3",
+      "textFile": "nin2000-06-24.unknown.unknown.unknown.mp3160.txt"
     },
     {
       "year": 2000,
@@ -4861,7 +5219,8 @@ const ARTIST_DATA = {
       "venue": "Denmark Festival",
       "notes": "MD(M) \u00b7 oresund44",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "nin2000-06-29.unknown.oresund44.1.flac1644.txt"
     },
     {
       "year": 2000,
@@ -4874,7 +5233,8 @@ const ARTIST_DATA = {
       "venue": "Werchter Festival",
       "notes": "unk",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "nin2000-06-30.ccd-trv23e.piggystardust.0.mp4480.txt"
     },
     {
       "year": 2000,
@@ -4887,7 +5247,8 @@ const ARTIST_DATA = {
       "venue": "Werchter Festival",
       "notes": "PRO \u00b7 sterf en bederf transfer",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "nin2000-06-30.pro.brt.1.mp4480.txt"
     },
     {
       "year": 2000,
@@ -4900,7 +5261,8 @@ const ARTIST_DATA = {
       "venue": "Werchter Festival",
       "notes": "Sony Handycam CCD-TRV23E \u00b7 piggystardust",
       "version": "AUD",
-      "format": "MP4"
+      "format": "MP4",
+      "textFile": "nin2000-06-30.unknown.unknown.unknown.flac1644.txt"
     },
     {
       "year": 2000,
@@ -4913,7 +5275,8 @@ const ARTIST_DATA = {
       "venue": "Eurockennes Festival",
       "notes": "unk",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "nin2000-07-07.pro.mcm.unknown.mov480p.txt"
     },
     {
       "year": 2000,
@@ -4926,7 +5289,8 @@ const ARTIST_DATA = {
       "venue": "Eurockennes Festival",
       "notes": "unk \u00b7 y.e.",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "nin2000-07-07.unknown.unknown.unknown.flac1644.txt"
     },
     {
       "year": 2000,
@@ -4939,7 +5303,8 @@ const ARTIST_DATA = {
       "venue": "Eurockennes Festival",
       "notes": "MCM TV Broadcast \u00b7 inc",
       "version": "AUD",
-      "format": "MOV"
+      "format": "MOV",
+      "textFile": "nin2000-07-07.unknown.ye.1.flac1644.txt"
     },
     {
       "year": 2000,
@@ -4952,7 +5317,8 @@ const ARTIST_DATA = {
       "venue": "Forestglade Festival *Fragiliglade",
       "notes": "TSE-CD-2002-1",
       "version": "Silver CD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "nin2000-07-08.dfm.fm.0.flac1644.txt"
     },
     {
       "year": 2000,
@@ -4965,7 +5331,8 @@ const ARTIST_DATA = {
       "venue": "Forestglade Festival",
       "notes": "DAT(M)",
       "version": "FM",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "nin2000-07-08.prefm.unknown.unknown.flac1644.txt"
     },
     {
       "year": 2000,
@@ -4978,7 +5345,8 @@ const ARTIST_DATA = {
       "venue": "Forestglade Festival",
       "notes": "",
       "version": "preFM",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "nin2000-07-08.silver.fragiliglade.0.flac1644.txt"
     },
     {
       "year": 2000,
@@ -4991,7 +5359,8 @@ const ARTIST_DATA = {
       "venue": "Forestglade Festival *The Great Dictator",
       "notes": "T.Rex Records-2000",
       "version": "Silver CD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "nin2000-07-08.silver.thegreatdictator.0.flac1644.txt"
     },
     {
       "year": 2000,
@@ -5004,7 +5373,8 @@ const ARTIST_DATA = {
       "venue": "Monza Festival",
       "notes": "unk",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "nin2000-07-09.unknown.unknown.unknown.flac1644.txt"
     },
     {
       "year": 2005,
@@ -5030,7 +5400,8 @@ const ARTIST_DATA = {
       "venue": "William Saroyan Theatre",
       "notes": "MD(M) \u00b7 CSBs + BB \u00b7 notorioustimp",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "nin2005-03-23.csb.notorioustimp.0.flac1644.txt"
     },
     {
       "year": 2005,
@@ -5043,7 +5414,8 @@ const ARTIST_DATA = {
       "venue": "William Saroyan Theatre",
       "notes": "MK41 \u00b7 alex",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "nin2005-03-23.dcrhc1000.filthprveyor.0.ntsc.dvd.txt"
     },
     {
       "year": 2005,
@@ -5056,7 +5428,8 @@ const ARTIST_DATA = {
       "venue": "William Saroyan Theatre",
       "notes": "slickmode",
       "version": "IEM",
-      "format": "MP3"
+      "format": "MP3",
+      "textFile": "nin2005-03-23.iem.slickmode.unknown.mp3192.txt"
     },
     {
       "year": 2005,
@@ -5069,7 +5442,8 @@ const ARTIST_DATA = {
       "venue": "William Saroyan Theatre",
       "notes": "MiniDV(M) \u00b7 Sony DCR-HC1000 \u00b7 filthprveyor",
       "version": "AUD",
-      "format": "DVD"
+      "format": "DVD",
+      "textFile": "nin2005-03-23.mk41.alex.0.flac1644.txt"
     },
     {
       "year": 2005,
@@ -5082,7 +5456,8 @@ const ARTIST_DATA = {
       "venue": "Reno Hilton Showroom",
       "notes": "MD(M) \u00b7 CSBs + BB \u00b7 notorioustimp",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "nin2005-03-24.csb.notorioustimp.0.flac1644.txt"
     },
     {
       "year": 2005,
@@ -5095,7 +5470,8 @@ const ARTIST_DATA = {
       "venue": "Freeborn Hall at UC Davis",
       "notes": "DPA 4060s \u00b7 unk",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "nin2005-03-25.dpa4060.unknown.0.flac1644.txt"
     },
     {
       "year": 2005,
@@ -5108,7 +5484,8 @@ const ARTIST_DATA = {
       "venue": "Astoria",
       "notes": "ECM-717 \u00b7 rob",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "nin2005-03-30.ecm717.rob.0.flac1644.txt"
     },
     {
       "year": 2005,
@@ -5121,7 +5498,8 @@ const ARTIST_DATA = {
       "venue": "Astoria",
       "notes": "ECM-717 \u00b7 rob",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "nin2005-03-31.ecm717.rob.0.flac1644.txt"
     },
     {
       "year": 2005,
@@ -5134,7 +5512,8 @@ const ARTIST_DATA = {
       "venue": "Astoria",
       "notes": "EM-8 \u00b7 unk",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "nin2005-03-31.em-8.unknown.0.flac1644.txt"
     },
     {
       "year": 2005,
@@ -5147,7 +5526,8 @@ const ARTIST_DATA = {
       "venue": "Astoria",
       "notes": "unk",
       "version": "AUD",
-      "format": "DVD"
+      "format": "DVD",
+      "textFile": "nin2005-03-31.unknown.unknown.unknown.pal.dvd.txt"
     },
     {
       "year": 2005,
@@ -5160,7 +5540,8 @@ const ARTIST_DATA = {
       "venue": "",
       "notes": "",
       "version": "FM",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "nin2005-04-20.fm.unknown.1.flac1644.txt"
     },
     {
       "year": 2005,
@@ -5173,7 +5554,8 @@ const ARTIST_DATA = {
       "venue": "The Warfield",
       "notes": "DAT(M) \u00b7 CCM4 \u00b7 anonymous",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "nin2005-04-27.ccm4.anonymous.0.flac1644.txt"
     },
     {
       "year": 2005,
@@ -5186,7 +5568,8 @@ const ARTIST_DATA = {
       "venue": "The Warfield",
       "notes": "MD(M) \u00b7 CSBs + BB \u00b7 notorioustimp",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "nin2005-04-27.csb.notorioustimp.0.flac1644.txt"
     },
     {
       "year": 2005,
@@ -5199,7 +5582,8 @@ const ARTIST_DATA = {
       "venue": "The Warfield",
       "notes": "ECM-DS70P \u00b7 soulflyer",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "nin2005-04-27.ecmds70p.soulflyer.0.flac1644.txt"
     },
     {
       "year": 2005,
@@ -5212,7 +5596,8 @@ const ARTIST_DATA = {
       "venue": "The Warfield",
       "notes": "DAT(M) \u00b7 CCM4s \u00b7 anonymous",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "nin2005-04-28.ccm4.anonymous.0.flac1644.txt"
     },
     {
       "year": 2005,
@@ -5225,7 +5610,8 @@ const ARTIST_DATA = {
       "venue": "The Warfield",
       "notes": "MD(M) \u00b7 CSBs + BB \u00b7 notorioustimp",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "nin2005-04-28.csb.notorioustimp.0.flac1644.txt"
     },
     {
       "year": 2005,
@@ -5238,7 +5624,8 @@ const ARTIST_DATA = {
       "venue": "The Joint",
       "notes": "unk",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "nin2005-04-30.dcr-pc1000.jam007.0.ntsc.dvd.txt"
     },
     {
       "year": 2005,
@@ -5251,7 +5638,8 @@ const ARTIST_DATA = {
       "venue": "The Joint",
       "notes": "unk",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "nin2005-04-30.unknown.unknown.unknown.flac1644.txt"
     },
     {
       "year": 2005,
@@ -5277,7 +5665,8 @@ const ARTIST_DATA = {
       "venue": "Empire Polo Fields",
       "notes": "Coachella \u00b7 M \u00b7 CCMs \u00b7 anonymous",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "nin2005-05-01.ccm4.anonymous.0.flac1644.txt"
     },
     {
       "year": 2005,
@@ -5290,7 +5679,8 @@ const ARTIST_DATA = {
       "venue": "Empire Polo Fields",
       "notes": "Coachella \u00b7 M \u00b7 CSBs \u00b7 boldcaptain",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "nin2005-05-01.csb.boldcaptain.0.flac1644.txt"
     },
     {
       "year": 2005,
@@ -5303,7 +5693,8 @@ const ARTIST_DATA = {
       "venue": "Empire Polo Fields",
       "notes": "Coachella \u00b7 M \u00b7 CSBs \u00b7 boldcaptain",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "nin2005-05-01.dpa4060.boldcaptain.0.flac1644.txt"
     },
     {
       "year": 2005,
@@ -5316,7 +5707,8 @@ const ARTIST_DATA = {
       "venue": "Fillmore Auditorium",
       "notes": "DAT(M) \u00b7 Schoeps MK41s \u00b7 bt",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "nin2005-05-03.mk41.bt.0.flac1644.txt"
     },
     {
       "year": 2005,
@@ -5329,7 +5721,8 @@ const ARTIST_DATA = {
       "venue": "Fillmore Auditorium",
       "notes": "AT Pro 24 \u00b7 unk",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "nin2005-05-04.atpro24.unknown.0.flac1644.txt"
     },
     {
       "year": 2005,
@@ -5342,7 +5735,8 @@ const ARTIST_DATA = {
       "venue": "Fillmore Auditorium",
       "notes": "SP-CMC-2 \u00b7 greenfairy",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "nin2005-05-04.cmc2.greenfairy.0.flac1644.txt"
     },
     {
       "year": 2005,
@@ -5355,7 +5749,8 @@ const ARTIST_DATA = {
       "venue": "Fillmore Auditorium",
       "notes": "DAT(M) \u00b7 Schoeps MK41s \u00b7 bt",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "nin2005-05-04.mk41.bt.0.flac1644.txt"
     },
     {
       "year": 2005,
@@ -5368,7 +5763,8 @@ const ARTIST_DATA = {
       "venue": "Fillmore Auditorium",
       "notes": "Canon ZR40 \u00b7 loudpuppy",
       "version": "AUD",
-      "format": "DVD"
+      "format": "DVD",
+      "textFile": "nin2005-05-04.zr40.loudpuppy.0.ntsc.dvd.txt"
     },
     {
       "year": 2005,
@@ -5381,7 +5777,8 @@ const ARTIST_DATA = {
       "venue": "Congress Theatre",
       "notes": "DAT(M) \u00b7 DPA 4061s \u00b7 tapeworm48",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "nin2005-05-06.dpa4061.tapeworm48.0.flac1644.txt"
     },
     {
       "year": 2005,
@@ -5394,7 +5791,8 @@ const ARTIST_DATA = {
       "venue": "Congress Theatre",
       "notes": "DAT(M) \u00b7 DPA 4061s \u00b7 tapeworm48",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "nin2005-05-07.dpa4061.tapeworm48.0.flac1644.txt"
     },
     {
       "year": 2005,
@@ -5407,7 +5805,8 @@ const ARTIST_DATA = {
       "venue": "Koolhaus",
       "notes": "DAT(M) \u00b7 SS DSM 6S/L \u00b7 mike p.",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "nin2005-05-09.dsm6sl.mikep.0.flac1644.txt"
     },
     {
       "year": 2005,
@@ -5420,7 +5819,8 @@ const ARTIST_DATA = {
       "venue": "Koolhaus",
       "notes": "AM 1 \u00b7 bobcat",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "nin2005-05-10.am1.bobcat.0.flac1644.txt"
     },
     {
       "year": 2005,
@@ -5433,7 +5833,8 @@ const ARTIST_DATA = {
       "venue": "Koolhaus",
       "notes": "SP-SPSB-2 \u00b7 steve stroud",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "nin2005-05-10.at831.steve.0.flac1644.txt"
     },
     {
       "year": 2005,
@@ -5446,7 +5847,8 @@ const ARTIST_DATA = {
       "venue": "Koolhaus",
       "notes": "Sony MZ-NH700 \u00b7 mr. sinister",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "nin2005-05-10.csc.mrsinister.0.flac1644.txt"
     },
     {
       "year": 2006,
@@ -5524,7 +5926,8 @@ const ARTIST_DATA = {
       "venue": "Hammestein Ballroom",
       "notes": "MD(M) \u00b7 ECM-719 \u00b7 irnbruise",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "nin2005-05-16.ecm719.irnbruise.0.flac1644.txt"
     },
     {
       "year": 2005,
@@ -5537,7 +5940,8 @@ const ARTIST_DATA = {
       "venue": "Hammestein Ballroom",
       "notes": "DAT(M) \u00b7 MK4s \u00b7 crimson",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "nin2005-05-16.mk4.crimson.0.flac1644.txt"
     },
     {
       "year": 2005,
@@ -5550,7 +5954,8 @@ const ARTIST_DATA = {
       "venue": "Hammestein Ballroom",
       "notes": "unk",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "nin2005-05-16.unknown.unknown.unknown.flac1644.txt"
     },
     {
       "year": 2005,
@@ -5563,7 +5968,8 @@ const ARTIST_DATA = {
       "venue": "Hammestein Ballroom",
       "notes": "unk",
       "version": "AUD",
-      "format": "DVD"
+      "format": "DVD",
+      "textFile": "nin2005-05-16.unknown.unknown.unknown.ntsc.dvd.txt"
     },
     {
       "year": 2005,
@@ -5576,7 +5982,8 @@ const ARTIST_DATA = {
       "venue": "Electric Factory",
       "notes": "MK4s \u00b7 crimson",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "nin2005-05-18.mk4.crimson.0.flac1644.txt"
     },
     {
       "year": 2005,
@@ -5589,7 +5996,8 @@ const ARTIST_DATA = {
       "venue": "Electric Factory",
       "notes": "Realistic \u00b7 jb",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "nin2005-05-18.realistic.jb.unknown.flac1644.txt"
     },
     {
       "year": 2005,
@@ -5602,7 +6010,8 @@ const ARTIST_DATA = {
       "venue": "Electric Factory",
       "notes": "Canon ZR-50 \u00b7 joe burns",
       "version": "AUD",
-      "format": "DVD"
+      "format": "DVD",
+      "textFile": "nin2005-05-18.zr50.jb.0.ntsc.dvd.txt"
     },
     {
       "year": 2005,
@@ -5615,7 +6024,8 @@ const ARTIST_DATA = {
       "venue": "Electric Factory",
       "notes": "MK4s \u00b7 crimson",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "nin2005-05-19.mk4.crimson.0.flac1644.txt"
     },
     {
       "year": 2005,
@@ -5628,7 +6038,8 @@ const ARTIST_DATA = {
       "venue": "Electric Factory",
       "notes": "Canon ZR-50 \u00b7 joe burns",
       "version": "AUD",
-      "format": "DVD"
+      "format": "DVD",
+      "textFile": "nin2005-05-19.zr50.jb.0.ntsc.dvd.txt"
     },
     {
       "year": 2005,
@@ -5641,7 +6052,8 @@ const ARTIST_DATA = {
       "venue": "The Tabernacle",
       "notes": "CTR-122 \u00b7 deadlie13",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "nin2005-05-21.ctr122.deadlie13.0.flac1644.txt"
     },
     {
       "year": 2005,
@@ -5654,7 +6066,8 @@ const ARTIST_DATA = {
       "venue": "The Tabernacle",
       "notes": "Giant Squid Omnis \u00b7 bobsmith",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "nin2005-05-21.gso.bobsmith19.0.flac1644.txt"
     },
     {
       "year": 2005,
@@ -5667,7 +6080,8 @@ const ARTIST_DATA = {
       "venue": "The Tabernacle",
       "notes": "unk",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "nin2005-05-22.unknown.unknown.0.flac1644.txt"
     },
     {
       "year": 2005,
@@ -5680,7 +6094,8 @@ const ARTIST_DATA = {
       "venue": "Verizon Wireless Theatre",
       "notes": "CSB \u00b7 adam l.",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "nin2005-05-24.csb.adaml.unknown.flac1644.txt"
     },
     {
       "year": 2005,
@@ -5693,7 +6108,8 @@ const ARTIST_DATA = {
       "venue": "Stubb's BBQ",
       "notes": "MD(M) \u00b7 unk",
       "version": "AUD",
-      "format": "MP3"
+      "format": "MP3",
+      "textFile": "nin2005-05-25.unknown.unknown.0.mp3128.mp3.txt"
     },
     {
       "year": 2005,
@@ -5706,7 +6122,8 @@ const ARTIST_DATA = {
       "venue": "Marquee Theater",
       "notes": "Sanken COS 11s \u00b7 desertrat",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "nin2005-05-27.cos11.desertrat.0.flac1644.txt"
     },
     {
       "year": 2005,
@@ -5719,7 +6136,8 @@ const ARTIST_DATA = {
       "venue": "Marquee Theater",
       "notes": "MD(M) \u00b7 CSBs + BB \u00b7 notorioustimp",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "nin2005-05-27.csb.notorioustimp.0.flac1644.txt"
     },
     {
       "year": 2005,
@@ -5732,7 +6150,8 @@ const ARTIST_DATA = {
       "venue": "Marquee Theater",
       "notes": "MD(M) \u00b7 CSBs + BB \u00b7 notorioustimp",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "nin2005-05-28.csb.notorioustimp.0.flac1644.txt"
     },
     {
       "year": 2005,
@@ -5745,7 +6164,8 @@ const ARTIST_DATA = {
       "venue": "SOMA",
       "notes": "MD(M) \u00b7 CSBs + BB \u00b7 notorioustimp",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "nin2005-05-30.csb.notorioustimp.0.flac1644.txt"
     },
     {
       "year": 2005,
@@ -5758,7 +6178,8 @@ const ARTIST_DATA = {
       "venue": "SOMA",
       "notes": "CSC \u00b7 jfaninord & kyks17",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "nin2005-05-30.csc.nfaninord.0.flac1644.txt"
     },
     {
       "year": 2005,
@@ -5771,7 +6192,8 @@ const ARTIST_DATA = {
       "venue": "SOMA",
       "notes": "slickmode",
       "version": "IEM",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "nin2005-05-30.iem.slickmode.0.flac1644.txt"
     },
     {
       "year": 2005,
@@ -5784,7 +6206,8 @@ const ARTIST_DATA = {
       "venue": "SOMA",
       "notes": "unk \u00b7 randy reed",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "nin2005-05-30.unknown.randy.unknown.flac1644.txt"
     },
     {
       "year": 2005,
@@ -5797,7 +6220,8 @@ const ARTIST_DATA = {
       "venue": "SOMA",
       "notes": "AT831s \u00b7 unk",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "nin2005-05-31.at831.unknown.0.flac1644.txt"
     },
     {
       "year": 2005,
@@ -5810,7 +6234,8 @@ const ARTIST_DATA = {
       "venue": "SOMA",
       "notes": "MD(M) \u00b7 CSBs + BB \u00b7 notorioustimp",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "nin2005-05-31.csb.notorioustimp.0.flac1644.txt"
     },
     {
       "year": 2005,
@@ -5823,7 +6248,8 @@ const ARTIST_DATA = {
       "venue": "SOMA",
       "notes": "unk \u00b7 randy reed",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "nin2005-05-31.unknown.randy.unknown.flac1644.txt"
     },
     {
       "year": 2005,
@@ -5836,7 +6262,8 @@ const ARTIST_DATA = {
       "venue": "Palacio de los Deportes",
       "notes": "SP-CMC-2 \u00b7 migmanson",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "nin2005-06-02.cmc2.migmanson.0.flac1644.txt"
     },
     {
       "year": 2005,
@@ -5849,7 +6276,8 @@ const ARTIST_DATA = {
       "venue": "Southside Festival- DAT",
       "notes": "M \u00b7 OKM-IIr \u00b7 sebastian",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "nin2005-06-12.okmIIr.sebastian.0.flac1644.txt"
     },
     {
       "year": 2005,
@@ -5862,7 +6290,8 @@ const ARTIST_DATA = {
       "venue": "Arena",
       "notes": "OKM3r \u00b7 martinick",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "nin2005-06-14.okmIIr.martinick.0.flac1644.txt"
     },
     {
       "year": 2005,
@@ -5875,7 +6304,8 @@ const ARTIST_DATA = {
       "venue": "Columbiahalle",
       "notes": "MD(M) \u00b7 unk",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "nin2005-06-15.ecm717.unknown.unknown.flac1644.txt"
     },
     {
       "year": 2005,
@@ -5888,7 +6318,8 @@ const ARTIST_DATA = {
       "venue": "Le Zenith",
       "notes": "ECM-719 \u00b7 fritzti",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "nin2005-06-22.ecm719.fritzti.0.flac1644.txt"
     },
     {
       "year": 2005,
@@ -5901,7 +6332,8 @@ const ARTIST_DATA = {
       "venue": "Le Zenith",
       "notes": "ECM-717 \u00b7 teething",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "nin2005-06-22.ecm719.teething.0.flac1644.txt"
     },
     {
       "year": 2005,
@@ -5914,7 +6346,8 @@ const ARTIST_DATA = {
       "venue": "Goffert Park",
       "notes": "Rockin' \u00b7 SP-CMC-2 \u00b7 skttrwave",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "nin2005-06-26.cmc2.skttrwave.0.flac1644.txt"
     },
     {
       "year": 2005,
@@ -5927,7 +6360,8 @@ const ARTIST_DATA = {
       "venue": "Goffert Park",
       "notes": "Rockin' \u00b7 unk",
       "version": "AUD",
-      "format": "DVD"
+      "format": "DVD",
+      "textFile": "nin2005-06-26.unknown.unknown.unknown.ntsc.dvd.txt"
     },
     {
       "year": 2005,
@@ -5940,7 +6374,8 @@ const ARTIST_DATA = {
       "venue": "Razzmatazz",
       "notes": "unk",
       "version": "AUD",
-      "format": "MPG"
+      "format": "MPG",
+      "textFile": "nin2005-06-29.unknown.unknown.unknown.mpg576.txt"
     },
     {
       "year": 2005,
@@ -5953,7 +6388,8 @@ const ARTIST_DATA = {
       "venue": "Les Eurockeenes",
       "notes": "ECM 959 \u00b7 modolek",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "nin2005-07-01.ecm959.modolek.0.flac1644.txt"
     },
     {
       "year": 2005,
@@ -5966,7 +6402,8 @@ const ARTIST_DATA = {
       "venue": "Rock Werchter Festival",
       "notes": "La Deux TV Broadcast \u00b7 florent",
       "version": "PRO",
-      "format": "DVD"
+      "format": "DVD",
+      "textFile": "nin2005-07-02.pro.florent.0.dvd.txt"
     },
     {
       "year": 2005,
@@ -5979,7 +6416,8 @@ const ARTIST_DATA = {
       "venue": "Brixton Academy",
       "notes": "DAT(M) \u00b7 ECM909a \u00b7 mr. fang",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "nin2005-07-05.ecm909a.mrfang.0.flac1644.txt"
     },
     {
       "year": 2005,
@@ -5992,7 +6430,8 @@ const ARTIST_DATA = {
       "venue": "Academy",
       "notes": "ECM-717 \u00b7 rob",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "nin2005-07-08.ecm717.rob.0.flac1644.txt"
     },
     {
       "year": 2005,
@@ -6005,7 +6444,8 @@ const ARTIST_DATA = {
       "venue": "Apollo",
       "notes": "MD(M) \u00b7 Sony ECM-717 \u00b7 polewka",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "nin2005-07-10.ecm717.polewka.0.flac1644.txt"
     },
     {
       "year": 2005,
@@ -6018,7 +6458,8 @@ const ARTIST_DATA = {
       "venue": "Apollo",
       "notes": "unk",
       "version": "AUD",
-      "format": "DVD"
+      "format": "DVD",
+      "textFile": "nin2005-07-10.unknown.unknown.unknown.ntsc.dvd.txt"
     },
     {
       "year": 2005,
@@ -6031,7 +6472,8 @@ const ARTIST_DATA = {
       "venue": "Apollo",
       "notes": "MiniDV(M) \u00b7 Sony Handycam DCR-HC42E \u00b7 unk",
       "version": "AUD (48k)",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "nin2005-07-11.dcr-hc42e.unknown.unknown.flac1648.txt"
     },
     {
       "year": 2005,
@@ -6044,7 +6486,8 @@ const ARTIST_DATA = {
       "venue": "Apollo",
       "notes": "MD(M) \u00b7 Sony ECM-717 \u00b7 polewka",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "nin2005-07-11.ecm717.polewka.0.flac1644.txt"
     },
     {
       "year": 2005,
@@ -6057,7 +6500,8 @@ const ARTIST_DATA = {
       "venue": "Brixton Academy",
       "notes": "MZ-N707 \u00b7 maggot_king",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "nin2005-07-14.em-8.maggotking.0.flac1644.txt"
     },
     {
       "year": 2005,
@@ -6070,7 +6514,8 @@ const ARTIST_DATA = {
       "venue": "Summer Sonic 05 *Live at Chiba Marine Stadium",
       "notes": "the bang",
       "version": "Silver CD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "nin2005-08-13.silver.liveatchibamarinestadium.0.flac1644.txt"
     },
     {
       "year": 2005,
@@ -6083,7 +6528,8 @@ const ARTIST_DATA = {
       "venue": "Summer Sonic 05",
       "notes": "MTV",
       "version": "PRO",
-      "format": "DVD"
+      "format": "DVD",
+      "textFile": "nin2005-08-13.unknown.rozyproject.unknown.ntsc.dvd.txt"
     },
     {
       "year": 2005,
@@ -6096,7 +6542,8 @@ const ARTIST_DATA = {
       "venue": "Summer Sonic 05",
       "notes": "rozy project",
       "version": "AUD",
-      "format": "DVD"
+      "format": "DVD",
+      "textFile": "nin2005-08-13_14.pro.mtv.0.ntsc.dvd.txt"
     },
     {
       "year": 2005,
@@ -6109,7 +6556,8 @@ const ARTIST_DATA = {
       "venue": "WTC Open Air Stadium",
       "notes": "Summersonic \u00b7 the bang",
       "version": "Silver CD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "nin2005-08-14.silver.driftingintotheabstract.0.flac1644.txt"
     },
     {
       "year": 2005,
@@ -6122,7 +6570,8 @@ const ARTIST_DATA = {
       "venue": "Rod Laver Arena",
       "notes": "SP-CMC-8 \u00b7 stian gansmoe",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "nin2005-08-17.cmc8.stian.0.flac1644.txt"
     },
     {
       "year": 2005,
@@ -6135,7 +6584,8 @@ const ARTIST_DATA = {
       "venue": "Rod Laver Arena",
       "notes": "unk \u00b7 eatyourblud",
       "version": "AUD",
-      "format": "DVD"
+      "format": "DVD",
+      "textFile": "nin2005-08-17.unknown.eatyourblud.0.pal.dvd.txt"
     },
     {
       "year": 2005,
@@ -6148,7 +6598,8 @@ const ARTIST_DATA = {
       "venue": "The Hordern",
       "notes": "unk",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "nin2005-08-19.unknown.unknown.unknown.flac1644.txt"
     },
     {
       "year": 2005,
@@ -6161,7 +6612,8 @@ const ARTIST_DATA = {
       "venue": "The Hordern",
       "notes": "ECM-717 (manyon",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "nin2005-08-20.ecm717.manyon.0.flac1644.txt"
     },
     {
       "year": 2005,
@@ -6174,7 +6626,8 @@ const ARTIST_DATA = {
       "venue": "Entertainment Centre",
       "notes": "SP-CMC-8 \u00b7 zac",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "nin2005-08-22.cmc8.audiowhore.0.flac1644.txt"
     },
     {
       "year": 2005,
@@ -6187,7 +6640,8 @@ const ARTIST_DATA = {
       "venue": "Paramount Studios",
       "notes": "ReAct \u00b7 Trent Reznor \u00b7 Viacom",
       "version": "PRO",
-      "format": "MKV"
+      "format": "MKV",
+      "textFile": "trentreznor2005-09-09.pro.viacom.0.mkvwmv.txt"
     },
     {
       "year": 2005,
@@ -6213,7 +6667,8 @@ const ARTIST_DATA = {
       "venue": "Cox Arena",
       "notes": "DPA 4061 \u00b7 ed davis",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "nin2005-09-16.csb.notorioustimp.0.flac1644.txt"
     },
     {
       "year": 2005,
@@ -6226,7 +6681,8 @@ const ARTIST_DATA = {
       "venue": "Cox Arena",
       "notes": "slickmode",
       "version": "IEM",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "nin2005-09-16.dpa4061.eddavis.0.flac1644.txt"
     },
     {
       "year": 2005,
@@ -6239,7 +6695,8 @@ const ARTIST_DATA = {
       "venue": "Cox Arena",
       "notes": "Soundcheck \u00b7 slickmode",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "nin2005-09-16.iem.slickmode.unknown.flac1644.txt"
     },
     {
       "year": 2005,
@@ -6252,7 +6709,8 @@ const ARTIST_DATA = {
       "venue": "Cox Arena",
       "notes": "Soundcheck \u00b7 IEM + AUD \u00b7 slickmode + eddavis",
       "version": "MTX",
-      "format": ""
+      "format": "",
+      "textFile": "nin2005-09-16.iem.slickmode.unknown.flac1644 - soundcheck.txt"
     },
     {
       "year": 2005,
@@ -6265,7 +6723,8 @@ const ARTIST_DATA = {
       "venue": "America West Arena",
       "notes": "unk",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "nin2005-09-19.unknown.unknown.unknown.ntsc.dvd.txt"
     },
     {
       "year": 2005,
@@ -6291,7 +6750,8 @@ const ARTIST_DATA = {
       "venue": "Selland Arena",
       "notes": "MD(M) \u00b7 CSBs + BB \u00b7 notorioustimp",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "nin2005-09-20.csb.notorioustimp.0.flac1644.txt"
     },
     {
       "year": 2005,
@@ -6304,7 +6764,8 @@ const ARTIST_DATA = {
       "venue": "Selland Arena",
       "notes": "DSM6 \u00b7 filthprveyor",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "nin2005-09-20.dsm6.filthprveyor.0.flac1644.txt"
     },
     {
       "year": 2005,
@@ -6317,7 +6778,8 @@ const ARTIST_DATA = {
       "venue": "Key Arena",
       "notes": "CSBs + Sharp MD-MT15 \u00b7 acc123456",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "nin2005-09-23.csb.acc123456.0.flac1644.txt"
     },
     {
       "year": 2005,
@@ -6330,7 +6792,8 @@ const ARTIST_DATA = {
       "venue": "Key Arena",
       "notes": "CSC \u00b7 jfb",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "nin2005-09-23.csc.jfb.0.flac1644.txt"
     },
     {
       "year": 2005,
@@ -6343,7 +6806,8 @@ const ARTIST_DATA = {
       "venue": "Rose Garden Arena",
       "notes": "CSBs + Sharp MD-MT15 \u00b7 acc123456",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "nin2005-09-24.csb.acc123456.0.flac1644.txt"
     },
     {
       "year": 2005,
@@ -6356,7 +6820,8 @@ const ARTIST_DATA = {
       "venue": "Rose Garden Arena",
       "notes": "MK4 \u00b7 robert d.",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "nin2005-09-24.mk4.robertd.0.flac1644.txt"
     },
     {
       "year": 2005,
@@ -6369,7 +6834,8 @@ const ARTIST_DATA = {
       "venue": "Pacific Coliseum",
       "notes": "MD(M) \u00b7 CSBs + Sharp MD-MT15 \u00b7 acc123456",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "nin2005-09-26.csb.acc123456.0.flac1644.txt"
     },
     {
       "year": 2005,
@@ -6382,7 +6848,8 @@ const ARTIST_DATA = {
       "venue": "Pacific Coliseum *Lollypop Shoved Up My Ass",
       "notes": "highfilter",
       "version": "Silver CD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "nin2005-09-26.silver.lollypopshovedupmyass.0.flac1644.txt"
     },
     {
       "year": 2005,
@@ -6395,7 +6862,8 @@ const ARTIST_DATA = {
       "venue": "Arco Arena",
       "notes": "JB3(M) \u00b7 SP-CMC-4 \u00b7 james",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "nin2005-09-28.at853.james.0.flac1644.txt"
     },
     {
       "year": 2005,
@@ -6408,7 +6876,8 @@ const ARTIST_DATA = {
       "venue": "Arco Arena",
       "notes": "MD(M) \u00b7 CSBs + BB \u00b7 notorioustimp",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "nin2005-09-28.csb.notorioustimp.0.flac1644.txt"
     },
     {
       "year": 2005,
@@ -6421,7 +6890,8 @@ const ARTIST_DATA = {
       "venue": "Hollywood Bowl",
       "notes": "DPA 4061 \u00b7 distortion",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "nin2005-10-01.dpa4061.distortion.0.flac1644.txt"
     },
     {
       "year": 2005,
@@ -6434,7 +6904,8 @@ const ARTIST_DATA = {
       "venue": "Allstate Arean",
       "notes": "SP-CMC-8 \u00b7 unk",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "nin2005-10-07.cmc8.unknown.unknown.flac1644.txt"
     },
     {
       "year": 2005,
@@ -6447,7 +6918,8 @@ const ARTIST_DATA = {
       "venue": "Allstate Arean",
       "notes": "DAT(M) \u00b7 MK4 \u00b7 tapeworm48",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "nin2005-10-07.mk4.tapeworm48.0.flac1644.txt"
     },
     {
       "year": 2005,
@@ -6460,7 +6932,8 @@ const ARTIST_DATA = {
       "venue": "Allstate Arean",
       "notes": "unk \u00b7 hazekiah",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "nin2005-10-07.unknown.hazekiah.0.flac1644.txt"
     },
     {
       "year": 2005,
@@ -6473,7 +6946,8 @@ const ARTIST_DATA = {
       "venue": "Joe Louis Arena",
       "notes": "SP-CMC-2 \u00b7 richard simms",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "nin2005-10-08.cmc2.richard.0.flac1644.txt"
     },
     {
       "year": 2005,
@@ -6486,7 +6960,8 @@ const ARTIST_DATA = {
       "venue": "Excel Energy Center",
       "notes": "AT Pro-24 \u00b7 tom michaels",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "nin2005-10-11.at-pro24.tm.0.flac1644.txt"
     },
     {
       "year": 2005,
@@ -6499,7 +6974,8 @@ const ARTIST_DATA = {
       "venue": "Excel Energy Center",
       "notes": "unk",
       "version": "AUD",
-      "format": "DVD"
+      "format": "DVD",
+      "textFile": "nin2005-10-11.unknown.unknown.unknown.ntsc.dvd.txt"
     },
     {
       "year": 2005,
@@ -6512,7 +6988,8 @@ const ARTIST_DATA = {
       "venue": "Veterans Memorial Coliseum",
       "notes": "JVC GR550 \u00b7 ween4me",
       "version": "AUD",
-      "format": "DVD"
+      "format": "DVD",
+      "textFile": "nin2005-10-13.jvcgr550.ween4me.0.ntsc.dvd.txt"
     },
     {
       "year": 2005,
@@ -6525,7 +7002,8 @@ const ARTIST_DATA = {
       "venue": "Savvis Center",
       "notes": "SKM140 \u00b7 sparkey",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "nin2005-10-14.skm140.sparkey.flac1644.txt"
     },
     {
       "year": 2005,
@@ -6538,7 +7016,8 @@ const ARTIST_DATA = {
       "venue": "SBC Center",
       "notes": "SP-CMC-8 \u00b7 toriphilemaria",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "nin2005-10-16.at943.toriphilemaria.0.flac1644.txt"
     },
     {
       "year": 2005,
@@ -6551,7 +7030,8 @@ const ARTIST_DATA = {
       "venue": "Toyota Center",
       "notes": "SP-CMC-8 \u00b7 toriphilemaria",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "nin2005-10-19.at943.toriphilemaria.0.flac1644.txt"
     },
     {
       "year": 2005,
@@ -6564,7 +7044,8 @@ const ARTIST_DATA = {
       "venue": "Memorial Arena",
       "notes": "DPA 4061 \u00b7 pjdavep",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "nin2005-10-21jacksonvillepjdavep.txt"
     },
     {
       "year": 2005,
@@ -6577,7 +7058,8 @@ const ARTIST_DATA = {
       "venue": "St. Pete Times Forum",
       "notes": "HiMD(M) \u00b7 CSBs \u00b7 adam",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "nin2005-10-22.csb.adam.0.flac1644.txt"
     },
     {
       "year": 2005,
@@ -6590,7 +7072,8 @@ const ARTIST_DATA = {
       "venue": "Philips Arena",
       "notes": "GSO \u00b7 bob smith",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "nin2005-10-27.gso.bobsmith19.0.flac1644.txt"
     },
     {
       "year": 2005,
@@ -6603,7 +7086,8 @@ const ARTIST_DATA = {
       "venue": "Voodoo Music Experience",
       "notes": "CSBs + SPSB-3",
       "version": "MTX",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "nin2005-10-29.csb.+sbd.unknown+webcast.0.flac1644.txt"
     },
     {
       "year": 2005,
@@ -6616,7 +7100,8 @@ const ARTIST_DATA = {
       "venue": "Voodoo Music Experience",
       "notes": "VH1 Webcast",
       "version": "PRO",
-      "format": "DVD"
+      "format": "DVD",
+      "textFile": "nin2005-10-29.pro.vh1webcast.0.ntsc.dvd.txt"
     },
     {
       "year": 2005,
@@ -6629,7 +7114,8 @@ const ARTIST_DATA = {
       "venue": "Autozone Park",
       "notes": "DAT(M) \u00b7 MK4 \u00b7 donswank",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "nin2005-10-30.mk4.donswank.0.flac1644.txt"
     },
     {
       "year": 2005,
@@ -6642,7 +7128,8 @@ const ARTIST_DATA = {
       "venue": "Gaylord Entertainment Center",
       "notes": "Halloween Show \u00b7 SP-BMC-3 \u00b7 garret",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "nin2005-10-31.bmc3.garret.0.flac1644.txt"
     },
     {
       "year": 2005,
@@ -6655,7 +7142,8 @@ const ARTIST_DATA = {
       "venue": "Gaylord Entertainment Center",
       "notes": "Halloween Show \u00b7 CSBs + Sony MZ-R55 \u00b7 mike white",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "nin2005-10-31.csb.mw.0.flac1644.txt"
     },
     {
       "year": 2005,
@@ -6668,7 +7156,8 @@ const ARTIST_DATA = {
       "venue": "MCI Arena",
       "notes": "iamgod",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "nin2005-11-02.dat.iamgod1.0.flac1644.txt"
     },
     {
       "year": 2005,
@@ -6681,7 +7170,8 @@ const ARTIST_DATA = {
       "venue": "Madison Square Garden",
       "notes": "unk",
       "version": "AUD",
-      "format": "DVD"
+      "format": "DVD",
+      "textFile": "nin2005-11-03.multi.unknown.unknown.ntsc.dvd.txt"
     },
     {
       "year": 2005,
@@ -6694,7 +7184,8 @@ const ARTIST_DATA = {
       "venue": "Wachovia Spectrum",
       "notes": "Schoeps MK4 \u00b7 crimson",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "nin2005-11-05.mk4.crimson.0.flac1644.txt"
     },
     {
       "year": 2005,
@@ -6707,7 +7198,8 @@ const ARTIST_DATA = {
       "venue": "Wachovia Spectrum",
       "notes": "MK4 \u00b7 flying_gonz",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "nin2005-11-05.mk4.nickycdubbled.0.flac1644.txt"
     },
     {
       "year": 2005,
@@ -6720,7 +7212,8 @@ const ARTIST_DATA = {
       "venue": "Wachovia Spectrum",
       "notes": "unk",
       "version": "AUD",
-      "format": "DVD"
+      "format": "DVD",
+      "textFile": "nin2005-11-05.unknown.unknown.unknown.ntsc.dvd.txt"
     },
     {
       "year": 2005,
@@ -6733,7 +7226,8 @@ const ARTIST_DATA = {
       "venue": "Wachovia Arena",
       "notes": "Schoeps MK4 \u00b7 crimson",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "nin2005-11-06.mk4.crimson.0.flac1644.txt"
     },
     {
       "year": 2005,
@@ -6746,7 +7240,8 @@ const ARTIST_DATA = {
       "venue": "Wachovia Arena",
       "notes": "unk",
       "version": "AUD",
-      "format": "DVD"
+      "format": "DVD",
+      "textFile": "nin2005-11-06.unknown.unknown.unknown.ntsc.dvd.txt"
     },
     {
       "year": 2005,
@@ -6759,7 +7254,8 @@ const ARTIST_DATA = {
       "venue": "TD Banknorth Garden",
       "notes": "SP-CMC-8 \u00b7 pg",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "nin2005-11-08.cmc8.pg.0.flac1644.txt"
     },
     {
       "year": 2005,
@@ -6772,7 +7268,8 @@ const ARTIST_DATA = {
       "venue": "Air Canada Centre",
       "notes": "SP-SPSB-2 \u00b7 steve stroud",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "nin2005-11-10.at831.steve.1.flac1644.txt"
     },
     {
       "year": 2005,
@@ -6785,7 +7282,8 @@ const ARTIST_DATA = {
       "venue": "Air Canada Centre",
       "notes": "Soundcheck \u00b7 SP-SPSB-2 \u00b7 steve stroud",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "nin2005-11-10.at831.steve.1.flac1644-soundcheck.txt"
     },
     {
       "year": 2005,
@@ -6798,7 +7296,8 @@ const ARTIST_DATA = {
       "venue": "Air Canada Centre",
       "notes": "JB3(M) \u00b7 SP-CMC-4 \u00b7 nevernamed",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "nin2005-11-10.cmc4.nevernamed.0.flac1644.txt"
     },
     {
       "year": 2005,
@@ -6811,7 +7310,8 @@ const ARTIST_DATA = {
       "venue": "Air Canada Centre",
       "notes": "Sony MZ-N1 \u00b7 bobcat",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "nin2005-11-10.csb.bobcat.0.flac1644.txt"
     },
     {
       "year": 2005,
@@ -6824,7 +7324,8 @@ const ARTIST_DATA = {
       "venue": "Bell Centre",
       "notes": "MD(M) \u00b7 Custom \u00b7 unk",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "nin2005-11-11.custom.unknown.unknown.flac1644.txt"
     },
     {
       "year": 2005,
@@ -6837,7 +7338,8 @@ const ARTIST_DATA = {
       "venue": "Bell Centre",
       "notes": "christelle",
       "version": "AUD",
-      "format": "MP3"
+      "format": "MP3",
+      "textFile": "nin2005-11-11.unknown.christelle.0.mp3160.txt"
     },
     {
       "year": 2005,
@@ -6850,7 +7352,8 @@ const ARTIST_DATA = {
       "venue": "Oakland Arena",
       "notes": "DPA 4061 \u00b7 james",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "nin2005-11-19.dpa4061.james.0.flac1644.txt"
     },
     {
       "year": 2005,
@@ -6863,7 +7366,8 @@ const ARTIST_DATA = {
       "venue": "Oakland Arena",
       "notes": "DAT(M) \u00b7 SS DSM6 \u00b7 filthprveyor",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "nin2005-11-19.dsm6.filthprveyor.0.flac1644.txt"
     },
     {
       "year": 2005,
@@ -6876,7 +7380,8 @@ const ARTIST_DATA = {
       "venue": "Oakland Arena",
       "notes": "MK4 \u00b7 alex coluzzi",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "nin2005-11-19.mk4.alexcoluzzi.0.flac1644.txt"
     },
     {
       "year": 2005,
@@ -6889,7 +7394,8 @@ const ARTIST_DATA = {
       "venue": "Cox Arena",
       "notes": "DAT(M) \u00b7 DPA 4061 \u00b7 ed davis",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "nin2005-11-20.csb.notorioustimp.0.flac1644.txt"
     },
     {
       "year": 2005,
@@ -6902,7 +7408,8 @@ const ARTIST_DATA = {
       "venue": "Cox Arena",
       "notes": "slickmode",
       "version": "IEM",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "nin2005-11-20.dpa4061.eddavis.0.flac1644.txt"
     },
     {
       "year": 2005,
@@ -6915,7 +7422,8 @@ const ARTIST_DATA = {
       "venue": "Cox Arena",
       "notes": "MD(M) \u00b7 CSBs + BB \u00b7 notorioustimp",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "nin2005-11-20.iem.slickmode.1.flac1644.txt"
     },
     {
       "year": 2005,
@@ -6928,7 +7436,8 @@ const ARTIST_DATA = {
       "venue": "Cox Arena",
       "notes": "unk",
       "version": "AUD",
-      "format": "DVD"
+      "format": "DVD",
+      "textFile": "nin2005-11-20.unknown.unknown.unknown.ntsc.dvd.txt"
     },
     {
       "year": 2005,
@@ -6941,7 +7450,8 @@ const ARTIST_DATA = {
       "venue": "Claro Festival",
       "notes": "MTV \u00b7 unk",
       "version": "PRO",
-      "format": "MP4"
+      "format": "MP4",
+      "textFile": "nin2005-11-26.pro.mtv.unknown.mp4480.txt"
     },
     {
       "year": 2005,
@@ -6954,7 +7464,8 @@ const ARTIST_DATA = {
       "venue": "Claro Festival",
       "notes": "cultura da acao",
       "version": "TV",
-      "format": "MP4"
+      "format": "MP4",
+      "textFile": "nin2005-11-27.unknown.culturadaacao.0.mp4480.txt"
     },
     {
       "year": 2005,
@@ -6967,7 +7478,8 @@ const ARTIST_DATA = {
       "venue": "Santa Cruz Civic Auditorium",
       "notes": "MT(M) \u00b7 DPA 4061s \u00b7 james",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "nin2005-12-06.dpa4061.james.0.flac1644.txt"
     },
     {
       "year": 2005,
@@ -6980,7 +7492,8 @@ const ARTIST_DATA = {
       "venue": "Santa Cruz Civic Auditorium",
       "notes": "DAT(M) \u00b7 KM140s \u00b7 wilson66",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "nin2005-12-06.km140.wilson66.0.flac1644.flac.txt"
     },
     {
       "year": 2005,
@@ -6993,7 +7506,8 @@ const ARTIST_DATA = {
       "venue": "Santa Cruz Civic Auditorium",
       "notes": "DAT(M) \u00b7 MK4s \u00b7 alex coluzzi",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "nin2005-12-06.mk4.alexcoluzzi.1.flac1644.txt"
     },
     {
       "year": 2005,
@@ -7006,7 +7520,8 @@ const ARTIST_DATA = {
       "venue": "Cal State Polytechnic University",
       "notes": "Recreational \u00b7 Sony MD + BB+ CSBs \u00b7 karl",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "nin2005-12-07.csb.karl.0.flac1644.txt"
     },
     {
       "year": 2005,
@@ -7019,7 +7534,8 @@ const ARTIST_DATA = {
       "venue": "Reno Hilton Theatre",
       "notes": "DPA 4061s \u00b7 fuzn",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "nin2005-12-08.dpa4061.fuzn.0.flac1644.txt"
     },
     {
       "year": 2005,
@@ -7032,7 +7548,8 @@ const ARTIST_DATA = {
       "venue": "Gibson Amphitheater",
       "notes": "KROQ \u00b7 M \u00b7 MK4s \u00b7 alex coluzzi",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "nin2005-12-10.mk4.alexcoluzzi.1.flac1644.txt"
     },
     {
       "year": 2005,
@@ -7045,7 +7562,8 @@ const ARTIST_DATA = {
       "venue": "Gibson Amphitheater",
       "notes": "KROQ \u00b7 WW1 \u00b7 Master ADAT",
       "version": "preFM",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "nin2005-12-10.prefm.westwoodone.0.flac1644.txt"
     },
     {
       "year": 2005,
@@ -7058,7 +7576,8 @@ const ARTIST_DATA = {
       "venue": "Gibson Amphitheater",
       "notes": "KROQ \u00b7 KROQ MMS Stream",
       "version": "Webcast",
-      "format": "M4V"
+      "format": "M4V",
+      "textFile": "nin2005-12-10.webcast.kroq.0.mp4240p.txt"
     },
     {
       "year": 2006,
@@ -7071,7 +7590,8 @@ const ARTIST_DATA = {
       "venue": "Assembly Hall",
       "notes": "MK4 \u00b7 dd",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "nin2006-02-10.mk4.dd.0.flac1644.txt"
     },
     {
       "year": 2006,
@@ -7084,7 +7604,8 @@ const ARTIST_DATA = {
       "venue": "Assembly Hall",
       "notes": "Hi-MD \u00b7 hazekiah",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "nin2006-02-10.unknown.hazekiah.0.flac1644.txt"
     },
     {
       "year": 2006,
@@ -7097,7 +7618,8 @@ const ARTIST_DATA = {
       "venue": "Eagles Ballroom",
       "notes": "The \u00b7 DPA 4061 \u00b7 evil taper",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "nin2006-02-11.4061.eviltaper.0.flac1644.txt"
     },
     {
       "year": 2006,
@@ -7110,7 +7632,8 @@ const ARTIST_DATA = {
       "venue": "Eagles Ballroom",
       "notes": "The \u00b7 MK4s \u00b7 tapeworm48",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "nin2006-02-11.mk4.tapeworm48.0.flac1644.txt"
     },
     {
       "year": 2006,
@@ -7123,7 +7646,8 @@ const ARTIST_DATA = {
       "venue": "Theatre at the Mark",
       "notes": "MK4s \u00b7 tapeworm48",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "nin2006-02-12.mk4.tapeworm48.0.flac1644.txt"
     },
     {
       "year": 2006,
@@ -7136,7 +7660,8 @@ const ARTIST_DATA = {
       "venue": "Pershing Auditorium",
       "notes": "unk",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "nin2006-02-17.unknown.unknown.unknown.flac1644.txt"
     },
     {
       "year": 2006,
@@ -7149,7 +7674,8 @@ const ARTIST_DATA = {
       "venue": "Pershing Auditorium",
       "notes": "Realistic 33-1065 \u00b7 unk",
       "version": "AUD",
-      "format": "DVD"
+      "format": "DVD",
+      "textFile": "nin2006-02-17.zr65.unknown.0.ntsc.dvd.txt"
     },
     {
       "year": 2006,
@@ -7162,7 +7688,8 @@ const ARTIST_DATA = {
       "venue": "The Deltaplex",
       "notes": "Sony Cybershot DSC-P100 \u00b7 berlamont",
       "version": "AUD",
-      "format": "DVD"
+      "format": "DVD",
+      "textFile": "nin2006-02-20.dsc-p100.berlamont.0.ntsc.dvd.txt"
     },
     {
       "year": 2006,
@@ -7175,7 +7702,8 @@ const ARTIST_DATA = {
       "venue": "Toledo Sports Arena",
       "notes": "CSC \u00b7 z-man",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "nin2006-02-21.csc.zman.0.flac1644.txt"
     },
     {
       "year": 2006,
@@ -7188,7 +7716,8 @@ const ARTIST_DATA = {
       "venue": "Toledo Sports Arena",
       "notes": "DPA 4060 \u00b7 live2cd",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "nin2006-02-21.dpa4060.cole.0.flac1644.txt"
     },
     {
       "year": 2006,
@@ -7201,7 +7730,8 @@ const ARTIST_DATA = {
       "venue": "Toledo Sports Arena",
       "notes": "DPA 4061 \u00b7 ryan j",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "nin2006-02-21.dpa4061.ryanj.0.flac1644.txt"
     },
     {
       "year": 2006,
@@ -7214,7 +7744,8 @@ const ARTIST_DATA = {
       "venue": "US Bank Arena",
       "notes": "ECM717 \u00b7 bootmonkey",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "nin2006-02-25.ecm717.bootmonkey.0.flac1644.txt"
     },
     {
       "year": 2006,
@@ -7227,7 +7758,8 @@ const ARTIST_DATA = {
       "venue": "Colisee Pepsi",
       "notes": "christelle \u00b7 unk",
       "version": "AUD",
-      "format": "MP3"
+      "format": "MP3",
+      "textFile": "nin2006-03-02.unknown.christelle.0.mp3160.txt"
     },
     {
       "year": 2006,
@@ -7240,7 +7772,8 @@ const ARTIST_DATA = {
       "venue": "John Labatt Center",
       "notes": "ECM-719 \u00b7 krewechief",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "nin2006-03-06.ecm719.krewechief.0.flac1644.txt"
     },
     {
       "year": 2006,
@@ -7253,7 +7786,8 @@ const ARTIST_DATA = {
       "venue": "John Labatt Center",
       "notes": "GSB \u00b7 broadbent",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "nin2006-03-06.gsb.broadbent.0.flac1644.txt"
     },
     {
       "year": 2006,
@@ -7266,7 +7800,8 @@ const ARTIST_DATA = {
       "venue": "Blue Cross Arena",
       "notes": "MK4 \u00b7 crimson",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "nin2006-03-09.mk4.crimson.0.flac1644.txt"
     },
     {
       "year": 2006,
@@ -7279,7 +7814,8 @@ const ARTIST_DATA = {
       "venue": "Mullins Center",
       "notes": "Sony ECM-DS70P \u00b7 screamingslave",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "nin2006-03-10.ecmds70p.cbatts.0.flac1644.txt"
     },
     {
       "year": 2006,
@@ -7292,7 +7828,8 @@ const ARTIST_DATA = {
       "venue": "House of Blues",
       "notes": "Sony Cybershot DSC-P100 \u00b7 acs_tool462",
       "version": "AUD",
-      "format": "MPG"
+      "format": "MPG",
+      "textFile": "nin2006-03-11.dsc-p100.acstool462.0.mpg480p.txt"
     },
     {
       "year": 2006,
@@ -7305,7 +7842,8 @@ const ARTIST_DATA = {
       "venue": "Civic Coliseum",
       "notes": "CSB/120 \u00b7 geordy",
       "version": "AUD",
-      "format": "FLAC 24"
+      "format": "FLAC 24",
+      "textFile": "nin2006-03-13.csb.geordy.0.flac2448.txt"
     },
     {
       "year": 2006,
@@ -7318,7 +7856,8 @@ const ARTIST_DATA = {
       "venue": "Civic Coliseum",
       "notes": "CSB \u00b7 xjsb125 remaster",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "nin2006-03-13.csb.xjsb125.0.flac1644.txt"
     },
     {
       "year": 2006,
@@ -7331,7 +7870,8 @@ const ARTIST_DATA = {
       "venue": "Richmond Coliseum",
       "notes": "MiniDV Camera \u00b7 unk",
       "version": "AUD",
-      "format": "DVD"
+      "format": "DVD",
+      "textFile": "nin2006-03-14.minidv.unknown.0.ntsc.dvd.txt"
     },
     {
       "year": 2006,
@@ -7344,7 +7884,8 @@ const ARTIST_DATA = {
       "venue": "Bicentennial Park",
       "notes": "CSB \u00b7 boldcaptain",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "nin2006-03-18.csb.boldcaptain.0.flac1644.txt"
     },
     {
       "year": 2006,
@@ -7357,7 +7898,8 @@ const ARTIST_DATA = {
       "venue": "Bicentennial Park",
       "notes": "HDV Camera \u00b7 chris nicholas",
       "version": "AUD",
-      "format": "M4V"
+      "format": "M4V",
+      "textFile": "nin2006-03-18.hdv.chris.0.m4v400.txt"
     },
     {
       "year": 2006,
@@ -7370,7 +7912,8 @@ const ARTIST_DATA = {
       "venue": "Concrete Street Amphitheater",
       "notes": "SS DSM6P \u00b7 aleal5687",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "nin2006-03-23.dsm6p.aleal5687.0.flac1644.txt"
     },
     {
       "year": 2006,
@@ -7383,7 +7926,8 @@ const ARTIST_DATA = {
       "venue": "Frank Erwin Center",
       "notes": "DAT(M) \u00b7 ECM-909a \u00b7 mr. fang",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "nin2006-03-24.ecm909a.mrfang.0.flac1644.txt"
     },
     {
       "year": 2006,
@@ -7396,7 +7940,8 @@ const ARTIST_DATA = {
       "venue": "Ford Center",
       "notes": "MD(M) \u00b7 Sony MZ-R90 \u00b7 ian roegels",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "nin2006-03-28.headphones.ian.0.flac1644.txt"
     },
     {
       "year": 2006,
@@ -7409,7 +7954,8 @@ const ARTIST_DATA = {
       "venue": "El Paso County Coliseum",
       "notes": "unk \u00b7 omarandre",
       "version": "AUD",
-      "format": "MPG"
+      "format": "MPG",
+      "textFile": "nin2006-03-30.unknown.omarandre.1.mpg360p.txt"
     },
     {
       "year": 2006,
@@ -7422,7 +7968,8 @@ const ARTIST_DATA = {
       "venue": "The Key Club at Morongo",
       "notes": "Soundcheck \u00b7 slickmode",
       "version": "IEM",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "nin2006-03-31.dpa4061.mt.flac16.txt"
     },
     {
       "year": 2006,
@@ -7435,7 +7982,8 @@ const ARTIST_DATA = {
       "venue": "The Key Club at Morongo",
       "notes": "ECM-DS70P \u00b7 innerturmoil",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "nin2006-03-31.ecmds70p.innerturmoil.0.flac1644.txt"
     },
     {
       "year": 2006,
@@ -7448,7 +7996,8 @@ const ARTIST_DATA = {
       "venue": "The Key Club at Morongo",
       "notes": "MT(M) \u00b7 DPA 4061 \u00b7 fuzn37",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "nin2006-03-31.iem.slickmode.unknown.flac1644 - soundcheck.txt"
     },
     {
       "year": 2006,
@@ -7461,7 +8010,8 @@ const ARTIST_DATA = {
       "venue": "Aladdin Theater",
       "notes": "DAT(M) \u00b7 DPA 4061s \u00b7 ed davis",
       "version": "AUD (48k)",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "nin2006-04-01.dpa4061.eddavis.0.flac1648.txt"
     },
     {
       "year": 2006,
@@ -7474,7 +8024,8 @@ const ARTIST_DATA = {
       "venue": "Aladdin Theater",
       "notes": "MT(M) \u00b7 DPA 4061s \u00b7 fuzn37",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "nin2006-04-01.dpa4061.fuzn.0.flac1644.txt"
     },
     {
       "year": 2006,
@@ -7500,7 +8051,8 @@ const ARTIST_DATA = {
       "venue": "Gorge Amphitheater",
       "notes": "Sasquatch \u00b7 CSBs + Sharp MD-MT15 \u00b7 acc123456",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "nin2006-05-26.csb.acc123456.0.flac1644.txt"
     },
     {
       "year": 2006,
@@ -7513,7 +8065,8 @@ const ARTIST_DATA = {
       "venue": "Clark County Amphitheater",
       "notes": "CSBs + Sharp MD-MT15 \u00b7 acc123456",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "nin2006-05-27.csb.acc123456.0.flac1644.txt"
     },
     {
       "year": 2006,
@@ -7526,7 +8079,8 @@ const ARTIST_DATA = {
       "venue": "Clark County Amphitheater",
       "notes": "unk \u00b7 Dynamic Audio Cards",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "nin2006-05-27.dynamicaudcards.unknown.unknown.flac1644.txt"
     },
     {
       "year": 2006,
@@ -7539,7 +8093,8 @@ const ARTIST_DATA = {
       "venue": "Idaho Center Arena",
       "notes": "CSBs + Sharp MD-MT15 \u00b7 acc123456",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "nin2006-05-28.csb.acc123456.0.flac1644.txt"
     },
     {
       "year": 2006,
@@ -7552,7 +8107,8 @@ const ARTIST_DATA = {
       "venue": "Red Rocks Amphitheatre",
       "notes": "SP-CMC-4 \u00b7 eric a.",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "nin2006-05-30.at853.erica.0.flac1644.txt"
     },
     {
       "year": 2006,
@@ -7565,7 +8121,8 @@ const ARTIST_DATA = {
       "venue": "Red Rocks Amphitheatre",
       "notes": "CSB \u00b7 ben parsons",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "nin2006-05-30.csb.ben.0.flac1644.txt"
     },
     {
       "year": 2006,
@@ -7578,7 +8135,8 @@ const ARTIST_DATA = {
       "venue": "Red Rocks Amphitheatre",
       "notes": "DPA 4061 \u00b7 tractor",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "nin2006-05-30.dpa4061.tractor.0.flac1644.txt"
     },
     {
       "year": 2006,
@@ -7591,7 +8149,8 @@ const ARTIST_DATA = {
       "venue": "Smirnoff Center",
       "notes": "CSC \u00b7 seth",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "nin2006-06-03.csb.seth.0.flac1644.txt"
     },
     {
       "year": 2006,
@@ -7604,7 +8163,8 @@ const ARTIST_DATA = {
       "venue": "Cynthia Woods Mitchell Pavilion",
       "notes": "HiMD(M) \u00b7 DPA 4061s \u00b7 adam",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "nin2006-06-04.dpa4061.adam.0.flac1644.txt"
     },
     {
       "year": 2006,
@@ -7617,7 +8177,8 @@ const ARTIST_DATA = {
       "venue": "Verizon Wireless Amphitheater",
       "notes": "SP-CMC4c \u00b7 jhatcher",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "nin2006-06-06.cmc4.jhatcher.0.flac1644.txt"
     },
     {
       "year": 2006,
@@ -7643,7 +8204,8 @@ const ARTIST_DATA = {
       "venue": "HiFi Buys Amphitheater",
       "notes": "Trent Reznor \u00b7 ben jenkins",
       "version": "FM",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "nin2006-06-07.at853.bobsmith19.0.flac1644.txt"
     },
     {
       "year": 2006,
@@ -7656,7 +8218,8 @@ const ARTIST_DATA = {
       "venue": "HiFi Buys Amphitheater",
       "notes": "Trent Reznor",
       "version": "SBD",
-      "format": "MP3"
+      "format": "MP3",
+      "textFile": "trentreznor2006-06-07.fm.ben.0.flac1644.txt"
     },
     {
       "year": 2006,
@@ -7669,7 +8232,8 @@ const ARTIST_DATA = {
       "venue": "HiFi Buys Amphitheater",
       "notes": "AT853 \u00b7 bob smith",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "trentreznor2006-06-07.sbd.nin.0.mp3320.txt"
     },
     {
       "year": 2006,
@@ -7682,7 +8246,8 @@ const ARTIST_DATA = {
       "venue": "Verizon Wireless Amphitheater",
       "notes": "DPA 4023 \u00b7 george wang",
       "version": "AUD",
-      "format": "FLAC 24"
+      "format": "FLAC 24",
+      "textFile": "nin2006-06-10.dpa4023.george.0.flac2444.txt"
     },
     {
       "year": 2006,
@@ -7695,7 +8260,8 @@ const ARTIST_DATA = {
       "venue": "Verizon Wireless Amphitheater",
       "notes": "PRO",
       "version": "SBD",
-      "format": "MP3"
+      "format": "MP3",
+      "textFile": "nin2006-06-11.sbd.nin.0.acc128.txt"
     },
     {
       "year": 2006,
@@ -7708,7 +8274,8 @@ const ARTIST_DATA = {
       "venue": "Peter Murphy and TV on the Radio",
       "notes": "PRO",
       "version": "SBD",
-      "format": "MP3"
+      "format": "MP3",
+      "textFile": "trentreznor2006-06-13.pro.nin.0.mov300p.txt"
     },
     {
       "year": 2006,
@@ -7721,7 +8288,8 @@ const ARTIST_DATA = {
       "venue": "Peter Murphy and TV on the Radio",
       "notes": "DC101 Radio Show \u00b7 Trent Reznor",
       "version": "PRO",
-      "format": "MOV"
+      "format": "MOV",
+      "textFile": "trentreznor2006-06-13.sbd.nin.0.mp3320.txt"
     },
     {
       "year": 2006,
@@ -7747,7 +8315,8 @@ const ARTIST_DATA = {
       "venue": "PNC Bank Arts Center",
       "notes": "DAT(M) \u00b7 MK4s \u00b7 crimson",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "nin2006-06-16.mk4.crimson.0.flac1644.txt"
     },
     {
       "year": 2006,
@@ -7760,7 +8329,8 @@ const ARTIST_DATA = {
       "venue": "Jones Beach Theater",
       "notes": "Sony ECM-719 + MZ-R700 \u00b7 irnbruise",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "nin2006-06-17.ecm719.irnbruise.0.flac1644.txt"
     },
     {
       "year": 2006,
@@ -7773,7 +8343,8 @@ const ARTIST_DATA = {
       "venue": "Saratoga Performing Arts Center",
       "notes": "CSBs + BB \u00b7 ryanj",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "nin2006-06-18.csb.sim.0.flac1644.txt"
     },
     {
       "year": 2006,
@@ -7786,7 +8357,8 @@ const ARTIST_DATA = {
       "venue": "New England Dodge Music Center",
       "notes": "AT853 \u00b7 davepeck",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "nin2006-06-20.at853.dave.0.flac1644.txt"
     },
     {
       "year": 2006,
@@ -7799,7 +8371,8 @@ const ARTIST_DATA = {
       "venue": "New England Dodge Music Center",
       "notes": "MK4s \u00b7 crimson",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "nin2006-06-20.mk4.crimson.0.flac1644.txt"
     },
     {
       "year": 2006,
@@ -7812,7 +8385,8 @@ const ARTIST_DATA = {
       "venue": "Cumberland County Arena",
       "notes": "MK4s \u00b7 crimson",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "nin2006-06-21.mk4.crimson.0.flac1644.txt"
     },
     {
       "year": 2006,
@@ -7825,7 +8399,8 @@ const ARTIST_DATA = {
       "venue": "Tweeter Center",
       "notes": "Sony MZ-RH910 \u00b7 screamingslave",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "nin2006-06-23.csb.screamingslave.0.flac1644.txt"
     },
     {
       "year": 2006,
@@ -7838,7 +8413,8 @@ const ARTIST_DATA = {
       "venue": "Tweeter Center",
       "notes": "Trent Reznor",
       "version": "PRO",
-      "format": "MOV"
+      "format": "MOV",
+      "textFile": "trentreznor2006-06-23.pro.nin.0.mov720p.txt"
     },
     {
       "year": 2006,
@@ -7851,7 +8427,8 @@ const ARTIST_DATA = {
       "venue": "Tweeter Center",
       "notes": "Trent Reznor",
       "version": "SBD",
-      "format": "MP3"
+      "format": "MP3",
+      "textFile": "trentreznor2006-06-23.sbd.nin.0.mp3320.txt"
     },
     {
       "year": 2006,
@@ -7864,7 +8441,8 @@ const ARTIST_DATA = {
       "venue": "Molson Amphitheatre",
       "notes": "ECM-719 \u00b7 krewe chief",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "nin2006-06-24.ecm719.krewechief.0.flac1644.txt"
     },
     {
       "year": 2006,
@@ -7877,7 +8455,8 @@ const ARTIST_DATA = {
       "venue": "Molson Amphitheatre",
       "notes": "Sony ICD-MX20 \u00b7 guitarrednfeathered",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "nin2006-06-24.mx20.guitarrednfeathered.2.flac1644.txt"
     },
     {
       "year": 2006,
@@ -7890,7 +8469,8 @@ const ARTIST_DATA = {
       "venue": "DTE Energy Music Theater",
       "notes": "DPA 4060 \u00b7 live2cd",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "nin2006-06-25.dpa4060.cole.0.flac1644.txt"
     },
     {
       "year": 2006,
@@ -7903,7 +8483,8 @@ const ARTIST_DATA = {
       "venue": "DTE Energy Music Theater",
       "notes": "DPA 4061 \u00b7 aaron",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "nin2006-06-25.dpa4061.aaron41.0.flac1644.txt"
     },
     {
       "year": 2006,
@@ -7916,7 +8497,8 @@ const ARTIST_DATA = {
       "venue": "Blossom Music Theater",
       "notes": "Hi-MD \u00b7 unk \u00b7 hazekiah",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "nin2006-06-27.unknown.hazekiah.0.flac1644.txt"
     },
     {
       "year": 2006,
@@ -7929,7 +8511,8 @@ const ARTIST_DATA = {
       "venue": "Germain Amphitheater",
       "notes": "Hi-MD \u00b7 unk \u00b7 hazekiah",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "nin2006-06-28.unknown.hazekiah.0.flac1644.txt"
     },
     {
       "year": 2006,
@@ -7942,7 +8525,8 @@ const ARTIST_DATA = {
       "venue": "Post-Gazette Pavilion",
       "notes": "CSB \u00b7 screamingslave",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "nin2006-06-30.csb.screamingslave.0.flac1644.txt"
     },
     {
       "year": 2006,
@@ -7955,7 +8539,8 @@ const ARTIST_DATA = {
       "venue": "First Midwest Band Amphitheatre",
       "notes": "HEB 4060 \u00b7 jb",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "nin2006-07-01.dsc-p100.berlamont.1.ntsc.dvd.txt"
     },
     {
       "year": 2006,
@@ -7968,7 +8553,8 @@ const ARTIST_DATA = {
       "venue": "First Midwest Band Amphitheatre",
       "notes": "Hi-MD \u00b7 unk \u00b7 hazekiah",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "nin2006-07-01.heb.jb.0.flac1644.txt"
     },
     {
       "year": 2006,
@@ -7981,7 +8567,8 @@ const ARTIST_DATA = {
       "venue": "First Midwest Band Amphitheatre",
       "notes": "Trent Reznor",
       "version": "SBD",
-      "format": "M4A"
+      "format": "M4A",
+      "textFile": "nin2006-07-01.unknown.hazekiah.0.flac1644.txt"
     },
     {
       "year": 2006,
@@ -7994,7 +8581,8 @@ const ARTIST_DATA = {
       "venue": "First Midwest Band Amphitheatre",
       "notes": "Trent Reznor \u00b7 zoethebulldog",
       "version": "SBD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "trentreznor2006-07-01.sbd.nin.0.m4a128.txt"
     },
     {
       "year": 2006,
@@ -8007,7 +8595,8 @@ const ARTIST_DATA = {
       "venue": "First Midwest Band Amphitheatre",
       "notes": "Sony Cybershot DSC-P100 \u00b7 berlamont",
       "version": "AUD",
-      "format": "DVD"
+      "format": "DVD",
+      "textFile": "trentreznor2006-07-01.sbd.q101.0.flac1644.txt"
     },
     {
       "year": 2006,
@@ -8020,7 +8609,8 @@ const ARTIST_DATA = {
       "venue": "Marcus Amphitheater",
       "notes": "DPA 4060 \u00b7 jb",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "nin2006-07-02.dpa4060.jb.0.flac1644.txt"
     },
     {
       "year": 2006,
@@ -8033,7 +8623,8 @@ const ARTIST_DATA = {
       "venue": "Marcus Amphitheater",
       "notes": "Hi-MD \u00b7 unk \u00b7 hazekiah",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "nin2006-07-02.unknown.hazekiah.0.flac1644.txt"
     },
     {
       "year": 2006,
@@ -8046,7 +8637,8 @@ const ARTIST_DATA = {
       "venue": "Verizon Wireless Center",
       "notes": "DPA 4023 \u00b7 george wang",
       "version": "AUD",
-      "format": "FLAC 24"
+      "format": "FLAC 24",
+      "textFile": "nin2006-07-03.dpa4023.george.0.flac2444.txt"
     },
     {
       "year": 2006,
@@ -8059,7 +8651,8 @@ const ARTIST_DATA = {
       "venue": "Verizon Wireless Amphitheatre",
       "notes": "slickmode",
       "version": "IEM",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "nin2006-07-07.csb.notorioustimp.0.flac1644.txt"
     },
     {
       "year": 2006,
@@ -8072,7 +8665,8 @@ const ARTIST_DATA = {
       "venue": "Verizon Wireless Amphitheatre",
       "notes": "MD(M) \u00b7 CSBs + BB \u00b7 notorioustimp",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "nin2006-07-07.csb.screamingslave.0.flac1644.txt"
     },
     {
       "year": 2006,
@@ -8085,7 +8679,8 @@ const ARTIST_DATA = {
       "venue": "Verizon Wireless Amphitheatre",
       "notes": "CSB \u00b7 screamingslave",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "nin2006-07-07.iem.slickmode.unknown.flac1644.txt"
     },
     {
       "year": 2006,
@@ -8098,7 +8693,8 @@ const ARTIST_DATA = {
       "venue": "Verizon Wireless Amphitheatre",
       "notes": "CSB + Trent's IEM \u00b7 sl-slick",
       "version": "MTX",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "nin2006-07-07.mtx.sl-slick.0.flac1644.txt"
     },
     {
       "year": 2006,
@@ -8111,7 +8707,8 @@ const ARTIST_DATA = {
       "venue": "Shoreline Amphitheater",
       "notes": "MD(M) \u00b7 CSBs + BB \u00b7 notorioustimp",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "nin2006-07-08.csb.notorioustimp.0.flac1644.txt"
     },
     {
       "year": 2006,
@@ -8124,7 +8721,8 @@ const ARTIST_DATA = {
       "venue": "Shoreline Amphitheater",
       "notes": "CSB \u00b7 screamingslave",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "nin2006-07-08.csb.screamingslave.0.flac1644.txt"
     },
     {
       "year": 2006,
@@ -8137,7 +8735,8 @@ const ARTIST_DATA = {
       "venue": "Shoreline Amphitheater",
       "notes": "Bridge \u00b7 Trent Reznor \u00b7 CCM4 \u00b7 unk",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "trentreznor2006-10-21.ccm4.unknown.0.flac1644.txt"
     },
     {
       "year": 2006,
@@ -8150,7 +8749,8 @@ const ARTIST_DATA = {
       "venue": "Shoreline Amphitheater",
       "notes": "Bridge \u00b7 Trent Reznor \u00b7 CCM4 \u00b7 unk",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "trentreznor2006-10-22.ccm4.unknown.0.flac1644.txt"
     },
     {
       "year": 2006,
@@ -8163,7 +8763,8 @@ const ARTIST_DATA = {
       "venue": "Shoreline Amphitheater Bridge School Benefit",
       "notes": "Trent Reznor \u00b7 unk",
       "version": "AUD",
-      "format": "DVD"
+      "format": "DVD",
+      "textFile": "trentreznor2006-10-22.unknown.unknown.0.ntsc.dvd.txt"
     },
     {
       "year": 2007,
@@ -8176,7 +8777,8 @@ const ARTIST_DATA = {
       "venue": "Coliseu dos Recreios",
       "notes": "AT943s \u00b7 j.mart",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "nin2007-02-10.at943.jmart.0.flac1644.txt"
     },
     {
       "year": 2007,
@@ -8189,7 +8791,8 @@ const ARTIST_DATA = {
       "venue": "Coliseu dos Recreios",
       "notes": "ECM-717 \u00b7 ziggy",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "nin2007-02-12.ecm717.ziggy.0.flac1644.txt"
     },
     {
       "year": 2007,
@@ -8202,7 +8805,8 @@ const ARTIST_DATA = {
       "venue": "La Riviera",
       "notes": "Sharp MT-877 \u00b7 js",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "nin2007-02-14.csc.js.0.flac1644.txt"
     },
     {
       "year": 2007,
@@ -8215,7 +8819,8 @@ const ARTIST_DATA = {
       "venue": "",
       "notes": "",
       "version": "AUD",
-      "format": "MPG"
+      "format": "MPG",
+      "textFile": "nin2007-02-18.cybershot.unknown.0.mpg480i.txt"
     },
     {
       "year": 2007,
@@ -8228,7 +8833,8 @@ const ARTIST_DATA = {
       "venue": "Olympia",
       "notes": "unk \u00b7 sebgob",
       "version": "AUD",
-      "format": "MP4"
+      "format": "MP4",
+      "textFile": "nin2007-02-21.unknown.segbob.0.mp4280.txt"
     },
     {
       "year": 2007,
@@ -8241,7 +8847,8 @@ const ARTIST_DATA = {
       "venue": "L'Olympia Bruno Coquatrix",
       "notes": "DAT(M) \u00b7 ECM-MS 907 \u00b7 yann",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "nin2007-02-22.ms907.yb.0.flac1644.txt"
     },
     {
       "year": 2007,
@@ -8254,7 +8861,8 @@ const ARTIST_DATA = {
       "venue": "L'Olympia Bruno Coquatrix",
       "notes": "Sharp MD \u00b7 damien jones",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "nin2007-02-22.sony.dj.0.flac1644.txt"
     },
     {
       "year": 2007,
@@ -8267,7 +8875,8 @@ const ARTIST_DATA = {
       "venue": "Zenith Arena",
       "notes": "CMC-2 \u00b7 unk",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "nin2007-02-23.cmc2.unknown.0.flac1644.txt"
     },
     {
       "year": 2007,
@@ -8280,7 +8889,8 @@ const ARTIST_DATA = {
       "venue": "Apollo",
       "notes": "AT853 \u00b7 unk",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "nin2007-02-25.at853.unknown.0.flac1644.txt"
     },
     {
       "year": 2007,
@@ -8293,7 +8903,8 @@ const ARTIST_DATA = {
       "venue": "Apollo",
       "notes": "ECM-719 \u00b7 big clive",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "nin2007-02-25.ecm-719.bigclive.0.flac1644.txt"
     },
     {
       "year": 2007,
@@ -8306,7 +8917,8 @@ const ARTIST_DATA = {
       "venue": "Apollo",
       "notes": "MD(M) \u00b7 Sony ECM 717 \u00b7 polewka",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "nin2007-02-25.ecm717.polewka.0.flac1644.txt"
     },
     {
       "year": 2007,
@@ -8319,7 +8931,8 @@ const ARTIST_DATA = {
       "venue": "Apollo",
       "notes": "MD(M) \u00b7 Sony ECM 717 \u00b7 polewka",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "nin2007-02-26.ecm717.polewka.0.flac1644.txt"
     },
     {
       "year": 2007,
@@ -8332,7 +8945,8 @@ const ARTIST_DATA = {
       "venue": "Apollo",
       "notes": "unk",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "nin2007-02-26.unknown.unknown.1.flac1644.txt"
     },
     {
       "year": 2007,
@@ -8345,7 +8959,8 @@ const ARTIST_DATA = {
       "venue": "Nottingham Arena",
       "notes": "DPA 4061s \u00b7 rob",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "nin2007-03-03.dpa4061.rob.0.flac1644.txt"
     },
     {
       "year": 2007,
@@ -8358,7 +8973,8 @@ const ARTIST_DATA = {
       "venue": "Brixton Academy",
       "notes": "ECM-DS70P \u00b7 unk",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "nin2007-03-07.ecmds70p.unknown.0.flac1644.txt"
     },
     {
       "year": 2007,
@@ -8371,7 +8987,8 @@ const ARTIST_DATA = {
       "venue": "Brixton Academy",
       "notes": "unk",
       "version": "AUD",
-      "format": "DVD"
+      "format": "DVD",
+      "textFile": "nin2007-03-08.unknown.unknown.unknown.ntsc.dvd.txt"
     },
     {
       "year": 2007,
@@ -8384,7 +9001,8 @@ const ARTIST_DATA = {
       "venue": "Brixton Carling Academy",
       "notes": "CSB \u00b7 screamingslave",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "nin2007-03-10.csb.screamingslave.0.flac1644.txt"
     },
     {
       "year": 2007,
@@ -8397,7 +9015,8 @@ const ARTIST_DATA = {
       "venue": "Brixton Carling Academy",
       "notes": "CSB \u00b7 screamingslave",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "nin2007-03-11.csb.screamingslave.0.flac1644.txt"
     },
     {
       "year": 2007,
@@ -8410,7 +9029,8 @@ const ARTIST_DATA = {
       "venue": "Ancienne Belgique",
       "notes": "Hi-MD \u00b7 ECM-717 \u00b7 unk",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "nin2007-03-19.ecm717.unknown.0.flac1644.txt"
     },
     {
       "year": 2007,
@@ -8423,7 +9043,8 @@ const ARTIST_DATA = {
       "venue": "",
       "notes": "",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "nin2007-03-22.mcsm4.madmaster.0.flac1644.txt"
     },
     {
       "year": 2007,
@@ -8436,7 +9057,8 @@ const ARTIST_DATA = {
       "venue": "Columbiahalle",
       "notes": "ECM-717 \u00b7 ht",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "nin2007-03-24.ecm-717.ht.0.flac1644.txt"
     },
     {
       "year": 2007,
@@ -8449,7 +9071,8 @@ const ARTIST_DATA = {
       "venue": "Columbiahalle",
       "notes": "unk",
       "version": "AUD",
-      "format": "DVD"
+      "format": "DVD",
+      "textFile": "nin2007-03-24.unknown.unknown.unknown.pal.dvd.txt"
     },
     {
       "year": 2007,
@@ -8462,7 +9085,8 @@ const ARTIST_DATA = {
       "venue": "Columbiahalle",
       "notes": "unk",
       "version": "AUD",
-      "format": "DVD"
+      "format": "DVD",
+      "textFile": "nin2007-03-25.unknown.unknown.unknown.flac1644.txt"
     },
     {
       "year": 2007,
@@ -8475,7 +9099,8 @@ const ARTIST_DATA = {
       "venue": "Porsche-Arena",
       "notes": "ECM-719 \u00b7 elysium",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "nin2007-03-26.ecm719.elysium.0.flac1644.txt"
     },
     {
       "year": 2007,
@@ -8488,7 +9113,8 @@ const ARTIST_DATA = {
       "venue": "Zenith",
       "notes": "unk \u00b7 darren mills",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "nin2007-03-28.unknown.darrenmills.0.flac1644.txt"
     },
     {
       "year": 2007,
@@ -8501,7 +9127,8 @@ const ARTIST_DATA = {
       "venue": "Gasometer",
       "notes": "AT-U853c \u00b7 mrruin",
       "version": "AUD",
-      "format": "FLAC 24"
+      "format": "FLAC 24",
+      "textFile": "nin2007-03-29.atu853.mrruin.0.flac2448.txt"
     },
     {
       "year": 2007,
@@ -8514,7 +9141,8 @@ const ARTIST_DATA = {
       "venue": "Gasometer",
       "notes": "unk \u00b7 antihero",
       "version": "AUD",
-      "format": "DVD"
+      "format": "DVD",
+      "textFile": "nin2007-03-29.unknown.antihero.0.pal.dvd.txt"
     },
     {
       "year": 2007,
@@ -8527,7 +9155,8 @@ const ARTIST_DATA = {
       "venue": "Gasometer",
       "notes": "AT-U853c \u00b7 mrruin",
       "version": "AUD",
-      "format": "FLAC 24"
+      "format": "FLAC 24",
+      "textFile": "nin2007-03-30.atu853.mrruin.0.flac2448.txt"
     },
     {
       "year": 2007,
@@ -8540,7 +9169,8 @@ const ARTIST_DATA = {
       "venue": "Gasometer",
       "notes": "unk \u00b7 antihero",
       "version": "AUD",
-      "format": "DVD"
+      "format": "DVD",
+      "textFile": "nin2007-03-30.unknown.antihero.0.pal.dvd.txt"
     },
     {
       "year": 2007,
@@ -8553,7 +9183,8 @@ const ARTIST_DATA = {
       "venue": "Alcatraz",
       "notes": "unk",
       "version": "AUD",
-      "format": "MP3"
+      "format": "MP3",
+      "textFile": "nin2007-04-01.unknown.unknown.unknown.mp3192.txt"
     },
     {
       "year": 2007,
@@ -8566,7 +9197,8 @@ const ARTIST_DATA = {
       "venue": "Jahrhunderthalle",
       "notes": "CSB \u00b7 jadg2",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "nin2007-04-04.csb.jadg2.0.flac1644.txt"
     },
     {
       "year": 2007,
@@ -8579,7 +9211,8 @@ const ARTIST_DATA = {
       "venue": "Jahrhunderthalle",
       "notes": "ECM-717 \u00b7 kabi225",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "nin2007-04-04.ecm717.kabi225.0.flac1644.txt"
     },
     {
       "year": 2007,
@@ -8592,7 +9225,8 @@ const ARTIST_DATA = {
       "venue": "Vega",
       "notes": "unk \u00b7 darren_mills",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "nin2007-04-06.unknown.darrenmills.0.flac1644.txt"
     },
     {
       "year": 2007,
@@ -8605,7 +9239,8 @@ const ARTIST_DATA = {
       "venue": "Lacy Street Studios",
       "notes": "Open",
       "version": "WEB",
-      "format": "MP3"
+      "format": "MP3",
+      "textFile": "nin2007-04-18.nin.webcast.0.mp364.txt"
     },
     {
       "year": 2007,
@@ -8618,7 +9253,8 @@ const ARTIST_DATA = {
       "venue": "Lacy Street Studios",
       "notes": "Open",
       "version": "WEB",
-      "format": "AVI"
+      "format": "AVI",
+      "textFile": "nin2007-04-18.osr.unknown.0.avi256p.txt"
     },
     {
       "year": 2007,
@@ -8631,7 +9267,8 @@ const ARTIST_DATA = {
       "venue": "The Metro",
       "notes": "ECM-DS70P \u00b7 kingbean master",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "nin2007-05-13.ds70p.kingbean.0.flac1644.txt"
     },
     {
       "year": 2007,
@@ -8644,7 +9281,8 @@ const ARTIST_DATA = {
       "venue": "The Metro",
       "notes": "ECM-717 \u00b7 gary",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "nin2007-05-13.ecm717.gary.0.flac1644.txt"
     },
     {
       "year": 2007,
@@ -8657,7 +9295,8 @@ const ARTIST_DATA = {
       "venue": "The Metro",
       "notes": "ECM-DS70P \u00b7 eatyourblind",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "nin2007-05-13.ecmds70p.eatyourblud.0.flac1644.txt"
     },
     {
       "year": 2007,
@@ -8670,7 +9309,8 @@ const ARTIST_DATA = {
       "venue": "The Metro",
       "notes": "unk",
       "version": "AUD",
-      "format": "DVD"
+      "format": "DVD",
+      "textFile": "nin2007-05-13.unknown.unknown.unknown.pal.dvd.txt"
     },
     {
       "year": 2007,
@@ -8683,7 +9323,8 @@ const ARTIST_DATA = {
       "venue": "Metro Nightclub",
       "notes": "ECM-717 \u00b7 gary",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "nin2007-05-14.ecm717.gary.0.flac1644.txt"
     },
     {
       "year": 2007,
@@ -8696,7 +9337,8 @@ const ARTIST_DATA = {
       "venue": "The Metro",
       "notes": "ECM-DS70P \u00b7 kingbean master",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "nin2007-05-15.ecmds70p.kingbean.0.flac1644.txt"
     },
     {
       "year": 2007,
@@ -8709,7 +9351,8 @@ const ARTIST_DATA = {
       "venue": "Studio Coast *This Is The Beginning",
       "notes": "thebang",
       "version": "Silver CD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "nin2007-05-18.silver.thisisthebeginning.0.flac1644.txt"
     },
     {
       "year": 2007,
@@ -8722,7 +9365,8 @@ const ARTIST_DATA = {
       "venue": "Shinkiba Studio *#013 The Flame's End",
       "notes": "DPA 4061 \u00b7 35",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "nin2007-05-19.heb.35.0.flac1644.txt"
     },
     {
       "year": 2007,
@@ -8735,7 +9379,8 @@ const ARTIST_DATA = {
       "venue": "Shinkiba Studio",
       "notes": "DPA 4061 \u00b7 35",
       "version": "AUD",
-      "format": "FLAC 24"
+      "format": "FLAC 24",
+      "textFile": "nin2007-05-20.heb.35.0.flac2448.txt"
     },
     {
       "year": 2007,
@@ -8748,7 +9393,8 @@ const ARTIST_DATA = {
       "venue": "Zepp Nagoya *What You Want From Me?",
       "notes": "thebang",
       "version": "Silver CD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "nin2007-05-22.silver.whatyouwantfromme.0.flac1644.txt"
     },
     {
       "year": 2007,
@@ -8761,7 +9407,8 @@ const ARTIST_DATA = {
       "venue": "Zepp Osaka *Revisionism",
       "notes": "thebang",
       "version": "Silver CD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "nin2007-05-23.silver.revisionism.0.flac1644.txt"
     },
     {
       "year": 2007,
@@ -8774,7 +9421,8 @@ const ARTIST_DATA = {
       "venue": "Zepp Osaka *My Violence",
       "notes": "thebang",
       "version": "Silver CD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "nin2007-05-24.silver.myviolence.0.flac1644.txt"
     },
     {
       "year": 2007,
@@ -8787,7 +9435,8 @@ const ARTIST_DATA = {
       "venue": "Zepp Osaka",
       "notes": "unk",
       "version": "",
-      "format": "MP3"
+      "format": "MP3",
+      "textFile": "nin2007-05-24.unknown.unknown.0.mp3192.txt"
     },
     {
       "year": 2007,
@@ -8800,7 +9449,8 @@ const ARTIST_DATA = {
       "venue": "Small Sports Arena",
       "notes": "SP-CMC-10 \u00b7 alex l.",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "nin2007-08-01.cmc10.alexl.0.flac1644.txt"
     },
     {
       "year": 2007,
@@ -8813,7 +9463,8 @@ const ARTIST_DATA = {
       "venue": "Small Sports Arena",
       "notes": "Hi-MD \u00b7 VC201 \u00b7 wadson",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "nin2007-08-01.vc201.wadson.1.flac1644.txt"
     },
     {
       "year": 2007,
@@ -8826,7 +9477,8 @@ const ARTIST_DATA = {
       "venue": "Jubeleyny Arena",
       "notes": "SP-CMC-10 \u00b7 alex l.",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "nin2007-08-03.cmc10.alexl.0.flac1644.txt"
     },
     {
       "year": 2007,
@@ -8839,7 +9491,8 @@ const ARTIST_DATA = {
       "venue": "Ankkarock Festival",
       "notes": "ECM-719 \u00b7 bmr",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "nin2007-08-05.ecm719.bmr.0.flac1644.txt"
     },
     {
       "year": 2007,
@@ -8852,7 +9505,8 @@ const ARTIST_DATA = {
       "venue": "Oya Festival",
       "notes": "NRK TV \u00b7 nicolai sorenson",
       "version": "PRO",
-      "format": "MP4"
+      "format": "MP4",
+      "textFile": "nin2007-08-08.pro.nicolaisorensen.1.mp4480p.txt"
     },
     {
       "year": 2007,
@@ -8865,7 +9519,8 @@ const ARTIST_DATA = {
       "venue": "Sziget Open Air",
       "notes": "AT-U853c \u00b7 mrruin",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "nin2007-08-11.atu853.mrruin.0.flac1644.txt"
     },
     {
       "year": 2007,
@@ -8878,7 +9533,8 @@ const ARTIST_DATA = {
       "venue": "Incheba Hall",
       "notes": "unk",
       "version": "AUD",
-      "format": "MP3"
+      "format": "MP3",
+      "textFile": "nin2007-08-12.unknown.unknown.unknown.mp3320.txt"
     },
     {
       "year": 2007,
@@ -8891,7 +9547,8 @@ const ARTIST_DATA = {
       "venue": "Zimn\u00ed stadion Eden",
       "notes": "unk \u00b7 fikus",
       "version": "AUD",
-      "format": "MP3"
+      "format": "MP3",
+      "textFile": "nin2007-08-13.unknown.fikus.0.mp3320.txt"
     },
     {
       "year": 2007,
@@ -8904,7 +9561,8 @@ const ARTIST_DATA = {
       "venue": "Frequency Open Air Festival",
       "notes": "AT-U853c \u00b7 mrruin",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "nin2007-08-16.atu853.mrruin.0.flac1644.txt"
     },
     {
       "year": 2007,
@@ -8917,7 +9575,8 @@ const ARTIST_DATA = {
       "venue": "Meadowbank Stadium",
       "notes": "CMC2a \u00b7 unk",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "nin2007-08-21.cmc2a.unknown.0.flac1644.txt"
     },
     {
       "year": 2007,
@@ -8930,7 +9589,8 @@ const ARTIST_DATA = {
       "venue": "Marley Park",
       "notes": "Aiwa Lapel \u00b7 kunt4life",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "nin2007-08-22.aiwalapel.kunt4life.0.flac1644.txt"
     },
     {
       "year": 2007,
@@ -8943,7 +9603,8 @@ const ARTIST_DATA = {
       "venue": "Reading Festival",
       "notes": "DPA 4061 \u00b7 rob",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "nin2007-08-26.dpa4061.rob.0.flac1644.txt"
     },
     {
       "year": 2007,
@@ -8956,7 +9617,8 @@ const ARTIST_DATA = {
       "venue": "Reading Festival",
       "notes": "Sky Digital",
       "version": "PRO",
-      "format": "DVD"
+      "format": "DVD",
+      "textFile": "nin2007-08-26.proshot.skydigital.1.pal.dvd.txt"
     },
     {
       "year": 2007,
@@ -8969,7 +9631,8 @@ const ARTIST_DATA = {
       "venue": "Reading Festival",
       "notes": "Sharp MD-RA03S \u00b7 miky",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "nin2007-08-26.ra03s.miky.0.flac1644.txt"
     },
     {
       "year": 2007,
@@ -8982,7 +9645,8 @@ const ARTIST_DATA = {
       "venue": "Carling Academy",
       "notes": "MD(M) \u00b7 ECM-717 \u00b7 polewka",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "nin2007-08-28.ecm717.polewka.0.flac1644.txt"
     },
     {
       "year": 2007,
@@ -8995,7 +9659,8 @@ const ARTIST_DATA = {
       "venue": "Civic Hall",
       "notes": "EM-8 \u00b7 bobstammers",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "nin2007-08-30.em8.bobstammers.0.flac1644.txt"
     },
     {
       "year": 2007,
@@ -9008,7 +9673,8 @@ const ARTIST_DATA = {
       "venue": "Arena Parco Nord",
       "notes": "Independent \u00b7 D340 \u00b7 miky",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "nin2007-09-02.d340.miky.0.flac1644.txt"
     },
     {
       "year": 2007,
@@ -9021,7 +9687,8 @@ const ARTIST_DATA = {
       "venue": "Arena Parco Nord",
       "notes": "Independent \u00b7 DPA 4061s \u00b7 wis",
       "version": "AUD (48k)",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "nin2007-09-02.dpa4061.wis.1.flac1648.txt"
     },
     {
       "year": 2007,
@@ -9034,7 +9701,8 @@ const ARTIST_DATA = {
       "venue": "Arena Parco Nord",
       "notes": "Independent \u00b7 D340 \u00b7 miky \u00b7 streetspirit",
       "version": "AUD",
-      "format": "DVD"
+      "format": "DVD",
+      "textFile": "nin2007-09-02.multicam.miky-streetspirit.0.pal.dvd.txt"
     },
     {
       "year": 2007,
@@ -9047,7 +9715,8 @@ const ARTIST_DATA = {
       "venue": "Blasidell Arena",
       "notes": "Internal mic \u00b7 unk",
       "version": "AUD",
-      "format": "MP3"
+      "format": "MP3",
+      "textFile": "nin2007-09-18.internalmic.unknown.mp3128.txt"
     },
     {
       "year": 2008,
@@ -9060,7 +9729,8 @@ const ARTIST_DATA = {
       "venue": "The Forum",
       "notes": "Tour Rehearsal \u00b7 Panasonic HD Camcorder \u00b7 anonymous",
       "version": "AUD",
-      "format": "MKV"
+      "format": "MKV",
+      "textFile": "nin2008-07-19.panasonichd.anonymous.0.mkv720p.txt"
     },
     {
       "year": 2008,
@@ -9073,7 +9743,8 @@ const ARTIST_DATA = {
       "venue": "Pemberton Music Festival",
       "notes": "ST-11 \u00b7 seth",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "nin2008-07-25.st11.seth.0.flac1644.txt"
     },
     {
       "year": 2008,
@@ -9086,7 +9757,8 @@ const ARTIST_DATA = {
       "venue": "Key Arena",
       "notes": "SP-CMC4 \u00b7 kris",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "nin2008-07-26.cmc4u.kris.0.flac1644.txt"
     },
     {
       "year": 2008,
@@ -9099,7 +9771,8 @@ const ARTIST_DATA = {
       "venue": "Key Arena",
       "notes": "CSB \u00b7 acc123456",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "nin2008-07-26.csb.acc123456.0.flac1644.txt"
     },
     {
       "year": 2008,
@@ -9112,7 +9785,8 @@ const ARTIST_DATA = {
       "venue": "Key Arena",
       "notes": "CSC \u00b7 jfb transfer",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "nin2008-07-26.csc.jfb.0.flac1644.txt"
     },
     {
       "year": 2008,
@@ -9125,7 +9799,8 @@ const ARTIST_DATA = {
       "venue": "Key Arena",
       "notes": "SS DSM6 \u00b7 b.c.",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "nin2008-07-26.dsm6.bc.0.flac1644.txt"
     },
     {
       "year": 2008,
@@ -9138,7 +9813,8 @@ const ARTIST_DATA = {
       "venue": "Grant Park",
       "notes": "Lollapalooza \u00b7 DPA 4061s \u00b7 tapeworm48",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "nin2008-08-03.dpa4061.tapeworm48.0.flac1644.txt"
     },
     {
       "year": 2008,
@@ -9151,7 +9827,8 @@ const ARTIST_DATA = {
       "venue": "Grant Park",
       "notes": "Lollapalooza \u00b7 Sanson H4 \u00b7 radiokid311",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "nin2008-08-03.h4.radiokid311.0.flac1644.txt"
     },
     {
       "year": 2008,
@@ -9164,7 +9841,8 @@ const ARTIST_DATA = {
       "venue": "Grant Park",
       "notes": "Lollapalooza \u00b7 MM-HLSC-1 \u00b7 sin213",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "nin2008-08-03.hlsc1.sin213.0.flac1644.txt"
     },
     {
       "year": 2008,
@@ -9177,7 +9855,8 @@ const ARTIST_DATA = {
       "venue": "Grant Park",
       "notes": "Lollapalooza \u00b7 multi-cam \u00b7 sin213",
       "version": "AUD",
-      "format": "MP4"
+      "format": "MP4",
+      "textFile": "nin2008-08-03.multi.fillow.0.mp4480p.txt"
     },
     {
       "year": 2008,
@@ -9190,7 +9869,8 @@ const ARTIST_DATA = {
       "venue": "Air Canada Centre",
       "notes": "CAC \u00b7 krewe chief",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "nin2008-08-05.cac.krewechief.0.flac1644.txt"
     },
     {
       "year": 2008,
@@ -9203,7 +9883,8 @@ const ARTIST_DATA = {
       "venue": "Mohegan Sun Arena",
       "notes": "CSB \u00b7 screamingslave",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "nin2008-08-07.csb.screamingslave.0.flac1644.txt"
     },
     {
       "year": 2008,
@@ -9216,7 +9897,8 @@ const ARTIST_DATA = {
       "venue": "Pimlico Racetrack",
       "notes": "CA-14's \u00b7 travelinbeat",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "nin2008-08-10.ca14.travelinbeat.0.flac1644.txt"
     },
     {
       "year": 2008,
@@ -9229,7 +9911,8 @@ const ARTIST_DATA = {
       "venue": "Pimlico Racetrack",
       "notes": "",
       "version": "PRO",
-      "format": "MP4"
+      "format": "MP4",
+      "textFile": "nin2008-08-10.pro.msn.0.mp4480p.txt"
     },
     {
       "year": 2008,
@@ -9242,7 +9925,8 @@ const ARTIST_DATA = {
       "venue": "Knoxville Civic Coliseum",
       "notes": "CSB+CSC \u00b7 xjsb125",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "nin2008-08-12.csb+csc.xjsb125.0.flac2448.txt"
     },
     {
       "year": 2008,
@@ -9255,7 +9939,8 @@ const ARTIST_DATA = {
       "venue": "Gwinnett Center",
       "notes": "SP-BMC-3 \u00b7 garret",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "nin2008-08-13.bmc3.garret.0.flac1644.txt"
     },
     {
       "year": 2008,
@@ -9268,7 +9953,8 @@ const ARTIST_DATA = {
       "venue": "Gwinnett Center",
       "notes": "Sanon H4 \u00b7 radiokid311",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "nin2008-08-13.h4.radiokid311.0.flac1644.txt"
     },
     {
       "year": 2008,
@@ -9281,7 +9967,8 @@ const ARTIST_DATA = {
       "venue": "Ford Center",
       "notes": "Sony MZ-N707 \u00b7 ian roegels",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "nin2008-08-15.unknown.ian.0.flac1644.txt"
     },
     {
       "year": 2008,
@@ -9294,7 +9981,8 @@ const ARTIST_DATA = {
       "venue": "American Airlines Center",
       "notes": "Iriver H320 \u00b7 treeman",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "nin2008-08-18.at.treeman.0.flac1644.txt"
     },
     {
       "year": 2008,
@@ -9307,7 +9995,8 @@ const ARTIST_DATA = {
       "venue": "American Airlines Center",
       "notes": "Sony ECM-909a \u00b7 mr. fang",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "nin2008-08-18.ecm909a.mrfang.0.flac1644.txt"
     },
     {
       "year": 2008,
@@ -9320,7 +10009,8 @@ const ARTIST_DATA = {
       "venue": "Scottrade Center",
       "notes": "SP-CMC-4 \u00b7 eric a.",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "nin2008-08-20.atu853.erica.0.flac1644.txt"
     },
     {
       "year": 2008,
@@ -9333,7 +10023,8 @@ const ARTIST_DATA = {
       "venue": "Scottrade Center",
       "notes": "HF10 \u00b7 chaonatic",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "nin2008-08-20.hf10.chaonatic.0.flac1644.txt"
     },
     {
       "year": 2008,
@@ -9346,7 +10037,8 @@ const ARTIST_DATA = {
       "venue": "Scottrade Center",
       "notes": "HF10 \u00b7 chaonatic",
       "version": "AUD",
-      "format": "MP4"
+      "format": "MP4",
+      "textFile": "nin2008-08-20.hf10.chaonatic.1.mp4720p.txt"
     },
     {
       "year": 2008,
@@ -9359,7 +10051,8 @@ const ARTIST_DATA = {
       "venue": "Quicken Loans Arena",
       "notes": "DPA 4060 \u00b7 ryan j.",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "nin2008-08-22.dpa4060.ryanj.0.flac1644.txt"
     },
     {
       "year": 2008,
@@ -9372,7 +10065,8 @@ const ARTIST_DATA = {
       "venue": "The Palace of Auburn Hills",
       "notes": "DPA 4060 \u00b7 ryan j.",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "nin2008-08-23.dpa4060.ryanj.0.flac1644.txt"
     },
     {
       "year": 2008,
@@ -9385,7 +10079,8 @@ const ARTIST_DATA = {
       "venue": "The Palace of Auburn Hills",
       "notes": "Sony ECM-DS70P \u00b7 gladcarrot",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "nin2008-08-23.ecmds70p.gladcarrot.0.flac1644.txt"
     },
     {
       "year": 2008,
@@ -9398,7 +10093,8 @@ const ARTIST_DATA = {
       "venue": "The Seagate Convention Center",
       "notes": "HEB DPA 4060 \u00b7 live2cd",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "nin2008-08-25.dpa4060.cole.0.flac1644.txt"
     },
     {
       "year": 2008,
@@ -9411,7 +10107,8 @@ const ARTIST_DATA = {
       "venue": "The Seagate Convention Center",
       "notes": "ECM-717 \u00b7 ryan j.",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "nin2008-08-25.dpa4060.ryanj.0.flac1644.txt"
     },
     {
       "year": 2008,
@@ -9424,7 +10121,8 @@ const ARTIST_DATA = {
       "venue": "The Seagate Convention Center",
       "notes": "Sony ECM-DS70P \u00b7 gladcarrot",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "nin2008-08-25.ecmds70p.gladcarrot.0.flac1644.txt"
     },
     {
       "year": 2008,
@@ -9437,7 +10135,8 @@ const ARTIST_DATA = {
       "venue": "Izod Center",
       "notes": "CA-11 \u00b7 al horta",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "nin2008-08-27.ca11.alhorta.0.flac1644.txt"
     },
     {
       "year": 2008,
@@ -9450,7 +10149,8 @@ const ARTIST_DATA = {
       "venue": "Izod Center",
       "notes": "unk",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "nin2008-08-27.unknown.nycbitchcom.unknown.flac1644.txt"
     },
     {
       "year": 2008,
@@ -9463,7 +10163,8 @@ const ARTIST_DATA = {
       "venue": "Izod Center",
       "notes": "unk",
       "version": "AUD",
-      "format": "DVD"
+      "format": "DVD",
+      "textFile": "nin2008-08-27.unknown.nycbitchcommittee.1.ntsc.dvd.txt"
     },
     {
       "year": 2008,
@@ -9476,7 +10177,8 @@ const ARTIST_DATA = {
       "venue": "Wachovia Center",
       "notes": "AT-u853s \u00b7 dassarri",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "nin2008-08-29.atu853.dassarri.0.flac1644.txt"
     },
     {
       "year": 2008,
@@ -9489,7 +10191,8 @@ const ARTIST_DATA = {
       "venue": "Rupp Arena",
       "notes": "SP-BMC-3 \u00b7 garret",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "nin2008-08-31.bmc3.garret.0.flac1644.txt"
     },
     {
       "year": 2008,
@@ -9502,7 +10205,8 @@ const ARTIST_DATA = {
       "venue": "Red Rocks Amphitheatre",
       "notes": "Canon Powershot 770IS",
       "version": "AUD",
-      "format": "DVD"
+      "format": "DVD",
+      "textFile": "nin2008-09-02.770is.araby.0.ntsc.dvd.txt"
     },
     {
       "year": 2008,
@@ -9515,7 +10219,8 @@ const ARTIST_DATA = {
       "venue": "Red Rocks Amphitheatre",
       "notes": "CSB \u00b7 brian blank",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "nin2008-09-02.cslcb.brianblank.0.flac1644.txt"
     },
     {
       "year": 2008,
@@ -9528,7 +10233,8 @@ const ARTIST_DATA = {
       "venue": "Red Rocks Amphitheatre",
       "notes": "DPA 4061 \u00b7 sarah smith",
       "version": "AUD",
-      "format": "FLAC 24"
+      "format": "FLAC 24",
+      "textFile": "nin2008-09-02.dpa4061.sarah.0.flac2448.txt"
     },
     {
       "year": 2008,
@@ -9541,7 +10247,8 @@ const ARTIST_DATA = {
       "venue": "The E-Center",
       "notes": "Canon HV20 \u00b7 thebang",
       "version": "AUD",
-      "format": "MP2"
+      "format": "MP2",
+      "textFile": "nin2008-09-03.hv20.thebang.0.mp2.txt"
     },
     {
       "year": 2008,
@@ -9554,7 +10261,8 @@ const ARTIST_DATA = {
       "venue": "Oracle Arena",
       "notes": "Canon Powershot 770IS \u00b7 araby",
       "version": "AUD",
-      "format": "DVD"
+      "format": "DVD",
+      "textFile": "nin2008-09-05.770is.araby.0.ntsc.dvd.txt"
     },
     {
       "year": 2008,
@@ -9567,7 +10275,8 @@ const ARTIST_DATA = {
       "venue": "Oracle Arena",
       "notes": "Sony MZ-R70 \u00b7 earthquake",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "nin2008-09-05.ca.earthquake.0.flac1644.txt"
     },
     {
       "year": 2008,
@@ -9580,7 +10289,8 @@ const ARTIST_DATA = {
       "venue": "Oracle Arena",
       "notes": "MT(M) \u00b7 DPA 4061s \u00b7 fuzn",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "nin2008-09-05.dpa4061.fuzn.0.flac1644.txt"
     },
     {
       "year": 2008,
@@ -9593,7 +10303,8 @@ const ARTIST_DATA = {
       "venue": "Oracle Arena",
       "notes": "Giant Squid Omni's \u00b7 punkrockster",
       "version": "AUD",
-      "format": "FLAC 24"
+      "format": "FLAC 24",
+      "textFile": "nin2008-09-05.gso.punkrockster.0.flac2448.txt"
     },
     {
       "year": 2008,
@@ -9606,7 +10317,8 @@ const ARTIST_DATA = {
       "venue": "Oracle Arena",
       "notes": "Neumann KM140s \u00b7 wilson 66 master",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "nin2008-09-05.km140.wilson66.1.flac1644.flac.txt"
     },
     {
       "year": 2008,
@@ -9619,7 +10331,8 @@ const ARTIST_DATA = {
       "venue": "Oracle Arena",
       "notes": "unk",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "nin2008-09-05.unknown.unknown.0.flac1644.txt"
     },
     {
       "year": 2008,
@@ -9632,7 +10345,8 @@ const ARTIST_DATA = {
       "venue": "The Forum",
       "notes": "CA-11 \u00b7 shotyd",
       "version": "AUD",
-      "format": "FLAC 24"
+      "format": "FLAC 24",
+      "textFile": "nin2008-09-06.ca11.shotyd.0.flac2448.txt"
     },
     {
       "year": 2008,
@@ -9645,7 +10359,8 @@ const ARTIST_DATA = {
       "venue": "Club Ciudad be Buenos Aires",
       "notes": "10musica",
       "version": "PRO",
-      "format": "DVD"
+      "format": "DVD",
+      "textFile": "nin2008-10-02.pro.10musica.unknown.ntsc.dvd.txt"
     },
     {
       "year": 2008,
@@ -9658,7 +10373,8 @@ const ARTIST_DATA = {
       "venue": "Arena Movistar",
       "notes": "unk",
       "version": "FM",
-      "format": "MP3"
+      "format": "MP3",
+      "textFile": "nin2008-10-04.fm.unknown.unknown.mp3192.txt"
     },
     {
       "year": 2008,
@@ -9671,7 +10387,8 @@ const ARTIST_DATA = {
       "venue": "Arena Movistar",
       "notes": "MM-MCSM-5 \u00b7 faaipde0aid",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "nin2008-10-04.mcsm5.faaipdeoiad.0.flac1644.txt"
     },
     {
       "year": 2008,
@@ -9684,7 +10401,8 @@ const ARTIST_DATA = {
       "venue": "Arena Movistar",
       "notes": "Multi-cam",
       "version": "AUD",
-      "format": "DVD"
+      "format": "DVD",
+      "textFile": "nin2008-10-04.multi.afterallthistime.0.ntsc.dvd.txt"
     },
     {
       "year": 2008,
@@ -9697,7 +10415,8 @@ const ARTIST_DATA = {
       "venue": "Poliedro de Carcas",
       "notes": "unk \u00b7 jose castillo + friends",
       "version": "AUD",
-      "format": "MKV"
+      "format": "MKV",
+      "textFile": "nin2008-10-08.unknown.josecastillo.1.mkv480p.txt"
     },
     {
       "year": 2008,
@@ -9710,7 +10429,8 @@ const ARTIST_DATA = {
       "venue": "Foro Sol",
       "notes": "SP-CMC-2 \u00b7 migmanson",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "nin2008-10-18.cmc2.migmanson.0.flac1644.txt"
     },
     {
       "year": 2008,
@@ -9723,7 +10443,8 @@ const ARTIST_DATA = {
       "venue": "Foro Sol",
       "notes": "unk",
       "version": "AUD",
-      "format": "MP4"
+      "format": "MP4",
+      "textFile": "nin2008-10-18.unknown.unknown.unknown.mp4414p.txt"
     },
     {
       "year": 2008,
@@ -9736,7 +10457,8 @@ const ARTIST_DATA = {
       "venue": "Arena Monterrey",
       "notes": "SP-CMC-2 \u00b7 migmanson",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "nin2008-10-21.cmc2.migmanson.0.flac1644.txt"
     },
     {
       "year": 2008,
@@ -9749,7 +10471,8 @@ const ARTIST_DATA = {
       "venue": "Arena Monterrey",
       "notes": "Sony HDR-TG1 \u00b7 migmanson",
       "version": "AUD",
-      "format": "MKV"
+      "format": "MKV",
+      "textFile": "nin2008-10-21.hdr-tg1.migmanson.0.mkv720p.txt"
     },
     {
       "year": 2008,
@@ -9762,7 +10485,8 @@ const ARTIST_DATA = {
       "venue": "AT&T Center",
       "notes": "CA-11 \u00b7 aleal5687",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "nin2008-10-23.ca11.aleal5687.0.flac1644.txt"
     },
     {
       "year": 2008,
@@ -9775,7 +10499,8 @@ const ARTIST_DATA = {
       "venue": "Voodoo Festival at City Park",
       "notes": "Fuse TV",
       "version": "PRO",
-      "format": "MP4"
+      "format": "MP4",
+      "textFile": "nin2008-10-25.pro.fuse.0.mp4480p.txt"
     },
     {
       "year": 2008,
@@ -9788,7 +10513,8 @@ const ARTIST_DATA = {
       "venue": "Veterans Memorial Arena",
       "notes": "DPA 4061s \u00b7 pjdavep",
       "version": "AUD",
-      "format": "FLAC 24"
+      "format": "FLAC 24",
+      "textFile": "nin2008-10-29.dpa4061.pjdavep.0.flac2448.txt"
     },
     {
       "year": 2008,
@@ -9801,7 +10527,8 @@ const ARTIST_DATA = {
       "venue": "Sommet Center",
       "notes": "CSBs \u00b7 the fixxxer",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "nin2008-10-31.csb.thefixxxer.0.flac1644.txt"
     },
     {
       "year": 2008,
@@ -9814,7 +10541,8 @@ const ARTIST_DATA = {
       "venue": "Sommet Center",
       "notes": "silver fox",
       "version": "IEM",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "nin2008-10-31.iem.silverfox.0.flac1644.txt"
     },
     {
       "year": 2008,
@@ -9827,7 +10555,8 @@ const ARTIST_DATA = {
       "venue": "Bi-Lo Center",
       "notes": "STC-11 \u00b7 hahninator",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "nin2008-11-01.stc11.hahninator.0.flac1644.txt"
     },
     {
       "year": 2008,
@@ -9840,7 +10569,8 @@ const ARTIST_DATA = {
       "venue": "Greensboro Coliseum",
       "notes": "CAC \u00b7 jason",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "nin2008-11-03.cac.jason.0.flac1644.txt"
     },
     {
       "year": 2008,
@@ -9853,7 +10583,8 @@ const ARTIST_DATA = {
       "venue": "Greensboro Coliseum",
       "notes": "CSBs \u00b7 xjsb125",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "nin2008-11-03.csb+csc.xjsb125.0.flac2448.txt"
     },
     {
       "year": 2008,
@@ -9866,7 +10597,8 @@ const ARTIST_DATA = {
       "venue": "Greensboro Coliseum",
       "notes": "Canon ZR500 \u00b7 xjsb125",
       "version": "AUD",
-      "format": "DVD"
+      "format": "DVD",
+      "textFile": "nin2008-11-03.zr500.xjsb215.0.ntsc.dvd.txt"
     },
     {
       "year": 2008,
@@ -9879,7 +10611,8 @@ const ARTIST_DATA = {
       "venue": "House of Blues",
       "notes": "ATu853s \u00b7 dassarri",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "nin2008-11-06.atu853.dassarri.0.flac1644.txt"
     },
     {
       "year": 2008,
@@ -9892,7 +10625,8 @@ const ARTIST_DATA = {
       "venue": "Verizon Wireless Arena",
       "notes": "MiniDV(M) \u00b7 live northeast",
       "version": "AUD",
-      "format": "DVD"
+      "format": "DVD",
+      "textFile": "nin2008-11-08.unknown.livenortheast.0.ntsc.dvd.txt"
     },
     {
       "year": 2008,
@@ -9905,7 +10639,8 @@ const ARTIST_DATA = {
       "venue": "DCU Center",
       "notes": "CSB \u00b7 screamingslave",
       "version": "AUD (48k)",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "nin2008-11-09.csb.screamingslave.0.flac1648.txt"
     },
     {
       "year": 2008,
@@ -9918,7 +10653,8 @@ const ARTIST_DATA = {
       "venue": "DCU Center",
       "notes": "ECM-MS907 \u00b7 trudatman",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "nin2008-11-09.ecmms907.truedatman.1.flac1644.txt"
     },
     {
       "year": 2008,
@@ -9931,7 +10667,8 @@ const ARTIST_DATA = {
       "venue": "Copps Coliseum",
       "notes": "AT853 \u00b7 bobcat",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "nin2008-11-14.at853.bobcat.0.flac1644.txt"
     },
     {
       "year": 2008,
@@ -9944,7 +10681,8 @@ const ARTIST_DATA = {
       "venue": "Copps Coliseum",
       "notes": "CAC \u00b7 krewe chief",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "nin2008-11-14.cac.krewechief.0.flac1644.txt"
     },
     {
       "year": 2008,
@@ -9957,7 +10695,8 @@ const ARTIST_DATA = {
       "venue": "Van Andel Arena",
       "notes": "DPA 4060 \u00b7 jb",
       "version": "AUD",
-      "format": "FLAC 24"
+      "format": "FLAC 24",
+      "textFile": "nin2008-11-15.dpa4060.jb.0.flac2448.txt"
     },
     {
       "year": 2008,
@@ -9970,7 +10709,8 @@ const ARTIST_DATA = {
       "venue": "Van Andel Arena",
       "notes": "DPA 4060 \u00b7 ryanj",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "nin2008-11-15.dpa4060.ryanj.0.flac1644.txt"
     },
     {
       "year": 2008,
@@ -9983,7 +10723,8 @@ const ARTIST_DATA = {
       "venue": "Van Andel Arena",
       "notes": "DPA 4061 \u00b7 gsp",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "nin2008-11-15.dpa4061.gsp.0.flac1644.txt"
     },
     {
       "year": 2008,
@@ -9996,7 +10737,8 @@ const ARTIST_DATA = {
       "venue": "Schottenstein Center",
       "notes": "DPA 4060 \u00b7 live2cd",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "nin2008-11-17.dpa4060.cole.0.flac1644.txt"
     },
     {
       "year": 2008,
@@ -10009,7 +10751,8 @@ const ARTIST_DATA = {
       "venue": "Schottenstein Center",
       "notes": "Sharp MD SR60 \u00b7 gladcarrot",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "nin2008-11-17.ecmds70p.gladcarrot.0.flac1644.txt"
     },
     {
       "year": 2008,
@@ -10022,7 +10765,8 @@ const ARTIST_DATA = {
       "venue": "Schottenstein Center",
       "notes": "unk \u00b7 rh",
       "version": "AUD",
-      "format": "MPG"
+      "format": "MPG",
+      "textFile": "nin2008-11-17.unknown.rh.1.mpg480p.txt"
     },
     {
       "year": 2008,
@@ -10035,7 +10779,8 @@ const ARTIST_DATA = {
       "venue": "Memorial Coliseum",
       "notes": "Edirol R09 \u00b7 jb",
       "version": "AUD",
-      "format": "FLAC 24"
+      "format": "FLAC 24",
+      "textFile": "nin2008-11-18.dpa4060.jb.0.flac2448.txt"
     },
     {
       "year": 2008,
@@ -10048,7 +10793,8 @@ const ARTIST_DATA = {
       "venue": "Memorial Coliseum",
       "notes": "Sharp MD SR60 \u00b7 gladcarrot",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "nin2008-11-18.ecmds70p.gladcarrot.0.flac1644.txt"
     },
     {
       "year": 2008,
@@ -10061,7 +10807,8 @@ const ARTIST_DATA = {
       "venue": "Missou Center",
       "notes": "unk",
       "version": "AUD",
-      "format": "MPG"
+      "format": "MPG",
+      "textFile": "nin2008-11-21.unknown.unknown.0.mpg480p.txt"
     },
     {
       "year": 2008,
@@ -10074,7 +10821,8 @@ const ARTIST_DATA = {
       "venue": "Target Center",
       "notes": "WM-61 \u00b7 the devil",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "nin2008-11-25.wm61.thedevil.1.flac1644.txt"
     },
     {
       "year": 2008,
@@ -10087,7 +10835,8 @@ const ARTIST_DATA = {
       "venue": "Mid America Center",
       "notes": "AT853 \u00b7 c.b.",
       "version": "AUD",
-      "format": "FLAC 24"
+      "format": "FLAC 24",
+      "textFile": "nin2008-11-26.at853.cb.0.flac2448.txt"
     },
     {
       "year": 2008,
@@ -10100,7 +10849,8 @@ const ARTIST_DATA = {
       "venue": "Prospera Place",
       "notes": "Bose 8025 \u00b7 rm",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "nin2008-12-04.bose8025.rm.0.flac1644.txt"
     },
     {
       "year": 2008,
@@ -10113,7 +10863,8 @@ const ARTIST_DATA = {
       "venue": "Prospera Place",
       "notes": "MiniDV(M) \u00b7 unk",
       "version": "AUD",
-      "format": "DVD"
+      "format": "DVD",
+      "textFile": "nin2008-12-04.minidv.unknown.0.ntsc.dvd.txt"
     },
     {
       "year": 2008,
@@ -10126,7 +10877,8 @@ const ARTIST_DATA = {
       "venue": "Prospera Place",
       "notes": "R09 \u00b7 sethmeister",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "nin2008-12-04.r09.sethmeister.0.flac1644.txt"
     },
     {
       "year": 2008,
@@ -10139,7 +10891,8 @@ const ARTIST_DATA = {
       "venue": "Save On Foods Memorial Centre",
       "notes": "",
       "version": "SBD (48k)",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "nin2008-12-05.sbd.nin.0.flac1648.txt"
     },
     {
       "year": 2008,
@@ -10152,7 +10905,8 @@ const ARTIST_DATA = {
       "venue": "Rose Garden Arena",
       "notes": "Canon 770IS \u00b7 araby",
       "version": "AUD",
-      "format": "DVD"
+      "format": "DVD",
+      "textFile": "nin2008-12-07.770is.araby.0.ntsc.dvd.txt"
     },
     {
       "year": 2008,
@@ -10165,7 +10919,8 @@ const ARTIST_DATA = {
       "venue": "Rose Garden Arena",
       "notes": "SP-CMC4 \u00b7 kris",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "nin2008-12-07.atu853.kris.0.flac1644.txt"
     },
     {
       "year": 2008,
@@ -10178,7 +10933,8 @@ const ARTIST_DATA = {
       "venue": "Rose Garden Arena",
       "notes": "CM300 \u00b7 chris mcgrath",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "nin2008-12-07.cm300.chris.0.flac1644.txt"
     },
     {
       "year": 2008,
@@ -10191,7 +10947,8 @@ const ARTIST_DATA = {
       "venue": "Rose Garden Arena",
       "notes": "CSB \u00b7 acc123456",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "nin2008-12-07.csb.acc123456.0.flac1644.txt"
     },
     {
       "year": 2008,
@@ -10204,7 +10961,8 @@ const ARTIST_DATA = {
       "venue": "Rose Garden Arena",
       "notes": "",
       "version": "SBD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "nin2008-12-07.sbd.nin.0.flac1648.txt"
     },
     {
       "year": 2008,
@@ -10217,7 +10975,8 @@ const ARTIST_DATA = {
       "venue": "Arco Arena",
       "notes": "Canon 770IS \u00b7 araby",
       "version": "AUD",
-      "format": "DVD"
+      "format": "DVD",
+      "textFile": "nin2008-12-12.770is.araby.0.ntsc.dvd.txt"
     },
     {
       "year": 2008,
@@ -10230,7 +10989,8 @@ const ARTIST_DATA = {
       "venue": "Arco Arena",
       "notes": "R09 \u00b7 punkrockster",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "nin2008-12-12.r09.punkrockster.0.flac1644.txt"
     },
     {
       "year": 2008,
@@ -10243,7 +11003,8 @@ const ARTIST_DATA = {
       "venue": "Arco Arena",
       "notes": "",
       "version": "SBD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "nin2008-12-12.sbd.nin.0.flac1648.txt"
     },
     {
       "year": 2008,
@@ -10256,7 +11017,8 @@ const ARTIST_DATA = {
       "venue": "Arco Arena",
       "notes": "The Sacramento Gift Footage \u00b7 frank g.",
       "version": "AUD",
-      "format": "M4V"
+      "format": "M4V",
+      "textFile": "nin2008-12-12.thegift.frankg.0.m4v720p.txt"
     },
     {
       "year": 2008,
@@ -10269,7 +11031,8 @@ const ARTIST_DATA = {
       "venue": "Planet Hollywood Theater",
       "notes": "CA-11 \u00b7 shotyd",
       "version": "AUD",
-      "format": "FLAC 24"
+      "format": "FLAC 24",
+      "textFile": "nin2008-12-13.ca11.shotyd.0.flac2448.txt"
     },
     {
       "year": 2008,
@@ -10282,7 +11045,8 @@ const ARTIST_DATA = {
       "venue": "Planet Hollywood Theater",
       "notes": "Core Sound LC \u00b7 brianblank",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "nin2008-12-13.cslcb.brianblank.0.flac1644.txt"
     },
     {
       "year": 2008,
@@ -10295,7 +11059,8 @@ const ARTIST_DATA = {
       "venue": "Planet Hollywood Theater",
       "notes": "DPA 4060 \u00b7 ryan j.",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "nin2008-12-13.dpa4060.ryanj.0.flac1644.txt"
     },
     {
       "year": 2008,
@@ -10308,7 +11073,8 @@ const ARTIST_DATA = {
       "venue": "Planet Hollywood Theater",
       "notes": "MM-HLSC-1 \u00b7 sin213",
       "version": "AUD",
-      "format": "FLAC 24"
+      "format": "FLAC 24",
+      "textFile": "nin2008-12-13.hlsc1.sin213.0.flac2448.txt"
     },
     {
       "year": 2008,
@@ -10321,7 +11087,8 @@ const ARTIST_DATA = {
       "venue": "Planet Hollywood Theater",
       "notes": "MK4 \u00b7 tapeworm48",
       "version": "AUD",
-      "format": "FLAC 24"
+      "format": "FLAC 24",
+      "textFile": "nin2008-12-13.mk4.tapeworm48.0.flac2448.txt"
     },
     {
       "year": 2009,
@@ -10347,7 +11114,8 @@ const ARTIST_DATA = {
       "venue": "Eastern Creek Raceway Soundwave Festival",
       "notes": "CA-11 \u00b7 morris",
       "version": "AUD",
-      "format": "MP3"
+      "format": "MP3",
+      "textFile": "nin2009-02-22.ca11.morris.0.mp3166.txt"
     },
     {
       "year": 2009,
@@ -10360,7 +11128,8 @@ const ARTIST_DATA = {
       "venue": "Eastern Creek Raceway Soundwave Festival",
       "notes": "Kodak V1253 \u00b7 ryan",
       "version": "AUD",
-      "format": "MOV"
+      "format": "MOV",
+      "textFile": "nin2009-02-22.v1253.ryan.0.mov720p.txt"
     },
     {
       "year": 2009,
@@ -10373,7 +11142,8 @@ const ARTIST_DATA = {
       "venue": "Hordern Pavilion",
       "notes": "CA-11 \u00b7 morris",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "nin2009-02-24.ca11.morris.0.flac1644.txt"
     },
     {
       "year": 2009,
@@ -10386,7 +11156,8 @@ const ARTIST_DATA = {
       "venue": "Hordern Pavilion",
       "notes": "Kodak V1253 \u00b7 ryan",
       "version": "AUD",
-      "format": "MOV"
+      "format": "MOV",
+      "textFile": "nin2009-02-24.v1253.ryan.0.mov720p.txt"
     },
     {
       "year": 2009,
@@ -10399,7 +11170,8 @@ const ARTIST_DATA = {
       "venue": "Soundwave Festival",
       "notes": "CA STC-11 \u00b7 chris jacques",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "nin2009-02-27.stc11.chrisjacques.0.flac1644.txt"
     },
     {
       "year": 2009,
@@ -10412,7 +11184,8 @@ const ARTIST_DATA = {
       "venue": "Cruzan Amphitheatre",
       "notes": "CCM4 \u00b7 jon",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "nin2009-05-08.ccm4+akg460b.jon.0.flac1644.txt"
     },
     {
       "year": 2009,
@@ -10425,7 +11198,8 @@ const ARTIST_DATA = {
       "venue": "Cruzan Amphitheatre",
       "notes": "Sony HDR-SR11 \u00b7 bencas1979",
       "version": "AUD",
-      "format": "DVD"
+      "format": "DVD",
+      "textFile": "nin2009-05-08.hdrsr11.bencas1979.0.ntsc.dvd.txt"
     },
     {
       "year": 2009,
@@ -10438,7 +11212,8 @@ const ARTIST_DATA = {
       "venue": "Ford Amphitheater",
       "notes": "Canon HV10 \u00b7 pjdavep",
       "version": "AUD",
-      "format": "MP4"
+      "format": "MP4",
+      "textFile": "nin2009-05-09.canonhv10.pjdavep.0.mp41080i.txt"
     },
     {
       "year": 2009,
@@ -10451,7 +11226,8 @@ const ARTIST_DATA = {
       "venue": "Ford Amphitheater",
       "notes": "CCM4 \u00b7 jon",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "nin2009-05-09.ccm4+akg460b.jon.0.flac1644.txt"
     },
     {
       "year": 2009,
@@ -10464,7 +11240,8 @@ const ARTIST_DATA = {
       "venue": "Ford Amphitheater",
       "notes": "DPA 4061s \u00b7 pjdavep",
       "version": "AUD",
-      "format": "FLAC 24"
+      "format": "FLAC 24",
+      "textFile": "nin2009-05-09.dpa4061.pjdavep.0.flac2448.txt"
     },
     {
       "year": 2009,
@@ -10477,7 +11254,8 @@ const ARTIST_DATA = {
       "venue": "Ford Amphitheater",
       "notes": "Sony ECM-DS70P \u00b7 d0ug",
       "version": "AUD",
-      "format": "MP3"
+      "format": "MP3",
+      "textFile": "nin2009-05-09.ecmds70p.doug.0.mp3320.txt"
     },
     {
       "year": 2009,
@@ -10490,7 +11268,8 @@ const ARTIST_DATA = {
       "venue": "Ford Amphitheater",
       "notes": "Zoom H2 \u00b7 dpieper",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "nin2009-05-09.h2.dpiepers.0.flac1644.txt"
     },
     {
       "year": 2009,
@@ -10503,7 +11282,8 @@ const ARTIST_DATA = {
       "venue": "Ford Amphitheater",
       "notes": "Sony HDR-HC5 \u00b7 erik mac",
       "version": "AUD",
-      "format": "DVD"
+      "format": "DVD",
+      "textFile": "nin2009-05-09.hdr-hc5.erikmac.0.ntsc.dvd.txt"
     },
     {
       "year": 2009,
@@ -10516,7 +11296,8 @@ const ARTIST_DATA = {
       "venue": "Ford Amphitheater",
       "notes": "unk \u00b7 albawild",
       "version": "AUD",
-      "format": "MP4"
+      "format": "MP4",
+      "textFile": "nin2009-05-09.unknown.albawild.1.mp4480p.txt"
     },
     {
       "year": 2009,
@@ -10529,7 +11310,8 @@ const ARTIST_DATA = {
       "venue": "Lakewood Amphitheatre",
       "notes": "MiniDV(M) \u00b7 etos45",
       "version": "AUD",
-      "format": "DVD"
+      "format": "DVD",
+      "textFile": "nin2009-05-10.cr-d370u.etos45.0.ntsc.dvd.txt"
     },
     {
       "year": 2009,
@@ -10542,7 +11324,8 @@ const ARTIST_DATA = {
       "venue": "Lakewood Amphitheatre",
       "notes": "DPA 4061 + AT831 \u00b7 adam",
       "version": "MIX",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "nin2009-05-10.dpa4061+at831.adam.0.flac1644.txt"
     },
     {
       "year": 2009,
@@ -10555,7 +11338,8 @@ const ARTIST_DATA = {
       "venue": "Lakewood Amphitheatre",
       "notes": "Zoom H4 \u00b7 radiokid311",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "nin2009-05-10.h4.radiokid311.0.flac1644.txt"
     },
     {
       "year": 2009,
@@ -10568,7 +11352,8 @@ const ARTIST_DATA = {
       "venue": "Lakewood Amphitheatre",
       "notes": "HEB 4060 \u00b7 jb",
       "version": "AUD",
-      "format": "FLAC 24"
+      "format": "FLAC 24",
+      "textFile": "nin2009-05-10.heb.jb.0.flac2448.txt"
     },
     {
       "year": 2009,
@@ -10581,7 +11366,8 @@ const ARTIST_DATA = {
       "venue": "Lakewood Amphitheatre",
       "notes": "Wave Goodbye Atlanta \u00b7 3 source mix",
       "version": "MIX",
-      "format": "M4A"
+      "format": "M4A",
+      "textFile": "nin2009-05-10.wavegoodbyeatl.mutli.0.ntsc.dvd.txt"
     },
     {
       "year": 2009,
@@ -10607,7 +11393,8 @@ const ARTIST_DATA = {
       "venue": "Frank Erwin Center",
       "notes": "Aiptek Action HD \u00b7 oldmanpolk",
       "version": "AUD",
-      "format": "MOV"
+      "format": "MOV",
+      "textFile": "nin2009-05-12.aiptek.oldmanpolk.0.mov1080p.txt"
     },
     {
       "year": 2009,
@@ -10620,7 +11407,8 @@ const ARTIST_DATA = {
       "venue": "Frank Erwin Center",
       "notes": "AT831s \u00b7 tooligan",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "nin2009-05-12.gso-at831.tooligan.0.flac1644.txt"
     },
     {
       "year": 2009,
@@ -10633,7 +11421,8 @@ const ARTIST_DATA = {
       "venue": "Journal Pavilion",
       "notes": "DPA 4061 \u00b7 sarah smith",
       "version": "AUD",
-      "format": "FLAC 24"
+      "format": "FLAC 24",
+      "textFile": "nin2009-05-14.dpa4061.sarah.0.flac2448.txt"
     },
     {
       "year": 2009,
@@ -10646,7 +11435,8 @@ const ARTIST_DATA = {
       "venue": "Cricket Pavilion",
       "notes": "AT831 \u00b7 edgar",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "nin2009-05-15.at831.edgar.0.flac1644.txt"
     },
     {
       "year": 2009,
@@ -10659,7 +11449,8 @@ const ARTIST_DATA = {
       "venue": "Cricket Pavilion",
       "notes": "unk \u00b7 bleedu zerknot",
       "version": "AUD",
-      "format": "MKV"
+      "format": "MKV",
+      "textFile": "nin2009-05-15.unknown.bz.1.mkv480p.txt"
     },
     {
       "year": 2009,
@@ -10672,7 +11463,8 @@ const ARTIST_DATA = {
       "venue": "Cricket Wireless Amphitheatre",
       "notes": "AT943 \u00b7 carsfan",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "nin2009-05-16.at943.carsfan.0.flac1644.txt"
     },
     {
       "year": 2009,
@@ -10685,7 +11477,8 @@ const ARTIST_DATA = {
       "venue": "Cricket Wireless Amphitheatre",
       "notes": "CA-11 \u00b7 shotyd",
       "version": "AUD",
-      "format": "FLAC 24"
+      "format": "FLAC 24",
+      "textFile": "nin2009-05-16.ca11.shotyd.0.flac2448.txt"
     },
     {
       "year": 2009,
@@ -10698,7 +11491,8 @@ const ARTIST_DATA = {
       "venue": "Cricket Wireless Amphitheatre",
       "notes": "DCR-HC1000 \u00b7 filthprveyor",
       "version": "AUD",
-      "format": "DVD"
+      "format": "DVD",
+      "textFile": "nin2009-05-16.dcr-hc1000.filthprveyor.0.ntsc.dvd.txt"
     },
     {
       "year": 2009,
@@ -10711,7 +11505,8 @@ const ARTIST_DATA = {
       "venue": "Cricket Wireless Amphitheatre",
       "notes": "SS DSM6 \u00b7 filthprveyor",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "nin2009-05-16.dsm6.filthprveyor.0.flac1644.txt"
     },
     {
       "year": 2009,
@@ -10724,7 +11519,8 @@ const ARTIST_DATA = {
       "venue": "Cricket Wireless Amphitheatre",
       "notes": "ECM DS70P \u00b7 trentsinmypants",
       "version": "AUD",
-      "format": "MP3"
+      "format": "MP3",
+      "textFile": "nin2009-05-16.ecmds70p.trentsinmypants.0.mp3192.txt"
     },
     {
       "year": 2009,
@@ -10737,7 +11533,8 @@ const ARTIST_DATA = {
       "venue": "The Pearl",
       "notes": "M-HLSC-1 \u00b7 sin213",
       "version": "AUD",
-      "format": "FLAC 24"
+      "format": "FLAC 24",
+      "textFile": "nin2009-05-18.hlsc1.sin213.0.flac2448.txt"
     },
     {
       "year": 2009,
@@ -10750,7 +11547,8 @@ const ARTIST_DATA = {
       "venue": "The Pearl",
       "notes": "HV30 \u00b7 thrill of adventure",
       "version": "AUD",
-      "format": "MKV"
+      "format": "MKV",
+      "textFile": "nin2009-05-18.hv30.thrillofadventure.1.mkv720p.txt"
     },
     {
       "year": 2009,
@@ -10763,7 +11561,8 @@ const ARTIST_DATA = {
       "venue": "The Pearl",
       "notes": "unk \u00b7 albawild",
       "version": "AUD",
-      "format": "MKV"
+      "format": "MKV",
+      "textFile": "nin2009-05-18.unknown.albawild.1.mkv480p.txt"
     },
     {
       "year": 2009,
@@ -10776,7 +11575,8 @@ const ARTIST_DATA = {
       "venue": "Verizon Wireless Amphitheatre",
       "notes": "CA-11 \u00b7 shotyd",
       "version": "AUD",
-      "format": "FLAC 24"
+      "format": "FLAC 24",
+      "textFile": "nin2009-05-20.ca11.shotyd.0.flac2448.txt"
     },
     {
       "year": 2009,
@@ -10789,7 +11589,8 @@ const ARTIST_DATA = {
       "venue": "Verizon Wireless Amphitheatre",
       "notes": "CSB \u00b7 faninor",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "nin2009-05-20.csb.faninor.0.flac1644.txt"
     },
     {
       "year": 2009,
@@ -10802,7 +11603,8 @@ const ARTIST_DATA = {
       "venue": "Verizon Wireless Amphitheatre",
       "notes": "DSM6 \u00b7 ijwthstd",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "nin2009-05-20.dsm6.ijwthstd.0.flac1644.txt"
     },
     {
       "year": 2009,
@@ -10815,7 +11617,8 @@ const ARTIST_DATA = {
       "venue": "Verizon Wireless Amphitheatre",
       "notes": "ECM DS70P \u00b7 nate pottker",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "nin2009-05-20.ecmds70p.nate.0.flac1644.txt"
     },
     {
       "year": 2009,
@@ -10828,7 +11631,8 @@ const ARTIST_DATA = {
       "venue": "Verizon Wireless Amphitheatre",
       "notes": "Canon HV10 \u00b7 slickmode",
       "version": "AUD",
-      "format": "MP4"
+      "format": "MP4",
+      "textFile": "nin2009-05-20.hv10.slickmode.0.mp41080p.txt"
     },
     {
       "year": 2009,
@@ -10841,7 +11645,8 @@ const ARTIST_DATA = {
       "venue": "Santa Barbara Bowl",
       "notes": "DSM6 \u00b7 ijwthstd",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "nin2009-05-21.dsm6.ijwthstd.0.flac1644.txt"
     },
     {
       "year": 2009,
@@ -10854,7 +11659,8 @@ const ARTIST_DATA = {
       "venue": "Santa Barbara Bowl",
       "notes": "ECM-DS70 \u00b7 trensinmypants",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "nin2009-05-21.ecmds70p.trentsinmypants.0.flac1644.txt"
     },
     {
       "year": 2009,
@@ -10867,7 +11673,8 @@ const ARTIST_DATA = {
       "venue": "Santa Barbara Bowl",
       "notes": "Sony HVR-A1U \u00b7 jamm007",
       "version": "AUD",
-      "format": "MP4"
+      "format": "MP4",
+      "textFile": "nin2009-05-21.hvr-a1u.jam007.0.mp41080.txt"
     },
     {
       "year": 2009,
@@ -10880,7 +11687,8 @@ const ARTIST_DATA = {
       "venue": "Santa Barbara Bowl",
       "notes": "Edirol R09 \u00b7 ronmcintosh",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "nin2009-05-21.r09hr.ronmcintosh.0.flac1644.txt"
     },
     {
       "year": 2009,
@@ -10893,7 +11701,8 @@ const ARTIST_DATA = {
       "venue": "Shoreline Amphitheatre",
       "notes": "Soundcheck \u00b7 CA-14 \u00b7 thebang",
       "version": "AUD",
-      "format": "FLAC 24"
+      "format": "FLAC 24",
+      "textFile": "nin2009-05-22.ca14.thebang.0.flac2448.txt"
     },
     {
       "year": 2009,
@@ -10906,7 +11715,8 @@ const ARTIST_DATA = {
       "venue": "Shoreline Amphitheatre",
       "notes": "CA-14 \u00b7 thebang",
       "version": "AUD",
-      "format": "FLAC 24"
+      "format": "FLAC 24",
+      "textFile": "nin2009-05-22.ca14.thebang.0.flac2448-soundcheck.txt"
     },
     {
       "year": 2009,
@@ -10919,7 +11729,8 @@ const ARTIST_DATA = {
       "venue": "Shoreline Amphitheatre",
       "notes": "DAT(M) \u00b7 Schoeps CCM4s \u00b7 anonymous",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "nin2009-05-22.ccm4.anonymous.0.flac1644.txt"
     },
     {
       "year": 2009,
@@ -10932,7 +11743,8 @@ const ARTIST_DATA = {
       "venue": "Shoreline Amphitheatre",
       "notes": "CCM41 \u00b7 ian stone",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "nin2009-05-22.ccm41.ianstone.0.flac1644.txt"
     },
     {
       "year": 2009,
@@ -10945,7 +11757,8 @@ const ARTIST_DATA = {
       "venue": "Shoreline Amphitheatre",
       "notes": "Sony DCR-HC26 \u00b7 fhfh",
       "version": "AUD",
-      "format": "DVD"
+      "format": "DVD",
+      "textFile": "nin2009-05-22.dcr-hc26.fhfu.0.ntsc.dvd.txt"
     },
     {
       "year": 2009,
@@ -10958,7 +11771,8 @@ const ARTIST_DATA = {
       "venue": "Shoreline Amphitheatre",
       "notes": "DAT(M) \u00b7 SS DSM6S \u00b7 filthprveyor",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "nin2009-05-22.dsm6.filthprveyor.0.flac1644.txt"
     },
     {
       "year": 2009,
@@ -10971,7 +11785,8 @@ const ARTIST_DATA = {
       "venue": "Shoreline Amphitheatre",
       "notes": "ECM-DS70P \u00b7 soulflyer",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "nin2009-05-22.ecmds70p.soulflyer.0.flac1644.txt"
     },
     {
       "year": 2009,
@@ -10984,7 +11799,8 @@ const ARTIST_DATA = {
       "venue": "Shoreline Amphitheatre",
       "notes": "KM140s \u00b7 wilson66",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "nin2009-05-22.km140.wilson66.0.flac1644.txt"
     },
     {
       "year": 2009,
@@ -10997,7 +11813,8 @@ const ARTIST_DATA = {
       "venue": "Shoreline Amphitheatre",
       "notes": "R09 \u00b7 punkrockster",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "nin2009-05-22.r09.punkrockster.0.flac1644.txt"
     },
     {
       "year": 2009,
@@ -11010,7 +11827,8 @@ const ARTIST_DATA = {
       "venue": "Shoreline Amphitheatre",
       "notes": "Belkin Tunetalk \u00b7 ian",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "nin2009-05-22.tunetalk.ian.0.flac1644.txt"
     },
     {
       "year": 2009,
@@ -11023,7 +11841,8 @@ const ARTIST_DATA = {
       "venue": "Shoreline Amphitheatre",
       "notes": "unk \u00b7 alex",
       "version": "AUD",
-      "format": "DVD"
+      "format": "DVD",
+      "textFile": "nin2009-05-22.unknown.alex.0.ntsc.img.txt"
     },
     {
       "year": 2009,
@@ -11049,7 +11868,8 @@ const ARTIST_DATA = {
       "venue": "The Gorge Amphitheatre",
       "notes": "SS-DSM6 \u00b7 filthprveyor",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "nin2009-05-24.ssdsm6.filthprveyor.0.flac1644.txt"
     },
     {
       "year": 2009,
@@ -11062,7 +11882,8 @@ const ARTIST_DATA = {
       "venue": "The Gorge Amphitheatre",
       "notes": "unk \u00b7 thedevilburning",
       "version": "AUD",
-      "format": "MPG"
+      "format": "MPG",
+      "textFile": "nin2009-05-24.unknown.thedevilburning.0.mpg480.txt"
     },
     {
       "year": 2009,
@@ -11075,7 +11896,8 @@ const ARTIST_DATA = {
       "venue": "Fiddler's Green Amphitheatre",
       "notes": "WAV(M) \u00b7 CSB \u00b7 smores",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "nin2009-05-26.csb.smores.0.flac1644.txt"
     },
     {
       "year": 2009,
@@ -11088,7 +11910,8 @@ const ARTIST_DATA = {
       "venue": "Fiddler's Green Amphitheatre",
       "notes": "DPA 4023 \u00b7 manitouman",
       "version": "AUD",
-      "format": "FLAC 24"
+      "format": "FLAC 24",
+      "textFile": "nin2009-05-26.dpa4023.manitouman.0.flac2496.txt"
     },
     {
       "year": 2009,
@@ -11101,7 +11924,8 @@ const ARTIST_DATA = {
       "venue": "Fiddler's Green Amphitheatre",
       "notes": "GZ-MG130U \u00b7 shinkinrui",
       "version": "AUD",
-      "format": "AVI"
+      "format": "AVI",
+      "textFile": "nin2009-05-26.gz-mg130u.shinkinrui.0.avi480p.txt"
     },
     {
       "year": 2009,
@@ -11114,7 +11938,8 @@ const ARTIST_DATA = {
       "venue": "Fiddler's Green Amphitheatre",
       "notes": "MK21 \u00b7 taperbt",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "nin2009-05-26.mk21.taperbt.0.flac1644.txt"
     },
     {
       "year": 2009,
@@ -11127,7 +11952,8 @@ const ARTIST_DATA = {
       "venue": "Fiddler's Green Amphitheatre",
       "notes": "unk \u00b7 anyonebutdetroit",
       "version": "AUD",
-      "format": "MP3"
+      "format": "MP3",
+      "textFile": "nin2009-05-26.unknown.anyonebutdetroit.0.mp3192.txt"
     },
     {
       "year": 2009,
@@ -11140,7 +11966,8 @@ const ARTIST_DATA = {
       "venue": "Starlight Theater",
       "notes": "CSB \u00b7 mblindsey",
       "version": "AUD",
-      "format": "FLAC 24"
+      "format": "FLAC 24",
+      "textFile": "nin2009-05-27.csb.mblindsey.0.flac2444.txt"
     },
     {
       "year": 2009,
@@ -11153,7 +11980,8 @@ const ARTIST_DATA = {
       "venue": "Starlight Theater",
       "notes": "DPA 4061 \u00b7 elwoodblues",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "nin2009-05-27.dpa4061.elwoodblues.0.flac1644.txt"
     },
     {
       "year": 2009,
@@ -11166,7 +11994,8 @@ const ARTIST_DATA = {
       "venue": "Starlight Theater",
       "notes": "Canon Vixia HF10 \u00b7 chaonatic",
       "version": "AUD",
-      "format": "MP4"
+      "format": "MP4",
+      "textFile": "nin2009-05-27.hf10.chaonatic.1.mp41080p.txt"
     },
     {
       "year": 2009,
@@ -11179,7 +12008,8 @@ const ARTIST_DATA = {
       "venue": "Starlight Theater (Multi-cam) *Your World On Fire",
       "notes": "",
       "version": "AUD",
-      "format": "ISO"
+      "format": "ISO",
+      "textFile": "nin2009-05-27.multi.yourworldonfire.0.ntsc.img.txt"
     },
     {
       "year": 2009,
@@ -11192,7 +12022,8 @@ const ARTIST_DATA = {
       "venue": "Charter One Pavilion",
       "notes": "DPA 4060 \u00b7 ryanj",
       "version": "AUD",
-      "format": "FLAC 24"
+      "format": "FLAC 24",
+      "textFile": "nin2009-05-29.dpa4060.ryanj.0.flac2448.txt"
     },
     {
       "year": 2009,
@@ -11205,7 +12036,8 @@ const ARTIST_DATA = {
       "venue": "Charter One Pavilion",
       "notes": "LS-10 \u00b7 don",
       "version": "AUD",
-      "format": "DVD"
+      "format": "DVD",
+      "textFile": "nin2009-05-29.gzhd30u.don.0.ntsc.dvd.txt"
     },
     {
       "year": 2009,
@@ -11218,7 +12050,8 @@ const ARTIST_DATA = {
       "venue": "Charter One Pavilion",
       "notes": "Olympus LS-10 \u00b7 heresy",
       "version": "AUD",
-      "format": "FLAC 24"
+      "format": "FLAC 24",
+      "textFile": "nin2009-05-29.ls10.heresy.0.flac2496.txt"
     },
     {
       "year": 2009,
@@ -11231,7 +12064,8 @@ const ARTIST_DATA = {
       "venue": "Charter One Pavilion",
       "notes": "WAV(M) \u00b7 MK4s \u00b7 tapeworm48",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "nin2009-05-29.mk4.tapeworm48.0.flac1644.txt"
     },
     {
       "year": 2009,
@@ -11244,7 +12078,8 @@ const ARTIST_DATA = {
       "venue": "Charter One Pavilion",
       "notes": "PV-GS400 \u00b7 jw",
       "version": "AUD",
-      "format": "M4V"
+      "format": "M4V",
+      "textFile": "nin2009-05-29.pv-gs400.jw.0.m4v432p.txt"
     },
     {
       "year": 2009,
@@ -11257,7 +12092,8 @@ const ARTIST_DATA = {
       "venue": "Charter One Pavilion",
       "notes": "SR10 \u00b7 ryanj",
       "version": "AUD",
-      "format": "MP4"
+      "format": "MP4",
+      "textFile": "nin2009-05-29.sr10.ryanj.0.mp41080.txt"
     },
     {
       "year": 2009,
@@ -11270,7 +12106,8 @@ const ARTIST_DATA = {
       "venue": "Charter One Pavilion",
       "notes": "unk \u00b7 albawild",
       "version": "AUD",
-      "format": "MKV"
+      "format": "MKV",
+      "textFile": "nin2009-05-29.unknown.albawild.1.mp4480p.txt"
     },
     {
       "year": 2009,
@@ -11283,7 +12120,8 @@ const ARTIST_DATA = {
       "venue": "Verizon Wireless Music Center",
       "notes": "Tascam DR-07 \u00b7 bobbywingwoods",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "nin2009-05-30.dr7.bobbywingwood.0.flac1644.txt"
     },
     {
       "year": 2009,
@@ -11296,7 +12134,8 @@ const ARTIST_DATA = {
       "venue": "Verizon Wireless Music Center",
       "notes": "Edirol R09 \u00b7 jb",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "nin2009-05-30.heb.jb.0.flac1644.txt"
     },
     {
       "year": 2009,
@@ -11309,7 +12148,8 @@ const ARTIST_DATA = {
       "venue": "",
       "notes": "",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "nin2009-05-31.akg460b.sullen.0.flac1644.txt"
     },
     {
       "year": 2009,
@@ -11322,7 +12162,8 @@ const ARTIST_DATA = {
       "venue": "",
       "notes": "",
       "version": "AUD",
-      "format": "FLAC 24"
+      "format": "FLAC 24",
+      "textFile": "nin2009-05-31.at943.kensey.0.flac2448.txt"
     },
     {
       "year": 2009,
@@ -11335,7 +12176,8 @@ const ARTIST_DATA = {
       "venue": "",
       "notes": "",
       "version": "AUD",
-      "format": "FLAC 24"
+      "format": "FLAC 24",
+      "textFile": "nin2009-05-31.dpa4060.ryanj.0.flac2448.txt"
     },
     {
       "year": 2009,
@@ -11348,7 +12190,8 @@ const ARTIST_DATA = {
       "venue": "",
       "notes": "",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "nin2009-05-31.dpa4061.galen.0.flac1644.txt"
     },
     {
       "year": 2009,
@@ -11361,7 +12204,8 @@ const ARTIST_DATA = {
       "venue": "",
       "notes": "",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "nin2009-05-31.ecmds70p.gladcarrot.0.flac1644.txt"
     },
     {
       "year": 2009,
@@ -11374,7 +12218,8 @@ const ARTIST_DATA = {
       "venue": "",
       "notes": "",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "nin2009-05-31.ecmds70p.gladcarrot.0.flac1644-soundcheck.txt"
     },
     {
       "year": 2009,
@@ -11387,7 +12232,8 @@ const ARTIST_DATA = {
       "venue": "",
       "notes": "",
       "version": "AUD",
-      "format": "MP4"
+      "format": "MP4",
+      "textFile": "nin2009-05-31.sr10.ryanj.0.mp41080.txt"
     },
     {
       "year": 2009,
@@ -11400,7 +12246,8 @@ const ARTIST_DATA = {
       "venue": "Molson Amphitheatre",
       "notes": "Soundcheck \u00b7 Sony Mics \u00b7 jsottawa",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "nin2009-06-02.ca11.krewechief.0.flac1644.txt"
     },
     {
       "year": 2009,
@@ -11413,7 +12260,8 @@ const ARTIST_DATA = {
       "venue": "Molson Amphitheatre",
       "notes": "CA-11s \u00b7 krewe chief",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "nin2009-06-02.sony.jsottawa.0.flac1644 - soundcheck.txt"
     },
     {
       "year": 2009,
@@ -11426,7 +12274,8 @@ const ARTIST_DATA = {
       "venue": "Molson Amphitheatre",
       "notes": "unk \u00b7 frank g. edit",
       "version": "AUD",
-      "format": "MP4"
+      "format": "MP4",
+      "textFile": "nin2009-06-02.unknown.becomingtom.0.mp41080i.txt"
     },
     {
       "year": 2009,
@@ -11439,7 +12288,8 @@ const ARTIST_DATA = {
       "venue": "Comcast Center",
       "notes": "DPA 4061 \u00b7 bennyblanco",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "nin2009-06-03.atu853.dassarri.0.flac2448.txt"
     },
     {
       "year": 2009,
@@ -11452,7 +12302,8 @@ const ARTIST_DATA = {
       "venue": "Comcast Center",
       "notes": "ATu853s \u00b7 dassarri",
       "version": "AUD",
-      "format": "FLAC 24"
+      "format": "FLAC 24",
+      "textFile": "nin2009-06-03.dpa4061.screamingslave.0.flac1644.txt"
     },
     {
       "year": 2009,
@@ -11465,7 +12316,8 @@ const ARTIST_DATA = {
       "venue": "Susquehanna Bank Center",
       "notes": "DPA 4061 \u00b7 bennyblanco",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "nin2009-06-05.dpa4061.screamingslave.0.flac1644.txt"
     },
     {
       "year": 2009,
@@ -11478,7 +12330,8 @@ const ARTIST_DATA = {
       "venue": "Susquehanna Bank Center",
       "notes": "Schoeps MK41 \u00b7 t.j. samulis",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "nin2009-06-05.mk41.tjsamulis.0.flac1644.txt"
     },
     {
       "year": 2009,
@@ -11491,7 +12344,8 @@ const ARTIST_DATA = {
       "venue": "Susquehanna Bank Center",
       "notes": "Canon 5D Mark 2 + Sony HDR-SRXX \u00b7 pr + syndrummer",
       "version": "AUD",
-      "format": "MP4"
+      "format": "MP4",
+      "textFile": "nin2009-06-05.multi.pr.0.mkv1080p.txt"
     },
     {
       "year": 2009,
@@ -11504,7 +12358,8 @@ const ARTIST_DATA = {
       "venue": "PNC Bank Arts Center",
       "notes": "DPA 4060 \u00b7 ryanj",
       "version": "AUD",
-      "format": "FLAC 24"
+      "format": "FLAC 24",
+      "textFile": "nin2009-06-06.dpa4060.ryanj.0.flac2448.txt"
     },
     {
       "year": 2009,
@@ -11517,7 +12372,8 @@ const ARTIST_DATA = {
       "venue": "PNC Bank Arts Center",
       "notes": "Sony ECM-719 \u00b7 ninslave",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "nin2009-06-06.ecm719.ninslave.0.flac1644.txt"
     },
     {
       "year": 2009,
@@ -11530,7 +12386,8 @@ const ARTIST_DATA = {
       "venue": "PNC Bank Arts Center",
       "notes": "Schoeps MK4/CMC6 \u00b7 su6oxone",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "nin2009-06-06.minidv.alhorta.0.ntsc.dvd.txt"
     },
     {
       "year": 2009,
@@ -11543,7 +12400,8 @@ const ARTIST_DATA = {
       "venue": "PNC Bank Arts Center",
       "notes": "MiniDV Camera \u00b7 al horta",
       "version": "AUD",
-      "format": "DVD"
+      "format": "DVD",
+      "textFile": "nin2009-06-06.mk4.su6oxone.0.flac1644.txt"
     },
     {
       "year": 2009,
@@ -11556,7 +12414,8 @@ const ARTIST_DATA = {
       "venue": "Nikon Amphitheater at Jones Beach",
       "notes": "DPA 4060 \u00b7 ryanj",
       "version": "AUD",
-      "format": "FLAC 24"
+      "format": "FLAC 24",
+      "textFile": "nin2009-06-07.dpa4060.ryanj.0.flac2448.txt"
     },
     {
       "year": 2009,
@@ -11569,7 +12428,8 @@ const ARTIST_DATA = {
       "venue": "Nikon Amphitheater at Jones Beach",
       "notes": "Edirol R09 \u00b7 punkrockstar",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "nin2009-06-07.hdr-sr10.ryanj.0.mp41080p.txt"
     },
     {
       "year": 2009,
@@ -11582,7 +12442,8 @@ const ARTIST_DATA = {
       "venue": "Nikon Amphitheater at Jones Beach",
       "notes": "Sony HDR-SR10 \u00b7 ryanj",
       "version": "AUD",
-      "format": "MP4"
+      "format": "MP4",
+      "textFile": "nin2009-06-07.r09.punkrockster.0.flac1644.txt"
     },
     {
       "year": 2009,
@@ -11595,7 +12456,8 @@ const ARTIST_DATA = {
       "venue": "Merriweather Post Pavilion",
       "notes": "unk \u00b7 mdvidguy",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "nin2009-06-09.unknown.mdvideoguy.0.flac1644.txt"
     },
     {
       "year": 2009,
@@ -11608,7 +12470,8 @@ const ARTIST_DATA = {
       "venue": "Merriweather Post Pavilion",
       "notes": "unk \u00b7 vroberts",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "nin2009-06-09.unknown.mdvidguy.0.mp41080p.txt"
     },
     {
       "year": 2009,
@@ -11621,7 +12484,8 @@ const ARTIST_DATA = {
       "venue": "Merriweather Post Pavilion",
       "notes": "unk",
       "version": "AUD",
-      "format": "MP4"
+      "format": "MP4",
+      "textFile": "nin2009-06-09.unknown.vroberts.0.flac1644.txt"
     },
     {
       "year": 2009,
@@ -11634,7 +12498,8 @@ const ARTIST_DATA = {
       "venue": "Post Gazette Pavilion",
       "notes": "Soundcheck \u00b7 AT943s \u00b7 chris m.",
       "version": "AUD",
-      "format": "FLAC 24"
+      "format": "FLAC 24",
+      "textFile": "nin2009-06-10.at943.kensey.0.flac2448-soundcheck.txt"
     },
     {
       "year": 2009,
@@ -11647,7 +12512,8 @@ const ARTIST_DATA = {
       "venue": "Post Gazette Pavilion",
       "notes": "Soundcheck \u00b7 Panasonic HDC-SD9P \u00b7 benny blanco",
       "version": "AUD",
-      "format": "MP4"
+      "format": "MP4",
+      "textFile": "nin2009-06-10.dab.nikres.0.flac1644.txt"
     },
     {
       "year": 2009,
@@ -11660,7 +12526,8 @@ const ARTIST_DATA = {
       "venue": "Post Gazette Pavilion",
       "notes": "DAB \u00b7 nikres",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "nin2009-06-10.dpa4060.ryanj.0.flac2448.txt"
     },
     {
       "year": 2009,
@@ -11673,7 +12540,8 @@ const ARTIST_DATA = {
       "venue": "Post Gazette Pavilion",
       "notes": "DPA 4060 \u00b7 ryanj",
       "version": "AUD",
-      "format": "FLAC 24"
+      "format": "FLAC 24",
+      "textFile": "nin2009-06-10.hdc-sd9p.screamingslave.0.mp41080i-soundcheck.txt"
     },
     {
       "year": 2009,
@@ -11686,7 +12554,8 @@ const ARTIST_DATA = {
       "venue": "Post Gazette Pavilion",
       "notes": "YouTube rip \u00b7 albawild",
       "version": "AUD",
-      "format": "MP4"
+      "format": "MP4",
+      "textFile": "nin2009-06-10.unknown.albawild.1.mp4480p.txt"
     },
     {
       "year": 2009,
@@ -11699,7 +12568,8 @@ const ARTIST_DATA = {
       "venue": "Verizon Wireless Amphitheatre",
       "notes": "DPA 4061 \u00b7 univonc",
       "version": "AUD",
-      "format": "FLAC 24"
+      "format": "FLAC 24",
+      "textFile": "nin2009-06-12.dpa4061.univonc.0.flac2496.txt"
     },
     {
       "year": 2009,
@@ -11712,7 +12582,8 @@ const ARTIST_DATA = {
       "venue": "Verizon Wireless Amphitheatre",
       "notes": "YouTube rip \u00b7 albawild",
       "version": "AUD",
-      "format": "MP4"
+      "format": "MP4",
+      "textFile": "nin2009-06-12.unknown.albawild.1.mp4480p.txt"
     },
     {
       "year": 2009,
@@ -11725,7 +12596,8 @@ const ARTIST_DATA = {
       "venue": "Bonnaroo Music Festival",
       "notes": "Which \u00b7 M \u00b7 ALD \u00b7 ryanj",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "nin2009-06-13.ald.ryanj.0.flac1644.txt"
     },
     {
       "year": 2009,
@@ -11738,7 +12610,8 @@ const ARTIST_DATA = {
       "venue": "Bonnaroo Music Festival",
       "notes": "Which \u00b7 CA STC-11s \u00b7 hahninator",
       "version": "AUD",
-      "format": "FLAC 24"
+      "format": "FLAC 24",
+      "textFile": "nin2009-06-13.ca11.hahninator.0.flac2448.txt"
     },
     {
       "year": 2009,
@@ -11751,7 +12624,8 @@ const ARTIST_DATA = {
       "venue": "Bonnaroo Music Festival",
       "notes": "Which \u00b7 CA-11s \u00b7 mstaper",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "nin2009-06-13.ca11.mstaperjr.0.flac1644.txt"
     },
     {
       "year": 2009,
@@ -11764,7 +12638,8 @@ const ARTIST_DATA = {
       "venue": "Bonnaroo Music Festival",
       "notes": "Which \u00b7 DPA 4060 \u00b7 ryanj",
       "version": "AUD",
-      "format": "FLAC 24"
+      "format": "FLAC 24",
+      "textFile": "nin2009-06-13.dpa4060.ryanj.0.flac2448.txt"
     },
     {
       "year": 2009,
@@ -11777,7 +12652,8 @@ const ARTIST_DATA = {
       "venue": "Bonnaroo Music Festival",
       "notes": "Which \u00b7 unk \u00b7 brian helms & andrew warren",
       "version": "AUD",
-      "format": "DVD"
+      "format": "DVD",
+      "textFile": "nin2009-06-13.unknown.bh-aw.0.ntsc.dvd.txt"
     },
     {
       "year": 2009,
@@ -11790,7 +12666,8 @@ const ARTIST_DATA = {
       "venue": "Nova Rock Open Air Festival",
       "notes": "Red \u00b7 AT U853/c \u00b7 mrruin",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "nin2009-06-19.atu853.mrruin.0.flac1644.txt"
     },
     {
       "year": 2009,
@@ -11803,7 +12680,8 @@ const ARTIST_DATA = {
       "venue": "Hurricane Festival",
       "notes": "MTV",
       "version": "PRO",
-      "format": "MKV"
+      "format": "MKV",
+      "textFile": "nin2009-06-21.pro.mtv.1.mkv360p.txt"
     },
     {
       "year": 2009,
@@ -11816,7 +12694,8 @@ const ARTIST_DATA = {
       "venue": "Hurricane Festival",
       "notes": "DVB-S Broadcast \u00b7 homie8",
       "version": "PRO",
-      "format": "DVD"
+      "format": "DVD",
+      "textFile": "nin2009-06-21.pro.zdf.0.pal.dvd.txt"
     },
     {
       "year": 2009,
@@ -11829,7 +12708,8 @@ const ARTIST_DATA = {
       "venue": "Malta International Theatre Festival",
       "notes": "SP-CMC-4 \u00b7 unk",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "nin2009-06-23.cmc4.gevenkaven.0.flac1644.txt"
     },
     {
       "year": 2009,
@@ -11842,7 +12722,8 @@ const ARTIST_DATA = {
       "venue": "Malta International Theatre Festival",
       "notes": "Multi-cam",
       "version": "AUD",
-      "format": "MP4"
+      "format": "MP4",
+      "textFile": "nin2009-06-23.multi.fillow.1.mp4720p.txt"
     },
     {
       "year": 2009,
@@ -11855,7 +12736,8 @@ const ARTIST_DATA = {
       "venue": "02 Arena",
       "notes": "unk",
       "version": "WEB",
-      "format": "MKV"
+      "format": "MKV",
+      "textFile": "nin2009-06-24.unknown.unknown.1.mkv470p.txt"
     },
     {
       "year": 2009,
@@ -11868,7 +12750,8 @@ const ARTIST_DATA = {
       "venue": "Idroscalo",
       "notes": "Panasonic SDR-S26 \u00b7 unk",
       "version": "AUD",
-      "format": "DVD"
+      "format": "DVD",
+      "textFile": "nin2009-06-26.sdrs26.max1334.0.pal.dvd.txt"
     },
     {
       "year": 2009,
@@ -11881,7 +12764,8 @@ const ARTIST_DATA = {
       "venue": "Sittertobel (Digital Satellite",
       "notes": "Swiss",
       "version": "AUD",
-      "format": "MP2"
+      "format": "MP2",
+      "textFile": "nin2009-06-27.dfm.dsr3.0.mp2256.txt"
     },
     {
       "year": 2009,
@@ -11894,7 +12778,8 @@ const ARTIST_DATA = {
       "venue": "Philipshalle",
       "notes": "AT ES943/0 \u00b7 solitude",
       "version": "AUD",
-      "format": "FLAC 24"
+      "format": "FLAC 24",
+      "textFile": "nin2009-06-29.at943.2late.0.flac2448.txt"
     },
     {
       "year": 2009,
@@ -11907,7 +12792,8 @@ const ARTIST_DATA = {
       "venue": "Treptow Arena",
       "notes": "AT ES943/0 \u00b7 solitude",
       "version": "AUD",
-      "format": "FLAC 24"
+      "format": "FLAC 24",
+      "textFile": "nin2009-06-30.at943.2late.0.flac2448.txt"
     },
     {
       "year": 2009,
@@ -11920,7 +12806,8 @@ const ARTIST_DATA = {
       "venue": "Treptow Arena",
       "notes": "unk \u00b7 zootzap edit",
       "version": "AUD",
-      "format": "MP4"
+      "format": "MP4",
+      "textFile": "nin2009-06-30.multi.zootzap.0.mp4720p.txt"
     },
     {
       "year": 2009,
@@ -11933,7 +12820,8 @@ const ARTIST_DATA = {
       "venue": "Folkets Park",
       "notes": "DPA 4061s \u00b7 jofa",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "nin2009-07-02.dpa4061.jofa.0.flac1644.txt"
     },
     {
       "year": 2009,
@@ -11946,7 +12834,8 @@ const ARTIST_DATA = {
       "venue": "Roskilde Festival",
       "notes": "unk",
       "version": "AUD",
-      "format": "AVI"
+      "format": "AVI",
+      "textFile": "nin2009-07-03.unknown.unknown.0.avi240p.txt"
     },
     {
       "year": 2009,
@@ -11959,7 +12848,8 @@ const ARTIST_DATA = {
       "venue": "Rock Werchter",
       "notes": "YouTube rip",
       "version": "AUD",
-      "format": "MKV"
+      "format": "MKV",
+      "textFile": "nin2009-07-05.unknown.musicaholic81.1.mkv480p.txt"
     },
     {
       "year": 2009,
@@ -11972,7 +12862,8 @@ const ARTIST_DATA = {
       "venue": "Le Zenith",
       "notes": "CAC \u00b7 yann",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "nin2009-07-07.cac.yb.0.flac1644.txt"
     },
     {
       "year": 2009,
@@ -11985,7 +12876,8 @@ const ARTIST_DATA = {
       "venue": "Le Zenith",
       "notes": "CSC \u00b7 teething",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "nin2009-07-07.csc.teething.1.flac1644.txt"
     },
     {
       "year": 2009,
@@ -11998,7 +12890,8 @@ const ARTIST_DATA = {
       "venue": "Le Zenith",
       "notes": "ECM-717 \u00b7 yann",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "nin2009-07-07.ecm717.yb.0.flac1644.txt"
     },
     {
       "year": 2009,
@@ -12011,7 +12904,8 @@ const ARTIST_DATA = {
       "venue": "Le Zenith",
       "notes": "Soundman OKM II \u00b7 antoine v.",
       "version": "AUD",
-      "format": "FLAC 24"
+      "format": "FLAC 24",
+      "textFile": "nin2009-07-07.okmIIr.avtaper.0.flac2448.txt"
     },
     {
       "year": 2009,
@@ -12024,7 +12918,8 @@ const ARTIST_DATA = {
       "venue": "Heineken Music Hall",
       "notes": "Canon Ixus 90 \u00b7 unk",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "nin2009-07-08.ixus90.jv.1.flac1644.txt"
     },
     {
       "year": 2009,
@@ -12037,7 +12932,8 @@ const ARTIST_DATA = {
       "venue": "Heineken Music Hall",
       "notes": "Edirol R09 \u00b7 unk",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "nin2009-07-08.r09.sledz74.0.flac1644.txt"
     },
     {
       "year": 2009,
@@ -12050,7 +12946,8 @@ const ARTIST_DATA = {
       "venue": "T in the Park Festival",
       "notes": "YouTube rip",
       "version": "AUD",
-      "format": "MP4"
+      "format": "MP4",
+      "textFile": "nin2009-07-11.pro.various.1.mp4various.txt"
     },
     {
       "year": 2009,
@@ -12063,7 +12960,8 @@ const ARTIST_DATA = {
       "venue": "Punchetown Racecourse",
       "notes": "Oxygen \u00b7 Zoom H4 \u00b7 tyrion \u00b7 inc",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "nin2009-07-12.h4.tyrion.0.flac1644.txt"
     },
     {
       "year": 2009,
@@ -12076,7 +12974,8 @@ const ARTIST_DATA = {
       "venue": "Manchester Evening News Arena",
       "notes": "AT853 \u00b7 chris plant",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "nin2009-07-14.at853.chris.0.flac1644.txt"
     },
     {
       "year": 2009,
@@ -12089,7 +12988,8 @@ const ARTIST_DATA = {
       "venue": "Manchester Evening News Arena",
       "notes": "AT853 \u00b7 schoff",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "nin2009-07-14.at853.schoff.0.flac1644.txt"
     },
     {
       "year": 2009,
@@ -12102,7 +13002,8 @@ const ARTIST_DATA = {
       "venue": "Manchester Evening News Arena",
       "notes": "DPA 4061 \u00b7 rob",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "nin2009-07-14.dpa4061.rob.0.flac1644.txt"
     },
     {
       "year": 2009,
@@ -12115,7 +13016,8 @@ const ARTIST_DATA = {
       "venue": "Manchester Evening News Arena",
       "notes": "Sony ECM-717 \u00b7 gary",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "nin2009-07-14.ecm717.gary.0.flac1644.txt"
     },
     {
       "year": 2009,
@@ -12128,7 +13030,8 @@ const ARTIST_DATA = {
       "venue": "Manchester Evening News Arena",
       "notes": "Multicam \u00b7 zootzap",
       "version": "AUD",
-      "format": "DVD"
+      "format": "DVD",
+      "textFile": "nin2009-07-14.multi.zootzap.0.ntsc.dvd.txt"
     },
     {
       "year": 2009,
@@ -12141,7 +13044,8 @@ const ARTIST_DATA = {
       "venue": "02",
       "notes": "AT ES943 \u00b7 solitude",
       "version": "AUD",
-      "format": "FLAC 24"
+      "format": "FLAC 24",
+      "textFile": "nin2009-07-15.at943.2late.0.flac2448.txt"
     },
     {
       "year": 2009,
@@ -12154,7 +13058,8 @@ const ARTIST_DATA = {
       "venue": "02",
       "notes": "Church Audio Mics \u00b7 duke2004",
       "version": "AUD",
-      "format": "FLAC 24"
+      "format": "FLAC 24",
+      "textFile": "nin2009-07-15.ca.duke2004.0.flac2496.txt"
     },
     {
       "year": 2009,
@@ -12167,7 +13072,8 @@ const ARTIST_DATA = {
       "venue": "SYMA Hall",
       "notes": "Sanken COS-11s \u00b7 mmuzik",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "nin2009-07-24.cos11s.mmuzik.0.flac1644.txt"
     },
     {
       "year": 2009,
@@ -12180,7 +13086,8 @@ const ARTIST_DATA = {
       "venue": "SYMA Hall",
       "notes": "Multicam \u00b7 fillow",
       "version": "AUD",
-      "format": "MP4"
+      "format": "MP4",
+      "textFile": "nin2009-07-24.multi.fillow.1.mp4480.txt"
     },
     {
       "year": 2009,
@@ -12193,7 +13100,8 @@ const ARTIST_DATA = {
       "venue": "Ar\u00e8nes de N\u00eemes",
       "notes": "Multicam",
       "version": "AUD",
-      "format": "DVD"
+      "format": "DVD",
+      "textFile": "nin2009-07-28.multicam.ninnewsfr.pal.dvd.txt"
     },
     {
       "year": 2009,
@@ -12206,7 +13114,8 @@ const ARTIST_DATA = {
       "venue": "Ar\u00e8nes de N\u00eemes",
       "notes": "unk \u00b7 dj",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "nin2009-07-28.unknown.dj.0.flac1644.txt"
     },
     {
       "year": 2009,
@@ -12219,7 +13128,8 @@ const ARTIST_DATA = {
       "venue": "Festival Paredes de Coura",
       "notes": "Zoom H2 \u00b7 ziggy",
       "version": "AUD",
-      "format": "FLAC 24"
+      "format": "FLAC 24",
+      "textFile": "nin2009-07-31.h2.ziggy.0.flac2444.txt"
     },
     {
       "year": 2009,
@@ -12232,7 +13142,8 @@ const ARTIST_DATA = {
       "venue": "Chiba Marine Stadium *An Act of God",
       "notes": "Voltage Records-047",
       "version": "Silver CD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "nin2009-08-07.iem.seenoevilrecords.0.flac1644.txt"
     },
     {
       "year": 2009,
@@ -12245,7 +13156,8 @@ const ARTIST_DATA = {
       "venue": "Makuhari Messe",
       "notes": "Summer \u00b7 YouTube \u00b7 jeakoguc",
       "version": "PRO",
-      "format": "MP4"
+      "format": "MP4",
+      "textFile": "nin2009-08-07.pro.jeakoguc.0.mp41080p.txt"
     },
     {
       "year": 2009,
@@ -12258,7 +13170,8 @@ const ARTIST_DATA = {
       "venue": "Chiba Marine Stadium *Would You Still Remember Me?",
       "notes": "New Tattoo Records",
       "version": "Silver CD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "nin2009-08-07.silver.newtattoo.0.flac1644.txt"
     },
     {
       "year": 2009,
@@ -12271,7 +13184,8 @@ const ARTIST_DATA = {
       "venue": "Summersonic Festival",
       "notes": "nicovideo",
       "version": "PRO",
-      "format": "MP4"
+      "format": "MP4",
+      "textFile": "nin2009-08-08.pro.abc.1.mp4480p.txt"
     },
     {
       "year": 2009,
@@ -12284,7 +13198,8 @@ const ARTIST_DATA = {
       "venue": "*Would You Still Remember Me?",
       "notes": "New Tattoo Records",
       "version": "Silver CD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "nin2009-08-08.silver.newtattoo.0.flac1644.txt"
     },
     {
       "year": 2009,
@@ -12297,7 +13212,8 @@ const ARTIST_DATA = {
       "venue": "*The Only Thing That's Real",
       "notes": "SYLPH-0999",
       "version": "Silver CD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "nin2009-08-08.silver.onlythingthatsreal.0.flac1644.txt"
     },
     {
       "year": 2009,
@@ -12310,7 +13226,8 @@ const ARTIST_DATA = {
       "venue": "Fort Canning Park",
       "notes": "unk \u00b7 ftc3000",
       "version": "WEB",
-      "format": "MKV"
+      "format": "MKV",
+      "textFile": "nin2009-08-10.unknown.ftc3000.1.mkv480p.txt"
     },
     {
       "year": 2009,
@@ -12323,7 +13240,8 @@ const ARTIST_DATA = {
       "venue": "Fort Canning Park",
       "notes": "Sanyo VPC-HD2000 \u00b7 ii53",
       "version": "WEB",
-      "format": "MP4"
+      "format": "MP4",
+      "textFile": "nin2009-08-10.vpc-hd2000.ii53.1.mp4720p.txt"
     },
     {
       "year": 2009,
@@ -12336,7 +13254,8 @@ const ARTIST_DATA = {
       "venue": "Bowery Ballroom",
       "notes": "AKG CK91 \u00b7 acidjack",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "nin2009-08-22.akgck61.acidjack.0.flac1644.txt"
     },
     {
       "year": 2009,
@@ -12349,7 +13268,8 @@ const ARTIST_DATA = {
       "venue": "Bowery Ballroom",
       "notes": "DPA 4061 \u00b7 bennyblanco",
       "version": "AUD",
-      "format": "FLAC 24"
+      "format": "FLAC 24",
+      "textFile": "nin2009-08-22.dpa4061.screamingslave.0.flac2448.txt"
     },
     {
       "year": 2009,
@@ -12362,7 +13282,8 @@ const ARTIST_DATA = {
       "venue": "Webster Hall",
       "notes": "DPA 4061 \u00b7 bennyblanco",
       "version": "AUD",
-      "format": "FLAC 24"
+      "format": "FLAC 24",
+      "textFile": "nin2009-08-23.dpa4061.screamingslave.0.flac2448.txt"
     },
     {
       "year": 2009,
@@ -12375,7 +13296,8 @@ const ARTIST_DATA = {
       "venue": "Webster Hall",
       "notes": "Sony ECM-719 \u00b7 ninslave",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "nin2009-08-23.ecm719.ninslave.0.flac1644.txt"
     },
     {
       "year": 2009,
@@ -12388,7 +13310,8 @@ const ARTIST_DATA = {
       "venue": "Terminal 5",
       "notes": "DPA 4061 \u00b7 bennyblanco",
       "version": "AUD",
-      "format": "FLAC 24"
+      "format": "FLAC 24",
+      "textFile": "nin2009-08-25.dpa4061.screamingslave.0.flac2448.txt"
     },
     {
       "year": 2009,
@@ -12401,7 +13324,8 @@ const ARTIST_DATA = {
       "venue": "Terminal 5",
       "notes": "ATu853s \u00b7 dassarri",
       "version": "AUD",
-      "format": "FLAC 24"
+      "format": "FLAC 24",
+      "textFile": "nin2009-08-26.atu853.dassarri.0.flac2448.txt"
     },
     {
       "year": 2009,
@@ -12414,7 +13338,8 @@ const ARTIST_DATA = {
       "venue": "Terminal 5",
       "notes": "DPA 4021s + DPA 4061s \u00b7 nyctaper & acidjack",
       "version": "MIX",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "nin2009-08-26.dpa4021+dpa4061.nyctaper+acidjack.0.flac1644.txt"
     },
     {
       "year": 2009,
@@ -12427,7 +13352,8 @@ const ARTIST_DATA = {
       "venue": "Terminal 5",
       "notes": "Custom mics \u00b7 bennyblanco",
       "version": "AUD",
-      "format": "FLAC 24"
+      "format": "FLAC 24",
+      "textFile": "nin2009-08-26.slavesound.screamingslave.0.flac2448.txt"
     },
     {
       "year": 2009,
@@ -12440,7 +13366,8 @@ const ARTIST_DATA = {
       "venue": "Aragon Ballroom",
       "notes": "ECM-DS70P \u00b7 gladcarrot",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "nin2009-08-28.ecmds70p.gladcarrot.0.flac1644.txt"
     },
     {
       "year": 2009,
@@ -12453,7 +13380,8 @@ const ARTIST_DATA = {
       "venue": "Aragon Ballroom",
       "notes": "Canon Vixia HF10 \u00b7 chaonatic \u00b7 inc",
       "version": "AUD",
-      "format": "MP4"
+      "format": "MP4",
+      "textFile": "nin2009-08-28.hf10.chaonatic.1.mp41080p.txt"
     },
     {
       "year": 2009,
@@ -12466,7 +13394,8 @@ const ARTIST_DATA = {
       "venue": "Aragon Ballroom",
       "notes": "CA-11s \u00b7 brian emerick",
       "version": "AUD",
-      "format": "FLAC 24"
+      "format": "FLAC 24",
+      "textFile": "nin2009-08-29.ca11.brian.0.flac2448.txt"
     },
     {
       "year": 2009,
@@ -12479,7 +13408,8 @@ const ARTIST_DATA = {
       "venue": "Aragon Ballroom",
       "notes": "CSB \u00b7 brianblank",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "nin2009-08-29.cslcb.brianblank.0.flac1644.txt"
     },
     {
       "year": 2009,
@@ -12492,7 +13422,8 @@ const ARTIST_DATA = {
       "venue": "Aragon Ballroom",
       "notes": "Canon HF200 \u00b7 brian emerick",
       "version": "AUD",
-      "format": "M4V"
+      "format": "M4V",
+      "textFile": "nin2009-08-29.hf200.brianemerick.0.m4v1080p.txt"
     },
     {
       "year": 2009,
@@ -12505,7 +13436,8 @@ const ARTIST_DATA = {
       "venue": "Aragon Ballroom",
       "notes": "Schoeps MK4s \u00b7 tapeworm48",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "nin2009-08-29.mk4.tapeworm48.0.flac1644.txt"
     },
     {
       "year": 2009,
@@ -12518,7 +13450,8 @@ const ARTIST_DATA = {
       "venue": "Molson Amphitheatre",
       "notes": "ANA(1) \u00b7 Built-in \u00b7 rhinowing edit",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "nin2009-08-30.tcm535v.jm.1.flac1644.txt"
     },
     {
       "year": 2009,
@@ -12531,7 +13464,8 @@ const ARTIST_DATA = {
       "venue": "Hollywood Palladium",
       "notes": "AT943 \u00b7 ijwthstd",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "nin2009-09-02.at943.ijwthstd.1.flac1644.txt"
     },
     {
       "year": 2009,
@@ -12544,7 +13478,8 @@ const ARTIST_DATA = {
       "venue": "Hollywood Palladium",
       "notes": "MM-HLSC-1 \u00b7 sin213",
       "version": "AUD",
-      "format": "FLAC 24"
+      "format": "FLAC 24",
+      "textFile": "nin2009-09-02.hlsc1.sin213.0.flac2448.txt"
     },
     {
       "year": 2009,
@@ -12557,7 +13492,8 @@ const ARTIST_DATA = {
       "venue": "Hollywood Palladium",
       "notes": "Edirol R-09 \u00b7 ijwthstd",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "nin2009-09-02.r09hr.ijwthstd.0.flac1644.txt"
     },
     {
       "year": 2009,
@@ -12570,7 +13506,8 @@ const ARTIST_DATA = {
       "venue": "The Echoplex",
       "notes": "DAT(M) \u00b7 Schoeps CCM4s \u00b7 anonymous",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "nin2009-09-06.ccm4.anonymous.0.flac1644.txt"
     },
     {
       "year": 2009,
@@ -12583,7 +13520,8 @@ const ARTIST_DATA = {
       "venue": "The Echoplex",
       "notes": "DPA 4061 \u00b7 bennyblanco",
       "version": "AUD",
-      "format": "FLAC 24"
+      "format": "FLAC 24",
+      "textFile": "nin2009-09-06.dpa4061.screamingslave.0.flac2448.txt"
     },
     {
       "year": 2009,
@@ -12596,7 +13534,8 @@ const ARTIST_DATA = {
       "venue": "The Echoplex",
       "notes": "MM-HLSC-1 \u00b7 sin213",
       "version": "AUD",
-      "format": "FLAC 24"
+      "format": "FLAC 24",
+      "textFile": "nin2009-09-06.hlsc1.sin213.0.flac2448.txt"
     },
     {
       "year": 2009,
@@ -12609,7 +13548,8 @@ const ARTIST_DATA = {
       "venue": "The Echoplex",
       "notes": "Sony HVR-A1U \u00b7 jam007",
       "version": "AUD",
-      "format": "MP4"
+      "format": "MP4",
+      "textFile": "nin2009-09-06.hvr-a1u.jam007.0.mp41080i.txt"
     },
     {
       "year": 2009,
@@ -12622,7 +13562,8 @@ const ARTIST_DATA = {
       "venue": "The Echoplex",
       "notes": "Schoeps MK4s \u00b7 tapeworm48",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "nin2009-09-06.mk4.tapeworm48.0.flac1644.txt"
     },
     {
       "year": 2009,
@@ -12635,7 +13576,8 @@ const ARTIST_DATA = {
       "venue": "Henry Fonda Theatre",
       "notes": "DPA 4061 \u00b7 bennyblanco",
       "version": "AUD",
-      "format": "FLAC 24"
+      "format": "FLAC 24",
+      "textFile": "nin2009-09-08.dpa4061.screamingslave.0.flac2496.txt"
     },
     {
       "year": 2009,
@@ -12648,7 +13590,8 @@ const ARTIST_DATA = {
       "venue": "Henry Fonda Theatre",
       "notes": "Sony HVR-A1U \u00b7 slickmode",
       "version": "AUD",
-      "format": "MP4"
+      "format": "MP4",
+      "textFile": "nin2009-09-08.hvr-a1u.slickmode.0.mp41080i.txt"
     },
     {
       "year": 2009,
@@ -12661,7 +13604,8 @@ const ARTIST_DATA = {
       "venue": "Henry Fonda Theatre",
       "notes": "Schoeps MK4 \u00b7 mikey jones & scott gordon",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "nin2009-09-08.mk4.mike+scott.0.flac1644.txt"
     },
     {
       "year": 2009,
@@ -12674,7 +13618,8 @@ const ARTIST_DATA = {
       "venue": "Henry Fonda Theatre",
       "notes": "Sonics \u00b7 gotb",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "nin2009-09-08.ss.gotb.0.flac1644.txt"
     },
     {
       "year": 2009,
@@ -12687,7 +13632,8 @@ const ARTIST_DATA = {
       "venue": "The Wiltern Theater",
       "notes": "DPA 4061 \u00b7 coolerluzi",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "nin2009-09-10.dpa4061.cooleruzi.0.flac1644.txt"
     },
     {
       "year": 2009,
@@ -12700,7 +13646,8 @@ const ARTIST_DATA = {
       "venue": "The Wiltern Theater",
       "notes": "Canon Vixia HF10 \u00b7 chaonatic",
       "version": "AUD",
-      "format": "MP4"
+      "format": "MP4",
+      "textFile": "nin2009-09-10.hf10.chaonatic.1.mp4720p.txt"
     },
     {
       "year": 2009,
@@ -12713,7 +13660,8 @@ const ARTIST_DATA = {
       "venue": "The Wiltern Theater",
       "notes": "MM-HLSC-1 \u00b7 sin213",
       "version": "AUD",
-      "format": "FLAC 24"
+      "format": "FLAC 24",
+      "textFile": "nin2009-09-10.hlsc1.sin213.0.flac2448.txt"
     },
     {
       "year": 2009,
@@ -12726,7 +13674,8 @@ const ARTIST_DATA = {
       "venue": "The Wiltern Theater",
       "notes": "Edirol R-09HR \u00b7 nate pottker",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "nin2009-09-10.r09hr.nate.0.flac1644.txt"
     },
     {
       "year": 2009,
@@ -12739,7 +13688,8 @@ const ARTIST_DATA = {
       "venue": "The Wiltern Theater",
       "notes": "Sonics \u00b7 jb",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "nin2009-09-10.ss.jb.0.flac1644.txt"
     },
     {
       "year": 2018,
@@ -12752,7 +13702,8 @@ const ARTIST_DATA = {
       "venue": "Hollywood Palladium",
       "notes": "distortion",
       "version": "IEM",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "nin2018-12-07.iem.distortion.0.flac1644.txt"
     },
     {
       "year": 2022,
@@ -12765,7 +13716,8 @@ const ARTIST_DATA = {
       "venue": "Red Hat Amphitheatre",
       "notes": "Schoeps MK4s \u00b7 tj",
       "version": "AUD",
-      "format": "FLAC 24"
+      "format": "FLAC 24",
+      "textFile": "nin2022-04-28.mk4s.tj.flac1644.txt"
     },
     {
       "year": 2022,
@@ -12778,7 +13730,8 @@ const ARTIST_DATA = {
       "venue": "Central Park",
       "notes": "Shaky \u00b7 Schoeps MK4s \u00b7 tj",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "nin2022-04-30.mk4s.tj.flac1644.txt"
     },
     {
       "year": 2022,
@@ -12791,7 +13744,8 @@ const ARTIST_DATA = {
       "venue": "FirstBank Amphitheater",
       "notes": "Schoeps MK4s \u00b7 tj",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "nin2022-05-01.mk4s.tj.flac1644.txt"
     },
     {
       "year": 2022,
@@ -12804,7 +13758,8 @@ const ARTIST_DATA = {
       "venue": "The Met",
       "notes": "Schoeps MK4s \u00b7 ryanj",
       "version": "AUD",
-      "format": "FLAC 24"
+      "format": "FLAC 24",
+      "textFile": "nin2022-05-25.mk4.ryanj.0.flac2448.txt"
     },
     {
       "year": 2025,
@@ -12817,7 +13772,8 @@ const ARTIST_DATA = {
       "venue": "3Arena",
       "notes": "DPA 4061 \u00b7 gambra/fangsarrow",
       "version": "AUD",
-      "format": "FLAC 24"
+      "format": "FLAC 24",
+      "textFile": "nin2025-06-15.dpa4061.fangsarrow.0.flac2496.txt"
     },
     {
       "year": 2025,
@@ -12830,7 +13786,8 @@ const ARTIST_DATA = {
       "venue": "3Arena",
       "notes": "Zoom H1n \u00b7 crooked clown",
       "version": "AUD",
-      "format": "FLAC 24"
+      "format": "FLAC 24",
+      "textFile": "nin2025-06-15.h1n.crookedclown.0.flac2496.txt"
     },
     {
       "year": 2025,
@@ -12843,7 +13800,8 @@ const ARTIST_DATA = {
       "venue": "Co-Op Live",
       "notes": "AT853 \u00b7 sheepdean",
       "version": "AUD",
-      "format": "FLAC 24"
+      "format": "FLAC 24",
+      "textFile": "nin2025-06-17.at853.sheepdean.0.flac2448.txt"
     },
     {
       "year": 2025,
@@ -12856,7 +13814,8 @@ const ARTIST_DATA = {
       "venue": "Co-Op Live",
       "notes": "AT853 \u00b7 zeegrizzle",
       "version": "AUD",
-      "format": "FLAC 24"
+      "format": "FLAC 24",
+      "textFile": "nin2025-06-17.at853.zeegrizzle.0.flac2496.txt"
     },
     {
       "year": 2025,
@@ -12869,7 +13828,8 @@ const ARTIST_DATA = {
       "venue": "Co-Op Live",
       "notes": "SP-CMC-8 \u00b7 rbose",
       "version": "AUD",
-      "format": "FLAC"
+      "format": "FLAC",
+      "textFile": "nin2025-06-17.sp-cmc-8.rbose1.0.flac1644.txt"
     },
     {
       "year": 2025,
@@ -12882,7 +13842,8 @@ const ARTIST_DATA = {
       "venue": "Lanxess Arena",
       "notes": "Schoeps MK41v \u00b7 stl",
       "version": "AUD",
-      "format": "FLAC 24"
+      "format": "FLAC 24",
+      "textFile": "nin2025-06-20.mk41v.stl.0.flac2448.txt"
     }
   ],
   "misc": [

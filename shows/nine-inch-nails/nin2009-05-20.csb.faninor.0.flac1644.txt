@@ -1,0 +1,41 @@
+Nine Inch Nails
+2009-05-20
+Verizon Wireless Amphitheatre
+Irvine, CA, USA
+
+Source: CSB (binaural configuration)
+        > battery box (bass roll-off enabled)
+        > M-Audio 10db pad
+        > Microtrack (24bit 48kHz)
+By: faninor
+
+Transfer: Microtrack
+          > Adobe Audition
+            - converted to 32bit 48kHz
+            - volume amplified
+            - converted to 16bit 44.1kHz WAV
+          > CD Wave (tracking)
+          > FLAC
+By: faninor
+
+Disc 1 ------------------------------------------------------------  [84:00.000]
+01 - intro                                                           [00:30.800]
+02 - Now I'm Nothing > Terrible Lie                                  [07:18.160]
+03 - 1,000,000                                                       [04:04.307]
+04 - Heresy                                                          [04:03.333]
+05 - March of the Pigs                                               [04:29.733]
+06 - Metal                                                           [06:35.267]
+07 - Reptile                                                         [06:39.200]
+08 - The Becoming                                                    [05:21.600]
+09 - Survivalism                                                     [04:44.800]
+10 - Mr. Self Destruct                                               [05:03.600]
+11 - The Fragile                                                     [04:53.000]
+12 - Gone, Still                                                     [01:56.240]
+13 - The Way Out Is Through                                          [03:46.120]
+14 - Wish                                                            [03:52.040]
+15 - Echoplex                                                        [05:13.600]
+16 - The Day the World Went Away                                     [06:00.200]
+17 - The Hand That Feeds                                             [03:31.600]
+18 - Head Like a Hole                                                [05:56.400]
+
+-- faninor -------- please don't convert to lossy formats -------- 2009-05-26 --

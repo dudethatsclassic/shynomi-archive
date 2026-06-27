@@ -1,0 +1,68 @@
+Nine Inch Nails
+2008-12-05
+"Lights Over Victoria"
+Victoria, Save On Foods Memorial Centre
+
+SBD-Source (A+)
+Raw-Rip from uncompressed HD-Video-Files
+
+48KHz: Equipment?->RawRip (?)->WAV48KHz->FileZille3.0->WaveLab->foobar2k->µtorrent
+44.1KHz: Equipment?->RawRip (?)->WAV48KHz->FileZilla3.0->WaveLab->Audition->foobar2k->µtorrent
+
+Recording done by: "a mysterious, shadowy group of subversives"
+Raw-Rip done by: palmer666
+Edit (fade-in/out, tracksplit, tagging, converting) done by: mundi
+Cover by: mundi
+Thanks for the Setlist: darkstorm777
+And special thanks to iggifer for setting up the LITS FTP Server
+
+There are 2 Versions of this live Recording:
+48KHz and 44.1KHz (CD). The CD Version is splitted up between
+Ghosts Piggy and The Greater Good and you can burn them directly
+to CD.(cuts done with fading) The 48KHz version only
+has a fade-in and a fade-out at the beginning/end.
+Downsampling was done with Adobe Audition 3.
+
+!!!!!!!!!!!!!!!!!!!!!!!!!!!
+!!DO NOT SELL THIS RECORD!!
+!!!!!!!!!!!!!!!!!!!!!!!!!!!
+!MP3 only for personal use!
+!!!!!!!!!!!!!!!!!!!!!!!!!!!
+
+
+Setlist 
+
+1. "999,999" 
+2. "1,000,000" 
+3. "Letting You" 
+4. "Discipline" 
+5. "March Of The Pigs" 
+6. "Head Down" 
+7. "The Frail" 
+8. "The Wretched" 
+9. "Closer" ("The Only Time" Breakdown) 
+10. "Gave Up" 
+11. "The Warning" 
+12. "Vessel" 
+13. "21 Ghosts III" 
+14. "28 Ghosts IV" 
+15. "19 Ghosts III" 
+16. "Ghosts Piggy" 
+17. "The Greater Good" 
+18. "Pinion" (Pre Recorded) 
+19. "Wish" 
+20. "Terrible Lie" 
+21. "Survivalism" 
+22. "The Big Come Down" 
+23. "31 Ghosts IV" 
+24. "Only" 
+25. "The Hand That Feeds" 
+26. "Head Like A Hole" 
+
+~encore~ 
+
+27. "Echoplex" 
+28. "The Good Soldier" 
+29. "God Given" 
+30. "Hurt" 
+31. "In This Twilight" ("Zero-Sum" Piano Outro)

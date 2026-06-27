@@ -1,0 +1,71 @@
+Nine Inch Nails
+December 08, 2005
+Reno Hilton Theatre
+Reno, NV
+
+*DO NOT SELL THIS RECORDING ANYWHERE!!!! YOU WILL BE REPORTED! FREE TRADE ONLY.*
+
+SOURCE (AUD):
+DPA 4061s > SP-MicroTrack Dongle > M-Audio MicroTrack
+
+TRANSFER:
+M-Audio MicroTrack > USB 2.0 > Sound Forge 8.0 (Normalizing, Dithering) > CD WAVE 1.94.8 (Tracking) > FLAC frontend 1.7.1 (Align on Sector Boundaries)
+
+GENERATION:
+MT(M) > WAV[16bit/44.1Khz] > FLAC[Level 8]
+
+GENERATION IF BURNED:
+MT(M) > CDR(1)
+
+Disc 1 [49:45]
+1. Pinion
+2. You Know What You Are?
+3. Sin
+4. Terrible Lie
+5. The Line Begins to Blur
+6. March of the Pigs
+7. Something I Can Never Have
+8. The Frail
+9. The Wretched
+10. Closer (The Only Time)
+11. Burn
+12. Gave Up
+
+Disc 2 [41:51]
+1. Eraser
+2. Wish
+3. Only
+4. Love Is Not Enough
+5. Suck
+6. Hurt
+7. The Hand That Feeds
+8. Starfuckers, Inc.
+9. Head Like a Hole
+
+*DO NOT SELL THIS RECORDING ANYWHERE!!!! YOU WILL BE REPORTED! FREE TRADE ONLY.*
+DO NOT CONVERT THIS TO MP3 OR OTHER LOSSY FORMATS. IF YOU HAVE TO, KEEP IT TO YOURSELF. PRESERVE THE QUALITY.
+
+fuzn37@gmail.com
+
+FLAC Fingerprints:
+NIN2005-12-08d1t01.flac:1a93e3532ee645b7b1a4ad6d4eeb3144
+NIN2005-12-08d1t02.flac:0e102b136de1bb2af88d8a9d367b0c62
+NIN2005-12-08d1t03.flac:b2933ce6d81448b0bc20ed36061c8cef
+NIN2005-12-08d1t04.flac:f185006cf3c9d74c7e1e9a1e70b7c715
+NIN2005-12-08d1t05.flac:2b6eb34dd884b5ac3c8f5351a5d1a520
+NIN2005-12-08d1t06.flac:512d7fee9e978e62c644d8f7b17594aa
+NIN2005-12-08d1t07.flac:6d38c6097b9d32fa21d21ab6f61d81cf
+NIN2005-12-08d1t08.flac:04b62a49076d5ca19449551713135240
+NIN2005-12-08d1t09.flac:92f4baaf5f66475e0ab4340e8e67c0e2
+NIN2005-12-08d1t10.flac:e2dc25ea6a01cfb9386bdd902c69890f
+NIN2005-12-08d1t11.flac:a8c701c83a9d9b85e7be083523ca0a70
+NIN2005-12-08d1t12.flac:a98ce8f447b77686e7a14867fa788892
+NIN2005-12-08d2t01.flac:59a40b34f319619488557f8858e6d2b4
+NIN2005-12-08d2t02.flac:0b715cd7447f653fb8e1e3715a2aa79c
+NIN2005-12-08d2t03.flac:218387d66ff4d34d37266c0f088d819b
+NIN2005-12-08d2t04.flac:74fd83a30343e4774dbe162bcfd87f55
+NIN2005-12-08d2t05.flac:21ecae96e6280010850858bfd179aaef
+NIN2005-12-08d2t06.flac:06ceb5be876d4c09c8292ec6e5207fc5
+NIN2005-12-08d2t07.flac:354c173718724a454b6d97cabe0ee2fc
+NIN2005-12-08d2t08.flac:5a39dfb9121ef4d6bde7a4963be7aeeb
+NIN2005-12-08d2t09.flac:6886ad0268ee7f755786852d3c3be63d

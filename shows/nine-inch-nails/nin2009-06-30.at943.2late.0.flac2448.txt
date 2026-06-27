@@ -1,0 +1,114 @@
+Nine Inch Nails
+Date: 2009-06-30
+Location: Berlin, Germany
+Venue: Treptow Arena
+Source: Audience
+Equipment/lineage:  Audio Technica ES943/O x 2 (SP-CMC-8 omnis) >  SP-SPSB-8 (no bass roll-off) > Edirol R-09 (48/24) > USB > HD > Amadeus Pro (Mac OS X; editing) > FLAC (Encoded to FLAC and SBEs fixed with xACT)
+Taper: s(solitude) a.k.a. 2late/jb
+
+
+**************************************************
+This is the 24bit version
+
+**************************************************
+
+
+******************READ ME*********************
+
+-do not sell, never, ever
+-do not convert to mp3 (or other lossy format) unless for personal use!
+-do not remaster/matrix without my permission
+-please always do include this .txt file (unedited) with this recording, should you make a trade copy etc.
+
+*************************************************
+
+
+
+set list: 
+
+somewhat damaged
+1,000,000
+heresy
+march of the pigs
+something i can never have
+metal
+i'm afraid of americans
+big come down
+burn
+gave up
+piggy
+home
+non-entity
+downward spiral
+wish
+survivalism
+physical
+down in it
+hurt
+hand that feeds
+head like a hole
+
+
+
+Line-up: Trent Reznor/Robin Finck/Justin Meldal-Johnsen/Ilan Rubin
+
+
+Total time: 1:44:35
+Size: 1.19 GB (FLAC)
+
+
+
+
+
+Notes:
+
+taped FOS, from the right (robin's side). approximately between 5th-10th row. 
+the old treptow arena is (in)famous for its bad acoustics, so especially considering that i think the recording turned out pretty good. 
+there was a small balance issue that i've fixed here: the PA was set quite wide and i also ended up moving a bit with the crowds (hard to avoid that in the front!), ending up being slightly too much with my right side facing the speakers at times. i've had to boost the left channel here to balance that out a bit. yet i'd say it should be pretty enjoyable now. (and should you ask: no, i didn't go there to stand like a statue in FOB but most of all to enjoy this show - which i thought was going to be my very last time to see the band.) 
+anyway i think it's a good recording. i've enjoyed it a lot and i hope you do too. 
+
+a great show again, and very nice variations in the set list compared to the night before in düsseldorf. personally i was really happy to hear 'down in it', 'heresy' and 'big come down' - that's three of the four songs i was actually hoping to hear (the fourth one would have been 'ruiner' but i wasn't really expecting that as it hadn't really been played recently. not to mention 'ringfinger' haha). 'something i can never have' was a great surprise. 
+
+i was missing a proper encore though, like we had in düsseldorf. i was kind of expecting it in these indoor venue shows. i guess i wasn't the only one missing it: a lot of people kept singing 'we want more' for quite a while even when the crew was already packing up on stage. no use, though. 
+
+despite the acoustics of the venue, i really do like the look/the atmosphere of the old treptow arena. i really like that "old industrial" look with its low ceiling supported by those big metal structures/beams. add to that that there was a LOT of smoke and at least to me it was just a perfect setting for a NIN show. it was really hot too - trent also commented on that before 'piggy' ("goddamn it's hot up here!"). 
+
+there should be no major disruptions/disturbances on the recording. other than there was this pretty loud girl behind me singing during 'hurt', which was/is pretty annoying. seriously, if you have to sing then sing at home/in the shower, damnit - we all came to listen to trent and not you. i actually hope she'd get to hear this recording, just to hear how stupid she made it for people around her. 
+
+there were some guy(s) a bit left from me were fooling around with a laser pen during the first half of the show. luckily not throughout the whole show. i'm not sure if they stopped out of their own initiative or if security came and got them or something. anyway, i just hate that stuff. at least it was stopped before trent had to give another set of instructions about it:
+http://www.youtube.com/watch?v=fGKum5jjvks&fmt=18
+:P
+
+once again, a big thanks for everyone who has shared their masters from this last tour, both audio and video. 
+if you'd have something to share that isn't already widely circulating  (either from the current tour or some previous one), please do share - the band is packing up and it'll all be said and done soon. 
+thanks in advance. 
+
+hope you enjoy this recording. 
+
+-s
+
+
+FLAC fingerprints:
+
+nin2009-06-30t01.flac:41990ebf798663176658bfa5dfa81a9c
+nin2009-06-30t02.flac:e3cd3edc78db86a550245702e49d4f54
+nin2009-06-30t03.flac:5e465f95e34442551eea2570c6e7a8a1
+nin2009-06-30t04.flac:75d7217b32eda94b4d413895d13bfb3b
+nin2009-06-30t05.flac:2168ecf7a4cd565d47a8587731371558
+nin2009-06-30t06.flac:bcbc457a3f781ee4c9fea234243d9292
+nin2009-06-30t07.flac:1386a72a4d52b214da6f5d4efbe560e2
+nin2009-06-30t08.flac:1d316d12297704fe04364bb38825251b
+nin2009-06-30t09.flac:ba21362f8079f690ed62b1514aeb7cb1
+nin2009-06-30t10.flac:f0c4290bf43ffeb9cdc52c050f8cdf2f
+nin2009-06-30t11.flac:1b0fc61f9e5899518ea4acafd6af789f
+nin2009-06-30t12.flac:9608ecc51186aee2840669ff0223e7a6
+nin2009-06-30t13.flac:c49e8f6b8a22ac70100cc82980542f56
+nin2009-06-30t14.flac:75c98a0dc740dcd32b1c43cef0e4450c
+nin2009-06-30t15.flac:5092f7193121e6abef2dc6b579217594
+nin2009-06-30t16.flac:97bdf814214890a5857e8c3e77cfd834
+nin2009-06-30t17.flac:cfe1ff4e43a1af84b6cde74b5b55d4bf
+nin2009-06-30t18.flac:e3006fe0bc2e3fd465221cd1e88c9672
+nin2009-06-30t19.flac:32d4e0c013179870930c99d95c361a36
+nin2009-06-30t20.flac:bb2057622bfb28d73daef9c96ebb1cb0
+nin2009-06-30t21.flac:47acecd0e2fe413ca9600ae33514c3ca
+nin2009-06-30t22.flac:b5d108c5ad8456351263f6a8c890b1c9

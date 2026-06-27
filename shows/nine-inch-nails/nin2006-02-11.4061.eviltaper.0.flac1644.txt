@@ -1,0 +1,75 @@
+Nine Inch Nails
+The Eagles Ballroom @ The Rave
+Milwaukee, WI
+February 11th 2006
+
+---------------------------------------------------------------------------
+Source:	AUD | DPA 4061>SP-SPSB-7>Oade mod (line in & +6db) Edirol R1 @ 24bit/44.1hrz
+Location:	Recorded FOS-DFC-40' back
+Transfer: 	R1 > USB > PC > WaveLab 5.00a > FLAC Frontend 1.7.1
+Taper:	Evil Taper
+Transferer:	Evil Taper
+Editing:	Normalize to 0db > Bit Rate Conversion > Tracked with WaveLab
+Set:		(101:41) Complete
+Size (wav):	 1.00 gb
+Size (FLAC): 587 mb
+---------------------------------------------------------------------------
+
+01 Pilgrimmage
+02 Mr. Self Destruct
+03 Sin
+04 Terrible Lie
+05 March of the Pigs
+06 Something I Can Never Have / The Frail
+07 The Wretched
+08 Closer
+09 Burn
+10 Gave Up
+11 Eraser
+12 The Collector
+13 Wish
+14 Only
+15 Every Day is Exactly the Same
+16 Please
+17 Reptile
+18 Hurt
+19 Hand that Feeds
+20 Starfuckers
+21 Head Like a Hole
+
+NOTES: Nine Inch Nails in a rare club performance playing to a sold out crowd.  I started the show about 25' 
+back from the stage but it was too rowdy to tape there so I moved to rear edge of the mosh pit.  There is less volume 
+on the recording after I moved back so just crank up your stereo.  Please don't try to remaster my recording and reseed it, 
+leave it how it is in it's natural state.  No EQ/Limiting/Compression has been applied to the recording so please leave it this way.
+
+
+FLAC FINGERPRINTS:
+
+NIN02-11-2006-16bit-t01.flac:4d8a46a51589c6478eb0ea3590fc006e
+NIN02-11-2006-16bit-t02.flac:838087bd2b780f371a475e4cff81539e
+NIN02-11-2006-16bit-t03.flac:f32741dd8163e41d04146409e44e5f65
+NIN02-11-2006-16bit-t04.flac:d3b20d132d02c275fdb65fc003a54ae9
+NIN02-11-2006-16bit-t05.flac:1ccdb12d3b08893e798af1c43a05e8d3
+NIN02-11-2006-16bit-t06.flac:c0b7eff9c01236a1102b2294a3ce7edd
+NIN02-11-2006-16bit-t07.flac:d36440cc9c5661edbda8c24bc32aeb8e
+NIN02-11-2006-16bit-t08.flac:e51284fe2a5370159a88a559c8c3d15d
+NIN02-11-2006-16bit-t09.flac:b1a5c15caa6a8d2c44026235dda779aa
+NIN02-11-2006-16bit-t10.flac:c7623722fb2b170993fe9afe12123547
+NIN02-11-2006-16bit-t11.flac:1752d03e9dbcb05eee69caaa3cf202be
+NIN02-11-2006-16bit-t12.flac:c5828f1db3ce5181397a3ea1de5add72
+NIN02-11-2006-16bit-t13.flac:e6215885363aef6e6a99f2fc37a533eb
+NIN02-11-2006-16bit-t14.flac:791aac19d99348543d3fb6b031812be1
+NIN02-11-2006-16bit-t15.flac:92ac28a6478538ed31b371b0e6ffc73c
+NIN02-11-2006-16bit-t16.flac:765a00bf279ab8d7323c8b6ada955041
+NIN02-11-2006-16bit-t17.flac:05b90deb0e2226eb3d13efcff3b7b322
+NIN02-11-2006-16bit-t18.flac:e601209e2afe908a6c9dae1f2a32d665
+NIN02-11-2006-16bit-t19.flac:982b82373a71cc1c71452d4c966c6dec
+NIN02-11-2006-16bit-t20.flac:6c3304f440a3160cb5ee8477ea44606a
+NIN02-11-2006-16bit-t21.flac:6fd74fc86156138bf54d5a05c2487ba1
+
+
+
+Tracked and Encoded by Evil Taper
+DO NOT ENCODE TO MP3 & DO NOT DISTRIBUTE THIS OR ANY RECORDING IN LOSSY QUALITY
+DO NOT SELL THIS RECORDING ~ SELL THIS AND DIE :)
+PLEASE Enjoy & Remember To Tape

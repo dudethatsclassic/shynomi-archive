@@ -1,0 +1,54 @@
+
+
+----------------------------------------------------------------
+	Artist:			Nine Inch Nails
+	Date:			November 18, 2008
+	Location:		Memorial Coliseum, Fort Wayne, IN
+	Taper:			JB
+	e-mail:			radioheadusa@comcast.net
+	DC++ screenname:	radiohead8989
+	Web:			http://home.comcast.net/~radioheadusa/
+	date of seeding:	November 19, 2008
+----------------------------------------------------------------
+	Source Info:		>Edirol R9 (24bit/48kHz) (Line In)
+				>Core Sound HEB (4060) (Bass Rolloff=ON)
+				>Adobe Audition (+2DB)
+				>CDWAVE
+				>FLAC (level 8)
+----------------------------------------------------------------
+	additional info:	Recorded from the main floor, right side.  I was about 4 rows of people from the stage, right in line with the main PA.
+----------------------------------------------------------------
+	running time:		1h:46m:14s
+----------------------------------------------------------------
+	Setlist:		01 999,999
+				02 1,000,000
+				03 Letting You
+				04 Discipline
+				05 March of the Pigs
+				06 Head Down
+				07 The Frail
+				08 The Wretched
+				09 Closer
+				10 Gave Up
+				11 Corona Radiata
+				12 Me, I'm Not
+				13 Vessel
+				14 1 Ghosts I
+				15 14 Ghosts II
+				16 19 Ghosts III
+				17 Piggy (Ghosts)
+				18 The Greater Good
+				19 Pinion
+				20 Wish
+				21 Terrible Lie
+				22 Survivalish
+				23 The Big Comedown
+				24 31 Ghosts IV
+				25 Only
+				26 The Hand That Feeds
+				27 Head Like a Hole
+----------------------------------------------------------------
+Note:
+This is a 24bit / 48KHZ recording.  It cannot be burned to a cd, unless you convert it to 16bit / 44.1k first.
+The FLAC files were created using CD Wave 1.97, and they were tested using Media Monkey 3.0.2.1134.  There is no encore for this show, because NIN decide not to play it.  There was a 5 song encore on the setlist.
+

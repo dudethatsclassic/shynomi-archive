@@ -1,0 +1,32 @@
+Nine Inch Nails
+June 23, 2000 - Somerset, England, Glastonbury Festival
+
+Source  - Digital Freeview (160kbps) > Edirol R-09 (16-bit, 48 kHz)
+Transfer - R-09 > USB >  Wav > Digital Editing > Wav > FLAC (lvl8, verify)
+Taper - jadg2
+
+Editing - tracking in Audacity, eq in SonicStage Mastering Studio.  
+
+01. Intro
+02. Piggy
+03. March Of The Pigs
+04. The Wretched
+05. Outro
+
+Total time - 16min 14sec
+
+
+Notes - Partial rebroadcast of Glastonbury festival set from Gideon Coe show on BBC6Music, 16th November 2010.  Censored, and badly edited as a result. 
+
+Editing - Track splits, fades at start and end, and sprinkling of magic.  
+
+Support the artist
+Do not mp3
+
+Fingerprints:
+
+01-nin-2000-xx-xx-tr-1.flac:b8bc92fe952d9e5cd426cf353ab8d373
+02-nin-2000-xx-xx-tr-2.flac:a831c76d65f3059a37820a1b7e14df88
+03-nin-2000-xx-xx-tr-3.flac:5c78511e9f1fecf654bdc3f27c2388d1
+04-nin-2000-xx-xx-tr-4.flac:cfa130232b0e2e389071eaf6ab04cac3
+05-nin-2000-xx-xx-tr-5.flac:287769311d293c5603f713f7b519dbdf

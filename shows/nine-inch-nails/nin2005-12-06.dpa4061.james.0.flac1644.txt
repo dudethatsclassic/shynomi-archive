@@ -1,0 +1,76 @@
+Nine Inch Nails
+December 06, 2005
+Santa Cruz Civic Auditorium
+Santa Cruz, CA
+
+*DO NOT SELL THIS RECORDING ANYWHERE!!!! YOU WILL BE REPORTED! FREE TRADE ONLY.*
+
+SOURCE (AUD):
+DPA 4061s > SP-MicroTrack Dongle > M-Audio MicroTrack
+
+TRANSFER:
+M-Audio MicroTrack > USB 2.0 > Sound Forge 8.0 (Normalizing, Dithering) > CD WAVE 1.94.8 (Tracking) > FLAC frontend 1.7.1 (Align on Sector Boundaries)
+
+GENERATION:
+MT(M) > WAV[16bit/44.1Khz] > FLAC[Level 8]
+
+GENERATION IF BURNED:
+MT(M) > CDR(1)
+
+Disc 1 [49:17]
+1. Pinion
+2. Love is Not Enough
+3. You Know What You Are?
+4. Terrible Lie
+5. The Line Begins to Blur
+6. March of the Pigs
+7. Something I Can Never Have
+8. The Frail
+9. The Wretched
+10. Closer (The Only Time)
+11. Burn
+12. Gave Up
+
+Disc 2 [42:47]
+1. Eraser
+2. Wish
+3. Only
+4. Deep
+5. Suck
+6. Hurt
+7. The Hand That Feeds
+8. Starfuckers, Inc.
+9. Head Like a Hole
+
+*DO NOT SELL THIS RECORDING ANYWHERE!!!! YOU WILL BE REPORTED! FREE TRADE ONLY.*
+
+If you see this sold, please report them via:
+http://pages.ebay.com/help/policies/bootlegs.html
+https://www.paypal.com/ewf/f=pps_prohib
+
+DO NOT CONVERT THIS TO MP3 OR OTHER LOSSY FORMATS. IF YOU HAVE TO, KEEP IT TO YOURSELF. PRESERVE THE QUALITY.
+
+james@fuzn.net
+
+FLAC Fingerprints:
+NIN2005-12-06d1t01.flac:1e73b55c91a74a13785082401f60ad6c
+NIN2005-12-06d1t02.flac:52579ea6ef9e154e0df75b8b1f521dbe
+NIN2005-12-06d1t03.flac:a50f01ad1cae72119e2547942ca2783a
+NIN2005-12-06d1t04.flac:ccffc7331c76c32bebe3069cf783579c
+NIN2005-12-06d1t05.flac:8a12160d2007388c23bd22976d9e2b8e
+NIN2005-12-06d1t06.flac:a89684493e5921dea28562a1620876dd
+NIN2005-12-06d1t07.flac:ffd1fe8d5f1e348a213c9a29fa5e16d6
+NIN2005-12-06d1t08.flac:1cce9781a19254dc97653ca919424092
+NIN2005-12-06d1t09.flac:10d266edf5775d9e663b578ae0ffad50
+NIN2005-12-06d1t10.flac:6288ab56532faabcf0a6b280219a24d7
+NIN2005-12-06d1t11.flac:9c9cce5e08df9a5eb56021ec98e1d6c1
+NIN2005-12-06d1t12.flac:4ae65aafae0b3f91d0cd5e13f93f4507
+NIN2005-12-06d2t01.flac:9d976d7d41f3da3005f27ebdcb1e90a5
+NIN2005-12-06d2t02.flac:79d0b606191ea851c293d5516fa42410
+NIN2005-12-06d2t03.flac:488361de48d09c0a60f4df0e41ae2f74
+NIN2005-12-06d2t04.flac:92191ebef023bab8a783143d4d07a1c4
+NIN2005-12-06d2t05.flac:924a6f073ed710a31c84d071c3dd8863
+NIN2005-12-06d2t06.flac:4ecf47a75b2fbb8216336fc44302b8b9
+NIN2005-12-06d2t07.flac:9818adcefe4d33c5ff0368feccfe13c0
+NIN2005-12-06d2t08.flac:c4159ecc6c21478a478b9a6838d9291f
+NIN2005-12-06d2t09.flac:53f3742db85aa34bcf6e5a74bc43d6fb

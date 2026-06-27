@@ -1,0 +1,39 @@
+Nine Inch Nails
+August 13, 1994
+Saugerties, NY
+Woodstock 1994
+
+Soundboard
+Reworked by audio mastering engineer Kevin C.
+
+Setlist:
+Pinion
+Terrible Lie
+Sin
+March of the Pigs
+Something I Can Never Have
+Closer
+Reptile
+Wish
+Suck
+Burn
+The Only Time
+Down In It
+Dead Souls
+Help Me I'm In Hell
+Happiness in Slavery
+Head Like a Hole 
+
+Notes:
+
+So, the other day I was looking for a good copy of the Woodstock 1994 performance. I'm an audio mastering engineer and I wanted the highest quality I could get.
+
+I've always been troubled in the quality of what was available.. All the CD versions have edits in Reptile and in some of the banter between songs (in order to fit them onto one CD), and they don't include the full intro. They're also all highpassed at 60hz for broadcast and have some really strange phase issues in the low end. So I went looking for a new source of video and audio and decided I was going to assemble the highest quality copy of the performance that I could find.
+
+As far as audio, I took a couple of the FLAC rips from reflectinginthechrome.com, and assembled a full performance. This took care of those edits, but it didn't have the full intro. I also needed a good video source.. then, I found a site: http://www.seven1963.org/ that had a DVD rip for download. It was a 720x480 interlaced DVD, which is the highest resolution that you can get from an NTSC broadcast like this, and likely the best copy we will ever see of this performance (unless, of course, the HD footage ever leaks from the production company..).
+
+I found the intro audio from a youtube video and edited that in. I also remastered the FLAC audio: I put back what was dropped down below 60hz (in Burn, for example, you'll hear a huge difference in the fact that you can hear the main bassline!), fixed the odd phasing/panning issues in the low end, and did a full mastering like I'd do for any other record. It's louder and punchier, but not overdone at all.
+
+For video, I de-interlaced it the best I could via software, cropped out the nasty VHS garbage on the sides and bottom, and synced it up with the audio. What I made and uploaded is what I believe to be the most complete and highest quality copy of this performance that exists. There are a few pops and clicks in the audio, and at one point in the video, the words 'VIDEO TRACKING' flash on the screen (I'm assuming this was taped on two VHSs and this was the break point, but nothing is missing), but it's much, MUCH better than anything out there and certainly better than anything else on Youtube.
+
+Ok, so that was all probably too technical and boring, but enjoy. I'm working with relflectinginthechrome to get the FLAC/MP3 downloads up, along with a 1.7 gb MP4 for download.

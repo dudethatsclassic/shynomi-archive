@@ -1,0 +1,38 @@
+Nine Inch Nails
+Verizon Wireless Music Center
+Noblesville, IN
+Monday July 3, 2006
+
+Taper:		George Wang <gewwang@yahoo.com>
+Source:		DPA 4023 > Sonosax SX-M2 > Mogami interconnect > Edirol R1 @ 24/44.1
+Location:	rear pit center, 25 ft. center
+
+WAV > FLAC:	.wav @ 24/44.1 > CD-WAV/FLAC frontend v1.7.1 > .flac
+
+01: Intro					-	02:04.800
+02: Somewhat Damaged				-	03:37.600
+03: You Know What You Are			-	03:21.600
+04: Terrible Lie				-	05:02.400
+05: March Of The Pigs				-	04:06.000
+06: Something I Can Never Have			-	06:17.000
+07: Closer					-	04:22.400
+08: Burn					-	04:55.200
+09: Gave Up					-	04:41.000
+10: Help Me I Am In Hell			-	02:43.800
+11: Non-Entity					-	03:40.733
+12: Only					-	04:28.466
+13: Wish					-	04:26.400
+14: La Mer > Into The Void			-	05:36.133
+15: The Big Come Down				-	03:59.866
+16: Suck					-	04:10.266
+17: Down In It					-	05:00.600
+18: Hurt					-	06:03.133
+19: Final Solution *				-	03:53.600
+20: The Hand That Feeds				-	03:33.266
+21: Head Like A Hole				-	05:53.733
+
+Total:						-	91:58.000
+
+*	with Peter Murphy
+
+compiled by George Wang on 07-06-2006

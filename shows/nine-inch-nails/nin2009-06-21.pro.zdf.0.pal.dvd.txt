@@ -1,0 +1,51 @@
+Nine Inch Nails
+Hurricane Festival
+Eichenring
+Scheeßel, Germany
+June 21, 2009
+
+Lineage: DVB-S broadcast > TechniSat SkyStar HD 2 > DVBViewer 4.2.1 > .ts > ProjectX > TMPGEnc DVD Author 2.1.5.77 > DVD
+
+Broadcast by ZDFtheaterkanal on August 5, 2009
+
+Duration: 16:08 min.
+Data Size: 742 MB
+Video: MPEG-2, PAL, 720x576i, 16:9, 25 fps, 6046 kbps
+Audio: MP2, stereo, 48 kHz, 256 kbps, CBR
+Chapters: 5, Menu: Yes
+
+TRACKLIST:
+01. Burn (4:51)
+02. March of the Pigs (1:04)
+03. 1,000,000 (1:42)
+04. Echoplex (3:39)
+05. Head Like a Hole (4:52)
+
+BAND LINEUP:
+Trent Reznor - vocals, guitar
+Robin Finck - guitar, backing vocals
+Justin Meldal-Johnsen - bass, synthesizers, backing vocals
+Ilan Rubin - drums
+
+The complete setlist looked something like this (from setlist.fm):
+01. Somewhat Damaged
+02. Terrible Lie
+03. Heresy
+04. March of the Pigs
+05. The Frail
+06. Metal (Gary Numan cover)
+07. I'm Afraid Of Americans (David Bowie cover)
+08. The Becoming
+09. Burn
+10. Gave Up
+11. The Fragile
+12. I Do Not Want This
+13. The Downward Spiral
+14. Wish
+15. Survivalism
+16. Echoplex
+17. The Hand That Feeds
+18. Head Like A Hole
+19. Hurt
+
+Captured, authored and uploaded on DIME by Homie8, 2009-08-06.

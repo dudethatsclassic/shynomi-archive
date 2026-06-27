@@ -1,0 +1,64 @@
+Nine Inch Nails
+1999.11.29 - Live at The Brixton Academy, London
+"Too Fucked Up To Care Anymore"
+
+Lineage: Unknown -> CDR -> cdparanoia 9.8 -> flac 1.1.1
+Taper: Gavin Banns
+Production: Gavin Banns and Jon Stubbins
+
+The original bootleg included a number of tracks from
+official Halos as "bonus" tracks.  These are not present
+in this distribution, though you'll still notice them on
+the included cover art.
+
+Conversion to lossy formats causes your ancestors to
+sadly shake their ghostly heads in sorrow and shame.
+Don't put them through such agony.
+
+Disc 1:
+1. The New Flesh (recorded intro) / Pinion
+2. Somewhat Damaged
+3. Terrible Lie
+4. Sin
+5. March of the Pigs
+6. Piggy
+7. The Frail
+8. The Wretched
+9. Reptile
+10. No, You Don't
+11. Gave Up
+12. La Mer
+13. The Great Below
+14. The Way Out Is Through
+
+Disc 2:
+15. Into the Void
+16. Down In It
+17. Head Like A Hole
+18. The Day The World Went Away
+19. Starfuckers, Inc.
+20. Closer
+21. Hurt
+
+md5sums:
+b59e9019ba8628909ec8ad64d5260b63  d1/d1track01.cdda.flac
+1936a4eda05cd42937c8bfb434d33932  d1/d1track02.cdda.flac
+98f34bf382844b0e2fb8cdf5737b0569  d1/d1track03.cdda.flac
+69dd7ab0b87b05dcd2980d683c607a09  d1/d1track04.cdda.flac
+bbca0a7b1b8955b7f13e5d90cc2437cf  d1/d1track05.cdda.flac
+924d44c52ee4eaad23461130be3e63b3  d1/d1track06.cdda.flac
+b866ea7b20530ffd557fde80f6c6c0c0  d1/d1track07.cdda.flac
+fb823e4ea80ddb75c9ce31d602bece58  d1/d1track08.cdda.flac
+af9ba981fdae8e1b64a3d3c08cee6d8e  d1/d1track09.cdda.flac
+241b2da0dff76fc8c3e30b1a533db1bc  d1/d1track10.cdda.flac
+a76ba8bdedef86baf8c8dc9ea9f80821  d1/d1track11.cdda.flac
+3c58a0b9cfa0d395479474e5315314d9  d1/d1track12.cdda.flac
+0f24cffc3d29b3cd3bbdc9e7a7515273  d1/d1track13.cdda.flac
+c7e785381d65f353789f940f2fb5e3aa  d1/d1track14.cdda.flac
+b71e33b5b0d48aa1cb87660b902b83d0  d2/d2track15.cdda.flac
+96c5be9ee611117a5086f4e5916ac25c  d2/d2track16.cdda.flac
+bc4d0bbc2f8d5358e8cb5c84abe63dcd  d2/d2track17.cdda.flac
+b1a5d3d7ed634b2ad519ccf04b665242  d2/d2track18.cdda.flac
+542e6da6017aa14fe49f3f06466637d5  d2/d2track19.cdda.flac
+a398cac1a6517e01e04ef9fd86a30917  d2/d2track20.cdda.flac
+fc2752bba09421dd7064030ecc4a12a9  d2/d2track21.cdda.flac

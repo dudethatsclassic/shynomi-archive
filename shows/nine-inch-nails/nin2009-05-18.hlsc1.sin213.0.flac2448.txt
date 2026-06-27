@@ -1,0 +1,56 @@
+Nine Inch Nails
+2009-05-18
+The Pearl
+Las Vegas, NV
+
+record  :  MM-HLSC-1(mounted on hat, 40 feet from stage loc, dead center) > MM-MBM (roll off @ 96hz) > R09 @ 24/48
+transfer:  R09 > USB > wavelab (editing) > Cdwav (tracking) > Trader's Little Helper (flac) > Foobar 2000 (liveshowtagger)
+taper:  sin213
+website:  http://members.cox.net/sin213/sin213.html
+
+NIN always puts on a great show.  I wasn't sure what to expect with it being back to a four piece again, but they have their sets really dialed in tight.  A big thank you to Trent for having an open taping policy for this tour.  This recording turned out pretty good, regardless of the amount of chatter going on during the show.  Luckily the sound was clear and loud enough to drown most of that out.  Wave goodbye to NIN...but hopefully only for a short time.  Enjoy!
+
+NIN - 90:43 *24bit version*
+
+01 Somewhat Damaged
+02 Terrible Lie
+03 Heresy
+04 March of the Pigs
+05 The Frail
+06 Piggy (Nothing Can Stop Me Now)
+07 Metal (Gary Numan cover)
+08 The Big Come Down
+09 Gave Up
+10 The Fragile
+11 I Do Not Want This
+12 The Downward Spiral
+13 Wish
+14 Survivalism
+15 The Day The World Went Away
+16 Physical (You're So) (Adam Ant cover)
+17 The Hand That Feeds
+18 Head Like A Hole
+19 Hurt
+
+**DO NOT ENCODE TO MP3, EXCEPT FOR PERSONAL MP3 PLAYER USE**
+**PLEASE DO NOT ALTER OR SELL THIS RECORDING AND INCLUDE THE INFO FILE IN TRADES**
+
+2009-05-18_NIN_24bit_t01.flac:c36a3346c6d44866950f66478a4dc40d
+2009-05-18_NIN_24bit_t02.flac:09a659b84819ab90b0658d80299be73b
+2009-05-18_NIN_24bit_t03.flac:dab45757a043926ab90a69fc0a4f7ac5
+2009-05-18_NIN_24bit_t04.flac:5a909c5bad87cffe656944c2d0740829
+2009-05-18_NIN_24bit_t05.flac:9a733220b14db4df51d14ac420224023
+2009-05-18_NIN_24bit_t06.flac:283a962a399cdbb3049040971ed6c59c
+2009-05-18_NIN_24bit_t07.flac:6bce95f3fca3eac994e51d0d735c7603
+2009-05-18_NIN_24bit_t08.flac:36e4641bca683a371c0e754c9275bcc2
+2009-05-18_NIN_24bit_t09.flac:a253ff210782019d9ab57887dab48668
+2009-05-18_NIN_24bit_t10.flac:a24636c8eab97fa58a15499cc7663fdf
+2009-05-18_NIN_24bit_t11.flac:4685b16a0693250365dd367de8f5212d
+2009-05-18_NIN_24bit_t12.flac:ac2feb5cd6e183f13df2764968a791ab
+2009-05-18_NIN_24bit_t13.flac:2541895546e5f1e7ece890e93d33b4e3
+2009-05-18_NIN_24bit_t14.flac:c32dd67b1923fd9d627dc9f634914565
+2009-05-18_NIN_24bit_t15.flac:71a5ae3808b0ea8d93239605c85240a9
+2009-05-18_NIN_24bit_t16.flac:2df7595b13715da6a9e0753787c937ea
+2009-05-18_NIN_24bit_t17.flac:be01c2c7e2056f8a444e85124f4e67e1
+2009-05-18_NIN_24bit_t18.flac:4cfaa53841ca6d5caa601c589d74d3d3
+2009-05-18_NIN_24bit_t19.flac:d1080c3413f6fc01ec8d2f11bc3dd262

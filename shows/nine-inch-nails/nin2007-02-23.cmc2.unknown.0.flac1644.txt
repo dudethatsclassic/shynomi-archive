@@ -1,0 +1,33 @@
+Nine Inch Nails
+february 23, 2007
+Zénith Arena, Lille
+
+01. The new Flesh > Pinion
+02. Love is not enough
+03. Sin
+04. Terrible lie
+05. March of the pigs
+06. The line begins to blur
+07. Closer
+08. Reptile
+09. Burn
+10. No you don't
+11. Give up
+12. Help me i'm in hell >
+13. Eraser
+14. La mer > 
+15. Into the void
+16. Survivalism
+17. Wish
+18. Suck >
+19. Down in it
+20. Hurt
+21. The hand that feeds
+22. Head like a hole
+
+Source:	CMC-2 + SB-SPSB-3 (bass filter @107Hz) + Nomad JuKebox 3 (line in, WAV @ 44.1Khz, +6db)
+Transfer: NJB3 > USB > 1 WAV file > Soundforge 6.0 (normalize) > CD Wave Editor > 22 WAV Files
+conversion :  Wav files > TLH > Flac Files
+
+Comments:
+

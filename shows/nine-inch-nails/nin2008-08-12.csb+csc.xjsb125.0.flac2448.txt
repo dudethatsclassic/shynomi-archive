@@ -1,0 +1,53 @@
+Nine Inch Nails
+Knoxville Civic Coliseum
+Knoxville, TN, USA
+2008-08-12
+
+Source: {[CSB's> Battery Box (bass roll-off enabled)] + [CSC's> Battery Box]}> Y-splitter> M-Audio Microtrack 24/96 (24 bits/48 khz)
+Location: Balcony Section DD (rear of coliseum, stage left)
+Taper: xjsb125 (matt@xjsb125.com)
+
+Transfer: Microtrack> USB> WAV> Adobe Audition 1.5 (fade, hard limiting)> CD Wave> FLAC (level 8)
+By: xjsb125
+
+Setlist:
+
+01 - 999,999
+02 - 1,000,000
+03 - Let You
+04 - Discipline
+05 - March Of The Pigs
+06 - Head Down
+07 - The Frail
+08 - Closer
+09 - Gave Up
+10 - Ghosts
+11 - Me, I'm Not
+12 - Vessel
+13 - Ghosts 17
+14 - Ghosts 32
+15 - Ghosts 19
+16 - Ghosts Piggy
+17 - The Greater Good
+18 - Pinion
+19 - Wish
+20 - Terrible Lie
+21 - Survivalism
+22 - Ghosts 31
+23 - Only
+24 - The Hand That Feeds
+25 - Head Like A Hole
+26 - Encore
+27 - Echoplex
+28 - God Given
+29 - Banter: Thank you; band introduction
+30 - The Good Soldier
+31 - Hurt
+32 - In This Twilight
+
+Notes:
+Headlining, with opening band Deerhunter. Small recording gap between Hurt and In This Twilight.
+
+****************************************
+*Please do not convert to lossy formats*
+****************************************

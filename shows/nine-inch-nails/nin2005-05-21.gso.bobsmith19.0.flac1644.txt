@@ -1,0 +1,89 @@
++--------------------------------------------------+
+|                                                  |
+|       nine inch nails live in atlanta, ga        |
+|           21may2005 at the tabernacle            |
+|                                                  |
++--------------------------------------------------+
+ 
+song titles:
+1.  pinion
+2.  the frail
+3.  the wretched
+4.  wish
+5.  sin
+6.  the line begins to blur
+7.  march of the pigs
+8.  something i can never have
+9.  the hand that feeds
+10. terrible lie
+11. closer to technical difficulties
+12. closer
+13. home
+14. burn
+15. reptile
+16. you know what you are
+17. suck
+18. gave up
+19. hurt
+20. starfuckers inc
+21. head like a hole
+
+artist:
+nine inch nails
+
+album:
+live in atlanta, ga
+
+year:
+2005
+
+comment:
+at the tabernacle
+ 
+genre:
+rock/industrial
+
+date:
+21may2005
+
+live content provider/content capture/content editor:
+bobsmith19
+
+technical:
+- source: giant squid omni's -> giant squid battery box -> sony mz-nh1 (pcm mode) 
+  -> usb 2.0 -> sonic stage v3.0 -> 44.1/16 wav
+- matrix: mic source -> audacity v1.2.3 (wav file split) 
+  -> adobe audition v1.5 (eq/dyncomp/amplify)
+- encoded to flac using flac v1.1.0 on linux (fc3) with switches -8 --no-replay-gain
+- recorded from the floor, right side (facing the stage) about 30 feet out
+- mics on my shoulders pointing at the stage about 12 inches apart.
+
+notes:
+- well here's saturday night (first night) at the tabernacle in atlanta.  sorry it took so
+  long.  i'm just not real good at this yet...i'm a unix guy, not a sound engineer.  i 
+  always share my recordings, but my ass was just slack there for a few months.
+- that being said, it's not the best boot, but not the worst either.  (headphones help!)
+- the place was jammed fucking tight on the floor so i got pushed around a lot.  people 
+  right up next to me on all sides made it difficult to not pick up some crowd noise 
+  (or move).  one guy in particular comes through pretty good at times (dude, leave the 
+  singing to trent next time!).  i thought about trying to edit the guy out, but decided 
+  that was how i heard everything that night, so left it in.  not that i know how to do 
+  that anyway...
+ 
+also also wik:
+- these files are freely distributed.
+- do not buy or sell these files.  they have been watermarked so we will know...fuckers.
+- this nfo file is not to be separated from the audio files.
+- do not distribute in lossy formats (personal encoding is ok).
+- in the famous words of reggie cunningham (http://www.themrmove.com/), "it's a free tape, 
+  so don't bitch."
+
+thanks:
+- nin
+- timp for motivating me to get this damn thing done...if he can release two shows back to
+  back in like one weeks time, i can do one in four months!
+- visit nine inch nails online at http://www.nin.com/
+- support nin and buy their albums!
+
++--------------------------------------------------+
+nfo v0,5

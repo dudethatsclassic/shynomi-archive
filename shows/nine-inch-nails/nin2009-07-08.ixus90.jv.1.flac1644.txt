@@ -1,0 +1,20 @@
+Nine Inch Nails
+Heineken Music Hall, Amsterdam, The Netherlands 
+08 July 2009
+
+01 Home02 1,000,00003 Letting You04 Sin05 March Of The Pigs06 Piggy (Nothing Can Stop Me Now)07 Metal08 The Line Begins To Blur09 Head Down10 Burn11 Gave Up12 Gone, Still13 La Mer14 The Fragile15 The Wretched16 Non-Entity17 I Do Not Want This18 The Downward Spiral19 Wish20 Survivalism21 Mr. Self Destruct22 Suck23 Echoplex24 The Hand That Feeds25 Head Like A Hole
+
+Encores 
+26 Hurt27 In This Twilight
+
+Lineage: 
+Canon Ixus 90 > Adobe Audition CS 5.5 (see info for details) > xAct (conversion to FLAC) 
+
+Info: 
+A different recording of this concert has previously appeared on Dime and is still available on RITC: http://www.ninlive.com/shows/2009/20090708.html. That recording, however, is practically unlistenable because the taper forgot to adjust the recording levels of his recorder. 
+
+I have always been looking for a better recording and finally got in touch with JV, who filmed the entire concert with a Canon Ixus 90 pocket camera. I didn't have much hope that his recording would represent an upgrade, but actually the recording is surprisingly good when considering the equipment!
+
+After isolating the audio, it still need quite a bit of doctoring. First, there were 200+ extremely short, but audible dropouts. These were detected using the Delete Silence filter and fixed manually. Furthermore, the audio had a bit of a nasty "ringing" quality, which was fixed by taming the high end using the Graphic Equalizer. Finally I boosted the low end by using the Multiband Compressor (Enhance Lows preset).
+
+I hope you can agree that after more than five years there finally is a listenable recording of this gig!

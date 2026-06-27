@@ -1,0 +1,76 @@
+Nine Inch Nails
+March 31, 2006
+The Key Club at Morongo Casino
+(Spiral Fan Club show)
+Cabazon, CA
+
+*DO NOT SELL THIS RECORDING ANYWHERE!!!! YOU WILL BE REPORTED! FREE TRADE ONLY.*
+
+SOURCE (AUD):
+DPA 4061s > SP-MicroTrack Dongle > M-Audio MicroTrack
+
+TRANSFER:
+M-Audio MicroTrack > USB 2.0 > Sound Forge 8.0 (Normalizing, Dithering) > CD WAVE 1.94.8 (Tracking) > FLAC frontend 1.7.1 (Align on Sector Boundaries)
+
+GENERATION:
+MT(M) > WAV[24bit/44.1Khz] > WAV[16bit/44.1Khz] > FLAC[Level 8]
+
+GENERATION IF BURNED:
+MT(M) > CDR(1)
+
+Disc 1 [50:12]
+1. Pinion
+2. Wish
+3. Sin
+4. Terrible Lie
+5. March of the Pigs
+6. The Frail
+7. The Wretched
+8. Closer (The Only Time)
+9. Mr. Self Destruct
+10. Piggy
+11. Burn
+12. Only
+
+Disc 2 [52:37]
+1. Home
+2. Please
+3. Reptile
+4. Dead Souls
+5. You Know What You Are?
+6. Gave Up
+7. Suck
+7. Hurt
+8. The Hand That Feeds
+9. Starfuckers, Inc.
+10. Head Like a Hole
+
+*DO NOT SELL THIS RECORDING ANYWHERE!!!! YOU WILL BE REPORTED! FREE TRADE ONLY.*
+DO NOT CONVERT THIS TO MP3 OR OTHER LOSSY FORMATS. IF YOU HAVE TO, KEEP IT TO YOURSELF. PRESERVE THE QUALITY.
+
+fuzn37@gmail.com
+
+FLAC Fingerprints:
+NIN2006-03-31d1t01.flac:bb20599a6856b650f57df2f50df15946
+NIN2006-03-31d1t02.flac:de3c11395b007eaf816f9fdf8d7ed6d6
+NIN2006-03-31d1t03.flac:e23a3fc27ee98c0893a1b7b7627777bb
+NIN2006-03-31d1t04.flac:6ed85e8ad42b59bc879ea80c3293645d
+NIN2006-03-31d1t05.flac:16fe8d659280e26112dd323e4bab52d5
+NIN2006-03-31d1t06.flac:f9c02cd7e028c408bed3ed7d99254733
+NIN2006-03-31d1t07.flac:da713005eb334467b2de287a4cabe51a
+NIN2006-03-31d1t08.flac:327b7268e37aa80a9c2f58471a77cb69
+NIN2006-03-31d1t09.flac:46da1e3793a1f2a3efec9a990c68377a
+NIN2006-03-31d1t10.flac:95b4a38ab5dba216636afd04d64ae517
+NIN2006-03-31d1t11.flac:734bcea39827765dc05a16640801b94a
+NIN2006-03-31d1t12.flac:f444411da823b64878defad83ca4c0f0
+NIN2006-03-31d2t01.flac:0e3fbc3ef8c9493bd60c87cdbe572061
+NIN2006-03-31d2t02.flac:70118e409c77882621af14cb094ab294
+NIN2006-03-31d2t03.flac:9123f626277eac37aacec640924739ce
+NIN2006-03-31d2t04.flac:22a74280b6f7bb048b19d18ae1962672
+NIN2006-03-31d2t05.flac:16339801cdf3ef2fe5e9fdc266fdfec5
+NIN2006-03-31d2t06.flac:9b89f0b625174ca94e57f9b343ac13ed
+NIN2006-03-31d2t07.flac:16c158b7c26cc63fddb1a511a8147064
+NIN2006-03-31d2t08.flac:06b2a9d15aa8db81b139583dcb1388f7
+NIN2006-03-31d2t09.flac:d3b73e35d61cc725b9455d3b6ddbb8d9
+NIN2006-03-31d2t10.flac:fe07f2289fc7e2148a6fc344b2137fc0
+NIN2006-03-31d2t11.flac:e14b80d875851f2acfec563cbe6b7841

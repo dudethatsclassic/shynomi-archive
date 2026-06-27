@@ -1,0 +1,42 @@
+Nine Inch Nails
+Verizon Wireless Amphitheatre
+Charlotte, NC
+Saturday June 10, 2006 
+
+Taper:		George Wang <gewwang@yahoo.com>
+Source:		DPA 4023 > Sonosax SX-M2 > Mogami interconnect > Edirol R1 @ 24/44.1
+Location:	5 ft Stage Left Stack
+
+WAV > FLAC:	.wav @ 24/44.1 > CD-WAV/FLAC frontend v1.7.1 > .flac
+
+01: Intro					-	00:22.400
+02: Somewhat Damaged				-	03:41.400
+03: You Know What You Are?			-	03:22.466
+04: Sin						-	04:20.133
+05: Terrible Lie				-	05:02.400
+06: March Of The Pigs				-	04:27.600
+07: The Wretched				-	07:15.400
+08: Closer					-	04:22.866
+09: Burn					-	04:56.333
+10: Gave Up					-	04:32.000
+11: Help Me I Am In Hell			-	02:41.800
+12: Non-Entity					-	03:38.600
+13: Only					-	04:27.133
+14: Wish					-	04:14.133
+15: Into The Void				-	07:15.333
+16: The Big Come Down				-	04:24.666
+17: Announcements				-	02:37.333
+18: Lightning Delay:				-	01:09.133
+19: Intro >					-	00:49.133
+20: Dead Souls					-	05:39.133
+21: Reptile					-	06:44.000
+22: Get Down, Make Love				-	03:20.600
+23: Down In It					-	04:40.533
+24: The Hand that Feeds				-	03:35.600
+25: Head Like A Hole				-	07:21.866
+
+Total:						-	105:02.000
+
+Note:	t01-t03 Location: 10 ft Stage Left Stage Speaker
+
+compiled by George Wang on 06-12-2006

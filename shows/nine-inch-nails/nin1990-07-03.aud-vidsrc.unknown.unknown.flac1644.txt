@@ -1,0 +1,41 @@
+Nine Inch Nails
+1990-07-03
+Club Nu, Melbourne, FL, USA
+"Hate" tour
+
+Complete audience recording
+Lineage: unknown taper and equipment -> unknown generation JVC EHG VHS -> Philips VR 1000 S-VHS PAL VCR (JVC rebrand) -> Monoprice heavy-duty RCA to 3.5mm cable -> ASUS Xonar DX sound card -> captured as 32/96 in Adobe Audition CC 2015 -> automatic phase correction (most accurate settings), normalized to -0.1dB and any DC bias removed, notch filter at 15,700Hz and 15,900Hz to remove loud video pilot tone (-48dB and -32dB respectively; very narrow, ultra quiet), normalized to -0.1dB again -> WAV (32/96) -> tracked using Audacity 2.1.0 -> WAV (32/96) tracks -> FLAC 16-bit 44.1khz using FLAC 1.3.1 64-bit (level 8 compression) and foobar2000 v1.3.8 with its Resampler (SoX) component v0.8.3 (best quality), dithering enabled 
+Generation: unknown
+Transfer: ligushka (https://www.depechemode-live.com)
+VHS photos and auCDtectTaskManager log included
+
+Notes: A decent sounding audience recording. This seems to be a new source! It's pretty hissy and has a rather loud crowd. Tracking the recording was a bit difficult due to how loud the hiss and crowd was, so my apologies if it's slightly off. The recording lacks dynamic range overall, but that can usually be expected from camera audio. Some occasional clicks and pops may be heard due to tracking errors which accumulate over the generations of tape; I did not apply any click removal. As far as I know, this is a complete recording, or if it isn't, it may just be missing some of the concert intro.
+
+Trent shouts to "turn up the fucking monitor" during "Head Like A Hole". Amusing stuff.
+
+I used a high end VCR to capture the HiFi audio track. I'd capture the video too, but my external time base corrector doesn't like the NTSC signal output from my PAL VCR (which does play NTSC without a problem otherwise) and strips the color from the signal, so I need to wait until I buy an actual NTSC S-VHS VCR before I can properly transfer the video. Until then, enjoy this audio!
+
+This VHS tape arrived jammed and a small amount of the beginning of the tape was crinkled from the first attempt to play the tape. I disassembled the VHS tape to remove whatever bits may have been causing the problem. Luckily, none of this recording was affected by the small section of crinkled tape.
+
+An unknown generation copy of 1989-12-09 Newark is the first recording on this VHS, but has worse quality audio than the second generation tape already available here: http://ninlive.com/shows/1989/19891209.html
+
+This recording is considered Source 1 on the "Reflecting In The Chrome" Nine Inch Nails live recording archive: http://ninlive.com/shows/1990/19900703.html
+
+Track list:
+
+01. [3:23] Intro
+02. [5:03] Terrible Lie
+03. [3:32] Sin
+04. [6:38] Something I Can Never Have
+05. [5:48] Sanctified
+06. [4:33] That's What I Get
+07. [5:28] Suck
+08. [5:05] The Only Time
+09. [3:39] Get Down, Make Love
+10. [5:57] Ringfinger
+11. [4:26] Down In It
+12. [6:27] Head Like A Hole
+Total time: 1:00:00
+
+
+NOTES: It was thought this recording was from July 4th because of the time stamp that is on the video recording. This was confirmed with a newspaper source that confirms only the July 3rd date. The camcorder’s clock was either set wrong, or the show started after mindnight. Thanks to TheBang and Arnaud (happinessinheresy.com)

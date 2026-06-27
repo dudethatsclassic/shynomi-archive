@@ -1,0 +1,113 @@
+Nine Inch Nails
+Date: 2009-06-29
+Location: DŸsseldorf, Germany
+Venua: Philipshalle
+Source: Audience
+Equipment/lineage:  Audio Technica ES943/O x 2 (SP-CMC-8 omnis) >  SP-SPSB-8 (no bass roll-off) > Edirol R-09 (48/24) > USB > HD > Amadeus Pro (Mac OS X; editing) > FLAC (Encoded to FLAC and SBEs fixed with xACT)
+Taper: s(solitude) a.k.a. 2late/jb
+
+***********************************************************************
+
+This is the 24bit version: 
+Please note that the tracks were NOT split with CD Wave so they are not split on sector boundaries. This means that if you should for some reason decide to convert this version to 16-bit later, you MUST remember to fix the SBEs! 
+
+******************READ ME*******************************************
+
+-do not sell, never, ever
+-do not convert to mp3 (or other lossy format) unless for personal use
+-do not remaster/matrix without my permission *)
+-please always do include this .txt file (unedited) with this recording, should you make a trade copy etc.
+
+***********************************************************************
+
+
+
+set list:
+
+home
+terrible lie
+discipline
+march of the pigs
+metal
+reptile
+the becoming
+i'm afraid of americans
+burn
+gave up
+la mer
+the fragile
+non-entity
+gone, still
+the way out is through
+wish
+mr. selfdestruct
+survivalism (+trent speaking, band introductions)
+the hand that feeds
+head like a hole (+crowd)
+
+E:
+echoplex
+the good soldier
+the day the world went away
+hurt
+
+
+
+Line-up: 
+Trent Reznor/Robin Finck/Justin Meldal-Johnsen/Ilan Rubin
+
+
+
+Total time: 1:58:54
+Size:  1.42 GB (FLAC)
+
+
+
+
+
+Notes:
+
+recorded FOS on the left, around 5th-10th row, approximately. 
+the audience around me was pretty "physical" during a few songs (like 'march of the pigs', naturally). there might be a bit phasing here and there in those places but nothing major, i managed to keep my footing pretty well. 
+some occasional babbling here and there. luckily there was nobody close to me constantly singing or talking all through the show. 
+
+a great show, as was berlin the following night. personally i was especially grateful and delighted to hear the 'fragile' material in this show. and it was good to see NIN for the last time with a NIN audience and not among some festival crowd. 
+
+thanks for all the US tapers for sharing so much great material from the NINJA tour -   greatly appreciated. 
+and if you happened to tape NIN on the current 2009 european summer/festival tour, please do share. thanks in advance.
+
+enjoy.
+
+-s
+
+
+
+
+FLAC fingerprints (24-bit):
+
+nin2009-06-29t01.flac:957a26c02a30605f9e612c310440dd08
+nin2009-06-29t02.flac:8954bec3b5c0ae74d0df25e19d0f8461
+nin2009-06-29t03.flac:46a77a250dbd7b4773953f59af55f953
+nin2009-06-29t04.flac:22553e6c21e491d2da9ba463a6581330
+nin2009-06-29t05.flac:998b4c1fa1b1c62ec2b4907a803a161c
+nin2009-06-29t06.flac:7774574578f59260c2692411419ecc8a
+nin2009-06-29t07.flac:a479ab77a3b27f65f86b0ec2764b82cb
+nin2009-06-29t08.flac:f64892584e1df5e318487a67800d6b1b
+nin2009-06-29t09.flac:6f75d2b467a188020a89b8730682dc15
+nin2009-06-29t10.flac:2b3881031fd8a2b41edfbce5d866c4eb
+nin2009-06-29t11.flac:ebfa13f6e01338e1f14122ed3b0296cd
+nin2009-06-29t12.flac:9b7ec475a5f5f6d4d25832ec773e981d
+nin2009-06-29t13.flac:96762341043b604a1bf23e37e3a19aaf
+nin2009-06-29t14.flac:64ec5fd215d34f923fd4cba3586c8377
+nin2009-06-29t15.flac:0d89d627933aceab22250e5372eb0a91
+nin2009-06-29t16.flac:3841e15009726b7f27250484a53aec21
+nin2009-06-29t17.flac:867be2e29e222f124f2cbdcab2c97e91
+nin2009-06-29t18.flac:56ff96f0a415d326124e1abc14087a60
+nin2009-06-29t19.flac:58bf0d0bd2ca2a008730c968769f4a65
+nin2009-06-29t20.flac:affb4ecfca8cd7e2b7d63255d8e2b712
+nin2009-06-29t21.flac:490c587c6045589c84f6f73ed0ca7f0d
+nin2009-06-29t22.flac:d96a257b6ffdd55b947dc0a234bb15ea
+nin2009-06-29t23.flac:a1c008948bc7f5abc0acd7966e58f75c
+nin2009-06-29t24.flac:79646112185b2fcff6d097348c457fe0
+
+

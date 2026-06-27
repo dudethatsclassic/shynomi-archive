@@ -1,0 +1,47 @@
+Nine Inch Nails
+Shoreline Amphitheatre
+Mountain View, CA, USA
+2009-05-22
+
+Equipment: CA-14 cardioid -> CA-9100 preamp -> R-09HR (24/96)
+Lineage: 24/96 WAV -> Amadeus Pro (normalize, downsample, EQ) -> 24/48 FLAC(8)
+
+Location: Section 102, Row L
+Recorded by: TheBang
+
+Soundcheck:
+
+01 I'm Afraid of Americans
+02 The Good Soldier
+03 Meet Your Master
+04 Dead Souls
+
+Setlist:
+
+01 Home
+02 1,000,000
+03 Terrible Lie
+04 Discipline
+05 March of the Pigs
+06 Piggy
+07 Metal
+08 The Becoming
+09 Burn
+10 Gave Up
+11 The Fragile
+12 The Way Out Is Through
+13 Wish
+14 Echoplex
+15 Survivalism
+16 The Day the World Went Away
+17 The Hand That Feeds
+18 Head Like a Hole
+19 Hurt
+
+Soundcheck has a patch from camcorder audio for most of "Americans."  The
+lineage is Canon DM-50 > HV20 > HDV > MP2 > WAV.
+
+DO NOT DISTRIBUTE IN MP3 OR OTHER LOSSY FORMAT!
+
+I didn't use any dynamic range compression or limiting.  Preserve the
+dynamic range!  Fight the loudness race!  Just turn up your volume.

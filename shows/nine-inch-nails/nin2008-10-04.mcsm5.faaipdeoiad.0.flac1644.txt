@@ -1,0 +1,49 @@
+Nine Inch Nails
+Lights in the sky over Southamerica
+Movistar Arena
+Santiago, Chile
+2008.10.04
+
+Source: MM-MCSM-5 cardioids -> MM-EBM-1 (Bass Roll Off @ 69hz) -> Sony MZ-NH700 (PCM mode) -> Sonicstage 4.3
+Transfer: WAV -> Cool Edit Pro (normalize 94%, fade in-out) -> FLAC Frontrend -> FLAC (Level 6)
+Taper: FaaipDeOaid (faaipdeoaid@hotmail.com)
+
+Setlist
+
+01.999,999
+02.1,000,000
+03.Letting You
+04.Discipline
+05.March of the Pigs
+06.Piggy
+07.The Frail
+08.The Wretched
+09.Head Down
+10.Closer
+11.Gave Up
+12.Corona Radiata
+13.The Warning
+14.Vessel
+15.Pinion
+16.Wish
+17.Terrible Lie
+18.Survivalism
+19.The Big Come Down
+20.31 Ghosts IV
+21.Only **
+22.The Hand That Feeds
+23.Head Like a Hole
+24.Encore break
+25.Echoplex
+26.Reptile
+27.God Given
+28.Hurt
+29.In This Twilight
+30.Zero sum
+
+Running time: 2:02:05
+
+Recording notes: The first seconds of "Only" are missing for disc change. Despite that, this is a very good recording of the show
+
+* Not For Sale in any way.
+* Do not encode this recording to Mp3 or any other lossy format if not for personal use

@@ -1,0 +1,60 @@
+
+
+----------------------------------------------------------------
+	Artist:			Nine Inch Nails
+	Date:			November 15, 2008
+	Location:		Van Andel Arean, Grand Rapids, MI
+	Taper:			JB
+	e-mail:			radioheadusa@comcast.net
+	DC++ screenname:	radiohead8989
+	Web:			http://home.comcast.net/~radioheadusa/
+	date of seeding:	November 16, 2008
+----------------------------------------------------------------
+	Source Info:		>Edirol R9 (24bit/48kHz) (Line In)
+				>Core Sound HEB (4060) (Bass Rolloff=ON)
+				>Adobe Audition 
+				>CDWAVE
+				>FLAC (level 8)
+----------------------------------------------------------------
+	additional info:	Recorded from the main floor, right side.  I was about 8 rows of people from the stage, right in line with the main PA.
+----------------------------------------------------------------
+	running time:		2h:03m:55s
+----------------------------------------------------------------
+	Setlist:		01 999,999
+				02 1,000,000
+				03 Letting You
+				04 Discipline
+				05 March of the Pigs
+				06 Head Down
+				07 The Frail
+				08 The Wretched
+				09 Closer
+				10 Gave Up
+				11 Corona Radiata
+				12 The Warning
+				13 The Great Distroyer
+				14 17 Ghosts II
+				15 21 Ghosts III
+				16 19 Ghosts III
+				17 Piggy (Ghosts)
+				18 The Greater Good
+				19 Pinion
+				20 Wish
+				21 Terrible Lie
+				22 Survivalish
+				23 31 Ghosts IV
+				24 Only
+				25 The Hand That Feeds
+				26 Head Like a Hole
+				27 Off-stage
+
+				28 Echoplex
+				29 The Beginning of the End
+				30 The Good Soldier
+				31 Hurt
+				32 In This Twilight
+----------------------------------------------------------------
+Note:
+This is a 24bit / 48KHZ recording.  It cannot be burned to a cd, unless you convert it to 16bit / 44.1k first.
+The FLAC files were created using CD Wave 1.97, and they were tested using Media Monkey 3.0.2.1134.
+

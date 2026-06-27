@@ -1,0 +1,46 @@
+Nine Inch Nails
+March 14, 1994
+Las Vegas, NV
+Huntridge Theater
+
+http://www.reflectinginthechrome.com/shows/1994/19940314.html
+
+Equipment: Aiwa Mic + DAT (32 kHZ - unconfirmed)
+Taper: Unknown
+Transfer: 2nd Gen. DAT > Sony TCD-D8 > 7-Pin > Optical In > iMac > Adobe Audition (Normalize to -0.01 db, convert to 32 kHZ [see notes] & Track) > WAV > FLAC
+
+Setlist:
+01 Pre-Show
+02 Pinion
+03 Terrible Lie
+04 Sin
+05 March Of The Pigs
+06 Closer
+07 Reptile
+08 Wish
+09 Suck
+10 Heresy
+11 The Only Time
+12 Get Down Make Love
+13 Down In It
+14 Head Like A Hole 
+
+Notes: Thanks to Tapeworm48 for sending over a few DATs to be transferred for the archive.  This is a 2nd gen DAT tape. Good recording. 
+
+A few things to be said about this recording… This is the same source as the silver CD "Atrocities." To my ears, it sounds better than the silver CD. The archive has an unknown version of the silver CD at this time. But I would assume it's a CD rip. Since then, we have deleted the "Atrocities" silver CD but wanted to make note of it here.
+
+The DAT had a lineage marked on the back of the case (32 kHz -> Line -> 44.1) which could cause some confusion. At this point, I would assume that the master tape is 32 Khz which transferred a copy via line out to the 1st gen DAT. The 2nd gen DAT was created in 44.1. I did transfer the 2nd Gen DAT at 44.1, but converted it to 32 kHZ since there is no reason to keep it in 44.1 since those frequencies were lost. This might not be CD friendly, but archiving it in its original quality is important. Looking at the unknown CD rip of "Atrocities," there is also a loss in frequencies via spectral analysis. This gives proof that the master tape was indeed recorded at 32 kHZ, but it could also mean I just have an mp3 rip of the silver CD. More investigation is needed.
+
+No EQ'ing was done to this recording, just normalized it to under 0 db. Enjoy the tape!
+
+There were two warm up shows in Las Vegas. This is the first night. The 2nd night has been out of circulation and a few of us have been looking for it for a few years with little leads. We have confirmation that they are available as they are listed on a few trader's lists:
+
+http://www.csh.rit.edu/~jerry/old/nin_ri/cassette.html
+http://9inchgirl.tripod.com/bootlist.html 
+
+If you have this recording, please get in contact. Or share on DIME.
+
+
+And if you have any past recordings of Nine Inch Nails you would like to add to the live archive at http://www.reflectinginthechrome.com, or are taping any concerts in the future please get in contact with me at ryanj at reflectinginthechrome dot com!
+
+This is in 16/32 for archival purposes. Same rate as the taper recorded in (unconfirmed at the moment)

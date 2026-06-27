@@ -1,0 +1,79 @@
+NIN
+2008-08-05
+ACC Toronto ON
+
+source:Church Audio Cardioids>CA STC-9000 Pre-Amp >Edirol R-09 at 24/48 >USB >Sonic Foundry 16bit wave> FlacFrontend
+
+recorded by Krewe Chief
+
+
+Disc 1
+
+Track 01	999,999
+Track 02	1,000,000
+Track 03	Letting You
+Track 04	Discipline
+Track 05	March of the Pigs
+Track 06	Head Down
+Track 07	The Frail
+Track 08	Closer
+Track 09	Gave Up
+Track 10	The Warning
+Track 11	Vessel
+Track 12	Ghosts?
+Track 13	Ghosts?
+Track 14	Ghosts?
+Track 15	Piggy
+Track 16	The Greater Good
+Track 17	Pinion
+Track 18	Wish
+Track 19	Terrible Lies
+
+Disc 2
+
+Track 01	Survivalism
+Track 02	The Big Come Down
+Track 03	Only
+Track 04	The Hand That Feeds
+Track 05	Head Like A Hole
+Track 06	crowd
+Track 07	Echoplex
+Track 08	God Given
+Track 09	Trent Talks
+Track 10	The Good Soldier
+Track 11	Hurt
+Track 12	In This Twilight
+
+
+nin_20080805_d2t12-fixed.flac:07edaaaeb3d0eb72a98d4c90e59f17d7
+nin_20080805_d1t01-fixed.flac:5617f51f198182b9bda312dce7c84106
+nin_20080805_d1t02-fixed.flac:ec65374c0af15a27bef3e76014f09c8d
+nin_20080805_d1t03-fixed.flac:223fdc36838d1a7bed3a404679d3f40c
+nin_20080805_d1t04-fixed.flac:f9483224af9519e5cfe9f5323aa2cabd
+nin_20080805_d1t05-fixed.flac:d71d9254ea90d0324a13e145c080fbb0
+nin_20080805_d1t06-fixed.flac:a7d1ce9824bfdf5dabac0cb497835d0b
+nin_20080805_d1t07-fixed.flac:c0b617f5f1d2dd6b3cf21ba50ace5b68
+nin_20080805_d1t08-fixed.flac:1b9198487d374e98603dd0a7c0decd2e
+nin_20080805_d1t09-fixed.flac:983251d7afde4344f7d2be07d42860a0
+nin_20080805_d1t10-fixed.flac:7f1ec5058bc61c84303ce7bdb72747d0
+nin_20080805_d1t11-fixed.flac:ae90ff91d50d83c02d011a42a800b6ab
+nin_20080805_d1t12-fixed.flac:fdb3ac9a7da2cc4bfacdbbef1843bc7f
+nin_20080805_d1t13-fixed.flac:bfd0fc159ea3910a07d77ee5b6072e1e
+nin_20080805_d1t14-fixed.flac:ce870489106b45b66d0aed4a6f43e32f
+nin_20080805_d1t15-fixed.flac:e2e40d6c8c60a1ee2c1902acb8365c40
+nin_20080805_d1t16-fixed.flac:b218704e1c678d0ebef4e21e768a093b
+nin_20080805_d1t17-fixed.flac:50313ec158d6e8c25bbde34c91972fd5
+nin_20080805_d1t18-fixed.flac:719711e1bf7fceb08669c0f38b811c7d
+nin_20080805_d1t19-fixed.flac:435ac88fe212071511fde0f09748c99e
+nin_20080805_d2t01-fixed.flac:b25e2d54e323357f2fb6fd2b0b5414b0
+nin_20080805_d2t02-fixed.flac:2a3c792c1a05ecb9f35055e3564197c6
+nin_20080805_d2t03-fixed.flac:31d2fab62229e203b55e015e9adf9020
+nin_20080805_d2t04-fixed.flac:5ebb51b1f3335d33965d2e8ebeb8457c
+nin_20080805_d2t05-fixed.flac:e872fde886c12a76916e2192ee849a53
+nin_20080805_d2t06-fixed.flac:92bfc4cfeaec5cd8890c8b45f9d9b2ad
+nin_20080805_d2t07-fixed.flac:e848833f3b09859542ec2cc57836f76d
+nin_20080805_d2t08-fixed.flac:66df9085c45e4e5c187df8ee694a51f9
+nin_20080805_d2t09-fixed.flac:e4e4bbb10a4d7cc6d2bd3ebc31ec1bdd
+nin_20080805_d2t10-fixed.flac:e28456017d28b0e42d0aef92b424b239
+nin_20080805_d2t11-fixed.flac:a5869550422468fe5503afb914adc598
+

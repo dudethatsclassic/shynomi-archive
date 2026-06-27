@@ -1,0 +1,83 @@
++--------------------------------------------------+
+|                                                  |
+|       Nine Inch Nails Live in Atlanta, GA        |
+|       07Jun2006 at HiFi Buys Amphitheater        |
+|                                                  |
++--------------------------------------------------+
+
+Song Titles:
+1. Somewhat Damaged (missed the beginning, see notes)
+2. You Know What You Are
+3. Sin
+4. Terrible Lie
+5. March of the Pigs
+6. Something I Can Never Have
+7. Closer
+8. Burn
+9. Gave Up
+10. Help Me I Am In Hell
+11. Non Entity
+12. Only
+13. Wish
+14. La Mer
+15. Into the Void
+16. Reptile
+17. Suck
+18. Get Down Make Love
+19. Hurt
+20. The Hand That Feeds
+21. Head Like A Hole
+22. Outro
+
+Artist:
+Nine Inch Nails
+
+Album:
+Live in Atlanta, GA
+
+Year:
+2006
+
+Comment:
+At HiFi Buys Amphitheater
+
+Genre:
+Rock/Industrial
+
+Date:
+07Jun200
+
+Live content provider/Content capture/Content editor:
+bobsmith19
+
+Technical:
+- Source: AT853 -> PS-2 -> AD-20 (optical) -> Sony MZ-NH1 (PCM mode) -> USB 2.0 -> Sonic Stage v3.4 -> 44.1/16 WAV.
+- Some fucking with in Adobe Audition 2.0 (eq, 3db boost, clip limiting).
+- Encoded to FLAC using v1.1.2a with switch -8.
+- Recorded from Section XXX, row X, seat XX (DFC, I was pretty close up).
+- Video clips taken with a Palm Treo 700p (352x288 3G2 format, mono 8kHz, 14.97 FPS).
+- Yes, I know the audio in the video clips sounds like complete ass.
+- Clips are viewable in Quicktime 7.0.3 (sorry, I don't like QT either...)
+
+Notes:
+- As we all know (now), Trent comes out with the lights on and the roadies still on stage and starts into Somewhat Damaged.  So I missed the beginning.  Maybe he's fucking with us tapers?
+- Some small chatter...nothing big.  What is with people sitting down and having cell phone conversations?  I mean, damn...who the fuck are they talking to?
+- Enjoy this responsibly with a nice pair of mains and a subwoofer, or a good set of cans.  Crappy PC speakers need not apply.
+
+Also Also Wik:
+- These files are freely distributed.
+- Do not buy or sell these files. They have been watermarked so we will know...biggest douche in the Universe.
+- This NFO file is not to be separated from the audio files.
+- Do not distribute in lossy formats (personal encoding is ok).
+- In the famous words of Reggie Cunningham (http://www.themrmove.com/), "It's a free tape,
+so don't bitch."
+
+Thanks:
+- NIN.
+- The guy next to me from Knoxville...thanks for not ratting me out!  I hope you find these files on Dime and your friend helps you with Bittorrent.
+- My wife for sewing my "bootlegger", uh, line of clothing.
+- Visit Nine Inch Nails online at http://www.nin.com/.
+- Support Trent and buy his albums! (but even I'm not paying $40 for a concert t-shirt...).
+
++--------------------------------------------------+
+NFO v0,6

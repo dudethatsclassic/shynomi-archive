@@ -1,0 +1,61 @@
+Nine Inch Nails
+Molson Amphitheatre
+Toronto ON
+2006-06-24
+
+
+recorded by Krewe Chief
+mic: ECM-719 > Sony MZ-RH10 > Sony 1GB HD MD >USB > SonicStage > WAV >Sonic Foundry edit > shntool > FLAC
+
+Disc 1
+Somewhat Damaged
+You Know What You Are?
+Sin
+Terrible Lie
+March of the Pigs
+Something I Can Never Have
+Closer
+Burn
+Gave Up
+Help Me I'm In Hell
+Non Entity
+Only
+Wish
+La Mer(?)
+The Big Comedown
+Dead Souls
+
+Disc 2
+Trent Talks
+Suck
+Down In It
+(clipped) Hurt
+Bite the Hand That Feeds
+Head Like A Hole
+
+
+d2t06-stripped-fixed.flac:f46ccfe448a9e597eeb3f1dbf9575281
+d1t01-stripped-fixed.flac:1517b2bf098f6117054095a1b5268149
+d1t02-stripped-fixed.flac:7ffeae7e1e53d05df3ae0ca2ae64d457
+d1t03-stripped-fixed.flac:579756f504ba9d16d6383b477c24908f
+d1t04-stripped-fixed.flac:fe922e14f945a93458fed6a671b11663
+d1t05-stripped-fixed.flac:540e55777b186f2c479a3bede97fb21a
+d1t06-stripped-fixed.flac:baea8fba856c0e50a7ff60ea79ba0194
+d1t07-stripped-fixed.flac:4334afb29d411343395191e046359fda
+d1t08-stripped-fixed.flac:be119832235a20e858518eeb8978aeb7
+d1t09-stripped-fixed.flac:e599a82c12358527d41c795127a01407
+d1t10-stripped-fixed.flac:543cd5216b5eb653dd4d09974325185a
+d1t11-stripped-fixed.flac:fd9eba6abc4800856c3efa1405c352e2
+d1t12-stripped-fixed.flac:3c14c6516f8f7fafb1b722a9ddf610fa
+d1t13-stripped-fixed.flac:acd70e54e6ee3779ab93db5f5704ce32
+d1t14-stripped-fixed.flac:0053f9b5a51558c05cc582a9037b0e94
+d1t15-stripped-fixed.flac:5b55ca097135a0ce6cce792ed0d197c6
+d1t16-stripped-fixed.flac:922229730799958c91bad682070b817b
+d2t01-stripped-fixed.flac:b3f4153da5ee76b9418dd6ca48b589ef
+d2t02-stripped-fixed.flac:420def8b1193b03a5dd5ea35085a6f0e
+d2t03-stripped-fixed.flac:de8b894b2d3d378a7e91ee73bb7c5e5d
+d2t04-stripped-fixed.flac:e3a9a7aaaa034fb0ed16679cd5243929
+d2t05-stripped-fixed.flac:72a31c6257d84ae8a7452fa6d03fa3c6
+
+
+

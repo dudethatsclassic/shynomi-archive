@@ -1,0 +1,135 @@
+**********************************************
+16 bit / 44100 Hz version
+STEREO
+**********************************************
+
+Artist/Band: Nine Inch Nails
+
+Date: 2008-12-04 (Thursday)
+Title: Minus One Cable
+Venue: Prospera Place - Kelowna, British Columbia, Canada
+Venue capacity: 8000
+Estimated attendance: Full House
+Weather conditions: Indoor show - not applicable
+Type: Open-Air Audience/Stealth
+Source: Edirol R-09 internals (recorded at 24/48)
+Transfer: WavePad Master's Edition 4.0 (track splitting, fades, downsampling) > Trader's Little Helper v.2.4.1 build 160 (flac 8, fix SBE's & create .ffp and .md5 files)
+Recording location: DFC - lower rear bowl
+Sound Quality: EX-, B+, 7/10 - This recording was made using the R-09's internal mics that night as somehow, I had forgotten to bring a cable with me.
+Recorded by: Seth Meister (http://gplus.to/seth01)
+Mastered by: Leif12345
+Release date: 2014-12-22
+All photos taken by Seth Meister and licensed under a Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International License.
+http://creativecommons.org/licenses/by-nc-nd/4.0/
+
+---------------------------------
+Setlist:
+-Set One-
+01 - 999,999
+02 - 1,000,000
+03 - Letting You
+04 - Discipline
+05 - March of the Pigs
+06 - Head Down
+07 - La mer >
+08 - The Frail >
+09 - Closer
+10 - Gave Up
+11 - Me, I'm Not
+12 - Vessel
+13 - Ghosts 21
+14 - Ghosts 28
+15 - Ghosts 19
+16 - Ghosts Piggy
+17 - The Greater Good - Pinion
+18 - Wish
+19 - Terrible Lie
+20 - Survivalism
+21 - Ghosts 31
+22 - Only
+23 - The Hand That Feeds
+24 - Head Like A Hole
+
+**Encore**
+25 - Echoplex
+26 - The Beginning of the End
+27 - The Good Soldier
+28 - Hurt
+29 - In This Twilight
+
+---------------------------------
+Total Time:  2:05:09
+Total .flac(8) size: 	543 MB
+Total .wav size: 	1.23 GB
+---------------------------------
+
+Band Members:
+Trent Reznor - vocals
+Robin Finck - guitar
+Alessandro Cortini - keyboards
+Justin Meldal-Johnsen - bass
+Josh Freese - drums
+
+Please support artists by attending concerts & purchasing their official merchandise:
+http://www.nin.com/
+http://en.wikipedia.org/wiki/Nine_Inch_Nails
+
+**********************************************
+I had just seen NIN for my first time a few months prior (2008-07-25) during the 1st Pemberton Music Festival and was very impressed. I was excited to be seeing them again but a large part of that excitement was completely destroyed the moment the supporting band took the stage. The Bug was by far the absolutely worst band I had ever seen before or since. It was a miracle that my recorder didn't break taping them and my ears didn't start bleeding. To this day, I still don't know what someone was thinking pairing up this disaster of a "band" with NIN. May I never see them again.
+
+Surprisingly, I found that NIN's performance was a little lacklustre this evening. Almost as if they were tired. There was a lot of dynamic range and sadly, but as usual for Kelowna, the amount of respect given towards the band was minimal. 
+
+The venue itself is never great sounding and tonight was no different. Somehow I had forgotten a cable so was forced to use my digicorder's internals. I still managed a pretty good recording and got lucky with not having too many talkers around me. 
+
+All in all, this was a good show and worth the listen. Enjoy.
+**********************************************
+
+Fight the Loudness War!  http://en.wikipedia.org/wiki/Loudness_war
+No compression was used in the post-processing of this recording to preserve it's dynamic range, listenability and authenticity.
+This recording will naturally sound much better cranked up loud with quality headphones!
+Peace & enjoy,
+Seth
+
+
+FFP's:
+d01t01 - 999, 999.flac:5076e07214dc33514e49556f2f4895ec
+d01t02 - 1, 000, 000.flac:8d409df32122f6063277fbd2a73f19df
+d01t03 - Letting You.flac:3c48f9ca7c922c99c66f6299ebf0e9ac
+d01t04 - Discipline.flac:24e9499742b6fb5f90310ea11d6c41b2
+d01t05 - March of the Pigs.flac:89b1ed6e5258b1997662f8b50d8fea4e
+d01t06 - Head Down.flac:2ca52a88ebd8bf6c81bd0cf05720f7c8
+d01t07 - La mer.flac:fdcbc784e401648ec5da74f5a56a7b12
+d01t08 - The Frail.flac:b15057f8adb835fe1baeb288e21977b1
+d01t09 - Closer.flac:93f50e3aef8e310132e948553621d4bf
+d01t10 - Gave Up.flac:f5f4c68ec8590b3627316a9976c52a95
+d01t11 - Me, I'm Not.flac:4905951aa0fed527cc41b1289b1b1686
+d01t12 - Vessel.flac:012c3258dcbbb57293b129d429ec5952
+d02t01 - Ghosts 21.flac:a9505fea6524db6dbb93044edbe23ed9
+d02t02 - Ghosts 28.flac:6b890896f69be369b3623991378c353c
+d02t03 - Ghosts 19.flac:55ebfe99fdf442569897c4f8b6299925
+d02t04 - Ghosts Piggy.flac:87c481daaa9c61eb0a25d989b2f231ad
+d02t05 - The Greater Good-Pinion.flac:7c0ea78c7374ca4e699f1de1035078c8
+d02t06 - Wish.flac:f1ed77b238fa03bb659dd99460b67b29
+d02t07 - Terrible Lie.flac:9377384f2b434d25645df34b864efadc
+d02t08 - Survivalism.flac:9206122ef5bda149fe81daa8ec96b33e
+d02t09 - Ghosts 31.flac:5dbed12f200dafe59f265d69702c1e46
+d02t10 - Only.flac:4eed481a9f3e6af14905fa8daf072432
+d02t11 - The Hand That Feeds.flac:a199a4f5cf1804afa0184562f179a9af
+d02t12 - Head Like A Hole.flac:92ada65d6b29b40736c96aaf610a9e1f
+d02t13 - Echoplex.flac:9bdb881977263c3220ad3b10cef58760
+d02t14 - The Beginning of the End.flac:06e251d3844f31cc86274eb28605d93d
+d02t15 - The Good Soldier.flac:d93d18dcab3ce62f0742c2c2526fe0a4
+d02t16 - Hurt.flac:5fd8c305714d673255df9fc727d69c11
+d02t17 - In This Twilight.flac:642a37e9041e2c874d59481c6bf5c5c5
+
+
+
+First released exclusively on: The NIN Live Archive ( http://www.ninlive.com/ ) 
+**********************************************
+Please share this recording freely - refrain from posting to other sites or remastering before contacting me.
+Do not encode to lossy .mp3 (except for personal use).
+**********************************************
+01010011 01100101 01110100 01101000
+
+
+***END***

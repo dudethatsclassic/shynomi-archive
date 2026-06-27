@@ -1,0 +1,44 @@
+
+Nine Inch Nails
+Congress Theatre: Chicago, IL
+May 6, 2005
+
+Source: DPA 4061s > CSBox > Sony TCD-D100 @ 48kHz
+Location: FOB right-center, 2nd row behind pit
+Transfer: DAT Master > Sony PCM-R300 > M-Audio MT2496 II > Audacity > CDWave > TLH
+Taper: tapeworm(48)
+
+Setlist:
+
+01 Intro
+02 The Frail 
+03 The Wretched 
+04 You Know What You Are? (aborted)
+05 -stage break-
+06 Wish 
+07 March of the Pigs 
+08 The Line Begins to Blur 
+09 Piggy 
+10 Terrible Lie 
+11 Burn 
+12 With Teeth 
+13 Closer / (The Only Time) 
+14 Home 
+15 Reptile 
+16 The Big Come Down 
+17 Gave Up 
+18 The Day the World Went Away 
+19 Suck 
+20 Hurt 
+21 The Hand That Feeds 
+22 Head Like a Hole
+23 Outro
+
+Notes: First of 2 sold out nights on the Spring With_Teeth club tour. First 3 songs are played with the majority of the PA off, prior to stopping the set to fix the issue. I included the stage break for the sake of completeness, however I did pause the recorder at the concert during the 15 minute break. Intense show from that point forward. Entire file amplified +1dB prior to resampling to 44.1kHz. This is a raw transfer with no fades or EQ.
+
+Archive: Master DAT was transferred @ 48kHz and FLAC'd with cue sheet. 
+
+Taped and transferred by tapeworm(48) 
+Txt file compiled on 12/30/2014
+
+*** DO NOT DISTRIBUTE IN LOSSY FORMATS. DO NOT SELL THIS RECORDING, TRADE IT FREELY *** 

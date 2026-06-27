@@ -1,0 +1,227 @@
+X Lossless Decoder version 20141129 (148.1)
+
+XLD extraction logfile from 2015-09-03 11:29:28 -0400
+
+Nine Inch Nails / 1994.11.28 Pittsburgh, Civic Arena - Hanging Like Jesus On This Cross
+
+Used drive : OPTIARC DVD RW AD-5670SC (revision 4BH2)
+Media type : Pressed CD
+
+Ripper mode             : XLD Secure Ripper
+Disable audio cache     : OK for the drive with a cache less than 1375KiB
+Make use of C2 pointers : NO
+Read offset correction  : 48
+Max retry count         : 20
+Gap status              : Analyzed, Appended (except HTOA)
+
+TOC of the extracted CD
+     Track |   Start  |  Length  | Start sector | End sector 
+    ---------------------------------------------------------
+        1  | 00:00:00 | 03:01:60 |         0    |    13634   
+        2  | 03:01:60 | 03:42:35 |     13635    |    30319   
+        3  | 06:44:20 | 04:13:57 |     30320    |    49351   
+        4  | 10:58:02 | 05:34:23 |     49352    |    74424   
+        5  | 16:32:25 | 04:37:15 |     74425    |    95214   
+        6  | 21:09:40 | 06:13:07 |     95215    |   123196   
+        7  | 27:22:47 | 06:23:63 |    123197    |   151984   
+        8  | 33:46:35 | 06:19:72 |    151985    |   180481   
+        9  | 40:06:32 | 06:25:30 |    180482    |   209386   
+       10  | 46:31:62 | 06:22:00 |    209387    |   238036   
+       11  | 52:53:62 | 04:17:15 |    238037    |   257326   
+       12  | 57:11:02 | 05:35:73 |    257327    |   282524   
+       13  | 62:47:00 | 04:24:17 |    282525    |   302341   
+       14  | 67:11:17 | 05:41:45 |    302342    |   327961   
+
+AccurateRip Summary
+    Disc not found in AccurateRip DB.
+
+All Tracks
+    Statistics
+        Read error                           : 0
+        Jitter error (maybe fixed)           : 0
+        Retry sector count                   : 0
+        Damaged sector count                 : 0
+
+Track 01
+    Filename : /Users/RyanJonik/Desktop/nin1994-11-28.hanginglikejesusonthiscross.booth.0.flac1644/01 Nine Inch Nails - Downward Spiral.wav
+    Pre-gap length : 00:02:00
+
+    Track gain               : 3.59 dB
+    Peak                     : 0.346008
+    CRC32 hash (test run)    : 6650FA8D
+    CRC32 hash               : 6650FA8D
+    CRC32 hash (skip zero)   : F9FE8366
+    AccurateRip v1 signature : 3010A644
+    AccurateRip v2 signature : 5DD3F996
+        ->Track not present in AccurateRip database.
+    Statistics
+        Read error                           : 0
+        Jitter error (maybe fixed)           : 0
+        Retry sector count                   : 0
+        Damaged sector count                 : 0
+
+Track 02
+    Filename : /Users/RyanJonik/Desktop/nin1994-11-28.hanginglikejesusonthiscross.booth.0.flac1644/02 Nine Inch Nails - Wish.wav
+    Pre-gap length : 00:00:03
+
+    Track gain               : 1.98 dB
+    Peak                     : 0.376526
+    CRC32 hash (test run)    : 652C7D4A
+    CRC32 hash               : 652C7D4A
+    CRC32 hash (skip zero)   : D9AE6EE5
+    AccurateRip v1 signature : 8C9B94D9
+    AccurateRip v2 signature : 83EE066C
+        ->Track not present in AccurateRip database.
+    Statistics
+        Read error                           : 0
+        Jitter error (maybe fixed)           : 0
+        Retry sector count                   : 0
+        Damaged sector count                 : 0
+
+Track 03
+    Filename : /Users/RyanJonik/Desktop/nin1994-11-28.hanginglikejesusonthiscross.booth.0.flac1644/03 Nine Inch Nails - Suck.wav
+    Pre-gap length : 00:00:03
+
+    Track gain               : 1.64 dB
+    Peak                     : 0.416962
+    CRC32 hash (test run)    : 842C4E3F
+    CRC32 hash               : 842C4E3F
+    CRC32 hash (skip zero)   : AC43BCAF
+    AccurateRip v1 signature : 5D09BB3C
+    AccurateRip v2 signature : 69B700E7
+        ->Track not present in AccurateRip database.
+    Statistics
+        Read error                           : 0
+        Jitter error (maybe fixed)           : 0
+        Retry sector count                   : 0
+        Damaged sector count                 : 0
+
+Track 04
+    Filename : /Users/RyanJonik/Desktop/nin1994-11-28.hanginglikejesusonthiscross.booth.0.flac1644/04 Nine Inch Nails - The Only Time.wav
+    Pre-gap length : 00:00:02
+
+    Track gain               : 1.51 dB
+    Peak                     : 0.385529
+    CRC32 hash (test run)    : 6D3E3D3D
+    CRC32 hash               : 6D3E3D3D
+    CRC32 hash (skip zero)   : 0FB2C450
+    AccurateRip v1 signature : F923F765
+    AccurateRip v2 signature : 2BAA8610
+        ->Track not present in AccurateRip database.
+    Statistics
+        Read error                           : 0
+        Jitter error (maybe fixed)           : 0
+        Retry sector count                   : 0
+        Damaged sector count                 : 0
+
+Track 05
+    Filename : /Users/RyanJonik/Desktop/nin1994-11-28.hanginglikejesusonthiscross.booth.0.flac1644/05 Nine Inch Nails - Down In It.wav
+    Pre-gap length : 00:00:03
+
+    Track gain               : 2.73 dB
+    Peak                     : 0.412842
+    CRC32 hash (test run)    : 256F9638
+    CRC32 hash               : 256F9638
+    CRC32 hash (skip zero)   : 84902016
+    AccurateRip v1 signature : BD930043
+    AccurateRip v2 signature : BF2CCE69
+        ->Track not present in AccurateRip database.
+    Statistics
+        Read error                           : 0
+        Jitter error (maybe fixed)           : 0
+        Retry sector count                   : 0
+        Damaged sector count                 : 0
+
+Track 06
+    Filename : /Users/RyanJonik/Desktop/nin1994-11-28.hanginglikejesusonthiscross.booth.0.flac1644/06 Nine Inch Nails - Head Like A Hole.wav
+    Pre-gap length : 00:00:03
+
+    Track gain               : 1.00 dB
+    Peak                     : 0.440002
+    CRC32 hash (test run)    : 00E4AA67
+    CRC32 hash               : 00E4AA67
+    CRC32 hash (skip zero)   : 8C5AA784
+    AccurateRip v1 signature : 4E73C55E
+    AccurateRip v2 signature : 3D3C2DE3
+        ->Track not present in AccurateRip database.
+    Statistics
+        Read error                           : 0
+        Jitter error (maybe fixed)           : 0
+        Retry sector count                   : 0
+        Damaged sector count                 : 0
+
+Track 07
+    Filename : /Users/RyanJonik/Desktop/nin1994-11-28.hanginglikejesusonthiscross.booth.0.flac1644/07 Nine Inch Nails - Closer.wav
+    Pre-gap length : 00:00:02
+
+    Track gain               : 3.45 dB
+    Peak                     : 0.431519
+    CRC32 hash (test run)    : 78228A52
+    CRC32 hash               : 78228A52
+    CRC32 hash (skip zero)   : 4C7DF2FF
+    AccurateRip v1 signature : CB88A56D
+    AccurateRip v2 signature : 13202F71
+        ->Track not present in AccurateRip database.
+    Statistics
+        Read error                           : 0
+        Jitter error (maybe fixed)           : 0
+        Retry sector count                   : 0
+        Damaged sector count                 : 0
+
+Track 08
+    Filename : /Users/RyanJonik/Desktop/nin1994-11-28.hanginglikejesusonthiscross.booth.0.flac1644/08 Nine Inch Nails - I Do Not Want This.wav
+    Pre-gap length : 00:00:03
+
+    Track gain               : 1.59 dB
+    Peak                     : 0.438446
+    CRC32 hash (test run)    : 3002E5F0
+    CRC32 hash               : 3002E5F0
+    CRC32 hash (skip zero)   : A3B4CF87
+    AccurateRip v1 signature : 73107E2E
+    AccurateRip v2 signature : ED36261B
+        ->Track not present in AccurateRip database.
+    Statistics
+        Read error                           : 0
+        Jitter error (maybe fixed)           : 0
+        Retry sector count                   : 0
+        Damaged sector count                 : 0
+
+Track 09
+    Filename : /Users/RyanJonik/Desktop/nin1994-11-28.hanginglikejesusonthiscross.booth.0.flac1644/09 Nine Inch Nails - Dead Souls.wav
+    Pre-gap length : 00:00:02
+
+    Track gain               : 0.46 dB
+    Peak                     : 0.456665
+    CRC32 hash (test run)    : 2F7458EC
+    CRC32 hash               : 2F7458EC
+    CRC32 hash (skip zero)   : 7D0A74EA
+    AccurateRip v1 signature : 27EC62FE
+    AccurateRip v2 signature : D0C777A4
+        ->Track not present in AccurateRip database.
+    Statistics
+        Read error                           : 0
+        Jitter error (maybe fixed)           : 0
+        Retry sector count                   : 0
+        Damaged sector count                 : 0
+
+Track 10
+    Filename : /Users/RyanJonik/Desktop/nin1994-11-28.hanginglikejesusonthiscross.booth.0.flac1644/10 Nine Inch Nails - Something I Can Never Have.wav
+    Pre-gap length : 00:00:02
+
+    Track gain               : 4.57 dB
+    Peak                     : 0.440948
+    CRC32 hash (test run)    : 2031F2C1
+    CRC32 hash               : 2031F2C1
+    CRC32 hash (skip zero)   : 2F99458D
+    AccurateRip v1 signature : 88E4220D
+    AccurateRip v2 signature : 84C3112F
+        ->Track not present in AccurateRip database.
+    Statistics
+        Read error                           : 0
+        Jitter error (maybe fixed)           : 0
+        Retry sector count                   : 0
+        Damaged sector count                 : 0
+
+No errors occurred
+
+End of status report

@@ -1,0 +1,36 @@
+Nine Inch Nails
+KROQ Almost Acoustic Christmas, Gibson Amphitheatre
+Los Angeles, CA, USA
+2005-12-10
+
+https://ninlive.com/shows/2005/20051210.html
+
+Lineage (video): KROQ.com MMS stream > ASF capture > ffmpeg (AVC transcode and remux)
+Lineage (audio): Westwood One Pre-FM feed (FLAC) > AAC encode > ffmpeg (remux)
+
+Video:  240p15 369 Kbps avg. AVC
+Audio:  256 Kbps 44.1 KHz stereo AAC
+Runtime:  1:05:38
+
+Tracklist:
+
+01 Pinion/Wish
+02 Terrible Lie
+03 Sin
+04 March of the Pigs
+05 Something I Can Never Have
+06 Closer
+07 You Know What You Are?
+08 Burn
+09 Only
+10 Gave Up
+11 Hurt
+12 The Hand That Feeds
+13 Starfuckers, Inc.
+14 Head Like a Hole 
+
+
+Notes: 
+Thanks to TheBang, this webcast was captured in a raw WMV file and transcoded to MP4 for modern playback. This was also synced to the pre-fm audio source which on it's own can be downloaded. I wish that there was a better video version available like the pre-fm board source. 
+
+If you have any past recordings of Nine Inch Nails you would like to add to the live archive at http://www.ninlive.com, please get in contact with me at ryanj at reflectinginthechrome dot com!

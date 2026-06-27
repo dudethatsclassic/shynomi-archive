@@ -1,0 +1,43 @@
+{\rtf1\mac\ansicpg10000\cocoartf102
+{\fonttbl\f0\fnil\fcharset77 LucidaGrande;}
+{\colortbl;\red255\green255\blue255;}
+\margl1440\margr1440\vieww14480\viewh14180\viewkind0
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\ql\qnatural
+
+\f0\fs26 \cf0 BoldCaptain Presents:\
+NIN2006-3-18-phv-csbs.flacf.torrent\
+\
+Nine Inch Nails\
+18 Mar 2006\
+Global Gathering - Bicentenial Pk, Miami, Fla.\
+\
+Source: Master Audience DAT - Core Sound Binaurals (9V BatBox >Line In) > Sony D8 > Maxell 90m DAT @48k\
+\pard\tx720\tx1440\tx2160\tx2880\tx3600\tx4320\tx5040\tx5760\tx6480\tx7200\tx7920\tx8640\pardeftab720\ql\qnatural
+\cf0 Playback/Transfer: Fostex D5 Master (DAT) Recorder  > Tascam CD-RW5000  \
+(AES/EBU out > Coax in) > CD > Peak 4.0 ( Extraction, Normalize, Tracking, Fades ) > verify SBE OK, generate .aiff.checksum, compress to flac level 7, generate fingerprint, verify via xACT 1.4b23, seeded to EZT via Azureus 2.3.0.6 by BoldCaptain Mar 2006.\
+\
+File Size: 361.40 Mb Flac Level 7\
+\
+Setlist:\
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\ql\qnatural
+\cf0  01.Mr. Self Destruct\
+ 02.You Know What You Are? \
+ 03.Sin \
+ 04.Terrible Lie \
+ 05.March of the Pigs \
+ 06.Burn \
+ 07.Closer \
+ 08.Wish \
+ 09.Gave Up \
+ 10.Piggy \
+ 11.Only \
+ 12.Suck \
+ 13.Hurt \
+ 14.The Hand That Feeds \
+ 15.Starfuckers, Inc. \
+ 16.Head Like a Hole \
+\
+Notes:\
+Some severe level editing brought this "sing-along-with-trent" into balance. Location approx. 25 ft off left hand stack. There is still some level fluctuation, and along with the audience participation that overall leaves the quality on this at 3.5/5. \
+Credit my son Philip with this, as the fledgling taper takes to the hardcore stage, coming up with this and several more acts from the days events (tba).\
+Enjoy!}

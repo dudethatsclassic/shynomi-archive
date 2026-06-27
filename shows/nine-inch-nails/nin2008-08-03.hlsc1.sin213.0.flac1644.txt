@@ -1,0 +1,80 @@
+Nine Inch Nails 
+2008-08-03
+Lollapalooza
+Grant Park
+Bud Light Stage
+Chicago, IL
+
+record  :  MM-HLSC-1(mounted on hat, 150 feet from stage loc) > MM-MBM (roll off @ 96hz) > R09 @ 24/48
+transfer:  R09 > USB > wavelab (editing and dithered to 16bit) > Cdwav (tracking) > Trader's Little Helper (flac)
+taper:  sin213
+website:  http://members.cox.net/sin213/sin213.html
+
+The stage show for this new tour is amazing.  Be sure to catch it if you can.  This is also one of the newest set lists I've seen in a while.
+
+I hope everyone enjoys!  
+
+
+NIN - total time 109:39 *16bit version*
+
+Disc 1
+01 999,999
+02 1,000,000
+03 Letting You
+04 Disipline
+05 March of the Pigs
+06 The Frail
+07 Closer
+08 Gave Up
+09 Corona Radiata
+10 The Warning
+11 Vessel
+12 5 Ghosts I
+13 25 Ghosts III
+14 19 Ghosts III
+15 Piggy (Ghosts remix)
+16 The Greater Good
+
+Disc 2
+01 Pinion > Wish
+02 Terrible Lie
+03 Survivalism
+04 The Big Come Down
+05 Only
+06 The Hand That Feeds
+07 Head Like A Hole
+08 Echoplex
+09 Trent Speaks to the Audience
+10 Hurt
+11 In the Twilight
+
+**DO NOT ENCODE TO MP3, EXCEPT FOR PERSONAL MP3 PLAYER USE**
+**PLEASE DO NOT ALTER OR SELL THIS RECORDING AND INCLUDE THE INFO FILE IN TRADES**
+
+NIN - 2008-08-03 - d1t01.flac:b015dfae026bd2e969560fa0391e1ce7
+NIN - 2008-08-03 - d1t02.flac:6873f94eef3635280305fae22a56cc5c
+NIN - 2008-08-03 - d1t03.flac:9033ef02090dd32f19ee5e8dd82989bd
+NIN - 2008-08-03 - d1t04.flac:7f405913c8b7adb7b32739837544a691
+NIN - 2008-08-03 - d1t05.flac:8ab7dd68d304a6246e4cbb2e3217f832
+NIN - 2008-08-03 - d1t06.flac:d231eeb99c760813f31e69fae235f3a7
+NIN - 2008-08-03 - d1t07.flac:2b3d90ac82afe3a0b0000fe57653ca0d
+NIN - 2008-08-03 - d1t08.flac:45b0981c522b59c7da661eb31cfcfd78
+NIN - 2008-08-03 - d1t09.flac:2f6aae2640cca34e879ce470193506b9
+NIN - 2008-08-03 - d1t10.flac:72691c86b89d83aea00290b78f233bf6
+NIN - 2008-08-03 - d1t11.flac:53f3ced3085d94843621d06fea740a44
+NIN - 2008-08-03 - d1t12.flac:c8d3517be59d4eabe265c3d799e47c78
+NIN - 2008-08-03 - d1t13.flac:b89701e903e8079f08a5e541a1396ef6
+NIN - 2008-08-03 - d1t14.flac:9618d7c79db06515b5c2c736604cf7af
+NIN - 2008-08-03 - d1t15.flac:79b89ebd191f0588f46dd0428fb1b784
+NIN - 2008-08-03 - d1t16.flac:ed753fe3d4f1f232023517e18795dc41
+NIN - 2008-08-03 - d2t01.flac:ec285ae058b8530b82f6b4d1ce84f20e
+NIN - 2008-08-03 - d2t02.flac:ce9745212e10c1804e3b6ac521f62356
+NIN - 2008-08-03 - d2t03.flac:c63c822b99f988ebb92c886f77eebf37
+NIN - 2008-08-03 - d2t04.flac:981fb21e9d63a1cefee81688acde0a58
+NIN - 2008-08-03 - d2t05.flac:478b21ed80ed0a10b6364cee0c377138
+NIN - 2008-08-03 - d2t06.flac:6802ad1ce1f2ce39f4843dc18da3c737
+NIN - 2008-08-03 - d2t07.flac:a73b3c792f2c5015d1d8bdd6516bf393
+NIN - 2008-08-03 - d2t08.flac:2f87d3b08c80ab511093a467e906e98b
+NIN - 2008-08-03 - d2t09.flac:b1e8aef616e2477394d62f1af1d33df7
+NIN - 2008-08-03 - d2t10.flac:7186391604191d8f74f48056682f6001
+NIN - 2008-08-03 - d2t11.flac:9775710374b17575784873c9d1c86b99

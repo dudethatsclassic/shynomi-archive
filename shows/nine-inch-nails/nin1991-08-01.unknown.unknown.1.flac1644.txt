@@ -1,0 +1,119 @@
+Nine Inch Nails
+Harriet Island
+St. Paul, Mn.
+1 August 1990
+Lollapalooza
+
+Source: Unknown Mic + Sony WM-D6
+
+This is an audience recording I got from someone who bought a collection of supposed master tapes and then sold them off individually. 
+I would rate it 7.5 maybe 8. No artwork. 
+I transferred it to CD myself from a Nakamichi MR-2 to a Tascam CDRW-700. Cassette > CD > EAC > FLAC 6. Runs just over 40 minutes. 
+
+Track listing:
+
+Terrible Lie
+Sin
+Physical
+The Only Time
+Wish
+Get Down, Make Love
+Down In It
+Head Like A Hole
+
+
+EAC extraction logfile from 20. April 2007, 22:25 for CD
+ / 
+
+Used drive  : _NEC    DVD_RW ND-3520A   Adapter: 1  ID: 0
+Read mode   : Secure with C2, accurate stream, NO disable cache
+Read offset correction : 0
+Overread into Lead-In and Lead-Out : No
+
+Used output format : C:\Documents and Settings\Owner\My Documents\flac112a.exe   (RKAU Lossless Encoder)
+                     
+                     Additional command line options : -8 -V -T "artist=%a" -T "title=%t" -T "album=%g" -T "date=%y" -
+
+Other options      : 
+    Fill up missing offset samples with silence : Yes
+    Delete leading and trailing silent blocks : No
+    Native Win32 interface for Win NT & 2000
+
+
+Track  1
+     Filename G:\Track01TerribleLie.wav
+
+     Peak level 100.0 %
+     Track quality 100.0 %
+     Copy CRC D6C7787C
+     Copy OK
+
+Track  2
+     Filename G:\Track02Sin.wav
+
+     Peak level 95.9 %
+     Track quality 99.9 %
+     Copy CRC 1B22A3B5
+     Copy OK
+
+Track  3
+     Filename G:\Track03Physical.wav
+
+     Peak level 94.8 %
+     Track quality 100.0 %
+     Copy CRC 71D38304
+     Copy OK
+
+Track  4
+     Filename G:\Track04TheOnlyTime.wav
+
+     Peak level 100.0 %
+     Track quality 100.0 %
+     Copy CRC FF1C6894
+     Copy OK
+
+Track  5
+     Filename G:\Track05Wish.wav
+
+     Peak level 90.5 %
+     Track quality 99.7 %
+     Copy CRC 858EC153
+     Copy OK
+
+Track  6
+     Filename G:\Track06GetDownMakeLove.wav
+
+     Peak level 84.0 %
+     Track quality 100.0 %
+     Copy CRC 99B5E887
+     Copy OK
+
+Track  7
+     Filename G:\Track07DownInIt.wav
+
+     Peak level 89.3 %
+     Track quality 100.0 %
+     Copy CRC 090C32C6
+     Copy OK
+
+Track  8
+     Filename G:\Track08HeadLikeAHole.wav
+
+     Peak level 80.4 %
+     Track quality 100.0 %
+     Copy CRC AD713535
+     Copy OK
+
+No errors occured
+
+
+End of status report
+
+Track01TerribleLie.flac:9238820d26233e5a3d592cb41557f179
+Track02Sin.flac:b04b885a099b3ceaa75cc2b5de3f7f9f
+Track03Physical.flac:c474cbcf8d942aa6470d4e4e134241f8
+Track04TheOnlyTime.flac:27e4d9a37ef836b81dcb1d25f984dea1
+Track05Wish.flac:3008e94073825e7d514401acfaf6943c
+Track06GetDownMakeLove.flac:6dce535cfe54aea55c9806d3b760c65a
+Track07DownInIt.flac:d7225ad6ceb812c35cac2369e49b78f6
+Track08HeadLikeAHole.flac:93a90c84954ec973cb9b86f421dee778

@@ -1,0 +1,47 @@
+Nine Inch Nails: With Teeth 2005 Tour
+Denver Colorado
+Fillmore Auditorium
+May 4, 2005
+
+Audio-Technica PRO 24 on Sabra shockmounts ->
+Custom-built power pack / bass rolloff ->
+Sony MZ-N707 Type R ->
+Sony Sound Forge 8.0 ->
+FLAC v1.1.2
+
+Props to my wife, my cohort Lizzie, of course RF, the crowd around us
+at the show for watching out for us and buying us drinks, UninTY and
+E-Quillizer from ETS, and Cafe Netherworld on 13th and Pennsylvania:
+the only place for post-concert booze in all of 303.
+
+Setlist:
+
+01 Intro (Beside You in Time)
+02 Wish
+03 Sin
+04 The Line Begins to Blur
+05 March of the Pigs ("All the Pigs, All Lined Up" ending)
+06 Something I Can Never Have
+07 The Hand That Feeds
+08 Terrible Lie
+09 Closer ("The Only Time" breakdown)
+10 Home
+11 Every Day Is Exactly The Same
+12 Burn
+
+NOTE: Last several songs missing -- issues with security goons.  
+
+md5sums:
+
+45b71942e3b17e6a95f1d982dc5535c6 *01 Intro (Beside You In Time).flac
+5b62bf8c488c3cb42f8ba6b5f8f6a842 *02 Wish.flac
+e973c7ac4db61699f8274013649eaa30 *03 Sin.flac
+f03419b8bb2cbbbb10a96303fefd1cb6 *04 The Line Begins To Blur.flac
+1fe5e04424348d75b9d1d8d5a3a56c02 *05 March Of The Pigs (All The Pigs).flac
+c230ad7baa1a425ac930f98dd01c1f9b *06 Something I Can Never Have.flac
+38b6680aaa3b0266653ced8e6d3aefe1 *07 The Hand That Feeds.flac
+f4c92047833cf6f5a30f313b3c77ec6e *08 Terrible Lie.flac
+9f29f325f9b12dd05c5d82c1ae650371 *09 Closer (The Only Time).flac
+2062b8e1affc2ebb5c13d9f7a4beb2b5 *10 Home.flac
+6b6cc0d362e65f7782ae192cf2a4e3ed *11 Every Day Is Exactly The Same.flac
+21e22fad166e2a1856a0a9af7d420d33 *12 Burn.flac

@@ -1,0 +1,23 @@
+Trent Reznor
+ReAct Now Music & Relief Concert, Paramount Studios
+Hollywood, CA, USA
+2005-09-09
+
+Lineage (Track 1): Digital Cable broadcast > QAM capture >
+MKV rewrap
+Lineage (Track 2): Website ASF/WMV download and decrypt (also transcoded
+via ffmpeg to MPEG-4 AVC/AAC for modern playback convenience)
+
+Video (Track 1): 480i60 2.0 Mbps avg MPEG-2
+Audio (Track 1): 192 Kbps 48 KHz AC-3 stereo
+Video (Track 2): 320p24 600 Kbps WMV3
+Audio (Track 2): 96 Kbps 44.1 KHz WMA2 stereo
+
+This performance was recorded on Sept. 9 and broadcast on all Viacom music
+channels on Sept. 10 during the 4.5 hour ReAct Now: Music & Relief
+fundraising telethon for Hurricane Katrina victims.
+
+Tracklist:
+
+01 Hurt
+02 Non-Entity

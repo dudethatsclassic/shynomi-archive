@@ -1,0 +1,14 @@
+Microphones: Sound Professionals Deluxe Audio Technica Cardiods (AT831's)->Sound 
+	   Professionals Bass Roll off filter/battery box (SP-SPSB-2)
+Recording Device: Sony D8 @ 48khz
+Source:DAT->CS 7pin/coax->M-Audio CO3->THX coax ->Teac CD burner->CD->WAV(via Itunes)->FLAC
+Recorded/Transfered By: Steve Stroud (dreyfuss/silentbob)
+
+
+All lineage info taken from the text file included with the full November 10, 2005 show.  This is correct.
+
+
+
+01-The Wretched
+02-Deep
+03-Wish

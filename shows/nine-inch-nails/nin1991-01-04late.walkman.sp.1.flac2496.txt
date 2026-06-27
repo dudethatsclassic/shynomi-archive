@@ -1,0 +1,31 @@
+Nine Inch Nails
+January 04, 1991
+Denver, CO
+Gothic Theatre - (10PM Show)
+Sin Tour
+
+http://www.ninlive.com/shows/1991/19910104late.html
+
+Equipment: Unknown Walkman
+Taper: SP
+Lineage: Unknown Master Tape > Fujifilm Cassette > Nakamichi CR-3A > Marantz PMD-671 (24/96) > Adobe Audition (Normalize to -0.1 db, Edit out buzzing with noise profile) > Fission (track) > xACT > FLAC
+
+Setlist:
+Intro
+Terrible Lie
+Sin
+Something I Can Never Have
+Sanctified
+That's What I Get
+Suck
+The Only Time
+Get Down Make Love
+Ringfinger (tape flip close to end)
+Down In It
+Head Like a Hole
+
+Notes:
+
+Released for the first time Nov. 2020. This is a real gem found. Someone reached out to me on Twitter stating they had this recording. I got it today and transferred it very quickly! It's a fantastic recording. Not too much detail was wanted to be released with this one and I will respect that, but seems like this is a 1st gen cassette and recorded on an unknown walkman. There was a fade out for the cassette flip and the show ended perfectly mixed into some NIN remixes. Nevertheless, it's an amazing recording for its time and being the earliest show from 1991. Tape flip is during "Ringfinger" and recording cuts back in at the beginning of "Down In It." As NIN played two shows this night, best way to figure out which one it was is by Trent's crowd banter. Right before "Get Down Make Love" he says, "This is fucking amazing... Two good shows in Denver *something inaudble* thank you very much." - which makes me believe this is the end of the two shows that night in Denver. Just an epic unearthing here and always makes me strive to find more! Please, if you have old tapes tucked away somewhere of Nine Inch Nails please get in contact with me. Would love to preserve more stuff like this. ryanj@reflectinginthechrome.com 
+
+It should also be noted that this recording suffered from some sort of humming/high pitch ringing throughout the recording in the background. Almost like a broadcast stamp. It may have been put onto the tape when this was copied, hence why I also don't think this is the master tape. Using the noise profile selector at the beginning of the tape and then using the noise reduction tool in Audition, I was about 99% effective removing said high pith ringing - as you can see with the noise reduction picture. Using the 'output noise only' when playing this back, it effectively isolated the noise and did not take any of the music frequencies out of the recording.

@@ -1,0 +1,55 @@
+
+Nine Inch Nails
+Planet Hollywood Theatre: Las Vegas, NV
+December 13, 2008
+
+Source:  Schoeps MK4s > Nbox > Edirol R-09 @ 24/44.1
+Location:  FOB, Sec. 102, Row X, in-line with right stack
+Transfer:  USB > WAV > CEPv2.1 (+dEQ) > CDWave > FLAC frontend
+Taper:  tapeworm(48)
+
+Setlist:
+
+01 999,999
+02 1,000,000 
+03 Letting You 
+04 Discipline 
+05 March of the Pigs 
+06 Head Down 
+07 The Frail 
+08 Closer 
+09 Gave Up 
+10 Corona Radiata 
+11 The Warning 
+12 The Great Destroyer 
+13 Ghosts 21 
+14 Ghosts 28 
+15 Ghosts 19 
+16 Ghosts Piggy
+17 The Greater Good 
+18 Pinion 
+19 Wish 
+20 Terrible Lie 
+21 Survivalism 
+22 The Big Come Down 
+23 Ghosts 31 
+24 Only 
+25 The Hand That Feeds 
+26 Head Like a Hole 
+27 =Encore Break=
+28 Echoplex 
+29 Reptile 
+30 Trent Speak
+31 The Good Soldier 
+32 Hurt 
+33 In This Twilight 
+
+
+Notes:  Last night of the 'Lights in the Sky' tour. Also, the last show for Josh Freese and Alessandro Cortini. Taped from Row X in line with the stack on Robin's side. I applied a +5dB boost using Cool Edit Pro to the entire show prior to dithering. Otherwise, this is a raw transfer with no fades or EQ. 
+
+Archive: Master WAV was archived at 24-bit, 44kHz, and FLAC'd with cue sheet. 
+
+Taped and transferred by tapeworm(48) 
+Txt file compiled on 12/15/2008
+
+*** DO NOT DISTRIBUTE IN LOSSY FORMATS. DO NOT SELL THIS RECORDING, TRADE IT FREELY *** 

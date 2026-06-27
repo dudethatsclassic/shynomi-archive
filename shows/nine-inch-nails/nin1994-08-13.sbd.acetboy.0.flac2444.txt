@@ -1,0 +1,72 @@
+Nine Inch Nails
+1994-08-13
+Woodstock 1994
+Saugerties, NY
+
+Pay-per-view > Unknown now High End Satellite system > Unknown now high end VHS recorder >
+playback for audio capture Sharp VC-H800 VHS > ProTools LE  M BOX2 PRO at 44.1 24 bit >
+ProTools software > ocenaudio for eq fine tuning > xACT for 44.1 24 flac > into the wild
+
+Trent Reznor
+Robin Finck
+Danny Lohner
+Chris Vrenna
+James Woolley
+
+01 Intro/Pinion
+02 Terrible Lie
+03 Sin
+04 March of the Pigs
+05 Something I Can Never Have
+06 Closer
+07 Reptile
+08 Wish
+09 Suck
+10 Burn
+11 The Only Time
+12 Down In It
+13 Dead Souls
+14 Help Me I'm in Hell
+15 Happiness in Slavery
+16 Head Like a Hole
+
+This is pretty much a perfect capture of the audio.
+There's one or two tiny transmission/reception glitches.  No big deal.
+Nothing of the performance is missing.
+I've used almost no compression on this.
+Just a bit to tame a handful of peaks.
+No Limiting.  This is exactly what it sounded like
+coming across the satellite feed.
+The only audio work done was mostly to keep equal levels in both channels.
+There was no phase issues whatsoever.  No DC offset.  No weird crap in the low end.
+Not much eq work needed.
+
+If converted to burn cd's cut
+between track 08 and 09.
+
+Original capture by acetboy.
+
+Mastered by acetboy in October 2018.
+
+acetboy 2018-10-07
+
+
+
+    length     expanded size    cdr  WAVE problems  fmt   ratio  filename
+     6:13.187      98745236 B   cxx   --   ---xx   flac  0.6987  Nine Inch Nails 1994-08-13 24 bit 01.flac
+     5:12.573      82706948 B   cxx   --   ---xx   flac  0.8002  Nine Inch Nails 1994-08-13 24 bit 02.flac
+     4:16.000      67737644 B   cxx   --   ---xx   flac  0.8075  Nine Inch Nails 1994-08-13 24 bit 03.flac
+     3:46.680      59979572 B   cxx   --   ---xx   flac  0.7957  Nine Inch Nails 1994-08-13 24 bit 04.flac
+     6:34.267     104323004 B   cxx   --   ---xx   flac  0.7160  Nine Inch Nails 1994-08-13 24 bit 05.flac
+     6:38.013     105314372 B   cxx   --   ---xx   flac  0.7760  Nine Inch Nails 1994-08-13 24 bit 06.flac
+     6:28.907     102904748 B   cxx   --   ---xx   flac  0.7790  Nine Inch Nails 1994-08-13 24 bit 07.flac
+     3:39.040      57958028 B   cxx   --   ---xx   flac  0.8029  Nine Inch Nails 1994-08-13 24 bit 08.flac
+     4:31.827      71925380 B   cxx   --   ---xx   flac  0.7656  Nine Inch Nails 1994-08-13 24 bit 09.flac
+     5:09.840      81983708 B   cxx   --   ---xx   flac  0.7981  Nine Inch Nails 1994-08-13 24 bit 10.flac
+     5:22.707      85388228 B   cxx   --   ---xx   flac  0.7848  Nine Inch Nails 1994-08-13 24 bit 11.flac
+     5:43.413      90867212 B   cxx   --   ---xx   flac  0.7763  Nine Inch Nails 1994-08-13 24 bit 12.flac
+     5:35.733      88835084 B   cxx   --   ---xx   flac  0.7251  Nine Inch Nails 1994-08-13 24 bit 13.flac
+     3:04.533      48827564 B   cxx   --   ---xx   flac  0.7154  Nine Inch Nails 1994-08-13 24 bit 14.flac
+     5:26.360      86354900 B   cxx   --   ---xx   flac  0.8199  Nine Inch Nails 1994-08-13 24 bit 15.flac
+     6:42.480     106496252 B   cxx   --   ---xx   flac  0.7832  Nine Inch Nails 1994-08-13 24 bit 16.flac
+    84:25.560    1340347880 B                            0.7702  (16 files)

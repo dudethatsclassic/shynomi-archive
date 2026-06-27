@@ -1,0 +1,33 @@
+NINE INCH NAILS
+2000-07-08
+Forestglade Festival
+Wiesen, Austria
+
+Source:     Digital FM [Nokia d-Box > D8]
+FM Station: FM4
+Transfer:   DAT-M > Sony DTC-ZE700 > Terratec EWX 24/96 > FLAC V1.1.3
+Resampling: 48.0 kHz > 44.1 kHz resampling in Steinberg WaveLab V5.01b
+
+Setlist:
+01 (Intro)
+02 Head Like a Hole
+03 Terrible Lie
+04 March of the Pigs
+05 The Frail
+06 The Wretched
+07 Gave Up
+08 Reptile
+09 No, You Don't
+10 Even Deeper
+11 Wish
+12 Suck
+13 Get Down, Make Love [Queen]
+14 Down in It
+15 Closer
+16 Starfuckers, Inc.
+---
+17 Hurt
+18 (Outro)
+
+Notes:
+"Head Like a Hole" fades in. Sourced from a lossy broadcast.

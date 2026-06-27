@@ -1,0 +1,51 @@
+
+
+----------------------------------------------------------------
+	Artist:			NIN
+	Date:			May 30, 2009
+	Location:		Verizon Wireless Music Center
+	Taper:			JB
+	e-mail:			radioheadusa@comcast.net
+	DC++ screenname:	radiohead8989
+	Web:			http://home.comcast.net/~radioheadusa/
+	date of seeding:	June 01, 2009
+----------------------------------------------------------------
+	Source Info:		>Edirol R9 (24bit/48kHz) (Line In)
+				>Core Sound HEB (4060) (Bass Rolloff=ON)
+				>Adobe Audition (+3DB)
+				>CDWAVE
+				>FLAC (level 8)
+
+16 bit version from ninlive.com
+Converted from 24 bit files via xACT
+----------------------------------------------------------------
+	additional info:	Recorded from the Pit (Right Side)
+----------------------------------------------------------------
+	running time:		1h:32m:52s
+----------------------------------------------------------------
+	Setlist:		01 Home
+				02 1,000,000
+				03 Discipline
+				04 March of the Pigs
+				05 Piggy (Nothing Can Stop Me)
+				06 Metal
+				07 Meet Your Master
+				08 Head Down
+				09 I Do Not Want This
+				10 Gave Up
+				11 Fragile 
+				12 The Downward Spiral
+				13 Wish
+				14 Survivalism 
+				15 Mr. Self Destruct
+				16 Physical (You're So) 
+				17 Trent Speaks & Intros Band
+				18 The Good Soldier
+				19 The Hand That Feeds
+				20 Head Like A Hole
+				21 Hurt
+----------------------------------------------------------------
+Note:
+This is a 24bit / 48KHZ recording.  It cannot be burned to a cd, unless you convert it to 16bit / 44.1k first.
+The FLAC files were created using CD Wave 1.97, and they were tested using Media Monkey 3.0.2.1134.
+

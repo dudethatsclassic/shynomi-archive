@@ -1,0 +1,43 @@
+Nine Inch Nails 
+October 8th, 2005 
+Joe Louis Arena 
+Detroit, MI 
+
+Taper:    Richard Simms (sullen) 
+Source:   SP-CMC-2 (AT831) > SP-SPSB-2 (Roll Off 95hz) > 
+          AD20 > JB3 (Optical Line-In) > 44.1k WAV 
+Transfer: JB3 > Computer via Firewire > Adobe Audition 1.5 (Light dEQ, 
+Edit      Hard Limit -0.1 : .003% clipped) > CD Wave Editor 1.94.5 >
+Encode    FLAC FrontEnd (Level 8, Align SB) 
+
+Disc 1
+01. Pinion 
+02. Love Is Not Enough  
+03. Wish 
+04. Terrible Lie  
+05. The Line Begins to Blur 
+06. March of the Pigs 
+07. The Frail 
+08. The Wretched 
+09. Closer 
+10. Burn 
+11. Gave Up 
+12. Eraser  
+13. Right Where It Belongs 
+14. Beside You In Time 
+15. Sin 
+16. Only 
+17. Reptile  
+18. Suck 
+
+Disc 2
+01. Hurt  
+02. The Hand That Feeds 
+03. Head Like A Hole 
+
+Notes:
+1. This show is NOT TRADEABLE publicly.  Please do not place on trade 
+   lists.  It has been traded exclusively by the taper to persons who 
+   are trusted to not torrent or trade this publicly.  Please keep this
+   in mind and trade ONLY with reliable persons.  eBay and selling 
+   have become a thorn my side and the sides of many tapers.  

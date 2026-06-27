@@ -1,0 +1,105 @@
+Nine Inch Nails
+1994-11-09
+The Assembly Hall
+Champaign, IL
+
+Recorded on a Sony WM-D3 with the supplied
+stereo microphone > Maxell XLII 90 > Master tapes >
+Onkyo deck > external CDr burner > CDr ripped with
+XLD on iMac > wav > ProTools LE > ocenaudio for eq >
+ProTools LE > wav > xACT > FLAC > into the wild
+
+Mastered by acetboy
+
+Further Down the Spiral Tour
+
+Robin Finck
+Danny Lohner
+Trent Reznor
+Chris Vrenna
+James Woolley
+
+
+01 Pinion
+02 Mr. Self Destruct
+03 Sin
+04 March of the Pigs
+05 Piggy
+06 Reptile
+07 Gave Up
+08 Happiness In Slavery
+09 Eraser
+10 Hurt
+11 The Downward Spiral
+12 Wish
+13 Suck
+14 Ruiner
+15 Down In It
+16 Head Like a Hole
+17 Closer
+18 Dead Souls
+19 I Do Not Want This (incomplete quick fade-out)
+20 Something I Can Never Have (missing, presumed played)
+
+
+A friend of mine had this tape.  He was the owner of the D3 that
+the show was recorded on.  A friend of his is the one who did the taping.
+
+He had mentioned once in awhile over the years that he had an NIN tape, 
+recently I had him dig it out and realized that the show was not commonly 
+traded and not in the RITC NIN Archive.  I was at the show after recently becoming
+introduced to NIN via the live broadcast of the Woodstock 25 performance.
+I was so glad all these years later to find out that it had been recorded.
+
+The quality of the recording is pretty decent.  The first two songs
+were kind of blown out volume wise.  But it gets better.
+The quiet parts of the show are very nice.  The taper had some seats 
+that were labeled 'obstructed view'.  I'm guessing that some of the on stage
+equipment and the P.A. was blocking the view of the performers.
+
+At times you can hear that the main part of the audience seems to be in the 
+right channel and the band more in the left.  So I'm guessing that the taper
+was way over on one side.  Whenever I work on a show I try to put the audio
+straight down the middle like the taper was in the sweet spot.  I've done
+that somewhat here although it was kind of hard to completely disguise the tapers
+location in the hall.
+
+The supplied stereo microphone that came with the D3 is somewhat lacking in
+capturing the low end.  The tapers location and the size of the arena also may
+have contributed to the undefined low end. Tried to compensate for that.
+
+I've been quite conservative here with the final level of the audio.
+There's no brick-wall compression.  Turn it up!
+
+The FLAC files are tagged.  If burning to CD split between track 8 and 9.
+There was a tape flip there and I left the break intact for cd burning.
+
+I'm also including some screen captures that show before and after what the waveform
+of the whole show looked like and before and after FFT views of the whole show.
+
+acetboy 2018-09-04
+
+
+
+    length     expanded size    cdr  WAVE problems  fmt   ratio  filename
+     2:29.38       26373020 B   ---   --   ---xx   flac  0.5934  Nine Inch Nails 1994-11-09 01.flac
+     3:39.68       38791580 B   ---   --   ---xx   flac  0.6760  Nine Inch Nails 1994-11-09 02.flac
+     4:07.21       43620236 B   ---   --   ---xx   flac  0.6869  Nine Inch Nails 1994-11-09 03.flac
+     4:00.36       42420716 B   ---   --   ---xx   flac  0.6757  Nine Inch Nails 1994-11-09 04.flac
+     4:46.73       50622140 B   ---   --   ---xx   flac  0.6519  Nine Inch Nails 1994-11-09 05.flac
+     6:17.38       66592220 B   ---   --   ---xx   flac  0.6701  Nine Inch Nails 1994-11-09 06.flac
+     4:25.15       46781324 B   ---   --   ---xx   flac  0.6774  Nine Inch Nails 1994-11-09 07.flac
+     6:57.36       73643516 B   ---   --   ---xx   flac  0.6833  Nine Inch Nails 1994-11-09 08.flac
+     4:11.68       44436380 B   ---   --   ---xx   flac  0.6686  Nine Inch Nails 1994-11-09 09.flac
+     4:59.05       52755404 B   ---   --   ---xx   flac  0.5754  Nine Inch Nails 1994-11-09 10.flac
+     3:28.73       36862940 B   ---   --   ---xx   flac  0.5885  Nine Inch Nails 1994-11-09 11.flac
+     3:33.06       37587356 B   ---   --   ---xx   flac  0.6669  Nine Inch Nails 1994-11-09 12.flac
+     4:03.02       42869948 B   ---   --   ---xx   flac  0.6332  Nine Inch Nails 1994-11-09 13.flac
+     4:58.41       52663676 B   ---   --   ---xx   flac  0.6536  Nine Inch Nails 1994-11-09 14.flac
+     4:07.72       43740188 B   ---   --   ---xx   flac  0.6567  Nine Inch Nails 1994-11-09 15.flac
+     6:55.05       73217804 B   ---   --   ---xx   flac  0.6550  Nine Inch Nails 1994-11-09 16.flac
+     6:38.21       70256636 B   ---   --   ---xx   flac  0.6514  Nine Inch Nails 1994-11-09 17.flac
+     5:26.18       57548780 B   ---   --   ---xx   flac  0.6406  Nine Inch Nails 1994-11-09 18.flac
+     0:47.59        8429612 B   ---   --   ---xx   flac  0.5907  Nine Inch Nails 1994-11-09 19.flac
+    85:54.20      909213476 B                            0.6520  (19 files)
+

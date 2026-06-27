@@ -1,0 +1,60 @@
+Nine Inch Nails 2009-07-02 Arvika, Festival (Vintergatan)
+
+Source:		DPA 4061's > Curch Audio ST-9100 Pre-Amp > Edirol R-09 (@ 24/48k) (Line In)
+
+Location: 	Just FOB, DFC, ~25 meters from speakers
+
+Transfer: 	Master WAV > Digital Editing > CD Wave Editor V1.96.1 > FLAC v1.2.0a (Level5) >
+		Tag and Rename v3.5.238.447 RC1 
+
+Editing:    	Volume boost, fades and mastering in Steinberg WaveLab V5.01b
+
+Resampling:	.wav @ 24/48 > Steinberg WaveLab v5.01b (dither with Apogee UV22HR to 16/44.1)
+
+
+Recorded, transfered & seeded by Jofa
+
+
+
+CD1:
+
+01. Home			[04:10.26]
+02. 1,000,000			[04:02.20]
+03. Letting You			[03:54.03]
+04. Discipline			[04:19.19]
+05. March Of The Pigs		[04:11.41]
+06. The Frail			[02:08.35]
+07. The Wretched		[05:42.37]
+08. The Becoming		[05:23.73]
+09. Burn			[05:34.16]
+10. Fade Track			[00:10.00]
+
+Total:				[39:36.45]
+
+
+CD2:
+
+01. Fade Track			[00:10.00]
+02. Gave Up			[04:49.09]
+03. The Fragile			[05:32.52]
+04. Non-Entity			[03:35.20]
+05. The way Out is Through	[03:40.02]
+06. Wish			[03:40.28]
+07. Survivalism			[04:38.51]
+08. The hand That Feeds		[03:32.05]
+09. Head Like A Hole		[05:53.14]
+10. Hurt			[05:45.00]
+
+Total:				[41:16.31]
+
+
+This is the 16-bit version of this recording
+
+
+****************************************** 
+DO NOT ENCODE TO LOSSY FORMATS!! 
+DO NOT SELL!! 
+******************************************
+
+
+

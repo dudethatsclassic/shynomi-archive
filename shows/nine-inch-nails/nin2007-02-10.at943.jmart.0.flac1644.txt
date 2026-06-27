@@ -1,0 +1,55 @@
+Nine Inch Nails
+Coliseu dos Recreios, Lisbon POR
+10/02/07
+Support Slot: The PoPo
+
+*a PT tapers release*
+
+Taper: J.Mart (Stutter [at] sapo [dot] pt)
+Source: AT943's (cardioids) > SP-SPSB-6 (bass roll-off @ 95Hz) > JB3 (+12dB Gain, WAV 16bit/44kHz)
+Location: G.A., behind the board, 10ft from the floor. DIN, in headband.
+Lineage: Firewire > CTCMS > Adobe Audition 2.0 (fades, EQ'ing) > CDWav 1.7 > FLAC Frontend 1.1.1 and/or CD Nero 7.0
+
+
+Tracklist:
+
+------- CD 1 -------
+01- Intro / Pilgrimage >
+02- Mr. Self Destruct
+03- Last
+04- Terrible Lie
+05- March of Pigs
+06- Something I Can Never Have
+07- The Line Begins To Blur
+08- Closer
+09- Burn
+10- Wish
+11- Help Me I'm In Hell
+12- Eraser
+------- CD 2 -------
+13- La Mer
+14- Into The Void
+15- No, You Don't
+16- Only
+17- You Know What You Are
+18- Hurt
+19- The Hand That Feeds
+20- Head Like a Hole
+
+TRT: 01h:25m:49s
+
+
+Notes: First show of the '07 tour. I was expecting some new songs from the upcoming album "Year Zero", but no luck. It still was a great show ("Last" debut!). Around the end of Terrible Lie, the lighting board went off (the faces of the dudes at the board looking at each other was priceless!). Turns out it was the fire alarm (TR:"fire alarm turns off the fucking power") and the band kept playing the remaining of Terrible Lie in complete darkness. Trent said "Fuck it" and just kept going to March of Pigs and asked for the house lights to be turned on until the stage light was back. By the middle of MoP, the stage lights went on again and the show kept going normally. Great show, but SO short (can't say i didn't knew what i was coming for)! This was the only Lisbon '07 show i've managed to attend sadly, because i didn't have a place to stay for night 2 and 3. The recording is pretty solid. I ran the levels pretty hot but without exceeding the headroom of the recording. No close crowd noise whatsoever and I was about 10ft above the floor. The venue is from 1889 and by no means recommendable for such a loud show (the walls were pounding to the bass notes!). EQ'ing was applied to reduce lo-freqs and raise mid-freqs, but nothing big. No fades at mid-point of the show for enhanced listening versatility.
+
+-j.mart
+11/02/07
+
+
+"""""""""""""""""""""""""""""""""""""Please, pass this info file along as you trade the show.""""""""""""""""""""""""""""""""
+
+#############
+Don't try to be message board hero of the day and distribute this on a lossy format! I'm really concerned about keeping this recording at its original quality thru the years and everyone has the right to enjoy it that way. I'd rather do a 100 B&Ps than see this go around on MP3.
+Don't remaster this version! If you want to make your own remaster ask me for the raw recording.
+Don't be an ass and sell this recording!
+Share it freely and not necessesarily for a trade.
+#############

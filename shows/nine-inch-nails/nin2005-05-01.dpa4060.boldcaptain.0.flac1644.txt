@@ -1,0 +1,17 @@
+BoldCaptain & SBDJohnny Present:
+Coachella2005-5-01-Day2-Main.flacf.torrent
+
+Assorted Artists- Day Two
+Coachella Music & Arts Festival
+01 May 2005 Main Stage
+Empire Polo Grounds, Indio, California.
+
+Source: Master Audience DAT: 
+CSBs=Core Sound Binaurals (9V BatBox >Line In) > Sony PCM-M1 > Maxell 90m DAT @48k
+DPAs=DanishProAudio 6040's (9V BatBox >Line In) > Sony PCM-M1 > Maxell 90m DAT @48k
+
+Playback/Transfer: Fostex D5 Master (DAT) Recorder  > Tascam CD-RW5000  
+(AES/EBU out > Coax in) > CD > Peak 4.0 ( Extraction, T-Racks Plug In, Tracking, Fades ) > verify SBE OK, generate .aiff.checksum, compress to flac level 7, generate fingerprint, verify via xACT 1.4b23, seeded to EZT via Azureus 2.2.0.2 by BoldCaptain Sept 2005.
+
+Notes: The second days Main Stage events in a slightly altered fashion, as I did a little remastering via T-Racks, (a little compression and limiting, a little upper end EQ to bring out the top) to help what I thought was very dull to start with. The desert wind had its way with the sound and add to that the over talkative crowd left me wanting it to sound better. But here it is, warts and all kinda, nothing rated above 4/5 and at that just peaks at 4/5 at points. The Nine Inch Nails set IS NOT the same as I have previously torrented, this is sourced from dpa's (not the csb's), as is the whole Main Stage this day... No setlists at this time. Any help with that will be greatly appreciated!
+Enjoy!

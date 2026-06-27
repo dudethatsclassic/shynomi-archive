@@ -1,0 +1,69 @@
+Nine Inch Nails
+Greensboro Coliseum Complex
+Greensboro, NC, USA
+2008-11-03
+
+Video:
+Canon ZR500 (LP mode, 16x9 aspect ratio)
+Location: Balcony Section 212 (Stage left side, upper balcony)
+Taper: xjsb125(matt@xjsb125.com)
+
+Transfer: Canon ZR500> firewire> Sony Vegas 6.0> AVI
+By: xjsb125
+
+Audio:
+Source: {[CSB's> Battery Box (bass roll-off enabled)] + [CSC's> Battery Box]}> Y-splitter> M-Audio Microtrack 24/96 (24 bits/48 khz)
+Location: Balcony Section 212 (Stage left side, upper balcony)
+Taper: xjsb125 (matt@xjsb125.com)
+
+Transfer: Microtrack> USB> WAV> Adobe Audition 1.5 (fade, hard limiting, dithering 16/48)> WAV> Sony Vegas 6.0 (time stretch)> WAV
+By: xjsb125
+
+DVD:
+Menus and authoring by: xjsb125
+Aspect Ratio: 16x9
+NTSC
+Bitrate: 7000kbps
+Audio: LPCM 1536kbps
+Photography (excluding menus): Heather Widner
+
+Setlist:
+
+01 - 999,999
+02 - 1,000,000
+03 - Letting You
+04 - Discipline
+05 - March Of The Pigs
+06 - Head Down
+07 - La Mer [teaser]/The Frail
+08 - The Wretched
+09 - Closer
+10 - Gave Up
+11 - The Warning
+12 - The Great Destroyer
+13 - 17 Ghosts II
+14 - 10 Ghosts II
+15 - 19 Ghosts III
+16 - Ghosts Piggy
+17 - The Greater Good
+18 - Pinion
+19 - Wish
+20 - Terrible Lie
+21 - Survivalism
+22 - 31 Ghosts IV
+23 - Only
+24 - The Hand That Feeds
+25 - Head Like A Hole
+26 - Encore Cheer
+27 - Echoplex
+28 - Banter: Someone will be fired; Vote
+29 - God Given
+30 - Hurt
+31 - In This Twilight
+
+Notes:
+Headlining, with opening band Health. This is a stealth recording. There are no pans or zooms, due to security and their proximity to me. It is, however, a steady shot from my knee with only one person in immediate camera view, though they do not block the band. There is a small gap in the video and audio during the encore before Echoplex. The audio has been supplemented with a section of discarded audio from the Microtrack. 24 bit audio of this concert is also available.
+
+******************************************************************************
+*This DVD is not intended for sale or resale. Do not convert to lossy formats*
+******************************************************************************

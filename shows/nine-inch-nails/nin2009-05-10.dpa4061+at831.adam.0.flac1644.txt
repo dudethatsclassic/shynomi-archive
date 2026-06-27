@@ -1,0 +1,67 @@
+Nine Inch Nails
+May 10, 2009
+Lakewood Amphitheater 
+Atlanta, GA
+
+
+*********************
+2 Source Mix
+*********************
+
+
+Source 1: DPA 4061 (matched pair) > 9v batt box > Edirol R-09 (WAV @ 24 bit, 48 kHz)
+
+Source 2: Church Audio AT831 > 9v batt box > Edirol R-09 (WAV @ 24 bit, 48 kHz)
+
+Location: Front of stacks, left, approx 30'
+
+Lineage: SD card(s) > card reader (USB) > WAV > FLAC
+
+Mastering: Wavlab 3.04 (EQ, dynamic compression, matrixing, dithering and resampling to 16 bit, 44.1 kHz) > CD Wave Editor (track splits) > FLACfrontend
+
+
+Recorded, Mastered and Matrixed by Adam
+
+
+Note:  Final matrix is approx. a 50/50 mix of the two sources.
+
+
+
+Disc 1:
+
+1.  noise intro                               1:21
+2.  1,000,000                                 4:02
+3.  Wish                                      3:40
+4.  Heresy                                    4:04
+5.  March of the Pigs                         4:33
+6.  Something I Can Never Have                6:28
+7.  Metal                                     6:42
+8.  Becoming                                  5:21
+9.  Head Down                                 4:05
+10. Mr Self Destruct                          4:19
+11. Reptile                                   7:01
+12. The Big Come Down                         4:00
+13. Gave Up                                   4:56
+14. Gone, Still                               2:32
+15. Survivalism (w/ Saul Williams)            5:25
+16. Banged & Blown Through (w/ Saul Williams) 4:01
+
+Total:  1:12:37
+
+
+Disc 2:
+
+1. Home                              3:47
+2. Trent Speaks & Introduces Band    2:09
+3. Physical                          4:46
+4. Down In It                        4:29 
+5. The Hand That Feeds               3:32
+6. Head Like A Hole                  5:31
+
+Total:    24:16
+
+ 
+
+Do not sell or convert this recording to mp3 and redistribute.
+
+Enjoy!

@@ -1,0 +1,31 @@
+Nine Inch Nails
+July 28, 1990
+Detroit, MI
+St. Andrew's Hall
+
+http://www.ninlive.com/shows/1990/19900728.html
+
+Equipment: Radioshack Mic + Cassette Recorder
+Taper: Maashu
+Lineage: Master tape > Cassette Player > Tascam DR-05 (16/44.1) > Audition (Normalize to -0.1 db, noise analysis) > Fission (track) > xACT > FLAC
+
+Setlist:
+Intro
+Terrible Lie
+Sin
+Something I Can Never Have
+Sanctified
+That's What I Get
+Suck
+The Only Time
+Get Down Make Love
+Ringfinger
+Down In It
+Head Like a Hole
+
+Notes:
+The last two weeks have seen a handful of uncirculated NIN recordings come out. This one was posted on reddit and shared by Maashu. Unreal. The Dallas Video Bar show in June 1990 sometimes has been mislabeled as this show. This is the first real source to be released of this show. A complete recording, with a short tape flip coming during 'The Only Time.'
+
+I would love to transfer this tape. Hopefully one day. There seems to be a broadcast chime throughout the tape or an electrical hum at around 14k on the spectral analysis. I was able to remove most of it with noise analysis. This did not interfere with any of the music on the recording. I wonder if azimuth adjustment would benefit this tape too. At the moment, I am just elated to have another uncirculated tape!
+						
+Being from Metro Detroit, attending university in Detroit and spending a lot of time at St. Andrew's Hall. This is very special to add to the archive. I have always wondered what it was like to see NIN here at this venue here in Detroit. Very cool and thank you to Maashu for sharing this tape 32 years on. If you have tapes like these and need help transferring them. Please get in contact. I would love to add them to preserve on the archive. Email me at info@ninlive.com Thank you!

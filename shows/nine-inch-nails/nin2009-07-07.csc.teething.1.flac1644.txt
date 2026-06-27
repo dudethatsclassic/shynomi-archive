@@ -1,0 +1,63 @@
+NINE INCH NAILS - MEW
+
+Le Zénith
+Paris, France (75)
+mardi 07 juillet 2009
+
+Only NIN recorded
+
+Source: mic: Core Sound Cardioids
+	rec: Sony PCM-D50 (PCM - 44,10 kHz / 16 bit)
+Location   : In the crowd, 30 m Front from the stage
+Transfer   : D50 > USB > HD
+Edit	   : .wav > Wavestudio (cuts,fade in/out) > .wav > WinOnCd (EQ) > .wav > Wavestudio (split in 2x.wav)
+Burn	   : 2.wav > WinOnCd (track split, DAO x8) > 2CDR
+Convert	   : 2CDR > EAC > .wav > Flac Fronted (level 6) > .flac
+
+
+taped, transfered and edited by teething
+
+
+************NINE INCH NAILS**************
+
+
+CD1 (63:45)
+
+01 - Somewhat Damaged
+02 - Terrible Lie
+03 - Heresy
+04 - March Of The Pigs
+05 - Reptile
+06 - The Becoming
+07 - I'm Afraid Of Americans
+08 - Burn
+09 - Gave Up
+10 - La Mer
+11 - The Fragile
+12 - Non Entity
+13 - Gone Still
+
+
+CD2 (41:40)
+
+14 - The Way Out is Through
+15 - Wish
+16 - Survivalism
+17 - [trent's speech & Ilan birthday]
+18 - (You're so) Physical
+19 - The Day The World Went Away
+20 - Hurt
+21 - The Hand That Feeds
+22 - Head Like A Hole
+
+
+total time : 105:25
+
+Line-up: 
+Trent Reznor
+Robin Finck
+Justin Meldal-Johnsen
+Ilan Rubin
+
+
+

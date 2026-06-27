@@ -1,0 +1,38 @@
+Nine Inch Nails
+05.04.00
+Hartford Civic Center
+Hartford, CT
+
+source:
+unknown DAT deck
+
+lineage:
+Dat->CDx->Wav->Flac
+
+setlist:
+Somewhat Damaged
+Terrible Lie
+Sin
+March of the Pigs
+Piggy
+Frail
+Wretched
+Gave Up
+Great Below
+Mark has been Made
+Wish
+Complication
+Suck
+Closer
+Head like a Hole
+
+Day the world went away
+Starfuckers
+Hurt
+
+
+
+comments:
+Excellent sounding DAT. One of the few V 2.0 shows that includes
+'somewhat damaged'. There is some digistatic in 'Closer' and 
+'La Mer' is missing from this recording.

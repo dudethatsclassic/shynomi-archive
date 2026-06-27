@@ -1,0 +1,58 @@
+Nine Inch Nails
+April 27, 2005
+Warfield San Francisco
+
+Source: ECM-DS70P > PCM-M1
+Transfer: HHB PDR 1000 > spdif > DS2416 > Audacity > SoundForge 6 (top, tail, eq)
+Track/Encode: CDwav > flac 5 
+
+
+ 1. The Frail				1:15
+ 2. The Wretched				5:25
+ 3. You Know What You Are?		3:24
+ 4. March of the Pigs			3:58
+ 5. The Line Begins to Blur		3:54
+ 6. Piggy					4:45
+ 7. Terrible Lie				5:04
+ 8. Burn					4:51
+ 9. Closer					4:23
+10. Reptile					6:40
+11. The Big Comedown			4:03
+12. Gave Up					5:04
+13. The Day the World Went Away	6:00
+14. Suck					4:09
+15. Even Deeper				5:57
+16. Wish					4:09
+17. Hurt					4:56
+18. The Hand That Feeds			3:43
+19. Starfuckers, Inc.			5:55
+20. Head Like a Hole			6:50
+Total:					1:34:25
+
+Notes:
+I was a little too close to the stage for the little DS70P. It got overloaded during the louder parts of the set and breaks up. Sorry.
+First night of a two-night stand at the Warfield. I made it to both. They were both amazing. Pure Power.
+
+FLAC Fingerprints
+nin-20050427-01.flac:cc9d3e3057d7ca5bb6f1691ee8f815de
+nin-20050427-02.flac:a232513f7aaf156caa2256b38900db0c
+nin-20050427-03.flac:1d1dac336585191cc47206a6c8d06917
+nin-20050427-04.flac:828efa7dba1177476fab8c1f14d7b4ad
+nin-20050427-05.flac:6a4416b577bfddca9520f8c0e7c5943b
+nin-20050427-06.flac:87d477cf10bc7adf61bc4848ff84c5d5
+nin-20050427-07.flac:50276dcdf98139a85b8ea0c0c1493a3a
+nin-20050427-08.flac:b0467ab973d24b7116cd4807a00bc64a
+nin-20050427-09.flac:f09f2510d8c2f28839551f5438fc99ba
+nin-20050427-10.flac:a879997950cad7f922c4621d1ce3b0c0
+nin-20050427-11.flac:8d66b1781ba64409dc7d021d4cc2d079
+nin-20050427-12.flac:2236f00d3c027ad0b6384510727ddeb7
+nin-20050427-13.flac:afadbc600e723fddc9ad70ce0dacd9d9
+nin-20050427-14.flac:ad23989a59636490040aa369be3d73dc
+nin-20050427-15.flac:2d5217590ef6000ec4e550ea4b4c6195
+nin-20050427-16.flac:9c000ab1d54c4396802849f1ecb399a5
+nin-20050427-17.flac:ed74fbb90b9f311d7f929a541e3a3c77
+nin-20050427-18.flac:5e22eb324db3c1ace82c64e96b086088
+nin-20050427-19.flac:4fe1f2c80d84ab806b8d3ef36fbc2854
+nin-20050427-20.flac:25f19f4ccf036d8696c1e2afa94bac5e
+
+RITC EDIT: This sources track 19 'Starfuckers Inc.' is corrupt. It was how it was when it was uploaded by the uploader on DIME, I believe. There is only 300kb of the song and when the person uploaded this source you can confirm that the 300kb was all that was in the folder because of the FLAC fingerprints that are in the text file match the FLAC file. Meaning there was an error in distribution.

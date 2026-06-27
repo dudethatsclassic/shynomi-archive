@@ -1,0 +1,80 @@
+Nine Inch Nails 
+2009-09-06
+Echoplex 
+Los Angeles, CA 
+
+record : MM-HLSC-1(mounted on hat,  25 feet from stage loc, in front of right stacks) > MM-MBM (roll off @ 96hz) > R09 @ 24/48
+transfer: R09 > USB > wavelab (editing) > Cdwav (tracking) > Trader's Little Helper (flac) > Foobar 2000 (liveshowtagger) 
+taper: sin213 
+website: http://members.cox.net/sin213/sin213.html 
+
+Echoplex is easily the smallest venue I've ever seen NIN at before...And it was intense.  By the time the 2+ hour show was over, the walls and ceiling were literally dripping with moisture.  At one point Trent even asks what the deal is with the A/c situation.  They burned through quite an extensive list of songs, bringing out Gary Numan as a special guest later in the show.
+
+NIN *24bit version*
+
+Disc 1 - 65:21  
+
+01 Somewhat Damaged 
+02 The Beginning of the End
+03 The Collector 
+04 Discipline 
+05 March of the Pigs
+06 Something I Can Never Have 
+07 The Frail 
+08 The Wretched 
+09 Terrible Lie
+10 Ruiner
+11 Head Down 
+12 Burn
+13 Gave Up
+14 La Mer
+
+Disc 2 - 65:15
+
+01 Non-Entity
+02 Gone, Still
+03 The Big Come Down
+04 The Way Out Is Through
+05 Wish
+06 Survivalism
+07 Down In It
+08 Metal (feat. Gary Numan)
+09 I Die: You Die (feat. Gary Numan)
+10 Physical (You're So)
+11 The Hand That Feeds
+12 Head Like A Hole
+--ENCORE--
+13 Dead Souls
+14 Hurt
+
+**DO NOT ENCODE TO MP3, EXCEPT FOR PERSONAL MP3 PLAYER USE** 
+**PLEASE DO NOT ALTER OR SELL THIS RECORDING AND INCLUDE THE INFO FILE IN TRADES**
+
+2009-09-06_NIN_Echoplex_d1t01.flac:2d3a2342f57cd4a4dfeecc353723b17b
+2009-09-06_NIN_Echoplex_d1t02.flac:d0d8fbd6bd30809291f5c62cdf7ff30f
+2009-09-06_NIN_Echoplex_d1t03.flac:754e57994d836aede23c6e6fe421a4c9
+2009-09-06_NIN_Echoplex_d1t04.flac:2ccbd95371341886dc5aeeadb2f8d6cb
+2009-09-06_NIN_Echoplex_d1t05.flac:d2838e873a796784a3ecaf5a607d666e
+2009-09-06_NIN_Echoplex_d1t06.flac:c88ea797d36b800611e41fbc5174336c
+2009-09-06_NIN_Echoplex_d1t07.flac:6d75cdd50df07d704d5a9e166739093f
+2009-09-06_NIN_Echoplex_d1t08.flac:ba2464a839bd24455fe2c4b05134b748
+2009-09-06_NIN_Echoplex_d1t09.flac:0358d3c0a85bc28fdf3948c222137251
+2009-09-06_NIN_Echoplex_d1t10.flac:a7dda010550ba8fe60722687548fc06b
+2009-09-06_NIN_Echoplex_d1t11.flac:249214d231e2ba56f4d4120b651fc565
+2009-09-06_NIN_Echoplex_d1t12.flac:05e7bc0860a86c4da190265d8821db70
+2009-09-06_NIN_Echoplex_d1t13.flac:6cd46fdc7581bab10c6baa4bb4c80181
+2009-09-06_NIN_Echoplex_d1t14.flac:ef906227ba1a271a9c3bed8877cfb916
+2009-09-06_NIN_Echoplex_d2t01.flac:bdd138089091aebfb1064f01f501b152
+2009-09-06_NIN_Echoplex_d2t02.flac:6335d3442945d2af013e59359cbbff30
+2009-09-06_NIN_Echoplex_d2t03.flac:3b9fa7fa7b983df0d55acd5635f52fa1
+2009-09-06_NIN_Echoplex_d2t04.flac:af40bfcd68cf7646bce3c9dcba968a53
+2009-09-06_NIN_Echoplex_d2t05.flac:9b6146307d35b14cd50a2fb2f4acfeaf
+2009-09-06_NIN_Echoplex_d2t06.flac:b82805fb80230aa7ce8d8e5d873d82eb
+2009-09-06_NIN_Echoplex_d2t07.flac:8656a048c30559084177cfc7c04c258b
+2009-09-06_NIN_Echoplex_d2t08.flac:5e3cfa5eb9cfd207439576f42190d5e2
+2009-09-06_NIN_Echoplex_d2t09.flac:d580a95ae72a3d1b09f1a122c5b8657e
+2009-09-06_NIN_Echoplex_d2t10.flac:f64815062c4831ef6a5af26dfd0e6191
+2009-09-06_NIN_Echoplex_d2t11.flac:211194a73bb6bc83ec24f7b9f9876f8b
+2009-09-06_NIN_Echoplex_d2t12.flac:1568b257594196f19d8f4dbc253a4d24
+2009-09-06_NIN_Echoplex_d2t13.flac:f1accd228dd042f8911981fd7fe16bf6
+2009-09-06_NIN_Echoplex_d2t14.flac:88d370bc81406b4af4e0548c18077d92
