@@ -170,7 +170,7 @@ function openShowInfo(filename) {
   modal.classList.add('open');
   document.body.style.overflow = 'hidden';
   content.textContent = 'Loading…';
-  fetch('../../shows/' + ARTIST_DATA.id + '/' + filename)
+  fetch('../../shows/' + ARTIST_DATA.id + '/' + encodeURIComponent(filename))
     .then(r => {
       if (!r.ok) throw new Error('Not found');
       return r.text();
