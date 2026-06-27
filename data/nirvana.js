@@ -13074,8 +13074,7 @@ const ARTIST_DATA = {
       "venue": "Pacific National Exhibition Forum",
       "notes": "ANA(M) \u00b7 mz",
       "version": "AUD #1",
-      "format": "FLAC",
-      "textFile": "1994-01-04 - AUD #1 - ANA(M)-DAT(1)-FLAC - 44.1kHz.txt"
+      "format": "FLAC"
     },
     {
       "year": 1994,
@@ -13088,8 +13087,7 @@ const ARTIST_DATA = {
       "venue": "Seattle Center Arena",
       "notes": "DAT(2) \u00b7 jh",
       "version": "AUD #1",
-      "format": "FLAC",
-      "textFile": "1994-01-07 - AUD #1 - DAT(2)-FLAC - 44.1kHz.txt"
+      "format": "FLAC"
     },
     {
       "year": 1994,
@@ -13102,8 +13100,7 @@ const ARTIST_DATA = {
       "venue": "Seattle Center Arena",
       "notes": "ANA(M) \u00b7 mz",
       "version": "AUD #2",
-      "format": "FLAC",
-      "textFile": "1994-01-07 - AUD #2 - ANA(M)-FLAC - 44.1kHz.txt"
+      "format": "FLAC"
     },
     {
       "year": 1994,
@@ -13116,8 +13113,7 @@ const ARTIST_DATA = {
       "venue": "Seattle Center Arena *Official CD \"From The Muddy Banks Of The Wishkah\"",
       "notes": "pl",
       "version": "SBD #1",
-      "format": "FLAC",
-      "textFile": "1994-01-07 - SBD #1 - CD-FLAC [FTMBOTW].txt"
+      "format": "FLAC"
     },
     {
       "year": 1994,
