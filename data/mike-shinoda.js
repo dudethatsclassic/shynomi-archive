@@ -1,7 +1,7 @@
 const ARTIST_DATA = {
   "id": "mike-shinoda",
   "name": "Mike Shinoda",
-  "drive": "D",
+  "drive": "B",
   "showCount": 3,
   "firstYear": 2018,
   "lastYear": 2018,
