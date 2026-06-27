@@ -258,7 +258,7 @@ const ARTIST_DATA = {
       "notes": "NDR \u00b7 FM Broadcast Master-DAT",
       "version": "FM",
       "format": "FLAC",
-      "textFile": "1967-03-18 - Hamburg, Germany - Studio 1 - NDR Radiohouse.txt"
+      "textFile": "1967-03-18 Studio 1 NDR Radiohouse Hamburg, Germany FM Broadcast master to Dat.txt"
     },
     {
       "year": 1967,
@@ -1244,8 +1244,7 @@ const ARTIST_DATA = {
       "venue": "Hallenstadion",
       "notes": "fd cleanup",
       "version": "AUD",
-      "format": "FLAC",
-      "textFile": "1968-05-30 and 1968-05-31 - Zurich, Switzerland [FD Cleanup].txt"
+      "format": "FLAC"
     },
     {
       "year": 1968,
@@ -1709,7 +1708,7 @@ const ARTIST_DATA = {
       "notes": "ANA(1)",
       "version": "AUD",
       "format": "",
-      "textFile": "1968-11-28 - New York - Philharmonic Hall.txt"
+      "textFile": "1968-11-28 Jimi Hendrix Experience - Philharmonic Hall (short tape).txt"
     },
     {
       "year": 1968,
@@ -1802,8 +1801,7 @@ const ARTIST_DATA = {
       "venue": "Lorensbergs Circkus",
       "notes": "1st gen",
       "version": "AUD",
-      "format": "FLAC",
-      "textFile": "1969-01-08 - Gothenburg, Sweden - Lorensbergs Circkus.txt"
+      "format": "FLAC"
     },
     {
       "year": 1969,

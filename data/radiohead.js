@@ -306,7 +306,7 @@ const ARTIST_DATA = {
       "notes": "Galei Tzahal",
       "version": "FM",
       "format": "FLAC",
-      "textFile": "1993-03-30 - Tel Aviv, Israel - Galei Tzahal [FM].txt"
+      "textFile": "1993-03-30 Unknown (.flac).txt"
     },
     {
       "year": 1993,
@@ -348,7 +348,7 @@ const ARTIST_DATA = {
       "notes": "",
       "version": "AUD",
       "format": "FLAC",
-      "textFile": "1993-05-04 - Glasgow, Scotland - King Tut's Wah Wah Hut [AUD].txt"
+      "textFile": "1993-05-04 Unknown (.flac).txt"
     },
     {
       "year": 1993,
@@ -541,8 +541,7 @@ const ARTIST_DATA = {
       "venue": "Whiskey A Go-Go",
       "notes": "WW1",
       "version": "preFM",
-      "format": "FLAC",
-      "textFile": "1993-07-12 - Los Angeles, CA - Whiskey A Go-Go - [preFM].txt"
+      "format": "FLAC"
     },
     {
       "year": 1993,
@@ -654,7 +653,7 @@ const ARTIST_DATA = {
       "notes": "unk",
       "version": "AUD",
       "format": "FLAC",
-      "textFile": "1993-09-01 - London, England - The Garage [AUD].txt"
+      "textFile": "1993-09-01 Unknown (.flac).txt"
     },
     {
       "year": 1993,
@@ -2394,7 +2393,7 @@ const ARTIST_DATA = {
       "notes": "unk",
       "version": "AUD",
       "format": "FLAC",
-      "textFile": "1995-10-01 - Hartford, CT - Meadows Amphitheater (Unknown) [AUD].txt"
+      "textFile": "1995-10-01 Unknown (.flac).txt"
     },
     {
       "year": 1995,
@@ -2478,7 +2477,7 @@ const ARTIST_DATA = {
       "notes": "unk",
       "version": "AUD",
       "format": "FLAC",
-      "textFile": "1995-11-04 - London, England - Brixton Academy [AUD].txt"
+      "textFile": "1995-11-04 Unknown (.flac).txt"
     },
     {
       "year": 1995,
@@ -2646,7 +2645,7 @@ const ARTIST_DATA = {
       "notes": "unk",
       "version": "AUD",
       "format": "SHN",
-      "textFile": "1995-11-23 - Cesena, Italy - Vidia Rock Club [AUD].txt"
+      "textFile": "1995-11-23 Unknown (.shn).txt"
     },
     {
       "year": 1995,
@@ -3063,7 +3062,7 @@ const ARTIST_DATA = {
       "notes": "unk",
       "version": "AUD",
       "format": "FLAC",
-      "textFile": "1996-04-06 - Toronto, Canada - Varsity Arena [AUD].txt"
+      "textFile": "1996-04-06 Unknown (.flac).txt"
     },
     {
       "year": 1996,
@@ -3480,7 +3479,7 @@ const ARTIST_DATA = {
       "notes": "Ed O'Brien and Colin Greenwood Interview",
       "version": "FM",
       "format": "FLAC",
-      "textFile": "1997-02-18 - Oxford - Super 8 Indie Show on Oxygen [FM].txt"
+      "textFile": "1997-02-18 FM broadcast (.flac).txt"
     },
     {
       "year": 1997,
@@ -3802,7 +3801,7 @@ const ARTIST_DATA = {
       "notes": "",
       "version": "AUD",
       "format": "DVD",
-      "textFile": "1997-06-28 - Glastonbury, England - Glastonbury Festival [SBD MIX].txt"
+      "textFile": "1997-06-28 Original Text Files and Samples.txt"
     },
     {
       "year": 1997,
@@ -4277,7 +4276,7 @@ const ARTIST_DATA = {
       "notes": "Soundcheck \u00b7 unk \u00b7 emily hyatt",
       "version": "AUD",
       "format": "FLAC",
-      "textFile": "1997-09-07 - Blackpool - Empress Ballroom (Soundcheck) [AUD].txt"
+      "textFile": "1997-09-07 nanakey's tape (.flac).txt"
     },
     {
       "year": 1997,
@@ -4305,7 +4304,7 @@ const ARTIST_DATA = {
       "notes": "ECM-909 \u00b7 belfrank",
       "version": "AUD",
       "format": "FLAC",
-      "textFile": "1997-09-08 - Stoke, England - Trentham Gardens (Soundcheck) [AUD].txt"
+      "textFile": "1997-09-08 nanakey's tape (.flac).txt"
     },
     {
       "year": 1997,
@@ -5881,7 +5880,7 @@ const ARTIST_DATA = {
       "notes": "fixed \u00b7 ridleybradout patch",
       "version": "preFM",
       "format": "FLAC",
-      "textFile": "2000-07-04 - Berlin, Germany - Grofler Sendesaal des SFB (Remastered Swingin'Pig) [FM].txt"
+      "textFile": "2000-07-04 - Berlin, Germany - Grofler Sendesaal des SFB - Revolves Around [SBD].txt"
     },
     {
       "year": 2000,
@@ -5894,8 +5893,7 @@ const ARTIST_DATA = {
       "venue": "Grofler Sendesaal des SFB",
       "notes": "remastered by the swingin' pig",
       "version": "FM",
-      "format": "SHN",
-      "textFile": "2000-07-04 - Berlin, Germany - Grofler Sendesaal des SFB - Revolves Around [SBD].txt"
+      "format": "SHN"
     },
     {
       "year": 2000,
@@ -6784,7 +6782,7 @@ const ARTIST_DATA = {
       "notes": "DAT(M) \u00b7 DPA 4061s \u00b7 unk",
       "version": "AUD",
       "format": "FLAC",
-      "textFile": "2001-05-26 - Bilbao, Spain - Plaza Del Toros (DPA 4061s) [AUD].txt"
+      "textFile": "2001-05-26 - Bilbao, Spain - Plaza Del Toros (Eurboots Bootleg) [AUD].txt"
     },
     {
       "year": 2001,
@@ -6797,8 +6795,7 @@ const ARTIST_DATA = {
       "venue": "Plaza Del Toros *Amnesie",
       "notes": "EB-88-2",
       "version": "Silver CD",
-      "format": "SHN",
-      "textFile": "2001-05-26 - Bilbao, Spain - Plaza Del Toros (Eurboots Bootleg) [AUD].txt"
+      "format": "SHN"
     },
     {
       "year": 2001,
@@ -6909,8 +6906,7 @@ const ARTIST_DATA = {
       "venue": "Rock Am Ring Festival *Radiohead Rock am Ring 2001",
       "notes": "",
       "version": "SBD",
-      "format": "FLAC",
-      "textFile": "2001-06-01 - Nurburg, Germany - Rock Am Ring Festival [SBD].txt"
+      "format": "FLAC"
     },
     {
       "year": 2001,
@@ -7204,7 +7200,7 @@ const ARTIST_DATA = {
       "notes": "DAT(M) \u00b7 DPA 4061s \u00b7 ed davis",
       "version": "AUD",
       "format": "FLAC",
-      "textFile": "2001-06-27 - Mountain View, CA - Shoreline Amphitheatre (DPA 4061\u2019s - Sony PCM-M1) [AUD].txt"
+      "textFile": "2001-06-27 - Mountain View, CA - Shoreline Amphitheatre (Neumann KM140 DAT Master to CD) [AUD].txt"
     },
     {
       "year": 2001,
@@ -7231,8 +7227,7 @@ const ARTIST_DATA = {
       "venue": "Shoreline Amphitheatre",
       "notes": "DAT(M) \u00b7 Neumann AK40s \u00b7 mv",
       "version": "AUD",
-      "format": "FLAC",
-      "textFile": "2001-06-27 - Mountain View, CA - Shoreline Amphitheatre (Neumann KM140 DAT Master to CD) [AUD].txt"
+      "format": "FLAC"
     },
     {
       "year": 2001,
@@ -8151,8 +8146,7 @@ const ARTIST_DATA = {
       "venue": "Fesival Internacional de Benicassim",
       "notes": "Satellite FM \u00b7 prozac ship",
       "version": "FM",
-      "format": "FLAC",
-      "textFile": "2002-08-03 - Benicassim - Fesival Internacional de Benicassim [FM].txt"
+      "format": "FLAC"
     },
     {
       "year": 2002,
@@ -11968,7 +11962,7 @@ const ARTIST_DATA = {
       "notes": "SP-CMC-4 \u00b7 rainman",
       "version": "AUD",
       "format": "FLAC",
-      "textFile": "2006-08-24 - Dublin, Ireland - Marlay Park (SP-CMC-4) [AUD].txt"
+      "textFile": "2006-08-24 D2.txt"
     },
     {
       "year": 2006,
@@ -14168,7 +14162,7 @@ const ARTIST_DATA = {
       "notes": "",
       "version": "WEB",
       "format": "FLAC",
-      "textFile": "2009-09-21 - The Age of Stupid Premiere - Reckoner (Thom solo) [WEB].txt"
+      "textFile": "2009-09-21 MPEG audio rip (.flac).txt"
     },
     {
       "year": 2010,

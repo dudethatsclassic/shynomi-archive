@@ -1351,8 +1351,7 @@ const ARTIST_DATA = {
       "venue": "Circuit City Rock Stage",
       "notes": "Summerfest \u00b7 unk",
       "version": "FM",
-      "format": "FLAC",
-      "textFile": "2000-06-29 - Milwaukee, WI - Circuit City Rock Stage.txt"
+      "format": "FLAC"
     },
     {
       "year": 2000,
@@ -1378,7 +1377,8 @@ const ARTIST_DATA = {
       "venue": "Circuit City Rock Stage",
       "notes": "Summerfest \u00b7 1 \u00b7 Left Cam with FM",
       "version": "AUD",
-      "format": "DVD"
+      "format": "DVD",
+      "textFile": "2000-06-29 - Milwaukee, WI - Circuit City Rock Stage - VHS(1) (Left Cam with FM) [DVD].txt"
     },
     {
       "year": 2000,
@@ -1404,7 +1404,8 @@ const ARTIST_DATA = {
       "venue": "Circuit City Rock Stage",
       "notes": "Summerfest \u00b7 Right Cam",
       "version": "AUD",
-      "format": "DVD"
+      "format": "DVD",
+      "textFile": "2000-06-29 - Milwaukee, WI - Circuit City Rock Stage (Right Cam) [DVD].txt"
     },
     {
       "year": 2000,
