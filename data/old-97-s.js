@@ -24,7 +24,7 @@ const ARTIST_DATA = {
       "state": "TX",
       "location": "Austin, TX",
       "venue": "Split Rail",
-      "notes": "Sonic Studios \u00b7 markp",
+      "notes": "Sonic Studios · markp",
       "version": "AUD",
       "format": "FLAC",
       "textFile": "1996-03-16 - Austin, TX - Split Rail (Sonic Studios) (markp) [AUD].txt"
@@ -52,7 +52,7 @@ const ARTIST_DATA = {
       "state": "NC",
       "location": "Carrboro, NC",
       "venue": "Cat's Cradle",
-      "notes": "Peluso CEMC-6-CK4 \u00b7 larry tucker",
+      "notes": "Peluso CEMC-6-CK4 · larry tucker",
       "version": "AUD",
       "format": "FLAC",
       "textFile": "2008-10-03 - Carrboro, NC - Cat's Cradle (Peluso CEMC-6-CK4) (larry tucker) [AUD].txt"
@@ -66,7 +66,7 @@ const ARTIST_DATA = {
       "state": "MA",
       "location": "Greenfield, MA",
       "venue": "Green River Festival",
-      "notes": "Zoom H2 \u00b7 unk",
+      "notes": "Zoom H2 · unk",
       "version": "AUD",
       "format": "FLAC",
       "textFile": "2011-07-16 - Greenfield, MA - Green River Festival (Zoom H2) (unk) [AUD].txt"
@@ -80,7 +80,7 @@ const ARTIST_DATA = {
       "state": "ME",
       "location": "Portland, ME",
       "venue": "State Theatre",
-      "notes": "Schoeps CCM4V \u00b7 z-man",
+      "notes": "Schoeps CCM4V · z-man",
       "version": "AUD",
       "format": "FLAC",
       "textFile": "2013-03-09 - Portland, ME - State Theatre (Schoeps CCM4V) (z-man) [AUD].txt"
@@ -108,7 +108,7 @@ const ARTIST_DATA = {
       "state": "MD",
       "location": "Annapolis, MD",
       "venue": "Annapolis Smokehouse and Tavern",
-      "notes": "MBHO603A-KA200 \u00b7 kubacheck",
+      "notes": "MBHO603A-KA200 · kubacheck",
       "version": "AUD",
       "format": "FLAC",
       "textFile": "2014-06-01 - Annapolis, MD - Annapolis Smokehouse and Tavern (MBHO603A-KA200) (kubacheck) [AUD].txt"
@@ -122,7 +122,7 @@ const ARTIST_DATA = {
       "state": "DC",
       "location": "Washington, DC",
       "venue": "930 Club",
-      "notes": "Gefell MV400L \u00b7 alex leary",
+      "notes": "Gefell MV400L · alex leary",
       "version": "AUD",
       "format": "FLAC 24",
       "textFile": "2026-04-04 - Washington, DC - 930 Club (Gefell MV400L) (alex leary) [AUD24].txt"
