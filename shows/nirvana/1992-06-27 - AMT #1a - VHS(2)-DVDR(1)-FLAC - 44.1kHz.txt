@@ -1,0 +1,70 @@
+NIRVANA
+June 27, 1992
+Kansanpuisto (Ruisrock)
+Turku, Finland
+
+SOURCE (AMT #1a):
+unknown > unknown
+
+EXTRACTION:
+PgcDemux 1.2.0.5 > Adobe Audition 1.5 > FLAC frontend 1.7.1
+
+GENERATION:
+VHS(2) > DVDR(1) [48kHz/1536kbps PCM] > WAV [48kHz] > WAV [44.1kHz] > FLAC [Level 8]
+
+LENGTH:
+75:34
+
+TRACKS:
+01. intro
+02. Aneurysm
+03. Drain You
+04. Stay Away
+05. Sliver
+06. School
+07. In Bloom
+08. Breed
+09. About A Girl
+10. Scoff
+11. Polly
+12. Lithium
+13. Blew
+14. Been A Son
+15. On A Plain
+16. Swap Meet
+17. Negative Creep
+18. Come As You Are
+19. Love Buzz
+20. Smells Like Teen Spirit
+21. Territorial Pissings
+
+MD5 FINGERPRINTS:
+33f3e65843edbeac8a1135de32a1b448 *Nirvana_1992-06-27_AMT1a_t01.flac
+7a8bf5869e8806aa5af8d6e108ff2705 *Nirvana_1992-06-27_AMT1a_t02.flac
+14541c8efd6e04f166bd22051d860f2b *Nirvana_1992-06-27_AMT1a_t03.flac
+dbd7e205b4e060d8d9109acfc07cbfef *Nirvana_1992-06-27_AMT1a_t04.flac
+d1b54822bd6998131643021a51de89c0 *Nirvana_1992-06-27_AMT1a_t05.flac
+dc1b6198673eb6c7d2cfe051b487e8ae *Nirvana_1992-06-27_AMT1a_t06.flac
+6b94fd93faad474000e4ae0e1f82c8db *Nirvana_1992-06-27_AMT1a_t07.flac
+9255ee245eee25b11afd63338eabb08e *Nirvana_1992-06-27_AMT1a_t08.flac
+6a4fa9e0e0b4adcaf01f86338ab2e71a *Nirvana_1992-06-27_AMT1a_t09.flac
+fe70e7f00d5920e4d9fa706bd7fc5b67 *Nirvana_1992-06-27_AMT1a_t10.flac
+7e51e4ee8be5c8e3b2d2260229e02628 *Nirvana_1992-06-27_AMT1a_t11.flac
+f1fe95b83ef54e11eef93bc9f02c88dd *Nirvana_1992-06-27_AMT1a_t12.flac
+cbf83fc1869c68985abdfa0944e78031 *Nirvana_1992-06-27_AMT1a_t13.flac
+ec966dc38bee09c0c355ae0614438326 *Nirvana_1992-06-27_AMT1a_t14.flac
+47e89d26267ff11468b989d9733f76fd *Nirvana_1992-06-27_AMT1a_t15.flac
+3be73eece4ec948d678d3fb3738f6f1a *Nirvana_1992-06-27_AMT1a_t16.flac
+cc6b324c299fe27584c8122554134749 *Nirvana_1992-06-27_AMT1a_t17.flac
+60a2a56e0a3ab72fd65d435ef0174cbc *Nirvana_1992-06-27_AMT1a_t18.flac
+0614e6d7fa6224abdec69733d8e09921 *Nirvana_1992-06-27_AMT1a_t19.flac
+bf19b6c7909348f24c8ee3e648996995 *Nirvana_1992-06-27_AMT1a_t20.flac
+a2364c3bf27dfbabc303cf6dc9aa6f59 *Nirvana_1992-06-27_AMT1a_t21.flac
+
+TRANSFERRED BY:
+Chris Hill
+
+EXTRACTED BY:
+Pieter Vermeulen
+
+PLEASE DO NOT SELL OR ENCODE TO MP3

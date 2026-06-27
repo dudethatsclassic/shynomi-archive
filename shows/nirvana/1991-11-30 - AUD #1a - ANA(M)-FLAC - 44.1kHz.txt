@@ -1,0 +1,64 @@
+NIRVANA
+November 30, 1991
+Queen Margaret Union, University of Glasgow
+Glasgow, United Kingdom 
+
+SOURCE (AUD #1a):
+unknown > unknown
+
+TRANSFER:
+unknown > Adobe Audition 3.0 > CD Wave 1.98 > Trader's Little Helper 2.6.0
+
+GENERATION:
+ANA(M) > WAV [44.1kHz] > FLAC [Level 8]
+
+LENGTH:
+54:30
+
+NOTES:
+- The volume level is very low for the first 2 minutes of the recording.
+
+TRACKS:
+01. L'Amour Est Un Oiseau Rebelle (jam)
+02. Drain You
+03. Aneurysm
+04. Lithium
+05. School
+06. Floyd The Barber
+07. Smells Like Teen Spirit
+08. About A Girl
+09. Polly
+10. Sliver
+11. Breed
+12. Come As You Are
+13. Been A Son
+14. All Apologies
+15. On A Plain (cuts in)
+16. unknown (cut)
+17. Rape Me
+18. Territorial Pissings
+
+MD5 FINGERPRINTS:
+e0cf478fd6d23f63bcd0f8a7ec1c2c81 *Nirvana_1991-11-30_AUD1a_t01.flac
+6eeb004a3322c528fe6cfe1cd01a4bbd *Nirvana_1991-11-30_AUD1a_t02.flac
+83dfb70b7b03a27debd6bad3dd7ed2e7 *Nirvana_1991-11-30_AUD1a_t03.flac
+3ab433d7844f3a2ceef6a8f2475aae2e *Nirvana_1991-11-30_AUD1a_t04.flac
+36186e3abb5237c172f09103ddd625cd *Nirvana_1991-11-30_AUD1a_t05.flac
+3c7c4a22f05780a6eae47ac00a30e86f *Nirvana_1991-11-30_AUD1a_t06.flac
+b760b7154d0fa123ecf13bbfeabb188f *Nirvana_1991-11-30_AUD1a_t07.flac
+f4c12d578ac482ece2312425687d1acf *Nirvana_1991-11-30_AUD1a_t08.flac
+d888c5b4db1a00c4806f3eb1dcf9d4a7 *Nirvana_1991-11-30_AUD1a_t09.flac
+9b90c021f40d4253582b6bfc7c2cdc50 *Nirvana_1991-11-30_AUD1a_t10.flac
+f12c24fb073e2ab855d6e4ac5a207b0f *Nirvana_1991-11-30_AUD1a_t11.flac
+31ef9500a9be06c2c5137984cdd576b8 *Nirvana_1991-11-30_AUD1a_t12.flac
+58fed72d4cf7061cd78a0df4f843636f *Nirvana_1991-11-30_AUD1a_t13.flac
+795ab1b73d9057d073fe0b3a6729a519 *Nirvana_1991-11-30_AUD1a_t14.flac
+ea9fdbb33f69b4ce27fd23ca37fadefe *Nirvana_1991-11-30_AUD1a_t15.flac
+057f3f18750ff222cf407ce3a408716f *Nirvana_1991-11-30_AUD1a_t16.flac
+c3f5268d4e4348e908c6f881195c7dd3 *Nirvana_1991-11-30_AUD1a_t17.flac
+aa80b7cf7293dd2717dff3ddbece2093 *Nirvana_1991-11-30_AUD1a_t18.flac
+
+TRANSFERRED BY:
+Benoit Martigny
+
+PLEASE DO NOT SELL OR ENCODE TO MP3

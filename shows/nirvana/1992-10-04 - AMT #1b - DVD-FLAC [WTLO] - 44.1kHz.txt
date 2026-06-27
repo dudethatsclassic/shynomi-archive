@@ -1,0 +1,28 @@
+NIRVANA
+October 04, 1991
+Crocodile Café
+Seattle, WA
+
+DISC #1/1 (03:33)
+-----------------
+01) Talk To Me
+
+SOURCE (AMT #1b)
+-----------------
+unknown > unknown
+
+GENERATION
+-----------------
+Official DVD "With The Lights Out" -> WAV [48kHz] -> WAV [44.1kHz] -> FLAC [Level 8]
+
+EXTRACTION
+-----------------
+Lite-On iHBS-112 -> DVD Decrypter 3.5.4.0 -> Adobe Audition 3.0 -> FLAC Frontend 1.7.1
+
+MD5 FINGERPRINTS
+-----------------
+0537fca71f64d8df60ca59e6adf3d099 *Nirvana_1992-10-04_AMT1b_t01.flac
+
+Extracted by PL.
+PLEASE DO NOT ENCODE TO MP3 OR SELL!
+NO TRADE

@@ -1,0 +1,57 @@
+Nivana 
+Warfield Theatre 
+San Francisco, CA
+October 26, 1991
+
+
+source: Nakamichi cm300 (cp1) > Sony WM-D6C
+transfer from master cassette
+taper: markp
+
+
+01 /Jesus Wants Me For A Sunbeam
+02 Aneurysm
+03 Drain You
+04 School
+05 Floyd The Barber
+06 Smells Like Teen Spirit
+07 About A Girl
+08 Polly
+09 Breed
+10 Sliver
+11 Lithium
+12 Love Buzz
+13 On A Plain
+14 Negative Creep
+15 Blew
+16 thanks and dedication to Bill Graham
+17 crowd
+18 Dive
+19 Rape Me
+20 Territorial Pissings
+21 crowd
+
+
+
+Track01.flac:e5186dfc54331a7fb922d4f9457cfbf6
+Track02.flac:0a9f4b67cb1dfdc5647050b21ff7fc08
+Track03.flac:a63f7d78fbd11e3725a914de833ad09f
+Track04.flac:3a7ba3fb2934eca4f02553c29cda1877
+Track05.flac:dd30c6fa3999c8d581390011c39bbf48
+Track06.flac:8069687faf2b64f743f490e961143694
+Track07.flac:1833b9d987fc71d69fca464eacaa05af
+Track08.flac:1cd8d83e7bffdeb185206739063f2c2e
+Track09.flac:36baa844ef9580e76909517bef48f839
+Track10.flac:c7a49495dbb8934968a9803741ffd4ed
+Track11.flac:e4925e22a316226e49748a046323abbe
+Track12.flac:56b845b588c5f522a3866818f5058187
+Track13.flac:b039f419811cca2749f21d36f3460dbe
+Track14.flac:ebae2ac77803b0c34685df3e27bc05c3
+Track15.flac:c1f55bb19068db3f1eaf7e14e2dd9dce
+Track16.flac:c7de18030de14ce63167960c943177ab
+Track17.flac:a49f07ac5206fa5378e475a4476c6bff
+Track18.flac:7a8320588a82fcef5b013fe878cc5983
+Track19.flac:4ab9ad3d36c54e2e6dc2da8afc429305
+Track20.flac:e84c8ea08ea2d6e0d6768633f2ff2fbe
+Track21.flac:0fc1a665d2553c77ac2a2080c8af49c2
+

@@ -1,0 +1,36 @@
+NIRVANA
+October 4, 1992
+Crocodile Cafe
+Seattle, WA
+
+SOURCE (AMT #1a):
+unknown > unknown
+
+TRANSFER:
+JVC HR-S9911U > Echo Layla24 > Adobe Audition 1.5 > CD Wave 1.94.8 > FLAC frontend 1.7.1
+
+GENERATION:
+VHS(x) > WAV [48kHz] > WAV [44.1kHz] > FLAC [Level 8]
+
+LENGTH:
+11:18
+
+NOTES:
+- Has several dropouts in "Pennyroyal Tea."
+
+TRACKS:
+01. Curmudgeon (cuts in)
+02. Lounge Act
+03. Pennyroyal Tea (cuts out)
+04. School
+
+MD5 FINGERPRINTS:
+58ff4c19945b5cd1cf691a74ef3ee2f9 *Nirvana_1992-10-04_AMT1a_t01.flac
+7f01eef154ff3d87a63bfdbe533daddf *Nirvana_1992-10-04_AMT1a_t02.flac
+1d0d849c8ac592f4c6fd9c8bc588e5a7 *Nirvana_1992-10-04_AMT1a_t03.flac
+52e46fef57b55ca5cf7044e270996a3a *Nirvana_1992-10-04_AMT1a_t04.flac
+
+TRANSFERRED BY:
+Kris Sproul
+
+PLEASE DO NOT SELL OR ENCODE TO MP3

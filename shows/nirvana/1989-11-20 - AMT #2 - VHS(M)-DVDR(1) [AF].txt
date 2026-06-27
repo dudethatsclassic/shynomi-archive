@@ -1,0 +1,59 @@
+NIRVANA
+November 20, 1989
+Kapu, Linz, 
+Austria
+
+DISC #1/1 (62:02)
+-----------------
+01) intro
+02) School 
+03) Scoff
+04) Love Buzz 
+05) Floyd The Barber 
+06) Dive 
+07) Polly 
+08) Big Cheese 
+09) About A Girl 
+10) Spank Thru 
+11) Molly's Lips 
+12) Breed 
+13) Been A Son 
+14) Negative Creep 
+15) Blew 
+16) Sappy 
+17) Even In His Youth 
+18) Stain
+
+GENERATION
+-----------------
+VHS(M) -> DVDR(1)
+
+SOURCE (AMT #2)
+-----------------
+built-in -> Hitachi VM-???
+
+TRANSFER
+-----------------
+unknown
+
+NOTES
+-----------------
+- Includes TAD's set
+- "Scoff", "Big Cheese" and "Blew" cut in and "Stain" cuts out.
+- Cuts after "Breed" and "Blew".
+
+MD5 FINGERPRINTS
+-----------------
+bcaa331184cf7d916fe1f9e7c79b0c01 *VIDEO_TS.BUP
+bcaa331184cf7d916fe1f9e7c79b0c01 *VIDEO_TS.IFO
+048d522c54bbb5cd65229120b347a51d *VIDEO_TS.VOB
+040cb6bcb6fc1f7c72ed252a6fdd6011 *VTS_01_0.BUP
+040cb6bcb6fc1f7c72ed252a6fdd6011 *VTS_01_0.IFO
+1cb05283699f9385979299e59520416f *VTS_01_0.VOB
+0ad2cca26064639ffea4635f66cfd3f2 *VTS_01_1.VOB
+410529d6a6d4d0c8e46b730fe11baf52 *VTS_01_2.VOB
+692479410a6268cf3b1eb6be198d7b3a *VTS_01_3.VOB
+09246327697db751f254e936b15892b9 *VTS_01_4.VOB
+
+Tranferred by A.F.
+PLEASE DO NOT ENCODE TO MP3 OR SELL!

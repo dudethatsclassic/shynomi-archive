@@ -1,0 +1,52 @@
+NIRVANA
+August 27, 1991
+Aladin (Überschall 91)
+Bremen, Germany
+
+DISC #1/1 (43:59)
+-----------------
+01) Something In The Way (cut)
+02) Negative Creep
+03) Been A Son
+04) Blew
+05) Polly
+06) Rape Me
+07) Pennyroyal Tea
+08) School
+09) Smells Like Teen Spirit
+10) In Bloom
+11) Come As You Are
+12) Floyd The Barber
+13) Endless, Nameless (cut)
+
+GENERATION
+-----------------
+FM -> ANA(1) -> WAV [48kHz] -> WAV [44.1kHz] -> FLAC [Level 8]
+
+SOURCE (SBD#1)
+-----------------
+soundboard -> unknown
+
+TRANSFER
+-----------------
+Nakamichi DR-8 -> Hosa RCA cable -> LynxONE analog-in -> Adobe Audition 1.5 -> CD Wave 1.94.8 -> FLAC Frontend 1.7.1
+
+MD5 FINGERPRINTS
+-----------------
+61ec371d6b3cf01f64ee9f0e6ec8b389 *nirvana1991-08-27t01.flac
+c2c93225730585121059390e80533bfd *nirvana1991-08-27t02.flac
+c463b259b539c88af6ad1d85638c68ec *nirvana1991-08-27t03.flac
+ed0c103c7776b52fdcfa4662fe3e70c6 *nirvana1991-08-27t04.flac
+da08cb1dfedd0a062651bf79d715b5cb *nirvana1991-08-27t05.flac
+7f020082f4a403ad3aad4399ea65dd22 *nirvana1991-08-27t06.flac
+69985fce69bd29196d78cbdeceda206b *nirvana1991-08-27t07.flac
+d88f5fca3acbb284f88dff087c8b5433 *nirvana1991-08-27t08.flac
+4459f354c3ba0dac43cbc109d40b737c *nirvana1991-08-27t09.flac
+8a558f53af27dc7f1ec82e9bab02072d *nirvana1991-08-27t10.flac
+e705f2f87ffa3a2930ed6a16045e2507 *nirvana1991-08-27t11.flac
+ead17fe0c148fcd7983ff81f6a97e7eb *nirvana1991-08-27t12.flac
+a8aaf451420aa46320539c56e13bdca0 *nirvana1991-08-27t13.flac
+
+
+Transferred by Mike Ziegler.
+PLEASE DO NOT ENCODE TO MP3 OR SELL!

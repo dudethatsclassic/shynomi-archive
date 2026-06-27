@@ -1,0 +1,68 @@
+NIRVANA
+October 31, 1991
+Paramount Theatre
+Seattle, WA
+
+DISC #1/1 (72:44)
+-----------------
+01) intro
+02) Jesus Wants Me For A Sunbeam
+03) Aneurysm
+04) Drain You
+05) School
+06) Floyd The Barber
+07) jam
+08) Smells Like Teen Spirit
+09) About A Girl
+10) Polly
+11) Breed
+12) Sliver
+13) Love Buzz
+14) Lithium
+15) Been A Son
+16) Negative Creep
+17) On A Plain
+18) Blew
+19) Rape Me
+20) Territorial Pissings
+21) Endless, Nameless
+
+GENERATION
+-----------------
+ANA(1) -> WAV [48kHz] -> WAV [44.1kHz] -> FLAC [Level 8]
+
+SOURCE (SBD#1a)
+-----------------
+soundboard -> unknown
+
+TRANSFER
+-----------------
+Nakamichi DR-8 -> Hosa RCA cable -> LynxONE analog-in -> Sound Forge 6.0 -> Adobe Audition 2.0 -> CD Wave 1.94.8 -> FLAC Frontend 1.7.1
+
+MD5 FINGERPRINTS
+-----------------
+4f3e5413eb4a7363841ee270c5574a90 *nirvana1991-10-31t01.flac
+a91708e3fae6486a05b7119d580ecdae *nirvana1991-10-31t02.flac
+296c34414fb273203c8fda49223cb2ee *nirvana1991-10-31t03.flac
+04980e9894026c2280ad0c943ff74274 *nirvana1991-10-31t04.flac
+412e0f13b4ebe2081d52fe62fcced238 *nirvana1991-10-31t05.flac
+bb0e41b6b448778427c1886f1b9cf454 *nirvana1991-10-31t06.flac
+6fa416dcbf153d3bfdf0629d0eb39b36 *nirvana1991-10-31t07.flac
+d177243fb14427ddf591f2958ee1230c *nirvana1991-10-31t08.flac
+af72cb33db9c63decf546a330e215ff0 *nirvana1991-10-31t09.flac
+6b2f5e7d42af62c314adf5ad3f63c63b *nirvana1991-10-31t10.flac
+4edc6107f740ea26f0c9e654ff120741 *nirvana1991-10-31t11.flac
+862669f55bf6d3e7b12ace2bfe3f9ac8 *nirvana1991-10-31t12.flac
+2161c0845ca4742127a9e5d579672aa7 *nirvana1991-10-31t13.flac
+fb013e4d794fbb57bf7959e633e5cc6f *nirvana1991-10-31t14.flac
+00255c872246e0e3881358c71b8f9b20 *nirvana1991-10-31t15.flac
+ceaab4a0339603f2e3e88ea7c7df61ca *nirvana1991-10-31t16.flac
+37694cdb2c2f9b7f1658c34291b9ffdb *nirvana1991-10-31t17.flac
+cc5ecb843f88528d2549b074b19752d6 *nirvana1991-10-31t18.flac
+6fae0eb39398a72da6b8a08cab728dc2 *nirvana1991-10-31t19.flac
+a5dc97ce0c2186fff0ce7c41ccfc23b6 *nirvana1991-10-31t20.flac
+1b99c97c07ef7bc55957be70b3c8cbcd *nirvana1991-10-31t21.flac
+
+
+Transferred by Mike Ziegler.
+PLEASE DO NOT ENCODE TO MP3 OR SELL!

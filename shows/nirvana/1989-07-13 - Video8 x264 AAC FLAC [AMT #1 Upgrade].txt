@@ -1,0 +1,37 @@
+NIRVANA
+July 13, 1989
+Maxwell's
+Hoboken, NJ, USA
+
+SOURCE (AMT #1):
+unknown > unknown
+
+VIDEO TRANSFER:
+Sony DCR-TRV730 > Datavideo TBC-6000 > ATI TV Wonder 600 USB > VirtualDub > AviSynth 2.6.0 > x264.exe 0.155.2901 7d0ff22 > MKVToolNix GUI v46.0.0
+
+AUDIO TRANSFER:
+Sony DCR-TRV730 > Datavideo TBC-6000 > ATI TV Wonder 600 USB > VirtualDub > flac.exe & Apple AAC encoder q109
+
+GENERATION:
+Video8(M) > AVI [UtVideo/48khz/16-Bit/PCM] > MKV [480p/x264 | AAC | FLAC]
+
+LENGTH:
+20:37
+
+TRACKS:
+01. School
+02. Floyd The Barber
+03. Love Buzz
+04. About A Girl
+05. Scoff
+06. Spank Thru
+07. Blew
+
+MD5 FINGERPRINTS:
+58a55a41d94c717efc782f52e579a728 *Nirvana 1989-07-13 AMT1 Video8 x264 AAC FLAC.mkv
+
+TRANSFER & DISTRIBUTION:
+Nicholas Serra & Members of LiveNIRVANA.com
+2020-10-03
+
+**PLEASE DO NOT ENCODE TO LOSSY FORMATS OR SELL!**

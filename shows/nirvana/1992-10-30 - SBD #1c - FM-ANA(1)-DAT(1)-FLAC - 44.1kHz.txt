@@ -1,0 +1,34 @@
+NIRVANA
+October 30, 1992
+Estadio de Velez Sarsfield
+Buenos Aires, Argentina
+
+DISC #1/1 (5:02)
+-----------------
+01) Aneurysm (cut)
+02) Come As You Are (cut)
+03) Polly (cut)
+04) In Bloom (cut)
+
+GENERATION
+-----------------
+FM > ANA(1) -> DAT(1) -> WAV [48kHz] -> WAV [44.1kHz] -> FLAC [Level 8]
+
+SOURCE (SBD#1c)
+-----------------
+soundboard -> unknown
+
+TRANSFER
+-----------------
+Tascam DA-20 MKII -> Apogee S/PDIF cable -> LynxONE digital-in -> Adobe Audition 2.0 -> CD Wave 1.95.1 -> FLAC Frontend 1.7.1
+
+MD5 FINGERPRINTS
+-----------------
+cdb50f4f9ba09cf3267b73cd13a15380 *nirvana1992-10-30t01.flac
+acabc0851d81e689f3e5a8502568ffbe *nirvana1992-10-30t02.flac
+287e48e8dfeb45105187a285ed06864d *nirvana1992-10-30t03.flac
+41ca348666aa080f80a92c913b335f8c *nirvana1992-10-30t04.flac
+
+
+Transferred by Mike Ziegler.
+PLEASE DO NOT ENCODE TO MP3 OR SELL!

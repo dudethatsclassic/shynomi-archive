@@ -1,0 +1,77 @@
+NIRVANA
+April 9, 1993
+Cow Palace (Bosnian Rape Victim Benefit)
+Daly City, CA
+
+SOURCE (AUD #5):
+Sony ECM-939 > Sony TCD-D3
+
+TRANSFER:
+Tascam DA-20 > Marantz PMD-670 > Adobe Audition 3.0 > CD Wave 1.98 > Trader's Little Helper 2.7.0
+
+GENERATION:
+DAT(M) [48kHz] > WAV [48kHz] > WAV [44.1kHz] > FLAC [Level 8]
+
+LENGTH:
+90:35
+
+TRACKS (DISC 1):
+01. intro
+02. Rape Me
+03. School
+04. Breed
+05. Sliver
+06. Come As You Are
+07. Milk It
+08. About A Girl
+09. Lithium
+10. Dumb
+11. Frances Farmer Will Have Her Revenge On Seattle
+12. Serve The Servants
+13. Aneurysm
+14. Smells Like Teen Spirit
+15. Territorial Pissings
+
+TRACKS (DISC 2):
+01. Blew
+02. All Apologies
+03. Heart-Shaped Box
+04. Scentless Apprentice
+05. Something In the Way
+06. Negative Creep
+07. Been A Son
+08. Dive
+09. Love Buzz
+10. Endless, Nameless
+
+MD5 FINGERPRINTS:
+12ce9d2f1c56a37a4866d28b3fc31e43 *Nirvana_1993-04-09_AUD5_d1t01.flac
+73a8f6b0bfde4e4856343c334b4a82ee *Nirvana_1993-04-09_AUD5_d1t02.flac
+5be68ef2787d31acef08ed6bcdb10727 *Nirvana_1993-04-09_AUD5_d1t03.flac
+ee2b19dcfdac24354de1a7b4b911d677 *Nirvana_1993-04-09_AUD5_d1t04.flac
+35e9262d5b98472de01b98181835ce55 *Nirvana_1993-04-09_AUD5_d1t05.flac
+f169bddb956e9b9b082ef685724c035e *Nirvana_1993-04-09_AUD5_d1t06.flac
+7995030b10bf771517edff2241a8a14c *Nirvana_1993-04-09_AUD5_d1t07.flac
+e042b64ac5b5e104df86f3441eb6975a *Nirvana_1993-04-09_AUD5_d1t08.flac
+abef634a43cc31f3efebb37da50d393b *Nirvana_1993-04-09_AUD5_d1t09.flac
+b6b809c7021974cc71f1dfcd4926a3b8 *Nirvana_1993-04-09_AUD5_d1t10.flac
+18a31fabf3de86776bddb851b5040336 *Nirvana_1993-04-09_AUD5_d1t11.flac
+788186486ebe1b61c10f75d885288db9 *Nirvana_1993-04-09_AUD5_d1t12.flac
+5fb2de054b26102d5eb15508477cc925 *Nirvana_1993-04-09_AUD5_d1t13.flac
+39254f73e821b0e5bb92dee062762d90 *Nirvana_1993-04-09_AUD5_d1t14.flac
+f2d9a774a5b2b03f8df58f71b46021ca *Nirvana_1993-04-09_AUD5_d1t15.flac
+2798804a405ce640e084ed9dcd6c415e *Nirvana_1993-04-09_AUD5_d2t01.flac
+047834ccd4c27b58e737a3f28e77ee24 *Nirvana_1993-04-09_AUD5_d2t02.flac
+4afdc5159a03cf5b002f2836671663f6 *Nirvana_1993-04-09_AUD5_d2t03.flac
+03735d41920f7dfe01d1c53c914d20b5 *Nirvana_1993-04-09_AUD5_d2t04.flac
+00ddd022c01097823244d099e10636a7 *Nirvana_1993-04-09_AUD5_d2t05.flac
+4482e15831ef34c3a3b325fcfc9b79db *Nirvana_1993-04-09_AUD5_d2t06.flac
+b3d3bf3d3bab06e6eac52cd9e0b074b9 *Nirvana_1993-04-09_AUD5_d2t07.flac
+8f7e557b04c92a397f443753297d95bd *Nirvana_1993-04-09_AUD5_d2t08.flac
+d15f21a19a75b236d6bf9fab6ed4d577 *Nirvana_1993-04-09_AUD5_d2t09.flac
+304f3b821c55946c88fbb715f8991e5f *Nirvana_1993-04-09_AUD5_d2t10.flac
+
+TRANSFERRED BY:
+BLG
+
+PLEASE DO NOT SELL OR ENCODE TO MP3

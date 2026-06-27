@@ -1,0 +1,56 @@
+NIRVANA
+January 6, 1990
+East Ballroom, Husky Union Building, University of Washington
+Seattle, WA
+
+DISC #1/1 (45:57)
+-----------------
+01) Scoff
+02) Floyd The Barber
+03) Love Buzz
+04) Dive
+05) Polly
+06) School
+07) Big Cheese
+08) Sappy
+09) Spank Thru
+10) Molly's Lips
+11) About A Girl
+12) Breed
+13) Been A son
+14) Negative Creep
+15) Blew
+
+GENERATION
+-----------------
+ANA(3) -> DAT(1) -> WAV [48kHz] -> WAV [44.1kHz] -> FLAC [Level 8]
+
+SOURCE (SBD#1a)
+-----------------
+soundboard -> unknown
+
+TRANSFER
+-----------------
+Tascam DA-20 MKII -> Apogee S/PDIF cable -> LynxONE digital-in -> Adobe Audition 2.0 -> CD Wave 1.95.1 -> FLAC Frontend 1.7.1
+
+MD5 FINGERPRINTS
+-----------------
+569c2c74b052ea26af9785e6b6e47c37 *nirvana1990-01-06t01.flac
+5f7eed686e2d0d6f87889b576b146427 *nirvana1990-01-06t02.flac
+e3c842ef291d4ae50d9b0750898541bc *nirvana1990-01-06t03.flac
+adf53ed13052b5d7b85d62ad45aeacc2 *nirvana1990-01-06t04.flac
+153c007ec183479859d1a69790edeb89 *nirvana1990-01-06t05.flac
+06a67e71b59a89a1737857c2135820c6 *nirvana1990-01-06t06.flac
+086031601bf267099f5a355fc1e07396 *nirvana1990-01-06t07.flac
+4800ba3c51317beb4491d5d4ad1b5b86 *nirvana1990-01-06t08.flac
+0b47f944c9ab088dbddfc237e3450052 *nirvana1990-01-06t09.flac
+f410a55bbea4e833b3bf02bfddd20e09 *nirvana1990-01-06t10.flac
+f0a64941e4dea3cdec3529c2d127f90a *nirvana1990-01-06t11.flac
+b32ce12b32698525e8ecf9656ff96835 *nirvana1990-01-06t12.flac
+7415cff54e85c8ee77f0f6ab85549506 *nirvana1990-01-06t13.flac
+cfae35be239f10afeeb50feba8805a36 *nirvana1990-01-06t14.flac
+c3df06672deda734b940a4f7a6f72eed *nirvana1990-01-06t15.flac
+
+
+Transferred by Mike Ziegler.
+PLEASE DO NOT ENCODE TO MP3 OR SELL!

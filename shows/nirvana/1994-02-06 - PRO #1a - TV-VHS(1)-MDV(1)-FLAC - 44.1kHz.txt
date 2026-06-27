@@ -1,0 +1,32 @@
+NIRVANA
+February 6, 1994
+Pavilhão do Grupo Dramático e Sportivo de Cascais
+Cascais, Portugal
+
+DISC #1/1 (2:26)
+-----------------
+01) Rape Me
+
+GENERATION
+-----------------
+TV -> VHS(1) -> MDV(1) -> AVI [PCM] -> WAV [48kHz] -> WAV [44.1kHz] -> FLAC [Level 8]
+
+SOURCE (PRO#1)
+-----------------
+soundboard -> unknown
+
+TRANSFER
+-----------------
+JVC GR-D725E -> IEEE 1394 -> Adobe Premiere Pro 1.5 -> Adobe Audition 1.5 -> FLAC Frontend 1.7.1
+
+NOTES
+-----------------
+- Shot by and broadcast on the French TV channel MCM.
+
+MD5 FINGERPRINTS
+-----------------
+83a4645507a1fa5ddcd54b857de752b0 *Nirvana_1994-02-06_PRO1_t01.flac
+
+
+Transferred by members of LNCU Germany.
+PLEASE DO NOT ENCODE TO MP3 OR SELL!

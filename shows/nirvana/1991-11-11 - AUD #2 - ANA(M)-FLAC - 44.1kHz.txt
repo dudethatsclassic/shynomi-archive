@@ -1,0 +1,68 @@
+NIRVANA
+November 11, 1991
+Markthalle
+Hamburg, Germany
+
+SOURCE (AUD #2):
+Sony PC-62 > Sony WM-D3
+
+TRANSFER:
+Nakamichi DR-8 > Echo Layla24 > Adobe Audition 3.0 > CD Wave 1.97 > FLAC frontend 1.7.1
+
+GENERATION:
+ANA(M) > WAV [48kHz] > WAV [44.1kHz] > FLAC [Level 8]
+
+LENGTH:
+68:58
+
+NOTES:
+- Has some slight choppiness and sound fluctuations in various songs.
+
+TRACKS:
+01. Aneurysm
+02. Drain You
+03. School
+04. Floyd The Barber
+05. Smells Like Teen Spirit (cut)
+06. About A Girl (cut)
+07. Polly
+08. Breed
+09. Sliver
+10. Lithium
+11. Love Buzz
+12. Come As You Are
+13. Been A Son
+14. Negative Creep
+15. On A Plain
+16. Blew
+17. Pennyroyal Tea
+18. Spank Thru
+19. Molly's Lips
+20. Territorial Pissings
+
+MD5 FINGERPRINTS:
+f7e7ae262238559d4b7412ce2bad5560 *Nirvana_1991-11-11_AUD2_t01.flac
+12785821c343a0f13f64ee8ed7aca3c8 *Nirvana_1991-11-11_AUD2_t02.flac
+a0489017e47a22934d3d56b794afc30e *Nirvana_1991-11-11_AUD2_t03.flac
+b7b10eaca3ab16edc54eb92c7bbc73b3 *Nirvana_1991-11-11_AUD2_t04.flac
+ba2ca87306dce14d7427c2761ace1de7 *Nirvana_1991-11-11_AUD2_t05.flac
+f2d2ac3757ce94a500a785de95a75da6 *Nirvana_1991-11-11_AUD2_t06.flac
+7d85003e4a108fa0db986becde14d911 *Nirvana_1991-11-11_AUD2_t07.flac
+1d7eb77031b65ca1e3f0753252b504fc *Nirvana_1991-11-11_AUD2_t08.flac
+9ee2ffab5b066249053d8d62c4962877 *Nirvana_1991-11-11_AUD2_t09.flac
+db2681db3235bf16bb3cb81a2105b15d *Nirvana_1991-11-11_AUD2_t10.flac
+8f0a498417746d5412d6cb884339c4f2 *Nirvana_1991-11-11_AUD2_t11.flac
+73c4ad87fb4793590c178bd9dd1b7ca1 *Nirvana_1991-11-11_AUD2_t12.flac
+b2ff4edd91d013affe7903ddb1a17fd8 *Nirvana_1991-11-11_AUD2_t13.flac
+13e3075b1139a159e8a6b234dccfab0e *Nirvana_1991-11-11_AUD2_t14.flac
+0c4ae9d87cc624a2324faab70db41dee *Nirvana_1991-11-11_AUD2_t15.flac
+0a325df9d884856926cc56db98c945d1 *Nirvana_1991-11-11_AUD2_t16.flac
+f3a00ea29cf067d23abf9bf23c805638 *Nirvana_1991-11-11_AUD2_t17.flac
+d0427cad0c80fcaae2afabddf45cf434 *Nirvana_1991-11-11_AUD2_t18.flac
+73faac146f1820e76a65aacc4aea3bff *Nirvana_1991-11-11_AUD2_t19.flac
+01ccf579e772a5e1be0b0b339e545664 *Nirvana_1991-11-11_AUD2_t20.flac
+
+TRANSFERRED BY:
+Kris Sproul
+
+PLEASE DO NOT SELL OR ENCODE TO MP3

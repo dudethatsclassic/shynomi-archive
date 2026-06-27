@@ -1,0 +1,62 @@
+NIRVANA
+November 8, 1989
+Rose Club
+Cologne, West Germany
+
+DISC #1/1 (63:29)
+-----------------
+01) intro
+02) School
+03) Scoff
+04) jam
+05) Love Buzz
+06) Floyd The Barber
+07) Dive
+08) Polly
+09) Big Cheese
+10) About A Girl
+11) Spank Thru
+12) Mr. Moustache
+13) Even In His Youth
+14) Breed
+15) Negative Creep
+16) Been A Son
+17) Blew
+18) Vendetagainst
+
+GENERATION
+-----------------
+ANA(M) -> WAV [48kHz] -> WAV [44.1kHz] -> FLAC [Level 8]
+
+SOURCE (AUD#1)
+-----------------
+Vivanco EM 160 -> Sony WM-D6C
+
+TRANSFER
+-----------------
+Nakamichi DR-8 -> Hosa RCA cable -> LynxONE analog-in -> Adobe Audition 2.0 -> CD Wave 1.94.8 -> FLAC Frontend 1.7.1
+
+MD5 FINGERPRINTS
+-----------------
+5a0a3c5255c858f23a17882e64472a91 *nirvana1989-11-08t01.flac
+ac2392efcc6b0252adbaa0ec54fd0f1e *nirvana1989-11-08t02.flac
+4c18d7872fea2c23172a5b305627966a *nirvana1989-11-08t03.flac
+f8fe9ef02a2f15ed9e980f610b372950 *nirvana1989-11-08t04.flac
+9763fb239d0726786aa428de9daab2c7 *nirvana1989-11-08t05.flac
+603b1edb6dad067d5036539665053f8c *nirvana1989-11-08t06.flac
+1590e324a2282ab2ddd5ff58345129b0 *nirvana1989-11-08t07.flac
+1dbf888f98e02be4a4e0b066bd497db9 *nirvana1989-11-08t08.flac
+271016578120badd430970315d0f583c *nirvana1989-11-08t09.flac
+db72ce37cbc9041e1fa8686bae0398d9 *nirvana1989-11-08t10.flac
+905cabc32a1d4d1f07242db832c3bbf8 *nirvana1989-11-08t11.flac
+3f57fb7095f2a2efa9997c5dc953476e *nirvana1989-11-08t12.flac
+2b8fa276d0e014d8c724e6b2f1d00561 *nirvana1989-11-08t13.flac
+cb3a0ea59410a9fc8ab80093f61b6410 *nirvana1989-11-08t14.flac
+195c95fa81eb129630eb6b9b6b868bac *nirvana1989-11-08t15.flac
+dae07dd9277b12ec51070e1d99554d65 *nirvana1989-11-08t16.flac
+e14b96390a8fa6d661f8d0927b384ceb *nirvana1989-11-08t17.flac
+d3f043f71dc53f306a23480b4252c548 *nirvana1989-11-08t18.flac
+
+
+Transferred by Mike Ziegler.
+PLEASE DO NOT ENCODE TO MP3 OR SELL!

@@ -1,0 +1,29 @@
+NIRVANA
+June 26, 1992
+Dyrskuepladsen (Roskilde Festival)
+Roskilde, Denmark
+
+SOURCE (PRO #1a):
+soundboard > unknown
+
+EXTRACTION:
+PHILIPS CDRW48A > Exact Audio Copy V1.0 beta 3 > Adobe Audition 1.5 > FLAC frontend 1.7.1
+
+GENERATION:
+TV > MINIDISK(1) > CDR(1) > WAV [44.1kHz] > FLAC [Level 8]
+
+LENGTH:
+4:51
+
+TRACKS:
+01. Interview
+02. Lithium
+
+MD5 FINGERPRINTS:
+afdb9fc47df916db11fea454fb6153aa *Nirvana_1992-06-26_PRO1a_t01.flac
+11d16c8e3acf12ba933208ecdc6e122c *Nirvana_1992-06-26_PRO1a_t02.flac
+
+EXTRACTED BY:
+Pieter Vermeulen
+
+PLEASE DO NOT SELL OR ENCODE TO MP3

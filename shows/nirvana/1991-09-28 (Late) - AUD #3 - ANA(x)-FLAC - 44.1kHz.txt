@@ -1,0 +1,57 @@
+NIRVANA
+September 28, 1991
+Marquee Club
+New York, NY
+
+SOURCE (AUD #3):
+unknown > unknown
+
+TRANSFER:
+Nakamichi DR-8 > Echo Layla24 > Adobe Audition 1.5 > CD Wave 1.94.8 > FLAC frontend 1.7.1
+
+GENERATION:
+ANA(x) > WAV [48kHz] > WAV [44.1kHz] > FLAC [Level 8]
+
+LENGTH:
+56:41
+
+TRACKS:
+01. Jesus Wants Me For A Sunbeam
+02. Aneurysm
+03. Drain You
+04. Smells Like Teen Spirit
+05. School
+06. Floyd The Barber
+07. Sliver
+08. Breed
+09. Polly
+10. About A Girl
+11. Rape Me
+12. Blew
+13. Been A Son
+14. Negative Creep
+15. Endless, Nameless
+16. Vendetagainst (cuts in)
+
+MD5 FINGERPRINTS:
+4499d8c4679a356358e51f5066ff4047 *Nirvana_1991-09-28_late_AUD3_t01.flac
+09beb79e8445cfdc8b32f6078e52d02d *Nirvana_1991-09-28_late_AUD3_t02.flac
+55e1ca0221c1898725e6f4078db74608 *Nirvana_1991-09-28_late_AUD3_t03.flac
+cb24320c16654eb7ed0236836c7aecab *Nirvana_1991-09-28_late_AUD3_t04.flac
+d69f8a22669968dcb8e65da51d1864aa *Nirvana_1991-09-28_late_AUD3_t05.flac
+05303afbc50440b53358fe3dca3b7674 *Nirvana_1991-09-28_late_AUD3_t06.flac
+0897cdd5d681b9851a0d763231528c8d *Nirvana_1991-09-28_late_AUD3_t07.flac
+427704567fbac88cb98b02a42f759683 *Nirvana_1991-09-28_late_AUD3_t08.flac
+33a47693336819e2bb51808202f1fbf9 *Nirvana_1991-09-28_late_AUD3_t09.flac
+de0262cf6e58749c580cf6266df52698 *Nirvana_1991-09-28_late_AUD3_t10.flac
+8a77459d3e41f11eb07070f4785c5dea *Nirvana_1991-09-28_late_AUD3_t11.flac
+6732da132d2029bee1ee2e4e40fcfc4a *Nirvana_1991-09-28_late_AUD3_t12.flac
+1719a6961373ff1fbf5ebfe76eb5c276 *Nirvana_1991-09-28_late_AUD3_t13.flac
+1eab07c8b3635db616971944c845e0c5 *Nirvana_1991-09-28_late_AUD3_t14.flac
+5e825d820e28c19f25d0c06abc81a5c6 *Nirvana_1991-09-28_late_AUD3_t15.flac
+7339c7740e06d1805814d0bc2b4b4485 *Nirvana_1991-09-28_late_AUD3_t16.flac
+
+TRANSFERRED BY:
+Kris Sproul
+
+PLEASE DO NOT SELL OR ENCODE TO MP3

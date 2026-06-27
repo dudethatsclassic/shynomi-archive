@@ -1,0 +1,43 @@
+NIRVANA
+February 1, 1992
+The Palace
+Melbourne, Australia
+
+SOURCE (SBD #1b):
+soundboard > Otari MTR-90
+
+TRANSFER:
+Sony MZ-NH1 > USB > SonicStage 2.3 > Sony WAV Conversion Tool > Adobe Audition 2.0 > CD Wave 1.94.8 > FLAC frontend 1.7.1
+
+GENERATION:
+FM > HIMD(1) [PCM] > OMA [PCM] > WAV [44.1kHz] > FLAC [Level 8]
+
+LENGTH:
+29:21
+
+TRACKS:
+01. About A Girl
+02. Come As You Are
+03. Lithium
+04. Breed
+05. Polly
+06. Lounge Act
+07. Negative Creep
+08. Love Buzz
+09. Blew
+
+MD5 FINGERPRINTS:
+344334abe1a7079d7acb2e82fa92acb8 *Nirvana_1992-02-01_SBD1b_t01.flac
+e3368aaac0b102e723f4972aca55fc4e *Nirvana_1992-02-01_SBD1b_t02.flac
+34077b068bfbc119a81fa09f5820d925 *Nirvana_1992-02-01_SBD1b_t03.flac
+e7d4d44110f25e94f18c769bdb820086 *Nirvana_1992-02-01_SBD1b_t04.flac
+8ec53cd9c2f68b3c18182b39f94b47b7 *Nirvana_1992-02-01_SBD1b_t05.flac
+3314773c658e77689f81a1c484f01979 *Nirvana_1992-02-01_SBD1b_t06.flac
+cb1af30bcfd50c43feb29140dda62ecc *Nirvana_1992-02-01_SBD1b_t07.flac
+1ba7743ef9d9e243587e8f8a5f02a733 *Nirvana_1992-02-01_SBD1b_t08.flac
+c8f1e93ae8f3985a3e391b45c6d39725 *Nirvana_1992-02-01_SBD1b_t09.flac
+
+TRANSFERRED BY:
+Diego Javier
+
+PLEASE DO NOT SELL OR ENCODE TO MP3

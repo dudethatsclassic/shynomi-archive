@@ -1,0 +1,32 @@
+KURT COBAIN
+September 25, 1990
+KAOS Olympia Community Radio (Boy Meets Girl)
+Olympia, WA
+
+DISC #1/1 (04:36)
+-----------------
+01) Opinion
+02) Lithium (cuts out)
+03) Been A Son
+
+SOURCE (SBD #1b)
+-----------------
+Soundboard -> Unknown
+
+GENERATION
+-----------------
+Official CD "With The Lights Out, Disc #2" -> WAV [44.1kHz] -> FLAC [Level 8]
+
+EXTRACTION
+-----------------
+Lite-On iHBS-112 -> Exact Audio Copy v1.00 beta 3 -> FLAC Frontend 1.7.1
+
+MD5 FINGERPRINTS
+-----------------
+1993925b8afa524f2857f358b85f46f9 *Nirvana-Related_1990-09-25_sbd1b_t01.flac
+33a75156999d4b42254eaa227caa2369 *Nirvana-Related_1990-09-25_sbd1b_t02.flac
+4090a780bc2b9fb1087d1572f5de79b1 *Nirvana-Related_1990-09-25_sbd1b_t03.flac
+
+Extracted by PL.
+PLEASE DO NOT ENCODE TO MP3 OR SELL!
+NO TRADE

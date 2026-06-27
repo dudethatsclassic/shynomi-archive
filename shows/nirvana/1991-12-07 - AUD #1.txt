@@ -1,0 +1,53 @@
+NIRVANA
+December 7, 1991
+Salle Omnisports (Trans Musicales) 
+Rennes, FR 
+
+DISC #1/1 (46:35)
+-----------------
+01) Baba O'Riley 
+02) Jesus Wants Me For A Sunbeam 
+03) Drain You 
+04) Aneurysm 
+05) School 
+06) Smells Like Teen Spirit 
+07) About A Girl 
+08) Polly 
+09) Sliver 
+10) Breed 
+11) Been A Son 
+12) Negative Creep 
+13) On A Plain 
+14) Blew 
+
+GENERATION
+-----------------
+ANA(M) -> MD(1) -> CDR(3) -> WAV [44.1kHz] -> SHN -> WAV [44.1kHz] -> FLAC [Level 8]
+
+SOURCE (AUD #1)
+-----------------
+Sony PC-62 -> Sony WM-D3
+
+EXTRACTION
+-----------------
+Unknown -> mkwACT 1.1 -> FLAC frontend 1.7.1
+
+MD5 FINGERPRINTS
+-----------------
+c9408a78371f62e1e53bac0c57387864 *01 Baba O' Riley.flac
+06b54feee1b742f69f048b996a8d98d6 *02 Jesus Wants Me For A Sunbeam.flac
+9c4d213e9f0f9b68c0b8711f522a5f70 *03 Drain You.flac
+270bb8be09cf175af5f8d9c14b6f64ff *04 Aneurysm.flac
+05461af654a161a21fe28adb32b0b37e *05 School.flac
+bbcbe1f81b8f382392bc41f12388a786 *06 Smells Like Teen Spirit.flac
+8a28c236c28164196da3790410653276 *07 About A Girl.flac
+9766cf056110afe40b642db99ffd03cc *08 Polly.flac
+a34945bca954ba2b1da44bdb7a1e062f *09 Sliver.flac
+c18aef343f7a94ec2dd3bc15016baa11 *10 Breed.flac
+438f4ab3ad0525f9f50ae3b16a9fb60a *11 Been A Son.flac
+579ee2267ae737a78fc3e731650dde5e *12 Negative Creep.flac
+838e961b886d584dd698aeb92c681c84 *13 On A Plain.flac
+ee4aea4fd466a30a5848a6b582e9e3d5 *14 Blew.flac
+
+
+PLEASE DO NOT ENCODE TO MP3 OR SELL!

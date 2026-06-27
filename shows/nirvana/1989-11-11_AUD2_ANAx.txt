@@ -1,0 +1,52 @@
+NIRVANA
+November 11, 1989
+Ecstasy
+Berlin, West Germany
+
+SOURCE (AUD #2):
+unknown > unknown
+
+TRANSFER:
+Nakamichi DR-3 > Schulz ADPS 1 > Fireface UC > Adobe Audition 3.0 > CD Wave 1.98 > Trader's Little Helper 2.4.1
+
+GENERATION:
+ANA(x) > WAV [24bit/48kHz] > WAV [44.1kHz] > FLAC [Level 8]
+
+LENGTH:
+42:13
+
+NOTES:
+- Has some cuts between songs.
+
+TRACKS:
+01. intro
+02. School
+03. Scoff
+04. Love Buzz
+05. Floyd The Barber
+06. Dive
+07. Polly
+08. About A Girl
+09. Big Cheese
+10. Mr. Moustache
+11. Spank Thru
+12. Breed (part of)
+
+MD5 FINGERPRINTS:
+c5e6f1400d97509e7821956601867a99 *Nirvana_1989-11-11_AUD2_t01.flac
+63410e1d4edbe100a3106816cfd417a6 *Nirvana_1989-11-11_AUD2_t02.flac
+6feb0d313d80f3ce27868d892de9b8bc *Nirvana_1989-11-11_AUD2_t03.flac
+e593470d42dc526597826209ac60ff89 *Nirvana_1989-11-11_AUD2_t04.flac
+f1a3ecb998080b7ff1fe762b4b7c6a95 *Nirvana_1989-11-11_AUD2_t05.flac
+1f6500e1f0082586e35dfcc039232647 *Nirvana_1989-11-11_AUD2_t06.flac
+c8ee940811328bfc519cfe90b028a725 *Nirvana_1989-11-11_AUD2_t07.flac
+7cc5825a8348c1b676753c4fd869a379 *Nirvana_1989-11-11_AUD2_t08.flac
+0048b8b02d3fb5c57136b541cea6ecdd *Nirvana_1989-11-11_AUD2_t09.flac
+e7a794360ab28d6520f4dfade6e451d4 *Nirvana_1989-11-11_AUD2_t10.flac
+aa44ffe6b6e1d909f8f4dc88ce9c09c4 *Nirvana_1989-11-11_AUD2_t11.flac
+fb0fb83bf78508bb664bfd37dac83f7a *Nirvana_1989-11-11_AUD2_t12.flac
+
+TRANSFERRED BY:
+Daniel Bär
+
+PLEASE DO NOT SELL OR ENCODE TO MP3

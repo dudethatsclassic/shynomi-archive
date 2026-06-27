@@ -1,0 +1,59 @@
+NIRVANA
+November 2, 1989
+Vera
+Groningen, The Netherlands
+
+SOURCE (AMT #1a):
+unknown > unknown
+
+TRANSFER:
+Panasonic NV-GS120 > IEEE 1394 > Adobe Premiere Pro 7.0 > Adobe Encore DVD 1.5
+
+GENERATION:
+VHS(1) > audience > MiniDV(1) > AVI [DV25] > M2V/WAV [7Mbps CBR/48kHz PCM] > DVDR(0)
+
+LENGTH:
+55:57
+
+NOTES:
+- Has errors during 'About A Girl' and is missing most of it.
+- Has a small cut right before 'Blew'.
+- Has a drop out in 'Blew'.
+- Has a drop out in 'Token Eastern Song'.
+- Missing about 1 min of what was taped of 'Token Eastern Song'.
+
+CHAPTERS:
+01. intro
+02. School
+03. Scoff
+04. Love Buzz
+05. Floyd The Barber
+06. Dive
+07. Polly
+08. Big cheese
+09. Spank Thru
+10. About A Girl (cut)
+11. Mr Moustache
+12. Breed
+13. Stain
+14. Been A Son
+15. Negative Creep
+16. Blew
+17. Token Eastern Song (cut)
+
+MD5 FINGERPRINTS:
+cabdad90e2caf521e619c38f46e560ba *VIDEO_TS/VIDEO_TS.BUP
+cabdad90e2caf521e619c38f46e560ba *VIDEO_TS/VIDEO_TS.IFO
+001f62aafd5446b80a819e26c0c302e7 *VIDEO_TS/VIDEO_TS.VOB
+8bdfa2ef927216f94e98fd03d15bd0ba *VIDEO_TS/VTS_01_0.BUP
+8bdfa2ef927216f94e98fd03d15bd0ba *VIDEO_TS/VTS_01_0.IFO
+2b7d8c75999786efc563ba74c5427503 *VIDEO_TS/VTS_01_0.VOB
+5003b0e68e4d2b2d5e56f04e91c4dcc2 *VIDEO_TS/VTS_01_1.VOB
+e985fd683f8047a6ee3db857026d7ee7 *VIDEO_TS/VTS_01_2.VOB
+f21f8c833cd5be938f23da9c8694a1fa *VIDEO_TS/VTS_01_3.VOB
+ff3c7f68cf783f7efb14a23bbd1ed8d9 *VIDEO_TS/VTS_01_4.VOB
+
+TRANSFERRED BY:
+Andreas Magnusson
+
+DO NOT SELL OR ENCODE TO ANY OTHER FORMAT!

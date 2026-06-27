@@ -1,0 +1,48 @@
+NIRVANA
+December 2, 1991
+The Mayfair
+Newcastle upon Tyne, United Kingdom
+
+SOURCE (AMT #1):
+unknown > unknown
+
+TRANSFER:
+JVC HR-S9500 > Sony DCR-TRV320E > IEEE 1394 > Adobe Premiere Pro 2.0 > TMPGEnc Plus 2.5 > Adobe Encore DVD 2.0
+
+GENERATION:
+VHS(1) [PAL] > AVI [DV25] > M2V/WAV [8.0Mbps CBR/48kHz PCM] > DVDR(0)
+
+LENGTH:
+53:00
+
+CHAPTERS:
+02. Jesus Wants Me For A Sunbeam
+03. Drain You
+04. Lithium
+05. Floyd The Barber
+06. Smells Like Teen Spirit
+07. About A Girl
+08. Polly
+09. Breed
+10. School
+11. Sliver
+12. Been A Son
+13. Negative Creep
+14. On A Plain
+15. Blew
+16. jam
+
+MD5 FINGERPRINTS:
+9fb38881faad71727c27a0e2fc2cb032 *VIDEO_TS/VIDEO_TS.BUP
+9fb38881faad71727c27a0e2fc2cb032 *VIDEO_TS/VIDEO_TS.IFO
+f6622c67e2c24cb9ee2ed5e5cc306201 *VIDEO_TS/VIDEO_TS.VOB
+723378c9ee1b0c1703031e6a12749ea2 *VIDEO_TS/VTS_01_0.BUP
+723378c9ee1b0c1703031e6a12749ea2 *VIDEO_TS/VTS_01_0.IFO
+3b0b321bd713493867ba56c8216564fe *VIDEO_TS/VTS_01_0.VOB
+97436c7590f85e70e7f38074f2153d2b *VIDEO_TS/VTS_01_1.VOB
+ed5dadb790fa788f686b867e2515c4a2 *VIDEO_TS/VTS_01_2.VOB
+c07d7fb4c669aaa2b480d644bb7daf07 *VIDEO_TS/VTS_01_3.VOB
+fb05f366de54591378ee91871e3ceea6 *VIDEO_TS/VTS_01_4.VOB
+
+TRANSFERRED BY:
+Mike Ziegler

@@ -1,0 +1,85 @@
+NIRVANA
+August 30, 1992
+Richfield Avenue (Reading Festival)
+Reading, United Kingdom
+
+SOURCE (AMT #1):
+built-in > Sony CCD-F55E
+
+TRANSFER:
+Sony DCR-TRV320E > LynxONE analog-in > Adobe Audition 3.0 > CD Wave 1.97 > FLAC frontend 1.7.1
+
+GENERATION:
+8MM(M) > WAV [48kHz] > WAV [44.1kHz] > FLAC [Level 8]
+
+LENGTH:
+95:03
+
+TRACKS (DISC 1):
+01. intro
+02. Breed
+03. Drain You
+04. Aneurysm
+05. School
+06. Sliver
+07. In Bloom
+08. Come As You Are
+09. Lithium
+10. About A Girl
+11. tourette's
+12. Polly
+13. Lounge Act
+14. More Than A Feeling (part of)
+15. Smells Like Teen Spirit
+
+TRACKS (DISC 2):
+01. On A Plain
+02. Negative Creep
+03. Been A Son
+04. All Apologies
+05. Blew
+06. Dumb
+07. Stay Away
+08. Spank Thru
+09. Love Buzz
+10. Smoke On The Water (jam)
+11. The Money Will Roll Right In
+12. D-7
+13. Territorial Pissings
+14. The Star-Spangled Banner (part of)
+
+MD5 FINGERPRINTS:
+30bbbd4e54c2e2f9599fe98c4f520954 *Nirvana_1992-08-30_AMT1_d1t01.flac
+cc9f040e96cb9d0890ec31b5a4786c1f *Nirvana_1992-08-30_AMT1_d1t02.flac
+32e5880f8f98e0d9849ad105bc313d5b *Nirvana_1992-08-30_AMT1_d1t03.flac
+8e56c19c3a915275da1566e0273f0949 *Nirvana_1992-08-30_AMT1_d1t04.flac
+ab844db2a1dfa91555cd667f7b9d1cdc *Nirvana_1992-08-30_AMT1_d1t05.flac
+5ad588ed5d5fa96b0da5dc0730f29acd *Nirvana_1992-08-30_AMT1_d1t06.flac
+7989d488f01faec87f09d8b3b1a5ca3f *Nirvana_1992-08-30_AMT1_d1t07.flac
+d1f5925a902481acc3756f7f750f80ab *Nirvana_1992-08-30_AMT1_d1t08.flac
+451ce4c11ddf43a7c97933179efa0609 *Nirvana_1992-08-30_AMT1_d1t09.flac
+556ebcfc6cd413768e1424b1f6af748a *Nirvana_1992-08-30_AMT1_d1t10.flac
+c537c57e99acdc871b4b5ebdade14b23 *Nirvana_1992-08-30_AMT1_d1t11.flac
+56ad441cd55bbba7f82e602d74e6c81c *Nirvana_1992-08-30_AMT1_d1t12.flac
+3ed59abbe90c54580cbed1a11dc8f667 *Nirvana_1992-08-30_AMT1_d1t13.flac
+63a374adc09ce64b24905bca2401ca00 *Nirvana_1992-08-30_AMT1_d1t14.flac
+b566a401d24b76c8a8d4a623c76533f3 *Nirvana_1992-08-30_AMT1_d1t15.flac
+a3da9d9d4b3db9bf4ad90106daa92a08 *Nirvana_1992-08-30_AMT1_d2t01.flac
+5c7bd3fe5e712c529329785a4af1660e *Nirvana_1992-08-30_AMT1_d2t02.flac
+1bf70bacf212a2206c41ce4af7739456 *Nirvana_1992-08-30_AMT1_d2t03.flac
+b66197725f49c7bf66923a2e9269d007 *Nirvana_1992-08-30_AMT1_d2t04.flac
+db8146e8ead85abe80aeb66055239f15 *Nirvana_1992-08-30_AMT1_d2t05.flac
+7c779fffc82af1b46af603be86af8ce6 *Nirvana_1992-08-30_AMT1_d2t06.flac
+63482d0629639b6a3d9b4c96fd5b05b1 *Nirvana_1992-08-30_AMT1_d2t07.flac
+94ae28adb0137dc3d68a3eff3d51c8d5 *Nirvana_1992-08-30_AMT1_d2t08.flac
+c366fd422446e11b97f79f1598e2571f *Nirvana_1992-08-30_AMT1_d2t09.flac
+020101eee0326cba3537a5428a86a378 *Nirvana_1992-08-30_AMT1_d2t10.flac
+ec14ce0475ca599fdcf99e6d626c1caa *Nirvana_1992-08-30_AMT1_d2t11.flac
+51a479ccadcfdd5fe44746017f7636c4 *Nirvana_1992-08-30_AMT1_d2t12.flac
+4efb949f931bf292f4fd5625dd44092c *Nirvana_1992-08-30_AMT1_d2t13.flac
+042105899d9d373ecd2c2a7f51ace54a *Nirvana_1992-08-30_AMT1_d2t14.flac
+
+TRANSFERRED BY:
+Mike Ziegler
+
+PLEASE DO NOT SELL OR ENCODE TO MP3

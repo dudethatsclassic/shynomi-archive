@@ -1,0 +1,45 @@
+NIRVANA
+January 16th, 1993
+Estádio Cícero Pompeu de Toledo (Hollywood Rock Festival)
+São Paulo, Brasil
+
+SOURCE (PRO #3b):
+built-in > unknown (Betacam)
+
+VIDEO TRANSFER:
+unknown > Avisynth+ r2544 > x264 0.158.2984 3759fcb > MKVToolNixGUI 30.1.0
+
+AUDIO TRANSFER:
+unknown > Adobe Audition CC 2017 > flac.exe & Apple AAC encoder q109
+
+GENERATION:
+MASTER > BETA(1) > U-MATIC(2) > MOV [DVC/48khz/16-Bit/PCM] > MKV [480p/3Mbps/H.264 | AAC/256kbps/Mono | FLAC/Mono]
+
+GENERATION AUDIO TRACK 3:
+MASTER > BETA(1) > U-MATIC(2) > BETA(1) > MOV [DVC-PRO 50/48khz/16-Bit/PCM] > FLAC/Mono
+
+LENGTH:
+11:12
+
+TRACKS:
+01. pre-show ambience
+02. School
+03. Drain You
+04. Breed
+
+NOTES: 
+Because of the distance from the band to the camera, the audio appears a bit out of sync. A custom audio sync of -200ms will correct this.
+It's uncertain if the track 3 is a true stereo or a double mono audio.
+
+MD5 FINGERPRINTS:
+d69d30018fda4a1e2970bea68b248925 *Nirvana_011693_PRO#3b.mkv
+
+TRANSFERRED BY:
+Anonymous
+
+ENCODED BY:
+Members of LiveNirvana.com
+
+**PLEASE DO NOT ENCODE TO LOSSY FORMATS OR SELL!**
+BR Team!
+ 

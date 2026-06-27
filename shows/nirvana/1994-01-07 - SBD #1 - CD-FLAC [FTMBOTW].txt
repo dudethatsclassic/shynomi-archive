@@ -1,0 +1,28 @@
+NIRVANA
+January 7, 1994
+Seattle Center Arena
+Seattle, WA
+
+DISC #1/1 (03:47)
+-----------------
+01) Milk It
+
+SOURCE (SBD #1)
+-----------------
+Soundboard -> unknown
+
+GENERATION
+-----------------
+Official CD "From The Muddy Banks Of The Wishkah" -> WAV [44.1kHz] -> FLAC [Level 8]
+
+EXTRACTION
+-----------------
+Lite-On iHBS-112 -> Exact Audio Copy v1.00 beta 3 -> FLAC Frontend 1.7.1
+
+MD5 FINGERPRINTS
+-----------------
+99cb920e4435097571166d85204606d0 *Nirvana_1994-01-07_SBD1_CD_t01.flac
+
+Extracted by PL.
+PLEASE DO NOT ENCODE TO MP3 OR SELL!
+NO TRADE

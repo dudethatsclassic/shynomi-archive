@@ -1,0 +1,52 @@
+NIRVANA
+August 24, 1991
+Tanzbrunnen (Monsters of Spex)
+Cologne, Germany
+
+SOURCE (AMT #1):
+unknown > unknown
+
+RIP:
+unknown
+
+EXTRACTION:
+VobEdit v0.6 > Adobe Audition 2.0 > CD Wave 1.95.1 > FLAC frontend 1.7.1
+
+GENERATION:
+HI8(M) > DVDR(2) [PCM] > VOB [PCM] > WAV [48kHz] > WAV [44.1kHz] > FLAC [Level 8]
+
+LENGTH:
+28:34
+
+NOTES:
+- Has a dropout in "Sliver."
+
+TRACKS:
+01. Polly (cuts in)
+02. Drain You
+03. Floyd The Barber
+04. Sliver
+05. School
+06. Breed
+07. Smells Like Teen Spirit
+08. Territorial Pissings
+09. Negative Creep
+
+MD5 FINGERPRINTS:
+df5c8226789d4fc8128bfdd24876bdf3 *Nirvana_1991-08-24_AMT1_t01.flac
+1c3be1c1d7a4b813bad0980de35e93c0 *Nirvana_1991-08-24_AMT1_t02.flac
+7f675e6d66a2e79f772cbdfae5c804cc *Nirvana_1991-08-24_AMT1_t03.flac
+f2e94fa3da04e3e770e32faacc751501 *Nirvana_1991-08-24_AMT1_t04.flac
+c6688010acc99c7974563ebe10bc73b8 *Nirvana_1991-08-24_AMT1_t05.flac
+ebdea96f6f8bd612788cf782014a514f *Nirvana_1991-08-24_AMT1_t06.flac
+bf1d6f9d536667b08319b60ce56e9267 *Nirvana_1991-08-24_AMT1_t07.flac
+2fd53429416d8eb30587a5279f5052a4 *Nirvana_1991-08-24_AMT1_t08.flac
+5310fb3eb7c0a8f04d4d44fd203d319a *Nirvana_1991-08-24_AMT1_t09.flac
+
+RIPPED BY:
+unknown
+
+EXTRACTED BY:
+Kris Sproul
+
+PLEASE DO NOT SELL OR ENCODE TO MP3

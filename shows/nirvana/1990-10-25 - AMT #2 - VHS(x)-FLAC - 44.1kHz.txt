@@ -1,0 +1,32 @@
+NIRVANA
+October 25, 1990
+Students' Union, Leeds Polytechnic
+Leeds, United Kingdom
+
+DISC #1/1 (5:41)
+-----------------
+01) Blew (cut)
+02) Been A Son
+03) Negative Creep (cut)
+
+GENERATION
+-----------------
+VHS(x) -> WAV [48kHz] -> WAV [44.1kHz] -> FLAC [Level 8]
+
+SOURCE (AMT#2)
+-----------------
+unknown -> unknown
+
+TRANSFER
+-----------------
+JVC HR-S9911U -> Hosa RCA cable -> LynxONE analog-in -> Adobe Audition 2.0 -> CD Wave 1.94.8 -> FLAC Frontend 1.7.1
+
+MD5 FINGERPRINTS
+-----------------
+fb40ac2887205fa82d5c92b8bff50b57 *nirvana1990-10-25t01.flac
+f833aab8644bff534bc9253f23b78f70 *nirvana1990-10-25t02.flac
+384079cc75171b56648378c896ab34f3 *nirvana1990-10-25t03.flac
+
+
+Transferred by Mike Ziegler.
+PLEASE DO NOT ENCODE TO MP3 OR SELL!

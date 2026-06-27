@@ -1,0 +1,62 @@
+NIRVANA
+February 14, 1990
+Kennel Club
+San Francisco, CA
+
+DISC #1/1 (47:22)
+-----------------
+01) intro
+02) Floyd The Barber
+03) Love Buzz
+04) jam
+05) Dive
+06) Sappy
+07) Spank Thru
+08) About A Girl
+09) Scoff
+10) Polly
+11) Imodium
+12) Molly's Lips
+13) Been A Son
+14) Stain
+15) Negative Creep
+16) Blew (cut)
+
+GENERATION
+-----------------
+VHS(2) -> DAT(1) -> WAV [32kHz] -> WAV [44.1kHz] -> FLAC [Level 8]
+
+SOURCE (AMT #1b)
+-----------------
+soundboard -> unknown
+
+TRANSFER
+-----------------
+Tascam DA-20 MKII -> Apogee S/PDIF cable -> LynxONE digital-in -> Adobe Audition 1.5 -> CD Wave 1.93 beta -> FLAC Frontend 1.7.1
+
+NOTES
+-----------------
+Left channel fades in and out at a few points during the recording. 
+
+MD5 FINGERPRINTS
+-----------------
+5ed5844c2aa05de8f138d8e3af4ebab2 *nirvana1990-02-14t01.flac
+0a62c51397740b175296fd4d4aa54b46 *nirvana1990-02-14t02.flac
+7ba944510db1239a81356977eb5f2ddf *nirvana1990-02-14t03.flac
+9d925a95ca11e2aed7e6cf7634aba8cc *nirvana1990-02-14t04.flac
+32a27369187c7f1c47287d1cbf42c843 *nirvana1990-02-14t05.flac
+ce438ddb388dda0749e94c3c79f542b4 *nirvana1990-02-14t06.flac
+b13b751956f109baee470652d1c94664 *nirvana1990-02-14t07.flac
+de124950b400338f510cd1a830985b94 *nirvana1990-02-14t08.flac
+918d6eff8b51c3e7fd01b9eb5b613392 *nirvana1990-02-14t09.flac
+405763d16ceae85f1a51ca6c98d5f1a7 *nirvana1990-02-14t10.flac
+701d2c2153d4724eecb43c76191aeef5 *nirvana1990-02-14t11.flac
+8e25a9875dccc8dfecd39ebf321f6f30 *nirvana1990-02-14t12.flac
+6b6c833f161c1e5f43b23d3f5537f1b8 *nirvana1990-02-14t13.flac
+ec916039769a695dad7ec9c1ca957520 *nirvana1990-02-14t14.flac
+ff18209df310ee317ed7e73af9e2f5b4 *nirvana1990-02-14t15.flac
+8abce89870ef71ce1fd361a1d488460e *nirvana1990-02-14t16.flac
+
+
+Transferred by Mike Ziegler.
+PLEASE DO NOT ENCODE TO MP3 OR SELL!

@@ -1,0 +1,57 @@
+NIRVANA
+May 6, 1990
+The Masquerade
+Atlanta, GA
+
+SOURCE (AMT #2):
+unknown > unknown
+
+TRANSFER:
+JVC HR-S9911U > Echo Layla24 > Adobe Audition 2.0 > CD Wave 1.95.1 > FLAC frontend 1.7.1
+
+GENERATION:
+VHS(1) > WAV [48kHz] > WAV [44.1kHz] > FLAC [Level 8]
+
+LENGTH:
+54:18
+
+TRACKS:
+01. Love Buzz (cuts in)
+02. Floyd The Barber
+03. Scoff
+04. Dive
+05. School
+06. Spank Thru
+07. Breed
+08. About A Girl
+09. Big Cheese
+10. Molly's Lips
+11. Polly
+12. Here She Comes Now
+13. Been A Son
+14. Stain
+15. Negative Creep
+16. Blew
+
+MD5 FINGERPRINTS:
+07493894ae62797568732748f7d4a353 *Nirvana_1990-05-06_AMT2_t01.flac
+538879b1497c6271ab2f84a6c958ee8b *Nirvana_1990-05-06_AMT2_t02.flac
+a64b55d1d863efbf67895e29dc001415 *Nirvana_1990-05-06_AMT2_t03.flac
+053b1b1e3f68b002166dd68d92bc0ddf *Nirvana_1990-05-06_AMT2_t04.flac
+f40433c0b9ab158cfabaf6f1261980a1 *Nirvana_1990-05-06_AMT2_t05.flac
+9117982c3297c1d2fe822cf15feaa43a *Nirvana_1990-05-06_AMT2_t06.flac
+fbea96dbbd26eafcdc6df7edb93dfd4e *Nirvana_1990-05-06_AMT2_t07.flac
+bfca59c763b953b741b4309100b2e1ca *Nirvana_1990-05-06_AMT2_t08.flac
+0c990e98366174d3d5b89b22fb119668 *Nirvana_1990-05-06_AMT2_t09.flac
+a761147e6b0bb9a91dbed9bc67b28e60 *Nirvana_1990-05-06_AMT2_t10.flac
+c4b541fd3798d3b60c59f29423e3e30b *Nirvana_1990-05-06_AMT2_t11.flac
+1a3a2b925610b449630dea1bcb3d4f96 *Nirvana_1990-05-06_AMT2_t12.flac
+c65f43221de0c1e87e3c6827dee07830 *Nirvana_1990-05-06_AMT2_t13.flac
+e20fec89d7a2c71bad7f2ca3b0aa8cc2 *Nirvana_1990-05-06_AMT2_t14.flac
+1861cc8fccefd99125a2db8c96e03113 *Nirvana_1990-05-06_AMT2_t15.flac
+a38040bc13babb8c3eb0a87eca4f3602 *Nirvana_1990-05-06_AMT2_t16.flac
+
+TRANSFERRED BY:
+Kris Sproul
+
+PLEASE DO NOT SELL OR ENCODE TO MP3

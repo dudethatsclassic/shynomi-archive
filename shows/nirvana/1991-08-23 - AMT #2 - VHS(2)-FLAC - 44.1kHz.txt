@@ -1,0 +1,52 @@
+NIRVANA
+August 23, 1991
+Richfield Avenue (Reading Festival)
+Reading, United Kingdom
+
+DISC #1/1 (38:40)
+-----------------
+01) School
+02) Floyd The Barber
+03) Drain You
+04) Smells Like Teen Spirit
+05) Come As You Are (cut)
+06) Breed
+07) Sliver
+08) Molly's Lips
+09) Love Buzz
+10) Negative Creep
+11) The End (jam)
+12) Blew
+13) Endless, Nameless
+
+GENERATION
+-----------------
+VHS(2) -> WAV [48kHz] -> WAV [44.1kHz] -> FLAC [Level 8]
+
+SOURCE (AMT#2)
+-----------------
+unknown -> unknown
+
+TRANSFER
+-----------------
+JVC HR-S9911U -> Hosa RCA cable -> LynxONE analog-in -> Adobe Audition 2.0 -> CD Wave 1.94.8 -> FLAC Frontend 1.7.1
+
+MD5 FINGERPRINTS
+-----------------
+2ac7a5bac6ab82542baafc45176de1e9 *nirvana1991-08-23t01.flac
+189f66e1c8494c2011d006efea2be45f *nirvana1991-08-23t02.flac
+679acd98c7e08a498d7a082d4de93192 *nirvana1991-08-23t03.flac
+90a9aa08be2926a13b6673784aa5a1c7 *nirvana1991-08-23t04.flac
+f4cd212c35a5447c91b66a7b39505029 *nirvana1991-08-23t05.flac
+9d265777cf8e9e4e67b6fa7b5896b822 *nirvana1991-08-23t06.flac
+afbc4b299f2fb335187363b1a40eaf8c *nirvana1991-08-23t07.flac
+bcdb5f90be4ba90ac3ef900ff984c854 *nirvana1991-08-23t08.flac
+fd78e214eb82df1dd370bcba499dcaa1 *nirvana1991-08-23t09.flac
+67d618b9d5e8879e25bc3b035fc56f65 *nirvana1991-08-23t10.flac
+e0eb574f0e6bc4af844f8420fb2800e6 *nirvana1991-08-23t11.flac
+1fbe04ffb72e169cbfcd35e6b4a34f7f *nirvana1991-08-23t12.flac
+30a33537e3274c053037241979335c12 *nirvana1991-08-23t13.flac
+
+
+Transferred by Mike Ziegler.
+PLEASE DO NOT ENCODE TO MP3 OR SELL!

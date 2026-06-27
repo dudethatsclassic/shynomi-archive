@@ -1,0 +1,74 @@
+NIRVANA
+November 25, 1990
+Off Ramp Cafe
+Seattle, WA
+(JWB REMASTER)
+------------------------
+
+DISC ONE (50:28)
+-----------------------
+01 (Intro)
+02 Aneurysm 
+03 Oh, The Guilt 
+04 Mr. Moustache 
+05 Stay Away 
+06 Breed 
+07 Floyd The Barber 
+08 About A Girl 
+09 Verse Chorus Verse 
+10 In Bloom 
+11 Swap Meet 
+12 Been A Son 
+13 Stain 
+14 Blew 
+15 Sappy 
+
+DISC TWO (51:07)
+-----------------------
+01 Lithium 
+02 School 
+03 D-7 
+04 Here She Comes Now 
+05 Sliver 
+06 Dive [aborted]
+07 (Encore Break) 
+08 Dumb 
+09 Polly  
+10 Something In The Way 
+11 Negative Creep
+12 Love Buzz 
+13 Where Did You Sleep Last Night [tease]
+14 Spank Thru  
+15 Molly's Lips 
+16 Son Of A Gun  
+17 Sifting [cut] 
+
+SOURCE: 
+Main Set: Stereo Soundboard/Audience Mix Cassette
+Encore: Stereo Audience Cassette
+
+QUALITY: 9.0
+TOTAL TIME: 101:35
+
+Original Lineage:
+Main Set: ANA1->WAV (SBD #1)
+Encore: ANAM->MP3->WAV (AUD #2)
+
+Lineage for this torrent: 
+WAV->WAVMERGE->COOLEDIT->CD WAVE->FLAC (Level 8)
+
+REMASTERING NOTES:
+Sources combined to form the most complete version possible
+Holes in SBD #1 patched with AUD #1
+Re-equalization
+Channels balanced and mixed 
+Compression (Main Set Only)
+There was no hiss or noise reduction done to this show
+
+ADDITIONAL NOTES: 
+This was Dave Grohl's first Seattle show. The master tape for the encore no longer exists, so the MP3 made from it is all we have. I removed the on-street banter from the beginning of the encore source.
+
+SBD #1 transferred to WAV by Mike Ziegler.
+Remixed & Remastered by JWB.
+Includes artwork by Bartsled.
+DO NOT SELL OR ENCODE TO MP3!

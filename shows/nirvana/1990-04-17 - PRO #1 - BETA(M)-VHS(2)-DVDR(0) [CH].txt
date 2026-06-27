@@ -1,0 +1,33 @@
+NIRVANA
+April 17, 1990
+Foufounes Électriques, Montréal
+QC, Canada
+
+SETLIST (11:04) 
+-----------------
+01. Floyd The Barber (cuts in and has cut in)
+02. Love Buzz (cuts in)
+03. Dive (cuts in)
+04. Scoff (cuts in)
+
+GENERATION
+-----------------
+BETA(M) -> VHS(2) -> DVDR(0)
+
+SOURCE (PRO#1)
+-----------------
+unknown > unknown (Betacam)
+
+MD5 FINGERPRINTS
+-----------------
+88172ae1569ccc72cc78caadfc2f74fa *VIDEO_TS.BUP
+88172ae1569ccc72cc78caadfc2f74fa *VIDEO_TS.IFO
+196d82e1f7afacc6ea4f4a1caa0dbc2f *VIDEO_TS.VOB
+928bd59ba6f9fe5ae039e622d196606d *VTS_01_0.BUP
+928bd59ba6f9fe5ae039e622d196606d *VTS_01_0.IFO
+3f3e8f380056d02305bbb193ddb10887 *VTS_01_0.VOB
+6919a110c403ce01d54654212ebba7c0 *VTS_01_1.VOB
+ae6a7bf2d6a6ae2caa399f4817305e71 *VTS_01_2.VOB
+
+Transferred by Chris Hill
+PLEASE DO NOT ENCODE TO ANY OTHER FORMAT OR SELL!

@@ -1,0 +1,55 @@
+NIRVANA
+February 14, 1990
+Kennel Club
+San Francisco, CA
+
+SOURCE (AMT #1a):
+soundboard > unknown
+
+TRANSFER:
+JVC HR-S9911U > Canopus ADVC-300 > IEEE 1394 > Adobe Premiere Pro CS5 > Adobe Audition 3.0 > CD Wave 1.98 > Trader's Little Helper 2.7.0
+
+GENERATION:
+VHS(3) > AVI [PCM] > WAV [48kHz] > WAV [44.1kHz] > FLAC [Level 8]
+
+LENGTH:
+52:02
+
+TRACKS:
+01. Floyd The Barber
+02. Love Buzz
+03. jam
+04. Dive
+05. Sappy
+06. Spank Thru
+07. About A Girl
+08. Scoff
+09. Polly
+10. Breed
+11. Molly's Lips
+12. Been A Son
+13. Stain
+14. Negative Creep
+15. Blew
+
+MD5 FINGERPRINTS:
+a28369a17b43fc09ab8236d6abd8f1d8 *Nirvana_1990-02-14_late_AMT1a_t01.flac
+9d281967928e8aa9b88176cc7f91466d *Nirvana_1990-02-14_late_AMT1a_t02.flac
+28123604ec6f3aeef40fc78891e73e57 *Nirvana_1990-02-14_late_AMT1a_t03.flac
+ec53375887c1741e9ac109887b1ccf08 *Nirvana_1990-02-14_late_AMT1a_t04.flac
+d05bd4522e25a4ea61403d67e0b7c59d *Nirvana_1990-02-14_late_AMT1a_t05.flac
+ec4a8b784754004ad5d9ef336c6f35bb *Nirvana_1990-02-14_late_AMT1a_t06.flac
+8160584a7ec4349d3dd751160f79a926 *Nirvana_1990-02-14_late_AMT1a_t07.flac
+ad83033ad843e0b6fe67f745b3bd7f86 *Nirvana_1990-02-14_late_AMT1a_t08.flac
+6c19a40ccb98aa165ae19c1b26e6aa5e *Nirvana_1990-02-14_late_AMT1a_t09.flac
+aede446ee30cac1d803ddc0095a87c9c *Nirvana_1990-02-14_late_AMT1a_t10.flac
+f3a202fd7cb2a16c2ddcced22338658b *Nirvana_1990-02-14_late_AMT1a_t11.flac
+81f004e11dfbbc1da00870bca4273c02 *Nirvana_1990-02-14_late_AMT1a_t12.flac
+f0037556db49a6fc4b811d62d37dd147 *Nirvana_1990-02-14_late_AMT1a_t13.flac
+a8005b5032aab8bcab9b3218187bfd9b *Nirvana_1990-02-14_late_AMT1a_t14.flac
+d9dce53f03c10cc382814db9b8595af9 *Nirvana_1990-02-14_late_AMT1a_t15.flac
+
+TRANSFERRED BY:
+Mike Ziegler
+
+PLEASE DO NOT SELL OR ENCODE TO MP3

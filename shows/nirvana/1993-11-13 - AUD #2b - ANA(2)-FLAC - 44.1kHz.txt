@@ -1,0 +1,77 @@
+NIRVANA
+November 13, 1993
+Bender Arena, American University
+Washington, DC
+
+SOURCE (AUD #2b):
+unknown > unknown
+
+TRANSFER:
+Nakamichi CR-7A > Hosa RCA cable > PreSonus FireStudio Project > Adobe Audition 3.0 > CD Wave 1.98 > Trader's Little Helper 2.6.0
+
+GENERATION:
+ANA(2) > WAV [48kHz] > WAV [44.1kHz] > FLAC [Level 8]
+
+LENGTH:
+102:28
+
+TRACKS (DISC 1):
+01. Radio Friendly Unit Shifter
+02. Drain You
+03. Breed
+04. Serve The Servants
+05. About A Girl
+06. Heart-Shaped Box
+07. Sliver
+08. Dumb
+09. In Bloom
+10. Come As You Are
+11. Lithium
+12. Pennyroyal Tea
+13. School
+
+TRACKS (DISC 2):
+01. Polly (cuts in)
+02. Milk It
+03. Rape Me
+04. Territorial Pissings
+05. Smells Like Teen Spirit
+06. All Apologies
+07. Jesus Wants Me For A Sunbeam
+08. On A Plain
+09. Scentless Apprentice
+10. Blew
+11. jam (cut)
+12. Do Nuts (cut)
+
+MD5 FINGERPRINTS:
+78d892cc1e3ee44d454dcbd73b0628dc *Nirvana_1993-11-13_AUD2b_d1t01.flac
+0ae612c541262336ec8c6473f12fb751 *Nirvana_1993-11-13_AUD2b_d1t02.flac
+84bbf600463d806ca717a1d83f0fa3c5 *Nirvana_1993-11-13_AUD2b_d1t03.flac
+66f5eabd536b3cfb553faabdc61601bc *Nirvana_1993-11-13_AUD2b_d1t04.flac
+cfc6145fd4eaa6f0e83846c54ee5678d *Nirvana_1993-11-13_AUD2b_d1t05.flac
+b5152a7e2433ccae8981606f2df0106b *Nirvana_1993-11-13_AUD2b_d1t06.flac
+320b692998bfd461c0dd882e056b28f3 *Nirvana_1993-11-13_AUD2b_d1t07.flac
+4d3f4bd6f82e54d9bb260e6b45768c86 *Nirvana_1993-11-13_AUD2b_d1t08.flac
+c8d54c70b788a5300368027ed7f2f7b4 *Nirvana_1993-11-13_AUD2b_d1t09.flac
+df8b6a77e9d6111aa185bb4315c4beef *Nirvana_1993-11-13_AUD2b_d1t10.flac
+50db3369866479fd357a51722a33ffa0 *Nirvana_1993-11-13_AUD2b_d1t11.flac
+aafaa42b5f058a2e9185536566705b56 *Nirvana_1993-11-13_AUD2b_d1t12.flac
+1ac592650bde42713ff88a31f02a6946 *Nirvana_1993-11-13_AUD2b_d1t13.flac
+f0cd580727b543b7149088fc8e76cf04 *Nirvana_1993-11-13_AUD2b_d2t01.flac
+5c479140ac36ebaed0d96faf303fac83 *Nirvana_1993-11-13_AUD2b_d2t02.flac
+806cb63fd818945db2f6ffb810035b6f *Nirvana_1993-11-13_AUD2b_d2t03.flac
+d42f531293f8244d306faf7b3cbc1174 *Nirvana_1993-11-13_AUD2b_d2t04.flac
+4af80bae6108cb10768978a36ebee251 *Nirvana_1993-11-13_AUD2b_d2t05.flac
+0409b126cc80e7881f211f681e4b0053 *Nirvana_1993-11-13_AUD2b_d2t06.flac
+52ec3cf51d1cc3c48bb5b5a2b85e6c91 *Nirvana_1993-11-13_AUD2b_d2t07.flac
+ef41719f1b9e6f198e633220147cdf52 *Nirvana_1993-11-13_AUD2b_d2t08.flac
+495edd591263d0160f4a3ed22ee9aa57 *Nirvana_1993-11-13_AUD2b_d2t09.flac
+5efead08974da279d4fa80131946c975 *Nirvana_1993-11-13_AUD2b_d2t10.flac
+b8d18f9210c6c44bda96c9a10839e7e2 *Nirvana_1993-11-13_AUD2b_d2t11.flac
+4bbf984136fc4de2112712b646305d13 *Nirvana_1993-11-13_AUD2b_d2t12.flac
+
+TRANSFERRED BY:
+Mike Ziegler
+
+PLEASE DO NOT SELL OR ENCODE TO MP3

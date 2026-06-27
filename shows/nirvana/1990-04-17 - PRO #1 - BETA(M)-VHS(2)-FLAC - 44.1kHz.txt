@@ -1,0 +1,36 @@
+NIRVANA
+April 17, 1990
+Foufounes Électriques
+Montréal, QC, Canada
+
+SOURCE (PRO #1):
+unknown (Betacam) > unknown
+
+EXTRACTION:
+PgcDemux 1.2.0.5 > Adobe Audition 1.5 > FLAC frontend 1.7.1
+
+GENERATION:
+BETA(M) > VHS(2) > DVDR(0) [48kHz/1536kbps PCM] > WAV [48kHz] > WAV [44.1kHz] > FLAC [Level 8]
+
+LENGTH:
+11:04
+
+TRACKS:
+01. Floyd The Barber (cuts in, cut)
+02. Love Buzz (cuts in)
+03. Dive (cuts in)
+04. Scoff (cuts in)
+
+MD5 FINGERPRINTS:
+6a1e5716949ec44830d4a4412c1ea33e *Nirvana_1990-04-17_PRO1_t01.flac
+17f63b0d119b9d0352f1027a2bbf808c *Nirvana_1990-04-17_PRO1_t02.flac
+c134cbf9c33eba2650abfbfa78faca27 *Nirvana_1990-04-17_PRO1_t03.flac
+08503d97f10c9c124bd872c32e53fbf8 *Nirvana_1990-04-17_PRO1_t04.flac
+
+TRANSFERRED BY:
+Chris Hill
+
+EXTRACTED BY:
+Pieter Vermeulen
+
+PLEASE DO NOT SELL OR ENCODE TO MP3

@@ -1,0 +1,51 @@
+NIRVANA
+September 11, 1992
+Seattle Center Coliseum (Washington Music Industry Coalition Benefit)
+Seattle, WA
+
+DISC #1/1 (24:58)
+-----------------
+SOUNDCHECK
+01) intro
+02) jam (cut)
+03) jam (cut)
+
+SET
+04) All Apologies
+05) Been A Son
+06) Blew
+07) Dumb (cut)
+08) Rape Me (cut)
+09) Stay Away
+10) Love Buzz (cut)
+11) Territorial Pissings (cut)
+
+GENERATION
+-----------------
+8MM(M) -> WAV [48kHz] -> WAV [44.1kHz] -> FLAC [Level 8]
+
+SOURCE (AMT#1)
+-----------------
+built-in -> unknown
+
+TRANSFER
+-----------------
+Sony DCR-TRV460 -> Hosa FireWire cable -> Adobe Premiere Pro 2.0 -> Adobe Audition 2.0 -> CD Wave 1.94.8 -> FLAC Frontend 1.7.1
+
+MD5 FINGERPRINTS
+-----------------
+5dd29a7660cec6f631f4c7fa7fedb978 *nirvana1992-09-11t01.flac
+1d34601e64fb6207cb3e5842e5233d43 *nirvana1992-09-11t02.flac
+6fdc6e7c50b676abdf320ac38bfc459d *nirvana1992-09-11t03.flac
+c853f351c346d8f6b32fb9e3c39421de *nirvana1992-09-11t04.flac
+8d3972fc72b2d166449e66ccc26a2a51 *nirvana1992-09-11t05.flac
+2667993680c0551a5e5b42c437648c06 *nirvana1992-09-11t06.flac
+f84b6b6373d121b74bfedd741e91f73f *nirvana1992-09-11t07.flac
+2c98f1cb3125e1fc4866f56d60035fad *nirvana1992-09-11t08.flac
+e8998af9d87f9a2c6c2e20829df2aac1 *nirvana1992-09-11t09.flac
+380836df66ea04ff89801d9c76182ac8 *nirvana1992-09-11t10.flac
+b906788a89cd42c81bc3ef0ceff43185 *nirvana1992-09-11t11.flac
+
+
+Transferred by Mike Ziegler.
+PLEASE DO NOT ENCODE TO MP3 OR SELL!

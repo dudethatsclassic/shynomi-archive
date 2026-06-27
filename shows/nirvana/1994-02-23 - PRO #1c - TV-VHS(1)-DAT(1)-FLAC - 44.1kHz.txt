@@ -1,0 +1,27 @@
+NIRVANA
+February 23, 1994
+RAI Centro di Produzione TV Studi Nomentano (Tunnel)
+Rome, Italy
+
+SOURCE (PRO #1c):
+soundboard > unknown
+
+TRANSFER:
+Tascam DA-20mkII > Apogee S/PDIF cable > LynxONE digital-in > Adobe Audition 3.0 > FLAC frontend 1.7.1
+
+GENERATION:
+TV > VHS(1) > DAT(1) [32kHz] > WAV [32kHz] > WAV [44.1kHz] > FLAC [Level 8]
+
+LENGTH:
+2:37
+
+TRACKS:
+01. Dumb
+
+MD5 FINGERPRINTS:
+6335e3323252733b56d25abf3eac6576 *Nirvana_1994-02-23_PRO1c_t01.flac
+
+TRANSFERRED BY:
+Mike Ziegler
+
+PLEASE DO NOT SELL OR ENCODE TO MP3

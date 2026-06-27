@@ -1,0 +1,46 @@
+NIRVANA
+January 25, 1992
+Hordern Pavilion (Big Day Out)
+Sydney, Australia
+
+DISC #1/1 (26:12)
+-----------------
+01) About A Girl
+02) Smells Like Teen Spirit
+03) Polly
+04) Sliver
+05) Come As You Are
+06) Lithium
+07) Been A Son
+08) On A Plain (cut)
+
+GENERATION
+-----------------
+ANA(M) -> DAT(1) -> WAV [44.1kHz] -> FLAC [Level 8]
+
+SOURCE (AUD#2)
+-----------------
+built-in -> unknown
+
+TRANSFER
+-----------------
+Tascam DA-20 MKII -> Apogee S/PDIF cable -> LynxONE digital-in -> Adobe Audition 2.0 -> CD Wave 1.94.8 -> FLAC Frontend 1.7.1
+
+NOTES
+-----------------
+Has speed problems toward the end, as the tape recorder's batteries die.
+
+MD5 FINGERPRINTS
+-----------------
+3e1aa91dde5b740e7dcdec004b6f7dc7 *nirvana1992-01-25t01.flac
+5ccc58259bf24157cac1b6ed7ca4e883 *nirvana1992-01-25t02.flac
+a6220174cc9f6f352204f358c0345f3d *nirvana1992-01-25t03.flac
+f2bfaa070099a4ee404bf277918e182d *nirvana1992-01-25t04.flac
+8b097827c07212cf892da8111d5805c3 *nirvana1992-01-25t05.flac
+f58446d098248f2ba0f8048b1771274b *nirvana1992-01-25t06.flac
+b06225ceabab9f1172272c8170305e3e *nirvana1992-01-25t07.flac
+0b42fc15fa01228a0e34968dcbbf3c40 *nirvana1992-01-25t08.flac
+
+
+Transferred by Mike Ziegler.
+PLEASE DO NOT ENCODE TO MP3 OR SELL!

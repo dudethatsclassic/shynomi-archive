@@ -1,0 +1,53 @@
+NIRVANA
+January 25, 1992
+Hordern Pavilion (Big Day Out)
+Sydney, Australia
+
+SOURCE (AUD #1):
+unknown > unknown
+
+TRANSFER:
+Nakamichi CR-7A > Hosa RCA cable > PreSonus FireStudio Project > Adobe Audition 3.0 > CD Wave 1.98 > Trader's Little Helper 2.6.0
+
+GENERATION:
+ANA(x) > WAV [48kHz] > WAV [44.1kHz] > FLAC [Level 8]
+
+LENGTH:
+51:41
+
+TRACKS:
+01. Aneurysm (cuts in)
+02. Drain You
+03. School
+04. Floyd The Barber
+05. About A Girl
+06. Smells Like Teen Spirit
+07. Polly
+08. Sliver
+09. Come As You Are
+10. Lithium
+11. Been A Son
+12. On A Plain
+13. Something In The Way
+14. Endless, Nameless (cut)
+
+MD5 FINGERPRINTS:
+6c8cb81624f1e81f75de456de369d027 *Nirvana_1992-01-25_AUD1_t01.flac
+b8eddcfa37c376655ac7c1d7034eb4e4 *Nirvana_1992-01-25_AUD1_t02.flac
+0c239e612e120672be604411f7d6bbde *Nirvana_1992-01-25_AUD1_t03.flac
+5b3acd7083db92cf10c1b88b3c6945a2 *Nirvana_1992-01-25_AUD1_t04.flac
+43bbb34ab6b3d7aaeeb671d5751baef2 *Nirvana_1992-01-25_AUD1_t05.flac
+74baef9dee562734fbe90d51465829c9 *Nirvana_1992-01-25_AUD1_t06.flac
+2515db386c3903cd596160e14daa9d5e *Nirvana_1992-01-25_AUD1_t07.flac
+9e8da7e7438bb53154892e065f24fabb *Nirvana_1992-01-25_AUD1_t08.flac
+d92b5a9e6cefe7e4a098165f58c72c19 *Nirvana_1992-01-25_AUD1_t09.flac
+c54bec097c0189945469a8bf6296b100 *Nirvana_1992-01-25_AUD1_t10.flac
+27b9ca95d94d82d9be7f769132bae6c0 *Nirvana_1992-01-25_AUD1_t11.flac
+33c7d979e4263206e625ede8b6e97819 *Nirvana_1992-01-25_AUD1_t12.flac
+60f27b6324fad615a4ccf5568df58bf7 *Nirvana_1992-01-25_AUD1_t13.flac
+ae2d28bbf6de26a3d6944ee7a5ebe31b *Nirvana_1992-01-25_AUD1_t14.flac
+
+TRANSFERRED BY:
+Mike Ziegler
+
+PLEASE DO NOT SELL OR ENCODE TO MP3

@@ -1,0 +1,28 @@
+NIRVANA
+August 23, 1991
+Richfield Avenue (Reading Festival)
+Reading, United Kingdom
+
+DISC #1/1 (02:03)
+-----------------
+01) Endless, Nameless
+
+SOURCE (PRO #2)
+-----------------
+Beaulieu Boom Microphone > Beaulieu 5008 S (Super 8)
+
+GENERATION
+-----------------
+Official DVD "1991 The Year Punk Broke" -> WAV [48kHz] -> WAV [44.1kHz] -> FLAC [Level 8]
+
+EXTRACTION
+-----------------
+Lite-On iHBS-112 -> DVD Decrypter 3.5.4.0 -> Adobe Audition 3.0 -> FLAC Frontend 1.7.1
+
+MD5 FINGERPRINTS
+-----------------
+0c1f5a25d3851c8728ff02dcf2f2a21e *Nirvana_1991-08-23_PRO2_t01.flac
+
+Extracted by PL.
+PLEASE DO NOT ENCODE TO MP3 OR SELL!
+NO TRADE

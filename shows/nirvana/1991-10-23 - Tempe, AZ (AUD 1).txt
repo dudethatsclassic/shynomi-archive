@@ -1,0 +1,64 @@
+NIRVANA
+October 23, 1991
+After The Gold Rush
+Tempe, AZ
+
+DISC #1/1 (66:08)
+-----------------
+01) intro
+02) Jesus Wants Me For A Sunbeam
+03) Aneurysm
+04) Drain You
+05) School
+06) Floyd The Barber
+07) Smells Like Teen Spirit
+08) About A Girl
+09) Polly
+10) Breed
+11) Come As You Are
+12) Lithium
+13) Sliver
+14) Dive
+15) Curmudgeon
+16) Been A Son
+17) On A Plain
+18) Negative Creep
+19) Blew
+
+GENERATION
+-----------------
+ANA(M) -> DAT(1) -> WAV [48kHz] -> WAV [44.1kHz] -> FLAC [Level 8]
+
+SOURCE (AUD#1)
+-----------------
+Sonic Studios DSM-3 -> Sony WM-D6
+
+TRANSFER
+-----------------
+Tascam DA-20 MKII -> Apogee S/PDIF cable -> LynxONE digital-in -> Adobe Audition 1.5 -> CD Wave 1.94.5 -> FLAC Frontend 1.7.1
+
+MD5 FINGERPRINTS
+-----------------
+2aa54ad84beabab7723b4b4f48a031dd *nirvana1991-10-23t01.flac
+d2fceac3202202041d403fafaf951cc0 *nirvana1991-10-23t02.flac
+eb49ed819b0e00fb73930884811c6804 *nirvana1991-10-23t03.flac
+a06fd878f5061d73436890a711d822b0 *nirvana1991-10-23t04.flac
+73a9ae74aa02d0ab8ee0569b257b5ddb *nirvana1991-10-23t05.flac
+f6a4ae58072c6300f77ab23b0c025247 *nirvana1991-10-23t06.flac
+70bfdff824a406129ec431d9dad75ab2 *nirvana1991-10-23t07.flac
+7f0f8393bc6184ce02e45db7264f3d49 *nirvana1991-10-23t08.flac
+e63509b5ae9d7c57ea0a7183f30ec207 *nirvana1991-10-23t09.flac
+bd0e9ee2a051590e0601da01066bf80d *nirvana1991-10-23t10.flac
+ff8fa3e0c74ace75ec386ca5c01935a5 *nirvana1991-10-23t11.flac
+ce34226d8b157131ae029070c1307e44 *nirvana1991-10-23t12.flac
+e7281cf1d758bdd29ff2bf97823122d6 *nirvana1991-10-23t13.flac
+78c195ee380f997f4a92a14b37ff57d4 *nirvana1991-10-23t14.flac
+62a5afa96ada5e13f8c310d8a6eff27f *nirvana1991-10-23t15.flac
+af1f8966a05d21e244aeaada1254094c *nirvana1991-10-23t16.flac
+e3779b06014a7591b3894031f694ff4c *nirvana1991-10-23t17.flac
+b944c5ecac94c32bbf3300974d7a0f35 *nirvana1991-10-23t18.flac
+834d7b857b809cbd368cd7e6cff100c0 *nirvana1991-10-23t19.flac
+
+
+Transferred by Mike Ziegler.
+PLEASE DO NOT ENCODE TO MP3 OR SELL!

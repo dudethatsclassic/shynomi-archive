@@ -1,0 +1,45 @@
+NIRVANA
+December 13, 1993
+Pier 48 (MTV Live and Loud)
+Seattle, WA
+
+SOURCE (PRO #1x):
+soundboard > unknown
+
+TRANSFER:
+JVC HR-S9500 > Canopus ADVC55 > IEEE 1394 > Adobe Premiere Pro 2.0 > Adobe Audition 3.0 > CD Wave 1.98 > Trader's Little Helper 2.6.0
+
+GENERATION:
+TV > VHS(1) > WAV [48kHz] > WAV [44.1kHz] > FLAC [Level 8]
+
+LENGTH:
+40:47
+
+TRACKS:
+01. Radio Friendly Unit Shifter
+02. Drain You
+03. Breed
+04. Serve The Servants
+05. Rape Me
+06. Heart-Shaped Box
+07. Pennyroyal Tea
+08. Scentless Apprentice
+09. Lithium
+10. jam
+
+MD5 FINGERPRINTS:
+64c57f084d7eb80206e78ee0a9973c8d *Nirvana_1993-12-13_late_PRO1x_t01.flac
+5ffafe328f0b13dd4f03e180bb9db7f8 *Nirvana_1993-12-13_late_PRO1x_t02.flac
+d524cf516fc06ad8c1ccb5b48be21170 *Nirvana_1993-12-13_late_PRO1x_t03.flac
+6d9b8b8a7b33b673cc490b273d248150 *Nirvana_1993-12-13_late_PRO1x_t04.flac
+11cbbb41d01e19fa763c496ac9b30058 *Nirvana_1993-12-13_late_PRO1x_t05.flac
+deda63a3bba228f900016c2ec7c542fa *Nirvana_1993-12-13_late_PRO1x_t06.flac
+fac0ca2c8c28bc46996788fb1820721c *Nirvana_1993-12-13_late_PRO1x_t07.flac
+a21f98c1104f4515a17858849d47d54b *Nirvana_1993-12-13_late_PRO1x_t08.flac
+09f6ff3fc2115700fcf995be9df30af4 *Nirvana_1993-12-13_late_PRO1x_t09.flac
+f735774a3ebcd3d2e75420f51de55524 *Nirvana_1993-12-13_late_PRO1x_t10.flac
+
+TRANSFERRED BY:
+Mike Ziegler
+
+PLEASE DO NOT SELL OR ENCODE TO MP3

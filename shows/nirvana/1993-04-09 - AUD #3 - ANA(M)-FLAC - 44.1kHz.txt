@@ -1,0 +1,77 @@
+NIRVANA
+April 9, 1993
+Cow Palace (Bosnian Rape Victim Benefit)
+San Francisco, CA
+
+DISC #1/2 (48:06)
+-----------------
+01) Rape Me
+02) School
+03) Breed
+04) Sliver
+05) Come As You Are
+06) Milk It
+07) About A Girl
+08) Lithium
+09) Dumb
+10) Frances Farmer Will Have Her Revenge On Seattle
+11) Serve The Servants
+12) Aneurysm
+13) Smells Like Teen Spirit
+14) Territorial Pissings
+
+DISC #2/2 (41:10)
+-----------------
+01) Blew
+02) All Apologies
+03) Heart-Shaped Box
+04) Scentless Apprentice
+05) Something In The Way
+06) Negative Creep
+07) Been A Son
+08) Dive
+09) Love Buzz
+10) Endless, Nameless
+
+GENERATION
+-----------------
+ANA(M) -> DAT(1) -> WAV [48kHz] -> WAV [44.1kHz] -> FLAC [Level 8]
+
+SOURCE (AUD#3)
+-----------------
+Sonic Studios DSM-6 -> Sony WM-D6
+
+TRANSFER
+-----------------
+Tascam DA-20 MKII -> Apogee S/PDIF cable -> LynxONE digital-in -> Adobe Audition 2.0 -> CD Wave 1.95.1 -> FLAC Frontend 1.7.1
+
+MD5 FINGERPRINTS
+-----------------
+69c015101f8cbb9e0a1d3f4cbff2afd5 *nirvana1993-04-09d1t01.flac
+f4e7940ac1163e92f4c30b7d69903375 *nirvana1993-04-09d1t02.flac
+2b754c9bb8528e18a0790c91c9ae7fed *nirvana1993-04-09d1t03.flac
+e9c44b554affeaa865b69185ae48ec99 *nirvana1993-04-09d1t04.flac
+adc52cb8450e4591818e1378305c32e2 *nirvana1993-04-09d1t05.flac
+7db93783d1dc7c69e5b9a93ed2665082 *nirvana1993-04-09d1t06.flac
+fa97da42cee37b225f963cf5fb77fb0d *nirvana1993-04-09d1t07.flac
+4c251e0f0fe1970f03364aa294c601c8 *nirvana1993-04-09d1t08.flac
+5058ca4dd2afc34af981b21695cf3db4 *nirvana1993-04-09d1t09.flac
+39163f5588fa7b1262d94f82a64c2841 *nirvana1993-04-09d1t10.flac
+5ec394f8d59c07b5461215ac6b4516de *nirvana1993-04-09d1t11.flac
+e051c472bca4b8a4dc3eda11c4172848 *nirvana1993-04-09d1t12.flac
+e5f5836f75eaa184dd97dda49fc0bab9 *nirvana1993-04-09d1t13.flac
+37856ca9988692b307f24dabdb4244e3 *nirvana1993-04-09d1t14.flac
+ae1d1cd027ca4847647776fdee57d2af *nirvana1993-04-09d2t01.flac
+70ed11673105d7683a3928b6ec0f0f88 *nirvana1993-04-09d2t02.flac
+d3b1dd037a4067e2c3ac6bbcef748ab3 *nirvana1993-04-09d2t03.flac
+99b49c85f45b21866e390944fb92c79d *nirvana1993-04-09d2t04.flac
+bbd4d2a9da8e4f020ab364478b0a566b *nirvana1993-04-09d2t05.flac
+42219c849addc30f3536a6a80872654b *nirvana1993-04-09d2t06.flac
+0f6001ea28d89b88b9b17c8aa973376c *nirvana1993-04-09d2t07.flac
+65b4a95345aaed22972b302a48e0348b *nirvana1993-04-09d2t08.flac
+8cbdd1ac3ec69586dd65f69c3d9d190f *nirvana1993-04-09d2t09.flac
+ed14684264241f586b8d8eaccf99f491 *nirvana1993-04-09d2t10.flac
+
+
+Transferred by Mike Ziegler.
+PLEASE DO NOT ENCODE TO MP3 OR SELL!

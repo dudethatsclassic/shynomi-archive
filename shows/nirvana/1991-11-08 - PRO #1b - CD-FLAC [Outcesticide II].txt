@@ -1,0 +1,29 @@
+NIRVANA
+November 8, 1991
+Limehouse Studios
+London, United Kingdom
+
+SOURCE (PRO #1b):
+soundboard > unknown
+
+EXTRACTION:
+Philips DVDR1660P1 > Exact Audio Copy 0.95 beta 4 > Adobe Audition 1.5 > FLAC Frontend 1.7.1
+
+GENERATION:
+CD [Outcesticide II] > WAV [44.1kHz] > FLAC [Level 8]
+
+LENGTH:
+2:58
+
+TRACKS:
+01. intro
+02. Smells Like Teen Spirit
+
+MD5 FINGERPRINTS:
+2e2f9523f5ca3b8a6f58eb8e1ac03b1d *Nirvana_1991-11-08_PRO1b_t01.flac
+886ada8e74a8ed7ca51d64d12768c3c6 *Nirvana_1991-11-08_PRO1b_t02.flac
+
+EXTRACTED BY:
+Pieter Vermeulen
+
+PLEASE DO NOT SELL OR ENCODE TO MP3

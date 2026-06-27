@@ -1,0 +1,39 @@
+NIRVANA
+May 2, 1990
+The Milestone
+Charlotte, NC
+
+SOURCE (AUD #1):
+unknown > Sony WM-D6
+
+TRANSFER:
+Nakamichi DR-8 > Echo Layla24 > Adobe Audition 2.0 > CD Wave 1.95.1 > FLAC frontend 1.7.1
+
+GENERATION:
+ANA(1) > WAV [48kHz] > WAV [44.1kHz] > FLAC [Level 8]
+
+LENGTH:
+25:14
+
+TRACKS:
+01. Spank Thru
+02. In Bloom
+03. Sappy
+04. Been A Son
+05. Stain
+06. Negative Creep
+07. Blew
+
+MD5 FINGERPRINTS:
+44ba8da67a25fb6560eb25d7728b7f99 *Nirvana_1990-05-02_AUD1_t01.flac
+1733157f83dedbff6a0a08b4a8d027e2 *Nirvana_1990-05-02_AUD1_t02.flac
+9187244be4e5e7679fdda1c3c3963b36 *Nirvana_1990-05-02_AUD1_t03.flac
+c4aa538ee1fa12adcae0a27df3adb4c4 *Nirvana_1990-05-02_AUD1_t04.flac
+3a260b1d1b9e095746e47faea1d32521 *Nirvana_1990-05-02_AUD1_t05.flac
+da80b752a86012c8c5427b1b36ab2da6 *Nirvana_1990-05-02_AUD1_t06.flac
+671f7dcb8a38b0abfbeff2395e815301 *Nirvana_1990-05-02_AUD1_t07.flac
+
+TRANSFERRED BY:
+Kris Sproul
+
+PLEASE DO NOT SELL OR ENCODE TO MP3

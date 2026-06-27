@@ -1,0 +1,62 @@
+NIRVANA
+October 27, 1989
+Students' Union, The School of Oriental and African Studies
+London, United Kingdom
+
+SOURCE (AUD #1):
+unknown > Sony
+
+TRANSFER:
+Nakamichi DR-8 > Echo Layla24 > Adobe Audition 1.5 > CD Wave 1.93 beta > FLAC frontend 1.7.1
+
+GENERATION:
+ANA(M) > WAV [48kHz] > WAV [44.1kHz] > FLAC [Level 8]
+
+LENGTH:
+60:49
+
+NOTES:
+- Has a few very short dropouts in various songs.
+
+TRACKS:
+01. intro
+02. School
+03. Scoff
+04. Love Buzz
+05. Floyd The Barber
+06. Dive
+07. Polly
+08. Big Cheese
+09. Spank Thru
+10. About A Girl
+11. Token Eastern Song
+12. Stain
+13. Been A Son
+14. Negative Creep
+15. Blew
+16. Paper Cuts
+17. Even In His Youth
+
+MD5 FINGERPRINTS:
+cf213f8a2686f201f2425224cf37a14a *Nirvana_1989-10-27_AUD1_t01.flac
+198c0be22a05b9298790b378c16b36a2 *Nirvana_1989-10-27_AUD1_t02.flac
+4759ecfac23bfcbe7dad37ee5a981e82 *Nirvana_1989-10-27_AUD1_t03.flac
+2525ef67e0efedbc8bd7263a2c823c1d *Nirvana_1989-10-27_AUD1_t04.flac
+ff0532c71bd503d8850bd0ae381346a8 *Nirvana_1989-10-27_AUD1_t05.flac
+a43d6ae4c3cf60e1842911c4681141f2 *Nirvana_1989-10-27_AUD1_t06.flac
+6f3ce48df2e6373513f1bc28ff48e05e *Nirvana_1989-10-27_AUD1_t07.flac
+8d81a6f33972cd6650db60ded213c614 *Nirvana_1989-10-27_AUD1_t08.flac
+51d11168933119bea5c540bd890b5deb *Nirvana_1989-10-27_AUD1_t09.flac
+9657b7d625cb5eedb963e4c3904e5510 *Nirvana_1989-10-27_AUD1_t10.flac
+27eb6dd21a435286f668b7a895d02454 *Nirvana_1989-10-27_AUD1_t11.flac
+9d9edf16f9e65d67df5d0f0c10e6e693 *Nirvana_1989-10-27_AUD1_t12.flac
+ed6ba9d49735ac1159ba8b7a4d12ea39 *Nirvana_1989-10-27_AUD1_t13.flac
+a286ec017b5f6531dbf40c0528a520ef *Nirvana_1989-10-27_AUD1_t14.flac
+bcee45695e98379f8777173fa4db9c44 *Nirvana_1989-10-27_AUD1_t15.flac
+fa317dbf44fbb57e639ca816d94c20e9 *Nirvana_1989-10-27_AUD1_t16.flac
+1b244e37e2847a8731cf047da7870250 *Nirvana_1989-10-27_AUD1_t17.flac
+
+TRANSFERRED BY:
+Kris Sproul
+
+PLEASE DO NOT SELL OR ENCODE TO MP3

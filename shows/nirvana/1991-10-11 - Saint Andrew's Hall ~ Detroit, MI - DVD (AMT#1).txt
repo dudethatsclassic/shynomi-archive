@@ -1,0 +1,64 @@
+NIRVANA
+October 11, 1991
+Saint Andrew's Hall
+Detroit, MI
+
+SOURCE (AMT #1):
+unknown > unknown
+
+TRANSFER:
+JVC HR-S9911U > Canopus ADVC-300 > IEEE 1394 > Adobe Premiere Pro CS5 > Cinema Craft Encorder SP3 > Adobe Encore CS5
+
+GENERATION:
+VHS(2) [NTSC] > AVI [DV25] > M2V/WAV [8.0Mbps CBR/48kHz PCM] > DVDR(0)
+
+LENGTH:
+82:09
+
+TRACKS:
+01. intro
+02. Jesus Wants Me For A Sunbeam
+03. Aneurysm
+04. Drain You
+05. School
+06. Floyd The Barber
+07. Smells Like Teen Spirit
+08. About A Girl
+09. Breed
+10. Polly
+11. Sliver
+12. Pennyroyal Tea
+13. Love Buzz
+14. Come As You Are
+15. Blew
+16. Negative Creep
+17. Been A Son
+18. On A Plain
+19. Lithium
+20. Territorial Pissings
+21. Rape Me
+22. Something In The Way
+23. Endless, Nameless
+
+MD5 FINGERPRINTS:
+42790d7f5dc2069909f41b2632a9db3d *VIDEO_TS\VIDEO_TS.BUP
+42790d7f5dc2069909f41b2632a9db3d *VIDEO_TS\VIDEO_TS.IFO
+9e97a772dfbeb773a17ae74d1e11dcd2 *VIDEO_TS\VIDEO_TS.VOB
+fc521a22774b4c90201ebaeed20aa2e1 *VIDEO_TS\VTS_01_0.BUP
+fc521a22774b4c90201ebaeed20aa2e1 *VIDEO_TS\VTS_01_0.IFO
+726a9db3359c0e78c2ed90e41e8e04cb *VIDEO_TS\VTS_01_0.VOB
+c2de91ed427170827425867ee733b41e *VIDEO_TS\VTS_01_1.VOB
+a296bba3f4106a7544f829ef7b57ad8c *VIDEO_TS\VTS_01_2.VOB
+19364dd8b48f5667f44f9a7ddbe9af2c *VIDEO_TS\VTS_01_3.VOB
+4c10ced84dfa4b1d29517ed9a5ad0344 *VIDEO_TS\VTS_01_4.VOB
+000c4dcae135891f8f1e20d623415074 *VIDEO_TS\VTS_01_5.VOB
+9e481975b1df1c1e5e931cc074d2e88b *VIDEO_TS\VTS_01_6.VOB
+4e7e2008293d8fcd94519a8b9dd6a72d *VIDEO_TS\VTS_02_0.BUP
+4e7e2008293d8fcd94519a8b9dd6a72d *VIDEO_TS\VTS_02_0.IFO
+9e97a772dfbeb773a17ae74d1e11dcd2 *VIDEO_TS\VTS_02_0.VOB
+2282981a5e788d3f7200d5d46cfb1919 *VIDEO_TS\VTS_02_1.VOB
+
+TRANSFERRED BY:
+Mike Ziegler
+
+PLEASE DO NOT SELL OR ENCODE TO MP3

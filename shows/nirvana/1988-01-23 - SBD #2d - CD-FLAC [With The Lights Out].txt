@@ -1,0 +1,36 @@
+NIRVANA
+January 23, 1988
+Reciprocal Recording,
+Seattle, WA
+
+DISC #1/1 (07:03)
+-----------------
+01) If You Must
+02) Pen Cap Chew
+
+SOURCE (SBD #2d)
+-----------------
+soundboard -> ½-inch 8-track analog magnetic tape (session tape)
+
+GENERATION
+-----------------
+Official CD "With The Lights Out, CD1" -> WAV [44.1kHz] -> FLAC [Level 8]
+
+EXTRACTION
+-----------------
+Lite-On iHBS-112 -> Exact Audio Copy v1.00 beta 3 -> FLAC Frontend 1.7.1
+
+NOTES
+-----------------
+- produced by Jack Endino
+- all songs are Mix #1 (Jack Endino's initial rough "one-hour" mix that the band left the studio with), 1988
+- mastered by Bob Ludwig
+
+MD5 FINGERPRINTS
+-----------------
+27251115562ebd64cd937f075881ebf1 *Nirvana_1988-01-23_sbd2d_t01.flac
+a91ede31dc9d78a3a665d48ce286c2e7 *Nirvana_1988-01-23_sbd2d_t02.flac
+
+Extracted by PL.
+PLEASE DO NOT ENCODE TO MP3 OR SELL!
+NO TRADE

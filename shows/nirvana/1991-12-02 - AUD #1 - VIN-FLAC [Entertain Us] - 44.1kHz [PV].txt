@@ -1,0 +1,51 @@
+NIRVANA
+December 2, 1991
+The Mayfair
+Newcastle upon Tyne, UK
+
+SOURCE (AUD #1):
+Sony ECM-909 > Sony TCD-D3
+
+TRANSFER:
+Technics SL-5200 > Audio Technica AT-440 MLa > Technics SU-VX500 > ESI Juli @ > Wavelab 6.11 > Adobe Audition 1.5 > iZotope RX 3.01.734 Advanced > FLAC Frontend 2.1
+
+GENERATION:
+DAT(M) > ANA(1) > UNOFFICIAL 12" ["Entertain Us"] > WAV [24bit][96kHz] > WAV [16bit][44.1kHz] > FLAC [Level 8]
+
+LENGTH:
+37:32
+
+NOTES:
+- "Entertain Us" was pressed in 1000 copies of which approximately 400 were destroyed in a fire.  100 copies contain an insert.
+- The sound quality improves dramatically on the B-side, being "Negative Creep", "On A Plain", "Blew" and the "Jam".
+
+TRACKS:
+01. Drain You
+02. Lithium
+03. Smells Like Teen Spirit
+04. About A Girl
+05. Breed
+06. School
+07. Sliver
+08. Negative Creep
+09. On A Plain
+10. Blew
+11. Jam
+
+MD5 FINGERPRINTS:
+6bff29c6df04235d50e7938329ca8c83 *Nirvana_1991-12-02_AUD1_t01.flac
+2c290237925524e2cb07aa6d1b818a56 *Nirvana_1991-12-02_AUD1_t02.flac
+c9562fe4651fb313cb9c95fe99e61e38 *Nirvana_1991-12-02_AUD1_t03.flac
+abf64689276bd34e4486d34061ce094b *Nirvana_1991-12-02_AUD1_t04.flac
+1254a4dfb9786ff878db4ecf262181da *Nirvana_1991-12-02_AUD1_t05.flac
+04597876435a57dbd39766874a5f6a07 *Nirvana_1991-12-02_AUD1_t06.flac
+955ff557d4efd01f2d8d0ff3a0605440 *Nirvana_1991-12-02_AUD1_t07.flac
+b7cb90d5a7075077c2e8831cb25fb82d *Nirvana_1991-12-02_AUD1_t08.flac
+2038f7c0cb367d28799c211e10cc4708 *Nirvana_1991-12-02_AUD1_t09.flac
+4d86ea2421956a5c8f8d676e4f644d4b *Nirvana_1991-12-02_AUD1_t10.flac
+28778481b80aaf75fa37acc1cc15e5b0 *Nirvana_1991-12-02_AUD1_t11.flac
+
+TRANSFERRED BY:
+Pieter Vermeulen
+
+PLEASE DO NOT SELL OR ENCODE TO MP3

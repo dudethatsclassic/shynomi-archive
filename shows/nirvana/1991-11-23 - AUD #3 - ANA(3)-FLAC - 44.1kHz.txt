@@ -1,0 +1,67 @@
+NIRVANA
+November 23, 1991
+Vooruit
+Ghent, Belgium
+
+SOURCE (AUD #3):
+unknown > unknown
+
+TRANSFER:
+Nakamichi CR-7A > Hosa RCA cable > LynxONE analog-in > Adobe Audition 3.0 > CD Wave 1.98 > FLAC frontend 1.7.1
+
+GENERATION:
+ANA(3) > WAV [48kHz] > WAV [44.1kHz] > FLAC [Level 8]
+
+LENGTH:
+80:05
+
+TRACKS:
+01. intro
+02. Drain You
+03. Aneurysm
+04. School
+05. Floyd The Barber
+06. Smells Like Teen Spirit
+07. Curmudgeon
+08. Oh, The Guilt
+09. Lithium
+10. Sliver
+11. About A Girl
+12. Polly
+13. Talk To Me
+14. The End (jam)
+15. Been A Son
+16. Negative Creep
+17. On A Plain (part of)
+18. On A Plain
+19. Blew
+20. Where Did You Sleep Last Night
+21. Jesus Wants Me For A Sunbeam
+
+MD5 FINGERPRINTS:
+34fed4fa5f270ea11975677e918069cf *Nirvana_1991-11-23_AUD3_t01.flac
+b5f959e30c297670ee6131f7ef507073 *Nirvana_1991-11-23_AUD3_t02.flac
+7a591e62dc30f97f411c3d7c954f176a *Nirvana_1991-11-23_AUD3_t03.flac
+7a6f2013ab817075619c0370411fb916 *Nirvana_1991-11-23_AUD3_t04.flac
+024d1eb501f72a043d8b37349b9d3dc5 *Nirvana_1991-11-23_AUD3_t05.flac
+6935ded5b535ee5f8b93b19d4f117876 *Nirvana_1991-11-23_AUD3_t06.flac
+9915271d4adc913b9f27bdc1d7b54e26 *Nirvana_1991-11-23_AUD3_t07.flac
+26e4dc232e35e38adca0ec75da050b8d *Nirvana_1991-11-23_AUD3_t08.flac
+7b0f4abc4da1f2183c18d8dec764199c *Nirvana_1991-11-23_AUD3_t09.flac
+493da7231fa0f50a2d6c9a3a46a44d1b *Nirvana_1991-11-23_AUD3_t10.flac
+1cc5235d79e6cfc7832ac2e3ea90100e *Nirvana_1991-11-23_AUD3_t11.flac
+e26889ed220e4b1abac92dd4c7db57ee *Nirvana_1991-11-23_AUD3_t12.flac
+35ba92f72fd780e9959366779df56345 *Nirvana_1991-11-23_AUD3_t13.flac
+c470012ff2f75de95835b44e16d2470f *Nirvana_1991-11-23_AUD3_t14.flac
+07052f4812574bb7fb3ada4b9234aa74 *Nirvana_1991-11-23_AUD3_t15.flac
+27ba3e78905ae221dbdc385d5231ba99 *Nirvana_1991-11-23_AUD3_t16.flac
+441b0a8496ec01eade47810d45e50897 *Nirvana_1991-11-23_AUD3_t17.flac
+349684f6342cc799968a832462bd752a *Nirvana_1991-11-23_AUD3_t18.flac
+e3f46462802c2262e451be0f4cb9b990 *Nirvana_1991-11-23_AUD3_t19.flac
+c6e77ae3be35ab2b635f7aeb2e028119 *Nirvana_1991-11-23_AUD3_t20.flac
+36e40526c5c86b578c38037bd762d338 *Nirvana_1991-11-23_AUD3_t21.flac
+
+TRANSFERRED BY:
+Mike Ziegler
+
+PLEASE DO NOT SELL OR ENCODE TO MP3

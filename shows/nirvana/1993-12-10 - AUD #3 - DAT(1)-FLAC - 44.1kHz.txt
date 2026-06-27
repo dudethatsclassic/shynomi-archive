@@ -1,0 +1,80 @@
+NIRVANA
+December 10th, 1993
+Roy Wilkins Auditorium
+St. Paul, MN
+
+SOURCE (AUD #3):
+Sonic Studios DSM-6P > Sony TCD-D7
+
+TRANSFER:
+Tascam DA-20 MKII > Viablue S/PDIF cable > M-Audio Delta Audiophile 192 digital-in > Adobe Audition 3.0 > CD Wave 1.98 > FLAC Frontend 1.7.1
+
+GENERATION:
+DAT(1) [32kHz] > WAV [32kHz] > WAV [44.1kHz] > FLAC [Level 8]
+
+LENGTH:
+107:00
+
+NOTES:
+- Optical DAT clone
+
+TRACKS:
+01. Radio Friendly Unit Shifter
+02. Drain You
+03. Breed
+04. Serve The Servants
+05. Come As You Are
+06. Smells Like Teen Spirit
+07. Sliver
+08. Dumb
+09. In Bloom
+10. About A Girl
+11. Lithium
+12. Pennyroyal Tea
+13. School
+14. Polly
+15. Frances Farmer Will Have Her Revenge On Seattle
+16. Milk It
+17. Rape Me
+18. Territorial Pissings
+19. Jesus Wants Me For A Sunbeam
+20. The Man Who Sold The World
+21. All Apologies
+22. On A Plain
+23. Scentless Apprentice
+24. Heart-Shaped Box
+25. Blew
+26. Endless, Nameless
+
+MD5 FINGERPRINTS:
+2d26264b5cf2c672989459677440dbe4 *Nirvana_1993-12-10_AUD_DAT1_t01.flac
+20c79171da823ddf4f42d725f9ad807f *Nirvana_1993-12-10_AUD_DAT1_t02.flac
+4aca14f1586000434b194c113abeed7d *Nirvana_1993-12-10_AUD_DAT1_t03.flac
+4cf35e9080836ca4b633a395abb4eb8f *Nirvana_1993-12-10_AUD_DAT1_t04.flac
+9fe98d540c5107f2bcac86e1eae8251d *Nirvana_1993-12-10_AUD_DAT1_t05.flac
+c814e35c634d5c8bfdac3de706e8697d *Nirvana_1993-12-10_AUD_DAT1_t06.flac
+dcc0921ed9ab36a096c5b53a740b4a0c *Nirvana_1993-12-10_AUD_DAT1_t07.flac
+ac0c4793d4b10083e08808097c6e97a8 *Nirvana_1993-12-10_AUD_DAT1_t08.flac
+743bcec12265a155fb6ed64bf8623ff5 *Nirvana_1993-12-10_AUD_DAT1_t09.flac
+7f036c6112eae204f751a818bb058113 *Nirvana_1993-12-10_AUD_DAT1_t10.flac
+e5cafe5f30ce3da31708a5f9f2dc2ecc *Nirvana_1993-12-10_AUD_DAT1_t11.flac
+4baf164cff65ec6c4575922826546f4b *Nirvana_1993-12-10_AUD_DAT1_t12.flac
+ccba6e29bfacdad6e8356713f7708d9a *Nirvana_1993-12-10_AUD_DAT1_t13.flac
+f57018dc9d9ef1499aa265b277384ace *Nirvana_1993-12-10_AUD_DAT1_t14.flac
+d21aa6dd662111781492d3a185fecc36 *Nirvana_1993-12-10_AUD_DAT1_t15.flac
+0f99ffcdede487582ba5f207f6519794 *Nirvana_1993-12-10_AUD_DAT1_t16.flac
+f7d24890c3283027eee14e486c79fbf2 *Nirvana_1993-12-10_AUD_DAT1_t17.flac
+b6b8e7e23ddd7ec194b01105ad616713 *Nirvana_1993-12-10_AUD_DAT1_t18.flac
+2e942ac5f8ae777c2a298b460f2c86a3 *Nirvana_1993-12-10_AUD_DAT1_t19.flac
+488877532b4ae6c34b3861d192577aaf *Nirvana_1993-12-10_AUD_DAT1_t20.flac
+2449c4143aef2a919e390c8373b11d34 *Nirvana_1993-12-10_AUD_DAT1_t21.flac
+c57fa8f1470fb52d4d42b6e4e629f744 *Nirvana_1993-12-10_AUD_DAT1_t22.flac
+d14a96fd6ea7b82bb99872c04179a090 *Nirvana_1993-12-10_AUD_DAT1_t23.flac
+6e2289e516f3ac404d51d74ab3b5f833 *Nirvana_1993-12-10_AUD_DAT1_t24.flac
+83b68e62241a49033b0d4ffdbfe16e76 *Nirvana_1993-12-10_AUD_DAT1_t25.flac
+f60d7ea1351ce25c32d84bce4bad7ce4 *Nirvana_1993-12-10_AUD_DAT1_t26.flac
+
+TRANSFERRED BY:
+Pierre Leroy
+
+**PLEASE DO NOT ENCODE TO LOSSY FORMATS OR SELL!**

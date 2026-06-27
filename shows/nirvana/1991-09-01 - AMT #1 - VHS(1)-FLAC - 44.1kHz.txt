@@ -1,0 +1,52 @@
+NIRVANA
+September 1, 1991
+De Doelen (Ein Abend in Wien)
+Rotterdam, The Netherlands
+
+DISC #1/1 (49:22)
+-----------------
+01) intro
+02) Polly
+03) Drain You 
+04) School
+05) Floyd The Barber
+06) Smells Like Teen Spirit
+07) Come As You Are
+08) About A Girl
+09) Breed
+10) Sliver
+11) In Bloom
+12) Been A Son
+13) Negative Creep (part of)
+
+GENERATION
+-----------------
+VHS(1) -> WAV [48kHz] -> WAV [44.1kHz] -> FLAC [Level 8]
+
+SOURCE (AMT#1)
+-----------------
+unknown -> unknown
+
+TRANSFER
+-----------------
+JVC HR-S9500 -> Hosa RCA cable -> LynxONE analog-in -> Adobe Audition 3.0 -> CD Wave 1.96.1 -> FLAC Frontend 1.7.1
+
+MD5 FINGERPRINTS
+-----------------
+296cd73e9856bebf1bd655fe76b21441 *nirvana1991-09-01t01.flac
+e813b7c2ccad3a8f7412f23d6c5ce94e *nirvana1991-09-01t02.flac
+54601390c7d5fe25cad585e78d70fbb5 *nirvana1991-09-01t03.flac
+022f7e344f08737ee8f378b1d15802c1 *nirvana1991-09-01t04.flac
+573ea65bbef43218deb8a5cef3e82437 *nirvana1991-09-01t05.flac
+6dc9e85d9579dd9c44982f662d7862ff *nirvana1991-09-01t06.flac
+b5933d5f883d74647c4df9c56f75bbc0 *nirvana1991-09-01t07.flac
+ba6b802843371b5ee348850cf14c3137 *nirvana1991-09-01t08.flac
+876082ee5d84bfd422886b160049ae1d *nirvana1991-09-01t09.flac
+2820a9db31a217d560fdddd26b063648 *nirvana1991-09-01t10.flac
+b410f7173a19e810d93771b37f7d9043 *nirvana1991-09-01t11.flac
+d6094f886668af6d691225fa137c9817 *nirvana1991-09-01t12.flac
+5a6e2d49a4e9935ca6844f7efd3674b6 *nirvana1991-09-01t13.flac
+
+
+Transferred by Mike Ziegler.
+PLEASE DO NOT ENCODE TO MP3 OR SELL!

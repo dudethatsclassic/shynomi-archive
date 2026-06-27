@@ -1,0 +1,53 @@
+NIRVANA
+August 23, 1991
+Richfield Avenue (Reading Festival)
+Reading, United Kingdom
+
+SOURCE (AUD #1a):
+unknown > unknown
+
+TRANSFER:
+Tascam DA-20mkII > Apogee S/PDIF cable > LynxONE digital-in > Adobe Audition 3.0 > CD Wave 1.98 > FLAC frontend 1.7.1
+
+GENERATION:
+ANA(2) > DAT(2) > WAV [32kHz] > WAV [44.1kHz] > FLAC [Level 8]
+
+LENGTH:
+39:31
+
+TRACKS:
+01. intro
+02. School
+03. Floyd The Barber (cut)
+04. Drain You
+05. Smells Like Teen Spirit
+06. Come As You Are
+07. Breed
+08. Sliver
+09. Molly's Lips
+10. Love Buzz
+11. Negative Creep
+12. The End (jam)
+13. Blew
+14. Endless, Nameless
+
+MD5 FINGERPRINTS:
+3360a1a7ebd6a1ed8739642126ccc750 *Nirvana_1991-08-23_AUD1a_t01.flac
+8f4e2ce93763719b860868365f816fa2 *Nirvana_1991-08-23_AUD1a_t02.flac
+55753e0d9b45162dd6fb75011eef5baf *Nirvana_1991-08-23_AUD1a_t03.flac
+31adf355e6298a73f9ed6d7dfb14968f *Nirvana_1991-08-23_AUD1a_t04.flac
+e11745e60c85b6faa7b7e8338a16b58f *Nirvana_1991-08-23_AUD1a_t05.flac
+b8793ba4a528f628133812cf7089a1f9 *Nirvana_1991-08-23_AUD1a_t06.flac
+f9f12fa02bb982dbd200a0d4f0be07f7 *Nirvana_1991-08-23_AUD1a_t07.flac
+728facfb6f7d375db6aa060da2f3d58d *Nirvana_1991-08-23_AUD1a_t08.flac
+2cf07dd299582577aa4982b3da38f5b5 *Nirvana_1991-08-23_AUD1a_t09.flac
+f025fe899c47a0d0ce2fd489d2e9dd94 *Nirvana_1991-08-23_AUD1a_t10.flac
+b59aa41465473fb3de07f17c89d46875 *Nirvana_1991-08-23_AUD1a_t11.flac
+4c796628af4c19f2870f4dad55750a56 *Nirvana_1991-08-23_AUD1a_t12.flac
+b1091f8a18133f2e80cedaf795edb3a1 *Nirvana_1991-08-23_AUD1a_t13.flac
+2e9c2ca578be9c44d4c7cd2f1fe2efad *Nirvana_1991-08-23_AUD1a_t14.flac
+
+TRANSFERRED BY:
+Mike Ziegler
+
+PLEASE DO NOT SELL OR ENCODE TO MP3

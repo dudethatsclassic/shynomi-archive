@@ -1,0 +1,55 @@
+NIRVANA
+December 4, 1991
+The Academy
+Manchester, United Kingdom
+
+SOURCE (AUD #1):
+unknown > unknown
+
+EXTRACTION:
+Sony Optiarc AD-7260S > Exact Audio Copy V1.0 > Adobe Audition 3.0 > CD Wave 1.98 > Trader's Little Helper 2.6.0
+
+GENERATION:
+ANA(3) > CDR(2) > WAV [44.1kHz] > FLAC [Level 8]
+
+LENGTH:
+44:46
+
+TRACKS:
+01. unknown
+02. Drain You
+03. Aneurysm
+04. School
+05. Floyd The Barber
+06. Smells Like Teen Spirit
+07. About A Girl
+08. Polly (part of)
+09. (New Wave) Polly
+10. Come As You Are
+11. Lithium
+12. Sliver
+13. Breed
+14. Been A Son
+15. Negative Creep
+
+MD5 FINGERPRINTS:
+e71b000f5fb3588f9302a745f0eb6643 *Nirvana_1991-12-04_AUD1_t01.flac
+4db061217298650bfe89ca0d49c56413 *Nirvana_1991-12-04_AUD1_t02.flac
+901b2ce0069b13d4753c7978b6f8c274 *Nirvana_1991-12-04_AUD1_t03.flac
+d881d45f5d22197d627c40ea2e157a4a *Nirvana_1991-12-04_AUD1_t04.flac
+e53a21006f7c9591c235d42c3f46bbf9 *Nirvana_1991-12-04_AUD1_t05.flac
+ae993a966e7851674dd3549ddc36b2e4 *Nirvana_1991-12-04_AUD1_t06.flac
+65b3b708be8224dc9bd654b1cd6243e4 *Nirvana_1991-12-04_AUD1_t07.flac
+22779930e6455bf2b6e781d6981f04da *Nirvana_1991-12-04_AUD1_t08.flac
+7390b1f6a140e368363fee76bf00f714 *Nirvana_1991-12-04_AUD1_t09.flac
+a9012ce0689125fd61b438e18c3d8306 *Nirvana_1991-12-04_AUD1_t10.flac
+e113e59eb14848229b2539ce53136839 *Nirvana_1991-12-04_AUD1_t11.flac
+5073e867d0f5deec149290779b837b5b *Nirvana_1991-12-04_AUD1_t12.flac
+6afbbe6077cbbd22cc1932f99b79ddf1 *Nirvana_1991-12-04_AUD1_t13.flac
+bb15a0ca8733312c90cf1dbae97f22a1 *Nirvana_1991-12-04_AUD1_t14.flac
+4f26fb2784852a5be7d3fd8e253b7a02 *Nirvana_1991-12-04_AUD1_t15.flac
+
+EXTRACTED BY:
+Mike Ziegler
+
+PLEASE DO NOT SELL OR ENCODE TO MP3

@@ -1,0 +1,35 @@
+Nirvana
+February 04, 1994
+Canal + (Nulle Part Ailleurs)
+Paris, France
+
+SOURCE (PRO #1c):
+Soundboard > Unknown
+
+EXTRACTION:
+Lite-On iHBS-112 > DVD Decrypter 3.5.4.0 > MakeMKV Beta 1.8.5 > MKVToolNix 6.4.1
+
+GENERATION:
+Official DVD 'Live And Loud' [NTSC] > MKV
+
+LENGTH:
+09:58
+
+NOTES:
+- No re-encoding
+- MKV aspect ratio flags have been modified
+- Edited between "Pennyroyal Tea" and "Drain You"
+
+TRACKS:
+01. Rape Me
+02. Pennyroyal Tea
+03. Drain You
+
+MD5 FINGERPRINTS:
+54d25a19aa503eb8e2970c51cebc1bde *Nirvana_1994-02-04_PRO1c_DVD.mkv
+
+EXTRACTED BY:
+P.L.
+
+**DO NOT TRADE**
+**PLEASE DO NOT ENCODE TO LOSSY FORMATS OR SELL!**

@@ -1,0 +1,47 @@
+NIRVANA
+September 16, 1991
+Beehive Music & Video
+Seattle, WA
+
+SOURCE (AMT #2):
+built-in > Sony CCD-TR7
+
+TRANSFER:
+Sony DCR-TRV730 > IEEE 1394 > Sonic Foundry Vegas 4.0 > TMPGEnc Plus 2.5 > Adobe Encore DVD 1.0
+
+GENERATION:
+8MM(M) > AVI [DV25] > M2V/WAV [8Mbps CBR/48kHz PCM] > DVDR(0)
+
+LENGTH:
+40:14
+
+CHAPTERS:
+01. The Green Manalishi (With The Two Pronged Crown) (jam)
+02. Breed
+03. Floyd The Barber
+04. Polly
+05. Smells Like Teen Spirit
+06. Come As You Are
+07. School
+08. Territorial Pissings
+09. Blew
+10. Negative Creep
+11. Been A Son
+12. Something In The Way
+13. Stain
+
+MD5 FINGERPRINTS:
+ce3a47991a93d4e3442a3e121549da0a *VIDEO_TS/VIDEO_TS.BUP
+ce3a47991a93d4e3442a3e121549da0a *VIDEO_TS/VIDEO_TS.IFO
+f34841c704f9fef22a7f5c59daff33d7 *VIDEO_TS/VIDEO_TS.VOB
+2619ab96b6b9aeb684c47d69a0fab196 *VIDEO_TS/VTS_01_0.BUP
+2619ab96b6b9aeb684c47d69a0fab196 *VIDEO_TS/VTS_01_0.IFO
+96469432c416e2b161debb322ae28e82 *VIDEO_TS/VTS_01_0.VOB
+4040dce7b2b65db09ad82e28325ed08b *VIDEO_TS/VTS_01_1.VOB
+7d5b90ef6ee18615f76adefd8adb6145 *VIDEO_TS/VTS_01_2.VOB
+c8cca959840e29223a0badeb2ba11bd3 *VIDEO_TS/VTS_01_3.VOB
+
+TRANSFERRED BY:
+Kris Sproul
+
+PLEASE DO NOT SELL OR ENCODE TO ANY OTHER FORMAT

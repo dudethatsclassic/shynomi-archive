@@ -1,0 +1,63 @@
+NIRVANA
+August 30, 1992
+Richfield Avenue (Reading Festival)
+Reading, United Kingdom
+
+SOURCE (SBD #1a):
+soundboard > unknown
+
+EXTRACTION:
+LG GSA-4163B > Exact Audio Copy V0.95 > Adobe Audition 2.0 > CD Wave 1.95 > FLAC frontend 1.7.1
+
+GENERATION:
+DAT(1) > CDR(1) > WAV [44.1kHz] > FLAC [Level 8]
+
+LENGTH:
+58:32
+
+TRACKS:
+01. Breed
+02. Drain You
+03. Aneurysm
+04. School
+05. Sliver
+06. In Bloom
+07. Come As You Are
+08. Lithium
+09. More Than A Feeling (part of)
+10. Smells Like Teen Spirit
+11. On A Plain
+12. Been A Son
+13. All Apologies
+14. Blew
+15. Dumb
+16. Stay Away
+17. Spank Thru (cuts out)
+18. D-7 (cuts in)
+19. Territorial Pissings
+
+MD5 FINGERPRINTS:
+6da6c0d4cfe1aeee81c6992987e2eb3c *Nirvana_1992-08-30_SBD1a_t01.flac
+c4a5de130e32c3d87a6d46c07a6d9e92 *Nirvana_1992-08-30_SBD1a_t02.flac
+554452e6b08c8351a8257ca3f816b7bc *Nirvana_1992-08-30_SBD1a_t03.flac
+a81ca7089f538a60ccb666557770cff5 *Nirvana_1992-08-30_SBD1a_t04.flac
+64c7d18c10660ca311e5cf7c49cf159b *Nirvana_1992-08-30_SBD1a_t05.flac
+23ea070c2b35e83df867f36852958faa *Nirvana_1992-08-30_SBD1a_t06.flac
+1bfb5560a67c66daba4d3c51ab7caed7 *Nirvana_1992-08-30_SBD1a_t07.flac
+5ffb51390494f1311de36aebe0a4ca39 *Nirvana_1992-08-30_SBD1a_t08.flac
+c5803f59ee3eb1059b5379f43b497f61 *Nirvana_1992-08-30_SBD1a_t09.flac
+f6fba323bec2c4e87bc710701ac21f02 *Nirvana_1992-08-30_SBD1a_t10.flac
+c5c7ea79b462f525c500f3bf6fdaea67 *Nirvana_1992-08-30_SBD1a_t11.flac
+ce08150e6308a38c36da12680f731a9e *Nirvana_1992-08-30_SBD1a_t12.flac
+cdd4cfb860632c4023f3961c772cd348 *Nirvana_1992-08-30_SBD1a_t13.flac
+22605c6678f73038fb13bb6f1f7a0f82 *Nirvana_1992-08-30_SBD1a_t14.flac
+5714bbb26cd8cfd78d3ea278080d3657 *Nirvana_1992-08-30_SBD1a_t15.flac
+052d5bdc95ed31fdb5495e81093c3e83 *Nirvana_1992-08-30_SBD1a_t16.flac
+a6ccb48afa2aba6d183837accc23b38d *Nirvana_1992-08-30_SBD1a_t17.flac
+8beaf963eb490c9683d6ca3a6dae9b44 *Nirvana_1992-08-30_SBD1a_t18.flac
+dcf0642eecca0fd8aa5a22f427228c21 *Nirvana_1992-08-30_SBD1a_t19.flac
+
+EXTRACTED BY:
+unknown
+
+PLEASE DO NOT SELL OR ENCODE TO MP3

@@ -1,0 +1,72 @@
+NIRVANA
+November 25, 1990
+The Off Ramp
+Seattle, WA
+
+DISC #1/1 (73:03)
+-----------------
+01) intro
+02) Aneurysm
+03) Oh, The Guilt
+04) Mr. Moustache
+05) Stay Away
+06) Breed
+07) Floyd The Barber
+08) About A Girl
+09) Verse Chorus Verse
+10) In Bloom
+11) Swap Meet
+12) Been A Son
+13) Stain
+14) Blew
+15) Sappy (cut)
+16) Lithium
+17) School
+18) D-7
+19) Here She Comes Now
+20) Sliver
+21) Dive (part of)
+
+GENERATION
+-----------------
+ANA(1) -> WAV [48kHz] -> WAV [44.1kHz] -> FLAC [Level 8]
+
+SOURCE (SBD#1)
+-----------------
+soundboard -> unknown
+
+TRANSFER
+-----------------
+Nakamichi CR-7A -> Hosa RCA cable -> LynxONE analog-in -> Adobe Audition 2.0 -> CD Wave 1.95.1 -> FLAC Frontend 1.7.1
+
+NOTES
+-----------------
+Some level adjustments were made on this version!  This is NOT the raw transfer.
+
+MD5 FINGERPRINTS
+-----------------
+b68c1b7560c663d86e31dbd258066e82 *nirvana1990-11-25_EDIT_t01.flac
+3cec064a6c0d0c572778f57e85437a1d *nirvana1990-11-25_EDIT_t02.flac
+fd783b14eeb0d1abe27d3fbaca755ea2 *nirvana1990-11-25_EDIT_t03.flac
+8de2c782fc318ec54fc4c0016604f0c8 *nirvana1990-11-25_EDIT_t04.flac
+83396ddad51d016549ae491dabf4693a *nirvana1990-11-25_EDIT_t05.flac
+1a75fd8b246791c7444e7827ef23b2a6 *nirvana1990-11-25_EDIT_t06.flac
+479c244f719cdc4c61dd7d633e001081 *nirvana1990-11-25_EDIT_t07.flac
+34a45205a14d9d20b9fa4f8528b77bd9 *nirvana1990-11-25_EDIT_t08.flac
+9cde8ca0303a34726aac4fd9893a1783 *nirvana1990-11-25_EDIT_t09.flac
+16351dc5ffb9ddc264a9de08d8565aa7 *nirvana1990-11-25_EDIT_t10.flac
+fca38df49a47957d5937c6829ac2a770 *nirvana1990-11-25_EDIT_t11.flac
+bf9df0cd5c859694a9af4001892aad54 *nirvana1990-11-25_EDIT_t12.flac
+df4af13fbd0f9297273a614032abc2e9 *nirvana1990-11-25_EDIT_t13.flac
+11d36ba5b4a5f36f69f6cff59a2ee5f7 *nirvana1990-11-25_EDIT_t14.flac
+9d38d15a4c1904ed1d93eafe93521b04 *nirvana1990-11-25_EDIT_t15.flac
+b0707a2623b502cc6798925eb0287881 *nirvana1990-11-25_EDIT_t16.flac
+48dfc2eb8c31212ccc19e5880db4c283 *nirvana1990-11-25_EDIT_t17.flac
+c44e960ea4490d674e622fc1cecf664d *nirvana1990-11-25_EDIT_t18.flac
+0febaf3f6d359550bdd38ebbdb4eea8c *nirvana1990-11-25_EDIT_t19.flac
+390225df746b307c10d23e1fc85be9be *nirvana1990-11-25_EDIT_t20.flac
+b93343556b8750cd5d83e374863bccef *nirvana1990-11-25_EDIT_t21.flac
+
+
+Transferred by Mike Ziegler.
+PLEASE DO NOT ENCODE TO MP3 OR SELL!

@@ -1,0 +1,51 @@
+NIRVANA
+November 27, 1991
+The Hummingbird
+Birmingham, United Kingdom
+
+SOURCE (AMT #1):
+built-in > unknown
+
+TRANSFER:
+Sony DCR-TRV320E > IEEE 1394 > Adobe Premiere Pro 3.0 > Adobe Audition 3.0 > CD Wave 1.98 > Trader's Little Helper 2.4.1
+
+GENERATION:
+VID8(M) > AVI [PCM] > WAV [48kHz] > WAV [44.1kHz] > FLAC [Level 8]
+
+LENGTH:
+46:40
+
+TRACKS:
+01. intro
+02. Drain You (cut)
+03. Aneurysm (cut)
+04. Floyd The Barber
+05. Smells Like Teen Spirit
+06. About A Girl
+07. Polly
+08. Lithium
+09. Sliver
+10. Been A Son
+11. On A Plain
+12. Negative Creep
+13. Endless, Nameless
+
+MD5 FINGERPRINTS:
+5dba5b41fccb5669387997d522a049dc *Nirvana_1991-11-27_late_AMT1_t01.flac
+2b0f39a20ff15643c29ea13cdb04ee4c *Nirvana_1991-11-27_late_AMT1_t02.flac
+c8c47020768503342312deb844fe6556 *Nirvana_1991-11-27_late_AMT1_t03.flac
+0cf855e4ef0327b62f8e7908dffdffc7 *Nirvana_1991-11-27_late_AMT1_t04.flac
+1527f3f4ea4955e5e0211da2f1c8a3c7 *Nirvana_1991-11-27_late_AMT1_t05.flac
+2e071f16ba58b4c6e6ca97f105c39bcb *Nirvana_1991-11-27_late_AMT1_t06.flac
+ac4d55d1e94ef8634c2c8761be004dd5 *Nirvana_1991-11-27_late_AMT1_t07.flac
+73521549263210535e64d9c6f8293fd7 *Nirvana_1991-11-27_late_AMT1_t08.flac
+0e60c1c3d2274ac7dc8a29eded1aba61 *Nirvana_1991-11-27_late_AMT1_t09.flac
+56270b7c48a67e2b6285a18d346c3a2f *Nirvana_1991-11-27_late_AMT1_t10.flac
+52df50226ab173b1670cbaed0c333e2f *Nirvana_1991-11-27_late_AMT1_t11.flac
+75b090f6d7bca3494548c5d0e3af1a1c *Nirvana_1991-11-27_late_AMT1_t12.flac
+ae77c7422c4c7954838d9b3a121f32b2 *Nirvana_1991-11-27_late_AMT1_t13.flac
+
+TRANSFERRED BY:
+David Willhauk
+
+PLEASE DO NOT SELL OR ENCODE TO MP3

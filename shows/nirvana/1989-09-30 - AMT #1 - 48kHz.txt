@@ -1,0 +1,29 @@
+NIRVANA
+September 30, 1989
+Cabaret Metro
+Chicago, IL
+
+SETLIST (30:47)
+-----------------
+intro / School / Scoff / Love Buzz (cut) / Floyd The Barber / Dive / 
+Polly (cut) / Big Cheese (cut) / Spank Thru (cut) / About A Girl 
+
+GENERATION
+-----------------
+VHS(M) -> DVDR(1) [256kbps AC3] -> AC3 [256kbps] -> WAV [48kHz] -> FLAC [Level 8]
+
+SOURCE (AMT#1)
+-----------------
+built-in -> unknown
+
+EXTRACTION
+-----------------
+TSSTCorp SH-S182D -> DVD Decrypter 3.5.4.0 -> BeSweet v1.4 -> Adobe Audition 3.0 -> FLAC Frontend 1.7.1
+
+MD5 FINGERPRINTS
+-----------------
+142c463f35e08f38d4f7fa649c186000 *nirvana1989-09-30_48.flac
+
+
+Extracted by Mike Ziegler.
+PLEASE DO NOT ENCODE TO MP3 OR SELL!

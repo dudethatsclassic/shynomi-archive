@@ -1,0 +1,67 @@
+NIRVANA
+October 31, 1991
+Paramount Theatre
+Seattle, WA
+
+SOURCE (AUD #1):
+Sonic Studios DSM-6P > Casio DA-R100
+
+TRANSFER:
+Sony PCM-M1 > M-Audio Transit > Peak 5.2 > Adobe Audition 2.0 > CD Wave 1.95.1 > FLAC frontend 1.7.1
+
+GENERATION:
+DAT(M) [48kHz] > WAV [48kHz] > WAV [44.1kHz] > FLAC [Level 8]
+
+LENGTH:
+72:19
+
+TRACKS:
+01. intro
+02. Jesus Wants Me For A Sunbeam
+03. Aneurysm
+04. Drain You
+05. School
+06. Floyd The Barber
+07. jam
+08. Smells Like Teen Spirit
+09. About A Girl
+10. Polly
+11. Breed
+12. Sliver
+13. Love Buzz
+14. Lithium
+15. Been A Son
+16. Negative Creep
+17. On A Plain
+18. Blew
+19. Rape Me
+20. Territorial Pissings
+21. Endless, Nameless
+
+MD5 FINGERPRINTS:
+ec37d0b69000dd334a60117c0f016d30 *Nirvana_1991-10-31_AUD1_t01.flac
+c569a394985d2d534065f35d739def28 *Nirvana_1991-10-31_AUD1_t02.flac
+75ea0997fedd569c5838928025facc16 *Nirvana_1991-10-31_AUD1_t03.flac
+9818dcdef496405b3afa4a4eb9aaea58 *Nirvana_1991-10-31_AUD1_t04.flac
+599fac64050cb06e83fd3b8a44d305b5 *Nirvana_1991-10-31_AUD1_t05.flac
+4e0701bc56e1c2065bd391ab57548d57 *Nirvana_1991-10-31_AUD1_t06.flac
+aed486bec948d23d6c4f360864d8c535 *Nirvana_1991-10-31_AUD1_t07.flac
+7fb402eabf0eff022fb52d6e7e4f4313 *Nirvana_1991-10-31_AUD1_t08.flac
+fb0d2e77b2debf46d4d0ce0197a2d264 *Nirvana_1991-10-31_AUD1_t09.flac
+97ff45a11fa63d68181ce8d6fe466c5e *Nirvana_1991-10-31_AUD1_t10.flac
+e73ae4c9e4f21ac8bdc368fc9ff64711 *Nirvana_1991-10-31_AUD1_t11.flac
+5d5d4b67d03b975a1a9d5c4d2257a4fa *Nirvana_1991-10-31_AUD1_t12.flac
+578e939db2c98c6cdabd4a41e4382d34 *Nirvana_1991-10-31_AUD1_t13.flac
+3af942ad1a980c3633d11cf8f9fff58d *Nirvana_1991-10-31_AUD1_t14.flac
+429fd2155a5c4a56764bd653ab4d67ae *Nirvana_1991-10-31_AUD1_t15.flac
+ffecabf1af60ff97e1d92b6ce7b6c6a5 *Nirvana_1991-10-31_AUD1_t16.flac
+f736cf53283a1d58126e67d4a921f012 *Nirvana_1991-10-31_AUD1_t17.flac
+38e10c3206a84f97815e49a007dcb55d *Nirvana_1991-10-31_AUD1_t18.flac
+f67227670d773b0012f59f5582535b64 *Nirvana_1991-10-31_AUD1_t19.flac
+a86973608f40504de0df64c1d09b7f46 *Nirvana_1991-10-31_AUD1_t20.flac
+edc06b7258daa640c2bd9b33f827297d *Nirvana_1991-10-31_AUD1_t21.flac
+
+TRANSFERRED BY:
+JEMS
+
+PLEASE DO NOT SELL OR ENCODE TO MP3

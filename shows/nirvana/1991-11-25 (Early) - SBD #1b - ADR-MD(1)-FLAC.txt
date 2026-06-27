@@ -1,0 +1,29 @@
+NIRVANA
+November 25, 1991
+NOB radiostudio (2 Meter Sessie)
+Hilversum, The Netherlands
+
+SOURCE (SBD #1b):
+soundboard > unknown
+
+TRANSFER:
+Sony MDS-JE700 > Avant Pro (optical cable) > Creative SB Platinum EX > Adobe Audition 2.0 > CD Wave 1.94.2 beta
+
+GENERATION:
+ADR > MD(1) > WAV [44.1kHz] > FLAC [Level 8]
+
+LENGTH:
+9:43
+
+TRACKS:
+01. Where Did You Sleep Last Night
+02. Here She Comes Now
+
+MD5 FINGERPRINTS:
+35980143 16:29.33 2006-07-08 Track01.flac
+34685622 16:30.01 2006-07-08 Track02.flac
+
+TRANSFERRED BY:
+Andreas Magnusson
+
+***DO NOT SELL OR ENCODE TO MP3!***

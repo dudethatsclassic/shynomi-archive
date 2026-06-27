@@ -1,0 +1,51 @@
+NIRVANA
+September 16, 1991
+Beehive Music & Video
+Seattle, WA
+
+SOURCE (AMT #2):
+built-in > Sony CCD-TR7
+
+TRANSFER:
+Sony DCR-TRV730 > Tascam DA-30mkII > Echo Layla24 > Adobe Audition 1.5 > CD Wave 1.94 > FLAC frontend 1.7.1
+
+GENERATION:
+8MM(M) > WAV [48kHz] > WAV [44.1kHz] > FLAC [Level 8]
+
+LENGTH:
+40:14
+
+TRACKS:
+01. The Green Manalishi (With The Two Pronged Crown) (jam)
+02. Breed
+03. Floyd The Barber
+04. Polly
+05. Smells Like Teen Spirit
+06. Come As You Are
+07. School
+08. Territorial Pissings
+09. Blew
+10. Negative Creep
+11. Been A Son
+12. Something In The Way
+13. Stain
+
+MD5 FINGERPRINTS:
+976c35874d0e2f1a6273146fb9d15976 *Nirvana_1991-09-16_AMT2_t01.flac
+6b5ebe67ff3a7f3a003676169a988ca4 *Nirvana_1991-09-16_AMT2_t02.flac
+c44cefdb41346d6d90e35cfb1178ce0a *Nirvana_1991-09-16_AMT2_t03.flac
+de6ffc696ff6a60d290fabbd71f452a0 *Nirvana_1991-09-16_AMT2_t04.flac
+8108d1fce471ceede01c177d22e97505 *Nirvana_1991-09-16_AMT2_t05.flac
+a1ee98e17d8a239a0099882ddf6baa5e *Nirvana_1991-09-16_AMT2_t06.flac
+12045567c2337c8fc14a2986d91836fb *Nirvana_1991-09-16_AMT2_t07.flac
+70fc6eb78627d423d0e68cf593f94f68 *Nirvana_1991-09-16_AMT2_t08.flac
+bcd585ce43007a90832d26b2272e59e7 *Nirvana_1991-09-16_AMT2_t09.flac
+e4f5abd92e0b77a9cca180d40cd21948 *Nirvana_1991-09-16_AMT2_t10.flac
+e60689135e190d4548a0e8a78ac150c1 *Nirvana_1991-09-16_AMT2_t11.flac
+bfcd5be7fbd018675e39e9a2f44e4466 *Nirvana_1991-09-16_AMT2_t12.flac
+3840c3ae82ad8992e76ef607952556ff *Nirvana_1991-09-16_AMT2_t13.flac
+
+TRANSFERRED BY:
+Kris Sproul
+
+PLEASE DO NOT SELL OR ENCODE TO MP3

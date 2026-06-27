@@ -1,0 +1,66 @@
+NIRVANA
+December 13, 1993
+Pier 48 (MTV Live And Loud)
+Seattle, WA
+
+SOURCE (AMT #1):
+unknown > unknown
+
+TRANSFER:
+Panasonic PV-4559 > Sony DCR-HC85 > IEEE 1394 > Adobe Premiere 6.0 > Adobe Audition 1.5 > CD Wave 1.93 beta > FLAC frontend 1.7.1
+
+GENERATION:
+VHS(1) > MDV(1) > AVI [DV25] > WAV [48kHz] > WAV [44.1kHz] > FLAC [Level 8]
+
+LENGTH:
+71:06
+
+NOTES:
+- Has a dropout during the end-of-show jam.
+
+TRACKS:
+01. intro (backstage)
+02. Radio Friendly Unit Shifter
+03. Drain You
+04. Breed
+05. Serve The Servants
+06. Rape Me
+07. Sliver (cut)
+08. Pennyroyal Tea
+09. Scentless Apprentice
+10. All Apologies
+11. Heart-Shaped Box
+12. Blew
+13. The Man Who Sold The World
+14. School (cuts out)
+15. Come As You Are (cuts in, cuts out)
+16. Lithium (cuts in)
+17. About A Girl
+18. Endless, Nameless
+19. jam
+
+MD5 FINGERPRINTS:
+aaa6fddb37c7cada52d6564549caf920 *Nirvana_1993-12-13_late_AMT1_t01.flac
+d300e70da0ffb8c13fee7eb3b1fc514b *Nirvana_1993-12-13_late_AMT1_t02.flac
+9eddee557ffc3f46a6262288c270ea2f *Nirvana_1993-12-13_late_AMT1_t03.flac
+c1dc1fab8518a9fd65ba04d0a87e7633 *Nirvana_1993-12-13_late_AMT1_t04.flac
+a94ea31270904cd00d724e719048bf48 *Nirvana_1993-12-13_late_AMT1_t05.flac
+50a5b95064fb7fe8a814b28fb985a419 *Nirvana_1993-12-13_late_AMT1_t06.flac
+bed9aaca53ab8e73312cea72df3b24eb *Nirvana_1993-12-13_late_AMT1_t07.flac
+a5424888baab41376570788fb8886bd0 *Nirvana_1993-12-13_late_AMT1_t08.flac
+336efa2ce3954b600cc2f80dd4397ad7 *Nirvana_1993-12-13_late_AMT1_t09.flac
+7dd0971b1c87778799e66213d7ebe9b8 *Nirvana_1993-12-13_late_AMT1_t10.flac
+0715c6c0408ba69ca1274fd61ed9c989 *Nirvana_1993-12-13_late_AMT1_t11.flac
+18224165c6a7de583bc24bc83f0aef44 *Nirvana_1993-12-13_late_AMT1_t12.flac
+385b9d0625155189bd5a4ed63d844d5f *Nirvana_1993-12-13_late_AMT1_t13.flac
+38836e7c109d3e5e7390cfc4ebb754f1 *Nirvana_1993-12-13_late_AMT1_t14.flac
+d9ed5ccfeab190189e274bd5928bf354 *Nirvana_1993-12-13_late_AMT1_t15.flac
+99a7ba5da72d6f8d98b68776859ef8f9 *Nirvana_1993-12-13_late_AMT1_t16.flac
+4176b0924b8fe8a8ec6ecca246701989 *Nirvana_1993-12-13_late_AMT1_t17.flac
+cdf4f8d44b3c294025c04305bd5a4d15 *Nirvana_1993-12-13_late_AMT1_t18.flac
+e64c8f0d26082442adb067380f1562a9 *Nirvana_1993-12-13_late_AMT1_t19.flac
+
+TRANSFERRED BY:
+Thomas Fang
+
+PLEASE DO NOT SELL OR ENCODE TO MP3

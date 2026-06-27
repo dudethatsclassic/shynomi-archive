@@ -1,0 +1,55 @@
+NIRVANA
+April 10, 1990
+Blind Pig
+Ann Arbor, MI
+
+SOURCE (AMT #2):
+unknown > unknown
+
+TRANSFER:
+JVC HR-S9911U > Canopus ADVC-300 > IEEE 1394 > Adobe Premiere Pro CS5 > Adobe Audition 3.0 > CD Wave 1.98 > Trader's Little Helper 2.6.0
+
+GENERATION:
+VHS(2) > AVI [PCM] > WAV [48kHz] > WAV [44.1kHz] > FLAC [Level 8]
+
+LENGTH:
+52:46
+
+TRACKS:
+01. intro
+02. School
+03. Floyd The Barber
+04. Love Buzz (cuts in)
+05. Dive
+06. Spank Thru
+07. Breed
+08. About A Girl
+09. Big Cheese
+10. Scoff
+11. Molly's Lips
+12. Stain
+13. Been A Son
+14. Negative Creep
+15. Blew
+
+MD5 FINGERPRINTS:
+2775fbe552b7fee24e07f4cae5ceb441 *Nirvana_1990-04-10_AMT2_t01.flac
+4a54f646ad00aa0060a249a3b5877766 *Nirvana_1990-04-10_AMT2_t02.flac
+7066a5d10cb399fe1a8391e904f9bcaf *Nirvana_1990-04-10_AMT2_t03.flac
+f47dacc7c31b742687050286c7288068 *Nirvana_1990-04-10_AMT2_t04.flac
+75fd20f93c719b7d67a94a2299a6b99f *Nirvana_1990-04-10_AMT2_t05.flac
+a4dfad2589f51fec4d92e815cf4fd287 *Nirvana_1990-04-10_AMT2_t06.flac
+519e87622cc73c9b64ea3d3caa91c068 *Nirvana_1990-04-10_AMT2_t07.flac
+3866b450b0b8c9b35e6367f9179ef209 *Nirvana_1990-04-10_AMT2_t08.flac
+878efc94cf9054faaafaa40eec1af05a *Nirvana_1990-04-10_AMT2_t09.flac
+c92f8e66739f00c1c83c9e210497bddb *Nirvana_1990-04-10_AMT2_t10.flac
+b566c181c35525834a89ee0f88ede65e *Nirvana_1990-04-10_AMT2_t11.flac
+8dffe165c1cee509b5cc6a5713e20d72 *Nirvana_1990-04-10_AMT2_t12.flac
+df50f0c8f38c599f6d478610a2ba583a *Nirvana_1990-04-10_AMT2_t13.flac
+39a3d09f78fa16f6f3cb68d503242f6b *Nirvana_1990-04-10_AMT2_t14.flac
+be63800e0d6f91f534351a1610df6d17 *Nirvana_1990-04-10_AMT2_t15.flac
+
+TRANSFERRED BY:
+Mike Ziegler
+
+PLEASE DO NOT SELL OR ENCODE TO MP3

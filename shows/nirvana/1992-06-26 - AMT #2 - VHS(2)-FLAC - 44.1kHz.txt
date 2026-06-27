@@ -1,0 +1,35 @@
+NIRVANA
+June 26, 1992
+Dyrskuepladsen (Roskilde Festival)
+Roskilde, Denmark
+
+SOURCE (AMT #2):
+unknown > unknown
+
+TRANSFER:
+JVC HR-S9911U > Echo Layla24 > Adobe Audition 2.0 > CD Wave 1.94.8 > FLAC frontend 1.7.1
+
+GENERATION:
+VHS(2) > WAV [48kHz] > WAV [44.1kHz] > FLAC [Level 8]
+
+LENGTH:
+14:13
+
+TRACKS:
+01. intro
+02. Aneurysm
+03. Drain You
+04. Stay Away
+05. Sliver (cuts out)
+
+MD5 FINGERPRINTS:
+52f2af6cfe201833b6b4f76140bd2a41 *Nirvana_1992-06-26_AMT2_t01.flac
+30dff92acd53b4d258b73cfbe4b2b076 *Nirvana_1992-06-26_AMT2_t02.flac
+7c4b64ada90f373e66ca9d0c024a5fb4 *Nirvana_1992-06-26_AMT2_t03.flac
+f776ae534db343f6dbec4d4ced7e9dec *Nirvana_1992-06-26_AMT2_t04.flac
+fa8e3e30a4681416cbbec1ba1c6d5cf1 *Nirvana_1992-06-26_AMT2_t05.flac
+
+TRANSFERRED BY:
+Kris Sproul
+
+PLEASE DO NOT SELL OR ENCODE TO MP3

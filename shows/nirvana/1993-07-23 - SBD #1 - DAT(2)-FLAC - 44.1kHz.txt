@@ -1,0 +1,52 @@
+NIRVANA
+July 23, 1993
+Roseland Ballroom (New Music Seminar)
+New York, NY
+
+DISC #1/1 (43:25)
+-----------------
+01) Scentless Apprentice (cut)
+02) School
+03) Breed
+04) Lithium
+05) Come As You Are
+06) Milk It
+07) Drain You
+08) tourette's
+09) Aneurysm
+10) Very Ape
+11) Blew
+12) Heart-Shaped Box
+13) Rape Me (cut)
+
+GENERATION
+-----------------
+DAT(M) -> DAT(2) -> WAV [48kHz] -> WAV [44.1kHz] -> FLAC [Level 8]
+
+SOURCE (SBD#1)
+-----------------
+soundboard -> Sony TCD-D3
+
+TRANSFER
+-----------------
+Tascam DA-20 MKII -> Apogee S/PDIF cable -> LynxONE digital-in -> Adobe Audition 2.0 -> CD Wave 1.95.1 -> FLAC Frontend 1.7.1
+
+MD5 FINGERPRINTS
+-----------------
+9ddafef07508cd336d6fa4f7ee7f97c6 *nirvana1993-07-23t01.flac
+c832a2d072e257c5e6ada33b2f59cdae *nirvana1993-07-23t02.flac
+d7350d5f87723d9d24d046d6ab7a35fa *nirvana1993-07-23t03.flac
+f07167a179d2a96bd58b64db6a85d613 *nirvana1993-07-23t04.flac
+a8940700c4f926eb30d10ebb25ae8646 *nirvana1993-07-23t05.flac
+8c5251636f67350317a7ad5ed9d5c994 *nirvana1993-07-23t06.flac
+3a54318b89d19ffc340f76ac330f8fe5 *nirvana1993-07-23t07.flac
+98ae9003c14f4576f2ea47ec57d1b3b4 *nirvana1993-07-23t08.flac
+9e3b7b2259ca2ac07e181fdd40f1bdcc *nirvana1993-07-23t09.flac
+df0fe55e8fefe912e117f51e3ca44095 *nirvana1993-07-23t10.flac
+cb7dba217dabeb1a38b5c12ea42d204c *nirvana1993-07-23t11.flac
+4110679f4e1d9ce8c853a818c542bed6 *nirvana1993-07-23t12.flac
+8911791e4d77ae2695b0c92cbdf22e6f *nirvana1993-07-23t13.flac
+
+
+Transferred by Mike Ziegler.
+PLEASE DO NOT ENCODE TO MP3 OR SELL!

@@ -1,0 +1,79 @@
+NIRVANA
+August 30, 1992
+Richfield Avenue (Reading Festival)
+Reading, United Kingdom
+
+DISC #1/1 (78:00)
+-----------------
+01) Breed
+02) Drain You
+03) Aneurysm
+04) School
+05) Sliver
+06) In Bloom
+07) Come As You Are
+08) Lithium
+09) About A Girl
+10) tourette's
+11) Polly
+12) Lounge Act
+13) Smells Like Teen Spirit
+14) On A Plain
+15) Negative Creep
+16) Been A Son
+17) All Apologies
+18) Blew
+19) Dumb
+20) Stay Away
+21) Spank Thru
+22) The Money Will Roll Right In
+23) D-7
+24) Territorial Pissings > The Star-Spangled Banner (part of)
+
+SOURCE (PRO #2b)
+-----------------
+soundboard > unknown
+
+GENERATION
+-----------------
+Official CD "Live At Reading Festival" -> WAV [44.1kHz] -> FLAC [Level 8]
+
+EXTRACTION
+-----------------
+Lite-On iHBS-112 -> Exact Audio Copy v1.0 beta 3 -> FLAC Frontend 1.7.1
+
+NOTES
+----------------- 
+- missing "More Than A Feeling," the "Smoke On The Water" jam, "Love Buzz," and most between-song banter
+- fake crowd noise added over
+
+MD5 FINGERPRINTS
+-----------------
+7542b8d6fb786f6172ec4f3371133302 *Nirvana_1992-08-30_PRO2b_t01.flac
+e07aff70f6f9897046149473f69722f2 *Nirvana_1992-08-30_PRO2b_t02.flac
+a38aa9a57b9548400881e8694fba951f *Nirvana_1992-08-30_PRO2b_t03.flac
+e2becccceee68117706e492fdba2277c *Nirvana_1992-08-30_PRO2b_t04.flac
+7ac09f22ff99fe0bee09457e63766fd1 *Nirvana_1992-08-30_PRO2b_t05.flac
+cb971289580a8df85852e8cd2a071a3c *Nirvana_1992-08-30_PRO2b_t06.flac
+7d1d13a9b988c3a8f4b4ecb39fe58ae6 *Nirvana_1992-08-30_PRO2b_t07.flac
+c7ba75f79c91c805fa4f831ca350a469 *Nirvana_1992-08-30_PRO2b_t08.flac
+7b9a161409f4f518324a46ea8b4fc763 *Nirvana_1992-08-30_PRO2b_t09.flac
+9b3d42a548f37b086b09e001e53cf2e8 *Nirvana_1992-08-30_PRO2b_t10.flac
+214a19f2f557fd144937fce6e5ebed5b *Nirvana_1992-08-30_PRO2b_t11.flac
+462588091b5a87985f03cf7d5954f167 *Nirvana_1992-08-30_PRO2b_t12.flac
+b8b7fc318327d611b8902fa45f06faec *Nirvana_1992-08-30_PRO2b_t13.flac
+329988e563b5dc141dca53f15fe892d3 *Nirvana_1992-08-30_PRO2b_t14.flac
+79577d4ae97387bc8c184ca34bef3864 *Nirvana_1992-08-30_PRO2b_t15.flac
+52480a7b9d94270e9dc36e59172421db *Nirvana_1992-08-30_PRO2b_t16.flac
+06d2b4a051dd4d8b795a0131797d6707 *Nirvana_1992-08-30_PRO2b_t17.flac
+af5465f30294951ab64878d3cfd7d611 *Nirvana_1992-08-30_PRO2b_t18.flac
+d491935f4c106c886dee9bcee919d434 *Nirvana_1992-08-30_PRO2b_t19.flac
+77866399559c74e8e3884da04489012c *Nirvana_1992-08-30_PRO2b_t20.flac
+1007e71cdb2d84dce4eb087ecc6904ba *Nirvana_1992-08-30_PRO2b_t21.flac
+c1b8ef1a461ee2627bf8564904817473 *Nirvana_1992-08-30_PRO2b_t22.flac
+fbc579a536bf1286976e1c962b794706 *Nirvana_1992-08-30_PRO2b_t23.flac
+decb5240c4de58e423141dfe7535251a *Nirvana_1992-08-30_PRO2b_t24.flac
+
+Extracted by PL.
+PLEASE DO NOT ENCODE TO MP3 OR SELL!
+NO TRADE

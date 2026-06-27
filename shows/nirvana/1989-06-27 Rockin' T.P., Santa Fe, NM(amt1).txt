@@ -1,0 +1,36 @@
+NIRVANA
+June 27, 1989
+Rockin' T.P.
+Santa Fe, NM
+
+DISC #1/1 (14:58)
+-----------------
+School (cut) / Floyd The Barber (cut) / Big Cheese (cut) / Spank 
+Thru / Dive (cut) / About A Girl (cut) / Paper Cuts (cut)
+
+GENERATION
+-----------------
+VHS(M) -> AVI [DV25] -> M2V/WAV [8Mbps CBR/48kHz PCM] -> DVDR(0)
+
+SOURCE (AMT#1)
+-----------------
+built-in -> unknown
+
+TRANSFER
+-----------------
+JVC HR-S9911U -> Canopus ADVC55 -> IEEE 1394 -> Adobe Premiere Pro 2.0 -> TMPGEnc Plus 2.5 -> Adobe Encore DVD 2.0
+
+MD5 FINGERPRINTS
+-----------------
+c98174cd5bd03a835843245c03e4260b *VIDEO_TS/VIDEO_TS.BUP
+c98174cd5bd03a835843245c03e4260b *VIDEO_TS/VIDEO_TS.IFO
+ebf137909fb841b9a08fee50d55532e7 *VIDEO_TS/VIDEO_TS.VOB
+b788ca73b298f9fe7f878d31e1a41909 *VIDEO_TS/VTS_01_0.BUP
+b788ca73b298f9fe7f878d31e1a41909 *VIDEO_TS/VTS_01_0.IFO
+3aac9c67eae382e3a9e9210876ba9d07 *VIDEO_TS/VTS_01_0.VOB
+783d0842008fa1f3d1ccf00f17e8e8c4 *VIDEO_TS/VTS_01_1.VOB
+2e44bee7c33d57a02af1543df679e410 *VIDEO_TS/VTS_01_2.VOB
+
+
+Transferred by Mike Ziegler.
+PLEASE DO NOT ENCODE TO MP3 OR SELL!

@@ -1,0 +1,33 @@
+NIRVANA
+February 14, 1994
+Le Zénith
+Paris, France
+
+DISC #1/1 (04:20)
+-----------------
+01) Intro
+02) Rape Me
+
+SOURCE (PRO #1b)
+-----------------
+soundboard -> unknown
+
+GENERATION
+-----------------
+DVB-T -> .TS [MPEG-2 / 224 kbps MP2]
+
+TRANSFER
+-----------------
+Freebox v5 HD (TNT Tuner) -> ProjectX
+
+NOTES
+-----------------
+- rebroadcast on November 23, 2008 on french channel Virgin TV
+- raw unaltered source, the host intro from the broadcast is still uncut.
+
+MD5 FINGERPRINTS
+-----------------
+76ae35efda8e0e19e884f162aea949d7 *Nirvana_1994-02-14_PRO1b.ts
+
+Recorded and transfered by Julien D
+PLEASE DO NOT REENCODE OR SELL

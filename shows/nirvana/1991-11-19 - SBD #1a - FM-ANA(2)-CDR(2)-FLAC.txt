@@ -1,0 +1,58 @@
+NIRVANA
+11/19/91
+Teatro Castello
+Rome, Italy
+
+
+----------------------
+SOURCE: SBD #1a
+----------------------
+Generation : FMB -> ANA(2) -> CD-R(2) -> FLAC
+----------------------
+SETLIST (58:27)
+
+Intro
+Drain You  
+Aneurysm  
+School 
+Floyd The Barber
+Smells Like Teen Spirit 
+About A Girl  
+Polly  
+Lithium  
+Sliver 
+Come As You Are  
+Breed 
+Been A Son  
+Negative Creep  
+On A Plain  
+Blew  
+Rape Me  
+Spank Thru  
+Territorial Pissings
+
+---------------------------
+FLAC Fingerprints
+
+01 Track 01.flac:ba21604fe23c6c40f3d1dd06c1d35ade
+02 Track 02.flac:fe9dad27910e30ae4e867ff94dc7f730
+03 Track 03.flac:bec271ab9957114c4c899af4a2cfe2f1
+04 Track 04.flac:2e9ab25b32e990f48d5d831cae55b312
+05 Track 05.flac:51daf6737e3a647e8ad1d3695bd66562
+06 Track 06.flac:3afe86875763e20706dbc9d09def5f2a
+07 Track 07.flac:70eb03489dc847fa4c2d9454f5570da0
+08 Track 08.flac:6c141458c716ee9a830150f724d61e3f
+09 Track 09.flac:017b05e38bc08a7018bd71964f381fe0
+10 Track 10.flac:315d10c302b1fb42f505cfd39cecdf9c
+11 Track 11.flac:bf43975a3bf902e5fd9a3c0affed3faa
+12 Track 12.flac:6f0fbbda97b588e9c7f70ef16b5c6dfb
+13 Track 13.flac:4ad9aa1d51d418ec30a5ca275ef7a780
+14 Track 14.flac:074c6593e6e9ed4f2e0258f3fa9f3825
+15 Track 15.flac:793a5c2075d2d4ca6f0b08aebae94e9a
+16 Track 16.flac:2f82ab903fbdd0984c786169c4267610
+17 Track 17.flac:481b724cb2e0198c3cb8420addb925ef
+18 Track 18.flac:104d3385727e33d846cbf0a4b31d8761
+19 Track 19.flac:6a071c634835186b62e91a714ef4095a
+
+Ripped And encoded By Bill Schofield
+DO NOT SELL OR ENCODE TO LESSER FORMATS

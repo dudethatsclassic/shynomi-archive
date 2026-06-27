@@ -1,0 +1,79 @@
+NIRVANA
+January 23, 1993
+Praça da Apoteose (Hollywood Rock Festival)
+Rio de Janeiro, Brazil
+
+DISC #1/2 (42:52)
+-----------------
+01) intro
+02) L'Amour Est Un Oiseau Rebelle (jam)
+03) School
+04) Drain You
+05) Breed
+06) Sliver
+07) In Bloom
+08) Come As You Are
+09) Love Buzz
+10) Lithium
+11) Polly
+12) About A Girl
+13) Smells Like Teen Spirit (cut)
+
+DISC #2/2 (43:30)
+-----------------
+01) On A Plain
+02) Negative Creep
+03) Been A Son
+04) Blew
+05) Heart-Shaped Box (cut)
+06) Scentless Apprentice
+07) Sweet Emotion (jam)
+08) Dive
+09) Lounge Act
+10) Aneurysm
+11) Territorial Pissings
+
+GENERATION
+-----------------
+BETA(M) -> VHS(2) -> WAV [48kHz] -> WAV [44.1kHz] -> FLAC [Level 8]
+
+[circulated as BETA(M) -> VHS(1)]
+
+SOURCE (PRO #2c) (circulated as PRO #1d)
+-----------------
+soundboard -> unknown
+
+TRANSFER
+-----------------
+JVC HR-S9911U -> Hosa RCA cable -> LynxONE analog-in -> Adobe Audition 1.5 -> CD Wave 1.94.5 -> FLAC Frontend 1.7.1
+
+MD5 FINGERPRINTS
+-----------------
+22f81d7b8b2a37476bd87604301994fc *nirvana1993-01-23d1t01.flac
+ea0ef519ab679733609ca367a83bc2d6 *nirvana1993-01-23d1t02.flac
+be7c874c89cbdd7daba6b212de54fe87 *nirvana1993-01-23d1t03.flac
+cb0d49e699560282597b36f025a29bc4 *nirvana1993-01-23d1t04.flac
+62f2ec8fe841c54e9d8c262b693bec7f *nirvana1993-01-23d1t05.flac
+ab4f14f8013eea31e39deb51163e7122 *nirvana1993-01-23d1t06.flac
+38f2b27d1f0daddf1734b8d0b6db4c26 *nirvana1993-01-23d1t07.flac
+5c1f46ff9db09a30f3afafb4fc515002 *nirvana1993-01-23d1t08.flac
+6acc37e03663780b1739eb38761b619a *nirvana1993-01-23d1t09.flac
+5a469cad79a3e5939dd01a3ce063494c *nirvana1993-01-23d1t10.flac
+5d38ac496db33ec2c34b1628b95475d0 *nirvana1993-01-23d1t11.flac
+eb85c6cf54a2c46e97cdaf21e3ca8622 *nirvana1993-01-23d1t12.flac
+bb3bdb779414920cca2a35eabf956521 *nirvana1993-01-23d1t13.flac
+c7e1fb1bbda34395d6c5ed735bd92ceb *nirvana1993-01-23d2t01.flac
+986c7ebcbb6916e1e97fff60f7449b83 *nirvana1993-01-23d2t02.flac
+cc573fcc1da3663a36c8e9c8257c6929 *nirvana1993-01-23d2t03.flac
+97e8dd8260bf9f4d8a0928ad19d9be1b *nirvana1993-01-23d2t04.flac
+63c048a09b5dc7c74939ec074f952c69 *nirvana1993-01-23d2t05.flac
+bd2d8016f192a67d2a8751a675c85adf *nirvana1993-01-23d2t06.flac
+cde10cc2ff4b4b917288e7d73fd7a1a3 *nirvana1993-01-23d2t07.flac
+babfebb340cfc613918647f3949fa594 *nirvana1993-01-23d2t08.flac
+b86231cda73352e5424a2e885cd6fb03 *nirvana1993-01-23d2t09.flac
+07c9d1a315b5fc3ea33a59af80304116 *nirvana1993-01-23d2t10.flac
+d3e032683cbd59cad7d4c1aac27eb958 *nirvana1993-01-23d2t11.flac
+
+
+Transferred by Mike Ziegler.
+PLEASE DO NOT ENCODE TO MP3 OR SELL!

@@ -1,0 +1,61 @@
+NIRVANA
+May 29, 1991
+Jabberjaw
+Los Angeles, CA
+
+SOURCE (AUD #1b):
+unknown > Toshiba KT-4087
+
+TRANSFER:
+Nakamichi DR-8 > Echo Layla24 > Adobe Audition 2.0 > CD Wave 1.96.1 > FLAC frontend 1.7.1
+
+GENERATION:
+ANA(x) > WAV [48kHz] > WAV [44.1kHz] > FLAC [Level 8]
+
+LENGTH:
+61:42
+
+TRACKS:
+01. intro
+02. Blew
+03. Been A Son
+04. Stain
+05. On A Plain
+06. Smells Like Teen Spirit
+07. Love Buzz
+08. Lithium
+09. Floyd The Barber
+10. About A Girl
+11. Breed
+12. School
+13. Play That Funky Music (jam) (cuts in)
+14. Dive
+15. Polly
+16. Come As You Are
+17. Sliver
+18. Territorial Pissings
+
+MD5 FINGERPRINTS:
+379e48c4745e9411196792ab2265f067 *Nirvana_1991-05-29_AUD1b_t01.flac
+84e571ebd7a69b5aa97692e416eb5a6d *Nirvana_1991-05-29_AUD1b_t02.flac
+7edb269566e0c7183afe654efe2f65bf *Nirvana_1991-05-29_AUD1b_t03.flac
+31c4a7941572c8f8f1f17430c7dd9e6a *Nirvana_1991-05-29_AUD1b_t04.flac
+87cd1fab082dd1a6bec3556073f4fdb9 *Nirvana_1991-05-29_AUD1b_t05.flac
+90c498bbf9ff1aa9fbdf49afdc31d271 *Nirvana_1991-05-29_AUD1b_t06.flac
+08ef8da370c306c96cff0ef8e011c3ec *Nirvana_1991-05-29_AUD1b_t07.flac
+8783e6a7c58df0b380133dc2f6a60360 *Nirvana_1991-05-29_AUD1b_t08.flac
+52c605981d52d1fae8259e751fc015e1 *Nirvana_1991-05-29_AUD1b_t09.flac
+2f36b399310366152a610b50f59e7fb7 *Nirvana_1991-05-29_AUD1b_t10.flac
+8fc9f88b69522786a57911b19c5f1c17 *Nirvana_1991-05-29_AUD1b_t11.flac
+609f851a61315a47c08e1be58ce583d6 *Nirvana_1991-05-29_AUD1b_t12.flac
+10358db61188aca5193322523d5d360d *Nirvana_1991-05-29_AUD1b_t13.flac
+5039f59eac102cdd3322d800d50785c4 *Nirvana_1991-05-29_AUD1b_t14.flac
+ed25100060246137635855d82b393d2a *Nirvana_1991-05-29_AUD1b_t15.flac
+6a0f18ed73ef1a5df1469bf372c5ea16 *Nirvana_1991-05-29_AUD1b_t16.flac
+1d65644bfcac0255b8bd9ac6e1a8bca1 *Nirvana_1991-05-29_AUD1b_t17.flac
+a8c590d0e831f21bfbfabd3387149142 *Nirvana_1991-05-29_AUD1b_t18.flac
+
+TRANSFERRED BY:
+Kris Sproul
+
+PLEASE DO NOT SELL OR ENCODE TO MP3

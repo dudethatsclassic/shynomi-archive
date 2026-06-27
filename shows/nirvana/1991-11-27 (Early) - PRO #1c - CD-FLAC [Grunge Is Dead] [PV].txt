@@ -1,0 +1,27 @@
+NIRVANA
+November 27, 1991
+BBC Elstree Centre (Top of the Pops)
+Borehamwood, United Kingdom
+
+SOURCE (PRO #1c):
+soundboard > unknown
+
+EXTRACTION:
+Philips DVDR1660P1 > Exact Audio Copy 0.99 prebeta 1 > Adobe Audition 1.5 > FLAC Frontend 1.7.1
+
+GENERATION:
+CD [Grunge Is Dead] > WAV [44.1kHz] > FLAC [Level 8]
+
+LENGTH:
+3:11
+
+TRACKS:
+01. Smells Like Teen Spirit
+
+MD5 FINGERPRINTS:
+4ffd580b4a217839d58422320f2fd249 *Nirvana_1991-11-27_PRO1c_t01.flac
+
+EXTRACTED BY:
+Pieter Vermeulen
+
+PLEASE DO NOT SELL OR ENCODE TO MP3

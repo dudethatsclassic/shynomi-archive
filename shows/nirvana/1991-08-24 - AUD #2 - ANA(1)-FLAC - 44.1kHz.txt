@@ -1,0 +1,44 @@
+NIRVANA
+August 24, 1991
+Tanzbrunnen (Monsters Of Spex)
+Cologne, Germany
+
+DISC #1/1 (28:54)
+-----------------
+01) Polly (cut)
+02) Drain You
+03) Floyd The Barber
+04) Sliver
+05) School
+06) Breed
+07) Smells Like Teen Spirit
+08) Territorial Pissings
+09) Negative Creep (cut)
+
+GENERATION
+-----------------
+ANA(1) -> WAV [48kHz] -> WAV [44.1kHz] -> FLAC [Level 8]
+
+SOURCE (AUD#2)
+-----------------
+Sony PC-62 -> Sony WM-D3
+
+TRANSFER
+-----------------
+Nakamichi DR-8 -> Hosa RCA cable -> LynxONE analog-in -> Adobe Audition 1.5 -> CD Wave 1.94.5 -> FLAC Frontend 1.7.1
+
+MD5 FINGERPRINTS
+-----------------
+e67ba4206a0e6c78c65aadcd4dee5196 *nirvana1991-08-24t01.flac
+7ef85606b863f47d3316c322dfeda01d *nirvana1991-08-24t02.flac
+a77c21b3ab3df421ed31a23e50adebc0 *nirvana1991-08-24t03.flac
+6480d892c803cd24aac0c287978d5a87 *nirvana1991-08-24t04.flac
+4759c9f5d93ec0b7cc5037e774669af8 *nirvana1991-08-24t05.flac
+1ecf00d6b8c44c3bc4f507b6793bd3e5 *nirvana1991-08-24t06.flac
+78902f56fabda10d754729362916dd8a *nirvana1991-08-24t07.flac
+23d0348e65e6a8fd0927ac68eaa3af4b *nirvana1991-08-24t08.flac
+0d7b3b4b1e2a9eff70c9b996c3c8948f *nirvana1991-08-24t09.flac
+
+
+Transferred by Mike Ziegler.
+PLEASE DO NOT ENCODE TO MP3 OR SELL!

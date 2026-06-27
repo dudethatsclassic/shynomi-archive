@@ -1,0 +1,30 @@
+NIRVANA
+October 21st, 1990
+Maida Vale Studios (studio 3)
+London, United Kingdom
+
+SOURCE (SBD #2):
+Soundboard > Unknown
+
+EXTRACTION:
+Unknown drive > Exact Audio Copy V1.0 beta 3 > Adobe Audition 3.0 > Flac Frontend 1.7.1
+
+GENERATION:
+Unoff. CD [Down With Me] > WAV [44.1kHz] > FLAC [Level 8]
+
+LENGTH:
+02:28
+
+NOTES:
+- Normalized
+
+TRACKS:
+01. D7 (test mix)
+
+MD5 FINGERPRINTS:
+1cfaf1e0affc4211fb0d33941326865e *Nirvana_1990-10-21_SBD2_CD_t01.flac
+
+EXTRACTED BY:
+Yann Baumann
+
+**PLEASE DO NOT ENCODE TO LOSSY FORMATS OR SELL!**

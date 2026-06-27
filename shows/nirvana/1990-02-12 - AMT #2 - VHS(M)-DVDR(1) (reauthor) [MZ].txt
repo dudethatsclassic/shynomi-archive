@@ -1,0 +1,51 @@
+NIRVANA
+February 12, 1990
+Cattle Club
+Sacramento, CA
+
+SOURCE (AMT #2):
+unknown > unknown
+
+RE-AUTHOR:
+Sony Optiarc AD-7260S > DVD Decrypter 3.5.4.0 > Adobe Encore CS5
+
+GENERATION:
+VHS(M) > DVDR(1) [NTSC/7Mbps/48kHz PCM] > re-author
+
+LENGTH:
+61:16
+
+TRACKS:
+01. intro
+02. California Über Alles (jam)
+03. Love Buzz (cut)
+04. Floyd The Barber
+05. School
+06. About A Girl
+07. Dive
+08. Polly
+09. Molly's Lips
+10. Sappy
+11. Scoff
+12. Breed
+13. Been A Son
+14. Stain
+15. Negative Creep
+16. Blew
+
+MD5 FINGERPRINTS:
+bef66426a9017bd3cf2f496c376cf1d6 *VIDEO_TS\VIDEO_TS.BUP
+bef66426a9017bd3cf2f496c376cf1d6 *VIDEO_TS\VIDEO_TS.IFO
+ebf137909fb841b9a08fee50d55532e7 *VIDEO_TS\VIDEO_TS.VOB
+d58cf5fdc1cc8a1a2fabd35aa8ba3af1 *VIDEO_TS\VTS_01_0.BUP
+d58cf5fdc1cc8a1a2fabd35aa8ba3af1 *VIDEO_TS\VTS_01_0.IFO
+6ee7945ee668f870ddcacd542e322433 *VIDEO_TS\VTS_01_0.VOB
+79974b6d56ab1eee5626543ad1b96e60 *VIDEO_TS\VTS_01_1.VOB
+dcc050b11439ebee82aadfd3812bf1db *VIDEO_TS\VTS_01_2.VOB
+7d07d3cdc25534b4995c21d4bb31b092 *VIDEO_TS\VTS_01_3.VOB
+31ad457f3226d7c6d96f27162656b412 *VIDEO_TS\VTS_01_4.VOB
+
+RE-AUTHOR BY:
+Mike Ziegler
+
+PLEASE DO NOT SELL OR ENCODE TO MP3

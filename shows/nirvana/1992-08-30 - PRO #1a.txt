@@ -1,0 +1,38 @@
+NIRVANA
+August 30, 1992
+Richfield Avenue (Reading Festival)
+Reading, UK
+
+SOURCE (PRO #1a):
+unknown > unknown
+
+VIDEO TRANSFER:
+JVC HR S3600U > Datavideo TBC-3000 > Blackmagic Intensity Pro > VirtualDub > AviSynth 2.6.0 > x264.exe 0.155.2901 7d0ff22 > MKVToolNix GUI v46.0.0
+
+AUDIO TRANSFER:
+JVC HR S3600U > Datavideo TBC-3000 > Blackmagic Intensity Pro > VirtualDub > flac.exe & Apple AAC encoder q109
+
+GENERATION:
+VHS(x) > AVI [UtVideo/96khz/16-Bit/PCM] > MKV [576p/x264 | AAC | FLAC]
+
+LENGTH:
+12:51
+
+TRACKS:
+01. Come As You Are
+02. Lithium
+03. In Bloom
+
+MD5 FINGERPRINTS:
+10b690e1c6ca959971048f0a1765e359 *Nirvana 1992-08-30 PRO1a t01 Come As You Are.flac
+15b28ee2913703462b6629e8d6d999ed *Nirvana 1992-08-30 PRO1a t02 Lithium.flac
+0e4d99dd334a0b64d9810541918fe32f *Nirvana 1992-08-30 PRO1a t03 In Bloom.flac
+
+TRANSFER:
+TravisBickle1963
+
+DISTRIBUTION:
+Nicholas Serra & Members of LiveNIRVANA.com
+2020-11-01
+
+**PLEASE DO NOT ENCODE TO LOSSY FORMATS OR SELL!**

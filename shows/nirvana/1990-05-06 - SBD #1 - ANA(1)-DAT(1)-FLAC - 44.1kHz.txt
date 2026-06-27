@@ -1,0 +1,58 @@
+NIRVANA
+May 6, 1990
+The Masquerade
+Atlanta, GA
+
+DISC #1/1 (55:24)
+-----------------
+01) Love Buzz (cut)
+02) Floyd The Barber
+03) Scoff
+04) Dive
+05) School
+06) Spank Thru
+07) Breed
+08) About A Girl
+09) Big Cheese
+10) Molly's Lips
+11) Polly
+12) Here She Comes Now
+13) Been A Son
+14) Stain (cut)
+15) Negative Creep
+16) Blew
+
+GENERATION
+-----------------
+ANA(1) -> DAT(1) -> WAV [32kHz] -> WAV [44.1kHz] -> FLAC [Level 8]
+
+SOURCE (SBD#1)
+-----------------
+soundboard -> unknown
+
+TRANSFER
+-----------------
+Tascam DA-20 MKII -> Apogee S/PDIF cable -> LynxONE digital-in -> Adobe Audition 1.5 -> CD Wave 1.93 beta -> FLAC Frontend 1.7.1
+
+MD5 FINGERPRINTS
+-----------------
+bc55d3774f07877ca69afa9533e556dc *nirvana1990-05-06t01.flac
+9bce7f49caa38754794ea4c914aa4c01 *nirvana1990-05-06t02.flac
+0ff225c44be99900adb7a349b45f5d66 *nirvana1990-05-06t03.flac
+8b417e8e48ce4a0176c2fb57ad2718c0 *nirvana1990-05-06t04.flac
+74fed5b820173e0006203e259dae2fbf *nirvana1990-05-06t05.flac
+bce562de9dac3a30f189b8e09a3192df *nirvana1990-05-06t06.flac
+9a358b92e59e9a481804ebc022495049 *nirvana1990-05-06t07.flac
+a9bf7a488d86542216a77438db0b5761 *nirvana1990-05-06t08.flac
+f90d9d97489707f675c5e5bbf7267a39 *nirvana1990-05-06t09.flac
+dcdc2831a53055a8edc6b741cfc9c239 *nirvana1990-05-06t10.flac
+f39e6368b78061dc91a965f0c82bb51f *nirvana1990-05-06t11.flac
+8bf1c7859f597680da96d8099d983486 *nirvana1990-05-06t12.flac
+97b9dbbb7e755f7e8e73dd68728b23f3 *nirvana1990-05-06t13.flac
+d27eb7b5b957cad325a76d3f19dc0c55 *nirvana1990-05-06t14.flac
+f01d54862121075e3fb1d55b144ece74 *nirvana1990-05-06t15.flac
+73740250dec61e7c480d606ede67ac47 *nirvana1990-05-06t16.flac
+
+
+Transferred by Mike Ziegler.
+PLEASE DO NOT ENCODE TO MP3 OR SELL!

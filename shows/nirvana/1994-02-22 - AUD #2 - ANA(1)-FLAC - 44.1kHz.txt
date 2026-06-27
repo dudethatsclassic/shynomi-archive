@@ -1,0 +1,61 @@
+NIRVANA
+February 22nd, 1994
+Palaghiaccio
+Rome, IT
+
+SOURCE (AUD #2):
+unknown > unknown
+
+TRANSFER:
+Nakamichi DR-3 > Steinberg CI2 > Adobe Audition CS3 > CD Wave 1.98
+
+GENERATION
+ANA(1) > FLAC [32bit/48khz]
+
+LENGTH:
+52:00
+
+TRACKS:
+01. Come As You Are
+02. Smells Like Teen Spirit
+03. Sliver
+04. Dumb
+05. In Bloom
+06. About A Girl
+07. Lithium
+08. Pennyroyal Tea
+09. School
+10. Polly
+11. Very Ape
+12. Lounge Act
+13. Rape Me
+14. Territorial Pissings
+15. All Apologies
+16. On A Plain (cuts out)
+
+MD5 FINGERPRINTS:
+725fa9000f0206c80792d1524a9aa39d *Nirvana 1994-02-22 AUD2 t01 Come As You Are.flac
+1b599b81d4e76051beeb2378c2160206 *Nirvana 1994-02-22 AUD2 t02 Smells Like Teen Spirit.flac
+34978e14d502bceae87554621506cd59 *Nirvana 1994-02-22 AUD2 t03 Sliver.flac
+36ae89e327fac19b9efa4e1677911cd2 *Nirvana 1994-02-22 AUD2 t04 Dumb.flac
+8e78f7e67a71b7f5dbea28b90d470e6e *Nirvana 1994-02-22 AUD2 t05 In Bloom.flac
+de95c36aff4bc7b6d5ef37ef172260ba *Nirvana 1994-02-22 AUD2 t06 About A Girl.flac
+4acfb6e2fb91993704849ef11ea74ba6 *Nirvana 1994-02-22 AUD2 t07 Lithium.flac
+6f964107b0d15fa017a02975dcfa1e76 *Nirvana 1994-02-22 AUD2 t08 Pennyroyal Tea.flac
+47e2f9fe30cb0635053b9651c62a8edb *Nirvana 1994-02-22 AUD2 t09 School.flac
+e84ac42c4e0609beee1af7322ba7ba39 *Nirvana 1994-02-22 AUD2 t10 Polly.flac
+2a4d7f1f4ae58a7b88bf193813b07a58 *Nirvana 1994-02-22 AUD2 t11 Very Ape.flac
+b47167a21abc6bc7ec4a89b8332bdc9f *Nirvana 1994-02-22 AUD2 t12 Lounge Act.flac
+fa9399d99cbf33e3ca7079b8448c70f9 *Nirvana 1994-02-22 AUD2 t13 Rape Me.flac
+eb1eb48a8d27b24b3a582e27c807a412 *Nirvana 1994-02-22 AUD2 t14 Territorial Pissings.flac
+65083d1fbeb0ad94f2f5e68dbc18144c *Nirvana 1994-02-22 AUD2 t15 All Apologies.flac
+842fb65d4e3bdb021ba7df033bec8ff8 *Nirvana 1994-02-22 AUD2 t16 On A Plain.flac
+
+37506bba34a224e5a7130c756e0577dd *Nirvana 1994-02-22 AUD2.flac
+
+RECORDING:
+Alessandro Sgritta
+
+TRANSFER:
+Members of LiveNIRVANA.com
+2021-06-25

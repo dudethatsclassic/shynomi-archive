@@ -1,0 +1,40 @@
+NIRVANA
+November 25, 1991
+Jingle Production Room 2, NOB Audio,
+Hilversum, The Netherlands
+
+SOURCE (SBD #1a):
+soundboard > unknown
+
+EDIT:
+SUPER v2012.build.51 > Adobe Audition 3.0 > CD Wave 1.98 > Flac Frontend 1.7.1
+
+GENERATION:
+Master > RealAudio [44.1 kHz/96kbps] > WAV [44.1 kHz] > FLAC [Level 8]
+
+LENGTH:
+20:30
+
+TRACKS:
+01. Jam (Grohl solo)
+02. Where Did You Sleep Last Night
+03. Here She Comes Now
+04. Unknown (jam)
+05. Unknown
+06. Jam
+
+MD5 FINGERPRINTS:
+310d89a455be52b2cbc10432fa7c091a *Nirvana_1991-11-25_early_SBD1a_Master-RM_t01.flac
+6d3e2846f2e1d00a328c4be7504bb3b2 *Nirvana_1991-11-25_early_SBD1a_Master-RM_t02.flac
+eec041d1bb69e73156fe08d7d09e6d63 *Nirvana_1991-11-25_early_SBD1a_Master-RM_t03.flac
+3fc3e584bbc67e6c8d9ac18a611595a2 *Nirvana_1991-11-25_early_SBD1a_Master-RM_t04.flac
+9ccfbfe56c8f91020cfac5679abb2c27 *Nirvana_1991-11-25_early_SBD1a_Master-RM_t05.flac
+d93d279df0f96f448931c4b02a06b718 *Nirvana_1991-11-25_early_SBD1a_Master-RM_t06.flac
+
+TRANSFERRED BY:
+Unknown
+
+EDITED BY:
+Pierre Leroy
+
+PLEASE DO NOT SELL OR ENCODE TO MP3

@@ -1,0 +1,46 @@
+NIRVANA
+June 28, 1992
+Kalvøyafestivalen
+Sandvika, Norway 
+
+SETLIST (67:25)
+-----------------
+01) Aneurysm 
+02) Drain You 
+03) Stay Away 
+04) Sliver 
+05) School 
+06) In Bloom 
+07) Breed 
+08) About A Girl 
+09) Scoff 
+10) Polly 
+11) Lithium 
+12) Blew 
+13) Been A Son 
+14) On A Plain 
+15) Love Buzz 
+16) Smells Like Teen Spirit 
+17) Territorial Pissings 
+
+GENERATION
+-----------------
+MASTER -> STANDALONE (Philips) -> DVDR(1) -> Re-author(DVD-LAB) (Yours will be DVD(2) if burnt)
+
+SOURCE (AMT#1)
+-----------------
+unknown -> unknown
+
+MD5 FINGERPRINTS
+-----------------
+f07a66f16ab0d2857a24cd483a35652b *VIDEO_TS/VIDEO_TS.BUP
+f07a66f16ab0d2857a24cd483a35652b *VIDEO_TS/VIDEO_TS.IFO
+ffacaf1ae51e2547b136f6e0447ee1dd *VIDEO_TS/VIDEO_TS.VOB
+71c13e520bcf4c15d20ba21c4457f08b *VIDEO_TS/VTS_01_0.BUP
+71c13e520bcf4c15d20ba21c4457f08b *VIDEO_TS/VTS_01_0.IFO
+4af92f6e951dc19e7769065181590811 *VIDEO_TS/VTS_01_0.VOB
+20032cb4155e5c015afef0ca300be000 *VIDEO_TS/VTS_01_1.VOB
+7f80023924b71802f81149d4cdf2e850 *VIDEO_TS/VTS_01_2.VOB
+c03312e7d00d52846d6c2baaccb72f6f *VIDEO_TS/VTS_01_3.VOB
+
+PLEASE DO NOT ENCODE TO ANY OTHER FORMAT OR SELL!

@@ -1,0 +1,30 @@
+NIRVANA
+November 01, 1989
+Villa 65 (Nozems-a-GoGo)
+Hilversum, The Netherlands
+
+SOURCE (SBD #1c):
+soundboard > unknown
+
+EXTRACTION:
+NEC DVD-RW ND-3520A > EAC V0.95 > FLAC frontend 1.7.1 [level 8]
+
+GENERATION:
+CD [Plugged And Unplugged] > WAV [44.1kHz] > FLAC [Level 8]
+
+LENGTH:
+03:32
+
+NOTES:
+Missing "Dive" and "About A Girl".
+
+TRACKS:
+01. Love Buzz
+
+MD5 FINGERPRINTS:
+23803205 22:11.33 2009-02-06 Track01.flac
+
+EXTRACTED BY:
+Andreas Magnusson
+
+***DO NOT SELL OR ENCODE TO MP3!***

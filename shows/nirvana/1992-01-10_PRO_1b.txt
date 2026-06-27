@@ -1,0 +1,44 @@
+NIRVANA
+January 10, 1992
+MTV Studios
+New York, NY
+
+SOURCE (PRO #1b):
+soundboard > unknown
+
+TRANSFER:
+Tascam DA-30mkII > Echo Layla24 > Adobe Audition 2.0 > CD Wave 1.94.8 > FLAC frontend 1.7.1
+
+GENERATION:
+DTV > DAT(1) [48kHz] > WAV [48kHz] > WAV [44.1kHz] > FLAC [Level 8]
+
+LENGTH:
+23:10
+
+NOTES:
+- Has a short burst of static-like noises during "Polly" from MTV's original recording.
+- Has a dropout during "Aneurysm" due to MTV cutting out the word "shit."
+
+TRACKS:
+01. Drain You
+02. School
+03. Molly's Lips
+04. Polly
+05. Aneurysm
+06. Smells Like Teen Spirit
+07. Territorial Pissings
+
+MD5 FINGERPRINTS:
+d56ffd7373a841edaeff3de4e6472f9d *Nirvana_1992-01-10_PRO1b_t01.flac
+e9188b0c1d7b4f6bdf74ed407a550fb5 *Nirvana_1992-01-10_PRO1b_t02.flac
+7d7414fff8ea95756ad222792c5caff3 *Nirvana_1992-01-10_PRO1b_t03.flac
+59b50f8f1b5bed3e7f98e6feed39f5c5 *Nirvana_1992-01-10_PRO1b_t04.flac
+ad761227a4271fc9f9f3c8fb029b53f5 *Nirvana_1992-01-10_PRO1b_t05.flac
+d95a54eb73bfa841621560d1a9c9a975 *Nirvana_1992-01-10_PRO1b_t06.flac
+90617629f9ece1b6fe83ef0c2ea9f5c3 *Nirvana_1992-01-10_PRO1b_t07.flac
+
+TRANSFERRED BY:
+Kris Sproul
+
+PLEASE DO NOT SELL OR ENCODE TO MP3
+

@@ -1,0 +1,75 @@
+NIRVANA
+November 6, 1991
+Wulfrun Hall
+Wolverhampton, United Kingdom
+
+SOURCE (AUD #1):
+unknown > unknown
+
+TRANSFER:
+Tascam DA-20mkII > Apogee S/PDIF cable > LynxONE digital-in > Adobe Audition 3.0 > CD Wave 1.98 > FLAC frontend 1.7.1
+
+GENERATION:
+ANA(1) > DAT(1) > WAV [32kHz] > WAV [44.1kHz] > FLAC [Level 8]
+
+LENGTH:
+83:47
+
+TRACKS (DISC 1):
+01. intro
+02. Jesus Wants Me For A Sunbeam
+03. Aneurysm
+04. School
+05. Drain You
+06. About A Girl
+07. Floyd The Barber
+08. Smells Like Teen Spirit
+09. Polly
+10. Breed
+11. Sliver
+12. Love Buzz
+
+TRACKS (DISC 2):
+01. Lithium
+02. All Apologies
+03. Been A Son
+04. Negative Creep
+05. On A Plain
+06. Something In The Way (cut)
+07. Blew
+08. Dumb
+09. Spank Thru
+10. Rape Me
+11. Lounge Act
+12. Territorial Pissings
+
+MD5 FINGERPRINTS:
+4ac0613fcb7ddb2b75bccff196d1b7d3 *Nirvana_1991-11-06_AUD1_d1t01.flac
+71edcd13a1971c7f3d3f861da24fe742 *Nirvana_1991-11-06_AUD1_d1t02.flac
+a7531d2114b9adf7e3eb322fcc60b8b6 *Nirvana_1991-11-06_AUD1_d1t03.flac
+f876c003af2bc5d7874186a8ff595e0e *Nirvana_1991-11-06_AUD1_d1t04.flac
+5ff2edb3cc3dca0e3a6d1c35170361ca *Nirvana_1991-11-06_AUD1_d1t05.flac
+333532b094531f3f3d657a6176a07863 *Nirvana_1991-11-06_AUD1_d1t06.flac
+ae22798a5b080e071978dae56d3209aa *Nirvana_1991-11-06_AUD1_d1t07.flac
+dad49144bd2fbb781f964da622ae150b *Nirvana_1991-11-06_AUD1_d1t08.flac
+1b0079a59fe61ff59826f840967aeb08 *Nirvana_1991-11-06_AUD1_d1t09.flac
+a69be968752e941cbdb6d1debefd15bf *Nirvana_1991-11-06_AUD1_d1t10.flac
+91118388522288b87204252c4db78bd8 *Nirvana_1991-11-06_AUD1_d1t11.flac
+6e29461e7e07c682afcbd043fe01ad2e *Nirvana_1991-11-06_AUD1_d1t12.flac
+31a2b2fa13b35f930f82ca7857666a4d *Nirvana_1991-11-06_AUD1_d2t01.flac
+db8e9c575fdb2820b786305982794bcc *Nirvana_1991-11-06_AUD1_d2t02.flac
+5ec3ad50c2e02ea809b996cd5223200c *Nirvana_1991-11-06_AUD1_d2t03.flac
+89eecd9f9327f69de3bd6e350c845b9b *Nirvana_1991-11-06_AUD1_d2t04.flac
+372e4fecec8293e6e9ab4b755c6a4ca9 *Nirvana_1991-11-06_AUD1_d2t05.flac
+2bd4395879820ac329af3cefddfeb016 *Nirvana_1991-11-06_AUD1_d2t06.flac
+01988919432aed8cd13600bf8ce890fb *Nirvana_1991-11-06_AUD1_d2t07.flac
+649aa7ce2188903f8fed75facc0bf57e *Nirvana_1991-11-06_AUD1_d2t08.flac
+ebfee7ba8cec15a4c185f94c953e403a *Nirvana_1991-11-06_AUD1_d2t09.flac
+c7aaf124856b00f65cfad4ab1c615996 *Nirvana_1991-11-06_AUD1_d2t10.flac
+72574115dc9c6d68a261cd1f24e5c5d1 *Nirvana_1991-11-06_AUD1_d2t11.flac
+c88b0874bc603256829703146337efee *Nirvana_1991-11-06_AUD1_d2t12.flac
+
+TRANSFERRED BY:
+Mike Ziegler
+
+PLEASE DO NOT SELL OR ENCODE TO MP3

@@ -1,0 +1,58 @@
+NIRVANA
+December 1, 1989
+Le Fahrenheit,
+Maison des Jeunes et de la Culture (Espace Icare),
+Issy-les-Moulineaux, France
+
+DISC #1/1 (37:52)
+-----------------
+01. School
+02. Scoff
+03. Love Buzz
+04. Floyd The Barber
+05. Dive
+06. Johnny B. Goode (jam)
+07. Polly
+08. Big Cheese
+09. Spank Thru
+10. About A Girl
+11. Breed
+12. Negative Creep
+13. Blew
+
+GENERATION
+-----------------
+ANA(M) -> WAV [48kHz] -> WAV [44.1kHz] -> FLAC [Level 8]
+
+SOURCE (SBD #1)
+-----------------
+soundboard -> unknown
+
+TRANSFER
+-----------------
+Nakamichi DR-3 -> RCA to 1/4" TS custom Klotz cables -> Echo Mia Midi analog-in -> Adobe Audition 2.0 -> CD Wave 1.95.1 -> FLAC Frontend 1.7.1
+
+NOTES
+-----------------
+- "Floyd The Barber" slightly cuts in
+- "Breed" cuts out, "Negative Creep" cuts in
+- Missing "Been A Son" and "Stain", which were played between "Breed" and "Negative Creep"
+
+MD5 FINGERPRINTS
+-----------------
+b78e323b8cf6aee023b4d50f39ed568a *nirvana_1989-12-01_sbd1_anam_d1t01.flac
+137d5c2ca968c6e484f87270a024f249 *nirvana_1989-12-01_sbd1_anam_d1t02.flac
+4e20d84aa92ad54fb4bedc801ebb6e37 *nirvana_1989-12-01_sbd1_anam_d1t03.flac
+5d70693a529ca7f76f7ddacfbfaa3a83 *nirvana_1989-12-01_sbd1_anam_d1t04.flac
+cbc8789a57a6d1ca0a9b9efd22528cc9 *nirvana_1989-12-01_sbd1_anam_d1t05.flac
+db82eca335fccf6ef95f77dec8e6c959 *nirvana_1989-12-01_sbd1_anam_d1t06.flac
+28d2792d0d628e8489918b97799c8b85 *nirvana_1989-12-01_sbd1_anam_d1t07.flac
+b778f9699bd8e325cd969b2085a8c5b0 *nirvana_1989-12-01_sbd1_anam_d1t08.flac
+ae23e2af7fdb17978f92f0920653ff11 *nirvana_1989-12-01_sbd1_anam_d1t09.flac
+f5434cb36b748671f12ac53cbde2d432 *nirvana_1989-12-01_sbd1_anam_d1t10.flac
+3aa9185473d176807c97b4b34dcb75be *nirvana_1989-12-01_sbd1_anam_d1t11.flac
+3e70ca43d208c19949381a9cfa27c9d0 *nirvana_1989-12-01_sbd1_anam_d1t12.flac
+337db0226674647fea8e31de2a1267c9 *nirvana_1989-12-01_sbd1_anam_d1t13.flac
+
+Transferred by Pierre Leroy
+PLEASE DO NOT ENCODE TO MP3 OR SELL!

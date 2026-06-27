@@ -1,0 +1,62 @@
+NIRVANA
+November 25, 1991
+Paradiso
+Amsterdam, The Netherlands
+
+DISC #1/1 (65:50)
+-----------------
+01) intro
+02) Drain You
+03) Aneurysm
+04) School
+05) Floyd The Barber
+06) Smells Like Teen Spirit
+07) About A Girl
+08) Polly
+09) Lithium
+10) Sliver
+11) Breed
+12) Come As You Are
+13) Been A Son
+14) Negative Creep
+15) On A Plain
+16) Blew
+17) Love Buzz
+18) Territorial Pissings
+
+GENERATION
+-----------------
+VHS(3) -> WAV [48kHz] -> WAV [44.1kHz] -> FLAC [Level 8]
+
+SOURCE (PRO#1a)
+-----------------
+soundboard -> unknown
+
+TRANSFER
+-----------------
+JVC HR-S9500 -> Hosa RCA cable -> LynxONE analog-in -> Adobe Audition 3.0 -> CD Wave 1.96.1 -> FLAC Frontend 1.7.1
+
+MD5 FINGERPRINTS
+-----------------
+6de0195f3f5bceae38e57c4b6698e51b *nirvana1991-11-25t01.flac
+89b429928ba029e1ff4425158f30405f *nirvana1991-11-25t02.flac
+b3ca48bbc9f7b824b5d7c57e81a12f02 *nirvana1991-11-25t03.flac
+74d364a4192a56f82aa1b7f137ac7aef *nirvana1991-11-25t04.flac
+0af1ad41ea3d5ec9cdc0d2712ed8cf26 *nirvana1991-11-25t05.flac
+dacd88e1be0ab0dd5cc663b2f7109a26 *nirvana1991-11-25t06.flac
+017a08b071d0c8e71d9ff98afbf9a766 *nirvana1991-11-25t07.flac
+f3c23268078781e6476e11654e4e095a *nirvana1991-11-25t08.flac
+63f41d2a47293099e745b21cf03cf3c8 *nirvana1991-11-25t09.flac
+a8bf5d5ecff1642f7407023504ee12e1 *nirvana1991-11-25t10.flac
+e3983f8e6820a1fbe766bf317b364e05 *nirvana1991-11-25t11.flac
+d14977941ae444c3433929c321db6116 *nirvana1991-11-25t12.flac
+8130687e7586378964fbac2682e0072f *nirvana1991-11-25t13.flac
+1234a7570c3393ce591ebc5a698757d8 *nirvana1991-11-25t14.flac
+7a742f733b4d6c548a3f5f5aeedf15d8 *nirvana1991-11-25t15.flac
+24eda915a78c994fbe7657150431efc8 *nirvana1991-11-25t16.flac
+d68c8eff5795295a4e744774c86c49ca *nirvana1991-11-25t17.flac
+e4db23fb2353ac2c94e0b5bf6254bba9 *nirvana1991-11-25t18.flac
+
+
+Transferred by Mike Ziegler.
+PLEASE DO NOT ENCODE TO MP3 OR SELL!

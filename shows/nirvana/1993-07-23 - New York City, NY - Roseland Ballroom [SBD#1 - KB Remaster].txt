@@ -1,0 +1,53 @@
+NIRVANA
+July 23, 1993
+Roseland Ballroom
+New York City, NY
+
+Setlist:
+-----------------
+01. Scentless Apprentice (cuts in)
+02. School
+03. Breed
+04. Lithium
+05. Come As You Are
+06. Milk It
+07. Drain You
+08. tourette's
+09. Aneurysm
+10. Very Ape
+11. Blew
+12. Heart-Shaped Box
+13. Rape Me (cuts out)
+
+GENERATION
+-----------------
+DAT(M) -> DAT(2) -> WAV [48kHz] -> WAV [44.1kHz] -> FLAC [Level 8]
+
+SOURCE
+-----------------
+SBD #1 - Quality: 10.0
+soundboard -> Sony TCD-D3
+
+TRANSFER
+-----------------
+Tascam DA-20 MKII -> Apogee S/PDIF cable -> LynxONE digital-in -> Adobe Audition 2.0 -> CD Wave 1.95.1 -> FLAC Frontend 1.7.1
+
+Transferred by: Mike Ziegler
+
+
+==KB REMASTER NOTES==
+
+"Scentless Apprentice" now has a consistent volume throughout, since the volume was originally all over the place as the taper was adjusting the gain levels. About two seconds during the cut-in beginning of "Scentless Apprentice" was presumed to be silence, but upon amplification and EQ'ing, it turned out to be very quiet audio (which could've been a loose cable connection). Each digital error (in both the left channel and the right channel) was replaced with the sound opposite to its channel (i.e. the cutting in the left channel in the beginning of "School" was replaced with the audio in the right channel). The mono sound was then ran through delay and mastering, so it could sound stereo as possible. All of the tracks went through multiband compressing in order to make the sound fuller and a little more explosive. Finally, all of the tracks were EQ'd just to bring down the snare and cymbals just a tad. I fixed the first strum of "Drain You" as well! Enjoy. - KB
+
+SOURCE LINEAGE
+-----------------
+sounboard -> Sony TCD-D3 -> DAT(M) -> DAT(2) -> .FLAC [Level 8] -> Adobe Audition C5.1 (for EQ'ing, mastering, and phase correcting) -> .WAV [44.1kHz/16-bit] -> Audacity 2.3.3 -> .FLAC [Level 8]
+
+GENERATION
+-----------------
+DAT(M) -> WAV -> FLAC -> remaster -> WAV -> FLAC
+
+REMASTERED BY KB [BEARSHEEP0@GMAIL.COM]
+DO NOT DISTRIBUTE/SPREAD WITHOUT THIS TXT FILE!
+DO NOT DISTRIBUTE/SPREAD IN LOSSY FORMATS!
+DO NOT SELL!

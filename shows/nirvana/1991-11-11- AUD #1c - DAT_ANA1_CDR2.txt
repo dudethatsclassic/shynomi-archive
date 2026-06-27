@@ -1,0 +1,71 @@
+NIRVANA
+November 11th, 1991
+Markthalle
+Hamburg, Germany
+
+SOURCE (AUD #1c):
+unknown > (unknown)DAT
+
+TRANSFER:
+Unknown
+
+GENRATION:
+DAT > ANA(1) > CD-R(2) > EAC > FLAC [level 8]
+
+LENGTH:
+67:57
+
+TRACKS:
+01. (cut) Aneurysm
+02. Drain You
+03. School
+04. Floyd The Barber
+05. Smells Like Teen Spirit
+06. About A Girl
+07. Polly
+08. Breed
+09. Sliver
+10. Lithium
+11. Love Buzz
+12. Come As You Are
+13. Been a Son
+14. Negative Creep
+15. On A Plain
+16. Blew
+17. Pennyroyal Tea
+18. Spank Thru
+19. Molly’s lips
+20. Territorial Pissings 
+
+MD5 Fingerprints:
+b42ff18c3b48644cde1763312ed3882e *1991-11-11 - AUD#1c track1.flac
+b6c40c667791264504a29e7897f5a893 *1991-11-11 - AUD#1c track2.flac
+e662861427a89632e878131492965eed *1991-11-11 - AUD#1c track3.flac
+b7b2ab9151b500f6287b8f8d58c73ff9 *1991-11-11 - AUD#1c track4.flac
+064658e7adf2e4d0ba7136bababf790c *1991-11-11 - AUD#1c track5.flac
+ede5d5a27f5097fc6e216af0131c5431 *1991-11-11 - AUD#1c track6.flac
+77939afb0564284df0a67e1bfcfd33b7 *1991-11-11 - AUD#1c track7.flac
+8e60252f43ab0b34d42079ddbadfd238 *1991-11-11 - AUD#1c track8.flac
+762b881c68ad3f057b08c217868dab71 *1991-11-11 - AUD#1c track9.flac
+fc2aab28e4796e24f3ef775d9c8c5ac3 *1991-11-11 - AUD#1c track10.flac
+fe3b4408c4087f120941a61ce6ce158d *1991-11-11 - AUD#1c track11.flac
+e649eb81e32dcbd304feb10be034d688 *1991-11-11 - AUD#1c track12.flac
+84fd37eb2216977a0c1c1baa80d2f53b *1991-11-11 - AUD#1c track13.flac
+812699a5fbeb9ef3983ed9bb5b47504c *1991-11-11 - AUD#1c track14.flac
+269386d28db9471dc5aba996b8e2251a *1991-11-11 - AUD#1c track15.flac
+b7ff942d7fb1c4b7c817efa40f6a8535 *1991-11-11 - AUD#1c track16.flac
+a054e436acbb819b9dc80f07ccc284b6 *1991-11-11 - AUD#1c track17.flac
+1fefd0ab83e359d05a406f923378922f *1991-11-11 - AUD#1c track18.flac
+c6de908114b0977c47cc2ca4dff13c2a *1991-11-11 - AUD#1c track19.flac
+a2010bf3a2c0f2ae06e78d5d34cea618 *1991-11-11 - AUD#1c track20.flac
+
+TRANSFERRED BY:
+Unknown
+
+TRACKED BY:
+Roar Aasheim
+
+CDR RIPPED BY:
+Arne Jacobsen
+
+PLEASE DO NOT SELL OR ENCODE TO MP3

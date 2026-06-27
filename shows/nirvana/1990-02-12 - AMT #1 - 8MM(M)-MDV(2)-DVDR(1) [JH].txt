@@ -1,0 +1,50 @@
+NIRVANA
+February 12, 1990
+Cattle Club, 
+Sacramento, CA
+
+SOURCE (AMT #1):
+Sony ECM-909 > Aiwa CV-80 (Video8)
+
+GENERATION:
+8MM(M) > MDV(2) > DVDR(1) [NTSC 8.0Mbps CBR, LPCM]
+
+LENGTH:
+44:31
+
+TRACKS:
+01. Love Buzz
+02. Floyd The Barber
+03. School
+04. About A Girl
+05. Dive
+06. Polly
+07. Molly's Lips
+08. Sappy
+09. Scoff
+10. Breed
+11. Been A Son
+12. Stain
+13. Negative Creep (incomplete)
+14. Blew (incomplete)
+
+TRANSFER:
+Unknown MDV > Pinnacle DC-1000 > Adobe Premiere 6.5 + Cool Edit Pro 1.2a > Sonic Scenarist 2.7
+
+NOTES:
+- Remastered
+- Directly from Jim's hard drive !
+
+MD5 FINGERPRINTS:
+92452be3d00d426f06a45164e91e98e2 *VIDEO_TS\VIDEO_TS.BUP
+92452be3d00d426f06a45164e91e98e2 *VIDEO_TS\VIDEO_TS.IFO
+6a620519369a10640623b7103bc61647 *VIDEO_TS\VTS_01_0.BUP
+6a620519369a10640623b7103bc61647 *VIDEO_TS\VTS_01_0.IFO
+34c6930bff75ee38d7625e666dfad706 *VIDEO_TS\VTS_01_0.VOB
+c907100d2c7712717ad55cb3f8343c59 *VIDEO_TS\VTS_01_1.VOB
+9fe991e66180ce0798d80264df979989 *VIDEO_TS\VTS_01_2.VOB
+73ace858d155503d5682582d0aafad10 *VIDEO_TS\VTS_01_3.VOB
+19e3da963a583d771195c0227c360df2 *VIDEO_TS\VTS_01_4.VOB
+
+TRANSFERRED BY:
+Jim Hirte

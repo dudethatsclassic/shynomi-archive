@@ -1,0 +1,68 @@
+NIRVANA
+June 27, 1992
+Kansanpuisto (Ruisrock)
+Turku, Finland
+
+DISC #1/1 (77:57)
+-----------------
+01) intro
+02) Aneurysm
+03) Drain You
+04) Stay Away
+05) Sliver
+06) School
+07) In Bloom
+08) Breed
+09) About A Girl
+10) Scoff
+11) Polly
+12) Lithium
+13) Blew
+14) Been A Son
+15) On A Plain
+16) Swap Meet
+17) Negative Creep
+18) Come As You Are
+19) Love Buzz
+20) Smells Like Teen Spirit
+21) Territorial Pissings
+
+GENERATION
+-----------------
+ANA(M) -> DAT(1) -> WAV [48kHz] -> WAV [44.1kHz] -> FLAC [Level 8]
+
+SOURCE (AUD#1)
+-----------------
+unknown -> Sony WM-D6
+
+TRANSFER
+-----------------
+Tascam DA-20 MKII -> Apogee S/PDIF cable -> LynxONE digital-in -> Adobe Audition 2.0 -> CD Wave 1.95.1 -> FLAC Frontend 1.7.1
+
+MD5 FINGERPRINTS
+-----------------
+5e490c3911e36f5558109e3faa713d7e *nirvana1992-06-27t01.flac
+4148500ddf2368c001330520a1832957 *nirvana1992-06-27t02.flac
+5c710fd97a67f1f43c92d15c1c1366ca *nirvana1992-06-27t03.flac
+c99515007485e2bb14e0b64c8aab6686 *nirvana1992-06-27t04.flac
+66e7061f4153492e517bfa3e2c3c473f *nirvana1992-06-27t05.flac
+b0a367b5af0f6a3e8b3b02d626becd6d *nirvana1992-06-27t06.flac
+f82ed580add71ae99493b2af1cb8dab0 *nirvana1992-06-27t07.flac
+5b2e5047345e394429390c04d94f38d0 *nirvana1992-06-27t08.flac
+4fc6463bfebac69104335057f5c98768 *nirvana1992-06-27t09.flac
+e7e1be6eeee8bc597d4aa6cc8d6ea88b *nirvana1992-06-27t10.flac
+e0204e9368b195815dda34c6fe052cc7 *nirvana1992-06-27t11.flac
+10cbaa17968a888aa2eee7acaa28fcf1 *nirvana1992-06-27t12.flac
+f6a5031f400be0660dcc56a841b0dad0 *nirvana1992-06-27t13.flac
+884ae6dc5397a46569e6f5cdf163feb4 *nirvana1992-06-27t14.flac
+111d8c696fe190cfe7e5446a6044243e *nirvana1992-06-27t15.flac
+f47d54c3001bface1da7b9ac68aee703 *nirvana1992-06-27t16.flac
+45c54bcf9ea6434729268b9593535434 *nirvana1992-06-27t17.flac
+7e62a9bdb9f2a6371d483b6dd8b897d1 *nirvana1992-06-27t18.flac
+a094aaf1ff3072f052192552dfb7bbd0 *nirvana1992-06-27t19.flac
+9c126fb8dade32413d5f7e982ec17942 *nirvana1992-06-27t20.flac
+c1693dece90c0971f6130199aee33d83 *nirvana1992-06-27t21.flac
+
+
+Transferred by Mike Ziegler.
+PLEASE DO NOT ENCODE TO MP3 OR SELL!

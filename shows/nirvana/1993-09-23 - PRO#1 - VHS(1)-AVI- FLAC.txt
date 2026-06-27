@@ -1,0 +1,33 @@
+NIRVANA
+September 23, 1993
+Studio 8H, NBC Studios (Saturday Night Live rehearsal)
+New York, NY
+
+SOURCE (PRO#1):
+unknown > unknown
+
+TRANSFER:
+Panasonic AG-1980 SVHS > Datavideo TBC-6000 > ATI TV Wonder 600 USB > VirtualDub > AviSynth 2.6.0 > x264.exe 0.155.2901 7d0ff22 > MKVToolNix GUI v46.0.0
+
+TRANSFER AUDIO MASTERING:
+SoundForge 12.1 > Adobe Audition CC 2017 > Trader's Little Helper 2.8.4
+
+GENERATION:
+VHS(1) > AVI [UTVideo/48khz/16-Bit/PCM] > MKV [480p/x264 | PCM]
+
+LENGTH:
+42:45
+
+MD5 FINGERPRINTS
+-----------------
+e90dbb90b00f9d1bf3bc37da50ed4e25 *Nirvana 1993-09-23 PRO1 t01 Heart-Shaped Box.flac
+5a74a2cc4ec96e5c24542914aa947859 *Nirvana 1993-09-23 PRO1 t02 Rape Me [Intro].flac
+48f114c628313906e13df9c961fd235a *Nirvana 1993-09-23 PRO1 t03 Heart-Shaped Box.flac
+ab0d902a7a0ed433cdd049855278dfae *Nirvana 1993-09-23 PRO1 t04 Rape Me.flac
+
+
+TRANSFER:
+Nicholas Serra, Mike Wilkinson, & Members of LiveNIRVANA.com
+2021-09-23
+
+PLEASE DO NOT REENCODE OR SELL!

@@ -1,0 +1,77 @@
+NIRVANA
+September 11, 1992
+Seattle Center Coliseum (Washington Music Industry Coalition Benefit)
+Seattle, WA
+
+DISC #1/2 (43:02)
+-----------------
+01) intro
+02) Breed
+03) Drain You
+04) Aneurysm
+05) School
+06) Sliver
+07) In Bloom
+08) Come As You Are
+09) Lithium
+10) About A Girl
+11) tourette's
+12) Polly
+13) Lounge Act
+
+DISC #2/2 (44:08)
+-----------------
+01) Smells Like Teen Spirit (cut)
+02) On A Plain
+03) Negative Creep
+04) All Apologies
+05) Been A Son
+06) Blew
+07) Dumb
+08) Rape Me
+09) Stay Away
+10) Love Buzz
+11) Territorial Pissings
+
+GENERATION
+-----------------
+ANA(3) -> WAV [48kHz] -> WAV [44.1kHz] -> FLAC [Level 8]
+
+SOURCE (AUD#2)
+-----------------
+unknown -> unknown
+
+TRANSFER
+-----------------
+Nakamichi CR-7A -> Hosa RCA cable -> LynxONE analog-in -> Adobe Audition 2.0 -> CD Wave 1.94.8 -> FLAC Frontend 1.7.1
+
+MD5 FINGERPRINTS
+-----------------
+e46832115548d6a4092c8e350c35982d *nirvana1992-09-11d1t01.flac
+8cb5978242c0244e7b8d600776f07558 *nirvana1992-09-11d1t02.flac
+c42e6ef66c6058f26ca69f4575b95561 *nirvana1992-09-11d1t03.flac
+37b30a1b64e7c0fb54daee2b8ff77520 *nirvana1992-09-11d1t04.flac
+aa30c97ddb9c22d24dbc1c6875f0d875 *nirvana1992-09-11d1t05.flac
+694e2f48bfaa03f123d1dadb219df5e1 *nirvana1992-09-11d1t06.flac
+1997737f620ca2de6f4af23245ae019a *nirvana1992-09-11d1t07.flac
+55e5bab4ed33c0611e618d655fec3086 *nirvana1992-09-11d1t08.flac
+a21d28d0fed79d0c822cb5f36a2eb119 *nirvana1992-09-11d1t09.flac
+e1224203c449ca6537ee5e4edafb9f71 *nirvana1992-09-11d1t10.flac
+2c01424c6901ac073737bab066b41308 *nirvana1992-09-11d1t11.flac
+8b63ca6c79b2b77ecf720bc2b7873072 *nirvana1992-09-11d1t12.flac
+67d66e77650210efad8a08c852a9d78e *nirvana1992-09-11d1t13.flac
+ec7ae403c41753a35d434bd7d12748b2 *nirvana1992-09-11d2t01.flac
+5e5957a60186d815ac67cb8a5575be92 *nirvana1992-09-11d2t02.flac
+486d9fa37b95e1080187bfc0395c334f *nirvana1992-09-11d2t03.flac
+66bf93eb635c9f4624c8d864e395dae6 *nirvana1992-09-11d2t04.flac
+eddc7e4fb89b7d1f4f6d3108d70a54fb *nirvana1992-09-11d2t05.flac
+515c2fc91b733420d2c753ae1e76bc4a *nirvana1992-09-11d2t06.flac
+4d39c510b822f33f755c2f59c14cb0ce *nirvana1992-09-11d2t07.flac
+e7964c2f56c57234e6d7689737b52d1a *nirvana1992-09-11d2t08.flac
+52024c0b14660269db97e791dbd9a374 *nirvana1992-09-11d2t09.flac
+c8916d5140e14580e1b687a0d215f7e9 *nirvana1992-09-11d2t10.flac
+e1ce44ba53ec4bbb1df5b7ceae931698 *nirvana1992-09-11d2t11.flac
+
+
+Transferred by Mike Ziegler.
+PLEASE DO NOT ENCODE TO MP3 OR SELL!

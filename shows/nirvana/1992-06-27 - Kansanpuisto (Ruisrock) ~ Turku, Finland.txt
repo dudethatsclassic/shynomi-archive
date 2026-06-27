@@ -1,0 +1,62 @@
+NIRVANA
+June 27, 1992
+Kansanpuisto (Ruisrock)
+Turku, Finland
+
+DISC #1/1 (75:22)
+-----------------
+01) Aneurysm
+02) Drain You
+03) Stay Away
+04) Sliver
+05) School
+06) In Bloom
+07) Breed
+08) About A Girl
+09) Scoff
+10) Polly
+11) Lithium
+12) Blew
+13) Been A Son
+14) On A Plain
+15) Swap Meet
+16) Negative Creep
+17) Come As You Are
+18) Love Buzz
+19) Smells Like Teen Spirit
+20) Territorial Pissings
+
+GENERATION
+-----------------
+VHS(1) [PAL] -> AVI [DV25] -> M2V/WAV [8Mbps CBR/48kHz PCM] -> DVDR(0)
+
+SOURCE (AMT#1b)
+-----------------
+unknown -> unknown
+
+TRANSFER
+-----------------
+JVC HR-S9500 -> AV Tool AVT-8710 -> Canopus ADVC55 -> IEEE 1394 -> Adobe Premiere Pro 2.0 -> TMPGEnc Plus 2.5 -> Adobe Encore DVD 2.0
+
+MD5 FINGERPRINTS
+-----------------
+415557b5a18ae606c06ded3a1b86d73f *VIDEO_TS/VIDEO_TS.BUP
+415557b5a18ae606c06ded3a1b86d73f *VIDEO_TS/VIDEO_TS.IFO
+874a9f4ea42aad76c5a3e2217f9aaaf6 *VIDEO_TS/VIDEO_TS.VOB
+80a28807433f097e3a715ccbc798e738 *VIDEO_TS/VTS_01_0.BUP
+80a28807433f097e3a715ccbc798e738 *VIDEO_TS/VTS_01_0.IFO
+812bda96ec0af8537e0998f140d1e173 *VIDEO_TS/VTS_01_0.VOB
+81248f6fd547e1f62935f6f403f2400a *VIDEO_TS/VTS_01_1.VOB
+c87830194edf465c2aa85ce47aaf925c *VIDEO_TS/VTS_01_2.VOB
+9937b012f3c008834755dae935082a08 *VIDEO_TS/VTS_01_3.VOB
+e785b427f160563cb84c8d4f4d398b37 *VIDEO_TS/VTS_01_4.VOB
+8f23d2a2915a296c562e818f5c0748da *VIDEO_TS/VTS_01_5.VOB
+0446546975f9e370cbadfb5b70ce839c *VIDEO_TS/VTS_01_6.VOB
+bdecfd52edc0b6165431bc5d0c1c40f5 *VIDEO_TS/VTS_02_0.BUP
+bdecfd52edc0b6165431bc5d0c1c40f5 *VIDEO_TS/VTS_02_0.IFO
+874a9f4ea42aad76c5a3e2217f9aaaf6 *VIDEO_TS/VTS_02_0.VOB
+1c065bc18cf3596a492dc3ea7335984b *VIDEO_TS/VTS_02_1.VOB
+
+
+Transferred by Mike Ziegler.
+PLEASE DO NOT ENCODE TO MP3 OR SELL!

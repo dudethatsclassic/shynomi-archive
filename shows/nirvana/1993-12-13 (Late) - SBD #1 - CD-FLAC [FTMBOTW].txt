@@ -1,0 +1,28 @@
+NIRVANA
+December 13, 1993
+Pier 48 (MTV Live And Loud)
+Seattle, WA
+
+DISC #1/1 (03:31)
+-----------------
+01) Scentless Apprentice
+
+SOURCE (SBD #1)
+-----------------
+Soundboard -> unknown
+
+GENERATION
+-----------------
+Official CD "From The Muddy Banks Of The Wishkah" -> WAV [44.1kHz] -> FLAC [Level 8]
+
+EXTRACTION
+-----------------
+Lite-On iHBS-112 -> Exact Audio Copy v1.00 beta 3 -> FLAC Frontend 1.7.1
+
+MD5 FINGERPRINTS
+-----------------
+61ac3c6472297c390fd0346ba635e749 *Nirvana_1993-12-13_Late_SBD1_CD_t01.flac
+
+Extracted by PL.
+PLEASE DO NOT ENCODE TO MP3 OR SELL!
+NO TRADE

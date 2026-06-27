@@ -1,0 +1,48 @@
+NIRVANA
+June 24, 1992
+Le Zenith
+Paris, France
+
+2 Source Mix: [unknown mic(s)->DAT(2)->FLAC->.wav->dEdit] + 
+	[Aiwa CM30->Denon DTR-80p->DAT(M)->FLAC->.wav->dEdit] => FLAC
+
+
+Transfers:
+------------
+unknown: DAT(2) 48khz -> Tascam DA-20 MKII -> Apogee S/PDIF cable -> LynxONE digital-in -> Adobe Audition 2.0 -> CD Wave 1.95.1 -> FLAC Frontend 1.7.1
+
+Transfer by Mike Ziegler
+
+Aiwa: DAT(M) 32khz -> Tascam DA-20 MKII -> Viablue S/PDIF cable -> M-Audio Delta Audiophile 192 digital-in -> Adobe Audition 3.0 -> CD Wave 1.98 -> FLAC Frontend 1.7.1
+
+Transfer by Pierre Leroy
+
+01 Intro
+02 Aneurysm
+03 Drain You
+04 Stay Away
+05 Sliver
+06 School
+07 In Bloom
+08 Breed
+09 About A Girl
+10 Scoff
+11 Polly
+12 Lithium
+13 Blew
+14 Been A Son
+15 On A Plain
+16 Negative Creep
+17 -encore break-
+18 Come As You Are
+19 Love Buzz
+20 Smells Like Teen Spirit
+21 Territorial Pissings
+22 Endless, Nameless
+
+
+Notes: This mix took a significant amount of editing as I decided to make one channel the unknown source and one channel the Aiwa source.  I did this because the Aiwa had lesser quality sound and much more audience noise in the left channel than the right.  You can still hear a few singalongs, but it is now much less than it was.  The two sources complemented each other nicely and in my opinion, the mix sounds better than either source alone.  Sources were lined and mixed using Adobe Audition CS5.5.
+
+mix and edit by BLG
+compiled on 01/01/12
+

@@ -1,0 +1,77 @@
+**Remastered** by thir13en Productions
+
+
+NIRVANA
+January 06, 1990
+HUB East Ballroom
+Seattle, WA
+
+A request (more like a slow hypnotic chant beaten into my brain, "...more Nirvana, more Nirvana...").
+
+I was pointed at this show as needing a workover. Material-wise, cool show, with all the early song goodness that was the beginning of grunge and a near run-down of the album "Bleach". 
+
+Source-wise, it's OK, not great. A rough SBD source with over-bearing vocals, slightly buried guitar and a snake-like tape hiss. Starting with the latter, there was little chance of me cutting the hiss without losing half of the high-end. I tried a few different things, then bagged it. I'd rather have an accurate high-end a little bit of hiss than a destroyed muffled mess. 
+
+The rest responded nicely: the overall spectrum got smoothed out, the compression brought everyone together, the width-depth enhancments opened up some space, and the maximiaztion added punch and volume. Kurt's vocals no longer dominate and his guitar can now be heard amongst the bass & drum frenzy. And it's been retracked to make a bit more sense.
+
+So, here you go, as requested...hope it's all you dreamed it would be. :wink:
+
+
+
+01) Scoff
+02) Floyd The Barber
+03) Love Buzz
+04) Dive
+05) Polly
+06) School
+07) Big Cheese
+08) Sappy
+09) Spank Thru
+10) Molly's Lips
+11) About A Girl
+12) Breed
+13) Been A son
+14) Negative Creep
+15) Blew
+
+
+
+
+======================
+ =PRE-13 SOURCE INFO=
+======================
+
+
+GENERATION
+-----------------
+CD(M) [Supercolossal Big Muff bootleg] -> WAV [44.1kHz] -> FLAC [Level 8]
+
+SOURCE (SBD#1a)
+-----------------
+unknown
+
+TRANSFER
+-----------------
+Sony HL-DT-ST DVD-ROM GDR8162B -> Exact Audio Copy V0.95 -> FLAC Frontend 1.7.1 (level 8)
+
+MD5 FINGERPRINTS
+-----------------
+supercbm -01.flac:1dd309bf32352143d01cde5b6093038e
+supercbm -02.flac:3485e9110486915aaf6b74c29d0fe07d
+supercbm -03.flac:c530060fddd88115e99a7b232da44edf
+supercbm -04.flac:19a53b49eee62c8ae913becdd16a3ebe
+supercbm -05.flac:a39c36a4cc6638f5c7078f09674a283e
+supercbm -06.flac:bd8f549c737ebe09af5c151f5a291ecb
+supercbm -07.flac:11d9f4c33334b4d0e54011e8c0503518
+supercbm -08.flac:1697a05a422144beb03eea4412c82f50
+supercbm -09.flac:eb4cfa4f093aaaf1e9960c3dad1b4d0a
+supercbm -10.flac:147261275f341e610fb43858231d12da
+supercbm -11.flac:4c9329ad303bcccd7f109f50bdf7445b
+supercbm -12.flac:1f2bfc130c9852d51a9ac1bae6a49ea2
+supercbm -13.flac:3851ae38a1578c08aeacff035a9335c7
+supercbm -14.flac:58d4bbd8965c601e31fc25aa537f24d0
+supercbm -15.flac:64731cdc9919c0712884c69843162cba
+
+
+Transferred by Pat Sexton.
+PLEASE DO NOT ENCODE TO MP3 OR SELL!

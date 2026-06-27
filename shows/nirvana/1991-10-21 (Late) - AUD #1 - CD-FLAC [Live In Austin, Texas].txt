@@ -1,0 +1,63 @@
+NIRVANA
+October 21, 1991
+Liberty Lunch
+Austin, TX
+
+DISC #1/1 (65:23)
+-----------------
+01) intro
+02) Jesus Wants Me For A Sunbeam
+03) Aneurysm
+04) Drain You
+05) School
+06) Floyd The Barber
+07) Smells Like Teen Spirit
+08) About A Girl
+09) Polly
+10) Breed
+11) Lithium
+12) Sliver
+13) Pennyroyal Tea
+14) On A Plain
+15) Been A Son
+16) Negative Creep
+17) Blew
+18) Rape Me
+19) Love Buzz
+
+GENERATION
+-----------------
+CD ["Live In Austin, Texas" bootleg] -> WAV [44.1kHz] -> FLAC [Level 8]
+
+SOURCE (AUD#1)
+-----------------
+unknown -> unknown
+
+TRANSFER
+-----------------
+Plextor PlexWriter PX-W4824A -> Exact Audio Copy V0.95 -> Sound Forge 7.0 -> CD Wave 1.93 beta -> FLAC Frontend 1.7.1
+
+MD5 FINGERPRINTS
+-----------------
+dc7d1098ec0de69a1d5db675b3a69446 *nirvana1991-10-21t01.flac
+4b8e03ac0b316289b90ea37860c5a5f5 *nirvana1991-10-21t02.flac
+c1b3b6ecf44564644c414dd6f606d66d *nirvana1991-10-21t03.flac
+84dda5302ad3092c35757b4ec846e7df *nirvana1991-10-21t04.flac
+5596dd743ff249c2661f41b4fc48f198 *nirvana1991-10-21t05.flac
+a96a88eac424f0add1d3525bef333623 *nirvana1991-10-21t06.flac
+5c5ce7f87b0b81ba69df8c8007e9de1e *nirvana1991-10-21t07.flac
+c3e0f00b9c09fb7f96bc2b02936eda5f *nirvana1991-10-21t08.flac
+10ac2cc80f34848fad7d33f17a4e9803 *nirvana1991-10-21t09.flac
+8fe0f3c4f83903800f114eb023882e94 *nirvana1991-10-21t10.flac
+217686f3d4096b94149da1caf0df5c06 *nirvana1991-10-21t11.flac
+6e5fa5cbbc30d28fcbba237b7ee1a80f *nirvana1991-10-21t12.flac
+b59ae6ba5c787f25dc9d8f177b176010 *nirvana1991-10-21t13.flac
+221bfd49302336008dac699ebaa6a049 *nirvana1991-10-21t14.flac
+9bc1a95cd3b1a77f230794c40ef39ae9 *nirvana1991-10-21t15.flac
+5fcb9475c2c874a0b43b83d99d896e45 *nirvana1991-10-21t16.flac
+6184c72241a0050b2581e95651419b2e *nirvana1991-10-21t17.flac
+a5e5e609f45c9eecc1de78f57a2ea94c *nirvana1991-10-21t18.flac
+
+
+Transferred by Mike Ziegler.
+PLEASE DO NOT ENCODE TO MP3 OR SELL!

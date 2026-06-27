@@ -1,0 +1,38 @@
+NIRVANA
+January 23, 1993
+Praça da Apoteose (Hollywood Rock Festival)
+Rio de Janeiro, Brazil
+
+SOURCE (SBD #1a):
+soundboard > unknown
+
+TRANSFER:
+Nakamichi DR-8 > Echo Layla24 > Adobe Audition 3.0 > CD Wave 1.97 > FLAC frontend 1.7.1
+
+GENERATION:
+FM > ANA(1) > WAV [48kHz] > WAV [44.1kHz] > FLAC [Level 8]
+
+LENGTH:
+19:45
+
+NOTES:
+- Has some minor dropouts and choppiness from the source tape.
+
+TRACKS:
+01. In Bloom
+02. Come As You Are (cuts in)
+03. Lithium (cut)
+04. Smells Like Teen Spirit (cuts in)
+05. Polly (cuts in)
+
+MD5 FINGERPRINTS:
+32528f5976eb78cef454857cf01f4c49 *Nirvana_1993-01-23_SBD1a_t01.flac
+dae99aa606d8aa6c1c1bf034dd5ebb16 *Nirvana_1993-01-23_SBD1a_t02.flac
+c39428cc6f964dfb1e219af126cd14a5 *Nirvana_1993-01-23_SBD1a_t03.flac
+2999689f10c809410ea520a076686c2b *Nirvana_1993-01-23_SBD1a_t04.flac
+f9c6b5ec494752beecefffdf74c1c1b8 *Nirvana_1993-01-23_SBD1a_t05.flac
+
+TRANSFERRED BY:
+Kris Sproul
+
+PLEASE DO NOT SELL OR ENCODE TO MP3

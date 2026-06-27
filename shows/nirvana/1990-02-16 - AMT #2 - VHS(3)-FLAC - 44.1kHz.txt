@@ -1,0 +1,44 @@
+NIRVANA
+February 16, 1990
+Bogart's
+Long Beach, CA
+
+DISC #1/1 (28:30)
+-----------------
+01) Love Buzz
+02) Floyd The Barber
+03) Scoff
+04) Dive (cut)
+05) About A Girl (cut)
+06) Breed
+07) School (cut)
+08) Stain (cut)
+09) Blew (cut)
+
+GENERATION
+-----------------
+VID(3) -> WAV [48kHz] -> WAV [44.1kHz] -> FLAC [Level 8]
+
+SOURCE (AMT#2)
+-----------------
+unknown -> unknown
+
+TRANSFER
+-----------------
+Sony SLV-N55 VCR -> Hosa RCA cable -> LynxONE analog-in -> Adobe Audition 1.5 -> CD Wave 1.93 beta -> FLAC Frontend 1.7.1
+
+MD5 FINGERPRINTS
+-----------------
+fd01e8baaf42d77d862b77ae7d45fbb2 *nirvana1990-02-16t01.flac
+3e3b3aea38949b38c3a8726b83ff06ec *nirvana1990-02-16t02.flac
+76fae93d21f66a89a86cbd41eb1720ef *nirvana1990-02-16t03.flac
+7da41c18ba93e2b32f12ba8ad17fdc46 *nirvana1990-02-16t04.flac
+16b978c19fe2e71a3481291139adeba5 *nirvana1990-02-16t05.flac
+86e034aef93fc4f81ecf66b1447a44fb *nirvana1990-02-16t06.flac
+41e646c2a44bf1c0f5f56e44a9cc3cdc *nirvana1990-02-16t07.flac
+9b03d20b8b5bb54f7104bc91d1f55ec3 *nirvana1990-02-16t08.flac
+13cf37af67c153bc25ee0cf76962d81c *nirvana1990-02-16t09.flac
+
+
+Transferred by Mike Ziegler.
+PLEASE DO NOT ENCODE TO MP3 OR SELL!

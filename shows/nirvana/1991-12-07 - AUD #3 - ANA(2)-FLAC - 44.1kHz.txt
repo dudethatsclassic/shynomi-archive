@@ -1,0 +1,53 @@
+NIRVANA
+December 7, 1991
+Salle Omnisports (Trans Musicales)
+Rennes, France
+
+SOURCE (AUD #3):
+Sony PC-62 > Sony WM-D3
+
+TRANSFER:
+Nakamichi DR-8 > Echo Layla24 > Adobe Audition 3.0 > CD Wave 1.97 > FLAC frontend 1.7.1
+
+GENERATION:
+ANA(2) > WAV [48kHz] > WAV [44.1kHz] > FLAC [Level 8]
+
+LENGTH:
+47:49
+
+TRACKS:
+01. Baba O'Riley
+02. Jesus Wants Me For A Sunbeam
+03. Drain You
+04. Aneurysm
+05. School
+06. Smells Like Teen Spirit
+07. About A Girl
+08. Polly
+09. Sliver
+10. Breed
+11. Been A Son
+12. Negative Creep
+13. On A Plain
+14. Blew
+
+MD5 FINGERPRINTS:
+f5354f8b328eef563789a6f9ac2458f8 *Nirvana_1991-12-07_AUD3_t01.flac
+a660708b0b5caab5e918f1a19a0c93e8 *Nirvana_1991-12-07_AUD3_t02.flac
+ae9056e4b3e8817ceb8e8087dee8f3af *Nirvana_1991-12-07_AUD3_t03.flac
+ff89f01a30311818d363731f8b03e534 *Nirvana_1991-12-07_AUD3_t04.flac
+18be3226bb0976e03f222c42497d773a *Nirvana_1991-12-07_AUD3_t05.flac
+1df68787c4dd6cfbdbf32f9fd2ab4b47 *Nirvana_1991-12-07_AUD3_t06.flac
+5c53f27acf092f81e3a8520056d7d0c2 *Nirvana_1991-12-07_AUD3_t07.flac
+0bf318db911e7f0673b8f2eb13d9cac0 *Nirvana_1991-12-07_AUD3_t08.flac
+306bca1b39c66c19760ccbca58049344 *Nirvana_1991-12-07_AUD3_t09.flac
+3d42cecdb09a25990405ebdb87d35eef *Nirvana_1991-12-07_AUD3_t10.flac
+db4530a8e12e686651ea9c42bc7cfac4 *Nirvana_1991-12-07_AUD3_t11.flac
+6d8870d5619d3423adeb7dd3d2360cdd *Nirvana_1991-12-07_AUD3_t12.flac
+32bd4e2d9e25be5fa6d60de13666550c *Nirvana_1991-12-07_AUD3_t13.flac
+77b3de270f8da1d9420ae4e7b2e11629 *Nirvana_1991-12-07_AUD3_t14.flac
+
+TRANSFERRED BY:
+Kris Sproul
+
+PLEASE DO NOT SELL OR ENCODE TO MP3

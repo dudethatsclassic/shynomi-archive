@@ -1,0 +1,82 @@
+NIRVANA
+February 6, 1994
+Pavilhão do Grupo Dramático e Sportivo de Cascais
+Cascais, Portugal
+
+SOURCE (AUD #1):
+built-in > Sony TCM-77V
+
+TRANSFER:
+Sony PCM-M1 > Echo Layla24 > Adobe Audition 2.0 > CD Wave 1.95.1 > FLAC frontend 1.7.1
+
+GENERATION:
+ANA(M) > DAT(1) [32kHz] > WAV [32kHz] > WAV [44.1kHz] > FLAC [Level 8]
+
+LENGTH:
+102:01
+
+NOTES:
+- Has various taper-related noises throughout the show.
+- Has two bassy humming noises at the beginning of "Radio Friendly Unit Shifter."
+- Has minor dropouts at the beginning of "School" and before "Heart-Shaped Box."
+
+TRACKS (DISC 1):
+01. Radio Friendly Unit Shifter
+02. Drain You
+03. Breed
+04. Serve The Servants
+05. Come As You Are
+06. Smells Like Teen Spirit
+07. Sliver
+08. Dumb
+09. In Bloom
+10. About A Girl
+11. Lithium
+12. Pennyroyal Tea
+13. School
+14. Polly
+
+TRACKS (DISC 2):
+01. Very Ape
+02. Sappy
+03. Rape Me
+04. Territorial Pissings (cut)
+05. Jesus Wants Me For A Sunbeam
+06. The Man Who Sold The World
+07. All Apologies
+08. On A Plain
+09. Scentless Apprentice
+10. Heart-Shaped Box
+11. Blew
+
+MD5 FINGERPRINTS:
+37142467048e38e83f5369febf8df5bf *Nirvana_1994-02-06_AUD1_d1t01.flac
+deeeb7a2d66016dea19e374066825514 *Nirvana_1994-02-06_AUD1_d1t02.flac
+8a76481fc14399ec79534012697bae51 *Nirvana_1994-02-06_AUD1_d1t03.flac
+dbe8f787ecf4067b3951df1437385784 *Nirvana_1994-02-06_AUD1_d1t04.flac
+568fce9186768eba4ce7337faba8a528 *Nirvana_1994-02-06_AUD1_d1t05.flac
+5245c46b5b284bf838fde1757b5ea36b *Nirvana_1994-02-06_AUD1_d1t06.flac
+b49a7c4e709b07235bd00b74d0f9da68 *Nirvana_1994-02-06_AUD1_d1t07.flac
+25255df9b689a9274a91957edac13b4b *Nirvana_1994-02-06_AUD1_d1t08.flac
+309925ef61008fe2de21808987c0fb69 *Nirvana_1994-02-06_AUD1_d1t09.flac
+e7401514afeb60208f6dbc2c871fde9c *Nirvana_1994-02-06_AUD1_d1t10.flac
+f8311224ff123b3a6e61955064cdfc21 *Nirvana_1994-02-06_AUD1_d1t11.flac
+cea4d340763e4cbdf81f11ff5fcc0a81 *Nirvana_1994-02-06_AUD1_d1t12.flac
+1dd2d2d459b431839c40dd2859f3b1a8 *Nirvana_1994-02-06_AUD1_d1t13.flac
+03b222887a52c4b72c0180bcbcd10c39 *Nirvana_1994-02-06_AUD1_d1t14.flac
+709c8f976edffd18243f2a75650463a7 *Nirvana_1994-02-06_AUD1_d2t01.flac
+984dabf311049709d4d61e9bf0cdad32 *Nirvana_1994-02-06_AUD1_d2t02.flac
+8f668491340a0ce7ff1bbd75fdc19171 *Nirvana_1994-02-06_AUD1_d2t03.flac
+7afb04e3c32f79737f3e073af5292f77 *Nirvana_1994-02-06_AUD1_d2t04.flac
+1e6f38f05297c8efc60b39a502256fd0 *Nirvana_1994-02-06_AUD1_d2t05.flac
+ad869696aedc5ca08f92601792930e2e *Nirvana_1994-02-06_AUD1_d2t06.flac
+d2404b78b23089f4d8183539cee041a8 *Nirvana_1994-02-06_AUD1_d2t07.flac
+d776e3a5c7b73fa5c2d83e8adedb8f98 *Nirvana_1994-02-06_AUD1_d2t08.flac
+b02d676b193edeafd809367d80679473 *Nirvana_1994-02-06_AUD1_d2t09.flac
+8e5130029c5d60aa0dedbd0e652b3a7e *Nirvana_1994-02-06_AUD1_d2t10.flac
+4160e85757d5d36f143a3d3d32b2ce73 *Nirvana_1994-02-06_AUD1_d2t11.flac
+
+TRANSFERRED BY:
+Kris Sproul
+
+PLEASE DO NOT SELL OR ENCODE TO MP3

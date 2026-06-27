@@ -1,0 +1,39 @@
+NIRVANA
+February 1, 1992
+The Palace
+Melbourne, Australia
+
+SOURCE (SBD #2):
+soundboard > Otari MTR-90
+
+TRANSFER:
+Nakamichi CR-7A > Hosa RCA cable > PreSonus FireStudio Project > Adobe Audition 3.0 > CD Wave 1.98 > Trader's Little Helper 2.6.0
+
+GENERATION:
+ANA(1) > WAV [48kHz] > WAV [44.1kHz] > FLAC [Level 8]
+
+LENGTH:
+23:10
+
+TRACKS:
+01. About A Girl
+02. Come As You Are
+03. Breed
+04. Polly
+05. Lounge Act
+06. Love Buzz
+07. Lithium
+
+MD5 FINGERPRINTS:
+9ecf9277c9e85b0c1c03f459c5e6332f *Nirvana_1992-02-01_SBD2_t01.flac
+5c7e4ad662f3f66ab5138849432b5e8a *Nirvana_1992-02-01_SBD2_t02.flac
+a6e4144d93561e21d739de0ba17c0ffb *Nirvana_1992-02-01_SBD2_t03.flac
+94f39a7c658f63efa74f3fed5f894ddf *Nirvana_1992-02-01_SBD2_t04.flac
+971ac8b43a356540e3b50facb457a4ff *Nirvana_1992-02-01_SBD2_t05.flac
+315a14b7d3b4aff0fd3691cda2e60752 *Nirvana_1992-02-01_SBD2_t06.flac
+c52d09801026943fcdeebb9f8c1b77e3 *Nirvana_1992-02-01_SBD2_t07.flac
+
+TRANSFERRED BY:
+Mike Ziegler
+
+PLEASE DO NOT SELL OR ENCODE TO MP3

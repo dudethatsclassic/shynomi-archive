@@ -1,0 +1,51 @@
+NIRVANA
+September 1, 1991
+De Doelen (Ein Abend in Wien)
+Rotterdam, The Netherlands
+
+SOURCE (AUD #2b):
+Sony PC-62 > Sony WM-D3
+
+TRANSFER:
+Nakamichi CR-7A > Hosa RCA cable > PreSonus FireStudio Project > Adobe Audition 3.0 > CD Wave 1.98 > Trader's Little Helper 2.6.0
+
+GENERATION:
+ANA(2) > WAV [48kHz] > WAV [44.1kHz] > FLAC [Level 8]
+
+LENGTH:
+47:08
+
+TRACKS:
+01. intro
+02. Polly
+03. Drain You
+04. School
+05. Floyd The Barber
+06. Smells Like Teen Spirit
+07. Come As You Are
+08. About A Girl
+09. Breed
+10. Sliver
+11. In Bloom
+12. Been A Son
+13. Negative Creep (part of)
+
+MD5 FINGERPRINTS:
+4b3c904cc678424746f62329b8735ab6 *Nirvana_1991-09-01_AUD2b_t01.flac
+cd517b56e0b37c31c33bc55643ad72b0 *Nirvana_1991-09-01_AUD2b_t02.flac
+dd723838f08863343472f5bc0d17289c *Nirvana_1991-09-01_AUD2b_t03.flac
+6c4cef8d72bb2e6b69dc2fdd1cbb8649 *Nirvana_1991-09-01_AUD2b_t04.flac
+6b4987e1aeb49d167327f131ae201fcd *Nirvana_1991-09-01_AUD2b_t05.flac
+975bed7e44e940c72fce2a88a952cd43 *Nirvana_1991-09-01_AUD2b_t06.flac
+369f56d203274af11278b3176ea700e7 *Nirvana_1991-09-01_AUD2b_t07.flac
+3dc9e9f018b464d06d00e66d29abd72c *Nirvana_1991-09-01_AUD2b_t08.flac
+da0b386d5a8c8d09d1a3b9d959e3fabd *Nirvana_1991-09-01_AUD2b_t09.flac
+41660e17747ab1ccf36abef53dbc912f *Nirvana_1991-09-01_AUD2b_t10.flac
+db402f545343915f3e821ec6167c06ca *Nirvana_1991-09-01_AUD2b_t11.flac
+a571d6f5f6263f72e6ec3bde4954a64f *Nirvana_1991-09-01_AUD2b_t12.flac
+f17d094801bc437aefbcf3ec9480567f *Nirvana_1991-09-01_AUD2b_t13.flac
+
+TRANSFERRED BY:
+Mike Ziegler
+
+PLEASE DO NOT SELL OR ENCODE TO MP3

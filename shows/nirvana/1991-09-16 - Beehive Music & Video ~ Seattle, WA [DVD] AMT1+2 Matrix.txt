@@ -1,0 +1,37 @@
+NIRVANA 1991.09.16 - Beehive Music & Video, Seattle, WA, US
+
+SETLIST:
+-----------------
+Drain You 
+The Green Manalishi (jam)
+Breed
+Floyd The Barber
+Polly
+Smells Like Teen Spirit
+Come As You Are
+School
+Territorial Pissings
+Blew
+Negative Creep
+Been A Son
+Something In The Way
+Stain
+
+SOURCES:
+-----------------
+Video: VHS(1)>D8(1)>DVDR (AMT #1, Transfer 1, Barry Lajnwand, re-authored by AD)
+Audio: 8MM(M) -> AVI[DV25] -> M2V/WAV[8Mbps CBR/48kHz PCM] -> DVDR (AMT #2, Kris Sproul)
+
+NOTES:
+-----------------
+The first audio track is a mixdown of AMT #1 and AMT #2 audio, with some equalizing.
+The second audio track is the unaltered AMT #2 audio.
+Video has not been re-encoded.
+
+DVD Info:
+-----------------
+Source: MATRIX
+Created and authored by: Negative Creep
+Length: 31 min (incomplete)
+Video: 720x480, 29.97 fps, 7,6MB/s CBR
+Audio: 448kbps/48khz, stereo

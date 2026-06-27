@@ -1,0 +1,31 @@
+NIRVANA
+September 11, 1992
+Seattle Center Coliseum (Washington Music Industry Coalition Benefit)
+Seattle, WA
+
+SOURCE (PRO #1b):
+soundboard > unknown
+
+TRANSFER:
+JVC HR-S9911U > Echo Layla24 > Adobe Audition 1.5 > CD Wave 1.94.8 > FLAC frontend 1.7.1
+
+GENERATION:
+VHS(2) > WAV [48kHz] > WAV [44.1kHz] > FLAC [Level 8]
+
+[Initially circulated as VHS(x)]
+
+LENGTH:
+3:53
+
+TRACKS:
+01. intro
+02. Breed
+
+MD5 FINGERPRINTS:
+046867bb861c18eaacf3a906cae98bbf *Nirvana_1992-09-11_PRO1b_t01.flac
+4481a82ca500db91fd8b6eee4052d25f *Nirvana_1992-09-11_PRO1b_t02.flac
+
+TRANSFERRED BY:
+Kris Sproul
+
+PLEASE DO NOT SELL OR ENCODE TO MP3

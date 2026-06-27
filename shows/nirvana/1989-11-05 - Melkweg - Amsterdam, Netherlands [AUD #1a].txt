@@ -1,0 +1,64 @@
+NIRVANA
+November 5, 1989
+Melkweg
+Amsterdam, The Netherlands
+
+DISC #1/1 (70:36)
+-----------------
+01) School (cut)
+02) Scoff
+03) Love Buzz
+04) Floyd The Barber
+05) Dive
+06) Polly
+07) Big Cheese
+08) Spank Thru
+09) About A Girl
+10) Mr. Moustache
+11) Even In His Youth
+12) Breed
+13) Been A Son (cut)
+14) Stain (jam) (cut)
+15) Stain (cut)
+16) Negative Creep
+17) Blew
+18) Token Eastern Song
+19) Vendetagainst (cut)
+
+GENERATION
+-----------------
+ANA(2) -> WAV [48kHz] -> WAV [44.1kHz] -> FLAC [Level 8]
+
+SOURCE (AUD#1a)
+-----------------
+unknown -> unknown
+
+TRANSFER
+-----------------
+Nakamichi DR-8 -> Hosa RCA cable -> LynxONE analog-in -> Adobe Audition 1.5 -> CD Wave 1.94.5 -> FLAC Frontend 1.7.1
+
+MD5 FINGERPRINTS
+-----------------
+e74d3f7adeaec763491ad0cca3483e2f *nirvana1989-11-05t01.flac
+bc5f190ff018133454422b26b10bdf5d *nirvana1989-11-05t02.flac
+3d356b8476a3a2cb0d37a6a4a445a993 *nirvana1989-11-05t03.flac
+3b2fd3d23dfd3e497c304c479e9ecfce *nirvana1989-11-05t04.flac
+2a23fc3e5ec9964005a3d928b0988f4c *nirvana1989-11-05t05.flac
+534fe8c2e41257a0427f7845eac98340 *nirvana1989-11-05t06.flac
+6d421807d191c025bae80a98a97bfc0b *nirvana1989-11-05t07.flac
+686a84ac4b30abe816c0ac901762bd3e *nirvana1989-11-05t08.flac
+02bbfcc73bc2f7dbe922ff7c35165664 *nirvana1989-11-05t09.flac
+ccf21fbd887f932a8ea3a2f50b34363d *nirvana1989-11-05t10.flac
+bfdec489fc3daea4cf092cf99200174b *nirvana1989-11-05t11.flac
+4c942aed8f68bd219cbe7fa1dcc8bcb2 *nirvana1989-11-05t12.flac
+a7017f8cecf89918be62d0abef02bbdd *nirvana1989-11-05t13.flac
+cc6a63171ae39d794aa00c8a54aedc75 *nirvana1989-11-05t14.flac
+e2bb8874a564ffd3b6926ca015c291e5 *nirvana1989-11-05t15.flac
+a49aeb4e96f372e5ac51e0e2294624a1 *nirvana1989-11-05t16.flac
+1cd173d08ba8a2e715acb854728a7a25 *nirvana1989-11-05t17.flac
+90a70dcd368eca8e0abfe7b5e2b10513 *nirvana1989-11-05t18.flac
+545e68f8423dc6745aebb4c1d709aafd *nirvana1989-11-05t19.flac
+
+
+Transferred by Mike Ziegler.
+PLEASE DO NOT ENCODE TO MP3 OR SELL!

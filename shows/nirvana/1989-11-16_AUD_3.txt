@@ -1,0 +1,61 @@
+NIRVANA
+November 16, 1989
+Trust
+Nuremberg, West Germany
+
+DISC #1/1 (54:41)
+-----------------
+01) intro (cut)
+02) School
+03) Scoff
+04) Love Buzz
+05) Floyd The Barber
+06) Dive
+07) Sappy
+08) Big Cheese
+09) jam
+10) About A Girl
+11) Mr. Moustache
+12) Breed
+13) Been A Son
+14) Negative Creep (cut)
+15) Blew 
+
+GENERATION
+-----------------
+ANA(x) -> CDR(x) -> WAV [44.1kHz] -> FLAC [Level 8]
+
+SOURCE (AUD#3)
+-----------------
+unknown -> unknown
+
+NOTES
+-----------------
+- Has two cuts within the "intro".
+- "Negative Creep" has a cut due to a tape flip.
+
+EXTRACTION
+-----------------
+Samsung SH-W163A -> Exact Audio Copy v0.99 prebeta 4 -> Adobe Audition 3.0 -> CD Wave 1.97 -> FLAC Frontend 1.7.1
+
+MD5 FINGERPRINTS
+-----------------
+b54718b6b6545dfcab67a4ca4b5b9872 *nirvana1989-11-16t01.flac
+c4f606e2c6e687dec48e46f0064b0b4a *nirvana1989-11-16t02.flac
+98b52d5ab855dd263afae252c408ee62 *nirvana1989-11-16t03.flac
+eb30f09b848c91ee74bb7bcd6c4a0532 *nirvana1989-11-16t04.flac
+10922ecbbd83d76dfc87513596d7ac83 *nirvana1989-11-16t05.flac
+1e59fdd90923a339f8d966b62e01891c *nirvana1989-11-16t06.flac
+9b9bca33df37a4295bb17469f8c6c6c2 *nirvana1989-11-16t07.flac
+98045107f79f324693b5f18d97851f9e *nirvana1989-11-16t08.flac
+f2579f42c89c8937f8ed60a4b82adb56 *nirvana1989-11-16t09.flac
+c1972086cf19e14d4f9d1c9d94fa459a *nirvana1989-11-16t10.flac
+3e1f5d3c3ff810ed174994f9673eac8f *nirvana1989-11-16t11.flac
+f9e5311113383e74f1390a64b9140572 *nirvana1989-11-16t12.flac
+f6e803dd11082d6f4e081b7931b7fe75 *nirvana1989-11-16t13.flac
+46601e15bfca4a7f84dfa6e4d694e318 *nirvana1989-11-16t14.flac
+68e647e34f3d58be245c79cff225dd21 *nirvana1989-11-16t15.flac
+
+
+Extracted by Fabian Beyer.
+PLEASE DO NOT ENCODE TO MP3 OR SELL!

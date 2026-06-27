@@ -1,0 +1,66 @@
+NIRVANA
+October 24, 1990
+Astoria Theatre
+London, United Kingdom
+
+DISC #1/1 (68:54)
+-----------------
+01) intro
+02) Blew
+03) Been A Son
+04) Negative Creep
+05) Stain
+06) Lithium
+07) Spank Thru
+08) Breed
+09) Floyd The Barber
+10) Big Cheese
+11) About A Girl
+12) In Bloom
+13) Scoff
+14) Molly's Lips (cut)
+15) D-7
+16) Love Buzz
+17) Sliver
+18) Dive
+19) Paper Cuts
+20) School
+
+GENERATION
+-----------------
+ANA(2) -> WAV [48kHz] -> WAV [44.1kHz] -> FLAC [Level 8]
+
+SOURCE (AUD#1)
+-----------------
+unknown -> unknown
+
+TRANSFER
+-----------------
+Nakamichi DR-8 -> Hosa RCA cable -> LynxONE analog-in -> Adobe Audition 1.5 -> CD Wave 1.94.5 -> FLAC Frontend 1.7.1
+
+MD5 FINGERPRINTS
+-----------------
+5ac94d54a9de495d8679c7c0acabedbb *nirvana1990-10-24t01.flac
+97979dfc72fb21b87c4f2a3dea22214a *nirvana1990-10-24t02.flac
+f293fbfc27343bbfc8729d3981ccf8ba *nirvana1990-10-24t03.flac
+9f963a1dc0c6793c4303fb31214c762e *nirvana1990-10-24t04.flac
+706b788254e9c051647e995e9ef6ceb7 *nirvana1990-10-24t05.flac
+9796108c33f998af848b02dccec381ba *nirvana1990-10-24t06.flac
+880d77a21f426bd0c51f21a04dd7c175 *nirvana1990-10-24t07.flac
+3b93529e0208e23ccfb8bd27e3006d84 *nirvana1990-10-24t08.flac
+88248013488f7c4c4339287859ba5030 *nirvana1990-10-24t09.flac
+6b7866e712612f88fdfba46993a8b93d *nirvana1990-10-24t10.flac
+33bbab60d378ed014d52141e2ae871fa *nirvana1990-10-24t11.flac
+4796ffa1f07f1c90c8c4c0cfd36bc0b8 *nirvana1990-10-24t12.flac
+de9f04f7073aac1a1a4a09be05e5fda1 *nirvana1990-10-24t13.flac
+80bab14a6a2c8250e047d2f92dd8ceef *nirvana1990-10-24t14.flac
+f270169726963a8833e2d3f0d055acc0 *nirvana1990-10-24t15.flac
+729412d41887baee2081541595194cef *nirvana1990-10-24t16.flac
+fd4b78c0c2b505ca9f22d0e1480ad4d4 *nirvana1990-10-24t17.flac
+ea93139b5f14d792d3b834ae081bf7b9 *nirvana1990-10-24t18.flac
+6a3fc44e7357918021d6bda582ebc566 *nirvana1990-10-24t19.flac
+8db9999461b41717fb84e24ea58ec714 *nirvana1990-10-24t20.flac
+
+
+Transferred by Mike Ziegler.
+PLEASE DO NOT ENCODE TO MP3 OR SELL!

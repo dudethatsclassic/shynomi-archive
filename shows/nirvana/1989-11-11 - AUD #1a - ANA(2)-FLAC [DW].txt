@@ -1,0 +1,61 @@
+NIRVANA
+November 11, 1989
+Ecstasy
+Berlin, West Germany
+
+SOURCE: (AUD #1a):
+unknown > unknown
+
+TRANSFER:
+Nakamichi DR-1 > Focusrite Scarlett 8i6 > Adobe Audition 3.0 > Trader's Little Helper 2.8.4
+
+GENERATION:
+ANA(2) [Type II] > WAV [24-bit/48KHz] > WAV [16-bit/44.1KHz] > FLAC [Level 8]
+
+DURATION:
+38:58 MIN.
+
+NOTES:
+- From Frenzman collection #295
+- Lower quality and higher generation, but does not have the digital glitches that are on AUD #1b.
+- There are many cuts, but the the tape is believed to be complete, with Cobain curtailing the show 
+  part-way through "Breed" due to equipment problems.
+
+SETLIST:
+01. School
+02. Scoff
+03. Love Buzz [Shocking Blue cover]
+04. Floyd The Barber
+05. Dive
+06. Polly
+07. Big Cheese
+08. jam
+09. About A Girl
+10. Mr. Moustache
+11. Spank Thru
+12. Breed (part of)
+
+MD5 FINGERPRINTS:
+9964ee23ecba554dc906f0fb0ae277d3 *NIRVANA_1989-11-11_AUD1a_ANA2_t01_School.flac
+7a3d7ed3d8065105f75909c9d4e90b54 *NIRVANA_1989-11-11_AUD1a_ANA2_t02_Scoff.flac
+22ed2e3494acd28d276fca9e4ae1ade8 *NIRVANA_1989-11-11_AUD1a_ANA2_t03_Love Buzz [Shocking Blue cover].flac
+d5f5a9cedd56bb212eb8db36bac88176 *NIRVANA_1989-11-11_AUD1a_ANA2_t04_Floyd The Barber.flac
+ea7fe8b24ae082383d0ca24d2d783329 *NIRVANA_1989-11-11_AUD1a_ANA2_t05_Dive.flac
+42c0dbcd4696a8d868b54df7e3068702 *NIRVANA_1989-11-11_AUD1a_ANA2_t06_Polly.flac
+c766019fbc5f9d970be33c2ef2e96ca8 *NIRVANA_1989-11-11_AUD1a_ANA2_t07_Big Cheese (part of).flac
+13fd9400ef1a6837c9b4dce7c4105aa9 *NIRVANA_1989-11-11_AUD1a_ANA2_t08_jam.flac
+b226f082ca56ebc57b4b7628839ac9ec *NIRVANA_1989-11-11_AUD1a_ANA2_t09_About A Girl.flac
+b4bd7659ad6b422d7baa5185f0de70e7 *NIRVANA_1989-11-11_AUD1a_ANA2_t10_Mr. Moustache.flac
+84fb4bdc857a2a572a335ccf24de5473 *NIRVANA_1989-11-11_AUD1a_ANA2_t11_Spank Thru.flac
+0d32146d58d5593504d5fb4b0efae9f2 *NIRVANA_1989-11-11_AUD1a_ANA2_t12_Breed (part of).flac
+
+RECORDED BY:
+unknown
+
+TRANSFER:
+David Willhauk [2025-07-24]
+
+DISTRIBUTION:
+Fabian Beyer and Members of LiveNIRVANA.com
+
+PLEASE DO NOT SELL OR ENCODE TO LOSSY FORMATS!

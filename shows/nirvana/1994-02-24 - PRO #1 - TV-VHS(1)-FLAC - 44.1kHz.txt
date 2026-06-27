@@ -1,0 +1,34 @@
+NIRVANA
+February 22, 1994
+Palaghiaccio
+Marino, Italy
+
+DISC #1/1 (6:51)
+-----------------
+01) Smells Like Teen Spirit (cut)
+02) Lithium (cut)
+03) Pennyroyal Tea (cut)
+04) Rape Me (cut)
+
+GENERATION
+-----------------
+TV -> VHS(1) -> WAV [48kHz] -> WAV [44.1kHz] -> FLAC [Level 8]
+
+SOURCE (PRO#1)
+-----------------
+unknown -> unknown
+
+TRANSFER
+-----------------
+JVC HR-S9500 -> Hosa RCA cable -> LynxONE analog-in -> Adobe Audition 3.0 -> CD Wave 1.96.1 -> FLAC Frontend 1.7.1
+
+MD5 FINGERPRINTS
+-----------------
+61f44c899f0262ece98a09e04e56748a *nirvana1994-02-22t01.flac
+4bab12893297613dda434fb1f65a8953 *nirvana1994-02-22t02.flac
+a2809d337c49e6d5943ba1b8ec66dda8 *nirvana1994-02-22t03.flac
+a5dabdaf8a55f6e640f1438482159709 *nirvana1994-02-22t04.flac
+
+
+Transferred by Mike Ziegler.
+PLEASE DO NOT ENCODE TO MP3 OR SELL!

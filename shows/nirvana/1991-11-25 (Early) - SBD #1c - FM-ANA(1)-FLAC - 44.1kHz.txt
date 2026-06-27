@@ -1,0 +1,29 @@
+NIRVANA
+November 25, 1991
+NOB radiostudio (2 Meter Sessie)
+Hilversum, The Netherlands
+
+SOURCE (SBD #1c):
+soundboard > unknown
+
+TRANSFER:
+Nakamichi CR-7A > Hosa RCA cable > PreSonus FireStudio Project > Adobe Audition 3.0 > CD Wave 1.98 > Trader's Little Helper 2.6.0
+
+GENERATION:
+FM > ANA(1) > WAV [48kHz] > WAV [44.1kHz] > FLAC [Level 8]
+
+LENGTH:
+9:19
+
+TRACKS:
+01. Where Did You Sleep Last Night (cuts in)
+02. Here She Comes Now
+
+MD5 FINGERPRINTS:
+59c6beada5f75873629ef6bb27d0c315 *Nirvana_1991-11-25_early_SBD1c_t01.flac
+838f63a0048a6f027b505b584fc6b1c4 *Nirvana_1991-11-25_early_SBD1c_t02.flac
+
+TRANSFERRED BY:
+Mike Ziegler
+
+PLEASE DO NOT SELL OR ENCODE TO MP3

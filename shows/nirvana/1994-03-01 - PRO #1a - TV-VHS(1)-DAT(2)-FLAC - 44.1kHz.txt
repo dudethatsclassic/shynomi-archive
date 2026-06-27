@@ -1,0 +1,32 @@
+NIRVANA
+March 1, 1994
+Terminal 1
+Munich, Germany
+
+DISC #1/1 (9:26)
+-----------------
+01) Radio Friendly Unit Shifter (cut)
+02) My Best Friend's Girl (cut)
+03) Drain You
+
+GENERATION
+-----------------
+TV -> VHS(1) -> DAT(2) -> WAV [32kHz] -> WAV [44.1kHz] -> FLAC [Level 8]
+
+SOURCE (PRO#1a)
+-----------------
+unknown -> unknown
+
+TRANSFER
+-----------------
+Tascam DA-20 MKII -> Apogee S/PDIF cable -> LynxONE digital-in -> Adobe Audition 2.0 -> CD Wave 1.94.8 -> FLAC Frontend 1.7.1
+
+MD5 FINGERPRINTS
+-----------------
+dc29a86d384408a73692ba6941d50a08 *nirvana1994-03-01t01.flac
+bce042e5eed8e5225d91d7f2783abfcf *nirvana1994-03-01t02.flac
+f541c43208ae880303d4a2445bc74eb0 *nirvana1994-03-01t03.flac
+
+
+Transferred by Mike Ziegler.
+PLEASE DO NOT ENCODE TO MP3 OR SELL!

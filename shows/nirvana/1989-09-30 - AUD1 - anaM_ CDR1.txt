@@ -1,0 +1,54 @@
+NIRVANA
+September 30, 1989
+Cabaret Metro
+Chicago, IL
+
+DISC #1/1 (46:28)
+-----------------
+01) intro
+02) School
+03) Scoff
+04) Love Buzz
+05) Floyd The Barber
+06) Dive
+07) Polly
+08) Big Cheese
+09) Spank Thru
+10) Token Eastern Song
+11) About A Girl
+12) Stain
+13) Negative Creep
+14) Blew
+
+GENERATION
+-----------------
+ANA(M) -> CDR(1) -> WAV [44.1kHz] -> FLAC [Level 8]
+
+SOURCE (AUD#1)
+-----------------
+Teac -> Sony TC-D5
+
+EXTRACTION
+-----------------
+TSSTCorp SH-S182D -> Exact Audio Copy V0.99 prebeta 3 -> Adobe Audition 3.0 -> CD Wave 1.96.1 -> FLAC Frontend 1.7.1
+
+MD5 FINGERPRINTS
+-----------------
+558f8de49ca6114a4ca7e8a1645d764e *nirvana1989-09-30t01.flac
+c05dd0a5477d17c9e3aa4bae62450b7a *nirvana1989-09-30t02.flac
+9c325d2347294319a0412dae3d46d855 *nirvana1989-09-30t03.flac
+dcf3d69a044a82a925e87e11db6b5c71 *nirvana1989-09-30t04.flac
+a0b66820661de8235a2519fe02bbc82b *nirvana1989-09-30t05.flac
+532849e763d8aee159e2f4ad19877c93 *nirvana1989-09-30t06.flac
+7162313ceb0fd0221ab66f1cb22c40aa *nirvana1989-09-30t07.flac
+af66608aa7c8bd192425b296ae0ee48a *nirvana1989-09-30t08.flac
+dc691a407eebe5d6d5c464d68b67ce59 *nirvana1989-09-30t09.flac
+66bdf71615e90776a0bce6625e185ab4 *nirvana1989-09-30t10.flac
+f954122037d0c0002614a6a758a5ff52 *nirvana1989-09-30t11.flac
+23c204575cda5756022a490c214697e3 *nirvana1989-09-30t12.flac
+5fd93983b238fbece96b44ecf8506ea4 *nirvana1989-09-30t13.flac
+02dc562ba4291863db80eda72a36be39 *nirvana1989-09-30t14.flac
+
+
+Extracted by Mike Ziegler.
+PLEASE DO NOT ENCODE TO MP3 OR SELL!

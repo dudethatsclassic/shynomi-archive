@@ -1,0 +1,48 @@
+NIRVANA
+November 27, 1991
+The Hummingbird
+Birmingham, United Kingdom
+
+SOURCE (AMT #1):
+built-in > unknown
+
+TRANSFER:
+Sony DCR-TRV320E > IEEE 1394 > Adobe Premiere Pro 3.0 / Adobe Audition 3.0 > Cinema Craft Encoder SP3 > DVD-lab PRO 2.30
+
+GENERATION:
+VID8(M) [PAL] > AVI [DV25] > M2V/WAV [8.0Mbps CBR/48kHz PCM] > DVDR(0)
+
+LENGTH:
+46:40
+
+TRACKS:
+01. intro
+02. Drain You (cut)
+03. Aneurysm (cut)
+04. Floyd The Barber
+05. Smells Like Teen Spirit
+06. About A Girl
+07. Polly
+08. Lithium
+09. Sliver
+10. Been A Son
+11. On A Plain
+12. Negative Creep
+13. Endless, Nameless
+
+MD5 FINGERPRINTS:
+b6cb57618bacde07c7185eb6764469c4 *VIDEO_TS\VIDEO_TS.BUP
+b6cb57618bacde07c7185eb6764469c4 *VIDEO_TS\VIDEO_TS.IFO
+774703b2abe6f493cce1fe86ab9555c3 *VIDEO_TS\VIDEO_TS.VOB
+4a3079a437a0f3fe1b6cf1d31a8b36cc *VIDEO_TS\VTS_01_0.BUP
+4a3079a437a0f3fe1b6cf1d31a8b36cc *VIDEO_TS\VTS_01_0.IFO
+68f358155f7687c353550c95d3c6f113 *VIDEO_TS\VTS_01_0.VOB
+fd36aacce40a60d70566a667ba7bd594 *VIDEO_TS\VTS_01_1.VOB
+ae3916a373bb0f92c16c5be087da48a9 *VIDEO_TS\VTS_01_2.VOB
+211d24c8c37f13c32f171f31e62773f8 *VIDEO_TS\VTS_01_3.VOB
+8fa767284e72bfa33f2aef2f027b01ab *VIDEO_TS\VTS_01_4.VOB
+
+TRANSFERRED BY:
+David Willhauk
+
+PLEASE DO NOT SELL OR ENCODE TO ANY LOSSY FORMATS

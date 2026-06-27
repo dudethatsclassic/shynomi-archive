@@ -1,0 +1,35 @@
+NIRVANA
+July 23, 1993
+Roseland Ballroom (New Music Seminar)
+New York, NY
+
+DISC #1/1 (9:37)
+-----------------
+01) Milk It (cuts in)
+02) Drain You
+03) tourette's (cuts in)
+04) Aneurysm (cuts out)
+
+GENERATION
+-----------------
+DAT(M) -> unknown -> ANA(X) -> WAV [48kHz] -> WAV [44.1kHz] -> FLAC [Level 8]
+
+SOURCE (SBD#1)
+-----------------
+built-in -> unknown
+
+TRANSFER
+-----------------
+SONY WM-FX323 (AVL5) -> 3.5mm AUX cable -> S/PDIF digital-in -> Adobe Audition CS5.5 -> Audacity 2.2.0
+
+MD5 FINGERPRINTS
+-----------------
+91159a91792e5c2916583d3f09dac701 *nirvana1993-07-23t01.flac
+956e6ca916f9a1f233613ba333b60286 *nirvana1993-07-23t02.flac
+0ca886c1dbe207954d5c8e6df911526d *nirvana1993-07-23t03.flac
+07c63c050429c75383289dd1b2e08777 *nirvana1993-07-23t04.flac
+
+
+
+Transferred by Kurtis Bishop.
+PLEASE DO NOT ENCODE TO MP3 OR SELL!

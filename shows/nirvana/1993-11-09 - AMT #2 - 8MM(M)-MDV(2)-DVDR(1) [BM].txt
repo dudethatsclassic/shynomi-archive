@@ -1,0 +1,70 @@
+NIRVANA
+November 9, 1993
+Stabler Arena, Lehigh University,
+Bethlehem, PA
+
+SOURCE (AMT #2):
+unknown > unknown (Video8)
+
+TRANSFER:
+JVC HM-DH30000u > Pinnacle 700 USB > Virtual Dub > Cinema Craft Encoder
+
+EXTRACTION:
+Pioneer DVR-109 > DVD Decrypter 3.5.4.0
+
+GENERATION:
+8MM(M) [NTSC] > MDV(2) > AVI [DV25] > M2V/AC3 [9.0Mbps CBR/384 kbps @ 48kHz] > DVD9-R(1) > your copy, which will be DVD9-R(2)
+
+LENGTH:
+84:21
+
+NOTES:
+- This was not torrented back in 2005, so DVD9-R(1) is the lowest generation possible
+- Features a 10 sec intro shot of the master tape
+
+TRACKS:
+01. Radio Friendly Unit Shifter (cuts in)
+02. Drain You
+03. Breed
+04. Serve The Servants
+05. About A Girl
+06. Heart-Shaped Box
+07. Sliver
+08. Dumb
+09. Come As You Are
+10. Lithium
+11. Pennyroyal Tea
+12. School
+13. Polly
+14. Milk It
+15. Rape Me
+16. Territorial Pissings
+17. Smells Like Teen Spirit
+18. All Apologies
+19. Jesus Wants Me For A Sunbeam
+20. In Bloom
+21. On A Plain
+22. Scentless Apprentice
+23. Blew
+
+MD5 FINGERPRINTS:
+fa51f7f0b6bf743ad48ac353aadaf1e3 *VIDEO_TS\VIDEO_TS.BUP
+fa51f7f0b6bf743ad48ac353aadaf1e3 *VIDEO_TS\VIDEO_TS.IFO
+5f7973ff9e4152827994d4149c8af39d *VIDEO_TS\VIDEO_TS.VOB
+37902f654b482d3a7da20be86c32612b *VIDEO_TS\VTS_01_0.BUP
+37902f654b482d3a7da20be86c32612b *VIDEO_TS\VTS_01_0.IFO
+dc53fae9102c42f0052bef8c553ecb95 *VIDEO_TS\VTS_01_0.VOB
+0077658f64b8d1ac8ac869fb38fbf8e2 *VIDEO_TS\VTS_01_1.VOB
+069fb2dcba0a2f0683f0f6b802bc99ee *VIDEO_TS\VTS_01_2.VOB
+c6cc467ab4320d1a3d5ee0a3a723dccf *VIDEO_TS\VTS_01_3.VOB
+88892399b76c5a963fa802e5295d844c *VIDEO_TS\VTS_01_4.VOB
+b64943308bc742510cd72f6f509929b1 *VIDEO_TS\VTS_01_5.VOB
+aeabdda6666113840489e7efc1f13d95 *VIDEO_TS\VTS_01_6.VOB
+
+TRANSFERRED BY:
+Bill Mayer
+
+EXTRACTED BY:
+Pierre Leroy
+
+PLEASE DO NOT SELL OR ENCODE TO MP3

@@ -1,0 +1,35 @@
+Nirvana
+March 1st, 1994
+Terminal 1, Flughafen München-Riem
+Munich, Germany
+
+SOURCE (PRO #1a):
+Unknown > Unknown
+
+EXTRACTION:
+Lite-On iHBS-112 > DVD Decrypter 3.5.4.0 > MakeMKV Beta 1.8.5 > MKVToolNix 6.4.1
+
+GENERATION:
+Official DVD 'Live And Loud' [NTSC] > MKV
+
+LENGTH:
+09:31
+
+NOTES:
+- No re-encoding
+- MKV aspect ratio flags have been modified
+- The order of "My Best Friend's Girl" and "Radio Friendly Unit Shifter" is swapped
+
+TRACKS:
+01. Radio Friendly Unit Shifter
+02. My Best Friend's Girl
+03. Drain You
+
+MD5 FINGERPRINTS:
+
+
+EXTRACTED BY:
+P.L.
+
+**DO NOT TRADE**
+**PLEASE DO NOT ENCODE TO LOSSY FORMATS OR SELL!**

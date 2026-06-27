@@ -1,0 +1,65 @@
+NIRVANA
+October 30, 1992
+Estadio José Amalfitani
+Buenos Aires, Argentina
+
+SOURCE (PRO #1c):
+soundboard > unknown
+
+TRANSFER:
+JVC HR-S9911U > Canopus ADVC-300 > IEEE 1394 > Adobe Premiere Pro CS5 > Adobe Audition 3.0 > CD Wave 1.98 > Trader's Little Helper 2.6.0
+
+GENERATION:
+VHS(2) > AVI [PCM] > WAV [48kHz] > WAV [44.1kHz] > FLAC [Level 8]
+
+LENGTH:
+60:08
+
+TRACKS:
+01. unknown
+02. Aneurysm
+03. Smells Like Teen Spirit (part of)
+04. Breed
+05. Smells Like Teen Spirit (part of)
+06. Drain You
+07. Beeswax
+08. Spank Thru
+09. School
+10. Come As You Are
+11. Lithium
+12. Lounge Act
+13. Sliver
+14. About A Girl
+15. Polly
+16. jam
+17. In Bloom
+18. Territorial Pissings
+19. Been A Son
+20. On A Plain
+
+MD5 FINGERPRINTS:
+03337cd64dafaf1750111d93c63398d2 *Nirvana_1992-10-30_PRO1c_t01.flac
+33db993d2fdc198b088e3b8e8776fa04 *Nirvana_1992-10-30_PRO1c_t02.flac
+4d1a852da283ae8503dacac527747774 *Nirvana_1992-10-30_PRO1c_t03.flac
+295e063cfb3277978a316b5dd2243952 *Nirvana_1992-10-30_PRO1c_t04.flac
+6789e7d7c76539202a80a254c9ba7cdd *Nirvana_1992-10-30_PRO1c_t05.flac
+5f790c949d595d9f59e624078e9ca14d *Nirvana_1992-10-30_PRO1c_t06.flac
+a2807931c9aa9e2d02f341d49a2d7944 *Nirvana_1992-10-30_PRO1c_t07.flac
+459dfd12135f587f0f4f4fd0df2250ea *Nirvana_1992-10-30_PRO1c_t08.flac
+b9f83aa48049785fc5322f41102dffa6 *Nirvana_1992-10-30_PRO1c_t09.flac
+0665e3de607df3e24271165c50f43ce0 *Nirvana_1992-10-30_PRO1c_t10.flac
+8fe554511f3c1477729c8ef69180068e *Nirvana_1992-10-30_PRO1c_t11.flac
+d66a5006285ec8bd6cb5dcd4b28dbbc5 *Nirvana_1992-10-30_PRO1c_t12.flac
+4a5af17fd07689ac811e8d25cb9e7078 *Nirvana_1992-10-30_PRO1c_t13.flac
+dd8b94c317b338a24357e66a762440b8 *Nirvana_1992-10-30_PRO1c_t14.flac
+c462b5f0b5e8319c69b8ab8c158c9c8c *Nirvana_1992-10-30_PRO1c_t15.flac
+f078f79bd6861b16e39126aebb257899 *Nirvana_1992-10-30_PRO1c_t16.flac
+1ba2bf299ac1603c6e956fbb11067748 *Nirvana_1992-10-30_PRO1c_t17.flac
+ddab9f66e373e23a573f681e00b9617c *Nirvana_1992-10-30_PRO1c_t18.flac
+3c23ebbc6bdd8d6f171075ae7506f89f *Nirvana_1992-10-30_PRO1c_t19.flac
+584bed72e51d3db7464a874df562bb8f *Nirvana_1992-10-30_PRO1c_t20.flac
+
+TRANSFERRED BY:
+Mike Ziegler
+
+PLEASE DO NOT SELL OR ENCODE TO MP3

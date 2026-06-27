@@ -1,0 +1,59 @@
+NIRVANA
+December 13, 1993
+Pier 48 (MTV Live and Loud rehearsal)
+Seattle, WA
+
+SOURCE (PRO #2):
+unknown > unknown
+
+EXTRACTION:
+Plextor PX-716A > DVD Decrypter 3.5.4.0 > Adobe Audition 2.0 > CD Wave 1.94.8 > FLAC frontend 1.7.1
+
+GENERATION:
+VHS(1) > DVDR(1) [PCM] > WAV [48kHz] > WAV [44.1kHz] > FLAC [Level 8]
+
+LENGTH:
+31:29
+
+NOTES:
+- Has short volume drops during "Radio Friendly Unit Shifter" and "Drain You."
+- Was initially circulated as AMT #2
+
+TRACKS:
+01. Very Ape (cuts in)
+02. Radio Friendly Unit Shifter (cut, cuts out)
+03. Drain You (cuts in)
+04. Breed (cuts in, cut)
+05. Serve The Servants (cuts in, cut)
+06. Serve The Servants (part of)
+07. Serve The Servants (part of)
+08. Rape Me (cuts in, cut)
+09. Sliver (part of)
+10. Sliver (part of) (cuts in)
+11. Sliver (part of) (cuts in)
+12. Sliver (cut, cuts out)
+13. Pennyroyal Tea (cuts in, cut)
+14. Scentless Apprentice (cut, cuts out)
+15. All Apologies (cuts in)
+
+MD5 FINGERPRINTS:
+14a14cb1374fd10aa6135ad83bb71a25 *Nirvana_1993-12-13_early_PRO2_t01.flac
+a2398301cc6545940cb88a633caa264c *Nirvana_1993-12-13_early_PRO2_t02.flac
+bfc42bea40b6ba1c3bae8d94762755ef *Nirvana_1993-12-13_early_PRO2_t03.flac
+fc3f2f2a51fc9245c552e6bdae4ceafb *Nirvana_1993-12-13_early_PRO2_t04.flac
+ee8eeececc5eb34dfcc8f9c54c3fd719 *Nirvana_1993-12-13_early_PRO2_t05.flac
+61931e0572eb274090cc7ed345fa717b *Nirvana_1993-12-13_early_PRO2_t06.flac
+4e1725ff021c3d2eaa0b133d2cf8cc9e *Nirvana_1993-12-13_early_PRO2_t07.flac
+0d304cdef93aa7cf3aa8ec89758a1268 *Nirvana_1993-12-13_early_PRO2_t08.flac
+608ce895994c5875ba3a840ea485211e *Nirvana_1993-12-13_early_PRO2_t09.flac
+c3c82476634571e150643831a0a4a500 *Nirvana_1993-12-13_early_PRO2_t10.flac
+0665c01dd09d182f49f8bce3cae1c69b *Nirvana_1993-12-13_early_PRO2_t11.flac
+13407eb4c57d7128e7412c18140db92e *Nirvana_1993-12-13_early_PRO2_t12.flac
+d8ec83334c27831cf258c86254409e9b *Nirvana_1993-12-13_early_PRO2_t13.flac
+6b4a411ab55844d89a9ff25b938464a9 *Nirvana_1993-12-13_early_PRO2_t14.flac
+13a8650b77140c3b8d483ffc96367a93 *Nirvana_1993-12-13_early_PRO2_t15.flac
+
+EXTRACTED BY:
+Kris Sproul
+
+PLEASE DO NOT SELL OR ENCODE TO MP3

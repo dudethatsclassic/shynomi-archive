@@ -1,0 +1,64 @@
+NIRVANA
+February 5, 1992
+ANU Union Bar, The Australian National University
+Canberra, Australia
+
+SOURCE (AUD #1):
+Aiwa (supplied) > Aiwa HS-J45
+
+TRANSFER:
+Nakamichi DR-8 > Echo Layla24 > Adobe Audition 1.5 > CD Wave 1.93 beta > FLAC frontend 1.7.1
+
+GENERATION:
+ANA(M) > WAV [48kHz] > WAV [44.1kHz] > FLAC [Level 8]
+
+LENGTH:
+65:58
+
+NOTES:
+- "Blew" is cut due to a tape flip.
+
+TRACKS:
+01. Aneurysm (cuts in)
+02. Drain You
+03. School
+04. Come As You Are
+05. Lithium
+06. Smells Like Teen Spirit
+07. Sliver
+08. About A Girl
+09. Breed
+10. Polly
+11. Floyd The Barber
+12. On A Plain
+13. Blew (cut)
+14. Negative Creep
+15. Been A Son
+16. Stain
+17. All Apologies
+18. Territorial Pissings
+
+MD5 FINGERPRINTS:
+1b56798b905304a5ac0c04334940bad3 *Nirvana_1992-02-05_AUD1_t01.flac
+3a647396bfb346516f8e704b150fbd6c *Nirvana_1992-02-05_AUD1_t02.flac
+b82f79cb08f1f1e623b4c51c18715e94 *Nirvana_1992-02-05_AUD1_t03.flac
+77159258e7e0d3b9b3326aa812c08513 *Nirvana_1992-02-05_AUD1_t04.flac
+951b1bdc86a52174a303a0207f3e96b9 *Nirvana_1992-02-05_AUD1_t05.flac
+a87ceada0ff15911d28b82080c5da41c *Nirvana_1992-02-05_AUD1_t06.flac
+044c741505b2b7c8019e709f54bb42ef *Nirvana_1992-02-05_AUD1_t07.flac
+e0dd70983fc993034d5116a47c3157de *Nirvana_1992-02-05_AUD1_t08.flac
+209d8a3642794f46792481f4345b9a92 *Nirvana_1992-02-05_AUD1_t09.flac
+e99015ebe90dd5e5dd31fa3742fcd1b5 *Nirvana_1992-02-05_AUD1_t10.flac
+740c0438a01d09619299112352176272 *Nirvana_1992-02-05_AUD1_t11.flac
+358295024d4a17d2f0f5adc7739bac7d *Nirvana_1992-02-05_AUD1_t12.flac
+ed6f791d7f3515ac408f2c6a3ed1d9fb *Nirvana_1992-02-05_AUD1_t13.flac
+48395d59298491d678cce6a931f59e13 *Nirvana_1992-02-05_AUD1_t14.flac
+af25b58cedafcc83e2b23699bd823b08 *Nirvana_1992-02-05_AUD1_t15.flac
+6722563a95d57ea8d44b8ebda2958015 *Nirvana_1992-02-05_AUD1_t16.flac
+fc1586d2044bebdb777b6ab9343497d8 *Nirvana_1992-02-05_AUD1_t17.flac
+6ceb93b04d7b143b175fcb69c4a7e33d *Nirvana_1992-02-05_AUD1_t18.flac
+
+TRANSFERRED BY:
+Kris Sproul
+
+PLEASE DO NOT SELL OR ENCODE TO MP3

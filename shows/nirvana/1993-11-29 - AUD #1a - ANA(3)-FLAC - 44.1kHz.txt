@@ -1,0 +1,71 @@
+NIRVANA
+November 29, 1993
+Omni Coliseum
+Atlanta, GA
+
+SOURCE (AUD #1a):
+unknown > Sony WM-D6
+
+TRANSFER:
+Nakamichi DR-8 > Echo Layla24 > Adobe Audition 2.0 > CD Wave 1.94.8 > FLAC frontend 1.7.1
+
+GENERATION:
+ANA(3) > WAV [48kHz] > WAV [44.1kHz] > FLAC [Level 8]
+
+LENGTH:
+90:09
+
+TRACKS (DISC 1):
+01. Radio Friendly Unit Shifter
+02. Drain You
+03. Breed
+04. Serve The Servants
+05. About A Girl
+06. Heart-Shaped Box
+07. Sliver
+08. Dumb
+09. In Bloom
+10. Come As You Are
+11. Lithium
+12. Pennyroyal Tea
+13. School
+
+TRACKS (DISC 2):
+01. Polly (cuts in, cuts out)
+02. Milk It
+03. Rape Me
+04. Territorial Pissings
+05. Smells Like Teen Spirit
+06. All Apologies
+07. On A Plain
+08. Scentless Apprentice
+09. Blew
+
+MD5 FINGERPRINTS:
+e6ded035169c4f295198dc7977e0de7a *Nirvana_1993-11-29_AUD1a_d1t01.flac
+abc06165bd86f2c51a3d6a3a744d40a7 *Nirvana_1993-11-29_AUD1a_d1t02.flac
+07d0194e9588efbc5ed8361dcd6dfd22 *Nirvana_1993-11-29_AUD1a_d1t03.flac
+1b2e88b3574c72267811b21bd0579380 *Nirvana_1993-11-29_AUD1a_d1t04.flac
+da8c689d413a495afad7ca887595fa76 *Nirvana_1993-11-29_AUD1a_d1t05.flac
+1c6c0268f4994d4de9232c8336467868 *Nirvana_1993-11-29_AUD1a_d1t06.flac
+6b2d1b115e3eb5ff03dbcbf0f0686f01 *Nirvana_1993-11-29_AUD1a_d1t07.flac
+f19bb626db7c0c47d280b4a5c3c59dbb *Nirvana_1993-11-29_AUD1a_d1t08.flac
+af5f351cecd530863c6470bdb1542d41 *Nirvana_1993-11-29_AUD1a_d1t09.flac
+049bd56d492eae97392d808ebce4ffb4 *Nirvana_1993-11-29_AUD1a_d1t10.flac
+7424faffe418a4b4faeec7d206d4e43a *Nirvana_1993-11-29_AUD1a_d1t11.flac
+921a923f2e1835b049e344d0cef9d2dd *Nirvana_1993-11-29_AUD1a_d1t12.flac
+9418e44ffed20324ca317e4aad08c883 *Nirvana_1993-11-29_AUD1a_d1t13.flac
+6be2f0fffde19b864a4c451d352a0e11 *Nirvana_1993-11-29_AUD1a_d2t01.flac
+ff2200d38fe9fd48c40c2c905ac8c3fe *Nirvana_1993-11-29_AUD1a_d2t02.flac
+22c84a3405e7be91d897f072249543a0 *Nirvana_1993-11-29_AUD1a_d2t03.flac
+4f6d18518345c9f7a87ab81e2490dd68 *Nirvana_1993-11-29_AUD1a_d2t04.flac
+7dd54d4f6d2402a92681a0606becdf5b *Nirvana_1993-11-29_AUD1a_d2t05.flac
+b43df580ae046d2d80c1de6a521b027a *Nirvana_1993-11-29_AUD1a_d2t06.flac
+7f930b8eb8394a12856907281e23ab62 *Nirvana_1993-11-29_AUD1a_d2t07.flac
+1fcce14f3162dca786f5a3dbb1530452 *Nirvana_1993-11-29_AUD1a_d2t08.flac
+49bd7916b2707494b6fe8713e0fec198 *Nirvana_1993-11-29_AUD1a_d2t09.flac
+
+TRANSFERRED BY:
+Kris Sproul
+
+PLEASE DO NOT SELL OR ENCODE TO MP3

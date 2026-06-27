@@ -1,0 +1,35 @@
+NIRVANA
+March 8, 1991
+Commodore Ballroom
+Vancouver, BC, Canada
+
+SETLIST (04:30)
+-----------------
+01) Breed (with Scoff intro cutting out)
+02) Territorial Pissings (cuts in)
+
+SOURCE (AMT #1)
+-----------------
+unknown > unknown
+
+GENERATION
+-----------------
+Official Blu-Ray "Live At The Paramount" -> WAV [48kHz, 16-bit] -> WAV [44.1kHz, 16-bit] -> FLAC [Level 8]
+
+EXTRACTION
+-----------------
+Lite-On iHBS-112 -> MakeMKV Beta 1.7.7 -> MKVToolNix 6.4.1 -> Adobe Audition 3.0 -> FLAC Frontend 1.7.1
+
+NOTES
+-----------------
+- Normalized
+- Removed useless silence
+
+MD5 FINGERPRINTS
+-----------------
+7591c797922471d732df7d31e32a4f22 *Nirvana_1991-03-08_AMT1_t01.flac
+f38dc6c06e1e6fb8a1a8f114d4508b21 *Nirvana_1991-03-08_AMT1_t02.flac
+
+Extracted by PL.
+PLEASE DO NOT ENCODE TO MP3 OR SELL!
+NO TRADE

@@ -1,0 +1,50 @@
+NIRVANA
+October 25, 1990
+Students' Union, Leeds Polytechnic
+Leeds, United Kingdom
+
+SOURCE (AMT #1):
+built-in > Sony CCD-V200E
+
+VIDEO TRANSFER:
+Sony CCD-TRV66E > Canopus ADVC 110 > Adobe Premiere Pro CC 2017 v11.0 / Adobe Audition 3.0 > AviSynth 2.6.0 > x264.exe 0.152.2851 ba24899 > MKVToolNix GUI v17.0.0
+
+RESYNC:
+AUD #1 ANA(2) transferred by Mike Ziegler. We worked with the 48kHz version and used Adobe Audition 3.0 to make the necessary speed adjustments. Tape flip after 'Scoff' patched with original audio from video.
+
+GENERATION:
+VID8(M) [PAL] > AVI [PCM] > MKV [H.264/MPEG-4 AVC (video); AAC 48kHz VBR (both AMT #1 and AUD #1 audio); FLAC 48kHz (AMT #1 audio)]
+
+LENGTH:
+60:29
+
+TRACKS:
+01. intro
+02. Blew
+03. Been A Son
+04. Negative Creep
+05. jam
+06. Stain
+07. Lithium
+08. Spank Thru
+09. Breed
+10. jam
+11. Floyd The Barber
+12. Big Cheese
+13. About A Girl
+14. In Bloom
+15. Scoff
+16. Molly's Lips
+17. Love Buzz
+18. D-7 (cuts in)
+19. Dive
+20. Sliver
+21. School
+
+MD5 FINGERPRINTS:
+085e282f7eade4d13d8f9fb4b4b30fff *Nirvana 1990-10-25 Video8 AAC FLAC1.0 x264.mkv
+
+TRANSFERRED AND ENCODED BY:
+Members of LiveNirvana.com
+
+PLEASE DO NOT SELL OR ENCODE TO MP3

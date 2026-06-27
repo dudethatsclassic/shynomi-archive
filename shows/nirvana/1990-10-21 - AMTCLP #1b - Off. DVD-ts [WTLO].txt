@@ -1,0 +1,32 @@
+NIRVANA
+October 21, 1990
+Studio 3, BBC Maida Vale Studios
+London, United Kingdom
+
+SOURCE (AMTCLP #1b):
+Unknown > Unknown
+
+EXTRACTION:
+Lite-On iHBS-112 > DVD Decrypter 3.5.4.0 > PGC Demux 1.2.5.0 > tsMuxer 1.10.6
+
+GENERATION:
+Official DVD 'With The Lights Out' [PAL] > TS
+
+LENGTH:
+00:09
+
+TRACKS:
+01. jam
+
+NOTES:
+- No re-encoding
+- Audio track is LPCM
+
+MD5 FINGERPRINTS:
+2e027dd136652f9028207718ef5452a1 *Nirvana_1990-10-21_AMTCLP1b_DVD.ts
+
+EXTRACTED BY:
+P.L.
+
+**DO NOT TRADE**
+**PLEASE DO NOT ENCODE TO LOSSY FORMATS OR SELL!**

@@ -1,0 +1,54 @@
+NIRVANA
+October 1, 1991
+J.C. Dobbs
+Philadelphia, PA
+
+SOURCE (AUD #1):
+built-in > unknown
+
+TRANSFER:
+Nakamichi DR-8 > Tascam DA-30mkII > Echo Layla24 > Cool Edit Pro 2.0 > CD Wave 1.93 beta > FLAC frontend 1.7.1
+
+GENERATION:
+ANA(M) > WAV [48kHz] > WAV [44.1kHz] > FLAC [Level 8]
+
+NOTES:
+Jesus Wants Me For A Sunbeam cuts in
+
+LENGTH:
+41:04
+
+TRACKS:
+01. Jesus Wants Me For A Sunbeam
+02. Drain You
+03. Aneurysm
+04. Floyd The Barber
+05. Smells Like Teen Spirit
+06. Polly
+07. About A Girl
+08. School
+09. Sliver
+10. Come As You Are
+11. jam
+12. Blew
+13. Been A Son
+
+MD5 FINGERPRINTS:
+c102d93e9d788d78c6566dfdb3647a38 *Nirvana_1991-10-01_AUD1_t01.flac
+ec57034822199b2858ee5ca5dc855538 *Nirvana_1991-10-01_AUD1_t02.flac
+09322eeaa2e35659482e26de5f7737e7 *Nirvana_1991-10-01_AUD1_t03.flac
+9e1bed6ad806ca686dc3e01a2ff89ec9 *Nirvana_1991-10-01_AUD1_t04.flac
+d5ca07350d3f3ac1fbd0ff055e6d22c2 *Nirvana_1991-10-01_AUD1_t05.flac
+fc37bcbf0e26b11ac81f9fd17937a091 *Nirvana_1991-10-01_AUD1_t06.flac
+72aa7a2519bc3c0a6f25ace9eb58d410 *Nirvana_1991-10-01_AUD1_t07.flac
+812748b95de459a4444592c091856131 *Nirvana_1991-10-01_AUD1_t08.flac
+9be3ad2ae80431c4f5c1828f28600144 *Nirvana_1991-10-01_AUD1_t09.flac
+6a2d7cb26aff27bb11040043e58b146f *Nirvana_1991-10-01_AUD1_t10.flac
+28d33e04d45486971b974d10e90bf8b1 *Nirvana_1991-10-01_AUD1_t11.flac
+4afa9fe7e251b4d85309df075d052f04 *Nirvana_1991-10-01_AUD1_t12.flac
+e5975d75453212bdf00a7cc0aa004351 *Nirvana_1991-10-01_AUD1_t13.flac
+
+TRANSFERRED BY:
+Kris Sproul
+
+PLEASE DO NOT SELL OR ENCODE TO MP3

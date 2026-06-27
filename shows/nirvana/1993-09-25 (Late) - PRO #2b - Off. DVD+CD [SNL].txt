@@ -1,0 +1,37 @@
+NIRVANA
+September 25, 1993
+NBC Studios (Saturday Night Live)
+New York, NY
+
+SOURCE (PRO #2b):
+soundboard > unknown
+
+EXTRACTION:
+Video : unknown > DVD Decrypter 3.4.5.0
+Audio : NEC ND-3540A > Exact Audio Copy V0.95 prebeta 5 > Adobe Audition 2.0 > FLAC Frontend 1.7.1
+
+EDIT:
+tsMuxeR 1.10.6
+
+GENERATION:
+Video : Official DVD "Saturday Night Live : 25 Years of Music (Volume 4)" [NTSC] > VOB > TS 
+Audio : Official CD "Saturday Night Live : The Musical Performances (Volume 2) > WAV [44.1kHz] > WAV [48kHz]
+
+LENGTH:
+2:56
+
+CHAPTERS:
+01. Rape Me
+
+NOTES:
+- No re-encoding
+- CD audio was upsampled from 44.1kHz to 48kHz and muxed with the video from the DVD
+
+MD5 FINGERPRINTS:
+aa6fca2215b73990158aec0148d2e396 *Nirvana_1993-09-25__late_PRO2b_DVD+CD.ts
+
+EDITED BY:
+P.L.
+
+**PLEASE DO NOT SELL OR ENCODE TO ANY OTHER FORMAT**
+**DO NOT TRADE**

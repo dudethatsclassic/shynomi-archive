@@ -1,0 +1,61 @@
+NIRVANA
+February 24, 1994
+Palatrussardi
+Milan, Italy
+
+SETLIST (81:20)
+-----------------
+01) intro
+02) Radio Friendly Unit Shifter
+03) Drain You
+04) Breed
+05) Serve The Servants
+06) Come As You Are
+07) Smells Like Teen Spirit
+08) Sliver
+09) Dumb
+10) In Bloom
+11) About A Girl
+12) Lithium
+13) Pennyroyal Tea
+14) School
+15) Polly
+16) Very Ape
+17) Lounge Act
+18) Rape Me
+19) Territorial Pissings
+20) All Apologies
+21) On A Plain
+22) Blew
+23) Heart-Shaped Box
+
+GENERATION
+-----------------
+Mixdown VHS(M) -> VHS(1) [PAL] -> AVI [DV25] -> M2V/WAV [8Mbps CBR/48kHz PCM] -> DVDR(0)
+
+SOURCE (AMT#2)
+-----------------
+unknown -> unknown
+
+TRANSFER
+-----------------
+JVC HR-S9500 -> AV Tool AVT-8710 -> Canopus ADVC55 -> IEEE 1394 -> Adobe Premiere Pro 2.0 -> TMPGEnc Plus 2.5 -> Adobe Encore DVD 2.0
+
+MD5 FINGERPRINTS
+-----------------
+133b5a8929fb48db9ab4cd8d20501f6c *VIDEO_TS/VIDEO_TS.BUP
+133b5a8929fb48db9ab4cd8d20501f6c *VIDEO_TS/VIDEO_TS.IFO
+f6622c67e2c24cb9ee2ed5e5cc306201 *VIDEO_TS/VIDEO_TS.VOB
+a922ff4d838d0f4af439fddbb23b4a63 *VIDEO_TS/VTS_01_0.BUP
+a922ff4d838d0f4af439fddbb23b4a63 *VIDEO_TS/VTS_01_0.IFO
+1f06fcc11c5c5247302181f29da514c0 *VIDEO_TS/VTS_01_0.VOB
+7c5d216d7cf7391d301bd00be8444c01 *VIDEO_TS/VTS_01_1.VOB
+83e6c6822352d4dc86e9497b9388848c *VIDEO_TS/VTS_01_2.VOB
+777d6e5c4d4d7d67db297be1a4bc00a8 *VIDEO_TS/VTS_01_3.VOB
+ae61f41ebf4525b99dec669222c60df7 *VIDEO_TS/VTS_01_4.VOB
+5f1db8e9871f9bf48f6832168f11d8ae *VIDEO_TS/VTS_01_5.VOB
+4d66651efa88640305a2607ac525f4a9 *VIDEO_TS/VTS_01_6.VOB
+
+
+Transferred by Mike Ziegler.
+PLEASE DO NOT ENCODE TO MP3 OR SELL!

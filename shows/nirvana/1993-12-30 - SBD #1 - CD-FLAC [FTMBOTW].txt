@@ -1,0 +1,28 @@
+NIRVANA
+December 30, 1993
+Great Western Forum
+Inglewood, CA
+
+DISC #1/1 (04:42)
+-----------------
+01) Heart-Shaped Box
+
+SOURCE (SBD #1)
+-----------------
+Soundboard -> unknown
+
+GENERATION
+-----------------
+Official CD "From The Muddy Banks Of The Wishkah" -> WAV [44.1kHz] -> FLAC [Level 8]
+
+EXTRACTION
+-----------------
+Lite-On iHBS-112 -> Exact Audio Copy v1.00 beta 3 -> FLAC Frontend 1.7.1
+
+MD5 FINGERPRINTS
+-----------------
+e8db9fc5f48d34fbbfad5c76ecd0c851 *Nirvana_1993-12-30_SBD1_CD_t01.flac
+
+Extracted by PL.
+PLEASE DO NOT ENCODE TO MP3 OR SELL!
+NO TRADE

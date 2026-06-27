@@ -1,0 +1,61 @@
+NIRVANA
+January 25, 1992
+Hordern Pavilion (Big Day Out), 
+Sydney, Australia
+
+DISC #1/1 (52:50)
+-----------------
+01) intro
+02) Aneurysm 
+03) Drain You 
+04) School 
+05) Floyd The Barber 
+06) About A Girl 
+07) Smells Like Teen Spirit 
+08) Polly 
+09) Sliver 
+10) Come As You Are 
+11) Lithium 
+12) Been A Son 
+13) On A Plain 
+14) Something In The Way (cut)
+15) Endless, Nameless
+
+GENERATION
+-----------------
+VHS(x) -> AVI [HuffYUV] -> WAV [48kHz] -> WAV [44.1kHz] -> FLAC [Level 8]
+
+SOURCE (AMT#1)
+-----------------
+soundboard > unknown 
+
+TRANSFER
+----------------
+JVC HR-S7700 -> DataVideo TBC-1000 -> ATi Theater 550 PRO -> Adobe Premiere 2.0 ->
+Adobe Audition 1.5 -> CD Wave v1.95.1 -> FLAC Frontend 1.7.1
+
+NOTES
+-----------------
+"Something In The Way" cuts in.  
+
+MD5 FINGERPRINTS
+-----------------
+dfe6cb27db7385c4a49ce05719d4bd14 *nirvana1992-01-25t01.flac
+8fb6e86f3d866c74aa0937cada313d0f *nirvana1992-01-25t02.flac
+68c68fe911f24dfea26b3f8b97366d6f *nirvana1992-01-25t03.flac
+375422a44c55cdc4c2ad9cfe3422d8b3 *nirvana1992-01-25t04.flac
+43fba7233972a3fae5abb1e20e2b0055 *nirvana1992-01-25t05.flac
+945c0abb681c6dbf614ecc9e89e828d4 *nirvana1992-01-25t06.flac
+1cce296f260cff2465b2520663308d0e *nirvana1992-01-25t07.flac
+1c4258b95a3c3b0b8e0fe08300e04222 *nirvana1992-01-25t08.flac
+5ca5cb759a6bb0390e38dfffba4e6a71 *nirvana1992-01-25t09.flac
+f3d3331ea6a83f9716251e75f88113c8 *nirvana1992-01-25t10.flac
+e3dc9992ba0d63778c7265ebc7cca43d *nirvana1992-01-25t11.flac
+5d54b1343bdbd0940de509a9c710891c *nirvana1992-01-25t12.flac
+d91fcd074d2f275fbf8f8719a0d09967 *nirvana1992-01-25t13.flac
+1f705fbc70edec151631b446a16027b3 *nirvana1992-01-25t14.flac
+59c3b62546ac3c142a64526794e2800a *nirvana1992-01-25t15.flac
+
+
+Transferred by Francisco Ortiz.
+PLEASE DO NOT ENCODE TO MP3 OR SELL!

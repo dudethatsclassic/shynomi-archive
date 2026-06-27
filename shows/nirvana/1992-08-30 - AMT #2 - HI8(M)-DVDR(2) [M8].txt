@@ -1,0 +1,67 @@
+NIRVANA
+August 30, 1992
+Richfield Avenue (Reading Festival)
+Reading, United Kingdom
+
+SOURCE (AMT #2):
+unknown > unknown
+
+GENERATION:
+HI8(M) > DVDR(1) [256kbps AC3] > REAUTHOR > DVDR(2)
+
+LENGTH:
+92:55
+
+NOTES:
+- Has some level fluctuations and static-like noises due to taper movement.
+- Has a minor dropout in "Negative Creep."
+
+TRACKS (DISC 1):
+01. intro
+02. Breed (cut)
+03. Drain You
+04. Aneurysm
+05. School
+06. Sliver
+07. In Bloom
+08. Come As You Are
+09. Lithium
+10. About A Girl
+11. tourette's
+12. Polly
+13. Lounge Act
+14. More Than A Feeling (part of)
+15. Smells Like Teen Spirit
+16. On A Plain
+17. Negative Creep
+18. Been A Son
+19. All Apologies (cuts in)
+20. Blew
+21. Dumb
+22. Stay Away
+23. Spank Thru
+24. Love Buzz
+25. Smoke On The Water (jam)
+26. The Money Will Roll Right In
+27. D-7
+28. Territorial Pissings
+29. The Star-Spangled Banner (part of)
+
+MD5 FINGERPRINTS:
+6784ab43e5e9203a4634b258ea0c4d89 *VIDEO_TS\VIDEO_TS.BUP
+6784ab43e5e9203a4634b258ea0c4d89 *VIDEO_TS\VIDEO_TS.IFO
+4a4b273cd81e3ef0f4eea6675d6639d2 *VIDEO_TS\VTS_01_0.BUP
+4a4b273cd81e3ef0f4eea6675d6639d2 *VIDEO_TS\VTS_01_0.IFO
+c74f364242d0d71b0ee7ccb4a591dc6b *VIDEO_TS\VTS_01_0.VOB
+e379769e944e1cc3f0603b0c0b8bb854 *VIDEO_TS\VTS_01_1.VOB
+ec0c0299d7d41bf243d9590f36ee146a *VIDEO_TS\VTS_01_2.VOB
+14f4862ed36d3a74a26ad59c6dd07eda *VIDEO_TS\VTS_01_3.VOB
+d130120b5cfdd0945dde23fb5ae3df88 *VIDEO_TS\VTS_01_4.VOB
+
+TRANSFERRED By : 
+Master8UK
+
+REAUTHORED BY:
+Francisco Ortiz
+
+PLEASE DO NOT SELL OR ENCODE TO LOSSY FORMATS

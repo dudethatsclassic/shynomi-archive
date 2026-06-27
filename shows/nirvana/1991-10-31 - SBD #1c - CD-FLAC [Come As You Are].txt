@@ -1,0 +1,30 @@
+NIRVANA
+October 31, 1991
+Paramount Theatre
+Seattle, WA
+
+DISC #1/1 (06:28)
+-----------------
+01) Drain You
+02) School
+
+GENERATION
+-----------------
+Official CD "Come As You Are" -> WAV [44.1kHz] -> FLAC [Level 8]
+
+SOURCE (SBD #1c)
+-----------------
+Soundboard -> unknown
+
+EXTRACTION
+-----------------
+Lite-On iHBS-112 -> Exact Audio Copy v1.00 beta 3 -> FLAC Frontend 1.7.1
+
+MD5 FINGERPRINTS
+-----------------
+a29fbef3b064235586362e8653b34214 *Nirvana_1991-10-31_SBD1c_t01.flac
+028e35579c7dadb6bdd5298c50b39088 *Nirvana_1991-10-31_SBD1c_t02.flac
+
+Extracted by PL.
+PLEASE DO NOT ENCODE TO MP3 OR SELL!
+NO TRADE

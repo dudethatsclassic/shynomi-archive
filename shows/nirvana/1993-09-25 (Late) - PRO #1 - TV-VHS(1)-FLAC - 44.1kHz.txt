@@ -1,0 +1,29 @@
+NIRVANA
+September 25, 1993
+NBC Studios (Saturday Night Live)
+New York, NY
+
+SOURCE (PRO #1):
+soundboard > unknown
+
+TRANSFER:
+JVC HR-S9911U > Echo Layla24 > Adobe Audition 2.0 > CD Wave 1.95.1 > FLAC frontend 1.7.1
+
+GENERATION:
+TV > VHS(1) > WAV [48kHz] > WAV [44.1kHz] > FLAC [Level 8]
+
+LENGTH:
+7:52
+
+TRACKS:
+01. Heart-Shaped Box
+02. Rape Me
+
+MD5 FINGERPRINTS:
+c1d28300f85aeb9a36ab73e08d5a63e3 *Nirvana_1993-09-25_PRO1_t01.flac
+4b426c7bfb2cb7a49773bcf5c4339e74 *Nirvana_1993-09-25_PRO1_t02.flac
+
+TRANSFERRED BY:
+Kris Sproul
+
+PLEASE DO NOT SELL OR ENCODE TO MP3

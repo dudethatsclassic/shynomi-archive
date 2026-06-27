@@ -1,0 +1,68 @@
+NIRVANA
+November 25, 1991
+Paradiso
+Amsterdam, The Netherlands
+
+CHAPTERS (61:18)
+-----------------
+00) Host Intro
+01) Interview with Grohl & Novoselic about the Paradiso performance
+02) Drain You
+03) Aneurysm
+04) School
+05) Floyd The Barber
+06) Smells Like Teen Spirit
+07) About A Girl
+08) Polly
+09) Lithium
+10) Sliver
+11) Breed
+12) Come As You Are
+13) Been A Son
+14) Negative Creep
+15) On A Plain
+16) Blew
+17) Love Buzz
+18) Territorial Pissings
+19) Destruction
+
+GENERATION
+-----------------
+Analog TV -> Lossless AVI [YV12] -> M2V/WAV [8.3Mbps CBR/48kHz PCM] -> DVDR(0)
+
+SOURCE (PRO#1a)
+-----------------
+soundboard -> unknown
+
+TRANSFER
+-----------------
+Pinnacle PCTV RAVE -> VirtualDub 1.9.11 -> TMPGEnc Plus 2.59.47.155 -> TMPGEnc DVD Author 1.6
+
+NOTES
+-----------------
+- Airing date September 25, 2011 at 00:05 for VPRO on the dutch channel NL3
+- Missing between song banter present on the circulating VHS(3)>DVDR but has better picture quality overall.
+- The Paradiso PRO#1a broadcast is 55:26, the VHS(3)>DVDR is 65:50
+
+TRANSFER NOTES
+-----------------
+- The broadcast started with an interview in 16:9 and the Paradiso show followed cropped in the 16:9 aspect ratio
+- I didn't cut and resize the Paradiso show to 4:3 full screen but left it untouched.  So the aspect ratio is 16:9 !
+- The PCM audio was digitally extracted from the AVI file and normalized to 98% in Adobe Audition 1.5, so it skipped the TMPGEnc Plus 2.59.47.155 step
+- No menu, 19 chapters ...
+
+MD5 FINGERPRINTS
+-----------------
+ae928bb5ad7e413c2f7a8312e0da7906 *VIDEO_TS\VIDEO_TS.BUP
+ae928bb5ad7e413c2f7a8312e0da7906 *VIDEO_TS\VIDEO_TS.IFO
+d862ac0c4a63c2c67d0488d28f05d8ed *VIDEO_TS\VTS_01_0.BUP
+d862ac0c4a63c2c67d0488d28f05d8ed *VIDEO_TS\VTS_01_0.IFO
+a5e9f7d6a27515226f2156295407f239 *VIDEO_TS\VTS_01_1.VOB
+a3f0b73f9151c5962834c9abe2cf85e0 *VIDEO_TS\VTS_01_2.VOB
+251a108c2b8eee385fbff48a085edfef *VIDEO_TS\VTS_01_3.VOB
+458492b607dcb0f3ed65d8f67fd40d05 *VIDEO_TS\VTS_01_4.VOB
+68bbc98a1d166518c20ff6cafa924e49 *VIDEO_TS\VTS_01_5.VOB
+
+
+Transferred by Pieter Vermeulen.
+PLEASE DO NOT ENCODE TO MP3 OR SELL!

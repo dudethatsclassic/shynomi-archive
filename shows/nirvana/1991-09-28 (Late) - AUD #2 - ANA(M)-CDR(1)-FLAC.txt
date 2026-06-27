@@ -1,0 +1,48 @@
+NIRVANA
+September 28, 1991
+Marquee Club
+New York, NY
+
+DISC #1/1 (29:38)
+-----------------
+01) Jesus Wants Me For A Sunbeam
+02) Aneurysm
+03) Drain You
+04) Smells Like Teen Spirit
+05) School
+06) Floyd The Barber
+07) Sliver
+08) Breed
+09) Polly (cut)
+
+GENERATION
+-----------------
+ANA(M) -> CDR(1) -> WAV [44.1kHz] -> FLAC [Level 8]
+
+SOURCE (AUD#2)
+-----------------
+built-in -> Sony
+
+TRANSFER
+-----------------
+Nakamichi CR-2A -> Harman/Kardon CDR 26
+
+EXTRACTION
+-----------------
+Plextor PlexWriter PX-W4824A -> Exact Audio Copy V0.95 -> Adobe Audition 1.5 -> CD Wave 1.94.5 -> FLAC Frontend 1.7.1
+
+MD5 FINGERPRINTS
+-----------------
+1dd45bbdb59b3b7361ff165e4b5f3deb *nirvana1991-09-28t01.flac
+3202963c398064089b18ed4496a08f37 *nirvana1991-09-28t02.flac
+95683a52abb4d3260999d31bd5e48d27 *nirvana1991-09-28t03.flac
+beade08553867c3383bbe87757ade877 *nirvana1991-09-28t04.flac
+0d06b5b1406d1ac2101877fc470df9f7 *nirvana1991-09-28t05.flac
+67deedec1ac3451d9f9a30755950b342 *nirvana1991-09-28t06.flac
+1267ac7232381bf0819ca3da5860b80c *nirvana1991-09-28t07.flac
+af498545cf429b1f71adb46ed4f45fbf *nirvana1991-09-28t08.flac
+e216ed4b6dc863242adb240ea6f01447 *nirvana1991-09-28t09.flac
+
+
+Transferred by Mike Ziegler.
+PLEASE DO NOT ENCODE TO MP3 OR SELL!

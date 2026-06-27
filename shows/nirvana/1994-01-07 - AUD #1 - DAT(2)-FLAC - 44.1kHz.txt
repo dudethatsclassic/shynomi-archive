@@ -1,0 +1,80 @@
+NIRVANA
+January 7, 1994
+Seattle Center Arena
+Seattle, WA
+
+DISC #1/2 (43:25)
+-----------------
+01) Radio Friendly Unit Shifter
+02) Drain You
+03) Breed
+04) Serve The Servants
+05) Come As You Are
+06) Smells Like Teen Spirit
+07) Sliver
+08) Dumb
+09) In Bloom
+10) About A Girl
+11) Lithium
+12) Pennyroyal Tea
+
+DISC #2/2 (54:39)
+-----------------
+01) School
+02) Polly
+03) Frances Farmer Will Have Her Revenge On Seattle
+04) Milk It
+05) Rape Me
+06) Territorial Pissings
+07) Jesus Doesn't Want Me For A Sunbeam
+08) The Man Who Sold The World
+09) All Apologies
+10) On A Plain
+11) Scentless Apprentice
+12) Heart-Shaped Box
+13) Blew
+
+GENERATION
+-----------------
+DAT(2) -> SHN -> WAV [44.1Khz] -> FLAC [Level 8]
+
+SOURCE (AUD#1)
+-----------------
+Sonic Studios -> Sony TCD-D3
+
+TRANSFER
+-----------------
+Shorten -> Adobe Audition 1.5 -> FLAC Frontend 1.7.1
+
+FLAC FINGERPRINTS
+-----------------
+nirvana1994-01-07d1t01.flac:a6fdba7b93206af75c2a62705006c2da
+nirvana1994-01-07d1t02.flac:e01d3e62980863f9a45980d4f346f1c3
+nirvana1994-01-07d1t03.flac:fb27532594f9cee980728ba7b281d5cf
+nirvana1994-01-07d1t04.flac:779434ad6f5734d0cdd531f022aa573f
+nirvana1994-01-07d1t05.flac:4a6d7bef05408a90fa0db112c3bfdf62
+nirvana1994-01-07d1t06.flac:bb7ffd8a13bf913c6e47e0f82a0054c7
+nirvana1994-01-07d1t07.flac:d0d26e3da8a4a33c2ef6f8370aa95b88
+nirvana1994-01-07d1t08.flac:6b82cc513e77aefcc9d6ed8cba95357b
+nirvana1994-01-07d1t09.flac:1fe1842eb12a54d3dbd80bdca226c72b
+nirvana1994-01-07d1t10.flac:14c346e7391b28aa67918af1da83142b
+nirvana1994-01-07d1t11.flac:556746e59dba2dcb3c5e89a4b0ed822c
+nirvana1994-01-07d1t12.flac:c52099efa137dbdbaffc74247c8d10ae
+nirvana1994-01-07d2t01.flac:9ee157d8198a47d4667f11b9317a031c
+nirvana1994-01-07d2t02.flac:40d9ccc17e6ce3fd651db42fde6b40c6
+nirvana1994-01-07d2t03.flac:f534edf2766522045fe042dcb8dcef35
+nirvana1994-01-07d2t04.flac:0c529d4f6a5dbb15c94f671b6e70b8fa
+nirvana1994-01-07d2t05.flac:b8d5052dfab52d45b248a9d8382176d3
+nirvana1994-01-07d2t06.flac:5b4c4e4bceca518d0f250e3ac47ec6f5
+nirvana1994-01-07d2t07.flac:53c1e2887ac767b21d6560bfd6f6b7da
+nirvana1994-01-07d2t08.flac:01fbf8a3f09b917e5d119a2b6c219bf0
+nirvana1994-01-07d2t09.flac:0c17c935849a9fc4511b6b5a8721c8e6
+nirvana1994-01-07d2t10.flac:ed8aa1c8dd67d23321f3ba70fa5bd8bd
+nirvana1994-01-07d2t11.flac:515411db8607f8adb0c895d731ccb183
+nirvana1994-01-07d2t12.flac:a5e3fd58564571b355fc728e9e0b30a1
+nirvana1994-01-07d2t13.flac:14b896284736ac4abe6aa95af6cadd1b
+
+
+Transferred by Jim Hirte.
+SHN to FLAC And Tracked by Pieter Vermeulen.
+PLEASE DO NOT ENCODE TO MP3 OR SELL!

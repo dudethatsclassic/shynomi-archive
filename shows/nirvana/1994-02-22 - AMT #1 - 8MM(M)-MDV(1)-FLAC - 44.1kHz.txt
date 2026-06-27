@@ -1,0 +1,82 @@
+NIRVANA
+February 22, 1994
+Palaghiaccio
+Marino, Italy
+
+DISC #1/2 (59:56)
+-----------------
+01) Radio Friendly Unit Shifter 
+02) Drain You
+03) Breed
+04) Serve The Servants
+05) Come As You Are
+06) Smells Like Teen Spirit
+07) Sliver
+08) Dumb
+09) Run To The Hills (jam)
+10) In Bloom
+11) About A Girl
+12) Lithium
+13) Pennyroyal Tea
+14) School
+15) Polly
+16) Very Ape 
+17) Lounge Act 
+18) Rape Me 
+19) Territorial Pissings (cut)
+
+DISC #2/2 (20:29)
+-----------------
+01) All Apologies
+02) On A Plain
+03) Scentless Apprentice
+04) Heart-Shaped Box
+05) jam
+
+GENERATION
+-----------------
+8MM(M) -> miniDV(1) -> .AVI [DV25] -> WAV [48kHz] -> WAV [44.1kHz] -> FLAC [Level 8]
+
+SOURCE (AMT#1)
+-----------------
+built-in -> Sony CCD-TR105E (8mm)
+
+TRANSFER
+-----------------
+Canon MV500i -> Adobe Premiere Pro 1.5 -> Adobe Audition 1.5 -> CD Wave 1.94.8 -> FLAC Frontend 1.7.1
+
+NOTES
+-----------------
+There is a cut after "Territorial Pissings", but no music is missing.
+
+MD5 FINGERPRINTS
+-----------------
+2dba9d7328dfd0ce39ec32ea07a9541e *nirvana1994-02-22d1t01.flac
+d39d1dc178e4076735d99cab8b8198d2 *nirvana1994-02-22d1t02.flac
+c0f103848470953af32fceae67d169ee *nirvana1994-02-22d1t03.flac
+d28c4477e9a1c0ec756b78e36afaa1f7 *nirvana1994-02-22d1t04.flac
+71304f27709e4899c99e934ba3f55e7a *nirvana1994-02-22d1t05.flac
+a2a1be4873ff74fdb4f15a9826358c31 *nirvana1994-02-22d1t06.flac
+d7ba436836ba169f0ff3705834ea9a14 *nirvana1994-02-22d1t07.flac
+c0da0c5995735debdcb87db17e557636 *nirvana1994-02-22d1t08.flac
+24a6a14039ff7c708ec1bffae8b83e5f *nirvana1994-02-22d1t10.flac
+a8f05141f7c1f69b0b2877364e0e6db2 *nirvana1994-02-22d1t11.flac
+1741c36332a9043fb3747256bc295af5 *nirvana1994-02-22d1t12.flac
+bcad0952aa14786ffd7d3cb8405d6339 *nirvana1994-02-22d1t13.flac
+915a963d4fb404cbf3e1eae6eb8d2360 *nirvana1994-02-22d1t14.flac
+59dd9078c420497e4f56c6759b09ecde *nirvana1994-02-22d1t15.flac
+2e0f2ee381f49d59070798ddd1c38bec *nirvana1994-02-22d1t16.flac
+5e834902ac2ee23fdb20ef2041702b61 *nirvana1994-02-22d1t17.flac
+86edbee4e8514deb8bafd8e0be60100d *nirvana1994-02-22d1t18.flac
+5552b65e8040a2715deeebc4afd57f4e *nirvana1994-02-22d1t19.flac
+a9e016afce75fdbea53d199c59d8d48e *nirvana1994-02-22d1t20.flac
+b34db5690f2eae55fccf80bd880e9b61 *nirvana1994-02-22d2t01.flac
+3457ca5c518726ac9c0ec4d939bb7fef *nirvana1994-02-22d2t02.flac
+6ba947b3a166ac45ebadc94b4f62f88c *nirvana1994-02-22d2t03.flac
+cbe33640e616bfe5a8beb4bd09dad023 *nirvana1994-02-22d2t04.flac
+47dda4d99f2fce2bd75081bde2b42710 *nirvana1994-02-22d2t05.flac
+
+
+
+Transferred by Fabian Beyer.
+PLEASE DO NOT ENCODE TO MP3 OR SELL!

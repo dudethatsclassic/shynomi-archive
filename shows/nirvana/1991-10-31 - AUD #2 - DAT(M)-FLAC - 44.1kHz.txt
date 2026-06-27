@@ -1,0 +1,65 @@
+NIRVANA
+October 31, 1991
+Paramount Theatre
+Seattle, WA
+
+SOURCE (AUD #2):
+Sonic Studios DSM-6P > Sony TCD-D3
+
+TRANSFER:
+Sony DTC-60ES > M-Audio Transit > Peak 4.13 > Adobe Audition 1.5 > CD Wave 1.94 > FLAC frontend 1.7.1
+
+GENERATION:
+DAT(M) [48kHz] > AIFF [48kHz] > WAV [44.1kHz] > FLAC [Level 8]
+
+LENGTH:
+68:39
+
+TRACKS:
+01. Jesus Wants Me For A Sunbeam
+02. Aneurysm
+03. Drain You
+04. School
+05. Floyd The Barber
+06. jam
+07. Smells Like Teen Spirit
+08. About A Girl
+09. Polly
+10. Breed
+11. Sliver
+12. Love Buzz
+13. Lithium
+14. Been A Son
+15. Negative Creep
+16. On A Plain
+17. Blew
+18. Rape Me
+19. Territorial Pissings
+20. Endless, Nameless
+
+MD5 FINGERPRINTS:
+473dd07722fb4b964beabcce8fcb40ce *Nirvana_1991-10-31_AUD2_t01.flac
+0b7524825b3a3f4bdfb5bc9f99208655 *Nirvana_1991-10-31_AUD2_t02.flac
+f04a7967c74b403c8522d4272f6cd7c8 *Nirvana_1991-10-31_AUD2_t03.flac
+f6a9cc67340501e49ab6b9ae44a3b796 *Nirvana_1991-10-31_AUD2_t04.flac
+cfe67fcd08a65f246a2b617f2364ec7f *Nirvana_1991-10-31_AUD2_t05.flac
+c76efb171b71916a18c42622468cb36b *Nirvana_1991-10-31_AUD2_t06.flac
+3870b6d3db4abbdf51d5adfdcfc607f8 *Nirvana_1991-10-31_AUD2_t07.flac
+d35843d32cef4c721a3491fcde170260 *Nirvana_1991-10-31_AUD2_t08.flac
+eaa05e98a9a88fd067956403f671e06f *Nirvana_1991-10-31_AUD2_t09.flac
+e8d34061f520ce829fe7997c06000894 *Nirvana_1991-10-31_AUD2_t10.flac
+2d225a8dc17412eb0d79540d1b9ad386 *Nirvana_1991-10-31_AUD2_t11.flac
+d55bddca2f31a196bc6ec8a04a75aa28 *Nirvana_1991-10-31_AUD2_t12.flac
+9f780d84cc16ea8f1eb8947cab8dfca8 *Nirvana_1991-10-31_AUD2_t13.flac
+2b39deda57049e5fcde931054e8fd4a7 *Nirvana_1991-10-31_AUD2_t14.flac
+b46f9d852f7cc8cdbe4429fb6c47c1cd *Nirvana_1991-10-31_AUD2_t15.flac
+8a4d936bd69216960bf1756a77137692 *Nirvana_1991-10-31_AUD2_t16.flac
+9c0afffb6b9a786dc2102b0701a9154a *Nirvana_1991-10-31_AUD2_t17.flac
+a88e74dfcd4260fd2b5941f8032f8f80 *Nirvana_1991-10-31_AUD2_t18.flac
+f0da915d7319c14bb2e5f641af965d07 *Nirvana_1991-10-31_AUD2_t19.flac
+9ac94a46d4bafccf00b08293aad289c0 *Nirvana_1991-10-31_AUD2_t20.flac
+
+TRANSFERRED BY:
+JEMS
+
+PLEASE DO NOT SELL OR ENCODE TO MP3

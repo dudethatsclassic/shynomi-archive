@@ -1,0 +1,69 @@
+NIRVANA
+June 26, 1992
+Dyrskuepladsen (Roskilde Festival)
+Roskilde, Denmark
+
+SOURCE (AUD #3):
+Sony PC-62 > Sony WM-D3
+
+TRANSFER:
+Nakamichi CR-7A > Hosa RCA cable > PreSonus FireStudio Project > Adobe Audition 3.0 > CD Wave 1.98 > Trader's Little Helper 2.6.0
+
+GENERATION:
+ANA(1) > WAV [48kHz] > WAV [44.1kHz] > FLAC [Level 8]
+
+LENGTH:
+79:49
+
+TRACKS:
+01. intro
+02. Aneurysm
+03. Drain You
+04. Stay Away
+05. Sliver
+06. School
+07. In Bloom
+08. Breed
+09. About A Girl
+10. Scoff
+11. Polly
+12. Lithium
+13. Blew
+14. Been A Son
+15. On A Plain
+16. Swap Meet
+17. Negative Creep
+18. Something In The Way
+19. Come As You Are
+20. Love Buzz
+21. Smells Like Teen Spirit
+22. Territorial Pissings
+
+MD5 FINGERPRINTS:
+79de8c2f7800901b75401cae362231ce *Nirvana_1992-06-26_AUD3_t01.flac
+4d6af099e27d1e9843832a161dd586e7 *Nirvana_1992-06-26_AUD3_t02.flac
+7820e0a7fa852d20359e45f736471592 *Nirvana_1992-06-26_AUD3_t03.flac
+644454c132c36be6f517378a704dd861 *Nirvana_1992-06-26_AUD3_t04.flac
+ed3c3d1d839e76cb1e0df17351329039 *Nirvana_1992-06-26_AUD3_t05.flac
+e9d925b617cf7a24ee63e6840cf0408b *Nirvana_1992-06-26_AUD3_t06.flac
+c3899f81a34e7a5def730769f3e2cc4a *Nirvana_1992-06-26_AUD3_t07.flac
+b4958e0a3764b10fb9c23e65751e8b25 *Nirvana_1992-06-26_AUD3_t08.flac
+025cc8ee469714435ac92d9003b001a9 *Nirvana_1992-06-26_AUD3_t09.flac
+ccf90b35db1a51f603a5dd1ed9eeda50 *Nirvana_1992-06-26_AUD3_t10.flac
+a8cbbf5bf6ba68b0fec7b96ce10aed3c *Nirvana_1992-06-26_AUD3_t11.flac
+cbcfd90ec0690cbee00f65907e5ffe41 *Nirvana_1992-06-26_AUD3_t12.flac
+56926d33f5ec61a236fd6eaf43fcb685 *Nirvana_1992-06-26_AUD3_t13.flac
+084d0cec1892de4a4ae3999f9af62907 *Nirvana_1992-06-26_AUD3_t14.flac
+698b45223b86b11934caa7ffa185578e *Nirvana_1992-06-26_AUD3_t15.flac
+2a0584cd3051a93b0fb321c8c10b12af *Nirvana_1992-06-26_AUD3_t16.flac
+2a35d326d9c3d29c6f3db165d687240a *Nirvana_1992-06-26_AUD3_t17.flac
+d129f10d4975b5a0f04a8b2e79081c5c *Nirvana_1992-06-26_AUD3_t18.flac
+e7a2ee9362b06c6071cf3d4ec414be5f *Nirvana_1992-06-26_AUD3_t19.flac
+7f25402db5369c955ccce9cf66826568 *Nirvana_1992-06-26_AUD3_t20.flac
+f26e79253d2c5fb3f49307eefc18b75a *Nirvana_1992-06-26_AUD3_t21.flac
+9af98ed28a63b6dfc3e78ddd2ea45689 *Nirvana_1992-06-26_AUD3_t22.flac
+
+TRANSFERRED BY:
+Mike Ziegler
+
+PLEASE DO NOT SELL OR ENCODE TO MP3

@@ -1,0 +1,32 @@
+NIRVANA
+December 3, 1989
+Astoria Theatre (Lame Fest UK '89)
+London, United Kingdom
+
+DISC #1/1 (06:51)
+-----------------
+01) Intro
+02) Polly
+03) Breed
+
+SOURCE (SBD #1)
+-----------------
+Soundboard -> unknown
+
+GENERATION
+-----------------
+Official CD "From The Muddy Banks Of The Wishkah" -> WAV [44.1kHz] -> FLAC [Level 8]
+
+EXTRACTION
+-----------------
+Lite-On iHBS-112 -> Exact Audio Copy v1.00 beta 3 -> FLAC Frontend 1.7.1
+
+MD5 FINGERPRINTS
+-----------------
+14dec13a0a422f79ac2beb645221fa8d *nirvana_1989-12-03_sbd1_t01.flac
+2dd0db9a7295bd4c4c364dc332df01df *nirvana_1989-12-03_sbd1_t02.flac
+f6dea1f81c6d04cabee294e9209646d8 *nirvana_1989-12-03_sbd1_t03.flac
+
+Extracted by PL.
+PLEASE DO NOT ENCODE TO MP3 OR SELL!
+NO TRADE

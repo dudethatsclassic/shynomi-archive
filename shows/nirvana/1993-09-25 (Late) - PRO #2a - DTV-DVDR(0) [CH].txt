@@ -1,0 +1,46 @@
+NIRVANA
+September 25, 1993
+NBC Studios (Saturday Night Live)
+New York, NY
+
+SOURCE #1 (PRO #1, inferior):
+soundboard > unknown
+
+SOURCE #2 (PRO #2a):
+soundboard > unknown
+
+TRANSFER:
+Unknown
+
+GENERATION:
+#1 TV > VHS(1) > DVDR(0) [NTSC 8.0Mbps CBR LPCM]
+#2 DTV > DVDR(0) [NTSC 8.0Mbps CBR LPCM]
+
+LENGTH:
+#1 09:16
+#2 09:33
+
+CHAPTERS:
+01. intro
+02. Heart-Shaped Box
+03. Rape Me
+04. credits
+
+EXTRAS:
+01. 09/08/93 (Kurt Cobain & Courtney Love) Club Lingerie, Hollywood, CA (PROCLP #1, unknown TV > VHS generation)
+
+MD5 FINGERPRINTS:
+b8eab93f4c0e51c957e3c269528101c5 *VIDEO_TS\VIDEO_TS.BUP
+b8eab93f4c0e51c957e3c269528101c5 *VIDEO_TS\VIDEO_TS.IFO
+196d82e1f7afacc6ea4f4a1caa0dbc2f *VIDEO_TS\VIDEO_TS.VOB
+5239e024083576aa853afaf989ccb811 *VIDEO_TS\VTS_01_0.BUP
+5239e024083576aa853afaf989ccb811 *VIDEO_TS\VTS_01_0.IFO
+f3cf7b1be09542cd80fed0c5f9545b14 *VIDEO_TS\VTS_01_0.VOB
+89c2c6a344c810f2968c9af3bea452a1 *VIDEO_TS\VTS_01_1.VOB
+9a226f2269f56dd90714176374185af6 *VIDEO_TS\VTS_01_2.VOB
+
+TRANSFERRED BY:
+Chris Hill
+
+PLEASE DO NOT SELL OR ENCODE TO ANY OTHER FORMAT
+

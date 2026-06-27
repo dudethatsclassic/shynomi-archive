@@ -1,0 +1,45 @@
+NIRVANA
+September 30, 1989
+Cabaret Metro
+Chicago, IL
+
+SETLIST (30:47)
+-----------------
+01) intro
+02) School
+03) Scoff
+04) Love Buzz (cut)
+05) Floyd The Barber
+06) Dive
+07) Polly (cut)
+08) Big Cheese (cut)
+09) Spank Thru (cut)
+10) About A Girl 
+
+GENERATION
+-----------------
+VHS(M) > DVDR(1) [9.6Mbps CBR/256Kbps AC3] > reauthor
+
+SOURCE (AMT#1)
+-----------------
+built-in -> unknown
+
+EXTRACTION / REAUTHOR
+-----------------
+TSSTCorp SH-S182D -> DVD Decrypter 3.5.4.0 -> Adobe Encore DVD 2.0
+
+MD5 FINGERPRINTS
+-----------------
+30898fa70b96e7fffa3badf22f23c17c *VIDEO_TS/VIDEO_TS.BUP
+30898fa70b96e7fffa3badf22f23c17c *VIDEO_TS/VIDEO_TS.IFO
+d77834aeb4034c125420e171da7f03e0 *VIDEO_TS/VIDEO_TS.VOB
+9b8e11a572af95bc8b6435edfc089c69 *VIDEO_TS/VTS_01_0.BUP
+9b8e11a572af95bc8b6435edfc089c69 *VIDEO_TS/VTS_01_0.IFO
+a4ab84b6ebe6870d1faf29409004c799 *VIDEO_TS/VTS_01_0.VOB
+ccbaa052591713951157c678a42ff374 *VIDEO_TS/VTS_01_1.VOB
+55c90adb100e751587ba8fcafc5a2686 *VIDEO_TS/VTS_01_2.VOB
+16ecf50f1f354bc8baefc67cce7d1d4e *VIDEO_TS/VTS_01_3.VOB
+
+
+Extracted by Mike Ziegler.
+PLEASE DO NOT ENCODE TO MP3 OR SELL!

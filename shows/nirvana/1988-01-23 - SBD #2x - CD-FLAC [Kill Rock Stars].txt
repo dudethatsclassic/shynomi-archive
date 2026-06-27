@@ -1,0 +1,34 @@
+NIRVANA
+January 23, 1988
+Reciprocal Recording,
+Seattle, WA
+
+DISC #1/1 (02:47)
+-----------------
+01) Beeswax
+
+SOURCE (SBD #2x)
+-----------------
+soundboard -> ½-inch 8-track analog magnetic tape (session tape)
+
+GENERATION
+-----------------
+Official CD "Kill Rock Stars" -> WAV [44.1kHz] -> FLAC [Level 8]
+
+EXTRACTION
+-----------------
+Lite-On iHBS-112 -> Exact Audio Copy v1.00 beta 3 -> Adobe Audition 3.0 -> FLAC Frontend 1.7.1
+
+NOTES
+-----------------
+- produced by Jack Endino
+- mix #1 (Jack Endino's initial rough "one-hour" mix that the band left the studio with)
+- missing some noise before and after the song that is present on Incesticide
+
+MD5 FINGERPRINTS
+-----------------
+3f2a0b1eda7deca8de0fabb67fab5f41 *Nirvana_1988-01-23_SBD2x_t01.flac
+
+Extracted by PL.
+PLEASE DO NOT ENCODE TO MP3 OR SELL!
+NO TRADE

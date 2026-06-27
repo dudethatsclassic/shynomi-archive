@@ -1,0 +1,59 @@
+NIRVANA
+August 30th, 1992
+Richfield Avenue (Reading Festival)
+Reading, United Kingdom
+
+SOURCE (AMT #4):
+unknown > unknown
+
+TRANSFER:
+Aiwa MX100 > Pinnacle DC 1000 > unknown
+
+GENERATION:
+8MM(M) > VHS(x) > DVDR(1) [NTSC/8.0Mbps CBR/48kHz PCM]
+
+LENGTH:
+62:18
+
+NOTES:
+- Stage shot
+- Has a black timecode box covering part of the screen
+
+TRACKS:
+01. The Rose (intro)
+02. Breed
+03. Drain You
+04. Aneurysm
+05. School
+06. Sliver
+07. In Bloom
+08. Come As You Are
+09. Lithium
+10. About A Girl
+11. tourette's
+12. Polly
+13. Lounge Act 
+14. More Than A Feeling (part of)
+15. Smells Like Teen Spirit
+16. On A Plain
+17. Negative Creep
+18. Been A Son
+19. All Apologies (cuts out)
+
+MD5 FINGERPRINTS:
+d1debbb89a8696d0d704679efba93738 *VIDEO_TS\VIDEO_TS.BUP
+d1debbb89a8696d0d704679efba93738 *VIDEO_TS\VIDEO_TS.IFO
+16352e0b07c03713dff1b7b6bb27c9ab *VIDEO_TS\VIDEO_TS.VOB
+32460b9d7e59776ac826483d807a3b88 *VIDEO_TS\VTS_01_0.BUP
+32460b9d7e59776ac826483d807a3b88 *VIDEO_TS\VTS_01_0.IFO
+368a80bc891808996586f00b88348229 *VIDEO_TS\VTS_01_1.VOB
+bebc7438ba47b7e4b1fda8bf8d975666 *VIDEO_TS\VTS_01_2.VOB
+9fe2765695f702b7ee9291c175fe74ea *VIDEO_TS\VTS_01_3.VOB
+be7fedd96e52696f135c7b25660efbc2 *VIDEO_TS\VTS_01_4.VOB
+aca26d3597a7e8fd5c0b37f558eed782 *VIDEO_TS\VTS_01_5.VOB
+
+
+TRANSFERRED BY:
+Allen Deane
+
+**PLEASE DO NOT ENCODE TO LOSSY FORMATS OR SELL!**

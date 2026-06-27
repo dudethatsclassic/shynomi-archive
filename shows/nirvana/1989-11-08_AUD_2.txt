@@ -1,0 +1,64 @@
+NIRVANA
+November 8, 1989
+Rose Club
+Cologne, West Germany
+
+DISC #1/1 (63:48)
+-----------------
+01) intro (cut)
+02) School
+03) Scoff
+04) jam
+05) Love Buzz
+06) Floyd The Barber
+07) Dive
+08) Polly
+09) Big Cheese
+10) About A Girl
+11) Spank Thru
+12) Mr. Moustache
+13) Even In His Youth
+14) Breed
+15) Negative Creep
+16) Been A Son
+17) Blew
+18) Vendetagainst
+
+GENERATION
+-----------------
+ANA(x) -> WAV [48kHz] -> WAV [44.1kHz] -> FLAC [Level 8]
+
+SOURCE (AUD#2)
+-----------------
+Unknown -> Unknown
+
+TRANSFER
+-----------------
+Nakamichi DR-3 -> DAR Audio RCA cable -> Realtek ALC880 -> Adobe Audition 3.0 -> CD Wave 1.93.0 -> Trader's Little Helper
+
+MD5 FINGERPRINTS
+-----------------
+099894f17c3acd9ce36c5343b84de652 *01 intro.flac
+561d452bccb79c9b3b15fe50ddb21b45 *02 School.flac
+1fc0683071ca9624006c59403dc67042 *03 Scoff.flac
+3100215cb882df7377b5ca29475b5624 *04 jam.flac
+f9b3b676af07fb46be18d3e9e929727d *05 Love Buzz.flac
+0760b9c1b3395b66fa318ebd808b4974 *06 Floyd The Barber.flac
+9aaf5c12add98206ee00ed4e604b3c03 *07 Dive.flac
+c674951e4153941cfc55e09e9229cb22 *08 Polly.flac
+b8d00716d37ef2be073c691a26649264 *09 Big Cheese.flac
+8b8fa49ef9eaf66aecf94bf83da8bc45 *10 About A Girl.flac
+66511356a6a2b4cd0a1eb47d4b6ecb1b *11 Spank Thru.flac
+c8d6b542efacc8ec769e2071e1b46b57 *12 Mr. Moustache.flac
+c765aaf4ea9e6fbacb8e0860966f4f9c *13 Even In His Youth.flac
+ea28589c3e38303e2b2a3c3f0d8ed15f *14 Breed.flac
+8837544e8c6eb1364628d8dd979f2337 *15 Negative Creep.flac
+4b13adf0462d5d02122435f4bd05a93b *16 Been A Son.flac
+7632d759353b465efa63f619c911dceb *17 Blew.flac
+7e88370e99b04a3943667963014b6bbf *18 Vendetagainst.flac
+
+
+Transferred by Gregory Hecquet
+PLEASE DO NOT ENCODE TO MP3 OR SELL!
+
+http://db.etree.org/Gregory-H

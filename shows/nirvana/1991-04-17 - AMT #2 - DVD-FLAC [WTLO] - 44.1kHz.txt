@@ -1,0 +1,32 @@
+NIRVANA
+April 17, 1991
+O.K. Hotel
+Seattle, WA
+
+DISC #1/1 (10:58)
+-----------------
+01) Pennyroyal Tea
+02) Smells Like Teen Spirit
+03) Territorial Pissings
+
+SOURCE (AMT #2)
+-----------------
+unknown > unknown
+
+GENERATION
+-----------------
+Official DVD "With The Lights Out" -> WAV [48kHz] -> WAV [44.1kHz] -> FLAC [Level 8]
+
+EXTRACTION
+-----------------
+Lite-On iHBS-112 -> DVD Decrypter 3.5.4.0 -> Adobe Audition 3.0 -> CD Wave 1.98 -> FLAC Frontend 1.7.1
+
+MD5 FINGERPRINTS
+-----------------
+f6588de6d27f511d538204b102a7db4e *Nirvana_1991-04-17_amt2_t01.flac
+ede7e493d1368f77d6824588fd6fd574 *Nirvana_1991-04-17_amt2_t02.flac
+db33191ac85b3f5c33cc69bf6063215c *Nirvana_1991-04-17_amt2_t03.flac
+
+Extracted by PL.
+PLEASE DO NOT ENCODE TO MP3 OR SELL!
+NO TRADE

@@ -1,0 +1,44 @@
+NIRVANA
+February 6, 1992
+Selina's, The Coogee Bay Hotel
+Sydney, Australia
+
+SOURCE (AUD #1):
+Sonic Studios DSM-3 > Sony TCD-D3
+
+TRANSFER:
+Seagate CTD8000R-S > DAT2WAV 1.2b > Adobe Audition 1.5 > FLAC frontend 1.7.1
+
+GENERATION:
+DAT(2) [48kHz] > WAV [48kHz] > FLAC [Level 8]
+
+LENGTH:
+70:35
+
+TRACKS:
+01. intro
+02. Aneurysm
+03. School
+04. Drain You
+05. Come As You Are
+06. Lithium
+07. About A Girl
+08. Smells Like Teen Spirit
+09. Sliver
+10. Breed
+11. Polly
+12. Love Buzz
+13. Lounge Act
+14. On A Plain
+15. Blew
+16. All Apologies
+17. Negative Creep
+18. Territorial Pissings
+
+MD5 FINGERPRINTS:
+55fea020df529f2d1ba3f3c36022a8e9 *Nirvana_1992-02-06_AUD1_48.flac
+
+TRANSFERRED BY:
+Kris Sproul
+
+PLEASE DO NOT SELL OR ENCODE TO MP3

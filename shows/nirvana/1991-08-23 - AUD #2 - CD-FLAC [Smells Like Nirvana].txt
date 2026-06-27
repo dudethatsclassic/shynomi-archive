@@ -1,0 +1,61 @@
+NIRVANA
+August 23, 1991
+Richfield Avenue (Reading Festival)
+Reading, United Kingdom
+
+SOURCE (AUD #2):
+unknown > unknown
+
+EXTRACTION:
+Teac CD-W512EB > Exact Audio Copy V0.95 prebeta 5 > Adobe Audition 1.5 > CD Wave 1.93 beta > FLAC frontend 1.7.1
+
+GENERATION:
+CD [Smells Like Nirvana] > WAV [44.1kHz] > FLAC [Level 8]
+
+LENGTH:
+38:54
+
+TRACKS:
+01. intro
+02. School
+03. Floyd The Barber
+04. Drain You
+05. Smells Like Teen Spirit
+06. Come As You Are
+07. Breed
+08. Sliver
+09. Molly's Lips
+10. Love Buzz
+11. Negative Creep
+12. Blew
+13. Endless, Nameless
+
+a3976ffcd32df233cb5d93de4f3cfa0b *Nirvana_1991-08-23_AUD2.txt
+3df2840169c135134d274c50ecce161c *Nirvana_1991-08-23_AUD2_t01.flac
+6b8dc1cf53287c2e7f1b515c45535289 *Nirvana_1991-08-23_AUD2_t02.flac
+030c9358017b4af0400c70bd5f5b63a8 *Nirvana_1991-08-23_AUD2_t03.flac
+b69646ed7f9524fb6b79cbbf5f4d138d *Nirvana_1991-08-23_AUD2_t04.flac
+d39291c0c4fe8c0cae2c04c41786da07 *Nirvana_1991-08-23_AUD2_t05.flac
+c4c085e72e4e26267cd3fd2ec92d85c6 *Nirvana_1991-08-23_AUD2_t06.flac
+8eb75ec6317a104bae7fa239461acae6 *Nirvana_1991-08-23_AUD2_t07.flac
+0e12b7a61b8a18025b8d8a7ecc24f4a8 *Nirvana_1991-08-23_AUD2_t08.flac
+c825b830158c42307057c635f383ca21 *Nirvana_1991-08-23_AUD2_t09.flac
+dbed893fd27249c8eea72d28894769d4 *Nirvana_1991-08-23_AUD2_t10.flac
+21d9ec39017419b46e92bf75da3d50a3 *Nirvana_1991-08-23_AUD2_t11.flac
+a31edb5c83016fcfc13d1f76592baa33 *Nirvana_1991-08-23_AUD2_t12.flac
+eba6726da3ed662b84f991a74f812ac0 *Nirvana_1991-08-23_AUD2_t13.flac
+
+Extracted by John Dionysus.
+
+Original FFP:
+01 - School.flac:a4727b5d79e1781dd0708cb7fbb97c60
+02 - Floyd.flac:f7927b490623498f8e9434629fa4d892
+03 - Drain You.flac:b25c0ef6d78c7e0decc66dcbcc6a09b7
+04 - SLTS.flac:bf8cd2fdb2837b3522910f46ce161135
+05 - CAYA.flac:181df93544df901e9807f9665251d222
+06 - Breed.flac:3d2de2fa17c01529a5bb02d08dd5acba
+07 - Sliver.flac:27ed6484a8fcc7fe4d06ff986ff9e1d3
+08 - Molly's Lips.flac:2606cec398ae87e22d80dedf0861f5fe
+09 - Love Buzz.flac:17a062af9c39fbf9015cd74e41f08369
+10 - Negative Creep.flac:21a94a779b3c59666b1bd317ca86560f
+11 - Blew.flac:06f04fe7fabbafd8e8820a602b54423b

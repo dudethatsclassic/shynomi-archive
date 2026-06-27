@@ -1,0 +1,54 @@
+NIRVANA
+August 24, 1991
+Tanzbrunnen (Monsters Of Spex)
+Cologne, Germany
+
+SOURCE: (AUD #3):
+unknown > unknown
+
+TRANSFER:
+Nakamichi DR-1 > Focusrite Scarlett 8i6 > Adobe Audition 3.0 > CD Wave Editor 1.98 > Trader's Little Helper 2.8.4
+
+GENERATION:
+ANA(x) [Type II] > WAV [24-bit/48KHz] > WAV [16-bit/44.1KHz] > FLAC [Level 8]
+
+DURATION:
+27:07 MIN.
+
+NOTES:
+- From Frenzman collection #280
+- Speed corrected and normalized to 0.0dB peak
+- "Polly" cuts in
+
+SETLIST:
+01. Polly
+02. Drain You
+03. Floyd The Barber
+04. Sliver
+05. School
+06. Breed
+07. Smells Like Teen Spirit
+08. Territorial Pissings
+09. Negative Creep
+
+MD5 FINGERPRINTS:
+F3531AE667BCD9C46681482AFF3B92E8 *NIRVANA_1991-08-24_AUD3_ANA(x)_01_Polly.flac
+4891E83166FA1E7047BA9BEC6501EAAB *NIRVANA_1991-08-24_AUD3_ANA(x)_02_Drain You.flac
+501AF49FCBBC720A7900A1DA137BD07E *NIRVANA_1991-08-24_AUD3_ANA(x)_03_Floyd The Barber.flac
+F310BABAE9CC7FAAAF7D7652F3D57C57 *NIRVANA_1991-08-24_AUD3_ANA(x)_04_Sliver.flac
+E90CB29CF66341B204C16EFE79BE29FD *NIRVANA_1991-08-24_AUD3_ANA(x)_05_School.flac
+7BA9B4B794A9E62E8EF4897F60D4BEFA *NIRVANA_1991-08-24_AUD3_ANA(x)_06_Breed.flac
+3CCA11ED97FA735CE3125D565FFE0834 *NIRVANA_1991-08-24_AUD3_ANA(x)_07_Smells Like Teen Spirit.flac
+9D6C3133E52DE16A782BFB3D3DBFFD5D *NIRVANA_1991-08-24_AUD3_ANA(x)_08_Territorial Pissings.flac
+3EECDFFBBC240747340B06F34BA12728 *NIRVANA_1991-08-24_AUD3_ANA(x)_09_Negative Creep.flac
+
+RECORDED BY:
+unknown
+
+TRANSFER:
+David Willhauk [2025-07-24]
+
+DISTRIBUTION:
+Fabian Beyer and Members of LiveNIRVANA.com
+
+PLEASE DO NOT SELL OR ENCODE TO LOSSY FORMATS!

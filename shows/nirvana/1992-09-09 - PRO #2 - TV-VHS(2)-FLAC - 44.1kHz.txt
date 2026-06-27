@@ -1,0 +1,32 @@
+NIRVANA
+September 09, 1992
+Edwin W. Pauley Pavilion, UCLA (MTV Video Music Awards)
+Los Angeles, CA
+
+DISC #1/1 (06:05)
+-----------------
+01) Rape Me (part of)
+02) Lithium
+03) Band accepting the award
+
+GENERATION
+-----------------
+TV -> VHS(2) -> AVI [HuffYUV] -> WAV [48kHz] -> WAV [44.1kHz] -> FLAC [Level 8]
+
+SOURCE (PRO #2)
+-----------------
+soundboard -> unknown
+
+TRANSFER
+-----------------
+JVC HR-S7700 -> Datavideo TBC 1000 -> ATI AIW -> Adobe Premiere Pro 1.5 -> Adobe Audition 3.0 -> CD Wave 1.98 -> Flac Frontend 1.7.1
+
+MD5 FINGERPRINTS
+-----------------
+419c9171fe26d0eb02014f36d84dd5bc *Nirvana_1992-09-09_PRO2_TV-VHS2_t01.flac
+ce50a1b66cabc22b5764ba8003f06c07 *Nirvana_1992-09-09_PRO2_TV-VHS2_t02.flac
+6f54ab2549cf3923264513f131e62151 *Nirvana_1992-09-09_PRO2_TV-VHS2_t03.flac
+
+Transferred by Francisco Ortiz
+Edited by Pierre Leroy
+PLEASE DO NOT ENCODE TO MP3 OR SELL !!!

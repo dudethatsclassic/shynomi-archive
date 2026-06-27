@@ -1,0 +1,35 @@
+NIRVANA
+December 01, 89
+MJC Fahrenheit
+Issy-les-Moulineaux, FR
+
+DISC #1/1 (38:00) 
+----------------------------
+Bass Jam 
+School 
+Scoff 
+Love Buzz 
+Floyd The Barber 
+Dive
+Johnny B. Goode Jam [Chuck Berry cover] 
+Polly 
+Big Cheese 
+Spank Thru 
+About A Girl 
+Breed 
+Been A Son 
+Stain 
+Negative Creep 
+Blew 
+
+Source AUD #1A
+-----------------
+
+Generation
+-----------------
+Ana(M)>CDR(3)>WAV>SHN>CDR(4)>CDR(5)>WAV>FLAC
+
+Extraction
+----------------
+Exact Audio Copy V0.95 prebeta 5 > FLAC frontend 1.7.1
+

@@ -1,0 +1,82 @@
+NIRVANA
+November 14, 1993
+New York Coliseum
+New York, NY
+
+SOURCE (AUD #2):
+Sony ECM-929 > Sony WM-D6
+
+TRANSFER:
+Nakamichi DR-8 > Tascam DA-30mkII > Echo Layla24 > Cool Edit Pro 2.0 > CD Wave 1.93 beta > FLAC frontend 1.7.1
+
+GENERATION:
+ANA(M) > WAV [48kHz] > WAV [44.1kHz] > FLAC [Level 8]
+
+BURNED GENERATION WILL BE:
+ANA(M) > CDR(1)
+
+LENGTH:
+85:38
+
+NOTE:
+There are some slight speed fluctuations from the master tape during "Jesus Wants Me For A Sunbeam" and "On A Plain."
+
+TRACKS (DISC 1):
+01. Radio Friendly Unit Shifter
+02. Drain You
+03. Breed
+04. Serve The Servants
+05. About A Girl
+06. Heart-Shaped Box
+07. Sliver
+08. Dumb
+09. Come As You Are
+10. Lithium
+11. Pennyroyal Tea
+12. School
+13. Polly
+
+TRACKS (DISC 2):
+01. Milk It
+02. Rape Me
+03. Territorial Pissings
+04. Smells Like Teen Spirit
+05. All Apologies
+06. Jesus Wants Me For A Sunbeam
+07. On A Plain
+08. Scentless Apprentice
+09. Blew
+10. Do Nuts
+
+MD5 FINGERPRINTS:
+44e33eae2b84479b18e8be4ba89e961e *Nirvana_1993-11-14_AUD2_ANAM_d1t01.flac
+f6bd7957cb359a08b4290ed3acf3881b *Nirvana_1993-11-14_AUD2_ANAM_d1t02.flac
+1475acdc54da455b2fda240529912664 *Nirvana_1993-11-14_AUD2_ANAM_d1t03.flac
+2c3e9f14026db573bcd39d88af3f9141 *Nirvana_1993-11-14_AUD2_ANAM_d1t04.flac
+7b4ab9d2cead050b3718217743c2461f *Nirvana_1993-11-14_AUD2_ANAM_d1t05.flac
+c037af7653c5b35c3c279c99df085b88 *Nirvana_1993-11-14_AUD2_ANAM_d1t06.flac
+9d79e461fd48617ff4ab3ddb79172ae4 *Nirvana_1993-11-14_AUD2_ANAM_d1t07.flac
+11be3e01ff513bac89b69c23fbcf3f5b *Nirvana_1993-11-14_AUD2_ANAM_d1t08.flac
+a852b35903af433da980e7853dbcdc51 *Nirvana_1993-11-14_AUD2_ANAM_d1t09.flac
+f2790bde77d885f8225cf4b51d977fe2 *Nirvana_1993-11-14_AUD2_ANAM_d1t10.flac
+10dfe4fbd5147fa9445f115fde59e70c *Nirvana_1993-11-14_AUD2_ANAM_d1t11.flac
+63bdea8a4b16d64b155ba9d6f035383e *Nirvana_1993-11-14_AUD2_ANAM_d1t12.flac
+b35ac20d5016dc47d6769b8f384d361d *Nirvana_1993-11-14_AUD2_ANAM_d1t13.flac
+a896bb2fbf99a47da6cb7fe776fc0138 *Nirvana_1993-11-14_AUD2_ANAM_d2t01.flac
+86f13a88546e38412cb3c08a6a249a6c *Nirvana_1993-11-14_AUD2_ANAM_d2t02.flac
+8fc70dcde40018a6af5d1ef64bbb7ecd *Nirvana_1993-11-14_AUD2_ANAM_d2t03.flac
+d94686d5db35303c5481aed7041e506f *Nirvana_1993-11-14_AUD2_ANAM_d2t04.flac
+468f979b65a0a4b025fb80f5ef11929d *Nirvana_1993-11-14_AUD2_ANAM_d2t05.flac
+c4275b82eae1132bd916dbf702c4d02e *Nirvana_1993-11-14_AUD2_ANAM_d2t06.flac
+56448607350ec5007fc7a11832065d95 *Nirvana_1993-11-14_AUD2_ANAM_d2t07.flac
+8adf9470b18048965e8083e5c76badbb *Nirvana_1993-11-14_AUD2_ANAM_d2t08.flac
+e8b66fe77cb580ac3a844ac99d18b160 *Nirvana_1993-11-14_AUD2_ANAM_d2t09.flac
+d0d737989e39348ba5684849cd3161cc *Nirvana_1993-11-14_AUD2_ANAM_d2t10.flac
+
+TRANSFERRED BY:
+Kris Sproul
+
+PLEASE DO NOT SELL OR ENCODE TO MP3
+
+TNDU#3
+www.totalnirvana.net

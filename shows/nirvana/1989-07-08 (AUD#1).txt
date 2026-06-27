@@ -1,0 +1,54 @@
+NIRVANA
+July 8, 1989
+Club Dreamerz
+Chicago, IL
+
+DISC #1/1 (47:36)
+-----------------
+01) intro
+02) School
+03) Floyd The Barber
+04) Love Buzz
+05) Mr. Moustache
+06) Paper Cuts
+07) Polly
+08) Big Cheese
+09) Spank Thru
+10) Dive
+11) About A Girl
+12) Scoff
+13) Negative Creep
+14) Blew
+
+GENERATION
+-----------------
+ANA(M) -> CDR(1) -> WAV [44.1kHz] -> FLAC [Level 8]
+
+SOURCE (AUD#1)
+-----------------
+Aiwa CM-30 -> Sony TC-D5
+
+EXTRACTION
+-----------------
+TSSTCorp SH-S182D -> Exact Audio Copy V0.99 prebeta 3 -> Adobe Audition 3.0 -> CD Wave 1.96.1 -> FLAC Frontend 1.7.1
+
+MD5 FINGERPRINTS
+-----------------
+cbbdeb93a3742e7fb647de5283573b7a *nirvana1989-07-08t01.flac
+a57fdf959fa49f1bd72eff25c6bc82d3 *nirvana1989-07-08t02.flac
+821f03744826438367fa70b4199ea94d *nirvana1989-07-08t03.flac
+b5f80eb1b7d1a2c10560f6a3e5e931c4 *nirvana1989-07-08t04.flac
+293284bb4e37f381c6c5229486062293 *nirvana1989-07-08t05.flac
+3e0640c0e12d2147a5f6cd1ca1392383 *nirvana1989-07-08t06.flac
+8e9b63a41a0c43992bbf6eec907afb4d *nirvana1989-07-08t07.flac
+4121f9c43f6e240a81c24cde944d860b *nirvana1989-07-08t08.flac
+3d00db59a99ac39aba2ffd9398433685 *nirvana1989-07-08t09.flac
+c8f3428b1b463a48a82f8a7d648e5977 *nirvana1989-07-08t10.flac
+97716055cb134b704ff850353851b862 *nirvana1989-07-08t11.flac
+1750afc3612d731c5f823b9e01a34147 *nirvana1989-07-08t12.flac
+648fc8e75e45cd0a8fa02141b67f5976 *nirvana1989-07-08t13.flac
+6915fd6e319074afc72ad62dbb64df30 *nirvana1989-07-08t14.flac
+
+
+Extracted by Mike Ziegler.
+PLEASE DO NOT ENCODE TO MP3 OR SELL!

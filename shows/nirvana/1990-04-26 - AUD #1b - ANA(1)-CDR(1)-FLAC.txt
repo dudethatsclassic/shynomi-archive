@@ -1,0 +1,54 @@
+NIRVANA
+April 26, 1990
+Pyramid Club
+New York, NY
+
+DISC #1/1 (46:30)
+-----------------
+01) School
+02) Floyd The Barber
+03) Love Buzz
+04) Dive
+05) Spank Thru
+06) Breed
+07) About A Girl
+08) Big Cheese
+09) In Bloom
+10) Scoff
+11) Stain
+12) Negative Creep
+
+GENERATION
+-----------------
+ANA(1) -> CDR(1) -> WAV [44.1kHz] -> FLAC [Level 8]
+
+SOURCE (AUD#1b)
+-----------------
+unknown -> unknown
+
+TRANSFER
+-----------------
+Nakamichi CR-2A -> Harman/Kardon CDR 26
+
+EXTRACTION
+-----------------
+Plextor PlexWriter PX-W4824A -> Exact Audio Copy V0.95 -> Adobe Audition 1.5 -> CD Wave 1.94.5 -> FLAC Frontend 1.7.1
+
+MD5 FINGERPRINTS
+-----------------
+d4e43a727550796b7372449a52e7fde0 *nirvana1990-04-26t01.flac
+980cbd0b9f6627667163c477decbb957 *nirvana1990-04-26t02.flac
+db788ff4313741188b6a21ae4f5bbec7 *nirvana1990-04-26t03.flac
+999b645b1115a3fec4231c93f206851d *nirvana1990-04-26t04.flac
+e489cd8db03cd65b86894da101b7ae2f *nirvana1990-04-26t05.flac
+8a02f7d2189340df28712146895b1fa7 *nirvana1990-04-26t06.flac
+f0dbef8f1f0390290ff25438fb21aa22 *nirvana1990-04-26t07.flac
+96d6a451506bf4b2c3baeacebef9d523 *nirvana1990-04-26t08.flac
+445e64f75197d8da8ef51736227ba8d4 *nirvana1990-04-26t09.flac
+aebdc9eb9d2f0ce77c9551a3da838ab6 *nirvana1990-04-26t10.flac
+56d5aaf85ac16299ba62bd0c01f281fd *nirvana1990-04-26t11.flac
+7324e605ba0d0ea6e8f30639e1298422 *nirvana1990-04-26t12.flac
+
+
+Transferred by Mike Ziegler.
+PLEASE DO NOT ENCODE TO MP3 OR SELL!

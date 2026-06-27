@@ -1,0 +1,54 @@
+NIRVANA
+February 12, 1990
+Cattle Club
+Sacramento, CA
+
+DISC #1/1 (49:15)
+-----------------
+01) Love Buzz (cut)
+02) Floyd The Barber
+03) School
+04) About A Girl
+05) Dive
+06) Polly
+07) Molly's Lips
+08) Sappy
+09) Scoff
+10) Breed
+11) Been A Son
+12) Stain
+13) Negative Creep
+14) Blew
+
+GENERATION
+-----------------
+ANA(M) -> WAV [48kHz] -> WAV [44.1kHz] -> FLAC [Level 8]
+
+SOURCE (AUD#1)
+-----------------
+Sony ECM-909 -> Sony WM-D6
+
+TRANSFER
+-----------------
+Nakamichi DR-8 -> Hosa RCA cable -> LynxONE analog-in -> Adobe Audition 1.5 -> CD Wave 1.93 beta -> FLAC Frontend 1.7.1
+
+MD5 FINGERPRINTS
+-----------------
+cc2fa4d52f446b0ee0a9e484208c8467 *nirvana1990-02-12t01.flac
+f51c2afa2e1e64be9b5f7c7f813711ea *nirvana1990-02-12t02.flac
+65d13ed7965ceb9bfbd31477b7c7b389 *nirvana1990-02-12t03.flac
+6e18969a76b530b959b20aad6cd3801e *nirvana1990-02-12t04.flac
+5e7b69a5959772f7b9d2e9605fd6d9b6 *nirvana1990-02-12t05.flac
+8c48b1f1a767275ed842e213bcd158d7 *nirvana1990-02-12t06.flac
+aace909bc91743021f80364f9c6bbacd *nirvana1990-02-12t07.flac
+7046c4f7c271a4eca51d73e4f5ac6381 *nirvana1990-02-12t08.flac
+7001d1e0e9337834f10389d131d0190d *nirvana1990-02-12t09.flac
+6e9d35de3642447780f370b7fb6845c3 *nirvana1990-02-12t10.flac
+59cfc3b3d9c2bc6dc0dd0c5d2d06626b *nirvana1990-02-12t11.flac
+5e2ba1b0e92e231563c00459246d4cd2 *nirvana1990-02-12t12.flac
+39cd5cffc19dba20d60a2b548780fe25 *nirvana1990-02-12t13.flac
+1102c0350dd93ea6907352337602962e *nirvana1990-02-12t14.flac
+
+
+Transferred by Mike Ziegler.
+PLEASE DO NOT ENCODE TO MP3 OR SELL!

@@ -1,0 +1,38 @@
+NIRVANA
+February 27, 1994
+Hala Tivoli
+Ljubljana, Slovenia
+
+DISC #1/1 (10:08)
+-----------------
+01) Radio Friendly Unit Shifter
+02) Drain You
+03) Breed
+
+GENERATION
+-----------------
+TV -> VHS(2) -> CDR(1) -> WAV [44.1kHz] -> SHN -> WAV [44.1kHz] -> FLAC [Level 8]
+
+SOURCE (PRO #1)
+-----------------
+Soundboard -> unknown
+
+EXTRACTION
+-----------------
+unknown -> Adobe Audition 3.0 -> CD Wave 1.98 -> FLAC Frontend 1.7.1
+
+NOTES
+-----------------
+- A few brief dropouts from the video
+- Pretty poor sound for a "professional" video..
+- Normalized, retracked
+
+MD5 FINGERPRINTS
+-----------------
+044dc8a5a3e96c58eddd05b7e4c81e2a *Nirvana_1994-02-27_PRO1_t01.flac
+ff465f566fd177dac3e745d599399fad *Nirvana_1994-02-27_PRO1_t02.flac
+4a5f520d8151d1d7632d715c68aaf72a *Nirvana_1994-02-27_PRO1_t03.flac
+
+Transferred by Unknown
+Edited by Pierre Leroy
+PLEASE DO NOT ENCODE TO MP3 OR SELL!

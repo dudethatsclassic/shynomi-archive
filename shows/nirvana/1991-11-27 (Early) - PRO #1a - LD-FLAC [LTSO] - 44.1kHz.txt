@@ -1,0 +1,34 @@
+NIRVANA
+November 27, 1991
+BBC Elstree Centre (Top of the Pops)
+Borehamwood, United Kingdom
+
+DISC #1/1 (03:16)
+-----------------
+01) Charts (intro)
+02) Smells Like Teen Spirit
+
+SOURCE (PRO #1a)
+-----------------
+soundboard > unknown
+
+GENERATION
+-----------------
+Official Laserdisc "Live! Tonight! Sold Out!!" -> WAV [44.1kHz] -> FLAC [Level 8]
+
+TRANSFER
+-----------------
+Pioneer CLD-2850 -> Optical Cable -> Sony MZ-NH700 (HiMD) -> SonicStage 4.3 -> Adobe Audition 3.0 -> CD Wave 1.98 -> Flac Frontend 1.7.1
+
+NOTES
+-----------------
+- slight overdub from an interview at the end
+
+MD5 FINGERPRINTS
+-----------------
+fb7b229a2287cc3d5a3eae6e9d434d8d *Nirvana_1991-11-27_PRO1a_t01.flac
+b131ea5a8ed439fdc6d7b68ce269ca6e *Nirvana_1991-11-27_PRO1a_t02.flac
+
+Transferred by VL.
+Edited by PL.
+PLEASE DO NOT ENCODE TO MP3 OR SELL!

@@ -1,0 +1,28 @@
+NIRVANA
+November 08, 1991
+Limehouse Studios (The Word)
+London, United Kingdom
+
+DISC #1/1 (04:32)
+-----------------
+01) Smells Like Teen Spirit
+
+GENERATION
+-----------------
+TV -> VHS(2) -> AVI [HuffYUV] / WAV [48kHz] -> WAV [44.1kHz] -> FLAC [Level 8]
+
+SOURCE (PRO #2)
+-----------------
+soundboard -> unknown
+
+TRANSFER
+-----------------
+JVC HR-S7700 -> Datavideo TBC 1000 -> ATI AIW -> Adobe Premiere Pro 1.5 -> Adobe Audition 3.0 -> Flac Frontend 1.7.1
+
+MD5 FINGERPRINTS
+-----------------
+63956a024532f1b6d6b9d09d4a398aa6 *Nirvana_1991-11-08_PRO2_TV-VHS2_t01.flac
+
+Transferred by Francisco Ortiz
+Edited by Pierre Leroy
+PLEASE DO NOT ENCODE TO MP3 OR SELL !!!

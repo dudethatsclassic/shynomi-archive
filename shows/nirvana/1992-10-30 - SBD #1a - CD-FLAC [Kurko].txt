@@ -1,0 +1,64 @@
+NIRVANA
+October 30, 1992
+Estadio de Velez Sarsfield
+Buenos Aires, Argentina
+
+DISC #1/1 (57:01)
+-----------------
+01) Breed (cut)
+02) Smells Like Teen Spirit (intro)
+03) Drain You
+04) Beeswax
+05) Spank Thru
+06) School
+07) Come As You Are
+08) Lithium
+09) Lounge Act
+10) Sliver
+11) About A Girl
+12) Polly
+13) jam
+14) In Bloom
+15) Territorial Pissings
+16) Been A Son
+17) On A Plain
+18) Negative Creep
+19) Blew 
+
+GENERATION
+-----------------
+CD ["Kurko" bootleg] -> WAV [44.1kHz] -> FLAC [Level 8]
+
+SOURCE (SBD#1a)
+-----------------
+soundboard -> unknown
+
+TRANSFER
+-----------------
+Plextor PlexWriter PX-W4824A -> Exact Audio Copy V0.95 -> Sound Forge 7.0 -> CD Wave 1.93 beta -> FLAC Frontend 1.7.1
+
+MD5 FINGERPRINTS
+-----------------
+bb7b68b1607aed5ce3622722b3b1aef1 *nirvana1992-10-30t01.flac
+e43633e97b2c8ef95863b8cf92fa78cb *nirvana1992-10-30t02.flac
+e8ade4c14f3aade6df5eae8840949867 *nirvana1992-10-30t03.flac
+a3ef40612927d59d47dcf78df85c6432 *nirvana1992-10-30t04.flac
+87a02daa34c7d784ea75f62b2e543b69 *nirvana1992-10-30t05.flac
+3b3f9f3e77ee5ced4d807b66c9427bfe *nirvana1992-10-30t06.flac
+dc68151986e2c8495af9bc47fa37de18 *nirvana1992-10-30t07.flac
+e52b1ede36af56a84d0633372ebeca90 *nirvana1992-10-30t08.flac
+4727f908d73e83f6ee5930aac932752a *nirvana1992-10-30t09.flac
+66d8c81cc5d07186aa2b1d94c33c4c39 *nirvana1992-10-30t10.flac
+53d3b442e42cb779d0ce218e96d6869f *nirvana1992-10-30t11.flac
+5a422c88db834f7f9971275db5574dfd *nirvana1992-10-30t12.flac
+fd69beb7cd345f4befcff5cfd72c5ab5 *nirvana1992-10-30t13.flac
+a6bbbb235319f8d8ebf324f52acd9a41 *nirvana1992-10-30t14.flac
+23587abdf808f66aa04ccf03d67ca989 *nirvana1992-10-30t15.flac
+32aeedfde863b05122b2ab28ffa58aa5 *nirvana1992-10-30t16.flac
+b45b97d717ff99c8549d4361de6351d0 *nirvana1992-10-30t17.flac
+ac409e96de373e619e45f1ded7ed9e1f *nirvana1992-10-30t18.flac
+4ed62295115794a03623a05cee3a4c55 *nirvana1992-10-30t19.flac
+
+
+Transferred by Mike Ziegler.
+PLEASE DO NOT ENCODE TO MP3 OR SELL!

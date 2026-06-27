@@ -1,0 +1,34 @@
+NIRVANA
+October 21, 1991
+Waterloo Records
+Austin, TX
+
+DISC #1/1 (9:30)
+-----------------
+01) intro
+02) Dumb (part of)
+03) Polly
+04) About A Girl
+
+GENERATION
+-----------------
+ANA(2) -> DAT(1) -> WAV [48kHz] -> WAV [44.1kHz] -> FLAC [Level 8]
+
+SOURCE (AUD#1)
+-----------------
+unknown -> unknown
+
+TRANSFER
+-----------------
+Tascam DA-20 MKII -> Apogee S/PDIF cable -> LynxONE digital-in -> Adobe Audition 2.0 -> CD Wave 1.95.1 -> FLAC Frontend 1.7.1
+
+MD5 FINGERPRINTS
+-----------------
+3a67a5d175efdb213a1226f7be6f1651 *nirvana1991-10-21t01.flac
+61e6e6ad10f3ddad3f9cffcec10a4c5f *nirvana1991-10-21t02.flac
+3ece7489463c25cae82efcdf360f9f6b *nirvana1991-10-21t03.flac
+3e2309b45855d0a8209bc461cf993f0d *nirvana1991-10-21t04.flac
+
+
+Transferred by Mike Ziegler.
+PLEASE DO NOT ENCODE TO MP3 OR SELL!

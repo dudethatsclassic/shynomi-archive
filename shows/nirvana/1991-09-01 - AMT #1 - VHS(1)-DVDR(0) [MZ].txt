@@ -1,0 +1,49 @@
+NIRVANA
+September 1, 1991
+De Doelen (Ein Abend in Wien)
+Rotterdam, The Netherlands
+
+DISC #1/1 (49:22)
+-----------------
+01) intro
+02) Polly
+03) Drain You 
+04) School
+05) Floyd The Barber
+06) Smells Like Teen Spirit
+07) Come As You Are
+08) About A Girl
+09) Breed
+10) Sliver
+11) In Bloom
+12) Been A Son
+13) Negative Creep (part of)
+
+GENERATION
+-----------------
+VHS(1) [PAL] -> AVI [DV25] -> M2V/WAV [8Mbps CBR/48kHz PCM] -> DVDR(0)
+
+SOURCE (AMT#1)
+-----------------
+unknown -> unknown
+
+TRANSFER
+-----------------
+JVC HR-S9500 -> AV Tool AVT-8710 -> Canopus ADVC55 -> IEEE 1394 -> Adobe Premiere Pro 2.0 -> TMPGEnc Plus 2.5 -> Adobe Encore DVD 2.0
+
+MD5 FINGERPRINTS
+-----------------
+c4e4f7a32984d05904d0de875b0c765d *VIDEO_TS/VIDEO_TS.BUP
+c4e4f7a32984d05904d0de875b0c765d *VIDEO_TS/VIDEO_TS.IFO
+f6622c67e2c24cb9ee2ed5e5cc306201 *VIDEO_TS/VIDEO_TS.VOB
+4397ecce6a164a64cbcf6ebf6a09d317 *VIDEO_TS/VTS_01_0.BUP
+4397ecce6a164a64cbcf6ebf6a09d317 *VIDEO_TS/VTS_01_0.IFO
+06ea97525fc8d76245fe43d1dcb60866 *VIDEO_TS/VTS_01_0.VOB
+7024b2d55eb595ecafd428104769d8dc *VIDEO_TS/VTS_01_1.VOB
+6fb1142d6fb2d5cdb7b6a730c4674eed *VIDEO_TS/VTS_01_2.VOB
+2a537318473d255a3aed1fa1c3b0e037 *VIDEO_TS/VTS_01_3.VOB
+099a32502bba01b1ed889df4d5ee1457 *VIDEO_TS/VTS_01_4.VOB
+
+
+Transferred by Mike Ziegler.
+PLEASE DO NOT ENCODE TO MP3 OR SELL!

@@ -1,0 +1,64 @@
+Nirvana
+1993-01-23
+Praça da Apoteose (Hollywood Rock Festival)
+Rio de Janeiro, Brazil
+
+According to www.livenirvana.com , this source is "PRO-V#2"
+
+Source: Professionally Shot Video
+Video: Multiple cameras
+Audio: Soundboard
+Format: VHS
+Complete: No, cuts out inbetween song banter, and cuts out the longer 'Possibilities' jam
+Length: 86 minutes
+Lowest Gen: The VHS used to make these SHNs. Mostly agreed apon to be a 2nd generation VHS tape.
+
+Transfer: "2nd generation" VHS tape
+> JVC HM-DH300000u 11 head, DVHS vcr
+> RCA cables
+> miniDV camcorder (Canon zr70mc) used as an A>D converter
+> firewire
+> PC in 48 khz PCM WAV form
+> Cool Edit Pro (Normalizing and 48 > 44 khz highest quality conversion)
+> CDWav to split tracks
+> MKW for WAV > SHN conversion
+
+In simple terms, your generation will be...
+
+VHS~2 > SHN > CDr-1
+
+"~" meaning approximately
+
+Disk 1:
+
+01) Theme From Carmen 
+02) School 
+03) Drain You 
+04) Breed 
+05) Sliver 
+06) In Bloom 
+07) Come As You Are 
+08) Love Buzz 
+09) Lithium 
+10) Polly 
+11) About A Girl 
+12) Smells Like Teen Spirit 
+13) On A Plain 
+14) Negative Creep 
+15) Been A Son 
+16) Blew 
+
+Disk 2:
+
+01) Heart-shaped Box
+02) Scentless Apprentice
+03) Sweet Emotion jam
+04) Dive
+05) Lounge Act
+06) Aneurysm
+07) Territorial Pissings
+
+** Please, by all mean, encode to MP3!!!!!**
+
+01/21/04
+Bill Mayer

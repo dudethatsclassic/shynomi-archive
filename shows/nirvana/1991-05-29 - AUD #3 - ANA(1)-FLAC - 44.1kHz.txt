@@ -1,0 +1,52 @@
+NIRVANA
+May 29, 1991
+Jabberjaw
+Los Angeles, CA
+
+DISC #1/1 (41:55)
+-----------------
+01) Blew (cut)
+02) Been A Son
+03) Stain
+04) On A Plain
+05) Smells Like Teen Spirit
+06) Love Buzz
+07) Lithium
+08) Floyd The Barber
+09) About A Girl (cut)
+10) Breed
+11) School
+12) Sliver (cut)
+13) Territorial Pissings (cut)
+
+GENERATION
+-----------------
+ANA(1) -> WAV [48kHz] -> WAV [44.1kHz] -> FLAC [Level 8]
+
+SOURCE (AUD#3)
+-----------------
+unknown -> unknown
+
+TRANSFER
+-----------------
+Nakamichi DR-8 -> Hosa RCA cable -> LynxONE analog-in -> Adobe Audition 1.5 -> CD Wave 1.93 beta -> FLAC Frontend 1.7.1
+
+MD5 FINGERPRINTS
+-----------------
+7f6cc367a23a8ba460ffc7d82ded9f93 *nirvana1991-05-29t01.flac
+f1bc84e7e480e1586f427160281dc114 *nirvana1991-05-29t02.flac
+5a7f2291fb1b84499d790d78fa56ff6a *nirvana1991-05-29t03.flac
+5242d05dec5cf02b5777b137c3b847c4 *nirvana1991-05-29t04.flac
+fcef33d326912525328636f9795d5513 *nirvana1991-05-29t05.flac
+015c93334a09c5bf5f64521393ea5f7b *nirvana1991-05-29t06.flac
+ec860931a69b06db331e46f62fc6ffc9 *nirvana1991-05-29t07.flac
+7a326410f7769ce96036328559c13558 *nirvana1991-05-29t08.flac
+d07e61631ab13c67f80c019fc09e5600 *nirvana1991-05-29t09.flac
+b1364f380cfa72eddcc51b61003fc762 *nirvana1991-05-29t10.flac
+c3c83826cd499e75f5649ca45ad0dcd4 *nirvana1991-05-29t11.flac
+f49422bf6c7effdbd5550f1a5530764d *nirvana1991-05-29t12.flac
+1b971c5cec08c87f13b95cc83e036207 *nirvana1991-05-29t13.flac
+
+
+Transferred by Mike Ziegler.
+PLEASE DO NOT ENCODE TO MP3 OR SELL!

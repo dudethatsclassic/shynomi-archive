@@ -1,0 +1,64 @@
+NIRVANA
+January 23rd, 1993
+Praça da Apoteose (Hollywood Rock Festival)
+Rio de Janeiro, Brazil
+
+SOURCE (PRO #2a):
+soundboard > unknown
+
+TRANSFER:
+VHS > JVC HM-DH30000u > S-Video > Pinnacle 700 USB > avi (Main Concept DV codec) > VirtualDub (remastering) > Cinema Craft Encoder
+
+GENERATION:
+BETA(M) > VHS(2) > DVDR(2) [NTSC/8Mpbs CBR/48kHz PCM]
+
+LENGTH:
+85:39
+
+NOTES:
+- Has many cuts between songs
+- Multi-camera video with soundboard audio
+
+TRACKS:
+01. L'Amour Est Un Oiseau Rebelle (jam)
+02. School
+03. Drain You
+04. Breed
+05. Sliver
+06. In Bloom
+07. Come As You Are
+08. Love Buzz
+09. Lithium
+10. Polly
+11. About A Girl
+12. Smells Like Teen Spirit (cuts in)
+13. On A Plain
+14. Negative Creep
+15. Been A Son
+16. Blew
+17. Heart-Shaped Box
+18. Scentless Apprentice
+19. Sweet Emotion (jam)
+20. Dive
+21. Lounge Act
+22. Aneurysm
+23. Territorial Pissings
+
+MD5 FINGERPRINTS:
+87cc1c378d3ef21836049f9c74695764 *VIDEO_TS\VIDEO_TS.BUP
+87cc1c378d3ef21836049f9c74695764 *VIDEO_TS\VIDEO_TS.IFO
+5f7973ff9e4152827994d4149c8af39d *VIDEO_TS\VIDEO_TS.VOB
+8b49d2e91897e02ff727805307f3067c *VIDEO_TS\VTS_01_0.BUP
+8b49d2e91897e02ff727805307f3067c *VIDEO_TS\VTS_01_0.IFO
+71e2fbd6db56e46e965f69661810c6b4 *VIDEO_TS\VTS_01_0.VOB
+6b3023e6f94d775ce60bd2fc4902962e *VIDEO_TS\VTS_01_1.VOB
+c427ade1c6ca2be7b12b2718770c6120 *VIDEO_TS\VTS_01_2.VOB
+2a3067cee689e8e6203c4b65144ef6b2 *VIDEO_TS\VTS_01_3.VOB
+efb42968f7f194f4939bce56e37257f3 *VIDEO_TS\VTS_01_4.VOB
+ec6147c2966691a19b83fcd38d7330ac *VIDEO_TS\VTS_01_5.VOB
+6298d2e36e73c8018d99c5d7dc35598e *VIDEO_TS\VTS_01_6.VOB
+
+TRANSFERRED BY:
+Bill Mayer
+
+**PLEASE DO NOT ENCODE TO LOSSY FORMATS OR SELL!**

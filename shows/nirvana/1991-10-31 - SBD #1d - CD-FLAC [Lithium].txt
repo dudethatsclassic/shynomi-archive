@@ -1,0 +1,28 @@
+NIRVANA
+October 31, 1991
+Paramount Theatre
+Seattle, WA
+
+DISC #1/1 (02:34)
+-----------------
+01) Been A Son
+
+GENERATION
+-----------------
+Official CD "Lithium" -> WAV [44.1kHz] -> FLAC [Level 8]
+
+SOURCE (SBD #1d)
+-----------------
+Soundboard -> unknown
+
+EXTRACTION
+-----------------
+Lite-On iHBS-112 -> Exact Audio Copy v1.00 beta 3 -> FLAC Frontend 1.7.1
+
+MD5 FINGERPRINTS
+-----------------
+c467ca160c396138066a347f4c338a30 *Nirvana_1991-10-31_SBD1d_t01.flac
+
+Extracted by PL.
+PLEASE DO NOT ENCODE TO MP3 OR SELL!
+NO TRADE

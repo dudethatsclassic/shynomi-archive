@@ -1,0 +1,65 @@
+NIRVANA
+March 01, 1994
+Terminal 1
+Munich, Germany
+
+PRO #1b (remaster) and PRO #1x ("Drain You") DVD
+No re-encoding done to any video/audio files.
+Format: PAL
+Discs: 1
+
+PRO #1b (remaster)
+
+SETLIST (10:49)
+-----------------
+01) My Best Friend's Girl
+02) Radio Friendly Unit Shifter
+03) Drain You
+
+GENERATION
+-----------------
+VHS(1)> DVDR > Remaster  /  New Generation:  VHS(1) > DVDR > Remaster > M2v > DVDR (1) - when burned
+
+
+NOTES
+-----------------
+Transferred by: Paddy Kroetz
+Video: 9.0 mb/s MPEG2 CBR (PAL)
+Audio: 256 kb/s MP2
+
+PRO #1x
+
+SETLIST
+-----------------
+01) Drain You
+
+GENERATION
+-----------------
+TV-> VHS(1) -> MPEG2   /  New Generation:  TV > VHS(1) > M2v > DVDR (1) - when burned
+
+TRANSFER
+-----------------
+AIWA GX915 -> Pinnacle PCTV 100E -> PC
+
+NOTES
+-----------------
+TRANSFERED BY:
+Nuno Pereira
+
+
+DVD created by Erik Massie, using Adobe Encore 2.0 (and photoshop CS2 for menus).  Thanks to NLG for pictures.
+
+
+MD5 Checksums:
+-----------------
+7fdf3930112db7bede37f4c3cd09f783 *VIDEO_TS.BUP
+7fdf3930112db7bede37f4c3cd09f783 *VIDEO_TS.IFO
+a2fa75bf48414d2aa498f42c0c9a7524 *VIDEO_TS.VOB
+d18f6a96125c19daa337d5f06f10af62 *VTS_01_0.BUP
+d18f6a96125c19daa337d5f06f10af62 *VTS_01_0.IFO
+83056d0e14ae3b67c61716c18afa3baa *VTS_01_0.VOB
+8d2e0ffb8f4362999068091c35b42232 *VTS_01_1.VOB
+68bfad252ba31375527ac7c511b4f288 *VTS_02_0.BUP
+68bfad252ba31375527ac7c511b4f288 *VTS_02_0.IFO
+a2fa75bf48414d2aa498f42c0c9a7524 *VTS_02_0.VOB
+ed7ca1369f6468fbb143a8e77126db5d *VTS_02_1.VOB

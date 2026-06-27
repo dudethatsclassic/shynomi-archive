@@ -1,0 +1,63 @@
+NIRVANA
+February 12, 1994
+Zénith Oméga
+Toulon, France
+
+SETLIST (89:38)
+-----------------
+01) Radio Friendly Unit Shifter
+02) Drain You
+03) Breed
+04) Come As You Are
+05) Serve The Servants
+06) Smells Like Teen Spirit
+07) Sliver
+08) Dumb
+09) In Bloom
+10) About A Girl
+11) Lithium
+12) Pennyroyal Tea
+13) School
+14) Polly
+15) Frances Farmer Will Have Her Revenge On Seattle
+16) Very Ape
+17) Rape Me
+18) Territorial Pissings
+19) Jesus Wants Me For A Sunbeam
+20) The Man Who Sold The World
+21) All Apologies
+22) On A Plain
+23) Scentless Apprentice
+24) Heart-Shaped Box
+
+GENERATION
+-----------------
+8MM(M) -> VHS(1) [PAL] -> AVI [DV25] -> M2V/WAV [8Mbps CBR/48kHz PCM] -> DVDR(0)
+
+SOURCE (AMT#1)
+-----------------
+unknown -> unknown
+
+TRANSFER
+-----------------
+JVC HR-S9500 -> AV Tool AVT-8710 -> Canopus ADVC55 -> IEEE 1394 -> Adobe Premiere Pro 2.0 -> TMPGEnc Plus 2.5 -> Adobe Encore DVD 2.0
+
+MD5 FINGERPRINTS
+-----------------
+33dbb9a36574a9230d00f00f338dc4e3 *VIDEO_TS/VIDEO_TS.BUP
+33dbb9a36574a9230d00f00f338dc4e3 *VIDEO_TS/VIDEO_TS.IFO
+f6622c67e2c24cb9ee2ed5e5cc306201 *VIDEO_TS/VIDEO_TS.VOB
+ccb14c43b5159b7a4adf70190dc27812 *VIDEO_TS/VTS_01_0.BUP
+ccb14c43b5159b7a4adf70190dc27812 *VIDEO_TS/VTS_01_0.IFO
+8ab8a6aa979c92cb0e9ab0f7a5784cec *VIDEO_TS/VTS_01_0.VOB
+0b85998ddb53785b45ebe49ba572f971 *VIDEO_TS/VTS_01_1.VOB
+5b1a75c4bc7831475041e9a893d99bb0 *VIDEO_TS/VTS_01_2.VOB
+8c76ea874f90a8427681bce2f12d1614 *VIDEO_TS/VTS_01_3.VOB
+dbeb68c87ae28830a850640559d50f17 *VIDEO_TS/VTS_01_4.VOB
+e5551df767de6076cfccf50f462f734d *VIDEO_TS/VTS_01_5.VOB
+1525bff7fdf2f1f5cb4c7267bf84fb0e *VIDEO_TS/VTS_01_6.VOB
+627737a1a1cd8150236218ab98678e8e *VIDEO_TS/VTS_01_7.VOB
+
+
+Transferred by Mike Ziegler.
+PLEASE DO NOT ENCODE TO MP3 OR SELL!

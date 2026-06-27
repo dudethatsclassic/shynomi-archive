@@ -1,0 +1,61 @@
+NIRVANA
+December 2, 1989
+Democrazy
+Ghent, Belgium
+
+SOURCE (AUD #1):
+unknown > Aiwa HS-J07
+
+TRANSFER:
+Nakamichi DR-8 > Echo Layla24 > Adobe Audition 1.5 > CD Wave 1.93 beta > FLAC frontend 1.7.1
+
+GENERATION:
+ANA(1) > WAV [48kHz] > WAV [44.1kHz] > FLAC [Level 8]
+
+LENGTH:
+57:48
+
+TRACKS:
+01. intro
+02. School
+03. Scoff
+04. jam
+05. jam
+06. Love Buzz
+07. Floyd The Barber
+08. Dive
+09. Sappy
+10. Spank Thru
+11. About A Girl
+12. Breed
+13. Big Cheese
+14. Molly's Lips
+15. Been A Son
+16. Negative Creep
+17. Blew
+18. Stain
+
+MD5 FINGERPRINTS:
+b29b48ed9f6a63e6b87b98c0c398b6c8 *Nirvana_1989-12-02_AUD1_t01.flac
+129558569114214b61741394b4ce447d *Nirvana_1989-12-02_AUD1_t02.flac
+62ef9a1ffa23b636f41f964144ba00ca *Nirvana_1989-12-02_AUD1_t03.flac
+6cb3a8eaff8003476e60cbe03bf2fc72 *Nirvana_1989-12-02_AUD1_t04.flac
+1ed630fe4c865eb7a2ab7d92843085ef *Nirvana_1989-12-02_AUD1_t05.flac
+6cbe913e25b8f11994106bc07e94de35 *Nirvana_1989-12-02_AUD1_t06.flac
+4da8c27634b612eeba55b7e8af2c0173 *Nirvana_1989-12-02_AUD1_t07.flac
+ae533208e7bf838da5edb56b956146d2 *Nirvana_1989-12-02_AUD1_t08.flac
+b0ecde6dabeece15a147bfb409f0de4e *Nirvana_1989-12-02_AUD1_t09.flac
+07a19cc45871c9c2a52d5b482beaee1f *Nirvana_1989-12-02_AUD1_t10.flac
+14cfa1d8897a612ef3fedeb0b5242279 *Nirvana_1989-12-02_AUD1_t11.flac
+2c1cd0dae3ccc02dd59a700e7920f474 *Nirvana_1989-12-02_AUD1_t12.flac
+0d37f1800ddd96187a43e607bb1a6c96 *Nirvana_1989-12-02_AUD1_t13.flac
+fa67cc23fe92c1519429616c8f907b18 *Nirvana_1989-12-02_AUD1_t14.flac
+199332cb9457735dfed959fc6ce7cce5 *Nirvana_1989-12-02_AUD1_t15.flac
+76c1299d39b63cd5ce2e0d45fdd4a631 *Nirvana_1989-12-02_AUD1_t16.flac
+cecab8e8b891c517fbdf9e8822360cc9 *Nirvana_1989-12-02_AUD1_t17.flac
+1cacdc82ec3af5209a3cecb9571879e3 *Nirvana_1989-12-02_AUD1_t18.flac
+
+TRANSFERRED BY:
+Kris Sproul
+
+PLEASE DO NOT SELL OR ENCODE TO MP3

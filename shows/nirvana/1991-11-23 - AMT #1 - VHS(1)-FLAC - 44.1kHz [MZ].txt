@@ -1,0 +1,71 @@
+NIRVANA
+November 23, 1991
+Vooruit
+Ghent, Belgium
+
+DISC #1/2 (44:10)
+-----------------
+01) intro
+02) Drain You
+03) Aneurysm
+04) School
+05) Floyd The Barber
+06) Smells Like Teen Spirit
+07) Curmudgeon
+08) Oh, The Guilt
+09) Lithium
+10) Sliver
+11) About A Girl
+12) Polly
+
+DISC #2/2 (38:02)
+-----------------
+01) Talk To Me
+02) The End (jam)
+03) Been A Son
+04) Negative Creep
+05) On A Plain (part of)
+06) On A Plain
+07) Blew
+08) Where Did You Sleep Last Night
+09) Jesus Wants Me For A Sunbeam
+
+GENERATION
+-----------------
+VHS(1) -> WAV [48kHz] -> WAV [44.1kHz] -> FLAC [Level 8]
+
+SOURCE (AMT#1)
+-----------------
+unknown -> unknown
+
+TRANSFER
+-----------------
+JVC HR-S9500 -> Hosa RCA cable -> LynxONE analog-in -> Adobe Audition 2.0 -> CD Wave 1.95.1 -> FLAC Frontend 1.7.1
+
+MD5 FINGERPRINTS
+-----------------
+e6e51264ec9ca038835073d4880baec7 *nirvana1991-11-23d1t01.flac
+839650811e3c0fab06f746155ff4958c *nirvana1991-11-23d1t02.flac
+bd2eb9f4287efa3ca325df1d3677b5bd *nirvana1991-11-23d1t03.flac
+acff5868a3543c8e1db3e02485344077 *nirvana1991-11-23d1t04.flac
+9abec9ccb5df3ffee4ae4cd66f4a7b82 *nirvana1991-11-23d1t05.flac
+a1ef259b96a40fbc05b275d1ea7bcf35 *nirvana1991-11-23d1t06.flac
+b98e5286ed8af7ba29e5a82e9f11ae85 *nirvana1991-11-23d1t07.flac
+e9945664cee662a9b244242b423e70b7 *nirvana1991-11-23d1t08.flac
+c2186a00ef28473273418abeb998cfc6 *nirvana1991-11-23d1t09.flac
+5e97df2038bb4a47333c52e1109b4a91 *nirvana1991-11-23d1t10.flac
+666939b2c4d4c6af7f31f9df217e3ef2 *nirvana1991-11-23d1t11.flac
+2b37f028e541bfd4880561951cd709eb *nirvana1991-11-23d1t12.flac
+fcc1934a437ae9320b666c94b0a89160 *nirvana1991-11-23d2t01.flac
+19e02460e590a993b161c42eb9b75892 *nirvana1991-11-23d2t02.flac
+a0d2a9bf36109addc301a53331732e07 *nirvana1991-11-23d2t03.flac
+e740429d6125daa0fa86ea34642849c1 *nirvana1991-11-23d2t04.flac
+c2712147577a164565d5b51aadc0d21d *nirvana1991-11-23d2t05.flac
+ea8b1213cba6bd7c430a9c050de1dd3d *nirvana1991-11-23d2t06.flac
+494b8eec20f1406b0b99cff44f6488e7 *nirvana1991-11-23d2t07.flac
+7daf9d86933a84466888819411bcbfcf *nirvana1991-11-23d2t08.flac
+a24fa22c471e1827c6af08259353fcc1 *nirvana1991-11-23d2t09.flac
+
+
+Transferred by Mike Ziegler.
+PLEASE DO NOT ENCODE TO MP3 OR SELL!

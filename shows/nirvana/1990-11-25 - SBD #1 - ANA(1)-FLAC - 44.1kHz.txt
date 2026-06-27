@@ -1,0 +1,68 @@
+NIRVANA
+November 25, 1990
+The Off Ramp
+Seattle, WA
+
+DISC #1/1 (73:03)
+-----------------
+01) intro
+02) Aneurysm
+03) Oh, The Guilt
+04) Mr. Moustache
+05) Stay Away
+06) Breed
+07) Floyd The Barber
+08) About A Girl
+09) Verse Chorus Verse
+10) In Bloom
+11) Swap Meet
+12) Been A Son
+13) Stain
+14) Blew
+15) Sappy (cut)
+16) Lithium
+17) School
+18) D-7
+19) Here She Comes Now
+20) Sliver
+21) Dive (part of)
+
+GENERATION
+-----------------
+ANA(1) -> WAV [48kHz] -> WAV [44.1kHz] -> FLAC [Level 8]
+
+SOURCE (SBD#1)
+-----------------
+soundboard -> unknown
+
+TRANSFER
+-----------------
+Nakamichi CR-7A -> Hosa RCA cable -> LynxONE analog-in -> Adobe Audition 2.0 -> CD Wave 1.95.1 -> FLAC Frontend 1.7.1
+
+MD5 FINGERPRINTS
+-----------------
+4baf5f7416ca3c04b29434f7ba43a3f3 *nirvana1990-11-25t01.flac
+ae9c4459df56e7fbb0d160e0398c3268 *nirvana1990-11-25t02.flac
+ee9b84af605076f2c51a203b0a477255 *nirvana1990-11-25t03.flac
+d1b9878bcb782a14333a6007be57e66e *nirvana1990-11-25t04.flac
+a9b54cd2554647a2662e8daab9f86a9b *nirvana1990-11-25t05.flac
+241048c12ff597b1d79400c36b7eea9a *nirvana1990-11-25t06.flac
+7dc6578d30137f59c3ac71788954392e *nirvana1990-11-25t07.flac
+5d438fc594a3dd72ec9051b8f891440b *nirvana1990-11-25t08.flac
+19ee8527d98f2f994c87a47b1e5c7f35 *nirvana1990-11-25t09.flac
+d2e681e521dee2cc9df0b920da8e5ec3 *nirvana1990-11-25t10.flac
+cff014901b0c6938109ef018fdf2cee2 *nirvana1990-11-25t11.flac
+b169d202530be56bad1bc91511d838fc *nirvana1990-11-25t12.flac
+ffaea4a0493c0493919174d12e5d3024 *nirvana1990-11-25t13.flac
+ad3be708159a7f288dc02d8322c7f55f *nirvana1990-11-25t14.flac
+ab41d9c1ae4ce91abe0ae0cb99d06b6f *nirvana1990-11-25t15.flac
+c95c3a276ceb408dc8626e284ff1ff2c *nirvana1990-11-25t16.flac
+44ec1aa8b2afbe4ead7253efd46b6d2d *nirvana1990-11-25t17.flac
+1aa92f8c0bbf966c0f9a774cc5345d2d *nirvana1990-11-25t18.flac
+2f7ea1b765f6e6154cca1a2d33c57a49 *nirvana1990-11-25t19.flac
+fcd0139c6e8419b0f269d19daf3fb463 *nirvana1990-11-25t20.flac
+a02863c10c9adc53790e02f86320bae8 *nirvana1990-11-25t21.flac
+
+
+Transferred by Mike Ziegler.
+PLEASE DO NOT ENCODE TO MP3 OR SELL!

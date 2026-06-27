@@ -1,0 +1,29 @@
+NIRVANA
+February 18, 1994
+Le Summum
+Grenoble, France
+
+DISC #1/1 (04:25)
+-----------------
+01) Radio Friendly Unit Shifter
+
+SOURCE (SBD #1)
+-----------------
+soundboard > unknown (DAT)
+
+GENERATION
+-----------------
+Official CD "Home Alive : The Art Of Self Defense - Vol.1" -> WAV [44.1kHz] -> FLAC [Level 8]
+
+EXTRACTION
+-----------------
+Lite-On iHBS-112 -> Exact Audio Copy v1.0 beta 3 -> FLAC Frontend 1.7.1
+
+MD5 FINGERPRINTS
+-----------------
+50f79415434bf38f5eca5dd848d129b9 *Nirvana_1994-02-18_SBD1_t01.flac
+
+
+Extracted by PL.
+PLEASE DO NOT ENCODE TO MP3 OR SELL!
+NO TRADE

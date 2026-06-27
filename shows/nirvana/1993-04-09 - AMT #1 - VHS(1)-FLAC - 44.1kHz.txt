@@ -1,0 +1,80 @@
+NIRVANA
+April 9, 1993
+Cow Palace (Bosnian Rape Victim Benefit)
+San Francisco, CA
+
+SOURCE (AMT #1):
+unknown > unknown
+
+TRANSFER:
+JVC HR-S9911U > Echo Layla24 > Adobe Audition 2.0 > CD Wave 1.94.8 > FLAC frontend 1.7.1
+
+GENERATION:
+VHS(1) > WAV [48kHz] > WAV [44.1kHz] > FLAC [Level 8]
+
+LENGTH:
+93:26
+
+NOTES:
+- Has occasional static from the source tape.
+
+TRACKS (DISC 1):
+01. intro
+02. Rape Me
+03. School
+04. Breed
+05. Sliver
+06. Come As You Are
+07. Milk It
+08. About A Girl
+09. Lithium
+10. Dumb
+11. Frances Farmer Will Have Her Revenge On Seattle
+12. Serve The Servants
+13. Aneurysm
+14. Smells Like Teen Spirit
+15. Territorial Pissings
+
+TRACKS (DISC 2):
+01. Blew
+02. All Apologies
+03. Heart-Shaped Box
+04. Scentless Apprentice
+05. Something In The Way
+06. Negative Creep
+07. Been A Son
+08. Dive
+09. Love Buzz
+10. Endless, Nameless
+
+MD5 FINGERPRINTS:
+836f2d995af09f0a130a04d0d8c24e18 *Nirvana_1993-04-09_AMT1_d1t01.flac
+cffffde27603d24a1d47a5966f0cf005 *Nirvana_1993-04-09_AMT1_d1t02.flac
+f571ac30b0121fa26719dcc598d4ffe9 *Nirvana_1993-04-09_AMT1_d1t03.flac
+977f5a04be0d8d00dac45b86e8b61ab7 *Nirvana_1993-04-09_AMT1_d1t04.flac
+d6501151977726956e47a825b1348b8d *Nirvana_1993-04-09_AMT1_d1t05.flac
+c9c02c6cd1015e0901d397f04f0984bc *Nirvana_1993-04-09_AMT1_d1t06.flac
+4cc132d6a9319658ae31df20526e1970 *Nirvana_1993-04-09_AMT1_d1t07.flac
+5f7ad3ab05548688097d352134c4ff4d *Nirvana_1993-04-09_AMT1_d1t08.flac
+7cd9c62846076261a9e61b0df55bf5fe *Nirvana_1993-04-09_AMT1_d1t09.flac
+8a6a647ae5268ddf13f71d1fda41fbd9 *Nirvana_1993-04-09_AMT1_d1t10.flac
+30ec7bbe36c85fab683a42c285425890 *Nirvana_1993-04-09_AMT1_d1t11.flac
+ff2e2f9a9d6d5bcaeeb8fbbdb4309443 *Nirvana_1993-04-09_AMT1_d1t12.flac
+782aa1f617c3624bcf250d532198f6ff *Nirvana_1993-04-09_AMT1_d1t13.flac
+dea5a8670ff54c524869105a1f5e77df *Nirvana_1993-04-09_AMT1_d1t14.flac
+cfb51c813ecbcc4553517cb36c583f05 *Nirvana_1993-04-09_AMT1_d1t15.flac
+4d70db0b63e6c7f9c05db7bf406649ba *Nirvana_1993-04-09_AMT1_d2t01.flac
+37380573f3a19e01beae1f58a80f3055 *Nirvana_1993-04-09_AMT1_d2t02.flac
+a91ff37475f79e63c62fc72b1c165f9f *Nirvana_1993-04-09_AMT1_d2t03.flac
+20d480e94c533b0061717e7974a6eb09 *Nirvana_1993-04-09_AMT1_d2t04.flac
+26ce9dec1bfcaf65f60afd70b0ac33e2 *Nirvana_1993-04-09_AMT1_d2t05.flac
+4f3df1ecbcf1be1587cf203fe7f65948 *Nirvana_1993-04-09_AMT1_d2t06.flac
+63e3839192a6e35c820e53c14d95c813 *Nirvana_1993-04-09_AMT1_d2t07.flac
+f14fd6a8c58384c3d0ac748e4995335e *Nirvana_1993-04-09_AMT1_d2t08.flac
+f2b9b8500f6c7c7fcd786ebd71efdfcb *Nirvana_1993-04-09_AMT1_d2t09.flac
+53ac0b21ddc1fb7a3c6831d0634776d4 *Nirvana_1993-04-09_AMT1_d2t10.flac
+
+TRANSFERRED BY:
+Kris Sproul
+
+PLEASE DO NOT SELL OR ENCODE TO MP3

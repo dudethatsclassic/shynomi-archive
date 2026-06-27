@@ -1,0 +1,50 @@
+NIRVANA
+February 9, 1990
+Pine Street Theatre
+Portland, OR
+
+DISC #1/1 (33:53)
+-----------------
+01) Intro
+02) School
+03) Floyd The Barber
+04) Dive
+05) Love Buzz
+06) Spank Thru
+07) Molly's Lips
+08) Sappy
+09) Scoff
+10) About A Girl
+11) Been A Son
+12) Blew
+
+SOURCE (SBD #3)
+-----------------
+Soundboard -> Unknown
+
+GENERATION
+-----------------
+Official CD "Bleach Deluxe" -> WAV [44.1kHz] -> FLAC [Level 8]
+
+EXTRACTION
+-----------------
+Lite-On iHBS-112 -> Exact Audio Copy v1.00 beta 3 -> FLAC Frontend 1.7.1
+
+MD5 FINGERPRINTS
+-----------------
+be665b1a226d8e2cf094150e63ea5962 *nirvana_1990-02-09_sbd3_t01.flac
+43e2ff4cc5041ef4b8ab8ec6a6875219 *nirvana_1990-02-09_sbd3_t02.flac
+4b1eb901979ea2da098c27fcde057fa9 *nirvana_1990-02-09_sbd3_t03.flac
+3fb85f4f77b0ee9a79b034d79435c284 *nirvana_1990-02-09_sbd3_t04.flac
+a6cacf0467343a3cb50f90abc24739d6 *nirvana_1990-02-09_sbd3_t05.flac
+b43ee40013f5a1f58d1b24c1217e72df *nirvana_1990-02-09_sbd3_t06.flac
+730d5bc93f2f801b25d933ad362484d9 *nirvana_1990-02-09_sbd3_t07.flac
+a05428f7a4a51e6e98a5c18d5a8a09a3 *nirvana_1990-02-09_sbd3_t08.flac
+43c4d5dd8711e11a4e346d654bf2c5da *nirvana_1990-02-09_sbd3_t09.flac
+ab86cd7b903e8523b370b065ff80b25e *nirvana_1990-02-09_sbd3_t10.flac
+b11aa9fec3ac947fc92e8bced3f1b6fd *nirvana_1990-02-09_sbd3_t11.flac
+6ca66867aef2a4ab046da466d3bf1e71 *nirvana_1990-02-09_sbd3_t12.flac
+
+Extracted by PL.
+PLEASE DO NOT ENCODE TO MP3 OR SELL!
+NO TRADE

@@ -1,0 +1,31 @@
+NIRVANA
+February 9, 1994
+Palau Municipal dels Esports
+Barcelona, Spain
+
+SOURCE (SBD #1):
+soundboard > unknown
+
+TRANSFER:
+Sony TCD-D8 > optical cable > DAL CardDeluxe > Adobe Audition 1.5 > Adobe Audition 2.0 > CD Wave 1.95.1 > FLAC frontend 1.7.1
+
+GENERATION:
+FM > DAT(x) [48kHz] > WAV [48kHz] > WAV [44.1kHz] > FLAC [Level 8]
+
+LENGTH:
+6:58
+
+TRACKS:
+01. Lithium
+02. Rape Me (cuts in)
+03. Territorial Pissings (cuts out)
+
+MD5 FINGERPRINTS:
+5fd8029fb4cb126f8245bb9fb83cb49a *Nirvana_1994-02-09_SBD1_t01.flac
+1d82f7f7c2dba1b6d82aa44083262461 *Nirvana_1994-02-09_SBD1_t02.flac
+5d4aa957899db4efbaa532dde486e745 *Nirvana_1994-02-09_SBD1_t03.flac
+
+TRANSFERRED BY:
+Rob Landis
+
+PLEASE DO NOT SELL OR ENCODE TO MP3

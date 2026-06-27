@@ -1,0 +1,33 @@
+Nirvana
+August 23, 1991
+Richfield Avenue (Reading Festival)
+Reading, United Kingdom 
+
+DISC #1/1 (2:59)
+-----------------
+01) intro 
+02) School
+
+
+GENERATION
+-----------------
+TV -> VHS(1) -> WAV [48kHz] -> WAV [44.1kHz] -> FLAC [Level 8]
+
+SOURCE (PRO #1a)
+-----------------
+Soundboard > Unknown (Betacam)
+
+TRANSFER
+-----------------
+Samsung DVD VR370 -> DAR Audio RCA cable -> Realtek ALC880 -> Adobe Audition 3.0 -> CD Wave 1.93.0 -> Trader's Little Helper -> Nero 9
+
+MD5 FINGERPRINTS
+-----------------
+8f0681252cdb9bd1d74642c135b809e5 *08-23-91 - 44,1khz01.flac
+70fe6c187ae1af92e1ed1b1d168e1902 *08-23-91 - 44,1khz02.flac
+
+
+Recorded & Transfered By Hecquet Gregory.
+PLEASE DO NOT ENCODE TO LOSSY FORMAT OR SELL!
+
+http://db.etree.org/Gregory-H

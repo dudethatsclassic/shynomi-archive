@@ -1,0 +1,46 @@
+NIRVANA
+July 18, 1989
+Pyramid Club (New Music Seminar)
+New York, NY
+
+DISC #1/1 (32:12)
+-----------------
+01) intro
+02) School
+03) Floyd The Barber
+04) Love Buzz
+05) Dive (cut)
+06) Polly
+07) Big Cheese
+08) Scoff (cut)
+09) About A Girl (cut)
+10) Blew
+
+GENERATION
+-----------------
+VHS(2) -> WAV [48kHz] -> WAV [44.1kHz] -> FLAC [Level 8]
+
+SOURCE (AMT#1c)
+-----------------
+unknown -> unknown
+
+TRANSFER
+-----------------
+JVC HR-S9911U -> Hosa RCA cable -> LynxONE analog-in -> Adobe Audition 1.5 -> CD Wave 1.94.5 -> FLAC Frontend 1.7.1
+
+MD5 FINGERPRINTS
+-----------------
+08e8db89bee4fc841501fce67dae26c1 *nirvana1989-07-18t01.flac
+0bfe489aecd04c72f28946a9f00acc02 *nirvana1989-07-18t02.flac
+ad8855244df3887656b9570212c85eec *nirvana1989-07-18t03.flac
+93cf99d7461150541608c9fb3d894565 *nirvana1989-07-18t04.flac
+48b0fe44f6776ec81cc5a83db8263d42 *nirvana1989-07-18t05.flac
+0878e6faddf310076963b5ebc80962e8 *nirvana1989-07-18t06.flac
+4f816c10f6972585867f1ffc85889e53 *nirvana1989-07-18t07.flac
+f69ce77a51767cfea3d0df39a062ae48 *nirvana1989-07-18t08.flac
+2577cc911dc26dd6d98cdca8433cd7fd *nirvana1989-07-18t09.flac
+e3bd2640c7a4a659225b42ce792d3eaf *nirvana1989-07-18t10.flac
+
+
+Transferred by Mike Ziegler.
+PLEASE DO NOT ENCODE TO MP3 OR SELL!

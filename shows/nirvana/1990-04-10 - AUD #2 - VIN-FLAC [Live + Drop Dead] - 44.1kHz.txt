@@ -1,0 +1,44 @@
+Nirvana
+April 10, 1990
+Blind Pig
+Ann Arbor, MI
+
+DISC #1/1 (48:37)
+-----------------
+01) intro
+02) School
+03) Floyd The Barber
+04) Love Buzz
+05) Dive
+06) Spank Thru"
+07) Breed
+08) About A Girl
+09) Big Cheese
+10) Scoff
+11) Molly's Lips
+12) Stain
+13) Been A Son
+14) Negative Creep
+15) Blew
+
+GENERATION
+-----------------
+1 & 2: "Drop Dead" LP(M) -> WAV [96kHz/32bit] -> WAV [44.1kHz] -> FLAC [Level 8]
+
+3 - 15: "Live" LP(M) -> WAV [96kHz/32bit] -> WAV [44.1kHz] -> FLAC [Level 8]
+
+
+MD5 FINGERPRINTS
+-----------------
+6956d14de9acd403fb7f6af78a64c2fc *nirvana1990-04-10.flac
+9b9c8b1c1d3e88607317dc74915b7a62 *nirvana1990-04-10.cue
+
+NOTES
+-----------------
+This combines the two different 4/10/90 LPs to a single most complete version.  
+It is my opinion that this makes transfers of the separate LPs superfluous.  The two LPs are both from the same source tape, so the two records blend quite nicely.
+
+
+TRANSFERRED BY
+John Dionysus
+01/22/05

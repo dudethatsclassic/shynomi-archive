@@ -1,0 +1,48 @@
+Nirvana
+February 25,1994
+Palatrussardi,
+Milan,IT
+
+SETLIST:
+
+-Sappy 
+
+SOURCE : AMT#4 "Kurt74"
+----------------------------------------------------------------------------------------------------------------------------
+NOTES: 
+-This source was provided by Raffaele Piacenti (also known as "Kurt74") who attended the show.He bought a VHS bootleg some
+ weeks after the event through an advert published on "Metal Shock" magazine (Italian edition).
+-Raffaele gave us a song on request (we chose Sappy) when we asked for something unique to feature on the (ex) Italian DVD 
+ Project. The original source is said to be complete .
+-Taper is unknown and AMT#4 has never circulated before,except on the VHS trading/selling scene in mid '90s.
+-Raffaele borrowed a VCR from a family member to transfer the tape back in 2010,but he forgot the model (that's why it's 
+ labeled as unknown) . 
+---------------------------------------------------------------------------------------------------
+GENERATION:
+
+VHS(X) ->  miniDV ->  DV Type 1 AVI ->  MPEG-2 PS [8Mbps CBR/48kHz PCM] (Aspect Ratio 4:3 - PAL)
+ 
+EQUIPMENT:
+
+(Unknown VCR) ->  Canon MVX10i ->  IEEE 1394 ->  Edius 6.0.1 64bit 
+
+
+Transferred by Raffaele Piacenti.
+
+Courtesy of Nirvanaitalia (www.nirvanaitalia.it) 
+
+-----------------------------------------------------------------------------------------------------------------------------
+Thanks to "Kurt74" for his help.
+Post editing and MKW porting by Simon Kilmore.
+-----------------------------------------------------------------------------------------------------------------------------
+Please DO NOT sell it or convert it in any lossy format!
+-----------------------------------------------------------------------------------------------------------------------------
+It's an Italian LNCU Team production!!
+-----------------------------------------------------------------------------------------------------------------------------
+This is a special preview of "WELCOME TO ITALY"(previously known as "Italian DVD Project") which it will be distro soon!!!
+-----------------------------------------------------------------------------------------------------------------------------
+MD5 checksum:
+
+c5d78f78f311220007bfec4d39114108 *1994_02_25_AMT#4_'Kurt74'_Sappy_VHS(X).mkv
+
+-----------------------------------------------------------------------------------------------------------------------------

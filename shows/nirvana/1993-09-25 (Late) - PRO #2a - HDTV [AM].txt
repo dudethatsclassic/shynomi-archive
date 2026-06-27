@@ -1,0 +1,35 @@
+Nirvana
+September 25th, 1993
+NBC Studios (Saturday Night Live)
+New York, NY
+
+SOURCE (PRO #x):
+soundboard > unknown
+
+TRANSFER:
+AMD HD650 Digital TV Tuner > Windows Media Center > VideoReDo 5.1.1.719 > eac3to 3.30  > Adobe Audition CS6 > MKVMergeGUI 8.9.0
+
+GENERATION:
+HDTV > MKV [1080i / MPEG-2 / 14Mbps | AC-3 / 384kbps / 5.1 | FLAC / 2.0]
+
+LENGTH:
+10:11
+
+NOTES:
+- Video is up-scaled, re-broadcast April 2016.
+- Includes stereo audio track created from 5.1 Surround Sound track. 
+- 5.1 Surround Sound track features audio in only the FL and FR channels.
+
+TRACKS:
+01. intro
+02. Heart-Shaped Box
+03. Rape Me
+04. credits
+
+MD5 FINGERPRINTS:
+b3bacc7622258c855264a0f9d5e63a6a *Nirvana1993-09-25-PROx.mkv
+
+RECORDED AND TRANSFERRED BY:
+Alan Martinez
+
+**PLEASE DO NOT ENCODE TO LOSSY FORMATS OR SELL!**

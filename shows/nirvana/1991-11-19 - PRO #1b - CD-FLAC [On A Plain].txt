@@ -1,0 +1,63 @@
+NIRVANA
+November 19, 1991
+Teatro Castello
+Rome, Italy
+
+DISC #1/1 (53:00)
+-----------------
+01) Aneurysm
+02) School
+03) Floyd The Barber
+04) Smells Like Teen Spirit
+05) About A Girl
+06) Polly
+07) Lithium
+08) Sliver
+09) Come As You Are
+10) Breed
+11) Been A Son
+12) Negative Creep
+13) On A Plain
+14) Blew
+15) Rape Me
+16) Spank Thru
+17) Territorial Pissings 
+
+GENERATION
+-----------------
+Unofficial CD ["On A Plain"] -> WAV [44.1kHz] -> FLAC [Level 8]
+
+SOURCE (PRO #1b)
+-----------------
+soundboard -> unknown
+
+EXTRACTION
+-----------------
+Lite-On iHBS-112 -> Exact Audio Copy v1.00 beta 3 -> Adobe Audition 3.0 -> CD Wave 1.98 -> FLAC Frontend 1.7.1
+
+NOTES
+-----------------
+- Normalized
+
+MD5 FINGERPRINTS
+-----------------
+72e3e398f59abfec759fffc8c3c7b56f *Nirvana_1991-11-19_PRO1b_t01.flac
+ad7fd9901b4a00ef8d213f22aa436567 *Nirvana_1991-11-19_PRO1b_t02.flac
+b2df7c0b535bebc1dbc2664c97f88928 *Nirvana_1991-11-19_PRO1b_t03.flac
+93bd4cb8ef5a04490576720b516846ce *Nirvana_1991-11-19_PRO1b_t04.flac
+2c72daa7576e8275dd7a2a0edb9957c8 *Nirvana_1991-11-19_PRO1b_t05.flac
+b9074b8a7204a803513faee9c16eb691 *Nirvana_1991-11-19_PRO1b_t06.flac
+51a462e524550228617bf332e192cb6c *Nirvana_1991-11-19_PRO1b_t07.flac
+cd3ec0a22cd28eee8039ab23c351aab9 *Nirvana_1991-11-19_PRO1b_t08.flac
+5013483727c72cd685ded21665abddc3 *Nirvana_1991-11-19_PRO1b_t09.flac
+455c576b8d9295677b9d5007ffe9c06e *Nirvana_1991-11-19_PRO1b_t10.flac
+c2cd659baec654a02565a5d249eab856 *Nirvana_1991-11-19_PRO1b_t11.flac
+1eebf09eb33a20dc6ee7faa9c1a194df *Nirvana_1991-11-19_PRO1b_t12.flac
+99d15e5f7750ca01bd923e98b6e51d76 *Nirvana_1991-11-19_PRO1b_t13.flac
+2dc39a9e4cc2887ac0da867fb82713b3 *Nirvana_1991-11-19_PRO1b_t14.flac
+8164ae7622348871e1d675447faaca06 *Nirvana_1991-11-19_PRO1b_t15.flac
+fff425ef1e18df336c05ad9a14c5d038 *Nirvana_1991-11-19_PRO1b_t16.flac
+da8a8af1e67c00c3444de93bae4241fc *Nirvana_1991-11-19_PRO1b_t17.flac
+
+Extracted by Pierre Leroy.
+PLEASE DO NOT ENCODE TO MP3 OR SELL!

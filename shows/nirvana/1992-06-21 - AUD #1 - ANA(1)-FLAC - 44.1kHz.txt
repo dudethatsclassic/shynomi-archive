@@ -1,0 +1,62 @@
+NIRVANA
+JUne 21, 1992
+Point Depot
+Dublin, Ireland
+
+DISC #1/1 (61:46)
+-----------------
+01) intro
+02) Aneurysm
+03) Drain You
+04) Stay Away
+05) School
+06) Sliver
+07) In Bloom
+08) Breed
+09) About A Girl
+10) Polly
+11) Lithium
+12) Blew
+13) Been A Son
+14) On A Plain
+15) Negative Creep (cut)
+16) Come As You Are
+17) Smells Like Teen Spirit
+18) Territorial Pissings
+
+GENERATION
+-----------------
+ANA(1) -> WAV [48kHz] -> WAV [44.1kHz] -> FLAC [Level 8]
+
+SOURCE (AUD#1)
+-----------------
+unknown -> unknown
+
+TRANSFER
+-----------------
+Nakamichi DR-8 -> Hosa RCA cable -> LynxONE analog-in -> Adobe Audition 1.5 -> CD Wave 1.94.5 -> FLAC Frontend 1.7.1
+
+MD5 FINGERPRINTS
+-----------------
+dcf85ee1a6bedc0a89f2147e41942812 *nirvana1992-06-21t01.flac
+46d92435d130ac513099c2d5f017d416 *nirvana1992-06-21t02.flac
+e9bae3e7bfd5f49c95324c3c191eea33 *nirvana1992-06-21t03.flac
+2ab65ea5a63090924349bab43a0e160e *nirvana1992-06-21t04.flac
+546d417f73ab0bdd9e19bc28b9d971ee *nirvana1992-06-21t05.flac
+25c127f04a26b63a0b540450b4ff5ce6 *nirvana1992-06-21t06.flac
+91bf1b8c0ad612ccf74163f8eed8391a *nirvana1992-06-21t07.flac
+e57462911959678cfab6dd5dae075470 *nirvana1992-06-21t08.flac
+13aff3250d1ecdc00437b13c7db4f686 *nirvana1992-06-21t09.flac
+da9daac88a0f8f7aeb1a87d94fa454b1 *nirvana1992-06-21t10.flac
+b530c1ca0c005130f998d15cf09f2692 *nirvana1992-06-21t11.flac
+ae5e7a25bdaa48d499b4be333dac8588 *nirvana1992-06-21t12.flac
+b1973e90a197948d6cf3f86b1d589a2d *nirvana1992-06-21t13.flac
+1bbce528852b0aa8825d41845332e2ef *nirvana1992-06-21t14.flac
+a213fb9e5c346bd63adcc2f6501bddb3 *nirvana1992-06-21t15.flac
+c1f49416cde9229e6fe6c22318374c96 *nirvana1992-06-21t16.flac
+8a6decf70f0cb920f3617174e4921e70 *nirvana1992-06-21t17.flac
+1cb6260efffee43fcc3b2e4375d892af *nirvana1992-06-21t18.flac
+
+
+Transferred by Mike Ziegler.
+PLEASE DO NOT ENCODE TO MP3 OR SELL!

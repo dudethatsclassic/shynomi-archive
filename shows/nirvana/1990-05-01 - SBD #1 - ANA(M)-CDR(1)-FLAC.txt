@@ -1,0 +1,57 @@
+NIRVANA
+May 1, 1990
+Cat's Cradle
+Chapel Hill, NC
+
+DISC #1/1 (45:55)
+-----------------
+01) intro
+02) School
+03) Floyd The Barber (cut) 
+04) Love Buzz (cut)
+05) Dive (cut)
+06) Spank Thru (cut)
+07) Breed (cut)
+08) About A Girl (cut)
+09) Scoff (cut)
+10) Big Cheese (cut)
+11) In Bloom (cut)
+12) Polly (cut)
+13) Stain (cut)
+
+GENERATION
+-----------------
+ANA(M) -> CDR(1) -> WAV [44.1kHz] -> FLAC [Level 8]
+
+SOURCE (SBD#1)
+-----------------
+soundboard -> unknown
+
+NOTES
+-----------------
+- Has some minor dropouts throughout the recording.
+- All of the mid-song cuts are minor and are probably the result of a poor transfer.
+
+EXTRACTION
+-----------------
+TSSTCorp TS-L632D -> Exact Audio Copy V0.99 prebeta 3 -> Adobe Audition 3.0 -> CD Wave 1.96.1 -> FLAC frontend 1.7.1
+
+MD5 FINGERPRINTS
+-----------------
+b69ded887ecf8cac1b596eea147a7722 *nirvana1990-05-01t01.flac
+52cd85607be39d7fda47e19f535e12e1 *nirvana1990-05-01t02.flac
+ea78cc6ff46cef0cfcf24c65a93405f3 *nirvana1990-05-01t03.flac
+268cc70a8d9842256ff0e41b3274eafc *nirvana1990-05-01t04.flac
+d0b943b90df84efc469a1c1976b093af *nirvana1990-05-01t05.flac
+f8a5c6b13565c22a26a16fe8d74f6792 *nirvana1990-05-01t06.flac
+b96f3cc60009daa464c362cd8ccf9262 *nirvana1990-05-01t07.flac
+94acc2e08ab1591b7a0b62aaf684958d *nirvana1990-05-01t08.flac
+8be62fdc79fcaf147257c0b4c6b56df5 *nirvana1990-05-01t09.flac
+7bfec8c29776197d877c17480d358876 *nirvana1990-05-01t10.flac
+06a5783f65352d622d0b248519d3aeb2 *nirvana1990-05-01t11.flac
+eabcdcf48dd840b4cbf11d80bc07e342 *nirvana1990-05-01t12.flac
+080ff785d5a0125d844ae28e0db6fbbd *nirvana1990-05-01t13.flac
+
+
+Extracted by Dan.
+PLEASE DO NOT ENCODE TO MP3 OR SELL!

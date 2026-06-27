@@ -1,0 +1,71 @@
+NIRVANA
+November 25, 1991
+Paradiso
+Amsterdam, The Netherlands
+
+DISC #1/1 (55:26)
+-----------------
+01) Drain You
+02) Aneurysm
+03) School
+04) Floyd The Barber
+05) Smells Like Teen Spirit
+06) About A Girl
+07) Polly
+08) Lithium
+09) Sliver
+10) Breed
+11) Come As You Are
+12) Been A Son
+13) Negative Creep
+14) On A Plain
+15) Blew
+16) Love Buzz
+17) Territorial Pissings
+18) Destruction
+
+GENERATION
+-----------------
+TV -> WAV [48kHz] -> WAV [44.1kHz] -> FLAC [Level 8]
+
+SOURCE (PRO#1c)
+-----------------
+soundboard -> unknown
+
+TRANSFER
+-----------------
+LG TV -> Golden RCA cables -> Realtek ALC650 -> VirtualDub 1.9.11 -> Adobe Audition 1.5 -> FLAC Frontend 1.7.1
+
+NOTES
+-----------------
+- Airing date September 25, 2011 at 00:05 for VPRO on the dutch channel NL3.
+- Spectral view shows a static line at 15,6 kHz which means NL3 used a VHS for the broadcast.
+- Unfortunately I captured it on a different PC which doesn't have a high-end soundcard.
+- Manually edited out some clicks in the quiet parts of Polly and the start of Blew.
+- The TV>DVDR(0) I circulated earlier started with an interiew at higher volume than the concert, so I could normalize the concert to a higher volume now.
+- Missing between song banter present on PRO#1a but of much better, near excellent soundquality.
+
+MD5 FINGERPRINTS
+-----------------
+2fb99f09a5ecaf857d8cf605705f89f0 *nirvana1991-11-25t01.flac
+b177d2c9ce33e4389242743d6329e076 *nirvana1991-11-25t02.flac
+53d8e47783aa02a32fb1fabfa450e890 *nirvana1991-11-25t03.flac
+427ada67d3275bf24391542a6993893f *nirvana1991-11-25t04.flac
+01c1ad83b22ae83423c9d03e9c722c5c *nirvana1991-11-25t05.flac
+7cbc18a0d8676653e986bad0ead818dc *nirvana1991-11-25t06.flac
+b317ebe8fa6c915f37cdb2da06a87fee *nirvana1991-11-25t07.flac
+b8611c3c028458924f2ac4fa9196e8fb *nirvana1991-11-25t08.flac
+47aa1619bfc237ef7f2820efb30b059f *nirvana1991-11-25t09.flac
+162444d1a1a8e729fa526489bc0399e2 *nirvana1991-11-25t10.flac
+6e98a1a1b621380107d956abc8b016db *nirvana1991-11-25t11.flac
+cade54d768dc2157453b792f94b27be2 *nirvana1991-11-25t12.flac
+b544adbb191a1ddd26458773402ae112 *nirvana1991-11-25t13.flac
+89bd8a71109342ca1152bf3dcff9ee7f *nirvana1991-11-25t14.flac
+45719c10edefec0845b7304e0476fedf *nirvana1991-11-25t15.flac
+f00e1f57e23076df2b880b6187aa121f *nirvana1991-11-25t16.flac
+65511800a59d107d65eb7103a65064ba *nirvana1991-11-25t17.flac
+422abe7ef9dce6c28cd688f5cd16dce9 *nirvana1991-11-25t18.flac
+
+
+Transferred by Pieter Vermeulen.
+PLEASE DO NOT ENCODE TO MP3 OR SELL!

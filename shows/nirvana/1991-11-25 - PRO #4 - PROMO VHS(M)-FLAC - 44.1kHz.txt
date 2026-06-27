@@ -1,0 +1,41 @@
+NIRVANA
+November 25, 1991
+Paradiso
+Amsterdam, The Netherlands
+
+DISC #1/1 (19:43)
+-----------------
+01) Lithium
+02) Breed
+03) Polly
+04) Smells Like Teen Spirit (fading into an interview)
+05) Love Buzz
+06) Territorial Pissings
+
+GENERATION
+-----------------
+PROMO VHS(M) -> M2V/WAV [8Mbps CBR/48kHz PCM] -> WAV [48kHz] -> WAV [44.1kHz] -> FLAC [Level 8]
+
+SOURCE (PRO#4)
+-----------------
+unknown -> soundboard
+
+EXTRACTION
+-----------------
+PgcDemux v1.2.0.5 -> Adobe Audition 1.5 -> FLAC Frontend 1.7.1
+
+MD5 FINGERPRINTS
+-----------------
+e0221d0a2080e65a4fc27280e774aa8c *nirvana1991-11-25t01.flac
+a74e5949a5ae97b7ebcb8a64a0e61565 *nirvana1991-11-25t02.flac
+606c027810d5492efba6430ff3e8b6b2 *nirvana1991-11-25t03.flac
+a0ab68970095590c6ff386bb6bfed0c8 *nirvana1991-11-25t04a.flac
+7102682e7bd67332bc08ff71d0a7871e *nirvana1991-11-25t04b.flac
+a24d6da777a2963a1d977991be6e8f45 *nirvana1991-11-25t05.flac
+d652ff980c02800c04c9b1acb81aaf3e *nirvana1991-11-25t06.flac
+
+
+DVD authored by Tim Hall.
+FLAC'ed by Pieter Vermeulen.
+PLEASE DO NOT ENCODE TO MP3 OR SELL!
+

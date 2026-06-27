@@ -1,0 +1,72 @@
+NIRVANA
+February 9, 1994
+Palau Municipal dels Esports
+Barcelona, Spain
+
+SOURCE (AUD #2):
+unknown > Aiwa
+
+TRANSFER:
+Nakamichi CR-7A > TerraTec PHASE 24 FW > Peak 5.2 > Adobe Audition 2.0 > CD Wave 1.97 > FLAC frontend 1.7.1
+
+GENERATION:
+ANA(M) > WAV [24bit/96kHz] > WAV [44.1kHz] > FLAC [Level 8]
+
+LENGTH:
+78:14
+
+NOTES:
+- "Polly" cuts in due to a tape flip.
+
+TRACKS:
+01. Radio Friendly Unit Shifter
+02. Drain You
+03. Breed
+04. Serve The Servants
+05. Come As You Are
+06. Smells Like Teen Spirit
+07. Sliver
+08. Dumb
+09. In Bloom
+10. About A Girl
+11. Lithium
+12. Pennyroyal Tea
+13. School
+14. Polly (cuts in)
+15. Frances Farmer Will Have Her Revenge On Seattle
+16. Very Ape
+17. Rape Me
+18. Territorial Pissings
+19. The Man Who Sold The World
+20. All Apologies
+21. On A Plain
+22. Heart-Shaped Box
+
+MD5 FINGERPRINTS:
+062d4e81e6e301c51c49decd8c8020f7 *Nirvana_1994-02-09_AUD2_t01.flac
+c063563f4bf55d0ca7e3c84abeeaf8b6 *Nirvana_1994-02-09_AUD2_t02.flac
+79cdb651cf3b7741069accc06b20e0f0 *Nirvana_1994-02-09_AUD2_t03.flac
+e7f7793c0bd7b28a3bc91b751962928b *Nirvana_1994-02-09_AUD2_t04.flac
+b4a8ffda7f8d34fa90e7be7dbc1b972a *Nirvana_1994-02-09_AUD2_t05.flac
+d9cb56ee8021c505b6f3de3fef1815ed *Nirvana_1994-02-09_AUD2_t06.flac
+b844acb23db00cdce2193c7ae8e72ff8 *Nirvana_1994-02-09_AUD2_t07.flac
+baeaad2bccf8c38d3101fa615fc5bfad *Nirvana_1994-02-09_AUD2_t08.flac
+a70aa2bce0bf41dcda39633984701325 *Nirvana_1994-02-09_AUD2_t09.flac
+fbd7985748c5b7745051740fb63e9290 *Nirvana_1994-02-09_AUD2_t10.flac
+f77b09cb46249f5f114da045f603f51b *Nirvana_1994-02-09_AUD2_t11.flac
+a80e904ef45168a47005b7dff999786c *Nirvana_1994-02-09_AUD2_t12.flac
+bccc23c6276388bbe5f86647797a8028 *Nirvana_1994-02-09_AUD2_t13.flac
+8d47bc2c1ed022130249d01f169b3593 *Nirvana_1994-02-09_AUD2_t14.flac
+c46e0390612c53d9ae2637a876678568 *Nirvana_1994-02-09_AUD2_t15.flac
+3da2aa2087fc5830acfbd1fe44452c25 *Nirvana_1994-02-09_AUD2_t16.flac
+2dda1466dc3c86756d54ed787168f543 *Nirvana_1994-02-09_AUD2_t17.flac
+cc123eaf877e957a925fec7e378e3fe4 *Nirvana_1994-02-09_AUD2_t18.flac
+257db47d42bedfe23908b154643f6f19 *Nirvana_1994-02-09_AUD2_t19.flac
+6e5550bd692132c91171e3a339c308ff *Nirvana_1994-02-09_AUD2_t20.flac
+2eecb3df2fc3dfc7f4a9f68ba897950a *Nirvana_1994-02-09_AUD2_t21.flac
+a5199ac02e1bd57c61101c1352c70489 *Nirvana_1994-02-09_AUD2_t22.flac
+
+TRANSFERRED BY:
+JEMS
+
+PLEASE DO NOT SELL OR ENCODE TO MP3

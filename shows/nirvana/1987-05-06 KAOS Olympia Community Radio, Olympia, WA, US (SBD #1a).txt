@@ -1,0 +1,46 @@
+NIRVANA
+May 6, 1987
+KAOS Olympia Community Radio
+Olympia, WA
+
+SOURCE (SBD #1a):
+soundboard > unknown
+
+TRANSFER:
+Nakamichi DR-8 > Tascam DA-30mkII > Echo Layla24 > Cool Edit Pro 2.0 > CD Wave 1.93 beta > FLAC frontend 1.7.1
+
+GENERATION:
+FM > ANA(3) > WAV [48kHz] > WAV [44.1kHz] > FLAC [Level 8]
+
+LENGTH:
+32:51
+
+TRACKS:
+01. Love Buzz
+02. Floyd The Barber
+03. Downer
+04. Mexican Seafood
+05. White Lace And Strange
+06. Spank Thru
+07. Anorexorcist
+08. Hairspray Queen
+09. Pen Cap Chew
+
+MD5 FINGERPRINTS:
+bba4c473b4312894b4aec21012597533 *Nirvana_1987-05-06_SBD1a_t01.flac
+4a94815be0d1548b7c6c727db8371ec0 *Nirvana_1987-05-06_SBD1a_t02.flac
+6aa14ece3c653e4d63c15f10a7edf13c *Nirvana_1987-05-06_SBD1a_t03.flac
+39cdc633bab3a646bb2fbaa49718e61d *Nirvana_1987-05-06_SBD1a_t04.flac
+f10cd923debc486a66dccb7550f94830 *Nirvana_1987-05-06_SBD1a_t05.flac
+30258691accbfcc3044d65cf1e21c8c9 *Nirvana_1987-05-06_SBD1a_t06.flac
+d123c2566ef3ed61ac9e1849b7b3632c *Nirvana_1987-05-06_SBD1a_t07.flac
+a142a8d1ae8e156b61c4bf069fba3f0d *Nirvana_1987-05-06_SBD1a_t08.flac
+9549ee684d4b321f57b01428695d972e *Nirvana_1987-05-06_SBD1a_t09.flac
+
+TRANSFERRED BY:
+Kris Sproul
+
+PLEASE DO NOT SELL OR ENCODE TO MP3
+
+NOTE:
+Date was amended to May 5th, 1987 (initially distributed as April 17th)

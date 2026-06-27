@@ -1,0 +1,54 @@
+NIRVANA
+October 28, 1989
+Ents Hall, Portsmouth Polytechnic
+Portsmouth, United Kingdom
+
+DISC #1/1 (47:58)
+-----------------
+01) School
+02) Scoff
+03) Love Buzz
+04) Floyd The Barber
+05) Dive
+06) Polly
+07) Big Cheese
+08) Spank Thru
+09) About A Girl
+10) Token Eastern Song
+11) Stain
+12) Been A Son
+13) Negative Creep
+14) Blew
+
+GENERATION
+-----------------
+ANA(x) -> WAV [48kHz] -> WAV [44.1kHz] -> FLAC [Level 8]
+
+SOURCE (AUD#2)
+-----------------
+unknown -> unknown
+
+TRANSFER
+-----------------
+Nakamichi CR-7A -> Hosa RCA cable -> LynxONE analog-in -> Adobe Audition 2.0 -> CD Wave 1.95.1 -> FLAC Frontend 1.7.1
+
+MD5 FINGERPRINTS
+-----------------
+0c91b4ff1a7caf8f11d0d2eceed88de6 *nirvana1989-10-28t01.flac
+35bbb78e82e7bf72ac75e0ba0efa2d8a *nirvana1989-10-28t02.flac
+3d8fee0304412d6386b9f4d19b24bdd1 *nirvana1989-10-28t03.flac
+83816d3548f4068d532b43950b847fcc *nirvana1989-10-28t04.flac
+306c7f7b0b24fe26e697019363f7fa2e *nirvana1989-10-28t05.flac
+d25a35b3d7ef0d356a2a47b3f0145717 *nirvana1989-10-28t06.flac
+0215ff684374f8a73a43f87fba60dfb8 *nirvana1989-10-28t07.flac
+7290bc2673766109870e9f23fdf30363 *nirvana1989-10-28t08.flac
+9bc6bfc1755b0304c4bd1338e93ccb55 *nirvana1989-10-28t09.flac
+0c464eb2510ec685a4ff04319428058f *nirvana1989-10-28t10.flac
+c52fe3ac1f4ee3d2faf44f77b942509a *nirvana1989-10-28t11.flac
+1db1aaf47e9ac96aed0f82219ec7e32d *nirvana1989-10-28t12.flac
+4437bb07c3f0dab2b8959570446d5f4c *nirvana1989-10-28t13.flac
+ecf12aec6de5b3963e43f8a129e7e09a *nirvana1989-10-28t14.flac
+
+
+Transferred by Mike Ziegler.
+PLEASE DO NOT ENCODE TO MP3 OR SELL!

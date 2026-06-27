@@ -1,0 +1,43 @@
+NIRVANA
+October 31, 1991
+Paramount Theatre
+Seattle, WA
+
+DISC #1/1 (19:03)
+-----------------
+01) Aneurysm
+02) Drain You
+03) School
+04) About A Girl
+05) On A Plain
+06) Endless, Nameless (part of)
+
+GENERATION
+-----------------
+Official CD "Nevermind, It's An Interview" -> WAV [44.1kHz] -> FLAC [Level 8]
+
+SOURCE (SBD #1b)
+-----------------
+Soundboard -> unknown
+
+EXTRACTION
+-----------------
+Lite-On iHBS-112 -> Exact Audio Copy v1.00 beta 3 -> Adobe Audition 3.0 -> CD Wave 1.98 -> FLAC Frontend 1.7.1
+
+NOTES
+-----------------
+- has talking over the beginnings of all songs except "Drain You" and "On A Plain"
+- professionally mixed by Andy Wallace
+
+MD5 FINGERPRINTS
+-----------------
+28b0556ded5baac985ab38927eb42309 *Nirvana_1991-10-31_SBD1b_t01.flac
+e47715933cc3aeab21cd731f75f4fe7a *Nirvana_1991-10-31_SBD1b_t02.flac
+669751a29f52c63b62bd2d987e2081ef *Nirvana_1991-10-31_SBD1b_t03.flac
+7d04c0771059c501bfd42e3a586395bb *Nirvana_1991-10-31_SBD1b_t04.flac
+16feeff64d06cf7a7685d737c5ec90a1 *Nirvana_1991-10-31_SBD1b_t05.flac
+8cced97130a051cbf3df7d7f1439fe3e *Nirvana_1991-10-31_SBD1b_t06.flac
+
+Extracted by PL.
+PLEASE DO NOT ENCODE TO MP3 OR SELL!
+NO TRADE

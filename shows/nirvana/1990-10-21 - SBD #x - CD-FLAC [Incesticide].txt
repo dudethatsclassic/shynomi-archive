@@ -1,0 +1,37 @@
+NIRVANA
+October 21, 1990
+Studio 3, BBC Maida Vale Studios
+London, United Kingdom
+
+DISC #1/1 (07:01)
+-----------------
+01) Son Of A Gun
+02) Molly's Lips
+03) Turnaround
+
+SOURCE (SBD #x)
+-----------------
+soundboard -> unknown 
+
+GENERATION
+-----------------
+Official CD "Incesticide" -> WAV [44.1kHz] -> FLAC [Level 8]
+
+EXTRACTION
+-----------------
+Lite-On iHBS-112 -> Exact Audio Copy v1.00 beta 3 -> FLAC Frontend 1.7.1
+
+NOTES
+-----------------
+- Mastered by Howie Weinberg
+- Radio transmission : 11/03/90, BBC Radio 1, The John Peel Show
+
+MD5 FINGERPRINTS
+-----------------
+4ae97a438f7b8b925ccfbab666a77d3e *Nirvana_1990-10-21_SBDxx_t01.flac
+120d695592a81b3e04e9218c0c202ad3 *Nirvana_1990-10-21_SBDxx_t02.flac
+039c656ce7884122621c4f389fcbdebe *Nirvana_1990-10-21_SBDxx_t03.flac
+
+Extracted by PL.
+PLEASE DO NOT ENCODE TO MP3 OR SELL!
+NO TRADE

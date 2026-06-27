@@ -1,0 +1,57 @@
+NIRVANA
+November 5, 1991
+Astoria Theatre,
+London, United Kingdom
+
+SOURCE (AMT #2):
+unknown > unknown
+
+GENERATION:
+VHS(x) > DVDR(2) [PAL 6.75Mbps VBR, LPCM]
+
+LENGTH:
+72:40
+
+TRACKS:
+01. Jesus Wants Me For A Sunbeam
+02. Aneurysm
+03. Drain You
+04. School
+05. Floyd The Barber
+06. Smells Like Teen Spirit
+07. About A Girl
+08. Polly
+09. Breed
+10. Sliver
+11. Lithium
+12. Love Buzz
+13. Come As You Are
+14. Been A Son
+15. Negative Creep
+16. On A Plain
+17. Blew
+18. Dumb
+19. Pennyroyal Tea
+20. Endless, Nameless
+
+TRANSFER:
+Panasonic HS-830BS > Canon MX-250i (MDV pass-through) > IEEE 1394 > ScenalyzerLive 2.1 > Canopus Procoder 2.0 > Sony DVD Architect 2.0
+
+NOTES:
+- Mislabelled as AUD #4 in the menus
+
+MD5 FINGERPRINTS:
+67844fc75b96fe116d5f5a5bc3e43d73 *VIDEO_TS\VIDEO_TS.BUP
+67844fc75b96fe116d5f5a5bc3e43d73 *VIDEO_TS\VIDEO_TS.IFO
+900b1f56d568c081844e1e2e4949384d *VIDEO_TS\VIDEO_TS.VOB
+ecf553ef81bbeb4af157ea7b66609f86 *VIDEO_TS\VTS_01_0.BUP
+ecf553ef81bbeb4af157ea7b66609f86 *VIDEO_TS\VTS_01_0.IFO
+cef2439eef03540dad790e0f2043f120 *VIDEO_TS\VTS_01_0.VOB
+1ff1e56e6ef6ec2387ab6446849ece12 *VIDEO_TS\VTS_01_1.VOB
+f6a2d3744aac2ad366ff24931bc0be1b *VIDEO_TS\VTS_01_2.VOB
+1136ef41b5b14e8113163b92a93e6ffa *VIDEO_TS\VTS_01_3.VOB
+df29d1466da6ca9783002bed4854bd93 *VIDEO_TS\VTS_01_4.VOB
+69b3ee1adcc9e3dbc193a2b40a671156 *VIDEO_TS\VTS_01_5.VOB
+
+TRANSFERRED BY:
+Tim Hall

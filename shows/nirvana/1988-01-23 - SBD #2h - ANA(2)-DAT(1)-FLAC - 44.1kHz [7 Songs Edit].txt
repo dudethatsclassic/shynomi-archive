@@ -1,0 +1,44 @@
+NIRVANA
+January 23, 1988
+Reciprocal Recording Studios
+Seattle, WA
+
+DISC #1/1 (21:12)
+-----------------
+01) If You Must
+02) Downer
+03) Floyd The Barber
+04) Paper Cuts
+05) Spank Thru
+06) Beeswax
+07) Pen Cap Chew
+
+SOURCE (SBD #2h)
+-----------------
+Soundboard -> ½-inch 8-track analog magnetic tape (session tape)
+
+GENERATION
+-----------------
+ANA(2) -> DAT(1) -> WAV [48kHz] -> WAV [44.1kHz] -> FLAC [Level 8]
+
+TRANSFER
+-----------------
+Tascam DA-20 MKII -> Apogee S/PDIF cable -> LynxONE digital-in -> Adobe Audition 2.0 -> CD Wave 1.95.1 -> FLAC Frontend 1.7.1
+
+NOTES
+-----------------
+- This tape was used for the first seven tracks of disc one on the "Into The Black" bootleg.
+
+MD5 FINGERPRINTS
+-----------------
+09ec35afdbcd5f1d3346daa3cb74d92d *nirvana1988-01-23t01.flac
+af5be432d01695aa65c2a225df94f009 *nirvana1988-01-23t02.flac
+3e92fc58ff6f2e0c6faeeeb31d0a0199 *nirvana1988-01-23t03.flac
+10ce2b932bd0f50018b533c67809740b *nirvana1988-01-23t04.flac
+98cb9908ca6b28dcc22e303ab1482c37 *nirvana1988-01-23t05.flac
+097b5453b0fccd02b31bb15220233be0 *nirvana1988-01-23t06.flac
+363afb8809b5b0a4ea45208d283204e0 *nirvana1988-01-23t07.flac
+
+
+Transferred by Mike Ziegler.
+PLEASE DO NOT ENCODE TO MP3 OR SELL!

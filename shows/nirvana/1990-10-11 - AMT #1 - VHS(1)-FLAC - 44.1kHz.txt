@@ -1,0 +1,33 @@
+NIRVANA
+October 11, 1990
+North Shore Surf Club
+Olympia, WA
+
+SOURCE (AMT #1):
+unknown > unknown
+
+TRANSFER:
+JVC HR-S9911U > Canopus ADVC-300 > IEEE 1394 > Adobe Premiere Pro CS5 > Adobe Audition 3.0 > CD Wave 1.98 > Trader's Little Helper 2.6.0
+
+GENERATION:
+VHS(1) > AVI [PCM] > WAV [48kHz] > WAV [44.1kHz] > FLAC [Level 8]
+
+LENGTH:
+11:00
+
+TRACKS:
+01. Love Buzz (cuts in, cut)
+02. Scoff (cuts in)
+03. Sliver (cuts in)
+04. Turnaround (cuts out)
+
+MD5 FINGERPRINTS:
+4f8150eefc4082ac86b05a66ec1b815a *Nirvana_1990-10-11_AMT1_t01.flac
+260e33549ff832536a113afb09579512 *Nirvana_1990-10-11_AMT1_t02.flac
+7f47b9571d1cbfc3c3b48b8444969806 *Nirvana_1990-10-11_AMT1_t03.flac
+26069646c101cc1b152f90bee8515356 *Nirvana_1990-10-11_AMT1_t04.flac
+
+TRANSFERRED BY:
+Mike Ziegler
+
+PLEASE DO NOT SELL OR ENCODE TO MP3

@@ -1,0 +1,66 @@
+NIRVANA
+August 30, 1992
+Richfield Avenue (Reading Festival)
+Reading, United Kingdom
+
+DISC #1/1 (57:30)
+-----------------
+01) The Rose (intro)
+02) Breed
+03) Drain You
+04) Aneurysm
+05) School
+06) Sliver
+07) In Bloom
+08) Come As You Are
+09) Lithium
+10) More Than A Feeling (part of)
+11) Smells Like Teen Spirit
+12) On A Plain
+13) Negative Creep
+14) Been A Son
+15) All Apologies
+16) Dumb
+17) Stay Away
+18) Territorial Pissings
+
+SOURCE (SBD #1c)
+-----------------
+soundboard > unknown
+
+GENERATION
+-----------------
+Unofficial CD "Into The Black (Disk 4)" -> WAV [44.1kHz] -> FLAC [Level 8]
+
+EXTRACTION
+-----------------
+LG DRD-8160B -> Exact Audio Copy v0.95 prebeta 3 -> FLAC Frontend 1.7.1
+
+NOTES
+----------------- 
+- normalized & retracked
+
+MD5 FINGERPRINTS
+-----------------
+ba3375d45b1fdbd1ec9dfcba1c85c882 *Nirvana_1992-08-30_SBD1c_t01.flac
+75bb1aa80ad0c96c434bb11df9a28690 *Nirvana_1992-08-30_SBD1c_t02.flac
+83f497448a38aeefbf8cfb7b2b508bdb *Nirvana_1992-08-30_SBD1c_t03.flac
+9ac476719022917d735a147cd79e1787 *Nirvana_1992-08-30_SBD1c_t04.flac
+d6353834d0349c5a807253ed705b8583 *Nirvana_1992-08-30_SBD1c_t05.flac
+020c38c80462657222dbe9db31b2bf0f *Nirvana_1992-08-30_SBD1c_t06.flac
+93f07aa6cfc341fe6e33c563465b9b9b *Nirvana_1992-08-30_SBD1c_t07.flac
+827d4acb538c43d6ccd2d0534cfe12e8 *Nirvana_1992-08-30_SBD1c_t08.flac
+035201645a7f353cf8a789e3d51f651c *Nirvana_1992-08-30_SBD1c_t09.flac
+66aa0b289a91d02853be8993abe20ec9 *Nirvana_1992-08-30_SBD1c_t10.flac
+9f3000a8355c9380cfd61507163c0524 *Nirvana_1992-08-30_SBD1c_t11.flac
+63bd0e08db67dc897803fed39dd118e4 *Nirvana_1992-08-30_SBD1c_t12.flac
+227daae312ab911eb2a56a2e2d185826 *Nirvana_1992-08-30_SBD1c_t13.flac
+bcab998af76f7e80b49f89bafe384a7f *Nirvana_1992-08-30_SBD1c_t14.flac
+18d90468c07b4c19aa2109018510a08b *Nirvana_1992-08-30_SBD1c_t15.flac
+e5a78e5c521462b048f6c3d5d5e5e3db *Nirvana_1992-08-30_SBD1c_t16.flac
+1be66fd3e57d52be6ff612f425a65443 *Nirvana_1992-08-30_SBD1c_t17.flac
+139d8a780f47dd1b7f2b3c3f7cee89ec *Nirvana_1992-08-30_SBD1c_t18.flac
+
+Extracted by Emmanuel B (2004). 
+Edited by Pierre Leroy (2012).
+PLEASE DO NOT ENCODE TO MP3 OR SELL!

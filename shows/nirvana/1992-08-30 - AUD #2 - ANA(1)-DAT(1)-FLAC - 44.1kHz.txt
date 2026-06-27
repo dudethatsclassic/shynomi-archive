@@ -1,0 +1,81 @@
+NIRVANA
+August 30, 1992
+Richfield Avenue (Reading Festival)
+Reading, United Kingdom
+
+SOURCE (AUD #2):
+unknown > Sony WM-D6
+
+TRANSFER:
+Tascam DA-20mkII > Apogee S/PDIF cable > LynxONE digital-in > Adobe Audition 3.0 > CD Wave 1.98 > FLAC frontend 1.7.1
+
+GENERATION:
+ANA(1) > DAT(1) > WAV [48kHz] > WAV [44.1kHz] > FLAC [Level 8]
+
+LENGTH:
+86:14
+
+TRACKS (DISC 1):
+01. intro
+02. Breed
+03. Drain You
+04. Aneurysm
+05. School
+06. Sliver
+07. In Bloom
+08. Come As You Are
+09. Lithium
+10. About A Girl
+11. tourette's
+12. Polly
+13. Lounge Act
+
+TRACKS (DISC 2):
+01. More Than A Feeling (part of)
+02. Smells Like Teen Spirit
+03. On A Plain
+04. Negative Creep
+05. Been A Son
+06. Dumb
+07. Stay Away
+08. Spank Thru
+09. Love Buzz
+10. Smoke On The Water (jam)
+11. The Money Will Roll Right In
+12. D-7
+13. Territorial Pissings
+14. The Star-Spangled Banner (part of)
+
+MD5 FINGERPRINTS:
+61bb487cfd1e39c2669c87038ffe685d *Nirvana_1992-08-30_AUD2_d1t01.flac
+faba8e78de5962099326ae53049c0c31 *Nirvana_1992-08-30_AUD2_d1t02.flac
+297de6807b19b590abf673a506472035 *Nirvana_1992-08-30_AUD2_d1t03.flac
+016664cea67b0fa342ee5013d36d1c66 *Nirvana_1992-08-30_AUD2_d1t04.flac
+5a539076fbceed4f6d86eab76f4030ef *Nirvana_1992-08-30_AUD2_d1t05.flac
+81c55ef178ad0bbb76885a15f9e8e9cf *Nirvana_1992-08-30_AUD2_d1t06.flac
+c55877c8d0e1945f6f559b9a27f25a41 *Nirvana_1992-08-30_AUD2_d1t07.flac
+8dae13594d1d118fc2cd0ced9f8ef773 *Nirvana_1992-08-30_AUD2_d1t08.flac
+a18db267a252e361dbec951dfdadfdfe *Nirvana_1992-08-30_AUD2_d1t09.flac
+064c9e9c3fb2903660a29f6922b43bba *Nirvana_1992-08-30_AUD2_d1t10.flac
+8df86b8fb730ce0c3bf0c4938597e2dc *Nirvana_1992-08-30_AUD2_d1t11.flac
+b238af2aa4bb5360df288e3436bd87d4 *Nirvana_1992-08-30_AUD2_d1t12.flac
+1fb19580d550d7b8681532e28ea8278f *Nirvana_1992-08-30_AUD2_d1t13.flac
+b2c9c90faaf4c4fcc54f472519dde067 *Nirvana_1992-08-30_AUD2_d2t01.flac
+7a9155870aab0bee1f53cc945a02d0d8 *Nirvana_1992-08-30_AUD2_d2t02.flac
+a504bbd5b1d6d60b863beaa4786ef38d *Nirvana_1992-08-30_AUD2_d2t03.flac
+fc4de27527643c9a6d4fb43cc2ec096d *Nirvana_1992-08-30_AUD2_d2t04.flac
+3e1508279ae2a8e52c6cdf87644da716 *Nirvana_1992-08-30_AUD2_d2t05.flac
+0462c674fd9bd31a9113858dfc20b424 *Nirvana_1992-08-30_AUD2_d2t06.flac
+67cd958804e52334d2c8b1bf044f8ba9 *Nirvana_1992-08-30_AUD2_d2t07.flac
+9098d4ef1d851bf744c35998bcbb70f9 *Nirvana_1992-08-30_AUD2_d2t08.flac
+e25fa07b1157f726958d25263f87dee7 *Nirvana_1992-08-30_AUD2_d2t09.flac
+51a5cad58469f55a6c57377233030cc9 *Nirvana_1992-08-30_AUD2_d2t10.flac
+b891911e57611b96c38524248045e0df *Nirvana_1992-08-30_AUD2_d2t11.flac
+6fe71e006d2bdd825e8c21ec45dae609 *Nirvana_1992-08-30_AUD2_d2t12.flac
+862122f3864853aa035abfbfe45c186c *Nirvana_1992-08-30_AUD2_d2t13.flac
+a09517eb92a93e654e7f8f069e1412cf *Nirvana_1992-08-30_AUD2_d2t14.flac
+
+TRANSFERRED BY:
+Mike Ziegler
+
+PLEASE DO NOT SELL OR ENCODE TO MP3

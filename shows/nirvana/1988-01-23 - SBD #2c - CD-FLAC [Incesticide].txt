@@ -1,0 +1,41 @@
+NIRVANA
+January 23, 1988
+Reciprocal Recording,
+Seattle, WA
+
+DISC #1/1 (15:24)
+-----------------
+01) Beeswax
+02) Downer
+03) Mexican Seafood
+04) Hairspray Queen
+05) Aero Zeppelin
+
+SOURCE (SBD #2c)
+-----------------
+soundboard -> ½-inch 8-track analog magnetic tape (session tape)
+
+GENERATION
+-----------------
+Official CD "Incesticide" -> WAV [44.1kHz] -> FLAC [Level 8]
+
+EXTRACTION
+-----------------
+Lite-On iHBS-112 -> Exact Audio Copy v1.00 beta 3 -> Adobe Audition 3.0 -> FLAC Frontend 1.7.1
+
+NOTES
+-----------------
+- produced by Jack Endino
+- mix #1 (Jack Endino's initial rough "one-hour" mix that the band left the studio with)
+
+MD5 FINGERPRINTS
+-----------------
+b7e37316ec2ed93bd579c0da5e11bf57 *Nirvana_1988-01-23_SBD2c_t01.flac
+325a05a57bcd20f9b1c756ef3df4ca23 *Nirvana_1988-01-23_SBD2c_t02.flac
+ff8140b74aa502bceb75715045e65782 *Nirvana_1988-01-23_SBD2c_t03.flac
+f14f701d8ecbef0100de1ca234bcad26 *Nirvana_1988-01-23_SBD2c_t04.flac
+b4979e5cce45c7b1bfcb40a4197b6e58 *Nirvana_1988-01-23_SBD2c_t05.flac
+
+Extracted by PL.
+PLEASE DO NOT ENCODE TO MP3 OR SELL!
+NO TRADE

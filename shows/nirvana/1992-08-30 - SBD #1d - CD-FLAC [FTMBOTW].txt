@@ -1,0 +1,28 @@
+NIRVANA
+August 30, 1992
+Richfield Avenue (Reading Festival)
+Reading, United Kingdom
+
+DISC #1/1 (01:55)
+-----------------
+01) tourette's
+
+SOURCE (SBD #1d)
+-----------------
+soundboard > unknown
+
+GENERATION
+-----------------
+Official CD "From The Muddy Banks Of The Wishkah" -> WAV [44.1kHz] -> FLAC [Level 8]
+
+EXTRACTION
+-----------------
+Lite-On iHBS-112 -> Exact Audio Copy v1.00 beta 3 -> FLAC Frontend 1.7.1
+
+MD5 FINGERPRINTS
+-----------------
+186cf274ed780f0b805124ec17c6e804 *Nirvana_1992-08-30_SBD1d_t01.flac
+
+Extracted by PL.
+PLEASE DO NOT ENCODE TO MP3 OR SELL!
+NO TRADE

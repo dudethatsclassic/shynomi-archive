@@ -1,0 +1,79 @@
+NIRVANA
+November 13, 1993
+Bender Arena, American University
+Washington, DC
+
+DISC #1/2 (47:45)
+-----------------
+01) Radio Friendly Unit Shifter
+02) Drain You
+03) Breed
+04) Serve The Servants
+05) About A Girl
+06) Heart-Shaped Box
+07) Sliver
+08) Dumb
+09) In Bloom
+10) Come As You Are
+11) Lithium
+12) Pennyroyal Tea
+13) School
+
+DISC #2/2 (49:01)
+-----------------
+01) Polly
+02) Milk It
+03) Rape Me
+04) Territorial Pissings
+05) Smells Like Teen Spirit
+06) All Apologies
+07) Jesus Wants Me For A Sunbeam
+08) On A Plain
+09) Scentless Apprentice (cut)
+10) Blew
+11) jam
+12) Do Nuts
+
+GENERATION
+-----------------
+ANA(M) -> DAT(1) -> WAV [48kHz] -> WAV [44.1kHz] -> FLAC [Level 8]
+
+SOURCE (AUD#1)
+-----------------
+Aiwa CM-30 -> Sony WM-D6
+
+TRANSFER
+-----------------
+Tascam DA-20 MKII -> Apogee S/PDIF cable -> LynxONE digital-in -> Adobe Audition 1.5 -> CD Wave 1.94.5 -> FLAC Frontend 1.7.1
+
+MD5 FINGERPRINTS
+-----------------
+484f9100dae4fd91d6f58ed94f68079a *nirvana1993-11-13d1t01.flac
+c576be79a88641b7898924dd6f51b391 *nirvana1993-11-13d1t02.flac
+0e3ff4a5e289c956c366351c1208dbd4 *nirvana1993-11-13d1t03.flac
+c6b1b1143cebc3f7acbb8d5c6cc018c0 *nirvana1993-11-13d1t04.flac
+afc7f4d615876d607b067579f05c65bd *nirvana1993-11-13d1t05.flac
+a0b3192d8643ee3f6b495e90b85a91a0 *nirvana1993-11-13d1t06.flac
+367ec69fbea409908b1f3e3cd7459ba8 *nirvana1993-11-13d1t07.flac
+098346b03d00d5ddca3cea0e178a9301 *nirvana1993-11-13d1t08.flac
+740cb386bfbedd372d132bf9f581fc66 *nirvana1993-11-13d1t09.flac
+973b47594de1ed704c97d130b2a1ef36 *nirvana1993-11-13d1t10.flac
+65153f1944fef0bcf0ae68470f257a90 *nirvana1993-11-13d1t11.flac
+795487330640f00034b53f1cbbf30164 *nirvana1993-11-13d1t12.flac
+6409d5b15ce2bf61b7e080e33b48d4f5 *nirvana1993-11-13d1t13.flac
+d03e881a313f385b5150eb9354b24581 *nirvana1993-11-13d2t01.flac
+40e6902d74d28f73c6a249ab5e460a23 *nirvana1993-11-13d2t02.flac
+b711623d27db3b7b57212ebe8040a104 *nirvana1993-11-13d2t03.flac
+4e9b2bb29ffa8b83807726c4a8f41267 *nirvana1993-11-13d2t04.flac
+2ca1c8c097e4192b0a6d93d53df3b2e8 *nirvana1993-11-13d2t05.flac
+a1f5092529751165a933dbbad7cc20c6 *nirvana1993-11-13d2t06.flac
+a7cf88d0a4ba6d5fdeeafdd394a6a469 *nirvana1993-11-13d2t07.flac
+04f1b015e8248aea5af13c69258018ae *nirvana1993-11-13d2t08.flac
+2f7d883f4076ee764b2db68803e3f3bf *nirvana1993-11-13d2t09.flac
+370c453b2c64c3e1c19120dea977f8a0 *nirvana1993-11-13d2t10.flac
+89ef9a61c8423e24a3df8f891ed6d576 *nirvana1993-11-13d2t11.flac
+c2ad956bc43e04f1b075d75cd4f76d85 *nirvana1993-11-13d2t12.flac
+
+
+Transferred by Mike Ziegler.
+PLEASE DO NOT ENCODE TO MP3 OR SELL!

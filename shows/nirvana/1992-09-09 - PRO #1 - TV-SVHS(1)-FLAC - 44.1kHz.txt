@@ -1,0 +1,29 @@
+NIRVANA
+September 9, 1992
+Pauley Pavilion, UCLA (MTV Video Music Awards)
+Los Angeles, CA
+
+SOURCE (PRO #1):
+soundboard > unknown
+
+TRANSFER:
+JVC HR-S9911U > Echo Layla24 > Adobe Audition 1.5 > CD Wave 1.93 beta > FLAC frontend 1.7.1
+
+GENERATION:
+TV > SVHS(1) > WAV [48kHz] > WAV [44.1kHz] > FLAC [Level 8]
+
+LENGTH:
+5:09
+
+TRACKS:
+01. Rape Me (intro)
+02. Lithium
+
+MD5 FINGERPRINTS:
+191c57b4ca05eb9cf359287201663748 *Nirvana_1992-09-09_PRO1_t01.flac
+6cbb0c84f4de95a87ceefa2078e0b9a4 *Nirvana_1992-09-09_PRO1_t02.flac
+
+TRANSFERRED BY:
+Kris Sproul
+
+PLEASE DO NOT SELL OR ENCODE TO MP3

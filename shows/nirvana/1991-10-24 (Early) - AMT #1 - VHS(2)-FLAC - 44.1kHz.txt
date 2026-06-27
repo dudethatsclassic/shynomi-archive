@@ -1,0 +1,40 @@
+NIRVANA
+October 24, 1991
+Off the Record
+San Diego, CA
+
+SOURCE (AMT #1):
+unknown > unknown
+
+TRANSFER:
+JVC HR-S9911U > Echo Layla24 > Adobe Audition 2.0 > CD Wave 1.96.1 > FLAC frontend 1.7.1
+
+GENERATION:
+VHS(2) > WAV [48kHz] > WAV [44.1kHz] > FLAC [Level 8]
+
+LENGTH:
+21:37
+
+NOTES:
+- Has multiple dropouts before and during "Here She Comes Now."
+
+TRACKS:
+01. Dumb (cuts in)
+02. Here She Comes Now
+03. About A Girl
+04. Polly
+05. On A Plain
+06. Been A Son
+
+MD5 FINGERPRINTS:
+de2db11cad391a9afde16e006db6e661 *Nirvana_1991-10-24_early_AMT1_t01.flac
+fa4b7c7e209188cda1389bea4fbaf083 *Nirvana_1991-10-24_early_AMT1_t02.flac
+6d4566247a6b2159fe3bd22936446d36 *Nirvana_1991-10-24_early_AMT1_t03.flac
+aacf07fb67864b7b69f3b8e6fa93def9 *Nirvana_1991-10-24_early_AMT1_t04.flac
+670e3bb0d6557516d3f6d129ce6f1274 *Nirvana_1991-10-24_early_AMT1_t05.flac
+9c8678a6989fe6fb2dd4f604c00d8f87 *Nirvana_1991-10-24_early_AMT1_t06.flac
+
+TRANSFERRED BY:
+Kris Sproul
+
+PLEASE DO NOT SELL OR ENCODE TO MP3

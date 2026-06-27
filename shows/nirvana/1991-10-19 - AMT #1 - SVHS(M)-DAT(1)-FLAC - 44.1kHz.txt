@@ -1,0 +1,68 @@
+NIRVANA
+October 19, 1991
+Trees
+Dallas, TX
+
+DISC #1/1 (75:45)
+-----------------
+01) intro 
+02) L'Amour Est Un Oiseau Rebelle (jam)
+03) Jesus Wants Me For A Sunbeam
+04) Aneurysm
+05) Drain You
+06) School
+07) Floyd The Barber
+08) jam
+09) Smells Like Teen Spirit
+10) About A Girl
+11) Polly
+12) Breed
+13) Sliver
+14) Love Buzz (part of)
+15) Pennyroyal Tea
+16) Negative Creep
+17) On A Plain
+18) Blew
+19) Lithium
+20) Rape Me
+21) Territorial Pissings
+
+GENERATION
+-----------------
+SVHS(M) -> DAT(1) -> WAV [48kHz] -> WAV [44.1kHz] -> FLAC [Level 8]
+
+SOURCE (AMT#1)
+-----------------
+built-in -> JVC
+
+TRANSFER
+-----------------
+Tascam DA-20 MKII -> Apogee S/PDIF cable -> LynxONE digital-in -> Adobe Audition 2.0 -> CD Wave 1.94.8 -> FLAC Frontend 1.7.1
+
+MD5 FINGERPRINTS
+-----------------
+a65a2b912f511c56cd17443831d6534b *nirvana1991-10-19t01.flac
+604759b4d23a27378d3b894a5f13ba9c *nirvana1991-10-19t02.flac
+eee157df7c7b1ef8ae7380e4767bdb96 *nirvana1991-10-19t03.flac
+5b33ae294a23b5d4a9f8f1c76415d8d9 *nirvana1991-10-19t04.flac
+5ec537cdff3d7c72aa684b317719435e *nirvana1991-10-19t05.flac
+f0cdaa08daf255856bc8659aa8a34c25 *nirvana1991-10-19t06.flac
+4314aa3c804b8c1e2974f350ecd188b3 *nirvana1991-10-19t07.flac
+edd15386b73901d7e1895e21900c1e8c *nirvana1991-10-19t08.flac
+038a55840a3eec6cb9d3ddfe7e6e8b22 *nirvana1991-10-19t09.flac
+d89e26c62947e5713644efe07561f8aa *nirvana1991-10-19t10.flac
+49167092cec85a137ea6f54f05815156 *nirvana1991-10-19t11.flac
+c02fdc4540cd3f2d50df2d4aae25cf92 *nirvana1991-10-19t12.flac
+b8afa01266f55bf210d67c82e97c6b5a *nirvana1991-10-19t13.flac
+9ba765c5c57c72674afd85bbbf408798 *nirvana1991-10-19t14.flac
+fc3c1883eb03638619715c7641779372 *nirvana1991-10-19t15.flac
+5d50e7ab6ddd395b4ddf6ac5ccbe6a57 *nirvana1991-10-19t16.flac
+e6ac700fc358021d0bd01501b7731678 *nirvana1991-10-19t17.flac
+240c4c2435d2f125db0f3380d9c73fe6 *nirvana1991-10-19t18.flac
+5273d58d8ec027780bde934a41e7d53f *nirvana1991-10-19t19.flac
+1c893712a8c5fb742d78d55c65ab7c17 *nirvana1991-10-19t20.flac
+7b91be79ce31ccf7acaeb3da1d2437d7 *nirvana1991-10-19t21.flac
+
+
+Transferred by Mike Ziegler.
+PLEASE DO NOT ENCODE TO MP3 OR SELL!

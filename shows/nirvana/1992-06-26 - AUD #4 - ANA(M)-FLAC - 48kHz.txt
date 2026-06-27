@@ -1,0 +1,45 @@
+NIRVANA
+June 26th, 1992
+Dyrskuepladsen (Roskilde Festival)
+Roskilde, DK 
+
+SOURCE (AUD #4):
+Sony T62 > Sony WM-D3
+
+TRANSFER:
+BeoCord 9000 > Sony PCM-A1 > Trader's Little Helper > Adobe Audition > CD Wave
+
+GENERATION
+ANA(M) > FLAC
+
+LENGTH:
+28:21
+
+TRACKS:
+01. On A Plain (cuts in)
+02. Swap Meet
+03. Negative Creep
+04. Something In The Way
+05. Come As You Are
+06. Love Buzz [Shocking Blue cover]
+07. Smells Like Teen Spirit
+08. Territorial Pissings
+
+MD5 FINGERPRINTS:
+3551f96973081fd13ac8d69fda975312 *Nirvana 1992-06-26 AUD4 t03 Negative Creep.flac
+bafed9138405f091ecf10e86d536aace *Nirvana 1992-06-26 AUD4 t04 Something In The Way.flac
+f3ee39371d95c75f85b8142b132f9e26 *Nirvana 1992-06-26 AUD4 t05 Come As You Are.flac
+b4e5571224228cf2a1693dfcb4de36ef *Nirvana 1992-06-26 AUD4 t06 Love Buzz.flac
+26216f92e75549cf385593a2a49932e5 *Nirvana 1992-06-26 AUD4 t07 Smells Like Teen Spirit.flac
+f635e595675e9c588655818c48794867 *Nirvana 1992-06-26 AUD4 t08 Territorial Pissings.flac
+7e39b9cd1d7b13c85da3ffe570755c67 *Nirvana 1992-06-26 AUD4 t01 On A Plain.flac
+84dbd7989059af4db551ae616b44428b *Nirvana 1992-06-26 AUD4 t02 Swap Meet.flac
+
+37252d7c2b7eff571c56cc82395838ea *Nirvana 1992-06-26 AUD4.flac
+
+RECORDING & TRANSFER:
+TW
+
+DISTRIBUTION:
+Members of LiveNIRVANA.com
+2021-03-04

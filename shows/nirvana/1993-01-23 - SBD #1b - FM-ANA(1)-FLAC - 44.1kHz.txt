@@ -1,0 +1,43 @@
+NIRVANA
+January 23, 1993
+Praça da Apoteose (Hollywood Rock Festival)
+Rio de Janeiro, Brazil
+
+SOURCE (SBD #1b):
+soundboard > unknown
+
+TRANSFER:
+Nakamichi DR-8 > Echo Layla24 > Adobe Audition 3.0 > CD Wave 1.97 > FLAC frontend 1.7.1
+
+GENERATION:
+FM > ANA(1) > WAV [48kHz] > WAV [44.1kHz] > FLAC [Level 8]
+
+LENGTH:
+27:27
+
+NOTES:
+- Has some minor dropouts and choppiness from the source tape.
+- Has fake crowd noise added at some points.
+
+TRACKS:
+01. Come As You Are (cuts in)
+02. Lithium
+03. Polly
+04. About A Girl
+05. Heart-Shaped Box
+06. Dive
+07. Smells Like Teen Spirit (cuts in)
+
+MD5 FINGERPRINTS:
+7f15fee30cd9283d6a29801ee0567a4a *Nirvana_1993-01-23_SBD1b_t01.flac
+fedcc85c5181ed0993c0a73163b8e995 *Nirvana_1993-01-23_SBD1b_t02.flac
+555d7ab2b11d1c15dd788a7c74e85a8f *Nirvana_1993-01-23_SBD1b_t03.flac
+1d80f2f2ce340b706ea23ef7645be9c0 *Nirvana_1993-01-23_SBD1b_t04.flac
+8432167203b11f7753ab9672f45f7bef *Nirvana_1993-01-23_SBD1b_t05.flac
+bf53242a01231be62d11268299e83fa7 *Nirvana_1993-01-23_SBD1b_t06.flac
+5d54a294acacbf62714eb089311bfe29 *Nirvana_1993-01-23_SBD1b_t07.flac
+
+TRANSFERRED BY:
+Kris Sproul
+
+PLEASE DO NOT SELL OR ENCODE TO MP3

@@ -1,0 +1,51 @@
+NIRVANA
+February 25, 1994
+Palatrussardi, Milan
+Italy
+
+DISC #1/1 (43:52)
+-----------------
+01. Radio Friendly Unit Shifter (cuts out)
+02. Drain You (cuts in)
+03. Breed
+04. Serve The Servants
+05. Come As You Are
+06. Smells Like Teen Spirit
+07. Sliver
+08. Dumb
+09. In Bloom
+10. About A Girl
+11. Lithium
+12. Pennyroyal Tea
+13. School
+
+GENERATION
+-----------------
+ANA(M) -> WAV [48kHz] -> WAV [44.1kHz] -> FLAC [Level 8]
+
+SOURCE (AUD #2)
+-----------------
+unknown -> unknown
+
+TRANSFER
+-----------------
+Nakamichi DR-3 -> RCA to 1/4" TS custom Klotz cables -> M-Audio Delta Audiophile 192 analog-in -> Adobe Audition 2.0 -> CD Wave 1.98 -> FLAC Frontend 1.7.1
+
+MD5 FINGERPRINTS
+-----------------
+34b9960ab039a391517ef32fbc66fb9e *nirvana_1994-02-25_aud2_anam_d1t01.flac
+af26f531da84e5f02439e7f06e59e2f0 *nirvana_1994-02-25_aud2_anam_d1t02.flac
+0126195bbcd1fa5650c5473b5de7dac6 *nirvana_1994-02-25_aud2_anam_d1t03.flac
+45893e1fa2a95aabd3b0b04d35c4e376 *nirvana_1994-02-25_aud2_anam_d1t04.flac
+042196b78e57bc491ba26c49c3ced98d *nirvana_1994-02-25_aud2_anam_d1t05.flac
+38894d3dc07a5ac0c89046f9734a0425 *nirvana_1994-02-25_aud2_anam_d1t06.flac
+a962184dd7e4bc39eff0cee6f662bfef *nirvana_1994-02-25_aud2_anam_d1t07.flac
+8a2a073609470d83e1f70822da7c6ca4 *nirvana_1994-02-25_aud2_anam_d1t08.flac
+a1c82957b02fdb4aba54756709c5af34 *nirvana_1994-02-25_aud2_anam_d1t09.flac
+cfeb6e977503ef6f7cb4bbf321c7e275 *nirvana_1994-02-25_aud2_anam_d1t10.flac
+1c3391420cf516331f5ecde900631e46 *nirvana_1994-02-25_aud2_anam_d1t11.flac
+b18c8791acdef87564b21cb1c1a0116c *nirvana_1994-02-25_aud2_anam_d1t12.flac
+0fc15cbeb666e332d470393fed97626b *nirvana_1994-02-25_aud2_anam_d1t13.flac
+
+Transferred by Pierre Leroy
+PLEASE DO NOT ENCODE TO MP3 OR SELL!

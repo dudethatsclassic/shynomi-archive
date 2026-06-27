@@ -1,0 +1,79 @@
+NIRVANA
+
+01/23/93 
+Praça da Apoteose (Hollywood Rock Festival), Rio de Janeiro, BR
+
+Generation: TV>VHS(2)>STANDALONE>DVDR(2) - 2 discs 
+Source: PRO #1 - professional video "uncut"
+Length: 97 mins - complete
+
+Transferred by: unknown, authored by Michael Asplund
+Video: 8 mb/s MPEG2 (NTSC)
+Audio: 384 kb/s MPEP 
+
+Transfer authoring notes by Asplund: 
+
+Re-authored from standalone DVD-R made from VHS(1).
+Cleaned up sound and picture, Using Wavelab and TMPGenc. Some Video
+noise is audible due to the age of the Master VHS.
+
+Disc 1 :
+L'Amour Est Un Oiseau Rebelle (jam) 
+School 
+Drain You 
+Breed 
+Sliver 
+In Bloom 
+Come As You Are 
+Love Buzz 
+Possibilities (jam) 
+Lithium 
+Polly 
+About A Girl 
+Smells Like Teen Spirit 
+On A Plain 
+Negative Creep 
+Been A Son 
+Blew 
+
+Disc 2 :
+Heart-Shaped Box 
+Scentless Apprentice 
+Sweet Emotion (jam) 
+Dive 
+Lounge Act 
+Aneurysm 
+Territorial Pissings 
+
+
+MD5 fingerprints
+---------------------------------
+
+disc1
+
+10b6af44f3af622a82695e2472b860e7 *VIDEO_TS.BUP
+10b6af44f3af622a82695e2472b860e7 *VIDEO_TS.IFO
+602bef11025a14751eb77d8e7bdd0f41 *VIDEO_TS.VOB
+d4d58e364bb0b2de4fc14320119d409a *VTS_01_0.BUP
+d4d58e364bb0b2de4fc14320119d409a *VTS_01_0.IFO
+0d5140d0a9fa7781669b2b38a52f50a6 *VTS_01_0.VOB
+3946c3a1d4f7fdad39ced8330358a086 *VTS_01_1.VOB
+d8134652d75abfa3218809f4de5d5287 *VTS_01_2.VOB
+5d1738f3eba92f29e736a98a3d94c49a *VTS_01_3.VOB
+8a95f556caaeb8ad1dbb52d7209c86c4 *VTS_01_4.VOB
+
+disc2
+
+b7735cb374309ceea7a81e3b874fa138 *VIDEO_TS.BUP
+b7735cb374309ceea7a81e3b874fa138 *VIDEO_TS.IFO
+602bef11025a14751eb77d8e7bdd0f41 *VIDEO_TS.VOB
+661e7627cc3d319ff760289d7ea760eb *VTS_01_0.BUP
+661e7627cc3d319ff760289d7ea760eb *VTS_01_0.IFO
+067393c1cab9db595dd8f7ed2b1201c7 *VTS_01_0.VOB
+40467c9e8244471c73ab5ee48bb796af *VTS_01_1.VOB
+d42073e37c4596f2def83c308a22d81d *VTS_01_2.VOB
+c1cd3a4aa8c4db592887dae9be0ee0e2 *VTS_01_3.VOB
+
+
+Dragged and Dropped from a DVDR(2) on 10/12/2013
+from David Lajeunesse DVDs

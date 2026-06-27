@@ -1,0 +1,57 @@
+NIRVANA
+November 10, 1989
+Forum Enger
+Enger, West Germany
+
+SOURCE (AUD #1):
+Sony PC-62 > Sony WM-D3
+
+TRANSFER:
+Nakamichi DR-8 > Echo Layla24 > Adobe Audition 3.0 > CD Wave 1.97 > FLAC frontend 1.7.1
+
+GENERATION:
+ANA(M) > WAV [48kHz] > WAV [44.1kHz] > FLAC [Level 8]
+
+LENGTH:
+57:27
+
+TRACKS:
+01. intro
+02. School
+03. Scoff
+04. Love Buzz
+05. Floyd The Barber
+06. Dive
+07. Polly
+08. Big Cheese
+09. About A Girl
+10. Spank Thru
+11. Mr. Moustache
+12. Breed
+13. Been A Son
+14. Negative Creep
+15. Stain
+16. Blew
+
+MD5 FINGERPRINTS:
+6849111276d62ebb4aaafb9b487afead *Nirvana_1989-11-10_AUD1_t01.flac
+717fc09a05abd7e3463be9de349e14c1 *Nirvana_1989-11-10_AUD1_t02.flac
+17c4e1f019e82cb4c8c284797e72bf6f *Nirvana_1989-11-10_AUD1_t03.flac
+0ef37b983f70d89ee05e0689cf76718a *Nirvana_1989-11-10_AUD1_t04.flac
+67379e24a9c8185046ab5b28cd632cc3 *Nirvana_1989-11-10_AUD1_t05.flac
+22c426c1b49e5e3e1b12fa2f3b4e35a9 *Nirvana_1989-11-10_AUD1_t06.flac
+487ae4d3028e0e418f4ef5ba4ffe6636 *Nirvana_1989-11-10_AUD1_t07.flac
+6f7548016e18029eb6b5c378dab1142a *Nirvana_1989-11-10_AUD1_t08.flac
+a0638068e900cbe55ca97fab76220e4c *Nirvana_1989-11-10_AUD1_t09.flac
+7c41b48abf7c6f9732321652479b00d3 *Nirvana_1989-11-10_AUD1_t10.flac
+f1a3a5fb92d241858fde86f7d4ddd18e *Nirvana_1989-11-10_AUD1_t11.flac
+27b2fae250dcecd134f40a3800bdec0b *Nirvana_1989-11-10_AUD1_t12.flac
+449a56f8dfda8ea68892bbccb455166d *Nirvana_1989-11-10_AUD1_t13.flac
+87e3c02e42412c079a1e3d754782355a *Nirvana_1989-11-10_AUD1_t14.flac
+46b1bba77d3ba14db2643fa0e9ab2f9f *Nirvana_1989-11-10_AUD1_t15.flac
+be100986caf118317cde8e89e56e33df *Nirvana_1989-11-10_AUD1_t16.flac
+
+TRANSFERRED BY:
+Kris Sproul
+
+PLEASE DO NOT SELL OR ENCODE TO MP3

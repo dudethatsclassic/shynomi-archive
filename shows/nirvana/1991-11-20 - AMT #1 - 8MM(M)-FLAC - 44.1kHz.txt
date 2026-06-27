@@ -1,0 +1,65 @@
+NIRVANA
+November 20, 1991
+Kryptonight
+Baricella, Italy
+
+SOURCE (AMT #1):
+built-in > Sony CCD-F55E
+
+TRANSFER:
+Sony DCR-TRV320E > LynxONE analog-in > Adobe Audition 3.0 > CD Wave 1.97 > FLAC frontend 1.7.1
+
+GENERATION:
+8MM(M) > WAV [48kHz] > WAV [44.1kHz] > FLAC [Level 8]
+
+LENGTH:
+65:53
+
+TRACKS:
+01. intro
+02. Drain You
+03. Aneurysm
+04. School
+05. Floyd The Barber
+06. About A Girl
+07. Polly
+08. Smells Like Teen Spirit
+09. Lithium
+10. Come As You Are
+11. Sliver
+12. Breed
+13. Been A Son
+14. Negative Creep
+15. Something In The Way
+16. On A Plain
+17. Blew
+18. Jesus Wants Me For A Sunbeam
+19. In Bloom
+20. Territorial Pissings
+
+MD5 FINGERPRINTS:
+5e1655979e3d14b125815cc322d1aecf *Nirvana_1991-11-20_AMT1_t01.flac
+3e79a4b97c62b37008bc556eeea34971 *Nirvana_1991-11-20_AMT1_t02.flac
+cd820f5987ab0b6fdc19170112702a12 *Nirvana_1991-11-20_AMT1_t03.flac
+638fb2e046407fe750dd56e20ee0484c *Nirvana_1991-11-20_AMT1_t04.flac
+13ed218383add5a8ad11b1fda81b9f34 *Nirvana_1991-11-20_AMT1_t05.flac
+84292dffb47d19f6a70858303d8fa89c *Nirvana_1991-11-20_AMT1_t06.flac
+fc1d9aad93aada72cddc24bbcaba4c3b *Nirvana_1991-11-20_AMT1_t07.flac
+4cc22d533016b69d08367cc01fcb6820 *Nirvana_1991-11-20_AMT1_t08.flac
+3359c10467b949a45c5db02f62ea2f01 *Nirvana_1991-11-20_AMT1_t09.flac
+9327c3cc0d5043cbf957bb5d6e7caedb *Nirvana_1991-11-20_AMT1_t10.flac
+2708ad43caf09f673226c4031b797fb6 *Nirvana_1991-11-20_AMT1_t11.flac
+209f6625cdbd29d9f4b12be3714ee40b *Nirvana_1991-11-20_AMT1_t12.flac
+884300f0cc8937a6c96de3293f00958a *Nirvana_1991-11-20_AMT1_t13.flac
+2230df4d4d373ae311124ef83ae4fa77 *Nirvana_1991-11-20_AMT1_t14.flac
+dfdf15a4050dd2efa05609d508139400 *Nirvana_1991-11-20_AMT1_t15.flac
+5082177c3c5ed096d5af12665b33d1c4 *Nirvana_1991-11-20_AMT1_t16.flac
+c2e7b0f39dd1ac53ef7152e2357df73c *Nirvana_1991-11-20_AMT1_t17.flac
+35eb8de3fafe9932e7edb8c12666f612 *Nirvana_1991-11-20_AMT1_t18.flac
+92a0df53ebfac30da86738d30d0d4f02 *Nirvana_1991-11-20_AMT1_t19.flac
+a50e8a3ab94035f32c9ec9899323f75e *Nirvana_1991-11-20_AMT1_t20.flac
+
+TRANSFERRED BY:
+Mike Ziegler
+
+PLEASE DO NOT SELL OR ENCODE TO MP3

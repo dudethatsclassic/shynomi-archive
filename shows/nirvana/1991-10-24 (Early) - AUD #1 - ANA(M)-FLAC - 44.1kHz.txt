@@ -1,0 +1,39 @@
+NIRVANA
+October 24, 1991
+Off the Record
+San Diego, CA
+
+SOURCE (AUD #1):
+built-in > unknown
+
+TRANSFER:
+Nakamichi CR-7A > Hosa RCA cable > PreSonus FireStudio Project > Adobe Audition 3.0 > CD Wave 1.98 > FLAC frontend 1.7.1
+
+GENERATION:
+ANA(M) > WAV [48kHz] > WAV [44.1kHz] > FLAC [Level 8]
+
+LENGTH:
+20:22
+
+TRACKS:
+01. intro
+02. Dumb
+03. Here She Comes Now
+04. About A Girl
+05. Polly
+06. On A Plain
+07. Been A Son
+
+MD5 FINGERPRINTS:
+f54cdfa4432b2d8b868ac274f54a9cb2 *Nirvana_1991-10-24_early_AUD1_t01.flac
+e06966ad953caa57d7408e77f9991071 *Nirvana_1991-10-24_early_AUD1_t02.flac
+8272544c3275ead4bb9043145c6c84dd *Nirvana_1991-10-24_early_AUD1_t03.flac
+acb939c12ae3f22182a5d8d6c55f3b00 *Nirvana_1991-10-24_early_AUD1_t04.flac
+ea8530317d220bc7f06dc89ca4e6c76e *Nirvana_1991-10-24_early_AUD1_t05.flac
+920b7cf6bd66ec67530f9584a9ba8995 *Nirvana_1991-10-24_early_AUD1_t06.flac
+df68e8c364280e3c2c964f57952eb1d9 *Nirvana_1991-10-24_early_AUD1_t07.flac
+
+TRANSFERRED BY:
+Mike Ziegler
+
+PLEASE DO NOT SELL OR ENCODE TO MP3

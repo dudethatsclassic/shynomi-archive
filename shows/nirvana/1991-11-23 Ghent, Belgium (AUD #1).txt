@@ -1,0 +1,70 @@
+NIRVANA
+November 23, 1991
+Vooruit
+Ghent, Belgium
+
+DISC #1/2 (46:59)
+-----------------
+01) intro
+02) Drain You
+03) Aneurysm
+04) School
+05) Floyd The Barber
+06) Smells Like Teen Spirit
+07) Curmudgeon
+08) Oh, The Guilt
+09) Lithium
+10) Sliver
+11) About A Girl
+12) Polly
+13) Talk To Me
+
+DISC #2/2 (34:09)
+-----------------
+01) The End (jam)
+02) Been A Son
+03) Negative Creep
+04) On A Plain (part of)
+05) On A Plain
+06) Blew
+07) Where Did You Sleep Last Night
+08) Jesus Wants Me For A Sunbeam
+
+GENERATION
+-----------------
+ANA(M) -> WAV [48kHz] -> WAV [44.1kHz] -> FLAC [Level 8]
+
+SOURCE (AUD#1)
+-----------------
+Sony PC-62 -> Sony WM-D3
+
+TRANSFER
+-----------------
+Nakamichi CR-7A -> Hosa RCA cable -> LynxONE analog-in -> Adobe Audition 2.0 -> CD Wave 1.95 -> FLAC Frontend 1.7.1
+
+ST5 FINGERPRINTS
+-----------------
+2fa4c1eebf381a8639f788079fc753dc  [shntool]  01) intro.flac
+6a1639c095973f7711fced52948d48c4  [shntool]  02) Drain You.flac
+5f35373e906d0d0ef81d6eb43d68375f  [shntool]  03) Aneurysm.flac
+29593d892da18fe496f573c83a0dc38b  [shntool]  04) School.flac
+7d608a23ac1237d5afe4db50e4e5a798  [shntool]  05) Floyd The Barber.flac
+b245cf8c9de6a5875a7d0cc7d1a56160  [shntool]  06) Smells Like Teen Spirit.flac
+7cf9ef30959201fd007a754758cfbdf6  [shntool]  07) Curmudgeon.flac
+807a4d6885bf50bb406d3859e8967be5  [shntool]  08) Oh, The Guilt.flac
+44e237833982815e15591ab0dc43aff8  [shntool]  09) Lithium.flac
+6e2b539f39298b4374029d85c0af8e64  [shntool]  10) Sliver.flac
+a1f4bf20c0addfeefdeba34969cf3cae  [shntool]  11) About A Girl.flac
+21e79ba9cb2fed85279f38e029dcdffe  [shntool]  12) Polly.flac
+14dba96e438d2892fbff635546558c70  [shntool]  13) Talk To Me.flac
+f94930d34c84fe63602e9fc0a25c27e6  [shntool]  14) The End (jam).flac
+377054b135e1a5b51a0887f2e74ced97  [shntool]  15) Been A Son.flac
+801af0e9edefa96cf4acd7b65fdc92af  [shntool]  16) Negative Creep.flac
+e63096520f900c85f0034862a582fe24  [shntool]  17) On A Plain (part of).flac
+8aa974d61aafc81b9ffe475d1713df86  [shntool]  18) On A Plain.flac
+26267000299da3e496ea96e8ad7a76e6  [shntool]  19) Blew.flac
+b420f1834db017669235744ab15324d2  [shntool]  20) Where Did You Sleep Last Night.flac
+aaf097a0c93abe9867e828d6dd20923f  [shntool]  21) Jesus Wants Me For A Sunbeam.flac
+
+Transferred by Mike Ziegler.
+PLEASE DO NOT ENCODE TO MP3 OR SELL!

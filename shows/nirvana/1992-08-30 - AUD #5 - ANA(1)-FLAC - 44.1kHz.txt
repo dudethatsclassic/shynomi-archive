@@ -1,0 +1,89 @@
+NIRVANA
+August 30, 1992
+Richfield Avenue,
+Reading Festival,
+Reading, UNITED KINGDOM
+
+SOURCE (AUD #5):
+unknown > unknown
+
+TRANSFER:
+Nakamichi DR-3 > Custom RCA to 1/4" TS Klotz cables > Echo Mia Midi Analog-in > Adobe Audition 2.0 > CD Wave 1.94.8 > FLAC frontend 1.7.1
+
+GENERATION:
+ANA(1) > WAV [48kHz] > WAV [44.1kHz] > FLAC [Level 8]
+
+LENGTH:
+91:14
+
+NOTES:
+- many thanks to Douglas Baptie
+- supposedly recorded with a Sony ECM-909 microphone
+- supposedly recorded on DAT
+- cuts : during "Smells Like Teen Spirit" solo & during "Territorial Pissings" intro
+- missing "The Rose" intro
+
+TRACKS:
+01. Breed
+02. Drain You
+03. Aneurysm
+04. School
+05. Sliver
+06. In Bloom
+07. Come As You Are
+08. Lithium
+09. About A Girl
+10. tourette's
+11. Polly
+12. Lounge Act
+13. More Than A Feeling (part of)
+14. Smells Like Teen Spirit
+15. On A Plain
+16. Negative Creep
+17. Been A Son
+18. All Apologies
+19. Blew
+20. Dumb
+21. Stay Away
+22. Spank Thru
+23. Love Buzz
+24. Smoke On The Water (jam)
+25. The Money Will Roll Right In
+26. D-7
+27. Territorial Pissings (cuts in)
+28. The Star-Spangled Banner (part of)
+
+MD5 FINGERPRINTS:
+e0764232ce5f1ff924fbff585dc98301 *nirvana_1992-08-30_aud5_d1t01.flac
+a9852c6ebf39e57d4e494a92cab2075e *nirvana_1992-08-30_aud5_d1t02.flac
+877f766f29c828d45996c956ef2f8ee5 *nirvana_1992-08-30_aud5_d1t03.flac
+c1f1db0c7f2bc3639532c922247ec3ed *nirvana_1992-08-30_aud5_d1t04.flac
+8e9043f0babf820097713a3bba19ed1c *nirvana_1992-08-30_aud5_d1t05.flac
+5e58e458ef9cc37fb43de5ef72cabb50 *nirvana_1992-08-30_aud5_d1t06.flac
+b013626e9ad6b16508a8151f4b133c61 *nirvana_1992-08-30_aud5_d1t07.flac
+5eaa11b26dcab00353fe5126e1ef0f65 *nirvana_1992-08-30_aud5_d1t08.flac
+af4c1377c3b3021e4cb6fbfa7b46a83a *nirvana_1992-08-30_aud5_d1t09.flac
+fed28d2b757dc86d1fff6ad48f584305 *nirvana_1992-08-30_aud5_d1t10.flac
+df93b12b25b6cc57bd421abb24681493 *nirvana_1992-08-30_aud5_d1t11.flac
+7b9006165f08fa45d76fec11ffde150b *nirvana_1992-08-30_aud5_d1t12.flac
+8678f9c131891959c5ce2c58b3e47590 *nirvana_1992-08-30_aud5_d1t13.flac
+e211713e4419f1f7c162ce397a842c45 *nirvana_1992-08-30_aud5_d1t14.flac
+946f6f522228f55ed9c200ee784ea96e *nirvana_1992-08-30_aud5_d2t01.flac
+55e3b593fc74c74ea16bcfad0fdc2659 *nirvana_1992-08-30_aud5_d2t02.flac
+c4e48ba6e381970aadd6c21197d8ab15 *nirvana_1992-08-30_aud5_d2t03.flac
+4f24d5be8f3fce5ba38d186688724ad2 *nirvana_1992-08-30_aud5_d2t04.flac
+81b5fab26302cbabf33b110f5544cce1 *nirvana_1992-08-30_aud5_d2t05.flac
+13db2a0f344e138f9ea8eebed4e85b7c *nirvana_1992-08-30_aud5_d2t06.flac
+c739683d2fbdc4703bb9bf971e1a78e3 *nirvana_1992-08-30_aud5_d2t07.flac
+ef636f4d1e2adc77f77fcb467336cd40 *nirvana_1992-08-30_aud5_d2t08.flac
+7d1c88142eb1ab48fdd7f98f36553dc4 *nirvana_1992-08-30_aud5_d2t09.flac
+33ca666fae4199c20576bd620c8d2d22 *nirvana_1992-08-30_aud5_d2t10.flac
+d7e7c0d61c2ab3cbdbe59d3525eb086d *nirvana_1992-08-30_aud5_d2t11.flac
+a9b7a22cef5276cc3c8253b0b5aa5b3b *nirvana_1992-08-30_aud5_d2t12.flac
+316d791c674748c99bb025f187f2567a *nirvana_1992-08-30_aud5_d2t13.flac
+005d2b971658bda210aac54e5c01b9fa *nirvana_1992-08-30_aud5_d2t14.flac
+
+TRANSFERRED BY:
+Pierre Leroy
+
+PLEASE DO NOT ENCODE TO MP3 OR SELL

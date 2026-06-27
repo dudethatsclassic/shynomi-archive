@@ -1,0 +1,59 @@
+NIRVANA
+July 8, 1989
+Club Dreamerz
+Chicago, IL, USA
+
+SOURCE: (AUD#1):
+Aiwa CM-30 > Sony TC-D5
+
+TRANSFER:
+Nakamichi DR-1 > Focusrite Scarlett 8i6 > Adobe Audition > SoundForge 12.1 > Trader's Little Helper 2.8.4
+
+GENERATION:
+ANA(M) > WAV [24-bit/48KHz] > WAV [16-bit/44.1KHz] > FLAC [Level 8]
+
+DURATION:
+47:34
+
+SETLIST:
+00. Intro
+01. School
+02. Floyd The Barber
+03. Love Buzz
+04. Mr. Moustache
+05. Paper Cuts
+06. Polly
+07. Big Cheese
+08. Spank Thru
+09. Dive
+10. About A Girl
+11. Scoff
+12. Negative Creep
+13. Blew
+
+CHECKSUM:
+7e4f5aa5b9219d97e4ede8ffe54961ff *NIRVANA 1989-07-08 AUD#1 ANA(M)_00 Intro.flac
+691e407d7a295ac3d7a71fd587f39eb8 *NIRVANA 1989-07-08 AUD#1 ANA(M)_01 School.flac
+d6f6723840e8dd4ccd335040ae4d6741 *NIRVANA 1989-07-08 AUD#1 ANA(M)_02 Floyd The Barber.flac
+e3fa6bbcae615b6eeb2100d92e96cf1d *NIRVANA 1989-07-08 AUD#1 ANA(M)_03 Love Buzz.flac
+bb9660fecc3694d5b73f5af9b0853f14 *NIRVANA 1989-07-08 AUD#1 ANA(M)_04 Mr. Moustache.flac
+4cc43df0f42813584acd2d280e175971 *NIRVANA 1989-07-08 AUD#1 ANA(M)_05 Paper Cuts.flac
+ce8dac4fa95b4ba29d3f75531237789d *NIRVANA 1989-07-08 AUD#1 ANA(M)_06 Polly.flac
+a2b81802136daa5bac953a8c28888bad *NIRVANA 1989-07-08 AUD#1 ANA(M)_07 Big Cheese.flac
+639a6ca93038c3d6edd8bd2b3c6edfb6 *NIRVANA 1989-07-08 AUD#1 ANA(M)_08 Spank Thru.flac
+12aa94eca7fe6227f2abd2493c06e1bc *NIRVANA 1989-07-08 AUD#1 ANA(M)_09 Dive.flac
+a8bee68814317c523e85d8696315d6d7 *NIRVANA 1989-07-08 AUD#1 ANA(M)_10 About A Girl.flac
+1168924ee394cb8ef2e23eb717b2d4bc *NIRVANA 1989-07-08 AUD#1 ANA(M)_11 Scoff.flac
+0ea6e01d5c8681148ce759265f4b2d18 *NIRVANA 1989-07-08 AUD#1 ANA(M)_12 Negative Creep.flac
+310ece655c24dc86ff0b8bfc699ed29f *NIRVANA 1989-07-08 AUD#1 ANA(M)_13 Blew.flac
+
+RECORDED BY:
+Aadam Jacobs
+
+TRANSFER:
+Nicholas Serra and Members of LiveNIRVANA.com
+
+DISTRIBUTION:
+Members of LiveNIRVANA.com
+
+2025-05-10

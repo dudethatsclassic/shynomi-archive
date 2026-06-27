@@ -1,0 +1,49 @@
+NIRVANA
+September 1, 1991
+De Doelen (Ein Abend in Wien)
+Rotterdam
+The Netherlands
+
+SETLIST (44:20)
+-----------------
+01. intro
+02. Polly (cuts in)
+03. Drain You 
+04. School
+05. Floyd The Barber
+06. Smells Like Teen Spirit
+07. Come As You Are
+08. About A Girl
+09. Breed
+10. Sliver
+11. In Bloom (cut)
+12. Been A Son
+13. Negative Creep (part of)
+
+GENERATION
+-----------------
+VHS(1) -> AVI [HuffYUV] -> M2V/AC3 [9.3Mbps CBR/48kHz 448kbps] -> DVD-R(0) [PAL]
+
+SOURCE (AMT #2)
+-----------------
+unknown -> unknown
+
+TRANSFER
+-----------------
+JVC HR-S7700 -> Datavideo TBC 1000 -> ATI Theatre 200 -> Adobe Premiere Pro 1.5 -> DVD Architect 3.0
+
+MD5 FINGERPRINTS
+-----------------
+ce7cf054e86a57eba8f8cceea1cbb778 *VIDEO_TS\VIDEO_TS.BUP
+ce7cf054e86a57eba8f8cceea1cbb778 *VIDEO_TS\VIDEO_TS.IFO
+e5324192e380762cd319c6cf6d7e1c11 *VIDEO_TS\VIDEO_TS.VOB
+e7ccfd9eb0f48485d97e44a811512543 *VIDEO_TS\VTS_01_0.BUP
+e7ccfd9eb0f48485d97e44a811512543 *VIDEO_TS\VTS_01_0.IFO
+de45d308809ccd45a8429bfe058f8b58 *VIDEO_TS\VTS_01_0.VOB
+aab250d58a68112052650a0664852ff5 *VIDEO_TS\VTS_01_1.VOB
+af502f4c5d818122d1eb0f75b825facc *VIDEO_TS\VTS_01_2.VOB
+dbab42b9fab1e51c87868b4c164bed52 *VIDEO_TS\VTS_01_3.VOB
+452c8e837eb94c8017e03cb53085ae9f *VIDEO_TS\VTS_01_4.VOB
+
+Transferred by Francisco Ortiz
+PLEASE LEAVE AS DVD, DO NOT EDIT OR SHRINK

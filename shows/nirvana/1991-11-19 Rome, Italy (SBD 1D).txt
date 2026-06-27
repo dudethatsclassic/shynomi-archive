@@ -1,0 +1,61 @@
+NIRVANA
+November 19, 1991
+Teatro Castello
+Rome, Italy
+
+SOURCE (SBD #1d):
+soundboard > unknown
+
+EXTRACTION:
+BTC BDV316C > Exact Audio Copy V0.95 prebeta 5 > Adobe Audition 2.0 > CD Wave 1.94.8 > FLAC frontend 1.7.1
+
+GENERATION:
+FM > ANA(1) > CDR(1) > WAV [44.1kHz] > FLAC [Level 8]
+
+LENGTH:
+59:19
+
+TRACKS:
+01. Drain You
+02. Aneurysm
+03. School
+04. Floyd The Barber
+05. Smells Like Teen Spirit
+06. About A Girl
+07. Polly
+08. Lithium
+09. Sliver
+10. Come As You Are
+11. Breed
+12. Been A Son
+13. Negative Creep
+14. On A Plain
+15. Blew
+16. Rape Me
+17. Spank Thru
+18. Territorial Pissings
+
+MD5 FINGERPRINTS:
+6e75834bf4d42384c77848e04626060d *Nirvana_1991-11-19_SBD1d_t01.flac
+31a62fef28edba4f1e02135b6834a503 *Nirvana_1991-11-19_SBD1d_t02.flac
+dbd567d68f9a84aa329334b616f41575 *Nirvana_1991-11-19_SBD1d_t03.flac
+69478e53f0c37e912b5c31cd31a9de42 *Nirvana_1991-11-19_SBD1d_t04.flac
+9d40f042e06766fa0f9d5384962a7aba *Nirvana_1991-11-19_SBD1d_t05.flac
+cd888d2d81f1e2c1bc980e146afa75e9 *Nirvana_1991-11-19_SBD1d_t06.flac
+bde82113e6478020ff29980c27f2a855 *Nirvana_1991-11-19_SBD1d_t07.flac
+fd06e05dffacd749d6bfc822ff1b6575 *Nirvana_1991-11-19_SBD1d_t08.flac
+ccf2dd998330f7cb189072807954c17d *Nirvana_1991-11-19_SBD1d_t09.flac
+174527e42707ec75ceb5c9f48966c3db *Nirvana_1991-11-19_SBD1d_t10.flac
+124598d2c156e310564de9a35a637f24 *Nirvana_1991-11-19_SBD1d_t11.flac
+730c5a57464e1295a12731db29e090e5 *Nirvana_1991-11-19_SBD1d_t12.flac
+e63f3e5501270cf634320908be4b9477 *Nirvana_1991-11-19_SBD1d_t13.flac
+bbe720401f588b06de116c5bb682ea4d *Nirvana_1991-11-19_SBD1d_t14.flac
+656fc7097711333eb6452f0bdb66c6a8 *Nirvana_1991-11-19_SBD1d_t15.flac
+b0739eee6a235d96bb2584b13b08b4e8 *Nirvana_1991-11-19_SBD1d_t16.flac
+2e2806726ae9de4be5af85f1b546e2a3 *Nirvana_1991-11-19_SBD1d_t17.flac
+a37a8fd3e53e0d88aad4f20eea251820 *Nirvana_1991-11-19_SBD1d_t18.flac
+
+EXTRACTED BY:
+Pete Bullock
+
+PLEASE DO NOT SELL OR ENCODE TO MP3

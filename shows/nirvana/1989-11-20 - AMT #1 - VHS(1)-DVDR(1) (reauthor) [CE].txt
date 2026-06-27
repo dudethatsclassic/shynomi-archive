@@ -1,0 +1,57 @@
+NIRVANA
+November 20, 1989
+Kapu, 
+Linz, Austria
+
+DISC #1/1 (59:09)
+-----------------
+01) intro
+02) School 
+03) Scoff
+04) Love Buzz 
+05) Floyd The Barber 
+06) Dive (cuts in)
+07) Polly 
+08) Big Cheese 
+09) About A Girl 
+10) Spank Thru 
+11) Molly's Lips 
+12) Breed 
+13) Been A Son 
+14) Negative Creep 
+15) Blew (cuts in)
+16) Sappy 
+17) Even In His Youth 
+18) Stain
+
+GENERATION
+-----------------
+VHS(1) -> DVDR(1) -> MPV/WAV [4,4Mbps VBR/256kbps AC3] / re-author
+
+SOURCE (AMT#1)
+-----------------
+unknown -> unknown
+
+TRANSFER
+-----------------
+unknown -> DVDDecrypter v3.5.4.0 -> DVD-lab PRO 2.3 
+
+NOTES
+-----------------
+"Dive" and "Blew" both cut in. There's a small cut after "Big Cheese".
+
+MD5 FINGERPRINTS
+-----------------
+49ae43d429358e106afab521c056e969 *VIDEO_TS/VIDEO_TS.BUP
+49ae43d429358e106afab521c056e969 *VIDEO_TS/VIDEO_TS.IFO
+774703b2abe6f493cce1fe86ab9555c3 *VIDEO_TS/VIDEO_TS.VOB
+875a93bfbed9cf9360ebbac197cf5251 *VIDEO_TS/VTS_01_0.BUP
+875a93bfbed9cf9360ebbac197cf5251 *VIDEO_TS/VTS_01_0.IFO
+f292ee700d2e68809b7d6a96190ab805 *VIDEO_TS/VTS_01_0.VOB
+21bd5aa67eb798f2326bf0e69d32bb08 *VIDEO_TS/VTS_01_1.VOB
+f8c05ed873cd735bda606c2b900a42a0 *VIDEO_TS/VTS_01_2.VOB
+360f3f715c3164265a0238256eaebba7 *VIDEO_TS/VTS_01_3.VOB
+
+
+Standalone transfer by C.E, re-authored by Fabian Beyer.
+PLEASE DO NOT ENCODE TO MP3 OR SELL!

@@ -1,0 +1,79 @@
+NIRVANA
+December 5, 1993
+Fair Park Coliseum
+Dallas, TX
+
+SOURCE (AUD #2):
+Sony ECM-155 > Sony TCD-D7
+
+TRANSFER:
+Tascam DA-30mkII > Echo Layla24 > Adobe Audition 2.0 > CD Wave 1.95.1 > FLAC frontend 1.7.1
+
+GENERATION:
+DAT(M) [48kHz] > WAV [48kHz] > WAV [44.1kHz] > FLAC [Level 8]
+
+LENGTH:
+102:09
+
+TRACKS (DISC 1):
+01. intro
+02. Radio Friendly Unit Shifter
+03. Drain You
+04. Breed
+05. Serve The Servants
+06. Come As You Are
+07. Smells Like Teen Spirit
+08. Sliver
+09. Dumb
+10. In Bloom
+11. About A Girl
+12. Lithium
+13. Pennyroyal Tea
+14. School
+15. Polly
+
+TRACKS (DISC 2):
+01. Frances Farmer Will Have Her Revenge On Seattle
+02. Milk It
+03. Rape Me
+04. Territorial Pissings
+05. Jesus Wants Me For A Sunbeam
+06. Where Did You Sleep Last Night
+07. The Man Who Sold The World
+08. All Apologies
+09. On A Plain
+10. Heart-Shaped Box
+11. Blew
+
+MD5 FINGERPRINTS:
+eaeefea81db8773272747aead303d6f1 *Nirvana_1993-12-05_AUD2_d1t01.flac
+450fc507b337e9d60314611bf1b2bcfd *Nirvana_1993-12-05_AUD2_d1t02.flac
+cb9733f1468879e17473a76fa9cb6074 *Nirvana_1993-12-05_AUD2_d1t03.flac
+79530befee749b78aae8c4f1f198b950 *Nirvana_1993-12-05_AUD2_d1t04.flac
+c58e45869ecdcf08192e980d68ecca49 *Nirvana_1993-12-05_AUD2_d1t05.flac
+e2cffce57bb1420587bd14fc60e43b9b *Nirvana_1993-12-05_AUD2_d1t06.flac
+77737fb49c68ecdb7c5baa2283ab7210 *Nirvana_1993-12-05_AUD2_d1t07.flac
+df4f17c65b6aee004163035ca919d4ee *Nirvana_1993-12-05_AUD2_d1t08.flac
+27ab4fc85c3abdf02a83a5a593f6c4b8 *Nirvana_1993-12-05_AUD2_d1t09.flac
+111bd495efdf94b483b578b641c6be9b *Nirvana_1993-12-05_AUD2_d1t10.flac
+df846937e85a52e7415105ea21ecd04c *Nirvana_1993-12-05_AUD2_d1t11.flac
+3b5eddd0082e25773b8d7c4e32dc22a0 *Nirvana_1993-12-05_AUD2_d1t12.flac
+aa891b1d7819c1fdb1e3baaa4ed1efb5 *Nirvana_1993-12-05_AUD2_d1t13.flac
+78aba64bb60a69390a20bc814321bc65 *Nirvana_1993-12-05_AUD2_d1t14.flac
+349922183832dd9aea41b19ba2d789a3 *Nirvana_1993-12-05_AUD2_d1t15.flac
+a57f3136e86adcf7c4577619fc9f5332 *Nirvana_1993-12-05_AUD2_d2t01.flac
+7a211872c79a9546844e4d34ac7d3557 *Nirvana_1993-12-05_AUD2_d2t02.flac
+8a185317de7880dbac31b1d7896b54d9 *Nirvana_1993-12-05_AUD2_d2t03.flac
+62cfea5730180eda0b8accf0e3f942c6 *Nirvana_1993-12-05_AUD2_d2t04.flac
+8c4a296750d1948957647d2df78718e6 *Nirvana_1993-12-05_AUD2_d2t05.flac
+517520ff4a5c8dcf6a4d34c1d2f9c45b *Nirvana_1993-12-05_AUD2_d2t06.flac
+3ed7a7d9dc78886829f01ef33ebc3fa5 *Nirvana_1993-12-05_AUD2_d2t07.flac
+1f9728340b8bf71ef8ce6df9d565ea0b *Nirvana_1993-12-05_AUD2_d2t08.flac
+e5c6bbe9f474a011b8e6bf2dd16e8f7f *Nirvana_1993-12-05_AUD2_d2t09.flac
+77e5f4e25d3914d8aab72c7a29fec723 *Nirvana_1993-12-05_AUD2_d2t10.flac
+2e1da30297c1a3f52b368c3a8bfb8ff2 *Nirvana_1993-12-05_AUD2_d2t11.flac
+
+TRANSFERRED BY:
+Kris Sproul
+
+PLEASE DO NOT SELL OR ENCODE TO MP3

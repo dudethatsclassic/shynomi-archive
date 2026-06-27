@@ -1,0 +1,61 @@
+NIRVANA
+November 30, 1991
+Queen Margaret Union, University of Glasgow
+Glasgow, United Kingdom 
+
+SOURCE (AUD #1b):
+unknown > unknown
+
+TRANSFER:
+Nakamichi CR-7A > Hosa RCA cable > PreSonus FireStudio Project > Adobe Audition 3.0 > CD Wave 1.98 > Trader's Little Helper 2.6.0
+
+GENERATION:
+ANA(2) > WAV [48kHz] > WAV [44.1kHz] > FLAC [Level 8]
+
+LENGTH:
+54:49
+
+TRACKS:
+01. L'Amour Est Un Oiseau Rebelle (jam)
+02. Drain You
+03. Aneurysm
+04. Lithium
+05. School
+06. Floyd The Barber
+07. Smells Like Teen Spirit
+08. About A Girl
+09. Polly
+10. Sliver
+11. Breed
+12. Come As You Are
+13. Been A Son
+14. All Apologies
+15. On A Plain (cuts in)
+16. unknown
+17. Rape Me
+18. Territorial Pissings
+
+MD5 FINGERPRINTS:
+81508b0be84eae5863541ab5619034cf *Nirvana_1991-11-30_AUD1b_t01.flac
+12a985fc788b9e089c143618438e8b96 *Nirvana_1991-11-30_AUD1b_t02.flac
+b09b9512324b456306e9f1ea41254486 *Nirvana_1991-11-30_AUD1b_t03.flac
+ab61cff4bc82095cd6bf992bba30d993 *Nirvana_1991-11-30_AUD1b_t04.flac
+2253e185b85a4360e0fc79bee0f44ca1 *Nirvana_1991-11-30_AUD1b_t05.flac
+ee70a96d38daecf9801c2b6a0e237463 *Nirvana_1991-11-30_AUD1b_t06.flac
+e8c4a0f7a3232c9eb807ccc170884b27 *Nirvana_1991-11-30_AUD1b_t07.flac
+88b8e0a70f4c66a682626c6779b74d28 *Nirvana_1991-11-30_AUD1b_t08.flac
+0d3ddcfd26aee6ee974dbe5c789574a8 *Nirvana_1991-11-30_AUD1b_t09.flac
+565c34ff6d295000a3118bc3101878f9 *Nirvana_1991-11-30_AUD1b_t10.flac
+3615d6ba5c26d0b04c5a406f5b2b4e10 *Nirvana_1991-11-30_AUD1b_t11.flac
+fa68bee7de168158abdaacb2015f19e9 *Nirvana_1991-11-30_AUD1b_t12.flac
+3bd3a5e0eac9dca0b1e47229784ff363 *Nirvana_1991-11-30_AUD1b_t13.flac
+cac111060aecf109cf0e43c201bd5316 *Nirvana_1991-11-30_AUD1b_t14.flac
+d1390518fe13d329974a56648b41c5c2 *Nirvana_1991-11-30_AUD1b_t15.flac
+6694882dcfccc60df612706c5c7812e5 *Nirvana_1991-11-30_AUD1b_t16.flac
+fc948945d2bb265732600d7a8306140e *Nirvana_1991-11-30_AUD1b_t17.flac
+ca8a4386ca7441a1092b685a830b8dc7 *Nirvana_1991-11-30_AUD1b_t18.flac
+
+TRANSFERRED BY:
+Mike Ziegler
+
+PLEASE DO NOT SELL OR ENCODE TO MP3

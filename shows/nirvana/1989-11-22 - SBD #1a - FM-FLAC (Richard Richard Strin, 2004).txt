@@ -1,0 +1,80 @@
+Nirvana - 1989-11-22
+Arena, Vienna, AUT
+
+cableFM broadcast (Station: FM4, sometime between 22:00-24:00, 2004-04-05)
+
+Source: lnth sbd#3
+cableFM > Onkyo T4711 > NAD 3020i > 
+
+Remaster/Tracking:
+ANA(cable) > WaveLab 4 > cooledit 2.0 (remaster) > cdwav 1.93 > FLAC frontend 1.7.1 > flac(m)
+
+Generation:
+cableFM > ANA(cable) > wav > remaster > wav > flac(m)
+
+Tagged in foobar2000.
+
+All done by:
+range_hood@yahoo.de
+
+Notes:
+FM4 is known to run their broadcasts somewhere trough a lossy stage (even their terrestrial one). 
+
+Length: 49:52
+
+Tracklist:
+00 - Station Intro
+01 - Intro
+02 - School
+03 - Scoff
+04 - Love Buzz
+05 - Floyd The Barber
+06 - Dive
+07 - About A Girl
+08 - Spank Thru
+09 - Big Cheese
+10 - Sappy
+11 - Breed
+12 - Been A Son
+13 - Negative Creep
+14 - Blew
+15 - Help Me I'm Hungry
+
+
+
+master fingerprints:
+nirvana1989-11-22-cableFM-t00.flac:d24acd820852a400ac87c0d3acb49f4a
+nirvana1989-11-22-cableFM-t01.flac:2909e408158ba536ee804cdad730e183
+nirvana1989-11-22-cableFM-t02.flac:823207a593255acad9cd184ad5a202cd
+nirvana1989-11-22-cableFM-t03.flac:1129dd714321a1a4f3391c0dccbbf4b0
+nirvana1989-11-22-cableFM-t04.flac:dc9fb412de6b2bf1ccbc8bfd623bb0d7
+nirvana1989-11-22-cableFM-t05.flac:105988e0caf12c0796e775e89ecf4d73
+nirvana1989-11-22-cableFM-t06.flac:309b0f8f4cac967b0c91993db46c4456
+nirvana1989-11-22-cableFM-t07.flac:6332d9de4916d264e02332d4890246d6
+nirvana1989-11-22-cableFM-t08.flac:f6b755be2de2a7044a70319724d5484b
+nirvana1989-11-22-cableFM-t09.flac:8098a530aadd1f2a8c93b5e8be64740f
+nirvana1989-11-22-cableFM-t10.flac:59c0fb776e87b81312c47214c1275cac
+nirvana1989-11-22-cableFM-t11.flac:f70485c048dea789159535c136a2f8f2
+nirvana1989-11-22-cableFM-t12.flac:03a9eb05c6a88f8d4894fa42a6ebe2cb
+nirvana1989-11-22-cableFM-t13.flac:871568a6d803274bc54eae32b8bc688f
+nirvana1989-11-22-cableFM-t14.flac:698bd009f40eb4cc510cefaa3cfc2129
+nirvana1989-11-22-cableFM-t15.flac:38c0ac06dea990f18f48032dedac6c56
+
+    length     expanded size   cdr  WAVE problems filename
+     0:12.02        2121548    ---   --   ---xx   nirvana1989-11-22-cableFM-t00.flac
+     0:48.47        8577788    ---   --   ---xx   nirvana1989-11-22-cableFM-t01.flac
+     2:49.69       29973932    ---   --   ---xx   nirvana1989-11-22-cableFM-t02.flac
+     4:04.52       43163948    ---   --   ---xx   nirvana1989-11-22-cableFM-t03.flac
+     3:32.57       37530908    ---   --   ---xx   nirvana1989-11-22-cableFM-t04.flac
+     2:20.54       24823052    ---   --   ---xx   nirvana1989-11-22-cableFM-t05.flac
+     5:36.21       59319836    ---   --   ---xx   nirvana1989-11-22-cableFM-t06.flac
+     2:43.37       28840268    ---   --   ---xx   nirvana1989-11-22-cableFM-t07.flac
+     3:03.52       32403548    ---   --   ---xx   nirvana1989-11-22-cableFM-t08.flac
+     3:43.01       39339596    ---   --   ---xx   nirvana1989-11-22-cableFM-t09.flac
+     3:18.22       34978988    ---   --   ---xx   nirvana1989-11-22-cableFM-t10.flac
+     4:04.03       43048700    ---   --   ---xx   nirvana1989-11-22-cableFM-t11.flac
+     2:18.66       24498476    ---   --   ---xx   nirvana1989-11-22-cableFM-t12.flac
+     2:30.59       26598812    ---   --   ---xx   nirvana1989-11-22-cableFM-t13.flac
+     5:32.66       58720076    ---   --   ---xx   nirvana1989-11-22-cableFM-t14.flac
+     3:21.12       35484668    ---   --   ---xx   nirvana1989-11-22-cableFM-t15.flac
+    50:01.20         504.90 MB                    (totals for 16 files, 0.6439 overall compression ratio)

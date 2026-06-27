@@ -1,0 +1,60 @@
+NIRVANA
+November 9, 1993
+Stabler Arena, Lehigh University
+Bethlehem, PA
+
+SOURCE (AMT #3):
+Realistic > Canon
+
+TRANSFER:
+Sony DCR-TRV730 > IEEE 1394 > Adobe Premiere Pro CS5 > Cinema Craft Encoder SP3 > Adobe Encore CS5
+
+GENERATION:
+8MM(M) [NTSC] > AVI [DV25] > M2V/WAV [8.0Mbps CBR/48kHz PCM] > DVDR(0)
+
+LENGTH:
+85:03
+
+TRACKS:
+01. Radio Friendly Unit Shifter
+02. Drain You
+03. Breed
+04. Serve The Servants
+05. About A Girl
+06. Heart-Shaped Box
+07. Sliver
+08. Dumb
+09. Come As You Are
+10. Lithium
+11. Pennyroyal Tea
+12. School
+13. Polly
+14. Milk It
+15. Rape Me
+16. Territorial Pissings
+17. Smells Like Teen Spirit
+18. All Apologies
+19. Jesus Wants Me For A Sunbeam
+20. In Bloom
+21. On A Plain
+22. Scentless Apprentice
+23. Blew
+
+MD5 FINGERPRINTS:
+58cc6f5e9da4a02fd8f9c6d40034c2e8 *VIDEO_TS\VIDEO_TS.BUP
+58cc6f5e9da4a02fd8f9c6d40034c2e8 *VIDEO_TS\VIDEO_TS.IFO
+9e97a772dfbeb773a17ae74d1e11dcd2 *VIDEO_TS\VIDEO_TS.VOB
+72edcf856919be434983cc2706abdfac *VIDEO_TS\VTS_01_0.BUP
+72edcf856919be434983cc2706abdfac *VIDEO_TS\VTS_01_0.IFO
+31d22fadfb25be37b750c9783a011f88 *VIDEO_TS\VTS_01_0.VOB
+c1cfc18ff85884c04fa1de860c71cfaf *VIDEO_TS\VTS_01_1.VOB
+e1a7140223b68b0a214b8c7b0a519ccc *VIDEO_TS\VTS_01_2.VOB
+051d2af4c9e67650fbaa8a8a146eb129 *VIDEO_TS\VTS_01_3.VOB
+702666de8bf99f4ffd80770cf187780e *VIDEO_TS\VTS_01_4.VOB
+ec5ea3808126992f4dee4a87eb33d0b5 *VIDEO_TS\VTS_01_5.VOB
+440d6c2abf13dd03f03a8538a8e48e49 *VIDEO_TS\VTS_01_6.VOB
+
+TRANSFERRED BY:
+Mike Ziegler
+
+PLEASE DO NOT SELL OR ENCODE TO ANY LOSSY FORMATS

@@ -1,0 +1,45 @@
+TAD & NIRVANA
+November 26th, 1989
+Bloom
+Mezzago, Italy
+
+SOURCE (AMT #1):
+built-in > Sony CCD-F500 (Video8)
+
+TRANSFER:
+JVC HRS-9500MS > Canopus ADVC-100 > Adobe Premiere CS5 > Adobe Audition 3.0 > FLAC Frontend 1.7.1
+
+GENERATION:
+8MM(M) > VHS(1) > AVI [DV25] > WAV [48kHz] > FLAC [Level 8]
+
+LENGTH:
+27:38
+
+TRACKS:
+01. TAD intro 
+02. Helot (TAD)
+03. Pork Chop (TAD)
+04. High On The Hog (Kurt with TAD)
+05. Ritual Device (Kurt with TAD)
+06. Nirvana intro
+07. School
+08. Love Buzz
+09. Big Cheese (cuts in)
+10. Negative Creep (cuts in, cuts out)
+
+MD5 FINGERPRINTS:
+9fda89d8a732ef96c4c87231f03eca82 *Tad_Nirvana_1989-11-26_amt1-vhs1_d1t01.flac
+f8c5aecc28e60783dd33496c9a1509d5 *Tad_Nirvana_1989-11-26_amt1-vhs1_d1t02.flac
+6404774b0867fffde118fc8836e4a8f9 *Tad_Nirvana_1989-11-26_amt1-vhs1_d1t03.flac
+888d902bdb10446f8aabf5bc2e37e435 *Tad_Nirvana_1989-11-26_amt1-vhs1_d1t04.flac
+2e341e6771d06bb1208db63cf02ca5ad *Tad_Nirvana_1989-11-26_amt1-vhs1_d1t05.flac
+bcf0962724bc378fe885a17451ca3bdd *Tad_Nirvana_1989-11-26_amt1-vhs1_d1t06.flac
+9d45431fb59ce408b0fbd9c37d256508 *Tad_Nirvana_1989-11-26_amt1-vhs1_d1t07.flac
+e3e8bc212884563960b4ddcaf44f762d *Tad_Nirvana_1989-11-26_amt1-vhs1_d1t08.flac
+6df9afbd75c0f7d394fb8cf9466fd9c2 *Tad_Nirvana_1989-11-26_amt1-vhs1_d1t09.flac
+ffaa45301d6907109b7e7b2810d9916e *Tad_Nirvana_1989-11-26_amt1-vhs1_d1t10.flac
+
+TRANSFERRED BY:
+Pierre Leroy
+
+**PLEASE DO NOT ENCODE TO LOSSY FORMATS OR SELL!**

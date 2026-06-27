@@ -1,0 +1,44 @@
+NIRVANA
+November 14, 1991
+Arena
+Vienna, Austria
+
+SOURCE (AMT #2):
+unknown > unknown
+
+RE-AUTHOR:
+Sony Optiarc AD-7260S > DVD Decrypter 3.5.4.0 > Adobe Encore CS5
+
+GENERATION:
+VHS(1) > DVDR(1) [NTSC/8Mbps/48kHz PCM] > re-author
+
+LENGTH:
+17:53
+
+NOTES:
+- Has built-in camcorder effects during most songs.
+
+TRACKS:
+01. Talk To Me (soundcheck) (cuts in)
+02. Oh, The Guilt (part of) (soundcheck)
+03. Drain You
+04. Aneurysm
+05. School (part of)
+06. jam
+07. School
+08. Floyd The Barber (cuts in, cuts out)
+
+MD5 FINGERPRINTS:
+3776193855589f20eb45a23a0b23c430 *VIDEO_TS\VIDEO_TS.BUP
+3776193855589f20eb45a23a0b23c430 *VIDEO_TS\VIDEO_TS.IFO
+ebf137909fb841b9a08fee50d55532e7 *VIDEO_TS\VIDEO_TS.VOB
+a51804decdfac841c5e8729637593630 *VIDEO_TS\VTS_01_0.BUP
+a51804decdfac841c5e8729637593630 *VIDEO_TS\VTS_01_0.IFO
+4bb8cd45e6b1a12afa81612da3988deb *VIDEO_TS\VTS_01_0.VOB
+67a5597d0d064c213bd9518eb1d615c0 *VIDEO_TS\VTS_01_1.VOB
+d51ccb860a1139a7d428c82e7c80bb7a *VIDEO_TS\VTS_01_2.VOB
+
+RE-AUTHOR BY:
+Mike Ziegler
+
+PLEASE DO NOT SELL OR ENCODE TO MP3

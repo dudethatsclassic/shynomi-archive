@@ -1,0 +1,65 @@
+NIRVANA
+February 22, 1992
+Palaghiaccio, Marino, 
+Italy
+
+DISC #1/1 (80:28)
+-----------------
+01) Radio Friendly Unit Shifter 
+02) Drain You 
+03) Breed 
+04) Serve The Servants 
+05) Come As You Are 
+06) Smells Like Teen Spirit 
+07) Sliver 
+08) Dumb 
+09) In Bloom 
+10) About A Girl 
+11) Lithium 
+12) Pennyroyal Tea 
+13) School 
+14) Polly 
+15) Very Ape 
+16) Lounge Act 
+17) Rape Me 
+18) Territorial Pissings 
+19) All Apologies 
+20) On A Plain 
+21) Scentless Apprentice 
+22) Heart-Shaped Box 
+23) jam
+
+GENERATION
+-----------------
+8MM(M) -> miniDV (1) -> AVI[DV25] -> M2V/AC3 [9.0Mbps CBR/48kHz 448kbps] -> DVD-R(0) [PAL]
+FM -> DAT(2) -> WAV[48kHz] -> AC3[48kHz/448kbps]
+
+SOURCE (AMT #1)
+-----------------
+built-in > Sony CCD-TR105E (8mm)
+
+TRANSFER
+-----------------
+Video 8 camcorder -> miniDV -> HDD -> Avisynth -> Adobe Premiere Pro 1.5 -> Sony DVD Architect 3.0
+
+MD5 FINGERPRINTS
+-----------------
+790e85c48e96fcf48994da10751b0724 *VIDEO_TS.BUP
+790e85c48e96fcf48994da10751b0724 *VIDEO_TS.IFO
+04cb2761789b31c8af8b74dd62baea71 *VIDEO_TS.VOB
+d3d5ad525e3748ed84d62dd44202c6e6 *VTS_01_0.BUP
+d3d5ad525e3748ed84d62dd44202c6e6 *VTS_01_0.IFO
+6c2226ccbcb1fda3b664b97b231b8281 *VTS_01_0.VOB
+67d6514ef9886046c513378c93431b2b *VTS_01_1.VOB
+a70220e0956380100a505796034cc103 *VTS_01_2.VOB
+d9ef63c23ed282ca3a80a902d535d9ea *VTS_01_3.VOB
+ddb85326d782d9956b166bf302390bf9 *VTS_01_4.VOB
+b13bf34838a59517c26fe542bf95af0b *VTS_01_5.VOB
+52ee4538ff6288c49e983c7c4eb00695 *VTS_01_6.VOB
+0c23f4123b4d1ab4745ac59b53a22403 *VTS_02_0.BUP
+0c23f4123b4d1ab4745ac59b53a22403 *VTS_02_0.IFO
+bce1e8bf22f54c0258067eeff09722fa *VTS_02_1.VOB
+
+
+Tape provided by Paolo Varesi, transferred by Francisco Ortiz
+PLEASE LEAVE AS DVDR, DO NOT EDIT OR SHRINK !

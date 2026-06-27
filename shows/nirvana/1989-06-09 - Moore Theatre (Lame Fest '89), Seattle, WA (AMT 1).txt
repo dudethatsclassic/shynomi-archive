@@ -1,0 +1,68 @@
+Nirvana - Miscellaneous Videos
+
+Generation: VARIOUS (see below) - MD5 Checksum
+Source: VARIOUS
+Length: mins
+
+Transferred by: Mike Ziegler
+Video: 8 mb/s MPEG2
+Audio: PCM
+Equipment: JVC HR-S9911U -> Sony DCR-TRV460 -> IEEE 1394 -> Adobe Premiere Pro 2.0 -> TMPGEnc Plus 2.5 -> Adobe Encore DVD 2.0
+
+Set:
+
+    * 06/09/89 - Moore Theatre (Lame Fest '89), Seattle, WA - AMT #1
+      Blew - VHS(4)
+    * 1989 - Things Kurt recorded off TV
+      TV -> VHS(1)
+    * 1992 - King 5 Seattle news report
+      TV -> VHS(x)
+    * 1992 - MTV News report
+      TV -> VHS(1)
+    * 1995 - "The Hole Story" on Kurt
+      TV -> VHS(1)
+    * 1997 - MTV News report
+      TV -> VHS(1)
+    * 1999 - Bravo TV special
+      TV -> VHS(2)
+
+
+Generation: various (see above) -> AVI [DV25] -> M2V/WAV [8Mbps CBR/48kHz PCM] -> DVDR(0)
+
+
+MD5 FINGERPRINTS
+-----------------
+c915c39e53d3477f3654def1123a8796 *VIDEO_TS/VIDEO_TS.BUP
+c915c39e53d3477f3654def1123a8796 *VIDEO_TS/VIDEO_TS.IFO
+1efd6691b50aee6caf7bfc2e1ad1203e *VIDEO_TS/VIDEO_TS.VOB
+e03a00fa9ce586a4d120f0e249009fc2 *VIDEO_TS/VTS_01_0.BUP
+e03a00fa9ce586a4d120f0e249009fc2 *VIDEO_TS/VTS_01_0.IFO
+53d46f67d32cec8ccffd73316dcfc9b2 *VIDEO_TS/VTS_01_0.VOB
+bea7b1de9179645897c0ca1c7ee63f73 *VIDEO_TS/VTS_01_1.VOB
+c4dcc5971b0fefccd6b778b4d9b6505a *VIDEO_TS/VTS_02_0.BUP
+c4dcc5971b0fefccd6b778b4d9b6505a *VIDEO_TS/VTS_02_0.IFO
+e62c72497b02229b55bdb3d7f882c295 *VIDEO_TS/VTS_02_0.VOB
+cd0fce82c499b4378bf3a393c9afa940 *VIDEO_TS/VTS_02_1.VOB
+dec1464ff62c89a2c030d8b566d74ff7 *VIDEO_TS/VTS_03_0.BUP
+dec1464ff62c89a2c030d8b566d74ff7 *VIDEO_TS/VTS_03_0.IFO
+1efd6691b50aee6caf7bfc2e1ad1203e *VIDEO_TS/VTS_03_0.VOB
+3d880b4da362e3049afd138900f059f5 *VIDEO_TS/VTS_03_1.VOB
+faabb702cb6120f1b75fdec4869bdec9 *VIDEO_TS/VTS_04_0.BUP
+faabb702cb6120f1b75fdec4869bdec9 *VIDEO_TS/VTS_04_0.IFO
+1efd6691b50aee6caf7bfc2e1ad1203e *VIDEO_TS/VTS_04_0.VOB
+f866689aa44f322293c2c58715ca9391 *VIDEO_TS/VTS_04_1.VOB
+b2b1c1b8dce452a96f357298d8e65c7e *VIDEO_TS/VTS_05_0.BUP
+b2b1c1b8dce452a96f357298d8e65c7e *VIDEO_TS/VTS_05_0.IFO
+1efd6691b50aee6caf7bfc2e1ad1203e *VIDEO_TS/VTS_05_0.VOB
+bf871562c0292fd5fe1637bcade10fc3 *VIDEO_TS/VTS_05_1.VOB
+9389b87f95596b1a28bf550da33c65d2 *VIDEO_TS/VTS_06_0.BUP
+9389b87f95596b1a28bf550da33c65d2 *VIDEO_TS/VTS_06_0.IFO
+1efd6691b50aee6caf7bfc2e1ad1203e *VIDEO_TS/VTS_06_0.VOB
+09dae0a79701035defc39e969c6a52b8 *VIDEO_TS/VTS_06_1.VOB
+1b50a1c9cd442154cd35e0ad51d238b5 *VIDEO_TS/VTS_07_0.BUP
+1b50a1c9cd442154cd35e0ad51d238b5 *VIDEO_TS/VTS_07_0.IFO
+1efd6691b50aee6caf7bfc2e1ad1203e *VIDEO_TS/VTS_07_0.VOB
+d70fc5c1cba5f015afce22916f4efe9b *VIDEO_TS/VTS_07_1.VOB
+
+
+PLEASE DO NOT ENCODE TO ANY OTHER FORMAT OR SELL!

@@ -1,0 +1,57 @@
+NIRVANA
+July 2, 1992
+Plaza de Toros de Valencia
+Valencia, Spain
+
+SOURCE (AMT #1):
+unknown > unknown
+
+GENERATION:
+VHS(2) > MDV(1) > DVDR(0) [NTSC 7.0Mbps CBR, LPCM]
+
+LENGTH:
+72:46
+
+TRACKS:
+01. intro
+02. The Money Will Roll Right In
+03. Breed
+04. Sliver
+05. Drain You
+06. Scoff
+07. In Bloom
+08. About A Girl
+09. School
+10. Lithium
+11. Aneurysm
+12. Polly
+13. Stay Away
+14. Stain
+15. Been A Son
+16. On A Plain
+17. Negative Creep
+18. Come As You Are
+19. Love Buzz
+20. Smells Like Teen Spirit
+21. Territorial Pissings
+
+TRANSFER:
+Unknown MDV > Pinnacle DC-1000 > Adobe Premiere 6.5 + Cool Edit Pro 1.2a > Sonic Scenarist 2.7
+
+NOTES:
+- Remastered
+- Directly from Jim's hard drive !
+
+MD5 FINGERPRINTS:
+2da763ad86ab166aa5293c688e38a458 *VIDEO_TS\VIDEO_TS.BUP
+2da763ad86ab166aa5293c688e38a458 *VIDEO_TS\VIDEO_TS.IFO
+1204fb2963caa8228c14c45ca25256cf *VIDEO_TS\VTS_01_0.BUP
+1204fb2963caa8228c14c45ca25256cf *VIDEO_TS\VTS_01_0.IFO
+1a44d2a9d5c9f23bf7c6211b6ad6a7e9 *VIDEO_TS\VTS_01_0.VOB
+b82a0ab717a9423f4e401928db569366 *VIDEO_TS\VTS_01_1.VOB
+11b55f43ac0f230d16d756e0ae86b181 *VIDEO_TS\VTS_01_2.VOB
+f1628fd0e58cd1123fb1ce9b31ad36c1 *VIDEO_TS\VTS_01_3.VOB
+d10e18b445a7d1fec7badee58a1e9635 *VIDEO_TS\VTS_01_4.VOB
+
+TRANSFERRED BY:
+Jim Hirte

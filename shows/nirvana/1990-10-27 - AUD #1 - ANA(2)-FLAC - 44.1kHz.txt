@@ -1,0 +1,74 @@
+NIRVANA
+October 27, 1990
+Byron Building, Trent Polytechnic
+Nottingham, United Kingdom
+
+DISC #1/1 (78:27)
+-----------------
+01) intro
+02) Blew
+03) Been A Son
+04) Negative Creep
+05) Stain
+06) Lithium
+07) Spank Thru
+08) Breed
+09) About A Girl
+10) Dive
+11) Sliver
+12) Big Cheese
+13) Floyd The Barber
+14) Polly
+15) Scoff
+16) Love Buzz (cut)
+17) D-7
+18) Son Of A Gun
+19) Molly's Lips
+20) In Bloom
+21) School
+22) Paper Cuts
+23) Stay Away
+24) Do Nuts
+
+GENERATION
+-----------------
+ANA(2) -> WAV [48kHz] -> WAV [44.1kHz] -> FLAC [Level 8]
+
+SOURCE (AUD#1)
+-----------------
+unknown -> unknown
+
+TRANSFER
+-----------------
+Nakamichi DR-8 -> Hosa RCA cable -> LynxONE analog-in -> Adobe Audition 1.5 -> CD Wave 1.94.5 -> FLAC Frontend 1.7.1
+
+MD5 FINGERPRINTS
+-----------------
+33d9558f2c0ecd2cf4a6f1a67d947870 *nirvana1990-10-27t01.flac
+87ccbce8613cebd811b286935f3d3eee *nirvana1990-10-27t02.flac
+1735ee5459cbdad100fa11f0450ef9d9 *nirvana1990-10-27t03.flac
+0e1ba3b083a286a2f53f600b0f64c3ff *nirvana1990-10-27t04.flac
+e1a9c710327b41eacc17e35eb09b7361 *nirvana1990-10-27t05.flac
+01c248bf56506c432a9e3182360f75f3 *nirvana1990-10-27t06.flac
+d929fd1e6aa02c45211fe62fd49d5b91 *nirvana1990-10-27t07.flac
+c847c6b65ddc398e2995aa5fe2723e7b *nirvana1990-10-27t08.flac
+548d042a69ae5971d1359ca91e56d0be *nirvana1990-10-27t09.flac
+eefb01b17d01b41a5a2592d877ce1c65 *nirvana1990-10-27t10.flac
+e2d1639bffdb7215e02337429ae7bc1f *nirvana1990-10-27t11.flac
+c4862c6296ea943f9a9d2206dc21632b *nirvana1990-10-27t12.flac
+611daac3ee21615593b2f3c62625d4b4 *nirvana1990-10-27t13.flac
+fafe2eb9ee5d0ab860f9c7b0c1ae41d3 *nirvana1990-10-27t14.flac
+e82311dc6fa2b31484b692b07cc9836f *nirvana1990-10-27t15.flac
+e3d4c0dc9b9545e4684f3e9cfcddc788 *nirvana1990-10-27t16.flac
+d47175b4c6e02221e267bb2b44ba5e12 *nirvana1990-10-27t17.flac
+45153030e5deda3b831e7faa184dc4c7 *nirvana1990-10-27t18.flac
+226123eef60257d22e5ccc98ea21bcba *nirvana1990-10-27t19.flac
+0d478d7a5b01cf570c9b14115ee45994 *nirvana1990-10-27t20.flac
+b4746b9f32538f9d271095314163d7ee *nirvana1990-10-27t21.flac
+2a32950fd6e25b4e09056edd64b35317 *nirvana1990-10-27t22.flac
+95f949ee099cf08c9cbdc7429a76b638 *nirvana1990-10-27t23.flac
+a821f04b2a2999063be16da01a641f00 *nirvana1990-10-27t24.flac
+
+
+Transferred by Mike Ziegler.
+PLEASE DO NOT ENCODE TO MP3 OR SELL!

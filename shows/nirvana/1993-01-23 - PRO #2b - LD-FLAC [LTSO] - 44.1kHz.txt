@@ -1,0 +1,32 @@
+NIRVANA
+January 23, 1993
+Praça da Apoteose (Hollywood Rock Festival)
+Rio de Janeiro, Brazil
+
+DISC #1/1 (06:19)
+-----------------
+01) Sweet Emotion (jam)
+02) Dive
+03) Aneurysm (cuts in & out)
+
+SOURCE (PRO #2b)
+-----------------
+soundboard > unknown
+
+GENERATION
+-----------------
+Official Laserdisc "Live! Tonight! Sold Out!!" -> WAV [44.1kHz] -> FLAC [Level 8]
+
+TRANSFER
+-----------------
+Pioneer CLD-2850 -> Optical Cable -> Sony MZ-NH700 (HiMD) -> SonicStage 4.3 -> Adobe Audition 3.0 -> CD Wave 1.98 -> Flac Frontend 1.7.1
+
+MD5 FINGERPRINTS
+-----------------
+67b5137f60ad14112b13be570edbf788 *Nirvana_1993-01-23_PRO2b_t01.flac
+31bb7b53544e208e38b64dbb2131a011 *Nirvana_1993-01-23_PRO2b_t02.flac
+a6e490eea43d89bd9086c0783eaed3e8 *Nirvana_1993-01-23_PRO2b_t03.flac
+
+Transferred by VL.
+Edited by PL.
+PLEASE DO NOT ENCODE TO MP3 OR SELL!

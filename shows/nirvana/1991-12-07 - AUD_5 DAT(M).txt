@@ -1,0 +1,62 @@
+NIRVANA
+December 7, 1991
+Salle Omnisports (Trans Musicales)
+Rennes, France
+
+SOURCE (AUD #5)
+-----------------
+Sony PC-62 -> Sony TCD-D3 (tape : JVC R90XD)
+
+GENERATION
+-----------------
+DAT(M) [16bits/48Khz] -> WAV [48kHz] -> WAV [44.1kHz] -> FLAC [Level 8]
+
+TRANSFER
+-----------------
+Pioneer D05 -> Creative SoundBlaster Xfi Fatality via S/PDIF -> Magix Audio & Music Lab Premium 22.0.1.22 (2016) -> CDWave 1.73 -> flac8 (Trader's Little Helper 2.7.0)
+
+LENGTH
+-----------------
+49:58
+
+TRACKS 
+-----------------
+01. Baba O'Riley [The Who cover, with Grohl and Novoselic on vocals]
+02. Jesus Wants Me For A Sunbeam [traditional, cover]
+03. Drain You
+04. Aneurysm
+05. School
+06. Smells Like Teen Spirit
+07. About A Girl
+08. Polly
+09. Sliver
+10. Breed
+11. Been A Son
+12. Negative Creep
+13. On A Plain
+14. Blew
+15. taper's commentary
+
+MD5 FINGERPRINTS
+-----------------
+da5bd5839854d6192107fcf5c7dd17c6 *01. Baba O'Riley.flac
+4262c8f77d96e7af724983ed15a1882a *02. Jesus Wants Me For A Sunbeam.flac
+9d14f44453bb57eb2630f883716396d8 *03. Drain You.flac
+0ccc6c268c329f97c5290efe44ce8463 *04. Aneurysm.flac
+85a1036e78b1375439eea2acc7a5c306 *05. School.flac
+1253f6d64aae3a2f1798c71d8bacfff0 *06. Smells Like Teen Spirit.flac
+d8d9862fc48811cbd7781b8e9f9b4991 *07. About A Girl.flac
+85b0bd50608bdf284f0711b8d3d91fdb *08. Polly.flac
+fe5be962311d2e182a641e356e4885bb *09. Sliver.flac
+2d6ed5f45712f4e00755081aadf16b46 *10. Breed.flac
+e05d42aa74e2eec30519ed54f7901d22 *11. Been A Son.flac
+df20a8cbcd1f24a036389c4851b42695 *12. Negative Creep.flac
+da58d69cbec3104bee882603ac8dd65d *13. On A Plain.flac
+9f7e2259727ecc984439532c49b18b91 *14. Blew.flac
+64fe8363703ccef3a19a0cc093cabb2a *15. taper's commentary.flac
+
+Recorded & Transferred by Kissamos
+Track split & flac conversion by Nicolas Ferry for LiveNirvana.com
+November 2019
+
+PLEASE DO NOT SELL OR ENCODE TO MP3

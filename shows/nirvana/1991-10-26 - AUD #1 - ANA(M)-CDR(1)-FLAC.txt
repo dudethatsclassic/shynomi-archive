@@ -1,0 +1,62 @@
+NIRVANA
+October 26, 1991
+Warfield Theatre
+San Francisco, CA
+
+DISC #1/1 (60:39)
+-----------------
+01) Jesus Wants Me For A Sunbeam
+02) Aneurysm
+03) Drain You
+04) School
+05) Floyd The Barber
+06) Smells Like Teen Spirit (cut)
+07) About A Girl
+08) Polly
+09) Breed
+10) Sliver
+11) Lithium
+12) Love Buzz
+13) On A Plain
+14) Negative Creep (cut)
+15) Blew
+16) Dive
+17) Rape Me
+18) Territorial Pissings
+
+GENERATION
+-----------------
+ANA(M) -> CDR(1) -> WAV [44.1kHz] -> FLAC [Level 8]
+
+SOURCE (AUD#1)
+-----------------
+Sony ECM-909 -> Sony WM-D6C
+
+EXTRACTION
+-----------------
+Plextor PlexWriter PX-W4824A -> Exact Audio Copy V0.95 -> Adobe Audition 2.0 -> CD Wave 1.95.1 -> FLAC Frontend 1.7.1
+
+MD5 FINGERPRINTS
+-----------------
+3b95df6cd68bce91c5ba232829e531e6 *nirvana1991-10-26t01.flac
+8da315372a7eb49f3722eade20aab2ac *nirvana1991-10-26t02.flac
+2f86015fb02e3d83106644a651ff75ec *nirvana1991-10-26t03.flac
+5682835657d5344a6f40801da7e0e03d *nirvana1991-10-26t04.flac
+de741d6667a23baef219a157fb04a964 *nirvana1991-10-26t05.flac
+d992f5a5367c29ae97afa2d6d003bf6a *nirvana1991-10-26t06.flac
+e5f1bd98317bcfe5a783f7131581b00a *nirvana1991-10-26t07.flac
+18de7eda4227fed832e25f8fd0f471ea *nirvana1991-10-26t08.flac
+d4c1c2dd4d9b23a777a5c1c45c99dbca *nirvana1991-10-26t09.flac
+659fbebc2cbf21baf6c3d212b9c94575 *nirvana1991-10-26t10.flac
+8352c3a4bbb9c6341dba4fcad697bb72 *nirvana1991-10-26t11.flac
+20bd0049c575e2d94c62eb9b3cab2325 *nirvana1991-10-26t12.flac
+06574efecffc26349bd97e0c2ddd4260 *nirvana1991-10-26t13.flac
+7a5acae40d1a791bee0850fd6ad9466c *nirvana1991-10-26t14.flac
+794e6e876bae37a38030502db47db192 *nirvana1991-10-26t15.flac
+f113148aa4b29eaa3efa7278757d77de *nirvana1991-10-26t16.flac
+a0de6b7504b36792c2d7ae0af1b78729 *nirvana1991-10-26t17.flac
+73917ea3b5c9a01cfb97dba3b235c39e *nirvana1991-10-26t18.flac
+
+ 
+Extracted by Mike Ziegler.
+PLEASE DO NOT ENCODE TO MP3 OR SELL!

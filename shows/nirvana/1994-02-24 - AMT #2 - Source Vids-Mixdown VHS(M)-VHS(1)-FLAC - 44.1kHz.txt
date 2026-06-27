@@ -1,0 +1,75 @@
+NIRVANA
+February 24, 1994
+Palatrussardi
+Milan, Italy
+
+DISC #1/2 (39:41)
+-----------------
+01) intro
+02) Radio Friendly Unit Shifter
+03) Drain You
+04) Breed
+05) Serve The Servants
+06) Come As You Are
+07) Smells Like Teen Spirit
+08) Sliver
+09) Dumb
+10) In Bloom
+11) About A Girl
+12) Lithium
+
+DISC #2/2 (41:38)
+-----------------
+01) Pennyroyal Tea
+02) School
+03) Polly
+04) Very Ape
+05) Lounge Act
+06) Rape Me
+07) Territorial Pissings
+08) All Apologies
+09) On A Plain
+10) Blew
+11) Heart-Shaped Box
+
+GENERATION
+-----------------
+Mixdown VHS(M) -> VHS(1) -> WAV [48kHz] -> WAV [44.1kHz] -> FLAC [Level 8]
+
+SOURCE (AMT#2)
+-----------------
+unknown -> unknown
+
+TRANSFER
+-----------------
+JVC HR-S9500 -> Hosa RCA cable -> LynxONE analog-in -> Adobe Audition 3.0 -> CD Wave 1.96.1 -> FLAC Frontend 1.7.1
+
+MD5 FINGERPRINTS
+-----------------
+4daf4da94cb7715470a9757264af6423 *nirvana1994-02-24d1t01.flac
+b7281133d37a0634da11bab2bfd79e02 *nirvana1994-02-24d1t02.flac
+56c73e7c276bfd3e17dfb23c3ea79dad *nirvana1994-02-24d1t03.flac
+c2f85dd638f6476556de43cdcb12de97 *nirvana1994-02-24d1t04.flac
+a3dfa89b2e7bb3277c98e349028243dd *nirvana1994-02-24d1t05.flac
+85d93fb0fa803cd6e0f69985ba9dd49f *nirvana1994-02-24d1t06.flac
+34436422995448e40764a62e053d9aff *nirvana1994-02-24d1t07.flac
+d315f6f33d4ebf3282a07af0fd63e85e *nirvana1994-02-24d1t08.flac
+0c2731c3e0436df7c0c2f02ac47c1624 *nirvana1994-02-24d1t09.flac
+8c302b2acdf8e4ea17411279134bef33 *nirvana1994-02-24d1t10.flac
+f1d4bd36175a70df309671b1734d7950 *nirvana1994-02-24d1t11.flac
+0a104aaa00b3301f4d832d03a8c15c83 *nirvana1994-02-24d1t12.flac
+93b61553bf28a83302158d34656b4d74 *nirvana1994-02-24d2t01.flac
+d1d7b00e0de59e28ea9a98d0591fd5d9 *nirvana1994-02-24d2t02.flac
+055292219290d37fd38fe4cdab4f0a14 *nirvana1994-02-24d2t03.flac
+2086ef0a596f0ccd2605ba8cee114e0f *nirvana1994-02-24d2t04.flac
+19f462c4b60909bd4247c3fa39ec8d56 *nirvana1994-02-24d2t05.flac
+5f010ee273ce23990f583dc212786fae *nirvana1994-02-24d2t06.flac
+67334f4ad77a0dd958307eebacffd053 *nirvana1994-02-24d2t07.flac
+3440dc414ad2449541ff6c0afa67b8a5 *nirvana1994-02-24d2t08.flac
+72feed72f4cab2ad7857dc60d8ec8a43 *nirvana1994-02-24d2t09.flac
+54b4764312a82d00c01ec5f7e303e774 *nirvana1994-02-24d2t10.flac
+d7989b373f881629000bb3f82da730ba *nirvana1994-02-24d2t11.flac
+
+
+Transferred by Mike Ziegler.
+PLEASE DO NOT ENCODE TO MP3 OR SELL!

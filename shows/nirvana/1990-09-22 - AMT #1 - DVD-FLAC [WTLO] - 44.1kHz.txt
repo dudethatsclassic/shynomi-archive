@@ -1,0 +1,32 @@
+NIRVANA
+September 22, 1990
+Motor Sports International and Garage
+Seattle, WA
+
+DISC #1/1 (05:58)
+-----------------
+01) School
+
+SOURCE (AMT #1)
+-----------------
+unknown > unknown
+
+GENERATION
+-----------------
+Official DVD "With The Lights Out" -> WAV [48kHz] -> WAV [44.1kHz] -> FLAC [Level 8]
+
+EXTRACTION
+-----------------
+Lite-On iHBS-112 -> DVD Decrypter 3.5.4.0 -> Adobe Audition 3.0 -> FLAC Frontend 1.7.1
+
+NOTES
+-----------------
+- includes the end-of-show destruction
+
+MD5 FINGERPRINTS
+-----------------
+763c64063e4853383a479d0b62d57a63 *nirvana_1990-09-22_amt1_dvd-flac_t01.flac
+
+Extracted by PL.
+PLEASE DO NOT ENCODE TO MP3 OR SELL!
+NO TRADE

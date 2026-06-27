@@ -1,0 +1,41 @@
+NIRVANA
+October 14, 1991
+Northern Lights
+Minneapolis, MN
+
+SOURCE (AUD #1):
+unknown > unknown
+
+TRANSFER:
+Tascam DA-20mkII > Apogee S/PDIF cable > PreSonus FireStudio Project > Adobe Audition 3.0 > CD Wave 1.98 > FLAC frontend 1.7.1
+
+GENERATION:
+ANA(1) > DAT(1) [48kHz] > WAV [48kHz] > WAV [44.1kHz] > FLAC [Level 8]
+
+LENGTH:
+25:14
+
+TRACKS:
+01. Where Did You Sleep Last Night
+02. Dumb
+03. About A Girl
+04. I Feel Fine (jam)
+05. Jesus Wants Me For A Sunbeam
+06. Been A Son
+07. Something In The Way
+08. Negative Creep
+
+MD5 FINGERPRINTS:
+a35203c3482d60f38014d4da743b265b *Nirvana_1991-10-14_early_AUD1_t01.flac
+648f33ea6fd473883fce92776327c27d *Nirvana_1991-10-14_early_AUD1_t02.flac
+42a05bb6daa8329e15e94682aa32133b *Nirvana_1991-10-14_early_AUD1_t03.flac
+83b98377f3df02749c21e69442801c24 *Nirvana_1991-10-14_early_AUD1_t04.flac
+ff46aa9c610afb6e4bb63eccc564eece *Nirvana_1991-10-14_early_AUD1_t05.flac
+277ce0d2c72f3274022ff6cc9fefc65d *Nirvana_1991-10-14_early_AUD1_t06.flac
+755af010a45acc5216ea7a03c8ea5588 *Nirvana_1991-10-14_early_AUD1_t07.flac
+550c1ceadb2195371745329a3dc0d81a *Nirvana_1991-10-14_early_AUD1_t08.flac
+
+TRANSFERRED BY:
+Mike Ziegler
+
+PLEASE DO NOT SELL OR ENCODE TO MP3

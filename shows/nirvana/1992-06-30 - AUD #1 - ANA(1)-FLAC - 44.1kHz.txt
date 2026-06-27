@@ -1,0 +1,73 @@
+NIRVANA
+June 30, 1992
+Sjöhistoriska Museet
+Stockholm, Sweden
+
+DISC #1/2 (44:43)
+-----------------
+01) intro
+02) The Money Will Roll Right In
+03) Breed
+04) Sliver
+05) Drain You
+06) Scoff
+07) D-7
+08) In Bloom
+09) About A Girl
+10) School
+11) Lithium
+12) Aneurysm
+
+DISC #2/2 (42:18)
+-----------------
+01) Polly
+02) Stay Away
+03) Son Of A Gun
+04) Stain
+05) On A Plain
+06) Been A Son
+07) Negative Creep
+08) Blew
+09) Smells Like Teen Spirit
+10) Territorial Pissings
+
+GENERATION
+-----------------
+ANA(1) -> WAV [48kHz] -> WAV [44.1kHz] -> FLAC [Level 8]
+
+SOURCE (AUD#1)
+-----------------
+unknown -> Sony WM-D6
+
+TRANSFER
+-----------------
+Nakamichi DR-8 -> Hosa RCA cable -> LynxONE analog-in -> Adobe Audition 1.5 -> CD Wave 1.94.5 -> FLAC Frontend 1.7.1
+
+MD5 FINGERPRINTS
+-----------------
+c71aada50f5793bf6b71b177ffbf1e5e *nirvana1992-06-30d1t01.flac
+3a5583088b8d9ab2320bf87f6aad6576 *nirvana1992-06-30d1t02.flac
+6624abed9d66164073cc62e071e46417 *nirvana1992-06-30d1t03.flac
+5fc28638692e6edfb4332bba3beb63ea *nirvana1992-06-30d1t04.flac
+2986a50c1c1408466bddd7d5dd5fadf2 *nirvana1992-06-30d1t05.flac
+2a6425e66e872834e75bf0390afcde55 *nirvana1992-06-30d1t06.flac
+66a202ff7032606b7483e128c8344f6d *nirvana1992-06-30d1t07.flac
+aac8e58ae73f4e76c0104f018c94e038 *nirvana1992-06-30d1t08.flac
+2d40aeb2614e7e85bc1b68a3744a29d6 *nirvana1992-06-30d1t09.flac
+92a56a97228f0e5014d4da0ad55df583 *nirvana1992-06-30d1t10.flac
+2bf793f9be1b1879890cfb9232929bcf *nirvana1992-06-30d1t11.flac
+5ceb74ba778eac1ae3adc0deb12c7ab8 *nirvana1992-06-30d1t12.flac
+50040680ecf83fe73b05be54503a0495 *nirvana1992-06-30d2t01.flac
+21d947426543ce6befbdbf11497ffe34 *nirvana1992-06-30d2t02.flac
+1ce8adb94209520ff226e43ce28438a1 *nirvana1992-06-30d2t03.flac
+fd335a8bd36f44989f6ffa2a44b7acab *nirvana1992-06-30d2t04.flac
+cdf85a7400abae32a8022f4f42c89eb9 *nirvana1992-06-30d2t05.flac
+56067289c0ed6c2a34a7e3c3f4f42b32 *nirvana1992-06-30d2t06.flac
+a360ffe8c385d92d63cab9e56cdb3f7d *nirvana1992-06-30d2t07.flac
+c61d9d94e5f840f4b5cc9d3ce8a6dfe4 *nirvana1992-06-30d2t08.flac
+85146e2475e68bb4398301083c89f317 *nirvana1992-06-30d2t09.flac
+a8c2c45a6c3c974a4ecab47d88243a7c *nirvana1992-06-30d2t10.flac
+
+
+Transferred by Mike Ziegler.
+PLEASE DO NOT ENCODE TO MP3 OR SELL!

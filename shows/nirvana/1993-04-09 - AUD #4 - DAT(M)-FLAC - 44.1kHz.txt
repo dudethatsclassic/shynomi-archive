@@ -1,0 +1,79 @@
+NIRVANA
+April 9, 1993
+Cow Palace (Bosnian Rape Victim Benefit)
+San Francisco, CA
+
+DISC #1/2 (49:54)
+-----------------
+01) intro
+02) Rape Me
+03) School
+04) Breed
+05) Sliver
+06) Come As You Are
+07) Milk It
+08) About A Girl
+09) Lithium
+10) Dumb
+11) Frances Farmer Will Have Her Revenge On Seattle
+12) Serve The Servants
+13) Aneurysm
+14) Smells Like Teen Spirit
+15) Territorial Pissings
+
+DISC #2/2 (42:58)
+-----------------
+01) Blew
+02) All Apologies
+03) Heart-Shaped Box
+04) Scentless Apprentice
+05) Something In the Way
+06) Negative Creep
+07) Been A Son
+08) Dive
+09) Love Buzz
+10) Endless, Nameless
+
+GENERATION
+-----------------
+DAT(M) -> WAV [48kHz] -> WAV [44.1kHz] -> FLAC [Level 8]
+
+SOURCE (AUD#4)
+-----------------
+Sonic Studios DSM-3 -> Sony TCD-D3
+
+TRANSFER
+-----------------
+Archive Python DDS -> read_dat.c -> Cool Edit Pro 2.0 -> CD Wave 1.93 beta -> FLAC frontend 1.7.1
+
+MD5 FINGERPRINTS
+-----------------
+772109437809d79bba020140f9c1b6c1 *nirvana1993-04-09d1t01.flac
+8c40e634b8f7b048cf123b6605e529a4 *nirvana1993-04-09d1t02.flac
+2610747ca7eace069e5a1cdc2dd98027 *nirvana1993-04-09d1t03.flac
+f58e84530b0215887732fa36bd655639 *nirvana1993-04-09d1t04.flac
+e7ae38505b1f1ca89631ada5a853fa02 *nirvana1993-04-09d1t05.flac
+24269f2c584998a604d31c262fad29e7 *nirvana1993-04-09d1t06.flac
+997557102ccf1bcaefe80b63955bee2e *nirvana1993-04-09d1t07.flac
+9b1ac518f9a80c994acce83d992afb71 *nirvana1993-04-09d1t08.flac
+744c75bd7dc8d50b031ee771c44bec04 *nirvana1993-04-09d1t09.flac
+fc99b7685e5e20a45ab4c1891b32703c *nirvana1993-04-09d1t10.flac
+488e80f91b06584f8999115251db0201 *nirvana1993-04-09d1t11.flac
+cc05e96a3fa6009c4cd29b0551192d20 *nirvana1993-04-09d1t12.flac
+62aed5b51502f64583a4dbdc1afeeb21 *nirvana1993-04-09d1t13.flac
+1ee0645b9c52a5790e0e41e32205cf93 *nirvana1993-04-09d1t14.flac
+e78005461db5a45d30ab5de2e63889f8 *nirvana1993-04-09d1t15.flac
+012d0d873020a1dc75e3717cc4575d5c *nirvana1993-04-09d2t01.flac
+0c05a72e5b30175a53a156b35a031723 *nirvana1993-04-09d2t02.flac
+bcc3e8d3598a65819fde371173861d63 *nirvana1993-04-09d2t03.flac
+24b48e467ecf1e295d474c5627edd9b8 *nirvana1993-04-09d2t04.flac
+8ecf23a787aefa1c3289cd6e28a20099 *nirvana1993-04-09d2t05.flac
+00e0399ad1716f9aea4feec4b4cc9b58 *nirvana1993-04-09d2t06.flac
+86b069be5f0dc6bc3015d54c01e82e8a *nirvana1993-04-09d2t07.flac
+733114fe838f9b53aa1665eeb8bb883e *nirvana1993-04-09d2t08.flac
+81d4063be75ad9e7d4a808728c6e55db *nirvana1993-04-09d2t09.flac
+70e7acc898dc884c710ebd85771f0fd5 *nirvana1993-04-09d2t10.flac
+
+
+Transferred by Fred Labat.
+PLEASE DO NOT ENCODE TO MP3 OR SELL!

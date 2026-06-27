@@ -1,0 +1,53 @@
+NIRVANA
+November 19, 1991
+Teatro Castello
+Rome, Italy
+
+SETLIST
+-----------------
+01) Aneurysm
+02) School
+03) Floyd The Barber
+04) Smells Like Teen Spirit
+05) About A Girl
+06) Polly
+07) Lithium
+08) Sliver
+09) Come As You Are
+10) Breed
+11) Been A Son
+12) Negative Creep
+13) On A Plain
+14) Blew
+15) Rape Me
+16) Spank Thru
+17) Territorial Pissings
+
+GENERATION
+-----------------
+TV -> VHS(1) [PAL] -> AVI [DV25] -> M2V/WAV [8Mbps CBR/48kHz PCM] -> DVDR(0)
+
+SOURCE (PRO#1a)
+-----------------
+soundboard -> unknown
+
+TRANSFER
+-----------------
+JVC HR-S9500 -> AV Tool AVT-8710 -> Canopus ADVC55 -> IEEE 1394 -> Adobe Premiere Pro 2.0 -> TMPGEnc Plus 2.5 -> Adobe Encore DVD 2.0
+
+MD5 FINGERPRINTS
+-----------------
+01d4959cd8b27a9b43042df7c44e2c66 *VIDEO_TS/VIDEO_TS.BUP
+01d4959cd8b27a9b43042df7c44e2c66 *VIDEO_TS/VIDEO_TS.IFO
+f6622c67e2c24cb9ee2ed5e5cc306201 *VIDEO_TS/VIDEO_TS.VOB
+b15b5e9bd1485d65be5dc931cea50b51 *VIDEO_TS/VTS_01_0.BUP
+b15b5e9bd1485d65be5dc931cea50b51 *VIDEO_TS/VTS_01_0.IFO
+52317494258b8c6b30dd213d1dc3a30d *VIDEO_TS/VTS_01_0.VOB
+e1a54d43220e1708d9adf0c1d2c75567 *VIDEO_TS/VTS_01_1.VOB
+1e63da67748a396d6cb093dd31b15d10 *VIDEO_TS/VTS_01_2.VOB
+2a1e7068408e5340df3f38978c7a8075 *VIDEO_TS/VTS_01_3.VOB
+b5f69065fe4f9df52357a26e43281842 *VIDEO_TS/VTS_01_4.VOB
+
+
+Transferred by Mike Ziegler.
+PLEASE DO NOT ENCODE TO MP3 OR SELL!

@@ -1,0 +1,31 @@
+NIRVANA
+June 26, 1992
+Dyrskuepladsen (Roskilde Festival)
+Roskilde, Denmark
+
+SOURCE (PRO #1c):
+soundboard > unknown
+
+TRANSFER:
+JVC HR-S9911U > Echo Layla24 > Adobe Audition 2.0 > CD Wave 1.95 > FLAC frontend 1.7.1
+
+GENERATION:
+VHS(x) > WAV [48kHz] > WAV [44.1kHz] > FLAC [Level 8]
+
+LENGTH:
+5:20
+
+TRACKS:
+01. Lithium (cuts in, cuts out)
+02. On A Plain
+03. Swap Meet (cuts out)
+
+MD5 FINGERPRINTS:
+86838cd95252fbf3c78d9175b2693832 *Nirvana_1992-06-26_PRO1c_t01.flac
+fc1854689fb59d247072fde5dbc2f430 *Nirvana_1992-06-26_PRO1c_t02.flac
+f70c73338be032fe4c4b897414598c5c *Nirvana_1992-06-26_PRO1c_t03.flac
+
+TRANSFERRED BY:
+Kris Sproul
+
+PLEASE DO NOT SELL OR ENCODE TO MP3

@@ -1,0 +1,32 @@
+NIRVANA
+December 28, 1991
+Pat O'Brien Pavilion, 
+Del Mar, CA, USA
+
+DISC #1/1 (12:54)
+-----------------
+01) Drain You
+02) Aneurysm
+03) Smells Like Teen Spirit
+
+SOURCE (SBD #1b)
+-----------------
+soundboard > unknown
+
+GENERATION
+-----------------
+Official CD "From The Muddy Banks Of The Wishkah" -> WAV [44.1kHz] -> FLAC [Level 8]
+
+EXTRACTION
+-----------------
+Lite-On iHBS-112 -> Exact Audio Copy v1.00 beta 3 -> FLAC Frontend 1.7.1
+
+MD5 FINGERPRINTS
+-----------------
+46261f2346c1594975aa50b0623e5c1b *Nirvana_1991-12-28_SBD1b_t01.flac
+5cf8379784b986debab8008a7c0c0c08 *Nirvana_1991-12-28_SBD1b_t02.flac
+803c0eb555bcb975da3edfa6ffa7ce9c *Nirvana_1991-12-28_SBD1b_t03.flac
+
+Extracted by PL.
+PLEASE DO NOT ENCODE TO MP3 OR SELL!
+NO TRADE

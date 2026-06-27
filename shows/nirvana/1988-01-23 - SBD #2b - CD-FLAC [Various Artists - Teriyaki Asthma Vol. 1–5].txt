@@ -1,0 +1,33 @@
+NIRVANA
+January 23, 1988
+Reciprocal Recording,
+Seattle, WA
+
+DISC #1/1 (01:53)
+-----------------
+01) Mexican Seafood
+
+SOURCE (SBD #2b)
+-----------------
+soundboard -> ½-inch 8-track analog magnetic tape (session tape)
+
+GENERATION
+-----------------
+Official CD "Various Artists - Teriyaki Asthma Vol.1-5" -> WAV [44.1kHz] -> FLAC [Level 8]
+
+EXTRACTION
+-----------------
+Lite-On iHBS-112 -> Exact Audio Copy v1.00 beta 3 -> Adobe Audition 3.0 -> FLAC Frontend 1.7.1
+
+NOTES
+-----------------
+- produced by Jack Endino
+- mix #1 (Jack Endino's initial rough "one-hour" mix that the band left the studio with)
+
+MD5 FINGERPRINTS
+-----------------
+09cee930c82c8fc0e55a80c699a3dd73 *Nirvana_1988-01-23_SBD2b_t01.flac
+
+Extracted by PL.
+PLEASE DO NOT ENCODE TO MP3 OR SELL!
+NO TRADE

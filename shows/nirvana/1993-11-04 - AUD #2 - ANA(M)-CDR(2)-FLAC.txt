@@ -1,0 +1,51 @@
+NIRVANA
+November 04, 1993
+Maple Leaf Gardens
+Toronto, Ontario, Canada
+
+Source: unknown cassette
+Lineage: ANA(M) > CDR(2) > WAV [EAC Secure] > FLAC [8]
+Quality: 6.0 out of 10
+Time: 61:24
+
+Tracklist:
+01. Intro
+02. Radio Friendly Unit Shifter
+03. Drain You
+04. Breed
+05. About A Girl
+06. Heart-Shaped Box
+07. Sliver
+08. Serve The Servants
+09. Dumb
+10. In Bloom (cuts in)
+11. Pennyroyal Tea (cuts in)
+12. School
+13. Polly
+14. Milk It
+15. Rape Me
+16. Territorial Pissings
+17. All Apologies
+
+Encoded: December 15, 2008.
+
+Notes: AUD #2. Poor quality and many cuts. Missing "Come As You Are," "Lithium," and everything after "All Apologies."
+
+Fingerprints:
+01 - intro.flac:c4b4bcdd35ca09e761b3085e5a5ad858
+02 - Radio Friendly Unit Shifter.flac:ac4a8e2b1bcc0264679eff92d84b5231
+03 - Drain You.flac:a128023b6d054aa0a9f32cfb828baec1
+04 - Breed.flac:bc20eca9189e924cc7484afc01e3aa07
+05 - About A Girl.flac:8101e20f9d22dc7ed395b9abcff552fc
+06 - Heart-Shaped Box.flac:dcfd1ddbd15f1821346919173f6102cc
+07 - Sliver.flac:5f4a82eba088c9e74a0d585a0380a0c0
+08 - Serve The Servants.flac:04d0c7170ad8349d5979fdd722750da2
+09 - Dumb.flac:d3e506075054f65d822aaf4bcd46e6f2
+10 - In Bloom.flac:8ae1379e656cf3ba46e39f621092183b
+11 - Pennyroyal Tea.flac:db97ee050031a6e8bb98985af5c79018
+12 - School.flac:ca3aa267fc467a603976e36a798a7c8c
+13 - Polly.flac:11cbfba23ae232cac25eadbe62b0b09a
+14 - Milk It.flac:80b195d25bbece5a372184031202f2a9
+15 - Rape Me.flac:10034a12227cf1dfb5576df2977b09b1
+16 - Territorial Pissings.flac:22d7b1c09c6d7961d6bc98b22acd4c24
+17 - All Apologies.flac:d1c7f3c1d7760e6f0f8fda2b2c63d843

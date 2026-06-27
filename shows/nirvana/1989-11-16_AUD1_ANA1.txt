@@ -1,0 +1,51 @@
+NIRVANA
+November 16, 1989
+Trust
+Nuremberg, West Germany
+
+SOURCE (AUD #1):
+unknown > unknown
+
+TRANSFER:
+Nakamichi CR-7A > Hosa RCA cable > PreSonus FireStudio Project > Adobe Audition 3.0 > CD Wave 1.98 > Trader's Little Helper 2.6.0
+
+GENERATION:
+ANA(1) > WAV [48kHz] > WAV [44.1kHz] > FLAC [Level 8]
+
+LENGTH:
+44:44
+
+TRACKS:
+01. Scoff
+02. Love Buzz
+03. Floyd The Barber
+04. Dive
+05. Sappy
+06. Big Cheese
+07. jam (cut)
+08. About A Girl
+09. Mr. Moustache
+10. Breed
+11. Been A Son
+12. Negative Creep
+13. Blew (cuts out)
+
+MD5 FINGERPRINTS:
+d7a20f01485c345a26e1a495b4209996 *Nirvana_1989-11-16_AUD1_t01.flac
+110001ea87da631776ee5ac60b421788 *Nirvana_1989-11-16_AUD1_t02.flac
+761f54f0b7c0728d1e391a9a09bb302f *Nirvana_1989-11-16_AUD1_t03.flac
+9be35c0c1a5893e85a46447103a02ef7 *Nirvana_1989-11-16_AUD1_t04.flac
+66b429e6bdd5d849167cb5ba5d6d9a6f *Nirvana_1989-11-16_AUD1_t05.flac
+ab03afe09eb340289455068862f49da8 *Nirvana_1989-11-16_AUD1_t06.flac
+a160adbd7df65d03f3508dd16bfad430 *Nirvana_1989-11-16_AUD1_t07.flac
+6efec6e1201fbeab21299fa3be83301e *Nirvana_1989-11-16_AUD1_t08.flac
+9c6536152cdd52d41555f66809cf0f36 *Nirvana_1989-11-16_AUD1_t09.flac
+6a8e3ea4db9fc0fd05eedd15be6bdedf *Nirvana_1989-11-16_AUD1_t10.flac
+936f0e55be078ac4259de4bf7985c2a3 *Nirvana_1989-11-16_AUD1_t11.flac
+522cb9bb50d1fc186b71a80e6fad7104 *Nirvana_1989-11-16_AUD1_t12.flac
+723dd079edd021b05561b787a7a15e82 *Nirvana_1989-11-16_AUD1_t13.flac
+
+TRANSFERRED BY:
+Mike Ziegler
+
+PLEASE DO NOT SELL OR ENCODE TO MP3

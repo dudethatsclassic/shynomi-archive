@@ -1,0 +1,36 @@
+NIRVANA
+September 11, 1992
+Seattle Center Coliseum (Washington Music Industry Coalition Benefit)
+Seattle, WA
+
+SOURCE (PRO #1a):
+soundboard > unknown
+
+TRANSFER:
+JVC HR-S9911U > Echo Layla24 > Adobe Audition 1.5 > CD Wave 1.94.8 > FLAC frontend 1.7.1
+
+GENERATION:
+VHS(x) > WAV [48kHz] > WAV [44.1kHz] > FLAC [Level 8]
+
+LENGTH:
+12:13
+
+NOTES:
+- Has some minor static from the source tape.
+
+TRACKS:
+01. intro
+02. Breed
+03. Drain You
+04. Aneurysm
+
+MD5 FINGERPRINTS:
+689635b262bf1f3ff15f4f2750b34ad2 *Nirvana_1992-09-11_PRO1a_t01.flac
+0d21cfbb1c390ad6c9699dd63531a73d *Nirvana_1992-09-11_PRO1a_t02.flac
+bc3016f2ca9944937a0fcd467a26a12d *Nirvana_1992-09-11_PRO1a_t03.flac
+d36e35bd54366bd5bdf8186dcf4b44c0 *Nirvana_1992-09-11_PRO1a_t04.flac
+
+TRANSFERRED BY:
+Kris Sproul
+
+PLEASE DO NOT SELL OR ENCODE TO MP3

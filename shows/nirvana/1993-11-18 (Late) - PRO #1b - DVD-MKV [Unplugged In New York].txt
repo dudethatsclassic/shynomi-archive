@@ -1,0 +1,43 @@
+NIRVANA
+November 18, 1993
+Sony Music Studios (MTV Unplugged)
+New York, NY
+
+DISC #1/1 (45:39)
+-----------------
+01) About A Girl
+02) Come As You Are
+03) Jesus Wants Me For A Sunbeam
+04) Dumb
+05) The Man Who Sold The World
+06) Pennyroyal Tea
+07) Polly
+08) On A Plain
+09) Plateau
+10) Lake Of Fire 
+11) All Apologies
+12) Where Did You Sleep Last Night
+
+SOURCE (PRO #1b)
+-----------------
+soundboard > unknown
+
+GENERATION
+-----------------
+Official DVD "Unplugged In New York" [NTSC] -> MKV
+
+EXTRACTION
+-----------------
+Lite-On iHBS-112 -> MakeMKV 1.8.5
+
+NOTES
+----------------- 
+- Untouched
+
+MD5 FINGERPRINTS
+-----------------
+a273e9715420b06acf9bad0c007e2fb6 *Nirvana_Late_1993-11-18_PRO1b_DVD-MKV.mkv
+
+Extracted by PL.
+PLEASE DO NOT ENCODE TO MP3 OR SELL!
+NO TRADE

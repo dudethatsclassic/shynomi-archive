@@ -1,0 +1,65 @@
+NIRVANA
+November 25, 1990
+The Off Ramp
+Seattle, WA
+
+DISC #1/1 (72:11)
+-----------------
+01.Aneurysm
+02.Oh, The Guilt
+03.Mr. Moustache
+04.Pay To Play
+05.Imodium
+06.Floyd The Barber
+07.About A Girl
+08.Verse Chorus Verse
+09.In Bloom
+10.Swap Meet
+11.Been A Son
+12.Stain
+13.Blew
+14.Sappy
+15.Lithium
+16.School
+17.D-7
+18.Here She Comes Now
+19.Sliver
+20.Dive (part of)
+
+GENERATION
+-----------------
+ANA(1) -> CDR(1) -> WAV [44.1kHz] -> FLAC [Level 8]
+
+SOURCE (AUD #1)
+-----------------
+Sonic Studios -> unknown
+
+TRANSFER
+-----------------
+Unknown
+
+MD5 FINGERPRINTS
+-----------------
+69289e4bb403687db4eae80d3c9fd435 *nir1990-11-25t01.flac
+33e7012c4846a5bf3516e23912831c90 *nir1990-11-25t02.flac
+697699ab2cd3e316ec9733667a936628 *nir1990-11-25t03.flac
+21cf7901cdd10e299d80bc6e30f45733 *nir1990-11-25t04.flac
+c43929e21cdd069b6364c1d57beacc8c *nir1990-11-25t05.flac
+148bc7cc296a69a8b526e76a3cc4e99a *nir1990-11-25t06.flac
+42741ebc2e11fe20bf35d0dcce1e7cc9 *nir1990-11-25t07.flac
+bd7283aa93f86bba82e9513f2c9d1f8d *nir1990-11-25t08.flac
+39533df92951eb27affa5c7353ecb408 *nir1990-11-25t09.flac
+ac7fbd7741dcacd9b6fe405a44ee298d *nir1990-11-25t10.flac
+ee51229422820500d76e028ff4a27218 *nir1990-11-25t11.flac
+732579076f81e400259ae38c4211aa1d *nir1990-11-25t12.flac
+969a36f8c202b8ae22da0abbd651126a *nir1990-11-25t13.flac
+0c91acbadd634486a94737afb4626bf0 *nir1990-11-25t14.flac
+c20cdd22627c8116350bb9f748efce0c *nir1990-11-25t15.flac
+897dba8030f7d9014c53ea7fcaceac8a *nir1990-11-25t16.flac
+9dc51b7dece6266ea72bce12c6c4b13f *nir1990-11-25t17.flac
+2ccaf6ece44408560db32b51f5578325 *nir1990-11-25t18.flac
+8f61d656fbd3fa19dd65c5ef8e27106c *nir1990-11-25t19.flac
+f9c3f517d6a50e73db35ebe5b6679eda *nir1990-11-25t20.flac
+
+Transferred by Damien Rockwell (2004/07/21)
+PLEASE DO NOT ENCODE TO MP3 OR SELL!

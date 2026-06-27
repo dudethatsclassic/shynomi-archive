@@ -1,0 +1,50 @@
+NIRVANA
+January 23rd, 1993
+Praça da Apoteose (Hollywood Rock Festival)
+Rio de Janeiro, Brazil
+
+SOURCE (PRO #3):
+Soundboard > unknown
+
+TRANSFER:
+Standalone > unknown
+
+GENERATION:
+VHS(1) > DVDR(4) [NTSC, 9.0 Mbps VBR, 256kbps AC3]
+
+LENGTH:
+54:47
+
+NOTES:
+- Re-authored by Bill Mayer
+
+TRACKS:
+01. In Bloom
+02. Come As You Are (cuts out)
+03. Lithium (cuts in, cut)
+04. Polly
+05. About A Girl
+06. Smells Like Teen Spirit
+07. On A Plain (cuts in)
+08. Negative Creep
+09. Been A Son
+10. Blew
+11. Heart-Shaped Box
+12. Scentless Apprentice
+
+MD5 FINGERPRINTS:
+6d26e9933d4ff548732c78362b64ec26 *VIDEO_TS\VIDEO_TS.BUP
+6d26e9933d4ff548732c78362b64ec26 *VIDEO_TS\VIDEO_TS.IFO
+b99fd79fbca1c105fd453975719ae562 *VIDEO_TS\VIDEO_TS.VOB
+65a905c80b48047c8da76ae2b61feb9b *VIDEO_TS\VTS_01_0.BUP
+65a905c80b48047c8da76ae2b61feb9b *VIDEO_TS\VTS_01_0.IFO
+748d818f0184dccd0580496429032481 *VIDEO_TS\VTS_01_0.VOB
+0e06e9941174d03cdb2130a70666c819 *VIDEO_TS\VTS_01_1.VOB
+3920e8951b6d4ffd4e4da44d346ceedd *VIDEO_TS\VTS_01_2.VOB
+db42100a2791535643463aa8106d57d1 *VIDEO_TS\VTS_01_3.VOB
+32d5f870d6833c46725862834894f8f4 *VIDEO_TS\VTS_01_4.VOB
+
+TRANSFERRED BY:
+Unknown
+
+**PLEASE DO NOT ENCODE TO LOSSY FORMATS OR SELL!**

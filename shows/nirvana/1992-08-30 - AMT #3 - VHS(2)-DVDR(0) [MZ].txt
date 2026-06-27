@@ -1,0 +1,65 @@
+NIRVANA
+August 30, 1992
+Richfield Avenue (Reading Festival)
+Reading, United Kingdom
+
+SOURCE (AMT #3):
+unknown > unknown
+
+TRANSFER:
+JVC HR-S9500 > Sony DCR-TRV320E > IEEE 1394 > Adobe Premiere Pro 2.0 > TMPGEnc Plus 2.5 > Adobe Encore DVD 2.0
+
+GENERATION:
+VHS(2) [PAL] > AVI [DV25] > M2V/WAV [8.0Mbps CBR/48kHz PCM] > DVDR(0) [dual layer]
+
+LENGTH:
+93:16
+
+CHAPTERS:
+01. intro
+02. Breed
+03. Drain You
+04. Aneurysm
+05. School
+06. Sliver
+07. In Bloom
+08. Come As You Are
+09. Lithium
+10. About A Girl
+11. tourette's
+12. Polly
+13. Lounge Act
+14. More Than A Feeling (part of)
+15. Smells Like Teen Spirit
+16. On A Plain
+17. Negative Creep
+18. Been A Son
+19. All Apologies
+20. Blew
+21. Dumb
+22. Stay Away
+23. Spank Thru
+24. Love Buzz
+25. Smoke On The Water (jam)
+26. The Money Will Roll Right In
+27. D-7
+28. Territorial Pissings
+29. The Star-Spangled Banner (part of)
+
+MD5 FINGERPRINTS:
+358542b8082539217fd0d08f1e462c86 *VIDEO_TS/VIDEO_TS.BUP
+358542b8082539217fd0d08f1e462c86 *VIDEO_TS/VIDEO_TS.IFO
+558bd2bc39f5fcc28ac28165fe15e441 *VIDEO_TS/VIDEO_TS.VOB
+cb2fd376f13f41e6575f42b0653d21e2 *VIDEO_TS/VTS_01_0.BUP
+cb2fd376f13f41e6575f42b0653d21e2 *VIDEO_TS/VTS_01_0.IFO
+4dfc5912b32c1ad413aece5c9bdfca31 *VIDEO_TS/VTS_01_0.VOB
+3af1cd18d7d01b3296b9650b99448be1 *VIDEO_TS/VTS_01_1.VOB
+ce56054ed5c3cba9b2e178ae257aa2ac *VIDEO_TS/VTS_01_2.VOB
+6ddae44b1867fe059165045d744abba9 *VIDEO_TS/VTS_01_3.VOB
+32f3db9ac73e4993737201710a6f3c01 *VIDEO_TS/VTS_01_4.VOB
+7e201ece6ed9abb99d69ab5c272b8ebe *VIDEO_TS/VTS_01_5.VOB
+2973ea5a809adbe33c705aee003b3de4 *VIDEO_TS/VTS_01_6.VOB
+9370cf3918ca53c3c851d0c4c4ba2215 *VIDEO_TS/VTS_01_7.VOB
+
+TRANSFERRED BY:
+Mike Ziegler

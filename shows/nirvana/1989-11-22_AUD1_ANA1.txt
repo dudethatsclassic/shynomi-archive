@@ -1,0 +1,59 @@
+NIRVANA
+November 22, 1989
+U4
+Vienna, Austria
+
+SOURCE (AUD #1):
+unknown > unknown
+
+TRANSFER:
+Nakamichi DR-3 > Schulz ADPS 1 > Fireface UC > Adobe Audition 3.0 > CD Wave 1.98 > Trader's Little Helper 2.4.1
+
+GENERATION:
+ANA(1) > WAV [24bit/48kHz] > WAV [44.1kHz] > FLAC [Level 8]
+
+LENGTH:
+60:40
+
+NOTES:
+- Has a 5-second dropout in the right channel during "Spank Thru."
+- "Negative Creep" cuts in due to a tape flip.
+
+TRACKS:
+01. intro
+02. School
+03. Scoff
+04. Love Buzz
+05. Floyd The Barber
+06. Dive
+07. About A Girl
+08. Spank Thru
+09. Big Cheese
+10. Sappy
+11. Breed
+12. Been A Son
+13. Negative Creep (cuts in)
+14. Blew
+15. Vendetagainst
+
+MD5 FINGERPRINTS:
+6685deaf17a2e6b456dc96013405a217 *Nirvana_1989-11-22_AUD1_t01.flac
+f3402a0b5cece7721ea544e1d659a41b *Nirvana_1989-11-22_AUD1_t02.flac
+8757bf6fd0f63b54e682b7071127a71b *Nirvana_1989-11-22_AUD1_t03.flac
+79f402d3fd15b9089cfb1641adca366c *Nirvana_1989-11-22_AUD1_t04.flac
+cafa19e93bb451882df6a43661eb55a6 *Nirvana_1989-11-22_AUD1_t05.flac
+e84cb9e29f38c0d01a3e2ffe87008b7b *Nirvana_1989-11-22_AUD1_t06.flac
+a9fbae865198b5e75eb2635475ff4802 *Nirvana_1989-11-22_AUD1_t07.flac
+8672afd7067640316f4d1c75770a29c6 *Nirvana_1989-11-22_AUD1_t08.flac
+2a4122ac74a53997d1432178ab99e2e6 *Nirvana_1989-11-22_AUD1_t09.flac
+d42a69e0d5cedfb99e44107afef08b3c *Nirvana_1989-11-22_AUD1_t10.flac
+9ea7afc8bbc37fcb01c41b823ed67177 *Nirvana_1989-11-22_AUD1_t11.flac
+1afa91a928cac73d1352914ed9e9e771 *Nirvana_1989-11-22_AUD1_t12.flac
+771073ebc4078fc686440e8d511ada77 *Nirvana_1989-11-22_AUD1_t13.flac
+f71cf88e78b781ee630c609ce1fa92a0 *Nirvana_1989-11-22_AUD1_t14.flac
+f6c85fe7c20e366ea66cc670bc83470e *Nirvana_1989-11-22_AUD1_t15.flac
+
+TRANSFERRED BY:
+Daniel Bär
+
+PLEASE DO NOT SELL OR ENCODE TO MP3

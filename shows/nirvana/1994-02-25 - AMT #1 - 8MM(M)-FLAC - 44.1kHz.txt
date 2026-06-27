@@ -1,0 +1,69 @@
+NIRVANA
+February 25, 1994
+Palatrussardi
+Milan, Italy
+
+SOURCE (AMT #1):
+built-in > Sony CCD-F55E
+
+TRANSFER:
+Sony DCR-TRV320E > LynxONE analog-in > Adobe Audition 3.0 > CD Wave 1.97 > FLAC frontend 1.7.1
+
+GENERATION:
+8MM(M) > WAV [48kHz] > WAV [44.1kHz] > FLAC [Level 8]
+
+LENGTH:
+79:36
+
+TRACKS:
+01. Radio Friendly Unit Shifter
+02. Drain You
+03. Breed
+04. Serve The Servants
+05. Come As You Are
+06. Smells Like Teen Spirit
+07. Sliver
+08. Dumb
+09. In Bloom
+10. About A Girl
+11. Lithium
+12. Pennyroyal Tea
+13. School
+14. Polly
+15. Frances Farmer Will Have Her Revenge On Seattle
+16. Sappy
+17. Rape Me
+18. Territorial Pissings
+19. All Apologies
+20. On A Plain
+21. Scentless Apprentice
+22. Heart-Shaped Box
+
+MD5 FINGERPRINTS:
+0f325bd573c97082131f08efa7e2accf *Nirvana_1994-02-25_AMT1_t01.flac
+84dfd8d26fe4b526f0613a4e1301645d *Nirvana_1994-02-25_AMT1_t02.flac
+46311173d87be0b74598df9c655e23da *Nirvana_1994-02-25_AMT1_t03.flac
+07905d2852bb98307480052cf2c895fc *Nirvana_1994-02-25_AMT1_t04.flac
+ff914537ea32808c0670e22044b87a4f *Nirvana_1994-02-25_AMT1_t05.flac
+f7c3352f4d078d4c22d8503e21e035b9 *Nirvana_1994-02-25_AMT1_t06.flac
+715099ac3ee6b6c15fe788f34b941370 *Nirvana_1994-02-25_AMT1_t07.flac
+2cd66fad6fc45797f5a16bf83702859f *Nirvana_1994-02-25_AMT1_t08.flac
+dcf48fef57d9e9450005afda0ce83d31 *Nirvana_1994-02-25_AMT1_t09.flac
+d8c3a2a60c953faed6b7a1cd5e36b394 *Nirvana_1994-02-25_AMT1_t10.flac
+d9137451fd5374196ea3b12a2291df9f *Nirvana_1994-02-25_AMT1_t11.flac
+125fe8c82c4fd385da1be164f7b3c958 *Nirvana_1994-02-25_AMT1_t12.flac
+76ecdcbdcf8460bcbdd2e0d0a308b4a3 *Nirvana_1994-02-25_AMT1_t13.flac
+e57a25145f2a5919641b445216da707b *Nirvana_1994-02-25_AMT1_t14.flac
+f92d099e650db5a3c472b843e91f0a62 *Nirvana_1994-02-25_AMT1_t15.flac
+56851c8f071f5beb54b1b431c81dcf00 *Nirvana_1994-02-25_AMT1_t16.flac
+83116ca659de5952f558bd3a5964b80c *Nirvana_1994-02-25_AMT1_t17.flac
+db7775262eec291c881051781b6b8c33 *Nirvana_1994-02-25_AMT1_t18.flac
+5ec449694a49f51a5ed3572f12a019d3 *Nirvana_1994-02-25_AMT1_t19.flac
+f950b6a92b82dcc46fcc1f017bafc823 *Nirvana_1994-02-25_AMT1_t20.flac
+75bb07cc19318578e8d35ada532392b8 *Nirvana_1994-02-25_AMT1_t21.flac
+c88f3c1d1ad67ba769d22c9684d1771e *Nirvana_1994-02-25_AMT1_t22.flac
+
+TRANSFERRED BY:
+Mike Ziegler
+
+PLEASE DO NOT SELL OR ENCODE TO MP3

@@ -1,0 +1,64 @@
+NIRVANA
+January 20, 1990
+Legends
+Tacoma, WA
+
+SOURCE (AMT #1):
+unknown > unknown
+
+TRANSFER:
+JVC HR-S3800U > Echo Layla24 > Adobe Audition 3.0 > CD Wave 1.97 > FLAC frontend 1.7.1
+
+GENERATION:
+VHS(1) > WAV [48kHz] > WAV [44.1kHz] > FLAC [Level 8]
+
+LENGTH:
+53:44
+
+NOTES:
+- Has minor dropouts in various songs.
+
+TRACKS:
+01. School (cuts in)
+02. Floyd The Barber (cuts in)
+03. Love Buzz
+04. Dive (cut)
+05. Scoff
+06. All You Need Is Love (jam)
+07. If I Fell (jam)
+08. About A Girl
+09. Big Cheese
+10. Molly's Lips
+11. Token Eastern Song
+12. Spank Thru
+13. Breed
+14. Stain
+15. Been A Son
+16. Sweet Home Alabama (jam) (cuts in)
+17. Negative Creep
+18. Blew
+
+MD5 FINGERPRINTS:
+d443b0482f311c6c7b390b42ecb8d972 *Nirvana_1990-01-20_AMT1_t01.flac
+d9535f31d6b5b0375a63a559810dde8d *Nirvana_1990-01-20_AMT1_t02.flac
+82f4c0b6029e40aafa2719f111f86e85 *Nirvana_1990-01-20_AMT1_t03.flac
+eb073bc8e0a052c79830a9663f73932a *Nirvana_1990-01-20_AMT1_t04.flac
+f91dfbf18401db424fdbee3bad4c1f82 *Nirvana_1990-01-20_AMT1_t05.flac
+72281b992d48e70247779d780469f565 *Nirvana_1990-01-20_AMT1_t06.flac
+f71183da0025629b788c2529945c2fd0 *Nirvana_1990-01-20_AMT1_t07.flac
+e9c5b31fa5c9aa53df78beb9653fa178 *Nirvana_1990-01-20_AMT1_t08.flac
+ebbf97d3b7f2bbaf765dfde2e62c3d2d *Nirvana_1990-01-20_AMT1_t09.flac
+de5839ee9294155af3a8accee0b6336e *Nirvana_1990-01-20_AMT1_t10.flac
+f2f48b6cc83ae745faa9d43671856c4a *Nirvana_1990-01-20_AMT1_t11.flac
+cb86d27529f7cd618f831a3c08f3504b *Nirvana_1990-01-20_AMT1_t12.flac
+3eb945357f62dcdcb87468cd9b963031 *Nirvana_1990-01-20_AMT1_t13.flac
+ef81d641aa66926825189f688caf1dad *Nirvana_1990-01-20_AMT1_t14.flac
+cc1078c1f83c18c6828e6963d0cf5864 *Nirvana_1990-01-20_AMT1_t15.flac
+da46dbabe1548fdae0a45184b73ab141 *Nirvana_1990-01-20_AMT1_t16.flac
+f17037e5556a311ffe1440b0e2bd6052 *Nirvana_1990-01-20_AMT1_t17.flac
+256b6116bb035f97201d6e8ad4bd7a29 *Nirvana_1990-01-20_AMT1_t18.flac
+
+TRANSFERRED BY:
+Kris Sproul
+
+PLEASE DO NOT SELL OR ENCODE TO MP3

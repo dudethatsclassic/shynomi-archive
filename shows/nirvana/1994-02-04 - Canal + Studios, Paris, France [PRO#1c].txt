@@ -1,0 +1,28 @@
+NIRVANA
+February 4, 1994
+Canal+ Studios (Nulle Part Ailleurs)
+Paris, FR 
+  
+DISC #1/1 (3:35)
+-----------------
+01) Drain You 
+
+GENERATION 
+-----------------
+Satellite TV -> STANDALONE -> DVDR(3) -> WAV [48Khz] -> WAV [44.1kHz] -> FLAC 
+
+SOURCE (PRO#1c)
+-----------------
+unknown -> unknown
+
+EXTRACTION
+-----------------
+Pioneer DVR107 DVD-RW drive -> DVD2AVI -> Cool Edit Pro
+
+MD5 FINGERPRINTS
+-----------------
+d33fd47e2a31177c0b58014d9bf5d468 *nirvana1994-02-04_PRO#1c_Drain You.flac
+
+
+PLEASE DO NOT ENCODE TO MP3 OR SELL!
+

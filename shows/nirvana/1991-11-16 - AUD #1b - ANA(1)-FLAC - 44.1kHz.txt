@@ -1,0 +1,67 @@
+NIRVANA
+November 16, 1991
+Teatro Verdi
+Muggia, Italy
+
+DISC #1/1 (56:28)
+-----------------
+01. Drain You (cut)
+02. Aneurysm
+03. School
+04. Floyd The Barber
+05. Smells Like Teen Spirit
+06. About A Girl
+07. Polly
+08. Lithium
+09. Sliver
+10. Breed
+11. Love Buzz
+12. Been A Son
+13. Negative Creep
+14. On A Plain (cut)
+15. Blew
+16. L'Amour Est Un Oiseau Rebelle (jam) (cut)
+17. Talk To Me
+18. Oh, The Guilt
+19. Territorial Pissings
+
+GENERATION
+-----------------
+ANA(1) -> WAV [48kHz] -> WAV [44.1kHz] -> FLAC [Level 8]
+
+SOURCE (AUD #1b)
+-----------------
+unknown -> unknown
+
+TRANSFER
+-----------------
+Nakamichi DR-3 -> RCA to 1/4" TS custom Klotz cables -> Echo Mia Midi analog-in -> Adobe Audition 2.0 -> CD Wave 1.95.1 -> FLAC Frontend 1.7.1
+
+NOTES
+-----------------
+- "Drain You", "On A Plain" and "L'Amour Est Un Oiseau Rebelle" jam cut in
+
+MD5 FINGERPRINTS
+-----------------
+b7261a7f5155d7449adec58259b3f089 *nirvana_1991-11-16_aud1b_ana1_d1t01.flac
+e8d9e8047268bdc21dd4c5f0d0318979 *nirvana_1991-11-16_aud1b_ana1_d1t02.flac
+94331fdedfc852ea5cbb3d748b6ad3e8 *nirvana_1991-11-16_aud1b_ana1_d1t03.flac
+835abcd9704c50bb6136ac4bbd4b7a63 *nirvana_1991-11-16_aud1b_ana1_d1t04.flac
+93ff23ee8b324b94dd2000777e2388a4 *nirvana_1991-11-16_aud1b_ana1_d1t05.flac
+cade94bddda7af992e0b0565b8239da6 *nirvana_1991-11-16_aud1b_ana1_d1t06.flac
+848b3f1252dfdd811a40c7f9a2f5a4c3 *nirvana_1991-11-16_aud1b_ana1_d1t07.flac
+3f685eaa1be87f91362e2f43588af08c *nirvana_1991-11-16_aud1b_ana1_d1t08.flac
+a6a9d3afb41bf83d7b86e7e24cb88024 *nirvana_1991-11-16_aud1b_ana1_d1t09.flac
+fbd3be86e3b9089e6f4f7e42bb0e18c1 *nirvana_1991-11-16_aud1b_ana1_d1t10.flac
+944039384c68101dbdf9d54a532e1a37 *nirvana_1991-11-16_aud1b_ana1_d1t11.flac
+5992c2e7e3a025e9991e9ee8a8c7a6fa *nirvana_1991-11-16_aud1b_ana1_d1t12.flac
+b155577b76869d77c10fd525f828fed5 *nirvana_1991-11-16_aud1b_ana1_d1t13.flac
+9016f2485e25cba19e9c9bc3371d5ccd *nirvana_1991-11-16_aud1b_ana1_d1t14.flac
+9d86476f518d5e2416466af3106b0f45 *nirvana_1991-11-16_aud1b_ana1_d1t15.flac
+095cc69962f484d5fedfe53ac3c7b072 *nirvana_1991-11-16_aud1b_ana1_d1t16.flac
+b965597f9b7fc2114a69bfde2d3ac942 *nirvana_1991-11-16_aud1b_ana1_d1t17.flac
+93c1d63561295a65a706f23e4c0d1edf *nirvana_1991-11-16_aud1b_ana1_d1t18.flac
+164273aba63e7e9c4809b4ad1e6ed250 *nirvana_1991-11-16_aud1b_ana1_d1t19.flac
+
+Transferred by Pierre Leroy
+PLEASE DO NOT ENCODE TO MP3 OR SELL!

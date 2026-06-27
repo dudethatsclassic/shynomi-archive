@@ -1,0 +1,55 @@
+NIRVANA
+November 4, 1991
+Bierkeller
+Bristol, UK
+
+SOURCE (AUD #2):
+unknown > unknown
+
+TRANSFER:
+Technics SL-5200 > Audio Technica AT-440 MLa > Technics SU-VX500 > ESI Juli @ > Wavelab 6.11 > Adobe Audition 1.5 > iZotope RX 3.01.734 Advanced > FLAC Frontend 2.1
+
+GENERATION:
+ANA(x) > UNOFFICIAL 12" ["Seventh Heaven"] > WAV [24bit][96kHz] > WAV [16bit][44.1kHz] > FLAC [Level 8]
+
+LENGTH:
+50:23
+
+TRACKS:
+01. Jesus Doesn't Want Me For A Sunbeam
+02. Aneurysm
+03. Drain You
+04. School
+05. Floyd The Barber
+06. Smells Like Teen Spirit
+07. Breed
+08. About A Girl
+09. Love Buzz
+10. Lithium
+11. Sliver
+12. Negative Creep
+13. Blew
+14. Rape Me
+15. Territorial Pissings
+
+MD5 FINGERPRINTS:
+0033e77930efd3b9598855f9cc7b9f3d *Nirvana_1991-11-04_AUD2_t01.flac
+1bb0f31f158013a5c41ffb110d5cf0da *Nirvana_1991-11-04_AUD2_t02.flac
+368d313fbf75e0780193e362d85e65af *Nirvana_1991-11-04_AUD2_t03.flac
+00947457f528f21cac0f8215e1f23a1c *Nirvana_1991-11-04_AUD2_t04.flac
+cfb4a610517bcb1ca918b72d6d672522 *Nirvana_1991-11-04_AUD2_t05.flac
+0a0da58040a001334a2d428ed5a53057 *Nirvana_1991-11-04_AUD2_t06.flac
+8af223c6bac80c9b8f5f40f0d61ca163 *Nirvana_1991-11-04_AUD2_t07.flac
+4516a5b33ea886148c5aae7f5a751df7 *Nirvana_1991-11-04_AUD2_t08.flac
+0991d97c444fb7115d07ee2df99cc0f4 *Nirvana_1991-11-04_AUD2_t09.flac
+5007e3344260d2b9b29a181b7e69c686 *Nirvana_1991-11-04_AUD2_t10.flac
+7358d001d2f97df238054f305d41230b *Nirvana_1991-11-04_AUD2_t11.flac
+398b9425ef870f4a05b5f8de27362c1a *Nirvana_1991-11-04_AUD2_t12.flac
+8b96c2325b48cdb9afd49e4a4e0152a5 *Nirvana_1991-11-04_AUD2_t13.flac
+848cdf5dae6b68b620fee68e038723e9 *Nirvana_1991-11-04_AUD2_t14.flac
+27990c5f5b9759791dbae81f48892b8e *Nirvana_1991-11-04_AUD2_t15.flac
+
+TRANSFERRED BY:
+Pieter Vermeulen
+
+PLEASE DO NOT SELL OR ENCODE TO MP3

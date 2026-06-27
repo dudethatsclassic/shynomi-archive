@@ -1,0 +1,32 @@
+NIRVANA
+October 04, 1991
+Crocodile Café
+Seattle, WA
+
+SOURCE (AMT #1b):
+Unknown > Unknown
+
+EXTRACTION:
+Lite-On iHBS-112 > MakeMKV Beta 1.8.5
+
+GENERATION:
+Official DVD 'With The Lights Out' [PAL] > MKV
+
+LENGTH:
+03:33
+
+NOTES:
+- No re-encoding
+- Audio track is LPCM
+
+TRACKS:
+01. Talk To Me
+
+MD5 FINGERPRINTS:
+f68f2dae7a3d5751e7b68ef9815317a1 *Nirvana_1992-10-04_AMT1b_DVD.mkv
+
+EXTRACTED BY:
+P.L.
+
+**DO NOT TRADE**
+**PLEASE DO NOT ENCODE TO LOSSY FORMATS OR SELL!**

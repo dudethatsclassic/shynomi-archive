@@ -1,0 +1,30 @@
+NIRVANA
+December 28, 1991
+Pat O'Brien Pavilion, 
+Del Mar, CA, USA
+
+DISC #1/1 (04:54)
+-----------------
+01) Polly
+02) Sliver
+
+SOURCE (SBD #1d)
+-----------------
+soundboard -> unknown
+
+GENERATION
+-----------------
+Official CD "In Bloom" -> WAV [44.1kHz] -> FLAC [Level 8]
+
+EXTRACTION
+-----------------
+Lite-On iHBS-112 -> Exact Audio Copy v1.00 beta 3 -> FLAC Frontend 1.7.1
+
+MD5 FINGERPRINTS
+-----------------
+eaa384a36d66b9b95699ed7b15434fd0 *Nirvana_1991-12-28_SBD1d_t01.flac
+2c6604f11204fbeb3c6162001da2ea06 *Nirvana_1991-12-28_SBD1d_t02.flac
+
+Extracted by PL.
+PLEASE DO NOT ENCODE TO MP3 OR SELL!
+NO TRADE

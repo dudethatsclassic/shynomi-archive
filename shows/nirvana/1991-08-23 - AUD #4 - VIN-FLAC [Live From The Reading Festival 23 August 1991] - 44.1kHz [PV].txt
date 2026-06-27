@@ -1,0 +1,43 @@
+NIRVANA
+August 23, 1991
+Richfield Avenue (Reading Festival)
+Reading, UK
+
+SOURCE (AUD #4):
+unknown > unknown
+
+TRANSFER:
+Technics SL-5200 > Audio Technica AT-440 MLa > Technics SU-VX500 > ESI Juli @ > Wavelab 6.11 > Adobe Audition 1.5 > iZotope RX 3.01.734 Advanced > FLAC Frontend 2.1
+
+GENERATION:
+ANA(x) > UNOFFICIAL 12" ["Live From The Reading Festival 23 August 1991"] > WAV [24bit][96kHz] > WAV [16bit][44.1kHz] > FLAC [Level 8]
+
+LENGTH:
+29:09
+
+TRACKS:
+01. School
+02. Floyd The Barber
+03. Drain You
+04. Smells Like Teen Spirit
+05. Come As You Are
+06. Breed
+07. Sliver
+08. Molly's Lips
+09. Love Buzz
+
+MD5 FINGERPRINTS:
+5791bdba3d2644edd6aeb9a299000eea *Nirvana_1991-08-23_AUD4_t01.flac
+289c397baa82f2025e8e2cb0eefd0424 *Nirvana_1991-08-23_AUD4_t02.flac
+2e5b81792d44e35124baacbe131e9556 *Nirvana_1991-08-23_AUD4_t03.flac
+10c101aed9c65eeecb3de3eb789691eb *Nirvana_1991-08-23_AUD4_t04.flac
+759c19600d863ce5be60621d1164e17d *Nirvana_1991-08-23_AUD4_t05.flac
+6065478eb8d1f88dd16d37c3bee06cdc *Nirvana_1991-08-23_AUD4_t06.flac
+f5c50de595b0b8f17e1dcaae2e94388b *Nirvana_1991-08-23_AUD4_t07.flac
+29e9b3fb26f1637d62ba3f3e6fee43a3 *Nirvana_1991-08-23_AUD4_t08.flac
+049f6b8346bb9cf15d260c53d772aded *Nirvana_1991-08-23_AUD4_t09.flac
+
+TRANSFERRED BY:
+Pieter Vermeulen
+
+PLEASE DO NOT SELL OR ENCODE TO MP3

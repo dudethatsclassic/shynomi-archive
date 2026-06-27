@@ -1,0 +1,38 @@
+NIRVANA
+November 18, 1993
+Sony Music Studios (MTV Unplugged Rehearsals)
+New York, NY
+
+DISC #1/1 (22:33)
+-----------------
+01) banter
+02) Come As You Are (1st take)
+03) Polly
+04) Plateau (2nd take)
+05) Pennyroyal Tea (1st take)
+06) Pennyroyal Tea (2nd take, cuts in)
+07) The Man Who Sold The World
+
+SOURCE (PRO #1)
+-----------------
+soundboard > unknown
+
+GENERATION
+-----------------
+Official DVD "Unplugged In New York" [NTSC] -> MKV
+
+EXTRACTION
+-----------------
+Lite-On iHBS-112 -> MakeMKV 1.8.5
+
+NOTES
+-----------------
+- Untouched
+
+MD5 FINGERPRINTS
+-----------------
+3428baef06f89f07f19ebc4ac79991fe *Nirvana_Early_1993-11-18_PRO1_DVD-MKV.mkv
+
+Extracted by PL.
+PLEASE DO NOT ENCODE TO MP3 OR SELL!
+NO TRADE

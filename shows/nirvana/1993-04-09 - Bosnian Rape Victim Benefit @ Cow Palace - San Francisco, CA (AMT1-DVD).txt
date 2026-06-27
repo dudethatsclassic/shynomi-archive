@@ -1,0 +1,66 @@
+NIRVANA
+April 9, 1993
+Cow Palace (Bosnian Rape Victim Benefit)
+San Francisco, CA
+
+SOURCE (AMT #1):
+unknown > unknown
+
+TRANSFER:
+JVC HR-S5900U > Datavideo TBC-1000 > Pinnacle DC-1000 > Adobe Premiere 6.02 + Cool Edit Pro 1.2a > Sonic Scenarist 2.7
+
+GENERATION:
+VHS(1) > DVDR(0) [NTSC 8.0Mbps VBR, LPCM]
+
+LENGTH:
+93:31
+
+NOTES:
+- Remastered
+- Straight from Jim's hard drive !
+
+TRACKS:
+01. intro
+02. Rape Me
+03. School
+04. Breed
+05. Sliver
+06. Come As You Are
+07. Milk It
+08. About A Girl
+09. Lithium
+10. Dumb
+11. Frances Farmer Will Have Her Revenge On Seattle
+12. Serve The Servants
+13. Aneurysm
+14. Smells Like Teen Spirit
+15. Territorial Pissings
+16. Blew
+17. All Apologies
+18. Heart-Shaped Box
+19. Scentless Apprentice
+20. Something In The Way
+21. Negative Creep
+22. Been A Son
+23. Dive
+24. Love Buzz
+25. Endless, Nameless
+
+MD5 FINGERPRINTS:
+f1c3510859e251e71e03a1d27999368f *VIDEO_TS\VIDEO_TS.BUP
+f1c3510859e251e71e03a1d27999368f *VIDEO_TS\VIDEO_TS.IFO
+b99fd79fbca1c105fd453975719ae562 *VIDEO_TS\VIDEO_TS.VOB
+d45fc6c56ab394c2650a0fc920b64274 *VIDEO_TS\VTS_01_0.BUP
+d45fc6c56ab394c2650a0fc920b64274 *VIDEO_TS\VTS_01_0.IFO
+d12114e3062d2cc8a996645a3501dfbe *VIDEO_TS\VTS_01_0.VOB
+97be75b2cb1a2ff85222dc0b19f5760d *VIDEO_TS\VTS_01_1.VOB
+ce7f71254a8dcaacffa7dd496ab6e9c9 *VIDEO_TS\VTS_01_2.VOB
+a4db777bf70797f374263808516a301a *VIDEO_TS\VTS_01_3.VOB
+804824bbf5ca934302cb648e5fa04bc9 *VIDEO_TS\VTS_01_4.VOB
+03b6dbc9c5d64553a2d8aac1a686367d *VIDEO_TS\VTS_02_0.BUP
+03b6dbc9c5d64553a2d8aac1a686367d *VIDEO_TS\VTS_02_0.IFO
+b99fd79fbca1c105fd453975719ae562 *VIDEO_TS\VTS_02_0.VOB
+874126ebc090528c0a3fe4ec47f4d271 *VIDEO_TS\VTS_02_1.VOB
+
+TRANSFERRED BY:
+Jim Hirte

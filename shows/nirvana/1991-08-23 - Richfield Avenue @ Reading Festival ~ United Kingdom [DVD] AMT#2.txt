@@ -1,0 +1,37 @@
+NIRVANA
+August 23, 1991
+Richfield Avenue (Reading Festival)
+Reading, United Kingdom
+
+SETLIST (38:40)
+-----------------
+01) School
+02) Floyd The Barber
+03) Drain You
+04) Smells Like Teen Spirit
+05) Come As You Are (cut)
+06) Breed
+07) Sliver
+08) Molly's Lips
+09) Love Buzz
+10) Negative Creep
+11) Blew
+12) Endless, Nameless
+
+GENERATION-----------------
+VHS(2) -> AVI [DV25] -> M2V/WAV [8Mbps CBR/48kHz PCM] -> DVDR(0)
+
+SOURCE (AMT#2)
+-----------------
+unknown -> unknown
+
+TRANSFER
+-----------------
+JVC HR-S9911U -> Sony DCR-TRV460 -> IEEE 1394 -> Adobe Premiere Pro 2.0 -> TMPGEnc Plus 2.5 -> Adobe Encore DVD 2.0
+
+MD5 FINGERPRINTS
+-----------------
+6ea69c6fda5e88a4978b289c33ac4ac9 *VIDEO_TS/VIDEO_TS.BUP6ea69c6fda5e88a4978b289c33ac4ac9 *VIDEO_TS/VIDEO_TS.IFO736697781fb8dfaebbd5d1f62db581f5 *VIDEO_TS/VIDEO_TS.VOBb0ed8605c0997001424622c640e8d347 *VIDEO_TS/VTS_01_0.BUPb0ed8605c0997001424622c640e8d347 *VIDEO_TS/VTS_01_0.IFO61751d99aa288837d9c2341fee4a47ec *VIDEO_TS/VTS_01_0.VOB973ba039a8219627121fa96814532faa *VIDEO_TS/VTS_01_1.VOB023296865db54efbfde10f92ecc610d0 *VIDEO_TS/VTS_01_2.VOB4d9db9fe7266890bb68a79367141e22b *VIDEO_TS/VTS_01_3.VOBa1dc26dfce71434ee152cfdde979fea6 *VIDEO_TS/VTS_02_0.BUPa1dc26dfce71434ee152cfdde979fea6 *VIDEO_TS/VTS_02_0.IFO736697781fb8dfaebbd5d1f62db581f5 *VIDEO_TS/VTS_02_0.VOB05d1d8c4eea3ef66056c4a37a8ef0772 *VIDEO_TS/VTS_02_1.VOB
+
+Transferred by Mike Ziegler.
+PLEASE DO NOT ENCODE TO ANY OTHER FORMAT OR SELL!

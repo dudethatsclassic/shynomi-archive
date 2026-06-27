@@ -1,0 +1,42 @@
+NIRVANA
+November 25, 1991
+Paradiso
+Amsterdam, The Netherlands
+
+DISC #1/1 (14:03)
+-----------------
+01) Drain You
+02) Aneurysm (cuts in & out)
+03) Sliver (cuts in & out)
+04) Come As You Are (cuts out)
+05) Love Buzz (cut, fades in)
+06) Territorial Pissings (cuts in & out)
+
+GENERATION
+-----------------
+Official Laserdisc "Live! Tonight! Sold Out!!" -> WAV [44.1kHz] -> FLAC [Level 8]
+
+SOURCE (PRO #3a)
+-----------------
+soundboard > unknown
+
+TRANSFER
+-----------------
+Pioneer CLD-2850 -> Optical Cable -> Sony MZ-NH700 (HiMD) -> SonicStage 4.3 -> Adobe Audition 3.0 -> CD Wave 1.98 -> Flac Frontend 1.7.1
+
+NOTES
+-----------------
+- multiple overdubs from interviews / other shows
+
+MD5 FINGERPRINTS
+-----------------
+e3133223aed07b14566055f223297085 *Nirvana_1991-11-25_PRO3a_t01.flac
+840c2a0bf6db122e371d628a3a787cc5 *Nirvana_1991-11-25_PRO3a_t02.flac
+7c4737f17084fc30d980fe862d8843f9 *Nirvana_1991-11-25_PRO3a_t03.flac
+2b35b3d994908a5d13e753abcbfc85bc *Nirvana_1991-11-25_PRO3a_t04.flac
+ef37b2a67737f8ae20f10532523cd161 *Nirvana_1991-11-25_PRO3a_t05.flac
+0b15122dbf3fd5c681568166acb3f365 *Nirvana_1991-11-25_PRO3a_t06.flac
+
+Transferred by VL.
+Edited by PL.
+PLEASE DO NOT ENCODE TO MP3 OR SELL!

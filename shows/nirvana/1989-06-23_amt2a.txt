@@ -1,0 +1,40 @@
+NIRVANA
+June 23, 1989
+Rhino Records
+Westwood, CA
+
+SOURCE (AMT #2a):
+unknown > unknown
+
+TRANSFER:
+JVC HR-S9911U > Echo Layla24 > Adobe Audition 1.5 > CD Wave 1.94.8 > FLAC frontend 1.7.1
+
+GENERATION:
+VHS(x) > WAV [48kHz] > WAV [44.1kHz] > FLAC [Level 8]
+
+LENGTH:
+17:52
+
+NOTES:
+- The sound gets choppy for a few seconds at the end of "Love Buzz."
+
+TRACKS:
+01. Love Buzz (cuts in, cut)
+02. Big Cheese (cuts in, cut)
+03. About A Girl (cuts in, cut)
+04. Sifting (cuts in, cut)
+05. Spank Thru (cuts in)
+06. Dive (cuts in)
+
+MD5 FINGERPRINTS:
+128b156475b172e55487974009dc44a2 *Nirvana_1989-06-23_early_AMT2a_t01.flac
+21cf9405572c584f37d87f53a88a4706 *Nirvana_1989-06-23_early_AMT2a_t02.flac
+71a6a11dab2e28e5295f2931efcfcbd1 *Nirvana_1989-06-23_early_AMT2a_t03.flac
+d65642dd2a3cdd27d24676d8e736d19a *Nirvana_1989-06-23_early_AMT2a_t04.flac
+bc15e7c706d68e2a395e29531a69d5de *Nirvana_1989-06-23_early_AMT2a_t05.flac
+99f63623acef2149668fc6d008fab8bd *Nirvana_1989-06-23_early_AMT2a_t06.flac
+
+TRANSFERRED BY:
+Kris Sproul
+
+PLEASE DO NOT SELL OR ENCODE TO MP3

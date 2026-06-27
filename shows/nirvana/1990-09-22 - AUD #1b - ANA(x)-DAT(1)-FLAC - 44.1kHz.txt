@@ -1,0 +1,56 @@
+NIRVANA
+September 22, 1990
+Motor Sports International Garage
+Seattle, WA
+
+DISC #1/1 (51:18)
+-----------------
+01) Stay Away
+02) Blew
+03) Been A Son
+04) Negative Creep
+05) Floyd The Barber
+06) About A Girl (cut)
+07) School
+08) Love Buzz
+09) Breed
+10) In Bloom
+11) Scoff
+12) Spank Thru
+13) Sliver
+14) Dive
+15) jam
+
+GENERATION
+-----------------
+ANA(x) -> DAT(1) -> WAV [32kHz] -> WAV [44.1kHz] -> FLAC [Level 8]
+
+SOURCE (AUD#1b)
+-----------------
+unknown -> unknown
+
+TRANSFER
+-----------------
+Sony PCM-R300 -> Echo Mia -> Cool Edit Pro 2.0 -> Adobe Audition 2.0 -> CD Wave 1.94.8 -> FLAC Frontend 1.7.1
+
+MD5 FINGERPRINTS
+-----------------
+3105465a88988167c3d85f4f6e2f31dc *nirvana1990-09-22t01.flac
+409cda854344a748a4f73a22bf965510 *nirvana1990-09-22t02.flac
+25c353d92629d2f34ea8107fb12f73a1 *nirvana1990-09-22t03.flac
+20ba6730b406ee1a07bd28384fabb7cb *nirvana1990-09-22t04.flac
+efa9101304d8e0d41c509dfa82310eb0 *nirvana1990-09-22t05.flac
+36c827f312d84a37143a34a53c325d54 *nirvana1990-09-22t06.flac
+1dcb3967a61cd0a3c47d7968b99f8c3a *nirvana1990-09-22t07.flac
+ffce520b45d0d92f0ddc11478c9d2d03 *nirvana1990-09-22t08.flac
+cca670bbaf2164e1e0c77d4c1daa7de8 *nirvana1990-09-22t09.flac
+ae2cd1e8b7f635bf32ed01cd639592b8 *nirvana1990-09-22t10.flac
+d57af872f566c80967a500b7d446b990 *nirvana1990-09-22t11.flac
+d84aa765208aef83bbec2195f468f834 *nirvana1990-09-22t12.flac
+0ed418b38877e5197c66151f7eca50a4 *nirvana1990-09-22t13.flac
+82d1cd115ead5c94312342a345a36af5 *nirvana1990-09-22t14.flac
+8d5ae5c8ba2b214a4a4f1b698ddf03a0 *nirvana1990-09-22t15.flac
+
+
+Transferred by John Dionysus.
+PLEASE DO NOT ENCODE TO MP3 OR SELL!

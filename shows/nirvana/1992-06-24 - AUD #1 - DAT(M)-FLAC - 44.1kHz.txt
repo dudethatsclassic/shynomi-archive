@@ -1,0 +1,69 @@
+NIRVANA
+June 24, 1992
+Le Zénith
+Paris, France
+
+DISC #1/1 (79:53)
+-----------------
+01) intro
+02) Aneurysm
+03) Drain You
+04) Stay Away
+05) Sliver
+06) School
+07) In Bloom
+08) Breed
+09) About A Girl
+10) Scoff
+11) Polly
+12) Lithium
+13) Blew
+14) Been A Son
+15) On A Plain
+16) Negative Creep
+17) encore break
+18) Come As You Are
+19) Love Buzz
+20) Smells Like Teen Spirit
+21) Territorial Pissings
+22) Endless, Nameless
+
+GENERATION
+-----------------
+DAT(M) -> WAV [48kHz] -> WAV [44.1kHz] -> FLAC [Level 8]
+
+SOURCE (AUD #1)
+-----------------
+Sony PC-62 -> Sony TCD-D3
+
+TRANSFER
+-----------------
+Unknown -> Adobe Audition 3.0 -> CD Wave 1.98 -> FLAC Frontend 1.7.1
+
+MD5 FINGERPRINTS
+-----------------
+5a7d7f28441be1699372b6d75ff6e9c8 *Nirvana_1992-06-24_AUD1_DATM-FLAC_t01.flac
+58362ab4816160a99128c6e44ae3121e *Nirvana_1992-06-24_AUD1_DATM-FLAC_t02.flac
+b27a23891744dec544519e9bc68091dc *Nirvana_1992-06-24_AUD1_DATM-FLAC_t03.flac
+1455000897c5c6e3b4b850de9ffc14e6 *Nirvana_1992-06-24_AUD1_DATM-FLAC_t04.flac
+e616b60045b279a6988189ec8f8cffab *Nirvana_1992-06-24_AUD1_DATM-FLAC_t05.flac
+d24e780176f510ab54a2f9107579dab8 *Nirvana_1992-06-24_AUD1_DATM-FLAC_t06.flac
+40521a4fff347958cac0bdccd8da31cc *Nirvana_1992-06-24_AUD1_DATM-FLAC_t07.flac
+cb159a2e261c94d416f3fdac1de97c3f *Nirvana_1992-06-24_AUD1_DATM-FLAC_t08.flac
+dba454afa4ce2a6a50701b34fcecbcf3 *Nirvana_1992-06-24_AUD1_DATM-FLAC_t09.flac
+b158d34cd12504f81a9483c77eb7a1d7 *Nirvana_1992-06-24_AUD1_DATM-FLAC_t10.flac
+816ddcce09a1afb308f5696c64b3c2b4 *Nirvana_1992-06-24_AUD1_DATM-FLAC_t11.flac
+00fc4af29af5671b4abf037471548c5c *Nirvana_1992-06-24_AUD1_DATM-FLAC_t12.flac
+73f41be5ab5a703dea2ec274c42c3eea *Nirvana_1992-06-24_AUD1_DATM-FLAC_t13.flac
+754482c8b023f92616686ccbeef3e84c *Nirvana_1992-06-24_AUD1_DATM-FLAC_t14.flac
+4c66a74184ec75d71331f26803007de0 *Nirvana_1992-06-24_AUD1_DATM-FLAC_t15.flac
+b74dd2198c34c71d93380ac3418ea48a *Nirvana_1992-06-24_AUD1_DATM-FLAC_t16.flac
+f289ed266560605f0720aae505aa24bf *Nirvana_1992-06-24_AUD1_DATM-FLAC_t17.flac
+3b483b1c59466ce515454ce5c37dddd5 *Nirvana_1992-06-24_AUD1_DATM-FLAC_t18.flac
+90c6de57e4a4fce77fa8ebc4c882c697 *Nirvana_1992-06-24_AUD1_DATM-FLAC_t19.flac
+b77dcd9d09922fe1efbdfd91b9ac5018 *Nirvana_1992-06-24_AUD1_DATM-FLAC_t20.flac
+34be6920ce945cd065271c29d871c16d *Nirvana_1992-06-24_AUD1_DATM-FLAC_t21.flac
+59f3f9e2b6c16070d1ac9b92299febe0 *Nirvana_1992-06-24_AUD1_DATM-FLAC_t22.flac
+
+Recorded & Transferred by Kissamos
+PLEASE DO NOT ENCODE TO MP3 OR SELL!

@@ -1,0 +1,53 @@
+NIRVANA
+February 16, 1990
+Bogart's
+Long Beach, CA
+
+DISC #1/1 (47:51)
+-----------------
+01) Love Buzz
+02) Floyd The Barber
+03) Scoff
+04) Dive
+05) Sappy
+06) About A Girl
+07) Spank Thru
+08) Breed
+09) School
+10) Been A Son
+11) Stain
+12) Negative Creep
+13) Blew
+
+GENERATION
+-----------------
+ANA(M) -> WAV [48kHz] -> WAV [44.1kHz] -> FLAC [Level 8]
+
+SOURCE (AUD#2)
+-----------------
+Sony (supplied) -> Sony WM-F76
+
+TRANSFER
+-----------------
+Nakamichi DR-8 -> Hosa RCA cable -> LynxONE analog-in -> Adobe Audition 1.5 -> CD Wave 1.94.5 -> FLAC Frontend 1.7.1
+
+MD5 FINGERPRINTS
+-----------------
+bc3763fa811cb2a6a9ed290a6e639b74 *nirvana1990-02-16t01.flac
+26eaffdcedd9a5cb569fef50ccd4a5dc *nirvana1990-02-16t02.flac
+aed84524a6c412ae0b6f5df71a555c2a *nirvana1990-02-16t03.flac
+5a0998154f286caeb9afd9fc01bc7827 *nirvana1990-02-16t04.flac
+ac4649043024d342772c539cc9b9adff *nirvana1990-02-16t05.flac
+25955aa697001e309bf86491284bf027 *nirvana1990-02-16t06.flac
+72ec6c057a1fbe0cac77e8677b7f7807 *nirvana1990-02-16t07.flac
+07aaa05e731f14636b42dc6a30ce8932 *nirvana1990-02-16t08.flac
+975f12c6b2dfa4b55f07c0e27c8c180f *nirvana1990-02-16t09.flac
+4f7681df8a48abf94cca2826dfd3b094 *nirvana1990-02-16t10.flac
+26d76605aaeb519b8c0990cf94144939 *nirvana1990-02-16t11.flac
+60bf2d637c8ce4aea6587cce97eb476b *nirvana1990-02-16t12.flac
+49f343c62792dfe8188759489c2082fb *nirvana1990-02-16t13.flac
+6023027786c4cd4addfda6900e82610b *nirvana1990-02-16t14.flac
+
+
+Transferred by Mike Ziegler.
+PLEASE DO NOT ENCODE TO MP3 OR SELL!

@@ -1,0 +1,60 @@
+NIRVANA
+November 2, 1993
+Auditorium de Verdun
+Verdun, QC, Canada
+
+DVD DL (86:26)
+-----------------
+01) intro
+02) Radio Friendly Unit Shifter
+03) Drain You
+04) Breed
+05) Serve The Servants
+06) About A Girl
+07) Heart-Shaped Box
+08) Sliver
+09) Dumb
+10) In Bloom
+11) Come As You Are
+12) Lithium
+13) Pennyroyal Tea
+14) School
+15) Polly
+16) Milk It
+17) Rape Me
+18) Territorial Pissings
+19) Smells Like Teen Spirit (cut)
+20) All Apologies
+21) On A Plain
+22) Scentless Apprentice
+23) Blew
+
+GENERATION
+-----------------
+8MM(M) -> DVD-R DL(0)
+
+SOURCE (AMT#1)
+-----------------
+unknown -> Memorex
+
+TRANSFER
+-----------------
+Sony DCR-TRV230 D8 -> Adobe Premiere -> AVI -> iMovie 09  -> iDVD 09 -> MPEG2 8mbps VBR / PCM 48KHZ CBR  
+
+MD5 FINGERPRINTS
+-----------------
+7841b853ed90084ac8d1e59564bd1243 *VIDEO_TS.BUP
+7841b853ed90084ac8d1e59564bd1243 *VIDEO_TS.IFO
+5f7973ff9e4152827994d4149c8af39d *VIDEO_TS.VOB
+4d6797f46644a68f50aa033673306525 *VTS_01_0.BUP
+4d6797f46644a68f50aa033673306525 *VTS_01_0.IFO
+770dfd1701714dd0e00c90bb556cfcaf *VTS_01_0.VOB
+664d5f467dc46b1df5ed2284d182f239 *VTS_01_1.VOB
+12d6932b0d7bca7bcfe6445fce310690 *VTS_01_2.VOB
+d052037619ede02dd345dacd664f3e2f *VTS_01_3.VOB
+f8e70c9e97b1aac4f89b8f7b1edc9886 *VTS_01_4.VOB
+0eacf0926ab4e3aef301ba9554f1a1d1 *VTS_01_5.VOB
+
+Transferred by Hugo Léveillé.
+Tracking, Editing, Authoring By David Lajeunesse.
+PLEASE DO NOT ENCODE TO LESSER FORMATS AND DISTRIBUTE IN LOSSY FORMS.

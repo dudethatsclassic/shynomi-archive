@@ -1,0 +1,58 @@
+NIRVANA
+February 24, 1994
+Palatrussardi
+Milan, Italy
+
+DISC #1/1 (53:22)
+-----------------
+01) Sliver
+02) Dumb
+03) In Bloom
+04) About A Girl
+05) Lithium
+06) Pennyroyal Tea
+07) School
+08) Polly
+09) Very Ape
+10) Lounge Act
+11) Rape Me
+12) Territorial Pissings
+13) All Apologies
+14) On A Plain
+15) Blew
+16) Heart-Shaped Box
+
+GENERATION
+-----------------
+CD(M) [Sliver And Dumb bootleg] -> WAV [44.1kHz] -> FLAC [Level 8]
+
+SOURCE (AUD#1)
+-----------------
+unknown -> Sony WM-D6
+
+TRANSFER
+-----------------
+Plextor Plexwriter 48x24x48 -> Exact Audio Copy V0.95 -> Sound Forge 7.0 -> CD Wave 1.93 beta -> FLAC Frontend 1.7.1
+
+MD5 FINGERPRINTS
+-----------------
+2355001ecc56d82d6f75d83ed9ee58fe *nirvana1994-02-24t01.flac
+2bad54d54af2dbd9f7433ce9522bbf75 *nirvana1994-02-24t02.flac
+ab90f7a1a40401928586dc5d77f97412 *nirvana1994-02-24t03.flac
+8adb9d541110a00e8d835aa849c608e3 *nirvana1994-02-24t04.flac
+b2a6bc288103cf5ab6074cf889a78ab0 *nirvana1994-02-24t05.flac
+ac0e498bc0f313d0de458f1c8618d98c *nirvana1994-02-24t06.flac
+b7ddd26dace73fa50825de9741cf98ea *nirvana1994-02-24t07.flac
+eb01ed3c1a868fb0294bf53fd12d18d4 *nirvana1994-02-24t08.flac
+58f90bf3c98b666ba4605a8523bfdfa6 *nirvana1994-02-24t09.flac
+996051fbf5eee2773708ea3ef9ba34bf *nirvana1994-02-24t10.flac
+1484d686be5758ce132dfee5abac56e9 *nirvana1994-02-24t11.flac
+97b655a268186117f70959eee35d6fe8 *nirvana1994-02-24t12.flac
+a0fa91abb6d9bd899b783db4df002c0f *nirvana1994-02-24t13.flac
+9d6917b24e170f97d14d9b9a8577f9ec *nirvana1994-02-24t14.flac
+9bb95a907aea76c26bd13ab4836b2e3b *nirvana1994-02-24t15.flac
+9f617bac0c024bc7262e1a647086d042 *nirvana1994-02-24t16.flac
+
+
+Transferred by Mike Ziegler.
+PLEASE DO NOT ENCODE TO MP3 OR SELL!

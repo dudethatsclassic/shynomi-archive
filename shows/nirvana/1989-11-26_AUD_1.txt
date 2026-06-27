@@ -1,0 +1,63 @@
+NIRVANA
+November 26, 1989
+Bloom
+Mezzago, IT  
+
+DISC #1/1 (56:36)
+-----------------
+
+
+01) 	Intro / School 		4:04
+02) 	Dazed And Confused 	5:16
+03) 	Scoff 			4:37
+04) 	Love Buzz 		3:45
+05) 	Floyd The Barber 	2:18
+06) 	Dive 			4:38
+07) 	Sappy 			3:19
+08) 	Big Cheese 		4:29
+09) 	Spank Thru 		3:15
+10) 	About A Girl 		2:48
+11) 	Breed 			3:49
+12) 	Paper Cuts 		4:43
+13) 	Been A Son 		2:05
+14) 	Negative Creep 		3:25
+15) 	Blew 			3:55
+	
+
+
+GENERATION
+-----------------
+Unofficial CD [ In The Bloom ]-> WAV [44.1kHz] -> FLAC [Level 8]
+
+SOURCE (AUD#1)
+-----------------
+unknown -> unknown
+
+EXTRACTION
+-----------------
+PIONEER DVD-RW  DVR-110D -> Exact Audio Copy v0.99 prebeta3 -> FLAC Frontend 1.7.1
+
+
+5bc2c7732df917d3c776be8ca0592c42 *01 - Intro,school.flac
+20d723302a44349532f7698ba8d87e51 *02 - Jam.flac
+50c270d516579431d4f3beb61e52b788 *03 - Scoff.flac
+9d73ffeda8f1668bf0e05f9b7c456531 *04 - Love Buzz.flac
+55fac2c3b0f3a69ced44b815e2071934 *05 - Floyd The Barber.flac
+d89c3bfedb4b8389caf513163f99a4af *06 - Dive.flac
+2348f4b1ea607d1979663218e9a49850 *07 - Another Rule.flac
+b55e9aab5ff9e73cd76325732360da5a *08 - Big Cheese.flac
+9ed16a879fa942b9d278a92cdedd077e *09 - Freedom Of Choise.flac
+74e1884e0df130e84c81e6ffe772c4ac *10 - About A Girl.flac
+ce276c4ae2cbf97d31b6919db15eae77 *11 - Breed.flac
+5e33f017410607eb4f7421df97e4ff41 *12 - Paper Cuts.flac
+f2fd5c86332eaed80607961e608703ae *13 - Been A Son.flac
+ba08180c026a3a03a893b79283666f54 *14 - Negative Creep.flac
+464052d3a1bbd77282cc321b7626ee3f *15 - Blew.flac
+b1d176976974cb2133f1fa46c486d151 *In The Bloom.cue
+486c9cde4651c1cbc72104632b6e7e07 *Nirvana - In The Bloom.log
+4145b11f8045eebf40fb0ad25a2176e4 *Nirvana - In The Bloom.m3u
+
+
+
+Extracted by Jérémy Plenecassagne.
+PLEASE DO NOT ENCODE TO MP3 OR SELL!

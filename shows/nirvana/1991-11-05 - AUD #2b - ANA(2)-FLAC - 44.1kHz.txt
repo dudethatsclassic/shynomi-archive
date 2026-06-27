@@ -1,0 +1,70 @@
+NIRVANA
+November 5, 1991
+Astoria Theatre
+London, United Kingdom
+
+SOURCE (AUD #2b):
+unknown > Sony WM-D6
+
+TRANSFER:
+Nakamichi DR-8 > Echo Layla24 > Adobe Audition 2.0 > CD Wave 1.95.1 > FLAC frontend 1.7.1
+
+GENERATION:
+ANA(2) > WAV [48kHz] > WAV [44.1kHz] > FLAC [Level 8]
+
+LENGTH:
+72:09
+
+NOTES:
+- Recording is quite distorted at times, resulting in minor dropouts.
+
+TRACKS:
+01. intro
+02. Jesus Wants Me For A Sunbeam
+03. Aneurysm
+04. Drain You
+05. School
+06. Floyd The Barber
+07. Smells Like Teen Spirit
+08. About A Girl
+09. Polly
+10. Breed
+11. Sliver
+12. Lithium
+13. Love Buzz
+14. Come As You Are
+15. Been A Son
+16. Negative Creep
+17. On A Plain
+18. Blew
+19. Dumb
+20. Pennyroyal Tea
+21. Endless, Nameless
+
+MD5 FINGERPRINTS:
+67821d27964d4d80e6dce03f1ed8691d *Nirvana_1991-11-05_AUD2b_t01.flac
+4eae472eec63e608992853f7f1c669f5 *Nirvana_1991-11-05_AUD2b_t02.flac
+d1b010492dfa7a13f40a1d6b0eedb946 *Nirvana_1991-11-05_AUD2b_t03.flac
+c98fd82e593b4e1ebae6c3c12ae35afd *Nirvana_1991-11-05_AUD2b_t04.flac
+80eeb01b0b599297002472efca8094d1 *Nirvana_1991-11-05_AUD2b_t05.flac
+bf1cb07732e5a445409b3a97979933e1 *Nirvana_1991-11-05_AUD2b_t06.flac
+5cfd71e41ed51a9341262b39cee3947c *Nirvana_1991-11-05_AUD2b_t07.flac
+5ad6f91ab896a538bbb188faa8ede7e9 *Nirvana_1991-11-05_AUD2b_t08.flac
+36c05ec6a6dc86ea7f325d3bebe6464c *Nirvana_1991-11-05_AUD2b_t09.flac
+cb7833c5a14122e8bca3087f1a73080f *Nirvana_1991-11-05_AUD2b_t10.flac
+16f8625c1ead657789600bdd7923ea20 *Nirvana_1991-11-05_AUD2b_t11.flac
+205766612399fd170517257aa934c5a4 *Nirvana_1991-11-05_AUD2b_t12.flac
+d3852b7e4dc487d4f5a613ed2ff08920 *Nirvana_1991-11-05_AUD2b_t13.flac
+ade85d9a67fdd09d2b6a97ed01b7232a *Nirvana_1991-11-05_AUD2b_t14.flac
+2afff9c379243ea65e0301363790772d *Nirvana_1991-11-05_AUD2b_t15.flac
+f5f63646dcc854b2c17bf1c7ea711c23 *Nirvana_1991-11-05_AUD2b_t16.flac
+c0255a1ab9d397362ae9a7cd1ba69267 *Nirvana_1991-11-05_AUD2b_t17.flac
+5efc7e0a5dde4009225200470f9a254c *Nirvana_1991-11-05_AUD2b_t18.flac
+9931d8ad73638ddcd4b29bf53bb11bda *Nirvana_1991-11-05_AUD2b_t19.flac
+d46ad53350fa2382cb3c046752a111e3 *Nirvana_1991-11-05_AUD2b_t20.flac
+3907de335b119e7d5f2089be20306853 *Nirvana_1991-11-05_AUD2b_t21.flac
+
+TRANSFERRED BY:
+Kris Sproul
+
+PLEASE DO NOT SELL OR ENCODE TO MP3

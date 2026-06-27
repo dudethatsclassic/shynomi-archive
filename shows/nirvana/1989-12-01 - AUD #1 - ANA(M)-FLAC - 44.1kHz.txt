@@ -1,0 +1,62 @@
+NIRVANA
+December 1, 1989
+Le Fahrenheit,
+Maison des Jeunes et de la Culture (Espace Icare),
+Issy-les-Moulineaux, France
+
+DISC #1/1 (43:08)
+-----------------
+01. intro
+02. School
+03. Scoff
+04. Love Buzz
+05. Floyd The Barber
+06. Dive (cuts in)
+07. Polly
+08. Big Cheese
+09. Spank Thru
+10. Breed
+11. Been A Son (cuts in)
+12. Stain
+13. Negative Creep
+14. Blew
+
+GENERATION
+-----------------
+ANA(M) -> WAV [48kHz] -> WAV [44.1kHz] -> FLAC [Level 8]
+
+SOURCE (AUD #1)
+-----------------
+unknown -> Sony
+
+TRANSFER
+-----------------
+Nakamichi DR-3 -> RCA to 1/4" TS custom Klotz cables -> M-Audio Delta Audiophile 192 analog-in -> Adobe Audition 3.0 -> CD Wave 1.98 -> FLAC Frontend 1.7.1
+
+NOTES
+-----------------
+Has some cuts between songs : 
+- after "Floyd the Barber" which makes "Dive" to cut in
+- after "Dive" (thus, part of the jam is missing)
+- after "Spank Thru" (tape flip, thus missing "About a Girl")
+- after "Breed" which makes "Been A Son" to cut in
+
+MD5 FINGERPRINTS
+-----------------
+7cb1110dc8beaad2b37cc3f89283d424 *nirvana_1989-12-01_aud1_anam_d1t01.flac
+52e7693aac80a90998d32367daa7cd33 *nirvana_1989-12-01_aud1_anam_d1t02.flac
+20775bebadee24026767c95d103be25f *nirvana_1989-12-01_aud1_anam_d1t03.flac
+6d78fe581f7a7bc78b2b26b28b8f39b0 *nirvana_1989-12-01_aud1_anam_d1t04.flac
+1cc1cf9af0fdf674684a2fda8b17c7df *nirvana_1989-12-01_aud1_anam_d1t05.flac
+701857496b14c98f8cdff87fab9e860e *nirvana_1989-12-01_aud1_anam_d1t06.flac
+4dcd28abf5b887cabd26bcd9e8905b07 *nirvana_1989-12-01_aud1_anam_d1t07.flac
+01f2d987e2f4e0e599062293b88d8a3e *nirvana_1989-12-01_aud1_anam_d1t08.flac
+66de31ed37003bd6ac2115d40f9834a6 *nirvana_1989-12-01_aud1_anam_d1t09.flac
+1974d74e307bd1c7507678cd6409a299 *nirvana_1989-12-01_aud1_anam_d1t10.flac
+48c7eac9ef714f5af91b54317953a536 *nirvana_1989-12-01_aud1_anam_d1t11.flac
+0748fb7e386792682c61aa38fd55d5c9 *nirvana_1989-12-01_aud1_anam_d1t12.flac
+262c3373430f1f5204f29087f5cbc4a7 *nirvana_1989-12-01_aud1_anam_d1t13.flac
+41d4f20a20c50358c7864c7234f81498 *nirvana_1989-12-01_aud1_anam_d1t14.flac
+
+Transferred by Pierre Leroy
+PLEASE DO NOT ENCODE TO MP3 OR SELL!

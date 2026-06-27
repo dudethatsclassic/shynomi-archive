@@ -1,0 +1,47 @@
+NIRVANA
+April 10th, 1990
+Blind Pig
+Ann Arbor, MI
+
+SOURCE; AUD #1 [Sony ECM-121 Micophone & Sony WM-D6C Cassette Recorder]
+
+GENERATION:
+Analog(Master)>.Wav>.Flac>Mastering>.Flac
+
+[Mastered By Brian Robb - 07/07/11]
+
+LENGTH:
+51:22
+
+TRACKS:
+01. Introduction
+02. School
+03. Floyd The Barber
+04. Love Buzz
+05. Dive
+06. Spank Thru
+07. Breed
+08. About A Girl
+09. Big Cheese
+10. Scoff
+11. Molly's Lips
+12. Stain
+13. Been A Son
+14. Negative Creep
+15. Blew
+
+Overview: This is a Source I initially got in a trade from a friend of the Taper in 2002. Before that I think everyone was listening to the Dubious Vinyl Bootleg source[AUD #2]. Except for the obvious tape problems during "About A Girl" it sounds rather amazing! The Recording catches the band in a great mood and they tear up mostly Bleach Era Material. I'm not sure why, but this is one of my favorite all time Nirvana shows. So why not make it better?
+
+The raw master cassette transfer leaves alot to be desired. It has a very narrow bass response and very odd transiet mids. Also the pitch is ever so slighty off. But it is a excellent stereo audience. 
+
+I performed the following changes to this show:
+
+-Pitch Corrected based on Guitar/Bass Tunings and The Pitch of the 2 AMT Video sources. It was slowed down Roughly .7% to match. Used Adobe Audiiton CS5 for this.
+-Overall Equalization was was done. Inspired by the response of Jack Endino's 2009 Remix of 02/09/90 from the Bleace Deluxe Editon Album. Used alot of referencing and Vonexgo CurveEQ VST.
+-Mastered using T-tracks 3 and Adobe Audiiton CS5.
+-Encoded using FLAC 1.7.1 & Adobe Audiiton CS5.
+
+Turn this up.
+
+-Brian [07/08/11]
+lofibrian@hotmail.com

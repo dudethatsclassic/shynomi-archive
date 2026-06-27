@@ -1,0 +1,33 @@
+NIRVANA
+October 21, 1990
+Maida Vale Studio 3
+London, UK
+
+DISC #1/1 (1:09)
+-----------------
+01) Jam
+
+GENERATION
+-----------------
+VHS(x) -> AVI [DV25] -> M2V/WAV [8Mbps CBR/48kHz PCM] -> WAV [48kHz] -> WAV [44.1kHz] -> FLAC [Level 8]
+
+SOURCE (AMT CLIP #1a)
+-----------------
+unknown -> unknown
+
+TRANSFER
+-----------------
+JVC HR-S9911U -> Sony DCR-TRV460 -> IEEE 1394 -> Adobe Premiere Pro 2.0 -> TMPGEnc Plus 2.5 -> Adobe Encore DVD 2.0
+
+EXTRACTION
+-----------------
+PgcDemux 1.2.0.5 -> Adobe Audition 1.5 -> FLAC Frontend 1.7.1
+
+MD5 FINGERPRINTS
+-----------------
+5a10e216bd78e2bc2d404930ee6d685f *nirvana1990-10-21t01.flac
+
+
+Transferred by Mike Ziegler.
+Extracted by Pieter Vermeulen.
+PLEASE DO NOT ENCODE TO ANY OTHER FORMAT OR SELL!

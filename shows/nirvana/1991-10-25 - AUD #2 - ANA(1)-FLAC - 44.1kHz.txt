@@ -1,0 +1,65 @@
+NIRVANA
+October 25, 1991
+The Palace (Rock For Choice Benefit)
+Hollywood, CA
+
+SOURCE (AUD #2):
+Sony PC-62 > Sony WM-D3
+
+TRANSFER:
+Nakamichi CR-7A > Sony DTC-60ES > M-Audio Transit > Peak 4.13 > Adobe Audition 1.5 > CD Wave 1.94 > FLAC frontend 1.7.1
+
+GENERATION:
+ANA(1) > WAV [48kHz] > WAV [44.1kHz] > FLAC [Level 8]
+
+LENGTH:
+63:13
+
+NOTES:
+- Has a few minor static noises from the source tape toward the beginning of the show.
+- "On A Plain" is cut due to a tape flip.
+
+TRACKS:
+01. Jesus Wants Me For A Sunbeam
+02. Aneurysm
+03. Drain You
+04. School
+05. Floyd The Barber
+06. Smells Like Teen Spirit
+07. About A Girl
+08. Polly
+09. Breed
+10. Sliver
+11. Love Buzz
+12. Lithium
+13. Been A Son
+14. On A Plain (cut)
+15. Negative Creep
+16. Blew
+17. Rape Me
+18. Territorial Pissings
+
+MD5 FINGERPRINTS:
+0de0aea38ecd0387b1338e75afd39b0e *Nirvana_1991-10-25_AUD2_t01.flac
+ba6b1620a86b2741dbd0574095406154 *Nirvana_1991-10-25_AUD2_t02.flac
+f92f04af14ad4b9abc5b0a1c4331a266 *Nirvana_1991-10-25_AUD2_t03.flac
+991917af705bb3a018ff50ba25e51530 *Nirvana_1991-10-25_AUD2_t04.flac
+b7fd1451a2f0ec5981a4ea97f5bb0aab *Nirvana_1991-10-25_AUD2_t05.flac
+713f6111b08b338dd6eee056936cc392 *Nirvana_1991-10-25_AUD2_t06.flac
+5714ac45e0241817cb4ee96a65f66e55 *Nirvana_1991-10-25_AUD2_t07.flac
+ca506995843c1a766b8b8f7e2b3f86f6 *Nirvana_1991-10-25_AUD2_t08.flac
+3486b22bdea301d85e4eb33e719fcd9e *Nirvana_1991-10-25_AUD2_t09.flac
+eede87d872269c1aacdba8a3c4184d1c *Nirvana_1991-10-25_AUD2_t10.flac
+78c5fec1e9015b58f8882f5cbfa61f3c *Nirvana_1991-10-25_AUD2_t11.flac
+78e6724b2f6994e9286cb4b8010f6e30 *Nirvana_1991-10-25_AUD2_t12.flac
+389d640719709c21fb61689ca43256e0 *Nirvana_1991-10-25_AUD2_t13.flac
+f61546ac875537b26a1484bcc740247a *Nirvana_1991-10-25_AUD2_t14.flac
+d50038b05364eda19aacfdee5aed4c17 *Nirvana_1991-10-25_AUD2_t15.flac
+d15787dbf01b8c0c7b6ebaf08656efc8 *Nirvana_1991-10-25_AUD2_t16.flac
+9b594c2d5a61c68ad5c676713b6ee85a *Nirvana_1991-10-25_AUD2_t17.flac
+6c7f7930c8c4fbba5d78abbc5e917bc9 *Nirvana_1991-10-25_AUD2_t18.flac
+
+TRANSFERRED BY:
+JEMS
+
+PLEASE DO NOT SELL OR ENCODE TO MP3

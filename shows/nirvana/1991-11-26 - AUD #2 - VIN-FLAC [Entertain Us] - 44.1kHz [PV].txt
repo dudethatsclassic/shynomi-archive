@@ -1,0 +1,33 @@
+NIRVANA
+November 26, 1991
+Communal Building, University of Bradford Union, University of Bradford
+Bradford, UK
+
+SOURCE (AUD #2):
+Sony ECM-909 > Sony TCD-D3
+
+TRANSFER:
+Technics SL-5200 > Audio Technica AT-440 MLa > Technics SU-VX500 > ESI Juli @ > Wavelab 6.11 > Adobe Audition 1.5 > iZotope RX 3.01.734 Advanced > FLAC Frontend 2.1
+
+GENERATION:
+DAT(M) > ANA(1) > UNOFFICIAL 12" ["Entertain Us"] > WAV [24bit][96kHz] > WAV [16bit][44.1kHz] > FLAC [Level 8]
+
+LENGTH:
+9:19
+
+NOTES:
+- "Entertain Us" was pressed in 1000 copies of which approximately 400 were destroyed in a fire.  100 copies contain an insert.
+- The full AUD #2 is known to exist.
+
+TRACKS:
+01. All Apologies
+02. Something In The Way
+
+MD5 FINGERPRINTS:
+eaf59d398050c3a1f671068798a59d3f *Nirvana_1991-11-26_AUD2_t01.flac
+455c0ee24330db4fda90846ea70dc10c *Nirvana_1991-11-26_AUD2_t02.flac
+
+TRANSFERRED BY:
+Pieter Vermeulen
+
+PLEASE DO NOT SELL OR ENCODE TO MP3

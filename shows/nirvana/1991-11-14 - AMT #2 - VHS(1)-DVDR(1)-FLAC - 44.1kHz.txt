@@ -1,0 +1,44 @@
+NIRVANA
+November 14, 1991
+Arena
+Vienna, Austria
+
+SOURCE (AMT #2):
+unknown > unknown
+
+EXTRACTION:
+Sony Optiarc AD-7260S > DVD Decrypter 3.5.4.0 > Adobe Audition 3.0 > CD Wave 1.98 > Trader's Little Helper 2.6.0
+
+GENERATION:
+VHS(1) > DVDR(1) [PCM] > WAV [48kHz] > WAV [44.1kHz] > FLAC [Level 8]
+
+LENGTH:
+17:53
+
+NOTES:
+- A built-in camcorder effect is used during "Floyd The Barber" which causes the sound to fade in and out several times.
+
+TRACKS:
+01. Talk To Me (soundcheck) (cuts in)
+02. Oh, The Guilt (part of) (soundcheck)
+03. Drain You
+04. Aneurysm
+05. School (part of)
+06. jam
+07. School
+08. Floyd The Barber (cuts in, cuts out)
+
+MD5 FINGERPRINTS:
+d046c0a79e27a365e680d232a4fc387a *Nirvana_1991-11-14_AMT2_t01.flac
+c309fc6e551ecb5a0e5867423819adb2 *Nirvana_1991-11-14_AMT2_t02.flac
+d22609d8af149c15ce4e2966987d8358 *Nirvana_1991-11-14_AMT2_t03.flac
+91b03320a9419d7f01cac2fec0e7ccd9 *Nirvana_1991-11-14_AMT2_t04.flac
+3081a3b9866c4956a111f387ee90e52d *Nirvana_1991-11-14_AMT2_t05.flac
+35a133603a522efdab72f765c780708c *Nirvana_1991-11-14_AMT2_t06.flac
+b9e9ce9d6cde9be263dd2920d111f426 *Nirvana_1991-11-14_AMT2_t07.flac
+c61f9a6df326b2139ee2730fe8bd06e6 *Nirvana_1991-11-14_AMT2_t08.flac
+
+EXTRACTED BY:
+Mike Ziegler
+
+PLEASE DO NOT SELL OR ENCODE TO MP3

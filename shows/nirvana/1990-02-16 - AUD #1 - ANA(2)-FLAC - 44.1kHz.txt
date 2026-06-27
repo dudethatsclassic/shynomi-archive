@@ -1,0 +1,59 @@
+NIRVANA
+February 16, 1990
+Bogart's
+Long Beach, CA
+
+SOURCE (AUD #1):
+unknown > Sony TC-D5
+
+TRANSFER:
+Nakamichi DR-8 > Tascam DA-30mkII > Echo Layla24 > Cool Edit Pro 2.0 > CD Wave 1.93 beta > FLAC frontend 1.7.1
+
+GENERATION:
+ANA(2) > WAV [48kHz] > WAV [44.1kHz] > FLAC [Level 8]
+
+BURNED GENERATION WILL BE:
+ANA(2) > CDR(1)
+
+LENGTH:
+46:17
+
+TRACKS:
+01. intro
+02. Love Buzz
+03. Floyd The Barber
+04. Scoff
+05. Dive
+06. Sappy
+07. About A Girl
+08. Spank Thru
+09. Breed
+10. School
+11. Been A Son
+12. Stain
+13. Negative Creep
+14. Blew
+
+MD5 FINGERPRINTS:
+5c4a71bcb3042c1558271971a0baabaf *Nirvana_1990-02-16_AUD1_ANA2_t01.flac
+34631d70392224baef796fb79a217148 *Nirvana_1990-02-16_AUD1_ANA2_t02.flac
+ea0ab2945785391687cea99890ef9f3d *Nirvana_1990-02-16_AUD1_ANA2_t03.flac
+eeda67e13031be2c13e807aea1c0da66 *Nirvana_1990-02-16_AUD1_ANA2_t04.flac
+2ed86b11ca6abb7ad0891b407476250d *Nirvana_1990-02-16_AUD1_ANA2_t05.flac
+1180824172ef9fb7798d20be8e7a817f *Nirvana_1990-02-16_AUD1_ANA2_t06.flac
+2939154984142e732f4302d395f10279 *Nirvana_1990-02-16_AUD1_ANA2_t07.flac
+1bd3910de2568c6e0f672a28e0f85f0f *Nirvana_1990-02-16_AUD1_ANA2_t08.flac
+88270cac227bc0e47c7f2c092d410ca6 *Nirvana_1990-02-16_AUD1_ANA2_t09.flac
+292619cc5f3c5e00a2e56918bd50bc4c *Nirvana_1990-02-16_AUD1_ANA2_t10.flac
+729beaa91548f7f0d71688b26aad8125 *Nirvana_1990-02-16_AUD1_ANA2_t11.flac
+386086810fe3ea8fb7f4d635edb0cd2c *Nirvana_1990-02-16_AUD1_ANA2_t12.flac
+242bf6d3b95f472b856e0ef56d6240b5 *Nirvana_1990-02-16_AUD1_ANA2_t13.flac
+8c0c444d1f50b67521900162d8ca1196 *Nirvana_1990-02-16_AUD1_ANA2_t14.flac
+
+TRANSFERRED BY:
+Kris Sproul
+
+PLEASE DO NOT SELL OR ENCODE TO MP3
+
+TNDU#3
+www.totalnirvana.net

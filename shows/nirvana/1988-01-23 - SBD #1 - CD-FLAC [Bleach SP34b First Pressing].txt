@@ -1,0 +1,35 @@
+NIRVANA
+January 23, 1988
+Reciprocal Recording,
+Seattle, WA
+
+DISC #1/1 (06:24)
+-----------------
+01) Floyd The Barber
+02) Paper Cuts
+
+SOURCE (SBD #1)
+-----------------
+soundboard -> ½-inch 8-track analog magnetic tape (session tape)
+
+GENERATION
+-----------------
+Official CD "Bleach (SP34b, 1st pressing)" -> WAV [44.1kHz] -> FLAC [Level 8]
+
+EXTRACTION
+-----------------
+Samsung SH-S182M -> Exact Audio Copy v0.99 prebeta 4 -> FLAC Frontend 1.7.1
+
+NOTES
+-----------------
+- produced by Jack Endino
+- final mix by Jack Endino (Paper Cuts features an additional vocal track recorded December 1988)
+
+MD5 FINGERPRINTS
+-----------------
+574381074fc6b7e2ba2d2c1f43681547 *02 - Floyd The Barber.flac
+1fe3b166ce131086e7d2287e9ec0cef7 *06 - Paper Cuts.flac
+
+Extracted by unknown.
+PLEASE DO NOT ENCODE TO MP3 OR SELL!
+NO TRADE

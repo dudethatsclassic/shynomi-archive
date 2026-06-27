@@ -1,0 +1,53 @@
+NIRVANA
+April 10, 1990
+Blind Pig
+Ann Arbor, MI
+
+SOURCE (AUD #2a):
+unknown > unknown
+
+TRANSFER:
+Technics SL-5200 > Audio Technica AT-440 MLa > Technics SU-VX500 > ESI Juli @ > Wavelab 6.11 > Adobe Audition 1.5 > iZotope RX 3.01.734 Advanced > FLAC Frontend 2.1
+
+GENERATION:
+UNOFFICIAL 12" ["Live"] > WAV [24bit][96kHz] > WAV [16bit][44.1kHz] > FLAC [Level 8]
+
+LENGTH:
+45:05
+
+TRACKS:
+01. intro
+02. Floyd The Barber
+03. Love Buzz
+04. Dive
+05. Spank Thru
+06. Breed
+07. About A Girl
+08. Big Cheese
+09. Scoff
+10. Molly's Lips
+11. Stain
+12. Been A Son
+13. Negative Creep
+14. Blew
+
+MD5 FINGERPRINTS:
+6aaa6086ef32b53f5e8e2b62f831bcb0 *Nirvana_1990-04-10_AUD2a_t01.flac
+557ccb93c5fd92dd15aa41c11ceb0d27 *Nirvana_1990-04-10_AUD2a_t02.flac
+1a7baa712f8d77e5a47f080fd9bd1e58 *Nirvana_1990-04-10_AUD2a_t03.flac
+7d8d0f3c794f0e3f35670adf37758423 *Nirvana_1990-04-10_AUD2a_t04.flac
+a85f446012f0f027783fb6531e4475bc *Nirvana_1990-04-10_AUD2a_t05.flac
+fcc42e8b8d79ec0eeb8b4b346c0135e6 *Nirvana_1990-04-10_AUD2a_t06.flac
+06d9a2dac5f0843cbb489ce55e78045f *Nirvana_1990-04-10_AUD2a_t07.flac
+8d2a8f8f2a56fd313828e30b4c2c4752 *Nirvana_1990-04-10_AUD2a_t08.flac
+053c08f5fba604caeccf919442d5c583 *Nirvana_1990-04-10_AUD2a_t09.flac
+c8db0bf6b71269d263bb8ef155fad83a *Nirvana_1990-04-10_AUD2a_t10.flac
+f659ce64ddd430aaaa65d9017d97572d *Nirvana_1990-04-10_AUD2a_t11.flac
+213f2a2b007624b4fe344b4fdf09157f *Nirvana_1990-04-10_AUD2a_t12.flac
+26a67d0107331911e2794e4923856377 *Nirvana_1990-04-10_AUD2a_t13.flac
+3fcb28650cb94f21121285b14f95d7e6 *Nirvana_1990-04-10_AUD2a_t14.flac
+
+TRANSFERRED BY:
+Pieter Vermeulen
+
+PLEASE DO NOT SELL OR ENCODE TO MP3

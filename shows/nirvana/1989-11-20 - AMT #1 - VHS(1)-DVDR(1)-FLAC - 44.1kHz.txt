@@ -1,0 +1,70 @@
+NIRVANA
+November 20, 1989
+Kapu, 
+Linz, Austria
+
+DISC #1/1 (59:09)
+-----------------
+01) intro
+02) School 
+03) Scoff
+04) Love Buzz 
+05) Floyd The Barber 
+06) Dive (cuts in)
+07) Polly 
+08) Big Cheese 
+09) About A Girl 
+10) Spank Thru 
+11) Molly's Lips 
+12) Breed 
+13) Been A Son 
+14) Negative Creep 
+15) Blew (cuts in)
+16) Sappy 
+17) Even In His Youth 
+18) Stain
+
+GENERATION
+-----------------
+VHS(1) -> DVDR(1) -> VOB [256kbps AC3] > AC3 [256kbps] -> WAV [48kHz] -> WAV [44.1kHz] ->  FLAC [Level 8]
+
+SOURCE (AMT#1)
+-----------------
+unknown -> unknown
+
+RIP
+----------------
+Samsung SH-W163A -> DVDDecrypter v3.5.4.0
+
+EXTRACTION
+-----------------
+SmartRipper v2.41 -> BeSweet v1.4 -> Adobe Audition v1.5 -> CD Wave v1.95.1 -> FLAC Frontend 1.7.1
+
+NOTES
+-----------------
+"Dive" and "Blew" both cut in. There's a small cut after "Big Cheese".
+
+MD5 FINGERPRINTS
+-----------------
+168621bd948378d2a09a6ddaef87245a *nirvana1989-11-20t01.flac
+0231f55f1b83bfaf8a42eb28999865e5 *nirvana1989-11-20t02.flac
+29b03070a01bf784be8735a7c8b06388 *nirvana1989-11-20t03.flac
+12bb33a4eb9f957a01b68d4cda6bfcab *nirvana1989-11-20t04.flac
+85624ac9cb80a6a15732e56ad2f8feb0 *nirvana1989-11-20t05.flac
+e84b6314dc7c247a8b53a30efea3a505 *nirvana1989-11-20t06.flac
+288d3ac5469eb825135e0554c780f5c7 *nirvana1989-11-20t07.flac
+b12f980cc3678c5c045e64af689b8fd0 *nirvana1989-11-20t08.flac
+9bd9f8f03f80c0982812a24307068413 *nirvana1989-11-20t09.flac
+ac09493d6d6da15d52332558947ec2ce *nirvana1989-11-20t10.flac
+e19a83fe5d90f2c6211adc2073d683c7 *nirvana1989-11-20t11.flac
+b2bb4ebff1523c7b617384e9d5cb2a7a *nirvana1989-11-20t12.flac
+a0f0807786962a2c5c2a4695275fbd84 *nirvana1989-11-20t13.flac
+e27a2ab8fe03155002684833b1249bd9 *nirvana1989-11-20t14.flac
+1c23a56b04663994e370432bd648b0d3 *nirvana1989-11-20t15.flac
+f3e89d3d5284f2d27674a4c89d43c54b *nirvana1989-11-20t16.flac
+4809dba84fdf9189ffb08e8c5adaf8df *nirvana1989-11-20t17.flac
+faf4e9c67c4de84ba4aad2b0deeec93b *nirvana1989-11-20t18.flac
+
+
+Extracted by Fabian Beyer.
+PLEASE DO NOT ENCODE TO MP3 OR SELL!

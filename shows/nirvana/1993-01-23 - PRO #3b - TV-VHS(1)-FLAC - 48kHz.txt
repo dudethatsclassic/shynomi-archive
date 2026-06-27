@@ -1,0 +1,37 @@
+NIRVANA
+January 23, 1993
+Praça da Apoteose (Hollywood Rock Festival)
+Rio de Janeiro, Brazil
+
+SOURCE (PRO #3b):
+soundboard > unknown
+
+TRANSFER:
+Samsung SV-5000W > Canopus ADVC-300 > IEEE 1394 > Adobe Premiere Pro CS6 > Adobe Audition 3.0 > Trader's Little Helper 2.7.0
+
+GENERATION:
+TV > VHS(1) > AVI [PCM] > WAV [48kHz] > FLAC [Level 8]
+
+LENGTH:
+39:25
+
+TRACKS:
+01. Breed (cuts out)
+02. Lithium (cuts in, cuts)
+03. Polly
+04. About A Girl
+05. Smells Like Teen Spirit
+06. On A Plain (cuts in)
+07. Negative Creep
+08. Been A Son
+09. Blew
+10. Heart-Shaped Box
+11. Scentless Apprentice (cuts out)
+
+MD5 FINGERPRINTS:
+cfa732b283e2164d853040c799be316d *Nirvana_1993-01-23_PRO3b_48.flac
+
+TRANSFERRED BY:
+Mike Ziegler
+
+PLEASE DO NOT SELL OR ENCODE TO MP3

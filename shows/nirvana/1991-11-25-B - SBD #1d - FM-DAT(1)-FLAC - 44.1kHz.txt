@@ -1,0 +1,69 @@
+NIRVANA
+November 25, 1991
+Paradiso
+Amsterdam, Netherlands
+
+SOURCE (SBD #1d):
+Sony ST-S550 ES > Sony DTC-670
+
+TRANSFER:
+Sony DTC-670 > Alesis ML-9600 > Adobe Audition CS5 > CD Wave 1.98 > Trader's Little Helper 2.5.0
+
+GENERATION:
+DAT(1) > WAV [44.1kHz] > FLAC [Level 8]
+
+LENGTH:
+56:48
+
+TRACKS:
+01. (intro)
+02. Drain You
+03. Aneurysm
+04. School
+05. Floyd the Barber
+06. Smells Like Teen Spirit
+07. About a Girl
+08. Polly
+09. Lithium
+10. Sliver
+11. Breed
+12. Come as You Are
+13. Been a Son
+14. Negative Creep
+15. On a Plain
+16. Blew
+17. Love Buzz
+18. Territorial Pissings
+
+NOTES:
+Recorded originally in LP (32kHz)
+Broadcast Date : ?? (between 1991 & 1995)
+Radio station  : Radio 3 (3FM)
+Radio Show     : Villa 65
+Radio Host     : Lotje IJzermans
+
+TAPED & TRANSFERRED BY:
+A.S.
+
+MD5 CHECKSUMS:
+58f396ad252fd4f144068a8dd358be34 *nirvana.19911125.paradiso_amsterdam_netherlands.fm_first_rebdc-t01.flac
+1eb157de037420df79ac0a417e3bb63b *nirvana.19911125.paradiso_amsterdam_netherlands.fm_first_rebdc-t02.flac
+315a13a30b7b86b70df558234a7b1bef *nirvana.19911125.paradiso_amsterdam_netherlands.fm_first_rebdc-t03.flac
+fbe055729866ec48ead8bff51be4211f *nirvana.19911125.paradiso_amsterdam_netherlands.fm_first_rebdc-t04.flac
+90ff62fbcb55b83173770ee914932da9 *nirvana.19911125.paradiso_amsterdam_netherlands.fm_first_rebdc-t05.flac
+b4b4543dfafb49dcdf628e901a7fe60a *nirvana.19911125.paradiso_amsterdam_netherlands.fm_first_rebdc-t06.flac
+7e3d30867410455316a9c161b43c0f50 *nirvana.19911125.paradiso_amsterdam_netherlands.fm_first_rebdc-t07.flac
+107e9c6d92acd69cde423258fad49159 *nirvana.19911125.paradiso_amsterdam_netherlands.fm_first_rebdc-t08.flac
+fd6adbcd5cd17d0a99041e1e55f81f43 *nirvana.19911125.paradiso_amsterdam_netherlands.fm_first_rebdc-t09.flac
+ba435cc838ac3cdcb5a9ba5bee6612b2 *nirvana.19911125.paradiso_amsterdam_netherlands.fm_first_rebdc-t10.flac
+331a270cde3dabc0e4741dc91101a645 *nirvana.19911125.paradiso_amsterdam_netherlands.fm_first_rebdc-t11.flac
+be2fbfdd9e5762cb431fe702c6218f5c *nirvana.19911125.paradiso_amsterdam_netherlands.fm_first_rebdc-t12.flac
+2f63b27832e54e9dd09d64f28007e87f *nirvana.19911125.paradiso_amsterdam_netherlands.fm_first_rebdc-t13.flac
+d398ef2937c23e423acf188bf1621d44 *nirvana.19911125.paradiso_amsterdam_netherlands.fm_first_rebdc-t14.flac
+fbfce0224159f0530220ab0c7461ef39 *nirvana.19911125.paradiso_amsterdam_netherlands.fm_first_rebdc-t15.flac
+89318999f2d7c2b1902c6b3e8c9a1317 b26a8db856ed2cf847e0ca8c7026063a *nirvana.19911125.paradiso_amsterdam_netherlands.fm_first_rebdc-t16.flac
+f97478353ceb7f5a4d30f97cb34480ac *nirvana.19911125.paradiso_amsterdam_netherlands.fm_first_rebdc-t17.flac
+5624ef6d060ceae07a749c05fda404df *nirvana.19911125.paradiso_amsterdam_netherlands.fm_first_rebdc-t18.flac
+
+
+PLEASE DO NOT SELL OR ENCODE TO MP3

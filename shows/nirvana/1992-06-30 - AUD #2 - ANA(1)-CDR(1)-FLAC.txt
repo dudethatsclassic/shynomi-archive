@@ -1,0 +1,75 @@
+NIRVANA
+June 30, 1992
+Sjöhistoriska Museet
+Stockholm, Sweden
+
+SOURCE (AUD #2):
+Sony PC-62 > Sony WM-D3
+
+TRANSFER:
+Unknown equipment
+
+GENERATION:
+ANA(1) > CDR(1) > WAV [44.1kHz] > FLAC [Level 8]
+
+LENGTH:
+82:45
+
+NOTES:
+-Tracked and mastered to cdr by OK. Thanks for surfacing this!
+
+TRACKS (DISC 1):
+01. The Money Will Roll Right In
+02. Breed
+03. Sliver
+04. Drain You
+05. Scoff
+06. D-7
+07. In Bloom
+08. About A Girl
+09. School
+10. Lithium
+11. Aneurysm
+12. Polly
+
+TRACKS (DISC 2):
+01. Stay Away
+02. Son Of A Gun
+03. Stain
+04. On A Plain
+05. Been A Son
+06. Negative Creep
+07. Blew
+08. Smells Like Teen Spirit
+09. Territorial Pissings
+
+MD5 FINGERPRINTS:
+
+3a7bb906801b273b5380c865faa8b8da *Nirvana_1992-06-30_AUD2_ana1cdr1.txt
+a841eb6683decf2d17416db6404e7b9b *Nirvana_1992-06-30_AUD2_d1t01.flac
+39f2ad17feedf5fa76d683a4dd935e2d *Nirvana_1992-06-30_AUD2_d1t02.flac
+0de53d7898bcdde97915d62722656cf5 *Nirvana_1992-06-30_AUD2_d1t03.flac
+5ab685bb907573c10053f0d0c624c690 *Nirvana_1992-06-30_AUD2_d1t04.flac
+34059edcf01f12bd992d827f25172c12 *Nirvana_1992-06-30_AUD2_d1t05.flac
+8e401041928e88e655a73e2f30e56b2f *Nirvana_1992-06-30_AUD2_d1t06.flac
+b43e626d74ba0c0bd3879bd4a1e83b55 *Nirvana_1992-06-30_AUD2_d1t07.flac
+184f6e09e98ff3c7b9e174f18bd6764e *Nirvana_1992-06-30_AUD2_d1t08.flac
+f19247ab0851f9dadf32cf2d3e54b184 *Nirvana_1992-06-30_AUD2_d1t09.flac
+2480f022eab57ccd51eb65ab2bf4a184 *Nirvana_1992-06-30_AUD2_d1t10.flac
+5ff68739a7435e31f601cfad81524189 *Nirvana_1992-06-30_AUD2_d1t11.flac
+6722d195a8419ae2e402be7827644e2e *Nirvana_1992-06-30_AUD2_d1t12.flac
+6121bc1d4cb4634cddadb218194a49d6 *Nirvana_1992-06-30_AUD2_d2t01.flac
+af7482863de25b771fa07bdffa812a46 *Nirvana_1992-06-30_AUD2_d2t02.flac
+2208b7b3c69d0d713b6902348b5741b2 *Nirvana_1992-06-30_AUD2_d2t03.flac
+f0ad559dfae304d431b73f6d331ff390 *Nirvana_1992-06-30_AUD2_d2t04.flac
+6af2db80e0a57f9ad57dab10074cee5e *Nirvana_1992-06-30_AUD2_d2t05.flac
+c838df57d87265ac59ec56d11e83e001 *Nirvana_1992-06-30_AUD2_d2t06.flac
+313fc208e2994514230e1499efd4989c *Nirvana_1992-06-30_AUD2_d2t07.flac
+b934054a72ae3445b7a797b89f55d511 *Nirvana_1992-06-30_AUD2_d2t08.flac
+4fdedf67ec067d3e47916b98e2936471 *Nirvana_1992-06-30_AUD2_d2t09.flac
+
+COMPILED BY:
+Roar Aasheim
+2005-01-07
+
+PLEASE DO NOT SELL OR ENCODE TO MP3

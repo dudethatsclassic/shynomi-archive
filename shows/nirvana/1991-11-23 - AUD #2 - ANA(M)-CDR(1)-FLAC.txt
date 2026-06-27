@@ -1,0 +1,68 @@
+NIRVANA
+November 23, 1991
+Vooruit
+Ghent, Belgium
+
+DISC #1/1 (79:58)
+-----------------
+01) intro
+02) Drain You
+03) Aneurysm
+04) School
+05) Floyd The Barber
+06) Smells Like Teen Spirit
+07) Curmudgeon
+08) Oh, The Guilt
+09) Lithium
+10) Sliver
+11) About A Girl
+12) Polly
+13) Talk To Me
+14) The End (jam)
+15) Been A Son
+16) Negative Creep
+17) On A Plain (part of)
+18) On A Plain
+19) Blew
+20) Where Did You Sleep Last Night
+21) Jesus Wants Me For A Sunbeam
+
+GENERATION
+-----------------
+ANA(M) -> CDR(1) -> WAV [44.1kHz] -> FLAC [Level 8]
+
+SOURCE (AUD#2)
+-----------------
+Sony PC-62 -> Sony WM-D3
+
+EXTRACTION
+-----------------
+Plextor PlexWriter PX-W4824A -> Exact Audio Copy V0.95 -> Adobe Audition 2.0 -> CD Wave 1.95.1 -> FLAC Frontend 1.7.1
+
+MD5 FINGERPRINTS
+-----------------
+c394c4b011121883eb299fa966116cf6 *nirvana1991-11-23t01.flac
+03bbb1667be413227c8ddf0b844fb08e *nirvana1991-11-23t02.flac
+b7ea3b40b9c6469a2a9ada761a6b7b1c *nirvana1991-11-23t03.flac
+0782fc5f5f7bce1b8fc70740e713f7a9 *nirvana1991-11-23t04.flac
+68504193bb710fafd6b296e1fadad81b *nirvana1991-11-23t05.flac
+3f3c2d6f447ba158383440aeac61ff49 *nirvana1991-11-23t06.flac
+534a3b3f718bd061adfec93080be7469 *nirvana1991-11-23t07.flac
+6fd9e747358040fc4e129395a99f4be4 *nirvana1991-11-23t08.flac
+373bb8083d90b3db386796a86e30da34 *nirvana1991-11-23t09.flac
+07f9ede7c5333c9275b46476b2460134 *nirvana1991-11-23t10.flac
+9556039f4f085f5bd26c957d5800fcb3 *nirvana1991-11-23t11.flac
+60ee8a24d3fad1c5df31820770de8f39 *nirvana1991-11-23t12.flac
+575379ed684735d84a8319401f1e91c2 *nirvana1991-11-23t13.flac
+8d385b279caacc2feff1e8d5030ae362 *nirvana1991-11-23t14.flac
+e36d57d934ebc3733b7c42fbd1a035b5 *nirvana1991-11-23t15.flac
+4619619137970af3243ee08d1746d590 *nirvana1991-11-23t16.flac
+c97c0f36ef720eeec3c5a039fc6e7996 *nirvana1991-11-23t17.flac
+0fe1911fb74705f54f2e9a2c2ba3ccd6 *nirvana1991-11-23t18.flac
+f4549cf1ba042c60129534806e38f705 *nirvana1991-11-23t19.flac
+ce6ce14c3471f4f00c34b0a10dc9165c *nirvana1991-11-23t20.flac
+02722967b885d3a680fd7f13bc27e58a *nirvana1991-11-23t21.flac
+
+
+Extracted by Mike Ziegler.
+PLEASE DO NOT ENCODE TO MP3 OR SELL!

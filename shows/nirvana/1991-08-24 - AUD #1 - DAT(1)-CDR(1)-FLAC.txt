@@ -1,0 +1,43 @@
+NIRVANA
+August 24, 1991
+Tanzbrunnen (Monsters Of Spex)
+Cologne, Germany
+
+SOURCE (AUD #1):
+unknown > Sony TCD-D3
+
+EXTRACTION:
+Plextor PlexWriter PX-W4824A > Exact Audio Copy V0.95 prebeta 5 > Adobe Audition 2.0 > CD Wave 1.94.8 > FLAC frontend 1.7.1
+
+GENERATION:
+DAT(1) > CDR(1) > WAV [44.1kHz] > FLAC [Level 8]
+
+LENGTH:
+26:47
+
+TRACKS:
+01. Polly (cuts in)
+02. Drain You
+03. Floyd The Barber
+04. Sliver
+05. School
+06. Breed
+07. Smells Like Teen Spirit
+08. Territorial Pissings
+09. Negative Creep
+
+MD5 FINGERPRINTS:
+5a07522afd845c04ce3a37791969b81c *Nirvana_1991-08-24_AUD1_t01.flac
+119e2ad685b83a35c988b875bae00d77 *Nirvana_1991-08-24_AUD1_t02.flac
+2bf32bca5dc69ffd375bc21dcd4278ed *Nirvana_1991-08-24_AUD1_t03.flac
+d8aa16e3705a103ef93a7cf8d968de72 *Nirvana_1991-08-24_AUD1_t04.flac
+3a58b57388c4341bab2f35a25d1d6147 *Nirvana_1991-08-24_AUD1_t05.flac
+4990a85bd4c23c60d93e3075d3057a3e *Nirvana_1991-08-24_AUD1_t06.flac
+6ca86d91f03e79d44dc8eb286c3790ab *Nirvana_1991-08-24_AUD1_t07.flac
+4c489d95a4208d53065b6c266cfee995 *Nirvana_1991-08-24_AUD1_t08.flac
+c4fe118f415b49041e17a7b28bcf9b9e *Nirvana_1991-08-24_AUD1_t09.flac
+
+EXTRACTED BY:
+Kris Sproul
+
+PLEASE DO NOT SELL OR ENCODE TO MP3

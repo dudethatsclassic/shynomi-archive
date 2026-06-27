@@ -1,0 +1,42 @@
+NIRVANA
+August 24, 1991
+Tanzbrunnen (Monsters of Spex)
+Cologne, Germany
+
+SOURCE (AMT #1):
+unknown > unknown
+
+REAUTHOR:
+unknown > VobEdit v0.6 > Adobe Encore DVD 2.0
+
+GENERATION:
+HI8(M) > DVDR(2) [PAL/7.8Mbps CBR/48kHz PCM] > reauthor
+
+LENGTH:
+28:34
+
+CHAPTERS:
+01. Polly (cuts in)
+02. Drain You
+03. Floyd The Barber
+04. Sliver
+05. School
+06. Breed
+07. Smells Like Teen Spirit
+08. Territorial Pissings
+09. Negative Creep
+
+MD5 FINGERPRINTS:
+ff0f62274fe841cc5ef5970c09d32c9d *VIDEO_TS/VIDEO_TS.BUP
+ff0f62274fe841cc5ef5970c09d32c9d *VIDEO_TS/VIDEO_TS.IFO
+f6622c67e2c24cb9ee2ed5e5cc306201 *VIDEO_TS/VIDEO_TS.VOB
+53905bca914189bd8da6a7e4a5edbc3b *VIDEO_TS/VTS_01_0.BUP
+53905bca914189bd8da6a7e4a5edbc3b *VIDEO_TS/VTS_01_0.IFO
+4b12a3790af41e50f34a91943c120500 *VIDEO_TS/VTS_01_0.VOB
+3ebc5e9e2aa1d4b406f88faa93d80f2b *VIDEO_TS/VTS_01_1.VOB
+6da2c001883d4a1b2c54124f37a846fa *VIDEO_TS/VTS_01_2.VOB
+
+REAUTHORED BY:
+Kris Sproul
+
+PLEASE DO NOT SELL OR ENCODE TO ANY OTHER FORMAT

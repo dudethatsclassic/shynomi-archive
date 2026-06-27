@@ -1,0 +1,37 @@
+NIRVANA & MELVINS
+February 27, 1994
+Hala Tivoli,
+Ljubljana, Slovenia
+
+Transfer:
+JVC HR-7600eU -> Monster 800 S-Video & audio cables -> Canopus ADVC-100 -> Koutech FireWire Card -> TMPGEnc Plus -> DVD-lab
+
+Generation:
+TV -> VHS(2) [PAL] -> DVDR(0)
+
+TRACKS:
+01. Radio Friendly Unit Shifter
+02. Drain You
+03. Breed
+
+The disc also includes:
+Before the show
+Melvins interview
+Melvins performance
+Interview with Krist
+
+MD5 FINGERPRINTS:
+bb47788a8e9cd346d00153915966a1e5 *VIDEO_TS.BUP
+bb47788a8e9cd346d00153915966a1e5 *VIDEO_TS.IFO
+ffacaf1ae51e2547b136f6e0447ee1dd *VIDEO_TS.VOB
+7a5bdb3dfa730b40a101737a079d4ad6 *VTS_01_0.BUP
+7a5bdb3dfa730b40a101737a079d4ad6 *VTS_01_0.IFO
+cfe6cbe83a7d72021943cc86281cef6c *VTS_01_0.VOB
+7b45272e8424ac167eb6bb0f686ffeb4 *VTS_01_1.VOB
+3acb7c108023217aabe53ec73fbdad82 *VTS_01_2.VOB
+
+TRANSFERRED BY:
+Chris Hill
+
+More info and screen caps at:
+http://www.livenirvana.com/dvd/1994/dvd_02-27-94a.php

@@ -1,0 +1,28 @@
+NIRVANA
+October 11, 1990
+North Shore Surf Club
+Olympia, WA
+
+DISC #1/1 (03:41)
+-----------------
+01) Love Buzz
+
+SOURCE (AMT #2)
+-----------------
+unknown > unknown
+
+GENERATION
+-----------------
+Official DVD "With The Lights Out" -> WAV [48kHz] -> WAV [44.1kHz] -> FLAC [Level 8]
+
+EXTRACTION
+-----------------
+Lite-On iHBS-112 -> DVD Decrypter 3.5.4.0 -> Adobe Audition 3.0 -> FLAC Frontend 1.7.1
+
+MD5 FINGERPRINTS
+-----------------
+8268f7f188a777257e303f98cb190c3a *nirvana_1990-10-11_amt2_dvd-flac_t01.flac
+
+Extracted by PL.
+PLEASE DO NOT ENCODE TO MP3 OR SELL!
+NO TRADE

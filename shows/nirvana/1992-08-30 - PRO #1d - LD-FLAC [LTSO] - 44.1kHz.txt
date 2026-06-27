@@ -1,0 +1,28 @@
+NIRVANA
+August 30, 1992
+Richfield Avenue (Reading Festival)
+Reading, United Kingdom
+
+DISC #1/1 (04:18)
+-----------------
+01) Lithium
+
+SOURCE (PRO #1d)
+-----------------
+soundboard > unknown
+
+GENERATION
+-----------------
+Official Laserdisc "Live! Tonight! Sold Out!!" -> WAV [44.1kHz] -> FLAC [Level 8]
+
+TRANSFER
+-----------------
+Pioneer CLD-2850 -> Optical Cable -> Sony MZ-NH700 (HiMD) -> SonicStage 4.3 -> Adobe Audition 3.0 -> Flac Frontend 1.7.1
+
+MD5 FINGERPRINTS
+-----------------
+23f8db2c90a082b2f522ff5efa054da8 *Nirvana_1992-08-30_PRO1d_t01.flac
+
+Transferred by VL.
+Edited by PL.
+PLEASE DO NOT ENCODE TO MP3 OR SELL!

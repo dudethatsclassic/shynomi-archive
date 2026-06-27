@@ -1,0 +1,73 @@
+NIRVANA
+February 14, 1994
+Le Zénith
+Paris, France
+
+SOURCE (AUD #4):
+unknown > unknown
+
+TRANSFER:
+Nakamichi DR-8 > Echo Layla24 > Adobe Audition 2.0 > CD Wave 1.95.1 > FLAC frontend 1.7.1
+
+GENERATION:
+ANA(x) > WAV [48kHz] > WAV [44.1kHz] > FLAC [Level 8]
+
+LENGTH:
+86:02
+
+TRACKS (DISC 1):
+01. Radio Friendly Unit Shifter
+02. Drain You
+03. Breed
+04. Serve The Servants
+05. Come As You Are
+06. Smells Like Teen Spirit
+07. Sliver
+08. Dumb
+09. In Bloom
+10. About A Girl
+11. Lithium
+
+TRACKS (DISC 2):
+01. Pennyroyal Tea
+02. School
+03. Polly
+04. Very Ape
+05. Lounge Act
+06. Rape Me
+07. Territorial Pissings
+08. The Man Who Sold The World
+09. All Apologies
+10. On A Plain
+11. Heart-Shaped Box
+12. Where Did You Sleep Last Night
+
+MD5 FINGERPRINTS:
+294fcbc19be818fa6c352efe9f83a46d *Nirvana_1994-02-14_AUD4_d1t01.flac
+b64b7116b3e739b993280e423a21e488 *Nirvana_1994-02-14_AUD4_d1t02.flac
+dc09b6110feccb2140f28e8256dce99b *Nirvana_1994-02-14_AUD4_d1t03.flac
+b06f9da334419701a4a2b0e95795eb76 *Nirvana_1994-02-14_AUD4_d1t04.flac
+cc8cd9a89755ace5883c37fb57cb3dd5 *Nirvana_1994-02-14_AUD4_d1t05.flac
+c04387de36ba30dd292b617731331122 *Nirvana_1994-02-14_AUD4_d1t06.flac
+d3118fbe14a014c9b19a4a87101166bb *Nirvana_1994-02-14_AUD4_d1t07.flac
+aede25eb27bcefee1dd86f4bd0ac10a0 *Nirvana_1994-02-14_AUD4_d1t08.flac
+ccd0525b59fa89ec7471e6afae7d3b67 *Nirvana_1994-02-14_AUD4_d1t09.flac
+7e6aa6575ccf6cd7d39ea51d572254f9 *Nirvana_1994-02-14_AUD4_d1t10.flac
+d0a8757830c91fcdf89f2b1a448e2133 *Nirvana_1994-02-14_AUD4_d1t11.flac
+721288ff1c0f9a841466ea5792b9cda7 *Nirvana_1994-02-14_AUD4_d2t01.flac
+2248fa5bb7b8ddd12f929f4711bd7202 *Nirvana_1994-02-14_AUD4_d2t02.flac
+28ba420f3c59406825866e1b4609680a *Nirvana_1994-02-14_AUD4_d2t03.flac
+9250a819442d83bed5068de7e8d30c3f *Nirvana_1994-02-14_AUD4_d2t04.flac
+d6dcfdbb2415385682acc51c2cef1852 *Nirvana_1994-02-14_AUD4_d2t05.flac
+7f934300ee13e05b15c9d6a41f7ca3e7 *Nirvana_1994-02-14_AUD4_d2t06.flac
+435cc3b91e66a1c59d9b6e40eeeed255 *Nirvana_1994-02-14_AUD4_d2t07.flac
+26f889b9f1bfec2553dd5df7f3acee1d *Nirvana_1994-02-14_AUD4_d2t08.flac
+f4c54c50d9c06d5985600d052d765653 *Nirvana_1994-02-14_AUD4_d2t09.flac
+1c55f9b9ea313c7c66d724b939fdd2a9 *Nirvana_1994-02-14_AUD4_d2t10.flac
+dd02f98961f9e4af8a913e850d3d4c86 *Nirvana_1994-02-14_AUD4_d2t11.flac
+86dc7efdc9e78871a34fa58d787c4334 *Nirvana_1994-02-14_AUD4_d2t12.flac
+
+TRANSFERRED BY:
+Kris Sproul
+
+PLEASE DO NOT SELL OR ENCODE TO MP3

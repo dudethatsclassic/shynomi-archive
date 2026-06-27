@@ -1,0 +1,30 @@
+NIRVANA
+January 18, 1991
+The Evergreen State College (No More Wars Benefit)
+Olympia, WA
+
+DISC #1/1 (3:12)
+-----------------
+01) Breed
+
+GENERATION
+-----------------
+VHS(1) -> TV -> VHS(3) -> WAV [48kHz] -> WAV [44.1kHz] -> FLAC [Level 8]
+
+SOURCE (AMT#1b)
+-----------------
+unknown -> unknown
+
+TRANSFER
+-----------------
+Sony SLV-N55 VCR -> Hosa RCA cable -> LynxONE analog-in -> Adobe Audition 1.5 -> CD Wave 1.93 beta -> FLAC Frontend 1.7.1
+
+MD5 FINGERPRINTS
+-----------------
+67061cf4e0d7accfa704b8ee6c46d830 *nirvana1991-01-18t01.flac
+
+
+Transferred by Mike Ziegler.
+PLEASE DO NOT ENCODE TO MP3 OR SELL!
+
+Big thanks to Todd Deines for providing the tape!

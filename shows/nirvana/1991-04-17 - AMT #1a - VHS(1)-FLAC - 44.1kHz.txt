@@ -1,0 +1,64 @@
+NIRVANA
+April 17, 1991
+O.K. Hotel
+Seattle, WA
+
+DISC #1/1 (64:09)
+-----------------
+01) Polly (cut)
+02) Big Cheese
+03) Turnaround
+04) Love Buzz
+05) D-7
+06) Blew
+07) Been A Son
+08) Stain
+09) Negative Creep
+10) Wild Thing (jam)
+11) About A Girl
+12) Breed
+13) Floyd The Barber
+14) Verse Chorus Verse
+15) Smells Like Teen Spirit
+16) School
+17) Dive
+18) Territorial Pissings
+19) Sliver
+
+GENERATION
+-----------------
+VHS(1) -> WAV [48kHz] -> WAV [44.1kHz] -> FLAC [Level 8]
+
+SOURCE (AMT#1a)
+-----------------
+unknown -> unknown
+
+TRANSFER
+-----------------
+Sony SLV-N55 -> Hosa RCA cable -> LynxONE analog-in -> Sound Forge 6.0 -> Adobe Audition 2.0 -> CD Wave 1.94.8 -> FLAC Frontend 1.7.1
+
+MD5 FINGERPRINTS
+-----------------
+f9850f0fd8827cebfdca3176463ac3cb *nirvana1991-04-17t01.flac
+ba6765a3cb1277e48916575e57822a3d *nirvana1991-04-17t02.flac
+58b1dc49cf765e8597f98c0f44aa42c8 *nirvana1991-04-17t03.flac
+76cca2bb9ba7b436007e24bf1c0d33b0 *nirvana1991-04-17t04.flac
+696b4380c2b38b102b6fb552e294ac2f *nirvana1991-04-17t05.flac
+96918d261b3f136a1615226be8f590e1 *nirvana1991-04-17t06.flac
+a07da736d7d6e03ff3846f0e5a063e31 *nirvana1991-04-17t07.flac
+f6da1e36908cfdd874b25c5ee6ffa7cf *nirvana1991-04-17t08.flac
+fd21f3ca0e98a2daf01e1dc5b59adffd *nirvana1991-04-17t09.flac
+b5d8946e5df90a69256df1a25b8587a7 *nirvana1991-04-17t10.flac
+d0b1bab33b494094f06021333bc3a5d1 *nirvana1991-04-17t11.flac
+fa7652b45f3abc5ddbfb1e9c6eda4226 *nirvana1991-04-17t12.flac
+6e8bfcd0829b85106db51f6c587bc47d *nirvana1991-04-17t13.flac
+e30b120741064f28e101683eaa261004 *nirvana1991-04-17t14.flac
+d3e570a3fbe110875a3e97957d7a5142 *nirvana1991-04-17t15.flac
+130cc2396731bc2265151a4700c6865a *nirvana1991-04-17t16.flac
+88cd7da0252d20cd46d5422a45cd46a8 *nirvana1991-04-17t17.flac
+e3a2a115a04be4cf410cb83607170541 *nirvana1991-04-17t18.flac
+7b4f5737d5bce907eb24880ecedfefe7 *nirvana1991-04-17t19.flac
+
+
+Transferred by Mike Ziegler.
+PLEASE DO NOT ENCODE TO MP3 OR SELL!

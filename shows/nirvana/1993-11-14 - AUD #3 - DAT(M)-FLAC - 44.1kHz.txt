@@ -1,0 +1,75 @@
+NIRVANA
+November 14, 1993
+New York Coliseum
+New York, NY
+
+DISC #1/2 (43:39)
+-----------------
+01) Radio Friendly Unit Shifter
+02) Drain You
+03) Breed
+04) Serve The Servants
+05) About A Girl
+06) Heart-Shaped Box
+07) Sliver
+08) Dumb
+09) Come As You Are
+10) Lithium
+11) Pennyroyal Tea
+12) School
+
+DISC #2/2 (43:40)
+-----------------
+01) Polly
+02) Milk It
+03) Rape Me
+04) Territorial Pissings
+05) Smells Like Teen Spirit
+06) All Apologies
+07) Jesus Wants Me For A Sunbeam
+08) On A Plain
+09) Scentless Apprentice
+10) Blew
+11) Do Nuts
+
+GENERATION
+-----------------
+DAT(M) -> DAT(1) -> WAV [48kHz] -> WAV [44.1kHz] -> FLAC [Level 8]
+
+SOURCE (AUD#3)
+-----------------
+Core Sound Binaural -> Sony TCD-D7
+
+TRANSFER
+-----------------
+Tascam DA-20 MKII -> Apogee S/PDIF cable -> LynxONE digital-in -> Adobe Audition 2.0 -> CD Wave 1.95.1 -> FLAC Frontend 1.7.1
+
+MD5 FINGERPRINTS
+-----------------
+c4177216ec9adab6cd1a2285b8de3b4c *nirvana1993-11-14d1t01.flac
+49e15cac65c4aad4268529859302e9ba *nirvana1993-11-14d1t02.flac
+f995d010b62c9419a563e9c4e0f2087c *nirvana1993-11-14d1t03.flac
+29f2eec7f20ed448b35397770f6d57e7 *nirvana1993-11-14d1t04.flac
+8f2310f123fed7e2062c6b4bcff626b8 *nirvana1993-11-14d1t05.flac
+51414bf9ff9518935f322c762aadefc0 *nirvana1993-11-14d1t06.flac
+b914fb6034e0ca76162054dbea9b769c *nirvana1993-11-14d1t07.flac
+e8ac9f4c28d469c139d61956bc3fb380 *nirvana1993-11-14d1t08.flac
+a434ce8d8ddd5eee644122be92ad4b98 *nirvana1993-11-14d1t09.flac
+0c034a4410c02ca9a9be64d9676bc8af *nirvana1993-11-14d1t10.flac
+74e9e9d3442cf0269e1deb73e5a7ae82 *nirvana1993-11-14d1t11.flac
+4b47fe066a68cb10eeb3c38cad14d637 *nirvana1993-11-14d1t12.flac
+a581ec399d76ac2ce5b1a8c39b70b40d *nirvana1993-11-14d2t01.flac
+4c66fc7ee1e1930a750e31d31b247e8b *nirvana1993-11-14d2t02.flac
+306c94e90777783025051e711d3de75a *nirvana1993-11-14d2t03.flac
+8ef72afd92ff8a630090001f307bd85a *nirvana1993-11-14d2t04.flac
+bc3199f16f19c2369d3276a5f74b32e2 *nirvana1993-11-14d2t05.flac
+bf2f263ca02fb581ddbedb1931ba7767 *nirvana1993-11-14d2t06.flac
+1d022585ae225c04b14b753a6767ee30 *nirvana1993-11-14d2t07.flac
+549a87e10ddd981bff62098434bc67e2 *nirvana1993-11-14d2t08.flac
+33539ed4c965cb7e5e0fd3f75d291063 *nirvana1993-11-14d2t09.flac
+9e39f4a58a7a4640c370614fa4b6ffb2 *nirvana1993-11-14d2t10.flac
+fb560c8e44a2bdecea31221a05713b7c *nirvana1993-11-14d2t11.flac
+
+
+Transferred by Mike Ziegler.
+PLEASE DO NOT ENCODE TO MP3 OR SELL!

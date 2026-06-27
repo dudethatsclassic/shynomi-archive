@@ -1,0 +1,57 @@
+NIRVANA
+December 3, 1989
+Astoria Theatre (Lame Fest UK '89)
+London, United Kingdom
+
+SOURCE (AUD #2):
+unknown > unknown
+
+TRANSFER:
+Nakamichi DR-8 > Echo Layla24 > Adobe Audition 3.0 > CD Wave 1.97 > FLAC frontend 1.7.1
+
+GENERATION:
+ANA(1) > WAV [48kHz] > WAV [44.1kHz] > FLAC [Level 8]
+
+LENGTH:
+49:07
+
+TRACKS:
+01. intro
+02. School
+03. jam
+04. I Wanna Be Your Dog (jam)
+05. Scoff
+06. Love Buzz
+07. Floyd The Barber
+08. Dive
+09. Big Cheese
+10. Polly
+11. Spank Thru
+12. About A Girl
+13. Breed
+14. Molly's Lips
+15. Sappy
+16. Blew
+
+MD5 FINGERPRINTS:
+3a8c980d605bb89dd1dc43de781d40e3 *Nirvana_1989-12-03_AUD2_t01.flac
+f1f9610cb1d995991365513b0eb2818e *Nirvana_1989-12-03_AUD2_t02.flac
+81fbcd98a925dfa0a2fc68f235cdba3e *Nirvana_1989-12-03_AUD2_t03.flac
+eb039db411a6a83c6290b6f112fde358 *Nirvana_1989-12-03_AUD2_t04.flac
+4e4ffc57cd76396900ecba5bc135b1fe *Nirvana_1989-12-03_AUD2_t05.flac
+4a476b3ec72bafce9165bbbd6b084a61 *Nirvana_1989-12-03_AUD2_t06.flac
+0cce8f7ff4dc9ac2d8f5c2f1e03cf68b *Nirvana_1989-12-03_AUD2_t07.flac
+5e832b50199e511fcaae26b89ed2c893 *Nirvana_1989-12-03_AUD2_t08.flac
+d77ef1bc95995ed06022cdfdfac87e57 *Nirvana_1989-12-03_AUD2_t09.flac
+e07c55dd3f7f1c0bc129c277f904cd57 *Nirvana_1989-12-03_AUD2_t10.flac
+f7267b3f4561f77c68c4715f9982e459 *Nirvana_1989-12-03_AUD2_t11.flac
+9e480a68ba724d605118d4cafd66e769 *Nirvana_1989-12-03_AUD2_t12.flac
+60e9ece2881e1b1f9ab6a7313b7550be *Nirvana_1989-12-03_AUD2_t13.flac
+3ed8f90f44e748e89b19deb8f42b6f3e *Nirvana_1989-12-03_AUD2_t14.flac
+10805920f92febb134c34504a0641ffe *Nirvana_1989-12-03_AUD2_t15.flac
+36a95a4ecf1fccf0fe65f1674777cac2 *Nirvana_1989-12-03_AUD2_t16.flac
+
+TRANSFERRED BY:
+Kris Sproul
+
+PLEASE DO NOT SELL OR ENCODE TO MP3

@@ -1,0 +1,27 @@
+NIRVANA
+February 9, 1994
+Palau Municipal dels Esports
+Barcelona, Spain
+
+DISC #1/1 (07:14)
+-----------------
+01) Lithium
+02) Rape Me
+03) Intro to Territorial Pissings
+
+GENERATION
+-----------------
+FM -> DAT(x) -> CDR(2) -> WAV [44.1kHz] -> FLAC [Level 8]
+
+SOURCE (SBD#1)
+-----------------
+unknown -> soundboard
+
+MD5 FINGERPRINTS
+-----------------
+5b9fc800b40508405586290cc119078f *nirvana1994-02-09t01.flac
+9d8f47c1245c31197ea13780cde1f5db *nirvana1994-02-09t02.flac
+fe1fc4b09a7e0edfb6575d40ed595404 *nirvana1994-02-09t03.flac
+
+
+PLEASE DO NOT ENCODE TO MP3 OR SELL!

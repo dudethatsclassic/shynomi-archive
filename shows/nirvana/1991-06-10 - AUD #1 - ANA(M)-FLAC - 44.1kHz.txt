@@ -1,0 +1,49 @@
+NIRVANA
+June 10, 1991
+Gothic Theatre
+Englewood, CO 
+
+SOURCE (AUD #1):
+unknown > Sony
+
+TRANSFER:
+Nakamichi CR-7A > Hosa RCA cable > LynxONE analog-in > Adobe Audition 3.0 > CD Wave 1.97 > FLAC frontend 1.7.1
+
+GENERATION:
+ANA(M) > WAV [48kHz] > WAV [44.1kHz] > FLAC [Level 8]
+
+LENGTH:
+36:37
+
+TRACKS:
+01. intro
+02. School
+03. Smells Like Teen Spirit
+04. Floyd The Barber
+05. Breed
+06. Territorial Pissings
+07. Love Buzz
+08. About A Girl
+09. Sliver
+10. Negative Creep
+11. Stain
+12. Blew
+
+MD5 FINGERPRINTS:
+8e9b0f167a937752fd62b99a72de591b *Nirvana_1991-06-10_AUD1_t01.flac
+6e30aadb2401c9f10c03a28058c4ce6a *Nirvana_1991-06-10_AUD1_t02.flac
+d26d67e32153ab7b4ba023bf297e0373 *Nirvana_1991-06-10_AUD1_t03.flac
+5386b537d819af333a34c38861519ab6 *Nirvana_1991-06-10_AUD1_t04.flac
+d618a70c9b37ad059e9b98cf98841b99 *Nirvana_1991-06-10_AUD1_t05.flac
+f998bcd0b58b2d6cad485959b0712813 *Nirvana_1991-06-10_AUD1_t06.flac
+823ef453630e08d22c102aca039441fa *Nirvana_1991-06-10_AUD1_t07.flac
+2d94086cd7381e07dc956ccb1168cbdf *Nirvana_1991-06-10_AUD1_t08.flac
+030aefc262406621969a6d15477bbb05 *Nirvana_1991-06-10_AUD1_t09.flac
+10dedaf8e93a361922cc6d42100a4757 *Nirvana_1991-06-10_AUD1_t10.flac
+cb2fae7ed201cef9db0f586e1d3f119a *Nirvana_1991-06-10_AUD1_t11.flac
+3ed130b53fa9bca3e732bc7a1858fd54 *Nirvana_1991-06-10_AUD1_t12.flac
+
+TRANSFERRED BY:
+Mike Ziegler
+
+PLEASE DO NOT SELL OR ENCODE TO MP3

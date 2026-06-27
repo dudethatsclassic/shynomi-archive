@@ -1,0 +1,65 @@
+NIRVANA
+March 19, 1988
+Community World Theater
+Tacoma, WA
+
+DISC #1/1 (58:27)
+-----------------
+SOUNDCHECK
+01) Floyd The Barber (cut)
+02) Big Cheese
+
+SET
+03) Love Buzz (cut)
+04) Downer
+05) Floyd The Barber
+06) Spank Thru
+07) Paper Cuts
+08) Hairspray Queen
+09) If You Must
+10) Beeswax
+11) Aero Zeppelin
+12) Mexican Seafood
+13) Pen Cap Chew
+14) Big Cheese
+15) Blew (cut)
+16) Raunchola (cut)
+17) Moby Dick (jam)
+18) Bad Moon Rising
+
+GENERATION
+-----------------
+ANA(M) -> WAV [48kHz] -> WAV [44.1kHz] -> FLAC [Level 8]
+
+SOURCE (SBD#1)
+-----------------
+unknown -> soundboard
+
+TRANSFER
+-----------------
+Nakamichi DR-8 -> Hosa RCA cable -> LynxONE analog-in -> Adobe Audition 2.0 -> CD Wave 1.94.8 -> FLAC Frontend 1.7.1
+
+MD5 FINGERPRINTS
+-----------------
+b83cab16a907b2f756b8c88c1e227790 *nirvana1988-03-19t01.flac
+09346cd6acb5681a4dc117a6434533b7 *nirvana1988-03-19t02.flac
+0015189addb8622bd95ac9bdb84b9060 *nirvana1988-03-19t03.flac
+d07f454514b276374ce4b2e95c5e85ff *nirvana1988-03-19t04.flac
+1778172492c417eb2c28e1af87673328 *nirvana1988-03-19t05.flac
+616bb27e2a34bd7c77ed1684bed4cf2f *nirvana1988-03-19t06.flac
+6c68279f78fca412bc1a1e1865a589bd *nirvana1988-03-19t07.flac
+6fe91c7d51785840b1870d56a09a443b *nirvana1988-03-19t08.flac
+d3c29cf4664f42fb3bed3168f6d9b3ff *nirvana1988-03-19t09.flac
+bc7964c315e3cdd9229b5cd5eb57ade5 *nirvana1988-03-19t10.flac
+c20bd512c53c0f4887b038ce6bf3277e *nirvana1988-03-19t11.flac
+87c402bdcd02033653f6b8301081f8f5 *nirvana1988-03-19t12.flac
+47a5fbed0c6b7c83c4f2963e51e25fab *nirvana1988-03-19t13.flac
+2a4d9498a9c5f8bf582a3196089a1e9e *nirvana1988-03-19t14.flac
+bef31626c28498b3653267fc7c0d30db *nirvana1988-03-19t15.flac
+47b9d9ca7956d34e7cbf9336fadb5fc8 *nirvana1988-03-19t16.flac
+28e40ea0e3b193a61223ec3da5a9f971 *nirvana1988-03-19t17.flac
+58a21030c0cfa8e8e91bfdcd3daf54fd *nirvana1988-03-19t18.flac
+
+
+Transferred by Mike Ziegler.
+PLEASE DO NOT ENCODE TO MP3 OR SELL!

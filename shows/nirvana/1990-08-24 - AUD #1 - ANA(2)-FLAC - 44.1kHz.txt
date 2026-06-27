@@ -1,0 +1,50 @@
+NIRVANA
+August 24, 1990
+Moore Theatre
+Seattle, WA
+
+DISC #1/1 (40:15)
+-----------------
+01) Love Buzz
+02) Scoff
+03) Floyd The Barber
+04) Dive
+05) In Bloom
+06) About A Girl
+07) School
+08) Spank Thru
+09) Lithium
+10) Been A Son
+11) Negative Creep
+12) Blew
+
+GENERATION
+-----------------
+ANA(2) -> WAV [48kHz] -> WAV [44.1kHz] -> FLAC [Level 8]
+
+SOURCE (AUD#1)
+-----------------
+unknown -> unknown
+
+TRANSFER
+-----------------
+Nakamichi CR-7A -> Hosa RCA cable -> LynxONE analog-in -> Adobe Audition 2.0 -> CD Wave 1.95.1 -> FLAC Frontend 1.7.1
+
+MD5 FINGERPRINTS
+-----------------
+feea80d1c23732dcceb3d1dbebe104b0 *nirvana1990-08-24t01.flac
+bd2da9b501df1e392aeb93a179a3058d *nirvana1990-08-24t02.flac
+a5359f2854c5170c025faacfae41d316 *nirvana1990-08-24t03.flac
+39708bbc248ce5955245633df85a62d1 *nirvana1990-08-24t04.flac
+e92d2ca853e817be2562b90c42f1d9e6 *nirvana1990-08-24t05.flac
+a203a4e4062912da0aa18105ad1ccf24 *nirvana1990-08-24t06.flac
+65cb58a9786a964a8a92d7c3c1977fab *nirvana1990-08-24t07.flac
+3663fa7a16d8ba7aabaa6bf98c968349 *nirvana1990-08-24t08.flac
+b3bcd36682ecd65dba7d62d83cd7da0c *nirvana1990-08-24t09.flac
+4d218e3840732d8eb37544b37d525404 *nirvana1990-08-24t10.flac
+58b40de9532f04b7465fca66771aa663 *nirvana1990-08-24t11.flac
+c9525646dfcc5efb9db25fb995a41e42 *nirvana1990-08-24t12.flac
+
+
+Transferred by Mike Ziegler.
+PLEASE DO NOT ENCODE TO MP3 OR SELL!

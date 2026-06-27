@@ -1,0 +1,56 @@
+NIRVANA
+November 13th, 1991
+Nachtwerk
+Munich, Germany
+
+SOURCE (AMT #1):
+unknown > unknown
+
+TRANSFER:
+Unknown VCR > Unknown Standalone DVD recorder
+
+GENERATION:
+VHS(1) > DVDR(1) > reauthor > DVDR(2) [PAL/9.0Mbps CBR/384kbps AC3]
+
+LENGTH:
+59:36
+
+NOTES:
+- Reauthored by Martin Behling
+
+TRACKS:
+01. Drain You
+02. Aneurysm
+03. School
+04. Floyd The Barber
+05. Smells Like Teen Spirit
+06. About A Girl
+07. Polly
+08. Lithium
+09. Sliver
+10. Breed
+11. Come As You Are
+12. Been A Son
+13. Negative Creep
+14. On A Plain
+15. Blew
+16. Jesus Wants Me For A Sunbeam
+17. Spank Thru
+18. Territorial Pissings
+
+MD5 FINGERPRINTS:
+0bb65febb0c27da3110f46d10b51be94 *VIDEO_TS\VIDEO_TS.BUP
+0bb65febb0c27da3110f46d10b51be94 *VIDEO_TS\VIDEO_TS.IFO
+dab20ee3eb8f860c9420ec40c370dccc *VIDEO_TS\VIDEO_TS.VOB
+31cb47a6435e2bb5dff755fb18e697b9 *VIDEO_TS\VTS_01_0.BUP
+31cb47a6435e2bb5dff755fb18e697b9 *VIDEO_TS\VTS_01_0.IFO
+c6718b8f147f930ebe4f16709d6706ec *VIDEO_TS\VTS_01_0.VOB
+f0b843fc80e45655fdbcd62c147332f4 *VIDEO_TS\VTS_01_1.VOB
+dc673d5fc8bdf8a860e8cffbe097bad4 *VIDEO_TS\VTS_01_2.VOB
+bc0d4aff7430d1def907ccef921a9be9 *VIDEO_TS\VTS_01_3.VOB
+a9b99086fb34b16ed5ba4876a40ed327 *VIDEO_TS\VTS_01_4.VOB
+
+TRANSFERRED BY:
+C.E.
+
+**PLEASE DO NOT ENCODE TO LOSSY FORMATS OR SELL!**

@@ -1,0 +1,54 @@
+NIRVANA
+December 31, 1991
+Cow Palace
+San Francisco, CA
+
+DISC #1/1 (46:35)
+-----------------
+01) intro
+02) Drain You
+03) Aneurysm
+04) School
+05) Floyd The Barber
+06) Smells Like Teen Spirit
+07) About A Girl
+08) Sliver
+09) Polly
+10) Breed
+11) Come As You Are
+12) Lithium
+13) Dumb
+14) Territorial Pissings
+
+GENERATION
+-----------------
+ANA(M) -> DAT(1) -> WAV [48kHz] -> WAV [44.1kHz] -> FLAC [Level 8]
+
+SOURCE (AUD#1)
+-----------------
+Nakamichi CM-300 + CP-1 -> Sony WM-D6
+
+TRANSFER
+-----------------
+Tascam DA-20 MKII -> Apogee S/PDIF cable -> LynxONE digital-in -> Adobe Audition 2.0 -> CD Wave 1.94.8 -> FLAC Frontend 1.7.1
+
+MD5 FINGERPRINTS
+-----------------
+b86781469e749c9ced0355a3301d434e *nirvana1991-12-31t01.flac
+3937418e39e7a3dd9e7f04427464ce22 *nirvana1991-12-31t02.flac
+a06efb957aa7ee015cd05ad4f33cc194 *nirvana1991-12-31t03.flac
+d99289be3906234ed27f0430fdb45786 *nirvana1991-12-31t04.flac
+dc36c3a5010eb77882d359b2bfb92076 *nirvana1991-12-31t05.flac
+3d9c3737b1a16edf6c09b16afd9c64ee *nirvana1991-12-31t06.flac
+f0c7bc14899e14e1e4e6cbd17955ba92 *nirvana1991-12-31t07.flac
+86ec0d2bbb4e16a7b03c6662c53a2210 *nirvana1991-12-31t08.flac
+139c4d96c487d6b7ab0a0219267ab928 *nirvana1991-12-31t09.flac
+3ad7fcaf9c3c27359f4581ec9befb342 *nirvana1991-12-31t10.flac
+e67dc3074bd7961c76d94a903be7efec *nirvana1991-12-31t11.flac
+6113ebb43daf9945641a892427cd46b0 *nirvana1991-12-31t12.flac
+0ad1b64ed26489d1f797ec5014ba545b *nirvana1991-12-31t13.flac
+84c1a55b991578a7d7749b2692f31bb4 *nirvana1991-12-31t14.flac
+
+
+Transferred by Mike Ziegler.
+PLEASE DO NOT ENCODE TO MP3 OR SELL!

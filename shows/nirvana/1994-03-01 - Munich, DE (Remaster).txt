@@ -1,0 +1,63 @@
+Nirvana (live) - 3/1/1994 - Terminal 1, Flughafen München-Riem, Munich, DE [REMASTERED]
+
+Nirvana - March 1st, 1994 -  Terminal 1, Flughafen München-Riem (Munich-Riem Airport), Munich, Germany
+
+Setlist:
+-------------------
+
+01. My Best Friend's Girl
+02. Radio Friendly Unit Shifter
+03. Drain You
+04. Breed
+05. Serve The Servants
+06. Come As You Are (part of)
+07. Come As You Are
+08. Sliver
+09. Dumb
+10. In Bloom
+11. About A Girl
+12. Lithium
+13. Pennyroyal Tea
+14. School (cut)
+15. Polly
+16. Very Ape
+17. Lounge Act
+18. Rape Me
+19. Territorial Pissings
+20. The Man Who Sold The World
+21. All Apologies
+22. On A Plain
+23. Blew
+24. Heart-Shaped Box
+
+
+Source:
+-------------------
+AUD #1 - Quality: 7.0
+
+Aiwa (supplied) → Aiwa HS-JX707
+
+Remastered by: Kurtis Bishop
+
+
+Transfer:
+-------------------
+Nakamichi DR-8 → Echo Layla 24 → Adobe Audition 1.5 → CD Wave 1.93 beta → FLAC frontend 1.7.1
+
+Transfered by: Kris Sproul
+
+
+Generation:
+-------------------
+ANA(M) → WAV [48kHz] → WAV [44.1kHz] → FLAC [Level 8]
+
+
+Notes:
+-------------------
++ All of the songs were compiled into one file.
++ This was the band's last performance.
++ Kurt lost his voice during the show due to bronchitis and laryngitis.
++ The audio was remastered by removing the muffled sound.
++ Grudgy "airy" noise throughout the recording was removed.
++ 'School' is slightly cut as this is the point of the tape flip.
++ 'Come As You Are' had to be re-started due to a power outage at the venue.

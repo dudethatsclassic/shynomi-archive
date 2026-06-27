@@ -1,0 +1,32 @@
+NIRVANA
+June 26, 1992
+Dyrskuepladsen (Roskilde Festival)
+Roskilde, Denmark
+
+DISC #1/1 (03:03)
+-----------------
+01) On A Plain
+
+SOURCE (PRO #1b)
+-----------------
+soundboard > unknown
+
+GENERATION
+-----------------
+Official Laserdisc "Live! Tonight! Sold Out!!" -> WAV [44.1kHz] -> FLAC [Level 8]
+
+TRANSFER
+-----------------
+Pioneer CLD-2850 -> Optical Cable -> Sony MZ-NH700 (HiMD) -> SonicStage 4.3 -> Adobe Audition 3.0 -> Flac Frontend 1.7.1
+
+NOTES
+-----------------
+- Noise fade-out from 01/23/93
+
+MD5 FINGERPRINTS
+-----------------
+b2a61e49a3e6b0f9311d762c545054bf *Nirvana_1992-06-26_PRO1b_t01.flac
+
+Transferred by VL.
+Edited by PL.
+PLEASE DO NOT ENCODE TO MP3 OR SELL!

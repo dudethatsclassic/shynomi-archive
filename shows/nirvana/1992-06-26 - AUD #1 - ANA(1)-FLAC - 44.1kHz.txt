@@ -1,0 +1,75 @@
+NIRVANA
+June 26, 1992
+Dyrskuepladsen (Roskilde Festival)
+Roskilde, Denmark
+
+SOURCE (AUD #1):
+unknown
+
+TRANSFER:
+Nakamichi DR-8 > Tascam DA-30mkII > Echo Layla24 > Cool Edit Pro 2.0 > CD Wave 1.93 beta > FLAC frontend 1.7.1
+
+GENERATION:
+ANA(1) > WAV [48kHz] > WAV [44.1kHz] > FLAC [Level 8]
+
+BURNED GENERATION WILL BE:
+ANA(1) > CDR(1)
+
+LENGTH:
+78:23
+
+TRACKS:
+01. intro
+02. Aneurysm
+03. Drain You
+04. Stay Away
+05. Sliver
+06. School
+07. In Bloom
+08. Breed
+09. About A Girl
+10. Scoff
+11. Polly
+12. Lithium
+13. Blew
+14. Been A Son
+15. On A Plain
+16. Swap Meet
+17. Negative Creep
+18. Something In The Way
+19. Come As You Are
+20. Love Buzz
+21. Smells Like Teen Spirit
+22. Territorial Pissings
+
+MD5 FINGERPRINTS:
+c05bba4efcc23cd228daab6ac4e4384b *Nirvana_1992-06-26_AUD1_ANA1_t01.flac
+9b31a535fe4f818e6d43cc03d47c103b *Nirvana_1992-06-26_AUD1_ANA1_t02.flac
+cbd65b65f998661d3ed9161ee1462984 *Nirvana_1992-06-26_AUD1_ANA1_t03.flac
+be776723a2cb6f79998b4426a88427d7 *Nirvana_1992-06-26_AUD1_ANA1_t04.flac
+2d46daf530a052fb7b5af4348d518be4 *Nirvana_1992-06-26_AUD1_ANA1_t05.flac
+2cdaff735f4a0bcd4b5d4befd3f2b769 *Nirvana_1992-06-26_AUD1_ANA1_t06.flac
+75ece5644be287440256ee976456006f *Nirvana_1992-06-26_AUD1_ANA1_t07.flac
+93e8c8eff8faf28f365e629eec5aeef7 *Nirvana_1992-06-26_AUD1_ANA1_t08.flac
+7c7b0729df79aad5610ecbeb42e91dd6 *Nirvana_1992-06-26_AUD1_ANA1_t09.flac
+fcdcb141b6c7cb5cee1edc7463a29e1d *Nirvana_1992-06-26_AUD1_ANA1_t10.flac
+9a37a20d287a48103cdfbbe2bc509dd0 *Nirvana_1992-06-26_AUD1_ANA1_t11.flac
+a9c691a401089cf49b58eaf80b519e41 *Nirvana_1992-06-26_AUD1_ANA1_t12.flac
+0ad88fbdeec5f9e2479de4bac3c740b4 *Nirvana_1992-06-26_AUD1_ANA1_t13.flac
+ada60e43d7c1ae1b342b9575f15e2d6c *Nirvana_1992-06-26_AUD1_ANA1_t14.flac
+617349f4466427fd41fda82302cd419e *Nirvana_1992-06-26_AUD1_ANA1_t15.flac
+3519284e19e49a395eaa0228ed967888 *Nirvana_1992-06-26_AUD1_ANA1_t16.flac
+c3b3c051974b145f6124b32ed47d099a *Nirvana_1992-06-26_AUD1_ANA1_t17.flac
+46e73dc1cf9cdcf37a4fdb0dfff32b23 *Nirvana_1992-06-26_AUD1_ANA1_t18.flac
+b81eac5361e16f8c67854552eed2ebbc *Nirvana_1992-06-26_AUD1_ANA1_t19.flac
+ab5e329567cefa84179b36ff717408a5 *Nirvana_1992-06-26_AUD1_ANA1_t20.flac
+ae3317c42a5e12e00754a3515cc3a2e0 *Nirvana_1992-06-26_AUD1_ANA1_t21.flac
+bfa3c1db758f0c6f16adc82cb34a54ed *Nirvana_1992-06-26_AUD1_ANA1_t22.flac
+
+TRANSFERRED BY:
+Kris Sproul
+
+PLEASE DO NOT SELL OR ENCODE TO MP3
+
+TNDU#3
+www.totalnirvana.net

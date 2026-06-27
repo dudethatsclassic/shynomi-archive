@@ -1,0 +1,73 @@
+NIRVANA
+September 11, 1992
+Seattle Center Coliseum (Washington Music Industry Coalition Benefit)
+Seattle, WA
+
+SOURCE (AUD #1):
+Sonic Studios DSM-6P > Casio DA-R100
+
+TRANSFER:
+Sony DTC-60ES > M-Audio Transit > Peak 4.13 > Adobe Audition 1.5 > CD Wave 1.93 beta > FLAC frontend 1.7.1
+
+GENERATION:
+DAT(M) [48kHz] > AIFF [48kHz] > WAV [44.1kHz] > FLAC [Level 8]
+
+LENGTH:
+85:03
+
+TRACKS (DISC 1):
+01. Breed
+02. Drain You
+03. Aneurysm
+04. School
+05. Sliver
+06. In Bloom
+07. Come As You Are
+08. Lithium
+09. About A Girl
+10. tourette's
+11. Polly
+12. Lounge Act
+13. Smells Like Teen Spirit
+14. On A Plain
+15. Negative Creep
+16. All Apologies
+17. Been A Son
+18. Blew
+
+TRACKS (DISC 2):
+01. Dumb
+02. Rape Me
+03. Stay Away
+04. Love Buzz
+05. Territorial Pissings
+
+MD5 FINGERPRINTS:
+93e9952bf24f8ce93ba7e1947d3e4f12 *Nirvana_1992-09-11_AUD1_d1t01.flac
+83ccdb13f3f606010481b7b9329b09fc *Nirvana_1992-09-11_AUD1_d1t02.flac
+394cef23e0f1bf2ceeb6ba8b172c5efd *Nirvana_1992-09-11_AUD1_d1t03.flac
+c8a95ed5b03fe338fcca464cff44b42d *Nirvana_1992-09-11_AUD1_d1t04.flac
+1752037ffd2d444ffe6fc66a814fb31e *Nirvana_1992-09-11_AUD1_d1t05.flac
+c1169c6febe453bbd5bcc2eabf83b20a *Nirvana_1992-09-11_AUD1_d1t06.flac
+ebbba3fea1ddfd954db32da17fffd666 *Nirvana_1992-09-11_AUD1_d1t07.flac
+3b009ab3a0a22c9deecaa12c9ad87bc8 *Nirvana_1992-09-11_AUD1_d1t08.flac
+07b314212ee7d145230b179567cc5b5a *Nirvana_1992-09-11_AUD1_d1t09.flac
+ea6dbfaf8bd1cf97549c382ac690d38f *Nirvana_1992-09-11_AUD1_d1t10.flac
+d67f4267467b1396dc75b05b7f0365ad *Nirvana_1992-09-11_AUD1_d1t11.flac
+baaf7c08f59f78807751bb317bcffe0a *Nirvana_1992-09-11_AUD1_d1t12.flac
+890f47c8a604bf5636c8c3588e57b7be *Nirvana_1992-09-11_AUD1_d1t13.flac
+df346c5aa5e1028e0a43a2d075d7a308 *Nirvana_1992-09-11_AUD1_d1t14.flac
+82ba3eb58d71ed37bacf55515405a6d4 *Nirvana_1992-09-11_AUD1_d1t15.flac
+b3c0be1988868951323c3f91978edae1 *Nirvana_1992-09-11_AUD1_d1t16.flac
+d263fe9089a064e8baf676aaae1e9334 *Nirvana_1992-09-11_AUD1_d1t17.flac
+0efd942dc13d161f7b14fc04491cf911 *Nirvana_1992-09-11_AUD1_d1t18.flac
+c81c2020e4673d978708d618b4b6b9fb *Nirvana_1992-09-11_AUD1_d2t01.flac
+1b5cdd592b3489aaa25a4772b7b892d7 *Nirvana_1992-09-11_AUD1_d2t02.flac
+ce15f91ca4a19b4bd51ad842edd303ab *Nirvana_1992-09-11_AUD1_d2t03.flac
+d4360bdaed37bad56f49c1af0c799f38 *Nirvana_1992-09-11_AUD1_d2t04.flac
+7f762b84ae344c0241d02d26675e28f6 *Nirvana_1992-09-11_AUD1_d2t05.flac
+
+TRANSFERRED BY:
+JEMS
+
+PLEASE DO NOT SELL OR ENCODE TO MP3

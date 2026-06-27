@@ -1,0 +1,45 @@
+NIRVANA
+November 5, 1991
+Astoria Theatre
+London, United Kingdom
+
+DISC #1/1 (30:30)
+-----------------
+01) Come As You Are
+02) Been A Son
+03) Negative Creep
+04) On A Plain
+05) Blew
+06) Dumb
+07) Pennyroyal Tea
+08) Endless, Nameless
+
+GENERATION
+-----------------
+Unofficial CD ["Firework Night"] -> WAV [44.1kHz] -> FLAC [Level 8]
+
+SOURCE (AMT #1b)
+-----------------
+unknown -> unknown
+
+EXTRACTION
+-----------------
+Lite-On iHBS-112 -> Exact Audio Copy v1.00 beta 3 -> Adobe Audition 3.0 -> CD Wave 1.98 -> FLAC Frontend 1.7.1
+
+NOTES
+-----------------
+- Normalized and retracked
+
+MD5 FINGERPRINTS
+-----------------
+1020df332449375e79122092a32a8958 *Nirvana_1991-11-05_AMT1b_CD_t01.flac
+d976c6a213049f11c408309ff23421ed *Nirvana_1991-11-05_AMT1b_CD_t02.flac
+b74293dd36b1844dce80ae0037ab9d27 *Nirvana_1991-11-05_AMT1b_CD_t03.flac
+7eba466caeeb9beff24e8296bf5a07d3 *Nirvana_1991-11-05_AMT1b_CD_t04.flac
+ca6161c081bc5039a13ef2b10139a277 *Nirvana_1991-11-05_AMT1b_CD_t05.flac
+40562708440edc3d10a3971711afb954 *Nirvana_1991-11-05_AMT1b_CD_t06.flac
+48cc4028314ad8129b179bf83c3711a0 *Nirvana_1991-11-05_AMT1b_CD_t07.flac
+ef5f2fd97549950983874a341bee7dbc *Nirvana_1991-11-05_AMT1b_CD_t08.flac
+
+Extracted by Pierre Leroy.
+PLEASE DO NOT ENCODE TO MP3 OR SELL!

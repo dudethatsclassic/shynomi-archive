@@ -1,0 +1,48 @@
+NIRVANA
+January 23, 1988
+Reciprocal Recording,
+Seattle, WA
+
+DISC #1/1 (29:01)
+-----------------
+01) If You Must 
+02) Downer
+03) Floyd The Barber
+04) Paper Cuts
+05) Spank Thru
+06) Hairspray Queen 
+07) Aero Zeppelin 
+08) Beeswax
+09) Mexican Seafood
+
+GENERATION
+-----------------
+Unofficial CD [Reciprocal Studio Demos] -> WAV [44.1kHz] -> FLAC [Level 8]
+
+SOURCE (SBD #3b)
+-----------------
+Soundboard -> ½-inch 8-track analog magnetic tape (session tape)
+
+EXTRACTION
+-----------------
+TEAC CD-W512EB -> Exact Audio Copy -> Adobe Audition 3.0 -> FLAC Frontend 1.7.1
+
+NOTES
+-----------------
+- Phase corrected and normalized
+
+MD5 FINGERPRINTS
+-----------------
+decde8ed28e1c258ceba68aaeefaaca2 *Nirvana_1988-01-23_SBD3b_t01.flac
+467fe93bd15d613677a049710d3e6b1c *Nirvana_1988-01-23_SBD3b_t02.flac
+25d0310db66d94b2fca7df936c01f2ad *Nirvana_1988-01-23_SBD3b_t03.flac
+df54901ee98328f6a68425858783d06d *Nirvana_1988-01-23_SBD3b_t04.flac
+937f695ff4208cf3845c62a697e486e0 *Nirvana_1988-01-23_SBD3b_t05.flac
+54ed8927c19b9be887b83644d163d916 *Nirvana_1988-01-23_SBD3b_t06.flac
+42e961b949d5a7660576f55826615a98 *Nirvana_1988-01-23_SBD3b_t07.flac
+855cdaf5bf9de4e122b96f567af2630a *Nirvana_1988-01-23_SBD3b_t08.flac
+720322d98727734f84905141bf8ad913 *Nirvana_1988-01-23_SBD3b_t09.flac
+
+Extracted by John Dionysus
+Edited by Pierre Leroy
+DO NOT ENCODE TO MP3 OR SELL !!

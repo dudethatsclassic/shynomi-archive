@@ -1,0 +1,36 @@
+NIRVANA
+June 22, 1992
+The King's Hall
+Belfast, United Kingdom
+
+SOURCE (PRO CLIP #1c):
+soundboard > unknown
+
+TRANSFER:
+JVC HR-S9911U > Canopus ADVC-300 > IEEE 1394 > Adobe Premiere Pro CS5 > Cinema Craft Encoder SP3 > Adobe Encore CS5
+
+GENERATION:
+VHS(2) > DVDR(1) > MKV
+
+EXTRACTION:
+Freemake Video Converter 4.1.10
+
+LENGTH:
+00:10 Min - Incomplete
+
+NOTES:
+- VHS to DVDR transfer by Mike Ziegler. Tim Bucknall extraction to MKV.
+- Includes a 10 second long clip of 'Stay Away' only. Has voice over parts of it. 
+- Pre-broadcast of MTV Year In Rock '92 from June 23, 1992. 
+- Featured on the "Nirvana On TV 2" DVDR.
+ 
+TRACKS:
+01. Stay Away (clip)
+
+MD5 FINGERPRINTS:
+6D05EE9D1A32B1767E82BA3194B52DD9 *1992-06-22 - PRO CLIP #1c - Stay Away.mkv
+
+TRANSFER/EXTRACTION/COMPILED BY:
+Mike Ziegler/Tim Bucknall/Fabian Beyer
+
+PLEASE DO NOT SELL OR ENCODE TO MP3

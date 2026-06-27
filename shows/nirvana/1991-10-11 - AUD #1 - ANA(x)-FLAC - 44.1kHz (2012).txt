@@ -1,0 +1,73 @@
+NIRVANA
+October 11, 1991
+Saint Andrew's Hall
+Detroit, MI
+
+SOURCE (AUD #1):
+unknown > unknown
+
+TRANSFER:
+Nakamichi CR-7A > Hosa RCA cable > PreSonus FireStudio Project > Adobe Audition 3.0 > CD Wave 1.98 > Trader's Little Helper 2.7.0
+
+GENERATION:
+ANA(x) > WAV [48kHz] > WAV [44.1kHz] > FLAC [Level 8]
+
+LENGTH:
+80:31
+
+TRACKS (DISC 1):
+01. intro
+02. Jesus Wants Me For A Sunbeam
+03. Aneurysm
+04. Drain You
+05. School
+06. Floyd The Barber
+07. Smells Like Teen Spirit (cut)
+08. About A Girl
+09. Breed
+10. Polly
+11. Sliver
+12. Pennyroyal Tea
+13. Love Buzz
+
+TRACKS (DISC 2):
+01. Come As You Are
+02. Blew
+03. Negative Creep
+04. Been A Son
+05. On A Plain
+06. Lithium
+07. Territorial Pissings
+08. Rape Me
+09. Something In The Way
+10. Endless, Nameless
+
+MD5 FINGERPRINTS:
+c34f8b4ef7d0b16661c500c224e87e3c *Nirvana_1991-10-11_AUD1_d1t01.flac
+f564ade01ae1a2ab0ec6d5299f3a7e98 *Nirvana_1991-10-11_AUD1_d1t02.flac
+426686db9b4d8bfc238b463efba0067b *Nirvana_1991-10-11_AUD1_d1t03.flac
+01e2514a90544c477f66cc12d8f86622 *Nirvana_1991-10-11_AUD1_d1t04.flac
+9125511b662d337b1162ad667ff5f4a2 *Nirvana_1991-10-11_AUD1_d1t05.flac
+2514e739f064b99ceeef02f9b7bc6281 *Nirvana_1991-10-11_AUD1_d1t06.flac
+650677739648132197e53b307a41fd31 *Nirvana_1991-10-11_AUD1_d1t07.flac
+3904643485f052126d7d87347c5517e7 *Nirvana_1991-10-11_AUD1_d1t08.flac
+3e678dedea70137d805b30b2dca5d743 *Nirvana_1991-10-11_AUD1_d1t09.flac
+bace8d47fb35672828a1c96ac2a82f99 *Nirvana_1991-10-11_AUD1_d1t10.flac
+15b5009f32cb5324a6da1a7060c8b390 *Nirvana_1991-10-11_AUD1_d1t11.flac
+4f61c65d3c19ff07ade35b2ee0ca5329 *Nirvana_1991-10-11_AUD1_d1t12.flac
+1f23b50dceae37372b5682ba4b71097f *Nirvana_1991-10-11_AUD1_d1t13.flac
+9ee8dc54232a0728297655f2567c1dcf *Nirvana_1991-10-11_AUD1_d2t01.flac
+4fc0a5334dee01616e0249c88736fd33 *Nirvana_1991-10-11_AUD1_d2t02.flac
+0cd9779e192c38f2440e31df8c3f0e0a *Nirvana_1991-10-11_AUD1_d2t03.flac
+ea87d74223448f6318b52f4c2e1a8d68 *Nirvana_1991-10-11_AUD1_d2t04.flac
+5b3380d4d4f01d01fddb4775fbac0bc6 *Nirvana_1991-10-11_AUD1_d2t05.flac
+c1475f334a6d57225b11ebe35cedc880 *Nirvana_1991-10-11_AUD1_d2t06.flac
+61c0216a63b22b2f28520651b493c37b *Nirvana_1991-10-11_AUD1_d2t07.flac
+b6d2fbf44adf48425040a3e9cd8916a5 *Nirvana_1991-10-11_AUD1_d2t08.flac
+f1b85156bb9aaf628ec2198e9a3e5a6a *Nirvana_1991-10-11_AUD1_d2t09.flac
+c16e6dedc07f804d7587db490ca4d16c *Nirvana_1991-10-11_AUD1_d2t10.flac
+
+TRANSFERRED BY:
+Mike Ziegler
+
+PLEASE DO NOT SELL OR ENCODE TO MP3

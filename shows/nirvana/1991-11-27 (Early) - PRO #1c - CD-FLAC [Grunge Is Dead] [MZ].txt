@@ -1,0 +1,28 @@
+NIRVANA
+November 27, 1991
+BBC Studios (Top Of The Pops)
+London, United Kingdom
+
+DISC #1/1 (3:10)
+-----------------
+01) Smells Like Teen Spirit
+
+GENERATION
+-----------------
+CD ["Grunge Is Dead" bootleg] -> WAV [44.1kHz] -> FLAC [Level 8]
+
+SOURCE (PRO#1c)
+-----------------
+soundboard -> unknown
+
+TRANSFER
+-----------------
+Plextor PlexWriter PX-W4824A -> Exact Audio Copy V0.95 -> Sound Forge 7.0 -> CD Wave 1.93 beta -> FLAC Frontend 1.7.1
+
+MD5 FINGERPRINTS
+-----------------
+f6e9c3e566f506f2e4521c2a38c7be08 *nirvana1991-11-27t01.flac
+
+
+Transferred by Mike Ziegler.
+PLEASE DO NOT ENCODE TO MP3 OR SELL!

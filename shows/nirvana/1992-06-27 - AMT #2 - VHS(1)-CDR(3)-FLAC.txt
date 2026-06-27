@@ -1,0 +1,60 @@
+NIRVANA
+June 27, 1992
+Kansanpuisto (Ruisrock)
+Turku, FI 
+
+SOURCE (AMT #2):
+unknown
+
+GENERATION:
+VHS(1) > CDR(3) > WAV [44.1kHz] > FLAC [Level 8]
+
+TRANSFER:
+unknown
+
+EXTRACTION:
+Excat Audio Copy V1.0 beta 2 
+
+LENGTH:
+44:42 
+
+TRACKS:
+01. Drain You (cuts in)
+02. Stay Away (cuts out)
+03. Sliver (cuts in & out)
+04. In Bloom (cuts in)
+05. Breed
+06. About A Girl (cuts off after a few chords)
+07. Scoff (cuts in)
+08. Lithium (cuts in)
+09. Blew (cuts in & out)
+10. Been A Son (cuts in)
+11. Swap Meet (cuts in)
+12. Negative Creep
+13. Come As You Are (cuts in)
+14. Love Buzz (cuts in) 
+15. Smells Like Teen Spirit (cuts in) 
+16. Territorial Pissings (cuts in)
+
+MD5 FINGERPRINTS:
+7bcb064549b52ead2d09e30cc8ce2bac *Nirvana-1992-06-27_AMT2-Track01.flac
+817e2973f13f7898a8e5f9b252855ca0 *Nirvana-1992-06-27_AMT2-Track02.flac
+23c3e3929a6d19adc2f51afbcb0803ea *Nirvana-1992-06-27_AMT2-Track03.flac
+29dffdb86f0c5eddf2bcf55a96ae6621 *Nirvana-1992-06-27_AMT2-Track04.flac
+dda169204dc68255ccad611bbcc3b417 *Nirvana-1992-06-27_AMT2-Track05.flac
+3cfae777a95273a734e2b3dd3da91cd4 *Nirvana-1992-06-27_AMT2-Track06.flac
+265913fe34f1562ab930db880454c18a *Nirvana-1992-06-27_AMT2-Track07.flac
+54a18e17a4a00fc716063b69eb54a7d5 *Nirvana-1992-06-27_AMT2-Track08.flac
+43b6ac4fca98f9f24ec413ed2a341d35 *Nirvana-1992-06-27_AMT2-Track09.flac
+cbcc56f81f4d3c10a4fe69b9afd55eb0 *Nirvana-1992-06-27_AMT2-Track10.flac
+cab67b1009cc16a8b35d6f6b366e5c58 *Nirvana-1992-06-27_AMT2-Track11.flac
+1f5eeb8fceb1595ff9587782d0a21a8c *Nirvana-1992-06-27_AMT2-Track12.flac
+d19b85034c093c76812b4ef1f295b686 *Nirvana-1992-06-27_AMT2-Track13.flac
+4cdebf3d489d678f67c6e051102e6ee4 *Nirvana-1992-06-27_AMT2-Track14.flac
+a6d36fa2d23ca5eb8f86ab943e8ac6df *Nirvana-1992-06-27_AMT2-Track15.flac
+bf01a753adc1e05da261bb2a456f6da1 *Nirvana-1992-06-27_AMT2-Track16.flac
+
+EXTRACTED BY:
+Rolf Fassbind
+
+PLEASE DO NOT SELL OR ENCODE TO MP3

@@ -1,0 +1,69 @@
+NIRVANA
+November 14, 1991
+Arena
+Vienna, Austria
+
+SOURCE (AUD #1):
+Sony > Sony
+
+TRANSFER:
+Nakamichi DR-3 > Schulz ADPS 1 > Fireface UC > Adobe Audition 3.0 > CD Wave 1.98 > Trader's Little Helper 2.4.1
+
+GENERATION:
+ANA(1) > WAV [24bit/48kHz] > WAV [44.1kHz] > FLAC [Level 8]
+
+LENGTH:
+63:35
+
+TRACKS:
+01. intro
+02. Drain You
+03. Aneursym
+04. School (part of)
+05. jam
+06. School
+07. Floyd The Barber
+08. Smells Like Teen Spirit
+09. About A Girl
+10. Polly
+11. Lithium
+12. Breed
+13. Sliver
+14. Come As You Are
+15. Been A Son
+16. Negative Creep
+17. On A Plain
+18. Blew
+19. Rape Me
+20. Spank Thru
+21. Molly's Lips
+22. Territorial Pissings
+
+MD5 FINGERPRINTS:
+36037df129a8dc7b12c9b9dccb874c6f *Nirvana_1991-11-14_AUD1_t01.flac
+88dad7b173126dd0e5bf88b0bd34e2ff *Nirvana_1991-11-14_AUD1_t02.flac
+de37e9d28f05d46b953e9d92e3f5d4c2 *Nirvana_1991-11-14_AUD1_t03.flac
+436bdb1cb2bf4d6ff069bb5bfd670f0c *Nirvana_1991-11-14_AUD1_t04.flac
+d0cbc44334c1b8a33877a920239b8e3e *Nirvana_1991-11-14_AUD1_t05.flac
+81c324e62a88bbc655aa0600e2f0c028 *Nirvana_1991-11-14_AUD1_t06.flac
+c5faf5fb128beadb7853fe04bd42d24f *Nirvana_1991-11-14_AUD1_t07.flac
+35f740d0a8f8d20d721706ff673710ea *Nirvana_1991-11-14_AUD1_t08.flac
+7e59c93c30a4ad83614f35aab03466c9 *Nirvana_1991-11-14_AUD1_t09.flac
+fe3f24c86d2a9c1162fb09710ef4909f *Nirvana_1991-11-14_AUD1_t10.flac
+a8d7234e97b03d9713564de5a1ba907b *Nirvana_1991-11-14_AUD1_t11.flac
+1c233e70c6207baf980c2c33a78986ac *Nirvana_1991-11-14_AUD1_t12.flac
+707ec7b69202978d017cc4f5aec9e1b1 *Nirvana_1991-11-14_AUD1_t13.flac
+945d9ba195718c7899163388c89982fe *Nirvana_1991-11-14_AUD1_t14.flac
+7c321e82a8c1188f89b6095b35a326a6 *Nirvana_1991-11-14_AUD1_t15.flac
+48730f3a8f675e9cb0c3b0879dcbb6ec *Nirvana_1991-11-14_AUD1_t16.flac
+5c062d8fcedb408624772ecfdc30fd23 *Nirvana_1991-11-14_AUD1_t17.flac
+e0535370d79ca7fd2c13f05af00624a1 *Nirvana_1991-11-14_AUD1_t18.flac
+9c1d7b4576c8cdc970ea0e42a4f33f6e *Nirvana_1991-11-14_AUD1_t19.flac
+83bfd9ca0892a4d5b0ec171472b892fd *Nirvana_1991-11-14_AUD1_t20.flac
+f2d071c0336391b982402b8c5c1e4f3e *Nirvana_1991-11-14_AUD1_t21.flac
+bb0523495fb52b8b466c45c1c8ec4b41 *Nirvana_1991-11-14_AUD1_t22.flac
+
+TRANSFERRED BY:
+Daniel Bär
+
+PLEASE DO NOT SELL OR ENCODE TO MP3

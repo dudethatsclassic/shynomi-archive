@@ -1,0 +1,36 @@
+NIRVANA
+February 16, 1990
+Bogart's
+Long Beach, CA
+
+SOURCE (SBD #1):
+Soundboard > Sony TCD-10
+
+TRANSFER:
+JVC L-A55 > Technics SU-V500  > HQ Silver series RCA cables > ESI Juli@ > Wavelab 6.11 > Adobe Audition 1.5 / Izotope RX 2.01.390 > FLAC Frontend 1.7.1
+
+GENERATION:
+7" 45RPM [Penu Baby] > WAV [24bit][96kHz] > FLAC [Level 8]
+
+LENGTH:
+9:44
+
+TRACKS:
+A1. Love Buzz
+A2. Floyd The Barber
+B1. Scoff
+
+DYNAMIC RANGE:
+A1. DR14
+A2. DR13
+B1. DR13
+
+MD5 FINGERPRINTS:
+2f1134aad4ec7ab4604b4f064913a62b *A1 - Love Buzz.flac
+cfc0851a335475b41c38782d35289215 *A2 - Floyd The Barber.flac
+5c7e23adb0e9d221bc765e62c9a1e484 *B1 - Scoff.flac
+
+TRANSFERRED BY:
+Pieter Vermeulen
+
+PLEASE DO NOT SELL OR ENCODE TO ANY OTHER FORMAT!

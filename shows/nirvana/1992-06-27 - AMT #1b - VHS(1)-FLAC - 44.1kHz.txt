@@ -1,0 +1,66 @@
+NIRVANA
+June 27, 1992
+Kansanpuisto (Ruisrock)
+Turku, Finland
+
+DISC #1/1 (75:22)
+-----------------
+01) Aneurysm
+02) Drain You
+03) Stay Away
+04) Sliver
+05) School
+06) In Bloom
+07) Breed
+08) About A Girl
+09) Scoff
+10) Polly
+11) Lithium
+12) Blew
+13) Been A Son
+14) On A Plain
+15) Swap Meet
+16) Negative Creep
+17) Come As You Are
+18) Love Buzz
+19) Smells Like Teen Spirit
+20) Territorial Pissings
+
+GENERATION
+-----------------
+VHS(1) -> WAV [48kHz] -> WAV [44.1kHz] -> FLAC [Level 8]
+
+SOURCE (AMT#1b)
+-----------------
+unknown -> unknown
+
+TRANSFER
+-----------------
+JVC HR-S9500 -> Hosa RCA cable -> LynxONE analog-in -> Adobe Audition 3.0 -> CD Wave 1.96.1 -> FLAC Frontend 1.7.1
+
+MD5 FINGERPRINTS
+-----------------
+4dbe44f975600b798c9dcec5b0a058e5 *nirvana1992-06-27t01.flac
+db6372a1aaa32153d20de6c0478d4407 *nirvana1992-06-27t02.flac
+230c7d161a7b26537c0385647cdde5e1 *nirvana1992-06-27t03.flac
+1019105797d9ba0db83d753a1d96bd89 *nirvana1992-06-27t04.flac
+3b8d5097e8cdedb1a6e9b1abb3204436 *nirvana1992-06-27t05.flac
+9cb431104f365097b76b1e2671cdf1a6 *nirvana1992-06-27t06.flac
+b33a489ba3b8beaf3c58494308d74552 *nirvana1992-06-27t07.flac
+68e6a43ed9c718aae8ad75667cc85e89 *nirvana1992-06-27t08.flac
+02bf8080a81f87635bf8987cf58e2377 *nirvana1992-06-27t09.flac
+8cc9f3e1e491ed1b0918a69da5bae788 *nirvana1992-06-27t10.flac
+f4140d7be9182e045986147ab5915f6a *nirvana1992-06-27t11.flac
+64373532a1bb874ee39a5808111e8420 *nirvana1992-06-27t12.flac
+d042b16b74c7fb53a323cea33635bcfc *nirvana1992-06-27t13.flac
+36de0835fe9bf9fcc3f3465ab3911d56 *nirvana1992-06-27t14.flac
+061127d295eba9df406bd815b329eb26 *nirvana1992-06-27t15.flac
+455b7a08e6c83fe0864be8a68ea3af0e *nirvana1992-06-27t16.flac
+a28f3286a1b1edc3dfcf77b9f4df9be3 *nirvana1992-06-27t17.flac
+e0742879d43b00bb4760e9db89d63460 *nirvana1992-06-27t18.flac
+18983d4c3b6edec37149d8f7fc9f63a9 *nirvana1992-06-27t19.flac
+d14795e7215d49b86a011bc9a9aed05f *nirvana1992-06-27t20.flac
+
+
+Transferred by Mike Ziegler.
+PLEASE DO NOT ENCODE TO MP3 OR SELL!

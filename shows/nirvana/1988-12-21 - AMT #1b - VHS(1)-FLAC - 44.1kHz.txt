@@ -1,0 +1,46 @@
+NIRVANA
+December 21, 1988
+Eagles Hall
+Hoquiam, WA
+
+DISC #1/1 (24:27)
+-----------------
+01) intro
+02) School
+03) Floyd The Barber
+04) Paper Cuts (cut)
+05) Mexican Seafood
+06) Spank Thru
+07) Love Buzz (cut)
+08) Aero Zeppelin
+
+GENERATION
+-----------------
+VHS(1) -> WAV [48kHz] -> WAV [44.1kHz] -> FLAC [Level 8]
+
+SOURCE (AMT#1b)
+-----------------
+unknown -> unknown
+
+TRANSFER
+-----------------
+JVC HR-S9911U -> Hosa RCA cable -> LynxONE analog-in -> Adobe Audition 2.0 -> CD Wave 1.94.8 -> FLAC Frontend 1.7.1
+
+NOTES
+-----------------
+"Love Buzz" should come after "School" but it's edited on the video.
+
+MD5 FINGERPRINTS
+-----------------
+120acb1e77fd6a05ee22ff988647533f *nirvana1988-12-21t01.flac
+b98ac4550f2ab0fb778c3fb542980f18 *nirvana1988-12-21t02.flac
+ca5e98cd648fa87a76219aa6ca9fa922 *nirvana1988-12-21t03.flac
+35a2d7521d57c0786ac05ba704b08eb7 *nirvana1988-12-21t04.flac
+ea7f05a6f88607eea47daba60c2251ef *nirvana1988-12-21t05.flac
+7e8d62e9f147cde4893c76f2674f7620 *nirvana1988-12-21t06.flac
+eb3e8d6c0b6d90f35fdff4cced74afd0 *nirvana1988-12-21t07.flac
+6446124da0a2297682f3c48e6bc2fe8e *nirvana1988-12-21t08.flac
+
+
+Transferred by Mike Ziegler.
+PLEASE DO NOT ENCODE TO MP3 OR SELL!

@@ -1,0 +1,54 @@
+NIRVANA
+February 15, 1990
+Raji's
+Hollywood, CA
+
+DISC #1/1 (42:37)
+-----------------
+01) intro
+02) School
+03) Floyd The Barber
+04) Love Buzz
+05) Dive
+06) Spank Thru
+07) Breed
+08) Scoff
+09) About A Girl
+10) Molly's Lips
+11) Been A Son
+12) Stain
+13) Negative Creep
+14) Blew
+
+GENERATION
+-----------------
+ANA(M) -> WAV [48kHz] -> WAV [44.1kHz] -> FLAC [Level 8]
+
+SOURCE (AUD#2)
+-----------------
+Sony ECM-990F -> Sony TC-D5M
+
+TRANSFER
+-----------------
+Nakamichi DR-8 -> Hosa RCA cable -> LynxONE analog-in -> Adobe Audition 1.5 -> CD Wave 1.93 beta -> FLAC Frontend 1.7.1
+
+MD5 FINGERPRINTS
+-----------------
+6b1949269da0b4819ae953ff2ff00615 *nirvana1990-02-15t01.flac
+5350ec2decf83da1b4f4d4f64707e869 *nirvana1990-02-15t02.flac
+d8e8707fa5a8610dc0ecc82a668dea89 *nirvana1990-02-15t03.flac
+11abc19aff8f40a726938e8cbf650b84 *nirvana1990-02-15t04.flac
+8018e85c8e5518c8cd5a7b60b9a08e5b *nirvana1990-02-15t05.flac
+fe0a8769a172e97152b67daca3701312 *nirvana1990-02-15t06.flac
+59192ebfe7dec0bee4db2a2bd2a7f2c0 *nirvana1990-02-15t07.flac
+ac8afa02f90c6dd56779d337207bb951 *nirvana1990-02-15t08.flac
+eed249e4b940a666c688b2f2d2202d6c *nirvana1990-02-15t09.flac
+1e5437549721533b5237b57aa1773823 *nirvana1990-02-15t10.flac
+fb6174838ee03cf810b6f529e5f682d7 *nirvana1990-02-15t11.flac
+b5adb9a3eccd9c33f0eac7e1ae6bbf6c *nirvana1990-02-15t12.flac
+a0bbba8c8f577aac06797ad576fc66d0 *nirvana1990-02-15t13.flac
+f78c19f256dde88d5111db3ed8fe8b77 *nirvana1990-02-15t14.flac
+
+
+Transferred by Mike Ziegler.
+PLEASE DO NOT ENCODE TO MP3 OR SELL!

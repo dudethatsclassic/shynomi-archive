@@ -1,0 +1,65 @@
+NIRVANA
+October 25, 1990
+Students' Union, Leeds Polytechnic
+Leeds, UK
+
+SOURCE (AMT #1):
+unknown (Hi8)
+
+GENERATION:
+HI8(M) > CDR(2) > WAV [44.1kHz] > FLAC [Level 8]
+Remastered by Henri Immonnen
+
+TRANSFER:
+unknown
+
+EXTRACTION:
+Excat Audio Copy V1.0 beta 2 
+
+LENGTH:
+60:25
+
+TRACKS:
+01. jam / Blew
+02. Been A Son
+03. Negative Creep
+04. Stain
+05. Lithium
+06. Spank Thru
+07. Breed
+08. Floyd The Barber
+09. Big Cheese
+10. About A Girl
+11. In Bloom
+12. Scoff
+13. Molly's Lips [Vaselines cover]
+14. Love Buzz [Shocking Blue cover]
+15. D-7 [Wipers cover]
+16. Dive
+17. Sliver
+18. School
+
+MD5 FINGERPRINTS:
+fcafdb8326e3a4f2ce55507a3abd54fe *Nirvana-1990-10-25-Track01.flac
+2d59c057d3fe37e46a6aef76e57f123f *Nirvana-1990-10-25-Track02.flac
+763a876fe07ed5db6ac99625e1fb30da *Nirvana-1990-10-25-Track03.flac
+f76392c0241265a7333abc7e598464a1 *Nirvana-1990-10-25-Track04.flac
+9012c19aa42e10178e8e2dc30989d46a *Nirvana-1990-10-25-Track05.flac
+483d34e462f25bb3ff28689a07c348f2 *Nirvana-1990-10-25-Track06.flac
+7cf431aff3737fbacf5d682b27070d9e *Nirvana-1990-10-25-Track07.flac
+7dc871b4029d3b4533db2e8897811f87 *Nirvana-1990-10-25-Track08.flac
+16f379816ea811bad1ea6de13eb1e2eb *Nirvana-1990-10-25-Track09.flac
+f1d52e9a884442734aefffaec1f079f2 *Nirvana-1990-10-25-Track10.flac
+f003c3bac9ae16e39944897da3c0d337 *Nirvana-1990-10-25-Track11.flac
+69907021b76d7cca049705020b673bd8 *Nirvana-1990-10-25-Track12.flac
+ed26a5bceb1c4d2356ec9064fc659203 *Nirvana-1990-10-25-Track13.flac
+e3bbd127f2da143fa73da3adc5f83ef8 *Nirvana-1990-10-25-Track14.flac
+39681323a9dc464edfb4ca29bcb9300f *Nirvana-1990-10-25-Track15.flac
+c6f2854c6abd40e34d6604feafa26da4 *Nirvana-1990-10-25-Track16.flac
+162356a7770f74ae63e600dc73f7a021 *Nirvana-1990-10-25-Track17.flac
+d706c1a63b7e1803dc611dbfc8ab86b7 *Nirvana-1990-10-25-Track18.flac
+
+EXTRACTED BY:
+Rolf Fassbind
+
+PLEASE DO NOT SELL OR ENCODE TO MP3

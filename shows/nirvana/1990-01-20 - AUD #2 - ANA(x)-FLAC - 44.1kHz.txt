@@ -1,0 +1,42 @@
+NIRVANA
+January 20, 1990
+Legends
+Tacoma, WA
+
+DISC #1 (46:53)
+-----------------
+01) Love Buzz
+02) Dive
+03) Scoff
+04) All You Need Is Love / Matt Is Drunk / If I Fell / Living Loving Maid
+05) About A Girl
+06) Big Cheese
+07) Molly's Lips
+08) Token Eastern Song
+09) Spank Thru
+10) Breed
+11) Stain
+12) Been A Son
+13) Sweet Home Alabama (jam)
+10) Negative Creep
+11) Blew
+
+GENERATION
+-----------------
+ANA(X) -> WAV [96k/32b] -> speed correct --> WAV [44.1k/16b] -> FLAC
+ANA(X) -> WAV [96k/32b] -> speed correct --> WAV [48k/16b] -> FLAC
+
+SOURCE 
+-----------------
+unknown
+
+
+NOTES
+-----------------
+Missing few songs, lots of cuts between tracks.  I've had this tape forever and had assumed it was a cut dupe of one of the other sources.  Turns out it isn't.
+
+
+MD5 FINGERPRINTS
+-----------------
+SideAstretch44.flac:2fdc11ff2ba777ec7068a2800ffc40f2
+SideBstretch44.flac:0646890a55a042a3e51498c1de3b8b8d

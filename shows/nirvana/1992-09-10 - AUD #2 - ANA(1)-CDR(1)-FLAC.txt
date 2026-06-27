@@ -1,0 +1,66 @@
+NIRVANA
+September 10, 1992
+The Portland Meadows (No On 9 Benefit)
+Portland, OR
+
+DISC #1/1 (69:50)
+-----------------
+01) Breed
+02) Drain You
+03) Aneurysm
+04) School
+05) Sliver
+06) In Bloom
+07) Come As You Are
+08) Lithium
+09) About A Girl (cut)
+10) tourette's
+11) Polly
+12) Lounge Act
+13) Smells Like Teen Spirit
+14) On A Plain
+15) Negative Creep
+16) Been A Son
+17) All Apologies
+18) Blew
+19) Stay Away
+20) D-7
+
+GENERATION
+-----------------
+ANA(1) -> CDR(1) -> WAV [44.1kHz] -> FLAC [Level 8]
+
+SOURCE (AUD#2)
+-----------------
+unknown -> unknown
+
+TRANSFER
+-----------------
+Plextor PlexWriter PX-W4824A -> Exact Audio Copy V0.95 -> Sound Forge 7.0 -> Adobe Audition 2.0 -> CD Wave 1.94.8 -> FLAC Frontend 1.7.1
+
+MD5 FINGERPRINTS
+-----------------
+2bf028fb0d0f5a0301d01fa0bd36b30c *nirvana1992-09-10t01.flac
+3e38eb7e318692a1cc0ab40dd1ab749f *nirvana1992-09-10t02.flac
+4ffb19e27fdff555d5fe07d735cb0b2d *nirvana1992-09-10t03.flac
+f8646e3d7cedea7064f91b5a0f542437 *nirvana1992-09-10t04.flac
+a60790942c825d4ffdffa543fc0ea528 *nirvana1992-09-10t05.flac
+3aa304886566ab5793b45fd4f23f27d4 *nirvana1992-09-10t06.flac
+29069e34586cf8b7254b5b916dc902c2 *nirvana1992-09-10t07.flac
+82a6c52823827825578864e6c430ad8f *nirvana1992-09-10t08.flac
+6d4522d59f9b2f989d2ddec2b9d49327 *nirvana1992-09-10t09.flac
+2af5eb0c5777e56a0a6be45d284698ab *nirvana1992-09-10t10.flac
+85f41e9b9f35b3dd26e23f649d865275 *nirvana1992-09-10t11.flac
+bcac49f1da001aa6ec60f95a2194e3c1 *nirvana1992-09-10t12.flac
+8186836349cc8084cecc81675762b484 *nirvana1992-09-10t13.flac
+c213f6e89b03bcfae8c40f39b280b502 *nirvana1992-09-10t14.flac
+93766115dac9e418b87f51837958416d *nirvana1992-09-10t15.flac
+05a1748b6652b987c6c0ed0b2f7bf570 *nirvana1992-09-10t16.flac
+dc0cde3fb76c14b994d900436a0ace9e *nirvana1992-09-10t17.flac
+770352f86ca06f8c92a492815aaa1ef1 *nirvana1992-09-10t18.flac
+e2a8866819c5b6b4f0af4a6e41b73490 *nirvana1992-09-10t19.flac
+7eaba766f13b667066269b7c2bf35843 *nirvana1992-09-10t20.flac
+
+
+Extracted by Mike Ziegler.
+PLEASE DO NOT ENCODE TO MP3 OR SELL!

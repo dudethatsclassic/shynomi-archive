@@ -1,0 +1,65 @@
+NIRVANA
+August 17, 1990
+Hollywood Palladium
+Hollywood, CA
+
+DISC #1/1 (51:35)
+-----------------
+SOUNDCHECK
+01) In Bloom
+02) Floyd The Barber
+03) Verse Chorus Verse
+
+SET
+04) intro
+05) Love Buzz
+06) Floyd The Barber
+07) Scoff
+08) Dive
+09) About A Girl
+10) Spank Thru
+11) Breed
+12) In Bloom
+13) School
+14) Been A Son
+15) Negative Creep
+16) Blew
+
+GENERATION
+-----------------
+ANA(M) -> DAT(2) -> WAV [48kHz] -> WAV [44.1kHz] -> FLAC [Level 8]
+
+SOURCE (AUD#1)
+-----------------
+soundboard -> Sony WM-D6
+
+TRANSFER
+-----------------
+Tascam DA-20 MKII -> Apogee S/PDIF cable -> LynxONE digital-in -> Adobe Audition 2.0 -> CD Wave 1.95.1 -> FLAC Frontend 1.7.1
+
+NOTES
+-----------------
+There is some minor digital noise during the intro track.
+
+MD5 FINGERPRINTS
+-----------------
+1a36283678899e01b2a1aba450d17157 *nirvana1990-08-17t01.flac
+5b802ef164c0c5830d7f8823623596f9 *nirvana1990-08-17t02.flac
+55212c1adc1384f3ca8952a7a0847252 *nirvana1990-08-17t03.flac
+175d564108f38aaee09ed2f1ee1a3691 *nirvana1990-08-17t04.flac
+fe4b496ec8c6fbd041a0248f43765824 *nirvana1990-08-17t05.flac
+85eec09b0134e11f67d12e2c548a766f *nirvana1990-08-17t06.flac
+bfa300692e3a7600866fa5ea643d7e4a *nirvana1990-08-17t07.flac
+3ebdecd6ed6e4bebc742ba06f2153b4c *nirvana1990-08-17t08.flac
+c7de8ebee7ef708bd75db0895d7e7ded *nirvana1990-08-17t09.flac
+cc100688dc5408b4292d8bf03aec3d14 *nirvana1990-08-17t10.flac
+373c69a98242347fcb0d1081cc505246 *nirvana1990-08-17t11.flac
+f73aca0f0fa3488e8c04f2e85eca861f *nirvana1990-08-17t12.flac
+15db9ea200096a1f545c2f6fca5e1459 *nirvana1990-08-17t13.flac
+9b0743893e20ba370dbf5e5865f5a0e3 *nirvana1990-08-17t14.flac
+f9fb5b649c6a83a017bab390b9a79c00 *nirvana1990-08-17t15.flac
+d462d479192436be1c238671e2d2784b *nirvana1990-08-17t16.flac
+
+
+Transferred by Mike Ziegler.
+PLEASE DO NOT ENCODE TO MP3 OR SELL!

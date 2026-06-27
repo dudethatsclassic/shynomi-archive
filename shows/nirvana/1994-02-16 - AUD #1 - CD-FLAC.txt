@@ -1,0 +1,77 @@
+NIRVANA
+February 16, 1994
+Salle Omnisport
+Renness, France
+
+SOURCE: (AUD #1)
+unknown > unknown
+
+EXTRACTION:
+NEC DVD-RW ND-3520A > EAC V0.95 > FLAC frontend 1.7.1 [level 8]
+
+GENERATION:
+CD [Va Te Faire Enculer] > WAV [44.1kHz] > FLAC [Level 8]
+
+LENGTH:
+93:48
+
+TRACKS:
+01. Radio Friendly Unit Shifter
+02. My Sharona
+03. Drain You
+04. Breed
+05. Serve The Servants
+06. Come As You Are
+07. Smells Like Teen Spirit
+08. Sliver
+09. Dumb
+10. In Bloom
+11. About A Girl
+12. Lithium
+13. Pennyroyal Tea
+14. School
+15. Polly
+16. Very Ape
+17. Lounge Act
+18. Rape Me
+19. Territorial Pissings
+20. The Man Who Sold The World
+21. Frances Farmer Will Have Her Revenge On Seattle
+22. Sappy
+23. All Apologies
+24. On A Plain
+25. Scentless Apprentice
+26. Heart-Shaped Box
+
+MD5 FINGERPRINTS:
+28506673 18:51.06 2006-07-13 Track01.flac
+11104444 18:51.12 2006-07-13 Track02.flac
+28506718 18:51.26 2006-07-13 Track03.flac
+25798303 18:51.38 2006-07-13 Track04.flac
+25364946 18:51.49 2006-07-13 Track05.flac
+29265868 18:52.01 2006-07-13 Track06.flac
+34025064 18:52.13 2006-07-13 Track07.flac
+22304855 18:52.22 2006-07-13 Track08.flac
+20417052 18:52.29 2006-07-13 Track09.flac
+31724642 18:52.40 2006-07-13 Track10.flac
+21494749 18:52.47 2006-07-13 Track11.flac
+33613903 18:52.58 2006-07-13 Track12.flac
+25725083 18:53.06 2006-07-13 Track13.flac
+22162212 18:53.13 2006-07-13 Track14.flac
+21421735 18:53.20 2006-07-13 Track15.flac
+13261010 18:53.24 2006-07-13 Track16.flac
+20344182 18:53.30 2006-07-13 Track17.flac
+17835922 18:53.38 2006-07-13 Track18.flac
+26203460 18:54.01 2006-07-13 Track19.flac
+31497915 18:54.28 2006-07-13 Track20.flac
+27828603 18:56.40 2006-07-13 Track21.flac
+28300117 18:56.57 2006-07-13 Track22.flac
+24043939 18:57.10 2006-07-13 Track23.flac
+22079196 18:57.21 2006-07-13 Track24.flac
+27964255 18:57.33 2006-07-13 Track25.flac
+31260537 18:57.47 2006-07-13 Track26.flac
+
+EXTRACTED BY:
+Andreas Magnusson
+
+***DO NOT SELL OR ENCODE TO MP3!***

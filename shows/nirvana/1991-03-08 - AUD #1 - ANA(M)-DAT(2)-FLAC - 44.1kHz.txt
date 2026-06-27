@@ -1,0 +1,56 @@
+NIRVANA
+March 8, 1991
+Commodore Ballroom
+Vancouver, BC, Canada
+
+DISC #1/1 (45:39)
+-----------------
+01) Love Buzz (cut)
+02) Sliver
+03) Dive
+04) Floyd The Barber
+05) Breed
+06) Scoff
+07) About A Girl
+08) School
+09) Been A Son
+10) Negative Creep
+11) Blew
+12) Lithium
+13) Molly's Lips
+14) Spank Thru
+15) Territorial Pissings
+
+GENERATION
+-----------------
+ANA(M) -> DAT(2) -> WAV [48kHz] -> WAV [44.1kHz] -> FLAC [Level 8]
+
+SOURCE (AUD#1)
+-----------------
+Sony PC-62 -> Sony WM-D3
+
+TRANSFER
+-----------------
+Tascam DA-20 MKII -> Apogee S/PDIF cable -> LynxONE digital-in -> Adobe Audition 2.0 -> CD Wave 1.95.1 -> FLAC Frontend 1.7.1
+
+MD5 FINGERPRINTS
+-----------------
+3f69e50b71152027ebc94e4b3ebcbd60 *nirvana1991-03-08t01.flac
+dd3cb45c865cdf07e1ba2105f171789e *nirvana1991-03-08t02.flac
+2b0b6a136d97cc69440c07668f5f9e41 *nirvana1991-03-08t03.flac
+229774027d5e32b74d70472a9ce581ad *nirvana1991-03-08t04.flac
+e21288b133882ebf092952bbb4f680cc *nirvana1991-03-08t05.flac
+dbfe106428a3194d3d947fbe9aa6f13a *nirvana1991-03-08t06.flac
+af5887728151755716b9e167e2b43d55 *nirvana1991-03-08t07.flac
+8153045bc5aa914e952beaf291ba7d5d *nirvana1991-03-08t08.flac
+2fbc0d9cc4b13970cc3e5d5287daac06 *nirvana1991-03-08t09.flac
+85f5cfa4903bdcf0c11fc1b38c608b98 *nirvana1991-03-08t10.flac
+ca9572b919254e19d5d5c7c860f62fb4 *nirvana1991-03-08t11.flac
+ef5db2fd587458bfb57f0957a1d0876f *nirvana1991-03-08t12.flac
+f98fa5438f707de05d29781ae470c871 *nirvana1991-03-08t13.flac
+e1f97ba6dd3a21e180157a6586cca749 *nirvana1991-03-08t14.flac
+e6367a1e03f8f47881ddb2ee53b9d763 *nirvana1991-03-08t15.flac
+
+
+Transferred by Mike Ziegler.
+PLEASE DO NOT ENCODE TO MP3 OR SELL!

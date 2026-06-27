@@ -1,0 +1,47 @@
+NIRVANA
+January 23, 1993
+Praça da Apoteose (Hollywood Rock Festival)
+Rio de Janeiro, Brazil
+
+SOURCE (PRO #3b):
+soundboard > unknown
+
+TRANSFER:
+Samsung SV-5000W > Canopus ADVC-300 > IEEE 1394 > Adobe Premiere Pro CS6 > Adobe Audition 3.0 > CD Wave 1.98 > Trader's Little Helper 2.7.0
+
+GENERATION:
+TV > VHS(1) > AVI [PCM] > WAV [48kHz] > WAV [44.1kHz] > FLAC [Level 8]
+
+LENGTH:
+39:25
+
+TRACKS:
+01. Breed (cuts out)
+02. Lithium (cuts in, cuts)
+03. Polly
+04. About A Girl
+05. Smells Like Teen Spirit
+06. On A Plain (cuts in)
+07. Negative Creep
+08. Been A Son
+09. Blew
+10. Heart-Shaped Box
+11. Scentless Apprentice (cuts out)
+
+MD5 FINGERPRINTS:
+f8ca9b7308ee0c758a55bf25728dbcb9 *Nirvana_1993-01-23_PRO3b_t01.flac
+cdf8c377e45405954ad1f2caf05b253a *Nirvana_1993-01-23_PRO3b_t02.flac
+9638a401ac9e7637b7cc72a340d11eb5 *Nirvana_1993-01-23_PRO3b_t03.flac
+426534f6a1507ff3502c6a7faa01ff14 *Nirvana_1993-01-23_PRO3b_t04.flac
+673ef9606c390e7ecdb1f2919a5f202d *Nirvana_1993-01-23_PRO3b_t05.flac
+28a22748a32f5181305706011962a9bc *Nirvana_1993-01-23_PRO3b_t06.flac
+fdc7918ea9405b15ebf30d386627c42e *Nirvana_1993-01-23_PRO3b_t07.flac
+c6a115e8ac49a42461dfe1d0eb2bfa5d *Nirvana_1993-01-23_PRO3b_t08.flac
+64466eca8d9dd5198e0d47e72dcbdcd2 *Nirvana_1993-01-23_PRO3b_t09.flac
+990cd14d011504e9a233fe0f12a0f11e *Nirvana_1993-01-23_PRO3b_t10.flac
+3523e51b2456cae5876b5ee55ff38474 *Nirvana_1993-01-23_PRO3b_t11.flac
+
+TRANSFERRED BY:
+Mike Ziegler
+
+PLEASE DO NOT SELL OR ENCODE TO MP3

@@ -1,0 +1,58 @@
+NIRVANA
+December 2, 1991
+The Mayfair
+Newcastle upon Tyne, United Kingdom
+
+DISC #1/1 (52:59)
+-----------------
+01) intro
+02) Jesus Wants Me For A Sunbeam
+03) Drain You
+04) Lithium
+05) Floyd The Barber
+06) Smells Like Teen Spirit
+07) About A Girl
+08) Polly
+09) Breed
+10) School
+11) Sliver
+12) Been A Son
+13) Negative Creep
+14) On A Plain
+15) Blew
+16) jam
+
+GENERATION
+-----------------
+VHS(1) -> WAV [48kHz] -> WAV [44.1kHz] -> FLAC [Level 8]
+
+SOURCE (AMT#1)
+-----------------
+unknown -> unknown
+
+TRANSFER
+-----------------
+JVC HR-S9500 -> Hosa RCA cable -> LynxONE analog-in -> Adobe Audition 3.0 -> CD Wave 1.96.1 -> FLAC Frontend 1.7.1
+
+MD5 FINGERPRINTS
+-----------------
+2836a7698aa38c50a5d6ff74f3eeaf1a *nirvana1991-12-02t01.flac
+cb503cd13ccbc8556010d91c31fffb2d *nirvana1991-12-02t02.flac
+69115aa878579a2cfb33beae1460ff79 *nirvana1991-12-02t03.flac
+f8b0d8daa977369ee72091ea45fb20d6 *nirvana1991-12-02t04.flac
+f096cbe7795218d203db2cf868e31950 *nirvana1991-12-02t05.flac
+e5f9fb97ffa2eb19d918a27d8f4ee435 *nirvana1991-12-02t06.flac
+55c34e56ea409ea943434b9a3c88ba54 *nirvana1991-12-02t07.flac
+d4d8f27826b7ac383d0d1cdccb7ca28d *nirvana1991-12-02t08.flac
+7d2b093abe9afba89b9ce15f2e863985 *nirvana1991-12-02t09.flac
+d0cd2ac2e4af85b7de21fa448ac150f5 *nirvana1991-12-02t10.flac
+a3e47bee068fd8695b7baadd0ebf897d *nirvana1991-12-02t11.flac
+7f8c1785ed5151952ef8686cfdca3824 *nirvana1991-12-02t12.flac
+5d9c818f41e5f52507173043cdb70916 *nirvana1991-12-02t13.flac
+ab865e6562bca0b912244d2f0ea2145c *nirvana1991-12-02t14.flac
+7ff51a6565608820ad0a0e028feb1257 *nirvana1991-12-02t15.flac
+697c1d2db59f2d19a4dce747fa206f23 *nirvana1991-12-02t16.flac
+
+
+Transferred by Mike Ziegler.
+PLEASE DO NOT ENCODE TO MP3 OR SELL!

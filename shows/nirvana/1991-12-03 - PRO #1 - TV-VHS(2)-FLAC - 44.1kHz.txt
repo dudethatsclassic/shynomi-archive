@@ -1,0 +1,37 @@
+NIRVANA
+December 3, 1991
+Rock City
+Nottingham, United Kingdom
+
+SOURCE (PRO #1):
+soundboard > unknown
+
+TRANSFER:
+JVC HR-S9911U > Canopus ADVC-300 > IEEE 1394 > Adobe Premiere Pro CS5 > Adobe Audition 3.0 > CD Wave 1.98 > Trader's Little Helper 2.7.0
+
+GENERATION:
+TV > VHS(2) > AVI [PCM] > WAV [48kHz] > WAV [44.1kHz] > FLAC [Level 8]
+
+LENGTH:
+6:48
+
+TRACKS:
+01. Drain You (cuts out)
+02. Smells Like Teen Spirit (cuts out)
+03. Lithium (cuts in, cuts out)
+04. Sliver (cuts in, cuts out)
+05. Come As You Are (cuts in, cuts out)
+06. Been A Son (cuts out)
+
+MD5 FINGERPRINTS:
+5fa81f9574477a937468c757c0ca3e6d *Nirvana_1991-12-03_PRO1_t01.flac
+2761cf3d9c1a4d8685c4beefd2f1aef5 *Nirvana_1991-12-03_PRO1_t02.flac
+953c9f767d605f2f8551e0b42c2a30c0 *Nirvana_1991-12-03_PRO1_t03.flac
+25150d1b8d150caea8472e584de83145 *Nirvana_1991-12-03_PRO1_t04.flac
+e8b0550dd6fbee14d4c777f264d31bf6 *Nirvana_1991-12-03_PRO1_t05.flac
+0fb78bf0b8cd706b9f798c9c213bd5df *Nirvana_1991-12-03_PRO1_t06.flac
+
+TRANSFERRED BY:
+Mike Ziegler
+
+PLEASE DO NOT SELL OR ENCODE TO MP3

@@ -1,0 +1,68 @@
+NIRVANA
+June 24, 1992
+Le Zénith
+Paris, France
+
+DISC #1/1 (78:37)
+-----------------
+01) intro
+02) Aneurysm
+03) Drain You
+04) Stay Away
+05) Sliver
+06) School
+07) In Bloom
+08) Breed
+09) About A Girl
+10) Scoff
+11) Polly
+12) Lithium
+13) Blew
+14) Been A Son
+15) On A Plain
+16) Negative Creep
+17) Come As You Are
+18) Love Buzz
+19) Smells Like Teen Spirit
+20) Territorial Pissings
+21) Endless, Nameless
+
+GENERATION
+-----------------
+ANA(M) -> WAV [48kHz] -> WAV [44.1kHz] -> FLAC [Level 8]
+
+SOURCE (AUD#2)
+-----------------
+Sony PC-62 -> Sony WM-D3
+
+TRANSFER
+-----------------
+Nakamichi CR-7A -> Hosa RCA cable -> LynxONE analog-in -> Adobe Audition 2.0 -> CD Wave 1.95 -> FLAC Frontend 1.7.1
+
+MD5 FINGERPRINTS
+-----------------
+769d2b13f2e448f4fc75b4f0b7df815d *nirvana1992-06-24t01.flac
+b3704fa0164137bcb7a3b62572a02ed2 *nirvana1992-06-24t02.flac
+902ddc6574fdc86e8f1d7a83124db64f *nirvana1992-06-24t03.flac
+12c04bcedf47405fc1ac0e8306da06b7 *nirvana1992-06-24t04.flac
+cc2b84b7651baa3d4fe347f1bfaa7441 *nirvana1992-06-24t05.flac
+b9e0719f8db8db7e6aa0c5eecff8fac0 *nirvana1992-06-24t06.flac
+73971663207afbeca72b7aa34a22e754 *nirvana1992-06-24t07.flac
+5ca8a12ff8cd9711af2651855bd91f5f *nirvana1992-06-24t08.flac
+0e336567dae083796dc2c9f39d1ae2b9 *nirvana1992-06-24t09.flac
+e76f1bf509c4ec15af2bc76cd25975ba *nirvana1992-06-24t10.flac
+0ed2de873d252932c216e33c5cbe94ef *nirvana1992-06-24t11.flac
+3b95bdf7d5caea3b9b744fe77dc4098c *nirvana1992-06-24t12.flac
+bbf12f1e9f1ada84d9edb1decb3c3349 *nirvana1992-06-24t13.flac
+cc7297c0b7d8c779884ef4bec0788cca *nirvana1992-06-24t14.flac
+dc28206a613d30084e98aa0f07355f12 *nirvana1992-06-24t15.flac
+39623ccf8380c537de46e1e8c22e8279 *nirvana1992-06-24t16.flac
+18214bc2525656aadab0a187db41ec68 *nirvana1992-06-24t17.flac
+385b1f91d0933392f03555fbfeba83fe *nirvana1992-06-24t18.flac
+0a9215cab2f48c17bcfd4ab24e64df27 *nirvana1992-06-24t19.flac
+44c1d4dc0e4392533ce9b1908fb76bdf *nirvana1992-06-24t20.flac
+576338be0a042cde0d57699c7cadddd0 *nirvana1992-06-24t21.flac
+
+
+Transferred by Mike Ziegler.
+PLEASE DO NOT ENCODE TO MP3 OR SELL!

@@ -1,0 +1,62 @@
+NIRVANA
+November 25, 1990
+The Off Ramp
+Seattle, WA
+
+DISC #1/1 (73:03)
+-----------------
+01) intro
+02) Aneurysm
+03) Oh, The Guilt
+04) Mr. Moustache
+05) Stay Away
+06) Breed
+07) Floyd The Barber
+08) About A Girl
+09) Verse Chorus Verse
+10) In Bloom
+11) Swap Meet
+12) Been A Son
+13) Stain
+14) Blew
+15) Sappy (cut)
+16) Lithium
+17) School
+18) D-7
+19) Here She Comes Now
+20) Sliver
+21) Dive (part of)
+
+GENERATION
+-----------------
+ANA(1) -> WAV [48kHz] -> WAV [44.1kHz] -> FLAC [Level 8]
+
+SOURCE (SBD#1)
+-----------------
+soundboard -> unknown
+
+TRANSFER
+-----------------
+Nakamichi CR-7A -> Hosa RCA cable -> LynxONE analog-in -> Adobe Audition 2.0 -> CD Wave 1.95.1 -> FLAC Frontend 1.7.1
+
+PETE'S NOTES
+-----------------
+Hi everybody!
+
+I did a lot of work on this. Mainly based on my experience as a musician and experience in mixing ear monitor recordings. The SBD sounds to me like someone seeing a free socket in the monitor board and plugging in to get what was essentially the monitor engineer mix biased towards kurt's monitor mix (probably a headphone socket). This would basically be his vocals and the top end of the mix. When mixed with an audience it makes a pretty fine mix to fill in the bottom end.
+
+With this I took the audince, used a multi band compressor and EQ. Same with SBD. Aligned, mixed down, cross faded (in areas where monitor mix was not good enough to use) to boost levels (listen to In Bloom - lots of drop outs) and mixed down. I loaded in to Har Bal 2.0 and used Bleach as a template and matched the EQ response to it. Light mastering in Izotope Ozone and finished.
+
+BART'S NOTES
+-----------------
+Decode to WAV, mount the CUE file (using Daemon Tools, Alcohol 120%, etc.) and enjoy!
+
+
+MD5 FINGERPRINTS
+-----------------
+9df6a0dca554f6df8997077affbab14c *Nirvana_eq.flac
+
+Transferred by Mike Ziegler.
+Remastered by Pete Bullock.
+Cue'd and torrented by Bart Sleddens.
+PLEASE DO NOT ENCODE TO MP3 OR SELL!

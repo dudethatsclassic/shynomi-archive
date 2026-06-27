@@ -1,0 +1,38 @@
+NIRVANA
+October 31, 1991
+Paramount Theatre
+Seattle, WA
+
+DISC #1/1 (15:49)
+-----------------
+01) About A Girl
+02) Polly
+03) Breed
+04) Endless, Nameless (part of)
+
+SOURCE (PRO #1)
+-----------------
+soundboard > unknown
+
+GENERATION
+-----------------
+Official Laserdisc "Live! Tonight! Sold Out!!" -> WAV [44.1kHz] -> FLAC [Level 8]
+
+TRANSFER
+-----------------
+Pioneer CLD-2850 -> Optical Cable -> Sony MZ-NH700 (HiMD) -> SonicStage 4.3 -> Adobe Audition 3.0 -> CD Wave 1.98 -> Flac Frontend 1.7.1
+
+NOTES
+-----------------
+- multiple overdubs from interviews / other shows
+
+MD5 FINGERPRINTS
+-----------------
+391a31d3ba3697a9f8f5eb3b79d6c90a *Nirvana_1991-10-31_PRO1_t01.flac
+b4fa88204b44be56b31d8db0889e0485 *Nirvana_1991-10-31_PRO1_t02.flac
+81082847c225c586c09f67b77af3a196 *Nirvana_1991-10-31_PRO1_t03.flac
+159d42cb28f2f43d3ad77a040547a50b *Nirvana_1991-10-31_PRO1_t04.flac
+
+Transferred by VL.
+Edited by PL.
+PLEASE DO NOT ENCODE TO MP3 OR SELL!

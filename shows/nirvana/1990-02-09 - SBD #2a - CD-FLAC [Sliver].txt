@@ -1,0 +1,31 @@
+NIRVANA
+February 9, 1990
+Pine Street Theatre
+Portland, OR
+
+DISC #1/1 (05:27)
+-----------------
+01) About A Girl
+02) Spank Thru
+
+SOURCE (SBD #2a)
+-----------------
+Soundboard -> Unknown
+
+GENERATION
+-----------------
+Official CD "Sliver" -> WAV [44.1kHz] -> FLAC [Level 8]
+
+EXTRACTION
+-----------------
+Lite-On iHBS-112 -> Exact Audio Copy v1.00 beta 3 -> FLAC Frontend 1.7.1
+
+
+MD5 FINGERPRINTS
+-----------------
+3bd5b967efd7abe12b7779913b0e25b8 *nirvana_1990-02-09_SBD2a_t01.flac
+0d761bed8c19e079989fb769589d1fc8 *nirvana_1990-02-09_SBD2a_t02.flac
+
+Extracted by PL.
+PLEASE DO NOT ENCODE TO MP3 OR SELL!
+NO TRADE

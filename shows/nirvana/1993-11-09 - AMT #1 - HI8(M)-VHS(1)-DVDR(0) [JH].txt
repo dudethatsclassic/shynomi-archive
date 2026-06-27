@@ -1,0 +1,65 @@
+NIRVANA
+November 9, 1993
+Stabler Arena, Lehigh University,
+Bethlehem, PA
+
+SOURCE (AMT #1):
+unknown > unknown
+
+GENERATION:
+HI8(M) > VHS(1) > DVDR(0) [NTSC 6.0Mbps CBR, 448kbps AC3, 2 discs]
+
+LENGTH:
+87:39
+
+TRACKS:
+01. Radio Friendly Unit Shifter
+02. Drain You
+03. Breed
+04. Serve The Servants
+05. About A Girl
+06. Heart-Shaped Box
+07. Sliver
+08. Dumb
+09. Come As You Are
+10. Lithium
+11. Pennyroyal Tea
+12. School
+13. Polly
+14. Milk It
+15. Rape Me
+16. Territorial Pissings
+17. Smells Like Teen Spirit
+18. All Apologies
+19. Jesus Wants Me For A Sunbeam
+20. In Bloom
+21. On A Plain
+22. Scentless Apprentice
+23. Blew
+
+TRANSFER:
+JVC HR-S5900U > Pinnacle DC-30 Pro > Adobe Premiere 5.1 + Cool Edit Pro 1.2a + SonicFoundry Softcode> Sonic Scenarist
+
+NOTES:
+- Remastered
+- Straight from Jim's hard drive !
+
+MD5 FINGERPRINTS:
+9dcb84ab7196a7e3e01a4abce63e80dc *VIDEO_TS\VIDEO_TS.BUP
+9dcb84ab7196a7e3e01a4abce63e80dc *VIDEO_TS\VIDEO_TS.IFO
+b99fd79fbca1c105fd453975719ae562 *VIDEO_TS\VIDEO_TS.VOB
+9d5c39f2f2afb793e43e8c90cb93152b *VIDEO_TS\VTS_01_0.BUP
+9d5c39f2f2afb793e43e8c90cb93152b *VIDEO_TS\VTS_01_0.IFO
+465524e3f485c0925009f37423dd5e5c *VIDEO_TS\VTS_01_0.VOB
+e08c343c43944d13051b01c0fc5e6b52 *VIDEO_TS\VTS_01_1.VOB
+83979e66317d09429a16b315f317d8c9 *VIDEO_TS\VTS_01_2.VOB
+674d0569d3b74a15c09f79cafedd1f92 *VIDEO_TS\VTS_01_3.VOB
+17244fe03b469a1c14413934e3f149b4 *VIDEO_TS\VTS_01_4.VOB
+e506dbc35273fe338bd403f1e8473ab1 *VIDEO_TS\VTS_01_5.VOB
+769304161bfe31024bc0e7f7a1b0b8d8 *VIDEO_TS\VTS_02_0.BUP
+769304161bfe31024bc0e7f7a1b0b8d8 *VIDEO_TS\VTS_02_0.IFO
+b99fd79fbca1c105fd453975719ae562 *VIDEO_TS\VTS_02_0.VOB
+51c83c8c4f156e849bcfc210b8c9ffa3 *VIDEO_TS\VTS_02_1.VOB
+
+TRANSFERRED BY:
+Jim Hirte

@@ -1,0 +1,45 @@
+NIRVANA
+January 16, 1993
+Estádio Cícero Pompeu de Toledo (Hollywood Rock Festival)
+São Paulo, Brazil
+
+SETLIST (9:54)
+-----------------
+01) School
+02) Drain You (cut)
+03) Smells Like Teen Spirit (cut)
+04) Seasons In The Sun (cut)
+
+GENERATION
+-----------------
+VHS(1) -> DVDR(2) [NTSC/6Mbps CBR/48kHz PCM] -> re-author
+
+SOURCE (PRO#2)
+-----------------
+unknown -> unknown
+
+RE-AUTHOR
+-----------------
+NEC ND-3500AG -> DVD Decrypter 3.5.4.0 -> Adobe Encore DVD 2.0
+
+NOTES
+-----------------
+"Smells Like Teen Spirit" and "Seasons In The Sun" are in mono.
+
+MD5 FINGERPRINTS
+-----------------
+052520d3f080419a7bdebbd4265b12e1 *VIDEO_TS/VIDEO_TS.BUP
+052520d3f080419a7bdebbd4265b12e1 *VIDEO_TS/VIDEO_TS.IFO
+2924429357af70a7f5f2b67c229f9605 *VIDEO_TS/VIDEO_TS.VOB
+c51e6e4ad509140969a3be711afd4ae2 *VIDEO_TS/VTS_01_0.BUP
+c51e6e4ad509140969a3be711afd4ae2 *VIDEO_TS/VTS_01_0.IFO
+0857cb74b2384478d5b65039b250b826 *VIDEO_TS/VTS_01_0.VOB
+7017e30030ecb28e5d60e681360713f5 *VIDEO_TS/VTS_01_1.VOB
+52119040e909d47def21e43f2245db38 *VIDEO_TS/VTS_02_0.BUP
+52119040e909d47def21e43f2245db38 *VIDEO_TS/VTS_02_0.IFO
+2924429357af70a7f5f2b67c229f9605 *VIDEO_TS/VTS_02_0.VOB
+01a229731f05da7a296c02a39a6a42d1 *VIDEO_TS/VTS_02_1.VOB
+
+
+Re-author by Mike Ziegler.
+PLEASE DO NOT ENCODE TO MP3 OR SELL!

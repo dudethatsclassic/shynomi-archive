@@ -1,0 +1,41 @@
+NIRVANA
+January 23, 1988
+Reciprocal Recording,
+Seattle, WA
+
+DISC #1/1 (38:11)
+-----------------
+01) Aero Zeppelin (01/23/88)
+03) Beeswax (01/23/88)
+04) Mexican Seafood (01/23/88)
+05) Pen Cap Chew (01/23/88)
+08) Downer (01/23/88)
+09) Floyd The Barber (01/23/88)
+10) Paper Cuts (01/23/88)
+11) Spank Thru (01/23/88)
+
+SOURCE (SBD #2g)
+-----------------
+Soundboard -> ½-inch 8-track analog magnetic tape (session tape)
+
+GENERATION
+-----------------
+ANA(2) -> DAT(1) -> WAV [48kHz] -> WAV [44.1kHz] -> FLAC [Level 8]
+
+TRANSFER
+-----------------
+Tascam DA-20 MKII -> Apogee S/PDIF cable -> LynxONE digital-in -> Adobe Audition 2.0 -> CD Wave 1.95.1 -> FLAC Frontend 1.7.1
+
+MD5 FINGERPRINTS
+-----------------
+6bbe470ca620cb69784656560055f598 *nirvana1988-00-00reciprocalt01.flac
+d285e22449d9e7f0a30a37ddd47c4d42 *nirvana1988-00-00reciprocalt03.flac
+1577a052797d12a3ccb2ea6857b3d514 *nirvana1988-00-00reciprocalt04.flac
+cc67fb185d7560033331cfeed9f978c4 *nirvana1988-00-00reciprocalt05.flac
+43ee52f9a7f4f01e017dea57faa4a894 *nirvana1988-00-00reciprocalt08.flac
+5194bd6cc65c8106135988975b6666ea *nirvana1988-00-00reciprocalt09.flac
+1a8c824c13e4d2e47bed16a8908a91b0 *nirvana1988-00-00reciprocalt10.flac
+95fd763376c0ad925a5bec59bcfaf285 *nirvana1988-00-00reciprocalt11.flac
+
+Transferred by Mike Ziegler.
+PLEASE DO NOT ENCODE TO MP3 OR SELL!

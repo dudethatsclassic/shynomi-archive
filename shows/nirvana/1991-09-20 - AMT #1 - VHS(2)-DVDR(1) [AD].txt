@@ -1,0 +1,58 @@
+NIRVANA 
+September 20, 1991 
+Opera House 
+Toronto, ON 
+Canada
+
+DISC #1 (58:11) 
+----------------- 
+01) Aneurysm 
+02) Drain You 
+03) Smells Like Teen Spirit 
+04) Polly 
+05) School 
+06) Sliver 
+07) Floyd The Barber 
+08) About A Girl 
+09) Breed 
+10) Territorial Pissings 
+11) Pennyroyal Tea 
+12) Blew 
+13) Negative Creep 
+14) Been A Son 
+15) Something In The Way 
+16) Endless, Nameless 
+
+GENERATION 
+----------------- 
+VHS(2) > DVDR(1) [NTSC, 8.0Mbps CBR, LPCM]
+
+SOURCE (AMT#1) 
+----------------- 
+UNKNOWN > UNKNOWN 
+
+TRANSFER
+-----------------
+Aiwa MX-100 > Pinnacle DC-1000 > unknown
+
+EXTRACTION 
+----------------- 
+SAMSUNG CD/DVDW SH-W162L > MAC The Ripper > VIDEO_TS
+
+MD5 Fingerprints
+-------------------
+1df09aa5b1793fde8c4439f72fd6bc2a *VIDEO_TS/VIDEO_TS.BUP
+1df09aa5b1793fde8c4439f72fd6bc2a *VIDEO_TS/VIDEO_TS.IFO
+92fa7d0aea2ab537e7a18251b6aa6af1 *VIDEO_TS/VIDEO_TS.VOB
+93a039b7a984003c51c5e208c3f1e8cb *VIDEO_TS/VTS_01_0.BUP
+93a039b7a984003c51c5e208c3f1e8cb *VIDEO_TS/VTS_01_0.IFO
+5e4b03631fd989366d041974e112539f *VIDEO_TS/VTS_01_1.VOB
+29f63a1f6156844deea6a928208aad65 *VIDEO_TS/VTS_01_2.VOB
+3cd307f70a1bfdf8b36d8d9d3c41834c *VIDEO_TS/VTS_01_3.VOB
+e0a78cecbfbd22e4ba8588fc309b8315 *VIDEO_TS/VTS_01_4.VOB
+998eb0cc9ef309512502071e9a62ed44 *VIDEO_TS/VTS_01_5.VOB
+
+Tranferred By Allen Deane
+Extracted by David Lajeunesse
+
+DO NOT ENCODE TO MP3 OR SELL

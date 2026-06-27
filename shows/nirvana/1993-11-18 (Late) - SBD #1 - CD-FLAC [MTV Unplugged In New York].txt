@@ -1,0 +1,54 @@
+NIRVANA
+November 18, 1993
+Sony Music Studios (MTV Unplugged)
+New York, NY
+
+DISC #1/1 (53:57)
+-----------------
+01) About A Girl
+02) Come As You Are
+03) Jesus Wants Me For A Sunbeam
+04) The Man Who Sold The World
+05) Pennyroyal Tea
+06) Dumb
+07) Polly
+08) On A Plain
+09) Something In The Way
+10) Plateau
+11) Oh Me
+12) Lake Of Fire
+13) All Apologies
+14) Where Did You Sleep Last Night
+
+SOURCE (SBD #1)
+-----------------
+Soundboard -> unknown
+
+GENERATION
+-----------------
+Official CD "MTV Unplugged In New York" -> WAV [44.1kHz] -> FLAC [Level 8]
+
+EXTRACTION
+-----------------
+Lite-On iHBS-112 -> Exact Audio Copy v1.00 beta 3 -> FLAC Frontend 1.7.1
+
+MD5 FINGERPRINTS
+-----------------
+37a47eebdde5693debc2c8d5667f1a96 *Nirvana_Late_1993-11-18_SBD1_t01.flac
+225e48ce713cf91e19273d5a083b322e *Nirvana_Late_1993-11-18_SBD1_t02.flac
+86719d8a39fbd1438b83f0992e32c890 *Nirvana_Late_1993-11-18_SBD1_t03.flac
+027132397cf11860693e0f035d92c8a6 *Nirvana_Late_1993-11-18_SBD1_t04.flac
+2cced090749875c098bed65f5a07cabf *Nirvana_Late_1993-11-18_SBD1_t05.flac
+781eebd1757394ab46b10abb13eee2ea *Nirvana_Late_1993-11-18_SBD1_t06.flac
+10d47ca139966eec28fb411c625a443f *Nirvana_Late_1993-11-18_SBD1_t07.flac
+17c2ee06db96528dfee8066a08d873aa *Nirvana_Late_1993-11-18_SBD1_t08.flac
+dd5be9990dcc61da94e2223d801a6718 *Nirvana_Late_1993-11-18_SBD1_t09.flac
+a162d6a543f6b9e356dc9a141177ea12 *Nirvana_Late_1993-11-18_SBD1_t10.flac
+c9d14dc3be982fe40a6a1d024733d86b *Nirvana_Late_1993-11-18_SBD1_t11.flac
+b9354fcc591bfe82ebb92b83c8625b14 *Nirvana_Late_1993-11-18_SBD1_t12.flac
+32085ee87fbde0e60666f8490f460e5e *Nirvana_Late_1993-11-18_SBD1_t13.flac
+b146f2bafaff86884172375c753b8170 *Nirvana_Late_1993-11-18_SBD1_t14.flac
+
+Extracted by PL.
+PLEASE DO NOT ENCODE TO MP3 OR SELL!
+NO TRADE

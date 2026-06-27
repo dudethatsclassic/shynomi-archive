@@ -1,0 +1,28 @@
+NIRVANA
+February 16, 1990
+Bogart's
+Long Beach, CA
+
+DISC #1/1 (04:28)
+-----------------
+01) Sappy
+
+SOURCE (AMT #1a)
+-----------------
+unknown > unknown
+
+GENERATION
+-----------------
+Official DVD "With The Lights Out" -> WAV [48kHz] -> WAV [44.1kHz] -> FLAC [Level 8]
+
+EXTRACTION
+-----------------
+Lite-On iHBS-112 -> DVD Decrypter 3.5.4.0 -> Adobe Audition 3.0 -> FLAC Frontend 1.7.1
+
+MD5 FINGERPRINTS
+-----------------
+5f1e5d66f6932974498ec031d191b95b *nirvana_1990-02-16_amt1b_dvd-flac_t01.flac
+
+Extracted by PL.
+PLEASE DO NOT ENCODE TO MP3 OR SELL!
+NO TRADE

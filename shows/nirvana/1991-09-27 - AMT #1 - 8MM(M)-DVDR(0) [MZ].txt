@@ -1,0 +1,51 @@
+NIRVANA
+September 27, 1991
+City Gardens
+Trenton, NJ
+
+DISC #1/1 (50:30)
+-----------------
+01) Jesus Wants Me For A Sunbeam (cut)
+02) Aneurysm
+03) D-7
+04) Drain You
+05) School
+06) Floyd The Barber
+07) Sliver
+08) Smells Like Teen Spirit
+09) Polly
+10) About A Girl
+11) Blew
+12) Been A Son
+13) Something In The Way
+14) Negative Creep
+15) Endless, Nameless
+
+GENERATION
+-----------------
+8MM(M) -> AVI [DV25] -> M2V/WAV [8Mbps CBR/48kHz PCM] -> DVDR(0)
+
+SOURCE (AMT#1)
+-----------------
+unknown -> unknown
+
+TRANSFER
+-----------------
+Sony DCR-TRV460 -> IEEE 1394 -> Adobe Premiere Pro 2.0 -> TMPGEnc Plus 2.5 -> Adobe Encore DVD 2.0
+
+MD5 FINGERPRINTS
+-----------------
+65e06bf23a22d68e3f0c77a015a8abbc *VIDEO_TS/VIDEO_TS.BUP
+65e06bf23a22d68e3f0c77a015a8abbc *VIDEO_TS/VIDEO_TS.IFO
+c27fd02800c1a22261692bae9eb61f75 *VIDEO_TS/VIDEO_TS.VOB
+2000638731c3003ed0f6c8747ecedbbf *VIDEO_TS/VTS_01_0.BUP
+2000638731c3003ed0f6c8747ecedbbf *VIDEO_TS/VTS_01_0.IFO
+8c28cb3f1532b9dadba32d2cf206dce5 *VIDEO_TS/VTS_01_0.VOB
+b8e8c4555e39d7f23a1640ce8a090659 *VIDEO_TS/VTS_01_1.VOB
+da6be871660de7cd5208551394f2aca1 *VIDEO_TS/VTS_01_2.VOB
+b7fa960c573dc68703b4f384df9a9d3a *VIDEO_TS/VTS_01_3.VOB
+767d1743ed54d963565da434ff71c273 *VIDEO_TS/VTS_01_4.VOB
+
+
+Transferred by Mike Ziegler.
+PLEASE DO NOT ENCODE TO MP3 OR SELL!

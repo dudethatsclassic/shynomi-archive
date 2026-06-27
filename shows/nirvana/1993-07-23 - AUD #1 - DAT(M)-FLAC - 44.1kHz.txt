@@ -1,0 +1,73 @@
+NIRVANA
+July 23, 1993
+Roseland Ballroom (New Music Seminar)
+New York, NY
+
+SOURCE (AUD #1):
+Olympus ME-1S > Sony TCD-D7
+
+TRANSFER:
+Tascam DA-30mkII > Echo Layla24 > Adobe Audition 2.0 > CD Wave 1.95.1 > FLAC frontend 1.7.1
+
+GENERATION:
+DAT(M) [48kHz] > WAV [48kHz] > WAV [44.1kHz] > FLAC [Level 8]
+
+LENGTH:
+95:19
+
+TRACKS (DISC 1):
+01. intro
+02. Serve The Servants
+03. Scentless Apprentice
+04. School
+05. Breed
+06. Lithium
+07. Come As You Are
+08. Milk It
+09. Drain You
+10. tourette's
+11. Aneurysm
+12. Very Ape
+13. Blew
+14. Heart-Shaped Box
+
+TRACKS (DISC 2):
+01. Rape Me
+02. Territorial Pissings
+03. All Apologies
+04. Polly
+05. Dumb
+06. Something In The Way
+07. Where Did You Sleep Last Night
+08. Smells Like Teen Spirit
+09. Endless, Nameless
+
+MD5 FINGERPRINTS:
+31edb984c4f62d99bba49939b8e0448d *Nirvana_1993-07-23_AUD1_d1t01.flac
+e0981849f0dccbaa8d34bc22f7d922ee *Nirvana_1993-07-23_AUD1_d1t02.flac
+b943bb0f32090124bfac051b112bca92 *Nirvana_1993-07-23_AUD1_d1t03.flac
+525d53c07cf7da46950eaa965e342308 *Nirvana_1993-07-23_AUD1_d1t04.flac
+6bfc5f400415eb055f5bb1c8b1d51012 *Nirvana_1993-07-23_AUD1_d1t05.flac
+9665a749fe18b9bd931e866e42678d8d *Nirvana_1993-07-23_AUD1_d1t06.flac
+3b93cde3b95bc209d0f5b5ce10e8d84a *Nirvana_1993-07-23_AUD1_d1t07.flac
+6d8a5c2a070f9046b85b02cde19495cb *Nirvana_1993-07-23_AUD1_d1t08.flac
+31c880a90d54f983fee74f19ff2dc11c *Nirvana_1993-07-23_AUD1_d1t09.flac
+f3d2bb4038740e55ed26b11518802fd2 *Nirvana_1993-07-23_AUD1_d1t10.flac
+831841be22f90622b44f6cb6494478c0 *Nirvana_1993-07-23_AUD1_d1t11.flac
+00357bd041bfb98e0dadd142aec306e5 *Nirvana_1993-07-23_AUD1_d1t12.flac
+154379df4ec30c80db9f021e97382155 *Nirvana_1993-07-23_AUD1_d1t13.flac
+11c58a46d9e52e127f4db585d452c93e *Nirvana_1993-07-23_AUD1_d1t14.flac
+5f471b6fc766d79ddf2708177bff68af *Nirvana_1993-07-23_AUD1_d2t01.flac
+5f24fc028c51c5818acc5639435167de *Nirvana_1993-07-23_AUD1_d2t02.flac
+6507694d1b3ad4698e604b8400ea5bb1 *Nirvana_1993-07-23_AUD1_d2t03.flac
+0c6bbdb8f043acb6fcbc00c9fa89baf5 *Nirvana_1993-07-23_AUD1_d2t04.flac
+88fb739121fa2af1f8d2c3fed8b11dbc *Nirvana_1993-07-23_AUD1_d2t05.flac
+3e399aa9341b281e8924dd4cb02f93d8 *Nirvana_1993-07-23_AUD1_d2t06.flac
+f76041aa0557dcd309212a1f372894ec *Nirvana_1993-07-23_AUD1_d2t07.flac
+4d34b2bf1b22a4fefb1fc675797efc87 *Nirvana_1993-07-23_AUD1_d2t08.flac
+cf2a33306ca1cc00be1af9b9118bf49f *Nirvana_1993-07-23_AUD1_d2t09.flac
+
+TRANSFERRED BY:
+Kris Sproul
+
+PLEASE DO NOT SELL OR ENCODE TO MP3

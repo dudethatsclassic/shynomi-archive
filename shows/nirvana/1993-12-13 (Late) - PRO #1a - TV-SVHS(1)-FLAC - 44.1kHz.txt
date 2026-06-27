@@ -1,0 +1,46 @@
+NIRVANA
+December 13, 1993
+Pier 48, MTV Live And Loud,
+Seattle, WA
+
+SOURCE (PRO #1a):
+Soundboard > unknown
+
+GENERATION:
+TV > SVHS(1) > WAV [48kHz] > WAV [44.1kHz] > FLAC [Level 8]
+
+LENGTH:
+38:01
+
+TRACKS:
+01. Radio Friendly Unit Shifter
+02. Drain You
+03. Breed
+04. Serve The Servants
+05. Rape Me
+06. Heart-Shaped Box
+07. Pennyroyal Tea
+08. Scentless Apprentice
+09. Lithium
+10. jam
+
+TRANSFER:
+JVC HR-S5900U > Pinnacle DC-1000 > Adobe Premiere 6.01 > Cool Edit Pro 2.0 > CD Wave 1.98 > FLAC Frontend 1.7.1
+
+NOTES:
+- Straight from Jim's hard drive !
+
+MD5 FINGERPRINTS:
+bed7e29772e35aae95c37715f7e3b10b *Nirvana_1993-12-13_late_PRO1a_t01.flac
+1820480774bc35cc63759f574848eacb *Nirvana_1993-12-13_late_PRO1a_t02.flac
+8450c42b9e259ddd2869296c62f577b3 *Nirvana_1993-12-13_late_PRO1a_t03.flac
+13aaaa0f7b1c5aee268656d58f2f7945 *Nirvana_1993-12-13_late_PRO1a_t04.flac
+7b86beac29dd3008c6ff6459e5ecc81d *Nirvana_1993-12-13_late_PRO1a_t05.flac
+6a3a325a197570999999c26f6b2ba1c0 *Nirvana_1993-12-13_late_PRO1a_t06.flac
+69fed7f2ddf502fadf538022288a0b69 *Nirvana_1993-12-13_late_PRO1a_t07.flac
+37e7815e51d76c009d5c6d4ffd7783ff *Nirvana_1993-12-13_late_PRO1a_t08.flac
+f9419ff657c353ac4d6651872a5ceba2 *Nirvana_1993-12-13_late_PRO1a_t09.flac
+8e941b188a4c0a2bc205edca10439a90 *Nirvana_1993-12-13_late_PRO1a_t10.flac
+
+TRANSFERRED BY:
+Jim Hirte

@@ -1,0 +1,33 @@
+NIRVANA
+September 23, 1993
+NBC Studios (Saturday Night Live rehearsal)
+New York, NY
+
+SOURCE (PRO #1b):
+soundboard > unknown
+
+EXTRACTION:
+NEC ND-1300A > Exact Audio Copy V0.95 prebeta 5 > Adobe Audition 1.5 > CD Wave 1.93 beta > FLAC frontend 1.7.1
+
+GENERATION:
+CD [Fighting The "N" Factor] > WAV [44.1kHz] > FLAC [Level 8]
+
+LENGTH:
+13:52
+
+TRACKS:
+01. Heart-Shaped Box
+02. Rape Me (intro)
+03. Heart-Shaped Box
+04. Rape Me
+
+MD5 FINGERPRINTS:
+685a803fbe150a1fdf35271b8953fb65 *Nirvana_1993-09-23_PRO1b_t01.flac
+3ffde01caf3e659ee84b9ba25776d288 *Nirvana_1993-09-23_PRO1b_t02.flac
+fc1511d03e3b3248605cc633cb65b5b8 *Nirvana_1993-09-23_PRO1b_t03.flac
+1fad265e581ab4094c864453a54a4a76 *Nirvana_1993-09-23_PRO1b_t04.flac
+
+EXTRACTED BY:
+Andreas Magnusson
+
+PLEASE DO NOT SELL OR ENCODE TO MP3

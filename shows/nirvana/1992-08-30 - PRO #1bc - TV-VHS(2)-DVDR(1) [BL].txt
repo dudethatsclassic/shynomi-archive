@@ -1,0 +1,41 @@
+NIRVANA
+August 30th, 1992
+Richfield Avenue (Reading Festival),
+Reading, United Kingdom
+
+SOURCES (PRO #1b, PRO #1c):
+Soundboard > Unknown
+
+GENERATION:
+TV > VHS(2) [PAL] > DVDR(1) [NTSC, 8.0Mbps CBR, LPCM)
+
+LENGTH:
+17:30 (PRO #1b: 08:16 , PRO #1c: 09:14)
+
+NOTES:
+- PAL > NTSC conversion
+
+TRACKS (PRO #1c):
+01. Smells Like Teen Spirit (cuts in)
+02. Sliver (cuts in)
+03. About A Girl
+
+TRACKS (PRO #1b):
+01. Lithium (cuts in)
+02. In Bloom (cuts out)
+03. All Apologies (cuts out)
+
+MD5 FINGERPRINTS:
+525483f47b93f6bee673f5905d6d11d6 *VIDEO_TS\VIDEO_TS.BUP
+525483f47b93f6bee673f5905d6d11d6 *VIDEO_TS\VIDEO_TS.IFO
+0631ada87cac5968ff576b0f30dc71d7 *VIDEO_TS\VIDEO_TS.VOB
+86903f403b57a40d4951382b2e36d438 *VIDEO_TS\VTS_01_0.BUP
+86903f403b57a40d4951382b2e36d438 *VIDEO_TS\VTS_01_0.IFO
+a490545c08334eccaacf216584001dde *VIDEO_TS\VTS_01_0.VOB
+d84fe3048bb9287b666351d120d1b19a *VIDEO_TS\VTS_01_1.VOB
+bc8bec17b62d0257c89344333d07e2d5 *VIDEO_TS\VTS_01_2.VOB
+
+TRANSFERRED BY:
+Barry Lajnwand
+
+**PLEASE DO NOT ENCODE TO LOSSY FORMATS OR SELL!**

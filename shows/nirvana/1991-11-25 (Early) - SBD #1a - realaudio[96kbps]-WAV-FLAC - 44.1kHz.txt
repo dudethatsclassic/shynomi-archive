@@ -1,0 +1,34 @@
+NIRVANA
+November 25, 1991
+NOB radiostudio (2 Meter Sessie)
+Hilversum, The Netherlands
+
+DISC #1/1 (20:41)
+-----------------
+01) jam
+02) Where Did You Sleep Last Night
+03) Here She Comes Now
+04) unknown song
+
+GENERATION
+-----------------
+Master -> realaudio [96kbps] -> WAV [44.1kHz] -> Flac [Level 8]
+
+SOURCE (SBD#1a)
+-----------------
+soundboard -> unknown
+
+TRANSFER
+-----------------
+unknown -> rmconv.exe -> FLAC Frontend 1.7.1
+
+MD5 FINGERPRINTS
+-----------------
+aca9b785b95d93cfdd86afe304d0db30 *01 - jam.flac
+8a309a2d42dba0b69b49036296109eb5 *02 - Where Did You Sleep Last Night.flac
+20e22fa1f3e1600a78f16c01dcdaca21 *03 - Here She Comes Now.flac
+c00f1fc68234e76dcd4f36430a141549 *04 - unknown song.flac
+
+
+Transferred by unknown.
+PLEASE DO NOT ENCODE TO MP3 OR SELL!

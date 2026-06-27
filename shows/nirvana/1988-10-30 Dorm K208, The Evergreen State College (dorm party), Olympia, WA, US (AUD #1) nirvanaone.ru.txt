@@ -1,0 +1,56 @@
+NIRVANA
+October 30, 1988
+Dorm K208, The Evergreen State College (dorm party)
+Olympia, WA
+
+SOURCE (AUD #1):
+unknown > GE
+
+TRANSFER:
+Nakamichi CR-7A > Hosa RCA cable > PreSonus FireStudio Project > Adobe Audition 3.0 > CD Wave 1.98 > Trader's Little Helper 2.6.0
+
+GENERATION:
+ANA(M) > WAV [48kHz] > WAV [44.1kHz] > FLAC [Level 8]
+
+LENGTH:
+58:58
+
+NOTES:
+- Has a dropout in "Hairspray Queen."
+
+TRACKS:
+01. intro
+02. School
+03. Love Buzz (cuts in)
+04. Floyd The Barber
+05. Spank Thru
+06. Big Cheese
+07. Hairspray Queen
+08. Mr. Moustache (cuts out)
+09. Sifting (cuts in)
+10. Mexican Seafood
+11. Aero Zeppelin
+12. Run, Rabbit, Run!
+13. Immigrant Song
+14. Blew
+
+MD5 FINGERPRINTS:
+517ef4229d1a28ff1fee6572c34ac4bf *Nirvana_1988-10-30_AUD1_t01.flac
+259235e2b293fa5d08d63acc93dce9a9 *Nirvana_1988-10-30_AUD1_t02.flac
+070d75762a16c669127620b52c1b6b6e *Nirvana_1988-10-30_AUD1_t03.flac
+d754acaee39017d582b5ef203100d422 *Nirvana_1988-10-30_AUD1_t04.flac
+eb7db83586eb02d9af2423a9145e0316 *Nirvana_1988-10-30_AUD1_t05.flac
+4e5f9d13b7b7ab0415d905b9c423457e *Nirvana_1988-10-30_AUD1_t06.flac
+17ca5e4ce1d765c9d599c1b80795df1a *Nirvana_1988-10-30_AUD1_t07.flac
+c406915f52f6af87788d77ada37c6862 *Nirvana_1988-10-30_AUD1_t08.flac
+2a733eacaea81e3cf67e7e3711c08dd4 *Nirvana_1988-10-30_AUD1_t09.flac
+40906ed411ed3522e733eab6fbefbeb8 *Nirvana_1988-10-30_AUD1_t10.flac
+0c489b9a61fbc71c4c7df6fca6218715 *Nirvana_1988-10-30_AUD1_t11.flac
+77bf5d847b1873e0ae9e9455ddd930b2 *Nirvana_1988-10-30_AUD1_t12.flac
+b72a12720699cd5dd545ca321eb2f2ec *Nirvana_1988-10-30_AUD1_t13.flac
+e2e955a46a522b6c2bfabdaad2cfcaaa *Nirvana_1988-10-30_AUD1_t14.flac
+
+TRANSFERRED BY:
+Mike Ziegler
+
+PLEASE DO NOT SELL OR ENCODE TO MP3

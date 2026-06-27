@@ -1,0 +1,60 @@
+NIRVANA
+November 19, 1991
+Teatro Castello
+Rome, Italy
+
+DISC #1/1 (53:17)
+-----------------
+01) Aneurysm
+02) School
+03) Floyd The Barber
+04) Smells Like Teen Spirit
+05) About A Girl
+06) Polly
+07) Lithium
+08) Sliver
+09) Come As You Are
+10) Breed
+11) Been A Son
+12) Negative Creep
+13) On A Plain
+14) Blew
+15) Rape Me
+16) Spank Thru
+17) Territorial Pissings
+
+GENERATION
+-----------------
+TV -> VHS(1) -> WAV [48kHz] -> WAV [44.1kHz] -> FLAC [Level 8]
+
+SOURCE (PRO#1a)
+-----------------
+soundboard -> unknown
+
+TRANSFER
+-----------------
+JVC HR-S9500 -> Hosa RCA cable -> LynxONE analog-in -> Adobe Audition 3.0 -> CD Wave 1.96.1 -> FLAC Frontend 1.7.1
+
+MD5 FINGERPRINTS
+-----------------
+5d92932e608cd0e64bad701db2a10042 *nirvana1991-11-19t01.flac
+f71d14772f920b558e518c599b487fc3 *nirvana1991-11-19t02.flac
+c6397bac792f5e82889ba649e86d069d *nirvana1991-11-19t03.flac
+fa08ce5c2a9f7f72e1681bff54e46d73 *nirvana1991-11-19t04.flac
+912f4c8369f80a41657adfc0aed4a112 *nirvana1991-11-19t05.flac
+2a4ce344c558b8a29091bc01c98f5a4d *nirvana1991-11-19t06.flac
+f3ce299a27789fce83d4ffa547880acf *nirvana1991-11-19t07.flac
+43745cc06e508ce740721dc4172f902c *nirvana1991-11-19t08.flac
+83499c079a259e9bb7466c0070e3e5c2 *nirvana1991-11-19t09.flac
+12fc3b09dfdf152acd4c2933ccfb95dd *nirvana1991-11-19t10.flac
+0f0f25755191816708465946d5053c85 *nirvana1991-11-19t11.flac
+a3f720359b1a078a0ae9f719c838e6dd *nirvana1991-11-19t12.flac
+b099592c54cdf0033eb12546b69e25f2 *nirvana1991-11-19t13.flac
+fd10d12f84f9546958abb849edb64f94 *nirvana1991-11-19t14.flac
+b3089fb496414d2099c2e7206604ed71 *nirvana1991-11-19t15.flac
+6baa74e4b8ca03eec4f926225d1e49b2 *nirvana1991-11-19t16.flac
+29cf6453934ce5db7ef6ce38b8ce41c4 *nirvana1991-11-19t17.flac
+
+
+Transferred by Mike Ziegler.
+PLEASE DO NOT ENCODE TO MP3 OR SELL!

@@ -1,0 +1,32 @@
+Nirvana
+February 23, 1994
+RAI Centro di Produzione TV Studi Nomentano (Tunnel)
+Rome, Italy
+
+SOURCE (PRO #1b):
+Soundboard > Unknown
+
+EXTRACTION:
+Lite-On iHBS-112 > DVD Decrypter 3.5.4.0 > MakeMKV Beta 1.8.5 > MKVToolNix 6.4.1
+
+GENERATION:
+Official DVD 'Live And Loud' [NTSC] > MKV
+
+LENGTH:
+03:21
+
+NOTES:
+- No re-encoding
+- MKV aspect ratio flags have been modified
+
+TRACKS:
+01. Serve The Servants
+
+MD5 FINGERPRINTS:
+42bcf5aa3c367e7ed62f2ae789431bc0 *Nirvana_1994-02-23_PRO1b_DVD.mkv
+
+EXTRACTED BY:
+P.L.
+
+**DO NOT TRADE**
+**PLEASE DO NOT ENCODE TO LOSSY FORMATS OR SELL!**

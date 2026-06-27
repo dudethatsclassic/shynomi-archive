@@ -1,0 +1,72 @@
+NIRVANA
+June 26, 1992
+Dyrskuepladsen (Roskilde Festival)
+Roskilde, Denmark
+
+SOURCE (AMT #1):
+unknown > unknown
+
+TRANSFER:
+JVC HR-S9911U > Echo Layla24 > Adobe Audition 2.0 > CD Wave 1.94.8 > FLAC frontend 1.7.1
+
+GENERATION:
+VHS(1) > WAV [48kHz] > WAV [44.1kHz] > FLAC [Level 8]
+
+LENGTH:
+74:00
+
+NOTES:
+- Has a dropout in "Aneurysm."
+
+TRACKS:
+01. intro
+02. Aneurysm
+03. Drain You
+04. Stay Away
+05. Sliver
+06. School
+07. In Bloom
+08. Breed
+09. About A Girl
+10. Scoff
+11. Polly
+12. Lithium
+13. Blew
+14. Been A Son
+15. On A Plain
+16. Swap Meet
+17. Negative Creep
+18. Something In The Way
+19. Come As You Are
+20. Love Buzz
+21. Smells Like Teen Spirit
+22. Territorial Pissings
+
+MD5 FINGERPRINTS:
+8d774b08a844f9a74db808617da6e441 *Nirvana_1992-06-26_AMT1_t01.flac
+ca919df52cdc4fb923e2c8f2e303749f *Nirvana_1992-06-26_AMT1_t02.flac
+b19476c0f929872bc8840db64db2989b *Nirvana_1992-06-26_AMT1_t03.flac
+ba5a334ba5c54205d925c1b35d49f9c3 *Nirvana_1992-06-26_AMT1_t04.flac
+2d886ff206bae91c9f974ee4f35773f9 *Nirvana_1992-06-26_AMT1_t05.flac
+4832fc8c42808fa4984ca359a20022ff *Nirvana_1992-06-26_AMT1_t06.flac
+7d4cda7f9348bebdad75ef065c31f315 *Nirvana_1992-06-26_AMT1_t07.flac
+7615dea2f35e3628940b73b824a3998e *Nirvana_1992-06-26_AMT1_t08.flac
+7be1e2ad45b71efe306db64a2f3cca78 *Nirvana_1992-06-26_AMT1_t09.flac
+a066a512fa5b361b6af2277e4edf88ab *Nirvana_1992-06-26_AMT1_t10.flac
+cd681f5dfe7a50af4fc00e079d6861ad *Nirvana_1992-06-26_AMT1_t11.flac
+f1696bc25a5d64651222501e9237b1d9 *Nirvana_1992-06-26_AMT1_t12.flac
+557b94db25cc39e5210d03538a563df6 *Nirvana_1992-06-26_AMT1_t13.flac
+d9a002dfd78fd8444a83cc7702bad83d *Nirvana_1992-06-26_AMT1_t14.flac
+722c9c00012356956a952019b2ab32f9 *Nirvana_1992-06-26_AMT1_t15.flac
+2d252c989e6c9fccbc82f2468839e32d *Nirvana_1992-06-26_AMT1_t16.flac
+29cee5d3fa26378fcfdbf55f849ac8d2 *Nirvana_1992-06-26_AMT1_t17.flac
+d77d5154b973c5bd6fe4715b8b077a63 *Nirvana_1992-06-26_AMT1_t18.flac
+651c8c2d03e05c1bac7561eb86502cf6 *Nirvana_1992-06-26_AMT1_t19.flac
+6d84539b86e5eab3b48565ba8cd3acf2 *Nirvana_1992-06-26_AMT1_t20.flac
+9da14464df3145e3f1f15abeea93a922 *Nirvana_1992-06-26_AMT1_t21.flac
+f007a5419e65e1572220d19abba6c854 *Nirvana_1992-06-26_AMT1_t22.flac
+
+TRANSFERRED BY:
+Kris Sproul
+
+PLEASE DO NOT SELL OR ENCODE TO MP3

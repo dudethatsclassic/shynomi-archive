@@ -1,0 +1,51 @@
+NIRVANA
+September 30, 1989
+Cabaret Metro
+Chicago, IL, USA
+
+SOURCE: (AMT#1):
+internal > unknown
+
+TRANSFER:
+Panasonic AG1980 > Datavideo TBC7000 > ATI TV Wonder 600 USB > VirtualDub > Adobe Audition > CD Wave Editor
+
+GENERATION:
+VHS(M) > AVI [UTVideo/48khz/16-Bit/PCM] > FLAC
+
+DURATION:
+30:47
+
+SETLIST:
+01. Intro
+02. School
+03. Scoff
+04. Love Buzz
+05. Floyd The Barber
+06. Dive
+07. Polly
+08. Big Cheese
+09. Spank Thru
+10. About A Girl
+
+CHECKSUM:
+604e3939f8015b0080f5bbc2698cbb7f *Nirvana 1989-09-30 AMT1 t01 Intro.flac
+2eef49360c52b24ac1cdc8b06d0bced1 *Nirvana 1989-09-30 AMT1 t02 School.flac
+942c069242cb0d9f34d1ba6f26ad85df *Nirvana 1989-09-30 AMT1 t03 Scoff.flac
+15b5c258d7fff9358a0173b3b3a16440 *Nirvana 1989-09-30 AMT1 t04 Love Buzz.flac
+7a229347fb28cb81c7723fc011ea90ad *Nirvana 1989-09-30 AMT1 t05 Floyd The Barber.flac
+b02682ea4371786838867a93bca87ea0 *Nirvana 1989-09-30 AMT1 t06 Dive.flac
+46b2c1c09f993bf86be19e9d0292ce35 *Nirvana 1989-09-30 AMT1 t07 Polly.flac
+a4fddc378170ac0f24a604a9a8910f21 *Nirvana 1989-09-30 AMT1 t08 Big Cheese.flac
+24eb1ff262e8274947706cb2d79ae81e *Nirvana 1989-09-30 AMT1 t09 Spank Thru.flac
+648e883680163d7cb980489e045a061b *Nirvana 1989-09-30 AMT1 t10 About A Girl.flac
+
+RECORDED BY:
+Aadam Jacobs
+
+TRANSFER:
+Nicholas Serra
+
+DISTRIBUTION:
+Nicholas Serra and Members of LiveNIRVANA.com
+
+2025-07-04

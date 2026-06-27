@@ -1,0 +1,73 @@
+NIRVANA
+November 7, 1993
+William and Mary Hall, The College of William & Mary
+Williamsburg, VA
+
+SOURCE (AUD #2):
+Sonic Studios DSM-6 > Sony TC-D5M
+
+TRANSFER:
+Nakamichi CR-7A > Sound Devices USBPre 2 > Audacity 2.0 > Adobe Audition 3.0 > Trader's Little Helper 2.7.0
+
+GENERATION:
+ANA(M) > WAV [96kHz/24bit] > WAV [44.1kHz] > FLAC [Level 8]
+
+LENGTH:
+94:26
+
+TRACKS (DISC 1):
+01. Radio Friendly Unit Shifter
+02. Drain You
+03. Breed
+04. Serve The Servants
+05. About A Girl
+06. Heart-Shaped Box
+07. Sliver
+08. Dumb
+09. In Bloom
+10. Come As You Are
+11. Lithium
+12. Pennyroyal Tea
+13. School
+
+TRACKS (DISC 2):
+01. Polly
+02. Milk It
+03. Rape Me
+04. Territorial Pissings
+05. All Apologies
+06. On A Plain
+07. Scentless Apprentice
+08. Blew
+09. unknown
+10. Endless, Nameless
+
+MD5 FINGERPRINTS:
+282694ccc1a6a207bda112d726805731 *Nirvana_1993-11-07_AUD2_d1t01.flac
+916f68a708dbd516cf231a5dd39ca354 *Nirvana_1993-11-07_AUD2_d1t02.flac
+d7561ddd6884b9e281d9316973c3ff86 *Nirvana_1993-11-07_AUD2_d1t03.flac
+8385251fff98bdd924b4170aa7f18751 *Nirvana_1993-11-07_AUD2_d1t04.flac
+979581b5979b8e7a7547357146838e77 *Nirvana_1993-11-07_AUD2_d1t05.flac
+08776cb441b27a153f122255ba8be724 *Nirvana_1993-11-07_AUD2_d1t06.flac
+df2b25f722b5bc4db9c921550b89d3ba *Nirvana_1993-11-07_AUD2_d1t07.flac
+cd4aa9422cb5d3e93fe53363584ebbea *Nirvana_1993-11-07_AUD2_d1t08.flac
+1713275385a6a1ea92f7ec77339ef1fb *Nirvana_1993-11-07_AUD2_d1t09.flac
+f1e4ca22fae89a885c3383572891549c *Nirvana_1993-11-07_AUD2_d1t10.flac
+c0fc30031482be58de9f71ebcb945d9e *Nirvana_1993-11-07_AUD2_d1t11.flac
+faeb5a19c102a1050c6b0c8194fff419 *Nirvana_1993-11-07_AUD2_d1t12.flac
+bc6069adef29d286833bcb1832422feb *Nirvana_1993-11-07_AUD2_d1t13.flac
+6c265fad9a31bf1f62ec464a37bd0b8b *Nirvana_1993-11-07_AUD2_d2t01.flac
+bce1259a6cec89bc11ab43c96390766b *Nirvana_1993-11-07_AUD2_d2t02.flac
+c65342908defa2c2e6d4b22798e9de27 *Nirvana_1993-11-07_AUD2_d2t03.flac
+e86f11459b84c9bdf9b34dc615489f5e *Nirvana_1993-11-07_AUD2_d2t04.flac
+1be3e5ab2770e4e8becbf6bded710f4a *Nirvana_1993-11-07_AUD2_d2t05.flac
+e99ed3cb7b4834a9632ec4cf0e19cc0b *Nirvana_1993-11-07_AUD2_d2t06.flac
+639a8da945d7058b950dc2a42dbfca33 *Nirvana_1993-11-07_AUD2_d2t07.flac
+e411f817d7871b7c59e086c79d7bf421 *Nirvana_1993-11-07_AUD2_d2t08.flac
+4261577e93eaf454fb95eb83fbb9975b *Nirvana_1993-11-07_AUD2_d2t09.flac
+ad0e538d5bbb632a9438823432700ed3 *Nirvana_1993-11-07_AUD2_d2t10.flac
+
+TRANSFERRED BY:
+JEMS
+
+PLEASE DO NOT SELL OR ENCODE TO MP3

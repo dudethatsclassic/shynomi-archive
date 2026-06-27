@@ -1,0 +1,55 @@
+NIRVANA
+November 5, 1991
+Astoria Theatre
+London, United Kingdom
+
+DISC #1/1 (42:40)
+-----------------
+01) intro
+02) Jesus Wants Me For A Sunbeam
+03) Aneurysm
+04) Drain You
+05) School
+06) Floyd The Barber
+07) Smells Like Teen Spirit
+08) About A Girl
+09) Polly
+10) Breed
+11) Sliver
+12) Lithium
+13) Love Buzz
+
+GENERATION
+-----------------
+Unofficial CD ["Firework Night"] -> WAV [44.1kHz] -> FLAC [Level 8]
+
+SOURCE (AUD #1)
+-----------------
+unknown -> unknown
+
+EXTRACTION
+-----------------
+Lite-On iHBS-112 -> Exact Audio Copy v1.00 beta 3 -> Adobe Audition 3.0 -> CD Wave 1.98 -> FLAC Frontend 1.7.1
+
+NOTES
+-----------------
+- Normalized and retracked
+
+MD5 FINGERPRINTS
+-----------------
+126a6c2ad75cedad72c747f9ccb6ab8f *Nirvana_1991-11-05_AUD1_CD_t01.flac
+592c1270232590d9b6c19e6c4ef325ea *Nirvana_1991-11-05_AUD1_CD_t02.flac
+02712e67c4ab58e88307fce28d9baaa9 *Nirvana_1991-11-05_AUD1_CD_t03.flac
+3192d857ff12c4621d65cdb329c2f6e4 *Nirvana_1991-11-05_AUD1_CD_t04.flac
+72fa06004db291cb6c48b1132fab02e3 *Nirvana_1991-11-05_AUD1_CD_t05.flac
+0fda7011d3b0718eff4553e5a630ad46 *Nirvana_1991-11-05_AUD1_CD_t06.flac
+dc33fbbf40c2e960d1a5a685804ade6b *Nirvana_1991-11-05_AUD1_CD_t07.flac
+73265f5e69ce1dcb16ec6615e60b8575 *Nirvana_1991-11-05_AUD1_CD_t08.flac
+010f088ef836c3ca2532a96c3f6b0e88 *Nirvana_1991-11-05_AUD1_CD_t09.flac
+78bb282d1bab2e23438f8c16927daf8c *Nirvana_1991-11-05_AUD1_CD_t10.flac
+bebc5488533216638ce899b06ef4fdb6 *Nirvana_1991-11-05_AUD1_CD_t11.flac
+a9c9abc6024a0427e85a9fecf0ba37f7 *Nirvana_1991-11-05_AUD1_CD_t12.flac
+4043cd6243ef1733f3b5fbe8b0c538b0 *Nirvana_1991-11-05_AUD1_CD_t13.flac
+
+Extracted by Pierre Leroy.
+PLEASE DO NOT ENCODE TO MP3 OR SELL!

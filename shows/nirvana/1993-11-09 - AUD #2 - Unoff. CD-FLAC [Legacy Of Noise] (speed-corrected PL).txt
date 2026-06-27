@@ -1,0 +1,70 @@
+NIRVANA
+November 9th, 1993
+Stabler Arena, Lehigh University
+Bethlehem, PA
+
+SOURCE (AUD #2):
+Unknown > Unknown
+
+EXTRACTION:
+PHILIPS DVDR1660P1 > Exact Audio Copy V1.0 beta 3 > Adobe Audition 3.0 > FLAC Frontend 1.7.1
+
+GENERATION:
+Unoff. CD [Legacy Of Noise] > WAV [44.1kHz] > FLAC [Level 8]
+
+LENGTH:
+76:33
+
+NOTES:
+- Speed-corrected by PL (August 2014)
+
+TRACKS:
+01. Radio Friendly Unit Shifter
+02. Drain You
+03. Breed
+04. Serve The Servants
+05. About A Girl
+06. Heart-Shaped Box
+07. Sliver
+08. Dumb
+09. Come As You Are
+10. Lithium
+11. Pennyroyal Tea
+12. School
+13. Polly
+14. Milk It
+15. Rape Me
+16. Territorial Pissings
+17. Smells Like Teen Spirit
+18. All Apologies
+19. Jesus Wants Me For A Sunbeam
+20. In Bloom
+21. On A Plain
+
+MD5 FINGERPRINTS:
+0b25999c47be63b0b2ebcc329aed0eda *Nirvana_1993-11-09_AUD2_CD_t01.flac
+4bdecec8c36ced597d40ba90de63d011 *Nirvana_1993-11-09_AUD2_CD_t02.flac
+8da5ac404113511655ebd8b58fd8949e *Nirvana_1993-11-09_AUD2_CD_t03.flac
+9a4bf939291c8d260735c26257c0deb6 *Nirvana_1993-11-09_AUD2_CD_t04.flac
+50ace84a97a243042a50214ba6e92ced *Nirvana_1993-11-09_AUD2_CD_t05.flac
+79f8b8ffd3a3026bc713dc0c5d5f16e9 *Nirvana_1993-11-09_AUD2_CD_t06.flac
+559661b034a3ac0fe86a449a058932eb *Nirvana_1993-11-09_AUD2_CD_t07.flac
+ba317a969a46aaab15fdc4c9133b55e6 *Nirvana_1993-11-09_AUD2_CD_t08.flac
+b912d4f492ac023f16219e6018a948d2 *Nirvana_1993-11-09_AUD2_CD_t09.flac
+d2974024aa19864e051032e900f230eb *Nirvana_1993-11-09_AUD2_CD_t10.flac
+01c798c26e71a10092f29842d4a523cb *Nirvana_1993-11-09_AUD2_CD_t11.flac
+0b7dbf6866b29a7ff212e4ffe08960da *Nirvana_1993-11-09_AUD2_CD_t12.flac
+be62fdcdd37c911b877b2ce9827f3672 *Nirvana_1993-11-09_AUD2_CD_t13.flac
+116cfedf66d7db227bc9e3a203eb14de *Nirvana_1993-11-09_AUD2_CD_t14.flac
+7037bb54bd575d5d7b06a0f740c62704 *Nirvana_1993-11-09_AUD2_CD_t15.flac
+5c6de33858d8460fc7ff71f05567226d *Nirvana_1993-11-09_AUD2_CD_t16.flac
+f36eefb1e33d5f78ec19c88a34c6db11 *Nirvana_1993-11-09_AUD2_CD_t17.flac
+aacfb37b518a72514698b21566d4843a *Nirvana_1993-11-09_AUD2_CD_t18.flac
+8f3fb97eadb214312e1407e95f0ece48 *Nirvana_1993-11-09_AUD2_CD_t19.flac
+44782e35074b73e56886b538d5139182 *Nirvana_1993-11-09_AUD2_CD_t20.flac
+6b194327e7b697ea36884d19941a17c2 *Nirvana_1993-11-09_AUD2_CD_t21.flac
+
+EXTRACTED BY:
+Yann Baumier
+
+**PLEASE DO NOT ENCODE TO LOSSY FORMATS OR SELL!**

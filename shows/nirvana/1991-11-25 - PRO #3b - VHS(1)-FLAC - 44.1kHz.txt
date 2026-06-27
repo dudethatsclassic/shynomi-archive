@@ -1,0 +1,61 @@
+NIRVANA
+November 25, 1991
+Paradiso
+Amsterdam, The Netherlands
+
+SOURCE (PRO #3b):
+soundboard > unknown
+
+TRANSFER:
+JVC HR-S9911U > Canopus ADVC-300 > IEEE 1394 > Adobe Premiere Pro CS5 > Adobe Audition 3.0 > CD Wave 1.98 > Trader's Little Helper 2.6.0
+
+GENERATION:
+VHS(1) > AVI [PCM] > WAV [48kHz] > WAV [44.1kHz] > FLAC [Level 8]
+
+LENGTH:
+61:28
+
+TRACKS:
+01. intro
+02. Drain You
+03. Aneurysm
+04. School
+05. Floyd The Barber
+06. Smells Like Teen Spirit
+07. About A Girl
+08. Polly
+09. Lithium
+10. Sliver
+11. Breed
+12. Come As You Are
+13. Been A Son
+14. Negative Creep
+15. On A Plain
+16. Blew
+17. Love Buzz
+18. Territorial Pissings
+
+MD5 FINGERPRINTS:
+506b230ede3940a7c81e28e13b565a00 *Nirvana_1991-11-25_late_PRO3b_t01.flac
+625948e01a990dd86590645959dce94a *Nirvana_1991-11-25_late_PRO3b_t02.flac
+57ebb20fbec03d8a088751afdf24267c *Nirvana_1991-11-25_late_PRO3b_t03.flac
+6e3bd71b2cfdb58fd6320da9e93958a0 *Nirvana_1991-11-25_late_PRO3b_t04.flac
+e3416ec52baa6fe584cf8b004b005b07 *Nirvana_1991-11-25_late_PRO3b_t05.flac
+536580947e4df478664ec3da26558f07 *Nirvana_1991-11-25_late_PRO3b_t06.flac
+f9feae497c335d39481e5f0f74a00249 *Nirvana_1991-11-25_late_PRO3b_t07.flac
+685477dacebc04ec80f224da91879817 *Nirvana_1991-11-25_late_PRO3b_t08.flac
+d20571558b3e3998cd4b9a78b0bd883d *Nirvana_1991-11-25_late_PRO3b_t09.flac
+f8d9a126fba2e91ef82c4c76ab20912d *Nirvana_1991-11-25_late_PRO3b_t10.flac
+e54604c3eb69e372da5f717a81d9d250 *Nirvana_1991-11-25_late_PRO3b_t11.flac
+8b94ae8406dd5a6039c29964d37e18af *Nirvana_1991-11-25_late_PRO3b_t12.flac
+502ac8cc144d39e05e3d07b8fae7c376 *Nirvana_1991-11-25_late_PRO3b_t13.flac
+cd26c91e10195deae4598268d2efb539 *Nirvana_1991-11-25_late_PRO3b_t14.flac
+db235c9c3284652c1114143026b61db7 *Nirvana_1991-11-25_late_PRO3b_t15.flac
+b14208a2fcc23b48a0430a3de3972790 *Nirvana_1991-11-25_late_PRO3b_t16.flac
+b277c649095915609c0ae4b6291f2092 *Nirvana_1991-11-25_late_PRO3b_t17.flac
+7ac2da86f3993381a0fc65d16fba6645 *Nirvana_1991-11-25_late_PRO3b_t18.flac
+
+TRANSFERRED BY:
+Mike Ziegler
+
+PLEASE DO NOT SELL OR ENCODE TO MP3

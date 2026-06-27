@@ -1,0 +1,62 @@
+NIRVANA
+October 25, 1991
+The Palace (Rock for Choice Benefit)
+Hollywood, CA
+
+DISC #1/1 (64:01)
+-----------------
+01) Jesus Wants Me For A Sunbeam
+02) Aneurysm
+03) Drain You
+04) School
+05) Floyd The Barber
+06) Smells Like Teen Spirit
+07) About A Girl
+08) Polly
+09) Breed
+10) Sliver
+11) Love Buzz (cut)
+12) Lithium
+13) Been A Son
+14) On A Plain (cut)
+15) Negative Creep
+16) Blew
+17) Rape Me
+18) Territorial Pissings
+
+GENERATION
+-----------------
+ANA(M) -> DAT(2) -> WAV [48kHz] -> WAV [44.1kHz] -> FLAC [Level 8]
+
+SOURCE (AUD#1)
+-----------------
+unknown -> unknown
+
+TRANSFER
+-----------------
+Tascam DA-20 MKII -> Apogee S/PDIF cable -> LynxONE digital-in -> Adobe Audition 2.0 -> CD Wave 1.95.1 -> FLAC Frontend 1.7.1
+
+MD5 FINGERPRINTS
+-----------------
+267d5399f7838502fc82647a9ee138bd *nirvana1991-10-25t01.flac
+9ad1dca147f09c1076a07ce43e7a5b04 *nirvana1991-10-25t02.flac
+0123f7070546077402b8b9adf57af7ef *nirvana1991-10-25t03.flac
+dac0056995d1fddea2ddade226dee714 *nirvana1991-10-25t04.flac
+6f5eec5a80ae3b07f5c5f49261281ec3 *nirvana1991-10-25t05.flac
+48c7222c0eeaefeea2dbdf294a96dca8 *nirvana1991-10-25t06.flac
+545be3300f744c03f18a84b70c9d7619 *nirvana1991-10-25t07.flac
+14546cb89ce624af5f33eb4a91ffdbf7 *nirvana1991-10-25t08.flac
+93581075da005fcd92207d9b4a9477eb *nirvana1991-10-25t09.flac
+0dea9cc1c9fd85d29c2d53d026e91485 *nirvana1991-10-25t10.flac
+7e4f3dde97fb9751077b3677e269a0b3 *nirvana1991-10-25t11.flac
+5b945178769820b1e7918cba11ecfa2a *nirvana1991-10-25t12.flac
+bc9733cd508577ab42563f84a4525acc *nirvana1991-10-25t13.flac
+04b38066e84c55f6aebddee453173fe2 *nirvana1991-10-25t14.flac
+c9e169dbe3187b38344b9c2e19f342fa *nirvana1991-10-25t15.flac
+0e0b9c9ac5533763b05ceafe52ca8e46 *nirvana1991-10-25t16.flac
+860b86a73a636ba5b1bee9a0a536fa2d *nirvana1991-10-25t17.flac
+369c7a6eb89bf65709f0f8ec9234c614 *nirvana1991-10-25t18.flac
+
+
+Transferred by Mike Ziegler.
+PLEASE DO NOT ENCODE TO MP3 OR SELL!

@@ -1,0 +1,48 @@
+NIRVANA
+December 7, 1991
+Salle Omnisports (Trans Musicales)
+Rennes, France
+
+SETLIST (7:16)
+-----------------
+Jesus Wants Me For A Sunbeam / Smells Like Teen Spirit (cuts in)
+
+GENERATION
+-----------------
+TV -> VHS(1) -> DVDR(1) [PAL/9Mbps CBR/384kbps AC3] -> reauthor
+-> DVDR(2) when burnt
+
+SOURCE (PRO#1)
+-----------------
+soundboard -> unknown
+
+RECORDING
+-----------------
+Sattelite TV -> Toshiba 659F
+
+TRANSFER
+-----------------
+LG DVX7900 -> Philips DVDR3510V
+
+EXTRACTION + REAUTHOR
+-----------------
+LG DVDRAM GSA-H10A -> DVD Decrypter 3.5.4.0 -> Cuttermaran 1.69a -> DVD-lab PRO 2.30
+
+NOTES
+-----------------
+- Shot by the French TV station "TV Rennes".
+- Broadcast on the French TV channel "FR3" in 1992.
+
+MD5 FINGERPRINTS
+-----------------
+a69b7576dea2af7040e7eb60721d163a *VIDEO_TS\VIDEO_TS.BUP
+a69b7576dea2af7040e7eb60721d163a *VIDEO_TS\VIDEO_TS.IFO
+774703b2abe6f493cce1fe86ab9555c3 *VIDEO_TS\VIDEO_TS.VOB
+027daafd980d3caae547ca0ff3106dba *VIDEO_TS\VTS_01_0.BUP
+027daafd980d3caae547ca0ff3106dba *VIDEO_TS\VTS_01_0.IFO
+ad9291767e78dd22619728190ce5b34e *VIDEO_TS\VTS_01_0.VOB
+e7047422947139c259491d3ac6bd2a0e *VIDEO_TS\VTS_01_1.VOB
+
+
+Extracted and reauthored by David W.
+PLEASE DO NOT ENCODE TO MP3 OR SELL!

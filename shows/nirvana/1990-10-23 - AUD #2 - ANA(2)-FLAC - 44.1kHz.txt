@@ -1,0 +1,60 @@
+NIRVANA
+October 23, 1990
+Goldwyn's Suite
+Birmingham, United Kingdom
+
+DISC #1/1 (55:55)
+-----------------
+01) intro
+02) Blew
+03) Been A Son
+04) Negative Creep
+05) Stain
+06) Stay Away
+07) Spank Thru
+08) Breed
+09) About A Girl
+10) Love Buzz
+11) Dive
+12) Floyd The Barber
+13) Scoff
+14) School
+15) Son Of A Gun
+16) Molly's Lips
+17) D-7
+
+GENERATION
+-----------------
+ANA(2) -> WAV [48kHz] -> WAV [44.1kHz] -> FLAC [Level 8]
+
+SOURCE (AUD#2)
+-----------------
+unknown -> unknown
+
+TRANSFER
+-----------------
+Nakamichi DR-8 -> Hosa RCA cable -> LynxONE analog-in -> Adobe Audition 1.5 -> CD Wave 1.94.5 -> FLAC Frontend 1.7.1
+
+MD5 FINGERPRINTS
+-----------------
+7d40e3c2361819fbf838f7ec7134a2bc *nirvana1990-10-23t01.flac
+55711bcb3d44b2317ab096bccb2fe861 *nirvana1990-10-23t02.flac
+a1a5519f6638139fb55a4a9bdf2fb386 *nirvana1990-10-23t03.flac
+db42c894d78bb1fbb8af75a32e79b8fc *nirvana1990-10-23t04.flac
+f72ad0816c7dfede7b627e661b90b1d7 *nirvana1990-10-23t05.flac
+e4d4e3d36f3c9f882d736892edf49a42 *nirvana1990-10-23t06.flac
+fa03c7dfff102ea389e2e49c15618b39 *nirvana1990-10-23t07.flac
+6809a5418877f83fb20a8a5bef9848f7 *nirvana1990-10-23t08.flac
+1be812a3be6a30f1a7b4c08aa5bfc3b2 *nirvana1990-10-23t09.flac
+e5f33eb7416682d4c64bac4841a4300d *nirvana1990-10-23t10.flac
+2b2c2f1bb5360d270cce481555fe8bc0 *nirvana1990-10-23t11.flac
+ed791f50c415e615e3d035565e3ce4b1 *nirvana1990-10-23t12.flac
+29027c7d2c1f717320d70b03a7803054 *nirvana1990-10-23t13.flac
+9965514274f96dcecd02346cb0721df9 *nirvana1990-10-23t14.flac
+c83d88eb34021b1d91cd6acca99a0d1c *nirvana1990-10-23t15.flac
+e1c16803f280e6658024cc98d09ee47a *nirvana1990-10-23t16.flac
+e180218569a89472598a4aa2a0703d86 *nirvana1990-10-23t17.flac
+
+
+Transferred by Mike Ziegler.
+PLEASE DO NOT ENCODE TO MP3 OR SELL!

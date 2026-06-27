@@ -1,0 +1,54 @@
+NIRVANA
+December 13, 1993
+Pier 48 (MTV Live And Loud rehearsal)
+Seattle, WA
+
+SOURCE (PRO #1):
+unknown > unknown
+
+TRANSFER:
+JVC HR-S9911U > Echo Layla24 > Adobe Audition 1.5 > CD Wave 1.94.8 > FLAC frontend 1.7.1
+
+GENERATION:
+VHS(2) > WAV [48kHz] > WAV [44.1kHz] > FLAC [Level 8]
+
+LENGTH:
+33:57
+
+TRACKS:
+01. intro
+02. jam (cuts in, cuts out)
+03. Very Ape (cuts in)
+04. Radio Friendly Unit Shifter (cut)
+05. Drain You (cut)
+06. Breed (cuts in)
+07. Serve The Servants (cut)
+08. Rape Me
+09. Sliver (part of)
+10. Sliver (part of)
+11. Sliver (part of)
+12. Sliver
+13. Pennyroyal Tea
+
+NOTES:
+- Was initially circulated as AMT #1
+
+MD5 FINGERPRINTS:
+bff7eb6654e7cfc53642e84df43db5e6 *Nirvana_1993-12-13_early_PRO1_t01.flac
+36fb42fde9ee6a8849873d8d9d489db1 *Nirvana_1993-12-13_early_PRO1_t02.flac
+aa88811212c4dc41ac75de9f122038f4 *Nirvana_1993-12-13_early_PRO1_t03.flac
+4956033508717a96cdbaab2e8c1d2309 *Nirvana_1993-12-13_early_PRO1_t04.flac
+bf099f09a39d844c6cda62b9b22c71bf *Nirvana_1993-12-13_early_PRO1_t05.flac
+d5c5aaf4f31bc7afc67141c9642b4b8f *Nirvana_1993-12-13_early_PRO1_t06.flac
+5ae885030985a73c08158ee63a9087a7 *Nirvana_1993-12-13_early_PRO1_t07.flac
+b745492382b8603a9e11560ab5eb169e *Nirvana_1993-12-13_early_PRO1_t08.flac
+383421faa04d97363da88d4a92e8bc0f *Nirvana_1993-12-13_early_PRO1_t09.flac
+879178449cd9b43e8a7ff22aa9067d76 *Nirvana_1993-12-13_early_PRO1_t10.flac
+d9d5f06238cbb651b61e82ea205b5a77 *Nirvana_1993-12-13_early_PRO1_t11.flac
+ce29507a6ae49d97a2c201618da713a2 *Nirvana_1993-12-13_early_PRO1_t12.flac
+43f0c0c2281a7cbe354b53b4d517f92a *Nirvana_1993-12-13_early_PRO1_t13.flac
+
+TRANSFERRED BY:
+Kris Sproul
+
+PLEASE DO NOT SELL OR ENCODE TO MP3

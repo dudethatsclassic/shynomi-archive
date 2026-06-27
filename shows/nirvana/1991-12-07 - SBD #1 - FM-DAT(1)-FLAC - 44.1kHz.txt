@@ -1,0 +1,43 @@
+NIRVANA
+December 7, 1991
+Salle Omnisports (Trans Musicales)
+Rennes, France
+
+SOURCE (SBD #1):
+soundboard > unknown
+
+TRANSFER:
+Tascam DA-20mkII > Apogee S/PDIF cable > PreSonus FireStudio Project > Adobe Audition 3.0 > CD Wave 1.98 > Trader's Little Helper 2.7.0
+
+GENERATION:
+FM > DAT(1) [32kHz] > WAV [32kHz] > WAV [44.1kHz] > FLAC [Level 8]
+
+LENGTH:
+32:34
+
+TRACKS:
+01. Baba O'Riley
+02. Drain You
+03. School
+04. Smells Like Teen Spirit
+05. About A Girl
+06. Polly
+07. Breed
+08. On A Plain
+09. Blew
+
+MD5 FINGERPRINTS:
+dbadc872cc4149b62b4560f4461a3d50 *Nirvana_1991-12-07_SBD1_t01.flac
+d88a350bd46875574d93b6fc67571f5e *Nirvana_1991-12-07_SBD1_t02.flac
+4e1231a2d7a4044b980ef0f86d7c4a11 *Nirvana_1991-12-07_SBD1_t03.flac
+b92990c4c9300fc2da9c595b0576ad93 *Nirvana_1991-12-07_SBD1_t04.flac
+24dff82cc6cb09389b91bf10261a1903 *Nirvana_1991-12-07_SBD1_t05.flac
+ad93f0beb5e555f630a79bfdd31eb7e7 *Nirvana_1991-12-07_SBD1_t06.flac
+82a136cafdd4595e3719eff9b74e4da4 *Nirvana_1991-12-07_SBD1_t07.flac
+cb3565c79b834987bc1034b801e8e842 *Nirvana_1991-12-07_SBD1_t08.flac
+b531c4ffc0ab4126893bbb32a262bf6e *Nirvana_1991-12-07_SBD1_t09.flac
+
+TRANSFERRED BY:
+Mike Ziegler
+
+PLEASE DO NOT SELL OR ENCODE TO MP3

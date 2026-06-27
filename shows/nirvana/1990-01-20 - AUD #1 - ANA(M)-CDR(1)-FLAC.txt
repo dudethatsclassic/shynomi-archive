@@ -1,0 +1,68 @@
+NIRVANA
+January 20, 1990
+Legends
+Tacoma, WA
+
+DISC #1/1 (54:55)
+-----------------
+01) intro
+02) School
+03) Floyd The Barber
+04) Love Buzz
+05) Dive
+06) Scoff
+07) All You Need Is Love (jam)
+08) If I Fell (jam)
+09) About A Girl
+10) Big Cheese
+11) Molly's Lips
+12) Token Eastern Song
+13) Spank Thru
+14) Breed
+15) Stain
+16) Been A Son
+17) Sweet Home Alabama (jam) (cut)
+18) Negative Creep
+19) Blew
+
+GENERATION
+-----------------
+ANA(M) -> CDR(1) -> WAV [44.1kHz] -> FLAC [Level 8]
+
+SOURCE (AUD#1)
+-----------------
+built-in -> unknown
+
+TRANSFER
+-----------------
+Plextor PlexWriter PX-W4824A -> Exact Audio Copy V0.95 -> Adobe Audition 1.5 -> CD Wave 1.94.8 -> FLAC Frontend 1.7.1
+
+NOTES
+-----------------
+Tape flip during the "Sweet Home Alabama" jam.
+
+MD5 FINGERPRINTS
+-----------------
+0eba7757c82332fc71b41dd88ab6796d *nirvana1990-01-20t01.flac
+d320843e1013bc74a99de8d438ab3416 *nirvana1990-01-20t02.flac
+71ce92fc57d9556687ad8a3d0268cd06 *nirvana1990-01-20t03.flac
+151ab630251e2db43c07858f997959de *nirvana1990-01-20t04.flac
+390b76ac39e7a50a2468109d3508fcae *nirvana1990-01-20t05.flac
+feb71d039bea4ff38bb1b6d326dc141f *nirvana1990-01-20t06.flac
+febd4fd9a9125b107b1ddfc763234428 *nirvana1990-01-20t07.flac
+f2503e957e244fa62e8a9297a3f3ff15 *nirvana1990-01-20t08.flac
+15d158137b8463383368af245c4dcc07 *nirvana1990-01-20t09.flac
+bc0188eba27e47572cfda77e16d19948 *nirvana1990-01-20t10.flac
+ba6a60fd44747580586e37161efa3b37 *nirvana1990-01-20t11.flac
+b853da3a2cae30798076081c808c2810 *nirvana1990-01-20t12.flac
+278569a06973cb220dccbec73ae7cb5e *nirvana1990-01-20t13.flac
+b1ea640babec462a62c9bcb843daca81 *nirvana1990-01-20t14.flac
+2d5f3e3ce5eb4985e26edbe96d16a2ab *nirvana1990-01-20t15.flac
+d7e43f43b7da9544dccc141fd0fcfdae *nirvana1990-01-20t16.flac
+a320e014238523c88ccf3d5217dd586f *nirvana1990-01-20t17.flac
+78b3b9d3a19316af6de401643826993c *nirvana1990-01-20t18.flac
+4b29fedc2759417bc3b33c744410201a *nirvana1990-01-20t19.flac
+
+
+Transferred by Mike Ziegler.
+PLEASE DO NOT ENCODE TO MP3 OR SELL!

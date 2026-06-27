@@ -1,0 +1,61 @@
+NIRVANA
+November 19, 1991
+Teatro Castello
+Rome, Italy
+
+DISC #1/1 (55:43)
+-----------------
+01) Aneurysm
+02) School (cut)
+03) Floyd The Barber
+04) Smells Like Teen Spirit
+05) About A Girl (cut)
+06) Polly
+07) Lithium
+08) Sliver
+09) Come As You Are (cut)
+10) Breed
+11) Been A Son
+12) Negative Creep
+13) On A Plain
+14) Blew
+15) Rape Me
+16) Spank Thru
+17) Territorial Pissings
+
+GENERATION
+-----------------
+CD ["Seattle Sound, Sounds Great" bootleg] -> WAV [44.1kHz] -> FLAC [Level 8]
+
+SOURCE (SBD#1b)
+-----------------
+soundboard -> unknown
+
+TRANSFER
+-----------------
+Plextor PlexWriter PX-W4824A -> Exact Audio Copy V0.95 -> Sound Forge 7.0 -> CD Wave 1.93 beta -> FLAC Frontend 1.7.1
+
+MD5 FINGERPRINTS
+-----------------
+44716addfe4e6a99581d8e5e67577475 *nirvana1991-11-19t01.flac
+86743821d91f18483de8c12a992e48b7 *nirvana1991-11-19t02.flac
+65ebef986b2e9603cad8db1045dceda6 *nirvana1991-11-19t03.flac
+e173795e3531251e528cb9ccb72c7412 *nirvana1991-11-19t04.flac
+d077e2d4246bee03e0eef7466cd8cd74 *nirvana1991-11-19t05.flac
+6652540f19cf066f68078c663b6394d2 *nirvana1991-11-19t06.flac
+6ed10f86316a812d1033c52ad5920c35 *nirvana1991-11-19t07.flac
+7a0a7f1cf47ef54d5bb4b2e607407b17 *nirvana1991-11-19t08.flac
+9f023d41e601d63fa9b1f837afc275a5 *nirvana1991-11-19t09.flac
+6101bb80796d0cf6100060488f233d3d *nirvana1991-11-19t10.flac
+9e3a1895b52206f42c03d47d2359ae5a *nirvana1991-11-19t11.flac
+14d5b55e9eb4a8ae880b783201b23862 *nirvana1991-11-19t12.flac
+e7068fe957667fb4d7819ac888bd56bd *nirvana1991-11-19t13.flac
+b077d772139585c6f95cb2bc12842285 *nirvana1991-11-19t14.flac
+7c7eb882e1b6be50954dbc961cdaadd8 *nirvana1991-11-19t15.flac
+e84799179668fd9d89974db620bacdd4 *nirvana1991-11-19t16.flac
+eb424487b902b84fda4c2a9bd7f0bd44 *nirvana1991-11-19t17.flac
+273e92d674527ec50b934540a967b168 *nirvana1991-11-19t18.flac
+
+
+Transferred by Mike Ziegler.
+PLEASE DO NOT ENCODE TO MP3 OR SELL!

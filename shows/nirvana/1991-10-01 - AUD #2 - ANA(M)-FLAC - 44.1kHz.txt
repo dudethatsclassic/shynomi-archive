@@ -1,0 +1,53 @@
+NIRVANA
+October 1, 1991
+J.C. Dobbs
+Philadelphia, PA
+
+SOURCE (AUD #2):
+built-in > Realistic SCP-29
+
+TRANSFER:
+Nakamichi CR-7A > Hosa RCA cable > PreSonus FireStudio Project > Adobe Audition 3.0 > CD Wave 1.97 > FLAC frontend 1.7.1
+
+GENERATION:
+ANA(M) > WAV [48kHz] > WAV [44.1kHz] > FLAC [Level 8]
+
+LENGTH:
+42:29
+
+TRACKS:
+01. intro
+02. Jesus Wants Me For A Sunbeam
+03. Drain You
+04. Aneurysm
+05. Floyd The Barber
+06. Smells Like Teen Spirit
+07. Polly
+08. About A Girl
+09. School
+10. Sliver
+11. Come As You Are
+12. jam
+13. Blew
+14. Been A Son
+
+MD5 FINGERPRINTS:
+ac9c366a4ee51bdb17d68b7d2a392716 *Nirvana_1991-10-01_AUD2_t01.flac
+5cf1622c5d3455c88211c3353a3672eb *Nirvana_1991-10-01_AUD2_t02.flac
+e7176d7ac51503285907fdbe2c5f91e7 *Nirvana_1991-10-01_AUD2_t03.flac
+a0398ccf11fefbcf063c6e85d763e915 *Nirvana_1991-10-01_AUD2_t04.flac
+b1b2d0fc97c2698fc4689a849320f326 *Nirvana_1991-10-01_AUD2_t05.flac
+be18ef44756582ca078bea1fb5f13871 *Nirvana_1991-10-01_AUD2_t06.flac
+b8056e04e2b167ff6ce2799bc2d88e8c *Nirvana_1991-10-01_AUD2_t07.flac
+33fa60a9aae40baf0e75d5bc22cb2e37 *Nirvana_1991-10-01_AUD2_t08.flac
+4de4bc123ac50d9af2190f58c6c5dd81 *Nirvana_1991-10-01_AUD2_t09.flac
+7044354304b9b545cee2aec99a6cda22 *Nirvana_1991-10-01_AUD2_t10.flac
+80c22d49e106f5748ea90cc54c6887af *Nirvana_1991-10-01_AUD2_t11.flac
+bce15990e92b6fb41242fd0ffc55becd *Nirvana_1991-10-01_AUD2_t12.flac
+d004f67140198e186622939d8323994a *Nirvana_1991-10-01_AUD2_t13.flac
+6b094254afbc86d3b637619531947411 *Nirvana_1991-10-01_AUD2_t14.flac
+
+TRANSFERRED BY:
+Mike Ziegler
+
+PLEASE DO NOT SELL OR ENCODE TO MP3

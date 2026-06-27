@@ -1,0 +1,42 @@
+NIRVANA
+April 17, 1987
+KAOS Olympia Community Radio
+Olympia, WA
+
+SOURCE (SBD #1a + SBD #1b):
+soundboard > unknown
+
+TRANSFER:
+Nakamichi DR-8 > Tascam DA-30mkII > Echo Layla24 > Cool Edit Pro 2.0 > CD Wave 1.93 beta > FLAC frontend 1.7.1 [exclude 5, 7 and 10]
+
+GENERATION:
+FM > ANA(3) > WAV [48kHz] > WAV [44.1kHz] > FLAC [Level 8] > WAV > remaster > FLAC [Level 8] [exclude 5, 7 and 10]
+
+LENGTH:
+33:46
+
+TRACKS:
+01. Love Buzz
+02. Floyd The Barber
+03. Downer
+04. Mexican Seafood
+05. White Lace And Strange (from WTLO)
+06. Spank Thru
+07. Anorexorcist (from WTLO)
+08. Hairspray Queen
+09. Pen Cap Chew
+10. Vendetagnist (Help Me I'm Hungry) (from WTLO)
+
+INFO:
+all tracks have been pitch-corrected [exclude 5, 7 and 10]
+EQing on all tracks  [exclude 5, 7 and 10]
+volume gain
+no noise-reduction
+
+TRANSFERRED BY:
+Kris Sproul  [exclude 5, 7 and 10]
+
+REMASTERED BY:
+Daniel B.  [exclude 5, 7 and 10]
+
+PLEASE DO NOT SELL OR ENCODE TO MP3

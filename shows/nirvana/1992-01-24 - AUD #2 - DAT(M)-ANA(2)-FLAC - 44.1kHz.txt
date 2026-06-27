@@ -1,0 +1,31 @@
+NIRVANA
+January 24, 1992
+Phoenician Club
+Sydney, Australia
+
+SOURCE (AUD #2):
+Sonic Studios DSM-3 > Sony TCD-D3
+
+TRANSFER:
+Nakamichi CR-7A > Hosa RCA cable > PreSonus FireStudio Project > Adobe Audition 3.0 > CD Wave 1.98 > Trader's Little Helper 2.6.0
+
+GENERATION:
+DAT(M) > ANA(2) > WAV [48kHz] > WAV [44.1kHz] > FLAC [Level 8]
+
+LENGTH:
+3:15
+
+TRACKS:
+01. intro
+02. Aneurysm (cuts in, cut)
+03. Drain You (cut, cuts out)
+
+MD5 FINGERPRINTS:
+c113c7f7e6a23263fc7432c467003b09 *Nirvana_1992-01-24_AUD2_t01.flac
+0e0d3b37fc6230e9df61dba863fd6db6 *Nirvana_1992-01-24_AUD2_t02.flac
+23aed86aa0ed7293e5f39025875c2629 *Nirvana_1992-01-24_AUD2_t03.flac
+
+TRANSFERRED BY:
+Mike Ziegler
+
+PLEASE DO NOT SELL OR ENCODE TO MP3

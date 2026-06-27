@@ -1,0 +1,62 @@
+NIRVANA
+August 30, 1992
+Richfield Avenue (Reading Festival)
+Reading, United Kingdom
+
+DISC #1/1 (57:27)
+-----------------
+01) intro
+02) Breed
+03) Drain You
+04) Aneurysm
+05) School
+06) Sliver
+07) In Bloom
+08) Come As You Are
+09) Lithium
+10) More Than A Feeling (part of)
+11) Smells Like Teen Spirit
+12) On A Plain
+13) Negative Creep
+14) Been A Son
+15) All Apologies
+16) Dumb
+17) Stay Away
+18) Territorial Pissings
+
+GENERATION
+-----------------
+FM -> ANA(1) -> WAV [48kHz] -> WAV [44.1kHz] -> FLAC [Level 8]
+
+SOURCE (SBD#1b)
+-----------------
+soundboard -> unknown
+
+TRANSFER
+-----------------
+Nakamichi CR-7A -> Hosa RCA cable -> LynxONE analog-in -> Adobe Audition 2.0 -> CD Wave 1.95.1 -> FLAC Frontend 1.7.1
+
+MD5 FINGERPRINTS
+-----------------
+9adb75c6ffed8414cc511c68af13ea82 *nirvana1992-08-30t01.flac
+9f99d39c609b8c8f8d1fcdd26ab724b4 *nirvana1992-08-30t02.flac
+e6c29985688c6933fb31a0b3e42d6218 *nirvana1992-08-30t03.flac
+bda3d894dfd240e18f5cde3a87837190 *nirvana1992-08-30t04.flac
+c070ec082fcb36fe264502b264c67a8a *nirvana1992-08-30t05.flac
+79c7e204cbd596ef33014a0a1a9674b4 *nirvana1992-08-30t06.flac
+a54c84589a719b744d2f8b1b150f4130 *nirvana1992-08-30t07.flac
+ae0d891f8beeead3bad477bc20209db9 *nirvana1992-08-30t08.flac
+2da73a1d92d1d085a9ba7714ff8ca320 *nirvana1992-08-30t09.flac
+26260c8a13c8fa2b9ad913caa587b453 *nirvana1992-08-30t10.flac
+613f4e337e44c313e50e6ca2e6a34339 *nirvana1992-08-30t11.flac
+dbed95d8df19c186a239c391551c0c49 *nirvana1992-08-30t12.flac
+fb5a693c806c5b0831f7a97c894c9529 *nirvana1992-08-30t13.flac
+790f84f66343337426b7398b92fb46cc *nirvana1992-08-30t14.flac
+4e5542024fc6e04db3cc05f866bfd219 *nirvana1992-08-30t15.flac
+1a545f836c606b6faf9ff8edb793d4bc *nirvana1992-08-30t16.flac
+0f1f417c650549f669d6a32183826985 *nirvana1992-08-30t17.flac
+2def1e0a8e2f82b8aaa17afa328c34f6 *nirvana1992-08-30t18.flac
+
+
+Transferred by Mike Ziegler.
+PLEASE DO NOT ENCODE TO MP3 OR SELL!

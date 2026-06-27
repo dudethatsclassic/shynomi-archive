@@ -1,0 +1,70 @@
+NIRVANA
+October 31, 1991
+Paramount Theatre
+Seattle, WA
+
+DISC #1/1 (71:27)
+-----------------
+01) Jesus Doesn't Want Me For A Sunbeam
+02) Aneurysm
+03) Drain You
+04) School
+05) Floyd The Barber
+06) jam
+07) Smells Like Teen Spirit
+08) About A Girl
+09) Polly
+10) Breed
+11) Sliver
+12) Love Buzz
+13) Lithium
+14) Been A Son
+15) Negative Creep
+16) On A Plain
+17) Blew
+18) Rape Me
+19) Territorial Pissings
+20) Endless, Nameless
+
+SOURCE (PRO #6)
+-----------------
+soundboard > unknown
+
+GENERATION
+-----------------
+Official Blu-Ray "Live At The Paramount" -> WAV [48kHz, 24-bit] -> FLAC [Level 8]
+
+EXTRACTION
+-----------------
+Lite-On iHBS-112 -> MakeMKV Beta 1.7.7 -> MKVToolNix 6.4.1 -> CD Wave 1.98 -> FLAC Frontend 1.7.1
+
+NOTES
+-----------------
+- Completely untouched (no re-encoding)
+
+MD5 FINGERPRINTS
+-----------------
+3d7afedbe28fb25f625d63e48e51251a *Nirvana_1991-10-31_PRO6_BR_4824_t01.flac
+d019c6aa7a5743f51d3b025a91fc9213 *Nirvana_1991-10-31_PRO6_BR_4824_t02.flac
+95d9d409464ec7dec0aa6ba16e2a2a98 *Nirvana_1991-10-31_PRO6_BR_4824_t03.flac
+3907951774bec4034bbaea0b85e83096 *Nirvana_1991-10-31_PRO6_BR_4824_t04.flac
+4358ca666864da9c2afd752da362b167 *Nirvana_1991-10-31_PRO6_BR_4824_t05.flac
+23075ec44640f6ebaba88abdf330bec9 *Nirvana_1991-10-31_PRO6_BR_4824_t06.flac
+a28221a4f7fd8730ca28cf827bcf9d22 *Nirvana_1991-10-31_PRO6_BR_4824_t07.flac
+8bf2403dff5933f239f0c5c1c81781a0 *Nirvana_1991-10-31_PRO6_BR_4824_t08.flac
+5a693813e8d7f30b9d8ed892777b73a9 *Nirvana_1991-10-31_PRO6_BR_4824_t09.flac
+e2806d9d6c598284e2982a420107a7d4 *Nirvana_1991-10-31_PRO6_BR_4824_t10.flac
+95a6c38c795e0982c2ef17d82a201af5 *Nirvana_1991-10-31_PRO6_BR_4824_t11.flac
+73a9be3745545e4600ca0eb0f3569e88 *Nirvana_1991-10-31_PRO6_BR_4824_t12.flac
+67446e367ac49b4c53cfcee4699b7293 *Nirvana_1991-10-31_PRO6_BR_4824_t13.flac
+a5028f731af92950fbeb1c7f25636ab2 *Nirvana_1991-10-31_PRO6_BR_4824_t14.flac
+ede36b33c12e4021ead92f3fdd034b15 *Nirvana_1991-10-31_PRO6_BR_4824_t15.flac
+cee5ee3e4159771fe50a6bb49950176f *Nirvana_1991-10-31_PRO6_BR_4824_t16.flac
+c5edc4addbc4f673b835f1764315d69f *Nirvana_1991-10-31_PRO6_BR_4824_t17.flac
+2002559fe509f5626124039793f8da44 *Nirvana_1991-10-31_PRO6_BR_4824_t18.flac
+789fe95ab587331dc697009e9a0a2edc *Nirvana_1991-10-31_PRO6_BR_4824_t19.flac
+911dd3c548c5024a1547d348888e760b *Nirvana_1991-10-31_PRO6_BR_4824_t20.flac
+
+Extracted by PL.
+PLEASE DO NOT ENCODE TO MP3 OR SELL!
+NO TRADE

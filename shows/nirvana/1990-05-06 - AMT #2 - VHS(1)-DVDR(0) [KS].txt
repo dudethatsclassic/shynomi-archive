@@ -1,0 +1,51 @@
+NIRVANA
+May 6, 1990
+The Masquerade
+Atlanta, GA
+
+SOURCE (AMT #2):
+unknown > unknown
+
+TRANSFER:
+JVC HR-S9911U > Sony DCR-TRV730 > IEEE 1394 > Adobe Premiere Pro 2.0 > TMPGEnc Plus 2.5 > Adobe Encore DVD 2.0
+
+GENERATION:
+VHS(1) > AVI [DV25] > M2V/WAV [NTSC/8Mbps CBR/48kHz PCM] > DVDR(0)
+
+LENGTH:
+54:21
+
+CHAPTERS:
+01. Love Buzz (cuts in)
+02. Floyd The Barber
+03. Scoff
+04. Dive
+05. School
+06. Spank Thru
+07. Breed
+08. About A Girl
+09. Big Cheese
+10. Molly's Lips
+11. Polly
+12. Here She Comes Now
+13. Been A Son
+14. Stain
+15. Negative Creep
+16. Blew
+
+MD5 FINGERPRINTS:
+cb8f47bceaf729f2dbca3bc4253e7f6a *VIDEO_TS/VIDEO_TS.BUP
+cb8f47bceaf729f2dbca3bc4253e7f6a *VIDEO_TS/VIDEO_TS.IFO
+1efd6691b50aee6caf7bfc2e1ad1203e *VIDEO_TS/VIDEO_TS.VOB
+3db5dd84614658d19b159186a499c19e *VIDEO_TS/VTS_01_0.BUP
+3db5dd84614658d19b159186a499c19e *VIDEO_TS/VTS_01_0.IFO
+0fe60563af41ba7ec00a6a84dc1a1e12 *VIDEO_TS/VTS_01_0.VOB
+3d700436d9a4d417dce71bc27a80a05b *VIDEO_TS/VTS_01_1.VOB
+a7001c155efb16e498784fdc9642e2b8 *VIDEO_TS/VTS_01_2.VOB
+52aeae1ba84175959a79cd3388736fd8 *VIDEO_TS/VTS_01_3.VOB
+92e4620cf94df5fc2a27a4ba2948c5e0 *VIDEO_TS/VTS_01_4.VOB
+
+TRANSFERRED BY:
+Kris Sproul
+
+PLEASE DO NOT SELL OR ENCODE TO ANY OTHER FORMAT

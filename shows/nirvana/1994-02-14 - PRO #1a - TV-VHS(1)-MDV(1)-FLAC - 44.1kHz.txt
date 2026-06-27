@@ -1,0 +1,35 @@
+NIRVANA
+February 14, 1994
+Le Zénith
+Paris, France
+
+DISC #1/1 (5:27)
+-----------------
+01) Lithium (cut)
+02) Rape Me
+
+GENERATION
+-----------------
+TV -> VHS(1) -> MDV(1) -> AVI [PCM] -> WAV [48kHz] -> WAV [44.1kHz] -> FLAC [Level 8]
+
+SOURCE (PRO#1)
+-----------------
+soundboard -> unknown
+
+TRANSFER
+-----------------
+JVC GR-D725E -> IEEE 1394 -> Adobe Premiere Pro 1.5 -> Adobe Audition 1.5 -> CD Wave 1.96.1 -> FLAC Frontend 1.7.1
+
+NOTES
+-----------------
+- Broadcast on the French TV channel MCM.
+- The order of the songs is swapped on the broadcast.
+
+MD5 FINGERPRINTS
+-----------------
+1bcb254f41913fc1ce8289d0bac0679c *Nirvana_1994-02-14_PRO1_t01.flac
+afd5675470bce84b199a0945bcc49ee9 *Nirvana_1994-02-14_PRO1_t02.flac
+
+
+Transferred by members of LNCU Germany.
+PLEASE DO NOT ENCODE TO MP3 OR SELL!

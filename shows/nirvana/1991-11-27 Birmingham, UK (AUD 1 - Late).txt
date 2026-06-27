@@ -1,0 +1,52 @@
+NIRVANA
+November 27, 1991
+The Hummingbird
+Birmingham, United Kingdom
+
+SOURCE (AUD #1):
+Sony PC-62 -> Sony WM-D3
+
+TRANSFER:
+Nakamichi DR-3 > Midas Venice F32 console > Pro Tools 11HD > xACT 2.39 > Adobe Audition 3.0 > CD Wave 1.98
+
+GENERATION:
+ANA(M) > WAV [24bit/48kHz] > WAV [16bit/44.1kHz] > FLAC [Level 8]
+
+LENGTH:
+46:28
+
+TRACKS:
+01. intro
+02. Drain You
+03. Aneurysm
+04. Floyd The Barber
+05. Smells Like Teen Spirit
+06. About A Girl
+07. Polly
+08. Lithium
+09. Sliver
+10. Been A Son
+11. On A Plain
+12. Negative Creep
+13. Endless, Nameless
+
+MD5 FINGERPRINTS:
+28050e3a12c697581617aebed432116d *Nirvana_1991-11-27_late_AUD1_t01.flac
+eefdc72ed8a761622f6d73fc0f3dd969 *Nirvana_1991-11-27_late_AUD1_t02.flac
+e1cc77b4dc44a0eda1cc57b2fc1a670e *Nirvana_1991-11-27_late_AUD1_t03.flac
+c55402742b9816e57694dcd7cd3b6ed1 *Nirvana_1991-11-27_late_AUD1_t04.flac
+c5a9a3c6f5b4c513e20af3330f5bbed6 *Nirvana_1991-11-27_late_AUD1_t05.flac
+d4e85a5c1343fc9a6ab191d2cc691810 *Nirvana_1991-11-27_late_AUD1_t06.flac
+53481c1bf2164018addd87b17e854abc *Nirvana_1991-11-27_late_AUD1_t07.flac
+5327ed50a01d4e60e04468a2069e39f9 *Nirvana_1991-11-27_late_AUD1_t08.flac
+345c951dc58ebc26cacc5ca7e6279e28 *Nirvana_1991-11-27_late_AUD1_t09.flac
+cd93be53bf8a5a93899579fec45655bd *Nirvana_1991-11-27_late_AUD1_t10.flac
+dab99f1e9c70470a4df8f0bedbcef9e9 *Nirvana_1991-11-27_late_AUD1_t11.flac
+010e564bca048f5ea4bdc45977c4e9ba *Nirvana_1991-11-27_late_AUD1_t12.flac
+cecbfb2029f9ef755c4da3cfb90dc0ac *Nirvana_1991-11-27_late_AUD1_t13.flac
+
+TRANSFERRED BY:
+Nick Habermehl for LiveNirvana.com
+
+
+PLEASE DO NOT SELL OR ENCODE TO MP3

@@ -1,0 +1,58 @@
+NIRVANA
+November 16, 1989
+Trust
+Nuremberg, West Germany
+
+SOURCE (AUD #2b):
+Aiwa CM-30A > Sony WM-D6
+
+TRANSFER:
+Nakamichi DR-3 > Schulz ADPS 1 > Fireface UC > Adobe Audition 3.0 > CD Wave 1.98 > Trader's Little Helper 2.4.1
+
+GENERATION:
+ANA(1) > WAV [24bit/48kHz] > WAV [44.1kHz] > FLAC [Level 8]
+
+LENGTH:
+50:42
+
+NOTES:
+- "Negative Creep" cuts in due to a tape flip.
+
+TRACKS:
+01. intro
+02. School
+03. Scoff
+04. Love Buzz
+05. Floyd The Barber
+06. Dive
+07. Sappy
+08. Big Cheese
+09. jam
+10. About A Girl
+11. Mr. Moustache
+12. Breed
+13. Been A Son
+14. Negative Creep (cuts in)
+15. Blew
+
+MD5 FINGERPRINTS:
+d9c0b6bbf1bb1520cb5fa80568eb9a5e *Nirvana_1989-11-16_AUD2b_t01.flac
+bc0cd6d182c02b68f543bd76fbe7ec2c *Nirvana_1989-11-16_AUD2b_t02.flac
+3acf6639e419c79a3520461008aeddcd *Nirvana_1989-11-16_AUD2b_t03.flac
+06e3ab2b832a5c3b79dfebba5b9afc3f *Nirvana_1989-11-16_AUD2b_t04.flac
+775ea1710f5a8c0d341fa1f7709b5fa3 *Nirvana_1989-11-16_AUD2b_t05.flac
+a757f7a28b51cb8a965969488f79321b *Nirvana_1989-11-16_AUD2b_t06.flac
+6d2e51fa41ab8c9fa9b84df3178540dd *Nirvana_1989-11-16_AUD2b_t07.flac
+07f651d9eaa137620d7c3d78d6dc2b5e *Nirvana_1989-11-16_AUD2b_t08.flac
+e7ff3b330f06a2c05dbe613da9029425 *Nirvana_1989-11-16_AUD2b_t09.flac
+017cc9ca3e246453d9473f2938070ab7 *Nirvana_1989-11-16_AUD2b_t10.flac
+5e18b983bb8a0d8e63f01973184ae637 *Nirvana_1989-11-16_AUD2b_t11.flac
+11616d10ed61c689349efbef1712bbcd *Nirvana_1989-11-16_AUD2b_t12.flac
+e5650d4371d158cefa9c01038090cc5d *Nirvana_1989-11-16_AUD2b_t13.flac
+e866cfa104993145212bfdb0d597d445 *Nirvana_1989-11-16_AUD2b_t14.flac
+43929279e872c54e01a61ea3508d4167 *Nirvana_1989-11-16_AUD2b_t15.flac
+
+TRANSFERRED BY:
+Daniel Bär
+
+PLEASE DO NOT SELL OR ENCODE TO MP3

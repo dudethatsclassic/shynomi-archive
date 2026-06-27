@@ -1,0 +1,53 @@
+NIRVANA
+January 23, 1993
+Praça da Apoteose (Hollywood Rock Festival)
+Rio de Janeiro, Brazil
+
+SOURCE (PRO #4):
+unknown > unknown
+
+TRANSFER:
+JVC HR-S9911U > Canopus ADVC-300 > IEEE 1394 > Adobe Premiere Pro CS5 > Adobe Audition 3.0 > CD Wave 1.98 > Trader's Little Helper 2.7.0
+
+GENERATION:
+VHS(2) > AVI [PCM] > WAV [48kHz] > WAV [44.1kHz] > FLAC [Level 8]
+
+LENGTH:
+43:39
+
+TRACKS:
+01. In Bloom (cuts in)
+02. Come As You Are (cuts in)
+03. Love Buzz (cut, cuts out)
+04. Lithium (cuts in)
+05. Polly (cuts in, cut)
+06. About A Girl (cuts in, cut)
+07. Smells Like Teen Spirit (cuts in)
+08. On A Plain (cuts in, cut, cuts out)
+09. Blew (cuts in)
+10. Scentless Apprentice (cuts in, cut)
+11. Dive (cuts in)
+12. Lounge Act (cuts in)
+13. Aneurysm (cut)
+14. Territorial Pissings (cut)
+
+MD5 FINGERPRINTS:
+cea6d638d81895566226e1e0bce1d55e *Nirvana_1993-01-23_PRO4_t01.flac
+a4210b6aa2c8e602ece78ee456df09cc *Nirvana_1993-01-23_PRO4_t02.flac
+879b89bb727b8cba7e9f6198c22b2221 *Nirvana_1993-01-23_PRO4_t03.flac
+58ac5d1dc3f535732944d12a30106154 *Nirvana_1993-01-23_PRO4_t04.flac
+c136494ab3accdf896412ac3880277b3 *Nirvana_1993-01-23_PRO4_t05.flac
+ec45777315041a001dcf37998603cd9c *Nirvana_1993-01-23_PRO4_t06.flac
+0f2e9f58bee2d435c2825a11317758e6 *Nirvana_1993-01-23_PRO4_t07.flac
+dc15083782211b275ad69b2ed1dd8dc4 *Nirvana_1993-01-23_PRO4_t08.flac
+6fa266aed4c1614ad07d9a11c718b17b *Nirvana_1993-01-23_PRO4_t09.flac
+4936a5baa912882aab37e5c09e20221b *Nirvana_1993-01-23_PRO4_t10.flac
+38d0015457490f1038bb89f966aeaf27 *Nirvana_1993-01-23_PRO4_t11.flac
+32586e359d6bed9e95a8cace33f966f5 *Nirvana_1993-01-23_PRO4_t12.flac
+77ee302e4f28428d5c7863f0db238c04 *Nirvana_1993-01-23_PRO4_t13.flac
+0e8611b57ed6b7163724dff0d9015b95 *Nirvana_1993-01-23_PRO4_t14.flac
+
+TRANSFERRED BY:
+Mike Ziegler
+
+PLEASE DO NOT SELL OR ENCODE TO MP3

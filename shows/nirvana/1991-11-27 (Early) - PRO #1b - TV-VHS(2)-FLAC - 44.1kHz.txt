@@ -1,0 +1,28 @@
+NIRVANA
+November 27, 1991 3:03
+BBC Elstree Centre (Top of the Pops)
+Borehamwood, United Kingdom
+
+DISC #1/1 (03:03)
+-----------------
+01) Smells Like Teen Spirit
+
+GENERATION
+-----------------
+TV -> VHS(2) -> AVI [HuffYUV] -> WAV [48kHz] -> WAV [44.1kHz] -> FLAC [Level 8]
+
+SOURCE (PRO #1b)
+-----------------
+soundboard -> unknown
+
+TRANSFER
+-----------------
+JVC HR-S7700 -> Datavideo TBC 1000 -> ATI AIW -> Adobe Premiere Pro 1.5 -> Adobe Audition 3.0 -> Flac Frontend 1.7.1
+
+MD5 FINGERPRINTS
+-----------------
+0c7c9f40eec88742aafd43bf6aa74159 *Nirvana_Early_1991-11-27_PRO1b_TV-VHS2_t01.flac
+
+Transferred by Francisco Ortiz
+Edited by Pierre Leroy
+PLEASE DO NOT ENCODE TO MP3 OR SELL !!!

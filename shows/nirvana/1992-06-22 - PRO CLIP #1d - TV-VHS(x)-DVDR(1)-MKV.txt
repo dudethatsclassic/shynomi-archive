@@ -1,0 +1,39 @@
+NIRVANA
+June 22, 1992
+The King's Hall
+Belfast, United Kingdom
+
+SOURCE (PRO CLIP #1d):
+soundboard > unknown
+
+TRANSFER:
+unknown
+
+GENERATION:
+TV > VHS(x) > Unofficial DVDR(1) [1994-2014 Tributo a Kurt Cobain] > MKV
+
+EXTRACTION:
+DVD Decrypter v.3.4.5.0 by Mattia Cuda > Freemake Video Converter 4.1.10 by Tim Bucknall
+
+LENGTH:
+00:27 Min - Incomplete
+
+NOTES:
+- DVDR extraction by Mattia Cuda. Tim Bucknall extraction to MKV.
+- Includes 25 seconds of clips of 'Polly' and 'Blew' only. Has voice over parts of it.
+- Broadcast by MTV News on April 10, 1994.
+- Recorded off from Italian TV in the '90's, when TV was broadcast from USA or Europe on Italian 
+  regional channels and CNN was broadcast live during the night on Tele Montecarlo (TMC) channel.
+- The source is a DVD bootleg released in 2014 and bought on a record fair in Milan, Italy.
+ 
+TRACKS:
+01. Polly (clip)
+02. Blew (clip)
+
+MD5 FINGERPRINTS:
+4930709554154894DF0AA60626FCF392 *1992-06-22 - PRO CLIP #1d - Polly - Blew.mkv
+
+TRANSFER/COMPILED BY:
+Mattia Cuda / Fabian Beyer
+
+PLEASE DO NOT SELL OR ENCODE TO MP3

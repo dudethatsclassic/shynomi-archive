@@ -1,0 +1,42 @@
+NIRVANA
+August 23, 1991
+Richfield Avenue (Reading Festival)
+Reading, United Kingdom
+
+DISC #1/1 (15:40)
+-----------------
+01) School
+02) Floyd The Barber (cut)
+03) Drain You (cut)
+04) Smells Like Teen Spirit (cut)
+05) Come As You Are
+06) Breed (cut)
+07) Love Buzz (cut)
+08) Blew (cut)
+
+GENERATION
+-----------------
+BETA(M) -> ANA(1) -> WAV [48kHz] -> WAV [44.1kHz] -> FLAC [Level 8]
+
+SOURCE (PRO#1b)
+-----------------
+soundboard -> unknown
+
+TRANSFER
+-----------------
+Nakamichi DR-8 -> Hosa RCA cable -> LynxONE analog-in -> Sound Forge 6.0 -> Adobe Audition 2.0 -> CD Wave 1.94.8 -> FLAC Frontend 1.7.1
+
+MD5 FINGERPRINTS
+-----------------
+a9952731ed068deccff0d2e79cb38777 *nirvana1991-08-23t01.flac
+bae53af4246f951a27caf76345e38310 *nirvana1991-08-23t02.flac
+8b9387189ddd6a7e5f5f524c599aefbd *nirvana1991-08-23t03.flac
+7510c82151f77a758783b52c6e3ffdbd *nirvana1991-08-23t04.flac
+c5a34afe356802ad3ac711c4f064881e *nirvana1991-08-23t05.flac
+22d225d69b8702d0d53dcdffb38011d3 *nirvana1991-08-23t06.flac
+6852459336b1b69becb13ff7f129cfeb *nirvana1991-08-23t07.flac
+26efac4015a8d902100bbb34f83aee18 *nirvana1991-08-23t08.flac
+
+
+Transferred by Mike Ziegler.
+PLEASE DO NOT ENCODE TO MP3 OR SELL!

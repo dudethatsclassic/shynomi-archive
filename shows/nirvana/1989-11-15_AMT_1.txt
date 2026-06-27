@@ -1,0 +1,57 @@
+NIRVANA
+November 15, 1989
+Schwimmbad Musik-Club
+Heidelberg, West Germany
+
+DISC #1/1 (56:42)
+-----------------
+01) intro
+02) School
+03) Scoff
+04) Love Buzz
+05) Floyd The Barber
+06) Dive
+07) Sappy
+08) Spank Thru
+09) Big Cheese
+10) About A Girl
+11) Mr. Moustache
+12) Breed
+13) Been A Son
+14) Negative Creep
+15) Blew
+16) Stain
+
+GENERATION
+-----------------
+VHS(1) -> WAV [48kHz] -> WAV [44.1kHz] -> FLAC [Level 8]
+
+SOURCE (AMT#1)
+-----------------
+unknown -> unknown
+
+TRANSFER
+-----------------
+JVC HR-S9911U -> Hosa RCA cable -> LynxONE analog-in -> Adobe Audition 1.5 -> CD Wave 1.94.5 -> FLAC Frontend 1.7.1
+
+MD5 FINGERPRINTS
+-----------------
+4bcabf22e990c87e385f092f352c14c1 *nirvana1989-11-15t01.flac
+fe3ed84d37bce0b28e23bf88508c8421 *nirvana1989-11-15t02.flac
+b2a21eaaad478b6d1a965ca992922876 *nirvana1989-11-15t03.flac
+5b726e32f3710e11b4d6f84d8b3fe162 *nirvana1989-11-15t04.flac
+3efcdc603eeba90faa6a073b1725aba6 *nirvana1989-11-15t05.flac
+309af2294d67d9a919904c8f14bd5ad3 *nirvana1989-11-15t06.flac
+3e5cdd78fc7330987249055aa2804431 *nirvana1989-11-15t07.flac
+3311a3f7876cf83dd25a4ad7a27705bf *nirvana1989-11-15t08.flac
+ac1c46bc9350c09e2af308ac9bc9db9e *nirvana1989-11-15t09.flac
+d47923e250818fbbb7bf5726135a73c6 *nirvana1989-11-15t10.flac
+689a99f3b8c8e0241c4942eee8adc91a *nirvana1989-11-15t11.flac
+48c7fe02e704ea4e0f6582c72ecffff7 *nirvana1989-11-15t12.flac
+327f66db62b272a7a22bb9a25428b79f *nirvana1989-11-15t13.flac
+2e17ccec3ba4dacca05f8f837ba18251 *nirvana1989-11-15t14.flac
+c20f8fbc8fb7cb2dfbb31777edef7529 *nirvana1989-11-15t15.flac
+5b48262b95951efc3d031729c5ca17fc *nirvana1989-11-15t16.flac
+
+Transferred by Mike Ziegler.
+PLEASE DO NOT ENCODE TO MP3 OR SELL!

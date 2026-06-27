@@ -1,0 +1,57 @@
+NIRVANA
+November 14, 1991
+Arena
+Vienna, Austria
+
+SOURCE (AMT #1):
+unknown > unknown
+
+GENERATION:
+VHS(1) > DVDR(2) [PAL/9.0Mbps/384kbps AC3]
+
+LENGTH:
+64:45
+
+NOTES:
+- Unauthored disc, thus the lowest DVD generation in the community (the lowest authored version are DVDR3) 
+
+TRACKS:
+01. Drain You
+02. Aneurysm
+03. School
+04. Floyd The Barber
+05. Smells Like Teen Spirit (cuts in)
+06. About A Girl
+07. Polly
+08. Lithium
+09. Breed (cuts in)
+10. Sliver
+11. Come As You Are (cuts in, cut)
+12. Been A Son
+13. Negative Creep
+14. On A Plain
+15. Blew
+16. Rape Me
+17. Spank Thru
+18. Molly's Lips
+19. Territorial Pissings
+
+MD5 FINGERPRINTS:
+2a93f641af1d90afdbf2450cbc34cba8 *VIDEO_RM/VIDEO_RM.BUP
+698947887b2280cced204e410eaa9daa *VIDEO_RM/VIDEO_RM.DAT
+2a93f641af1d90afdbf2450cbc34cba8 *VIDEO_RM/VIDEO_RM.IFO
+45a2d03f1a59016425ab88328d81d3c4 *VIDEO_TS/VIDEO_TS.BUP
+eac17e539041fc27c0868e906620dd5d *VIDEO_TS/VIDEO_TS.IFO
+b077cb4b3d5878a6adcb70cec3072590 *VIDEO_TS/VIDEO_TS.VOB
+f4f35d60b3cc18aaa6d8d92f0cd3708a *VIDEO_TS/VTS_01_0.BUP
+e3a146abfc6a05d274035cd72e045873 *VIDEO_TS/VTS_01_0.IFO
+b2c5f9ef05ff909d47cf33c1dc0cfcd3 *VIDEO_TS/VTS_01_1.VOB
+926408851a297d09703bc6f9a2d5f33e *VIDEO_TS/VTS_01_2.VOB
+5afde1d7f1c450f80c3c0b44e2706d04 *VIDEO_TS/VTS_01_3.VOB
+ec73c2392a40816713ed9f51571487d3 *VIDEO_TS/VTS_01_4.VOB
+09ea0dc461cdf308e193115311eac5e7 *VIDEO_TS/VTS_01_5.VOB
+
+TRANSFERRED BY:
+C.E.
+
+PLEASE DO NOT SELL OR ENCODE TO MP3

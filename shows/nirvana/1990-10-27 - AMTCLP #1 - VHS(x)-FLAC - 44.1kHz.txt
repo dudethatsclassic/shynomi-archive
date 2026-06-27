@@ -1,0 +1,35 @@
+NIRVANA
+November 27, 1990
+Byron Building, Trent Polytechnic
+Nottingham, United Kingdom
+
+SETLIST (1:12)
+-----------------
+01) Negative Creep (cut)
+02) Lithium (cut)
+
+GENERATION
+-----------------
+VHS(x) -> AVI [DV25] -> M2V/WAV [8Mbps CBR/48kHz PCM] -> WAV [48kHz] -> WAV [44.1kHz] -> FLAC [Level 8]
+
+SOURCE (AMT CLIP #1)
+-----------------
+unknown -> unknown
+
+TRANSFER
+-----------------
+JVC HR-S9911U -> Sony DCR-TRV460 -> IEEE 1394 -> Adobe Premiere Pro 2.0 -> TMPGEnc Plus 2.5 -> Adobe Encore DVD 2.0
+
+EXTRACTION
+-----------------
+PgcDemux v1.2.0.5 -> FLAC Frontend 1.7.1
+
+MD5 FINGERPRINTS
+-----------------
+284d2187e1b78e7872694db322833225 *nirvana1990-10-27t01.flac
+da1d43eb1de0b48b32ff08163b8058e9 *nirvana1990-10-27t02.flac
+
+
+Transferred by Mike Ziegler.
+Flac'ed by Pieter Vermeulen.
+PLEASE DO NOT ENCODE TO ANY OTHER FORMAT OR SELL!

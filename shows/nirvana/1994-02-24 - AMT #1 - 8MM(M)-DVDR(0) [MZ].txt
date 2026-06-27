@@ -1,0 +1,57 @@
+NIRVANA
+February 24, 1994
+Palatrussardi
+Milan, Italy
+
+SOURCE (AMT #1):
+built-in > Sony CCD-F55E
+
+TRANSFER:
+Sony DCR-TRV320E > IEEE 1394 > Adobe Premiere Pro 2.0 > TMPGEnc Plus 2.5 > Adobe Encore DVD 2.0
+
+GENERATION:
+8MM(M) [PAL] > AVI [DV25] > M2V/WAV [8.0Mbps CBR/48kHz PCM] > DVDR(0) [dual layer]
+
+LENGTH:
+76:38
+
+CHAPTERS:
+01. Radio Friendly Unit Shifter
+02. Drain You
+03. Breed
+04. Serve The Servants
+05. Come As You Are
+06. Smells Like Teen Spirit
+07. Sliver
+08. Dumb
+09. In Bloom
+10. About A Girl
+11. Lithium
+12. Pennyroyal Tea
+13. School
+14. Polly
+15. Very Ape
+16. Lounge Act
+17. Rape Me
+18. Territorial Pissings
+19. All Apologies
+20. On A Plain
+21. Blew
+22. Heart-Shaped Box
+
+MD5 FINGERPRINTS:
+8e4a48441d06a374cfc6c8c5fca2878f *VIDEO_TS/VIDEO_TS.BUP
+8e4a48441d06a374cfc6c8c5fca2878f *VIDEO_TS/VIDEO_TS.IFO
+2f9f7dcf5bc35ddae7a51b865d1b0d3b *VIDEO_TS/VIDEO_TS.VOB
+8ea1d71b0a7d7ddc4ca2c7ea1f3c8b14 *VIDEO_TS/VTS_01_0.BUP
+8ea1d71b0a7d7ddc4ca2c7ea1f3c8b14 *VIDEO_TS/VTS_01_0.IFO
+f9bc7a49e3e8e9af183a00a2feccb5dd *VIDEO_TS/VTS_01_0.VOB
+fd9e90bbbcea988150233f8b1ef653f2 *VIDEO_TS/VTS_01_1.VOB
+e91dea5b7432dcc0233fa31d90d90ae8 *VIDEO_TS/VTS_01_2.VOB
+6aa115f9a2fa90abe05f4359615f0f6a *VIDEO_TS/VTS_01_3.VOB
+7dfb134d14f7189356a7743e611a4d2c *VIDEO_TS/VTS_01_4.VOB
+969e5d27c60a35005455f5a29d1e90ec *VIDEO_TS/VTS_01_5.VOB
+05a4d5931901720febbd6cae3f11b3a5 *VIDEO_TS/VTS_01_6.VOB
+
+TRANSFERRED BY:
+Mike Ziegler

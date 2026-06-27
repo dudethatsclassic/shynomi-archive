@@ -1,0 +1,60 @@
+NIRVANA
+1993-07-23 Roseland Ballroom, New York, NY 
+
+Lineage : AUD + SBD (Edited by Audacity) > WAV > Flac Frontend > FLAC [Level 8]
+
+DISC 1 (51:26)
+01 Intro 0:53 #*
+02 Serve The Servants 3:53 *
+03 Scentless Apprentice 3:42 *+
+04 School 3:14 *+
+05 Breed 2:58 *+
+06 Lithium 4:30 *+
+07 Come As You Are 3:47 *+
+08 Milk It 4:29 *+
+09 Drain You 3:48 *+
+10 tourette's 1:27 *+#
+11 Aneurysm 4:34 *#+
+12 Very Ape 2:44 *+
+13 Blew 3:32 #+
+14 Heart-Shaped Box 5:03 *+
+15 Rape Me 2:56 *+#
+
+DISC 2 (42:21)
+01 Territorial Pissings 4:46@#* (and SOURCE 4)
+02 All Apologies 5:19 #*
+03 Polly 2:50 #*
+04 Dumb 3:51 #*
+05 Something In The Way 3:29 #*
+06 Where Did You Sleep Last Night 4:06 #*
+07 (encore break) 4:00 #
+08 Smells Like Teen Spirit 4:42 #*
+09 Endless, Nameless 9:14 #*
+
+Total Running Time 1:33:51
+
+SOURCE 1 (AUD #4) ...*
+Equipment : Unknown
+Generation : Unofficial CD "I Love Myself And I Want To Live" > EAC > WAV [44.1kHz]
+
+SOURCE 2 (SBD #1) ...+ 
+soundboard > Sony TCD-D3 (DAT)
+Generation: Generation: DAT(x) >CDR(5) >FLAC > WAV [44.1kHz]
+
+SOURCE 3 (AUD #1) ...#
+Olympus ME-1S > Sony TCD-D7
+Generation: DAT(M) [48kHz] > WAV [48kHz] > WAV [44.1kHz] > FLAC [Level 8] >WAV [44.1kHz]
+
+SOURCE 4 (AUD #3b? or #2?) ...Disc 2-1 "Territorial Pissings" Only
+Generation : Unofficial CD "Make Me Sick" > WAV > FLAC > WAV [44.1kHz](Change Speed -0.55%)
+*Many Thanks to NSaberton
+
+Notes
+
+    * Kurt overdosed on heroin minutes before the show, but was revived and able to play.
+    * This was the first show with Lori Goldston on cello.
+    * This was the only show with "Big" John Duncan on second guitar. He played on "Drain You," "tourette's," "Aneurysm," and "Very Ape."
+
+
+edit, artwork by stagbeetle
+PLEASE DO NOT SALE, DO NOT ENCODE TO MP3

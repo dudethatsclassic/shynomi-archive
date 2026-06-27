@@ -1,0 +1,79 @@
+NIRVANA
+November 5, 1993
+Alumni Arena, University at Buffalo
+Buffalo, NY
+
+SOURCE (AUD #1):
+unknown > unknown
+
+TRANSFER:
+Nakamichi DR-1 > KabelDirekt RCA > ESI Juli@ soundcard > Adobe Audition CS6 > CD Wave 1.98 > Trader's Little Helper 2.7.0
+
+GENERATION:
+ANA(x) > DAT(x) [48 kHz] > WAV [48kHz] > WAV [44.1kHz] > FLAC [Level 8]
+
+LENGTH:
+89:30
+
+NOTES:
+-There are short dropouts during "In Bloom" and just before "Blew."
+
+-Although this is unknown generation, it is lower than previous "ANA(2)" versions; those
+were 2nd gen cassette copies of this DAT, processed with studio EQ and effects
+at the DAT to cassette dubbing stage.
+
+
+TRACKS:
+01. intro
+02. Radio Friendly Unit Shifter
+03. Drain You
+04. Breed
+05. Serve The Servants
+06. About A Girl
+07. Heart-Shaped Box
+08. Sliver
+09. Dumb
+10. In Bloom
+11. Come As You Are
+12. Lithium
+13. Pennyroyal Tea
+14. School
+15. Polly
+16. Milk It
+17. Rape Me
+18. Territorial Pissings
+19. All Apologies
+20. Blew
+21. On A Plain
+22. jam (with Meat Puppets and Boredoms)
+
+MD5 FINGERPRINTS:
+db2e654f6cfa69110d76216608fd6ad9 *nirvana 1993-11-05 ANAxDATx tr01.flac
+d3d40eb72e2f6e0b82eb1cb03543dd94 *nirvana 1993-11-05 ANAxDATx tr02.flac
+0d03e777b036c2a0ef057367ed438d60 *nirvana 1993-11-05 ANAxDATx tr03.flac
+3713499317c7feff37c40375587274e1 *nirvana 1993-11-05 ANAxDATx tr04.flac
+a53ee5f8e835f38a155389508eeb44e0 *nirvana 1993-11-05 ANAxDATx tr05.flac
+5b4e4834676b42608091c83fda4ca590 *nirvana 1993-11-05 ANAxDATx tr06.flac
+da2cd02d8585596e406035d0c281e1e1 *nirvana 1993-11-05 ANAxDATx tr07.flac
+3375e915ee9ee19e7eca3897d61ee9ce *nirvana 1993-11-05 ANAxDATx tr08.flac
+e82bb1d073b656a6ebe694e13f05cd2b *nirvana 1993-11-05 ANAxDATx tr09.flac
+b295529a48a393a27986d3a3bc94c7c7 *nirvana 1993-11-05 ANAxDATx tr10.flac
+28f7739864cf6c44968706613f038a18 *nirvana 1993-11-05 ANAxDATx tr11.flac
+39a752c28ad1a5907f46bef9cc688432 *nirvana 1993-11-05 ANAxDATx tr12.flac
+e3a5140f48dbbd69ab60312aaacc37ff *nirvana 1993-11-05 ANAxDATx tr13.flac
+feaa24aaeddd621fbc83d3aa3f414602 *nirvana 1993-11-05 ANAxDATx tr14.flac
+43db8fd751340100853aa4650090eb0e *nirvana 1993-11-05 ANAxDATx tr15.flac
+1c32b18513c1bb1eddbcb846083f1412 *nirvana 1993-11-05 ANAxDATx tr16.flac
+e7a88769a07d73d5737206d17ed65031 *nirvana 1993-11-05 ANAxDATx tr17.flac
+93482708e411994b37d92daf07a6704b *nirvana 1993-11-05 ANAxDATx tr18.flac
+776ec7f344ce5565feac0bafd42bdf6d *nirvana 1993-11-05 ANAxDATx tr19.flac
+755b50675ac458f057623504107b3746 *nirvana 1993-11-05 ANAxDATx tr20.flac
+75747008be695c3730faa3fc32976dce *nirvana 1993-11-05 ANAxDATx tr21.flac
+889f66a17c5db125aeec2a4985b57f49 *nirvana 1993-11-05 ANAxDATx tr22.flac
+
+
+TRANSFERRED BY:
+Rob Landis
+
+DO NOT SELL THIS RECORDING
+DO NOT ENCODE TO LOSSY OR STREAMING FORMATS WITHOUT PROVIDING A PATH TO THE LOSSLESS FILES

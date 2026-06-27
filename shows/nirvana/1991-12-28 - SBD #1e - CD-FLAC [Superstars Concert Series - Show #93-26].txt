@@ -1,0 +1,47 @@
+NIRVANA
+December 28, 1991
+Pat O'Brien Pavilion, Del Mar Fairgrounds
+Del Mar, CA
+
+SOURCE (SBD #1e):
+soundboard > unknown
+
+EXTRACTION:
+Teac CD-W512EB > Exact Audio Copy V0.95 beta 4 > Adobe Audition 2.0 > CD Wave 1.96.1 > FLAC frontend 1.7.1
+
+GENERATION:
+CD [Superstars Concert Series - Show #93-26] > WAV [44.1kHz] > FLAC [Level 8]
+
+LENGTH:
+33:13
+
+NOTES:
+- Has fake crowd noise added between some songs.
+
+TRACKS:
+01. intro
+02. Drain You
+03. School
+04. Floyd The Barber
+05. Smells Like Teen Spirit
+06. About A Girl
+07. Polly
+08. Sliver
+09. Breed
+10. Come As You Are
+11. Lithium
+
+MD5 FINGERPRINTS:
+cc0803804bd49a314b6f8477e10de8d7 *Nirvana_1991-12-28_SBD1e_t01.flac
+21bb981f45bfe91dacb7d5b62b89553f *Nirvana_1991-12-28_SBD1e_t02.flac
+78666397e5c1b2456d5218c4f83f3412 *Nirvana_1991-12-28_SBD1e_t03.flac
+efe0b216e5d8bc150c002be06728b049 *Nirvana_1991-12-28_SBD1e_t04.flac
+036ef42b9d7801b104355c1d89839cab *Nirvana_1991-12-28_SBD1e_t05.flac
+7d0f2ee777baf75eef3a0a43d471ecc7 *Nirvana_1991-12-28_SBD1e_t06.flac
+49d8b0e0a896a0e86d1c4f42b22a9f02 *Nirvana_1991-12-28_SBD1e_t07.flac
+97493ea64861fa75717cb0a88b4413ee *Nirvana_1991-12-28_SBD1e_t08.flac
+7be09c4dea3ef8035e890657300f1e31 *Nirvana_1991-12-28_SBD1e_t09.flac
+c1225bc6b247f0c931a79cca98e04410 *Nirvana_1991-12-28_SBD1e_t10.flac
+8ca197663e5f648790b3c4dcdcf74caa *Nirvana_1991-12-28_SBD1e_t11.flac
+
+PLEASE DO NOT SELL OR ENCODE TO MP3

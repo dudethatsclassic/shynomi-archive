@@ -1,0 +1,56 @@
+NIRVANA
+January 20, 1990
+Legends
+Tacoma, WA
+
+SOURCE (AMT #1):
+unknown > unknown
+
+TRANSFER:
+JVC HR-S3800U > Sony DCR-TRV730 > IEEE 1394 > Adobe Premiere Pro CS3 > TMPGEnc Plus 2.5 > Adobe Encore CS3
+
+GENERATION:
+VHS(1) > AVI [DV25] > M2V/WAV [NTSC/8Mbps CBR/48kHz PCM] > DVDR(0)
+
+LENGTH:
+54:01
+
+NOTES:
+- Has minor audio dropouts in various songs.
+
+CHAPTERS:
+01. School (cuts in)
+02. Floyd The Barber (cuts in)
+03. Love Buzz
+04. Dive (cut)
+05. Scoff
+06. All You Need Is Love (jam)
+07. If I Fell (jam)
+08. About A Girl
+09. Big Cheese
+10. Molly's Lips
+11. Token Eastern Song
+12. Spank Thru
+13. Breed
+14. Stain
+15. Been A Son
+16. Sweet Home Alabama (jam) (cuts in)
+17. Negative Creep
+18. Blew
+
+MD5 FINGERPRINTS:
+561c88b38d30c8bd66b9e6b6a147b23c *VIDEO_TS/VIDEO_TS.BUP
+561c88b38d30c8bd66b9e6b6a147b23c *VIDEO_TS/VIDEO_TS.IFO
+0d5cec66f1cdb788f06a1e264f01b3ac *VIDEO_TS/VIDEO_TS.VOB
+a907e4b297339a8baf6ccbda663149f9 *VIDEO_TS/VTS_01_0.BUP
+a907e4b297339a8baf6ccbda663149f9 *VIDEO_TS/VTS_01_0.IFO
+362d7873bbff4405e2ab904f383b473f *VIDEO_TS/VTS_01_0.VOB
+a32a34c0e85206c7c7be9fc902168097 *VIDEO_TS/VTS_01_1.VOB
+12e41d9a74dd3146a4f96ead057e206f *VIDEO_TS/VTS_01_2.VOB
+fd2faf0776870e4d909f6b8e2817e50d *VIDEO_TS/VTS_01_3.VOB
+8c1fd25dc5c394586d067cf34b5bbb3c *VIDEO_TS/VTS_01_4.VOB
+
+TRANSFERRED BY:
+Kris Sproul
+
+PLEASE DO NOT SELL OR ENCODE TO ANY OTHER FORMAT

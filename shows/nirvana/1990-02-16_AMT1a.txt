@@ -1,0 +1,56 @@
+NIRVANA
+February 16, 1990
+Bogart's
+Long Beach, CA
+
+SOURCE (AMT #1a):
+unknown > unknown
+
+EXTRACTION:
+PgcDemux 1.2.0.5 > Adobe Audition 1.5 > FLAC frontend 1.7.1
+
+GENERATION:
+VHS(1) > MINI-DV(1) > DVDR(0) [48kHz/1536kbps PCM] > WAV [48kHz] > WAV [44.1kHz] > FLAC [Level 8]
+
+LENGTH:
+46:07
+
+TRACKS:
+01. intro
+02. Love Buzz
+03. Floyd The Barber
+04. Scoff
+05. Dive
+06. Sappy
+07. About A Girl
+08. Spank Thru
+09. Breed
+10. School
+11. Been A Son
+12. Stain
+13. Negative Creep
+14. Blew
+
+MD5 FINGERPRINTS:
+c809d87992c33607a344c13c88c4d782 *Nirvana_1990-02-16_AMT1a_t01.flac
+d80799390de368d9913d8b4d8e0d0286 *Nirvana_1990-02-16_AMT1a_t02.flac
+46d08c0c88e610ba6d5ccff3538f48b2 *Nirvana_1990-02-16_AMT1a_t03.flac
+55dd7ed0e1ad848071b12144b5f28806 *Nirvana_1990-02-16_AMT1a_t04.flac
+f4a9f4dfc8189ab45b6940304f8d436c *Nirvana_1990-02-16_AMT1a_t05.flac
+89bc130af7c76165936415edc42f02f0 *Nirvana_1990-02-16_AMT1a_t06.flac
+e84d0d9df40cffcfd1f25288f1ca420e *Nirvana_1990-02-16_AMT1a_t07.flac
+0240b719dfc449376d76fd8132327e70 *Nirvana_1990-02-16_AMT1a_t08.flac
+202b3274d2224300cd860ce281261079 *Nirvana_1990-02-16_AMT1a_t09.flac
+d0511edfd0b8eb039680a06a6967a145 *Nirvana_1990-02-16_AMT1a_t10.flac
+e5248e700d05d5f93e137ca787f5e681 *Nirvana_1990-02-16_AMT1a_t11.flac
+1a7d85736800d0a90dbab9b43ce507d4 *Nirvana_1990-02-16_AMT1a_t12.flac
+00c84563d32d1d5fd122ff22d7910d90 *Nirvana_1990-02-16_AMT1a_t13.flac
+bf2c1f9f48b723bc4f59a320ec7926f3 *Nirvana_1990-02-16_AMT1a_t14.flac
+
+TRANSFERRED BY:
+Jim Hirte
+
+EXTRACTED BY:
+Pieter Vermeulen
+
+PLEASE DO NOT SELL OR ENCODE TO MP3

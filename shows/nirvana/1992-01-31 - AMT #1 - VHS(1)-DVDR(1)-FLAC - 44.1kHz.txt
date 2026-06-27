@@ -1,0 +1,76 @@
+NIRVANA
+January 31, 1992
+The Palace
+Melbourne, Australia
+
+SETLIST (66:53)
+-----------------
+00) Intro
+01) Aneurysm
+02) Drain You
+03) School
+04) Sliver
+05) About A Girl
+06) Lithium
+07) Come As You Are
+08) Breed
+09) Polly
+10) Lounge Act
+11) In Bloom
+12) Love Buzz 
+13) D-7 
+14) Smells Like Teen Spirit
+15) Negative Creep
+16) Been A Son
+17) Blew
+18) On A Plain
+19) Territorial Pissings
+
+GENERATION
+-----------------
+VHS(1) -> DVDR(1) [MPEG2 8264 mbps/48kHz 1536kbps] -> WAV [48KHz] -> WAV [44.1kHz] -> FLAC [Level 8]
+
+SOURCE (AMT #1)
+-----------------
+unknown -> unknown
+
+TRANSFER
+-----------------
+PANASONIC DMR-EZ48V
+
+EXTRACTION
+-----------------
+PgcDemux 1.2.0.5 -> Adobe Audition 1.5 -> FLAC Frontend 1.7.1
+
+EXTRACTION NOTES
+-----------------
+- Some digital errors / clicks were removed, one dropout/gap as well.
+- The balance between the right & left channel needed some adjustment to give better stereo.
+
+MD5 FINGERPRINTS
+-----------------
+5cc47da27972d5627a080cec72ba3e22 *00 Intro.flac
+edd8d8a445480cd06ba7018456173afb *01 Aneurysm.flac
+0f124865d469bd573b6c76e144bbcca3 *02 Drain You.flac
+1054bed4785890c5c522a9797cac8fa2 *03 School.flac
+7b64b47631966c8679fbb91da31c1ab6 *04 Sliver.flac
+4ae286dae6d9ad6f0e696cd6d5cf2d81 *05 About A Girl.flac
+28969289d291c5770212aab8f7519b57 *06 Lithium.flac
+1f26bf51183acee5cc6753b7cdfca9f3 *07 Come As You Are.flac
+d9ba0dfd5acd23587a6fb345cdb98071 *08 Breed.flac
+0199b3fff6204b07f0ad9cc3013e03e6 *09 Polly.flac
+13f122ef0c43967e6b53cde12d49a402 *10 Lounge Act.flac
+37eea013d39fca7f10a6c3a3a7ca7923 *11 In Bloom.flac
+bd0aff43fa5dd157203835ea9b4fd5bf *12 Love Buzz.flac
+1f182ed5b6e569fd1ec175f74a02f2a6 *13 D-7.flac
+eab52d7398797d47983f862583455520 *14 Smells Like Teen Spirit.flac
+011729e1e1878d4cc51c508f1fee8b72 *15 Negative Creep.flac
+c1b7590772da2dfb951254550a4bf005 *16 Been A Son.flac
+d60505db8b03af6fda9a76af9bcab910 *17 Blew.flac
+b0b1df61266b1d99fb7b5493146e3142 *18 On A Plain.flac
+1fabd2e6ec72052e5c42690645db7bb8 *19 Territorial Pissing.flac
+
+
+Transferred by Daniel McKie.
+Extracted by Pieter Vermeulen.
+PLEASE DO NOT ENCODE TO ANY OTHER FORMAT OR SELL !

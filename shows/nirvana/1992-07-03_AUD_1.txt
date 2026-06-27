@@ -1,0 +1,69 @@
+NIRVANA
+July 3, 1992
+Palacio de los Deportes de la Comunidad de Madrid
+Madrid, Spain
+
+SOURCE (AUD #1):
+Aiwa > Aiwa
+
+EXTRACTION:
+Pioneer DVD-116 > Feurio! 1.68 > Adobe Audition 2.0 > CD Wave 1.94.8 > FLAC frontend 1.7.1
+
+GENERATION:
+ANA(M) > remaster > CDR(2) > WAV [44.1kHz] > FLAC [Level 8]
+
+LENGTH:
+76:23
+
+TRACKS:
+01. intro
+02. The Money Will Roll Right In
+03. Breed
+04. Sliver
+05. Drain You
+06. In Bloom
+07. About A Girl
+08. School
+09. Lithium
+10. Aneurysm
+11. Stay Away
+12. Pennyroyal Tea
+13. Son Of A Gun
+14. Molly's Lips
+15. Something In The Way
+16. On A Plain
+17. Been A Son
+18. Blew
+19. Stain
+20. Come As You Are
+21. Smells Like Teen Spirit
+22. Territorial Pissings
+
+MD5 FINGERPRINTS:
+df5e8527ad17bf30fb977ad43d686f9c *Nirvana_1992-07-03_AUD1_remaster_t01.flac
+19db9abcea6f1980d3cc2d2bf825e9b6 *Nirvana_1992-07-03_AUD1_remaster_t02.flac
+f33e403a1e6cfce8bf3a74b5c9fd6075 *Nirvana_1992-07-03_AUD1_remaster_t03.flac
+1a061c8fa4f13fb396ef795c400d4faa *Nirvana_1992-07-03_AUD1_remaster_t04.flac
+635def253d1104582aaa716ba4e2870e *Nirvana_1992-07-03_AUD1_remaster_t05.flac
+c77b6cd5630629564eea2878ccf62cb7 *Nirvana_1992-07-03_AUD1_remaster_t06.flac
+7ad2d6ceeac813c3a4f2c28c4e0fd2e4 *Nirvana_1992-07-03_AUD1_remaster_t07.flac
+2625f77c54c7d48cde47ed17c9c4c732 *Nirvana_1992-07-03_AUD1_remaster_t08.flac
+c425aa14b268eeee96945e6457d4633a *Nirvana_1992-07-03_AUD1_remaster_t09.flac
+edaab3aa7436ac16bb97cd8862b167b5 *Nirvana_1992-07-03_AUD1_remaster_t10.flac
+402fcb9206fbc3f7289f4facd518a477 *Nirvana_1992-07-03_AUD1_remaster_t11.flac
+8c98eb3b1afd59062bd7f7da0fece36c *Nirvana_1992-07-03_AUD1_remaster_t12.flac
+a9fd1376b7db086faa60902ed5e0cad9 *Nirvana_1992-07-03_AUD1_remaster_t13.flac
+d60335af72567bff454e2f2c9ee9c10a *Nirvana_1992-07-03_AUD1_remaster_t14.flac
+f67d8757a1695d1ae3a7d6d433779eac *Nirvana_1992-07-03_AUD1_remaster_t15.flac
+754886af371c3ea049cb1a2da172657e *Nirvana_1992-07-03_AUD1_remaster_t16.flac
+9de4cde9db65b66526df3dcb29b2fa12 *Nirvana_1992-07-03_AUD1_remaster_t17.flac
+0b568d7d305b77f5e2d82528b6771ed6 *Nirvana_1992-07-03_AUD1_remaster_t18.flac
+07938947f3eae68f1c1a7e38d5f5ea2d *Nirvana_1992-07-03_AUD1_remaster_t19.flac
+795ffaa09d2e08cd77fffa6bc8116ae5 *Nirvana_1992-07-03_AUD1_remaster_t20.flac
+b82ed973c3bba9f6cb676bee2452f368 *Nirvana_1992-07-03_AUD1_remaster_t21.flac
+a5a40bb718587afba39787c695daa80e *Nirvana_1992-07-03_AUD1_remaster_t22.flac
+
+EXTRACTED BY:
+Carlos Paramio
+
+PLEASE DO NOT SELL OR ENCODE TO MP3

@@ -1,0 +1,28 @@
+NIRVANA
+October 21, 1990
+Maida Vale Studio 3
+London, UK
+
+DISC #1/1 (0:08)
+-----------------
+01) Jam
+
+GENERATION
+-----------------
+OFFICIAL DVD ["WITH THE LIGHTS OUT DISC 4"] -> WAV [48kHz] -> FLAC [Level 8]
+
+SOURCE (AMT#1b)
+-----------------
+unknown -> unknown
+
+EXTRACTION
+-----------------
+Philips DVDR1660P1 -> DVD Decrypter v3.5.4.0 -> PgcDemux v1.2.0.5 -> Adobe Audition 1.5 -> FLAC Frontend 1.7.1
+
+MD5 FINGERPRINTS
+-----------------
+1f19ed673b16a3ced427fe224859d04f *nirvana1990-10-21_AMTCLIP#1b_Jam.flac
+
+
+Extracted by PV.
+PLEASE DO NOT ENCODE TO MP3 OR SELL!

@@ -1,0 +1,38 @@
+NIRVANA
+January 16, 1993
+Estádio Cícero Pompeu de Toledo (Hollywood Rock Festival)
+São Paulo, Brazil
+
+DISC #1/1 (9:54)
+-----------------
+01) School
+02) Drain You (cut)
+03) Smells Like Teen Spirit (cut)
+04) Seasons In The Sun (cut)
+
+GENERATION
+-----------------
+VHS(1) -> DVDR(2) [PCM] -> WAV [48kHz] -> WAV [44.1kHz] -> FLAC [Level 8]
+
+SOURCE (PRO#2)
+-----------------
+unknown -> unknown
+
+EXTRACTION
+-----------------
+NEC ND-3500AG -> DVD Decrypter 3.5.4.0 -> Adobe Audition 2.0 -> CD Wave 1.95.1 -> FLAC Frontend 1.7.1
+
+NOTES
+-----------------
+"Smells Like Teen Spirit" and "Seasons In The Sun" are in mono.
+
+MD5 FINGERPRINTS
+-----------------
+04ca3654f96af684efc0e58677008205 *nirvana1993-01-16t01.flac
+5a9e11e7fed940c91162f44b50f1e1b1 *nirvana1993-01-16t02.flac
+add1c0f62272646404ecbccab0f9e385 *nirvana1993-01-16t03.flac
+7c2c9a1b0d238c41041549cc8e3fd85a *nirvana1993-01-16t04.flac
+
+
+Extracted by Mike Ziegler.
+PLEASE DO NOT ENCODE TO MP3 OR SELL!

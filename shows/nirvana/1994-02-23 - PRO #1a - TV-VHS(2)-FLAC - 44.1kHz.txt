@@ -1,0 +1,27 @@
+NIRVANA
+February 23, 1994
+RAI Centro di Produzione TV Studi Nomentano (Tunnel)
+Rome, Italy
+
+SOURCE (PRO #1a):
+soundboard > unknown
+
+TRANSFER:
+JVC HR-S9500 > Canopus ADVC55 > IEEE 1394 > Adobe Premiere Pro 2.0 > Adobe Audition 3.0 > Trader's Little Helper 2.6.0
+
+GENERATION:
+TV > VHS(2) > WAV [48kHz] > WAV [44.1kHz] > FLAC [Level 8]
+
+LENGTH:
+4:59
+
+TRACKS:
+01. Serve The Servants
+
+MD5 FINGERPRINTS:
+85e4103f8f7179883ac6d54333391a90 *Nirvana_1994-02-23_PRO1a_t01.flac
+
+TRANSFERRED BY:
+Mike Ziegler
+
+PLEASE DO NOT SELL OR ENCODE TO MP3

@@ -1,0 +1,75 @@
+NIRVANA
+December 18, 1993
+The Coliseum
+Denver, CO
+
+DISC #1/2 (52:07)
+-----------------
+01) intro
+02) Radio Friendly Unit Shifter
+03) Drain You
+04) Breed
+05) Serve The Servants
+06) Come As You Are
+07) Smells Like Teen Spirit
+08) Sliver
+09) Dumb
+10) In Bloom
+11) About A Girl
+12) Pennyroyal Tea
+13) School
+14) Polly
+15) Frances Farmer Will Have Her Revenge On Seattle
+16) Milk It (cut)
+
+DISC #2/2 (29:05)
+-----------------
+01) Rape Me (cut)
+02) Territorial Pissings
+03) The Man Who Sold The World
+04) All Apologies
+05) On A Plain
+06) Heart-Shaped Box
+07) Blew
+
+GENERATION
+-----------------
+ANA(M) -> WAV [48kHz] -> WAV [44.1kHz] -> FLAC [Level 8]
+
+SOURCE (AUD#2)
+-----------------
+unknown -> Sony WM-F2401
+
+TRANSFER
+-----------------
+Nakamichi DR-8 -> Hosa RCA cable -> LynxONE analog-in -> Adobe Audition 1.5 -> CD Wave 1.94.8 -> FLAC Frontend 1.7.1
+
+MD5 FINGERPRINTS
+-----------------
+868d8cc306367f84328f3ec871e2da9f *nirvana1993-12-18d1t01.flac
+eabff5ccaf30c979a7072ec601dd8981 *nirvana1993-12-18d1t02.flac
+840271fe4755d61b3904bee212d3cb25 *nirvana1993-12-18d1t03.flac
+7e4df31fef1343a491d252892e9829a6 *nirvana1993-12-18d1t04.flac
+a40b6e0374e68ea29db62b76d6a9a48b *nirvana1993-12-18d1t05.flac
+3c185066d6e1022efb7c699f33f9957f *nirvana1993-12-18d1t06.flac
+c8f1a24fb1f43b0044f2190c12c615ed *nirvana1993-12-18d1t07.flac
+9417fc5123f6d4162a91b4b1f4b09bf2 *nirvana1993-12-18d1t08.flac
+8cc1bbc4a6a642e7f680d86f92972126 *nirvana1993-12-18d1t09.flac
+c17192c40f88a5cb087e306b895d01dc *nirvana1993-12-18d1t10.flac
+96d2878e4f15efa55dce28bd018a41c8 *nirvana1993-12-18d1t11.flac
+ab76551e569d2cb94be9f2c83baa2199 *nirvana1993-12-18d1t12.flac
+90484fb1d0732919fe2b62a89a4dea67 *nirvana1993-12-18d1t13.flac
+cb52b2c50c71b2df9cbd8d4978bd2961 *nirvana1993-12-18d1t14.flac
+f759f1330bd304ecea44f9d87cc1f7b1 *nirvana1993-12-18d1t15.flac
+07db9f0ab69ad0708f71a58eac854331 *nirvana1993-12-18d1t16.flac
+ff6b5aa3fbed41320df4fa71a85ad4bc *nirvana1993-12-18d2t01.flac
+04e47087897c79b3bead2f0bc5240ce5 *nirvana1993-12-18d2t02.flac
+7b0d893a942ecb94b35edfc0a3d80f3c *nirvana1993-12-18d2t03.flac
+1ca6887f44cec75faab9312db22d315e *nirvana1993-12-18d2t04.flac
+dce956194e60cd6fec2fcec0ed1d95af *nirvana1993-12-18d2t05.flac
+f3f1f3bf2673fcbd5e3017764d4f0e02 *nirvana1993-12-18d2t06.flac
+2864fb8a00ef3d83787492956d33f5f9 *nirvana1993-12-18d2t07.flac
+
+
+Transferred by Mike Ziegler.
+PLEASE DO NOT ENCODE TO MP3 OR SELL!

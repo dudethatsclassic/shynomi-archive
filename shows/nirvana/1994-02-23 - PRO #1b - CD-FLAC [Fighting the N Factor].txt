@@ -1,0 +1,29 @@
+NIRVANA
+February 23, 1994
+RAI Studios (Tunnel)
+Rome, Italy
+
+SOURCE (PRO #1b):
+soundboard > unknown
+
+EXTRACTION:
+NEC ND-1300A > Exact Audio Copy V0.95 prebeta 5 > Adobe Audition 1.5 > CD Wave 1.93 beta > FLAC frontend 1.7.1
+
+GENERATION:
+CD [Fighting The "N" Factor] > WAV [44.1kHz] > FLAC [Level 8]
+
+LENGTH:
+6:01
+
+TRACKS:
+01. Serve The Servants
+02. Dumb
+
+MD5 FINGERPRINTS:
+8c0bf1e261007af95f898ee5c72ac358 *Nirvana_1994-02-23_PRO1b_t01.flac
+5d5ba93046cb762f349b9cdc679fb98d *Nirvana_1994-02-23_PRO1b_t02.flac
+
+EXTRACTED BY:
+Andreas Magnusson
+
+PLEASE DO NOT SELL OR ENCODE TO MP3

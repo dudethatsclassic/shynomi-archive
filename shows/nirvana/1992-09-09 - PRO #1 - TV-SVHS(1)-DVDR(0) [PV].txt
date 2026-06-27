@@ -1,0 +1,29 @@
+NIRVANA
+September 9, 1992
+UCLA's Pauley Pavilion (MTV Video Music Awards)
+Los Angeles, CA
+
+SETLIST (5:11)
+-----------------
+01) Rape Me (intro) > Lithium
+
+GENERATION
+-----------------
+TV > SVHS(1) > MPEG-2 > M2V REMASTER [8Mbps CBR] > MV2/WAV [8Mbps CBR/48kHz PCM] > DVDR(0) 
+
+SOURCE (PRO#1)
+-----------------
+soundboard -> unknown
+
+MD5 FINGERPRINTS
+-----------------
+29c40e85b1f1ef707df241f0b4dc1a0f *VIDEO_TS\VIDEO_TS.BUP
+29c40e85b1f1ef707df241f0b4dc1a0f *VIDEO_TS\VIDEO_TS.IFO
+39531e6f9dc3bb9d4f4fc4f4fd906834 *VIDEO_TS\VTS_01_0.BUP
+39531e6f9dc3bb9d4f4fc4f4fd906834 *VIDEO_TS\VTS_01_0.IFO
+fec6a4e555e66a636b7782d242c4e766 *VIDEO_TS\VTS_01_1.VOB
+
+
+Transferred by unknown.
+Remastered & Authored by Pieter Vermeulen.
+PLEASE DO NOT ENCODE TO MP3 OR SELL!

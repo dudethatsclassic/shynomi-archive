@@ -1,0 +1,64 @@
+NIRVANA
+February 21, 1994
+Palasport
+Modena, Italy
+
+SOURCE (AMT #1):
+built-in > Sony CCD-F55E
+
+TRANSFER:
+Sony DCR-TRV320E > IEEE 1394 > Adobe Premiere Pro 2.0 > TMPGEnc Plus 2.5 > Adobe Encore DVD 2.0
+
+GENERATION:
+8MM(M) [PAL] > AVI [DV25] > M2V/WAV [7.5Mbps CBR/48kHz PCM] > DVDR(0) [dual layer]
+
+LENGTH:
+90:09
+
+NOTES:
+- Has a dropout in "Jesus Wants Me For A Sunbeam."
+
+CHAPTERS:
+01. intro
+02. Radio Friendly Unit Shifter
+03. Drain You
+04. Breed
+05. Serve The Servants
+06. Come As You Are
+07. Smells Like Teen Spirit
+08. Sliver
+09. Dumb
+10. In Bloom
+11. About A Girl
+12. Lithium
+13. Pennyroyal Tea
+14. School
+15. Polly
+16. Very Ape
+17. Lounge Act
+18. Rape Me
+19. Territorial Pissings
+20. Jesus Wants Me For A Sunbeam
+21. The Man Who Sold The World
+22. All Apologies
+23. On A Plain
+24. Scentless Apprentice
+25. Heart-Shaped Box
+
+MD5 FINGERPRINTS:
+36c9625d25cd47436e93856250e4c51c *VIDEO_TS/VIDEO_TS.BUP
+36c9625d25cd47436e93856250e4c51c *VIDEO_TS/VIDEO_TS.IFO
+abcb4e90035778d2eece6c7ff65e5c82 *VIDEO_TS/VIDEO_TS.VOB
+f5c5fbbf04befb82258e217bb2b2f986 *VIDEO_TS/VTS_01_0.BUP
+f5c5fbbf04befb82258e217bb2b2f986 *VIDEO_TS/VTS_01_0.IFO
+4bcdaf5c1214303c7b613194e03e74e8 *VIDEO_TS/VTS_01_0.VOB
+b7daa102ce8645c0c4042229ae693175 *VIDEO_TS/VTS_01_1.VOB
+95197b8d3beb2705d8cf34d6191af091 *VIDEO_TS/VTS_01_2.VOB
+7f8de99646dabe4a5ec484bf6e4e5207 *VIDEO_TS/VTS_01_3.VOB
+c21a94d32019d04df236096cc7aebb46 *VIDEO_TS/VTS_01_4.VOB
+01f39f725836624737fff4067f876c15 *VIDEO_TS/VTS_01_5.VOB
+21aeba11bffb3cadfbc1deb621b88448 *VIDEO_TS/VTS_01_6.VOB
+3a9cd390aeb8ca20e549f22839bf6459 *VIDEO_TS/VTS_01_7.VOB
+
+TRANSFERRED BY:
+Mike Ziegler

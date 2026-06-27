@@ -1,0 +1,57 @@
+NIRVANA
+October 30, 1992
+Estadio de Velez Sarsfield
+Buenos Aires, Argentina
+
+SOURCE (SBD #1d):
+soundboard > unknown
+
+TRANSFER:
+Nakamichi DR-8 > Echo Layla24 > Adobe Audition 1.5 > CD Wave 1.94.5 > FLAC frontend 1.7.1
+
+GENERATION:
+FM > ANA(x) > WAV [48kHz] > WAV [44.1kHz] > FLAC [Level 8]
+
+LENGTH:
+51:42
+
+TRACKS:
+01. Drain You
+02. Beeswax
+03. Spank Thru
+04. School
+05. Come As You Are
+06. Lithium
+07. About A Girl (cuts out)
+08. Polly
+09. jam
+10. In Bloom
+11. Been A Son
+12. On A Plain
+13. Negative Creep
+14. Blew
+15. All Apologies
+16. Endless, Nameless (cuts out)
+
+MD5 FINGERPRINTS:
+35299723816843b58b8a70b1e8fafd6c *Nirvana_1992-10-30_SBD1d_t01.flac
+a97ff40f73bc57c834057d4d4d28a985 *Nirvana_1992-10-30_SBD1d_t02.flac
+ef024939a8aa002a692345b768ae6743 *Nirvana_1992-10-30_SBD1d_t03.flac
+3e27a20e0341bd8d590180478af731db *Nirvana_1992-10-30_SBD1d_t04.flac
+c614992567bd9b0f51996f7e8f97f9a2 *Nirvana_1992-10-30_SBD1d_t05.flac
+f3c869aeaedae9822911341d1b94a707 *Nirvana_1992-10-30_SBD1d_t06.flac
+1966ad523aeca9bc7171929a3b7781fc *Nirvana_1992-10-30_SBD1d_t07.flac
+422b8f902aa3e805afa31a6e2bd88636 *Nirvana_1992-10-30_SBD1d_t08.flac
+2e50dd9d9f3328628541a4957b7d6bb6 *Nirvana_1992-10-30_SBD1d_t09.flac
+6f1e2236dd3ab9a2ea8cd22c9988b63b *Nirvana_1992-10-30_SBD1d_t10.flac
+d7c43fe9ba073069f17218ae15d8db2b *Nirvana_1992-10-30_SBD1d_t11.flac
+27d0a340da1793e497d04f9c9722d6a0 *Nirvana_1992-10-30_SBD1d_t12.flac
+3f85107e1fbc771285a32d6239f7aec5 *Nirvana_1992-10-30_SBD1d_t13.flac
+4d805d96c95fa4faede3044f53dac73c *Nirvana_1992-10-30_SBD1d_t14.flac
+34e0b48c6d9de28003e965372542e945 *Nirvana_1992-10-30_SBD1d_t15.flac
+c7551de00b0ab74ffd38c1c5e01e5894 *Nirvana_1992-10-30_SBD1d_t16.flac
+
+TRANSFERRED BY:
+Kris Sproul
+
+PLEASE DO NOT SELL OR ENCODE TO MP3

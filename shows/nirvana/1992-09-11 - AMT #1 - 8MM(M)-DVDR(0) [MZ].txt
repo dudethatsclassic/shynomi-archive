@@ -1,0 +1,43 @@
+NIRVANA
+September 11, 1992
+Seattle Center Coliseum (Washington Music Industry Coalition Benefit)
+Seattle, WA
+
+SETLIST (24:55)
+-----------------
+SOUNDCHECK
+01) jam(s)
+
+SET
+02) All Apologies
+03) Been A Son
+04) Blew
+05) Dumb (cut)
+06) Rape Me (cut)
+07) Stay Away
+08) Love Buzz (cut)
+09) Territorial Pissings (cut)
+
+GENERATION
+-----------------
+8MM(M) -> AVI [DV25] -> M2V/AC3 [9Mbps CBR/448kbps AC3] -> DVDR(0)
+
+SOURCE (AMT#1)
+-----------------
+built-in -> unknown
+
+MD5 FINGERPRINTS
+-----------------
+9fe0ec4005645195519b655e16b36273 *VIDEO_TS/VIDEO_TS.BUP
+9fe0ec4005645195519b655e16b36273 *VIDEO_TS/VIDEO_TS.IFO
+2924429357af70a7f5f2b67c229f9605 *VIDEO_TS/VIDEO_TS.VOB
+4229ac5404f1ca041534e6b8857f7e53 *VIDEO_TS/VTS_01_0.BUP
+4229ac5404f1ca041534e6b8857f7e53 *VIDEO_TS/VTS_01_0.IFO
+d3789f1032267e1e3e8bda9ec610507b *VIDEO_TS/VTS_01_0.VOB
+8e4e7263d3274230b7b146c97ad2932b *VIDEO_TS/VTS_01_1.VOB
+f8065f6c55b6bdc9d1217c5f1b3ac49b *VIDEO_TS/VTS_01_2.VOB
+
+
+Transferred by Mike Ziegler.
+PLEASE DO NOT ENCODE TO ANY OTHER FORMAT OR SELL!
+

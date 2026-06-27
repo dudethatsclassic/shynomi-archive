@@ -1,0 +1,38 @@
+NIRVANA
+February 9, 1990
+Pine Street Theatre
+Portland, OR
+
+DISC #1/1 (02:01)
+-----------------
+01) Molly's Lips
+
+GENERATION
+-----------------
+OFFICIAL 7" ["Candy / Molly's Lips"] -> WAV [24bit, 96kHz] -> FLAC [Level 8]
+
+CODE
+-----------------
+SP97
+
+TRANSFER
+-----------------
+JVC L-A55 -> Kenwood KA-36 -> ESI Juli @ -> Wavelab 6.11 -> Adobe Audition 1.5 + Izotope RX 2.01.390 Advanced -> FLAC Frontend 1.7.1
+
+TRANSFER NOTES
+-----------------
+- The vinyl was cleaned with Triton X100 vinyl cleaning solution.
+- Normalized to 98 %.
+- Used spectral view to manually edit out clicks, pops and tiny hiss.
+- No remastering was done whatsoever.
+
+SIDE NOTES
+-----------------
+- This comes off the black vinyl pressed in 3500 copies.  The green vinyl was pressed in 4000 copies.
+
+MD5 CHECKSUMS
+-----------------
+a451886bb8775822a6a3fcf2ade6383f *Nirvana_1990-02-09_SBD2b_t01.flac
+
+Transferred by PV.
+PLEASE DO NOT ENCODE TO ANY OTHER FORMAT OR SELL!

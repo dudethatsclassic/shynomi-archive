@@ -1,0 +1,57 @@
+NIRVANA
+February 12, 1990
+Cattle Club
+Sacramento, CA
+
+SOURCE (AMT #2):
+unknown > unknown
+
+EXTRACTION:
+Sony Optiarc AD-7260S > DVD Decrypter 3.5.4.0 > Adobe Audition 3.0 > CD Wave 1.98 > Trader's Little Helper 2.6.0
+
+GENERATION:
+VHS(M) > DVDR(1) [PCM] > WAV [48kHz] > WAV [44.1kHz] > FLAC [Level 8]
+
+LENGTH:
+61:16
+
+TRACKS:
+01. intro
+02. California Über Alles (jam)
+03. Love Buzz (cut)
+04. Floyd The Barber
+05. School
+06. About A Girl
+07. Dive
+08. Polly
+09. Molly's Lips
+10. Sappy
+11. Scoff
+12. Breed
+13. Been A Son
+14. Stain
+15. Negative Creep
+16. Blew
+
+MD5 FINGERPRINTS:
+fa2e7a1cc449b1bc4c87cb97484e636a *Nirvana_1990-02-12_AMT2_t01.flac
+901fba6dcf2ffc5cd678f7ecbfaf60cf *Nirvana_1990-02-12_AMT2_t02.flac
+d8695800cc46438232e9e82a31d64a5b *Nirvana_1990-02-12_AMT2_t03.flac
+4cedfca3cd97a50a1ab5714314acfe9a *Nirvana_1990-02-12_AMT2_t04.flac
+a299345858c0c7dde6ced9d0964a24d6 *Nirvana_1990-02-12_AMT2_t05.flac
+9021a78a9e76b57b044f94563ab2a9cd *Nirvana_1990-02-12_AMT2_t06.flac
+f163bfc9064bb6072f764b91185dec12 *Nirvana_1990-02-12_AMT2_t07.flac
+5d570c333705d233d75a12d472be0590 *Nirvana_1990-02-12_AMT2_t08.flac
+2f2847674252ce7455c67e1bb8068042 *Nirvana_1990-02-12_AMT2_t09.flac
+196967d7e482a89da7bbc6169ba2f8d4 *Nirvana_1990-02-12_AMT2_t10.flac
+73160f169a3f3c16c2705548f810e1e6 *Nirvana_1990-02-12_AMT2_t11.flac
+9f72246a6dea088bf1f3857399d4a63e *Nirvana_1990-02-12_AMT2_t12.flac
+ecce2ba72b4ebbbd0cd424d31d4893d0 *Nirvana_1990-02-12_AMT2_t13.flac
+6eea8e44a66be5b40f148860a719f69e *Nirvana_1990-02-12_AMT2_t14.flac
+92fde98f6a59e2ca21b8208fcbef808d *Nirvana_1990-02-12_AMT2_t15.flac
+2f726f65901120121a0a05608b146fa2 *Nirvana_1990-02-12_AMT2_t16.flac
+
+EXTRACTED BY:
+Mike Ziegler
+
+PLEASE DO NOT SELL OR ENCODE TO MP3

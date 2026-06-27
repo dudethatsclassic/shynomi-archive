@@ -1,0 +1,38 @@
+NIRVANA
+June 22, 1992
+The King's Hall
+Belfast, United Kingdom
+
+SOURCE (PRO CLIP #1e):
+soundboard > unknown
+
+TRANSFER:
+unknown
+
+GENERATION:
+unknown > MKV
+
+EXTRACTION:
+Freemake Video Converter 4.1.10
+
+LENGTH:
+00:15 Min - Incomplete
+
+NOTES:
+- unknown transfer. Tim Bucknall extraction.
+- Includes clips of 'Polly'and 'Blew'.
+- Same camera angles as PRO CLIP #1a but picture is of higher quality but less complete.
+- Broadcast by Canal+
+ 
+TRACKS:
+01. Polly (clip)
+02. Blew (clip)
+
+MD5 FINGERPRINTS:
+4D64CDA7684D80A795E55B910E93939C *Nirvana_1992-06-22_Blew_Reportaje 'Canal+.mkv
+BE1F98FA34C0928D7904B604085153EE *Nirvana_1992-06-22_Polly_Reportaje 'Canal+.mkv
+
+COMPILED BY:
+Fabian Beyer
+
+PLEASE DO NOT SELL OR ENCODE TO MP3

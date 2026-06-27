@@ -1,0 +1,64 @@
+NIRVANA
+February 27, 1994
+Hala Tivoli
+Ljubljana, Slovenia
+
+DISC #1/1 (60:39)
+-----------------
+01) Breed
+02) Serve The Servants
+03) Come As You Are
+04) Sliver
+05) Dumb
+06) In Bloom
+07) About A Girl
+08) Stojim Na Kantunu (jam)
+09) Lithium
+10) Pennyroyal Tea
+11) School
+12) Polly
+13) Very Ape
+14) Lounge Act
+15) Rape Me
+16) Territorial Pissings
+17) The Man Who Sold The World
+18) All Apologies (cut)
+19) On A Plain
+
+GENERATION
+-----------------
+ANA(1) -> DAT(1) -> WAV [48kHz] -> WAV [44.1kHz] -> FLAC [Level 8]
+
+SOURCE (AUD#1)
+-----------------
+unknown -> unknown
+
+TRANSFER
+-----------------
+Tascam DA-20 MKII -> Apogee S/PDIF cable -> LynxONE digital-in -> Adobe Audition 2.0 -> CD Wave 1.95.1 -> FLAC Frontend 1.7.1
+
+MD5 FINGERPRINTS
+-----------------
+b3dc5a5e07a5e91cdc759735d22d802b *nirvana1994-02-27t01.flac
+dec8805e4805687a38bf1dde3c367de0 *nirvana1994-02-27t02.flac
+1f53725bff68356b93fa6682021a3bbd *nirvana1994-02-27t03.flac
+1848c4a686424682c197e6e3264fb4ba *nirvana1994-02-27t04.flac
+d9a6a4e0805d0901d2c38f9ccdc69287 *nirvana1994-02-27t05.flac
+b4fdb9044e8795f7e3556ddf5afa7b49 *nirvana1994-02-27t06.flac
+2012bd24a0d312edd6efffedffefa4bf *nirvana1994-02-27t07.flac
+da631a813a146e045d7daf4cbe10ea04 *nirvana1994-02-27t08.flac
+662189973d02d76a1203ed559f2a646c *nirvana1994-02-27t09.flac
+02231b53ab82dbf4971ada3cfd8f4b1b *nirvana1994-02-27t10.flac
+b55c3ec8ce20a9f788aee4beb562ee96 *nirvana1994-02-27t11.flac
+638199c0a66fec28788cefa8c8ea6d6a *nirvana1994-02-27t12.flac
+ddac79c85c90fdef33a856f4b49d676c *nirvana1994-02-27t13.flac
+bc5845eb2f82e41aa8653188b0653512 *nirvana1994-02-27t14.flac
+ec8d963a85bf46fd0e2cb28e264ca115 *nirvana1994-02-27t15.flac
+3d4650c5bc772b73b96c670f893eeedd *nirvana1994-02-27t16.flac
+47ce80cd6e37ef4a8df46c151f3f85cd *nirvana1994-02-27t17.flac
+2df753d61c4e1e6b6e80610e41aab7c0 *nirvana1994-02-27t18.flac
+59ffd44fbb6ce7d2bdbf3e6bd34f654b *nirvana1994-02-27t19.flac
+
+
+Transferred by Mike Ziegler.
+PLEASE DO NOT ENCODE TO MP3 OR SELL!

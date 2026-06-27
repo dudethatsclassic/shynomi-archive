@@ -1,0 +1,56 @@
+-----------------
+
+NIRVANA
+November 20, 1991
+Kryptonight
+Baricella, Italy
+
+SOURCE (AMT #1):
+built-in > Sony CCD-F55E
+
+TRANSFER:
+Sony DCR-TRV320E > IEEE 1394 > Adobe Premiere Pro 2.0 > TMPGEnc Plus 2.5 > Adobe Encore DVD 2.0
+
+GENERATION:
+8MM(M) [PAL] > AVI [DV25] > M2V/WAV [7.5Mbps CBR/48kHz PCM] > DVDR(0)
+
+LENGTH:
+64:53
+
+CHAPTERS:
+01. intro
+02. Drain You
+03. Aneurysm
+04. School
+05. Floyd The Barber
+06. About A Girl
+07. Polly
+08. Smells Like Teen Spirit
+09. Lithium
+10. Come As You Are
+11. Sliver
+12. Breed
+13. Been A Son
+14. Negative Creep
+15. Something In The Way
+16. On A Plain
+17. Blew
+18. Jesus Wants Me For A Sunbeam
+19. In Bloom
+20. Territorial Pissings
+
+MD5 FINGERPRINTS:
+fc7e6980add0c71aa36526cc28abe9d4 *VIDEO_TS/VIDEO_TS.BUP
+fc7e6980add0c71aa36526cc28abe9d4 *VIDEO_TS/VIDEO_TS.IFO
+f6622c67e2c24cb9ee2ed5e5cc306201 *VIDEO_TS/VIDEO_TS.VOB
+e5a9efcf877ddce833999ca51c59805e *VIDEO_TS/VTS_01_0.BUP
+e5a9efcf877ddce833999ca51c59805e *VIDEO_TS/VTS_01_0.IFO
+318cda84edd32612096b0d630ac4ced7 *VIDEO_TS/VTS_01_0.VOB
+113a4f027930fd2afa818aa516a23f81 *VIDEO_TS/VTS_01_1.VOB
+20af46eddbe3a79700f994597325e258 *VIDEO_TS/VTS_01_2.VOB
+ded1f12a124b5ba50e60f8d8edf9d02b *VIDEO_TS/VTS_01_3.VOB
+04b20a1f5dae6a3d1941e1967fd9330b *VIDEO_TS/VTS_01_4.VOB
+cc1e5216569aed91679eb2bdae2fe00f *VIDEO_TS/VTS_01_5.VOB
+
+TRANSFERRED BY:
+Mike Ziegler

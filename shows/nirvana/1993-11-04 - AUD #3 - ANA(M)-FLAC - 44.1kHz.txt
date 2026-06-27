@@ -1,0 +1,93 @@
+Nirvana
+November 4, 1993
+Maple Leaf Gardens
+Toronto, Ontario, Canada
+
+Source: Stock Aiwa Stereo Mic > Aiwa Walkman >  AUD #3 Maxell XLII CASS(M)
+Transfer: AIWA AD-F810 3-Head Cassette Deck > Hosa Cables > EMU0404 > CEP2.1 (recording, cutting, no fx) > FLAC (level 8, verify enabled)
+Taper: Andymon
+Transfer: Five
+
+Setlist:
+01. Radio Friendly Unit Shifter
+02. Drain You
+03. Breed
+04. About A Girl
+05. Heart-Shaped Box
+06. Sliver
+07. Serve The Servants
+08. Dumb
+09. In Bloom
+10. Come As You Are
+11. Lithium
+12. Pennyroyal Tea
+13. School
+14. Polly
+15. Milk It
+16. Rape Me
+17. Territorial Pissings
+18. All Apologies
+19. Jam
+20. Jesus Wants Me For A Sunbeam
+21. On A Plain
+22. Scentless Apprentice
+23. Blew
+
+Notes:  2005-11-13 This is a new raw transfer direct from the AUD #3 master with no processing. I only removed a few large "klunks" from when the recorder was being turned off and on. Blank tape from the beginning and end of the cassette is included for potential future mastering use. FLACs tagged using foobar2000 v0.8.3. Thanks to Andymon for providing this source.
+
+http://www.livenirvana.com/tourhistory/93/11-04-93.php
+
+*********************************
+MP3 ONLY FOR PERSONAL USE
+NOT FOR SALE, ONLY FOR FREE TRADE
+*********************************
+
+26c8f3793dd234855baf4e4b754e72d3  [shntool]  nirvana1993-11-04t01.flac
+efb433c0702062743ea94fc82a3a2971  [shntool]  nirvana1993-11-04t02.flac
+3082704f7141e6708cd89eb29faf4b6b  [shntool]  nirvana1993-11-04t03.flac
+f8e92242b942af39122785cf1c2192c1  [shntool]  nirvana1993-11-04t04.flac
+a16d67b2da1b8b0b1b9932d45c3ea3f1  [shntool]  nirvana1993-11-04t05.flac
+76f0ac78f3281a1eccd68149459b3eb0  [shntool]  nirvana1993-11-04t06.flac
+c6f10088f2b3c95f986aa9469a3696ba  [shntool]  nirvana1993-11-04t07.flac
+72874774d8ce3de450fe69147e14ce84  [shntool]  nirvana1993-11-04t08.flac
+92025263d05d69c746e3e058a0a7a5e4  [shntool]  nirvana1993-11-04t09.flac
+6365efff481b2ce393970932ad60fa54  [shntool]  nirvana1993-11-04t10.flac
+140a8eeb1491e60cc7c7961e4d318a90  [shntool]  nirvana1993-11-04t11.flac
+2e73099f4cd05aedc1a395f0a09ce6f8  [shntool]  nirvana1993-11-04t12.flac
+f45c8df11ed1d5328617b90cd81e09c3  [shntool]  nirvana1993-11-04t13.flac
+d1dfc1944d751172794821e22479da84  [shntool]  nirvana1993-11-04t14.flac
+43c9743020d82a161643f0a2d62d7ed3  [shntool]  nirvana1993-11-04t15.flac
+0c270cd63f4034ce0fe5f01a0e6bfa53  [shntool]  nirvana1993-11-04t16.flac
+61951b9d9f2245cab9999329282ac3d3  [shntool]  nirvana1993-11-04t17.flac
+e8f764c918b4c3677b7aff743487c700  [shntool]  nirvana1993-11-04t18.flac
+122ed58484691965bd86e7f5d6ca6edc  [shntool]  nirvana1993-11-04t19.flac
+ee7db5e752696c7134f7f873465a526f  [shntool]  nirvana1993-11-04t20.flac
+9ac35f413db3c48f1e320cd5a6300961  [shntool]  nirvana1993-11-04t21.flac
+f704a25f4c455457553a0678f6521a7c  [shntool]  nirvana1993-11-04t22.flac
+6425f027a4b2386b340a0b87ec0c6cad  [shntool]  nirvana1993-11-04t23.flac
+
+    length     expanded size   cdr  WAVE problems filename
+     6:25.49       68029292    ---   --   ---xx   nirvana1993-11-04t01.flac
+     3:45.07       39706508    ---   --   ---xx   nirvana1993-11-04t02.flac
+     3:26.69       36500732    ---   --   ---xx   nirvana1993-11-04t03.flac
+     3:29.54       36994652    ---   --   ---xx   nirvana1993-11-04t04.flac
+     4:58.10       52590764    ---   --   ---xx   nirvana1993-11-04t05.flac
+     2:51.57       30298508    ---   --   ---xx   nirvana1993-11-04t06.flac
+     5:03.19       53493932    ---   --   ---xx   nirvana1993-11-04t07.flac
+     2:45.49       29221292    ---   --   ---xx   nirvana1993-11-04t08.flac
+     4:32.55       48110204    ---   --   ---xx   nirvana1993-11-04t09.flac
+     3:57.66       41962076    ---   --   ---xx   nirvana1993-11-04t10.flac
+     4:22.01       46219196    ---   --   ---xx   nirvana1993-11-04t11.flac
+     3:43.63       39485420    ---   --   ---xx   nirvana1993-11-04t12.flac
+     3:28.65       36844124    ---   --   ---xx   nirvana1993-11-04t13.flac
+     3:30.46       37152236    ---   --   ---xx   nirvana1993-11-04t14.flac
+     4:06.67       43552028    ---   --   ---xx   nirvana1993-11-04t15.flac
+     2:39.27       28111148    ---   --   ---xx   nirvana1993-11-04t16.flac
+     3:03.22       32332988    ---   --   ---xx   nirvana1993-11-04t17.flac
+     3:58.46       42091436    ---   --   ---xx   nirvana1993-11-04t18.flac
+     2:17.38       24256220    ---   --   ---xx   nirvana1993-11-04t19.flac
+     5:06.18       54020780    ---   --   ---xx   nirvana1993-11-04t20.flac
+     3:25.39       36253772    ---   --   ---xx   nirvana1993-11-04t21.flac
+     4:22.71       46383836    ---   --   ---xx   nirvana1993-11-04t22.flac
+     5:55.21       62671436    ---   --   ---xx   nirvana1993-11-04t23.flac
+    91:17.59      966282580 B                     (totals for 23 files, 0.6914 overall compression ratio)

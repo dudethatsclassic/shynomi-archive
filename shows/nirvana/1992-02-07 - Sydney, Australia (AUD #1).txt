@@ -1,0 +1,65 @@
+NIRVANA
+February 7, 1992
+Selina's, The Coogee Bay Hotel
+Sydney, Australia
+
+SOURCE (AUD #1):
+Sonic Studios DSM-3 > Sony TCD-D3
+
+TRANSFER:
+Seagate CTD8000R-S > DAT2WAV 1.2b > Adobe Audition 1.5 > CD Wave 1.94.5 > FLAC frontend 1.7.1
+
+GENERATION:
+DAT(2) [48kHz] > WAV [48kHz] > WAV [44.1kHz] > FLAC [Level 8]
+
+LENGTH:
+78:00
+
+TRACKS:
+01. intro
+02. Jesus Wants Me For A Sunbeam
+03. Aneurysm
+04. School
+05. Drain You
+06. Come As You Are
+07. Lithium
+08. About A Girl
+09. Sliver
+10. Breed
+11. Polly
+12. Smells Like Teen Spirit
+13. Where Did You Sleep Last Night
+14. Love Buzz
+15. On A Plain
+16. Blew
+17. jam
+18. Hairspray Queen (jam)
+19. jam
+20. Endless, Nameless
+
+MD5 FINGERPRINTS:
+ba28949f41242e00fa84cf3c5286818e *Nirvana_1992-02-07_AUD1_t01.flac
+f372a0c4f334a9efbb9cae920dd07438 *Nirvana_1992-02-07_AUD1_t02.flac
+055602632aeb90c8c8c790d281e3808e *Nirvana_1992-02-07_AUD1_t03.flac
+16769f137c5f1f12f2afd0f602dbc69a *Nirvana_1992-02-07_AUD1_t04.flac
+7be718e646dc4bf63fbcfed762350b24 *Nirvana_1992-02-07_AUD1_t05.flac
+1c470cf69673b45520ce77674a9d808c *Nirvana_1992-02-07_AUD1_t06.flac
+42ff85fa35baa7177bd437f4bae82ba2 *Nirvana_1992-02-07_AUD1_t07.flac
+a996fc14c3a28087c2b43a5d736592a9 *Nirvana_1992-02-07_AUD1_t08.flac
+ad364884786ea2c78b30e0376e65f5cb *Nirvana_1992-02-07_AUD1_t09.flac
+af53028a6b7bf6c318dce412ec15d135 *Nirvana_1992-02-07_AUD1_t10.flac
+955db18638de619d8d5bb1bdaa48ad6e *Nirvana_1992-02-07_AUD1_t11.flac
+c5cd05e02d341872a3f1bcc7ad4e562c *Nirvana_1992-02-07_AUD1_t12.flac
+f09d3bb10639584c8572249aab1002a4 *Nirvana_1992-02-07_AUD1_t13.flac
+52ab30929aa81a509c2e5d3a30266e67 *Nirvana_1992-02-07_AUD1_t14.flac
+72c8c5078ef0c93a1c7054c74ccabe54 *Nirvana_1992-02-07_AUD1_t15.flac
+d78d1057847f13150defb27ca340b414 *Nirvana_1992-02-07_AUD1_t16.flac
+5bcb31847e9f0a74dcd21a823e82fb91 *Nirvana_1992-02-07_AUD1_t17.flac
+85c10319fd360a55e6ffb7f9b0216b3c *Nirvana_1992-02-07_AUD1_t18.flac
+de21206789cbdc720fff88b5730e32b8 *Nirvana_1992-02-07_AUD1_t19.flac
+a052c0e8060f9a04c149d3ba43f0d57a *Nirvana_1992-02-07_AUD1_t20.flac
+
+TRANSFERRED BY:
+Kris Sproul
+
+PLEASE DO NOT SELL OR ENCODE TO MP3

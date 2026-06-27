@@ -1,0 +1,50 @@
+﻿NIRVANA
+April 26th, 1990
+Pyramid Club
+New York,NY
+
+
+————
+SOURCE: AUD#1a (Unknown/Unknown)
+————
+TRANSFER: Unknown
+———
+GENERATION:
+ANA(M) -> CD-R(4) -> FLAC
+————
+LENGTH:
+43:56
+———
+
+SETLIST
+
+School
+Floyd The Barber
+Love Buzz
+Dive
+Spank Thru
+Breed
+About A Girl
+Big Cheese
+In Bloom
+Scoff
+Been A Son
+
+——————
+MD5 Fingerprints
+—————
+b0306007f6b9645dd0c038d73e70ecfc *01 Piste 01.flac
+3d0bdaf0a321b3f9eed13f829cea36f7 *02 Piste 02.flac
+01172e1d9b08d7b182c1a8a1f6bd11c3 *03 Piste 03.flac
+4c3c94390342980eb960751802b3f617 *04 Piste 04.flac
+679125a96bd185237dacda557a1e7f0e *05 Piste 05.flac
+ec2a125fc9e3cc3d7e6609fd67e159ad *06 Piste 06.flac
+bf777c82d7a548f611224ad470922606 *07 Piste 07.flac
+29af2b100eb62db54042751af6bff5c4 *08 Piste 08.flac
+8b07b4a32dc5a701e9478ed2cc09972d *09 Piste 09.flac
+e570275cd2169d6403776f7e92e63030 *10 Piste 10.flac
+baaf94daa7561d4bfcf3f55629b41fe3 *11 Piste 11.flac
+
+Extracted By David Lajeunesse
+Special Thanks to Eric Robillard
+Do Not Sell Or Encode to MP3

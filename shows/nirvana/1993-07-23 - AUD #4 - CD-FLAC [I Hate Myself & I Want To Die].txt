@@ -1,0 +1,70 @@
+NIRVANA
+July 23, 1993
+Roseland Ballroom (New Music Seminar)
+New York, NY
+
+DISC #1/1 (74:00)
+-----------------
+01) Serve The Servants
+02) Scentless Apprentice
+03) School
+04) Breed
+05) Lithium
+06) Come As You Are
+07) Milk It
+08) Drain You
+09) tourette's
+10) Aneurysm (cut)
+11) Very Ape
+12) Heart-Shaped Box
+13) Rape Me
+14) All Apologies
+15) Polly
+16) Dumb
+17) Something In The Way
+18) Where Did You Sleep Last Night
+19) Smells Like Teen Spirit
+20) Endless, Nameless
+
+GENERATION
+-----------------
+CD ["I Hate Myself And I Want To Die" bootleg] -> WAV [44.1kHz] -> FLAC [Level 8]
+
+SOURCE (AUD#4)
+-----------------
+unknown -> unknown
+
+TRANSFER
+-----------------
+Plextor PlexWriter PX-W4824A -> Exact Audio Copy V0.95 -> Sound Forge 7.0 -> CD Wave 1.93 beta -> FLAC Frontend 1.7.1
+
+NOTES
+-----------------
+Corrected track order.
+
+MD5 FINGERPRINTS
+-----------------
+fef220c4ef5a04ff72f9ce94c487be88 *nirvana1993-07-23t01.flac
+9fd6a2426663889da9630e0301d565e9 *nirvana1993-07-23t02.flac
+d68ef6156968e2cf42ce837f1ece3849 *nirvana1993-07-23t03.flac
+c778c8f7b1697c8f41ca66a58f959d2b *nirvana1993-07-23t04.flac
+f88c71e208f4c24870464db1d3fd4eec *nirvana1993-07-23t05.flac
+da6d294a70372400c4ddc530ca950949 *nirvana1993-07-23t06.flac
+44db201f205ac4d787f790b382260e56 *nirvana1993-07-23t07.flac
+ed00693efdb8511df75cbe21c06eaea3 *nirvana1993-07-23t08.flac
+3931aeb9772b66d9f208a3046b354dcd *nirvana1993-07-23t09.flac
+3e76180ee244f5230020fc75d7785f16 *nirvana1993-07-23t10.flac
+63565eadc4958116fa3d540a64c234f0 *nirvana1993-07-23t11.flac
+6f05cf51fed5658273b02cbce25b73a9 *nirvana1993-07-23t12.flac
+8f1d8c8bd13815712edb192e923f821b *nirvana1993-07-23t13.flac
+47d37b3d49c93486990c686467aeff1f *nirvana1993-07-23t14.flac
+f8f36e5c5d6eae44ce1e8c69b3f87612 *nirvana1993-07-23t15.flac
+aa03117c5f0547d6e522946e82ba6f43 *nirvana1993-07-23t16.flac
+c1c3fd79c2b0d33c552ca5dde38fae4c *nirvana1993-07-23t17.flac
+153f1d45b4b051ccaace18e554ffa44d *nirvana1993-07-23t18.flac
+e3791b9910d3fb2dbab3a54ec8d48157 *nirvana1993-07-23t19.flac
+ff26309d02021005a978ef4eddc044d7 *nirvana1993-07-23t20.flac
+
+
+Transferred by Mike Ziegler.
+PLEASE DO NOT ENCODE TO MP3 OR SELL!

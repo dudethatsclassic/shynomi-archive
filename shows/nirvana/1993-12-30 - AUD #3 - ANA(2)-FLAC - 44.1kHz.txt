@@ -1,0 +1,73 @@
+NIRVANA
+December 30, 1993
+Great Western Forum
+Inglewood, CA
+
+SOURCE (AUD #3):
+unknown > unknown
+
+TRANSFER:
+Nakamichi CR-7A > Hosa RCA cable > LynxONE analog-in > Adobe Audition 3.0 > CD Wave 1.98 > FLAC frontend 1.7.1
+
+GENERATION:
+ANA(2) > WAV [48kHz] > WAV [44.1kHz] > FLAC [Level 8]
+
+LENGTH:
+92:45
+
+TRACKS (DISC 1):
+01. Radio Friendly Unit Shifter
+02. Drain You
+03. Breed
+04. Serve The Servants
+05. Come As You Are
+06. Smells Like Teen Spirit
+07. Sliver
+08. Dumb
+09. In Bloom
+10. About A Girl
+11. Lithium
+12. Pennyroyal Tea
+13. School
+
+TRACKS (DISC 2):
+01. Polly
+02. Frances Farmer Will Have Her Revenge On Seattle
+03. Rape Me
+04. Territorial Pissings
+05. Jesus Wants Me For A Sunbeam
+06. The Man Who Sold The World
+07. All Apologies
+08. On A Plain
+09. Heart-Shaped Box
+10. Blew
+
+MD5 FINGERPRINTS:
+a36ddc482fd335d4995a3d66a4923f75 *Nirvana_1993-12-30_AUD3_d1t01.flac
+45de9ad450db1d0bcbb7301fa1b1c157 *Nirvana_1993-12-30_AUD3_d1t02.flac
+86d50ba757b59a456c3500190cf6cfd1 *Nirvana_1993-12-30_AUD3_d1t03.flac
+23f633e97ae21d1d9223e2abbf720a73 *Nirvana_1993-12-30_AUD3_d1t04.flac
+9519a4e68ebcca9fe30303c13ad707e1 *Nirvana_1993-12-30_AUD3_d1t05.flac
+8063f1367e6ae087718e6e6f163ca59d *Nirvana_1993-12-30_AUD3_d1t06.flac
+fc140526a83440143bf4d30144327518 *Nirvana_1993-12-30_AUD3_d1t07.flac
+cd6b9124a53075b9320c09c2f29d2a65 *Nirvana_1993-12-30_AUD3_d1t08.flac
+2e6be4a042eb6d580b7ad8a166ecffff *Nirvana_1993-12-30_AUD3_d1t09.flac
+e58d4efa61c69f16ce925d067dbd62fa *Nirvana_1993-12-30_AUD3_d1t10.flac
+a371388b067932399c6d7d1512a2681c *Nirvana_1993-12-30_AUD3_d1t11.flac
+34e23aedf0ac4c5ff331e7dac6db4c97 *Nirvana_1993-12-30_AUD3_d1t12.flac
+9d02524ce086e831f8b581285a833ea8 *Nirvana_1993-12-30_AUD3_d1t13.flac
+ad0495ba231a1a99aa8e4bd63bdaf4dc *Nirvana_1993-12-30_AUD3_d2t01.flac
+db48bdc68cda2f4e3274de93a1dcd41f *Nirvana_1993-12-30_AUD3_d2t02.flac
+849401d2afb794ed3594763d46bf8669 *Nirvana_1993-12-30_AUD3_d2t03.flac
+bc207cd2002fb857ff16c827cc290e35 *Nirvana_1993-12-30_AUD3_d2t04.flac
+ca84e4ab17e9a2c3390ff1308e1063e1 *Nirvana_1993-12-30_AUD3_d2t05.flac
+bc5142904c608bd2285375e3a9dbfa96 *Nirvana_1993-12-30_AUD3_d2t06.flac
+f2693ac0e6227893704ad508687a26d2 *Nirvana_1993-12-30_AUD3_d2t07.flac
+70d0c3058edfa1b4056b593b6d6ed8d7 *Nirvana_1993-12-30_AUD3_d2t08.flac
+e7c81c9e4274fc2b07b23cc4b4da320e *Nirvana_1993-12-30_AUD3_d2t09.flac
+2b7ab290afe24296b4efe299ddf65ddd *Nirvana_1993-12-30_AUD3_d2t10.flac
+
+TRANSFERRED BY:
+Mike Ziegler
+
+PLEASE DO NOT SELL OR ENCODE TO MP3
